@@ -1,0 +1,3094 @@
+# Hidden pseudospin and spin symmetries and their Origins in atomic nuclei
+
+Haozhao Lianga.b, Jie Menga.c,d,\*, Shan-Gui Zhoue.f
+
+aState Key Laboratory of Nuclear Physics and Technology, School of Physics,Peking University, Beijing 100871,China （20 $b$ RIKEN Nishina Center, Wako 351-0198, Japan   
+cSchool of Physics and Nuclear Energy Engineering, Beihang University, Beijing lOo191, China dDepartment of Physics, University of Stellenbosch, Stellenbosch, South Africa   
+eState Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing100190, China   
+fCenter of Theoretical Nuclear Physics, National Laboratory of Heavy Ion Accelerator, Lanzhou 730000, China
+
+# Abstract
+
+Symmetry plays a fundamental role in physics. The quasi-degeneracy between single-particle orbitals $( n , l , j = l + 1 / 2 )$ and $( n - 1 , l + 2 , j = l + 3 / 2 )$ indicates a hidden symmetry in atomic nuclei, the so-called pseudospin symmetry (PSS). Since the introduction of the concept of PSS in atomic nuclei, there have been comprehensive efforts to understand its origin. Both splittings of spin doublets and pseudospin doublets play critical roles in the evolution of magic numbers in exotic nuclei discovered by modern spectroscopic studies with radioactive ion beam facilities. Since the PSS was recognized as a relativistic symmetry in 1990s, many special features,including the spin symmetry (SS） for anti-nucleon,and many new concepts have been introduced. In the present Review, we focus on the recent progress on the PSS and SS in various systems and potentials, including extensions of the PSS study from stable to exotic nuclei, from non-confining to confining potentials, from local to non-local potentials, from central to tensor potentials, from bound to resonant states, from nucleon to anti-nucleon spectra, from nucleon to hyperon spectra, and from spherical to deformed nuclei. Open issues in this field are also discussed in detail, including the perturbative nature, the supersymmetric representation with similarity renormalization group, and the puzzle of intruder states.
+
+Keywords: Single-particle spectra, Spin symmetry, Pseudospin symmetry, Supersymmetry, Covariant density functional theory PACS: 21.10.-k,21.10.Pc, 21.60.Jz, 11.30.Pb, 03.65.Pm
+
+# Contents
+
+1Introduction 5
+
+2General Features 17   
+2.1 Dirac and Schrodinger-like equations . 17   
+2.1.1 Dirac equations. 17   
+2.1.2 Schrodinger-like equations. 19   
+2.2 Analytical solutions at PSS limit 21   
+2.2.1 Relativistic harmonic oscillator potential 22   
+2.2.2 Relativistic Morse potential 24   
+2.3 PSS breaking in realistic nuclei . 32   
+2.3.1 Covariant density functional theory 32   
+2.3.2 PSS in single-particle energies 36   
+2.3.3 PSS in single-particle wave functions 42
+
+# 3PSS and SS in Various Systems and Potentials 45
+
+3.1 From stable nuclei to exotic nuclei 45   
+3.2 From non-confining potentials to confining potentials 48   
+3.2.1Nodal structure for non-confining potentials 49   
+3.2.2Nodal structure for confining potentials 53   
+3.2.3 Exact PSS in confining potentials 56   
+3.3 From local potentials to non-local potentials 59   
+3.3.1 Relativistic Hartree-Fock theory 60   
+3.3.2PSS in non-local potentials . 61   
+3.4 From central potentials to tensor potentials 66   
+3.4.1 Linear tensor potential 68   
+3.4.2Tensor potential of $\omega$ meson 70   
+3.4.3 Tensor potential of $\rho$ and $\pi$ mesons 73   
+3.5 From bound states to resonant states 76   
+3.5.1 PSS in single-particle resonant states with ACCC 77   
+3.5.2 PSS in single-particle resonant states with CSM . 80   
+3.5.3 PSS in single-particle resonant states with Jost functions . 81   
+3.5.4 PSS in single-particle resonant states in square-well po  
+tentials. 85   
+3.6From nucleon spectra to anti-nucleon spectra 89   
+3.6.1 SS in single-anti-nucleon spectra 90   
+3.6.2 SS in single-anti-nucleon wave functions 94   
+3.6.3 SS in single-anti-nucleon spectra in local potentials . 95   
+3.6.4 SS in single-anti-nucleon spectra in non-local potentials. 99   
+3.7 From nucleon spectra to hyperon spectra . 102   
+3.7.1 SS in single-anti-Lambda spectra 103   
+3.7.2 Polarization effects on SS 106   
+3.7.3 Tensor effects on SS 107   
+3.8 From spherical nuclei to deformed nuclei 115   
+3.8.1 PSS in deformed nuclei . 116   
+3.8.2 Evolution of PSS with deformation 117   
+3.8.3 PSS in deformed single-particle wave functions . 119
+
+# 4Open Issues on PSS and SS 120
+
+4.1 Perturbative or not 120   
+4.1.1 Non-perturbative behaviors of PSS 121   
+4.1.2 PSS as a dynamical symmetry 124   
+4.1.3 RHO as a PSS limit . 125   
+4.1.4 Perturbative investigation of PSS . 127   
+4.2 Intruder states 134   
+4.2.1 Bound states in non-confining potentials . 135   
+4.2.2 Bound states in confining potentials 136   
+4.2.3 Zeros of Jost function: Bound and resonant states . 137   
+4.2.4 A continuous transformation between SS and PSS .140   
+4.2.5 Supersymmetric transformation 145   
+4.3 SUSY and SRG 145   
+4.3.1 Supersymmetric quantum mechanics 148   
+4.3.2 SUSY for Schrodinger-like equations 150   
+4.3.3 Similarity renormalization group . 157   
+4.3.4 Perturbation with SRG and SUSY 162   
+4.3.5 SUSY for Dirac equations 175
+
+# Appendix A
+
+# 1. Introduction
+
+The establishment of nuclear shell model is one of the most important milestones in nuclear physics. Similar to that of electrons orbiting in an atom, protons and neutrons in a nucleus form shell structures. The corresponding socalled magic numbers are found to be 2,8, 20,28,50,and 82 for both protons and neutrons as well as 126 for neutrons in stable nuclei [1,2]. The abundance of a nucleus with the magic numbers of proton and/or neutron is normally more than its neighboring nuclei. The magic numbers manifest themselves as a sudden jump in the plots of the two-nucleon separation energies [3], the $\alpha$ -decay halflives,neutron-capture cross sections,and also the isotope shifts as functions of nucleon number [4]. They also appear as peaks in the abundance pattern in the solar systems in astrophysics.
+
+In order to understand these magic numbers, starting from some simple models such as the square well or harmonic oscillator (HO） potential with analytical solutions, nuclear physicists tried to solve the corresponding Schrodinger equations． In 1949,independently,Haxel,Jensen，and Suess [1] and Mayer [2] introduced the spin-orbit (SO) potential which largely splits the states with high orbital angular momentum. In combination with the usual mean-field harmonic Oscillator, square well, or Woods-Saxon potentials, the strong spin-orbit potential, although added by hand, excellently reproduces all traditional magic numbers in nuclear physics. Apart from the magic numbers, it also provides wonderful descriptions for nuclear ground-state and some low-lying excited-state properties.
+
+Therefore, the substantial spin symmetry (SS) breaking between the spin doublets $( n , l , j = l \pm 1 / 2 )$ is one of the most important concepts in nuclear structure.
+
+The success of the nuclear shell model or spin-orbit potential is unprecedented. For light nuclei $( A ~ \lesssim ~ 2 5 )$ the rotational features of nuclear spectra can be understood in a many-particle spherical shell-model framework in terms of the SU(3） coupling scheme of Elliott and Harvey [5-7]. By introducing the deformation-dependent oscillator length, Nilsson et al. [8, 9] extended the shell model to the deformed cases and built the foundation for describing not only the deformed nuclei but also nuclear rotation phenomena. Even nowadays, searching for new magic numbers and investigating shell structure evolution for unstable nuclei is still one of the key topics for the radioactive ion beam facilities worldwide [10].
+
+After the successful reproduction of the magic numbers, the shell model with strong spin-orbit potential became the strongest candidate of the standard nuclear model and almost the entire nuclear physics community was exploring and enjoying the new physics brought in by this model. Here we mentioned “almost"” because there were a few groups who were examining the nuclear shell model in a different way.
+
+These groups were not satisfied with simply reproducing the magic numbers or the splittings between the spin doublets. By examining the single-particle spectra,Hecht and Adler [11] and Arima,Harvey，and Shimizu [l2] found the near degeneracy between two single-particle states with quantum numbers $( n , l , j = l + 1 / 2 )$ and $( n - 1 , l + 2 , j = l + 3 / 2 )$ . They introduced the so-called pseudospin symmetry (PSS) and defined the pseudospin doublets as $( \tilde { n } = n - 1 , \tilde { l } =$ $l + 1 , j = \tilde { l } \pm 1 / 2 )$ to explain this near degeneracy. This is illustrated in Fig.1.
+
+![](images/19a97c9265367c2ababe2157f5aa23756ec7694d813d469bf0efaec4d9963f22.jpg)
+
+Figure 1: (Color online) Schematic nuclear single-particle spectrum. On one hand,the strong spinorbit splittings between the spin doublets $( n , l , j = l \pm 1 / 2 )$ lead to the traditional magic numbers. On the other hand, pairs of single-particle states in braces, $( n , l , j = l + 1 / 2 )$ and $( n - 1 , l + 2 , j =$ $l + 3 / 2 )$ ,are quasi-degenerate. They are defined as the pseudospin doublets $( \tilde { n } = n - 1 , \tilde { l } = l + 1 , j =$ $\tilde { l } \pm 1 / 2 )$ , and the pseudospin symmetry is introduced for such near degeneracy.
+
+The pseudospin symmetry remains an important physical concept in axially deformed [13-16] and even triaxially deformed [17,18] nuclei. Based on this concept, a simple but useful pseudo-SU(3) model was proposed,and this model was generalized to be the (pseudo-)symplectic model [15,16,19-22], (also see Ref.[23] and references therein). The pseudospin symmetries have been also extensively used in the odd-mass nuclei in the context of the interacting BosonFermion model [24-27].
+
+Although the concept of pseudospin symmetry was based on the observation of empirical single-particle spectra, it remained to be a purely theoretical subject for nearly 2O years before the discovery of the nuclear superdeformed identical rotation bands [28]. From then on,a lot of phenomena in nuclear structure have been successfully interpreted directly or implicitly by the pseudospin symmetry, including nuclear superdeformed configurations [29,3O], identical bands [31-33], quantized alignment [34], and pseudospin partner bands [35,36]. The pseudospin symmetry may also manifest itself in magnetic moments and transitions [37-39] and $\gamma$ -vibrational states in nuclei [4O] as well as in nucleon-nucleus and nucleonnucleon scatterings [41-44]. In addition, the relevance of pseudospin symmetry in the structure of halo nuclei [45] and superheavy nuclei [46, 47] was pointed out.
+
+In the 21st century, it has been intensively shown that the traditional magic numbers can change in nuclei far away from the stability line [1O]. It is found that both splitings of spin and pseudospin doublets play critical roles in the shell structure evolution． For example, the $N = 2 8$ shell closure disappears due to the quenching of the spin-orbit splitting for the $_ { \nu 1 f }$ spin doublets [48-51], and the $Z = 6 4$ subshell closure is closely related to the restoration of pseudospin symmetry for the $\pi 2 \tilde { p }$ and $\pi 1 { \tilde { f } }$ pseudospin doublets [52-54]. Therefore, it will be quite interesting and challenging to understand shell closure and pseudospin symmetry on the same footing, in particular for superheavy and exotic nuclei near the limit of nucleus existence.
+
+Since the recognition of pseudospin symmetry in atomic nuclei, there have been comprehensive efforts to understand its origin. Apart from the formal relabelling of quantum numbers, various explicit transformations from the normal scheme to the pseudospin scheme have been proposed [55-58]. In 1982,Bohr, Hamamoto,and Mottelson [55] discussed the pseudospin symmetry in rotating nuclear potentials,and found that such a symmetry is very helpful to understand qualitatively the feature of quasi-particle motion in rotating potentials. Based on the single-particle Hamiltonian of the harmonic oscillator shell model, they tried to understand the origin of pseudospin symmetry in terms of the spinorbit potential introduced by hand, and also the orbit-orbit term,which has been artificially added in the Nilsson model. It turns out that the origin of pseudospin symmetry is connected with a special ratio between the strengths of the spin-orbit and orbit-orbit interactions. This idea was followed by the groups at Louisiana State University, University of California, and National Autonomous University of Mexico (UNAM),and they tried to understand the spin-orbit and orbit-orbit potentials in order to explain the pseudospin symmetry [30, 56-58].
+
+The relation between the pseudospin symmetry and the relativistic mean-field (RMF) theory [59-64] was first noted in Ref.[3O],where the relativistic meanfield theory was used to explain approximately such a special ratio between the strengths of the spin-orbit and orbit-orbit interactions.
+
+In order to see the connection with the relativistic mean-field or the covariant density functional theory (CDFT),it will be quite illuminating to examine the Dirac equation governing the motion of nucleons. The corresponding singleparticle wave functions are given in the form of the Dirac spinor, which has both the upper and lower components. For the spherical case,by looking into the Dirac spinor, it is interesting to note that the upper and lower components have the same total angular momentum $j$ but not the orbital angular momentum l. Their orbital angular momenta $l$ differ by one unit. In the normal labelling of the single-nucleon states, the $l$ of the dominant upper component is used. Equivalently, one can also use the quantum number of the lower component to label the single-nucleon states. In 1997, Ginocchio [65] revealed that the pseudospin symmetry is essentially a relativistic symmetry of the Dirac Hamiltonian and the pseudo-orbital angular momentum l is nothing but the orbital angular momentum of the lower component of the Dirac spinor. He also showed that the pseudospin symmetry in nuclei is exactly conserved when the scalar potential $S \left( r \right)$ and the vector potential $V ( r )$ have the same size but opposite sign, i.e., $\Sigma ( r ) \equiv S ( r ) + V ( r ) = 0$ . This discovery not only reveals the origin of pseudospin symmetry but also demonstrates an unexpected success of the relativistic mean-field theory. It should be noted the pseudospin symmetry is a special case of the Bell-Reugg symmetries [66], as pointed out in Section 2 of Ref. [67].
+
+One can also go one step further to reduce the Dirac equation into the secondorder differential equation for either the upper or lower component. Then for the upper and lower components there will be the spin-orbit and pseudospinorbit (PSO） potentials,respectively governing the relevant partner splittings. If either the spin-orbit or pseudospin-orbit potential vanishes,it will lead to the corresponding spin or pseudospin symmetry. The derivative for the sum of the scalar and vector potentials, i.e., $d \Sigma ( r ) / d r$ ,determines the pseudospin symmetry. The pseudospin symmetry is exact under the condition $d \Sigma ( r ) / d r = 0$ [68]. This condition means that the pseudospin symmetry becomes much better for exotic nuclei with a highly diffused potential [69]. Approximately,the pseudospin symmetry is connected with the competition between the pseudo-centrifugal barrier (PCB) and the pseudospin-orbit potential. However, in either limit, $\Sigma ( r ) =$ 0or $d \Sigma ( r ) / d r = 0$ , there are no longer bound states, thus the pseudospin symmetry is always broken in realistic nuclei. In this sense,the pseudospin symmetry is viewed as a dynamical symmetry [7O-72] or it is of the non-perturbative nature [73-76].
+
+Following discussions for spherical nuclei, the study of pseudospin symmetry within the relativistic framework was quickly extended to deformed ones [77,78]. As the pseudospin symmetry is a relativistic symmetry, the wave functions of the pseudospin partners satisfy certain relations. These relations have been tested in both spherical and deformed nuclei [77,79-82].
+
+Although the doubt on the connection between the pseudospin symmetry and the condition $\Sigma ( r ) \ = \ 0$ or $d \Sigma ( r ) / d r = 0$ exists [83-85], following the pseudospin symmetry limit, a lot of discussions about the pseudospin symmetry in single-particle spectra have been made by exactly or approximately solving the Dirac equation with various potentials, for examples, the one-dimensional WoodsSaxon potential [86]， the two-dimensional Smorodinsky-Winternitz potential [87], the spherical harmonic oscillator [88-96],anharmonic oscillator [97], Coulomb [76,98-101], Deng-Fan [102],diatomic molecular [103,104],Eckart [105,106],Hellmann [107]，Hulthén [108-111],Manning-Rosen [112-114], Mie-type [115-117],Morse [118-123],Poschl-Teller [124-133],Rosen-Morse [134-137], Tietz-Hua [138],Woods-Saxon [139-143],and Yukawa [144-147] potentials,as well as the deformed harmonic oscillator [148-153],anharmonic oscillator [154,155],Hartmann [156,157]，Hylleraas [158],Kratzer [159], Makarov [160],Manning-Rosen [161],and ring-shaped [162-165] potentials. Self-consistently, the pseudospin symmetry in spherical [45,73,79,166-177] and deformed [77, 78,81, 82,178-180] nuclei have been investigated within relativistic mean-field and relativistic Hartree-Fock (RHF) [181-184] theories. One of interesting topics is the tensor effects on the pseudospin symmetry or spin symmetry, which has been investigated in some of the above-mentioned works [45, 53,89, 92, 173] and also in Refs.[185, 186].
+
+For the many-body problems in quantum mechanics, the basis expansion is one of the standard methods, e.g.,the solutions of the Schrodinger equation with a harmonic oscillator potential as a widely used basis. For the Dirac equation, there exist not only the positive-energy states in the Fermi sea but also the negativeenergy states in the Dirac sea, where the negative-energy states correspond to the anti-particle states. When the solutions of the Dirac equation are used as a complete basis,e.g.，the Dirac Woods-Saxon basis [187], the states with both positive and negative energies must be included [184, 187-194].
+
+When Zhou， Meng，and Ring developed the relativistic mean-field theory in a Dirac Woods-Saxon basis [187], they examined carefully the negativeenergy states in the Dirac sea and found that the pseudospin symmetry of those negative-energy states, or equivalently, the spin symmetry in the anti-nucleon spectra is very well conserved [195]. Furthermore, they have shown that the spin symmetry in the anti-nucleon spectra is much better developed than the pseudospin symmetry in normal nuclear single-particle spectra. It should be noted that, by applying the charge conjugate transformation, the spin symmetry for antinucleon states have been formally conjectured in Ref. [196]. The spin symmetry in the anti-nucleon spectra was also tested by investigating relations between Dirac wave functions of spin doublets with the relativistic mean-field theory [197]. Later, this spin symmetry was studied with the relativistic Hartree-Fock theory and the contribution from the Fock term was analyzed [198]. It has been pointed out in Ref. [195] that an open problem related to the experimental study of the spin symmetry in the anti-nucleon spectra is the polarization effect caused by the annihilation of anti-nucleons in a normal nucleus. Detailed calculations of the anti-baryon annihilation rates in the nuclear environment showed that the in-medium annihilation rates are strongly suppressed by a significant reduction of the reaction $\boldsymbol { Q }$ values，leading to relatively long-lived anti-baryon-nucleus systems [199]. Recently, the spin symmetry in the anti $\Lambda$ spectra of hypernuclei was studied quantitatively [2O0-2O2],which may be free from the problem of annihilation. This kind of study would be of great interests for possible experimental tests.
+
+In recent years,there has been an increasing interest in the exploration of continuum and resonant states,especially in the studies of exotic nuclei with unusual $N / Z$ ratios.In exotic nuclei, the neutron (or proton) Fermi surface is close to the particle continuum; thus, the contribution of the continuum is important [190-194,203-218]. Many methods or models developed for the studies of resonances [219] have been adopted to locate the position and to calculate the width of a nuclear resonant state,e.g., the analytical continuation in coupling constant (ACCC) method [220-225], the real stabilization method [226-231], the complex scaling method (CSM) [232-235], the coupled channels method [236-
+
+238],and some others [239, 240].
+
+The study of symmetries in resonant states is certainly interesting, e.g., the pseudospin symmetry [241-245] and spin symmetry [246] in single-particle resonant states. Recently, Lu, Zhao, and Zhou [247] gave a rigorous verification of the pseudospin symmetry in single-particle resonant states. They have shown that the pseudospin symmetry in single-particle resonant states in nuclei is exactly conserved under the same condition for the pseudospin symmetry in bound states, i.e., $\Sigma ( r ) = 0$ or $d \Sigma ( r ) / d r = 0$ [247-249]. The exact conservation and breaking mechanism of the pseudospin symmetry in single-particle resonances for spherical square-well potentials have been investigated, in which the pseudospin symmetrybreaking part can be separated from other parts in the Jost functions. By examining zeros of Jost functions corresponding to the lower components of radial Dirac wave functions, general properties of pseudospin symmetry splittings of the energies and widths are examined. As noted in Ref.[247], it is straightforward to extend the study of the pseudospin symmetry in resonant states in the Fermi sea to that in the negative-energy states in the Dirac sea or spin symmetry in anti-particle continuum spectra.
+
+Works are also in progress for understanding the origin of pseudospin symmetry and its breaking mechanism in a perturbative way. On one hand, the perturbation theory was used in Refs.[250, 251] to investigate the symmetries of the Dirac Hamiltonian and their breaking in realistic nuclei. This provides a clear way for investigating the perturbative nature of pseudospin symmetry. An illuminating example is that the energy splittings of the pseudospin doublets can be regarded as a result of perturbation of the Hamiltonian with a relativistic harmonic oscillator (RHO) potential, where the pseudospin doublets are degenerate [250].
+
+On the other hand, supersymmetric (SUSY) quantum mechanics [252, 253] was used to investigate the symmetries of the Dirac Hamiltonian [254-256], also see Refs. [143，257-261]. In particular, by employing both exact and broken supersymmetries， the phenomenon that all states with $\tilde { l } \ > \ 0$ have their own pseudospin partners except for the so-called intruder states can be interpreted naturally within a unified scheme. A pseudospin symmetry-breaking potential without a singularity can also be obtained with the supersymmetric technique [255],in contrast to the singularities appearing in the reduction of the Dirac equation to a Schrodinger-like equation for the lower component of the Dirac spinor. However, by reducing the Dirac equation to a Schrodinger-like equation for the upper component, the corresponding effective Hamiltonian is not Hermitian, since the upper component wave functions alone, as the solutions of the Schrodinger-like equation,are not orthogonal to each other. In order to fulfill the orthonormality,an additional differential relation between the lower and upper components must be taken into account. By doing so, effectively, the upper components alone are orthogonal with respect to a different metric [255]. Such fact that the corresponding effective Hamiltonian is not Hermitian prevents us from being able to perform quantitative perturbation calculations.
+
+Recent works by Guo and coauthors [262-264] bridged the perturbation calculations and the supersymmetric descriptions by using the similarity renormalization group (SRG) [265-269] to transform the Dirac Hamiltonian into a diagonal form. The effective Hamiltonian expanded in a $1 / M$ series in the Schrodinger-like equation is Hermitian. This makes the perturbation calculations possible. Therefore, one can understand the origin of pseudospin symmetry and its breaking by combining supersymmetric quantum mechanics, perturbation theory, and the similarity renormalization group [27O, 271].
+
+Another open issue in the study of pseudospin symmetry is the special status of nodeless intruder states which do not have their own pseudospin partners. The nodal structure of radial Dirac wave functions of pseudospin doublets was studied in Ref. [272]，which was helpful particularly for understanding the reason why between a pair of pseudospin doublets the pseudospin-down state with $j _ { < } = \tilde { l } - 1 / 2$ has one more radial node than the pseudospin-up state with $j _ { > } ^ { \mathrm { ~ ~ } } = \tilde { l } + 1 / 2$ . However, in this case, there exist no bound states in the Fermi sea at the pseudospin symmetry limit. In contrast, as pointed out in Ref. [88], there can exist bound states in the Fermi sea at the pseudospin symmetry limit if the potential $\Delta ( r ) \equiv V ( r ) - S ( r )$ is confining. Quite recently, the nodal structure of radial Dirac wave functions for this case was demonstrated in an analytical way by Alberto, de Castro,and Malheiro [273]. It is interesting to note that in such a case all states with $\tilde { l } > 0$ have their own pseudospin partners, but instead some states with $l > 0$ lose their own spin partners.
+
+In this Review, we will mainly focus on the progress in the studies of pseudospin symmetry and spin symmetry hidden in atomic nuclei and the related topics in the past decade. Section 3 will be devoted to highlighting the progress from several different aspects,and Section 4 will be devoted to discussing the selected open issues. Some of the topics covered in a former review [67] will not be repeated here, such as the Bell-Reugg symmetries,the pseudospin symmetry in the magnetic dipole, electric quadrupole, and Gamow-Teller transitions, the pseudospin symmetry in the nucleon-nucleon and nucleon-nucleus scattering, as well as the spin symmetry in hadrons.
+
+The paper will be organized as follows. The typical Dirac equation widely used in nuclear physics will be presented together with its Schrodinger-like equations in Section 2. In the same Section,different analytical solutions for Dirac equation at the pseudospin symmetry limit and the pseudospin symmetry breaking in realistic nuclei will be reviewed briefly. Recent progress on the pseudospin symmetry, ranging from stable to exotic nuclei, non-confining to confining potentials, local to non-local potentials,central to tensor potentials, bound to resonant states,nucleon to anti-nucleon spectra, nucleon to hyperon spectra, and spherical to deformed nuclei， will be presented in Section 3. Section 4 will be devoted to discussing the open issues in this field, including the perturbative nature, puzzle of intruder states,and supersymmetric representation for pseudospin symmetry. Finally, summary and perspectives will be given in Section 5.
+
+# 2.General Features
+
+2.1. Dirac and Schrodinger-like equations
+
+# 2.1.1. Dirac equations
+
+In the relativistic framework, the motion of nucleons is described by the Dirac equation. The corresponding eigenfunction equation for nucleons reads
+
+$$
+H \psi ( \mathbf { r } ) = \epsilon \psi ( \mathbf { r } ) ,
+$$
+
+where $\epsilon$ is the single-particle energy including the rest mass of nucleon $M$ Originating from the minimal coupling of the scalar and vector mesons to the nucleons in the covariant density functional theory [59-64], the single-particle Dirac Hamiltonian $H$ is written as
+
+$$
+H = \boldsymbol { \alpha } \cdot \mathbf { p } + \beta [ M + S ( \mathbf { r } ) ] + V ( \mathbf { r } ) .
+$$
+
+In this expression, $\alpha$ and $\beta$ are the Dirac matrices,while $S ( \mathbf { r } )$ and $V ( \mathbf { r } )$ are the scalar and vector potentials,respectively. In addition, we set $\hbar = c = 1$ in this paper.
+
+From mathematical point of view, the conclusions concerning the symmetry limits discussed below remain valid if either the scalar or the vector potential is modified by an arbitrary constant, i.e.,
+
+$$
+S ( { \bf r } )  S ( { \bf r } ) + c _ { S } , \qquad V ( { \bf r } )  V ( { \bf r } ) + c _ { V } ,
+$$
+
+because one can simply adjust the mass and energy by the same constant so that the Dirac equation remains unchanged [67]:
+
+$$
+M  M - c _ { S } , \qquad \epsilon  \epsilon + c _ { V } .
+$$
+
+When the spherical symmetry is imposed, the single-particle eigenstates are specified by a set of quantum numbers $\alpha = ( a , m _ { a } ) = ( n _ { a } , l _ { a } , j _ { a } , m _ { a } )$ ，and the single-particle wave functions can be factorized as
+
+$$
+\psi _ { \alpha } ( \mathbf { r } ) = \frac { 1 } { r } \left( \begin{array} { c } { i G _ { a } ( r ) } \\ { F _ { a } ( r ) \hat { \pmb { \sigma } } \cdot \hat { \mathbf { r } } } \end{array} \right) \mathcal { Y } _ { j _ { a } m _ { a } } ^ { l _ { a } } ( \hat { \mathbf { r } } ) ,
+$$
+
+with the spherical harmonics spinor ${ \mathcal { Y } _ { j _ { a } m _ { a } } ^ { l _ { a } } }$ (r) for the angular and spin parts [274]. The corresponding normalization condition reads
+
+$$
+\int \psi _ { \alpha } ^ { \dagger } ( { \bf r } ) \psi _ { \alpha } ( { \bf r } ) d ^ { 3 } { \bf r } = \int \left[ G _ { a } ^ { 2 } ( r ) + F _ { a } ^ { 2 } ( r ) \right] d r = 1 .
+$$
+
+Note that in this paper, to label the single-particle eigenstates we use the main quantum number $n$ equal to the number of the internal nodes plus one for the dominant component of the Dirac spinor. Namely, the single-particle spectra start from the $n = 1$ states.
+
+For the lower component of the Dirac spinor (5), one has
+
+$$
+\hat { \pmb { \sigma } } \cdot \hat { \mathbf { r } } \mathcal { Y } _ { j _ { a } m _ { a } } ^ { l _ { a } } ( \hat { \mathbf { r } } ) = - \mathcal { Y } _ { j _ { a } m _ { a } } ^ { \tilde { l } _ { a } } ( \hat { \mathbf { r } } ) ,
+$$
+
+with
+
+$$
+\tilde { l } = 2 j - l .
+$$
+
+Thus, the single-particle wave functions can also be expressed as
+
+$$
+\psi _ { \alpha } ( \mathbf { r } ) = \frac { 1 } { r } \left( \begin{array} { l } { i G _ { a } ( r ) \mathcal { Y } _ { j _ { a } m _ { a } } ^ { l _ { a } } ( \hat { \mathbf { r } } ) } \\ { - F _ { a } ( r ) \mathcal { Y } _ { j _ { a } m _ { a } } ^ { \tilde { l } _ { a } } ( \hat { \mathbf { r } } ) } \end{array} \right) .
+$$
+
+In such a way, the pseudo-orbital angular momentum $\tilde { l }$ is found to be the orbital angular momentum of the lower component of the Dirac spinor [65].
+
+The corresponding radial Dirac equation reads
+
+$$
+\left( \begin{array} { c c } { { M + \Sigma ( r ) } } & { { - \displaystyle \frac { d } { d r } + \displaystyle \frac { \kappa _ { a } } { r } } } \\ { { \displaystyle \frac { d } { d r } + \displaystyle \frac { \kappa _ { a } } { r } } } & { { - M + \Delta ( r ) } } \end{array} \right) \left( \begin{array} { c } { { G _ { a } ( r ) } } \\ { { F _ { a } ( r ) } } \end{array} \right) = \epsilon _ { a } \left( \begin{array} { c } { { G _ { a } ( r ) } } \\ { { F _ { a } ( r ) } } \end{array} \right) ,
+$$
+
+where $\Sigma ( r ) = S ( r ) + V ( r )$ and $\Delta ( r ) = V ( r ) - S ( r )$ denote the combinations of the scalar and vector potentials, and $\boldsymbol { \kappa }$ is a good quantum number defined as $\kappa =$ $\mp ( j + 1 / 2 )$ for the $j = l \pm 1 / 2$ orbitals.
+
+The SS and PSS of the Dirac Hamiltonian in Eq. (2) or (1O) can be studied by the Bell-Reugg condition [66], see also Section 2 of Ref.[67]. Alternatively, these symmetries can be investigated by reducing the Dirac equation to the Schrodingerlike equations.
+
+# 2.1.2. Schrodinger-like equations
+
+Focusing on the spherical case, one can derive the Schrodinger-like equation for the upper component $G ( r )$ of the Dirac spinor by substituting
+
+$$
+F ( r ) = \frac { 1 } { M - \Delta ( r ) + \epsilon } \left( \frac { d } { d r } + \frac { \kappa } { r } \right) G ( r )
+$$
+
+in Eq.(1O),and obtain
+
+$$
+\left\{ - \frac { 1 } { M _ { + } } \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { 1 } { M _ { + } ^ { 2 } } \frac { d M _ { + } } { d r } \frac { d } { d r } + \left[ ( M + \Sigma ) + \frac { 1 } { M _ { + } } \frac { \kappa ( \kappa + 1 ) } { r ^ { 2 } } + \frac { 1 } { M _ { + } ^ { 2 } } \frac { d M _ { + } \kappa } { d r } \frac { \kappa } { r } \right] \right\} G = \epsilon G ,
+$$
+
+with the energy-dependent effective mass $M _ { + } ( r ) = M - \Delta ( r ) + \epsilon$ For brevity we omit the subscripts if there is no confusion. Similarly,one can derive the Schrodinger-like equation for the lower component $F ( r )$ by using
+
+$$
+G ( r ) = \frac { 1 } { - M - \Sigma ( r ) + \epsilon } \left( - \frac { d } { d r } + \frac { \kappa } { r } \right) F ( r ) ,
+$$
+
+and obtain
+
+$$
+\left\{ - \frac { 1 } { M _ { - } } \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { 1 } { M _ { - } ^ { 2 } } \frac { d M _ { - } } { d r } \frac { d } { d r } + \left[ \left( - M + \Delta \right) + \frac { 1 } { M _ { - } } \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } - \frac { 1 } { M _ { - } ^ { 2 } } \frac { d M _ { - } } { d r } \frac { \kappa } { r } \right] \right\} F = \epsilon F ,
+$$
+
+with the energy-dependent effective mass $M _ { - } ( r ) = - M - \Sigma ( r ) + \epsilon$ In Refs.[275- 278],it has been shown that each of these two Schrodinger-like equations, together with its charge conjugated one, are fully equivalent to Eq. (10).
+
+For Eq. (12),in analogy with the Schrodinger equations, $\Sigma ( r )$ is the central potential in which particles move; the term proportional to $l ( l + 1 ) = \kappa ( \kappa + 1 )$ corresponds to the centrifugal barrier (CB); and the last term corresponds to the SO potential, which leads to the substantial SO splittings in single-particle spectra. Namely,
+
+$$
+V _ { \mathrm { C B } } ( r ) = \frac { 1 } { M _ { + } ( r ) } \frac { \kappa ( \kappa + 1 ) } { r ^ { 2 } } \qquad \mathrm { a n d } \qquad V _ { \mathrm { S O } } ( r ) = \frac { 1 } { M _ { + } ^ { 2 } ( r ) } \frac { d M _ { + } ( r ) } { d r } \frac { \kappa } { r } .
+$$
+
+It is well known that there is no SO spliting if the $V _ { \mathrm { S O } }$ vanishes. In other words,
+
+$$
+- \frac { d M _ { + } ( r ) } { d r } = \frac { d \Delta ( r ) } { d r } = 0
+$$
+
+is the SS limit.
+
+If one uses the Schrodinger-like equation （14） for the lower component instead, although usually $\Delta ( r )$ does not stand for the potential in which particles move,all terms except one, $- ( 1 / M _ { - } ^ { 2 } ) ( d M _ { - } / d r ) ( \kappa / r )$ ，are identical for the pseudospin doublets $a$ and $b$ with $\kappa _ { a } ( \kappa _ { a } - 1 ) = \kappa _ { b } ( \kappa _ { b } - 1 )$ ,i.e., $\kappa _ { a } + \kappa _ { b } = 1$ . As pointed out in Refs. [68,78], if this term vanishes,i.e.,
+
+$$
+- \frac { d M _ { - } ( r ) } { d r } = \frac { d \Sigma ( r ) } { d r } = 0 ,
+$$
+
+each pair of pseudospin doublets will be degenerate and the PSS will be exactly conserved. This is called the PSS limit, which is more general and includes the limit $\Sigma ( r ) = 0$ discussed in Ref. [65]. From the physical point of view, $\Sigma ( r ) = 0$ is never fulfilled in realistic nuclei as in which there exist no bound states for nucleons [272], but $d \Sigma ( r ) / d r \sim 0$ can be approximately satisfied in exotic nuclei with highly diffuse potentials [69].
+
+Analogically, such a term is regarded as the PSO potential, while the term proportional to $\tilde { l } ( \tilde { l } + 1 ) = \kappa ( \kappa - 1 )$ is regarded as the PCB, i.e.,
+
+$$
+V _ { \mathrm { P C B } } ( r ) = \frac { 1 } { M _ { - } ( r ) } \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } \qquad \mathrm { a n d } \qquad V _ { \mathrm { P S O } } ( r ) = - \frac { 1 } { M _ { - } ^ { 2 } ( r ) } \frac { d M _ { - } ( r ) \kappa } { d r } \frac { \kappa } { r } .
+$$
+
+# 2.2.Analytical solutions at PSS limit
+
+Within the pseudospin symmetry limit shown in Eq. (17), the potential $\Sigma ( r )$ is simply a constant ${ \boldsymbol { \Sigma } } _ { 0 }$ ,and then Eq. (14) for the lower component of the Dirac spinor can be reduced to
+
+$$
+\left[ \frac { d ^ { 2 } } { d r ^ { 2 } } - \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } + ( \epsilon - M - \Sigma _ { 0 } ) ( \epsilon + M - \Delta ( r ) ) \right] F ( r ) = 0 .
+$$
+
+During the past decade,it is a very active field to investigate the exact or approximate analytical solutions of this equation within certain special forms of potential $\Delta ( r )$ ，by using the Nikiforov-Uvarov(NU）method [279]，the supersymmetric quantum mechanics [252], the asymptotic iteration method [280],the exact quantization rule [281],and so on. For the spherical case, extensive investigations have been made for the spherical harmonic oscillator [88-90,92,95, 96],anharmonic oscillator [97], Coulomb [76,99-101], DengFan[102],diatomic molecular [103,104],Eckart [105,106],Hellmann [107], Hulthén [108-111]，Manning-Rosen [112-114]，Mie-type [115-117]，Morse [118-123],Pöschl-Teller [124-133],Rosen-Morse [134-137],Tietz-Hua [138], Woods-Saxon [139,141,143],and Yukawa [144-147] potentials, etc. Note that some of these potentials are good approximations to model the atom-atom or nucleon-nucleon interactions, but not nuclear mean-field potentials.
+
+In this Section, we will take the relativistic harmonic oscillator and relativistic Morse potentials as examples,and introduce the corresponding analytical solutions of equation (19) at the pseudospin symmetry limit. In the second part, the Nikiforov-Uvarov method [279] and the Pekeris approximation [282] for the nonvanishing (pseudo-)centrifugal barrier will be discussed as well.
+
+# 2.2.1. Relativistic harmonic oscillator potential
+
+In analogy with the Schrodinger equations with the harmonic oscillator potentials, the Dirac equations with the RHO potentials have received extensive attention in different fields of mathematics，physics,and chemistry.These equations have analytical solutions in many cases,for example, the corresponding equations at the PSS limit [88-90, 92, 95, 96].
+
+By taking one of the simplest cases as an example,i.e.,
+
+$$
+\Delta ( r ) = \frac 1 2 M \omega ^ { 2 } r ^ { 2 } \qquad \mathrm { a n d } \qquad \Sigma _ { 0 } = 0 ,
+$$
+
+the Schrodinger-like equation (19) for the lower component of the Dirac spinor at the PSS limit becomes [88, 89]
+
+$$
+\left[ \frac { d ^ { 2 } } { d r ^ { 2 } } - \frac { \tilde { l } ( \tilde { l } + 1 ) } { r ^ { 2 } } + ( \epsilon - M ) ( \epsilon + M - \frac 1 2 M \omega ^ { 2 } r ^ { 2 } ) \right] F ( r ) = 0 ,
+$$
+
+as $\kappa ( \kappa - 1 ) = \tilde { l } ( \tilde { l } + 1 )$ . Note that some notations here are changed from the original papers for the self-consistency through the present Review, and similar changes have been done for the whole paper.
+
+By further introducing [89]
+
+$$
+\tilde { y } = \sqrt { \frac { M ( \epsilon - M ) } { 2 } } \omega r ^ { 2 } = \tilde { a } ^ { 2 } r ^ { 2 } \qquad \mathrm { a n d } \qquad \tilde { \lambda } = - \frac { \epsilon ^ { 2 } - M ^ { 2 } } { \tilde { a } ^ { 2 } } ,
+$$
+
+the above equation is rewritten as
+
+$$
+\left\{ 4 \tilde { y } \frac { d ^ { 2 } } { d \tilde { y } ^ { 2 } } + 2 \frac { d } { d \tilde { y } } - \frac { \tilde { l } ( \tilde { l } + 1 ) } { \tilde { y } } - \tilde { y } - \tilde { \lambda } \right\} F ( \tilde { y } ) = 0 .
+$$
+
+An asymptotic analysis suggests searching for the solutions of the type of
+
+$$
+F _ { \kappa } ( \tilde { y } ) = B e ^ { - \tilde { y } / 2 } \tilde { y } ^ { ( \tilde { l } + 1 ) / 2 } w ( \tilde { y } ) ,
+$$
+
+where $w ( \tilde { y } )$ is a function to be determined and $B$ is a normalization factor. Inserting this expression into Eq. (23), the equation for $w ( \tilde { y } )$ reads
+
+$$
+\left[ \tilde { y } \frac { d ^ { 2 } } { d \tilde { y } ^ { 2 } } + \left( \tilde { l } + \frac { 3 } { 2 } - \tilde { y } \right) \frac { d } { d \tilde { y } } - \frac { 1 } { 2 } \left( \tilde { l } + \frac { 3 } { 2 } + \frac { \tilde { \lambda } } { 2 } \right) \right] w ( \tilde { y } ) = 0 .
+$$
+
+The solutions of this equation,which guarantee that $\begin{array} { r } { \operatorname* { l i m } _ { \tilde { y } \to \infty } F _ { \kappa } ( \tilde { y } ) = 0 } \end{array}$ ，are the generalized Laguerre polynomials of degree $\tilde { n }$ $L _ { \tilde { n } } ^ { \tilde { p } } ( \tilde { y } )$ , where
+
+$$
+\tilde { n } = - \frac { 1 } { 2 } \left( \tilde { l } + \frac { 3 } { 2 } + \frac { \tilde { \lambda } } { 2 } \right) \qquad \mathrm { a n d } \qquad \tilde { p } = \tilde { l } + \frac { 1 } { 2 } .
+$$
+
+Finally, one can get the eigenenergies [88, 89]
+
+$$
+( \epsilon _ { \tilde { n } \kappa } + M ) \sqrt { \frac { \epsilon _ { \tilde { n } \kappa } - M } { 2 M } } = \omega \left( 2 \tilde { n } + \tilde { l } + \frac { 3 } { 2 } \right) ,
+$$
+
+which are discrete since $\tilde { n }$ is an integer equal to or greater than zero. The corresponding eigenfunctions for the lower component of the Dirac spinor read
+
+$$
+F _ { \tilde { n } \kappa } ( r ) = B e ^ { - \tilde { a } ^ { 2 } r ^ { 2 } / 2 } ( \tilde { a } r ) ^ { \tilde { l } + 1 } L _ { \tilde { n } } ^ { \tilde { l } + 1 / 2 } ( \tilde { a } ^ { 2 } r ^ { 2 } ) .
+$$
+
+Here $\tilde { n }$ is the number of the internal nodes of $F ( r )$ , denoted as $n _ { F }$ in the following Sections.
+
+The solutions of the Dirac equation with the RHO potential and their special features will be re-visited in Section 3.2 for the PSS in confining potentials, Section 3.4 for the PSS in tensor potentials, Section 3.6 for the SS in anti-nucleon spectra, Section 4.1 for the perturbative nature of PSS,and Section 4.2 for the puzzle of the intruder states.
+
+# 2.2.2. Relativistic Morse potential
+
+Another widely discussed potential is the relativistic Morse potential [283],
+
+$$
+\Delta ( r ) = D \left[ e ^ { - 2 a ( r - r _ { 0 } ) } - 2 e ^ { - a ( r - r _ { 0 } ) } \right] ,
+$$
+
+for atomic systems.In this expression, $D > 0$ is the dissociation energy, $r _ { 0 }$ is the equilibrium internuclear distance,and $a > 0$ is a parameter controlling the width of potential well. In Refs.[118-121], the analytical solutions of the relativistic Morse potential at the PSS limit were investigated by using the NU method [279], the asymptotic iteration method [28O], the exact quantization rule [281],and the confluent hypergeometric functions, respectively.
+
+In the following,we will briefly introduce one of the widely used methods, the Nikiforov-Uvarov method [279],and the Pekeris approximation [282] for the nonvanishing (pseudo-)centrifugal barrier, then discuss the solutions of the relativistic Morse potential [118-121].
+
+The Nikiforov-Uvarov method [279] is based on solving the hypergeometrictype second-order differential equations by means of the special orthogonal functions. Detailed derivations about the NU method and specific examples for standard Schrodinger equations with the harmonic oscillator, Coulomb,Kratzer, Morse,and Hulthén potentials can be found in Ref.[284].
+
+The main equation which is closely associated with the NU method reads
+
+$$
+\psi ^ { \prime \prime } ( s ) + \frac { \tilde { \tau } ( s ) } { \sigma ( s ) } \psi ^ { \prime } ( s ) + \frac { \tilde { \sigma } ( s ) } { \sigma ^ { 2 } ( s ) } \psi ( s ) = 0 ,
+$$
+
+where $\sigma ( s )$ and $\tilde { \sigma } ( s )$ are polynomials at most second-degree and $\tilde { \tau } ( s )$ is a firstdegree polynomial. By letting $\psi ( s ) = \phi ( s ) y ( s )$ and
+
+$$
+{ \frac { \phi ^ { \prime } ( s ) } { \phi ( s ) } } = { \frac { \pi ( s ) } { \sigma ( s ) } } ,
+$$
+
+Eq. (3O) can be finally reduced into an equation of hypergeometric type,
+
+$$
+\sigma ( s ) y ^ { \prime \prime } ( s ) + \tau ( s ) y ^ { \prime } ( s ) + \lambda y ( s ) = 0 ,
+$$
+
+with $\tau ( s ) = \tilde { \tau } ( s ) + 2 \pi ( s )$ . Here both $\tau ( s )$ and $\pi ( s )$ are polynomials of degree at most one and $\lambda$ is a constant.
+
+The polynomial $\pi ( s )$ satisfies a quadratic equation,
+
+$$
+\pi ^ { 2 } ( s ) + [ \tilde { \tau } ( s ) - \sigma ^ { \prime } ( s ) ] \pi ( s ) + [ \tilde { \sigma } ( s ) - k \sigma ( s ) ] = 0 ,
+$$
+
+with
+
+$$
+k = \lambda - \pi ^ { \prime } ( s ) .
+$$
+
+The corresponding solutions read
+
+$$
+\pi ( s ) = \frac { \sigma ^ { \prime } ( s ) - \widetilde { \tau } ( s ) } { 2 } \pm \sqrt { \left( \frac { \sigma ^ { \prime } ( s ) - \widetilde { \tau } ( s ) } { 2 } \right) ^ { 2 } - \widetilde { \sigma } ( s ) + k \sigma ( s ) } .
+$$
+
+Since $\pi ( s )$ is a polynomial of degree at most one, the expression under the square root has to be the square of a polynomial. In such a way, the constant $k$ can be determined. In addition, the derivative of $\tau ( s )$ thus obtained must be negative for bound states. This is the main essential condition for any choice of particular solutions.
+
+To generalize the solutions of Eq. (32),it is shown that the nth-order derivative of $y ( s ) , \nu _ { n } ( s ) \equiv d ^ { n } y ( s ) / d s ^ { n }$ , is also a hypergeometric-type function, which satisfies
+
+$$
+\sigma ( s ) \nu _ { n } ^ { \prime \prime } ( s ) + \tau _ { n } ( s ) \nu _ { n } ^ { \prime } ( s ) + \mu _ { n } \nu _ { n } ( s ) = 0 ,
+$$
+
+with
+
+$$
+\tau _ { n } ( s ) = \tau ( s ) + n \sigma ^ { \prime } ( s ) \quad \mathrm { a n d } \quad \mu _ { n } = \lambda + n \tau ^ { \prime } ( s ) + \frac { n ( n - 1 ) } { 2 } \sigma ^ { \prime \prime } ( s ) .
+$$
+
+When $\mu _ { n } = 0$ ,Eq. (36) has a particular solution of the form $y ( s ) = y _ { n } ( s )$ , which is a polynomial of degree $n$ , and Eq.(37) becomes
+
+$$
+\lambda _ { n } = - n \tau ^ { \prime } ( s ) - { \frac { n ( n - 1 ) } { 2 } } \sigma ^ { \prime \prime } ( s ) \quad { \mathrm { w i t h } } \quad n = 0 , 1 , 2 , \ldots
+$$
+
+The whole set of eigenvalues for the second-order differential equation (3O) can be obtained by comparing $\lambda$ in Eq. (34) and $\textstyle { \lambda _ { n } }$ in Eq. (38), i.e., $\lambda = \lambda _ { n }$ ：
+
+Finally， for the corresponding eigenfunctions $\psi ( s ) ~ = ~ \phi ( s ) y _ { n } ( s ) , ~ \phi ( s )$ is obtained by solving Eq. (31)，and the polynomial solutions $y _ { n } ( s )$ are given by the Rodrigues relation,
+
+$$
+y _ { n } ( s ) = \frac { B _ { n } } { \rho ( s ) } \frac { d ^ { n } } { d s ^ { n } } \left[ \sigma ^ { n } ( s ) \rho ( s ) \right] ,
+$$
+
+where $B _ { n }$ is a normalization constant and the weight function $\rho ( s )$ must satisfy the following condition:
+
+$$
+[ \sigma ( s ) \rho ( s ) ] ^ { \prime } = \tau ( s ) \rho ( s ) .
+$$
+
+For the relativistic Morse potential shown in Eq. (29)，by assuming new variables $\alpha = a r _ { 0 }$ and $x = ( r - r _ { 0 } ) / r _ { 0 }$ ,Eq.(19) becomes
+
+$$
+\left[ \frac { d ^ { 2 } } { d x ^ { 2 } } - \frac { \kappa ( \kappa - 1 ) } { ( 1 + x ) ^ { 2 } } + r _ { 0 } ^ { 2 } ( M + \Sigma _ { 0 } - \epsilon ) D ( e ^ { - 2 \alpha x } - 2 e ^ { - \alpha x } ) + r _ { 0 } ^ { 2 } ( \epsilon - M - \Sigma _ { 0 } ) ( \epsilon + M ) \right] F ( x ) = 0 .
+$$
+
+First of all, this equation can be solved exactly by the NU method if the pseudo-centrifugal barrier is absent,i.e., for the $p _ { 1 / 2 }$ orbitals $( \kappa = 1 )$ ). In thiscase, by making a new change of independent variable $s = e ^ { - \alpha x }$ ,Eq. (41) is rewritten as
+
+$$
+\frac { d ^ { 2 } F ( s ) } { d s ^ { 2 } } + \frac { 1 } { s } \frac { d F ( s ) } { d s } + \frac { 1 } { s ^ { 2 } } \left[ \varepsilon _ { 3 } s ^ { 2 } - \varepsilon _ { 2 } s + \varepsilon _ { 1 } \right] F ( s ) = 0 ,
+$$
+
+with $\varepsilon _ { 1 } \ = \ r _ { 0 } ^ { 2 } ( \epsilon - M - \Sigma _ { 0 } ) ( \epsilon + M ) / \alpha ^ { 2 } , \ \varepsilon _ { 2 } \ = \ 2 r _ { 0 } ^ { 2 } D ( M + \Sigma _ { 0 } - \epsilon ) / \alpha ^ { 2 } ,$ and $\varepsilon _ { 3 } ~ =$ $r _ { 0 } ^ { 2 } D ( M + \Sigma _ { 0 } - \epsilon ) / \alpha ^ { 2 }$ . With reference to Eq. (30), it indicates
+
+$$
+\tilde { \tau } ( s ) = 1 , \quad \sigma ( s ) = s , \quad \tilde { \sigma } ( s ) = \varepsilon _ { 3 } s ^ { 2 } - \varepsilon _ { 2 } s + \varepsilon _ { 1 } .
+$$
+
+Then, one has $\pi ( s ) = \pm \sqrt { - \varepsilon _ { 3 } s ^ { 2 } + ( k + \varepsilon _ { 2 } ) s - \varepsilon _ { 1 } } ,$ and $k _ { \pm } = - \varepsilon _ { 2 } \pm 2 \sqrt { \varepsilon _ { 1 } \varepsilon _ { 3 } }$ to make the expression under the square root be the square of a polynomial of the first degree.In such a case, there are four possible forms of $\pi ( s )$ ：
+
+$$
+\begin{array} { c c c } { { \pi ( s ) = \pm i ( \sqrt { \varepsilon _ { 3 } } s + \sqrt { \varepsilon _ { 1 } } ) } } & { { \mathrm { f o r } } } & { { k _ { - } = - \varepsilon _ { 2 } - 2 \sqrt { \varepsilon _ { 1 } \varepsilon _ { 3 } } , } } \\ { { \pi ( s ) = \pm i ( \sqrt { \varepsilon _ { 3 } } s - \sqrt { \varepsilon _ { 1 } } ) } } & { { \mathrm { f o r } } } & { { k _ { + } = - \varepsilon _ { 2 } + 2 \sqrt { \varepsilon _ { 1 } \varepsilon _ { 3 } } . } } \end{array}
+$$
+
+One of these four possible forms must be chosen to obtain the bound state solutions. The most suitable form can be $\pi ( s ) = - i ( \sqrt { \varepsilon _ { 3 } } s + \sqrt { \varepsilon _ { 1 } } )$ for $k _ { - }$ ，as the derivative of $\tau ( s )$ thus obtained, $\tau ^ { \prime } ( s ) = - 2 i \sqrt { \varepsilon _ { 3 } }$ , is negative [118].
+
+Finally, a particular solution of Eq. (42) which is a polynomial of degree $n$ can be calculated from Eq. (38),
+
+$$
+\lambda = \lambda _ { n } \quad \Rightarrow \quad - \varepsilon _ { 2 } - 2 \sqrt { \varepsilon _ { 1 } \varepsilon _ { 3 } } - i \sqrt { \varepsilon _ { 3 } } = 2 n i \sqrt { \varepsilon _ { 3 } } .
+$$
+
+Namely, the eigenvalues of Eq. (41) for the $p _ { 1 / 2 }$ orbitals can be obtained by
+
+$$
+\left( 2 \sqrt { D ( M + \Sigma _ { 0 } - \epsilon _ { n } ) } + 2 \sqrt { ( \epsilon _ { n } + M ) ( \epsilon _ { n } - M - \Sigma _ { 0 } ) } \right) ^ { 2 } + ( 1 + 2 n ) ^ { 2 } a ^ { 2 } = 0 .
+$$
+
+For the non-vanishing pseudo-centrifugal barrier, the Pekeris approximation [282] is widely used to expand the PCB about $r = r _ { 0 }$ in a series of powers of $\begin{array} { r } { x = ( r - r _ { 0 } ) / r _ { 0 } , } \end{array}$ （204号
+
+$$
+V _ { \mathrm { P C B } } ( r ) = \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } = \frac { \gamma } { ( 1 + x ) ^ { 2 } } = \gamma ( 1 - 2 x + 3 x ^ { 2 } - \cdot \cdot \cdot ) ,
+$$
+
+with $\gamma ~ = ~ \kappa ( \kappa ~ - ~ 1 ) / r _ { 0 } ^ { 2 }$ .Here one should approximate this potential by the exponential forms in the Morse potential, then the approximate PCB reads
+
+$$
+\begin{array} { l } { \displaystyle { \tilde { V } _ { \mathrm { P C B } } ( r ) = \gamma ( D _ { 0 } + D _ { 1 } e ^ { - \alpha x } + D _ { 2 } e ^ { - 2 \alpha x } ) } } \\ { \displaystyle { \qquad = \gamma \Bigg [ D _ { 0 } + D _ { 1 } \left( 1 - \alpha x + \frac { \alpha ^ { 2 } x ^ { 2 } } { 2 } - \cdots \right) + D _ { 2 } \left( 1 - 2 \alpha x + \frac { 4 \alpha ^ { 2 } x ^ { 2 } } { 2 } - \cdots \right) \Bigg ] . } } \end{array}
+$$
+
+Comparing with these two expressions, the coefficients are
+
+$$
+D _ { 0 } = 1 - { \frac { 3 } { \alpha } } + { \frac { 3 } { \alpha ^ { 2 } } } , \quad D _ { 1 } = { \frac { 4 } { \alpha } } - { \frac { 6 } { \alpha ^ { 2 } } } , \quad D _ { 2 } = - { \frac { 1 } { \alpha } } + { \frac { 3 } { \alpha ^ { 2 } } } .
+$$
+
+In such a way, the original PCB is approximated as
+
+$$
+\frac { 1 } { s ^ { 2 } } \left[ - \frac { r _ { 0 } ^ { 2 } \gamma } { \alpha ^ { 2 } } \left( D _ { 0 } + D _ { 1 } s + D _ { 2 } s ^ { 2 } \right) \right] ,
+$$
+
+acting on $F ( s )$ in Eq. (42). All procedures for solving Eq. (42) remain,but simply substituting $\varepsilon _ { 1 } \to \varepsilon _ { 1 } - r _ { 0 } ^ { 2 } \gamma D _ { 0 } / \alpha ^ { 2 } , \varepsilon _ { 2 } \to \varepsilon _ { 2 } + r _ { 0 } ^ { 2 } \gamma D _ { 1 } / \alpha ^ { 2 }$ ,and $\varepsilon _ { 3 } \to \varepsilon _ { 3 } - r _ { 0 } ^ { 2 } \gamma D _ { 2 } / \alpha ^ { 2 }$ ： The final solutions of eigenvalues can be obtained by
+
+$$
+\left( \frac { - 2 D M _ { - } + \gamma D _ { 1 } } { \sqrt { - D M _ { - } - \gamma D _ { 2 } } } + 2 \sqrt { ( \epsilon _ { n \kappa } + M ) M _ { - } - \gamma D _ { 0 } } \right) ^ { 2 } + ( 1 + 2 n ) ^ { 2 } a ^ { 2 } = 0 ,
+$$
+
+and here ${ \cal M } _ { - } \ = \ - { \cal M } \ - \ \Sigma _ { 0 } \ + \ \epsilon _ { n \kappa }$ .The readers are referred to Ref.[121] for the corresponding eigenfunctions,which can be expressed in terms of confluent hypergeometric function ${ } _ { 1 } F _ { 1 }$
+
+The same results were obtained in Refs.[119] and [12O] by using the asymptotic iteration method [280] and the exact quantization rule [281] together with the Pekeris approximation, respectively. Note that the validity of the Pekeris approximation deserves more careful examinations.
+
+As a common example shown in Refs.[118-121], the parameters of the relativistic Morse potential in Eq. (29) are taken as $D = 5 . 0 \mathrm { f m } ^ { - 1 }$ $r _ { 0 } = 2 . 4 0 8 7 3 \mathrm { f m }$ and $a \ = \ 0 . 9 8 8 8 7 9 \ \mathrm { f m ^ { - 1 } }$ with the mass $\ : M = 1 0 . 0 \ : \mathrm { f m ^ { - 1 } }$ .The corresponding coefficients in Eq. (49) deduced with the Pekeris approximation read $D _ { 0 } \ =$ 0.26928, $D _ { 1 } = 0 . 6 2 1 7 8$ ,and $D _ { 2 } = 0 . 1 0 8 9 3$ . For different choices of the constant ${ \boldsymbol { \Sigma } } _ { 0 }$ , one can obtain different numerical solutions for the eigenvalues of Eq. (51).
+
+It is instructive to choose $\Sigma _ { 0 } = 0$ for the comparison with the results shown in the coming Sections. In Table 1,the bound-state eigenenergies $\epsilon _ { n \kappa }$ of the Dirac particle in the PSS Morse potential are shown for several $n$ and $\kappa$ states. It is confirmed that the single-particle energies of pseudospin doublets are exactly degenerate at the PSS limit. However, it is found that the single-particle spectra are bound from the top,and for each given $\kappa$ the single-particle energies decrease when the radial quantum number $n$ increases. This indicates these bound states are indeed of the characteristics of the states belonging to the Dirac sea, but not those in the Fermi sea, even though the eigenvalues are positive and close to the threshold of the continuum states in the Fermi sea. It can be seen in a clearer way by showing the corresponding single-particle potentials explicitly in Fig. 2. Due to the particular shape of the Morse potential, the potential $\Delta ( r ) - M$ extends to the positive-energy region and forms a pocket for the bound states,which belong to the Dirac sea.
+
+![](images/21e8404f197834422f6e4c05e8f09d4aec9bec8f652699b6227ab4eb6e3bd514.jpg)  
+Figure 2: (Color online) Relativistic Morse potential with $D = 5 . 0 \mathrm { f m ^ { - 1 } }$ ， $r _ { 0 } = 2 . 4 0 8 7 3 \mathrm { f m }$ ， $a =$ $0 . 9 8 8 8 7 9 \mathrm { f m } ^ { - 1 }$ ,and $M = 1 0 . 0 \mathrm { f m ^ { - 1 } }$ corresponding to the PSS limit $\Sigma ( r ) = \Sigma _ { 0 } = 0$ ：
+
+Table 1: The bound-state eigenenergies $\epsilon _ { n \kappa }$ of the Dirac particle in the pseudospin-symmetry Morse potential with the Pekeris approximation and ${ { \Sigma } _ { 0 } } \ = \ 0$ . Energy units are in $\mathrm { f m } ^ { - 1 }$ .The data are taken from Ref.[119].   
+
+<html><body><table><tr><td>n (l,j)</td><td></td><td>Enk</td><td>(l,j)</td><td>Enk</td></tr><tr><td>1</td><td>S1/2</td><td>9.9935101</td><td>d3/2</td><td>9.9935101</td></tr><tr><td>1</td><td>P3/2</td><td>9.9838165</td><td>f5/2</td><td>9.9838165</td></tr><tr><td>1</td><td>d5/2</td><td>9.9737712</td><td>87/2</td><td>9.9737712</td></tr><tr><td>1</td><td>f712</td><td>9.9656754</td><td>h9/2</td><td>9.9656754</td></tr><tr><td>2</td><td>S1/2</td><td>9.9929544</td><td>d3/2</td><td>9.9929544</td></tr><tr><td>2</td><td>P3/2</td><td>9.9807043</td><td>f5/2</td><td>9.9807043</td></tr><tr><td>2</td><td>d5/2</td><td>9.9652868</td><td>87/2</td><td>9.9652868</td></tr><tr><td>2</td><td>f712</td><td>9.9484873</td><td>h9/2</td><td>9.9484873</td></tr></table></body></html>
+
+Furthermore,when ${ \boldsymbol { \Sigma } } _ { 0 }$ is chosen as $- M$ instead of O, the general pattern of the single-particle spectra does not change [118-121], since it is a trivial modification by a constant as shown in Eqs. (3) and (4). In this case, it is clear that all solutions of Eq.(51） are of negative energy and there are no bound states with positive energy.
+
+Therefore,more precisely, the phenomenon discussed in Section 2.2.2 corresponds to the spin symmetry of the anti-particle spectra, which will be discussed in more detail in Section 3.6.
+
+# 2.3. PSS breaking in realistic nuclei
+
+For the isolated atomic nuclei, both the scalar $S \left( r \right)$ and vector $V ( r )$ potentials in the single-particle Dirac Hamiltonian $H$ in Eq. (2) vanish at large distance from the center, i.e., $\begin{array} { r } { \operatorname* { l i m } _ { r \to \infty } \Sigma ( r ) = \operatorname* { l i m } _ { r \to \infty } \Delta ( r ) = 0 } \end{array}$ ，This kind of potentials will be specified as the non-confining potentials in Section 3.2. Within these potentials, it can be proven that there are no single-particle bound states in the Fermi sea at the pseudospin symmetry limit shown in Eq. (17) [272]. In other words, the pseudospin symmetry must be broken in realistic nuclei.
+
+Therefore, much more meaningful and important tasks are to investigate to which extent the pseudospin symmetry is approximately conserved in realistic nuclei and what the symmetry-breaking mechanism is. This approximate pseudospin symmetry can be examined by the quasi-degenerate single-particle energies,as well as by the relation between the pseudospin-orbit potential and pseudo-centrifugal barrier pointed out by Meng et al. [68, 69] and the relations between the single-particle wave functions pointed out by Ginocchio and Madland [79,80].
+
+As the pseudospin symmetry is shown to be a relativistic symmetry [65], let us start with the introduction of the covariant density functional theory [59-64], which is one of the most appropriate microscopic and self-consistent approaches for studying the properties of pseudospin symmetry in realistic nuclei.
+
+# 2.3.1. Covariant density functional theory
+
+The CDFT [59-64] can be traced back to the successful RMF models introduced by Walecka and Serot [285]. The most popular RMF models are based on the finite-range meson-exchange representation,in which the nucleus is described as a system of Dirac nucleons that interact with each other via the exchange of mesons and photons. The nucleons and mesons are described by the Dirac and Klein-Gordon equations,respectively.Together with the electromagnetic field, the isoscalar-scalar $\sigma$ meson, the isoscalar-vector $\omega$ meson, and the isovector-vector $\rho$ meson build the minimal set of meson fields that is necessary for a description of bulk and single-particle nuclear properties. Moreover, a quantitative treatment of nuclear matter and finite nuclei needs a medium dependence of effective mean-field interactions, which can be introduced either by including nonlinear meson self-interaction terms in the Lagrangian [286-290] or by assuming explicit density dependence for the meson-nucleon couplings [290-293].
+
+The Lagrangian density of the RMF theory with nonlinear meson selfinteractions [287-29O] can be written by using the conventions in Ref. [61] as
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { L } } = \bar { \psi } \left[ i \gamma ^ { \mu } \partial _ { \mu } - M - g _ { \sigma } \sigma - g _ { \omega } \gamma ^ { \mu } \omega _ { \mu } - g _ { \rho } \gamma ^ { \mu } \vec { \tau } \cdot \vec { \rho } _ { \mu } - e \gamma ^ { \mu } \frac { 1 - \tau _ { 3 } } { 2 } A _ { \mu } \right] \psi } } \\ { { \displaystyle ~ + \frac { 1 } { 2 } \partial ^ { \mu } \sigma \partial _ { \mu } \sigma - U _ { \sigma } ( \sigma ) - \frac { 1 } { 4 } \Omega ^ { \mu \nu } \Omega _ { \mu \nu } + U _ { \omega } ( \omega _ { \mu } ) - \frac { 1 } { 4 } \vec { R } ^ { \mu \nu } \cdot \vec { R } _ { \mu \nu } + U _ { \rho } ( \vec { \rho } _ { \mu } ) - \frac { 1 } { 4 } F ^ { \mu \nu } F _ { \mu \nu } , } } \end{array}
+$$
+
+where $M$ and $m _ { i } ~ ( g _ { i } ) ~ ( i ~ = ~ \sigma , \omega , \rho )$ are the masses (coupling constants） of the nucleon and mesons, respectively, and
+
+$$
+\Omega ^ { \mu \nu } = \partial ^ { \mu } \omega ^ { \nu } - \partial ^ { \nu } \omega ^ { \mu } , \quad \vec { R } ^ { \mu \nu } = \partial ^ { \mu } \vec { \rho } ^ { \nu } - \partial ^ { \nu } \vec { \rho } ^ { \mu } , \quad F ^ { \mu \nu } = \partial ^ { \mu } A ^ { \nu } - \partial ^ { \nu } A ^ { \mu } ,
+$$
+
+are the field tensors of the vector mesons and electromagnetic field. We adopt the arrows to indicate vectors in isospin space and bold type for the space vectors. Greek indices $\mu$ and $\nu$ run over 0,1,2,3 or $t , x , y , z$ ，while Roman indices $i , j$ etc. denote the spatial components. The nonlinear self-coupling terms $U _ { \sigma } ( \sigma ) , U _ { \omega } ( \omega _ { \mu } ) .$ and $U _ { \rho } ( \vec { \rho } _ { \mu } )$ for the $\sigma , \omega$ , and $\rho$ mesons in the Lagrangian density (52) respectively
+
+have the following forms:
+
+$$
+\begin{array} { c } { { \displaystyle U _ { \sigma } ( \sigma ) = \frac { 1 } { 2 } m _ { \sigma } ^ { 2 } \sigma ^ { 2 } + \frac { 1 } { 3 } g _ { 2 } \sigma ^ { 3 } + \frac { 1 } { 4 } g _ { 3 } \sigma ^ { 4 } , } } \\ { { { } } } \\ { { { \displaystyle U _ { \omega } ( \omega _ { \mu } ) = \frac { 1 } { 2 } m _ { \omega } ^ { 2 } \omega ^ { \mu } \omega _ { \mu } + \frac { 1 } { 4 } c _ { 3 } ( \omega ^ { \mu } \omega _ { \mu } ) ^ { 2 } , } } } \\ { { { } } } \\ { { { \displaystyle U _ { \rho } ( \vec { \rho } _ { \mu } ) = \frac { 1 } { 2 } m _ { \rho } ^ { 2 } \vec { \rho } ^ { \mu } \cdot \vec { \rho } _ { \mu } + \frac { 1 } { 4 } d _ { 3 } ( \vec { \rho } ^ { \mu } \cdot \vec { \rho } _ { \mu } ) ^ { 2 } . } } } \end{array}
+$$
+
+The system Hamiltonian density can be obtained via the general Legendre transformation,
+
+$$
+\mathcal { H } = \frac { \partial \mathcal { L } } { \partial \dot { \phi } _ { i } } \dot { \phi } _ { i } - \mathcal { L } ,
+$$
+
+where $\phi _ { i }$ represent the nucleon-, meson-,and photon-field operators. The groundstate trial wave function is taken as a Slater determinant,
+
+$$
+| \Phi _ { 0 } \rangle = \prod _ { \alpha = 1 } ^ { A } c _ { i } ^ { \dagger } \left| - \right. ,
+$$
+
+where $| - \rangle$ is the physical vacuum and the single-particle states $\alpha$ are confined to those with positive energies in the Fermi sea, i.e., the no-sea approximation. Combining these two expressions together, one has the energy density functional for the whole system,
+
+$$
+E _ { \mathrm { R M F } } = \left. \Phi _ { 0 } \right| \mathcal { H } \left| \Phi _ { 0 } \right. .
+$$
+
+In the RMF theory, only the direct contributions of the meson and Coulomb fields, i.e., the so-called Hartree terms, are taken into account.
+
+For the systems with time-reversal symmetry, the space-like components of the vector fields vanish. Furthermore, one can assume that the nucleon singleparticle states do not mix isospin, i.e., the single-particle states are eigenstates of $\tau _ { 3 }$ , therefore only the third component of $\vec { \rho } _ { \mu }$ survives.
+
+By the variation principle, the Dirac equation for nucleons reads [cf. Eqs.(1) and (2)]
+
+$$
+\left[ \alpha \cdot \mathbf { p } + \beta ( M + S \left( \mathbf { r } \right) ) + V ( \mathbf { r } ) \right] \psi _ { \alpha } ( \mathbf { r } ) = \epsilon _ { \alpha } \psi _ { \alpha } ( \mathbf { r } ) ,
+$$
+
+and the Klein-Gordon equations for mesons and photons read
+
+$$
+\begin{array} { c } { { - \nabla ^ { 2 } \sigma + U _ { \sigma } ^ { \prime } ( \sigma ) = - g _ { \sigma } \rho _ { S } \ , } } \\ { { { } } } \\ { { - \nabla ^ { 2 } \omega _ { 0 } + U _ { \omega } ^ { \prime } ( \omega _ { 0 } ) = g _ { \omega } \rho _ { V } \ , } } \\ { { { } } } \\ { { - \nabla ^ { 2 } \rho _ { 0 } ^ { 3 } + U _ { \rho } ^ { \prime } ( \rho _ { 0 } ^ { 3 } ) = g _ { \rho } \rho _ { V } ^ { ( 3 ) } \ , } } \\ { { { } } } \\ { { - \nabla ^ { 2 } A _ { 0 } = e \rho _ { C } \ . } } \end{array}
+$$
+
+The scalar and vector potentials in Eq. (58) are, respectively,
+
+$$
+\begin{array} { l } { { S \left( { \bf r } \right) = g _ { \sigma } \sigma ( { \bf r } ) , } } \\ { { { \displaystyle \vphantom { \sum _ { 1 } } } V ( { \bf r } ) = g _ { \omega } \omega _ { 0 } ( { \bf r } ) + g _ { \rho } \tau _ { 3 } \rho _ { 0 } ^ { 3 } ( { \bf r } ) + \frac { 1 - \tau _ { 3 } } { 2 } e A _ { 0 } ( { \bf r } ) . } } \end{array}
+$$
+
+The scalar density $\rho _ { S }$ , the baryonic density $\rho _ { V }$ , the isovector density $\rho _ { V } ^ { ( 3 ) }$ , and the charge density $\rho _ { C }$ in the Klein-Gordon equations (59) are, respectively,
+
+$$
+\begin{array} { l } { { \displaystyle \rho _ { \mathcal { S } } ( { \bf r } ) = \sum _ { \sigma = 1 } ^ { A } \bar { \psi } _ { \sigma } ( { \bf r } ) \psi _ { \sigma } ( { \bf r } ) } , } \\ { ~ } \\ { { \displaystyle \rho _ { \mathcal { V } } ( { \bf r } ) = \sum _ { \sigma = 1 } ^ { A } \psi _ { \sigma } ^ { \dagger } ( { \bf r } ) \psi _ { \sigma } ( { \bf r } ) } , } \\ { { \displaystyle \rho _ { \mathcal { V } } ^ { ( 3 ) } ( { \bf r } ) = \sum _ { \sigma = 1 } ^ { A } \psi _ { \sigma } ^ { \dagger } ( { \bf r } ) \tau _ { 3 } \psi _ { \sigma } ( { \bf r } ) } , } \\ { { \displaystyle \rho _ { \mathcal { C } } ( { \bf r } ) = \sum _ { p = 1 } ^ { Z } \psi _ { p } ^ { \dagger } ( { \bf r } ) \psi _ { \rho } ( { \bf r } ) } . } \end{array}
+$$
+
+In the density-dependent RMF approach [29O-293], the nonlinear meson selfcouplings in the Lagrangian density are replaced by the density dependence of the coupling strengths $g _ { \sigma } ( \rho ) , g _ { \omega } ( \rho )$ ，and $g _ { \rho } ( \rho )$ ， and an additional term, i.e., the rearrangement term, will appear in the Dirac equation (58).
+
+More recently, this framework has been re-interpreted by the relativistic KohnSham density functional theory,and the functionals have been developed based on the zero-range point-coupling interaction [294-298], in which the meson exchange in each channel (isoscalar-scalar, isoscalar-vector, isovector-scalar, and isovector-vector） is replaced by the corresponding local four-point contact interaction between nucleons. The point-coupling model has attracted more and more attention owing to the following advantages. First, it avoids the possible physical constrains introduced by explicit usage of the Klein-Gordon equation to describe mean meson fields,especially the fictitious $\sigma$ meson． Second, it is possible to study the role of naturalness [299,3OO] in effective theories for nuclearstructure-related problems. Third, it is relatively easy to include the Fock terms [301],and provides more opportunities to investigate its relationship to the nonrelativistic approaches [302].
+
+In order to describe open-shell nuclei, the pairing correlation and the coupling to continuum must be taken into account properly，which are in particular crucial for the descriptions of drip line nuclei. The extension of the RMF theory to take into account both bound states and (discretized) continuum via Bogoliubov transformation in a microscopic and self-consistent way has been done in Refs.[2O5,2O7], the so-called relativistic continuum Hartree-Bogoliubov (RCHB) theory.
+
+# 2.3.2. PSS in single-particle energies
+
+First of all, let us start with the neutron-rich doubly magic nucleus $^ { 1 3 2 } \mathrm { S n }$ as an example,which shows that the self-consistent CDFT or RMF theory can nicely reproduce its ground-state properties including the single-particle spectra [303].
+
+![](images/e2ae727aa6cbdced029068903b89966ed6be59fc1e765532c79aff533583df55.jpg)  
+Figure 3:(Color online) Self-consistent single-particle potentials for neutrons in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with the effective interaction PK1 [290].
+
+In Fig.3, the potentials $\Sigma ( r )$ and $\Delta ( r )$ for neutrons calculated by the RMF theory with the effective interaction PK1 [29O] are shown. The depths of potentials are $\Sigma ( r ) \sim 7 0 \mathrm { M e V }$ and $\Delta ( r ) \sim 7 0 0 \mathrm { M e V } ,$ respectively.
+
+The single-particle energies of the neutron bound states thus obtained are shown in Fig. 4,where $E \ = \ \epsilon - \ M$ excluding the rest mass of nucleon. In order to show the SO and PSO splittngs and to see their energy dependence more clearly, the reduced SO splittings $\Delta E _ { \mathrm { S O } } = ( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 l + 1 )$ and the reduced PSO splittings $\Delta E _ { \mathrm { P S O } } = ( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 \tilde { l } + 1 )$ versus their average single-particle energies $E _ { \mathrm { a v } } = ( E _ { j _ { < } } + E _ { j _ { > } } ) / 2$ are plotted in the left and right panels of Fig. 5, respectively. In this paper, $j _ { < } \left( j _ { > } \right)$ denotes the states with $j = l - 1 / 2 \left( j = l + 1 / 2 \right)$ for the spin doublets and the states with $j = \tilde { l } - 1 / 2 \ : ( j = \tilde { l } + 1 / 2 )$ for the pseudospin doublets.
+
+![](images/48467f71e0f8b293c117a8f181085c6d967e4cadd151b0f45d4fc9ffb56134ad.jpg)  
+Figure 4: (Color online) Neutron single-particle spectrum in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with PK1.For each pair of spin doublets,the left levels are those with $j _ { < } = l - 1 / 2$ and the right ones with $j _ { > } = l + 1 / 2$ . Potential $\Sigma ( r )$ is shown as the solid line.
+
+![](images/ae4804fa8b5ad6abfe0d526dcbdaba6fb0985915b35818af58c0d2d66ff11e89.jpg)  
+Figure 5: (Color online) Reduced SO splittings $( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 l + 1 )$ (the left panel) and reduced PSO splitings $( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 \tilde { l } + 1 )$ (the right panel) versus their average single-particle energies $E _ { \mathrm { a v } } = ( E _ { j _ { < } } + E _ { j _ { > } } ) / 2$ in neutron single-particle spectrum of $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with PK1.
+
+A dramatic energy dependence can be seen in the reduced PSO splittings, whereas the reduced SO splittings are less energy dependent. While the reduced PSO splitting for the $1 \tilde { p }$ pseudospin doublets is $1 . 2 9 1 \ \mathrm { M e V } ,$ that for the $2 \tilde { p }$ doublets is $0 . 1 3 8 ~ \mathrm { M e V } ,$ ，roughly smaller than the former one by a factor of 10. Thus, the PSS becomes better near the Fermi surface. This is in agreement with the experimental observation.
+
+Around the Fermi surface, $E \approx - 8 \mathrm { \ : { M e V } }$ in this case, $\Delta E _ { \mathrm { P S O } } = 0 . 1 3 8 ~ \mathrm { M e V }$ for the $2 \tilde { p }$ pseudospin doublets, compared to $\Delta E _ { \mathrm { S O } } = 0 . 3 3 2 \ : \mathrm { M e V }$ for the $2 d$ spin doublets. Note that these two cases in the comparison share a common state $2 d _ { 3 / 2 }$ Further approaching the single-particle threshold, on one hand, the reduced SO splitting for the $1 h$ doublets is almost the same as those for the $_ { 1 g }$ and $1 f$ doublets below the Fermi surface; on the other hand, the PSO splittings become smaller and even reversed, e.g., $\Delta E _ { \mathrm { P S O } } = - 0 . 0 6 8 ~ \mathrm { M e V }$ for the $1 \tilde { g }$ doublets.
+
+To understand why the energy splitting between the pseudospin partners changes with the single-particle energies, the PSO potential $V _ { \mathrm { P S O } }$ and the pseudocentrifugal barrier $V _ { \mathrm { P C B } }$ in Eq.(18) should be examined carefully [68,69]. Their contribution to the single-particle energy $E$ can be evaluated by the integrals with the lower component of the Dirac spinor, i.e.,
+
+$$
+E _ { i } = \frac { \int F ^ { * } ( r ) V _ { i } ( r ) F ( r ) d r } { \int F ^ { * } ( r ) F ( r ) d r } .
+$$
+
+It was pointed out in Refs.[68, 69] that
+
+$$
+| V _ { \mathrm { P S O } } ( r ) | \ll | V _ { \mathrm { P C B } } ( r ) |
+$$
+
+is the condition under which the PSS is conserved approximately. Unfortunately, it is difficult to plot and compare these potentials,as both of them have a singularity
+
+at $r _ { 0 }$ where $M _ { - } ( r ) = 0$ ,i.e., $\boldsymbol { E } = \boldsymbol { \Sigma } ( \boldsymbol { r } ) \vert _ { \boldsymbol { r } = \boldsymbol { r } _ { 0 } }$ . As one is only interested in the relative magnitude of the PCB and the PSO potential, the effective PCB,
+
+$$
+V _ { \mathrm { P C B } } ^ { \mathrm { e f f } } ( r ) = M _ { - } \kappa ( \kappa - 1 ) / r ^ { 2 } ,
+$$
+
+and the effective PSO potential,
+
+$$
+V _ { \mathrm { P S O } } ^ { \mathrm { e f f } } ( r ) = ( - d M _ { - } / d r ) ( \kappa / r ) ,
+$$
+
+are introduced for comparison [68, 69]. They correspond respectively to the PCB and the PSO potential multiplied by a common factor $M _ { - } ^ { 2 }$
+
+5.0 11 eer 4.0 1 0.06 1 0.04 3.0 2d3/2 0.02 2.0 1d3/2 0.00 (x/r)dV/dr 1.0 -0.02048121620 0.0 -1.0 5.0 0.03 4.0 0.02 0.01 3.0 -3s1/2 0.00 2.0 - - 2s1/2 -0.01 1.0 048121620- 0.0 -1.0 ⊥ = 上 上 上 上 0 1 2 345 6 7 8 r [fm]
+
+The effective PSO potential in Eq. (65) depends on the angular momentum and parity, but does not depend on the single-particle energy. On the other hand, the effective PCB in Eq.(64) depends on the energy. They are given in Fig. 6 for the $s _ { 1 / 2 }$ and $d _ { 3 / 2 }$ orbitals of $^ { 1 2 0 } \mathrm { Z r }$ in arbitrary scale,and their behavior near the nuclear surface are shown in the inserts. Note that the solid lines in the figure are the effective PSO potentials,which are enlarged in the inserts. It is found that the PSS is conserved much better for the less bound pseudospin partners, because the effective PCB is smaller for the more deeply bound states.
+
+![](images/0f48790fa3110d25a909511ed802c2a0684f8bdf2512a1bbf04b98162985c370.jpg)  
+Figure 7: Comparison of the effective PCB (dashed lines) and the effective PSO potentials (solid lines） multiplied by $F ^ { 2 } ( r )$ in arbitrary scale for $s _ { 1 / 2 }$ (left panels） and $d _ { 3 / 2 }$ (right panels） states in 120Zr. Taken from Ref. [68].
+
+To see clearly their contributions to the single-particle energy, the effective PCB and the effective PSO potential multiplied by the squares of the lower component wave function $F ( r )$ are given in Fig. 7 for the $2 s _ { 1 / 2 } , \ 3 s _ { 1 / 2 } , \ 1 d _ { 3 / 2 }$ and $2 d _ { 3 / 2 }$ states of $^ { 1 2 0 } \mathrm { Z r }$ in arbitrary scale. It is clear that the contributions of the effective PCB are much bigger than those of the effective PSO potential, and generally they differ by two orders of magnitude. In a semi-quantitative sense, this indicates the condition in Eq. (63) is satisfied.
+
+However, it was also pointed out in Ref. [167] that, from a more quantitative point of view, one should directly compare the PSO potential and PCB, instead of using the effective ones, because the common factor $M _ { - } ^ { 2 }$ multiplied depends on $r$ .As a result, the magnitude of the PSO potential is drastically modified around $r _ { 0 }$ ， and the inequality $\big | M _ { - } ^ { 2 } ( r ) V _ { \mathrm { P S O } } ( r ) \big | \ \ll \ \big | M _ { - } ^ { 2 } ( r ) V _ { \mathrm { P C B } } ( r ) \big |$ differ from $| V _ { \mathrm { P S O } } ( r ) | ~ \ll ~ | V _ { \mathrm { P C B } } ( r ) |$ shown in Eq. (63). Furthermore,although $V _ { \mathrm { P S O } } ( r )$ and $V _ { \mathrm { P C B } } ( r )$ have a singularity, it has been proven that the principal values of the integrals, $P \int F ^ { * } ( r ) V _ { i } ( r ) F ( r ) d r$ , are still finite due to the nodal structure of $F ( r )$ （20 [72,167]. This makes a direct comparison possible. Several examples will be shown in Sections 3.3, 3.4, 3.7, and 4.1.
+
+# 2.3.3. PSS in single-particle wave functions
+
+There are intensive discussions on the approximate energy degeneracy between the pseudospin doublets since the introduction of PSS in 1969,but less on their wave functions until the relativistic origin of PSS was revealed [79, 80].
+
+Within the PSS limit shown in Eq. (17), the Schrodinger-like equation for the lower component $F ( r )$ of the Dirac spinor is expressed as
+
+$$
+\left[ \frac { d ^ { 2 } } { d r ^ { 2 } } - \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } + ( \epsilon - M - \Sigma _ { 0 } ) ( \epsilon + M - \Delta ( r ) ) \right] F ( r ) = 0 ,
+$$
+
+as seen in Eq.(19). It is clear that this equation is identical for the pseudospin doublets $a$ and $b$ with $\kappa _ { a } ( \kappa _ { a } - 1 ) = \kappa _ { b } ( \kappa _ { b } - 1 )$ ,i.e., $\boldsymbol { \kappa } _ { a } + \boldsymbol { \kappa } _ { b } = 1$ . Therefore, the eigenfunctions $F _ { a } ( r )$ and $F _ { b } ( r )$ are exactly the same up to a normalization factor.
+
+Moreover, there holds Eq.(13),
+
+$$
+G ( r ) = \frac { 1 } { \epsilon - M - \Sigma _ { 0 } } \left( - \frac { d } { d r } + \frac { \kappa } { r } \right) F ( r ) ,
+$$
+
+and now ${ \boldsymbol { \Sigma } } _ { 0 }$ is just a common constant. Therefore,for the single-particle wave
+
+functions of the state $a$ , the normalization condition in Eq. (6) reads
+
+$$
+\int \left[ G _ { a } ^ { 2 } ( r ) + F _ { a } ^ { 2 } ( r ) \right] d r = \int \left\{ \left[ \frac { 1 } { \epsilon _ { a } - M - \Sigma _ { 0 } } \left( - \frac { d } { d r } + \frac { \kappa _ { a } } { r } \right) F _ { a } ( r ) \right] ^ { 2 } + F _ { a } ^ { 2 } ( r ) \right\} d r = 1 .
+$$
+
+Integrating by parts and using Eq. (66), one will end up with
+
+$$
+\int ( 2 \epsilon _ { a } - \Delta ( r ) - \Sigma _ { 0 } ) F _ { a } ^ { 2 } ( r ) d r = \epsilon _ { a } - M - \Sigma _ { 0 } .
+$$
+
+In the same way, for its pseudospin partner $b$ , one has
+
+$$
+\int ( 2 \epsilon _ { b } - \Delta ( r ) - \Sigma _ { 0 } ) F _ { b } ^ { 2 } ( r ) d r = \epsilon _ { b } - M - \Sigma _ { 0 } .
+$$
+
+As $\epsilon _ { a } = \epsilon _ { b }$ at the PSS limit, the normalization factors for $F _ { a } ( r )$ and $F _ { b } ( r )$ are the same. Therefore, for a pair of pseudospin doublets, their lower components of the Dirac spinor are identical (up to a phase) at the PSS limit [79],
+
+$$
+F _ { a } ( r ) = F _ { b } ( r ) .
+$$
+
+As a step further, together with Eq.(11), the first-order differential relation for their upper components of the Dirac spinor can be obtained [80],
+
+$$
+\left( \frac { d } { d r } + \frac { \kappa _ { a } } { r } \right) G _ { a } ( r ) = \left( \frac { d } { d r } + \frac { \kappa _ { b } } { r } \right) G _ { b } ( r ) ,
+$$
+
+or written as
+
+$$
+\left( \frac { d } { d r } - \frac { \tilde { l } } { r } \right) G _ { j _ { < } } ( r ) = \left( \frac { d } { d r } + \frac { \tilde { l } + 1 } { r } \right) G _ { j _ { > } } ( r ) ,
+$$
+
+with $j _ { < } \left( j _ { > } \right)$ labelling the $j = \tilde { l } - 1 / 2 \ : ( j = \tilde { l } + 1 / 2 )$ orbital.
+
+The wave-function relations（71） and（72) between the pseudospin doublets can also be derived from the pseudospin SU(2) generator [304]
+
+$$
+\begin{array} { r } { \tilde { \bf S } = \left( \begin{array} { l l } { \tilde { \bf s } } & { 0 } \\ { 0 } & { { \bf s } } \end{array} \right) , } \end{array}
+$$
+
+![](images/d4aae9a39873c38fd7818beeec9a082aca196076322992bde2376afbaa54cc99.jpg)  
+Figure 8: (Color online) Neutron single-particle wave functions of the $1 \tilde { p } , 2 \tilde { p }$ ,and $1 \tilde { f }$ pseudospin doublets in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with the effective interaction PC-PK1 [297].
+
+with $\mathbf s = \pmb { \sigma } / 2$ and $ { \tilde { \mathbf { s } } } = ( \pmb { \sigma } \cdot  { \hat { \mathbf { p } } } ) \mathbf { s } ( \pmb { \sigma } \cdot  { \hat { \mathbf { p } } } )$ . The details can be found in Ref. [80].
+
+To test the relation shown in Eq.(71), the single-particle wave functions for the neutrons in $^ { 1 3 2 } \mathrm { S n }$ are calculated by the self-consistent point-coupling RMF theory with the effective interaction PC-PK1 [297]. In panels (a), (b), and (c) of Fig. 8 are shown the wave functions of the ${ 1 } \tilde { p } , { 2 } \tilde { p }$ ,and $1 \tilde { f }$ pseudospin doublets, respectively. For each pair of pseudospin doublets, their upper components $G$ have different number of nodes and radial shape, however, their lower components $F$ are almost identical except on the nuclear surface. By comparing these three panels, it is found that the relation in Eq.(71) is better satisfied for smaller $\tilde { l }$
+
+To test the differential relation of the upper components shown in Eq. (72), the corresponding results obtained by using the first-order differential operators are plotted in Fig. 9. It is found that, with the $\kappa$ -dependent first-order differential operators, one obtains a remarkable similarity in the differential wave functions except near the nuclear surface. By comparing three panels,it is also found that the relation in Eq. (72) is better satisfied with smaller $\tilde { l }$
+
+![](images/de64a95091290fd2ac314969f33998403193035429872d407d972c6dd7bb6d66.jpg)  
+Figure 9: (Color online) Differential relation of the upper components $G$ in Eq.(72) for the $1 \tilde { p }$ $2 \tilde { p }$ ,and $1 \tilde { f }$ pseudospin doublets in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with PC-PK1.
+
+In Section 2, the general features for the Dirac equation and its corresponding Schrodinger-like equations were discussed. The analytical solutions for Dirac equation at the pseudospin symmetry limit were shown by taking the relativistic harmonic oscillator and relativistic Morse potentials as examples. The pseudospin symmetry and its breaking in realistic nuclei were discussed in a general framework of the covariant density functional theory. The evaluations of the pseudospin symmetry in the single-particle energies and wave functions were reviewed.
+
+# 3. PSS and SS in Various Systems and Potentials
+
+# 3.1.From stable nuclei to exotic nuclei
+
+The concept of pseudospin symmetry [11, 12] was introduced originally based on the observation of the empirical single-particle spectra in stable nuclei. Since then, intensive discussions of PSS were mainly concentrated around the nuclear $\beta$ -stability valley. During the past decades, more and more highly unstable nuclei with extreme $N / Z$ ratios have been accessible with the radioactive ion beam facilities. The physics connected to the extreme neutron richness in these nuclei and the low density in the tails of their matter distributions have attracted much attention,and new exciting discoveries have been made by exploring hitherto inaccessible regions in the nuclear chart. One of the examples is the investigations of PSS from stable to exotic nuclei [68, 69].
+
+From the theoretical point of view, for open-shell exotic nuclei, the RCHB theory [61] is able to take the pairing correlation and the coupling to continuum into account properly. Furthermore,as pointed out in Ref. [2O6], in the RCHB theory, the particle levels for the bound states in the canonical basis are the same as those by solving the Dirac equation with the corresponding scalar and vector potentials. Therefore,the Schrodinger-like equations（12） and（14） remain the same in the canonical basis even after the pairing interaction has been taken into account.
+
+One observes from Eq.(14) that formally the only term which breaks the PSS is the PSO potential $V _ { \mathrm { P S O } }$ (18),which is proportional to $d \Sigma ( r ) / d r$ . Therefore,it is expected that the PSS is better conserved when $| d \Sigma ( r ) / d r |$ becomes small [68]. This conjecture can be verified with the exotic nuclei, whose potentials can be much more diffuse than the stable ones [69].
+
+In the left panel of Fig.1O, the potentials $\Sigma ( r )$ for neutrons in Sn isotopes calculated by the self-consistent RCHB theory with the effective interaction NLSH [287] are shown. One can see a gradual change in the diffuseness of $\Sigma ( r )$ （20 from the neutron-deficient nucleus $^ { 1 0 0 } { \mathrm { S n } }$ to the extremely neutron-rich nucleus （20 $^ { 1 7 0 } \mathrm { S n }$ . The corresponding evolutionof the single-particle energies in the canonical basis can be seen in the right panel of Fig. 10.
+
+![](images/b16b9073efa2162893f0845a594e000c4a0f133fa3ff1dad21778bb668915e34.jpg)  
+Figure 1O: Left panel: Neutron potentials $\Sigma ( r )$ for Sn isotopes calculated by the RCHB theory [61] with the effective interaction NLSH[287]. Taken from Ref. [305]. Right panel: The corresponding neutron single-particle energies in the canonical basis as a function of the mass number,where the pseudospin doublets are marked by boxes and the Fermi surface is shown by a dashed line. Taken from Ref. [69].
+
+The reduced PSO splitings $\Delta E _ { \mathrm { P S O } }$ versus their average single-particle energies are plotted in Fig. 11. It is seen that the PSO splittings in Sn isotopes have a monotonous decreasing behavior with increasing isospin. In particular, for the $1 \tilde { p }$ doublets, $\Delta E _ { \mathrm { P S O } }$ in $^ { 1 7 0 } \mathrm { S n }$ is only half of that in $^ { 9 6 } \mathrm { S n }$ .Furthermore,a monotonous decreasing behavior of $\Delta E _ { \mathrm { P S O } }$ with increasing single-particle energies $E$ maintains from the proton drip line to the neutron drip line.
+
+From these studies, the pseudospin symmetry remains a good approximation for both stable and exotic nuclei. A better pseudospin symmetry can be expected for the orbitals near the threshold, in particular for nuclei near the particle drip line.
+
+![](images/452b23ad3cb9c4ff5091cd4a669d6899db4e8ec9293f61ee1d3879a836975daf.jpg)  
+Figure 11: Reduced PSO splittings for neutrons in Sn isotopes versus their average single-particle energies $[ ( \tilde { l } + 1 ) E _ { j _ { < } } + \tilde { l } E _ { j _ { > } } ] / ( 2 \tilde { l } + 1 )$ calculated by RCHB theory with NLSH. Taken from Ref. [69].
+
+# 3.2. From non-confining potentials to confining potentials
+
+It is observed that the main quantum numbers $n$ of a pair of pseudospin doublets differ by one, e.g., $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ ， $( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ ，etc.This phenomenon motivated Leviatan and Ginocchio [272] for the analytical proof on the nodal structure of the Dirac spinor. For the so-called non-confining potentials,which mean $S ( r ) , V ( r )  0$ for $r \to \infty$ , it is proven that the number of internal nodes of the upper $G$ and lower $F$ components of the Dirac spinor, $n _ { G }$ and $n _ { F }$ ,obeys [272]
+
+$$
+n _ { F } = n _ { G } \quad \mathrm { f o r } \quad \kappa < 0 , \qquad n _ { F } = n _ { G } + 1 \quad \mathrm { f o r } \quad \kappa > 0 .
+$$
+
+It is also proven that there exist no bound states in the Fermi sea at the pseudospin symmetry limit (17) within the non-confining potentials.
+
+In contrast to the non-confining potentials,Chen et al. [88] showed there exist bound states in the Fermi sea at the pseudospin symmetry limit (17) when the potential $\Delta ( r )$ is confining. A typical example is the relativistic harmonic oscillator potential [88-90, 92]. Recently, the corresponding nodal structure of the Dirac spinor within the confining potentials was derived analytically by Alberto, de Castro, and Malheiro [273].
+
+In this Section，we will highlight the key steps of these analytical proofs. We will then discuss the single-particle spectra and wave functions given by the relativistic harmonic oscillator potential， which conserves the pseudospin symmetry exactly.
+
+# 3.2.1. Nodal structure for non-confining potentials
+
+First of all, let us focus on the so-called non-confining potentials,which generally occur in isolated atomic nuclei. Their scalar and vector potentials satisfy $r S ( r ) , r V ( r )  0$ for $r  0$ ，and $S ( \boldsymbol { r } ) , V ( \boldsymbol { r } )  0$ for $r  \infty$ [272]. A typical example for such potentials calculated by the self-consistent RMF theory is shown in Fig. 3.
+
+From the radial Dirac equations (1O), it is seen that the radial wave functions follow
+
+$$
+\begin{array} { l } { \displaystyle \frac { d ^ { 2 } G ( r ) } { d r ^ { 2 } } \sim - M _ { + } ( r ) M _ { - } ( r ) G ( r ) \sim ( M ^ { 2 } - \epsilon ^ { 2 } ) G ( r ) , } \\ { \displaystyle \frac { d ^ { 2 } F ( r ) } { d r ^ { 2 } } \sim - M _ { + } ( r ) M _ { - } ( r ) F ( r ) \sim ( M ^ { 2 } - \epsilon ^ { 2 } ) F ( r ) , } \end{array}
+$$
+
+at large $r$ . As for a bound state, the wave functions $G ( r )$ and $F ( r )$ should vanish exponentially, $G ( r ) \propto F ( r ) \propto e ^ { - \lambda r }$ with $\lambda = \sqrt { M ^ { 2 } - \epsilon ^ { 2 } }$ .Therefore, $- M < \epsilon < M$ is the condition for the bound states.
+
+Focusing on the single-particle bound states in the Fermi sea, $\epsilon > 0$ ，the effective mass $M _ { + } ( r )$ is always positive, and the effective mass $M _ { - } ( r )$ is positive at
+
+the origin and becomes negative at large $r$ ,changing its sign at $r _ { 0 }$ . The asymptotic behaviors of their radial wave functions at $r \to 0$ read
+
+$$
+\begin{array} { c c c } { { G _ { \kappa } ( r ) \propto r ^ { - \kappa } , } } & { { F _ { \kappa } ( r ) \propto r ^ { - \kappa + 1 } , } } & { { \displaystyle \operatorname* { l i m } _ { r \to 0 } \frac { F ( r ) } { G ( r ) } = - \frac { M _ { - } ( 0 ) } { - 2 \kappa + 1 } r < 0 \quad \mathrm { f o r } \quad \kappa < 0 , } } \\ { { G _ { \kappa } ( r ) \propto r ^ { \kappa + 1 } , } } & { { F _ { \kappa } ( r ) \propto r ^ { \kappa } , } } & { { \displaystyle \operatorname* { l i m } _ { r \to 0 } \frac { G ( r ) } { F ( r ) } = \frac { M _ { + } ( 0 ) } { 2 \kappa + 1 } r > 0 \quad \mathrm { f o r } \quad \kappa > 0 . \quad ( 7 ) } } \end{array}
+$$
+
+In order to study the properties of the radial wave functions,it is helpful to introduce $\theta _ { \kappa } ( \boldsymbol { r } ) = r ^ { \kappa } G _ { \kappa } ( \boldsymbol { r } )$ and $\mathcal { F } _ { \kappa } ( r ) ~ = ~ r ^ { - \kappa } F _ { \kappa } ( r )$ ，and then Eqs.(1O) can be simplified as [272]
+
+$$
+\frac { d { \mathcal G } _ { \kappa } ( r ) } { d r } = r ^ { 2 \kappa } M _ { + } ( r ) { \mathcal F } _ { \kappa } ( r ) \quad \mathrm { a n d } \quad \frac { d { \mathcal F } _ { \kappa } ( r ) } { d r } = - r ^ { - 2 \kappa } M _ { - } ( r ) { \mathcal G } _ { \kappa } ( r ) .
+$$
+
+In the open interval $( 0 , \infty )$ , the nodes of $\mathcal { G }$ and $\mathcal { F }$ coincide with the nodes of $G$ and $F$ , respectively.
+
+Equations (78) lead to a number of observations [272]. First, it is impossible for $\mathcal { G }$ and $\mathcal { F }$ ，or $G$ and $F$ , to vanish simultaneously at the same point because, if they did, then all other higher-order derivatives would vanish at that point and hence the functions themselves would vanish everywhere.Moreover, a node of $\mathcal { F }$ corresponds to an extremum of $\mathcal { G }$ , and a node of $\mathcal { G }$ corresponds to an extremum of $\mathcal { F }$ . Since $M _ { - } ( r )$ changes sign at $r _ { 0 }$ ， $\mathcal { F }$ can have an additional extremum at this point, which does not correspond to a node of $\mathcal { G }$ . It follows that the nodes of $\mathcal { F }$ and $\mathcal { G }$ alternate,i.e., between every pair of adjacent nodes of ${ \mathcal { F } } \left( G \right)$ there is one node of $\mathcal { G } \left( \mathcal { F } \right)$
+
+Furthermore, for bound states,both $\mathcal { G } ( \boldsymbol { r } )$ and $\mathcal { F } ( r )$ vanish at $r = \infty$ and their extrema are concave towards the $r$ -axis．Therefore,the nodes of $\mathcal { G }$ and $\mathcal { F }$ can occur only where $M _ { + } ( r ) M _ { - } ( r ) > 0$ , i.e., both $M _ { + } ( r ) > 0$ and $M _ { - } ( r ) > 0$ in the present cases. This is consistent with the non-relativistic case that the nodes of the radial wave function can occur only in the region of classically allowed motion, where the kinetic energy is positive.
+
+One can now use the above results to obtain a relation between the radial nodes of $G ( r )$ and $F ( r )$ , together with
+
+$$
+\begin{array} { r } { [ \mathcal { G } _ { \kappa } ( r ) \mathcal { F } _ { \kappa } ( r ) ] ^ { \prime } = [ G _ { \kappa } ( r ) F _ { \kappa } ( r ) ] ^ { \prime } = M _ { + } ( r ) F _ { \kappa } ^ { 2 } ( r ) - M _ { - } ( r ) G _ { \kappa } ^ { 2 } ( r ) . } \end{array}
+$$
+
+For the single-particle bound states in the Fermi sea within the non-confining potentials, $( G F ) ^ { \prime } ~ = ~ ( \epsilon + M ) F ^ { 2 } - ( \epsilon - M ) G ^ { 2 } ~ > ~ 0$ at large $r$ At small $r$ $( G F ) ^ { \prime } \ = \ - M _ { - } ( 0 ) G ^ { 2 } \ < \ 0$ for $\kappa < 0$ ，while $( G F ) ^ { \prime } ~ = ~ M _ { + } ( 0 ) F ^ { 2 } ~ > ~ 0$ for $\kappa > 0$ ： Since $G F$ vanishes at both $r = 0$ and $r = \infty$ , one confirms that
+
+$$
+\operatorname* { l i m } _ { r \to 0 } G _ { \kappa } ( r ) F _ { \kappa } ( r ) < 0 \quad \mathrm { f o r } \quad \kappa < 0 , \qquad \operatorname* { l i m } _ { r \to 0 } G _ { \kappa } ( r ) F _ { \kappa } ( r ) > 0 \quad \mathrm { f o r } \quad \kappa > 0 ,
+$$
+
+and
+
+$$
+\operatorname * { l i m } _ { r  \infty } G _ { \kappa } ( r ) F _ { \kappa } ( r ) < 0 .
+$$
+
+Furthermore, since both $M _ { + } ( r )$ and $M _ { - } ( r )$ are positive at nodes of $G$ and $F$ ,one has
+
+$$
+[ G _ { \kappa } ( r ) F _ { \kappa } ( r ) ] ^ { \prime } | _ { r = r _ { 1 } } = - M _ { - } ( r _ { 1 } ) G ^ { 2 } ( r _ { 1 } ) < 0 ,
+$$
+
+at $F ( r _ { 1 } ) = 0$ , and
+
+$$
+[ G _ { \kappa } ( r ) F _ { \kappa } ( r ) ] ^ { \prime } | _ { r = r _ { 2 } } = M _ { + } ( r _ { 2 } ) F ^ { 2 } ( r _ { 2 } ) > 0 ,
+$$
+
+at $G ( r _ { 2 } ) = 0$ .This indicates $G _ { \kappa } ( r ) F _ { \kappa } ( r )$ is a decreasing function at the nodes of $F$ and an increasing function at the nodes of $G$
+
+Combining all the properties discussed above, one can conclude that: (i) For $\kappa > 0$ ， $G _ { \kappa } ( r ) F _ { \kappa } ( r )$ has an odd number of zeroes,and the first and the last zeroes belong to the nodes of $F$ . As a result, $F$ has one more node than $G$ . (ii) For $\kappa < 0$ $G _ { \kappa } ( r ) F _ { \kappa } ( r )$ has an even number of zeroes,and the first and the last zeroes belong to the nodes of $G$ and $F$ , respectively. As a result, $G$ and $F$ have the same number of nodes.Note that this also includes the case that neither $G$ nor $F$ has internal nodes. Therefore,the number of internal nodes of $G$ and $F , n _ { G }$ and $n _ { F }$ ，obeys [272]
+
+$$
+n _ { F } = n _ { G } \quad \mathrm { f o r } \quad \kappa < 0 , \qquad n _ { F } = n _ { G } + 1 \quad \mathrm { f o r } \quad \kappa > 0 .
+$$
+
+![](images/118457b3293acc44be55a9958ae39395f9fbc71b0d19e9b199bc613034ea4654.jpg)  
+Figure 12: Products of the upper and lower components $G ( r ) F ( r )$ of the neutron $3 s _ { 1 / 2 }$ $2 d _ { 3 / 2 }$ ,and （204号 $1 d _ { 5 / 2 }$ states in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RMF theory with the effective interaction PC-PK1 [297].
+
+In Fig.12,the products of the upper and lower components $\boldsymbol { G } ( \boldsymbol { r } ) \boldsymbol { F } ( \boldsymbol { r } )$ are shown for the $3 s _ { 1 / 2 } , 2 d _ { 3 / 2 }$ ，and $1 d _ { 5 / 2 }$ states. From panels (a) and (b),one can confirm all the properties discussed above. If there exist internal nodes, the last one must belong to $F$ . For the $\kappa > 0$ states, $F$ has one node more than $G$ ,while for the $\kappa < 0$ states, $F$ has the same number of nodes as $G$ . Meanwhile, $G ( r ) F ( r )$ is a decreasing function at the nodes of $F$ and an increasing function at the nodes of $G$ ：
+
+It should be noted that there is a kind of special case that $n _ { F } = n _ { G } = 0$ for all the lowest $j = l + 1 / 2$ orbitals, e.g., the $1 d _ { 5 / 2 }$ state shown in panel (c) of Fig. 12. These orbitals are special because they have no pseudospin partners. We will come back to this point with the discussions on the puzzle of intruder states in Section 4.2.
+
+Before ending this part, it is important to point out that,within the nonconfining potentials, there exist no bound states in the Fermi sea at the PSS limit [272]. The reason is following: On one hand, for the bound states, $M _ { - } ( r )$ must be negative at large $r$ because $M _ { + } ( r )$ is always positive. The exact PSS limit (17) means $M _ { - }$ is simply a constant, which means $M _ { - }$ is a negative constant here. On the other hand, from Eqs.(8O) and (81),we know that $\boldsymbol { G } ( \boldsymbol { r } ) \boldsymbol { F } ( \boldsymbol { r } )$ goes to zero for both small and large $r$ ，but $\boldsymbol { G } ( \boldsymbol { r } ) \boldsymbol { F } ( \boldsymbol { r } )$ cannot be identically zero for all $r$ .This means $[ G ( \boldsymbol { r } ) F ( \boldsymbol { r } ) ] ^ { \prime }$ in Eq.(79) must be negative for some range of $r$ and positive for some other range of $r$ . However, this is impossible if $M _ { + } ( r )$ is always positive and $M _ { - } ( r )$ is a negative constant. This contradiction demonstrates that within the non-confining potentials there exist no bound states in the Fermi sea at the PSS limit.
+
+# 3.2.2. Nodal structure for confining potentials
+
+Chen et al. pointed out in Ref. [88] that there can exist bound states in the Fermi sea at the PSS limit (17), $d \Sigma ( r ) / d r = 0$ , if the potential $\Delta ( r )$ satisfies
+
+$$
+\operatorname* { l i m } _ { r  \infty } \Delta ( r ) > M + \epsilon > 2 M + \Sigma _ { 0 } .
+$$
+
+As discussed in the previous part, for a bound state,its wave functions $G ( r )$ and $F ( r )$ should go to zero exponentially at large $r$ . From Eqs.(76), one finds that this requirement can be fulfilled either by $M _ { + } ( r ) > 0$ and $M _ { - } ( r ) < 0$ or by $M _ { + } ( r ) < 0$ and $M _ { - } ( r ) > 0$ at large $r$ . The bound states in the non-confining potentials belong to the former case.On the other hand, the exact PSS limit(17) indicates $M _ { - }$ is simply a constant, in particular, it should be positive for all possible solutions belonging to the Fermi sea. These solutions become the bound states as long as $M _ { + } ( r ) < 0$ at large $r$ , which corresponds to the condition given in Eq. (85).
+
+![](images/0a2366246e5422eca166732d7ba405fbbf17da3ce6779881bd7d9734d87b0db1.jpg)  
+Figure 13: (Color online) Relativistic harmonic oscillator potential for $\begin{array} { r } { V ( r ) = - S ( r ) = \frac { 1 } { 4 } M \omega ^ { 2 } r ^ { 2 } } \end{array}$ with $M = 1 0 . 0 \mathrm { f m ^ { - 1 } }$ and $\omega = 2 . 0 \mathrm { f m ^ { - 1 } }$
+
+A typical example for such kind of potential is the relativistic harmonic oscillator potential [88-90, 92],
+
+$$
+\Delta ( r ) = \frac 1 2 M \omega ^ { 2 } r ^ { 2 } ,
+$$
+
+as illustrated in Fig. 13. This is called the confining potential [273] as $\Delta ( r ) \to \infty$ for $r \to \infty$ , and it is different from the non-confining potential as shown in Fig. 3.
+
+Recently， the nodal structure of the wave functions obtained within the confining potential was demonstrated in an analytical way by Alberto, de Castro, and Malheiro [273]. Assuming the potential $\Delta ( r )$ goes to infinity at large $r$ as a power law, $\begin{array} { r } { \operatorname* { l i m } _ { r \to \infty } \Delta ( r ) \ = \ C r ^ { a } } \end{array}$ ，with $C > 0$ and $a > 0$ ，the wave functions $G ( r )$ and $F ( r )$ go to zero exponentially as $G ( r ) \propto F ( r ) \propto e ^ { - \lambda r ^ { a / 2 + 1 } }$ . In this case, $\lambda = 2 \sqrt { C ( \epsilon - M - \Sigma _ { 0 } ) } / ( a + 2 )$ indicating that $\epsilon > M + \Sigma _ { 0 }$ is the condition for the bound states.
+
+For these single-particle bound states, the effective mass $M _ { - } ( r )$ is a positive constant,and the effective mass $M _ { + } ( r )$ is positive at the origin and becomes negative at large $r$ ,changing its sign at $r _ { 0 }$ . Therefore, the asymptotic behaviors of their radial wave functions at small $r$ still have the properties shown in Eqs. (77). In addition, Eqs. (79),(8O), (82),and (83) also remain valid. It follows that nodes of $G$ and $F$ can occur only where both $M _ { + } ( r ) > 0$ and $M _ { - } ( r ) > 0$ ，as well as $\boldsymbol { G } ( \boldsymbol { r } ) \boldsymbol { F } ( \boldsymbol { r } )$ is a decreasing function at the nodes of $F$ and an increasing function at the nodes of $G$
+
+Compared with the non-confining potentials, the difference happens in Eq. (81). Within the confining potentials, $M _ { - } ( r ) > 0$ and $M _ { + } ( r ) < 0$ at large $r$ ,and thus the right hand side of Eq.(79) is negative. This indicates
+
+$$
+\operatorname * { l i m } _ { r  \infty } G _ { \kappa } ( r ) F _ { \kappa } ( r ) > 0 ,
+$$
+
+and thus if there exist internal nodes in the wave function the last one must belong to $G$ . Therefore, the number of internal nodes of $G$ and $F$ $n _ { G }$ and $n _ { F }$ ,obeys [273]
+
+$$
+n _ { F } = n _ { G } - 1 \quad \mathrm { f o r } \quad \kappa < 0 , \qquad n _ { F } = n _ { G } \quad \mathrm { f o r } \quad \kappa > 0 .
+$$
+
+# 3.2.3. Exact PSS in confining potentials
+
+As pointed out above, the exact PSS can be fulfilled for the single-particle bound states in the Fermi sea within the confining potentials. The first example was shown in Ref. [88].
+
+Figure 14: Single-particle spectrum in units of $\mathrm { f m } ^ { - 1 }$ for $V ( r ) ~ = ~ - S ( r ) ~ = ~ M \omega ^ { 2 } r ^ { 2 } / 4$ (the left panel) and $V ( r ) = - S ( r ) = M \omega ^ { 2 } r ^ { 2 } / 4 - V _ { 0 } / [ 1 + e ^ { ( r - R ) / a } ]$ (the right panel) with $M = 1 0 . 0 \mathrm { f m ^ { - 1 } }$ ， $\omega = 2 . 0 \ \mathrm { f m ^ { - 1 } }$ ， $V _ { 0 } = 5 . 0 \mathrm { f m ^ { - 1 } }$ $R = 0 . 3 \mathrm { f m }$ ,and $a = 0 . 0 5 \mathrm { f m }$ . The pseudospin singlets are shown with the dashed line,and the pseudospin doublets with the solid lines.Taken from Ref.[88] and modified to present notations.
+
+In the left panel of Fig. 14, the single-particle spectrum for $V ( r ) = - S ( r ) =$ $M \omega ^ { 2 } r ^ { 2 } / 4$ with $M = 1 0 . 0 \mathrm { f m ^ { - 1 } }$ and $\omega = 2 . 0 \ \mathrm { f m ^ { - 1 } }$ is shown. Note that different from the figures in Ref.[88], here the main quantum number $n$ of each state equals the number of its internal nodes for the dominant component of the Dirac spinor plus one. It can be seen that there are the exact pseudospin degeneracies for the pseudospin doublets, such as $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ ， $( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ , etc. This spectrum has higher degeneracy than that of PSS due to the speciality of the harmonic oscillator potential. To eliminate the extra degeneracies,an additional term of Woods-Saxon potential is introduced, $V ( r ) = - S ( r ) = M \omega ^ { 2 } r ^ { 2 } / 4 - V _ { 0 } / [ 1 + e ^ { ( r - R ) / a } ]$ with $V _ { 0 } =$
+
+$5 . 0 \mathrm { f m ^ { - 1 } }$ $R = 0 . 3 \mathrm { f m }$ ,and $a = 0 . 0 5$ fm. The single-particle spectrum thus obtained is shown in the right panel of Fig. 14,where the pseudospin singlets are shown with the dashed lines,and the doublets with the solid lines. By comparing these two panels, we see this new term reduces all redundant degeneracies of harmonic oscillator potential and keeps the pseudospin symmetry.
+
+The radial wave functions for the pseudospin singlets, $1 p _ { 1 / 2 }$ and $2 { p } _ { 1 / 2 }$ ，are shown in Fig. 15(a) and (b), where the dashed lines are for the lower components $F _ { n \kappa }$ of the Dirac spinor and the solid lines for the upper components $G _ { n \kappa }$ . Those for the pseudospin doublets, $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } ) , ( 3 s _ { 1 / 2 } , 2 d _ { 3 / 2 } ) , ( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ ,and $( 3 p _ { 3 / 2 }$ $2 f _ { 5 / 2 , } \cdot$ ), are shown in Fig. 15(c)-(e). It can be seen that for every pair of doublets, their lower components are identical as proven before Eq.(71). Meanwhile, their upper components look very different since they obey the first-order differential relation shown in Eq. (72).
+
+Furthermore, Fig.15 confirms that if there exist internal nodes in the radial wave functions, the last one belongs to the upper components $G$ . It is also seen that the upper and lower components are now in phase at large $r$ , rather than out of phase for the cases of the non-confining potentials shown in Figs.8 and 12.
+
+It is interesting and important to point out that within the confining potentials all of the $n = 1$ eigenstates for the $j _ { > } = l + 1 / 2 \left( \kappa < 0 \right)$ orbitals disappear in the Fermi sea, such as $1 s _ { 1 / 2 } , 1 p _ { 3 / 2 } , 1 d _ { 5 / 2 }$ ,etc.,as seen in Fig.14. This is because the nodal structure (88) of the wave functions obtained within the confining potentials is different from the conventional nodal structure (84) appearing in the isolated atomic nuclei. For the $\kappa < 0$ orbitals,it has been proven that $n _ { F } = n _ { G } - 1$ ，and since $n _ { F }$ cannot be negative,all of such eigenstates have at least one internal node in their upper components of the Dirac spinor. In other words, the single-particle spectra for $\kappa < 0$ orbitals start from the main quantum number $n = 2$ . As a result, there are no intruder states in the single-particle spectrum at all, and every $\tilde { l } > 0$ state has its own pseudospin partner.
+
+![](images/5c03be825ef59652c40c2f1bce4c37ccbda32f729193dd99f078d7007f90960e.jpg)  
+Figure 15: Unnormalized radial wave functions for $V ( r ) = - S \left( r \right) = M \omega ^ { 2 } r ^ { 2 } / 4 - V _ { 0 } / [ 1 + e ^ { ( r - R ) / a } ]$ with $M = 1 0 . 0 \mathrm { f m ^ { - 1 } }$ ， $\omega = 2 . 0 \ \mathrm { f m ^ { - 1 } }$ ， $V _ { 0 } = 5 . 0 \ \mathrm { f m ^ { - 1 } }$ $R = 0 . 3 ~ \mathrm { f m }$ ,and $a = 0 . 0 5 \ \mathrm { f m }$ . Pseudospin singlet states: (a) $1 p _ { 1 / 2 }$ and (b) $2 { p } _ { 1 / 2 }$ . Pseudospin doublet states: (c) $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ ，(d) $( 3 s _ { 1 / 2 }$ $2 d _ { 3 / 2 } \cdot$ ，(e) $( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ ，and (f) $( 3 p _ { 3 / 2 } , 2 f _ { 5 / 2 } )$ ．Taken from Ref. [88] and modified to present notations.
+
+In summary, the nodal structure of the Dirac spinor can be derived analytically. For the non-confining and confining potentials,the corresponding relations are shown in Eq. (84) and Eq. (88), respectively. This also explains the reason why at the pseudospin symmetry limit there are no bound states in the Fermi sea within the non-confining potentials,but there exist bound states within the confining potentials. Meanwhile, it is interesting to see that all states with $\tilde { l } > 0$ have their own pseudospin partners in the confining potentials,as shown in Fig. 14, but this is not the case for the non-confining potentials appearing in the isolated atomic nuclei, as shown in Fig. 4. We consider this as a puzzle of intruder states and will discuss in more detail in Section 4.2.
+
+# 3.3. From local potentials to non-local potentials
+
+So far,most of studies on the pseudospin symmetry mainly focus on the single-particle Hamiltonian with only local potentials. López-Quelle et al. [171] performed one of the first investigations of the pseudospin symmetry with non-local potentials in the framework of the relativistic Hartree-Fock theory [181，182].Recently， the relativistic Hartree-Fock theory achieved lots of success in describing nuclear ground-state and excited-state properties, by introducing the density-dependent meson-nucleon couplings by Long and coauthors [53,183, 306]. Along this direction,more detailed investigations of the pseudospin symmetry in the relativistic Hartree-Fock theory were performed in Refs. [45,175],as well as the spin symmetry in the anti-nucleon spectra in Ref. [198].
+
+In this Section, we will briefly introduce the relativistic Hartree-Fock theory, and then mainly focus on the special features of pseudospin symmetry due to the non-local potentials. The spin symmetry in the anti-nucleon spectra will be discussed in Section 3.6.
+
+# 3.3.1. Relativistic Hartree-Fock theory
+
+Similar to the RMF theory, the starting point of the RHF theory [181,182] is a Lagrangian density $\mathcal { L }$ (52),in which the nucleus is described as a system of Dirac nucleons that interact with each other via the exchange of mesons and photons. With the general Legendre transformation (55) as well as the mean-field and no-sea approximations (56),one has the energy density functional for the whole system,
+
+$$
+E _ { \mathrm { R H F } } = \left. \Phi _ { 0 } \right| \mathcal { H } \left| \Phi _ { 0 } \right. .
+$$
+
+However, different from the RMF theory,here both the direct and exchange contributions of the meson and Coulomb fields, the so-called Hartree and Fock terms,are included.
+
+In such a way, the effective nucleon-nucleon tensor interactions can be naturally taken into account, which are practically absent at the Hartree level. The corresponding parts in the Lagrangian density read [53, 306]
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \displaystyle { \mathcal L } _ { \rho } ^ { T } = \frac { f _ { \rho } } { 2 M } \bar { \psi } \sigma ^ { \mu \nu } \partial _ { \nu } \vec { \rho } _ { \mu } \cdot \vec { \tau } \psi , } } \\ { { } } & { { } } & { { \displaystyle { \mathcal L } _ { \pi } = - \frac { f _ { \pi } } { m _ { \pi } } \bar { \psi } \gamma _ { 5 } \gamma ^ { \mu } \partial _ { \mu } \vec { \pi } \cdot \vec { \tau } \psi + \frac { 1 } { 2 } \partial _ { \mu } \vec { \pi } \cdot \partial ^ { \mu } \vec { \pi } - \frac { 1 } { 2 } m _ { \pi } ^ { 2 } \vec { \pi } \cdot \vec { \pi } , } } \end{array}
+$$
+
+corresponding to the $\rho { - } N$ tensor and $\pi { - } N$ pseudovector couplings. These tensor interactions are crucial for improving the descriptions of the nuclear shell structures and their evolutions [50, 51, 53, 54, 306].
+
+In recent studies,it has been also shown that the meson exchange terms play very important roles in the nucleon effective mass splitting [183],symmetry energies [3O7], halo structure [45],deformation [308],and spin-isospin resonances [309,31O]. Meanwhile, the Coulomb exchange term [311] is crucial for understanding the isospin symmetry-breaking corrections to the superallowed $\beta$ decays [312] in order to test the unitarity of the Cabibbo-Kobayashi-Maskawa matrix [313].
+
+In the RHF theory, the eigenfunction equations for nucleons involve nonlocal potentials due to the finite-range meson and photon exchanges. For the spherical case, the corresponding radial Dirac equations are expressed as the coupled integro-differential equations [182],
+
+$$
+\left( \begin{array} { c c } { { M + \Sigma ^ { D } ( r ) } } & { { - \frac { d } { d r } + \frac { \kappa } { r } } } \\ { { \frac { d } { d r } + \frac { \kappa } { r } } } & { { - M + \Delta ^ { D } ( r ) } } \end{array} \right) \left( \begin{array} { c } { { G ( r ) } } \\ { { F ( r ) } } \end{array} \right) + \left( \begin{array} { c } { { Y ( r ) } } \\ { { X ( r ) } } \end{array} \right) = \epsilon \left( \begin{array} { c } { { G ( r ) } } \\ { { F ( r ) } } \end{array} \right) ,
+$$
+
+where $\Sigma ^ { D }$ and $\Delta ^ { D }$ contain the contributions from the Hartree terms as shown in Eq.(10)，while $X$ and $Y$ functions represent the results of the non-local Fock potentials acting on the wave functions $F$ and $G$ ,respectively.
+
+# 3.3.2. PSS in non-local potentials
+
+As shown in Refs. [45,171,175], in many cases the single-particle spectra obtained in the self-consistent RHF theory show a good PSS. It was also found that the stability of neutron halo structures,e.g., in the drip-line Ce isotopes,is closely related to the PSS conservation of the single-proton spectrum. In this PSS conservation the $\rho { - } N$ tensor coupling in Eq. (9O) plays an essential role via the Fock terms [45]. However, in these cases,it is more sophisticated to trace the origin of the PSS and the exact PSS limit is no longer as simple as $d \Sigma ^ { D } ( r ) / d r = 0$ (17) because of the non-local potentials [171].
+
+One possible way for tracing the origin of the PSS with non-local potentials was pointed out by Long et al. [175] by introducing the localized equivalent potentials,
+
+$$
+\begin{array} { l } { { \displaystyle { \cal X } ( r ) = \frac { G ( r ) { \cal X } ( r ) } { G ^ { 2 } ( r ) + F ^ { 2 } ( r ) } G ( r ) + \frac { F ( r ) { \cal X } ( r ) } { G ^ { 2 } ( r ) + F ^ { 2 } ( r ) } F ( r ) \equiv { \cal X } _ { G } ( r ) G ( r ) + { \cal X } _ { F } ( r ) F ( r ) , } } \\ { { \displaystyle { \cal Y } ( r ) = \frac { G ( r ) { \cal Y } ( r ) } { G ^ { 2 } ( r ) + F ^ { 2 } ( r ) } G ( r ) + \frac { F ( r ) { \cal Y } ( r ) } { G ^ { 2 } ( r ) + F ^ { 2 } ( r ) } F ( r ) \equiv { \cal Y } _ { G } ( r ) G ( r ) + { \cal Y } _ { F } ( r ) F ( r ) , } } \end{array}
+$$
+
+so that the radial Dirac equations (91) can be rewritten as
+
+$$
+\begin{array} { l } { \displaystyle \left[ \frac { d } { d r } - \frac { \kappa } { r } - Y _ { F } ( r ) \right] F ( r ) - \left[ \Sigma ( r ) - E \right] G ( r ) = 0 \ : , } \\ { \displaystyle \left[ \frac { d } { d r } + \frac { \kappa } { r } + X _ { G } ( r ) \right] G ( r ) + \left[ \Delta ( r ) - E \right] F ( r ) = 0 \ : , } \end{array}
+$$
+
+where $E = \epsilon - M , \Sigma = \Sigma ^ { D } + Y _ { G }$ ,and $\Delta = \Delta ^ { D } + X _ { F } - 2 M .$
+
+The corresponding Schrodinger-like equation for the lower component $F ( r )$ reads
+
+$$
+\frac { d ^ { 2 } } { d r ^ { 2 } } F + V _ { 1 } \frac { d } { d r } F + ( \Phi _ { \mathrm { P C B } } + \Phi _ { \mathrm { P S O } } + V _ { 2 } ) F = - ( \Delta ^ { D } - E ) ( \Sigma ^ { D } - E ) F ,
+$$
+
+with
+
+$$
+\begin{array} { l } { { { \displaystyle V _ { 1 } = ( X _ { G } - Y _ { F } ) - \frac { 1 } { \Sigma - E } \frac { d \Sigma } { d r } } , } } \\ { { { \displaystyle V _ { 2 } = Y _ { F } \frac { 1 } { \Sigma - E } \frac { d \Sigma } { d r } - X _ { G } Y _ { F } - \frac { d } { d r } Y _ { F } + Y _ { G } ( \Delta ^ { D } - E ) + X _ { F } ( \Sigma - E ) } , \ ~ } } \\ { { { \displaystyle \mathcal V _ { \mathrm { P S 0 } } = \frac { \kappa } { r } \left[ \frac { 1 } { \Sigma - E } \frac { d \Sigma } { d r } - ( X _ { G } + Y _ { F } ) \right] , \ } } } \\ { { { \displaystyle \mathcal V _ { \mathrm { P C B } } = \frac { \kappa ( 1 - \kappa ) } { r ^ { 2 } } , \ } } } \end{array}
+$$
+
+where $\boldsymbol { \mathcal { V } } _ { \mathrm { P C B } }$ and $\mathcal { V } _ { \mathrm { P S O } }$ correspond to the PCB and PSO potential, respectively. While the potential $V _ { 2 }$ entirely originates from the Fock contributions，the Hartree and Fock contributions to $V _ { 1 }$ and the PSO potential can be approximately separated as,
+
+$$
+\begin{array} { r l } { { \displaystyle V _ { 1 } ^ { D } = - \frac { 1 } { \Sigma - E } \frac { d \Sigma ^ { D } } { d r } , \quad } } & { { \displaystyle V _ { 1 } ^ { E } = ( X _ { G } - Y _ { F } ) - \frac { 1 } { \Sigma - E } \frac { d Y _ { G } } { d r } , } } \\ { { \displaystyle \mathcal { V } _ { \mathrm { P S O } } ^ { D } = \frac { \kappa } { r } \frac { 1 } { \Sigma - E } \frac { d \Sigma ^ { D } } { d r } , \quad } } & { { \displaystyle \mathcal { V } _ { \mathrm { P S O } } ^ { E } = \frac { \kappa } { r } \left[ \frac { 1 } { \Sigma - E } \frac { d Y _ { G } } { d r } - ( X _ { G } + Y _ { F } ) \right] , } } \end{array}
+$$
+
+denoted with superscripts $\mathbf { \vec { \nabla } } D ^ { \prime } \mathbf { \vec { \nabla } }$ and " $\cdot E ^ { \prime }$ , respectively
+
+Finally, to have a better understanding of the PSO splitting，especially the effects of non-local Fock terms, it will be more transparent to rewrite Eq. (94) as [175]
+
+$$
+\frac { 1 } { \Delta ^ { D } - E } \frac { d ^ { 2 } } { d r ^ { 2 } } F + \frac { 1 } { \Delta ^ { D } - E } \left[ \mathcal { V } _ { \mathrm { P C B } } + \mathcal { V } ^ { D } + \mathcal { V } ^ { E } \right] F + \Sigma ^ { D } F = E F ,
+$$
+
+where the operators $\mathcal { V } ^ { D }$ and $\mathcal { V } ^ { E }$ are respectively
+
+$$
+\mathcal { V } ^ { D } = V _ { 1 } ^ { D } \frac { d } { d r } + \mathcal { V } _ { \mathrm { P S O } } ^ { D } \qquad \mathrm { a n d } \qquad \mathcal { V } ^ { E } = V _ { 1 } ^ { E } \frac { d } { d r } + \mathcal { V } _ { \mathrm { P S O } } ^ { E } + V _ { 2 } .
+$$
+
+From Eq.(97),one can estimate the contributions of the potentials $\mathcal { V } _ { \mathrm { P C B } } , \mathcal { V } ^ { D }$ ,and $\mathcal { V } ^ { E }$ to the single-particle energy $E$ . For example, the PCB contribution can be evaluated by
+
+$$
+\int _ { 0 } ^ { \infty } \frac { \mathcal { V } _ { \mathrm { { P C B } } } } { \Delta ^ { D } - E } F ^ { 2 } d r \Bigg / \int _ { 0 } ^ { \infty } F ^ { 2 } d r .
+$$
+
+Although there exists a singularity in $1 / ( \Delta ^ { D } - E )$ ， it has been proven that the principal values of these integrals are finite due to the nodal structure of $F ( r )$ [72, 167].
+
+In Table 2, the results calculated by the self-consistent RHF theory with the effective interaction PKO1 [183] are shown for the neutron $1 \tilde { p }$ and $2 \tilde { p }$ pseudospin doublets in $^ { 1 3 2 } \mathrm { S n }$ . For comparison, the corresponding results calculated by the RMF theory with the effective interaction PKDD [29O] are shown in the lower part.In addition, their radial wave functions $G ( r )$ and $F ( r )$ as well as the nonlocal terms $X ( r )$ and $Y ( r )$ given by the RHF theory are shown in Fig.16.
+
+Table 2: Single-particle energies $E$ in $^ { 1 3 2 } \mathrm { S n }$ and the contributions from each term in the left-hand side of Eq. (97) givenby the RHF theory with the effective interaction PKO1[183],in comparison with those by the RMF theory with the effective interaction PKDD [290]. All units are in MeV. The data are taken from Ref.[175].   
+
+<html><body><table><tr><td></td><td>State</td><td>E</td><td>F"</td><td>£D</td><td>VPCB</td><td>VD VE</td></tr><tr><td>RHF</td><td>v2s1/2</td><td>-31.41</td><td>18.11</td><td>-75.35</td><td>9.30 -2.99</td><td>19.51</td></tr><tr><td>PKO1</td><td>v1d3/2</td><td>-34.90</td><td>14.87</td><td>-79.01</td><td>9.54 0.44</td><td>19.26</td></tr><tr><td></td><td>v3s1/2</td><td>-8.33</td><td>34.25</td><td>-72.00</td><td>11.11 0.09</td><td>18.22</td></tr><tr><td></td><td>v2d3/2</td><td>-8.66</td><td>31.93</td><td>-73.96</td><td>11.32 3.89</td><td>18.17</td></tr><tr><td>RMF</td><td>v2 s1/2</td><td>-34.81</td><td>21.86</td><td>-64.65</td><td>11.04</td><td>-3.07</td></tr><tr><td>PKDD</td><td>v1d3/2</td><td>-38.87</td><td>18.17</td><td>-68.08</td><td>11.41 -0.37</td><td></td></tr><tr><td></td><td>v3s1/2</td><td>-8.15</td><td>40.13</td><td>-61.97</td><td>13.02 0.67</td><td></td></tr><tr><td></td><td>v2d3/2</td><td>-8.44</td><td>37.65</td><td>-63.75</td><td>13.36</td><td>4.30</td></tr></table></body></html>
+
+![](images/2ceb1a32fa60c0ec4053248a3f3814f40f8707f84ca30f6d0b8203a0c0ec942f.jpg)  
+Figure 16:(Color online) Radial wave functions $G$ and $F$ (left panels),and the non-local terms $X$ and $Y$ (right panels) for the $\nu 1 \tilde { p }$ and $\nu 2 \tilde { p }$ doublets in $^ { 1 3 2 } \mathrm { S n }$ given by the RHF theory with the effective interaction PKO1 [183]. Taken from Ref.[175].
+
+First of all, the RHF and RMF theories share the same properties on the $F ^ { \prime \prime }$ $\Sigma ^ { D }$ ， $\scriptstyle \mathcal { V } _ { \mathrm { P C B } }$ ，and $\mathcal { V } ^ { D }$ terms.The differences between the pseudospin partners in the PCB are very small, whereas the differences in the $F ^ { \prime \prime } , \Sigma ^ { D }$ ,and $\mathcal { V } ^ { D }$ terms are substantial individually. However, these three terms cancel largely one another and the PSS is conserved very well.
+
+![](images/57f49e3d227dde333943f584c92f372ef96bd3cae77119c79c16a87a2e2ca2bb.jpg)  
+Figure 17: (Color online)Functions $\mathcal { V } _ { \mathrm { P S O } } ^ { E } F ^ { 2 } / ( \Delta ^ { D } - E )$ and $V _ { 1 } ^ { E } F F ^ { \prime } / ( \Delta ^ { D } - E )$ for the $\nu 1 \tilde { p }$ and $\nu 2 \tilde { p }$ （204号 doublets in $^ { 1 3 2 } \mathrm { S n }$ given by the Fock terms of the RHF theory with PKO1. The singular points at $r \simeq 6$ fm for $\nu 1 \tilde { p }$ and at $r \simeq 7 . 5$ fm for $\nu 2 \tilde { p }$ are due to the denominator $( \Sigma - E )$ in the PSO potential, while the other local peaks are due to the nodes of the upper component $G$ . Taken from Ref.[175].
+
+For the special features in the RHF theory, it is found that the gross differences in the Fock terms $\mathcal { V } ^ { E }$ are almost negligible. The main reason is that there exist significant cancellations between $\mathcal { V } _ { \mathrm { P S O } } ^ { E }$ and $V _ { 1 } ^ { E }$ in Eq. (98),especially in the inner part of the nucleus. The functions $\mathcal { V } _ { \mathrm { P S O } } ^ { E } F ^ { 2 } / ( \Delta ^ { D } - E )$ and $V _ { 1 } ^ { E } F F ^ { \prime } / ( \Delta ^ { D } - E )$ （204号 for the neutron $1 \tilde { p }$ and $2 \tilde { p }$ doublets are illustrated in Fig.17. In other words, although the Fock terms bring substantial contributions to the PSO potential, these contributions are canceled by the other exchange term $V _ { 1 } ^ { E }$ ，which stems mainly from the non-locality of the state-dependent exchange potentials. Furthermore, it was pointed out that these cancellations are not accidental but because of the similar radial dependence between the Fock-related terms $( X , Y )$ and the wave functions $( F , G )$ [175], as shown in Fig. 16.
+
+In summary， the Fock terms in the relativistic Hartree-Fock theory bring significant contributions to the pseudospin-orbit potential and make it comparable to the pseudo-centrifugal barrier. However, these Fock terms in the pseudospinorbit potential are counteracted by other exchange terms due to the non-locality of the exchange potentials. The physical mechanism of these cancellations was discussed in relation to the similarity between the exchange potentials and the Dirac wave functions. Therefore,although the non-local potentials make the analysis more much complicated, they do not substantially violate the general features of pseudospin symmetry described by only using the local potentials.
+
+# 3.4. From central potentials to tensor potentials
+
+The tensor component is a non-central contribution of the nucleon-nucleon interaction,which has been extensively discussed during the past decades.Ab initio calculations based on realistic nucleon-nucleon interactions have demonstrated the important role played by the bare tensor force in the description of the binding energy of nuclei [314, 315]. Its role has also been investigated for nuclear matter with realistic potentials [316].
+
+With the rich spin-isospin structure of finite nuclei, it is reasonable to expect that some nuclear observables are sensitive to the tensor force.For instance, the shell evolution and the modification of magic numbers far from stability are often discussed and interpreted in terms of tensor effects [1O]. In the framework of the shell model, the tensor contribution in shell evolution has been explored and its effects have been underlined by Otsuka et al. [317-319]. In the mean-field models, the tensor component has been also extensively discussed during the past years, including the non-relativistic Skyrme [320-324] and Gogny [325, 326] theories. The readers are referred to Ref. [327] for a recent review.
+
+As the covariant symmetry is conserved in the covariant density functional theory，the tensor interactions in this scheme usually indicate the interactions with Lorentz-type tensor couplings,i.e., those involving the Dirac matrix $\sigma ^ { \mu \nu }$ or $\gamma _ { 5 } \gamma ^ { \mu }$ .The Lorentz-type tensor interactions lead to both central and noncentral potentials,and the later ones correspond to the non-relativistic tensor components embedded in the covariant couplings. The Lorentz-type tensor effects on the shell evolution have been discussed in the relativistic Hartree-Fock theory [53,183, 3O6]. Furthermore, the tensor effects in the relativistic and nonrelativistic theories were systematically compared in Refs. [50, 51].
+
+In this Section,we will mainly focus on three different examples for illustrating the tensor effects on the pseudospin symmetry. The first example is the relativistic harmonic oscillator with a linear tensor potential,which admits analytical solutions [89]. Self-consistently, the $\omega { - } N$ tensor coupling is one of the widely used ways to include the tensor potential for the covariant density functional theory in the Hartree level [328].The corresponding effectson the pseudospin symmetry were investigated in Ref. [173]. Similarly, the $\omega { - } \bar { \Lambda }$ tensor effect on the spin symmetry in the single $\bar { \Lambda }$ spectra will be discussed in
+
+Section 3.7. Finally, we will discuss the tensor effects in the relativistic HartreeFock theory [53],which is considered as a more complete way to include the effective nucleon-nucleon tensor interactions in the scheme of covariant density functional theory.
+
+# 3.4.1. Linear tensor potential
+
+When the Lorentz-type tensor couplings of the vector mesons to nucleons are taken into account in the CDFT [328], the single-particle Dirac Hamiltonian $H$ in Eq. (2) becomes
+
+$$
+H = \alpha \cdot \mathbf { p } + \beta [ M + S \left( \mathbf { r } \right) ] + V ( \mathbf { r } ) - i \beta \alpha \cdot \mathbf { T } ( \mathbf { r } ) ,
+$$
+
+where $\mathbf { T } ( \mathbf { r } )$ is the tensor potential. If the tensor potential is simply a function of the radial coordinate $r$ ,this Hamiltonian can be simplified as
+
+$$
+{ \cal H } = \alpha \cdot { \bf p } + \beta [ M + { \cal S } \left( { \bf r } \right) ] + V ( { \bf r } ) - i \beta \alpha \cdot \hat { \bf r } T ( r ) .
+$$
+
+When the spherical symmetry is adopted, the corresponding radial Dirac equation shown in Eq.（10) becomes
+
+$$
+\left( \begin{array} { c c } { \boldsymbol { M } + \boldsymbol { \Sigma } ( \boldsymbol { r } ) } & { - \displaystyle \frac { d } { d \boldsymbol { r } } + \frac { \kappa } { r } - \boldsymbol { T } ( \boldsymbol { r } ) } \\ { \displaystyle \frac { d } { d r } + \frac { \kappa } { r } - \boldsymbol { T } ( \boldsymbol { r } ) } & { - \boldsymbol { M } + \boldsymbol { \Delta } ( \boldsymbol { r } ) } \end{array} \right) \left( \begin{array} { c c } { \boldsymbol { G } ( \boldsymbol { r } ) } \\ { \boldsymbol { F } ( \boldsymbol { r } ) } \end{array} \right) = \epsilon \left( \begin{array} { c c } { \boldsymbol { G } ( \boldsymbol { r } ) } \\ { \boldsymbol { F } ( \boldsymbol { r } ) } \end{array} \right) .
+$$
+
+As mentioned in Section 3.2, there exist bound states in the Fermi sea at the PSS limit (17), $d \Sigma ( r ) / d r = 0$ ，as long as the potential $\Delta ( r )$ is confining．An example shown in Figs.14 and 15 corresponds to the case of relativistic harmonic Oscillator（20） with $\Sigma ( r ) = 0$ and $\Delta ( r ) = M \omega _ { 1 } r ^ { 2 } / 2$ . On top of this PSS limit, Lisboa et al. [89] investigated the effects of the tensor potential $T ( r )$ ,which was assumed as a linear function of $r$ ，
+
+$$
+T ( r ) = M \omega _ { 2 } r .
+$$
+
+The corresponding single-particle energies can be obtained analytically as [89]
+
+$$
+\epsilon ^ { 2 } - M ^ { 2 } - ( 2 \kappa + 1 ) M \omega _ { 2 } = \left( 2 \tilde { n } + \tilde { l } + { \frac { 3 } { 2 } } \right) \sqrt { 2 M ( \epsilon - M ) \omega _ { 1 } ^ { 2 } + 4 M ^ { 2 } \omega _ { 2 } ^ { 2 } } .
+$$
+
+Here $\tilde { n }$ is the number of the internal nodes of $F ( r )$ ,i.e., $n _ { F }$
+
+![](images/f615932e3afae85623725e6089be18e8b6ae114c3a9b0e662ae6df99adf6610b.jpg)  
+Figure 18:Single-particle energies as a function of $\omega _ { 2 }$ with $\Sigma ( r ) = 0$ ， $\omega _ { 1 } = 2$ ，and $M = 1 0$ .Here $\tilde { n } = n _ { F }$ is the number of the internal nodes of $F ( r )$ . Taken from Ref. [89].
+
+In Fig.18, the single-particle energies of $1 \tilde { s }$ state and $1 \tilde { p }$ pseudospin doublets are shown as a function of the tensor potential strength $\omega _ { 2 }$ .It is shown that in general the single-particle energies increase with $\omega _ { 2 }$ ，as $\omega _ { 2 } ^ { 2 }$ appears in the right hand side of Eq.(1O4). More importantly, the pseudospin-up states with $j _ { > } ^ { \mathrm { ~ ~ } } =$ $\tilde { l } + 1 / 2$ increase faster than the pseudospin-down states $j _ { < } = \tilde { l } - 1 / 2$ .This is because $\kappa > 0$ $( \kappa < 0 )$ for the $j _ { > } \left( j _ { < } \right)$ orbitals appearing in the left hand side of Eq. (104) .
+
+In this simple example, the SO splittings are not taken into account. Therefore, the $j _ { > }$ orbitals go higher in energy than the $j _ { < }$ orbitals once the tensor potential is included.
+
+# 3.4.2. Tensor potential of w meson
+
+For the CDFT in the Hartree level, i.e.， the RMF theory, the $\omega { - } N$ tensor coupling is one of the widely used ways to include the tensor potential selfconsistently [328,329],
+
+$$
+\mathcal { L } _ { \omega } ^ { T } = - \frac { f _ { \omega } } { 4 M } \bar { \psi } \sigma ^ { \mu \nu } \Omega _ { \mu \nu } \psi ,
+$$
+
+where $f _ { \omega }$ is the $\omega { - } N$ tensor coupling strength and $\Omega _ { \mu \nu }$ is the field tensor defined in Eq. (53). In the spherical systems,the tensor potential thus obtained is
+
+$$
+T ( r ) = \frac { f _ { \omega } } { 2 M } \omega _ { 0 } ^ { \prime } ( r ) \approx \frac { 1 } { 2 M } \frac { f _ { \omega } } { g _ { \omega } } V ^ { \prime } ( r ) ,
+$$
+
+which is approximately proportional to the derivative of the vector potential $V ( r )$ if the contribution from the $\rho$ meson is negligible. With this tensor potential the Schrodinger-like equation for the lower component $F ( r )$ reads
+
+$$
+\left\{ \frac { d ^ { 2 } } { d r ^ { 2 } } - \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } - \frac { 1 } { M _ { - } } \frac { d M _ { - } } { d r } \left[ \frac { d } { d r } - \frac { \kappa } { r } + T \right] + 2 \kappa \frac { T } { r } + T ^ { \prime } - T ^ { 2 } \right\} F ( r ) = - M _ { + } M _ { - } F ( r ) .
+$$
+
+In Ref.[173], this equation is further expressed as
+
+$$
+\begin{array} { l } { { \displaystyle p ^ { 2 } F ( r ) + \left( T ^ { 2 } - T ^ { \prime } - 2 \frac { T } { r } - \frac { \Sigma ^ { \prime } T } { E - \Sigma } \right) F ( r ) - \frac { \Sigma ^ { \prime } } { E - \Sigma } \frac { d F ( r ) } { d r } + \left( - 4 T + 2 \frac { \Sigma ^ { \prime } } { E - \Sigma } \right) \frac { \bf L \cdot S } { r } F ( r ) } } \\ { { \displaystyle = ( E - \Sigma ) ( E + 2 M - \Delta ) F ( r ) . } } \end{array}
+$$
+
+By dividing it by $2 M ^ { * } = E + 2 M - \Delta$ ，the energy decomposition of the above equation reads [173]
+
+$$
+\left. \frac { p ^ { 2 } } { 2 M ^ { * } } \right. + \left. V _ { T } \right. + \left. V _ { \Sigma ^ { \prime } T } \right. + \left. V _ { \mathrm { D a r w i n } } \right. + \left. V _ { \mathrm { P S O } } \right. + \left. \Sigma \right. = E ,
+$$
+
+where
+
+$$
+\langle V _ { i } \rangle \equiv \frac { \int F ^ { * } V _ { i } F d r } { \int F ^ { * } F d r } ,
+$$
+
+and
+
+$$
+\begin{array} { c } { { { \displaystyle V _ { T } = \frac { 1 } { 2 M ^ { * } } \left( T ^ { 2 } - T ^ { \prime } - 2 \frac { T } { r } \right) , } } } \\ { { { \displaystyle V _ { \Sigma ^ { \prime } T } = - \frac { 1 } { 2 M ^ { * } } \frac { \Sigma ^ { \prime } T } { E - \Sigma } , } } } \\ { { { \displaystyle V _ { \mathrm { D a r w i n } } = - \frac { 1 } { 2 M ^ { * } } \frac { \Sigma ^ { \prime } } { E - \Sigma } \frac { d } { d r } , } } } \\ { { { \displaystyle V _ { \mathrm { P S } 0 } = \frac { 1 } { 2 M ^ { * } } \left( - 2 T + \frac { \Sigma ^ { \prime } } { E - \Sigma } \right) \frac { \mathbf { L } \cdot \mathbf { S } } { r } , } } } \end{array}
+$$
+
+which correspond to the tensor, Darwin,and PSO contributions, respectively. For the terms with $E - \Sigma$ in the denominator, the integral is taken in the principal value sense.
+
+As an example, the single-particle energies of $1 \tilde { p }$ and $1 \tilde { h }$ pseudospin doublets in $^ { 2 0 8 } \mathrm { { P b } }$ and the contributions from each term in the left-hand side of Eq. (109) are calculated with Woods-Saxon potentials. The results without and with tensor potential in Eq. (1O6) are compared in Table 3.
+
+First of all, because the tensor interaction is a higher order interaction in the Lagrangian scaled by $1 / M$ ，the contributions of the $V _ { T }$ and $V _ { \Sigma ^ { \prime } T }$ terms in energy are small compared to the others. However, because the SO or PSO interaction is a term of the same order, the tensor effects on the SO and PSO splittings can be significant.
+
+Focusing on the pseudospin-orbit splittings $\Delta E _ { \mathrm { P S O } }$ ，for the deeply bound pseudospin doublets,the contribution of the PSO potential $V _ { \mathrm { P S O } }$ almost does not change with $f _ { \omega }$ ， whereas the contribution of terms such as $\left. p ^ { 2 } / 2 M ^ { * } \right.$ and $\left. \Sigma \right.$ ，which do not depend explicitly on the tensor potential $T$ ，is larger than that of $V _ { \mathrm { P S O } }$ . This means that the main contribution to the change of $\Delta E _ { \mathrm { P S O } }$ is mainly due to the change of the wave function induced by $T$ .Furthermore,the energy splitting results from a strong cancellation of the $\Delta \langle \Sigma \rangle , \Delta \langle V _ { \mathrm { D a r w i n } } \rangle$ ，and $\Delta \left. p ^ { 2 } / 2 M ^ { * } \right.$ contributions [173].
+
+Table 3: Single-particle energies $E$ of $1 \tilde { p }$ and $1 \tilde { h }$ pseudospin doublets in $^ { 2 0 8 } \mathrm { { P b } }$ and the contributions from each term in the left-hand side of Eq. (1O9) calculated by the Woods-Saxon potentials without and with tensor potential. The Woods-Saxon parameters are $R = 7$ fm, $\Delta _ { 0 } = 6 5 0 \mathrm { M e V } ,$ （ $\Sigma _ { 0 } =$ $- 6 6 \mathrm { M e V } ,$ and $a = 0 . 6 \mathrm { f m }$ . All units are in $\mathrm { \bf ~ M e V . }$ The data are taken from Ref.[173].   
+
+<html><body><table><tr><td>fu/gw</td><td>State</td><td>(p²/2M*)</td><td><Vr></td><td><V≥T)</td><td><VDarwin></td><td><VPsO></td><td><∑></td><td>E</td></tr><tr><td>0.0</td><td>2s1/2</td><td>24.4396</td><td>0.0000</td><td>0.0000</td><td>-3.9527</td><td>-0.5852</td><td>-61.4644</td><td>-41.5627</td></tr><tr><td></td><td>1d3/2</td><td>21.1032</td><td>0.0000</td><td>0.0000</td><td>-0.8106</td><td>0.0966</td><td>-64.4159</td><td>-44.0266</td></tr><tr><td></td><td>△E</td><td>3.3364</td><td>0.0000</td><td>0.0000</td><td>-3.1421</td><td>-0.6818</td><td>2.9515</td><td>2.4639</td></tr><tr><td>1.3</td><td>2s1/2</td><td>23.9037</td><td>0.2351</td><td>-0.0943</td><td>-3.6870</td><td>-0.5632</td><td>-61.9114</td><td>-42.1170</td></tr><tr><td></td><td>1d3/2</td><td>20.7075</td><td>0.1459</td><td>-0.0712</td><td>-0.4170</td><td>0.1559</td><td>-64.6181</td><td>-44.1170</td></tr><tr><td></td><td>△E</td><td>3.1962</td><td>0.0892</td><td>-0.0232</td><td>-3.2700</td><td>-0.7191</td><td>2.7067</td><td>2.0000</td></tr><tr><td>0.0</td><td>2g9/2</td><td>55.7666</td><td>0.0000</td><td>0.0000</td><td>2.8295</td><td>-6.4555</td><td>-53.3816</td><td>-1.2410</td></tr><tr><td></td><td>1i11/2</td><td>51.2033</td><td>0.0000</td><td>0.0000</td><td>3.1788</td><td>3.3530</td><td>-61.0308</td><td>-3.2958</td></tr><tr><td></td><td>△E</td><td>4.5633</td><td>0.0000</td><td>0.0000</td><td>-0.3493</td><td>-9.8085</td><td>7.6492</td><td>2.0548</td></tr><tr><td>1.3</td><td>2g9/2</td><td>56.0706</td><td>0.5622</td><td>0.2855</td><td>2.6487</td><td>-7.2110</td><td>-54.4705</td><td>-2.1140</td></tr><tr><td></td><td>1i11/2</td><td>51.6221</td><td>0.8997</td><td>0.1529</td><td>2.9268</td><td>4.1391</td><td>-61.2232</td><td>-1.4826</td></tr><tr><td></td><td>△E</td><td>4.4485</td><td>-0.3375</td><td>0.1326</td><td>-0.2781</td><td>-11.3501</td><td>6.7527</td><td>-0.6314</td></tr></table></body></html>
+
+For the loosely bound pseudospin doublets, much of the previous analysis still holds,except for the fact that the PSO potential $V _ { \mathrm { P S O } }$ is much stronger and also changes sensibly as $f _ { \omega }$ changes,being responsible for most of the pseudospin splitting. For the $1 \tilde { h }$ doublets， the $\Delta E _ { \mathrm { P S O } }$ even becomes negative when $f _ { \omega } / g _ { \omega }$ greater than O.95. It is found that the tensor part of $V _ { \mathrm { P S O } }$ in Eq.(111) is the dominant ingredient to understand this evolution [173]. Because the tensor potential here is proportional to the derivative of the vector potential, such tensor effects are much more profound for the surface states than the deeply bound ones.
+
+In short, the pseudospin-orbit splitings $\Delta E _ { \mathrm { P S O } } = E _ { j _ { < } } - E _ { j _ { > } }$ decrease, i.e., the PSS is conserved better, when the $\omega { - } N$ tensor interaction is included. Due to the surface-peaked shape of the tensor potential, the tensor effects are much more profound for the loosely bound states than the deeply bound states.
+
+# 3.4.3. Tensor potential of p and π mesons
+
+As shown in Section 3.3,a more complete way to include the effective nucleon-nucleon tensor interactions in the CDFT scheme is the RHF theory [53]. The $\rho { - } N$ tensor and $\pi { - } N$ pseudovector couplings shown in Eq. (9O) are crucial for improving the descriptions of the nuclear shell structures and their evolutions [50,51, 53, 54,3O6]. In particular, these tensor interactions play important roles via the exchange terms.
+
+In Figs. 19 and 20, the single-particle energies in $^ { 1 3 2 } \mathrm { S n }$ and $^ { 2 0 8 } \mathrm { { P b } }$ calculated by the self-consistent RHF theory with the effective interactions PKA1 [53] and
+
+![](images/ac629caa3e149723a1ff23c97344a62f775eb61dfbcc898b2ca84128c670e890.jpg)  
+Figure 19: Single-particle energies in $^ { 1 3 2 } \mathrm { S n }$ calculated by the RHF theory with the effective interactions PKA1 [53] and PKO1 [183],and by the RMF theory with the effective interactions PK1 [290] and DD-ME2 [293],compared with the experimental data [330]. Taken from Ref. [53].
+
+![](images/fb7eeb4d1f434018511521f8270fcb8521f7492c41d6f6982f6927c38c7db739.jpg)  
+Figure 2O: Same as Fig.19,but for the single-particle energies in $^ { 2 0 8 } \mathrm { { P b } }$ Taken from Ref.[53].
+
+PKO1 [183] effective interactions are compared with the corresponding results calculated by the RMF theory with the effective interactions PK1 [290] and DDME2 [293]. Note that both $\rho { - } N$ and $\pi { - } N$ tensor couplings are included in PKA1, and only $\pi { - } N$ tensor coupling is included in PKO1,while the tensor effects are practically absent in the RMF models.
+
+Compared with the experimental data [33O], the RMF results always show too large PSO splittings between the $2 d _ { 5 / 2 }$ and $1 g _ { 7 / 2 }$ states in $^ { 1 3 2 } \mathrm { S n }$ as well as the splittings between the $2 f _ { 7 / 2 }$ and $1 h _ { 9 / 2 }$ states in $^ { 2 0 8 } \mathrm { { P b } }$ ，This is the case not only for the neutron side but also for the proton side. As a result, the overestimated sub-shell structures, e.g., $N$ or $Z = 5 8$ and $N$ or $Z = 9 2$ , appear commonly in the RMF calculations without tensor interactions [331].
+
+The artificial sub-shell closure is depressed to some extent by using the RHF theory with PKO1 effective interaction. It is found the PSO splittings of the $1 \tilde { f }$ and $1 \tilde { g }$ doublets decrease compared to the RMF results.However, because of the strong density dependence of $\pi { - } N$ coupling strength $f _ { \pi } ( \rho )$ in PKO1, the net tensor effects are mild, and the calculated PSO splittings are still substantially larger than the experimental ones.
+
+The PSO splittings of the $1 \tilde { f }$ and $1 \tilde { g }$ doublets decrease further when both the $\pi { - } N$ and $\rho { - } N$ tensor couplings are included, which is the case of PKA1,and eventually the artificial sub-shells disappear. Indeed, these tensor effects can be seen in all the pseudospin doublets shown in the figures by comparing the PKA1 results to the others.This is also crucial for the descriptions of the ordering of the single-particle levels, e.g., the neutron states $2 g _ { 9 / 2 }$ and $1 i _ { 1 1 / 2 }$ in $^ { 2 0 8 } \mathrm { { P b } }$
+
+In summary, three different models of tensor forces were discussed in this Section. From a phenomenological linear tensor potential to more microscopic meson-nucleon tensor couplings, these models show consistent effects on the pseudospin symmetry, i.e., $\Delta E _ { \mathrm { P S O } } = E _ { j _ { < } } - E _ { j _ { > } }$ decrease or become even negative when the strengths of tensor interactions increase. This mechanism plays an important role in the nuclear shell structure and its evolutions. For example, the overestimated sub-shell closure at $N$ or $Z = 5 8$ and $N$ or $Z = 9 2$ can be better reproduced.
+
+# 3.5. From bound states to resonant states
+
+Weakly bound or unbound nuclei with unusual $N / Z$ ratios are open quantum many-body systems in which the continuum plays an important role [332]. In these nuclei, the neutron (or proton） Fermi surface is close to the particle threshold, thus the contribution of the continuum is crucial [60, 61,190,192-194, 203-218]. Many approaches developed for resonances [219], e.g., the analytical continuation in coupling constant method [22O-225], the real stabilization method [226-231], the complex scaling method [232-235], the coupled-channel method [236-238], and some others [239,240], have been used to study nuclear singleparticle resonant states. Based on some of these methods， the pseudospin symmetry [241-245] and the spin symmetry [246] in single-particle resonant states have been investigated. The pseudospin symmetry and/or spin symmetry in nucleon-nucleus and nucleon-nucleon scatterings have been also investigated [41-44].
+
+In Ref. [247],by examining the asymptotic behaviors of the Dirac wave functions,a rigorous verification of the pseudospin symmetry in single-particle resonant states was given by Lu, Zhao，and Zhou. It was shown that the pseudospin symmetry in single-particle resonant states in nuclei is exactly conserved under the same condition for the pseudospin symmetry in bound states, i.e., $\Sigma ( r ) = 0$ or $d \Sigma ( r ) / d r = 0$ given in Eq.(17). To understand more deeply the pseudospin symmetry in single-particle resonant states,in Ref. [249], the exact conservation and breaking mechanism of the pseudospin symmetry in single particle resonant states in square well potentials were extensively studied.A threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners were found when the depth of the potential varies from zero to a finite value.
+
+In this Section, we will introduce the pseudospin symmetry in single particle resonant states. For the pseudospin symmetry in nucleon-nucleus and nucleonnucleon scatterings [41-44], see Ref. [67].
+
+![](images/98fe65c9c02565d0238241eb86d2faac0c6b80539b0b73723488d8c89494d7e1.jpg)  
+3.5.1. PSS in single-particle resonant states with ACCC   
+Figure 21: Left panel: Energies and widths for the neutron resonant states $3 p _ { 3 / 2 } , 3 p _ { 1 / 2 } , 2 f _ { 7 / 2 }$ $2 f _ { 5 / 2 } , 1 h _ { 9 / 2 }$ ,and $1 i _ { 1 3 / 2 }$ in the potential of $^ { 1 2 2 } \mathrm { Z r }$ ， Solid circles represent the results of the ACCC method, while open circles denote the results of the scatering method. Right panel: Real parts of the upper and lower components of radial wave functions for the neutron resonant state $2 f _ { 7 / 2 }$ Solid and dashed curves represent the results of the ACCC and the scattering method,respectively. Taken from Ref. [221].
+
+In Ref. [22O], the ACCC method was combined with the covariant density functional theory to study the unbound states in spherical nuclei. The ACCC method [333,334] is based on the following idea: An unbound state can be considered as the continuation of a bound one when the strength of the attractive potential decreases. That is,an unbound state will become bound if the coupling strength of attractive potential is increased and becomes strong enough. As a function of the strength, the energy of a bound state is analytically continued to the complex plane in order to get the width and energy of a resonant state.
+
+In Ref.[221], the analyticity of the eigenvalues and eigenfunctions of the Dirac equation with respect to the coupling constant was examined. In the left panel of Fig. 21, the energies and widths for the neutron resonant states $3 p _ { 3 / 2 } , 3 p _ { 1 / 2 } , 2 f _ { 7 / 2 }$ $2 f _ { 5 / 2 } , 1 h _ { 9 / 2 }$ ,and $1 i _ { 1 3 / 2 }$ in the potential of $^ { 1 2 2 } \mathrm { Z r }$ are shown in a planar $E { \mathrm { - } } \Gamma$ plot. The results from the ACCC method agree satisfactorily with those from the scattering calculation. The wave functions for the neutron resonant state $2 f _ { 7 / 2 }$ are exhibited in the right panel of Fig. 21. The ACCC and the scattering method give not only nearly the same resonance parameters,energies and widths,but also very similar wave functions.
+
+In Ref.[241], the PSS for the resonant states in $^ { 2 0 8 } \mathrm { { P b } }$ was investigated by solving the Dirac equation with the Woods-Saxon scalar and vector potentials, and the ACCC method was used to determine the resonance parameters. The PSS breaking is shown in correlation with the nuclear mean field shaped by the central depth ${ \boldsymbol { \Sigma } } _ { 0 }$ , the radius $R$ , and the diffuseness $a$ . The energy-level crossings appear in several pseudospin partners of resonant states. The width is found to be different for the pseudospin doublets even when their energies are fully degenerate. This was attributed to the difference in the centrifugal barrier for the pseudospin partners [241].
+
+The ACCC method,combined with the CDFT,was used to study the $N$ dependence of PSS in nuclear resonant states in Ref. [242]. The energies and widths of single-particle resonant states in Sn isotopes were investigated systematically. An $N$ -dependence of PSS is clearly shown in the resonant states and is consistent with that observed in the bound states. The splitings of energies and widths between pseudospin doublets are correlated with the quantum numbers of the single-particle states,as well as the nuclear mass number. Although the $N$ dependence of the pseudospin splitting in energy is rather complicated, the width splitting decreases almost monotonically with increasing mass number.
+
+![](images/ca1e2e51b5269be694e5741a7a45325d70aefd22fdace368690c8f1158a9c927.jpg)  
+Figure 22: The real part of the upper component $G ( r )$ (the left panel) and the lower component $F ( r )$ (the right panel) for the proton resonant state $1 h _ { 9 / 2 }$ (dashed line) compared with the proton resonant state $2 f _ { 7 / 2 }$ (solid line) in $^ { 1 2 0 } \mathrm { S n }$ . Taken from Ref. [245].
+
+In Refs. [244, 245], the ACCC combined with CDFT was also used to discuss the PSS in the single-proton resonant states. Not only the resonant energies and widths, but also the wave functions for pseudospin partners in $^ { 1 2 0 } \mathrm { S n }$ were examined. In Fig. 22 are shown the real parts of the upper and lower components of the radial wave functions for the $\pi 1 \tilde { g }$ pseudospin doublets in $^ { 1 2 0 } \mathrm { S n }$ . It is seen that the lower components agree very well in the region where nuclear potential dominates, except for some disagreement on the surface, with the number of radial nodes being the same.
+
+![](images/45677af94f8926d6af977f41560bd0f0a4422fda7e3ab0df30451825b1c3c97d.jpg)  
+3.5.2. PSS in single-particle resonant states with CSM   
+Figure 23:(Color online) Pseudospin splitings in energy and width as a function of Morse potential parameters,(a) $V _ { 0 }$ ，(b) $r _ { 0 }$ ，and (c) $\alpha$ ,for single-particle resonant states． Taken from Ref. [243].
+
+In Ref.[243], the CSM was applied to study the PSS of resonant states of a Dirac particle in a Morse potential,
+
+$$
+V ( r ) = V _ { 0 } e ^ { - ( r - r _ { 0 } ) \alpha } \left( 2 - e ^ { - ( r - r _ { 0 } ) \alpha } \right) ,
+$$
+
+By comparing the energies and widths of the pseudospin doublets, the PSS was examined and the relationship between the PSS and the parameters of the Morse potential was studied. In Fig.23,pseudospin splittings in energy and width for single-particle resonant states are shown as a function of the Morse potential parameters $V _ { 0 } , r _ { 0 }$ ,and $\alpha$ , respectively. With $r _ { 0 }$ and $\alpha$ fixed, the energy splitting of a pair of pseudospin partners increases with increasing $V _ { 0 }$ . However, the opposite is true for the width splitting. This is because,with increasing $V _ { 0 }$ ， the barrier becomes higher and the potential well becomes deeper. The dependence of the energy and width splittings on $r _ { 0 }$ or $\alpha$ were also made, and the details can be found in Ref. [243].
+
+# 3.5.3. PSS in single-particle resonant states with Jost functions
+
+Although the PSS in resonant states have been studied numerically, it is still desirable to have a mathematical verification of the PSS in the symmetry limit. In particular, there remains an open question about the width splitting of the pseudospin doublets. Recently,a rigorous justification of the PSS in singleparticle resonant states has been given by examining the asymptotic behavior of the nucleon Dirac wave functions [247].
+
+The first-order coupled equation（1O） can be rewritten as two decoupled second-order differential ones,Eqs.(12) and(14)． In Refs.[275-278],it has been shown that each of these two Schrodinger-like equations,together with its charge conjugated one,are fully equivalent to Eq. (1O). The one for the small component is given in Eq. (14) to which the PSS is directly connected. Note that for bound states, there is always a singularity in $1 / M _ { - } ( r )$ in Eq. (14), whereas such a singularity does not exist for resonant states discussed here.
+
+For the continuum in the Fermi sea, i.e., $\epsilon \geq M$ , there exist two independent solutions for Eq. (14). The physically acceptable solution is the one that vanishes at the origin. As usual we define the regular solution $F ( r )$ as the one that behaves
+
+like $j _ { \tilde { l } } ( p r )$ function as $r \to 0$ [335],
+
+$$
+\operatorname * { l i m } _ { r \to 0 } F ( r ) / j _ { \bar { l } } ( p r ) = 1 , \qquad p = \sqrt { \epsilon ^ { 2 } - M ^ { 2 } } .
+$$
+
+At large $r$ the potentials for neutrons vanish and the radial wave functions oscillate. Equation (14) becomes a Ricatti-Bessel equation with angular momentum $\tilde { l }$ ,and the solution can be written as a combination of the Ricatti-Hankel functions,
+
+$$
+F ( r ) = \frac { i } { 2 } \left[ \mathcal { T } _ { \kappa } ^ { F } ( p ) h _ { \tilde { l } } ^ { - } ( p r ) - \mathcal { T } _ { \kappa } ^ { F } ( p ) ^ { * } h _ { \tilde { l } } ^ { + } ( p r ) \right] , \qquad r \to \infty ,
+$$
+
+where $\mathcal { T } _ { \kappa } ^ { F } ( p )$ is the Jost function for the small component and $h _ { \tilde { l } } ^ { \pm } ( p r )$ the RicattiHankel functions.
+
+![](images/7c99b0c255d4fcaead19eecb9084e54d551b31a91b76b75d53b16266f22aec20.jpg)  
+Figure 24: (Color online) Schematic picture of the zeros of the Jost function $\mathcal { T } _ { \kappa } ^ { F }$ on the complex momentum plane.A cut is made on the imaginary axis,from $p \ = \ i M$ to infinity and back to $p = - i M$ . Taken from Ref. [247].
+
+In nuclei the vector $V ( r )$ and scalar $S ( \boldsymbol r )$ potentials share some general properties,e.g., they are analytical functions of $r$ ，vanish as $r  \infty$ ，and have no singularities. Under such conditions,the Jost function is an analytic function of $p$ , and can be analytically continued to a large area in the complex $p$ plane. Here the structure of the $p$ Riemann surface on which the Jost functions are defined is more complex than the non-relativistic case. For example, the square root in the relativistic energy-momentum relation $\epsilon ^ { 2 } = p ^ { 2 } + M ^ { 2 }$ creates branching points at $p = \pm i M$ , thus the corresponding Riemann surface has at least two sheets.
+
+In Fig.24, the zeros of the Jost function $\mathcal { T } _ { \kappa } ^ { F } ( p )$ on the complex momentum plane are schematically shown. Only the first sheet with $\mathrm { R e } ( \epsilon ) \geq 0$ is presented in Fig. 24 which contains positive-energy bound states and resonant states,while the other sheet with $\mathop { \mathrm { R e } } ( \epsilon ) \leq 0$ can be used to investigate negative-energy ones. These two sheets are connected by a cut on the imaginary axis, from $p = i M$ to infinity and back to $p = - i M$ .Restricted to the first sheet and relatively small $| p | , { \mathcal { T } } _ { \kappa } ^ { F } ( p )$ is a single-valued analytical function of $p$ . The zeros of $\mathcal { T } _ { \kappa } ^ { F } ( p )$ are denoted by the full circles for bound states,open circles for resonant states,and crosses for other zeros,respectively. The zeros on the positive imaginary axis of the $p$ plane represent bound states of the original eigenvalue problem,while the zeros on the lower $p$ plane and near the real axis correspond to resonant states.The resonance energy $E _ { \mathrm { r e s } }$ and width $\Gamma _ { \mathrm { r e s } }$ are determined by the relation $E = E _ { \mathrm { r e s } } - i \Gamma _ { \mathrm { r e s } } / 2 =$ （204号 $\sqrt { p ^ { 2 } + M ^ { 2 } } - M$ . By examining the zeros of the Jost function, one can study the bound and resonant states on the same footing,and many known properties of bound states can be generalized to resonances straightforwardly.
+
+At the PSS limit, Eq. (14) is reduced to Eq.(19). For the bound states,it is an eigenfunction equation that determines the eigenenergies $\epsilon$ .While for the continuum $\epsilon$ can be any value larger than or equal to $M$ and one should focus on the wave functions and their asymptotic behavior. For pseudospin doublets with different quantum numbers $\kappa _ { a }$ and $\kappa _ { b }$ with $\kappa _ { b } = - \kappa _ { a } + 1$ ， the small components satisfy the same equation because they have the same pseudo-orbital angular momentum $\tilde { l }$ [65]. In particular, for continuum states, $F _ { \kappa _ { a } } ( \epsilon , r ) = F _ { \kappa _ { b } } ( \epsilon , r )$ for any energy $\epsilon$ .Because the definition of the Jost function $\mathcal { T } _ { \kappa } ^ { F } ( p )$ only depends on the asymptotic behavior of the small component, on the positive real axis, $\mathcal { T } _ { \kappa _ { a } } ^ { F } ( p ) = \mathcal { T } _ { \kappa _ { b } } ^ { F } ( p )$ . This equivalence can be generalized into the complex $p$ plane due to the uniqueness of the analytical continuation. Thus the zeros are the same for $\mathcal { T } _ { \kappa _ { a } } ^ { F } ( p )$ and $\mathcal { T } _ { \kappa _ { b } } ^ { F } ( p )$ : If there exists a resonant state with energy $E _ { \mathrm { r e s } }$ and width $\Gamma _ { \mathrm { r e s } }$ and the quantum number $\kappa _ { a }$ ,there must be another one with the same energy and width and quantum number $\kappa _ { b }$ ． That is to say, the PSS in singleparticle resonant states in nuclei is exactly conserved when the attractive scalar and repulsive vector potentials have the same magnitude but opposite sign. If one focuses on the zeros of the Jost functions of pseudospin doublets on the positive imaginary axis of the $p$ plane, the well-known PSS for bound states can be investigated similarly.
+
+In scattering theories, one can also determine resonance parameters from the change of cross section or phase shift, which give more insights into the resonant phenomena. Using the asymptotic behavior of the Ricatt-Bessel functions, one obtains from Eqs. (19) and (114),
+
+$$
+F _ { \kappa } ( r ) \propto \sin \left( p r - \frac { \tilde { l } \pi } { 2 } + \delta _ { \kappa } ^ { F } ( p ) \right) , \qquad r \to \infty ,
+$$
+
+where the phase shift $\delta _ { \kappa } ^ { F } ( p )$ is related to the Jost function through
+
+$$
+\begin{array} { r } { \mathcal { T } _ { \kappa } ^ { F } ( { p } ) = | \mathcal { T } _ { \kappa } ^ { F } ( { p } ) | e ^ { - i \delta _ { \kappa } ^ { F } ( { p } ) } . } \end{array}
+$$
+
+Whenever $\delta _ { \kappa } ^ { F } ( p ) = ( n + 1 / 2 ) \pi$ , there is a resonant state and its width is determined by the tangent of the phase shift function $\delta _ { \kappa } ^ { F } ( p )$ . In the PSS limit, the coincidence between $F _ { \kappa _ { a } } ( r )$ and $F _ { \kappa _ { b } } ( r )$ means that $\delta _ { \kappa _ { a } } ^ { F } ( p ) = \delta _ { \kappa _ { b } } ^ { F } ( p )$ for any value of $p$ . Therefore, resonance parameters of pseudospin doublets are the same.
+
+As it has been noted in Ref. [247], it is straightforward to extend the study of PSS in resonant states in the Fermi sea to that in the negative-energy states in the Dirac sea or SS in anti-particle continuum spectra. More investigations along this line should be made.
+
+# 3.5.4. PSS in single-particle resonant states in square-well potentials
+
+To extract the energies and widths of resonant states in realistic potentials is relatively complex. In particular, to study the PSS and examine the origin and the symmetry breaking mechanism,it is better to start from analytically solvable models. In Ref. [247], the square-well potentials were taken as examples to illustrate the conservation and breaking of the PSS in the single-particle resonant states.Although the diffuseness of realistic potentials cannot be included, it is still a good starting point to study general properties of the PSS for the resonant as well as bound states by using the square-well potentials, because the PSS-breaking term in the Jost function is separated from the PSS-conserving term.
+
+Spherical square-well potentials for $\Sigma ( r )$ and $\Delta ( r )$ read
+
+$$
+\Sigma ( r ) = \left\{ \begin{array} { l l } { C , \quad } & { r < R , } \\ { 0 , \quad } & { r \geq R , } \end{array} \right. \qquad \Delta ( r ) = \left\{ \begin{array} { l l } { D , \quad } & { r < R , } \\ { 0 , \quad } & { r \geq R , } \end{array} \right.
+$$
+
+where $C$ and $D$ are depths and $R$ is the width. The Jost function $\mathcal { T } _ { \kappa } ^ { F } ( p )$ is derived as [247]
+
+$$
+{ \mathcal { T } } _ { \kappa } ^ { F } ( p ) = - \frac { p ^ { \tilde { l } } } { 2 i k ^ { \tilde { l } + 1 } } \left\{ j _ { \tilde { l } } ( k R ) p h _ { \tilde { l } } ^ { + \prime } ( p R ) - k j _ { \tilde { l } } ^ { \prime } ( k R ) h _ { \tilde { l } } ^ { + } ( p R ) - \frac { C } { \epsilon - M - C } \left[ k j _ { \tilde { l } } ^ { \prime } ( k R ) - \frac { \kappa } { R } j _ { \tilde { l } } ( k R ) \right] h _ { \tilde { l } } ^ { + } ( p R ) \right\} ,
+$$
+
+with $k = \sqrt { \left( \epsilon - C - M \right) \left( \epsilon - D + M \right) }$ . The PSS in both bound states and resonant states can be explained explicitly. If $C = 0$ ,the second term in $\mathcal { T } _ { \kappa } ^ { F } ( p )$ vanishes
+
+and the first term only depends on the pseudo-orbital angular momentum l, then the Jost functions with different $\kappa$ but the same $\tilde { l }$ are identical. The energies and widths of resonant pseudospin partners are exactly the same.
+
+![](images/83dd1d9a57054b44e57024caa122e083a74c48c26dd0bcf2ff16e426a164137b.jpg)  
+Figure 25:(Color online） The zeros of the Jost function $\mathcal { T } _ { \kappa } ^ { F }$ on the complex energy plane in square-well potentials （117) with $C = 0$ (solid symbols) and $C = - 6 6 \mathrm { M e V }$ (half-filled symbols) for pseudospin partners $h _ { 1 1 / 2 }$ (diamond) and $j _ { 1 3 / 2 }$ (square). The results with Woods-Saxon-like scalar and vector potentials are also shown as open symbols. Taken from Ref. [247].
+
+For the large component $G ( r )$ , there is a similar expression for the asymptotic behavior,
+
+$$
+G ( r ) = \frac { i } { 2 } \left[ \mathcal { T } _ { \kappa } ^ { G } ( p ) h _ { l } ^ { - } ( p r ) - \mathcal { T } _ { \kappa } ^ { G } ( p ) ^ { * } h _ { l } ^ { + } ( p r ) \right] , \qquad r \to \infty .
+$$
+
+At the origin,
+
+$$
+\operatorname * { l i m } _ { r \to 0 } G ( r ) / j _ { l } ( p r ) = 1 , \qquad p = \sqrt { \epsilon ^ { 2 } - M ^ { 2 } } .
+$$
+
+The $\mathcal { T } _ { \kappa } ^ { G } ( \mathfrak { p } )$ is derived as
+
+$$
+\mathcal { T } _ { \kappa } ^ { G } ( p ) = - \frac { p ^ { l } } { 2 i k ^ { l + 1 } } \left\{ j _ { l } ( k R ) p h _ { l } ^ { + \prime } ( p R ) - k j _ { l } ^ { \prime } ( k R ) h _ { l } ^ { + } ( p R ) - \frac { D } { \epsilon + M - D } \left[ k j _ { l } ^ { \prime } ( k R ) + \frac { \kappa } { R } j _ { l } ( k R ) \right] h _ { l } ^ { - } ( p R ) \right\} ,
+$$
+
+It looks similar to that of the small component $\mathcal { T } _ { \kappa } ^ { F } ( p )$ ， with the exception that the potential parameter $C$ is substituted by $D$ and the pseudo-orbital angular momentum $\tilde { l }$ is substituted by $l .$ In the case of $D \to 0$ , this form of Jost function can be used to investigate the spin symmetry of single-particle levels.
+
+Although the solutions of $\mathcal { T } _ { \kappa } ^ { F } ( p ) = 0$ cannot be derived analytically, the secant method can be used for searching the roots, because the Jost function is analytical near its zeros. In Fig.25 are shown solutions in the complex energy plane for PSS doublets with $\tilde { l } = 6$ ,i.e., $h _ { 1 1 / 2 }$ with $\kappa _ { a } ~ = ~ - 6$ and $j _ { 1 3 / 2 }$ with $\kappa _ { b } ~ = ~ 7$ ,for square-well potentials with $D = 6 5 0 \mathrm { M e V }$ and $R = 7$ fm. In the PSS limit, i.e., $C = 0$ , all the roots locate in the lower half plane and there are no bound states. In Fig.25 three pairs of pseudospin resonant partners are shown by full diamonds and squares. The conservation of the PSS for single-particle resonant states is clearly seen. When $C = - 6 6 \mathrm { M e V } ,$ there is one bound state only for $h _ { 1 1 / 2 }$ . Three pairs of pseudospin partners of resonant states are shown by half-filled diamonds and squares. One finds the breaking of the PSS both in the bound states and in the resonant states. For pseudospin doublets with other values of $\tilde { l }$ ，similar behaviors are observed concerning the exact conservation and the breaking of the PSS. The resonances in Woods-Saxon potentials, $W ( r ) = W _ { 0 } / ( 1 + \exp [ ( r - R ) / a ] )$ 0 $W = V$ or $S$ ） were also studied and the potential parameters are the following: the depths $V _ { 0 } { - } S _ { 0 } = 6 5 0 \mathrm { M e V }$ and $V _ { 0 } { + } S _ { 0 } = { - } 6 6 \mathrm { M e V } ,$ the diffuseness parameter $a = 0 . 6 \mathrm { f m }$ and $R = 7$ fm [241]. Resonance parameters are obtained with the real stabilization method [227]. The results are shown as open diamonds and squares for $h _ { 1 1 / 2 }$ and （20 $j _ { 1 3 / 2 }$ ,respectively. It is found that splittings of energy and width both become smaller compared with the results with the square-well potentials. The reason is that the derivative of $\Sigma ( r )$ is smaller due to a non-zero diffuseness parameter.
+
+![](images/92bfe63ddba808fd1cb705887ad71721e1a286fded3c882126a6741138f069dd.jpg)  
+Figure 26: (Color online) Energy (the left panel) and width (the right panel) spliting between the $\tilde { d }$ pseudospin doublets as a function of the potential depth $C$ .Taken from Ref.[249].
+
+By examining the Jost function, one can trace continuously the PSS partners from the PSS limit to the case with a finite potential depth. This has been done in Ref. [249] in which were found a threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners when $C$ varies from zero to a finite value.As the depth of the single-particle potential becomes larger, the PSS is broken more and a threshold effect in the energy splitting appears which can be seen in the left panel of Fig. 26: The energy spliting first increases then decreases until the pseudospin doublets encounter the threshold where one of the levels becomes a bound state and the splitting takes a minimum value; When the potential becomes even deeper, the splitting increases again. When the depth of the single-particle potential increases from zero, there also appears an anomaly in the width splitting of pseudospin partners which is shown in the right panel of Fig. 26: It first decreases from zero to a maximum value with negative sign, then increases and becomes zero again; after the inversion of the width splitting, the spliting increases and reaches a positive maximum value, then it becomes smaller
+
+and eventuallyreaches zero.
+
+In summary, the pseudospin and spin symmetries in single-particle resonant states in the Woods-Saxon potentials and self-consistent relativistic mean-field potentials have been investigated by using the analytical continuation in coupling constant method and the complex scaling method. Not only the pseudospin-orbit splittings in energy and width, but also the wave functions of pseudospin partners have been systematically examined. A rigorous verification of the pseudospin symmetry in single-particle resonant states was given by studying the Jost function of the lower components of the Dirac wave functions. In an extensive study of the pseudospin symmetry in single-particle resonant states in square well potentials, a threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners were found when the depth of the single-particle potential varies from zero to a finite value. There are still many open problems concerning the pseudospin and spin symmetries in single-particle resonant states,as listed in Refs. [248,249].
+
+# 3.6. From nucleon spectra to anti-nucleon spectra
+
+In the spectrum of a Dirac Hamiltonian, one finds single-particle states with positive energies in the Fermi sea as well as those with negative energies in the Dirac sea. The latter are interpreted as anti-particles under a charge conjugation. In the relativistic mean-field theory, the no-sea approximation is made: Those negative-energy states are assumed to be empty [285]. Therefore, less attention was paid to the negative-energy states. However, if the eigenstates of the Dirac Hamiltonian are used as basis states in a Hilbert space, the negative-energy states in the Dirac sea must be included for the completeness. When Zhou, Meng, and Ring developed the relativistic mean-field theory in a Dirac Woods-Saxon basis [187], they included and examined in detail the negative-energy states and found that the pseudospin symmetry of those negative-energy states in the Dirac sea, or equivalently, the spin symmetry in the anti-nucleon spectra is very well conserved [195]. In Ref.[195], it was shown that the spin symmetry in the anti-nucleon spectra is much better developed than the pseudospin symmetry in normal nuclear single-particle spectra. The spin symmetry in the anti-nucleon spectra of a nucleus was later tested by investigating the relations between the Dirac wave functions of the spin doublets and examining these relations within the relativistic mean-field theory [197]. Since then, the study of the spin symmetry has often been made in combination with that of the pseudospin symmetry in various local potentials, see, e.g., Refs. [74, 92]. The spin symmetry in the Dirac negative-energy spectrum and its origin were also investigated within the relativistic Hartree-Fock theory in which the potentials are non-local [198]. Note that it was found that the equality of the vector and scalar potentials in the Dirac Hamiltonian results in the spin symmetry in Refs. [66, 336],where the authors suggested applications to meson spectra. This symmetry was revealed to be valid for mesons with one heavy quark [337]. It should also be noted that, by applying the charge conjugate transformation,the spin symmetry for the anti-nucleon states have been formally conjectured in Ref. [196].
+
+In this Section,we will introduce the spin symmetry in the anti-nucleon spectra in nuclei, the test of the spin symmetry by examining the wave functions, and the spin symmetry in single-(anti-)particle spectra in various potentials.
+
+# 3.6.1. SS in single-anti-nucleon spectra
+
+In this Section, a nucleon state is explicitly labelled with “N" and an antinucleon state with “A” for convenience. The Dirac equation for nucleons reads
+
+$$
+\left[ \alpha \cdot \mathbf { p } + V _ { \mathrm { N } } ( \mathbf { r } ) + \beta ( M + S _ { \mathrm { N } } ( \mathbf { r } ) ) \right] \psi _ { \mathrm { N } } ( \mathbf { r } , s ) = \epsilon _ { \mathrm { N } } \psi _ { \mathrm { N } } ( \mathbf { r } ) ,
+$$
+
+where $V _ { \mathrm { { N } } } ( { \bf { r } } ) = V ( { \bf { r } } )$ and $S _ { \mathrm { { N } } } ( { \bf { r } } ) = S ( { \bf { r } } )$ . Fora spherical system, the Dirac spinor $\psi _ { \mathrm { N } }$ has the form (cf.Eq.(9))
+
+$$
+\psi _ { \mathrm { N } } ( \mathbf { r } ) = \frac { 1 } { r } \left( \begin{array} { l } { i G _ { n \kappa } ( r ) \mathcal { V } _ { j m } ^ { l } ( \hat { \mathbf { r } } ) } \\ { - F _ { \tilde { n } \kappa } ( r ) \mathcal { V } _ { j m } ^ { \tilde { l } } ( \hat { \mathbf { r } } ) } \end{array} \right) , \qquad j = l \pm \frac { 1 } { 2 } .
+$$
+
+Charge conjugation leaves the scalar potential $S _ { \mathrm { { N } } } ( { \bf { r } } )$ invariant, while it changes the sign of the vector potential $V _ { \mathrm { { N } } } ( { \bf { r } } )$ . That is,for anti-nucleons (labelled by "A"), $V _ { \mathrm { { A } } } ( \mathbf { r } ) = - V _ { \mathrm { { N } } } ( \mathbf { r } ) = - V ( \mathbf { r } )$ and $S _ { \mathrm { { A } } } ( \mathbf { r } ) = S _ { \mathrm { { N } } } ( \mathbf { r } ) = S \left( \mathbf { r } \right)$ . Charge conjugation of Eq.(123) gives the Dirac spinor for an anti-nucleon,
+
+$$
+\psi _ { \mathrm { A } } ( \mathbf { r } ) = \frac { 1 } { r } \left( \begin{array} { l } { - F _ { \tilde { n } \tilde { \kappa } } ( r ) \mathcal { V } _ { j m } ^ { \tilde { l } } ( \hat { \mathbf { r } } ) } \\ { i G _ { n \tilde { \kappa } } ( r ) \mathcal { V } _ { j m } ^ { l } ( \hat { \mathbf { r } } ) } \end{array} \right) , \qquad j = l \pm \frac { 1 } { 2 } ,
+$$
+
+with $\tilde { \kappa } = - \kappa$
+
+For particles there are positive- and negative-energy solutions; the same is true for anti-particles. For positive-energy states of the Dirac equations， the normal quantum numbers follow the upper components which are dominant. A particle state is labelled by $\{ n l \kappa m \}$ , while its pseudo-quantum numbers are $\{ \tilde { n } \tilde { l } \tilde { \kappa } m \}$ Following Ref. [272], ${ \tilde { n } } = n + 1$ for $\kappa > 0 ; \tilde { n } = n$ for $\kappa < 0$ [cf. Eq. (84)]. An antiparticle state is labelled by $\{ \tilde { n } \tilde { l } \tilde { \kappa } m \}$ and its pseudo-quantum numbers are $\{ n l \kappa m \}$ . In analogy to Ref.[272], the following relation holds for anti-nucleon states,
+
+$$
+n = \tilde { n } + 1 \quad \mathrm { f o r } \quad \tilde { \kappa } > 0 ; \qquad n = \tilde { n } \quad \mathrm { f o r } \quad \tilde { \kappa } < 0 .
+$$
+
+With $\kappa ( \kappa + 1 ) = \tilde { \kappa } ( \tilde { \kappa } - 1 ) = l ( l + 1 )$ and $\kappa ( \kappa - 1 ) = \tilde { \kappa } ( \tilde { \kappa } + 1 ) = \tilde { l } ( \tilde { l } + 1 )$ in mind, one derives the Schrodinger-like equations for the upper and the lower components
+
+Table 4: Relation between symmetries and external fields.Taken from Ref.[195].   
+
+<html><body><table><tr><td>Particle</td><td>Anti-particle</td></tr><tr><td>d△/dr = 0 Spin symmetry</td><td>Pseudospin symmetry</td></tr><tr><td>d∑/dr = 0 Pseudospin symmetry</td><td>Spin symmetry</td></tr></table></body></html>
+
+[cf.Eqs.(12) and (14)],
+
+$$
+\left\{ - \frac { 1 } { M _ { + } } \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { 1 } { M _ { + } ^ { 2 } } \frac { d M _ { + } } { d r } \frac { d } { d r } + \left[ ( M + \Sigma ) + \frac { 1 } { M _ { + } } \frac { l ( l + 1 ) } { r ^ { 2 } } + \frac { 1 } { M _ { + } ^ { 2 } } \frac { d M _ { + } \kappa } { d r } \frac { \kappa } { r } \right] \right\} G ( r ) = \left\{ \begin{array} { l l } { + \epsilon _ { \mathrm { N } } G ( r ) , } \\ { - \epsilon _ { \mathrm { A } } G ( r ) , } \end{array} \right.
+$$
+
+and
+
+$$
+\left\{ - \frac { 1 } { M _ { - } } \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { 1 } { M _ { - } ^ { 2 } } \frac { d M _ { - } } { d r } \frac { d } { d r } + \left[ \left( - M + \Delta \right) + \frac { 1 } { M _ { - } } \frac { \tilde { l } ( \tilde { l } + 1 ) } { r ^ { 2 } } + \frac { 1 } { M _ { - } ^ { 2 } } \frac { d M _ { - } } { d r } \frac { \tilde { k } } { r } \right] \right\} F ( r ) = \left\{ \begin{array} { l l } { { + \epsilon _ { \mathrm { N } } F ( r ) , } } & { { \mathrm { ~ i ~ f ~ } \epsilon _ { \mathrm { N } } \epsilon _ { \mathrm { N } } = 0 , } } \\ { { - \epsilon _ { \mathrm { A } } F ( r ) , } } & { { \mathrm { ~ i ~ f ~ } \epsilon _ { \mathrm { N } } = 0 , } } \end{array} \right.
+$$
+
+where $M _ { + } ( r ) = M - \Delta ( r ) + \epsilon$ and $M _ { - } ( r ) = - M - \Sigma ( r ) + \epsilon$ with $\epsilon = + \epsilon _ { \mathrm { N } }$ for particle states or $- \epsilon _ { \mathrm { A } }$ for anti-particle states. Both equations are fully equivalent to the exact Dirac equation with the full spectrum of particle and anti-particle states.
+
+The relation between SS or PSS and the external fields is given in Table 4. If $d \Delta / d r = 0$ , there is an exact SS in the particle spectrum and exact PSS in the antiparticle spectrum,because states with the same $l$ but different $\kappa$ are degenerate in Eq. (126)，where $l$ is the orbital angular momentum of particle states and pseudo-orbital angular momentum of anti-particle states. When $d \Delta / d r \neq 0$ ，the symmetries are broken, but if $d \Delta / d r$ is so small that the SO term is much smaller than the centrifugal barrier, there will be approximate symmetries.
+
+![](images/323ab250677ee8f2fcc1a4eb469904552d1517d378c49f0884979ef1bd1b4c6d.jpg)  
+Figure 27: Anti-neutron potential $M - V ( r ) + S ( r )$ and spectrum of $^ { 1 6 } \mathrm { O }$ .For each pair of spin doublets,the left level is with $\tilde { \kappa } < 0$ and the right one with $\tilde { \kappa } > 0$ . The inset gives neutron potential $M + V ( r ) + S ( r )$ and spectrum. Taken from Ref.[195] and modified to present notations.
+
+Similarly, when $d \Sigma / d r = 0$ in Eq.(127), there is an exact PSS in the particle spectra. On the other hand, for anti-particle states,the SS is exactly conserved because now $\tilde { l }$ is the orbital angular momentum. If $d \Sigma / d r \neq 0$ but small, there are approximate PSS in particle spectra and approximate SS in anti-particle spectra. This implies that the SS in the anti-particle spectra has the same origin as the PSS in particle spectra. However, as revealed in Ref.[195], there is an essential difference in the degree to which the symmetry is broken: The factor $1 / M _ { - } ^ { 2 } = $ $1 / ( \epsilon - \Sigma - M ) ^ { 2 }$ is much smaller for anti-nucleon states than that for nucleon states. The bound anti-particle energies $\epsilon _ { \mathrm { A } }$ are in the region between $M - \Delta ( 0 ) \lesssim \epsilon _ { \mathrm { A } } \lesssim M _ { ☉ }$ 号 approximately $0 . 3 \mathrm { G e V } \lesssim \epsilon _ { \mathrm { A } } \lesssim 1 \mathrm { G e V } .$ On the other hand the bound particle states are in the region of $M - | \Sigma ( 0 ) | \lesssim \epsilon _ { \mathrm { N } } \lesssim M$ ,i.e., for realistic nuclei close to $1 \mathrm { G e V . }$ （204号 Then $| M _ { - } ( \epsilon _ { \mathrm { A } } ) | > 2 | M - S ( 0 ) |$ and $| M _ { - } ( \epsilon _ { \mathrm { N } } ) | < | \Sigma ( 0 ) |$ . Thus the factor in front of the $\tilde { \kappa }$ term for anti-particle states is smaller than for particle states by more than a factor $( 2 | M - S ( 0 ) | / | \Sigma ( 0 ) | ) ^ { 2 } \approx 4 0 0$ . The SS for anti-particle states is therefore much less broken than the PSS for particle states [195],as shown in Fig. 27 by taken the neutron and anti-neutron spectra in $^ { 1 6 } \mathrm { O }$ as examples.
+
+# 3.6.2. SS in single-anti-nucleon wave functions
+
+![](images/c1d4d555a1d652e2c5ff16d09e3826a7878606e8016e81da131198598e71a1d8.jpg)  
+Figure 28:(Color online） Radial wave functions (the left panel) and the differential relation (129)of the lower components (the right panel) for the anti-neutron spin doublets $1 p _ { 1 / 2 } \left( \varepsilon \right. =$ $2 7 1 . 9 1 ~ \mathrm { M e V }$ ）and $1 p _ { 3 / 2 }$ $( \varepsilon = 2 7 1 . 5 5 \mathrm { ~ M e V } )$ in $^ { 4 0 } \mathrm { C a }$ .Taken from Ref.[197] and modified to present notations.
+
+Since the spin-orbit term in Eq. (127) is so small, for a pair of spin partners in the anti-nucleon spectrum, the dominant components of radial wave functions should be very similar to each other in nuclei and be the same at the SS limit, i.e.,
+
+$$
+F _ { j _ { < } } ( r ) = F _ { j _ { > } } ( r ) \quad \mathrm { i f } \quad d \Sigma / d r = 0 ,
+$$
+
+with $j _ { < } \left( j _ { > } \right)$ labelling the $j = \tilde { l } - 1 / 2 \ ( j = \tilde { l } + 1 / 2 )$ orbital. This relation has been tested in Refs. [195,197]: The dominant components $F ( r )$ are nearly identical for the two spin partners;on the other hand, their small components $G ( r )$ show dramatic deviations from each other. However, the small components should satisfy a certain relation at the SS limit[197],
+
+$$
+\left( \frac { d } { d r } + \frac { \tilde { l } + 1 } { r } \right) G _ { j _ { > } } ( r ) = \left( \frac { d } { d r } - \frac { \tilde { l } } { r } \right) G _ { j _ { < } } ( r ) .
+$$
+
+Here the radial quantum number $\tilde { n }$ is omitted for brevity
+
+In Ref.[197], it was examined to what extent the relations given in Eqs. (128) and (129) are fulfilled in nuclei. The RMF calculations were performed for $^ { 4 0 } \mathrm { C a }$ $^ { 9 0 } { \mathrm { Z r } } , ~ ^ { 1 2 4 } { \mathrm { S n } }$ ，and $^ { 2 0 8 } \mathrm { { P b } }$ with the effective interaction NL3 [289]. A good SS is found in both the anti-proton and anti-neutron spectra. The radial wave functions for the anti-neutron $1 p$ doublets in $^ { 4 0 } \mathrm { C a }$ are shown in the left panel of Fig. 28. The energies of these two states are 271.91 and $2 7 1 . 5 5 \mathrm { ~ M e V } ,$ respectively. One can see that the upper components $F ( r )$ of the eigenfunctions for the spin doublets are almost identical with each other due to the good SS.But the lower component $G ( r )$ of the wave function of an anti-neutron state deviates dramatically from that of its spin partner. In the right panel of Fig.28,the differential relation of the lower components given in Eq.(l29） is presented. This differential relation is satisfied remarkably well,which gives a further support to the SS in the antinucleon spectra in nuclei.
+
+# 3.6.3. SS in single-anti-nucleon spectra in local potentials
+
+In the past decade, there have been intensive investigations of the SS in single. particle or anti-particle spectra in various local potentials. For some special potentials,exact or approximate analytical solutions can be obtained, which makes it very convenient to discuss not only the PSS but also the SS.The readers are referred to Section 2.2 for further details.
+
+The HO potential is widely used and discussed in nuclear physics.For the study of the PSS and/or the SS, the RHO potentials are of the most relevance. Several examples have been illustrated in Sections 2.2,3.2, and 3.4.
+
+In Ref. [148], the eigenfunctions and eigenenergies for a Dirac Hamiltonian with equal scalar and vector HO potentials for spherical, axially deformed, and triaxially deformed shapes are derived. It has been shown that under the condition of equal scalar and vector potentials,the spectrum has a SS.In particular, for the spherical case,a higher symmetry analogous to the SU(3） symmetry of the non-relativistic HO was discussed.
+
+In Ref.[92], the generalized RHO Hamiltonian in $1 + 1$ dimensions was solved Both positive and negative quadratic potentials were considered and the boundstate solutions for particles and anti-particles were discussed. The main features of these bound states are the same as the ones of the generalized three-dimensional RHO bound states. The solutions found for zero pseudoscalar potential are related to the SS and PSS of the Dirac equation in $3 + 1$ dimensions.It has been shown how the charge conjugation and $\gamma ^ { 5 }$ chiral transformations relate the several spectra obtained and that for massless particles the SS-and PSS-related problems have the same spectrum but different spinor solutions.
+
+In Ref.[74], the SS and PSS in the spectra of nucleons and anti-nucleons in $^ { 2 0 8 } \mathrm { { P b } }$ are studied in scalar and vector Woods-Saxon potentials with different depths. Lisboa et al. examined the SO and PSO couplings for selected spin and pseudospin partners in both spectra. To assess the perturbative nature of the spin and pseudospin symmetries for particles and anti-particles, the SO and PSO contributions are defined for the energy of the level with quantum numbers nk (particles),
+
+![](images/9092414f5d8e9f0810f2e19ca6f07f16ba4b71d598090f0377186b6fcc0cff91.jpg)  
+Figure 29: Left panel: Spin-orbit terms splittings for three neutrons and anti-neutrons spin partners plotted against the respective energy splittings $\Delta E$ . The thicker solid line represents the values for which $\Delta E ^ { \mathrm { S O } } = \Delta E$ .Right panel: Pseudospin-orbit terms splitings for three neutrons and antineutrons spin partners plotted against the respective energy splittings $\Delta E$ . The points labelled by $\mathbf { \hat { \Pi } } ^ { \bullet } \mathbf { x } ^ { \bullet }$ mark the point of vector potential $V _ { 0 } = 0$ for each pair of levels. Taken from Ref.[74].
+
+$$
+\begin{array} { l } { { E _ { n \kappa } ^ { \mathrm { S O } } = - \displaystyle \int _ { 0 } ^ { \infty } \displaystyle \frac { \Delta ^ { \prime } } { ( \epsilon _ { n \kappa } + 2 M - \Delta ) ^ { 2 } } \displaystyle \frac { 1 + \kappa } { r } | G _ { n \kappa } | ^ { 2 } r ^ { 2 } d r \Bigg /  \int _ { 0 } ^ { \infty } | G _ { n \kappa } | ^ { 2 } r ^ { 2 } d r , } } \\ { { E _ { n \kappa } ^ { \mathrm { P S O } } = - \displaystyle \int _ { 0 } ^ { \infty } \displaystyle \frac { \Sigma ^ { \prime } } { ( \epsilon _ { n \kappa } - \Sigma ) ( \epsilon _ { n \kappa } + 2 M - \Delta ) } \displaystyle \frac { 1 - \kappa } { r } | F _ { n \kappa } | ^ { 2 } r ^ { 2 } d r \Bigg /  \int _ { 0 } ^ { \infty } | F _ { n \kappa } | ^ { 2 } r ^ { 2 } d r , } } \end{array}
+$$
+
+and with quantum numbers $\bar { n } \bar { \kappa }$ (anti-particles),
+
+$$
+\begin{array} { l } { { \displaystyle E _ { \bar { n } \bar { \kappa } } ^ { \mathrm { { S O } } } = \int _ { 0 } ^ { \infty } \frac { \Sigma ^ { \prime } } { ( \epsilon _ { \bar { n } \bar { \kappa } } + 2 M + \Sigma ) ^ { 2 } } \frac { 1 + \bar { \kappa } } { r } | F _ { \bar { n } \bar { \kappa } } | ^ { 2 } r ^ { 2 } d r \Bigg / \int _ { 0 } ^ { \infty } | F _ { \bar { n } \bar { \kappa } } | ^ { 2 } r ^ { 2 } d r , } } \\ { { \displaystyle E _ { \bar { n } \bar { \kappa } } ^ { \mathrm { P S O } } = \int _ { 0 } ^ { \infty } \frac { \Delta ^ { \prime } } { ( \epsilon _ { \bar { n } \bar { \kappa } } + \Delta ) ( \epsilon _ { \bar { n } \bar { \kappa } } + 2 M + \Sigma ) } \frac { 1 - \bar { \kappa } } { r } | G _ { \bar { n } \bar { \kappa } } | ^ { 2 } r ^ { 2 } d r \Bigg / \int _ { 0 } ^ { \infty } | G _ { \bar { n } \bar { \kappa } } | ^ { 2 } r ^ { 2 } d r . } } \end{array}
+$$
+
+In the left panel of Fig. 29 are shown the SO splittings for three spin partners for both neutrons and anti-neutrons,i.e., the difference of the SO term defined in Eq.(13O) for neutron spin partners and those in Eq.(131） for anti-neutron spin partners. In the right panel of Fig. 29 are shown the PSO splittings for three pseudospin partners,again for both neutrons and anti-neutrons. From these figures one can clearly see the different behaviors of spin and pseudospin in nuclei for both neutrons and anti-neutrons. There is a correlation between the values the SO splitings and theenergy splittings for spin partners,the ratio $\Delta E ^ { \mathrm { S O } } / \Delta E$ being very close to 1 for anti-neutrons. This is a sign of the perturbative nature of SS in nuclei for both neutrons and anti-neutrons. The situation for the pseudospin partners is completely different. There is no correlation between the PSO splittings $\Delta E ^ { \mathrm { P S O } }$ （204号 and the energy splittings $\Delta E$ , even for small values of $\Delta E$ . Thus it was concluded that the PSS in nuclei is not perturbative for both neutrons and anti-neutrons [74]. The readers are referred to Section 4.1 for more discussions of the nonperturbative behaviors of PSS.
+
+# 3.6.4. SS in single-anti-nucleon spectra in non-local potentials
+
+In the above investigations, the SS in the (anti-)particle spectrum of local potentials has been discussed.In fact， the PSS and its origin as well as the importance of the Fock terms have also been investigated [45,171,175]. Although the PSS was still found to be a good approximation in the RHF theory, its mechanism becomes rather complicated by the presence of the non-local potentials, see Section 3.3 for details.
+
+In Ref.[198], the SS in the Dirac negative-energy spectrum and its origin were investigated in non-local potentials within the RHF theory. Taking the nucleus （204号 $^ { 1 6 } \mathrm { O }$ as an example, the SS in the negative-energy spectrum was found to be a good approximation and the dominant components of the Dirac wave functions for the spin doublets are nearly identical. In comparison with the relativistic Hartree approximation where the origin of SS lies in the equality of the scalar and vector potentials,in RHF the cancellation between the Hartree and Fock terms is responsible for the better SS properties and determines the subtle spin-orbit splitting.
+
+In the RHF theory， the radial Dirac equations (91） are coupled integrodifferential ones due to the non-local Fock terms [182]. By introducing the effective local potentials $X _ { G } , X _ { F }$ ， $Y _ { G }$ ，and $Y _ { F }$ defined in Eqs. (92), the integrodifferential equations can be formally rewritten as equivalent differential ones as shown in Eq. (93). Finally,one is able to estimate the Hartree and Fock contributions to the SO splittngs in the Dirac negative-energy spectrum by using Eqs. (96).
+
+The denominator $\Sigma ( r ) - E$ in Eqs. (96) contains a state-dependent potential $Y _ { G } ( r )$ . However, the quantity $Y _ { G } ( r )$ is around a few MeV and is negligible in comparison with $\Sigma ( r ) - E$ which is of the order of $1 \mathrm { G e V . }$ Similar argument also holds for the time component of the vector potential $V ( r )$ which contains the rearrangement term from Fock channels [198].
+
+Within the RMF framework, it has been pointed out that the strong centrifugal barrier and weak spin-orbit potential lead to the PSS in the single-nucleon spectrum [68] and the SS in the single-anti-nucleon spectrum [195]. In Ref. [198], this point has also been examined in the RHF scheme.
+
+![](images/38965495b39062b5338f148da918be6b663c613ca7e2c7f677e2653fc02088b5.jpg)  
+Figure 3O:(Color online) Centrifugal barriers $V _ { \mathrm { C B } }$ and spin-orbit potentials $V _ { \mathrm { S O } }$ multiplied by the factor $\mp F ^ { 2 } / ( \Sigma - E )$ for the spin doublets $\nu 1 p$ (the left panel） and $\nu 4 p$ (the right panel) in the negative-energy spectrum of $^ { 1 6 } \mathrm { O }$ .The insets show the Hartree contributions of the spin-orbit potentials. Taken from Ref.[198] and modified to present notations.
+
+In Fig. 3O are shown the centrifugal barriers $V _ { \mathrm { C B } }$ and the spin-orbit potentials $V _ { \mathrm { S O } }$ multiplied by the factor $\mp F ^ { 2 } / ( \Sigma - E )$ for the neutron spin doublets $1 p$ and ${ 4 p }$ ,and their integrals over $r$ are respectively proportional to their contributions to the single-particle energy. It is clearly shown that the contribution of $V _ { \mathrm { C B } }$ is much larger than that of $V _ { \mathrm { S O } }$ . Therefore,similar reasons as in the RMF theory lead to the SS in the negative-energy spectrum in the RHF theory, and the SO splitting is due to the different SO potentials $V _ { \mathrm { S O } }$ of the spin doublets.
+
+In the insets of Fig.3O are given the Hartree contributions to the SO potentials. It was found that the contributions from the Fock terms to $V _ { \mathrm { S O } }$ are one order of magnitude larger than those from the Hartree terms. Therefore, the Fock terms must play important roles in the SO splittings.
+
+![](images/8e07e7eb8fd6784030136450b60f8bf0b6515770c019125bc78b9ed381f5b772.jpg)  
+Figure 31: (Color online) Hartree and Fock contributions to spin-orbit spliting in the negativeenergy spectrum of $^ { 1 6 } \mathrm { O }$ versus the average energy of the spin doublets. The vertical dashed line shows the continuum limit. Taken from Ref.[198] and modified to present notations.
+
+From Eq. (96)， the contributions to the single-particle energies $E$ from different channels can be estimated quantitatively. To examine the role of the Fock terms,the contributions from the Hartree and Fock channels to the SO splittings in the negative-energy spectrum of $^ { 1 6 } \mathrm { O }$ versus the average energies of the spin doublets are shown in Fig.31. It is found that the absolute contributions from both Hartree and Fock parts decrease monotonously with the average energy $E _ { \mathrm { a v } }$ . The contributions from the Hartree terms have an energy dependence similar to those in the RMF scheme [195]. It is also found that the contributions of $V _ { \mathrm { S O } } ^ { E }$ are one order of magnitude larger than $V _ { \mathrm { S O } } ^ { D }$ as shown in Fig.3O, but they are substantially cancelled by the other Fock contributions,i.e., the $V _ { 1 } ^ { E }$ and $V _ { 2 }$ terms [198]. In total, the contributions from the Fock terms have an opposite tendency and cancel with the Hartree ones, thus leading to better spin symmetry. The competition between the Hartree and Fock terms determines the sign of the spin-orbit splitting.
+
+In summary, the spin symmetry in the anti-nucleon spectra has been shown to be very well conserved in nuclei and has also been tested by examining the wave functions.The spin symmetry in single-(anti-)particle spectra in various potentials, including local and non-local potentials, has been investigated. Nowadays,the studies of the spin symmetry and the pseudospin symmetry are usually combined together and many interesting topics arise, e.g., the perturbative nature of these two symmetries and the contribution of Fock terms.For the spin symmetry in anti-nucleon spectra, the problem concerning the polarization effects of an anti-nucleon on this symmetry is still open.
+
+# 3.7. From nucleon spectra to hyperon spectra
+
+As it has been emphasized in Ref.[195], the annihilation probability of the anti-nucleon in the nucleus is very large and makes it very difficult to observe the small spin-orbit splitting of the anti-nucleon levels experimentally. Due to the additional strangeness degree of freedom, it is expected that the annihilation probability of an anti-hyperon in a normal nucleus is much smaller than that of an anti-nucleon. Therefore, it might be easier to observe the small spin-orbit splitting of the anti-hyperon levels,when the spin symmetry is approximately conserved. In Refs. [200-2O2], Song, Yao,and Meng investigated the spin symmetry in the single- $\bar { \Lambda }$ spectrum,as well as the corresponding polarization and tensor effects
+
+with the relativistic mean-field theory.
+
+In this Section, the spin symmetry in the single- $\bar { \Lambda }$ spectrum will be introduced, and the polarization and tensor effects will be discussed.
+
+# 3.7.1. SS in single-anti-Lambda spectra
+
+In the RMF theory, the $\bar { \Lambda }$ hyperon is described as a Dirac spinor moving in the potentials generated by the meson fields [338,339],
+
+$$
+\{ { \alpha } \cdot { \bf p } + V _ { \bar { \Lambda } } ( { \bf r } ) + \beta [ M _ { \bar { \Lambda } } + { \cal S } _ { \bar { \Lambda } } ( { \bf r } ) ] \} \psi _ { \bar { \Lambda } } ( { \bf r } ) = \epsilon _ { \bar { \Lambda } } \psi _ { \bar { \Lambda } } ( { \bf r } ) ,
+$$
+
+where $M _ { \bar { \Lambda } }$ is the rest mass of $\bar { \Lambda }$ and chosen as $M _ { \bar { \Lambda } } = 1 1 1 5 . 7 \mathrm { M e V } , \epsilon _ { \bar { \Lambda } }$ is the singleparticle energy. As $\bar { \Lambda }$ is charge neutral and isoscalar, it couples only to the $\sigma$ and （204号 $\omega$ mesons. As a consequence, the scalar $S _ { \bar { \Lambda } } ( \mathbf { r } )$ and vector $V _ { \bar { \Lambda } } ( { \bf r } )$ potentials are given by,
+
+$$
+S _ { \bar { \Lambda } } ( { \bf r } ) = g _ { \sigma \bar { \Lambda } } \sigma ( { \bf r } ) , \qquad V _ { \bar { \Lambda } } ( { \bf r } ) = g _ { \omega \bar { \Lambda } } \omega ( { \bf r } ) .
+$$
+
+According to the charge conjugation transformation, the coupling constants for $\bar { \Lambda }$ are related to those for $\Lambda$ by the following relations,
+
+$$
+g _ { \sigma \bar { \Lambda } } = \xi g _ { \sigma \Lambda } , \qquad g _ { \omega \bar { \Lambda } } = - \xi g _ { \omega \Lambda } .
+$$
+
+The Dirac equation for $\bar { \Lambda }$ (132)can be solved similarly as those for nucleons. In Ref.[200],the SS in the $\bar { \Lambda }$ spectrum in atomic nuclei was studied by taking $^ { 1 6 } \mathrm { O }$ as an example. With the mean-feld and no-sea approximations,the coupled Dirac equations for nucleons and $\bar { \Lambda }$ together with the Klein-Gordon equations for mesons can be self-consistently solved. The effective interaction PK1 [290] is adopted for the nucleon part, and the coupling constants for $\bar { \Lambda }$ are chosen as $\xi = 1$ ， while $g _ { \sigma \bar { \Lambda } } = g _ { \sigma \Lambda } = 2 / 3 g _ { \sigma N }$ ,and $g _ { \omega \bar { \Lambda } } = - g _ { \omega \Lambda } = - 2 / 3 g _ { \omega N }$ according to the SU(3) symmetry in naive quark model.
+
+![](images/d61da0baa965b3bebd11a36d81ff32a107f568d88ee3703df2e7d2c227d1f390.jpg)  
+Figure 32: (Color online) Potential and spectrum of $\bar { \Lambda }$ in $^ { 1 6 } \mathrm { O }$ .For each pair of spin doublets, the left level is with $\kappa < 0$ and the right one with $\kappa > 0$ . The inset gives the potential and spectrum of $\Lambda$ in $^ { 1 6 } \mathrm { O }$ Taken from Ref.[200].
+
+The potential and single- $\bar { \Lambda }$ spectrum in $^ { 1 6 } \mathrm { O }$ are plotted in Fig. 32, where for each pair of spin doublets, the left level is with $\kappa < 0$ and the right one with $\kappa > 0$ For comparison, the potential and single- $\cdot \Lambda$ spectrum in $^ { 1 6 } \mathrm { O }$ are given as well. As seen in Fig.32, the single- $\bar { \Lambda }$ energies for each spin doublets are almost identical, and the energy differences between spin doublets $\epsilon _ { \bar { \Lambda } , j _ { < } } - \epsilon _ { \bar { \Lambda } , j _ { > } }$ in the $\bar { \Lambda }$ spectrum are around $0 . 0 9 \sim 0 . 1 7 \mathrm { M e V }$ for the $p$ states, which are much smaller than that in the $\Lambda$ spectrum, $2 . 2 6 \mathrm { M e V } .$ （204号
+
+In order to see the spliting and its energy dependence more clearly, the reduced $\bar { \Lambda }$ SO splittings,
+
+$$
+\Delta E _ { \mathrm { S O } } = ( E _ { \bar { \Lambda } , j _ { < } } - E _ { \bar { \Lambda } , j _ { > } } ) / ( 2 l + 1 ) ,
+$$
+
+![](images/bb0a5112b01da049221b6976f2f44a6c2be28866e178bdd9549ef0816de3a28c.jpg)  
+Figure 33: (Color online) Reduced spin-orbit splittings $\Delta E _ { \mathrm { S O } }$ for $\bar { \Lambda }$ and anti-neutrons in $^ { 1 6 } \mathrm { O }$ as a function of the average energy $E _ { \mathrm { a v } }$ . For each $l$ orbital,from left to right read the radial quantum numbers $n = 1 , 2 , \ldots$ Taken from Ref.[200].
+
+in $^ { 1 6 } \mathrm { O }$ are plotted in Fig. 33 as a function of the average energies,
+
+$$
+E _ { \mathrm { a v } } = ( E _ { \bar { \Lambda } , j _ { < } } + E _ { \bar { \Lambda } , j _ { > } } ) / 2 ,
+$$
+
+where $E _ { \bar { \Lambda } } = \epsilon _ { \bar { \Lambda } } - M _ { \bar { \Lambda } }$ excluding the rest mass of $\bar { \Lambda }$ . For comparison, the reduced SO splittings for anti-neutrons are also plotted. It was found that the $\Delta E _ { \mathrm { S O } }$ for the $p$ states in the $\bar { \Lambda }$ spectrum are around $0 . 0 3 \sim 0 . 0 6 \mathrm { M e V } ,$ which is much smaller than those both in the $\Lambda$ spectrum, $0 . 7 5 ~ \mathrm { M e V } ,$ ， and in the anti-neutron spectrum, $0 . 0 9 \mathrm { ~ \sim ~ } 0 . 1 8 ~ \mathrm { M e V } .$ This indicates that the SS in the $\bar { \Lambda }$ spectrum is even better conserved than that in the anti-neutron spectrum shown in Ref.[195]. The main reason is that the SO coupling term for $\bar { \Lambda }$ is about $2 / 3$ of that for anti-neutrons [200].
+
+In Fig. 34, the radial wave functions $F ( r )$ and $G ( r )$ for several $\bar { \Lambda }$ spin doublets in $^ { 1 6 } \mathrm { O }$ are plotted. Since the SO splittings in the single $\bar { \Lambda }$ spectrum are so small, the dominant components $F ( r )$ of the wave functions of spin doublets are almost identical, while the small components $G ( r )$ are quite different. The nodal relation(125) is satisfied.
+
+![](images/233aa47766b0dedd424da403752f141271c718ce9abf33e0e59f1a5726617d0e.jpg)  
+Figure 34: Radial wave functions of $\bar { \Lambda }$ spin doublets in $^ { 1 6 } \mathrm { O }$ .Taken from Ref.[2OO] and modified to present notations.
+
+# 3.7.2. Polarization effects on SS
+
+In the above discussions, the polarization effects of $\bar { \Lambda }$ on the SS was neglected. For a $\bar { \Lambda }$ really inside $^ { 1 6 } \mathrm { O }$ ,i.e., the $_ { \bar { \Lambda } } ^ { 1 7 } \mathrm { O }$ system, the mean fields including the scalar and vector ones are modified by the $\bar { \Lambda }$ [340].
+
+In Ref.[2O1], the polarization effect on the SS due to the $\bar { \Lambda }$ in the $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ system has been studied with the reduction factor $\xi = 0 . 3$ for $\bar { \Lambda }$ -meson couplings. The polarization effect from the valence $\bar { \Lambda }$ hyperon leads to a highly compression of nucleus with the central density up to $2 \sim 3$ times of the normal saturation density,as seen in Fig. 35.As a result, the energy differences between the spin doublets in the $\bar { \Lambda }$ spectrum are around $0 . 1 0 \sim 0 . 7 3 \mathrm { M e V }$ for the $p _ { \bar { \Lambda } }$ states, which is larger than the results without polarization effect, $0 . 0 9 \sim 0 . 1 7 \mathrm { ~ M e V } .$ ，but still much smaller than the SO splittings in the $\Lambda$ spectrum, $2 . 2 6 \mathrm { M e V } .$ The dominant components of the Dirac spinor for the $\bar { \Lambda }$ spin doublets are found to be near identical.
+
+![](images/fdef20cc5c9e4032d3d7b707757fcde78df58a89c452ab461ccc3a1838bcd703.jpg)  
+Figure 35:(Color online) Density distributions for $\bar { \Lambda }$ (solid line) and neutrons (dashed-dotted line) in the $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ system. For comparison, the density distribution for neutrons in $^ { 1 6 } \mathrm { O }$ is plotted with the dashed line. Taken from Ref.[201].
+
+# 3.7.3. Tensor effects on SS
+
+The tensor force has been discussed over decades.Recently, the tensor force was shown to have a distinct effect on the evolution of the nuclear shell structure and appropriate conservation of pseudospin symmetry， see Section 3.4. The importance of tensor effects on reducing the spin-orbit splitting of the $\Lambda$ singleparticle spectrum has been extensively discussed in the single- $\cdot \Lambda$ hypernuclei [341-344]. Therefore, it is essential to examine further the SS of $\bar { \Lambda }$ in $\bar { \Lambda }$ -nucleus system with the presence of $\bar { \Lambda } \bar { \Lambda } \omega$ -tensor coupling,
+
+$$
+T _ { \bar { \Lambda } } = - { \frac { \alpha } { 2 m _ { \bar { \Lambda } } } } i \gamma \cdot \nabla V _ { \bar { \Lambda } } ,
+$$
+
+with $\alpha = f _ { \omega \bar { \Lambda } } / g _ { \omega \bar { \Lambda } }$ in the RMF theory. This has been done in Ref.[2O2]. Note that the tensor coupling discussed here is also of the Lorentz type,as shown with $T ( r )$ in Eq. (102).
+
+0 -50 f 12C+   
+M-100 d   
+wae) p 0 -150 -10 p   
+S-200 s 203040 S 13C -250 α=0 -50 A -300 0 1 2 3 4 5 0 i -50 12C+   
+-10 p d 0 -10 p -20 s   
+S-200 s 3040 13 C -250 α= -50 A -300 上 1 0 1 2 3 F 4 5 0 1 2 3 4 5 r (fm)
+
+Taking the $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ system as the first example, the effects of tensor coupling on the SS in the single- $\bar { \Lambda }$ spectrum were studied in Ref.[2O2] by using the self-consistent RMF theory with the effective interaction PK1-Y1 [345,346]. Figure 36 shows the single-particle spectrum for $\bar { \Lambda }$ in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ . In order to illustrate the tensor effects on the SO splittings, the single-particle spectrum for $\bar { \Lambda }$ without 0 $\overset { \cdot } { \alpha } = 0 \overset { \cdot } { \underset { \cdot } { \cdot } }$ ） tensor coupling is also plotted. For comparison, the corresponding results for $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ are given in the insets. It is shown clearly that the SO splittings of each spin doublets for $\bar { \Lambda }$ are much smaller than those for $\Lambda$ if the tensor coupling is not considered. However, the opposite is true after taking into account the tensor coupling $( \alpha = - 1$ ),i.e., the SO-splitting size becomes negligible for $\Lambda$ states as found in Refs. [342, 343, 347-349], but quite noticeable for the $\bar { \Lambda }$ states.
+
+In Fig.37 are shown the scalar potential $S \left( r \right)$ ，the vector potential $V ( r )$ and $S ( \boldsymbol { r } ) \mathrm { ~ - ~ } V ( \boldsymbol { r } )$ ， as well as the SO potentials for $\bar { \Lambda }$ in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ calculated by the self-consistent RMF theory without and with the $\bar { \Lambda } \bar { \Lambda } \omega$ -tensor coupling. For comparison, the corresponding results for $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ are given as well. As seen in Fig. 37, the vector potential of $\bar { \Lambda }$ changes its sign because of G-parity symmetry. The derivative of the difference between the vector and scalar potentials changes dramatically with the radial coordinate only for $r < 1 . 5 \ \mathrm { f m }$ ，which leads to the central part of SO potential decreasing rapidly to zero at $\sim 1 . 5$ fm. However, for $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ ,it is shown that the difference between the vector and scalar potentials is quite large. As the consequence, the corresponding central part of SO potential is much larger than that for $\bar { \Lambda }$
+
+Of particular interest is the onset of almost opposite phenomena after taking into account the tensor effects. The contribution from tensor coupling ("Tensor") reduces the SO potential for $\Lambda$ , but enhances that for $\bar { \Lambda }$ . These effects can be observed from the splittings of SO partner states,as seen in Fig. 36.
+
+In Table 5, the SO splitings $\Delta E _ { \mathrm { S O } } = E _ { j _ { < } } - E _ { j _ { > } }$ are given for $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ and for $\bar { \Lambda }$ in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ calculated by the RMF theory without ( $( \alpha = 0 )$ ）and with $( \alpha = - 1$ ）the tensor coupling. To show the tensor effects,in Ref.[2O2] the expectation values of the SO potentials with the dominant components in the Dirac spinors were divided into two parts,“Central" and “Tensor”, respectively. The difference of the expectation values of total SO potentials between the spin doublets $\Delta E _ { \mathrm { S O } }$ gives
+
+![](images/b74a789c6e4783f9ccdefd1b20cebc18dab19292315c2979995875630399c58f.jpg)  
+Figure 37: (Color online) Comparison of the scalar, vector,and total potentials (upper panels) and spin-orbit potentials (lower panels) for $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ and $\bar { \Lambda }$ in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ calculated by the self-consistent RMFtheorywithout $\overset { \cdot } { \alpha } = 0$ ,dashed line) andwith ( $( \alpha = - 1$ ,solid line) the tensor coupling.Taken from Ref. [202].
+
+Table 5: Spin-orbit splittings of $\Lambda$ in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ and of $\bar { \Lambda }$ in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ calculated by the self-consistent RMF theory without $( \alpha ~ = ~ 0 )$ ）andwith $\mathbf { \Phi } ( \alpha \ = \ - 1 )$ ） tensor coupling． In the calculations with tensor coupling,the expectation values of the SO potentials labelled with “Central",“Tensor”, and “Total" in Fig.37 are calculated with the dominant components in the Dirac spinors of spin doublets. Their differences are shown respectively in column $\Delta E _ { \mathrm { S O } }$ . All energies are in units of MeV. The data are taken from Ref.[202].
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">△EQ=0</td><td colspan="3">△Eso</td><td rowspan="2">△Eα=-1</td></tr><tr><td>Central</td><td>Tensor</td><td>Total</td></tr><tr><td>C</td><td>1p</td><td>1.51</td><td>1.47</td><td>-1.20</td><td>0.27 0.26</td></tr><tr><td rowspan="4">12C+A</td><td>1p 0.64</td><td>0.64</td><td>1.85</td><td>2.49</td><td>2.49</td></tr><tr><td>2p</td><td>0.33 0.32</td><td>1.03</td><td>1.35</td><td>1.37</td></tr><tr><td>1d</td><td>0.48 0.50</td><td>2.87</td><td>3.37</td><td>3.37</td></tr><tr><td>1f</td><td>0.28</td><td>0.30</td><td>3.18 3.48</td><td>3.47</td></tr></table></body></html>
+
+mainly the observed SO splittings.
+
+As seen in Table 5, the SO splitting for the $p _ { \Lambda }$ states of $^ { 1 3 } _ { \Lambda } \mathrm { C }$ .is $0 . 2 6 \mathrm { M e V } ,$ which is in agreement with the corresponding data $1 5 2 \pm 5 4 \pm 3 6 \mathrm { k e V }$ [350]. For $\bar { \Lambda }$ ,the SO splittings of the $1 p , 2 p , 1 d$ ,and $1 f$ states with the tensor coupling are found to be $1 . 3 7 \sim 3 . 4 7 \mathrm { ~ M e V } ,$ .which is an order of magnitude larger than those without the tensor coupling, $0 . 2 8 \sim 0 . 6 4 \mathrm { M e V } .$
+
+It is noted that the SO splitting without the tensor coupling is almost the same as the “Central’ part of the SO splitting in the calculations with the tensor coupling. This indicates that the tensor coupling has negligible contribution to the “Central’ part of SO potential through the rearrangement of the mean fields. However, the additional contribution from the tensor coupling to the SO potential of $\bar { \Lambda }$ ,corresponding to the “Tensor” term,dominates the final SO splittings in the calculations with the tensor coupling. Table 5 shows clearly that the“Tensor" part of the SO splitting almost cancels the“Central” part for the $\Lambda$ states in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ ,but enhances that for the $\bar { \Lambda }$ states greatly in $^ { 1 2 } _ { \Lambda } \mathbf { C } + \bar { \Lambda }$
+
+In Fig. 38 are shown the radial wave functions for the $p _ { \Lambda }$ states in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ and $p _ { \bar { \Lambda } }$ states in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ calculated by the RMF theory with and without the tensor coupling. It shows clearly that the tensor effect is significant on the dominant components of Dirac spinors, which recovers the SS on the wave functions of the $p _ { \Lambda }$ spin doublets.For $\bar { \Lambda }$ ,the SS is also well conserved from the calculations with and without the tensor coupling, because the SO potential of $\bar { \Lambda } ( \sim 1 \mathrm { { M e V } ) }$ is much smaller than the corresponding total potential ${ V _ { \bar { \Lambda } } + S _ { \bar { \Lambda } } }$ 1 $\mathrm { \sim 2 8 0 M e V } )$ ). Therefore, the changes of SO potentials due to the tensor coupling has negligible influence on the final wave functions of the $\bar { \Lambda }$ states.
+
+The tensor effects on the SO splittings for $\bar { \Lambda }$ have been studied systematically for $\bar { \Lambda }$ -nucleus in different mass regions,including $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ ， $^ { 4 0 } \mathrm { C a } + \bar { \Lambda }$ ,and $^ { 2 0 8 } \mathrm { P b } { + } \bar { \Lambda }$ [202]. The corresponding results are given in Table 6. The tensor effects on the SO splittings for these three cases are similar as those for $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ . Specifically, the SO splittings of $\bar { \Lambda }$ in the calculations with the tensor coupling are found to be $1 . 1 2 \sim$ $2 . 4 8 ~ \mathrm { M e V }$ in $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ ， $0 . 7 5 \sim 1 . 4 8 \mathrm { ~ M e V }$ in $^ { 4 0 } \mathrm { C a } + \bar { \Lambda }$ ，and $0 . 0 5 \sim 0 . 7 6 \mathrm { M e V }$ in $^ { 2 0 8 } \mathrm { P b } { + } \bar { \Lambda }$ , which are an order of magnitude largerthan those from the calculations without the tensor coupling, i.e., $0 . 1 6 \sim 0 . 3 9 \mathrm { M e V }$ in $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ ， $0 . 0 5 \sim 0 . 2 6 \mathrm { M e V }$ in $^ { 4 0 } \mathrm { C a } + \bar { \Lambda }$ ，and $0 \sim 0 . 1 5 \mathrm { M e V }$ in $^ { 2 0 8 } \mathrm { P b } { + } \bar { \Lambda }$ . Moreover, it was found that the SO splittings for $\bar { \Lambda }$ decrease with the mass number $A$ , no matter the tensor coupling is considered or not.
+
+![](images/decbcd6161e15a8159391d411dfdca5fa770ac59e40a254759807d136f79e6a3.jpg)  
+Figure 38: (Color online) Radial wave functions for the $p _ { \Lambda }$ states in $^ { 1 3 } _ { \Lambda } \mathrm { C }$ (left panels） and $p _ { \bar { \Lambda } }$ states in $^ { 1 2 } \mathrm { C } + \bar { \Lambda }$ (right panels). In each case, the top panel represents the results without tensor coupling $( \alpha = 0$ ）and the lower part displays the results with tensor coupling $( \alpha = - 1$ ).Taken from Ref. [2O2] and modified to present notations.
+
+Table 6: Spin-orbit splittings for different single-particle states of $\bar { \Lambda }$ in $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ ， $^ { 4 0 } \mathrm { C a } + \bar { \Lambda }$ and （20 $^ { 2 0 8 } \mathrm { P b } { + } \bar { \Lambda }$ calculated by the RMF theory without $( \alpha = 0$ ）and with $( \alpha ~ = ~ - 1$ ） tensor coupling. All energies are in units of MeV. The data are taken from Ref.[202].   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">△Eα=0</td><td colspan="3">△Eso</td><td rowspan="2">△Eα=-1</td></tr><tr><td>Central</td><td>Tensor</td><td>Total</td></tr><tr><td rowspan="5">160+A</td><td>1p</td><td>0.39</td><td>0.40</td><td>1.48</td><td>1.88</td><td>1.88</td></tr><tr><td>2p</td><td>0.23</td><td>0.22</td><td>0.89</td><td>1.11</td><td>1.12</td></tr><tr><td>1d</td><td>0.29</td><td>0.30</td><td>2.11</td><td>2.41</td><td>2.41</td></tr><tr><td>2d</td><td>0.16</td><td>0.16</td><td>0.95</td><td>1.11</td><td>1.12</td></tr><tr><td>1f</td><td>0.18</td><td>0.19</td><td>2.30</td><td>2.49</td><td>2.48</td></tr><tr><td rowspan="5">40Ca+A</td><td>1p</td><td>0.26</td><td>0.28</td><td>1.22</td><td>1.50</td><td>1.48</td></tr><tr><td>2p</td><td>0.23</td><td>0.23</td><td>0.90</td><td>1.13</td><td>1.14</td></tr><tr><td>1d</td><td>0.08</td><td>0.09</td><td>0.73</td><td>0.82</td><td>0.82</td></tr><tr><td>2d</td><td>0.17</td><td>0.18</td><td>1.29</td><td>1.47</td><td>1.46</td></tr><tr><td>1f</td><td>0.05</td><td>0.05</td><td>0.70</td><td>0.75</td><td>0.75</td></tr><tr><td rowspan="5">208Pb+Λ</td><td>1p</td><td>0.12</td><td>0.15</td><td>0.64</td><td>0.79</td><td>0.76</td></tr><tr><td>2p</td><td>0.15</td><td>0.15</td><td>0.60</td><td>0.75</td><td>0.76</td></tr><tr><td>1d</td><td>0.00</td><td>0.00</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>2d</td><td>0.03</td><td>0.03</td><td>0.27</td><td>0.30</td><td>0.30</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1f</td><td>0.00</td><td></td><td>0.01</td><td>0.06</td><td>0.07</td><td>0.06</td></tr></table></body></html>
+
+In summary,it has been shown that the spin symmetry in the $\bar { \Lambda }$ spectrum is even better conserved than that in the anti-nucleon spectrum. Even if the polarization and tensor effects， both enlarging the spin-orbit splittings，are included, the spin symmetry in the $\bar { \Lambda }$ spectrum remains well conserved.
+
+# 3.8. From spherical nuclei to deformed nuclei
+
+After it was proposed in spherical nuclei, the pseudospin symmetry in deformed nuclei was found to be an important physical concept also in axially deformed nuclei [13-16] and even in triaxially deformed nuclei [17, 18].
+
+The pseudospin symmetry in deformed nuclei has been investigated extensively. On one hand, a lot of nuclear structure phenomena have been interpreted in connection with the pseudospin symmetry, such as nuclear superdeformed configurations [29,3O], identical bands [31-33],and pseudospin partner bands [35,36]. On the other hand,in early years,much efforts were devoted to revealing connections between the normal spin-orbit representation and the “pseudo” spin-orbit one and to exploring the microscopic origin of the pseudospin symmetry with deformed harmonic oscillator potentials [17,18,30, 55-58]. In particular, it was found that the pseudospin symmetry is conserved exactly for the Nilsson Hamiltonian with one-body orbit-orbit $( \nu _ { l l } )$ and spin-orbit $( \nu _ { l s } )$ interaction strengths satisfying the condition $\nu _ { l s } = 4 \nu _ { l l }$ . Moreover, this condition is found to be consistent with the relativistic mean-field results [30].
+
+Following the success of understanding the pseudospin symmetry in spherical nuclei [65,68], the study of the pseudospin symmetry within the relativistic framework was quickly extended to deformed systems [77, 78, 81, 82, 178,179]. First,the pseudospin symmetry limit in deformed nuclei was discussed [78] and the evolution of the pseudospin symmetry with deformation was revealed [77]. Later, the pseudospin symmetry in realistic deformed nuclei was tested by examining the single-particle wave functions [82]. In Ref. [18O], the influences from different fields of mesons on the pseudospin symmetry were investigated for deformed nuclei. Quite recently, the similarity renormalization group was used to study the pseudospin symmetry in axially deformed Dirac Hamiltonian [264].
+
+In this Section,we will focus on progress on the pseudospin symmetry in deformed systems made within the relativistic framework.
+
+# 3.8.1. PSS in deformed nuclei
+
+In Ref.[78], two kinds of conditions were derived for the PSS in deformed nuclei. One is exact,
+
+$$
+\frac { \partial \Sigma } { \partial r _ { \bot } } = 0 , \qquad \frac { \partial \Sigma } { \partial z } = 0 ,
+$$
+
+and the other is approximate,
+
+$$
+\left| \frac { 1 } { M _ { - } } \frac { \partial M _ { - } } { \partial r _ { \perp } } \frac { \tilde { \Omega } } { r _ { \perp } } \right| \ll \left| \frac { \tilde { \Omega } ^ { 2 } } { r _ { \perp } ^ { 2 } } \right| , \qquad \left| \frac { 1 } { M _ { - } } \frac { \partial M _ { - } } { \partial z } \frac { \tilde { \Omega } \pm 1 } { r _ { \perp } } \right| \ll \left| \frac { \tilde { \Omega } ^ { 2 } } { r _ { \perp } ^ { 2 } } \right| ,
+$$
+
+where $r _ { \perp } = \sqrt { x ^ { 2 } + y ^ { 2 } }$ $M _ { - } = - M - \Sigma + \epsilon$ , and $\tilde { \Omega } = \Omega + 1 / 2$ corresponding to $\tilde { l } _ { z }$ （21 The exact conditions correspond to the PSS limit but, similar to the spherical case, they are certainly not satisfied in realistic nuclei, while the approximate ones can be checked in realistic nuclei. In Refs.[81,178], the axially deformed RMF theory [351,352] was used to make the numerical check of the approximate conditions for the PSS in a well-deformed nucleus $^ { 1 5 4 } \mathrm { S m }$ . It was found that these conditions are well satisfied.
+
+The contributions from different fields of mesons and photons to the PSS has been investigated for spherical nuclei [177]. In Ref. [18O], such study was extended to deformed nuclei and it was found that (i) the $\sigma$ and $\omega$ -fieldsare dominant in influencing the PSS,and (ii) the PSO splitting is mainly determined by the cancellation of these two felds.
+
+# 3.8.2. Evolution of PSS with deformation
+
+Since the PSS is observed in both spherical and deformed nuclei,how the PSS evolves with the shape of nuclei becomes an interesting problem.In Ref.[77], the broken PSS was investigated in axially deformed nuclei and the evolution of the PSS with deformation was studied by making the constrained RMF calculations [351, 352] with the effective interaction NL3 [289]. The quasidegenerate pseudospin doublets were confirmed to exist near the Fermi surface for deformed nuclei.
+
+In Fig.39, the single-particle states corresponding to pseudospin doublets in 154Dy are plotted against the deformation $\beta _ { 2 }$ . The asymptotic Nilsson quantum numbers $[ N , n _ { 3 } , \Lambda , \Omega ]$ are good for large values of the deformation parameter $\beta _ { 2 }$ The pseudospin doublets $[ \tilde { N } , \tilde { n } _ { 3 } , \tilde { \Lambda } , \tilde { \Omega } = \tilde { \Lambda } \pm 1 / 2 ]$ [55] are indicated by $[ \tilde { N } , \tilde { n } _ { 3 } , \tilde { \Lambda } ]$ with $\uparrow$ and ↓．For zero deformation $( \beta _ { 2 } ~ = ~ 0 )$ the orbitals are indicated by the corresponding spherical states. In Fig. 39, it is found that the PSO splitting stays almost constant and does not vary with deformation for $\beta _ { 2 }$ sufficiently large. Furthermore,the energy difference between the $\downarrow$ and $\uparrow$ partners always remains positive except for [4O4],where there appears a crossing at $\beta \sim 0 . 3$ .Similar crossing has been observed in Ref. [55].
+
+![](images/92f2503b5b300e7a37b0de83546b3e4b83cb80ba8f33158b03a07e7d82254b21.jpg)  
+Figure 39: Single-particle spectra in the deformed nucleus 154Dy as a function of the quadrupole deformation parameter $\beta _ { 2 }$ . Asymptotic pseudospin quantum numbers are given and the pseudospin partners are indicated by arrows $\uparrow$ and $\downarrow$ . Taken from Ref. [77].
+
+# 3.8.3. PSS in deformed single-particle wave functions
+
+One consequence of the fact that the PSS is a relativistic symmetry of the Dirac Hamiltonian is that the relativistic wave functions of the corresponding pseudospin doublets satisfy certain relations. The relations（71） and（72） have been tested in spherical nuclei [77,79, 8O]. In Ref. [82], the Dirac wave functions in deformed nuclei were examined extensively. The conditions of the Dirac singleparticle wave functions constrained by the PSS were derived and tested in the self-consistent RMF calculations.
+
+In summary, the pseudospin symmetry is connected to many experimental observations in deformed nuclei. Theoretically,much effort has been devoted to the study of the conditions of the pseudospin symmetry, the evolution of the pseudospin symmetry with deformation，and the pseudospin symmetry in single-particle wave functions. In a recent work [264], the pseudospin and spin symmetries of the Dirac Hamiltonian with axially deformed scalar and vector potentials were studied by using the similarity renormalization group theory, see Section 4.3.3 for details. There are still many open problems, e.g., the evolution of the pseudospin symmetry with the triaxial deformation.
+
+# 4.Open Issues on PSS and SS
+
+# 4.1. Perturbative or not
+
+Since the pseudospin symmetry was recognized as a relativistic symmetry of the Dirac Hamiltonian [65],the perturbative nature of this symmetry has become a hot topic. The main concern is there are no bound states at the exact pseudospin symmetry limit, $d \Sigma ( r ) / d r = 0$ (17), thus the pseudospin symmetry is always broken in realistic nuclei. The non-perturbative behaviors of pseudospin symmetry have been carefully considered since the quantitative investigations by Marcos et al. in 2OO1 [73]. It is found that the small splitting of the two pseudospin partners cannot be justified by the smallness of the pseudospin-orbit term(18),but rather by a complicated counter balance between contributions from different terms due to the characteristics of the whole Dirac equation itself. Following Arima's definition of a dynamical symmetry [7O],Alberto et al.[71,72] related such non-perturbative behaviors to the dynamical nature of the pseudospin symmetry.
+
+In a sense, such kind of complicated counter balance between contributions from different terms indicates the pseudospin-orbit term should not be considered as the appropriate symmetry-breaking term [84]. This triggered recent investigations on the alternative PSS limits, from which a smooth transition to realistic nuclei can be performed [84, 255]. In particular, Typel [255] derived the pseudospin symmetry-breaking potential by using the supersymmetric quantum mechanics,and showed that the relativistic harmonic oscillator potential is the simplest case leading to a vanishing pseudospin symmetry-breaking potential. Therefore,the Dirac Hamiltonian with the relativistic harmonic oscillator potential can be regarded as an alternative pseudospin symmetry limit, based on which one hopes to understand the pseudospin symmetry breaking in realistic nuclei in a perturbative way.
+
+In Ref. [25O], Liang et al. used the perturbation theory to investigate the spin and pseudospin symmetries of the Dirac Hamiltonian and their breaking in realistic nuclei. The perturbation corrections to the single-particle energies and wave functions were calculated order by order. In such a way， the link between the single-particle states in realistic nuclei and their counterparts in the symmetry limits is constructed explicitly. It is found that the energy splitting of the pseudospin doublets can be regarded as a result of small perturbation around the Dirac Hamiltonian with the relativistic harmonic oscillator potentials.
+
+In this Section,we will focus on these discussions on the non-perturbative or perturbative nature of the pseudospin symmetry.
+
+# 4.1.1. Non-perturbative behaviors of PSS
+
+In Ref.[73], the Schrodinger-like equation (14) for the lower component of the Dirac spinor was expressed as
+
+$$
+- F ^ { \prime \prime } + \left[ \frac { M _ { - } ^ { \prime } } { M _ { - } } \left( \frac { F ^ { \prime } } { F } - \frac { \kappa } { r } \right) + \frac { \tilde { l } ( \tilde { l } + 1 ) } { r ^ { 2 } } + 2 M ( S + V ) + 2 E V + ( S ^ { 2 } - V ^ { 2 } ) - E ^ { 2 } \right] F = 2 M E F ,
+$$
+
+where $E = \epsilon - M$ excluding the rest mass of nucleon and $M _ { - } ( r ) = E - V ( r ) - S ( r )$ It was proven in Ref.[167] that the term $( M _ { - } ^ { \prime } / M _ { - } ) ( F ^ { \prime } / F - \kappa / r )$ is not singular even at the so-called singularity point $r _ { 0 }$ with $M _ { - } ( r _ { 0 } ) = 0$ , and thus, the integrals, e.g.,
+
+$$
+\int _ { 0 } ^ { \infty } \frac { M _ { - } ^ { \prime } } { M _ { - } } \frac { \kappa } { r } F ^ { 2 } d r ,
+$$
+
+are finite. Similar to Eq. (99),one can evaluate the contributions of the terms containing $F ^ { \prime \prime } , F ^ { \prime } , S , V$ and/or $E , { \tilde { l } } ,$ and $\kappa$ to the single-particle energy $E$
+
+$$
+E ( F ^ { \prime \prime } ) + E ( F ^ { \prime } ) + E ( S , V , E ) + E ( \tilde { l } ) + E ( \kappa ) = E .
+$$
+
+Table 7: Contributions from different terms in Eq.(142) to the single-particle energy $E$ in $^ { 4 0 } \mathrm { C a }$ calculated by the RMF theory with the effective interaction NL3 [289].All units are in $\mathrm { { \bf M e V . } }$ The data are taken from Ref.[73].   
+
+<html><body><table><tr><td>mg State E(F") E(F')</td><td>E(S,V,E) E(i) E(k) E</td></tr><tr><td>508.2 2s1/2 18.53</td><td>-0.86 -45.16 12.34 -1.82 -16.96</td></tr><tr><td>K=0</td><td>13.14 3.07 -49.86 11.66 0.00 -21.98</td></tr><tr><td>1d3/2</td><td>14.00 1.99 -47.58 11.76 3.65 -16.17</td></tr><tr><td>541.0 2s1/2</td><td>19.01 -0.82 -46.39 12.79 -1.54 -16.95</td></tr><tr><td>K=0 13.68</td><td>3.29 -51.33 11.97 0.00 -22.40</td></tr><tr><td>1d3/2 14.93</td><td>2.14 -49.14 12.10 3.02 -16.95</td></tr><tr><td>565.0 2s1/2</td><td>19.26 -0.76 -47.10 13.12 -1.28 -16.77</td></tr><tr><td>K=0 14.04</td><td>3.47 -52.22 12.18 0.00 -22.52</td></tr><tr><td>1d3/2 15.65</td><td>2.24 -50.15 12.31 2.38 -17.56</td></tr></table></body></html>
+
+In Table 7, the contributions from different terms in Eq.(142) to the single particle energy $E$ are shown by taking the $2 s _ { 1 / 2 }$ and $1 d _ { 3 / 2 }$ pseudospin doublets in $^ { 4 0 } \mathrm { C a }$ as examples. The results obtained by using three different values of the $\sigma$ meson mass are compared. In order to illustrate the self-consistent effects caused by the $\kappa$ term， the results appearing in the intermediate line correspond to the solution of Eq.(142) by taking $\kappa = 0$ ,i.e., neglecting the PSS-breaking term but keeping the PCB.
+
+It is pointed out from these results that [73]: (i) For a pair of pseudospin doublets, the difference between the contributions of the $\kappa$ term $| E ( \kappa _ { a } ) - E ( \kappa _ { b } ) |$ is not negligible in comparison with the contributions of their PCB, $[ E ( \tilde { l } _ { a } ) , E ( \tilde { l } _ { b } ) ]$ (ii） In all cases considered， the difference between the contributions to the single-particle energy coming from the different terms $[ | E ( F _ { a } ^ { \prime \prime } ) - E ( F _ { b } ^ { \prime \prime } ) | , | E ( F _ { a } ^ { \prime } ) -$ $E ( F _ { b } ^ { \prime } ) | , \cdot \cdot \cdot ]$ ，in particular of the $\kappa$ term,is larger than the net energy splitting $| E _ { a } - E _ { b } |$ itself, except for the PCB term. (ii) The $\kappa$ term cannot be considered at all as a perturbation,as it can be inferred from the two previous assertions.
+
+Point (ii) reveals the importance of the self-consistent effects due to the $\kappa$ term, which modify the small component $F ( r )$ of the Dirac spinor. These effects are not so small as it has been supposed. As a result, they yield the differences between the contributions to the single-particle energy from most of terms in Eq.(142) larger than the net splitting $| E _ { a } - E _ { b } |$ itself.
+
+Point (iii) becomes more evident if one compares the results for the $2 s _ { 1 / 2 }$ state （204号 $( \kappa = - 1 )$ ） to the corresponding fictitious case of $\kappa = 0$ . Supposing the correction is perturbative, the effect of the $\kappa$ term on the energy of the $2 s _ { 1 / 2 }$ state should be negative. However, the total energy $E$ of the $2 s _ { 1 / 2 }$ state indeed increases a few MeV when such a $\boldsymbol { \kappa }$ term is included. That is to say, $E _ { \kappa = - 1 } - E _ { \kappa = 0 }$ has an opposite sign than the case that the $\kappa$ term can be regarded as a small perturbation.
+
+Furthermore, the ordering of the pseudospin doublets strongly depends on the particular model considered, mainly through the value of $m _ { \sigma }$ ,which has a strong influence on the smoothness of the nuclear surface. An exact degeneration of the pseudospin doublets can even be achieved with a particular value of $m _ { \sigma }$ . Thus, the accomplishment of the PSS does not necessarily require a small $\boldsymbol { \kappa }$ term.
+
+Therefore,based on the Schrodinger-like equation for the lower component of the Dirac spinor and the energy decomposition given in Eq. (142),the small splitting of the two pseudospin partners cannot be justified by the smallness of the $\boldsymbol { \kappa }$ term,but rather by a complicated counter balance between contributions from different terms due to the characteristics of the whole Dirac equation itself [73].
+
+# 4.1.2. PSS as a dynamical symmetry
+
+The non-perturbative behaviors of PSS was then related to the dynamical nature of PSS [71,72], in the sense of Arima's definition of a dynamical symmetry [70]: (i) a symmetry of the Hamiltonian which is not geometrical in nature, or (ii) an ordered breaking symmetry from dynamical reasons.
+
+By using the Woods-Saxon potentials in the Dirac equation (10),
+
+$$
+\Sigma ( r ) = \frac { \Sigma _ { 0 } } { 1 + e ^ { ( r - R ) / a } } \qquad \mathrm { a n d } \qquad \Delta ( r ) = \frac { \Delta _ { 0 } } { 1 + e ^ { ( r - R ) / a } } ,
+$$
+
+the sensitiveness of the PSO splitting with the potential parameters $\Sigma _ { 0 } , \ \Delta _ { 0 } , \ R$ and $a$ has been investigated systematically [71]. It is found that the degeneracy of pseudospin doublets is very much dependent on the shape of the nuclear mean field potential. The energy splittings decrease as $a$ increases and $R$ or $\left| \Sigma _ { 0 } \right|$ decreases. Varying $\left| \Sigma _ { 0 } \right|$ and $R$ simultaneously but keeping their product $\begin{array} { r } { | \Sigma _ { 0 } | R ^ { 2 } } \end{array}$ fixed, the pseudospin doublet splittings remain almost constant. That is the reason why the PSS is better realized for neutrons than for protons in an isotopic chain towards neutron-rich nuclei. It is also found that the pseudospin levels can cross each other if $a$ increases or $R$ $\left| \Sigma _ { 0 } \right|$ decreases enough. This stresses an aspect of the dynamical nature of PSS [72].
+
+As a step further,in Ref.[72] the contributions to the single-particle energies $E$ are decomposed into
+
+$$
+\left. \frac { p ^ { 2 } } { 2 M ^ { * } } \right. + \left. V _ { \mathrm { P S O } } \right. + \left. V _ { \mathrm { D a r w i n } } \right. + \left. \Sigma \right. = E ,
+$$
+
+corresponding to the kinetic,PSO, Darwin,and mean-field potential terms defined in Eq. (1O9). This decomposition is quite close to that shown in Eq. (142),while $\left. p ^ { 2 } / ( 2 M ^ { * } ) \right.$ stands for the sum of $E ( F ^ { \prime \prime } )$ and $E ( \tilde { l } )$ . The calculated results can be found in Table 3 for the cases without tensor potential. Taking the $1 \tilde { h }$ pseudospin doublets as an example, it is clearly seen that the contribution to the PSO splittings of the PSO term is larger than the net spliting itself,and it is at least of the same order of magnitude but has the opposite sign compared to the kinetic and $\left. \Sigma \right.$ terms.
+
+Therefore,it is concluded that the onset of the PSS in nuclei is dynamical, since it results mainly from cancellations of several terms contributing to the single-particle levels, instead of being a consequence of a small PSO coupling [71, 72].
+
+# 4.1.3.RHO as a PSS limit
+
+In the above studies, either the non-perturbative or the dynamical behaviors of the PSS shows that the approximate PSS in realistic nuclei cannot be justified by the smallness of the PSO potential (18) in the Schrodinger-like equations (14) for the lower component $F ( r )$ . That is to say, this term should not be considered as the appropriate symmetry-breaking term [84]. An explicit and quantitative connection between the ideal PSS limits and realistic nuclei was still missing. That triggered recent investigations on the alternative PSS limits,from which a smooth transition to realistic nuclei can be performed [84, 255].
+
+In Ref.[84], Marcos et al. aimed at separating the single-particle Hamiltonian $H$ as $H = H _ { 0 } + W$ ，where $H _ { 0 }$ exhibits exact degeneracy of pseudospin doublets,
+
+i.e.,
+
+$$
+E _ { a } = E _ { b } ,
+$$
+
+while $W$ represents the PSS breaking term. Various kinds of potentials have been investigated, including the harmonic oscillator, Woods-Saxon,relativistic Nilsson,and self-consistent RMF potentials. Among these potentials, the RHO potential exhibits the exact PSS,in which $\Sigma ( r )$ is a harmonic oscillator and $\Delta ( r )$ is a constant. Different from Eq. (71),at such a PSS limit, the lower components of a pair of pseudospin doublets are no longer equal to each other, i.e.,
+
+$$
+F _ { a } ( r ) \neq F _ { b } ( r ) .
+$$
+
+By comparing their single-particle wave functions, it was pointed out that the transition from the RHO model, satisfying exact PSS, to a more realistic one as the Woods-Saxon or self-consistent RMF potential, with broken PSS, can be considered not far from being perturbative [84]. Meanwhile, because of the relation shown in Eq.(146), for a pair of pseudospin doublets, the conditions $E _ { a } \approx E _ { b }$ and $F _ { a } ( r ) \approx F _ { b } ( r )$ are no longer dependent on each other.
+
+In Ref.[255],Typel derived the PSS breaking potential based on the Schrodingerlike equation for the upper component of the Dirac spinor, by using the SUSY quantum mechanics. The details will be presented in Section 4.3, but one of the essential conclusions is that the RHO potential is the simplest case leading to a vanishing PSS breaking potential in the SUSY framework.
+
+Therefore, the Dirac Hamiltonian with the RHO potential can be regarded as an alternative PSS limit, based on which one hopes for understanding the PSS breaking in realistic nuclei in a perturbative way.
+
+# 4.1.4. Perturbative investigation of PSS
+
+In Ref.[25O], the perturbation theory was used to investigate the symmetries of the Dirac Hamiltonian (2) and their breaking in realistic nuclei. The perturbation corrections to the single-particle energies and wave functions were calculated order-by-order. In such a way, the link between the single-particle states in realistic nuclei and their counterparts in the symmetry limits can be constructed explicitly.
+
+First of all, following the idea of Rayleigh-Schrodinger perturbation theory [353], the Dirac Hamiltonian $H$ in Eq. (2) or (1O) can be split as
+
+$$
+H = H _ { 0 } + W ,
+$$
+
+or equivalently
+
+$$
+H _ { 0 } = H - W ,
+$$
+
+where $H _ { 0 }$ leads to the exact SS or PSS, and $W$ is identified as the corresponding symmetry-breaking potential. The condition
+
+$$
+\left| { \frac { W _ { m k } } { E _ { k } - E _ { m } } } \right| \ll 1 \quad { \mathrm { f o r } } \quad m \neq k ,
+$$
+
+where $W _ { m k } ~ = ~ \langle \psi _ { m } | W | \psi _ { k } \rangle$ ，determines whether $W$ can be treated as a small perturbation and governs the convergence of the perturbation series [353].
+
+For the spin and pseudospin symmetry limits shown in Eqs.(16) and (17), respectively, the Dirac Hamiltonian with exact symmetries reads
+
+$$
+H _ { 0 } ^ { \mathrm { S S } } = \left( \begin{array} { c c } { M + \Sigma } & { - \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } \\ { \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } & { - M + \Delta _ { 0 } } \end{array} \right) , \qquad H _ { 0 } ^ { \mathrm { P S S } } = \left( \begin{array} { c c } { M + \Sigma _ { 0 } } & { - \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } \\ { \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } & { - M + \Delta } \end{array} \right) ,
+$$
+
+whose eigenenergies are denoted as $E _ { 0 }$ , and the corresponding symmetry-breaking potentials are
+
+$$
+\begin{array} { r } { W ^ { ^ { \mathrm { S S } } } = \left( \begin{array} { c c } { 0 } & { 0 } \\ { 0 } & { \Delta - \Delta _ { 0 } } \end{array} \right) , \qquad W ^ { ^ { \mathrm { P S S } } } = \left( \begin{array} { c c } { \Sigma - \Sigma _ { 0 } } & { 0 } \\ { 0 } & { 0 } \end{array} \right) . } \end{array}
+$$
+
+In contrast to adopting the Schrodinger-like equations in the above studies [65,71-73],it is remarkable that all involved operators $H , \ H _ { 0 }$ ，and $W$ are Hermitian,and they do not contain any singularity. This allows us to perform the order-by-order perturbation calculations.In addition，only the $W$ term corresponds to the symmetry-breaking potential within the present decomposition, thus the ambiguity caused by the strong cancellations among the different terms in the Schrodinger-like equations can also be avoided. Therefore, this method can provide a clear and quantitative way for investigating the perturbative nature of SS and PSS.For the case that the nature of the symmetry is perturbative, the link between the single-particle states in realistic nuclei and their counterparts in the symmetry limits can be constructed quantitatively. For the case that the nature of the symmetry is non-perturbative, the divergence of the perturbation series can be found explicitly.
+
+The neutrons in $^ { 1 3 2 } \mathrm { S n }$ will be taken as examples in the following discussions. The corresponding potentials and single-particle calculated by the self-consistent RMF theory with the effective interaction PK1 [29O] are shown in Figs. 3 and 4, respectively.
+
+For the SS case, the values of $| W _ { m k } / ( E _ { m } - E _ { k } ) |$ for the spin doublets $k = 1 f$ are plotted as functions of the energy differences $E _ { m } \mathrm { ~ - ~ } E _ { k }$ in Fig.40,where the unperturbed eigenstates are chosen as those of $H _ { 0 } ^ { \mathrm { S S } }$ in Eq. (150), and the constant potential are chosen as $- M + \Delta _ { 0 } = - 3 5 0 \ \mathrm { M e V } .$ It can be checked that the convergence of the perturbation calculations is not sensitive to the value of $\Delta _ { 0 }$ For the completeness of the single-particle basis, the single-particle states $m$ must include not only the states in the Fermi sea, but also those in the Dirac sea. It is seen that the values of $| W _ { m k } / ( E _ { m } - E _ { k } ) |$ decrease as a general tendency when the energy differences $| E _ { m } - E _ { k } |$ increase. From the mathematical point of view, this property provides natural cut-offs of the single-particle states in the perturbation calculations. It is critical to find that the largest value of $| W _ { m k } / ( E _ { m } - E _ { k } ) |$ is $\sim 0 . 1$ ： This indicates the criterion in Eq.(149) can be well fulfilled.
+
+![](images/3ab5cd4120c8607dc8715fbb89aace078138ae692854fece980d824618853902.jpg)  
+Figure 40: (Color online) Values of $| W _ { m k } / ( E _ { m } - E _ { k } ) |$ versus the energy differences $E _ { m } - E _ { k }$ for the spin doublets $k = 1 f$ . The unperturbed eigenstates are chosen as those of $H _ { 0 } ^ { \mathrm { S S } }$ ， and the singleparticle states $m$ include the states in the Dirac sea and Fermi sea. Taken from Ref.[250].
+
+The perturbation corrections to the single-particle energies of the spin doublets $1 f$ are then examined. In Fig. 41,by choosing the unperturbed eigenstates as those of $H _ { 0 } ^ { \mathrm { S S } }$ ， the single-particle energies obtained at the exact SS limit, and their counterparts obtained by the first-，second-，and third-order perturbation calculations,as well as those obtained by the self-consistent RMF theory，are shown from left to right. It can be clearly seen that the SO splitting is well reproduced by the second-order perturbation calculations. The perturbation corrections to the single-particle wave functions can be examined in the same way,and the same conclusions hold [250].
+
+![](images/616103ad93a11eac3f8abbb3426217b871a1436b24e9c01e583cd92079e6d4bc.jpg)  
+Figure 41: (Color online) Single-particle energies of spin doublets $1 f$ obtained at the exact SS limit,and by the first-,second-,and third-order perturbation calculations,as well as those by the RMF theory. The unperturbed eigenstates are chosen as those of $H _ { 0 } ^ { \mathrm { S S } }$ . Taken from Ref.[250].
+
+Similar perturbation calculations have been performed for the PSS case in Ref.[25O]. In the PSS case, since there are no bound states in the pseudospin symmetric Hamiltonian $H _ { 0 } ^ { \mathrm { P S S } }$ , the perturbation calculations are only performed from $H$ to $H _ { 0 } ^ { \mathrm { P S S } }$ , i.e., the unperturbed eigenstates are chosen as those of $H$ and the perturbation is taken as $- W ^ { \mathrm { P S S } }$ in Eq. (151). It is critical to find that the largest value of $| W _ { m k } / ( E _ { m } - E _ { k } ) |$ is about O.6 for the PSS case,compared to O.1 for the SS case. That is because,although the potentials satisfy $\left| \Delta - \Delta _ { 0 } \right| \gg \left| \Sigma - \Sigma _ { 0 } \right|$ one should never forget that different components of the Dirac spinor are involved:
+
+$$
+{ \cal W } _ { m k } ^ { \mathrm { S S } } = \left. F _ { m } \right| \left( \Delta - \Delta _ { 0 } \right) \left| F _ { k } \right. , \qquad { \cal W } _ { m k } ^ { \mathrm { P S S } } = \left. G _ { m } \right| \left( \Sigma - \Sigma _ { 0 } \right) \left| G _ { k } \right. ,
+$$
+
+where for the Fermi states the upper component $G ( r ) \ \sim \ O ( 1 )$ ，and the lower component $F ( r ) \sim O ( 1 / 1 0 )$
+
+Therefore, from the perturbative point of view, the bridge can be constructed to connect the Dirac Hamiltonian in realistic nuclei with the symmetry limit of constant $\Delta$ ，but not constant $\Sigma$ .This indicates that the realistic system can be treated as a perturbation of the spin-symmetric Hamiltonian. This also confirms in an explicit way that the behavior of PSS is non-perturbative, if $d \Sigma / d r = 0$ in Eq.(17） is regarded as the symmetry limit. These conclusions are in agreement with those given in Ref. [84] by observing the single-particle wave-function behaviors, but now they are demonstrated in a quantitative way.
+
+However, it is pointed out in the previous Subsection that the energy splitting of the pseudospin doublets in realistic nuclei can be alternatively considered as the breaking of their degeneracy appearing in the Hamiltonian with the RHO potentials [84, 255]. In order to assess this statement in a perturbative way, the Dirac Hamiltonian $H$ in Eq. (10) is split as
+
+$$
+H = H _ { \mathrm { 0 } } ^ { \mathrm { R H O } } + W ^ { \mathrm { R H O } } ,
+$$
+
+with
+
+$$
+H _ { 0 } ^ { \mathrm { R H O } } = \left( \begin{array} { c c } { M + \Sigma _ { \mathrm { H O } } } & { - \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } \\ { \displaystyle \frac { d } { d r } + \frac { \kappa } { r } } & { - M + \Delta _ { 0 } } \end{array} \right) ,
+$$
+
+and
+
+$$
+W ^ { \mathrm { R H O } } = \left( \begin{array} { c c } { { \Sigma - \Sigma _ { \mathrm { H O } } } } & { { 0 } } \\ { { 0 } } & { { \Delta - \Delta _ { 0 } } } \end{array} \right) ,
+$$
+
+where ${ \Sigma _ { \mathrm { H O } } } ( r ) = c _ { 0 } + c _ { 2 } r ^ { 2 }$ has the form of a harmonic oscillator. Here, $H _ { 0 } ^ { \mathrm { R H O } }$ leads to the energy degeneracy of the whole major shell, and $W ^ { \mathrm { R H O } }$ is identified as the corresponding symmetry-breaking potential. The constants $- M { + } \Delta _ { 0 } = - 3 5 0 \mathrm { M e V }$ and $M + c _ { 0 } = 8 6 5 \mathrm { M e V }$ are chosen in $H _ { 0 } ^ { \mathrm { R H O } }$ . As discussed before, the perturbative properties are not sensitive to these two constants. Meanwhile, the coefficient $c _ { 2 }$ is chosen as $1 . 0 0 \mathrm { M e V } / \mathrm { f m } ^ { 2 }$ to minimize the perturbations to the $p f$ states.
+
+![](images/fb6c8644f018509a2fe6c0973c73286f910cc30c40212e879ddcd5ce0ead9654.jpg)  
+Figure 42: (Color online) Upper panel: Same as Fig. 40,but for the case of the RHO potentials. Lower panel: Same as Fig.41,but for all single-particle states in the $p f$ major shell.The unperturbed eigenstates are chosen as those of $H _ { 0 } ^ { \mathrm { R H O } }$ . Taken from Ref. [250].
+
+In the upper panel of Fig.42, the values of $\left. W _ { m k } ^ { \mathrm { R H O } } / ( E _ { m } - E _ { k } ) \right.$ for the pseudospin doublets $k = 1 \tilde { d }$ are shown as functions of the energy differences $E _ { m } - E _ { k }$ . It is found that the general patterns shown in this panel are the same as those in Fig. 4O,and the largest perturbation correction is $\sim 0 . 1 6$ . This indicates that the criterion in Eq. (149) is fulfilled, even though not as wellas in the SS case.
+
+In the lower panel of Fig. 42，the perturbation corrections to the singleparticle energies of the states in the $p f$ major shell are shown. As shown in this panel, both SO and PSO splittings are well reproduced by the third-order perturbation calculations. Thus, the link between the $p f$ states in realistic nuclei and their counterparts in the symmetry limit with RHO potential can be explicitly established. Furthermore, it is found that the single-particle wave functions of $H$ can also be reproduced by the second-order perturbation calculations starting from $H _ { 0 } ^ { \mathrm { R H O } }$ ：
+
+Therefore， the quantitative connection between the Dirac Hamiltonian in realistic nuclei and that with RHO potentials is constructed by using perturbation theory. This indicates that the energy splitting of the pseudospin doublets can be regarded as a result of small perturbation around the Dirac Hamiltonian with RHO potentials, where the exact degeneracy of the pseudospin doublets appears [250].
+
+In summary，whether or not the pseudospin symmetry breaking behaves perturbatively depends on whether an appropriate symmetry limit is chosen and an appropriate symmetry-breaking term is identified. In Refs.[71-75], the nonperturbative behaviors of PSS were shown from various aspects,if one takes the condition $d \Sigma / d r = 0$ in Eq.(17) as the symmetry limit. This has also been confirmed with perturbation calculations in Ref. [25O]. However, by using the supersymmetric quantum mechanics, it is shown that a Dirac Hamiltonian with the relativistic harmonic oscillator potential is the simplest example that holds the exact pseudospin symmetry [255]. Based on this symmetry limit (154), the perturbation corrections to the single-particle energies and wave functions have been investigated order by order [25O]. In such a way, the link between the singleparticle states in realistic nuclei and their counterparts in the symmetry limits is constructed explicitly. It is found that the energy splitting of the pseudospin doublets can be regarded as a result of small perturbation around this symmetry limit. Further discussions on perturbation calculations with supersymmetric quantum mechanics will be continued in Section 4.3.
+
+# 4.2. Intruder states
+
+For the nuclear single-particle spectra in the normal spin-orbit scheme, the $s$ orbitals with $l = 0$ correspond to the spin singlets,and all other orbitals with $l > 0$ have their spin partners. In contrast, in the pseudospin-orbit scheme, one observes that not all states with $\tilde { l } > 0$ have their own pseudospin partners. More precisely,one finds the $\tilde { s }$ orbitals with $\tilde { l } = 0$ corresponding to the pseudospin singlets,and most of the $\tilde { l } > 0$ orbitals showing up by pairs as pseudospin doublets, but not for the $1 s _ { 1 / 2 } , 1 p _ { 3 / 2 } , 1 d _ { 5 / 2 } , 1 f _ { 7 / 2 } , 1 g _ { 9 / 2 } . . .$ states. These states are in general of $j = l + 1 / 2$ and have no internal nodes in neither the upper nor lower component of the Dirac spinor, $n _ { G } = n _ { F } = 0$ . Beyond the $1 f _ { 7 / 2 }$ ， these particular states are usually called the intruder states,which intrude from the the major shell above to the shell below,and form the conventional nuclear magic numbers 28, 50, 82, etc. For convenience, we call all these states, i.e., $1 s _ { 1 / 2 } , 1 p _ { 3 / 2 }$ , as well as $1 d _ { 5 / 2 } , 1 f _ { 7 / 2 }$ and $1 g _ { 9 / 2 }$ , etc., the pseudospin-unpaired states.
+
+Such a special difference between the spin and pseudospin schemes has been one of the longstanding puzzles in the studies of pseudospin symmetry. The origin and the meaning of this special feature are still not fully understood. In this Section,we will discuss this puzzle from several different and interesting aspects.
+
+# 4.2.1. Bound states in non-confining potentials
+
+Leviatan and Ginocchio [272] have pointed out that, for the single-particle bound states in the Fermi sea, the numbers of internal nodes of the upper and lower components of their Dirac spinor, $n _ { G }$ and $n _ { F }$ , obey
+
+$$
+n _ { F } = n _ { G } \quad \mathrm { f o r } \quad \kappa < 0 , \qquad n _ { F } = n _ { G } + 1 \quad \mathrm { f o r } \quad \kappa > 0 .
+$$
+
+This was proven analytically for the case that the spherical scalar $S ( \boldsymbol r )$ and vector $V ( r )$ potentials are local and $S ( r ) , V ( r )  0$ as $r \to \infty$ . In this case, the eigenstates in the Fermi sea are bound by the $\Sigma ( r ) = V ( r ) + S \left( r \right)$ potential. The demonstration is shown in detail in Section 3.2.1.
+
+In addition, it is generally believed that, for a pair of pseudospin doublets, the lower components $F ( r )$ of their wave functions are very similar to each other [65], as illustrated in Fig. 8. Even in the alternative PSS limit, the Dirac Hamiltonian with RHO potentials discussed in Section 4.1.3, it is also true that the numbers of internal nodes of their $F ( r )$ components are equal. Namely, for any pair of pseudospin doublets with ${ \kappa } _ { a } < 0$ and $\kappa _ { b } = 1 - \kappa _ { a } > 0$ ,there holds
+
+$$
+\begin{array} { r } { n _ { F } ( \kappa _ { a } ) = n _ { F } ( \kappa _ { b } ) . } \end{array}
+$$
+
+Combining Eqs.(156) and (157),one naturally obtains
+
+$$
+n _ { G } ( \kappa _ { a } ) = n _ { G } ( \kappa _ { b } ) + 1 .
+$$
+
+This explains the reason why the $n j _ { > }$ orbitals pair with the $( n - 1 ) j _ { < }$ ones in the pseudospin scheme.In addition, the eigenstates $1 j _ { > }$ with $n _ { G } = 0$ cannot find their pseudospin partners simply because $n _ { G }$ cannot be $^ { - 1 }$ ：
+
+In such a way, the special feature concerning the intruder states can be understood. However, many interesting aspects about this puzzle are still open, which will be discussed in the following parts.
+
+# 4.2.2. Bound states in confining potentials
+
+All states with $\tilde { l } > 0$ have their own pseudospin partners, if the single-particle eigenstates in the Fermi sea are bound by the $\Delta ( r ) = V ( r ) - S ( r )$ potential instead of $\Sigma ( r )$ [88,273]. It is the case when $\begin{array} { r } { \operatorname* { l i m } _ { r \to \infty } \Delta ( r ) > 2 M + \Sigma ( r ) } \end{array}$ shown in Eq. (85) is satisfied [88].
+
+On one hand,Alberto,de Castro,and Malheiro [273] have proven that the number of internal nodes of the upper and lower components, $n _ { G }$ and $n _ { F }$ ，now obeys
+
+$$
+n _ { F } = n _ { G } - 1 \quad \mathrm { f o r } \quad \kappa < 0 , \qquad n _ { F } = n _ { G } \quad \mathrm { f o r } \quad \kappa > 0 ,
+$$
+
+for the local and spherical scalar $S \left( r \right)$ and vector $V ( r )$ potentials． On the other hand, the relation (157) is held as pseudospin doublets have similar lower components $F ( r )$ . As a result, one still holds $n _ { G } ( \kappa _ { a } ) = n _ { G } ( \kappa _ { b } ) + 1$ in Eq. (158) for all pairs of pseudospin doublets with ${ \kappa } _ { a } < 0$ and $\kappa _ { b } = 1 - \kappa _ { a } > 0$ . However, it is interesting and important to note that now there exist no eigenstates with quantum numbers $n _ { G } = 0$ and $j = l + 1 / 2$ , because $n _ { F }$ cannot be $^ { - 1 }$ in the first expression of Eq. (159).
+
+In such a way, all states with $\tilde { l } > 0$ have their own pseudospin partners.The corresponding typical examples are shown in Fig. 14. However, one can comment that in the present case not all states with $l > 0$ have their own spin partners, i.e., there are some spin-unpaired states which do not have spin partners. This may be even more serious because the nuclear shell structure and magic numbers are substantially changed.
+
+# 4.2.3. Zeros of Jost function: Bound and resonant states
+
+In Section 3.5, it has been shown that the PSS in the single-particle resonant states can be investigated by studying the asymptotic behavior of the nucleon Dirac wave functions [247]. In particular, by examining the zeros of the Jost function in Eq.（118) corresponding to the small component of the radial Dirac wave function, one can investigate the PSS not only for bound states but also for resonant states.Here, the problem concerning the intruder states will be discussed.
+
+In Ref.[249], the Jost functions (118) corresponding to the small component of the radial Dirac wave function in square-well potentials (117） with $C \ =$ $- 6 6 ~ \mathrm { M e V }$ and $D = 6 5 0 ~ \mathrm { { M e V } }$ were investigated in detail. The Jost functions are plotted as a function of the binding energy $E \equiv \epsilon - M$ for several bound pairs of pseudospin partners in Fig. 43. For each pseudo-orbital angular momentum $\tilde { l } .$ there exist two $\kappa \mathrm { { s } }$ ,one with a positive value $\kappa = \tilde { l } + 1$ and the other with a negative value $\kappa = - \tilde { l } .$ , respectively. From Fig. 43,one can clearly find that the number of zeros for Jost functions with negative $\boldsymbol { \kappa }$ is always one more than that with positive $\boldsymbol { \kappa }$ ，For example, for $\tilde { l } = 1$ there are two zeros for the $d _ { 3 / 2 }$ states but three for the （20 $s _ { 1 / 2 }$ states.This means that there are two bound states for $d _ { 3 / 2 }$ orbitals and three for $s _ { 1 / 2 }$ orbitals. Therefore, there is always one bound state with $\kappa < 0$ which does not have a partner. This state is simply an intruder state.
+
+In Fig. 44 are shown the calculated energies of bound and resonant states for the $\tilde { l } = 2$ pseudospin doublets in the square-well potentials as functions of the potential depth $C$ . As the potential depth varies from O to $- 7 0 \mathrm { M e V } ,$ the energies are always paired off except the lowest one which is an intruder states.
+
+![](images/c3a612be435dc92aa994ea6110f41f6e21305380b937c427fd279cdf1bae607d.jpg)  
+Figure 43:(Color online) Jost functions ${ \mathcal { T } } _ { \kappa } ( E )$ (in arbitrary unit) on the real $E$ axis for several pairs of pseudospin partners in square-well potentials(117) with $C = - 6 6 ~ \mathrm { M e V }$ and $D = 6 5 0 \mathrm { M e V } .$ （20 The results for the $j = \tilde { l } \pm 1 / 2$ orbitals are denoted as solid and dashed curves,and their zero points representing the bound states are denoted as black and red dots,respectively. Taken from Ref. [249].
+
+![](images/858180476c08838734becf321217e04836394da8bc5774a9d9d86b77e9e84751.jpg)  
+Figure 44: (Color online) Energies of bound and resonant states for ${ p _ { 3 / 2 } }$ and $f _ { 5 / 2 }$ with $\tilde { l } = 2$ in square-well potentials (117) as functions of the potential depth $C$ . The results for the $j = \tilde { l } \pm 1 / 2$ orbitals are denoted as solid and dashed curves,respectively.All the levels are paired off except the lowest one. The bottom of the potential $E = C$ and the bound state threshold $E = 0$ are shown as dotted lines. Taken from Ref. [249].
+
+This is an alternative way to show the origin of the appearance of intruder states: The lowest zero of the Jost functions (118） with negative $\kappa$ is always isolated while the others are paired off with those of the Jost functions with positive $\kappa$ [249].
+
+# 4.2.4. A continuous transformation between SS and PSS
+
+Recently, Desplanques and Marcos [85] re-examined the puzzle of the intruder states in a different way，by seting up two single-particle spectra satisfying the SS and PSS,and between these two limits constructing a continuous and unitary transformation that commutes with the kinetic-energy operator. This was performed in the non-relativistic framework but involving non-local potentials.
+
+The starting point is the potentials
+
+$$
+V _ { 1 } = V _ { 1 } ( r ) , \qquad \tilde { V } _ { 2 } = ( { \pmb \sigma } \cdot { \hat { \bf p } } ) V _ { 2 } ( r ) ( { \pmb \sigma } \cdot { \hat { \bf p } } ) ,
+$$
+
+where $V _ { 1 } ( r )$ and $V _ { 2 } ( r )$ are local and spin independent. The operator $( \pmb { \sigma } \cdot \hat { \mathbf { p } } )$ is unitary, but it makes the potential $\tilde { V } _ { 2 }$ non-local. It is clear that $[ V _ { 1 } , \pmb { \sigma } ] = 0$ ,and consequently the potential $V _ { 1 }$ satisfies the spin symmetry. Analogously, $[ \tilde { V } _ { 2 } , ( { \pmb \sigma } \cdot \$ $\hat { \bf p } ) \pmb { \sigma } ( \pmb { \sigma } \cdot \hat { \bf p } ) ] = 0$ ，since $( { \pmb \sigma } \cdot { \hat { \bf p } } ) ( { \pmb \sigma } \cdot { \hat { \bf p } } ) = 1$ and $[ V _ { 2 } , \pmb { \sigma } ] = 0$ ，and consequently $\tilde { V } _ { 2 }$ satisfies the pseudospin symmetry. Therefore, the Hamiltonian $\tilde { H } _ { 2 }$ can be written as
+
+$$
+{ \tilde { H } } _ { 2 } = \frac { p ^ { 2 } } { 2 M } + { \tilde { V } } _ { 2 } = ( { \pmb { \sigma } } \cdot { \hat { \bf p } } ) \left[ \frac { p ^ { 2 } } { 2 M } + V _ { 2 } ( r ) \right] ( { \pmb { \sigma } } \cdot { \hat { \bf p } } ) ,
+$$
+
+implying that the spectra for the potentials $\tilde { V } _ { 2 }$ and $V _ { 2 } ( r )$ are the same. This indicates that the pseudospin-symmetric Hamiltonian $\tilde { H } _ { 2 }$ has the same spectra as those of the spin-symmetric Hamiltonian $H _ { 2 } = p ^ { 2 } / ( 2 M ) + V _ { 2 } ( r )$
+
+In order to construct a continuous and unitary transformation from the SS to PSS limits, a superposition of the above two potentials is made as [85]
+
+$$
+V = ( 1 - x ) V _ { 1 } + x \tilde { V } _ { 2 } = ( 1 - x ) V _ { 1 } ( r ) + x ( \pmb { \sigma } \cdot \hat { \pmb { p } } ) V _ { 2 } ( r ) ( \pmb { \sigma } \cdot \hat { \pmb { p } } ) ,
+$$
+
+where $x$ is supposed to vary from O to 1.
+
+![](images/5cc1f2aa440634a96e6713a3cfa090b67e25fbedd51753e9570142dc8f9c1e3d.jpg)  
+Figure 45:(Color online) Single-particle spectra at the SS and PSS limits and the continuous transition in between. The potentials are chosen as the Woods-Saxon type with parameters appropriate for a medium-size nucleus like $^ { 4 0 } \mathrm { C a }$ Taken from Ref. [85].
+
+In Fig. 45, the single-particle spectra at the SS and PSS limits as well as the continuous transition in between are shown. In these results,the potentials are chosen as the Woods-Saxon form,
+
+$$
+V _ { 1 } ( r ) = V _ { 2 } ( r ) = - \frac { V _ { 0 } } { 1 + e ^ { ( r - R ) / a } }
+$$
+
+with $V _ { 0 } = 4 0 \mathrm { M e V }$ $R = 5$ fm, $a = 0 . 6 5 \mathrm { f m }$ ,and $x$ is varied from $- 0 . 2$ to 1.
+
+First of all, it is more or less as expected but still very important that a full continuity between the spectra at the SS and PSS limits is obtained. Focusing on the single-particle spectrum around $x = - 0 . 2$ , it agrees with the expectation for a medium-size nucleus like $^ { 4 0 } \mathrm { C a }$ . In particular, the quasi-degeneracies between the standard pseudospin doublets can be seen, such as $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ and $( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ but these combinations do not correspond to those at the hypothetical PSS limit with $x = 1$ discussed here. Looking at how the spectrum changes when going from $x = - 0 . 2$ to 1,a striking feature is observed. The energies of the standard pseudospin doublets, $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ or $( 2 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ ， tend to get apart from each other, whereas those for states $( 1 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ and $( 1 p _ { 3 / 2 } , 1 f _ { 5 / 2 } )$ get closer and closer and eventually coincide at $x = 1$ . These results suggest a pattern quite different from the one generally proposed. In such a pattern, not only all states with $l > 0$ have their own spin partners at the SS limit, but also all states with $\tilde { l } > 0$ have their own pseudospin partners at the PSS limit [85].
+
+![](images/be4f5b8b0e484eeb844cf17fd9c9f86d159d4ab60de8c3828df26474a26567c6.jpg)  
+Figure 46: Wave functions $R ( r ) \left[ f ( r ) \right.$ in the original figures] of the $1 s _ { 1 / 2 }$ (the left panel) and $2 s _ { 1 / 2 }$ （204号 (the right panel) states from the SS to the PSS limits given by the Woods-Saxon model. Taken from Ref. [85].
+
+As a step further, the corresponding single-particle wave functions are studied. The wave functions $R ( r )$ of the $1 s _ { 1 / 2 }$ and $2 s _ { 1 / 2 }$ states are shown in Fig. 46 from the SS to PSS limit.While it confirms that the transition shown in the wave functions is continuous,it shows an interesting phenomenon that an extra node progressively appears in their wave functions when $x$ varies from O to 1. This is indeed the case for all the $j = l + 1 / 2$ orbitals,whereas no extra node appears for all the $j = l - 1 / 2$ orbitals [85]. Unfortunately, the analytical demonstrations about the nodal structure shown in Section 3.2 cannot be straightforwardly applied, since the non-local potentials are involved here. Therefore, in a sense, it is not clear whether these states should be labelled as $1 s _ { 1 / 2 } , 2 s _ { 1 / 2 }$ or as $2 s _ { 1 / 2 } , 3 s _ { 1 / 2 }$ at the PSS limit,according to the number of internal nodes. In Ref. [85], it is argued that these extra nodes are not the usual ones,because they occur outside the range of the potential. The contribution to the norm beyond the extra node amounts to about $3 \%$ in the largest case,compared with the usual contribution which amounts up to several $10 \%$
+
+![](images/d82e363b28ad9943e99aef4f9bca613cf4f4853d61e958c3a0b25a2b5de6d269.jpg)  
+Figure 47: Left panel: Wave functions of the $1 s _ { 1 / 2 } , 2 s _ { 1 / 2 } , 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 }$ ，and $1 d _ { 3 / 2 }$ states in the momentum space $R ( p ) \ [ f ( p )$ in the original figure] calculated at the SS limit $x \ = \ 0$ .Right panel: The corresponding wave functions in the coordinate space $\mathcal { R } ( r ) [ f ( r ) $ in the original figure] calculated by Eq. (164). Taken from Ref.[85].
+
+To investigate the relations in the wave functions of pseudospin doublets, one gets benefit from the facts that the wave functions of spin doublets are the same at the SS limit and the operator $( \pmb { \sigma } \cdot \hat { \mathbf p } )$ for the continuous and unitary transformation is local in the momentum space. Thus, the effect of this operator will not affect the angular-momentum-independent part of the wave function denoted as $R ( p )$
+
+In the left panel of Fig.47,the wave functions of the $1 s _ { 1 / 2 } , 2 s _ { 1 / 2 } , 1 p _ { 1 / 2 }$ $1 p _ { 3 / 2 }$ ，and $1 d _ { 3 / 2 }$ states in momentum space $R ( p )$ are compared. These results are calculated at the SS limit $x = 0$ . Since $V _ { 1 } ( r ) = V _ { 2 } ( r )$ is set, the wave functions of the $1 s _ { 1 / 2 }$ and $1 d _ { 3 / 2 }$ states at the PSS limit $x = 1$ are nothing but those of the $1 p$ states at the SS limit. In addition, to make a fair comparison between these functions in the coordinate space, the same spherical Bessel function is used for the transformation from the $p$ -to $r$ -space, i.e., [85]
+
+$$
+\mathcal { R } ( r ) = \sqrt { \frac { 2 } { \pi } } r \int d p R ( p ) j _ { 1 } ( p r ) .
+$$
+
+The corresponding results are shown in the right panel of Fig. 47. Note that they are different from $R ( r )$ shown in Fig. 46.
+
+From these results, it was pointed out that [85] the wave functions of $1 s _ { 1 / 2 }$ and $1 d _ { 3 / 2 }$ do not show much qualitative difference. Furthermore, it is interesting that they indeed evolve towards each other when $x$ goes from O to 1. In contrast, the wave functions of the standard pseudospin doublets $2 s _ { 1 / 2 }$ and $1 d _ { 3 / 2 }$ evidence a striking difference for the whole range of $x$
+
+In short, a new pattern of the SS and PSS limits was set up in Ref. [85]. There exists a continuous and unitary transformation between these two symmetry limits,while the non-local potentials are involved. In this pattern,all states with $l > 0$ have their own spin partners at the SS limit and all states with $\tilde { l } > 0$ have their own pseudospin partners at the PSS limit. By observing the evolutions in the single-particle energies and wave functions, it is tempting to assign the pseudospin doublets as, e.g., $( 1 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ ,instead of the standard ones, e.g., $( 2 s _ { 1 / 2 } , 1 d _ { 3 / 2 } )$ . It represents a departure from the standard PSS. To clarify its validity,analytical investigations similar to those shown in Section 3.2 are highly demanded
+
+# 4.2.5. Supersymmetric transformation
+
+Motivated by the special feature of the intruder states in the pseudospin orbit scheme, the SUSY quantum mechanics was used to investigate the spin and pseudospin symmetries [254-256,270, 271]. It is found that by employing both exact and broken SUSY, the phenomenon that all states with $\tilde { l } > 0$ have their own pseudospin partners except for the intruder states can be interpreted within a unified scheme.Furthermore,the “striking” difference between the wave functions of standard pseudospin doublets mentioned above can be understood, as they are indeed almost identical by performing the SUSY transformation [255,270] as shown in Figs. 5O and 53 below. It will be the main task in the next Section to illustrate the key ideas of the related investigations.
+
+In summary, the spin-unpaired (pseudospin-unpaired) states, i.e.， the states with $l > 0 ( \tilde { l } > 0 )$ which do not have spin (pseudospin) partners,are listed in Table 8 for the five different schemes discussed in this Section.
+
+# 4.3.SUSY and SRG
+
+In the above Sections, we have discussed many special features of pseudospin symmetry,for example, the singularities in the pseudospin-orbit potential (18), the different nodal structures for the pseudospin doublets,the perturbative nature, the puzzle of intruder states,and so on. These special features strongly motivated recent studies on the pseudospin symmetry [254-256,270, 271] by using the supersymmetric quantum mechanics [252,253]，instead of the Schrodingerlike equations for the lower component of the Dirac spinor. By employing both exact and broken supersymmetries,the phenomenon that all states with $\tilde { l } > 0$ have their own pseudospin partners except for the intruder states can be interpreted within a unified scheme.In addition, the wave functions of each pair of pseudospin doublets become almost identical by performing the supersymmetric transformation.
+
+Table 8:Spin-unpaired (S-unpaired) and pseudospin-unpaired (PS-unpaired） states within different schemes. The symbol“-”means that there is no S-unpaired or PS-unpaired states.   
+
+<html><body><table><tr><td></td><td>S-unpaired states PS-unpaired states</td></tr><tr><td>Non-confining potentials [272]</td><td>n =1&j=l+1/2</td></tr><tr><td>Confining potentials [88, 273]</td><td>n =1&j=l-1/2</td></tr><tr><td>Jost functions [247]</td><td>n =1&j=l+1/2</td></tr><tr><td>Non-local unitary transformation [85]</td><td></td></tr><tr><td>SUSY transformation [255, 270]</td><td>n =1&j=l+1/2</td></tr></table></body></html>
+
+Typel [255] investigated the pseudospin symmetry by using the supersymmetric quantum mechanics,based on the Schrodinger-like equation（12） for the upper component of the Dirac spinor. Different from the Schrodinger-like equation (14) for the lower component, the equation for the upper component has no singularities. As a result, a regular pseudospin symmetry-breaking term can be obtained. Unfortunately, the effective Hamiltonian involved in this scheme is not Hermitian, which prevents us from being able to perform quantitative perturbation calculations.
+
+Recent works by Guo and coauthors [262-264] bridged the perturbation calculations and the supersymmetric descriptions by using the similarity renormalization group. With the similarity renormalization group,the Dirac Hamiltonian is transformed into a diagonal form, expanding in a series of $1 / M$ .The effective Hamiltonian in the Schrodinger-like equation thus obtained is Hermitian, which makes the perturbation calculations possible.
+
+By combining the similarity renormalization group, supersymmetric quantum mechanics,and perturbation theory, Liang and coauthors [27O, 271] pointed out that it is now promising to understand the pseudospin symmetry and its breaking mechanism in a fully quantitative way.
+
+Alternatively,Leviatan [254] established the supersymmetric scheme directly based on the first-order differential Dirac Hamiltonian by using the intertwining relation. As the supersymmetric scheme is established directly on the Dirac Hamiltonian, the higher-order terms in the effective Hamiltonian transformed by the similarity renormalization group can be avoided. However,it is still an open problem how to identify the perturbative pseudospin symmetry limit and the corresponding symmetry-breaking term within such a scheme.
+
+In this Section，we will start with a brief introduction of supersymmetric quantum mechanics and its application to the Schrodinger and Schrodinger-like equations. We will then introduce the similarity renormalization group. Detailed discussions will be mainly focused on the perturbation calculations with similarity renormalization group and supersymmetric quantum mechanics. Finally, the application of supersymmetric quantum mechanics to the Dirac equations will be illustrated.
+
+# 4.3.1. Supersymmetric quantum mechanics
+
+It has been shown that every second-order differential Hamiltonian can be factorized in a product of two Hermitian conjugate first-order differential operators, i.e., [354]
+
+$$
+H _ { 1 } = B ^ { + } B ^ { - } ,
+$$
+
+with $B ^ { - } = [ B ^ { + } ] ^ { \dagger }$ . Its SUSY partner Hamiltonian can thus be constructed by [252, 253]
+
+$$
+H _ { 2 } = B ^ { - } B ^ { + } .
+$$
+
+The Hermitian operators
+
+$$
+\begin{array} { c c } { { Q _ { 1 } = \left( \begin{array} { c c } { { 0 } } & { { B ^ { + } } } \\ { { B ^ { - } } } & { { 0 } } \end{array} \right) , ~ Q _ { 2 } = \left( \begin{array} { c c } { { 0 } } & { { - i B ^ { + } } } \\ { { i B ^ { - } } } & { { 0 } } \end{array} \right) , } } \end{array}
+$$
+
+are the so-called supercharges with respect to the involution
+
+$$
+\tau = \tau ^ { \dagger } = \left( \begin{array} { c c } { { 1 } } & { { 0 } } \\ { { 0 } } & { { - 1 } } \end{array} \right) ,
+$$
+
+because $\{ Q _ { 1 } , \tau \} = \{ Q _ { 2 } , \tau \} = 0$ .The extended SUSY Hamiltonian $H _ { S }$ is the square of these Hermitian supercharges,
+
+$$
+H _ { S } = Q _ { 1 } ^ { 2 } = Q _ { 2 } ^ { 2 } = \left( \begin{array} { c c } { { H _ { 1 } } } & { { 0 } } \\ { { 0 } } & { { H _ { 2 } } } \end{array} \right) .
+$$
+
+The supercharges $Q _ { 1 } , Q _ { 2 }$ and the extended Hamiltonian $H _ { S }$ ，together with the commutators,
+
+$$
+[ H _ { S } , { \cal Q } _ { 1 } ] = [ H _ { S } , { \cal Q } _ { 2 } ] = 0 ,
+$$
+
+and the anti-commutator,
+
+$$
+\{ Q _ { 1 } , Q _ { 2 } \} = 0 ,
+$$
+
+form the most simple example of a supersymmetric algebra
+
+Since the extended Hamiltonian $H _ { S }$ is the square of the supercharges,all eigenvalues $E _ { S } ( n )$ of the eigenvalue equation
+
+$$
+H _ { S } \Psi _ { S } ( n ) = E _ { S } ( n ) \Psi _ { S } ( n )
+$$
+
+are non-negative, and the two-component wave functions read
+
+$$
+\Psi _ { S } ( n ) = \left( \begin{array} { c c c } { { \psi _ { 1 } ( n ) } } \\ { { \psi _ { 2 } ( n ) } } \end{array} \right) ,
+$$
+
+where $\psi _ { 1 } ( n )$ and $\psi _ { 2 } ( n )$ are the eigenfunctions of $H _ { 1 }$ and $H _ { 2 }$ ，respectively. For each eigenstate with $E _ { S } ( n ) > 0$ , it is an eigenstate for both $H _ { 1 }$ and $H _ { 2 }$ ，and the corresponding eigenfunctions satisfy
+
+$$
+\psi _ { 2 } ( n ) = \frac { B ^ { - } } { \sqrt { E _ { S } ( n ) } } \psi _ { 1 } ( n ) , \qquad \psi _ { 1 } ( n ) = \frac { B ^ { + } } { \sqrt { E _ { S } ( n ) } } \psi _ { 2 } ( n ) ,
+$$
+
+with the normalization factor $1 / \sqrt { E _ { S } ( n ) }$
+
+The property of SUSY can be either exact (also called unbroken) or broken [252]. The SUSY is exact when the eigenvalue equation (172) has a zero energy eigenstate $E _ { S } ( 0 ) = 0$ . In this case,as a usual convention, the Hamiltonian $H _ { 1 }$ has an additional eigenstate at zero energy that does not appear in its partner Hamiltonian $H _ { 2 }$ , because
+
+$$
+B ^ { - } \psi _ { 1 } ( 0 ) = 0 , \qquad \psi _ { 2 } ( 0 ) = 0 ,
+$$
+
+i.e., the trivial eigenfunction of $H _ { 2 }$ identically equals zero.The SUSY is broken when the eigenvalue equation(172） does not have any zero energy eigenstate.
+
+![](images/f83cb3c1a3327485d78f09754a717bbce8c16ee53df8cd9c63ef582e95e18c86.jpg)  
+Figure 48:(Color online） Schematic patterns of the exact and broken supersymmetries. Taken from Ref.[270].
+
+In this case, the partner Hamiltonians $H _ { 1 }$ and $H _ { 2 }$ have identical spectra. The schematic patterns of both cases are illustrated in Fig. 48.
+
+For detailed derivations and various examples of SUSY quantum mechanics, the readers are referred to Ref.[252] for a review and Ref.[253] for a textbook.
+
+# 4.3.2. SUSY for Schrodinger-like equations
+
+A second-order differential Hamiltonian (165) is the starting pointing of the SUSY quantum mechanics presented above,so this scheme is straightforwardly applicable to the Schrodinger or Schrodinger-like equations. Based on the Schrodinger-like equation (12) for the upper component of the Dirac spinor, Typel [255] investigated the PSS and derived a regular symmetry-breaking term.
+
+In Ref.[255], the effects of tensor interactions have also been taken into account. The corresponding radial Dirac equations read [cf.Eq. (102)]
+
+$$
+\begin{array} { c } { { \displaystyle \left( \frac { d } { d r } + \frac { \kappa } { r } - T ( r ) \right) G _ { \kappa } ( r ) = M _ { + } ( r ) F _ { \kappa } ( r ) , } } \\ { { \displaystyle \left( - \frac { d } { d r } + \frac { \kappa } { r } - T ( r ) \right) F _ { \kappa } ( r ) = M _ { - } ( r ) G _ { \kappa } ( r ) , } } \end{array}
+$$
+
+where $T ( r )$ is the tensor potential and $M _ { \pm } ( r ) = \epsilon _ { n \kappa } \pm M - V ( r ) \pm S ( r )$ .In the
+
+Schrodinger-like equation for the upper component of the Dirac spinor
+
+$$
+H _ { G } ( \kappa ) G _ { n \kappa } = \epsilon _ { n \kappa } G _ { n \kappa } ,
+$$
+
+the effective Hamiltonian reads
+
+$$
+H _ { G } ( \kappa ) = \frac { 1 } { M _ { + } } \left[ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa + 1 ) } { r ^ { 2 } } - 2 T \frac { \kappa } { r } + T ^ { 2 } + \frac { M _ { + } ^ { \prime } } { M _ { + } } \left( \frac { d } { d r } + \frac { \kappa } { r } - T \right) \right] + \left( M + \Sigma \right) .
+$$
+
+The main task in the SUSY description is to construct the operators $B _ { \kappa } ^ { + }$ and $B _ { \kappa } ^ { - }$ . The particular form of the Hamiltonian in Eq.(178) suggests the ansatz
+
+$$
+B _ { \kappa } ^ { + } = \left[ Q _ { \kappa } ( r ) - \frac { d } { d r } \right] \frac { 1 } { \sqrt { M _ { + } ( r ) } } , \qquad B _ { \kappa } ^ { - } = \frac { 1 } { \sqrt { M _ { + } ( r ) } } \left[ Q _ { \kappa } ( r ) + \frac { d } { d r } \right] ,
+$$
+
+where the superpotentials $Q _ { \kappa } ( r )$ are the functions of $r$ to be determined. Then, the SUSY partner Hamiltonians read
+
+$$
+\begin{array} { l } { { \displaystyle { \cal H } _ { 1 } ( \kappa ) = B _ { \kappa } ^ { + } B _ { \kappa } ^ { - } = \frac { 1 } { M _ { + } } \left[ Q _ { \kappa } ^ { 2 } - Q _ { \kappa } ^ { \prime } - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { M _ { + } ^ { \prime } } { M _ { + } } \bigg ( Q _ { \kappa } + \frac { d } { d r } \bigg ) \right] , } } \\ { { \displaystyle { \cal H } _ { 2 } ( \kappa ) = B _ { \kappa } ^ { - } B _ { \kappa } ^ { + } = \frac { 1 } { M _ { + } } \left[ Q _ { \kappa } ^ { 2 } + Q _ { \kappa } ^ { \prime } - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { M _ { + } ^ { \prime } } { M _ { + } } \frac { d } { d r } + \frac { M _ { + } ^ { \prime \prime } } { 2 M _ { + } } - \frac { 3 ( M _ { + } ^ { \prime } ) ^ { 2 } } { 4 M _ { + } ^ { 2 } } \right] . } } \end{array}
+$$
+
+In order to identify explicitly the $\kappa ( \kappa { + } 1 )$ structure and the tensor $T ( r )$ terms shown in Eq. (178), the reduced superpotentials $q _ { \kappa } ( r )$ are introduced as [255]
+
+$$
+q _ { \kappa } ( r ) = Q _ { \kappa } ( r ) - { \frac { \kappa } { r } } + T ( r ) .
+$$
+
+TheHamiltonians $H _ { 1 }$ and $H _ { 2 }$ can be further expressed as
+
+$$
+\begin{array} { l } { { \displaystyle { H _ { 1 } ( \kappa ) = \frac { 1 } { M _ { + } } \biggl [ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa + 1 ) } { r ^ { 2 } } + q _ { \kappa } ^ { 2 } + 2 q _ { \kappa } \frac { \kappa } { r } - q _ { \kappa } ^ { \prime } - 2 q _ { \kappa } T + T ^ { 2 } } } } \\ { { \displaystyle { ~ - 2 T \frac { \kappa } { r } + T ^ { \prime } + \frac { M _ { + } ^ { \prime } } { M _ { + } } \biggl ( q _ { \kappa } + \frac { d } { d r } + \frac { \kappa } { r } - T \biggr ) \biggr ] } , } } \\ { { \displaystyle { H _ { 2 } ( \kappa ) = \frac { 1 } { M _ { + } } \biggl [ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } + q _ { \kappa } ^ { 2 } + 2 q _ { \kappa } \frac { \kappa } { r } + q _ { \kappa } ^ { \prime } - 2 q _ { \kappa } T + T ^ { 2 } } } } \\ { { \displaystyle { ~ - 2 T \frac { \kappa } { r } + T ^ { \prime } + \frac { M _ { + } ^ { \prime } } { M _ { + } } \frac { d } { d r } + \frac { M _ { + } ^ { \prime \prime } } { 2 M _ { + } } - \frac { 3 ( M _ { + } ^ { \prime } ) ^ { 2 } } { 4 M _ { + } ^ { 2 } } \biggr ] } . } } \end{array}
+$$
+
+In general, the effective Hamiltonian $H _ { G }$ in the Schrodinger-like equation (178)differs from the SUSY Hamiltonian $H _ { 1 }$ in Eq. (182) by a constant, i.e.,
+
+$$
+H _ { G } ( \kappa ) = H _ { 1 } ( \kappa ) + e ( \kappa ) ,
+$$
+
+where $e ( \boldsymbol { \kappa } )$ is the so-called energy shift [252]. Thus, the reduced superpotentials $q _ { \kappa } ( r )$ satisfy the first-order differential equation,
+
+$$
+q _ { \kappa } ^ { 2 } + \left( 2 { \frac { \kappa } { r } } - 2 T + { \frac { M _ { + } ^ { \prime } ( \kappa ) } { M _ { + } ( \kappa ) } } \right) q _ { \kappa } - q _ { \kappa } ^ { \prime } = - M _ { + } ( \kappa ) N ( \kappa ) - T ^ { \prime } .
+$$
+
+Note that $N ( \kappa ) = e ( \kappa ) - M - \Sigma ( r )$ depends on the energy shift but $M _ { \ast } ( \kappa ) = \epsilon _ { n \kappa } +$ $M - \Delta ( r )$ depends on the single-particle energy. For regular $S \left( r \right) , V \left( r \right)$ ，and $T ( r )$ potentials, the boundary condition for the reduced superpotentials reads
+
+$$
+\begin{array} { r } { q _ { \kappa } ( 0 ) = 0 . } \end{array}
+$$
+
+At small radius, $q _ { \kappa } ( r )$ behaves asymptotically as a linear function of $r$
+
+$$
+\operatorname * { l i m } _ { r  0 } q _ { \kappa } ( r ) = \frac { M _ { + } ( \kappa ) N ( \kappa ) + T ^ { \prime } } { 1 - 2 \kappa } r ,
+$$
+
+and at large radius, $q _ { \kappa } ( r )$ becomes a constant,
+
+$$
+\operatorname * { l i m } _ { r \to \infty } q _ { \kappa } ( r ) = \sqrt { ( M + \epsilon _ { n \kappa } ) ( M - e ( \kappa ) ) } ,
+$$
+
+if the $s \mathrm { ~ , ~ } V$ ,and $T$ potentials vanish there.
+
+It is very important to examine the asymptotic behaviors of the full superpotentials $Q _ { \kappa } ( r )$ ， because they determine the type of SUSY [252]. If there is a change of sign in $Q _ { \kappa } ( r )$ when comparing the limits $r \to 0$ with $r \to \infty$ , the exact SUSY follows, and thus there exists a single non-degenerate state at zero energy. In contrast, if the $Q _ { \kappa } ( r )$ does not change the sign between these limits, the SUSY is broken, and thus all eigenstates are doubly degenerate with positive energy.
+
+In the present cases, $Q _ { \kappa } ( r )$ are always positive at $r \ \to \ \infty$ .In contrast, $Q _ { \kappa } ( r )$ for $r  0$ is determined by the angular-momentum term $\kappa / r$ . One finds $\begin{array} { r } { \operatorname* { l i m } _ { r \to 0 } Q _ { \kappa } ( r ) = - \infty } \end{array}$ for $\kappa < 0$ ,and $\begin{array} { r } { \operatorname* { l i m } _ { r \to 0 } Q _ { \kappa } ( r ) = + \infty } \end{array}$ for $\kappa > 0$ . In other words, the SUSY is exact for all cases of $\kappa < 0$ ，whereas SUSY is broken for all cases of $\kappa > 0$ . This is crucial to understand the puzzle of intruder states discussed in Section 4.2.
+
+The $\kappa$ -dependent energy shifts $e ( \boldsymbol { \kappa } )$ can be determined in the following ways: (i) For the case of ${ \kappa } _ { a } < 0$ , the SUSY is exact, and it requires
+
+$$
+e ( { \boldsymbol { \kappa } } _ { a } ) = \epsilon _ { 1 \kappa _ { a } } .
+$$
+
+(ii) For the case of $\kappa _ { b } > 0$ , the SUSY is broken, and thus the corresponding energy shift can be,in principle,any number which makes the whole set of $H _ { 1 }$ eigenstates positive. In practice, the energy shifts are determined by assuming that the PSO potentials vanish as $r  0$ ．This vanishing behavior is similar to that of the usual surface-peaked SO potentials. Therefore, $\begin{array} { r } { \operatorname* { l i m } _ { r \to 0 } q _ { \kappa _ { b } } ( r ) = \operatorname* { l i m } _ { r \to 0 } q _ { \kappa _ { a } } ( r ) } \end{array}$ with $\kappa _ { a } + \kappa _ { b } = 1$ is satisfied for pseudospin doublets. Considering ${ \cal M } _ { + } ( \kappa _ { a } )$ and $M _ { + } ( \kappa _ { b } )$ （204号 are almost identical as $\epsilon _ { a } \approx \epsilon _ { b }$ , and neglecting the contribution of $T ^ { \prime } ( 0 )$ , the energy shifts read [255]
+
+$$
+e ( \kappa _ { b } ) = 2 \left( M + \Sigma \right) \vert _ { r = 0 } - e ( \kappa _ { a } ) .
+$$
+
+Finally, one can evaluate the corresponding PSS-breaking terms. The Hamiltonians $H _ { 2 } ( \kappa _ { a } ) + e ( \kappa _ { a } )$ and $H _ { 2 } ( \kappa _ { b } ) + e ( \kappa _ { b } )$ for the pseudospin doublets are almost identical, and their difference is given by the potential [255]
+
+$$
+\tilde { W } ^ { \mathrm { P S S } } = [ H _ { 2 } ( \kappa _ { a } ) + e ( \kappa _ { a } ) ] - [ H _ { 2 } ( \kappa _ { b } ) + e ( \kappa _ { b } ) ] = \frac { 2 } { \sqrt { M _ { + } } } \frac { d } { d r } \frac { q _ { \kappa _ { a } } - q _ { \kappa _ { b } } } { \sqrt { M _ { + } } } - 2 T \frac { \kappa _ { a } - \kappa _ { b } } { r M _ { + } } ,
+$$
+
+where the difference between ${ \cal M } _ { + } ( \kappa _ { a } )$ and $M _ { + } ( \kappa _ { b } )$ is neglected. It is essential that this symmetry-breaking potential is a regular function for all $r$ , in contrast to that shown in Eq.(18). One of the simplest cases that such a symmetry-breaking potential vanishes is nothing but the relativistic harmonic oscillator potentials as
+
+$$
+S \left( r \right) = V ( r ) = \frac { M } { 4 } \omega ^ { 2 } r ^ { 2 } \qquad \mathrm { a n d } \qquad T ( r ) = 0 .
+$$
+
+![](images/b2bb15c6e30ec3cfee7a37e8ed154d7e70493848babdcf5ea47d2c5956f0fe1e.jpg)
+
+Figure 49: (Color online) Reduced superpotentials $q _ { \kappa } ( r )$ (the upper panel) and full superpotentials $Q _ { \kappa } ( r )$ (the lower panel) for the $s _ { 1 / 2 }$ and $d _ { 3 / 2 }$ orbitals.Taken from Ref.[255],and the values of $\kappa$ for $s _ { 1 / 2 }$ and $d _ { 3 / 2 }$ orbitals were shown with l and $^ { - 2 }$ in the original figures, respectively.
+
+In Fig. 49, a typical example of the reduced $q _ { \kappa } ( r )$ and full $Q _ { \kappa } ( r )$ superpotentials is shown for the $\tilde { p }$ pseudospin doublets,in which the tensor potential is neglected and scalar and vector potentials are chosen as the Woods-Saxon type, $S ( r ) = $
+
+$S _ { 0 } / [ 1 + \exp ( ( r - R ) / a ) ]$ and $V ( r ) = V _ { 0 } / [ 1 + \exp ( ( r - R ) / a ) ]$ with $\begin{array} { r } { S _ { 0 } = - 4 5 0 \mathrm { M e V } , } \end{array}$ （204号 $V _ { 0 } = 3 7 0 \mathrm { M e V } ,$ （ $R \ = \ 3 . 8$ fm，and $a \ = \ 0 . 6 5 \ \mathrm { f m }$ . The single-particle energies of $1 \tilde { p }$ pseudospin doublets thus obtain are $E _ { 2 s _ { 1 / 2 } } = - 1 5 . 6 0 4 ~ \mathrm { M e V }$ and ${ \cal E } _ { 1 d _ { 3 / 2 } } =$ $- 1 5 . 4 2 4 \mathrm { M e V } ,$ and the corresponding energy shifts are $e ( - 1 ) { - } M = - 5 6 . 8 4 9 \mathrm { M e V }$ and $e ( 2 ) - M \ = \ - 1 0 2 . 6 8 0 \ \mathrm { M e V } .$ It is shown that the reduced superpotentials $q _ { \kappa } ( r )$ are almost identical for radii below 5 fm. At large $r$ they become constant and approach different values for $r  \infty$ as predicted by Eq.(187). The full superpotentials $Q ( r )$ contain the angular-momentum contribution and, hence, they diverge for $r \to 0$ . The change of sign for $Q _ { - 1 } ( r )$ indicates the exact SUSY with a single state at zero energy for its $H _ { 1 }$ . In contrast, no change of sign for $Q _ { 2 } ( r )$ corresponds to the broken SUSY.
+
+In Fig. 5O, the single-particle wave functions for the $1 \tilde { p }$ pseudospin doublets are shown. The upper panel shows the wave functions of the original Hamiltonian $H _ { G }$ in Eq.(178). No doubt they have different numbers of nodes and look quite different. However, as shown in the lower panel, the eigenfunctions of the SUSY partner Hamiltonian in Eq. (182) are remarkably similar to each other. They are nothing but the original wave functions with the transformation shown in Eq. (174).
+
+Furthermore, it is proven in the SUSY quantum mechanics that the number of nodes in the radial wave functions $\psi _ { 2 } ( r )$ is one less than those in their counterparts $\psi _ { 1 } ( r )$ when the SUSY is exact, while the number of nodes in $\psi _ { 2 } ( r )$ is the same as those in their counterparts $\psi _ { 1 } ( r )$ when the SUSY is broken [252]. This indicates that the nodal relation between the pseudospin doublets [272] discussed in Section 3.2.1,
+
+$$
+\tilde { n } = n - 1 \quad \mathrm { f o r } \quad \kappa < 0 , \qquad \tilde { n } = n \quad \mathrm { f o r } \quad \kappa > 0 ,
+$$
+
+![](images/42dc8c17c52facea28a77300da5b5605e15811bcda406df0377d906793770f2c.jpg)
+
+Figure 5O: (Color online) Upper panel: Single-particle wave functions of the original Hamiltonian for the $2 s _ { 1 / 2 }$ and $1 d _ { 3 / 2 }$ pseudospin doublets. Lower panel: Those of the supersymmetric partner Hamiltonian. Taken from Ref. [255] and modified to present notations.
+
+is one of the intrinsic properties of the SUSY quantum mechanics [270].
+
+The quasi-degeneracy in the single-particle energies, the similarity in the wave functions,and the smallness of the symmetry-breaking term (19O),all of these facts imply that one should be able to understand the PSS breaking in a quantitative and perturbative way. Unfortunately, both the effective Hamiltonian ${ \mathbf { } } H _ { G }$ （178）and its SUSY partner（182） are not Hermitian，since the upper component wave functions,as the solutions of the Schrodinger-like equation, are not orthogonal to each other. This prevents us from being able to perform quantitative perturbation calculations.
+
+# 4.3.3. Similarity renormalization group
+
+Recent works in Ref.[262-264] bridged the perturbation calculations and the SUSY descriptions by using the SRG.
+
+The idea of SRG [265-269] is to drive the Hamiltonian toward a banddiagonal form via the flow equation and unitary transformations that suppress off-diagonal matrix elements. In recent years, the SRG is also widely used in nuclear effective field theory for decoupling the low-energy physics from the highenergy physics [355-357]. The SRG-evolved two-nucleon and three-nucleon interactions have been used for the ab initio calculations of nuclear ground states [358, 359], low-lying spectra [360], nucleon scatterings [361],and so on. The inmedium SRG has been developed for the medium-mass open-shell nuclei [362- 365], which decouples the physics of valence nucleons from the full Hilbert space, enabling exact diagonalizations in the valence space that are impossible in the full problem where all nucleons are active. Recent reviews on the related topics can be found in, e.g., Refs. [366,367].
+
+For the Dirac Hamiltonian shown in Eq. (2), it can be transformed with the
+
+SRG into a diagonal form and expanded in a series of $1 / M$ . It is crucial that the effective Hamiltonian in the Schrodinger-like equation thus obtained is Hermitian. This makes the perturbation calculations possible.
+
+Fist of all, according to the commutation and anti-commutation relations with respect to the $\beta$ matrix,the Dirac Hamiltonian in Eq. (2） is separated into the diagonal $\varepsilon$ and off-diagonal $o$ parts, $H = \varepsilon + o$ , which satisfy
+
+$$
+[ \varepsilon , \beta ] = 0 \qquad \mathrm { a n d } \qquad \{ o , \beta \} = 0 .
+$$
+
+In order to obtain the equivalent Schrodinger-like equation for nucleons, the main task is to decouple the eigenvalue equations for the upper and lower components of the Dirac spinor. A possible way is to make the off-diagonal part of the Dirac Hamiltonian vanish with a proper unitary transformation.
+
+According to the SRG [265-269], the Hamiltonian $H$ is transformed by a unitary operator $U ( l )$ as
+
+$$
+H ( l ) = U ( l ) H U ^ { \dagger } ( l ) ,
+$$
+
+with $H ( l ) = \varepsilon ( l ) + o ( l ) , H ( 0 ) = H$ ，anda flow parameter $l$ ，Then,the so-called Hamiltonian flow equation can be obtained by taking the differential of the above equation,
+
+$$
+\frac { d } { d l } H ( l ) = \left[ \eta ( l ) , H ( l ) \right] ,
+$$
+
+with the anti-Hermitian generator
+
+$$
+\eta ( l ) = \frac { d U ( l ) } { d l } U ^ { \dagger } ( l ) .
+$$
+
+As pointed out in Ref.[268], one of the proper choices of $\eta ( l )$ for letting the offdiagonal part $o ( l ) = 0$ as $l  \infty$ reads
+
+$$
+\eta ( l ) = [ \beta M , H ( l ) ] .
+$$
+
+Then, the diagonal part of the Dirac Hamiltonian $\varepsilon ( l )$ at the $l  \infty$ limit can be derived analytically in a series of $1 / M \left[ 2 6 2 \right]$
+
+$$
+\begin{array} { c } { \displaystyle \varepsilon ( \infty ) = { \cal M } \varepsilon _ { 0 } ( \infty ) + \varepsilon _ { 1 } ( \infty ) + \frac { \varepsilon _ { 2 } ( \infty ) } { { \cal M } } + \frac { \varepsilon _ { 3 } ( \infty ) } { { \cal M } ^ { 2 } } + \frac { \varepsilon _ { 4 } ( \infty ) } { { \cal M } ^ { 3 } } + \cdots } \\ { \displaystyle = \beta { \cal M } + ( \beta S + V ) + \frac { 1 } { 2 { \cal M } } \beta ( { \boldsymbol \alpha } \cdot \mathbf { p } ) ^ { 2 } + \frac { 1 } { 8 { \cal M } ^ { 2 } } [ [ \boldsymbol { \alpha } \cdot \mathbf { p } , ( \beta S + V ) ] , { \boldsymbol \alpha } \cdot \mathbf { p } ] } \\ { \displaystyle + \frac { 1 } { 3 2 { \cal M } ^ { 3 } } \beta ( - 4 ( { \boldsymbol \alpha } \cdot \mathbf { p } ) ^ { 4 } + \{ { \boldsymbol \alpha } \cdot \mathbf { p } , [ [ { \boldsymbol \alpha } \cdot \mathbf { p } , ( \beta S + V ) ] , ( \beta S + V ) ] \}  } \\ { \displaystyle  - 2 [ { \boldsymbol \alpha } \cdot \mathbf { p } , ( \beta S + V ) ] ^ { 2 } ) + \cdots } \end{array}  { } ~ ( 1 ) 
+$$
+
+In such a way, the eigenvalue equations for the upper and lower components of the Dirac spinor are decoupled. The equivalent Schrodinger-like equations for nucleons with Hermitian effective Hamiltonians can be obtained.The corresponding details can be found in Refs. [262,263] for the spherical case and Ref.[264] for the axially deformed case.
+
+For example,for the spherical case,the effective Hamiltonian for the nucleons in the Fermi sea up to the $( 1 / M ^ { 3 } )$ -th order reads [262]
+
+$$
+\begin{array} { l } { { \displaystyle { \cal H } _ { F } = M + \Sigma + \frac { p _ { F } ^ { 2 } } { 2 M } - \frac { 1 } { 2 M ^ { 2 } } \left( S p _ { F } ^ { 2 } - S ^ { \prime } \frac { d } { d r } \right) - \frac \kappa r \frac { \Delta ^ { \prime } } { 4 M ^ { 2 } } + \frac { \Sigma ^ { \prime \prime } } { 8 M ^ { 2 } } } } \\ { { \displaystyle ~ + \frac { S } { 2 M ^ { 3 } } \left( S p _ { F } ^ { 2 } - 2 S ^ { \prime } \frac { d } { d r } \right) + \frac \kappa r \frac { S \Delta ^ { \prime } } { 2 M ^ { 3 } } - \frac { ( \Sigma ^ { \prime } ) ^ { 2 } - 2 \Sigma ^ { \prime } \Delta ^ { \prime } + 4 S \Sigma ^ { \prime \prime } } { 1 6 M ^ { 3 } } - \frac { p _ { F } ^ { 4 } } { 8 M ^ { 3 } } } } \end{array}
+$$
+
+with the operator $p _ { F } ^ { 2 } ~ = ~ - d ^ { 2 } / ( d r ^ { 2 } ) + \kappa ( \kappa + 1 ) / r ^ { 2 }$ . This Hamiltonian can be decomposed into five Hermitian components: the non-relativistic term $H _ { n }$ ，the spin-orbit term $H _ { c }$ , the dynamical term $H _ { d }$ , the relativistic modification of kinetic
+
+energy $H _ { k }$ ,and the Darwin term $H _ { w }$ as
+
+$$
+\begin{array} { l } { { H _ { n } = M + \Sigma + \frac { p _ { F } ^ { \prime } } { 2 M } , } } \\ { { H _ { c } = - \frac { \kappa } { r } \frac { \Delta ^ { \prime } } { 4 M ^ { 2 } } + \frac { \kappa } { r } \frac { \Delta \Delta ^ { \prime } } { 2 M ^ { 3 } } , } } \\ { { H _ { d } = - \displaystyle \frac { 1 } { 2 M ^ { 2 } } \Big ( S p _ { F } ^ { 2 } - S ^ { \prime } \frac { d } { d r } \Big ) + \frac { S } { 2 M ^ { 3 } } \Big ( S p _ { F } ^ { 2 } - 2 S ^ { \prime } \frac { d } { d r } \Big ) , } } \\ { { H _ { k } = - \frac { p _ { F } ^ { 4 } } { 8 M ^ { 3 } } , } } \\ { { H _ { r } = + \frac { \Sigma ^ { \prime \prime } } { 8 M ^ { 2 } } - \frac { ( \Sigma ^ { \prime } ) ^ { 2 } - 2 \Sigma ^ { \prime } \Delta ^ { \prime } + 4 S \Sigma ^ { \prime \prime } } { 1 6 M ^ { 3 } } . } } \end{array}
+$$
+
+Since all these terms are Hermitian, one can calculate the contribution of each term to the single-particle energies,which is very helpful to disclose the origin of relativistic symmetries.
+
+In Ref. [264],Guo et al.have made a new exploration of the PSS in deformed nuclei by carrying out such a decomposition for axially deformed Dirac Hamiltonian with Woods-Saxon-like vector and scalar potentials. The singleparticle states for $^ { 1 5 4 } \mathrm { D y }$ were obtained and the SO and PSO splitings were analyzed in detail.
+
+In Fig. 51, the variation of the energy splitting between the spin (pseudospin) doublets with the quadrupole deformation parameter $\beta _ { 2 }$ is shown. It can be seen that the SO splittng is mainly from the contribution of the SO term $H _ { c }$ when the system is prolate deformed. However, on the oblate side, the situation becomes more complicated: The non-relativistic, the SO coupling,and the dynamical terms all influence very much the SO splitting. The different behaviors between the SO energy splitting on the prolate and oblate sides are quite interesting. This difference was attributed to the presence of configuration mixing on the oblate side.This should be examined in detail in the future.
+
+![](images/66fdde4c5750702f4a055bb7d1386383062e9deb59314204a1ba4da3ffad82c6.jpg)  
+Figure 51:(Color online) Comparison of the contributions of all the terms in $H _ { P }$ to the spin (left panels)and pseudospin (right panels) energy splitting and their correlations with the deformation parameter $\beta _ { 2 }$ for four pairs of spin (pseudospin) doublets.Here “nonrela",“dynam”,“spinorb”, “relakin”,and “Darwin” denote the non-relativistic part,the dynamical term,the spin-orbit term, the relativistic modification of kinetic energy,and the spin (pseudospin) Darwin term,respectively. As a guide to the eyes, the total energy splitings are marked as“total". Taken from Ref. [264].
+
+Compared with the SO splitting,the change of the PSO splitting with the deformation is more complicated, as one can see in the right panel of Fig. 51. The energy difference between a pair of pseudospin partners is mainly determined by three parts, the non-relativistic term $H _ { n }$ , the spin-orbit term $H _ { c }$ , and the dynamical term $H _ { d }$ . Four pairs of pseudospin partners are shown here and their energies are in the range of $0 \sim - 2 5 \mathrm { M e V } .$ In this energy range and in the whole shown range of $\beta _ { 2 }$ , the contribution of $H _ { n }$ to the PSO splitting is always positive, which means its contribution to the pseudospin anti-aligned state is larger. The opposite is that of $H _ { c }$ ,i.e., its contribution to the pseudospin aligned state is larger. Therefore, the SO term always plays a role in favor of the PSS. The contribution of the dynamical term $H _ { d }$ to the PSO splitting varies with the deformation and changes its sign when the pseudospin doublets approach the threshold.
+
+# 4.3.4.Perturbation with SRG and SUSY
+
+Gathering all pieces presented above, it is promising to understand the PSS and its breaking mechanism in a fully quantitative way by combining the SRG, SUSY quantum mechanics,and perturbation theory [270, 271].
+
+The Dirac equation can be transformed into a diagonal form in a series of $1 / M$ by using the SRG as shown in Eq. (199), and its lowest-order approximation corresponds to a Schrodinger equation. In Ref. [27O], taking the lowest-order approximation as an example, the idea for applying the SUSY quantum mechanics to trace the origin of the PSS was illustrated and the PSS breaking mechanism was explored quantitatively by the perturbation theory.
+
+By assuming the spherical symmetry, the radial Schrodinger equation is cast
+
+in the form of
+
+$$
+H ( \kappa ) R ( r ) = E R ( r )
+$$
+
+with the single-particle Hamiltonian
+
+$$
+H ( \kappa ) = - \frac { d ^ { 2 } } { 2 M d r ^ { 2 } } + \frac { \kappa ( \kappa + 1 ) } { 2 M r ^ { 2 } } + V ( r ) ,
+$$
+
+and the single-particle wave functions
+
+$$
+\psi _ { \alpha } ( { \bf r } ) = \frac { R _ { a } ( r ) } { r } \mathcal { Y } _ { j _ { a } m _ { a } } ^ { l _ { a } } ( \hat { \bf r } ) .
+$$
+
+Here $V ( r )$ is the non-relativistic central potential standing for the sum of the scalar and vector potentials, $\Sigma ( r )$ ,in Eq. (199).
+
+It is clear that $H$ conserves the explicit SS for the spin doublets $a$ and $b$ with $\kappa _ { a } + \kappa _ { b } = - 1$ , which leads to the same centrifugal barrier $\kappa ( \kappa { + } 1 ) / ( 2 M r ^ { 2 } )$ . Similarly, in order to investigate the origin of the PSS and its breaking mechanism,it is crucial to identify the corresponding term proportional to $\tilde { l } ( \tilde { l } + 1 ) = \kappa ( \kappa - 1 )$ which leads to the same $\kappa ( \kappa - 1 )$ values for the pseudospin doublets $a$ and $b$ with $\boldsymbol { \kappa } _ { a } + \boldsymbol { \kappa } _ { b } = 1$ . The SUSY quantum mechanics is one of promising approaches for identifying such $\kappa ( \kappa - 1 )$ structure.
+
+Following the similar procedures shown in Section 4.3.2,one can start with a couple of Hermitian conjugate first-order operators
+
+$$
+B _ { \kappa } ^ { + } = \left[ Q _ { \kappa } ( r ) - \frac { d } { d r } \right] \frac { 1 } { \sqrt { 2 M } } , \qquad B _ { \kappa } ^ { - } = \frac { 1 } { \sqrt { 2 M } } \left[ Q _ { \kappa } ( r ) + \frac { d } { d r } \right] ,
+$$
+
+and the reduced superpotentials
+
+$$
+\begin{array} { r } { q _ { \kappa } ( r ) = Q _ { \kappa } ( r ) - \displaystyle \frac { \kappa } { r } , } \end{array}
+$$
+
+and end up with the SUSY partner Hamiltonians
+
+$$
+\begin{array} { l } { \displaystyle { H _ { 1 } ( \kappa ) = B _ { \kappa } ^ { + } B _ { \kappa } ^ { - } = \frac { 1 } { 2 M } \left[ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa + 1 ) } { r ^ { 2 } } + q _ { \kappa } ^ { 2 } + \frac { 2 \kappa } { r } q _ { \kappa } - q _ { \kappa } ^ { \prime } \right] , } } \\ { \displaystyle { H _ { 2 } ( \kappa ) = B _ { \kappa } ^ { - } B _ { \kappa } ^ { + } = \frac { 1 } { 2 M } \left[ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } + q _ { \kappa } ^ { 2 } + \frac { 2 \kappa } { r } q _ { \kappa } + q _ { \kappa } ^ { \prime } \right] . } } \end{array}
+$$
+
+It is important to note that these Hamiltonians are Hermitian, but those in Eqs.(182) are not [270].
+
+The reduced superpotentials $q _ { \kappa } ( r )$ satisfy the first-order differential equation [270],
+
+$$
+\frac { 1 } { 2 M } \left[ q _ { \kappa } ^ { 2 } ( \boldsymbol { r } ) + \frac { 2 \kappa } { r } q _ { \kappa } ( \boldsymbol { r } ) - q _ { \kappa } ^ { \prime } ( \boldsymbol { r } ) \right] + e ( \kappa ) = V ( \boldsymbol { r } ) ,
+$$
+
+with the asymptotic behaviors
+
+$$
+\operatorname * { l i m } _ { r  \infty } q _ { \kappa } ( r ) = \sqrt { - 2 M e ( \kappa ) } \qquad \mathrm { a n d } \qquad \operatorname * { l i m } _ { r  0 } q _ { \kappa } ( r ) = \frac { 2 M ( e ( \kappa ) - V ) } { ( 1 - 2 \kappa ) } r .
+$$
+
+The energy shifts are determined in the same way as that shown in Eqs.(188) and (189), i.e,
+
+$$
+e ( \kappa _ { a } ) = E _ { 1 \kappa _ { a } } \qquad \mathrm { a n d } \qquad e ( \kappa _ { b } ) = 2 \ V | _ { r = 0 } - e ( \kappa _ { a } ) ,
+$$
+
+for the cases of $\kappa _ { a } < 0$ and $\kappa _ { b } > 0$ ,respectively
+
+Before the numerical calculations, it is interesting to seek a possible exact PSS limit analytically. The SUSY partner Hamiltonian reads
+
+$$
+\tilde { H } ( \kappa ) = H _ { 2 } ( \kappa ) + e ( \kappa ) = - \frac { d ^ { 2 } } { 2 M d r ^ { 2 } } + \frac { \kappa ( \kappa - 1 ) } { 2 M r ^ { 2 } } + \tilde { V } _ { \kappa } ( r ) ,
+$$
+
+with
+
+$$
+\tilde { V } _ { \kappa } ( \boldsymbol { r } ) = V ( \boldsymbol { r } ) + q _ { \kappa } ^ { \prime } ( \boldsymbol { r } ) / M .
+$$
+
+By definition the exact PSS limit holds $E _ { n \kappa _ { a } } = E _ { ( n - 1 ) \kappa _ { b } }$ with ${ \kappa } _ { a } < 0$ and $\kappa _ { a } + \kappa _ { b } = 1$ which indicates $H _ { 2 } ( \kappa _ { a } ) + e ( \kappa _ { a } ) = H _ { 2 } ( \kappa _ { b } ) + e ( \kappa _ { b } )$ . By combining Eqs. (206) and (207),as well as the boundary condition $q _ { \kappa } ( 0 ) = 0$ , one can readily have
+
+$$
+q _ { \kappa _ { a } } ( r ) = q _ { \kappa _ { b } } ( r ) = M \omega _ { \kappa } r ,
+$$
+
+with a known constant $\omega _ { \kappa } \equiv ( e ( \kappa _ { a } ) { - } e ( \kappa _ { b } ) ) / ( \kappa _ { b } { - } \kappa _ { a } )$ . As the reduced superpotentials $q _ { \kappa } ( r )$ are linear functions of $r$ ， the central potential $V ( r )$ in $H$ has the form [cf. Eq. (191)]
+
+$$
+V _ { \mathrm { H O } } ( r ) = \frac { M } { 2 } \omega _ { \kappa } ^ { 2 } r ^ { 2 } + V ( 0 ) .
+$$
+
+The corresponding PSS limit is nothing but the well known case with harmonic oscillator potentials,which leads to the energy degeneracy of the whole major shell.
+
+In the following calculations, the mass of nucleon is taken as $M = 9 3 9 . 0 \mathrm { M e V } ,$ （20 and the central potential $V ( r )$ is chosen as a Woods-Saxon form
+
+$$
+V ( r ) = \frac { V _ { 0 } } { 1 + e ^ { ( r - R ) / a } } ,
+$$
+
+with the parameters $V _ { 0 } = - 6 3 . 2 9 7 \mathrm { M e V } , R = 6 . 2 7 8 \mathrm { f m } ,$ and $a = 0 . 6 1 5 \mathrm { f m }$ ，which corresponds to the neutron potential provided in Ref. [368] by taking $N = 8 2$ and $Z = 5 0$ . This potential is illustrated as the solid line in Fig. 55 below. In this Section, we use a tilde to denote the operators, potentials,and wave functions belonging to $\tilde { H }$
+
+In Fig. 52, the reduced PSO splittings $( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 \tilde { l } + 1 )$ versus their average single-particle energies $E _ { \mathrm { a v } } = ( E _ { j _ { < } } + E _ { j _ { > } } ) / 2$ are plotted, where $j _ { < } \left( j _ { > } \right)$ denotes the states with $j = \tilde { l } - 1 / 2 ( j = \tilde { l } + 1 / 2 )$ . It is seen that the amplitudes of the reduced PSO splittings are less than $1 \mathrm { M e V . }$ Moreover, as a general tendency, the splittings become smaller with the increasing single-particle energies, which is in agreement with the results shown in Figs. 5 and 1O by the self-consistent relativistic meanfield and relativistic continuum Hartree-Bogoliubov theories. It is very interesting to investigate the physical mechanism for such energy-dependent behavior. This also helps to figure out whether or not the PSS is an accidental symmetry [84].
+
+![](images/cea34aee14e4560e3d8ac2aa8894439f8a8d6c10d6aeb512430c5cc2b57a82a6.jpg)  
+Figure 52: (Color online) Reduced PSO splittings $( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 \tilde { l } + 1 )$ versus their average singleparticle energies $( E _ { j _ { < } } + E _ { j _ { > } } ) / 2$ . Taken from Ref.[270].
+
+In the left panel of Fig. 53, the single-particle radial wave functions $R _ { n l j } ( r )$ of $H$ are shown by taking the pseudospin doublets $2 \tilde { p }$ and $1 \tilde { f }$ as examples. It is clear that the wave functions of the spin doublets are identical since there is no spin-orbit term in $H$ . In contrast, the wave functions of the pseudospin doublets are very different from each other. This leads to difficulties in analyzing the origin of the PSS and its breaking
+
+Prior to the quantitative analysis by using the perturbation theory in Ref. [250], the investigation of PSO splittings was usually done by decomposing the contributions by terms,where each contribution is calculated with the corresponding
+
+![](images/1c4082103a2b0d00669f17c21158bcc3b8ba29017857fc6da33b5d7e4324b575.jpg)  
+Figure 53: (Color online) Single-particle wave functions $R _ { n l j } ( r )$ of $H$ (the left panel) and $\tilde { R } _ { \tilde { n } \tilde { l } j } ( \boldsymbol { r } )$ of $\tilde { H }$ (the right panel) for the $3 s _ { 1 / 2 }$ $2 d _ { 3 / 2 }$ $2 d _ { 5 / 2 }$ ,and $1 g _ { 7 / 2 }$ states. Taken from Ref. [270].
+
+Table 9: Contributions from the kinetic term (kin),centrifugal barrier (CB),and central potential (cen）to the single-particle energies $E$ and the corresponding PSO splittings $\Delta E _ { \mathrm { P S O } }$ for the pseudospin doublets $2 \tilde { p }$ and $1 \tilde { f }$ All units are in $\mathrm { \bf ~ M e V . }$ The data are taken from Ref. [270].   
+
+<html><body><table><tr><td>State</td><td>Ekin</td><td>EcB</td><td>Ecen</td><td>E</td></tr><tr><td>3s1/2</td><td>28.953</td><td>0.000</td><td>-50.545</td><td>-21.591</td></tr><tr><td>2d3/2</td><td>16.845</td><td>11.758</td><td>-51.746</td><td>-23.143</td></tr><tr><td>△EPsO</td><td>12.109</td><td>-11.758</td><td>1.201</td><td>1.552</td></tr><tr><td>2d5/2</td><td>16.845</td><td>11.758</td><td>-51.746</td><td>-23.143</td></tr><tr><td>1g7/2</td><td>6.197</td><td>20.483</td><td>-54.188</td><td>-27.508</td></tr><tr><td>△EPso</td><td>10.648</td><td>-8.725</td><td>2.442</td><td>4.365</td></tr></table></body></html>
+
+operator $\hat { O } _ { i }$ by
+
+$$
+E _ { i } = \int R ^ { * } ( r ) \hat { O } _ { i } R ( r ) d r .
+$$
+
+Within the representation of $H$ shown in Eq. (202), the operators of the kinetic term, centrifugal barrier, and central potential read $- d ^ { 2 } / ( 2 M d r ^ { 2 } ) , \kappa ( \kappa + 1 ) / ( 2 M r ^ { 2 } ) \nonumber$ and $V ( r )$ ，respectively.In Table 9,the contributions from these terms to the single-particle energies $E$ as well as the corresponding PSO splittings $\Delta E _ { \mathrm { P S O } }$ are shown for the pseudospin doublets $2 \tilde { p }$ and $1 \tilde { f }$ . It is not surprising that, within this representation, the contributions to $\Delta E _ { \mathrm { P S O } }$ come from all channels, while they substantially cancel to each other in a sophisticated way.
+
+As discussed in Section 4.1, the phenomenon of such strong cancellations among different terms was usually associated with the dynamical [71, 72] and even the non-perturbative [73-75] nature of PSS.However, such connection is mystified and sometimes even misleading. Indeed,by using the perturbation calculations based on the PSS limit shown in Eq. (213), we demonstrated that the nature of PSS discussing here is perturbative [27O], the corresponding calculated results are quite similar to those shown in Fig. 42.
+
+Much more important is now the origin of the PSS and its breaking mechanism can be studied in an explicit way within the representation of the SUSY partner Hamiltonian $\tilde { H }$ [270].
+
+To obtain the SUSY partner Hamiltonian $\tilde { H }$ in Eq. (210), one solves the first order differential equation (2O7） for the reduced superpotentials $q _ { \kappa } ( r )$ with the boundary condition $q _ { \kappa } ( 0 ) = 0$ . The corresponding $q _ { \kappa } ( r )$ are shown in Fig. 54 in units of $\mathbf { M e V } / c$ . The $q _ { \kappa } ( r )$ are $\kappa$ -dependent since the left-hand side of Eq. (207) contains a $\kappa$ -dependent term.However, it should be emphasized that $q _ { \kappa } ( r )$ does not depend on the radial quantum number $n$ for a given $\boldsymbol { \kappa }$ ，One will discover that such an $n$ -independent property is essential for understanding the general pattern of $\Delta E _ { \mathrm { P S O } }$ versus $E _ { \mathrm { a v } }$ shown in Fig. 52.
+
+![](images/1b7ec2e77a6d346ea0f14e2d9f5fd03c805474591a567929aad665c86ac77478.jpg)  
+Figure 54:(Color online) Reduced superpotentials $q _ { \kappa } ( r )$ for the $\tilde { p }$ and $\tilde { f }$ orbitals．Taken from Ref. [270].
+
+Then the $\kappa$ -dependent central potentials $\tilde { V } _ { \kappa } ( r )$ in $\tilde { H }$ can be obtained,and their asymptotic behaviors read
+
+$$
+\operatorname* { l i m } _ { r \to 0 } \tilde { V } _ { \kappa } ( r ) = V + { \frac { 2 ( e ( \kappa ) - V ) } { ( 1 - 2 \kappa ) } } \qquad \mathrm { a n d } \qquad \operatorname* { l i m } _ { r \to \infty } \tilde { V } _ { \kappa } ( r ) = 0 .
+$$
+
+It is important that these potentials are regular and converge at both $r \to 0$ and $r $ $\infty$ . In the upper panels of Fig. 55, these central potentials $\tilde { V } _ { \kappa } ( r )$ are shown, while the Woods-Saxon potential $V ( r )$ in $H$ is also shown for comparison. For all $\kappa$ ,the potentials $\tilde { V } _ { \kappa } ( \boldsymbol { r } )$ approximately remain a Woods-Saxon shape,and they become shallower than the original potential $V ( r )$ . By comparing two upper panels, it is seen that the amplitude of the difference between $\tilde { V } _ { \kappa } ( r )$ for a pair of pseudospin partners increases with the difference of their quantum numbers $| \kappa _ { a } - \kappa _ { b } |$ ：
+
+After getting the central potentials $\tilde { V } _ { \kappa } ( \boldsymbol { r } )$ , one is ready to calculate the singleparticle energies and wave functions of the SUSY partner Hamiltonians $\tilde { H } ( \kappa )$ . In the lower panels of Fig. 55,the discrete single-particle energies obtained with $\tilde { H }$ are compared with those obtained with $H$ . It is clear that the eigenstates of Hamiltonians $H$ and $\tilde { H }$ are identical, except for the lowest eigenstates with $\kappa < 0$ in $H$ ，which are the so-called intruder states.In other words,the fact that the intruder states have no pseudospin partners can be interpreted as a natural result of the exact SUSY for $\kappa < 0$ and broken SUSY for $\kappa > 0$ . By holding the one-toone mapping relation in the two sets of spectra, the origin of PSS, which is deeply hidden in $H$ , can be now traced by employing its SUSY partner Hamiltonian $\tilde { H }$
+
+![](images/21c2bb1d072bbea0de4279f13a604daafaae3069665c2c986893d6466b733844.jpg)  
+Figure 55: (Color online) Upper panels: $\kappa$ -dependent central potentials $\tilde { V } _ { \kappa } ( \boldsymbol { r } )$ in $\tilde { H }$ as a function of $r$ for the (a) $\tilde { p }$ and (b) $\tilde { f }$ orbitals,while the Woods-Saxon potential in $H$ is shown for comparison. Lower panels: The corresponding single-particle energies obtained with $H$ and $\tilde { H }$ .Taken from Ref. [270].
+
+The single-particle radial wave functions $\tilde { R } _ { \tilde { n } \tilde { l } j } ( \boldsymbol { r } )$ of $\tilde { H }$ for the $2 \tilde { p }$ and $1 \tilde { f }$ pseudospin doublets are shown in the right panel of Fig. 53. The nodal relation in Eq.(192) can be seen by comparing the wave functions shown in the left and right panels. In fact, not only are the numbers of nodes equal, but also the wave functions of pseudospin doublets are almost identical to each other. Therefore, within this representation, the quasi-degeneracy of pseudospin doublets is closely related to the similarity of their wave functions,and vice versa [270].
+
+The same strategy as done in Table 9 is then adopted to investigate the PSO splittings, but now within the representation of $\tilde { H }$ shown in Eq. (210) instead The corresponding operators include the kinetic term $- d ^ { 2 } / ( 2 M d r ^ { 2 } )$ ，the PCB $\kappa ( \kappa - 1 ) / ( 2 M r ^ { 2 } )$ , and the central potential $\tilde { V } _ { \kappa } ( \boldsymbol { r } )$ . The corresponding results for the pseudospin doublets $2 \tilde { p }$ and $1 \tilde { f }$ are listed in Table 1O. It can be seen that for each pair of pseudospin doublets the energy contributions from the PSS-conserving terms,i.e.，the kinetic and PCB,are very similar. The PSO splittings $\Delta E _ { \mathrm { P S O } }$ are mainly contributed by the difference in the central potentials $\Delta E _ { \mathrm { { c e n } } }$ ，which is due to the slight $\kappa$ -dependence of $\tilde { V } _ { \kappa } ( r )$ as shown in Fig. 55. In other words, the sophisticated cancellations among different terms in $H$ can be clearly understood by using a proper decomposition with the help of the SUSY quantum mechanics [270].
+
+Table 1O: Contributions from kinetic term (kin), pseudo-centrifugal barrier (PCB),and central potential (cen) to the single-particle energies $E$ and the corresponding PSO splittings $\Delta E _ { \mathrm { P S O } }$ for the pseudospin doublets $2 \tilde { p }$ and $1 { \tilde { f } } .$ All units are in MeV. The data are taken from Ref.[270].   
+
+<html><body><table><tr><td>State</td><td>Ekin</td><td>EPCB</td><td>Ecen</td><td>E</td></tr><tr><td>2p1/2</td><td>16.602</td><td>6.723</td><td>-44.916</td><td>-21.591</td></tr><tr><td>2p3/2</td><td>17.331</td><td>6.857</td><td>-47.332</td><td>-23.143</td></tr><tr><td>△Epso</td><td>-0.729</td><td>-0.134</td><td>2.415</td><td>1.552</td></tr><tr><td>1f5/2</td><td>5.710</td><td>16.286</td><td>-45.139</td><td>-23.143</td></tr><tr><td>1f712</td><td>6.293</td><td>16.591</td><td>-50.392</td><td>-27.508</td></tr><tr><td>△EPso</td><td>-0.584</td><td>-0.305</td><td>5.253</td><td>4.365</td></tr></table></body></html>
+
+In order to perform the perturbation calculations, the Hamiltonian $\tilde { H }$ is split as
+
+$$
+\tilde { H } = \tilde { H } _ { 0 } ^ { \mathrm { P S S } } + \tilde { W } ^ { \mathrm { P S S } } ,
+$$
+
+where $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ and $\tilde { W } ^ { \mathrm { P S S } }$ are the corresponding PSS-conserving and PSS-breaking terms,respectively. By requiring that $\tilde { W } ^ { \mathrm { P S S } }$ should be proportional to $\kappa$ ，which is similar to the case of the SO term in the conventional scheme, one has
+
+$$
+\begin{array} { l } { { \displaystyle { \tilde { H } } _ { 0 } ^ { \mathrm { P S S } } = \frac { 1 } { 2 M } \left[ - \frac { d ^ { 2 } } { d r ^ { 2 } } + \frac { \kappa ( \kappa - 1 ) } { r ^ { 2 } } \right] + \tilde { V } _ { \mathrm { P S S } } ( r ) , } } \\ { { \displaystyle { \tilde { W } } ^ { \mathrm { P S S } } = \kappa \tilde { V } _ { \mathrm { P S O } } ( r ) . } } \end{array}
+$$
+
+In such a way, the PSS-conserving $\tilde { V } _ { \mathrm { P S S } } ( \boldsymbol { r } )$ and PSS-breaking $\tilde { V } _ { \mathrm { P S O } } ( r )$ potentials
+
+can be uniquely determined as [270]
+
+$$
+\tilde { V } _ { \mathrm { P S S } } ( r ) = \frac { \kappa _ { b } \tilde { V } _ { \kappa _ { a } } ( r ) - \kappa _ { a } \tilde { V } _ { \kappa _ { b } } ( r ) } { \kappa _ { a } - \kappa _ { b } } \qquad \mathrm { a n d } \qquad \tilde { V } _ { \mathrm { P S O } } ( r ) = \frac { 1 } { M } \frac { q _ { \kappa _ { a } } ^ { \prime } ( r ) - q _ { \kappa _ { b } } ^ { \prime } ( r ) } { \kappa _ { a } - \kappa _ { b } } .
+$$
+
+![](images/9b6d8866a7db0c17fe80c649ca31223c8d97c71e8af775431efe82d7b49fab04.jpg)  
+Figure 56:(Color online) PSS-conserving potentials $\tilde { V } _ { \mathrm { P S S } } ( \boldsymbol { r } )$ (the left panel) and PSS-breaking potentials $\tilde { V } _ { \mathrm { P S O } } ( r )$ (the right panel) for the $\tilde { p }$ and $\tilde { f }$ orbitals. Taken from Ref.[270].
+
+In Fig. 56, the $\tilde { V } _ { \mathrm { P S S } } ( \boldsymbol { r } )$ and $\tilde { V } _ { \mathrm { P S O } } ( r )$ potentials are illustrated by taking the $\tilde { p }$ and $\tilde { f }$ orbitals as examples. On one hand, it can be seen that the PSS-conserving potentials $\tilde { V } _ { \mathrm { P S S } } ( \boldsymbol { r } )$ remain an approximate Woods-Saxon shape,and they are $\kappa$ dependent to a small extent. On the other hand, the PSS-breaking potentials $\tilde { V } _ { \mathrm { P S O } } ( r )$ show several special features [27O]: (i) These PSS-breaking potentials are regular functions of $r$ ,in particular, they vanish at $r \to \infty$ . (ii) It can be seen that the amplitudes of $\tilde { V } _ { \mathrm { P S O } }$ are around $1 \mathrm { M e V } .$ ，which directly lead to the reduced PSO splittings $\Delta E _ { \mathrm { P S O } } \lesssim 1 \ \mathrm { M e V }$ as shown in Fig. 52. (ii) More importantly, the PSO potentials $\tilde { V } _ { \mathrm { P S O } } ( r )$ are negative at small radius but positive at large radius with a node at the surface region, which is totally different from the usual SO potentials with a surface-peaked shape. The particular shape of the PSO potentials $\tilde { V } _ { \mathrm { P S O } } ( r )$ can explain wel the variations of the PSO spliting with the single-particle energy.
+
+More details for point (iii) are as follows: First of all, $\tilde { V } _ { \mathrm { P S O } } ( r )$ do not depend on the radial quantum number $n$ . Meanwhile, the single-particle wave functions $\tilde { R } ( r )$ extend to larger distances with higher energies. Thus, the matrix element $\langle \tilde { R } | \tilde { V } _ { \mathrm { P S O } } | \tilde { R } \rangle$ is negative when the wave function is centralized in the inner part. As the wave function becomes more extended， the positive part of $\tilde { V } _ { \mathrm { P S O } } ( r )$ compensates for the negative value of the matrix element. In this way, the PSO splittings $\Delta E _ { \mathrm { P S O } }$ decrease while the radial quantum numbers $\tilde { n }$ increase.The splitings can even reverse for the resonance states,where the outer part of the PSO potentials plays the major role.
+
+![](images/b744d30233c8becef24247dd3555d4e3472c73e6cdbeff5def6f272717a6018c.jpg)  
+Figure 57: (Color online) Single-particle energies obtained at the exact PSS limit $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ , and their counterparts obtained by the first-,second-,and third-order perturbation calculations with $\tilde { W } ^ { \mathrm { P S S } }$ ， as well as those obtained with $\tilde { H }$ . Taken from Ref. [270].
+
+Finally, the perturbation calculations are performed based on the pseudospin symmetric Hamiltonian $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ with the perturbation $\tilde { W } ^ { \mathrm { P S S } }$ . In Fig. 57, the singleparticle energies obtained at the PSS limit $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ ,and their counterparts obtained by the first-， second-，and third-order perturbation calculations,as well as those obtained with $\tilde { H }$ are shown from left to right. It can be seen that the pseudospin doublets are exactly degenerate at the PSS limit $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ . For the present decomposition, the largest perturbation correction $| \tilde { W } _ { m k } ^ { \mathrm { P S S } } / ( E _ { m } - E _ { k } ) |$ is less than 0.03 [270]. This indicates that the criterion in Eq. (149) is satisfied very well. As shown in Fig. 57, not only the PSO splittings but also the energy degeneracy of the spin doublets are excellently reproduced by the first-order perturbation calculations.
+
+In such an explicit and quantitative way, the PSO splittings $\Delta E _ { \mathrm { P S O } }$ can be directly understood by the PSS-breaking term $\tilde { W } ^ { \mathrm { P S S } }$ within the representation of the SUSY partner Hamiltonian $\tilde { H }$ . Furthermore, this symmetry-breaking term can be treated as a very small perturbation on the exact PSS limit $\tilde { H } _ { 0 } ^ { \mathrm { P S S } }$ . Therefore, the PSS discussing here is of pertubative nature [270].
+
+Recently, it has been demonstrated in Ref.[271] that the perturbative nature of PSS maintains even when a substantial SO potential is included. The SO term shows both indirect and direct effects on the PSS-breaking potentials $\tilde { V } _ { \mathrm { P S O } } ( r )$ . The indirect effect due to the changes of the reduced superpotentials $q _ { \kappa } ( r )$ is rather small. In contrast, the direct effect, i.e., the SO potential itself appearing in both $H$ and $\tilde { H }$ , reduces the PSO splittings $\Delta E _ { \mathrm { P S O } }$ systematically and substantially.
+
+# 4.3.5. SUSY for Dirac equations
+
+The above discussions are based on the second-order differential Hamiltonian, i.e., the factorizable Hamiltonian.Alternatively,Leviatan established the SUSY schemes directly based on the first-order differential Dirac Hamiltonian by using the intertwining relation [254].
+
+In usual applications of SUSY quantum mechanics, one starts from a factorizable Hamiltonian $H _ { 1 }$ , then identifies the pair of Hermitian conjugate operators $B ^ { + }$ and $B ^ { - }$ in Eq. (165),and eventually obtains the SUSY partner Hamiltonian $H _ { 2 }$ in Eq. (166).
+
+This procedure can be regarded in a different way. Assuming one holds
+
+$$
+B ^ { - } H _ { 1 } = H _ { 2 } B ^ { - } ,
+$$
+
+which is the so-called intertwining relation between $H _ { 1 }$ and $H _ { 2 }$ [369]，this intertwining relation ensures that, if $\psi _ { 1 } ( n )$ is an eigenstate of $H _ { 1 }$ ，then also $\psi _ { 2 } ( n ) \propto B ^ { - } \psi _ { 1 } ( n )$ (174) is an eigenstate of $H _ { 2 }$ with the same energy $E _ { S } ( n )$ ,unless $B ^ { - } \psi _ { 1 } ( n )$ vanishes(175) or produces an unphysical state, e.g.， non-normalizable. In other words,the SUSY schemes shown in Fig. 48 can be set up as long as the intertwining relation is satisfied, but Hamiltonians $H _ { 1 }$ and $H _ { 2 }$ are not necessarily factorizable.
+
+For example, one can insist that both SUSY partner Hamiltonians $H ( \kappa _ { a } )$ and $H ( \kappa _ { b } )$ be the Dirac Hamiltonian of the form prescribed in Eq. (1O),and looks for possible solutions of $B _ { \kappa } ^ { - }$ that satisfy
+
+$$
+B _ { \kappa } ^ { - } \left( \begin{array} { c c } { { M + \Sigma ( r ) } } & { { - \displaystyle \frac { d } { d r } + \frac { \kappa _ { a } } { r } } } \\ { { \displaystyle \frac { d } { d r } + \frac { \kappa _ { a } } { r } } } & { { - M + \Delta ( r ) } } \end{array} \right) = \left( \begin{array} { c c } { { M + \Sigma ( r ) } } & { { - \displaystyle \frac { d } { d r } + \frac { \kappa _ { b } } { r } } } \\ { { \displaystyle \frac { d } { d r } + \frac { \kappa _ { b } } { r } } } & { { - M + \Delta ( r ) } } \end{array} \right) B _ { \kappa } ^ { - } .
+$$
+
+By considering a matrical Darboux transformation operator,
+
+$$
+B _ { \kappa } ^ { - } = P _ { \kappa } ( r ) \frac { d } { d r } + Q _ { \kappa } ( r ) ,
+$$
+
+where $P _ { \kappa }$ and $Q _ { \kappa }$ are $2 \times 2$ matrices,and assuming certain forms in the functions $[ P _ { \kappa } ( \boldsymbol { r } ) ] _ { i j }$ and $[ Q _ { \kappa } ( \boldsymbol { r } ) ] _ { i j }$ ，Leviatan found three different kinds of solutions in Ref.[254]. They correspond to three different kinds of symmetry limits: (i) Coulomb symmetry limit, (ii) spin symmetry limit, and (ii) pseudospin symmetry limit. The schematic patterns in these symmetry limits are illustrated in Fig. 58.
+
+In the Coulomb symmetry limit, the orbitals with $\kappa _ { a } + \kappa _ { b } = 0$ form the degenerate doublets, e.g., $( 2 s _ { 1 / 2 } , 1 p _ { 1 / 2 } )$ ， $( 2 p _ { 3 / 2 } , 1 d _ { 3 / 2 } )$ ， and the scalar and vector
+
+![](images/bf2291451180d76c21ec373a32593506377b3c1abc1c0ae995dfa9c556b13c9c.jpg)  
+Figure 58: Schematic patterns in (a) SUSY quantum mechanics and in the (b) Coulomb,(c) pseudospin,and (d) spin symmetry limits of the Dirac Hamiltonian. Taken from Ref.[254],and the notation of the single-particle spectra starts from $n = 0$ =
+
+potentials are in the shape of
+
+$$
+S \left( r \right) = \alpha _ { S } / r \qquad \mathrm { a n d } \qquad V ( r ) = \alpha _ { V } / r ,
+$$
+
+respectively. The corresponding transformation operator reads [254]
+
+$$
+B _ { \kappa } ^ { - } = \left( \begin{array} { c c } { \displaystyle \frac { d } { d r } + \frac { \varepsilon _ { + } } { r } + \frac { M \alpha _ { + } } { \kappa _ { a } } } & { \quad - \frac { \alpha _ { S } } { \kappa _ { a } } \frac { d } { d r } + \frac { \alpha _ { V } } { r } } \\ { \displaystyle \frac { \alpha _ { S } } { \kappa _ { a } } \frac { d } { d r } - \frac { \alpha _ { V } } { r } } & { \quad \displaystyle \frac { d } { d r } - \frac { \varepsilon _ { - } } { r } - \frac { M \alpha _ { - } } { \kappa _ { a } } } \end{array} \right) ,
+$$
+
+where $\varepsilon _ { \pm } = \kappa _ { a } + \alpha _ { S } \alpha _ { \pm } / \kappa _ { a }$ and $\alpha _ { \pm } = \alpha _ { S } \pm \alpha _ { V }$
+
+The SS limit corresponds to that shown in Eq. (16), i.e., $V ( r ) - S \left( r \right) = { \Delta _ { 0 } }$ ,and the transformation operator reads [254]
+
+$$
+B _ { \kappa } ^ { - } = \left( \begin{array} { c c } { \displaystyle 2 M + \Sigma ( r ) - \Delta _ { 0 } \quad } & { \displaystyle - \frac { d } { d r } + \frac { \kappa _ { a } } { r } } \\ { \displaystyle \frac { d } { d r } + \frac { \kappa _ { b } } { r } } & { 0 } \end{array} \right) ,
+$$
+
+with $\kappa _ { a } + \kappa _ { b } = - 1$
+
+The PSS limit corresponds to that shown in Eq.(17), i.e., $V ( r ) + S ( r ) = \Sigma _ { 0 }$ and the transformation operator reads [254]
+
+$$
+B _ { \kappa } ^ { - } = \left( \begin{array} { c c } { 0 } & { - \displaystyle \frac { d } { d r } + \displaystyle \frac { \kappa _ { b } } { r } } \\ { \displaystyle \frac { d } { d r } + \displaystyle \frac { \kappa _ { a } } { r } } & { - 2 M + \Delta ( r ) - \Sigma _ { 0 } } \end{array} \right) ,
+$$
+
+with $\kappa _ { a } + \kappa _ { b } = 1$
+
+The higher-order terms in the effective Hamiltonian (199） transformed by SRG can be avoided, if the SUSY scheme is established directly on the Dirac Hamiltonian by using the intertwining relation (22O). However, the present studies have not included the perturbative PSS limit shown in Eq. (154). Furthermore,it is still an open problem about how to identify the corresponding PSS-breaking term $\tilde { W } ^ { \mathrm { P S S } }$ in such a scheme.
+
+In summary, it was pointed out in Refs.[270, 271] that it is promising to understand the pseudospin symmetry and its breaking mechanism in a fully quantitative way, by combining the similarity renormalization group [262-264], the supersymmetric quantum mechanics [254-256],and the perturbation theory [250,251]. It is shown that while the spin-symmetry-conserving term appears in the single-particle Hamiltonian $H$ ， the pseudospin-symmetry-conserving term appears naturally in its supersymmetric partner Hamiltonian $\tilde { H }$ . The eigenstates of Hamiltonians $H$ and $\tilde { H }$ are exactly one-to-one identical except for the so-called intruder states. In such a way,the origin of pseudospin symmetry deeply hidden in $H$ can be traced in its supersymmetric partner Hamiltonian $\tilde { H }$
+
+By using the similarity renormalization group, the Dirac Hamiltonian can be transformed into a diagonal form and expanded in a series of $1 / M$ ．So far, the cases corresponding to the lowest-order approximation and the lowestorder spin-orbit potential have been investigated in Refs. [270,271], respectively. The perturbative nature of pseudospin symmetry has been demonstrated by the perturbation calculations for both cases without and with a substantial spin-orbit potential. A general tendency that the pseudospin-orbit splittngs become smaller with increasing single-particle energies can also be interpreted in an explicit way. The corresponding studies with the effective mass term and higher-order terms are expected in the near future.
+
+Alternatively, the supersymmetric scheme can be directly established based on the first-order differential Dirac Hamiltonian by using the intertwining relation [254].In such a way, the higher-order terms in the effective Hamiltonian transformed by the similarity renormalization group can be avoided. Meanwhile, it is still an open problem how to identify in such a scheme the perturbative pseudospin symmetry limit, e.g.,a Dirac Hamiltonian with relativistic harmonic oscillator potential, as well as the corresponding symmetry-breaking term.
+
+# 5. Summary and Perspectives
+
+After the independent observation of the near degeneracy between pairs of single-particle states $( n , l , j = l + 1 / 2 )$ and $( n - 1 , l + 2 , j = l + 3 / 2 )$ ，i.e.,the so-called pseudospin symmetry,by Hecht and Adler [11] and Arima, Harvey, and Shimizu [12] in 1969, it raised a fascinating question whether such near degeneracy is accidental (a degeneracy not explained by an obvious symmetry) or due to symmetry breaking (more descriptively hidden symmetry). The pioneering work by examining the ratio between the strengths of the spin-orbit and orbit-orbit potentials by Bohr, Hamamoto,and Mottelson in 1982 [55] opened the door to explore the hidden symmetry in understanding the origin of pseudospin symmetry
+
+With the success of the relativistic mean-field theory [59-64],it is quite encouraging to find that the special ratio between the strengths of the spin-orbit and orbit-orbit interactions can be reproduced by the relativistic mean-field theory [30]. The reveal of the pseudo-orbital angular momentum as the orbital angular momentum of the lower component of the Dirac spinor by Ginocchio in 1997 [65] proved to be an unexpected success of the relativistic mean-field theory. It is then followed by lots of exciting discoveries. For examples, the vanishing of the derivative for the sum of the scalar and vector potentials,i.e., $d \Sigma ( r ) / d r = 0$ can lead to the exact pseudospin symmetry [68], which means that the pseudospin symmetry becomes much better for exotic nuclei with a highly diffused potential [69]. While developing the relativistic mean-field theory in a Dirac Woods-Saxon basis [187], Zhou,Meng,and Ring [195] discovered the spin symmetry in the anti-nucleon spectra. A rigorous verification of the pseudospin symmetry in the single-particle resonant states is given by Lu, Zhao, and Zhou [247] by examining the Jost functions corresponding to small components of the radial Dirac wave functions. By using the similarity renormalization group, Guo and coauthors [262, 263] have made a new exploration of the pseudospin symmetry, including the axially deformed systems [264]. Combining the supersymmetric quantum mechanics, perturbation theory, and similarity renormalization group,Liang and coauthors [27O, 271] have provided a promising way to understand the origin of pseudospin symmetry and its breaking fully quantitatively.
+
+All the pioneering works and exciting discoveries have triggered tremendous enthusiasms in understanding the pseudospin symmetry in various physical systems as well as exploring their origin. Although the present paper is intended to provide a comprehensive overview of the related works done recently in the exploration of the pseudospin and spin symmetries,it is unavoidable to have overlooked some of them.
+
+The historical development and recent progress have been summarized in the introduction by trying to exhaust the existing literatures. In Section 2, the general features for the Dirac equation and its corresponding Schrodinger-like equations were discussed. The pseudospin symmetry and spin symmetry in various systems and potentials have been reviewed in Section 3. The discussions ranged from stable to exotic nuclei, from non-confining to confining potentials, from local to non-local potentials, from central to tensor potentials, from bound to resonant states, from nucleon to anti-nucleon spectra, from nucleon to hyperon spectra, and from spherical to deformed nuclei. Extensive discussions have been devoted in Section 4 to the open issues on the pseudospin and spin symmetries as well, including the perturbative nature, the puzzle of intruder states,and the connection with the supersymmetric quantum mechanics and similarity renormalization group.
+
+The current Review is focused on the theoretical exploration of the hidden pseudospin and spin symmetries and their origins in atomic nuclei. There might be questions on the unique experimental signal of these symmetries. While introducing some themes in the study of very deformed rotating nuclei, Mottelson [37O] preluded the link between the pseudospin symmetry and newly observed experiments. In particular, a lot of phenomena in nuclear structure have been successfully interpreted directly or implicitly by the pseudospin symmetry, including nuclear superdeformed configurations [29,3O], identical bands [31-33], quantized alignment [34], and pseudospin partner bands [35, 36]. In addition, the relevance of pseudospin symmetry in the structure of halo nuclei [45] and superheavy nuclei [46,47] was pointed out. The fingerprint for pseudospin doublet bands and their difference with the chiral doublet bands [371] have been briefly listed in Ref. [372].
+
+The experimental verification of the pseudospin symmetry can also be done from the single-particle energies. The observed single-particle energies obtained by pickup or knockout reactions contain polarization effects，except for the cases where the spectroscopic factors of the single-particle states are close to one [3O3,373]. Therefore,one should take into account the particle-vibration coupling and polarization effects [374,375]. Litvinova and Afanasjev [374] have studied the impact of particle-vibration coupling and polarization effects due to deformation and time-odd mean fields on the single-particle spectra systematically in doubly magic nuclei from $^ { 5 6 } \mathrm { N i }$ up to superheavy ones. It has been shown that the particle-vibration coupling substantially improves the description of splitting energies in the pseudospin doublets. However, there are still cases where the observed pseudospin-orbit splitings are poorly reproduced.
+
+Finally, the exploration for the deep reasons on the approximate pseudospin symmetry observed in realistic nuclei is also a challenging problem. There are already some discussions on the physics behind the near equality of the vector and scalar potentials in the Dirac Hamiltonian [376-378] and more investigations are expected. In particular, it is highly necessary to search for the links with more fundamental models on strong interactions or realistic interactions between nucleons.
+
+# Acknowledgements
+
+We would like to express our gratitude to all the collaborators and colleagues who contributed to the investigations presented here, in particular to A. Arima, T. S. Chen, L. S. Geng, J. N. Ginocchio, J. Y. Guo,X. T. He,R. V. Jolos,A. Leviatan, F. Q. Li, W. H. Long, B. N. Lu, H. F. Lü, P. Ring, H. Sagawa, W. Scheid, S. H. Shen, C. Y. Song,K. Sugawara-Tanabe, H. Toki, N. Van Giai, S. Yamaji, S. C. Yang, J. M. Yao, S. Q. Zhang, Y. Zhang,E. G. Zhao,and P. W. Zhao.We acknowledge the fruitful discussions with K.Arita, I. Hamamoto,A. Ikeda,K. Matsuyanagi, T. Nakatsukasa, K. Sato, T. T. Sun, T. Suzuki, and Y. Zhang during the iTHES workshop: Exploration of hidden symmetries in atomic nuclei at RIKEN. We appreciate C.L. Bai, J. Y. Guo, W. H. Long, B.N. Lu, Z. M. Niu, S. H. Shen, N. Wang, S. Q. Zhang,and Y. Zhang for the careful reading of the manuscript and the valuable suggestions. We also thank S.H. Shen and B. Zhao for redrawing some of the figures used in the paper. This work was supported in part by the Major State 973 Program of China (Grant No. 2013CB834400), the Natural Science Foundation of China (Grants No.10975008, No.11175002, No.11105006,and No.11335002), the Research Fund for the Doctoral Program of Higher Education (RFDP) (Grant No.20110001110087), the Grant-in-Aid for JSPS Fellows under Grant No. 24-02201, the RIKEN iTHES Project, and the RIKEN Foreign Postdoctoral Researcher Program.
+
+# Appendix A.
+
+During the preparation of the present Review, we found the symbols and notations used in different papers are indeed quite similar.However, subtle differences, like a sign, a factor, etc., are sometimes crucial for understanding the investigations.Therefore,some of the symbols and notations have been changed from the original papers and unified through the present Review by choosing the common conventions. We also recommend these unified conventions for the future studies.
+
+In this Appendix，we list the key symbols and notations as well as the abbreviations used in this Review in an alphabetic way.
+
+# List of key symbols and notations
+
+$\begin{array} { r l } { \boldsymbol { A } } & { } \\ { \boldsymbol { B } ^ { + } , } & { } \\ { \boldsymbol { E } } & { } \\ { \boldsymbol { E } _ { \mathrm { \bar { A } } } } & { } \\ { \boldsymbol { E } _ { \mathrm { a v } } } & { } \\ { \boldsymbol { E } _ { \mathrm { i } } } & { } \end{array}$ atomic mass number   
+B- pair of Hermitian conjugate operators in SUSY single-particle energy excluding rest mass, $E = \epsilon - M$ single- $\bar { \Lambda }$ energy excluding rest mass, $E _ { \bar { \Lambda } } = \epsilon _ { \bar { \Lambda } } - M _ { \bar { \Lambda } }$   
+（20 average single-particle energy, $E _ { \mathrm { a v } } = ( E _ { j _ { < } } + E _ { j _ { > } } ) / 2$ contribution from each potential to the total single-particle energy $E$   
+（204号 $F ( r )$ （20 lower component of Dirac spinor in spherical case   
+F(r) $\mathcal { F } _ { \kappa } ( r ) = r ^ { - \kappa } F _ { \kappa } ( r )$   
+G(r) upper component of Dirac spinor in spherical case   
+G(r) $\mathcal { G } _ { \kappa } ( r ) = r ^ { \kappa } G _ { \kappa } ( r )$ （20   
+H,H single-particle Hamiltonian and its SUSY partner   
+$H _ { 0 }$ （20 symmetry-conserving Hamiltonian   
+（20 $\mathcal { H }$ system Hamiltonian density   
+$\mathcal { T } _ { \kappa }$ （20 Jost function   
+$\mathcal { L }$ Lagrangian density   
+M mass of nucleon   
+M+ effective mass, $M _ { + } = M - \Delta + \epsilon$ （204号   
+M_ effective mass, $M _ { - } = - M - \Sigma + \epsilon$   
+N neutron number   
+[N,n3,△,Ω] asymptotic Nilsson quantum numbers   
+QK SUSY superpotential   
+R(r) non-relativistic single-particle radial wave function in the spherical case   
+S(r) scaler potential, negative value means attractive   
+T(r) tensor potential   
+V(r) vector potential, positive value means repulsive   
+V(P)CB (pseudo-)centrifugal barrier   
+V(P)s0 (pseudo)spin-orbit potential   
+W symmetry-breaking term   
+WPSs PSS-breaking term in SUSY scheme   
+X,Y non-local Fock potentials   
+XG,XF,YG,YF localized Fock potentials   
+W spherical harmonics spinor   
+Z proton number   
+（20 $\begin{array} { r } { a , b } \\ { c ^ { \dagger } , c } \\ { e ( \kappa ) } \\ { f _ { \rho , \pi } } \\ { g _ { \sigma , \omega _ { \theta } } } \\ { i , j } \end{array}$ （20 labels of single-particle orbitals nucleon creation and annihilation operators SUSY energy shift   
+（204号 meson tensor coupling strengths ） meson coupling strengths   
+（20 run over 1,2,3   
+j total angular momentum of single-particle states   
+j<，j> （204号 $j = l \mp 1 / 2$ for spin doublets or （204号 $j = \tilde { l } \mp 1 / 2$ for pseudospin doublets   
+,i angular momenta of upper component $G ( r )$ and lower component $F ( r )$ （204号   
+mg,w.pπ mass of mesons   
+n main quantum number of single-particle states, starting from $n = 1$ （20   
+（20 $n _ { G } , n _ { F }$ （204号 number of internal nodes of $G ( r )$ and $F ( r )$ （204号   
+P momentum operator   
+（20 $q _ { \kappa }$ （20 SUSY reduced superpotential   
+$| r , \hat { \mathbf { r } }$ （204号 radial and angular coordinates in spherical coordinate system   
+（204号 $r _ { \perp } , z$ （ radial and height coordinates in cylindrical coordinate system   
+s,s spin operator $\mathbf { s } = \pmb { \sigma } / 2$ and pseudospin operator $\tilde { \mathbf { s } } = ( \pmb { \sigma } \cdot \hat { \mathbf { p } } ) \mathbf { s } ( \pmb { \sigma } \cdot \hat { \mathbf { p } } )$   
+Γ width of a resonant state   
+（20 $\Delta ( r )$ （20 $\Delta ( r ) = V ( r ) - S ( r )$ , positive value means repulsive   
+（204号 $\Delta _ { 0 }$ （204号 for the case of constant $V - S$ （204号   
+△Eso reduced spin-orbit splitting, $\Delta E _ { \mathrm { S O } } = ( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 l + 1 )$   
+（204号 $\Delta E _ { \mathrm { P S O } }$ （204号 reduced pseudospin-orbit splitting, $\Delta E _ { \mathrm { P S O } } = ( E _ { j _ { < } } - E _ { j _ { > } } ) / ( 2 \tilde { l } + 1 )$   
+（20 $\Sigma ( r )$ （20 $\Sigma ( r ) = S \left( r \right) + V ( r )$ , negative value means attrative   
+（20 ${ \boldsymbol { \Sigma } } _ { 0 }$ （204号 for the case of constant $S + V$ （204号   
+EHO $\Sigma ( r )$ of the form of a harmonic oscillator   
+> system ground-state wave function   
+-> physical vacuum   
+a,β,yu 25,qμv Dirac matrices   
+α set of quantum numbers, $\alpha = ( a , m _ { a } ) = ( n _ { a } , l _ { a } , j _ { a } , m _ { a } )$   
+E single-particle energy including rest mass $M$ （204号   
+EA,E single-anti-nucleon and single- $\bar { \Lambda }$ energies including rest mass   
+K quantum number, $\kappa = \mp ( j + 1 / 2 )$ for $j = l \pm 1 / 2$ states   
+μ,v run over 0,1,2,3   
+Pc,ps,pv,p(3) charge and scalar densities,isoscalar and isovector baryonic densities   
+0 Pauli matrices   
+,T3 isospin operator and its third component   
+(r) single-particle wave function   
+ψA(r),ψx(r) single-anti-nucleon and single- $\bar { \Lambda }$ wave functions
+
+# Listof abbreviations
+
+ACCC analytical continuation in coupling constant   
+CB centrifugal barrier   
+CDFT covariant density functional theory   
+CSM complex scaling method   
+HO harmonic oscillator   
+NU Nikiforov-Uvarov   
+PCB pseudo-centrifugal barrier   
+PSO pseudospin-orbit   
+PSS pseudospin symmetry   
+RCHB relativistic continuum Hartree-Bogoliubov   
+RHF relativisticHartree-Fock   
+RHO relativistic harmonic oscillator   
+RMF relativistic mean-field   
+SO spin-orbit   
+SRG similarity renormalization group   
+SS spin symmetry   
+SUSY supersymmetry or supersymmetric
+
+# References
+
+# References
+
+[1] O.Haxel，J. H. D. Jensen， H. E. Suess， On the “magic numbers” in nuclear structure， Phys. Rev. 75(1949） 1766-1766. doi:10.1103/PhysRev.75.1766.2.   
+[2] M.G. Mayer, On closed shells in nuclei. II, Phys.Rev. 75(1949)1969- 1970.doi:10.1103/PhysRev.75.1969.   
+[3] M.Wang，G. Audi，A.H. Wapstra,F. G.Kondev，M.MacCormick, X. X.，B.Pfeiffer, The NUBASE2O12 evaluation of nuclear properties (II). tables,graphs and references,Chin.Phys. C 36(2012) 1603-2014. doi:10.1088/1674-1137/36/12/003.   
+[4] D.Hughes,Pile Neutron Research, Addison-Wesley Publishing Company, Inc.Reading,Mass,1953.   
+[5] J.P. Elliott, Collective motion in the nuclear shell model.i. classification schemes for states of mixed configurations,Proc. Roy. Soc. A 245 (1958) 128-145. doi:10.1098/rspa.1958.0072.   
+[6] J.P. Elliott, Collective motion in the nuclear shell model. ii. the introduction of intrinsic wave-functions，Proc. Roy. Soc. A 245 (1958) 562-581. doi:10.1098/rspa.1958.0101. [7] J.P. Elliott，M. Harvey， Collective motion in the nuclear shell model. iii. the calculation of spectra, Proc.Roy. Soc. A 272 (1963) 557-577. doi:10.1098/rspa.1963.0071. [8] S.G. Nilsson, Binding states of individual nucleons in strongly deformed nuclei, Dan. Mat. Fys.Medd. 29 (1955) 16. [9] S.G. Nilsson,C. F. Tsang，A. Sobiczewski, Z. Szymanski, S. Wycech, C. Gustafson, I.-L. Lamm, P. Moller, B. Nilsson, On the nuclear structure and stability of heavy and superheavy elements,Nucl. Phys. A 131 (1969) 1-66. doi:10.1016/0375-9474(69)90809-4.   
+[10] O. Sorlin， M.-G. Porquet， Nuclear magic numbers:New features far from stability， Prog. Part. Nucl. Phys. 61 (2008） 602-673. doi:10.1016/j.ppnp.2008.05.001.   
+[11]K.T. Hecht，A.Adler，Generalized seniority for favored $\textit { \textbf { J } } \neq \textit { \textbf { 0 } }$ （20 pairs in mixed configurations， Nucl. Phys. A 137 (1969) 129-143. doi :10.1016/0375-9474(69)90077-3.   
+[12] A. Arima, M. Harvey， K. Shimizu， Pseudo LS coupling and
+
+pseudo SU(3） coupling schemes，Phys.Lett. B 30 (1969) 517-522.
+
+doi:10.1016/0370-2693(69)90443-2.   
+[13] R. D.Ratna Raju, J. P. Draayer, K. T. Hecht, Search for a coupling scheme in heavy deformed nuclei: The pseudo SU(3) model, Nucl. Phys. A 202 (1973) 433-466. doi:10.1016/0375-9474(73)90635-0.   
+[14] J.P. Draayer, K. J. Weeks, Towards a shell model description of the lowenergy structure of deformed nuclei I. even-even systems,Ann. Phys. (NY) 156(1984) 41-67. doi:10.1016/0003-4916(84)90210-0.   
+[15] D. Troltenier, J. P. Draayer, P. O.Hess,O. Castanos, Investigations of rotational nuclei via the pseudo-symplectic model， Nucl. Phys. A 576 (1994) 351-386. doi:10.1016/0375-9474(94)90249-6.   
+[16] D. Troltenier，C. Bahri，J. P. Draayer，GeneralizedpseudoSU(3） model and pairing， Nucl. Phys. A 586 (1995) 53-72. doi:10.1016/0375-9474(94)00518-R.   
+[17]A．L．Blokhin，T. Beuschel，J.P.Draayer，C.Bahri，Pseudospin and nuclear deformation， Nucl. Phys. A 612 (1997） 163-203. doi : 10.1016/S0375-9474(97)80004-8.   
+[18] T. Beuschel, A.L. Blokhin,J.P. Draayer, On the validity of the pseudo-spin concept for triaxially deformed nuclei, Nucl. Phys. A 619(1997) 119-128. doi :10.1016/S0375-9474(97)00143-7.   
+[19] G. Rosensteel, D. J. Rowe, The algebraic CM(3) model, Ann. Phys. (NY) 96(1976) 1-42. doi: 10.1016/0003-4916(76)90110-X.
+
+[20] G.Rosensteel, D. J. Rowe，On the algebraic formulation of collective models.i. the mass quadrupole collective model, Ann.Phys.(NY) 123 (1979) 36-60. doi:10.1016/0003-4916(79)90264-1.
+
+[21] D.J. Rowe,G.Rosensteel, On the algebraic formulation of collective models. ii. collective and intrinsic submanifolds,Ann. Phys. (NY）126 (1980) 198-233.doi:10.1016/0003-4916(80)90380-2.   
+[22] G.Rosensteel，D.J.Rowe,On the algebraic formulation of collective models ii. the symplectic shell model of collective motion,Ann.Phys. (NY) 126(1980) 343-370. doi :10.1016/0003-4916(80)90180-3.   
+[23] D. J. Rowe,Microscopic theory of the nuclear collective model, Rep. Prog. Phys. 48 (1985) 1419-1480. doi: 10.1088/0034-4885/48/10/003.   
+[24] F. Iachello,S.Kuyucak, Interacting Boson-Fermion model of collective states i， the spin (6) limit，Ann. Phys.(NY） 136(1981） 19-61. doi:10.1016/0003-4916(81)90085-3.   
+[25] R.Bijker, V.K. B. Kota， Interacting Boson-Fermion model of collective statesii. Boson-Fermionsymmetriesconnected with the U(5) limit， Ann. Phys. (NY） 156 (1984) 110-141. doi:10.1016/0003-4916(84)90212-4.   
+[26] R.Bijker, F. Iachello, Interacting Boson-Fermion model of collective states ii. the SO(6) $\otimes$ U(2) limit, Ann. Phys.(NY) 161(1985) 360-398. doi :10.1016/0003-4916(85)90085-5.   
+[27] R. Bijker, V. K.B.Kota, Interacting Boson-Fermion model of collective states iv. the SU(3) $\otimes$ U(2)limit, Ann. Phys. (NY) 187(1988) 148-197.   
+doi:10.1016/0003-4916(88)90285-0.
+
+[28] T. Byrski, F. A. Beck, D. Curien, C. Schuck,P. Fallon,A. Alderson, I. Ali, M. A. Bentley，A. M.Bruce，P. D. Forsyth，D.Howe,J. W.Roberts, J. F. Sharpey-Schafer, G. Smith，P. J. Twin，Observation of identical superdeformed bands in $N = 8 6$ nuclei, Phys.Rev.Lett. 64（1990) 1650- 1653. doi:10.1103/PhysRevLett.64.1650.
+
+[29] J. Dudek, W. Nazarewicz, Z. Szymanski, G. A. Leander, Abundance and systematics of nuclear superdeformed states; relation to the pseudospin and pseudo-SU(3) symmetries,Phys. Rev. Lett. 59(1987) 1405-1408. doi:10.1103/PhysRevLett.59.1405.
+
+[30] C. Bahri， J. P. Draayer， S. A. Moszkowski， Pseudospin symme-try in nuclear physics， Phys. Rev. Lett. 68 (1992） 2133-2136.doi:10.1103/PhysRevLett.68.2133.
+
+[31] W. Nazarewicz， P. J. Twin， P. Fallon， J. D. Garrett, Naturalparity states in superdeformed bands and pseudo SU(3) symmetry at extreme conditions， Phys. Rev. Lett. 64 (1990) 1654-1657. doi:10.1103/PhysRevLett.64.1654.
+
+[32] W.Nazarewicz,M.A.Riley，J.D. Garrett, Equilibrium deformationsand excitation energiesofsingle-quasiprotonband heads of rare-earth nuclei， Nucl. Phys. A 512 (1990) 61-96. doi:10.1016/0375-9474(90)90004-6.
+
+[33] J. Y. Zeng，J. Meng，C. S. Wu，E. G. Zhao,Z. Xing，X. Q.Chen, Spin determination and quantized alignment in the superdeformed bands in $^ { 1 5 2 } \mathrm { D y }$ ， $^ { 1 5 1 } \mathrm { T b }$ ，and $^ { 1 5 0 } \mathrm { G d }$ ，Phys.Rev. C 44(1991） R1745-R1748. doi :10.1103/PhysRevC.44.R1745.   
+[34] F. S. Stephens, M. A. Deleplanque, J. E. Draper, R. M. Diamond,A. O. Macchiavelli, C.W. Beausang,W.Korten，W. H. Kelly, F. Azaiez, J. A. Becker, E.A. Henry， S.W. Yates,M. J. Brinkman，A. Kuhnert, J.A. Cizewski, Pseudospin symmetry and quantized alignment in nuclei, Phys. Rev.Lett. 65(1990) 301-304. doi:10.1103/PhysRevLett .65.301.   
+[35] Q. Xu, S. J. Zhu, J. H. Hamilton, A. V. Ramayya, J. K. Hwang, B.Qi, J. Meng, J. Peng, Y. X. Luo, J. O. Rasmussen, I. Y. Lee, S. H. Liu, K. Li, J. G. Wang,H. B. Ding,L. Gu,E. Y. Yeoh, W. C. Ma, Identification of pseudospin partner bands in $^ { 1 0 8 } \mathrm { T c }$ ，Phys. Rev.C 78(2008) 064301. doi:10.1103/PhysRevC.78.064301.   
+[36] W. Hua, X. H. Zhou,Y. H. Zhang,Y. Zheng,M. L. Liu,F. Ma, S. Guo, L. Ma,S. T. Wang,N. T. Zhang,Y. D. Fang,X.G. Lei, Y. X.Guo,M. Oshima, Y. Toh,M. Koizumi，Y. Hatsukawa, B. Qi, S.Q.Zhang，J. Meng，M. Sugawara，Properties of the rotational bands in the transitional nucleus $^ { 1 8 9 } \mathrm { { P t } }$ ，Phys.Rev.C 80(2009) 034303. doi:10.1103/PhysRevC.80.034303.   
+[37] D. Troltenier, W. Nazarewicz, Z. Szymanski, J. P. Draayer, On the validity of the pseudo-spin concept for axially symmetric deformed nuclei, Nucl. Phys. A 567(1994) 591-610. doi:10.1016/0375-9474(94)90026-4.   
+[38] J.N. Ginocchio，Implications of pseudospin symmetry on relativistic magnetic properties and Gamow-Teller transitions in nuclei, Phys. Rev. C 59 (1999) 2487-2493. doi:10.1103/PhysRevC.59.2487.   
+[39] P. von Neumann-Cosel， J. N. Ginocchio， $l$ -forbidden M1 transitions and pseudospin symmetry， Phys. Rev. C 62 (200O) 014308. doi:10.1103/PhysRevC.62.014308.   
+[40] R. V. Jolos,N. Y. Shirikova, A. V. Sushkov, Neutron number dependence of the energies of the gamma-vibrational states in nuclei with $Z \sim 1 0 0$ and the manifestation of pseudospin symmetry, Phys. Rev. C 86 (2012) 044320. doi:10.1103/PhysRevC.86.044320.   
+[41] J. N. Ginocchio， Resurrectionofa symmetryinnucleonnucleusscattering, Phys. Rev.Lett.82(1999) 4599-4602. doi:10.1103/PhysRevLett.82.4599.   
+[42] H. Leeb，S.Wilmsen，Violation of pseudospin symmetry in nucleonnucleus scattering: Exact relations，Phys. Rev. C 62 (2O0O) 024602. doi:10.1103/PhysRevC.62.024602.   
+[43] J.N. Ginocchio， Pseudospin andspin symmetry innucleonnucleon scattering, Phys. Rev. C 65 (2002) 054002. doi:10.1103/PhysRevC.65.054002.   
+[44] H. Leeb， S. A. Sofianos， Relevance of pseudospin symmetry inproton-nucleusscattering， Phys. Rev. C 69 (2004） 054608. doi:10.1103/PhysRevC.69.054608.
+
+[45] W. H. Long, P.Ring, J. Meng, N. Van Giai, C. A. Bertulani, Nuclear halo structure and pseudospin symmetry, Phys. Rev. C 81 (201O) O31302(R). doi:10.1103/PhysRevC.81.031302.
+
+[46] R.Jolos， V. Voronov, Pseudospin symmetry and structureof nucleiwith $Z \quad \geq \quad 1 0 0$ ，Phys. At. Nucl. 70 (2007） 812-817. doi:10.1134/S106377880705002X.
+
+[47] J.J.Li, W.H. Long, J. Margueron, N. Van Giai, Superheavymagicstructures in the relativistic Hartree-FockBogoliubovapproach, Phys. Lett. B 732 (2014) 169-173. doi:http://dx.doi.org/10.1016/j.physletb.2014.03.031.
+
+[48] L.Gaudefroy，O. Sorlin，D. Beaumel，Y. Blumenfeld,Z. Dombradi,S.Fortier, S.Franchoo,M.Gélin，J.Gibelin，S.Grévy, F.Hammache,F.Ibrahim, K.W. Kemper, K.-L. Kratz, S. M. Lukyanov, C. Monrozeau,L. Nalpas,F. Nowacki, A. N. Ostrowski, T. Otsuka, Y.-E. Penionzhkevich,J.Piekarewicz，E.C.Pollacco，P. Roussel-Chomaz，E. Rich，J．A.Scarpaci， M.G. St. Laurent， D. Sohler， M. Stanoiu， T. Suzuki,E. Tryggestad， D. Verney， Reduction of the spin-orbit splittings atthe $\begin{array} { r l r } { N } & { { } = } & { 2 8 } \end{array}$ shell closure，Phys. Rev.Lett. 97 (2006） 092501.doi:10.1103/PhysRevLett.97.092501.
+
+[49] B.Bastin， S. Grévy，D. Sohler， O. Sorlin，Z. Dombradi，N.L.Achouri，J. C. Angelique，F. Azaiez，D. Baiborodin， R. Borcea,C. Bourgeois,A. Buta, A. Biürger, R. Chapman, J. C. Dalouzy, Z. Dlouhy,A.Drouard,Z. Elekes，S.Franchoo，S. Iacob，B.Laurent, M.Lazar,X.Liang，E. Liénard, J. Mrazek,L. Nalpas，F. Negoita， N. A. Orr,
+
+Y. Penionzhkevich, Z. Podolyak, F. Pougheon, P. Roussel-Chomaz, M. G. Saint-Laurent, M. Stanoiu, I. Stefan,F. Nowacki, A. Poves, Collapse of the $N \ = \ 2 8$ shell closure in $^ { 4 2 } \mathrm { S i }$ ，Phys.Rev.Lett. 99(2007) 022503. doi:10.1103/PhysRevLett.99.022503.
+
+[50] D. Tarpanov, H. Liang,N. Van Giai, C. Stoyanov, Mean-field study of single-particle spectra evolution in $Z = 1 4$ and $N = 2 8$ chains, Phys.Rev. C 77 (2008) 054316. doi:10.1103/PhysRevC.77.054316.
+
+[51] M. Moreno-Torres,M. Grasso,H. Liang，V.De Donno,M. Anguiano, N. Van Giai, Tensor effects in shell evolution at $Z , N = 8 , 2 0$ ,and 28 using nonrelativistic and relativistic mean-field theory, Phys.Rev. C 81 (2010) 064327. doi:10.1103/PhysRevC.81.064327.
+
+[52] Y. Nagai, J. Styczen， M. Piiparinen，P. Kleinheinz，D. Bazzacco,P. V.Brentano，K.O. Zell，J. Blomqvist，Proton single-particlestates above $\begin{array} { r l r } { Z } & { { } = } & { 6 4 } \end{array}$ ，Phys. Rev. Lett. 47(1981） 1259-1262.doi:10.1103/PhysRevLett.47.1259.
+
+[53] W. Long,H. Sagawa, N. Van Giai, J. Meng, Shell structure and $\rho$ -tensor correlations in density dependent relativistic Hartree-Fock theory, Phys. Rev. C 76 (2007) 034314. doi:10.1103/PhysRevC.76.034314.
+
+[54] W.-H. Long, T. Nakatsukasa, H. Sagawa, J. Meng, H. Nakada, Y. Zhang, Non-local mean field effect on nuclei near $Z = 6 4$ sub-shell,Phys.Lett. B 680 (2009) 428-431. doi:10.1016/j .physletb.2009.09.034.
+
+[55] A. Bohr,I. Hamamoto, B.R． Mottelson, Pseudospin in
+
+rotatingnuclearpotentials，Phys.Scr.26(1982） 267-272. doi:10.1088/0031-8949/26/4/003.   
+[56] O.Castanos，M. Moshinsky，C.Quesne，Transformation to pseudoSU(3） in heavy deformed nuclei， Phys.Lett. B 277 (1992) 238-242. doi: 10.1016/0370-2693(92)90741-L.   
+[57]A．L.Blokhin，C.Bahri，J.P.Draayer， Origin of pseudospin symmetry， Phys. Rev. Lett. 74 (1995） 4149-4152. doi:10.1103/PhysRevLett.74.4149.   
+[58] A.L. Blokhin，C. Bahri，J.P. Draayer，Pseudospin transformation of physical operators，J. Phys.A: Math.Gen.29 (1996) 2039-2052. doi:10.1088/0305-4470/29/9/017.   
+[59] P.Ring,Relativistic mean field theory in finite nuclei, Prog. Part. Nucl. Phys.37 (1996) 193-263.doi:10.1016/0146-6410(96)00054-3.   
+[60] D. Vretenar,A. V. Afanasjev， G. A. Lalazisss， P. Ring, Relativistic Hartree-Bogoliubov theory:static and dynamic aspects ofexotic nuclearstructure， Phys. Rep. 409 (2005） 101-259. doi:10.1016/j.physrep.2004.10.001.   
+[61] J.Meng，H. Toki，S. G. Zhou，S. Q. Zhang，W. H. Long，L. S. Geng,Relativistic continuum Hartree Bogoliubov theory for ground-state properties of exotic nuclei， Prog. Part. Nucl. Phys. 57 (2006) 470-563. doi:10.1016/j.ppnp.2005.06.001.   
+[62] T. Niksic，D. Vretenar, P. Ring，Relativistic nuclear energy density
+
+functionals: Mean-field and beyond, Prog. Part. Nucl. Phys. 66 (2O11) 519- 548. doi:10.1016/j.ppnp.2011.01.055.
+
+[63] J. Meng, J. Y. Guo, J. Li, Z. P. Li, H. Z. Liang, W. H. Long, Y. F. Niu, Z. M. Niu, J. M. Yao, Y. Zhang, P. W. Zhao, S. G. Zhou, Covariant density functional theory in nuclear physics, Prog. Phys.31 (2011) 199-336.
+
+[64] J. Meng， J. Peng， S.-Q. Zhang， P.-W. Zhao， Progress on tiltedaxiscrankingcovariantdensityfunctionaltheoryfornuclearmagnetic and antimagnetic rotation， Front. Phys. 8 (2013） 55-79.doi:10.1007/s11467-013-0287-y.
+
+[65] J. N. Ginocchio, Pseudospin as a relativistic symmetry, Phys. Rev. Lett. 78 (1997) 436-439. doi:10.1103/PhysRevLett .78.436.
+
+[66] J. S. Bell, H. Ruegg, Dirac equations with an exact higher symmetry, Nucl. Phys.B 98(1975)151-153.doi:10.1016/0550-3213(75)90206-0.
+
+[67] J. N. Ginocchio, Relativistic symmetries in nuclei and hadrons, Phys. Rep. 414 (2005) 165-261. doi:10.1016/j.physrep.2005.04.003.
+
+[68] J. Meng, K. Sugawara-Tanabe, S. Yamaji, P. Ring,A. Arima, Pseudospin symmetry in relativistic mean field theory,Phys. Rev. C 58 (1998) R628- R631. doi:10.1103/PhysRevC.58.R628.
+
+[69] J. Meng, K. Sugawara-Tanabe, S. Yamaji, A. Arima, Pseudospin symmetry in $Z \mathbf { r }$ and Sn isotopes from the proton drip line to the neutron drip line, Phys. Rev. C 59(1999) 154-163. doi: 10.1103/PhysRevC.59.154.
+
+[70] A. Arima, Dynamical symmetries and nuclear structure, RIKEN-AF-NP276 (1999).   
+[71] P. Alberto, M. Fiolhais, M. Malheiro,A. Delfino,M. Chiapparini, Isospin asymmetry in the pseudospin dynamical symmetry，Phys.Rev.Lett. 86 (2001) 5015-5018. doi:10.1103/PhysRevLett.86.5015.   
+[72]P.Alberto，M.Fiolhais，M.Malheiro，A．Delfino，M.Chiapparini, Pseudospin symmetry as a relativistic dynamical symmetry in the nucleus, Phys. Rev. C 65 (2002) 034307. doi:10 .1103/PhysRevC.65.034307.   
+[73] S. Marcos， M. López-Quelle， R. Niembro， L. N. Savushkin, P.Bernardos， On the sufficient conditionsfor the pseudospin symmetry in relativistic models， Phys.Lett. B 513 (2001） 30-36. doi:10.1016/S0370-2693(01)00737-7.   
+[74] R. Lisboa, M. Malheiro, P. Alberto, M. Fiolhais,A. S. de Castro, Spin and pseudospin symmetries in the antinucleon spectrum of nuclei, Phys. Rev. C 81 (2010) 064324. doi :10.1103/PhysRevC.81.064324.   
+[75] J. N. Ginocchio, Relativistic U(3) symmetry and pseudo-U(3） symmetry of the Dirac Hamiltonian，J. Phys: Conf. Ser. 267 (2011） O12037. doi:10.1088/1742-6596/267/1/012037.   
+[76] A. S. de Castro, P. Alberto, Spin and pseudospin symmetries in the Dirac equation with central Coulomb potentials,Phys.Rev. A 86 (2012) 032122. doi:10.1103/PhysRevA.86.032122.   
+[77] G. A. Lalazisis, Y. K. Gambhir, J. P. Maharana, C. S. Warke, P. Ring, Relativistic mean field approach and the pseudospin symmetry, Phys. Rev. C 58(1998) R45-R48. doi:10.1103/PhysRevC.58.R45.   
+[78] K. Sugawara-Tanabe,A. Arima, Hidden pseudospin symmetry in the Dirac equation, Phys. Rev. C 58 (1998) R3065-R3068, Erratum: ibid. 60 (1999) 019901. doi:10.1103/PhysRevC.58.R3065.   
+[79] J. N. Ginocchio,D.G. Madland, Pseudospin symmetry and relativistic single-nucleon wave functions，Phys. Rev. C 57 (1998） 1167-1173. doi:10.1103/PhysRevC.57.1167.   
+[80] J.N.Ginocchio， Pseudospinsymmetry and relativistic mean feld eigenfunctions， Phys. Rev. C 66(2002） 064312. doi :10.1103/PhysRevC.66.064312.   
+[81] K. Sugawara-Tanabe, S. Yamaji, A. Arima, Spin symmetry and pseudospin symmetry in the relativistic mean field with a deformed potential, Phys. Rev. C 65 (2002) 054313. doi: 10.1103/PhysRevC.65.054313.   
+[82] J. N. Ginocchio,A. Leviatan, J. Meng, S.-G. Zhou, Test of pseudospin symmetry in deformed nuclei， Phys. Rev. C 69 (2004） 034303. doi:10.1103/PhysRevC.69.034303.   
+[83] S.Marcos,M.López-Quelle,R. Niembro,L.N. Savushkin,Pseudospin symmetry in the Dirac phenomenology,Eur. Phys. J. A 34 (2007) 429-441. doi:10.1140/epja/i2007-10515-2.   
+[84] S.Marcos,M. López-Quelle,R. Niembro,L.N. Savushkin,Pseudospin symmetry as an accidental symmetry in the relativistic framework, Eur. Phys. J.A 37 (2008) 251-262. doi:10.1140/epja/i2008-10619-1.   
+[85] B.Desplanques, S. Marcos,New insights on pseudospin doublets in nuclei, Eur.Phys.J.A43(2010)369-378. doi:10.1140/epja/i2010-10921-3.   
+[86] O.Panella, S. Biondini，A. Arda,New exact solution of the onedimensional Dirac equation for the Woods-Saxon potential within the effective mass case，J. Phys. A: Math. Theor. 43 (2010) 325302. doi:10.1088/1751-8113/43/32/325302.   
+[87] F-L. Zhang，B. Fu, J.-L. Chen，Higgs algebraic symmetry in the two-dimensional Dirac equation，Phys. Rev. A 80 (2009） 054102. doi:10.1103/PhysRevA.80.054102.   
+[88] T.-S. Chen,H.-F. Lu, J. Meng, S.-Q. Zhang，S.-G. Zhou, Pseudospin symmetry in relativistic framework with harmonic oscillator potential and Woods-Saxon potential， Chin． Phys.Lett. 20 （2003） 358-361. doi:10.1088/0256-307X/20/3/312.   
+[89] R.Lisboa，M. Malheiro，A.S.de Castro，P. Alberto，M. Fiolhais, Pseudospin symmetry and the relativistic harmonic oscillator, Phys. Rev. C 69 (2004) 024319. doi:10.1103/PhysRevC.69.024319.   
+[90] J.N. Ginocchio， U(3) and pseudo-U(3） symmetry of the relativistic harmonic oscillator, Phys. Rev. Lett. 95(2005） 252501. doi:10.1103/PhysRevLett.95.252501.   
+[91] J.-Y. Guo， X.-Z. Fang， F.-X. Xu， Pseudospin symmetry in the relativistic harmonic oscillator, Nucl. Phys.A 757 (2005） 411-421. doi:10.1016/j.nuclphysa.2005.04.017.   
+[92] A．S. de Castro，P. Alberto，R. Lisboa，M. Malheiro，Relating pseudospin and spin symmetries through charge conjugation and chiral transformations: The case of the relativistic harmonic oscillator, Phys. Rev. C 73 (2006) 054309. doi:10.1103/PhysRevC.73.054309.   
+[93] Q. Xu, S.-J. Zhu, Splitting of pseudospin and spin partners in the relativistic harmonic oscillator, High Energy Phys. Nucl. Phys. 31 (2007) 251-257.   
+[94] F.-L. Zhang, B. Fu, J.-L. Chen, Dynamical symmetry of Dirac hydrogen atom with spin symmetry and its connection with Ginocchio's oscillator, Phys.Rev. A 78 (2008) 040101(R). doi : 10.1103/PhysRevA.78.040101.   
+[95] H. Akcay，Dirac equation with scalar and vector quadratic potentials and Coulomb-like tensor potential， Phys. Lett. A 373 (2009) 616-620. doi:10.1016/j.physleta.2008.12.029.   
+[96] H. Akcay, C. Tezcan, Exact solutions of the Dirac equation with harmonic oscillator potential including a Coulomb-like tensor potential, Int. J. Mod. Phys. C 20 (2009) 930-941. doi:10.1142/S0129183109014084.   
+[97] M.-C. Zhang，Arelativisticnon-harmonicoscillatorpotential and pseudospin symmetry， Acta Phys. Sinica 58 (2009） 61-65. doi:10.7498/aps.58.61.   
+[98] R.Lisboa,M.Malheiro,P.Alberto,Role of the Coulomb and the vectorisovector $\rho$ potentials in the isospin asymmetry of nuclear pseudospin, Phys.Rev. C 67(2003) 054305. doi : 10.1103/PhysRevC.67.054305.   
+[99] M.Hamzavi， A. A. Rajabi， H. Hassanabadi， Exact pseudospin symmetry solution of the Dirac equation for spatially-dependent mass
+
+Coulomb potential including a Coulomb-like tensor interaction via asymptotic iteration method， Phys. Lett. A 374 (2010) 4303-4307. doi:10.1016/j.physleta.2010.08.065.
+
+[100] T. Barakat, H. A.Alhendi，Generalized Dirac equation with induced energy-dependent potential via simple similarity transformation and asymptotic iteration methods， Found. Phys. 43 (2013） 1171-1181. doi:10.1007/s10701-013-9738-0.
+
+[101] M. Eshghi，M.Hamzavi， S. M. Ikhdair， Relativistic symmetry ofposition-dependentmassparticles in a Coulomb field including tensorinteraction， Chin. Phys.B 22 (2013）030303. doi : 10.1088/1674-1056/22/3/030303.
+
+[102] S.Ortakaya，H. Hassanabadi， B.H. Yazarloo，Bound state solutions of the Dirac equation with the Deng-Fan potential including a Coulomb tensor interaction， Chin. Phys．B 23 (2014） O30306. doi:10.1088/1674-1056/23/3/030306.
+
+[103]C.-S. Jia, J.-Y. Liu,L. He,L.-T. Sun， Pseudospin symmetry in the relativistic empirical potential as a diatomic molecular model, Phys. Scr. 75(2007) 388-393. doi:10.1088/0031-8949/75/3/026.
+
+[104] H. Akcay,R. Sever, Approximate analytical solutions of Dirac equation with spin and pseudo spin symmetries for the diatomic molecular potentials plus a tensor term with any angular momentum,Few-Body Syst. 54 (2013) 1839-1850.doi:10.1007/s00601-012-0510-3.
+
+[105] C.-S. Jia, P. Guo, X.-L. Peng, Exact solution of the Dirac-Eckart problem with spin and pseudospin symmetry, J. Phys. A: Math. Gen. 39 (2006) 7737-7744. doi:10.1088/0305-4470/39/24/010.   
+[106] A. Soylu, O. Bayrak, I. Boztosun, $\kappa$ state solutions of the Dirac equation for the Eckart potential with pseudospin and spin symmetry, J. Phys. G: Nucl. Part. Phys.41 (2008)065308. doi:10.1088/1751-8113/41/6/065308.   
+[107] M. Hamzavi，A. A. Rajabi， Tensor coupling and relativistic spin and pseudospin symmetries with the Hellmann potential,Can.J.Phys.91 (2013) 411-419. doi:10.1139/cjp-2012-0542.   
+[108] J.-Y. Guo，J. Meng，F.-X. Xu, Solution of the Dirac equation with special Hulthén potentials， Chin. Phys.Lett. 20 （2003） 602-604. doi:10.1088/0256-307X/20/5/303.   
+[109] S. M. Ikhdair, C. Berkdemir, R. Sever, Spin and pseudospin symmetry along with orbital dependency of the Dirac-Hulthén problem,Appl.Math. Comput. 217 (2011) 9019-9032. doi:10.1016/j.amc.2011.03.109.   
+[110]O.Aydogdu，E.Maghsoodi，H. Hassanabadi，Dirac equation for the Hulthén potential within the Yukawa-type tensor interaction, Chin. Phys. B 22 (2013) 010302. doi:10.1088/1674-1056/22/1/010302.   
+[111] M. Hamzavi，A.A.Rajabi，Relativistic symmetries in the Hulthén scalar-vector-tensor interactions， Chin. Phys. B 22 (2013） 080302. doi:10.1088/1674-1056/22/8/080302.   
+[112] G.-F. Wei, S.-H. Dong, Approximately analytical solutions of the ManningRosen potential with the spin-orbit coupling term and spin symmetry, Phys. Lett. A 373 (2008) 49-53. doi:10.1016/j.physleta.2008.10.064.   
+[113] T. Chen， J.-Y. Liu， C.-S. Jia， Approximate analytical solutions ofthe Dirac-Manning-Rosen problem with the spin symmetry andpseudo-spinsymmetry， Phys. Scr.79(2009）055002. doi:10.1088/0031-8949/79/05/055002.   
+[114] G.-F. Wei， S.-H. Dong，Pseudospin symmetry in the relativistic Manning-Rosen potential including a Pekeris-type approximation to the pseudo-centrifugal term， Phys. Lett. B 686 (2010) 288-292. doi:10.1016/j.physletb.2010.02.070.   
+[115] O.Aydogdu,R. Sever, Exact solution of the Dirac equation with the Mietype potential under the pseudospin and spin symmetry limit, Ann. Phys. (NY) 325 (2010)373-383. doi:10.1016/j.a0p.2009.10.009.   
+[116] M. Hamzavi，A. Rajabi,H.Hassanabadi，Exact spin and pseudospin symmetry solutions of the Dirac equation for Mie-type potential including a Coulomb-like tensor potential， Few-Body Syst. 48 (2010) 171-182. doi:10.1007/s00601-010-0095-7.   
+[117] A.N. Ikot, S. Zarrinkamar, E. J. Ibanga, E. Maghsoodi,H. Hassanabadi, Pseudospin symmetry of the Dirac equation for a Mobius square plus Mie type potential with a Coulomb-like tensor interaction via SUSYQM, Chin. Phys. C38 (2014) 013101. doi:10.1088/1674-1137/38/1/013101.   
+[118] C. Berkdemir, Pseudospin symmetry in the relativistic Morse potential including the spin-orbit coupling term, Nucl. Phys. A 770 (2006) 32-39, Erratum: ibid.821(2009) 262. doi:10.1016/j.nuclphysa.2006.03.001.   
+[119] O. Bayrak, I. Boztosun, The pseudospin symmetric solution of the Morse potential for any $\kappa$ state, J. Phys. A: Math. Theor. 40 (2007) 11119-11127. doi:10.1088/1751-8113/40/36/012.   
+[120] W.-C. Qiang, R.-S. Zhou, Y. Gao, Application of the exact quantization rule to the relativistic solution of the rotational Morse potential with pseudospin symmetry,J. Phys. G: Nucl. Part. Phys. 40 (2007) 1677-1685. doi:10.1088/1751-8113/40/7/016.   
+[121]O.Aydogdu，R. Sever， Pseudospin and spin symmetry in Dirac-Morse problem with a tensor potential，Phys. Lett. B 703(2011） 379-385. doi:10.1016/j.physletb.2011.08.010.   
+[122] S. M. Ikhdair, An approximate $\kappa$ state solutions of the Dirac equation for the generalized Morse potential under spin and pseudospin symmetry, J. Math.Phys.52(2011) 052303. doi : 10.1063/1.3583553.   
+[123] S. Ortakaya， The equation-transform model for Dirac-Morse problem including Coulomb tensor interaction,Ann. Phys. (NY） 338 (2013) 250- 259.doi:10.1016/j.a0p.2013.08.010.   
+[124] C. Jia, P. Guo，Y. Diao,L. Yi， X. Xie,Solutions of Dirac equations with the Pöschl-Teller potential，Eur. Phys.J. A 34 (20O7） 41-48. doi:10.1140/epja/i2007-10486-2.
+
+[125]C.-S. Jia,T. Chen,L.-G. Cui，Approximate analytical solutions of the Dirac equation with the generalized Poschl-Teller potential including the pseudo-centrifugal term，Phys.Lett. A 373 (2009） 1621-1626. doi:10.1016/j.physleta.2009.03.006.
+
+[126] G.-F. Wei, S. Dong,Algebraic approach to pseudospin symmetry for the Dirac equation with scalar and vector modified Poschl-Teller potentials, Europhys.Lett. 87 (2009) 40004. doi: 10 .1209/0295-5075/87/40004.
+
+[127] G.-F. Wei, S.-H. Dong,A novel algebraic approach to spin symmetry for Dirac equation with scalar and vector second Poschl-Teller potentials, Eur. Phys. J.A 43(2010) 185-190. doi:10.1140/epja/i2009-10901-8.
+
+[128] N.Candemir, Pseudospinsymmetryintrigonometric PoschlTellerpotential, Int.J.Mod.Phys.E21 (2012) 1250060. doi:10.1142/S0218301312500607.
+
+[129]M. Hamzavi， S. M. Ikhdair， K.-E. Thylwe， Spin and pseudospinsymmetriesinrelativistictrigonometricPoschl-Tellerpotentialwith centrifugal barrier， Int. J. Mod. Phys. E 21 (2012） 1250097.doi:10.1142/S0218301312500978.
+
+[130] S. M. Ikhdair, M. Hamzavi, Approximate Dirac solutionsofa complex parity-time-symmetric Poschl-Tellerpotential in viewof spin and pseudospin symmetries， Phys. Scr. 86 (2012） 045002. doi:10.1088/0031-8949/86/04/045002.
+
+[131] M. Hamzavi，A. A. Rajabi, Spin and pseudospin symmetries with
+
+trigonometric Poschl-Teller potential including tensor coupling, Adv. High Energy Phys.2013 (2013) 196986. doi : 10.1155/2013/196986.   
+[132] B. J. Falaye, S.M. Ikhdair, Relativistic symmetries with the trigonometric Poschl-Teller potential plus Coulomb-like tensor interaction, Chin. Phys. B 22(2013) 060305.doi :10.1088/1674-1056/22/6/060305.   
+[133] A. N. Ikot, E. Maghsoodi， S. Zarrinkamar, E. Ibanga, H. Hassanabadi， Solutions of Dirac equation in the presence of modified Tietz and modified Poschl-Teller potentials plus a Coulomb-like tensor interaction using SUSYQM，Few-Body Syst. 54 (2013） 2053-2065. doi:10.1007/s00601-013-0716-z.   
+[134] K. J. Oyewumi, C. O. Akoshile, Bound-state solutions of the Dirac-RosenMorse potential with spin and pseudospin symmetry, Eur. Phys. J. A 45 (2010)311-318. doi:10.1140/epja/i2010-11007-0.   
+[135]G.-F. Wei， S.-H. Dong，Pseudospin symmetry for modified RosenMorsepotential includinga Pekeris-typeapproximation tothe pseudo-centrifugal term， Eur. Phys. J. A 46 (2010) 207-212. doi:10.1140/epja/i2010-11031-0.   
+[136] W.-L. Chen, G.-F. Wei, Spin symmetry in the relativistic modified RosenMorse potential with the approximate centrifugal, Chin. Phys. B 2O (2011) 062101. doi:10.1088/1674-1056/20/6/062101.   
+[137] E. V. Aguda, Solutions of the Dirac equation with an improved expression of the Rosen-Morse potential energy model including Coulomb-like tensor interaction， Can.J. Phys. 91 (2013） 689-695. doi:10.1139/cjp-2013-0109.   
+[138] S. Ikhdair, M. Hamzavi, Approximate relativistic bound state solutions of the Tietz-Hua rotating oscillator for any $\kappa$ -state, Few-Body Syst. 53 (2012) 473-486. doi:10.1007/s00601-012-0470-7.   
+[139]J.-Y. Guo, Z.-Q. Sheng，Solution of the Dirac equation for the WoodsSaxon potential with spin and pseudospin symmetry, Phys. Lett. A 338 (2005)90-96. doi:10.1016/j.physleta.2005.02.026.   
+[140] Q. Xu, S.-J. Zhu， Pseudospin symmetry and spin symmetry in the relativistic Woods-Saxon， Nucl. Phys. A 768 (2006) 161-169. doi:10.1016/j.nuclphysa.2006.01.002.   
+[141] O.Aydogdu,R. Sever, Pseudospin and spin symmetry in the Dirac equation with Woods-Saxon potential and tensor potential, Eur. Phys. J. A 43 (2010) 73-81. doi:10.1140/epja/i2009-10890-6.   
+[142] S.-W. Chen，J.-Y.Guo， Relativistic effect of spin and pseudospinsymmetries，Phys.Rev. C 85 (2012) 054312. doi:10.1103/PhysRevC.85.054312.   
+[143] E. Maghsoodi, H. Hassanabadi, S. Zarrinkamar, H. Rahimov,Relativistic symmetries of the Dirac equation under the nuclear Woods-Saxon potential, Phys. Scr. 85 (2012) 055007. doi:10.1088/0031-8949/85/05/055007.   
+[144]O. Aydogdu， R. Sever, The Dirac-Yukawa problem inview ofpseudospinsymmetry, Phys.Scr.84(2011) 025005. doi:10.1088/0031-8949/84/02/025005.   
+[145] E. Maghsoodi,H. Hassanabadi, O. Aydogdu, Dirac particles in the presence of the Yukawa potential plus a tensor interaction in SUSYQM framework, Phys. Scr. 86(2012) 015005.doi:10.1088/0031-8949/86/01/015005.   
+[146] S.M. Ikhdair, B. J. Falaye,Approximate relativistic bound states of a particle in Yukawa field with Coulomb tensor interaction,Phys. Scr. 87 (2013) 035002. doi:10.1088/0031-8949/87/03/035002.   
+[147] A. N. Ikot, E. Maghsoodi, S. Zarrinkamar, H. Hassanabadi, Relativistic spin and pseudospin symmetries of inversely quadratic Yukawa-like plus Mobius square potentials including a Coulomb-like tensor interaction, FewBody Syst. 54 (2013) 2027-2040. doi:10.1007/s00601-013-0701-6.   
+[148] J.N. Ginocchio,Relativistic harmonic oscillator with spin symmetry, Phys. Rev. C 69 (2004) 034318. doi : 10.1103/PhysRevC.69.034318.   
+[149] J.-Y. Guo,J.-C. Han,R.-D. Wang,Pseudospin symmetry and the relativistic ring-shaped non-spherical harmonic oscillator, Phys. Lett. A 353 (2006) 378-382. doi:10.1016/j.physleta.2006.01.003.   
+[150] Y. Zhou， J.-Y. Guo， The relativistic bound states for a new ringshaped harmonic oscillator， Chin. Phys. B 17 (2008） 380-384. doi:10.1088/1674-1056/17/2/004.   
+[151] M.-C. Zhang， Quesne-like ring-shaped spherical harmonic oscillator potential and pseudospin symmetry, Acta Phys. Sinica 58 (2009) 712-716. doi:10.7498/aps.58.712.   
+[152] M.-C. Zhang,G.-Q. Huang-Fu, B.An, Pseudospin symmetry for a new
+
+ring-shaped non-spherical harmonic oscillator potential， Phys. Scr. 80 (2009) 065018. doi: 10.1088/0031-8949/80/06/065018.
+
+[153] M. R. Setare, Z. Nazari, Pseudospin symmetry in deformed nuclei with axially-symmetric harmonic oscillator potential, Mod. Phys. Lett. A 25 (2010) 549-556. doi: 10.1142/S0217732310031907.
+
+[154] M.-C. Zhang,G.-Q. Huang-Fu, Solution of the Dirac equation in the tridiagonal representation with pseudospin symmetry for an anharmonic oscillator and electric dipole ring-shaped potential, Ann. Phys. (NY) 327 (2012) 841-850. doi:10.1016/j.a0p.2011.12.002.
+
+[155] M. Hamzavi, S.M. Ikhdair, B.J. Falaye, Dirac bound states of anharmonic oscillator in external fields， Ann.Phys.(NY） 341 (2014) 153-163. doi:10.1016/j.a0p.2013.12.003.
+
+[156] A.D.Alhaidari，H.Bahlouli，A．Al-Hasan，Dirac and Klein-Gordon equations with equal scalar and vector potentials,Phys.Lett.A 349 (2006) 87-97. doi:10.1016/j.physleta.2005.09.008.
+
+[157] J.-Y. Guo，F. Zhou,F.-L. Guo，J.-H. Zhou，Exact solution of the continuous states for generalized asymmetrical Hartmann potentials under the condition of pseudospin symmetry, Int. J. Mod. Phys.A 22 (2007) 4825-4832. doi:10.1142/S0217751X07037160.
+
+[158] H. Hassanabadi, E.Maghsoodi, S. Zarrinkamar, H. Rahimov, Approximate any $l \cdot$ -state solutions of the Dirac equation for modified deformed Hylleraas potential by using the Nikiforov-Uvarov method, Chin. Phys.B 21 (2012) 120302.doi:10.1088/1674-1056/21/12/120302.
+
+[159]C.Berkdemir,R. Sever, Pseudospin symmetry solution of the Dirac equation with an angle-dependent potential, J. Phys. A: Math. Theor. 41 (2008)045302. doi:10.1088/1751-8113/41/4/045302.   
+[160] F. Zhou,Y. Wu, J.-Y. Guo, Solutions of Dirac equation for Makarov potential with pseudospin symmetry, Commun. Theor. Phys. 52 (2009) 813-816.doi:10.1088/0253-6102/52/5/09.   
+[161] S. Asgarifar，H. Goudarzi， Exact solutions of the Manning-Rosen potential plus a ring-shaped like potential for the Dirac equation:spin and pseudospin symmetry，Phys. Scr. 87 (2013） 025703. doi: 10.1088/0031-8949/87/02/025703.   
+[162] M.-C. Zhang,Pseudospin symmetry and a double ring-shaped spherical harmonic oscillator potential，Cent. Eur. J. Phys.7 (2009） 768-773. doi:10.2478/s11534-009-0008-x.   
+[163] M.-C. Zhang， Pseudospin symmetry for a ring-shaped non-spherical harmonic oscillator potential, Int. J. Theor. Phys.48(2009) 2625-2632. doi: 10.1007/s10773-009-0050-x.   
+[164] M.-C. Zhang,G.-Q. Huang-Fu, Pseudospin symmetry for a new oscillatory ring-shaped noncentral potential，J. Math. Phys. 52 (2011） 053518. doi:10.1063/1.3592151.   
+[165] K. J. Oyewumi, B. J. Falaye, C. A. Onate, O. J. Oluwadare, W. A. Yahya, K state solutions for the fermionic massive spin-1/2 particles interacting with double ring-shaped Kratzer and oscillator potentials,Int. J. Mod. Phys.E 23 (2014) 1450005. doi :10.1142/S0218301314500050.   
+[166] Y.K. Gambhir, J. P. Maharana， C. S. Warke, Pseudo-spinas arelativistic symmetry， Eur. Phys. J. A 3 (1998) 255-262. doi:10.1007/s100500050175.   
+[167] S. Marcos, L. N. Savushkin, M. López-Quelle, P. Ring, Pseudo spin-orbit potential in relativistic self-consistent models,Phys. Rev. C 62 (2000) 054309.doi:10.1103/PhysRevC.62.054309.   
+[168]J. N. Ginocchio， A. Leviatan， Test of nuclear wave functions forpseudospin symmetry， Phys. Rev. Lett. 87 (2001） 072502. doi:10.1103/PhysRevLett.87.072502.   
+[169] P. J. Borycki, J. N. Ginocchio, W. Nazarewicz, M. Stoitsov, Nuclear wave functions for spin and pseudospin partners,Phys.Rev. C 68 (2Oo3) O14304. doi:10.1103/PhysRevC.68.014304.   
+[170] T.-S. Chen, H.-F. Lü, J. Meng, S.-G. Zhou, Pseudospin symmetry in real nuclei, High Energy Phys. Nucl. Phys.27 (2003) 324-327.   
+[171] M. L6pez-Quelle,L.N. Savushkin, S. Marcos, P. Bernardos, R. Niembro, Pseudo-spin-orbit potential in the relativistic Hartree-Fock formalism, Nucl. Phys. A 727 (2003) 269-298. doi: j.nuclphysa.2003.07.012.   
+[172] S. Marcos, M. López-Quelle, R. Niembro, L. N. Savushkin, P. Bernardos, Reliability of the pseudospin symmetry in atomic nuclei, Eur. Phys. J. A 17 (2003)173-180.doi:10.1140/epja/i2002-10150-5.   
+[173] P. Alberto,R.Lisboa,M.Malheiro，A. S. de Castro，Tensor coupling and pseudospin symmetry in nuclei， Phys.Rev. C 71 (2005） 034313. doi :10.1103/PhysRevC.71.034313.   
+[174] S. Marcos，V. N. Fomenko，M. López-Quelle，R.Niembro，L. N. Savushkin， The spin and pseudospin symmetries in the relativistic formalism: Similarities and differences,Eur. Phys. J. A 26 (20O5) 253- 264.doi:10.1140/epja/i2005-10177-0.   
+[175] W. H. Long, H. Sagawa, J. Meng, N. Van Giai, Pseudo-spin symmetry in density-dependent relativistic Hartree-Fock theory,Phys.Lett. B 639 (2006)242-247. doi:10.1016/j.physletb.2006.05.065.   
+[176] Q. Xu, J.-Y. Guo, S.-J. Zhu, Pseudospin symmetry and spin symmetry in Sn isotopes from the proton drip line to the neutron drip line, High Energy Phys. Nucl. Phys.31 (2007) 168-172.   
+[177] J.-Y. Guo, X.-Z. Fang,Research on the contributions from different fields of mesons and photons to pseudospin symmetry,Eur. Phys. J.A 45 (2010) 179-183. doi:10.1140/epja/i2010-10990-2.   
+[178] K. Sugawara-Tanabe, S. Yamaji,A. Arima, Pseudospin symmetry in the Dirac equation with a deformed potential, Phys. Rev. C 62 (200O) 054307. doi:10.1103/PhysRevC.62.054307.   
+[179] K. Sugawara-Tanabe, Triple degeneracies in the pseudospin and spin symmetries in the relativistic mean-field with deformed potential, Rep.Math. Phys. 55 (2005) 277-286. doi:10.1016/S0034-4877(05)80033-3.   
+[180] Y.-W. Sun, Y. Liu, S.-W. Chen, Q. Liu, J.-Y. Guo, Influences on the pseudospin symmetry from the different fields of mesons in deformed nuclei, Eur. Phys.J.A 48 (2012) 18. doi:10.1140/epja/i2012-12018-5.   
+[181] A. Bouyssy， S. Marcos,J.F. Mathiot，N. Van Giai， Isovector-meson contributions in the Dirac-Hartree-Fock approach to nuclear matter, Phys. Rev. Lett. 55 (1985) 1731-1733. doi:10.1103/PhysRevLett .55.1731.   
+[182] A. Bouyssy, J.-F. Mathiot, N. Van Giai, S.Marcos,Relativistic description of nuclear systems in the Hartree-Fock approximation, Phys. Rev. C 36 (1987) 380-401. doi:10.1103/PhysRevC.36.380.   
+[183]W.-H. Long， N. Van Giai， J. Meng， Density-dependent relativistic Hartree-Fock approach， Phys. Lett. B 640 (2006) 150-154. doi:10.1016/j.physletb.2006.07.064.   
+[184] W. H. Long，P. Ring，N. Van Giai, J. Meng，Relativistic Hartree-FockBogoliubov theory with density dependent meson-nucleon couplings, Phys. Rev. C 81 (2010) 024308. doi:10.1103/PhysRevC.81.024308.   
+[185] L. B. Castro,Relating pseudospin and spin symmetries through chiral transformation with tensor interaction, Phys. Rev. C 86 (2012) 052201(R). doi:10.1103/PhysRevC.86.052201.   
+[186] Y. Z. Wang, G.L. Yu, Z. Y.Li, J. Z. Gu, Systematic study of tensor force effect on pseudospin orbital splittings in Sn isotopes, J. Phys. G: Nucl. Part. Phys. 40 (2013) 045105. doi:10.1088/0954-3899/40/4/045105.   
+[187] S.-G. Zhou， J. Meng， P. Ring， Spherical relativistic Hartree theory in a Woods-Saxon basis， Phys. Rev. C 68 (2003) 034323. doi:10.1103/PhysRevC.68.034323.   
+[188] N. Schunck, J. L. Egido, Continuum and symmetry-conserving effects
+
+ui1p-c HuCicI usIg tc-iaIgc IUiUcs, [Iys. Λcv. C // (ZUU0) 011301(R). doi : 10.1103/PhysRevC.77.011301.   
+[189]N. Schunck, J.L. Egido,Nuclear halos and drip lines in symmetryconserving continuum Hartree-Fock-Bogoliubov theory,Phys. Rev. C 78 (2008) 064305. doi:10.1103/PhysRevC.78.064305.   
+[190] S.-G. Zhou,J. Meng,P.Ring,E.-G. Zhao, Neutron halo in deformed nuclei, Phys.Rev. C82 (2010) 011301(R). doi : 10 .1103/PhysRevC.82.011301.   
+[191] Y. Chen, L.Li, H. Liang, J. Meng, Density-dependent deformed relativistic Hartree-Bogoliubov theory in continuum, Phys. Rev. C 85 (2012) O67301. doi:10.1103/PhysRevC.85.067301.   
+[192]L.Li, J. Meng,P. Ring,E.-G. Zhao,S.-G. Zhou,Deformed relativistic Hartree-Bogoliubov theory in continuum, Phys. Rev. C 85 (2012) 024312. doi :10.1103/PhysRevC.85.024312.   
+[193] L. Li, J. Meng,P.Ring,E.-G. Zhao, S.-G. Zhou, Odd systems in deformed relativistic Hartree Bogoliubov theory in continuum, Chin. Phys.Lett. 29 (2012)042101. doi: 10.1088/0256-307X/29/4/042101.   
+[194] L. Li, J. Meng,P. Ring,E.-G. Zhao,S.-G. Zhou,Halos in a deformed relativistic Hartree-Bogoliubov theory in continuum,AIP Conf. Proc. 1491 (2012) 208-213. doi:10.1063/1.4764240.   
+[195] S.-G. Zhou,J. Meng，P. Ring， Spinsymmetry in the antinucleonspectrum, Phys. Rev.Lett. 91 (2003) 262501. doi:10.1103/PhysRevLett.91.262501.   
+[196] J. N. Ginocchio,A relativistic symmetry in nuclei, Phys.Rep. 315 (1999) 231-240. doi:10.1016/S0370-1573(99)00021-6.   
+[197] X. T. He, S.G. Zhou, J. Meng, E.G. Zhao, W. Scheid, Test of spin symmetry in anti-nucleon spectra, Eur. Phys. J.A 28 (2006) 265-269. doi:10.1140/epja/i2006-10066-0.   
+[198] H. Liang， W. H. Long， J. Meng， N. Van Giai， Spin symmetry in Dirac negative-energy spectrum in density-dependent relativistic Hartree-Fock theory，Eur. Phys.J. A 44 (2010)119-124. doi:10.1140/epja/i2010-10938-6.   
+[199]I. N. Mishustin, L. M. Satarov, T. J. Bürvenich,H. Stocker, W. Greiner, Antibaryons bound in nuclei， Phys. Rev. C 71 (2005） 035201. doi:10.1103/PhysRevC.71.035201.   
+[200] C.-Y. Song， J.-M. Yao， J. Meng， Spin symmetry for anti-Lambda spectrum in atomic nucleus，Chin. Phys.Lett. 26 (2009） 122102. doi:10.1088/0256-307X/26/12/122102.   
+[201] C.-Y. Song, J.-M. Yao, Polarization effect on the spin symmetry for antiLambda spectrum in $^ { 1 6 } \mathrm { O } + \bar { \Lambda }$ system, Chin. Phys. C 34 (2010) 1425-1427. doi:10.1088/1674-1137/34/9/061.   
+[202] C.-Y. Song, J.-M. Yao, J. Meng, Tensor coupling effects on spin symmetry in the anti-Lambda spectrum of hypernuclei, Chin. Phys.Lett. 28 (2011) 092101. doi:10.1088/0256-307X/28/9/092101.
+
+[203]J. Dobaczewski， H. Flocard， J. Treiner, Hartree-Fock-Bogolyubov description of nuclei near the neutron-drip line, Nucl. Phys. A 422 (1984) 103-139. doi:10.1016/0375-9474(84)90433-0.
+
+[204] J. Dobaczewski, W. Nazarewicz, T.R. Werner, J.F. Berger, C.R. Chinn, J. Dechargé,Mean-field description of ground-state properties of drip-line nuclei: Pairing and continuum effects, Phys. Rev. C 53 (1996) 2809-2840. doi:10.1103/PhysRevC.53.2809.
+
+[205]J. Meng， P. Ring， Relativistic Hartree-Bogoliubov descriptionof the neutron halo in $^ { 1 1 } \mathrm { { L i } }$ ，Phys.Rev.Lett. 77(1996）3963-3966. doi:10.1103/PhysRevLett.77.3963.
+
+[206] J. Meng,P.Ring, Giant halo at the neutron drip line,Phys. Rev. Lett. 80 (1998) 460-463. doi:10.1103/PhysRevLett .80.460.
+
+[207] J.Meng, Relativistic continuum Hartree-Bogoliubov theory with both zero range and finite range Gogny force and their application,Nucl. Phys.A 635 (1998)3-42. doi:10.1016/S0375-9474(98)00178-X.
+
+[208]J. Meng，H. Toki， J. Y. Zeng，S. Q. Zhang， S.-G. Zhou,Giant halo at the neutron drip line in Ca isotopes in relativistic continuum Hartree-Bogoliubov theory， Phys.Rev. C 65 (2002） O41302(R). doi:10.1103/PhysRevC.65.041302.
+
+[209]J.Meng，Z. Niu,H.Liang，B.Sun，Selected issues at the interface between nuclear physics and astrophysics as well as the standard model，Sci. China-Phys.Mech.Astron. 54（Suppl.1） (2011） 119-123. doi:10.1007/s11433-011-4439-1.
+
+[210] W.Poschl,D. Vretenar, G.A. Lalazissis,P.Ring，Relativistic HartreeBogoliubov theory with finite range pairing forces in coordinate space: Neutron halo in light nuclei， Phys.Rev. Lett. 79(1997） 3841-3844. doi:10.1103/PhysRevLett .79.3841.   
+[211]Y. Zhang，M. Matsuo,J. Meng，Persistent contribution of unbound quasiparticles to the pair correlation in the continuum SkyrmeHartree-Fock-Bogoliubov approach，Phys. Rev. C 83（2011） 054301. doi:10.1103/PhysRevC.83.054301.   
+[212] Y. Zhang，M. Matsuo,J. Meng， Pair correlation of giant halo nuclei in continuum Skyrme-Hartree-Fock-Bogoliubov theory, Phys. Rev. C 86 (2012) 054318. doi:10.1103/PhysRevC.86.054318.   
+[213] J. C. Pei, M. V. Stoitsov, G. I. Fann, W. Nazarewicz, N. Schunck, F. R. Xu, Deformed coordinate-space Hartree-Fock-Bogoliubov approach to weakly bound nuclei and large deformations,Phys.Rev. C 78 (2008) 064306. doi:10.1103/PhysRevC.78.064306.   
+[214] J. C. Pei, A. T. Kruppa, W. Nazarewicz, Quasiparticle continuum and resonances in the Hartree-Fock-Bogoliubov theory, Phys. Rev. C 84 (2011) 024311. doi:10.1103/PhysRevC.84.024311.   
+[215]J. C. Pei, Y. N. Zhang,F. R. Xu, Evolution of surface deformations of weakly bound nuclei in the continuum,Phys. Rev. C 87 (2013) O51302(R). doi:10.1103/PhysRevC.87.051302.   
+[216] J. He,J. Hu, S. Xu,Z. Chen, X. Zhang,J. Wang,X. Yu,L. Zhang, L. Li,Y. Yang, P. Ma, X. Zhang, Z. Hu, Z. Guo, X. Xu, X. Yuan,
+
+W. Lu, Y. Yu, Y. Zang, S. Tang, R. Ye, J. Chen, S. Jin, C. Du, S. Wang, J. Ma, L. Liu, Z. Bai, X. Lei, Z. Sun, Y. Zhang, X. Zhou, H. Xu, J. Su, E. Li, H. Wang，W. Tian， X. Li， Study of proton resonances in $^ { 1 8 } \mathrm { N e }$ via resonant elastic scattering of $^ { 1 7 } \mathrm { F } { + } p$ and its astrophysical implication, Sci. China-Phys. Mech.Astron. 54(Suppl.1) (2011) 32-36. doi:10.1007/s11433-011-4407-9.
+
+[217] C. Lin, X. Xu, H. Jia, F. Yang, F. Jia, Z. Wu, S. Zhang, Z. Liu, H. Zhang, H. Xu, Z. Sun, J. Wang, Z. Hu, M. Wang,R. Chen,X. Zhang,C. Li, X.Lei, Z. Xu, G. Xiao, W. Zhan, Experimental research into the two-proton emissions from $^ { 1 7 , 1 8 } \mathrm { N e }$ $^ { 2 8 } \mathrm { P }$ and $^ { 2 8 , 2 9 } \mathrm { S }$ ， Sci. China-Phys. Mech. Astron. 54 (Suppl.1) (2011) 73-80. doi:10.1007/s11433-011-4431-9.
+
+[218] L. Lü, Y. Ye, D. Jiang,H. Hua, T. Zheng, Z. Li, Y. Ge, X. Li, J. Lou, Z. Cao, Y. Song, J. Xiao, Q. Li, R. Qiao, H. You, R. Chen, H. Xu, J. Wang, Z. Guo, X. Zhang, C. Li, Z. Hu, R. Chen, M. Wang, Z. Xu, K. Yue, B. Tang, Y. Zang, X. Zhang, X. Yao, J. Chen, Z. Bai, Knockout reaction mechanism studied by $^ { 6 } \mathrm { H e }$ projectile, Sci. China-Phys. Mech. Astron. 54(Suppl. 1) (2011) 136-140. doi:10.1007/s11433-011-4418-6.
+
+[219] V. I. Kukulin, V. M. Krasnopol'sky, J. Horácek, Theory of Resonances: Principles and Applications,Kluwer Academic, Dordrecht, 1989.
+
+[220] S.-C. Yang， J. Meng， S.-G. Zhou， Exploration of unbound states by analytical continuation in the coupling constant method within relativistic mean field theory，Chin.Phys.Lett. 18 (2001） 196-198. doi:10.1088/0256-307X/18/2/314.
+
+[221] S. S. Zhang，J. Meng， S. G. Zhou，G.C. Hillhouse， Analytic continuation of single-particle resonance energy and wave function in relativistic mean field theory，Phys. Rev. C 7O (2004） 034308. doi:10.1103/PhysRevC.70.034308.   
+[222] S. S. Zhang,W. Zhang, S.G. Zhou, J. Meng,Relativistic wave functions for single-proton resonant states，Eur. Phys. J. A 32 (2007） 43-49. doi:10.1140/epja/i2006-10299-9.   
+[223] S. S. Zhang, Pairing correlations with resonant continuum effect in the RMF $+$ ACCC $^ +$ BCS approach, Int.J. Mod. Phys.E 18(2009) 1761-1772. doi :10.1142/S0218301309013828.   
+[224] S.-S. Zhang,M. S. Smith, G. Arbanas, R. L. Kozub, Structures of exotic 131,133Sn isotopes and effect onr-procesnucleosynthesis,Phys. Rev.C86 (2012) 032802(R). doi : 10.1103/PhysRevC.86.032802.   
+[225] S.-S. Zhang, X.-D. Xu, J.-P. Peng,Hints of giant halo in $Z \mathbf { r }$ isotopes by resonant RMF $^ +$ ACCC $+$ BCS approach, Eur. Phys. J.A 48(2012） 40. doi:10.1140/epja/i2012-12040-7.   
+[226] L. Zhang，S.-G. Zhou, J. Meng,E.-G. Zhao,Real stabilization method for single particle resonances,Acta Phys. Sinica 56 (2007) 3839-3844. doi:10.7498/aps.56.3839.   
+[227] L. Zhang，S.-G. Zhou, J. Meng,E.-G. Zhao,Real stabilization method for nuclear single-particle resonances,Phys.Rev. C 77 (2O08) 014312. doi:10.1103/PhysRevC.77.014312.   
+[228] S.-G. Zhou, J.Meng,E.-G. Zhao,A spherical-box approach for resonances in the presence of the Coulomb interaction, J.Phys. B: At. Mol. Opt. Phys. 42 (2009) 245001. doi:10.1088/0953-4075/42/24/245001.   
+[229] H. Mei, J. M. Yao, H. Chen, Single-particle resonance states of $^ { 1 2 2 } \mathrm { Z r }$ in relativistic mean-field theory combined with real stabilization method, Chin. Phys. C 33(S1) (2009) 101-104. doi:10.1088/1674-1137/33/S1/033.   
+[230] Z.-Z. Zhang， Relativistic description of single-particle resonances viaphase shift analysis， Chin. Phys. C 33(2009) 187-190. doi:10.1088/1674-1137/33/3/005.   
+[231] Z.-Z. Zhang，H. Lin， Y.-M. Mi， Single-particle resonances in Ca isotopes， Mod. Phys. Lett. A 25(2010) 727-735. doi:10.1142/S0217732310032019.   
+[232] J.-Y. Guo, X.-Z. Fang,P. Jiao, J. Wang, B.-M. Yao,Application of the complex scaling method in relativistic mean-field theory,Phys. Rev. C 82 (2010) 034318. doi:10.1103/PhysRevC.82.034318.   
+[233] J.-Y. Guo，J. Wang，B.-M. Yao，P. Jiao，The relativistic development of basis expansion method with complex scaling for the description of bound and resonant states，Int. J. Mod. Phys.E 19(201O) 1357-1370. doi:10.1142/S0218301310015795.   
+[234] J.-Y. Guo, M. Yu, J. Wang, B.-M. Yao, P. Jiao, A relativistic extension of the complex scaling method using oscillator basis functions, Comput. Phys. Commun. 181 (2010) 550-556. doi:10.1016/j.cpc.2009.11.003.   
+[235] Q. Liu, J.-Y. Guo, Z.-M. Niu, S.-W. Chen, Resonant states of deformed nuclei in the complex scaling method, Phys. Rev. C 86 (2012) 054312. doi:10.1103/PhysRevC.86.054312.   
+[236] K. Hagino，N. Van Giai， Structure of positive energy states in a deformed mean-field potential， Nucl. Phys. A 735 (2004) 55-76. doi:10.1016/j.nuclphysa.2004.02.002.   
+[237] Z. P. Li, J. Meng, Y. Zhang, S. G. Zhou, L. N. Savushkin, Single-particle resonances in a deformed Dirac equation,Phys. Rev. C 81 (201O) 034311. doi:10.1103/PhysRevC.81.034311.   
+[238] Z.-P. Li, Y. Zhang,D. Vretenar, J. Meng, Single-particle resonances in a deformed relativistic potential, Sci. China-Phys. Mech. Astron. 53 (2010) 773-778. doi:10.1007/s11433-010-0161-7.   
+[239] D. Fedorov,A. Jensen, M. Thogersen,E. Garrido,R. de Diego, Calculating few-body resonances using an oscillator trap, Few-Body Syst. 45 (2009) 191-195. doi:10.1007/s00601-009-0043-6.   
+[240] F. M. Fernandez, Accurate calculation of resonances for a centralfield model potential， Appl. Math. Comput. 218 (2012） 5961-5965. doi:10.1016/j.amc.2011.11.063.   
+[241] J.-Y. Guo， R.-D. Wang， X.-Z. Fang， Pseudospin symmetry in the resonant states of nuclei， Phys. Rev. C 72 (2005） 054319. doi:10.1103/PhysRevC.72.054319.   
+[242]J. Y. Guo， X. Z. Fang， Isospin dependence of pseudospin symmetry in nuclear resonant states，Phys. Rev. C 74 (2006) 024320. doi:10.1103/PhysRevC.74.024320.   
+[243]Q. Liu， Z.-M. Niu, J.-Y. Guo， Resonant states and pseudospin symmetry in the Dirac-Morse potential, Phys.Rev. A 87 (2013) 052122. doi :10.1103/PhysRevA.87.052122.   
+[244] S.-S. Zhang, W. Zhang, B.-H. Sun, J.-Y. Guo, S.-G. Zhou, Does pseudospin symmetry exist in the continuum?, High Energy Phys. Nucl. Phys. 30(S2) (2006) 97-99.   
+[245] S.-S. Zhang， B.-H. Sun， S.-G. Zhou， Exploration of pseudospin symmetry in the resonant states,Chin. Phys.Lett. 24(2007) 1199-1202. doi:10.1088/0256-307X/24/5/020.   
+[246] Q. Xu, J.-Y. Guo, Spin symmetry in the resonant states of nuclei, Int. J. Mod.Phys.E 21(2012) 1250096. doi: 10.1142/S0218301312500966.   
+[247] B.-N. Lu， E.-G. Zhao, S.-G. Zhou, Pseudospin symmetry in singleparticle resonant states， Phys. Rev. Lett. 109 (2012） 072501. doi:10.1103/PhysRevLett.109.072501.   
+[248] B.-N. Lu,E.-G. Zhao, S.-G. Zhou, Exact conservation and breaking of pseudospin symmetry in single particle resonant states,AIP Conf. Proc. 1533 (2013) 63-69. doi: 10.1063/1.4806778.   
+[249] B.-N. Lu, E.-G. Zhao, S.-G. Zhou, Pseudospin symmetry in single-particle resonances in spherical square wells， Phys. Rev. C 88 (2013) 024323. doi:10.1103/PhysRevC.88.024323.   
+[250] H. Liang，P. Zhao，Y. Zhang，J.Meng，N. Van Giai，Perturbative interpretation of relativistic symmetries in nuclei, Phys.Rev. C 83 (2011) 041301(R). doi : 10.1103/PhysRevC.83.041301.   
+[251] F.-Q. Li, P.-W. Zhao, H.-Z. Liang， Perturbative pseudospin symmetry limit with linear spin-orbit potential, Chin. Phys. C 35 (2011） 825-828. doi:10.1088/1674-1137/35/9/007.   
+[252]F.Cooper,A.Khare，U.Sukhatme, Supersymmetryand quantummechanics, Phys. Rep. 251 (1995) 267-385. doi: 10.1016/0370-1573(94)00080-M.   
+[253] F. Cooper， A. Khare，U. Sukhatme, Supersymmetry in Quantum Mechanics,World Scientific, Singapore, 2001.   
+[254] A.Leviatan,Supersymmetricpattrnsinthepseudospin, spin， and Coulomb limits of the Dirac equation with scalar and vectorpotentials，Phys. Rev. Lett. 92 (2004）202501. doi:10.1103/PhysRevLett.92.202501.   
+[255] S. Typel， Pseudospin，supersymmetryand theshell structure ofatomicnuclei，Nucl. Phys.A806 (2008) 156-178. doi:10.1016/j.nuclphysa.2008.03.018.   
+[256] A. Leviatan, Symmetries and supersymmetries of the Dirac Hamiltonian with axially deformed scalar and vector potentials, Phys.Rev. Lett. 103 (2009)042502. doi:10.1103/PhysRevLett .103.042502.   
+[257] R.L. Hall, O. Yesiltas,Supersymmetric analysis for the Dirac equation with spin-symmetric and pseudo-spin-symmetric interactions, Int. J. Mod.   
+Phys.E19(2010) 1923-1934. doi:10.1142/S0218301310016417.
+
+[258] S. Zarrinkamar, A. A. Rajabi,H. Hassanabadi, Dirac equation for the harmonic scalar and vector potentials and linear plus Coulomb-like tensor potential; the SUSY approach,Ann. Phys. (NY) 325 (2010) 2522-2528. doi:10.1016/j.a0p.2010.05.013.
+
+[259] A.D.Alhaidari, Generalized spin and pseudo-spin symmetry: Relativistic extension of supersymmetric quantum mechanics,Phys.Lett.B 699 (2011) 309-313. doi:10.1016/j.physletb.2011.04.019.
+
+[260] S. Zarrinkamar, H. Hassanabadi,A. A. Rajabi, Dirac equation for a Coulomb scalar， vector and tensor interaction， Int. J.Mod. Phys.A 26 (2011) 1011-1018. doi:10.1142/S0217751X11051287.
+
+[261] S. Zarrinkamar, A. A. Rajabi， H. Hassanabadi， Supersymmetric study of the pseudospin symmetry limit of the Dirac equation fora pseudoharmonic potential， Phys. Scr. 83 (2011） 015009. doi:10.1088/0031-8949/83/01/015009.
+
+[262]J.-Y. Guo， Exploration ofrelativistic symmetry by the similarityrenormalization group， Phys. Rev. C 85 (2012） 021302(R). doi:10.1103/PhysRevC.85.021302.
+
+[263] D.-P. Li, S.-W. Chen， J.-Y. Guo，Further investigation of relativistic symmetry with the similarity renormalization group，Phys. Rev. C 87 (2013) 044311. doi:10.1103/PhysRevC.87.044311.
+
+[264] J.-Y. Guo, S.-W. Chen, Z.-M. Niu, D.-P.Li, Q.Liu, Probing the symmetries of the Dirac Hamiltonian with axially deformed scalar and vector potentials by similarity renormalization group, Phys. Rev. Lett. 112 (2014) 062502. doi:10.1103/PhysRevLett.112.062502.   
+[265] S.D. Glazek,K.G.Wilson, Renormalization of Hamiltonians,Phys. Rev. D 48(1993) 5863-5872. doi:10.1103/PhysRevD.48.5863.   
+[266] S.D.Glazek，K.G.Wilson，Perturbativerenormalization group for Hamiltonians， Phys. Rev. D 49 (1994） 4214-4218. doi:10.1103/PhysRevD.49.4214.   
+[267] F. Wegner,Flow-equations for Hamiltonians,Ann. Phys.(Berlin） 506 (1994) 77-91. doi:10.1002/andp.19945060203.   
+[268] A. B.Bylev,H. J. Pirner, Hamiltonian flow equations for a Dirac particle in an external potential，Phys. Lett. B 428 (1998) 329-333. doi :10.1016/S0370-2693(98)00417-1.   
+[269] F. J. Wegner, Flow equations for Hamiltonians,Phys.Rep. 348 (2001) 77- 89. doi:10.1016/S0370-1573(00)00136-8.   
+[270] H. Liang， S. Shen， P. Zhao，J. Meng，Pseudospin symmetry in supersymmetric quantum mechanics: Schrodinger equations, Phys. Rev. C 87 (2013) 014334. doi:10.1103/PhysRevC.87.014334.   
+[271] S. Shen, H. Liang, P. Zhao, S. Zhang, J. Meng, Pseudospin symmetry in supersymmetric quantum mechanics.II. spin-orbit effects,Phys.Rev. C 88 (2013)024311. doi: 10.1103/PhysRevC.88.024311.   
+[272] A.Leviatan, J. N. Ginocchio, Consequences of a relativistic pseudospin symmetry for radial nodes and intruder levels in nuclei, Phys. Lett. B 518 (2001) 214-220. doi:10.1016/S0370-2693(01)01039-5.   
+[273] P.Alberto,A. S. de Castro,M. Malheiro, Spin and pseudospin symmetries of the Dirac equation with confining central potentials, Phys. Rev. C 87 (2013) 031301(R). doi: 10.1103/PhysRevC.87.031301.   
+[274] D. A. Varshalovich, A. N. Moskalev, V. K. Khersonski, Quantum theory of angular momentum, World Scientific, Singapore, 1988.   
+[275] Y. Zhang,H.-Z. Liang, J. Meng,Avoid the tsunami of the Dirac sea in the imaginary time step method, Int. J. Mod. Phys.E 19 (2010) 55-62. doi:10.1142/S0218301310014637.   
+[276] Y. Zhang,H. Z. Liang,J. Meng, First attempt to overcome the disaster of Dirac sea in imaginary time step method, Chin. Phys. C 33(S1) (2009) 113-115. doi:10.1088/1674-1137/33/S1/036.   
+[277] Y. Zhang,H.-Z. Liang, J. Meng, Solving the Dirac equation with nonlocal potential by imaginary time step method, Chin. Phys. Lett. 26 (2009) 092401. doi:10.1088/0256-307X/26/9/092401.   
+[278] F.-Q. Li, Y. Zhang, H.-Z. Liang, J. Meng, Optimization of the imaginary time step evolution for the Dirac equation, Sci. China-Phys. Mech. Astron. 54 (2011) 231-235. doi:10.1007/s11433-010-4216-6.   
+[279] A. F. Nikiforov, V. B. Uvarov, Special Functions of Mathematical Physics, Birkhauser, Basel, 1988.   
+[280] H. Ciftci， R. L. Hall， N. Saad， Asymptotic iteration method for eigenvalue problems,J. Phys.A:Math. Gen.36(2003)11807-11816. doi:10.1088/0305-4470/36/47/008.   
+[281] Z.-Q. Ma, B.-W. Xu, Quantum correction in exact quantization rules, Europhys.Lett. 69 (2005) 685-691. doi : 10.1209/epl/i2004-10418-8.   
+[282] C.L. Pekeris, The rotation-vibration coupling in diatomic molecules, Phys. Rev. 45 (1934) 98-103. doi:10.1103/PhysRev.45.98.   
+[283]P. M Morse， Diatomicmoleculesaccordingtothe wave mechanics. II. vibrational levels， Phys. Rev. 34 (1929) 57-64. doi:10.1103/PhysRev.34.57.   
+[284] C. Berkdemir, Application of the Nikiforov-Uvarov method in quantum mechanics,in: M. R.Pahlavani (Ed.),Theoretical Concepts of Quantum Mechanics,InTech, Rijeka, 2012, Ch.11. doi : 10.5772/2075.   
+[285] B. D. Serot, J. D. Walecka, The relativistic nuclear many-body problem, Adv. Nucl. Phys. 16 (1986) 1-327.   
+[286]J. Boguta, A. R. Bodmer, Relativistic calculation of nuclear matter and the nuclear surface， Nucl. Phys. A 292 (1977） 413-428. doi :10.1016/0375-9474(77)90626-1.   
+[287] M. M. Sharma, M. A. Nagarajan, P. Ring,Rho meson coupling in the relativistic mean field theory and description of exotic nuclei, Phys.Lett. B 312 (1993) 377-381. doi:10.1016/0370-2693(93)90970-S.   
+[288] Y. Sugahara, H. Toki, Relativistic mean-field theory for unstable nuclei with non-linear $\sigma$ and $\omega$ terms，Nucl. Phys. A 579 (1994) 557-572. doi:10.1016/0375-9474(94)90923-7.   
+[289] G. A. Lalazissis, J. Konig, P. Ring, New parametrization for the Lagrangian density of relativistic mean field theory, Phys. Rev. C 55 (1997) 540-543. doi:10.1103/PhysRevC.55.540.   
+[290] W. Long, J. Meng,N. Van Giai, S.-G. Zhou, New effective interactions in relativistic mean field theory with nonlinear terms and densitydependent meson-nucleon coupling，Phys.Rev. C 69 (2004） 034319. doi :10.1103/PhysRevC.69.034319.   
+[291] S. Typel, H. H. Wolter, Relativistic mean field calculations with densitydependent meson-nucleon coupling, Nucl. Phys. A 656 (1999) 331-364. doi :10.1016/S0375-9474(99)00310-3.   
+[292] T. Niksic,D. Vretenar, P.Finelli, P. Ring,Relativistic Hartree-Bogoliubov model with density-dependent meson-nucleon couplings, Phys. Rev. C 66 (2002) 024306. doi :10.1103/PhysRevC.66.024306.   
+[293] G. A.Lalazissis, T. Niksic,D. Vretenar, P. Ring,New relativistic meanfield interaction with density-dependent meson-nucleon couplings,Phys. Rev. C 71 (2005) 024312. doi:10.1103/PhysRevC.71.024312.   
+[294] B.A. Nikolaus, T. Hoch, D.G. Madland, Nuclear ground state properties in a relativistic point coupling model, Phys. Rev. C 46 (1992) 1757-1781. doi:10.1103/PhysRevC.46.1757.   
+[295] T. Büirvenich， D. G. Madland, J. A. Maruhn， P. G. Reinhard, Nuclear ground state observables and QCD scaling in a refined relativistic point coupling model， Phys. Rev. C 65 (2002） 044308. doi:10.1103/PhysRevC.65.044308.   
+[296] T. Niksic,D. Vretenar，P. Ring，Relativistic nuclear energy density functionals: Adjusting parameters to binding energies, Phys. Rev. C 78 (2008) 034318. doi:10.1103/PhysRevC.78.034318.   
+[297] P. W. Zhao, Z. P. Li, J. M. Yao, J. Meng, New parametrization for the nuclear covariant energy density functional with a point-coupling interaction, Phys. Rev. C 82 (2010) 054319. doi:10.1103/PhysRevC.82.054319.   
+[298] P. W. Zhao, J. Peng, H. Z. Liang, P. Ring, J. Meng, Antimagnetic rotation band in nuclei: A microscopic description,Phys.Rev. Lett. 1O7 (2011) 122501. doi:10.1103/PhysRevLett.107.122501.   
+[299] J. L. Friar, D. G. Madland, B. W. Lynn, QCD scales in finite nuclei, Phys. Rev. C 53(1996) 3085-3087. doi:10.1103/PhysRevC.53.3085.   
+[300] A．Manohar,H.Georgi，Chiralquarksand the nonrelativistic quark model， Nucl． Phys.B 234(1984） 189-212. doi:10.1016/0550-3213(84)90231-1.   
+[301]H. Liang,P. Zhao,P. Ring,X. Roca-Maza, J. Meng,Localized form of Fock terms in nuclear covariant density functional theory, Phys. Rev. C 86 (2012) 021302(R). doi: 10.1103/PhysRevC.86.021302.   
+[302] A. Sulaksono,T.Bürvenich, J.A. Maruhn,P.G.Reinhard, W. Greiner, The nonrelativistic limit of the relativistic point coupling model,Ann. Phys.   
+(NY) 308 (2003)354-370. doi:10.1016/S0003-4916(03)00146-5.
+
+[303] H. Liang， P. Zhao， L. Li， J. Meng， Spin-orbit and orbit-orbit strengths for the radioactive neutron-rich doubly magic nucleus $^ { 1 3 2 } \mathrm { S n }$ in relativistic mean-field theory， Phys.Rev. C 83 (2011） O11302(R). doi:10.1103/PhysRevC.83.011302.
+
+[304]J. N. Ginocchio， A. Leviatan， On the relativistic foundationsofpseudospin symmetry in nuclei， Phys. Lett. B 425 (1998) 1-5.doi:10.1016/S0370-2693(98)00188-9.
+
+[305] J. Meng,I. Tanihata, The surface diffuseness and the spin-orbital splitting in relativistic continuum Hartree-Bogoliubov theory, Nucl. Phys.A 650 (1999) 176-196. doi:10.1016/S0375-9474(99)00104-9.
+
+[306] W.-H. Long,H. Sagawa, J. Meng, N. Van Giai, Evolution of nuclear shell structure due to the pion exchange potential, Europhys. Lett. 82 (2008) 12001. doi:10.1209/0295-5075/82/12001.
+
+[307] B. Y. Sun, W. H. Long, J. Meng, U. Lombardo, Neutron star properties in density-dependent relativistic Hartree-Fock theory, Phys. Rev. C 78 (2008) 065805. doi:10.1103/PhysRevC.78.065805.
+
+[308]J.-P. Ebran, E. Khan,D. Pefa Arteaga,D. Vretenar, Relativistic HartreeFock-Bogoliubov model for deformed nuclei， Phys. Rev. C 83 (2011) 064323. doi:10.1103/PhysRevC.83.064323.
+
+[309] H. Liang，N. Van Giai， J. Meng， Spin-isospin resonances:A selfconsistent covariant description，Phys. Rev. Lett. 101 (2008） 122502. doi:10.1103/PhysRevLett.101.122502.   
+[310]H. Liang， P. Zhao， J. Meng，Fine structure of charge-exchange spin-dipole excitationsin $^ { 1 6 } \mathrm { O }$ ，Phys.Rev.C 85(2012）064302. doi :10.1103/PhysRevC.85.064302.   
+[311] H.-Q. Gu，H. Liang，W. H. Long，N. Van Giai，J. Meng，Slater approximation for Coulomb exchange effects in nuclear covariant density functional theory， Phys. Rev. C 87 (2013) O41301(R). doi:10.1103/PhysRevC.87.041301.   
+[312]H. Liang， N. Van Giai， J. Meng， Isospin corrections forsuperallowed Fermi $\beta$ decay in self-consistent relativistic randomphase approximation approaches，Phys. Rev. C 79 (2009） 064316. doi:10.1103/PhysRevC.79.064316.   
+[313]I. S. Towner, J.C. Hardy,The evaluation of $V _ { u d }$ and its impact on the unitarity of the Cabibbo-obayashi-Maskawa quark-mixing matrix, Rep. Prog.Phys. 73 (2010) 046301. doi:10.1088/0034-4885/73/4/046301.   
+[314] B.S.Pudliner, V. R. Pandharipande,J. Carlson, S. C. Pieper,R. B. Wiringa, Quantum monte carlo calculations of nuclei with $A < \sim 7$ , Phys. Rev. C 56 (1997) 1720-1750. doi:10.1103/PhysRevC.56.1720.   
+[315] A. Fabrocini,F. A. de Saavedra, G. Co', P.Folgarait, Ground state of $N = Z$ doubly closed shell nuclei in correlated basis function theory,Phys.Rev. C 57(1998) 1668-1680. doi: 10.1103/PhysRevC.57.1668.   
+[316] R. B. Wiringa, V. Fiks， A. Fabrocini， Equation of state for dense nucleon matter， Phys. Rev. C 38 (1988) 1010-1037. doi:10.1103/PhysRevC.38.1010.   
+[317] T. Otsuka，R.Fujimoto，Y. Utsuno，B．A． Brown，M. Honma, T. Mizusaki， Magic numbers in exotic nuclei and spin-isospin properties of the NN interaction，Phys. Rev. Lett. 87 (2001） 082502. doi:10.1103/PhysRevLett .87.082502.   
+[318] T. Otsuka,T. Suzuki,R. Fujimoto,H. Grawe,Y.Akaishi,Evolution of nuclear shells due to the tensor force, Phys.Rev.Lett. 95(2005) 232502. doi:10.1103/PhysRevLett.95.232502.   
+[319] T. Otsuka, T. Suzuki, M. Honma, Y. Utsuno, N. Tsunoda, K. Tsukiyama, M. Hjorth-Jensen， Novel featuresofnuclear forcesand shell evolution in exotic nuclei， Phys.Rev. Lett. 104 (2010） 012501. doi:10.1103/PhysRevLett.104.012501.   
+[320] B．A.Brown，T. Duguet，T.Otsuka，D. Abe，T. Suzuki， Tensor interaction contributions to single-particle energies,Phys. Rev. C 74 (2006) 061303(R). doi:10.1103/PhysRevC.74.061303.   
+[321] D. M. Brink， F. Stancu, Evolution of nuclear shells with the Skyrme density dependent interaction， Phys. Rev. C 75 (20O7) 064311. doi:10.1103/PhysRevC.75.064311.   
+[322] G. Colo, H. Sagawa, S. Fracasso, P. F. Bortignon, Spin-orbit splitting and the tensor component of the Skyrme interaction, Phys.Lett. B 646 (2007) 227-231. doi:10.1016/j.physletb.2007.01.033.   
+[323] T. Lesinski, M. Bender, K. Bennaceur, T. Duguet, J. Meyer, Tensor part of the Skyrme energy density functional: Spherical nuclei, Phys. Rev. C 76 (2007)014312. doi:10.1103/PhysRevC.76.014312.   
+[324] M. Grasso，M. Anguiano， Tensor parameters in Skyrme and Gogny effective interactions: Trends from a ground-state-focused study,Phys.Rev. C88(2013) 054328. doi:10.1103/PhysRevC.88.054328.   
+[325] T. Otsuka， T. Matsuo，D. Abe，Mean field with tensor force and shell structure of exotic nuclei，Phys.Rev. Lett. 97 (2O06) 162501. doi:10.1103/PhysRevLett.97.162501.   
+[326] M. Anguiano,M. Grasso,G.Co’,V. De Donno,A. M.Lallena, Tensor and tensor-isospin terms in the effective Gogny interaction,Phys.Rev. C 86 (2012) 054302. doi:10.1103/PhysRevC.86.054302.   
+[327] H. Sagawa, G. Colo, Tensor interaction in mean-field and density functional theory approaches to nuclear structure, Prog. Part. Nucl. Phys.76 (2014) 76-115. doi:10.1016/j.ppnp.2014.01.006.   
+[328] R. J. Furnstahl, J. J. Rusnak,B.D. Serot, The nuclear spin-orbit force in chiral effective field theories,Nucl. Phys. A 632(1998） 607-623. doi :10.1016/S0375-9474(98)00004-9.   
+[329]G. Mao， Effect oftensorcouplingsin a relativistic Hartree approach for finite nuclei， Phys. Rev. C 67 (2003） 044318. doi:10.1103/PhysRevC.67.044318.   
+[330] A.-M. Oros， Study of the coupling between collective and singleparticle excitation modes in medium heavy spherical nuclei, Ph.D. thesis, University of Koln (1996).   
+[331] L.-S. Geng,J. Meng, H. Toki, W.-H. Long, G. Shen, Spurious shell closures in the relativistic mean field model, Chin. Phys.Lett. 23 (2006) 1139-1141. doi :10.1088/0256-307X/23/5/021.   
+[332] N. Michel,W. Nazarewicz,M. Ploszajczak, T. Vertse, Shell model in the complex energy plane,J. Phys.G: Nucl. Part.Phys.36(2009) 013101. doi:10.1088/0954-3899/36/1/013101.   
+[333] V. I. Kukulin, V. M. Krasnopol'sky, Description of few-body systems via analytical continuation in coupling constant, J. Phys.A: Math. Gen. 10 (1977) L33-L37. doi:10.1088/0305-4470/10/2/002.   
+[334]V. I. Kukulin，V. M. Krasnopol'sky，M. Miselkhi，Method of analytic continuation in the coupling-constant in the theory of systems of several particles — resonance state as analytic continuation of a bound-state, Sov. J. Nucl. Phys. 29 (1979) 421.   
+[335]J.R. Taylor, Scattering Theory: The Quantum Theory on Non-relativistic Collisions, John-Wiley & Sons, Inc., New York, 1972.   
+[336]G. B. Smith， L. J. Tassie， Excited states of mesons and the quark-antiquark interaction， Ann. Phys. (NY） 65 (1971） 352-360. doi:10.1016/0003-4916(71)90172-2.   
+[337] P. R. Page，T. Goldman，J. N. Ginocchio，Relativistic symmetry suppresses quark spin-orbit splitting, Phys. Rev. Lett. 86(2001) 204-207.   
+doi:10.1103/PhysRevLett.86.204.
+
+[338] H. F. Lu, J. Meng, S. Q. Zhang, S. G. Zhou, Neutron halos in hypernuclei, Eur. Phys.J.A 17 (2003) 19-24. doi:10.1140/epja/i2002-10136-3.
+
+[339] B.-N.Lu, E.-G. Zhao, S.-G. Zhou, Quadrupole deformation $( \beta , \gamma )$ of light $\Lambda$ hypernuclei in a constrained relativistic mean field model: Shape evolution and shape polarization effect of the Λ hyperon,Phys.Rev. C 84 (2011) 014328. doi:10.1103/PhysRevC.84.014328.
+
+[340] T. Bürvenich,I. N. Mishustin, L. M. Satarov, J. A. Maruhn, H. Stoker, W. Greiner， Enhanced binding and cold compression of nuclei due to admixture of antibaryons， Phys. Lett. B 542 (2002) 261-267. doi:10.1016/S0370-2693(02)02351-1.
+
+[341] J.V.Noble, Nuclear Dirac phenomenology and the Λ- nucleus potential, Phys. Lett. B 89 (1980) 325-326. doi:10.1016/0370-2693(80)90134-3.
+
+[342] B.K. Jennings, The Dirac equation and $\Lambda$ -nucleus systematics,Phys. Lett. B 246(1990) 325-328. doi:10.1016/0370-2693(90)90607-8.
+
+[343] M. Chiapparini,A. O. Gattone,B.K. Jennings,Dirac phenomonologyand the Λ-nucleus potential， Nucl. Phys. A 529 (1991） 589-597.doi:10.1016/0375-9474(91)90586-U.
+
+[344]J.-M. Yao,H.-F.Lu, G. Hillhouse, J. Meng, Core polarization and tensor coupling effects on magnetic moments of hypernuclei, Chin. Phys. Lett. 25 (2008) 1629-1632. doi:10.1088/0256-307X/25/5/029.
+
+[345] C. Y. Song, J. M. Yao, H. F. Lu, J. Meng, Lambda and anti-Lambda hypernuclei in relativistic mean-field theory, Int. J.Mod. Phys.E 19 (2010) 2538-2545. doi: 10.1142/S0218301310017058.   
+[346] X.-S. Wang， H.-Y. Sang， J.-H. Wang， H.-F. Lu, A new determination of the Lambda-nucleon coupling constants in relativistic mean field theory， Commun. Theor. Phys. 60 (2013） 479-484. doi:10.1088/0253-6102/60/4/16.   
+[347] J.Cohen，H.J. Weber，Relativistic $\sigma { - } \omega$ mean-field theory for hyperons from a quark model，Phys.Rev. C 44 (1991） 1181-1187. doi:10.1103/PhysRevC.44.1181.   
+[348] J. Mares， B. K. Jennings， Relativistic description of Λ， £, andE hypernuclei， Phys. Rev. C49 (1994） 2472-2478. doi:10.1103/PhysRevC.49.2472.   
+[349] Z.-Y. Ma, J. Speth, S. Krewald, B.-Q. Chen,A. Reuber, Hypernuclei with meson-exchange hyperon-nucleon interactions,Nucl. Phys.A 6O8 (1996) 305-315. doi:10.1016/0375-9474(96)00169-8.   
+[350] S. Ajimura, H. Hayakawa,T. Kishimoto，H. Kohri，K. Matsuoka, S.Minami, T. Mori, K. Morikubo, E. Saji， A. Sakaguchi, Y. Shimizu, M. Sumihama, R. E. Chrien，M. May，P. Pile，A. Rusek,R. Sutter, P.Eugenio,G. Franklin，P. Khaustov,K. Paschke，B.P. Quinn，R.A. Schumacher, J. Franz, T. Fukuda, H. Noumi, H. Outa, L. Gan, L. Tang, L. Yuan, H. Tamura, J. Nakano, T. Tamagawa, K. Tanida, R. Sawafta,
+
+Observation of spin-orbit splitting in $\Lambda$ single-particle states, Phys. Rev.
+
+Lett.86 (2001) 4255-4258. doi:10.1103/PhysRevLett.86.4255.   
+[351]Y. K. Gambhir， P. Ring， A. Thimet， Relativistic meanfield theory for finite nuclei， Ann. Phys.(NY） 198 (1990) 132-179. doi:10.1016/0003-4916(90)90330-Q.   
+[352] P. Ring，Y. K. Gambhir, G. A. Lalazissis,Computer program for the relativistic mean field description of the ground state properties of eveneven axially deformed nuclei, Comput. Phys. Commun. 105 (1997) 77-97. doi:10.1016/S0010-4655(97)00022-2.   
+[353] W. Greiner, Quantum Mechanics: An Introduction, third edition Edition, Springer-Verlag Berlin Heidelberg,1994.   
+[354] L. Infeld, T.E. Hull, The factorization method, Rev.Mod. Phys. 23 (1951) 21-68.doi:10.1103/RevModPhys.23.21.   
+[355] S. K. Bogner,R. J. Furnstahl, R. J. Perry，A. Schwenk, Are low-energy nuclear observables sensitive to high-energy phase shifts?,Phys.Lett. B 649 (2007) 488-493. doi:10.1016/j.physletb.2007.04.048.   
+[356] S.K.Bogner，R.J. Furnstahl，R.J.Perry，Similarity renormalization group for nucleon-nucleon interactions, Phys. Rev. C 75 (2007) 061001(R). doi:10.1103/PhysRevC.75.061001.   
+[357] E. Anderson， S. K. Bogner， R. J. Furnstahl， E. D. Jurgenson, R.J.Perry， A. Schwenk， Block diagonalization using similarity renormalization group flow equations,Phys.Rev. C 77(2Oo8） 037001. doi:10.1103/PhysRevC.77.037001.   
+[358] E. D. Jurgenson, P. Navratil, R. J. Furnstahl, Evolution of nuclear manybody forces with the similarity renormalization group,Phys. Rev. Lett. 103 (2009) 082501. doi:10.1103/PhysRevLett .103.082501.   
+[359]R. Roth， S. Binder，K. Vobig， A. Calci， J. Langhammer, P.Navratil，Medium-massnucleiwithnormal-orderedchiral $N N \ + \ 3 N$ interactions， Phys. Rev. Lett. 109 (2012） 052501. doi:10.1103/PhysRevLett.109.052501.   
+[360] R. Roth,J. Langhammer，A. Calci， S. Binder, P. Navratil， Similaritytransformed chiral $N N \ + \ 3 N$ interactions for the Ab initio description of $^ { 1 2 } \mathrm { C }$ and $^ { 1 6 } \mathrm { O }$ ，Phys. Rev. Lett.107(2011） 072501. doi:10.1103/PhysRevLett.107.072501.   
+[361] P. Navratil, R. Roth, S. Quaglioni, $A b$ initio many-body calculations of nucleon scattering on ${ ^ 4 } \mathrm { H e } , \mathrm { ^ 7 } \mathrm { L i } , \mathrm { ^ 7 B e } , \mathrm { ^ 1 }$ $^ { 1 2 } \mathrm { C }$ and $^ { 1 6 } \mathrm { O }$ ,Phys.Rev. C 82 (2010) 034609. doi: 10.1103/PhysRevC.82.034609.   
+[362]K. Tsukiyama， S.K. Bogner，A. Schwenk， In-medium similarity renormalization group for nuclei, Phys.Rev. Lett. 106 (2011） 222502. doi:10.1103/PhysRevLett.106.222502.   
+[363]K. Tsukiyama， S.K. Bogner，A. Schwenk， In-medium similarity renormalization group for open-shell nuclei， Phys. Rev. C 85 (2012) 061304(R). doi:10.1103/PhysRevC.85.061304.   
+[364] H. Hergert, S.K. Bogner, S. Binder, A. Calci, J. Langhammer, R.Roth, A. Schwenk， In-medium similarity renormalization group with chiral
+
+two- plus three-nucleon interactions,Phys. Rev. C 87 (2013) 034307.
+
+doi:10.1103/PhysRevC.87.034307.   
+[365] H. Hergert， S. Binder, A. Calci，J. Langhammer,R. Roth， Ab initio calculations of even oxygen isotopes with Chiral two-plusthree-nucleon interactions， Phys. Rev. Lett. 110 (2013） 242501. doi:10.1103/PhysRevLett.110.242501.   
+[366] S.K.Bogner, R.J. Furnstahl，A. Schwenk，From low-momentum interactions to nuclear structure,Prog. Part. Nucl. Phys. 65 (201O) 94-147. doi:10.1016/j.ppnp.2010.03.001.   
+[367] H.-W. Hammer， A. Nogga, A. Schwenk, Colloquium : Three-body forces: From cold atoms to nuclei, Rev. Mod. Phys. 85 (2013) 197-217. doi:10.1103/RevModPhys.85.197.   
+[368]W. Koepf， P. Ring， The spin-orbit field in superdeformed nuclei:a relativistic investigation， Z. Phys. A 339 (1991） 81-90. doi:10.1007/BF01282936.   
+[369] L.M. Nieto,A.A. Pecheritsin,B.F. Samsonov, Intertwining technique for the one-dimensional stationary Dirac equation,Ann. Phys. (NY) 305 (2003) 151-189. doi:10.1016/S0003-4916(03)00071-X.   
+[370] B. Mottelson， Somethemes in thestudy of very deformed rotating nuclei, Nucl. Phys. A 522 (1991) 1c-12c. doi:10.1016/0375-9474(91)90048-B.   
+[371] S. Frauendorf, J. Meng, Tilted rotation of triaxial nuclei, Nucl. Phys. A 617
+
+(1997) 131-147. doi:10.1016/S0375-9474(97)00004-3.
+
+[372]J. Meng， S.Q. Zhang， Open problems in understanding the nuclear chirality，J. Phys.G: Nucl. Part. Phys. 37(201O） O64025. doi:10.1088/0954-3899/37/6/064025.   
+[373] P. Cottle, Nuclear physics: Doubly magic tin, Nature 465 (2010) 430-431. doi:10.1038/465430a.   
+[374] E. V. Litvinova， A. V. Afanasjev, Dynamics of nuclear singleparticle structure in covariant theory of particle-vibration coupling: From light to superheavy nuclei，Phys. Rev. C 84(2011） 014305. doi:10.1103/PhysRevC.84.014305.   
+[375] Y. F. Niu,G. Colo， M. Brenna,P. F. Bortignon，J. Meng, Gamow-Teller response within Skyrme random-phase approximation plus particle-vibration coupling， Phys. Rev. C 85 (2012） 034314. doi:10.1103/PhysRevC.85.034314.   
+[376] T.D. Cohen,R. J. Furnstahl, D. K. Griegel, X. Jin, QCD sum rules and applications to nuclear physics,Prog. Part. Nucl. Phys.35(1995) 221-298. doi:10.1016/0146-6410(95)00043-I.   
+[377] R. Furnstahl， B. D. Serot， Large Lorentz scalar and vector potentialsinnuclei，Nucl. Phys.A 673(2000) 298-310. doi:10.1016/S0375-9474(00)00146-9.   
+[378] H.-W. Ke, Z. Li, J.-L. Chen, Y.-B. Ding, X.-Q. Li, Symmetry of Dirac equation and corresponding phenomenology， Int. J. Mod. Phys.A 25 (2010) 1123-1134. doi:10.1142/S0217751X1004783X.

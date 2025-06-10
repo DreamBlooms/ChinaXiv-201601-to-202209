@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "基于网络平台的群体和\\*个体的社会态度研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e2699e890b63ac1b6c6d05ece21dcf06646149553c3e8818f717cbf874fb739.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*资助项目：中科院心理所特色所建设主要服务项目（Y5CX163008）  \n\\*\\*通讯作者  \n预出版日期：2016年11月21日",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周阳1²王雪菲1.2 白朔天赵 楠朱廷劭1\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院心理研究所北京100190  \n2中国科学院大学 北京 100012  \n3 湖北经济学院 武汉 430205",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要社会态度反映了民众对社会的判断和感受，是社会治理需要高度重视的内容。文章对传统社会调查方法的优劣进行了分析，进而指出基于互联网计算社会态度在理论和现实层面的可行性。本文介绍了中科院心理所课题组基于网络行为的社会态度计算模型，并应用该模型计算了广东省的社会态度，通过广东省各个城市的“地方经济满意度”这一社会态度指标与该区域的宏观经济指标的相关性进一步验证了模型的可解释性。同时介绍了美国宾夕法尼亚大学通过Twitter数据预测公民幸福感并绘制美国的幸福感地图。利用预测模型的计算方法所采用数据真实客观，排除了社会赞许性等因素的影响，并极大地降低了成本，缩短了原有的调研周期，初步实现了社会态度的实时计算感知，对长期动态监控各项社会态度指标有极大的现实意义。希望能够与线下的社会调查法优势互补，共同为社会治理提供辅助决策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词社会态度，网络行为，社会治理 DOI 10.16418/j.issn.1000-3045.2017.02.009 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "188|2017年·第32卷·第2期",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国目前正处于社会加速转型期，社会成员逐渐形成多元的利益群体，当利益格局复杂、社会诉求多元以后，要把更多的决策交给社会去博弈，通过居民的参与来解决发展中出现的问题。为了创新有效预防和化解社会矛盾体制，顺应社会转型和经济转轨，我国从传统社会管理迈向了现代社会治理\"。社会治理是在基本政治制度与文化传承的总领下，通过结构治理、制度安排、法规约束、道德养成、文明启迪等对国家、社会和民众形成良治的整体塑造[2]。它强调政府与社会的合作共治，政府对社会的控制管理更多地让位于调控、引导、服务和整合，实现政府与公民社会的合作治理[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会治理是一种既包括政府也包括社会组织和社会成员的集体行动，而社会成员的集体行动则往往受其社会态度的影响。如果大家拥有积极正面的态度去正视社会治理中的矛盾，将有利于平稳顺利地推进社会治理；反之则可能进一步激化矛盾，阻碍社会治理的进一步发展[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中共中央十八届三中全会《关于全面深化改革若干重大问题的决定》指出社会治理须兼顾“多元”和“互动”，倡导“调和”，不使用强力或者蛮力去支配社会。当前社会利益格局复杂，社会诉求多元，只有通过互动和沟通，形成统一的社会诉求，才能与多元主体在沟通交流的基础上达成社会共识。要全面了解不同阶层的诉求，就需要及时了解公众社会态度的变化，了解不同阶层群众在生活、政府、经济等方面的社会态度，为采取正确的引导方式提供科学依据[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社会态度反映了民众对社会的判断和感受，是社会治理需要高度重视的内容。在当代社会，民众的社会态度除具有“晴雨表”的作用外，还具有社会治理参与的意义。社会态度由社会因素引起——由于人对涉及的社会事物，不管其是否符合自身物质方面或理念方面的需要，都会产生肯定或否定、赞成或反对、接近或拒绝的体验[8]；因此，个体因各种社会事物对自己的意义差异，就会形成不同方向、不同强度以及从核心到边缘地位不同的态度。社会态度通过整个社会的流行、时尚、舆论和社会成员的生活感受、未来信心、社会动机、社会情绪等得以表现；它与主流意识形态相互作用，通过社会认同、情绪感染、去个性化等机制，对社会成员形成模糊的、潜在的和情绪性的影响[9,10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据对社会态度的调查，大范围高效监测经济满意度、生活满意度、政府满意度等各项社会态度指标，能够比宏观统计数据更敏感地感知到民众社会态度的变化。利用宏观经济和社会统计数据分析当前的社会形势主要着眼于宏观的经济结构问题，而公众态度是能够比较直接反映社会问题的重要因素之一[]。如果能够客观及时了解社情民意，对公共事件、社会舆情、社会心理进行客观实时的评估[12]，及时发现社会不稳定因素，有助于为社会治理提供科学的决策依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1传统的社会调查方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前，国内对社会态度的调查研究通常通过社会调查法，分散于不同的研究课题中，全面系统性的社会调查不多见。由于社会调查涉及人员较多，难以进行访谈和观察，因此社会调查法中的问卷调查被广泛应用[3]。通过招募和培训调查员，安排其对被试进行发放和回收问卷，汇总被试的调查结果，完成对公众社会心态的调查。通过社会调查法，可以一定程度了解公众的社会态度，如生活满意度与政府满意度的关系变迁[14]，对“动物福利”的社会态度[15]，以及人群的社会态度调查[]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一个完整的调查周期包括招募调查员、开展面对面调查和调查结果的统计计算。整个过程需要在人员和时间上投入巨大开销。根据经验，一个万人规模的调查成本大约在几十万人民币的数量级。由于社会调查要求覆盖范围广，其调查周期也往往较长，一般要3一6个月，也就是说，社会调查最快也要一个季度后才可以得到计算结果，影响了时效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "欧美等发达国家和地区早已开展社会态度调查，并且由专业机构进行，社会调查的系统性得到了有效保障。美国社会研究所（Institute for SocialResearch,ISR,http://www.isr.umich.edu/）自1975年起每年监测1次“二战”后出生的青年人生活价值观和生活方式的变化。自1979年起每年对黑人的生活展开1次调查。自1989 年起对世界价值观展开调查。英国全国社会研究中心（National Center for Social Resarch, NCSR,http://www.natcen.ac.uk/）自1957年起每年对家庭支出进行1次调查，自1983年起每年对社会态度进行1次调查。这些研究机构的社会调查具有较大的覆盖范围，但其调查成本昂贵、调查周期通常在半年至一年的时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "调查法有着深厚的理论和实践基础，可以通过选择涵盖不同的群体，覆盖不同的地区，保证随机抽样的公平性和均衡性。并且调查法通过对施测人员的培训，可以有效控制调查者填答问卷的质量。但当覆盖范围广的时候，必然要增加调查员人数，增加开展大范围调查的成本，成本投入极大，时效性不高，且基于问卷调查形式的数据收集容易受到调查者社会赞许性心理的干扰。随着互联网技术的发展，我们提出通过对网络行为的研究计算实现对社会态度的自动识别，无需用户参与。该方式收集信息速度快，并且能够节省大量的资源，不受空间限制，且客观的网络行为数据可以避免赞许性心理的干扰，与传统的调查方法互相补充，共同为社会治理提供帮助。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2互联网为社会心态调查带来的新契机",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现阶段，人类社会已经进入了网络化时代，手机、计算机和互联网深入到了人们生活中的各个层面，给社会带来了极大的变化。新媒体在信息数量、信息展现方式、信息内容、信息时效等方面具有区别于旧媒体的独特优势，新媒体的迅猛发展对当下社会生活产生巨大影响。而社交网络作为新媒体的舆论场，能够反映公众的社会态度[1]。网络行为所反映的社会态度是值得重视的，它反映了社会公众关注的焦点以及关注的规律性。利用和研究这些网络行为所反映的社会态度，可以在一定程度上把握公众所思所想，为社会治理提供一些基础的依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据中国互联网络信息中心（CNNIC）报告显示，截至2015年12月，我国网民规模达6.88亿，互联网普及率为 $50 . 3 \\%$ 。在网络日益普及的今天，通过网络更易收集多样化样本，对网络行为进行研究也不会受到时间和空间的限制。社交网络作为社会态度的一种表达手段，在反映社会态度方面有其特有的及时、快速、准确、真实等优势[17]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 Brunswik[18]的“透镜模型”（lensmodel），私人的空间环境中往往蕴含着能够表征主体自身的心理特征的线索（例如，房间陈设的布置风格与个人物品的摆放方式）。借助于“行为痕迹”（behavioralresidue）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的呈现形式，这些表征主体自身的心理特征的线索得以见诸于日常生活的各种场景与情境之中（包括互联网空间）[19,20]，这意味着用户在互联网空间中的“行为痕迹”也能够反映出其自身的心理特征。大量研究探讨了用户的互联网行为与其自身的心理特征之间的关系模式，旨在为实现“人类”与“计算机”之间的最佳匹配与良性互动提供充分的依据与支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国内外已有研究对基于网络行为的心理特征进行分析，如：Gosling 等人[21]研究了Facebook用户大五人格和其网络特征的关联模式。他们设计了11个社交特征，并且得出用户的社交活跃度可以用来作为内外向的预测因子。Correa 等人[22]研究了用户的大五人格和社会网络媒体使用情况。他们通过计算被试用户的大五人格和社会网络媒体使用特征的相关性，发现开放性、内外向维度与社会网络媒体的使用呈显著正相关，而神经质则为负相关。Campbell等人[23通过在线方式，在互联网上招募188名样本，同时在线下以纸笔测试的方式招募了27名经常上网的大学本科生用户作为样本组。他们的研究表明，经常上网的用户更可能具有较强的孤独感，他们也更可能会沉迷于互联网。国内也有研究对网络社会中个体人格特征及其行为的关系进行的分析，将网络行为划分为一般性上网行为、针对不同类型网络服务功能偏好、针对某种特定网络服务内容的使用特点、偏差行为与人格测验的测量指标进行映射，从而提出利用网络行为进行人格特征预测是完全可行的[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "既往研究都表明，利用网络行为实现对用户心理特征的识别是完全可行，并且模型的预测精度达到了可接受的程度。计算模型运行的高效性，使得我们可以对大范围民众的心理特征包括社会态度进行及时地分析识别，并在此基础上提出相应的社会治理层面的对策建议，这无论是在理论层面还是在实践层面都具有积极的意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于网络行为的社会态度计算模型建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在前期研究的基础上，本文提出了基于网络行为社会态度的研究方法，主要分为3个步骤，分别为数据采集、模型训练和模型应用，流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/51c48e2d52534c20eb7232491d25627e8e4f6eeb916ad84abddc467233403935.jpg",
+        "img_caption": [
+            "图1基于网络行为的社会态度研究流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在数据采集阶段，首先对用户施测问卷，获取实际社会态度指标作为标注，通过对其网络行为的数据分析提取网络行为特征。在模型训练阶段，将网络行为特征作为自变量，个体社会态度作为因变量，通过训练机器学习算法，建立基于网络行为的个体社会态度预测模型。在模型应用过程中，通过批量获取用户网络数据并提取网络行为特征，通过社会态度预测模型计算得出公众社会态度，从而了解公众社会态度及舆论走向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据国内外利用网络行为预测心理特征的已有研究，模型建立中使用的网络特征主要有：人口统计学特征，包括年龄、性别、注册日期、受教育水平等；使用行为特征，表征用户使用微博的潜在行为模式，考察用户与其他用户的交互模式、个性化表达、隐私保护等；语言词汇特征，即用户在社会媒体上使用语言词汇的主题，从心理学、情感表达等角度进行考察。研究中使用的模型通常包括线性回归模型、神经网络模型、参数回归模型等，模型的具体效果由于数据特征的差异有所不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在李昂等人[25]的研究中，参与者的社会态度问卷得分值为模型的结果变量，参与者的行为统计量特征和文本内容特征为预测变量，分别采用线性回归、神经网络和增量多任务回归的算法进行建模，表1为模型的准确率和皮尔逊相关性系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bc161c4fe57da4ebaf6fe60459fea746ed0b304a69c2e873ae1347bbeb53ea5.jpg",
+        "table_caption": [
+            "表1不同社会态度预测模型的相关性系数和误差率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型算法</td><td>皮尔逊相关系数</td><td>误差率（%）</td></tr><tr><td>线性回归</td><td>0.11—0.25</td><td>21.50</td></tr><tr><td>神经网络</td><td>0.21—0.45</td><td>19.75</td></tr><tr><td>增量多任务回归</td><td>0.39-0.47</td><td>17.17</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过对比不同算法的性能，最优模型预测社会态度的平均正确率达 $8 2 . 8 3 \\%$ ，相关系数为0.39—0.47的中等相关，一般认为，当相关系数达0.4时，在社会或人格心理学中，相关性即可接受并具有一定的意义[26]。因此,本模型满足了大范围推广计算的前提。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，国内有基于社交网络数据预测心理健康状态、主观幸福感、人格特征、抑郁和焦虑等研究[25.27]。国外的研究者已经利用Twitter平台开展了一系列相关研究[2]，内容涉及心理幸福感、政治意向、政治选举等多个主题。美国宾夕法尼亚大学通过Twitter和Facebook的内容预测个人的幸福感，通过与生活满意度量表得到的值进行对比，相关系数达0.62，证明了预测结果的有效性[29]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国内外的实证性研究表明，通过网络及通讯平台的用户数据，对社会态度计算的可行性。通过网络数据，能够及时有效地获取民众的社会态度，这将是感知社会态度的理想途径。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4利用社会态度计算模型实现大范围高时效性的社会态度调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节通过案例探讨利用社会态度研究计算模型实现大范围高时效性社会态度调查的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1广东省微博用户社会态度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证社会态度预测模型的有效性，我们利用训练得到的社会态度预测模型，计算了广东省各个城市的“地方经济满意度”这一社会态度指标与该区域的宏观经济指标的相关系数[30]。通过设置地级市为单位，先利用训练得到的模型计算出各个城市在2012年的平均地方经济满意度的排名，再从广东省统计年鉴中查询各地市2012年的各项宏观经济指标的数值排名，计算两个排名序列的皮尔逊相关系数，结果见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/20c24340adf54f5cdb93c7bc695474969df8239736f90840816903b7b0569151.jpg",
+        "table_caption": [
+            "表22012年广东省宏观经济指标与地方经济满意度的相关系数"
+        ],
+        "table_footnote": [
+            "（ $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>经济指标</td><td>地方经济 满意度</td><td>经济指标</td><td>地方经济 满意度</td></tr><tr><td>国内生产总值</td><td>0.15</td><td>生猪年末存栏头数</td><td>0.59**</td></tr><tr><td>国内生产总值增长率</td><td>0.41</td><td>肉猪出栏头数</td><td>0.58**</td></tr><tr><td>人均生产总值</td><td>0.66**</td><td>猪肉产量</td><td>0.58**</td></tr><tr><td>农业总产值</td><td>0.58**</td><td>社会消费品零售总额</td><td>0.45*</td></tr><tr><td>粮食产量</td><td>0.45*</td><td>批发零售贸易业零售额</td><td>0.44*</td></tr><tr><td>水稻产量</td><td>0.43</td><td>在岗职工人数</td><td>0.19</td></tr><tr><td>甘蔗产量</td><td>0.39</td><td>在岗职工收入</td><td>0.09</td></tr><tr><td>花生产量</td><td>0.49*</td><td>在岗职工人均收入</td><td>0.51*</td></tr><tr><td>蔬菜产量</td><td>0.60**</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表中结果显示，地方经济满意度与多个经济指标呈显著的正相关，例如人均生产总值（ $r = 0 . 6 6$ ），农业总产值（ $r = 0 . 5 8$ ），粮食产量（ $r = 0 . 4 5$ ），花生产量（ $\\boldsymbol { r }$ $= 0 . 4 9$ ），蔬菜的产量（ $r = 0 . 6 0$ ），生猪年末存栏头数（ $r = 0 . 5 9$ ），肉猪出栏头数（ $r = 0 . 5 8$ ），猪肉产量（ $\\boldsymbol { r }$ $= 0 . 5 8$ ），社会消费品零售总额（ $r = 0 . 4 5$ ），批发零售贸易业零售额（ $r = 0 . 4 4$ ）以及在岗职工人均收入（ $r =$ 0.51）。地方经济满意度与多个经济指标的相关性，有效地验证了公众社会态度计算结果的可解释性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2美国Twitter用户幸福感地图",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "宾夕法尼亚大学Schwartz等人[31]收集了从2009年6月至2010年3月的Twitter数据，约有10亿条，并通过发送地点尽可能将数据映射到美国的各个地区。基于数据中通过LDA产生的话题词和通过LIWC（Linguistic Inqui-ry and World Count）获得的词类作为模型的输人特征,通过LASSO回归模型预测幸福感，并通过向这些地区施测的生活满意度问卷评价其效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究人员从2008年11月至2010年1月期间随机抽取了 $10 \\%$ 的数据，从2528个美国郡县中选择了1293个，约30000个话题词。将1293个郡县随机分为 $7 5 \\%$ 的训练集（970个郡县）和 $2 5 \\%$ 的测试集（323个郡县）。通过生活满意度预测值和调查结果之间的皮尔逊相关系数评价模型的预测效果。最后通过用美国地图展示各个地区基于网络行为的预测值和基于问卷测量的值进行比较，可以直观看出两者具有很大的相似性，并得出皮尔逊相关系数为0.535，证明用网络行为预测幸福感具有一定的准确性和实际意义（htp://wwbp.org/）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "广东省各地市的地方经济满意度与该区域的宏观经济指标的相关性分析，验证了公众社会态度预测模型的有效性，美国各个地区基于网络行为的幸福感计算和基于生活满意度问卷测量的结果比较，表明了基于网络行为预测幸福感的可行性。在网络化时代，网络作为能够反映社会态度的新媒体的一种形式，能够帮助我们及时有效地获取民众社会态度，是实现社会有效治理所必须予以考量的因素。换言之，社会治理需要高度重视并积极研究社交网络中所反映的社会态度[7]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "社会态度是无形的，但其对于人的行为、组织的发展、社会的运行有着不可忽视的作用。重视社会态度与网络、社会治理的关联，在社会治理层面引入社会态度的视角，对于社会治理理论和实践而言也有非常重要的意义[17]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出利用网络行为数据预测民众社会态度，数据真实客观，排除了社会赞许性等因素的影响，并极大地降低了成本，缩短了原有的调研周期，能够实现社会态度的实时计算感知，对长期动态监控各项社会态度指标有极大的现实意义。对于特定公共事件的决策处置，也可以帮助我们及时掌握社会公众在事件期间的整体反应和态度，能够服务于相关治理工作的科学推进和效果评估。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于网络行为的社会态度研究有其局限性，仍有一定数量的目标人群并没有使用网络，或者未在我们获取数据的社交网络中留下足够的网络行为。因此基于网络行为的社会态度研究并不能完全取代线下的社会调查。两者应该优势互补，取长补短，共同为社会治理发挥其参考价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社会态度的感知未来有望与突发事件检测和负面舆情事件预警相结合，从而发挥更大的作用。已有研究通过将动态查询扩展（Dynamicqueryexpansion）与参与者情绪过滤相结合的方法检测特定领域舆情事件[32]。由于社会态度对社会行为有着直接影响，如果将社会态度作为计算考察的因素之一，有望产生更优的结果。另外对负面舆情事件的预测，已有方法如将情绪分析与统计方法结合起来作为模型的特征，通过LASSO回归来预测负面舆情事件等[33]，也同样可用考虑将参与者的社会态度指标作为模型的特征之一，以提高模型的准确度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，利用机器学习与心理学研究相结合的方法，通过网络行为数据进行实时计算，可以实现对公众社会态度动态、有效地感知，进而结合社会治理的目标对公众行为的发展趋势进行有效地监测。这一技术有望成为构建和谐社会、维护长治久安、促进经济发展、缓解社会矛盾的一种有益的辅助手段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1窦玉沛.从社会管理到社会治理：理论和实践的重大创新.行政管理改革,2014,(4):20-25.  \n2 牛文元.社会治理结构的层阶优化三定则．中国科学院院刊，2015,30(1):61-70.  \n3周红云.从社会管理走向社会治理：概念，逻辑，原则与路径.团结,2014,(1):28-32.  \n4 刘福刚，许伟．论社会治理的社会心态基础.理论与改革，2014,(5): 169-172.  \n5杨和平.从社会管理走向社会治理：理念变迁与路径思考.广州社会主义学院学报,2014,(3):44-47.  \n6Sirgy MJ,Gurel-Atay E,Webb D,etal.Is materialism all thatbad? Effects on satisfaction with material life,life satisfaction,and economic motivation. Social Indicators Research,2013,110(1): 349-366.  \n7 周瑾.论群体事件中的信息传播与群体心理.科技创业月刊，2011,24(10): 111-112.  \n8 Amiel T, Sargent S L.Individual differences in Internet usagemotives. Computers in Human Behavior,2004,20(6): 711-726.  \n9 马广海.论社会心态：概念辨析及其操作化.社会科学,2008,(10): 66-73.  \n10 杨宜音.个体与宏观社会的心理关系：社会心态概念的界定.社会学研究,2006,4:117-131.  \n11 王二平.基于公众态度调查的社会预警系统.中国科学院院刊,2006,21(2): 125-131.  \n12 王林,时勘,赵杨,等.基于突发事件的微博集群行为與情感知实验.情报杂志,2013,32(5): 32-37.  \n13 李珊珊.互联网环境下社会调查方法的创新——以网络调查为例.新闻世界,2015,(4):103-104.  \n14 郑昱.生活满意度与政府满意度的关系变迁——基于 2005年—2010年某省城乡居民社会态度的调查数据.天津行政学院学报,2014,16(3):20-26.  \n15 严火其,李义波，尤晓霖,等.中国公众对“动物福利”社会态度的调查研究.南京农业大学学报：社会科学版,2013,(3):99-105.  \n16 周敏.阐释、流动、想象：风险社会下的信息流动与传播管理.北京:北京大学出版社.2014.  \n17 冯波，刘亮.微博中的社会心态与社会治理．中共杭州市委党校学报,2015,(6):014.  \n18 Brunswik E. Perception and the Representative Design of Psy-chological Experiments. Oakland, California: UC Press,1956.  \n19 Gosling S D, Ko S,Mannarelli T, et al. A room with a cue: per-sonality judgments based on offices and bedrooms. Journal ofPersonality and Social Psychology,2002,82(3): 379.  \n20 Yee N, Harrs H, Jabon M,et al.The expression of personalityin virtual worlds.Social Psychological and Personality Science,",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2011,2(1): 5-12. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21 Gosling S D,Augustine A,Vazire S,et al.Manifestations of personality in online social networks:Self-reported Facebook-related behaviors and observable profile information. Cyberpsychology,Behavior,and Social Networking,2011,14(9): 483-488.   \n22 Correa T,HinsleyA W,De Z,et al.Who interacts on the Web?: The intersection of users’personality and social media use. Computers in Human Behavior,2010,26(2): 247-253.   \n23 Campbell A J, Cumming S R, Hughes I, et al. Internet use by the socially fearful: addiction or therapy? CyberPsychology & Behavior,2006,9(1): 69-81.   \n24 朱廷劭,李昂，宁悦,等.网络社会中个体人格特征及其行为关 系.兰州大学学报（社会科学版）,2011,(5):011.   \n25 李昂，郝碧波，白朔天，等.基于网络数据分析的心理计算：针 对心理健康状态与主观幸福感.科学通报,2015,60(11):994- 1001.   \n26 Craig R J. Assessing personality and psychopathology with interviews.In: Graham JR,NaglieriJA,Eds.Handbook ofPsychology. Hoboken, NJ: Wiley,2003.487-508.   \n27 白朔天，郝碧波,李昂，等.微博用户的抑郁和焦虑预测．中国 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "科学院大学学报,2014,31(6):814-820.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28 Golbeck J,Robles C,Edmondson M, et al.Predicting personality from twitter.Paper presented at the Privacy, Security,Risk and Trust (PASSAT) and 20ll IEEE Third Inernational Conference on Social Computing(SocialCom),2011 IEEE Third International Conference on, 2011.   \n29 Schwartz HA, Sap M,Kern ML,et al. Predicting individual well-being through the language of social media. Paper presented at the Biocomputing 2016: Proceedings of the Pacific Symposium,2016   \n30 Clark A E,Kristensen N,Westergärd-Nielsen,et al. Economic satisfaction and income rank in small neighbourhoods.Journal of the European Economic Association,2009,7(2-3): 519-527.   \n31 Schwartz HA,Eichstaedt JC,Kern ML,et al. Characterizing geographic variation in well-being using tweets. Paper presented at the ICWSM, 2013.   \n32 Zhou Y,Lu T, Zhu T, et al. Environmental incidents detection from Chinese microblog based on sentiment analysis human centered computing. Springer, 2016. 849-854.   \n33 Li W, Zhou Y,Lu T,et al. Predicting mass incidents from weibo human centered computing: Springer,2016. 895-900. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Identifying Social Attitude Based on Network Behavior ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zhou Yang1,²Wang Xuefei1,²Bai Shuotian³ Zhao Nan’Zhu Tingshao' (1Institute of Psychology, Chinese Academy of Sciences,Beijing loo19o, China; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 University of Chinese Academy of Sciences,Beijing l0o0l2, China; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Hubei University ofEconomics,Wuhan 430205,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AbstractSocial goverancepays muchatentiontorequirementofallevelsofsociety,soitis necessarytoknowpublic'ssocial atitudeichflectspublc'sjudgmentandflingTispapritroducdantagsaddisadvantagsoftradiioalselfreportthodby surveyndtdtsiiltpdtiatdoeisdoeloci socialatitudesditeolsaesaioadoaeofo provinceusing themodeldescribedabove.TheresearchconductedbyUniversityofPennsylvaniapredictedlifesatifactionusingtweets andcreatedUSwelleingmap.Thedatapredictedhasahighcorelationwiththeresultbysurvey.Themethodbyusingpredictingmodel ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "couldreducecostleouthefueneofoalsiabilitdcqreeublic'socialtitdetielyichouldboltf conventional socialsurvey method,and mutually to be a meaningful support to public policy making.   \nKeywordssocial attitude, network behavior, social governance ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "周阳中科院心理所在读博士。研究方向为网络行为和心理分析、微博突发事件检测及微博舆情趋势预测。E-mail:zhouyang@psych.ac.cn",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZhouYangPh.D.candidateofInstuteofPsychology,ChineseAcademyofSiences (CAS).Researchdirectioncoversbehaviorand psychology on network platform,event detection and prediction from microblog.E-mail: zhouyang@psych.ac.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "朱廷劭男，中科院心理所研究员。1999年和2005年分别获得中科院计算技术所和加拿大UniversityofAlberta博士学位。研究工作涉及机器学习、汉语文语转换以及网络行为心理研究等多个领域，已在国内外权威杂志和知名国际会议发表学术论文 60余篇。E-mail: tszhu@psych.ac.cn",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZhuTingshaoaleaedisscodPatteUnversityofbertaCaadi.rohartedwokingseot theGraduateUniversityofCneseAcadeyfSieces(CAS)ineijingndtenmovedtoteIstituteofyhologyCAtofocu cyberpsyhologyHehaspublisedover6papersinajorinteatialacademicconferenesandjouals.Theainfociofhisurrtwork are web userbehavior modeling,computational cyber psychology,anddata mining.E-mail: tszhu@psych.ac.cn ",
+        "page_idx": 7
+    }
+]

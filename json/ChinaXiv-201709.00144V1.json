@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "Cosmological Scaling Solutions and Multiple Exponential Potentials ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo $^ { * a }$ , Yun-Song Piaot $\\cdot a$ , and Yuan-Zhong Zhang $^ { b , a }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$a$ Institute of Theoretical Physics，Chinese Academy of Sciences，P.O. Box 2735, Beijing 100080, China （20 $b$ CCAST (World Lab.)， P.O. Box 8730, Beijing 100080 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We present a phase-space analysis of cosmology containing multiple scalar fields with positive and negative exponential potentials. We show that there exist power-law multi-kineticpotential scaling solutions for sufficiently flat positive potentials or steep negative potentials. The former is the unique late-time attractor and the well-known assisted inflationary solution, but the later is never unstable in an expanding universe. Moreover, for steep negative potentials there exist a kinetic-dominated regime in which each solution is a late-time attractor. We briefly discuss the physical consequences of these results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scalar field cosmological models are of great importance in modern cosmology. The dark energy is attributed to the dynamics of a scalar field, which convincingly realizes the goal of explaining present-day cosmic acceleration generically using only attractor solutions [1]. A scalar field can drive an accelerated expansion and thus provides possible models for cosmological inflation in the early universe [2]. In particular, there have been a number of studies of spatially homogeneous scalar field cosmological models with an exponential potential. There are already known to have interesting properties; for example, if one has a universe containing a perfect fluid and such a scalar field, then for a wide range of parameters the scalar field mimics the perfect fluid, adopting its equation of state [3]. These scaling solutions are attractors at late times [4]. The inflation [5,6] and other cosmological effect [7] of multiple scalar fields have also been considered. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The scale-invariant form makes the exponential potential particularly simple to study analytically. There are well-known exact solutions corresponding to power-law solutions for the cosmological scale factor $a \\propto t ^ { p }$ in a spatially flat Friedmann-Robertson-Walker (FRW） model [8],but more generally the coupled Einstein-Klein-Gordon equations for a single field can be reduced to a one-dimensional system which makes it particularly suited to a qualitative analysis [9,10]. Recently, adopting a system of dimensionless dynamical variables [11], the cosmological scaling solutions with positive and negative exponentials has been studied [12]. Usually there are many scalar felds with exponential potentials in supergravity, superstring and the generalized Einstein theories, thus multi potentials may be more important. In this paper,we will consider multiple scalar fields with positive and negative exponential potentials. We have assumed that there is no direct coupling between the exponential potentials. The only interaction is gravitational. A phase-space analysis of the spatially flat FRW models shows that there exist cosmological scaling solutions which are the unique late-time attractors, and successul inflationary solutions which are driven by multiple scalar fields with a wide range of each potential slope parameter $\\lambda$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We start with more general model with $m$ scalar fields $\\phi _ { i }$ , in which each has an identicalslope potential ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } ( \\phi _ { i } ) = V _ { 0 i } \\exp \\left( - \\lambda \\kappa \\phi _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa ^ { 2 } \\equiv 8 \\pi G _ { N }$ is the gravitational coupling and $\\lambda$ is a dimensionless constant characterising the slope of the potential. Note that there is no direct coupling of the fields, which influence each other only via their effect on the expansion. The evolution equation of each scalar field for a spatially flat FRW model with Hubble parameter $H$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ddot { \\phi } _ { i } + 3 H \\dot { \\phi } _ { i } + \\frac { d V _ { i } ( \\phi _ { i } ) } { d \\phi _ { i } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "subject to the Friedmann constraint ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { 2 } = \\frac { \\kappa ^ { 2 } } { 3 } \\sum _ { i = 1 } ^ { m } \\left[ V _ { i } ( \\phi _ { i } ) + \\frac { 1 } { 2 } \\dot { \\phi } _ { i } ^ { 2 } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Defining $2 m$ dimensionless variables ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = \\frac { \\kappa \\dot { \\phi } _ { i } } { \\sqrt { 6 } H } , \\qquad y _ { i } = \\frac { \\kappa \\sqrt { | V _ { i } | } } { \\sqrt { 3 } H }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the evolution equations (2) can be written as an autonomous system: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { x _ { i } ^ { \\prime } } } & { { = } } & { { \\displaystyle - 3 x _ { i } \\left( 1 - \\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } \\right) \\pm \\lambda \\sqrt { \\frac { 3 } { 2 } } y _ { i } ^ { 2 } } } \\\\ { { } } & { { } } & { { \\displaystyle y _ { i } ^ { \\prime } } } \\\\ { { y _ { i } ^ { \\prime } } } & { { = } } & { { \\displaystyle y _ { i } \\left( 3 \\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } - \\lambda \\sqrt { \\frac { 3 } { 2 } } x _ { i } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where a prime denotes a derivative with respect to the logarithm of the scalar factor, （204号 $N \\equiv \\ln a$ ， and the constraint equation (3) becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { m } \\left( x _ { i } ^ { 2 } \\pm y _ { i } ^ { 2 } \\right) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Throughout we will use upper/lower signs to denote the two distinct cases of $\\pm V _ { i } > 0$ ： $x _ { i } ^ { 2 }$ （204号 measures the contribution to the expansion due to the field's kinetic energy density, while $\\pm y _ { i } ^ { 2 }$ represents the contribution of the potential energy. We will restrict our discussion of the existence and stability of critical points to expanding universes with $H > 0$ ,i.e., $y \\geq 0$ ， and $\\lambda > 0$ . Critical points correspond to fixed points where $x _ { i } ^ { \\prime } = 0$ ， $y _ { i } ^ { \\prime } = 0$ , and there are self-similar solutions with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\dot { H } } { H ^ { 2 } } = - 3 \\sum _ { i = 1 } ^ { m } x _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This corresponds to an expanding universe with a scale factor $a ( t )$ given by $a \\propto t ^ { p }$ ora contracting universe with a scalar factor given by $a \\propto ( - t ) ^ { p }$ ，where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = \\frac { 1 } { 3 \\sum _ { i = 1 } ^ { m } x _ { i } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The system (5) and (6) has at most one $m$ -dimensional sphere embedded in $2 m$ -dimensional phase-space corresponding to kinetic-dominated solutions,and $( 2 ^ { m } - 1 )$ fixed points,one of which is a $m$ -kinetic-potential scaling solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to analysis the stability of the critical points,we only consider the cosmologies containing two scalar fields. There are one unit circle $S$ and three fixed points $A _ { 1 }$ ， $A _ { 2 }$ and （204号 $B$ listed in Table 1. Using the Friedmann constraint equation (7)，we reduce Eqs.(5） and (6) to three independent equations ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 1 } ^ { \\prime } = - 3 x _ { 1 } ( 1 - x _ { 1 } ^ { 2 } - x _ { 2 } ^ { 2 } ) \\pm \\lambda \\sqrt { \\frac { 3 } { 2 } } y _ { 1 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { x _ { 2 } ^ { \\prime } } } & { { = } } & { { \\displaystyle - 3 x _ { 2 } \\big ( 1 - x _ { 1 } ^ { 2 } - x _ { 2 } ^ { 2 } \\big ) + \\lambda \\sqrt { \\frac { 3 } { 2 } } \\big ( 1 - x _ { 1 } ^ { 2 } - x _ { 2 } ^ { 2 } \\mp y _ { 1 } ^ { 2 } \\big ) } } \\\\ { { } } & { { } } & { { } } \\\\ { { y _ { 1 } ^ { \\prime } } } & { { = } } & { { y _ { 1 } \\big ( 3 x _ { 1 } ^ { 2 } + 3 x _ { 2 } ^ { 2 } - \\lambda \\sqrt { \\frac { 3 } { 2 } } x _ { 1 } \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Substituting linear perturbations about the critical points $x _ { 1 }  x _ { 1 } + \\delta x _ { 1 }$ ， $x _ { 2 }  x _ { 2 } + \\delta x _ { 2 }$ and $y _ { 1 } \\longrightarrow y _ { 1 } + \\delta y _ { 1 }$ into Eqs.(10)-(12),to first-order in the perturbations, gives equations of motion ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { \\delta x _ { 1 } ^ { \\prime } } \\\\ { \\delta x _ { 2 } ^ { \\prime } } \\\\ { \\delta y _ { 1 } ^ { \\prime } } \\end{array} \\right) = \\mathcal { M } \\left( \\begin{array} { c } { \\delta x _ { 1 } } \\\\ { \\delta x _ { 2 } } \\\\ { \\delta y _ { 1 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } = \\left( \\begin{array} { c c c } { { - 3 + 9 x _ { 1 } ^ { 2 } + 3 x _ { 2 } ^ { 2 } } } & { { 6 x _ { 1 } x _ { 2 } } } & { { \\pm \\lambda \\sqrt { 6 } y _ { 1 } } } \\\\ { { 6 x _ { 1 } x _ { 2 } - \\lambda \\sqrt { 6 } x _ { 1 } } } & { { - 3 + 3 x _ { 1 } ^ { 2 } + 9 x _ { 2 } ^ { 2 } - \\lambda \\sqrt { 6 } x _ { 2 } } } & { { \\mp \\lambda \\sqrt { 6 } y _ { 1 } } } \\\\ { { 6 x _ { 1 } y _ { 1 } - \\lambda \\sqrt { \\frac { 3 } { 2 } } y _ { 1 } } } & { { 6 x _ { 2 } y _ { 1 } } } & { { 3 x _ { 1 } ^ { 2 } + 3 x _ { 2 } ^ { 2 } - \\lambda \\sqrt { \\frac { 3 } { 2 } } x _ { 1 } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The general solution for the evolution of linear perturbations can be written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\delta x _ { 1 } } & { = } & { u _ { 1 } \\exp ( m _ { 1 } N ) + u _ { 2 } \\exp ( m _ { 2 } N ) + u _ { 3 } \\exp ( m _ { 3 } N ) } \\\\ { \\delta x _ { 2 } } & { = } & { v _ { 1 } \\exp ( m _ { 1 } N ) + v _ { 2 } \\exp ( m _ { 2 } N ) + v _ { 3 } \\exp ( m _ { 3 } N ) } \\\\ { \\delta y _ { 1 } } & { = } & { w _ { 1 } \\exp ( m _ { 1 } N ) + w _ { 2 } \\exp ( m _ { 2 } N ) + w _ { 3 } \\exp ( m _ { 3 } N ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { 1 }$ ， $m _ { 2 }$ and $m _ { 3 }$ are the eigenvalues of the matrix $\\mathcal { M }$ . Thus stability requires the real part of all eigenvalues being negative. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S: $x _ { 1 } ^ { 2 } + x _ { 2 } ^ { 2 } = 1$ ， $y _ { 1 } = y _ { 2 } = 0$ （204 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These kinetic-dominated solutions exist for any form of the potential, which are equivalent to stiff-fluid dominated evolution with $a \\propto t ^ { 1 / 3 }$ irrespective of the nature of the potential, with the eigenvalues ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { m _ { 1 } } } & { { = } } & { { 0 } } \\\\ { { } } & { { } } & { { } } \\\\ { { m _ { 2 } } } & { { = } } & { { 3 - \\sqrt { \\frac { 3 } { 2 } } \\lambda x _ { 1 } } } \\\\ { { } } & { { } } & { { } } \\\\ { { m _ { 3 } } } & { { = } } & { { 6 - \\sqrt { 6 } \\lambda x _ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thus the solutions are stable to potential energy perturbations for $\\lambda x _ { 1 } > \\sqrt { 6 }$ and $\\lambda x _ { 2 } > \\sqrt { 6 }$ Using the constraint equation（7） we find $1 \\ge 2 x _ { 1 } x _ { 2 } > 1 2 / \\lambda ^ { 2 }$ . That is, there exist stable points only for sufficiently steep $\\langle \\lambda > 2 \\sqrt { 3 } )$ potential. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The two single-potential-kinetic solutions exist for suffciently flat ( $\\lambda ^ { 2 } < 6$ ） positive potentials or steep ( $\\lambda ^ { 2 } > 6$ ） negative potentials. The power-law exponent, $p = 2 / \\lambda ^ { 2 }$ ， depends on the slope of the potential. From Eq.(13) we find the eigenvalues ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { 1 } } } \\end{array} = \\begin{array} { l } { { \\lambda ^ { 2 } } } \\\\ { { } } \\\\ { { m _ { 2 } } } \\end{array} = \\begin{array} { l } { { \\displaystyle \\frac { 1 } { 2 } ( \\lambda ^ { 2 } - 6 ) } } \\\\ { { } } \\\\ { { m _ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus the single-potential-kinetic solutions are unstable for the positive and negative potentials. This indicates that the stability is destroyed by the potential energy perturbations of another scalar field. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B: $\\begin{array} { r } { x _ { 1 } = x _ { 2 } = \\frac { \\lambda } { 2 \\sqrt { 6 } } } \\end{array}$ ， $y _ { 1 } = y _ { 2 } = \\sqrt { \\pm ( \\frac { 1 } { 2 } - \\frac { \\lambda ^ { 2 } } { 2 4 } ) }$   \nThe double-potential-kinetic scaling solution exist for fat ( $\\lambda ^ { 2 } < 1 2$ ）positive potentials, or steep ( $\\lambda ^ { 2 } > 1 2$ ） negative potentials. This corresponds to a power-law solution with $a \\propto t ^ { 4 / \\lambda ^ { 2 } }$ .Linear perturbations yield three eigenvalues ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { m _ { 1 } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 4 } ( \\lambda ^ { 2 } - 1 2 ) } } \\\\ { { } } & { { } } & { { } } \\\\ { { m _ { 2 } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 8 } ( \\lambda ^ { 2 } - 1 2 ) - \\frac { 3 } { 8 } \\sqrt { ( \\lambda ^ { 2 } - 1 2 ) ( \\lambda ^ { 2 } - 4 / 3 ) } } } \\\\ { { } } & { { } } & { { } } \\\\ { { m _ { 3 } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 8 } ( \\lambda ^ { 2 } - 1 2 ) + \\frac { 3 } { 8 } \\sqrt { ( \\lambda ^ { 2 } - 1 2 ) ( \\lambda ^ { 2 } - 4 / 3 ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For $4 / 3 < \\lambda ^ { 2 } < 1 2$ ， $\\sqrt { ( \\lambda ^ { 2 } - 1 2 ) ( \\lambda ^ { 2 } - 4 / 3 ) }$ is replaced by $i \\sqrt { ( \\lambda ^ { 2 } - 1 2 ) ( 4 / 3 - \\lambda ^ { 2 } ) }$ So the terms $\\exp ( m _ { 2 } N )$ and $\\exp ( m _ { 3 } N )$ in the solution(15) decay oscillatingly. Thus for positive potentials,the scaling solution is stable whenever this solution exists, whereas for negative potentials the scaling solution is never stable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The regions of $( \\lambda )$ parameter space lead to different qualitative evolution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "· For steep positive potentials ( $V > 0$ ， $\\lambda ^ { 2 } > 1 2$ )，only a circle $S$ exists， some kineticdominated scaling solutions of which are the late-time attractors. Thus generic solutions in the kinetic-dominated regime approach an equal-kinetic-dominated regime, the range of which is determined by the value of $\\lambda$ ,at late times. That is,the kinetic energy of each field tends to be equal via their effect on the expansion. · For intermediate positive potentials ( $V > 0$ ， $6 < \\lambda ^ { 2 } < 1 2$ )，a circle $S$ and a fixed point $B$ exist. The later is the unique late-time attractor. Thus generic solutions start in a kinetic-dominated regime and approach the double-kinetic-potential scaling solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c51a74c70776cbaf1a42be8ccf2a6f9b1dcbe53ac543127aef12095eb6e42d10.jpg",
+        "table_caption": [
+            "Table 1: The properties of the critical points "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Label</td><td>Critical points</td><td>Existence</td><td>Eigenvalues</td><td>Stability</td></tr><tr><td>S</td><td>+路=1， y1= y2 =0</td><td>all 入</td><td>(3-入√x1); (6-λ√6x2); 0</td><td>stable (λ² > 12) unstable (λ² < 12)</td></tr><tr><td>A1, A2</td><td>（，√±(1-）,0,0）， （0,0，√（1-））</td><td>λ² <6 (V >0) λ² >6 (V<0)</td><td>(²-6)/2; (λ²-6)/2; λ²</td><td>unstable</td></tr><tr><td>B</td><td>x1=x2=√ y1=y2=√+(-）</td><td>λ² < 12(V > 0) λ² > 12(V < 0)</td><td>(λ² − 12)/4; (²- 12)± (² -4/3）2-12）</td><td>stable (V >0, λ² < 12) unstable (V < 0)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "· For flat positive potentials ( $V > 0$ ， $\\lambda ^ { 2 } ~ < ~ 6$ )，all critical points exist. The doublekinetic-potential scaling solution is the unique late-time attractor. Thus generic solutions start in a kinetic-dominated solution or in a single-kinetic-potential solution and approach the double-kinetic-potential scaling solution.   \n· For steep negative potentials ( $V < 0$ ， $\\lambda ^ { 2 } > 1 2$ ),all critical points exist. The kineticdominated scaling solutions are the late-time attractors, which correspond to a contracting phase in the pre big bang scenario [13].   \n· For intermediate negative potentials ( $V < 0$ ， $6 < \\lambda ^ { 2 } < 1 2$ )，a circle $S$ and two fixed points $A _ { 1 }$ and $A _ { 2 }$ exist. There exist no stable points.   \n· For flat negative potentials ( $V < 0$ ， $\\lambda ^ { 2 } < 6$ )，only a circle $S$ exists,which are never stable. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We now generalize the above discussion to $m$ scalar fields, by considering each potential to have a different slope $\\lambda _ { i }$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } ( \\phi _ { i } ) = V _ { 0 i } \\exp \\left( - \\lambda _ { i } \\kappa \\phi _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Setting $x _ { i } ^ { \\prime } = 0$ and $y _ { i } ^ { \\prime } = 0$ ， we can get ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { 0 } } & { { = } } & { { \\displaystyle - 3 x _ { i } \\left( 1 - \\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } \\right) \\pm \\lambda _ { i } \\sqrt \\frac { 3 } { 2 } y _ { i } ^ { 2 } } } \\\\ { { 0 } } & { { = } } & { { y _ { i } \\left( 3 \\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } - \\lambda _ { i } \\sqrt \\frac { 3 } { 2 } x _ { i } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We only consider the $m$ -kinetic-potential scaling solution where $y _ { i } \\neq 0$ and $x _ { i } \\neq 0$ . Using Eq.(18), we get ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } = { \\frac { \\lambda _ { i } x _ { i } } { \\sqrt { 6 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notice that $\\lambda _ { i } x _ { i } / \\sqrt { 6 } = c$ is an invariant. So ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { m } x _ { j } ^ { 2 } = 6 c ^ { 2 } \\sum _ { j = 1 } ^ { m } { \\frac { 1 } { \\lambda _ { j } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Comparing Eq.(20) with Eq.(19) gives $c = ( 6 \\textstyle \\sum _ { i = 1 } ^ { m } \\lambda _ { i } ^ { - 2 } ) ^ { - 1 }$ . From Eqs.(17) and (18)，we obtain the multi-kinetic-potential scaling solution ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { l } { { x _ { i } } } \\end{array} = \\begin{array} { l } { { \\displaystyle { \\frac { { \\sqrt { 6 } } c } { \\lambda _ { i } } } } } \\\\ { { y _ { i } } } \\end{array}  \\\\ { { y _ { i } } } \\end{array} = \\begin{array} { l } { { \\displaystyle { \\sqrt { \\pm { \\frac { 6 c } { \\lambda _ { i } ^ { 2 } } } ( 1 - c ) } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq.(19) into Eq.(9) gives ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = \\sum _ { j = 1 } ^ { m } \\frac { 2 } { \\lambda _ { j } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which is just the result derived in Refs.[5]. For $m$ scalar fields with $\\lambda _ { i } ~ = ~ \\lambda$ ，Eqs.(21)- (23) yield $x _ { i } = \\lambda / ( m \\sqrt { 6 } )$ ， $\\begin{array} { r } { y _ { i } = \\sqrt { \\pm \\frac { 1 } { m } ( 1 - \\frac { \\lambda ^ { 2 } } { 6 m } ) } } \\end{array}$ and $p = 2 m / \\lambda ^ { 2 }$ ， which are consistent with the above results. The multi-kinetic-potential scaling solution exists for positive potentials （ $\\lambda ^ { 2 } < 6 m$ )，or negative potentials ( $\\lambda ^ { 2 } > 6 m$ ). As long as each potential satisfies $\\lambda ^ { 2 } < 2 m$ ， this power-law solution is inflationary. For the case $m = 1$ ，the dimensionless constant $\\lambda$ （20 must be smaller than $\\sqrt { 2 }$ to guarantee power-law inflation [12]. However, presently known theories yield exponential potentials with $\\lambda > \\sqrt { 2 }$ . In such cases multiple scalar fields may proceed inflation. The reason for this behavior is that while each field experiences the ‘downhill' force from its own potential, it feels the friction from all the scalar fields via their contribution to the expansion [5]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have presented a phase-space analysis of the evolution for a spatially flat FRW universe containing $m$ scalar fields with positive or negative exponential potentials. As an example we study the problems of the fixed points and their stability in a two-field model. We find that in the expanding universe model with sufficiently flat ( $\\lambda ^ { 2 } ~ < ~ 1 2$ positive potentials the only power-law double-kinetic-potential scaling solution is the latetime attractor and the well-known inflationary solution with $a \\propto t ^ { p }$ where $p = 4 / \\lambda ^ { 2 }$ .A successful inflation can be driven by multiple scalar fields with a wide range of values for each potential slope parameter $\\lambda$ . We also find that the scaling solution with steep negative potentials is always unstable in the the expanding universe models. However, sufficiently steep ( $\\lambda ^ { 2 } > 1 2$ ）negative potentials have kinetic-dominated solutions with $a \\propto t ^ { 1 / 3 }$ ，which are always the late-time attractors. It can be known that the kinetic energy of each field tends to be equal via their effect on the expansion. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We emphasize that we have assumed that there is no direct coupling between these exponential potentials. It is worth studying further the case their potentials have different slopes. It would else be interesting to study the multi-field dynamics when a perfect fluid is present and for realistic cross coupling of the kind $\\exp ( \\lambda _ { 1 } \\kappa \\phi _ { 1 } + \\lambda _ { 2 } \\kappa \\phi _ { 2 } )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This project was in part supported by NNSFC under Grant Nos. 10175070 and 10047004 as well as also by NKBRSF G19990754. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] K.Coble, S.Dodelson and J.A.Frieman, Phys.Rev. D55 (1997) 1851; R.R.Caldwell and P.J.Steinhardt, Phys.Rev. D57(1998) 6057; I.Zlatev, L.M.Wang and P.J.Steinhardt, Phys.Rev.Lett. 82 (1999) 896; P.J.Steinhardt, L.M.Wang and I.Zlatev, Phys.Rev. D59 (1999) 123504.   \n[2] A.H.Guth, Phys.Rev. D23 (1981) 347; A.D.Linde, Phys.Lett. B108 (1982) 389; A.D.Linde,Phys.Lett. B129(1983) 177.   \n[3] E.J.Copland， A.R.Liddle, D.H.Lyth， E.D.Stewart and D.Wands, Phys.Rev. D49 (1994) 6410; M.Dine, L.Randall and S.Thomas, Phys.Rev.Lett. 75 (1995) 398.   \n[4] E.D.Stewart, Phys.Rev. D51 (1995) 6847.   \n[5] A.R.Liddle, A.Mazumdar and F.E.Schunck, astro-ph/9804177; E.J.Copeland, A.Mazumdar and N.J.Nunes， Phys.Rev. D60 (1999) 083506, astro-ph/9904309; K.A.Malik and D.Wands, Phys.Rev. D59 (1999) 123501; F.Finelli, Phys.Lett.B545 (2002) 1, hep-th/0206112.   \n[6] Y.S. Piao, W.B. Lin, X.M. Zhang and Y.Z. Zhang, Phys.Lett. B528 (2002) 188, hep-ph/0109076; Y.S. Piao, R.G. Cai, X.M. Zhang and Y.Z. Zhang, Phys.Rev. D66 (2002) 121301, hep-ph/0207143.   \n[7] Q.G. Huang and M. Li, hep-ph/0302208.   \n[8] F.Lucchin and S.Matarrese, Phys.Rev. D32 (1985) 1316; Y.Kitada and K.1.Maeda, Class.Quant.Grav. 10 (1993) 703.   \n[9] J.J.Halliwell, Phys.Lett. B185 (1987) 341; A.B.Burd and J.D.Barrow, Nucl.Phys. B308 (1988) 929; A.A.Coley, J.Ibanez and R.J.van den Hoogen, J.Math.Phys. 38 (1997) 5256.   \n[10] E.J.Copeland, A.R.Liddle and D.Wands, Phys.Rev. D57 (1998) 4686; A.P.Billyard, A.A.Coley and R.J.van den Hoogen, Phys.Rev. D58 (1998) 123501; R.J.van den Hoogen, A.A.Coley and D.Wands, Class.Quant.Grav. 16 (1999) 1843.   \n[11] G.F.R.Elis and J.Wainwright, Dynamical systems in cosmology (Cambridge UP,1997).   \n[12] I.P.C.Heard and D.Wands, Class.Quant.Grav. 19 (2002) 5435, gr-qc/0206085.   \n[13] M.Gasperini and G.Veneziano, Astropart.Phys. 1 (1993) 317, hep-th/9211021. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

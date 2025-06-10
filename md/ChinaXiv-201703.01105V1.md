@@ -1,0 +1,166 @@
+# 纳米改性WBP-CFA地聚合物的耐久性和孔结构
+
+郭晓潞1,2 施惠生1,2
+
+1先进土木工程材料教育部重点实验室同济大学上海 201804  
+2同济大学材料科学与工程学院上海201804
+
+摘要使用废弃粘土砖粉(WBP)和高钙粉煤灰(CFA)制备复合地聚合物，用纳米颗粒对其进行改性,研究了纳米改性WBP-CFA地聚合物的抗冻性和抗渗性及其与孔结构之间的内在关联。结果表明，单掺纳米 $\mathrm { S i O } _ { 2 }$ 的改性效果优于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ ，复掺 $2 \%$ 质量分数，下同)纳米 $\mathrm { S i O } _ { 2 }$ 和 $1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的地聚合物试样的抗渗性和抗冻性优良。冻融使地聚合物的体积密度降低，显气孔率和真气孔率提高；平均孔径和最可几孔径均增大，孔隙率提高；小于 $5 0 \mathrm { n m }$ 的无害孔和少害孔减少，大于 $5 0 \mathrm { n m }$ 的有害孔和多害孔均增加。
+
+关键词无机非金属材料,废弃砖粉,粉煤灰，地聚合物，纳米改性，抗渗性，抗冻性，孔结构
+
+中图分类号 X773文章编号 1005-3093(2017)02-0110-07
+
+# Durability and Pore Structure of Nano-particle-modified Geopolymers of Waste Brick Powder-class C Fly Ash
+
+GUO Xiaolu1²,， SHI Huisheng1,2 1 KeyLaboratory ofAdvanced Civil Engineering Materials ofthe Ministry of Education,Tongji University Shanghai 201804,China 2 School ofMaterials Science and Engineering, Tongji University, Shanghai 201804,China Correspondent: GUO Xiaolu,associate professor,Tel: 15216729086,E-mail: guoxiaolu@tongji.edu.cn Supportedby the National Natural Science Foundation of China (No.51478328),and the Fundamental Research Funds for the Central Universities (No.0500219225) Manuscript received 2016-04-07； in revised form 2016-07-28
+
+ABSTRACT Nano particle modified composite geopolymers were prepared with waste brick powder (WBP) and class C flyash (CFA) as raw material,and nano-particales $S i O _ { 2 }$ and ${ \mathsf { A l } } _ { 2 } { \mathsf { O } } _ { 3 }$ as modifier. Then their anti-permeability and anti-freezing-thawing as wellas their pore structure were investigated.Results show that nano- $\mathsf { S i O } _ { 2 }$ is superior to nano- ${ \mathsf { A l } } _ { 2 } { \mathsf { O } } _ { 3 }$ for enhancing the performance of geopolymers,and the combination of $2 \%$ (mass fraction） nano $\mathsf { S i O } _ { 2 }$ and $1 \%$ nano- ${ \mathsf { A l } } _ { 2 } { \mathsf { O } } _ { 3 }$ exhibits the best modification effect,so thatthe geopolymer possesses the highest anti-permeabilityand anti-freezing-thawing.It is found for the geopolymers after being freezing-thawing tested that the apparent porosity，true porosity，average pore size,the size of the most probable poresand the total porosityallenhanced,however the volume density decreased. Besides, the harmless and less-harmful holes with size smaller than $5 0 ~ \mathsf { n m }$ decreased,and in the contrast,the harmful and more-harmful holes increased.
+
+KEYWORDS inorganic non-metallic materials,waste brick powder,fly ash,geopolymer,nano-modification,resistance to permeability, resistance to freezing-thawing,pore structure
+
+地聚合物是以硅铝质材料为原料，经矿物聚缩反应而生成的一种低能耗、长寿命、无 $\mathrm { C O } _ { 2 }$ 排放的高性能无机聚合物。随着人类对环境保护意识的加强和研究工作的进展，制备地聚合物的原材料已从天然矿物拓宽为可利用固体废弃物[,2]。
+
+偏高岭土基地聚合物快硬早强，1h后可步行，$^ { 4 \mathrm { h } }$ 后可通车， $6 6 \mathrm { ~ h ~ }$ 后可供飞机起飞和降落；地聚合物已用于固化核废料和含重金属废弃物等危废的安全处置工程。欧洲、美国以及日本等，已将地聚合物应用在道路工程、固封材料、航空工程等领域[3]。中国的科研人员开展了地聚合物的制备技术、化学结构以及本征特性的基础研究。
+
+混凝土的耐久性关系到建筑工程的安全，使用耐久性优良的混凝土可减少维修和重修费用，更能确保人类生命财产安全和避免灾难性事件的发生。抗渗性和抗冻性是混凝土耐久性的重要指标，与孔结构直接相关[4。在固废基地聚合物中，水作为载体使CI、 ${ \mathrm { S O } } _ { 4 } ^ { 2 \cdot }$ 或者 $\mathrm { C O } _ { 2 }$ 渗入体系内部并与产物发生反应，造成腐蚀与侵蚀，破坏其微结构，从而影响地聚合物混凝土的性能。水传输和渗透是与混凝土耐久性相关的重要问题[5。目前，关于地聚合物抗渗性和抗冻融循环以及与体系微结构和孔结构相关联的研究都比较少[8.,9]。
+
+本文使用废弃粘土砖粉(Waste brick powder
+
+WBP)和高钙粉煤灰(ClasssCflyash,CFA)研制固废基复合地聚合物，并用纳米颗粒对其改性，研究纳米改性废弃砖粉复合地聚合物的抗冻性和抗渗性及其与孔结构之间的内在关联。
+
+# 1实验方法
+
+# 1.1试验用原材料
+
+高钙粉煤灰(CFA,I级灰),比表面积为 $4 1 0 \mathrm { m } ^ { 2 } / \mathrm { k g }$ 废弃粘土砖粉(WBP)，比表面积 $6 0 8 ~ \mathrm { { m ^ { 2 } / k g } }$ 。其化学组成和物相组成分别在表1和图1中给出。由图1可知，CFA主要矿物相为石英、莫来石、赤铁矿和磁铁矿，在20为 $1 5 ^ { \circ } { \sim } 3 5 ^ { \circ }$ 范围内的弥散峰为CFA中玻璃相的特征峰；WBP主要矿物相有石英、方解石、白云石和磷铁铝矿石。
+
+试验用水玻璃的初始模数为2.32，固含量$4 2 . 7 \%$ (质量比，全文同)； $\mathrm { \Delta N a O H }$ 为分析纯白色颗粒状晶体，纯度 $9 6 . 0 \%$ 。用 $\mathrm { \Delta N a O H }$ 调节水玻璃以获得不同模数的复合化学激发剂，陈放 $2 4 \mathrm { h }$ 备用。实验用纳米颗粒的基本物理性质，列于表2。
+
+# 1.2试样的制备
+
+纳米改性废弃砖粉复合地聚合物砂浆的配比列于表3，其中SCFA为对比胶砂，其他5种胶砂中砖粉均以质量比 $30 \%$ 掺量取代高钙粉煤灰。在实验中，将搅拌好的砂浆置于 $4 0 \ \mathrm { m m } { \times } 4 0 \ \mathrm { m m } { \times } 1 6 0 \ \mathrm { m m }$ 砂浆
+
+表1实验用原材料的化学组成 Table1 Chemical composition of raw materials ( $\%$ mass fraction)   
+
+<html><body><table><tr><td>Content</td><td>Na2O</td><td>MgO</td><td>AlO3</td><td>SiO2</td><td>KO</td><td>CaO</td><td>Fe2O3</td><td>Others</td></tr><tr><td>Class C fly ash (CFA)</td><td>1.28</td><td>1.85</td><td>22.00</td><td>50.30</td><td>3.42</td><td>11.30</td><td>7.10</td><td>2.74</td></tr><tr><td>Waste brick powder (WBP)</td><td>1.34</td><td>3.36</td><td>10.3</td><td>42.8</td><td>2.11</td><td>26.3</td><td>6.91</td><td>6.88</td></tr></table></body></html>
+
+![](images/3fa0d2298a242d91b7ba6d8e8147f4a1aa487f5c75b12bed841b9a3678c52c1b.jpg)  
+图1原材料的XRD图谱 Fig.1 XRD pattern of raw materials (a) class C fly ash (CFA); (b) waste brick powder (WBP)
+
+![](images/938a9ca2cbb1d33aee61bc7f1cb63de690a2f408a3c04990bbe2ddada1a56480.jpg)
+
+# 表2纳米 $\mathrm { S i O } _ { 2 }$ 与纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的基本物理性质
+
+Table 2 Basic physical properties of nano- $\mathrm { S i O } _ { 2 }$ and nano- ${ \bf \nabla } \cdot { \bf A l } _ { 2 } { \bf O }$   
+表3纳米改性废弃砖粉复合地聚合物砂浆的配合比  
+
+<html><body><table><tr><td>Type</td><td>Particle size /nm</td><td>Specific surface area /m2-g</td><td>Density /g.cm³</td><td>Hydrophily /Hydrophobicity</td><td>Color</td></tr><tr><td>SiO2</td><td>30±5</td><td>400</td><td>0.4</td><td>Hydrophily</td><td>White</td></tr><tr><td>Al2O3(α)</td><td>30±5</td><td>100</td><td>1.7</td><td>Hydrophily</td><td>White</td></tr></table></body></html>
+
+Table 3 Mix ratio of nano-modified solid waste-based composite geopolymeric mortar   
+
+<html><body><table><tr><td rowspan="2">Samples</td><td rowspan="2">CFA g</td><td rowspan="2">WBP /g</td><td rowspan="2">Sand 1g</td><td rowspan="2">Composite activator 1g</td><td rowspan="2">Water 1g</td><td colspan="2">Nano-particle</td></tr><tr><td>Nano-SiO2 /g</td><td>Nano-Al2O3 /g</td></tr><tr><td>SCFA</td><td>600.00</td><td></td><td>1620.00</td><td>323.45</td><td>71.09</td><td>-</td><td>-</td></tr><tr><td>SWBP</td><td>420.00</td><td>180.00</td><td>1620.00</td><td>323.45</td><td>71.09</td><td></td><td>-</td></tr><tr><td>SW 0-3</td><td>420.00</td><td>180.00</td><td>1620.00</td><td>323.45</td><td>71.09</td><td></td><td>18.00</td></tr><tr><td>SW 1-2</td><td>420.00</td><td>180.00</td><td>1620.00</td><td>323.45</td><td>71.09</td><td>6.00</td><td>12.00</td></tr><tr><td>SW 2-1</td><td>420.00</td><td>180.00</td><td>1620.00</td><td>323.45</td><td>71.09</td><td>12.00</td><td>6.00</td></tr><tr><td>SW 3-0</td><td>420.00</td><td>180.00</td><td>1620.00</td><td>323.45</td><td>71.09</td><td>18.00</td><td></td></tr></table></body></html>
+
+三联模中，在室温下养护 $2 4 \mathrm { ~ h ~ }$ 拆模，放入温度 $( 2 0 \pm$ $2 ) ^ { \circ } \mathrm { C }$ ，湿度 $90 \%$ 以上的养护室养护至规定龄期。
+
+# 1.3性能测定
+
+参照国家标准GB/T2419-2005《水泥胶砂流动度测定方法》测定新拌砂浆的流动度。参照国家标准GB/T17671-1999《水泥胶砂强度检验方法》测定试样的强度。参照《建筑砂浆基本性能试验方法》(JGJ/T70-2009)测定地聚合物砂浆的抗渗性能和吸水率。将两组试样浸泡在 $( 2 0 { \pm } 2 ) ^ { \circ } \mathrm { C }$ 的水中4d，一组用于冻融循环，冻融制度为在 $( - 2 0 { \pm } 2 ) ^ { \circ } \mathrm { C }$ 的环境中冷冻 $^ { 5 \mathrm { h } }$ ，在 $( 2 0 { \pm } 2 ) ^ { \circ } \mathrm { C }$ 的水中融化 $3 \mathrm { ~ h ~ }$ ；将另一组在 $( 2 0 \pm$ $2 ) ^ { \circ } \mathrm { C }$ 的水中养护，作为对比组。经10、20、30、40、50、60、70和80次冻融循环后，测量试样的质量和强度，分别计算经冻融循环后试样的质量损失率和强度损失率。
+
+使用QUANTACHROMEPoremaster GT-60自动压汞仪，参照《致密定形耐火制品体积密度、显气孔率和真气孔率试验方法》(GB/T2997-2000)以及压汞法(MIP)测定地聚合物的孔结构。
+
+# 2结果和讨论
+
+# 2.1纳米改性废弃砖粉复合地聚合物的流动度和强度
+
+纳米 $\mathrm { S i O } _ { 2 }$ 和纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 使固废基复合地聚合物砂浆的流动性有一定的改变(表4)。纳米材料降低了体系流动度，单掺纳米 $\mathrm { S i O } _ { 2 }$ 对流动度的降低效果大于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ ，但复掺两种纳米材料时流动度变化
+
+不大。
+
+纳米 $\mathrm { S i O } _ { 2 }$ 和纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 使固废基复合地聚合物砂浆的的抗压强度与抗折强度均有改善(表4)。在固定总掺量的情况下，复掺的效果优于单掺，纳米$\mathrm { S i O } _ { 2 }$ 的改性效果优于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 。掺入 $2 \%$ 纳米 $\mathrm { S i O } _ { 2 }$ 和 $1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的固废基复合地聚合物(试样SW2-1)较试样SWBP的3d、28d抗折强度分别提高了$31 . 3 \%$ 和 $41 . 5 \%$ ，抗压强度分别提高了 $2 8 . 9 \%$ 和$2 6 . 4 \%$ 。
+
+# 2.2纳米改性废弃砖粉复合地聚合物的抗渗性和吸水率
+
+纳米改性废弃砖粉复合地聚合物在不同龄期内的抗渗压力和吸水率，列于表5。
+
+纳米 $\mathrm { S i O } _ { 2 }$ 和纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 使固废基复合地聚合物砂浆的抗渗性能与耐水性能均有一定程度的提高。在总掺量固定的情况下，随着纳米 $\mathrm { S i O } _ { 2 }$ 掺量的增大砂浆抗渗压力值增大，吸水率降低，可见纳米 $\mathrm { S i O } _ { 2 }$ 的改性效果稍优于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 。其原因是，纳米 $\mathrm { S i O } _ { 2 }$ 具有很好的火山灰活性，能改善界面结构和提高界面物理力学性能[10-12]。同时，复掺 $2 \%$ 纳米 $\mathrm { S i O } _ { 2 }$ 和 $1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的改性效果最好，其7d抗渗压力值较空白样提高了 $2 3 . 5 \% , 2 8 \mathrm { d }$ 渗透高度较空白样降低了 $2 ~ \mathrm { m m }$ 吸水率降低了 $1 6 . 4 \%$ ，说明纳米改性使地聚合物砂浆更加密实。其原因是，纳米粒子除具有良好的填充效果外，还具有表面效应和小尺寸效应，使表面原子数的增加，较高的化学活性[3]促使纳米改性材料与地聚合物产物键合，并以纳米改性材料为晶核在其颗粒表面形成N-A-S-H凝胶相，形成了三维网络结构。
+
+表4地聚合物的流动度和强度 Table 4 Fluidity and strength of geopolymer   
+表5地聚合物的抗渗性能与吸水率  
+
+<html><body><table><tr><td rowspan="2">Samples</td><td rowspan="2">Fluidity /mm</td><td colspan="4">Strength /MPa</td></tr><tr><td colspan="2">3d</td><td colspan="2">28d</td></tr><tr><td></td><td></td><td>Flexural</td><td>Compressive</td><td>Flexural</td><td>Compressive</td></tr><tr><td>SCFA</td><td>198</td><td>3.1</td><td>13.8</td><td>5.0</td><td>40.5</td></tr><tr><td>SWBP</td><td>195</td><td>3.2</td><td>15.9</td><td>5.3</td><td>42.5</td></tr><tr><td>SW 0-3</td><td>166</td><td>3.6</td><td>18.7</td><td>6.4</td><td>48.8</td></tr><tr><td>SW 1-2</td><td>185</td><td>3.8</td><td>18.2</td><td>6.7</td><td>50.9</td></tr><tr><td>SW 2-1</td><td>193</td><td>4.2</td><td>20.5</td><td>7.5</td><td>53.7</td></tr><tr><td>SW 3-0</td><td>157</td><td>3.8</td><td>20.1</td><td>7.1</td><td>51.5</td></tr></table></body></html>
+
+Table 5 Impermeability and water absorption ratio of geopolymer   
+
+<html><body><table><tr><td>Samples</td><td>7d impermeability pressure /MPa</td><td>28d penetration height/mm</td><td>28d water absorption ratio /%</td></tr><tr><td>SCFA</td><td>1.5</td><td>13.1</td><td>7.5</td></tr><tr><td>SWBP</td><td>1.7</td><td>11.8</td><td>6.1</td></tr><tr><td>SW 0-3</td><td>1.9</td><td>10.3</td><td>5.8</td></tr><tr><td>SW 1-2</td><td>2.0</td><td>10.5</td><td>5.4</td></tr><tr><td>SW 2-1</td><td>2.1</td><td>9.8</td><td>5.1</td></tr><tr><td>SW 3-0</td><td>2.0</td><td>10.7</td><td>5.5</td></tr></table></body></html>
+
+# 2.3纳米改性废弃砖粉复合地聚合物的抗冻性
+
+2.3.1质量损失纳米改性废弃砖粉复合地聚合物因冻融所引起的质量损失，在图2中给出。可以看出，所有试样的质量损失率均随着冻融循环次数增加而缓慢提升，经过80次冻融循环试样质量损失均不到 $2 \%$ ，说明废弃砖粉复合地聚合物均具有良好的抗冻性。同时，掺砖粉的复合地聚合物SWBP的80次冻融循环后质量损失率较空白样SCFA降低了 $8 . 5 \%$ ，纳米 $\mathrm { S i O } _ { 2 }$ 和纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 改性后的复合地聚合物SW0-3和SW3-0的80次冻融循环后的质量损失率较空白样SCFA分别降低了 $2 6 . 0 \%$ 和 $9 . 5 \%$ ，而复掺 $2 \%$ 纳米 $\mathrm { S i O } _ { 2 }$ 和 $1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的试样SW2-1的80次冻融循环后的质量损失率较空白样SCFA降低了 $2 6 . 3 \%$ 。这些结果说明，纳米 $\mathrm { S i O } _ { 2 }$ 的改性效果优于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ ，而复掺的效果稍优于单掺。
+
+2.3.2强度损失图3给出了不同纳米改性试样与对比试样因冻融所引起的强度损失。可以看出，随着冻融循环次数增加纳米改性试样与对比试样的强度损失率逐渐提升，其中纳米改性试样的强度损失率低于对比试样SWBP。比较图3a和3b还可以发现，纳米改性试样与对比试样因冻融循环所引起的抗折强度损失率高于其抗压强度损失率。因为与压力相比，弯拉力更易于扩展试样中因结冰压所造成的裂隙。
+
+![](images/306fd045e73fc292e1132040bc4f7e036419943ea9466aad454f1e27bc5f01d5.jpg)  
+图2地聚合物经冻融循环后的质量损失率 Fig.2 Mass loss ratio of geopolyer after freezing-thawing cycles
+
+需要注意的是，与冻融循环引起的质量损失不同，在冻融循环初期(循环次数 ${ < } 4 0 _ { , }$ 纳米改性试样和对比试样的强度损失已较明显。以冻融循环20次后为例，空白试样SCFA抗折强度损失率达到$5 . 3 \%$ ，抗压强度损失率达 $5 . 1 \%$ ，而其质量损失率则仅为 $0 . 6 9 \text{‰}$ 。其原因是，在冻融循环初期，较低的结冰压虽不足以使试样产生明显的质量损失，但却能扩展试样内部的裂隙，影响试样的强度。
+
+2.3.3冻融循环对纳米改性废弃砖粉复合地聚合物孔结构的影响试样经80次冻融循环后体积密度、显气孔率和真气孔率试验结果，列于表6。
+
+从表6可以看出，所有试样经冻融后体积密度降低，显气孔率和真气孔率增大。粉煤灰地聚合物SCFA冻融后体积密度降低了 $7 . 4 \%$ ，显气孔率和真气孔率分别增加了 $30 . 5 \%$ 和 $1 3 . 8 \%$ ，而掺加废弃砖粉的试样SWBP经冻融后体积密度降低了 $7 . 1 \%$ ，显气孔率和真气孔率分别增加了 $2 9 . 1 \%$ 和 $1 3 . 7 \%$ 。这表明，冻融提高了开口孔隙率，但对闭口孔隙率的影响较小。按照混凝土冻融破坏的充水系数假说，混凝土能否发生冻融破坏主要取决于混凝土的充水系数。充水系数是孔隙内水的体积与整个空间之比，而充水系数测定的水是比较容易蒸发的水，即与外界相通的孔隙中的饱和水。因此，开口孔隙率对冻融破坏起决定性作用。当试样开口孔内充满水且温度降至冰点以下，水结冰后体积膨胀，给孔壁造成很大的静水压力，造成孔壁开裂，孔径变大。反复冻融使试样内、外层产生明显的应力差和温度差，使试样的孔结构受到很大程度的破坏[4]。
+
+对比表6中各纳米改性试样冻融前后各参数的变化，可见掺加纳米 $\mathrm { S i O } _ { 2 }$ 和纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 均有助于提高固废基复合地聚合物的抗冻性能。其原因是，纳米粒子的填充效应、表面效应和小尺寸效应，以及作为硅相参与反应，使试样的内部孔结构更加密实。对比4组纳米改性地聚合物，其中复掺 $2 \%$ 纳米 $\mathrm { S i O } _ { 2 }$ 和$1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的试样SW2-1抗冻性能最好，其体积密度只减少了 $3 . 9 \%$ ，显气孔率和真气孔率分别增加了 $2 8 . 8 \%$ 和 $1 1 . 9 \%$ 。
+
+选取固废基复合地聚合物试样SWBP与经80
+
+![](images/465f7890800b60852712bb4cfbcffce59d854277e56e35c6fdba4a0f906a7cb2.jpg)  
+图3地聚合物经冻融循环后的强度损失率  
+Fig.3 Loss ratio of geopolyer strength after freezing- thawing cycles (a) Loss ratio of compresive strength; (b) Loss ratio of flexural strength
+
+表6不同试样的体积密度、显气孔率和真气孔率  
+Table 6 Bulk density, apparent porosity,and ture porosity of samples before and after 80 freezing-thawing cycles   
+
+<html><body><table><tr><td rowspan="2">Samples</td><td colspan="2">Bulk density /g·cm3</td><td colspan="2">Apparent porosity /%</td><td colspan="2">Ture porosity /%</td></tr><tr><td>Before freezing- thawing</td><td>After freezing- thawing</td><td>Before freezing- thawing</td><td>After freezing- thawing</td><td>Before freezing- thawing</td><td>After freezing- thawing</td></tr><tr><td>SCFA</td><td>1.63</td><td>1.51</td><td>27.66</td><td>36.09</td><td>41.45</td><td>47.16</td></tr><tr><td>SWBP</td><td>1.69</td><td>1.57</td><td>25.49</td><td>32.89</td><td>38.64</td><td>43.94</td></tr><tr><td>SW 0-3</td><td>1.71</td><td>1.60</td><td>22.85</td><td>30.19</td><td>37.06</td><td>41.80</td></tr><tr><td>SW 1-2</td><td>1.73</td><td>1.62</td><td>22.53</td><td>29.32</td><td>35.30</td><td>40.47</td></tr><tr><td>SW 2-1</td><td>1.78</td><td>1.71</td><td>20.39</td><td>26.27</td><td>33.21</td><td>37.16</td></tr><tr><td>SW 3-0</td><td>1.75</td><td>1.66</td><td>21.51</td><td>28.79</td><td>34.12</td><td>39.74</td></tr></table></body></html>
+
+# 表7冻融前后试样的孔结构参数
+
+Table 7 Pore structure parameter of geopolymer before and after freezing-thawing cycles
+
+![](images/2bece8fe2ccc1a40c741446d2e65360eac3e8991898fad9922544f79e7953e0f.jpg)  
+图4冻融循环对地聚合物孔径分布曲线的影响 Fig.4 Effects of freezing-thawing cycles on pore diameter distribution of geopolymer (a) integral curve of pore diameter distribution; (b) differential curve of pore diameter distribution
+
+次冻融后的试样DWBP进行压汞法(MIP)分析，试验结果在表7和图4中给出。
+
+抗冻性与体系孔结构密切相关，目前公认的为静水压假说和渗透压假说[15]。静水压假说认为，粗孔中的水先结冰膨胀，细孔中未冻结水向粗孔渗透，形成静水压力；当由冻结产生的水压力超过体系强度所能承受的程度，即导致破坏。渗透压假说认为，孔内冰与未冻水两相的自由能之差造成渗透压使冰附近未冻结的水向冻结区迁移，并在该冻结区转变为冰。
+
+从表7和图4可见，冻融后试样DWBP的平均孔径和最可几孔径分别为 $1 3 5 . 4 ~ \mathrm { n m }$ 和 $1 0 7 . 1 ~ \mathrm { n m }$ ，大于对比试样SWBP( $1 0 1 . 1 \mathrm { n m }$ 和 $9 0 . 9 \mathrm { n m } )$ ,冻融后平均孔径、最可几孔径和孔隙率也明显增大。Bekir等[采用扫描电子显微镜研究了冻融循环后的地聚合物，发现试样内部出现许多大孔，甚至裂缝，这与本文的结果吻合。吴中伟院士根据孔径对混凝土强度的不同影响，将孔分为无害孔(直径小于 $2 0 \mathrm { n m }$ )、少害孔(直径为 $2 0 \mathrm { n m } { \sim } 5 0 \mathrm { n m }$ ）、有害孔(直径 $5 0 \ \mathrm { n m } { \sim } 2 0 0 \ \mathrm { n m } )$ 和多害孔(直径大于 $2 0 0 \mathrm { n m }$ 四种。表7表明，冻融循环也影响孔径分布，许多 ${ < } 5 0 ~ \mathrm { n m }$ 的无害孔和少害孔逐渐向有害孔和多害孔转化，尤其 ${ \cdot } { > } 2 0 0 ~ \mathrm { n m }$ 的多害孔增至 $40 . 1 \%$ ，成为孔径分布中最多的一种孔。这三种孔结构参数都反映了冻融循环使内部孔结构发生很大变化，而孔结构的被破坏又反作用于抗冻性，使试样的抗冻性变差。
+
+# 4结论
+
+(1)掺 $30 \%$ 砖粉的固废基地聚合物砂浆7d抗渗压力值达 $1 . 7 \mathrm { M P a } , 2 8 \mathrm { d }$ 抗渗渗水高度为 $1 1 . 8 \mathrm { m m }$ ，吸水率只有 $6 . 1 \%$ ；复掺 $2 \%$ 纳米 $\mathrm { S i O } _ { 2 }$ 和 $1 \%$ 纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的地聚合物试样抗渗性改性效果明显。
+
+(2)冻融循环后试样质量损失率与强度损失率的变化规律一致，其中抗折强度损失高于其抗压强度损失。经80次冻融循环后，掺砖粉的地聚合物质量损失率较未掺的降低 $8 . 5 \%$ ，单掺纳米 $\mathrm { S i O } _ { 2 }$ 的改性效果优于纳米 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ ，复掺效果稍优于单掺。
+
+(3)经过冻融循环后地聚合物体积密度降低，显气孔率和真气孔率增大；平均孔径和最可几孔径均增大，孔隙率提高；小于 $5 0 \mathrm { n m }$ 的无害孔和少害孔减少，大于 $5 0 \mathrm { n m }$ 的有害孔和多害孔均增加。
+
+# 参考文献
+
+[1] Rao F,Liu Q.Geopolymerization and its potential application in mine tailings consolidation:a review[J]. Miner. Process.Extr. Metall.Rev.,2015,36:399   
+[2] Tchadjié L N,Djobo JNY,Ranjbar N,et al.Potential of using granite waste as raw material for geopolymer synthesis[J].Ceram. Int., 2016,42:3046   
+[3]Hou YF.Fly Ash-Based Geopolymer[M].Beijing:Chemistry Industry Press,2014 (侯云芬.粉煤灰基地质聚合物[M].北京:化学工业出版社,2014)   
+[4] Zhang YR,Kong X M.Influences ofPCE superplasticizer on the pore structure and the impermeability of hardened cementitious materials[J].J.Adv.Concr.Technol.,2014,12:443   
+[5]Kameche ZA,Ghomari F,Choinska M,et al.Assessment of liquid waterand gas permeabilities of partially saturated ordinary concrete [J]. Constr. Build. Mater., 2014, 65: 551   
+[6] Auroy M,Poyet S,Le Bescop P,et al.Impact of carbonation on unsaturated water transport properties of cement-based materials[J]. Cement Concrete Res.,2015,74: 44   
+[7] Ma Y,Hu J,Ye G.The pore structure and permeability of alkali activated fly ash[J].Fuel,2013,104: 771   
+[8] Olivia M, Nikraz HR. Strength and water penetrability of fly ash geopolymer concrete[J].ARPN J.Eng.Appl. Sci.,2011,6:70   
+[9] Nasvia MC M,Ranjitha PG,Sanjayan J.The permeability of geopolymer at down-hole stress conditions:Application for carbon dioxide sequestration wells[J].Appl.Energy,2013,102:1391   
+[10] Ye Q.Research and development of nano-cement composite[J] New. Build. Mater.,2001,(11): 4 (叶青.纳米复合水泥结构材料的研究与开发[J].新型建筑材 料,2001,(11):4)   
+[11] Chen R S,Ye Q.Research on the comparison of properties of hardened cement paste between nano- $\mathrm { S i O } _ { 2 }$ and silica fume added[J]. Concrete,2002,(1):7 (陈荣升,叶 青.掺纳米 $\mathrm { S i O } _ { 2 }$ 与掺硅粉的水泥硬化浆体的性能比 较[J].混凝土,2002,(1):7)   
+[12] Ye Q, Zhang Z N,Chen R S,et al. Interaction of nano- $\mathrm { S i O } _ { 2 }$ with portlandite at interface between hardened cement paste and aggregate[J].J.Chin.Ceram. Soc.,2003,31:517 (叶 青,张泽南,陈荣升等.纳米 $\mathrm { S i O } _ { 2 }$ 与水泥硬化浆体中 $\mathrm { C a ( O H ) } _ { 2 }$ （204号 的反应[J].硅酸盐学报,2003,31:517)   
+[13] Zhu K Z,LiYW, Zhu HY, et al. Research development on the nano-modification cement[J].Cement Guide for New Epoch,2011, (3): 6 (朱孔赞,李因文,朱化雨等.纳米改性水泥的研究进展[J].新世 纪水泥导报,2011,(3):6)   
+[14] Shi H S,Guo X L.Civil Engineering Materials[M]. 2nd ed. Chongqing: Chongqing University Press,2013 (施惠生,郭晓潞.土木工程材料[M].第二版.重庆:重庆大学出 版社,2013)   
+[15] Dunaszegi L.HPC for durability of the confederation bridge[A]. HPCBridge Views[C]. Skokie,IL:National Concrete Bridge Council, 1999   
+[16] Topcu IB,Toprak MU,Uygunoglu T.Durability and microstructure characteristics of alkali activated coal bottom ash geopolymer cement[J].J. Clean.Prod.,2014,81: 211   
+[17] Wu ZW,Lian H Z.High Performance Concrete[M].Beijing: China Railway Publishing House,1999 (吴中伟,廉慧珍.高性能混凝土[M].北京:中国铁道出版社, 1999)
+
+(责任编辑:吴 岩)

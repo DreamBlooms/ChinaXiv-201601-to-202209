@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "作者贡献声明和CRediT研究和应用现状综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者’王岩哲 作者1’刘凤红\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）中国科学院文献情报中心，北京中关村北四环西路33号100190摘要：[目的]梳理国内外作者贡献声明领域的研究进展以及作者贡献声明的实施现状，为之后的相关研究提供参考。[方法]采用文献调研的方法对国内外研究进展进行总结，采用案例调研的方法对作者贡献声明不规范的现状进行说明。[结果]国内外有关作者贡献声明的研究主要集中在署名资格与排序、作者贡献披露形式、作者贡献要素、作者贡献权重和作者贡献网络五个方面；著录率低和著录不规范是作者贡献声明实施中的主要问题。[结论]建议基于CrediT分类法、结合ORCID 等推进作者贡献声明的实施和元数据体系的建议，注意实施过程中的规范和监督。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 作者贡献声明；CRediT；期刊 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着科学研究分工的细化、跨学科研究与合作的开展，论文署名作者数量越来越多。The Winnower[1]调查发现1913年至 2013年论文署名作者由平均每篇论文1人增加至5人；《美国国家科学院院刊》（Proceedings of the National Academy of Sciences ofthe United States of America，PNAS）前主编 Cozzarelil2]发现1975年至2004年其期刊论文篇均作者数由3人上升至7人；惠康基金会（TheWellcome Trust）发现遗传学领域每篇论文作者数量由2004年的10人上升至2010年的29人，更不乏“超级作者”（一篇文章有超过 50 位作者，Hyperauthorship）的现象。在这种背景下，传统的只列作者姓名并依靠作者署名顺序衡量作者贡献的署名方式带来了很多弊端，如关于作者署名的纠纷和不当行为层出不穷，在绩效考评过程中难以判断每个作者的实际贡献。由此，作者贡献声明（Author Contribution Statement,ACS）应运而生，并被越来越多地应用到期刊之中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明的提出和使用具有重要意义，体现在：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）作者贡献声明可为科技人才评价提供更为精确的依据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着经济的发展，培养人才、吸引人才已成为各个国家提升国家实力、力求在国际竞争中赢得优势的战略选择。但在实际操作过程中，人才评价过程往往过分注重量化考核，存在简单化、一刀切的现象。规范的作者贡献声明符合个人评价与团队评价相结合、定性评价与定量评价相结合的要求，此外由于不同行业、不同学科的差异性，以及当前研究人员跨行业、跨学科合作的广泛开展，作者贡献声明将作者与实际贡献和实际能力对应起来，有助于用人机构挑选出符合实际需求的人才，有助于科学衡量区分个人贡献，从而为科技人才的评价提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于研究者自身，作者贡献声明弥补了位次排序的不足，通过明确不同位次作者所做出的不同贡献、对知识产权做出了归属，从而有利于提升作者的满意度，帮助寻求某方向的合作者，维持长久高效的合作，产出更多丰富的学术成果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2）规范的作者贡献声明是学术伦理和科研诚信建设的重要部分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，在署名方面，一文多用、挂名等不端行为[3]等已成为常见的违反学术伦理规范和科研失信现象。2019 年6月中共中央办公厅、国务院办公厅印发了《关于进一步弘扬科学家精神加强作风和学风建设的意见》[4]，该意见指出“科研诚信是科技工作者的生命，科技工作者应严守科研伦理规范，守住学术道德底线，按照对科研成果的创造性贡献大小据实署名和排序，反对无实质学术贡献者“挂名”，导师、科研项目负责人不得在成果署名、知识产权归属等方面侵占学生、团队成员的合法权益。”同年9月首个针对学术不端行为的行业标准（CY/T174—2019《学术出版规范期刊学术不端行为界定》）正式实施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明能够在一定程度上署名不端行为的发生。一方面，由于作者贡献声明对不同作者的责任做出了明确归属，如果文章出现问题，可明确找到相关责任人；另一方面，如果文章未给出作者贡献声明，第一作者/通讯作者往往在评价时处于有利地位，对于他们来说多带上一个或两个作者对其学术收益不带来明显损失。但是，如果文章明确了列出了所有作者的具体贡献又或者是贡献权重，那么作者将会慎重考虑是否给别人挂名，从而减少挂名现象[3]。相比于未对作者贡献进行声明的期刊，设置作者贡献声明更易于期刊编辑衡量作者的实际贡献，减轻作者排序与实际贡献不符的现象。少数期刊如Rethinking Ecology 的作者贡献声明甚至明确列出了作者贡献权重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）规范的作者贡献声明是一流科技期刊的建设要素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，我国非常重视科技期刊建设。提升期刊的规范性（如作者指南、投稿指南、作者贡献声明)也是打造一流期刊的必然要求。在期刊中设置作者贡献声明一方面说明期刊的学术规范意识较强，另一方面能够说明期刊的严谨性，即期刊注重研究者对于所撰写文章的参与度、注重研究者个人知识产权。此外设置作者贡献声明也能够帮助期刊识别潜在的审稿专家和优秀的研究人员。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可见，作者贡献声明对于精准识别人才、维护科研诚信和学术伦理以及规范科技期刊，都具有积极而重要的意义。因此，有必要系统梳理总结作者贡献声明的研究和实践现状，为推动我国科技期刊制定作者贡献声明政策提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1国内外研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外有关作者贡献声明的研究主要集中在以下五个方面：1）署名资格与排序；2）作者贡献披露形式；3）作者贡献要素；4）作者贡献权重；5）作者贡献网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1署名资格与排序 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "钱寿初β对国际上“著作者”和“贡献者”（“作者”和“致谢者”）的改革以及国际标准的演化修订进行了总结，并参照ICMJE标准在《中华医学杂志英文版》、《中华小儿科杂志》和《中华神经病杂志》进行了作者资格问卷调查，发现524位作者中只有197位（ $3 6 \\%$ ）符合作者标准；Hwang等以1998年至2000年 Radiology 期刊中至少3位合著作者的论文的作者贡献声明作为研究对象，发现 $6 8 \\%$ 的作者满足ICMJE标准；Liang 等[7以北京大学、清华大学、北京医药大学三所学校导师和学生同时署名的博硕士论文为研究对象，对其署名排序模式进行了分析；Jonathan等8对3合著作者、5合著作者及通讯作者的位置进行设定，对评估机构的负责人员发放问卷针对其对不同位次作者的贡献认知进行了调研；Wager以生物医学领域的234本期刊作者须知为研究对象，对其署名政策进行总结，发现有 $2 9 \\%$ 的期刊采用了ICMJE标准，期刊的署名政策仍存在众多差异；Frandsen、Nicolaisen[10]在经济学、信息科学与高能物理学三个领域分别选取了其核心期刊对其1978年至 2007年的学术论文作者署名顺序进行了研究，发现经济学与高能物理学作者署名多按字母顺序，信息科学以字母顺序署名的文章数量在30年间下降了约 $10 \\%$ ；Costas 和 Bordons[1l]对生物医学、材料科学与自然资源领域作者年龄、职称对署名顺序的影响进行了研究；Kosmulski[2]选取了物理化学领域的2002年至2011年6个主要发文城市的研究论文为对象，对其研究领导者的署名位置进行了分析；Resnik 等[13]从期刊引证报告（Jourmal Citation Reports,JCR）数据库中随机抽取了 600 种期刊对其作者政策进行了调研，对作者政策的不同角度、学科差异进行了总结；Rud14]对 Journal of the Chemical Society的558篇论文进行了调研，发现 $7 7 \\%$ 的论文作者以字母顺序排列；金伟、乔桢[15]对我国科技期刊作者署名的历程（简单署名、通讯作者的出现、共同第一作者的出现）进行了论述；Eriksson等[1结合定量与定性分析两种方法对作者进行评价以求减少署名中的不端现象；寇蕾蕾、祝忠明[17通过进行网络调查、文献调研对当前不同领域的署名制度存在的问题进行了梳理，并为改革署名制度提出了建议；丛敏[18]对国内外期刊作者署名资格的6种标准、当前论文署名的4种排序模式（贡献力递减模式、U型模式、姓氏顺序模式和随机模式）和作者贡献要素（作者贡献声明的主要内容）与署名顺序的对应进行了讨论。董敏[19]以15种医药卫生类期刊为对象，发现其中5种期刊遵循ICMJE 标准、5种遵循中华医学会论文署名。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2作者贡献披露形式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Marusic 等[20]选取一本医学类期刊针对三种不同的作者贡献披露形式——开放式（作者自己填写贡献，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Open-ended)、分类式（基于ICMJE 标准提出的11种贡献分类）与指导式（不给出明确贡献分类）对 337篇合著论文的作者展开调研，分析了不同贡献披露形式与不满足ICMJE 标准的作者数量之间的因果关系；Bates 等[2I以三本采用不同作者贡献披露形式的医学类期刊为研究对象，对其不满足ICMJE 标准的作者（潜在的名誉作者）数量差异进行了分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3作者贡献要素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Verhagen 等[22]提出了基于四种贡献要素分类的定量统一作者声明（Quantitative Uniform AuthorshipDeclaration，QUAD)；Baerolocher 等[23]以3年内4种医学类期刊合著作者大于4的研究论文作者贡献声明为对象，将作者贡献要素归为11类，并对每类贡献要素不同位次作者的参与程度进行了研究，建议将作者分为“主要作者”、“贡献作者”与“监督作者”。Clement[24]对 ICMJE作者标准进行了改进，基于四种要素提出了作者贡献矩阵；崔林蔚、陆颖[25]选取《图书情报工作》851篇文献的作者贡献声明作为研究对象，对其进行规范化标注和合并，得到29种贡献要素，对不同署名位次的作者贡献要素规律进行了探究，发现位次居于第一的作者起到决定性作用、位次居于第二的作者起到贯穿作用、位次居于第三、第四位的作者起到辅助作用，通讯作者则起到完善性作用。且随着位次降低、作者贡献越来越分散；张闪闪、顾立平[26]通过对2种综合类期刊、8种医学类期刊的作者贡献声明政策进行案例分析，对ACS 政策与作者贡献要素进行了归纳和对比，根据归纳的21种作者贡献要素构建了反映科研生命周期的三维层次框架；Zhang 等[27]对PubMed中采用临床试验的446篇 PLoS文章的贡献声明进行了提取，对贡献要素的关联关系进行了分析并提出了临床试验领域的CRediT-RCT 分类；Lariviere 等[28]以不同学科的 87002 篇文章的作者贡献声明为对象，对不同学科作者贡献要素构成、不同贡献要素之间的关系以及资历与贡献要素之间的关系进行了研究；Sauermann、Haeussler[29]以PLoSOne为对象对作者署名位次与贡献要素之间的对应关系进行了分析，并通过对约 6000 名通讯作者发放问卷对其如何使用作者贡献声明和对贡献声明的实施担忧进行了调查；Yang等[30]选取3种医学类期刊对其贡献要素以及贡献要素与署名顺序之间的关系进行了调研；丁敬达、王新明[3]对 3 种国内外图情学期刊作者贡献声明的格式及内容构成要素进行了分析和比较，对不同署名次序的作者与不同类型贡献要素之间的关系进行了探究；张梦莹等[2以两本图情领域期刊——《图书情报工作》《数据分析与知识发现》和两本医学领域期刊——《中国全科医学》《世界华人消化杂志》的 1614篇论文的作者贡献声明为对象，对作者贡献要素进行分类，并从学科特性、合著作者数目、署名顺序、通讯作者等方面分析作者贡献要素的分布差异；Holcombel33]对CRediT反应的作者角色与ICMJE标准规定的作者角色进行了对比，对采用CRediT角色分类的意义进行了阐述；Matarese、Shashok[34]结合“致谢者”做出的贡献对 CRediT分类的不足之处进行了说明，并对其三种贡献要素提出了修正建议，并建议增加两种贡献要素；College &Research Libraries 的主编Fitzgerald 等[35结合CRediT分类在社会科学领域的不足，对其进行改进，提出了12 种图书馆学作者角色分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4作者贡献权重关于作者贡献权重的研究可以分为：1）作者贡献权重的计算2）作者贡献权重的应用两个方面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1作者贡献权重的计算 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）第一作者分配法与标准分配法Cole 与Colel36提出了第一作者分配法（First AuthorCounting)，即第一作者贡献为1，其余作者贡献为0；Lindsey[37]提出了标准分配法（Normal/Standard Counting），即所有署名作者贡献均为1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）基于作者数量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Price[38]假设作者贡献平均分配，提出了分数分配法(FractionalCounting)，即有 $\\mathfrak { n }$ 位共同作者的情况下，每位作者的贡献为1/n。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）基于作者署名排序 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Zuckerman[39]通过对诺贝奖获得者在文章中的署名进行调研，提出了贵族义务（Noblesse Oblige）模型，即署名最后的作者贡献为 1/2，其余作者均分其余贡献；Hooydonk[40]，樊玉敬[41l假设作者作者贡献大小以署名排序等差递减，对分数分配法做出了改进，提出了比例分配法（Proportional Counting)；Trueba、Guerrero[42]对比例分配法做了改进；Hagen[43]假设作者贡献大小以署名排序等比递减，即第n位作者的贡献为第 $\\mathbf { n } { + } 1$ 位作者贡献的（ $\\cdot \\mathbf { n } { + } 1$ ） $/ \\mathrm { n }$ 倍，构建了调和分配（Harmonic Counting）模型；Tscharntke 等[44]基于署名排序反映贡献大小的假设构建了 SDC（sequence-determines-credit）分配模型和FLAE（first-last-author-emphasis）分配模型，SDC分配模型规定第 $\\mathbf { \\eta } _ { \\mathrm { ~ n ~ } }$ 位作者的贡献为 $1 / \\mathrm { n }$ ( $1 \\leqslant \\mathrm { { n } } \\leqslant 1 0 \\$ ，第11位作者起贡献均为 $5 \\%$ ；FLAE模型则规定第一作者贡献为1，署名最后的作者贡献为1/2，其余作者均分其余贡献；王凯珍等[45]假设第一作者是其余作者贡献权重的两倍，其它位次作者贡献权重相同，构建了学术论文合著作者计分公式；吴海平[46依据边际收益递减规律与类比分形图形的方法确定了作者贡献的权重系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）基于作者贡献要素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "廖仁平[47]基于层次分析和模糊数学的方法计算了作者贡献权重；陈维进[48]等利用层次分析法构建了初级维度指标和次级维度指标，对生物医学论文作者的贡献进行了量化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5）基于作者贡献声明 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "丁敬达、王新明[49]构建了一种基于作者贡献声明的贡献权重计算法，并选取了PLoSONE 两年内发表的研究论文中的作者贡献声明为对象计算了贡献权重、与标准计算方法和调和计算方法进行比较，发现该方法能更好地应用于精准学术评价和研究专长识别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6）合著作者自己填写",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Herz 等[50通过对合著作者发放调查问卷要求作者估算自己的贡献权重，发现无论是否限制权重和为$100 \\%$ ，作者在评估自我贡献的时候均存在自我倾向（即高于实际贡献或合著者认为其所做贡献)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 作者贡献权重的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "唐璞妮、徐苑琳[51]通过引入基于作者署名排序的贡献权重对学术迹进行了改进；Xuanzhen Liu 等[52]利用贡献权重构建了引用分配模型以对h指数、g指数进行补充，以求实现对研究者的科学评价；王江盼等[53]将基于作者排序的贡献权重与作者引文量、文章的 PageRank 值进行结合提出了论文合著者贡献分配算法（ACA_PR 算法)，并以美国物理学会的数据集进行了验证，发现ACA_PR 算法准确率为 $8 0 . 6 4 \\%$ ； Rahman等[54]根据作者贡献权重提出了作者表现指数（Author Performance Index，API)；张闪闪等[55]结合作者贡献权重、文献重要性和科研人员重要性构建了基于ACS的科研人员学术影响力评价框架；唐晓波等[5融合专家的专长术语被引频次、作者贡献权重计算了专家的专长权重，以期识别专家专长和帮助进行专家评价、专家推荐。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 作者贡献网络",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Correa等[57基于PLoSOne的作者贡献声明根据贡献要素频次将其聚类为5类贡献要素，通过构建作者-贡献要素二分网络，设立有效作者并对二者的分布性质进行了分析，对Lariviere等人[28]的研究进行了补充;Lu Chao 等[58基于PLoS旗下的作者贡献贡献声明构建了贡献者网络，并据此将贡献者划分为专家、合作者、多面手三类，分别对其贡献要素进行了分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.作者贡献声明的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "迄今为止，最受关注并得到最广泛应用的作者贡献声明体系当属CRediT分类法。该分类法于2012 年由惠康基金会和哈佛大学合作发起（Contributor Roles Taxonomy,CRediT[59l)，并在期刊中进行试验，最终形成14种贡献角色（见表1），现已被标记标准机构 CASRAI（Consortia Advancing Standards in ResearchAdministration，CASRAI）所采用；2014 年Mozilla Science Lab 与几个出版协会合作共同发起了Projectcreditnet[60]项目，设立了贡献标识（Contributorship Badges）以求解决传统文字贡献声明不易机器提取、形式不规范的问题，此外由于贡献标识嵌入了 JSON格式的元数据，可与ORCID 等结合显示在作者页面[61]（见图1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了促进科研诚信与透明度，2018 年美国国家科学院主席 Marcia McNutt 联合 eLife、New EnglancJournal、Science、Cell的前主编/编辑[62]对期刊采用CRediT 分类提出了倡议。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "截至目前，已有30 余家出版商（如 SpringerNature、Elsevier、Taylor&Francis、SAGE）、1个大学、9个集成平台（如Aries Systems/Editorial Manager、Clarivate Analytics/ScholarOne）、3个开放出版协会采用了CRediT分类[59]。根据 STM在 2018年的统计报告，CRediT分类现可被上述出版商旗下的约10600 种学术期刊使用，科研人员如果在投稿时使用 Editorial Manager或 ScholarOne 系统，可以通过“作者和机构”步骤中的“提供CRediT贡献”链接，直接进入相应的CRediT分类[63]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/669b8fb73839ba2e3a1fa562a6c415cd66401f3c6f48259435cc8eeb6f6a2dfa.jpg",
+        "table_caption": [
+            "表1CRediT贡献角色与贡献标识"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>角色</td><td>含义</td><td>贡献标识</td></tr><tr><td>T1</td><td>概念化</td><td>提出想法，制定或逐步形成总体的研究目标和发展目的</td><td>Conceptualization</td></tr><tr><td>T2</td><td>方法</td><td>开发或设计方法；创建模型</td><td>Methodology</td></tr><tr><td>T3</td><td>软件</td><td>软件编程、开发；设计计算机程序；执行计算机代码和支持 算法的实现；测试现有的代码组件</td><td>Computation</td></tr><tr><td>T4</td><td>验证</td><td>验证结果/实验和其他研究产出的整体可重复性/再现性，无 论是作为科研活动的一部分还是单独进行的活动</td><td>Testing</td></tr><tr><td>T5</td><td>分析</td><td>应用统计学、数学、数值或其他正规技术来分析或综合研究 数据</td><td>FormalAnalysis</td></tr><tr><td>T6</td><td>调查</td><td>进行研究和调查过专门进行实验或数据/证据的采集</td><td>Investigation</td></tr><tr><td>T7</td><td>资源</td><td>提供研究材料、试剂、患者、实验室样本、动物、仪器、计 算资源或其他分析工具</td><td>Resources</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/df316a0c76e0dbb107651e3d22a2da9d02ea276c2d512ab74cffb8386c11f2af.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T8</td><td>数据处理</td><td>数据管理、注释（生成元数据）、数据清理，为了初次和今 后重复使用而进行的数据维护（包括解释数据所需的软件代 0000 Data Curation</td></tr><tr><td>T9</td><td>写作 (初稿)</td><td>码） 准备、创作和/或介绍已发表的作品，特指撰写初稿（包括实 质性的翻译)</td></tr><tr><td>T10</td><td>编辑）</td><td>写作（审稿和准备、创作和/或呈现原来研究小组所发表的作品，特指批判 性审稿、评论或修订(包括出版前或出版后的阶段)</td></tr><tr><td>T11</td><td>可视化</td><td>出版工作的可视化准备、创建和/或展示，特指可视化/数据 展示</td></tr><tr><td>T12</td><td>监督</td><td>领导研究活动计划和执行监督，包括核心团队之外的指导</td></tr><tr><td>T13</td><td>项目管理</td><td>负责项目管理、协调研究活动计划和执行</td></tr><tr><td>T14</td><td>资金支持</td><td>获得本出版物所属项目的资金支持</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb3628c7f2f08a3fc9c2a2539e4f59cd5e5f8c756e53a4876af337bd40fb2b84.jpg",
+        "img_caption": [
+            "图1贡献标识植入ORCID作者页面实例"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．实际应用现状 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 ACS著录不规范 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为此本文结合美国国家科学院对不同出版集团作者政策的调查[65]和张闪闪、顾立平的调研[26],以 Nature、PLoS 系列期刊、Cell、PNAS、Health Services Research（HSR）、Rethinking Ecologoy六种期刊为例从1）提交方式、提交时间；2）著录形式；3）书写格式；4）强制性；5）是否形成元数据；6）特殊规定六个方面对 ACS著录不规范的现象进行详述，见表 2。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dba716df2f956875f608a3892389585a69f17e9ed4e13a67f4e5caf2939d4047.jpg",
+        "table_caption": [
+            "表2期刊ACS政策"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">期刊</td><td>Nature</td><td>PLoS系列期刊</td><td>Cell</td><td>PNAS</td><td>HSR</td><td>Rethinking Ecology</td></tr><tr><td colspan=\"2\">提交方式、提交时 间</td><td>初次提交时 作为稿件一 部分提交</td><td>提交人在提交 稿件时提交; PLoS One 会在 提交时通知所</td><td>稿件一部 分</td><td>在提交系统 中提交，并 不作为稿件 一部分</td><td>由通讯作者 在收到修改 稿件通知之 后、最终提交</td><td>作为“给编辑 的信”单独提 交</td></tr><tr><td>著</td><td>独立模块</td><td>√</td><td>有作者</td><td>√</td><td></td><td>之前提交</td><td>√</td></tr><tr><td>录</td><td>脚注</td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9eccecc438cb223c9dcb656ffdc7c207a312fa6123e5d9841d63f59e236a1440.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>形</td><td>附录</td><td></td><td></td><td></td><td></td><td>~</td><td></td></tr><tr><td>式</td><td>融入作者信 息模块</td><td></td><td>~</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"5\">书 写 格 式</td><td>CRediT</td><td></td><td>√</td><td>建议</td><td></td><td></td><td></td></tr><tr><td>作者姓名</td><td>首字母</td><td></td><td>首字母</td><td>首字母</td><td>全名</td><td>首字母</td></tr><tr><td>贡献要素</td><td>无限制</td><td></td><td></td><td>提供范例</td><td>给出、可额外 填写</td><td></td></tr><tr><td>贡献权重</td><td></td><td></td><td></td><td></td><td></td><td>作者自己给 出</td></tr><tr><td>格式</td><td>混杂，如姓 名+贡献要 素；贡献要</td><td></td><td></td><td>姓名+贡献 要素</td><td>作者贡献矩 阵</td><td>姓名+贡献要 素。 姓名+贡献权</td></tr><tr><td colspan=\"2\">强制性</td><td>素：姓名 √</td><td></td><td>~</td><td>√</td><td>√</td><td>重</td></tr><tr><td colspan=\"2\">是否形成元数据</td><td></td><td>~</td><td></td><td></td><td></td><td>贡献权重形 成元数据</td></tr><tr><td colspan=\"2\">特殊规定</td><td>同等贡献/ 监督的作者 数量不超过 6位</td><td>同等贡献/资深 作者可通过数 字脚标进行标 注</td><td></td><td>同等贡献可 通过数字脚 标进行标注</td><td>通讯作者必 须保证作者、 贡献者、致谢 者对贡献矩 阵达成共识</td><td>所有合著作 者均会被邮 件确认；贡献 权重会被构 建作者贡献 索引</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表2可以发现，作者姓名首字母和贡献要素结合的方式构成了大部分作者贡献声明，然而上述期刊均未给出作者姓名首字母相同时的补充规定，以PNAS为例，为了区分此种现象,部分缩写（如N.Rigamonti，N.Rieder）、作者全名（如JiaoLi，JinLi）同时存在。缩写和全名的难以对应加上作者自己填写的笔误现象造成难以通过现有的贡献声明形成元数据体系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "孔晔晗[6等人对17个社科领域期刊的 ACS 政策的调研也验证了上述结果，国内期刊的ACS 政策存在表述简单、在提交时间、提交方式上未给予明确规定、呈现形式和写作格式不统一的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，针对通信作者和“同等贡献”仍存在以下问题：郭婷婷、李刚[67]对中文社会科学引文索引(ChineseSocial Sciences Citation Index,CSSCI） 收录的 553种社会科学类期刊和CSCD 收录的 686种中文期刊进行调查，发现仅“通信作者”就有如“通讯作者”、“通信联系人”、“联系人”、英文表达、符号表达、中英文双重标注在内的29种标注方式；Akhabue、Lautenbach[68]，Wang 等[69]，Li等[70]，Jia等[71]，刘素青等[72]，丛敏、王景周[73]发现同等贡献作者存在滥用现象，近年来医学类期刊“同等贡献”作者署名论文数量、占比增幅显著，然而无一期刊提供了“同等贡献”的界定办法，只有 Nature 规定“同等贡献”作者数量不超过6位，中华医学会系列杂志规定同一单位作者不能著录同等贡献，如确实需要著录则须提供全部作者的贡献声明供期刊编委会核查。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 ACS著录率低 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，国外对于期刊ACS 的实施程度、规范程度的文献较少，相比之下，国内学者对其进行了更多调研。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "孟美任等[74]采用简单随机抽样的方法对 2015年中文核心期刊的401种期刊进行了调研，发现样本期刊中 $9 9 \\%$ 以上期刊未提供作者贡献声明，而著录了ACS 的《数据分析与知识发现》和《图书情报工作》分别于2014 年和 2015 年推出ACS 模块，远远晚于Nature；徐文华、王景周[75对中国科学引文数据库（ChineseScience Citation Database,CSCD）2017-2018版的1229种期刊进行了调查，发现1028种中文期刊中仅有2种（《数据分析与知识发现》和《中国眼视光学与视觉科学杂志》，占比 $0 . 1 9 \\%$ ）有专门的 ACS 模块；201种英文期刊中有30种有专门的ACS模块（占比 $1 4 . 9 3 \\%$ ),此外在已有的32种采用模块著录ACS的期刊中，医药/卫生、生物科学、自然科学著录占比高，其余学科占比总和约五分之一；刘丽萍、刘春丽[7]，张闪闪、顾立平[26]的研究显示 JAMA、The Lancet、NEJM、Science、Nature、PNAS 等12 种期刊中只有 Nature 做出了强制提交ACS 的要求；孔晔晗等[66根据社会科学引文索引（Social Science Citation Index,SSCI）和中国社会科学引文索引（CSSCI）分别对国内外17个社科领域的ACS政策进行了调研，发现国外的17个社科领域都有期刊制定并实施了ACS 政策，而国内的782社科期刊中仅有18种期刊有ACS政策，占比 $2 . 3 \\%$ 。董敏等[9]对 2018年《中文核心期刊要目总览》中251种（去除3种未更新期刊、1种停刊期刊）医学卫生类期刊进行统计，发现仅有18 种期刊著录了ACS，占比 $7 . 2 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4．启示和建议",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1推进ACS著录",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "贡献声明一方面有助于保障作者署名的透明性和规范性，减少学术不端现象，另一方面有助于科学衡量区分个人贡献，为科技人才的评价提供依据。但当前 ACS 著录仍处于初级阶段，设置“作者贡献声明\"的国内期刊数量极少，故呼呼学术界和出版界加强对 ACS 的重视程度，推进ACS 著录的普及。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2基于CRediT分类、ORCID 等推动ACS元数据体系建设",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由姓名和贡献要素相结合的段落式文本构成了当前绝大部分的作者贡献声明内容，但作者自行总结的贡献要素可能存在表达不规范、表达模糊等问题，考虑到作者可能认为存在无法涵盖的贡献要素，建议额外设置补充内容的提交以满足作者需求。但在采用自行填写贡献要素时，期刊及编辑一方面应在期刊网站中详细说明填写规范（如避免修饰性前缀、避免歧义表达)，另一方面应对作者填写的贡献要素予以审核，规避无意义、重复性贡献要素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，贡献声明的文本格式也亟需建立规范。作者往往同时承担多种贡献角色、同一贡献角色也往往由多人共同承担，如不建立规范则会产生多（作者）对多（贡献要素）、一（作者）对多（贡献要素）、多（作者）对一（贡献要素）等不同格式的混杂。考虑到基于贡献声明改进人才评价的需求，ACS 的著录应形成易于分析和提取的元数据体系（如JATSxml格式）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于姓名易发生重名的问题，建议推进ACS和ORCID的结合。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“协助性”和“领导性”贡献要素的出现则表明了作者对贡献权重的重视，未来期刊可考虑同时收录作者贡献权重。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Aboukhalil R.The rising trend in authorship[J]. The winnower,2O14,2: e141832. [2]Cozzareli NR.Responsible authorship of papers in PNAS[J].Proceedings of the National Academy of Sciences,2004,101(29): 10495-10495. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]王景周．规范著录作者贡献声明对科研评价及科研合作的促进作用[J]．中国科技期刊研究,2020,31(07): 770-775.   \n[4]中共中央办公厅，国务院办公厅．关于深化项目评审、人才评价、机构评估改革的意见 [EB/OL]. [2020-11-09]. http://www.gov.cn/zhengce/2018-07/03/content_5303251.htm.   \n[5] 钱寿初．作者署名和作者的贡献[J]．中国科技期刊研究,2002,13(01):9-11.   \n[6]Hwang S S,Song HH,Baik JH,et al. Researcher contributions and fulfillment of ICMJE authorship criteria: analysis of author contribution lists in research articles with multiple authors published in Radiology[J]. Radiology, 2003,226(1): 16-23.   \n[7] Liang L,Liu J，Rousseau R. Name order patterns of graduate candidates and supervisors in Chinese publications: A case study of three major Chinese universities[J]. Scientometrics, 2OO4, 61(1): 3-18.   \n[8]Wren JD, Kozak K Z, Johnson K R,et al. The write position: A survey of perceived contributions to papers based on byline position and number of authors[J]. EMBO reports,2007, 8(11): 988-991.   \n[9]Wager E. Do medical journals provide clear and consistent guidelines on authorship?[J]. Medscape general medicine,2007, 9(3): 16.   \n[10] Frandsen TF,Nicolaisen J. What is in a name? Credit assignment practices in different disciplines[J]. Journal of informetrics,2010,4(4): 608-617.   \n[11]Costas R,Bordons M.Do age and professional rank influence the order of authorship in scientific publications? Some evidence from a micro-level perspective[J]. Scientometrics, 2011,88(1): 145-161.   \n[12] Kosmulski M.The order in the lists of authors in multi-author papers revisited[J]. Journal of Informetrics, 2012, 6(4): 639-644.   \n[13] Resnik DB,Tyler A M,Black JR,etal. Authorship policies of scientific journals[J]. Journal of Medical Ethics,2016,42(3): 199-202.   \n[14] Rudd E. The effect of alphabetical order of author listing on the careers of scientists[J]. Social Studies of Science, 1977, 7(2): 268-269.   \n[15]金伟，乔桢．我国科技期刊合著作者署名的演变[J]．辽宁师范大学学报(自然科学版),2018,41(04): 560-564.   \n[16] Eriksson S, Godskesen T,Andersson L,et al. How to counter undeserving authorship[J]. Insights: the UKSG journal, 2018, 31(1): 1-6.   \n[17]寇蕾蕾，祝忠明．现行论文作者署名制度存在的问题及对策建议[J].中国科技期刊研究，2020，31(05): 498-505.   \n[18] 丛敏．基于作者贡献声明的期刊防范不当署名的研究[J]．编辑学报,2020,32(03):303-306.   \n[19]董敏，杜亮，雷芳，等．生物医学类中文学术期刊作者贡献声明著录现状分析[J/OL]．科技与出版：1-6. DOI:10.16510/j.cnki.kjycb.20220420.003.   \n[20] Marusic A,Bates T,Anic A,etal. How the structure of contribution disclosure statements affects validityof authorship:arandomized study in a general medical journal[J]. Current medical research and opinion,2006,2(6): 1035-1044.   \n[21] Bates T,Anic A,Marusic M,et al. Authorship criteria and disclosure ofcontributions: comparison of3 general medical journals with different author contribution forms[J]. Jama,2OO4,292(1): 86-88.   \n[22] Verhagen JV, Wallace KJ,Collins S C,et al. QUAD system offers fair shares toall authors[J]. Nature,2003, 426(6967): 602-602.   \n[23] Baerlocher M O,Newton M, Gautam T,et al.The meaning of author order in medical research[J]. Journal of Investigative Medicine, 2007, 55(4): 174-180.   \n[24] Clement TP.Authorship matrix: a rational approach to quantify individual contributions and responsibilities in multi-author scientific articles[J]. Science and engineering ethics, 2014, 20(2): 345-361. [25]崔林蔚，陆颖．基于作者署名排序的作者贡献要素分析——以《图书情报工作》2015-2016 年作者贡献 声明为例[J]．图书情报工作,2017,61(09):80-86.   \n[26]张闪闪，顾立平．作者贡献声明政策的初探性研究[J]．中国科技期刊研究,2015,26(11):1113-1121. [27] Zhang Z, Wang SD,Li G S,et al.Thecontributor roles for randomized controled trials and the proposal for a novel CRediT-RCT[J]. Annals of translational medicine,2O19, 7(24).   \n[28]Lariviere V,Desrochers N，Macaluso B,et al. Contributorship and division of labor in knowledge production[J]. Social studies of science, 2016, 46(3): 417-435.   \n[29] Sauermann H, Haeussler C.Authorship and contribution disclosures[J]. Science advances,2O17,3(11): e1700404.   \n[30] Yang S, Wolfram D,Wang F.The relationship between the author byline and contribution lists: a comparison of three general medical journals[J]. Scientometrics,2017,110(3): 1273-1296.   \n[31]丁敬达，王新明．作者贡献声明及与作者署名之间的关系——基于3种图情学期刊的实证研究[J]．图书 情报工作,2017,61(24): 63-70.   \n[32]张梦莹，章成志，王杰．不同学科的作者贡献分布差异研究——以图情和医学领域的四种期刊为例[J]. 图书馆论坛,2018,38(12):112-119.   \n[33] Holcombe AO. Contributorship,not authorship: Use CRediTto indicate who did what[J].Publications, 2019, 7(3): 48.   \n[34] Matarese V,Shashok K.Transparent atribution of contributions to research: aligning guidelines to real-life practices[J]. Publications,2019,7(2): 24.   \n[35]Fitzgerald S,Budd J，Beile P,et al. Modeling Transparency in Roles:Moving from Authorship to Contributorship[J]. College & ResearchLibraries,2020,81(7):1056.   \n[36] Cole JR,Cole S. Social stratification in science[J].American Journal of Physics,1974,42(10): 923-924. [37]Lindsey D.Production and citation measures in the sociology of science:The problem of multiple authorship[J]. Social Studies of Science,1980,10(2): 145-162.   \n[38] Price D S. Multiple authorship[J]. Science,1981, 212(4498): 986-986.   \n[39] Zuckerman H A. Patterns of name ordering among authors of scientific papers: A study of social symbolism and its ambiguity[J]. American Journal of Sociology, 1968,74(3): 276-291.   \n[40] Van Hooydonk G.Fractional counting of multiauthored publications: Consequences for the impact of authors[J]. Journal of the American Society for Information Science,1997,48(1O): 944-945.   \n[41]樊玉敬．合著论文作者的名誉分配[J].情报杂志,1997(01):37-38+49.   \n[42]Trueba FJ,Guerrro H.A robust formula to credit authors for their publications[J]. Scientometrics,2004, 60(2): 181-204.   \n[43] Hagen N T. Harmonic publication and citation counting: sharing authorship credit equitably-not equally, geometrically or arithmetically[J]. Scientometrics, 2010, 84(3): 785-793.   \n[44] Tscharntke T, Hochberg ME, Rand TA, et al. Author sequence and credit for contributions in multiauthored publications[J]. PLoS biology, 2007, 5(1): e18.   \n[45]王凯珍，董渝华，蔡有志，等．北京体育大学科研定量化考核及科研工作量计算方法的研究[J]．北京体 育大学学报,2001(03): 294-295+304.   \n[46] 吴海平．合著论文作者贡献权重算法研究[J]．农业图书情报学刊,2017,29(03):56-58.   \n[47]廖仁平．模糊著者排序法[J].情报杂志,1995(03):53.   \n[48]陈维进，罗鹏程，张杰．应用层次分析法研究生物医学论文作者的贡献[J].中华医学科研管理杂志, 2014, 27(02): 167-171.   \n[49]丁敬达，王新明．基于作者贡献声明的合著者贡献率测度方法[J].图书情报工作,2019,63(16):95-102. [50]Herz N,Dan O,Censor N,et al. Opinion: Authors overestimate their contribution to scientific work, demonstrating a strong bias[J].Proceedings of the National Academy of Sciences,2020,117(12): 6282-6285. [51]唐璞妮，徐苑琳．基于作者贡献权重的学术迹在学者学术影响力评价中的应用[J].情报资料工作, 2018(02): 19-23.   \n[52] Liu X Z,Fang H. Fairly sharing the credit of multi-authored papers and its application in the modification of h-index and g-index[J]. Scientometrics,2012, 91(1): 37-49.   \n[53]王江盼，郭强，刘建国．基于 PageRank 的合著论文中作者贡献分配算法[J]．电子科技大学学报，2020, 49(06): 918-923.   \n[54] Rahman M T,Regenstein JM, Abu Kassm NL,et al. Contribution based author categorization to calculate author performance index[J]. Accountability in research,2021, 28(8): 492-516.   \n[55]张闪闪，崔文健，李晓玲．基于作者贡献声明的科研人员学术影响力评价框架研究[J].中华医学图书情 报杂志,2021,30(07): 74-80.   \n[56]唐晓波，周禾深，李诗轩，等．基于被引-逆文档权重的专家专长识别与分析——以图情领域为例[J]．图 书情报工作,2021,65(15): 111-119.   \n[57] Correa JrE A,SilvaFN,Costa LF,etal.Paternsofauthors contribution inscientific manuscripts[J]. Journal of Informetrics,2017,11(2): 498-510.   \n[58] Lu C, Zhang Y,Ahn YY,et al. Co - contributorship network and division of labor in individual scientific collaborations[J]. Journal of the Association for Information Science and Technology,2020,71(10): 1162-1178. [59] CASRAI. CRediT - Contributor Roles Taxonomy[EB/OL].[2020-11-13]. htps://asrai.org/credit/.   \n[60] Akenall. Open-Contributorship-Badges[EB/OL]. [2020-11-13].   \nhttps://github.com/akenall/Open-Contributorship-Badges.   \n[61] Paglione laura. Contributorship Open Badges on ORCID[EB/OL]. [2020-11-13].   \nhttps://orcid.org/blog/2015/10/13/contributorship-open-badges-orcid.DOI:10/13/ontributorship-open-badges-orcid [62] McNut M K, Bradford M,Drazen JM, et al. Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication[J].Proceedings of the National Academy of Sciences,2O18,15(11): 2557-2560.   \n[63]周白瑜，李佳蔚，段春波，等．科研论文作者署名及排序的几点思考[J].科技与出版,2020(02):106-110. [64] Kihong Kim. Some thoughts on authorship[J]. Science Editing, 2015,2(2): 53-54.   \n[65] Healy A, HardyA, Kleiner J, et al. Review of authorship principles[J]. EFSA Journal, 2016,14(9): e14091. [67]郭婷婷，李刚．通信作者标注制度研究[J]．图书馆论坛,2019,39(02):1-10.   \n[68] Akhabue E,Lautenbach E.“Equal” contributions and credit: an emerging trend in the characterization of authorship[J]. Annals of epidemiology, 2010,20(11): 868-871.   \n[69] WangF,Tang L,BoL,et al.Equal contributions and credit given to authors in critical care medicine journals during a 10-yr period[J]. Critical care medicine, 2012, 40(3): 967-969.   \n[70] Li Z,Sun YM,WuFX,et al.Equal contributions and credit: an emerging trend in the characterization of authorship in major anaesthesia journals during a 10-yr period[J]. PLoS One, 2013, 8(8): e71430.   \n[71] Jia Z,Wu Y,Tang Y,et al.Equal contributions and credit: an emerging trend in the characterization of authorship in major spine journals during a 10-year period[J]. European Spine Journal, 2016,25(3): 913-917. [72] 刘素青，张凌，林娜娜．生物学期刊\"同等贡献\"作者署名论文调查与分析[J]．中国科技期刊研究，2019, 30(05): 506-511.   \n[73]丛敏，王景周.2类典型学术论文署名不端行为及其防范策略[J]．编辑学报,2021,33(02):170-175. [74]孟美任，彭希珺，华宁，等．中文学术期刊学术诚信控制机制应用现状调查[J].中国科技期刊研究,2015, 26(12): 1261-1265. [75]徐文华，王景周．科技学术期刊作者贡献声明著录现状分析——以中国科学引文数据库(CSCD)来源期 刊为例[J].科技管理研究,2019,39(12):245-251.   \n[76]刘丽萍，刘春丽．高影响力国际医学期刊署名规范调研与启示[J]．中国科技期刊研究，2019，30(04): 349-357. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contribution Statement and Review of Current Status of Research and Application of CRediT Wang Yanzhe1) Liu Fenghong 1) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1）National Science Library of Chinese Academy of Sciences，33Beisihuan xilu zhonguancun,Beijingl0o190，China ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[Purposes] This paper explores the research progress and the implementation status of author contribution statement(ACS), so as to provide reference for related research in the future. [Methods] Through literature review and case study,this paper summarizes the research progress in the field of author contribution statement and the current situation of implementing the author contribution statement. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[Findings] The studies on ACS mainly focus on five aspects: authorship qualification and ranking, disclosure form,author contribution elements,authorship weight and author contribution network. As for the application of ACS,low adoption and irregular form of ACS are two main problems. [Conclusions] It is recommended to promote the implementation of ACS and build the metadata system of ACS based on CrediT combined with ORCID. Additionally, editors need to supervise the implementation process. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keyword Author Contribution Statement； CrediT； Journal[作者贡献声明]：王岩哲：文献调研与整理；撰写论文刘凤红：修订论文，审核论文。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

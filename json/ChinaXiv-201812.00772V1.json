@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "高通量测序技术分析蓝狐肠道菌群多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 陈双双 司华哲 穆琳琳 李光玉 刘晗璐\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （中国农业科学院特产研究所，长春130117）  \n4摘要：本试验旨在研究蓝狐肠道菌群组成及其多样性。选取8只健康育成期（ $( 5 { \\sim } 6$ 月龄）  \n5 雄性舍饲蓝狐，采集新鲜粪便后采用高通量测序技术对蓝狐肠道菌群组成及多样性进行分  \n6 析。结果显示：从8只健康蓝狐粪便中共获得 569930条有效序列、操作分类单元（OTU)  \n7 范围为 $4 6 8 { \\sim } 5 7 4$ ，分布于16个门的209 个属。在门水平上以厚壁菌门（Firmicutes）、拟杆  \n8 菌门（Baeteroidetes）、放线菌门（Actinobacteria）、变形菌门（Proteobacteria）、梭杆菌门  \n9 （Fusobacteria）为主，其中厚壁菌门所占比例最高，为 $6 2 . 9 7 \\%$ ，其余依次为 $2 2 . 0 5 \\%$ 、 $8 . 8 9 \\%$ 、  \n0 $5 . 1 5 \\%$ 、 $0 . 8 8 \\%$ 。在属水平上以链球菌属（Streptococcus）所占比例最高，为 $1 1 . 7 5 \\%$ ，其次为  \n1 乳杆菌属（Lactobacillus）（ $9 . 8 6 \\%$ ）、普雷沃菌属（Prevotella）（ $9 . 2 8 \\%$ )、巨型球菌属  \n2 （Megasphaera）( $8 . 2 1 \\%$ ）、柯林斯菌属（Collinsella）（ $7 . 2 7 \\%$ ）、Blautia（ $7 . 0 8 \\%$ 、拟杆菌  \n3 属（Bacteroides）（ $56 \\%$ )。通过高通量测序技术发现蓝狐具有复杂的肠道菌群结构，且个  \n4 体间存在较大差异。  \n5 关键词：蓝狐；肠道菌群；高通量测序；多样性  \n6 中图分类号：S852.6 文献标识码：A 文章编号：  \n7 蓝狐（Alopex lagopus)，又名北极狐，属于脊索动物门，哺乳纲，食肉目，犬科，北极  \n8 狐属[1。蓝狐作为毛皮动物在世界范围内被大量饲养，我国的养殖地主要集中于胶东半岛、  \n9 河北以及东北三省等地。蓝狐为适应寒冷的自然气候条件，体内常储存大量脂肪，对高蛋白  \n0 质、高脂肪的动物性饲料有较高的利用率，并可较大范围的利用动物性饲料成分，其中包括",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "各种鱼类、畜禽屠宰副产品（去骨的牛肉、羊肉、猪肉、兔肉、鸡肉等）以及畜禽的肝脏（如兔肝、牛肝、羊肝、鸡肝、鸭肝、鹅肝）等。目前，大多数研究集中于蓝狐的繁殖育种、营养需要量、毛皮发育等研究方面[2-5]，鲜有关于蓝狐肠道菌群组成和多样性的研究。肠道微生物系统是动物本身最复杂的微生态系统，肠道中大量微生物参与营养物质的吸收、分布、代谢以及机体的免疫生理，肠道菌群的失调通常会导致动物机体功能紊乱[6-7]。因此，了解健康动物正常的肠道菌群分布，对维持肠道菌群平衡、保证动物健康有重要意义。作为肉食性单胃动物，狐的胃肠道微生物主要为大肠微生物[8，其肠道中具体含有哪些微生物，以及这些微生物在消化生理中发挥的作用，仍不清楚。本试验采用高通量测序技术对蓝狐肠道菌群组成情况进行分析，研究蓝狐肠道菌群多样性，为进一步揭示蓝狐肠道菌群对营养物质的代谢利用的作用提供微生物学基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年9月17号从河北省昌黎县（东经 $3 9 . 7 2 ^ { \\circ }$ 、北纬 $1 1 9 . 1 5 ^ { \\circ }$ ）选取8只健康的育成期（ $5 { \\sim } 6$ 月龄）雄性舍饲蓝狐（ ${ \\mathrm { F 1 } } { \\sim } { \\mathrm { F } } 8 \\ \\cdot$ )，其精神状态良好、采食均衡正常，生活环境干净卫生。现场采集蓝狐新鲜粪便时，等待蓝狐排出粪便后立即用无菌分装袋收集，防止落地被污染。采集蓝狐新鲜粪便 $\\boldsymbol { 1 5 } \\mathrm { \\ : g \\ : }$ 分装于 $5 \\mathrm { m L }$ 的冻存管中（分装于3个管，每管 ${ \\mathfrak { s } } _ { \\mathbf { g } } { \\cdot }$ )，放入液氮罐中带回实验室，备后续分析。蓝狐饲粮为养殖场中日常饲粮，其组成及营养水平如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1蓝狐饲粮组成及营养水平（)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content原料 Ingredients膨化玉米粉 Extruded corn 39.84豆粕Soybean meal 20.00",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c45cdab23d5fdf02db9a29fdcb713916b3f7e2e7e7fd62bb3d583b2975f1f067.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干全酒糟及其可溶物 DDGS</td><td>5.00</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>11.30</td></tr><tr><td>鱼粉 Fish meal</td><td>10.00</td></tr><tr><td>鸡肉粉 Chicken meal</td><td>2.00</td></tr><tr><td>石粉 Limestone</td><td>0.86</td></tr><tr><td>豆油 Soybean oil</td><td>10.00</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>代谢能 ME/（MJ/kg)</td><td>14.07</td></tr><tr><td>粗蛋白质 CP</td><td>30.24</td></tr><tr><td>粗脂肪 EE</td><td>10.75</td></tr><tr><td>钙Ca</td><td>0.84</td></tr><tr><td>总磷 TP</td><td>0.60</td></tr><tr><td>钙磷比 Ca/P</td><td>1.40</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per kg of the diet：VA 10 000 IU，VBi 20 mg, $\\mathrm { V B } _ { 2 } ~ 1 0 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 1 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 1 \\mathrm { m g }$ ，VC $1 2 0 \\mathrm { m g }$ ，VE $6 0 ~ \\mathrm { m g }$ ，VK3 1.6 mg，生物素 biotin $0 . 5 \\mathrm { m g }$ ，叶酸 folic acid $1 . 0 \\mathrm { m g }$ ，泛酸 pantothenic acid $2 0 \\mathrm { m g }$ ，烟酸nicotinic acid $4 0 \\mathrm { m g }$ ，胆碱choline $4 0 0 \\mathrm { { m g } }$ ， Cu (as copper sulfate) $1 0 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 \\mathrm { m g }$ Mn (as manganese sulfate) $1 5 \\mathrm { m g }$ ， Zn (as zinc sulfate) $6 0 ~ \\mathrm { m g }$ ， I(as potassium iodide) $0 . 5 0 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 2 0 \\mathrm { m g }$ 。 2)代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 样品处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 微生物总DNA的提取",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蓝狐粪便样品中微生物基因组DNA 的提取按照Fast DNA\" SPIN as Kit forFeces 说明书进行，具体如下：1）取 $0 . 5 \\mathrm { \\ g }$ 粪便样品放入LysingMatrixE 管中，加入 $8 2 5 { \\mu \\mathrm { L } }$ 磷酸盐缓冲液和 $2 7 5 \\mu \\mathrm { L }$ PLS 溶液，混合均匀。2） $1 4 0 0 0 \\times g$ 离心 $5 \\mathrm { m i n }$ ，弃上清。3）加入 $9 7 8 \\mu \\mathrm { L }$ 磷酸盐缓冲液和 $1 2 2 { \\mu \\mathrm { L } }$ MT 缓冲液，混合均匀。4）将样品放入FastPrep $^ { \\mathtt { R } } 2 4$ 设备中，以 $6 . 0 \\mathrm { m / s }$ 运行40 s。5） $1 4 0 0 0 \\times g$ 离心 $5 \\mathrm { m i n }$ ，取上清放入 $2 \\mathrm { m L }$ 离心管。6）取 $2 5 0 ~ \\mu \\mathrm { L }$ PPS 溶液加入到上清中，混合均匀后放于 $4 \\mathrm { { ^ \\circ C } }$ 静止 $1 0 \\mathrm { m i n }$ ， $1 4 0 0 0 \\times g$ 离心 $2 \\operatorname* { m i n }$ 。7）取上清放入 $2 { \\mathrm { m L } }$ 离心管中，加入 $1 \\mathrm { m L }$ BindingMatrix Solution 放入振动器振荡 $3 \\mathrm { m i n }$ 。8) $1 4 0 0 0 \\times g$ 离心 $2 ~ \\mathrm { m i n }$ 弃上清。9）加入 $1 \\mathrm { m L }$ 清洗液1混合均匀，取 $6 0 0 ~ \\mu \\mathrm { L }$ 转移到 SPIN Filter 管中， $1 4 0 0 0 \\times g$ 离心 $2 ~ \\mathrm { m i n }$ ，弃掉底部液体。10）加入 ${ 5 0 0 \\mu \\mathrm { L } }$ 清洗液2混合均匀， $1 4 0 0 0 \\times g$ 离心 $2 ~ \\mathrm { m i n }$ ，弃掉底部液体。11）继续 $1 4 0 0 0 \\times g$ 离心 $2 ~ \\mathrm { m i n }$ ，弃掉底部液体。12）将整个 SPINFilter 管转移到新的Catch 管中，加入 $1 0 0 ~ \\mu \\mathrm { L }$ TES 溶液， $1 4 0 0 0 \\times g$ 离心 $2 ~ \\mathrm { m i n }$ ，弃掉整个 SPIN Filter管，将DNA产物放于-20℃保存备用。  \n基因组DNA的鉴定：提取的基因组DNA 经 $1 \\%$ 的琼脂糖凝胶电泳（电压 $1 2 0 { \\mathrm { V } }$ ，电泳23 min，Marker 为λIIDNA Maker）检测，DNA 产物在14 000 bp 左右，并且DNA 条带亮度较高，无明显降解、无杂质，可进行下一步试验[9]。将目的DNA送至北京诺禾致源科技股份有限公司，基于Illumina Miseq 测序平台，设备名称为HiSeq PE250,测序长度为 $2 5 0 \\mathrm { b p }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 目的基因的扩增与测序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以样品中提取的总DNA为模板，细菌选用16S rRNAV3/V4区合成特定引物,利用338F（ $\\cdot 5 ^ { \\prime }$ -ACTCCTACGGGAGGCAGCA $\\cdot 3 ^ { \\prime }$ ）和806R（ $. 5 ^ { \\prime }$ -GGACTACHVGGGTWTCTAAT $\\cdot 3 ^ { \\prime }$ ）引物进行PCR扩增。PCR扩增体系（ ${ \\tt S 0 \\mu \\mathrm { L } }$ )：上游引物（338F） $1 ~ \\mu \\mathrm { L }$ ，下游引物（806R）1μL,DNA 样品 $1 ~ \\mu \\mathrm { L }$ ，Taq酶 $2 5 ~ \\mu \\mathrm { L }$ ， $\\mathrm { d } \\mathrm { d } \\mathrm { H } _ { 2 } \\mathrm { O } 2 2 \\mu \\mathrm { L }$ 。PCR 扩增条件： $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 预变性 $5 \\mathrm { m i n }$ ; 95 ℃变性 $3 0 ~ \\mathrm { s }$ ， $5 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 退火30s，72℃复性 $2 ~ \\mathrm { m i n }$ ，25个循环； $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $1 0 \\mathrm { m i n }$ 。扩增产物4℃保存，经 $2 \\%$ 的琼脂糖凝胶电泳检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 生物信息学分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对原始数据进行拼接、过滤去杂得到有效信息，从而使信息结果更加准确、可靠。对有效信息进行聚类分析和物种分类分析，设定具有 $9 7 \\%$ 以上相似度的序列为1个操作分类单元（OTU)，并在各分类水平统计每个样品的菌群组成。根据OTU 聚类结果，进行菌群丰富度、Alpha 多样性计算，其中 Ace 和 Chaol指数用来表示菌群的丰富度，Simpson 和Shannon指数用来表示菌群的多样性。在门和属2个分类水平上统计样品物种的丰度和多样性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理结果以平均值 $\\pm$ 标准误表示，数据用Excel2013进行整理并用SAS9.4软件进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 多样性指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，8个样本共得到654716条序列，单个样本序列范围为 ${ 5 7 0 0 2 } { \\sim } 9 5 6 3 8$ 条，其中共得到 569930条有效序列（有效序列指 tags，下文同)，单个样本序列范围为 $5 2 7 5 8 \\sim$ 84112条。对样本进行聚类分析，在 $9 7 \\%$ 相似度下的OTU生物信息统计显示，共得到4071个OTU（样本范围为 $4 6 8 { \\sim } 5 7 4 \\rangle$ 。丰富度指数：Ace指数平均值为559，范围为 $4 8 0 { \\sim } 6 9 9$ Chao1指数平均值为595，范围为 $4 6 5 \\sim 1 0 3 6$ 。多样性指数：Shannon指数平均值为5.27，范围为 $4 . 0 5 \\sim 5 . 8 0$ ；Simpson指数平均值为0.936，范围为 $0 . 8 4 7 { \\sim } 0 . 9 5 7$ 。每个样本的具体参数见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2样本测序数据分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c600c57bef12eeac61ae7d1844661c94b00109ea4445c7c5c015d24d0eafa6a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样本</td><td colspan=\"5\"></td><td rowspan=\"2\">Chao1指 Shannon</td><td rowspan=\"2\">Simpson</td></tr><tr><td>有效序列</td><td></td><td>Ace指数</td><td></td><td></td></tr><tr><td>Sample</td><td>Valid</td><td>操作分类单元</td><td>覆盖率</td><td></td><td>数</td><td>指数</td><td>指数</td></tr><tr><td rowspan=\"2\">S</td><td></td><td>OTU</td><td>Coverage</td><td>Ace</td><td>Chao1</td><td> Shannon</td><td>Simpson</td></tr><tr><td>sequences</td><td></td><td></td><td>index</td><td></td><td></td><td></td></tr><tr><td>F1</td><td>84 112</td><td>481</td><td>0.998</td><td></td><td>index</td><td>index 5.55</td><td>index</td></tr><tr><td>F2</td><td>73 724</td><td>574</td><td>0.998</td><td>531</td><td>577</td><td></td><td>0.957</td></tr><tr><td>F3</td><td>74 322</td><td>523</td><td></td><td>585</td><td>569</td><td>5.80</td><td>0.955</td></tr><tr><td></td><td></td><td></td><td>0.998</td><td>567</td><td>526</td><td>5.56</td><td>0.956</td></tr><tr><td>F4</td><td>61386</td><td>502</td><td>0.998</td><td>494</td><td>492</td><td>4.95</td><td>0.927</td></tr><tr><td>F5</td><td>79 921</td><td>565</td><td>0.998</td><td>551</td><td>531</td><td>5.67</td><td>0.952</td></tr><tr><td>F6</td><td>82 272</td><td>484</td><td>0.998</td><td>564</td><td>568</td><td>5.41</td><td>0.951</td></tr><tr><td>F7</td><td>61 435</td><td>474</td><td>0.998</td><td>480</td><td>465</td><td>5.15</td><td>0.94</td></tr><tr><td>F8</td><td>52 758</td><td>468</td><td>0.997</td><td>699</td><td>1036</td><td>4.05</td><td>0.847</td></tr><tr><td>平均值</td><td>71 241±4 038</td><td>509±14</td><td>0.997 9±</td><td>559±24</td><td>595±64</td><td>5.27±0.20</td><td>0.936±</td></tr><tr><td>Mean</td><td></td><td></td><td>0.000 1</td><td></td><td></td><td></td><td>0.013</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "94 利用mothur对 $9 7 \\%$ 相似度的OTU做稀释曲线（图1-A)，可知，当测序数量超过40000  \n95 时，各样本（F8 除外）曲线逐渐趋于平缓，同时 Shannon 曲线（图1-B）也趋于平坦。  \n96",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2d31749af99497625952a9fecac40a1e8968f6ccc48a271d77069652e3c281b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1稀释曲线（A）和 Shannon 曲线（B）分析",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2门分类水平下菌群结构",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在门分类水平上分析，这些菌群在分类学上归属于17个门，其中厚壁菌门（Firmicutes）在蓝狐肠道菌群中的所占比例最多，占 $6 2 . 9 7 \\%$ ；拟杆菌门（Bacteroidetes）为第二大优势菌门，所占比例为 $2 2 . 0 5 \\%$ ；随后依次为放线菌门（Actinobacteria），占 $8 . 8 9 \\%$ ，变形菌门（Proteobacteria），占 $5 . 1 5 \\%$ ，梭杆菌门（Fusobacteria），占 $0 . 8 8 \\%$ 。以上5个菌门为蓝狐肠道菌群中的优势菌门，共占 $9 9 . 9 4 \\%$ ，具体门分类水平的分布见图2。8只蓝狐中F4与其他蓝狐的肠道菌群相似性较低，F4 肠道中Bacteroidetes 所占比例最高，而其他蓝狐肠道中Firmicutes为最优势菌门。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb690ea09171b8cd9a016ee15addd61bee80b3aec56b2e9944d48f2c69a3d43c.jpg",
+        "img_caption": [
+            "Fig.1Analysis of rarefaction curves (A) and Shannon curves (B) ",
+            "图2基于Unweighted Unifrac 距离的 UPGMA 聚类树",
+            "Fig.2UPGMA clustering tree based on Unweighted Unifrac distance "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3属分类水平下菌群结构",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在属分类水平上分析，这些菌群在分类学上归属于210个属，其中有30个属的相对丰度占总体的 $8 5 . 9 5 \\%$ 。这30个属中链球菌属（Streptococcus）所占比例最高，为 $1 1 . 7 5 \\%$ ，随后比例较高的依次为乳杆菌属(Lactobacillus），占 $9 . 8 6 \\%$ ，普雷沃菌属（Prevotella)，占 $9 . 2 8 \\%$ 巨型球菌属（Megasphaera)，占 $8 . 2 1 \\%$ ，柯林斯菌属（Collinsella），占 $7 . 2 7 \\%$ ，Blautia，占$7 . 0 8 \\%$ ，拟杆菌属（Bacteroides），占 $5 . 6 4 \\%$ ，拟普雷沃菌属（Alloprevotella），占 $5 . 5 0 \\%$ Peptoclostridium，占 $5 . 0 7 \\%$ ，巨单胞菌属（Megamonas），占 $3 . 5 5 \\%$ 。具体属分类水平的相对丰度见图3。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7327718acb07108e6c9a393cfce33caaa2b800b05a532947feddbeb38167f35.jpg",
+        "img_caption": [
+            "图3蓝狐肠道菌群属分类的相对丰度"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Relative abundance of intestinal bacterial communities at genus level of blue foxes ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在属水平上每只蓝狐肠道菌群中排名靠前的10 种菌属所占比例见表3。F1肠道菌群中最优势菌属为Collinsella，占 $1 7 . 4 5 \\%$ ；F2、F3、F4 肠道菌群中最优势菌属为Prevotella，分别占 $1 4 . 5 2 \\% , 1 3 . 0 6 \\% , 2 2 . 1 6 \\%$ ：F5、F7肠道菌群中最优势菌属为Lactobacillus，分别占 $1 7 . 5 6 \\%$ 、$2 1 . 5 5 \\%$ ；F6、F8肠道菌群中最优势菌属为Streptococcus，分别占 $1 5 . 8 0 \\%$ 、 $2 5 . 7 2 \\%$ 。与其他蓝狐相比，F8 肠道菌群中 Streptococcus、Lactobacillus、Megasphaera 所占比例较高，3个菌属共占 $7 1 . 0 0 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b57559bd0e281b9609133cdc468d176bc658aafc2f3bc2eaf7d166dc5780b7d3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>F1</td><td>F2</td><td>F3</td><td>F4</td><td>F5</td><td>F6</td><td>F7</td><td>F8</td><td>平均</td></tr><tr><td>链球菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Mean</td></tr><tr><td>Streptococcus</td><td>7.05</td><td>8.58</td><td>12.36</td><td>8.78</td><td>7.89</td><td>15.80</td><td>7.81</td><td>25.72</td><td>11.75±2.25</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳杆菌属</td><td>0.77</td><td>12.51</td><td>1.55</td><td>1.25</td><td>17.56</td><td>0.71</td><td>21.55</td><td>22.96</td><td>9.86±3.50</td></tr><tr><td>Lactobacillus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>巨型球菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>8.07</td><td>8.74</td><td>2.89</td><td>0.67</td><td>11.99</td><td>2.55</td><td>8.47</td><td>22.32</td><td>8.21±2.43</td></tr><tr><td>Megasphaera</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>普雷沃菌属</td><td></td><td>14.52</td><td>13.06</td><td>22.16</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prevotella</td><td>9.95</td><td></td><td></td><td></td><td>4.11</td><td>6.94</td><td>2.33</td><td>1.20</td><td>9.28±2.51</td></tr><tr><td>柯林斯菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Collinsella</td><td>17.45</td><td>3.96</td><td>4.85</td><td>1.55</td><td>10.37</td><td>8.76</td><td>8.81</td><td>2.39</td><td>7.27±1.85</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>拟普雷沃菌属</td><td>5.60</td><td>6.69</td><td>11.18</td><td>11.38</td><td>1.26</td><td>5.92</td><td>1.35</td><td>0.68</td><td>5.51±1.51</td></tr><tr><td>Alloprevotella</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Peptoclostridium</td><td>3.37</td><td>2.60</td><td>4.56</td><td>11.37</td><td>2.14</td><td>5.75</td><td>8.55</td><td>2.19</td><td>5.07±1.18</td></tr><tr><td>Blautia</td><td>10.20</td><td>7.12</td><td>5.20</td><td>3.25</td><td>11.34</td><td>10.56</td><td>5.51</td><td>3.50</td><td>7.08±1.14</td></tr><tr><td>拟杆菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>6.25</td><td>6.34</td><td>9.90</td><td>10.98</td><td>1.30</td><td>4.89</td><td>4.93</td><td>0.56</td><td>5.64±1.29</td></tr><tr><td>Bacteroides</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>巨单胞菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Megamonas</td><td>5.35</td><td>1.55</td><td>3.31</td><td>1.35</td><td>1.74</td><td>5.61</td><td>7.11</td><td>2.37</td><td>3.55±0.78</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>74.06</td><td>72.61</td><td>68.86</td><td>72.74</td><td>69.70</td><td>67.49</td><td>76.42</td><td>83.89</td><td>77.22±1.84</td></tr><tr><td>总比例</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 多样性指数分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一般通过Alpha多样性分析反映样本的丰富度和多样性。本试验中，所有样本测序覆盖率（coverage）均在0.997以上，说明测序结果对蓝狐粪便样品中的细菌覆盖率高，测序结果合适，可满足肠道菌群多样性的分析需求[10]。当测序数量超过40000 时，各样本（F8 除外)曲线逐渐趋于平缓，表明该测序数据量合理，随着数据量的增加几乎不产生新的OTU[]。同时，Shannon曲线也趋于平坦，表明测序数据量足够大，从而能够反映出样品中绝大多数菌群[12]。Shannon 指数越大则表示该样本中微生物多样性越丰富，由表2中 Shannon 指数数据可知，F8肠道中菌群多样性较低。由图1-A显示，较其他个体而言，F8个体的稀释曲线存在一定的坡度，可能是其取样深度不够，从而导致F8个体肠道菌群多样性较低。从整体来看，蓝狐肠道菌群中OTU平均值为 509，Chao1指数平均值为 595，Shannon 指数平均值为5.27。范忠原等[13]研究发现，舍饲水貂肠道菌群中OTU为294,Chao1指数为350,Shannon指数为3.74。因此，与毛皮动物水貂相比，蓝狐肠道菌群具有较高的丰度与多样性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2门分类水平下菌群结构分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从门分类水平上看，蓝狐肠道菌群中主要优势菌门为Firmicutes 和Bacteroidetes。8个样本中F4 肠道中 Bacteroidetes 所占比例最高，而其他蓝狐肠道中Firmicutes 为最优势菌门。研究表明，肠道中的Firmicutes 主要是对碳水化合物及蛋白质起水解作用，Bacteroidetes 则是对类固醇、胆汁酸及多糖起代谢作用，从而促进多糖的吸收以及蛋白质的合成[14-15]。肠道内Firmicutes 与 Bacteroidetes 的比例对动物的肥胖程度有影响。Turmbaugh 等[1]发现肥胖小鼠的肠道微生物中Firmicutes 细菌的丰富度增加，Bacteroidetes 细菌的丰富度降低，并发现饮食过程中对能量摄入量增多。饮食的改变会引起动物肠道菌群的改变，当动物饮食从低脂肪、高纤维素的饮食转变为高脂肪、高糖的饮食时，肠道菌群中Bacteroidetes 细菌所占比例显著下降[17]，从而导致肥胖增加。因此，F4 肠道中菌群可能对高脂、高糖的代谢作用较强，但本试验未对试验动物的体重水平进行观察。除此之外，动物肠道菌群的组成和数量受动物的年龄、性别、生活环境、饲粮组成、生理状态、遗传因素[18-20]等的影响。8只蓝狐在生活环境和饲粮组成相同的情况下，F4 和F8个体的肠道菌群组成与其他个体的肠道菌群组成存在差异性，其原因可能与动物个体的生理状态和遗传因素有关系。因此，相同环境下的不同个体间肠道菌群组成也存在一定的差异性。研究发现，犬科动物肠道菌群在种类及数量方面存在较大差异。生活在野生环境下的健康狼（Canislupus）的粪便中最丰富的菌门是Firmicutes（ $60 . 0 \\%$ ），其次是Bacteroidetes（ $1 6 . 9 \\%$ ）、Proteobacteria( $9 . 2 \\%$ ）、Fusobacteria $9 . 2 \\%$ ）和Actinobacteria( $4 . 6 \\%$ ）[21]；豺（Cuonalpinus）的肠道菌群中较丰富的5个菌门依次为Firmicutes（ $2 0 . 9 7 \\% { \\sim } 4 4 . 0 1 \\%$ ）、Bacteroidetes（ $2 1 . 6 3 \\% { \\sim } 3 8 . 9 7 \\%$ ）、Proteobacteria（ $9 . 3 3 \\% { \\sim } 1 7 . 6 0 \\%$ ）、Fusobacteria（ $9 . 1 1 \\% \\sim 1 7 . 9 0 \\%$ ）和Actinobacteria（ $1 . 2 2 \\% { \\sim } 2 . 8 7 \\%$ ）[22]；家犬的肠道菌群中最丰富的菌门为Firmicutes（ $4 7 . 7 \\%$ )，其次为 Proteobacteria（ $23 . 3 \\%$ ）、Fusobacteria（ $1 6 . 6 \\%$ ）和Bacteroidetes（ $12 . 4 \\%$ ）[23]。宠物犬的肠道菌群中最丰富的菌门为Firmicutes（ $6 4 . 1 7 \\%$ ），其次是 Bacteroidetes（ $1 9 . 8 9 \\%$ ）Fusobacteria（ $1 3 . 5 8 \\%$ ）、Actinobacteria （ $1 . 5 \\%$ ）和 Proteobacteria（ $0 . 8 6 \\%$ ）[24]。与其他犬科动物相比，蓝狐肠道菌群中Actinobacteria 所占比例较高，该菌门中大部分细菌为红蝽菌科（Coriobacteriaceae）和双歧杆菌科（Bifidobacteriaceae）（共占 Actinobacteria 的 $9 9 . 9 9 \\%$ ），而在狼和豺肠道菌群中 Bifidobacteriaceae 的数量很少[21-22]。蓝狐肠道菌群 Bifidobacteriaceae中仅有双歧杆菌（bifidobacteria)。研究发现人类从出生就开始携带双歧杆菌，但随着年龄的增加双歧杆菌的数量逐渐减少，并且发现双歧杆菌的主要产物为乳酸、乙酸等，其可调节肠道pH，抑制有害菌增殖[25]；同时，研究发现双歧杆菌在能够维持机体肠道健康和减缓肠道老化方面具有重要作用[26]。本试验中育成期蓝狐年龄（ $5 { \\sim } 6$ 月龄）较小，因此其肠道中Bifidobacteria 数量较多。与其他动物相比，蓝狐肠道菌群中Actinobacteria 所占比例较高。研究发现，在应激情况下Coriobacteriaceae 细菌会明显增加，该科细菌的大量存在易引起动",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "物焦虑、紧张等情绪[27]。研究表明，Coriobacteriaceae 还与高胆固醇血症[28]、肥胖、2型糖尿病[29]等密切相关。与狼和蓝狐比较，犬的肠道菌群中Fusobacteria 所占比例较高[21-24.30],Bacteroidetes 所占比例较低。根据《伯吉氏系统细菌学手册》，可把 Bacteroidetes 分为4个菌纲：拟杆菌纲（Bacteroidia）、黄杆菌纲（Flavobacteria）、鞘脂杆菌纲（Sphingobacteria）、纤维黏网菌纲（Cytophagia）[31]。蓝狐肠道菌群中 Bacteroidia 在 Bacteroidetes 中所占比例为$9 9 . 7 7 \\%$ 。家犬肠道菌群中Bacteroidetes 比例较低的主要原因可能在于家犬的饮食受到人为干预，饮食以狗粮为主，其饲粮中除蛋白质以外碳水化合物成分增加，与其他犬科动物相比饮食中的脂肪含量下降。将本试验结果与其他犬科动物肠道菌群结构进行比较，发现蓝狐肠道菌群多样性特征与其他犬科动物基本相同，仅在Fusobacteria、Actinobacteria 的数量上存在较大差别，但蓝狐肠道菌群差异对宿主的生活习性是否存在影响还需进一步深入研究。水貂作为我国饲养的主要毛皮动物之一，在国内被大量养殖，研究发现其肠道菌群中较丰富的5个菌门为Firmicutes（ $60 . 0 \\%$ ）、Bacteroidetes（ $1 6 . 2 \\%$ ）、Fusobacteria（ $1 1 . 5 \\%$ ）、Actinobacteria（ $5 . 9 \\%$ ）和Proteobacteria（ $5 . 3 \\%$ ）[13]。与蓝狐肠道菌群相比，除Fusobacteria在水貂肠道菌群中所占比例较高外，其他菌门种类与蓝狐相似。研究发现，饲粮中纤维含量的增加会导致Fusobacteria 细菌数量减少[32]。水貂为肉食动物，与蓝狐饲粮相比，水貂饲粮中纤维含量较低可能导致水貂肠道细菌中Fusobacteria 数量增加。研究发现，马作为草食动物，其肠道菌群中没有发现 Fusobacteria 细菌的存在[33]。同时，研究发现人肠道菌群中Fusobacteria所占比例较低，不足 $1 \\% ^ { [ 3 4 ] }$ 。因此，Fusobacteria 细菌可能受饲粮中植物性饲料组成的影响。  \n²²届分米水平下南群构分析",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从属分类水平上看，蓝狐肠道菌群中最大的优势菌属为Streptococcus，与舍饲水貂的研究结果一致[13]。Streptococcus 在动物肠道中能够发酵简单的糖类、分解蛋白质，其与宿主体内能量代谢紧密相关[35]。Lactobacillus 是蓝狐肠道菌群中的第二大菌属。Lactobacillus 作为益生菌，近年来受到越来越多的关注。Lactobacillus 可与其他益生菌相互作用，治疗肠易激综合症（IBS）等疾病[36]，其在动物肠道中能够发酵分解碳水化合物，产生乳酸、丁酸等，使肠道内pH下降，抑制有害菌的生长；Lactobacillus 还可以产生过氧化氢，抑制肠道中念珠菌等真菌的毒性和生长[37]；同时，Lactobacillus 还可以激活免疫细胞，破坏机体肠道中的病原微生物，从而提高机体的免疫力[38]。Streptococcus 和 Lactobacillus 同属于Firmicutes 中的乳杆菌目（Lactobacillales），该目在蓝狐肠道菌群中所占比例为 $2 2 . 5 \\%$ 。Prevotella 为Bacteroidetes 中的拟杆菌目（Bacteroidales），具有促进蛋白质分解的作用，其在瘤胃中还能协同其他微生物分解纤维素，提高纤维素的降解能力[39]。研究发现，非洲布基纳法索(BurkinaFaso）儿童肠道中普氏菌属占 $53 \\%$ ，而同龄的欧洲儿童却很少[40]，饮食习惯与肠道菌群的组成密切相关，以蛋白质和动物性脂肪为主要食物的西方人肠道菌群多以Bacteroides为主，而以碳水化合物为主要食物的非洲人，肠道菌群则主要以Prevotella 为主[41]。Collinsella 属于Actinobacteria中的Coriobacteriales，研究发现该属中的细菌能够发酵碳水化合物产生甲酸、乳酸盐、乙醇等，并与体重、体重指数（BMI）呈负相关[42]。Blautia 属于Firmicutes,该菌属能将肠道中的气体转化成乙酸，从而可清除肠道中的气体[10]。Blautia 属于毛螺旋菌科（Lachnospiraceae)，该菌科在瘤胃动物中主要具有降解半纤维素的能力[43]，而这些细菌同样大量存在于蓝狐肠道中，但该类细菌在蓝狐肠道中的作用仍有待进一步研究确定。因此，蓝狐肠道菌群中包括能够促进类固醇、胆汁酸及多糖代谢的Bacteroidetes，能够促进蛋白质分解的 Streptococcus，能够发酵分解碳水化合物、抑制有害菌的生长的Lactobacillus 和Collinsella，以及能够促进纤维降解的Prevotella 和 Blautia等，从而组成丰富多样化的肠道菌群。蓝狐为肉食性动物，但人们为减少蓝狐的养殖成本，在养殖过程中对蓝狐饲粮进行人为干预，使蓝狐饲粮的动物性蛋白质在饲粮中的比例降低，而植物性蛋白质在饲粮中的比例增加。目前并未发现对野生蓝狐和以动物性蛋白质为主的蓝狐肠道菌群的报道，本试验蓝狐饲",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "粮以植物性蛋白质为主，因此其肠道菌群不能代表以肉食（野生蓝狐或者以动物性蛋白质为主的蓝狐）为主的蓝狐的肠道菌群，以植物性蛋白质为主的蓝狐肠道菌群和以肉食为主的蓝狐肠道菌群差异性无从得知。但在野生犬科动物（狼、沙狐、赤狐、乌苏里貉、豺）肠道菌群中并未发现纤维素降解菌Prevotella的存在[8]，而在本试验饲粮条件下蓝狐肠道菌群中Prevotella为优势菌属，蓝狐肠道菌群中Prevotella增加的原因可能是其饲粮组成的改变导致其肠道菌群结构的改变。因此，后续试验需对野生蓝狐和以动物性蛋白质为主的蓝狐的肠道菌群组成进行研究，并对以植物性蛋白质为主和以肉食为主的蓝狐肠道菌群组成的差异性进行研究。  \n属水平上个体间差异性分析显示，F8肠道菌群中 Streptococcus、Lactobacillus、Megasphaera所占比例较高，其他菌属所占比例较低，这种现象可能是样本的测序取样深度不够所致。除此之外，动物肠道菌群组成和多样性还受到动物的遗传因素的影响[20]，因此，相同环境下的不同个体间肠道菌群组成和多样性也存在一定的差异性。这些优势菌属与营养物质代谢存在密切的联系，在动物肠道中主要起到分解蛋白质以及提高纤维素的降解能力的作用，但对于这种联系的机理仍需继续开展大量的研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本试验饲粮条件下的8只蓝狐肠道菌群分布于16个菌门，主要为Firmicutes（ $6 2 . 9 7 \\%$ ）Bacteroidetes（ $2 2 . 0 5 \\%$ ）、Actinobacteria（ $8 . 8 9 \\%$ ）、Proteobacteria（ $5 . 1 5 \\%$ ）和Fusobacteria（ $0 . 8 8 \\%$ )，占菌门总量的 $9 9 . 9 4 \\%$ ；所有菌门分布于209个菌属，组成丰富多样化的肠道菌群，在属的分类水平上Streptococcus 所占比例最高，为 $1 1 . 7 5 \\%$ ，其次为Lactobacillus，占$9 . 8 6 \\%$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]HERSTEINSSON P.Population genetics and ecology of different colour morphs of arctic foxes Alopex lagopus in Iceland[J].Finnisch Game Reserve,1989,46:64-78. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2] 郭俊刚,贡筱,张铁涛,等.饲粮中添加益生菌对冬毛期蓝狐生长性能、营养物质消化率及毛皮品质的影响[J].动物营养学报,2014,26(8):2232-2239.  \n[3] 李仲玉,任海轮,王超,等.脂肪来源、添加量对蓝狐生产性能及毛皮品质的影响[J].黑龙江畜牧兽医,2017(13):240-243.  \n[4]郭俊刚,张铁涛,吴学壮,等.饲粮蛋氨酸水平对繁殖期蓝狐繁殖性能的影响[J].动物营养学报,2015,27(1):165-170.  \n[5]张海华,李光玉,刘佰阳,等.狐营养研究进展[J].饲料工业,2008,29(13):55-58.  \n[6] 胡健微.肠道微生物相互作用的研究及体外肠道模拟系统的构建和应用[D].硕士学位论文.长春:吉林大学,2017.  \n[7]叶雷,闫亚丽,陈庆森,等.高通量测序技术在肠道微生物宏基因组学研究中的应用[J].中国食品学报,2016,16(7):216-223.  \n[8] 曹先海.犬科动物粪便菌群组成及多样性分析[D].硕士学位论文.曲阜:曲阜师范大学,2011.  \n[9] 石聪,李世瑞,李跑,等.基于高通量测序浏阳豆豉不同发酵阶段微生物多样性分析[J]食品与发酵工业,2017,44(2):27-32,39.  \n[10]曲巍,张智,马建章,等.高通量测序研究益生菌对小鼠肠道菌群的影响[J].食品科学,2017,38(1):214-219.  \n[11] 杨俊花,赵志辉,郭文博,等.应用 Ilumina-MiSeq 高通量测序技术分析脱氧雪腐镰刀菌烯醇对小鼠肠道菌群的影响[J].动物营养学报,2017,29(1):158-167.  \n[12] 邓晓影,张宾,汤贺,等.基于高通量测序的南美白对虾中微生物群落分析[J/OL].食品科学,[2017-10-30].http://kns.cnki.net/kcms/detail/11.2206.TS.20171030.1202.002.html.  \n[13] FAN Z Y,LIU H L,WANG F,et al.Determination of bacterial community composition inthe distal gut of mink (Mustela vison) by high-throughput sequencing[J].Microbiology",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "China,2016,43(1):123-130. [14] BACKHED F,LEY E,SONNENBURY J L,et al.Host-bacterial mutualism in the human intestine[J].Science,2005,307(5717):1915-1920. [15] XU J,BJURSELL M K,HIMROD J,et al.A genomic view of the human-Bacteroides thetaiotaomicron symbiosis[J].Science,2003,299(5615):2074-2076. [16] TURNBAUGH P J,LEY R E,MAHOWALD M A,et al.An obesity-associated gut microbiome with increased capacity for energy harvest[J].Nature,2006,444(7122):1027-1031. [17] THOMASF,HEHEMANNJH,REBUFFETE,etal.Environmentalandgut Bacteroidetes:the food connection[J].Frontiers in Microbiology,2011,2:93. [18] SIMPSON J M,MARTINEAU B,JONES W E,et al.Characterization of fecal bacterial populations in canines:effectsof age,breedanddietaryfiber[J].Microbial Ecology,2002,44(2):186-197. [19] LU JR,IDRIS U,HARMON B,et al.Diversity and succession of the intestinal bacterial communityofthematuringbroilerchicken[J].AppliedandEnvironmental Microbiol0gy,2003,69(11):6816-6824. [20] 谭振,翟丽维,陈少康,等.肠道微生物与宿主遗传背景互作关系的研究进展[J].中国畜 牧杂志,2016,52(5):84-88. [21] ZHANG H H,CHEN L.Phylogenetic analysis of 16S rRNA gene sequences reveals distal gutbacterialdiversityinwildwolves(Canislupus)[J].MolecularBiology Reports,2010,37(8):4013-4022. [22] WU X Y,ZHANG H H,CHEN J,et al.Comparison of the fecal microbiota of dholes high-throughput Illumina sequencing of the V3-V4 region of the 16S rRNA [23] SUCHODOLSKI J S,CAMACHO J,STEINER J M.Analysis of bacterial diversity in the canine duodenum,jejunum,ileum,andcolonbycomparative16SrRNAgene analysis[J].FEMS Microbiology Ecology,2008,66(3):567-578 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[24] KIM J,AN J U,KIM W,et al.Differences in the gut microbiota of dogs (Canis lupus familiaris） fed a natural diet or a commercial feed revealed by the Ilumina MiSeq platform[J].Gut Pathogens,2017,9:68.   \n[25] DI GIOIA D,ALOISIO I,MAZZOLA G,et al.Bifidobacteria:their impact ongut microbiota composition and their applications as probiotics in infants[J].Applied Microbiology and Biotechnology,2014,98(2):563-577.   \n[26] KIM O S,CHO Y J,LEE K,et al.Introducing EzTaxon-e:a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species[J].International Journal of Systematic and Evolutionary Microbiology,2012,62(3):716-721.   \n[27] BENDTSEN K M B,KRYCH L,SORENSEN D B,et al.Gut microbiota composition is correlated to grid floor induced stress and behavior in the BALB/c mouse[J].PLoS One,2012,7(10):e46231.   \n[28] ISLAM K B M S,FUKIYA S,HAGIO M,et al.Bile acid is a host factor that regulates the composition of the cecal microbiota in rats[J].Gastroenterology,2011,141(5):1773-1781.   \n[29] YIN X C,PENG J H,ZHAO L P,et al.Structural changes of gut microbiota in a rat non-alcoholicfattyliverdiseasemodeltreatedwitha Chineseherbal formula[J].Systematic and Applied Microbiology,2013,36(3):188-196.   \n[30] MENTULA S,HARMOINEN J,HEIKKILA M,et al.Comparison between cultured small-intestinal and fecal microbiotas in Beagle dogs[J].Applied and Environmental   \n[31] KRIEG N R,LUDWIGW,WHITMANWet al.Bergey'smanual of systematic bacteriology[M].New York:Springer,2010:89-100.   \n[32] MIDDELBOS I S,BOLER B M V,QU A,et al.Phylogenetic characterization of fecal microbial communities of dogs fed diets with or without supplemental dietary fiber using 454 pyrosequencing[J].PLoS One,2010,5(3):e9768.   \n[33] DALY K,STEWART C S,FLINT H J,et al.Bacterial diversity within the equine large intestine as revealed by molecular analysis of cloned 16S rRNA genes[J].FEMS Microbiology Ecology,2001,38(2/3):141-151.   \n[34] YATSUNENKO T,REY F E,MANARY M J,et al.Human gut microbiome viewed across age and geography[J]. Nature,2012,486(7402):222-227.   \n[35] LEY R E,PETERSON D A,GORDON J IEcological and evolutionary forces shaping microbial diversity in the human intestine[J].Cell,2006,124(4):837-848.   \n[36] FORD A C,QUIGLEY E M M,LACY B E,et al.Efficacy of prebiotics,probiotics.and synbiotics in irritable bowel syndrome and chronic idiopathic constipation:systematic review and meta-analysis[J].The American Journal of Gastroenterology,2014,109(10):1547-1561.   \n[37] ERDOGAN A,RAO S S.Small intestinal fungal overgrowth[J].Current Gastroenterology Reports,2015,17(4):16.   \n[38]范忠原.家养水貂肠道微生物多样性分析[D].硕士学位论文.北京:中国农业科学 院,2015.   \n[39]杨琦玥,黄勇,陈亚冰,等.16S rRNA 高通量测序技术筛选牦牛瘤胃细菌基因组DNA 提 取方法及菌群结构[J].中国农业科学,2017,50(5):932-941. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "10] DE FILIPPO C,CAVALIERI D,DI PAOLA M,et al.Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa[J].Proceedings of the National Academy of Sciences of the United States of America,2010,107(33):14691-14696. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[41] WU G D,CHEN J,HOFFMANN C,et al.Linking long-term dietary patterns with gut microbial enterotypes[J].Science,2011,334(6052):105-108. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[42] 熊健会,李琳琳,毛新民,等.新疆维、哈两民族粪样中奇异菌簇和产气柯林斯菌属水平与2 型糖尿病的相关性研究[J].中国微生态学杂志,2015,27(06):633-637,641.  \n[43]肖文萍.藏猪肠道微生物多样性的研究[D].硕士学位论文.杨凌:西北农林科技大学,2012.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Analysis of Intestinal Microbiota Diversity of Blue Foxes by High-Throughput Sequencing ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Technology ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "CHEN ShuangshuangSI HuazheMU Linlin LIGuangyu LIU Hanlu\\* (Institute of Special Animal and Plant Sciences, Chinese Academy of Agricultural Sciences, Changchun 130117, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aim of this experiment was to study the composition and diversity of intestinal microbiota of blue foxes (Alopex lagopus). Eight healthy growing female blue foxes (5 to 6 months of age) under the stal-feeding condition were selected to collect fresh faecal samples, and then the composition and diversity of intestinal microbiota were analyzed by the high-throughput sequencing technology. The results showed as follows: a total of 569 930 valid sequences were identified in faecal samples from 8 healthy blue fox. The numbers of operational taxonomic unit (OUT) ranged from 468 to 574,representing 16 phyla and 209 genera. The dominant bacterial phyla in turn were Firmicutes $( 6 2 . 9 7 \\% )$ )，Bacteroidtes $( 2 2 . 0 5 \\% )$ ，Actinobacteria $( 8 . 8 9 \\% )$ ， Proteobacteri $( 5 . 1 5 \\% )$ and Fusobacteria $( 0 . 8 8 \\% )$ . The dominant bacterial genera in turn were Streptococcus $( 1 1 . 7 5 \\% )$ ，Lactobacillus $( 9 . 8 6 \\% )$ ，Prevotella $( 9 . 2 8 \\% )$ ，Megasphaera $( 8 . 2 1 \\% )$ ， Collinsella $( 7 . 2 7 \\% )$ ,Blautia $( 7 . 0 8 \\% )$ and Bacteroides $( 5 . 6 4 \\% )$ . The present study represents that there is a complex intestinal microbiota structure of blue foxes by the high-throughput sequencing technology, and there were bigger differences among individuals. Key words: blue foxes; intestinal microbiota; high-throughput sequencing; diversity ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

@@ -1,0 +1,167 @@
+# 发散思维的序列位置效应：创新想法动态产生机制的新视角
+
+陈群林丁珂
+
+（西南大学心理学部，重庆400715）
+
+摘 要 发散思维的序列位置效应是指随着时间的推移，单位时间内想法生成的数量逐渐降低，但想法的独创性逐渐升高的现象。联想理论和执行控制假说分别侧重对序列位置效应的个体差异和认知加工过程进行解释。神经影像学研究表明，在想法产生的整个阶段序列位置效应依赖于默认网络后部和突显网络的持续增强激活和协同合作；在想法产生的后期阶段，颞-顶区域alpha能量值以及执行控制网络与默认网络的协同模式增强。未来研究需要结合语义和神经动态分析等技术，对序列位置效应的特异性机制、动态加工机制以及影响因素进行深入探究，从而为解构创新思维的动态过程提供新的视角。
+
+关键词发散思维，序列位置效应，创新想法，动态性，神经机制
+
+发散思维(Divergent Thinking)任务中的序列位置效应(Serial Order Effect，后简称序列位置效应)，是指随着任务的时间进程，单位时间内产生想法的数量逐渐降低，但想法的独创性逐渐增高的现象(Christensenet al.,1957;Heinonen etal.,2016)。该现象能够在多种发散思维任务和不同年龄群体中被稳定地观测到，是创造性领域最经典的发现之一。尽管有关创造性的脑机制研究非常之多，但创造性思维过程中不同阶段所涉及的认知加工和相应的大脑活动模式仍未得到充分了解(赵庆柏 等,2015)。序列位置效应蕴含了创新想法产生的动态特性，对其底层认知神经机制的探究可为解析创造性思维的复杂认知过程带来启示。因此，本文基于过去60多年间有关发散思维序列位置效应的研究，梳理其测量方法、起源和发展，并从理论基础、行为和脑机制研究等方面进行综述，在此基础上从认知模型、动态加工机制以及影响因素等方面对未来研究方向进行展望，以期为解析创新想法生成的动态机制提供新的突破点。
+
+# 1序列位置效应的起源及发展
+
+发散思维序列位置效应的发现最早来自于Christensen 等人(1957)的实验研究。该研究受到言语流畅性任务的启发，即在任务过程中前半段的想法生成速率较高，而后半段的想法生成速率逐渐降低。Christensen等人考察了一系列发散思维任务(包括情节标题命名、不寻常用途任务和不可能情景任务)中随着时间推移产生想法的速率和独创性的关系。参与者需要在规定的时间内尽可能多地想出独创性的(即有趣、吸引人和新颖)想法，并被要求每隔2分钟对所产生的想法进行标记。该研究发现发散思维任务全程中想法的产生速率相对稳定，而独创性则随着时间推移而逐渐增高。
+
+随后的一系列研究重复并扩展了发散思维的序列位置效应。其中，Ward(1969)对7\~8岁的儿童开展了相似的实验，其发现与Christensen 等人(1957)的研究结果基本一致。尽管高流畅性得分的儿童比低流畅性得分的儿童产生想法的速度更快，但二者在独创性得分、何时停止产生常规想法以及何时开始产生不寻常想法上并没有明显差别。与Christensen 和 Ward 采用等时间分段的方法不同，Parmes 和 Meadow (1959)
+
+根据个体在任务中所产生想法的总量，将其等分为前后两段来评估想法的产生模式。结果发现无论是未经训练还是经过训练的大学生都在想法产生的后期阶段报告了更多数量的“好”想法。Phillips 和 Torrance(1977)对4\~6年级的学生实施了言语和图形发散思维任务，结果发现相比于任务前半阶段，各年级学生在后半阶段产生的想法独创性分数更高，但这一发现仅在言语发散思维任务中存在。Milgram 和 Rabkin(1980)比较了四、七和十二年级学生中高、低独创性个体的发散思维表现，发现高独创性和高年级的学生在发散思维任务中表现出更明显的序列位置效应，且相比于前半阶段产生的想法，个体普遍在后半阶段产生了更多不寻常的想法。Runco (1986)探究了想法产生过程中灵活性和独创性的变化模式，结果发现想法的灵活性和独创性得分在后半阶段都有明显的升高，存在序列位置效应。最近系列研究通过精确记录发散思维任务中每一个想法的产生时间，发现随着时间推移个体在单位时间内产生想法的数量逐渐下降，而独创性逐渐上升，重复了序列位置效应(Acar et al.,2019; Beaty& Silvia,2012; Heinonen et al.,2016)。此外，使用自然语言计算方法对序列想法间的语义距离进行评估发现想法间的语义距离也会随着时间的推移逐渐增加，与想法的独创性增加模式相一致(Beaty&Dan,2020)。总之，大量研究结果证明序列位置效应的确存在，且非常稳定，是创造性研究中最常被重复的现象之一。此外，该效应适用于不同的年龄群体(如儿童，青少年和大学生)、不同类型的发散思维任务(不寻常用途任务、情节标题命名、不可能情景任务)和评分方法(如独创性、灵活性、自动化评分)。
+
+# 2序列位置效应的认知机制
+
+大量研究证实序列位置效应是稳定存在的，随之而来的一个重要问题是为什么发散思维任务中产生的想法会随着时间推移而变得更具独创性。早期的观点认为创新想法的产生是一种自动的、较少认知能耗的、自下而上的认知加工过程，对该效应的解释主要根据创造性的联想理论和语义激活扩散模型(Mednick,1962;Colins&Loftus,1975)。在发散思维任务中，早期阶段的想法产生被认为源自一种低级联想过程，由此促进个体内语义网络中概念间的激活扩散。这种激活扩散的发生由近及远，随着时间的推移逐渐通达位于语义网络边缘的远距离概念。所以当个体从邻近、明显的概念转向遥远、不常见的概念时需要更多的时间，但随之输出的想法也会变得更具有独创性。近年来，来自执行控制加工视角的观点认为想法的独创性随时间的增高主要涉及自上而下的执行加工参与，其中策略使用、干扰抑制和基于目标导向的检索加工是影响创新想法产生的关键(Beaty& Silvia,2012)。
+
+# 2.1基于联想理论的解释
+
+根据联想理论，创新想法生成是通过自发的语义联想加工，将记忆中的元素以符合特定要求的新方式联结起来(Mednick,1962)。早期的观点认为创造性涉及自动化加工过程，例如通过松散联结和去抑制来促发远程联想和直觉思维，从而刺激创新想法的产生(Martindale &Hasenfus,1978)。这一观点以Collins 和Loftus (1975)提出的语义加工的扩散激活理论为基础，其中概念被表征为语义网络中的结点，概念间的关联被表征为连接这些结点的边。联想理论认为创新想法的产生是一种自动的检索行为，在空间上遵循从近端扩散激活到远端扩散激活的渐进搜索模式。这种激活将随着时间的推移由密切的、明显的联结逐渐扩散到遥远的、不寻常的联结，想法的质量也逐渐由常规向新颖转变。
+
+在联想理论的框架下，联想层级或语义结构的组织形式可以解释创新想法产生的个体差异。相比于低创造性群体，高创造性群体的联想层级结构更可能是“扁平”而不是“陡峭”的，其内在的语义结构使得词语或概念的组织更具有灵活性，从而促进了丰富且多样的创新想法的产生。Mednick(1962)认为个体间联想速率和联想总数之间呈负相关，高创造性个体在任务开始阶段的联想反应相对缓慢但更稳定，因而能够持续产生较多的反应；而低创造性个体在任务开始阶段的联想反应速度相对更快，但随后很快下降，故整个阶段产生较少的反应。由此推测那些在词汇联想测试中产生更多反应的个体有一个较扁平的联想层级，而那些产生较少反应的个体有一个较陡峭的联想层级。当联想强度越集中在少数刻板联想反应时，个体获得创造性解决方案的可能性也越小。更早期的研究也发现发散思维任务中生成想法的数量和质量之间存在着正相关，即丰富的想法产生导致更多的创造性想法(Parmes&Meadow,1959)。近年来，研究者借助于图论分析技术探测个体语义网络结构的差异与创造性的关系，研究发现相比于低创造性的个体，高创造性个体的语义网络结构具有更强灵活性，有利于概念间的激活传播(Christensen et al.,2018;Kenet et al.,2014)。灵活性的语义网络使得高创造性个体的词汇联想具有较少的刻板反应和共性特征，能够更容易地激活远端想法，更灵活地切换语义类别，以此发现不同概念之间的相似之处并建立新颖的元素组合(Hass,2017;Heinen & Johnson,2O18; Kenett & Faust,2019)。
+
+对于序列位置效应，联想理论能够独立解释在发散思维任务进程中想法生成的速率和独创性。在联想的流畅性方面，研究发现相比低创造性的个体，高创造性的个体在连续的词语联想任务中表现得更好，反映在更快的平均联想速度(Mednick etal.,1964)和更多的自由联想(Benedek & Neubauer,2013;Desiderato &Sigal,1970; Piers & Kirchner,1971)及链式联想数量(Levin,1978)。在联想的独特性方面，研究发现高创造性的个体通常会产生更多新奇联想而不是刻板联想(Benedek & Neubauer,2013; Riegel et al.,1966)，但无论高低创造性个体都会随着时间的推移在任务后期产生具有更高独特性的联想反应(Olczak& Kaplan,1969;Piers&Kirchner,1971)。但正如联想理论所强调的那样，高创造性个体无论在早期还是后期阶段，其想法的数量和质量都更优于低创造性个体。因此，联想理论更倾向于解释个体间创造性能力的差异，而非其底层认知过程的差异。结合语义激活扩散模型，创新想法的生成依赖于时间进程上的概念激活和层层传递。激活扩散的发生需要从一个概念扩散到另一个概念，先发生近端的强关联激活然后再发生远端的弱关联激活从而导致新颖想法的产生。因此只要有足够的时间，激活将逐渐扩散到网络边缘的远端概念，独创性的想法也就会出现。此观点在序列位置效应的相关研究中得到了多次印证，即相比于任务前期阶段产生的想法，后期阶段产生的想法的独创性明显增高，同时想法产生的时间成本也随之增高(Agnoli et al.,2020;Christensen et al., 1957)。
+
+# 2.2基于执行控制的解释
+
+近年来，越来越多的研究开始关注创造性过程中的执行控制成分，认为自上而下的控制加工对于创新想法的产生起着重要作用。这一观点为序列位置效应的潜在认知机制提供了新的解释视角。Beaty 和Silvia(2012)认为创新想法产生过程中需要一系列执行控制加工的参与，包括策略的选择和使用、认知抑制、转换(比如思维固着时需要切换到远程不寻常的想法)等。Beaty 等人(2014)进一步发现创新想法的产生不仅依赖于自由联想加工，还依赖于目标导向的控制性检索加工。其中自由联想加工使得语义网络中的概念快速激活，而控制加工确保以目标为导向的语义检索。这些研究进一步完善了创造性的双加工理论(Finke et al.,1992)，认为想法的产生和评估阶段均需要自上而下和自下而上加工(Kleinmintz et al,2019)。因此，执行控制的多种认知成分可能参与了创新想法产生的整个阶段，并在不同的阶段扮演着不同的角色(Bai et al.,2021; Miroshnik& Shcherbakova,2019)。
+
+其一，想法产生过程中策略的选择和使用导致序列位置效应。Gilhooly 等人(2007)通过两个实验揭示了个体在完成用途替代任务(altermative uses task,AUT)的过程中如何随着时间推移选择和改变认知策略。
+
+在实验一中，要求参与者出声报告任务进行中的思维活动，即如何想到物体的不寻常用途。对口语报告进行分析得出个体在思考物体的不寻常用途时通常采用的四种策略，包括记忆检索、属性使用，广泛用途和拆分策略。接着研究者发现参与者大多会优先采用记忆检索策略，即直接从记忆中提取储存的“旧"想法，当记忆中可被直接检索使用的想法被耗尽时，参与者转而采用其他策略以产生更多的“新”想法。在这一过程中，情景记忆策略在想法产生的早期占主导地位，然后是基于物体属性更抽象的语义知识的检索策略。此外，记忆检索策略与想法的流畅性有关，记忆检索和拆分策略与想法的新颖性有关。在实验二中，作者进一步检验了策略的使用与执行控制的关系。参与者被要求在完成AUT后报告哪些是“新”想法，并完成随后的类别流畅性和字母流畅性任务，结果发现“新”想法相比“旧”想法出现得更晚，但新颖性更高。个体的类别流畅性任务表现可以正向预测“旧”想法产生的数量，而字母流畅性的任务表现则正向预测了“新”想法产生的数量。作者认为“旧”想法是基于早期阶段的记忆检索策略产生的，而“新”想法是基于晚期阶段的属性使用或拆分策略产生的。此外，研究者还发现执行控制能力较强的个体在AUT任务中更偏向使用非记忆检索的策略。此后的系列研究采用新旧评分的方法发现了与此一致的结果，“新”想法相比于“旧”想法更具独创性，且“新”想法通常出现在“旧”想法之后(Benedek etal.,2014;Benedek etal.,2018; Ding et al.,2021; Miroshnik & Shcherbakova,2019; Silvia et al.,2017)。发散思维任务中这一特定的想法产生过程揭示了序列位置效应背后策略使用的时间结构，即随着时间推移，当个体基于记忆检索策略逐渐检索完已有知识经验中的“旧”想法而转向其它策略来产生“新”想法时，想法会变得更加具有独创性。尽管策略的选择和使用在一定程度上解释时间进程下的想法新颖性的增加，但这并没有说明后期想法生成时间成本加大的原因。
+
+其二，想法产生过程中类别切换导致序列位置效应。Acar 和 Runco(2017）考察了发散思维任务中类别切换和类别停留与想法产生时间的关系。在言语和图形发散思维任务中，参与者被要求随时口头报告所想到的想法以记录单个想法产生的时间。结果发现相比于在同一类别中连续产生新想法，类别切换所产生的新想法要多消耗大约5秒的时间。也就是说，当个体需要进入不同概念范畴下生成新想法时，将需要更多的时间。相比于言语创造性任务，这种差异在图形创造性任务中更明显，类别切换还要再多出2.5秒。在后续的研究中，Acar 等人(2019)发现类别切换所需的时间在整个想法产生的过程中并不是相等的。个体在想法产生的后期阶段进行类别转换所消耗的时间是最多的，且明显高于其在前期阶段的转换耗时。这一耗时增量与想法的独创性呈正相关。作者认为相比于简单快速地从经验中提取已知的旧想法，通过类别切换实现远距离概念连接而形成的新想法将需要更多的时间。来自个体差异视角的研究发现，高智力和高工作记忆广度的个体更容易实现类别转换，而低智力和低工作记忆广度的个体较低的切换频率使得他们产生想法的数量更少，在AUT任务中产生创造性的想法也就更少(Unsworth etal.,2011)。此外，高转换能力者会随着任务时间的推移逐渐产生更独创性的想法，而低转换能力者则没有表现出这一时间进程上的想法独创性变化(Wang etal.,2017)。研究者认为，低智力和低转换能力的个体更难有效地控制注意力和认知资源，因而导致其在想法产生过程中更低的类别转换频率(Unsworth et al.,2011;Wang et al.,2017)。类别转换的研究解释了序列想法产生时间成本逐渐增高的原因，也即是从既定类别下的检索效率高，但随着时间推移需要跨出既定类别而进入新类别下进行检索，类别切换加大了时间成本，尤其是后期想法产生更依赖类别切换，故此时间成本更高。与此类似，言语流畅性任务也存在序列位置效应，个体通常先从明显易得的类别中搜索殆尽可能的答案，在陷入僵局时需及时停止并转向新的类别(Unsworth et al.,2011)，因而伴随其想法生成的时间成本增高，但这并不意味着想法的新颖性也随之增大。
+
+其三，执行功能与发散思维的序列位置效应有关。Beaty 等(2012)提出可以从自上而下的控制加工来解释序列位置效应，而非仅从激活扩散模型来解释这一效应。创新想法产生的过程中不仅需要抑制控制来排除近距离、显而易得或任务无关的想法，同时也需要工作记忆来维持任务相关目标的持续激活，而这些加工都离不开执行功能的作用(Storm& Angell,2010 Storm&Patel,2014)。Camarda 等人(2018)采用双任务范式操控想法产生过程中的认知负荷，研究抑制控制在创造性想法产生中的潜在作用。该实验要求参与者在执行Stroop任务的同时完成一项发散思维任务(就如何防止鸡蛋从10米高的地方掉下来而不摔碎提出尽可能多的创造性的解决方案)，结果发现抑制控制负荷降低了个体创造性想法的流畅性和灵活性。近期的一项研究同样采用双任务范式(要求被试同时执行工作记忆和AUT任务)，发现随着时间进程想法的独创性逐渐增高，呈现序列位置效应。有趣的是在AUT任务的早期阶段，高、低负荷状态下产生的想法质量无明显差异，但在后期阶段高负荷状态导致想法质量稍微降低，这表明执行控制加工更多参与了后期阶段的创新想法产生(Kleinkorres etal.,2021)。此外，与Camarda 等人的发现一致，随着时间推移，想法的灵活性逐渐降低，无论从认知加工还是策略选择的角度来讲，灵活性思维都不再适用于持续性的独创性想法产生，因此从灵活性思维到坚持性思维的转变可以解释为什么执行功能越来越影响创新想法产生。另一方面，Beaty 等人(2019)从记忆动态检索和控制加工视角来探讨创新想法的动态产生机制(Chrysikou,2019; Volle,2018)。在实验中，他们选取了低联想数量的线索词("low-fan")和高联想数量的线索词("high-fan")作为AUT的测试材料，结果发现被试在"low-fan"线索下产生了更多独创性的想法，但数量较少，而在"high-fan”线索下产生了更多数量的想法，但独创性较低。进一步分析发现，这两类线索词都存在序列位置效应，但是在时间进程下，"low-fan"线索词产生想法的独创性越来越高于"high-fan"线索词。此外，个体的执行控制能力越高，“low-fan"线索词相比"high-fan"线索词也更有利于想法独创性的增加。该研究表明长时记忆中语义共享概念信息的过度激活会干扰创新想法生成，而执行控制能够帮助克服紧密语义连接的干扰，这是“high-fan"线索词也存在序列位置效应的原因。而对于“low-fan"线索词，执行控制驱动自上而下的搜索加工，通过促进策略转换和强制性连接来补偿稀疏语义连接，以此生成新颖的想法(Vole,2018)。执行功能涉及一系列的认知能力与干扰抑制、策略选择、认知切换等密切关联，能够全面解释序列位置效应，但并没有从根本上否定联想理论。此外，已有研究更多从个体差异的视角论证执行功能与序列位置效应关联，较少从时程上探讨哪种执行功能在何时如何作用于想法产生，这是未来研究亟待解决的问题。
+
+# 3序列位置效应的脑机制
+
+在行为层面上，有关序列位置效应的现象和机制已有大量探讨，但关于序列位置效应的神经机制研究则相对较少。脑电图(electroencephalography,EEG)技术具有的高时间分辨率使其适用于研究创新想法产生过程中与时间进程关联的认知和神经振荡机制(叶超群 等,2021)。Fink 和 Benedek(2014)系统地回顾了创造性思维(尤其是发散思维)与 alpha 频段(8\~12hz)有关的脑电研究，发现创新想法产生过程中最稳健的神经活动模式是前额叶和后顶叶区域的 alpha 神经振荡增加，这反映了创新思维过程中增加的内部导向注意和干扰抑制的需求。具体来讲，alpha 能量对与创造性相关的认知过程的敏感性表现为：(1)随着任务的创新需求程度越高，alpha 能量越高；(2)想法的新颖程度越高，alpha 能量越高；(3)个体的创造性水平越高，alpha 能量值越高。基于这些发现，Fink 和 Benedek提出通过解析 alpha 能量变化来探究创新思维的认知过程。
+
+Schwab 等人(2014)首次探究了AUT任务中单个创新想法产生期间大脑alpha频段在时间进程上的变化。研究者将想法产生前10秒的脑电数据进行三段等分，发现alpha 能量随时间进程在右半球颞叶和顶叶区域上呈现U形变化模式。具体来讲，alpha能量在想法产生的初始阶段会有相当强的增加，然后在中间时段出现下降，并在最后阶段再次增加。研究者认为这种alpha 能量的独特模式揭示了创新想法产生过程中不同阶段的认知变化过程。在想法产生的初始阶段，alpha 频段的活动的增强被认为与抑制控制和记忆提取有关，即个体更倾向于从记忆中直接回忆常规的想法。在这之后，alpha 频段的活动减弱可能表示从记忆中提取的信息正在逐渐减少，为更富有创造性和想象力的思维过程铺平道路(Gilhooly etal.,2007)。而在最后阶段，再次增强的alpha 能量的活动被认为是专注于内部定向的注意力的标志，以促进特定的记忆搜索和更复杂的创造性思维过程。最近的两项图形类的发散思维任务也报告了类似的结果。Jaarsveld 等人(2015)发现在图形创建测试的初始和最后阶段，与任务相关的UpperAlpha频段 $( 1 0 ^ { \sim } 1 2 \mathrm { h z } )$ 的能量明显增加。Rominger等人(2019)发现与想法产生阶段(初期)相比，想法精细化阶段(后期)与任务相关的 Upper Alpha能量的变化增加有关。进一步的分析发现不同创造性水平的个体在想法产生阶段表现出了不同的 alpha活动变化模式，那些产生更多独创性想法的参与者在创造性思维过程的开始和临近结束时 alpha 能量更高，且这种U形的alpha能量变化伴随着早期额—顶一枕叶部位之间的功能连接的增加，表明了自上而下的执行控制过程的激活。其中，初期阶段alpha 能量的增加可能表明了更多的联想思维和记忆过程，而后期阶段 alpha能量的增加可能表明了与想法的细化及评估相关的执行控制过程。这些研究结果展示了发散思维中有关认知需求的大脑活动的动态变化，尽管这些想法的产生过程并非来自单个线索物体的连续生成，但一致地表明创造性想法的产生过程遵循着一个与任务相关的 alpha 能量值变化的时间特征过程。这很可能反映了想法构思阶段中从最初依赖于内部注意生成可能的想法到随后更依赖于执行控制甄别最优想法需要由自下而上到自上而下的认知加工转变，以促进创新想法的产生。
+
+此外，最近的三项研究考察了AUT任务中多个连续想法产生期间大脑 alpha 活动变化的时间过程，更深刻地揭示了序列位置效应的神经活动模式。Wang 等人(2017)探究了执行功能(包括抑制、转换和刷新能力)与序列位置效应的关系，发现抑制控制得分较低的个体在想法产生的早期阶段左侧前额叶alpha 波相比于右侧活动更强，而抑制控制得分较高的个体则没有这种阶段差异。作者认为高抑制控制的个体在任务的早期阶段仅使用较少的认知资源来抑制占优势的普通想法，而低抑制控制的个体则需要更多自上而下的控制加工来做到这一点。然而，Kraus 等人(2019)发现 alpha 能量随着想法的连续产生而整体增加，且相比于右半球，左半球的 alpha 能量值在一物多用任务中以更快的速率增加，而该发现在类别流畅性任务中呈相反的趋势。这说明了创新想法产生过程中 alpha 能量特定于创造性任务需求的变化。与Kraus等人的发现相似，Agnoli 等人(2020)探究了个体在AUT任务中连续产生四个想法时大脑的动态活动模式，发现alpha能量随时间进程也呈现整体增加，特别是在右侧中央、颞叶和顶叶部位，且alpha能量的变化与想法的新颖性增加模式相关联。这些结果表明早期想法产生更多地从长时记忆中检索信息，而晚期想法的产生更多地与自上而下的执行控制参与有关。总的来看，alpha 能量随着想法的连续产生而逐渐增加反映了个体在发散思维任务过程中越来越依赖于自上而下的执行控制加工，以此主动抑制密切关联的优势反应，促进概念类别灵活转换，实现远程关联信息的重组，使得产生的想法随着时间的推移变得越来越具有创新性。
+
+Beaty 等人(2015)采用功能磁共振成像技术考察了AUT任务中伴随想法产生过程的全脑功能连接的动态性变化。相比于控制条件(让被试想物体特征)，个体在新颖条件下(想物体的新颖用途)激活了广泛的脑区，包括默认网络(default mode network,DMN)，执行控制网络(executive control network,ECN)和突显网络(salience network,SN)。通常默认网络被认为与内部导向和自发联想思维的认知过程有关，如思维漫游、未来想象、心理模拟等(Beaty et al.,2016;Wise& Braga,2014)；执行控制网络参与需要外部注意导向的认知过程，如工作记忆、概念整合、抑制控制等(Beaty et al.,2016; Beaty et al.,2019; Chrysikou,2019)；突显网络负责默认网络和执行控制网络之间动态切换，促进注意资源重新再分配，例如在创新想法产生过程中将内部注意转向外部注意，可以对优势和习惯性想法进行定向(Beaty etal.,2016)。紧接着，作者以2s为单位对12s想法产生过程进行分割并考察脑功能网络的动态变化，结果发现在AUT任务初期，DMN和SN之间的耦合增强，而在任务后期DMN与ECN之间的耦合增强。作者认为AUT任务中功能网络耦合的动态变化表明创新想法的产生过程涉及与自发联想、认知控制和语义记忆检索相关的大脑网络之间的合作，以集中内部注意并执行自上而下的认知控制。Heinonen 等人(2016)设计了新的探测方式来调查发散思维中序列位置效应的脑机制。参与者在AUT任务中通过按键来反应他们想到了新想法，但在磁共振里无需进行口头报告(磁共振扫描结束后进行回忆报告)。行为结果与经典的序列位置效应模式一致；神经影像数据分析显示双侧脑岛和背侧前扣带回(凸现网络的关键脑区)主导了新想法产生，且随着序列位置增加激活增强；此外随着序列位置的增加，默认网络内的双侧楔前叶/楔叶、扣带后回、右侧下顶叶的活动越来越活跃。
+
+尽管两项研究采用了不同的数据分析手段，但在脑网络水平上的发现趋于一致，例如默认网络参与了整个创新想法过程，突显网络可能负责默认网络和执行控制网络之间动态切换。关于执行控制网络的作用，尽管两项研究在结论上是一致的，但Heinonen等人并没有发现执行控制网络的经典脑区，比如背外侧前额叶、内侧前额叶等脑区活动参与序列想法产生，而是将扣带前回界定为执行控制网络的关键脑区，以此得出ECN参与了序列想法产生，但此区域的功能分区多被划分到DMN或SN。关于ECN不一致的发现，一种可能的原因是这两项研究采用了不同的想法报告方式，Beaty等人的研究采用单反应出声思维报告，这个过程涉及对想法的再次加工，例如选择、评价、精炼并做出反应，故ECN参与程度更多；而Heinonen等人的研究采用无需报告的设计，更利于内部思维的流畅性，故默认网络的参与更多，而负责思维外化的ECN参与更少。这在一定程度上表明创新想法产生过程中ECN主导的认知功能受制于任务背景，且作用对象随之发生变化。结合EEG研究，alpha 能量随时间进程呈现U形变化模式的发现，我们认为在想法产生初期，以外侧前额叶为核心的执行控制网络作用于语义记忆相关的外侧颞叶来抑制优势凸显的和常规想法。而在此阶段，DMN并不与ECN形成共激活模式，而是呈现继时上的此消彼长模式。随着时间推移，优势凸显想法带来的干扰逐渐降低，同时语义检索的空间以及与刺激概念(即线索物体)的距离变大，此时外侧前额叶主导的执行控制网络转向控制性的语义检索，包括对表征转换、远距离概念整合以及在工作记忆空间对生成潜在想法的选择和评价等。在神经活动模式上表现为ECN与DMN耦合，尤其是外侧前额叶与额下回、背内侧前额叶以及海马(隶属于默认网络)的共同激活。总之，已有脑影像的研究表明创新想法产生依赖于DMN、ECN和SN的动态耦合，但三大网络如何导致序列位置效应的精细化机制还有待进一步研究。
+
+# 4总结与展望
+
+综上所述，本文对序列位置效应的理论和相关研究进行了梳理，表明序列想法的生成依赖于联想加工和执行控制的多种认知能力，以及与这些认知加工关联的大脑区域和网络协同作用。然而，目前有关于序列位置效应的脑机制研究相对较少，解释框架多围绕已有创造性思维的认知和大脑加工机制。未来的研究需要更多地考虑序列位置效应中的动态特性模型，包括序列想法动态特性量化、加工的阶段性以及阶段性交互作用，及其底层的大脑加工机制等，以期通过对序列位置效应的深入解析来探究创新想法产生的动态机制。基于序列位置效应对解析创新想法发生过程的重要性，未来的研究有必要进一步关注以下几个方面的问题：
+
+# 4.1考察发散思维序列位置效应的特异性机制
+
+早期研究发现序列位置效应存在知觉(Sperling，1960)、记忆(Conrad,1964）以及自由联想等任务中。例如记忆研究中常采用序列回忆、线索回忆、自由回忆等范式探究的时程上的序列位置现象和机制(Lewandowsky&Farell,2008)。此外，与发散思维类似，语言流畅性任务同样展现出序列位置效应，也涉及多个执行控制加工，特别是线索生成、类别切换和干扰管理(Unsworth et al.,2011)。Logan (2018)发展出基于背景检索和更新(Context Retrieval and Updating;CRU)模型来解释专家的自动化反应，例如在自动化打字中的序列输出行为。不同于相继抑制模型(Rumelhart&Norman,1982)和序列竞争模型(Grossberg,1978),该模型强调个体反应带来的背景信息变化使之下一个潜在反应(包括动作、回忆、联想等)的激活强度发生变化，因此背景信息的迭代变化是序列反应发生的关键。研究者通过模拟数据和实证研究发现不同形式的序列位置效应可能由相同的潜在机制所解释(Logan,2018)，故作者认为CRU模型同样是适用于解释知觉、记忆和动作的序列位置效应，具有泛化性。CRU模型认为问题背景下的概念是平行激活但彼此竞争，概念激活强度与当前背景的相似性呈正比，随着反应发生背景也随之更新，概念激活强度呈现梯度变换，再由自动化的选择过程做出反应，由此导致反应呈现序列位置效应。尽管发散思维序列位置效应的研究逐渐涌现，对其机制的解释仍是基于创造性思维研究领域的理论模型(Beaty et al.,2014;Mednick,1962)。作为序列位置效应中的一种现象，发散思维的序列位置效应是否可以根据CRU模型来解释有待未来的实证研究。无论是联想理论还是执行控制假说，都强调静态语义网络中概念激活和抑制功能的作用，而CRU弱化了抑制在序列反应中的作用，更强调背景信息的迭代变化与概念激活、反应选择的动态关系。事实上发散思维任务中被试的序列反应可能导致个体语义网络的动态调整，基于CRU模型可以根据语义网络的动态变化来推导序列反应之间的关系，而不仅仅从激活联结和相互抑制的角度来解释。此外，我们认为CRU的泛化性能够解释发散思维序列位置现象的部分效应，同时发散思维序列位置效应无法被CRU解释的部分，可能反映了其特异性认知加工过程。建议今后的研究者结合CRU模型和计算建模来探究序列位置效的机制。
+
+# 4.2刻画发散思维序列位置效应的动态特征
+
+众多研究通过神经影像技术来解析创新思维的动态性机制，如 Beaty 等人(2016)基于任务态功能连接分析来探究发散思维加工过程中的脑网络协同机制，发现在想法产生的早期阶段由默认网络主导，而在后期阶段由默认网络和执行控制网络主导。音乐即兴创作的神经影像学研究发现与发散思维相似的脑网络连接模式(Belden et al.,2019;Mota et al.,2020)。但这些研究多采用以脑数据为中心的数据驱动原则，从大脑加工模式来推断创新想法潜在的认知机制。由于关于负责创造性的大脑网络或区域的解释具有非特异性，并未有效回答创新思维加工的动态机制。发散思维在时程上的想法连续产生刻画了从问题初始状态到解决状态的思维动态过程(Jaarsveld et al.,2015)。尽管这些序列离散的想法并不能反应创新思维发生的完整过程，但在一定程度上反映了创新想法产生的连续动态性。已有研究倾向于把序列位置想法视为阶段加工，通过对不同位置或时间段上的想法新颖性及其脑活动模式进行比较来解释序列位置效应的潜在机制(Wang etal.,2017)。但Volle (2017)基于联想理论提出创新想法的产生是想法相互依赖的过程。该理论观点指出创新想法的产生具有连续性，且想法之间存在依存关系。基于此，我们认为对序列位置上的创新想法的关系进行量化可以在一定程度上描绘想法产生的连续性过程。例如，通过潜在语义分析技术(latentsemantic analysis,LSA)计算线索物体与想法，以及连续两个想法之间的相似性或语义距离(Gray etal.,2019),从而刻画基于线索物体所产生系列想法的变化趋势以及函数关系。此外，根据Yoed 等人对创造性语义网络的构建和分析证实想法之间的语义距离可以度量想法的新颖性，并结合图论分析方法将序列想法映射到语义结构空间，即可以从模块性、节点中心性等网络分析指标来度量创新想法之间的关系，这为序列位置效应的动态机制探究提供了可取的方法学指引 (Kenett&Faust,2019)。
+
+# 4.3揭示发散思维序列想法生成的动态神经机制
+
+目前仅有的几项关于发散思维序列位置效应的神经机制考察了不同时程阶段上想法产生的脑活动模式差异。如果从想法产生的连续性视角来看，这些研究仅探讨了想法产生的早期和晚期阶段差异。基于本综述的核心观点，我们认为发散思维序列位置效应是研究创新思维动态性机制的新窗口。在已有研究的基础上，未来研究探究大脑是如何驱动创新想法的动态产生将带来更多的理论价值。该问题解决可以从两个层面来考察：一是通过神经活动模式的相似性来探究序列想法是否存在相互依赖，例如类别切换阶段神经活动模式的相似性是否有别于类别内。亦或通过表征相似性分析探究序列想法之间的神经动态耦合模式变化，进而解析想法互依和不互依的神经基础。二是通过滑动时间窗动态网络分析(Sun et al.,2019;Rabinovich et al.,2020)、隐马尔可夫模型(Anderson et al.,2016)来解构发散思维整个过程中的大脑活动状态数量、切换频次和转移路径，然后锁定创新想法的大致时间窗口并进一步解析其特异性的大脑活动模式。同时可以考察想法产生过程中大脑活动状态与想法独创性的关系。此外，可以借助动态因果模型(Friston etal.,2003;Tik et al.,2019;Vartanian et al.,2018)、格兰杰因果分析(Seth et al.,2015;Duan et al.,2020)考察关键脑区(例如背外侧前额叶)在每个想法产生时的连通模式和信息流向，进而明晰动态想法产生的大脑驱动模式是什么。
+
+# 4.4探索发散思维序列位置效应的影响因素
+
+无论是发散思维还是其他类型创造性问题解决任务，都需要在一定的时间内组织和加工信息，并产生适合且新颖的解决方案。序列位置效应的一个隐含前提是个体需要在相当长的时间内才最有可能产生独特性的答案。那么到底多长时间最有利于个体产生新颖想法呢？有元分析发现相比于限制时间作答，自由时间条件下发散思维的平均效率(也即是单个想法的质量)更高。但这并不意味着时间越长越好，因为随着时间加长，个体想法产生的质量会呈倒“J”模式，也即是在想法产生的后期阶段，会出现独创性的衰减(Paek etal.,2021)。但已有研究也发现独创性变化的函数关系并不仅仅依赖时间，还受到诸多因素的影响，比如执行功能、元认知、动机、对时间压力的感知等(Beaty& Silvia,2012;Jiaet al.,2019;Paek et al.,2021)。例如家晓余(2018)的研究发现持有创造性可塑观(可视为一种内部动机)的个体能够通过认知坚持获得更加独创性的想法。此外，对序列位置效应的影响因素探究会给创造性教育带来诸多启发，例如通过执行功能训练、增强内部动机、优化作答时间等方式让学生通达创造性的想法，激发学生的创新潜能。因此，建议未来的研究关注影响序列位置效应的个体内部和外部因素，理清该效应的边界条件。
+
+# 参考文献
+
+叶超群，林郁泓,刘春雷.(2021).创造力产生过程中的神经振荡机制.心理科学进展,29(4),697 － 706   
+赵庆柏，李松清，陈石，周治金，成良.(2015).创造性问题解决的动态神经加工模式．心理科学进展,23(3),375-384.   
+Acar,S.,bdullaabbasi,A.M,Runco,M.A,&Beketayev,K.(019).Latencyaspredctoroforginalityinvergentkig. Thinking Skills and Creativity,33,100574.   
+Acar,S.,&Runco,M.A.(0l7).Latencypredictscategoryswitchindivergentthinking.PsychologyofAsthetics Creativity&the Arts,11(1),43-51.   
+Acar, S.,Runco,M.A,& Ogurlu,U.(019).The moderatinginfluenceofidea sequence: Are-analysisoftherelationshipbetween category switch and latency. Personality and Individual Diferences,142,214-217.   
+Agnoli,S.,Zo,.sra,venati,.&ora,GE.().edictigsposeigialityroughbcy: analysis of changes in EEG alpha power during the generation of alternative ideas. Neuroimage, 207,116385.   
+Anderson,JR.，Pyke,A.A.，&Fincham,J.M.(2016).Hiddenstagesofcognitionrevealed inpattrnsofbrainactivation. Psychological Science,27(9), 1215-1226.   
+Bai,H.,Lesa,ee,,rsbeenE.H,&lde.().aloereivegegii to six-year-olds: Individual differences as related to executive functions. Journal of Intellgence,9(2), 20.   
+Beaty,R.E.,Benedek,M.,Kaufman,S.B,&Silvia,P.J. (O15).Defaultand executive networkcouplingsupportscreativedea production. Scientific Reports,5,10964.   
+Beaty,R.E.,Benedek,,ia,P.J,hacter,D.(6).Ceativeogitionandraietworkdaics.endsinoive sciences, 20(2), 87-95.   
+Beaty,R.E.,&Dan,R.J.(2).AutomatingcreativityassessmentwithemDis:Anpenplatforforcomputingsemanticdistance. Behavior research methods,53(2),757-780.   
+Beaty,R.E.,Kene,YNHass,R.,acerD.L(9).Aectforreaiethought:anticcsfcilatesiea quantity but constrains idea quality. PsyArXiv.   
+Beaty,R.E.,&SilviaP.J.(O12).Whdoeasgetmorecreatieacrosstie?Aeectiveiterpretationofteserialdrect in divergent thinking tasks. Psychology of Aesthetics, Creativity, and the Arts,6(4),309-319.   
+Beaty,R.E.,aJ,sbE.Cuk,E,dek,().olesootieeecuieproci cognition. Memory and Cognition, 42(7),1186-1197.   
+Belden,A.,Znginda,E.teraper,S.A,&oui,P.9).Iprovigatst:itiatigjndalsi training with resting state functional connectivity. Neuroimage,207(2),116384.   
+Benedek,M.,Juk,E,k,A,Kosutig,K,shoerGberF,ebueA.C().reateortal mechanisms underlying the generation of creative new ideas. Neuroimage,88,125-133.   
+Benedek,M.,&Neubauer,A.C.(2O13).Revisiting mednic'smodeloncreativity-relateddiferences inassociative hierarcies. evidence for a common path to uncommon thought. The Journal of Creative Behavior,47,273-289.   
+Benedek,M.ches,.,BeatyR.E.,Juk,E.&ubauer,A.C.(8).creatertorcalloriginadeas:Brainros associated with the imagination of novel object uses. Cortex, 99,93-102.   
+Camarda,A.,Brst,G.,Agogue,M.,Habib,M.,WeilB.,Houde,O.,&Cassoti,.(218).Dowe neediibitorycontroltobe creative?Evidence froma dual-task paradigm.Psychology ofAesthetics, Creativity,and the Arts,12(3),351-358.   
+Christensen,A.Ke,YCoeK.aty.EiaP.,s.)elyloeis to experience and semantic memory structure. European Journal of Personality,32, 480-492.   
+Christensen,P.R.ilford,J.P.,&onR.C.(95).elatiosofrativersposes tokingtieadstrutio.Joual of experimental psychology, 53(2), 82-88.   
+Chrysikou,E.G.(2019).Creativity inandoutof (cogitive)control. Curent Opinion in Behavioral Sciences,27,94-99.   
+Colins,A.M,sE.(97).Aseaingacitiooynticrocsing.coloicalRevie2(),.   
+Conrad,R.(1964). Acoustic confusions in immediate memory. British Journal of Psychology,55(1),75-84.
+
+Ding,K.,Chen,Q.,Yang,W.,Wang,X,&Qiu,J.O1).Recogniingdeasgeneratedinacreativethinkingtask:Efectofte subjective novelty. Current Psychology,1-13.
+
+Duan,H.,Yang,T,Wang,XKan,Y,ZhaoH,Y,&HuW.().stheceativityofloversberAbehvialanductioal near-infrared spectroscopy hyperscanning study. Current Psychology, 1-14.   
+Finke,R.A.,Ward,T.B.,&ith,S..(1992).reatiecogniion:ryesearchdplcatio.Cambrdge,:r   
+Fink,A.,&Benedek,.(2014).EEGalphapowerandreativeideation.Neurosience&obehavioral Reviews,44(o)1.   
+Friston, K. J.,Harison,L.,&Penny, W. (2003). Dynamic causal modelling. Neuroimage,19(4),1273-1302.   
+Gilhooly,K.J.ortou,,oy.W,V.().ivergnttiing:Strategiesferatigleatifo familiar objects.British Journal of Psychology, 98(4),611-625.   
+Gray,K,deoE.EKelJ.ac,JaLKeY,isK() flow": A new measure to quantify free thought and predict creativity. American Psychologist, 74(5),539-554.   
+Grosberg S.(1978).Atheoryofhumanmemory: Self-organizationandperformanceofsensory-motor codes,maps,andplans.InR. Rosen &F.Snell(Eds.),Progressin theoretical biology(Vol.5, pp.233-374).New York,NY: Academic Press.   
+Hass,R. W. (2017). Semantic search during divergent thinking. Cognition,166,344-357.   
+Heinen,D.J.P.,&Johnson,D.R.(2018).Semantic distance: Anautomated measureofcreativitythatisnoveland appropriate. Psychology of Aesthetics, Creativity, and the Arts,12,144-156.   
+Heinonen,J.,minn,J.,shuk,Y,tellH,&oala,J(6).eultodedeectiveetworksreas with the serial order in divergent thinking. PLoS One,11(9), e0162234.   
+Jarsveld,S.,Fink,Ainer,chab,D.enedek,,&chan,T.().Inteligenceinceativeprocesss:AEG study. Intelligence,49,171-178.   
+Jia,X.,Li,W&Cao,L.(19).eoleofeacogitivecomponntsinreativetining.Frontiersinyhology,404.   
+Kenet,Y.N.Anaki,D.,&Faust,M. (2014).Investigating the structureofsemantic networks inlowand highcreativepersons. Frontiers in Human Neuroscience,8,407.   
+Kenett,Y.N.,&Faust.(l9).AemanticNetwork CartographyoftheCreativeind.TrendsinCognitiveSciences,3(4),7 274.   
+Kleinkorres,R.Frtan,,&Holg,H().Aprimentalapproachtvetigateteivolvementfogiielodin divergent thinking. Journal of Intellgence, 9(1),3.   
+KleinmintzO..,ancoskyT,&aaysoy,.G.(19).Ttwofoldmodelofreatiity: tenuraunderpiigsoft generation and evaluation of creative ideas. Current Opinion in Behavioral Sciences,27,131-138.   
+Kraus,B.,Cadle,C.,&Simon-Dack,S.(O19)EGalphaactivityismoderatedbytheserialorderefectduringdivergentthinking. Biological psychology,145, 84-95.   
+Levin,I. (1978).Creativityandtwo modesof associative fluency: Chains and stars1.JournalofPersonality,46,426-437.   
+LewandowskyS.,&Frel,S. (2O08).Short-Temory:Newataandaodel.Psychologyofearning&otivation49,1- 48.   
+Logan, G. D. (2018). Automatic control: How experts act without thinking. Psychological Review,125(4),453-485.   
+Martindale，C.,& Hasenfus,N. (1978).EEGdiferences asafunctioofcreativitystageof tecreativeprocessandorttbe original. Biological Psychology, 6(3),157-167.   
+Mednick,S.A. (1962).The associative basis of the creative process.Psychological Review, 69,220-232.   
+Mednick,M.T.S.,Mednick,S.A.,&Jung,C.C.(1964).Continualassociationasafunctionoflevel ofcreativityandtypeoferbal stimulus. Journal of Abnormal Psychology, 69,511-515.   
+Milgram,R.M,&Rabkin,L.(1980).DevelopmentaltestofMednick'sasociativehierarchiesoforiginal tinking.Developental Psychology,16(2),157-158.   
+Miroshnik,K.G.,&Shcherbakova,O.V.(019).Theproportionandcreativityof "old"and"new"ideas:Aretheyrelated tofluid intelligence? Intelligence,76,101384.   
+Paek,S.H.,Aabbasi,A.M.A.Acar,S.&unco,M.A.(21).IsmoreiebetefrdivergenttinkingAmeta-analsisofthe time-on-task effect on divergent thinking. Thinking Skills and Creativity,41,100894.   
+Pares,S.J.,& Meadow,A. (1959).Efectsof"brainstorming"instructionsoncreative problemsolving bytrained anduntrained subjects. Journal ofEducational Psychology, 50(4),171-176.   
+Philips,V.K,&eE.P.(977).Levesofoiaitytrdlatetagsofaivitysttas.Joulofive Behavior,11(2),147-147.   
+Piers,E.,&Kircher,E.(1971).Productivityandniquenessincontinuedwordasociatioasafunctionofsubjectreativitynd stimulus properties. Journal of Personality,39 2,264-276.   
+Rabinovich,.I.,Zaks,M.A.,&Varona,P.().Sequentialdynamicsofcomplex networksinind: Conscousnessandeatiity Physics Reports,883,1-32.   
+Riegel,K.F.egel,R.&eve,..(6).alysisssociivebaviordeativityJoulfoalityd social psychology,41,50-56.   
+Rominger,Ck,chld,Cde,Ws,E.hrdeg,().eativit with a characteristic U-shaped function of alpha power changes accompanied byan early increase in functional coupling. Cognitive,Affective,& Behavioral Neuroscience,19(4),1012-1021.   
+Rumelhart,D.E.,&Norman,D.A.(982).Smulatingaskiledtypist: Asudyofsilledcognitive-motorperformance.Cogntive Science,6,1-36.   
+Runco,M.A.(986).FlexibilityandOriginalityinChildren'sDivergentTinking.TheJournalofPsychology,20(4),3452.   
+Schwab,D.,Benedek,M.,Papousek,I,Weis,E.M.,&Fink,A.(214).Thetime-courseofEEGalphapowerchangesineative ideation.Frontiers in Human Neuroscience,8,310.   
+Seth,A.K.,Barett,A.B.，&Barnett,L.(0l5).Grangercausalityanalysis inneuroscienceand neuroimaging.Journalof Neuroscience, 35(8),3293-3297.   
+Silvia,P.J,Nusbaum,E.C,&Beaty,R.E.(17).OldorNew?Evaluatingtheold/newscoringmetodfordivergenttinkingtasks. The Journal of Creative Behavior,51(3),216-224.   
+Sperling,G. (1960).The Information Available inBrief Visual Presentations.Psychological Monographs:GeneralandApplied, 74(11),1-29.   
+Storm,B.C.,&Angelo,G. (00).Overcomingfixation: Creativeproblemsolvingandretrieval-inducedforgeting.Psychological Science,21(9),1263-1265.   
+Storm,B.C.,&atel,T.N.(14).Forgetingaonseuencadablerofcreativethking.JouralofExperimentalyology Learning Memory & Cognition, 40(6),1594-1609.   
+Sun,JLiu,lg,uJ()Vrbeaiies of brain networks during the resting state. Cerebral Cortex, 29(3),1047-1058.   
+Tik,M.,lady,ft,CigDofa,.Bss,..&inscbgerC.(8).Urel fMRI insights on insight: Neural correlates of the Aha!-moment. Human brain mapping,39(8),3241-3252.   
+Unsworth,N.,Spilers,GJ,&Brewer,G.A.(1).Variationiverbalfuency:alatentvariablenalysisofustering,iching, and overal performance. Quarterly Journal of Experimental Psychology, 64(3), 447-466.   
+Vartanian,O.eatty.ith,cklerK,aQ.&Frbs,.().Oe-watraic:theriorfrotalgo brainactivation inthe middle temporal gyrus and inferir parietallobule during divergentthinking. Neuropsychologia,18, 68-78.   
+Vole,E.(Ol).oitidtrolldgieetgtorecalexprtalrogig newdirections.R.E.Jung,O.Vartanian (Eds.),The Cambridge Handbook of the NeuroscienceofCreativity(pp.33-362). New York, NY: Cambridge University Press.   
+Wang,M.,Hao,N,Ku,Y,aber,R.H.,&Fk,A. (7).uraoelasofalorderefeivebaldvergenttking.
+
+Neuropsychologia,99,92-100.
+
+Ward, W.C. (1969). Rate anduniqueness inchildren's creative responding. Child Development,40(3),869-878.
+
+Wise,R.J.,&Braga,R.M.(O14).Defaultmode network:theseatofliterarycreativityTrends incogntivesciences,8()1 117.
+
+# Serial order effect during divergent thinking: a new perspective on the dynamic mechanism of creative thought processes
+
+CHEN Qunlin,DINGKe
+
+(Faculty of Psychology, Southwest University, Chongqing 40O715, China)
+
+Abstract: The serial order eect in divergent thinking (DT) is one of the most robust findings inthe field of creativity research.This effect refers to the phenomenon that the numberof generated ideas decreases, whereas the originality of ideas increases across time while performing DT. Both association theory and executive control hypothesis contribute to explaining the serial order efect,but the association theory and the executive control hypothesis focus on explaining individual differences in the serial order effect and cognitive processing, respectively. Previous neuroimaging studies have found gradually increased activation in the posterior areas of the posterior default network (i.e., precuneus and posterior cingulate gyrus)and the salience network (i.e.,bilateral insulaand dorsal anterior cingulate gyrus)was asociated with the generation of serial novel ideas.In the later stage of DT,the energyof alpha of the temporal-parietal region,as well as thecooperation between the executive control network and the default network is increased,suggesting that internall-directed cognitive processes play a key role for the originalityof the later serial ideas.Future research needs to combinecognitive and computational models,semantic analysis,brain dynamic analytical approaches,and representational similarity analysis to explore the cognitive and neural mechanisms of the serial order effect,as to provide a new perspective for deconstructing the dynamic process of creative thinking.
+
+Key words: divergent thinking,serial order effect, creative idea,dynamic processes,neural mechanism

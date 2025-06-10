@@ -1,0 +1,99 @@
+临床研究
+
+# 利用数据库分析胃食管反流病的发病因素与临床特点
+
+陈丽萍,黄载伟,肖 冰南方医科大学南方医院消化内科//广东省胃肠疾病重点实验室，广东广州 510515摘要：目的 利用完整的前瞻性功能性胃肠病数据库探讨非糜烂性胃食管反流病(NERD)的相关发病因素与临床特点。方法按照病例报告表(CRF)收集完整的个人信息和临床资料，将各项信息与资料录人到网络在线功能性胃肠病数据管理系统，部分病例完成高分辨率食管测压和多通道腔内阻抗-pH监测，导出检索数据进行统计分析。结果在数据库中录入了504例NERD临床资料及152例对照组资料，NERD患者中，女性266例 $( 5 2 . 8 \%$ ）、男性238例 $( 4 7 . 2 \%$ )；商人 $( 2 3 . 1 \%$ ）、公务员 $( 1 9 . 6 \%$ ）无业0 $1 9 . 2 \%$ ）工人 $( 1 7 . 1 \% )$ ，城市病源 $( 6 7 . 3 \%$ ）、农村病源 $3 2 . 7 \%$ )；平均病程( $2 7 . 8 8 { \pm } 1 6 . 3 3 \$ 月；不良生活事件 $( P { = } 0 . 0 4 5 , \mathrm { O R } { = } 1 . 9 5 4 ,$ 、长期频繁饮酒 $\scriptstyle \left( P = 0 . 0 4 0 , 0 \mathrm { R } = 3 . 9 5 7 \right)$ 、打 $\scriptstyle ( P = 0 . 0 0 2 , \mathrm { O R } = 2 . 3 3 4$ ）、进食夜宵 $( P { = } 0 . 0 0 2 , \mathrm { O R } { = } 2 . 7 5 2 )$ 、合并焦虑抑郁 $\scriptstyle P = 0 . 0 0 3 , 0 \mathrm { R } =$ 2.723)等是NERD的独立危险因素； $6 0 . 8 1 \%$ NERD患者存在不同程度的食管体部无效收缩，其中存在食管裂孔疝(HH)与无HH的NERD患者两组之间在总液体反流事件方面存在明显差异( $( P { < } 0 . 0 5 )$ 。结论不良生活与饮食习惯、焦虑抑郁与不良事件、打鼾、食管运动功能差、HH等与NERD的发病具有重要相关性,30\~50岁为高发人群，并与职业和生活区域有一定相关。
+
+关键词：胃食管反流病;数据库;发病因素;病情特点
+
+# Risk factors and clinical characteristics of gastroesophageal reflux disease: analysis based on a prospective database of functional gastrointestinal disease
+
+CHEN Liping, HUANG Zaiwei, XIAO Bing   
+GuangdongProincialKeyLaboratoryofGastroenterologyDepartmentfGstroenterologyafangHospitalSouthernedical   
+University,Guangzhou 510515,China
+
+Abstract: Objective To exploretherisk factors and clinical characteristics of non-erosive reflux disease (NERD)based ona prospective single disease database offunctional gastrointestinal disease.Methods Using a customized casereport form, we colected the personalandclinical dataof allstudyparticipants inanonlinedatabaseforfurther analysis.High-resolution manometryand multichannel intraluminal impedance-pH monitoring were performed in some cases.Results A total of 504 NERD cases and 152 control cases were included in our database. The NERD patients consisted of 266 $( 5 2 . 8 \% )$ female patients and 238 $( 4 7 . 2 \% )$ male patients; $3 2 . 7 \%$ of the patients were from rural areas and $6 7 . 3 \%$ from urban areas; $2 3 . 1 \%$ of the patients worked in the line of business, $1 9 . 6 \%$ were civil servants, $1 9 . 2 \%$ were unemployed, and $1 7 . 1 \%$ were workers; the mean disease duration of the patients was $2 7 . 8 8 { \scriptstyle \pm 1 6 . 3 3 }$ month. Our analysis showed that adverse events in life $\scriptstyle ( P = 0 . 0 4 5 ,$ $\mathrm { O R } { = } 1 . 9 5 4$ ),frequent drinking $\scriptstyle \left( P = 0 . 0 4 0 \right)$ ${ \mathrm { O R } } { = } 3 . 9 5 7 .$ )，snoring ${ \it P } { = } 0 . 0 0 2$ ${ \mathrm { O R } } { = } 2 . 3 3 4$ ),latemeals( $\scriptstyle P = 0 . 0 0 2 ,$ $\mathrm { O R } { = } 2 . 7 5 2$ ), andanxiety or depression $( P { = } 0 . 0 0 3 ,$ ${ \mathrm { O R } } { = } 2 . 7 2 3 { \mathrm { ^ { \circ } } }$ were all independent risk factors for NERD. Of these patients, $6 0 . 8 1 \%$ had varying degrees of ineffective contraction of the esophagealbody.The total liquid reflux events difered significantly between NERDpatients with hiatal herniaand those without $( P { < } 0 . 0 5 )$ . Conclusion Unhealthy eating habits and lifestyle, history of adverse events, anxiety and depression, snoring,pooresophageal motorfunctionandhiatalherniaaresignificantfactorscontributing toNERD,whichiselated with occupation and living areas and occurs most commonly at 30-50 years of age.
+
+Key words: gastroesophageal reflux disease; single disease database; onset factors; clinical characteristics
+
+胃食管反流病（gastroesophageal reflux disease,GERD)指胃和(或)十二指肠内容物反流入食管引起不适症状和(或)并发症的一种疾病1，非糜烂性胃食管反流病(NERD)和糜烂性食管炎(EE)为最常见的亚型。GERD患者的生活、饮食习惯的调整与临床特征的评估在GERD的综合治疗上显得尤为重要[2,但目前国内还没有大样本临床数据库探讨NERD患者的发病相关因素与临床特点的报道，我们前期建立了规范化的前瞻性功能性胃肠病临床研究数据库3，利用该数据库收集了NERD病例，对NERD进行了发病因素与临床特点的深入研究与分析。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+1.1.1纳入病例所有病例均由消化科专家按照NERD诊断指南确诊，并有内镜检查报告，部分患者依本人意愿完成高分辨率食管测压(HRM)及多通道腔内阻抗-pH监测(MII-pH)。所有患者均按照CRF3收集完整的个人信息和临床资料，将所有信息与资料录人到网络在线功能性胃肠病数据管理系统并自动检索[3]。
+
+1.1.2纳入对照组系患者陪同人员(经问诊无消化系统不适症状)或健康体检者。将在性别、年龄、体质量指数、不良生活饮食习惯、心理状态等各因素方面，与病例组进行比较分析。
+
+1.1.3排除标准孕妇或患者正处于哺乳期;就诊或随访期间患者出现严重心肺疾病、消化道恶性肿瘤等全身性疾病；失访病例。
+
+# 1.2 精神心理状态评定量表
+
+精神心理状态评定量表：所以纳入的病例对照均由本人完善Zung氏焦虑自评量表和Zung氏抑郁自评量表。
+
+# 1.3 统计方法
+
+采用SPSS19.0统计软件分析，计量资料以均数 $\dot { \bf { \underline { { \mathbf { \sigma } } } } } \mathbf { \cdot } \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \cdot \mathbf { \sigma } \mathrm { ~ }$ 标准差表示，采用两独立样本t检验，计数资料采用x检验或Fisherexacttest,危险因素分析采用多因素Logistic回归分析，回归方程中因变量为NERD。本研究以 $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+2.1利用数据库对NERD组及对照组一般信息的统计
+
+自2013年9月\~2015年9月初步纳入NERD患者512例，3例患者信息不完全，5例患者在随访中发现小肠或出现心肺疾病,目前共504例纳入在线数据库(http://www.fgiddata.com),对照组152例。病例组与对照组的年龄、性别比较，差异无统计学意义。利用数据库的检索统计功能对NERD病例组的一般信息进行统计结果显示：女性266例 $( 5 2 . 8 \% )$ ）、男性238例 $( 4 7 . 2 \% )$ ，年龄范围在19\~76岁，年龄： $( 4 2 . 6 6 \pm 1 1 . 9 0 )$ 岁，其中20岁\~（ $1 6 . 5 \%$ ）） $\phantom { + } \cdot 3 0$ 岁\~( $5 7 . 3 \%$ ）、50岁\~( $2 6 . 2 \%$ ,高发年龄主要在30\~50岁。主要职业分布：商人 $( 2 3 . 1 \%$ ）、公务员（ $1 9 . 6 \%$ ）、无业 $( 1 9 . 2 \%$ ）、工人 $( 1 7 . 1 \%$ )，城市病源$( 6 7 . 3 \%$ ）、农村病源 $( 3 2 . 7 \%$ ），体质量指数(BMI)为$\left( 2 2 . 3 0 { \pm } 3 . 3 0 \right) \mathrm { k g / m } ^ { 2 }$ 。主要症状为反流( $( 6 6 . 5 \%$ ）、烧心$( 5 8 . 1 \% )$ 、暖气 $( 4 1 . 5 \% )$ 、胸骨后不适 $( 3 7 . 3 \% )$ )，其中夜间反流 $( 5 1 . 6 \%$ ）、夜间烧心( $56 . 2 \%$ ),非典型症状以暖气、胸骨后不适(胸闷或胸痛）上腹不适(包括上腹胀及上腹痛)最为常见，食管外症状以咽部异物感或咽部堵塞感常见(表1)。病程 $( 2 7 . 8 8 \pm 1 6 . 3 3 )$ 月；合并焦虑抑郁216例 $( 4 2 . 9 \% )$ ；合并功能性胃肠疾病245例 $( 4 8 . 6 \% )$ ;食管裂孔疝67例 $( 1 3 . 3 \%$ )。组合检索发现 $9 5 \%$ 的无业病例以女性为主；压力大的公务员及商人187例$( 3 7 . 1 \% )$ ；压力大合并不良生活事件346例 $( 6 8 . 7 \% )$ ；$\mathrm { B M I } { \geq } 2 3 \ \mathrm { k g } / \mathrm { m } ^ { 2 }$ 伴有打鼾的患者192例 $( 3 8 . 1 \% )$ ；其余与对照组的一般信息详见表2。
+
+表1NERD患者症状发生率 Tab.1 Incidence of symptoms of the NERD patients   
+
+<html><body><table><tr><td>Symptoms</td><td>Number</td><td>Ratio (%)</td></tr><tr><td>Regurgitation</td><td>335</td><td>66.5</td></tr><tr><td>Night-time reflux</td><td>260</td><td>51.6</td></tr><tr><td>Heartburn</td><td>293</td><td>58.1</td></tr><tr><td>Night-time heartburn</td><td>283</td><td>56.2</td></tr><tr><td>Belching</td><td>209</td><td>41.5</td></tr><tr><td>Retrosternal discomfort</td><td>188</td><td>37.3</td></tr><tr><td>Pharyngeal trouble</td><td>248</td><td>49.2</td></tr><tr><td>Epigastric pain or bloating</td><td>143</td><td>28.4</td></tr><tr><td>Dysphagia</td><td>14</td><td>2.8</td></tr><tr><td>Nausea</td><td>45</td><td>8.9</td></tr><tr><td>Inappetence</td><td>19</td><td>3.8</td></tr><tr><td>Vomiting</td><td>4</td><td>0.8</td></tr><tr><td>Cough</td><td>48</td><td>9.5</td></tr><tr><td>Hoarseness</td><td>14</td><td>2.8</td></tr><tr><td>Asthma</td><td>4</td><td>0.8</td></tr></table></body></html>
+
+Pharyngeal trouble includes globus sensation and burning tongue; retrosternal discomfort includes retrosternal pain and retrosternal tightness.
+
+# 2.2临床特点方面进一步统计分析结果
+
+2.2.1NERD组与对照组的Logistic回归分析将两组患者性别、年龄、BMI、生活工作压力、不良生活事件、吸烟史、饮酒、饮茶、静坐时间、睡眠时间、打鼾、日常运动频率、进食夜宵、心理状态等采用二分类Logistic回归分析发现不良生活事件、长期频繁饮酒(饮酒史1年以上且每周3次以上，每次折合酒精大于 $3 0 \mathrm { m g }$ ）、打鼾、进食夜宵、合并焦虑抑郁等是NERD的危险因素(表3)。
+
+2.2.2高分辨率食管测压及阻抗-pH监测结果 273例完成高分辨率食管测压的NERD患者 $6 0 . 8 1 \%$ 存在不同程度的食管体部无效收缩。在停用质子泵抑制剂状态下进行阻抗 $\cdot \mathrm { p H }$ 监测的231例NERD患者 $4 5 . 4 5 \%$ (105例)表现为总液体反流次数正常但症状相关概率(SAP)阳性，而有HH的NERD组(42例)仅 $2 8 . 5 7 \%$ (12例）（ $4 5 . 4 5 \%$ vs $2 8 . 5 7 \%$ $\scriptstyle P = 0 . 0 4 2$ ),NERD并HH组总液体反流事件次数异常所占比例及近端反流占总反流的比均较NERD组患者多( $5 7 . 1 4 \%$ vs $3 0 . 3 0 \%$ ， ${ \cal P } { = } 0 . 0 0 1$ $8 6 . 7 7 { \scriptstyle \pm 7 . 1 5 }$ vs $7 3 . 6 3 { \pm } 1 7 . 0 2 , P { = } 0 . 0 0 3$ ),存在食管体部无效收缩的患者所占比例也较NERD组患者多 $( 9 5 . 2 4 \%$ vs $5 4 . 5 5 \%$ $P { = } 0 . 0 0 0 )$ ,但两组DeMeester评分异常患者所占比例无明显差异( $\scriptstyle \overbrace { P = 0 . 0 8 7 }$ ，表4)。
+
+# 3讨论
+
+GERD是多因素造成的消化道动力障碍性疾病，主要发病机制与食管抗反流防御屏障减弱、反流物对食管
+
+# 表2NERD组与对照组的一般特征
+
+<html><body><table><tr><td colspan="3">Tab.2 General characteristics of NERD group and contro group</td></tr><tr><td>Characteristics</td><td>NERD group</td><td>Control group</td></tr><tr><td>Gender</td><td></td><td></td></tr><tr><td>Female</td><td>266 (52.8%)</td><td>74 (48.7%)</td></tr><tr><td>Male</td><td>238 (47.2%)</td><td>78 (51.3%)</td></tr><tr><td>Age (year)</td><td></td><td></td></tr><tr><td>20~29</td><td>83 (16.5%)</td><td>37 (24.3%)</td></tr><tr><td>30~49</td><td>289 (57.3%)</td><td>72 (47.4%)</td></tr><tr><td>50~</td><td>132 (26.2%)</td><td>43 (28.3%)</td></tr><tr><td>Occupation</td><td></td><td>27 (17.8%)</td></tr><tr><td>Worker</td><td>86 (17.1%)</td><td></td></tr><tr><td>Farmer</td><td>64 (12.7%)</td><td>16 (10.5%)</td></tr><tr><td>Civil Servant</td><td>99 (19.6%)</td><td>20 (13.2%)</td></tr><tr><td>Intellectual</td><td>42 (8.3%)</td><td>51 (33.6%)</td></tr><tr><td>Merchant</td><td>116 (23.1%)</td><td>26 (17.1%)</td></tr><tr><td>Unemployed</td><td>97 (19.2%)</td><td>12 (7.9%)</td></tr><tr><td>Work and Life stress</td><td></td><td></td></tr><tr><td>No stress</td><td>78 (15.5%)</td><td>33 (21.7%)</td></tr><tr><td>Common stress</td><td>215 (42.7%)</td><td>78 (51.3%)</td></tr><tr><td>Great stress</td><td>171 (33.9%)</td><td>36 (23.7%)</td></tr><tr><td>Much great stress</td><td>40 (7.9%)</td><td>5 (3.3%)</td></tr><tr><td>History of adverse events</td><td></td><td></td></tr><tr><td>No</td><td>324 (64.3%)</td><td>127 (83.6%)</td></tr><tr><td>Yes</td><td>180 (35.7%)</td><td>25 (16.4%)</td></tr><tr><td>Having late meals</td><td></td><td></td></tr><tr><td>No</td><td>295 (58.5%)</td><td>120 (78.9%)</td></tr><tr><td>Yes</td><td>209 (41.5%)</td><td>32 (21.1%)</td></tr><tr><td>Smoking history</td><td></td><td></td></tr><tr><td>No</td><td>399 (79.2%)</td><td>113 (74.3%)</td></tr><tr><td>Little</td><td>38 (7.5%)</td><td>23 (15.1%)</td></tr><tr><td>Heavy</td><td>67 (13.3%)</td><td>16 (10.5%)</td></tr><tr><td>Drinking history</td><td>308 (61.1%)</td><td></td></tr><tr><td>No</td><td>104 (20.6%)</td><td>106 (69.7%)</td></tr><tr><td>Occasionally</td><td></td><td>37 (24.3%)</td></tr><tr><td>Frequently</td><td>92 (18.3%)</td><td>9 (5.9%)</td></tr><tr><td>Tea drinking</td><td></td><td></td></tr><tr><td>No</td><td>291 (57.7%)</td><td>97 (63.8%)</td></tr><tr><td>Yes</td><td>213 (42.3%)</td><td>55 (36.2%)</td></tr><tr><td>Exercise frequency</td><td></td><td></td></tr><tr><td> More than weekly</td><td>114 (22.6%)</td><td>82 (53.9%)</td></tr><tr><td> Less than weekly</td><td>390 (77.4%)</td><td>70 (46.1%)</td></tr><tr><td>Daily sitting time (h)</td><td></td><td></td></tr><tr><td>More than 4 h</td><td>244 (48.4%)</td><td>78 (51.3%)</td></tr><tr><td>Less than 4 h</td><td>260 (51.6%)</td><td>74 (48.7%)</td></tr><tr><td>Daily sleeping time (h)</td><td></td><td></td></tr><tr><td>More than 6 h</td><td>157 (31.2%)</td><td>130 (85.5%)</td></tr><tr><td>Less than 6 h</td><td>347 (68.8%)</td><td>22 (14.5%)</td></tr><tr><td>BMI (kg/m2)</td><td></td><td></td></tr><tr><td>≤18.5</td><td>52 (10.3%)</td><td>10 (6.6%)</td></tr><tr><td>18.5~23</td><td>216 (42.9%)</td><td>96 (63.2%)</td></tr><tr><td>23.1~</td><td>236(46.8%)</td><td>46 (30.3%)</td></tr><tr><td>Waist (cm)</td><td></td><td></td></tr><tr><td>≤85</td><td>281 (65.8%)</td><td>104 (68.4%)</td></tr><tr><td>85~</td><td>175 (34.7%)</td><td>41 (27.0%)</td></tr><tr><td>≥95</td><td>48 (9.5%)</td><td>7 (4.6%)</td></tr><tr><td>Snore</td><td></td><td></td></tr><tr><td>No</td><td>283 (56.2%)</td><td>121 (79.6%)</td></tr><tr><td>Yes</td><td>221 (43.8%)</td><td>31 (20.4%)</td></tr><tr><td>Anxiety or depression</td><td></td><td></td></tr><tr><td>No</td><td>288 (57.1%)</td><td>138 (90.8%)</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Yes</td><td>216 (42.9%)</td><td>14 (9.2%)</td></tr></table></body></html>
+
+的攻击作用有关，其诱因可能与人们的生活方式改变有关[4]。但具体机制和诱因的分类尚无定论，而且NERD治疗效果欠佳5，因此对NERD进行包括流行病学及临床特点、治疗方案、治疗效果等方面的研究具有重要意义。
+
+我们利用数据库中的统计功能发现NERD患者主要症状和高发年龄方面，与以往研究无明显差异，但公务员和商人、无业妇女为高发人群，尤其是城市生活人员更为明显，可能与该人群处于承受事业、家庭压力最多的阶段，生活饮食不规律有关，既往无类似报道。在发病的因素方面发现,不良生活事件、长期频繁饮酒、打鼾、进食夜宵、合并焦虑抑郁等是NERD的独立危险因素，而且可能相互影响,促进病情发展。发病机制方面包括食管体部无效收缩，有HH的NERD患者存在明显的食管动力差、总液体反流事件增多。如Yang等研究发现NERD患者焦虑抑郁评分较正常对照高。而You[和Lin等研究发现GERD患者发生精神疾病的风险较大,可能二者互相影响。Kamolz等9认为精神心理因素可通过影响食管动力及食管下括约肌(LES)的功能而促进胃食管反流(GER)症状的发生。Prakash["o]认为焦虑抑郁可增加食管黏膜的敏感性，因而轻度的食管内刺激便可诱发GER症状[]。急性心理应激影响GER症状的发生可能是通过促肾上腺皮质激素介导的下丘脑-垂体-肾上腺轴的激活而起作用[2]。睡前进食可使NERD的发生风险增加2.752倍，可能与睡前饮食可引起胃内pH降低有关[13],导致夜间反流、烧心症状的发生。饮酒可促进胃泌素分泌导致LES压力下降、延迟胃排空[13],因而长期大量饮酒有可能促进反流的发生。本研究结果显示NERD与打鼾明显相关,有研究显示原发性鼾症患者GERD的发病率高且大多伴有BMI明显增高[14,并较其它耳鼻喉科疾病患者更易出现咽喉反流症状[15]。打鼾伴睡眠呼吸暂停综合征(OSAHS)的患者存在食管上、下括约肌结构和功能障碍[16]。Ing等[17]认为打鼾伴OSAHS的患者在呼吸暂停的过程中因胸内负压和食管内负压增高导致LES跨膈压差增大,当超过LES张力时，则可因“吸吮"作用促进反流可能起夜间明显症状。无HH与有HH的患者相比，前者反流 $( - ) \mathsf { S A P } ( + )$ 的患者所占比例较大,提示内脏高敏感在单纯NERD的发病中发挥着重要的作用,而后者总液体反流次数异常所占比例、近端反流占比较前者高,表明合并HH的患者不仅食管的结构存在异常且动力也明显下降，导致抗反流屏障功能受损而反流事件增多。总之，NERD具有自身特有的发病因素与临床特色,为指导NERD临床治疗研究和帮助患者避免有害因素、减少反流、改善症状,提供了有力的依据。
+
+表3NERD组与对照组的二分类logistic回归分析Tab.3Logistic regression analysis of the risk factors of NERD  
+
+<html><body><table><tr><td>Factor</td><td>Std.Error</td><td>P</td><td>β</td><td>OR</td><td>95%CI</td></tr><tr><td>History of adverse events</td><td>0.333</td><td>0.045</td><td>0.670</td><td>1.954</td><td>[1.017,3.756]</td></tr><tr><td>Late meals</td><td>0.327</td><td>0.002</td><td>1.012</td><td>2.752</td><td>[1.449,5.228]</td></tr><tr><td>Snore</td><td>0.275</td><td>0.002</td><td>0.848</td><td>2.334</td><td>[1.361, 4.004]</td></tr><tr><td>Frequent drinking</td><td>0.669</td><td>0.040</td><td>1.375</td><td>3.957</td><td>[1.067, 14.673]</td></tr><tr><td>Anxiety or depression</td><td>0.337</td><td>0.003</td><td>1.002</td><td>2.723</td><td>[1.407, 5.267]</td></tr></table></body></html>
+
+表4有或无食管裂孔疝的NERD患者高分辨率食管测压及多通道腔内阻抗-pH监测结果比较 Tab.4 Comparison of HRMand MI-pHbetween NERD patients with hiatal hernia and those witho   
+
+<html><body><table><tr><td>Item</td><td>NERD</td><td>NERD with hiatal hernia</td><td>x²1t</td><td>P</td></tr><tr><td>Abnormal DeMeester score</td><td>40</td><td>12</td><td>x²=2.920</td><td>0.087</td></tr><tr><td>Abnormal total reflux events</td><td>70</td><td>24</td><td>x=11.340</td><td>0.001</td></tr><tr><td>Abnormal weakly acidic reflux events</td><td>133</td><td>18</td><td>x²=3.115</td><td>0.078</td></tr><tr><td>Abnormal weakly alkaline reflux events</td><td>53</td><td>1</td><td>x²=9.470</td><td>0.002</td></tr><tr><td>SAP positive for weakly acidic reflux</td><td>80</td><td>12</td><td>x=0.584</td><td>0.445</td></tr><tr><td>SAP positive for acid reflux</td><td>67</td><td>12</td><td>x²=0.003</td><td>0.955</td></tr><tr><td>Normal total reflux events with SAP positive</td><td>105</td><td>12</td><td>x²=4.136</td><td>0.042</td></tr><tr><td>Ineffective body esophageal motility</td><td>126</td><td>40</td><td>x²=24.692</td><td>0.000</td></tr><tr><td>Ratio of proximal reflux</td><td>73.63±17.02</td><td>86.77±7.15</td><td>t=-3.274</td><td>0.003</td></tr></table></body></html>
+
+Normal values is according to the value of corresponding instrument
+
+# 参考文献：
+
+[1]Vakil N,Van Zanten SV,KahrilasP,et al.The montreal definition and classification of gastroesophageal reflux disease: a global evidence-based consensus [J].Am J Gastroenterol,20o6,101(8): 1900-20; quiz 1943.   
+[2]Boeckxstaens G,El-Serag HB,Smout AJ.Symptomatic reflux disease: the present,the past and the future[J].Gut,2O14,63(7): 1185-93.   
+[3］黄载伟,陈丽萍,肖 冰.功能性消化不良临床数据库的建立[J].南方 医科大学学报,2015(6):907-11.   
+[4]El-Serag HB,Sweet S，Winchester CC,et al.Update on the epidemiology of gastro-oesophageal reflux disease:a systematic review[J].Gut,2014,63(6): 871-80.   
+[5]Goh KL,Choi KD,Choi MG,et al.Factors influencing treatment outcome in patients with gastroesophageal reflux disease: outcome of a prospective pragmatic trial in Asian patients [J].BMC Gastroenterol, 2014,14: 156.   
+[6]Yang XJ, Jiang HM,Hou XH,et al.Anxiety and depression in patients with gastroesophageal reflux disease and their effect on quality of Life[J].WorldJGastroenterol 2015,21(14): 4302-9.   
+[7]You ZH,Perng CL,Hu LY,et al.Risk of psychiatric disorders following gastroesophageal reflux disease:a nationwide population-based cohort study[J].EurJIntern Med,2015,26(7):534-9.   
+[8]Lin WS,Hu LY,Liu CJ,et al.Gastroesophageal reflux disease and risk for bipolar disorder:a nationwide Population-Based study[J]. PLoS One,2014,9(9): e107694.   
+[9]Kamolz T,Velanovich V.Psychological and emotional aspects of gastroesophageal reflux disease[J].Dise Esophagus,2Oo2,15(3): 199-203.   
+[10]Prakash GC.Esophageal hypersensitivity[J]. Gastroenterol Hepatol, 2010,6(8): 497-500.   
+[11]Fass R,Tougas G.Functional heartburn: the stimulus,the pain,and the brain[J].Gut,2002,51(6): 885-92.   
+[12] Wang K,Duan LP, Zeng XZ, et al. Differences in cerebral response to esophageal acid stimuli and psychological anticipation in GERD subtypes-An fMRI study[J].BMC Gastroenterol,2011,11: 28.   
+[13]Kang JH,Kang JY.Lifestyle measures in the management of gastrooesophageal reflux disease:clinical and pathophysiological considerations[J].Ther Adv Chronic Dis,2015,6(2): 51-64.   
+[14]Basoglu OK,VardarR,Tasbakan MS,et al. Obstructive sleep apnea syndrome and gastroesophageal reflux disease: the importance of obesity and gender[J]. Sleep Breath,2015,19(2): 585-92.   
+[15]Charaklias N,Mamais C,Pothula V, et al.Laryngopharyngeal reflux and primary snoring:a pilot case-control study[J].B-ENT,2013,9 (2): 89-93.   
+[16]张 赛,尤乐都斯.食管动力和反流事件在OSAHS发病机制中意义 [J].中华胃食管反流病电子杂志,2014(1):28-33.   
+[17]Ing AJ,Ngu MC,Breslin AB.Obstructive sleep apnea and gastroesophageal reflux[J].AmJMed,2000,108 (4,Supplement 1): 120-5.
+
+（编辑：吴锦雅）

@@ -1,0 +1,316 @@
+[
+    {
+        "type": "text",
+        "text": "Sn对TiAI基合金烧结致密化与力学性能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘宇路新 刘程程 孙健卓 佟健博 徐伟 曲选辉(北京科技大学新材料技术研究院 北京 100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以 TiAl-8.5Nb预合金粉末为原料，添加 $1 \\% \\mathrm { S n } { }$ （原子分数)粉为强化烧结剂，采用无压烧结技术制备了高致密度的高锯 TiAl合金，探究了 Sn添加对 TiAl基合金的烧结致密化过程、微观组织、力学性能的影响规律。研究表明：添加 $1 \\% \\mathrm { S n }$ 元素可降低高锯 TiAl合金粉末的烧结致密化温度，提高烧结坏的致密度及线性收缩率，从而有利于降低合金组织晶粒度、改善合金综合性能。添加 Sn元素后，合金粉末经1500℃烧结 $^ { 2 \\mathrm { ~ h ~ } }$ ，其致密度可达到 $9 9 . 1 \\%$ ，线收缩率达到 $9 . 3 \\%$ ；合金显微组织为均匀细小的 ${ \\bf a } _ { 2 } / \\gamma$ 全片层结构，片层团尺寸为 $4 0 { \\sim } 6 0 ~ \\mu \\mathrm { m }$ ；Sn元素主要固溶于 $\\boldsymbol { \\gamma }$ 相中，使其轴比 $\\mathrm { { c / a } }$ 及晶胞体积增大；所制备合金的Rockwell硬度为 $5 0 . 1 \\mathrm { H R C }$ ，抗压强度为 $2 9 3 8 \\mathrm { { M P a } }$ ，屈服强度为 $6 8 0 \\mathrm { M P a }$ ，压缩率为 $2 9 . 1 \\%$ ，其性能指标均高于未掺杂 Sn 元素的高锯 TiAl基合金。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 TiAl合金，粉末冶金，Sn，烧结致密化中图分类号 TG146.2文章编号 0412-1961(2017)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Sn Addition on Densification and Mechanical Properties of Sintered High Nb Containing TiAl Alloys ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PAN Yu, LU Xin, LIU Chengcheng, SUN Jianzhuo, TONG Jianbo, XU Wei, QU Xuanhui Institute forAdvanced MaterialsandTechnology,UniversityofScienceandTechnology Beijing,Beijing10o083,China Correspondent: LU Xin, associate professor, Tel: (010)82377286,E-mail: luxin @ustb.edu.cn Supported by Beijing Natural Science Foundation (No.2163053) Manuscript received 2017-04-21， in revised form 2017-06-02 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT High Nb containing TiAl aloys (TiAl-Nb) are a new generation of materials for high temperature structural applications because of theirlow density,high strengthandcorrosionresistance at elevated temperatures. The alloys can be processed by powder metallurgy (PM) which have more advantages including low cost-effctiveness,near net forming for complex parts with fine grain size and uniform microstructure. However, the alloy powders are difficult to achieve fulldensification due to their lower sintering activity,which impairs the mechanical performance of sintered parts.The present work focuses on the densification performance of TiAl-Nb alloy powders with $1 \\% \\mathrm { S n }$ (atomic fraction） as sintering aids.The effects of Sn addition on the sintering densification proces,microstructure and mechanical properties of sintered alloys were investigated.The results show that $1 \\% \\mathrm { { S n } }$ addition can significantly reduce the sintering densification temperature of alloy powders,and increase the relative density and linear shrinkage of sintered parts.This contributes to control microstructure grain size and improve the comprehensive properties. Sintered with $1 5 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { h }$ ， $1 \\%$ Sn containing TiAl-Nb based alloys show the best densification performance,with the relative density of $9 9 . 1 \\%$ and linear shrinkage of $9 . 3 \\%$ ： The alloy samples exhibit fine and uniform full lamellar microstructure,and $\\mathfrak { a } _ { 2 } / \\gamma$ lamellar colonies are sized about $4 0 – 6 0 ~ { \\mu \\mathrm { m } }$ . Sn mainly dissolved into $\\gamma$ phase,leading to the enhancement of axial ratio $\\mathrm { { c / a } }$ and unit cell volume. The sintered TiAl-Nb-1Sn samples have been found to possess superior room-temperature mechanical properties, with a rockwell hardness of $5 0 . 1 \\mathrm { H R C }$ ,a compressive strength of $2 9 3 8 \\ \\mathrm { M P a }$ ,a yield strength of $6 8 0 \\mathrm { M P a }$ ,and a compression ratio of $2 9 . 1 \\%$ ,which is obviously higher than those of TiAl-Nb alloys. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS TiAl alloys, powder metallurgy, Sn, sintering densification ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TiAl 基合金具有低密度、高强度、高弹性模量、优异的抗高温氧化和抗蠕变性能，在航空航天和汽车工业等领域是一种极具潜力的轻质高温结构材料[I-3]。而在此基础上发展的具有我国自主知识产权的高锯 TiAl合金，进一步提高了传统 TiAl合金的使用温度，已成为国际公认的高温TiAl合金的主要发展方向之一[4-6。但材料本身室温延性低、塑性加工成形困难、制备成本高等问题仍然是制约 TiAl合金大规模工业化应用的瓶颈，尤其是高熔点Nb 的加入也会使这些问题变得更加突出。近年来，通过合金化、热机械处理控制合金组织等方法有效改善了高锯TiAl合金的室温延性，但成形困难的问题仍然没有妥善解决[7-9]。在众多制备加工方法中，粉末冶金技术在小型复杂零件的近终成形制备方面具有独特优势，同时制备合金成分组织均匀细小，加工成本较低[10-12]。但因为合金粉末烧结活性低、致密化困难，导致粉末冶金 TiAl基合金力学性能得不到充分发挥[13\\~15]。因此，如何实现 TiAl 基合金粉末的无压烧结致密化是目前粉末冶金TiAI基合金发展的关键问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "强化烧结技术可以用来提高高熔点粉体的烧结活性，其原理是通过第二相在粉末颗粒界面之间提供快速扩散通道来实现烧结的强化[1]。目前,强化烧结技术在很多材料体系中得到广泛应用,如W-Cu、Mo-Si-B、8YSZ、 $\\mathrm { T i B } _ { 2 }$ 等[17-20]。但将其应用于 TiAl 基合金粉末的相关研究较少，Xia 等[21-23]曾探讨了Ni、Co、Cu金属粉末对TiA1基合金粉末烧结性能的影响，研究初步表明， $2 \\%$ (原子分数，下同)含量以下的微量添加即可显著促进烧结致密化，同时也可一定程度上提高合金的室温力学性能。Soyama 等[24向 TiAl基合金粉末中分别加入 $1 \\% { \\sim } 5 \\% Z \\mathrm { r }$ ，发现随着 $Z \\mathrm { r }$ 含量的增加，样品的孔隙率和致密化温度显著降低，硬度和抗蠕变性能增加。前期研究结果可初步证实通过添加部分微合金元素实现TiAl基合金强化烧结的可行性，但对于强化烧结元素的选择及对基体的影响机制还有大量的研究工作需要进行。在众多微合金化元素中，低熔点Sn 元素也是改善TiAl合金基体综合性能的有益元素。贺跃辉等[25研究了 $0 . 1 5 \\% { \\sim } 0 . 7 2 \\% \\mathrm { S n }$ (原子分数，下同)对铸态Ti-48Al合金组织与性能的影响，研究表明，添加 $0 . 3 7 \\% \\mathrm { S n }$ 后合金的组织为细小等轴晶，晶界光滑且发生宽化，其室温抗弯强度、延性得到明显改善，当 $\\mathrm { \\sf S n }$ 含量超过 $0 . 6 0 \\%$ ，因组织不均匀出现富 $\\mathrm { \\sf S n }$ 网状第三相而导致力学性能下降。Shida 和Anadal2研究了Sn等元素对 Ti-48.6Al二元合金抗氧化性能的影响，证实 Sn为中性元素，对合金的高温抗氧化性能并无不利影响。Wang 等报道了铸造 Ti-(46-x)Al-xSn$( \\mathrm { x } { = } 0 { \\sim } 8 \\%$ ，原子分数)合金的组织和力学性能，结果表明，当 Sn含量为 $1 \\%$ 时，铸态合金经过均匀化热处理后，其综合力学性能最优。目前将Sn元素作为合金粉末强化烧结助剂还未见相关报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工作以雾化Ti-45Al-8.5Nb-0.2W-0.2B-0.02 Y(原子分数， $\\%$ ，下同)预合金粉末为原料，添加 $1 \\%$ Sn粉末为强化烧结剂，研究了Sn元素对TiAl基合金粉末烧结致密化过程，以及对基体显微组织和力学性能的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用水冷铜坩蜗感应熔炼炉制备出名义成分为Ti-45Al-8.5Nb-0.2W-0.2B-0.02Y的合金铸锭，采用无坩蜗感应加热连续 $\\mathbf { A r }$ 气雾化工艺制备出高锯 TiAl合金粉末。将合金粉末 $( 3 7 \\mu \\mathrm { m } )$ 与(0、 $1 \\%$ ，原子分数) Sn 粉(纯度 $9 9 . 9 \\%$ ， $2 0 \\mu \\mathrm { m } )$ 均匀混合，名义成分为 $\\mathrm { T i } 4 5 \\mathrm { A l } - 8 . 5 \\mathrm { N b } - 0 . 2 \\mathrm { W } - 0 . 2 \\mathrm { B } - 0 . 0 2 \\mathrm { Y } - \\mathrm { x } \\mathrm { S n }$ (简称TiAl- $. . . \\mathrm { { x S n } }$ ， $\\mathrm { x } { = } 0 , \\ 1 \\$ 在混合粉末中添加成形剂 $1 . 5 \\%$ (质量分数)石蜡后模压成形，压制压力为 $1 2 0 0 \\mathrm { { M P a } }$ ，随后将成形坏放入管式炉中在高纯Ar气保护下进行无压烧结，先升温至 $4 5 0 \\mathrm { ~ ‰ ~ }$ 保温 $^ \\mathrm { ~ 1 ~ h ~ }$ 用于石蜡脱除，随后升温至烧结温度$1 4 4 0 { \\sim } 1 5 2 0 \\ \\mathrm { ~ \\textdegree }$ ，保温 $2 \\mathrm { h }$ ，升温速率均为 $4 \\mathrm { { } ^ { \\circ } C / m i n }$ ，随炉冷却后得到烧结合金制件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用Archimedes排水法测量样品的密度；采用 $\\mathrm { B H } 2 0 0 \\mathrm { M }$ 光学显微镜(OM)及JSM-6480LV 型扫描电子显微镜(SEM)观察粉末形貌及组织形貌，采用Link-860 能谱仪(EDS)分析组织化学成分；采用Dmax-RB 型旋转阳极X射线衍射仪(XRD， $\\mathbf { C u } K _ { a }$ ，波长 $\\lambda { = } 0 . 1 5 4 0 6 \\ \\mathrm { n m } )$ 进行物相分析。采用台式HDI-1875型硬度计来测定样品的Rockwell显微硬度(HRC)。采用电火花线切割机将制备的合金块切成尺寸为直径 $3 \\ \\mathrm { m m }$ 、长5mm 的压缩试样，压缩实验在INSTRON 万能材料实验机上进行，变形速率为 $0 . 0 0 2 \\ \\mathrm { s } ^ { - 1 }$ ，试样抗压强度、屈服强度和压缩率由其工程应力-应变曲线确定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 . 1 \\mathrm { S n }$ 添加对合金致密度及硬度的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e535433e8088a84bed19954886b3e4e7008b8c7bf8c5322a90475fd05a3bbe8.jpg",
+        "img_caption": [
+            "Fig.1SEM images of high Nb containing TiAl alloys powder (a) and Sn powder (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1为原料高铌 TiAl合金粉末及 Sn 粉末的形貌。高铌 TiAl合金粉为球形粉末，平均粒度为 $3 8 ~ { \\mu \\mathrm { m } }$ 而 Sn 粉形状不规则，平均粒度为 $1 8 \\mu \\mathrm { m }$ 。原料混合粉末具有较好的流动性，但在压制过程中难以成形，添加 $1 . 5 \\%$ 石蜡作为成形剂后可保证压制成形，并将粉末生坏的相对密度提高至 $7 5 \\%$ 左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为烧结温度对TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金致密度和线收缩率的影响曲线。从图中可以看出，随着烧结温度的升高，2种成分合金的线收缩率和致密度不断提升；而在相同烧结温度下，添加少量的 Sn元素后合金的致密度和线收缩率明显高于未添加 Sn合金。对于TiAl-0Sn合金，当烧结温度为 $1 5 2 0 \\mathrm { ~ \\textdegree C }$ 时，样品相对密度为 $9 7 . 9 \\%$ ，而经 $1 5 0 0 \\mathrm { ~ \\textdegree ~ }$ 烧结制备的TiAl-1Sn合金样品的相对密度可达到 $9 9 . 1 \\%$ ，线收缩率达到 $9 . 3 \\%$ 其致密化程度明显高于 $1 5 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ 制备的TiAl $. 0 \\mathrm { S n }$ 合金。但当烧结温度继续提高到 $1 5 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ 时，TiAl-1Sn合金样品则发生轻微熔化。可见，添加 $1 \\% \\mathrm { S n }$ 使合金粉末烧结致密化温度降低、致密度提高，表明Sn的添加能够促进合金粉末颗粒间烧结致密化过程，发挥其烧结强化作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47720249c0a50ba465c04449401d996019fd69b3a9a2066990925acb25963060.jpg",
+        "img_caption": [
+            "图1原料粉末的SEM像",
+            "图2烧结温度对TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金致密度和线收缩率的影响 Fig.2 Influence of sintering temperature on relative density and linear shrinkage of TiAl-xSn $( \\mathrm { x } { = } 0 , 1 )$ alloys "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3表示烧结温度对TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金Rockwell硬度的影响曲线。从图中可以看出，硬度随温度的变化规律与合金样品的致密度相接近。TiAl-OSn合金硬度随烧结温度的升高而持续增大，当温度提升至$1 5 0 0 { \\sim } 1 5 2 0 \\ \\mathrm { ~ \\textdegree }$ ，所制备样品的硬度值趋于稳定，约为 $4 6 . 8 \\mathrm { H R C }$ 。添加 $1 \\% \\mathrm { { S n } }$ 后，在相同温度下制备的TiAl-1Sn合金的硬度普遍高于TiAl-OSn 合金，其中 $1 5 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烧结制备样品的硬度达到峰值，约为50.1HRC，继续提高烧结温度，硬度呈现下降趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/72f1c45bc6fff77839f53c5b2f9d8ed84c3633d3768a99bdae878ee1b9f18f96.jpg",
+        "img_caption": [
+            "图3烧结温度对TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金Rockwell硬度的影响 Fig.3 Influence of sintering temperature on rockwell hardness of TiAl- $. \\mathrm { x } \\mathrm { S n }$ 1 $\\scriptstyle ( \\mathbf { \\boldsymbol { x } } = 0 , 1 )$ alloys "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2 \\ : \\mathrm { S n }$ 添加对合金显微组织的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4为不同温度烧结制备TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金的XRD 谱。由图可见，不同烧结温度下所获得的TiAl- $\\cdot _ { \\mathrm { x } } \\mathrm { S n }$ 1 $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金物相组成基本没有差异，均是由 $\\gamma$ -TiAl相和 $\\mathbf { \\alpha } _ { \\mathrm { { { a } _ { 2 } - T i _ { 3 } A l } } }$ 相组成，其中TiAl-1Sn合金也未检测到 $\\mathrm { \\sf S n }$ 单质衍射峰。另外通过微分析对比TiAl-xSn $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金的 XRD 谱，发现 TiAl-1Sn合金的 $\\gamma$ 相衍射峰较TiAl-0Sn合金出现向左偏移，而 ${ \\bf q } _ { 2 }$ 相的衍射峰角度未发生明显变化，表明添加的Sn元素主要固溶于 $\\gamma$ 相,并使得 $\\gamma$ 相的晶格发生膨胀[25.28]。由 XRD 分析结果进一步计算， $1 5 0 0 \\mathrm { ~ \\textdegree ~ }$ 烧结制备的 TiAl-0Sn合金的 $\\gamma$ 相晶胞参数 $\\mathsf { c } { = } ( 0 . 4 0 7 0 5 { \\pm } 0 . 0 0 0 1 3 ) \\ \\mathrm { n m }$ ， $\\mathrm { a } { = } ( 0 . 4 0 0 2 9 { \\pm } 0 . 0 0 0 1 8$ ） $\\mathrm { n m }$ ， $\\mathrm { c / a } { = } 1 . 0 1 6 9 { \\pm } 0 . 0 0 0 8$ ，晶胞体积为0 $6 . 5 1 8 { \\pm } 0 . 0 0 4 ) { \\times } 1 0 ^ { - 2 } \\mathrm { n m } ^ { 3 }$ ；掺杂 $1 \\% \\mathrm { S n }$ 后，合金中 $\\gamma$ 相晶胞参数 $\\mathsf { c } { = } ( 0 . 4 0 8 2 7 { \\pm } 0 . 0 0 0 0 8 ) \\ \\mathrm { n m }$ ， $\\mathrm { a } { = } ( 0 . 4 0 0 8 1 { \\pm } 0 . 0 0 0 1 2$ ）nm, $\\mathrm { c / a } { = } 1 . 0 1 8 6 { \\pm } 0 . 0 0 0 5$ ，晶胞体积为 $( 6 . 5 4 3 { \\pm } 0 . 0 0 6 ) { \\times } 1 0 ^ { - 2 } \\mathrm { n m } ^ { 3 }$ ,可见掺杂 Sn 元素使 $\\gamma$ 相晶格常数中a值增大，同时使轴比 $\\mathrm { { c / a } }$ 和晶胞体积增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/80e873a32de8cf584899ce5a4241fe8e01666aa81d8195a7d2f4fa88e89601d5.jpg",
+        "img_caption": [
+            "图4不同温度烧结制备TiAl- $. \\mathrm { x } \\mathrm { S n }$ （204号 $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金的XRD 谱Fig.4 XRD spectra of TiAl-xSn ( $\\scriptstyle ( \\mathbf { \\boldsymbol { x } } = 0 , 1 )$ ）alloys sintered at different temperatures"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5为不同温度烧结制备的TiAl-xS $\\mathrm { n ( x { = } 0 , \\ 1 ) }$ 合金的SEM 像。从图中可以看出，烧结温度较低时$( 1 4 4 0 ~ \\mathrm { ~ \\textdegree ~ } )$ ，TiAl-OSn合金依然存在大量原始颗粒边界，球形粉末颗粒间在烧结过程中形成烧结颈，颗粒间距缩小形成连续的孔隙网络；而添加 $1 \\% \\mathrm { S n }$ 后，合金孔隙率大幅减少，孔隙缩小且形状趋于近球形，另外在粉末颗粒边界存在少量亮白色的区域，经EDS谱分析为富 Sn 相。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当烧结温度升高到1500 $\\mathrm { { } ^ { \\circ } C }$ 时,制备的TiAl-0Sn 合金由 ${ \\bf a } _ { 2 } / \\gamma$ 全层片组织组成，片层团尺寸为 $8 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ ，仍存在较多细小孔洞。而TiAl-1Sn合金则接近全致密，全层片组织的晶团尺寸也明显更为细小，约为 $4 0 { \\sim } 6 0$ $\\mu \\mathrm { m }$ 。当烧结温度继续升高到 $1 5 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ 时，TiAl-0Sn合金显微组织变化不明显，孔洞略有减少，而TiAl-1Sn合金片层晶团则变得更加粗大，层片间距明显增大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sn 与 TiAl基体间的反应扩散过程可结合Ti-Al-Sn 三元相图进行分析，在烧结初期，低熔点组元 Sn的加入可与基体在较低温度下形成三元共晶液相，液相在合金粉末颗粒表面铺展，可促进颗粒重排并为基体物质迁移提供快速扩散通道，加速基体物质传输过程。当烧结温度较低时 $( 1 4 4 0 ~ \\mathrm { ~ } ^ { \\circ } \\mathrm { C } )$ ，扩散过程进行不充分，Sn依然富集在颗粒边界，当烧结温度进一步提高至1500 $\\mathrm { { ^ \\circ C } }$ 时，扩散完全，使 Sn元素最终均匀分布在全片层合金基体中。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9776cd84e43b7765478a5fe7db5f42685a89695bd2e46551c05dd0bdac580f01.jpg",
+        "img_caption": [
+            "图5不同温度烧结制备TiAl- $\\scriptstyle \\mathrm { x S n } ( \\mathrm { x = 0 , } \\ 1 )$ 合金的SEM像 Fig.5SEMimagesof TiAl-xSn $( \\mathrm { x } { = } 0 , 1 \\mathrm { \\cdot }$ ） alloys sintered at different temperatures (Inset in Fig.5b shows the magnified image of rectangular zone) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) TiAl-0Sn,1440 $\\mathrm { { ^ \\circ C } }$ （204号 (b) TiAl-1Sn, $1 4 4 0 ~ \\mathrm { ~ \\textdegree ~ }$ (c) TiAl-0Sn,1500 ℃ (d) TiAl-1Sn, 1500 $\\mathrm { { ^ \\circ C } }$ (e) TiAl-0Sn, 1520 $\\mathrm { { ^ \\circ C } }$ (f) TiAl-1Sn, $1 5 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 . 3 \\ : \\mathrm { S n }$ 添加对合金力学性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6为TiAl- $\\cdot _ { \\mathrm { x } } \\mathrm { S n }$ 1 $\\scriptstyle ( \\mathbf { x } = 0 , \\ 1 )$ 合金室温压缩性能随烧结温度的变化关系。从图中可以看出，随着烧结温度的升高，TiAl- $\\mathbf { \\sigma } _ { \\mathbf { X } } \\mathbf { S } \\mathbf { n }$ 0 $\\scriptstyle \\mathbf { \\bar { x } = 0 }$ 、1)2种合金的抗压强度和屈服强度均呈现上升趋势；而在相同的烧结温度下，获得的 TiAl-1Sn 合金的强度性能指标普遍高于 TiAl-0Sn 合金，其压缩率也略有提高。对于 TiAl-0Sn 合金，$1 5 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ 烧结样品的力学性能最优，略高于 $1 5 0 0 \\mathrm { ~ \\textdegree ~ }$ 制备样品，其抗压强度和屈服强度分别为2870和 595$\\mathbf { M P a }$ ，压缩率为 $2 8 . 3 \\%$ 。而 TiAl-1Sn合金在1500 $\\mathrm { { } ^ { \\circ } C }$ 烧结制备样品性能达到最优，其分别为2938 和 $6 8 0 \\mathrm { M P a }$ 压缩率为 $2 9 . 1 \\%$ 。2种样品的室温压缩工程应力-应变曲线如图7所示。可以看出，在较低温度下烧结制备的TiAl-1Sn合金的室温压缩性能明显高于TiAl-0Sn合金。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3eb14a1f0ea5192fba67e1ab84108c57846f4267f942becaf1743c9dcc7d64c4.jpg",
+        "img_caption": [
+            "图6TiAl-xSn( $\\scriptstyle \\mathbf { \\bar { x } } = 0$ 、1)合金室温压缩性能随烧结温度的变化关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Relationships between sintering temperature and room temperature compression property of TiAl-xSn ( $\\scriptstyle \\mathbf { \\bar { x } } = 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1) alloys (a)Strength vs temperature (b) compression ratio vs temperature ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/91472b061caaf439efc302c217154a0b4b8b95f3173bef26c7402f99f0593350.jpg",
+        "img_caption": [
+            "图7TiAl-xSn $\\scriptstyle ( \\mathrm { x = 0 , } \\ 1 )$ 合金的室温压缩工程应力-应变曲线 Fig.7 Engineering stress-strain curves of TiAl- $. \\mathrm { x } \\mathrm { S n }$ 0 $\\scriptstyle \\mathbf { \\chi } = 0 , 1 $ ）alloys for compresed properties at room temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "添加 $1 \\% \\mathrm { { S n } }$ 元素后，合金的力学性能得到全面提升，其原因除了改善合金致密度外，还由于 Sn 掺杂对于 TiAl合金基体能够起到一定的强化及增韧作用。SEM及XRD结果表明，Sn元素固溶于TiAl基合金中，改变了合金Y相的晶格常数，使轴比 $\\mathrm { { c / a } }$ 增大，增大了晶体结构的各向异性，从而提高了合金的强度和硬度值。此外，Sn元素的添加在一定程度上细化了晶粒，增大了晶界数目，阻碍了裂纹的扩展，进而起到细晶强化作用，同时改善了合金的强度和塑性。以上研究结果与 Soyama 等[24]和Wang 等[27]的报道相一",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$2 . 4 \\ : \\mathrm { S n }$ 添加对合金断口形貌的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图8为TiAl-xs $\\mathrm { { S n } ( x { = } 0 , ~ 1 ) }$ 合金压缩断裂的断口SEM像，结果显示，TiAl-xSn( $\\scriptstyle \\mathbf { \\chi } = 0$ 、1)2种合金断口均比较粗糙，其形貌没有明显本质区别，均呈现了典型全层片组织的穿晶解理断裂特征，包括层片晶团穿层断裂、沿层片界面开裂以及阶梯状断裂3种方式。合金在断裂过程中，微裂纹一般形核于 ${ \\bf a } _ { 2 } / \\gamma$ 片层界面。当裂纹遇到片层取向与裂纹方向夹角比较小的晶粒时，则选择沿着扩展阻碍较小的片层界面扩展；当裂纹遇到片层取向与裂纹方向夹角比较大的晶粒时，则会首先选择沿着应力状态有利的方向穿过片层扩展；而裂纹遇到处于中间角度的层片晶团，则可能出现阶梯状的扩展方式[29]。因此，合金组织的断裂机制为以上3种方式混合的脆性解理断裂。当晶团尺寸较为粗大，裂纹的扩展速度较快，而片层细小的TiAl合金在相同的应力截面上有更多的 $\\gamma$ 和 ${ \\bf { a } } _ { 2 }$ 截面，对裂纹的扩展起到阻碍作用，因此晶粒更为细小的TiAl-1Sn合金的强度略高于TiAl-0Sn合金。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c9ce11168a1700ff197b9bb83839d810dff83675c34bc7346e30b4b6c6f7f1d.jpg",
+        "img_caption": [
+            "图8TiAl-xSn( $\\scriptstyle \\mathbf { \\bar { x } = } 0$ 、1)合金的压缩断裂的断口形貌",
+            "Fig.8 SEM images of fracture surface of the TiAl-xSn $\\scriptstyle \\mathbf { \\chi } = 0 , 1 $ ） alloys after compress testing (a) TiAl-0Sn,1520 ℃(b)TiAl-1Sn,1500℃ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)添加 $1 \\% \\mathrm { S n }$ 可降低 TiAl基合金粉末的烧结致密化温度，并提高烧结坏的致密度和线收缩率，有效促进合金粉末的烧结致密化过程。其中TiA1-1Sn合金经 $1 5 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烧结 $2 \\mathrm { h }$ ，其致密度可达到 $9 9 . 1 \\%$ ，线收缩率达到 $9 . 3 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)添加 $1 \\% \\mathrm { { S n } }$ 有利于细化片层晶团尺寸，经 $1 5 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烧结制备的TiAl-1Sn合金为均匀全层片组织结构，其片层晶团平均尺寸为 $4 0 { \\sim } 6 0 ~ \\mu \\mathrm { m }$ ；Sn元素主要固溶于 $\\gamma$ 相，使其轴比 $\\mathrm { { c / a } }$ 及晶胞体积增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)添加 $1 \\% \\mathrm { S n }$ 有利于提高TiAl基合金的硬度、室温强度和塑性。经 $1 5 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烧结制备的TiAl-1Sn合金的力学性能最优，Rockwell硬度值为 $5 0 . 1 ~ \\mathrm { H R C }$ ，抗压强度为 $2 9 3 8 \\ \\mathrm { M P a }$ ，屈服强度为 $6 8 0 \\ \\mathrm { M P a }$ ，压缩率为 $2 9 . 1 \\%$ ，其性能指标明显优于未掺杂 Sn 的高锯TiAl基合金。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$( 4 ) \\mathrm { { S n } }$ 的添加对于TiAl基合金的断裂方式未见明显影响，TiAl-x $\\operatorname { S n } ( \\mathbf { x } { = } 0 , 1 ) .$ 2 种合金断口均存在层片晶团穿层断裂、沿层片界面开裂以及阶梯状断裂3种方式，为典型的穿晶解理型脆性断裂。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Song L,Lin JP,LiJS.Phase transformation mechanisms in a quenched Ti-45Al-8.5Nb-0.2W-0.2B-0.02Y alloy after subsequent annealing at $8 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ [J]. J. Alloys Compd., 2017,691: 60   \n[2]San JJ,Simas P,SchmoelzerT,et al. Atomic relaxation processes in an intermetallc Ti-43Al-4Nb-1Mo-0.1B alloy studied by mechanical spectroscopy [J]. Acta Mater.,2014, 65: 338   \n[3]Park S Y,SeoDY,Kim S W,etal. High temperature oxidationof Ti-46Al-6Nb-0.5W-0.5Cr-0.3Si-0.1Calloy [J]. Intermetallics, 2016, 74: 8   \n[4]LinJP, Zhao LL,Li G Y,et al. Effect of Nb on oxidation behavior of high Nb containing TiAl alloys [J]. Intermetallics, 2011,19: 131   \n[5]Bean G E, Kesler M S,Manuel M V. Efect of Nb on phase transformations and microstructure in high Nb titanium aluminides [J]. J. Alloys Compd., 2014, 613: 351   \n[6] Chen G,Peng Y,Zheng G,et al. Polysynthetic twinned TiAl single crystals for high-temperature applications [J]. Nat. Mater., 2016,15: 876   \n[7] Li H, Qi Y,Liang X,et al. Microstructure and high temperature mechanical properties of powder metallurgical Ti-45Al-7Nb-0.3W alloy sheets [J]. Mater. Des., 2016,106: 90   \n[8]Li J,Liu Y,Liu B,et al. Microstructure characterization and mechanicalbehaviors of a hot forged high Nb containing PM-TiAl alloy [J]. Mater. Charact., 2014, 95: 148   \n[9]Liu Q,Nash P.The effect of Ruthenium addition on the microstructure and mechanical properties of TiAl alloys [J]. Intermetallic,2011,19: 1282   \n[10] Monchoux JP,Luo J,Voisin T, et al. Deformation modes and size effect in near-y TiAl aloys[J]. Mater.Sci. Eng.,2017,A679: 123   \n[11] Liu H W,Bishop D P,Plucknett K P. Densification behaviour and microstructural evolution of Ti-48Al consolidated by spark plasma sintering [J]. J. Mater. Sci.,2017, 52: 613   \n[12] Yang R. Advances and challenges of TiAl base alloys [J]. Acta Metall. Sin.,2015,51: 129   \n(杨 锐．钛铝金属间化合物的进展与挑战 [J].金属学报,2015,51:129)   \n[13] Han Y,Fan JL,Liu T,etal.Theeffectof trace nickel additiveand ballmiling treatment on the near-full densification behavior of ultrafine tungsten powder [J]. Int. J. Refract. Met. Hard Mater.,2O12, 34: 8   \n[14] Wang Y,Lin J,He Y,etal. Densification behavior of high Nb containing TiAlallys through reactive hot pressing [J]. J. Univ. Sci. Technol. Beijing,2007,14: 251   \n[15] Hibino A, Kiuchi M.Pressureless combustion synthesis of dense TiAl intermetallc compounds by Ni/Al powder addition [J]. Mater. Trans., JIM, 1999, 40: 92   \n[16]Liu Y, Wei WF, Huang B Y,et al. Qualitative and quantitative theoryof enhanced sintering in powder metallurgy [J]. Mate. Rev., 2003,17(3): 1   \n(刘 咏，韦伟峰，黄伯云等．粉末冶金强化烧结的定性与定量分析理论综述 [J].材料导报,2003,17(3):1)   \n[17] Qiu W T,Pang Y, Xiao Z, et al. Preparation of W-Cu alloy with high density and ultrafine grains by mechanical alloying and high pressure sintering [J]. Int. J. Refract. Met. Hard Mater., 2O16, 61: 91   \n[18] Pan K M,Zhang L Q,Lin JP,et al. Study on the preparation process of T2 alloy in the Mo-Si-B system[J]. Acta Metall. Sin., 2015, 51: 1377   \n(潘昆明，张来启，林均品等.Mo-Si-B 三元系中 T2 相合金的制备工艺研究 [J].金属学报,2015,51:1377)   \n[19] Zhu Q,Fan B.Low temperature sintering of 8YSZ electrolyte film for intermediate temperature solid oxide fuel cells [J]. Solid State Ionics,2005,176: 889   \n[20] Zhou H,Li M, Guo Y, et al. Effect of $\\mathbf { M n O } _ { 2 }$ on sintering ability and properties of 8YSZ [J]. J. Cent. South U. T., 2012, 4: 011   \n[21] Xia Y,Luo SD,Wu X,etal.The sintering densification, microstructure and mechanical properties of gamma Ti-48Al-2Cr-2Nb alloy with a smal addition of copper [J]. Mater. Sci. Eng., 2013,A559: 293   \n[22] Xia Y, Schaffer GB, Qian M.The effect of a smalladdition of nickel on the sintering,sintered microstructure and mechanical properties of Ti-45Al-5Nb-0.2C-0.2B alloy [J]. J. Alloys Compd., 2013, 578: 195   \n[23] Xia Y,Yu P, Schaffer GB,et al. Cobalt-doped Ti-48Al-2Cr-2Nb alloy fabricated bycold compaction and pressureless sintering [J]. Mater. Sci. Eng., 2013,A574: 176   \n[24] Soyama J， Oehring M,Limberg W,et al.The efect of zirconium addition on sintering behaviour, microstructure and creep resistance of the powder metallurgy processed aloy Ti-45Al-5Nb-0.2B-0.2C [J]. Mater. Des., 2015, 84: 87   \n[25] He YH, Qu X H,Huang B Y,et al.The efect of Sn addition on the TiAlbased alloy[J]. J.Central South Univ. (Sci. Technol.), 1993,24: 788   \n(贺跃辉，曲选辉，黄伯云等．锡的添加对 TiAl基合金的影响 [J].中南大学学报(自然科学版),1993:788)   \n[26] Shida Y,Anada H.The influence of ternary element addition on the oxidationbehaviourof TiAlintermetalic compound in high temperature air [J]. Corros. Sci., 1993, 35: 945   \n[27] Wang D N,Inui H,Lin D,et al.Efects of Sn additions on the microstructures and tensile propertiesof two-phase TiAl alloys [J]. Intermetallics,1996,4: 191   \n[28] Zhao JC,Effect of allying on the microstructure and mechanical properties of Ti-48Al-2Cr-2Nb allys [D]. Changsha: Xiangtan University, 2015   \n(赵俊才．合金化对 Ti-48Al-2Cr-2Nb 合金显微组织和力学性能的影响 [D].长沙：湘潭大学,2015)   \n[29] Lu X,He X B, Zhang B,et al. Microstructure and mechanical properties of a spark plasma sintered Ti-45Al-8.5Nb-0.2W-0.2B-0.1Y alloy[J]. Intermetallics,2009,17: 840 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

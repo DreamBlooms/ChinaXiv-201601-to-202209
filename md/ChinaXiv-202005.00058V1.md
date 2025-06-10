@@ -1,0 +1,135 @@
+# 藏南羊卓雍错湖面非封冻期温湿变化
+
+# 及辐射平衡分析
+
+靳铮1²，张雪芹1\*，次旦央宗
+
+（1．中国科学院地理科学与资源究所，中国科学院陆地表层格局与模拟重点实验室，北京100101；2.中国科学院大学，北京100049；3．西藏自治区水文水资源勘测局拉萨水文水资源勘测分局，西藏拉萨 850000)
+
+摘要：高寒湖泊是青藏高原气候系统的重要组成部分，观测分析其基本气象要素是研究高原气候变化不可或缺的环节。本文利用羊卓雍错白地水文站的湖面气象观测数据，分析了2016、2017年4月3日至12月31日非封冻期的气温、湖面水温、相对湿度、风速风向、水面辐射的日变化、季节变化特征。结果显示：羊卓雍错观测站2016、2017年非封冻期平均气温分别为 $6 . 7 ^ { \circ } \mathrm { C }$ 、 $6 . 6 ^ { \circ } \mathrm { C }$ ，而平均气温日较差分别达到$9 . 2 ^ { \circ } \mathrm { C } .$ ， $9 . 6 ^ { \circ } \mathrm { C }$ ，气温日变化幅度大。湖面水温高于气温，分别为 $8 . 1 ^ { \circ } \mathrm { C }$ ， $8 . 3 ^ { \circ } \mathrm { C }$ 。相对湿度分别为 $5 0 . 6 \%$ ，$5 0 . 2 \%$ ，其月平均值变化在观测期间与气温、水温均有良好的一致性。其中，湖面水温与相对湿度月平均值的相关系数在2016、2017年分别为0.91、0.87,湖面气温与相对湿度月平均值的相关系数则分别为0.94、0.97。冷季湖面的气温昼夜波动明显大于暖季，但水温的昼夜波动却小于暖季，导致冷季湖-陆温差更大，湖-风频率显著增加。非封冻期的整体辐射平衡状态为湖面净收入，其中净收入最高、最低的时段分别为8月和12月。通过对比纳木错、洱海的研究，本文的定量结果表明了羊卓雍错具备湖面气温日变化和季节变化幅度大、湖气间水热平衡关系在冷暖季节反差明显的高寒湖泊基本特征。
+
+关键词：高寒湖泊；湖面观测；温湿变化；辐射平衡；羊卓雍错
+
+# Analysis on the variation of temperature, humidity, and radiation balance during the non-freeze period of the Yamzhog Yumco lake surface
+
+JIN Zheng1,2, ZHANG Xue-qin1\*\*, CIDAN Yang-Zong3
+
+(1. Key Laboratory ofLand Surface Pattern and Simulation, Institute ofGeographic Sciences and Natural Resources Research,ChineseAcademy ofSciences,Beijing10l01,China;2.UniversityofChineseAcademyof Sciences,Beijing 10o049,China; 3.Lhasa Hydrological and Water Resources Survey Branch Bureau, Hydrological and Water Resources Survey Bureau, Xizang Autonomous Region, Lhasa 85oooo, Xizang,China)
+
+Abstract: Alpine lakes are important components of the Tibetan Plateau (TP) climate system. Observing and analysing its basic meteorological elements is indispensable for studying climate change on TP. Usingthe data of the lake meteorological observation,this paper analysed thedailyand monthlycharacteristics of airandlake surface temperature,relative humidity, wind speed/direction,and radiation from April 3 to December 31 during 2016 and 2017.The results indicated that: average temperatures of Yamzhog Yumco in the non-freezing periods during 2016 and 2017 were $6 . 7 ~ ^ { \circ } \mathrm { C }$ and $6 . 6 ~ ^ { \circ } \mathrm { C }$ ,respectively. While the average daily temperature difference was $9 . 2 ~ ^ { \circ } \mathrm { C }$ and $9 . 6 ~ ^ { \circ } \mathrm { C }$ ,respectively.The water temperature on the lake is higher than the air temperature,which are $8 . 1 ~ ^ { \circ } \mathrm { C }$ and $8 . 3 ~ ^ { \circ } \mathrm { C } ,$ ，respectively.The relative humidity was $50 . 6 \%$ and $5 0 . 2 \%$ ，and the monthly average changes were well agreed with the air and water temperature during the observation periods.The correlation coefficients of monthly averaged lake surface temperature and relative humidity were 0.91 and 0.87 in 2016 and 2017,respectively,and the correlation coeficients of monthly averaged lake surface temperature and relative humidity were 0.94 and 0.97, respectively.The temperature of the lake surface during the cold season fluctuates more significantly than those in warm season,but the fluctuation of the water temperature during the day and night is lessthan the warm season, resulting ina larger lake-land temperature diference in thecold seasonand a significantly increased lake-wind frequency.The overallradiationbalance of the non-freezing periods is net income of the lake.The highest/lowest period of net income is August/ December.By comparing the studies of Namco and Erhai Lake,the quantitative results in this paper indicate the Yamzhog Yumco has basic characteristics of alpine lakes,which are the large amplitudeofdailyand seasonal temperature variation,andthe significant diference inthe relationshipofthe water and heat balance between the cold and warm seasons.
+
+Keywords: alpine lake;lake surface observation； variation of temperature and humidity;radiation balance; Yamzhog Yumco
+
+# 引言
+
+青藏高原地表气象要素特征的长期、连续、定点观测是区域及全球尺度大气数值模拟的重要依据[]。青藏高原面积约 $2 . 6 0 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 [ 2 ] }$ ，平均海拔高度超过 $4 0 0 0 { \mathrm { m } } ^ { [ 3 ] }$ ，接近大气对流层中部，其上空大气比低海拔地区稀薄，地表受辐射加热作用强，是全球大气的重要热源[4]。高原陆面在强烈地表加热和对流不稳定作用下，向平流层大气输送热量和水汽，影响区域和全球尺度能量和水分循环。青藏高原是全球气候变化敏感区域[5]，1950年以来变暖速率超过北半球同纬度地区[6]。气候变化显著影响高原气候环境及水热循环[7]，而高原地表气象要素观测是高原气候、环境研究的关键环节之一。青藏高原的湖泊面积占中国湖泊总面积一半以上[8]，且均为高寒湖泊，是高原陆-气系统的基本组成要素。目前的高寒湖泊气象观测研究主要集中在纳木错[9]、鄂陵湖[10]等中北部大湖，南部湖泊的气象观测研究较少。
+
+羊卓雍错湖面面积约 $6 4 0  { \mathrm { k m ^ { 2 [ 1 1 ] } } }$ ，其湖水收支以降水和蒸发为主，水位对气候变化的响应显著[12]。湖泊局地的气温、水面温度、相对湿度和净辐射等是影响湖面蒸发的基本水热要素[13]。目前，针对羊卓雍错湖区的连续定点基本气象要素观测研究仍较少。本研究利用羊卓雍错的气温、相对湿度、水面温度、风速和长短波辐射观测资料，揭示了各个气象要素的日、季节变化及水面辐射平衡特征，分析了各要素之间的变化关系及其机理，并通过对比海拔、纬度均更高/低的纳木错/洱海的相关要素，丰富了对高寒湖泊水热及能量平衡共同特征的认识。同时，增进了对藏南高寒湖泊气象水文特征的认识，为流域气候变化应对研究提供了科学依据。
+
+# 1数据与方法
+
+本研究观测设备的设置地点为西藏山南浪卡子县羊卓雍错湖白地水文站近岸浅滩（ $2 9 ^ { \circ } 0 7 ^ { \prime } 2 8 ^ { \prime \prime } \mathrm { N } .$ $9 0 ^ { \circ } 2 6 ^ { \prime } 2 7 ^ { \prime \prime } \mathrm { E }$ )，海拔高度 $4 4 2 0 . 6  { \mathrm { m } }$ （图1)。为避免被湖泊封冻期前后的冰凌冲击，观测设备在每年的1月上旬拆卸回收，3月下旬重新安装。采用2016年和2017年非封冻期同一观测时段（04月03日00：00至12月31日23：30）的气温、湿度、水面温度、风速风向和水面辐射等观测数据。其中，空气温湿传感器（HMP155A,CampbellScientific?,Inc.）以高精度湿敏电阻（相对湿度）和温敏电阻集成电路为核心，采样频率为 $1 0 \mathrm { H z }$ ，平均时间窗口为 $3 0 \mathrm { m i n }$ ，进行连续的空气相对湿度和温度观测。水面温度观测由红外温度传感器（SI-111,Apogee Instruments?,Inc.）完成，红外接收范围为指向水面半径约 $3 \mathrm { m }$ 的扇形区域。四分量辐射传感器（CNR4,Kipp and Zonen?,Netherlands）安装在距水面上方约 $1 . 5 \mathrm { m }$ 处，同时进行上下两个方向的长波和短波太阳辐射观测，其中短波净辐射的正方向为垂直于水面向下，长波净辐射反之。由于仪器供电问题，12月每天14:00—19:00 时段相对湿度失效数据比例较大，导致该时段的平均值失真，故湖面空气相对湿度在该时段展示为缺测。观测系统的详细架设方式和设备信息见文献[14]。本文所有时间均为北京时间，羊卓雍错当地时间比北京时间晚约2小时。气象要素指标方面，气温日较差由当日观测最高气温减去最低气温得出，气温月较差由当月观测最高气温减去最低气温得出，月平均气温为当月全部观测气温平均值。温度、相对湿度和辐射月平均日变化由当月相应要素观每日不同时刻的平均得出。
+
+![](images/9c412359ef99dd7be36f86a1b82d18a5306e1ea7740eaf592ee53d22906dce6c.jpg)  
+注：遥感资料来自Landsat8卫星  
+图1研究区域与观测点位置及观测系统照片
+
+# 2结果分析
+
+# 2.1月变化特征
+
+# 2.1.1气温
+
+羊卓雍错观测点2016、2017年的月平均气温波动范围分别为 $0 . 4 { \sim } 1 0 . 9 ^ { \circ } \mathrm { C } . 0 . 9 { \sim } 1 0 . 8 ^ { \circ } \mathrm { C } ($ （表1)。2016、2017年的最高、最低气温分别出现在7一8月和11一12月，季节冷暖变化明显，平均气温分别为 $6 . 7 ~ ^ { \circ } \mathrm { C }$ $6 . 6 ^ { \circ } \mathrm { C }$ 。气温日较差、月较差可以直接反映温度日变化、月变化的幅度。2016、2017年的月平均气温日较差分别在 $6 . 6 { \sim } 1 2 . 3 ~ ^ { \circ } \mathrm { C }$ ， $7 \mathrm { \sim } 1 2 . 1 ~ \mathrm { ^ { \circ } C }$ 间波动，相对于 $6 . 7 ~ ^ { \circ } \mathrm { C }$ ， $6 . 6 ~ ^ { \circ } \mathrm { C }$ 的年平均气温而言，日变化幅度较大。2016、2017年月平均气温日较差的均值分别为 $9 . 2 ^ { \circ } \mathrm { C } , 9 . 6 ^ { \circ } \mathrm { C }$ ，而两年的气温月较差平均值分别为 $1 7 . 3 ^ { \circ } \mathrm { C } .$ 0$1 8 . 8 ^ { \circ } \mathrm { C }$ ，这表明羊卓雍错日内气温波动剧烈，且季节间冷暖变化显著。2016、2017年气温月较差最大值分别为 $2 3 ^ { \circ } \mathrm { C }$ ， $2 4 . 5 ^ { \circ } \mathrm { C }$ ，均出现在12月，显示出该月是湖泊进入封冻期前气温快速下降的时段。湖面的气温日较差在相对较暖的7—9月较小，而在相对较冷的4月、11月、12月较大，这表明太阳辐射在干燥低温的冷季对气温的支配作用更强。同样地，气温月较差也是暖季更小而冷季更大，这表明相对于羊卓雍错湖面的年平均气温而言,这种日变化和冷暖季交替变化的幅度相对较大。在海拔和纬度均更高的纳木错( $3 0 ^ { \circ } \mathrm { N }$ $4 7 3 0 \mathrm { m }$ )，6月的平均气温、平均气温日较差分别为 $9 . 2 ^ { \circ } \mathrm { C }$ ， $1 1 . 8 ^ { \circ } \mathrm { C }$ ，在12月则分别为 $9 . 0 ^ { \circ } \mathrm { C } .$ ， $1 6 . 2 ^ { \circ } \mathrm { C } ^ { [ 1 5 ] }$ ，而羊卓雍错在相应时段的平均值分别为 $9 . 7 ^ { \circ } \mathrm { C }$ ， $8 . 2 5 ^ { \circ } \mathrm { C }$ 和 $0 . 6 5 ^ { \circ } \mathrm { C }$ 、 $1 2 . 2 ^ { \circ } \mathrm { C }$ ，表明气温日变化幅度大是高寒湖泊的共同特征之一。并且，随着海拔和纬度的增加（更高、更寒)，这种特征更加明显。在6月和12月，气温日的大幅变化导致羊卓雍错湖面气温与相对湿度的平均日变化趋势相反（图 $^ { 2 \mathrm { a } , 2 \mathrm { c } ) }$ ，这一特征在青藏高原东南缘洱海（ $2 5 ^ { \circ } \mathrm { N } , 1 9 7 9 \mathrm { m }$ ）的年平均日变化中亦有体现[16]。
+
+![](images/e986ba4b6f2d78d244669087ae354a3f2de9c386fb6b4e825c21a96f5704074c.jpg)  
+Fig.1Locations of study region and observation point with a photo of observation system   
+图2 空气温度、湖面水温、相对湿度和湖面净辐射强度的月平均日变化。
+
+Fig.2Monthly averaged daily variation of air temperature,lake surface temperature,relative humidity and lake surface net radiation.
+
+表1羊卓雍错观测点各月气温特征  
+Tab.1 Monthly air temperature features at the observation site of Yamzhog Yumco   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="2">月平均气温</td><td colspan="2">月平均气温日较差</td><td colspan="2">气温月较差</td></tr><tr><td>2016年</td><td>2017年</td><td>2016年</td><td>2017年</td><td>2016年</td><td>2017年</td></tr><tr><td>4</td><td>5.1</td><td>3.6</td><td>10.1</td><td>10.0</td><td>19.5</td><td>20.1</td></tr><tr><td>5</td><td>5.8</td><td>6.1</td><td>9.7</td><td>9.5</td><td>17.6</td><td>19.1</td></tr><tr><td>6</td><td>9.6</td><td>9.8</td><td>7.9</td><td>8.6</td><td>15.1</td><td>17.4</td></tr><tr><td>7</td><td>10.9</td><td>10.6</td><td>6.6</td><td>7.2</td><td>14.5</td><td>14.3</td></tr><tr><td>8</td><td>10.5</td><td>10.8</td><td>7.5</td><td>7.0</td><td>13.8</td><td>14.3</td></tr><tr><td>9</td><td>9.1</td><td>10.1</td><td>7.1</td><td>9.6</td><td>13.5</td><td>16.5</td></tr><tr><td>10</td><td>6.6</td><td>6.6</td><td>10.4</td><td>11.6</td><td>19.4</td><td>22.6</td></tr><tr><td>11</td><td>2.3</td><td>0.9</td><td>11.8</td><td>11.5</td><td>19.6</td><td>20.4</td></tr><tr><td>12</td><td>0.4</td><td>0.9</td><td>12.3</td><td>12.1</td><td>23.0</td><td>24.5</td></tr><tr><td>平均值</td><td>6.7</td><td>6.6</td><td>9.2</td><td>9.6</td><td>17.3</td><td>18.8</td></tr></table></body></html>
+
+# 2.1.2相对湿度
+
+羊卓雍错 2016、2017年观测期湖面空气平均相对湿度分别为 $50 . 6 \%$ ， $50 . 2 \%$ ，夏季相对冬季较高。两年 $\scriptstyle 7 \sim 9$ 月平均值都超过了 $60 \%$ （图3b)。2016、2017年月平均相对湿度的波动范围分别是 $2 4 . 4 \% ( 1 1$ 月） $\sim$ $69 . 9 \%$ （7月）、 $24 . 9 \%$ （12月） $\sim 7 0 . 1 \%$ （8月)。相对湿度的升降随季节交替改变，其中4一8月为缓慢上升期，9—12月则表现为相对快速的下降。结合两年的湖面温度及气温来看（图3a)，相对湿度与湖一气温度月变化均具有较高的一致性，其月平均值与湖面水温的相关系数在 2016、2017年分别为0.91、0.87（图 3a,3b)，与气温的相关系数在 2016、2017年分别为0.94、0.97（图3c,3d)。对于还未进入冰期的湖面来说，即使羊卓雍错每年11月的湖面平均水温超过 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，其上方空气的相对湿度仍不足 $2 5 \%$ ，这种较低的湿度与接近冰期快速下降的气温相结合，将显著地增加湖面的水分蒸发和热量释放，呈现出高寒湖泊的水热变化特征。
+
+![](images/d20f9defa7c11ef5ca0bf74d3cb31fadcc8c03912573b33e02215a623905d986.jpg)  
+图3相对湿度分别与湖面水温、气温的回归关系。  
+Fig.3 Regression patterns between relative humidity and air (lake surface water) temperature.
+
+# 2.1.3水面辐射
+
+图 2c 和图2d分别是 2016年和2017年水面上方四分量辐射仪所测辐射强度的月平均值。水面的短波净辐射由入射太阳短波辐射减去水面反射短波辐射得到。长波净辐射由水面向上长波辐射减去垂直指向水面的长波辐射得到。观测期间两年短波净辐射的月平均值的最大值分别出现在2016年4月和2017年5月，为 $2 8 3 . 0 5 \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 和 $2 7 3 . 7 2 \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ ，比这两年6一8月的值均高出 $10 \%$ 以上。水面对太阳短波辐射的反射率是太阳高度角、水面平和度（镜面程度）以及云量3个变量综合作用的结果。散布于晴空中的云层会减弱太阳对地面的短波辐射[10]，而高原夏季旺盛的对流使离散云块的出现更加频繁[17]，在太阳高度角较大时，水面反照率也会因白色的云块增加（晴空指数下降）而上升[18]。水面平和度则取决于近地面风速，夏季更小的风速（2.2.4结论）使得湖面更平和，反照率更高。在云量、太阳高度角和水面平和度3个要素均导致湖面反射增加的情况下，羊卓雍错湖夏季的水面净辐射强度下降是符合实际的。水面短波净辐射强度从每年的10月开始显著下降，这是湖泊开始转入封冻期的季节变化特征。
+
+2016、2017年水面长波净辐射最强月份均为11月，平均强度值分别为 $1 5 2 . 2 1 \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 、 $1 4 4 . 3 7 \mathrm { W \cdot m ^ { - } }$
+
+2。大气对湖面的长波辐射强度取决于整体大气的温度、云量及温室气体，而湖面对大气的长波辐射强度取决于水体的整体温度。2016、2017年水面长波净辐射月平均值最低分别为 $5 6 . 4 1 ~ \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 、 $6 0 . 4 0 ~ \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 均在7月出现，但这并不意味着7月的湖泊水体和大气温度较低，净辐射值低是其相互间辐射强度差偏小造成的。水面长波净辐射从4月初到12月接近封冻期这段时间内呈现出由减小转变为增长的趋势，并且其长、短波的强度比例在 2016年和 2017年11、12月一度超过了1:1.2，表明在接近封冻期的两个月内，湖-气的能量平衡中长波辐射变化影响湖面水热平衡的比重将增加。
+
+# 2.2日变化的季节特征
+
+# 2.2.1湖-气温度
+
+将每年的6月、12月分别作为观测期间暖季、冷季的代表时段，可以直观对比羊卓雍错湖冷暖季节的日变化特征。月平均日变化结果显示，羊卓雍错湖的气温在冷季波动更大（图 $\mathrm { 4 a }$ ，10:00—11:00气温从4℃骤然升高至 $2 \ \mathrm { { ^ \circ C } }$ ，而后平稳升温至6.5℃左右。白天的升温持续到19:00左右，之后转入较快的降温，降至 $0 \ \mathrm { { ^ \circ C } }$ 后降温速度减缓，最后在第2天10:00降至 $- 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右。暖季的气温日变化波动幅度相对较小，变化范围在 $6 { \sim } 1 4$ ℃之间，升温和降温的速率相对冷季也更小。每天温度的峰值出现在18:00 左右，最低温度出现在08:00左右。湖面水温方面（图4b)，冷、暖季间的日变化温差保持在9℃左右，波动幅度均不大。湖面水温方面，2016、2017年观测期的平均水面温度分别为 $8 . 1 ~ ^ { \circ } \mathrm { C }$ ， $8 . 3 ~ ^ { \circ } \mathrm { C }$ ，暖季和冷季的水温日变化特征一致性较好，10:00一16:00左右是升温时段，水面温度从 $0 . 5 \mathrm { ~ \ ^ ~ { ~ } C ~ }$ （冷季）、 $9 . 5 ~ \mathrm { ~ \textdegree ~ }$ （暖季）左右较快升高至3℃（冷季）、 $1 3 \mathrm { ~ } ^ { \circ } \mathrm { C }$ （暖季）左右。16:00至次日10:00是降温时段，水面温度以较慢的速率从日变化峰值下降至最低。湖-气温度日变化特征的季节对比凸显了羊卓雍错高寒湖泊的特征。特别是冷季的气温，每天在太阳直射湖面后的1h内快速升高6℃。
+
+# 2.2.2相对湿度
+
+冷、暖季的湖面空气相对湿度平均日变化特征相似，其中 2016 年暖季的相对湿度比2017年同一时段高出约 $7 \%$ （图4c)。暖季的相对湿度平均日变化在 $4 5 \% \sim 7 5 \%$ ，最高值出现在08:00左右，最低值出现在19:00 左右。相对湿度在08:00—18:00时段下降、18:00到次日08:00上升，其波动变化速率较为稳定。冷季的相对湿度日变化峰值出现在10:30左右，而最低值出现的时段与暖季一致，均为19:00左右。两年的冷季和暖季，相对湿度的日变化趋势均气温月平均日变化均相反，由于当地昼夜交替时气温变化剧烈，空气温度升高后其饱和比湿上升，而边界层大气中的水汽主要来自蒸发，无法在短时间将相对湿度恢复到温度上升前的水平[19]。
+
+# 2.2.3水面净辐射
+
+从水面净辐射强度平均日变化（图4d）可以看出，暖季的湖面日出平均时间在08:00左右，日落时间在 21:00 左右，而冷季为10:00 左右和19:00 左右，冷季的平均日照每天比暖季少 $^ { 4 \mathrm { h } }$ 。在日落后到日出前的时间段，湖面的净辐射表现为长波辐射的净流出状态，暖季稳定在 $6 0 \mathrm { W } \mathrm { \Omega } \mathrm { m } ^ { - 2 }$ 左右，冷季稳定在 $. 1 5 0 \mathrm { W } \ \mathbf { m } ^ { \cdot }$ 2左右。湖面长波净辐射冷、暖季间 $9 0 \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 的强度差异取决于湖泊水体温度和气温。在暖季，气温与湖面温度之间同时刻最大差值在 $2 \ \mathrm { { ^ \circ C } }$ 以内（图4a，4b)，而冷季夜间气温最低接近-5℃，且同一时刻的湖面水温超过 $0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。水体比大气更热造成了冷季水面净辐射绝对值大于暖季。暖季的太阳辐射在季节因素影响下比冷季日变化峰值高出 $2 0 0 \ \mathrm { W \cdot \ m ^ { - 2 } }$ 左右，而冷季相对暖季大幅下降的空气湿度，使得大气保热能力减弱，进入夜间大气温度快速下降。此外，羊卓雍错为深水湖泊[20]，水体储热能力好，在冷暖季节转换中的温度变化具有一定滞后性。所以，湖面长波净辐射是湖泊在冷季的主要能量释放方式之一。
+
+![](images/a049de166b6e2152cb6c33f4d1af05a431b57be3bf4f750f63bc1d693d693cf8.jpg)  
+图4月平均湖面气温、水温、相对湿度及湖面净辐射强度
+
+Fig.4 Monthly averaged lake surface air and water temperature,relative humidity and surface net radiation.
+
+# 2.2.4风速风向
+
+观测点风速风向统计结果显示出冷、暖季的显著差异（图5)。羊卓雍错狭长山谷地形对风速风向的控制十分明显，风速超过 $2 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 的盛行风向平行于观测点湖岸线，而湖-陆风无论是在冷季还是暖季基本都没有超过 $2 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 。在暖季，最高风向频率为东偏北方向，在2016、2017年其比例分别为 $14 . 8 \%$ 、 $1 5 . 2 \%$ 风速主要集中在 $2 { \sim } 6 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 之间。到了冷季，沿湖岸线的风速明显增强，西偏南方向的风速最高超过了8$\mathrm { { \ m } } \cdot \mathrm { { s } ^ { - 1 } }$ 。此外，虽然冷季的湖-陆风风速较小，几乎都在 $2 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 以内，但其风向频率大幅增加，在2016、2017年分别达到 $1 4 . 5 \% . 1 8 . 3 \%$ ，成为该月份的主控风向。冷季湖-陆风频率显著增加与温度变化关系密切。湖-陆风是局地热力差异造成的，结合观测点的气温、湖面水温（图 $^ { 4 \mathrm { a } , 4 \mathrm { b } }$ ）可以发现，冷季的气温昼夜波动明显大于暖季，但冷季湖面水温的昼夜波动却小于暖季，这直接导致了冷季的湖-陆温差更大，湖-风频率显著增加。
+
+![](images/b6428f908362a5cbd4a9c45f8bda9efe85f7b3bce173603f2342652c2831c6f0.jpg)  
+图5观测点风速风向  
+Fig.5Wind speed and directions at the observation site
+
+# 2.3湖面温度与长波净辐射变化特征
+
+2016年和2017年湖面水温及长波净辐射的日平均值时间序列趋势特征由滑动平均（13样本点）计算得出（图6)。图中曲线表明，两个年份之间湖面水温及长波净辐射的趋势特征具有较好的一致性。湖面水温在4一6月平稳上升，平均每月升高3℃左右。7一8月为观测期间湖面水温的高峰期，日平均水温平稳地维持在 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以上。9一12月是湖面水温快速下降的阶段，水温在12月底接近 $0 \ \mathrm { ^ { \circ } C }$ 。水面长波净辐射的变化趋势与水面温度几乎相反，6一7月是观测期的低谷区间。长波净辐射强度取决于湖泊水体及大气的整体温度，其观测期间的波动范围为 $5 0 { \sim } 1 5 0 \mathrm { W } { \cdot } \mathrm { m } ^ { - 2 }$ 。结合湖-气温度对比（图3a）来看，4月气温高于湖面水温，6—7月湖面水温高于气温，但6—7月的长波净辐射强度却相对4月有所下降。这种现象表明羊卓雍错观测区域的湖面水温和气温并不能代表该区域湖泊水体和大气的整体温度。相对于太阳短波辐射在每日午间（13:00—17:00）超过 $1 0 0 0 \mathrm { W } { \cdot } \mathrm { m } ^ { - 2 }$ 的强度而言，长波净辐射小了一个数量级，但太阳短波辐射对水面反射率、云量和入射高度角比较敏感，所以，湖面的辐射平衡状态同时受多种因素影响。羊卓雍错湖面观测期间的感热、潜热通量总强度在 $9 0 \ \mathrm { W } { \cdot } \mathrm { m } ^ { - 2 }$ 左右[14]，与长波净辐射的平均值相当，但这两项能量支出加起来仍不足以覆盖湖面的短波辐射能量收入，所以，羊卓雍错观测期间水体的能量平衡状态为净收入。
+
+![](images/51caaa2434cb61e2184b09e7f0d833e0fbd2a2f95fca2062f173d7f3a8f918d7.jpg)  
+图6观测期间日平均湖面温度和长波净辐射
+
+Fig.6Daily averaged lake surface temperature and long wave net radiation variations in the observation
+
+period
+
+# 4结论
+
+本文利用位于羊卓雍错白地水文站的湖面气象观测数据，分析了2016、2017年4月3日至12月 31日非封冻期的气温、湖面水温、相对湿度、风速风向、水面净辐射的日变化、季节变化特征。结果显示：羊卓雍错观测站2016、2017年非封冻期平均气温分别为 $6 . 7 ^ { \circ } \mathrm { C } \cdot 6 . 6 ^ { \circ } \mathrm { C }$ ，而平均气温日较差分别达到 $9 . 2 ^ { \circ } \mathrm { C }$ ，$9 . 6 ^ { \circ } \mathrm { C }$ ，气温日变化幅度大。湖面水温高于气温，分别为 $8 . 1 ^ { \circ } \mathrm { C } , \ 8 . 3 ^ { \circ } \mathrm { C } ,$ 。相对湿度分别为 $50 . 6 \%$ 、 $5 0 . 2 \%$ 其月平均值变化在观测期间与气温、水温均有良好的一致性。非封冻期的整体辐射平衡状态为湖面净收入，其中净收入最高、最低的时段分别为8月、12月。羊卓雍错狭长山谷地形对风速风向的控制十分明显，沿湖岸线的风速远大于湖-陆风，而冷季更大的湖-陆温差会导致湖-风频率显著增加。与其他高寒湖泊的观测结果相比，羊卓雍错的基本气象要素具备与纳木错、洱海相似的高寒湖泊特征，即气温日、季节变化幅度大，产生于热力条件变化的湖陆风显著，且这些特征在接近封冻期的寒冷季节尤为明显。
+
+# 参考文献
+
+[1] 吴国雄,刘屹岷,刘新,等．青藏高原加热如何影响亚洲夏季的气候格局[J].大气科学,2005,29(1):47-56.[Wu Guoxiong,Liu Yimin,Liu Xin,etal.HowtheheatingovertheTbetanPlateauaffcts theAsianclimateinsummer[J].ChineseJouralof Atmospheric Sciences,2005,29(1):47-56.]   
+[2] 张镜锂,李炳元,郑度．论青藏高原范围与面积[J]．地理研究,2002,21(1):1-8.[Zhang Yili,Li Bingyuan,Zheng Du.A discussionon the boundary and area ofthe Tibetan Plateau in China[J]. Geographical Research,2oo2,21(1):1-8.]   
+[3] 郑度,赵东升．青藏高原的自然环境特征[J].科技导报,2017,35(6):13-2[Zheng Du,Zhao Dongsheng.Characteristics of natural environment of the Tibetan Plateau[J]. Science & Technology Review,2017,35(6):13-22.]   
+[4] YeDZ,Wu GX.Theroleofthe heat sourceoftheTibetan Plateau inthe general circulation[J].MeteorologyandAtmospheric Physics,1998,67(1-4):181-198.   
+[5]郑度,林振耀,张雪芹．青藏高原与全球环境变化研究进展[J].地学前缘,2002,9(1):95-102. [Zheng Du,Lin Zhenyao,Zhang Xueqin.Progresinstudiesofetanplateauandglobalenvironmentalchage[J].EarthScienceFrontiers,oo,9(1):9-02]   
+[6] 姚檀栋,刘晓东,王宁练．青藏高原地区的气候变化幅度问题[J]．科学通报,2000,24(1):98-106.[Yao Tandong,Liu Xiaodong, Wang Ninglian. Climatechange amplitude on Tibetan plateau[J].Chinese Science Buletin,2ooo,24(1):98-106.]   
+[7] Yang K,WuH,QinJ,etal.Recentclimatechangesover theTibetanPlateauandtheirimpacts onenergyand watercycle: A review.Global and Planetary Change,2014,(112):79-91.   
+[8]朱立平,乔宝晋,杨瑞敏,等．青藏高原湖泊水量与水质变化的新认知[J]．自然杂志,2017,39(3):166-172.[Zhu Liping,Qiao Baojin,Yang Ruimin,etal.Findings onlake waterquantityandqualityvariationonthe Tibetan plateau[J]. Chinese Jouralof Nature, 2017,39(3):166-172.]   
+[9]Wang BB,MaYM,ChenXL,etal.Observationandsimulationoflke-airheatand watertransferprocesses inaigaltitude shallow lakeon the Tibetan Plateau[J].Journal of Geophysical Research: Atmospheres,2015,120(24):327-344.   
+[10]LiZG,LyuSH,AoYH,etal.Long-temenergyfluxandadiatiobalanceobservationsoverLakeNgoring,TibetanPlateau[J]. Atmospheric Research,2015, (155):13-25.   
+[11]除多,普穷,拉巴卓玛,等．近40a 西藏羊卓雍错湖泊面积变化遥感分析[J]．湖泊科学,2012,24(3):494-502.[Chu Duo,Pu Qiong,LaBazhuoma,etal.Remotesensinganalysisonlakearea variationsofYamzho Yumcoin Tibetan Plateauoverthepast 40a[J]. Journal ofLake Sciences,2012,24(3):494-502.]   
+[12]边多,杜军,胡军,等.1975—2006 年西藏羊卓雍错流域内湖泊水位变化对气候变化的响应[J].冰川冻土,2009,31(3):404- 409.[BianDuo,DuJun,Hu Jun,et al. Response ofthe waterlevelof the Yamzho Yumco to Climate Change during 1975- 2006[J]. Journal of Glaciology and Geocryology,2009,31(3):404-409.]   
+[13]MortonFI. Operational estimates of lake evaporation[J]. Journal of Hydrology,1983,66(1-4): 77-100.   
+[14]沈鹏珂,张雪芹.藏南羊卓雍错湖面大气湍流特征观测分析[J]．湖泊科学,2019,31(1):243-255.[Shen Pengke,Zhang Xueqin. Observationofatmospheric turbulencecharacteristicsover theYamzhog Yumco,southTibet[J].JourmalofLake Siences,2019, 31(1):243-255.]   
+[15]游庆龙,康世昌,李潮流,等．青藏高原纳木错气象要素变化特征[J].气象,2007,3(3):54-60.[You Qinglong,Kang Shichang， LiChaolu,etal.VariationfeaturesofMeteorologicalElementsatNamco Station,ibetanPlateau[J].MeteorologicalMonthly 2007, 33(3):54-60.]   
+[16]徐安伦,赵晓红,付志嘉,等．洱海盆地水面与地面气象要素变化特征的比较[J].大气科学学报,2011,34(2):25-231.[Xu Anlun,ZhaoXiaohong,FuZhijia,etal.ComparisonofmeteorologicalelementsoverwaterandlandsurfacesintheErhailake basin[J]. Transactions of Atmospheric Sciences,2011,34(2):225-231.]   
+[17]SegalM,DavisJ.Theimpactofdepcumulusrflectionontheground-level globalrrdiance.JoualofApliedMeteorology]. 1992, 31(2):217-22.   
+[18]曹畅,李旭辉,张弥,等．太湖湖表反照率时空特征及影响因子[J].环境科学,2015,36(10):3611-3619.[Cao Chang,Li Xuhui, Zhang Mi,etal.Temporaland spatialcharacteristicsofLakeTaihusurfacealbedoandits impactfactors[J].Environmental Science,2015,36(10):3611-3619.]   
+[19]盛裴轩．大气物理学[M]．北京：北京大学出版社,2013: 412-419.[Sheng Peixuan.Atmospheric Physics[M].Beijing: Peking University Press,2013: 412-419.]   
+[20]刘天仇.西藏羊卓雍错水位动态研究[J].地理科学,1995,15(1):5-62,10.[LiuTianchou.ChangesofYamzho Lake waterstage in Xizang[J].Scientia GeographicaSinica,1995,15(1):55-62,100.]

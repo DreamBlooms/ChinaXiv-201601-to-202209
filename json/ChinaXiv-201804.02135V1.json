@@ -1,0 +1,853 @@
+[
+    {
+        "type": "text",
+        "text": "基于谱对称的形状配准方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩丽，李丹，刘书宁，陈思宇，朴京钰，唐棣(辽宁师范大学 计算机与信息技术学院，辽宁 大连 116081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对现有三维形状配准方法中存在左右翻转的错误匹配问题，提出了基于内蕴对称特征检测的高效形状配准算法。首先，通过热核与几何约束，构建模型的内蕴自对称点对；其次，基于谱嵌入特征空间分析，提取模型的内蕴对称平面，并依据模型表面法向量，有效识别模型的左右结构属性；然后，根据内蕴对称点对，获得模型的一致性谱对称结构描述；最后，引入一致性点漂移算法(CPD)，实现基于谱对称的非刚性模型的形状配准，有效避免了模型配准中的左右结构翻转问题。实验进一步论证了这种方法不仅有效提高模型匹配的效率，而且能有效识别同类模型的结构特征，对于非刚性模型的配准具有较强的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：形状配准；对称性检测；谱映射；一致性点漂移算法 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2018.01.0053 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shape registration method based on spectral symmetry ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Han Li, Li Dan, Liu Shuning, Chen Siyu,Pu Jingyu, Tangdi+ (School ofComputer & Information Technology Liaoning Normal University,Dalian Liaoning l6081,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimingatthe isueofsymmetricflipsinthe processof3Dshaperegistration,this paperdevelopedaneficientshape registration algorithmbasedonintrisicsymmetric feature detection.Firstly,itconstructed intrinsic symmetric pointpairsof themodelbyheatkerelsignature(HKS)andgeometricconstraints.econdlybasedonthespectralembeddingspaceanalysis, it extracted the intrinsic symmetric planeof the modeland efectivelyidentifiedthe symmetrical propertiesof the model according tothe modelsurface normalvector,getingintrinsicsymmetrypointpair.Thereforeitpresentedtheconsistentspectral symmetrystructureof the model.Finaly,combining thecoherent pointdrift method,itimplemented the shaperegistrationof non-rigidmodelbasedonspectralsymmetry.The experimentalresultsshowthat the matching methodis eficientandrobust to the non-rigid deformableshape matching.Moreover,the structural features in samecategory modelsalsoare ffectively identified. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: shape registration; symmetry detection; spectral mapping; coherent point drift ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在几何模型的形状分析中，借助对称性可以消除模型中的冗余信息，可以完成对模型的高层次的表示和分析，亦可以完成对模型的对称化、残损模型修补等模型优化处理。因此，研究三维模型的对称性具有重要的理论与工程意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "按照对称性定义所依赖的几何属性可分为外蕴对称和内蕴对称；按照对称在三维模型表面的分布，又可以分为全局对称和局部对称。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大多数对称性分析工作集中于全局外蕴对称的检测和分类。Zabrodsky等人[1]定义了一个变换的对称性度量，用于衡量一个形状到它的最近对称形状的距离，实现了近似对称检测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kazhdan等人[2]研究了一种对称变换，用于度量二维形状关于平面内任意直线反射对称的可能性。这种方法后来被Podolak等人[3]扩展应用于三维几何模型，提出了平面反射对称变换(planarreflective symmetry transform，PRST)。Rustamov[4]将物体非对称性的空间分布结合到PRST中，得到了增强的PRST用于高效的形状检索。Martine等人[5]通过分析球面调和系数定义了一种广义矩，并基于此提出一种恢复三维形状全局对称性的方法。在局部外蕴对称研究中，Thrun 等人[提出了一种分级的产生一测试过程用于局部对称检测。Simari等人[7研究了局部近似平面反射对称的检测问题，并为三维形状定义了一种基于平面对称子部分的层次表示。Mitra等人[8提出了一种变换空间选举(voting)与聚类(clustering)的方法来检测局部近似对称，并进一步研究了三维模型的对称化，即对一个模型施加形变使其外蕴对称[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在内蕴对称检测方面，目前绝大多数方法仅考虑全局内蕴对称。Lipman 等人[10,11]提出了一种三维点云的对称群轨道(orbits)的检测方法，该方法为输入点云构建对称对应矩阵，然后利用该矩阵的频谱特性，在三维曲面上定义了与扩散距离(diffusiondistance)密切相关的对称分解距离(symmetry factored distance)。Riklin-Raviv等人[2]针对流形曲面上的一个采样点集，提出了自底向上搜索该点集与其自身的等距变换。全局点签名(globalpointsignatures，GPS)可以将形状的全局内蕴对称变换为高维空间上的全局外蕴对称[13,14]。类似地，Chertok 等人[15]研究了基于频谱分析的对称检测方法。Kim等人[16]提出了基于Mobius 变换的全局内蕴对称检测方法。Zhang等人[17提出了一种形状描述算法(symmetry robust descriptor，SRD)，可以鲁棒性的区分两对有角度标志的点，甚至是对称或者近似对称的点。Zheng 等人[18]提出对形状的内蕴骨架的对称来进行研究，增强形状的自我对称性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，非刚性形状对应研究取得了显著的进展[19,22]。其中最具有代表性的方法有 Isomap[23]和Laplacian 特征映射[24]，其将一个内在的形状匹配问题转化为一个高维特征空间中的外在距离度量问题。但是由于高维特征空间的符号翻转以及重复性，导致在对称检测及对应匹配中出现左右结构翻转问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[25]提出对应对称性感知嵌入，与以前将表面嵌入高维空间的嵌入方法不同，而是基于低维嵌入的。该方法通过在两个没有反射的嵌入表面之间找到3D刚体变换来解决左右翻转问题；但是该方法局限于耗时的迭代求解以及不能处理旋转对称和重复结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于谱图理论，提出了内蕴自对称平面的检测方法，有效揭示模型的左右及形状结构，并引入谱对称的概念，实现高效精准的形状匹配。首先，通过热核与几何约束分析模型的自对称属性，提取自对称点对；其次，基于低维谱嵌入进行模型内蕴对称平面的计算，构建模型的结构特性表示，基于内蕴对称点对提取模型的一致性谱对称稀疏描述；最后，引入 $\\mathrm { C P D } ^ { [ 2 6 ] }$ 方法，实现高效精准的形状配准与分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文方法不仅有效避免了模型配准中出现的左右以及前后翻转问题，而且稀疏化和结构化的谱对称表示更进一步提高了模型的配准效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基于热核与几何约束的内蕴自对称分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用热核特征的内蕴等距不变性，进一步结合几何形状约束，提出了高效的内蕴自对称分析方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1热核特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热核描述符(HKS)[27,28]是一种基于热扩散属性描述模型表面几何特征的描述符，在保持模型内蕴几何属性的同时，构造简洁，对噪声不敏感。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于紧致黎曼流形M(可能存在边界)，其热扩散过程可以用热",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方程描述：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { M } u ( x , t ) = - \\frac { \\partial u ( x , t ) } { \\partial t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta _ { M }$ 为 $M$ 上的Laplace-Beltrami算子，如果 $M$ 有边界，使 $u$ 满足Dirichlet边界条件，即对于流形 $M$ 上所有点 $x$ 和所有时间 $t$ ，均满足 $u ( x , t ) = 0$ ； $u ( x , t )$ 为在时间 $t$ 时刻位置上的温度。给定一个初始热源 $f$ ，热传导方程在时间 $t$ 上的解可以通过热算子 $H _ { t }$ 得到，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( x , t ) = H _ { t } f\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于任意流行 $M$ ，存在函数 $K _ { t } ( x , y ) : \\mathbb { R } ^ { + } \\times M \\times M \\to \\mathbb { R }$ 使得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( x , t ) = \\int _ { M } K _ { t } ( x , y ) f ( y ) d y\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { d } _ { y }$ 是 $y \\in M$ 的体积形式；满足该方程的最小值$K _ { t } ( x , y )$ 称为热核，可以看做经过时间 $t$ 后点 $x$ 处单位热量传递到点 $y$ 的热量总和。热核具有以下的热核分解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { t } ( x , y ) = \\sum _ { i = 0 } ^ { \\infty } e ^ { - \\lambda _ { i } t } \\phi _ { i } ( x ) \\phi _ { i } ( y )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda _ { i }$ 、 $\\phi _ { i }$ 分别为Laplace-Belrtami算子的第 $i$ 个特征值和对应的特征向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据Coifman提出的扩散距离框架，可度量目标空间中两数据点之间的相似度。对模型 $M$ ，给定时间 $t$ 可定义扩散距离：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { t } ( x , y ) ^ { 2 } = \\int _ { M } { \\left( K _ { t } ( x , z ) - K _ { t } ( y , z ) \\right) ^ { 2 } } d z\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$K _ { t } ( . , . )$ 为核函数，扩散距离把数据点集嵌入目标空间，数点集之间的扩散距离等价于目标空间的欧氏距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热核特征记录经过一段时间后点 $x$ 的热量扩散到其他点，可以得到模型上该点邻域内的几何信息。显然，热核特征值由时间域所主导，有着时间域上的多尺度特性。某一点 $x$ 的热核特征值可看做时间 $t$ 变化的时间序列：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { t } ( x _ { i } , x _ { i } ) = ( K _ { t 1 } ( x _ { i } , x _ { i } ) , K _ { t 2 } ( x _ { i } , x _ { i } ) , . . . , K _ { t n } ( x _ { i } , x _ { i } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1所示为 $t = 4 5$ 时刻不同姿态模型上的热核分布情况。图中由红色到蓝色（见电子版）表示热核特征值由大到小变化，可见具有相似对应结构关系的子部分其热核函数值相似。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "十←☆xa然而热核函数却不能精确识别模型的形状细节，例如人的模型中，手和脚的热核值极为相似，若仅仅通过热核特征去分析模型的对称属性，就会出现错误的手脚对称特征。因此，本文进一步融合模型的几何约束，突出模型形状细节，实现稳定、精确的自对称形状检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2融合热核与几何约束的内蕴自对称提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测地线距离可获得高维观测空间与低维流形结构在局部意义下的内在几何分布结构，能够有效地揭示流形空间的内在特征。本文融合热核的等距不变性以及测地线距离的内蕴结构性，提出了健壮的三维自对称形状分析算法。  \n本文采用无向带权图 $G ( V , E )$ 来表示模型 $M$ ，其中， $\\nu _ { i } \\in V$ 为模型表面顶点， $E$ 代表每一对顶点 $\\nu _ { i }$ 和 $\\boldsymbol { \\nu } _ { j }$ 的连接边，则图$G$ 的邻接矩阵 $A ( G ) = ( a _ { i j } )$ 定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i j } = \\left\\{ \\begin{array} { c c } { { w \\Big ( \\nu _ { i } , \\nu _ { j } \\Big ) } } & { { \\nu _ { i } \\not = \\nu _ { j } } } \\\\ { { 0 } } & { { \\nu _ { i } = \\nu _ { j } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $w ( \\nu _ { i } , \\nu _ { j } )$ 为对应边 $e _ { i j }$ 的权值。为了突出模型顶点间的局部邻域关系，采用高斯核函数(Gaussian kernel)来构建图 $G$ 的相似度矩阵 $W _ { g } = ( w _ { i j } )$ ， $W _ { g } \\in \\mathbb { R } ^ { n \\times n }$ 每对顶点的相似程度用点之间边的权值 $w _ { i j } \\in [ 0 , 1 ]$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i j } = \\left\\{ e \\begin{array} { c c } { \\displaystyle { - \\frac { - d i s t \\left( \\nu _ { i } , \\nu _ { j } \\right) ^ { 2 } } { 2 \\sigma ^ { 2 } } } } & { i \\neq j } \\\\ { 1 } & { i = j } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $d i s t ( \\nu _ { i } , \\nu _ { j } )$ 表示顶点 $\\nu _ { i }$ 与 $\\boldsymbol { \\nu } _ { j }$ 之间的测地线距离； $\\sigma$ 为高斯分布的尺度参数。首先，计算模型 $M$ 的热核特征，点的热核特征向量构成了一个规范正交系，模型 $M$ 可用该集合的基底 $\\{ \\varphi _ { i } \\} _ { i \\geq 1 }$ 表示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { _ { a i } } = \\sum _ { i \\geq 1 } ^ { n } a _ { i } \\varphi _ { i } ; K _ { _ { a j } } = \\sum _ { j \\geq 1 } ^ { n } a _ { j } \\varphi _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $K _ { a i }$ 与 $K _ { a j }$ 为 $k$ 维向量； $n$ 为模型 $M$ 的顶点个数； $k$ 为所选取的特征值的个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，通过度量热核特征判断模型的自对称属性，根据式（4)和（5)，顶点之间的热扩散距离定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { [ t _ { 1 } , t _ { 2 } ] } ( x _ { i } , x _ { j } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\int _ { t _ { 1 } } ^ { t _ { 2 } } ( \\frac { \\left| K _ { t } ( x _ { i } , x _ { i } ) - K _ { t } ( x _ { j } , x _ { j } ) \\right| ^ { 2 } } { \\sum _ { i } e ^ { - \\lambda _ { i } t } } ) ^ { 1 / 2 } d \\log t ) ^ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k _ { t } ( . , . )$ 为热核； $\\sum _ { i } e ^ { - \\lambda _ { i } t }$ 为 $t$ 时刻热核的迹。可以描述数据点之间的局部连通性，在对数上均匀采样按比例缩放，得到一个向量来表示 HKS 每个点。表1 为特征向量 $K _ { a i }$ 和 $K _ { a j }$ 构成 $n \\times n$ 热核特征相似矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ea6fbfe73b3fe480571e3c0733dad5d24d25dd4b5e01c43b18136b6d13ab541.jpg",
+        "table_caption": [
+            "表1 $n \\times n$ 特征相似度矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ka</td><td>Ka2</td><td>Ka3</td><td></td><td>Ka</td></tr><tr><td>Ka</td><td>d(1,1)</td><td>d(1,2)</td><td>d(1,3)</td><td>：</td><td>d(1,n)</td></tr><tr><td>Ka2</td><td>d(2,1)</td><td>d(2,2)</td><td>d(2,3)</td><td>：</td><td>d(2,n)</td></tr><tr><td>K3</td><td>d(3,1)</td><td>d(3,2)</td><td>d(3,3)</td><td>：</td><td>d(3,n)</td></tr><tr><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>Kan</td><td>d(n,1)</td><td>d(n,2)</td><td>d(n,3)</td><td></td><td>d(n,n)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矩阵中的每一行代表当前顶点与其他顶点的形状相似度（亦为对称度）。进而基于获得的热核对称关系矩阵 $d _ { H K S } ( \\nu _ { i } , \\nu _ { j } )$ 与测地线距离相似度矩阵 $W _ { g }$ ，构建几何约束的自对称检测矩阵：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { s y m } ( \\nu _ { i } , \\nu _ { j } ) = \\alpha d _ { H K S } ( \\nu _ { i } , \\nu _ { j } ) + \\beta W _ { g } ( \\nu _ { i } , \\nu _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha + \\beta = 1$ 。实验中,为了突出模型的局部几何属性特征,设置权值 $\\alpha = 0 . 8 7$ ， $\\beta = 0 . 1 3$ 。 $D _ { s y m } ( \\nu _ { i } , \\nu _ { j } )$ 表示模型上的顶点$\\nu _ { i }$ 与 $\\boldsymbol { \\nu } _ { j }$ 之间的对称程度，遍历整个矩阵找出最小值，获得最优的对称点对：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } ( D _ { s y m } ( \\nu _ { n i } , \\nu _ { n j } ) , \\Pi _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为模型点的个数； $\\Pi _ { i j }$ 为对称点对集，迭代更新 $\\Pi _ { i j }$ 直到完全遍历整个矩阵。其算法如下：  \n算法1基于热核特征与几何约束的自对称检测算法  \n输入：三角网格模型 $M$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：模型的对称点对集 $\\Pi _ { i j }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)计算三角网格模型的Laplace-beltrami算子； b)计算 Laplace-beltrami 算子的特征值 $\\lambda _ { i }$ 和特征向量 $\\varphi _ { i }$ ； c)计算时间 $t \\in [ t _ { \\operatorname* { m i n } } , t _ { \\operatorname* { m a x } } ]$ 范围内的模型热核特征 $K _ { t } ( . , . )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)计算顶点间的扩散距离 $d _ { H K S }$ 以及测地线距离 $W _ { g }$ ，构建自对称检测矩阵 $D _ { s y m }$ ， $D _ { s y m } = \\alpha d _ { H K S } + \\beta W _ { g }$ ；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)通过遍历对称对应矩阵 $D _ { s y m }$ 获取最终对称点对集合$\\Pi _ { i j }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14+ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为基于热核与几何约束的模型自对称检测结果。其对于不同姿态的几何模型具有较强的鲁棒性与稳定性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 基于谱对称的模型配准算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三维模型的配准与形状分析是模型检索、压缩、重建等应用的核心内容，高效、高精的形状匹配方法研究更是发挥着至关重要的作用。本文在内蕴自对称检测的基础上，提出了基于谱对称的非刚性模型形状配准分析方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 2D 谱嵌入",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于Laplacian 算子的谱映射将高维数据嵌入到低维空间，有效保持模型的内蕴形状特性，被广泛应用于模型的分类与匹配[29,30]。文献[13]指出越大的特征向量包含越为显著的形状特征，因此本文采用拉普拉斯映射中最大及次大特征向量，构造2D 谱特征描述，其不仅直观再现模型的形状结构，而且有效避免高维特征空间的不对称性及扭曲性。但是拉普拉斯特征映射所提供的嵌入在一些意识中只保持了局部信息的最佳性，对新的测试点描述不充分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于用对称感知来进行形状匹配，在进行模型的配准时也是用特殊的局部配准(对称谱域配准)，所以充分利用了拉普拉斯保持局部信息的最佳性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，同一类模型的二维谱特征具有结构相似性，对于姿态与局部变化具有较强的稳定性。然而谱特征空间极易发生符号偏转现象，图3中不同姿态的同类模型在二维谱域中均发生了结构翻转，若基于谱特征描述来识别模型的对应性，必然造成模型匹配过程中的左右混淆错误。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文结合二维谱图具有保持模型内蕴形状特性的优势，引入内蕴对称平面，有效判断模型的左右结构，建立优化的谱对称描述，实现基于谱对称的模型配准与相似性形状分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cba56f90fe5e3682805e7df1130be54b21040c156a297b30aab73b046e76ffdf.jpg",
+        "img_caption": [
+            "图2不同模型的自对称检测",
+            "图3不同姿态及不同种类模型的二维谱映射"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 内蕴对称平面",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文依据热核与几何约束提取的自对称点集合 $\\Pi _ { i j } ( \\nu _ { i } , \\nu _ { j } )$ ：在谱域中获得对称点对的特征向量描述 $\\mathbf { I } _ { i } \\mathbf { = \\nabla } ( I _ { i 0 } , I _ { i 1 } , . . . , I _ { i k } )$ ，$\\mathbf { Q } _ { j } \\mathbf { = } \\ ( \\mathbf { \\it { Q } } _ { j 0 } , \\mathbf { \\it { Q } } _ { j 1 } , \\dots , \\mathbf { \\it { Q } } _ { j k } )$ ；进而衡量特征向量的距离$d ( I , Q ) { = } \\frac { \\left| I - Q \\right| } { I + Q }$ 依据最小二乘法，提取谱域中对称中点(如图4-a的对应红色点)，最终，将对称中点转换到空域，进行平面拟合，获得模型的内蕴对称平面，如图4 (b)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个卡(a)谱域中的对称中点(b)空域中的对称中点及平面+tx(c)不同模型的内蕴对称平面",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据内蕴对称平面及模型顶点的法向量分布，建立有效识别模型结构的表示方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设模型的内蕴对称平面 $P$ 的法向量为 $N _ { \\nu }$ ，所有模型顶点 $\\mathbf { \\sigma } _ { \\nu }$ 在对称平面 $P$ 上投影的中心点为 $\\nu _ { c }$ ，则计算模型顶点到平面的距离 $d _ { s }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { s } = \\overrightarrow { \\nu _ { c } \\nu } \\cdot N _ { \\nu }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $d _ { s } \\geq 0$ ，顶点位于对称平面 $P$ 的法方向同侧；当 $d _ { s } < 0$ ，顶点位于对称平面 $P$ 的负法向方向。图5（b）为基于内蕴对称平面进行模型检测，获得的 $d _ { s } < 0$ ，位于平面负法向的顶点集。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4a65656bb6d2ba3a1a372ddc6c8d222dd4c4ad3810f1256abbdf06c9f10c542.jpg",
+        "img_caption": [
+            "图4模型的内蕴对称平面",
+            "(a)顶点与对称平面关系(b)对称平面 $d _ { s } < 0$ 的顶点分布图5模型顶点与对称平面关系的判定"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在距离判断的基础上，引入标志参数 $\\kappa$ ，用来判别模型顶点位于对称平面法向量方向，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义为左侧点( $\\kappa = 1 \\dot { , }$ ，位于负法向方向的顶点定义为右侧点（ $\\kappa = - 1 \\$ ； $\\kappa = 0$ 表示顶点，位于对称平面上。从而获得具有结构识别功能的模型，表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\ X ( \\nu _ { i } , \\kappa ) \\big | \\nu _ { i } \\in R ^ { 3 } ; \\kappa = \\left\\{ \\begin{array} { l l } { 1 } & { \\quad l e f t ; } \\\\ { 0 } & { } \\\\ { - 1 } & { \\quad r i g h t ; } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过顶点集 $d _ { s }$ 的方向和顶点集在对称平面法向量 $\\kappa$ 的方向一起来确定的顶点的左右分布。根据模型表示 ${ \\bf X } ( \\nu _ { i } , \\kappa )$ 以及获得的模型内蕴对称点对$\\Pi _ { i j } ( \\nu _ { i } , \\nu _ { j } )$ ，判别谱特征点的左右结构，提取一致性谱对称特征。如图6(b)所示，黄色直线为谱特征中左右结构的分界线；图6（c）为依据统一结构所提取的一致性谱对称特征描述，其不仅有效避免了谱特征的左右结构翻转问题，而且提供了优化的形状特征稀疏表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "谱对称特征提取算法如下：算法2求解3D 模型的谱对称特征描述输入：3D空域自对称点集合 $\\Pi _ { i j }$ 输出：3D 模型的谱对称特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)依据模型空域中的自对称点集合 $\\Pi _ { i j }$ ，获得谱域中对称点的特征向量：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf I } _ { i } = \\left( { I } _ { i 0 } , { I } _ { i 1 } , . . . , { I } _ { i k } \\right) , { \\bf Q } _ { j } = \\left( { Q } _ { j 0 } , { Q } _ { j 1 } , . . . , { Q } _ { j k } \\right) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)计算对称点特征向量 $I _ { i }$ ， $Q _ { j }$ 在谱域中的欧氏距离  \n（204号 $d ( I _ { i } , Q _ { j } )$ ，从而获得谱域对称中点集合 $\\Psi _ { s } \\left| \\nu _ { s } \\in R ^ { n \\times m } \\right.$ ；c)由谱域中的对称中点 $\\Psi _ { s }$ ，转换为空域中的对应点；并依  \n据最小平面拟合原理，可获得空域中模型的内蕴对称平面；d)由对称平面以及模型表面顶点法向量，有效识别模型的  \n左右结构，左向为1，右向为-1，对称面上为0；建立具有结  \n构区分的模型顶点表示( $\\left. \\mathrm { X } ( \\nu _ { i } , \\kappa ) \\right| \\nu _ { i } \\in R ^ { 3 } ; \\kappa \\in ( 1 , 0 , - 1 ) ; \\forall$ ：e)由谱域中的对称中点 $\\Psi _ { s }$ 及对应模型结构表示${ \\mathbf X } ( \\nu , \\kappa )$ ，获得模型的一致性谱对称结构特征描述；f)End 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8337717735c5a7fdbca9e887b6e5c2619d50c173152e2799a90d31db38fabe41.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而图7中第一列为2D谱特征，第二列为基于对称属性所提取的一致性谱对称特征描述，第三列为依据对称属性获得的对称平面。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/154521c1751968cb44eeef324b349f77ff242d37f337b78420b72dd1d51ee88d.jpg",
+        "img_caption": [
+            "图6不同姿态模型的谱对称表示",
+            "图7不同模型的谱对称特征提取"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3基于一致性点漂移的谱对称形状配准 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前常用的配准方法有迭代最近点算法[31](IterativeClosest Points，ICP),薄板样条函数[32](Thin Plate Spline，TPS),多维尺度分析[33] (Multi-dimension Analysis，MDS)和一致性点漂移算法(Coherent Point Drift， CPD)[26]。CPD 方法是把两个点集的配准看做一个概率密度估计问题，其中一个点集用高斯混合模型(GMM的形心来表示，另一个点集则用数据点表示。通过最大化似然估计将GMM形心配准到数据点集，最终使两个点集对齐并且使用GMM后验概率获得两个点列之间的匹配对应关系，实现非刚性模型配准，具有更高的精确性。其次对于CPD方法而言，算法不再是简单的以两个配准点列的坐标值进行配准，而是通过算法建立其中一个配准点列数据集的高斯混合模型，其通过一系列的权值参数的设定可以进行点列模型的非刚性配准，实现非刚性模型的灵活性。本文基于模型的谱对称描述，进一步结合CPD方法，实现了高效、精准的形状相似性分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法3基于谱对称的形状匹配输入：模型 $\\boldsymbol { { M } } _ { a }$ ， $\\boldsymbol { { M } } _ { b }$ 的谱对称特征描述。XNxD=[,X,,xN](每个点xn)为Ma的点集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { M \\times D } = [ y _ { 1 } , y _ { 2 , } . . . , y _ { M } ] ^ { T }$ (每个点 $y _ { m }$ )为 $\\boldsymbol { M } _ { b }$ 的点集。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "寻找 $\\Gamma ( y _ { m } , \\theta )$ 变换使得 $y _ { m }$ 变换之后的 $\\Gamma ( \\boldsymbol { y } _ { m } , \\theta )$ 与 $x _ { n }$ 之中的一个能一一对应起来。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "输出：对齐点列为 $T$ ，对应概率为 $p$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)看做混合高斯模型(GMM)的质心， $x _ { n }$ 看做点的集合。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b)求出 GMM 模型和 $\\Gamma$ ，就可以得出每个 $x _ { n }$ 对应的那个$y _ { m } \\setminus y _ { m }$ 和 $x _ { n }$ 两点间对应的概率为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( m \\mid x _ { n } ) = P ( m ) p ( x _ { n } \\mid m ) / \\ : p ( x _ { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中：P(x|m)= $P ( x | m ) = \\frac { 1 } { ( 2 \\pi \\sigma ^ { 2 } ) ^ { D / 2 } } \\exp ^ { - \\frac { \\| x - y _ { m } \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } } ( y _ { m }$ 则为 $\\Gamma ( y _ { m } , \\theta )$ )$p ( m ) = \\frac { 1 } { M } , p ( x ) = \\sum _ { m = 1 } ^ { M + 1 } P ( m ) p ( x | m )$ ，就可以找出一一对应关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c)估计GMM和求出 $\\Gamma ( y _ { m } , \\theta )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本方法用非刚性变换： $\\Gamma ( Y , \\nu ) = Y + \\nu ( Y )$ ，其中$\\nu ( z ) = \\sum _ { m = 1 } ^ { M } w _ { m } G ( z , y _ { m } ) + \\psi ( z )$ 。则上式表示为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( Y , W ) = Y + G W\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中：G:g=x，参数是权值=W。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d)通过求GMM参数来估计变换的 $\\Gamma ( y _ { m } , \\theta )$ 。可以通过EM算法来估计参数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "初始化： $W = 0 , \\sigma ^ { 2 } = \\frac { 1 } { D N M } \\sum _ { m , n = 1 } ^ { M , N } \\left\\| x _ { n } - y _ { m } \\right\\| ^ { 2 }$ （20  \n初始化：  \n$w ( 0 \\leq w \\leq 1 ) , \\beta > 0 , ~ \\lambda > 0 ,$ （204号  \n创建G: $g _ { i j } = \\exp ^ { - \\frac { 1 } { 2 \\beta ^ { 2 } } \\left\\| y _ { i } - y _ { j } \\right\\| ^ { 2 } } ,$   \nEM优化，重复直到收敛：  \n(a)E-spet:计算P",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$p _ { m n } =$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\displaystyle { \\exp ^ { - \\frac { 1 } { 2 \\sigma ^ { 2 } } } \\left\\| x _ { n } - ( y _ { m } + G ( m , . ) w ) \\right\\| ^ { 2 } } } { \\displaystyle { \\sum _ { k = 1 } ^ { M } \\exp ^ { - \\frac { 1 } { 2 \\sigma ^ { 2 } } \\left\\| x _ { n } - ( y _ { k } + G ( k , . ) w \\right\\| ^ { 2 } } + \\frac { w } { 1 - w } \\frac { ( 2 \\pi \\sigma ^ { 2 } ) ^ { D / 2 } M } { N } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这一步用旧的参数 $w$ 和 $\\sigma ^ { 2 }$ 来估计 $p _ { m n }$ 口",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { P } = 1 ^ { T } P 1 , T = Y + G W ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { 2 } = { \\frac { 1 } { N _ { p } D } } ( t r ( X ^ { T } d ( P ^ { T } 1 ) X ) - 2 t r ( ( P X ) ^ { T } T ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt r ( T ^ { T } d ( P \\mathbb { 1 } ) T ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这一步利用 $p _ { m n }$ 来重新估计参数 $w$ 和 $\\sigma ^ { 2 }$ 。e)对齐点集为： $T = \\Gamma ( Y , W ) = Y + G W ,$ 。f)通过 $P$ 得到对应的概率 $p$ □  \ng)End。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "十大√_ (a)热核分布 (b)基于CPD算法与谱对称的形状配准 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9b722d1c27cea3216e539b9a5b44a75b43f51c04c845bf385c5155ef9e2a427.jpg",
+        "img_caption": [
+            "图8基于谱对称的形状配准"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8为不同人体姿态模型，使用CPD进行谱对称形状匹配的实验结果。其中，图8（a）为模型的热核分布，（b)（c）（d)为蹲和跳、站和蹲不同姿态人体模型的对称性谱配准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本方法的实验平台为Pentium3.2GHzCPU，8G内存的IBMPC，并使用MATLABR2015b图形可视化软件和 $\\mathrm { C } { + } { + }$ 等开发环境。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本算法实现主要由三个步骤组成：a)模型内蕴自对称分析；b)基于谱嵌入的内蕴对称平面提取及模型的结构性表示；c)基于CPD 的谱对称形状配准。实验中，采用了180种不同姿态的非刚性模型，选取模型数据库中任意两个模型作为待测数据，对模型进行对称检测与谱对称特征提取；最终，基于一致性点漂移算法进行对称模型的配准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1鲁棒性比较与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文引入热核(HKS)和测地线距离分析模型自身的内蕴对称性，并基于谱域中的特征距离有效提取模型的内蕴对称平面，根据内蕴对称平面及模型顶点的法向量分布，建立有效识别模型结构的表示与谱对称特征描述。基于对称特征描述的谱配准，优化了模型表示，实现了精确、高效的形状匹配。图9为TOSCA数据库中部分模型之间谱对称的匹配结果。使用本文方法和TPS方法在四组变形模型上进行形状匹配对比分析，可以看出，本文的匹配结果明显优于TPS，对模型的非刚性变化更加鲁棒。图9（a）为不同姿态模型基于热核的分布，（b）为CPD对称谱匹配结果，（c）为TPS对称谱匹配结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "十茶",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图9的结果可以看出，CPD算法要求待配准点集（也即高斯分量的中心）作为整体按给定的几何变换关系进行一致性移动，因而其能够较好的保持点集的几何拓扑结构，即使在不同姿态的干扰下仍然有较好的配准效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证本文方法的鲁棒性，将本文方法与ICP及局部相似性分析进行了比较。实验结果如图10所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/221fba22fff320c6ea87a9af345e1f6a0d39faeac5a5f4b48b3f941ce48c8614.jpg",
+        "img_caption": [
+            "",
+            "图9本文方法和TPS 谱匹配对比结果",
+            "图10ICP 和局部相似性匹配对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)热核分布 (b)ICP与局部相似性配准 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从上述实验结果中可以看出，ICP在配准时没考虑噪声的影响，若噪声干扰很大或者是数据集是线性的或者是数据集中有奇异点存在，那么用最小平方和的方法解决配准问题失效。用局部相似性分析时出现人体模型的胳膊和腿部等部位相似性较大，出现错误连接，虽然该方法能够实现稀疏化模型之间的分析，但是该方法不能并不能提供语义层次的模型局部和整体的对应关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2算法准确率和效率比较 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文方法的性能，对数据库中的模型分别用四种方法(ICP、TPS、MDS、本文方法)进行形状匹配统计。表2为六组模型在1580、1600、3200个点进行匹配所需要的时间。可见本文方法不仅运算效率明显优于基准方法，可实现更快速、更准确的形状匹配。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本方法利用内蕴对称平面提取谱对称特征，有效避免了特征空间存在的左右结构翻转问题，谱对称表示不仅有效保留了模型的形状特征，更能够实现优化的稀疏表示，提高配准效率。由表2可见，在时间效率上本方法是相对突出的，不同人体姿态模型之间的配准率高达 $90 \\%$ 以上，在变形大幅变化的四肢动物中也具有 $8 5 \\%$ 以上的配准率（因为四肢动物本身的结构性)，体现了本方法在模型识别与分类应用中的有效性。同时，在与其他三种配准方法比较中，也具有明显的优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ICP是通过就近点之间的最小距离约束模型的配准，若噪声干扰非常大或者数据集是线性或者数据集中有奇点存在，那么该方法解决配准问题失效。MDS是在一定测度空间计算高维数据的距离矩阵，然后通过等距变换将距离矩阵嵌入到低维欧式空间中。但其对于非线性的特征提取有一定的局限性。TPS是通过优化薄板样条的光滑参数实现模型谱特征的非刚性配准。而本文方法与其他方法最大的区别是通过提取模型的结构性谱对称表示，建立一个配准点列数据高斯混合模型，用高斯混合模型的质心代表原始点列，再与另外的点列模型进行配准。配准率不再是通过求解距离和的方法，而是通过加权GMM后验概率得到对应关系。其抗噪声干扰能力较强，同时提高了对称匹配的收敛速度，配准过程中可靠性更高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11（b）（c）为使用本文的谱对称描述及CPD方法获得的不同模型之间的形状匹配。不仅其有效避免了匹配过程中的左右翻转，对于不同姿态模型的配准及形状匹配具有较强的稳定性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11（c）展示了模型原始点与对称稀疏化的点进行配准的时间对比。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d4ef5f32c8180dd98b0aff8279d136c483ef2e7353e5072eece467e63fc1f2d.jpg",
+        "img_caption": [
+            "图11不同方法的精度对比及不同模型的谱对称形状匹配"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对数字几何模型的数据量和复杂度日益提高的现状，提出高效、稳定的三维模型形状对称分析与配准方法。通过分析模型热核与几何上的自对称特征，提取内蕴对称点对。同时基于拉普拉斯映射的谱嵌入，得出模型在谱域中的对称属性和空域中的对称平面，有效揭示模型的左右结构，建立统一的谱对称特征表示，进而结合一致性点漂移实现非刚性模型的形状配准。一系列的实验验证本文方法对于不同姿态及不同种类模型的识别具有较强的稳定性和高效性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然而本文方法主要针对模型的全局特征进行对称检测，建立全局的谱对称特征描述，因此在识别局部有意义的形状相似性方面还具有不足之处。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在未来的工作中，将进一步开展模型的稀疏化与局部对称性配准研究，建立更高难度的模型配准与描述机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/62a6539f6a6939d10442862cc4e350980864aeafbc284d1f3f71b394e4008e92.jpg",
+        "table_caption": [
+            "表2六组对称模型匹配结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td rowspan=\"2\">原始点/个</td><td rowspan=\"2\">对称点/ 个</td><td colspan=\"2\">配准时间/s</td><td rowspan=\"2\">本文方法</td><td colspan=\"3\">配准率/%</td></tr><tr><td>基准方法</td><td>本文方 法</td><td>MDS[2 1]</td><td>ICP[1</td><td>TPS[20]</td></tr><tr><td>victoria</td><td>1605</td><td>582</td><td>108。70</td><td>50。31</td><td>92。96</td><td>90。65</td><td>9] 89。</td><td>93。12</td></tr><tr><td>（站）</td><td></td><td></td><td></td><td></td><td></td><td></td><td>89</td><td></td></tr><tr><td>victoria</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（舞）</td><td>1605</td><td>175</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6be4369d02e04ee3812a0930460279b38eb461c29603a24c3ea4515ffe14edf3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>飞机1</td><td>3200</td><td>248</td><td>98。23</td><td>41。10</td><td></td><td>91。84</td><td>77。15</td><td></td><td>75。</td><td>90。84</td></tr><tr><td>飞机2</td><td>3200</td><td>305</td><td></td><td></td><td></td><td></td><td></td><td>76</td><td></td><td></td></tr><tr><td>鱼1</td><td>1606</td><td>463</td><td>105。63</td><td></td><td>17。10</td><td>97。12</td><td>83。42</td><td></td><td>82。</td><td>96。72</td></tr><tr><td>鱼2</td><td>1583</td><td>20</td><td></td><td></td><td></td><td></td><td></td><td>86</td><td></td><td></td></tr><tr><td>猫1</td><td>3200</td><td>908</td><td>135。12</td><td></td><td>46。84</td><td>85。61</td><td>85。56</td><td></td><td>83。</td><td>76。93</td></tr><tr><td>猫2</td><td>3200</td><td>194</td><td></td><td></td><td></td><td></td><td></td><td>41</td><td></td><td></td></tr><tr><td>狗1</td><td>3200</td><td>666</td><td>163。16</td><td></td><td>49。93</td><td>89。83</td><td>79。95</td><td></td><td>81。</td><td>78。26</td></tr><tr><td>狗2</td><td>3200</td><td>87</td><td></td><td></td><td></td><td></td><td></td><td>23</td><td></td><td></td></tr><tr><td>狗1</td><td>3200</td><td>666</td><td>113。32</td><td>52。44</td><td></td><td>93。75</td><td>72。34</td><td></td><td>75。</td><td>93。14</td></tr><tr><td>猫1</td><td>3200</td><td>908</td><td></td><td></td><td></td><td></td><td></td><td>36</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Zabrodsky H,Weinshall D.Using Bilateral symmetry to improve 3D reconstruction from image sequences [J]. Computer Vision and Image Understanding,1997,67(1): 48-57   \n[2]Kazhdan M,Funkhouser T,Rusinkiewicz S. Symmetry descriptors and 3D shape matching [C]// Proc ofthe 2nd Eurographics Symposium on Geometry Processing. 2004: 115-123.   \n[3]Podolak J, Shilane P, Golovinskiy A,et al.A planar-reflective symmetry transform for3D shapes [J].ACM Trans on Graph,2006,25 (3): 549-559.   \n[4]Rustamov R M.Augmented planar reflective symmetry transforms [J]. The Visual Computer,2008,24(6): 423-433   \n[5]Martinet A, Soler C, Holzschuch N,et al. Accurate detection of symmetries in 3D shapes [J].ACM Trans on Graph,2006,25 (2): 439-464.   \n[6]Thrun S,Wegbreit B. Shape from symmetry [C]//Proc ofICCV.2005: 1824- 1831.   \n[7]Simari P,Kalogerakis E,Singh K.Folding meshes:hierarchical mesh segmentation based on planar symmetry[C]//Proc of the 4th Eurographics Symposium on Geometry Processing. 2006:111-119.   \n[8]Mitra N J, Guibas LJ,Pauly M.Partial and approximate symmetry detection for3D geometry[J].ACM Trans on Graph,2006,25 (3): 560-68.   \n[9]Mitra N,Guibas L,Pauly M. Symmetrization [J].ACM Trans on Graph, 2007,26 (3): 63: 1-8.   \n[10] Lipman Y, Funkhouser T. Mobius voting for surface correspondence [J]. ACM Trans on Graph,2009,28 (3): 72: 1-12.   \n[11]Lipman Y,Chen X,DaubechiesI, et al. Symmetry factored embedding[J]. ACM Trans on Graph,2010,29 (4): 103:1-12.   \n[12] Riklin-Raviv T, Sochen N, Kiryati N. On symmetry, perceptivityand levelset based segmentation [J]. IEEE PAMI,2009,31: 1458-1471.   \n[13] Ovsjanikov M, Sun Jian, Guibas L. Global intrinsic symmetries of shapes [J].Computer Graphics Forum,2008,27(5): 1341-1348.   \n[14] Ovsjanikov M,Li W,Guibas L,et al. Exploration of continuous variability in collections of 3D shapes [J].ACM Trans on Graph,2011,30 (4): 33: 1- 10.   \n[15] Chertok M,Keller Y.A graph matching approach to symmetry detection and analysis $[ \\mathrm { C } ] / \\hbar$ Proc of Computational Intelligence Paradigms in Advanced Pattern Classification. 2012: 113-144.   \n[16] Kim V G,Lipman Y,Chen X,et al. Mobius transformations for global intrinsic symmetry analysis [J]. Computer Graphics Forum,2010,29 (5): 1689-1700.   \n[17] Zhang Z,YinKK,FoongKW C.Symmetry Robust Descriptor for Non - Rigid Surface Matching[C]/ Proc ofComputer Graphics Forum. 2013:355- 362.   \n[18] Zheng Q,Hao Z,Huang H,et al. Skeleton-Intrinsic Symmetrization of Shapes [C]//Proc of The Eurographs.[S.1.]:Association& John Wiley& Sons,Ltd. 2015: 275-286.   \n[19] Ovsjanikov M, Ben-Chen M, Solomon J,et al. Functional maps: a flexible representation of maps between shapes [J]ACM Trans Graph 2012;31 (4): 30.   \n[20] Zhang H,Shefer A,Cohen-Or D,et al. Deformation-driven shape correspondence [J]. Computer Graphics Forum,2008,27 (5): 1431-1439.   \n[21] Jain V, Zhang Hao, Van Kaick O.Non-rigid spectral correspondence of triangle meshes [J] International Journal of Shape Modeling,2007,13(1): 101-124.   \n[22] Van Kaick O,Zhang H, Hamarneh G.Bilateral maps for partial matching [J]. Computer Graphics Forum,2013,32 (2013):2,8.   \n[23] Tenenbaum JB,Silva VD,Langford JC.A global geometric framework for nonlinear dimensionality reduction [J].Science 2000,290 (5500):2319- 2323.   \n[24] Belkin M, Niyogi P.Laplacian eigenmaps for dimensionality reduction and data representation [J]. Neural Comput,2002,15:1373-1396.   \n[25] Yoshiyasu Y,Yoshida E.Symmetry aware embedding forshape correspondence [J]. Computers & Graphics,2016,60: 9-22.   \n[26] Myronenko A,Song X.Point set registration: coherent point drift [J]. IEEE Trans on Patter Analysis & Machine Intellgence,2010,32 (12): 2262.   \n[27] Sun J, Ovsjanikov M, Guibas L.A concise and provably informative multiscale signature based on heat diffusion [J].Graph Forum,20o9,28(5):1383- 1392.   \n[28] Litman R,Bronstein A M,Bronstein MM.Diffusion-geometric maximally stable component detection in deformable shapes [J]. Computers & Graphics, 2011,35 (3):549-560.   \n[29] Jain V,Zhang Hao,Van Kaick O.Non-rigidspectral correspondence of triangle meshes [J]. International Journal of Shape Modeling,13(1):101- 124.   \n[30] Van Kaick O,Zhang H,Hamarneh G.Bilateral maps for partial matching [J]. Computer Graphics Forum,2013,32:2,8.   \n[31] Gelfand N,Ikemoto L,Rusinkiewicz S,et al. Geometrically stable sampling for the ICP algorithm[C]//Proc of IEEE International Conference on 3-D Digital Imaging and Modeling.2003:260-267.   \n[32] Jain V, Zhang H. Robust 3D shape correspondence in the spectral domain [C]//Proc of IEEE International Conference on Shape Modeling and Applications.2006:19.   \n[33] Gelfand N, Ikemoto L,Rusinkiewicz S,et al. Geometrically stable sampling for the ICP algorithm[C]//Proc ofIEEE International Conference on 3-D Digital Imaging and Modeling.2003: 260-267. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

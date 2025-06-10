@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "A new mimotonidan Mina hui (Mammalia, Glires) from the Middle Paleocene of Qianshan, Anhui, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Chuan-Kui1 WANG Yuan-Qing' ZHANG Zhao-Qun1 MAO Fang-Yuan1 MENG Jin2 (1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofciences,InstituteofVertebrate Paleontology and Paleoanthropology,ChineseAcademy ofSciences Beijing l44,China lichuankui@ivpp.ac.cn) (2Division of Paleontology,American Museumof Natural History New York,NY10024,USA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Here we report a new genus and species,Mina hui gen. et sp. nov.,of basal Glires from the Middle Paleocene of Qianshan,Anhui, China.The new taxon is characterized by combination of the following characters: medium-sized mimotonidan; upper dental formula 2.0.3.3；dI2 transversely narrow and having smooth labial surface without longitudinal groove; M1 the largest cheek tooth and other cheek teeth decreasing in size considerably away from Ml so that the external margin of the upper cheek tooth row is distinctly arched labially; lingual side of upper molars unilaterally hypsodont and bearing no hypostria; hypocone being slightly distolingual to protocone; presence of a mesostyle; upper incisor with double-layered enamel structure; posterior border of anterior root of zygoma situated lateral to M1-2 and infraorbital foramen positioned low.M.hui is one of the earliest known Glires,co-existing with Heomys and Mimotona in Qianshan geographically and Middle Paleocene (ca. 61 Ma) chronologically. We consider that the Mimotonida would include two families: the monotypic Mimotonidae that contains Mimotona and Mimolagidae that includes Mimolagus,Gomphos,Anatolimys,Mina and possbly Amar aleator: Among known mimotonidans,Mimotona probably represents a primitive“morphotype” as the ancestor of lagomorphs,whereas Mimolagidae includes a side branch diverged from the clade evolved toward lagomorphs.Future research may show that Mimolagidae is not a natural group,and may possbly submerge into Mimotonida,or involve more than one family-level clade. The occurrence of Heomys,Mimotona and Mina from Qianshan show that Glires had already diversified by the Middle Paleocene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words Qianshan,Anhui; Paleocene; basal Glires,Mimotonidae,Mimolagidae ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Li C K,Wang Y Q, Zhang Z Q et al.,2016.A new mimotonidan Mina hui (Mammalia, Glires) from the Middle Paleocene of Qianshan,Anhui, China. Vertebrata PalAsiatica, 54(2): 121-136 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Glires Linnaeus, 1758 as a superordinal taxon includes two extant mammalian orders: Rodentia (rats, squirrels, guinea pigs,and relatives) and Lagomorpha (rabbits and pikas). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Members of both orders are characterized by possessing a pair of enlarged, evergrowing upper and lower incisors, respectively, in which enamel is primarily restricted to the buccal surface. The relationship of Rodentia and Lagomorpha has been a long-standing problem in mammalian systematics (Tullberg,1899; Gidley, 1912; Wilson,1949; Wood,1957; Dawson,1967; Landry, 1999; Luckett and Hartenberger,1985,1993; Li, 1977; Li and Ting,1985,1993; Novacek, 1985,1990; Jaeger, 1988; Meng and Wyss,2001, 2005; Meng et al.,2003; Asher et al.,2005). In addition to their sister-group relationship,each group has for a time been alied with other mammalian groups. Rodents were thought to be related to multituberculates, mixodectids, tillodonts and taeniodonts, primates,leptictids and eurymylids,whereas lagomorphs have been regarded relatives of triconodonts, artiodactyls,condylarths, zalambdodont insectivorans, pseudictopids,anagalids,macroscelidids, eurymylids, zalambdalestids and mimotonids, respectively (see Meng and Wyss,20o5 for references). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discoveries of Heomys and Mimotona from the Middle Paleocene of Qianshan, Anhui Province, China provided perhaps the most critical evidence for the origin and relationship of Glires. In reporting Heomys and Mimotona, the primary conclusion reached by Li (1977) was that Heomys was closely related to rodents primarily because, in addition to several other diagnostic craniodental features, it has one pair of enlarged upper incisors (presumably dI2 Lucket, 1985). In contrast, Mimotona was closely related to lagomorphs because, in addition to other craniodental features, it has two pairs of upper incisors, with the enlarged pair (dI2) followed by a pair of minor ones (I3). This view was further supported by later work (Li and Ting,1993) in which additional Mimotona specimens showed that the enlarged dI2 has a longitudinal groove on the labial surface,a typical lagomorph feature. These studies on Heomys and Mimotona and on other Asian Paleocene-Eocene Glires have refocused the discussion about Glires origin on the Asian record during the last a few decades. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Until now, five Glires species have been reported from the Paleocene of Qianshan, including Heomys sp.,H. orientalis,Mimotona wana, M. robusta,and M. lii. Reported specimens of these species were collected from three horizons. Heomys sp. (IVPP V 4323; Li, 1977),Mimotona wana (V 4326; Li, 1977) and M. li (V 4327; Dashzeveg and Russel, 1988) were discovered from the lower part of the Upper Member of the Wanghudun Formation, representing the earliest known record of unambiguous Glires. M. robusta (V 4329; Li, 1977) was from the Lower Member of the Doumu Formation, which overlies the Wanghudun Formation. Heomys orientalis (V 4321, V 4322 and V 4331; Li, 1977) and Mimotona wana (V 4324, V 4325.1, V 4325.2 and V 4328,Li, 1977; V 7416 and V 7416.1,Li and Ting, 1993) were from the Upper Member of the Doumu Formation. Their geological age ranges from the late Early through Middle Paleocene (Wang et al., 2O16). Outside of the Qianshan Basin but also in Anhui Province, Mimotona sp. (V 11359) was discovered from the Late Paleocene Tujinshan Formation of Mingguang City (previously known as Jiashan County) (Huang, 2003). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "New specimens, including those of Heomys and Mimotona, have been collected from both Wanghudun and Doumu formations since the work of Li and Ting (1993). Here we report a new genus and species of basal Glires, represented by two fragmentary specimens collected from the upper part of the Upper Member of the Wanghudun Formation. The new form enriches the diversity of the earliest Glires from the Qianshan Basin and provides additional evidence for understanding the origin of Glires. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For higher-level taxonomy we follow McKenna and Bell (1997).“Mimotonida” may well be a paraphyletic group, as shown in some phylogenetic analyses (Meng et al., 2O03; Asher et al., 20o5; O'Leary et al., 2013), but before a better phylogeny and taxonomy including the most basal Glires become available,it is still convenient to use“Mimotonida\"to refer the basal Glires that have two pairs of incisors in both upper and lower dentitions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GliresLinnaeus,1758 DuplicidentataIlliger, 1811 “Mimotonida”Li, Wilson, Dawson&Krishtalka,1987 MimolagidaeSzalay,1985 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Type genus Mimolagus Bohlin,1951. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisMimotonidans with two pairs of upper incisors; larger than Mimotona; dI2 without groove on the anterior surface (primitive), cheek teeth square-shaped, less hypsodont than eurymylids, conical cusps with relatively weak crests,where known, the posterior border of anterior root of the zygomatic arch located more anteriorly than in Mimotona. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Included generaMimolagus (Bohlin, 1951), Gomphos (Shevyreva et al., 1975; Zhegallo and Shevyreva,1976; Dashzeveg and Russell, 1988), Anatolimys (Shevyreva,1994; Averianov, 1994,1998),Mina gen. et sp. nov., and possibly Amar (Dashzeveg et al.,1987). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Distribution The Paleogene,Asia. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CommentsThe use of Mimolagidae is tentative,as we elaborate in some details in the discussion. The main feature to set mimolagids apart from Mimotona in basal duplicidentates is absence of the longitudinal groove on the labial surface of dI2. This feature is likely plesiomorphic for Glires; thus it is probable that mimolagids may not form a natural group. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mina gen. nov. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Type speciesMina hui gen. et sp. nov., the only species of the genus. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EtymologyThe genus name is dedicated to Prof. Minchen Chow (Zhou Ming-Zhen) in recognition of his contributions to the study on Chinese Paleocene biostratigraphy and mammalian fauna. Min, derived from what his family called him affectionately. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisMedium-sized mimotonidan (with M1 length and width being 2.2 and $2 . 9 9 ~ \\mathrm { m m }$ , respectively); upper dental formula 2.0.3.3.Differs from eurymylids and rodents in having two pairs of upper incisors. Differs from Mimotona and lagomorphs in having transversely narrow dI2 with smooth labial surface (no longitudinal groove). Differs from other mimotonidans in having transversely narrow dI2 and I3; M1 (probably P4 as well) the largest cheek tooth and the other cheek teeth decreasing size remarkably away from P4-M1 so that the external margin of the upper cheek tooth row is distinctly arched labially; lingual side of upper molars sub-hypsodont but bearing no hypostria; hypocone being distolingual to protocone; presence of a mesostyle; upper incisor with double-layered enamel; posterior border of anterior root of the zygoma situated lateral to M1/2 and the infraorbital foramen positioned low. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mina hui sp. nov. ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Figs. 1-3) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HolotypeA partial right rostrum with dI2 and I3 (IVPP V 7509.1) and a fragmentary left maxilla with M1, M2 and alveoli of P2-4 (V 7509.2). They were found in a small (mugsized) block of rock when collected. Because they have comparable sizes,gliroid dental morphologies, and similar distinctive sutures in each specimen showing a similar ontogenetic stage,we consider them probably from the same young adult individual. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizonFujiashanzui, Gujing, Qianshan County,Anhui Province; the upper part of the Upper Member of Wanghudun Formation; early Middle Paleocene (Wang et al., 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Etymology The species name is in memory of the late Dr. Yaoming Hu who made a great contribution to the collection of Qianshan Paleocene mammals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis Same as for the genus. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Measurements of teeth (length/width in mm; $\\ast =$ estimated from the alveolus)dI2,4.05/1.76; 13, 2.36/1.09; P2, $1 . 3 3 ^ { * }$ ； P3, $1 . 5 0 / 3 . 0 6 ^ { * }$ ； P4, $1 . 9 1 ^ { * } / 4 . 3 0 ^ { * }$ ; M1,2.52/2.99; M2,2.39/2.60.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Description The partial rostrum (V 75O9.1) has the anterior external parts of the maxilla and premaxilla preserved (Fig.1A-D). The dI2 and I3 were preserved in their anatomical position and exposed medially because of the breakage (Fig. 1B). In lateral view, a zigzag suture between premaxilla and maxilla is distinctive and runs dorsoventrally, differing from Mimotona and lagomorphs in which the suture is curved anteriorly and then far backward to forma slender wedge-like posterodorsal process of the premaxilla. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The general shape of dI2 is similar to that of rodents rather than lagomorphs, in being a gentle arc (about one third of a circle) and extending posteriorly into the maxilla instead of being contained within the premaxilla. The cross section of dI2 is roughly an elongated oval. Compared to the mesiodistal length of the tooth, dI2 is transversely narrow.The width-tolength ratio of dI2 is 0.44,considerably less than that of Mimolagus (0.60-0.63) and Gomphos elkema (0.67) (Fostowicz-Frelik et al.,2015). The pulp cavity in the tooth tip is a slit that nearly bisects the dentin (Fig.1D,E). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The labial surface of dI2 is smooth and lacks a longitudinal groove (Fig. 1C); thus it differs from that of Mimotona and lagomorphs.The enamel band primarily covers the mesiolabial surface, with only a narrow strip visible on the medial surface of dI2 (Fig.1A, B). The wear facet on the tip of dI2 has two parts.The mesial one is small, uneven and orientated more steeply, whereas the distal one is large (long) and concave (Fig.1E). I3 is separated from dI2 by a diastema of $1 . 3 ~ \\mathrm { m m }$ and rooted completely within the premaxilla. It is transversely compressed (see Measurements). A very thin, if any, enamel covers the“crown” but not the “root” which is lighter in color, although there is no distinct boundary between the two portions. In occlusal view, I3 bears wear at least on its mesial part, suggesting that the tooth was somewhat functional. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "V 7509.2 is a fragmentary left maxilla with a small part of the palatine attached. The anterior root of the zygomatic process of the maxilla was also preserved, which is lateral to M1-2.In lateral view, the infraorbital foramen, although broken, is large and measures $1 . 4 \\mathrm { m m }$ in diameter; its position is near the level of the tooth alveolus,lower than that of Mimotona and Gomphos (Li and Ting,1993; Asher et al.,2005). The anterior surface of the zygomatic process gradually converges to the snout, showing no indentation at the transition. The posterior border of the anterior root of the zygomatic process appears to have an acute angle to the longitudinal line of the skull, contrasting to a more open angle in Mimotona (Fig. 1G). The posterior margin of the anterior root aligns with the distal half of M1, similar to that of Gomphos. In ventral view, the palatine-maxillary suture is distinct and the palatine extends anteriorly at least to the level of P3.The palate foramen is sizable and levels with the M1-2 junction.A narrow groove leads anteriorly from the foramen on the palatine. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The maxilla preserves M1-2 and the alveoli of P2-4. The maxilla posterior to M2 was broken (no alveolus preserved). However, on the distal surface of M2 there is a distinct contact facet for M3,which justifies our identification of M1-2 and the upper cheek tooth formula. The general pattern of the upper dentition is that P4 and M1 are transversely wide and other cheek teeth reduce size mesially or distally away from P4-M1.Because of this, the cheek teeth series appears proportionally short in length. The total alveolus length of P2-M2 is $9 . 6 4 \\mathrm { m m }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the alveoli it can be estimated that P2 is a circular and bud-like tooth with one root. P3 and P4 are mesiodistally short and transversely wide. Judging from the alveoli, P4 appears as wide as or slightly narrower than M1. The width ratio of M1 to M2 is $1 1 5 \\%$ (2.99/2.60), whereas in Mimotona wana(V 75o0) it is $102 \\%$ (2.80/2.75). The same ratio of P4 to P3 is $141 \\%$ (4.30/3.O6,measurements of alveoli) for Mina hui and $10 \\%$ (1.88/1.76) for $M .$ wana (V 7500). These ratios show that the size reduction of cheek teeth (mesially away from P4 and distally from M1) is proportionally more significant in Mina than in Mimotona and Gomphos. Thus,the external outline of the dentition of Mina is strongly arched labially (Fig. 1F), in contrast to a gentle curve in Gomphos and Mimotona (Fig.1G). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2f7e7084603e3c022354172046f078b867b92a513a6e2825fe879ebf0321a4e.jpg",
+        "img_caption": [
+            "Fig.1 The holotype of Mina hui and comparison with Mimotona wana A-E.Mina hui (IVPP V 7509.1): A. lateral view of the right rostrum showing the maxilla-premaxillary suture,B. medial view of the broken rostrum showing the exposed dI2 and I3,C.anterior view showing no longitudinal groove,D.occlusal (ventral) view of the rostrum showing the cross outline of the upper incisors,E.the wear facet of the upper incisor;F.Mina hui(V7509.2):occlusal viewof the left palate and M1-2; G.occlusal view of Mimotona wana (IVPP V 75o0) for comparison "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the description of upper molars below, we follow Zhou et al.'s (1975) suggestion in using the terminology for tooth crown structures that is illustrated in Fig. 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The occlusal outline of M1 is in a rounded square shape. The tooth shows some degree of hypsodonty on the lingual side,and the tip of the protocone is more labially positioned than that of Mimotona and Gomphos (Figs.1F, 2). There is no hypostria along the lingual surface of M1, nor are labial and lingual cingula. In occlusal view, the protocone is subequal to the hypocone and more labial than the latter, but is higher than the hypocone.The preprotocrista extends from the protocone to the lingual side of the paracone.A narrow mesial cingulum, lower than the preprotocrista, extends from the protocone to the anterolabial corner of the tooth.There is no indication of paraconule. The paracone and metacone are labially positioned and separated by a rounded mesostyle that blocks the labial side of the trigon basin. The basin is transversely long and bears no structure and is broader than that of Mimotona or Gomphos. The paracone is transversely wider than mesiodistally long, with the labial side being wider and rounded. The labial border of the metacone is slightly lingual to the paracone and mesostyle. The metacone is smaller than the paracone; it is oval in occlusal view and bears a wear facet on its tip. Differing from Mimotona and Gomphos,the metaconule of Mina is as large as the metacone, but not as tall. Lingually, the metaconule is separated from the protocone by a narrow gap,whereas its labial base is confluent with the lingual base of the metacone. The hypocone is slightly lower than the protocone and extends labially as the postcingulum that gradually narrows labially and terminates at the distal side of the metacone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M2 is narrower than M1, with the distal occlusal outline of the tooth being a broad curve convex distally (Figs.1F,2).Although the general pattern of M1 observed, all the cusps and ridges of M2 are transversely shorter and the lingual side of M2 is proportionally longer in relation to M1.The metacone is equal to the metaconule in size and the mesostyle is miniscule on M2. The metaconule has a weak connection with the protocone. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4616e6148a798abb41e7ecbc1f93b65ebb625556a46b8b7ce2281c54c64f4050.jpg",
+        "img_caption": [
+            "Fig.2 Occlusal view ofM1-2 of Mina hui (IVPPV 7509.2) A. The photograph of M1-2 of M. hui in occlusal view; B. Stippling and line drawing showing terminology for the upper molar crown structures of M. hui Abbreviations: hy. hypocone; me. metacone; mel. metaconule; mss. mesostyle; pa. paracone; pog. postcingulum; pr. protocone; preprc. preprotocrista; trb. trigon basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Despite the many cracks on the cross-section of the investigated dI2, the general morphology of the enamel microstructures is still recognizable in cross section (Fig. 3A, C) and longitudinal section (Fig.3B,D). The enamel is about $2 0 0 ~ { \\mu \\mathrm { m } }$ thick from the enamel-dentine junction (EDJ) to the outer enamel surface (OES) and has double-layered schmelzmuster with Hunter-Schreger bands (HSB) in the inner layer of enamel (the portio interna,PI). In the cross-section,it is clear that the inner and outer layers are subequal in thickness. In longitudinal section,the HSBs are distinctive; they are generally 3-6 prisms wide and as long as about half thickness of the enamel,but the width and length are irregular. The ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b2f8a5e14bb61c7e7196487a10df6dd55aa242284be8d243b81a49d0a5fa202.jpg",
+        "img_caption": [
+            "",
+            "Fig.3The enamel structures of the right dI2 of Mina hui (IVPP V 7509.1, holotype) A.The cross section showing the general shape with many cracks; B.The longitudinal section; C. The close-up view of the cross section showing the prism and interprismatic matrix (IPM); D.The close-up view of the longitudinal section showing the HSBs in the inner layer and the radial enamel in the outer layer of incisor enamel, roughly divided along the dashed line. See also Mao et al.(2016) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HSB shave a small inclination angle to the EDJ and transition zones between HSBs are present (Fig.3D). The outer layer of enamel (the portio externa,PE) consists of radial enamel. There is no clear boundary between HSB of PI and the radial enamel of PE.The detailed description of the enamel microstructure and an in-depth discussion about its significance are presented in Mao et al. (2016). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Comparison with HeomysAlthough two pairs of upper incisors can distinguish Mina hui from allthe simplicidentate glires (only one pair of incisors in both upper and lower dentitions), it is still worth comparing Mina with Heomys from roughly the same stratigraphic level in the Qianshan Basin. The general morphology of upper molars of these two genera is similar. Their buccal cusps, paracone and metacone, are blunt and rounded, and both have a large metaconule instead of a metaloph. On the other hand, the cranial and dental morphologies show distinct differences that can distinguish Mina from Heomys. Based on the molar size, Heomys orientalis is distinctly smaller than Mina hui. In the lateral view of the maxilla or anterior part of skull the infraorbital foramen is positioned relatively much higher in Heomys than that in Mina.H.orientalis has only two premolars,whereas $M .$ ，hui has three premolars. Compared with Mina,P3-M1 in H.orientalis are less transversely widened so that the external outline of the upper dentition is less arched labially. M1 of Heomys is relatively wider and forms a rhomboidal shape with the paracone area extending anterobuccally. The distal half of M2 is proportionally less reduced. The hypocone shelf of Heomys molars extends slightly more lingually and the mesostyle is smaller. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Taxonomy of traditional mimotonidsAmong the basal non-rodent and nonlagomorph Glires, Mina hui is taxonomically assignable to the traditional Mimotonidae within Duplicidentata instead of Eurymylidae within Simplicidentata, regardless whether or not each of the two clades is monophyletic, simply because M. hui possesses two pairs of upper incisors, one of the critical diagnostic features that distinguish Mimotonidae from Eurymylidae. Thus, our discussion will focus on M. hui as a member of basal duplicidentatans,including those commonly placed in the traditional Mimotonidae or Mimotonida. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After the proposal of Mimotonidae (Li, 1977), different points of view on the content of the family emerged, some of which have been discussed by Averianov (1998). The family was considered variously to consist of four genera (Mimotona,Mimolagus, Gomphos, and Hypsimylus) (Li and Ting,1985), two genera (Mimotona and Gomphos) (Dashzeveg and Russell, 1988), 5 genera (Mimotona, Mimolagus, Gomphos, Hypsimylus and ?Tsaganolagus wangi) (Li and Ting, 1993) or six genera (\"Anatolmylus”,Aktashmys,Mimotona, Gomphos, Zagmys,and Mimolagus) (Averianov, 1994). McKenna and Bell (1997) included Mimotona, Mimolagus and Anatolimys ( $\\fallingdotseq$ Anatolmylus,see below) in the family Mimotonidae.Averianov (1998)realized that “Anatolmylus” rozhdestvenskii Averianov, 1994 and “Romanolagus” hekkeri Shevyreva,1995 (placed in Palaeolagidae), both from the Early Eocene Andarak 2 locality in Kyrgyzstan, are junior subjective synonyms of Anatolimys rozhdestvenskii Shevyreva, 1994. Anatolimys was originally placed in Eurymylidae by Shevyreva,1994, but Averianov (1998) regarded it as a member of Mimotonidae. In a more recent study, Averianov and Lopatin (20o5) considered Aktashmys as a lagomorph, with Valerilagus reshetovi Shevyreva,1995 from the same locality (Andarak 2 locality in Kyrgyzstan) being a junior synonym, and placed Aktashmys in a new family Strenulagidae Averianov & Lopatin, 2005, that is based on the genus Strenulagus Tong &Lei, 1987. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dashzeveg and Russell (1988) considered Hypsimylus beijingensis Zhai, 1977 not to be a mimotonid, differing from the view of Li and Ting (1985),and placed it in a new subfamily Hypsimylinae under Eurymylidae.McKenna and Bell (1997) placed Hypsimylus within Leporidae, whereas Averianov (1998) recognized Hypsimylus as Lagomorpha incertae familiae. The lagomorph affinity of Hypsimylus was supported by Meng and Hu (2004) in a study based on additional material from Nei Mongol. Averianov (1998) provisionally referred $H .$ beijingensis to Dituberolagus venustus Tong,1997,a species originally assigned to ?Leporidae as to Mimotonidae. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bleefeld and McKenna (l985) and Dashzeveg and Russell（1988) favored a true lagomorph membership for Mimolagus, whereas Averianov (1998) endorsed Li and Ting (1985) to assign Mimolagus to Mimotonidae, which was followed by Fostowicz-Frelik et al. (2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our view Zagmys, Dituberolagus and Tsaganolagus tentatively assigned to Mimotonidae in earlier studies, should be removed from the family. Zagmys insolitus Dashzaveg et al., 1987 was based on a fragmentary mandible with the talonid of p4 and a complete m1. Although the mandible contains an elongated lower incisor, which indicates its affinity with Glires, ml of Zagmys is quite tribosphenic, possessing a distinctive paraconid on the trigonid and three cusps (hypoconid, entoconid and hypoconulid) on the talonid. This lower molar morphology differs from those of any known mimotonids. In addition, the preserved mandible,lateral to the alveolus of the lower incisor, does not show any sign of i3 and the enamel microstructure of the incisor is a single layer. Those differ significantly from mandible of mimotonids (Li,1977; Li and Ting,1993; Meng et al., 2004; Asher et al., 2005). Thus, we think Zagmys insolitus is unlikely a mimotonid and should be considered as Glires incertae sedis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dituberolagus venustus Tong, 1997 was based on several isolated lower teeth from the Middle Eocene (Irdinmanhan) Hetaoyuan Formation, Henan.A peculiar feature is the twin cusps of the protoconid and metaconid on the lower molars. Averianov(1998) remarked that the teeth of $D$ . venustus are noticeably similar to upper molars of Aktashmys montealbus, which constituted parts of the argument to refer $D$ .venustus to Mimotonidae at the time. With the reassignment of Aktashmys to the lagomorph family Strenulagidae, as discussed above, there is no sufficient evidence to keep $D$ .venustus in Mimotonidae. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tsaganolagus wangi was tentatively listed under Mimotonidae (Li and Ting, 1993) because of its oval-shaped outline of the upper molar crown after considerable wear. Reexamination of the type specimens convinced us that the taxon has hypsodont teeth and the lower cheek teeth are of the typical lagomorph tooth morphology. T. wangi should be assigned to Lagomorpha. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Divergence of mimotonidans and MimolagidaeWe consider the following genera to be reliably assignable to the“Mimotonida\": the Paleocene Mimotona (Li,1977) and Mina (this study), the Eocene Gomphos (Shevyreva et al., 1975; Zhegallo and Shevyreva,1976; Dashzeveg and Russell, 1988), Anatolimys (Shevyreva, 1994; Averianov, 1994, 1998), and the Eocene-?Oligocene Mimolagus (Bohlin,1951; Fostowicz-Frelik et al.,2015).A recent work shows that the temporal distribution of known Mimolagus is only in the Eocene (Zhang and Wang,2016). Nine species were known previously (see Fostowicz-Frelik et al., 2015 for a review). Mina from the Middle Paleocene, coeval with Mimotona and Heomys,represents another earliest known basal Glires and suggests an early diversification of Glires. With the two pairs of upper incisors, it is readily referable to “Mimotonida\". ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the new data accumulated since Li and Ting (1993), it seems that members of “Mimotonida” may contain two groups (or clades） that have different evolutionary trends. One group includes Mina, Gomphos,Anatolimys and Mimolagus,which is characterized by relatively larger size,dI2 with smooth enamel surface,and the posterior border of the anterior root of the zygoma aligned anterior to M2. Mimotona, on the other hand, stands alone as a taxon that is characterized by smaller size, has a distinctively grooved dI2 (a feature shared with lagomorphs),and the posterior border of anterior root of the zygoma is positioned lateral to M2/3.This division raises a taxonomic issue: whether it is necessary to recognize the family Mimolagidae within Mimotonida (Li et al., 1987). When comparing the foot structure of Mimolagus with that of Palaeolagus, Szalay (1985:120) noted: “Pal[a]eolagus is primitive among the leporoid lagomorphs (including leporids and ochotonids, in juxtaposition to Mimolagus which should be placed in a family of its own, the Mimolagidae)\". The family was not formally diagnosed, nor was it used in his classification of Glires (Szalay,1985). The same family name was used by Erbajeva (1986) and “Mimolagidae Erbajeva,1986” was further cited as one of five families of Lagomorpha (Erbajeva et al.,2O11). The other four families are Leporidae Gray,1821,Palaeolagidae Dice,1929,Prolagidae Gureev,1960,and Ochotonidae Thomas,1897. McKenna and Bell (1997:108), however, did not recognize Mimolagidae, but placed the name under Mimotonidae. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "If we follow the definition of Lagomorpha as “the clade stemming from the most recent common ancestor of Ochotona and Leporidae”(Wyss and Meng, 1996; Meng and Wyss, 2005), then there is no phylogenetic support for placing Mimolagidae in Lagomorpha. In fact, there has been no phylogenetic analysis that involved all the taxa that were taxonomically included in Mimotonidae. On the other hand, previous phylogenetic analyses that included selected mimotonid species often recognized mimotonids as a paraphyletic group (Meng et al.,2003; Asher et al., 2005). At present, it is premature to recognize Mimolagidae as a natural group, but this possibility cannot be ruled out. A systematic review of the existing Paleocene and Eocene basal Glires would be necessary to resolve this issue. However, in reflecting the new evidence accumulated recently (Fostowicz-Frelik et al., 2015; this study), we tentatively use Mimolagidae and provide a taxonomic diagnosis for the group in this study. In our taxonomic system, Mimotonida (Li et al.,1987) contains two families: the monotypic Mimotonidae that includes Mimotona and Mimolagidae (Szalay,1985; Erbajeva, 1986) that consists of Mina, Gomphos,Anatolimys and Mimolagus. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Amar aleator from the Late Paleocene Zhigden Member of the Naran-Bulak Beds, Tsagan-Khushu, Mongolia was originally placed in Eurymylidae (Dashzeveg and Russell, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1988),but this species, only two upper molars collected (M1-M2),bears some dental similarities with Gomphos and Mina in being relatively larger, unilaterally high crowned with less crested cusps.Therefore,there is the possibility that Amar may be placed in Mimolagidae, but this needs to be tested with better material with incisors preserved. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When Mimotona was named, Li (1977) already recognized the similarities between it and lagomorphs, although at the time presence of I3 was not certain (see also Li and Ting, 1985). Additional material confirmed presence of two pairs of upper incisors in Mimotona (Li and Ting,l993), which further supported the view of \"mimotonids” as a basal group of Lagomorpha. In our view, Mimotona has relatively lophodonty molar morphology compared to other mimotonidans and has a grooved dI2,a derived feature shared with lagomorphs; it is more probable that Mimotona represents a primitive “morphotype” as the ancestor of lagomorphs, whereas genera of Mimolagidae were specialized and may represent a side branch that diverged in the Paleogene from the clade leading to lagomorphs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "General remarksBased on morphologies of Heomys and Mimotona and other early Glires,the most common view now is that Glires consists of two sister clades: Simplicidentata and Duplicidentata. Simplicidentata is defined as all Glires sharing a more recent common ancestor with Rodentia than with Lagomorpha, whereas Duplicidentata is defined as all members of Glires sharing a more recent common ancestor with Lagomorpha than with Rodentia (Meng and Wyss,2Oo5). Taxa with one pair of upper incisors, such as Heomys, have been considered as stem members of Rodentia and often placed in the group eurymylids. Those with two upper incisors, such as Mimotona,are stem members of Lagomorpha and are commonly grouped as mimotonids. Both eurymylids and mimotonids are probably paraphyletic although some eurymylids may form a monophyletic group (Meng et al., 2003; Asher et al., 2005; Meng and Wyss,2005). Phylogenetic relationships based on different morphological and/or molecular data sets do not always reflect the traditional classifications of Simplicidentata and Duplicidentata, because some eurymylids were placed as basal members at the clade containing lagomorphs (Meng et al.,2003; Asher et al.,2005). There is no case to our knowledge, however, that a mimotonid species was clustered with the clade containing rodents. Although inconsistencies exist in the phylogeny and taxonomy of Glires, the monophyly of Glires generally holds. Given the monophyly of Glires, Heomys and Mimotona from Qianshan show that the diversification of the group was as early as the late Early Paleocene. Because Glires were commonly nested within Placentalia (e.g., O'Leary et al.,2013), their occurrence suggests that other related placental groups had also diversified by at least the Middle Paleocene. In addition, Heomys,Mimotona and Mina from Qianshan show that the earliest members of the larger group had a sympatric distribution and displayed a similar stage of morphological specialization in general dental morphology. Their enamel microstructures display more diverse morphologies, as shown here and the related study (Mao et al.,2016). We expect that a thorough analysis involving new specimens of Heomys and Mimotona and other known eurymylids and mimotonids will be conducted to further our knowledge on the early evolution and phylogeny of Glires. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsWe are grateful to Yu Ben'ai and Li Dingsheng of the Qianshan County Museum,Anhui, Xie Shuhua and Zhou Xiaoyuan of IVPP for their assistance in the field work. We appreciate Dr. Mary R. Dawson of the Carnegie Museum of Natural History, Pittsburgh, USA and Dr. Lawrence J. Flynn of the Harvard University, Cambridge, USA for their helpful review comments. Thanks also go to Gao Wei for taking specimen photos. This work was supported by the Major Basic Research Projects of MST of China (No.2012CB821900) and the National Natural Science Foundation of China (Nos. 41404022, 41572013, 41572021). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "安徽潜山中古新世一新的模鼠兔类",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "李传夔’王元青’ 张兆群」毛方园’孟 津21(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2 美国自然历史博物馆古生物部 纽约10024)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "摘要：命名了中古新世的一个啮型类新属种——胡氏敏兽(Mina hui gen.et sp.nov.)。新属种的正型标本为可能属于同一个体的前颌骨和上颌骨，采自安徽省潜山县古井乡傅家山嘴中古新统望虎墩组上段上部。属名来源于周明镇先生的曾用名周敏，以纪念他对我国古新世生物地层和哺乳动物研的杰出贡献；种名源自胡耀明博士，他为潜山哺乳动物的采集和研究做出过重要贡献。胡氏敏兽的特征如下：中等大小的模鼠兔类，上齿列齿式2-0-3-3;第一对门齿(dI2)增大，无齿根、终生生长，釉质层双层，仅限于唇侧，表面无纵向浅沟；上颊齿列外缘显著凸出；颧弓前根后缘位于M1-M2之间，眶下孔位置低。以传统的模鼠兔目(Mimotonida)而论，它包括两个科：单型科模鼠兔科(Mimotonidae)只有模鼠兔(Mimotona)一属；模兔科(Mimolagidae)则包括模兔(Mimolagus),Gomphos,Anatolimys,敏兽和可能的Amar。在已知模鼠兔类中，模鼠兔很可能代表原始的兔形类祖先的“形态型”，而模兔科则代表向兔形类进化的分支上分化出来的旁枝。晓鼠(Heomys)、模鼠兔和敏兽的共存说明啮形类在中古新世时已经分化。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "关键词：安徽潜山，古新世，原始啮型类，模鼠兔科，模兔科中图法分类号：Q915.873 文献标识码：A 文章编号：1000-3118(2016)02-0121-16",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Asher R,Meng J, Wible JR et al.,20o5.Stem Lagomorpha and antiquityof Glires.Science,307: 1091-1094 AverianovAO,1994.EarlyEocene mimotonidsof Kyrgyzstanand the problemof Mixodontia.ActaPalaeontPol,39(4): 393-411 Averianov AO,1998.Taxonomic notesonsome recentlydescribed Eocene Glires (Mammalia).Zoosyst Ros,7(l):205- ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "208   \nAverianov A O,Lopatin A V,2005.Eocene lagomorphs (Mammalia)of Asia:1.Aktashmys (Strenulagidae fam. nov.). Paleont J,39(3): 308-317   \nBlefeld A R,McKenna MC,1985.Skeletal integrityof Mimolagus rodens (Lagomorpha,Mammalia).Am Mus Novit, 2806: 1-5   \nBohlin B,1951.Some mammalian remains from Shih-ehr-ma-ch'eng,Hui-hui-p'uarea, western Kansu.Rep Sino-Swed Exp Publ,35,Vert Palaeont,5: 1-47   \nDashzeveg D,Russell DE,1988.Palaeocene and Eocene Mixodontia (Mammalia, Glires)of Mongolia and China. Palaeontology,31: 129-164   \nDashzeveg D,RussellDE,FlynLJ,1987.New Glires (Mammalia)from the Early Eoceneof People's Republic of Mongolia.Part I: description and systematics. Proc K Ned Akad Wet, Ser B,90(2): 133-142   \nDawson M R,1967.Lagomorph history and the stratigraphic record.In: Teichert C,Yochelson E L eds.Esys in Paleontology and Stratigraphy. Univ Kansas,Spec Publ, 2: 287-316   \nErbajeva MA,1986.Thelate Cenozoic faunistic complexes ofTransbaikalia with special referenceto the micromammalia. Quart Palaeont, 6: 25-28   \nErbajeva MA,MeadJI,Alexeeva NVet al.,2011.Taxonomic diversityof late Cenozoic Asianand North American ochotonids (an overview). Palaeont Electron,14(3); 42A: 1-9   \nFostowicz-Frelik L,LiC K,MaoFYetal.,2015.Alarge mimotonid from the Midle Eoceneof China sheds light on evolution of lagomorphs and their kin. Sci Rep,5: 9394,doi: 10.1038/srep09394   \nGidley JW,1912.The lagomorphs as an independent order. Science,36: 285-286   \nHuang X S,20o3.Mammalian remains from the Late Paleocene of Jiashan,Anhui. VertPalAsiat, 41(1): 42-54   \nJaeger JJ,1988.Rodent phylogeny:new dataandoldproblems.In:BentonMJed.ThePhylogenyandClasificationof the Tetrapods,Vol. 2. Mammals. Oxford: Clarendon Press.177-199   \nLandry S O Jr,1999.A proposal for a new clasification and nomenclature for the Glires (Lagomorpha and Rodentia). Zoosyst Evol, 75(2): 283-319   \nLi C K,1977.Paleocene eurymyloids(Anagalida,Mammalia)of Qianshan,Anhui.Vert PalAsiat,15(2):103-118   \nLiCK,Ting SY,1985.Posible phylogenetic relationshipsof eurymylids and rodents, with comments on mimotonids.In: Luckett WP,Hartenberger J-L eds.Evolutionary Relationships Among Rodents:A Multidisciplinary Analysis.New York: Plenum Press. 35-58   \nLiCK,TingSY,993.Newcranialandposteranial evidencefortheaffnitiesoftheeurymylids (Rodentia)andmimotonids (Lagomorpha). In: Szalay F S,Novacek MJ, McKenna M C eds. Mammal Phylogeny: Placentals.New York: Springer. 151-158   \nLi C K,Wilson R W,Dawson MR et al.,1987.The origin of rodentsand lagomorphs.In: Genoways HHed.Current Mammalogy 1. New York: Plenum Press.97-108   \nLuckettWP,1985.Superordinaland intraordinal affinitiesof rodents:developmental evidence from the dentitionand placentation.In: LuckettWP,Hartenberger J-Leds.Evolutionary Relationships AmongRodents:AMultidisciplinary Analysis. New York: Plenum Press.227-276   \nLuckett WP,HartenbergerJL,1985.Evolutionary relationshipsamong rodents:commentsandconclusions.In:LuckettWP, Hartenberger J-L eds.Evolutionary Relationships Among Rodents: A Multidisciplinary Analysis.New York: Plenum Press. 685-712   \nLuckett WP,Hartenberger JL,1993.Monophylyor polyphylyof the order Rodentia: possble conflict between morphological and molecular interpretations.JMammal Evol, 1(2):127-147   \nMao FY,Li C K, Wang YQ et al.,2016.The incisor enamel microstructure of Mina hui (Mammalia, Glires)and its implication for the taxonomy of basal Glires.Vert PalAsiat, 54(2):137-155   \nMcKenna MC,BellSK,1997.ClassificationofMammals Above the Species Level.New York: Columbia UniversityPres. 1-631   \nMeng J,HuYM,2004.Lagomorphs from the Yihesubu Upper Eocene of Nei Mongol (Inner Mongolia). VertPalAsiat, 42(3): 261-275   \nMeng J,WyssAR,20o1.ThemorphologyofTribosphenomys (Rodentiaformes,Mammalia):phylogeneticimplicatios for basal Glires. JMammal Evol, 8(1): 1-71   \nMeng J,WyssAR,205.Glires (Lagomorpha,Rodentia).In:RoseKD,ArchibaldJDeds.TheRiseofPlacentalMammals. Baltimore: The Johns Hopkins University Press.145-158   \nMeng J,Hu YM,Li C K,2003.The osteologyof Rhombomylus (Mammalia,Glires)and its implication for Glires systematics and evolution. Bull Am Mus Nat Hist, 275: 1-247   \nMeng J,BowenGJ,YeJetal.,2O04.Gomphos elkema(Glires,Mammalia)from the Erlian Basin: evidence for the Early Tertiary Bumbanian Land Mammal Age in Nei-Mongol, China.Am Mus Novit,3425: 1-24   \nNovacekMJ,1985.Cranial evidence forrodentaffinities.In:LuckettWP,HartenbergerJ-Leds.EvolutionaryRelationshps Among Rodents: A Multidisciplinary Analysis.New York: Plenum Press.59-81   \nNovacek M J,1990.Morphology, paleontology,and the higher clades of mammals.In: Genoways H H ed.Current Mammalogy 2.New York: Plenum Press.507-543   \nO'Leary MA,Bloch JI,Flynn JJet al.,2013.The placental mammal ancestor and the post $\\mathbf { \\nabla } \\cdot \\mathrm { K - P g }$ radiation of placentals. Science,339: 662-667   \nShevyreva N S,1994.First findof an eurymylid (Eurymylidae,Mixodontia, Mammalia) in Kirghizia.Dokl Akad Nauk SSSR,338: 571-573   \nShevyreva N S,1995.The oldest lagomorphs (Lagomorpha,Mammalia)of Eastern Hemisphere.Dokl Akad Nauk SSSR, 345: 377-379   \nShevyreva N S,Chkhikvadze VM,Zhegall VI,1975.New data on the vertebrate fauna of the Gashato Formation, Mongolian People's Republic.Bull Georgian Acad Sci,77: 225-228   \nSzalayFS,985.Rodent and lagomorph morphotype adaptations,origins,and relationships: some postcranial aributes analyzed.In: Luckett WP,Hartenberger J-L eds.Evolutionary Relationships Among Rodents: A Multidisciplinary Analysis.New York: Plenum Press.83-132   \nTong Y S,1997.Middle Eocene smal mammals from Liguanqiao Basin of Henan Province and Yanqu Basin of Shanxi Province,central China. Palaeont Sin,New Ser C,26: 1-256   \nTong Y S,LeiY Z,1987.Fosil lagomorphs (Mammalia)from the Hetaoyuan Eocene of Xichuan, Henan. VertPalAsiat, 25(3): 208-211   \nTullberg T,1899.Ueber das System derNagethiere: eine Phylogenetische Studie.NovaActa RSoc Sci Ups,3:1-514   \nWang YQ,Li C K,LiD Set al.,2016.A synopsis of Paleocene stratigraphyand vertebrate paleontology in the Qianshan Basin,Anhui,China. Vert PalAsiat, 54(2): 89-120   \nWilson R W,1949.Early Tertiary rodents of North America.Contrib Palaeont,Carnegie Inst Wash,584: 67-164   \nWood AE,1957.What, if anything,is a rabbit? Evolution,11(4): 417-427   \nWyss AR,Meng J,1996.Applicationofphylogenetic taxonomy topoorlyresolved crown clades:astem-modified nodebased definition of Rodentia. Syst Biol,45(4): 559-568   \nZhang Z Q,Wang J,2016.On the geological age of mammalian fosils from Shanmacheng,GansuProvince.VertPalAsiat, in press   \nZhegall VI,ShevyrevaNS,976.Revisionofthegeological structureandnewdataon the faunaoftheGashatolocality (Paleocene,M.P.R.).In: KramarenkoNN,LuvsandanzanB,Voronin YIetal eds.PaleontologyandBiostratigraphy of Mongolia.Trans Joint Soviet-Mongol Paleont Exped,3: 269-279   \nZhou M Z,Qiu ZX,LiC K,1975.Some suggestions for unifying translation of nomenclature of the primitive eutherian ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "molar-teeth.Vert PalAsiat,13(4): 257-266 ",
+        "page_idx": 15
+    }
+]

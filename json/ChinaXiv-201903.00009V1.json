@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "负载特性对不均匀气隙结构异步起动永磁同步电机退磁的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bcd21c735767d528c49176395153cf589f3fab3d886d7e00bd1f21b4728daa8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈垒吴长江 鲍晓华（合肥工业大学电气与自动化工程学院合肥230009）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈垒男1990年生，硕士研究生，研究方向为特种电机设计及其控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：不均匀气隙结构的异步起动永磁体同步电机是针对普通异步起动永磁同步电机由于气隙磁场谐波复杂而导致的运行过程中转矩脉动大、电磁噪声高等问题提出的，此结构电机的永磁体退磁情况与普通电机有较大不同。本文基于永磁体内各处的磁场矢量基本相同的原则，利用永磁体内部一点的磁密表征整个永磁体在运行过程中磁密的变化，对不均匀气隙结构异步起动永磁体同步电机永磁体工作点展开了理论研究与有限元仿真。分析了影响电机退磁的因素，研究了施加不同负载与转动惯量时永磁体的磁密变化情况，得到电机稳态运行时和起动过程中永磁体工作点的变化规律，提出了获得永磁体磁密最小工作点的研究方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：永磁同步电机 永磁体退磁 转动惯量异步起动中图分类号：TM351",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Influence of Load Characteristics on the Demagnetization of LSPMSM with Non-Uniform Air Gap Structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4e9c7f16ff1ab35c2130b45b9551d070ef78d3f7753450fa337b06d448e5cec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴长江男 1991年生，硕士研究生，研究方向为永磁电机设计及其控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen LeiWu Changjiang Bao Xiaohua (Hefei University of TechnologyHefei230009 China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Line-start permanent magnet synchronous motor (LSPMSM) with nonuniform air gap structure is proposed for reducing torque ripple,high electromagnetic noise caused by the complex harmonic distortion rate of air gap magnetic field of common LSPMSM. The demagnetization condition of the permanent magnet of the structure is different from that of the ordinary motor. In this paper, based on the principle that magnetic field vector in permanent magnet is almost the same, the magnetic flux density of the permanent magnet is characterized by the magnetic density of inner point of the magnet. Theoretical study and finite element simulation of line-start permanent magnet synchronous motor with non-uniform air gap structure are carried out. This article has analyzed the influence factors of the motor demagnetization,and relationship between load characteristic and demagnetization of permanent magnet has also been studied. In this paper, the variation law of permanent magnet working point during steady state operation and starting process is obtained,and research method of obtaining the minimum working point of permanent magnet is proposed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Permanent magnet synchronous motor, permanent magnet demagnetization,moment of inertia,line-start ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据权威分析报告指出[1，预计今后 $1 5 \\sim 2 0$ 年内，全国电动机总装机容量将增加至约50亿 $\\mathrm { k W }$ 。如此庞大的用电总量若依然主要依靠火力发电厂发电，化石能源将会被大量消耗，温室气体、可吸入颗粒物将会危及生态稳定，极度考验环境的承受能力。因此，高效率、高功率因数的永磁电机是未来电机行业的主要发展方向[2-3]。相比于普通感应电动机，“双高”（高功率因数和高效率）的特性是异步起动永磁同步电机最显著的优势，相比于调速永磁同步电机又具有自起动的能力，因此，其在工业化生产中的使用和推广越来越引起关注[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "永磁电机运行过程中时有发生的退磁问题一直困扰着永磁电机生产厂家和用户，为了防止失磁现象的发生，必须在设计中校核其最大去磁工作点和该温度下永磁材料退磁曲线的拐点，以增强其可靠性，降低生产成本。因此，准确分析永磁电机性能和计算永磁体工作点的方法就显得非常重要[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "准确预估永磁电机最大去磁工作点，对永磁电机的电磁设计至关重要。以往的设计中，通常按传统磁路设计法计算最大去磁工作点[。采用等效磁路法计算得到的最大去磁工作点是一个平均工作点，无法计及永磁体的局部退磁，所以难以准确反映永磁体的实际工作状态。已有文献采用有限元数值法计算了无导条结构的变频调速永磁电机内永磁体的局部单元工作点[；而对于异步起动永磁同步电机,由于其结构的特殊性，电机内磁场更加复杂，电机最大去磁磁场分布下的局部工作点较难准确计算。因此有必要研究如何准确计算电机内的退磁磁场，从而准确计算得到的最大去磁工作点。已有文献通过优化磁路结构提高永磁体抗退磁能力，如文献[8]分析了三种不同转子磁路结构的永磁体随功角以及转子位置变化的退磁情况，通过文章提出的平均磁密分析方法能够较为准确地分析永磁体的退磁性能；文献[9]通过改变转子导条的材料，使用导电导磁的复合材料，在不降低电机起动能力的前提下提高了电机的抗退磁能力，但使用复合材料会提高电机的制造成本。在LSPMSM的起动性能的改善方面，文献[10]提出了一种6/8变极起动永磁同步电机，通过优化定子绕组结构提高了电机的起动性能。以上研究永磁体退磁的方法及工作都是针对普通均匀气隙结构的永磁电机，本文将针对为减小电机气隙磁场谐波含量并抑制转矩脉动提出的不均匀气隙结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "异步起动永磁体同步电机的退磁情况展开研究工作；文献[11]设计了一台 $2 2 \\mathrm { k W } { - } 6$ 极异步起动永磁同步电机，采用不均匀气隙结构减小气隙磁密谐波含量，并验证所设计方案的合理性，但文章未提及此结构电机永磁体的退磁情况；文献[12]提出不均匀气隙结构的异步起动永磁同步电机能够减小气隙磁场的谐波含量，进而使电机转矩脉动得到抑制，并对永磁体退磁情况进行了简要分析，但不够具体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对不均匀气隙结构异步起动永磁同步电机的特殊结构，研究了不同负载情况与不同转动惯量时电机在起动过程中永磁体工作点的变化情况,以一台 $9 0 \\mathrm { k W } – 4$ 极异步起动永磁同步电机为例，利用有限元软件对永磁体磁密以及转速变化情况进行了仿真分析，最后提出一种能够准确得出电机恒转矩起动时永磁体最小工作点的仿真方法，这能够使得电机设计更加准确。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 电机模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以一台4极 $9 0 \\mathrm { k W }$ 的异步起动永磁同步电机为例对其退磁情况进行研究，电机的基本电磁参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1不均匀气隙结构LSPMSM基本电磁参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/29d5adefa884c2142763053815773c9ec25f2a721003a1ffbdd5af9c5272d682.jpg",
+        "table_caption": [
+            "Tab.1 Basic parameters of non-uniform air gap structure LSPMSM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>电磁参数名称</td><td>简称</td><td>数值</td></tr><tr><td>额定功率/kW</td><td>PN</td><td>90</td></tr><tr><td>额定线电压/V</td><td>UN</td><td>380</td></tr><tr><td>相数</td><td>m</td><td>3</td></tr><tr><td>极对数</td><td>p</td><td>2</td></tr><tr><td>不变气隙长度/mm</td><td>8</td><td>1.5</td></tr><tr><td>偏心距/mm</td><td>t</td><td>3</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "普通异步起动永磁同步电机运行时铁心损耗大、电磁噪声高的根本原因是气隙磁场谐波复杂。不均匀气隙结构的异步起动永磁同步电机转子结构，能够很好地削弱气隙磁场的谐波，从而降低损耗和噪声，提高电机性能。该电机转子结构如图1a所示。转子外表面由4段与定子外圆不同心的圆弧组成，使得气隙长度沿圆周方向由大变小，再由小变大，成正弦变化规律。图1b为电机转子一个磁极示意图，转子外圆圆心为 $O ^ { \\prime }$ ，偏心距离为t。转子上设有阻尼导条，其材料为黄铜，在电机起动过程中导条电流较大，使用黄铜材质使得导条不会由于过热而发生熔断。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/05882659a4796c97db0dd2affa68bf66bb2997adf2e31b4c59c6f3f7260a1ea4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，可将永磁体上各点的磁密进行分解，沿磁化方向的分量即为电机的有效磁密，有效磁密可由式（1）计算得到。 $B _ { \\mathrm { g } }$ 方向与磁化方向相反时（如图2中 $B _ { 2 }$ 所示)，永磁体的有效磁密即为负值，对各个点有效磁密计算后最小值即为永磁体的最小工作点。这样计算能够更好地反映永磁体局部退磁情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eea435b9b73f117be013eeebf272e57d09066844be20055e7ab7cb1034aacad1.jpg",
+        "img_caption": [
+            "图1不均匀气隙结构电机的转子磁极示意图 Fig.1Non-uniform air gap motor's rotor and schematic figure of rotor pole ",
+            "图2永磁体磁密分解",
+            "Fig.2Permanent magnet flux density decomposition "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { \\mathrm { g } } = B \\cos \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当电机为不均匀气隙结构时，气隙长度 $\\delta _ { \\mathfrak { g } }$ 会随角度 $\\theta$ 变化，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/acfd96bb6017e646b780e211f30e8dfcffa62b8cdbb0872438dd3b5f7976c80a.jpg",
+        "img_caption": [
+            "图3气隙长度 $\\delta _ { \\mathfrak { g } }$ 示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图中， $\\delta _ { \\scriptscriptstyle 0 }$ 为电机气隙均匀时不变气隙长度， $o$ 为转子外圆圆心， $\\omega ^ { \\prime }$ 为转子内圆圆心， $R$ 为气隙均匀时电机转子外径， $\\boldsymbol { R ^ { \\prime } }$ 为转子内圆半径，则气隙长度 $\\delta _ { \\mathfrak { g } }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { \\mathfrak { h } } = \\delta _ { \\mathfrak { o } } + R - ( R - R ^ { \\prime } ) \\cos \\theta - \\sqrt { R ^ { \\prime 2 } - ( R - R ^ { \\prime } ) ^ { 2 } \\sin ^ { 2 } \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从式（2）可以看出，不均匀气隙时气隙长度随圆心角周期性变化，此时电机的磁密会与均匀气隙时有较大不同，进而使永磁体的工作点发生变化，因此需要对不均匀气隙结构这一特殊结构的永磁体退磁情况进行研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用有限元分析软件Ansoft分析后可得如图4a所示的电机额定负载稳态运行过程中某时刻永磁体磁密云图，从图中可以看出，同一时刻永磁体磁密大小的分布基本是相同的，每块永磁体端部磁密稍大一些。图4b为该时刻电机转子磁力线云图，从图中不难发现，永磁体磁力线的方向基本与永磁体磁化方向平行，在每块永磁体的端部磁力线偏离磁化方向的现象稍微明显一些。由此可见，永磁体内部各点磁密的大小和方向基本相同，由于边缘的聚磁效应，只在永磁体边缘磁密矢量才稍有不同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b07fd89a77691ad1b711dd06d897b9dc141f8d2f17e213c16954f7d6c1837de4.jpg",
+        "img_caption": [
+            "Fig.3 Schematic figure of air gap length $\\delta _ { \\mathfrak { g } }$ ",
+            "(a）永磁体磁密 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1478ab96535b5fbaee1d0f271c6bc78b9d499a40d516310cbc07afb02b434545.jpg",
+        "img_caption": [
+            "图4电机永磁体磁密和磁力线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过上面的分析可知，永磁体内磁密的大小基本反映了退磁磁场的强弱。对永磁体进行有限元网络剖分，如图5a所示。研究图5a中永磁体中心线上各点的磁密，得到磁密曲线如图5b所示，该时刻电机额定负载稳态运行，中心线上各点的磁密基本相同，只有端部磁密稍大。所以可以选取图5a中标记的三角单元作为磁密参考点，通过计算该参考点的磁密来反映整个永磁体内磁密的大小。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/80a0da63603d08628101226c727a5e38e710a3c3c90bc455b901115c3d621f87.jpg",
+        "img_caption": [
+            "Fig.4Permanent magnet flux density and flux lines ",
+            "图5永磁体剖分和永磁体磁密",
+            "Fig.5Magnet's element meshing and flux density at different position "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用有限元软件对比分析普通均匀气隙结构电机和不均匀气隙结构电机起动过程永磁体退磁的情况。两种电机只有转子是不相同的，均带额定负载转矩 $5 7 3 \\mathrm { N \\cdot m }$ ，并考虑转子本身和电机负载系统的转动惯量为 $0 . 8 5 \\mathrm { k g } \\cdot \\mathrm { m } ^ { 2 }$ ，对电机起动时速度的变化和永磁体磁密的变化进行对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6a为起动时均匀气隙结构和不均匀气隙结构电机的转速，可以看出，二者转速的变化趋势大致相同，均能顺利起动，达到同步运行，但不均匀气隙结构的电机起动时间较长，转速波动大。图6b为起动时永磁体磁密的对比图，不均匀气隙结构的电机永磁体磁密波动较大，而且进入同步稳态时，永磁体的工作点也较低。所以，不均匀气隙结构电机永磁体的退磁与普通电机相比有较大的不同，有必要对不均匀气隙结构的异步起动永磁同步电机永磁体的退磁情况展开研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/78820f89883cba825204576e20e9af3c21fb60e86737e6a95aef0cb681addac1.jpg",
+        "img_caption": [
+            "图6均匀气隙与不均匀气隙的电机起动时转速和永磁体 磁密曲线 ",
+            "Fig.6Speed and magnet flux density curve of motors with even and uneven air gap "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3负载特性与永磁体退磁 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不均匀气隙结构电机起动过程中，稳态反电动势没有建立，产生比较大的冲击性电流，由于转差的存在，转子笼形导条也感生出较大电流，定转子电流都会对永磁体工作点磁密产生影响，使永磁体失磁。因此，有必要进一步研究不均匀气隙结构异步起动永磁同步电机的永磁体在起动过程中的退磁现象，分析退磁因素，总结退磁规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1负载转矩对退磁的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计及电机转子本身的转动惯量 $0 . 8 5 \\mathrm { k g \\cdot m } ^ { 2 }$ ，分析起动时不同负载转矩对转速和永磁体磁密的影响。图7和图8分别为不均匀气隙结构电机在空载、带额定负载转矩和1.5倍额定负载转矩起动时的转速曲线和永磁体磁密变化曲线。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/089db211ea601ba85b69d8dccfe49b4fcf5d34aa2448b63003a5b89a1a424228.jpg",
+        "img_caption": [
+            "图7不同负载转矩起动时电机转速"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4d92a8b7a547e698f11a8249a8bfb0b0b132277adab0d2c539dbd021df9af49.jpg",
+        "img_caption": [
+            "Fig.7Motor starting speed curve with different load torque "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7和图8中可以看出，电机的转速是波动上升的，而且转速较低时波动频率较高，最后稳定在同步转速 $1 ~ 5 0 0 \\mathrm { r / m i n }$ 。永磁体的磁密首先波动降低，在波动到最低值后，又继续波动上升，当电机牵入同步后，永磁体磁密也稳定在一个固定值，这个固定值就是电机稳态时永磁体工作点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图7的转速曲线可知，在电机起动的前$5 0 \\mathrm { m s }$ ，不同负载情况下转速都波动上升，但转速值仍然较低，均小于 $4 2 0 \\mathrm { r / m i n }$ 。在这 $5 0 \\mathrm { m s }$ 时间内电机转差率一直比较大，导条电流也很大，永磁体磁密不会出现最小值，这就是起动初始阶段起动笼对永磁体的退磁屏蔽现象。在电机逐渐被拖入同步的过程中，起动笼对转子永磁体的屏蔽作用逐渐减弱，永磁体出现最严重退磁。例如，额定负载起动时永磁体最小磁密出现在 $7 5 \\mathrm { m s }$ 为 $0 . 1 5 \\mathrm { T }$ ，对应的转速约为 $9 6 0 \\mathrm { r / m i n }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电机进入稳态运行时，转子笼形导条没有电流，转子磁动势全部由永磁体产生。稳态时，定、转子磁动势基波关系如图9所示，定子磁动势与永磁体磁动势保持相对静止，夹角 $\\Delta \\theta$ 恒定。电机负载越大，定子电流越大，定子磁动势幅值 $F _ { 1 }$ 越大，夹角$\\Delta \\theta$ 也随之增大，永磁体磁密稳态值降低。不均匀气隙结构电机稳态运行后，空载永磁体磁密为 $0 . 9 4 \\mathrm { T }$ 带额定负载转矩永磁体磁密为 $0 . 7 9 \\mathrm { T }$ ，1.5倍额定负载转矩永磁体磁密为 $0 . 6 8 \\mathrm { T }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b9be695523868796f86a8b302933590d349f99468c173517e614c658e258ac8.jpg",
+        "img_caption": [
+            "图8不同负载转矩起动时永磁体磁密 Fig.8Magnet flux density with different load torque at starting process ",
+            "图9稳态运行时定、转子磁动势基波关系 Fig.9Steady state operation of stator and rotor MMF "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2转动惯量对退磁的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使不均匀气隙结构电机在相同负载转矩（额定转矩 $5 7 3 \\mathrm { N \\cdot { \\ m } }$ ）下，分析不同转动惯量时，电机转速从0升至 $1 ~ 5 0 0 \\mathrm { r / m i n }$ 的整个起动过程。研究转动惯量对起动过程中永磁体磁密的影响，将电机系统实际的转动惯量与电机转子的转动惯量的比值定义为转动惯量倍数，选择转动惯量倍数为1、3、6起动。得出转速曲线和永磁体磁密曲线，如图10和图11所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图10可以看出，在保持电机负载转矩相同的前提条件下，转动惯量越大电机起动时间越长。图11为起动过程中永磁体磁密曲线，转动惯量倍数为1的永磁体磁密工作点出现3次较小值，转动惯量倍数为3的永磁体磁密工作点出现8次较小值，而转动惯量倍数为6的永磁体磁密出现16次较低点。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e43f30e553a34c6c06c606d3a53b5343481aa81a58b6267f5a72ac3599f2bbcc.jpg",
+        "img_caption": [
+            "图10不同转动惯量倍数起动时电机转速"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c1c494bddbbdbbe45a9e231cff774f9b559992d8c22bf4657f385358756df0c.jpg",
+        "img_caption": [
+            "Fig.10Motor starting speed curve with different "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "转动惯量越大，永磁体所处的退磁环境越恶劣。稳定在同步转速后，由于三者均为额定转矩负载，定子稳态电流值相同，定子磁动势幅值 $F _ { 1 }$ 相同，所以稳态运行时，永磁体磁密工作点也相同，均为0.79T。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4永磁体退磁与负载特性的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步研究不均匀气隙结构异步起动永磁同步电机在起动时永磁体磁密最小值与负载转矩以及转动惯量之间的关系，得出图12和图13所示的关系曲线。图12为电机负载系统的转动惯量等于转子自身值，不同负载转矩倍数恒转矩起动时得到的永磁体磁密最小值与负载转矩的关系；图13为电机转矩设置为额定转矩的恒转矩起动，不同的转动惯量倍数起动时得出的永磁体磁密最小值与电机转动惯量之间的关系。从这两幅图的变化趋势可以看出，磁密最小值的变化毫无规律。所以，电机起动时，改变负载系统的转矩值或者转动惯量值，无法得到永磁体磁密最小值出现的规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cee8485b010c89f9cca4b0a4253892ebd4cf5b8fca869b441e4d398554ee2cd8.jpg",
+        "img_caption": [
+            "图12不同转矩倍数起动时永磁体最低工作点"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7d3d1072f8e604428507517e2efc4cd2d9cfc34c6f4ca83bd67901287b103bc.jpg",
+        "img_caption": [
+            "图11不同转动惯量倍数起动时永磁体磁密 Fig.11Magnet flux density with different rotational inertia at starting process ",
+            "Fig.12Magnet minimum working point with different load torque at starting process ",
+            "图13不同转动惯量倍数起动时永磁体最低工作点 Fig.13Magnet minimum working point with different load inertia at starting process "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "起动过程中，定、转子磁动势基波关系示意图如图14所示。起动时，定、转子存在转差，笼形导条中感生出电流，转子磁动势由笼形导条磁动势和永磁体磁动势合成所得。转子导条、永磁体二者合成磁动势转速为 $n$ ，其频率 $( 1 - s ) f$ 随转子转速的变化而变化，因此夹角 $\\Delta \\theta$ 可能的变化范围是 $0 \\sim 3 6 0 ^ { \\circ }$ 。当定子电枢磁动势与笼形导条、永磁体二者的合成磁动势的方向相反，即 $\\Delta \\theta$ 等于 $1 8 0 ^ { \\circ }$ 时，作用在永磁体上的退磁磁场最强，永磁体发生最严重退磁。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/465d45bbfdf7397a5e4dcdda0dcc3d2a46c04d0f87cc9d9802b7ae5540cb9b3a.jpg",
+        "img_caption": [
+            "图14起动过程中定、转子磁动势基波关系",
+            "Fig.14Relation between stator and rotor MMF in starting "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "process ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在不均匀气隙结构电机起动时，转子笼形导条、永磁体二者合成磁动势与定子电枢磁动势相对运动，夹角 $\\Delta \\theta$ 是变化的。若电机负载的转矩和转动惯量都较小，如电机空载，起动时间较短，转子笼形导条、永磁体二者合成磁动势与定子电枢磁动势方向相反(夹角 $\\Delta \\theta = 1 8 0 ^ { \\circ }$ ）的可能性较小，因此，永磁体磁密出现最小值的概率较小；当电机负载系统的转矩和转动惯量都较大时，如电机带额定负载转矩、6倍于转子自身转动惯量时，起动时间较长，转子笼形导条、永磁体二者合成磁动势与数值最大的定子电枢磁动势方向相反的可能性大大增加，因此，永磁体磁密出现最小值的概率较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "永磁体在牵入同步的过程中最容易发生最严重退磁，因为此时转子接近同步转速，导条电流较小，笼形导条对永磁体的屏蔽作用减弱，而电机仍未同步运行，定子电枢电流仍然较大。对于起动时间较短的电机，在转子从 $80 \\%$ 同步转速加速至同步转速的牵入同步过程，不一定出现最大的定子电枢磁动势与转子永磁体磁动势相反，也即 $\\Delta \\theta = 1 8 0 ^ { \\circ }$ 的最大去磁情况，有必要对永磁体最大退磁工作点做进一步分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有限元仿真时，如果电机系统的转动惯量设置过大，会导致电机无法牵入同步运行，利用这一特性可以准确得到某一恒转矩负载起动时，不均匀气隙结构电机永磁体磁密的最小工作点。图15为电机无法牵入同步运行时转速和永磁体磁密曲线，电机恒转矩（额定转矩 $5 7 3 \\mathrm { N \\cdot { \\ m } }$ ）起动，10倍转子本身的转动惯量。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/789ccfe225d01c25426ecb21a18fb16242f4b01e1576b79e9c12466ba974300b.jpg",
+        "img_caption": [
+            "图15电机带大转动惯量负载无法牵入同步时转速和永磁体磁密",
+            "Fig.15Speed and magnet flux density of motors out of step "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图15可见，电机传动系统转动惯量足够大时，不均匀气隙结构异步起动永磁同步电机始终无法牵入同步，转速只能在同步转速以下不断波动。永磁体的磁密也不断剧烈波动，波动时磁密极小值不断降低后又不再变化，永磁体磁密最小值约为 $0 . 2 \\mathrm { T }$ ，与之对应的转速约为 $1 ~ 4 2 7 \\mathrm { r / m i n }$ 。在这种大转动惯量起动条件下，定子电枢磁动势与转子导条、永磁体二者合成磁动势矢量之间的夹角 $\\Delta \\theta$ 在$0 \\sim 3 6 0 ^ { \\circ }$ 之间周期性变化，在电机起动过程中运用这种仿真方法，可以找出永磁体磁密的最小工作点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以一台90kW-4极异步起动永磁同步电机为例，分析了不均匀气隙结构的异步起动永磁同步电机的永磁体退磁情况。通过分析永磁体内某点磁密的变化来反映永磁体在起动和稳态运行时的退磁情况，得出以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）与普通电机相比较，不均匀气隙结构时，电机起动时间较长，在起动过程中永磁体磁密波动较大，并且进入同步稳态后，永磁体的磁密也较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）对于不均匀气隙结构电机，负载转矩越大，起动时永磁体磁密波动越大，稳态时磁密也越低。随着电机系统的转动惯量增加，起动时间增长，永磁体波动次数增加，但进入稳态后永磁体工作点相同。在起动过程中，由于定子电枢磁动势与转子导条、永磁体二者的合成磁动势之间的相对位置不断变化，负载转矩和转动惯量与永磁体最小工作点之间没有确切关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）在有限元仿真时将转动惯量设置为足够大，使电机无法牵入同步转速，电机转速在略小于同步转速的某一转速上下波动，可准确得出电机带恒转矩负载起动时永磁体磁密的最小工作点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文所研究内容对电机设计人员能够更加准确全面地考虑永磁体退磁状况，准确预估永磁电机最大去磁工作点，提升所设计电机的合理性具有一定参考价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 2011—2015年中国电机行业发展前景[EB/OL]. http://b2b.hc360.com/supplyself/96081752.html.   \n[2] 张海峰，董志，李正熙．异步起动永磁同步电动 机优化设计与性能分析[J]．电气工程学报，2016， 11(11): 47-51. Zhang Haifeng,Dong Zhi, Li Zhengxi. Optimization design and performance analysis of line start permanent magnet synchronous motor[J].Journal of Electrical Engineering,2016,11(11): 47-51.   \n[3] 朱高嘉，朱英浩，朱建国，等．基于有限公式法 和流－固耦合的永磁牵引电动机冷却系统设计与 分析[J]．电工技术学报，2017，32(5)：70-77. Zhu Gaojia, Zhu Yinghao, Zhu Jianguo, et al. Thermal analysis and cooling system design of a permanent magnet traction motor using computational fluid dynamics and cell method[J].Transactions of China Electrotechnical Society,2017,32(5): 70-77.   \n[4] Rabbi S F,Little ML,Saleh SA,et al.A novel technique using multi-resolution wavelet packet decomposition for real time diagnosis of hunting in line start IPM motor drives[J]. IEEE Transactions on Industry Applications,2017, 53(3):3005-3019.   \n[5] 唐任远．现代永磁电机理论与设计[M]．北京，机 械工业出版社，1997.   \n[6] Choi D W,Li J,Cho Y H. Design of line-start permanent magnet motor with cost reduction and performance improvements[J]. International Journal of Applied Electromagnetics & Mechanics,2012, 39: 873-879.   \n[7] 赵国新．变频电源供电永磁同步电动机几个关键 技术研究[D]．沈阳工业大学，2011.   \n[8] Kim K C,Kim K,Kim HJ,et al.Demagnetization analysis of permanent magnets according to rotor types of interior permanent magnet synchronous motor[J].IEEE Transactions on Magnetics,2009, 45(6): 2799-2802.   \n[9] 卢伟甫，赵海森，朴润浩，等．异步起动永磁电 机最大去磁工作点计算新方法及抗退磁新结构[J]. 电力自动化设备，2016，36(7)：90-96. Lu Weifu, Zhao Haisen,Piao Runhao,etal.Calculation of worst working point and anti-demagnetization structure for line-start permanent magnet synchronous motor[J]. Electric Power Automation Equipment, 2016,36(7): 90-96.   \n[10] 田蒙蒙，王秀和，杨玉波，等．基于变极绕组的 异步起动永磁同步电动机起动性能研究[J]．中国 电机工程学报，2017，37(11)：3287-3297. Tian Mengmeng,Wang Xiuhe,Yang Yubo,et al. Research on starting performance of line-start permanent magnet synchronous motor based on pole changing winding[J].Proceedings of CSEE,2017, 37(11): 3287-3297.   \n[11] 范乐，任宁宁．不均匀气隙异步起动永磁同步电动 机的设计及研究[J]．微电机，2015，48(7)：35-37. Fan Le,Ren Ningning.Design and research of line-start PMSM based on non-uniform air-gap[J]. Micromotors,2015,48(7): 35-37.   \n[12] 陈垒，张程，鲍晓华．不均匀气隙结构的异步起 动永磁同步电机设计[J]．微电机，2016，49(12)： 10-14. Chen Lei, Zhang Cheng,Bao Xiaohua.Design of line-start permanent magnet synchronous motor with uneven air gap[J]. Micromotors, 2016, 49(12): 10-14. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

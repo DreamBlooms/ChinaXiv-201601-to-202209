@@ -1,0 +1,172 @@
+明鹏飞　黄莹莹　董妍丽 聂星灿 冯士彬 王希春　程建波 李锦春 吴金节 李 玉\*
+
+（安徽农业大学动物科技学院，合肥230036)摘要：本试验旨在研究高脂血症奶牛乳腺组织中脂代谢相关生化指标和基因表达的变化。选取12头荷斯坦奶牛，采用全自动生化分析仪测定奶牛血清中主要生化指标，根据血清中甘油三酯（TG）、总胆固醇(TC)的含量是否升高将奶牛分为正常组和高脂组。取奶牛乳腺组织制作病理切片及油红O染色，观察乳腺组织病理形态学变化和脂滴蓄积情况。提取乳腺组织总RNA，应用实时荧光定量PCR（qRT-PCR）法检测乳腺组织脂代谢相关基因的相对表达量。结果表明：1)高脂组奶牛乳腺组织中脂代谢指标TC、TG、极低密度脂蛋白（VLDL）的含量显著升高（ $. P { < } 0 . 0 5$ )，高密度脂蛋白胆固醇（HDL-C）的含量呈降低趋势，低密度脂蛋白胆固醇（LDL-C）的含量呈升高趋势，但差异均不显著（ $P { > } 0 . 0 5$ )。2）病理学观察可见高脂组奶牛乳腺腺泡上皮细胞脱落，乳腺腺泡壁明显增厚，细胞肿胀，部分细胞脂滴增多，细胞核染色质浓缩、边移、细胞轮廓不清。油红O染色可见正常组奶牛乳腺组织细胞核明显呈蓝色，红色区域较少，主要集中在细胞边缘，仅有少量脂滴聚集，而高脂组奶牛乳腺组织有大片红色区域，小叶间结缔组织密度增加，乳腺上皮可见脂滴相互融合形成大的空泡状脂肪细胞。3）与正常组相比，高脂组奶牛乳腺脂代谢内源合成关键酶基因乙酰辅酶A羧化酶(ACC1)以及活化相关基因乙酰辅酶A合成酶2（ACSS2）、长链脂酰辅酶A合成酶1（ACSL1)的相对表达量显著升高 （ $_ { . P < 0 . 0 5 ) }$ ，摄取和转运关键基因脂肪酸结合蛋白3（FABP3）、分化抗原簇36(CD36）、脂蛋白脂肪酶（LPL)，去饱和酶关键基因硬脂酰辅酶A去饱和酶（SCD)、脂肪酸去饱和酶1（FADS1）以及乳酯化关键基因乙酰甘油磷酸脂酰转移酶6（AGPAT6）的相对表达量显著降低（ $\cdot P { < } 0 . 0 5 \$ )。综上所述，高脂血症促使奶牛血脂水平升高，引起乳腺组织出现明显的病理变化，同时，乳腺脂代谢相关基因表达发生明显变化。
+
+关键词：高脂血症；奶牛；生化指标；乳腺脂代谢；基因表达中图分类号：S858 文献标识码：A 文章编号：奶牛乳腺是奶牛特有的器官，其血液供应极为丰富，乳腺上皮细胞从血液中吸收乳前体物质并将其转化为乳糖、脂肪和蛋白质，乳腺上皮细胞是一个重要的“生物工厂”，只有深入了解奶牛乳腺的代谢模式，才能对乳腺主要营养物质的合成和分泌进行合理的调控[]。脂肪酸是奶牛乳腺营养物质中重要的组成部分，乳脂中超过 $9 5 \%$ 的脂肪酸以甘油三酯（TG)的形式存在，其余以磷脂、胆固醇酯、甘油二酯、甘油一酯和游离脂肪酸形式存在[2]。在奶牛生产中，由于妊娠和泌乳的需要，容易造成泌乳初期机体的能量负平衡（NEB)，NEB 直接导致低血糖，使奶牛体内胰高血糖素含量显著升高，促进脂肪的分解，导致非酯化脂肪酸（NEFA）浓度的增加和活性氧（ROS）水平升高。当大量的NEFA进入肝脏时，超过了肝脏的氧化能力，多余的 NEFA经不完全氧化产生酮体[β-羟丁酸(BHBA)、乙酰乙酸(ACAC)及丙酮]，引发奶牛酮病和脂肪肝，进一步促进营养代谢紊乱性疾病的发生[3-5]。众多研究已经证明，脂肪肝和酮病等营养代谢紊乱性疾病的发生与奶牛能量代谢紊乱有关，能量代谢紊乱导致机体免疫功能和炎症应答能力下降，对疾病的易感性增强[6-9]。高脂血症是指体内血浆脂质代谢异常，主要指血浆TC、TG 和低密度脂蛋白胆固醇（LDL-C）含量升高以及高密度脂蛋白胆固醇（HDL-C）含量降低[10]。近年来，高脂血症及相关疾病的发病率不断升高，深入探讨高脂血症发病的分子生物学机制，为临床高脂血症的治疗提供试验依据显得尤为重要[11-12]。因此，本试验利用全自动生化分析仪检测血清生化指标和乳腺脂代谢指标，苏木精-伊红（HE)染色和油红O染色后观察乳腺组织病理形态学变化，实时荧光定量PCR(qRT-PCR）法检测乳腺脂代谢相关基因的表达，揭示奶牛高脂血症发生机理，为临床高脂血症引起的奶
+
+牛乳品质下降提供一定的理论依据。
+
+1材料与方法  
+1.1试验动物及饲养奶牛由安徽省某奶牛场提供，根据血液脂代谢检测结果，从中筛选6头正常和6头高脂血  
+症荷斯坦奶牛，所选奶牛年龄、胎次相近，预产期相近，生理状态相近。采用全混合日粮(TMR)  
+饲喂奶牛，根据奶牛的营养需求配制试验饲粮，其组成及营养水平见表1。
+
+# 表1试验饲粮组成及营养水平
+
+Table 1Composition and nutrient levels of experimental diets %   
+
+<html><body><table><tr><td>项目</td><td colspan="2">Content含量</td></tr><tr><td>Items</td><td>Prenatal 产前</td><td>Postpartum 产后</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>青贮 Silage</td><td>31.4</td><td>40.0</td></tr><tr><td>羊草 Guinea grass</td><td>23.4</td><td></td></tr><tr><td>玉米Corn</td><td>19.6</td><td>35.0</td></tr><tr><td>小麦麸 Wheat bran</td><td>10.0</td><td>8.0</td></tr><tr><td>豆粕 Soybean meal</td><td>2.0</td><td>5.0</td></tr><tr><td>向日葵 Sunflower</td><td>11.5</td><td>8.0</td></tr><tr><td>食盐 NaCl</td><td>0.8</td><td>1.0</td></tr><tr><td>预混料 Premixl)</td><td>1.3</td><td>1.8</td></tr><tr><td>碳酸氢钠 NaHCO3</td><td></td><td>1.2</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td></td><td></td><td></td></tr><tr><td>泌乳净能 NEL/(MJ/kg)</td><td>5.7</td><td>6.7</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗蛋白质CP</td><td>11.3</td><td>15.2</td></tr><tr><td>中性洗涤纤维NDF</td><td>50.2</td><td>33.45</td></tr><tr><td>酸性洗涤纤维ADF</td><td>28.5</td><td>17.2</td></tr><tr><td>钙Ca</td><td>0.3</td><td>0.7</td></tr><tr><td>磷P</td><td>0.3</td><td>0.5</td></tr><tr><td>非纤维碳水化合物NFC</td><td>28.0</td><td>40.4</td></tr><tr><td>瘤胃降解蛋白质RDP</td><td>7.0</td><td>7.4</td></tr><tr><td>非纤维碳水化合物/瘤胃降解蛋白质 NFC/RDP</td><td>4.0</td><td>5.5</td></tr></table></body></html>
+
+1每千克预混料含有 Contained the following per $\mathbf { k g }$ of premix:VA 200 000 IU，VD 70 000 IU, VE 1000 IU，Fe $2 0 0 0 \mathrm { m g }$ ， $\mathrm { C u 6 0 0 m g }$ ， $Z n 2 4 0 0 \mathrm { m g }$ ， $\mathrm { M n } \mathrm { ~ l ~ } 3 0 0 \mathrm { ~ m g }$ ， $\mathrm { ~ I ~ } 6 \ : \mathrm { m g }$ ，Se $1 7 \mathrm { m g }$ ，Co 7 mg。   
+2’泌乳净能为计算值，其他为测定值。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated value, while the others were measured values.
+
+# 1.2 血液和组织样本的采集
+
+于清晨空腹时选取12头奶牛，尾静脉采集 $5 \mathrm { m L }$ 非抗凝血，4℃静置 $3 0 \mathrm { m i n } , 3 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，收集血清，分装于 $2 \mathrm { m L }$ 离心管，-20℃冷冻保存，待测血清生化指标。血清生化指标的检测结果如表2，将6头血清TG 和TC含量高于正常范围的奶牛作为高脂组试验动物，将另外6头血清TG 和TC含量在正常范围内的奶牛作为正常组试验动物。
+
+# 表2血清中生化指标检测结果
+
+Table 2 Detectionresults of serumbiochemical indexes   
+
+<html><body><table><tr><td>项目</td><td>正常组</td><td>高脂组</td><td>P值</td></tr><tr><td>Items</td><td>Normal group</td><td>High lipid group</td><td>P-value</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.91±0.58</td><td>5.35±0.80</td><td>0.07</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.23±0.06</td><td>0.40±0.10</td><td>0.23</td></tr><tr><td>高密度脂蛋白胆固醇 HDL-C/(mmol/L)</td><td>2.25±0.79</td><td>1.92±0.37</td><td>0.21</td></tr><tr><td>低密度脂蛋白胆固醇 LDL-C/(mmol/L)</td><td>0.49±0.18</td><td>1.86±0.51</td><td>0.06</td></tr><tr><td>胰岛素 INS/(pmol/L)</td><td>7.97±5.38a</td><td>3.31±0.69b</td><td>0.03</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \$ )，不同大写字母表示差异极显著中 $_ { \scriptstyle P < 0 . 0 1 }$ )，无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5 \$ )。表4和表5同。
+
+Values in the same row with different small letter superscripts mean significant difference( $. P { < } 0 . 0 5 \$ ）,and with different capital letter superscripts mean significant difference( $P { < } 0 . 0 5$ ）,while with the same or no letter superscripts mean no significant difference( $_ { \cdot \textcircled { P > } 0 . 0 5 }$ ）.The same as Table 4and Table 5.
+
+采血结束后将12头奶牛颈静脉放血致死，沿腹中线切开，剖开乳腺，切取部分乳腺组织，生理盐水冲洗后迅速置于 $10 \%$ 中性甲醛溶液中固定，以便后续做HE 染色和油红O染色。其余部分迅速置于液氮中冷冻，之后保存于 ${ } . 8 0 \mathrm { ~ \textdegree ~ }$ 冰箱待测乳腺组织中脂代谢相关基因的相对表达量。
+
+1.3乳腺组织中脂代谢相关生化指标检测取乳腺组织 $1 0 0 ~ \mathrm { { m g } }$ 液氮研磨，在研磨后的粉状乳腺组织加入庚烷-异丙醇-吐温20 抽提液（3.00:2.00:0.01） 5.01 mL， $1 8 0 0 \times g$ 、 $4 ^ { \circ } \mathrm { C }$ 离心 $1 0 \mathrm { m i n }$ ，收集上清液[13]，采用全自动生化分析仪检测乳腺组织中TC、TG、HDL-C、LDL-C 和VLDL 的含量。
+
+# 1.4乳腺组织HE 染色观察
+
+将固定的乳腺组织取出，流水冲洗 $2 4 \mathrm { h }$ ，依次进行 $70 \%$ 、 $80 \%$ 、 $90 \%$ 、 $9 5 \%$ 、 $100 \%$ 梯度酒精脱水，时间均为1h，二甲苯透明、浸蜡包埋、切片（切片厚度为 ${ 5 } \mu \mathrm { m }$ ）、展片、烤片后，用二甲苯脱蜡，然后用 $100 \%$ 、 $9 5 \%$ 、 $80 \%$ 、 $70 \%$ 梯度酒精复水，时间均为 $5 \mathrm { m i n }$ ，苏木精染色、 $70 \%$ 盐酸酒精分色、伊红复染后， $70 \%$ （ $1 { \sim } 3 \ \mathrm { m i n }$ ）、 $80 \%$ （ $1 { \sim } 3 \ \operatorname* { m i n }$ ）、 $9 5 \%$ （ $3 \mathrm { m i n }$ ）、$100 \%$ ( $5 \mathrm { m i n }$ ）梯度酒精脱水，二甲苯透明、中性树脂胶封片，最后显微镜下观察乳腺组织
+
+结构病理变化。
+
+# 1.5 乳腺组织油红O染色观察
+
+饱和油红〇原液按3：2（油红O：蒸馏水）加入蒸馏水，混匀，室温放置 $5 { \sim } 1 0 \ \mathrm { m i n }$ 滤纸过滤后备用。将置于 $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 超低温冰箱中保存的乳腺组织样品取出，放入-20℃冰箱中缓冲 $3 0 \mathrm { m i n }$ 后，再置于含有OCT（聚乙二醇和聚乙烯醇的水溶性混合物）包埋剂的冷冻组织切片机上进行切片，调整切片厚度为 $5 { \sim } 8 ~ \mu \mathrm { m } ^ { [ 1 4 ] }$ ，自然晾干后用甲醛-钙固定 $1 0 \mathrm { m i n }$ 、蒸馏水充分洗涤、 $60 \%$ 异丙醇浸洗、油红O染液染色 $1 0 \mathrm { m i n }$ 、 $60 \%$ 异丙醇分化至间质清晰、蒸馏水清洗、Mayer苏木素复染、蒸馏水再次清洗、甘油明胶封片，之后显微镜下观查乳腺组织结构病理变化。
+
+# 1.6乳腺组织中脂代谢相关基因qRT-PCR检测
+
+取冻存乳腺组织 $1 0 0 \mathrm { m g }$ ，加入液氮研磨成粉末后，利用TrizolReagent快速提取试剂盒提取乳腺组织总RNA。利用Invitrogen反转录试剂盒进行反转录。将反转录产物保存于-20℃保存备用。根据GenBank中奶牛乳腺脂代谢相关基因序列，采用Primier 5.0软件设计引物，以 $\beta$ -肌动蛋白（ $\beta$ -actin）为内参，利用qRT-PCR法检测脂代谢相关基因的相对表达量，结果以 2-△△Ct表示。具体引物序列见表3。
+
+# 表3qRT-PCR引物序列
+
+Table 3Primer sequences for qRT-PCR   
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>GenBank 登录号</td><td>产物大小</td></tr><tr><td>Genes</td><td>Primer sequences</td><td>accession number</td><td>Product size/bp</td></tr><tr><td>乙酰辅酶A羧化酶</td><td>F:TGCTGAATATCCTCACGGAGCT</td><td>XM_005219978.3</td><td>212</td></tr><tr><td>ACC1</td><td>R:CGACGTTTCGGACAAGATGAGT</td><td></td><td></td></tr><tr><td>脂肪酸合酶</td><td>F:ACAGCCTCTTCCTGTTTGACG</td><td>XM_005220997.2</td><td>226</td></tr></table></body></html>
+
+<html><body><table><tr><td>FAS</td><td>R:CTCTGCACGATCAGCTCGAC</td><td></td><td></td></tr><tr><td>长链脂酰辅酶A合成酶</td><td>F:TCGGAACTGAAGCCATCACC</td><td></td><td></td></tr><tr><td>ACSL1</td><td></td><td>XM_005225994.3</td><td>173</td></tr><tr><td></td><td>R:GCCTCGTTCCAGCAGATCAC</td><td></td><td></td></tr><tr><td>脂蛋白脂肪酶</td><td>F:ACATCCCTTTTACCCTGCCTG</td><td></td><td></td></tr><tr><td></td><td></td><td>NM_001075120.1</td><td>165</td></tr><tr><td>LPL</td><td>R:TCCCAATATCAAAGCCGGGG</td><td></td><td></td></tr><tr><td>分化抗原簇36</td><td>F:GACGGATGTACAGCGGTGAT</td><td></td><td></td></tr><tr><td>CD36</td><td></td><td>NM_001278621.1</td><td>155</td></tr><tr><td></td><td>R:TCAGTGGTAACCAGTTGGAAGT</td><td></td><td></td></tr><tr><td>脂肪酸结合蛋白3</td><td>F:ACGCGTTCTCTGTCGTCTTT</td><td></td><td></td></tr><tr><td>FABP3</td><td>R:AACCGACACCGAGTGACTTC</td><td>NM_174313.2</td><td>124</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>乙酰辅酶A合成酶2</td><td>F:CCGGATGTGCAGATCTCCTG</td><td>NM_001105339.1</td><td>167</td></tr><tr><td>ACSS2</td><td>R:ACTGTGTGTAACACGCCCTT</td><td></td><td></td></tr><tr><td>硬脂酰辅酶A去饱和酶</td><td></td><td></td><td></td></tr><tr><td></td><td>F:TGGCGTTCCAGAATGACGTT</td><td>NM_173959.4</td><td>107</td></tr><tr><td>SCD</td><td>R:GAAGAAAAAGCCACGTCGGG</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>脂肪酸去饱和1</td><td>F:TGGTGGAACCACTTGCACTT</td><td></td><td></td></tr><tr><td></td><td></td><td>XM_005226961.3</td><td>128</td></tr><tr><td>FADS1</td><td>R:TTCTGTTTCCCGAGCTCCAC</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>甘油-3-磷酸脂酰转移酶</td><td>F:ACTACGGATGTGTCAAAACGG</td><td></td><td></td></tr><tr><td></td><td></td><td>NM_001012282.1</td><td>147</td></tr><tr><td>GPAM</td><td>R:CAGCACCACTGGGTCTTGAG</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>乙酰甘油磷酸脂酰转酶6</td><td>F:GTGACCAAGAGGTTCTCGGC</td><td></td><td></td></tr><tr><td>AGPAT6</td><td></td><td>NM_001083669.1</td><td>160</td></tr><tr><td></td><td>R:AAGCGAGAGCTATCCTCAGT</td><td></td><td></td></tr><tr><td>二酰甘油脂酰转移酶1</td><td>F:AGCAACGCACGGTTATTTC</td><td></td><td></td></tr><tr><td></td><td></td><td>NM_174693.2</td><td>125</td></tr><tr><td>DGAT1</td><td>R:GCCACAATGACCAGGCACA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>磷脂酸磷酸酯酶1</td><td></td><td></td><td></td></tr><tr><td></td><td>F:CCCGACCGTCAACACCTA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>NM_001206156.1</td><td>151</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>LPIN1</td><td>R:GGGCTGGACTCTTTCATCTT</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>固醇调节元件结合蛋白-1c</td><td>F:CTGAGGGCAGAGATGGTCCT</td><td>NM 001113302.1</td><td></td></tr><tr><td>SREBP-1c</td><td>R:CTTGCGATGCCTCCAGAAGT</td><td></td><td></td></tr><tr><td>过氧化物酶体增殖物激活受体γ</td><td>F:CCTTCCAACTCCCTCATGGC</td><td>NM_181024.2</td><td>109</td></tr><tr><td>PPARY β-肌动蛋白</td><td></td><td></td><td></td></tr><tr><td>β-actin</td><td></td><td>NM_173979.3</td><td>100</td></tr></table></body></html>
+
+# 99 1.7 数据统计与处理
+
+试验数据采用SPSS20.0统计软件进行Student's $t$ 检验，Duncan氏法进行组间多重比较，以 $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著，所有试验数据均采用平均值 $\cdot \pm$ 标准差（mean±SD）表示。
+
+# 2结果与分析
+
+2.1奶牛乳腺组织中脂代谢相关生化指标检测结果如表4所示，与正常组相比，高脂组奶牛乳腺组织中TC、TG 和VLDL的含量显著升  
+高（ $. P { < } 0 . 0 5 )$ )，HDL-C 的含量呈降低趋势，LDL-C 的含量呈升高趋势，但差异均不显著$( P { > } 0 . 0 5 )$ 。
+
+# 表4奶牛乳腺组织中脂代谢相关生化指标检测结果
+
+Table 4 Detection results of lipid metabolism-related biochemical indexes in mammary   
+
+<html><body><table><tr><td colspan="4">10 tissue of dairy cows</td></tr><tr><td>项目</td><td>正常组</td><td>高脂组</td><td>P值</td></tr><tr><td rowspan="2">Items</td><td>Normal group</td><td>High lipid</td><td>P-value</td></tr><tr><td></td><td> group</td><td></td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.90±0.57a</td><td>5.36±0.79b</td><td>0.04</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.06±0.03a</td><td>0.10±0.01b</td><td>0.04</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4"></td></tr><tr><td>高密度脂蛋白胆固醇 HDL-C/(mmol/L)</td><td>0.09±0.01</td><td>0.08±0.01</td><td>0.55</td></tr><tr><td>低密度脂蛋白胆固醇 LDL-C/(mmol/L)</td><td>0.24±0.01</td><td>0.26±0.01</td><td>0.99</td></tr><tr><td>极低密度脂蛋白VLDL/(mmol/L)</td><td>0.02±0.01a</td><td>0.03±0.01b</td><td>0.02</td></tr></table></body></html>
+
+# 111 2.2奶牛乳腺组织HE 染色镜检结果
+
+如图1所示，HE染色可见，正常组（图1-A、图1-B）乳腺腺泡结构完整，乳腺细胞排列整齐，细胞界限清晰，未见病理学变化；高脂组（图1-C、图1-D）细胞核被染成蓝色，细胞间质被染成紫红色，腺泡上皮细胞脱落，乳腺腺泡壁明显增厚，有充血情况，细胞肿胀，部分细胞脂滴增多，部分细胞核染色质浓缩、边移、细胞轮廓不清。
+
+![](images/ba635cccb9b9797f870c8e215ef6adfc6d2657f404e9c23716d918864dda82cc.jpg)  
+图1奶牛乳腺组织HE 染色图片
+
+正常组：A， $1 0 \times$ ；B， $4 0 \times$ 。高脂组：C， $1 0 \times$ ；D， $4 0 \times$ 。Normal group: A, $1 0 \times$ B, $4 0 \times$ High lipid group: C, $1 0 \times$ ；D, $4 0 \times$
+
+Fig.1HE staining pictures for mammary tissue of dairy cows
+
+# 2.3奶牛乳腺组织油红O染色观察结果
+
+如图2所示，正常组（图2-A、图2-B）可见细胞核明显呈蓝色，红色区域较少，主要集中在细胞边缘，仅有少量脂滴聚集；高脂组（图2-C、图2-D）有大片红色区域，红色加深，小叶间结缔组织密度增加，乳腺上皮可见脂滴相互融合形成大的空泡状脂肪细胞，细胞边界模糊，细胞核染色质浓缩、边移。
+
+![](images/c76252e8dcd51b72160d25af4133925fd9b7bb2f2cfdf4604f73f89a1b9d9619.jpg)  
+图2奶牛乳腺组织油红O染色图片
+
+正常组：A， $1 0 \times$ ；B， $4 0 \times$ 。高脂组：C， $1 0 \times$ ；D， $4 0 \times$ 。Normal group: A, $1 0 \times$ ；B, $4 0 \times$ High lipid group: C, $1 0 \times$ ；D, $4 0 \times$
+
+Fig.2 Oil red O staining pictures for mammary tissue of dairy cows
+
+2.4奶牛乳腺组织脂代谢相关基因qRT-PCR检测结果如表5所示，与正常组相比，高脂组奶牛乳腺脂代谢过程中的内源合成关键酶基因乙酰辅酶A羧化酶（ACC1）以及活化相关基因乙酰辅酶A合成酶2（ACSS2）、长链脂酰辅酶A合成酶1（ACSL1）的相对表达量显著升高（ $P { < } 0 . 0 5$ )，摄取和转运关键基因脂肪酸结合蛋白3（FABP3）、分化抗原簇36（ $C D 3 6 \mathrm { ; }$ 、脂蛋白脂肪酶（LPL)，去饱和酶关键基因硬脂酰辅酶A去饱和酶（SCD）、脂肪酸去饱和酶1（FADS1）以及乳酯化关键基因乙酰甘油磷酸脂酰转移酶6（AGPAT6）的相对表达量显著降低（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，合成调控关键酶基因固醇调节元件结合蛋白-1c（SREBP-1c）、过氧化物酶体增殖物激活受体γ（ ${ \it P P A R } \gamma$ ）以及乳酯化关键基因甘油-3-磷酸脂酰转移酶（GPAM)、磷脂酸磷酸酯酶1（LPIN1）、二酰甘油脂酰转移酶1（DGAT1）的相对表达量呈降低趋势，但差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ 。
+
+# 表5奶牛乳腺组织中脂代谢相关基因qRT-PCR 检测结果
+
+Table 5Detection results of qRT-PCR of lipid metabolism-related genes in mammary tissue   
+
+<html><body><table><tr><td colspan="4">of dairy cows</td></tr><tr><td>项目</td><td>正常组</td><td>高脂组</td><td>P值</td></tr><tr><td>Items</td><td></td><td>High lipid group</td><td>P-value</td></tr><tr><td>乙酰辅酶A羧化酶</td><td>Normal group</td><td></td><td></td></tr><tr><td>ACC1</td><td>1.00±0.00A</td><td>2.38±0.27B</td><td><0.01</td></tr><tr><td>脂肪酸合酶 FAS</td><td>1.00±0.00</td><td>1.01±0.74</td><td>0.09</td></tr><tr><td>长链脂酰辅酶A合成酶1</td><td>1.00±0.00a</td><td>3.42±1.77b</td><td>0.04</td></tr><tr><td>脂蛋白脂肪酶</td><td>1.00±0.00a</td><td>0.12±0.11b</td><td>0.02</td></tr><tr><td>LPL</td><td></td><td></td><td></td></tr><tr><td>分化抗原簇36</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00A</td><td>0.31±0.15B</td><td><0.01</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>CD36</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td><0.01</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>脂肪酸结合蛋白</td><td>1.00±0.00A</td><td>0.29±0.11B</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>乙酰辅酶A合成酶2</td><td>1.00±0.00a</td><td>1.89±2.29b</td><td>0.02</td></tr><tr><td>ACSS2</td><td></td><td></td><td></td></tr><tr><td>硬脂酰辅酶A去饱和酶</td><td></td><td></td><td><0.01</td></tr><tr><td>SCD</td><td>1.00±0.00A</td><td>0.28±0.11B</td><td></td></tr><tr><td>脂肪酸去饱和酶1</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00a</td><td>0.37±0.10b</td><td>0.03</td></tr><tr><td>FADS1</td><td></td><td></td><td></td></tr><tr><td>甘油-3-磷酸脂酰转移酶</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00</td><td>0.94±0.56</td><td>0.06</td></tr><tr><td>GPAM</td><td></td><td></td><td></td></tr><tr><td>乙酰甘油磷酸脂酰转移酶6</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00A</td><td>0.29±0.11B</td><td><0.01</td></tr><tr><td>AGPAT6</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>二酰甘油脂酰转移酶1</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00</td><td>0.76±0.55</td><td>0.08</td></tr><tr><td>DGAT1</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>磷脂酸磷酸酯酶1</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00</td><td>0.93±0.99</td><td>0.91</td></tr><tr><td>LPIN1</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>固醇调节元件结合蛋白-1c</td><td></td><td></td><td></td></tr><tr><td></td><td>1.00±0.00</td><td>0.56±0.39</td><td>0.11</td></tr><tr><td>SREBP-1c</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>过氧化物酶体增殖物激活受体γ</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.52±0.62</td><td></td></tr><tr><td></td><td>1.00±0.00</td><td></td><td>0.25</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>PPARY</td><td></td><td></td><td></td></tr></table></body></html>
+
+高脂血症是指血液中脂类含量升高的一种代谢性疾病，临床上常以血脂水平升高及血液外观异常为特征，表现为血清 TC、TG含量升高、HDL含量降低，继发肥胖、高血压、糖尿病等[15-16]。本试验以高脂血症奶牛为研究对象，结合血清相关生化指标的检测、病理形态子的观茶怕孔脉朋代谢怕大丕四的衣込，比妆王面地抔讨」向胆血症刃干血消中王女王化拍标的变化和乳腺脂代谢相关基因表达的变化。本试验中，高脂血症奶牛血清胰岛素（INS）、HDL-C 的含量呈降低趋势，血清 TC、LDL-C 的含量呈升高趋势，李天宇[17]奶牛高酮血症的部分血液生化指标特征研究中证实高脂血症奶牛血液中TC、TG 含量升高，这与本试验的检测结果是一致的。血液指标被认为是监测奶牛群体健康和预测奶牛群体患病风险的主要依据[18]，本试验根据奶牛血清生化指标中INS 含量差异和脂代谢指标中TC、TG、LDL-C、HDL-C 含量差异将奶牛分为正常组和高脂组。HE 染色病理学观察可见，正常组奶牛乳腺组织中乳腺腺泡细胞的结构完整，乳腺细胞排列整齐，细胞界限清晰，未见病理学变化，而高脂组奶牛乳腺组织细胞核被染成蓝色，细胞间质被染成紫红色，乳腺腺泡上皮细胞脱落，乳腺腺泡壁明显增厚，有充血情况，细胞肿胀，部分细胞脂滴增多，部分细胞核染色质浓缩、边移，细胞轮廓不清。这与唐海林等[19利用改良的脂肪染色法观察到的含有大量脂肪组织的器官 HE 染色的结果相一致。油红O染色法主要是将脂肪细胞中的脂肪（主要指 TG）特异性地染成红色，一般来说,脂肪含量越高,油红O染色时着色就越多,红色区域就越大[20-22]。本试验中，油红O染色可见正常组奶牛乳腺组织细胞核明显呈蓝色，红色区域较少，主要集中在细胞边缘，仅有少量脂滴聚集，而高脂组乳腺组织有大片红色区域，且红色加深，小叶间结缔组织密度增加，乳腺上皮可见脂滴相互融合形成大的空泡状脂肪细胞，细胞边界模糊，细胞核染色质浓缩、边移。这与甄贞等[23]的研究结果一致。qRT-PCR 检测结果显示，高脂组奶牛乳腺组织中脂代谢摄取和转运关键基因FABP3、CD36，去饱和酶关键基因 SCD、FADS1，乳酯化关键基因AGPAT6的相对表达量显著降低，活化相关基因ACSS2、ACSL1的相对表达量显著升高，与张娜等[24]在奶牛乳腺调控乳脂合成关键基因表达分析的试验中得出的CD36、AGPAT6、DGAT1相对表达量降低的结果相一致。本试验结果在一定程度上提供了关于高脂血症奶牛乳腺组织脂代谢相关基因表达变化的信息。但由于基因表达的变化受到多种复杂因素的影响，所以目前仍不能明确解释这些信息变化之间的相互关系以及各基因
+
+表达改变的临床意义，这些问题尚需在后续的研究中进一步验证和探讨。  
+新生畜能量和必需脂肪酸主要来源于乳脂，哺乳期乳腺是合成TG的主要器官。乳脂合成主要包括3个阶段，即脂肪酸的合成、TG 的合成和脂滴的形成。TG主要贮存于脂肪组织中，在血液中以水溶性脂蛋白形式存在。TG 含量的测定主要用于判断脂代谢状况，TG含量降低表明肝脏合成和分泌VLDL 的能力降低。胆固醇在血液中常与载脂蛋白结合，以可溶性脂蛋白的形式存在，胆固醇含量测定对脂代谢异常和某些肝胆疾病的诊断具有一定意义。当胆固醇相关代谢途径基因的表达量下降时，机体的代谢处理功能负荷不了胆固醇的产生，可造成胆固醇的分解代谢异常，导致胆固醇堆积，造成血脂水平异常。目前，整个乳脂代谢合成过程的分子机制尚未完全明确。乳脂的合成由多个转录因子及其功能基因协作完成，研究表明，固醇调节元件结合蛋白（SREBP)、PPARγ是调控乳脂合成的重要因子，它们通过结合下游乳脂合成相关基因的核酸序列来启动这些基因的表达。因此，研究乳脂合成相关基因的表达变化和调控机理可以完善泌乳机制[25-27]。  
+本试验仅选取了奶牛乳腺组织中脂代谢相关的若干个基因作为研究对象，在后续的试验中还可以将更多参与脂代谢的相关基因纳入研究范围，结合免疫组织化学法和蛋白质免疫印迹反应的检测以及其他分子生物学技术，从而更全面地研究高脂血症奶牛脂代谢模式。4结论  
+高酯血症奶牛乳腺组织出现大量脂滴蓄积，乳腺上皮细胞形成空泡变性，细胞核染色质浓缩、边移的典型病理变化；同时，高脂血症促使奶牛乳腺组织中脂代谢指标发生紊乱，相关脂代谢基因表达发生变化，其作用机制可能与高脂血症促进乳腺脂肪酸合成有关。参考文献:  
+[1]BAUMAN D E,MATHER I H,WALL R J,et al.Major advances associated with thebiosynthesis of milk[J].Journal of Dairy Science,2006,89(4):1235-1243.  
+[2]郭志新.mTOR 信号通路在牛乳腺上皮细胞甘油三脂和脂肪酸合成中的作用[D].硕士学
+
+位论文.呼和浩特:内蒙古大学,2016.
+
+[3] BIONAZ M,TREVISI E,CALAMARI L,et al.Plasma paraoxonase,health,inflammatory conditions,and liver function intransitiondairycows[J].JournalofDairy Science,2007,90(4):1740-1750.   
+[4]才文明.高 NEFAs 诱发奶牛脂肪细胞胰岛素抵抗研究[D].硕士学位论文.长春:吉林农业 大学,2016.   
+[5] GRUMMER R R.Etiology of lipid-related metabolic disorders in periparturient dairy cows[J].Journal of Dairy Science,1993,76(12):3882-3896.   
+[6]张玉明.NEFAs 和 BHBA 对奶牛中性粒细胞 TLR2/4-NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 信号通路的影响[D].硕士学 位论文.长春:吉林大学,2015.   
+[7]LIU L,LI X W,Li Y,et al.Effects of nonesterified fatty acids on the synthesis and assembly of very low density lipoprotein in bovine hepatocytesin vitro[J].Journal of Dairy Science,2014,97(3):1328-1335.   
+[8]邓清华.NEFAs 对犊牛原代肝细胞糖脂代谢的调控机制[D].博士学位论文.长春:吉林大 学,2015.   
+[9] LYKKESFELDT J,SVENDSEN O.Oxidants and antioxidants in disease:oxidative stress in farm animals[J].The Veterinary Journal,2007,173(3):502-511.   
+[10] TURK R,JURETIC D,GERES D,et al.Influence of oxidative stress and metabolic adaptation on PON1 activity and MDA level in transition dairy cows[J].Animal Reproduction Science,2008,108(1/2):98-106.   
+[11]张中原.腧穴"降脂方"逆转高脂血症及针刺信号的传导与整合机制的研究[D].博士学位 论文.天津:天津中医药大学,2015.   
+[12]胡慧明,朱彦陈,朱巧巧,等.实验性高脂血症动物模型比较分析[J].中国中药杂
+
+志,2016,41(20):3709-3714.
+
+[13]HU X,FENG Y,SHEN Y,et al.Antidiabetic efect of a novel non-thiazolidinedione PPAR γ/α agonist on ob/ob mice[JJ.Acta Pnarmacologica Sinica,zUu6,∠/(1U): 1346-1552.
+
+[14]王英,王志丹,宋囡,等.高脂血症大鼠肝脏脂蛋白和胆固醇代谢信号通路相关基因表达的变化[J].辽宁医学院学报,2016,37(2):1-5.  
+[15]殷玥琪,杨立刚,孙桂菊.高脂血症与高血压相关性及其代谢异常研究进展[J].中国老年学,2014,34(5):1414-1417.  
+[16]MASSBERG S,BRAND K,GRUNER S,et al.A critical role of platelet adhesion in theinitiationofatheroscleroticlesionformation[J].JournalofExperimentalMedicine,2002,196(7):887-896.  
+[17]李天宇.奶牛高酮血症的部分血液生化指标特征研究[D].硕士学位论文.广西大学,2013.  
+[18]李国鹏.围产期奶牛低血糖症、高酮血症、亚临床低钙血症血液生化指标的监测[D].硕士学位论文.长春:吉林大学,2015.  
+[19]唐海林,唐荣军,宋颖,等.一种改良的脂肪染色法[J].诊断病理学杂志,2006,13(2):153-154,178.  
+[20]王肖燕,王金泉,姚刚,等.脂肪组织冰冻切片油红O 滴染法的建立[J].家畜生态学报,2014,35(8):58-60,96.  
+[21]秦红霞,赵玲,王宇豪,等.两种脂肪细胞内脂滴染色方法的比较研究[J].中国组织化学与细胞化学杂志,2014,23(6):544-547.  
+[22] 王俊梅,平苏宁,汪泓,等.结缔组织铺片脂肪组织油红染色在组织学实验教学中的应用[J].中国组织化学与细胞化学杂志,2014(4):382-384.  
+[23] 甄贞,曲波,姜毓君,等.中国荷斯坦牛乳腺不同发育时期乳腺细胞内大分子成分变化研究[J].东北农业大学学报,2014,45(4):71-77.
+
+[24]张娜,王小艳,李庆章,等.奶牛乳腺中调控乳脂合成关键基因表达分析[J].东北农业大学学报,2014,45(6):84-90.
+
+[25] 王建国.围产期健康奶牛与酮病、亚临床低钙血症病牛血液代谢谱的比较与分析[D].博 士学位论文.长春:吉林大学,2013.   
+[26]宗灿华.奶牛乳腺主要乳成分合成代谢的转录组学研究[D].博士学位论文.哈尔滨:东北 农业大学,2013.   
+[27]MORENO J J,MITJAVILA M T.The degree of unsaturation of dietary fatty acids and the development of atherosclerosis (review)[J].Journal of Nutritional Biochemistry,2003,14(4):182-195. Changes of Related Biochemical Indexes and Gene Expressions of Lipid Metabolism in Mammary Tissue for Hyperlipidemia Dairy Cows MING PengfeiHUANG Yingying DONG Yanli NIE Xingcan FENG Shibin WANG Xichun CHENG Jianbo LI Jinchun WU Jinjie LI Yu\*   
+(College of Animal Science and Technology, Anhui Agricultural University, Hefei 230036, China)   
+Abstract: This experiment was aimed to study the changes of related biochemical indexes and   
+gene expressons of lipid metabolism in mammary tissue for hyperlipidemia dairy cows. Twelve   
+Holstein dairy cows were selected and the main biochemical indexes in serum of dairy cows were   
+determined by automatic biochemical analyzer. The dairy cows were divided into normal group   
+and high lipid group according to whether the contents of total cholesterol (TC) and triglycerides   
+(TG) in serum increased. Mammary tissue was selected for pathological sections and stained with   
+oil red O,to observe pathological change and lipid droplet in mammary tissue. Total RNA of   
+mammary tissue was isolated to detect the relative expression levels of lipid metabolism related
+
+genes by real time quantitive PCR (qRT-PCR). The results showed as follows: 1） the lipid metabolism indexes of TC,TG and very low density lipoprotein (VLDL） contents in mammary tissue of high lipid group were significantly increased $( P { < } 0 . 0 5 )$ ，the high density lipoprotein cholesterin (HDL-C) content was decreased,and the low density lipoprotein cholesterin (LDL-C) was increased，but no significant differences of them were found $( P { > } 0 . 0 5 )$ . 2)Pathological observation of dairy cows in the high lipid group showed that mammary epithelial cells shedding and mammary acinar wall was obviously thickened as well as cell swelling, some cell fat droplets increased, nuclear chromatin shrank, edge shift, cell contours unclear. Oil red O staining showed that the nuclei of dairy cows in the normal group was blue,and the red area was less, mainly concentrated on the edge of the cell, only a small amount of lipid droplets gathered. In the high lipid group,there were large red areas,and the connective tissue density increased. The lipid droplets were fused together to form large vacuolated fat cels. 3） Compared with the normal group，the relative expression levels of endogenous synthesis key enzyme gene acetyl-CoA carboxylase $( \mathrm { A C } C 1 \$ ） and activation genes acetyl-CoA synthase 2 (ACSS2） and long chain lipid coenzyme A synthase 1 (ACSL1) of mammary fat metabolism in the high lipid group were significantly increased $( P { < } 0 . 0 5 )$ ，while the relative expression levels of uptake and transport key genes fatty acid binding protein 3（FABP3 ），differentiated antigen cluster 36 (CD36） and lipoprotein lipase（LPL）,denaturize key genes stearyl coenzyme A desaturase (SCD) and fatty acid desaturase 1（FADS1），lactamase key gene acetyl glycerol phosphatidyl transferase 6 (AGPAT6) were significantly reduced $( P { < } 0 . 0 5 )$ . It can be concluded from the present study that hyperlipidemia causes blood lipid level increasing and make obvious pathological changes of mammary tissue as well as mammary lipid metabolism related genes expression of dairy cows.
+
+Key words: hyperlipidemia; dairy cows; biochemical indexes; mammary lipid metabolism; gene expression

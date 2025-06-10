@@ -1,0 +1,245 @@
+# DOI:10.5846/stxb201608211716
+
+吴舒尧,黄姣,李双成.不同生态恢复方式下生态系统服务与生物多样性恢复效果的整合分析.生态学报,2017,37(20):6986-6999.WuSY,HalosSinica,2017,37(20) :6986-6999.
+
+# 不同生态恢复方式下生态系统服务与生物多样性恢复效果的整合分析
+
+吴舒尧,黄姣,李双成
+
+北京大学城市与环境学院地表过程分析与模拟教育部重点实验室,北京大学土地科学中心，北京100871摘要：全球范围内关键生态系统服务的减少使人类社会面临巨大的威胁,生物多样性是生态系统提供各种产品和服务的基础。生态恢复工程对退化的生态系统服务和生物多样性进行修复,对于缓解人类环境压力具有非常重要的意义。长期的理论和实践工作形成了多种生态恢复措施：(1)单纯基于生态系统自我设计的自然恢复方式,(2)人为设计对环境条件进行干预,反馈影响生态系统的自我设计，（3)人为设计对目标种群和生态系统进行直接干预和重建。这3类恢复方式可以在不同程度上定向的影响生态系统的恢复进程,反映了人类对生态系统的低度、中度和高度介人。哪种恢复方式和介入程度能够实现更好的恢复效果,是生态恢复学中的一个关键问题,但到目前为止,虽广有争议,却无定量的分析和结论。针对这个空白,通过对ISI Web ofKnowledge 数据库中生态恢复相关文献的整合分析,基于数学统计的方法定量比较在不同条件下低度介入（自然恢复）、中度介人(环境干预)和高度介入(直接干预)3种恢复方式对生态系统服务与生物多样性的恢复效果。论文从4个方面展开研究：(1)低度、中度、高度介人生态恢复方式的划分，（2)比较3大类介入方式对生态系统服务和生物多样性恢复效果的差异，（3）不同气候条件、生态系统类型和恢复时间等背景因素的影响，(4)生物多样性恢复和生态系统服务恢复之间的关系。研究结果揭示了不同生态恢复方式的适用条件,以及对生物多样性和生态系统恢复相互关系的作用,对生态恢复实践中恢复方式的选择有指导作用。对未来的研究也有启示意义,如针对特定生态系统服务或具体研究问题进一步探索低度、中度和高度介入生态恢复方式的作用规律和机制;将地区的社会经济水平(生态系统的受损程度等因素纳入生态恢复方式的考察,以最优化生态恢复成本-效率等。 ?
+
+关键词：生态恢复；整合分析；生态系统服务；生物多样性
+
+# Effects of different ecological restoration approaches on ecosystem services and biodiversity : a meta-analysis
+
+WU Shuyao， HUANG Jiao,LI Shuangcheng\*   
+ColegeofUolbofstfd   
+University，Beijing 100871，China
+
+Abstract:Thegloballossesof biodiversityand critical ecosystemservicesaregreat threats to human society.Ecological restoration isanimportant waytoregainthelost ecosystemservicesandbiodiversity.Inorder toachieve successfulresults, various restorationapproaches havebeen developed.While some approaches takeadvantage oftheself-designing abilityof natural restorationsystems，others relyon man-made designs at various levels.Since different restoration approaches may havedifferent efects，identifying thebestapproach becomescrucial forsuccsfulrestoration implementationInorderto achievethis objective，we proposed herein a system to clasify variousrestoration methods intothree types of approaches,
+
+http ://www.ecologica.cn
+
+namely，high-，intermediate-andlow-intensityinterventionapproachesbasedontheintensityorthedegreeof human intervention.Wethenconductedameta-analysis byusingdataobtainedfromISIWebof Knowledge to studytheffctsof diferentrestoration approaches on ecosystem servicesand biodiversity.In addition，weexamined restoration effectsunder diferent climate zones，ecosystem types，restorationages，and ecosystem service types.Finally，therelationshipbetween biodiversityand ecosystem services was studied.Weused the median responseratio asan indicator of biodiversity and ecosystemservicerestorationefects.Sinceourdata were notnormally distributed，WilcoxonandKruskal-Walls nonparametricanalyses were appliedtodetect statistical diferences.Spearmanrank analysiswasusedto testthecorelation between biodiversityandecosystem services.Inthisstudy，a low-intensity interventionapproach indicatesthatthe restoration efectsareentirelyachieved bynaturalforces.Humancontributions toecosystemrestorationoccuronlythrough behavioral changes，suchasland abandonmentand threatremoval.The intermediate-intensity approach aplies when people onlyaltertheenvironmentduringrestoration.Thereis nodirect intervention exertedonrestoration targets.Someexamplesof intermediate intensityaproaches includefertilizerapplication，theestablishmentof greencorridors toimprove habitat conectivity，andtheaditionof largedeadwoodtostreamsinordertoimprovehabitatheterogeneity.Ahigh-intensity approach is defined bydirect human controlonrestoration targets.Thisapproach usuall involvesanthropogenic biological recovery of a degraded ecosystem.Tree plantingand species introductionare goodexamplesof high-intensity approaches. The meta-analysis indicated that the median increment of ecosystem services and biodiversity in restored ecosystems was （20 $45 \%$ and $1 5 1 \%$ ，respectively，when compared to that of degraded ecosystems.The median enhancement of ecosystem services and biodiversity was $31 \%$ and $2 5 \%$ ，respectively， for the low-intensity approach， and $31 \%$ and $22 \%$ ， respectively，fortheintermediate-intensityapproachApositivecoelationwasobservedbetween biodiversityandecosystem services，especialyinrestored versus degraded ecosystems.Further detailedanalysis revealedasignificantvariation with regard tothe efects ofrestoration approaches dependentonrestorationgoals（biodiversityor ecosystem services），referring systems（degraded or reference），climatic conditions，and timeelapsed since restoration.However，some prominent diferences werestillfoundintropicalandterrestrialecosystems.Inthiscontext，thehigh-intensityapproachgenerally generatedthebestrestoration efects whencompared todegraded ecosystems.However,thisapproach maybe suboptimalif thegoal ofrestorationistorecreatetheoriginalenvironmental state.Indeed，thehighcomplexityofreferenceecosystems maybemore easilyrecreated via intermediate intensityapproaches.Our study emphasizes the importanceof considering socioeconomic factors duringrestorationplanningandcreating a standardevaluation system forrestoration effects and sustainability based on indicators of ecosystem services.
+
+Key Words: ecological restoration；meta-analysis ； ecosystem services ； biodiversity
+
+20 世纪以来，人类活动以前所未有的速度干预自然环境,引起全球范围内的生态系统退化和生物多样性锐减[1-2]。人类社会的健康存续,紧紧依赖于从生态系统中直接或间接获取的各种产品和服务[1]。关键生态系统服务的减少使人类社会面临巨大的威胁[3]。20世纪80年代恢复生态学的诞生标志着退化生态系统的恢复成为理论和实践的热点问题[4-5]。国际生态恢复学会将生态恢复定义为“促进退化、受损或消失的生态系统恢复到自然生态系统的过程”6]。其主要目标为重建生态系统的结构及其提供生态系统服务的能力。学者提出了多种指标体系用于对恢复效果的评价[7]。但从国际上的工作来看,生物多样性和生态系统服务是最为重要的生态恢复目标和定量评价指标[8-10]。生物多样性,包括基因多样性、物种多样性、种群多样性等,是生态系统提供粮食、淡水等各种物质产品和大气调节、土壤保持、水质净化等各种服务的基础[]。我国学者也提出,生物多样性和生态系统服务的恢复是生态恢复工程的首要目标和前沿课题[12]。
+
+如何有效的恢复退化系统的生物多样性和生态系统服务,学界存在大量的争论。生态学中传统的“自然平衡"理念认为退化土地的恢复应由自然发挥其作用,但学者也指出,对于极度退化的森林和沙漠化的草地等生态系统的恢复,仅依赖自然恢复是难以成功的[13]。恢复生态学概括出自我设计和人为设计理论,作为不同生态恢复措施的理论基础[5]。自我设计理论认为退化生态系统将根据环境条件合理的组织自身,经过足够长的时间,最终改变其组分。而人为设计理论则认为通过工程方法和植物重建可直接恢复退化的生态系统,恢复的结果也具有很多的可能性。因此，除自然恢复以外,还存在另外两大类修复方式：一种是对环境条件的干预,从而反馈影响生态系统的自我设计;另一种是对作为恢复对象的生物种群、群落、以至生态系统的直接干预。从自然恢复,到环境干预,再到直接干预,反映了人类对生态系统的低度、中度和高度介入,可以在不同程度上定向的影响生态系统的恢复进程。
+
+然而,哪种恢复方式和介入程度,能够实现更好的恢复效果？Aradottr与 Hagen[3]从理论上探论了不同恢复方式适用的条件,但学界对此并无定量的分析和结论[14]。全球已有大量基于生物多样性与生态系统服务指标来定量评估生态恢复效果的工作案例,为整合分析提供了良好的数据来源。本文以生态系统服务与生物多样性这两类重要的生态系统综合特征作为生态恢复效果的指标,试图通过对生态恢复相关文献的整合分析,比较在不同条件下低度介入（自然恢复）、中度介入(环境干预)和高度介入(直接干预)3种恢复方式对生态系统服务与生物多样性的恢复效果。论文首先对收集到的文献进行恢复方式的划分,然后基于数学统计的方法,比较了3种方式下生态系统服务和生物多样性的恢复效果,并区分了不同气候条件、生态系统类型和恢复时间等背景因素,最后讨论了生物多样性恢复和生态系统服务恢复之间的关系。论文的结论可以对我国生态恢复工作中不同恢复方式的选择提供启示。
+
+# 1研究方法
+
+# 1.1文献收集与数据准备
+
+文献的收集与筛选过程参考了Benayas 等[8]、Meli等[9]与 Barral 等[10]的研究。首先在ISI Web ofKnowledge 数据库中使用(（ecosystem or environment \*）and（restor \*or re-creat $*$ or rehabilitat $*$ or recover \*)and（biodiversity or good $*$ or service $*$ or function\*））作为关键词检索生态恢复的文献。然后勾选"environmental sciences ecology”、“biodiversity conservation”、“agriculture”、“rehabilitation”、“marine freshwaterbiology”、“plant sciences”，“microbiology”、“forestry”、“zology”，“water resources”和“fisheries”等研究方向，对结果做进一步筛选。最后对文献的题目与摘要进行浏览。只将进行了生态系统服务或生物多样性定量化研究,且将恢复后生态系统(restored ecosystem）的相关指标与退化生态系统(degraded ecosystem）或参照生态系统(reference ecosystem)进行了比较的文献保留作为整合分析的基础资料。其中,退化生态系统指的是生态恢复前的初始状态,而参照生态系统指没有退化的自然生态系统,常常作为生态恢复的目标。通过该过程一共获得199 篇文献。
+
+紧接着,计算恢复后生态系统与退化生态系统或参照生态系统的响应比值[15],来体现生态系统服务和生物多样性的恢复效果。响应比值为目标变量比值的自然对数,如公式(1)和公式(2)所示：
+
+$$
+R R _ { - \mathrm { d e g } } = \ln \left( X _ { \mathrm { r e s } } / X _ { \mathrm { d e g } } \right)
+$$
+
+$$
+R R _ { - \mathrm { { r e f } } } = \ln \left( X _ { \mathrm { { r e s } } } / X _ { \mathrm { { r e f } } } \right)
+$$
+
+式中， $X _ { \mathrm { r e s } } \cdot X _ { \mathrm { d e g } }$ 和 $X _ { \mathrm { r e f } }$ 分别指代文献中的目标变量(生物多样性或生态系统服务)在恢复后生态系统、退化生态系统以及参照生态系统中的测量值。文献中表征生物多样性恢复的指标包括维管植物丰富度、植物种子的丰度、植被盖度、脊椎/无脊椎动物个体数量、土壤微生物丰富度、Shannon-Weiner 多样性指数等;测量的生态系统服务包括生产服务(鱼类、木材等产品产量）、调节服务(水质调节、碳储存、传粉、种子传播等)和支持服务（土壤质量改善、营养循环等）。 $R R _ { - \mathrm { d e g } }$ 为与退化生态系统的响应比值， $R R _ { - \mathrm { r e f } }$ 为与参照生态系统的响应比值。
+
+然后,将收集到的文献依据其使用的恢复方法（method)划分生态恢复方式（approach）,并对各类恢复方式中用到的主要恢复方法进行了归纳。以减弱或移除人类活动及其他胁迫因子为主要措施,由自然主导的无人为限制的恢复划入低度介入恢复（自然恢复)；主要通过生态系统结构和理化环境的恢复对生态系统的发展施加影响的,划入中度介入恢复(环境干预);直接调控目标种群、群落,或重建生态系统的,划入高度介入恢复(直接干预)。
+
+# 1.2 数据分析
+
+首先,比较了低度、中度和高度介入3类恢复方式在提供生态系统服务和生物多样性方面的效果。Shapiro-Wilk 检验发现数据不符合正态分布,所以使用非参数的Wilcoxon方法来测试响应比值与零是否有显著差异,以确认恢复后的生态系统是否与退化或参照生态系统之间存在显著不同。还针对不同生态系统服务类型（供给服务、支持服务和调节服务）,采用Kruskal-Walls方法检验不同恢复方式之间的效果是否存在显著差异(即 $\scriptstyle P < 0 . 0 5$ )。检验以两种方式进行：(1)针对同种生态系统服务类型,低度、中度、高度介入的恢复方式之间效果是否有显著差异;(2)同类恢复方式(低度/中度/高度介人)的效果在不同生态系统服务类型之间是否存在显著差异。
+
+其次,在考虑背景因素的情况下采用Kruskal-Walls方法检验不同恢复方式之间的效果是否存在显著差异(即 $P { < } 0 . 0 5$ )。此处区分了3种背景因素：(1)区分不同气候类型(热带、温带),(2)区分不同生态系统类型（陆生、水生），（3)区分不同恢复时间段(从生态恢复工程时开始起算， $< 3 \mathrm { a } \mathrm { , 3 \mathrm { - } 1 0 \mathrm { a } \mathrm { , > 1 0 \mathrm { a } ) } }$ 。同上面区分生态系统服务类型的分析一样,检验采用两种方式进行。（1)同种气候类型/生态系统类型/恢复时间的情况下，低度、中度、高度介入的恢复方式之间效果是否有显著差异;(2)同类恢复方式(低度/中度/高度介人)的效果在不同气候类型/生态系统类型/恢复时间的情况之间是否存在显著差异。
+
+最后,分别对3类恢复方式(低度/中度/高度介人)下生物多样性和生态系统服务恢复效果之间的相关关系绘制了散点图,并使用 Spearman相关系数进行了分析。样本为同时评估了生物多样性与生态系统服务的 54份研究;其中,对于采用了多个指标评估生物多样性或生态系统服务的研究,取相应类别响应值的平均值用于分析,以确保每份研究只有一个生物多样性和一个生态系统服务的响应值。为保证足够的样本数量，这里没有区分生态系统服务的类型。 A
+
+199 篇文献的作者、恢复目标、评价指标、响应比值、生态恢复方式划分、及研究对象的生态系统类型、气候类型和恢复时间等背景信息详见补充材料。所有数据分析工作均在 SPSS 21.00 中完成。
+
+# 2结果
+
+2.1生态恢复方式的划分和生态恢复效果数据的分布
+
+表1展示对199篇文献生态恢复方式的划分情况和主要生态措施的归纳。由于一篇文献中常常研究多个生物多样性或生态系统服务的目标值,所以表中的案例数量大于文献总数。低度介人即自然恢复,文献中主要有3类恢复措施,包括禁止人类活动,转变为低影响的管理模式和移除其他胁迫因子如野生动物闯入、污染源等。中度介入,即环境干预,文献中主要有6类生态恢复措施,包括改良土壤环境,改善水文环境,调控营养循环,通过物理手段改善或构建适宜恢复对象生存的生境,通过生物措施改善或构建适宜恢复对象生存的生境和调控野火、洪水、潮汐等自然干扰等。高度介人,即对要恢复的种群、群落和生态系统的直接干预,文献中主要有4类生态恢复措施,包括植被重建,改变种群结构,转变土地利用方式和重建生态系统等。
+
+表1对低度、中度和高度介人的划分不考虑生态恢复项目的规模和成本,而是以人类对生态恢复发展方向的主导程度为依据。虽然低度介入的停止采伐、转变为粗放农业、在农田边界处留出自然生境条带等措施与高度介入中的退耕还林、还草和维护农田边界自然生境条带等措施存在相似之处,但根本区别是,前者以减弱或消除胁迫影响为主,恢复后的生态系统结构和功能完全由自然恢复力决定（如Kardol等[16]）,而后者包括人类持续和主动的对恢复后生态系统的管理,生态恢复方向由人类主导（如 Kohler等[17]）。中度介入中除物理化学措施对生态系统结构和理化环境的作用外,还包括去除入侵种和种植花草等生物措施使得作为恢复对象的植物、昆虫、鸟类等的种群得以发展,虽然这与高度介入中的种群结构调控和植被重建等相似,但根本区别在于,前者的生物措施影响于目标生物的生存环境（如 Kovalenko等[18]）,而后者直接作用于目标生物的种群（如 Kanowski等[19]）。低度介入和中度介入虽都有对干扰因子的调控,但区别在于,前者如前所述强调对外界干扰的消除,让目标区域的生态系统自然恢复,而后者则强调对自然干扰的利用,因为适当频率和强度的野火、洪水和潮汐作用等有利于生物多样性的提高（如 Roman 等[20]）。
+
+Table1 Definition and methods of different ecological restoration approaches   
+
+<html><body><table><tr><td>生态恢复方式 Restoration approaches</td><td>Table 定义</td><td>herehttologar Storatronapproacnes 生态恢复措施</td><td>案例数量 Number of cases</td></tr><tr><td>低度介入(自然恢复) Low intensity(Natural restoration)</td><td>Definitions 以减弱或移除人类活动及其他 胁迫因子为主要措施,由自然主 导的无人为限制的恢复</td><td>Restoration methods ①禁止人类活动,如停止放牧、采伐和耕作等活动， 在农田边界处留出供自然生境恢复的区域等</td><td>98</td></tr><tr><td rowspan="6">中度介入(环境干预) Intermediate intensity （Environment alteration）</td><td></td><td>②采用影响小的管理模式，如转变为粗放农业、浅 耕农业或有机农业模式,停止化肥的施用等 ③减弱或移除其他胁迫因子,如围栏以禁止家畜或 野生动物的闯入破坏，消除交通工具对生境的干</td><td>9 49</td></tr><tr><td>主要通过生态系统结构和理化</td><td>扰,停止对地下水的取用等 ①改良土壤环境,如施肥、添加石灰、使用客土，添</td><td></td></tr><tr><td>环境的恢复对生态系统的发展 施加影响</td><td>加腐殖质和堆肥，以及使用蚯蚓或干草去除土壤中 的石油化学污染物等 ②改善水文环境,如堵塞排水口、提升水位、过滤水</td><td>47</td></tr><tr><td></td><td>质、向水中添加石灰等 ③调控营养循环,如向系统中添加N、P元素或引</td><td>132 40</td></tr><tr><td></td><td>入固氮生物,净化水质以改善过营养化问题等， ④使用物理措施改善和构建生境，如保护鸟类的巢 穴,改造或移除人工堤岸，在河流中添加枯木或卵</td><td></td></tr><tr><td>建造人工浅滩等</td><td>石以增加生境的异质性，移除大坝或开挖水渠使不 同河流 水道连通以增加生境的连通度,修建梯田， ③使用生物措施改善和构建保护对象的生境，如移</td><td>185</td></tr><tr><td rowspan="4">高度介入 (直接干预) High intensity</td><td></td><td>除入侵种使得被保护的本土物种和群落得以繁育 和恢复，种植高草和野花等使昆虫、其他无脊椎动 物和鸟类等的种群得到恢复</td><td>80</td></tr><tr><td>直接调控目标种群、群落，或重</td><td>⑥调控干扰的强度和频率，如对野火、洪水和潮汐 等自然干扰进行利用和调节</td><td>51</td></tr><tr><td>建生态系统 复绿等</td><td>①植被重建，如植树造林、播草、恢复灌木层、河岸</td><td>342</td></tr><tr><td></td><td></td><td>53</td></tr><tr><td rowspan="3">（Direct intervention）</td><td></td><td>②改变种群结构，如移除外来种并增加本地种 ③改变土地利用方式，如退耕还林、退耕还草等</td><td></td></tr><tr><td></td><td>④重建生态系统,如建造人工湿地、珊瑚礁等</td><td>161</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+从文献中最后一共提取出了1865个生态恢复效果数据。这些数据根据响应比值类型、恢复目标、获得区域以及生态恢复方式的不同（表2）。
+
+表1不同生态恢复方式的主要生态恢复措施  
+表2生态恢复效果数据的分类  
+Table 2 Data distribution under various classification methods   
+
+<html><body><table><tr><td>数据分类方法 Data classification methods</td><td>数据分布 Data distributions</td></tr><tr><td>响应比值类型 Response ratio types</td><td>与退化生态系统比较：877；与参照生态系统比较：988</td></tr><tr><td>恢复目标 Restoration targets</td><td>生物多样性：1004;生态系统服务：861</td></tr><tr><td>获得区域Areas</td><td>北美洲：1084;欧洲：392;大洋洲：197;非洲：121;亚洲;85;南美洲：44</td></tr><tr><td>生态恢复方式 Restoration approaches</td><td>低度介入：306;中度介入：687;高度介入：872</td></tr></table></body></html>
+
+3.2生物多样性和生态系统服务及不同服务类型间的恢复效果比较
+
+首先,如图1,将恢复后生态系统与退化生态系统的响应比值换算为提升的百分比后发现,采用低度介人的恢复方式时，生物多样性较退化系统提升了 $2 5 \%$ ，生态系统服务提升了 $3 1 \%$ 。中度介入时，生物多样性和生态系统服务分别提升了 $2 2 \%$ 和 $3 1 \%$ 。高度介入时,两项分别提升了 $1 5 1 \%$ 和 $45 \%$ 。
+
+与参照系统相比较,采用低度介入的恢复方式时,生物多样性离参照系统的差距是 $1 3 \%$ ,而生态系统服务较参照系统提升了 $1 6 \%$ 。中度介入时，生物多样性和生态系统服务较参照系统分别提高了 $6 \%$ 和 $5 1 \%$ 。高度介入时,两项分别较参照系统提高了 $1 \%$ 和 $2 2 \%$ 。
+
+非参数检验的结果显示,低度介人、中度介人和高度介入的恢复方式对生态系统服务和生物多样性的提升效果之间的差异显著。相对于退化的生态系统，人类高度介入的时候恢复效果最好。与参照生态系统对比时，中度介入程度的恢复效果最好。
+
+![](images/1df5d15bf1f2d0dc8d353c3bf04861890ec3e66834424a2328ab0cc069fbb7e2.jpg)  
+图1不同生态恢复方式对生态系统服务与生物多样性的总体影响  
+Fig.1General effects of restoration approaches on ecosystem services and biodiversity
+
+其次,针对不同生态系统服务类型,不同恢复方式的效果比较如图2所示。本研究的样本数据不涉及文化服务,因此只包括供给服务、支持服务和调节服务3种。
+
+图2中各响应值中位数都 ${ \mathrm { > } } 0$ ,表明不同生态恢复方式对这3类生态系统服务类型都有明显的提升效果，且恢复后的水平超过未被破坏的参照生态系统（低度介人方式对供给服务的恢复除外,因本研究只有一个此类样本)。经非参数检验的结果(表3)证实,与退化生态系统相比,恢复目标是调节服务时,高度介人的恢复效果显著优于低度和中度介入;与参照系统比,恢复目标是支持服务时,中度介人的恢复效果优于低度和高度介入，其他情况不显著。
+
+# 3.3生态系统背景因素的影响
+
+# 3.3.1不同气候带
+
+本研究中的样本数据涉及到温带和热带两种气候类型。图3展示了不同气候类型下不同生态恢复方式对生物多样性和生态系统服务的恢复效果。
+
+图3中响应值中位数都 ${ > } 0$ ,表明生态恢复在不同气候条件下对生态系统服务与生物多样性都具有提升效果,而且在生态系统服务恢复方面甚至超出了参照生态系统。经非参数检验的结果(表4)证明,不同介人程度的恢复效果之间的差异在热带地区更为明显。其表现为，与退化系统比较时，高度介入的恢复方式效果最好;而与参照系统比较时,中度介入的恢复方式效果最好,高度介入的恢复效果反而最差。温带地区除与参照系统对比时,生物多样性的恢复效果在高、中、低介入方式之间差异显著外,其余情况都不显著。
+
+对比退化系统 对比参照系统  
+A B8 P-供给 R-调节 S-支持 8 P-供给 R-调节 S-支持7 6  
+r rrosser 65432 ：4：“ 2 ·10 HH9 02 #·#-1-4-2 1 7 25 1 171 21 94 59 1 18 10 265 138 220 7 8 107-3 ns \*\*\* -6 ns ns \*\*\* ns \*\*\*3 1 a rge 2 trgt 2 arg sa
+
+图内数字为样本量,数字下方 $*$ 为 Wilcoxon 测试响应值中位数与0的差别；\*\*\* $P { < } 0 . 0 0 1$ ， $\ast \ast P { < } 0 . 0 1$ ， $* \ : P { < } 0 . 0 5$
+
+表3不同介入程度/不同生态系统服务类型之间生态恢复效果差异的Kruskal-Wallis检验结果  
+ible 3The results of Kruskal-Walis tests under different restoration approaches and ecosystem service type   
+
+<html><body><table><tr><td>生态恢复类别 Categories of restoration</td><td>生态系统服务(对比退化系统) Ecosystem services (vs Degraded)</td><td>生态系统服务(对比参照系统) Ecosystem services（vs Reference)</td></tr><tr><td colspan="3">不同生态系统服务类型之间的差异 Among ecosystem service types</td></tr><tr><td>低度介人Low intensity</td><td>N= 48 H=1.832 P=0.400</td><td>N=44 H=4.321 P=0.115</td></tr><tr><td>中度介人 Intermediate intensity</td><td>N=213 H= 10.411 P=0.005</td><td>N=241 H=0.074 P=0.963</td></tr><tr><td>高度介人 High intensity</td><td>N=246 H=8.583 P=0.014</td><td>N= 337 H=47.486 P=0.014</td></tr><tr><td colspan="3">低、中、高介人恢复方式之间的差异 Among approaches</td></tr><tr><td>供给服务 Provisioning</td><td>N=21 H=0.502 P=0.778</td><td>N=29 H=4.056 P=0.132</td></tr><tr><td>支持服务 Supporting</td><td>N=309 H=0.225 P=0.894</td><td>N=384 H=36.197P=0.000</td></tr><tr><td>调节服务 Regulating</td><td>N=177 H=20.577 P=0.000</td><td>N=209 H=0.962 P=0.618</td></tr></table></body></html>
+
+$N$ :样本量 Sample size; $H$ ：卡方值 Chi-square value
+
+温带与热带之间的恢复结果逐一比较表明，低度与中度介入方式所产生的恢复效果在温带和热带之间没有明显的差异( $\scriptstyle P > 0 . 0 5 )$ ,高度介入的恢复效果在温、热带之间有显著差异(表4)。其表现为,相对于退化生态系统,在热带的恢复效果优于温带;而采用参照生态系统作比较时,在温带的恢复效果优于热带。
+
+# 3.3.2不同生态系统类型
+
+本研究中的样本数据涉及到水生和陆生两种生态系统。图4展示了不同生态系统类型中不同生态恢复方式对生物多样性和生态系统服务的提升效果。
+
+图4中各响应值中位数 $> 0$ ,表明生态恢复对退化的水生和陆生生态系统的生态系统服务与生物多样性都具有提升效果，而图4则表明在水生生态系统中，部分恢复后的生态系统服务与生物多样性的水平甚至高于未被破坏的参照生态系统。经非参数检验的结果(表5)证实,在水生生态系统中,不同恢复方式对于生态系统服务和生物多样性的恢复效果差异不大;陆生生态系统中除相对于参照系统时的生物多样性恢复以外，
+
+![](images/b71b17a0cc2018655405c26499d9a42473e090b885cde1f85fff76d8d0a07295.jpg)  
+图3不同气候类型下生态恢复方式对生态系统服务与生物多样性的影响Fig.3Effects of climate zone and restoration approaches on ecosystem services and biodiversity图内数字为样本量,数字下方\*为Wilcoxon 测试响应值中位数与0的差别; $* * * P { \ll } 0 . 0 0 1$ ， $\ast \ast P { < } 0 . 0 1$ ， $* \ : P { < } 0 . 0 5$
+
+表4不同介入程度/气候带之间生态恢复效果差异的Kruskal-Wallis检验结果
+
+<html><body><table><tr><td>Table 4</td><td colspan="3">The results of Kruskal-Wallis tests under different restoration approaches and climate zones</td></tr><tr><td>生态恢复类别</td><td>生态系统服务</td><td>生态系统服务</td><td>生物多样性</td><td>生物多样性</td></tr><tr><td>Categories of</td><td>（对比退化系统）</td><td>(对比参照系统)</td><td>(对比退化系统)</td><td>(对比参照系统)</td></tr><tr><td></td><td>Ecosystem services</td><td>Ecosystem services</td><td>Biodiversity</td><td>Biodiversity</td></tr><tr><td>restoration</td><td>(vs Degraded)</td><td>(vs Reference）</td><td>(vs Degraded)</td><td>(vs Reference)</td></tr><tr><td colspan="5">不同气候带之间的差异 Between climate zones</td></tr><tr><td>低度介人Low intensity</td><td>N=48 H=0.063</td><td>N= 44 H=01.256</td><td>N= 122 H= 3.793</td><td>N=94 H=0.020</td></tr><tr><td></td><td>P=0.802</td><td>P=0.262</td><td>P=0.051</td><td>P=0.888</td></tr><tr><td>中度介人</td><td>N=213 H=0.02</td><td>N=241 H=0.414</td><td>N=121 H=0.019</td><td>N= 119 H=0.397</td></tr><tr><td>Intermediate intensity</td><td>P=0.887</td><td>P=0.520</td><td>P=0.890</td><td>P=0.528</td></tr><tr><td></td><td>N= 246 H= 6.611</td><td>N= 337 H=47.998</td><td>N= 133 H=31.198</td><td>N= 160 H= 32.777</td></tr><tr><td>高度介人High intensity</td><td>P=0.010</td><td>P=0.000</td><td>P=0.000</td><td>P=0.000</td></tr><tr><td colspan="5">低、中、高介入恢复方式之间的差异Among approaches</td></tr><tr><td>温带 Temperate zone</td><td>N= 390 H=0.733</td><td>N=481 H=4.125</td><td>N=278 H=6.22</td><td>N= 275 H=22.097</td></tr><tr><td></td><td>P= 0.693</td><td>P=0.127</td><td>P=0.045</td><td>P= 0.000</td></tr><tr><td>热带 Tropical zone</td><td>N= 117 H=6.616</td><td>N=141 H= 34.156</td><td>N= 98 H=19.303</td><td>N=98 H=8.931</td></tr><tr><td></td><td>P=0.037</td><td>P=0.000</td><td>P=0.000</td><td>P=0.011</td></tr></table></body></html>
+
+$N$ :样本量 Sample size; $H$ ：卡方值Chi-square value
+
+![](images/0f1683f8058678b36bf5b989e98853607c5f3215755083be9f799427b0ebacfd.jpg)  
+图4不同生态系统类型中生态恢复方式对生态系统服务与生态多样性的影响Fig.4Effects of ecosystem types and restoration approaches on ecosystem services and biodiversity图内数字为样本量,数字下方\*为Wilcoxon 测试响应值中位数与0的差别；\*\*\* ${ P { < } 0 . 0 0 1 }$ ， $\ast \ast P { < } 0 . 0 1$ ， $* P { < } 0 . 0 5$
+
+表5不同介入程度/生态系统类型之间生态恢复效果差异的Kruskal-Wallis检验结果  
+Table 5The results of Kruskal-Walis tests under diferent restoration approaches and ecosystem type:   
+
+<html><body><table><tr><td>生态恢复类别</td><td>生态系统服务 （对比退化系统)</td><td>生态系统服务 (对比参照系统)</td><td>生物多样性</td><td>生物多样性</td></tr><tr><td rowspan="2">Categories of restoration</td><td>Ecosystem services</td><td>Ecosystem services</td><td>(对比退化系统) Biodiversity</td><td>(对比参照系统) Biodiversity</td></tr><tr><td>(vs Degraded)</td><td>(vs Reference)</td><td>(vs Degraded)</td><td>(vs Reference)</td></tr><tr><td colspan="5">不同生态系统类型之间的差异 Between ecosystem types</td></tr><tr><td rowspan="2">低度介人Low intensity</td><td>N=48 H=4.748</td><td>N=44 H=4.015</td><td>N= 122 H= 1.976</td><td>N=94 H=9.51</td></tr><tr><td>P=0.029</td><td>P=0.045</td><td>P=0.160</td><td>P=0.002</td></tr><tr><td rowspan="2">中度介人 Intermediate intensity</td><td>N= 213 H=3.069</td><td>N= 241 H=0.203</td><td>N=121 H=5.253</td><td>N= 119 H= 18.0</td></tr><tr><td>P=0.080</td><td>P=0.653</td><td>P= 0.022</td><td>P= 0.000</td></tr><tr><td rowspan="2">高度介人High intensity</td><td>N= 246 H=1.533</td><td>N=337 H=123.497</td><td>N=133 H=20.121</td><td>N= 160 H= 26.9</td></tr><tr><td>P=0.213</td><td>P=0.000</td><td>P=0.000</td><td>P=0.000</td></tr><tr><td colspan="5">低、中、高介人恢复方式之间的差异 Among approaches</td></tr><tr><td rowspan="2">陆生系统 Terrestrial</td><td>N= 198 H=10.247</td><td>N= 169 H= 30.095</td><td>N= 266 H= 47.089</td><td>N= 204 H=1.19</td></tr><tr><td>P=0.006</td><td>P=0.000</td><td>P=0.000</td><td>P=0.552</td></tr><tr><td rowspan="2">水生系统 Aquatic</td><td>N= 309 H=2.179</td><td>N=453 H=0.053</td><td>N=110 H=2.290</td><td>N=169 H=2.55</td></tr><tr><td>P=0.336</td><td>P=0.974</td><td>P=0.318</td><td>P= 0.279</td></tr></table></body></html>
+
+$N$ :样本量 Sample size; $H$ ：卡方值 Chi-square value
+
+低度、中度和高度介人方式之间恢复效果差异显著。其中,相对于退化生态系统,高度介人的恢复效果最好;  
+相对于参照生态系统,中度介入的恢复效果最好,高度介入的恢复方式反而最差。
+
+水生和陆生生态系统之间恢复效果的逐一比较中,恢复效果存在显著差异的情况有;相对于退化系统，中度介人和高度介人方式对生物多样性的恢复效果均是在陆生生态系统中优于水生生态系统;低度介人方式对生态系统服务的恢复效果在水生生态系统中优于陆生生态系统。相对于参照系统,低度、中度和高度介人方式对生物多样性的恢复效果均是在水生态系统中优于陆生生态系统。低度介入方式和高度介入方式对生态系统服务的恢复效果也是在水生生态系统中优于陆生生态系统。
+
+# 3.3.3不同生态恢复时间
+
+本研究中的样本数据涉及到短期、中期和长期3种恢复阶段。图5展示了不同恢复时间内不同生态恢复方式对生物多样性和生态系统服务的提升效果。
+
+![](images/e4ed5e363440c8b9a3bed6e10e26507020d661ffd2b4fcff984a6d954ee05634.jpg)  
+图5不同恢复时间内生态恢复方式对生态系统服务与生态多样性的影响  
+Fig.5Effects of restoration time and restoration approaches on ecosystem services and biodiversity 图内数字为样本量,数字下方 $*$ 为Wilcoxon 测试响应值中位数与0的差别；\*\*\* $P { < } 0 . 0 0 1$ ， $\ast \ast P { < } 0 . 0 1$ ， $* \ P { < } 0 . 0 5$
+
+图5中各响应值中位数 $> 0$ ，表明不同介人程度的生态恢复方式对退化生态系统的生物多样性和生态系统服务都有明显的提升作用。图5则表明,恢复后的生态系统服务水平甚至可以超过未被破坏的参照生态系统。结合非参数检验的结果(表6)可得出,退化生态系统经不同介入程度的生态恢复之后，生物多样性的恢复效果在短期没有明显差异,在中长期差异显著,表现为高度介入的恢复效果最好;对生态系统服务的恢复效果则在短期和中期差异显著,也表现为高度介入的恢复效果最好,到长期时不同介入程度的影响又变为不显著。与参照生态系统相比,短期内,中度介入的恢复方式对生物多样性和生态系统服务的恢复效果都是最优，中期和长期不同介入方式的影响没有显著差异。
+
+关于低度、中度和高度介入方式各自恢复效果随时间的变化,图5和表6的结果中,时间效应显著的有：相对于退化生态系统，低度介入的恢复方式对生物多样性和生态系统服务的恢复效果短期内最好，中长期水平下降;高度介入的恢复方式对生物多样性的恢复表现为中期效果最好,对生态系统服务的恢复表现为短期最好,中长期逐渐下降。相对于参照系统,中度介入的方式对生物多样性的恢复在短期内最好,之后下降,到长期再度回升;高度介入的方式对生态系统服务的恢复在中期最好。
+
+表6不同介入程度/恢复时间阶段之间生态恢复效果差异的Kruskal-Wallis检验结果  
+.able 6The results of Kruskal-Walis tests under different restoration approaches and restoration stai   
+
+<html><body><table><tr><td></td><td>生态系统服务</td><td>生态系统服务</td><td>生物多样性</td><td>生物多样性</td></tr><tr><td rowspan="4">生态恢复类别 Categories of restoration</td><td>（对比退化系统)</td><td>(对比参照系统)</td><td>(对比退化系统)</td><td>（对比参照系统）</td></tr><tr><td>Ecosystem services</td><td>Ecosystem services</td><td>Biodiversity</td><td>Biodiversity</td></tr><tr><td>(vs Degraded)</td><td>(vs Reference）</td><td>(vs Degraded)</td><td>(vs Reference)</td></tr><tr><td>不同恢复阶段之间的差异 Among restoration stages</td><td></td><td colspan="2"></td></tr><tr><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td rowspan="2">低度介入Low intensity</td><td>N=47 H=9.472</td><td>N=44 H=2.262</td><td>N=94 H=6.488</td><td>N=88 H=0.383</td></tr><tr><td>P=0.009</td><td>P=0.323</td><td>P=0.039</td><td>P=0.826</td></tr><tr><td rowspan="2">中度介入 Intermediate intensity</td><td>N= 191 H=1.791</td><td>N=219 H=3.019</td><td>N= 111 H=0.80</td><td>N=109 H=11.6</td></tr><tr><td>P=0.408</td><td>P=0.221</td><td>P=0.671</td><td>P=0.003</td></tr><tr><td rowspan="2">高度介人High intensity</td><td>N=243 H=9.423</td><td>N= 335 H=12.976</td><td>N= 132 H= 12.5</td><td>N= 159 H=5.38</td></tr><tr><td>P=0.009</td><td>P=0.002</td><td>P=0.002</td><td>P=0.068</td></tr><tr><td colspan="2">低、中、高介入恢复方式之间的差异 Among approaches</td><td colspan="2"></td><td></td></tr><tr><td rowspan="2">短期 Early stage</td><td>N=230 H=7.311</td><td>N=161 H=19.650</td><td>N= 104 H= 1.69</td><td>N=99 H=13.31</td></tr><tr><td>P=0.026</td><td>P=0.000</td><td>P=0.429</td><td>P=0.001</td></tr><tr><td rowspan="2">中期 Intermediate stage</td><td>N= 128 H=6.728</td><td>N= 269 H=2.509</td><td>N=143 H=40.0</td><td>N= 164 H=2.71</td></tr><tr><td>P=0.035</td><td>P=0.285</td><td>P=0.000</td><td>P=0.258</td></tr><tr><td rowspan="2">长期 Late stage</td><td>N=123 H=1.606</td><td></td><td></td><td></td></tr><tr><td>P=0.448</td><td>N= 168 H=4.618 P=0.099</td><td>N=90 H=10.65 P=0.005</td><td>N=93 H=6.308 P=0.043</td></tr></table></body></html>
+
+$N$ :样本量 Sample size; $H$ ：卡方值Chi-square value
+
+# 3.4生态系统服务与生物多样性恢复效果的相关性
+
+图6展示了在不同生态恢复方式下,生物多样性与生态系统服务的相关程度。总体来说,生物多样性与生态系统服务在与退化系统相比时表现出了更强的正相关性。如图6所示,在所有生态恢复方式下,生物多样性与生态系统服务均有显著的相关性( $P { < } 0 . 0 5 )$ ,其中，采用中度介入恢复方式时相关性最强、高度介入其次（P中度<P高度<P低度）。而与参照系统对比时,只有高度介入方式下生物多样性与生态系统服务恢复呈现出了显著的相关性(图6)。
+
+# 4结论与讨论
+
+4.1不同情况下的生态恢复方式选择
+
+本研究的分析结果表明,在以退化系统为参照的情况下,以直接调控目标种群、重建生态系统等措施为主的高度介人方式对生物多样性和生态系统服务的恢复效果最好,特别是在热带与陆生生态系统内（图3和图4)。热带生态系统拥有非常适合植物生长的水热条件,理论上具有很强的自然系统恢复力[21]。以热带雨林采伐迹地的恢复为例,虽然裸地经过一段时间的自然恢复可以普遍发展为次生林,但恢复效果仍然无法与直接进行了生态系统结构干预的高度介入恢复效果相比，从而拉开了与自然恢复的差距。
+
+高度介人与中低度介人的优势差距在陆生生态系统中比在水生生态系统中更为显著,原因与陆、水生系统内自然恢复力的差异有关。水生生态系统相较于陆生系统具有更高的流动性和更新率[22],仅控制污染源排放便可使河流或湖泊的水质在短则数日长则数年之内明显改善。而陆地生态系统被破坏后,自然恢复所需要的时间一般要长很多[23-24]。例如 Casper等[25]的研究显示,仅在移除美国缅因州 Kennebec 河上的三座大坝短短1a之内,河流内的底栖动物多样性就已平均增加了 $3 2 \% _ { \textmd { o } }$ 而在新西兰,Reay 和 Norton[26]发现对退化的森林通过人工种植进行恢复12—35a之后，生物多样性也只增加了约 $2 \%$ 。
+
+![](images/c5c6fe2867d563ac3d4cfd62065635660deffc777a69b9e1451912e00778de2b.jpg)  
+图6不同恢复方式下的生物多样性与生态系统服务 Spearman秩相关性  
+Fig.6Spearman rank correlations between biodiversity and ecosystem services under diferent restoration approaches Rs:Spearman 秩系数 Spearman rank; $N$ :样本量 Sample size
+
+从时间上来看,高度介入方式对生物多样性在中长期的恢复和生态系统服务在中短期的恢复也具有显著作用（图5）。因在退化的生态系统中,原系统结构与物种组成已遭到破坏,常常需要人为促进适生先锋种类的定居,从而改善土壤、小气候等环境条件,并达到生物多样性的临界水平,使得其他物种得以进入并启动后续演替过程[13]。
+
+不过,如果生态恢复的目标是未被破坏的自然生态系统,则往往中度介人的恢复方式效果最好。有研究表明,恢复初期阶段的生物多样性水平和物种组成,对恢复后生态系统的后续演替轨迹有长期的影响[27」,，在矿区生态恢复中,使用速生耐瘠的外来种可快速有效的控制水土流失,但会阻滞生态系统向稳定的地带性植被演替[13]。就算选择了合理的先锋种类,人工重建的生态系统所采用的物种往往与自然生态系统有差别,其复杂性也不如后者[28]。中度介入的恢复方式,通过改善生态系统理化环境和结构,创建适宜于目标种群生存的生境条件,并利用自然干扰来激发生态系统的自我恢复能力,既能够加快生物多样性和生态系统服务的恢复进程,在短期内得到明显改善,又能够促使系统往地带性的自然生态系统演替。
+
+也应该看到,还有很多情况下,3类恢复方式的效果没有显著差异。如在水生与温带生态系统中,恢复效果对介入程度的差异便不敏感(图3和图4)。水生生态系统中的低差异性可能是由于之前所提到的高流动率与更新率。而温带生态系统的低差异性可能是因为高度介人的生态恢复方式常常用于严重退化的生态系统,恢复效果又不如热带生态系统那样显著。例如,中国水土流失严重的黄土高原地区,经过 $2 5 \mathrm { ~ a ~ }$ 的人工造林育林,生态系统服务能力只提高了 $5 5 \% ^ { [ 2 9 ] }$ 。在这些效果差异不明显的情况下,人们便可以更多地考虑成本和现场条件等其他因素来选择相应的恢复方式。
+
+# 4.2生态系统服务与生物多样性恢复效果的相关性
+
+生物多样性是生态系统结构属性的一部分，但因其与生态系统服务之间关系并不是线性的[30],生物多样性与生态系统服务的恢复既可互相促进，又不完全一致。与生物多样性相比，生态系统服务的形成与维持需要一系列生态系统结构与功能的正常运行。在一些情况下,由于不同生态系统服务类型之间存在着权衡或协同等关系[31],对生态系统结构与功能的恢复比单纯对生物多样性的恢复更加复杂,因而具有更大的不确定性[32]。人为高度介入直接干预时,生物多样性的恢复要比生态系统服务的恢复容易得多,两者的相关性因此不如中度介入;通过对生态环境的改善促进生态系统的自我修复,能够达到更好的协同效果（图6)。
+
+在高生物多样性的地区，生态系统服务能力的提升可能存在饱和效应，即更高生物多样性所提升的生态系统功能开始减少[30]。这种饱和效应可以解释图6中与退化系统相比时生物多样性与生态系统服务具有更高的相关性。退化生态系统是生态恢复的起点，与退化生态系统相比较的案例多关注生态恢复的初期。Benayas等[8]的研究结果也支持这一结论。
+
+此外,一些学者如Bullock 等[33]还曾指出,强调生态系统服务恢复的政策可能导致生态恢复工程侧重于单一生态系统服务,而不利于生物多样性的恢复。矿山修复中的人工速生林就是一个典型例子,耐瘠速生的桉树,可以快速控制水土流失,但不利于本土物种成功定居,难以形成具有复杂食物网结构和群落层次的高生物多样性的生态系统。但本研究的结果表明,从已有的生态恢复工作来看,类似的生物多样性和生态系统服务相冲突的现象从整体意义上来讲并不明显。
+
+# 4.3结论
+
+根据研究结果,本研究的主要结论如下：
+
+（1）以直接调控目标种群、重建生态系统等措施为主的高度介入方式对热带生态系统和陆生生态系统的生物多样性和生态系统服务的恢复效果最好。但如果生态恢复的目标是未被破坏的自然生态系统,则以调控生态系统理化环境和结构等环境干预手段为主的中度介入的恢复方式效果最好。（2）在水生态系统和温带生态系统的恢复中,3类恢复方式的效果没有显著差异,一般以自然恢复为主的低介入恢复方式就可以实现目标。（3）已有的生态恢复工作中,生物多样性和生态系统服务的恢复从整体意义上来讲是不冲突的。在恢复初期，两者还有更强的协同效应。
+
+未来的研究需要数量更多、范围更广、质量更高的研究案例,针对特定的生态系统服务如土壤保持,或具体的研究问题如热带雨林采伐迹地的恢复等,进一步探索低度、中度和高度介人生态恢复方式的作用规律,并解释其中的机制。另外,有学者提出假设[3],认为低度介入恢复方式主要依靠自然恢复,具有低成本的优势，方便在大尺度空间范围内使用;随着人类介入程度的提高,恢复面积会因资源限制和成本增加而缩小,生态恢复的见效时间却会更快。未来的研究若能将一个地区的社会经济水平、生态系统的受损程度等因素,纳入对生态恢复介入方式的考察分析中,有助于提供最优化生态恢复成本-效率的方法建议。同时,基于生态系统服务能力对生态恢复效果进行评估也是恢复生态学未来的发展方向之一[34]。建立一套基于生态系统服务能力的生态恢复效果与可持续性评估标准,将促进不同恢复项目之间的比较性研究,使不同恢复项目能够更加有效地相互汲取恢复经验，提高生态恢复的成功率与综合效果。
+
+# 参考文献（References）:
+
+[1]MillecosteAsentEosystesdumanWellbng：odiversitSthsisWasngto，DC:IsndPrs，0.   
+[2]ButchartSHM,Walpole M,CollnB,VanStrienA,SchariemannJPW,AlmondREA,BailleJEM,BomhardB,BrownC,BrunoJ, CarpenterKE,CarrGM,ChansonJ，CheneryAM，CsirkeJ,DavidsonNC,DentenerF,FosterM,GalliA，GalowayJN,GenovesiP, GregoryRD,HckingsM,KaposV,amarqeJF,LeveringtonF,LhJ,McGeochMA,McRaeL,MinasynA,MorellM,feldE E,PaulyD,QaderS,evengaC,SerJR,kolkB,pearD,Stanwel-SithD,SuartS,Sys,TereyM,ell,ViJ, Watson R.Global biodiversity：indicators of recent declines.Science,2O10,328(5982）：1164-1168.   
+[3]AradoirLgenterstoaticpctsvegeaoldetydvasi 2013，120：173-222.   
+[4]Jordan WR,LubickGM.Making NatureWhole：AHistoryofEcologicalRestoration.2nded.Washington,DC:IslandPress,11.   
+［5］任海，彭少麟，陆宏芳.退化生态系统恢复与恢复生态学.生态学报，2004，24（8）：1756-1764.   
+[6]SER（ScietyforEcologicalRsoratiocienceadPolicyWrkingou)TheSERpreroeologicalestoatio4.hp://c. com/sites/www.ser.org/resource/resmgr/custompages/publications/ser_publications/ser_primer.pdf.
+
+http://www.ecologica.cn
+
+［7］吴丹丹，蔡云龙.中国生态恢复效果评价研究综述.地理科学进展，2009，28(4)：622-628.  
+[8]BenaslJtfoioslestotScience，2009,325(5944）：1121-1124.  
+[9]MeliP，BenayasJMR，BalvaneraP，RamosMMRestorationehnceswldbiodiversityandcosystemservicesuply，utrsultsecontext-dependent：a meta-analysis.PLoS One，,2014,9(4）：e93507.  
+[10]BaraleaasJ,eliceiraNQuantfepctsfolgcalestoatioieitdcostecsagroecosystems:a global meta-analysis.Agriculture，Ecosystems and Environment，2015，202：223-231.  
+[11]FuBJngsLodotOitalstaail,5(1): 4-10.  
+[12］彭少麟，陆宏芳.恢复生态学焦点问题.生态学报，2003，23（7)：1249-1257.  
+[13]任海，李志安，申卫军，余作岳，彭少麟，廖崇惠，丁明懋，郭建国.中国南方热带森林恢复过程中生物多样性与生态系统功能的变化.中国科学C辑：生命科学，2006,36(6)：563-569.  
+[14] ChazdonRL.Beyonddeforestation：restoringforestsandecosystemservicesondegradedlands.Science,2008,32(5882）458-1460.  
+[15]Scheiner SM,Gurevitch J. Designand Analysis of Ecological Experiments.2nd ed.Oxford:Oxford University P Oxford,2001.  
+[16]KardolP,ewtoJS,ezeer,MaraunMVanDerenWH.Contrastingdiverstpatesofilmitesandematodsinodarysuccession.Acta Oecologica，2009，35(5）:603-609.  
+[17]KohlerF,VelstJ，VninRlejDAtatatalaledgaitbiatseacehiveitoffobsiinintensively farmed landscapes? Journal of Applied Ecology，2008,45(3）：753-762.  
+[18]KovalenkK,ibleEDugiR.sdingigingbiatssfasiemaceotdbiapleiolfFreshwater Fish，2009,18(2）：305-313.  
+[19]KanowiJaaldelGroeveotofsueadftlunder diferent styles of reforestation.Forest Ecologyand Management，2003,183(1/3）：265-280.  
+[20] RomanCT,RaposK,damoiczS,Jmes-PiiJCateaJGQuantifgvgetatoadektonsposetidaletoratioofNewEngland salt marsh.Restoration Ecology，2002,10(3）：450-460.  
+[21］闫海明，战金艳，张韬.生态系统恢复力研究进展综述.地理科学进展，2012，31（3)：303-314.  
+[22] Nowlin WH,VaiMJ,YangLH.Comparingresourcepulsesinaquaticndterestrialecosystems.Ecologyo，89(3）:647659.  
+[23] ArneborgL,ElsoC,bdB,ebadtAetefifdingingdeep-wateealinillfdidOceanography，2004，49(3）： 768-777.  
+[24]SuresheedKlaateefrUoelilsoutheastern Australian highlands.Earth and Planetary Science Letters，2O13,379:26-37.  
+[25]CasperAFopJvisSourtaholclesposostoaloeKiveane,.River Systems, 2006,16(4) : 541-555.  
+[26]Reay S D,Norton D A Assessing thesuccessof restoration plantings ina temperate New Zealand forest.Restoration Ecology，199,7（3）:298-308.  
+[27]FliKdtoisalaid(5): 243-250.  
+28]FibelR,eCCoatatiosiliedoalt：AudletiUganda.Forest Ecology and Management，1996,81(1/3): 215-226.  
+29]WangYJ,LsofeatobsttisidPlateau,China. Catena,2011,85(1）： 58-66.30] Hector A，Bagchi R.Biodiversity and ecosystem multifunctionality.Nature,20O7,448(7150）：188-190.BenettEM，PetersonGD，GrdonLJUderstandingrelatioshipsamongmultiplecosystemservices.EcologLeters，2，（1）：1394-1404.  
+[32]尹飞，毛任钊，傅伯杰，刘国华.农田生态系统服务功能及其形成机制.应用生态学报，2006,17（5)：929-934.  
+[33]BullckJArosonJ，Newton，AC，PywellRF，Rey-BenaasJestorationofcosystemservicesndboiveitofltsdopportunities.Tends in Ecology& Evolution，2011,26(10）：541-549.  
+[34]丁婧祎，赵文武.生态恢复评价研究进展与展望：第5届国际生态恢复学会大会会议述评.应用生态学报，2014，25（9)：2716-2722.

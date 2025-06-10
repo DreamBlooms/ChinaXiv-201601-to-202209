@@ -1,0 +1,352 @@
+[
+    {
+        "type": "text",
+        "text": "A simulation study of GNSS-R polarimetric scattering from the bare soil surface based on the AIEM model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xuerui $\\mathbf { W u ^ { a , b ^ { * } } }$ Shuanggen Jin ca,b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a．Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 2Oo030, China b.Key Laboratory of space navigation and position technology, Shanghai 2Ooo3o,China c.School of Remote Sensing and Geomatics Engineering,Nanjing University of Infomation Science and Technology, Nanjing 210044, China Tel: 86-21-34775291; Email: xrwu@shao.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past two decades, Global Navigation Satelite System-Reflectometry (GNSS-R) has emerged as a new remote sensing technique for soil moisture monitoring. Some experiments showed that the antenna of $\\mathrm { \\Delta V }$ polarization is more favorable to receive the reflected signals,and the interference patrn technique (IPT） was used for soil moisture and other geophysical parameters retrieval. Meanwhile, the lower satelite elevation anglesare most impacted by the multipath. However, electromagnetic theoretical properties are not clear for GNSS-R soil moisture retrieval. In this paper, the Advanced Integral Equation Model (AIEM) is employed using the wave synthesis technique to simulate different polarimetric scattering at the specular directions. Results show when the incidence angles are larger than $7 0 ^ { \\circ }$ ，scattering at RR polarization (The transmitted signal is Right Hand Circular Polarization (RHCP), while the received one is also RHCP) is larger than that one at LR polarization (The transmitted signal is RHCP, while the received one is Left Hand Circular Polarization (LHCP)), while scattering at LR polarization is larger than that at RR polarization for the other incident angles $( 1 ^ { \\circ } \\sim 7 0 ^ { \\circ } )$ . There is an apparent dip for VV and VR scattering due to the Brewster angle, which will result in the notch in the final receiving power and this phenomenon can be used for soil moisture retrieval or vegetation corrections.The volumetric soil moisture (vms) effects on their scattring are also presented.The larger soil moisture will result in lower scatering at RR polarization,and this is very different from the scattering of the other polarizations.It is interesting to note that the surface correlation function only affects the amplitudes of the scattering coeficients at much less level, but it has no effects on the angular trends of RR and LR polarizations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:GNSS-R; Polarizations; Specular; AIEM ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture is the link between surface water and groundwater, which plays an important role in terrestrial ecosystems and water cycle systems.As one of the determinants in the status of the terrestrial hydrosphere,soil moisture largely controls the evapotranspiration， water migration and carbon cycle on the land surface. Soil moisture is also important for understanding and forecasting climate change, solving global water cycle, water resources management, and basin hydrological model.Meanwhile, it is also one of the necessary conditions for monitoring crop growth, droughts and floods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture has strong spatial and temporal variation heterogeneity. The traditional ground and meteorological monitoring are difficult to meet the requirements. The development of satelite remote sensing technology provides a new method for monitoring. In the past two decades,GNSS-R has emerged as a new promising remote sensing technique due to its unique advantages [1]. Its applications extend from meso-scale ocean remote sensing to the remote sensing of snow,ice and land surface parameters [2-4].As for the land scenario,the most important application is soil moisture monitoring. GNSS-R is an effective complement to existing radars and radiometers,and can be a potential eficient technique for the validation of the L- band soil moisture satelites,such as SMOS (Soil Moisture Satellite)[5] and SMAP (The Soil Moisture Active Passive (SMAP) mission) [6]. However, as an emerging means of Earth observation, there are many open problems that need to be solved, such as the polarizations properties of the reflected signals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polarizations are one of the most important properties of the electromagnetic waves. The polarization of a plane wave describes the shape and direction of the space trajectory formed by the end of the electric field vector as a function of time.However, diferent from the traditional linear polarizations of the microwave remote sensing，the transmitted polarization of GNSS (Global Navigation Satelite System) is RHCP (Right Hand Circular Polarization). When the GNSS signals reflect from the surface,their polarizations willchange.Kavak et al.[7] pointed out that the reflected signals consisted two parts,the circular polarization and the perpendicular polarization，which are dependent on the elevation angles.Several experiments have paid attention to the polarization study of GNSS reflected signals. In paper[7], the modified GPS receiver was used,and a horizontal-positioned antenna of LHCP (Left Hand Circular Polarization） polarization was used to collect the coherent energy of the direct signals and the reflected signals. In the SMEX O2/O3(Soil Moisture Experiment 2002/2003） experiments [8],the antennas of the Global Position System-Reflectometry (GPS-R) receiver was different. An airborne GPS-R receiver, known as DMR (Delay Doppler Maps Receiver), was used with two antennas. The standard zenith RHCP antenna was used to collect the direct signal, and the nadir LHCP antenna was for the collections of the surface-reflected signals. Meanwhile, the incidence angles were from $1 5 ^ { \\circ } { \\sim } 3 5 ^ { \\circ } [$ 9]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As early as in 2000, Zavorotny and Voronovich have used the GO (Geophysical Optics Model) scattering model [2] to study the reflections polarizations of soil moisture [10]. They simulated the sensivity of polarization ratios(LR/RR and HR/VR) to the soil moisture at larger incident angles ( $1 6 0 ^ { \\circ }$ and $7 0 ^ { \\mathrm { { o } } }$ ） and concluded theoretically that the polarization ratios can be used for soil moisture measurement,here LR ,RR,HR and VR present the polarization of transmitted signal as RHCP, while the received polarizations are LHCP, RHCP,horizontal (H) and vertical (V),respectively. In the BAOTower (Boulder Atmospheric Observatory-tower） experiment [11],a multi-polarization receiver provided by the NASA Langley Research Center was used. In order to collct the surface reflected signals,a low-gain LHCP and four high-gain antennas (V,H, LHCP and RHCP polarizations) were used. The incidence angle was $3 5 ^ { \\circ }$ and the incident azimuthal angle was $2 4 5 ^ { \\circ }$ .However, the BAOTower experiment did not support their original theoretical hypothesis [10]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At present, the interference pattern technique (IPT) was used for soil moisture and vegetation retrieval [12].An antenna of $\\mathrm { v }$ polarization was employed, since the angular information would be masked due to the Brewster's angle if an antenna of LHCP was used [13]. LEiMON (Land Monitoring with Navigation Signals） was a long-term GNSS-R experimental campaign,which was funded by European Space Agency (ESA) [14]. The experiment was conducted in 2009 using a SAM sensor, antenna of RHCP polarization was used to collect the direct signals and antenna of RHCP or LHCP polarization was used to collect the reflected signals. The elevation angles were from $4 0 ^ { \\circ }$ to $8 0 ^ { \\circ }$ However, their theoretical and experimental results indicated that both the reflectivity of RR and LR Was increasing with the increase of the incidence angle $( 0 { \\sim } 8 0 ^ { \\circ } )$ ，which was very different from the commonly used Fresnel theory of circular polarization in GNSS-R study [2,4]. Different from the specially designed GNSS-R receiver, the multipath information of the geodetic-quality GPS receivers could be used to remotely sense the soil moisture in the top 5cm of soil [15\\~17]. The in-situ measurements showed that the elevation angels with $5 ^ { \\circ } { \\sim } 3 0 ^ { \\circ }$ were most impacted by the multipath[15\\~17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general, most of the GNSS-R soil moisture monitoring is based on the experimental study [8, 9, 11,12,14-17]. It is commonly used the simple combination of geometry to proceed from linear polarization to circular polarization [2,4，14\\~17].RR polarization reflection increases with the incidence angle increases,while LR reflection decreases.The trend isvery different from the LEiMON experimental report [14]. It should be highlighted that only the amplitudes changes are considered [2,4,14\\~17],while phase differences are not considered as calculations from linear to circular[18]. However， with the development of GNSS-R,more attentions should be paid to theoretical models since they can asist in the data interpretation,sensitivity analysis and experiments design,and others [19]. In this paper, we focus on the polarization (especially circular polarization) dependence of bare soil scattering using an AIEM model [20,21], wave synthesis technique is used for arbitrary polarizations calculation in Section 2.Reflectivity of XR polarization and linear polarizations versus incidence angels are presented in Section 3, XR polarization means that the transmitted signal is RHCP polarization and any polarization that is circularly polarized (RHCP and LHCP) or linearly polarized (V,vertical or H,horizontal) is received.From the Mueller matrix,the effects of volumetric soil moisture and surface roughness for different polarizations are evaluated in Section 4.Finally, a conclusion is given in Section 5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．AIEM model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To overcome the ionospheric effects,the transmitted signals are RHCP, while the polarizations of the transmited signals changed after reflected from the soil surface.As shown in Section 1,since the polarizations of the reflected signals are different,the linear (Vertical and Horizontal) and circular (RHCP and LHCP） antennas are used to receive the reflected signals. Therefore，different combinations of polarizations need further study in theory. In this section, the commonly used random rough surface bistatic scattering model of AIEM has been employed. By using the method of wave synthesis technique,the model can calculate the bistatic scattering coeffcient of arbitrary polarization combination (both linear and circular). In this way,the developed bistatic scatering model can be used to study the full polarization characteristics of soil moisture. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The traditional electromagnetic scattering models from random rough surfaces [19] are the Kirchhoff model (KA) model and the Small Perturbation Model (SPM) model.The former is suitable for surfaces with small curvatures or high frequency limit, while the later is applicable to slightly rough surfaces or low frequency. The popular Integral Equation Model (IEM) is developed to bridge the gap between the SPM and KA. However, its several assumptions limit the accuracy, especially for bistatic scattring. The subsequently developed AIEM model is an improvement of the IEM model [20, 22]. Here we focus on the polarization study using the developed surface scattering model for GNSSR applications. It is pointed out that the received power is mainly coming from the first Fresnel zone [23],and therefore only the coherent scatering is considered in our scattering properties study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The bistatic scattering coefficient is related to the modified Mueller matrix as shown below [19]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\sigma } _ { \\boldsymbol { q p } } ^ { \\circ } = \\frac { 4 \\pi } { A } \\mathbf { M } , \\boldsymbol { q } , \\boldsymbol { p } = h , \\boldsymbol { v }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\overset { \\circ } { \\sigma _ { q p } ^ { \\circ } }$ is the bistatic scattering coefficient, subscripts q and $\\boldsymbol { \\mathrm { ~ p ~ } }$ are the polarizations of the received and transmitted signals,respectively, $A$ is the illuminated area and the modified Mueller matrix M can be written in terms of the elements of the scattering matrix $S$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { M } = \\left[ \\begin{array} { l l l l } { \\left. \\left| S _ { v v } \\right| ^ { 2 } \\right. } & { \\left. \\left| S _ { v h } \\right| ^ { 2 } \\right. } & { \\Re \\mathrm { e } \\left. S _ { v v } S _ { v h } ^ { * } \\right. } & { - \\mathcal { I } m \\left. S _ { v v } S _ { v h } ^ { * } \\right. } \\\\ { \\left. \\left| S _ { h v } \\right| ^ { 2 } \\right. } & { \\left. \\left| S _ { h h } \\right| ^ { 2 } \\right. } & { \\Re \\mathrm { e } \\left. S _ { h v } S _ { h h } ^ { * } \\right. } & { - \\mathcal { I } m \\left. S _ { h v } S _ { h h } ^ { * } \\right. } \\\\ { 2 \\Re \\mathrm { e } \\left. S _ { v v } S _ { h v } ^ { * } \\right. } & { 2 \\Re \\mathrm { e } \\left. S _ { v h } S _ { h h } ^ { * } \\right. } & { \\Re \\mathrm { e } \\left. S _ { v v } S _ { h h } ^ { * } + S _ { v h } S _ { h v } ^ { * } \\right. } & { \\mathcal { I } m \\left. S _ { v h } S _ { h v } ^ { * } - S _ { v v } S _ { h h } ^ { * } \\right. } \\\\ { 2 \\mathcal { I } m \\left. S _ { v v } S _ { h v } ^ { * } \\right. } & { 2 \\mathcal { I } m \\left. S _ { v h } S _ { h h } ^ { * } \\right. } & { \\mathcal { I } m \\left. S _ { v v } S _ { h h } ^ { * } + S _ { v h } S _ { h v } ^ { * } \\right. } & { \\Re \\mathrm { e } \\left. S _ { v v } S _ { h h } ^ { * } - S _ { v h } S _ { h v } ^ { * } \\right. } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Please read the reference[22] for more information of the AIEM model. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to wave synthesis technique [24], the scattering coeficient for a general transmitted and received antenna polarization can be written as, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { q p } } ^ { 0 } \\left( \\psi _ { q } , \\tau _ { q } ; \\psi _ { \\mathrm { q } } , \\tau _ { q } \\right) = \\frac { 4 \\pi } { A } \\big ( \\mathbf { I } _ { q } \\cdot \\mathbf { Q } \\cdot \\mathbf { M } \\cdot \\mathbf { I } _ { p } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where subscript q and $\\mathfrak { p }$ are the polarizations of the received and transmitted signals,respectively, and I is the normalized Stokes vectors with unit amplitude and $\\mathbf { Q }$ is a rotating matrix. The normalized Stokes vectors can be expressed in terms of the ellipticity angle $\\chi$ and orientation angle $\\psi$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf I _ { q } = \\left[ \\begin{array} { c c c c } { 0 . 5 \\Big ( 1 + \\cos 2 \\tau _ { q } \\cos 2 \\psi _ { q } \\Big ) } \\\\ { 0 . 5 \\Big ( 1 - \\cos 2 \\tau _ { q } \\cos 2 \\psi _ { q } \\Big ) } \\\\ { \\cos 2 \\tau _ { q } \\sin 2 \\psi _ { q } } \\\\ { \\sin 2 \\tau _ { q } } \\end{array} \\right] \\mathrm { ~ a n d ~ } \\mathbf I _ { p } = \\left[ \\begin{array} { c c c c } { 0 . 5 \\Big ( 1 + \\cos 2 \\tau _ { p } \\cos 2 \\psi _ { p } \\Big ) } \\\\ { 0 . 5 \\Big ( 1 - \\cos 2 \\tau _ { p } \\cos 2 \\psi _ { p } \\Big ) } \\\\ { \\cos 2 \\tau _ { p } \\sin 2 \\psi _ { p } } \\\\ { \\sin 2 \\tau _ { p } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first element of I describes the intensity of the electromagnetic wave in the horizontal direction and the vertical direction,the second one is the intensity difference between the horizontal and vertical directions of the wave vector, the third one is the linear polarization intensity at azimuth angle of $\\pm 4 5 ^ { \\circ }$ in the polarization ellipse and the fourth one indicates the degree of circular polarization. In this way, the phase information in scattering matrix S can be calculated through I. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For like polarization， $\\boldsymbol { \\tau } _ { q } = \\boldsymbol { \\tau } _ { p }$ and $\\psi _ { q } = \\psi _ { p } + \\pi$ , nd for cros goairai $\\psi _ { q } = \\psi _ { p } - \\pi / 2$ and Any polarizations of transmitted and received signals can be obtained by setting the $\\tau _ { q } = - \\tau _ { p }$   \nellipticity $\\chi$ and orientation angles $\\psi$ ，accordingly. For GNSS-R,it is necessary to study the scattering characteristics of $\\sigma _ { \\mathrm { X R } } ^ { \\circ }$ .Subscript XR polarization means that the transmited signal is RHCP polarization and any polarization that is circularly polarized (RHCP and LHCP) or linearly polarized (V, vertical or $\\mathrm { H }$ ,horizontal) is received. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.Reflectivity of different polarizations versus incidence angels ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When a plane wave is transmitted through a plane boundary between the non-destructive media, there is an angle at which the vertical polarization broadcasts a ful projection,which becomes the Brewster angle. The IPT method expressed in Section 1 uses the position and number information of the notches in the direct signal and the reflected signals coherent waveform to perform the geophysical parameter retrieval. In fact, the notch in the waveform is the result of Brewster angle.Due to its particularity, Brewster's angle is a phenomenon that needs attntion as for GNSS-R remote sensing inversion.Table l presents the corresponding dielectric constants and the Brewster angles for different soil moisture. The Vms is a way of expressing soil moisture, that is, the percentage of soil moisture volume. This kind of representation can reflect the degree of water filling of soil voids,and can calculate the three ratios of soil solid,liquid and gas.Fig.1.shows the Fresnel reflectivity of rv and rh polarization for different vms,here r means Fresnel reflectivity, while subscript V and h means the polarization state,V stands for vertical polarization and h stands for horizontal. The corresponding Brewster angles in Table 1 are apparent at $\\mathrm { v }$ polarization (left panel). As we can see if the vms is certain, the ${ \\bf r } _ { \\mathrm { v } }$ decreases with the incidence angle increase (before the Brewster angle), and the ${ \\bf r } _ { \\mathrm { v } }$ increases after the Brewster angle.As for the different vms, the ${ \\bf r } _ { \\mathrm { v } }$ is larger if the vms is larger (before $5 9 ^ { \\mathrm { o } }$ ),but the ${ \\bf r } _ { \\mathrm { v } }$ is smaller if the vms is larger (after $8 2 ^ { \\circ }$ ). However, the $\\mathfrak { r } _ { \\mathrm { h } }$ is larger if the vms is larger. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The real parts of the ${ \\bf r } _ { \\mathrm { v } }$ and 1 $\\mathbf { \\dot { \\tau } } _ { \\mathrm { h } } \\left( \\mathrm { R e } [ \\mathrm { r } _ { \\mathrm { v } } ] , \\mathrm { R e } [ \\mathrm { r } _ { \\mathrm { h } } ] \\right)$ play an important role in the calculations of XR and linear polarization scattering coefficients.So their changes with the incidence angles are presented in Fig.2. Before hiting the Brewster angle,the Re[rv] is positive,while it becomes negative if the incident angle is lower than the Brewster angle,the Re[rv] increases with the incidence angles increase. While $\\mathrm { \\sf R e [ r _ { h } ] }$ is negative for the whole angles with $\\mathrm { R e } [ \\mathrm { r } _ { \\mathrm { h } } ]$ decrease as vms increase. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3is reproduced from the paper [25] and it shows the scattering coefficients of linear polarization and XR polarization versus the incidence angels.As we can see,for smaller incidence angles $\\stackrel { \\circ } { \\cdot } 1 ^ { \\circ } < \\theta < 7 0 ^ { \\circ }$ )，thescatering of LR polarization is larger than that of RR polarization $_ \\mathrm { R R < L R } )$ 0.Here LR and RR polarization mean the transmitted signals are RHCP,while the received ones are LHCP and RHCP, respectively. However, for larger incidence angles ( $7 0 ^ { ^ { \\circ } } < \\theta < 8 5 ^ { ^ { \\circ } } ,$ )，the trend is just opposite,that is to say the scattering coefficients of RR polarization are larger than the one of LR polarization. The scattering coefficients of RR polarization is larger than that of VR polarization for larger incident angles $\\left( 7 0 ^ { \\circ } < \\theta < 8 5 ^ { \\circ } \\right)$ ,here VR polarization means the transmitted signal is RHCP, while the received one is vertical polarization. The scattering coefficients of RR polarization increase as the incidence angles increase ( $\\stackrel { \\circ } { \\mathop { \\mathrm { ( 1 ) } } } < \\theta < 5 5 ^ { \\circ } ,$ ,but for the other incident angles, the scattering coefficient of RR polarization decrease. However, the scattering coefficients of LR polarization decrease as the incident angle increases.The trends of scatering coeficient of VV, VR, HH and HR versus incident angles are the same. Here VR and HR means the transmitted signals are RHCP polarization,while the received signals are vertical and horizontal polarization,respectively. VV and HH mean the same polarization of vertical and horizontal, respectively. The reason is that they are only related to M(1,1) and M(2,2),respectively (Eq2,5).As the incident angles increase, the scatering coefficients of HH and HR polarizations decrease. Scattering coefficients of VV and VR polarizations have dips at about $7 0 ^ { \\circ }$ because of the Brewster angle defined in Eq.8[19], the scattering coefficients decrease at first(before the Brewster angle) and then increase with the incidence angle increase(after the Brewster angle). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.Effects of volumetric soil moisture and surface roughness on polarizations ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Effects of volumetric soil moisture on polarizations ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 gives the linear and circular polarization scatering coefficients at different soil moisture (vms) versus the incident angles. The scatering trends of HR polarization are very similar to that of HH polarization, while VR polarization is very similar to VV polarization as shown in Fig.1. The dips at VV and VR polarization are related to the vms,and this is due to the Brewster angles (Table 1). If the vms is larger, the position of dip is at the position of larger incident angle. It should be noted that the scattering coefficients of RR polarization are larger if the vms is smaller.For the other polarizations (LR,HR,HH), larger vms corresponds to larger scattering coefficients. But for VV and VR polarization, if the vms is larger the scattring coefficients are larger if the incident angles are lower than the Brewster angles.While if the incident angles are larger than the Brewster angles,the lower vms corresponds to larger scattering coefficients. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.Effects of surface roughness on different polarizations ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since the soil moisture affects the GNSS reflection signal, the geometric characteristics of the soil, that is,the surface roughness will also affect the GNSS reflection signal. Therefore,in the soil moisture inversion, how to remove the surface roughness is a difficult problem.The surface roughness can be represented by two parameters,the root mean square height (s) and the surface correlation length (l),which respectively define the surface roughness from the vertical and horizontal scales. Another way to describe the degree of random surface roughness is the surface autocorrelation function，which can be described by a Gaussian autocorrelation function or an exponential autocorrelation function. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section, surface roughness effects on the final scattering at RR and LR polarization are presented. Fig.5 shows the roughness effects on different correlation functions.As we can see, if root square height height(s) is fixed, larger correlation length (l) correspond to larger scatering coefficients (both RR and LR); If $l$ is fixed, larger $s$ corresponding to larger scattering coefficients (both RR and LR), $\\mathbf { k }$ is the wave number. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The scattering of exponential correlation function are larger than the one of Gaussian function (both RR and LR) (Fig.6).It is interesting to note that unlike at backscatering direction, the surface correlation function only affects the amplitudes of the scattering coeffcients,while the angular trend is at much less level. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As for GNSS-R remote sensing,the polarization of transmitted signals are RHCP,which is commonly thought that the received power is coming from the first Fresnel zone. Here the coherent scattring of different polarization is simulated by the modified AIEM model using the wave synthesis technique. Results show that the scattering at RR polarization is lower than that at LR polarization as for incident angles lower than $7 0 ^ { \\circ }$ ，when the incident angles are between $7 0 ^ { \\circ }$ and $8 0 ^ { \\circ }$ ，the scattring at LR polarization is larger than that of RR polarization. As for larger incident angles, there are dips at VV and VR polarization due to the Brewster angles,which are related to the soil moisture. Therefore,the antenna of v polarization is suggested to be used because the information of dips caused by the Brewster angle at different soil moisture are useful for soil moisture monitoring,and the scatring dynamic ranges of VR polarization are larger than those of the other polarizations. Meanwhile, VR polarization will provide efficient information for vegetation corrections. It should be noted that larger soil moisture corresponds to lower scattering at RR polarization, while the trend is just the opposite as for the other XR (LR，HR,VR,HH,VV） polarizations.Meanwhile, it is interesting to note that unlike at backscattering direction,the surface correlation function only affects the amplitudes of the scattering coefficients, but it has no effects on the angular trend. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements:This research is supported by the Natural Science Foundation of National Natural Science Foundation of China (NSFC) Project (Grant No.41501384). The authors would like to thank the anonymous reviewers and editors whose comments improved this manuscript. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] S. Jin and A. Komjathy,“GNSS reflectometry and remote sens-ing: New objectives and results,” Adv. Space Res., vol. 46, pp. 111-117, July 2010.   \n[2]V.U. Zavorotny and A. G. Voronovich,“Scattering of GPS sig-nals from the ocean with wind remote sensing application,” IEEE Trans. Geosci. Remote Sensing, vol. 38,no.1, pp. 951 -964,Mar. 2000.   \n[3]E. Cardellach,F. Fabra,A. Rius, S.Pettinato,and S.D'Addio,“Characterization of dry-snow sub-structure using GNSS reflected signals ,”Remote Sensing Environ.，vol. 124,pp. 122 -134, Sept. 2012.   \n[4]Masters,D., P. Axelrad,and S.Katzberg,“ Initial results of land-reflected GPS bistatic radar soil moisture measurements in SMEX02,\"Remote Sensing Environ., vol.92, pp. 507-520, Sept. 2004 [5]M. Berger, A. Camps, J. Font, Y.Ker, J.Miller, J.Johannessen, J.Boutin, M.R.Drinkwater, N.Skou, N.Floury, M.Rast, H.Rebhan,E.Attema,2002,Measuring ocean salinity with ESA's SMOS mission, ESABull., 111(113f):113-121.   \n[6]D. Entekhabi, E. Njoku,P. O'Neill, et al.,2010,The Soil Moisture Active Passive (SMAP) mission, Proc. IEEE,98(5):704-716.   \n[7] A.Kavak, G. Xu, and W. J. Vogel, “GPS multipath fade measurements to determine L-band ground reflectivity properties ,” in Proc. 20th NASA Propagation Experimenters Meeting， 1996. [8] Masters,D.2005.“SMEX02 Airborne GPS Bistatic Radar Data”, Iowa. Boulder, Colorado USA: University ofColorado, Colorado Center forAstrodynamics Research.   \n[9]Masters,D.,P.Axelrad,and S.Katzberg,“Initial results of land-reflected GPS bistatic radar soil moisture measurements in SMEX02,\" Remote Sensing of Environment 92,507-520,2004.   \n[10]V.U.Zavorotny and A. G. Voronovich,“Bistatic GPS signal reflections at various polarizations from rough land surface with moisture content,” in Proc. IEEE Int. Geoscience Remote Sensing Symp., Honolulu,HI,2000,vol. 7,pp.2852-2854.   \n[11]Zavorotny,V.,Masters,D., Gasiewski,A.,Bartram,B.,Katzberg,S.,Axelrad,P.,Zamora,R.,2003, Seasonal polarimetric measurements of soil moisture using tower-based gps bistatic radar.in Geoscience and Remote Sensing Symposium, IGARSS '03. Proceedings. 2003 IEEE International. 2:781-783. [12]N.Rodriguez-Alvarez, A. Camps,M. Vall-llosera, X. Bosch-Lluis,A. Monerris,I. Ramos-Perez, E. Valencia, J.F. Marchan-Hernandez, J. Martinez-Fernandez, G. Baroncini-Turricchia, C.PérezGutiérrez, and N. Sanche,“Land geophysical parameters retrieval using the interference pattern GNSS-R technique,”IEEE Trans. Geosci. Remote Sensing, vol. 32, no.1, pp. 47-61, Jan. 2011. [13]N. Rodriguez-Alvarez, X. Bosch-Lluis,A. Camps,M. Val-llossera,E. Valencia,J. F. MarchanHernandez,and I. Ramos-Perez,“Soil moisture retrieval using GNSS-R techniques: Experi-mental results over a bare soil field,” IEEE Trans. Geosci. Remote Sensing, vol. 47, no.11,pp.3616-3624, Nov. 2009.   \n[15]K.M. Larson, E.E. Smal,E.D. Gutmann, A. D.Bilich, J. J. Braun ,and V.U. Zavorotny,“ Use of GPS receivers as a soil moisture net-work for water cycle studies,” Geosci. Res. Let., vol. 35, no. 24,p. L24405,2008.   \n[16]K.M. Larson, J. Braun, E. E. Small, V. Zavorotny, E. Gutmann, and A. Bilich,“GPS multipath and its relation to near-surface soil moisture content,” IEEE J. Select. Topics Appl. Earth Observ. Remote Sensing, vol. 3, no.1, pp.91-99,2010.   \n[17]Chew, C.C.,Small, E.D., K. M. Larson,V. Zavorotny,“Effects of Near-Surface Soil Moisture on GPS SNR Data: Development of a Retrieval Algorithm for Soil Moisture,” IEEE Transactions on Geoscience and Remote Sensing, vol.9, pp.1-7,2013.   \n[18]Ruck G.,Barrick D.， Stuart W., et al. Radar Cross Section Handbook, Vol II. New York，NY: Plenum, 1970.   \n[19] A.K. Fung, Microwave Scattring and Emisson Models and Their Applications. Norwood, MA: Artech House, 1994.   \n[20] Chen K S,Wu T D, Tsang L,et al.“Emission of rough surfaces calculated by the integral equation method with comparison to three-dimensional moment method simulations,” Geoscience and Remote Sensing, IEEE Transactions on. vol.41(1), pp. 90-101, 2003.   \n[21] Wu, Xuerui ，and S. Jin. \"Characteristics of GNSS-R bare soil based on advanced integral equation model (AIEM) and interference patterns.\" General Assembly & Scientific Symposium IEEE, 2014.   \n[22] T. D. Wu, K.S. Chen, J. C. Shi, H. W. Lee and A. K. Fung,“A study of AIEM Model for Bistatic Scatering from Randomly Surfaces,” IEEE Trans. Geoscience and Remote Sensing,vol.46, no.9, pp.2584-2598, 2008.   \n[23] Beckmann, P., Spizzichino,A. The scattering of electromagnetic waves from rough surfaces. Artech House,Norwood,MA,1963   \n[24] Ulaby, F.T.,and C.Elachi,1990.Radar polarimetry for geoscience applications. Norwood, MA, USA: Artech House Publishers   \n[25] Wu,Xuerui ，and S. Jin .Sensing Bare Soil and Vegetation Using GNSS-R— Theoretical Modeling.Satelite Positioning - Methods，Models and Applications，InTech-Publisher，Rijeka, Croatia, 2015. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AIEM:Advanced Integral Equation Model ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DDM: Delay-Doppler Maps   \nDMR: Delay Doppler Maps Receiver   \nGNSS: Global Navigation Satellite Systys   \nGNSS-R: GNSS-Reflectometry   \nGO: Geophysical Optics Model   \nGPS: Global Positioning System   \nHR, VR, $+ 4 5 \\mathrm { R }$ and -45R polarizations: The polarization of the transmitted signals are RHCP with the received ones H( horizontal), V(vertical) , $+ 4 5$ （ $+ 4 5 ^ { \\circ }$ linear）and $- 4 5 ( - 4 5 ^ { \\circ }$ linear) polarizations, respectively.   \nIEM: the Integral Equation Model   \nIPT: the Interference Pattern Technique   \nKA:the Kirchhoff model   \nLEiMON: Land Monitoring with Navigation Signals   \nLHCP: Left Hand Circular Polarization   \nLR: The polarization of the transmitted signal is RHCP, while the received one is LHCP RHCP: Right Hand Circular Polarization   \nRR:The polarization of the transmitted signal is RHCP, while the received one is also RHCP; SMAP: Soil Moisture the Active and Passive Mission   \nSMEX: Soil Moisture Experiments   \nSMIGOL: Soil Moisture Interference pattern GNSS Observations at L-band Reflectometer SMOS: Soil Moisture and Ocean Salinity Mission   \nSPM: the Small Perturbation Model   \nZ-V model: Zavorotny-Voronovich model AIEM model,rms=0.45cm,cl=18.75cm,Gaussian -5 -10 中年 -10   \nrseeieegesg -15 reifeeeeg -20 4 -20gr00 8088888 -25 大 车 -30 98 -30 V vms=0.01 o -40 V vms=0.01 -35 \\* vms=0.05 \\* vms=0.05 O vms=0.25 uo -50 O vms=0.25 -40 + vms=0.45 + vms=0.45 △\\*△ 中 vms=0.60 中 vms=0.60 -45 -60 60 70 80 90 60 70 80 90 Incident angles(degree) $\\boldsymbol { \\Phi } _ { \\mathsf { s } } \\overline { { = } } 0 ^ { \\circ }$ （20 Incident angles(degree), $\\boldsymbol { \\Phi } _ { \\mathbf { s } } \\boldsymbol { = } 0 ^ { \\circ }$ (c) (d) AIEM model,rms=0.45cm ${ \\mathsf { c l } } = 1 8 . 7$ 5cm,Gaussian -5 -10 V vms=0.01 1000 中 米 vms=0.05   \nrseepigeegeeeg （rp)seeenere Geenee o000 O vms=0.25 -150 ? 8008 -20 OOO000 中 vms=0.45 vms=0.60 -20 -30 \\* NPVtDY 2530 -40 △4△ \\*\\* 一 V vms=0.01 V 米 0   \nR -35 -40H \\*Θ + vms=0.05 vms=0.45 始 R -50 W % 车 鑫 ★ 出 -60 -45 中 vms=0.60 中 60 70 80 90 60 70 80 90 Incident angles(degree) $\\boldsymbol \\Phi _ { \\mathsf { s } } { = } 0 ^ { \\circ }$ （ Incident angles(degree), $\\boldsymbol { \\Phi } _ { \\mathsf { s } } { = } 0 ^ { \\circ }$ （20 (e) (f)   \nAIEM model,rms=0.45cm, ${ \\mathsf { c l } } = 1 8 . 7$ 5cm,Gaussian 0 0 中 vms=0.01 -5 vms=0.05 -10米 0t 8 eieee -10年年效 cecood + 华 O + vms=0.25 vms=0.45   \n！ 8834 安安 -15 -20 ☆ vms=0.60 00 ?   \n> -20 -30 2 vvy +众   \n！ -25 R > > 0 。 大 + 8000o   \n. -35 -30 V O vms=0.01 vms=0.05 vms=0.25 3 10 自 -40 -50 ? V P \\*\\* 。 0 o C -40H vms=0.45 G 木 中 vms=0.60 +V -45 -60 60 70 80 90 60 70 80 90 Incident angles(degree), $\\phi _ { \\mathsf { s } } { } ^ { } = 0 ^ { \\circ }$ （204号 Incident angles(degree) $\\phi _ { \\mathsf { s } } { } ^ { \\mathsf { = } } 0 { } ^ { \\mathsf { \\circ } }$ （ ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f44536bd61b904676f2692b15a272c62a37b6cc9de7579ad6083637e3f8c9db8.jpg",
+        "table_caption": [
+            "Table.1 Dielectric constants and the Brewster angles for different vms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>vms</td><td>Dielectric constant</td><td>Brewster angle</td></tr><tr><td>0.01</td><td>2.814-0.127i</td><td>59.2</td></tr><tr><td>0.05</td><td>3.965-0.241i</td><td>63.33</td></tr><tr><td>0.25</td><td>13.175-1.021i</td><td>74.597</td></tr><tr><td>0.45</td><td>26.99-2.19i</td><td>79.1046</td></tr><tr><td>0.60</td><td>40-3.3i</td><td>81.015</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/67b5fcfe7e04c500057f1d02b20e1775cc1c6ef3cc14c7bf47b9c3b1ded694d1.jpg",
+        "img_caption": [
+            "Fig.1 Fresnel reflectivity vs.incidence angles(left,rv; right, rh) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad2d98c1186d933fe8867c236035ac46841e7b84bc3302b31704e955ad392ac0.jpg",
+        "img_caption": [
+            "Fig.2 The real parts of the Fresnel reflectivityvs.the incidence angles (left,Re[rv];right Re[rh]) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a93a0d8a8e4087e7f2888350c9a498b210dfaef7482e011deaccb2f59f4e78f.jpg",
+        "img_caption": [
+            "Fig.3 Scattering coefficients of linear pol and RX pol vs.incidence angles $\\mathrm { \\langle v m s { = } } 0 . 1 5 \\mathrm { \\rangle }$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/472f5b8609b56222c7560a7b38d4d95becd6d62ea75a1de6fc50286389045c95.jpg",
+        "img_caption": [
+            "Fig. 5 Surface roughness effects on the RR and LR scattering "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3bf17276f6cc49171232b17787ea794e4471ee475821a95eecf299d28489875.jpg",
+        "img_caption": [
+            "Fig. 6 Correlation functions on the RR and LR scattering "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    }
+]

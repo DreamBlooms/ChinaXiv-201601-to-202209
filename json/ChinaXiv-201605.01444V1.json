@@ -1,0 +1,714 @@
+[
+    {
+        "type": "text",
+        "text": "ADVANCEDIMAGING ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Extended-resolution structured illumination imaging of endocytic and cytoskeletal dynamics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dong Li, Lin Shao, Bi-Chang Chen, Xi Zhang, Mingshu Zhang, Brian Moses, Daniel E. Milkie, Jordan R. Beach, John A. Hammer III, Mithun Pasham, Tomas Kirchhausen, Michelle A.Baird, Michael W.Davidson, Pingyong Xu, Eric Betzig\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION: Various methods of superresolution (SR) fluorescence microscopy have the potential to follow the dynamic nanoscale interactions of specific macromolecular assemblies in living cells.However, this potential is often left unfulfilled,either owing to the method's inability to follow these processes at the speeds dictated by nature or because theyrequire intense light that can substantiallyperturb the veryphysiologyone hopes to study.An exception is structured illumination microscopy (SIM),which can image live cells farfaster andwith orders of magnitude less light than required for other SR approaches. However,SIM'sresolutionisusually limited to onlya twofold gain beyond conventional optical microscopes, or ${ \\sim } 1 0 0 \\mathrm { n m }$ with visible light. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RATIONALE:We endeavored to find ways to extend SIM to the sub-1oo-nm regime while retaining,to the greatest extent possible,the advantages thatmake it the preferredSRmethod for live-cell imaging. Our first solution used anultrahigh numerical aperture (NA) lens and total internal reflection fluorescence (TIRF) to achieve 84-nm resolution at subsecond acquisition speeds over hundreds of time points in multiple colors near the basal plasma membrane. Oursecond exploited the spatially patterned activationofarecentlydeveloped,reversibly photoswitchable fluorescent protein to reach 45- to ${ 6 2 } \\mathrm { - n m }$ resolution,also at subsecond acquisition, over ${ \\sim } 1 0$ to 40 time points. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RESULTS:We used high-NA TIRF-SIM to image the dynamic associations of cortical filamentous actin with myosin IIA,paxillin,or clathrin,as well as paxillin with vinculin and clathrinwithtransferrinreceptors.Thanks to the combination of high spatial and temporal resolution,wewereable to measure the sizes ofindividualclathrin-coatedpits through their initiation,growth,and internalization.We were ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9be237ff84d29e5f4376d7cdab95ca9ad6ab371d21d6a7271708cb224f8aa687.jpg",
+        "img_caption": [
+            "Two approaches for improved live-cell imaging at sub-1oO-nm resolution. (Left） Association of cortical actin (purple) with clathrin-coated pits (green),the latter seen as rings (inset)at 84-nm resolution via a combinationof total internal reflection fluorescence and structured ilumination microscopyat ultrahigh numerical aperture (high-NA TIRF-SIM).(Right) Progression of resolution improvement across theactin cytoskeletonof a COS-7cellfrom conventional,diffraction-limited TIRF(22O-nm resolution),toTF-SIM (97-nm resolution),and nonlinear SIM based on the paterned activation of a reversibly photoswitchable fluorescent protein (PA NL-SIM,62 nm resolution).(Leftand right represent single frames from time-lapse movies over 91 and 3O frames,respectively. Scale bars, $2 \\mu \\mathrm { m }$ (left); $3 \\mu \\mathrm { m }$ (right). "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ONOURWEB SITE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Readthefullarticle at http://dx.doi. org/10.1126/ science.aab3500 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "alsoabletorelatepitsize to lifetime,identifyand characterize localized hot spots of pit generation, and describe the interaction ofactin with clathrin anditsroleinacceleratingendocytosis.WithnonlinearSIMbyuseof patterned activation (PA NL-SIM),we monitored the remodeling of the actin cytoskeleton andthe dynamics of caveolaeat thecell surface.Bycombining TIRF-SIMandPANL-SIM for two-color imaging,we followed the dynamic association of actin with $\\alpha$ -actininin expanding filopodia and membrane ruffles and characterizedshapechangesinandthetransport of early endosomes.Last,by combining PA NL-SIM with lattice light sheet microscopy, we observed,inthreedimensionsandacross the entire volume ofwhole cells,the dynamics of the actin cytoskeleton, the fusion and fission of mitochondria,and the trafficking of vesicles to and from the Golgi apparatus,each at axial resolution fivefold better than that of conventional widefield microscopy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inaddition, through direct experimental comparisons,we demonstrated that the resolution for our methods is comparable with or better than other SR approaches yet allowed us to image at far higher speeds,and forfarlongerdurations.Tounderstand why this is so,we developed a detailed theoretical model showing that ourmethodstransmittheinformation encoded in spatial frequencies beyondthediffractionlimitwithmuch greater strength than do other alternatives and hence require far fewer photons emitted from the specimen, using far less intense light. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION:High-NA TIRF-SIM and PA NL-SIM fill an unmet need for minimally invasive tools to image live cells in the gap between the 100-nm resolution traditionally associatedwith SIMandthesub-6o-nm regime of protein-specific structural imaging served by single-molecule localization microscopy.■ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ADVANCEDIMAGING ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extended-resolution structured illumination imaging of endocytic and cytoskeletal dynamics ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dong Li,1 Lin Shao,1 Bi-Chang Chen,1\\* Xi Zhang,2,3 Mingshu Zhang,² Brian Moses,4 Daniel E. Milkie,4 Jordan R. Beach,5 John A. Hammer II1,5 Mithun Pasham,6 Tomas Kirchhausen,6 Michelle A. Baird,5,7 Michael W. Davidson,7 Pingyong Xu,² Eric Betzig1+ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Super-resolution fluorescence microscopy is distinct among nanoscale imaging tools in its ability to image protein dynamics in living cells.Structured illumination microscopy (SIM) stands out in this regard because of its high speed and low ilumination intensities, but typically offers onlya twofold resolution gain.We extended the resolution of live-cell SIM through two approaches: ultrahigh numerical aperture SIMat 84-nanometer lateral resolution for more than 1OO multicolor frames,and nonlinear SIM with patterned activationat 45-to 62-nanometer resolution for approximately 2O to 4O frames.We applied these approaches to image dynamics near the plasma membrane of spatially resolved assemblies of clathrin and caveolin,Rab5a in early endosomes,and $\\mathbf { a }$ -actinin, often in relationship to cortical actin.In addition, we examined mitochondria,actin,and the Golgi apparatus dynamics in three dimensions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E lurseeiootieta tion of living systems,thanks to its ability to image specific proteins with single-molecule sensitivity,aswell as its capacity to study in vivo dynamics in a minimally invasive manner.Its power has grown with the introduction of super-resolution (SR) techniques $( I )$ that extend itsdiffraction-limited spatial resolution $[ \\sim 2 0 0 \\mathrm { n m }$ forgreenfluorescent protein (GFP)]byasmuch asanorder of magnitude.However,although the SR imaging of fixed specimens, the most commonmodality,offersthehighest resolution,it doesso at the considerable risk ofaltering the veryultrastructure it hopes to reveal because of both the fixation process itself (fig.S1)(2) and theextremelyhighdensityoffluorescentmarkers required to achieve such resolution (3).Furthermore,with the advent of genetically encoded markers for electronmicroscopy (EM) (4,5), the continued preeminence of SR microscopy for protein-specific structural imaging at the nanoscale is no longer assured. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A different situation emerges forin vivo imaging,in which EM is too destructive and fixation is not involved.However,although this wouldappearto be theidealniche ofSRmicroscopy,SR techniques such as localization microscopy (6,7),stimulated emission depletion (STED) microscopy $( 8 , 9 )$ ,and reversible saturable optical fluorescence transitions (RESOLFT) microscopy $( I O , I I )$ place extraordinary demands on the photon budget,represented by the product of the number of fluorescent molecules in the specimen and the number of photons each can emit before bleaching irreversibly (fig. S2) (I2).They also require specialized photoswitchable labels and excitation intensities of ${ \\mathrm { 1 0 ^ { 3 } } }$ to $1 0 ^ { 8 } \\mathrm { W / c m ^ { 2 } }$ ,which are orders of magnitude greater than the $0 . 1 \\mathrm { W / c m ^ { 2 } }$ under which life evolved (fig. S3).Asa result, time-lapsemeasurementswith these techniques rarelyconsist ofmore thana few frames,and phototoxic changes to cellular physiology can set in quickly even at the lower end of this range (movie S1).In addition,typical SR acquisition speeds of\\~1s to several minutes per frame are too slow to follow processes that move faster than ${ \\boldsymbol { \\sim } } 1$ to $5 0 \\mathrm { n m / s }$ without introducing motioninduced artifacts (fig. S4),whereas common resolution metrics such as the Nyquist criterion for labeling density $( 6 , 7 )$ or the width of an isolated feature (8-II) tend to substantially overestimate the true spatial resolution (figs.S5 and S6). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A notable exception is structured illumination microscopy (SIM),which in vivo (13-15) can image in multiple colors using conventional fluorescent labelsas fast as Il frames/s (I3)at intensities of only 1 to $1 0 0 ~ \\mathrm { W / c m ^ { 2 } }$ .Its primary limitation is that its resolution in vivo has been limited to ${ \\sim } 1 0 0 \\mathrm { n m }$ for GFP,or only twice beyond the diffraction limit.This has provided the motivation for thedevelopment of otherinvivocompatible SRmethods,buttodate,all suffer fromsubstantial limitations as noted above. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extending SlMresolutionvia high-numerical-aperture optics ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We extended the resolution of live-cell SIM by twoindependentmeans.Inthefirst,weused the highernumerical aperture (NA) afforded by a commercially available 1.7-NA objective to image at 84-nm resolution (for GFP) (fig. S7).Although the total internal reflection fluorescence (TIRF) condition at this NA confines observationstowithin $\\sim 5 0$ to $2 0 0 \\mathrm { n m }$ of thebasalplasma membrane (fig.S8),it also restricts the excitation to only a small fraction of the cellular volume, further reducing phototoxicity,eliminating outof-focus background,and leavingunaffected a potential reservoir of cytosolic target molecules that might be recruited to the plasma membrane atlater time points.With this approach,termed high-NA TIRF-SIM,we could image dynamic associations between proteins in a variety of systemsat sub $. 1 0 0 \\mathrm { - n m }$ resolution,often for 80 to 100 time points,including filamentous actin (mApple-F-tractin) and enhanced GFP (EGFP)- myosin IIA (Fig.1,A andB; Movie l; and fig. S9); mApple-f-Tractin and mEmerald-paxillin (Fig.1, C andD,and movie S2); mEmerald-paxillin and mTagRFP-vinculin (RFP,red fluorescent protein) (Fig.1,EandF;Movie2; and fig. SiO); mEmeraldclathrin light chain b(CLTB) and Alexa 568- tagged transferrin (fig. Sll and movie S3);and mEmerald-CLTB and mCherry-Lifeact (Fig.2, E to G) (I6).Acquisition times were typically less than 1s per color per frame,although the time interval between frames was adjusted in each case in order to match the dynamics of interest and to give the cell time to recover from the effects of the excitation applied during the acquisition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the case of mEmerald-paxillin and mTagRFPvinculin,we found that both proteins expanded inward for those focal adhesions near the periphery of an HFF-1 cell (Movie 2 and fig. S12). mEmerald-paxillindominatedintheperipheralfacing end of these adhesions,whereasmTagRFPvinculin increased in concentration toward the interior (Fig.1,Eand F,and fig. SioC).In contrast, foradhesions located far away from the periphery,mTagRFP-vinculin dominated (fig. S10A), and there was little change in the distribution of either protein over time.The resolution of our datawascomparablewiththatdemonstratedby means of live-cell localization microscopy (fig. S13) (6).However,we could image in two colors at intensities of only 30 to $1 0 0 ~ \\mathrm { { W / c m ^ { 2 } } }$ in a total acquisition time of $1 . 6 7 \\ s$ ，versus a single color acquired at $\\mathrm { 1 k W / c m ^ { 2 } }$ in $2 5 ~ \\mathrm { s }$ in the localization case.This representsa 90 to $9 7 \\%$ decrease in excitation intensity and a 15-fold increase in imaging speed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/81ff50acde6a48f0f006e6188866ddf2b1643c7496f674528f8f86f60bde0694.jpg",
+        "img_caption": [
+            "Fig.1. High-speed live-cell imaging at $\\mathsf { \\mathsf { 3 7 ^ { \\circ } C } }$ of associations between pro- (D) Magnified view of the boxed region in (C),showing association of paxillin teinsat sub-1oo-nm resolution.(A) Cytoskeletal proteins mApple-F-tractin with smalleractin fibers fanning out from the ends of larger stress fiber cables. (purple) and EGFP-myosin IIA (green) ina mouse embryonic fibroblast cell (E)Focal adhesion proteins mTagRFP-vinculin (purple) and mEmerald(Movie 1 and fig. S9).(B) Magnified view of the boxed region in (A),show- paxillin (green) ina HFF-1 cell(Movie 2 and figs.SlO and S13).(F) Magnified ing bipolar myosin IIA filaments with clearly resolved opposed head groups view of the boxed region in (E)，showing a gradient of increased paxillin (for example,green arrowhead).(C) mApple-F-tractin (purple) and the fo- concentration toward the cell periphery.Scale bars $5 \\mu \\mathrm { m }$ (A).(C),and (E); $1 \\mu \\mathrm { m }$ cal adhesion protein mEmerald-paxillin (green) in a U2OS cell (movie S2). (B), (D),and (F). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For clathrin (Fig.2),we saw that mature clathrin-coated pits (CCPs) were resolved as rings (fig.S14 and movie S4),presumably because the distal end of each resides outside the evanescent excitation field.When imaged at $3 7 ^ { \\circ } \\mathrm { C } ,$ CCPslarge and stable enough to be resolved as a ring at one or more time points grew to a ${ \\sim } 1 5 2 \\mathrm { - } \\mathrm { n m }$ median maximum diameter (Fig. 2B) $( I 7 )$ in BSC-1 cells expressing EGFP-CLTA (Fig.2A and fig. S14),with similar results in COS-7cells expressing mEmeraldCLTB (Fig.2F and fig. S15B),and persisted for on the order of $1 \\mathrm { m i n }$ (Movie 3 and fig. S15A). Linear regression revealeda positive correlation of $0 . 2 0 ~ \\mathrm { { n m / s } }$ between maximum ring diameter andlifetime(Fig.2C),which is consistent with previously observed correlations betweenlifetime and clathrin intensity or cargo size (18). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In BSC-1 cells,most CCPs were isolated at any given time,but the sites of their initiation did not follow a Poisson distribution (fig. Si6).Instead, when the l297initiation events over the course of Movie 3 were binned into O.32-by $0 . 3 2 \\mathrm { - } \\mu \\mathrm { m }$ sites, corresponding to a mean density of O.29 events per site, $3 6 . 5 \\%$ of all events occurred at sites of one or more additional events,compared with $1 3 . 5 \\%$ expectedif they were Poisson distributed at this mean density.Indeed,at $3 . 6 \\%$ of the sites, five or more CCPs were generated sequentially (for example,one marked by green arrows at different time points in Fig.2D),which would otherwise bea veryrare event $( 0 . 0 0 5 3 \\% )$ assuming Poisson statistics.Although such “hot spots\" have been observed previously (I9,20),in our case we found that these consisted of single,persistent, subdiffractive patches of clathrin,fromwhich multiple CCPs emerged (Movie4) like bubbles. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In COS-7cells,mEmerald-CLTB appeared as bothisolated ringsand larger structures (Fig.2F, Movie 5,figs.S17 and S18,and movie S5),the latter consisting of aggregates of rings (fig. S19). They may be related to clathrin plaques made of extended clathrin lattices of low curvature (20), alsoreferredto elsewhereas flatclathrinlattices (21).Although they persisted far longer than isolated CCPs,individual rings would occasionally detach from these aggregates (fig. Sl9).In no instance did we observe large,homogenous patches of clathrin,as we might expect for the flat clathrin lattices common in EM images (22). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The role of actin in clathrin-mediated endocytosis in mammalian cells remains an area of some debate (17,23-26). Our two-color imaging of COS-7 cells by means of high-NA TIRF-SIM re vealed that all aggregates of mEmerald-CLTB ringswereassociated withmCherry-Lifeact over atleast part of their areas atall times (fig.S19). In contrast,approximately equal populations of individual CCPs completed endocytosis either with(Fig.2E and fig.S2o,AandB) or without (fig.S2o, CandD) recruitment ofLifeact in the final five frames (2O s) before internalization of the pit.Inboth cases,histograms ofCCPlifetimes were well described by single exponential fits, indicating constant probabilities of internalization per unit time (fig. S15A). The $1 / e$ lifetimes of $5 6 . 4 \\pm 3 . 0$ s forthe Lifeact-associated CCPs and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$6 7 . 2 \\pm 1 . 9$ sforCCPswithoutLifeactindicate that actin,when present,indeed increases the internalization probability. Consistent with this,the median maximum clathrin ring diameter for rings persisting over at least five frameswas slightly smaller with than without associated Lifeact (160 versus $\\mathbf { 1 6 8 \\ n m } ,$ (fig.S15B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lifeact associated with CCPs usually approached ina wave or filament (Fig.2E and fig.S2oA).We also observed rings of Lifeact (COS-7 cells) (Fig. 2G and fig. S2l,C and D) or F-tractin (U2OS cell) (fig. S2l,Aand B) similar in size to the clathrin ones and having lifetimes of several minutes (fig. S17B).However, Lifeact rings were not as numerousas clathrin ones and were coincident with theminonlya fewinstances (fig.S22).Although they might be associated with other forms of clathrin-independent endocytosis,their role remains unclear. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Live-cell nonlinear SiM via patterned activationof photoswitchable fluorophores ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To achieve even higher resolution than that of high-NA TIRF-SIM,we turned to nonlinear SIM (NL-SIM).The nonlinearity inherent in either the patterned saturation of fluorescence excitation at high intensity (27,28) or the patterned depletion of photoswitchable fluorophores (fig. S23) (29)introduces additional harmonics $H _ { ; }$ which permit resolution extension at wavelength $\\lambda$ via SIM to ${ \\sim } \\lambda / [ 2 N A ( H + 1 ) ]$ with $H \\geq 2$ ,compared with $H = 1$ for the traditional linear form of SIMand $H = 0$ fordiffraction-limitedwidefield sition times in TIRF for live cells (Fig.3).This approach,termed PA NL-SIM,allowed us to achieve large amplitudes in both the first and second harmonics of the emission pattern (fig. S29,G and H), leading to SR images ofhigh signal-to-noise ratio (SNR),even at low activation and excitation saturation factors $S F _ { \\mathrm { a c t } }$ and $S F _ { \\mathrm { e x c } }$ obtained with low intensities and short exposures (table S1).Furthermore,by keeping $S F _ { \\mathrm { a c t } }$ low,only a small fraction of the total molecular population needed to be activated for everyraw image,and with $H = 2$ ,only $N =$ $\\left( 2 H + 1 \\right) ^ { 2 } = 2 5$ such raw images needed to be acquired to reconstruct each SIM image frame (fig.S3o). Consequently,we could acquire substantially more frames at substantially higher SNR (fig.S26) in far less time (table S1)by means of PANL-SIM(Movie 6) than SDNL-SIM (movie S7). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PANL-SIMof Skylan-NS-Lifeact (Fig.3,Aand B;Movie 6;and movies S8 to S1O) inliving COS-7 cellsrevealedconsiderablymore detail than did TIRF-SIM(Fig.3B) in dense,peripheral actin arcs and star-like junctions of single actin filaments. Wewere also able to resolve individual Lifeact rings once again, including rings too small to see clearly with high-NA TIRF-SIM(fig.S2l, Cand D, and movie S8).Furthermore,we could follow the dynamics of theLifeact-decorated actin cytoskeleton for 3o image frames acquired in $ { 1 . 2 \\mathrm { ~ s ~ } }$ each (Movie 6).This is $1 2 5 0 \\times$ faster and used $2 0 \\times$ lower intensity $( 1 0 0 \\mathrm { W / c m ^ { 2 } } ,$ thanwasrequired foran image of phalloidin-labeled actin at the ventral surface of a fixed BSC-1cell obtained by means of dual-objective localization microscopy (31),yet the level of detail seen by the two methods was comparable (fig. S3l),even though our $6 2 \\mathrm { - n m }$ resolution was threefold coarser than that reported in the localization image. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/727a1ead1703040c3a6d2c445b4246e28ec8299cef04194c884f31d90c047730.jpg",
+        "img_caption": [
+            "Fig.2.Dynamics of clathrin-mediated endocytosis and the cortical actin cytoskeleton. (A) CCPs, resolvedas rings (fig.S14and movie S4)and color-coded according to theirage since initial formation,at one time point froma movie of CCP dynamics ina BSC-1 cell at $3 7 ^ { \\circ } \\mathrm { C }$ stably expressing EGFP-clathrin light chain a (Movie 3).(B) Histogram of maximum diameter of each CCP over its lifetime.(C)Plot of CCP overallifetime versus CCP maximum diameter. (D) Sequential production of multiple CCPsat a CCPgenerating \"hot spot,identified with green arrowheads (Movie 4andfig.S16).(E) Formation,growth,and dissolutionof asingle CCP(right)and its relationship to cortical f-actin (left) ina COS-7 cell at $3 7 ^ { \\circ } \\mathrm { C }$ （204号 transfected with mEmerald-clathrin light chain band mChery-Lifeact.Light blue arrowheads mark time points at which f-actin associates with the CCP.(F) Individual CCPs and clathrin plaques (green)and cortical f-actin (red) at one time point during their evolution ina COS-7cell(Movie 5,figs.S17and S18, and movie S5).(G) Formation of a nanoscale ring of f-actin (fig.Sl7B). Scale bars, $1 \\mu \\mathrm { m }$ (A) and (F); and $2 0 0 \\mathsf { n m }$ (D),(E),and (G). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also used PA NL-SIM to image keratin (fig. S6 and movie Sil) and caveolin(Fig.3,C to F; Movie 7; figs.S32 and S33;and movie S12) in living COS-7 cells,each with Skylan-NS,at a resolution of $5 9 \\mathrm { n m }$ .In the latter case,thiswas sufficient to resolve numerous caveolae moving byless than their radii during the acquisition time as rings,whichis consistent with their invaginatedappearancebymeansofEM(32).Such ringswere not observed at caveolae ina HeLa cell imaged withRESOLFT(fig. S34) (33),despite a similar reported resolution.Rings of Skylan-NScaveolinwere somewhatmoreabundant than CCPs (figs. S17 and S18),and although most were below $\\scriptstyle 1 0 0 \\mathrm { n m }$ insize,their distribution was broader (Fig.3D) than the 60 to $8 0 \\ \\mathrm { n m }$ range observed with EM.However, some of the larger rings (Fig. 3E)mayrepresent multiple caveolae clustered around surface-dockedvesicles (34).Caveolae also tended to loosely cluster in long narrow ribbons,although we saw tighter aggregations of rings (Fig.3F) as well, similar to those we saw in clathrin plaques (fig. S19). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "imaging with uniform illumination (fig. S24,A andB).Resolution of $\\sim 5 0 \\ \\mathrm { n m }$ hasbeen demon strated with both approaches,although not on living cells; saturated excitation was used to image densely labeled fluorescent beadsat the likely phototoxic peak intensity of $8 \\ \\mathrm { M W / c m ^ { 2 } }$ (28), whereassaturateddepletion (SD) imagedsingle fixed cells at 945 s/frame (29)-far too slow to follow most cellular processes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SD provides the basis of resolution enhancement in STED and RESOLFT as well as SD NLSIM.The degree of enhancement depends on the degree of saturation (figs.S23 and S25 and movie S6,part 3),defined in multiples of the saturation factor $( S F )$ for which $1 / e$ of the irradiated moleculesremaininthe originalactivatedor excited state.However, high SFs are veryphoton inefficient；only a fraction of the photobleachingdictated number of switching cycles for any given molecule then contributes useful signal (figs.S25 to S27).Furthermore,high SFs require high intensities and/or long exposures (fig. S28), neither of which is compatible with fast,noninvasive live-cell imaging. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We addressed these issues by using patterned activation (PA) followed with patterned excitation and readout of the green photoswitchable FP Skylan-NS (fig. S29 and movie S6,part1) (30), rather than SD,to generate $H = 2$ harmonics yielding $6 2 \\mathrm { - n m }$ resolution and subsecond acqui",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our time-lapse imaging showed that most caveolae moved onlya fraction of their size during the acquisition time,although more met this condition when slowed (35)by operating at $2 3 ^ { \\circ } \\mathrm { C }$ (Movie 7and fig. S32) than when imaged at $3 7 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Single time point from a movie of the evolution of cortical f-actin in a COS-7 cellat $2 3 ^ { \\circ } \\mathrm { C }$ transfected with Skylan-NS-Lifeact, seenat $6 2 \\cdot \\mathsf { n m }$ resolution (Movie 6,fig.S3l,and movie S8).(B) Magnified viewfromadifferent cell at $3 7 ^ { \\circ } \\mathrm { C }$ ,comparing diffraction-limited TIRF microscopy (top left), TIRF with deconvolution (top right),TIRF-SIM (bottom left),and nonlinear TIRF-SIM with patterned activation (PA NL-SIM,bottom right) (movies S9 and S1O).(C) Caveolae in a COS-7 cell at $2 3 ^ { \\circ } \\mathrm { C }$ transfected with Skylan-NScaveolin,comparing TIRF with deconvolution (top left,220-nm resolution), TIRF SIM (top right, $9 7 - \\mathsf { n m }$ resolution),PA NL-SIM (bottom left, 62-nm resolution),and saturated PA NL-SIM (bottom right, $4 5 - \\mathsf { n m }$ （204号 resolution).(Insets)A singlecaveolae piteventually resolved as a ring by saturated PA NL-SIM (Movie 7,figs. S34 to S37.and movie S13. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb27bb8fef35acd51f88c00c326d9f6e3383fa565deb28504c73350d5e610b5d.jpg",
+        "img_caption": [
+            "Fig.3. Live-cell nonlinear structured illumination microscopy based on patterned photoactivation. (A) ",
+            "(DDiversiees.tdus reminiscent of clathrin plaques.(D) to (F) are from a different cell at $3 7 ^ { \\circ } \\mathrm { C }$ (fig.S33 and movie S12). Scale bars, $3 \\mu \\mathrm { m }$ (A); $1 \\mu \\mathrm { m }$ (B); $2 0 0 \\mathsf { n m }$ (C); and $1 0 0 \\mathsf { n m }$ (D).(E),(F).and (C),inset. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(fig. S33 and movie S12).The smaller, laterally mobile fractionin each case appeared as distorted, discontinuous rings or quasiperiodic patches (fig.S35).These morphologies are indicative of motion-induced artifacts and underscore the difficulty of live-cell SR imaging,byany method: Higher resolution must be accompanied by proportionally faster acquisition times to follow dynamic eventsofagivenvelocity,yethigher resolution also requiresa quadratically increasing number of raw measurements for each twodimensional (2D) image frame.Even the comparatively brief O.35 s we needed to acquire $N = 2 5$ raw images for each PA NL-SIM image was insufficient to accurately depict caveolae moving by much more than our 59-nm resolution in this time. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless,by further increasing $S F _ { \\mathrm { a c t } }$ we wereabletosaturatethefractionofmoleculesin the activated state near the maxima of the patterned activation light (movie S6,part 2).Saturated ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PANL-SIM generatesan additional harmonic $\\left( H = 3 \\right)$ strong enough (fig.S29) to further extend the resolution to $4 5 \\ \\mathrm { n m }$ (figs. S36 and S37) and allowed us to identify even smaller Skylan-NScaveolinrings unresolvable without the extra harmonic (Fig.3C).Using $N = 3 5$ ratherthan $N =$ 49raw imagesper frame,webalancedtheresulting anisotropic resolution (fig.S3o)against theneeds forrapidacquisition(O.49 s/frame) and parsimonious use of the photon budget to image caveolin rings over12 frames at3 s intervals (movie S13). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two-color live imaging via combined TIRF-SIMand PA NL-SIM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bycombininglinear SIMandPANL-SIM,both in TIRF,we could study associations between fluorescent proteins,one conventional and one photoswtichable,in two colors at higher resolution than by means of linear TIRF-SIM alone. Images (Fig.4,A to C,and figs.S38 and S39) and movies (Movie 8 and movie Si4) of mCherryRab5a-a regulator of the formation,fusion,and transport of early endosomes (EEs)(36)-revealed irregularly shaped, dynamically remodeling patches ofRab5a (fig.S39,AandB) consistent with the tubular/vesicular architecture of EEs seen in EM (Fig.4B) (37).Numerous patches also featured dark spots (fig.S39C) perhaps indicative of cargo or internal vacuoles depleted ofRab5a.Most patches moved randomly between successive 20-s time intervals at velocities slow enough to avoid motion artifacts during each O.34-s acquisition. We also observed a subpopulation of slowly growingSkylan-NS-Lifeact-associated Rab5a patches that were constrained for minutes at a time (fig. S39D,arrows).At the other extreme,we occasionally observed streaks of Rab5a moving parallel to nearby actin filaments at velocities of 3 to $5 \\mu \\mathrm { m } / \\mathrm { s }$ (Fig.4C and fig. S39E).These mayrepresentEEsactivelytransportedalongmicrotubules (38) parallel to the filaments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/570e9dd9f56138eb051236e67770f2f641925df788e468f9dcf4670642e2e635.jpg",
+        "img_caption": [
+            "Fig.4.CombinedTIRF-SIM and PA NL-SIM of proteinpair dynamics in living cells.(A) Skylan-NS-Lifeact (orange,PA NL-SIM) and mCherry-Rab5a,amarkerof early endosomes (green, TIRF-SIM) in a COS-7 cell at $2 3 ^ { \\circ } \\mathrm { C }$ (Movie 8, figs.S38 and S39,and movie S14). (B) Comparison of EM imagesof earlyendosomes (37)with similarly shaped Rab5a patches seen in (A). (C)Magnified viewat three successive time points, showing rapid transport of a Rab5a streak parallel to the cytoskeleton.(D) SkylanNS-Lifeact (green, PA NLSIM) and mCherry $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ actinin (purple,TIRF-SIM) ina COS-7 cell at $2 3 ^ { \\circ } \\mathrm { C }$ (Movie 9, figs. S40 and S4l,and movie S15).(E) Magnified view from (D),with Lifeact (top), ",
+            "actin(mide)deyotomsowigpiedoatioatfaldsiosndogthisofgtreibs.outioof hembraneruffle,showing $\\alpha$ -actinin concentrated at the leading edge.Scale bars, $5 \\mu \\mathrm { m }$ (A). (D); $2 0 0 ~ \\mathsf { n m }$ (B); $1 \\mu \\mathrm { m }$ (C) and (E):and 500 nm (F). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also used PA NL-SIM and TIRF-SIM, respectively,to study the association of Skylan-NSLifeact with mCherry-α-actinin (Fig.4,D to F, and fig. S4O).Consistent with itsroleasanactinbundling protein (39),in COS-7 cells we found $\\mathfrak { a }$ -actininat thetreadmillingedgeof thelamellepodium and at the basal surface in both filopodia and the leading edges of growing membrane ruffles (Fig.4F,Movie 9,and movie Si5).Wealso observed concentrations of $\\mathsf { q }$ -actinin along the sides (Fig.4E)andat the branchingends of stress fibers that likely attach to cell-substrate adhesions (40). Last, $\\mathfrak { a }$ -actininwaspresentat dense junctions ofLifeact-decorated filaments,and Skylan-NSLifeact rings as described above were colocalized in every instance with a mCherry- $\\mathbf { \\nabla } \\cdot \\mathbf { Q }$ -actinin ring of similar size (fig. S4l). Septins,another class of actin-bundling proteins,have been shown (4I) to produce f-actin rings in vitro (albeit of larger size than here),so perhaps $\\mathfrak { a }$ -actinin not only aids in bundlingactinfilaments innanometric rings but also contributes to their extreme curvature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3D live-cell imaging with combined PA NL-SIM and lattice light sheet microscopy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the $\\sim 5 0 \\AA - \\$ to $2 0 0 \\mathrm { - n m }$ extent of the evanescent excitation field we used in the examples above eliminated out-of-focus background and confined potentially phototoxic exposure to a minute fractionof thecellularvolume,italso limited our observations to this subvolume and severelyrestricted the total photon budget available for those targets unable to be replenished from the cytosol during the imaging interval. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To extend our observations to the entire cell, we turned to live-cell 3D-SIM (14, I5).Unfortunately, traditional 3D-SIM with linear,widefield excitation brings limitations of its own:It is slow (\\~20 s acquisition for whole adherent HeLa cells), limited to thin specimens (because of out-of-focus background),and requires high SNR foraccurate image reconstruction.It isalso potentiallyphototoxic and bleaches specimens rapidly because of continuous whole-cell illumination.These problems would all be greatlymagnified in its direct extension to PA NL-SIM. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, to apply PANL-SIM to living cells in three dimensions (Fig.5),we used lattice light sheet microscopy (42).In this technique,an excitation objective(fig.S42A)projectsathinsheet of light (fig. S42A,blue) through a specimen (fig. S42A,orange),and the fluorescence generated in the illuminated plane is collected bya detection objective and imaged ontoa camera.Repeating this process plane-by-plane through the specimen produces a 3D image.Restriction of the light to the detection focal plane eliminates out-of-focus background,increases the $z$ axis resolution and greatly reduces photobleaching and phototoxicity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In cross-section,the light sheet has the 2D periodic structure of an optical lattice (fig. S42B). Sweeping the sheet back and forth along the $x$ axisproduces time-averageduniform illumination,offering high speed and diffraction-limited xyz resolution of 230 by 230 by ${ 3 7 0 } \\mathrm { n m }$ ,asseen ina volume-rendered image of the actin cytoskeleton (fig.S43A) and its corresponding overall optical transfer function (OTF) (fig. S43D). Stepping the sheet in $x$ in five equal fractions of the lattice period and applying the algorithms of 3D-SIM to the resulting five raw images per plane extends the xyz resolution to l5o by 230 by ${ 2 8 0 } \\mathrm { n m }$ (fig. S43,B and E),but at the cost of at least $5 \\times$ longer acquisition times (42). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further extend the 3D resolution via PA NL-SIM,we first photoactivated target molecules fused to Skylan-NS usinga hexagonal lattice light sheet of $\\lambda = 4 0 5 ~ \\mathrm { { n m } }$ wavelength having $H = 2$ harmonics (fig. S43E).We thenimagedthe fluorescence fromtheactivatedregion,exciting the fluorescence witha lattice light sheet of $\\lambda = 4 8 8 \\mathrm { n m }$ wavelength having the same hexagonal symmetryandperiod(fig. S42B,bottom)asthe activation lattice.For activation well below saturation, theproduct of theactivation and excitation patterns creates a fluorescence emission pattern within the specimen having $H = 4$ harmonics (fig.S43F).Thus,we steppedthe sheet in $x$ in $2 H + 1 = 9$ equal fractions of the lattice period while recording nine images.Repeating this process for every plane within the specimen,we then reconstructeda3DPANL-SIMvolume-rendered image (fig.S43C),with resolution extended to 118 by 230 by $ { \\mathrm { 1 7 0 } }  { \\mathrm { n m } }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used this approach to image mitochondria in COS-7 cells (Fig. 5A) as well as the actin cytoskeleton (fig. S43,A to C,and movie S16) and the Golgi apparatus (Fig.5B) in U2OS cells,all at $2 3 ^ { \\circ } \\mathrm { C }$ so as to simplify the overlap of the activation and excitation patterns.Time-lapse 3D images(Fig. 5A,bottom) and movies (Movie 10) of Skylan-NS-tagged translocase of outer mitochondrial membrane 20(TOM2O) revealed the migration,constriction before fission,and fusion of individual mitochondria(43,44),each clearly resolvedasa hollowtubular structure.The 3D volume rendering and the widths of mitochondrial membranes in individual xy orthoslices were both comparable with similardata from a fixed cell imaged with 3D localization microscopy (45)at a reported xyz resolution of ${ \\sim } 2 0$ by 20 by $6 0 \\mathrm { n m }$ (fig. S44). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Avolume-rendered movie (movie Si7) of the Golgi-resident enzyme Mannosidase II (MannII) ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9ba24045c1ba9d892e94c1f1ddc1189f2e4e95dc46f53e836799353521cbfc0.jpg",
+        "img_caption": [
+            "Fig.5.Live-cell 3D PA NL-SIM via lattice light sheet microscopy. (A)(Top)Membrane marker Skylan-NS-TOM20 showing mitochondria in a COS-7 cell at $2 3 ^ { \\circ } \\mathrm { C }$ ,color-coded for distance from the substrate. (Bottom) Evolution of individual mitochondria,showing fission and fusion events,the former preceded by mitochondrial constriction (Movie 1O and fig. S44). (B) Time-lapse distribution of Golgi-resident enzyme SkylanNS-Mann II in a U2OS cell at $2 3 ^ { \\circ } \\mathrm { C }$ ，showing centralized cisternae surrounded by vesicles.White arrowheads indicatea docking vesicle,and red arrowheads highlight rapid export ofa long tubularvesicle (movies S17 and S18).Scale bars, $5 \\mu \\mathrm { m }$ (A), top; $1 \\mu \\mathrm { m }$ (A), bottom;and $3 \\mu \\mathrm { m }$ (B). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "tagged with Skylan-NS in a U2OS cell as seen looking into the cis-face from the nucleus showed Mann II concentrated in a hollow sphere of cisternae having a cis-facing void.Time-lapse 3D data(Fig.5B and movie Si8) color-coded for height showed the docking of small vesicles (Fig. 5B,white arrows)that may represent pre-Golgi intermediates (46)aswellastherapid export of Mann II in long,tubular post-Golgi carriers (Fig. 5B,red arrows) (47). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The volumetric resolution of 3D lattice light sheetPANL-SIMat the O.6-NA excitationand 1.1-NA detection we used here is comparable with the 105-by 105-by 369-nm xyg resolution of widefield 3D-SIM at $1 . 2 ~ \\mathrm { N A } .$ However, the lattice approach has twofold higher axial resolutionand fourfoldbetterthan traditional diffractionlimited microscopy.It is therefore better suited to problems in which its superior optical sectioning is essential, such as in resolving heterogeneities in nuclear architecture,distinguishing events occurring at the dorsal or ventral plasma membrane,or as above,tracking vesicles through the secretorypathway.Whole-cell acquisition times (70.5 and $3 2 . 7 \\ : \\mathrm { s }$ in Fig.5,A and B,respectively) are slow compared with PANL-SIMin TIRF but similar to widefield3D-SIM.However, thanks to the oblique imaging geometry(fig. S42),restricted xy fields of view can be imaged at proportionally faster speed through the entire thickness of the cell. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theaboveresultsprovidebuta brief glimpse of the biology that might be uncovered with the live-cell-compatible SR methods of high-NA TIRFSIMand PANL-SIM.We have measured and correlated the diameters and lifetimes of CCPs, observed at high resolution different forms of CCP initiation,and shown that CCP internalizationisaided byactin filaments in about half of all cases.We have seen that caveolin localizes not onlyto the 60- to $8 0 \\mathrm { - n m }$ invaginatedcaveloae common in EM images,but also to much larger ring-like structures,and have followed dynamic changes in the shapes of early endosomes.Last, we have observed the nanoscale remodeling of theactincytoskeletoninrelationtoclathrinand Rab5a,aswell ascytoskeletal-related proteins such as myosin IIA, $\\alpha$ -actinin,and paxillin. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "However, the above results also amply illustrate the trade-offs inherent in live SR imaging: Withhigh-NA TIRF-SIM at $\\mathrm { 1 . 7 N A } ,$ we could acquire up to 2oo image frames in $< 0 . 5 \\mathrm { ~ s ~ }$ each at intensities of 20 to $1 0 0 ~ \\mathrm { { W / c m ^ { 2 } } }$ anda resolution of $8 4 \\mathrm { n m }$ (for GFP),whereas extending the resolution to $6 2 \\mathrm { n m }$ with PA NL-SIM restricted us to nomore than4Oframes,andfurther extension to $4 5 \\ \\mathrm { n m }$ with saturatedPA NL-SIMrequired $4 9 0 ~ \\mathrm { W / c m ^ { 2 } }$ and produced only I2 frames at useful SNR. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In short, even modest gains in resolution come atsubstantial costinterms of the othermetrics important for live-cell imaging.These tradeoffs are not specific to SIM.In fact, our extensions of SIM are far more compatible with live imaging than any other form of SR fluorescence microscopy of comparable resolution demonstrated to date.In part, this is because the OTF,which defines the degree to which different sample spatial frequencies (representing differently sized structures) are passed to the image,is far stronger in the $\\scriptstyle 1 0 0 - \\mathrm { n m }$ regime (fig. S24B) forhigh-NA TIRFSIM at1.7NA than other linear methods such as confocal or image scanning microscopy (ISM) (48-50),and far stronger in the 50- to $\\scriptstyle 1 0 0 - \\mathrm { n m }$ regime (fig. S24C) for PANL-SIM than other nonlinear methods such as STED $( \\delta , \\mathcal { I } ) _ { ; }$ pointscanning(PS)RESOLFT(IO),orarray-based widefield(WF)RESOLFT (II).Asa result,far fewer photons need to be collected (fig. S2),and far less light (fig.S3) needs to be applied to the specimen to see features in these regimes at acceptable SNR.Localization microscopy is also photon inefficient,in that the density of localized molecules isnearlyalwaysmorelimitingtotheresolution than is the number of photons emitted per switching cycle,which dictates the localization precision.For example, simulations (I2) based on the theoretical OTFs suggest that to resolve an $8 5 \\mathrm { - n m }$ grating,PANL-SIM requires $\\mathord { \\sim } 8 0 \\times$ fewer photons from the specimen per unit area than localization microscopy, $\\sim 2 0 0 \\times$ fewer than WF-RESOLFT, and $\\mathord { \\sim } 1 5 \\times$ fewer than PS-RESOLFTor STED,each at a depletion saturation factor of $S F _ { \\mathrm { d e p l e t i o n } } = 1 0$ (fig. S2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Another reason for the greater compatibility of high-NA TIRF-SIM and PA NL-SIM with living cells is that they require much lower peak intensities of applied light.High resolution with STED orRESOLFTdemandshigh factorsof saturated depletion (fig. S25,Aand C) that are wasteful of the photon budget (fig.S25,Band D) and require enormous intensities and/or long exposures for activation (fig. S45),depletion (fig. S28),and readout of the final signal (fig. S3). Localization microscopyalso requires high intensities to achieve high photon emission and photoswitching rates from single molecules.For example,extrapolatingfromreported experimental values for livecell imaging (table S1),the O.8- to $3 . 5 { \\mathrm { - } } \\mathrm { W / c m ^ { 2 } }$ activation intensity used over the 45- by $4 5 \\mathrm { - } \\mu \\mathrm { m }$ field of view inFig.3Ain1.2s by means ofPA NLSIM is 96o,ooO times weaker than that which would be required to image the same area in the same acquisition time by means of PS-RESOLFT (10).Similarly,under the same parameters,the $1 0 0 { - } \\mathrm { W / c m ^ { 2 } }$ read-out intensity used for PA NLSIM shown in Fig.3A is 20o times weaker than thatwhichwouldbe required forlocalization microscopy $( \\theta , 7 )$ and 640,oo0 times less than PSRESOLFT (IO).Furthermore, STED and RESOLFT require anadditional depletion stepnot needed inPANL-SIM,which would further expose the sample to peak intensities of $8 0 7 ~ \\mathrm { M W / c m ^ { 2 } }$ for STED $( \\boldsymbol { \\delta } )$ $\\mathrm { 1 . 7 M W / c m ^ { 2 } }$ for PS-RESOLFT (IO),and $3 \\mathrm { k W / c m ^ { 2 } }$ for WF-RESOLFT $( I I )$ .Even over small image fields,nanoscopy with focused light such as PS-RESOLFT and STED uses intensities ${ \\mathrm { 1 0 } } ^ { 5 } .$ to $1 0 ^ { 1 0 }$ -fold larger than that of terrestrial solar flux and is thus ill-equipped to study live-cell dynamics noninvasively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Of course,despite these gains,no method of live-cell fluorescence microscopy,including highNA TIRF-SIM and PA NL-SIM, can claim to be completely noninvasive, owing to possible photoinduced physiological changes,protein overexpression,and/or label-induced perturbations. Forexample, the gradual development of curved filopodia and membrane ruffles after the start of imaging are shown in Movies 5and 6 and movie S2.These may reflect a response to the illumination,although we have also commonly seen such structures under initial conditions when imaging with diffraction-limited TIRF (fig. S46).Another caveatis thatall the cells except BSC-1in this work were transiently transfected,and hence, expression levels of the target proteins were uncontrolled.This could affect either morphologies, such as the sizes of Rab5a-labeled endosomes (Fig.4,A to C,and figs.S38 and S39) (51),or dynamic phenotypes,such as the growth rate of membrane ruffles in mCherry $\\mathbf { \\nabla } \\cdot \\mathbf { q }$ -actinin-expressing cells (Fig.4E,Movie 9,and movie S15).Although endogenous expression levels can be achieved with genome editing (52),even more light or longer exposures would be needed for cases in which these levelsare lower than thoseusedhere. Thus,the biological findings described in this work shouldnot be considered definitive.More extensivemeasurementsacrossmultiplecelllineswith careful controls and targeted perturbation experiments will be needed to reach conclusive insights. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The lesson is that when addressing any biological question by means of live-cell imaging, it is prudent to start with less invasive,lower-resolution methods such as widefield, spinning disk confocal, or lattice light sheet microscopy and move progressively only as needed to more invasive,higherresolutionmethods such as 3D-SIM,TIRF-SIM, PA NL-SIM,and last,localization microscopy Seen from this perspective,the two extended-resolution methodsofhigh-NATIRF-SIMandPANL-SIMwe introduce here fill an important gap between the $\\scriptstyle 1 0 0 - \\mathrm { n m }$ limit of traditional SIM and the macromolecular level of localization microscopy.Together, they open the door to high-resolution,minimally invasive studies of dynamic processes,including endocytosis, exocytosis,signal transduction,protein diffusion, vesicle traficking, viral entry,cytoskeletal remodeling,interactionswith the extracellular matrix,and the evolution of lipid rafts. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods OpticalpathoftheTiRF-SiMsystem ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The schematic of TIRF-SIM system is presented in fig. S47A.The beam from a laser combiner ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LBX-405-300-CIR-PP), $4 8 8 ~ \\mathrm { n m }$ 0 $5 0 0 \\mathrm { m W }$ ,Coherent, SAPPHIRE 488-50O),and $5 6 0 \\mathrm { n m }$ (1W,MPB Communications, 2RU-VFL-P-100O-560-BIR) lasers is passed through an acousto-optic tunable filter (AOTF;AA Quanta Tech,AOTFnC-400.650-TN). The beam is then expanded to a $1 / e ^ { 2 }$ diameter of $1 2 ~ \\mathrm { m m }$ and sent to a phase-only modulator (13) consisting of a polarizing beam splitter,a achromatic half-wave plate (HWP; Bolder Vision Optik, BVO AHWP3),and a ferroelectric spatial light modulator (SLM; Forth Dimension Displays, SXGA3DM).Light diffracted by the grating pattern displayed on SLM passes through a polarization rotator (I5) consisting of a liquid crystal cell (LC; Meadowlark,SWIFT) and an achromatic quarterwave plate (QWP；Bolder Vision Optik,BVO AQWP3),which rotates the linear polarization of the diffracted light so as to maintain the $s$ -polarization necessary to maximize the pattern contrast for all pattern orientations.A mask consisting of a hollow barrel with slots for different pattern orientations (I5)is driven by a galvanometric scanner (Cambridge Technology, 6230HB) to filter out all diffraction orders created by the binary and pixelated nature of the SLM except for the desired $\\pm 1$ diffraction orders.These are then imaged at the back focal plane of the objective (Olympus APON 100XHOTIRF 1.7 NA for high-NA TIRF-SIM, Olympus, UAPON 100XOTIRF 1.49 NA for PA NL-SIM at $2 3 ^ { \\circ } \\mathrm { C } ,$ or Zeiss PlanApochromat 100X Oil-HI 1.57 NA for high-NA PA-NL-SIM at $3 7 ^ { \\circ } \\mathrm { C }$ ）as two spots at opposite sides of the pupil.After passage through the objective,the two beams intersect at the interface between the coverslip and the sample at an angle exceeding the critical angle for total internal reflection.An evanescent standing wave penetrating ${ \\sim } 1 0 0 \\mathrm { n m }$ into the sample is thereby generated, consisting of a sinusoidal pattern of excitation intensity that isa low-pass filtered image of the SLM pattern.The period,orientation,and relative phase of this excitation pattern can be finely tuned by altering the corresponding pattern displayed on SLM.For each orientation and phase of the applied excitation pattern, the resulting fluorescence is collected by the objective,focused bya tube lensat an intermediate image plane,separated from excitation light by a dichroic mirror (Chroma,ZT405/ 488/560tpc_22.5deg) placed between two relay lenses，and reimaged onto a sCMOS camera (Hamamatsu, Orca Flash 4.0 v2 sCMOS), where the structured fluorescence emission pattern is recorded. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Calibration ofpatternoverlap for PANL-SIM ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to maximize the amplitudes of the nonlinearharmonics forPANL-SIMto work efficiently, the sinusoidal patterns of $4 0 5 ~ \\mathrm { n m }$ activation lightand 488nm excitationand deactivation light must bealignedto precisely overlap oneanother. Asnotedabove,thesepatternsatthesample plane are created by displaying corresponding binary grating patterns on an SLM at a corresponding optically conjugate plane.In this case, the period $\\displaystyle p _ { \\mathrm { s } }$ at the specimen is related to the period $p _ { \\mathrm { S L M } }$ at the SLM by ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { \\mathrm { s } } = M _ { \\mathrm { \\lambda } } \\cdot p _ { \\mathrm { S L M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $M$ is the demagnification factor between the two conjugate planes and is dictated to be thefocallengths of therelaylensesbetween the two planes.Unfortunately, chromatic aberration leads to slightly different focal lengths for even achromaticrelaylensesfordifferentwavelengths of light.In particular,in our system, $M _ { 4 0 5 }$ and $M _ { 4 8 8 }$ vary by ${ \\sim } 2 \\%$ .Considering that the sinusoidal interference pattern is composed of hundreds of periods across our 45- by $4 5 \\mathrm { - } \\mu \\mathrm { m } ^ { 2 }$ field-of-view (FOV),even this $2 \\%$ difference results in substantial drift in the relative phases of the 405- and $4 8 8 – \\mathrm { n m }$ excitation patterns across the FOV (fig. S48,A to C),leading to spatially variable amplitudes for the nonlinear harmonics and corresponding spatially variable errors in the resulting SIM reconstructions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A straightforward way to compensate for chromatic aberration and achieve identical periods $p _ { \\mathrm { s } , \\mathrm { 4 0 5 } } = p _ { \\mathrm { s } , \\mathrm { 4 8 8 } }$ at the sample (fig. S47B) is to introduce a period difference $\\Delta p _ { \\mathrm { S L M } }$ between the two corresponding patterns at the SLM (fig. S47C).In fact,in order to compensate completely and achieve well-overlapped 4O5- and $4 8 8 – \\mathrm { n m }$ excitation patterns over the whole FOV,we need to measure two parameters:the initial period diference at the sample, $\\Delta p _ { \\mathrm { s } } ^ { i } = \\Delta p _ { \\mathrm { s } , 4 8 8 } ^ { i } - \\Delta p _ { \\mathrm { s } , 4 0 5 } ^ { i }$ when $p _ { \\mathrm { S L M } }$ is the same for both wavelengths; and the phase difference, $\\Delta \\Phi _ { \\mathrm { s } } ^ { i } = \\Delta \\Phi _ { \\mathrm { s } , 4 8 8 } ^ { i } - \\Delta \\Phi _ { \\mathrm { s } , 4 0 5 } ^ { i }$ when $ { p _ { \\mathrm { s } } }$ is the same.Do to so,we used a sample consisting of a dense but submonolayer spread of green fluorescent beads excitable at both 405 and $4 8 8 ~ \\mathrm { n m }$ andproceededas follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Step 1 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keeping $p _ { \\mathrm { S L M } }$ constant, we acquired five images each of the sample under 4o5-and 488-nm sinusoidal excitation,with the phase shifted by $ { p _ { \\mathrm { S L M } } } / 5$ for each image at a given wavelength.We then applied the structured illumination (SI) reconstruction algorithm $( 5 3 )$ to each set of five images, from which $p _ { \\mathrm { s } , 4 0 5 } ^ { i }$ and $p _ { \\mathrm { s } , 4 8 8 } ^ { i }$ emerged as measured outputs.For a given period $p _ { \\mathrm { S L M , 4 8 8 } }$ used at the SLM for $4 8 8 – \\mathrm { n m }$ excitation, the corresponding period $p _ { \\mathtt { S L M } , 4 0 5 }$ needed at the SLM for $4 0 5 \\mathrm { - n m }$ excitation to produce the same period $\\displaystyle p _ { \\mathrm { s } }$ at the sample for both wavelengths is then given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { \\mathrm { S L M , 4 0 5 } } = \\bigg ( \\frac { p _ { \\mathrm { s , 4 8 8 } } ^ { i } } { p _ { \\mathrm { s , 4 0 5 } } ^ { i } } \\bigg ) p _ { \\mathrm { S L M , 4 8 8 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Step 2 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After adjusting $p _ { \\mathrm { S L M } , 4 0 5 }$ and $ { p _ { \\mathrm { S L M , 4 8 8 } } }$ to obtain the same period $ { p _ { \\mathrm { s } } }$ at the sample for both wavelengths,a constant phase offset exists between the two sinusoidal illumination patterns across theFOV (fig. S48,D and E).We measured the phase $\\boldsymbol { \\Phi }$ for each wavelength by applying the sinusoidal illumination for that wavelength and then recorded the position $x _ { n }$ along the modulation direction and intensity $I _ { n }$ for each of $N$ beads scattered across the FOV.We then fit the function $I ( x ) = I _ { \\mathrm { m a x } } [ 1 + \\sin ( 2 \\pi x / p _ { \\mathrm { s } } + \\phi ) ] / 2$ to this data to find $\\boldsymbol { \\Phi }$ (fig. S48F). A phase shift $\\Delta \\phi = \\ \\Phi _ { 4 8 8 } -$ $\\Phi _ { 4 0 5 }$ was then applied the SLM pattern for the $4 0 5 \\mathrm { - n m }$ illumination so as to bring it into phase with the $4 8 8 \\mathrm { - n m }$ illumination at the specimen (figs. S48, G to I). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Step 3 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Last, we confirmed that both the period and phase of the sinusoidal illumination patterns at the two wavelengths match across the entire FOV by remeasuring the periods $p _ { \\mathrm { s } , \\mathrm { 4 8 8 } } , p _ { \\mathrm { s } , \\mathrm { 4 0 5 } }$ and the phases $\\Phi _ { 4 8 8 } , \\ \\Phi _ { 4 0 5 }$ as described above and confirmingthat theyareidentical. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SLMpattern generation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We generated the sinusoidal illumination patterns usinga binary ferroelectric SLM(Forth Dimension Displays,SXGA-3DM)because it has the submillisecond switching times needed to acquire the nine (TIRF-SIM), 25(PANL-SIM),or more (saturated PANL-SIM) raw images of different phase and orientation required to reconstruct a single SIM image in as fast as 1Oo to 4OO ms. However, care must be takento account for the finite pixel size of the SLM, especially considering that subpixel adjustment accuracy is necessary to achieve precise pattern overlap at 405 and $4 8 8 \\mathrm { n m }$ as described in the previous section.The SLM pattern-generation algorithms used in previous work (i3-15) do not provide such subpixel accuracy.Thus,in thiswork,we developed a new algorithm thatmatchesthetwopatternperiods to $0 . 0 2 \\%$ precision, leading to a phase error no greater than $1 . 8 ^ { \\circ }$ over the $4 5 \\mathrm { - } \\mu \\mathrm { m }$ FOV. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In detail,a set of radial vectors $\\{ \\mathbf { A } _ { n } \\}$ define the desired orientations of the grating pattern at the SLM.The angular orientation of this radial set relative to the $x$ and $y$ axesdefinedbypixel rows and columns of the SLMis chosen so that each vectorisat least $4 ^ { \\circ }$ away from either axis.This is essential to achieve subpixel precision in the adjustment of the period.For each orientation represented by $\\mathbf { A } _ { n } ,$ we define a vector $\\mathbf { B } _ { n }$ that is orthogonal to $\\mathbf { A } _ { n }$ (fig.S49).Likewise,for every pixel of the SLM we define a pixel vector (such as $\\mathbf { c 1 }$ or C2 in fig. S49) from the point O at the intersection of $\\mathbf { A } _ { n }$ and $\\mathbf { B } _ { n }$ to thepixel.We then calculate $F = [ ( \\mathbf { C } \\cdot \\mathbf { B } ) \\mathrm { m o d } p ] / p$ ,the fraction of the period $p$ bywhich the pixel extends beyond an integral number of periods on the SLM.For a pattern witha desired off fraction $D$ per period $\\mathcal { D } = 0 . 5$ in 2D SIM), the pixel is set to O if $F < D$ and set to1 otherwise.Last,to define the pixel patterns required for the other $N - 1$ phases of the illumination fora given orientation, the point O is translated along $\\mathbf { B } _ { n }$ in steps of $p / N ,$ and this process is repeated with the new vectorC for each pixel.Unlike the pixel assignment algorithm used previously for SIM $( I 5 )$ ，this approach does not rely on unit-cell repetition and therefore does not succumb to error accumulation over the entire span of the SLM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LatticelightsheetPANL-SiMsystem ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To extend PA NL-SIM to three dimensions, it is essential to minimize out-of-focus fluorescence emission that can cause the shot noise in the DC harmonic to completely overwhelm the weak signals in the nonlinear harmonics. To accomplish this,we turned to the SIM mode of lattice light sheet microscopy (42).Just as in the case of 2D-SIM,and for the same reasons,we choose to introduce the nonlinear harmonics through patterned activation of Skylan-NS.The excitation objective (Special Optics,0.65NA,3.74 mmWD) is placed perpendicular to the detection objective (Nikon, CFI Apo LWD 25XW,1.1 NA, 2 mm WD) to confine the illumination to the proximity of the latter's focal plane (fig.S42A).The lattice pattern projected on the SLM(Forth Dimension Displays,SXGA-3DM) is imaged onto the focal plane of the excitation objective,after the excitationis first spatially filtered byan annular mask (Photo-Science)and relayed by a pair of galvanometers (Cambridge Technology，62l5H） that phase step the pattern in the $x$ direction and scan the light sheet in $z$ Also as in 2DPANL-SIM,we match the periods and phases of the 4O5- and $4 8 8 – \\mathrm { n m }$ lattices to exactly match by measuring their excitation profiles across the FOV using fluorescent beads (fig. S42B)and adjusting accordingly.The fluorescence emission is collected by the detection objective and imaged bya tube lens ontoasCMOS camera(Hamamatsu Orca Flash 4.0 v2).A3D image is formedbyrepeating this process as the sample is translated through the light sheet with a piezoelectric stage(Physik Instrumente,P-621.1CD)along an axis $s$ in the plane of the cover slip,and a 3D super-resolution NL-SIM image is reconstructed as described below. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dataacquisition ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "High-NA TIRFSIM ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All high-NA TIRF-SIM images were acquired with the Olympus 1.7-NA objective under the physiological conditions of $3 7 ^ { \\circ } \\mathrm { C }$ and $5 \\% \\mathrm { C O _ { 2 } }$ .At each time point,we acquired three raw images at successive phase steps of O,1/3,and 2/3 of the illumination period.We then repeated this process with the standing wave excitation pattern rotated $\\pm 1 2 0 ^ { \\circ }$ with respect to the first orientation,fora total of nineraw images.Thephase stepping and pattern rotation were accomplished byrotating or translating the binary gratingpattern displayed on the SLM.For multicolor imaging, we acquired nine raw images at each excitation wavelength before moving to the next and then repeated this series at successive time points.We couldadjust the excitationNAforeachwavelength by changing the period of the grating pattern at the SLM.This allowed us to control penetration depth of the evanescent wave (fig.S8)in order to balance thenumber of excitable fluorescent molecules against the background fluorescence and possible physiological effects of the excitation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PANL-SIMandsaturatedPANL-SIM ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thehighrefractive indeximmersion oil required for the Olympus 1.7-NA objective strongly absorbs 4O5-nmlight,leading toa substantial reductionin the modulation depth we could achieve in theactivation pattern at this wavelength. Consequently,for NL-SIMwe first turned to the Olympus 1.49-NA TIRF objective and imaged at room temperature $( 2 3 ^ { \\circ } \\mathrm { C } )$ with Ll5 medium, without phenol red having $10 \\%$ fetal bovine serum (Life Technologies).With this objective,we were able to achieve high modulation contrast while stably and precisely overlapping the 405-and $4 8 8 \\mathrm { - n m }$ standing waves over the whole FOV.An excitation NA of 1.44 was used for both 488-and ${ 5 6 0 } { \\cdot } \\mathrm { n m }$ light in this case,leading to $6 2 \\mathrm { - n m }$ resolution for PANL-SIM when using green-emitting FPs.Recently,however,we found that the high refractive index immersion oil used for the Zeiss 1.57-NA objective did not absorb $4 0 5 \\mathrm { - n m }$ light strongly and therefore could be used to maintain precisely overlapped 405- and 488-nm standing waves with high modulation contrast at $3 7 ^ { \\circ } \\mathrm { C }$ and $5 \\%$ $\\mathrm { C O _ { 2 } }$ The excitation NA in this case was 1.52 for $4 8 8 – \\mathrm { n m }$ light, leading to ${ 5 9 } { \\cdot } \\mathrm { { n m } }$ resolution for PA NL-SIM when using green-emitting FPs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The exposure procedure for a single phase step in NL-SIM consists of (i) $4 0 5 \\mathrm { - n m }$ patterned illumination for1 ms to activate the fluorescent molecules; (ii) $4 8 8 – \\mathrm { n m }$ patterned illumination for 5 to ${ \\sim } 3 0 ~ \\mathrm { m s }$ to read-out the activated molecules;and (ii) 488-nm uniformillumination for2 to\\~10 ms toread-out theremainingactivatedmoleculesand return the sample back to the original unactivated state.We collected the fluorescence from both steps (ii) and (ii) to reconstruct the SR image. Depending on the number of modulation harmonics $H$ of non-negligible amplitude in the image $\\scriptstyle { \\mathcal { H } } = 2$ for PA-NL-SIM and $H = 3$ or possibly more for saturated PANL-SIM),we repeated this sequence for $2 H + 1$ raw images at each of $2 H +$ 1 angular orientations equally spaced around $3 6 0 ^ { \\circ }$ for a total of $( 2 H + 1 ) ^ { 2 }$ raw images at each NL-SIM time point. An exception was saturated PA-NL-SIM, for which to reduce the acquisition time,we often used only five orientations rather than seven. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In two-color imaging combining linear TIRF-SIM and PA NL-SIM (Fig.4),at each time point we acquired the PANL-SIM image as discussed above. However, we acquired the TIRF-SIM image with five instead of three orientations (15 raw images for the TIRF-SIM channel at every time point) in orderto match the orientations of the five-slot, galvanometer-driven barrel mask used to pick out the desired diffraction orders for thePANL-SIM acquisition. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3DPANL-SIMwith lattice light sheetmicroscopy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here,we used a hexagonal lattice having a period large enough to contain two harmonics foreach of the $4 0 5 \\mathrm { - n m }$ activation and the 488- nm excitation (42)-one harmonic just below theAbbe limit of the O.65-NA excitation objective,and the other at twice this period.The product of these patterns created a fluorescence emission pattern containing $H = 4$ harmonics (fig.S43F).However,witha single excitation objective,we were limited to producing this patternat only one orientation.Therefore,at each plane of the 3D stack,we acquired $2 H + 1 = 9$ images,resulting in improved resolution (Fig.5) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "in both the lateral and axial directions of the pattern. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reconstruction of SIM images Theraw image frameswith patterned excitation were processed and reconstructed into the superresolved images by means of a previously described algorithm $( 5 3 )$ .In brief, for each pattern orientation with $H$ modulation harmonics, $2 H +$ 1 rawimages are collected and Fourier transformed into $2 H + 1$ information components. These components are assembled by initially translating each in Fourier space by a distance equal to the amplitude of the illumination pattern vector $n k _ { 0 } ,$ where $k _ { 0 }$ is the spatial frequency of the illumination pattern and $n = - H$ to $H .$ The pattern vector of each information component is then fine-tuned by finding the vector that maximizes the complex cross-correlation in the overlap region between successive components.The modulation amplitude of the harmonic and its starting phase are found through complex linear regression.In line with previous work (28), the modulation amplitudes for the highest harmonics are generally too low for this empirical approach to work well, so for these,the theoretical values of their complex amplitudes are used.After fine-tuning the positions and complex amplitudes of the information components in the overlap regions,a generalized Wiener filter is applied to this expanded transfer function to balance the amplitudes of the various spatial frequencies against the underlying noise. Next,an apodization function is applied to minimize ringing artifacts when the result is Fouriertransformed back to real space.However, rather than the triangle apodization $A ( k ) = 1 - k / k _ { \\operatorname* { m a x } }$ normally used (53),we applied a $\\boldsymbol { \\gamma }$ apodization $A ( k ) = 1 - ( k / k _ { \\operatorname* { m a x } } ) ^ { \\gamma }$ ,usually with $\\gamma = 0 . 4$ ,sothat the higher spatial frequencies are not suppressed more than necessary. Furthermore, we strictly followed the azimuthally dependent support $k _ { \\mathrm { m a x } } ( \\ r _ { 0 } )$ of the expanded OTF (figs.S7 and S3O) to define the endpoint of the apodization function. This provides additional suppression of ringing artifacts. For the time series data, we independently implement this reconstruction process for each time point. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cell culture, transfection,staining, and fixation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BSC-1, COS-7, U2OS,and mouse embryonic fibroblast (MEF) cells (American Type Culture Collection）were grown to ${ \\sim } 6 0$ to $80 \\%$ confluency in Dulbecco's modified eagle medium(DMEM) with high glucose and no phenol red supplemented with $1 5 \\%$ fetal bovine serum (Life Technologies). BSC-1 cells stably expressed EGFP-CLTA. Other cellsweretransientlytransfectedwithanAmaxa Nucleofector 96-well shuttle system (Lonza) with $1 ~ \\mu \\mathrm { g }$ DNA per 4oo,ooo cells with nucleofection solution and a program optimized for each cell line per the manufactures instructions.Before imaging, $2 5 \\mathrm { - m m }$ or 5-mm coverslips were coated with $1 0 \\mu \\mathrm { g / m l }$ fibronection (Millipore,FColo) for 24 hours before plating transfected cells.Imaging was performed in DMEM with HEPES if there is no $\\mathrm { C O _ { 2 } }$ control containing no phenol red at temperatures specifically stated in each case. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In two-color imaging of CCPs and transferrin receptors (TfRs) by means of high-NA TIRF-SIM, MEFcells expressing clathrin light chainB fused totheCterminalofmEmeraldwereincubated with DMEM medium containing $2 5 0 \\mathrm { \\ u g / m L }$ TfR bound to human transferrin conjugated withAlexa 568(T23365,Life Technologies) for $1 5 \\mathrm { m i n }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fixed cells were treated for $1 5 ~ \\mathrm { m i n }$ with fixation buffer containing $4 \\%$ paraformaldehyde, $0 . 1 \\%$ gluteraldehyde in PHEM buffer $( 2 5 ~ \\mathrm { m M }$ HEPES, $1 0 \\mathrm { m M }$ EGTA,2 mM $\\mathrm { { M g C l _ { 2 } } , }$ and $\\mathrm { 1 2 0 m M }$ PIPES in pH 7.3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TrackinganalysisofCCPs ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For each image frame,we segmented the CCPs usinga watershed algorithm written in Matlab (MathWorks,2Oi4a) and measured their centroids individually. Subsequently, the centroid position was linked between time points using utrack 2.1 $( 5 4 )$ .This linking operation collected successive position information for each pit over the entire endocytic process (Fig.2E) from initiation to final internalization.It was then straightforward to determine the lifetime (Fig.2A) for each endocytic event. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to precisely measure the pit diameter (Fig.2,B and C),we first measured the system magnification to the camera by imaginga standard fine counting grid (228o-32,Ted Pella). The SIM image of each CCP was then deconvolved with the equivalent PSF of the SIM system to compensate for the broadening due to the finite resolution of the instrument.Last, we measured the diameter of each deconvolved pit using an intensity-weighted average radius relative to the centroid of the pit.In certain cases (Fig.2A and Movie 3),pits were color-coded at each time point based on the time since their initiation to the current time point. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One challenge in this analysis was how to identify isolated pitsrather thanaggregatesand how to be sure that these represented true pits rather than noise or disorganized patches of nonassembled clathrin.To accomplish this,we set some conditions during the analysis,such as that a pit must start as a spot and then evolve into a ring at at least one time point.When analyzing the correlation between pit lifetime and maximum diameter, we added the further constraint of including only those pits formed after the first frame in order to insure that we could accuratelymeasure the entirelifetime. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When measuring the associations of actin with clathrin,we first implemented the tracking algorithm above to obtain time-lapse CCP images foreach endocytic event.We then createdamask for each CCP identified in each frame,equal to the CCP size plusanadditional boundary of one pixel.We then applied these masks to each frame of Lifeact data and integrated the actin fluorescence within each CCP-derived mask.If the actin signal integrated over the area of a given mask increasedduringthe final five frames of the life of theassociatedCCP,it wasdecidedthat actin was recruited to the CCP during the final stage of endocytosis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.L. Schermelleh, R. Heintzmann, H. Leonhardt, A guide to superresolution fluorescence microscopy.J.Cel Biol.190165-175 (2010).doi: 10.1083/jcb.201002018: pmid: 20643879   \n2.U.Schnell,F.Dijk,K.A.Sjollema,B.N.Giepmans Immunolabelingtifctsdtheeedfoceling Nat.Methods9,152-158(2012).doi:10.1038/nmeth85; pmid: 22290187   \n3.R.P.Nieuwenhuizenet al.,Measuring imageresolutionin optical nanoscopy.Nat.Methods10,557-562 (2013). doi: 10.1038/nmeth.2448;pmid:23624665   \n4.X.Shu et al.,A genetically encoded tag for correlated light and electron microscopy of intact cells,tissues,and organisms. PLOS Biol.9e1001041(2011).doi:0.17jual. pbio.100104l; pmid: 21483721   \n5.J.D. Martellet al.,Engineered ascorbate peroxidase as a geneticallyencoded reporter forelectronmicroscopy. Nat. Biotechnol.30,1143-1148 (2012). doi: 10.1038/nbt.2375; pmid: 23086203   \n6.H.Shroff, C.G.Galbraith,J.A. Galbraith,E. Betzig, Live-cell photoactivated localization microscopy of nanoscale adhesion dynamics.Nat. Methods 5,417-423 (2008). doi: 10.1038/ nmeth.1202; pmid: 18408726   \n7. S.H.ShimetaSuperresolutionfluorescenceigingof organelles in live cels with photoswitchable membrane probes. Proc.Natl.Acad.Sci US.A.109,13978-13983 (2012). doi: 10.1073/pnas.1201882109; pmid: 22891300   \n8.B.Hein,K..Wilig,S.W.Hell,imulatedemssioneetion (STED)nanoscopyofafluorescent protein-labeledorganelle insidealiving cell.Proc.Natl.Acad.Sci.U.S.A.105. 14271-14276 (2008).doi: 10.1073/pnas.0807705105; pmid: 18796604   \n9.V.Westphaletal.Video-ratefar-fieldopticalnanoscopy dissects synaptic vesicle movement. Science 320, 246-249 (2008).doi: 10.1126/science.1154228; pmid: 18292304   \n10.T.Grotjohanetal.sEGFP2enablesfastRESOLFTnanooy of living cels. eLife1,e00248 (2012).doi: 10.7554/ eLife.00248; pmid: 23330067   \n11.A.Chmyrov et al., Nanoscopy with more than 100,000 doughnuts:Nat.Methods10737-74(2013).doi10038/ nmeth.2556；pmid: 23832150   \n12.Materialsandmethodsareavailableassupplementary materials on Science Online.   \n13.P.Kner,B.B.Chhun,E.R.Grifis,L.Winoto,M.G.Gustafsson, Super-resolution video microscopy of live cells by structured illumination.Nat.Methods6,339-342(2009).doi:10.1038/ nmeth.1324; pmid: 19404253   \n14.L.Shao,P.Kner,E.H.Rego,M.G.GustafssonSuperresolution 3D microscopy of live whole cells using structured illumination. Nat. Methods 8,1044-1046 (2011).doi: 10.1038/ nmeth.1734; pmid: 22002026   \n15.R.Fiolka,L.Shao,E.H.Rego,M.W.Davidson, M.G.GustafssonimesetoolorDiagingofliecell with doubled resolution using structured llumination. Proc. Natl.Acad.SciUS.531-5315(201).do03/ pnas.1119262109; pmid: 22431626   \n16.J. Riedl et al.,Lifeact: A versatile marker to visualize F-actin. Nat.Methods5605-607(2008).doi0.1038/nmeth0 pmid: 18536722   \n17.H.T.McMahon,E.Boucrot,Molecular mechanismand physiological functions of clathrin-mediated endocytosis. Nat. Rev.Mol.CellBiol.12,517-533 (2011).doi:10.1038/nrm3151 pmid: 21779028   \n18.M.Ehrlich et al., Endocytosis by random initiation and stabilization of clathrin-coated pits.Cel 118,591-605 (2004). doi:1016/d6   \n19.1.GaidarovF.antini,R..Warren,J.H.Keen,Spatiaotrol of coated-pit dynamics in living cels.Nat. Cel Biol.1,1-7 (1999). pmid: 10559856   \n20.S.SafarianE.Cocucci,T.ichhausen,Distinctdynamicsof endocytic clathrin-coated pitsandcoated plaques.PLOS Biol. 7,e100019().do0ua.po.9 pmid: 19809571   \n21.J. Grove et al.,Flat clathrin latices: Stable features of the plasma membrane.Mol.Biol.Cell25,3581-3594(2014). doi: 10.1091/mbc.E14-06-1154; pmid: 25165141   \n22.JHeuserctsoftopsmiciiatioac morphology.J.CellBiol.108,401-41l (1989).doi:10.1083/ jcb.108.2.401; pmid: 2563729   \n23.M.Kaksonen,C.P.Toret,D.G.Drubin,Harnessingactin dynamics for clathrin-mediated endocytosis. Nat.Rev. Mol. Cell Biol. 7,404-414 (2006). doi: 10.1038/nrm1940; pmid: 16723976 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESAND NOIES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "24.D.K. Cureton,R. H. Massol, S. Saffarian,T. L. Kirchhausen, S.P.Whelan,Vesicular stomatitis virus enters cells through vesicles incompletely coated with clathrin that depend upon actin for internalization.PLOS Pathog.5,el000394 (2009). doi: 10.1371/journal.ppat.1000394; pmid: 19390604   \n25.S. Boulant, C. Kural, J. C. Zeeh,F. Ubelmann,T. Kirchhausen, Actin dynamics counteract membrane tension during clathrinmediated endocytosis. Nat. Cell Biol.13,1124-1131 (2011). doi: 10.1038/ncb2307; pmid: 21841790   \n26. A. I. Shevchuk et al., An alternative mechanism of clathrin-coated pit closure revealed by ion conductance microscopy.J. Cell Biol.197, 499-508 (2012).doi: 10.1083/jcb.201109130; pmid: 22564416   \n27. R. Heintzmann,T. M.Jovin, C. Cremer, Saturated patterned excitation microscopy-a concept for optical resolution improvement.J.Opt. Soc.Am.A Opt. Image Sci. Vis.19, 1599-1609 (2002). doi: 10.1364/J0SAA.19.001599; pmid:12152701   \n28. M.G. Gustafsson, Nonlinear structured-illumination microscopy: Wide-field fluorescence imaging with theoretically unlimited resolution. Proc. Natl. Acad. Sci. U.S.A.102, 13081-13086 (2005). doi: 10.1073/pnas.0406877102; pmid: 16141335   \n29.E.H. Rego et al., Nonlinear structured-illumination microscopy with a photoswitchable protein reveals cellular structures at 50-nm resolution. Proc.Natl. Acad. Sci. U.S.A.109,E135-E143 (2012).doi: 10.1073/pnas.1107547108;pmid: 22160683   \n30.X.Zhang et al., Development of a reversibly switchable fluorescent protein for super-resolution optical fluctuation imaging (SOFl).ACS Nano 9,2659-2667 (2015).doi: 10.1021/ nn5064387; pmid: 25695314   \n31.K. Xu, H.P. Babcock, X. Zhuang,Dual-objective STORM reveals three-dimensional filament organization in the actin cytoskeleton. Nat. Methods 9,185-188 (2012).doi:10.1038/ nmeth.184l; pmid: 22231642   \n32.R.G. Parton,K. Simons,The multiple faces of caveolae. Nat. Rev.Mol.Cell Biol.8,185-194 (2007).doi:10.1038/nrm2122 pmid: 17318224   \n33.F. Lavoie-Cardinal et al.,Two-color RESOLFT nanoscopy with green and red fluorescent photochromic proteins. ChemPhysChem 15, 655-663 (2014).doi: 10.1002/ cphc.201301016:pmid: 24449030   \n34.R.G. Parton, M. Hanzal-Bayer,J.F. Hancock, Biogenesis of caveolae: A structural model for caveolin-induced domain formation.J. Cell Sci.119,787-796 (2006). doi:10.1242/ jcs.02853: pmid: 16495479   \n35.E. Boucrot, M.T. Howes,T. Kirchhausen,R.G. Parton, Redistribution of caveolae during mitosis.J.Cell Sci. 124, 1965-1972 (201l). doi: 10.1242/jcs.076570; pmid: 21625007   \n36. M.Jovic,M.Sharma,J. Rahajeng,S.Caplan,The early endosome: A busy sorting station for proteins at the crossroads. Histol. Histopathol.25, 99-112 (2010).pmid: 19924646   \n37.J.Tooze, M. Hollinshead, In AtT2O and HeLa cells brefeldin A induces the fusion of tubular endosomes and changes their distribution and some of their endocytic properties.J. Cell Biol. 118, 813-830 (1992). doi: 10.1083/jcb.118.4.813; pmid: 1500425   \n38.E.Nielsen,F. Severin, J.M. Backer, A.A. Hyman, M. Zerial, Rab5 regulates motility of early endosomes on microtubules. Nat.Cell Biol.1,376-382 (1999).doi:10.1038/14075; pmid: 10559966   \n39. C.A. Otey, O. Carpen,Alpha-actinin revisited: A fresh look at an old player. Cel Motil. Cytoskeleton 58,104-1l1 (2004). doi: 10.1002/cm.20007: pmid:15083532   \n40.C.K. Choi et al.,Actin and alpha-actinin orchestrate the assembly and maturation of nascent adhesions in a myosin Il motor-independent manner. Nat. Cel Biol. 10.1039-1050 (2008).doi: 10.1038/ncb1763; pmid:19160484   \n41.M. Mavrakis et al., Septins promote F-actin ring formation by crosslinking actin filaments into curved bundles. Nat. Cell Biol. 16,322-334 (2014).doi: 10.1038/ncb292l; pmid: 24633326   \n42.B.C. Chen et al.,Latice light-sheet microscopy: Imaging molecules to embryos at high spatiotemporal resolution. Science 346,1257998 (2014).doi:10.1126/science.1257998; pmid: 25342811   \n43.A.Legesse-Miller, R. H. Massol, T. Kirchhausen, Constriction and Dnmlp recruitment are distinct processes in mitochondrial fission. Mol. Biol.Cel/14,1953-1963 (2003).doi:10.1091/mbc. E02-10-0657; pmid: 12802067   \n44.J. R.Friedman et al.,ER tubules mark sites of mitochondrial division. Science 334,358-362 (2011). doi: 10.1126/ science.1207385;pmid: 21885730   \n45.B.Huang,S.A. Jones,B. Brandenburg,X. Zhuang, Whole-cell 3D STORM reveals interactions between cellular structures with nanometer-scale resolution. Nat. Methods 5,1047-1052 (2008).doi:10.1038/nmeth.1274;pmid:19029906   \n46.J.F.Presley et al.,ER-to-Golgi transport visualized in living cells. Nature 389,81-85 (1997). doi: 10.1038/38891; pmid: 9288971   \n47.K. Hirschberg et al., Kinetic analysis of secretory protein traffic and characterization of golgi to plasma membrane transport intermediates in living cells.J.Cell Biol.143,1485-1503 (1998).doi: 10.1083/jcb.143.6.1485; pmid: 9852146   \n48.C.J. R. Sheppard, Super-resolution in confocal imaging. Optik (Stuttg.) 80,53 (1988).   \n49.C.B. Muller,J.Enderlein,Image scanning microscopy.Phys. Rev. Lett.104,198101 (2010). doi: 10.1103/ PhysRevLett.104.19810l; pmid: 20867000   \n50.A.G. York et al., Resolution doubling in live,multicelular organisms via multifocal structured ilumination microscopy. Nat. Methods 9.749-754 (2012).doi: 10.1038/nmeth.2025: pmid: 22581372   \n51.R.L. Roberts et al., Endosome fusion in living cells overexpressing GFP-rab5.J. Cell Sci.112,3667-3675 (1999). pmid:10523503   \n52.J.D. Sander, J.K.Joung, CRISPR-Cas systems for editing, regulating and targeting genomes.Nat. Biotechnol. 32, 347-355 (2014). doi: 10.1038/nbt.2842; pmid: 24584096   \n53.M.G.L. Gustafsson et al., Three-dimensional resolution doubling in wide-field fluorescence microscopy by structured illumination. Biophys. J.94,4957-4970 (2008).doi: 10.1529/biophysj.107.120345:pmid:18326650   \n54.K.Jaqaman et al., Robust single-particle tracking in live-cell time-lapse sequences. Nat. Methods 5,695-702 (2008). doi:10.1038/nmeth.1237:pmid:18641657 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank the Shared Resource teams at Janelia for their skill and dedication in specimen handling and preparation and the Instrument Design and Fabrication team for their manufacturing expertise. D.L., L.S., B.-C.C., and E.B.are funded by the Howard Hughes Medical Institute (HHMI). X.Z., M.Z., and P.X.are funded by the National Basic Research Program (973 Program) of China (2013CB9lolO3),the National Natural Science Foundation of China (3137085l),and the Beijing Natural Science Foundation, China (713lOll). M.P.and T.K.were funded in part by NIH grant GM-075252. Skylan-NS is available from P.X.upon execution ofa materials transfer agreement with the Institute of Biophysics. Other fluorescent protein constructs used in this work are from the Michael Davidson Collection and are available,along with sequence information,from Addgene (www.addgene.org/fluorescentproteins/davidson). Researchers can apply to access the microscope as visitors through the Advanced Imaging Center at Janelia (www.janelia.org/open-science/advanced-imaging-center). Technical information for the construction of a copy of the microscope is available to nonprofit entities upon execution of a no-cost Research License with HHMl. Nonlinear SIM with patterned activation,in two or three dimensions,as described here is covered within U.S. provisional patent application 62/O57,220 filed by E.B. and D.L. and assigned to HHMI. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTARYMATERIALS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "www.sciencemag.org/content/349/6251/aab3500/suppl/DC1   \nSupplementary Text   \nFigs. Sl to S55   \nTable Sl and S2   \nReferences (55-68)   \nMovies S1 to S18   \n15 April 2015; accepted 20 July 2015   \n10.1126/science.aab3500 ",
+        "page_idx": 10
+    }
+]

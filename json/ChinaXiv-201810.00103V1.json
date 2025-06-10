@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "具身效应何处寻：解决可重复性危机的分析性途径\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘传军　廖江群1(清华大学心理学系，北京 100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：最近的研究发现某些具身效应不能被重复，这给心理学界带来了空前的可重复性危机。基于对具身认知\"概念化”、“替代\"和\"构成\"主题的分析，通过区分具身效应的生成层次、强弱条件、建构方向和任务特性四个方面，以便在实验中更准确地\"定位\"具身效应。未来研究可以从具身效应层次的分离与综合，强弱条件的界分，调节或中介机制探讨以及实验范式革新等方面加以推进。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：具身认知；可重复性；具身层次；具身强弱；具身方向；在线-离线任务",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：B841",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An analytical approach to understanding and solving the replication ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "crisis of the embodiment effect ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Chuanjun; LIAO Jiangqun (Department of Psychology,Tsinghua University,Beijing 1Ooo84, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Recently， previously established embodiment effects (e.g. power pose effects） have partly failed to replicate,calling into question whether embodiment is in fact a true effect. Based on an analysis of the concepts of“conceptualization”，“alternative” and “construction” of embodiment cognition,this present article proposed a way out of the dilemma by specifying four characteristics of this efect: embodied generating level, strength degree, constructing direction and experimental task. Clarifying these four aspects could be helpful to accurately understand the embodiment effect and address the replication crisis. Future studies could conduct by differentiating and synthesizing the embodied generating levels， distinguishing different conditions for embodied strength,discovering the mediating or moderating role of embodied variables,and creating new specific experimental paradigms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: embodied cognition; replication; generating level; strength degree; constructing direction; online- offline task ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "身体本身在世界中，就像心脏在机体中.....我当然能在思想中俯视寓所，想象寓所，或在纸上画出寓所的平面图，但如果不通过身体的体验，我就不可能理解物体的统一性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梅洛·庞蒂，《知觉现象学》",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具身认知(Embodied Cognition)认为人类的认知加工活动根植于身体与世界的交互过程(Wilson,2002)。具身效应是指身体或环境变量对人类认知加工活动的影响。近年来，具身认知取得了许多引人注目的研究成果(Andy,2008;Bargh,Chen,& Burrows,1996; Carney, Cuddy,& Yap,2010; Zhong,& Liljenquist, 2006)。然而,最近的一些研究都发现，不少具身认知研究并没有得到重复验证，给认知科学界尤其是心理学界带来了前所未有的可重复性危机(陈巍,2014；胡传鹏等,2016)。例如，Bargh等(1996)发现，当启动了老年人的刻板印象后，被试在离开实验室时走路变慢。而这一现象在后来的重复实验中未被发现(Doyen，Klein，Pichon，&Cleeremans,2012)。又如 Schnall,Benton 和 Harvey (2008)发现，当启动了清洁的概念或在经历了厌恶后进行洗手行为，人们会做出更不严厉的道德判断。Johnson,Cheung 和 Donnellan (2014)用原作者提供的材料进行了直接重复，却没有发现类似效应。反而言之，对于不相关的厌恶感是否会放大道德谴责的严重程度？Landy 和Goodwin(2015)使用元分析方法发现了较小的厌恶放大道德遣责的证据 $\\langle d = 0 . 1 1 \\rangle$ ，但在考虑出版偏差的情况下，这种影响就完全消失了 $( d = - 0 . 0 1 )$ 。具身效应时有时无，学术界对此质疑重重。Goldinger,Papesh,Barmhart,Hansen 和 Hout (2016)提出具身理论的基本原则要么具有不可接受的模糊性(例如，知觉受身体影响的理论前提)，要么没有提供任何新的东西(例如，认知进化是为了最大化保存，情感影响认知等)，因此并没有推进认知科学的进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么，具身效应到底是否存在呢？无论从理论上还是事实上，身体参与人的认知活动是毋庸置疑的。理论上，早期从区分意识和无意识的角度分析，具身效应处于无意识当中，在人类日常认知活动当中起着基础和默认装置的作用。正如Nosek，Hawkins 和Frazier (2011)的观点，大多数人的认知都发生在意识知觉或意识控制之外，其中一些内隐加工影响着社会知觉、判断和行动。事实上，在许多领域当中也都发现了具身效应，例如上下、左右、高低、轻重、软硬、强弱、大小、远近、明暗、洁脏、甜苦、香臭、冷暖等物理变量的改变可能与心理变量存在对应关系(彭凯平，喻丰,2012)。但实证研究中出现许多无法重复的现象引起了学术界的不断反思。伍秋萍、冯聪和陈斌斌(2011)指出，在社会认知领域中以具身理论为框架开展实证研究时可能需要注意身体状态、因变量的社会性等条件。Meier,Schnall,Schwarz和 Bargh (2012)则指出大部分具身研究都是描述性，而非解释性的，需要基于现象学为基础的方法找出具身认知效应的边界条件和中介变量，探索与行动相关结果的测量，并解决个体差异的影响。这些研究都尝试对具身效应进行更深入细致的类属划分和机制探讨，为未来的研究提供了参考。但是，对于具身认知的本源问题仍未触及。为了进一步理解和解决具身效应的可重复性危机，有必要追溯具身哲学的渊源，重新理解实验具身效应，从而找到适于自身的前进方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "回到具身哲学理论，研究者提炼出具身认知的三大主题(ShapiroL，2011；陈巍，郭本禹，2014)：(1)概念化(Conceptualization)。身体的生理属性对我们获取生物体的概念给予了限制或约束。人类对世界万物所建构起来的概念会受到来自身体提供给自己的视角的影响。除此之外，影响人类“概念化\"的因素还有族群语言、文化、习俗、环境颜色等，也无形中参与到认知加工。(2)替代(Replacement)。生物体的身体与环境之间的互动代替了作为经典认知核心的表征加工(representational processes)。认知不再依赖基于符号表征的算法加工(algorithmicprocesses)。它最重要的贡献是承认身体在心智加工中的重要作用，理解身体施加在心智上的约束，或者领会认知活动中自发涌现的脑、身体和世界之间的耦合交互作用。(3)构成(Constitution)。身体或世界在认知加工中扮演了要素(constitutive)角色，而不是简单的因果性(causal)角色。如果传统认知科学的\"构成\"论是成立的，那么身体至少应当是“构成\"成分之一，即心智延展出身体。总体来说，身体和环境也是心智活动的组成部分。作为认知加工的要素，具身变量是认知加工活动的有机组成部分，可能以调节变量或中介变量的形式但并不一定以自变量的形式影响认知加工活动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据具身认知的\"概念化\"主题，人类受制于身体而对外界进行“概念化\"的过程，必然会受到宏观的自然和文化环境、中观的躯干和肢体以及微观的感觉通道的影响。因此，在宏观、中观和微观的层次上可能表现出不同的具身效应。但是，目前关于具身效应的可重复性问题并没有将这些层次进行有效区分。因此，这并不能证明具身效应是不可重复的甚至不存在的。根据“替代\"主题，在替代传统符号表征加工的过程中，脑、身体和世界之间的耦合程度决定了具身效应的强弱差异。耦合的程度不同，效应强弱也不同。因此，对具身效应的\"定位”也必须考虑影响脑、身体和世界之间耦合程度的条件。根据\"构成\"主题，身体或世界在“构成\"认知活动对象时，作为认知主体还是认知客体的存在，决定了具身认知的建构方向有所不同。这在具身效应实验当中也应当纳入考量，从而清晰地\"定位\"具身效应的建构方向。此外，实验操作化任务本身存在离线启动与在线操作的差异性。Wilson (2002)提出行为观察属于在线具身认知(online embodiment)，而文字启动属于离线具身认知(offline embodiment)。苏彦捷和孙芳芳(2014)在对道德具身效应进行元分析时对在线性与离线性任务进行区分，发现在线性任务的具身效应大于离线性任务的具身效应(效果大小比为 $0 . 2 3 4 : 0 . 1 4 9$ ，虽不显著,但仍有明显差异)。因此，任务特性也是影响具身效应的重要因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据此分析，具身效应是真实存在的，但在实验研究过程中需要针对具身效应的生成层次、强弱条件、建构方向以及任务特性等四个方面做出更细致的区分，从而准确\"定位\"具身效应，解决具身效应的稳定性和可重复性问题。本文将从这四个方面对具身效应进行分析和解读。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1具身效应的生成层次",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统认知科学主要围绕着核心认知系统——脑——展开研究，而身体和环境均未被正式纳入传统认知科学的视域。具身认知正是在此意义上实现其对传统离身认知的革命。根据ShapiroL对具身认知三大主题的概括，具身认知加工具有层次上的差异性(ShapiroL,2011)。无论作为载体还是主体，身体毫无疑问参与到人类认知世界及其自身的过程。正如\"概念化”主题所述，身体参与认知过程至少可以分成三个层次，如图1所示：外部环境参与核心认知，包括自然环境和社会文化环境的交互，构成了具身认知的宏观层次；身体躯干及肢体参与核心认知，包括身体姿态、运动交互以及表情系统等，构成了具身认知的中观层次；身体内部感觉通道参与核心认知，包括五感及本体感觉等，构成了具身认知的微观层次。认知、身体、环境融为一体，即认知存在于大脑，大脑存在于身体，身体存在于环境(叶浩生,2010,2013)。在这三大层次当中，具身效应的稳定性可能随层次由宏观到微观而降低。究其原因在于，在具身认知活动发生发展过程中，宏观的自然和文化环境变化速度最慢，具有季节和地域的稳定性；中观的躯干及肢体变化速度中等，具有与当前交互对象的即时反应性；微观的感觉通道变化速度最快，具有基于神经电传导和化学传导的瞬时反应性。因此，宏观层次的变化速度最慢而保有最稳定的效应；中观层次的变化速度快于环境而导致效应稳定性稍弱；微观层次的变化速度最快而导致效应稳定性最差。因此，有必要对当前所发现的具身效应所处层次进行有效区分，以便理解为什么当前许多具身效应无法得到重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1自然和文化环境参与核心认知",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这是具身认知的宏观层次。在时间上，自然环境的季节性和物候特征等可能会塑造人类的认知活动。在空间上，环境空间的大小、视野宽窄等，垂直和水平空间特征及遮挡关系等，这种外部空间环境也可能影响人的核心认知活动。人文环境中被试的群体认同、所在地域的文化价值观念、传统习俗等均可能影响着认知加工。已有研究中，如敬畏感与外部空间环境的关系(Bai et al.,2017)，又如区域温度与地缘人格之间的相关性(Wei etal.,2017)，都是环境影响核心认知的重要证据。综合身体与环境交互的时空特性，可分为身体与小环境的互动，如家庭环境对人的认知塑造；身体与大环境的互动，如自然环境与文化背景影响认知加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在身体与小环境的互动方面，最有代表性的研究为沉浸式环境的研究，比如以核心厌恶启动道德厌恶的方法，让被试在恶臭的垃圾桶旁边填问卷从而使道德判断更为严厉(Schnall,Haidt,Clore，& Jordan，2008)，在清新的实验室空气环境当中个体表现出更多互惠与信任(Liljenquist,Zhong,&Galinsky,2010)等。这些实验都是使身体沉浸于某个自然或实验室小环境当中进行。在身体与大环境的交互方面，代表性研究有具身厌恶与政治态度(Inbar,Pizarro,& Bloom，2009)、宗教纯洁性(Ritter& Preston，2011)和其他非文化倡导性的现象如同性恋(Inbar,Pizarro,Knobe,&Bloom,2009)等违背主流人文价值的人际关系(Rozin,Lowery,Imada,& Haidt,1999)之间的相关性。其他研究则涉及到了地貌(Bai et al.,2017)、气温(Wei etal.,2017)等自然环境因素与身体交互关系对人的主观认知的塑造。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类一切认知活动都沉浸于一定的自然和文化环境，也因此受到自然和文化环境的稳定持久的塑造。在三大层次中，宏观环境的变化速度最慢，这种沉浸性特点和最缓慢持续的影响作用使这一层次认知活动的具身效应最为稳定。当重复实验的被试与原实验的被试在自然和文化环境具有同质性的抽样背景前提下，这一层次的具身效应应具有最高的可重复性。相反，如果被试具有不同的自然和文化环境背景，则具身效应可能存在很大的差异性。比如，苏彦捷和孙芳芳(2014)对道德这一与文化背景高度相关的领域中的具身效应进行元分析发现，被试来源国家对道德具身效应具有非常显著的调节作用 $( Q = 7 9 . 4 5 4$ ， $d f = 4 1$ ， $p < 0 . 0 0 1$ ，详见(苏彦捷，孙芳芳,2014))。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eac99073db5fa211167f0fcbdae6f24f55a75856551a667578cbffe26570b9d2.jpg",
+        "img_caption": [
+            "图1具身效应的生成层次"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2躯干及肢体参与核心认知",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这是具身的中观层次。在这个层次当中，又可分为躯干和肢体两个部分，它们通过与外部环境的直接交互而影响着核心认知加工活动。躯干是指整个躯干的感觉运动状态，如坐、站、行等姿势，身体伸张或收缩等状态。肢体是指躯干的各个部分，主要是作为身体与外界直接交互的手和脚。当手或脚处于残缺、被占用以及动作状态时(如，前伸或回缩等)，认知活动和心理过程均可能受到影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "身体姿势整体的变化引起认知活动规律不同，属于躯干整体参与认知加工的具身现象。比如，Carmey 等(2010)的实验通过身体姿势提升个体内力量感和适应性1；Fischer,Fischer,Englich，Aydin 和Frey (2011)发现高权力姿势使人们对自己决策的有效性更有信心，从而系统性倾向于与他们的决策偏好一致的信息;Rotella和Richeson (2013)则发现不同的身体姿势直接影响到个体对行为过错的歉疚感和赔偿意愿。黎晓丹，杜建政和叶浩生(2016)则发现中国礼文化背景下蜷缩身体姿势与社会地位存在双向隐喻效应。这些研究都涉及躯干整体与外部世界进行交互时，躯干整体的不同状态对人类以及外部世界进行认知加工的影响。而在部分躯干或肢体参与认知加工活动的研究中，当前最广泛和热门的是身体清洁行为，比如Zhong和Liljenquist (2006)发现的\"麦克白效应”，即罪恶或不道德感促使人们产生清洗自身的想法或行为。Lee 和 Schwarz (2011)发现罪恶感中的个体有手部清洁行为偏好，Schnall,Benton 等人(2008)发现进行了身体清洁之后，道德判断的标准会降低等。在宗教研究(Preston&Ritter,2012;Yan,Ding,& Yan,2011；阎书昌,2011)、政治态度研究(Helzer&Pizarro,2011),甚至是对运气好坏判断的影响(Xu,Zwick,& Schwarz,2012)和日常数钱等经济活动(Yang etal，2013)中，也有类似发现。这些发现主要证明肢体清洁性特别是手部清洁性，与道德纯洁性等高级认知概念和道德厌恶等高级情绪之间存在着隐喻关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "躯干及肢体活动常常伴随认知活动发生，不同的躯干及肢体活动伴随着不同的认知活动。因此，某些躯干及肢体状态与某些认知活动可能存在一定的功能链接，从而表现出一定具身效应。这一层次认知活动的具身效应具有伴随性和变化性，具身表现随认知活动的变化而变化。相较于自然和文化环境，这种伴随变化特点更明显，变化速度更快，使得这一层次具身效应稳定性差于自然和文化环境的具身效应，可重复性也随之降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 感觉通道参与核心认知",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这是具身的微观层次。微观层面主要强调身体内部的感觉通道，基于神经传导参与核心认知加工过程。除了基本感知觉，如视觉、触觉、味觉、嗅觉、听觉之外，还有本体感觉等都可能会影响高级认知加工活动。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在视觉上，道德/不道德与白色/黑色(Sherman&Clore,2009)、色块的明亮/黑暗(牛怡然，鲁忠义,2013)、交互对象脸孔的明/暗特性(Song,Vonasch,Meier,& Bargh,2012)、外部环境中光线的明/暗程度(Banerjee,Chatterjee,& Sinha,2012)之间存在隐喻相关。在触觉上，生理温度与社会温度、“道德温度\"之间存在一定相关性(Williams& Bargh，2008；Kang，Williams,Clark,Gray,&Bargh,2011；黄茜羽,李宏翰,2013；栾子烟,2013)，轻重、粗糙/光滑、硬软等触觉物理属性也对不相关的人和事的判断具有影响作用(Ackerman,Nocera,&Bargh,2010)。在味觉上，吃甜食后表现出更多的亲社会性(Meier,Moeller,Riemer-Peltz,&Robinson,2012),而相反，味觉上的厌恶与对不道德现象的厌恶有相似的面部肌肉反射(Chapman，Kim,Susskind,& Anderson,2009)，甚至味觉感知也会影响到个体的政治态度(Eskine,Kacinik，&Prinz,2011)。在嗅觉上，清新的气味可以诱发互惠和慈善(Liljenquistet al.,2010)，难闻的气味则可以引发不被尊重等不公平感受(Skarlicki,Hoegg，Aquino,& Nadisic,2013)，以及被排斥感(Homanetal.，2017)等；还有研究发现鱼腥味与社会怀疑之间存在双向隐喻关系(Lee&Schwarz,2012)。在听觉上，背景音乐会减少人们对信息上的回顾，积极音乐导致对不道德信息的注意减少，对产品的接受度增加(Ziv,Hoftman & Geyer,2012)。Seidel 和 Prinz (2013)发现音乐通过情绪对道德判断产生显著的影响。背景音乐还会通过执行注意(executive attention)来影响消费者在价格折扣计算方面的认知表现(Kang&Lakshmanan,2017)。在本体感觉上,学界主要对主观体重、重量感的具身性进行了考察。比如Day 和Bobocel(2013)发现不道德行为组相比于控制组会增加被试对体重的主观判断。何华容和丁道群(2014)探讨了重量与内疚之间的互相映射关系。韩冬和叶浩生(2014)综合前人研究认为重要性的隐喻建立在重量的身体体验之上。而近期研究发现抽象的道德概念词和重量具有隐喻关联性(刘钊，丁凤琴，2016)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感觉通道参与认知加工，因其处于身体内部，测量本身就存在一定困难。在三大层次中，这一层次认知活动的具身效应以神经传导为基础，具有快速变化和适应性特点，导致感觉通道参与认知加工的具身效应最难捕捉，变化速度最快，从而其稳定性和可重复性也最差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据具身认知的理论背景和生态学分析，具身效应的生成层次具有由宏观到微观的差异性。但是，在人类认知活动以及研究者的实验研究中，这三大层次是综合作用于人类认知活动的，并非只有某一层次参与了认知加工活动。对具身效应生成层次的划分，主要意义在于清楚地定位具身效应生成的关键层次，从而在具身效应的实验研究以及重复实验中，更加全面和准确地进行新的具身效应发现和准确控制的重复验证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2具身效应的强弱条件 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由具身认知的\"替代\"主题可知，具身效应本身具有强弱差异性。具身认知的视域中，核心认知系统(脑)、身体、环境都是认知活动不可或缺的元素，这三者之间的耦合交互作用越强，具身效应也越强。从核心认知、身体和环境三个角度均可能影响三者的耦合交互作用强度。在核心认知活动中，主导加工系统的不同、身体在认知活动中的唤醒程度不同、认知活动与环境因素的一致性程度不同，均可能导致三者的耦合交互作用强度不同，从而使具身效应具有强弱差异。而从时间角度，具身效应也可能随短期内的时间流逝而有强弱区分，也会在长期进化过程中保留或发展出某种顺应进化趋势的具身效应。因此，主导加工系统、具身唤醒程度、认知活动与环境因素的一致程度以及时间，它们是影响具身效应强弱的四个基本条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一是认知任务中主导加工系统的差异性。根据目前主流的二元加工系统的划分，在处理认知任务时，个体的直觉加工系统和理性加工系统具有不同的作用过程。直觉系统反应快，与情绪直接相关，更多无意识成分，而认知系统相对反应慢，与认知权衡相关，更多有意控制成分。这种二元划分，早期与Dijksterhuis 和 Nordgren (2006)提出的关于人类思想的\"无意识思想理论”(Unconscious Thought Theory)类似，区分了两种思维模式：无意识和有意识，也与近期的直觉加工和理性加工的划分具有相似之处。在道德认知领域,Greene 等在综合前人的理性道德和社会直觉模型的基础上，对提出的道德双加工理论也作了类似划分(Greene,2007; Greene,Morelli,Lowenberg,Nystrom,& Cohen,2008)。Ferrin (2017)在对心理学和认知科学的总结中指出，大脑中有两个“系统”：一个系统(系统1)被描述为快速、直观、敏锐、可能更原始，而另一个系统(系统2)则被描述为更慢、更深思熟虑，并对高阶认知负责。显然在讨论具身效应是否存在的时候，应当将这两个认知系统进行有效分离来加以考察。Schnallet al.,(2008）关于具身厌恶影响道德判断的发现支持了道德判断被直觉加工驱动的理论，而不是通过认知推理。这在某种程度上证明具身效应可能更多存在于直觉系统。最近Zestcott,Stone 和Landau (2017)对重量-重要性具身效应中有意注意的影响进行了探讨，初步发现有意注意的认知加工会消除掉具身效应，也证明具身效应可能存在于直觉系统。但在其他具身效应的研究中，尚且需要进一步检验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "二是认知任务中具身变量的唤醒程度差异性。具身变量的唤醒程度是指具身变量参与认知和行为任务的程度。比如单纯的视觉搜索任务基本上只依靠视觉通道完成，不需要其他感觉通道参与，具身唤醒程度较低。而以厌恶这种情绪反应为例，厌恶本身具有身体弥散性影响，会唤醒身体整体性的防御机制，导致整个身体和各个感觉通道驱动身体逃避厌恶源，具身唤醒程度较高。除了厌恶之外，疼痛也有类似作用，比如Eisenberger,Lieberman和Williams(2003)发现被社会排斥时所产生的痛苦与生理疼痛感具有类似的脑神经机制。这种社会疼痛的具身性具有非常高的具身唤醒程度。因此，具身唤醒程度可能随认知任务的差异而有所不同，从而使具身效应并不具有跨任务的效应一致性，在不同认知任务之间进行具身效应的比较和元分析计算也应该相应进行区分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三是认知活动与环境因素的一致性程度差异性。环境因素可以分为自然环境因素和社会文化环境因素。当假设的具身效应与环境因素高度一致时，该环境所预测的具身效应发生的可能性更高，反之则更低甚至消失。比如在中国的等级文化差序格局的社会结构当中，传统仪式上存在对高权力等级个体叩拜的文化传统，因此个体对社会权力的服从会导致更多的身体蜷缩度(黎晓丹等,2016)，但是这种现象在平等自由的文化背景环境中则未必存在。而在以往的研究当中，对具身效应的文化背景环境一致性的考查相对较少。阎书昌(2011)提出对身体洁净与道德关联性的跨文化一致性仍是有待深入探讨的问题，杨继平和郭秀梅(2016)也认为跨文化验证具身效应的稳定性和一致性很有必要。而当前的重复研究之所以不能重复出原研究的具身效应或效应量低于原研究，这与被试群体所属自然和人文环境的差异性不无关系。苏彦捷和孙芳芳2014年对道德具身效应的元分析也发现了被试来源国家的显著调节作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四是具身效应随时间变化。目前所发现的大多数具身效应都是使用启动范式而发现的，启动效应常常在短期内随着时间的流逝而减弱。比如 Zhang 和Li (2012)发现拿一个重包(相对于轻包)会使被试将事情判断为更为重要，但这种关系受到重量相关概念的通达性的中介作用。随着时间的流逝，这种通达性逐步下降，从而导致具身效应逐步降低。这可能是一种与动机无关的具身加工，而前人研究也发现在动机相关的加工活动中，目标动机感会随短期内的时间流逝而增强直到目标达成(Chartrand,Huber，Shiv，& Tanner，2008)，从而使具身效应表现为一种随时间增强的现象(Mukherjee，Kramer，&Kulow，2017)。在长期的时间进程? 进化相关性方面，具身效应与有利于进化的三个方面：避免伤害、趋近有利条件和信号作用的相关程度(薛灿灿和叶浩生,2011)，也可能是影响具身效应的重要因素。具身研究中重复实验与原实验存在时间差，因社会文化变迁，隐喻内容变化等因素也会导致具身效应量变化甚至不可重复。因此，有必要将具身效应增强或减弱的时间特性纳入具身效应研究设计的考虑范围。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于核心认知(脑)、身体和环境的耦合交互作用的差异，具身效应强弱也会存在差异。前三个方面从空间横断视角进行剖析，强具身效应可能主要由直觉系统主导，具有高身体唤醒程度，与环境因素高度一致的特征；而相对而言，弱具身效应由理性系统主导，具有低身体唤醒程度，与环境因素低一致甚至不一致的特征。而第四个方面从时间纵向视角，目前较少得到研究，尚且没有达成共识。某些研究发现极低的具身效应甚至完全无效应的情况，很有可能由于前三个方面的操控不严以及第四个方面未纳入应有的考虑导致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3具身效应的建构方向",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据具身认知的\"概念化\"和\"构成\"主题，具身可能作为认知的主体或者客体而存在于人类建构自身和世界的过程中。具身实质上表现为一种调节作用，调节着抽象概念与具体概念之间的关系，以及意图与行为之间的关系。而关于具身效应的建构方向问题，苏彦捷和孙芳芳(2014)主要讨论了抽象概念与具体概念之间的单向或双向隐喻关系。实际上，具身效应的建构方向区分并不仅仅存在于概念的具体与抽象之间，而是从认知、情绪、行为三个方面均存在具身效应的建构方向区分：在认知上的区分主要表现为抽象概念与具体概念之间的隐喻建构关系(Gilead,Gal,Polak,& Cholow,2015;IJzerman & Koole,201l;Landau,Meier,&Keefer,2010；Schaefer,Denke,Heinze,&Rotte，2014；杨继平，郭秀梅,王兴超，2017；殷融,苏得权，叶浩生，2013)；在情绪上，主要讨论具身情绪变量和高级情绪变量之间的单向或双向建构关系(Montoro,Jose Contreras,Rosa Elosua,& Marmolejo-Ramos,2O15; Niedenthal, 2007;Oosterwijk,Roteveel, Fischer,& Hess,2009; Price & Harmon- Jones,2015; Sheikh,Botindari,&White,2013;Wiswede,Muente,Kraemer,&Ruesseler,2009)；在行为上，主要讨论具身行为变量和内在心理变量之间的单向或双向建构关系(Schaefer,Rotte，Heinze，& Denke，2015;Valdesolo,Ouyang,&DeSteno,2010；黎晓丹等,2016；阎书昌,2011；翟贤亮，葛鲁嘉,2017)。这些现象和心理机制可以由概念隐喻理论、知觉符号理论、情绪具身理论和模拟感觉运动隐喻理论加以解读(详见方激，葛列众，甘甜，2016)。从具身变量的角度，作为参与认知加工的重要因素，具身变量与认知变量、具身变量与情绪变量、具身变量与行为变量三者均可能存在单向或双向建构性。在以往的研究当中，仍然存在部分研究没有对具身效应的方向性加以区分，这可能也是某些效应无法重复的重要因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在认知层面，具身效应研究已经非常丰富，主要表现在对概念隐喻的研究方面(Gilead etal., 2015; IJzerman & Koole,2O11; Landau et al.,2O1O; Schaefer,Denke,Heinze,& Rote, 2014;杨继平等,2017)。殷融等对概念隐喻的相关研究进行了梳理(殷融，曲方炳，叶浩生,2012；殷融等,2013)，发现这些研究主要涉及空间隐喻、温度隐喻、洁净隐喻、触觉隐喻等，基于此指出未来的研究应探索塑造隐喻映射单向作用与相互作用的因素等问题。最近杨继平等(2017)从红白颜色、左右位置和正斜字体三个维度考察道德概念的隐喻表征，发现左右位置、正斜字体与道德概念存在一定的隐喻联结。这些对具身认知的隐喻方向性提供了参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "情绪层面，目前的研究多数集中于探讨具身情绪变量对高级情绪变量的影响作用，比如道德厌恶的研究中多以核心厌恶唤起具身厌恶感，然后观测到这种厌恶感对后续的社会判断的影响(Giner-Sorolla & Chapman,2017；Horberg,Oveis,Keltner,& Cohen,2009； Schnall,2017；Schnall,Haidt,et al.,2008)，反向关系的讨论相对较少，以Eskine,Kacinik,&Webster(2012)的研究为代表，他们发现，阅读损人行为、道德性或者中性事件会相应地启动被试对味觉的厌恶，喜欢或者中性的品尝经验;Banerjee 等人(2012)发现，不道德行为启动组相比于道德行为启动组会判断所处环境更暗，而且在选择实验礼物时更偏好与光源相关的物品;Skarlickietal.(2013)则发现厌恶情绪反过来影响个体的嗅觉反应。情绪具身性有着广泛的理论假说与研究证据(刘亚，王振宏，孔风,2011)，但在具身方向性探讨上还需要继续推进。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在行为层面，具身行为变量与内在心理变量间的建构方向性可以区分为执行性具身和塑造性具身。执行性具身是指具身行为变量是对某种内在心理变量的执行性表现，如黎晓丹等(2016)在研究中发现，相比于被试给同地位的同学打电话，被试给校长等社会地位高于被试的人打电话时身体蜷缩度更高，这就是具身变量(身体蜷缩度)对内在心理变量(社会权力地位服从)的执行性表现。塑造性具身是指具身行为变量塑造或引起内在心理变量的变化，如Valdesolo等(2010)发现同步摇摆增强了个体对其他个体的动作的感知敏感性，从而提高了他们在随后的联合行动任务中的成功率，这需要动态地发现并对合作伙伴的动作做出适当的反应，这便是具身行为变量(同步摇摆)对内在心理变量(他人动作感知力)的塑造性作用。Schaefer 等(2015)对塑造性具身的通道特异性研究发现，在语音邮箱中说谎之后被试对漱口产品的需要增强，而写了一个谎言之后被试对洗手产品的需要增加，但对于执行性具身是否有类似的效应目前尚不清楚。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在具身效应的重复研究当中，一方面，必须注意到原研究中的具身效应的建构方向，在实验操作中对方向进行有效控制，特别是对认知、情绪和行为的不同层面的建构方向必须进行严格控制，否则，笼统地对具身效应进行元分析或者缺乏严格控制的重复实验，并不能证明具身效应不可重复甚至不存在。另一方面，就整个具身效应的研究而言，具身变量作为认知活动的构成\"要素\"而并非简单的\"因素\"作用，其更重要意义在于具身变量对传统心理变量间关系的调节或中介作用。在不同建构方向上可能存在着认知、情绪和行为变量的共生变量未被纳入考察。而具身变量正是在对这些变量间关系的调节或中介中起作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4具身效应的任务特性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以具身变量为自变量设计的实验，最常见的实验范式有启动范式、STROOP范式、IAT范式、情境操纵范式等(陈潇，江琦，侯敏，朱梦音,2014)。这些实验范式的任务通常有两种类型：离线性任务与在线性任务。离线性具身任务常常是相继性的，以启动范式为代表，常常以启动某种心理变量，然后来观察其是否影响具身表现，比如Bargh的“老年人实验\"和\"热咖啡\"实验(Bargh et al.,1996;Williams & Bargh,2008)。与这种离线性任务相似的实验，其效应可能受到启动本身的效力，以及时间衰减等问题的影响。另一方面，离线性具身所影响的具身变量通常与实验任务没有直接关系，是一种无意识影响的探讨，这也为实验无法重复埋下隐患。在线性具身任务常常是伴随性的，以现场情境操纵范式为代表，具身与被试所操作的实验任务之间融合在一起，具身变量伴随着实验任务过程。在线性具身当中，具身变量与所探讨的变量之间通常存在一定关系。比如 Rozin，Haidt 和 Fincher (2009)在点评同期Chapman 团队的工作(Chapmanetal.，2009)时，指出苦味直接触发的抵触和厌恶感引起不公平感等社会情绪，这便是在线性具身的典型代表。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在社会认知神经科学领域中，第二人称(second-person)方法所体现的在线性实时交互特征(Schilbach etal.,2013)是在线性具身的典型代表。Moore 和 Barresi (2017)指出社会理解发展中包括了5种第二人称的信息的综合作用：自主(self-directedness)，耦合(contingency)，互惠(reciprocity)，情感卷入(affective engagement)以及意图共享(shared intentions)。这种第二人称范式方法比第三人称的旁观推测具有更强的实时社会交互特性，被试在实验任务中更能寓于其中，也更可能表现出具身效应。最近一项使用第二人称方法对高功能自闭症成人社交耦合敏感性的研究，也发现这种方法具有很好的具身交互特性，有助于社交功能的恢复(Zapatafonseca, Froese, Schilbach, Vogeley,& Timmermans,2018)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在具身效应的研究中，在线性任务相比离线性任务具有更重要的具身意义。在线性任务的具身效应大于离线性任务的具身效应(苏彦捷，孙芳芳,2014)。从具身认知对传统认知科学离身性革命的角度，具身认知真正将人类的认知活动还原到其所发生的环境和载体(身体)之中，使认知活动具有了生态性。而这种生态性正在于具身变量与核心认知活动的同步在线性。离线性任务实际上是通过核心认知想象再现的方式使具身变量参与了当下核心认知加工,这种再现性本身就可能使具身效应衰减甚至消失。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与具身效应任务的离线和在线性区分相关，具身变量在实验任务中的变量属性也很重要。理论上，具身变量可以以自变量、中介变量、调节变量和因变量四种形式出现在实验研究当中。而从具身认知的理论渊源来看，身体承载并影响认知加工，具身变量最重要的角色应当是调节变量，对人类的内部认知活动与外部实践活动的关系进行调节。而出于实验逻辑，为了证明具身变量的直接作用，研究者常常将其作为自变量来观察其对因变量的影响。这样操作化在实验逻辑上并无不妥，但是与具身的构成假设有出入。身体或世界在认知加工中扮演了要素(constitutive)角色，而不是简单的因果性(causal)角色。因此，具身实验操作化任务特别是在在线性实验任务中应更多将具身变量操作化为伴随性的调节变量，这也是影响具身效应的重要因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对实验任务的离线性和在线性区分，以及具身变量的属性区分，对于厘清具身效应及其可重复性有非常重要的意义。因为在人类日常认知活动当中，具身影响的重要意义正在于具身变量与认知变量的同步在线性，从而对人类的认知活动产生影响。对于离线性任务，研究者实际上利用的是想象再现从而实现基于想象的具身-认知同步性。而这种想象再现本身就可能导致具身变量的影响力下降，进一步导致数据统计上的不显著。具身变量作为调节变量出现在实验研究设计当中，更是需要进一步研究验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 研究展望",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "具身效应之所以难以重复，时有时无，与学界没有回到具身哲学源头上将具身效应细化区分有一定关系。根据具身认知的\"概念化”、“替代\"和\"构成\"主题以及近年来具身效应研究，具身效应应当从生成层次，强弱条件，建构方向和任务特性四个方面进行细分，从而促进对具身变量在人类认知加工活动中的角色和作用的研究。基于以上区分，未来的研究可以从以下四个方面推进：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，具身效应层次的分离与综合。在实际生活当中，具身的环境、身体及其感官的三个层次常常相互依赖，共生共存，三者并不能严格地区分开来。但是，为了厘清这三个层次上的具身效应差异性，有必要在严格控制的实验室实验当中关注这三大层次的分离与综合，从而更加深入细致地找到具身效应所处的关键层次以及个体差异等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，具身效应强弱条件的界分。在目前已经发现的具身效应当中，主导加工系统未做区分，身体唤醒程度各有不同，与背景环境的一致性程度也存在差异。这些都是从横断分析上可能导致效应强弱差异的原因，需要在未来的实验研究中进一步界分。而在时间纵向维度上已有研究发现，具身效应在时间上具有随时间的动机加工导致的效应增强特征，也有随时间的非动机加工引起的效应衰减特征(Mukherjee et al.,2017;Natanzon&Ferguson,2012)，这也需要进一步厘清具身效应在时间上的强弱规律。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第三，具身效应的调节或中介机制的探索。具身效应在认知、情绪和行为方面具有主体与客体、内部建构与外部执行的方向性差异。具身变量常常在传统离身认知变量与外在行为变量之间扮演着调节或中介角色，正如 Schnall (2017)在综述身体厌恶与道德判断的研究时提出，实验启动的厌恶和清洁影响了道德判断，但需要考虑调节变量和归因过程。因此，未来研究有必要对具身效应的调节或中介机制进行探索，以明确具身变量的\"构成\"角色作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第四，具身实验范式的革新。当前的具身认知实验范式多延用或化用传统基础认知(特别是感知觉)和社会认知(特别是情境认知)的研究范式。这些范式的实验任务多为离线性具身任务，在线性具身任务较少。社会认知神经科学中所使用的第二人称技术，可以作为具身研究的参考方法，实验本身应当基于使被试寓于其中的实时交互来进行设计。目前，尚且没有基于在线性实验任务的具身实验特异性范式。因此，在未来的实验研究当中，应该进一步拓展具身实验范式，特别是整合移动互联网络技术、虚拟现实技术、人工智能穿戴式设备以及3D 运动捕捉技术等新技术和方法，找到适用于具身认知的独特实验范式。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢彭凯平教授、胡传鹏博士、张力同学对本文早期版本的批判性阅读和建设性意见！感谢外审专家的审稿意见以及编辑部老师对本文的辛苦付出！",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "陈巍.(2014)．可重复性：盘旋在具身认知实验室上方的\"幽灵”心理技术与应用,(1),23-25.陈巍，郭本禹.(2014).具身-生成的认知科学:走出\"战国时代”．心理学探新,34(2),111-116.陈潇，江琦，侯敏，朱梦音.(2014)．具身道德:道德心理学研究的新取向．心理发展与教育，30(6),",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "664-672. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "方激，葛列众，甘甜.(2016).道德具身认知的理论研究．心理与行为研究,14(6),765-772.韩冬，叶浩生.(2014).重中之\"重\"——具身视角下重的体验与表征．心理科学进展,22(6),918-925.何华容，丁道群.(2014).良心的重量：基于具身视角的内疚情绪与重量感关系的实验研究．第十七届",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "全国心理学学术会议，中国北京.黄茜羽，李宏翰.(2013)．冷暖体验对道德判断的影响．心理学与创新能力提升——第十六届全国心理学学术会议，中国南京.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "胡传鹏，王非，过继成思，宋梦迪，隋洁，彭凯平.(2016).心理学研究中的可重复性问题:从危机到契机．心理科学进展,24(9),1504-1518.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "黎晓丹，杜建政，叶浩生．(2016)．中国礼文化的具身隐喻效应:蜷缩的身体使人更卑微．心理学报，48(6),746-756.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "刘亚，王振宏，孔风.(2011)．情绪具身观:情绪研究的新视角．心理科学进展,19(1),50-59.刘钊，丁凤琴.(2016)．大学生道德概念的重量与洁净隐喻．中国健康心理学杂志,24(4),533-536.栾子烟.(2013)．道德温度：身体冷暖与青少年道德决策(硕士学位论文).上海：华东师范大学.牛怡然，鲁忠义.(2013)．道德概念的亮度隐喻表征及其对亮度知觉判断的影响．心理学与创新能",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "提升—第十六届全国心理学学术会议，中国南京.彭凯平，喻丰.(2012)．道德的心理物理学:现象、机制与意义．中国社会科学,(12),28-45.苏彦捷，孙芳芳.(2014)．道德具身性的元分析研究．华东师范大学学报(教育科学版),32(2),88-96.伍秋萍，冯聪，陈斌斌.(2011).具身框架下的社会认知研究述评．心理科学进展,19(3),336-345.薛灿灿，叶浩生.(2011).具身社会认知:认知心理学的生态学转向．心理科学,34(5),1230-1235.阎书昌.(2011)．身体洁净与道德．心理科学进展,19(8),1242-1248.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "杨继平，郭秀梅.(2016).具身视角下道德概念的隐喻研究．心理学探新,36(5),387-391.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "心理学报,49(7),875-885叶浩生.(2010)．具身认知:认知心理学的新取向．心理科学进展,18(5),705-710.叶浩生.(2013)．认知与身体:理论心理学的视角．心理学报,45(4),481-488.殷融，曲方炳，叶浩生.(2012).具身概念表征的研究及理论述评．心理科学进展,20(9),1372-1381.殷融，苏得权，叶浩生.(2013)．具身认知视角下的概念隐喻理论．心理科学进展,21(2),220-234.翟贤亮，葛鲁嘉.(2017)．从离身到具身：具身管理学的可能．心理科学,40(1),238-243.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ackerman,J.M.,Nocera,C.C.,& Bargh,J.A. (2O1O).Incidental haptic sensations influence social judgments and decisions. Science,328(5986),1712-1715.   \nAndy, C.(20o8). Supersizing the mind: Embodiment, action, and cognitive extension.New York: Oxford University Press.   \nBai, Y.,Maruskin,L.A., Chen,S., Gordon,A. M., Stellar,J.E.,McNeil, G.D.,. Keltner,D. (2017). Awe, the diminished self,and collective engagement: Universals and cultural variations in the small self. Journal of Personality and Social Psychology, 113(2),185-209.   \nBanerjee,P., Chatterjee,P.，& Sinha,J.(2O12).Is it light or dark? Recalling moral behavior changes perception of brightness.Psychological Science,23(4),407-409.   \nBargh,J.A.， Chen, M.,& Burrows,L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype-activation on action. Journal of Personality and Social Psychology， 71(2), 230-244.   \nCarney，D.R.， Cuddy，A. J.，& Yap，A. J. (2010). Power posing: brief nonverbal displays affect neuroendocrine levels and risk tolerance. Psychological Science, 21(10),1363-1368.   \nChapman, H.A., Kim,D.A.,Susskind,J.M.,& Anderson,A.K. (20o9).In bad taste: evidence for the oral origins of moral disgust. Science, 323(5918),1222-1226.   \nChartrand,T.L.，Huber,J.，Shiv,B.,& Tanner,R.J.(2O08). Nonconscious goals and consumer choice. Journal of Consumer Research, 35(2),189-201.   \nDay,M.V.,& Bobocel,D.R.(2Ol3).The weight of a guilty conscience: subjective body weight as an embodiment of guilt. PLoS One, 8(7), e69546.   \nDijksterhuis，Ap，& Nordgren，Loran F.(2Oo6).A theory of unconscious thought.Perspectives on psychological science: a journal of the Association for Psychological Science, 1(2),95-109.   \nDoyen,S., Klein, O.,Pichon, C.L.,& Cleeremans,A. (2012).Behavioral priming: It's all in the mind, but whose mind? Plos One,7(1),e29081.   \nEisenberger, N.I., Lieberman, M.D.,& Williams, K.D.(2003). Does rejection hurt? An fMRI study of social exclusion.Science,302(5643), 290-292.   \nEskine,K.J., Kacinik,N.A.,& Prinz,J.J.(2011).Abad taste in the mouth: gustatory disgust influences moral judgment.Psychological Science,22(3),295-299.   \nEskine,K.J., Kacinik, N.A.,& Webster, G. D. (2012). The bitter truth about morality: virtue, not vice, makes a bland beverage taste nice.PLoS One,7(7),e41159.   \nFerrin,A. (2017). Good moral judgment and decision-making without deliberation. Southern Journal of Philosophy, 55(1), 68-95.   \nFischer,J.,Fischer,P.,Englich,B.,Aydin,N.,& Frey,D.(2011).Empower my decisions: The effectsof power gestures on confirmatory information processing. Journal of Experimental Social Psychology, 47(6), 1146-1154.   \nGarrison,K. E., Tang,D.，& Schmeichel, B.J. (2016). Embodying power: A preregistered replication and extension of the power pose effect. Social Psychological and Personality Science, 7(7),623-630.   \nGilead,M.,Gal,O.,Polak,M.,& Cholow,Y.(2015).The role of nature and nurture in conceptual metaphors the case of gustatory priming. Social Psychology, 46(3),167-173.   \nGiner-Sorolla,R.,& Chapman, H.A. (2017). Beyond Purity. Psychological Science,28(1),80-91.   \nGoldinger, S.D.,Papesh,M.H., Barnhart,A.S., Hansen,W. A.,& Hout, M.C.(2016). The poverty of embodied cognition. Psychonomic Bulletin & Review, 23(4), 959-978.   \nGreene,J. D. (2007). Why are VMPFC patients more utilitarian? A dual-processtheory of moral judgment explains. Trends In Cognitive Sciences,11(8),322-323.   \nGreene,J.D.，Morelli, S.A.，Lowenberg，K.，Nystrom,L.E.，& Cohen,J. D.(2008).Cognitive load selectively interferes with utilitarian moral judgment. Cognition,107(3),1144-1154.   \nGronau,Q.F., Van Erp,S.,Heck,D.W.,Cesario,J.,Jonas,K.J.,& Wagenmakers,E.-J.(2017).A Bayesian model-averaged meta-analysis of the power pose effect with informed and default priors: The case of felt power. Comprehensive Results in Social Psychology, 2(1),123-138.   \nHelzer,E. G.,& Pizaro,D.A. (2O11).Dirty liberals! reminders of physical cleanliness influence moral and   \nHoman,P.，Ely,B.A.， Yuan,M., Broscn,1.， Ng,J.， Irope,Y.，& Scnler,D.(ZUl/).Aversive smell associations shape social judgment. Neurobiology of Learning and Memory, 144,86-95.   \nHorberg,E.J.,Oveis, C., Keltner,D.,& Cohen,A.B.(2O09). Disgust and the moralization of purity. Journal ofPersonality and Social Psychology,97(6),963-976.   \nIJzerman,H.,& Koole, S.L.(2011). From perceptual rags to metaphoric riches-bodily,social, and cultural constraints on sociocognitive metaphors: Comment on Landau， Meier， and Keefer (2010). Psychological Bulletin,137(2),355-361.   \nInbar，Y.，Pizarro,D.A.，& Bloom,P.(2009). Conservatives are more easily disgusted than liberals. Cognition & Emotion,23(4),714-725.   \nInbar,Y., Pizaro,D.A., Knobe,J.,& Bloom,P. (2O09). Disgust sensitivity predicts intuitive disapproval of gays. Emotion, 9(3),435-439.   \nJohnson,D.J., Cheung,F.,& Donnellan, M. B.(2014). Does cleanlinessinfluence moral judgments? Adirect replication of Schnall, Benton,and Harvey (2008). Social Psychology, 45(3),209-215.   \nKang,E.,& Lakshmanan, A. (2O17). Role of executive attention in consumer learning with background music.Journal of Consumer Psychology,27(1),35-48.   \nKang,Y., Williams,L.E., Clark, M. S., Gray,J. R.,& Bargh,J. A. (2011). Physical temperature effects on trust behavior: the role of insula. Social Cognitive and Affective Neuroscience, 6(4),507-515.   \nLandau,M.J. Meier,B.P.,& Keefer,L. A. (2010). A metaphor-enriched social cognition. Psychological Bulletin, 136(6),1045-1067.   \nLandy,J.F.,& Goodwin, G.P.(2O15).Does incidental disgust amplify moral judgment? a meta-analytic review of experimental evidence. Perspectives on Psychological Science A Journal of The Association for Psychological Science,10(4),518-536.   \nLee,S. W. S.，& Schwarz, N. (2011). Wiping the slate clean: Psychological consequences of physical cleansing. Current Directions in Psychological Science, 20(5),307-311.   \nLee, S. W. S.,& Schwarz,N.(2012). Bidirectionality, mediation,and moderation of metaphorical effects: the embodiment of social suspicion and fishy smells. Journal of Personality and Social Psychology, 103(5), 737-749.   \nLiljenquist,K., Zhong,C.B.，& Galinsky,A.D.(2010). The smell of virtue: clean scents promote reciprocity and charity. Psychological Science,21(3),381-383.   \nMeier,B.P., Moellr,S. K.,Riemer-Peltz, M.,& Robinson,M.D.(2012).Sweet taste preferences and experiences predict prosocial inferences, personalities,and behaviors. Journal of Personality and Social Psychology, 102(1),163-174.   \nMeier,B.P., Simone,S.,Norbert, S.,& Bargh,J. A. (2012). Embodiment in social psychology. Topics in Cognitive Science, 4(4),705-716.   \nMontoro, P.R., Contreras, M.J., Elosua, M.R.,& Marmolejoramos,F. (2015). Cross-modal metaphorical mapping of spoken emotion words onto vertical space. Frontiers in Psychology, 6,1205.   \nMoore,C.，& Barresi, J. (2017). The role of second-person information in the development of social understanding.Frontiers in Psychology,8,1667.   \nMukherjee, S., Kramer, T.,& Kulow, K.(2O17). The efect of spicy gustatory sensations on variety-seeking. Psychology & Marketing,34(8),786-794.   \nNatanzon, M.,& Ferguson, M. J. (2012). Goal pursuit is grounded: The link between forward movement ndachievemen . Journal of Experimental Social Psychology, 48(1),379-382.   \nNiedenthal, P.M.(2007).Embodying emotion. Science,316(5827),1002-1005.   \nNosek,B．A.，Hawkins, B.，& Frazier, R. S. (2011). Implicit social cognition: from measures to mechanisms. Trends in Cognitive Sciences,15(4),152-159.   \nOosterwijk,S.，Rotteveel,M.，Fischer,A.H.，& Hess,U.(2009).Embodied emotion concepts: How generating words about pride and disappointment influences posture. European Journal of Social Psychology, 39(3),457-466.   \nPreston,J.L.，& Riter,R.S.(2O12). Cleanliness and godliness: Mutual association between two kinds of personal purity. Journal of Experimental Social Psychology, 48(6),1365-1368.   \nPrice,T.F.,& Harmon-Jones,E.(2O15).Embodied emotion: the influence of manipulated facial and bodily states on emotive responses. Wiley Interdisciplinary Reviews-Cognitive Science, 6(6),461-473.   \nRanehill,E., Dreber,A.,Johannesson, M., Leiberg,S.， Sul, S.，& Weber, R. A.(2015). Assessing the robustess of power posing: No effect on hormones and risk tolerance in a large sample of men and women. Psychological Science, 26(5),653-656.   \nRitter, R. S.,& Preston, J. L. (2011). Gross gods and icky atheism: Disgust responses to rejected religious beliefs. Journal of Experimental Social Psychology, 47(6),1225-1230. reminders of personal & ingroup wrongdoing. Journal of Experimental Social Psychology， 49(4), 643-650.   \nRozin,P.,Haidt,J.,& Fincher,K.(2009).Psychology.From oral to moral. Science,323(5918),1179-1180.   \nRozin, P., Lowery, L., Imada, S.,& Haidt, J. (1999). The CAD triad hypothesis: A mapping between three moral emotions (contempt, anger, disgust） and three moral codes (community, autonomy,divinity). Journal of Personality and Social Psychology, 76(4),574-586.   \nSchaefer, M.,Denke,C.， Heinze,H.J.，& Rotte,M.(2014).Rough primes and rough conversations: evidence for a modality-specific basis to mental metaphors. Social Cognitive and Affective Neuroscience,9(11), 1653-1659.   \nSchaefer, M.,Rote,M.,Heinze,H.J.,& Denke,C.(2015).Dirty deeds and dirty bodies: embodiment of the macbeth effect is mapped topographically onto the somatosensory cortex. Scientific Reports，5, 18051.   \nSchilbach,L., Timmermans, B., Reddy,V., Costall,A., Bente, G., Schlicht, T.,& Vogeley, K. (2013). Toward a second-person neuroscience. Behavioral and Brain Sciences, 36(4),393-462.   \nSchnall, S. (2017). Disgust as embodied loss aversion. European Review of Social Psychology， 28(1), 50-94.   \nSchnall S., Benton, J.,& Harvey, S.(2O08). With a clean conscience: cleanliness reduces the severity of moral judgments. Psychological Science,19(12),1219-1222.   \nSchnall，S.，Haidt,J.，Clore,G.L.，& Jordan，A.H. (2008). Disgust as embodied moral judgment. Personality & Social Psychology Bulletin,34(8),1096-1109.   \nSeidel,A.,& Prinz,J. (2O13). Sound morality: irritating and icky noises amplify judgments in divergent moral domains. Cognition,127(1),1-5.   \nShapiroL. (2011). Embodied Cognition. London and New York: Rutledge.   \nSheikh,S.，Botindari,L.,& White,E.(2013). Embodied metaphors and emotions in the moralization of restrained eating practices. Journal of Experimental Social Psychology,49(3),509-513.   \nSherman, G. D.,& Clore,G. L.(2O09). The color of sin: white and black are perceptual symbols of moral purity and pollution.Psychological Science,20(8),1019-1025.   \nSkarlicki,D. P., Hoegg, J., Aquino, K.,& Nadisic,T. (2013). Does injustice affect your sense of taste and smell? The mediating role of moral disgust. Journal of Experimental Social Psychology,49(5), 852-859.   \nSong,H.J., Vonasch,A.J., Meier,B.P.,& Bargh,J.A. (2012). Brighten up: Smiles facilitate perceptual judgment of facial lightness. Journal of Experimental Social Psychology, 48(1), 450-452.   \nValdesolo,P.， Ouyang，J.，& DeSteno,D. (2010). The rhythm of joint action: Synchrony promotes cooperative ability. Journal of Experimental Social Psychology, 46(4), 693-695.   \nWei, W. Q.,Lu,J. G., Galinsky,A. D.,Wu, H., Gosling, S.D.,Rentfrow,P.J.,.. Wang,L. (2017). Regional ambient temperature is associated with human personality. Nature Human Behaviour, 1(12), 890-895.   \nWilliams, L.E.,& Bargh, J. A. (20o8). Experiencing physical warmth promotes interpersonal warmth. Science,322(5901),606-607.   \nWilson,M. (2002). Six views of embodied cognition. Psychonomic Bulltin & Review, 9(4),625-636.   \nWiswede, D., Munte, T.F., Krämer, U.M.,& Ruseler,J. (2009). Embodied emotion modulates neural signature of performance monitoring. Plos One,4(6),e5754.   \nXu,A. J., Zwick, R.,& Schwarz, N. (2012). Washing away your (good or bad) luck: physical cleansing affects risk-taking behavior. Journal of Experimental Psychology: General,141(1),26-30.   \nYan, Z.X., Ding,D. Q.,& Yan,L. S. (2011). To wash your body, or purify your soul: Physical clean sing would strengthen the sense of high moral character. Psychology, 2(9), 992-997.   \nYang,Q.,Wu, X.C., Zhou,X.Y.,Mead,N.L., Vohs, K.D.,& Baumeister,R.F. (2013). Diverging effects of clean versus dirty money on atitudes, values,and interpersonal behavior. Journal of Personality and Social Psychology, 104(3),473-489.   \nZapatafonseca,L.,Froese,T., Schilbach,L., Vogeley, K.,& Timmermans,B.(2018). Sensitivity to social contingency in adults with high-functioning autism during computer- mediated embodied interaction. Behavioral Science, 8,22.   \nZestcott C. A., Stone,J.,& Landau, M.J. (2017). The role of conscious attention in how weight serves as an embodiment of importance.Personality & Social Psychology Bulletin, 43(12),1712-1723.   \nZhang,M.,& Li, X.P.(2012).From physical weight to psychological significance: The contribution of semantic activations. Journal of Consumer Research, 38(6),1063-1075.   \nZhong,C.B.，& Liljenquist， K. (20o6). Washing away your sins: threatened morality and physical cleansing. Science,313(5792),1451-1452. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ziv,N.,Hoftman,M.,& Geyer, M. (2012). Music and moral judgment: The effect of background music on the evaluation of ads promoting unethical behavior.Psychology of Music,40(6),738-760. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(通信作者:廖江群,E-mail: liaojq@tsinghua.edu.cn) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "刘传军、廖江群共同研讨提出研究思路和文章框架；刘传军起草文章初稿；刘传军、廖江群共同完成论文细节修订和最终版本的修订工作。",
+        "page_idx": 13
+    }
+]

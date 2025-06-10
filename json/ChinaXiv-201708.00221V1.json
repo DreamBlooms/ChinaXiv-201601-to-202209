@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "Quiescent photometric modulations of two low-inclination cataclysmic variables KZ Gem ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and TW Vir ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhibin Dai 1,2,3 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yunnan Observatories, Chinese Academy of Sciences, 65oO11, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Paula Szkody ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University ofWashington, Seattle,WA,98195,USA. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ali Taani ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Applied Sciences Department, Aqaba University College,Al-Balqa’ Applied University,P.O.Box 1199,7710Aqat ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peter M. Garnavich and Mark Kennedy4 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University of Notre Dame,Notre Dame, IN, 46556, USA. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The quiescent periodic photometric modulations of two low-inclination cataclysmic variables observed in Kepler K2 Campaigns O and 1, KZ Gem and TW Vir, are investigated. A phase-correcting method was successfully used to detect the orbital modulations of KZGem and TW Vir and improve their orbital periods. The light curve morphologies of both CVs were further analyzed by defining flux ratios and creating colormaps. KZ Gem shows ellipsoidal modulations with an orbital period of 0.22242(1) day,twice the period listed in the updated RK catalogue (Edition 7.24). With this newly determined period, KZ Gem is no longer a CV in the period gap, but a long-period CV. A part of the quiescent light curve of TW Vir that had the highest stability was used to deduce its improved orbital period of 0.182682(3)day. The flat patterns shown in the colormaps of the flux ratios for KZ Gem demonstrate the stability of their orbital modulations,while TW Vir show variable orbital modulations during the K2 datasets. In TW Vir, the single versus double-peaked nature of the quiescent orbital variations before and after superoutburst may be related to the effect of the superoutburst on the accretion disk. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stars : binaries : close- Stars : cataclysmic variables - Stars : individual(KZ Gem)-Stars : individual(TW Vir) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cataclysmic variables (hereafter CVs) are close binary systems in which a white dwarf (WD) primary accretes matter from a Roche-lobe filling late-type star via the inner Lagrangian point (CVs are reviewed in Warner (1995)). Unless the magnetic field of the white dwarf is in the MG regime, the matter accumulates in an accretion disk surrounding the white dwarf and a hot spot is created where the mass transfer stream intersects the accretion disk. The low-inclination CVs show no eclipses and lack easily detected photometric orbital modulations caused by a changing view of the hot spot during their orbit. To detect small( $( < 1 \\mathrm { { m a g } ) }$ （204号 optical modulation features requires high signal-to-noise and a long time base (e.g. Szkody et al.，1992; Taylor et al. ，1999; Patterson et al.，2003)． Hence,it is diffcult to find suitable data on many low-inclination CVs at quiescence. Considering that flickering is one of the most striking photometric characteristics common to all CVs and has an amplitude of a few hundredths of a magnitude up to more than an entire magnitude (Bruch ,1991, 1992), the low-amplitude orbital modulations in faint low-inclination CVs may be completely overwhelmed. For example, data on QZVir (Dai et al.,2O16) do not show a distinct orbital modulation due to possible large-amplitude flickering. The large scatter shown in the phased light curves of RZLeo and FO Aqr derived by Dai et al. (2016) and Kennedy et al. (2016), respectively, indicates that effects from the white dwarf spin can also complicate the extraction of an orbital modulation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Comparison of light curve data obtained at different times shows that flickering and orbital modulations are variable and the appearance in the measured light curve obviously depends on the exposure times and binning of the data (Szkody et al. ,2O16; Dai et al. ,2O16). The unprecedented light curves from the Kepler K2 mission (Howell et al. , 2O14), with nearly ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4f07a62d4c10e7a5a1b3c508920e1c27de1e72c2e59479c2b781db3bb52e643.jpg",
+        "table_caption": [
+            "Table1: The two low-inclination CVs. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Namea</td><td>KZ Gem</td><td>TW Vir</td></tr><tr><td>EPIC</td><td>202061320</td><td>201185922</td></tr><tr><td>Campaign (LC/SC)c</td><td>CO (LC)</td><td>C1 (SC)</td></tr><tr><td>Duration (day)</td><td>33.1</td><td>80.1</td></tr><tr><td>Porb(hr)b</td><td>2.67</td><td>4.38</td></tr><tr><td>Magnitude</td><td>V14.7 - 16</td><td>V12.0 - 17.2</td></tr><tr><td>Type</td><td>DN</td><td>DN</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note,\"theabbreviatednamesareusedfortheobjects withoutstandardvriablestardesignations.listedintheCVcatalogue RKcat Edition 7.24). $^ c \\mathrm { L C }$ and SC mean the observation in long ( $3 0 \\mathrm { m i n }$ sampling) and short (1 min sampling) cadence,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "continuous photometric coverage for 1-3 months at different pointings (Campaigns） along the ecliptic provide an excellent database to study low-amplitude photometric variations in faint low-inclination CVs. K2 Campaign O (K2-CO) was an engineering test in the early stage of the K2 program and the telescope did not have pointing stability during the 35-day campaign. K2 Campaign 1 (K2-C1) was the first campaign with fine pointing and it covers 80 days. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we analyze two CV light curves in detail KZ Gem was observed in long cadence (LC; 30 min sampling) during K2-CO and and TW Vir in short cadence (SC; 1 min sampling) during K2-C1. Both CVs listed in Table 1 are considered low-inclination systems due to the lack of detected eclipses. We apply a phase-correcting method to the quiescent light curves of KZ Gem and TW Vir to refine their orbital periods and study their orbital modulations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 K2 Light Curve Extractions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The K2 data are stored in the original Target Pixel Files (TPFs） provided by the Mikulski Archive for Space Telescopes (MAST). Dai et al. (2O16) presented the light curve extractions for TW Vir, but there was only a featureless light curve for the faint CV KZ Gem, extracted by using the program PyKE developed by the Guest Observer Office (Still & Barclay ,2012) and the pipeline presented by Dai et al. (2O16). Since the \"self-flat-fielding\" (SFF) method proposed by Vanderburg & Johnson (2014) and Vanderburg (2O14) was claimed to improve the K2 light curves by removing the effect of the trends, the SFF corrected light curves of KZ Gem was used for our further analysis. Note that the SFF corrected data are described by the normalized flux. Although the K2 light curve shown in Figure 1 does not show any visible periodic modulation, the results from Lomb-Scargle periodogram (LSP; Lomb (1976) and Scargle (1982)) and phase dispersion minimization (PDM; Stellingwerf (1978)) found a modulation period from its K2 data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Analysis Methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Phase-correcting Method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The methods of LSP and PDM are generally used to search for periods in time series data, but they are not ideal for finding variable or unstable modulations. Although a 2-D power spectrum analysis can help with this problem, it may only show a rough period with low precision. Thus, based on a preliminary period $\\mathrm { \\bf P } _ { 0 }$ derived from the above period finding methods or an existing radial velocity result, we attempted to apply a phase-correcting method to improve the precision of the observed period. Since $\\mathrm { \\bf P } _ { 0 }$ is a key parameter for the success of our phase-correcting method, it is necessary to make a precise estimation as soon as possible by using the LSP and PDM, which are powerful to find periods in data sets with highly non-regular timing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The K2 continuous time series data were separated into several sections for phasing the light curve on the starting period $\\mathrm { \\bf P } _ { 0 }$ , with each section maintaining the same data length, $\\mathbf { N } _ { s }$ , which is measured in units of the cycles. A standard phase (e.g., the light minimum at phase O or maximum at phase O.5) was fixed to be a reference phase. Based on this reference phase, the small and imperceptible discrepancy from the starting period $\\mathbf { P } _ { 0 }$ (the average phase uncertainty is on the order of tens of seconds for both CVs discussed in this paper) can then be accumulated and amplified to be a measurable parameter accompanying the increased cycles. In principle, the shifting phases of all sections show a linear curve with a constant shift rate $\\mathrm { S } _ { p h a s e }$ derived byadecent inearfit.This discrepancycanbe deduced as $\\frac { S _ { p h a s e } } { N _ { s } } P _ { 0 }$ . The resulting modulation period $\\mathrm { P } _ { b }$ can be described by the following formula, i.e., ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { b } = ( 1 - \\frac { S _ { p h a s e } } { N _ { s } } ) P _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The data length ${ \\bf N } _ { s }$ is a key parameter for this phase-correcting method. An appropriate ${ \\bf N } _ { s }$ should not only satisfy the minimal length for folding the light curve,but also guarantee enough number of sections for deducing the shift rate $\\mathrm { S } _ { p h a s e }$ , which determines the precision of the final measured modulation period $\\mathrm { P } _ { b }$ . After several tries, we determined that the best ${ \\bf N } _ { s }$ should be 1O and 5 for the LC and SC data, respectively. The orbital periods of the two CVs improved by using this method are discussed in detail in Section 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This method is suitable for analyzing data where the periodic variation is close to a simple harmonic model. Particularly, it is good at accurately finding modulations which undergo amplitude changes during a long data string. By separating a complete time series into many sections, it is easy to figure out when the modulations begin to become unstable, indicated by the first chaotic section. Thus, the part of the light curve with the highest stability can be picked out to derive the modulation period by using this method. And the modulation can be visualized by phasing the stable part of the light curve. TW Vir as a good example is presented at length in Section 4.2.1. Note that this method depends on an implicit assumption that the phase of the variability is not intrinsically variable during the time span of the data. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Flux Ratios ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For a double-hump light curve, the hump at the higher flux level is defined as the primary peak,and the lower flux hump is the secondary peak. Similarly, the light minimum at the lower flux level is the primary dip,and the other minimum is the secondary dip. Taking advantage of the continuous high-precision K2 data, these peaks and dips can be used to describe the light-curve morphologies. Although the K2 data are not absolutely calibrated, the relative flux changes with time can be determined. We use four flux ratios that are defined by the following formulas, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { R _ { p e a k } = f _ { s p } / f _ { p p } } } \\\\ { { } } \\\\ { { R _ { d i p } = f _ { s d } / f _ { p d } } } \\\\ { { } } \\\\ { { A _ { p r i } = f _ { p d } / f _ { p p } } } \\\\ { { } } \\\\ { { A _ { s e c } = f _ { s d } / f _ { s p } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { f } _ { s p } , \\mathrm { f } _ { s d } , \\mathrm { f } _ { p p }$ and $\\mathrm { f } _ { p d }$ are the flux at the secondary peak, secondary dip, primary peak and primary dip, respectively. An accurate modulation period and a parabolic least-square fitting method are used to extract the flux at the peaks and dips. The latter can largely eliminate the effects from discrepant data points and possible random drifts with time. $\\mathbf { R } _ { p e a k }$ and $\\mathbf { R } _ { d i p }$ （204号 indicate the flux ratios of two peaks and dips, respectively. $\\mathbf { A } _ { p r i }$ and $\\mathbf { A } _ { s e c }$ denote the primary and secondary amplitudes of the modulations, respectively. Since both a strengthening of a peak flux or a weakening of a dip flux can give rise to a variation in the hump amplitude, the two parameters $\\mathbf { A } _ { p r i }$ and $\\mathbf { A } _ { s e c }$ are not enough to completely describe the variations in the light curve. By combining these two ratios with the other two flux ratios $\\mathbf { R } _ { p e a k }$ and $\\mathbf { R } _ { d i p }$ the variations in peaks and dips can be distinguished. This method is mainly considers the effects on the flux from cycle-to-cycle variations, flickering,and observational errors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For visualization, each flux ratio was plotted into a $2 5 { \\times } 2 5$ pix colormap (i.e., a diagram of flux ratio versus BJD). The K2 data were separated into 25 sections and all flux ratios were calculated for each section. The maximum and minimum flux ratio for all 25 sections were then set to be the upper and lower border of the diagrams. Between the two borders, the flux ratio was separated into 25 uniform sections. The number of calculated flux ratios falling into each grid was then counted. The resulting colormaps are shown in Figure 2. Note that large, detectable amplitudes in the primary or secondary hump lead to $\\mathbf { A } _ { p r i }$ and $\\mathbf { A } _ { s e c } <$ 1, respectively. Also, unchanged flux ratios over the course of the observations indicate a stable modulation. Table 2 lists the averages of the four flux ratios for all 5 targets and the corresponding coefficients of the fits. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 KZ Gem ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 Period analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "KZ Gem is a poorly understood variable star first discovered by Hoffmeister (1966) and Kukarkin et al. (1968). Although it has been classified as a U Gem type dwarf nova (DN) in all versions of the CV catalogues (e.g. Downes & Shara ，1993; Downes et al. ,1997, ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1ac9c13c630b100130dd2bfdf91f8a1514c43542ab3137086357d58d5f98e2f.jpg",
+        "table_caption": [
+            "Table 2: The four flux ratios. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">\"Flux ratio</td><td>J0632+2536</td><td>KZ Gem</td><td>RZ Leo</td><td>WD1144+011</td><td>TW Vir</td></tr><tr><td rowspan=\"2\">Rpeak</td><td>avg</td><td>0.95(4)</td><td>1.000(4)</td><td>0.84(4)</td><td>1</td><td>1</td></tr><tr><td>coef</td><td>-1.5(2)x10-3</td><td>7(2)x10-5</td><td>7(4)×10-5</td><td>1</td><td>1</td></tr><tr><td rowspan=\"2\">Rdip</td><td>avg</td><td>1.14(4)</td><td>0.999(4)</td><td>1.06(5)</td><td>1</td><td>1</td></tr><tr><td>coef</td><td>b2.0(3)×10-4</td><td>-4(2)x10-5</td><td>-7(5)×10-5</td><td>1</td><td>1</td></tr><tr><td rowspan=\"2\">Apri</td><td>avg</td><td>0.76(3)</td><td>0.996(4)</td><td>0.68(3)</td><td>0.954(6)</td><td>0.80(3)</td></tr><tr><td>coef</td><td>-9(2)×10-4</td><td>4(3)×10-5</td><td>-1.0(3)×10-4</td><td>4(1)×10-5</td><td>b3.2(7)×10-4</td></tr><tr><td rowspan=\"2\">Asec</td><td>avg</td><td>0.91(2)</td><td>0.994(4)</td><td>0.86(5)</td><td>1</td><td></td></tr><tr><td>coef</td><td>4(1)×10-4</td><td>-9(2)×10-5</td><td>-2.2(5)×10-4</td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note,\"thaverageandthebest-ftingcoeficientoffuxratiaredenotedbythesymbolsofavgandcoefrespectively.iis notte gradient, but the quadratic coefficient. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2001; Ritter & Kolb ，2OO3), there was not any formal report or literature supporting its DN subtype identification until a recent DN outburst occurred in 2O15 January (Lange ， 2016),which confirms its DN classification. The K2 variable cataloguel classified KZ Gem as 'OTHPER',i.e., other periodic and quasi-periodic variables, via a quick and automated period search (Armstrong et al.,2015,2016). Ritter & Kolb (2003) reported a period of 0.11122 day as the orbital period. This orbital period has not been confirmed with spectra. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to further test the period listed in the catalogs,the SFF corrected data of KZ Gem (Figure 1) was analyzed by using the LSP, the same method used in Armstrong et al. (2015), and the PDM method. The strongest peak at a period of 0.1112 day (2.67 hr) is consistent with the orbital period listed in the updated CV catalogue (RKcat Edition 7.24 seen in Ritter & Kolb (2O03)). Note that there is also a peak with less power at the period of 0.2225 day (5.34 hr), which is exactly twice of the period of 2.67 hr. The phased light curves of KZ Gem shown in the panels (a) and (b) of Figure 3 correspond to the periods of 2.67 hr and 5.34 hr, respectively. The phased light curve using a period of 2.67 hr shows a single minimum per orbit. However, despite the large scater of the raw data, the binned data using a period of 5.34 hr shows two distinct minima in a single orbit. This means that the phased light curve with the period of 2.67 hr actually overlaps the two different minima, and the data scatter blurs them into the apparent single minimum, which can be proved by the larger scatter in the panel (a) than that in the panel (b) of Figure 3. Thus, like 1RXS JO632+2536 （204号 $( \\mathbf { J 0 6 3 2 + } 2 5 3 6 )$ and RZLeo (Dai et al. ,2016), the orbital period of KZ Gem is likely 5.34 hr and the 2.67 hr peak is a harmonic. This newly determined period indicates that KZ Gem is a normal long-period DN rather than one of the CVs in the period gap. This light curve resembles the light curve caused by ellipsoidal modulation (e.g Bochkarev et al.,1979). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A higher precision orbital period can be obtained by using our phase-correcting method. The K2 time series of KZ Gem spanning over 30 days was separated into 14 sections, using the period of 5.34 hr and setting ${ \\bf N } _ { s }$ as 10 (as the data is in LC model). Using Equation (1), the final orbital period of KZ Gem is calculated to be 0.22242(1) day based on the shift rate （20 $\\mathrm { S } _ { p h a s e } { = } { - } 0 . 0 0 2 ( 5 )$ derived from the 14 shifting phases shown in the upper panel of Figure 4. The precision of the orbital period is an order of magnitude higher than that of the starting period obtained from the LSP and the PDM methods. In order to find further evidence that this is the orbital period of KZ Gem, the SFF corrected data of KZ Gem were first converted into K2 magnitude $\\mathrm { K p } _ { 2 }$ using the conversion in Dai et al. (2O16), and then all the 14 phased light curves folded on the improved orbital period of O.22242(1) day, with an average amplitude of 0.0025 mag, were stacked (Figure 5). These light curves indicate that the orbital modulation of KZ Gem is basically stable except for the two sections around BJD 2456784.35 and BJD 2456795.46. Obviously, all of the stable light curves with the smaller scater show detailed features of the modulation including two different minima and similar maxima in one orbit, which is the typical ellpsoidal modulation light curve found in other binary systems, such as Nova A0620-00 (McClintock et al. , 1983) and TT Crt (Szkody et al.,1992). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 Light-curve morphology ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The stability of the orbital modulation of KZ Gem is also evident from the flux ratios (Figure 2). Allfour diagrams in Figure 2 are not only very close to the dashed line of 1, but also show considerably flat pattrns with slopes around $1 0 ^ { - 5 }$ ， which means that this low-amplitude modulation is stable.In spite of the scatter, the linear fit shown in the plot of $\\mathbf { R } _ { p e a k }$ is closer to the line of 1 than that in the plot of $\\mathbf { R } _ { d i p }$ . This may provide support that the orbital period of KZ Gem is O.22242(1) day and the corresponding orbital modulation has two minima per orbital cycle rather than a single sinusoidal-like oscillation (as shown in the (b) and (a) panels of Figure 3). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to determine whether the stability of the orbital modulations of KZ Gem is unusual, we also investigated the stability of three other low-inclination CV type light curves: ${ \\bf J } 0 6 3 2 \\substack { + 2 5 3 6 }$ observed in K2-CO, and RZLeo and the pre-CV WD $1 1 4 4 + 0 1 1$ observed in K2-C1. Note that these CVs never show any superoutburst during the K2 observations. By using the four flux ratios defined in Section 3.2, their flat patterns like KZ Gem shown in Figure 2 illustrate that all three CV light curves with the distinct orbital modulations derived by Dai et al. (2O16) are basically stable throughout the K2 observations. Although $\\mathbf { J 0 6 3 2 + } 2 5 3 6$ shows negative slopes in $\\mathbf { R } _ { p e a k }$ and $\\mathbf { A } _ { p r i }$ and a quadratic-like pattern in $\\mathbf { R } _ { d i p }$ ， there is only a small distortion of the double-hump orbital modulation as the K2-CO observation progresses. In addition, the sharp decrease of system light of $\\mathbf { J 0 6 3 2 } \\substack { + 2 5 3 6 }$ occurring around BJD 2456790 shown in the top panel of Figure 1 of Dai et al. (2016) is coincident with the change in ${ \\bf R } _ { d i p }$ , as pointed out by the arrow in the $\\mathbf { R } _ { d i p }$ plot. For RZ Leo, the fairly constant orbital modulation is in contrast to a model of a shifting hot spot proposed by Mennickent & Tappert (2OO1). And the \"anti-humps” claimed by Mennickent et al. (1999) were undetected in the K2-C1 SC data. Since the average error of RZLeo is from 0.04 mag to O.07 mag and the maximal error bar is $< 0 . 1$ mag (Figure 6), the uncertainties of the data points are not enough to explain the large amplitude dispersion $\\sim 0 . 4 3 \\mathrm { m a g }$ shown in the phased light curve of RZLeo. Therefore, the flat patterns of RZLeo imply that this scater amplitude results from a uniform drift of the system light on a short timescale, rather than from any variations in the disk or hot spot. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2 TW Vir ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 Period analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although Shafter (1983) has published a spectroscopic orbital period of 4.38 hr for TW Vir and there were 7872 photometric observations from 1955 to 1997 (Ak et al.，2002), the existence of a photometric orbital modulation is still unknown. The recent period analysis during the plateau of a superoutburst in TW Vir (Dai et al. ,2O16) only showed the wellknown 6 hr period due to the K2 satellite pointing drift, and some ambiguous peaks smaller than 4.38 hr, which could be harmonics of this pseudo 6-hr period. The online K2 variable catalogue1 classified TW Vir as 'RRab’ (i.e., RRab lyrae star) without any available phasefolded light curve. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A 2-D power spectrum analysis with a moving window of 1.6 day was applied to the whole K2 SC light curve of TW Vir. Inspection of Figure 7 illustrates two significant and coherent black bars around the periods of O.183(4) day (4.4 hr) and 0.092(4) day $( 2 . 2 \\mathrm { h r } )$ , respectively. The latter period with less power is the second harmonic of the former one. This 2-D power spectrum diagram supports the previous orbital period derived by Shafter (1983),and shows that the orbital modulation of TW Vir found in quiescence disappears during outburst (a result similar to that found for UV Gem (Dai et al.,2O17)). Thus, we focused on the quiescent light curve to improve the precision of the orbital period. Based on the times of appearance and disappearance of the orbital modulation, the light curve when $\\mathrm { K p } _ { 2 }$ was fainter than 15.3 mag was defined to be the quiescent light curve. This light curve covers a total of 25 days, separated into three quiescent sections by one superoutburst and two normal outbursts (Figure 7). The latter two quiescent sections completely cover the intervals between the three outbursts. The orbital modulation in quiescence between the superoutburst and the following normal outburst is remarkably stronger than that between the two normal outbursts. The maximal powers and the corresponding periods tracking along the black bar of the 2-D power spectrum are plotted in the upper and lower panels of Figure 8, respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Considering the width of the black bar shown in Figure 7 and the dispersion of the orbital period around O.008 day $( \\sim 0 . 2 \\mathrm { h r } )$ denoted by the irregular variation shown in panel c) of Figure 8, we needed a detailed period analysis to improve the precision of the orbital period of TW Vir. We accomplished this by using the previously described phase-correcting method. An initial period was intentionally set to be 0.185 day (4.44 hr) with a small deviation ${ \\sim } 4$ min away from the average period 4.38 hr shown in the panel c) of Figure 8. Based on this initial period and the preset $\\mathbf { N } _ { s } = 5$ , the SC light curve of TW Vir observed in K2-C1 was separated into 8O sections. After subtracting the sections during the outbursts, the resulting 60 sections in quiescence were stacked in Figure 9 and 10 illustrating the quiescent light curves around the superoutbust and between the two normal outbursts, respectively. The quiescent orbital modulations of TW Vir around the superoutburst are more stable despite the apparent differences in the modulation profiles before and after superoutburst (Figure 11). We found that a stable orbital modulation was not established until BJD 2456829.26. There are 24 sections from BJD 2456825.56 to BJD 2456846.84 that were analyzed by our phasecorrecting method. The orbital period of TW Vir was improved to 0.182682(3) day based on the linear shift phases shown in the lower panel of Figure 4. The precision of the derived orbital period is an order magnitude higher than that obtained by Shafter (1983)and three orders of magnitude higher than that derived from the 2-D power spectrum analysis. The 20 sections from BJD 2456829.26 to BJD 2456846.84 were folded on this period, and the resulting phased light curves are shown in Figure 12. These phased light curves show clear orbital modulations. However, an accurate ephemeris for TW Vir cannot be derived from the K2 data since the cycle-to-cycle scatter makes a precise epoch difficult to determine. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 Light-curve morphology ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The phased light curves before and after superoutburst show different shapes (Figure 12). During most quiescence times,a double hump orbital modulation (panel b) is apparent. However, the orbital modulation before the superoutburst appears to gradually mimic the shape of a typical superhump profile with a single maximum and minimum per cycle, similar to many other SU UMa type DNe (e.g. Patterson et al.,2003; Kato & Osaki , 2013a; Kato et al. ,2013b). Panel(a) of Figure 11 illustrates this superhump-like modulation profile. Since TW Vir is classified as a UG Gem-type DN (O'Connell,1932) and its orbital period is far longer than the typical period of the SU UMa type DN, this single-peak modulation may represent the accretion pattern caused by an increased hot spot area before the upcoming superoutburst. The short time base of the K2 data before superoutburst cannot totally rule out the other possibility that the second hump may be overwhelmed by the large scatter. Post superoutburst, an orbital modulation began to form after BJD 2456825.56, which is close to the half time of the decay section of the outburst light curve. This part of the light curve from BJD 2456825.56 to BJD 2456846.84, lasting ${ \\sim } 3 . 7$ day at the end of the decay from superoutburst (Figure 7), was divided into 4 sections shown in the bottom left plots of Figure 9. These sections clearly indicate that the orbital modulation is becoming stronger, implying a reconstruction stage of the orbital modulation that was disrupted by the superoutburst. Panel a) of Figure 8 shows that the amplitude of the orbital modulation after the superoutburst first experiences a fast strengthening stage lasting about 1O days and then continuously weakens. This behavior is compared to that of UV Gem in Figure 8b. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Since the quiescence following the next normal outburst seems to give rise to a chaotic orbital modulation, it is pointless to phase the entire K2-C1 quiescent dataset using this orbital period. Instead, we restrict our analysis to data taken between the superoutburst and following normal outburst(BJD 2456829-2456847). The relative high stability and the long time base of the light curve between the superoutburst and the following normal outburst (i.e., from BJD 2456829 to BJD 2456847), allowed this section to be used for further analysis. Since the indistinct second humps shown in panel (b) of Figure 11 are highly variable, $\\mathbf { A } _ { p r i }$ （204 is the only reliable parameter that could be used. The plot of $\\mathbf { A } _ { p r i }$ in Figure 2 for TW Vir indicates a quadratic-like variation in primary amplitude. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The turning point of $\\mathbf { A } _ { p r i }$ is basically in accord with the strongest orbital modulation shown in panel a) of Figure 8. Combined with the variations in the amplitude of the spectrum power, the quadratic-like variation in $\\mathbf { A } _ { p r i }$ implies a scenario where the orbital modulation of TW Vir is quickly strengthened after superoutburst, lasts about 1O days, and then turns to a decay stage before the next normal outburst. Based on the quadratic fit to the curve shown in the $\\mathbf { A } _ { p r i }$ plot of Figure 2, the spread of primary amplitude during this part of quiescence from superoutburst to normal outburst is about $4 \\%$ . Since the enhancement of the primary amplitude is accompanied by the appearance of the orbital modulation before BJD 2456839.9, the enlarged amplitude may imply an adjustment of the accretion disk structure after superoutburst. Nevertheless, this recovered orbital modulation generally becomes unstable after BJD 2456839.9,and then almost falls into chaos after the following normal outburst, which can be clearly seen in Figure 1O. The transformation of the orbital modulation in a low inclination CV from stable to unstable has not been reported in the past. Since the turning point appears in the middle of the outburst interval, it is apparent that a stable orbital modulation, based on a typical CV accretion model (Warner ，2Oo3), is not maintained. Changes in accretion can definitely give rise to variations in orbital modulation, e.g., as recently reported in the eclipsing SU UMa type DN V1239 Her (Golysheva et al. , 2015). Thus, the observed decrease of the amplitude of the orbital modulation suggests changes in the accretion disk structure of TW Vir around BJD 2456839.9. The high instability of the orbital modulation after the normal outburst may naturally explain why the optical orbital modulation of TW Vir Was not observed in the 7872 observations of Ak et al. (2002). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The long datasets of K2-CO and K2-C1 have allowed refined orbital periods for KZ Gem and TW Vir as well as a study of the stability of their photometric orbital variations. A phase-correcting method was successfully used to improve the orbital period of KZ Gem to 0.22242(1) day. This period confirms that KZ Gem is not a CV in the period gap, but a long-period DN. Our phased light curve folded on this period shows typical elipsoidal modulations. Radial velocity measurements can provide further confirmation. By analyzing four defined flux ratios: ${ \\bf R } _ { p e a k } , { \\bf R } _ { d i p } , { \\bf A } _ { p r i }$ and $\\mathbf { A } _ { s e c }$ and creating colormaps, KZ Gem, $\\mathbf { J 0 6 3 2 } \\substack { + 2 5 3 6 }$ RZ Leo and WD $1 1 4 4 \\substack { + 0 1 1 }$ are shown to have flat or sloping patterns that indicate stable orbital modulations during quiescence. Despite the large scatter and variability of CV light curves, the orbital modulation is commonly stable for these low inclination CVs. However, TW Vir with a superoutburst and two normal outbursts shows unstable orbital modulation hidden in quiescence. Removing the outburst times from the K2-C1 SC data reveals its variable orbital modulation. By applying a phase-correcting method to 24 sections of data with the highest stability spanning over 17 days, the orbital period of TW Vir is improved to 0.182682(3)day. Two types of orbital modulation with signal-hump and double-hump profiles are derived before and after superoutburst, respectively. The amplitude of the orbital modulations are much stronger after a superoutburst than after the following normal outburst. These data may be the first visible detection of the rebuilding process of the accretion disk structure following a superoutburst. The reconstruction period of the orbital modulation is estimated as ${ \\sim } 3 . 7$ day. Based on a part of the quiescent light curve of TW Vir with a stable double-hump modulation,a nonlinear variation exists in the plot of $\\mathbf { A } _ { p r i }$ for TW Vir, corresponding to the time when the orbital modulation amplitude changes from strong to weak, rather than to any detectable transient event. The changing amplitudes are indicative of a changing accretion disk structure from superoutburst to quiescence. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This Work was partly supported by CAS Light of West China Program and the Science Foundation of Yunnan Province (No.2016FB007). PS acknowledges support from NSF grant AST-1514737.MRK and PG acknowledge support from the Naughton Foundation and the UCC Strategic Research Fund. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ak,T., Ozkan,M.T.,&Mattei, J.A.2002,A&A,389,478.   \nArmstrong,D.J., Kirk, J.,Lam, K.W.F., McCormac,J., Walker, S.R., et al.2015,A&A,579,19.   \nArmstrong,D.J.,Kirk,J.,Lam, K.W.F.,McCormac,J.,Osborn, H.P., et al. 2016,MNRAS,456,2260.   \nBochkarev, N. G., Karitskaya, E.A.,& Shakura,N.I.1979,Pisma V Astronomicheski Zhurnal, 23, 8.   \nBruch,A.1991,A&A,251,59.   \nBruch,A.1992,A&A 266,237.   \nDai, Z. B., Szkody, P., Garnavich, P.M.,& Kennedy, M. R. 2016,AJ,152, 5. Downes, R.A., Webbink,R.F.,& Shara, M. M. 1997, PASP, 109,345.   \nDownes,R.A., Shara, M. M.,Ritter, H., Kolb, U., et al. 2001, PASP, 113,764.   \nGolysheva, P., Shugarov, S., Katysheva, N., & Khruzina, T. 2015, ASPC, 496, 231.   \nHowell, S.B., Sobeck, C., Haas,M., et al. 2014, PASP,126, 398.   \nHoffmeister, C. 1966,AN,289,139.   \nKato, T., & Osaki, Y. 2013a, PASJ, 65, 97.   \nKato,T.,Hambsch,Franz-Josef, Maehara,H.,Masi, G.,Miller,I. 2O13b,PASJ, 65,23.   \nKennedy,M.R., Callanan,P., Garnavich,P.M., Szkody,P.,Bouanane, S., et al.2O16,MNRAS,459,3622.   \nKukarkin, B.V., Kholopov,P.N.,Efremov Y. N., Kurochkin N.E.,Frolov M. S., et al.1968,IBVS,311,1.   \nLange, T. 2016,BAVSR, 65, 45.   \nLomb, N. 1976, Ap&SS,39, 447.   \nMcClintock, J.E.,Petro,L.D., Remillard,R. A.,& Ricker, G.R.1983, ApJ,266,L27.   \nMennickent,R.E., Sterken, C.,Gieren,W. & Unda,E.1999,A&A,352,239.   \nMennickent, R.E.,& Tappert, C.2001,A&A,372,563.   \nO'Connell, D, J. K. 1932, Harvard College Observatory Bulletin, 890,18.   \nPatterson,J., Thorstensen, J.R.,& Kemp, J., et al. 2003,PASP, 115,1308.   \nRitter,H.,& Kolb,U.2003,A&A,404,301.   \nScargle, 1982, ApJ, 263, 835.   \nShafter,A. W.1983,IBVS,2377.   \nStellingwerf, R. F. 1978, ApJ, 224, 953.   \nStill,M.,& Barclay,T.2012,ascl soft,ascl:1208, 004. Szkody,P.,Williams,R.E.,Margon, B., Howell, S.B.,& Mateo,M.1992,ApJ,387,357. Szkody,P.,Mukadam, A.S., Gänsicke,B.T., Toloza, O.,Dai, Z.-B.,et al.2O16,AJ, submitted. Taylor, C.J., Thorstensen, J.R.,& Patterson, J.1999,PASP,111,184.   \nVanderburg,A.&Johnson,J.A.2014,PASP,126,948.   \nVanderburg,A.2014,arXiv,1412,1827.   \nWarner, B.1995, Cataclysmic Variable Stars.(Cambridge Univ. Press, Cambridge)   \nWarner,B. 2O03, Cataclysmic Variable Stars. (Cambridge Univ. Press, Cambridge) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/434b199e588c80e492d1461807417977c3030083a61af12d7d9da05761d73045.jpg",
+        "img_caption": [
+            "Figure 1: The SFF corrected light curve of KZ Gem observed in K2-C0. "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/680956853d2327212e057fd4d0c6c96e68b6bff518e66499797aa63337aea665.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 2: The $2 5 { \\times } 2 5$ pix colormaps of four flux ratios defined by Equation 2 for the same object are aligned from top to bottom. The two plots of $\\mathbf { A } _ { p r i }$ for TW Vir and WD $1 1 4 4 \\substack { + 0 1 1 }$ lie alongside at the bottom, since $\\mathbf { A } _ { p r i }$ is the only available parameter forboth CVs.The gray scale denotes the number of the flux ratios falling into each grid. The blue solid lines refer to the best-fting curves,and the average and the corresponding coefficients of flux ratios are listed in Table 2. The arrow shown in $\\mathbf { R } _ { d i p }$ plot of ${ \\bf J 0 6 3 2 + 2 5 3 6 }$ indicates the transient event of $\\mathbf { J 0 6 3 2 } \\substack { + 2 5 3 6 }$ around BJD 2456790. The time pointed by the arrow in $\\mathbf { A } _ { p r i }$ plot of TW Vir is the same as that in panel a) of Figure 8. ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/37321a8afd075c368b4b459854a686373db57b84b3be05a6789389b1c8e5737a.jpg",
+        "img_caption": [
+            "Figure 3: Phased and binned light curves of KZ Gem are plotted by the scatter dots and solid lines,respectively. The K2 light curves folded on the period of O.1112 day $( 2 . 6 7 \\mathrm { h r } )$ and of 0.2225 day $( 5 . 3 4 \\mathrm { h r } )$ were shown in panels (a) and (b), respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/098caf7081206a89f9de19019051a5a6eebbbec6e2c10987cc892adcd32daa58.jpg",
+        "img_caption": [
+            "Figure 4: The shifting phases calculated in each section of KZ Gem and TW Vir are ploted in the upper and lower panels,respectively. The solid lines denote the linear fit to the data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/e55cd050784002c42a591a2ee16a3e40935cd7aefb4b7442caa29d6ecfd56c1a.jpg",
+        "img_caption": [
+            "Figure 5:Based on the 14 sections separated from the K2-CO data of KZGem,all 14 phased light curves folded on the same period of 0.22242(1)day are stacked in chronological order from top to bottom. The labels of Y axis refer to the median times of the sections.The two blue sections indicate the unstable modulations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/bada8a0f06738c85fdf65cde45701b71604aa1c18edc4cc2fb257482fb306921.jpg",
+        "img_caption": [
+            "Figure 6: The histogram of error distribution of the K2-C1 SC data for RZ Leo. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5587a4032c35bf11d926b4d62f9745397be8648a09535f8a6270a23a3b6d75d.jpg",
+        "img_caption": [
+            "Figure7: Two-dimensional power spectrum ofTW Vir calculated froma moving window 1.6 day is overplotted with its K2 light curve in magnitudes. A horizontal dash line at $\\mathrm { K p } _ { 2 } = 1 5 . 3$ mag is arbitrarily used to distinguish the two luminosity states: outburst and quiescence. The light curve between the two vertical dash lines lasting ${ \\sim } 3 . 7$ day may denote the rebuilding process of the orbital modulation that was interrupted by the superoutburst. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/e20008341e8bd3060100d668b374570b6ae63e6e73185d75ada3b8989842a42d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Figure 8: The maximal power extracted from the 2-D power spectrum of TWVir shown in Figure 7 and the corresponding periods were plotted in the left-side panels a)andc),respectively. Similarly, the two diagrams on the right-side are for UVGem.The solid and open circles in the plots of UV Gem refer to the orbital and posibly remaining superhump periods after an unrecorded superoutburst (Dai et al.,20l7), respectively. The arrow shown in panel a) denotes the changing point of the orbital modulation from strong to weak around BJD 2456839.9. ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5a22b6044226b160864bdc3dfd2da46cb4d32180c4861897302d7feb3aad1f9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Figure 9: The 29 phased light curves of TW Vir in quiescence around superoutburst folded on the initial period of 0.185day and stacked in time order.Like Figure 5,the median time of each section is labeled on the Y-axis. The blue and black light curves indicate the light curves before and after superoutburst,respectively. The red light curves are derived from the part of light curve between the two vertical dash lines shown in Figure 7. According to our phase-corecting method, the 20 black light curves with the distinct double-hump modulation and the 4 red light curves were used to improve the orbital period of TW Vir. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/efd51c1d64e627c18eca2b9b35c5853b5fad0b742076682edeb42e243be52c82.jpg",
+        "img_caption": [
+            "Figure 10: The 31 phased light curves of TWVir folded on the initial period of O.185 day between the two normal outburst are stacked in time order. "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/55a5f0cc5f438a2628efdd12834f05e8dce84be8eefce4b3ee72cfdca38e4985.jpg",
+        "img_caption": [
+            "Figure 11: Based on the light curves bfore and after superoutburst, the phased light curves of TW Vir with the corrected orbital period of 0.182682(3)day show the single-hump and double-hump modulation shown in panels (a) and (b), respectively. The blue solid lines are the binned light curves. "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/870a82ee6ac0202f1799e7ac230aecc5eafc5d1610e4b933cc9a3f38603422b2.jpg",
+        "img_caption": [
+            "Figure 12: The 20 new phased light curves of TW Vir with the corrected period of 0.182682(3)day are stacked in time order. Allight curves are the same as those listed in the right-side panel of Figure 9. The significant and stable primary hump is set to be zero phase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    }
+]

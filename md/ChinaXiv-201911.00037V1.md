@@ -1,0 +1,264 @@
+# 基于K-means聚类分区的西北地区近半个世纪气温变化特征分析
+
+冯克鹏'"，田军仓，沈晖，（1宁夏大学土木与水利工程学院,宁夏银川 750021;2宁夏节水灌溉与水资源调控工程技术研究中心,宁夏银川750021;3旱区现代农业水资源高效利用教育部工程研究中心,宁夏银川 750021)
+
+摘要：采用K-means 聚类分区,Sen's斜率估计，Kendall-Tau非参数检验等方法,分析和讨论了近半个世纪(1960—2015年)我国西北地区不同区域的气温变化特征。发现近半个世纪西北地区气温保持了持续的显著上升,年均最低气温上升速率高于年均气温和年均最高气温。从空间的角度来看,新疆北疆地区的东北部，内蒙古北部、西部中东部，甘肃中部、西部，青海北部、中部，宁夏中部、北部地区以及陕西北部是升温最快的区域。虽然西北地区气温总体是上升趋势，但在时间上并不均匀一致。从1998年开始，西北地区气温升温减缓，部分地区出现了下降趋势。近半个世纪西北地区季节气温与年际气温变化趋势并不一致，变暖减缓在该地区不同季节的响应不同。1998一2015年，冬季是增温幅度最小的季节，多数子区冬季存在升温趋势减缓，甚至转为下降趋势。
+
+关键 词：聚类分析；轮廓系数；变暖减缓；西北地区
+
+全球变暖已是国际社会广泛关注的问题，已取得的共识是全球变暖是由人类活动造成的温室效应所导致的。20世纪后期开始的近50a,变暖率几乎是近百年的2倍[1-2]。但是,正当人们预估全球气温会持续上升时，澳大利亚詹姆斯·库克大学学者CARTER,在2006年指出：“1998—2005年，全球地表温度并未增加，甚至有一点降低，虽然降低幅度接近于零”[3-4]。2009 年美国国家海洋大气管理局Easterling也对此现象进行了研究[5],随之全球变暖停滞问题引起了更多的关注，特别是近3a来，科学家们对此问题的研究投入了极大的热忱[6-8]。2014年《Nature》将有关全球气候变暖停滞的研究评选为2014 年十大科学事件之一[9]。我国王绍武、葛全胜、丁一汇等学者针对气候变暖停滞做了深刻的讨论，一些学者发现我国部分地区存在变暖减缓现象[10-12]  
+。
+
+西北地区地域辽阔，行政区划包括陕西、甘肃、宁夏、青海、新疆以及内蒙古的一部分，其地域面积约占我国总面积的1/3。该区域内干旱、半干旱、半湿润气候并存，山峦、戈壁、绿洲、荒漠等多种地形地貌交织，生态脆弱，对气候变化敏感性高。众所周知，气候变暖，温度升高，使水循环过程加速，加剧高温干旱和暴雨洪涝等极端气候事件的发生强度和出现频率;也会进一步导致水资源时空分布不均、应对水旱灾害的复杂性与难度等问题更加突显[13 -18]相反，气候变暖停滞，温度停止上升后，水循环过程也随之减缓；区域的降水、蒸发、径流等水循环要素必然也将发生变化，进而对地区的工农业生产、群众生活等诸多方面产生影响。
+
+丁一汇指出全球变暖在时间上并不是均匀的，有相对的冷期，也有相对的暖期，但总体趋势是上升的。全球变暖是一种平均趋势，但在这个过程中还受到其它因素的影响，造成年际的波动和年代际的波动[19],并且由于气候复杂系统的时滞现象和空间异质现象，局部区域的变化与全球尺度上的变化并不一定一致。那么在气候变暖减缓的新疑问和新背景下，我国西北地区气温发生了怎样的变化？是否存在变暖减缓？在不同季节，气温又是如何响应的？本文将就以上几个问题做重点分析和讨论，为进一步认识该区域气温变化规律提供帮助。
+
+# 数据与方法
+
+# 1.1 数据资料
+
+以“中国气象科学数据共享服务网”（http：//data.cma.cn/)提供的西北地区184个气象站对气温的观测值为基础，在开展分析之前，对数据预处理，舍弃数据缺失严重的站点，进行均一化检查；气候界限值、异常值检查;台站极值检查;定时值、日平均值与日极值间内部一致性检查;时间、空间一致性检查等，并根据检查结果对数据进行了必要的插补和订正。经过以上步骤，得到148个气象站1960—2015年完整的气温数据。除气象站的气温观测值外,本文还使用了各台站的经度、纬度及海拔信息。研究区域内气象台站分布见图1。
+
+# 1.2 研究方法
+
+1.2.1气象数据均一性检验方法在气象站长期观测中，由于仪器更换、测站迁移、观测规程调整以及操作人员主观认识等多方面因素的影响，气象观测数据存在着偏态、缺测、异常值等问题，进而造成整个气象数据序列不均质现象。在开展具体研究工作之前，需要对气象数据进行均一化处理。本研究采用RHtest方法对西北地区气象数据序列进行均一化检验和订正。该方法由加拿大环境部气候研究中心WANG等建立，它基于两阶段线性回归模型对整个气象数据序列进行检测[20-21],其可行性和合理性已得到广泛验证，本文在此不作赘述，请参考相关文献[22-23] O
+
+1.2.2K-means 聚类分区通常，考虑到气候的地域分异规律和下垫面等影响因素，对较大研究区域评估气候要素变化时，需要将其划分为若干个子区，以便更为细致，准确地反映气候要素变化特征。近年来，从“毗邻区域内的气象要素变化是相互关联的，具有一定相似性”的角度出发，引入了数据挖掘划分子区是一种新方法。本文采用 $K$ -means聚类法划分气候子区，基本思想是：每个气象站代表一个它所在的区域，通过 $K$ -means算法将若干具有相似性特征属性的气象站聚为一类，一类气象站共同代表的区域即构成一个分区， $k$ 代表类簇个数。
+
+在分区之前，需确定以哪些特征属性作为聚类分区的依据。结合研究区域所处地理位置的自然条件，本文以气象站经纬度、海拔、年降水量、年平均风速、年平均气温、年最高气温和最低气温作为特征属性，并采用矩阵形式表达。研究区域内每个气象站在这些特征上都有一个取值，如表1所示。建立气象站特征属性矩阵之后，就可采用K-means聚类算
+
+N 75°E 80°E 85°E 90°E 95°E 100°E 105°E 110°E N  
+00 00N吉木乃福海 哈巴河 阿勒泰 A塔城 ·和布克赛尔 青河  
+2 阿拉山口 托里克拉玛依 ·北塔山 0 245 490 980km 2温泉·精河 ·乌苏 蔡家湖·奇台房 乌鲁木齐 ·达板城 巴里塘 二连浩特巴仑台 吐鲁番 七角井哈密 朱日和耆·库米什  
+N0 尔杂特 力 NoO莎车 且末 ·茫崖 冷湖 永昌 甘肃·民勤 银乐 林塔仕库尔干·皮山 和田 民丰 CO  
+208 30清水河 达自治 武都 汉中 佛坪镇安图例 海拔 树 班玛 略阳 石泉安康. 气象台站 高：8494 囊谦  
+N 河流 低：-553 N08  
+.00 75°E 80°E 85°E 90°E 95°E 100°E 105°E 110°E
+
+表1气象站K-means聚类分区特征属性矩阵  
+Tab.1 K-means clustering partition feature attribute matrix of meteorological station   
+
+<html><body><table><tr><td>气象站</td><td>经度</td><td>纬度</td><td>海拔</td><td>年降水量</td><td>年平均风速</td><td>年平均气温</td><td>年相对</td><td>年最低气温</td><td>年最高气温</td></tr><tr><td>气象站1</td><td>90.23</td><td>46.40</td><td>1 218.2</td><td>176.0</td><td>1.4</td><td>8.0</td><td>60</td><td>-6.3</td><td>8.8</td></tr><tr><td>气象站2</td><td>82.34</td><td>45.11</td><td>336.1</td><td>114.3</td><td>5.6</td><td>8.9</td><td>53</td><td>4.2</td><td>14.3</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>气象站n</td><td>109.02</td><td>32.43</td><td>290.8</td><td>818.6</td><td>1.3</td><td>15.8</td><td>73</td><td>11.9</td><td>21.0</td></tr></table></body></html>
+
+法进行分区。该算法是数据挖掘经典算法之一，具体不在此赘述,请参考相关文献[24-27] 0
+
+1.2.3轮廓系数聚类质量评估为评估聚类的效果,需引入评估方法来检验聚类质量。本文采用轮廓系数法（SilhouetteCoefficient），它由ROUSSEEUW在1986提出[28],用类簇内不相似度和类簇间不相似度两种指标评价聚类效果。
+
+$$
+s ( i ) = \frac { d _ { r e s t } ( i ) - d _ { s } ( i ) } { \operatorname* { m a x } [ d _ { r e s t } ( i ) , d _ { s } ( i ) ] }
+$$
+
+$$
+1 - \frac { d ( \boldsymbol { i } ) } { d _ { r e s t } ( \boldsymbol { i } ) } , \quad d ( \boldsymbol { i } ) < d _ { r e s t } ( \boldsymbol { i } )
+$$
+
+$$
+s ( i ) = 0 , d ( i ) = d _ { r e s t } ( i )
+$$
+
+$$
+\frac { d _ { r e s t } ( i ) } { d ( i ) } - 1 , \quad d ( i ) > d _ { r e s t } ( i )
+$$
+
+式中： $s ( i )$ 为轮廓系数; $d _ { r e s t } ( i )$ 为第 $i$ 个样本与其它各类簇样本之间的最小距离，即类簇间不相似度;$d _ { s } \left( i \right)$ 为样本 $i$ 与同类簇其它样本之间的平均距离，即类簇内不相似度。
+
+由式2可知， $s ( i )$ 的取值范围为 $\left[ \mathbf { \nabla } - 1 , 1 \right] , s \left( \mathbf { \nabla } i \right)$ 的值越大，趋近于1，说明样本 $\mathbf { \chi } _ { i }$ 的分类越合理；当$s ( i ) < 0$ 时,趋近于-1,说明样本 $\mathbf { \chi } _ { i }$ 的分类不合理，还有比目前分类更合理的分类；若 $s ( i )$ 近似为0，则说明样本 $i$ 在两个不同分类的边界上。某一类所有样本的 $s ( i )$ 的均值作为该类别的轮廓系数，说明该分类是否合理。
+
+1.2.4变化趋势分析方法本文先用Sen's斜率估计法分析气温数据序列的变化趋势，再用Kendall-Tau非参数检验法对变化趋势进行显著性检验。Sen's斜率估计算法的优点是抗噪性强，受异常值干扰小。Kendall-Tau 非参数检验法优点在于不需要数据序列服从一定的概率分布，允许缺测值存在,能实现显著性判断[29 -30] O
+
+为更好地反映气温序列变化的趋势，本文采用了九点二次平滑法（Savitzky-Golay平滑滤波）。其核心思想是在时域内基于局域多项式最小二乘法对序列进行拟合，该方法能起到低通滤波作用，优点是能快速地滤除噪声的同时，确保信号的形状、宽度不变[31],克服了普通滑动平均削弱过多波幅的缺点，展示出主要变化趋势。
+
+# 2结果与分析
+
+# 2.1基于 $K$ -means聚类的分区
+
+对西北地区148个气象站进行聚类分析，预估分区数 $k$ 值在2～7之间。选取不同的 $k$ 值,进行$K \cdot$ -means聚类分区，计算相应分区结果的轮廓系数，检验合理性。由图2可知，当 $k$ 分别为2、3、5、6、7时，分区结果的轮廓系数均存在负值，由此说明，在这些 $k$ 值下分区不够合理。只有 $k = 4$ 时，分区轮廓系数均大于0,较大程度的趋近于1。因此，运用$K \cdot$ -means聚类方法将西北地区划分为4个气候子区较为合理。
+
+将上述分区结果，绘制空间示意图。由图3可见，分区I主要包括新疆的北疆大部，塔城、富蕴、南疆和伊宁地区。分区ⅡI主要包括新疆北疆地区的东北部，内蒙古北部和西部，甘肃西部，青海北部柴达木、格尔木、祁连山一青海湖地区以及宁夏北部地区。分区IⅢI主要包括内蒙古中东部，甘肃中部、青海中部、宁夏中部，陕西北部。分区IV主要包括青海南部、甘肃南部、陕西延安以南地区。在空间示意图中加载我国 $8 0 0 ~ \mathrm { { \ m m } , 4 0 0 ~ \mathrm { { \ m m } , 2 0 0 ~ \mathrm { { \ m m } } } }$ 和 $5 0 ~ \mathrm { m m }$ 等降水量线，观察到 $K$ -means聚类分区与等降水量线走势非常接近，具有较好的一致性。I区大概在$5 0 ~ \mathrm { m m }$ 等降水量线以西区域，Ⅱ区位于 $5 0 ~ \mathrm { m m }$ 等降水量线与 $2 0 0 ~ \mathrm { { m m } }$ 等降水量线之间，Ⅲ区位于200$\mathbf { m } \mathbf { m }$ 等降水量线与 $4 0 0 ~ \mathrm { { m m } }$ 等降水量线之间， $\mathrm { \Delta } \mathrm { \mathrm { ~ N ~ } }$ 区则位于 $4 0 0 ~ \mathrm { { m m } }$ 等降水量线东南区域。
+
+Fig.2Contour coefficients of $K$ -means clustering with different $k$ values for meteorological stations in northwest China
+
+![](images/405052179505f8f1c6c15ed4df7e70233d89f61b80f1194c85e86721b08188d1.jpg)  
+图2西北地区气象站不同 $k$ 值 $K$ -means聚类分区的轮廓系数  
+图3西北地区气象站 $K$ -means聚类分区  
+Fig.3K-means clustering division of meteorological station in northwest China
+
+75°E 80°E 85°E 90°E 95E 100°E 105°E 110°E1 N哈巴河 A吉木乃阿勒泰  
+2 0 245 490 980km N精河乌 蔡家湖奇苏 乌鲁木齐达板城七角井 巴里塘 二连浩特苏维区库尔勒 色仓台库米什 吐鲁番 哈密 红柳河 马鬃山 额济纳湖 乌拉特中旗 满都四子王旗 朱日和  
+N0 乌 坪阿拉尔 50mm等降水量线 安 清包 N0农冷 昌眠 陶茫 崖 勒\* 阿竹 山\*榆山公 田 民 田 丰 小灶火格尔木 水萌精 县延 安川山  
+N8 100mm等降水量线 ￥ 2托托河 玛 出 鸡图例 杂 多 树 AI区站点■Ⅱ区站点 $\star$ Ⅲ区站点·IV区站点 谦 玛800mm等降水量线 泉。 康省级行政区划  
+N.00 分区I分区Ⅱ 分区Ⅲ分区IV N$\ -- 5 0 \mathrm { m m }$ 等降水量线 （204号 $\ -- 4 0 0 \mathrm { m m }$ 等降水量线 00$\ -- 2 0 0 \mathrm { m m }$ 等降水量线 $\ -- 8 0 0 \mathrm { m m }$ 等降水量线75°E 80°E 85°E 90°E 95°E 100°E 105°E 110°E
+
+# 2.2 西北地区气温年际变化特征
+
+2.2.1年平均气温、年平均最高气温、年平均最低气温变化在分区的基础上,采用面积加权平均法，建立西北地区各个子区1960—2015 年年平均气温（Tannul_ave）,年平均最高气温（Tannul_max），年平均最低气温(Tannul_min)数据序列,然后进行Sen's斜率估计，Kendall-Tau非参数检验，并运用Savitzky-Golay九点二次平滑滤波分析变化趋势（图4，表2)。
+
+观察各子区Tannul_ave,Tannul_max,Tannul_ min 的九点二次滑动平均趋势线（蓝色），1960一 2015年都呈现出明显的上升趋势，分区I至分区IV 的Tannul_ave上升速率分别达到了 $0 . 2 9 \mathrm { ~ \textdegree C }$ · $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 3 9 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 3 5 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ $0 . 2 4 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } }$ ;Tannul_max上升速率分别达到 $0 . 2 2 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 2 9 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 2 8 \mathrm { ~ \% ~ }$ $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 2 6 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ ;Tannul_min上升速率 分别达到 $0 . 4 4 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 5 4 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ,$ $0 . 4 2 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 } , 0 . 2 6 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ ；上升速率 全部通过0.01置信水平检验。Tannul_min的上升 速率大于Tannul_ave和Tannul_max上升速率。
+
+注意到在图4中九点二次滑动平均趋势线的尾部存在不同程度的气温上升趋缓的现象（斜率衰减）。进一步观察到，变化趋势趋缓的开始时间在1998 年左右。为定量分析这一现象，本文将西北地区各个分区1960—2015年气温数据序列分成两部分：1960—1997年和1998—2015年。分别对两部分进行变化速率分析和趋势拟合，如图4和表2所示。
+
+由表2可以看出，在1960一1997年，分区I的年平均气温,年平均最低气温显著上升 $( 0 . 2 0 8 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ·（ $1 0 \mathrm { ~ a } ) \textsuperscript { - 1 } , 0 . 3 5 1 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a } ) \textsuperscript { - 1 } ]$ ,均通过0.05水平的置信检验，但在1998—2015年，该分区年平均气温，年平均最高气温的变化速率转变为负值，即转变为下降趋势 $\left( \mathbf { \varepsilon } - 0 . 0 1 5 \mathrm {  ~ \mathcal ~ { C ~ } ~ } \cdot \left( 1 0 \mathrm {  ~ a ~ } \right) ^ { - 1 } \right.$ ， $- 0 . 0 2 3 \mathrm { ~ } \mathrm { ~ \mathcal { C } ~ }$ ：（204号 $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } \}$ 。分区I的年平均最低温度在1998—2015 年的变化速率较其1960—1997年之间的显著上升的变化速率 $\left[ 0 . 3 5 1 \mathrm { ~ \textdegree ~ } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } \right]$ ,存在增速减缓,升温速率下降为不显著的 $0 . 0 9 3 \mathrm { ~ \textdegree ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ 。
+
+分区ⅡI与分区I情形相似，年平均气温和年平均最高气温由上升趋势 $\left[ 0 . 2 9 1 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ \textmu ~ ) ~ } ^ { - 1 } \right.$ $0 . 1 3 8 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } } ]$ 转变为下降趋势 $\left[ \mathbf { \Phi } - 0 . 0 3 7 \mathrm { ~ \mathcal { C } ~ } \right]$ ·$( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ } - 1 } , - 0 . 0 6 6 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ } - 1 } \big ]$ ,年平均最低气温增速从显著上升的 $0 . 4 6 6 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ ,减缓为不显著的 $0 . 0 2 5 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 。
+
+分区III在1960—1997年平均气温和年平均最低气温显著上升 $\left[ 0 . 2 0 1 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) \right. ^ { - 1 }$ $0 . 2 8 1 \mathrm { ~ \textdegree C }$ ·（204 $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } \mathrm { ~ . ~ }$ 1,通过0.05水平的置信检验，在1998—2015年，该区域的年平均最高气温由上升趋势$\left[ 0 . 1 1 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ 1 ~ } } \right]$ 转变为下降趋势［-0.075$\mathrm { ~ \mathcal ~ { ~ C ~ } ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ,而年平均气温,年平均最低气温则出现了减缓，上升速率由显著上升转为不显著上升。
+
+分区IV在1960一1997年，年平均气温,年平均最高气温和年平均最低气温都是上升的，其中年最低气温上升速率 $0 . 1 1 7 \mathrm { ~ \textcircled { ~ } C ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ,通过了0.05水平的置信检验。在1998—2015年期间，该区域的年平均气温和年平均最高气温均由上升趋势$\left[ 0 . 0 8 8 \mathrm { ~ \% ~ } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } , 0 . 0 6 3 \mathrm { ~ \% ~ } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } \right]$ 转变为下降趋势 $\left[ { \bf \rho } - 0 . 0 9 3 { \bf \rho } \mathrm { \mathcal { C } } { \bf \rho } \cdot \left( 1 0 { \bf \rho } { \bf { a } } \right) ^ { - 1 } \right.$ ， $- 0 . 1 1 \mathrm { ~ \textdegree C }$ ·$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } \mathrm { ~ . ~ }$ 1，而年平均最低气温的升温趋势则出现了减缓,升温速率由显著上升的 $0 . 1 1 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 衰减为不显著的 $0 . 0 2 6 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ 。
+
+综上，西北地区1960—2015年总体上气温是上升的，升温快的区域是分区ⅡI和分区 $\mathrm { I I I }$ 。但是在西北地区气温上升的趋势中，气温变化速率有波动，从1998年开始，大部分地区气温上升速率出现了减缓或转为下降。本文上述结论与近几年一些学者就我国部分地区存在“变暖停滞”或“变暖减缓”的研究结论相符合[32-34]。丁一汇等[35]在 2014 年发现,从1997年以来中国年平均气温持续偏高，但最近 $1 0 \sim$ 15a升温趋缓。
+
+2.2.2西北地区季节气温变化西北地区存在变暖减缓趋势，这种趋势在不同季节是否变化一致，需进一步分析。本节将对比1960—1997和1998—2015 两个时期(变暖停滞前，后)西北地区季节气温的变化。春季为当年的3\~5月;夏季为6\~8月；秋季为 $9 \sim 1 1$ 月；冬季为当年12月和次年的1～2月。各分区的春季平均气温（TSprin_ave），夏季平均气温（TSummer_ave）,秋季平均气温（TAutumn_ave），冬季平均气温(TWinter_ave)变化趋势和变化速率如图5，表3所示。
+
+1960—1997年变暖趋缓之前，西北各分区4季的平均气温都呈上升趋势,秋冬季节平均气温上升速率明显快于春夏季节；分区I，分区Ⅱ和分区III
+
+![](images/3a2d0177fa4d216f9928ed1ac0901e5ed96ba7cd7982cff03c8289a53af181a3.jpg)  
+图4西北地区不同子区年平均气温、年平均最高气温、年平均最低气温年际变化特征  
+Fig.4InteranualvarationchracteristicsofTannulave,Tannulmax,Tannulminidiferentsub-regionsoforthwestChin
+
+表2西北地区不同子区气温变化速率  
+Tab.2Temperature change rate in different sub-regions of northwest China   
+
+<html><body><table><tr><td rowspan="2">子区</td><td rowspan="2">时间段</td><td rowspan="2">Tannul_ave /C· (10 a) -1</td><td rowspan="2">Tannul_max /℃·(10 a)-1</td><td rowspan="2">Tannul_min /℃·(10 a)-1</td><td rowspan="2">子区</td><td rowspan="2">时间段</td><td rowspan="2">Tannul_ave /℃·(10 a)-1</td><td rowspan="2">Tannul_max /℃C·(10 a)-1</td><td rowspan="2">Tannul_min ℃C·(10a)-1</td></tr><tr><td></td></tr><tr><td>I</td><td>1960—2015</td><td>0.29 **</td><td>0.22**</td><td>0.44**</td><td>IⅢI</td><td>1960—2015</td><td>0.35**</td><td>0.28**</td><td>0.42**</td></tr><tr><td rowspan="4"></td><td>1960—1997</td><td>0.208*</td><td>0.012</td><td>0.351 *</td><td></td><td>1960—1997</td><td>0.201*</td><td>0.11</td><td>0.281*</td></tr><tr><td>1998- -2015</td><td>-0.015</td><td>-0.023</td><td>0.093</td><td></td><td>1998—2015</td><td>0.063</td><td>-0.075</td><td>0.286</td></tr><tr><td>1960- -2015</td><td>0.39 **</td><td>0.29 **</td><td>0.54**</td><td>IV</td><td>1960—2015</td><td>0.24**</td><td>0.26**</td><td>0.26**</td></tr><tr><td>1960—1997</td><td>0.291*</td><td>0.138</td><td>0.466 *</td><td></td><td>1960—1997</td><td>0.088</td><td>0.063</td><td>0.117 *</td></tr><tr><td></td><td>1998—2015</td><td>-0.037</td><td>-0.066</td><td>0.025</td><td></td><td>1998—2015</td><td>-0.093</td><td>-0.11</td><td>0.026</td></tr></table></body></html>
+
+注：\*\*通过了0.01水平置信检验， $^ *$ 表示通过了0.05水平置信检验
+
+(a)分区I (b)分区Ⅱ15 +春 24 + 夏 +春 一夏  
+12二96 平均 中 中 / 线平均 2 1 22 平均 W1 L T 98 w 21全 / 1 7 1 7 20 516 19国宝昌福图国高调员公司 20 国国昌经图国路员食员察 国国昌图安图宴员餐 国蜜蛋路图城图员部新 三 7 茶 A 19876 图中 江7 小 A 有 -116 4 13员 宝国昌图食食员 黄路员 1 12020202020年份 年份 年份 年份(c)分区Ⅲ (d)分区IV9 +春 19 夏 11 +春 21 +夏  
+/本 8 一线性平均 ℃ 18 线平均 10 -· 20 线平均7 1 17 心 J A6 + W 1 中 L 士 A 学 F + 四本 AAri 武 22M T2 V4 ? ? 15 P国强国调 “宝富鑫宝食 7 17国昌楼图蜜国家赛食员 国四图员7 性拟合 11 线性拟合 0 二线性拟合  
+/本 6 9点滑动平均 6 9点滑动平均 10 9点滑动平均 ℃ -1 9点滑动平均5 T W A 78 Y A 士 ↑ 温 -2 产T A F 1 A A 女 本 -34 全 盛 47 2 -5 T3 -11 女 A金国昌昌鑫咨图集宾员 12 国昌昌鑫图国食食员委 鑫宝图国宴宾员 h 广省鑫食宾年份 年份 年份 年份
+
+表3西北地区不同子区季节平均气温变化速率  
+Tab.3Seasonal average temperature change rate in different sub-regions of northwest China   
+
+<html><body><table><tr><td>分区</td><td>时间段</td><td>TSprin_ave /C·(10a)-1</td><td>TSummer_ave /℃·(10a)-1</td><td>TAutumn_ave /℃·(10a)-1</td><td>TWinter_ave /℃·(10a)-1</td></tr><tr><td>I</td><td>1960—1997</td><td>0.031</td><td>0.069</td><td>0.231 *</td><td>0.506 *</td></tr><tr><td></td><td>1998—2015</td><td>0.534</td><td>0.104</td><td>-0.007</td><td>-0.644</td></tr><tr><td>ⅡI</td><td>1960—1997</td><td>0.129</td><td>0.084</td><td>0.265 *</td><td>0.675 *</td></tr><tr><td></td><td>1998-2015</td><td>0.297</td><td>-0.063</td><td>-0.019</td><td>-0.312</td></tr><tr><td>IⅢI</td><td>1960- -1997</td><td>0.061</td><td>0.028</td><td>0.213 *</td><td>0.464 *</td></tr><tr><td></td><td>1998-2015</td><td>0.232</td><td>0.001</td><td>0.052</td><td>-0.059</td></tr><tr><td>IV</td><td>1960-1997</td><td>0.013</td><td>0.004</td><td>0.133</td><td>0.181</td></tr><tr><td></td><td>1998-2015</td><td>0.046</td><td>-0.162</td><td>0.008</td><td>-0.282</td></tr></table></body></html>
+
+注： $* *$ 通过了0.01水平置信检验， $*$ 表示通过了0.05水平置信检验
+
+的秋、冬季节平均气温上升速率通过了0.05水平的
+
+置信检验,并且分区ⅡI的秋冬季节平均气温上升速率快于其它分区。1998—2015 年变暖趋缓期，分区I的春夏季节平均气温继续上升，且上升速率稍大于1960—1997年[春季 $0 . 0 3 1 \mathrm { ~ \textdegree ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 } .$ 上升到 $0 . \ 5 3 4 \ \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ ~ a ~ ) ~ } ^ { - 1 }$ ，夏季 $0 . \ 0 6 9 \ \mathrm { ~ \textdegree ~ }$ ：$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ 上升到 $0 . 1 0 4 \mathrm { ~ \textdegree ~ { ~ } ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ ,但在秋冬季节，平均气温由显著上升趋势转为下降趋势［秋季$0 . 2 3 1 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 下降到 $- 0 . 0 0 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 冬季 $0 . \ 5 0 6 \ \mathrm { ~ \textcircled { ~ C ~ } ~ } \cdot \ ( \mathrm { ~ 1 0 ~ \mathrm { ~ a ~ } ~ } ) \ ^ { - 1 }$ 下降到 $- \ : 0 . 6 4 4 \ : \mathrm { ~ \mathcal ~ { ~ C ~ } ~ }$ ·$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ 。分区 $\mathrm { I I }$ 只有春季平均气温在上升$\left[ 0 . 1 2 9 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \right. .$ 上升到 $0 . 2 9 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ，夏秋冬季节都由显著上升趋势转为下降趋势［夏季$0 . 0 8 4 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } }$ 下降到 $- 0 . 0 6 3 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 秋季 $0 . \ 2 6 5 \ \mathrm { ~ \textcircled { C } ~ } \cdot \mathrm { ~ \left( ~ 1 0 ~ \mathrm { ~ a ~ } \right) ~ } ^ { - 1 }$ 下降到 $- \ 0 . \ 0 1 9 \ \mathrm { ~ \textdegree ~ }$ ：$\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,冬季 $0 . 6 7 5 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 下降到-0.312$\mathrm { ~ \textit ~ { ~ C ~ } ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ \textit ~ { ~ a ~ } ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ 。
+
+分区II春季平均气温上升速率较1960—1997年有所增加 $\left[ 0 . 0 6 1 \mathrm { ~ ‰ ~ } \right] \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ 上升到 $0 . 2 3 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ·（20 $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ ,但夏、秋平均气温上升速率减缓[夏季$0 . 0 2 8 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ 下降到 $0 . 0 0 1 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } }$ ,秋季 $0 . \ 2 1 3 \ \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ ~ a ~ ) ~ } ^ { \mathrm { ~ - ~ 1 ~ } }$ 下降到 $0 . \ 0 5 2 \ \mathrm { ~ \textdegree ~ }$ ·（20 $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ ,冬季平均气温则由显著上升趋势转为下降趋势冬季 $\left[ 0 . 4 6 4 \mathrm { ~ \textdegree C ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) \right. ^ { - 1 }$ 下降到 $0 . 0 5 9 \mathrm { ~ \textdegree C }$ ·（20 $( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ 。分区IV的春季平均气温上升速率较1960—1997年有增加 $\left[ 0 . 0 1 3 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 } \right.$ 上升到$0 . 0 4 6 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ 1 ~ } } ]$ ,秋季平均气温上升速率减缓$\left[ 0 . 1 3 3 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \right.$ 下降到 $0 . 0 0 8 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ 夏冬季节平均气温由上升趋势转变为下降趋势「夏季 $0 . 0 0 4 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ 下降到 $0 . 1 6 2 \mathrm { ~ \textcircled { ~ } C ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ，冬季 $0 . \ 1 8 1 \ \mathrm { ~ \textcircled ~ { ~ C ~ } ~ } \cdot \mathrm { ~ \left( ~ 1 0 ~ \mathrm { ~ a ~ } \right) ~ } ^ { - 1 }$ 下降到0.282℃·$\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 } \}$ 0
+
+各分区的春季平均最高气温（TSprin_ave_max），夏季平均最高气温( $T S u m m e r \_ a v e \_ m a x \_$ ，秋季平均最高气温( $\ T A u t u m n \_ a v e \_ m a x \$ ,冬季平均最高气温 $( T W i n t e r \_ a v e \_ m a x )$ 变化趋势和变化速率如图6,表4所示。分区I在1960—1997年春夏季节平均最高气温有小的下降趋势 $[ \mathrm { ~ - ~ } 0 . \mathrm { ~ } 0 9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ：(10 a)-1, $- 0 . 0 1 8 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ \mathrm { ~ a ~ } ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ,秋冬季节的平均最高气温均呈上升趋势 $\left[ 0 . 2 1 5 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 } \right.$ ，$0 . 3 0 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ；但在1998—2015 年该区域春夏季节平均最高气温转为上升趋势 $[ 0 . 6 1 5 ^ { \mathrm { ~ \circ ~ } } \mathrm { C }$ ：$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } , 0 . 0 5 7 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ ,秋冬季节平均最高气温转则为下降趋势 $\left[ { \bf \rho } - 0 . 1 3 9 { \bf \rho } \right] \mathrm {  ~ \cdot ~ } \left( 1 0 \mathrm {  ~ a ~ } \right) ^ { - 1 }$ ，$- 0 . 6 9 4 \mathrm { ~ } \mathrm { ~ \textcircled ~ { ~ C ~ } ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { \mathrm { ~ - ~ } 1 } \mathrm { ~ ] ~ }$ 。分区ⅡI在1960—1997年春季平均最高气温是下降趋势，在1998—2015年转为上升趋势 $\left[ { \bf \Omega } - 0 . 0 6 9 { \bf \Omega } { \bf \mathcal { C } } { \bf \Omega } \cdot \left( 1 0 { \bf \Omega } { \bf a } \right) ^ { - 1 } \right.$ 上升到0.428$\mathrm { ~ \mathcal ~ { ~ C ~ } ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ;夏季平均最高气温持续下降,速率由1960—1997年的 $- 0 . 0 1 4 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 增加到$- 0 . 1 6 2 \mathrm { ~ \% ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,秋季最高气温上升速率由$0 . 1 8 7 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 增加到 $0 . 2 0 5 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ；冬季的平均最高气温由1960—1997年的显著上升趋势转为下降趋势 $\left[ 0 . \ 4 5 5 \ \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ \ a ~ ) ~ } ^ { - 1 } \right.$ 下降到$- 0 . 2 5 5 \mathrm { ~ \textcircled { C } ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { \mathrm { ~ - ~ 1 ~ } } \big ]$ 。
+
+分区III春季最高气温由1960—1997年的下降趋势在1998—2015年转变为上升趋势 $\left[ { \begin{array} { l l l } { - } & { 0 . } & { 0 7 } \end{array} } \right]$ $\mathcal { C } \cdot ( 1 0 \mathrm { ~ a ~ } ) \ ^ { - 1 }$ 上升到 $0 . 1 6 2 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ 。夏季最高气温1960—1997年和1998—2015 年这两个阶段都呈下降趋势，下降速率由 $- \ 0 . \ 0 2 4 \ \mathrm { ~ \textcircled ~ { ~ C ~ } ~ }$ ：（ $\mathrm { ~ \gamma ~ } _ { 1 0 \mathrm { ~ a ~ } } \mathrm { ~ \gamma ~ } ^ { - 1 }$ 增加到 $- 0 . 0 3 2 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ，秋冬季节
+
+(a)分区I (b)分区Ⅱ线性拟合 0/ 31 性拟合 2/ 118 性拟合 0/ 3130 性拟合动 专 1 S H 中 L三 ? F1615 11 nA284B 1 14 26102 2 N 22222+ 均 2101 均 均 / 均A A ↑ / 办 15 415 41B M 4 T A 的 州 1 M T 45678 家 14 B12 A 邮宝蜜图赛美宾购 鑫宝昌客图集食员委 宝宝安客富寓高宴宴年份 年份 年份(c)分区Ⅲ (d)分区IV  
+15 均 24 . 均 98 均 + 均. A A花 A 牛 二 十 福 F 4 A 1 诊 中 五 YLT A 24Y + V 1 1 √2311 国蛋四5国 广宝餐食食 员 宝图食16 →秋 3 性拟合 18 →秋 8 ← 冬  
+4B 线均 /本 21 9点滑动平均 线性均 / 76 线性均井 A A 01 21 1514 4 中 2 544 开 地 321 2 13↑ -3 12 19 廣国街图员 096T 6 国图图国宝赛食员委 国国昌图路图员委 国国宝宝资宴员9年份 年份 年份 年份
+
+表4西北地区不同子区季节平均最高气温变化速率  
+Tab.4Seasonal average maximum temperature change rate in diferent sub-regions of northwest China   
+
+<html><body><table><tr><td>分区</td><td>时间段</td><td>TSprin_ave_max /℃·(10 a)-1</td><td>TSummer_ave_max /℃·(10a)-1</td><td>TAutumn_ave_max /℃·(10a)-1</td><td>TWinter_ave_max /℃·(10a)-1</td></tr><tr><td>I</td><td>1960—1997</td><td>-0.095</td><td>-0.018</td><td>0.215</td><td>0.307</td></tr><tr><td rowspan="3">II</td><td>1998-2015</td><td>0.615</td><td>0.057</td><td>-0.139</td><td>- 0. 694</td></tr><tr><td>1960—1997</td><td>-0.069</td><td>-0.014</td><td>0.187</td><td>0.455 *</td></tr><tr><td>1998-2015</td><td>0.428</td><td>-0.162</td><td>0.205</td><td>-0.255</td></tr><tr><td>IⅢI</td><td>1960—1997</td><td>-0.1</td><td>-0.024</td><td>0.276 *</td><td>0.286</td></tr><tr><td rowspan="3">IV</td><td>1998—2015</td><td>0.239</td><td>-0.032</td><td>- 0.196</td><td>-0.224</td></tr><tr><td>1960—1997</td><td>-0.07</td><td>-0.019</td><td>0.275 *</td><td>0.071</td></tr><tr><td>1998-2015</td><td>0.162</td><td>-0.057</td><td>-0.19</td><td>-0.298</td></tr></table></body></html>
+
+注：\*\*通过了0.01水平置信检验，\*表示通过了0.05水平置信检验
+
+平均最高气温由1960—1997年上升趋势转为1998—2015年下降趋势[秋季 $0 . 2 7 6 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 下降到 $- 0 . \ 1 9 6 \ \mathrm { ~ \textcircled ~ { ~ C ~ } ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ \ { ~ a ~ } ~ ) ~ } ^ { \mathrm { ~ - ~ 1 ~ } }$ ,冬季 $0 . 2 8 6 \mathrm { ~ \textdegree C }$ ：（10a）-1下降到 $- 0 . 2 2 4 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ 。分区IV各季节平均最高气温与分区IⅢI的变化情形基本一致，只是变化速率不同，在此不再赘述。
+
+各分区的春季平均最低气温（TSprin_ave_min），夏季平均最低气温 $( T S u m m e r \_ a v e \_ m i n )$ ,秋季平均最低气温（TAutumn_ave_min），冬季平均最低气温(TWinter_ave_min)变化趋势和变化速率如图7，表5所示。分区I在1960一1997年4季的平均最低气温都呈上升趋势,其中夏秋冬季是显著上升,冬季上升速率远高于其它季节［春季 $0 . 1 8 1 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } }$ 夏季 $0 . 2 1 4 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - 1 ~ } }$ ,秋季 $0 . 3 2 5 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 冬季 $0 . 6 9 8 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ 。在1998—2015年该区域春季最低气温继续上升，速率达到 $0 . 4 5 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ：二 $\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,但夏秋季节平均最低气温的上升速率减缓，分别减少至 $0 . 1 2 5 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ \ a ~ ) ~ } ^ { - 1 } , 0 . 2 9 \mathrm { ~ \% ~ }$ （20$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ ;冬季平均最低气温转变为下降趋势（20 $\left[ 0 . 6 9 8 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 } \right.$ 下降到 $- 0 . 5 2 \mathrm { ~ \textdegree ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ]$ 。
+
+(a)分区I (b)分区Ⅱ  
+8 +春 17 夏 4+春 17 1 夏线平均 线平均 T /本 32 线平均 4 16 线性平均以 中 A T T T 1 AL T 男 2 L 15 以 WY 承 W A 0 1 4 ↓ V 国 无 1 BAN1 F 14 d -1 13 A T 福 V 心13 2线性拟合 91011213 线性拟合 4 二线性拟合 点滑动性拟合0/ 3 -129点滑动平均 A 点滑动平 本 9点滑动平均 T 床本  
+3 21 加 AAA h 1 生 ? 2 10 ? A -162 71819 欢 -1 地 ↑ -18 地 +  
+0 X  
+Y 富宝宫客窗食宴島食宴 鑫宝图宝食商 2 国省富鑫富高直 0 富雲富窖書客宴宴宾齋年份 年份(c)分区Ⅲ (d)分区IV  
+2 +春 13 夏 5 春 夏  
+1012 A 士 T / 432 打 线性平均3  
+-1 T1 A I T2  
+4 国省昌客国宾调食 1 ！ 1 12 国宝图图D  
+2 秋 ←冬 6 秋 -6 ←冬. 线 / 5 线平均 78 线平均  
+12 0 药 一 W ↑ ↑ -16 中 L 43 AA W E ↑ 9 W4 F VY -10-18 2  
+3T年份 年份 年份 年份
+
+表5西北地区不同子区季节平均最低气温变化速率  
+Tab.5Seasonal mean minimum temperature change rate in different sub-regions of northwest China   
+
+<html><body><table><tr><td>分区</td><td>时间段</td><td>TSprin_ave_min /℃·(10 a)-1</td><td>TSummer_ave_min n /℃·(10 a)-1</td><td>TAutumn_ave_min n /℃·(10a)-1</td><td>TWinter_ave_min n /℃·(10a)-1</td></tr><tr><td>I</td><td>1960—1997</td><td>0.181</td><td>0.214 *</td><td>0.325 *</td><td>0.698 *</td></tr><tr><td rowspan="2">II</td><td>1998—2015</td><td>0.452</td><td>0.125</td><td>0.29</td><td>-0.52</td></tr><tr><td>1960—1997</td><td>0.328 *</td><td>0.3 *</td><td>0.371 *</td><td>0.856*</td></tr><tr><td rowspan="2">Ⅲ</td><td>1998—2015</td><td>0.155</td><td>0.1</td><td>0.242</td><td>-0.235</td></tr><tr><td>1960—1997</td><td>0.2*</td><td>0.151</td><td>0.175</td><td>0.621*</td></tr><tr><td rowspan="2">IV</td><td>1998—2015</td><td>0.259</td><td>0.175</td><td>0.403</td><td>0.228</td></tr><tr><td>1960—1997</td><td>0.093</td><td>0.047</td><td>0.048</td><td>0.296 *</td></tr><tr><td></td><td>1998—2015</td><td>0.1</td><td>-0.037</td><td>0.247</td><td>-0.162</td></tr></table></body></html>
+
+注： $* *$ 通过了0.01水平置信检验， $*$ 表示通过了0.05水平置信检验
+
+分区ⅡI在1960—1997年4季的平均最低气温都呈显著上升趋势[春季 $0 . 3 2 8 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ ,夏季0.3$\mathrm { ~ \textit ~ { ~ C ~ } ~ } \cdot \mathrm { ~ } ( \mathrm { ~ 1 0 ~ } \mathrm { ~ a ~ } ) \textsuperscript { - 1 }$ ，秋季 $0 . \ 3 7 1 \ \mathrm { ~ \textcircled ~ { ~ C ~ } ~ } \cdot \mathrm { ~ \left( ~ 1 0 ~ \mathrm { ~ a ~ } \right) ~ } ^ { - 1 }$ ，冬季$0 . 8 5 6 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ，全部通过0.05水平置信检验，然而在1998—2015年春夏秋3季最低气温上升趋势减缓，「春季 $0 . \ 1 5 5 \ \mathrm { ~ \textcircled ~ { ~ C ~ } ~ } \cdot \ ( \mathrm { ~ \ 1 0 ~ \ a ~ } ) \ ^ { \mathrm { ~ - ~ 1 ~ } }$ ，夏季$0 . 1 0 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ,秋季 $0 . 2 4 2 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ ] ~ }$ ，冬季则出现了下降趋势 $- 0 . 2 3 5 \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { \mathrm { ~ - ~ } 1 }$ 。
+
+分区III在1960—1997年4季最低气温呈上升趋势，其中春季和冬季是显著上升。在1998一2015年该区域春夏秋3季的最低气温继续是上升趋势，上升速率较之前增加，分别达到0.259 $\mathrm { { ^ \circ C } }$ ：(10 a)-1,0.175 ℃·（10 a）-1,0.403 $\mathrm { { ^ \circ C } }$ ·（20 $\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,但冬季最低气温上升趋势减缓，由0.621$\mathcal { C } \cdot ( 1 0 \mathrm { ~ a ~ } ) \ ^ { - 1 }$ 减少到 $0 . 2 2 8 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ 。分区IV在1960—1997年4季最低气温呈上升趋势,其中冬季是显著上升，上升速率分别为 $0 . \ 0 9 3 \ \mathrm { ~ \textdegree C }$ ：(10a)-1,0.047 ℃·（10 a）-1，0.048 $\mathrm { { ^ \circ C } }$ ：$( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 } , 0 . 2 9 6 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ 。1998—2015 年该区域春秋两季继续保持上升趋势且速率较之前有所增加,达到 $0 . 1 \mathrm { ~ \textbar { ~ c ~ } ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 } , 0 . 2 4 7 \mathrm { ~ \textbar { ~ c ~ } ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ 车但夏季和冬季最低气温由之前的上升趋势转变为下降趋势,下降速率分别是 $- 0 . 0 3 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ \mathrm { ~ a ~ } ) ~ } ^ { - 1 }$ $- 0 . 1 6 2 \mathrm { ~ \% ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 } ,$
+
+综上，西北地区1960—2015年季节年平均气温，年平均最高气温，年平均最低气温对变暖减缓的响应并不一致，多数区域1998—2015年冬季的气温出现了升温减缓甚至是下降趋势。国内学者曾撰文指出这一现象,中国最近 $1 0 \sim 1 5 \mathrm { ~ a ~ }$ 升温趋缓,尤其是冬季，并指出全球气候变暖停滞期主要影响了中国东北地区,其次是新疆北部和内蒙古地区[35-36] 。
+
+# 3结论
+
+本文在气候变暖减缓的背景下，以中国西北地区148个气象站的日气温数据为基础，通过K-means聚类分区，开展中国西北地区气温变化特征分析，得出以下结论：
+
+(1)K-means聚类法将西北地区分为4个子区较为合理，不同子区分界线与我国等降水量线和地形分布有较好的一致性。相比较传统分区方法，K-means算法简单高效，为研究工作提供了不同的视角。
+
+(2)西北地区1960—2015年气温保持了持续的显著上升。从升温的速率来看，西北地区年均最低气温上升速率高于年均气温和年均最高气温。从空间的角度来看，包括新疆北疆地区的东北部，内蒙古北部、西部中东部,甘肃中部、西部,青海北部、中部，宁夏中部、北部地区以及陕西北部是升温最快的区域。
+
+(3)虽然西北地区气温总体是上升趋势，但在时间上变化速率并不均匀一致。从1998 年开始，西北地区绝大部分地区均出现变暖减缓现象，以平均气温和最低气温最为突出，部分地区出现了下降趋势。空间上，新疆北疆地区的东北部，内蒙古北部和西部，甘肃西部，青海北部柴达木、格尔木、祁连山一青海湖地区以及宁夏北部地区的平均气温和最低气温下降速率最快，变暖停滞前后的速率差分别达到了 $0 . 2 5 4 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 } , 0 . 4 4 1 \mathrm { ~ \% ~ } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ ，分区I次之，新疆北疆大部，塔城、富蕴、南疆和伊宁地区变暖停滞前后的速率差分别为 $0 . \ 1 9 3 \ \mathrm { ~ \textdegree C }$ ：$\left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } , 0 . 2 5 8 \mathrm { ~ \% ~ } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } ,$ 。
+
+(4)西北地区各个分区季节气温与年际气温变化趋势并不一致，但总体上1998—2015年冬季是增温幅度最小的季节，多数子区冬季的平均气温、最高气温、最低气温在此期间都存在升温趋势减缓，甚至转为下降趋势。由此也说明变暖减缓在西北地区不同季节的响应是不同的。
+
+通过对照，本文分析得出的变暖停滞年份和变化趋势结论与国内外相关研究成果具有一致性，同时本文结论从不同空间尺度丰富了对该地区气温变化的认识，为进一步认识该区域气温变化规律提供帮助。本文选取的数据时间序列为50余年，分析可能存在不确定性。科学界对气温上升减缓的原因及最终定性还存有争议，普遍的观点认为在碳排放没有减少的情况下，近些年气温上升减缓并不意味着气候变暖已经结束。因此，仍有大量工作待深入研究。
+
+# 参考文献(References）：
+
+[1]赵宗慈,罗勇,王绍武,等.全球变暖中的科学问题[J].气象与 环境学报,2015,（1）:1-5.［ZHAO Zongci,LUO Yong,WANG Shaowu,et al. Science issues on global warming[J]. Journal of Meteorology and Environment,2015,（1）:1-5.]   
+[2］王绍武.气候变暖停滞的再分析［J].气候变化研究进展, 2014,（6）:464.[WANG Shaowu.Reanalysis of climate change stagnation[J].Climate Change Research,2014,（6） :464.]   
+[3］宋斌,智协飞,胡耀兴.全球变暖停滞的形成机制研究进展 [J].大气科学学报,2015,38（2）：145-154.［SONGBin，ZHI Xiefei,HU Yaoxing.A review of recent studies on global warming hiatus[J]. Transactions of Atmospheric Sciences,2015,38（2）： 145 -154.]   
+[4] CARTER B.There is a problem with global warming..It stopped in 1998[N].The Telegraph,2006-4-9(9).   
+[5] EASTERLING D R,WEHNER M F.Is the climate warming or cooling？[J].Geophysical Research Letters,2009,36（8）:262- 275.   
+[6] FRANZKE CLE.Warming trends：Nonlinear climate change[J]. Nature Climate Change,2014,4(6）:423-424.   
+[7]FYFE JC,GILLETT N P.Recent observed and simulated warming [J].Nature Climate Change,2014,4(3）:150 -151.   
+[8] LOVEJOY S.Return periods of global climate fluctuations and the pause[J].Geophysical Research Letters,2014,41（13）:4704- 4710.   
+[9] MORELLO L,ABBOTT A,BUTLER D,et al.365 days:2014 in science[J].Nature News,2014,516(7531):300.   
+[10］葛全胜,王芳,王绍武,等.对全球变暖认识的七个问题的确定 与不确定性[J].中国人口.资源与环境,2014,（1)：1-6.［GE Quansheng,WANG Fang,WANG Shaowu,et al.Certainty and un
+
+certainty in global warming studies［J].China Population,Resources and Environment,2014,（1):1-6.]
+
+[11」苏京志，温敏，丁一汇，等.全球变暖趋缓研究进展[J」.大气科学，2016，（6):1143-1153.SUJingzhi,WENMin，DINGYi-hui,et al.Hiatus of global warming：Areview[J]. Chinese Journalof Atmospheric Sciences,2016,(6):1143-1153.]
+
+[12］王绍武,罗勇,赵宗慈,等.对变暖停滞的思考[J].气候变化研 究进展,2014,（4）:303－306.[WANG Shaowu,LUO Yong, ZHAO Zongci,et al.Pause for thought[J]. Climate Change Research,2014,（4) :303 -306.]   
+[13］龙爱华,邓铭江,谢蕾,等.气候变化下新疆及咸海流域河川径 流演变及适应性对策分析[J].干旱区地理,2012,35（3）： 377-387.[LONG Aihua,DENG Mingjiang,XIE Lei,et al.Exploring analysis on the adaptive countermeasures to water resources evolvement under the climate change in Xinjiang and Aral Sea Basin[J].Arid Land Geography,2012,35(3）:377-387.]   
+[14］王国亚,沈永平,秦大河.1860—2005 年伊塞克湖水位波动与 区域气候水文变化的关系[J].冰川冻土,2006,28(6):854- 860.[ WANG Guoya,SHEN Yongping,QIN Dahe. Issyk Kul Lake level fluctuation during 186O—2005 and its relation with regional climatic and hydrological changes[J].Journal of Glaciology and Geocryology,2006,28(6）:854-860.]   
+[15］ZBIGNIEWW,KUNDZEWICZ.全球变暖导致洪水风险增 加——长江洪水前景分析[J].湖泊科学,2003,15（Z1)：155- 165.[ZBIGNIEW W.KUNDZEWICZ.Flood risk growth under global hange:Yangtze floods in perspective[J]. Journal of Lake Sciences,2003,15(Z1） :155 -165.]   
+[16］施雅风,赵井东. $4 0 \sim 3 0 ~ \mathrm { k a }$ BP 中国特殊暖湿气候与环境的发 现与研究过程的回顾[J].冰川冻土,2009,31（1):1-10.[SHI Yafeng,ZHAO Jindong.The special warm-humid climate and environment in china during $4 0 \sim 3 0 ~ \mathrm { k a }$ BP: Discovery and review[J]. Journal of Glaciologyand Geocryology,2009,31（1):1-10.]   
+[17］沈永平,王国亚,邵春.塔里木河流域冰川洪水对全球变暖的 响应[J].气候变化研究进展,2007,3（s1)：51-56.[SHEN Yongping,WANG Guoya,SHAO Chun. Response of glacier flash flood to global warming in Tarim River Basin[J].Advances in Climate Change Research,2007,3（s1）:51-56.]   
+[18］冯克鹏,田军仓.近53a宁夏地区多尺度干旱特征分析[J].灌 溉排水学报,2016,（2）:50－58.［FENG Kepeng,TIAN Juncang.Analysis of multi-scale drought characteristics in Ningxia in recent 53 years[J].Journal of Irrigation and Drainage,2016,（2）： 50-58.]   
+[19］丁一汇.“暖冬"渐行渐远全球变暖暂时停滞了吗[J].今日科 苑,2011,(24）:19-22.[DING Yihui.Is global warming stalling as the“warm winter”recedes[J].Modern Science,2011,（24）： 19 -22.]   
+[20]WANG XL,WEN QH,WU Y.Penalized maximal $t$ test for detecting undocumented mean change in climate data series[J]. Journal of Applied Meteorology & Climatology,2007,46(6）:916-931.
+
+[21]ZHANGX,AGUILARE,SENSOYS,etal.Trendsin MiddleEast climate extreme indices from 1950 to 2003[J].Journal of Geophysical Research Atmospheres,2005,110(D22）:3159-3172.
+
+[22］张高杰，何金海，周自江，等.RHtest方法对我国降水资料的均一 性检验试验［J].气象科技,2012，40（6）：914-921.［ZHANG Gaojie,HE Jinmei,ZHOU Zijiang,etal.Homogeneity study of precipitation data over China using RHtest method[J].Meteorological Science and Technology,2012,40(6):914-921.]
+
+[23］张高杰，曹丽娟,李亚丽.均一性对西北五省气温变化特征影响分析[J].农业灾害研究，2013,3（z1）：27-32.［ZHANGGaojie,CAO Lijuan,LI Yali.Analysis of homogeneity impact onthe characteristic of the temperature variation in the five provincesof the northwest China[J].Journal of Agricultural Catastrophology,2013,3(z1):27-32.]
+
+[24］孙吉贵，刘杰，赵连宇.聚类算法研究[J].软件学报,2008， (1）:48-61.[SUN Jigui,LIU Jie,ZHAO Lianyu. Clustering algorithms research[J].Journal of Software,20O8,（1）:48-61.]
+
+[25]王千，王成,冯振元,等.K-means聚类算法研究综述[J].电子 设计工程,2012,20(7）:21-24．[WANGQian,WANG Cheng, FENG Zhenyuan,et al.Review of $K$ -means clustering algorithm [J].Electronic Design Engineering,2012,20(7）:21-24.]
+
+[26］杨善林，李永森，胡笑旋，等.K-means算法中的 $K$ 值优化问题 研究[J].系统工程理论与实践,2006，（2)：97-101.［YANG Shanlin,LI Yongsen,HU Xiaoxuan,et al. Optimization studyon $K$ value of K-means algorithm[J].Systems Engineering-Theory $\&$ Practice,2006,(2):97-101.]
+
+[27］谢培，顾艳玲，张玉虎，等.1961—2015年新疆降水及干旱特征分析[J].干旱区地理,2017，40（2)：332-339.［XIEPei，GUYanling,ZHANG Yuhu,etal.Precipitation and drought character-istics in Xinjiang during 1961—2015[J].Arid Land Geography,2017,40(2):332-339.]
+
+[28］朱连江，马炳先，赵学泉.基于轮廓系数的聚类有效性分析[J].计算机应用，2010,30（S2）：139-141，198.[ZHULianjiang,MA Bingxian,ZHAO Xuequan.Clustering validity analysisbased on silhouette coefficient[J].Journal of Computer Applica-tions,2010,30(S2):139-141,198.]
+
+[29］张应华，宋献方.水文气象序列趋势分析与变异诊断的方法及其对比[J].干旱区地理，2015，38（4）：652-665.[ZHANGYinghua,SONG Xianfang.Techniques of abrupt change detectionand trends analysis in hydroclimatic time-series：Advances and e-
+
+valuation[J].Arid Land Geography,2015,38(4）:652-665.]   
+[30］翟盘茂,潘晓华.中国北方近50 年温度和降水极端事件变化 [J].地理学报,2003,（S1）:1-10.[ZHAI Panmao,PAN Xiaohua. Change in extreme temperature and precipitation over northern China during the second half of the $2 0 ^ { \mathrm { t h } }$ century[J]. Acta Geographica Sinica,2003,（S1）:1-10.]   
+[31］李运刚,何大明,胡金明，等.红河流域1960—2007年极端降 水事件的时空变化特征［J].自然资源学报,2012，（11）： 1908-1917.[LI Yungang,HE Daming,HU Jinming,et al. Spatial and temporal variations of extreme precipitation events in the Red River Basin during 1960—2007[J].Journal of Natural Resources, 2012,(11) :1908 -1917.]   
+[32］梁珑腾,马龙,刘廷玺,等.1951—2014年中国北方地区气温突 变与变暖停滞的时空变异性[J]中国环境科学,2018,38（5）： 1601-1615.[LIANG Longteng,Ma Long,Liu Tingxi,et al. Spatiotemporal variation of the temperature mutation and warming hiatus over northern China during 1951—2014[J].China Environmental Science,2018,38(5）:1601-1615.]   
+[33］曲姝霖,仝纪龙,唐睿,等.西北地区极端高温变化及其对气候 变暖停滞的响应[J].气象与环境学报,2017,33（4)：78-85. [QU Shulin,TONG Jilong,TANG Rui,et al. Changes in the extremely high temperature in northwest China and its response to the stagnation of global warming[J]. Journal of Meteorology and Environment,2017,33(4）:78 -85.]   
+[34］黄星,马龙,刘廷玺,等.近60 年黄河流域典型区域气温突变 与变暖停滞研究[J].中国环境科学,2016,36（11)：3253- 3262.[HUANG Xing,MA Long,LIU Tingxi,et al. Temperature mutation and globe warming stagnate study in typical area of Yellow River Basin inrecently 6O years[J]. China Environmental Science,2016,36(11) :3253-3262.]   
+[35］丁一汇,柳艳菊,梁苏洁,等.东亚冬季风的年代际变化及其与 全球气候变化的可能联系[J].气象学报,2014,72（5）：835- 852.[DING Yihui,LIU Yanju,LIANG Sujie,et al. Interdecadal variability of the east Asian winter monsoon and its possible links to global climate change[J].Acta Meteorologica Sinica,2014,72 (5):835 -852.]   
+[36］唐国利,罗勇,黄建斌,等.气候变暖在继续[J].气候变化研究 进展,2012,8(4）:235-242.[TANG Guoli,LUO Yong,HUANG Jianbin,et al.Continuation of the global warming［J].Climate Change Research,2012,8（4):235-242.]
+
+# Temperature variation characteristics of northwest China based on K-means clustering partition in the past half century
+
+FENGKe-peng23,AJ-can， (1School of Civil and Hydraulic Engineering,Ningxia University,Yinchuan 75oo21,Ningxia,China;   
+2Ningxia Research Centerof Technologyon Water-saving Irigationand Water Resources Regulation,Yinchuan750021,   
+Ningxia,China；3EngineeringResearch CenterforEfcientUtilizationof WaterResourcesinModernAgricultureinArid Regions,Yinchuan 750021,Ningxia,China)
+
+Abstract:The northwest region in China is vast,with administrative divisions including parts of Shaanxi,Gansu, Ningxia,Qinghai,Xinjiang,and Iner Mongolia.Arid,semi-aridand semi-humidclimates coexistintheregion. Mountain,Gobi,asis,desert and other topographical features are intertwined.The northwest region in China is ecologically fragile and sensitiveto climate change.It is wellknown that climate warming and rising temperatures accelerate the water cycle and add up the intensity and frequency of occurrence of extreme weather events such as high temperature and drought and heavy rains.At the same time,it also leads to the uneven distribution of water resources in time and space,and thecomplexity and difcultyof dealing with floods and droughts.On thecontrary,after the temperature stops rising,the water circulation process will slow down；the water cycle elements such as precipitation,evaporationandrunoff intheregion willinevitablychange,which willaffectthe industrialandagricultural production and the people's life in the region.In thenew context ofclimate warming mitigation,this paper analyzes and discusses how the temperature in Northwest China has changed.Is there a warming slowdown? How does temperaturerespond in diferent seasons? In this study based on the observations of temperature by184 meteorological stations in the northwestern region,by using $K$ -means clustering partition,Sen's slope estimation and Kendall-Tau nonparametric test methods,the temperature variation characteristics of Northwest China in the past half century (1960—2015）were analyzed.The results show that the temperature in the northwestern region has been increased significantly in thepast half century,andthe riserate of annual average minimum temperature is higherthan hose of the averageannual temperatureand the highest annual average temperature.From a spatial point of view,the northeasternpartof the northern Xinjiang,the northern,western,central and eastern partsof Inner Mongolia,the central and western parts of Gansu Province,the northern and central parts of Qinghai Province,the central and northern parts of Ningxia Province,and the northwestern part of Shaanxi Province are thefastest warming areas.Although the temperature in the northwestern region is generally onthe rise,there is a diference in specific areas. Since l998,the temperature in the northwest region has been slowed down,and some regions have experienced a downward trend.In the past half century,the seasonal temperatureandthe interannual temperature in the northwestern region are not consistent,and the warming slows down in different seasons in the region.During the period from 1998 to 2015,winter is the season with the smallst increase in temperature.In most sub-regions,the warming trend in winter has been slowed down and even turned into a downward trend.This paper analyzes the trend of temperature change inthe northwestern region inthe pasthalf century from diferent spaces and observes the phenomenon of warming mitigation inthenorthwestregion,andthis trendis inconsistent indiferent sub-regionsand differentseasons.According to the comparison with related researches,the years of warming stagnation found in this paper are consistent with the relevant research conclusions.At the same time,the conclusions of this paper could enrich the understanding of climate temporal and spatial changes in the regionand provideassstance for further understanding the temperature variation law in this region.
+
+Key words:cluster analysis； silhouette coeficient；warming mitigation； northwest China

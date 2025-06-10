@@ -1,0 +1,611 @@
+[
+    {
+        "type": "text",
+        "text": "基于Copula的近60a京津冀地区干旱灾害危险性评估",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李倩,³，王瑛',2.3，许映军1,2.3，俞海洋4，龙爽1,³，黄靖玲1,31环境演变与自然灾害教育部重点实验室,北京100875；2地表过程与资源生态国家重点实验室,北京100875：3北京师范大学地理科学学部,北京100875；4 河北省气象灾害防御中心,河北 石家庄 050021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：干旱灾害是京津冀地区主要气象灾害之一，严重影响社会经济和粮食安全。评估京津冀地区干旱灾害危险性，识别高危险区，旨在为灾害防范和应急调控提供参考。利用1958—2017年37个气象站降水日数据，计算标准化降水指数(SPI6)，根据游程理论界定干旱历时和干旱强度。运用 $K { - } S$ 检验法 $\\ 、 A I C$ 法分别确定指标的最优边缘分布函数和Copula函数，计算5a $\\phantom { + } \\cdot 1 0$ a $\\cdot 3 0$ a及50a一遇水平下干旱强度和干旱历时的重现期。结果表明：京津冀地区20 世纪60年代中期至今 $S P / 6$ 呈下降趋势;指数分布和广义极值分布分别是干旱历时和干旱强度的最优边缘分布,Frank Copula在变量联合概率分布计算时拟合最好；就干旱历时和干旱强度重现期而言， $3 0 \\mathrm { ~ a ~ } , 5 0$ a一遇水平下联合重现期为，北京市、沧州市、衡水市及承德市北部等地区的重现期长，危险性低，其余地区危险性较高；站点干旱灾害的联合重现期理论值与实际情况较符合，能够反映实际灾害情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干旱灾害，标准化降水指数，Copula，联合分布，京津冀",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球变暖背景下，极端气候事件，尤其是近几十年来的干旱、高温等[1]极端气候灾害频发[2]。干旱灾害作为严重影响全球的自然灾害之一，危害范围大，持续时间长。到21世纪末,全球干旱半干旱区将占陆表面积的 $5 0 \\%$ 以上,其中 $7 5 \\%$ 将发生在发展中国家[3]。中国每年因干旱灾害造成的损失巨大,民政部、国家减灾委统计，2017年造成农作物受灾98748$\\mathrm { k m } ^ { 2 }$ ,绝收 $7 5 2 4 { \\mathrm { ~ k m } } ^ { 2 }$ ,直接经济损失 $3 . 7 5 \\times 1 0 ^ { 1 0 }$ 元。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国干旱灾害多发地主要分布在华北、黄淮、西北东部、东北西部、华南西部及西南大部等[4]。而位于华北平原的京津冀地区，干旱灾害形势严峻，干旱覆盖率除冬季外均呈不同程度的增长趋势[5]。降水呈现轻微减少趋势，而温度升高趋势明显，这共同作用导致了明显的干旱化[6]。干旱灾害不仅影响社会生产生活，还会影响农作物生产，威胁河北省乃至全国的粮食安全[7],这对京津冀地区干旱灾害防灾减灾提出了新的要求和挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有研究中，干旱灾害识别主要依托干旱指标",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "进行界定。由于致灾机理复杂，在界定时不仅要考虑降水，还要考虑蒸散、土壤含水、温度及径流等。目前，研究和应用的气象干旱指标众多，包括降水距平百分率[8]、相对湿润度指数 $\\cdot ^ { Z }$ 指数、标准化降水指数[9-10]、土壤相对湿度干旱指数、帕默尔干旱指数、连续无有效降水日数、有效降水指数、综合气象干旱指数[1]及标准化降水蒸散指数[12]等。其中，标准化降水指数 $( S P I )$ 计算简单,干旱监测与预测能力较强，对干旱变化反应敏感，能够较好地反映干旱历时和干旱强度,被广泛应用于干旱监测与评估中[13-14]。灾害事件的发生是多变量相互联系、共同作用的结果，因而在灾害风险研究中，多维致灾因子评估逐渐发展和应用。目前多维联合分布的方法研究中，Copula函数由于其对变量的边缘分布无要求，变量可存在相关关系，灵活性和适用性较强，广泛应用于水文、干旱灾害研究中[15-16]。在干旱灾害研究中，以干旱历时和干旱强度的二维联合研究最多，近年也逐渐发展到三变量、四变量的联合分布[17-19]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中,中国研究区主要涉及西南地区[10]、黄土高原[19]珠江流域[16]、汉江流域[14]及广东省[20]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱灾害特别是重大干旱灾害监测和防御是科学研究的优先主题。科学地预测干旱灾害趋势，提出行之有效的对策，以适应国家防灾减灾、应对气候变化和保障粮食安全的迫切需求。京津冀地区作为干旱重灾区之一，其干旱灾害时空变化及成因已为诸多学者研究[5],但尚未有针对该地区利用Copula函数开展干旱历时和干旱强度二维概率及重现期的相关研究。因而本文基于标准化降水指数，借助Copula 函数探究京津冀地区干旱灾害历时和强度的联合分布，分析其时空特征，识别干旱灾害高危险区，以期为该地区干旱灾害防灾减灾能力提升、区域经济发展及粮食安全保障提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况和研究数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "京津冀地区位于 $1 1 3 ^ { \\circ } 0 4 ^ { \\prime } \\sim 1 1 9 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E }$ . $3 6 ^ { \\circ } 0 1 ^ { \\prime }$ \\~$4 2 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { N }$ ,具有四季分明、雨量集中、日照充足及干湿期明显等特点。2017年京津冀地区总人口 $1 . 1 1 \\times$ ${ 1 0 } ^ { 8 }$ 人,农作物总播种面积 $9 3 ~ 8 2 5 ~ \\mathrm { k m } ^ { 2 }$ ,GDP合计$8 . 2 5 5 9 \\times 1 0 ^ { 1 2 }$ 元，占全国的 $9 . 9 8 \\%$ ,是中国经济的第三增长极，同时也是国家政治文化中心和北方经济中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑长时序气象数据的完整性，确定研究时段为1958—2017年，涵盖了京津冀地区37个国家气象站(图1)。数据类型为降水逐日数据，来源于河北省气象局和中国气象数据网（http：//data.cma.cn/）。粮食产量和面积数据来源于《河北经济年鉴2016》《中国统计年鉴2016》。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究方法主要包括SPI计算、MannKendall突变分析、游程理论及Copula 函数联合分布计算。不同时间尺度的SPI反映不同尺度的干旱灾害情况，",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc69127e6b24d826610226e8f9c56b6bec03c31dd2f98fe24c5e7f7107ab63de.jpg",
+        "img_caption": [
+            "图1国家气象站点分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1个月尺度的SPI1能较好地反映降水引起的旱涝频繁交替，3个月和6个月尺度的SPI3、SPI6对旱涝暴发与持续时间的辨识更敏感，而12个月尺度的SPI12 对长期旱涝影响具有显著的标识功能[21]。为了更好地反映干旱对京津冀地区的长期影响，选取对干旱持续时间辨识敏感，且可以反馈长期干旱的SPI6。干旱灾害重心的时空分析中，考虑干旱灾害是一个长期存在，缓慢演变的自然灾害，将研究时段（1958一2017年），结合我国社会经济发展的重要时期，以 $2 0 \\mathrm { ~ a ~ }$ 为基准，划分为改革开放前20a（1958—1977年）改革开放后20a（1978—1997年）、进入新世纪以来的近20a（1998—2017年）。借助游程理论识别干旱历时和干旱强度，分别确定其最优边缘分布，代入Copula 函数计算重现期,基于ArcGIS实现变化特征的空间表达，评估京津冀地区干旱危险性（图2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/308b65a8d49defc7ff805d0fe68820a67d128539c6a935a4a9d30057c39a8ea0.jpg",
+        "img_caption": [
+            "Fig.1Distribution of national meteorological stations ",
+            "图2京津冀地区干旱灾害危险性评估技术路线",
+            "Fig.2Technical framework of drought hazard assessment in the Beijing-Tianjin-Hebei region "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1干旱灾害识别及指标界定借助游程理论[8]确定干旱灾害事件及其特征指标,SPI6参照国家标准《气象干旱等级GB/T20481—2006》进行计算及等级划分（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4edf27d370a05f3a2b2d4620cae87c6d7e13c59f48f19f756cbb5f5db53512e4.jpg",
+        "table_caption": [
+            "表1不同干旱类型的 SPI取值Tab.1Drought types corresponding to the SPI value"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级</td><td>类型</td><td>SPI值</td></tr><tr><td>1</td><td>无旱</td><td>-0.5<SPI</td></tr><tr><td>2</td><td>轻旱</td><td>-1.0<SPI≤-0.5</td></tr><tr><td>3</td><td>中旱</td><td>-1.5<SPI≤-1.0</td></tr><tr><td>4</td><td>重旱</td><td>-2.0<SPI≤-1.5</td></tr><tr><td>5</td><td>特旱</td><td>SPI≤-2.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一次干旱灾害事件涉及干旱历时 $( D )$ 和干旱强度 $( S )$ 。干旱历时为一次干旱事件的持续时间，干旱强度是干旱历时内 $S P I$ 的累加，即图3中阴影部分的面积[8,22]。分别选取 $S P I$ 阈值 $R _ { 0 } = - 1 \\ : , R _ { 1 } =$ （204号$- 0 . 5 \\sqrt { } _ { 2 } = 0$ ，干旱特征指标界定的过程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）若 $S P I$ 小于 $R _ { 1 }$ ,初步判断此月为干旱，即图3中时段 $\\mathbf { a } , \\mathbf { b } , \\mathbf { d } , \\mathbf { e }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）当干旱历时为1个月 $\\left( \\mathbf { \\Pi } _ { \\mathbf { a } _ { \\mathbf { \\lambda } } , \\mathbf { e } _ { } } \\right)$ 且 $S P I$ 小于$R _ { 0 }$ ,则计为1次干旱事件（e），反之不计为干旱事件(a)；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）若相邻2次干旱事件间隔为1个月（b和d)，且间隔月份的 $S P I$ 小于 $R _ { 2 }$ ,即 $S _ { c } < 0$ ,则合并为1次干旱事件,干旱历时 $D = D _ { b } + D _ { d } + 1$ ,干旱强度（阴影面积） $S = S _ { b } + S _ { d }$ ,否则为2次干旱事件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2边缘分布函数构建首先确定干旱历时和干旱强度的边缘分布，选用水文和气象领域常见的9种单变量分布函数,即伽马、指数、对数正态、威布尔、正态、广义极值、极值、泊松及广义帕累托分布。利用Kolmogorov-Smirnov检验确定最优边缘分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcd6107b0bce2c83d0cf854fb25855aba9f72ea527561365b761703e3f96955a.jpg",
+        "img_caption": [
+            "图3游程理论识别干旱特征变量",
+            "Fig.3Identification of drought characteristics using run theory "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时采取Kendall秩相关系数和Spearman秩相关系数度量变量间的相关性，参数估计采用极大似然法。1.2.3Copula 函数选择及其参数估计 Copula方法最早于1959年提出，理论基石是著名的 Sklar 定理，可以表述为：设 $X , Y$ 为连续的随机变量，其边缘分布函数分别为 $F _ { \\chi } \\left( x \\right)$ 和 $F _ { _ { Y } } ( y )$ ,联合分布函数为$F ( x , y )$ ,若各边缘分布函数连续,则存在唯一的函数Copula函数 $C _ { \\theta } ( u , v )$ ,使得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { F } ( \\boldsymbol { x } , \\boldsymbol { y } ) = C _ { \\boldsymbol { \\theta } } ( \\left[ F _ { x } ( \\boldsymbol { x } ) , F _ { y } ( \\boldsymbol { y } ) \\right] , \\forall \\boldsymbol { x } , \\boldsymbol { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F ( x , y )$ 是联合分布函数; $C _ { \\theta }$ 是Copula函数; $\\theta$   \n为待定参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Copula函数大体上可分为椭圆型、Archimedean型及二次型3种类型,其中ArchimedeanCopula以其构造简单、易求解等特点应用广泛。目前干旱分析中常用的 Archimedean Copula,包括 Clayton 族、Frank族及Gumbel族(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b38c9c82edba1d02925e31c1af8f2786b9984a5354746540276c4788798b5633.jpg",
+        "table_caption": [
+            "表2三种Archimedean Copula 函数表达式",
+            "Tab.2Three bivariate Archimedean Copula functions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Copula 函数类型</td><td>基本形式</td><td>参数取值范围</td></tr><tr><td>Clayton</td><td>max u</td><td>0∈[-1,∞）\\{0}</td></tr><tr><td>Frank</td><td>1 1 (e-0u-1)(e-0-1) 0 e--1</td><td>0∈R\\{0}</td></tr><tr><td>Gumbel</td><td>exp 一 （-lnu)+（-lnv)e</td><td>0∈[1,∞）</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用均方根误差（RMSE）和 $A I C$ 信息准则确定最优Copula函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM S E = \\frac { 1 } { n - 1 } \\sum _ { i = 1 } ^ { n } \\left( P e _ { i } - P _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA I C = n \\log \\ \\sqrt { M S E } + 2 l\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { M S E }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P { e _ { i } }$ 为干旱联合经验概率; $P _ { i }$ 为Copula函数联合概率； $n$ 为样本数; $i = 1 , 2 \\cdots , n ; l$ 为模型中参数个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4干旱指标重现期确定干旱历时 $( D )$ 和干旱强度 $( S )$ 的单变量重现期为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { D } = { \\frac { M _ { t } } { 1 - F _ { D } ( d ) } } F _ { D } ( d )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { s } = \\frac { M _ { t } } { 1 - F _ { s } ( s ) } F _ { s } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { p } ( d )$ 和 $F _ { s } ( s )$ 为干旱历时和干旱强度的边 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "缘分布函数; $\\boldsymbol { M } _ { t }$ 为2次干旱事件的平均时间。 二维联合重现期与同现重现期分别为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( s , d ) = \\frac { E ( L ) } { P ( S \\gtrless s \\cup D \\geqslant d ) } = \\frac { E ( L ) } { \\left[ 1 - F ( s , d ) \\right] } = \\frac { E ( L ) } { \\left[ 1 - C ( F _ { s } ( s ) , F _ { D } ( d ) ) \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ } ^ { \\prime } ( s , d ) = \\frac { E ( L ) } { P ( S \\geqslant s \\cap D \\geqslant d ) } = \\frac { E ( L ) } { \\left[ 1 - F _ { s } ( s ) - F _ { p } ( d ) + F ( s , d ) \\right] } = \\frac { E ( L ) } { \\left[ 1 - F _ { s } ( s ) - F _ { p } ( d ) + C ( F _ { s } ( s ) , F _ { p } ( d ) ) \\right] } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $T ( s , d )$ 为联合重现期； $T ^ { \\prime } \\left( s , d \\right)$ 为同现重现期； $E ( L )$ 为连续事件的间隔期; $F _ { p } ( d )$ 和 $F _ { s } ( s )$ 分别为干旱历时和干旱强度的边缘分布函数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1京津冀干旱年际变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1958—2017年，京津冀地区站点 SPI6平均值呈上下波动(图4)，共发生干旱166次 $\\scriptstyle \\left( S P I \\leqslant 0 . 5 \\right)$ 。对于时间尺度较长的 $S P I$ ,多次持续降水才会影响其波动[23]。借助 Mann-Kendall 进行突变分析。当$U F > 0$ ，表明序列呈上升趋势， $U F < 0$ 表明序列呈下降趋势,超过临界值 $( \\pm 1 . 9 6 )$ 表明趋势明显。如果$U F$ 和UB曲线出现交点且在临界值之间,那么交点对应的时间就是突变时间。图5中，20世纪50 年代末京津冀地区SPI6呈上升趋势，20 世纪60 年代初呈下降趋势，1964—1966年又转为上升，在20世纪50年代末 $\\sim 6 0$ 年代初出现多次突变。1966 年至今整体下降，其中1979—1980 年短暂上升。在 20世纪80年代、1992—1994年、90年代末 $\\sim 2 1$ 世纪前10a下降最显著，2015年左右又出现一次突变，变化趋势与王宏等[24]的结论基本一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在1958—1977年、1978—1997年及1998—2017年这3个时期中，1978—1997年间发生干旱频次最高为60次，其中轻度灾害最多为45次。而1958—1977年间发生干旱灾害51次，1998年后20a，发生干旱灾害55次，这两个阶段中度、重度灾害发生频次更多。不同时期干旱灾害重心也存在变化（图6)，1958一1977年间，干旱灾害严重区分布在西北部的张家口市、承德市及北京市部分地区。1978—1997年间,干旱重心主要集中在南部的邯郸市、邢台市、石家庄市、衡水市及沧州市部分地区。进入21世纪以后干旱重心则主要在中部的保定市、衡水市、沧州市、北京市、唐山市、秦皇岛市及天津市等部",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "32S-1-28965 30 80 9 9 696 0∠61 6 9 6 9 6∠6 86 G G 9 9 9 9 0年份",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc640ba4c3eba53e5197688402248ac114b06a1469041699472ae6e032d98c6b.jpg",
+        "img_caption": [
+            "图4京津冀地区 SPI6 变化过程(1958—2017 年)",
+            "Fig.4Evolution of the SPl6 in the Beijing-Tianjin-Hebei region from 1958 to 2017 ",
+            "图5基于Mann-Kendall的京津冀地区SPI6突变分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Analysis of SPI6 abrupt change in the Beijing-Tianjin-Hebei region based on Mann-Kendall test分地区。李双双等[25]研究指出京津冀地区20 世纪90 年代,干旱重心逐渐向东北方向跳跃，北部沿海地区干旱趋势加剧。这与本文结果一致，干旱重心呈现出由北向西南，在向中东部沿海地区转移的趋势",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2边缘分布和Copula函数选择",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱历时和干旱强度的边缘分布拟合中，大部分站点最优分布为指数分布和广义极值分布，少数站点为正态分布、广义帕累托分布及对数正态分布等。经验分布和理论分布拟合效果良好（图7），均能通过K-S显著性水平检验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于单变量边缘分布，构建Copula联合概率分布，并通过AIC检验拟合优度，确定的联合分布函数见表3（部分站点）。其中，FrankCopula拟合最优的站点31个，GumbelCopula拟合最优的站点5个，",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcd9a1656919edfa9b3ba0c41907e8c4112161407a4423405bbdefaadd0ebafc.jpg",
+        "img_caption": [
+            "Fig.6Spatial distribution of SPI6 in the Beijing-Tianjin-Hebei region with different periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d44b34407a080887fa0ecc9b0602a80bf2334ee65e53aed6b6b5b8339445630e.jpg",
+        "img_caption": [
+            "图6不同时期京津冀地区 SPI6空间分布",
+            "图7干旱历时和干旱强度累积概率分布(怀来站)",
+            "Fig.7Cumulative probability distribution of drought duration and drought severity（Huailai station) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0806f88e643a59ec5772532055a657191ad8e5becb3bf98b288b86a2156a5bc.jpg",
+        "table_caption": [
+            "表3Copula函数拟合优度检验",
+            "Tab.3Goodness of fit test of Copula function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>站名</td><td>(CAayon)</td><td>(FrAk)</td><td>(GAmbel)</td><td>最优a</td><td>序号</td><td>站名</td><td>(Cayton)</td><td>(FAIk)</td><td>(Gumbel)</td><td>最优</td></tr><tr><td>1</td><td>张家口</td><td>-198.81</td><td>-279.33</td><td>-264.79</td><td>Frank</td><td>6</td><td>青龙</td><td>-342.25</td><td>-391.68</td><td>-383.75</td><td>Frank</td></tr><tr><td>2</td><td>蔚县</td><td>- 233.58</td><td>-271.20</td><td>-265.44</td><td>Frank</td><td>7</td><td>怀来</td><td>-258.32</td><td>-386.26</td><td>-372.50</td><td>Frank</td></tr><tr><td>3</td><td>承德</td><td>-281.92</td><td>-307.52</td><td>-280.31</td><td>Frank</td><td>8</td><td>定州</td><td>- 194.02</td><td>-264.60</td><td>-258.38</td><td>Frank</td></tr><tr><td>4</td><td>霸州</td><td>-329.19</td><td>-323.15</td><td>-298.54</td><td>Clayton</td><td>9</td><td>曹妃甸</td><td>-253.99</td><td>-301.38</td><td>- 261.00</td><td>Frank</td></tr><tr><td>5</td><td>盐山</td><td>-279.85</td><td>-325.43</td><td>-303.09</td><td>Frank</td><td>10</td><td>深州</td><td>-293.56</td><td>-363.81</td><td>-323.65</td><td>Frank</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ClaytonCopula拟合最优的站点1个。结果表明，京 津冀地区干旱灾害变量的联合概率拟合,FrankCop ula 拟合效果最好。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3京津冀干旱灾害单指标年遇型分布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "京津冀地区不同年遇型的干旱历时、干旱强度（表4，部分站点），表现为随着年遇型增加，干旱历时和干旱强度增大，且年遇型越大，指标相差越明显。5a一遇时数据差异较小,其中干旱历时最小值和最大值分别为5.31、7.50，干旱强度最小和最大值分别为4.78、8.41。而年遇型变大，数据差异变大， $5 0 \\mathrm { ~ a ~ }$ 一遇干旱历时最小和最大值分别为10.82、21.16，50a一遇干旱强度最小和最大值分别为14.76、83.24，差异明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱历时空间分布（图 $8 \\mathrm { a } \\sim 8 \\mathrm { d }$ )，5a一遇历时较长的地区，主要分布在中部和南部部分地区以及东部沿海地区，10a $\\cdot 3 0$ a $\\phantom { + } \\cdot 5 0$ a一遇历时较长的地区分布大体一致，主要位于京津冀的中部。其中，5a一遇干旱历时较长地区为保定市中部、廊坊市、天津市东部、唐山市、秦皇岛市、承德市南部及南部的邢台市中部、邯郸市中部地区。 $1 0 \\mathrm { ~ a ~ } , 3 0$ a一遇时,干旱历时较长地区为保定市、雄安新区、廊坊市、天津市沿海地区、唐山市南部、秦皇岛市沿海地区及张家口市南部等部分地区。50a一遇历时较长地区为保定市、雄安新区、张家口市中南部、廊坊市、天津市南部、及唐山市和秦皇岛市部分地区等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "京津冀地区干旱强度分布（图8e\\~8h)与干旱历时存在差异。其中，5a一遇水平下，承德市、唐山市、秦皇岛市及廊坊市存在高危险区，10a一遇水平下，张家口市西南部、保定市、廊坊市及沧州市西北部地区存在高危险区。 $3 0 \\mathrm { ~ a ~ } , 5 0$ a一遇干旱强度较大地区大体一致，主要位于中西部地区，其中高危险区为保定市西北部和沧州市西北部地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4京津冀干旱灾害指标联合分布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相同年遇型 $( 5 \\mathrm { ~ a ~ } , 1 0 \\mathrm { ~ a ~ } , 3 0 \\mathrm { ~ a ~ } , 5 0 \\mathrm { ~ a ~ } )$ 下干旱历时和干旱强度的联合重现期，均小于单指标(表5），且在 $5 0 \\mathrm { ~ a ~ }$ 一遇下重现期差异较大，空间分布也存在差异（图9）。对于联合重现期， $5 \\textrm { a } , 1 0$ a一遇水平下,邯郸市中南部、邢台市中部、石家庄市东部及保定市南部、唐山市西部、张家口市北部地区，联合重现期较小，为高危险区。而在 $3 0 \\mathrm { ~ a ~ } , 5 0$ a一遇水平下,邯郸市、邢台市、石家庄市、唐山市，及秦皇岛市、张家□市、保定市部分地区，重现期较小，为高危险区；除了南部地区外，东部沿海及张家口市西北部地区也易发生严重干旱。这与其他研究结果基本一致，即中南部为干旱多发区[26],呈现南多北少,冀南平原最多[27]。同现重现期表现为大于单指标重现期,且不同站点同现重现期相差较大，高危险区分布基本一致。5a、10a一遇水平下,张家口市西部、保定市北部、廊坊市中部及沿海地区秦皇岛市和沧州市，同现重现期较小,危险性高。30a、50a一遇水平下，表现为中部的北京市、沧州市、衡水市、张家口市西南部及承德市北部地区，同现重现期较小，为高危险区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以怀来站联合概率等值线为例（图10a），等值线向右侧弯曲，表明干旱历时对干旱灾害影响较大。干旱强度为0\\~5时，等值线分布密集，并且干旱历时跨度较大，同时干旱历时为0～5时，等值线分布也较密集，主要发生短历时一高强度、长历时一低强度以及二者同步的干旱灾害。此外，将不同干旱灾害类型的实际重现期与理论重现期进行对比，检验联合重现期的准确性。以河北省怀来站为例（图10b），1958—2017年该站共发生干旱事件46次，对这些干旱事件进行分类[28],重现期在2a以下的干旱事件为轻度干旱，重现期大于8a为重度干旱，2\\~8a则为中度干旱。将不同干旱类型的理论重现期与实际重现期进行对比（表6），结果表明绝大部分在灾害事件的理论重现期与实际情况符合度较高，具有较高的可信度。实际重现期与理论重现期的Spearman相关系数为0.58（通过 $9 5 \\%$ 的信度检验），具有良好的相关性，说明理论重现期能反映京津冀地区实际干旱发生情况，具有实际意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7533665ca37faba5504e8e634e910055e5602f14399d04bb984ea49de4e1ae9.jpg",
+        "table_caption": [
+            "表4不同重现期下干旱历时和干旱强度",
+            "Tab.4Drought duration and drought severity of different return periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">站名</td><td colspan=\"4\">干旱历时</td><td colspan=\"4\">干旱强度</td></tr><tr><td>T=5 a</td><td>T=10 a</td><td>T=30 a</td><td>T=50 a</td><td>T=5a</td><td>T=10 a</td><td>T=30 a</td><td>T=50 a</td></tr><tr><td>1</td><td>张家口</td><td>6.12</td><td>10.08</td><td>16.36</td><td>19.27</td><td>6.28</td><td>11.63</td><td>27.55</td><td>40.36</td></tr><tr><td>2</td><td>蔚县</td><td>6.07</td><td>10.36</td><td>17.16</td><td>20.32</td><td>7.64</td><td>13.04</td><td>21.59</td><td>25.57</td></tr><tr><td>3</td><td>承德</td><td>6.04</td><td>9.67</td><td>15.42</td><td>18.09</td><td>8.41</td><td>11.91</td><td>15.84</td><td>17.16</td></tr><tr><td>4</td><td>霸州</td><td>6.85</td><td>11.06</td><td>17.74</td><td>20.85</td><td>7.45</td><td>12.03</td><td>19.29</td><td>22.67</td></tr><tr><td>5</td><td>盐山</td><td>5.39</td><td>8.13</td><td>14.02</td><td>17.68</td><td>6.48</td><td>9.87</td><td>16.22</td><td>19.66</td></tr><tr><td>6</td><td>青龙</td><td>7.50</td><td>9.11</td><td>11.06</td><td>11.83</td><td>8.02</td><td>10.72</td><td>13.74</td><td>14.76</td></tr><tr><td>7</td><td>怀来</td><td>6.34</td><td>9.61</td><td>14.79</td><td>17.20</td><td>6.27</td><td>11.52</td><td>28.55</td><td>43.15</td></tr><tr><td>8</td><td>定州</td><td>6.84</td><td>11. 15</td><td>17.98</td><td>21.16</td><td>7.37</td><td>10.05</td><td>14.30</td><td>16.37</td></tr><tr><td>9</td><td>曹妃甸</td><td>6.53</td><td>10.65</td><td>17.18</td><td>20.22</td><td>8.29</td><td>12.07</td><td>16.43</td><td>17.94</td></tr><tr><td>10</td><td>深州</td><td>5.63</td><td>7.99</td><td>12.51</td><td>15.04</td><td>7.15</td><td>10.18</td><td>14.64</td><td>16.61</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d408a875a862cd3605bd739e099f32d9eb9d8dfa63fdad74cc54b078a0e2141.jpg",
+        "img_caption": [
+            "图8不同重现期下干旱历时和干旱强度分布",
+            "Fig.8Spatial distribution of drought duration and drought severity at different return periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/32dbeeed528c21f0b27473f4e7aec2b6bf86e23f9a5b3ccb2e7da857457930d9.jpg",
+        "table_caption": [
+            "表5干旱特征指标联合重现期和同现重现期",
+            "Tab.5Joint return periods and co-occurrence return periods of the drought characteristic index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">站名</td><td colspan=\"4\">联合重现期</td><td colspan=\"4\">同现重现期</td></tr><tr><td>T=5a</td><td>T=10 a</td><td>T=30 a</td><td>T=50 a</td><td>T=5 a</td><td>T=10 a</td><td>T=30 a</td><td>T=50 a</td></tr><tr><td>1</td><td>张家口</td><td>4.41</td><td>7.99</td><td>19.64</td><td>30.23</td><td>5.76</td><td>13.36</td><td>63.45</td><td>144.60</td></tr><tr><td>2</td><td>蔚县</td><td>4.59</td><td>8.50</td><td>21.08</td><td>32.10</td><td>5.49</td><td>12.15</td><td>52.03</td><td>113.05</td></tr><tr><td>3</td><td>承德</td><td>4.37</td><td>7.86</td><td>19.34</td><td>29.84</td><td>5.85</td><td>13.74</td><td>66.85</td><td>154.01</td></tr><tr><td>4</td><td>霸州</td><td>4.37</td><td>7.60</td><td>18.48</td><td>28.73</td><td>5.85</td><td>14.61</td><td>79.73</td><td>192.39</td></tr><tr><td>5</td><td>盐山</td><td>4.33</td><td>7.77</td><td>19.12</td><td>29.58</td><td>5.92</td><td>14.03</td><td>69.55</td><td>161.46</td></tr><tr><td>6</td><td>青龙</td><td>4.27</td><td>7.62</td><td>18.81</td><td>29.19</td><td>6.03</td><td>14.53</td><td>74.10</td><td>174.04</td></tr><tr><td>7</td><td>怀来</td><td>4.24</td><td>7.55</td><td>18.66</td><td>29.02</td><td>6.09</td><td>14.79</td><td>76.44</td><td>180.49</td></tr><tr><td>8</td><td>定州</td><td>4.17</td><td>7.40</td><td>18.36</td><td>28.66</td><td>6.24</td><td>15.40</td><td>81.90</td><td>195.58</td></tr><tr><td>9</td><td>曹妃甸</td><td>4.38</td><td>7.89</td><td>19.40</td><td>29.93</td><td>5.83</td><td>13.65</td><td>66.09</td><td>151.89</td></tr><tr><td>10</td><td>深州</td><td>4.20</td><td>7.46</td><td>18.48</td><td>28.80</td><td>6.18</td><td>15.16</td><td>79.71</td><td>189.54</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合京津冀地区2015年粮食单产空间分布（图11）。粮食单产较高地区主要分布在京津冀的东南部，包括邯郸市东部、邢台市中部、石家庄市东部、衡水市西部、保定市东南部、北京市、唐山市及承德市中部地区。这些地区与联合重现期高危险区分布基本一致。因而，应该注意干旱灾害预防，尤其是春季到秋季的干旱较严重，应加强和改进河北西南部山区农田的灌溉系统[29],整体提高干旱防控水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）近60a间（1958—2017年）京津冀地区SPI6变化趋势表现为，20世纪50年代末上升趋势，20 世纪60年代初下降趋势，1964—1966年又转为上升，1966 年至今整体下降，其中1979—1980 年短暂上升;在20 世纪80 年代、1992—1994 年间、20 世纪90年代末 $\\sim 2 1$ 世纪前10a下降趋势最显著;存在两个突变时期，分别出现在20世纪50年代末～",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "60 年代初和2015年附近。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）干旱历时和干旱强度的最优边缘分布分别为指数分布和广义极值分布，其中FrankCopula 在计算干旱历时和干旱强度联合分布时拟合最优。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）京津冀地区干旱灾害历时表现为中西部危险性较高，主要分布在保定市、廊坊市、张家口市及北京市，天津市、唐山市和秦皇岛市也有部分地区危险性较高；干旱强度表现为中西部地区危险性较高，主要分布在保定市、张家口市、沧州市及北京市，其中雄安新区危险性也较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）干旱历时和干旱强度的联合重现期，与单指标空间分布存在差异;其中,5a、10a一遇下，唐山市、石家庄市、保定市及邢台市存在高危险中心;30 a $\\phantom { + } \\cdot 5 0$ a一遇下，北京市、沧州市、衡水市及承德市北部等地区的重现期长，危险性低，其余地区较短，危险性高；同现重现期在5a、10a一遇下，北京市、张家口市、沧州市、秦皇岛市以及承德市等地区危险性较高， $3 0 \\mathrm { ~ a ~ } . 5 0$ a一遇下，则表现为北京市、承德市北部、沧州市以及衡水市等地区危险性高，其余地区危险性低。此外，站点的理论联合重现期和实际联合重现期较符合，可信度高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱灾害对京津冀地区的粮食生产影响较明显，同时也会引发饮水困难等问题。了解干旱灾害的高危险区以及干旱重心的转移变化，有针对性地制定不同致灾强度下的应急预案，着重针对高危险区开展防范，可以有效地减轻损失。未来干旱灾害评估研究，也应从多因素、多维度的展开，使评估更具科学性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，京津冀各地区都存在不同程度的干旱灾",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/af467def0d1b4ded656845de727affd49ab2c3cec74c95edd5ab14d27397d111.jpg",
+        "img_caption": [
+            "图9干旱历时和干旱强度重现期空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Spatial distribution of drought duration and drought severity return period at diferent return periods ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd4d473e9155aa9a25aeaf60763ca3e39f21d1447f3f34a338559c0079af92aa.jpg",
+        "img_caption": [
+            "图10干旱历时和强度的联合概率、联合重现期等值线(怀来站)",
+            "Fig.10Joint return period of drought duration and severity（Huailai station) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表6不同干旱历时和强度的理论重现期与实际重现期(怀来站)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/bca910f67549219565054619114e58f7f4d4541e944d849e5e50e95f2aeaebfd.jpg",
+        "table_caption": [
+            "Tab.6Theoretical and real return periods of different droughtdurationand severity(Huailai station) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">发生 年月</td><td rowspan=\"2\">干旱 历时</td><td rowspan=\"2\">干旱</td><td rowspan=\"2\">干旱 类型</td><td rowspan=\"2\">实际 重现期</td><td rowspan=\"2\">理论 重现期</td></tr><tr><td>强度</td></tr><tr><td>1</td><td>1976.01</td><td>13</td><td>16.38</td><td>重</td><td>9.92</td><td>11.79</td></tr><tr><td>2</td><td>1986.06</td><td>6</td><td>5.91</td><td>轻</td><td>3.25</td><td>4.00</td></tr><tr><td>3</td><td>1988.06</td><td>2</td><td>2.19</td><td>轻</td><td>1.33</td><td>1.81</td></tr><tr><td>4</td><td>1989.12</td><td>7</td><td>5.85</td><td>中</td><td>4.75</td><td>4.26</td></tr><tr><td>5</td><td>1997.04</td><td>1</td><td>1.13</td><td>轻</td><td>0.83</td><td>1.38</td></tr><tr><td>6</td><td>1997. 12</td><td>7</td><td>7.21</td><td>中</td><td>3.92</td><td>4.80</td></tr><tr><td>7</td><td>1999.03</td><td>3</td><td>3.12</td><td>轻</td><td>1.92</td><td>2.27</td></tr><tr><td>8</td><td>2010.01</td><td>8</td><td>6.59</td><td>中</td><td>3.75</td><td>4.85</td></tr><tr><td>9</td><td>2013.05</td><td>1</td><td>1.35</td><td>轻</td><td>0.58</td><td>1.44</td></tr><tr><td>10</td><td>2014.08</td><td>2</td><td>1.74</td><td>轻</td><td>1.25</td><td>1.62</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/002d6060475177e2aa06005f00be449f987c85d7f678dfe89372bc78284a52ff.jpg",
+        "img_caption": [
+            "图11京津冀地区粮食单产分布 Fig.11Grain yield per unit area in the Beijing-Tianjin-Hebei region "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "害危险区，在京津冀协同发展背景下，提升干旱灾害防灾减灾能力刻不容缓。2018年4月《河北雄安新区规划纲要》中指出“加强生态环境建设，坚持生态优先、绿色发展等”，雄安新区及其周边地区也存在干旱灾害高危险区。这对干旱灾害预防提出了新的考验，针对高危险区，不仅要加强干旱灾害管理，更要注重干旱灾害的防治，这样才能进一步提升京津冀地区应对干旱灾害的综合能力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] MADADGAR S,MORADKHANI H. Drought analysis under climate change using Copula[J]. Journal of Hydrologic Engineering, 2013,18(7):746-759.   \n[2] KIKTEVD,SEXTON D MH,ALEXANDERL,et al.Comparison of modeled and observed trends in indices of daily climate extremes[J].Journal of Climate,2003,16(22）:3560-3571.   \n[3] HUANG J,YU H,GUAN X,et al.Accelerated dryland expansion under climate change[J].Nature Climate Change,2O16,6(2).   \n[4] 廖要明，张存杰.基于MCI的中国干旱时空分布及灾情变化特 征[J].气象,2017,43（11）:1402－1409.［LIA0 Yaoming, ZHANG Cunjie.Spatio-temporal distribution characteristics and disaster change of drought in China based on meteorological drought composite index［J].Meteorological Monthly,2O17,43 (11):1402-1409.]   \n[5］张丽艳,杨东,马露.京津冀地区气象干旱特征及其成因分析 [J].水力发电学报,2017,36（12）:28-38.[ZHANG Liyan, YANG Dong,MA Lu. Characteristics of meteorological drought in Jing-Jin-Ji area and cause analysis[J].Journal of Hydroelectric Engineering,2017,36(12）:28-38.   \n[6]李伟光,易雪,侯美亭,等.基于标准化降水蒸散指数的中国干 旱趋势研究[J].中国生态农业学报.2012,20(05）:643-649. [LI Weiguang,YI Xue,HOU Meiting,et al. Standardized precipitation evapotranspiration index shows drought trends in China[J]. Chinese Journal of Eco-Agriculture,2012,20(05）:643 -649.]   \n[7］闫峰,史培军,武建军,等.基于 MODIS-EVI数据的河北省冬小 麦生育期特征［J].生态学报.2008,28（9）:4381－4387. [YANFeng,SHI Peijun,WU Jianjun,et al.The phenology character of winter wheat by MODIS-EVI data in Hebei China[J].Acta Ecologica Sinica,2008,28(9）:4381-4387.]   \n[8]WANG R,ZHANG J,GUO E,et al. Integrated drought risk assessment of multi-hazard-affcted bodies based on Copulas in the Taoerhe Basin,China[J].Theoretical & Applied Climatology,2018, 135(1 -2) :1 -16.   \n[9]GANGULI P,REDDY M J.Risk assessment of droughts in Gujarat using Bivariate Copulas[J].Water Resources Management,2012, 26(11) :3301 - 3327.   \n[10]XU K,YANG D,XU X,et al. Copula based drought frequency analysis considering the spatio-temporal variability in southwest China[J].Jourmal of Hydrology,2015,527:630-640.   \n[11] ZHANG D,YAN D,LU F,et al. Copula-based risk assessment of drought in Yunnan Province,China[J].Natural Hazards,2015,75 (3):2199 -2220.   \n[12]LIU X,WANG S,ZHOU Y,et al. Spatial analysis of meteorological drought return periods in China using Copulas[J].Natural Hazards,2016,80(1) :367 -388.   \n[13］韩海涛,胡文超,陈学君,等.三种气象干旱指标的应用比较研 究[J].干旱地区农业研究.2009,27（1):237-241.［HAN Haitao,HU Wenchao,CHEN Xuejun,et al.Application and comparison of three meteorological drought indices[J].Agricultural Research in the Arid Areas,2009,27(1) :237 -241.]   \n[14]CHEN L,SINGH VP,GUO S,et al. Drought analysis using Copulas[J].Journal of Hydrologic Engineering,2013,18（7）:797 - 808.   \n[15］李明,张永清,张莲芝.基于Copula 函数的长春市 106 年来的 干旱特征分析[J].干旱区资源与环境,2017,31(6):147 - 153.[LI Ming,ZHANG Yongqing,ZHANG Lianzhi. Analysis on drought characteristics of Changchun City in 106 years based on Copula function[J]. Journal of Arid Land Resources and Environment,2017,31(6):147 -153.]   \n[16]ZHANG Q,XIAO M,SINGHV P,et al. Copula-based risk evaluation of droughts across the Pearl River Basin,China[J].Theoretical & Applied Climatology,2013,111(1-2）:119-131.   \n[17]SHIAU J,FENG S,NADARAJAH S.Assessment of hydrological droughts for the Yellow River,China,using Copulas[J].Hydrological Processes,2007,21(16）:2157 -2163.   \n[18]WENG B,ZHANG P,LI S.Drought risk assessment in China with diferent spatial scales[J].Arabian Journal of Geosciences,2015, 8(12):10193 -10202.   \n[19]SHE D,XIA J. Copulas-based drought characteristics analysis and risk assessment across the Loess Plateau of China[J]. Water Resources Management,2018,32(2）:547-564.   \n[20]LIU C,ZHANG Q,SINGHVP,et al. Copula-based evaluations of drought variations in Guangdong,south China[J].Natural Hazards,2011,59(3) :1533-1546.   \n[21］叶正伟.基于 SPI的江苏沿海开发地区旱涝演变特征分析— 以盐城市为例[J].地理科学,2014,34（4）:479－487.［YE Zhengwei.Flood and drought change based SPI analysis in the developing coastal region of Jiangsu Province：A case study in Yancheng City[J].Scientia Geographica Sinica,2014,34（4）： 479 - 487. ]   \n[22]李天水,王顺,庄文化,等.游程理论和Copula 函数在二维干旱 变量联合分布中的应用[J].干旱区资源与环境,2016,30 (6）:77 -82.[LI Tianshui,WANG Shun,ZHUANG Wenhua,et al.Application of the theory of run and Copula function to the joint distribution of two-dimension drought variables[J]. Journal of Arid Land Resources and Environment,2016,30(6）:77 -82.]   \n[23］张利利,周俊菊,张恒玮,等.基于 SPI的石羊河流域气候干湿 变化及干旱事件的时空格局特征研究[J].生态学报,2017,37 (3）:996-1007.[ZHANG Lili,ZHOU Junju,ZHANG Hengwei, et al.Temporal and spatial patterns of climate drought-wet and drought eventbasedonstandard precipitation index in Shiyang River Basin[J].Acta Ecologica Sinica,2017,37（3）: 996- 1007.]   \n[24］王宏,余锦华,李宗涛.近49 年来河北省干旱时空变化特征研 究[J].南京信息工程大学学报（自然科学版),2015，（3）： 260-267.[WANG Hong,YU Jinhua,LI Zongtao.Spatial-temporal characteristics analysis of drought in Hebei Province in recent 49 years[J]. Journal of Nanjing University of Information Science & Technology（Natural Science Edition）,2015,（3）: 260 - 267.]   \n[25］李双双,杨赛霓,刘焱序,等.1960—2013 年京津冀地区干旱— 暴雨一热浪灾害时空聚类特征[J].地理科学,2016,36（1)： 149-156.[LI Shuangshuang,YANG Saini,LIU Yanxu,et al. Spatio-temporal clustering characteristics of drought,heavy rain and hot waves in the Beijing-Tianjin-Hebei Region during 1960— 2013[J].Scientia Geographica Sinica,2016,36(1）:149-156.]   \n[26］张金龙,刘学锋,于长文.河北省干旱分布特征和变化规律分 析[J].干旱区研究,2012,29（1）:41-46.[ZHANG Jinlong, LIU Xuefeng,YU Changwen.Analysis on distribution and variation of drought in Hebei Province[J].Arid Zone Research,2012,29 (1):41-46.]   \n[27］张婧,梁树柏,许晓光,等.基于CI指数的河北省近50 年干旱 时空分布特征［J].资源科学,2012,34（6)：1089－1094. [ZHANG Jing,LIANG Shubo,XU Xiaoguang,et al. Temporal and spatial distribution characteristics of droughts for recent 5O years in Hebei Province based on meteorological drought composite index [J]. Resources Science,2012,34(6):1089 -1094.]   \n[28］李颖,冯玉,唐伟男,等.基于 Copula 函数的辽西地区农业气象 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干旱灾害分析[J].干旱地区农业研究，2018，36(2)：279- 287.[LI Ying,FENG Yu,TANG Weinan,et al.Analysis of agricultural meteorological drought disaster around western Liaoning Province based on Copula function[J].Agricultural Research in the Arid Areas,2018,36(2) :279-287.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29］闫峰，王艳姣，吴波.近50 年河北省干旱时空分布特征[J].地 理研究,2010,29(3）:423-430.[YANFeng,WANG Yanjiao, WUBo.Spatial and temporal distributions of drought in Hebei Province over the past 5O years[J].Geographical Research,2010, 29(3):423-430.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hazard assessment of drought disasters in Beijing-Tianjin-Hebei region based on Copula for recent 6O years ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LI Qian1,3, WANG Ying1,2,3 , XU Ying-jun1,2,3 YU Hai-yang4 , LONG Shuang'’ 1,3 HUANG Jing-ling1,3 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofEnvironmentChangeandNatural Disaster,MnistryofEducation,Beijing Normal Universityeijing   \n100875,China；2State KeyLaboratoryof Earth Surface Procesesand Resources Ecology,Beijing Normal University， Beijing 100875,China；3FacultyofGeographical Science,Beijing Normal University,Beijing 100875,China; 4Hebei Meteorological Disaster Prevention Center,Shijiazhuang O5oO21,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Drought disaster isoneof the major meteorological disasters inthe Beijing-Tianjin-Hebei region,China with serious economicand foodsecurity impacts.The hazardof drought disasters is evaluated to identifythe high hazard areas,and provide references for the disaster prevention and emergency control.Based on the precipitation dataof 37 meteorological stations from 1958 to 2017,the standardized precipitation index at6-month scale（SPl6) is calculated.And the drought duration andthe drought severityare defined using the run theory.Weuse Kolmogorov-Smirnov method and $A I C$ method to confirm the most fitted marginal distributions and the Copula function.The return periods of drought duration and drought severity are calculated under diferent return periods （RP5 a,10 a, （204号 $^ { 3 0 \\mathrm { ~ a ~ } , 5 0 \\mathrm { ~ a ~ } , }$ ). The results show that the $S P I 6$ is in a downward trend from the mid-196Os to current times.The exponentialdistributionandthegeneralized extreme value distributionaretheoptimal marginal distributionsof drought durationand drought intensity,respectively.Frank Copula has the bestfiting in thecalculation of joint probability distribution.As far as the joint return periods of drought duration and drought severity show Beijing,Cangzhou, Hengshui and north Chengde of Hebei Province have a long joint return period with low hazard and the rest of the region has a short joint return period with high hazard（RP3Oa,5Oa).The theoretical joint return period of the drought disasteris close to theactual situation,which indicates that the jointreturn periodcanbetterreflect he situations of drought disasters. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words：drought；standardized precipitation index；Copula；joint distribution；Beijing-Tianjin-Hebei region ",
+        "page_idx": 11
+    }
+]

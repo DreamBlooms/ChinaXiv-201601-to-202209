@@ -1,0 +1,156 @@
+# SCIENTIFIC REPORTS
+
+# OPEN
+
+# Antigenic Patterns and Evolution of the Human Influenza A (H1N1) Virus
+
+Received: 17 March 2015   
+Accepted: 19 August 2015   
+Published: 28 September 2015
+
+Mi Liu1,2,\*， Xiang Zhao3/\*， Sha $\mathsf { H u a } ^ { 2 , 4 , \star }$ , Xiangjun Du5, Yousong Peng6, Xiyan Li3, Yu Lan3, Dayan Wang3, Aiping $\boldsymbol { \mathsf { W } } \boldsymbol { \mathsf { U } } ^ { 2 , 2 }$ , Yuelong Shu3 & Taijiao Jiang1,2
+
+The influenza A (HN1) virus causes seasonal epidemics that result in severe ilnesses and deaths almost every year.A deep understanding of the antigenic patterns and evolution of human influenza A (H1N1) virus is extremely important for its effective surveillance and prevention.Through development of antigenicity inference method for human influenza A $( H \bot N \bot ) ,$ named PREDAC-H1, we systematically mapped the antigenic patterns and evolution of the human influenza A $( H \pmb { \bot } N \pmb { \bot } )$ （20 virus. Eight dominant antigenic clusters have been inferred for seasonal H1N1 viruses since 1977, which demonstrated sequential replacements over time with a similar pattern in Asia,Europe and North America.Among them,six clusters emerged first in Asia.As for China, three of the eight antigenic clusters were detected in South China earlier than in North China,indicating the leading role of South China in HiN1 transmission.The comprehensive view of the antigenic evolution of human influenza A (HNi) virus can help formulate better strategy for its prevention and control.
+
+Seasonal influenza is a long-term threat to human health that causes significant morbidityand mortality every year. Studying the antigenic evolution and seasonal antigenic patterns of human influenza is crucial to formulating effective vaccine strategies.
+
+History of human influenza A (H1N1) can date back to the“Spanish flu”in l918,which infected almost 500 millon1,² people around the world and killed about 50 million of them3.After being in circulation for nearly 40 years, human influenza A (H1N1) virus disappeared in l957 after the emergence of human influenza A (H2N2) virus4.In 1977,the virus reappeared and has been co-circulating with human influenza A (H3N2)virus ever since5.In 2009,a triple reassortant strain of the human influenza A (H1N1) subtype caused severe outbreaks around the world and gradually replaced old lineages6.
+
+The long-term epidemic of human influenza A (H1N1) virus is benefited from its fast genetic mutation.To escape the host immune protection, the viral surface antigens underwent frequent mutations and thus antigenic changes.Therefore characterization of the genetic and antigenic evolution of human influenza A (H1N1) is very important for its prevention and control. Masoodi et al.7,Bragstad et al.8 and McDonald et al.9 explored the antigenic and genetic evolution of 2009 pandemic H1N1 virus and some periodical seasonal H1N1 viruses. By using a method named BMDS which combines antigenic maps with genetic information, Bedford et al. also assessed the antigenic cartography of $\mathrm { H } 1 \mathrm { N } 1 ^ { 1 0 }$ .But its antigenic data were limited, particularly for the viruses in the early years.More recently,by mainly
+
+Center for Systems Medicine,Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union MedicalCollge, Beijing1oooo5;Suzhou InstituteofSystems Medicine,Suzhou,Jiangsu 215123,China.Key Laboratoryof Proteinand Peptide Pharmaceuticals,Institute of Biophysics, ChineseAcademy ofSciences,Beijing 100101,China.3National Institute for Viral Disease Control and Prevention,China CDC,Beijing 1o22o6,China. 4Universityof the Chinese Academy of Sciences,Beijing1ooo49,China.5Departmentof Ecologyand Evolution, Universityof Chicago,Chicago,IL 6o637.Colege of Information Science and Engineering, Hunan University Changsha 41oo82，China.\*These authors contributed equally to this work.Correspondence and requests for materials should be addressed to A.W. (email: wuaiping@moon.ibp.ac.cn)orY.S. (email: yshu@cnic.org.cn)or T.J. (email: taijiao@moon.ibp.ac.cn)
+
+![](images/a234bfcfbb43d5dce4d62cdc56bcced2ea127d0a7194cee86d01bd09eafedbd3.jpg)  
+Figure 1.Methodology and validation of the PREDAC-H1 method.(a)Workflow of the PREDAC-H1 method,antigenic correlation network was illstrated using Cytoscape software31. (b) Retrospective testing to infer the antigenic relationships between influenza A (H1N1) viruses.(c) Comparison of inferred antigenic clusters and predominant clusters in the US from the 1994-1995 to 2013-2014 epidemic seasons as reported by US CDC.Five dominant clusters are colored and labeled.
+
+focusing on phylogeny analysis coupled with epidemiological modeling, Trevor et al. mapped the global circulation pattrns of seasonal H1N1 viruses1. Despite the previous efforts,a global view of the antigenic patterns of H1N1 remains unclear.
+
+Here we systematically investigate the antigenic patterns and evolution of the human influenza A (H1N1) virus from 1918 through 2014.We first develop the sequence-based antigenic inference method named PREDAC-H1 based on the PREDAC that we previously developed for modeling the antigenic clusters of human H3N2 viruses.Then we apply PREDAC-Hl to infer the antigenic clusters from a large-scale sequence data covering the whole epidemic history of H1N1. By tracking and comparing the antigenic clusters across different regions,we provide a comprehensive view of the antigenic evolution of the human influenza A(HiN1) virus.
+
+# Results
+
+Modeling the Antigenic Patterns ofthe Human Influenza A(HN1) Virus with PREDAC-H1. In order to model the antigenic paterns of the human influenza A(HiN1） virus,we developed the PREDAC-Hl method.This method was derived from our previous PREDAC method for $\mathrm { H } 3 \mathrm { N } \bar { 2 } ^ { 1 2 }$ ,and the workflow is shown in Fig.la.There are three key steps in the PREDAC-H1 method. First, the antigenic relationships between pairs of viruses were postulated as being either antigenic variant or similar with a Naive Bayes model (see Methods and Materials). Then,antigenic similar viruses were used to construct an antigen correlation network (see Methods and Materials).Finaly, based on this network, antigenic clusters were identified using the Markov Cluster Algorithm (MCL) method13.
+
+In order to test the performance of the PREDAC-Hl method, we collected hemagglutination inhibition (HI) assay data from the Weekly Epidemiological Record (WER) of the WHO.A total of 16l antigenic relationships between 47 viruses were used for further retrospective testing. The results showed a fairly good performance of the PREDAC-H1 method with the average accuracy, sensitivity and specificity reaching $7 2 . 6 \%$ $7 4 . 1 \%$ and $7 1 . 2 \%$ ,respectively (Fig. 1b).
+
+![](images/1c4ebb7eb85256c30515fc830fef6ff5d02265686465a961ea5ddd71ccb50f73.jpg)  
+Figure 2.Antigenic and genetic evolution of human influenza A (H1N1) viruses.(a) Phylogenetic tree of the HAl region of the H1N1 HA protein.The tree was rooted using A/Brevig Mission/l/1918 strain as outgroup. (b) Inferred antigenic correlation network and antigenic clusters of human influenza A (H1N1) viruses.Clusters are colored and named as the abbreviation of vaccine strains.The circulation periods of each cluster are provided in parenthesis. (c) Genetic distance (calculated as amino acid substitutions) on HA1 of human influenza A (H1N1) strains to the A/Brevig Mission/l/1918 (H1N1) virus,each dot represents a virus strain.The strains were colored as antigenic clusters in Fig.2b.The strains from l918 to 1957,strains from l977 to 2O08,the swine-origin human-infecting strains were separated by gray lines. (d) Genetic distance(calculated as amino acid substitutions)on HAl of human influenza A (H3N2) strains to the A/Hong Kong/1/1968 (H3N2) virus.Strains were colored as the antigenic clusters they belonged to.
+
+To test whether PREDAC-H1 was able to capture antigenic paterns of H1N1, we defined the predominant cluster of one season as the major antigenic cluster in the given season and further inferred seasonal predominant clusters for the human influenza A (H1N1) viruses surveyed by US CDC（The Centers for Disease Control and Prevention). By comparing actual predominant clusters reported by US CDC (Fig. $1 { \mathrm { c } } ) ^ { 1 4 }$ ,we found that almost all antigenically different vaccine strains were separated into the diferent antigenic clusters we inferred. Also,these predominant antigenic clusters were consistent with those reported by US CDC. Of the 15 seasons with sufficient sequence data, we accurately inferred 14 of them (Fig. 1c).
+
+Antigenic Evolution of the Human Influenza A(HiN1) Virus Since 1g18. Using the PREDAC-H1 method, we constructed comprehensive antigenic patterns of the seasonal human influenza A (H1N1) virus from 1918 to 2014 (Fig.2).Two significantly diffrent lineages were observed in the phylogenetic tree (Fig.2a). One lineage consists of the seasonal human influenza A (H1N1) viruses from l918 to 2008 and the other was the swine-origin human-infecting influenza A(H1N1) virus,which included the pandemic H1N1 virus in 2009.The first lineage can be divided into 16 antigenic clusters (Fig.2b). There were nine antigenic clusters from 1918 to 1957 and seven from 1977 to 2008.During the period of 1918-1957,several antigenic clusters co-circulated with each other. For example, there was a main cluster in circulation for 11 years from 1947 to 1957 accompanied by two smaller clusters with duration of 1947-1950 and 1951-1954 respectively. The smallcluster of viruses sampled from l948 to 1950 was antigenically similar to the CH83 cluster, which was consistent with previous studies15,16.
+
+The seven antigenic clusters between 1977 and 2008 were named according to the vaccine strains they contained.The circulation time of these antigenic clusters ranged from 1 to 10 years (Fig.2b).The duration of an antigenic cluster was also reflected in the period of vaccine use recommended by WHO.For example,A/New Caledonia/22/1999 was recommended as a vaccine strain from the 2000-2001 season to
+
+Asia808 XXVK  
+eeernelieergregrereeeeeeeee 40Europe0.8 VXWOXX0.60.40.20North America CA07  
+Tp SO060.8NE990.6 BE950.4 TE91S1860.2 CH83萬會會會萬品富富名品名名名言 201
+
+the 2006-2007 season.CH83 was the main cluster circulating from 1977 to l985,but this was replaced by SI86 in 1986. SI86 was only dominant for about three years before being replaced by TE9l in 1989. TE91 was the main cluster circulating around the world in the 1990s.In 1994,the BE95 cluster emerged in some regions and circulated for several years.The NE99 cluster emerged in 1998 and was the dominant cluster around the world from 20oo to 2006.Interestingly,the antigenic clusters SO06 and BR07 were two branches that evolved from the NE99 cluster.They co-circulated with each other during 2007 and 2008.After 2O09,allprevious antigenic clusters died away after the emergence of the CAO9 cluster.
+
+We observed that swine-origin human-infecting influenza viruses were sporadic before 2009 and could be divided into several distinct antigenic clusters, which were consistent with previous reports17,18 (Fig.2a,b).Notably,the viruses in the same cluster could be collected from diferent regions and at different time.For example,a smallcluster consisted of four viruses from both Switzerland and China that were sampled in 2002,2009 and 201,suggestive of sporadic swine to human transmision before 2009. From 2009 to 2014,H1Nlpdm formed only one antigenic cluster named as the WHO-recommended vaccine strain CA09,which replaced the anterior seasonal H1N1. Based on the antigenicity inference and phylogenetic analysis,the CA09 was closest to the swine-origin viruses isolated in the US from 1995 to 2012.
+
+As we observed three distinct stages in the antigenic evolution of H1N1,we further analyzed the genetic evolution rates of these stages by comparing to that of human H3N2 (Fig. 2c,d).The genetic evolution of H3N2 was approximately linear while that of human H1N1 was much more complicated and differed significantly among the three stages.From l918 to 1957,the genetic variation of strains presented approximately linear relationships.As for the genetic evolution of strains from l977 to 2008, they did not evolved linearly from strains in 1918 since strains in 1977 were antigenically and genetically similar to those around l95o.In terms of swine-origin human-infecting influenza viruses,though the number of strains was quite limited before 2O09,we stil observed that those strains were approximately linear, with a slope lower than seasonal influenza from l918 to 1957 and higher than that from 1977 to 2008.We also compared the evolutionary rates in antigen region and non-antigenic region for H1Nl and H3N2(see Supplementary Fig. S4 online). We found that for both H1N1 and H3N2,the evolutionary rate in antigenic region was much higher than that in non-antigenic region.
+
+Antigenic Patterns of the Human Influenza A $( H \pmb { 1 } N \pmb { 1 } )$ Virus in Different Regions.In order to study detailed antigenic patterns in different regions,we mapped antigenic clusters of human influenza A (H1N1) viruses in Asia,Europe and North America.Detailed predominant clusters during each year are shown in Fig.3.The earliest emergence of each antigenic cluster is marked by a colored bar. Here, we defined the emergence of a new antigenic cluster if the new antigenic cluster emerged with cluster percentage above $5 \%$ .Most clusters after i990 first emerged in Asia.The BE95,NE99 and BR07 antigenic clusters were first detected in Asia and the SOo6 cluster was frst detected in Asia and North America. The SO06 cluster circulated in conjunction with the BR07 cluster in Asia from 2007 to 2009.The BE95 cluster caused a long-term epidemic in Asia (including China),but was only dominant in Europe for one year (1998) and was not detected in North America during any year, according to sequence data. This showed the low activity of the BE95 cluster in both Europe and North America.The SO06 cluster was not predominant in Europe or North America during any year. The early appearance of most new antigenic variants and the diversity ofantigenic clusters in Asia reinforce the origin of influenza variants in this region.
+
+After further analysis of detailed antigenic patterns in Asia, we found that China played an important role in transmisson of the human influenza A(H1N1) virus.The CH83 cluster first appeared in China a year before it appeared in other regions of Asia. The SO06 cluster was the dominant antigenic cluster from 2006 to 2O08 while the BRO7 cluster was dominant in other regions of Asia,Europe and North America.The SO06 cluster also appeared in China earlier than it appeared in other regions of Asia (see Supplementary Fig. S2 online). According to our previous work, most antigenic clusters of the human influenza A (H3N2) virus also first appeared in China,and some were only dominant in this countryl2.
+
+Circulation of the Human Influenza A (HiNz) Virus in Different Regions of China.As we have demonstrated, China played a leading role in the circulation of the human influenza A(H1N1) virus.To gain a deep understanding of the antigenic evolution of human H1N1 inside China,the Chinese Center for Disease Control and Prevention (China CDC) has conducted large-scale sequencing of HA segments from representative regions of China during influenza surveillance. By combining these data with those collected from a public database (see Materials and Methods),we further mapped the antigenic evolution of influenza H1N1 in different regions of China (see Supplementary Fig. S1 online). China can be divided into two regions,South and North China with diffrent climates and geographical traits, by the Huai River-Qin Mountains line (Fig.4a).
+
+We mapped the antigenic evolution of H1N1 in South and North China (Fig.4b).From l981 to 2011, there were seven antigenic clusters including CA09 in circulation in both regions of the country. Of these seven antigenic clusters,SOo6 and CAO9 were detected in the same year in both South and North China, and the exact time of the BE95 and NE99 clusters in North China could not be located due to missing data.While for the other three antigenic clusters (SI86,TE91 and BRO7),they emerged earlier in South China than in North China.
+
+It was also observed the circulation patterns were much more complex in South China. The co-circulation of two different antigenic clusters (either with a percentage above $3 0 \%$ ）was discovered in both South and North China.We defined the complexity of co-circulation as co-circulation entropy (see Methods and Materials)and ploted the entropy value for each year in South and North China (Fig. 4c). In 1985,1989 and 20o6,there observed co-circulation of both newly emerged antigenic clusters and old antigenic clusters in South China.Although the new antigenic cluster BE95 emerged and became dominant since 1994,the old TE91 cluster re-appeared and reclaimed the predominance in 1995 and 1996 in South China and North China respectively. In 2O07,there emerged two new antigenic clusters (namely BR07 and SOo6) in co-circulation in South China.In North China,there also observed co-circulation of two antigenic clusters in 1992,1996 and 2004.
+
+# Discussion
+
+By developing and using the sequence-based antigenicity inference approach PREDAC-H1, we systematically identified the antigenic clusters of human influenza A (H1N1) and analyzed its antigenic evolution. With large scale HA sequencing of H1N1 in China, we further mapped the detailed antigenic patterns in China.
+
+Given that there exists some bias distribution of the sequence data,the antigenic paterns inferred based on sequence data available could not reflect perfectly the actual epidemics.But nevertheless our method provides a preferable way to correlate sequence data with influenza circulation and the expected results correlated well with the US CDC reports. Due to the rapid development of sequencing technology and improved surveillance strategies,sequence samples willbecome more reliable and the inferred antigenic clusters willreflect the actual epidemics more accurately. Recently, some methods were developed to predict the predominant H3N2 strains in the next season19,20. Similarly, our sequence-based antigenicity inference method could be further developed into a prediction method with proper modification.
+
+The average replacement cycle of antigenic clusters of H1N1 and H3N2 was 4.6 years and 3.3 years21, respectively，which shows that H1N1 experienced much slower antigenic evolution.Asia (including China) is thought to be an important region for the transmission of influenza,and some previous studies2,23 have demonstrated the leading role Asia plays in the transmisson of H3N2. Our results indicated that the antigenic pattern of human influenza A (H1N1) was more complex in Asia and most new antigenic clusters first appeared in this region.Some clusters are predominant in Asia,only causing small epidemics in Europe and North America. The southern region of China may play an important role in the seeding and transmisson of influenza due to the earlier emergence of most antigenic clusters.Those findings were consistent with Trevor et al.'s work1 which showed that most lineages of H1N1 eventually coalesced with viruses from East and Southeast Asia and India with the geographic segregation.
+
+Quite different from H3N2,H1N1 demonstrated extensive co-circulation of different antigenic clusters. Intriguingly, the resurgence of some old clusters was also observed even after a new antigenic cluster had become predominant for a while (Fig.3).For example, in Asia, SI86 cluster reappeared in 1991 after being replaced by TE91 cluster in 1989. The co-circulation was even more complicated in Asia since H1N1 was much more active here than in other regions.
+
+Our work also highlights the necesity of region-specific H1N1 vaccine recommendations. Our analyses showed that two of the seven H1N1 antigenic clusters during 1977-2008 mainly dominated in Asia.
+
+Heilongjiang Xinjiang Jilin InnerMongolia Liaoning Beijing Tianjin Hebei Qinghai Shandong Ningxia Shanxi . Tibet Gansu Henan Jiangsu Shaanxi Anhui Shanghai Sichuan Chongqing Hubei Jiangxi Zhejiang Guizhou Hunan Fujian Yunnan Taiwan Guangdong 1-10 10-100 >100 Guangxi Macao HongKong . Hainan   
+b D XXVXXX 1981198319851987 1989199119931995199719992001 20032005 20072009 2011 North China 1.0 0.8 WXVXX 0.6 seric 0.4 0.2 0 1981198319851987 198919911993199519971999200120032005200720092011 South China ★ ★ ★ North China   
+C 288 1.2[South China + 1981 198319851987 1989 1991 1993 19951997 1999 20012003 20052007 20092011 非 1981 198319851987 1989 19911993 19951997199920012003 20052007 20092011
+
+For example,the BE95 cluster dominated in Asia from l994 to 1997,dominated in Europe in 1998 and never dominated in North America.The similar phenomenon was also discovered in the evolution of $\mathrm { H } 3 \mathrm { N } 2 ^ { 1 2 }$ .The JX06 antigenic cluster of H3N2 was dominant in China in the 2006-2007 season, but it didn't dominate in the United States or Europe.No doubt, characterization of the antigenic patterns of H1N1 in different regions and the further study of the co-circulation patterns of H1N1 and H3N2 are helpful to formulating better surveillance strategies.
+
+# MethodsandMaterials
+
+HA Sequence Data. Sequence data was obtained from the Influenza Virus Sequence Database of the $\mathrm { N C B I } ^ { 2 4 }$ . Chinese data was too limited to be able to obtain a more detailed description of antigenic evolution in China,so we obtained more sequence data from the China CDC and the Global Initiative on Sharing All Influenza Data (GISAID).For sequences with same name, we only selected one of them. All HA1 sequences were aligned with ClustalW25.A phylogenetic tree was constructed using PhyML26 and displayed using Dendroscope²7.
+
+Hemagglutination Inhibition (HI) Data for the Human Influenza A (HiNi) Virus. We collected a dataset of HI measurements from the Weekly Epidemiological Record (Supplementary Table S1 online for detailed information) of the WHO.We then used Archetti-Horsfall distance $\mathrm { ( d A H ) ^ { 2 8 } }$ to define the antigenic relations between viruses,which is defined as follows:
+
+$$
+d A H = { \sqrt { \frac { H _ { i i } H _ { j j } } { H _ { j i } H _ { i j } } } }
+$$
+
+Where $\mathrm { H _ { i j } }$ refers to the HI titer of strain $i$ relative to antisera raised against strain $j$ .A pair of viruses were considered antigenic similar if $\mathrm { d A H } < 4$ (as in Liao's work29),otherwise they were considered antigenic different.For pairs with multiple HI test results,we used the median of our dataset.In total, we obtained 70 antigenic variant pairs and 9l antigenic similar pairs.
+
+Naive Bayesian Model to Infer the Antigenicity of the Human Influenza A (HiN1) Virus.The first step in modeling the antigenic evolution of the human influenza H1N1 virus was accurately inferring the antigenic relationship between two viruses.We developed a feature-based model of human influenza $\mathrm { H } 3 \mathrm { \bar { N } } 2 ^ { 1 2 }$ that took into account the structural and physicochemical features that underline antigen-antibody interaction. We adapted it to the human influenza H1N1 virus by making two modifications, using the epitopes of $\mathrm { H } 1 \mathrm { N } 1 ^ { \overline { { 3 } } 0 }$ and the HI dataset described above as a training dataset. Based on the training dataset, we calculated a threshold cut-offor each feature,and then built a Naive Bayes classifier to infer antigenic relationships,as we performed in the earlier workl2.In 5-fold validations,the accuracy rate of the model was $8 2 \%$ . The viruses in the HI dataset were sampled from 1977 to 2007,but the number of virus pairs before 1995 and after 2005 were quite limited so we only conducted retrospective testing for the period from 1995 to 2005.For 1995,we used pairs in which both viruses were collected before 1995 (including l995) as the training dataset and the remaining pairs as the testing dataset.
+
+Mapping the Antigenic Clusters of the Human Influenza A $( H \pmb { \bot } N \pmb { \bot } )$ Virus. We used the computational PREDAC-H1 method to model antigenic clusters of H1N1 viruses.The antigenic relationship between each pair of viruses in a group of H1N1 viruses was inferred based on their HA sequences. Then, we constructed an antigenic correlation network (ACnet)12 by connecting pairs of viruses inferred to be similar in their antigenicity. Groups of viruses with similar antigenicity,denoted as expected antigenic clusters, could then be identified from the ACnet using MCL (see Supplementary Fig. S3 online for detailed selection of inflation parameters).
+
+Co-circulation Entropy. Co-circulation entropy is defined as:
+
+$$
+\begin{array} { r } { H = - \sum _ { 1 } ^ { n } p _ { i } { * } l o g _ { 2 } p _ { i } } \end{array}
+$$
+
+Where $\mathfrak { p } _ { \mathrm { i } }$ refers to the percentage of an antigenic cluster in one year. The value of this parameter reflects the degree of co-circulation of antigenic clusters.
+
+# References
+
+1.Frost,W.H.StatisticsofInfluenza Morbidity:With Special ReferencetoCertainFactorsinCaseIncidenceandCaseFatality. Public Health Rep.35,584-597 (1920).   
+2.Burnet,F&Clark,E.Influenza:asurveyof thelast5Oyears inthelightofmodern workonthevirusofepidemicinfluenza. J. Am. Med.Assoc.120,408 (1942).   
+3.Johnson,N.PA.S.&Mueler,JUpdating theaccounts:globalmortalityofthe1918-192“Spanish"influenzapandemic.Bul. Hist.Med.76,105-115 (2002).   
+4. Kilbourne,E.D.Influenza pandemics of the 20th century. Emerg. Infect. Dis.12,9-14 (2006).   
+5.World Health Organization.Influenza.Wkly. Epidemiol. Rec.53,21-24 (1978).   
+6.World Health Organization.Recommended viruses forinfluenza vacines foruse in the20l0-20ll northern hemisphere influenza season.Wkly.Epidemiol.Rec.85,81-92 (2010).   
+7.Masoodi,T.A.etal.Comparativeanalysisofhemagglutininofo9HN1infuenzaApandemic indicatesitsevolutioto918 H1N1 pandemic. Gene 491,200-204 (2012).   
+8.Bragstad,K,esen,LP&Fomgaad,AeevoutioofumaniuenaAusefrom99to6:ompleegeoe study.Virol.J. 5,40 (2008).   
+9.McDonald,N.J,Smith,C.B.&Cox,N.JAntigenicdriftintheevolutionofHNinfluenzaAvirusesresultingfromdeletion of a single amino acid in the haemagglutinin gene.J. Gen. Virol.88,3209-3213 (2007).   
+l0.Bedford,T.et al.Integrating influenza antigenic dynamics with molecular evolution.Elife 3,1-26 (2014).   
+1.Bedford,T.etal.Globalculationatesofsasonalinfuenavusesvarywithntigenicdrift.Nature5,-(15).   
+l2.Du,X.etalMapingofH3NinfenaantigenicevolutioninChinarevealsastrategyforvaccinestrainrecommendation.Nat. Commun.3,709 (2012).   
+l3.Enright,A.J,Vaongn,S.&Ouzounis,C.A.Aentalgitforgecaledtectiofproteinfl.Nucleiccis Res.30,1575-1584 (2002).   
+14.Centers forDiseaseControlandPreventionWeekly U.S.InfluenzaSurveillnceReport.Availableat:htp://www.cdc.gov/fu/ weekly/. (Accessed:15th February 2015).   
+15.Nakajima,K.,Desselberger,U.&Palese,PRecenthumaninfluenzaA(H)virusesarecloselyrelatedgeneticallostrains isolated in 1950. Nature 274,334-339 (1978).   
+16.Shenerovich,S.,Molibog,E.,akhno,M,Zakstelskaia,Li.&ZdanovV.Antigenicandbiologicalcharacteristicsofe (H1N1) strains that caused the 1977-1978 epidemic. Vopr Virusol 5,480-6 (1979).   
+17.WebbyRJooKcsos,Y&bteruliplelgicageicallee A virus co-circulate in the United States swine population.Virus Res.103,67-73 (2004).   
+18.Shu,B.etal.GeneticanalysisandantigeniccharacterzationofswineorigininfuenavirusesisolatedfromumansintheUited States,1990-2010.Virology 422,151-160 (2012).   
+19.Steinbrick,L,Klingen,T.R.&McHardy,A.C.ComputationalpredictionofvaccnestrainsforhumaninfuenzaA(H3N2) viruses.J.Virol.88,12123-12132 (2014).   
+20.Luksza,M.&Lässg,M.A predictive fitness model for influenza.Nature 507,57-61(2014).   
+21.Smith,D.J,Lapedes,A.S.&deJong,JC.MapingtheAntigencandGeneticEvolutionofinfuenzaAvirusecience305, 371-376 (2004).   
+22.Russell,C.A.et al.The global circulation ofseasonal influenza A (H3N2) viruses.Science 320,340-6 (2008).   
+23.Bahl,Jetal.Tmporallructurdtapoplatiodaicsndpersistencefifuusimas.rocat. Acad. Sci. USA 108,19359-64 (2011).   
+24.Bao,Y.etal.TheinfuenzavirusresourceattheNationalCenterforBiotechnologyInformation.JVirol.82596-6ol(08).   
+25.Thompson,J.D,Gbson,T.J.&iggins,D.G.inCurrentrotocolsinioinformatics (JohnWiley&ons,Inc.,)doi 10.1002/0471250953.bi0203s00.   
+26.Guindon,S.&Gascuel,O.Asmple,fast,andaccuratelgorithmtoestimatelargephylogeniesbymaximum likeliod.Sys. Biol. 52,696-704 (2003).   
+27.Huson,D.H.etal.Dendroscope:Aninteractiveviewer forlargephylogenetic trees.BMCBioinformatics8,460 (2007).   
+28.Archeti,&Hrsfall,FLJersistetantigenicarationofifuenaAvrusesafterincompleteeutralationioith heterologous immune serum.J. Exp. Med. 92,441-462 (1950).   
+29.Liao,Y-C.Le,.-S.KoC.-Y.&Hsiung,C.Aoiformatics modelforpredictinganigenicvarintsofifuena/H2 virus.Bioinformatics 24,505-12 (2008).   
+30.Deem,M.W.&an,K.TeepitoperegiosofH-subtypeinuenza A,withapicationtovaccneeffcacy.ProteinEng.Des. Sel. 22,543-6 (2009).   
+31.Shannon,P.etal.CytoscapeAsoftwareEnvironmentforintegrated modelsofbiomolecularinteractionnetworks.GenomeRes. 13,2498-2504 (2003).
+
+# Acknowledgements
+
+This study was supported by the National Foundation of Talent Youth (31125016)and National Science and Technology Major Project of the Ministry of Science and Technology of China (2014ZX10004002- 001-002) to TJ,and National Natural Science Foundation of China (31470273) to AW. We are grateful to the authors who submitted the sequences used in this study to GenBank and GISAID.
+
+# Author Contributions
+
+T.J., Y.S.and A.W.conceived and directed the project. M.L.,S.H., X.D.and Y.P.performed the computation.   
+X.Z., X.L, Y.L. and D.W. did the large-scale HA sequencing. T.J., A.W. and M.L. wrote the paper.
+
+Additional Information Supplementary information accompanies this paper at http://www.nature.com/srep
+
+Competing financial interests: The authors declare no competing financial interests.
+
+How to cite this article: Liu,M.et al.Antigenic Patterns and Evolution of the Human Influenza A (H1N1) Virus. Sci.Rep.5,14171; doi:10.1038/srepl4171 (2015).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/

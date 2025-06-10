@@ -1,0 +1,227 @@
+# 英国海外发展研究所的使命、运作机制与发展动态
+
+# 杨志刚
+
+江苏大学科技信息研究所 镇江212013
+
+摘要：[目的/意义]在全球化发展背景下，考察英国海外发展研究所的运行机制、研究方向和实践活动，为发展中国家的发展、合作问题研究提供借鉴与参考。[方法/过程]采用案例研究方法，主要通过文献调研和网站调研收集数据，援引海外发展研究所发布的一手出版物及相关研究报告，同时参考了国际权威的智库排名报告，对其历史和现状进行考察。[结果/结论]海外发展研究所组织运行独立、专业、透明，有问责机制，研究集中于经济、社会保护、农业、水资源、气候、人道主义等领域，主要面向发展中国家，提供优质研究、政策建议、咨询服务以及定制培训，并设立研究员奖学金计划，为发展中国家输送优秀的经济学及统计学关键词：海外发展研究所智库发展发展中国家
+
+# 1研究背景
+
+在全球化发展程度日益明显和加剧的时代背景下，世界各国的联系与合作越来越紧密每个国家、地区都不可能孤立地发展。全球化进程中，货物与资本越境流动，实现世界范围内的资源调配，各国、地区的经济不断融合，进入快速发展时期。然而全球化也带来各种冲突、矛盾和问题。在经济方面，发展不平衡，不同地区、不同阶层贫富差距拉大，经济发展的成果并没有惠及到每个普通民众。在政治上，全球范围内公共机构的权威和信任度出现了不同程度危机，贪污、腐败、独裁、分裂等带来国家与地区的动荡不安，和平发展受到阻碍。而因为冲突和社会暴力，没有发言权和社会地位的人（妇女、儿童、少数民族和边缘化的社会群体）面临失去生命、健康或生活保障的风险。此外，全球气候变化所引发的生态、资源等问题也日益突出，可持续发展成为发展议题的一个焦点。面对全球化进程中的各种问题与风险，2015年8月，联合国193个会员国就2015年后发展议程达成一致，提出“2015年后发展议程目标”，包括17个可持续发展目标和169个具体目标，各国承诺努力使新议程到2030年得到全面执行。17个可持续发展目标涵盖消除贫困与饥饿、健康、教育、性别平等、水与环境卫生、能源、气候变化等领域。其重点是：消除贫困和饥饿，促进经济增长；全面推进社会进步，维护公平正义；加强生态文明建设，促进可持续发展[1]。
+
+目前我国正处于"决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利"发展的新时期，在发展的过程中同样面临着全球化发展中的各类问题，如"在发展中补齐民生短板、促进社会公平正义""深入开展脱贫攻坚，保证全体人民在共建共享发展中有更多获得感不断促进人的全面发展、全体人民共同富裕""坚持人与自然和谐共生""坚持节约资源和保护环境的基本国策""坚定走生产发展、生活富裕、生态良好的文明发展道路，建设美丽中国，为人民创造良好生产生活环境，为全球生态安全做出贡献"[2]。同时我国积极融入全球发展为全球发展问题提供中国方案，如"走出去"战略和“一带一路"战略。如何更好地与其他国家合作、共同发展、实现共赢也是我国面临的一个重要问题，需要广泛借鉴外部经验。
+
+针对全球化进程中的问题和未来发展目标，全球范围内的政策制定者、发展领域的研究人员和组织机构等纷纷开展研究，提出各种方案、合作计划和解决措施。其中，一些国家的智库团队是解决这些问题的重要力量，他们为政策制定提供了科学依据和实践经验。而我国自党的十八大以来，就提出“坚持科学决策、民主决策，健全决策机制和程序，发挥思想库作用”；党的十八届三中全会又强调“要加强中国特色新型智库建设，建立健全决策咨询制新型智库建设的意见》，中国的公共政策研究正式进入了“智库时代”[3]。而处于起步阶段的中国智库，其建设与发展同样需要借鉴“他山之石”。
+
+英国海外发展研究所（Overseas Development Institute，ODI）正是一所以"发展"为己任的智库机构，该智库积极开展研究，提出基于实证的解决方案，并与各个国家开展对话和合作。它的组织机构建设发展经验、在其他国家开展的科学研究和合作、援助计划等都可以为我国海外发展战略和相关智库建设提供有益参考。因此，笔者从文献调研和网站调研角度，全面介绍、分析ODI的发展历史、使命、理念、组织机构、研究领域等，以期为我国海外发展问题和智库建设提供借鉴。
+
+# 2ODI的使命、理念与战略目标
+
+# 2.1成立与使命
+
+20世纪50年代末以来，变革之风吹遍非洲和整个殖民世界，亚非拉地区的民族解放运动蓬勃发展，并且出现了许多由被压迫民族组成的地区性、洲际性和国际性的组织，如不结盟运动、七十七国集团、非洲国家统一组织、石油输出国组织等。受此影响，资本主义殖民体系逐渐土崩瓦解，一些原有的殖民地和半殖民地国家与地区纷纷获得独立。而英国等老牌帝国主义国家为了维系同曾经的殖民地而现在已经取得独立的国家的关系，开始采用其他方法来维持其在这些国家和地区的影响力。另外，20世纪60年代至80年代中期，许多贫困国家经历了空前的经济大发展。但这一时期，受两次石油危机的影响，工业化国家处于经济衰退的困境之中，第三世界国家则面临贸易和利率方面的不利局面，非洲的饥荒和巨额债务也是不容忽视的问题，“国家、政府干预和计划促进发展”成为主导的经济发展策略正是在这样的国际政治和经济时局下，ODI于1960年应运而生，总部目前位于英国伦敦黑衣修士路203号，邻近地铁银禧线的南华克站。
+
+诞生之初，ODI由福特基金会资助，由英国政商界的精英人员领导，如维克斯公司董事长，杰出的实业家，曾是英国首相温斯顿·邱吉尔和克莱门特·艾德礼的私人秘书的莱斯利·罗恩（LeslieRowan）；剑桥大学教授，誉满全球的经济学家奥斯丁·鲁滨孙（AustinRobinson）等。第一任所长是英国《观察家报》前驻外记者，英国首相艾登新闻顾问威廉·克拉克（William Clark）。另外一名成员安德鲁·科恩（Andrew Cohen）在ODI成立不到一年后重返白厅（代指英国政府），成为英国海外发展部（英国国际发展部的前身）的官员[4]。可以说ODI成立之初就与英国政府存在着天然联系，在某种程度上有益于英国维护海外利益，输出影响力。
+
+因此，20世纪60年代初，ODI研究的优先主题是让英国的相关责任人意识到英联邦范围的贫穷国家人民的政治自由与经济发展问题，并同美国布鲁金斯学会合作，研究援助国家(英国、法国、德国、日本）的援助方法与这些援助对受助国家和地区（非洲、加勒比海和印度）的影响[4]，以确保英国海外发展领域的正确行动[5]。20世纪80年代中期后，则关注市场经济与计划经济的平衡发展问题[4]。
+
+时至今日，ODI已经发展成为英国从事国际发展研究的独立的国际顶端智库。2004年起，与英国国际发展部（DFID）形成合作关系。其使命是制定、宣传、推行相关政策与实践，减少发展中国家的贫困与痛苦，促进其可持续发展。面对全球发展中所存在的问题，ODI认为其"有能力和责任去做出改变，消除贫穷、支持全球气候行动、消除极端不平等和减轻人道主义苦难，都是我们使命的核心”。ODI主要通过融合高质量的应用研究、实际政策建议和围绕政策展开的宣传、论坛等，以及同发达国家和发展中国家的公私机构合作来实现这一使命。宾夕法尼亚大学2018年1月发布了2017年《全球智库报告》，报告指出当前全球各类智库共7815家，而在其173家顶级智库中，ODI排名71位；在西欧124家顶级智库中，ODI排名33位；在教育政策研究领域61家顶级智库中，ODI排名25位；在全球发展研究领域132家顶级智库中，ODI排名14位[7]。从这些排名中可以看出，ODI是一家在全球和地区范围内都具有较强影响力的顶端智库，特别是在全球发展领域，占有重要地位，突
+
+显了该智库的组织定位、研究方向与优势。
+
+# 2.2建设理念
+
+ODI的建设理念如下。
+
+(1）独立性，组织运作和研究保持独立性，不受资助者的思想、政策以及一般舆论的  
+影响。(2）高质量，保证研究、政策建议与公共事务的实践最佳、方法创新和持续提高。(3）公正、多元和平等，公平对待所有员工和合作者，保持尊重。(4）合作，不断努力建设更好组织内人际关系，在协作环境中共同努力，取得更大成  
+就与更大影响。（5）透明和问责，公开公共资金使用情况，向资助者、研究者和合作者全面展示研究  
+与工作情况。(6）可持续发展，以可持续方式使用资源，担当保护生态环境的责任[9]。
+
+# 2.3战略发展目标
+
+为应对全球发展面临的问题与挑战，完成组织使命，ODI在其《2014—2017发展战略应对全球挑战，提升影响力》[8]中提出以下5点战略目标。
+
+(1）消除绝对贫困和实现公平：支撑"2015年后发展议程目标"的实现，强化数据和分析能力，寻找方法解决贫穷和不平等问题，识别最佳的社会保护实践；为金融发展对话提供有效支持；努力促进全球合作，加强与私营企业的合作；在与贫困、不平等问题相关的讨论中积极发声，扩大ODI影响力。
+
+(2）采取有效措施应对气候变化，促进资源的可持续利用：力求提高人们对气候变化与贫穷之间联系的认识和理解，为减少灾害风险和建设抗灾能力提供最佳证据；重点关注机构的气候融资与战略，以及向绿色经济过渡的财政改革；引导发展中国家公共政策支持私企发展可再生能源；在OECD国家和发展中国家同时变革能源发展政策；平衡土地与水资源等自然资源的竞争。
+
+(3）保护民众免遭冲突、灾难和不安全的威胁：越来越多的人暴露在与冲突、气候、自然灾害相关的危机中，ODI努力寻求建立一个更有效、包容的人道主义反应系统，包括与除人道主义部门以外的外交政策制定者进行沟通；创新方法，强化社区，降低大众面临冲突和暴力机率，特别关注女性暴力问题，寻求解决之道。
+
+(4）建设问责和包容性制度：制度建设是发展过程的关键一环。但ODI并非是直接建立正式制度，而是在解决问题过程中注重开创新思维。解决的重点问题包括：向边缘群体提供服务，预算与公共财务管理，政治进程中公众的参与。注重推行与政治改革相关的活动包括进行多年综合性研究，参与政策制定和公共事务活动。通过这些活动来提升和改善公众服务水平。
+
+(5）通过转变生产方式提高生产力和创造就业：关注经济增长方式转变。国际层面研究与政策参与侧重于通过诸如WTO、欧盟、区域贸易组织和国际金融组织等进行全球经济管理；识别那些有益于发展中国家经济增长的国际贸易和金融的规则与实践。国家层面，通过研究来识别提高生产力、发展能力、创造就业和吸引高质量投资的战略。气候层面，促进公私资金投入到基础设施建设中。
+
+# 3ODI的机构管理
+
+3.1组织构成
+
+作为一家独立智库，ODI现有工作人员230余名，包括研究员、传媒工作者和专家[9]。下设董事会和14个研究部门。董事会现由一名主席和9名董事组成[9]。董事会成员主要由来自国际发展领域、政府机构、银行、知名企业、非政府组织的专家和领导人组成。ODI下设的14个部门与捐赠基金会、非政府组织、私营企业、政府部门、多边机构和学术界等广泛开展合作，部门设置情况如表1所示。而作为一家慈善机构，ODI亦接受英国"慈善委员会’
+
+(Charity Commission）和"工商局”（Companies House）的口合管理。ODI还建有自己的图书馆，收藏相关研究资料，特别是有关前非洲和部分亚洲殖民地的资料。图书馆定期编制参考论文索引(Periodicals Reference Bulltin），收录相关重要论文，并向全球30多个国家发布。
+
+表1ODI研究部门Table1 ODI Research Department  
+
+<html><body><table><tr><td>Agricultural Development and Policy</td><td>农业发展及政策</td></tr><tr><td>Climate and Energy</td><td>气候变化</td></tr><tr><td>Communications</td><td>通信</td></tr><tr><td>Development Strategy and Finance</td><td>发展战略与财政</td></tr><tr><td>Growth, Poverty and Inequality</td><td>增长、贫困和不平 等</td></tr><tr><td>Humanitarian Policy Group</td><td>人道主义政策组</td></tr><tr><td>International Economic Development Group</td><td>国际经济发展组</td></tr><tr><td>Politics and Governance</td><td>政治与治理</td></tr><tr><td>Public Finance and Institutions</td><td>公共财政与制度</td></tr><tr><td>Research and Policy in Development</td><td>发展研究和政策</td></tr><tr><td>Risk and Resilience</td><td>危机与反应</td></tr><tr><td>Social Development</td><td>社会发展</td></tr><tr><td>Social Protection & Social Policy</td><td>社会保护与社会政</td></tr><tr><td>Water Policy</td><td>水资源政策</td></tr></table></body></html>
+
+3.2财务管理
+
+ODI运行与科研经费资助来源广泛，主要有基金会、非政府组织、私营企业、政府部门、多边机构和学术组织等。2016—2017 （2016.03.31—2017.03.31）年度报告[1]中显示，其年收入约4,132万英镑，包括捐款、奖学金、项目基金、出版盈利等。而且近年来的资金收入保持不断增长的趋势（如图1所示），这为ODI的可持续运作提供了经济保障。2016—2017年度各类项目与合作计划收入情况，以及主要资助机构如图2和表2[15]所示。
+
+在资金运行方面，ODI坚持保证财务状况的透明化。首先，在保证安全与正常工作的条件下，根据国际援助透明度计划 (International Aid TransparencyInitiative，IATI）信息公开标准，ODI更新数据发布系统，以XML文件和更易获取与用户友好的格式公开发布所有项目数据。其次，ODI的全资贸易子公司每年都会发布经审计的财务报表，其实体账户的信息、档案文件都可以在网上获取。再者，“慈善委员会"和"工商局"共同监管该智库，ODI的一些更为详细的财务状况数据也可以在这两个机构网站上进行查询[1]
+
+# ChinaXiv合作期刊
+
+![](images/ef0f9840a393b0148a2048087b9ce0a5c76248a784f98d4eed66eb799698ee81.jpg)  
+图1ODI2013—2017年各年度经费收入情况Figure 1 ODI annual income of 2013-2017
+
+![](images/8ec992e764cf1f946e5041bd9233cfdf758a8aa6ecac40f5806fca0e877b4641.jpg)  
+图2 ODI2016—2017年度各项目与合作计划收入比例情况 (总收入为4,132万英镑)Figure2 ODI income ratio of each project and cooperation program in 2016 - 2017 (total income of£41,320,000)
+
+表2ODI2016—2017年度科研基金主要资助者名单Table 2 ODI list of main sponsors of scientific research fund in 2016-2017  
+
+<html><body><table><tr><td>ACDI/VOCA</td><td>国际农业合作发展/海外合作协助志 愿者组织</td></tr><tr><td>African Development Bank</td><td>非洲发展银行</td></tr><tr><td>Bill&MelindaGatesFoundation</td><td>比尔和梅林达·盖茨基金会</td></tr><tr><td>British Academy</td><td>英国科学院</td></tr><tr><td>British Council</td><td>英国文化协会</td></tr><tr><td>Coffey International Development Limited</td><td>科菲国际发展有限公司</td></tr></table></body></html>
+
+<html><body><table><tr><td>Department of Foreign Affairs and Trade Australia</td><td>澳大利亚外交事务与贸易部</td></tr><tr><td>Deutsche GerelshffirItionle</td><td>德国技术合作组织</td></tr><tr><td>Economic and Social Research Council</td><td>经济与社会研究理事会</td></tr><tr><td>European Commission</td><td>欧盟委员会</td></tr><tr><td>FeieralDeprentofFregnAffairs</td><td>瑞士联邦外交事务部</td></tr><tr><td> Federal Foreign Office of Germany</td><td>德国联邦外交部</td></tr><tr><td>Food and Agriculture Organization</td><td>联合国粮食及农业组织</td></tr><tr><td>United Nations (FAO) French Development Agency</td><td>法国发展署</td></tr><tr><td>Humanist Institute for Cooperation with</td><td>发展中国家人道主义合作研究所</td></tr><tr><td>Developing Countries ICF Consulting Services</td><td>ICF咨询服务公司</td></tr><tr><td>Ikea Foundation</td><td>宜家基金会</td></tr><tr><td> Innovations for Poverty Action</td><td>扶贫行动创新研究会</td></tr><tr><td>International Development Research Centre</td><td>国际发展研究中心</td></tr><tr><td>International Organisation for Migration</td><td>国际移民组织</td></tr><tr><td>(IOM) Irish Aid</td><td>爱尔兰援助署</td></tr><tr><td>John Wiley & Sons Ltd</td><td>约翰·威利出版有限公司</td></tr><tr><td>KPMGKR Foundation</td><td>KPMGKR基金会</td></tr><tr><td>Mastercard Foundation</td><td>万事达基金会</td></tr><tr><td>Ministry of Finance and Economic Development Uganda</td><td>乌干达财政和经济发展部</td></tr><tr><td>Ministry of Finance East Timor</td><td>东帝汶财政部</td></tr><tr><td>Ministry of Foreign Affairs Denmark</td><td>丹麦外交部</td></tr><tr><td>(DANIDA) Mott MacDonald Limited</td><td></td></tr><tr><td>Natural Environment Research Council</td><td>莫特·麦克唐纳德有限公司 自然环境研究委员会</td></tr><tr><td>Oil Change International</td><td>国际石油变革组织</td></tr><tr><td>Oxford Policy Management</td><td>牛津政策管理公司</td></tr><tr><td>Palladium International Limited</td><td></td></tr><tr><td></td><td>帕拉丁国际有限公司</td></tr><tr><td>PricewaterhouseCoopers</td><td>普华永道会计师事务所</td></tr><tr><td>Research Triangle Institute</td><td>三角研究所</td></tr><tr><td>Rockefeller Foundation Save the Children</td><td>洛克菲勒基金会</td></tr><tr><td>Swedish International Development</td><td>救助儿童会</td></tr><tr><td>Agency Swiss Agency for Development and</td><td>瑞典国际开发署</td></tr><tr><td>Cooperation</td><td>瑞士发展与合作署</td></tr><tr><td>UK DepartemenFor Intemational</td><td>英国国际发展部</td></tr><tr><td>UN Capital Development Fund</td><td>联合国资本发展基金会</td></tr><tr><td>United Nations Children's Fund</td><td>联合国儿童基金会</td></tr></table></body></html>
+
+<html><body><table><tr><td>United Nations Development Programme (UNDP)</td><td>联合国计划计划署</td></tr><tr><td>United Nations Foundation</td><td>联合国基金会</td></tr><tr><td>United Nations High Commissioner for Refugees (UNHCR)</td><td>联合国难民署</td></tr><tr><td>United Nations University-World Institute for Development Economics Research</td><td>联合国大学世界发展经济研究所</td></tr><tr><td>United States Agency for International Development (USAID)</td><td>美国国际开发署</td></tr><tr><td>US Department of State</td><td>美国国务院</td></tr><tr><td>WorldBank</td><td>世界银行</td></tr><tr><td>World Resources Institute (WRI)</td><td>世界资源研究所</td></tr></table></body></html>
+
+# 4ODI的研究领域与重点项目
+
+4.1研究领域
+
+ODI的研究和政策工作涉及到广泛的、一系列的有关发展和人道主义的问题，其研究的具体领域和主题如下表所示，其中英国脱欧、冲突和暴力、移民与难民是当前重点关注的三个研究主题[12]。
+
+表3ODI研究主题Table 3 ODI research topics  
+4.2旗舰项目  
+
+<html><body><table><tr><td>气候、环境和自然资源</td><td>适应、农业、气候、气候变化、能源、环境、提取 物、食品、食品安全、森林、绿色增长、土地、自 然资源、畜牧业、农村、卫生、城市化、水</td></tr><tr><td>冲突、风险和人道主义</td><td>平民安全与保护、冲突和暴力、反恐、灾难、灾害 响应、减少灾害风险、流离失所、移民政策、脆弱 的国家、人权、人道主义、人道主义政策、人道主 义制度、国际人道主义法律、移民和难民、弹性、 安全性</td></tr><tr><td>经济、财政和援助</td><td>援助、援助有效性、现金转移、发展机构、发展金 融、捐赠、经济发展、经济政策、新兴经济、预算、 财政危机、预算管理、基础设施、投资、工作与生 活、市场、公共财政、私营企业、地区主义、汇款、 社会保护、旅游、贸易</td></tr><tr><td>治理、政治和制度</td><td>适应性发展、英国脱欧、公民社会、腐败、选举、 欧盟、全球治理、全球机构、治理、国际货币基金 组织、政治系统、政治、联合国、世界银行、世界 贸易组织</td></tr><tr><td>贫困、不平等和社会问 题</td><td>女童、儿童贫困、儿童和青年、教育、性别、基于 性别的暴力、健康、不平等、女性健康千年发展目 标、贫困、性与生殖健康、社会排斥、社会规范、 社会政策、可持续发展目标</td></tr><tr><td>研究、证据和政策</td><td>能力建设、通信、数据、证据和政策、创新、监测、 评价和学习、网络和伙伴关系、项目管理、技术、 智库</td></tr></table></body></html>
+
+2015—2016年度，ODI根据其使命和研究主题，重点主持或合作开展的一系列旗舰项目如下[13]。
+
+# (1）极端气候与灾难的适应和弹性建设 (BRACED)
+
+BRACED （Building Resilience and Adaptation to Climate Extremes and Disasters）项目目标是改善萨赫勒、东非和亚洲地区，面临极端气候和灾难的500多万民众的生活，提高他们适应极端气候和灾害的弹性能力，促使相关部门将降低灾害风险和适应气候变化纳入到发展政策之中。DFID对该项目进行了为期3年的资助。ODI领导该项目的知识管理、证据生成和项目学习的推进[14]。项目推行的第1年，ODI获取了如何在弹性项目中维持某一性别主导地位（如赋予妇女在灾害中的领导权）、如何衡量弹性能力的证据，以及极端气候与贫穷是如何相互作用并影响气候政策和项目的。该项目的学习与研究都是创新性的，在一些方面，项目合作者尝试应用游戏和角色扮演方法向政策制定者和利益相关者展示其政策模型[19]。
+
+# (2）财政强化项目 (BSI)
+
+BSI（Budget Strengthening Initiative）项目由DFID 资助，目标是扶持脆弱和受冲突影响的国家建立更有效、透明和能够问责的财政系统。该项目包括针对刚果民主共和国、利比里亚、塞拉利昂、南苏丹和乌干达等国家的具体方案，以及七国集团对脆弱国家的支持措施。2015—2016年度该项目的主要工作包括与乌干达政府合作开发网上资源，允许公众审查预算和支出；在塞拉利昂部署工作，改善现金管理，便于为消费部门提供预算等[15]。
+
+(3）发展进程 (Development Progress)
+
+发展进程是比尔和梅林达·盖茨基金会资助运行的项目，旨在根据1990以来的一系列福利指标，衡量、理解一些国家的发展情况，并同他们交流，了解其在哪些方面取得了进展、是如何取得进展的。项目第1阶段是研究2011年以来24个国家实现"千年发展目标"的情况第2阶段是从"发展进度测量、发展进展原因解析、发展所需资助问题、发展与个人福祉、共同农业政策和贸易援助"5个方面对另外25个国家进行研究。与该项目相关的报告有《数据革命：发现遗失的数百万人》《资助未来》《2013人类发展报告》等[16]。
+
+(4）欧洲智库联盟 (ETTG)
+
+ETTG（European Think Tanks Group）是德国发展研究所、欧洲发展政策管理中心、可持续发展与国际关系研究所和ODI的合作联盟组织。这一联盟旨在基于全球背景，强化和优先发展欧洲合作，彼此借鉴，相互吸取发展经验。实现欧洲积极政策改革的措施包括：为政策制定环节中各相关方提供高质量的独立研究；根据欧洲政治优先事项，研究改革的优先内容，调整欧洲发展政策；讨论各方在各类商讨会的决策过程和关键内容方面取得广泛理解建设跨国家合作网络，扩大会员国的研究范围，为日常交流和政策通报创造机会，并为不同政策执行者提供反馈的空间。2014年，发布了联合备忘录《我们的集体利益：为什么欧洲问题需要全球解决方案，全球问题需要欧洲行动》，从最前沿的研究中确定了欧盟在解决全球问题方面的5个机遇：气候变化、贫穷与不公平、贸易与财政政策、冲突与安全、民主与人权[17]。
+
+# (5）安全生活研究联盟 (SLRC)
+
+SLRC（SecureLivelihoods Research Consortium）是由阿富汗、刚果民主共和国、尼泊尔、巴基斯坦、南苏丹、斯里兰卡、塞拉利昂和乌干达8个国家合作进行的一项全球性研究项目，成立于2011年，由DFID、爱尔兰援助署和欧洲理事会共同资助。ODI是该项目的领导者，合作组织还包括比利时安特卫普大学的发展政策与管理研究所（IOB）、美国南加利福尼亚的克莱蒙特研究生大学（CGU）、荷兰鹿特丹伊拉斯姆斯大学的国际社会研究所（ISS）等。该项目主要探索受冲突影响和脆弱国家的国家建设与民众生活。研究集中在3个主题：国家法治，从民众需求角度研究民众的体验、观念和期望对于国家法治建设的影响，以探索一些改进国家法治建设、加强国家与社会关系的方法；国家能力，从服务"供给”角度研究国家实现有效服务提供和社会保障的能力，以及相应的机制和合作关系；民众的生活状况和本地经济活动，从个案研究的角度，调查脆弱国家普通民众的生活轨迹与状态，研究政府干预政策或援助机构政策对于提高这些民众生活水平的途径[18](6）人道主义实践联盟 (HPN)
+
+HPN (Humanitarian Practice Network）成立于1994，是ODI的人道主义政策部(HPG)主办的独立论坛，目标是促进决策者、实践者和其他从事或供职于人道主义部门的人员分享和传播信息、分析数据与经验，加强个人和组织学习，提高人道主义活动质量。该论坛的受众包括全球130多个国家的从事人道主义工作的个人和组织，包括非政府组织、联合国和其他多边机构、政府和捐助者、学术机构和咨询机构等。论坛的主题包括问责、评估和能力建设3方面。HPN是全球人道主义领域内独有的一项活动，在研究政策发展和凝练实践经验方面发挥着重要作用[19]。2015年的实践活动主要有：在国际减灾日，发布最热资源之一的《降低灾害风险精品实践回顾》的最新版；为纪念伊拉克《人道主义交流杂志》的发布，组织相关专家进行现场讨论等[19]。
+
+(7）气候与发展知识联盟 (CDKN)
+
+CDKN（Climate and Development Knowledge Network）是由普华永道领导的联盟组织ODI是组织成员之一。该组织由DFID、荷兰外交部、挪威和瑞典政府，以及美国国务院和国际开发研究中心等资助。组织目标主要是通过与大学、私企、非政府组织和国际机构合作，进行广泛系列的基于发展中国家的需要与需求、与政策相关的应用型研究项目，为发展中国家的气候兼容发展政策设计与实践推行提供帮助；并与发展中国家领导人和谈判人员合作，帮助他们更好、更熟练地谈判，增强他们在国际气候变化谈判中的发言权，让他们成为更积极、更具影响力的行动者，促进各方取得更有力、更进步和更公平的结果。该组织研究的战略主题包括：气候兼容发展的策略与规划、改善发展中国家的气候财政获取、通过气候灾难风险管理增强发展弹性、支持最不发达国家和最脆弱国家的气候谈判代表[20]。
+
+# (8）新气候经济 (NCE)
+
+NCE（New Climate Economy）是全球经济与气候委员会（Global Commission on theEconomy and Climate）的旗舰项目。该项目由全球多家研究机构合作开展，ODI是合作者之一。项目目标是提供关于加强经济发展和降低危险气候变化风险之间的关系的独立和权威的证据，并将研究结果融入实践，帮助发展中国家在处理气候变化带来的风险的同时实现经济增长。目前的受助国主要是哥伦比亚、埃塞俄比亚和印度尼西亚。2014—2016年，相继发布相关报告，指出到2030年要减排 $96 \%$ ，将气温升高的幅度控制在 $2 ^ { \circ } \mathrm { C }$ 左右，实现低碳发展，在减少排放的同时，克服阻碍可持续发展基础设施建设的困难，更好地实现经济的可持续发展[21]。
+
+# (9）半干旱经济体恢复弹性的途径 (PRISE)
+
+PRISE（Pathways to Resilience in Semi-Arid Economies）是ODI领导的一项为期5年的多国研究项目。目标是研究半干旱地区如何发展经济，既保证发展公平，又能保持气候弹性。该项目的目标对象是亚非干旱地区的6个国家：布基纳法索、肯尼亚、巴基斯坦、塞内加尔、塔吉克斯坦和坦桑尼亚。该项目人员参与到当地决策过程中，加深决策者对半干旱区面临的气候变化带来的威胁与机遇的理解，并根据其发展的实际需求帮助决策者做出投资选择和发展政策，实现快速、包容性和弹性发展。该项目的阶段成果包括：《亚洲和非洲的移民前景：气候变化和气候弹性经济发展》《塞内加尔和塔吉克斯坦干旱和半干旱地区的移民、经济、适应和弹性》《在半干旱地区利用气候弹性经济发展的机会：关键部门的适应选择》《形成私营部门或多方利益相关者的行动环境，增强弹性应对气候变化》《半干旱地区气候变化背景下的产权、投资和经济发展》《半干旱地区的跨界多尺度治理：对气候弹性和经济发展的影响》《吉尔吉斯斯坦应对气候变化，恢复弹性的措施：发展弹性指数预测未来》《半干旱地区的水治理：基于政治和经济视角的气候变异与极端气候管理》[22]。
+
+# (10）其他
+
+人道主义行动中问责和业绩的积极学习网（ALNAP，alnap.org）、长期贫穷咨询网(CPAN，chronicpovertynetwork.org）、综合区域信息网（IRIN，irinnews.org）等。
+
+# 5ODI的宣传活动与信息传播
+
+ODI为扩大本组织及其研究成果的可见度和影响力，采用各种方式积极宣传和传播组织的发展政策、任务、实证成果等，包括会议宣讲、联络政府机构、组织论坛活动、出版学术期刊、充分利用网络和社交媒体等。
+
+在各类会议上宣传ODI的研究成果与政策，既能省去组织开会的麻烦和费用，又能使其内容在国际上得到很好的宣传。2015—2016年度，在亚的斯亚贝巴和纽约的重大会议上，ODI工作人员广泛宣传了“新可持续发展目标”的财政调查结果和“缺一不可”计划工作，强化了国际社会对其发展政策的知晓程度。除此，ODI还与政府机构密切联络，与决策者直接关联，使其研究和政策能够融入到政府的决策过程之中。2016年，ODI积极接触英国新政府和议会，邀请负责国际发展工作的国务秘书做了她大选后的第1次重要讲话；组织内的专家向议会提供相关证据，并被英国政府官方报告和议会讨论积极采用。
+
+ODI还积极举办各种活动，定期邀请国际最具影响力的思想家、决策者和商界领袖探讨全球热议话题、分享发展和人道主义领域最前沿的研究成果与政策。伦敦总部举办的所有活动通过线上直播与全球观众分享。如“全球性挑战事件系列”对话活动，就为诸如诺贝尔奖得主、性别平等与环境可持续性等话题，提供了一个平台。通过这种对话形式，专家们可以对有关发展的重大议题作更为深入的剖析。
+
+ODI每年还出版大量的图书、论文、研究报告、简报，并主办2本权威的同行评议学术期刊—一《发展政策评论》和《灾难》。这2本刊物就一些现实的问题组织内容，传播率不断提高，影响力日益扩大。2015-2016年度，《灾难》发表了28篇开放获取论文，与 2014-2015 年度相比，这一数字增长了3倍；获取这2本期刊的机构达到近1万家，增长了 $10 \%$ ·，《发展政策评论》最热点文章的下载量则是去年同期的2倍。
+
+ODI还厂泛与各类媒体接触，包括传统媒体和新媒体，通过媒体，将研究成果等传播至世界范围，使其能够始终站在信息传播的前沿，让大众和政策制定者了解、熟悉ODI的研究。ODI的专家们经常出现在具有全球影响力的广播网点，如英国广播公司、半岛电视台与CNBC；同时其观点也会大量出现在纸媒中，如《金融时代》《经济学家》、肯尼亚《每日国民》和印度《时报》。2016年，ODI的研究出现在122个国家的媒体报道中，占据南半球国家的一半。ODI对于社交媒体的使用保持着强劲增长。独特的动画、图表和可视化数据厂泛通过社交媒体分享。该智库持续使用Twitter进行热点话题讨论，相关图表经常在Twitter上被诸如慈善家比尔·盖茨、统计学家汉斯·罗斯林教授和联合国气候变化事务高级官员克里斯蒂娜·菲格雷斯等知名人士所转载。2017年，ODI有101位专家在twitter上发布内容，94,128位用户跟帖；Facebook用户达到60,971位；YouTube上视频每分钟观看者达到851,711位；1,996,904人点击查看网站文件等。这些数据都证明了ODI网络传播活动的成效，同时也说明ODI的影响力在不断扩散[19]。
+
+# 6ODI的研究员奖学金计划
+
+作为一家智库，ODI主要从事研究性工作，并不直接为援助对象提供技术性帮助。但是，ODI同英国高校紧密合作推出的研究员奖学金计划（Fellwship Scheme）[23]，则直接向一些低收入、高贫困国家输送相关人才，参与到相关国家的经济建设与社会发展之中。这一计划充分体现了ODI的实践性，在消除贫困、不平等，促进全球发展方面，具有突出贡献和影响力。
+
+ODI奖学金计划成立于1963年，至今，已经走过53年历程。目前奖学金计划由DFID、澳大利亚外交和贸易部，以及比尔和梅林达·盖茨基金会资助。有些受援国政府也会全额资助前来任职的研究员。
+
+奖学金计划的主要内容是挑选经济与统计方面的研究员，根据受援国的需求，资助和外派相应研究员前往任职2年。大部分外派研究员被分配到受援国的部委和机关单位，从事经济、统计、规划等工作。如财政或规划部，贸易与工业部，区域一体化，农业、环境、水、健康和教育等部门；有些人还就职于中央银行、税务机构、统计局和区域组织。近年来ODI奖学金计划外派研究员任职机构类型分布情况如表4所示。
+
+表42012—2018年ODI奖学金计划外派研究员任职机构类型分布趋势Table 4Working departments distribution trends of the researchers sponsored by ODIFellowship Scheme 2012-2018  
+
+<html><body><table><tr><td></td><td>2012— 2014</td><td>2013— 2015</td><td>2014— 2016</td><td>2015— 2017</td><td>2016— 2018</td><td>总计</td></tr><tr><td>财政与规划</td><td>22</td><td>22</td><td>23</td><td>19</td><td>20</td><td>106</td></tr><tr><td>中央银行</td><td>4</td><td>3</td><td>4</td><td>3</td><td>3</td><td>17</td></tr><tr><td>贸易、工业、商业与区域一 体化</td><td>5</td><td>8</td><td>5</td><td>7</td><td>5</td><td>30</td></tr><tr><td>农业</td><td>2</td><td>3</td><td>2</td><td>3</td><td>1</td><td>11</td></tr><tr><td>环境、水与气候变化</td><td>1</td><td>1</td><td>2</td><td>3</td><td>1</td><td>8</td></tr><tr><td>健康</td><td>6</td><td>10</td><td>3</td><td>8</td><td>5</td><td>32</td></tr><tr><td>教育</td><td>4</td><td>2</td><td>4</td><td>2</td><td>6</td><td>18</td></tr><tr><td>区域组织</td><td>2</td><td>1</td><td>2</td><td>1</td><td>1</td><td>7</td></tr><tr><td>统计</td><td>1</td><td>2</td><td>2</td><td>7</td><td>9</td><td>21</td></tr><tr><td>其他</td><td>5</td><td>4</td><td>5</td><td>6</td><td>11</td><td>31</td></tr><tr><td>总计</td><td>52</td><td>56</td><td>52</td><td>59</td><td>62</td><td>281</td></tr></table></body></html>
+
+该计划外派研究员的选择、匹配和分配要经过"申请一面试考核一需求调研与分配一注意事项与外派经验交流一签署协议一外派入职"等一系列标准化流程。申请人的专业范围主要是农业经济学、环境经济学、国际经济学、健康经济学、发展经济学、计量经济学与统计学等。该计划要求申请人必须已经完成研究生学业，拿到学位，并自愿受派到计划中所列任一国家就职。同时要求申请人对与发展相关的工作或志愿服务于发展中国家的活动有浓厚的兴趣，具备强大的诸如法语、葡萄牙语、斯瓦希里语等语言能力和IT技能。具体的能力要求如表5所示。
+
+表5ODI奖学金计划申请人具体能力要求  
+
+<html><body><table><tr><td></td><td>Table 5 Competency Requirements for ODI Fellowship Scheme Applicants</td></tr><tr><td>知识能力</td><td>广泛的经济与统计理论及实践知识；数据、信息分析技术；以口头和书 面形式同非专业人士交流复杂技术性问题的能力</td></tr><tr><td>个人素质和人 际关系技巧</td><td>适应性和灵活性；耐心和谦逊；与他人有效合作；艰苦努力；自信坚强； 勤学好问；善于与不同人群交际；适应新国家和文化的能力；积极主动 进取</td></tr><tr><td>管理及与工作 相关的技能</td><td>统筹安排工作事项；咨询和宣传技能；时间管理；工作自律；项目管理； 报告写作</td></tr></table></body></html>
+
+奖学金计划成功的重要原因是，在研究员招募和外派过程中，ODI会对其进行细致的接触与联络，以及精细的匹配。同时，ODI还会派出年度巡查组，一方面与外派研究员交流了解其情况；另一面与受援国沟通，了解这些外派人员的表现。以此来了解未来潜在受援国的需求，做出更加适宜的人员安排。之后，在进行新一轮外派时，巡查组会与即将外派的研究员协商，尽量做到分配人员的能力与受援国需求一致[4]。
+
+奖学金计划的特点是以需求为导向，外派研究员受雇于受援国，由受援国直接管理，而不是由ODI管理。研究员就职后，受援国要保证其与本国工作人员同岗同酬，提供诸如住宿、休假、费用津贴、医疗保险等条件，并能协助其工作，保证人身安全。而ODI则为这些人员提供一些额外津贴、往返交通费用等，并在履职结束后，全额发放奖学金。
+
+自1963年以来，ODI共向非洲、亚洲、加勒比和太平洋等40多个国家和地区派遣了1,000多名经济与统计研究员，每年外派研究员由1963年的3人增长到2016年的62人，目前在职研究员有120多人。外派研究员的地域，早期是东非并逐渐扩展到南非地区，1975年后扩展至东加勒比和伯利兹地区，20世纪80年代扩展至太平洋地区[4]。2016年，ODI奖学金计划外派研究员分布在非洲、亚洲、加勒比、太平洋地区的32个中低收入国家，大部分是英语、法语、葡萄牙语或斯瓦西里语区。
+
+ODI奖学金计划在全球的用人机构中享有盛誉，外派研究员期满后，在今后的职业生涯中会受益匪浅。许多人会前往世界银行、国际货币基金组织、联合国、学术界、私营企业、非政府组织和本国政府等机构就职，也有许多人选择留任受援国。
+
+# 7结语
+
+作为在全球发展和人道主义领域拥有领先水平的智库，ODI发展理念鲜明，战略发展方向清晰。在组织运行上，保持独立性，不受资助者影响；在管理上，人员多是来自政府、国际组织等的知名学者、专家，保证了组织运作的专业性；在财务上，与众多组织保持沟通、合作，资助资金来源广泛、充足，同时以透明、问责的制度公开资金使用情况，保证了组织的可持续发展；在人才培养上，推出独具特色的研究员奖学金计划，直接向援助地区、国家提供实践人才，既促进这些地区、国家的发展，也使得这些人才学以致用，丰富经验与能力，为未来职业发展奠定良好基础。这些组织建设经验为我国的智库建设提供了很好的参照。
+
+此外，近60载的发展过程中，ODI主要面向非洲、亚洲等处于贫困、战乱、冲突、气候变化之中的不发达地区与发展中国家，开展多种形式的研究与合作，为政策发展提供依据。鉴于其良好的研究历史和实践经验，我国政府和相关研究机构与其进行了一些合作。如2007年至2008年，ODI与中国国际扶贫中心合作，由英国国际发展部资助，派出研究人员出访尼日利亚和坦桑尼亚，考察当地贫困程度、社会治理与援助情况，完成“中国在非洲”研究项目。同时，与中国农业大学共同完成的"中非减贫模式比较研究”，对中国和非洲减贫国际合作提出了重要政策建议；2010年，联合英国国际发展研究所水政策项目和海尔维尔国际有限公司以坦桑尼亚作为主要对象，探究中英非在水资源规划及管理中的合作前景；2012年，与国家发展研究所、未来农业协会和中国、巴西及众多非洲国家合作，开展为期2年的"非洲农业中的中国和巴西"项目，探讨中国、巴西等发展中大国如何才能改善非洲农业发展[24]。2016年12月15日，贸易投资促进部部长林舜杰与ODI高级研究员史蒂夫·盖尔布就合作开展中国企业对非洲投资情况调查进行商谈。会谈决定，联合北京大学三方共同开展中国企业对非洲投资情况调研。这些调研有助于中国企业了解非洲投资环境、改善投资方式[25]。2016年，北京大学新结构经济学研究中心和英国海外发展研究所共同开展的"推进经济转型——中国制造业企业转型升级和走出去调研"项目报告《应对中国轻工业成本上涨：发展中国家有什么机遇》予以发布[26]。通过这些合作，我国相关部门与机构可以广泛吸取ODI的经验，充分使用其已有资源，为我国推行对外发展战略提供助力。
+
+# 参考文献：
+
+1[]百度百科.2015年后发展议程目标[EB/OL].[2017-9-   
+11].https://baike.baidu.com/item/2015%E5%B9%B4%E5%90%8E%E5%8F   
+%91%E5%B1%95%E8%AE%AE%E7%A8%8B%E7%9B%AE%E6%A0%87/18677579? fr=Aladdin.   
+2[]新华社.中国共产党第十九次全国代表大会报告[EB/OL].[2018-01-   
+20].http://www. gov.cn/zhuanti/2017-10/27/content_5234876.htm.   
+3[] 360个人图书馆.十八大以来我国智库发展大事记[EB/0L].[2018-01-22]. http://www.360doc.com/content/15/0122/17/7499155_442886820.shtml.   
+4[] ODI. Iwenty Ive years in Deveiopment[K/ULJ. [2U1 /-9-21].   
+https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/8084.pdf. 5胡佳佳.独立、专业、透明、问责：英国海外发展研究所评述[J].外国中小学教育, 2016 (4) : 1-4.   
+6[] Overseas Development Institute. About ODI[EB/OL]. [2017-9-11]. htps://www.odi.org/aboutodi.   
+7[] McGann, James G.2017 Global Go To Think Tank Index Report[R/OL].[2018-3-   
+23].https://repository.upenn.edu/cgi/viewcontent.cgi?article $\left. = \right.$ 1012&context=think_tanks.   
+8[] Overseas Development Institute. ODI STRATEGIC PLAN 2014-2017[R/OL].[2017-9- 18].https://www.odi.org/sites/odi.org.uk/files/odi-strategy-2014.pdf   
+9[] Overseas Development Institute. Strategy and leadership[EB/OL].[2017-9-11].   
+https://www.odi.org/strategy-and-leadership   
+10[] Overseas Development Institute. Annual Review 2017[R/OL].[2017-9-12].   
+https://www.odi.org/sites/odi.org.uk/files/downloads/annual_review16-17_financials.pdf   
+11[] Overseas Development Institute. Our funding[EB/OL].[2017-9-11].   
+https://www.odi.org/our-funding   
+12[] Overseas Development Institute. Our Work[EB/OL].[2017-9-11].   
+https://www.odi.org/our-work-0   
+13[] Overseas Development Institute. ODI Annual Report 2015-2016[R/OL]. [2017-09-15]. https://www.odi.org/sites/odi.org.uk/files/long-form-downloads/annual_report_2016.pdf.   
+14[] BRACED. BRACED[EB/OL]. [2017-11-10]. http://www.braced.0rg/.   
+15[] BSI. BSI[EB/OL]. [2017-11-10]. http://budgetstrengthening.org/.   
+16[] ODI. Development Progress[EB/OL]. [2017-11-10]. https://www.odi.org/our  
+work/programmes/development-progress.   
+17[]ETTG. ETTG[EB/OL]. [2017-11-10]. http://wWW.ettg.eu/.   
+18[] Secure Livelihoods Research Consortium. SLRC[EB/OL]. [2017-11-10].   
+https://securelivelihoods.org/.   
+19[] ODI HPN. HPN [EB/OL]. [2017-11-10]. https://odihpn.0rg/.   
+20[] CDKN. CDKN[EB/OL]. [2017-11-10]. https://cdkn.0rg/?loclang=en_gb.   
+21[] New Climate Economy. NCE[EB/OL]. [2017-11-10]. htp://newclimateeconomy.net/. 22[] PRISE. PRISE[EB/OL]. [2017-11-10]. htp://prise.0di.org/.   
+23[] Overseas Development Institute. ODIFellowshipScheme 2017[R/OL].[2017-11-10 https://www.odi.org/sites/odi.org.uk/files/odi_fellowship_scheme_2017.pdf.   
+24[]外交部非洲司.中非联合研究交流计划：2012-2013 年课题研究报告选编[M].北京：世界 知识出版社， $\cdot$
+
+25[]中国国际贸易促进委员会.贸易投资促进部部长林舜杰会见英国海外发展研究所高级研究员史蒂夫 盖尔布 [EB/OL]. [2018-01-15].http://www.ccpit.0rg/Contents/Channel_3744/2016/1216/733636/content 733636.htm.
+
+Researchers and Practitioners on International Development: Britain's Overseas Development Institute Yang Zhigang Institute of Scientific and Technical Information, Zhenjiang 212013
+
+Abstract : [Purpose/significance] In the background of international development, this paper aims to investigate the Britain's Overseas Development Institute(ODI), whose operation mechanism, research fields and practice activities provide references for the development and cooperation of developing countries.[Method/process]This paper adopts case study as the major method, collects data by literature review and website investigation, cites first-hand information and research papers from ODI,and refers to the latest global think tank index reports, in order to make the full view for ODI. [Result/conclusion] The ODI operates independently, professionally, transparently, and accountable. The research focuses on the fields of economy, social protection,agriculture, water resources, climate and humanitarianism. Mainly focusing on the needs of developing countries, it provides high quality research, policy advice, consultant service and customized training. In addition, it also establishes Fellowship Scheme for developing countries to cultivate good graduate students in the area of economy and statistics who will be commited to the development of local public affairs.
+
+Key words: Overseas Development Institute think tank development developing countries 收稿日期：2017-12-13修回日期：2018-02-07本文责任编辑：吕青

@@ -1,0 +1,165 @@
+# 力学微环境影响间充质干细胞分化的研究现状
+
+施文雯1,²，张蕾2\*
+
+1昆明医科大学，昆明650011;
+
+2昆明医科大学附属甘美医院（昆明市第一人民医院）生物医学实验中心，昆明650011摘要：间充质干细胞(mesenchymal stem cells,MSCs）具有很强的自我复制能力和多向分化潜能，是近年来热门研究的种子细胞。MSCs 的生长微环境可以影响调控干细胞的生长、分化，力学刺激是MSCs 分化的影响因素之一。细胞外基质硬度、机械应力（剪切力、静压力、牵张力）、微重力等因素对 MSCs 的分化作用是当前研究的热点。本文从细胞外基质硬度、机械应力以及机械应力作用于三维支架培养对 MSCs 分化的影响等方面进行综述。
+
+关键词：力学刺激；间充质干细胞；细胞分化 中图分类号：Q2-33
+
+# Current research of micro mechanical environmental effects on mesenchymal stem cells' differentiation
+
+SHI Wen-wen1,2, ZHANG Lei2\*
+
+1Kunming Medical University, Kunming,Yunnan, 65oo11, China;
+
+2Biomedical Research Center,Affiliated Calmette Hospital of Kunming Medical University (First Hospital of Kunming), Kunming, Yunnan, 650011, China.
+
+Abstract:Mesenchymal stem cels (MSCs)have capacity of self-amplification and multi-direction differentiation, which is hot research topic as popular seeding cell in recent years.It is well known that micro-environment modulates MSCs’development and differentiation.Mechanical stimulation is one of factors effcting on MSCs differentiation.The effect of extracellular matrix stifess and mechanical stress like,shearing stress,hydrostatic pressure,stretch stress,and microgravity on MSCs remains a hot point. In the present article, we reviewed mainly the effects of external matrix stiffness,mechanical stress and the mechanical force on three-dimensional scaffolds on the MSCs’differentiation.
+
+Key words:Mechanical stimulation; Mesenchymal stem cells; Cell differentiation
+
+# 前言
+
+MSCs是一种来源于间充质组织，具有多向分化潜能和自我更新能力的干细胞。目前已可以从脐带、脐血、胎盘、骨髓、脂肪等组织中获取，由于其具有来源广泛、易于获得[1,且细胞增殖能力强、致瘤性低等特点[2]，成为当下研究的热点。MSCs可在体外诱导分化为骨、软骨、脂肪、肝组织等[3,4]，因此 MSCs 有潜力作为组织工程的种子细胞，用于疾病的细胞治疗，但其分化机制尚不明确。MSCs分化与其生长的环境因素，如：细胞因子、力学刺激、细胞外基质等因素的作用相关[5-7]。
+
+本文从细胞外基质硬度、机械应力以及细胞三维支架对MSCs分化的影响进行综述。
+
+# 1细胞外基质硬度对MSCs分化的影响
+
+有研究表明，细胞外基质(extracellular matrixc,ECM)的硬度在调节细胞形态、增殖和分化过程中起着重要作用[8]。ECM硬度是MSCs分化的重要调控因子。
+
+基质硬度不同，MSCs成骨、成脂分化的能力也不同。Xu等应用不同硬度（杨氏模量分别为13-16、35-38、48-53及62-68kPa）的聚丙烯酰胺凝胶支架培养脐带间充质干细胞，结果发现在不同硬度的基质中，MSCs 的粘附和增殖能力各不相同，随着基体硬度的增加，细胞的增殖活性也随之降低，在软基质上培养的细胞，其增殖活性优于硬基质。他们还发现，基质的硬度影响 MSCs 的分化谱系，当基质硬度为13-16kPa时，干细胞向脂肪细胞分化;基质硬度为35-38、48-53kPa时，干细胞向成肌细胞分化；而基质硬度为62-68kPa时，干细胞分化为成骨细胞。
+
+另外，Chen 等[10]的研究中表明，在不同硬度的三维支架上培养MSCs，诱导成骨分化后，检测成骨细胞两种特殊蛋白骨桥蛋白(osteopontin,OPN)和骨钙蛋白(osteocalcin,OCN）的表达。结果发现：同样材料支架上，MSCs 在硬度高的支架上表达OPN 和OCN 的量明显高于其它组，说明基质硬度可以促进干细胞的成骨分化。
+
+Hwang 等[11]的研究认为，ECM硬度通过激活胞内信号传导介质来调控MSCs 的分化。他们用硬水凝胶基质诱导 MSCs 成骨分化，发现转录共激活因子(transcriptional co-activatorwith PDZ-binding motif,TAZ)是MSCs 分化时的效应蛋白,在细胞分化中发挥重要作用,TAZ的激活与信号通路细胞外信号调节激酶(extracellular signal-regulated kinase,ERK)、氨基末端激酶(c-Jun N-terminal kinase,JNK)的活化呈正相关，当ERK、JNK 受到抑制时，TAZ 的活化也受到抑制，他们由此认为ERK和JNK是基质硬度影响干细胞成骨分化的重要介质，TAZ是该过程的效应蛋白。在 Shih 等[12]的研究中发现，细胞可能是通过整合素(integrin)或黏着斑激酶(Focal Adhesion Kinase,FAK)来感知力学刺激。他们用聚丙烯酰胺凝胶基质诱导MSCs 成骨分化，当增加聚丙烯酰胺凝胶硬度时，MSCs成骨分化能力也随之增强，同时，整合素或FAK的活性也呈上调趋势，因此他们推测 ECM硬度可能是通过整合素来介导MSCs的成骨分化。
+
+Sun 等[13]进一步研究ECM硬度如何影响细胞内信号传导，他们分别应用杨氏模量为13-16kpa、62-68kpa的聚丙烯酰胺水凝胶诱导MSCs成骨分化，结果发现基质硬度为62-68kpa时，更有利MSCs 成骨分化，可检测到成骨相关标志物I型胶原蛋白(typeIcollagen.COLI)、骨钙素、人类相关转录基因2 (runt-related transcription factor 2,RUNX2)表达增加,同时还检测到整合素α5/β1、下游信号分子FAK,p-ERK,磷酸化蛋白激酶 B(Phosphorylatedprotein kinase B,p-Akt)，糖原 合酶激 酶(glycogen synthase kinase 3β, GSK-3β), p-GSK-3β,$\beta$ -catenin 表达增加。用抗体阻断剂抑制整合素α5后，可发现I型胶原蛋白、骨钙素、RUNX2表达降低，同时发现 Akt,p-Akt,GSK-3β,p-GSK-3β表达增加，另外当抑制 Akt 后，p-Akt,p-GSK-3β表达降低，他们认为当ECM硬度为62-68kpa时，p-GSK-3β表达受p-Akt调控，由整合素a5 调控MSCs成骨分化。
+
+以上研究可知，ECM硬度是MSCs分化的重要调节因子，掌握 ECM硬度调节 MSCs分化的机制对我们将来的研究极为重要。
+
+# 2机械应力对MSCs分化的影响
+
+在生理条件下，细胞所处的环境必定受到机械应力的影响，液体流动会导致细胞表面受到剪切力、静水压和拉伸应力。有研究表明，干细胞所处的微环境中力学因素调节着 MSCs的生长、增殖、分化等生理活动，改变细胞的大小、形状和排列[14]。如在周期性压力下，随着应变幅度和次数的增加，MSCs 的增殖能力也随之增加，即使不添加生长因子，MSCs也能够向平滑肌细胞分化[15]。
+
+# 2.1流体剪切力对MSCs分化的影响
+
+在体内各组织中的组织液移动对细胞产生的切应力叫流体剪切力或流体剪切应力，可以由组织压缩、拉伸、液体流动等导致的组织变形引起组织液在细胞周围运动而产生。生物体内，多种细胞类型都暴露于生物流体系统（如血液、淋巴液）流动摩擦产生的剪切力中。
+
+研究表明，流体剪切力可以调控MSCs的成骨分化，Youre等[1应用流体灌注装置诱导MSCs成骨分化，当MSCs暴露于流体剪切力时，可以检测到培养基中碱性磷酸酶(Alkalinephosphatase,ALP)活性明显增加，且骨形态蛋白-2(bone morphogenetic protein-2,BMP2)和OPN的mRNA表达量也明显高于静态诱导下的MSCs，表明流体剪切力对MSCs的成骨分化具有促
+
+进作用。
+
+Zhao等[17]利用灌注生物反应器系统，分别采用 $0 . 1 \mathrm { m l / m i n }$ 和 $1 . 5 \mathrm { m l / m i n }$ 的流速，在其它培养条件相同的条件下对MSCs进行成骨诱导,分别对 $0 . 1 \mathrm { m l / m i n }$ 和 $1 . 5 \mathrm { m l / m i n }$ 的流速进行分析，结果显示，与流速为 $0 . 1 \mathrm { m l / m i n }$ 相比，当流速为 $1 . 5 \mathrm { m l / m i n }$ 时，细胞内碱性磷酸酶活性和钙沉积水平明显提高，这表明流体剪切力对MSCs的成骨分化具有促进作用，另外即便是非常低程度的介质流动对细胞外基质的分泌、MSCs的生长和对MSCs的成骨分化也有显著的促进作用。另外，细胞在三维结构中生长较二维结构中更易受机械刺激的影响，微小的流动效应就能改变细胞微环境的三维结构和形态发生[18]。
+
+剪切力可调节多种机械转导通路，包括钙离子通道和AKT、MAPK和FAK的活化等[19]。Liu等[20]认为流体剪切力对MSCs的作用取决于流体剪切力的使用方式，他们分别使用间歇流体剪切力和持续流体剪切力诱导MSCs分化，结果发现，使用间歇流体剪切力诱导组成骨基因的表达水平和碱性磷酸酶活性明显要高于持续流体剪切力诱导组，他们认为是由于间歇流体剪切力上调了ERK1/2和FAK的活性，间歇剪切力比持续剪切力更有效地诱导MSCs成骨分化。
+
+Kim等[2]认为流体剪切力可以激活细胞增殖、分化和迁移的细胞信号，他们采用一种装有微流控芯片的渗透泵，其所产生的流体剪切力可以激活TAZ，活化TAZ的靶基因，诱导MSCs成骨分化。以上研究表明流体剪切力对MSCs的分化有一定促进作用。
+
+TRPV4通道是是瞬时受体电位通道家族(TRP)的成员,属非选择性钙离子通道,可被热、机械力、佛波醇酯衍生物等多种理化刺激所激活，参与维持细胞的正常功能。有研究表明[22],流体剪切力对MSCs早期成骨分化有促进作用，检测到早期成骨分化标志物ALP和成骨相关转录因子抗体(osterix)表达增加，而晚期成骨标志物OCN无明显变化，当应用TRPV4阻断剂时，MSCs成骨分化受到抑制，因此他们推测TRPV4在MSCs早期成骨分化中起着重要作用。
+
+# 2.2流体静水压对MSCs分化的影响
+
+处于相对静止状态下的流体，由于本身的重力或其他外力的作用，在流体内部及流体与容器壁面之间存在着垂直于接触面的作用力，这种作用力称为流体静水压。
+
+流体静水压的存在，可以促进MSCs更好地分化。有研究发现压力刺激能够促进间充质干细胞成软骨分化，易飞舟等[23]采用自主研制的细胞液压加载装置对体外培养的骨髓 MSCs施以持续及周期性流体压力刺激，他们将细胞随机分为45kpa、90kpa的持续静压力及0-45kpa、0-90kpa的周期动压力组，结果发现应用压力刺激可明显促进骨髓 MSCs 成软骨基因的表达，另外施以90kpa 的持续压力作用时，骨髓 MSCs 成软骨效果更为显著。陈江等[24]通过在转化生长因子β1(transforming growth factor- $_ { \cdot \beta 1 }$ ，TGF- $_ { \cdot \beta 1 }$ )联合类胰岛素生长因子1(nsulin-like growth factor-1)诱导间充质干细胞向髓核样细胞(nucleus pulposus-like cells)分化时加以静水压刺激，同单纯药物组相比，发现静水压刺激组的骨髓MSCs 活性更好，且在机体中发挥其增殖及产生功能性细胞外基质的能力更强，在免疫组化染色中可发现ⅡI型胶原染色阳性，可见明显的髓核样细胞表型，而单纯药物组可观察到少量的细胞表达I型胶原蛋白，由此可见静水压有促进MSCs向髓核样细胞分化的作用。除此之外，静水压还有促进间充质干细胞向神经分化的作用，Javanmard 等[25]在研究MSCs 向神经分化时，采用自制静水压模型，向MSCs施加不同的压力，结果显示：当静压力为 $2 5 \mathrm { m m H g }$ 时，所获总神经突长度较未受压力对照组细胞明显增加，但当静压力继续加大至 $5 0 \mathrm { m m H g }$ 和 $1 0 0 \mathrm { m m H g }$ 时，其神经突并未表现出继续增长状态，反而较对照组减少，可见低静水压或适当的静水压对 MSCs的神经分化是有利的。
+
+流体静水压会对MSCs的生长微环境产生影响，Ye 等[26]将间充质干细胞封装至海藻酸盐形成海藻酸盐珠进行培养，并分别对其施以动态压力和静态压力，发现动态压力更利于MSCs向成软骨分化，动态压力组在海藻酸珠内部和外部呈现大量糖胺聚糖(glycoaminoglycan,GAG)积累，GAG 是软骨细胞外基质的主要组分，在最初的细胞中并没有GAG 的存在，全部是由后天合成，GAG 的产生是间充质干细胞向软骨分化的证据[27]。他们认为原因有二，一是施加静态压力的实验组由于 $\mathrm { C O } _ { 2 }$ 分压的增加， $\mathfrak { p H }$ 值显著降低，使培养基酸化而不利于MSCs成软骨分化，动态压力组的 $\mathrm { C O } _ { 2 }$ 分压则保持稳定。另外，在施加动态压力时，成软骨诱导分化的重要转化生长因子(TGF- $_ { \cdot \beta 1 }$ )被持续激活，而在静态压力下则是短暂的激活，因此推测动态压力对MSCs的成软骨更有利。他们的结论是，当机械刺激能够维持细胞生长微环境稳态时，更能有效诱导软骨形成[26]。
+
+在Liu 等[28]关于静水压对MSCs成骨分化机制的研究中，他们应用静态压力（ $2 3 \mathrm { \ k P a } \dot { }$ ）或动态压力（ $1 0 { - } 3 6 \mathrm { { k P a } }$ 和 $0 . 2 5 \mathrm { H z }$ 频率）对MSCs进行刺激，随后检测第0、3、7天的成骨相关转录因子表达及 ERK1/2,p38MAPK 磷酸化情况，结果表明 ERK 信号调控了早期的成骨分化，在机械转导中发挥了积极作用，而p38MAPK则不参与这一过程。
+
+Liu 等[29]研究表示，静水压对Wnt10b 和Wnt4 的作用与ERK有关，静水压可以促进Wnt10b 和Wnt4表达，在应用ERK 阻断剂后，Wnt10b 表达水平降低，而Wnt4表达水平则升高。另外他们发现动态压力下p-ERK在诱导1-3天到达峰值，而静态压力效果缓慢，进一步说明动态压力对MSCs早期成骨分化更有利。
+
+以上研究可知，静水压对MSCs分化有促进作用，而动态压力作用可能更加显著。
+
+# 2.3牵张应力对MSCs分化的影响
+
+牵张力即拉力，指沿一定方向，采用拉拽的方式对物体施加的作用力，如肌肉收缩就是细胞受到牵引所产生的运动。在密闭器官或培养系统内，由于静水压的存在，正常机体内细胞必定会受到牵引力的作用。
+
+在Haasper 等[30]对MSCs成骨分化的研究中，采用自制的电机驱动装置，应用频率为1HZ， $3 \%$ 或 $8 \%$ 的牵张力对细胞分化进行干预，结果发现，机械牵张力可以诱导FosB表达增强，FosB属于转录因子AP-1（transcription activator -1）家族，是一组可调控成骨细胞分化和骨形成的蛋白，FosB表达很大程度上对MSCs成骨分化具有促进作用，由此他们认为，机械牵张力对MSCs的成骨分化具有促进作用。Nam等[31]在研究机械牵张力对MSCs的影响时发现，当应用频率为1HZ， $4 \%$ 的牵张力时，细胞增殖速率最高，而当使用0.5HZ牵张力时，细胞增殖不 明显；应用1HZ， $8 \%$ 的牵张力时，胶原蛋白形成及腱细胞基因的表达最高，此后，再加大牵张力，未见明显的细胞增殖和腱分化增加，他们认为选择适当的机械刺激对MSCs的增殖和分化很有必要。
+
+机械牵张力作为一种有效的刺激，可能对MSCs向中胚层细胞和外胚层细胞分化同样有效。有研究表明，牵张力对MSCs向神经分化具有一定促进作用[32]，Leong等向MSCs施加不同频率和幅度的单轴循环拉伸载荷，当频率为0.5HZ， $0 . 5 \%$ 时，MSCs出现明显的丝状伪足生长以及神经基因表达上调，结果表明低振幅和频率的循环拉伸载荷能够通过调节GTP酶活性引起MSCs向神经细胞分化，该效应在即使不添加神经诱导因子的条件下也存在。
+
+Wu等[33]研究机械牵张力作用时间对MSCs成骨分化的影响，探讨了这种机械刺激对MSCs成骨分化的作用机制，他们应用 $10 \%$ 的牵张力刺激1-7天，然后检测成骨细胞基因mRNA水平和核心结合因子α1（corebinding factorαl，CBFα1）的表达，结果发现随着牵张力应用时间增加，成骨细胞基因和CBFα1表达增加，当敲除CBFα1表达后，成骨细胞基因表达降低，此外在应用ERK1/2抑制剂后CBFα1和成骨细胞基因表达也被抑制，因此他们认为长时间的机械牵张力通过ERK1/2激活的CBFα1信号通路促进MSCs的成骨分化。
+
+有研究认为，间歇性牵张力通过p38MAPK信号通路调节MSCs成骨分化[34]，Xiao等的研究发现，在应用间歇牵张力时，可检测到成骨标志物ALP,COLI,OCN表达增加，P-p38MAPK，osterix表达也明显增加，当应用阻断剂阻断p38MAPK信号通路时，可检测到成骨标志物表达降低，由此他们认为，机械牵张力可以促进MSCs成骨分化，p38MAPK-osterix通路在控制骨生成相关基因表达中起重要作用。
+
+以上研究表明，机械牵张力对MSCs的分化具有促进作用，合理地应用机械牵张力有利
+
+于MSCs的分化。
+
+# 2.4微重力对MSCs分化的影响
+
+微重力又称为零重力，是由太空残余大气等因素造成，而不是由地球引力产生，微重力环境是指在重力的作用下，系统的表观重量远小于其实际重量的环境，目前产生微重力环境的方法有四种：落塔、飞机、火箭和航天器。
+
+微重力同样影响着MSCs的分化，Chen等[35]应用微重力模型，观察模拟微重力对MSCs分化的影响，结果发现，应用模拟微重力会抑制MSCs成骨分化，同时检测到成骨调节因子TAZ也受到明显抑制，推测模拟微重力可能是通过抑制TAZ的激活从而抑制了MSCs成骨分化。此外，在Zhang等[36]的研究中发现，即使是在成骨诱导条件下，微重力也能抑制MSCs成骨分化，促进其成脂分化，在分析成骨分化的信号通路时发现，RUNX2，BMP2和SMAD蛋白的表达和活性降低，另外FAK和ERK1/2的活性也显著降低，因此他们推测，微重力通过BMP2/SMAD和integrin/FAK/ERK途径的双重作用，使RUNX2的表达降低,从而抑制了MSCs成骨分化。同时还发现，微重力增加了丝裂原激活蛋白激酶(Mitogen-activated proteinkinase,MAPK)和AKT活性增加，这对MSCs成脂分化具有促进作用。
+
+Xue等[37的研究发现，微重力的作用时间影响MSCs的分化，在短时间微重力作用（72小时）下，可以促进MSCs成内皮、神经元和脂肪分化，当延长微重力刺激时间（10天），则可以促进MSCs成骨分化，在微重力短时间刺激时，发现RhoA蛋白活性降低，长时间刺激时，RhoA蛋白活性增加。他们推测可能是由于微重力持续作用通过RhoA通路调控MSCs分化。
+
+以上的研究均可以表明微重力可以调控MSCs的分化，但各文献中其对调控MSCs成骨分化作用尚不一致，其作用机制还有待进一步研究。
+
+# 3机械刺激在三维(Threedimension,3D)培养条件下对MSCs的分化影响
+
+细胞在体内多为3D生长条件，因此从生理学角度出发，MSCs在更接近活体的3D立体支架上培养可能会更有利于其功能的发挥。力学刺激作用方式的不同，对 3D 支架上 MSCs分化的影响不同，其作用机制也不同（图1为机械刺激在三维支架中影响MSCs分化的模式图)。Chen 等[38]采用自制的三维振荡流装置在支架上应用振荡灌注，研究MSCs在三维振荡灌注时的生长成骨分化情况。结果表明，在3D培养振荡灌注下，由于机械应力的作用,改善了活细胞在三维支架上的分布，使MSCs更均匀地分布在三维支架上，另外流体振荡可以为细胞提供足够的营养以及气体交换，带走存在支架空隙中的代谢产物和死细胞，使 MSCs拥有更好的生存环境。同时，与静态培养相比较，振荡剪切力可以促进MSCs的胶原分泌、矿物沉积和成骨分化。
+
+连续流动的培养基有利MSCs的增殖且一定的流体压力有助MSCs 成骨分化，Tang 等[39]制作了一种由聚氨酯为基础的聚合物支架，采用自行设计的生物反应器进行灌注和流体压力刺激，研究MSCs在此支架上的生存、增殖和成骨分化。结果发现，当灌注量为 $1 0 \mathrm { m l / m i n }$ ，流体压力为60mmHg,0.5HZ时可以维持支架上MSCs的生存能力，经过2周的培养，发现细胞碱性磷酸酶和钙沉积明显增多，而将流体压力增加至 $1 2 0 \mathrm { m m H g }$ 时并没有发现更好的效果。表明适当的流体压力对MSCs的分化更有利。
+
+Li等[27]采用纤维聚氨酯支架对间充质干细胞进行三维培养，利用自制的生物反应器向该三维支架施以循环压力和剪切力。结果发现，在一定范围内，当增加负荷的频率和幅度时，可检测到GAG 生成增加，同时成软骨基因的表达也呈增长趋势，可见在三维生物材料中间充质干细胞的软骨分化是受循环压力和剪切力的频率和幅度影响的。以上研究表明，在间充质干细胞的软骨组织工程中，适当的施以机械负荷是很有必要的。同循环静压力相比，间歇剪切力对MSCs 的刺激更加有效，Becquart 等[40]对早期机械刺激敏感基因的研究中发现，暴露在间歇剪切力中的MSCs最终检测发现所有的敏感基因均被激活，而暴露于循环静压力的基因则仅有部分激活，另外，只有间歇剪切力激活了ERK1／2通路。因此他们认为间歇剪切力的刺激更加有效。
+
+研究发现，循环牵张力可以促进MSCs的成纤维细胞分化，Qiu 等[4将MSCs 附着在一种三维胶原纤维支架上，应用频率为1HZ, $10 \%$ 的循环牵张力对其进行调控，结果发现：与肌腱纤维母细胞表型相关的转录因子的表达在循环牵张力作用下显著上调，同时，与静态培养比较，在循环牵张力作用下的MSCs分泌更多的细胞外基质，包括胶原蛋白I、胶原蛋白III 和生腱蛋白（肌腱/韧带成纤维分化的重要标志物），且由于胶原纤维支架具有很高的抗拉强度，可以更好地应用循环张力。也就是说，同时应用循环牵张力和胶原纤维支架可以更好地促进MSCs的成纤维细胞分化。
+
+# 4展望
+
+以上研究结果提示，力学刺激对 MSCs 的生长，成骨[38]、成软骨[26]、成纤维[31]、神经[32]等的分化均有影响。MSCs的多向分化能力使其在再生医学和组织工程中的潜在应用价值不可小觑，对MSCs的培养条件、定向诱导分化以及分化的因素研究也成为当前研究的热点，寻求合适的培养条件对于MSCs的分化和应用的研究具有重要意义。力学刺激作为影响MSCs 的重要因素之一，有必要对其进行深化研究，充分了解力学刺激及其机制对间充质干细胞的影响，对揭示干细胞特性的基础研究具有一定的科学价值，对组织工程和再生医学的应用研究具有一定的临床意义。
+
+参考文献   
+[1]Anzalone R, Lo Iacono M, Corrao S, et al. New emerging potentials for human Wharton's jelly mesenchymal stem cells: immunological features and hepatocyte-like diferentiative capacity [J]. Stem Cells Dev,2010,19(4): 423-438.   
+[2] Kalaszczynska I， Ferdyn K. Wharton's jelly derived mesenchymal stem cells: future of regenerative medicine? Recent findings and clinical significance [J]. Biomed Res Int, 2015, 2015:430847.   
+[3] Toma C, Pittenger M F, Cahill K S,et al. Human mesenchymal stem cells differentiate to a cardiomyocyte phenotype in the adult murine heart [J]. Circulation, 2002,105(1): 93-98.   
+[4]Lee K D, Kuo T K, Whang-Peng J, et al. In vitro hepatic diffrentiation of human mesenchymal stem cells [J]. Hepatology,2004,40(6): 1275-1284.   
+[5] Yun D H, Song H Y, Lee M J, et al. Thromboxane A(2) modulates migration, proliferation,and differentiation of adipose tissue-derived mesenchymal stem cells [J]. Exp Mol Med, 2009,41(1): 17-24.   
+[6] Olvera D, Sathy B N, Carroll S F, et al. Modulating microfibrillar alignment and growth factor stimulation to regulate mesenchymal stem cel differentiation [J]. Acta Biomater, 2017,64:148-160. [7]Rashedi I, Talele N, Wang X H, et al. Collagen scaffold enhances the regenerative properties of mesenchymal stromal cells [J]. PLoS One,2017,12(10): e0187348.   
+[8] 刘洋，韩东，华闻达，等．基底硬度与形貌协同对大鼠骨髓间充质干细胞成骨分化的影响 [J]．医用生物力学,2016,03:218-226.   
+Liu Y,Han D, Hua W D, et al. Synergic effects of substrate stiffness and topography on osteogenic diferentiation of rat bone mesenchymal stem cels[J]. Journal of Medical Biomechanics, 2016, 03: 218-226.   
+[9] Xu J, Sun M, Tan Y,et al. Effect of matrix stiffess on the proliferation and differentiation of umbilical cord mesenchymal stem cells [J]. Differentiation,2017, 96:30-39.   
+[10] Chen G,Dong C, Yang L, et al. 3D Scaffolds with Different Stiffness but the Same Microstructure for Bone Tissue Engineering [J].ACS Appl Mater Interfaces, 2015,7(29): 15790-15802.   
+[11] Hwang J H, Byun M R, Kim A R, et al. Extracellular Matrix Stiffness Regulates Osteogenic Differentiation through MAPK Activation [J]. PLoS One, 2015,10(8): e0135519.   
+[12] Shih Y R，Tseng K F，Lai H Y，et al. Matrix stiffness regulation of integrin-mediated mechanotransduction during osteogenic differentiation of human mesenchymal stem cells [J]. J Bone Miner Res,2011,26(4): 730-738.   
+[13] Sun M, Chi G, Xu J,et al. Extracellular matrix stiffness controls osteogenic differentiation of mesenchymal stem cells mediated by integrin alpha5 [J]. Stem Cell Res Ther, 2018, 9(1): 52.   
+[14] Maul T M, Chew D W, Nieponice A,et al. Mechanical stimuli diferentially control stem cell behavior: morphology, proliferation,and differentiation [J]. Biomech Model Mechanobiol,2011,10(6): 939-953.   
+[15] Ghazanfari S, Tafazzoli-Shadpour M, Shokrgozar MA. Eects of cyclic stretch on proliferation of mesenchymal stem cells and their differentiation to smooth muscle cells [J]. Biochem Biophys Res Commun, 2009,388(3): 601-605.   
+[16] Yourek G,McCormick S M, Mao J J, et al. Shear stress induces osteogenic differentiation of human mesenchymal stem cells [J]. Regen Med, 2010, 5(5): 713-724.   
+[17] Zhao F, Chella R,Ma T.Efects of shear stress on 3-D human mesenchymal stem cell construct development in a perfusion bioreactor system: Experiments and hydrodynamic modeling [J]. Biotechnol Bioeng, 2007, 96(3): 584-595.   
+[18] Griffth L G, Swartz MA. Capturing complex 3D tissue physiology in vitro [J]. Nat Rev Mol Cell Biol, 2006, 7(3): 211-224.   
+[19] Lee H J, Diaz M F, Ewere A, et al. Focal adhesion kinase signaling regulates anti-inflammatory function of bone marrow mesenchymal stromal cells induced by biomechanical force [J]. Cel Signal, 2017, 38:1-9.   
+[20] Liu L,Yu B, Chen J, et al. Different effects of intermitent and continuous fluid shear stresses on osteogenic differentiation of human mesenchymal stem cells [J]. Biomech Model Mechanobiol, 2012, 11(3-4): 391-401.   
+[21] Kim K M,Choi Y J, Hwang JH, et al. Shear stress induced by an interstitial level of slow flow increases the osteogenic differentiation of mesenchymal stem cels through TAZ activation [J]. PLoS One,2014, 9(3): e92427.   
+[22] Hu K, Sun H, Gui B,et al. TRPV4 functions in flow shear stress induced early osteogenic differentiation of human bone marrow mesenchymal stem cells [J]. Biomed Pharmacother, 2017, 91:841-848.   
+[23]易飞舟，赵萤，张旻．流体压力对骨髓间充质干细胞软骨向分化影响的体外实验研究 [J]. 口腔医学,2016,06:481-484.   
+Yi F Z, Zhao Y, Zhang M. In vitro study of the effects of hydrodynamic pressure on chondrogenic differentiation of bone marrow mesenchymal stem cells[J]. Stomatology,2016, 06: 481-484.   
+[24]陈江，贾育松，柳根哲，等．体外静水压环境下细胞因子诱导骨髓间充质干细胞向髓核样细 胞分化[J]．中国组织工程研究,2016,02:191-196.   
+Chen J, Jia Y S,Liu G Z,et al. Cytokine-induced differentiation of bone marrow mesenchymal stem cells into nucleus pulposus-like cels under hydrostatic pressure in vitro[J]. Chinese Journal of Tissue Engineering Research, 2016, 02: 191-196.   
+[25] Javanmard F, Azadbakht M， Pourmoradi M. The effect of hydrostatic pressure on staurosporine-induced neural diferentiation in mouse bone marrowderived mesenchymal stem cells [J]. Bratisl Lek Listy,2016,117(5): 283-289.   
+[26] Ye R,Hao J， Song J,et al. Microenvironment is involved in cellular response to hydrostatic pressures during chondrogenesis of mesenchymal stem cells [J]. J Cell Biochem， 2014，115(6): 1089-1096.   
+[27] Li Z, Yao S J,Alini M, et al. Chondrogenesis of human bone marrow mesenchymal stem cells in fibrin-polyurethane composites is modulated by frequency and amplitude of dynamic compression and shear stress [J]. Tissue Eng Part A, 2010,16(2): 575-584.   
+[28] Liu J, Zhao Z, Li J, et al. Hydrostatic pressures promote initial osteodifferentiation with ERK1/2 not p38 MAPK signaling involved [J]. JCell Biochem, 2009,107(2): 224-232.   
+[29] Liu J, Zou L，Wang J,et al. Hydrostatic pressure promotes Wnt10b and Wnt4 expression dependent and independent on ERK signaling in early-osteoinduced MSCs [J]. Biochem Biophys Res Commun, 2009,379(2): 505-509.   
+[30] Haasper C,Jagodzinski M, Drescher M, et al. Cyclic strain induces FosB and initiates osteogenic differentiation of mesenchymal cells [J]. Exp Toxicol Pathol, 2008, 59(6): 355-363.   
+[31] Nam H Y, Pingguan-Murphy B，Amir Abbas A,et al. The proliferation and tenogenic differentiation potential of bone marrow-derived mesenchymal stromal cell are influenced by specific uniaxial cyclic tensile loading conditions [J]. Biomech Model Mechanobiol,2015,14(3): 649-663. [32] Leong W S, Wu S C, Pal M, et al. Cyclic tensile loading regulates human mesenchymal stem cell differentiation into neuron-like phenotype [J].JTissue Eng Regen Med,2012, 6 Suppl 3(s68-79. [33] Wu Y， Zhang X，Zhang P,et al. Intermittent traction stretch promotes the osteoblastic differentiation of bone mesenchymal stem cells by the ERK1/2-activated Cbfal pathway [J]. Connect Tissue Res, 2012, 53(6): 451-459.   
+[34] Xiao W L, Zhang D Z, Fan C H, et al. Intermittent Stretching and Osteogenic Differentiation of Bone Marrow Derived Mesenchymal Stem Cells via the p38MAPK-Osterix Signaling Pathway [J]. Cell Physiol Biochem,2015, 36(3): 1015-1025.   
+[35] Chen Z,Luo Q,Lin C，et al. Simulated microgravity inhibits osteogenic differentiation of mesenchymal stem cells through down regulating the transcriptional co-activator TAZ [J]. Bioengineering (Basel), 2015,468(1-2): 21-26.   
+[36] Zhang C,Li L, Jiang Y,et al. Space microgravity drives transdiferentiation of human bone marrow-derived mesenchymal stem cells from osteogenesis to adipogenesis [J]. Faseb j，2018, fj201700208RR.   
+[37] Xue L，Li Y， Chen J.Duration of simulated microgravity afects the diffrentiation of mesenchymal stem cells [J]. Mol Med Rep,2017,15(5): 3011-3018.   
+[38] Chen G, Xu R, Zhang C, et al. Responses of MSCs to 3D Scaffold Matrix Mechanical Properties under Oscillatory Perfusion Culture [J].ACS Appl Mater Interfaces,2017, 9(2): 1207-1218.   
+[39] Tang X, Teng S,Liu C,et al. Influence of hydrodynamic pressure on the proliferation and osteogenic differentiation of bone mesenchymal stromal cells seeded on polyurethane scaffolds [J]. J Biomed Mater Res A,2017, 105(12): 3445-3455.   
+[40] Becquart P, Cruel M,Hoc T,et al. Human mesenchymal stem cell responses to hydrostatic pressure and shear stress [J]. Eur Cell Mater,2016,31(160-173.   
+[41] Qiu Y,Lei J, Koob TJ,et al. Cyclic tension promotes fibroblastic differentiation of human MSCs cultured on collagen-fibre scaffolds [J]. JTissue Eng Regen Med,2016,10(12): 989-999.
+
+![](images/be3546a4f31972dda6a07a73a2ec9d1bcbf092d5a6e41c479015d317a64cc105.jpg)  
+图1机械刺激在三维支架中影响MSCs分化的模式图
+
+Figl: Schema graph of mechanical stimulation effects on MSC differentiation in 3D scaffolds.
+
+ECM: extracellular matrix(细胞外基质);FAK:Focal Adhesion Kinase（黏着斑激酶);ERK1/2: extracelularsignal-regulated kinasel/2(细胞外信号调节激酶1/2); Src:原癌基因，其表达产物为酪氨酸蛋白激酶类;Ras:Ras蛋白;Raf:Raf蛋白激酶;Talin:踝蛋白;Actin:肌动蛋白.

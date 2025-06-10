@@ -1,0 +1,312 @@
+[
+    {
+        "type": "text",
+        "text": "Up-conversion Properties of $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathbf { b } ^ { 3 + }$ Co-doped Li3Ba2Gd3(MoO4): Phosphors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Ming-Jun(宋明君) (1);ZHANG Yan(张彦) (2);ZHANG Na-Na(张娜娜)(1);WANG Lin-Tong(王林同)(①);MENG Qin-Guo(孟庆国）(1) (1)Schol ofCemistrdCecalEngneingWeifngUnivesityWeifaCinaof Materials Science and Engineering, Shanghai Institute of Technology, Shanghai 2O0235, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT $\\mathrm { E r ^ { 3 + } } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ co-doped $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ phosphors were synthesized by conventional solid state reaction method,and their structure and spectral properties were investigated. The diffuse reflectance spectra showed that the $^ 4 I _ { 1 5 / 2 }  { ^ 4 I _ { 1 1 / 2 } }$ transition of $\\mathrm { E r } ^ { 3 + }$ and the ${ } ^ { 2 } F _ { 7 / 2 }  { } ^ { 2 } F _ { 5 / 2 }$ transition of $\\mathrm { Y b } ^ { 3 + }$ （204号 ions were highly overlapped. Under the excitation of $9 8 0 ~ \\mathrm { n m }$ ，three up-conversion （UC） luminescence bands around 530, 555 and $6 6 0 ~ \\mathrm { { n m } }$ were observed, corresponding to the $^ 2 H _ { 1 1 / 2 } \\to { ^ 4 I } _ { 1 5 / 2 }$ $^ 4 S _ { 3 / 2 }  ^ { 4 } I _ { 1 5 / 2 }$ and $^ 4 F _ { 9 / 2 }  { } ^ { 4 } I _ { 1 5 / 2 }$ transitions of $\\mathrm { E r } ^ { 3 + }$ ions, respectively. The effects of the concentration and pumping power on the UC intensities of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were investigated,and the possible UC mechanism was proposed based on the results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: up-conversion; molybdate compounds; phosphors, energy transfer; DOI: 10.14102/j.cnki.0254-5861.2011-1753 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As we know, up-conversion (UC) process has provided a possibility to convert infrared pumping source into visible radiation, which has potential applications in the fields of solid-state lasers,multicolor displays, solar cells, temperature sensing,etc.1-5l. As a consequence, with the rapid development of diode lasers in the infrared region over the past decades，considerable atention has been devoted to infrared-to-visible UC luminescence materials. Among the rare earth ions, $\\mathrm { E r } ^ { 3 + }$ may be the most frequently investigated activator for UC process,since its complicated energy level scheme with many meta-stable excited states gives rise to multi-step energy transfer and excited-state absorption process. However, the main disadvantage of $\\mathrm { E r } ^ { 3 + }$ （20 should be its low absorption cross-section in the laser diodes emission range ( $( 0 . 8 \\sim 1 . 5 ~ \\mathrm { m m }$ )，which greatly limits pump efficiency. One possible solution is adding a second ion as sensitizer and $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ is often used for this role because of its large absorption cross-section at $9 8 0 ~ \\mathrm { n m }$ . Furthermore, the energy gap of ${ ^ 2 F } _ { 7 / 2 } { \\longrightarrow } { ^ 2 F } _ { 5 / 2 }$ （204 levels of $\\mathrm { Y b } ^ { 3 + }$ ion is very close to that of $^ 4 I _ { 1 5 / 2 } { \\longrightarrow } ^ { 4 } I _ { 1 1 / 2 }$ and $^ 4 I _ { 1 1 / 2 } {  } ^ { 4 } F _ { 7 / 2 }$ levels of $\\mathrm { E r } ^ { 3 + }$ ion,which allows an efficient energy transfer from $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ to $\\mathrm { E r } ^ { 3 + }$ by resonance interaction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the properties of the host materials,including phonon energy,mechanical robustness and thermal stability,also exert an important efecton the performance of UC.To achieve a high efficiencyof UC process,one of the most important requirements is that the host materials should have low phonon energy. Therefore,the current choice of potential host materials for UC mainly concentrates on chlorides,fluorides, and sulfur oxides. These materials are characterized by low phonon energy，which give rise to high UC efficiencyl6-8l, but their applications are restricted by their unstable chemical nature and poor mechanical robustness9]. Furthermore,fluorides and sulfur oxides inevitably cause environmental polution because of the high content of fluorine and sulfur. In recent years,the molybdate based materials have been intensively studied as promising host for solid state lasers and luminescent phosphors owing to their excellent properties, such as excellnt chemical stability, moderate synthesis conditions and polution-free features. In addition, since they also have relatively low latice phonon energy, many molybdate compounds were also reported as UC host, like $\\mathrm { C a M o O } _ { 4 } \\mathrm { : E r ^ { 3 + } / Y b ^ { 3 + [ 1 ] } }$ ， $\\mathrm { A L n } ( \\mathbf { M o O } _ { 4 } ) _ { 2 } \\mathrm { : E r } ^ { 3 + } / \\mathbf { Y } \\mathbf { b } ^ { 3 + }$ 0 $\\mathrm { \\nabla \\times A } = \\mathrm { L i }$ ，Na and K $; { \\mathrm { ~ L n ~ } } = { \\mathrm { ~ L a } }$ ,Gd and Y)[9], $\\mathrm { B a G d _ { 2 } ( M o O _ { 4 } ) _ { 4 } . E r ^ { 3 + } / Y b ^ { 3 + } } / \\mathrm { 1 0 1 }$ $\\mathbf { G } \\mathbf { d } _ { 2 } ( \\mathbf { M } \\mathbf { o } \\mathbf { O } ) _ { 3 } { : } \\mathrm { E r } ^ { 3 + } / \\mathbf { Y } \\mathbf { b } ^ { 3 + [ 1 1 ] }$ , and so forth. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The triple molybdate compounds $\\mathrm { L i _ { 3 } B a _ { 2 } R e _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ 1 $\\mathrm { ( R e = L a { \\sim } L u , Y }$ ）belong to the monoclinic system with $C 2 / c$ group.In the past, the interest in these compounds mainly concentrated on the bulk crystals to take advantages of their laser properties because of their wonderful spectral properties and simple growth techniques. Notably, efficient laser performance has already been achieved with $\\mathrm { Y b ^ { 3 + } { : } L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } [ ^ { 1 2 } ] }$ and $\\mathrm { T m ^ { 3 + } { : } L i _ { 3 } B a _ { 2 } L u _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ crystals[13l. In recent papers, $\\mathrm { L i _ { 3 } B a _ { 2 } R e _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ was further investigated as potential hosts for rare earth ions to develop luminescent materials,and ${ \\mathrm { E u } } ^ { 3 + }$ ， $\\mathrm { T b } ^ { 3 + }$ and $\\mathrm { D y } ^ { 3 + }$ -doped $\\mathrm { L i _ { 3 } B a _ { 2 } R e _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ phosphors have been reported for white-light emitting applications[14-16]. However, to the best of our knowledge,these compounds have never been investigated as UC host. So,in the present paper, $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ co-doped $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ was synthesized by solid state reaction method and their UC properties were recorded under the excitation of $9 8 0 \\mathrm { n m }$ .Moreover, the effect of $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ concentration and pump power on the UC emission, as well as the possible UC mechanism was also presented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were synthesized by means of solid state reaction method with raw materials of $\\mathrm { L i } _ { 2 } \\mathrm { C O } _ { 3 }$ (A.R.), $\\mathbf { B a C O } _ { 3 }$ (A.R.), ${ \\mathrm { G d } } _ { 2 } { \\mathrm { O } } _ { 3 }$ 1 $( 9 9 . 9 9 9 \\%$ ）, $\\mathrm { E r } _ { 2 } \\mathrm { O } _ { 3 }$ $( 9 9 . 9 9 \\%$ ), ${ \\mathrm { Y b } } _ { 2 } { \\mathrm { O } } _ { 3 }$ $( 9 9 . 9 9 \\% )$ and $\\mathbf { M o O } _ { 3 }$ (A.R.). Firstly, a stoichiometric mixture of the raw materials was ball-milled for $1 0 \\mathrm { { h } }$ using planetary milling with zirconia ball and alcohol media. Then,the dried powders were placed into alumina crucibles and calcined at $9 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { { h } }$ under air atmosphere. After that, the synthesized samples were grounded into fine powders in an agate mortar for measurement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structures of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were analyzed by $\\mathrm { \\Delta } X$ -ray power diffraction (D8 Advance diffractometer, Bruker Corporation, Germany） with a CuKα radiation $( \\lambda = 1 . 5 4 0 5 6 \\mathrm { ~ \\AA ~ } , 4 0 \\mathrm { ~ k V } , 3 0$ ） mA). The diffuse reflection spectra were measured using a Shimadzu UV-vis-NIR spectrophotometer (UV-3600). The UC luminescence spectra and luminescence decay curves were recorded using an Edinburgh Instruments FLS98O spectrophotometer equipped with an external power-controllable $9 8 0 \\mathrm { n m }$ semiconductor laser as excitation source.All the measurements were carried out at room temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The X-ray diffraction (XRD） patterns of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors are shown in Fig.1 and compared with that of pure $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ . As we can see,all the diffraction peaks of the synthesized samples are consistent with those of pure $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ on the powder standard card and no additional diffraction peaks were observed, indicating that all the $\\mathrm { E r } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ ions have been completely doped into the host matrix and substitute for the $\\mathrm { G d ^ { 3 + } }$ ions. However, as shown in Fig. 1(b), the main diffraction peaks of the samples gradually shift to higher $2 \\theta$ angles with the increasing concentration of $\\mathrm { Y b } ^ { 3 + }$ ions owing to the smaller radius of $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions compared to that of ${ \\mathrm { G d } } ^ { 3 + }$ ions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the energy level structures of $\\mathrm { E r } ^ { 3 + }$ and $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions in the $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ host,the absorption spectra of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were recorded. Fig. 2 shows the diffuse reflection spectra of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 0 \\mathcal { H } Y b ^ { 3 + } } , \\qquad \\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\mathcal { H } E r ^ { 3 + } }$ and $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ phosphors. For all the samples,a broad and smooth absorption band around $2 8 0 ~ \\mathrm { n m }$ can be observed,which belongs to the charge transfer transition of $\\mathrm { O } \\to \\mathrm { M o }$ . Besides, six eminent absorption bands around 380,485,520,655，800 and $9 7 5 \\ \\mathrm { n m }$ can be also observed with the $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% E \\mathrm { r } ^ { 3 + }$ and $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ phosphors. The former five absorption bands for the two samples are very similar and can be ascribed to the intrinsic transitions of $\\mathrm { E r } ^ { 3 + }$ ions from the ground state of $^ 4 I _ { 1 5 / 2 }$ to the excited states of $^ { 4 } G _ { 1 1 / 2 , } { } ^ { 4 } F _ { 7 / 2 , } { } ^ { 2 } H _ { 1 1 / 2 , } { } ^ { 4 } F _ { 9 / 2 }$ and $^ 4 I _ { 9 / 2 }$ ,respectively. However, it should be noted that the absorption band around $9 7 5 ~ \\mathrm { n m }$ of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% E \\mathrm { r } ^ { 3 + }$ is much weaker than that of $\\operatorname { L i } _ { 3 } \\mathrm { { B a } _ { 2 } \\mathrm { { G d } _ { 3 } ( M o O _ { 4 } ) _ { 8 } \\cdot 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } } }$ For $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% \\mathrm { E r } ^ { 3 + }$ ，the absorption band peak at 974 nm comesfromthe $^ 4 I _ { 1 5 / 2 } { \\longrightarrow } ^ { 4 } I _ { 1 1 / 2 }$ transitionof $\\mathrm { E r } ^ { 3 + }$ ions，whiletheone for $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ at $9 6 8 ~ \\mathrm { n m }$ should be the superposition of the ${ ^ 2 F } _ { 7 / 2 } { \\longrightarrow } { ^ 2 F } _ { 5 / 2 }$ transition of $\\Upsilon \\mathsf { b } ^ { 3 + }$ ions and the $^ 4 I _ { 1 5 / 2 } { \\longrightarrow } ^ { 4 } I _ { 1 1 / 2 }$ transition of $\\mathrm { E r } ^ { 3 + }$ ions. As for the sample of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 0 \\% Y b ^ { 3 + } }$ only an intensive band is found around $9 7 5 \\ \\mathrm { n m }$ ，which arises from the ${ ^ 2 F } _ { 7 / 2 } { \\longrightarrow } { ^ 2 F } _ { 5 / 2 }$ transition of $\\mathrm { Y b } ^ { 3 + }$ ions. According to Fig. 2, it can be concluded that the energy transfer process between $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ and $\\mathrm { E r } ^ { 3 + }$ ions in $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ should be very effective because of the significant overlaps between the $^ 4 I _ { 1 5 / 2 } {  } ^ { 4 } I _ { 1 1 / 2 }$ transition of $\\mathrm { E r } ^ { 3 + }$ and the ${ ^ 2 F } _ { 7 / 2 } { \\longrightarrow } { ^ 2 F } _ { 5 / 2 }$ transition of $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Under the excitation of $9 8 0 \\mathrm { n m }$ , the UC luminescence spectra of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } \\cdot 2 \\% E r ^ { 3 + } / { \\chi } Y b ^ { 3 + } } \\ ( x = 8 \\% ,$ （204号 （204号 $12 \\%$ ， $1 6 \\%$ $20 \\%$ $24 \\%$ ， $28 \\%$ ） phosphors in the wavelength range of $5 0 0 { \\sim } 7 0 0 ~ \\mathrm { n m }$ were recorded, as shown in Fig.3.The UC luminescence spectra of all the recorded samples display similar profiles consisting of three emission bands around 530, 555,and $6 6 0 \\ \\mathrm { n m }$ .The green emission bands at 530 and $5 5 5 ~ \\mathrm { n m }$ can be ascribed to the $^ 2 H _ { 1 1 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ and $^ 4 S _ { 3 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ transitions of $\\mathrm { E r } ^ { 3 + }$ ions,respectively. The multi-peaks of the two green bands should be caused by crystal-field stark splitting.The red emission band at $6 6 0 ~ \\mathrm { n m }$ can be ascribed to the $^ 4 F _ { 9 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ transition of $\\mathrm { E r } ^ { 3 + }$ ions. In our previous research, a tiny emission band at $4 9 0 ~ \\mathrm { n m }$ deriving from the $^ 4 F _ { 7 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ transition of $\\mathrm { E r } ^ { 3 + }$ ions was also observed with $\\mathrm { E r ^ { 3 + } { : } L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ single crystals under $9 8 0 ~ \\mathrm { n m }$ excitation[17l. In the present research, however, this emission band is not observed. The main reason may be that the polycrystalline $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ possesses much more defects than single-crystal $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ ， which act as nonradiative recombination centers and significantly depopulate of $^ 4 F _ { 7 / 2 }$ state.The inset of Fig.3 shows the integrated intensities of green and red emission bands with respect to the $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ concentration.As we can see that with increasing the $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ concentration,both the green and red emission intensities increase obviously, suggesting an eficient energy transfer of ${ \\Upsilon } { \\mathsf { b } } ^ { 3 + } \\to { \\mathrm { E r } } ^ { 3 + }$ .However, when the $\\mathrm { Y b } ^ { 3 + }$ concentration is beyond $20 \\mathrm { m o l } \\%$ ,both the green and red emission intensities decrease due to the concentration quenching effect. The concentration quenching effect is mainly caused by energy transfer between neighboring $\\mathrm { E r } ^ { 3 + }$ and $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions. With increasing the $\\mathrm { E r } ^ { 3 + }$ and $\\mathrm { Y b } ^ { 3 + }$ concentrations, the distance between $\\mathrm { E r } ^ { 3 + }$ and $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions gets shorter, and meanwhile the non-radiative energy transfer becomes more intensivel9]. As a result, the emission intensities of $\\mathrm { E r } ^ { 3 + }$ ions decrease. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the UC mechanism of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ ，the UC luminescence spectra of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ phosphors were measured as a function of different pumping powers (Fig. 4). As we can see that there is hardly any difference among the profiles of the UC luminescence spectra, but the emisson intensities increase with the increasing pumping powers. The relation between the UC luminescence intensity and the pumping powers can be described by the following equation[18]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { e m } \\propto P _ { p u m p } ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $I _ { e m }$ is the UC luminescence intensity, $P _ { p u m p }$ is the pumping powers and $n$ represents the number of photons involved in the UC process. Generally, the above equation is written as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln I _ { _ { e m } } = n \\ln P _ { _ { p u m p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The plots of $\\ln { I _ { e m } }$ for the three emission bands versus $\\ln P _ { p u m p }$ yield straight lines,as shown in the inset of Fig. 4. By linear fitting, the slope values $n$ were obtained to be 2.03,1.85,1.80 for 530, 555 and $6 6 0 ~ \\mathrm { n m }$ emision respectively, which are close to 2. So, we can conclude that two photons are involved for the UC process in the system of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The UC mechanism in $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ co-doped systems has been extensively investigated in many literaturesl1-6l. Itcan be described by the energy level diagram sketched inFig.5. Under the excitation of $9 8 0 ~ \\mathrm { n m }$ the $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ ions can be excited to the excited-state of $^ 2 F _ { 5 / 2 }$ .Meanwhile, the $\\mathrm { E r } ^ { 3 + }$ can also be exited to its excited-state of $^ 4 I _ { 1 1 / 2 }$ through ground state absorption (GSA) process and energy transfer (ET) process: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G S A } { \\mathrm { : ~ } } ^ { 4 } I _ { 1 5 / 2 } \\left( \\mathrm { E r ^ { 3 + } } \\right) + \\mathrm { a \\ p h o t o n \\ } ( 9 8 0 \\mathrm { n m } ) \\longrightarrow { } ^ { 4 } I _ { 1 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } \\colon { ^ { 4 } I } _ { 1 5 / 2 } ( \\mathrm { E r } ^ { 3 + } ) + { ^ { 2 } F } _ { 5 / 2 } ( \\mathrm { Y b } ^ { 3 + } ) \\longrightarrow { ^ { 4 } I } _ { 1 1 / 2 } ( \\mathrm { E r } ^ { 3 + } ) + { ^ { 2 } F } _ { 7 / 2 } ( \\mathrm { Y b } ^ { 3 + } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the lifetime of $^ 4 I _ { 1 1 / 2 }$ state of $\\mathrm { E r } ^ { 3 + }$ is very long[19l, it is expected that the population of this excited state can be further excited to the upper state of $^ 4 F _ { 7 / 2 }$ through excited state absorption (ESA） process and energy transfer (ET) process: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS A \\mathrm { : ~ } ^ { 4 } I _ { 1 1 / 2 } \\left( \\mathrm { E r ^ { 3 + } } \\right) + \\mathrm { a ~ p h o t o n } \\left( 9 8 0 \\mathrm { { n m } } \\right) \\longrightarrow { } ^ { 4 } I _ { 7 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } \\colon { ^ { 4 } I } _ { 1 1 / 2 } ( \\mathrm { E r } ^ { 3 + } ) + { ^ { 2 } F } _ { 5 / 2 } ( \\mathrm { Y b } ^ { 3 + } ) \\longrightarrow { ^ { 4 } I } _ { 7 / 2 } ( \\mathrm { E r } ^ { 3 + } ) + { ^ { 2 } F } _ { 7 / 2 } ( \\mathrm { Y b } ^ { 3 + } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Some of the populations of the $^ 4 F _ { 7 / 2 }$ state relax non-radiatively to the $^ 2 H _ { 1 1 / 2 }$ and $^ 4 S _ { 3 / 2 }$ states, giving rise to the green emissions of 530 and $5 5 5 ~ \\mathrm { n m }$ ,respectively. At the same time,some of the populations of the $^ 4 F _ { 7 / 2 }$ state relax non-radiatively to the $^ 4 F _ { 9 / 2 }$ state,from which the red emission of $6 6 0 \\mathrm { n m }$ is observed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The decay curves of the $^ 2 H _ { 1 1 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ 0 $5 3 0 \\mathrm { n m } ,$ ， ${ } ^ { 4 } S _ { 3 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ （ $5 5 5 \\mathrm { n m } )$ and $^ 4 F _ { 9 / 2 } {  } ^ { 4 } I _ { 1 5 / 2 }$ （ $\\left( 6 6 0 \\mathrm { n m } \\right)$ transitions of $\\mathrm { E r } ^ { 3 + }$ ionsin $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } ; 2 \\% E r ^ { 3 + } }$ and $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ sampleswere measured under $9 8 0 \\ \\mathrm { n m }$ excitation. As shown in Fig.6,the decay curves of the three transitions in $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% E \\mathrm { r } ^ { 3 + }$ exhibit a typical single exponential behavior, and the lifetimes were calculated to be 21.6， 20.7and22.4μsbylinearfitting. However，the decay curves of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ sample are not single exponential and can be fitted with a second-order exponential model: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( t ) { = } A _ { 1 } \\exp ( - t / t _ { 1 } ) + A _ { 2 } \\exp ( - t / t _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $I$ is the UC luminescence intensity, $A _ { 1 }$ and $A _ { 2 }$ are constants, $t _ { 1 }$ and $t _ { 2 }$ are the lifetimes for the exponential components. The values of $A _ { 1 } , A _ { 2 } , t _ { 1 }$ and $t _ { 2 }$ are presented in Table 1. The mean lifetimes for the three transitions in $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ sample can be calculated by the following equation[20]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { m e a n } = ( A _ { 1 } t _ { 1 } ^ { 2 } + A _ { 2 } t _ { 1 } ^ { 2 } ) / ( A _ { 1 } t _ { 1 } + A _ { 2 } t _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mean lifetimes of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ are also listed in Table 1. As we can see that thelifetimesin $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } . 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ sample are much larger than those in $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% E \\mathrm { r } ^ { 3 + }$ sample,which should be caused by energy transfer from $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ to $\\mathrm { E r } ^ { 3 + }$ ions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A serious of $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were synthesized by conventional solid state reaction method and their structures were confirmed by $\\mathrm { \\Delta } X$ -ray diffraction method.Under the excitation of $9 8 0 ~ \\mathrm { n m }$ ，the samples exhibited a weak red UC emission at $6 6 0 ~ \\mathrm { n m }$ and two strong green UC emissions at 530 and $5 5 5 ~ \\mathrm { n m }$ . With a fixed $\\mathrm { E r } ^ { 3 + }$ concentration of $2 \\mathrm { m o l } \\%$ , the effects of ${ \\mathrm { Y } } { \\mathsf { b } } ^ { 3 + }$ concentrations on the UC luminescence properties were investigated and the optimum concentration of ${ \\Upsilon } { \\mathsf { b } } ^ { 3 + }$ is determined to be 20 $1 \\mathrm { m o l } \\%$ . The relations between UC emission intensities and pumping powers were investigated and the result revealed that a two photons process was responsible for all the three observed UC emissions. The lifetimes for both the $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } 2 \\% E \\mathrm { r } ^ { 3 + }$ and $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : 2 \\% E r ^ { 3 + } / 2 0 \\% Y b ^ { 3 + } }$ samples were measured and the results showed that the introduction of ${ \\mathrm { Y } } { \\mathsf { b } } ^ { 3 + }$ had greatly enhanced the lifetimes of $\\mathrm { E r } ^ { 3 + }$ ions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d377b9ac00803d4950f288245076a32d749765268d0be59bdfe41599b3be8a49.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>Transitions</td><td>Lifetime (μs)</td></tr><tr><td>Li3BaGd(MoO4)g:2%Er3+</td><td>2H11/→4I15/2</td><td>21.6</td></tr><tr><td rowspan=\"6\">Li3BaGd(MoO4)g:2%Er3+/20%Yb3+</td><td>4S3/24I15/2</td><td>20.7</td></tr><tr><td>4F9/2→415/2</td><td>22.4</td></tr><tr><td>2H11/2→4I15/2</td><td>A=1211.6, t1=117.8</td></tr><tr><td></td><td>Az=11.2,t2=537.2</td></tr><tr><td></td><td>Tmean =134.7</td></tr><tr><td>4S3/2→4I15/2</td><td>A=510.6, t1=162.7</td></tr><tr><td></td><td></td><td>A2=1025.3,t2=66.4</td></tr><tr><td></td><td></td><td>Tmean =119.3</td></tr><tr><td></td><td>4F9/2→415/2</td><td>Ai=874.9,t=83.8</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>A2=311.1, t2=238.4 Tmean =161.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/be7dba3c29deab7b2b09e45089129ac4bda9a8b5db7459d170585cfdf87307ba.jpg",
+        "img_caption": [
+            "Fig.1. XRD patterns of Li3Ba2 $ { \\mathbf { G } }  { \\mathbf { d } } _ { 3 } (  { \\mathbf { M } }  { \\mathbf { o } }  { \\mathbf { O } } _ { 4 } ) _ { 8 } { : } 2 \\%  { \\mathbf { E } }  { \\mathbf { r } } ^ { 3 + } /  { \\mathbf { x } }  { \\mathbf { Y } }  { \\mathbf { b } } ^ { 3 + }$ with different $\\mathbf { Y } \\mathbf { b } ^ { 3 + }$ concentrations "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5e6c366362f29e8725a85f4510995e54ed3e319a1549a69fea85f6d10c279c4.jpg",
+        "img_caption": [
+            "Fig.2.Diffraction reflectance spectra of $\\mathbf { L i 3 B a } _ { 2 } \\mathbf { G d } _ { 3 } ( \\mathbf { M o O 4 } ) _ { 8 } { : } 2 \\% \\mathbf { E r ^ { 3 + } }$ $\\mathbf { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) s : 2 0 \\% \\mathbf { \\Omega } Y b ^ { 3 + } }$ andLi3Ba2Gd3(MoO4)8:2%Er3+/20%Yb3+"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fc4a10c12f72519b5e0d056423db55a415c46df2cdf434a6a86c6be7e780a7a.jpg",
+        "img_caption": [
+            "Fig.3.UC luminescence spectra of $\\mathbf { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) s } \\mathbf { : } 2 \\% \\mathbf { E r } ^ { 3 + } / \\mathbf { x Y b } ^ { 3 + }$ with different $\\mathbf { Y } \\mathbf { b } ^ { 3 + }$ concentrations. The inset shows the dependence of green and red UC emission intensity on the $\\mathbf { Y } \\mathbf { b } ^ { 3 + }$ concentration "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8259f222f892cafe78ed95d835c7a353d9a4fb6ee70a8275d3ef5d31adf2bdb6.jpg",
+        "img_caption": [
+            "Fig.4.UC luminescence spectra of ] $\\mathbf { \\underline { { i } } _ { 3 } B a _ { 2 } G d _ { 3 } } ( \\mathbf { M o O _ { 4 } } ) _ { 8 } \\mathbf { : } 2 \\% \\mathbf { E r } ^ { 3 + } / 2 0 \\% \\mathbf { \\overline { { Y b } } } ^ { 3 + }$ with different pumping powers. The inset shows the power dependence of UC emission intensity at 530,555 and ${ \\bf 6 6 0 } \\mathrm { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/16b89426a1e562d050ae1a97a81b2d03da2dc6b4a2fcdbe278ef2b6e2bac5d1c.jpg",
+        "img_caption": [
+            "Fig.5.Energy level scheme of $\\mathbf { E r ^ { 3 + } }$ and $\\mathbf { Y } \\mathbf { b } ^ { 3 + }$ in $\\mathbf { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ and the possible UC mechanismsunder $\\mathbf { 9 8 0 \\ n m }$ excitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e460528a27642ec84f5fa426649bc1bf8adea84b89df46650bb0542980e28fc.jpg",
+        "img_caption": [
+            "Fig.6.Decay curves of ${ \\bf \\sqrt [ { 2 } ] { H } } _ { 1 1 / 2 }$ $^ 4 \\mathrm { S } _ { 3 / 2 }$ and $^ 4 { \\mathrm { F } } { \\bf { 9 } } / 2$ states for $\\mathbf { L i 3 B a 2 G d 3 ( M o O 4 ) s } \\mathbf { : } 2 \\% \\mathbf { E r } ^ { 3 + }$ (black) and $\\mathbf { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } : 2 } \\% \\mathbf { E r ^ { 3 + } } / 2 0 \\% \\mathbf { \\mathit { Y b } ^ { 3 + } }$ (red) samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）Chuang,J.H;u,J.H;En,J.W;L,J.H;Lee,.Y;HoT.H;CoiB.GimK..Greepoesiolecefrom poly-crystalline $\\mathrm { Y } \\mathsf { b } ^ { 3 + }$ $\\mathrm { E r } ^ { 3 + }$ co-doped CaMoO4.J.Alloys Compd.2012,522,30-34.   \n(2）Mei,L.F;Xie,J.;Liao,L.B.;Guan,M.;Liu,H.K.Tunableupconversionluminescence andenergytransferprocesin $\\mathrm { B a L a } _ { 2 } \\mathrm { Z n O } _ { 5 } \\mathrm { : } \\mathrm { E r } ^ { 3 + } / \\mathrm { Y b } ^ { 3 + }$ phosphors.Adv. Mter: Sci. Eng.2015,2015,1-5.   \n(3) Das,S.;Reddy,A.A.; Babu,S.S.; Prakash, G V. Tunable visible upconversionemission in $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ codoped KCaBO3 phosphors by introducing $\\mathrm { H o } ^ { 3 + }$ ions. Mater: Lett.2014,120,232-235.   \n(4）Guan,MZheng,H;ei,L.F;olokeev.S.;Xie,J.;Yang,T;Wu,X.W;Huang,S.F;Huang,Z.HPreparatiotrcturd up-conversion luminescence of $\\mathrm { Y b } ^ { 3 + } / \\mathrm { E r } ^ { 3 + }$ codoped $\\mathrm { S r I n } _ { 2 } \\mathrm { O } _ { 4 }$ phosphors.J.Am. Ceram. Soc.2015,98,1182-1187.   \n(5) Wei,X.;Zhang,Z.G.;Cao,W.W.Excellnt optical thermometry based onshort-wavelength upconversion emissions in $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ codoped $\\mathrm { C a W O _ { 4 } }$ Opt. Lett.2012,37,4865-4867.   \n(6) Pokhrel, M.; Gangadharan,A.; Sardar,D.K. High upconversion quantum yield at low pump threshold in $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y } \\mathsf { b } ^ { 3 + }$ doped $\\mathrm { L a } _ { 2 } \\mathrm { O } _ { 2 } \\mathrm { S }$ phosphor. Mater. Lett. 2013,99,86-89.   \n(7）Li,Cadte   \n(8） Ding,M.Y;CnD.Q.;n,T.;Lu,C.H;NYR.Xu,Zdrotaltisdcoesileenceotf BaFCl:Yb3+/Er+ microhseets.Mater. Lett.2014,128,101-104.   \n(9）Li,T.; Guo, C.F; Wu,Y.R.; Li,L.; Jeong,J.H. Green upconversion luminescence in $\\mathrm { Y b } ^ { 3 + } / \\mathrm { E r } ^ { 3 + }$ co-doped ALn $( \\mathbf { M o O } _ { 4 } ) _ { 2 }$ （ $\\mathrm { A } = \\mathrm { L i }$ , Na and K; $\\mathrm { L n } = \\mathrm { L a }$ Gd and Y).J.Alloys Compd.2012,540,107-112.   \n(10)Sun,J.Y.;Lan,Y.J.; Xia,Z.G;Du,H. Y.Sol-gel synthesis and green upconversion luminescence in $\\mathbf { B a G d } _ { 2 } ( \\mathbf { M o O } _ { 4 } ) _ { 4 } ; \\mathbf { Y b } ^ { 3 + }$ $\\mathrm { E r } ^ { 3 + }$ phosphors. Opt. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mater2011,33,576-581. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(11）Lu,H.Y;GaoYC.HoHLog,YL;Wag.X;ZangXJddOfelalsisdteprauet upconversion luminescence of $\\mathrm { E r } ^ { 3 + } / \\mathrm { Y b } ^ { 3 + }$ odoped $\\mathrm { G d } _ { 2 } ( \\mathrm { M o O } _ { 4 } ) _ { 3 }$ phosphor. J. Lumin. 2017,186,34–39.   \n(12）Garcia-Cortes,A.; Zaldo,C.; Cascales, C.; Mateos, X.; Petrov, V.Laser operation of $\\mathrm { Y b } ^ { 3 + }$ in disordered $\\mathrm { L i _ { 0 . 7 5 } G d _ { 0 . 7 5 } B a _ { 0 . 5 } ( M o O _ { 4 } ) _ { 2 } }$ crystal with small quantum defect. Opt. Express 2007,15,18162-18167.   \n(13）Rico,M.; Han,X.M.; Cascales,C.; Esteban-Beteg6n,F.; Zaldo,C.Efficient mid-infrared laser operationof $\\mathrm { L i _ { 3 } L u _ { 3 - x } T m _ { x } B a _ { 2 } ( M o O _ { 4 } ) _ { 8 } }$ disordered crystal. Opt. Express 2011,19,7640-7645.   \n(14）GuoC;cet （204号 $\\mathrm { L i _ { 3 } B a _ { 2 } L n _ { 3 } ( M o O _ { 4 } ) _ { 8 } } \\mathrm { : } \\mathrm { E u } ^ { 3 + }$ （ $\\mathrm { L n } =$ La,Gd and Y) for white light-emitting diodes.J.Alloys Compd.2009,479,607-612.   \n(15）Mo，F.W.；Chen，P.C.；Guan，A.X.；Zhang，X.G.；Xu,C.Y.；Zhou,L.Y.Synthesisandluminescenceenhancementof Li3Ba2Gd2.95-yEu0.05My(MoO4)8 $\\mathbf { M } = \\mathbf { B } \\mathrm { i } ^ { 3 + }$ $\\mathrm { S m } ^ { 3 + }$ ）phosphors based on energy transfer.Ceram.Int.2015,41,707-713.   \n(16)Shang,M. M.; Li,G. G.; Kang,X.J.; Yang,D.M.; Lin,J. Synthesis and luminescent propertiesof $\\mathrm { L i _ { 3 } B a _ { 2 } Y _ { 3 } ( M o O _ { 4 } ) _ { 8 } \\mathrm { : } L n ^ { 3 + } }$ $\\mathrm { { L n } = \\mathrm { { E u } } }$ ,Tb,Dy) phosphors for UV-LEDs.J. Electrochem. Soc.2011,158,H565-H571.   \n(17）Song,M.J.；Wang,L.T.； Zhao,M.L.; Zhang,L. Z.；Wang, G.F. Optical spectroscopy, $1 . 5 ~ { \\mu \\mathrm { m } }$ emission and up-conversion properties of （204号 $\\mathrm { E r } ^ { 3 + }$ -doped $\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } }$ crystal. J. Lumin. 2011,131,1571-1576.   \n(18）Chamarro,M.A.; Cases,R. Infrared to visible upconversion of $\\mathrm { E r } ^ { 3 + }$ ions in $\\mathrm { Y b } ^ { 3 + }$ doped fluorohafnate glasses.J. Lumin.199o,46,59-65.   \n(19）Capobbl;ll crystal-field analysis of $\\mathrm { E r } ^ { 3 + }$ in $\\mathrm { Y V O } _ { 4 }$ .Chem.Phys.1997,214,329-340.   \n(20）Xia,Z.G.;Li,J.;Luo,Y.; Liao,L.B.Comparative investigationof greenandredupconversion luminescencein $\\mathrm { E r } ^ { 3 + }$ doped and $\\mathrm { Y b } ^ { 3 + } / \\mathrm { E r } ^ { 3 + }$ codoped LaOCl.J.Am. Ceram. Soc.2012,95,3229-3234. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Up-conversion Properties of $\\mathbf { E r ^ { 3 + } } / \\mathbf { Y } \\mathbf { b } ^ { 3 + }$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Co-doped Li3Ba2Gd3(MoO4)s Phosphors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SONG Ming-Jun(宋明君） ZHANG Yan(张彦） ZHANG Na-Na(张娜娜)WANG Lin-Tong(王林同） MENGQin-Guo(孟庆国)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { L i _ { 3 } B a _ { 2 } G d _ { 3 } ( M o O _ { 4 } ) _ { 8 } \\mathrm { : } E r ^ { 3 + } / Y b ^ { 3 + } }$ phosphors were synthesized by conventional solid state reaction method, and their structures and spectral properties were investigated. Under $9 8 0 ~ \\mathrm { n m }$ excitation, three up-conversion (UC) luminescence bands around 530, 555 and $6 6 0 ~ \\mathrm { n m }$ were observed, corresponding to the ${ } ^ { 2 } \\mathrm { H } _ { 1 1 / 2 } {  } ^ { 4 } \\mathrm { I } _ { 1 5 / 2 }$ $^ 4 { \\mathrm S } _ { 3 / 2 } { \\longrightarrow } ^ { 4 } { \\mathrm I } _ { 1 5 / 2 }$ and $^ 4 \\mathrm { F } _ { 9 / 2 } \\longrightarrow ^ { 4 } \\mathrm { I } _ { 1 5 / 2 }$ transitions of $\\mathrm { E r } ^ { 3 + }$ ions, respectively. The dependence of the UC luminescence properties on the concentration of $\\mathrm { Y b } ^ { 3 + }$ ions was investigated and the optimum doping concentration was determined. The relations between UC emisson intensities and pumping powers were investigated and a two photons UC mechanism was proposed to explain the observed UC emissions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dac543d6329bd86e325621de6e14359f43255c8019a9f9464746f67361d6fc80.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]

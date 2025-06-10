@@ -1,0 +1,532 @@
+[
+    {
+        "type": "text",
+        "text": "太阳同步轨道立方星任务轨道演化分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷博持」　李明涛²1.中国空间技术研究院西安分院西安7101002.中国科学院空间科学与应用研究中心北京100190摘要立方星是近年来微小卫星领域的研究热点，文章以太阳同步轨道(SSO)立方星任务为例研究地球非球形引力项 $J _ { 2 }$ 和大气阻力对立方星轨道演化的影响。分别研究了轨道高度、太阳活动指数F10.7和大气模型对SSO立方星轨道演化的影响进行了数值仿真验证。研究表明:大气阻力摄动对SSO立方星轨道寿命影响很大 影响结果与轨道高度之间存在非线性关系;太阳活动高、低年时的轨道演化差异明显，且演化量随F10.7的变化是非线性的;不同大气模型下的轨道演化情况存在差异，大多数模型所对应的轨道演化量的量级基本一致。上述影响分析对SSO立方星任务轨道的选定及轨道控制具有一定的参考价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d05878b0bb305a822e26d9539f3b1928e1467202b8cf0e22ff9225f8ae3c7733.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词立方星;轨道演化;大气模型;太阳活动指数中图分类号：P173.1； ${ \\mathrm { V } } 4 1 2 . 4 + 1$ 文献标识码：A文章编号:1006-3242(2015)06-0041-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evolution Analysis of Sun-synchronous Orbit CubeSat Mission ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LEI Bochi1LI Mingtao² 1.China Academy of Space Technology（Xi'an） Xi'an 7101OO ,China 2.Center for Space Science and Applied Research ,CAS,Beijing 1OO19OChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractCube-Sat is the research focus in the field of micro satelite in recent years. In this paper ,mission that with a cube-sat in the Sun synchronous orbit (SSO) is taken as an example ,then the orbit evolution of SSO cube-sat is studied considering both the influence of atmosphere drag and that of $J _ { 2 }$ coefficient (the Earth’s oblateness perturbations to the second-order zonal coeffcient)．Orbit altitude，solar activity index and atmosphere models are researched respectively to show their impacts on the evolution of orbit ,and numerical simulations are carried out. The work above indicates some conclusions as folows: perturbation force that produced by air drag plays an important role to decide the lifetime of SSO cube-sat ,and there is $a$ （20 nonlinear relationship betuen theorbit altitudeand the magnitude oforbital decay which is induced by atmosphere drag. Orbital decay based on high solar activity is obviously different from that based on low solar activity， and the relationship between F1O.7 and the magnitude of orbital change is not linear. Considering various air drag models separately,the orbit evolutions are not equal ,but their order of magnitude are almost the same. The analysis above is helpful to both the orbital choosing of SSO CubeSat and its orbit control. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsCube-Sat; Orbit evolution; Atmospheric model; Index of sun activity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "立方星这一概念最早由美国加州理工大学和斯坦福大学在1999年提出，立方星是标准化的微小卫星尺寸 $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m }$ 质量约 $1 ~ \\mathrm { k g }$ 为一个基本单元 $1 \\mathrm { ~ U ~ }$ 。以此为基础可以有2U、3U等立方星。立方星具有很多特点，不仅成本低开发时间也较短易于实现标准化、模块化易于技术更新[1-2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来利用多卫星系统的空间任务越来越多，借助标准化的微小卫星来实现分布式空间系统极具发展前景。分布式空间任务的出现拓展了立方星在科学领域的应用。目前已有越来越多的立方星被送上太空。国外的立方星应用主要分为3个方面：以空间科学和教学为核心自标，如荷兰代尔夫特理工大学的Delfi-c3；以载荷任务为目标如QuakeSat搭载了地震电磁探测载荷；也有以新技术验证为自标的立方星任务如加拿大的先进纳星太空实验室CANX卫星系列[3]。国内很多高校及科研机构也在积极开展立方星的相关研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "体积小、重量轻的自身特点决定了立方星大多没有在轨机动能力，考虑无主动控制时立方星轨道的自然演化就成为一个重要研究方向。太阳同步轨道(SSO)具有星上光照条件好、过同一纬度的当地时间相同等特点，已被广泛应用于各种空间任务。因此本文选取了SSO立方星任务进行轨道演化研究考虑地球非球形引力项 $J _ { 2 }$ 和大气阻力摄动的影响以平均半长轴随时间的变化作为摄动效应的指标。以轨道分析软件为仿真平台，先进行了摄动力简化以及立方星面质比对轨道演化的影响分析，以确立数值仿真的前提条件;接着研究了轨道高度、太阳活动指数和大气模型这3个方面对SSO立方星轨道演化的影响。最终得出结论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星轨道动力学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 坐标系定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究地球非球形摄动及大气阻力摄动对轨道演化的影响时涉及到地心惯性坐标系和地心地固坐标系如图1所示。 $O x _ { i } y _ { i } z _ { i }$ （标记为Si)为地心惯性坐标系， $O x _ { e } y _ { e } z _ { e }$ （标记为Se)为地心地固坐标系， $\\alpha$ 为Greenwich赤经。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地心惯性坐标系Si：坐标系原点在地心， $Z$ 轴垂直于地球赤道平面； $X Y$ 轴在地球赤道平面内， $X$ 轴指向春分点位置； $Y$ 轴满足右手螺旋定则。动力学方程一般建立在惯性坐标系中。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/68a6967ef8c2fa259d256744e34faa808a6e1d4225b2727c788147fae71cc528.jpg",
+        "img_caption": [
+            "图1地心惯性坐标系和地心地固坐标系"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地心地固坐标系Se：坐标系原点在地心， $Z$ 轴垂直于地球赤道平面； $X Y$ 轴在地球赤道平面内， $X$ 轴指向Greenwich子午圈与赤道交点； $Y$ 轴满足右手螺旋定则。地球非球形摄动一般在地心地固坐标系中表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 动力学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在惯性坐标系下，卫星动力学模型可用式(1)表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\ddot { r } } = - { \\frac { \\mu } { r ^ { 3 } } } r + f\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中: $\\boldsymbol { r }$ 为地心距矢量 ${ \\bf \\nabla } , { \\pmb { \\mu } }$ 是地心引力常数， $r$ 为地心距大小 $, f$ 为地球中心引力之外的所有摄动力的合力和包括地球非球形引力、大气阻力、太阳光压、第三体引力摄动等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将式(1)在惯性坐标系下展开并进行积分，可以得到任意时刻卫星在惯性坐标系下的运动状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2地球非球形摄动和大气阻力摄动分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于低轨道来说，卫星所受到的摄动力主要是地球非球形引力摄动、大气阻力摄动、太阳光压摄动以及第三体引力摄动。设 $f _ { 0 }$ 表示地球中心引力加速度的大小 $\\mathcal { I } _ { e }$ 表示其他类型的摄动加速度的大小。与地球中心引力相比用 $\\eta = f _ { e } / f _ { 0 }$ 来表征各摄动力的量级估算值如表1所示。其中大气阻力摄动与第三体引力摄动力均为 $1 0 ^ { - 7 }$ 但第三体引力摄动要小于大气阻力摄动且轨道高度越低，大气阻力摄动的作用越大。由此可见对于低轨卫星， $J _ { 2 }$ 摄动最重要其次是大气阻力摄动[4]。我们可以对摄动力进行简化，仅考虑 $J _ { 2 }$ 摄动和大气阻力摄动的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c1129d339baa3b06a721112a27a8e4b6ba9599fe53c8efdc8973ce3daeec676.jpg",
+        "table_caption": [
+            "表1各种摄动力的量级"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>摄动力类型</td><td>地球非球形</td><td>太阳光压</td><td>大气阻力</td><td>第三体引力</td></tr><tr><td>量级（n）</td><td>10-3</td><td>10-9</td><td>10-7</td><td>10-7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 $J _ { 2 }$ 项摄动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在两体问题中，认为地球是一个均匀球体卫星运行在地球中心引力场中。但实际上地球形状是不规则性的质量分布也不均匀常将地球引力势函数表示成如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$V ( r \\ \\phi \\ , \\lambda ) = - \\ \\frac { \\mu } { r } + \\frac { \\mu } { r } \\sum _ { n = 2 } ^ { \\infty } ( \\ \\frac { R _ { E } } { r } ) ^ { \\ n } J _ { n } P _ { { } _ { n } } \\mathrm { s i n } \\phi + \\frac { \\mu } { r } \\ \\bullet$ （20$\\sum _ { n = 2 } ^ { \\infty } \\sum _ { m = 1 } ^ { \\infty } ( { \\frac { R _ { E } } { r } } ) ^ { { n } } ( C _ { { n m } } { \\mathrm { c o s } } m \\lambda + S _ { { n m } } { \\mathrm { s i n } } m \\lambda ) \\ \\cdot P _ { { n m } } { \\mathrm { s i n } } \\phi ($ 2)式中： $\\boldsymbol { r }$ 为到观测点的地心距， $\\phi$ 为地心经度， $\\lambda$ 为地心纬度， $R _ { E }$ 是赤道半径， $\\boldsymbol { P } _ { n }$ ， $\\boldsymbol { P } _ { n m }$ 是正则勒让德多项式， $C _ { n m } \\ S _ { n m } \\ J _ { n }$ 为引力场系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对引力势函数(2)求梯度，可以得到卫星在地心地固坐标系下的加速度，再通过坐标转换转到地心惯性坐标系即可以得到惯性系下卫星的动力学方程。 $J _ { 2 }$ 项的影响要比其他项大100倍以上,通常仅考虑 $J _ { 2 }$ 项摄动的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 大气阻力摄动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大气阻力是非保守力在其影响下，卫星轨道会发生衰减。大气阻力摄动对卫星所产生的加速度如下式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { _ { D } } = - { \\frac { 1 } { 2 } } C _ { _ { D } } { \\frac { S } { m } } \\rho V _ { _ { r } } \\cdot V _ { _ { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { V } _ { r } \\ = \\ \\pmb { \\nu } - \\ \\pmb { \\nu } _ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\scriptstyle f _ { D }$ 为大气阻力摄动加速度， $\\boldsymbol { V } _ { r }$ 为卫星相对大气的相对速度矢量， $V _ { r }$ 为卫星相对大气的相对速度的大小， $\\nu$ 和 $\\boldsymbol { \\nu } _ { a }$ 分别为卫星和大气相对地心惯性坐标系的速度矢量 ${ } _ { , \\rho }$ 为大气密度， $C _ { D }$ 为阻力系数。$S / m$ 为面质比参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外分析大气阻力摄动时必须考虑以下几方面因素：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1） $C _ { D }$ 阻力系数一般与卫星表面材料有关常  \n取2.2;2) $s / m$ 面质比与有效迎风面积有关，即要考  \n虑卫星姿态和形状通常选用一个等效面质比来进  \n行计算;3) ${ \\pmb { \\nu } } _ { \\alpha }$ 大气转速比较复杂,约为地球自转速度  \n的0.8\\~1.4倍通常认为两者相等;4) $\\rho$ ,大气密度是极其复杂的问题，与轨道高  \n度、温度、太阳活动指数等密切相关，变化幅值非常",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大。已有的大气模型也很多，如指数模型,Jacchia77模型、NRLMSISE2OOO模型等，其中NRLM-SISE2000大气模型是由美国海军研究实验室于2000年在MSISE-90 模型的基础上发展而出，是最新更新的一个大气模型，与其他模型相比具有很多优势[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 $J _ { 2 }$ 项摄动和大气摄动影响下的卫星运动方程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于2.1节和2.2节的分析，可以得到同时考虑 $J _ { 2 }$ 项摄动和大气阻力摄动时，卫星在惯性系下的运动方程如下式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\ddot { x } = - \\frac { \\mu x } { r ^ { 2 } } - \\frac { \\mu x } { r ^ { 3 } } \\cdot \\int _ { r _ { - } } ^ { 3 } \\frac { 1 } { 2 } ( \\frac { R _ { x } } { r } ) ^ { 2 } ( 1 - 5 \\frac { x ^ { 2 } } { r ^ { 2 } } ) - 1 } \\\\ { \\frac { 1 } { 2 } C _ { \\nu \\nu } \\frac { S } { \\mu ^ { 2 } } \\phi _ { \\nu \\nu } ^ { \\prime } \\cdot V _ { \\alpha } } \\\\ { \\ddot { y } = - \\frac { \\mu y } { r ^ { 3 } } - \\frac { \\mu z } { r ^ { 3 } } \\cdot \\int _ { r _ { - } } ^ { 3 } \\frac { \\hat { R } _ { x } } { r } ) ^ { 2 } ( \\frac { R _ { x } } { r } ) ^ { 2 } ( 1 - 5 \\frac { x ^ { 2 } } { r ^ { 2 } } ) - 1 } \\\\ { \\frac { 1 } { 2 } C _ { \\nu \\nu } \\frac { S } { \\mu ^ { 2 } } \\phi _ { \\nu \\nu } ^ { \\prime } \\cdot V _ { \\alpha } } \\\\ { \\ddot { z } = - \\frac { \\mu z } { r ^ { 3 } } - \\frac { \\mu z } { r ^ { 3 } } \\cdot \\int _ { r _ { - } } ^ { 3 } \\frac { \\hat { R } _ { x } } { 2 } ( \\frac { R _ { x } } { r } ) ^ { 2 } ( 3 - 5 \\frac { x ^ { 2 } } { r ^ { 2 } } ) - 1 } \\\\ { \\frac { 1 } { 2 } C _ { \\nu \\nu } \\frac { S } { \\mu ^ { 2 } } \\phi _ { \\nu \\nu } ^ { \\prime } \\cdot V _ { \\alpha } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定卫星初始时刻的运动状态后，对式(4)进行数值积分就可以得到在 $J _ { 2 }$ 摄动和大气阻力摄动同时影响下卫星轨道的演化进程[6]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3仿真分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在轨道仿真软件 STK中建立一个SSO轨道将其偏心率、近地点幅角、真近点角设置为0降交点地方时设置为18时。改变轨道高度、设定轨道预报器就可以得到满足文章要求的各种仿真条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先分析了面质比对轨道演化的影响并进行仿真，以确立出基本的仿真初始条件。然后分别仿真分析了轨道高度、太阳活动指数以及不同大气模型对轨道演化的影响。由于瞬时轨道根数波动性比较大，无法表现卫星受摄运动的本质文中用平均轨道根数下的半长轴作为摄动效应的衡量指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 面质比的选定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由2.2节可知在研究大气阻力摄动时必须考虑卫星面质比的影响本文研究对象是1U立方星，边长为 $1 0 \\ \\mathrm { c m }$ 质量约为 $1 ~ \\mathrm { k g }$ 所以面质比的变化范围为： $0 . 0 1 \\sim 0 . 0 1 4$ 。在STK中考虑 $J _ { 2 }$ 项和大气模型为NRLMSISE2000时的大气摄动，在0.01\\~0.014之间以0.0005为步长改变面质比，仿真不同面质比对 $5 0 0 \\mathrm { k m } \\ \\mathrm { S S O }$ 立方星轨道演化的影响，利用所得9个数据点绘图，如图2所示。横坐标是面质比纵坐标代表半长轴的衰减量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e8ac5efe9ecda82aa5b58d7ad1eef6dde65349df4f7a67e2756402f191c1e9c.jpg",
+        "img_caption": [
+            "图2SSO立方星轨道演化与面质比的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2可以看出，面质比对轨道演化有很大影响仿真分析时必须合理选择面质比;轨道演化情况大致与面质比成线性关系。文中以下章节的仿真中面质比默认选定为 $0 . 0 1 \\mathrm { m } ^ { 2 } / \\mathrm { k g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 轨道高度对轨道演化的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以NRLMSISE2000大气模型为例，研究大气对不同高度SSO立方星轨道演化的影响，仿真时间180d。NRLMSISE2000大气模型中，太阳活动指数F10.7按默认值为150。在 $3 0 0 \\sim 7 0 0 \\mathrm { k m }$ 范围内以$1 0 0 \\mathrm { k m }$ 为步长改变轨道高度所得到的半长轴演化情况汇总如表2所示，从仿真结果中选出 $4 0 0 \\mathrm { k m }$ 1$6 0 0 \\mathrm { k m }$ 高度轨道的演化图，分别如图3和4所示。由此可以得到180d内轨道衰减的情况。图3中在大气阻力作用下，145d左右时轨道高度直线下降，卫星陨落寿命终止。图4中，仿真结束时轨道衰减了约 $3 . 6 \\mathrm { k m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e529adfe9c50daebf5717605c3f5e1867cf7cc377ea84118313ec077ed59b96.jpg",
+        "img_caption": [
+            "图3 $4 0 0 \\mathrm { k m }$ SSO立方星轨道演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/882cdabe921ec874f88bfd7ee6649cd8da88a0efabe72e3b9356d8bb89d01b2d.jpg",
+        "img_caption": [
+            "图4 $6 0 0 \\mathrm { k m }$ SSO立方星轨道演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e63cd46f67f21f47576da8f9587a9a500961e5d049ab0d69df21205906d69c7.jpg",
+        "table_caption": [
+            "表2轨道高度对轨道演化的影响( $\\mathbf { F 1 0 } . 7 = \\mathbf { 1 5 0 } \\mathrm { ^ { \\circ } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轨道高度/km</td><td>300</td><td>400</td><td>500</td><td>600</td><td>700</td></tr><tr><td>半年内半长</td><td>寿命</td><td>寿命</td><td></td><td></td><td></td></tr><tr><td>轴变化/km</td><td>23d</td><td>145d</td><td>16</td><td>3.6</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出:1)大气阻力摄动对轨道演化(半长轴衰减)影响很大且轨道高度越低影响越明显；2）高度 $3 0 0 \\mathrm { k m }$ 的轨道，寿命约23d。高度为$4 0 0 \\mathrm { k m }$ 时轨道寿命约150d。而对于 $5 0 0 \\mathrm { k m }$ 高的轨道半长轴衰减了 $1 6 \\mathrm { k m }$ 。由此可见轨道的演化情况与轨道高度间存在非线性关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 太阳活动对轨道演化的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "太阳活动指数F10.7指太阳发出的波长为$1 0 . 7 \\mathrm { c m }$ 的电磁辐射强度，其变化没有严格规律，一般由观测得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "F10.7的长期预测具有不准确性，以2015年6月1日为例STK轨道分析软件8.1.1根据2007年5月24日的观测数据预测的F10.7参数为77.7;STK轨道分析软件9.2.1根据2009年4月29日的观测数据预测的F10.7参数为101.4;NOAA根据2012年11月26日的观测数据预测的F10.7参数为 $1 1 7 . 2 ^ { [ 7 ] }$ 。由此可见,实现以年为单位的F10.7参数预报，误差很大。应该采用尽可能新的预测数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于F10.7的不确定性，导致大气密度相应地也存在不确定性。因此在考虑大气阻力摄动时，有必要研究太阳活动指数F10.7对轨道演化的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据太阳活动指数随年份变化的趋势，选择太阳活动高、低年时的F10.7参数分别为200和$7 0 ^ { [ 8 ] }$ 。然后分别分析太阳活动高、低年时,大气对不同高度 SSO 演化情况的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当轨道高度为 $3 0 0 \\sim 1 0 0 0 \\mathrm { k m }$ 时，可以分别得到太阳活动高、低年时轨道半长轴的演化情况汇总如表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd4486790a1d53c01aa24be589959b64c8dabd045ebab58177dfce635808b500.jpg",
+        "table_caption": [
+            "表3F10.7参数对轨道演化的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轨道高 度/km</td><td>太阳活动高年时半长轴 变化(F10.7 =200)</td><td>太阳活动低年时半长轴 变化(F10.7 =70)</td></tr><tr><td>300</td><td>寿命16d</td><td>寿命50d</td></tr><tr><td>400</td><td>寿命95d</td><td>18 km</td></tr><tr><td>500</td><td>37 km</td><td>2 km</td></tr><tr><td>600</td><td>9 km</td><td>300 m</td></tr><tr><td>700</td><td>2.5 km</td><td>140 m</td></tr><tr><td>800</td><td>1 km</td><td>基本保持不变</td></tr><tr><td>900</td><td>300 m</td><td>/</td></tr><tr><td>1000</td><td>基本保持不变</td><td>/</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选取太阳活动低、高年时 $5 0 0 \\mathrm { k m }$ SSO的演化情况分别如图5和6所示。由图5和6可以看出对于 $5 0 0 \\mathrm { k m }$ 的SSO轨道太阳活动低、高年时的轨道演化情况差距很大仿真结束时轨道半长轴分别衰减了 $2 \\mathrm { k m }$ 和 $3 7 \\mathrm { k m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e9411519cbaea631dfc2371e9eca4f85253a66079ee4aaae8cbc43475d542a3.jpg",
+        "img_caption": [
+            "图5太阳活动低年时的轨道演化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/38454a688b9742c67be77803ad5f754b0207b128565c1da1cb2638e5c9e2936a.jpg",
+        "img_caption": [
+            "图6太阳活动高年时的轨道演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，对于同样高度的SSO立方星太阳活动高、低年时的轨道演化差别很大；太阳活动指数越高，可以忽略大气阻力摄动的最低轨道高度也越高。一般认为180天内半长轴衰减量小于$1 ~ \\mathrm { k m }$ 时就可以忽略大气阻力的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面以 $5 0 0 ~ \\mathrm { k m } ~ \\mathrm { S S O }$ 轨道为例研究轨道高度不变时半长轴衰减量随F10.7的变化，以得到F10.7对轨道衰减的影响曲线图。在 $7 0 \\sim 2 0 0$ 之间改变F10.7,步长取10。利用所得数据点绘图如图7所示。由图7可知对同一高度的轨道，太阳活动指数越高轨道衰减就越快;轨道衰减量与F10.7呈现出非线性关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/67cc5b6537c0bce1b6c0ed0143875d1dffb4968a6d8c6a6669c16a223df0cc31.jpg",
+        "img_caption": [
+            "图7半长轴衰减量与F10.7之间的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4大气模型对轨道演化的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由2.2节可知分析大气阻力摄动时必须考虑大气模型的影响。自前已经有多个大气模型，然而这些模型的统计精度只有 $1 5 \\%$ 左右。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以高度为 $5 0 0 ~ \\mathrm { k m }$ 的典型SSO轨道为例选用不同的大气模型，对轨道半长轴随时间的演化进行分析仿真初始条件与上文相同。分别选用了8个大气模型:Cira72模型Exponential-Earth模型Har-ris-Priester模型,Jacchia-Roberts 模型,Jacchia-1971模型MSIS1986 模型USStandard Atmosphere 模型以及NRLMSISE2000 模型。各模型中涉及到太阳活动指数F10.7的都按照默认设置为150。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于指数大气模型，仿真时要输入参考高度和标准高度 按式(5)计算[9]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = H _ { \\mathrm { 0 } } + \\frac { \\mu } { 2 } ( r - r _ { \\mathrm { 0 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 为标准高度， $H _ { 0 }$ 为参考高度， $, r$ 为卫星质心的地心距。 ${ \\bf \\nabla } \\cdot \\mu \\approx 0 . 1$ （常取 $\\mu < 0 . 2 \\$ ） $, H _ { 0 } \\ = 3 7 . 4 { \\mathrm { ~ k m } }$ 1$r _ { 0 } ~ = ~ H _ { \\mathrm { { 0 } } } ~ + 6 3 7 1 ~ \\mathrm { { k m } }$ 。因此对于 $5 0 0 ~ \\mathrm { k m }$ 轨道，计算可得参考高度是 $3 7 . 4 ~ \\mathrm { k m }$ 标准高度是 $6 0 . 8 8 7 ~ \\mathrm { k m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别设置不同的轨道预报器，以改变大气模型。仿真180d，得到不同大气模型下半长轴的演化情况如表4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/516220a986c0004909e09820f7aa97a7745de3af9ea133a73a2e7b16cefae6a9.jpg",
+        "table_caption": [
+            "表4不同大气模型对轨道演化的影响(180d)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>大气模型</td><td>半长轴变化/km</td></tr><tr><td>Cira 72</td><td>18</td></tr><tr><td>Exponential- Earth</td><td>3</td></tr><tr><td>Harris Priester</td><td>13.5</td></tr><tr><td>Jachia Roberts</td><td>18</td></tr><tr><td>Jacchi 1971</td><td>18</td></tr><tr><td>MSIS 1986</td><td>16</td></tr><tr><td>NRLMSISE2000</td><td>16</td></tr><tr><td>US Standard</td><td>10</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出在不同大气模型的影响下轨道演化情况不尽相同，大多数模型的影响效果的量级约为 $1 6 ~ \\mathrm { k m } .$ 与其他模型相比指数大气模型影响下的半长轴演化情况悬殊，反映出指数大气模型的精度不够高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "立方星是近年来纳卫星领域的研究热点。本文对SSO立方星任务的轨道演化情况进行了仿真分析得出如下结论:",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)对于 $3 0 0 \\sim 7 0 0 ~ \\mathrm { k m }$ 轨道高度的立方体卫星，大气阻力摄动对轨道寿命有明显影响，导致半长轴不断衰减轨道越低影响越大，且影响结果与轨道寿命成非线性关系；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)太阳活动对大气阻力摄动有显著影响，太阳活动高、低年时的轨道演化情况差距很大。在分析大气阻力摄动时必须考虑F10.7参数的影响，且影响效果与F10.7间存在非线性关系；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)选取不同大气模型时轨道演化情况不完全相同。大多数大气模型之间的轨道演化情况差距并不大指数模型与其他模型相比存在一定偏差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述考虑轨道高度、太阳活动及大气模型的耦合影响，对单颗SSO立方星任务轨道的选定具有参考意义。另外单星的轨道演化是研究立方星编队的基础星间无碰撞的安全飞行高度的确定、星间相对距离的演化情况及编队构形控制方法可以作为下一步的研究方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Sundaramoorthy PP,GillEVerhoeven CJM,Bouwmeester J.Two CubeSats with Micro-Propulsion in the QB5O Satellite Network [C]//Proceeding of the $2 4 \\mathrm { t h }$ Annual AIAA/USU Conference on Small Satellites , SC10-HII-3. Washington: AIAA,2010:1-5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［2］林来兴．立方体星的技术发展和应用前景[J]．航天 器工程,2013 23(3) :90-98.(Lin Laixing.Technology development and application prospects of cubeSat [J]. Spacecraft Engineering,2013 22(3):90-97.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［3］李军予 伍保峰张晓敏．立方体纳卫星的发展及其启示[J]．航天器工程，2012，21（3)：80-87.（LiJunyu，Wu Baofeng，Zhang Xiaomin．Development ofcubeSat and its enlightenment[J].Spacecraft Engineer-ing,2012 21(3):80-87.)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4］王融 熊智 等．基于受摄轨道模型的小卫星轨道摄动分析研究[J]．航天控制，2007，25（3)：66-70.(Wang Rong,Xiong Zhi,et al.Analysis and researchof micro satellite orbit perturbation based on the perturb-ative orbit model[J].Aerospace Control 2007 25(3):66-70.)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5］卢明李智,陈冒银．NRLMSISE-OO大气模型的分析和验证[J]．装备指挥技术学院学报,2010,21（4)：58-61.(Lu Ming，Li Zhi,Chen Maoyin．Analysis andverification of the NRLMSISE-OO atmospheric model[J].Journal of the Academy of Equipment Command &Technology ,2010 21(4) :58-61.)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6］黄勇 李小将,王志恒 李兆铭.J2项和大气阻力摄动作用下卫星编队构型的演化分析[J].航天控制，2013 31(3) :62-66.(Huang Yong,Li Xiaojiang,WangZhiheng,Li Zhaoming. The evolvement analysis of sat-ellite formation under J2 term and atmosphere drag per-turbation[J]．Aerospace Control，2013,31（3)：62-66.)  \n[7] NOAA．Solar Cycle F1O.7 cm Radio Flux Progression[EB/OL]. [2013-05-20] http://www.noaa.gov.  \n[8] 刘墩赵钧.空间飞行器动力学[M]．哈尔滨:哈尔滨工业大学出版社，2003:253-255.（Liu Tun，ZhaoJun.Dynamics of Spacecraft[M].Harbin:Press ofHarbin Institute Technology,2003.)  \n[9］刘林.航天器轨道理论[M]．北京:国防工业出版社，2000.（Liu Ling.Orbit Theory of Spacecraft[M]．Bei-jing:Defense Industry Press 2000.)",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,161 @@
+用Wood模型拟合长三角地区中国荷斯坦牛产奶量及乳成分变化曲线
+
+2 孙先枝」 安朋朋」郭 美」孙咏梅」金婷」刘光磊1,2\*  
+3 (1.上海奶牛育种中心有限公司，上海 200436；2.光明牧业有限公司，上海 200436)  
+4摘要：本研究旨在采用Wood 模型拟合长三角地区中国荷斯坦牛产奶量、乳脂率、乳蛋白  
+5 率和乳中体细胞评分（SCS）的变化曲线。以长三角地区10 个大中型牧场中国荷斯坦牛（1\~3  
+5 胎）的104 368 条数据为基础，利用Wood 模型对产奶量、乳脂率、乳蛋白率和乳中 SCS 数  
+7 据进行曲线拟合。结果表明：1）中国荷斯坦牛产奶量为标准泌乳曲线，而乳脂率、乳蛋白  
+3 率和 SCS变化则为倒抛物线形。2）Wood 模型对产奶量的拟合度最高，各胎次均为0.98 以  
+9 上，其次为乳中 SCS，各胎次的拟合度均在0.93 以上，而各胎次的乳脂率的拟合度也均在  
+） 0.92 以上。3）1、2胎产奶量高峰出现时间与乳中 SCS 最低值出现时间相近，而乳脂率最低  
+值出现时间相对较晚。4）1胎高峰产奶量（ $3 2 . 4 2 6 3 \mathrm { k g } / \mathrm { d }$ ）较2、3胎低，而1胎维持高产  
+2 奶量（4.98）及乳蛋白率的持续力（4.19）较2、3胎能力强。综合各指标可以得出，Wood  
+3 模型适用于长三角地区中国荷斯坦牛产奶量、乳脂率、乳蛋白率及乳中 SCS 变化曲线的拟  
+4 合。  
+5 关键词：Wood 模型；产奶量；乳成分；体细胞评分；泌乳曲线；长三角中国荷斯坦牛  
+5 中图分类号：S823  
+7號 泌乳曲线是用来描述奶牛泌乳期内产奶量、乳脂率、乳蛋白率等性状随泌乳时间变化而  
+3 变化的曲线。泌乳曲线模型在奶牛生产中有较强的指导意义，它除了能够提供个体动物的泌  
+9 乳模型，还可以进行单体动物泌乳期和群体动物泌乳期的比较，甚至在动物出现某种临床型  
+） 疾病之前就可以进行判定，从而对奶牛产奶量预测、遗传潜力估计、选种等方面起到重要的  
+1 作用。自Gains[1]首次使用数学模型描述了泌乳期内产奶量与泌乳天数之间的函数关系以来，  
+2 国际上陆续开展了泌乳曲线的数学模型的研究。典型的泌乳曲线模型有Wood不完全伽玛函  
+3 数模型（简称Wood 模型）、Wilmink（WIL）模型、逆多项式（IQP）模型、Ali-Schaeffer
+
+（AS）模型等[2-5]。如Da Cunha 等[分别使用并比较了Wood 模型、Wilmenk 模型及Dijkstra模型这3种模型的拟合效果。Marek 等[7比较了7种泌乳曲线模型拟合的优势，结果表明Wood 模型、Nelder 模型和Marek-Zelinkova模型的拟合效果较好。国内也有研究者使用以上模型对奶牛泌乳曲线进行了大量研究，赵智华等[8]、毛永江等[9]、努尔比亚·吾布力等[10]分别研究了不同模型拟合中国荷斯坦奶牛的泌乳曲线。对于乳脂率和乳蛋白率等乳成分指标而言，目前可用于描述其变化的模型并不多，且研究的结果差异较大。
+
+本研究拟采用Wood模型对上海奶牛育种中心有限公司长三角地区10个牛场的中国荷斯坦牛产奶量、乳脂率、乳蛋白率及乳中体细胞评分（somatic cellscore,SCS）这4个主要的泌乳性状的变化曲线进行拟合，定量地描述其变化趋势，为中国荷斯坦牛的生产管理及主要泌乳性状的预测提供科学依据。
+
+1材料与方法
+
+# 1.1 数据来源
+
+数据来源为长三角地区10个牧场 2014-2016年1\~3胎中国荷斯坦牛共123765条奶牛性能测定体系(DHI)测定日记录（每个月记录1次)，由上海奶牛育种中心有限公司提供。为保证分析结果的可靠性，对不完整的数据不进行分析，同时剔出了极端异常的产奶量及乳成分数据，对 DHI 测定数据进行的限定如下：泌乳时间为产后 $7 { \sim } 3 3 6 \mathrm { d }$ ，产奶量为 $5 { \sim } 6 0 \mathrm { k g }$ 乳脂率为 $2 \% { \sim } 7 \%$ ，乳蛋白率为 $2 \% { \sim } 6 \%$ ，乳中体细胞数（somatic cellcount，SCC,）为1\~5$\times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 。考虑乳中体细胞数呈偏态分布，用如下公式转化为SCS[1I]:
+
+$$
+\scriptstyle \mathrm { S C S = l o g } _ { 2 } \mathrm { S C C } / 1 0 0 + 3 \ _ { c }
+$$
+
+最后符合条件的数据共104368条。数据基本情况见表1。
+
+# 表1数据基本情况 (平均值±标准差)
+
+45 Table 1Details of analyzed data $\mathrm { ( M \pm S D ) }$ ）  
+
+<html><body><table><tr><td>胎次</td><td>样本量</td><td>产奶量 Milk</td><td>乳脂率</td><td>乳蛋白率</td><td>乳中体细胞数</td></tr><tr><td>Parity</td><td>Sample No.</td><td> yield/kg</td><td>Milk fat</td><td>Milk protein</td><td>Milk SCC/（×10个</td></tr><tr><td></td><td></td><td>29.49±7.83</td><td>percentage/%</td><td>percentage/%</td><td>/mL)</td></tr><tr><td>1 2</td><td>56 947 25 818</td><td>32.76±10.52</td><td>3.81±0.88 3.77±0.90</td><td>3.05±0.31 3.14±0.35</td><td>174.54±418.30 242.96±535.40</td></tr><tr><td>3</td><td>16 238</td><td>33.00±11.40</td><td>3.78±0.90</td><td>3.11±0.36</td><td>326.07±634.46</td></tr><tr><td>合计Total</td><td>104 368</td><td>30.92±9.39</td><td>3.79±0.89</td><td>3.08±0.33</td><td>217.22±494.53</td></tr></table></body></html>
+
+1.2 泌乳曲线拟合
+
+用Wood不完全伽玛函数对产奶量、乳脂率、乳蛋白率和乳中SCS4个指标的变化进行拟合，基本模型如下[12]:
+
+$$
+\scriptstyle Y _ { t } = a t ^ { b } \mathbf { e } ^ { c t } \circ
+$$
+
+式中： $t$ 为泌乳周数； $Y _ { t }$ 为 $t$ 时间的产奶量、乳脂率、乳蛋白率或乳中SCS；a、b、 $\mathbf { \Psi } _ { c }$ 为模型参数：a为产犊后的初始产奶量、乳脂率、乳蛋白率和 SCS；b为达到峰值的倾斜度参数； $\boldsymbol { c }$ 为下降的倾斜度参数。当参数 $b$ 为正值， $\boldsymbol { c }$ 为负值时，该模型可用于产奶量的拟合分析；当参数 $b$ 为负值， $\boldsymbol { \mathscr { c } }$ 为正值时，该模型适合于拟合乳脂率、乳蛋白率和乳中SCS的拟合分析。在进行曲线拟合时，各参数初始值的确定采用Oloria 等[13]计算所得的结果，并利用如下公式换算出以下二级参数：
+
+$\begin{array} { r l } & { T _ { \mathrm { m a x } } = b / c ; } \\ & { T _ { \mathrm { m i n } } = b / c ; } \\ & { T _ { \mathrm { m a x } } = a ( b / c ) ^ { b } \mathrm { c } ^ { - b } ; } \\ & { T _ { \mathrm { m i n } } = a ( b / c ) ^ { - b } \mathrm { e } ^ { b } ; } \\ & { T _ { \mathrm { m i n } } = a ( b / c ) ^ { - b } \mathrm { e } ^ { b } ; } \\ & { P e r { - } ( b + 1 ) \mathrm { l n c } \mathrm { o } . } \end{array}$
+
+式中： $\tau _ { \mathrm { m a x } }$ 为在拟合产奶量时达到产奶量高峰所需的时间，即产奶量高峰出现时间; $T _ { \mathrm { m i n } }$ 为拟合乳脂率、乳蛋白率和乳中 SCS 时，该指标达最低值的时间； $Y _ { \mathrm { m a x } }$ 为高峰产奶量； $Y _ { \mathrm { m i n } }$ 为乳脂率、乳蛋白率和乳中SCS的最低值；Per为泌乳持久力。
+
+# 1.3 数据分析
+
+考虑到胎次对拟合效果影响较大，故对不同胎次数据分别进行拟合。所有产奶量数据均先用Excel初步整理，再用Mtalab 进行拟合，拟合效果用拟合度 $( R ^ { 2 } )$ 和均方误差进行评价。
+
+2结果
+
+2.1产奶量、乳脂率、乳蛋白率和 SCS变化曲线的基本特征
+
+用 Wood 模型拟合1、2、3胎中国荷斯坦牛产奶量、乳脂率、乳蛋白率和乳中 SCS 变化曲线分别见图1、图2、图3。从图1、2、3可以看出，测定日产奶量曲线为标准泌乳曲线，泌乳曲线均呈现先上升后较缓慢下降的变化趋势；而乳脂率、乳蛋白率及乳中 SCS 变化曲线则相反，呈现开口向上的倒抛物线变化，从最高点逐渐下降至最低点后又都具有逐渐
+
+上升的趋势。
+
+![](images/c58b7b2d0fbb4e1f71e9dab62259c3f91400dd2072283187edb2bb584884cfdb.jpg)  
+图1Wood 模型对1胎奶牛产奶量、乳脂率、乳蛋白率及乳中SCS 的拟合曲线  
+Fig.1Fiting curves ofmilk yield, milk fat percentage,milk protein percentage and milk SCS for first parity
+
+daiy cows by Wood's model parity daiy cows by Wood's model
+
+![](images/707999b7cba5c26994ac89de1ad31fc626f1852e8a6ce66958983bd0e793df25.jpg)  
+图2Wood 模型对2胎奶牛产奶量、乳脂率、乳蛋白率及乳中SCS的拟合曲线  
+Fig.2Fitting curves of milk yield, milk fat percentage, milk protein percentage and milk SCS for second
+
+![](images/bbca27674f1a20dbf354e7db4b0216bdd3aa6545ff2565f9c09c23bb30bb8cb8.jpg)  
+图3Wood 模型对3胎奶牛产奶量、乳脂率、乳蛋白率及乳中SCS的拟合曲线
+
+Fig.3Fiting curves of milk yield, milk fat percentage, milk protein percentage and milk SCS for third parity
+
+daiy cows by Wood's model  
+2.2不同胎次产奶量、乳脂率、乳蛋白率和 SCS 变化曲线拟合效果及参数不同胎次产奶量、乳脂率、乳蛋白率和 SCS变化曲线拟合参数、拟合度及均方误差见  
+表2。从表2可知，产奶量曲线的拟合准确性最高，各胎次的拟合度均在0.98以上。乳中  
+SCS 曲线的拟合准确性其次，各胎次的拟合度均在0.93以上。比较不同胎次乳脂率泌乳曲  
+线拟合度可知，1和2胎较高，均为0.96，3胎较低，为0.92。不同胎次的乳蛋白率泌乳曲  
+线拟合度也均高于0.88。从各胎次拟合曲线图和二级参数可以看出，对于产奶量而言，1胎到产奶量高峰出现时  
+间最晚，高峰产奶量也最低，但持续力最强，2和3胎到产奶量高峰出现时间分别为8.95  
+和8.04周，高峰产奶量也较高，但持续力也较低。对于乳脂率而言，2胎乳脂率最先达到最  
+低点；对于乳蛋白率而言，1、2、3胎均在11周左右达到最低点，且各胎次的乳蛋白率持  
+续力基本相当；对于 SCS 而言，1胎到达最低值的时间最晚，2胎到达最低值的时间最早。表2不同胎次产奶量、乳脂率和乳蛋白率Wood拟合参数及拟合度
+
+Table 2The fitness and parameters for lactation curve of milk yield,fat percentage and protein percentage   
+
+<html><body><table><tr><td colspan="10">100 with Wood's model</td></tr><tr><td colspan="3">胎次 Parity</td><td rowspan="2"></td><td rowspan="3"></td><td rowspan="3">高峰出 现时间 Time of peak milk yield/周</td><td rowspan="3">达最低值</td><td rowspan="3">高峰产</td><td rowspan="3"></td><td rowspan="3">持续力 Persistence</td><td rowspan="3">拟 合 度</td><td rowspan="3">均方误 差 Residual</td></tr><tr><td rowspan="2">项目 Items</td><td rowspan="2">b C</td><td rowspan="2">时间</td><td rowspan="2">最低值 Minimum value</td></tr><tr><td>Time reaching the minimum</td><td>奶量 Peak milk yield/kg</td></tr><tr><td>产奶量</td><td>1</td><td>23.210 0</td><td>0.214 5</td><td>-0.016</td><td>12.92</td><td>value/周</td><td></td><td></td><td></td><td>0.99</td><td>0.112 6</td></tr><tr><td>Milk yield</td><td></td><td></td><td></td><td>6</td><td></td><td></td><td>32.426 3</td><td></td><td>4.98</td><td></td><td></td></tr><tr><td></td><td>2</td><td>29.760 0</td><td>0.252 3</td><td>-0.028</td><td>8.95</td><td></td><td>40.194 5</td><td></td><td>4.47</td><td>0.98</td><td>0.6689</td></tr><tr><td></td><td>3</td><td>30.540 0</td><td>0.235 5</td><td>2 -0.029</td><td></td><td></td><td></td><td></td><td></td><td>0.99</td><td>0.3719</td></tr><tr><td></td><td></td><td></td><td></td><td>3</td><td>8.04</td><td></td><td>39.423 0</td><td></td><td>4.36</td><td></td><td></td></tr><tr><td>乳脂率</td><td>1</td><td>4.750 0</td><td>-0.146 6</td><td>0.008 9</td><td></td><td>16.47</td><td></td><td>3.65</td><td>4.03</td><td>0.96</td><td>0.0019</td></tr><tr><td>Milk fat</td><td>2</td><td>4.633 0</td><td>-0.144 0</td><td>0.009 2</td><td></td><td>15.65</td><td></td><td>3.60</td><td>4.01</td><td>0.96</td><td>0.002 2</td></tr><tr><td>percentage</td><td>3</td><td>4.633 7</td><td>-0.142 5</td><td>0.009 0</td><td></td><td>15.83</td><td></td><td>3.60</td><td>4.04</td><td>0.92</td><td>0.004 2</td></tr><tr><td>乳蛋白率</td><td>1</td><td>3.341 0</td><td>-0.105 3</td><td>0.009 2</td><td></td><td>11.45</td><td></td><td>2.87</td><td>4.19</td><td>0.93</td><td>0.002 6</td></tr><tr><td>Milk</td><td>2</td><td>3.348 2</td><td>-0.119 0</td><td>0.010 5</td><td></td><td>11.33</td><td></td><td>2.83</td><td>4.01</td><td>0.90</td><td>0.005 3</td></tr><tr><td>protein</td><td>3</td><td>3.484 0</td><td>-0.121 7</td><td>0.010 5</td><td></td><td>11.59</td><td></td><td>2.92</td><td>4.00</td><td>0.88</td><td>0.0062</td></tr><tr><td> percentage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳中 SCS</td><td>1</td><td>3.206 0</td><td>-0.1810</td><td>0.012 9</td><td></td><td>14.03</td><td></td><td>2.38</td><td>3.56</td><td>0.93</td><td>0.003 0 0.003 2</td></tr><tr><td>Milk SCS</td><td>2</td><td>2.902 0</td><td>-0.128 4</td><td>0.014 3</td><td></td><td>8.98</td><td></td><td>2.49</td><td>3.70</td><td>0.97</td><td></td></tr><tr><td></td><td>3</td><td>3.322 0</td><td>-0.131 4</td><td>0.012 9</td><td></td><td>10.19</td><td></td><td>2.79</td><td>3.78</td><td>0.94</td><td>0.074 6</td></tr></table></body></html>
+
+01 乳脂率、乳蛋白率最低值单位为%。   
+02 Units of milk fat percentage and milk protein percentage were $\%$
+
+3.1不同胎次荷斯坦牛泌乳曲线拟合效果的比较分析
+
+本研究发现，1胎产奶量高峰出现时间为12.92周（ $( 9 0 \mathrm { d } )$ ，2、3胎分别为8.95（63d)和8.04 周（56d)，与毛永江等[14]报道的1、2、3胎的产奶量高峰出现时间分别为9.9(70 d)7.4（58d）和7.6周（53d）基本一致，1胎的产奶量高峰出现时间延后，但与熊本海等[15]报道的中国北方荷斯坦奶牛1、2、3胎的产奶量高峰出现时间分别为67、30、33d相比均滞后，导致这种差异的原因可能是熊本海等[15]研究中所采用饲养环境及测定产奶量的频率较多，而本研究中长三角地区奶牛是采用1个月记录1次泌乳数据的方案，泌乳高峰到来之前，可能没有泌乳数据记录，或者只有1次数据记录，预测产奶量高峰出现时间相对就可能延后。
+
+另外，就泌乳持续力分析，1胎的泌乳持续力为4.98，均高于2和3胎，这与Friggens 等[16]报道的结果一致。另外，对于产奶量而言，1、2、3胎的拟合度均为在0.98以上，说明Wood模型对于产奶量有很好的拟合效果。
+
+3.2不同胎次荷斯坦奶牛乳脂率曲线拟合效果的比较分析
+
+比较不同胎次乳脂率泌乳曲线拟合度可知，1和2胎高（均为0.96)，3胎低（0.92)。这说明用Wood模型对乳脂率进行预测时，1和2胎较准确，3胎相对较差。且2胎乳脂率最先达到最低点（15.65周)，而1胎乳脂率最后达到（16.47周)，3胎居中。这与张美荣等[17]和罗清尧等[18]研究结果相似。这说明1胎乳脂率变化相对较小，用Wood模型进行曲线拟合效果相对较好，而2胎乳脂率变化相对较大，故准确性稍差。但总体来说，本研究各胎次拟合度均在0.90以上，可以用于中国荷斯坦牛乳脂率变化趋势的预测分析。
+
+3.3不同胎次荷斯坦奶牛乳蛋白率曲线拟合效果的比较分析
+
+比较不同胎次乳蛋白泌乳曲线拟合度可知：1胎最高（0.93)，其次是2胎(0.90)，3胎最低（0.88)。这说明用Wo0d模型对乳蛋白率进行预测时，1胎最准确，其次为2胎，3胎最差。且2胎乳蛋白率最先达到最低点（11.33周)，而3胎乳蛋白率最后达到最低点（11.59周)。本研究获得的乳蛋白率拟合曲线均呈现先降低后升高的趋势，即泌乳初期较高，随后逐渐下降，随后逐渐上升，这与 Steri等[19]研究的描述乳蛋白率变化曲线的规律基本相似。各胎次均在11周左右达到最低点，这与熊本海等[15]报道的乳蛋白率在6\~8周达到最低点存在差异，可能是由于奶牛在不同的饲养环境下，饲喂管理方面的不同造成的。
+
+3.4不同胎次荷斯坦奶牛乳中SCS曲线拟合效果的比较分析
+
+比较不同胎次乳中 SCS 曲线拟合度可知，各胎次均大于0.93，且均方误 差较小，特别是2胎的拟合度最高,为0.97，这与Golebiewski 等[20]和毛永江等[14]的研究不一致，他们的研究结果表明,Wood模型不适宜用来拟合乳中SCS 和 SCC 的变化规律，这可能与本研究所采用实际生产所取得的大样本统计有关，更适合用Wood模型进行拟合。
+
+4结论
+
+$\textcircled{1}$ Wood 模型能极好地拟合荷斯坦奶牛的泌乳曲线，并较好地拟合乳中SCS、乳蛋白率和乳脂率曲线。
+
+$\textcircled{2}$ 产奶量曲线为标准的泌乳曲线，而乳脂率、乳蛋白率和 SCS变化曲线则为倒抛物线
+
+形。
+
+参考文献：
+
+1] GAINS 待补充
+
+[2] WOODPDP.Algebraicmodelofthe lactation curve in cattle[J].Nature,1967,216(5111):164-165.   
+[3]WILMINK JB M.Adjustment of test day milk,fat and protein yield for age,season and stage of lactation[J].Livestock Production Science,1987,16(4):335-348.   
+[4] NELDER J A.Inverse polynomials,a usefulgroup ofmultifactor response fuctions[J].Biometrics,1966,22(1):128-141.   
+[5] ALI T E,SCHAEFFER L R.Accounting for covariance among test day milk yields in dairy cow[J].Canadian Journal of Animal Science,1987,67(3):637-644.   
+[6] DA CUNHA D D N F V,PEREIRA JC,CAMPOS O F,et al.Selection of models of lactation curves to useinmilkproductionsimulationsystems[J].RevistaBrasileirade Zootecnia,2010,39(4):891-902.   
+[7]MAREK J,RAJMON R,HALOUN T.Critical evaluation of seven lactation curve estimation models[C]//ABRAHAM A,JIANG X,SNASEL V,et al,Eds.Inteligent data analysisand applications.Cham:Springer,2015:73-84.   
+[8]赵智华,彭顺清,李凤翔,等.用Wood 模型拟合四川地区黑白花奶牛泌乳曲线的研究[J].四 川畜牧兽医,2000,27(1S):19-20.   
+[9]毛永江,张亚琴,许兆君,等.中国荷斯坦牛泌乳曲线拟合研究[J].畜牧兽医学 报,2011,42(9):1239-1248.   
+[10]努尔比亚·吾布力,付雪峰,热西提·阿不都热依木,等.新疆农七师荷斯坦牛不同模型泌乳 曲线拟合效果分析[J].中国奶牛,2012(17):19-22.   
+[11] POLOTT G E.Deconstructing milk yield and composition during lactation using biologically based lactation models[J].Journal of Dairy Science,2004,87(8):2375-2387.   
+[12] TORSHIZI M E.Effects of season and age at first calving on genetic and phenotypic characteristics of lactation curve parameters in Holstein cows[J].Journal of Animal Science and
+
+Technology,2016,58:8.   
+[13]OLORIA V E,BROTHERSTONEA S,HILLA W G,et al.Fit of standard models ofthe lactation curve to weekly records of milk production of cows in single herd[J].Livestock Production Science,1999,58(1):55-63.   
+[14]毛永江,张美荣,许兆君,等.用Wood 模型拟合南方中国荷斯坦牛产奶量、乳脂率、乳蛋 白率和体细胞评分及其效果分析[J].畜牧兽医学报,2012,43(12):1904-1909.   
+[15] 熊本海,杨亮,杨琴,等.中国北方荷斯坦奶牛乳产量及乳成分变化的普适模型构建[J].畜 牧兽医学报,2014,45(12):1939-1948.   
+[16]FRIGGENS N C,EMMANS G C,KYRIAZAKIS I,et al.Feed intake relative to stage of lactation for dairy cows consuming total mixed diets with a high or low ratio of concentrate to forage[J].Journal of Dairy Science,1998,81(8):2228-2239.   
+[17] 张美荣,廖想想,陈丹,等.产犊季节、胎次及牛场对荷斯坦牛泌乳性能的影响[J].中国牛业 科学,2012,38(4):6-9.   
+[18]罗清尧,熊本海,马毅,等.中国荷斯坦奶牛第二泌乳期泌乳曲线模型的研究[J].中国农业 科学,2010,43(23):4910-4916.   
+[19]STERI R,CAPPIO-BORLINO A,MACCIOTTA N P P.Modeling extended lactation curves formilkproductiontraitsinItalianHolsteins[J]ItalianJournalofAnimal Science,2009,8(2S):165-167.   
+[20]GOLEBIEWSKI M,BRZOZOWSKI P,GOLEBIEWSKI L.Analysis of lactation curves,milk constituents,somatic cell count and urea in milk of cows by the mathematical model of Wood[J].Acta Veterinaria Brno,2011,80(1):73-80.   
+Fiting of Changing Curves of Milk Yield and Milk Composition of Chinese Holstein Dairy Cows in Yangtze River Delta using Wood's Model   
+SUN Xianzhi1AN PengpenglGUO Mei1SUN Yongmei1JIN Ting]LIU Guanglei1.2\* (1. Shanghai Dairy Cow Breeding Center Co., Ltd., Shanghai 200436, China; 2. Guangming Animal Husbandry Co., Ltd., Shanghai 200436, China)
+
+Abstract: This study aimed to fit the changing curves of milk yield,milk fat percentage,milk protein percentage and milk somatic cell score (SCS) of Chinese Holstein dairy cows in Yangtze river delta using Wood's model. Data at the amount of 104 368 was collected from ten medium or large size farms of Chinese Holstein dairy cows (first to third parities) in Yangtze river delta, and Wood's model was used to fit the changing curves of milk yield, milk fat percentage, milk protein percentage and milk somatic cel score. The result showed as follows: 1) the curve of milk yield of Chinese Holstein was the standard lactation curve,and the curves of milk fat percentage,milk protein percentage and milk SCS showed the reversed parabola shape. 2) The goodness of fit was above 0.98 for milk yield of different parities,then following with that of milk SCS of different parities,which was above O.93,and the goodness of fit was above 0.92 for milk fat percentage of different parities.3) The time of peak milk yield of the first and second parities was close to that reaching the lowest milk SCS, and the lowest milk fat percentage appeared relatively late. 4) The peak milk yield of the first parity( $3 2 . 4 2 6 \ 3 \ \mathrm { k g / d }$ ）was lower than that of the second and third parities, while the persistence of keeping high milk yield (4.98) and milk protein percentage (4.19) of the first parity was higher than those of the second and third parities.It can be concluded that Wood's model is suitable for fitting of curves of milk yield, milk fat percentage,milk protein percentage and milk SCS of Chinese Holstein dairy cows in Yangtze river delta. Key words: Wood's model; milk yield; milk composition; somatic cell score; lactation curve; Chinese Holstein dairy cows in Yangtze river delta

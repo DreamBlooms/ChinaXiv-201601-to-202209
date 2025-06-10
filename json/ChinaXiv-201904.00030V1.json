@@ -1,0 +1,591 @@
+[
+    {
+        "type": "text",
+        "text": "车联网环境下基于重复博弈的恶意车辆节点检测机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董文远1，朱研¹，王永红²，张光华1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.河北科技大学 信息科学与工程学院，石家庄050018;2.承德石油高等专科学校 计算机与信息工程系，河北 承德067000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对车联网内部存在的虚假信息攻击，以及节点动态变化快及密集程度不同造成的恶意车辆节点检测机制效率低下，提出了一种基于重复博弈的恶意车辆节点检测机制。首先，根据车辆在信息交互中的行为建立重复博弈模型，并利用生成的节点收益计算出信任值与动态阈值，经二者比较，筛选出可疑的恶意车辆节点；其次，通过权值投票算法从可疑的恶意车辆节点中判定出恶意车辆节点；最后，从邻居列表中选取信任值最高的下一跳车辆节点进行合作。仿真和分析表明，与现有的相关机制相比，该机制提高了对虚假信息攻击的检测率，降低了误检率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：重复博弈；虚假信息攻击；投票算法；检测率；误检率 中图分类号：TP393.08 doi: 10.19734/j.issn.1001-3695.2018.11.0829 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Malicious vehicle node detection mechanism based on repeated game in VANET ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dong Wenyuan1†, Zhu Yan1,Wang Yonghong², Zhang Guanghual (1.ColegeofInformationScience&Engineeing,HebeiUniversityofScience&Technology,ShijiazhuangO5o8,China; 2.Dept.ofComputer& Information Engineering,Chende Petroleum College,Chengde Hebei O670o0,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In viewof internetof vehicles within the false informationatack,and node dynamicchange fastand intensive diferent malicious nodes vehicle detection mechanism caused by inefficient,proposing a malicious nodes vehicle detection mechanism basedonrepeatedgame.Firstofall,according tothe behaviorofthevehicle in the information interaction establish therepeated game mode,and using the generated node income calculate the trust value and the dynamic threshold, by comparison，screning out the suspicious maliciousvehicle nodes；Second,by weights of voting algorithm from suspected malicious nodes vehicles identifythe malicious nodes vehicles;Finally,selecting the next-hop vehicle node with the highest trust value from the neighbor list to cooperate.Simulation and analysis show thatcompared with the existing mechanism,this mechanism improves the detectionrate offalse information to attck,reduces the eror detection rate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: repeated game; false information attck; voting algorithm; detection rate; error detection rate ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "车联网（Internetofvehicles，IoV）是物联网（Internetofthings，IoT）在智慧城市交通领域中的具体应用，通过车辆网络动态的收集、分发和处理数据，利用无线通信方式共享信息，实现车与车、车与路、车与人、车与其他基础设施之间的信息交互，使汽车与城市网络相互连接[I]。然而，由于无线通信与车联网应用的高可靠性和高安全性之间存在着矛盾，车辆易受到恶意攻击，这就给车联网的安全带来了挑战。目前，从数据通信角度出发，可从车域网安全、车载自组网安全和车载移动互联网安全三个方面分析车联网面临的安全威胁[2\\~5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虚假信息攻击是车载自组网安全中面临的一种典型攻击是借助VANET中节点之间共享开放信道的特点而实现的一种主动攻击方式[5]。在虚假信息攻击中，攻击者一旦捕获共享信道所在的频段，就可以冒充正常的车辆节点，向网络中散布虚假消息或窜改、延迟转发和丢弃接收后需要转发的信息，对道路交通和车主的人身安全及财产造成非常严重的影响。此外，车联网中车辆动态变化快及密集程度不同为引入高效的恶意车辆节点检测机制带来了极大的障碍[6-8],很难将虚假信息攻击进行清除。以往对虚假信息攻击的检测研究大多数是基于无线传感器等静态网络，对车联网的研究很少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文在车联网中引入博弈论思想[9,10]，提出了一种基于重复博弈的恶意车辆节点检测机制MDMBRV（maliciousnode detection mechanism based on repeated game in theVANET）。该机制利用博弈模型生成信任值与动态阈值，经二者比较筛选出可疑恶意车辆节点并将信息发送至基站，当基站收到可疑恶意车辆节点的信息后，将采取投票算法判定出恶意车辆节点；最后，通过节点优选算法选取下一跳车辆节点，促进节点之间的合作。对本文机制进行仿真，并与MIDS（mixed intrusion detection scheme ）[11]、AHP（Analyticalhierarchyprocess）机制[12]在性能上进行比较。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了保证车联网的安全，同时又提高恶意车辆节点检测机制的检测效率。现有机制将博弈论思想引入到车联网中[13\\~20]，博弈论的优势在于能够根据每一阶段恶意节点的攻击方式选定合适的安全策略，从而降低恶意节点对网络造成的危害。目前，运用博弈论的安全机制很多，大致可分为两类，一类是基于博弈的静态节点检测机制，另一类是基于博弈的动态节点检测机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在静态节点检测机制中，文献[13]考虑到无线传感器网络中信息安全、节点信誉和能源消耗三方面的矛盾，提出了一种基于双参数的多标准博弈入侵检测机制。该机制不仅阻正了最小能耗方面的信息泄露，而且将具有较高信誉的恶意节点从网络中删除，但不适用于节点信息不完整的动态场景；文献[14]提出了一种基于博弈论的攻击防御模型，该模型的关键特征是攻击者和防御者为了达到双方的最大收益，可以定期更改自己的策略，以提高IDS中ESN的能耗和检测率。然而，该理论模型只可应用于静态的嵌入场景；文献[15]提出了一种基于博弈论的无线传感器网络多层入侵检测框架，结合基于规范规则和轻量级神经网络的异常检测模块，来识别恶意传感器节点，不仅如此，该框架还在IDS和监控的传感器节点之间建立博弈模型，降低了IDS流量和网络能耗。当恶意节点较多时，该机制的检测效率较低；文献[16]在物联网中提出了一种基于博弈论的协同安全检测方法，通过对攻击者与防御者博弈后的分析，得出了在无限迭代次数（或有限迭代次数）完全一致（或不完全一致）的情况下协同博弈模型和纳什均衡之间的定量关系。该检测方法提高了恶意车辆节点的检测率和网络运行性能，但没有考虑节点动态变化对其造成的影响。综上所述，对于静态网络中恶意节点的检测和节点之间的合作给出了合理的建议，但均不适用于节点动态变化的网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而在动态节点检测机制中，文献[17]为延迟容忍网络提出了一种基于进化博弈的安全路由协议，该协议不需要任何基础设施支持，就可以阻止虫洞攻击、黑洞攻击、贪婪攻击、窜改攻击等恶意行为对网络造成的威胁，但该协议只适用于延迟容忍网络，对其他网络的应用正在研究过程中；文献[18]在车联网中提出了一种基于博弈论的网络信任模型，运用多数意见、中介中心值和节点密度这三个参数，使节点能够更好地了解网络及其周围环境，有效的防止了恶意行为的发生，但该方案并没有解决通信的可靠性问题；文献[19]针对移动自组织网，提出了一种多包协同入侵检测的博弈理论模型。该模型检测准确率高且时延小，但是计算量复杂、能耗大；文献[20]由于对隐私泄露和资源成本问题的担忧，提出了一种基于进化博弈的合作入侵检测激励机制，该机制研究一个博弈算法来最大化节点效用，促进了节点之间的合作，但是对于恶意车辆节点的检测效率并不高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述基于博弈论的检测机制中，无论是针对于静态节点还是动态节点，均没有同时考虑车联网中节点动态变化及密集程度造成的问题。为此，本文提出了基于重复博弈的恶意车辆节点检测机制，分析节点之间的博弈过程，生成节点的信任值与动态阈值，并根据本文规则将这些参数进行处理，从而识别出网络中的恶意车辆节点，确保在开销和能耗允许的情况下提高恶意车辆节点检测率，降低误检率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于重复博弈的恶意车辆节点检测机制研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提高恶意车辆节点检测机制的检测效率、防止恶意车辆节点对其他节点进行虚假信息攻击,如图1所示，本方案可从五个方面进行分析：a)根据重复博弈理论将车辆间的信息交互看做是一个多次博弈过程，建立阶段重复博弈模型，求出车辆节点的收益，并将该信息发送至每一区域的基站 $s$ （本文假设基站 $s$ 完全可信）；b)利用转换因子将车辆节点收益转换为信任值与动态阈值；c)基站 $s$ 将车辆节点信任值与动态阈值进行比较，选出可疑恶意车辆节点;d)考虑到车辆密集程度不同，选取多车辆权值投票算法或单车辆权值投票算法判定出恶意车辆节点，并将该车辆节点信息进行广播，以便于其他车辆将该车辆节点信息在邻居列表中剔除;f)利用节点优选合作算法选出下一跳车辆节点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/594d6d75117757528b10f35c26b8f2e040899b3ef828b758165dd319763ee9e3.jpg",
+        "img_caption": [
+            "图1 MDMBRV 的工作流程Fig. 1 WorkflowofMDMBRV"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1重复博弈模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1网络模型定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "恶意车辆节点与正常车辆节点重复博弈模型包括四个方面，分别是参与节点、行动空间、收益情况和重复博弈次数。定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1参与节点是指一个博弈中参与行动的主体。该模型参与节点的类型空间为 $\\{ m , ~ n \\}$ ， $m$ 代表进行虚假信息攻击的恶意车辆节点，能对邻居节点造成威胁和破坏。 $n$ 代表正常运行的车辆节点，不会对邻居车辆造成任何威胁。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2行动空间。行动是指参与节点在博弈过程中选取的相关策略。本文考虑到恶意车辆节点的两种行动方案，分别为进行虚假信息攻击 $M _ { \\mathrm { 1 } }$ 和正常运行 $M _ { 2 }$ ，记为$M = ( M _ { 1 } , M _ { 2 } )$ 。同样，正常车辆节点也有两种行动方案，分别为开启恶意车辆节点检测机制进行防御 $N _ { \\mathfrak { r } }$ 和正常运行 $N _ { 2 }$ ，记为 $N = ( N _ { 1 } , N _ { 2 } )$ 。将 $M$ 和 $N$ 两两组合，便可得到恶意车辆节点与正常车辆节点的所有行动组合矩阵 $G$ ，如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = { \\left[ \\begin{array} { l l } { ( M _ { 1 } , N _ { 1 } ) } & { ( M _ { 1 } , N _ { 2 } ) } \\\\ { ( M _ { 1 } , N _ { 2 } ) } & { ( M _ { 2 } , N _ { 2 } ) } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3收益情况是指博弈模型中参与节点根据自身的类型选取相关行动所获收益。本文假设 $U _ { m }$ 为恶意车辆节点每一阶段博弈所获收益。 $U _ { n }$ 为正常车辆节点每一阶段博弈所获收益。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4重复博弈次数。本文博弈模型在进行博弈过程中无法确定博弈何时终止、博弈次数为多少，因此将博弈过程看为随机结束重复博弈，。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2博弈模型的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便计算，本文只对车联网中恶意车辆节点与正常车辆节点的博弈过程进行分析，正常车辆节点之间与恶意车辆节点之间的博弈分析过程忽略不计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了确定恶意车辆节点与正常车辆节点的收益函数，需要对一些符号进行定义，如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f978f3c08cbaec731575125463d41d42fd3336fd4c183b2e5cee7fd463ba04a0.jpg",
+        "table_caption": [
+            "表1重复博弈模型符号定义",
+            "Table1Repeated game model symbol definition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>定义</td></tr><tr><td>Ci(t)</td><td>恶意车辆节点进行虚假信息攻击所获收益</td></tr><tr><td>Vi(t)</td><td>恶意车辆节点进行虚假信息攻击所付出代价</td></tr><tr><td>Qi(t)</td><td>正常车辆节点进行防御所获收益</td></tr><tr><td>P(t)</td><td>正常车辆节进行防御所付出代价</td></tr><tr><td>U(t)</td><td>车辆节点正常运行所获收益</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过分析重复博弈模型的博弈过程，可以得到恶意车辆节点与正常车辆节点阶段博弈的收益函数，如式(2)(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( m ) = { \\left[ \\begin{array} { l l } { - V _ { i } ( t ) } & { C _ { i } ( t ) - V _ { i } ( t ) } \\\\ { U ( t ) } & { \\quad \\quad U ( t ) } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( n ) = { \\left[ \\begin{array} { l l } { - Q _ { i } ( t ) - P _ { i } ( t ) } & { - P _ { i } ( t ) } \\\\ { U ( t ) } & { U ( t ) } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了节省网络资源，本文规定节点最高收益指标为 $\\mu$ ，当博弈中一个节点的收益达到最高指标 $\\mu$ ，博弈过程结束，重复博弈模型的算法如算法1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1重复博弈模型算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：最高收益为 $\\mu$ 。  \n1节点 $A$ 与节点 $B$ 进行博弈。  \n2 计算每一阶段博弈 $A$ 与 $B$ 的收益，并求出其总体收益 $\\upsilon$ （A）和 $\\upsilon$ (B）。  \n3if( $U ( A ) > \\mu$ or $U ( B ) > \\mu )$ then博弈过程结束;end if  \n4else博弈继续进行，执行步骤1、2，直到满足步骤3为止。  \n5 end",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2收益与信任值转换 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为恶意车辆节点与正常车辆节点在博弈过程中为获取更多的收益而采取不同的策略去进行博弈，为了对二者类型进行区分，本机制假定一个转换因子 $\\delta$ ，将节点收益转换为节点信任值，如果为恶意行为的收益，节点信任值将根据 $\\delta$ 与节点收益做差，如果为正常行为的收益，节点信任值将根据 $\\delta$ 与节点收益做和，当收益为负值时，节点信任值用0表示。最后经过计算求出节点信任值 $T _ { i }$ ，并将该节点信息发送至基站 $s$ 。节点收益与信任值的转换方法如算法2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2收益与信任值转换算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：节点信任值 $T _ { i }$ 。  \n输出：博弈后的节点信任值 $T _ { i }$ 。  \n通过分析，判定节点采取的行动为恶意行为还是正常行为，恶意行为  \n用1表示，正常行为用2表示，节点为 $N _ { \\circ }$   \nif $( N = 1 )$ if $( U < 0 )$ （204号$T _ { i } = T _ { i } + 0 \\ ;$ else$T _ { i } = T _ { i } - \\delta U \\ ;$ （2end ifif $( N = 2 )$ if $( U < 0 )$ （20$T _ { i } = T _ { i } + 0 \\ ;$ else$T _ { i } = T _ { i } + \\delta U \\ ;$ end if  \nend",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3可疑恶意车辆节点选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为准确的选取产生虚假信息攻击的可疑恶意车辆节点，需要设置合适的动态阈值。本文采取全局阈值求解算法来解决这个问题。详细算法流程如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)设定参数 $\\varepsilon _ { 0 }$ ，并根据节点的信任值选择一个初始的估计阈值 $\\varepsilon _ { \\scriptscriptstyle 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)估计阈值 $\\varepsilon _ { 1 }$ 将节点分割为两部分 ${ \\mathbf { } } N _ { 1 }$ 和 $N _ { 2 }$ ， $N _ { \\mathfrak { l } }$ 为信任值大于 $\\varepsilon _ { 1 }$ 的节点， $N _ { 2 }$ 为信任值小于 $\\varepsilon _ { 1 }$ 的节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算 $N _ { \\mathrm { 1 } }$ 和 $N _ { 2 }$ 中所有节点的平均信任值 $\\lambda _ { 1 }$ 和 $\\lambda _ { 2 }$ ，以及新的阈值 $\\varepsilon _ { 2 } = ( \\lambda _ { 1 } + \\lambda _ { 2 } ) / 2$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)如果 $\\left| \\varepsilon _ { 1 } - \\varepsilon _ { 2 } \\right| < \\varepsilon _ { 0 }$ 则推出 $\\varepsilon _ { 2 }$ 为最优动态阈值；否则，将 $\\varepsilon _ { 2 }$ 赋值给 $\\varepsilon _ { \\mathrm { 1 } }$ ，重复步骤b)\\~d)直到获取最优阈值 $\\varepsilon$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由算法1和2可知节点在博弈过程中存在相应的信任值$T _ { i }$ ，又根据全局阈值法求出了节点的最优动态阈值 $\\varepsilon$ 。之后将得到的节点信任值 $T _ { i }$ 与动态阈值 $\\varepsilon$ 进行比较，判定节点 $N$ 是否为可疑恶意车辆节点，即",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $T _ { i } > \\varepsilon$ 时，节点N为可疑恶意车辆节点。当 $T _ { i } < \\varepsilon$ 时，节点 $\\mathrm { ~  ~ N ~ }$ 为可疑正常车辆节点。当 $T _ { i } = \\varepsilon$ 时，等待下一次博弈检测结果。算法3可疑恶意车辆节点选取算法输入：节点信任值 $T _ { i }$ 和动态阈值 $\\varepsilon$ 。输出：节点为可疑恶意车辆节点还是可疑正常车辆节点的选取结果。if( $T _ { i } > \\varepsilon$ ）为可疑正常车辆节点；end ifif( $T _ { i } < \\varepsilon$ ）为可疑恶意车辆节点；end ifif( $T _ { i } = \\varepsilon$ ）继续进行博弈检测；end ifend",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4恶意车辆节点判决与剔除 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在车联网中，车辆之间距离和链路质量不同，单一车辆节点的判定结果可能出现误差，需要采用多车辆节点投票算法避免发生此类问题，当大多数车辆判定某车辆节点为可疑的恶意节点时，则该节点可被判定为恶意车辆节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际投票过程中，考虑到车辆可信程度不同，需要引入权重这个概念，提高判定结果的准确度。由式（4）可求出本文节点权重，权重越大，节点在投票中的影响力越大，权重越小，节点在投票中的影响力越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i } = { \\frac { T _ { i } } { T _ { 1 } + T _ { 2 } + T _ { 3 } + \\cdots + T _ { \\mathrm { i - 1 } } + T _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，车辆密集程度不同降低了节点投票算法的稳定性与可靠性。为此，本文在基于Boyer-Moore 投票算法基础上[21]引入式(4)中的节点权重，提出了两类算法，一类是适用于节点密集的多车辆权值投票算法，如算法4所示；另一类是适用于节点稀疏的单车辆权值投票算法，如算法5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法4多车辆权值投票算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：起始投票数 $C _ { s u m }$ 。  \n输出：总投票数 $C _ { s u m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1建立与节点 $N$ 进行博弈的邻居列表集合 $( a _ { 1 } , a _ { 2 } , a _ { 3 } , \\cdots , a _ { i } )$ ，该邻居列表集合 $a _ { i }$ 为对节点N是恶意车辆节点还是正常车辆节点的判断，0代表为可疑正常车辆节点，1代表为可疑恶意车辆节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 根据信任值求出邻居列表中每一车辆节点的权重 $W _ { i }$ 。for $( i = 1 , j = n ; i < j ; i + + )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "if $( a _ { i } = 0 )$ （204号$C _ { s u m } = C _ { s u m } + 1 ^ { * } W _ { i } \\ ;$ （204end $\\mathbf { i } \\mathsf { f }$ if (ai=1)$C _ { s u m } = C _ { s u m } - 1 ^ { * } W _ { i } \\mathrm { ~ } ;$ end ifend算法5单车辆权值投票算法重复算法4中的步骤1、2，求出每一车辆节点的权重Wi。将每一个节点的权重进行比较，求出最大权重的节点 $\\boldsymbol { a } _ { i }$ 。if $a _ { i }$ 为最大权重节点 then权重为 $a _ { i }$ 的节点对节点 $\\mathfrak { n }$ 的判定为正确判定结果；end ifend",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基站进行广播，警告周边节点当存在其他下一跳节点时，忽略该节点。当不存在其他下一跳节点时，为保证链路稳定性，对转发信息进行标记，并告知目的节点对该信息准确性进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本文研究中，采取多车辆权值投票算法判定 $N$ 是否为恶意车辆节点取决于参与投票车辆节点的总投票数 $C _ { s u m }$ 。当邻居车辆节点判定 $N$ 为恶意车辆节点时投票数减少， $N$ 为正常车辆节点时投票数增多，总投票数 $C _ { s u m }$ 越大证明 $N$ 为正常车辆节点的准确率越高，反之则越小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类似地",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $C _ { s u m } > 0$ 时，说明节点大多数投票认为 $N$ 为正常车辆节点，则判断 $N$ 且正常车辆节点；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $C _ { s u m } < 0$ 时，说明节点大多数投票认为 $N$ 为恶意车辆节点，则判断 $N$ 为恶意车辆节点；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $C _ { s u m } = 0$ 时，无法判断N为正常车辆节点还是恶意车辆节点，等待下一次投票。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体过程如算法6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法6恶意车辆节点判决输入：总投票数 $c$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "判断节点密集程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "if节点密集程度较大",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "执行算法4;if $( C _ { s u m } > 0 )$ ）then$\\mathfrak { n }$ 为正常车辆节点；end ifif $( C _ { s u m } < 0 )$ ）then$\\boldsymbol { n }$ 为恶意车辆节点，基站进行广播，请求周边节点将该节点从邻居列表中剔除；end ifif $\\mathbf { \\nabla } { C _ { s u m } } = 0$ ）then等待下一次投票;end ifelse执行算法5；end ifend",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5节点优选合作算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述模型和算法，已求出各车辆节点的信任值与权重，并将恶意车辆节点剔除出了网络。为进一步提高传输信息的可靠性与安全性，保证节点之间的合作效率，提出了一种节点优选合作算法，该算法能够为节点优先选择邻居列表中信任值最高的下一跳节点进行信息传输。具体节点选取流",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "程如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)请求节点将邻居列表中下一跳节点的信任值从高到低进行排序，选取信任值最高的下一跳节点为请求节点合作对象，并发送请求信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)下一跳节点收到请求节点的请求信息后，将自身情况信息（包括位置、速度、周边车辆密集程度等）告知于请求节点，询问是否接收信息并进行传输。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)根据a)b)将信息一直传输下去，直到信息到达目的节点为止。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1环境设置",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用的交通仿真工具是NS-2[22]，车辆交通运行场景生成工具是 SUMO[23].NS-2是UC Berkeley 开发的离散事件网络模拟器，由 $\\scriptstyle \\mathbf { C } + +$ 语言定义，通过Otc1脚本语言提供仿真接口，支持VANET路由协议和802.11MAC的实现。SUMO是一款开源微观交通仿真软件，通过使用MOVE配置得到所需的路网和路径等XML文件。本文模拟道路交通复杂、车辆密集程度不同的某城市街道场景，在 $2 0 k m ^ { * } 2 0 k m$ 的城市里生成接近真实车辆驾驶的车辆位置、速度、密度等数据的trace 文件，并载入NS-2仿真模拟器，仿真实验参数如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d948b3618befdf6296e7dec2805a7974d5b8d407562739230704a70f39d6c60.jpg",
+        "table_caption": [
+            "表2仿真参数设置",
+            "Table 2 Simulation parameter Settings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>参数值</td></tr><tr><td>仿真范围</td><td>20km*20km</td></tr><tr><td>节点速度</td><td>30-100km/h</td></tr><tr><td>节点数量</td><td>200</td></tr><tr><td>通信半径</td><td>1000m</td></tr><tr><td>MAC协议</td><td>802.11P</td></tr><tr><td>数据包传递速率</td><td>1Kbit/s</td></tr><tr><td>攻击类型</td><td>虚假信息攻击</td></tr><tr><td>车辆密度单位</td><td>180vel·km1 ·ln-1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果和对比分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本方案的有效性，定义了检测率和误检率两个评价标准，检测率是指成功检测出恶意车辆节点的数量与网络中存在的恶意车辆节点数量之比，误检率是指正常车辆节点被误检为恶意车辆节点的比例。同时，为了提高本机制的准确性，将实验进行多次仿真求出其平均值。当恶意车辆节点数量不同时，MDMBRV对虚假信息攻击的检测率和误检率如图2、3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2是MDMBRV、MIDS与AHP机制在检测率方面的对比图，可以看出随着恶意车辆节点数量的增加，三个机制的检测率略有下降的趋势，MIDS机制下降幅度最大，其次为AHP机制，MDMBRV机制下降幅度最小。与MIDS和AHP机制相比，MDMBRV能维持较高的恶意车辆节点检测率。主要原因是MDMBRV采用多车辆投票算法，使周边车辆都可以对可疑节点进行判决，提高了恶意车辆节点检测的准确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3是MDMBRV、MIDS与AHP机制在误检率方面的对比图，可以看出随着恶意车辆节点比例的上升，MDMBRV、MIDS与AHP的误检率逐步提高。相对于MIDS与AHP 机制，MDMBRV仍保持着较低的误检率。主要是因为本机制引入的全局阈值法能随着环境的变化动态的实时调整动态阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e664995489d1334b0c91b3a03515e9d2aa76bb02e90374af2fbb36ed80ccafdc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7189219cc9843163d6ed3bc7ff2b9e46f5ab52e0f645b98583cb5eb725606e61.jpg",
+        "img_caption": [
+            "图2检测率随初始恶意车辆节点数目的变化情况 Fig.2Detection rate with the change of initial malicious traffic node number "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当节点动态变化时，节点密度也在变化，图4、5为不同车辆密度下MDMBRV对虚假信息的检测率和误检率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4中可以看出当车辆密度增加时，三种检测机制的检测率都有所上升。本文机制检测率在车辆密度为$2 0 \\nu e l \\cdot k m ^ { - 1 } \\cdot l n ^ { - 1 }$ 到 $1 8 0 \\nu e l \\cdot k m ^ { - 1 } \\cdot l n ^ { - 1 }$ 之间时一直高于MIDS 与AHP机制，并在车辆密度为 $1 8 0 \\nu e l \\cdot k m ^ { - 1 } \\cdot l n ^ { - 1 }$ 的情况下，检测率高达 $9 6 . 5 \\%$ 。主要是因为车辆密度的上升增加了可疑车辆周边的邻居车辆，提高了投票算法的准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9414418a17d89142f698e7900b4eb2167d1ecde8462cf2464eb649ae0a06eef5.jpg",
+        "img_caption": [
+            "图3误检率随初始恶意车辆节点数目的变化情况",
+            "图4检测率率随车辆密度的变化情况",
+            "Fig.4Detection rate with the change of vehicle density "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5显示随着车辆密度的上升，MIDS与AHP机制误检率上升幅度明显，而MDMBRV机制误检率起始虽有所上升，但在 $1 2 0 \\nu e l \\cdot k m ^ { - 1 } \\cdot l n ^ { - 1 }$ 之后略有下降趋势，总的来说保持着平稳状态，并且低于MIDS与AHP机制。相较于MIDS与AHP检测机制，本机制不易受到车辆密度干扰，有更好的误检率。主要原因是根据车辆密度的不同，可以适当地选择多车辆权值投票算法和单车辆权值投票算法进行运算。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3d9883f487a6027d98dd16a70390ceffb31539ed99670ad55800daec41f21bd.jpg",
+        "img_caption": [
+            "图5误检率随车辆密度的变化情况",
+            "Fig.5Error detection rate with the change of vehicle density "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了分析车辆密度对网络开销的影响，设置了车辆速度为 $3 0 ~ k m / h$ ，车辆密度不同的场景。随机选取两个进行虚假信息攻击的恶意车辆，观测不同场景下，MDMBRV识别虚假信息攻击过程的网络开销。如图6所示，随着车辆密度的增加，两种机制网络开销逐渐上升。MDMBRV网络开销上升趋势明显，并且高于MIDS检测机制。这是因为车辆密度的上升提高了MDMBRV机制节点之间的博弈过程，从而产生了更大的网络开销。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/800945f3426c1bcc5530dd0bc02c8f7e67d7db07092cdd2a2b2edb420e1d119b.jpg",
+        "img_caption": [
+            "Fig.3Error detection rate with the change of initial malicious traffic node number ",
+            "图6车辆密度对网络开销的影响",
+            "Fig.6Vehicle density on the influence of network overhead "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文为了提高车联网中恶意车辆节点检测机制的检测效率，避免车辆受到虚假信息攻击，提出了基于重复博弈的恶意车辆节点检测机制，将重复博弈与投票算法相结合，通过分析节点间的博弈行为和采取投票算法识别出车联网中的恶意车辆节点，最后，为了促进节点之间的合作，选取最优下一跳节点进行信息传递。此外，从检测率、误检率和通信开销三个方面验证了MDMBRV的有效性。下一步将在目前的MDMBRV基础上，降低网络开销，并研究Sybil、DoS等攻击行为的恶意车辆节点检测方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Xu Wenchao,Zhou Haibo,Cheng Nan,et al.Internet of Vehicles in Big Data Era [J].IEEE/CAA Journal of Automatica Sinica,2018,5(1): 19-35.   \n[2]Chen Jiacheng，Zhou Haibo,Zhang Ning，et al. Service-oriented dynamic connection management for software-defined Internet of vehicles [J] IEEE Transon Intelligent,Transportation System,2017,18(10):2826-2837.   \n[3]YadavK,Vijayakumar P.VANET and its security aspects:a review [J]. Indian Journal of Science Technology,2016,9(44): 59-64.   \n[4]Muhammad A,Elyes B,Wassim Z,et al. Security in intelligent transport systems for smart cities: from theory to practice [J]. Sensors, 2016,16(6): 879.   \n[5]Li Fujuan,Wang Qun,Qian Huanyan,et al. Survey on security threats of Internet of vehicles [J].Application of Electronic Technique,2017, 43(5): 29-33,37.   \n[6]Roshan J,Preetam S.Detection of malicious node and development of routing strategy in VANET [C]//Proc of International Conference on Signal Processing and integrated Networks.2016: 472-476.   \n[7]Subba B,Biswas S,Karmakar S.A game theory based multi layered intrusion detection framework for VANET [J].Future Generation Computer Systems,2018,82(5):12-28.   \n[8]Jared O.A Distributed reputation scheme for situation awareness in vehicular Ad hoc networks(VANETs)[C]//Proc of IEEE International Multi-Disciplinary Conference on Cognitive Methods in Situation Awareness and Decision Support.2016:1-5.   \n[9]Liang Xiannuan,Xiao Yang.Game theory for network security [J]. IEEE Communications Surveys&Tutorials,2013,15(1): 472-486.   \n[10]Abdalzaher M,Seddik K,Elsabrouty M,et al.Game theory meets wireless sensor networks security requirements and threats mitigation: a survey[J].Sensors,2016,16(7):1003.   \n[11]李春彦，刘怡良，王良民．车载自组网基于交通场景的入侵行为检 测机制[J]．山东大学学报，2014,44(1):29-34.(Li Chunyan，Liu Yiliang,Wang Liangmin. Intrusion detection scheme based on traffic scenarios in vehicular ad hoc networks [J].Journal of Shandong University,2014,44(1):29-34.)   \n[12] Saraswat D,Chaurasia B.AHP Based Trust Model in VANETs [C]//Proc of the 5th International Conference on Computational Intelligence and Communication Networks.2013: 27-29.   \n[13] Guan Sanghai,Wang Jingjing,Jiang Chunxiao,et al. Intrusion detection for wireless sensor networks:a multi-criteria game approach [C]//Proc of IEEE Wireless Communications and Networking Conference .2018: 1-6.   \n[14] Wang Kun,Du Miao,Yang Dejun,et al.Game-theory-based active defense for intrusion detection in cyber-physical embedded systems [J]. ACM Trans on Embedded Computing Systems,2016,16(1): 1-21.   \n[15] Subba B,Biswas S,Karmakar S.A game theory based multi layered intrusion detection framework for wireless sensor networks [J]. International Journal of Wireless Information Networks,2018(4):1-23.   \n[16] Wu Hao,Wang Wei,A game theory based collaborative security detection method for Internet of things systems [C].IEEE Trans on Information Forensics&Security,2018,13(6):1432-1445.   \n[17] Guo Hang，Wang Xingwei,Cheng Hui,et al.A routing defense mechanism using evolutionary game theory for delay tolerant networks [J].Applied Soft Computing Archive,2016,38(C): 469-476.   \n[18] Mehdi M,Raza I,Hussain S.A game theory based trust model for vehicular Ad hoc networks [J].Computer Networks,2017,121(7): 152-172..   \n[19] Purbita C,Koushik M,Anurag D.A game theoretic model to detect cooperative intrusion over multiple packets [C]//Artificial Intelligence and Evolutionary Computations in Engineering Systems.2016: 895-907.   \n[20] Guo Yunchuan, Zhang Han, Zhang Lingcui, et al, Incentive mechanism for cooperative intrusion detection:an evolutionary game approach [C]/Proc of International Conference on Computational Science.2018: 83-97.   \n[21] Rahim R,Ahmar A,Ardyanti,et al. Visual Approach of Searching Processusing Boyer-Moore Algorithm [J]//Proc of International Conference on Information and Communication Technology.2017: 1-5.   \n[22] Henderson T,Network simulater2. 31 [EB/OL].(2007-03-10) [2018-11-08].http://mailman.isi.edu/pipermail/ns-developers/2007- March/002931. html.   \n[23] Krajzewicz D,Hertkorn G,Rossel C,et al. SUMO (simulation of urban mobility):an open-source trafc simulation [C]//Proc of the 4th Middle East Symposium on Simulation and Modelling.2002:183-187. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "基于骨架跃迁和药物拼接所确立的新型二肽基肽酶IV抑制剂",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王善春¹，曾丽丽²，丁宇洋³，曾少高²，宋宏锐¹，胡文辉²\\*，谢慧4\\*  \n1江苏正大天晴药业股份有限公司，江苏，连云港，222006  \n2中国科学院广州生物医药与健康研究院，广东，广州，510530  \n³沈阳药科大学制药工程学院，辽宁，沈阳，110016  \n4广州医学院第一附属医院，广东，广州，510120",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：截至目前，已有7个二肽基肽酶IV（DPP-IV）抑制剂成为抗糖尿病新药，它们的结构差异和内在关联性为进一步的结构修饰提供了新的思路。本研究针对阿格列汀和利那列汀的结构特征，采用骨架跃迁及药物拼接的原理，快速得到了新型的DPP-IV 抑制剂8g $( \\mathrm { I C } _ { 5 0 } { = } 4 . 9 \\ \\mathrm { n M } )$ ，其活性和选择性均接近于上市新药。因此，运用经典的药物化学策略，对基于同一靶标的上市药物实施分子操作，可以有效地产生新型的活性分子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：2型糖尿病；DPP-IV抑制剂；骨架跃迁；药物拼接",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Discovery of novel dipeptidyl peptidase IV inhibitors through scaffold hopping and drug splicing strategy ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WANG Shan-chun’， ZENG Li-li²，DING Yu-yang³，ZENG Shao-gao²， SONG   \nHong-rui’, HU Wen-hui²\\*, XIE Hui4\\*   \n1Jiangsu Chia-Tai Tianqing Pharmaceutical Co. Ltd, Jiangsu, 222006, China   \n²Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Science,   \nGuangzhou, 510530, China   \n3School of Pharmaceutical Enginering， Shenyang Pharmaceutical University,   \nShenyang,110016, China   \n4First Afiliated Hospital of Guangzhou Medical University， Guangzhou, 510120,   \nChina ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Though all the marketed drugs of dipeptidyl peptidase IV inhibitors are structurally different, their inherent correlation is worthy of further investigation. Herein we rapidly discovered a novel DPP-IV inhibitor $\\mathbf { 8 } \\mathbf { g }$ $( \\mathrm { I C } _ { 5 0 } { = } 4 . 9 \\ \\mathrm { n M } )$ ）which exhibits as good activity and selectivity as the market drugs through scaffold hopping and drug splicing strategies based on Alogliptin and Linagliptin. This study demonstrated that the employment of classic medicinal chemistry strategy to the marketed drugs with specific target is an efficient approach to discover novel bioactive molecules. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: type 2 diabetes； DPP-IV inhibitor; scaffold hopping; drug splicing strategy ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2型糖尿病（T2DM）是一种复杂的内分泌代谢紊乱性疾病，已成为继心血管疾病、恶性肿瘤之后第三大威胁人类健康的非传染性疾病。据国际糖尿病联盟(IDF)统计，2012年全球糖尿病患者已达3.71亿，其中超过 $9 0 \\%$ 为2型糖尿病。传统的降糖药物主要有胰岛素增敏剂、胰岛素促分泌剂、 ${ \\mathfrak { a } } ^ { - }$ 葡萄糖苷酶抑制剂等三大类[1]，这些药物在具有治疗作用的同时往往会带来如体重增加、耐药、低血糖等不良反应[2]，因此开发具有新型作用机制、毒副作用小的降糖药物，一直都是学术界及工业界的热点[3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，二肽基肽酶IV(DPP-IV)抑制剂已成为发达国家治疗2型糖尿病的一线药物。DPP-IV抑制剂能够减弱DPP-IV对肠促胰岛素的降解来增强胰岛素样多肽(GIP)和胰高血糖素样肽1(GLP-1)的活性，从而发挥增加胰岛素敏感性、促进胰岛素释放、刺激胰岛β细胞生长等生理功能[4]。与传统抗糖尿病药物相比，DPP-IV抑制剂疗效确切、不良反应少、利于口服吸收，适合作为慢性疾病的治疗药物。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/710bb2560a7ae3678772139801f3d8486849e746b997ba0cf8b6440cd235f108.jpg",
+        "img_caption": [
+            "图1Representative DPP-IV inhibitors "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前已上市的DPP-IV抑制剂有西格列汀[5](1 Sitagliptin)、维达列汀[6]（2Vidagliptin)、沙格列汀[7] (3 Saxagliptin)、阿格列汀[8] (4 Alogliptin)、利那列汀[9] (5Linagliptin)、吉格列汀[10](6Gemigliptin)、特利列汀[1](7 Teneligliptin)。从图1的结构式可见，虽然这些药物都结合于同一靶点，但结构差异较大，尤其是以西格列汀、阿格列汀、利那列汀为代表的三个药物。我们之前的研究发现，阿格列汀与利那列汀的药效团存在一定的相似性，结构之间存在较大的关联，因此适合进",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行骨架跃迁、片段拼接等分子操作[12]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/750b235ac4e5bf9a45e52ccca1c81e804c0aa69dbc0d37ce46e279f0d6509f36.jpg",
+        "img_caption": [
+            "图2 Outline of scaffold hopping and drug splicing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为此，我们采用骨架跃迁的策略，将阿格列汀分子中的嘧啶二酮骨架跃迁为黄嘌呤骨架，快速地得到了一类新型的DPP-IV抑制剂。通过对黄嘌呤骨架的结构修饰，尤其是在N-1位置拼接引入利那列汀的喹唑啉片段，得到了高活性和选择性的DPP-IV抑制剂 $\\mathbf { 8 g }$ $( \\mathrm { I C } _ { 5 0 } { = } 4 . 9 \\ \\mathrm { n M } )$ (图2)。化合物8g的获得进一步证实了对于基于同一靶标的上市药物，可以探究其相似性，采用经典药物化学的分子操作，快速确立新型的生物活性分子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 化学合成部分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物8a-g的合成路线如图3所示。市售的2-氰基溴苄与8-溴-3-甲基黄嘌呤(化合物9)进行亲核取代反应得到关键中间体10。通过与2-溴甲基-4-甲基喹唑啉进行N-烷基化(生成化合物11)，再与邻苯二甲酰基保护的(R)-3-氨基哌啶反应得到化合物13g。化合物10与保护的3-氨基哌啶反应得到化合物12，再发生N-烷基化反应得到化合物13a-f。最终，化合物13a-g在乙醇胺的甲苯溶液中加热至 $9 0 ^ { \\circ } \\mathrm { C }$ 脱去保护基，即可得到目标化合物8a-g。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/739853b0f5bbb7eb9d2206d5004a6edf50c6911ad2467279e9cea517a578534f.jpg",
+        "img_caption": [
+            "图3 Synthesis of compound 8a-g "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reagents:i. DIEA,DMF, rt; ii. ${ \\bf N a } _ { 2 } { \\bf C O } _ { 3 }$ or ${ \\bf K } _ { 2 } \\bf C O _ { 3 }$ ， NMP, rt- $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ； iii.DIEA,NMP, $1 4 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ；iv.Ethanolamine,toluene, $9 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1对阿格列汀进行骨架跃迁得到新型的DPP-IV抑制剂",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "骨架跃迁 (scaffold hopping)的概念最早是从计算技术延伸到新药研究的，其目的是为了在已知数据库中寻找与苗头化合物具有不同拓扑骨架，但仍能保持原有生物活性的新型结构[13]。其优势在于，对上市药物采用骨架跃迁，容易得到性质接近的候选药物，具有快速、便捷的特点。通过对阿格列汀的骨架跃迁策略，我们先后得到并报道了多个高活性抑制剂，如化合物 $\\mathsf { \\widehat { p } } ( \\mathrm { I C } _ { 5 0 } { = } 0 . 3 3 \\ \\mathrm { n M } ) ^ { [ 1 }$ 4和化合物${ 7 ( \\mathrm { I C } _ { 5 0 } { = } 1 . 4 \\ \\mathrm { n M } ) } ^ { [ 1 }$ 5] (图4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da2a2e8f5df41d8b431e71afc3dba6a5f2499f7593a2f95a9aa005d86612cace.jpg",
+        "img_caption": [
+            "图4 Generation of highly potent DPP-IV inhibitors via scaffold hopping strategy "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "虽然这些分子的药效优越，但最终都由于药物代谢动力学、安全性等方面的缺陷而未能进入开发阶段，这也促使我们将重点转向对上市药物的分析和分子操作上[15.16]。我们注意到，虽然阿格列汀与利那列汀的结构差异大，但与靶标DPP-IV酶的结合方式却具有较大的相似性[8,9]。二者的(R)-3-氨基哌啶基均与谷氨酸205，206存在氢键相互作用；2-氰基-苄基与丁炔基占据疏水S1口袋；分子骨架与酪氨酸547形成π-π电子堆积作用。而黄嘌呤骨架的利那列汀在体外生物学活性、药物代谢动力学及药效学等方面的性质均为市售DPP-IV抑制剂的翘楚[9]。因此，在新一轮的结构优化中，我们保留了阿格列汀的2-氰基-苄基和(R)-3-氨基哌啶基药效团，将利那列汀的优势骨架引入，合成了一系列新型的DPP-IV抑制剂。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2黄嘌呤骨架N-1位置的基团变换",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们通过对 N-1位置的修饰，合成了如表1所示的化合物8a-g，他们均对DPP-IV 呈现出不同程度的抑制活性和选择性。因此，N-1位置的取代对活性的影响较大，尤其是连接芳香性基团有利于活性的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1 DPP-IV inhibitory activity and selectivity of compound 8a-g ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/54c1c925a639c94f84eab66792fc4a89a011f3c1647a4b51a63a6dc46196eb26.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5f8253fa41bb52448779ea76f83bc073dcadcdd7c0f0cb04721ae75d3cadacf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Compounds</td><td>R</td><td>IC50 DPP-IV(nM)</td><td>IC50</td><td>IC50</td></tr><tr><td>8a</td><td></td><td>190.5</td><td>DPP-VIII(μM) >100</td><td>DPP-IX(μM) >100</td></tr><tr><td>8b</td><td></td><td>831.4</td><td>>100</td><td>>100</td></tr><tr><td>8c</td><td></td><td>560.3</td><td>>100</td><td>>100</td></tr><tr><td>8d</td><td></td><td>353.1</td><td>>100</td><td>>100</td></tr><tr><td>8e</td><td></td><td>13.9</td><td>>100</td><td>>100</td></tr><tr><td>8f</td><td></td><td>8.8</td><td>>5.4</td><td>>89.6</td></tr><tr><td>8g</td><td></td><td>4.9</td><td>>100</td><td>>100</td></tr><tr><td>Alogliptin</td><td></td><td>3.4</td><td>>25</td><td>>25</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表1的结果可以看出：N-1部位的确是活性的敏感点，芳香并环类取代能够产生较好的抑制活性(化合物 8e-g)。对 DPP-VII/IX 的筛选显示：化合物 8a-g对这两个DPP-IV的同工酶不存在抑制作用，具有良好的选择性。巧合的是，通过药物拼接策略得到的化合物 $\\mathbf { 8 g }$ $( \\mathrm { I C } _ { 5 0 } = 4 . 9 \\ \\mathrm { n M } )$ 完全是引入利那列汀的结构片段 2-甲基-4-甲基喹唑啉基，它保持了较高的活性及选择性。在同样实验条件下，我们得到阿格列汀 DPP-IV 抑制 $\\mathrm { I C } _ { 5 0 }$ 值为 $3 . 4 ~ \\mathrm { n M }$ 。化合物 $\\mathbf { 8 g }$ 系列保持了上市DPP-IV 抑制剂所具有的良好的DPP选择性，同时其DPP-IV 抑制活性基本接近了市售DPP-IV抑制剂的水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 me-too药物的研发中，骨架跃迁能够快速产生新型的活性分子，但在总体的成药性方面仍有差距。在前期工作的基础上，我们直接选用上市的DPP-IV 抑制剂阿格列汀与利那列汀进行骨架跃迁、药物拼接等分子操作，快速确立了新颖而高活性的DPP-IV 抑制剂。因此，本研究通过化合物 $\\mathbf { 8 g ( I C _ { 5 0 } { = } 4 . 9 \\ n M ) }$ 的确立，实证了通过整合基于同一靶标的上市药物，运用药物化学策略和分子操作[17],",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以快速产生新型的药物活性分子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 实验部分",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1主要仪器及试剂",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZF-20D暗箱式紫外分析仪（巩义市予华仪器有限责任公司)；R-1001-VN旋转蒸发仪（郑州长城科工贸有限公司)；AVANCEAV400MHz核磁共振仪（瑞士BRUKER公司）；AVANCEAV50OMHz核磁共振仪（瑞士BRUKER公司）；API3000液相串联质谱系统(质谱仪：ABSciexAPI3000，自动进样系统：GerstelUPS3C，高效液相色谱仪：ShimazuLC-10ADVP，美国应用生物系统公司)；色谱用硅胶G，H(青岛海洋化工厂)，硅胶板GF254(青岛谱科分离材料有限公司)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主要试剂来源于广州市金华大化学试剂有限公司，分析纯。主要原料来源于阿拉丁试剂，纯度大于 $9 5 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.1化合物10的制备方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将8-溴-3-甲基黄嘌呤(化合物9)( $\\mathrm { 1 0 0 ~ m g }$ ， $0 . 4 1 \\ \\mathrm { m m o l } ;$ 溶解于 $1 0 \\mathrm { m L } N , N -$ 二甲基甲酰胺，室温搅拌下依次加入二异丙基乙基胺( $\\mathrm { 0 . 1 \\ m L }$ ，0.57mmol)和2-氰基溴苄 $\\mathrm { 9 6 ~ m g }$ ， $0 . 4 9 \\ \\mathrm { m m o l } ;$ 的 ${ \\mathrm { \\Delta } N } , N .$ 二甲基甲酰胺溶液 $( 5 ~ \\mathrm { m L } )$ 。继续室温搅拌直至TLC显示反应完全。加入 $5 0 ~ \\mathrm { m L }$ 水产生白色沉淀，经水、乙醚洗涤后，得白色固体，干燥后称重 $7 2 \\mathrm { m g }$ ，收率 $5 8 . 5 \\%$ 。 $^ 1 \\mathrm { H }$ -NMR ( ${ \\bf \\Psi } _ { 4 0 0 } \\bf { M H z }$ ,DMSO, ppm) δ: 11.35 (s, 1H),7.92 (d, $J { = } 7 . 6 \\mathrm { H z }$ , 1H), 7.66 (t, $J { = } 7 . 2 \\operatorname { H z }$ ,1H), 7.52 (t, $J { = } 7 . 6 \\mathrm { H z }$ , 1H), 7.00 (d, $J =$ $8 . 0 \\mathrm { H z }$ ,1H),5.68 (s,2H),3.36 (s, 3H).",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.2化合物11的制备方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将化合物10 $( 1 . 0 9 \\mathrm { g } , 3 . 0 3 \\mathrm { m m o l } )$ 和2-溴甲基-4-甲基喹唑啉 $( 0 . 6 4 ~ \\mathrm { g } , 3 . 3 3 ~ \\mathrm { m m o l } )$ 溶解于 $3 0 \\mathrm { m L } N \\mathrm { - }$ 甲基吡咯烷酮，然后油浴 $1 4 0 ^ { \\circ } \\mathrm { C }$ 搅拌2小时，TLC检测显示反应完 全。加入 $1 0 0 ~ \\mathrm { { m L } }$ 水产生棕色沉淀，经水、乙醚洗涤后，得棕色固体，干燥后称 重 $1 . 3 7 \\ \\mathrm { g }$ ，收率 $8 7 . 8 \\%$ 。 $^ 1 \\mathrm { H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 7.95 (d, $J { = } 8 . 4 \\ : \\mathrm { H z }$ ,1H), 7.78-7.70 (m, 2H), 7.62 (d, $J = 8 . 0 ~ \\mathrm { H z }$ ，1H),7.49-7.44 (m, 2H), 7.37-7.31 (m,1H), 6.96 (d, $J { = } 7 . 6 \\mathrm { H z }$ ,1H),5.76 (s,2H), 5.47 (s,2H), 3.56 (s,3H), 2.81 (s, 3H). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.3化合物12的制备方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将化合物10(1.5g，4.16mmol)、(R)-2-(3-哌啶基)异二氢吲哚-1,3-二酮 $( 1 . 4 4 \\mathrm { g }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$6 . 2 5 \\ : \\mathrm { m m o l } )$ 、二异丙基乙基胺(2.9 mL，16.64mmol)溶解于 $3 0 \\mathrm { m L } N \\mathrm { . }$ 甲基吡咯烷酮，然后油浴 $1 4 0 ^ { \\circ } \\mathrm { C }$ 搅拌2小时，TLC检测显示反应完全。将反应液倒至碎冰中搅拌产生黄色沉淀，经水、乙醚洗涤后，得黄色固体，干燥后称重 $1 . 9 5 \\ \\mathrm { g }$ ，收率 $9 0 . 2 \\%$ 。${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR $( 4 0 0 ~ \\mathrm { \\ M H z }$ ，DMSO,ppm) S: 7.83-7.80 (m,2H)，7.72-7.67 (m，3H),7.56-7.52 (m, 1H), 7.36 (t, $J { = } 7 . 6 ~ \\mathrm { H z }$ , 1H), 7.14 (d, $J { = } 7 . 6 ~ \\mathrm { H z }$ , 1H), 5.54 (AB q, $J =$ $2 4 . 8 \\ : \\mathrm { H z }$ ， $1 6 . 8 \\ \\mathrm { H z }$ ，2H), 4.49-4.41 (m,1H), 3.50 (s, 3H), 3.42-3.35 (m, 2H), 3.33-3.30(m,1H),3.03-2.96 (m,1H), 2.46-2.34 (m,1H),1.90-1.87 (m,1H),1.80-1.78 (m, 2H).",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.4化合物13a的制备方法",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将化合物12( $\\mathrm { 2 0 0 ~ m g }$ ， $0 . 3 9 \\mathrm { m m o l } \\mathrm { \\Omega } ,$ 溶解于 $5 \\mathrm { m L } N , N -$ 二甲基甲酰胺，加入碳酸钾 $( 8 6 . 2 \\mathrm { m g } \\$ ， $0 . 6 2 \\mathrm { m m o l } ;$ ，室温搅拌下滴加入氯甲基环丙烷 $( 5 8 . 3 \\mathrm { m g } \\$ ， 0.5 mmol),继续室温搅拌过夜，TLC检测显示反应完全。反应液倒至碎冰中搅拌产生白色沉淀，抽滤后得到的滤饼用正己烷洗涤后得白色固体，干燥后称重 $1 3 0 \\ \\mathrm { \\ m g }$ ，收率$5 8 . 8 \\%$ 。 $\\mathrm { ^ 1 H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) 8: 7.83-7.80 (m, 2H), 7.74-7.68 (m, 3H),7.53 (t, $J { = } 7 . 6 \\mathrm { H z }$ ,1H), 7.36 (t, $J { = } 7 . 6 \\mathrm { H z }$ ,1H), 7.12 (d, $J { = } 8 . 0 \\mathrm { H z }$ , 1H), 5.59 (AB q,$J = 2 4 . 0 \\ : \\mathrm { H z }$ ， $1 6 . 8 \\ \\mathrm { H z }$ ,2H), 4.50-4.44 (m, 1H), 3.85 (q, $J = 7 . 2 \\ \\mathrm { H z }$ ,2H), 3.56 (s, 3H),3.40-3.36 (m, 1H), 3.31-3.28 (m, 1H)， 3.03-2.96 (m,1H)， 2.45-2.40 (m, 1H),1.91-1.88 (m,1H), 1.82-1.78 (m,1H), 1.27-1.24 (m, 2H), 0.44-0.33 (m, 4H) ; MS(ESI): $\\mathrm { m / z 5 6 4 . 3 [ M + H ] ^ { + } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.5化合物13b-f的合成通法(以13f为例)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将化合物12( $\\mathrm { 2 0 0 ~ m g }$ ， $0 . 3 9 \\mathrm { \\ m m o l } \\mathrm { \\Omega } .$ 溶解于 $4 \\mathrm { m L } N .$ 甲基吡咯烷酮，加入碳酸钠 （2号 $( 5 6 ~ \\mathrm { m g }$ ， $0 . 5 2 \\mathrm { m m o l } ;$ ，室温搅拌下滴加入2-氯甲基喹啉 $( 7 6 . 4 \\mathrm { m g }$ ， $0 . 4 3 ~ \\mathrm { m m o l } ;$ ，然 后油浴 $1 5 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ 搅拌2小时，TLC检测显示反应完全。将反应液倒至碎冰中搅拌产 生黄色沉淀，抽滤，用水、乙醚洗涤一次，然后用二氯甲烷溶解。所得二氯甲烷 溶液依次用饱和食盐水洗涤、无水硫酸钠干燥，过滤，浓缩，经200-300目硅胶、 石油醚-乙酸乙酯(1:1)的色谱柱分离纯化得到黄色固体，干燥后称重 $8 0 \\mathrm { m g }$ ，收率 $3 1 . 4 \\%$ 。 $\\mathrm { ^ { 1 } H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 8.05 (d, $J { = } 8 . 5 \\mathrm { H z }$ ,1H), 7.99 (d, $J = 8 . 5$ Hz, 1H), 7.83-7.82 (m, 2H), 7.75-7.71 (m, 3H), 7.66-7.62 (m, 2H), 7.51 (t, $J { = } 8 . 0 \\mathrm { H z }$ 1H), 7.46 (t, $J = 7 . 5 \\ : \\mathrm { H z }$ , 1H), 7.33 (d, $J = 7 . 5 \\ : \\mathrm { H z }$ , 1H), 7.27-7.26 (m, 1H), 7.18 (d, $J =$ $8 . 0 \\mathrm { H z }$ ，1H), 5.60 (AB q, $J = 3 1 . 0 \\mathrm { H z }$ ， $1 6 . 5 \\mathrm { H z }$ ,2H), 5.47 (s, 2H), 4.51-4.46 (m, 1H) 3.58 (s,3H), 3.45-3.43 (m,1H), 3.39-3.33 (m,2H), 3.06-3.03 (m,1H), 2.45-2.41 (m, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1H), 2.38-2.35 (m,1H), 2.03-2.00 (m, 1H), 1.92-1.89 (m, 1H) ; MS (ESI): m/z 651.1$\\scriptstyle { [ \\mathrm { M } + \\mathrm { H } ] } ^ { + }$ ：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2.6化合物 $\\mathbf { 1 3 g }$ 的制备方法",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将化合物11（ $9 1 . 5 ~ \\mathrm { { m g } }$ ，0.236 mmol)和(R)-2-(3-哌啶基)异二氢吲哚-1,3-二酮 （20 $\\left( 8 1 . 4 \\mathrm { m g } \\right.$ ， $0 . 3 5 4 \\mathrm { m m o l } ;$ 溶解于 $1 0 \\mathrm { m L } N -$ 甲基吡咯烷酮，室温加入二异丙基乙基胺 （20 $( 0 . 2 \\mathrm { m L } , \\ 3 \\mathrm { m L } )$ ，然后油浴 $1 4 0 ^ { \\circ } \\mathrm { C }$ 搅拌2小时，TLC检测显示反应完全。反应液倒 至碎冰中产生黄色沉淀，经水、乙醚洗涤后得黄色固体，干燥后称重 $1 0 2 { \\mathrm { m g } }$ ，收 率 $8 0 . 3 \\%$ 。 $\\mathrm { ^ 1 H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 8.00 (d, $J { = } 8 . 0 \\mathrm { H z }$ ,1H), 7.87-7.76 (m, 4H), 7.73-7.71 (m, 2H), 7.65 (d, $J = 7 . 6 ~ \\mathrm { H z }$ ，1H), 7.51 (dd, $J = 1 4 . 8 ~ \\mathrm { H z } ~ 7 . 6 ~ \\mathrm { H z } , 2 \\mathrm { H } )$ ， 7.32 (t, $J = 7 . 6 ~ \\mathrm { H z }$ , 1H), 7.18 (d, $J = 8 . 0 \\ : \\mathrm { H z }$ , 1H),5.61 (AB q, $J = 2 7 . 2 ~ \\mathrm { H z }$ ， $1 6 . 8 ~ \\mathrm { H z }$ 2H), 5.52 (s,2H), 4.53-4.45 (m,1H), 3.60 (s, 3H), 3.46-3.32 (m, 3H), 3.06-2.99 (m, 1H), 2.87 (s,3H), 1.92-1.89 (m, 1H) ; MS (ESI): $\\mathrm { m / z 6 6 6 . 3 [ M + H ] ^ { + } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2.7化合物8a-g的合成通法(以8a为例)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将化合物13a ( $\\mathrm { 1 3 0 ~ m g }$ ， $0 . 2 3 ~ \\mathrm { m m o l } ;$ 悬浮于 $2 ~ \\mathrm { m L }$ 甲苯中，油浴 $8 0 ~ ^ { \\circ } \\mathrm { C }$ 下搅拌、滴加 $0 . 2 \\mathrm { m L }$ 乙醇胺。滴加完毕后，油浴升至 $9 0 ^ { \\circ } \\mathrm { C }$ ，继续搅拌直至TLC检测显示反应完全。反应液冷却后加入 $5 0 ~ \\mathrm { m L }$ 水，所得混合液用 $1 5 0 ~ \\mathrm { m L }$ 二氯甲烷分三次萃取，合并有机相，无水硫酸钠干燥，浓缩后得黄色固体，干燥后称重 $7 8 . 9 \\mathrm { \\ m g }$ ，收率$8 5 . 8 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8a:浅黄色固体，收率 $8 5 . 8 \\%$ 。 ${ } ^ { 1 } \\mathrm { H } \\cdot$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 7.69 (d, $J =$   \n7.6 Hz, 1H), 7.54 (t, $J { = } 7 . 6 \\mathrm { H z }$ ,1H), 7.39 (t, $J { = } 7 . 6 \\mathrm { H z }$ , 1H), 7.13 (d, $J { = } 8 . 0 \\mathrm { H z }$ ,1H),  \n5.58 (AB q, $J = 2 1 . 2 ~ \\mathrm { H z }$ ， $1 6 . 8 ~ \\mathrm { H z }$ ，2H)，3.84 (q， $J = 7 . 2 ~ \\mathrm { H z }$ ，2H),3.56 (s,3H),  \n3.34-3.31 (m, 1H)，3.19-3.16 (m,1H)， 2.96-2.86 (m,2H)，2.71-2.66 (m,1H),  \n1.94-1.89 (m,1H)，1.76-1.71 (m，1H)，1.66-1.56 (m，1H)，1.27-1.18 (m，2H),  \n0.43-0.33 (m, 4H); $^ { 1 3 } \\mathrm { C }$ -NMR (125 MHz, $\\mathrm { C D C l } _ { 3 }$ ， ppm) 8: 156.97, 154.55,151.64,  \n147.99,140.57, 133.28, 132.87, 128.09, 127.02, 116.85, 110.50, 104.92, 58.46, 50.73,  \n47.13,47.02, 45.32, 33.36, 29.64, 23.19, 10.09,3.67; MS (ESI): $\\mathrm { m / z 4 3 4 . 2 [ M + H ] ^ { + } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8b:浅黄色固体，收率 $9 4 . 1 \\%$ 。 ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR (400 MHz, CDCl3, ppm) δ: 7.66 (d, $J =$ $8 . 0 \\mathrm { H z }$ ,1H), 7.51 (t, $J { = } 7 . 6 \\mathrm { H z }$ , 1H), 7.36 (t, $J { = } 7 . 6 \\mathrm { H z }$ , 1H), 7.10 (d, $J { = } 7 . 6 \\mathrm { H z }$ ，1H),5.54 (AB q, $J = 2 1 . 6 ~ \\mathrm { H z }$ ， $1 6 . 8 ~ \\mathrm { H z }$ ，2H),3.78 (d, $J = 7 . 2 ~ \\mathrm { H z }$ ，2H),3.52 (s,3H),3.34-3.30 (m, 1H)，3.18-3.14 (m，1H)，2.94-2.84 (m，2H)，2.70-2.64 (m，1H),",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.91-1.87 (m,1H)，1.76-1.68 (m,2H)，1.63-1.54 (m, 2H); $^ { 1 3 } \\mathrm { C }$ -NMR (125 MHz,CDCl3，ppm) 8: 157.01, 154.65,151.61，147.91，140.55，133.25，132.86,128.07,127.07, 116.83, 110.48, 104.80, 58.43, 50.71, 47.09, 46.70, 36.45,33.35, 30.61, 29.66,26.28,25.75, 23.19; MS (ESI): $\\mathrm { m } / \\mathrm { z } 4 7 6 . 2 \\ : [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8c:浅黄色固体，收率 $8 9 . 1 \\%$ 。 $\\mathrm { ^ 1 H }$ -NMR (400 MHz, CDCl3, ppm) S: 7.69 (d, $J =$ 7.5 Hz, 1H), 7.54 (t, $J = 7 . 5 \\ : \\mathrm { H z }$ ,1H),7.42-7.38 (m,3H), 7.28-7.20 (m,3H),7.13 (d, J$= 7 . 5 ~ \\mathrm { H z }$ ，1H), 5.59 (AB q, $J = 2 5 . 0 ~ \\mathrm { H z }$ ， $1 7 . 0 ~ \\mathrm { H z }$ ,2H), 5.14 (s,2H), 3.54 (s, 3H),3.37-3.33 (m, 1H)， 3.21-3.18 (m, 1H)， 2.92-2.88 (m,2H)， 2.71-2.67 (m，1H),2.04-1.99 (m,1H)，1.92-1.89 (m，1H)，1.74-1.71 (m,1H)，1.64-1.59 (m,2H);（204号 $^ { 1 3 } \\mathrm { C } .$ NMR (125 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 157.06,154.26,151.43,148.11,140.44,137.46,133.29，132.88，128.60,128.20，128.12，127.24，127.04，116.82，110.50，104.81,58.25, 50.62, 47.07, 44.06, 33.22, 29.68, 29.57, 23.13; MS (ESI): $\\mathrm { m } / \\mathrm { z } 4 7 0 . 2 \\ : [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8d:浅黄色固体，收率 $8 9 . 6 5 \\%$ 。 $\\mathrm { ^ 1 H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) δ: 7.69 (d, J$= 7 . 6 ~ \\mathrm { H z }$ ,1H), 7.54 (t, $J = 7 . 6 ~ \\mathrm { H z }$ ，1H), 7.43-7.38 (m, 3H), 7.11 (d, $J = 8 . 0 \\ \\mathrm { H z }$ ，1H),6.93 (t, $J = 8 . 4 ~ \\mathrm { H z }$ ,2H), 5.57 (AB q, $J = 2 2 . 0 \\ : \\mathrm { H z }$ ， $1 6 . 8 \\mathrm { H z }$ ，2H),5.08 (s,2H), 3.53 (s,3H), 3.35-3.32 (m, 1H), 3.20-3.17 (m, 1H), 2.94-2.86 (m, 2H), 2.70-2.65 (m, 1H),1.93-1.89 (m,1H)，1.75-1.69 (m,1H)，1.64-1.54 (m,2H); $^ { 1 3 } \\mathrm { C }$ -NMR (125MHz,$\\mathrm { C D C l } _ { 3 }$ , ppm) 8: 163.02(0.5C), 161.07(0.5C), 157.15, 154.17, 151.41, 148.18, 140.43,133.28，132.92，130.69，130.63，128.16,127.00,116.80,115.06,114.88,110.54,104.80, 58.36, 50.61, 47.12, 47.10, 43.35, 33.35, 29.70, 23.17; MS (ESI): m/z 488.3$\\mathrm { [ M \\mathrm { + H } ] } ^ { + }$ ：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8e:浅黄色固体，收率 $5 9 . 3 \\%$ 。 $^ 1 \\mathrm { H }$ NMR (400 MHz, CDCl3, ppm) δ: 7.64 (d, $J =$ 7.6 Hz, 1H), 7.51-7.47 (m, 3H), 7.35 (t, $J { = } 7 . 6 \\mathrm { H z }$ ,1H), 7.15-7.12 (m, 2H), 7.08 (d, J$= 8 . 0 ~ \\mathrm { H z }$ ， 1H), 5.45 (AB q, $J = 2 6 . 0 ~ \\mathrm { H z }$ ， $1 6 . 8 ~ \\mathrm { H z }$ ,2H),5.36 (s, 2H), 3.48 (s, 3H)3.38-3.36 (m,1H)，3.15-3.12 (m，1H)， 2.97-2.92 (m，1H)， 2.88-2.81 (m，1H),2.77-2.71 (m,1H)，1.91-1.88 (m，1H)，1.72-1.68 (m,1H)，1.59-1.50 (m,1H),1.31-1.18 (m,1H); $^ { 1 3 } \\mathrm { C }$ -NMR (125 MHz, $\\mathrm { C D C l } _ { 3 }$ ， ppm) 8: 157.12, 153.87, 151.48,149.97，148.39,140.04，133.38，132.96, 128.25，127.24，122.39，116.82， 110.34,104.78, 57.27, 50.56, 47.08, 46.89, 38.43, 32.43, 29.79, 22.92; MS (ESI): m/z 510.2$\\mathrm { [ M \\mathrm { + H } ] } ^ { + }$ ：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8f:深黄色固体，收率 $7 6 . 6 \\%$ 。 $\\mathrm { ^ 1 H }$ -NMR (400 MHz, CDCl3, ppm) δ: 8.05 (d, $J =$ $8 . 5 ~ \\mathrm { H z }$ ,1H), 7.98 (d, $J = 8 . 5 ~ \\mathrm { H z }$ ,1H),7.74 (d,J= 8.0 Hz,1H), 7.66-7.61 (m, 2H) 7.51 (t, $J = 7 . 5 \\ : \\mathrm { H z }$ , 1H), 7.45 (t, $J = 7 . 5 \\ : \\mathrm { H z }$ , 1H), 7.36 (t, J = 7.5 Hz, 1H), 7.27 (d, $J =$ $6 . 5 \\mathrm { H z }$ ,1H), 7.18 (d, $J = 7 . 5 \\ : \\mathrm { H z }$ ,1H), 5.59 (AB q, J= 25.0 Hz, $1 7 . 0 \\mathrm { H z }$ ,2H),5.47 (s, 2H), 3.58 (s,3H), 3.39-3.35 (m,1H), 3.24-3.22 (m,1H), 2.95-2.91 (m,2H),2.74-2.70 (m,1H), 2.04-1.99 (m,1H),1.93-1.91 (m,1H),1.76-1.69 (m,1H); $^ { 1 3 } \\mathrm { C }$ -NMR(125 MHz, $\\mathrm { C D C l } _ { 3 }$ , ppm) 8: 157.04, 156.82, 154.30, 151.60, 148.31, 147.61,140.32, 136.45, 133.28, 132.81, 129.12(2C), 128.07,127.32, 127.09, 125.87,118.78, 116.80, 110.40, 104.79, 58.10, 50.62, 47.05, 46.24, 33.08, 29.76, 29.55, 23.09; MS (ESI): m/z 521.3 （204 $\\scriptstyle { [ \\mathrm { M } + \\mathrm { H } ] } ^ { + }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8g:深黄色固体，收率 $6 6 . 2 \\%$ 。 $^ 1 \\mathrm { H }$ -NMR (400 MHz, CDCl3, ppm) δ: 7.98 (d, $J =$ 8.4 Hz, 1H), 7.83 (d, $J = 8 . 4 ~ \\mathrm { H z }$ ，1H),7.77-7.73 (m,1H), 7.62 (d, J= 7.6 Hz,1H), 7.52-7.47 (m, 2H), 7.34-7.31 (m, 1H), 7.17 (d, J= 7.6 Hz, 1H), 5.58 (AB q, $J = 2 2 . 0$ Hz, $1 6 . 8 ~ \\mathrm { H z }$ ,2H), 5.50 (s,2H), 3.57 (s,3H),3.42-3.40 (m,1H), 3.20-3.17 (m,1H), 3.06-3.01 (m,1H), 2.95-2.89 (m, 1H), 2.85 (s, 3H), 2.82-2.79 (m,1H), 1.94-1.92 (m, 1H),1.76-1.73 (m,1H),1.65-1.57 (m,1H),1.34-1.32 (m,1H); $^ { 1 3 } \\mathrm { C }$ -NMR (125 MHz, $\\mathrm { C D C l } _ { 3 }$ ，ppm）8: 168.47，160.72,156.17,154.50,151.64，149.75,147.89,140.18, 133.38，133.21， 132.90,128.62，128.17, 127.44,126.68，124.78,123.00,117.06, 110.47,105.04, 54.14, 53.36, 51.21, 46.84, 46.22, 29.82, 29.57, 22.08, 21.66; MS (ESI): $\\mathrm { m / z } 5 3 6 . 2 \\left[ \\mathrm { M } + \\mathrm { H } \\right] ^ { + }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.3生物学抑制活性的测定",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "将待测化合物溶解于DMSO中并配置成8-10个不同浓度的母溶液 $( { \\leq } 1 0 ~ \\mu \\mathbf { M }$ 终浓度)。向 $1 0 0 ~ \\mu \\mathrm { L }$ 人类DPP-IV酶/DPP-VIII酶/DPP-IX酶 ${ \\mathrm { . 0 . 1 ~ n M / L } }$ ，终浓度)的反应体系中加入上述不同浓度的待测化合物溶液。在 $3 7 ^ { \\circ } \\mathrm { C }$ 预孵育10分后，向反应体系中加入高灵敏荧光底物Gly-Pro-AMC(H-glycyl-prolyl-7-amino-4-methylcoumarin; Sigma-Aldrich， $1 0 \\mu \\mathrm { M }$ ，终浓度)启动反应并在 $4 0 0 \\mathrm { n m }$ (激发光)和$5 0 5 \\mathrm { n m }$ (发射光)两个波长下检测体系发光强度。使用标准数学模型通过酶动力学曲线计算抑制常数 $\\mathrm { I C } _ { 5 0 }$ [5,18]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "b奓丐乂 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1](a） Savkur RS，Miller AR. Investigational PPAR-gamma agonists for the treatment of Type 2 diabetes [J]. Expert Opinion on Investigational Drugs, 2006,15 (7): 763-778; (b) Li YQ， Feng ZQ，Song HR，et al. Advances in the study of glucokinase and small molecule glucokinase activators [J]. Acta Pharmaceutica Sinica (药学学报),2006,41 (5): 390-394.   \n[2] Alvaro F. Current treatment of diabetic nephropathy in patients with type II diabetes mellitus. Most recent progress [M]. Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia, 2001,21 Suppl 3: 76-82.   \n[3] Tang L， Yang YS, Ji RY. Progress in studies on antidiabetic agents [J]. Acta Pharmaceutica Sinica (药学学报)， 2001, 36 (9): 711-715.   \n[4] Ahren B，Schmitz O. GLP-1 receptor agonists and DPP-4 inhibitors in the treatment of type 2 diabetes [J]. Hormone and Metabolic Research,2004,36 (11-12): 867-876.   \n[5] Thornberry NA，Weber AE. Discovery of JANUVIA (Sitagliptin),a selective dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes [J]. Current Topics in Medicinal Chemistry, 2007,7 (6): 557-568.   \n[6] Ristic S,Bates PC. Vildagliptin: a novel DPP-4 inhibitor with pancreatic islet enhancement activity for treatment of patients with type 2 diabetes [J]. Drugs of Today, 2006, 42 (8): 519-531.   \n[7] Augeri DJ,Robl JA, Betebenner DA, et al. Discovery and preclinical profile of Saxagliptin (BMS-477118): a highly potent, long-acting, orally active dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes [J]. Journal of Medicinal Chemistry, 2005, 48 (15): 5025-5037.   \n[8] Feng J, Zhang Z, Wallace MB, et al. Discovery of alogliptin: a potent, selective, bioavailable,and efficacious inhibitor of dipeptidyl peptidase IV [J]. Journal of Medicinal Chemistry, 2007, 50 (10): 2297-2300.   \n[9] Eckhardt M, Langkopf E, Mark M, et al. 8-(3-(R)-aminopiperidin-1-yl)-7-but-2-ynyl-3-methyl   \n-1-(4-methyl-quinazolin-2-ylmethyl)-3,7-dihydropurine-2,6-dione (BI 1356),a highly potent， selective, long-acting，and orally bioavailable DPP-4 inhibitor for the treatment of type 2 diabetes [J]. Journal of Medicinal Chemistry， 2O07,50 (26): 6450-6453.   \n[10]Noh YH,Lim HS, Jin SJ,et al. Effects of ketoconazole and rifampicin on the pharmacokinetics of gemigliptin,a dipeptidyl peptidase-IV inhibitor: a crossover drug-drug interaction study in healthy male Korean volunteers [J]. Clinical Therapeutics,2012,34 (5): 1182-1194.   \n[11] Yoshida T,Akahoshi F, Sakashita H,et al. Discovery and preclinical profile of teneligliptin   \n(3-[(2S,4S)-4-[4-(3-methyl-1-phenyl-1H-pyrazol-5-yl)piperazin-1-yllpyrrolidin-2-ylc arbonyl]thiazolidine): a highly potent， selective,long-lasting and orally active dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes [J]. Bioorganic & Medicinal Chemistry, 2012, 20 (19): 5705-5719.   \n[12]Zeng SG, Xie H, Zeng LL, et al. Discovery of potent dipeptidyl peptidase IV inhibitors through pharmacophore hybridization and hit-to-lead optimization [J]. Bioorganic & Medicinal Chemistry, 2013, 21 (7): 1749-1755.   \n[13](a) Lloyd DG, Buenemann CL, Todorov NP, et al. Scaffold hopping in de novo design. Ligand generation in the absence of receptor information [J]. Journal of Medicinal Chemistry, 2004,47 (3): 493-496; (b) Schneider G, Neidhart W, Giller T, et al. \"Scaffold-Hopping\" by Topological Pharmacophore Search: A Contribution to Virtual Screening [J]. Angewandte Chemie, 1999,38(19): 2894-2896.   \n[14]Deng JF, Peng L, Zhang GC, et al. The highly potent and selective dipeptidyl peptidase IV inhibitors bearing a thienopyrimidine scaffold effectively treat type 2 diabetes [J]. European Journal of Medicinal Chemistry,2O11,46 (1): 71-76.   \n[15]Xie H, Zeng LL, Zeng SG, et al. Novel pyrrolopyrimidine analogues as potent dipeptidyl peptidase IV inhibitorsbased on pharmacokinetic property-driven optimization [J]. European Journal of Medicinal Chemistry, 2O12, 52: 205-212. [16] Deng JF, Peng L, Zhang GC, et al. The highly potent and selective dipeptidyl peptidase IV inhibitors bearing a thienopyrimidine scaffold effectively treat type 2 diabetes [J]. European Journal of Medicinal Chemistry, 2O11, 46: 71-76.   \n[17](a) Guo ZR. Strategy of molecular drug design: hits, leads and drug candidates [J]. Acta Pharmaceutica Sinica (药学学报), 2008,43 (9): 898-904; (b) Guo ZR. Strategy of molecular design of drugs: the unification of macro-properties and micro-structures of a molecule [J]. Acta Pharmaceutica Sinica (药学学报), 2008, 43 (3): 227-233; (c) Guo ZR. Strategy of molecular drug design: activity and druggability [J]. Acta Pharmaceutica Sinica(药学学报),2010, 45 (5), 539-547.   \n[18] Scharpe S, De Meester I, Vanhoof G, et al. Assay of dipeptidyl peptidase IV in serum by fluorometry of 4-methoxy-2-naphthylamine [J]. Clinical Chemistry,1988, 34 (11): 2299-2301. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

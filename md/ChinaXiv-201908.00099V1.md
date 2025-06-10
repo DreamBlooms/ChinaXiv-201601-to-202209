@@ -1,0 +1,169 @@
+# 树冠覆膜对金柑光合作用及果实品质的影响
+
+范七君』2，陈传武¹²，邓崇岭1,2\*，，刘萍¹²，牛英』²，唐艳（1．广西柑橘生物学重点实验室/广西特色作物研究院，广西 桂林 541004;2.广西柑桔育种与栽培工程技术研究中心，广西 桂林 541004)
+
+摘要：树冠覆膜技术已在金柑生产中被广泛地应用，该研究以阳朔金柑为试验材料，树冠覆膜为处理、不覆膜为对照，分别测定了处理和对照的树冠的温度、湿度和光照强度等环境因子的变化；观测了处理和对照的叶面积、叶长、叶宽及叶绿素含量；测定了处理和对照的净光合速率、气孔导度、蒸腾速率和胞间二氧化碳浓度等光合作用指标；分析了处理和对照的果实硬度、可溶性固形物、总糖、可滴定酸及维生素C含量等果实品质指标。结果表明：与对照相比，金柑树冠覆膜处理后，树冠的光照强度降低、温度上升、湿度下降，叶面积增大，叶绿素的含量提高，净光合速率下降且最大降幅到达对照的 $2 1 . 3 9 \%$ ，果实的可滴定酸降低，果实硬度、可溶性固形物、总糖、固酸比及糖酸比等果实品质指标提高。金柑树冠覆膜处理减少了树冠的光照，降低了净光合速率，但增加了叶面积和叶绿素含量，从而保障了光合同化物的累积，提高了果实的可溶性固形物和总糖；同时树冠覆膜提高了树冠白天的气温，降低了可滴定酸，增大了固酸比和糖酸比，总体上提高了果实品质。
+
+关键词：金柑，树冠覆膜，光合特性，果实品质，温湿度，光照强度中图分类号：S666.9 文献标识码：A 文章编号：
+
+# Influences of canopy film-covering on photosynthesis and fruits qualities in kumquat
+
+FAN Qijun1²，CHENChuanwu1²，DENG Chongling1.2，LIU Ping1.2 NIU Ying1’ ²， TANG Yan1
+
+( Guangxi Key Laboratory of Citrus Biology /Guangxi Academy of Specialty Crops， Guilin 541004， Guangxi, China;² Guangxi Engineeing Research Center of Citrus Breeding and Culture,Guilin 541004,Guangxi,China)
+
+Abstract: The canopy film-covering technology had been widely used in kumquat cultivation management, in this experiment, taking Yangshuo kumquat as experimental materials, the temperature,humidity,and light intensity of the canopy and the leaf areas,leaf length, leaf width, the chlorophyll contents in leaf of both the trees with (treatment） or without (control) canopy film-covering were measured,and the measured parameters also contained the photosynthetic parameters including net photosynthetic rate， stomatal conductance， transpiration rate，and intercellular carbon dioxide,likewise, the fruits firmness,the contents of total soluble solids(TSS), total sugar(TS),titratable acid(TA) and vitamin C(Vc) in fruits were also measured. The results showed that, compared with the control trees,the temperature was increased,the light intensity and humidity was decreased of the canopy film-covering trees; the leaf areas and chlorophyll contents in the leaf of the canopy film-covering trees were higher compared with the control trees; the net photosynthetic rate of the trees with canopy film-covering was smaller than that in the control trees and the maximum drop up to $2 1 . 3 9 \%$ compared to the control; the canopy film-covering trees had a lower TA, higher fruits firmness, TSS,TS, TSS/TA and TS/TA than that in the fruits of the control trees. Although having a lower light intensity and net photosynthetic rate,the canopy film-covering trees had a greater leaf areas and chlorophyll contents in the leaf so as to satisfying the accumulation of products of photosynthesis,as a result, the TSS, TS in the fruits of canopy film-covering trees was higher than that in the control trees; result from a higher day temperature in the canopy, the fruits TA of the canopy film-covering trees was smaller than that of the control trees and lead to a higher TSS/TA and TS/TA. Generally speaking, canopy film-covering had improved the fruits qualities of kumquat.
+
+Key Words: Kumquat， Canopy film-covering，Photosynthetic characters， Fruits qualities, Temperature and humidity, Light intensity
+
+金柑(Fortunella crassifolia Swingle)是广西的特色柑橘种类之一，2017年全区已经发展到 25.52 万亩，产量 28.28万吨，成为阳朔、融安等金柑主产区农民致富的支柱水果产业之一。树冠覆膜技术已在金柑栽培中广泛应用，树冠覆膜可以延长金柑的留树保鲜时间拉长上市期，提高价格从而增加果农的经济效益。然而，关于树冠覆膜对金柑的光合作用及果实品质的影响，少见报道。
+
+覆膜技术已在金柑、杨梅等多种作物中广泛应用（覃光秀等，2008；张瑞华等，2007)，尤其是在金柑上的应用，大大降低了裂果率，且能保持较好的果实品质（区善汉等，2010；梅正敏等，2012；李明娟等，2012)。树冠覆膜提高了沙糖橘、贡柑在留树贮藏后期的可溶性固形物的含量（麦适秋等，2014；张社南等，2014)。光合作用是影响果实糖酸累积的重要生理过程，对果实品质的形成有基础性作用。树冠覆膜等很多栽培措施，都会影响果树的光合作用。塑料大棚避雨栽培的朋娜脐橙，其叶片的净光合速率（ $P n$ ）、气孔导度（ $G s$ ）、胞间二氧化碳浓度 $( C i )$ 和蒸腾速率 $( T r )$ ，都低于露地栽培对照树的数值（唐玉琴，2013）。荫蔽处理会造成大豆、草莓等植物叶片净光合速率的降低（李淑贤等，2018；彭鑫等，2018）。绿色、红色等有色薄膜覆盖能够提高姜叶片的光合速率（张瑞华等，2007)。
+
+有关树冠覆膜对金柑树体环境及果实品质的影响，国内已有报道，但对树冠覆膜对金柑树体环境、叶片形态、光合作用及果实品质的综合研究报道较少。本研究探讨了树冠覆膜对金柑光合作用及果实品质的影响，可为生产上在树冠覆膜条件下，如何采取措施提高光合作用效率进而改善果实品质，提供必要的理论支持。
+
+# 1．材料与方法
+
+# 1.1 试验材料
+
+该试验于 2017-2018 年，在广西桂林市阳朔县白沙镇进行，选取长势一致健康的 15 a生的实生金柑树，完整健康的叶片采集于未挂果的春梢，果实样品大小基本一致，表面无机械损伤，采集于树冠的中部、上部及外围的东南西北4个方向。
+
+# 1.2 试验方法
+
+# 1.2.1 试验设计
+
+于2017年12月10日至2018年3月31日，在向南坡向且坡度一致的果园的中部，随机选取20株长势一致的金柑树，其中10株树，树冠覆膜；另外10株树，不覆膜做为对照。于 2018年3月 20-21日晴朗无风的天气，连续2天测定春梢上的无病虫害和机械损伤的完整功能叶的光合作用的日变化。
+
+于 2018年3月21日，每个处理从每株树树冠的中部、上部及东南西北4个方向各采1个大小相近、健康完整的果实，每株树采6个，每个处理10 株树共采60个果实，随机分成3份，作为3次重复，用于果实品质分析。每个处理从每株树树冠的中部、上部及东南西北4个方向各采1片叶片，每株树采6片，每个处理10株树共采叶样60片，30片用于叶绿素含量的测定，30 片用于叶面积等形态指标测定。用于叶绿素和形态指标测定的叶片，均随机分成3份，作为3次重复。各处理在树冠中部放置1个温湿度光照度自动记录仪，记录温度，湿度和光照度。
+
+# 1.2.2 指标测定
+
+光合作用指标，用Li-6400 便携式光合仪测定。以自然光作光源，气体流速设定为$5 0 0 \mathrm { m l \cdot { \ m i n } ^ { - 1 } }$ ,于早上9:00到下午17:00，每1小时测定1次，每次测定3株，每株随机选择树冠外围中上部当年生春梢从上往下数第3-5片无病虫害和机械损伤的完整功能叶3片，每片叶子重复记录3个观测值，取其平均值作为该时刻的测定值。
+
+果实品质分析，采用常规生化分析方法。可溶性固形物，用手持测糖仪测定。可滴定酸用滴定法。总糖和还原糖用3,5-二硝基水杨酸比色法等测定。维生素C用2，6-二氯酚靛酚滴定法测定。果实的纵横经，用游标卡尺测定。单果重用千分之一天平测定。果实硬度用硬度计（GY-1）测定。
+
+叶绿素含量的测定，用分光光度计比色法。把样品置于 $8 0 \%$ 的丙酮中研磨成粉末状后离心，取上清液，在分光光度计上分别读取 $6 6 3 \ \mathrm { n m }$ ， $6 4 5 ~ \mathrm { m n }$ 波长的吸光值 $\mathrm { A } _ { 1 }$ ，A2，根据公式计算叶绿素的浓度C $\mathrm { ( C { = } 2 0 . 3 1 \times A _ { 2 } + 8 . 0 5 \times A _ { 1 } }$ ），再根据样品质量计算出叶片的叶绿素含量。
+
+叶面积等叶片形态指标的测定。叶面积用激光叶面积仪（美国CID公司，CI-203）测定。叶片的长度、宽度和厚度，均用游标卡尺测定。
+
+树冠环境指标的测定。试验树冠周围的温度、湿度和光照度，用温湿度光照度自动记录仪（路格L99-LXWS）记录。自动记录仪固定在树冠中部，记录频率设为每小时一次。图1，图2和图3的数据，是2018年3月20日的观测值。
+
+# 1. 3 数据统计分析
+
+试验数据用Exce12010和SAS9.0进行统计分析。
+
+# 2. 结果与分析
+
+# 2.1树冠覆膜对树冠环境因素的影响
+
+由表1可知，在树冠覆膜期间，覆膜处理树冠的月平均温度均高于不覆膜对照的，最大温差在2017年12月，达到 $0 . 9 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ；覆膜处理树冠的月平均湿度一直小于对照的，2018 年1-3月的湿度差异显著，且最大差值有5.79个百分点，出现在2018年3月；覆膜处理树冠的月平均光照度均显著小于对照的，最大光照度差值为2018年2月的0.88千勒克斯（klx)。
+
+表1树冠覆膜期间对树冠温度湿度和光照的影响  
+Table 1 Influence of canopy film-covering on temperature humidity and light in canopy   
+
+<html><body><table><tr><td></td><td colspan="2">月均温度 Average monthly</td><td colspan="2">月均湿度 Average monthly humidity(%)</td><td colspan="2">月均光照度 Average monthly light intensity(klx)</td></tr><tr><td>月份 Month</td><td>temperature（℃) 覆膜 Fi Im-cover ing</td><td>对照 CK</td><td>覆膜 FiIm-covering</td><td>对照 CK</td><td>覆膜 Fi Im-covering</td><td>对照 CK</td></tr><tr><td>2017年12月 December,2017</td><td>8.41±</td><td>7.51±</td><td>89.51±</td><td>90.89±</td><td>1.41±</td><td>2.16±</td></tr><tr><td></td><td>0.36 a</td><td>0.07 a</td><td>0.26 a</td><td>0.59 a</td><td>0.04 a</td><td>0.01 b</td></tr><tr><td>2018年1月 January，2018</td><td>8.64± 0.51 a</td><td>8.03± 0.49 a</td><td>76.43± 0.24 a</td><td>80.24± 1.03 b</td><td>0.58± 0.04 a</td><td>1.41± 0.04 b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2018年2月 February,2018</td><td>11.92± 0.51 a</td><td>11.34±</td><td>64.06±</td><td>69.06±</td><td>0.81±</td><td>1.69±</td></tr><tr><td></td><td></td><td>0.49 a</td><td>1.15 a</td><td>0.48b</td><td>0.01 a</td><td>0.03b</td></tr><tr><td>2018年3月</td><td>17.55±</td><td>17.35±</td><td>72.07±</td><td>77.87±</td><td>1.14±</td><td>1.95±</td></tr><tr><td>March,2018</td><td>0.16a</td><td>0.19 a</td><td>0.32 a</td><td>0.78 b</td><td>0.01 a</td><td>0.07 b</td></tr></table></body></html>
+
+注：不同小写字母表示处理和对照在0.05水平达到显著差异。下同。 Note:different small letters indicate significant difference at 0.O5 level.The same below.
+
+另外，树冠覆膜对金柑树冠温湿度和光照度的日变化也存在一定影响。如图1可知，与对照相比，树冠覆膜提高了树冠周围的空气温度，且在14:00差异显著，但在22：00至次日6：00差异不大；树冠覆膜降低了树冠周围的空气湿度，且在10:00达到显著性差异（图2）；树冠覆膜同时造成树冠的光照强度显著减少，而且覆膜后树冠的光照强度变化幅度没有对照的大。另外，18:00的光照强度几乎接近零，可能因为，一方面，光照计安放于树冠中部，其上面的枝叶挡住了一部分光照，另一方面，观测当天的18:00 左右，天气转阴，云层变厚，使得本就暗淡的光线更加微弱。（图3)。
+
+![](images/9056c44b0f0231a9ade4cbd7eb04fa9630f18d2b6ccb5676a9c750af9bc1eb5b.jpg)  
+图1树冠覆膜对金柑树冠气温日变化的影响
+
+Fig.1Influence of canopy fiIm-covering on daily change of canopy air temperaturein kumquat 注：“\*”表示处理和对照在0.05水平达到显著差异。图2-图7相同。 Note: （20 $\bullet \ast ^ { \prime }$ indicate significant difference at 0.O5 level. The same for Fig.2 - Fig.7.
+
+![](images/8ebcdd6350ede3be27800d96e531b088c271dd7eae4ee77608bbd7ed74b7af0e.jpg)  
+图2树冠覆膜对金柑树冠空气湿度日变化的影响
+
+Fig.2 Influence of canopy film-covering on daily change of canopy air humidity in kumquat
+
+![](images/992085e138cad41eb09486a1f71fba0d5c0347a6121921ab1f0915e981828818.jpg)  
+图3树冠覆膜对金柑树冠光照强度日变化的影响
+
+Fig.3Influence of canopy film-coveringon daily change of canopy lightintensityin kumquat
+
+2.2树冠覆膜对叶绿素含量和叶片形态的影响
+
+如表2，树冠覆膜后叶片中的叶绿素含量和叶面积显著增加，分别比对照的增加了$2 7 . 3 1 \ \%$ 和 $3 3 . 2 2 \%$ 。树冠覆膜后叶长、叶宽和叶片厚度虽然有所增加，但差异不显著。
+
+表2树冠覆膜对金柑叶绿素含量及叶片形态的影响  
+  
+
+<html><body><table><tr><td colspan="6">Table Tnfluenceof canopy fiTm-coveringonchlorophyll contentand</td></tr><tr><td rowspan="2">处理 Treatment</td><td>叶绿素含量</td><td>叶面积</td><td>叶长</td><td>叶宽</td><td>叶厚</td></tr><tr><td>ChlorophylI content (mg.g-1)</td><td>Leaf are(cm²)</td><td>Leaf length(cm)</td><td>Leaf width(cm)</td><td>Leaf thickness (cm)</td></tr><tr><td>覆膜 Film-cover ing</td><td>3.058±0.06 a</td><td>19.745±0.02 b</td><td>10.755±1.02 a</td><td>3.698±0.10 a</td><td>0.05±0.001 a</td></tr><tr><td>对照 CK</td><td>2.402±0.02 b</td><td>14.821±1.20 b</td><td>9.268±0.22 a</td><td>3.528±0.30 a</td><td>0.044±0.001 a</td></tr></table></body></html>
+
+# 2.3树冠覆膜对光合作用的影响
+
+由图4可知，金柑叶片的净光合速率日变化呈“先升高-再降低-再升高-再降低”的“双峰型”曲线。与对照相比，树冠覆膜降低了叶片的净光合速率，且在10:00、11:00和14:00时有显著差异，分别比对照的降低了 $2 1 . 3 9 \%$ ， $1 9 . 3 5 \ \%$ 和 $12 . 5 7 \%$ 。
+
+图4树冠覆膜对金柑净光合速率日变化的影响  
+![](images/be6b773c3db4de51a07f5c9a4c6e77718c33388dd67564dbdeffbce229eceb12.jpg)  
+Fig.4 lnfluence of canopy fiIm-covering on daily changes of net photosynthetic rate in kumquat
+
+由图5可知，金柑的气孔导度日变化也呈现“双峰型”曲线，覆膜处理在13:00升到最高值，对照在11:00 升到最高值，覆膜和对照都在16:00 降到最低值。树冠覆膜处理的气孔导度，在9:00 和 11:00 小于对照，其他时间均略高于对照，但差异不显著。
+
+图5树冠覆膜对金柑气孔导度日变化的影响  
+![](images/5254ed11967b633a11495a9672ef21c381831b45856823796022f9db417ce27e.jpg)  
+Fig.5 Influence of canopy film-covering on daily changes of stomatal conductance in kumquat
+
+由图6可知，金柑的胞间二氧化碳浓度日变化为“先降低-后升高-再降低-再升高"的“双倒V型”曲线，且在12:00 达到最低值。树冠覆膜处理的胞间二氧化碳浓度大于对照，且在9:00、11:00 和15:00 存在显著差异，分别高于对照10.61 $\%$ ，34.02 $\%$ 和 $1 6 . 9 6 \ \%$ 。
+
+![](images/1aee6d689b9c7f4cf34afdced404acce960df986fefdd4df704ed0c8b5934409.jpg)  
+图6树冠覆膜对金柑胞间二氧化碳浓度日变化的影响 Fig.6 Influence of canopy film-covering on daily changes of intercellular carbon dioxide concentration in kumquat
+
+由图7可知，金柑的蒸腾速率日变化，呈现出先升高再降低，继而又升高又降低的变化趋势。除9:00外，其他时间树冠覆膜的蒸腾速率要大于对照，且在11:00和14:00时差异显著，分别比对照提高 $2 7 . 8 2 \%$ 和 $2 7 . 0 2 \%$ 。
+
+![](images/aef2b4b4a35f44f5edc3784fa772868a83890e1bb941634e26f0283cb8baac67.jpg)  
+图7树冠覆膜对金柑蒸腾作用日变化的影响  
+Fig.7Influence of canopy film-covering on daily changesof transpiration rate in kumquat
+
+# 2.4树冠覆膜对果实品质的影响
+
+由表3看出，与对照相比，树冠覆膜后果实的单果重有所提高；硬度显著增大，比对照
+
+高 $7 . 3 5 \ \%$ ；纵径、横径显著变大，分别比对照增加4.07%和 $5 . 2 5 \ \%$ ，果形指数略有变小。
+
+Table 3 Effect of canopy film-covering on external fruits quality in kumquat   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td rowspan="2">单果重 Single fruit</td><td rowspan="2">硬度 Firmness(</td><td rowspan="2">纵径</td><td rowspan="2">横径(cm) transverse</td><td rowspan="2">果形指数 Fruit figure index</td></tr><tr><td>longitudinal</td></tr><tr><td>覆膜</td><td>weight (g) 45.87±1.97 a</td><td>×10pa), 5.55±0.05 a</td><td>diameter (cm) 3.58±0.24 a</td><td>diameter (cm) 3.21±0.05 a</td><td>1.12±0.01 a</td></tr><tr><td>Fi Im-cover ing 对照</td><td>43. 64±1.90 a</td><td></td><td></td><td></td><td></td></tr><tr><td>CK</td><td></td><td>5.17±0.03 b</td><td>3.44±0.20 b</td><td>3.05±0.07 b</td><td>1.13±0.01 a</td></tr></table></body></html>
+
+由表 4看出，与对照相比，树冠覆膜后果实的可溶性固形物显著增加，比对照增加$5 . 9 6 \%$ ；全糖、还原糖和蔗糖的含量也有所增加。树冠覆膜处理同时降低了果实中的可滴定酸含量，从而提高了固酸比和糖酸比。
+
+表3树冠覆膜对金柑果实外在品质的影响  
+表4树冠覆膜对金柑果实内在品质的影响  
+Table 4 Effect of canopy film-covering on internal fruits quality in kumquat   
+
+<html><body><table><tr><td>处理 Treatment</td><td>可溶性 固形物 Total soluble solids(</td><td>全糖 Total sugar (%)</td><td>还原糖 Reducing Sugar (%)</td><td>蔗糖 Sucrose( %</td><td>可滴定酸 Titratable acid(%)</td><td>Vc Vitamin C(mg.10 0 ml-1)</td><td>固酸比 TSS/TA</td><td>糖酸比 TS/TA</td></tr><tr><td>覆膜 Film-covering</td><td>%） 18.30±</td><td>16.06±</td><td>7.55±</td><td>8.08±</td><td>0.80±</td><td>25.64±</td><td>22.78±</td><td>19.99±</td></tr><tr><td></td><td>1.40 a</td><td>1.66 a</td><td>0.38 a</td><td>0.32 a</td><td>0.09 a</td><td>1.31 a</td><td>2.30a</td><td>3.79 a</td></tr><tr><td>对照</td><td>17.27±</td><td>14.80±</td><td>6.98±</td><td>7.43±</td><td>0.88±</td><td>25.73±</td><td>19.70±</td><td>16.88±</td></tr><tr><td>CK</td><td>0.31 b</td><td>1.04 a</td><td>0.10 a</td><td>0.26a</td><td>0.06a</td><td>2.00 a</td><td>0.91 a</td><td>1.30 a</td></tr></table></body></html>
+
+# 3．讨论与结论
+
+光合作用是植物的重要生理过程，对果树产量和品质的形成都有重要影响，树冠覆膜栽培技术已在柑橘、葡萄等果树中广泛应用，经济效益显著。研究覆膜栽培模式下的光合作用变化规律，对进一步提升其产量和品质，有一定的理论指导意义。前人研究表明，光照是影响光合作用的重要因素之一，光照强度太高或过低，都会影响光合作用，周忆堂等的研究表明，弱光条件下，长春花的实际光量子效率降低(周忆堂等，2008)。李淑贤等人研究发现，荫蔽造成了大豆的净光合速率、气孔导度及蒸腾速率的降低，而胞间二氧化碳浓度增加(李淑贤等，2018)。本试验中无论覆膜与否，金柑叶片的净光合速率日变化均呈“双峰型”曲线，但树冠覆膜显著降低了金柑树冠的光照强度，因此净光合速率下降，这与前人研究结果相似。温度也会对光合作用产生重要影响，不同果树种类其光合作用的适宜温度也不尽相同，高温或低温胁迫都会降低其光合作用能力。本研究中无论覆膜与否，净光合速率都是在一天中温度最高的14:00下降到光合日变化的第一个低谷值，说明高温确实在一定程度上抑制了光合作用。水分是光合作用的原料之一，也是植物体内各种生理生化反应的介质，主要通过影响叶绿体的水合度、光合作用涉及到的酶的活性等从而影响光合作用的。本研究中，覆膜树冠的空气湿度在 2:00至16:00 都比对照的低，在相对干旱的环境下，蒸腾作用增强，叶片散失更多的水分，既减少了作为光合作用原料的水的供应，也降低了参与光合反应相关酶的活性，导致了净光合速率的下降。
+
+植物的生长受到环境的影响，光照、温度、水分等，都会影响果树的生长及形态特征。在光照不足的条件下，果树的叶片形态也会发生相应变化，有人研究发现，遮阴处理的大豆幼苗的茎粗、根表面积等都会下降，叶绿素含量增加（李淑贤等，2018），弱光条件下长春花的叶绿体基粒变大，基粒片层数量减少，叶绿素含量增加(周忆堂等，2008)。本研究中，树冠覆膜降低了金柑树冠的光照强度，金柑叶片为了适应这一环境变化，开始增长加宽，最终形成更大的叶面积，从而尽可能吸收更多的阳光。同时，树冠覆膜提高了树冠周围的月平均气温，也有利于叶片更快地生长，增大叶面积。为了应对光照的不足，金柑叶片内累积了更多的叶绿素，相似研究结果也在大豆中报道过(李淑贤等，2018)。通过增加叶绿素的含量，可以在一定程度上弥补光照强度下降对光合同化物形成的影响，从而维持金柑正常的糖酸代谢水平，保持其果实的固有品质。
+
+关于净光合速率和气孔导度、蒸腾速率以及胞间二氧化碳浓度的相互关系，由于植物种类和生态环境的差异，前人的研究结果不完全一致（刘群龙等，2009）。本试验中与对照相比，在11:00，树冠覆膜树的气孔导度显著变小，蒸腾速率显著变大，可能是因为此时覆膜树冠的气温较高，使得气孔开度变小，从外界吸收的二氧化碳减少；另外，此时覆膜树冠的空气湿度降低，所以蒸腾速率增大，使得叶片中水分含量下降，以上造成了光合作用的原料二氧化碳和水的供应不足，从而导致了净光合速率的降低，并引起胞间二氧化碳的累积，其浓度随之显著增加。其他时段上述4个光合作用参数之间的联系没有一定的规律性，具体原因有待进一步的研究。
+
+果实品质是获取经济效益的关键之一，外观品质也是果实品质的重要组成部分，本研究中，树冠覆膜显著提高了果实的硬度，硬度的提高可能得益于覆膜处理减少了果实对雨水的吸收，从而减缓了果实成熟过程中细胞壁的分解和细胞间隙的增大，这与前人的研究结果相似（李明娟等，2012）。本研究中，树冠覆膜显著增加了果实的纵横径，但没有显著提高果实的单果重，相关原因有待进一步分析研究。
+
+糖的累积，对果实内在品质的形成有重要影响。许多措施可以促进糖的累积，如适度干旱（姜妮等，2013），遮蔽处理（彭鑫等，2018）等，前人研究表明，覆膜也可以改善果实品质（区善汉等，2012；梅正敏等，2012；高海文等，2013）。本试验中，树冠覆膜期间降低了树冠的空气湿度，类似适度干旱处理，增加了果实中全糖、还原糖及蔗糖的含量，从而含有较高的可溶性固形物。本研究中，虽然树冠覆膜降低了净光合速率，但叶片中叶绿素含量的增加保障了光合同化物的有效累积，同时，树冠覆膜也在一定程度上加大了昼夜温差，有利于糖分的积累，使得果实中蔗糖等光合产物的总量，不降反升。
+
+酸的累积，也对果实内在品质有重要作用。光照，温度和水分等，都会对酸的累积产生影响，彭鑫等在草莓上发现， $2 5 \%$ 的遮阴处理，可以使果实中可滴定酸的含量降低 $1 2 . 8 4 \%$ 。梅正敏等的试验表明，在树冠覆膜的后期，覆膜的金柑果实的可滴定酸低于未覆膜金柑果实中的含量。另外，前人研究表明，降酸需要一定的温度（邓秀新和彭抒昂，2013）。本研究中，树冠覆膜在一定程度上降低了金柑果实中可滴定酸的含量，这可能与覆膜提高了树冠白天的温度有关，相关机理有待进一步深入的探讨。
+
+综上所述，树冠覆膜减少了金柑树冠的光照，降低了光合效率，但增加了叶面积及叶绿素的含量，保障了金柑光合同化物的累积，增加了果实的可溶性固形物等，同时覆膜可以提高树冠白天的气温有利于降酸，提高固酸比及糖酸比；另外，覆膜提高了果实的硬度，增强了耐储运性，总体上提高了果实品质。
+
+# 参考文献：
+
+DENG XX,PENG SA，2013.Citrus [M].Beijing:China Agricuture Press.[邓秀新，彭抒 昂,2013．柑橘学[M]．北京：中国农业出版社.]   
+GAO HW, JIANG N, LIU YZ, et al.,2013. Effects of film mulching on total soluble solution, titratable acid and contents of mineral elements in Ponkan(Citrus reticulata)fruit[J]. JHuazhong Agric Univ,32(5):45-49.[高海文，姜妮，刘永忠，等,2013．地表覆膜对碰柑果实糖酸品 质及矿质元素的影响[J].华中农业大学学报，32(5)：45-49.]   
+JIANG N, GAO HW, JIN LF, et al., 2013. The impact of plastic film mulching on citrus fruit sugar accumulation and sucrose metabolism-related enzymes[J]. Sci Agric Sin, 46(2): 317-324. [姜妮，高海文，金龙飞，等,2013．地表覆膜对柑橘果实糖积累及蔗糖代谢酶活性的影响 [J].中国农业科学，46(2)：317-324.]   
+LI MJ,LIU GH, HE XH, et al., 2O12. Effects of rain shelter cultivation on quality of Fortunella crassifolia fruits during the tree storage[J].NHortic,4:149-453.[李明娟，刘根华，何新华, 等,2012．避雨栽培对金柑留树保鲜果实品质的影响[J].北方园艺，4：149-153.]   
+LI SX,LIU WG, GAO Y, et al.， 2018. Effects of silicon on plant growth and photosynthetic characteristics of soybean seedlings under artificial shade stress [J]. Sci Agric Sin, 51(19): 3663-3672.[李淑贤，刘卫国，高阳，等,2018．硅对人工荫蔽胁迫下大豆幼苗生长及光合 特性的影响[J].中国农业科学，51(19)：3663-43672.]   
+LIU QL，NING CJ，WANG D，et al., 2O09. Diurnal variation in net photosynthetic rate and influencing environmental factors of Elaeagnus mollis Diels lea f[J]. Chin J Eco-Agric,17(3): 474-478.[刘群龙，宁婵娟，王朵，等,2009．翅果油树净光合速率日变化及其主要影响因 子[J].中国生态农业学报，17(3)：474-478.]   
+MAI SQ, MEI ZM,LUO SX, et al., 2O14. Study on the changes of Shatang fruit quality during the period of covering film[J].Guihaia,34(4): 561-564.[麦适秋，梅正敏，罗世杏，等,2014．盖 膜期间砂糖橘果实品质变化规律的研究［J].广西植物,34(4):561-564.]   
+MEI ZM, MAI SQ, XIAO YH, et al., 2012. Changes of soil moisture and fruit quality of kumquat by covering film on the crown[J].S Chin Fruits,41(1):11-13.[梅正敏，麦适秋，肖远辉， 等,2012．树冠盖膜留树贮藏金柑树盘土壤水分及果实品质的变化［J].中国南方果 树,41(1)：11-13.]   
+Ou SH, XIAO YH, LIAO KF,et al.， 2010. Study on the effect of cultivation technology of avoiding rain and cold in kumquat [J].S ChinFruits,41(5): 52-54.[区善汉，肖远辉，廖奎富， 等,2012．金柑避雨避寒栽培效果的研究[J].中国南方果树，41(5)：52-54.]   
+PEN X, WANG XL,NI BB,et al.,2O18. Effects of shading on photosynthetic characteristics and fruit quality in strawberry[J].JFruit Sci,35(9):1087-1097.[彭鑫，王喜乐,倪彬彬,等,2018. 遮阴对草莓光合特性和果实品质的影响[J].果树学报，35(9)：1087-1097.]   
+QIN GX,LI LH, 2Oo8. The technology of crown filming on-tree storage in kumqurt[J]. Guangxi Hortic,19(5):41.[覃光秀,李柳洪,2008．阳朔金柑树冠盖膜留树贮藏技术[J].广西园艺， 19(5) :41.]   
+TANG YQ,2O13.Effects of rain shelter cultivation in different seasons on growth,yield and photosynthetic characteristics of Bonanza navel orange in Chongqing[D]. Chongqing: Southeast University.［唐玉琴,2013．重庆地区不同季节避雨栽培对朋娜脐橙生长结果与光合作用 影响研[D].重庆：西南大学.]   
+ZHANG RH, ZHAN KY, XU K, 2007. Effects of covering with colored plastic films on the pigment content and photosynthesis in ginger leaves[J]. Acta Hortic Sin, $3 4 ( 6 ) : 1 4 6 5  – 1 4 7 0 .$ [张 瑞华，战琨友，徐坤,2007．不同光照条件下长春花的光合作用和叶绿素荧光动力学特征 [J].园艺学报，34(6)：1465-1470.]   
+ZHANG SN, LI XC, CHEN GF, et al., 2014. Study on the influences of Gonggan citrus during on-tree storage by canopy film-covering [J].S Chin Fruits,43(5): 42-44+48.[张社南，李星长, 陈贵峰，等,2014．树冠覆盖薄膜对贡柑留树贮藏的影响［J]．中国南方果树, 43(5) : $4 2 { - } 4 4 { + } 4 8 .$ ]   
+ZHOU YT,MA HQ,LIANG LJ,et al.，2008.Photosynthetic characteristics and chlorophyll fluorescence in leaves of Catharanthus roseus grown under different light intensities [J]. Sci Agric Sin,41(11):3589-3595.[周忆堂，马红群，梁丽娇，等,2008．不同光照条件下长春 花的光合作用和叶绿素荧光动力学特征[J].中国农业科学，41(11)：3589-3595.]

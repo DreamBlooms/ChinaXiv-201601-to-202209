@@ -1,0 +1,801 @@
+[
+    {
+        "type": "text",
+        "text": "基于GPS定位的步行导航用户分心研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴丹袁方",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(武汉大学信息管理学院武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【自的】分析定位准确度不一样的情况下用户分心的情况，并提出有效减少用户分心的建议与策略。【方法】采用基于真实场景的模拟实验方式，通过设置对照组，使用描述性统计方法和差异性检验来分析和比较在是否开启GPS定位的两种情况下，用户分心次数和时长的情况。【结果】研究结果表明，开启GPS定位的情况下，用户对地图路线依赖度会明显增加，导致用户更加关注GPS定位点的指向，增加用户中途停留行为，但是会减少操作地图的行为。【局限】实验设计中无法排除实验者个体因素对实验结果的影响，并且可参考的理论依据较少。【结论】步行导航中出现分心会增加步行时长，降低满意度，增加错误率。为了减少用户分心，不仅用户需要减少对手机地图规划的路线的依赖度，地图导航系统应该提供具体化、全面化导航信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:移动地图步行导航用户信息行为人机交互分心分类号：G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智能手机普及使得地图导航软件的使用更加方便，地图导航APP可以帮助用户随时随地规划路线、寻找目的地。手机地图导航APP通常会提供三种路线模式，即驾车模式、公交模式和步行模式，比如百度地图、高德地图。驾车模式的导航行为研究是目前许多研究者研究地图导航行为选择的热点方向，但是对于步行模式的导航行为研究很少。步行导航行为的产生情景是目的地距离短或者路线不便于车辆通行，这时人们会采用步行的方式到达目的地。与驾车导航相似的是，步行导航中也往往会产生分心。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在步行过程中，外部环境的影响会转移人们的注意力，引起分心。比如一个步行导航者花费10分钟完成任务，但其中有1分钟用于中途停留买瓶装水、有3分钟被周边的街景吸引，这就属于分心。分心可能会影响步行导航的效率，或者导致安全问题，比如Brooks等的研究表明驾驶员的分心会导致高达 $20 \\%$ 的机动车辆车祸[1]。事实上，随着智能手机的普及，行人因手机而分心导致的交通事故数量逐年增长，比如据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BBC报道，在2012年时，每三个行人中就有一个过马路时因为手机分心[2]；据新华网报道，美国州长公路安全协会(Governors Highway Safety Association, GHSA)公布的2016年数据中，将近6000 名行人丧生[3]。在步行导航APP逐渐突破技术障碍的今天，用户越来越擅长用手机地图来导航，随之而来的是不可预测的分心状况，而这种状况很有可能导致安全问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文旨在探讨地图导航APP的一个自身因素，即GPS定位，是否影响步行导航分心。GPS定位开启后，地图导航APP可以准确定位用户位置，而不开启GPS定位，地图导航APP则会根据手机信号基点定位，存在不准确的缺点。也就是说，本研究的实质是研究定位的准确度对用户分心的影响程度和类型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 文献综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对用户在移动地图导航中的分心的研究主要集中在基于车载导航的驾驶者分心研究，对于步行导航的用户分心研究较少。从这些文献中可以发现，地图导航中的分心具体界定主要有两种类型[4]，一种分心是视线离开道路，这种情况十分常见，并且容易理解，比如驾驶者在驾驶期间短暂地了一眼地图导航设备[5-6],或者在驾驶期间操作多媒体设备[7等；另一种分心是思维离开道路，比如思考选择哪个方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1移动地图导航中的用户分心",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对移动地图导航中用户分心的研究中，大多数文献是研究在移动地图导航中影响用户分心的因素，分散驾驶者注意力的因素可能来自内部，比如驾驶焦虑等，也可能来自外部，比如听觉干扰等[8]。驾驶者的分心可能与任何环境因素都有关[9，比如导航模式、地图信息等。诸如研究导航模式与用户分心的相互关系,Jensen等对比三种导航模式中分心次数并且分析三组数据差异性，研究发现图像和图像语音并存的车载GPS 导航模式比语音导航模式更容易导致驾驶者分心[5]。Lee等的研究中涉及了GPS导航模式与信息抽象度对用户分心的影响[10]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如何减少用户分心也是研究的一个重点。Green提出了处理用户分心的对策，包括选择、训练、驾驶资格、禁止项、减少工作量造成的分心风险、减少设计危害[11]。大多数研究如何减少用户分心的文献都是从减少设计危害(Design Out Hazards)的角度开展的。诸如对分心的检测，2007年Liang 等提出利用支持向量机(Support Vector Machines，SVM)检测驾驶者分心，比如视线偏移，这种方式优于更传统的逻辑回归模型[12]。2015 年，Wang 等提出一种预测驾驶者分心的计算框架，主要针对的是驾驶者在驾驶过程中将视线转移到地图界面的行为，准确预测驾驶者的这一行为可以帮助系统适时提供路线信息，减少驾驶者分心[13]。有些研究者认为尽管车载导航的设计遵循了必要的准则，但是由于某些界面交互使得用户不可避免地转移注意力，这增加了车祸风险。Larsson等研究了向车载导航系统添加声音是否会减少用户分心，分析两种声音模式(Spearcon 和Earcon)，最终发现向车载系统添加Spearcon 式声音模式可以有效减少用户分心[14]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 行人分心",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对行人分心的研究主要集中在分析步行中分心的影响。比如在Hamann等研究中，分析行人分心与警方交通事故数据库中的某一地方的危险行为的相关性，发现分心与危险行为高度相关[15]；Thompson 等研究的是技术和社会性分心对行人警戒行为和过交叉路口的时间的影响[16]。还有对分心与其他因素之间的关系研究，比如Kautz关注行人分心与步行速度之间的关系，最终发现带耳机造成的分心与步行速度之间具有强关系[17]。鉴于此，关于步行导航中用户分心的研究并不多，因而本文定位于准确度与分心的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GPS 定位一直是提高用户地图导航效率的辅助方式，但是并不代表会消除用户分心，定位准确度也可能造成用户不同程度的分心。并且，从目前如何减少用户分心的研究来看，大多数研究都主张从降低导航系统设计危害减少用户分心，虽然环境因素可能是影响用户分心的重要原因，但是环境因素对用户的影响背后的原因也是值得探讨的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究旨在分析定位准确度不同的情况下用户分心的情况，并且从实验原始数据分析用户分心背后的主观原因，从人机交互的角度减少分心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 研究设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 研究假设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要目的是为了探知用户在使用手机地图的步行模式进行路线导航时会出现的分心，并且分析用户在使用地图导航APP 时开启GPS能否对用户分心产生影响。基于此，提出以下假设。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H1：开启GPS与不开启GPS两种情况下，用户的分心次数不同;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H2：开启GPS与不开启GPS两种情况下，用户的分心时长不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验者",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在征集实验者的过程中，采用筛选问卷选择符合条件的实验者，最终能够参加实验的实验者主要是大学生，总共有30名，男女比例为1:1。实验者仅知道实验操作规范，并没有被告知实验目的，以确保实验者在任务中的分心是真实的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用用户实验法，对任务时长和导航任务类型进行控制，记录用户的手机地图交互行为和导航体验，进行数据分析。实验包括4个阶段：实验者完成前测问卷；完成步行导航的户外模拟实验任务；及时地在任务完成后填写后测问卷；对实验者进行深度访谈。前测问卷主要收集的信息是个人基本信息及实验者移动设备及其使用经验。完成前测问卷后，实验者可以在规定时间内选择任一完整时间段利用手机地图完成三个真实的步行导航任务。在手机导航任务中,研究者对任务时长和任务类型进行控制，通过手机录屏软件(录屏大师和录屏专家)记录用户与手机地图的交互行为(包括屏幕操作和声音)；在任务期间，采用出声思考法收集信息，即实验者需要对着手机大声讲出实验者的点击内容或者任务过程中任何想到的事情；任务结束后，实验者需要对着手机回忆并讲出整个任务过程；实验者需要将录屏软件录制的视频按要求编号发送给研究者。完成这一实验阶段后，实验者需要填写后测问卷，并完成深度访谈，其中，问卷采用李克特5级量表搜集用户的主观感受。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于本文的重点是研究GPS对地图导航APP用户分心情况的影响，因此采用的数据来自于三个手机导航任务中的室外步行导航任务，在这项任务中有20名实验者参与，并被随机分为两组，其中一组要求实验者在步行导航中开启地图导航APP的GPS，另一组的实验者则不允许开启GPS。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "任务具体内容包括两项：一项要求实验者以武汉市徐东销品茂商场为起点，运用手机上的百度地图APP的周边服务功能找出并走到附近的一家评价最高的鄂菜餐馆；另一项要求实验者以武汉徐东福客茂商场为起点，运用百度地图找到并走到太阳神现代养生馆(徐东店)。在此需要说明的是，本文之所以设定两项具体任务，是因为真实环境下人们在使用地图导航APP时，目的地可能是明确的，也可能是不明确的，因此两项目的地属性不同的任务，可以保障对真实情景的模拟。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可用于本研究的数据信息包括实验者数量、用户分心的类型、分心次数与时长等，这些数据信息可以通过前测问卷、实验录屏视频、实验者出声思考时提供的额外信息、实验者的访谈等方式获得。对于收集到的数据，主要采用描述性统计、差异性检验等方法进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1 分心类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 名实验者被平均分为两组，每个人的实验都按照要求完成，数据有效。为了便于区分，将开启GPS进行步行导航的实验组简称为GPS组，不开启GPS进行步行导航的实验组简称为非GPS组。每组的性别比例平衡(男女比例1:1)，排除了性别对数据的可能性干扰。表1统计了可用于本研究的有效数据，其中包括三种分心情况，并统计出三种分心情况的次数和具体类型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/36bddddff70e1a687b09cee46c560dd574c48dfaeb7295330e1403a852119238.jpg",
+        "table_caption": [
+            "表1分心类型与次数统计(单位：次) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地作分心</td><td colspan=\"3\">地图操作分心</td><td colspan=\"4\">中行停分心</td><td colspan=\"4\">中途停留分心</td><td colspan=\"4\">爵客观环境影响 受客观环境影响</td><td colspan=\"4\">数据项</td></tr><tr><td></td><td></td><td>平均次娄 最小次娄</td><td>最大次数</td><td>手机充电</td><td>地图故障</td><td>道路不顺而停留</td><td>辨别方向</td><td>过马路</td><td>平均次娄 爆</td><td>最小次娄 爆</td><td>最大次数</td><td>周边环境吸引实</td><td></td><td>外人干扰 平均次娄</td><td>最小次娄</td><td>最大次数</td><td></td></tr><tr><td>106 201</td><td>357</td><td></td><td>8266</td><td></td><td>乙乙</td><td></td><td>0</td><td></td><td></td><td></td><td>讠０ε</td><td></td><td>L</td><td></td><td></td><td>0</td><td>so→</td><td></td><td>GPS组</td></tr><tr><td>265 160</td><td>483</td><td>ts</td><td></td><td>135</td><td>0 冏I</td><td></td><td></td><td>9</td><td>乙</td><td></td><td>0</td><td></td><td></td><td>0</td><td>S</td><td></td><td>30。</td><td></td><td>非GPS组</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受客观环境影响的分心类型有两种：外人对实验者产生了干扰，比如有人向实验者问路或者朋友跟实验者打电话、发短信以及通过通讯软件聊天；周边环境吸引了实验者注意力，比如实验者在走路过程中发现了感兴趣的餐厅，或者有人在路边吵架吸引了实验者的注意力，又或者道路整修对实验者产生情绪上的干扰。这类分心的特点就是实验者受到周围环境干扰而被动分心。在本次实验中，受客观环境影响的实验者并不多，GPS组受环境影响的总次数为10次，非GPS组受环境影响的总次数为15次，两组的最大次数都为4次。从两种具体类型来看，周边环境影响实验者分心的次数要高于外人影响实验者分心的次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分心的另一种情况是因为某种原因中途短暂停留，比如过马路，或者给手机充电，或者地图GPS信号丢失，或者辨别方向。这种分心的发生次数要高于受客观环境影响而发生的分心，从表1中可以看出,GPS组停留总次数达到24次，非GPS组停留总次数有12次，停留行为中最常见的则是因为辨别方向而停留，占停留总次数的 $50 \\%$ L",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验过程中，实验者与地图导航APP的交互行为也被认为是一种分心，因为实验者将注意力从步行过程转移到地图APP上。实验者操作地图APP的行为有三种，即滑动屏幕、点击屏幕和缩放屏幕。地图操作行为是三类分心中次数最多的一类。其中GPS组的平均操作次数有33.2次，最大操作次数有97次，最小次数有2次；非GPS 组的平均操作次数有 45.4次,最大操作次数达到135次，最小次数有5次。非GPS组的地图操作行为次数多于GPS组。在地图操作行为中，滑动屏幕的行为次数最多，GPS组滑动屏幕次数是该组总操作次数的 $5 5 . 2 7 \\%$ ，非GPS组滑动屏幕次数是该组总操作次数的 $5 3 . 1 9 \\%$ 。其次，GPS组的缩放次数小于点击次数，而非GPS组的缩放次数大于点击次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，本文的两个假设可以进一步按照分心类型细化为如下假设。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H1.1：开启GPS与不开启GPS两种情况下，用户受客观环境影响的分心次数不同;H1.2：开启GPS与不开启GPS两种情况下，用户中途停留分心次数不同；H1.3：开启GPS与不开启GPS两种情况下，用户地图操作分心次数不同;H2.1：开启GPS与不开启GPS两种情况下，用户受客观环境影响的分心时长不同;H2.2：开启GPS与不开启GPS两种情况下，用户中途停留分心时长不同;H2.3：开启GPS与不开启GPS两种情况下，用户地图操作分心时长不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2开启GPS对用户的分心产生的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究提出两项假设，即验证GPS组和非GPS组的分心次数和分心时长上是否有不同，根据实验数据来看，即分析实验者三种类型的分心的次数和时长是否不同。为了验证假设，使用SPSS统计工具计算两组分心次数和时长的显著差异水平。在检验前，首先验证得知三组数据不符合正态分布，因此采用非参数检验中Mann-Whitney方法来检验显著差异水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）受客观环境影响的分心验证开启GPS与不开启GPS两种情景下，实验者受客观环境影响的分心不同。对两种情况下受客观环境影响的分心的比较，从分心次数和分心时长两个方面进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GPS组受客观环境影响的分心次数为10次，非GPS组受客观环境影响的分心次数为15次，GPS组受客观环境影响的平均分心次数(mean $_ { \\mathrm { \\scriptsize 1 = 0 . 5 } }$ ， $\\mathrm { S D } { = } 0 . 9 2 \\AA$ 比非GPS 组(mean $_ { 1 = 0 . 7 5 }$ ， $\\mathrm { S D } { = } 1 . 0 4$ )少。从实验者的任务视频数据可以看出，GPS组之所以受客观环境影响少，可能是因为开启GPS后实验者可以选择语音导航模式中 $40 \\%$ 实验者选择开启语音导航模式)，语音导航模式既需要实验者注意语音指导，也需要用户注意自身在地图上的定位变化，这样的模式会吸引实验者的注意力，减少实验者受外部客观环境的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是，通过Mann-Whitney 检验验证发现两组受客观环境影响的分心次数并没有显著差异 $\\mathrm { ( p { = } 0 . 4 6 1 > }$ 0.05)，也就是说受客观环境影响的分心并不会因为实验者是否开启GPS而不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GPS 组受客观环境影响的分心总时长为469 秒，非 GPS组受客观环境影响的分心总时长为279 秒,GPS 组受客观环境影响的平均分心时长(秒)(mean $\\circleddash$ 23.45, $\\mathrm { S D } { = } 8 4 . 0 5 \\$ 比非GPS组(mean $_ { 1 } = 1 3 . 9 5$ ， $\\mathrm { S D } { = } 2 8 . 9 5$ ）长，通过非参数检验发现两组的受环境影响时长没有统计学上的差异 $( \\mathrm { P = } 0 . 4 7 8 { > } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在Jensen等的研究中对驾驶者的分心时长划分成三个等级：小于0.5秒,0.5秒到2秒，大于2秒[5]。本文对分心时长同样划分为三个等级：时长小于5秒的分心，时长在5秒和20秒之间的分心，时长大于20秒的分心。详细统计数据包括各时长行为平均次数和标准差，以及两组之间的差异性数据，如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9982a560e458ed9149602a44f47c5483df9989b12add5fd2ac0df5a004b64f4.jpg",
+        "table_caption": [
+            "表2不同时长等级的受客观环境影响的分心对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时长</td><td>GPS组 平均次数(标准差)</td><td>非GPS组 平均次数(标准差)</td><td>P值</td></tr><tr><td><5 sec</td><td>0.2(0.68)</td><td>0.3(0.9)</td><td>0.799</td></tr><tr><td>5-20 sec</td><td>0.25(0.43)</td><td>0.45(0.74)</td><td>0.640</td></tr><tr><td>>20 sec</td><td>0.15(0.48)</td><td>0.1(0.3)</td><td>0.989</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "横向来看，GPS 组受客观环境影响的时长小于5秒的分心 $\\mathrm { \\ s u m { = } } 4 ,$ 少于非GPS组 $\\mathrm { ( s u m { = } } 6 )$ ，两组之间没有统计学意义上的差异；时长在5-20秒之间的分心,GPS组 $\\mathrm { \\ s u m } { = } 5 \\mathrm { \\AA }$ 少于非GPS组 $\\mathrm { ( s u m { = } 9 ) }$ ，两组之间没有统计学意义上的差异；时长大于20 秒的分心，GPS 组$\\mathrm { ( s u m } { = } 3$ 大于非GPS组 $\\mathrm { ( s u m } { = } 2$ ，两组之间没有统计学意义上的差异。纵向来看，5-20秒之内的分心次数最多，其次是5秒之内的分心，大于20秒的受客观环境影响的分心最少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体来看，开启GPS的步行导航任务中，受客观环境影响的分心的次数少，但是行为时长长，但是从三种时长类型可以看出，GPS组的受客观环境影响的时长之所以长于非GPS组，是因为大于20秒的行为多于非GPS组，因此整体来看，GPS组受客观环境影响的程度要低。但是从差异性来看，两组之间没有统计学意义上的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）中途停留分心",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "验证开启GPS与不开启GPS两种情景下，实验者在步行任务中的停留行为不同。对两种情况下中途停留行为的比较，从行为次数和行为时间两方面进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GPS组中途停留行为总次数为24次，非GPS组中途停留行为总次数为12次，GPS组平均停留次数(mean $_ { 1 ^ { = 1 . 2 } }$ ， $\\mathrm { S D } { = } 1 . 0 3 ^ { \\cdot }$ )比非GPS组(mean $_ { 1 = 0 . 6 }$ ， $\\mathrm { S D } { = } 0 . 9 7$ ）多。从任务视频和实验者的出声思考信息来看，GPS组的主要停留原因是辨别方向，这是因为GPS组的实验者因为地图可以准确定位而对地图定位产生信任，因而希望严格按照地图提供的步行路线，从而导致该组实验者会比非GPS组更注意确定自己的定位，辨别方向是否与地图路线一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过Mann-Whitney 检验验证发现两组中途停留行为次数确实存在显著差异 $( \\mathrm { P = } 0 . 0 3 8 { < } 0 . 0 5 )$ ，也就是说实验者的停留行为确实会因为实验者是否开启GPS而不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GPS 组平均停留时长(秒)(mean $_ { \\cdot = 4 1 . 6 }$ ， $\\mathrm { S D } { = } 5 3 . 1 4$ ）比非GPS 组(mean $\\scriptstyle 1 = 2 3 . 9$ ， $\\mathrm { S D } { = } 3 9 . 6 2 )$ 长， $\\scriptstyle \\mathrm { P = } 0 . 0 7 6$ ，两组的受环境影响时长没有统计学上的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "停留行为按时长来分同样分为三个等级，如表3所示。横向来看，GPS组停留时长在5-20 秒$\\mathrm { ( s u m { = } } 8 )$ 和20秒以上 $( \\mathrm { s u m } { = } 1 4 )$ 的行为次数都多于非GPS组（ $\\mathrm { \\ s u m } { = } 2$ 和 $\\mathrm { s u m } { = } 9$ )。但是三种等级的行为在两组之间没有统计学差异。纵向来看，停留时长大多大于20秒。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体来看，开启GPS的步行导航任务中，中途停留次数多，停留时长长。从差异性来看，两组在停留次数上存在显著差异，但是在停留时长上没有显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d9ab69db29b4005371c6df9d40bd729642679ad708165b1ba9d15de96cc0d19.jpg",
+        "table_caption": [
+            "表3不同时长等级的中途停留行为对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时长</td><td>GPS组 平均次数(标准差)</td><td>非GPS组 平均次数(标准差)</td><td>P值</td></tr><tr><td><5 sec</td><td>0(0)</td><td>0(0)</td><td>1.00</td></tr><tr><td>5-20 sec</td><td>0.4(0.58)</td><td>0.1(0.3)</td><td>0.174</td></tr><tr><td>>20 sec</td><td>0.7(0.71)</td><td>0.45(0.67)</td><td>0.289</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）地图操作分心 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "验证开启GPS与不开启GPS两种情境下，实验者与地图导航APP的交互操作行为不同，从实验者地图操作总次数和操作总时长两方面来验证，主要数据如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/955a431ce99300bdae67a69fb6840a8b1059ef995d937a74e5db36ca44c452e2.jpg",
+        "table_caption": [
+            "表4地图操作次数与时长对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>交互操作</td><td>GPS 组</td><td>非GPS组</td><td>P值</td></tr><tr><td rowspan=\"2\">滑动</td><td>平均次数(标准差)</td><td>17.85(13.27)</td><td>24.15(25.44)</td><td>0.718</td></tr><tr><td>平均时长(标准差)</td><td>40.75(37.91)</td><td>60(59.33)</td><td>0.414</td></tr><tr><td>点击</td><td>平均次数(标准差)</td><td>10.05(1)</td><td>8(6.66)</td><td>0.512</td></tr><tr><td rowspan=\"2\">缩放</td><td>平均次数(标准差)</td><td>5.3(11.23)</td><td>13.25(11.65)</td><td>0.03 *</td></tr><tr><td>平均时长(标准差)</td><td>12.6(20.87)</td><td>25.4(23.10)</td><td>0.072</td></tr><tr><td>地图</td><td>平均次数(标准差)</td><td>33.2(23.14)</td><td>45.4(30.96)</td><td>0.165</td></tr><tr><td>操作</td><td>平均时长(标准差)</td><td>53.35(55.39)</td><td>85.4(76.97)</td><td>0.289</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GPS组地图操作行为总次数为664次，非GPS组的地图操作行为总次数为908次，GPS组地图操作平均次数(mear $_ { 1 = 3 3 . 2 }$ $\\mathrm { S D } { = } 2 3 . 1 4$ )比非GPS 组(mear $_ { 1 = 4 5 . 4 }$ $\\mathrm { S D } { = } 3 0 . 9 6 \\mathrm { \\Omega }$ 多。非GPS组地图操作行为多于GPS组可能因为定位不准确，实验者多次操作地图以确认路线是否正确。并且从表4可以看出，非GPS组中滑动屏幕和缩放屏幕的平均次数均多于GPS组，说明非GPS组的实验者对路线的不确定需要实验者滑动和缩放地图查看路线。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "但是，通过检验发现两组中地图操作行为总次数并没有统计学意义上的显著差异 $( \\mathrm { P = } 0 . 1 6 5 { > } 0 . 0 5 )$ ，即实验者的地图操作行为并不会因为实验者是否开启GPS而不同。但是从表4也可以看出，对地图操作的三种具体行为再次进行验证，发现两组中缩放屏幕的次数存在显著差异 $( \\mathrm { P } { = } 0 . 0 3 { < } 0 . 0 5 )$ ，即实验者的缩放屏幕行为会因为实验者是否开启GPS而不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于点击行为的时长不可记，所以对地图操作时长的分析仅包括滑动时长和缩放时长。从表4可知，非GPS组的地图操作总时长长于GPS组，其中滑动总时长和缩放总时长均多于GPS组，这与非GPS组的滑动次数和缩放次数多于GPS组相一致。但是两组的地图操作行为时长并没有显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地图操作行为按时长来分同样分为三个等级，如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/92a9bb66b29f3bd3e86429fdeda02b85fa88f5ce4146b2a49e63787b2da27c3e.jpg",
+        "table_caption": [
+            "表5同时长等级的地图操作行为对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时长</td><td rowspan=\"2\">交互操作</td><td rowspan=\"2\">GPS组 平均次数</td><td rowspan=\"2\">非GPS组 平均次数 (标准差)</td><td rowspan=\"2\">P值</td></tr><tr><td>(标准差)</td></tr><tr><td rowspan=\"2\"><5 sec</td><td>滑动行为</td><td>8.8(5.89)</td><td>15.6(10.65)</td><td>0.035*</td></tr><tr><td>缩放行为</td><td>2.55(2.85)</td><td>10.2(9.71)</td><td>0.005*</td></tr><tr><td rowspan=\"4\">5-20 sec</td><td>地图操作行为</td><td>11.35(7.03)</td><td>25.8(19.73)</td><td>0.02*</td></tr><tr><td>滑动行为</td><td>2.7(2.55)</td><td>3.2(3.63)</td><td>1.00</td></tr><tr><td>缩放行为</td><td>0.9(1.67)</td><td>0.95(1.20)</td><td>0.398</td></tr><tr><td>地图操作行为</td><td>3.6(3.72)</td><td>4.15(3.95)</td><td>0.799</td></tr><tr><td rowspan=\"3\">>20 sec</td><td>滑动行为</td><td>0.1(0.44)</td><td>0.2(0.4)</td><td>0.461</td></tr><tr><td>缩放行为</td><td>0.05(0.22)</td><td>0(0)</td><td>0.799</td></tr><tr><td>地图操作行为</td><td>0.15(0.65)</td><td>0.2(0.4)</td><td>0.461</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "横向来看，非GPS三个时长等级的地图操作行为都要多于GPS组，但是两组仅在时长小于5秒的地图操作行为上存在显著差异 $( \\mathrm { P } { = } 0 . 0 2 { < } 0 . 0 5 )$ ，并且在时长小于5秒的滑动行为 $( \\mathrm { P = } 0 . 0 3 5 { < } 0 . 0 5 )$ 和时长小于5秒的缩放行为 $( \\mathrm { P } { = } 0 . 0 0 5 { < } 0 . 0 5 )$ 上存在显著差异。纵向来看，实验者的地图操作行为时长多小于5秒，即简单的滑动和缩放，操作时长大于20秒的行为很少，从录屏视频来看，实验者简单的滑动和缩放地图多是发生在步行任务中确认路线或寻找地标时，由于实验者对路线有大致的印象，所以实验者会很快确认目标，因此操作时长不会很长，时长超过20秒的行为很少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来看，开启GPS组的步行导航任务中，地图操作次数少，且时长短。从差异性来看，两组在缩放次数上存在显著差异，即开启GPS的步行导航任务中缩放次数会显著减少；另外，两组在时长小于5秒的操作行为上有显著差异，即步行导航任务中开启GPS会减少用户短暂的地图操作行为。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 假设验证 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对假设H1的验证结果进行汇总，如表6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从三种分心的次数来看，在步行导航任务中开启GPS和不开启GPS两种情况下，用户停留次数和缩放地图的次数具有差异性，开启GPS会明显增加用户停留的次数，但是明显减少用户缩放地图的次数。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b584ae21855805d3510fff2e1e8565b963f6927dc5441228d4898d2cd3035e6b.jpg",
+        "table_caption": [
+            "表6假设H1验证结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>验证项</td><td>假设验证结果</td></tr><tr><td>H1.1</td><td>受客观环境影响的分心次数</td><td>不成立</td></tr><tr><td>H1.2</td><td>中途停留分心次数</td><td>成立</td></tr><tr><td rowspan=\"3\">H1.3</td><td>地图滑动分心次数</td><td>不成立</td></tr><tr><td>地图缩放分心次数</td><td>成立</td></tr><tr><td>地图点击分心次数</td><td>不成立</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对假设H2的验证结果进行汇总，如表7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ec0388dec997eb7983d6160f7145bae47a0cfa058d690932bc5926c74484943.jpg",
+        "table_caption": [
+            "表7假设H2验证结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>验证项</td><td>假设验证结果</td></tr><tr><td>H2.1</td><td>受客观环境影响的分心时长</td><td>不成立</td></tr><tr><td>H2.2</td><td>中途停留分心时长</td><td>不成立</td></tr><tr><td>H2.3</td><td>地图操作分心时长</td><td>不成立</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从三种分心的时长来看，用户在步行导航任务中开启GPS和不开启GPS两种情况下，滑动地图的总时长和缩放地图的总时长没有显著差异，但是在5秒之内的行为次数上存在显著差异，开启GPS会减少用户简单的地图操作行为。总之，GPS组的中途停留分心次数多，而非GPS组缩放地图的次数多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5实验结果讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1用户步行导航分心原因",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通信技术的发展使得用户在使用地图导航APP时更加便捷，为了提高步行导航的准确度，大多数用户都会开启GPS来提高定位准确度。本文前测问卷中对实验者平时使用地图导航APP时开启GPS的习惯进行调查，发现有 $3 6 . 6 7 \\%$ 的用户会主动打开GPS，有$4 6 . 6 7 \\%$ 的用户会默认软件开启GPS。由此可见，大多数用户在平时是希望提高定位准确度的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "而从本文的研究结果来看，地图导航APP如果定位准确则会增加实验者的中途停留分心；定位不准确则会增加实验者缩放地图的交互行为。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）停留行为增加的原因",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "开启GPS的实验者由于步行导航过程中定位准确，因而更依赖于手机地图给与的路线，甚至其中有$40 \\%$ 的实验者选择语音导航，这导致实验者会更关注手机地图的GPS定位点的位置、指向和移动，选择语音导航的实验者则更关注语音引导的信息，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这样就产生两种情况：实验者会不断地调动手机方向，确认GPS定位点的指向，导致GPS组因辨别方向而停留的次数明显多于非GPS组；对地图路线的信赖给实验者造成相反影响，比如5位实验者可能因为不仔细而选择\"驾车路线”，有1位实验者表明地图本身路线规划不够优化，导致GPS组实验者因过马路而停留的次数多于非GPS组。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当然，并不是所有GPS组实验者都会完全信赖地图路线，有1位实验者会抱怨地图\"超难用”，有1位实验者发现地图路线绕远，有2位实验者发现地图导航错误，最终放弃了地图规划的路线，自己寻找目的地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)缩放地图的交互行为增加的原因",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不开启GPS会导致定位的不准确，有4位实验者准确依照地图定位点步行，增加了其偏离路线的概率,因此非GPS组实验者会不断地滑动地图来查看路线走向，缩放地图(尤其是放大地图)查看路线周边地标,以熟悉路线的周边环境，防止偏离路线。因此定位准确度影响了用户的分心状态。定位准确时，用户会更加依赖地图路线，导致停留分心状况增多；定位不准确时，用户与系统交互而分心的状况增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2 减少用户分心的策略",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对停留次数和任务完成情况进行相关性检验发现,GPS组停留次数的增加会拖长任务时长、降低实验者对任务的满意度；而非GPS组缩放次数的增加会增加实验者的错误率。定位准确度不同会导致不同的分心状况，因此，地图导航APP可以辨识个体定位准确度，在此基础上给不同定位准确度的用户提供不同的信息服务，个性化地减少用户分心。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）地图导航APP改进 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 定位准确度高的情况",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定位准确度高时，用户在步行导航中会多次出现停留分心，原因是一方面GPS定位点方位不易判断，另一方面是APP的三种路线模式(驾车、公交和步行,APP默认驾车模式)选择不突兀。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1）功能性地标信息辅助项",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GPS定位点方位不易判断导致实验者会花费不少时间来辨别方位，这一项结果与前人关于驾驶者分心的研究结果类似。Jensen等的研究表明语音导航模式可以减少驾驶者视线偏移的行为[5]。对于手机地图来说，简单的文字或语音信息提示可能会减少用户辨认方位的时间。因此对GPS 定位点的改进可以以地标信息为辅助项，辅助用户对方位的大致判断，减少停留，缩短步行导航任务时长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地标信息辅助还可以体现在路线导航中。在路线导航中，地图导航APP会提供抽象的文字信息，但是对于不熟悉路标或者方位的用户来说，以显著地标指导用户步行导航是一项人性化的设计，如图1所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/076dcf3eabb03bd3f7b5ce5db56a6fbb68b1b0f11c73918b55066c092726ffa6.jpg",
+        "img_caption": [
+            "图1地标信息辅助GPS定位点与路线导航"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而GPS组实验者所选地标 $8 5 . 7 1 \\%$ 都为功能性地标，诸如电影院、餐厅、商场、银行等，所以，在定位准确度高的情况下，提供功能性地标作为信息辅助可以帮助用户减少停留分心。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2）路线模式界面改进",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从实验来看，因为路线模式选择的设置不明显，实验者会存在忽视路线模式选择的情况，导致绕远路、停留分心等状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "建议增加一个界面，主动询问用户选择路线模式，如图2所示。以往对车载导航系统改进通常是关于输出模式改变[5,10,14]、分心预测[12-13],但是并不能全部用于减少步行导航分心，而路线模式选择界面改进是具体针对于步行情境下的导航系统交互设计的。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b248f3599d6cd1ab55f210f46402194ef0c5ae377330cdaed8d9ac240a14e747.jpg",
+        "img_caption": [
+            "图2路线模式选择界面改进"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 定位准确度低的情况",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "定位准确度低时，应增加交通类地标、功能性地标的标注。实验者，尤其是没有开启GPS的实验者，会通过缩放地图查找地标，确认路线，提供详细的地标信息也是改进步行导航必要的一种方式。从录屏和出声思考数据来看，实验者所选地标总数中，约 $6 9 . 2 3 \\%$ 是功能性地标，诸如电影院、餐厅、商场、银行等，约 $3 1 . 4 3 \\%$ 为交通类地标，诸如路口、街道、红绿灯、公交站等。除此之外，还有少数实验者选择其他地标，如字牌。当地图导航APP的定位不准确时，功能性地标和交通类地标信息应该更加丰富。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）地图导航APP改进的普适性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从实验数据的角度改进地图导航APP设计，以避免分心，是否对目前整个地图导航APP市场有价值呢？从易观网2017年2月APP榜单来看，百度地图、高德地图、腾讯地图、和地图、搜狗地图为排名靠前的地图导航APP[18]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从对这些代表性地图的调查看，首先在GPS定位点这一项，地图导航APP保持了一致性，即定位点箭头指向是手机首端的朝向，定位点周围有些许地标标识；而路线导航中的语音信息提示的文字格式包括“直行/左转/右转”、“行XX米到XX路/街/巷等”、“沿XX路/街/巷等向XX方向出发”、“目标在XX方向XX米”。也就是说，目前的地图导航APP注重信息简化,但是从Lee 等的研究[10]可知，对于慢速的驾驶情况来说，应该提供具体的信息来减少分心，这也与本文实验数据相契合；对于步行导航来说，具体的信息提示、甚至于人性化的信息提示，更能帮助用户理解地图路线，减少分心。而用地标信息做提示是最直观的方式,但是地图导航APP在对地标的标识上尽可能全面，却在新旧地标的更新上不尽人意。而从本文看，地标信息的质量直接影响了GPS定位点和路线导航的文字信息提示的改进。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前地图导航APP信息简化的另一个表现就是有些选择设置不清，比如路线模式选择，几乎采取相同方法，即地图导航APP会将前一次路线规划时的模式设定为默认，这可能也是导致部分实验者错误使用驾车模式的原因。并且可能由于界面尺寸原因，大量信息采用层级方式组织，用户需要层层寻找，可能导致将注意力从步行本身转移到系统交互上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，地图导航APP在设法减少用户分心时，可以通过辨识定位准确度的角度更改措施，当定位准确度高时，应将功能性地标用在信息提示中，作为定位辅助；当定位准确度低时，应该增加地图上功能性地标、交通类地标的标注。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）用户干涉 APP导航 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了对地图导航APP的改进，步行导航中的用户需要减少对手机地图规划的路线的依赖度，可以通过关注地标、询问路人、第三方求助等方式辅助步行导航。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因为定位准确度是不确定的，在实验者的后测问卷中，有 $30 \\%$ 的实验者对GPS定位准确度没有给出积极评价；呼呼用户减少对手机地图路线的依赖，不仅因为定位不一定准确，还因为有些用户会因为粗心选择了“驾车路线\"(手机地图规划路线时默认驾车路线)或者手机地图规划的路线并非最优，这会增加步行时长，有一位实验者发现地图路线绕远，在后测问卷中对任务满意度给予消极评价。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地图导航APP的定位准确度是用户在步行导航中是否出现分心以及出现分心类型的一个影响因素，定位准确时会增加用户中途停留分心；而定位不准确时，会增加用户地图操作分心。步行导航中出现分心的危害可能并不如驾车时出现分心严重，但是也会增加步行时长，降低满意度，增加错误率，甚至造成安全隐患。所以，为了减少用户分心，地图导航APP可以根据辨别定位准确度，提供相应的信息服务，改进设计，同时用户应该减少对地图规划路线的依赖。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究也存在一些局限性：仅仅研究用户在步行导航中会出现的分心类型，然而这些分心会在什么时间出现并没有深人分析，以及这些分心是否真的会影响用户的步行时长、错误率、满意度以及寻找目的地的成功率。这些都是未来可以继续探究的方向。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Brooks C A，Rakotonirainy A． In-vehicle Technologies, Advanced Driver Assistance Systems and Driver Distraction: ResearchChallenges[C]//Proceedingofthe2005 International Conference on the Distraction in Driving, Sydney,New South Wales,Australia.2007:599-621.   \n[2] BBC News.One in Three‘Distracted'as Cross Road [EB/OL]. (2012-12-13).[2017-04-10].http://www.bbc.com/news/health20696048.   \n[3]新华网．玩手机分心？美国行人死亡人数创纪录[EB/OL]. (2017-04-01).[2017-04-10]. http://news.xinhuanet.com/world/ 2017-04/01/c_129523017.htm.(Distracted by Mobile Phone? The Number of Pedestrian Deaths in the United States Increased [EB/OL].(2017-04-01).[2017-04-10].http://news. xinhuanet.com/world/2017-04/01/c_129523017.htm.)   \n[4] Brown ID.Driver Fatigue[J].Human Factors,1994,36(2): 298-314.   \n[5]Jensen B S,Skov MB,Thiruravichandran N. Studying Driver Attention and Behaviour for Three Configurations of GPS Navigation in Real Traffic Driving[C]//Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.ACM,2010:1271-1280.   \n[6] Morris A,Reed S,Welsh R,et al.Distraction Effects of Navigation and Green-driving Systems - Results from Field Operational Tests(FOTs） in the UK[J].European Transport Research Review,2015,7(3): 1-9.   \n[7]Green P. Customer Needs, New Technology, Human Factors, and Driver Science Research for Future Automobiles[J]. Journal of the Japan Society of Mechanical Engineers,1996, 99: 15-18.   \n[8]Liberty E，Mazzae E，Garrott R,et al. NHTSA Driver DistractionResearch:PastPresentandFuture[C]// Proceedings of the International Technical Conference on the Enhanced Safety of Vehicles.2001.   \n[9]Green P. DriverDistraction，TelematicsDesign， and Workload Managers: Safety Issues and Solutions[J/OL]. SAE International, 2004. http://papers.sae.org/2004-21-0022/.   \n[10] Lee B,Lee Y JN,Park S,et al. Driver's Distraction and Understandability (EOU） Change due to the Level of Abstractness and Modality of GPS Navigation Information During Driving [J].Procedia Computer Science,2014,39: 115-122.   \n[11]Green P.Driver Interface/HMI Standards to Minimize Driver Distraction/Overload [J]． SAE International,2008．http:// papers.sae.0rg/2008-21-0002/.   \n[12] Liang Y,Reyes ML,Lee JD.Real-Time Detection of Driver Cognitive Distraction Using Support Vector Machines[J]. IEEE Transactions on Intelligent Transportation Systems, 2007,8(2):340-350.   \n[13]Wang S,Zhang Y,Wu C,et al.Online Prediction of Driver Distraction Based on Brain Activity Patterns[J].IEEE Transactions on Intelligent Transportation Systems,2015, 16(1): 136-150.   \n[14]Larsson P,Niemand M.Using Sound to Reduce Visual Distraction from In-vehicle Human-Machine Interfaces[J]. Traffic Injury Prevention,2015,16(S1):25-30.   \n[15]Hamann C,Dulf D,Baraganandrada E,et al.Contributors to Pedestrian Distraction and Risky Behaviours During Road Crossings in Romania[J]. Injury Prevention,2017.DOI:10. 1136/injuryprev-2016-042219.   \n[16]Thompson LL,Rivara F P,Ayyagari R C,etal.Impact of Social and Technological Distraction on Pedestrian Crossing Behaviour: An Observational Study[J]. Injury Prevention, 2013,19(4):232-237.   \n[17]Kautz JA.Pedestrian Distraction $\\because$ Pedestrian Behaviors at Midblock Crossings Considering Geometric and Environmental Conditions [D]. Corvallis: Oregon State University,2015.   \n[18]应用月度 Top 榜[EB/OL].[2017-04-10].http://qianfan.analysys. cn/view/rank/app.html (Monthly Top Application [EB/OL]. [2017-O4-1o].http://qianfan.analysys.cn/view/rank/app.html.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "吴丹：设计研究框架，提出研究思路，修改论文;  \n袁方：收集分析数据，论文撰写。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。  \n[1]吴丹，袁方.distraction.xlsx.实验中的分心数据.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-02-07   \n收修改稿日期:2017-04-14 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Studying User Distractions with GPS Based Pedestrian Navigation System ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wu DanYuan Fang (School of Information Management, Wuhan University, Wuhan 430072, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]The purpose ofthis paper is toreduceuser distractions effectively byanalyzing their reactions to various positioning accuracyofa pedestrian navigation system. [Methods]First,wecollected users'behaviordata from the simulationand controlled experiments.Then,we compared the user distraction frequencies and durations with descriptive statistics and significance tests.[Results]We found that users paid more atention to the orientation of the GPS, which increased the number of stopovers and reduced interactions with the APP.[Limitations] We could not excludethe influence of the individual factors on theresultsand few previous studies discussed the theoretical foundationof our study.[Conclusions] To reduce distractions,pedestrians should decrease their reliance on the navigation system, while the later needs to provide more specific and comprehensive information. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: Mobile Map Pedestrian NavigationUser Information BehaviorHuman-Computer Interaction Distraction ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ProQuest和InfoReady合作简化项目资助工作流",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ProQuest 和 InfoReady 公司目前正在合作帮助科研管理员，通过集成 ProQuest Pivot 解决方案和InfoReady 的 InfoReadyReview 平台的功能，来节省时间并提高项目授权应用程序管理的准确性。该组合创造了从基金资助机会发现到候选人选择的无缝工作流程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "科研管理员使用Pivot 能轻松找到基金资助机会和资源。现在,Pivot中的数据将自动填人InfoReady Review，然后发布信息，进行审核，进而最终使得用户能够选择最符合条件的资助人。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "密歇根大学科研项目办公室主任 Constance Colthorp Amrine说:“密西根大学需要一个可以搜索相关基金资助机会并将其导人我们的管理流程中的工具，市场上没有这样的产品。现在，我们可以利用 Pivot 的分类和强大的数据库来确定相关的基金资助机会，然后直接导人InfoReady Review,这是我们推广和管理项目的首选工具。这将大大节省时间，显著减少行政人员和教师的负担。”",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ProQuest产品管理副总裁Baker Evans表示:\"ProQuest不断寻找简化工作流程的方法，使得客户和用户能够更有效地利用时间，找到最佳的基金资金机会。Pivot 和InfoReady Review 的整合是一件很自然的事情，它可以减少人工操作并提高精确度。”",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(编译自: htp://www.proquest.com/about/news/2017/ProQuest-and-InfoReady-Simplify-Grant-Workflow.html) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 9
+    }
+]

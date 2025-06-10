@@ -1,0 +1,196 @@
+1 不同长链脂肪酸组合对体外瘤胃细菌发酵和群体结构的影响
+
+2 经语佳 高 健 王梦芝\* 何跃楠史良峰欧阳佳良
+
+3 （扬州大学动物科学与技术学院，扬州225009）
+
+摘要：本试验旨在研究不同长链脂肪酸组合对体外培养瘤胃细菌发酵和群体结构的影响。以3头瘤胃瘘管奶牛提供瘤胃液，对照（A）组底物含 $5 \%$ 脂肪酸钙，试验组培养底物中硬脂酸、油酸、亚油酸和亚麻酸的含量分别为 $1 . 5 \%$ 、 $1 . 0 \%$ 、 $0 . 5 \%$ 和 $1 . 5 \%$ （B组）， $1 . 5 \%$ 、 $1 . 0 \%$ 、$1 . 5 \%$ 和 $1 . 0 \%$ （C组）， $1 . 0 \%$ 、 $1 . 5 \%$ 、 $1 . 5 \%$ 和 $0 . 5 \%$ （D组）以及 $1 . 5 \%$ 、 $0 . 5 \%$ 、 $0 . 5 \%$ 和 $1 . 0 \%$ （E组）。在培养后0、3、6、12、18、 $2 4 \mathrm { ~ h ~ }$ 采集培养液，测定 $\mathrm { \ p H }$ 、氨氮浓度和瘤胃细菌含量。结果表明：1）培养液 $\mathsf { p H }$ 在组间的差异不显著（ $. P { > } 0 . 0 5 \$ ）； $\mathrm { ~  ~ { ~ C ~ } ~ }$ 组的培养液氨氮浓度显著高于B、D组( $( P { < } 0 . 0 5 ) _ { \circ } 2 )$ 除白色瘤胃球菌，其他菌属含量在组间存在显著差异( $_ { . P < 0 . 0 5 ) }$ ）。其中琥珀酸拟杆菌、生黄瘤胃球菌、蛋白溶解梭菌和嗜淀粉瘤胃杆菌含量在B 组较高；C组溶纤维丁酸弧菌、埃氏巨球菌、降解淀粉瘤胃球菌以及瘤胃总细菌含量显著高于其他各组（ $P { < } 0 . 0 5$ ）。培养液埃氏巨球菌含量最高，为优势菌。综合得出，脂肪酸组合对瘤胃总细菌和大部分细菌种属含量有显著影响，这与发酵模式有关。
+
+关键词：脂肪酸组合；瘤胃；细菌；群体结构
+
+# 中图分类号：S823
+
+反刍动物瘤胃微生物主要由细菌、原虫、古菌和真菌等组成[1-2]，其群体数量与结构与宿主动物机体的健康状况、饲料利用率、生产性能等密切相关[3]。油脂饲料可通过调控瘤胃微生物各群系的量、原虫吞噬细菌或古菌的互作等来影响瘤胃微生物群体数量及其结构，进而影响瘤胃发酵，最终影响宿主的饲料利用性能和生产性能。有研究报道，羊草底物条件下添加 $5 \%$ 和 $10 \%$ 的亚麻籽油显著降低了瘤胃微生物发酵的产气量和甲烷产量，提高了氢气产
+
+收稿日期：2016-01-28  
+基金项目：产学研协同创新项目（XT20140012）；江苏省自然科学基金基础研究项目（BK20151312）；江苏省优势学科（PAPD）  
+作者简介：经语佳（1992-），女，江苏江都人，硕士研究生,动物营养与饲料科学专业。E-mail:  
+873432484@qq.com  
+\*通信作者：王梦芝，副教授，硕士生导师，E-mail:mengzhiwangyz $@$ 126.com
+
+量[4]。而体外培养饱和度不同的植物油脂对培养液酶活、微生物活力[5]、瘤胃原虫、细菌蛋白及DNA[都有一定的影响。进一步对脂肪酸的研究表明，不同比例亚油酸与亚麻酸影响人工瘤胃体外发酵和其甲烷的生成，且随亚麻酸比例的升高效应增强[7；而且不同的脂肪酸对瘤胃发酵所产生乙酸和丙酸的量也有不同的影响[8]。我们前期6种不同长链脂肪酸的试验表明，饱和程度对瘤胃微生物的发酵模式有一定的调控作用[9，通过正交试验筛选出了对瘤胃微生物发酵模式（乙酸型发酵、丙酸型发酵、丁酸型发酵等）适宜的脂肪酸组合。但这些组合是否通过影响瘤胃细菌群体结构的机制来影响其发酵模式的尚不得而知。为此，本试验采用所筛选的脂肪酸组合进行瘤胃微生物的体外培养试验，通过检测不同瘤胃细菌种属的含量，以期为研究阐明脂肪酸影响反刍动物瘤胃微生态机理提供一些基础资料。
+
+1材料与方法
+
+# 1.1试验动物与饲养管理
+
+在扬州大学实验农牧场的奶牛场选取选3头体重为（ $5 6 0 { \pm } 1 8$ ）kg、平均产奶量为（15.5±0.5）kg并安装有瘤胃瘘管的4岁龄荷斯坦奶牛以提供瘤胃液。试验期间瘘管牛饲喂给奶牛场提供的常规饲粮（精粗比为40:60），每日07:00和19:00等量饲喂，自由饮水。
+
+# 1.2试验设计与培养底物
+
+本课题组前期对于瘤胃微生物发酵调控具有代表性的4种脂肪酸（硬脂酸、油酸、亚油酸、a-亚麻油酸）进行体外模拟瘤胃发酵技术培养瘤胃微生物，研究获得了对于瘤胃乙酸、丙酸、丁酸和总挥发性脂肪酸发酵最优的组合。根据得到最优脂肪酸组合比例，设计为 5组。A组：对照组，培养底物含 $5 \%$ 棕榈酸钙；B、C、D、E 组培养底物采用硬脂酸、油酸、亚油酸和亚麻酸的不同比例组合：B（ $1 . 5 \%$ 、 $1 . 0 \%$ 、 $0 . 5 \%$ 和 $1 . 5 \%$ ，乙酸型发酵）、C（ $1 . 5 \%$ 、$1 . 0 \%$ ， $1 . 5 \%$ 和 $1 . 0 \%$ ，丙酸型发酵）、D（ $1 . 0 \%$ 、 $1 . 5 \%$ 、 $1 . 5 \%$ 和 $0 . 5 \%$ ，丁酸型发酵）、E组（ $1 . 5 \%$ 、 $0 . 5 \%$ 、 $0 . 5 \%$ 和 $1 . 0 \%$ ，总挥发性脂肪酸型发酵）。其中不足 $5 \%$ 者由棕榈酸钙补足$5 \%$ 。每组各设3个重复，另外设1个无底物的空白对照。培养底物组成见表1。
+
+表1体外培养底物的组成  
+Table 1Composition of in vitro culture substrates   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>淀粉 Starch</td><td>25.50</td><td>25.50</td><td>25.50</td><td>25.50</td><td>25.50</td></tr></table></body></html>
+
+<html><body><table><tr><td>木聚糖 Xylan</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>阿拉伯聚糖Arabinoxylan</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>葡聚糖 Glucan</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>甘露聚糖Mannan</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>纤维素 Cellulose</td><td>32.00</td><td>32.00</td><td>32.00</td><td>32.00</td><td>32.00</td></tr><tr><td>果胶Pectin</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>木质素Lignin</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td><td>4.25</td></tr><tr><td>尿素Urea</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td><td>3.60</td></tr><tr><td>酪蛋白Casein</td><td>8.40</td><td>8.40</td><td>8.40</td><td>8.40</td><td>8.40</td></tr><tr><td>硬脂酸Stearic acid</td><td></td><td>1.50</td><td>1.50</td><td>1.00</td><td>1.50</td></tr><tr><td>油酸 Oleic acid</td><td></td><td>1.00</td><td>1.00</td><td>1.50</td><td>0.50</td></tr><tr><td>亚油酸Linoleic acid</td><td></td><td>0.50</td><td>1.50</td><td>1.50</td><td>0.50</td></tr><tr><td>a-亚麻酸a-linolenic acid</td><td></td><td>1.50</td><td>1.00</td><td>0.50</td><td>1.00</td></tr><tr><td>棕榈酸钙 Palmitate calcium</td><td>5.00</td><td>0.50</td><td></td><td>0.50</td><td>1.50</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr></table></body></html>
+
+# 1.3 体外培养
+
+体外培养参照Menke 等[10]的方法。晨饲前通过瘤胃瘘管从3头瘘管奶牛采集瘤胃液，按人工唾液盐：瘤胃液 $= 2 { : } 1$ 配制好培养液，通 $\mathrm { C O } _ { 2 } 3 9 ^ { \circ } \mathrm { C }$ 水浴预热备用。准确称取各组1.50g 底物置于培养瓶中，分别加入 $1 5 0 ~ \mathrm { m L }$ 培养液，通 $\mathrm { C O } _ { 2 } 3 9 \ \mathrm { ^ { \circ } C } \ 5 0 \ \mathrm { r / m i n }$ 振荡培养。在培养后0、3、6、12、18、 $2 4 \mathrm { h }$ 分别采集培养液待测。
+
+1.4 引物设计
+
+在GenBank上查找琥珀酸拟杆菌（Fibrobacter succinogenes）、生黄瘤胃球菌（Ruminococcus flavefaciens）等不同菌株的16S rDNA序列，然后利用DNAStar 中MegAlign进行序列比对，寻找种内保守区域，利用Primer express 5.0进行引物设计，并通过GenBank中 Blast检测引物特异性。引物序列见表2。
+
+表2主要微生物引物信息与序列表  
+Table 2PCR primers sequence of main microbias   
+
+<html><body><table><tr><td>项目 Items</td><td>引物序列 Primers sequence(5’ -3’)</td><td>退火温度 Tm/C</td><td>产物 Fragments/bp</td></tr><tr><td>琥珀酸拟杆菌</td><td>F:GTT CGGAATTAC TGG GCG TAA A</td><td>60.0</td><td>121</td></tr><tr><td>Fibrobactersuccinogenes</td><td>R:CGC CTG CCCCTG AACTATC</td><td></td><td></td></tr><tr><td>生黄瘤胃球菌</td><td>F:ATTGTC CCA GTTCAGATTGC</td><td>57.5</td><td>173</td></tr><tr><td>Ruminococcus flavefaciens</td><td>R:GGC GTC CTC ATTGCT GTT AG</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>白色瘤胃球菌</td><td>F:TCTGTCTTTGGGGACGATAA</td><td>53.5</td><td>178</td></tr><tr><td>Ruminococcus albus</td><td>R:AAG TGC AGTTCA GGG TTAA</td><td></td><td></td></tr><tr><td>溶纤维丁酸弧菌</td><td>F:TAA CATGAGAGTTTG ATCCTG GCTC</td><td>58.0</td><td>136</td></tr><tr><td>Butyrivibriofibrisolvens</td><td>R:CGT TAC TCA CCC GTC CGC</td><td></td><td></td></tr><tr><td>埃氏巨球菌</td><td>F:GATTCTGGCTCA GGATGAACG</td><td>60.0</td><td>128</td></tr><tr><td>Megasphaera elsdenii</td><td>R:CGG GTG CTICCC ACTTTC ATG</td><td></td><td></td></tr><tr><td>蛋白溶解梭菌</td><td>F:TCC GGT GGT ATG AGA TGG GC</td><td>55.0</td><td>164</td></tr><tr><td>Clostridium proteoclasticum</td><td>R:GTC GCTGCATCA GAG TTTCCT</td><td></td><td></td></tr><tr><td>嗜淀粉瘤胃杆菌</td><td>F:TGA CCG CCT GGG GAG TAC GG</td><td>60.0</td><td>237</td></tr><tr><td>Ruminobacter amylophilus</td><td>R：TTG CGC TCG TTG CGG GAC TT</td><td></td><td></td></tr><tr><td>降解淀粉瘤胃球菌</td><td>F:TTT GTC AAC GGC AGT CCT ATT</td><td>57.5</td><td>182</td></tr><tr><td>Ruminococcus bromii</td><td>R:AC CAG GTC TTG ACA TCG AGT G</td><td></td><td></td></tr><tr><td>细菌UBacterial-U</td><td>F:GAG GCA GCAGTAGGG AA</td><td>57.0</td><td>419</td></tr><tr><td></td><td>R:CAG CGT CAG TTA CAG ACC AGAG</td><td></td><td></td></tr></table></body></html>
+
+# 1.5指标测定
+
+采用上海雷磁pHS-3C 型酸度计即时测定样品 $\mathrm { \ p H }$ ；采用冯宗慈等[]的方法测定氨氮浓度。瘤胃细菌DNA参照 Zoetendal等[12]的珠磨法提取，采用实时定量PCR(RT-PCR)法在7500型RT-PCR仪上进行定量检测。以细菌U（Bacterial-U）为内参。
+
+1.6 微生物含量计算
+
+采用相对定量法定量各菌,表示为各菌占瘤胃总细菌16SrDNA的百分比。根据如下公式计算：
+
+式中：Ct目标菌为目标菌循环阈值；Ct总细菌为以总细菌的循环阈值。
+
+1.7 统计分析
+
+数据结果采用Excel2003建立数据库，采用 SPSS17.0软件中的GeneralLinearModel的Univariate方法进行统计分析，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。
+
+2结果
+
+2.1不同脂肪酸组合对培养液pH的影响
+
+表3表明，培养液 $\mathsf { p H }$ 在 $6 . 0 2 { \sim } 6 . 5 2$ 的范围内变化。不同脂肪酸组合的影响不显著（ $. P { > } 0 . 0 5$ ）；但时间的影响显著（ $. P { < } 0 . 0 5$ ），以培养后 $3  { \mathrm { h } }$ 的 $\mathsf { p H }$ 最高。时间和脂肪酸组合对pH有显著的互作效应（ $P { < } 0 . 0 5$ ），表现为：各组 $\mathsf { p H }$ 都在 $0 { \sim } 3 { \mathrm h }$ 间上升、在 $3 \mathord { \sim } 1 2 \mathrm { h }$ 间下降，其变化趋势比较一致；但在 $1 2 \mathord { \sim } 1 8 \mathrm { h }$ 间除A组外皆有所下降，在 $1 8 \sim 2 4 \mathrm { h }$ 间A、B组下降，而C、D、E组上升。
+
+Table 3Effects of different fatty acid combinations on $\mathrm { p H }$ of culture medium   
+表4不同脂肪酸组合对培养液氨氮浓度的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">平均值 Mean</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>0h</td><td>6.02</td><td>6.05</td><td>6.05</td><td>6.05</td><td>6.05</td><td>6.04e</td></tr><tr><td>3h</td><td>6.52</td><td>6.49</td><td>6.52</td><td>6.52</td><td>6.51</td><td>6.51a</td></tr><tr><td>6h</td><td>6.36</td><td>6.37</td><td>6.35</td><td>6.39</td><td>6.37</td><td>6.36b</td></tr><tr><td>12 h</td><td>6.28</td><td>6.38</td><td>6.37</td><td>6.33</td><td>6.27</td><td>6.32c</td></tr><tr><td>18 h</td><td>6.31</td><td>6.33</td><td>6.22</td><td>6.32</td><td>6.17</td><td>6.27d</td></tr><tr><td>24 h</td><td>6.29</td><td>6.27</td><td>6.37</td><td>6.35</td><td>6.40</td><td>6.34bc</td></tr><tr><td>平均值Mean</td><td>6.30</td><td>6.31</td><td>6.31</td><td>6.32</td><td>6.29</td><td></td></tr><tr><td>SEM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间Time</td><td colspan="6">0.015</td></tr><tr><td>脂肪酸组合 Fatty acid combination</td><td colspan="6">0.015</td></tr><tr><td>时间×脂肪酸组合 Time×fatty acid combination</td><td colspan="6">0.004</td></tr><tr><td>P值 P-value</td><td colspan="6"></td></tr><tr><td>时间 Time</td><td colspan="6">0.000</td></tr><tr><td colspan="6">脂肪酸组合 Fatty acid combination 0.180</td><td rowspan="2"></td></tr><tr><td colspan="6">时间×脂肪酸组合 Time×fatty acid combination</td></tr></table></body></html>
+
+平均值数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5$ ）。表4同。
+
+Means with different letter superscripts differed significantly $( P { < } 0 . 0 5 )$ . The same as table 4.
+
+# 2.2 不同脂肪酸组合对培养液氨氮浓度的影响
+
+83 表4表明，培养液氨氮浓度在 $7 . 9 1 \mathrm { \sim } 1 7 . 0 5 ~ \mathrm { m g / d L }$ 范围内变化。其中，脂肪酸组合的影  
+84 响显著 （ $P { < } 0 . 0 5$ ），以C组最高；时间的影响也显著（ $P { < } 0 . 0 5$ ），以0、3h较低。时间和  
+85 脂肪酸组合对氨氮浓度有显著的互作效应（ $P { < } 0 . 0 5$ ），表现为：在培养后 $0 { \sim } 3 { \mathrm h }$ 间，除A  
+86 组下降外其他各组皆上升；在 $3 \mathrm { \sim } 6 \mathrm { h }$ 间，除 $\mathrm { ~ D ~ }$ 组下降外其他各组皆上升；在 $6 \sim 1 2 \mathrm { h }$ 间，  
+87 除B 组上升外其他各组皆下降；在 $1 2 \mathord { \sim } 1 8 \mathrm { h }$ 间，除C组下降外其他组皆上升； $1 8 \sim 2 4 \mathrm { h }$ 间，  
+88 A、E组下降而B、C、D组上升。
+
+Table 4Effects of different fatty acid combinations on $\mathrm { N H } _ { 3 }$ -N concentration of culture medium mg/dL
+
+<html><body><table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>Mean</td></tr><tr><td>0h</td><td>11.03</td><td>8.69</td><td>10.44</td><td>9.64</td><td>9.67</td><td>9.89℃</td></tr><tr><td>3h</td><td>9.90</td><td>9.32</td><td>13.21</td><td>11.58</td><td>11.17</td><td>11.04bc</td></tr><tr><td>6h</td><td>14.46</td><td>10.74</td><td>17.05</td><td>8.48</td><td>15.28</td><td>13.20a</td></tr><tr><td>12 h</td><td>13.22</td><td>11.82</td><td>14.36</td><td>7.91</td><td>12.53</td><td>11.97ab</td></tr><tr><td>18 h</td><td>13.78</td><td>13.39</td><td>12.27</td><td>13.93</td><td>13.46</td><td>13.37a</td></tr><tr><td>24 h</td><td>13.33</td><td>14.67</td><td>13.67</td><td>14.35</td><td>11.67</td><td>13.54a</td></tr><tr><td>平均值Mean</td><td>12.62ab</td><td>11.44b</td><td>13.50a</td><td>10.98b</td><td>12.30ab</td><td></td></tr><tr><td>SEM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间Time</td><td colspan="6">3.261</td></tr><tr><td colspan="6">脂肪酸组合 Fatty acid combination 1.770</td></tr><tr><td>时间×脂肪酸组合 Time×fatty acid combination</td><td colspan="6">1.037</td></tr><tr><td colspan="6">P值P-value</td></tr><tr><td colspan="6">时间Time</td></tr><tr><td colspan="6">脂肪酸组合 Fatty acid combination 0.020</td></tr><tr><td colspan="6">时间×脂肪酸组合 Time×fatty acid combination 0.030</td></tr></table></body></html>
+
+# 2.3不同脂肪酸组合对培养液瘤胃细菌含量的影响
+
+表5表明，除白色瘤胃球菌含量在组间没有显著差异外，其他种属细菌含量组间存在显著差异（ $. P { < } 0 . 0 5$ ）。其中，琥珀酸拟杆菌、生黄瘤胃球菌、蛋白溶解梭菌和嗜淀粉瘤胃杆菌的含量均以B组的较高。溶纤维丁酸弧菌和降解淀粉瘤胃球菌含量以C组较高，显著高于其他各组（ $. P { < } 0 . 0 5$ ）。而埃氏巨球菌含量以A组最低，显著低于最高的C组（ $P { < } 0 . 0 5 \$ ）。各种所测定的细菌含量之间存在显著差异( $. P { < } 0 . 0 5 ^ { \cdot }$ )。其中，埃氏巨球菌含量最高( $8 . 4 5 \%$ ）为优势菌属；而白色瘤胃球菌（ $0 . 2 7 \%$ ）和生黄瘤胃球菌含量（ $0 . 4 4 \%$ ）相对较低。以所测得的种属计瘤胃总细菌含量，则以C组最高，显著高于其他各组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）。
+
+表5不同脂肪酸组合对培养液瘤胃细菌含量的影响  
+Table 5Effects of different fatty acid combinations on ruminal bacteria contents in culture   
+
+<html><body><table><tr><td colspan="2">medium</td><td colspan="8">%</td></tr><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td><td rowspan="2">平均值 Mean</td></tr><tr><td>A</td><td>B</td><td></td><td>C</td><td>D</td><td>E</td></tr><tr><td></td><td>琥珀酸拟杆菌 Fibrobacter succinogenes</td><td>1.69a</td><td>2.07a</td><td>1.09ab</td><td>0.50b</td><td>1.79a</td><td>0.63</td><td>0.014</td><td>1.43b</td></tr><tr><td>生黄瘤胃球菌 Ruminococcus flavefaciens</td><td></td><td>0.50b</td><td>0.84a</td><td>0.21c</td><td>0.12℃</td><td>0.53b</td><td>0.29</td><td>0.000</td><td>0.44b</td></tr><tr><td>白色瘤胃球菌 Ruminococcus albus</td><td></td><td>0.61</td><td>0.10</td><td>0.21</td><td>0.29</td><td>0.14</td><td>0.20</td><td>0.234</td><td>0.27b</td></tr><tr><td>溶纤维丁酸弧菌Butyrivibrio fibrisolvens</td><td></td><td>1.05c</td><td>2.33b</td><td>3.52a</td><td>0.70c</td><td>1.89b</td><td>1.11</td><td>0.000</td><td>1.90b</td></tr></table></body></html>
+
+<html><body><table><tr><td>埃氏巨球菌Megasphaeraelsdenii</td><td>1.14b</td><td>7.07ab</td><td>13.64a</td><td>9.59ab</td><td>10.79ab</td><td>4.72</td><td>0.021</td><td>8.45a</td></tr><tr><td>蛋白溶解梭菌 Clostridium proteoclasticum</td><td>1.84ab</td><td>2.37a</td><td>1.71ab</td><td>1.04b</td><td>1.94a</td><td>0.48</td><td>0.031</td><td>1.78b</td></tr><tr><td>嗜淀粉瘤胃杆菌Ruminobacter amylophilus</td><td>1.05bc</td><td>1.90a</td><td>1.05bc</td><td>0.58c</td><td>1.35ab</td><td>0.49</td><td>0.000</td><td>1.19b</td></tr><tr><td>降解淀粉瘤胃球菌Ruminococcus bromii</td><td>0.65b</td><td>4.59b</td><td>8.72a</td><td>0.60b</td><td>1.15b</td><td>3.53</td><td>0.001</td><td>3.14b</td></tr><tr><td>SEM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.16</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>总细菌 Total bacteria</td><td>8.53℃</td><td>21.27b</td><td>30.15a</td><td>13.42c</td><td>19.58b</td><td>8.21</td><td>0.007</td><td></td></tr></table></body></html>
+
+不同组数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5$ ），平均值数据肩标不同字母表示差异显著（ $_ { . } P { < } 0 . 0 5$ ）
+
+Values of different groups with different letter superscripts differed significantly $( P { < } 0 . 0 5 )$ and means with different letter superscripts differed significantly $( P { < } 0 . 0 5 )$ ：
+
+3讨论
+
+# 3.1不同脂肪酸组合对瘤胃细菌体外发酵的影响
+
+本试验中，培养液 $\mathrm { p H } \ ( 6 . 0 2 { \sim } 6 . 5 2 )$ 的变化范围不大且适宜于瘤胃微生物的生长。该结果与前人关于油脂或脂肪酸的试验结果有一定的一致性。体外培养瘤胃微生物，宋志刚等[13]在培养液中添加 $4 \%$ 的饱和程度不同的4种油脂，没有显著影响 $\mathrm { \ p H }$ ；皮宇等[14]添加 $3 \%$ 的饱和程度不同的6种脂肪酸， $\mathsf { p H }$ 的差异也不显著。本试验中，氨氮浓度在 $7 . 9 1 \mathrm { \sim } 1 7 . 0 5 ~ \mathrm { m g / d L }$ 范围变化，也属于瘤胃微生物的发酵代谢与生长的适宜浓度范围[15]。但氨氮浓度在脂肪酸组合组间差异显著，并以C 组较高而D组较低，C组>E组>B 组 $\mathrm { > D }$ 组。由于本研究的脂肪酸组合处理B、C、D、E 组的不饱和程度依次为0.92、1.00、0.50、0.71，即C 组>B 组>E组>D 组，氨氮浓度高低顺序与处理的不饱和程度基本一致。其原因之一可能是随着不饱和程度的降低，其对瘤胃原虫群体量[16-17]和其吞噬细菌活力的抑制效应增加[18]，相应地，其细菌的数量将增加、发酵活力将增强，进而可能导致了氨氮浓度的升高。这也与本试验中所测得的总细菌含量的排序C组 ${ \bf > B }$ 组>E组>D组基本一致。综合这些结果说明，不同的脂肪酸组合处理是通过影响了瘤胃细菌的群体进而影响其发酵的。另外，从时间的分析可见，C组氨氮浓度平均值较高主要归因于在 $3 \mathord { \sim } 1 2 \mathrm { h }$ 期间细菌发酵活力增强导致的氨氮浓度高于D组；相反，在 $1 8 \sim 2 4 \mathrm { h }$ 期间细菌生长活力增强利用氨氮也增加导致了氨氮浓度低于D组。3.2不同脂肪酸组合对体外培养瘤胃细菌的影响
+
+目前多数的报道是添加某种特殊的油脂或脂肪酸对瘤胃细菌的影响，系统探讨多种脂肪
+
+酸及其组合效应的研究并不多见，而本研究即是在前期筛选出对不同发酵模式最优的脂肪酸组合基础上再在进一步探讨其对瘤胃细菌的影响。本试验中，C 组的总细菌含量最高，这与上述其不饱和度较高有关，也有可能和其脂肪酸间的组合效应有关。而与此同时，C组的溶纤维丁酸弧菌在组间也为最高。分析其原因，一方面是因为溶纤丁弧菌多栖居于液相[19],而原虫也多吞噬为液相的0.2\~1.0μm大小的杆菌和球菌，而该组的不饱和键又对原虫吞噬力有一定的抑制所致；另一方面，也可能是由于该组合适量不饱和油脂（亚油酸）的添加，促进了该菌的繁殖以及其氢化功能[20]。Lee 等[2I]也曾报道，添加不饱和油脂（鱼油）提高了亚油酸的生物氢化量。溶纤维丁酸弧菌在瘤胃中代谢底物广泛，主要发酵产物是丁酸和乳酸；同时该菌与埃氏巨型球菌、反刍兽新月单胞菌等交互饲喂，维持瘤胃液pH的稳定。其所产生的乳酸可由乳酸利用菌埃氏巨型球菌所利用，并通过丙烯酰辅酶A 途径生成丙酸[22]。而本研究同时发现埃氏巨型球菌含量在C组也是最高的，为此可在一定程度上解释C 组是发酵后丙酸含量最高的脂肪酸组合。  
+降解淀粉瘤胃球菌也多栖居于瘤胃液相，由于主要以淀粉为代谢底物，是高精料、低pH 条件下相对活跃的菌属。如降解淀粉瘤胃球菌在瘤胃液 pH 较低的条件下含量较高[23]。关于饲粮，添加豆油和胡麻油的研究并没有发现肉牛瘤胃淀粉分解菌的变化[24]，但在本研究却发现C 组的降解淀粉瘤胃球菌含量最高。这可能是由于该组不饱和程度较高使得原虫对液相菌的吞噬下降所致。同时，该菌的提高及其与其他菌属的交互饲喂也可能导致淀粉终代谢产物之一的丙酸含量的增加，而这在一定程度上说明，本组适合丙酸型发酵的脂肪酸组合可能是通过提高降解淀粉瘤胃球菌含量来实现的。嗜淀粉瘤胃杆菌也是瘤胃中淀粉降解菌之一，其主要产物为乙酸和琥珀酸[25]。本试验中该菌以B 组最高，这在一定程度上解释了B 组为乙酸型发酵的脂肪酸组合；同时，嗜淀粉瘤胃杆菌也是瘤胃中主要的蛋白质降解菌之一，可将蛋白质降解为氨氮和氨基酸，并成为其生长的底物[26-27]。结合氨氮浓度的结果发现，B 组的氨氮浓度在培养后呈持续增长的趋势，这与该菌含量较高相吻合。这一结果同时也与王梦芝等[28]的研究中该菌在瘤胃液氨氮浓度高的豆粕饲粮中含量较高的结果相一致。生黄瘤胃球菌、白色瘤胃球菌和产琥珀酸丝状杆菌等降解纤维素类物质降解菌主要栖居于瘤胄固相，其发酵产物以乙酸为主。例如，高纤维素饲粮提高了牛瘤胃生黄瘤胃球菌和产
+
+琥珀酸拟杆菌数量[29]。本研究中，生黄瘤胃球菌和产琥珀酸丝状杆菌含量都在B 组较高。
+
+其中，生黄瘤胃球菌含量在B组提高的结果与金龙等[30]体外发酵添加 $4 \%$ 的棕榈仁油提高了生黄瘤胃球菌含量的结果一致；但产琥珀酸拟杆菌含量在B 组提高的结果与乌日娜[31添加6%的植物油脂时显著降低了瘤胃产琥珀酸丝状杆菌的结果有所不同。这可能是由于油脂添加超过一定比例时，因附着于瘤胃中纤维素和菌体表面，影响细菌的活动及其酶的分泌；或损害部分纤维素降解微生物的胞膜而抑杀微生物有关[32]。本研究中B 组这2种菌属含量的提高，与上述该组嗜淀粉瘤胃杆菌含量较高等结果一致，这说明B组的脂肪酸组合可能是通过影响瘤胃细菌组成来进一步提高其乙酸发酵的。但在本研究中，B组白色瘤胃球菌含量并没有显著增加，这和金龙等[30]添加 $4 \%$ 椰子油或棕榈仁油不影响白色瘤胃球菌含量结果一致。有研究认为，白色瘤胃球菌含量所产生的抗菌素可抑制生黄瘤胃球菌的生长[33]。进一步探讨本试验中试验组白色瘤胃球菌含量排序为D 组 ${ } _ { > } \mathrm { C }$ 组 $\mathrm { > E }$ 组>B 组，而生黄瘤胃球菌含量为B组 $_ { \mathrm { > E } }$ 组 ${ } _ { > } \mathrm { C }$ 组>D组，不难发现，2种菌属的含量排序相反，提示它们间可能存在一定的互抑作用，有关其互抑机制尚有待于进一步地探索。
+
+4结论
+
+$\textcircled{1}$ 体外培养添加不同脂肪酸组合，培养液 $\mathsf { p H }$ 和氨氮浓度都在适宜范围内变化，但其瘤  
+胃总细菌和部分细菌种属含量有显著变化，这与发酵模式有关。$\textcircled{2}$ 培养底物中硬脂酸、油酸、亚油酸和亚麻酸含量分别为 $1 . 5 \%$ 、 $1 . 0 \%$ 、 $0 . 5 \%$ 和 $1 . 5 \%$ 时，  
+培养液琥珀酸拟杆菌、生黄瘤胃球菌、蛋白溶解梭菌和嗜淀粉瘤胃杆菌含量较高。$\textcircled{3}$ 培养底物中硬脂酸、油酸、亚油酸和亚麻酸含量分别为 $1 . 5 \%$ 、 $1 . 0 \%$ ， $1 . 5 \%$ 和 $1 . 0 \%$ 时，  
+培养液溶纤维丁酸弧菌、降解淀粉瘤胃球菌和埃氏巨球菌含量较高。  
+参考文献：  
+[1] HUNGATE R E.The rumen and its microbes[M].NewYork:Academic Press,1966.  
+[2] ORPIN C G.Studies on the rumen flagellate Neocallimastix frontalis[J].Journal of GeneralMicrobiol0gy,1975,91(2):249-262.  
+[3]吕莉华,侯先志,王海蓉,等.定量检测瘤胃纤维降解细菌的 RT-PCR 法[J].中国农业科学,2008,41(6):1975-1803.  
+[4] 吴端钦,贺志雄,汤少勋,等.体外添加不同水平的亚麻籽油对气体产量、瘤胃发酵及脂肪酸组分的影响[J].天然产物研究与开发,2014,26(2):273-277.
+
+[5]王曙,王梦芝,卢占军,等.不同植物油脂对体外培养条件下培养液酶活及微生物活力的影响[J].动物营养学报,2011,23(8):1309-1316.
+
+[6] 拟豪杰,钱金华,李丹枫,等.不同油脂对瘤胃原虫、细菌蛋白质及DNA 影响的研究[J].中国畜牧杂志,2011,47(11):33-37.
+
+[7] 张春梅.植物油及十八碳不饱和脂肪酸对瘤胃甲烷生成和微生态的影响[D].博士学位论文.杭州：浙江大学，2008
+
+[8]RAMESHBP.含有不同脂肪酸组分的持续培养系统中添加脂类对瘤胃细菌的影响[J].姜雅慧，译.中国畜牧兽医,2011,38(11):159.
+
+[9] 经语佳,高健,郑亚洲,等.6 种长链脂肪酸对瘤胃微生物体外发酵挥发性脂肪酸浓度的影响 [J].动物营养学报,2014,26(1):252-259.
+
+[10] MENKE K H,STEINGASS H.Estimation of the energetic feed value obtained from chemical analysis and in vitro gas production using rumen fluid[J].Animal Research and Development,1988,28:7-55.
+
+[11]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].畜牧与饲料科学,2010,31(6/7):37.
+
+[12] ZOETENDAL E G,AKKERMANS A D L,DE VOS W M.Temperature gradient gel electrophoresis analysis of 16S rRNA from human fecal samples reveals stable and host-specificcommunities of active bacteria[J].Applied and Environmental Microbiology,1998,64(10):3854-3859.
+
+[13] 宋志刚,王梦芝,李大智,等.不同油脂对瘤胃微生物发酵及蛋白合成的影响[J].饲料工业,2010,31(3):37-41.
+
+[14] 皮宇,经语佳,王梦芝,等.不同脂肪酸对体外培养的瘤胃微生物活力和蛋白质含量的影响[J].动物营养学报,2014,26(1):260-269.
+
+[15] ORTEGA M E,STERNT M D,SATTER L D.The effect of rumen ammonia concentration on dry matter disappearance in situ[J].Journal of Dairy Science,1979,62(Suppl.1):76.
+
+[16] JENKINS T C.Lipid metabolism in the rumen[J].Journal of Dairy Science,1993,76(12):3851-3863.
+
+[17] DOREAU M,OTTOU JF.Influence of niacin supplementation on in vivo digestibility and ruminal digestion in dairy cows[J].Journal of Dairy Science,1996,79(12):2247-2254.
+
+[18] 王梦芝,程欣,谢文文,等.体外法研究不同油脂对瘤胃原虫吞噬细菌微循环的影响[J].中国 农业科学,2010,43(18):3831-3837.   
+[19] BROWN D W,MOORE W E C.Distribution of Butyrivibrio fibrisolvens in nature[J].Jourmal of Dairy Science,1960,43(11):1570-1574.   
+[20] CHILLIARD Y,BAUCHART D,GAGLIOSTRO G,et al.Duodenal rapeseed oil infusion in earlyand midlactation cows.1.Intestinal apparent digestibility of fattyacidsand lipids[J].Journal of Dairy Science,1991,74(2):490-498.   
+[21] LEE M R F,TWEED JK S,MOLONEY A P,et al.The effects of fish oil supplementation on rumen metabolism and the biohydrogenation of unsaturated fatty acids in beef steers given diets containing sunflower oil[J].Animal Science,2005,80(3):361-367.   
+[22] 赵培厅,刘大程,高民,等.饲粮不同 NFC/NDF 对奶山羊瘤胃溶纤维丁酸弧菌、牛链球菌及 埃氏巨型球菌含量变化的影响[J].动物营养学报,2011,23(10):1716-1724.   
+[23] 孙云章.不同底物下瘤胃微生物的发酵特性及细菌菌群变化的分子描述[D].博士学位论 文.南京:南京农业大学,2005.   
+[24] 杨舒黎,王加启,胡志勇,等.日粮添加豆油和胡麻油对肉牛瘤胃发酵及主要微生物数量的 影响[J].中国农业科学,2007,40(10):2316-2322.   
+[25]朱伟云.瘤胃微生物[M]/冯仰廉.反刍动物营养学.北京:科学出版社,2004.   
+[26] BLACKBURN T H.The protease liberated from Bacteroides amylophilus strain $\textsc { H } 1 8$ by mechanical disintegration[J].Journal of General Microbiology,1968,53(1):37-51.   
+[27] ARMSTEAD I P,LING JR.Variations in the uptake and metabolism of peptides and amino acidsbymixedruminalbacteriainvitro[J].AppliedandEnvironmental Microbiol0gy,1993,59(10):3360-3366.   
+[28] 王梦芝,詹爱军,高杨,等.利用实时定量PCR研究不同蛋白质饲料对嗜淀粉瘤胃杆菌生长 参数的影响[J].动物营养学报,2010,22(2):327-334.   
+[29] KUMAR S S,SINGH D S,NASIB S,et al.Differential rumen microbial dynamics and
+
+fermentation parameters in cattle fed on high fibre and high concentrate diets[J].Indian Journal of Animal Nutrition,2013,30(1):60-66.
+
+[30] 金龙,刘立成,林曦,等.添加椰子油和棕榈仁油对体外发酵瘤胃微生物的影响[C]/中国牛业健康发展与科技创新——中国畜牧兽医学会第七届养牛学分会2009年学术研讨会论文集.北京:中国畜牧兽医学会,2009.
+
+[31]乌日娜.植物油脂肪酸及钙盐对山羊瘤胃发酵和消化道吸收的影响[D].硕士学位论文.扬州：扬州大学,2009.
+
+[32] HESS B W,MOSS G E,RULE D C.A decade of developments in the area of fat supplementation research with beef catle and sheep[J].Journal of Animal Science,2O08,86(14 Suppl):E188-E204.   
+[33] ODENYO A A,MACKIE R I,STAHL D A,et al.The use of 16S rRNA-targeted oligonucleotide probes to study competition between ruminal fibrolytic bacteria:development of probes for Ruminococcus species and evidence for bacteriocin production[J].Applied and Environmental Microbiology,1994,60(10):3688-3696. Effects of Long-Chain Fatty Acid Combinations on Ruminal Bacterial Fermentation and Community in Vitro   
+JING Yujia GAO Jian WANG Mengzhi\* HE Yuenan SHI Liangfeng OUYANG Jialiang (College of Animal Science and Technology, Yangzhou University, Yangzhou 2250o9, China)   
+Abstract: This experiment was conducted to investigate the effects of long-chain fatty acid   
+combinations on ruminal bacterial fermentation and community in vitro. Three cows fitted with   
+permanent ruminal cannulas were used to provide rumen liquor for the in vitro trail. The substrate   
+of control （A） group contained $5 \%$ fatty acid calcium, and the substrates of experimental groups   
+contained stearic acid, oleic acid, linoleic acid and linolenic acid by the following contents: $1 . 5 \%$ ，   
+（204号 $1 . 0 \%$ ， $0 . 5 \%$ and $1 . 5 \%$ (B group), $1 . 5 \%$ ， $1 . 0 \%$ ， $1 . 5 \%$ and $1 . 0 \%$ (C group), $1 . 0 \%$ ， $1 . 5 \%$ ， $1 . 5 \%$ and   
+（20 $0 . 5 \%$ (D group), $1 . 5 \%$ ， $0 . 5 \%$ ， $0 . 5 \%$ and $1 . 0 \%$ (E group). Culture medium was collected for the   
+measurements of $\mathrm { p H }$ ， ammonia nitrogen concentration and rumen bacterial contents at O, 3, 6, 12,   
+18 and $2 4 \mathrm { ~ h ~ }$ after fermentation. The results showed as follows: 1） no significant difference was found in pH of culture medium $( P { > } 0 . 0 5 )$ ；ammonia nitrogen concentration in C group was significantly higher than that in B and $\mathrm { ~ D ~ }$ groups $( P { < } 0 . 0 5 )$ .2) Significant differences could be find in all bacterial genus except Ruminococcus albus ( $( P { < } 0 . 0 5 )$ .B group was higher in the contents of Fibrobactersuccinogenes， Ruminococcus flavefaciens， Clostridium proteoclasticum and Ruminobacter amylophilus; while group C was significantly higher in the contents of Butyrivibrio fibrisolvens, Megasphaera elsdeni Ruminococcus bromii and total bacterial than the other groups $( P { < } 0 . 0 5 )$ . Megasphaera elsdenii was the dominant bacterial genus with the highest content. In conclusion,faty acid combination has remarkable effects on the contents of rumen total bacteria and most bacterial genus,which is relate to rumen fermentation mode.   
+Key words: fatty acid combination; rumen; bacteria; community

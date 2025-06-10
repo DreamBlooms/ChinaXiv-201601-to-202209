@@ -1,0 +1,271 @@
+DOI:10.13930/j.cnki.cjea.170292
+
+周旋，吴良欢，戴锋．生化抑制剂组合与施肥模式对黄泥田水稻养分累积及利用率的影响[J]．中国生态农业学报，2017,25(10): 1495-1507Zhou X,WuLH,DaiF.Efectsofcombinedbiochemicalinhbitorsandfertlization modelsonnutrientuptakeanduseffi-ciency of rice in yelow clayey field[J]. Chinese Journal of Eco-Agriculture,2017,25(10): 1495-1507
+
+# 生化抑制剂组合与施肥模式对黄泥田水稻养分累积及利用率的影响
+
+周旋1,2，吴良欢1,2\*\*，戴锋
+
+(1.教育部环境修复与生态健康重点实验室/浙江大学环境与资源学院杭州310058;2.浙江省农业资源与环境重点实验室/浙江大学环境与资源学院杭州310058;3．浙江奥复托化工有限公司上虞312300)
+
+摘要：添加生化抑制剂是提高水稻肥料利用率的有效途径之一，本研究结合不同施肥模式探讨其节肥增效的养分利用特征，以期寻找适合黄泥田地区水稻高产高效的施用方式。采用二因素随机区组设计，研究生化抑制剂[脲酶抑制剂 N-丁基硫代磷酰三胺(NBPT)和N-丙基硫代磷酰三胺(NPPT)及硝化抑制剂 2-氯-6-(三氯甲基)吡啶(CP)]组合与施肥模式(一次性和分次施肥)互作对黄泥田水稻养分吸收、利用和分配的影响，并探讨各养分间及其与产量的相互关系。结果表明：生化抑制剂组合和施肥模式对水稻主要生育期N、P、K累积、转运和分配的影响均存在一定的互作效应，互作条件下各生育期养分间吸收存在协同效应。尿素分次施用处理水稻成熟期N、P、K吸收量较一次性施用处理分别提高 $1 1 . 0 \%$ 、 $0 . 9 \%$ 、 $4 . 2 \%$ ；氮肥吸收利用率、氮肥农学利用率分别显著提高 $2 7 . 5 \%$ 、 $70 . 8 \%$ 。不同施肥模式下，配施抑制剂组合(NBPT、NPPT/+CP)显著增加水稻N、P、K吸收量，促进抽穗后干物质生产和 $\mathrm { ~  ~ N ~ }$ 素积累，提高籽粒中的养分分配及N素利用效率。新型脲酶抑制剂NPPT单独施用及与CP配施的水稻养分吸收和利用与NBPT相似。相关分析表明，不同施肥模式下水稻成熟期 N、P、K吸收量与籽粒产量均呈极显著正相关。总之，通过施肥技术和抑制剂配施的集成与优化，有利于抽穗后N、P、K的吸收、转运，促进养分积累，大幅度同步提高黄泥田水稻的产量和养分利用效率。
+
+关键词：脲酶抑制剂；硝化抑制剂；施肥模式；黄泥田；养分累积；养分利用率中图分类号：S143.1 文献标识码：A 文章编号:1671-3990(2017)10-1495-1
+
+# Effects of combined biochemical inhibitors and fertilization models on nutrient uptake and use efficiency of rice in yellow clayey field
+
+ZHOU Xuan12,，WULianghuan12\*\*,DAIFeng   
+(1.KeyLaboratoryofEnvironmentalRemediationandEcosystemHealth,MinistryofEducation／CollgeofEnvironmentaland   
+Resource Sciences,Zhejiang UniversityHangzhou3oo58,China;2.ZhejiangProvincialKeyLaboratoryofAgriculturalResources   
+andEnvironment/CollgeofEnvironmentalandResource Sciences,Zhejiang University,Hangzhou310058,China;3.Zhejiang Aofutuo Chemical Limited Company,Shangyu 3123oo,China)
+
+Abstract:Aplicationofbiochemical inhibitors forureaseandnitrification isaneffectivewayofimproving fertilizeruefficiencyofrice.Theobjectiveof this studywastodetermine thecharacteristicsofnutrientuseofriceasaffectedbybiochemical inhibitorsandfertilization models,andfindtheoptimalyieldandeficient application methodinricegrowingregion inyellw clayeysoils.Itanalyzedtheinteractionefectsofiochemicalinibitors[ureaseinibitorsN-(n-butyl)thiophosphorictriamide (NBPT]andN-(n-propyl) thiophosphoric triamide(NPPT),and nitrificationinhibitor2-chloro--(trichloromethyl) pyridine (CP)] with fertilizationmodels (one-ofandthree-timefertilizations)onnutrientabsorption,utilzationand distributionof rice,and therelationship between nutrient uptakeand grain yield using two factor randomized block design.Results showed hat certain interaction effects was observed between inhibitor combination and fertilization modelon theuptake, utilization and distributionof nitrogen (N),phosphorus (P)and potasium (K)atthe main growth periods ofrice.The three times urea fertilization treatment significantly increased N,P and K uptake (respectively by $1 1 . 0 \%$ ， $0 . 9 \%$ and $4 . 2 \%$ )at maturity,and N recovery efficiency and N agronomic efficiency (respectively by $2 7 . 5 \%$ and $70 . 8 \%$ ）over those of one-off urea fertilization treatment. The addition of inhibitors (NBPT, $\mathrm { N P P T / + C P }$ ） significantly increased N, Pand K uptakes of rice, dry matter production and N accumulation after heading stage.It also improved the allocation of nutrients in grain and $\mathrm { ~ N ~ }$ use eficiency under different fertilization models.The application of new urease inhibitor NPPT alone or combined with CP hadthe similar efect on nutrient uptakeand use in paddy fields with NBPT.The uptake of N,Pand Kof rice at maturity had significant positive corelation with grain yield under different fertilization models.In conclusion,the integration and optimizationof fertilization techniques combined with inhibitors enhanced theuptake and transport of N,Pand K after heading stage.Italsopromoted nutrient accumulation and at the sametime significantly improved rice yield and nutrient use efficiency in yellow clayey fields.
+
+Keywords: Urease inhibitor; Nitrificationinhibitor;Fertilization model; Yellowclayey field; Nutrientuptake;Nutrientuse efficiency
+
+我国是世界上氮肥消耗量最多的国家，占世界氮肥消耗量的 $30 \%$ 左右，其中稻田氮肥用量约占我国氮肥总消费量的 $24 \%$ ，主要是尿素[1]，而氮肥当季利用率仅为 $3 0 \% { \sim } 3 5 \% ^ { [ 2 ] }$ ，甚至更低[3]。尿素是我国农业生产中应用最广泛的氮肥品种，其含氮(N)量高、价格便宜、使用方便，但利用率低、肥效短[4]。因此，如何有效提高氮肥利用率、保证作物高产并降低环境风险，是农业生产与环境保护迫切需要解决的问题[5]。
+
+脲酶抑制剂与尿素一起施用可以延缓酰胺态氮向铵态氮 $\mathrm { ( N H } _ { 4 } ^ { + } { - } \mathrm { N } )$ 的转化 $7 { \sim } 1 4 \mathrm { ~ d ~ }$ ，减少N素损失，提高氮肥利用率[6-7]。研究表明，在热带淹水稻田等地区，N-丁基硫代磷酰三胺(NBPT)可以有效提高作物产量和氮肥利用率[8]。从氮肥施用后在土壤中的生物化学转化过程入手，通过硝化抑制剂调控N素转化，也是实现N素高效利用并减缓氮肥污染的有效措施[9-10]。大量研究表明，尿素结合抑制剂研制缓/控释肥料，对其水解及N素转化形态、速率进行控制，可以延长肥效期，减少氮肥损失，提高水稻(Oryza sativaL.)对氮肥的利用效率[11]。但抑制效果同时受到土壤质地、有机质含量、温度、水分、pH、氮肥种类和耕作制度等影响[12-14]。
+
+黄泥田是广泛分布于南方省份的一种典型渗育型水稻土[15]，通常水分供应不足，磷(P)、钾(K)养分缺乏，属于中低产水稻田[16]。黄泥田施用磷肥易被铁、铝固定，氮肥、钾肥易流失，有效性低[17]，而添加硝化抑制剂氯甲基吡啶(CP)结合尿素能促进早、晚稻生长，增产增收，提高氮肥利用率[18]。孙海军等[19]研究认为，施用CP增加水稻秸秆与籽粒中含N量，减少N素经硝化反硝化、径流等途径损失，从而提高作物N素吸收与利用效率。
+
+相关研究指出，氮肥吸收利用效率受施N水平、施肥方法、土壤性状、气候条件和品种类型等因素的影响而存在较大差异[20-22]。确定合理的施N水平和施肥比例，可以满足水稻不同生育期对N素的需求，有效降低 N 素损失，提高利用效率[23-26]。研究表明，适当增加穗粒肥比率，可以提高氮肥的吸收利用率与生产效率[27-28]。目前，缺乏抑制剂配施与施肥模式互作对水稻养分吸收利用、转运和分配特征影响的研究。确立合理的施N量后，如何结合不同的抑制剂组合进行适宜的氮肥运筹管理，调控水稻主要生育期N、P、K的吸收利用及其与产量间的相关关系，尚不明确。浙江奥复托化工公司经多次筛选发现一款有良好应用前景的脲酶抑制剂一N-丙基硫代磷酰三胺(NPPT)[29]。为此，在前期试验[18,30]的基础上，本文进一步研究抑制剂与施肥模式互作条件下水稻对N、P、K吸收利用的特点，并探讨各养分吸收、分配及其与产量间的关系，寻找适合该地区水稻高产高效的施用方式，为黄泥田生化抑制剂直接配施农用提供理论依据和技术途径。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验于2015年5—10月在浙江省金华市婺城区琅琊镇金朱村 $( 2 9 ^ { \circ } 0 1 ^ { \prime } 1 9 ^ { \prime \prime } \mathrm { N }$ ， $1 1 9 ^ { \circ } 2 7 ^ { \prime } 9 6 ^ { \prime \prime } \mathrm { E }$ )进行。该区地处金衢盆地东缘，属于中亚热带季风气候，海拔$8 6 ~ \mathrm { m }$ ，年均降雨量 $1 4 2 4 \mathrm { m m }$ ，年均气温 $1 7 . 5 ~ \mathrm { ^ { \circ } C }$ 。供试土壤为黄泥田水稻土，前茬为冬闲田。耕层土壤基本理化性状为 $\mathrm { p H } ( \mathrm { H } _ { 2 } \mathrm { O } ) 5 . 3 1$ （土：水 $\mathrel { \mathop : } 1 : 1$ ），有机质25.60$\mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 }$ ，全氮 $1 . 8 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮 $1 1 8 . 4 0 \ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，有效磷 $7 . 2 1 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，速效钾 $9 3 . 0 0 \mathrm { m g \cdot k g ^ { - 1 } }$ 。
+
+# 1.2 供试材料
+
+供试水稻品种为杂交粘稻‘两优培九'。供试肥料品种氮肥为尿素(含 $N \text{‰}$ )，磷肥为过磷酸钙(含$\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ~ 1 2 \%$ ，钾肥为氯化钾(含 $\mathrm { K } _ { 2 } \mathrm { O } 6 0 \%$ )。脲酶抑制剂N-丁基硫代磷酰三胺(NBPT)、N-丙基硫代磷酰三胺(NPPT)和硝化抑制剂 2-氯-6-(三氯甲基)吡啶(CP) $24 \%$ 乳油剂型为分析纯，由浙江奥复托化工有限公司生产。
+
+# 1.3 试验设计
+
+试验采用生化抑制剂组合 $\times$ 施N模式两因素随机区组设计，设置2种施 $\mathrm { \Delta N }$ 模式(一次性和分次施肥)和6种生化抑制剂组合及不施 $\mathrm { ~ N ~ }$ 处理(CK)，共13个处理(表1)。氮肥与抑制剂配施前将两者混合均匀。磷$( { \bf P } _ { 2 } { \bf O } _ { 5 } )$ 、钾 $( \mathrm { K } _ { 2 } \mathrm { O } )$ 用量分别为 $9 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。磷肥和钾肥全部用作基肥于移栽前一次性施入。栽插密度为 $1 9 . 8 ~ \mathrm { c m } { \times } 1 9 . 8 ~ \mathrm { c m }$ ，25万穴 $\cdot \mathrm { h m } ^ { - 2 }$ ，每穴2苗。单季稻于2015年5月28日播种，6月21日移栽，10月14日收获。小区面积 $3 0 ~ \mathrm { m } ^ { 2 } ( 5 ~ \mathrm { m } { \times } 6 ~ \mathrm { m } )$ ，重复3次。每小区之间筑埂并用塑料薄膜包裹，区组间设排灌沟，单灌单排。田间其他管理按常规进行。
+
+表1不同处理氮肥施用方式Table 1N application methods of different treatments in the experiment  
+
+<html><body><table><tr><td>处理 Treatment</td><td>施N量 Nte(pg:hmion</td><td>抑制剂类型 Inhibitor</td><td>抑制剂添加量 Inhibitorate</td><td>施用方式 Application method</td><td></td></tr><tr><td>CK</td><td>1</td><td>1</td><td>1</td><td colspan="2">1</td></tr><tr><td>U</td><td>180</td><td>1</td><td>1</td><td colspan="2">一次性基施 One-off basal application</td></tr><tr><td>U+NBPT</td><td>180</td><td>NBPT</td><td>0.90</td><td colspan="2">一次性基施 One-off basal application</td></tr><tr><td>U+NPPT</td><td>180</td><td>NPPT</td><td>0.90</td><td colspan="2">一次性基施 One-off basal application</td></tr><tr><td>U+CP</td><td>180</td><td>CP</td><td>0.54</td><td colspan="2">一次性基施 One-off basal application</td></tr><tr><td>U+NBPT+CP</td><td>180</td><td>NBPT+CP</td><td>0.90+0.54</td><td colspan="2">一次性基施 One-off basal application</td></tr><tr><td>U+NPPT+CP</td><td></td><td>NPPT+CP</td><td>0.90+0.54</td><td colspan="2"></td></tr><tr><td>U3</td><td>180</td><td>1</td><td>1</td><td>一次性基施 One-off basal application 基肥：分藥肥：穗肥=5：3：2</td><td>Base:tillering:earing=5:3:2</td></tr><tr><td>U3+NBPT</td><td>180</td><td>NBPT</td><td>0.90</td><td>基肥：分蘖肥：穗肥=5：3：2</td><td>Base:tillering:earing=5:3:2</td></tr><tr><td>U3+NPPT</td><td>180</td><td>NPPT</td><td>0.90</td><td>基肥：分藥肥：穗肥=5：3：2</td><td>Base:tillering:earing=5:3:2</td></tr><tr><td></td><td>180 180</td><td>CP</td><td>0.54</td><td>基肥：分藥肥：穗肥=5：3：2</td><td></td></tr><tr><td>U3+CP</td><td></td><td>NBPT+CP</td><td>0.90+0.54</td><td>基肥：分藥肥：穗肥=5：3：2</td><td>Base:tillering:earing=5:3:2</td></tr><tr><td>U3+NBPT+CP U3+NPPT+CP</td><td>180 180</td><td>NPPT+CP</td><td>0.90+0.54</td><td>基肥：分藥肥：穗肥=5：3：2</td><td>Base:tillering:earing=5:3:2 Base : tillering : earing=5 : 3 : 2</td></tr></table></body></html>
+
+NBPT:N-丁基硫代磷酰三胺;NPPT:N-丙基硫代磷酰三胺；CP:2-氯-6-(三氯甲基)吡啶。分次施肥(基肥、分肥、穗肥)时间分别为6月 21日、7月8日8:N(btyoospicrade;:N(psptde;CP:o-6( pyridine.Thetimeofsplitfertilizatio (base,tileringandearing fertilizer)were21June,8July,and10August,respectively.
+
+水稻生育期(6—10 月)气象温度数据由浙江省金华市气象站提供(图1)，最高气温、最低气温及平均气温分别为 $2 9 . 9 \mathrm { ~ \textdegree ~ }$ 、 $2 2 . 6 \mathrm { ~ \textdegree C }$ 、 $2 6 . 2 \ \mathrm { { ^ \circ C } }$ 。
+
+# 1.4 测定项目及方法
+
+分别于水稻分蘖盛期、孕穗期、抽穗期及成熟期，按各小区平均茎蘖数各取代表性稻株5穴，剪去根后，分茎鞘、叶和穗3部分烘干称重并粉碎，测定各器官中养分含量，用 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 消煮，凯氏定氮法测N含量，钒钼黄比色法测P含量，火焰光度法测K含量。成熟期各小区单收，按实收株数
+
+计产。
+
+氮肥吸收利用效率计算方法如下：
+
+N、P、K素积累总量(total N,P,Kaccumulation,TNA，TPA，TKA)：成熟期单位面积植株(茎、叶和穗)N、P、K积累量的总和。
+
+收获指数(harvestindex， $\mathrm { H I } ) =$ 成熟期籽粒干重成熟期植株总干重 (1)
+
+N、P、K收获指数(N,P,Kharvest index,N,P,KHI $\vDash$ 成熟期单位面积植株籽粒N、P、K素积累量/植株该元素总积累量 (2)
+
+![](images/acd1860a0a654d3f9d661f0226faca27247bdd7b0ccf32da6165f98846826b65.jpg)  
+图1水稻生育期间气温  
+Fig.1Dynamic changes of air temperatures during rice growth stage
+
+氮肥吸收利用率(N recovery efficiency，NRE)$( \% ) = ($ 施 $\mathrm { ~ N ~ }$ 区地上部植株吸N量-空白区地上部植株吸 $\mathrm { ~ N ~ }$ 量)/施 $\mathrm { ~ N ~ }$ 量 $\times 1 0 0 \%$ (3)
+
+氮肥农学利用率( $\mathrm { \Delta N }$ agronomic efficiency, NAE) $( \mathbf { k g } { \cdot } \mathbf { k g } ^ { - 1 } )$ =(施 $\mathrm { ~ N ~ }$ 区产量-空白区产量)/施N量(4)
+
+氮肥生理利用率(N physiological efficiency, NPE) $( \mathbf { k g } { \cdot } \mathbf { k g } ^ { - 1 } )$ =(施N区产量-空白区产量)/(施N区地 上部植株吸 $\mathrm { ~ N ~ }$ 量-空白区地上部植株吸N量) (5)
+
+氮肥偏生产力(N partial factor productivity, NPFP) $( \mathbf { k g } { \cdot } \mathbf { k g } ^ { - 1 } ) { = }$ 施N处理产量/施N量 (6)
+
+# 1.5 数据处理
+
+采用Microsoft Excel 2003 和 SPSS17.0 数据分析软件进行统计分析。
+
+# 2 结果与分析
+
+# 2.1生化抑制剂组合与施肥模式对水稻干物质积累的影响
+
+由表2可知，施肥模式对水稻分蘖盛期、成熟期干物质累积量及收获指数(HI)效应显著或极显著（204号 $( P { < } 0 . 0 5 { \sim } 0 . 0 0 1 )$ ，生化抑制剂组合对分蘖盛期、成熟期干物质累积量效应极显著 $( P { < } 0 . 0 1 { \sim } 0 . 0 0 1 )$ ，两者交互效应对分蘖盛期干物质累积量效应显著 $( P { < } 0 . 0 5 )$ 。整个生育期水稻干物质累积量呈上升趋势，各生育期均以CK处理最低。说明氮肥施用有利于水稻干物质的积累。分蘖盛期干物质累积量以U、U3处理最高，其他处理间差异不大。孕穗期和抽穗期施N处理间差异不大。
+
+U3处理水稻成熟期干物质累积量较U处理提高 $3 . 0 \text{‰}$ 一次性施用中，施 $\mathrm { ~  ~ { ~ N ~ } ~ }$ 处理较CK处理增幅为 $3 3 . 8 \% { \sim } 4 8 . 5 \%$ 。与U处理相比， $\mathrm { U } { + } \mathrm { N B P T }$ 1$\mathrm { U } { + } \mathrm { N P P T }$ 、 $\mathbf { U } { + } \mathbf { C P }$ 、 $\mathrm { U + N B P T + C P }$ 和 $\mathrm { U + N P P T + C P }$ 处理成熟期干物质累积量分别提高 $1 . 3 \%$ 、 $5 . 3 \%$ 1$1 1 . 0 \%$ ！ $7 . 7 \%$ 和 $9 . 3 \%$ 。分次施用中，施 $\mathrm { ~  ~ N ~ }$ 处理较CK处理增幅为 $3 7 . 8 \% { \sim } 5 5 . 3 \%$ 。与U3 处理相比,$\mathrm { U } 3 \mathrm { + N B P T }$ 、 $\mathrm { U } 3 \mathrm { + N P P T }$ 、 $\mathrm { U } 3 { + } \mathrm { C P }$ 、 $\mathrm { U 3 + N B P T + C P }$ 和$\mathrm { U 3 + N P P T + C P }$ 处理成熟期干物质累积量分别提高$4 . 6 \%$ 、 $3 . 3 \%$ 、 $1 0 . 9 \%$ 、 $10 . 1 \%$ 和 $12 . 7 \%$ 。说明施用尿素添加抑制剂土壤供 $\mathrm { ~  ~ N ~ }$ 能力持续时间长，能显著提高水稻成熟期干物质积累，为高产奠定基础。U3处理水稻HI较U处理提高 $9 . 2 \text{‰}$ 一次性施用中，各抑制剂处理HI较U处理增幅为 $5 . 1 \% { \sim } 1 0 . 3 \%$ ；分次施用中，各抑制剂处理 HI 较U3 处理增幅为$1 . 0 \% { \sim } 6 . 2 \%$ 0
+
+# 2.2生化抑制剂组合与施肥模式对N素吸收、分配与利用率的影响
+
+# 2.2.1 N素吸收
+
+由表3可知，施肥模式对水稻孕穗期、抽穗期、成熟期N素累积量(TNA)和抽穗后N素积累比例效应极显著 $( P { < } 0 . 0 0 1 )$ ，生化抑制剂组合对 $\mathrm { ~  ~ N ~ }$ 素吸收指标(抽穗期 TNA 除外)效应显著或极显著 $( P { < } 0 . 0 5$ 或0.001)，两者交互效应对分蘖盛期、孕穗期TNA和抽穗后N素积累显著 $( P { < } 0 . 0 5 )$ 。整个生育期水稻TNA呈上升趋势，各生育期均以CK处理最低。说明氮肥施用有利于水稻TNA的积累。分蘖盛期TNA以U、U3处理最高，其他处理间差异不大。孕穗期施N处理间差异不大。抽穗期尿素分次施用均显著高于一次性施用。
+
+U3处理水稻成熟期TNA 较U 处理显著提高$1 1 . 0 \%$ 。说明分次施肥有利于满足水稻的N素需求，可以显著增加水稻成熟期TNA累积。一次性施用中,施N处理较CK处理增幅为 $6 7 . 0 \% { \sim } 9 8 . 8 \% _ { \circ }$ 与U处理相比, $\mathrm { U } { + } \mathrm { N B P T }$ 、 $\mathrm { U } { + } \mathrm { N P P T }$ 、 $\scriptstyle { \mathrm { U + C P } }$ 、 $\mathrm { U + N B P T + C P }$ 和 $\mathbf { U } { + } \mathbf { N P P T + C P }$ 处理成熟期TNA分别提高 $9 . 2 \%$ /$1 1 . 1 \%$ 、 $1 9 . 0 \%$ 、 $1 8 . 6 \%$ 和 $1 8 . 6 \%$ 。分次施用中，施 $\mathrm { ~  ~ N ~ }$ 处理较CK处理增幅为 $8 5 . 4 \% \sim 1 2 0 . 8 \%$ ，与U3处理相比, $\mathrm { U } 3 \mathrm { + N B P T }$ ！ $\mathrm { U } 3 \mathrm { + N P P T }$ ！ $\mathrm { U } 3 { + } \mathrm { C P }$ ！ $\mathrm { U 3 + N B P T + C P }$ 和 $\mathrm { U 3 + N P P T + C P }$ 处理成熟期TNA分别提高 $3 . 8 \%$ /$4 . 8 \%$ 、 $1 3 . 6 \%$ 、 $1 5 . 8 \%$ 和 $1 9 . 1 \text{‰}$ 说明施用尿素添加抑制剂土壤供 $\mathrm { ~  ~ N ~ }$ 能力持续时间长，能显著提高水稻成熟期TNA，为高产奠定基础。
+
+U3 处理水稻抽穗后 N 素积累较U 处理提高$8 . 2 \%$ 。说明分次施肥有利于满足水稻的 $\mathrm { ~  ~ N ~ }$ 素需求，可以增加水稻抽穗后 $\mathrm { ~  ~ N ~ }$ 素累积。一次性施用中，施N处理较CK处理增幅为 $5 4 . 5 \% { \sim } 1 2 9 . 8 \%$ ，与U处理相比, $\mathbf { U } { + } \mathbf { N B P T }$ 、 $\scriptstyle \mathrm { U + N P P T }$ 、 $\scriptstyle { \mathrm { U + C P } }$ 、 $\mathrm { U + N B P T + C P }$ 和$\mathrm { U + N P P T + C P }$ 处理抽穗后 $\mathrm { ~  ~ { ~ N ~ } ~ }$ 素积累分别提高 $2 7 . 0 \%$ /$30 . 5 \%$ 、 $4 8 . 0 \%$ 、 $4 4 . 5 \%$ 和 $4 8 . 8 \% _ { \textmd c }$ ，分次施用中，施 $\mathrm { ~ N ~ }$ 处理较CK处理增幅为 $6 7 . 2 \% { \sim } 1 4 5 . 0 \%$ ，与U3处理相比, $\mathrm { U } 3 \mathrm { + N B P T }$ 1 $\mathrm { U } 3 \mathrm { + N P P T }$ 1 $\mathrm { U } 3 { + } \mathrm { C P }$ / $\mathrm { U 3 + N B P T + C P }$ 和 $\mathrm { U 3 + N P P T + C P }$ 处理抽穗后 $\mathrm { ~  ~ N ~ }$ 素积累分别提高$9 . 3 \%$ 、 $1 1 . 9 \%$ 、 $2 5 . 8 \%$ 、 $34 . 3 \%$ 和 $4 6 . 5 \%$ ，说明施用尿素添加抑制剂能提高水稻抽穗后 $\mathrm { ~  ~ N ~ }$ 素累积，有利于保持抽穗后 $\mathrm { ~  ~ { ~ N ~ } ~ }$ 素同化能力和吸收能力。U3处理水稻$\mathrm { ~  ~ N ~ }$ 素收获指数(NHI)较U处理提高 $1 . 7 \text{‰}$ 一次性施用中，各抑制剂处理NHI较U处理增幅为$1 . 9 \% { \sim } 1 0 . 0 \%$ ；分次施用中，各抑制剂处理NHI较U3处理增幅为 $4 . 2 \% { \sim } 1 1 . 0 \%$
+
+表2不同生化抑制剂组合与施肥模式处理下水稻各生育期生物产量和收获指数Table2Efectsofdiferentcombinationsofbiochemicalinhibitorsandfertilizationmodelsonbiomassatdiferentgrowthstagesand harvest index of rice  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="4">生物产量 Biomass (t·hm-2)</td><td rowspan="2">收获指数(HI) Harvest index (%)</td></tr><tr><td>分蘖盛期 Mid-tillering stage</td><td>孕穗期 Panicle initiation stage</td><td>抽穗期 Heading stage</td><td>成熟期 Maturity stage</td></tr><tr><td>CK</td><td>3.7±0.1e</td><td>6.3±0.2d</td><td>9.8±0.3b</td><td>11.2±0.3g</td><td>57.5±1.7a</td></tr><tr><td>U</td><td>4.7±0.1b</td><td>7.1±0.2bc</td><td>10.8±0.3a</td><td>15.0±0.4f</td><td>47.7±1.4d</td></tr><tr><td>U+NBPT</td><td>4.3±0.1cd</td><td>7.1±0.2bc</td><td>10.3±0.3ab</td><td>15.2±0.4ef</td><td>50.1±1.4cd</td></tr><tr><td>U+NPPT</td><td>4.0±0.1de</td><td>7.2±0.2bc</td><td>10.1±0.3ab</td><td>15.8±0.5cdef</td><td>52.5±1.5bc</td></tr><tr><td>U+CP</td><td>4.0±0.1de</td><td>8.0±0.2a</td><td>10.4±0.3ab</td><td>16.7±0.5abcd</td><td>51.5±1.5bcd</td></tr><tr><td>U+NBPT+CP</td><td>4.3±0.1cd</td><td>7.1±0.2bc</td><td>10.2±0.3ab</td><td>16.2±0.5abcdef</td><td>52.6±1.5bc</td></tr><tr><td>U+NPPT+CP</td><td>3.8±0.1e</td><td>7.3±0.2bc</td><td>10.6±0.3ab</td><td>16.4±0.5abcde</td><td>51.1±1.5bcd</td></tr><tr><td>U3</td><td>5.4±0.2a</td><td>7.0±0.2bc</td><td>10.9±0.3a</td><td>15.5±0.4def</td><td>52.1±1.5bcd</td></tr><tr><td>U3+NBPT</td><td>4.5±0.1bc</td><td>6.9±0.2bc</td><td>10.5±0.3ab</td><td>16.2±0.5abcdef</td><td>52.6±1.5bc</td></tr><tr><td>U3+NPPT</td><td>4.0±0.1de</td><td>6.8±0.2cd</td><td>10.4±0.3ab</td><td>16.0±0.5bcdef</td><td>52.7±1.5bc</td></tr><tr><td>U3+CP</td><td>4.8±0.1b</td><td>7.1±0.2bc</td><td>10.9±0.3a</td><td>17.2±0.5ab</td><td>53.3±1.5abc</td></tr><tr><td>U3+NBPT+CP</td><td>4.7±0.1b</td><td>7.5±0.2ab</td><td>10.8±0.3a</td><td>17.0±0.5abc</td><td>55.3±1.6ab</td></tr><tr><td>U3+NPPT+CP</td><td>4.0±0.1de</td><td>7.1±0.2bc</td><td>10.7±0.3ab</td><td>17.4±0.5a</td><td>54.2±1.6abc</td></tr><tr><td colspan="6">ANOVA</td></tr><tr><td>F</td><td>***</td><td>ns</td><td>ns</td><td>*</td><td>**</td></tr><tr><td>I</td><td>***</td><td>ns</td><td>ns</td><td>**</td><td>ns</td></tr><tr><td>F×I</td><td>*</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>
+
+F：施肥模式;I:抑制剂组合; $\mathrm { F } { \times } \mathrm { I }$ ：施肥模式 $\mathrm { . } \times$ 抑制剂组合。表中数值为平均值 $\pm$ 标准误 $( n { = } 3 ) _ { \circ }$ 同列不同字母表示处理间0.05水平差异显著 (LSD检验)。\*, $^ { * * }$ 和 $* * *$ 分别表示在0.05、0.01和0.0o1水平上差异显著。F:fertilizer model; I: inhibitor combination; $\mathrm { F } { \times } \mathrm { I }$ ：fertilizer model $\times$ inhibitor combination.Data in the table are Mean $\pm$ SE $\scriptstyle ( n = 3 )$ ).Values followed by different letters are significantly different at $P < 0 . 0 5$ (LSD). $^ *$ 5 $^ { * * }$ and $^ { * * * }$ mean significant differences at 0.05,0.01 and 0.00l probability levels,respectively.
+
+表3不同生化抑制剂组合与施肥模式处理下水稻各生育期N素吸收和N收获指数Table 3Efectsofdifferentcombinationsofbiochemicalinibitorsandfertilization modelsonNuptakeatdiferentgrowthstagand Nharvest index of rice  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="4">N素累积量(TNA) Total nitrogen accumulation (kg·hm-2)</td><td rowspan="2">N收获指数 (NHI) Nitrogen harvest index (%)</td><td rowspan="2">抽穗后N素积累 N accumulation after heading</td><td rowspan="2">抽穗后N素积累比例 N accumulation ratio after heading</td></tr><tr><td>分襄盛期 Mid-tillering</td><td>孕穗期 Panicle initiation stage</td><td>抽穗期 Heading</td><td>成熟期 Maturity</td></tr><tr><td>CK</td><td>stage 24.0±0.7g</td><td>25.5±0.7g</td><td>stage 42.2±1.2c</td><td>stage 72.8±2.1g</td><td>61.9±1.8abc</td><td>(kg·hm-2) 30.3±0.9i</td><td>(%) 41.6±1.2cde</td></tr><tr><td>U</td><td>51.7±1.5a</td><td>48.9±1.4f</td><td>74.8±2.2b</td><td>121.6±3.5f</td><td>56.7±1.6d</td><td>46.8±1.4h</td><td>38.5±1.1ef</td></tr><tr><td>U+NBPT</td><td>43.2±1.3cd</td><td>52.1±1.5ef</td><td>73.3±2.1b</td><td>132.7±3.8ef</td><td>57.7±1.7bcd</td><td>59.4±1.7def</td><td>44.8±1.3abc</td></tr><tr><td>U+NPPT</td><td>39.3±1.1ef</td><td>52.5±1.5ef</td><td>74.0±2.1b</td><td>135.1±3.9de</td><td>60.0±1.7abcd</td><td>61.1±1.8de</td><td>45.2±1.3abc</td></tr><tr><td>U+CP</td><td>45.2±1.3bc</td><td>60.9±1.8ab</td><td>75.5±2.2b</td><td>144.7±4.2bcd</td><td>61.3±1.8abcd</td><td>69.3±2.0ab</td><td>47.9±1.4a</td></tr><tr><td>U+NBPT+CP</td><td>40.9±1.2def</td><td>58.0±1.7abc</td><td>76.7±2.2b</td><td>144.3±4.2cde</td><td>59.6±1.7abcd</td><td>67.6±2.0bc</td><td>46.9±1.4ab</td></tr><tr><td>U+NPPT+CP</td><td>37.6±1.1f</td><td>52.7±1.5def</td><td>74.6±2.2b</td><td>144.2±4.2cde</td><td>62.3±1.8abc</td><td>69.6±2.0ab</td><td>48.3±1.4a</td></tr><tr><td>U3</td><td>49.0±1.4a</td><td>57.2±1.6bcd</td><td>84.4±2.4a</td><td>135.0±3.9de</td><td>57.6±1.7cd</td><td>50.6±1.5gh</td><td>37.5±1.1f</td></tr><tr><td>U3+NBPT</td><td>48.2±1.4ab</td><td>55.0±1.6cde</td><td>84.8±2.4a</td><td>140.2±4.0de</td><td>62.1±1.8abc</td><td>55.4±1.6fg</td><td>39.5±1.1ef</td></tr><tr><td>U3+NPPT</td><td>39.1±1.1ef</td><td>58.5±1.7abc</td><td>84.8±2.5a</td><td>141.5±4.1de</td><td>60.0±1.7abcd</td><td>56.7±1.6ef</td><td>40.0±1.2def</td></tr><tr><td>U3+CP</td><td>44.7±1.3bc</td><td>57.6±1.7abc</td><td>89.6±2.6a</td><td>153.3±4.4abc</td><td>62.9±1.8a</td><td>63.7±1.8cd</td><td>41.6±1.2cde</td></tr><tr><td>U3+NBPT+CP</td><td>43.7±1.3cd</td><td>61.9±1.8a</td><td>88.3±2.5a</td><td>156.3±4.5ab</td><td>62.8±1.8ab</td><td>68.0±2.0bc</td><td>43.5±1.3bcd</td></tr><tr><td>U3+NPPT+CP</td><td>41.7±1.2cde</td><td>58.2±1.7abc</td><td>86.6±2.5a</td><td>160.8±4.6a</td><td>63.9±1.8a</td><td>74.2±2.1a</td><td>46.2±1.3ab</td></tr><tr><td colspan="8">ANOVA</td></tr><tr><td>F</td><td>ns</td><td>***</td><td>***</td><td>***</td><td>ns</td><td>ns</td><td>***</td></tr><tr><td>I</td><td>***</td><td>***</td><td>ns</td><td>***</td><td>*</td><td>***</td><td>***</td></tr><tr><td>F×I</td><td>＊</td><td>*</td><td>ns</td><td>ns</td><td>ns</td><td>*</td><td>ns</td></tr></table></body></html>
+
+F:施肥模式;I:抑制剂组合; $\mathrm { F } { \times } \mathrm { I }$ ：施肥模式 $\mathrm { . } \times$ 抑制剂组合。表中数值为平均值 $\pm$ 标准误 $( n { = } 3 ) _ { \circ }$ 同列不同字母表示处理间0.05水平差异显著 (LSD检验)。\*, $* *$ 和 $* * *$ 分别表示在0.05、0.01和0.0o1水平上差异显著。F: fertilizer model; I: inhibitor combination; $\mathrm { F } { \times } \mathrm { I }$ ：fertilizer model $\times$ inhibitor combination.Data in the table are Mean $\pm$ SE $\scriptstyle ( n = 3$ ).Values followed by different letters are significantly different at $P < 0 . 0 5$ (LSD). $^ *$ 5 $^ { * * }$ and $^ { * * * }$ mean significant differences at 0.05,0.O1 and 0.0ol probability levels,respectively.
+
+# 2.2.2 氮肥利用率
+
+由表4可知，施肥模式对水稻NRE、NAE和NPFP效应极显著 $( P { < } 0 . 0 1 { \sim } 0 . 0 0 1 )$ ，生化抑制剂组合对氮肥利用率指标效应均极显著 $( P { < } 0 . 0 0 1 )$ ，两者交互效应对NAE和NPE极显著 $\left( P { < } 0 . 0 1 { \sim } 0 . 0 0 1 \right)$ ）
+
+U3处理水稻NRE、NAE和NPFP较U处理显著提高 $2 7 . 5 \%$ 、 $70 . 8 \%$ 和 $1 4 . 2 \% _ { \textmd { c } }$ ，说明分次施肥有利于满足水稻的N素需求，可以显著增加水稻NRE、NAE和NPFP。与U处理相比, $\mathrm { U } { + } \mathrm { N B P T }$ ！ $\scriptstyle { \mathrm { U + N P P T } }$ $\scriptstyle { \mathrm { U + C P } }$ 、 $\mathrm { U + N B P T + C P }$ 和 $\mathrm { U + N P P T + C P }$ 处理NRE分别提高 $2 2 . 8 \%$ ！ $2 7 . 6 \%$ 1 $47 . 4 \%$ 1 $4 6 . 4 \%$ 和 $4 6 . 4 \%$ ; NAE分别提高 $1 1 3 . 7 \% _ { \cdot } 1 1 1 . 1 \% _ { \cdot } 1 0 0 . 2 \% _ { \cdot } 1 2 0 . 3 \%$ 和 $12 8 . 7 \%$ NPFP分别提高 $2 2 . 8 \%$ 、 $2 2 . 2 \%$ 、 $20 . 1 \%$ 、 $24 . 1 \%$ 和$2 5 . 8 \%$ ，与 U3 处理相比， $\mathrm { U } 3 \mathrm { + N B P T }$ 、 $\mathrm { U } 3 \mathrm { + N P P T }$ /$\mathrm { U } 3 { + } \mathrm { C P }$ 、 $\mathrm { U 3 + N B P T + C P }$ 和 $\mathrm { U 3 + N P P T + C P }$ 处理NRE分别提高 $8 . 3 \%$ / $1 0 . 4 \%$ / $2 9 . 4 \%$ / $34 . 3 \%$ 和 $4 1 . 4 \%$ ; NAE分别提高 $3 6 . 0 \%$ 、 $45 . 0 \%$ 、 $4 2 . 7 \%$ 、 $4 0 . 1 \%$ 和 $5 2 . 6 \%$ NPFP分别提高 $1 0 . 8 \%$ 、 $1 3 . 5 \%$ 、 $12 . 8 \%$ 、 $12 . 0 \%$ 和$1 5 . 8 \text{‰}$ 说明施用尿素添加抑制剂土壤供 $\mathrm { ~  ~ N ~ }$ 能力持续时间长，能提高水稻 NRE、NAE和 NPFP，为高产奠定基础。
+
+# 2.2.3 N素分配
+
+由图2可知，成熟期N素在水稻植株中的分配大小表现为穗 $: >$ 茎 $\mathrm { > }$ 叶。分次施用水稻穗和叶中N素累积量较一次性施用高，茎中则相反。说明分次施肥有利于满足水稻的N素需求，促进茎中N素转运，增加穗中N素积累。
+
+# 2.3 生化抑制剂组合与施肥模式对P素吸收与分配的影响
+
+# 2.3.1 P素吸收
+
+由表5可知，施肥模式对水稻分蘖盛期、孕穗期P素累积量(TPA)和P收获指数(PHI)效应显著或极
+
+表4不同生化抑制剂组合与施肥模式处理下水稻氮肥利用率Table4Effects ofdiferent combinations ofbiochemicalinhibitors and fertilization models onNuseeficiencyof rice  
+
+<html><body><table><tr><td>处理 Treatment</td><td>氮肥吸Ve率(NRy)</td><td>氨肥农学利用率(NAE) (kg·kg-1)</td><td>N par肥偏生产力toNutivity (kg:kg-1)</td><td>N氨肥生理利用率(NPE） (kg·kg-1)</td></tr><tr><td>CK</td><td>(%) 1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>U</td><td>27.1±0.8f</td><td>7.3±0.2h</td><td>36.6±1.1d</td><td>27.0±0.8f</td></tr><tr><td>U+NBPT</td><td>33.3±1.0e</td><td>15.6±0.5def</td><td>44.9±1.3abc</td><td>47.0±1.4a</td></tr><tr><td>U+NPPT</td><td>34.6±1.0de</td><td>15.5±0.4ef</td><td>44.7±1.3abc</td><td>44.6±1.3ab</td></tr><tr><td>U+CP</td><td>40.0±1.2c</td><td>14.7±0.4f</td><td>43.9±1.3bc</td><td>36.7±1.1e</td></tr><tr><td>U+NBPT+CP</td><td>39.7±1.1c</td><td>16.1±0.5cde</td><td>45.4±1.3abc</td><td>40.6±1.2cd</td></tr><tr><td>U+NPPT+CP</td><td>39.7±1.1c</td><td>16.7±0.5bcde</td><td>46.0±1.3abc</td><td>42.2±1.2bc</td></tr><tr><td>U3</td><td>34.6±1.0de</td><td>12.5±0.4g</td><td>41.7±1.2c</td><td>36.2±1.0e</td></tr><tr><td>U3+NBPT</td><td>37.4±1.1cd</td><td>17.0±0.5bcd</td><td>46.3±1.3ab</td><td>45.4±1.3ab</td></tr><tr><td>U3+NPPT</td><td>38.2±1.1c</td><td>18.1±0.5ab</td><td>47.4±1.4ab</td><td>47.5±1.4a</td></tr><tr><td>U3+CP</td><td>44.7±1.3b</td><td>17.8±0.5ab</td><td>47.1±1.4ab</td><td>39.9±1.2cde</td></tr><tr><td>U3+NBPT+CP</td><td>46.4±1.3ab</td><td>17.5±0.5bc</td><td>46.8±1.4ab</td><td>37.7±1.1de</td></tr><tr><td>U3+NPPT+CP</td><td>48.9±1.4a</td><td>19.1±0.5a</td><td>48.3±1.4a</td><td>39.0±1.1cde</td></tr><tr><td colspan="3">ANOVA</td><td></td><td></td></tr><tr><td>F</td><td>***</td><td>***</td><td>**</td><td>ns</td></tr><tr><td>I</td><td>***</td><td>***</td><td>***</td><td>***</td></tr><tr><td>F×I</td><td>ns</td><td>**</td><td>ns</td><td>***</td></tr></table></body></html>
+
+F：施肥模式;I：抑制剂组合; $\mathrm { F } { \times } \mathrm { I }$ ：施肥模式 $; \times$ 抑制剂组合。表中数值为平均值 $\cdot \pm$ 标准误 $( n { = } 3 ) _ { \circ }$ 同列不同字母表示处理间0.05水平差异显著 (LSD检验)。\*, $^ { * * }$ 和 $* * *$ 分别表示在0.05、0.01和0.001水平上差异显著。F:fertilizer model; I: inhibitor combination; $\mathrm { F } { \times } \mathrm { I }$ ：fertilizer model $\times$ inhibitor combination. Data in the table are Mean $\pm$ SE $\scriptstyle ( n = 3$ ). Values followed by different letters are significantly diferent at $P < 0 . 0 5$ (LSD). $^ *$ $^ { * * }$ and $* * *$ mean significant differences at O0.05,0.01 and 0.ool probability levels,respectively.
+
+![](images/9bb4ebfb1a0a6df6db9fbbd81e0adc1324271523336a837db7af872d054e75c9.jpg)  
+图2不同生化抑制剂组合与施肥模式处理下水稻成熟期植株各器官N素分配  
+Fig.2Effects of different combinations of biochemical inhibitors and fertilization models on proportions of N accumulation in stems, leaves,and grains of rice at maturity
+
+柱上不同小写字母表示处理间差异在 $5 \%$ 水平显著(LSD 检 验)。图中数值为平均值 $\cdot \pm$ 标准误 $\scriptstyle ( n = 3 )$ 。Different small letters above the bars mean significant differences among treatments at $5 \%$ level (LSD).Data in the figure are Mean $\pm$ SE $\scriptstyle ( n = 3 )$ 1
+
+显著 $( P { < } 0 . 0 5$ 或0.001)，生化抑制剂组合对P素吸收指标(PHI除外)效应显著或极显著( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ 或0.001),两者交互效应对分蘖盛期TPA显著 $( P { < } 0 . 0 5 )$ 。整个生育期水稻TPA呈上升趋势，各生育期均以CK处理最低。说明氮肥施用有利于水稻TPA的积累。分蘖盛期TPA以U、U3处理最高，其他处理间差异不大。孕穗期、抽穗期施 $\mathrm { ~  ~ { ~ N ~ } ~ }$ 处理间TPA差异不大。
+
+U3处理水稻成熟期TPA较U处理提高 $0 . 9 \text{‰}$ 说明分次施肥有利于满足水稻的 $\mathrm { ~ \bf ~ P ~ }$ 素需求，可以增加成熟期TPA累积。一次性施用中，施N处理较CK处理增幅为 $5 4 . 8 \% { \sim } 6 8 . 7 \% _ { \circ }$ 与U处理相比, $\mathrm { U + N B P T } ,$ $\mathrm { U } { + } \mathrm { N P P T }$ 、 $\scriptstyle { \mathrm { U + C P } }$ 、 $\mathrm { U + N B P T + C P }$ 和 $\mathrm { U + N P P T + C P }$ 处理成熟期TPA分别提高 $6 . 7 \%$ 、 $6 . 1 \%$ 、 $9 . 0 \%$ 、 $8 . 9 \%$ 和 $8 . 5 \%$ ，分次施用中，施 $\mathrm { ~  ~ { ~ N ~ } ~ }$ 处理较CK处理增幅为$5 6 . 2 \% { \sim } 7 7 . 0 \%$ 。与U3处理相比， $\mathrm { U } 3 \mathrm { + N B P T }$ 1$\mathrm { U } 3 \mathrm { + N P P T }$ 、 $\mathrm { U } 3 { + } \mathrm { C P }$ ！ $\mathrm { U 3 + N B P T + C P }$ 和 $\mathrm { U } 3 \mathrm { + N P P T + C P }$ 处理成熟期TPA分别提高 $6 . 7 \%$ / $6 . 1 \%$ / $1 3 . 3 \%$ / $8 . 7 \%$ 和 $10 . 6 \text{‰}$ 说明施用尿素添加抑制剂土壤供N能力持续时间长，能提高水稻成熟期TPA，为高产奠定基础。
+
+# 2.3.2 P素分配
+
+由图3可知，成熟期P素在水稻植株中的分配大小表现为穗 $: >$ 茎 $\vdots >$ 叶。尿素分次施用水稻穗中P素累积量较一次性施用高，茎中则相反；叶中抑制剂处理低于一次性施用。说明分次施肥配施抑制剂有利于满足水稻的P素需求，降低茎叶中P素分配，提高穗中P素积累。
+
+# 2.4生化抑制剂组合与施肥模式对K素吸收与分配的影响
+
+# 2.4.1 K素吸收
+
+由表6可知，施肥模式对水稻各生育期K素累积量(TKA)(孕穗期除外)和K收获指数(KHI)效应显著或极显著 $( P { < } 0 . 0 5$ 或0.001)，生化抑制剂组合对分蘖盛期、孕穗期TKA 和KHI 效应显著或极显著$_ { ( P < 0 . 0 5 }$ 或0.001)，两者交互效应对 KHI 极显著$( P { < } 0 . 0 1 )$ 。整个生育期水稻TKA呈S型曲线，于抽穗期达到峰值，各生育期均以CK处理最低。说明氮肥施用有利于水稻TKA的积累。分蘖盛期以U、U3处理最高，其他处理间差异不大。孕穗期、抽穗期施N处理间TKA差异不大。
+
+U3处理水稻成熟期TKA较U处理提高 $4 . 2 \text{‰}$ 说明分次施肥有利于满足水稻的K素需求，可以增加成熟期TKA累积。一次性施用中，施 $\mathrm { ~ N ~ }$ 处理成熟期TKA较CK处理增幅为 $5 0 . 8 \% { \sim } 6 3 . 5 \% _ { \circ }$ 与U处理相比， $\mathrm { U } { + } \mathrm { N B P T }$ 、 $\mathbf { U } { + } \mathbf { N P P T }$ 、 $\scriptstyle { \mathrm { U + C P } }$ 、 $\mathrm { U + N B P T + C P }$ 和 $\mathbf { U } \mathbf { + } \mathbf { N P P T + C P }$ 处理分别提高 $8 . 1 \%$ 、 $8 . 2 \%$ 、 $8 . 4 \%$ /$6 . 8 \%$ 和 $5 . 6 \%$ 。分次施用中，施 $\mathrm { ~  ~ N ~ }$ 处理成熟期TKA较CK处理增幅为 $5 7 . 1 \% { \sim } 7 3 . 0 \%$ 。与U3处理相比，$\mathrm { U } 3 \mathrm { + N B P T }$ 、 $\mathrm { U } 3 \mathrm { + N P P T }$ 、 $\mathrm { U } 3 { + } \mathrm { C P }$ 、 $\mathrm { U 3 + N B P T + C P }$ 和$\mathrm { U } 3 \mathrm { + N P P T + C P }$ 处理分别提高 $5 . 9 \%$ $6 . 5 \%$ / $8 . 0 \%$ ！ $4 . 8 \%$ 和 $10 . 1 \text{‰}$ 说明施用尿素添加抑制剂土壤供N能力持续时间长，能提高水稻TKA，为高产奠定基础。
+
+# 2.4.2 K素分配
+
+由图4可知，成熟期K素在水稻植株中的分配大小表现为茎和叶 $>$ 穗。尿素分次施用穗和叶中K素累积量较一次性施用高，茎中则相反。说明分次施肥有利于满足水稻的K素需求，促进茎中K素转运，提高穗中K素积累。
+
+表5不同生化抑制剂组合与施肥模式处理下水稻各生育期P素吸收和P收获指数Table5Efectsofdiferentcombinationsofbiochemicalinibitorsandfertilization modelsonPuptakeatdifferentgrowthstagesand P harvest index of rice  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="4">P素累积量(TPA) Total phosphorus accumulation (kg·hm-2)</td><td rowspan="2">P收获指数(PHI) Phosphorus hrves idex</td></tr><tr><td>Mid-irng tage</td><td>Panile imtaton stage</td><td>Heading stage</td><td>Matntystge</td></tr><tr><td>CK</td><td>9.2±0.3g</td><td>11.1±0.3d</td><td>22.5±0.6f</td><td>33.3±1.0d</td><td>57.4±1.7de</td></tr><tr><td>U</td><td>14.2±0.4b</td><td>15.5±0.4a</td><td>26.7±0.8de</td><td>51.6±1.5c</td><td>58.2±1.7cde</td></tr><tr><td>U+NBPT</td><td>11.7±0.3de</td><td>15.7±0.5a</td><td>28.9±0.8bcd</td><td>55.1±1.6abc</td><td>58.0±1.7cde</td></tr><tr><td>U+NPPT</td><td>11.1±0.3def</td><td>13.9±0.4bc</td><td>27.4±0.8cde</td><td>54.8±1.6abc</td><td>59.2±1.7bcde</td></tr><tr><td>U+CP</td><td>10.6±0.3f</td><td>15.5±0.4a</td><td>29.9±0.9b</td><td>56.2±1.6ab</td><td>57.9±1.7cde</td></tr><tr><td>U+NBPT+CP</td><td>11.1±0.3def</td><td>13.6±0.4c</td><td>28.0±0.8bcd</td><td>56.2±1.6ab</td><td>59.0±1.7bcde</td></tr><tr><td>U+NPPT+CP</td><td>10.2±0.3f</td><td>13.2±0.4c</td><td>29.8±0.9b</td><td>56.0±1.6abc</td><td>56.8±1.6e</td></tr><tr><td>U3</td><td>15.8±0.5a</td><td>15.6±0.5a</td><td>25.5±0.7e</td><td>52.1±1.5bc</td><td>64.3±1.9a</td></tr><tr><td>U3+NBPT</td><td>11.6±0.3de</td><td>15.7±0.5a</td><td>29.9±0.9b</td><td>55.6±1.6abc</td><td>61.1±1.8abcde</td></tr><tr><td>U3+NPPT</td><td>10.8±0.3ef</td><td>13.8±0.4bc</td><td>27.8±0.8bcde</td><td>55.3±1.6abc</td><td>62.1±1.8abcd</td></tr><tr><td>U3+CP</td><td>12.8±0.4c</td><td>15.8±0.5a</td><td>33.2±1.0a</td><td>59.0±1.7a</td><td>63.4±1.8ab</td></tr><tr><td>U3+NBPT+CP</td><td>11.8±0.3cd</td><td>15.3±0.4a</td><td>29.7±0.9bc</td><td>56.6±1.6ab</td><td>64.0±1.8ab</td></tr><tr><td>U3+NPPT+CP</td><td>10.9±0.3def</td><td>15.0±0.4ab</td><td>29.2±0.8bc</td><td>57.6±1.7a</td><td>62.5±1.8abc</td></tr><tr><td colspan="6">ANOVA</td></tr><tr><td>F</td><td>***</td><td>*</td><td>ns</td><td>ns</td><td>***</td></tr><tr><td>I</td><td>***</td><td>***</td><td>***</td><td>*</td><td></td></tr><tr><td>F×I</td><td>*</td><td>ns</td><td>ns</td><td>ns</td><td>ns ns</td></tr></table></body></html>
+
+F:施肥模式;I:抑制剂组合; $\mathrm { F } { \times } \mathrm { I }$ ：施肥模式 $\mathrm { . } \times$ 抑制剂组合。表中数值为平均值 $\pm$ 标准误 $( n { = } 3 ) _ { \circ }$ 同列不同字母表示处理间0.05水平差异显著 (LSD 检验)。\*, $^ { * * }$ 和 $\ast \ast \ast$ 分别表示在 0.05、0.01和0.001水平上差异显著。F:fertilizer model; I: inhibitor combination; $\mathrm { F } { \times } \mathrm { I }$ : fertilizer model $\times$ inhibitor combination. Data in the table are Mean $\pm$ SE $\scriptstyle ( n = 3$ ).Values followed by different letters are significantly different at $P < 0 . 0 5$ (LSD). $^ *$ $^ { * * }$ and $^ { * * * }$ mean significant differences at 0.05,0.01 and 0.Oo1 probability levels,respectively.
+
+# 2.5N、P、 $\mathbf { K }$ 吸收量与籽粒产量的关系
+
+由图5可知，不同施肥模式下水稻植株对N、P、K的吸收量与籽粒产量呈极显著的正相关关系，且随着籽粒产量的增加而增加。说明充足的N、P、K肥供应是水稻高产栽培的基础。尿素分次施用N、P、K吸收量与籽粒产量的相关系数 $\left( r _ { \mathrm { N } } { = } 0 . 9 7 2 \right) ^ { * * }$ 、 $r _ { \mathrm { P } } { = } 0 . 9 8 5 ^ { * * }$ 、$r _ { \mathrm { K } } { = } 0 . 9 8 8 ^ { * * }$ )均较一次性施肥 $\left( r _ { \mathrm { N } } { = } 0 . 9 5 1 ^ { \ast } ^ { \ast } \right.$ 、 $r _ { \mathrm { P } } { = } 0 . 9 3 6 ^ { * * }$ 、$r _ { \mathrm { K } } { = } 0 . 9 2 9 ^ { * * }$ )高。说明分次施肥有利于满足水稻的 $\mathrm { \bf N }$ /P、K需求，提高养分吸收累积，从而达到高产。
+
+# 3讨论
+
+# 3.1 施肥模式对水稻氮肥吸收利用的影响
+
+库容量大和生物产量高是超级杂交稻高产的决定因素[31-33]，理想栽培技术是在碳水化合物的运输与分配上形成“源"至“库"的畅流。穗肥N作为水稻高产的后期生殖生长需要，其准确比例依赖于超级稻栽培的土壤理化性质、缓释性化肥或缓效性有机肥等肥料类型、影响肥料损失的立地气候条件和超级稻品种等作用因子[34]。彭显龙等[35-36]研究表明,寒地水稻吸N高峰出现在幼穗分化始期；在穗分化期到减数分裂期，以及减数分裂期到抽穗期吸收N速度较快，吸N量大。敖和军等[37研究得出，超级杂交稻在其生育后期(抽穗至成熟)的N素吸收量高，有利于充实籽粒，提高结实率和 $\mathrm { \Delta N H I }$ 。本研究结果表明，分次施肥处理水稻抽穗后 $\mathrm { ~  ~ N ~ }$ 素积累较一次性施肥处理提高 $8 . 2 \%$ ，有效增加生育后期N素储量。成熟期 N 素吸收量与籽粒产量呈极显著正相关（一次性： $r _ { \mathrm { N } } { = } 0 . 9 7 2 ^ { * * }$ ；分次： ${ r _ { \mathrm { N } } } { = } 0 . 9 5 1 ^ { * * }$ )，为水稻高产奠定基础。水稻生长前期根系不发达，对N素吸收能力较弱，积累量较少，不同的 $\mathrm { ~ N ~ }$ 素比例对水稻TNA影响差异不明显。随着植株的长大，对养分需求迅速增多，而增加中后期氮肥施用量，从而把施 $\mathrm { ~  ~ N ~ }$ 量与水稻对N素的大量需求相结合，增加N素积累吸收，与相关研究一致[38-39]。
+
+江立庚等[40]研究发现，相同施N水平下提高穗肥比率可增加N素回收效率、积累总量和运转效率，降低N素生产效率。吴文革等[26研究发现，前N后移增施穗肥为水稻整个生育期提供比较平衡的N素供应，可促进N素吸收，当季利用率随穗肥比例提高而增加。薛利红等[41]研究发现，基肥用量增加降低水稻生育后期功能叶的叶片含N量，从而降低成熟期植株N积累量及穗部N分配系数，NAE和NRE明显降低，N素转运率与基肥用量呈二次曲线关系。林忠成等[42研究发现，基蘖肥占总施 $\mathrm { \Delta N }$ 量 $6 0 \% { \sim } 7 0 \%$ 时，双季稻具有较高的干物质积累量、N素积累量、NRE、NAE，群体碳氮代谢也比较协调。李木英等[43]研究发现，适量增施穗肥可提高N素的物质生产力和稻谷生产力，提高N素吸施比和 $\mathrm { T N A } _ { \mathsf { c } }$ ，本研究结果表明，分次施肥较一次性施肥水稻成熟期N、P、K吸收量，及NRE、NAE和NPFP显著增加。N素前期供应过多，基蘖肥占比大，植株容易奢侈吸收，产生大量无效分蘖，增加拔节期吸N量及无效分蘖吸N量，拔节前群体增加，群体过大，无效生长增加，有效的茎蘖个体弱小，颖花数不足，库容缩小，从而降低后期的吸N量导致减产，与相关研究一致[35,43-44]。
+
+![](images/40eda846f242dd9ee1d4c6f57078e440c79954d6a7eb6fdc780c4793fe77bce8.jpg)  
+图3不同生化抑制剂组合与施肥模式处理下水稻成熟期植株各器官P素分配  
+Fig.3Effects of different combinations of biochemical inhibitors and fertilization models on proportions of P accumulation in stems,leaves,and grains of rice at maturity 柱上不同小写字母表示处理间差异在 $5 \%$ 水平显著(LSD 检 验)。图中数值为平均值 $\cdot ^ { \pm }$ 标准误 $\scriptstyle ( n = 3 )$ 。Different small letters above the bars mean significant differences among treatments at $5 \%$ （204号 level (LSD).Data in the figure areMean $\pm \mathrm { S E }$ $\scriptstyle ( n = 3 )$ ）
+
+# 3.2 抑制剂对水稻氮肥吸收利用的影响
+
+稻田土壤施用硝化抑制剂后使田面水中N素更多地以 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 形式存在[45]。水稻作为喜 $\mathrm { N H } _ { 4 } ^ { + }$ -N作物，足量 $\mathrm { N H } _ { 4 } ^ { + }$ -N的存在促进其对 $\mathrm { ~ N ~ }$ 素的吸收和利用[13,46]。脲酶/硝化抑制剂[氢醌(HQ)/双氰胺(DCD)]配施提高土壤中 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 浓度，植株以 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 形式吸收N同时增加对P的吸收，促进作物生长[47]。许超等[13]研究发现，尿素中添加 3,4-二甲基吡唑磷酸盐(DMPP)能提高水稻植株地上部及籽粒的吸 $\mathrm { ~  ~ N ~ }$ 量，促进水稻N 素营养，提高产量。刘彦伶等[18]研究发现， $100 \%$ CP处理早稻和晚稻NRE显著提高 $2 7 . 3 \%$ 和 $78 . 3 \text{‰}$ 彭玉净等[48]研究发现,NBPT减缓稻田尿素水解，显著降低氨挥发，且水稻产量和吸N量有所提高，肥料N的土壤残留量增加。叶会财等[49]研究发现，添加 $0 . 7 5 \% \mathrm { N B P T }$ 红壤双季稻增产 $1 4 . 7 5 \%$ ，NAE提高$1 8 . 4 1 \%$ 。本研究结果表明，生化抑制剂组合结合施肥模式提高抽穗后干物质和 $\mathrm { ~  ~ N ~ }$ 素积累及其占总干物质和总N素积累的比例，有利于保持抽穗后N素同化和吸收能力。一次性施用中，各抑制剂处理NRE、NAE和 NPFP较U处理分别提高 $2 2 . 8 \% { \sim } 4 7 . 4 \%$ 1$1 0 0 . 2 \% { \sim } 1 2 8 . 7 \%$ 和 $2 0 . 1 \% { \sim } 2 5 . 8 \%$ ；分次施用中，各抑制剂处理NRE、NAE和NPFP较U3处理分别提高$8 . 3 \% { \sim } 4 1 . 4 \%$ 、 $3 6 . 0 \% { \sim } 5 2 . 6 \%$ 和 $1 0 . 8 \% \sim 1 5 . 8 \% _ { \circ }$
+
+脲酶抑制剂减缓水稻分蘖期尿素水解和 $\mathrm { ~  ~ N ~ }$ 素损失，提高孕穗期土壤 $\mathrm { N H } _ { 4 } ^ { + }$ -N含量，显著增加水稻产量和氮肥利用率[50]。硝化抑制剂能够抑制 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 向硝态氮 $( \mathsf { N O } _ { 3 } ^ { - } { - } \mathsf { N } )$ 转化来降低 $\mathrm { ~  ~ N ~ }$ 素损失，减少氮氧化物排放量[51]。脲酶和硝化抑制剂存在一定的协同作用[52]，配合施用较单独施用能更有效提高氮肥回收率和降低稻株根际土壤 $\mathrm { ~  ~ N ~ }$ 素损失[53]。孙海军等[19]研究发现，添加CP分别提高 $2 5 . 0 \% [ 1 8 0 \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 } ]$ 和 $1 2 . 1 \% [ 2 4 0 \mathrm { \ k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 } ]$ 的 $^ { 1 5 } \mathrm { N }$ 吸收利用率。张文学等[50]研究发现，与传统施 $\mathrm { N } [ 1 8 0 \mathrm { \ k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 } ]$ 处理相比，减 $2 5 \% \mathrm { N + N B P T }$ 早、晚稻氮肥当季利用率分别提高 $6 . 7 8 \%$ 和 $9 . 4 6 \%$ 。李敏等[54研究发现，等N施用稳定氮肥 $( \mathrm { H Q + D C D } ^ { \cdot }$ 较农民习惯施肥促进水稻对 $\mathrm { ~  ~ N ~ }$ 素的吸收累积，分次施用差异显著。本研究结果表明，不同施肥模式下配施抑制剂组合(NBPT、$\mathrm { { N P P T / + C P } }$ )显著增加水稻N、P、K吸收量，促进抽穗后干物质生产和N素积累，提高籽粒中的养分分配及N素利用效率。
+
+# 4结论
+
+黄泥田地区生化抑制剂组合与施肥模式结合，能为水稻整个生育期提供比较平衡的N素供应，促进水稻生长，有利于N、P、K的吸收和利用及抽穗
+
+表6不同生化抑制剂组合与施肥模式处理下水稻各生育期K素吸收和K收获指数的影响Table6EfectsofdiferentcombinationsofbiochemicalinhibitorsandfertlizationmodelsonKuptakeatdiferentgrowthstagesandKharvest index of rice  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="4">K素累积量(TKA) Total potassium accumulation (kg·hm-2)</td><td rowspan="2">K收获指数(KHI) Potassium harvest index</td></tr><tr><td>分藥盛期</td><td>孕穗期</td><td>抽穗期</td><td>成熟期</td></tr><tr><td></td><td>Mid-tillering stage</td><td>Panicle initiation stage</td><td>Heading stage</td><td>Maturity stage</td><td>(%)</td></tr><tr><td>CK</td><td>70.3±2.0g</td><td>116.0±3.3e</td><td>136.4±3.9e</td><td>111.5±3.2d</td><td>15.6±0.5a</td></tr><tr><td>U</td><td>109.4±3.2b</td><td>171.0±4.9bcd</td><td>186.4±5.4bcd</td><td>168.1±4.9c</td><td>10.4±0.3f</td></tr><tr><td>U+NBPT</td><td>94.0±2.7cde</td><td>159.3±4.6d</td><td>188.5±5.4bcd</td><td>181.8±5.3abc</td><td>11.0±0.3ef</td></tr><tr><td>U+NPPT</td><td>89.8±2.6def</td><td>169.9±4.9bcd</td><td>183.9±5.3bcd</td><td>182.0±5.3abc</td><td>11.7±0.3cde</td></tr><tr><td>U+CP</td><td>87.9±2.5ef</td><td>182.2±5.3ab</td><td>194.6±5.6abcd</td><td>182.2±5.3abc</td><td>11.9±0.3bcde</td></tr><tr><td>U+NBPT+CP</td><td>90.8±2.6de</td><td>175.5±5.1abc</td><td>178.7±5.2d</td><td>179.6±5.2abc</td><td>12.1±0.3bcd</td></tr><tr><td>U+NPPT+CP</td><td>82.5±2.4f</td><td>180.4±5.2abc</td><td>183.3±5.3cd</td><td>177.6±5.1bc</td><td>12.0±0.3bcd</td></tr><tr><td>U3</td><td>119.7±3.5a</td><td>176.0±5.1abc</td><td>197.3±5.7abc</td><td>175.2±5.1bc</td><td>12.3±0.4bcd</td></tr><tr><td>U3+NBPT U3+NPPT</td><td>95.9±2.8cd</td><td>169.4±4.9bcd</td><td>193.2±5.6abcd</td><td>185.6±5.4ab</td><td>11.6±0.3de</td></tr><tr><td></td><td>87.0±2.5ef</td><td>166.8±4.8cd</td><td>195.0±5.6abc</td><td>186.5±5.4ab</td><td>12.2±0.4bcd</td></tr><tr><td>U3+CP U3+NBPT+CP</td><td>101.5±2.9bc 101.4±2.9c</td><td>174.4±5.0abc 185.7±5.4a</td><td>206.3±6.0a</td><td>189.2±5.5ab</td><td>12.1±0.3bcd</td></tr><tr><td></td><td></td><td></td><td>199.4±5.8ab</td><td>183.6±5.3ab</td><td>12.9±0.4b</td></tr><tr><td>U3+NPPT+CP</td><td>87.6±2.5ef</td><td>179.0±5.2abc ANOVA</td><td>206.4±6.0a</td><td>192.8±5.6a</td><td>12.6±0.4bc</td></tr><tr><td colspan="6"></td></tr><tr><td>F</td><td>***</td><td>ns</td><td>***</td><td>*</td><td>***</td></tr><tr><td>I</td><td>***</td><td>*</td><td>ns</td><td>ns</td><td>***</td></tr><tr><td>F×I</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>**</td></tr></table></body></html>
+
+F:施肥模式;I:抑制剂组合; $\mathrm { F } { \times } \mathrm { I }$ ：施肥模式 $\mathrm { . } \times$ 抑制剂组合。表中数值为平均值±标准误 $( n { = } 3 ) _ { \circ }$ 同列不同字母表示处理间0.05水平差异显著 (LSD检验)。\*, $^ { * * }$ 和 $* * *$ 分别表示在0.05、0.01和o.001水平上差异显著。F: fertilizer model; I: inhibitor combination; $\mathrm { F } { \times } \mathrm { I }$ ：fertilizer model $\times$ inhibitor combination. Data in the table are Mean $\pm$ SE $\scriptstyle ( n = 3$ ).Values followed by different lettrs are significantly different at $P < 0 . 0 5$ (LSD). $^ *$ $^ { * * }$ and $^ { * * * }$ mean significant differences at 0.05,0.01 and 0.00l probability levels,respectively.
+
+![](images/85a5c121f113dd92029a6031889110b9f488a5d133fc91fab6a0e7bf78746d70.jpg)  
+图4不同生化抑制剂组合与施肥模式下水稻成熟期植株各器官K素分配  
+Fig.4Effects of different combinations of biochemical inhibitors and fertilization models on proportions of K accumulationin stems,leaves,and grains of rice at maturity   
+图5一次性施肥和分次施肥模式下水稻N、P、 $\mathbf { K }$ 吸收量与稻谷产量的关系  
+Fig.5Relationship between grain yield of rice and N,P,K uptakes under one-off application and three-time application of fertilizer
+
+柱上不同小写字母表示处理间差异在 $5 \%$ 水平显著(LSD 检验)。图中数值为平均值 $\cdot \pm$ 标准误 $\scriptstyle ( n = 3 )$ 。Different small lettersabove the bars mean significant differences among treatments at $5 \%$ level(LSD).DatainthefigureareMean $. \pm \mathrm { S E }$ $( n { = } 3 )$ ）
+
+9 一次性施肥 One-off applicationNP 品 88 AK 8/△llel 6yn=0.048x+2.1205; $R ^ { 2 } = 0 . 9 0 4 8$ （204号5 yp=0.1270x+0.8824;R²=0.87594 yk=0.040 7x+0.5954;R²=0.8638分次施肥Three-time applicationN·P8 K765 yN= 0.0397x+2.4511;R²=0.9462yp=0.1357x+0.7273；R²=0.9706y=0.0423x+0.4976R²=0.977340 20 40 60 80 100120140160180 200养分吸收量 Nutrient uptake $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$
+
+后N素积累，提高穗中N、P、K养分累积和氮肥当季利用效率(NRE、NAE和NPFP)，增加植株生物量显著提高产量。
+
+# 参考文献References
+
+[1]彭少兵，黄见良，钟旭华，等．提高中国稻田氮肥利用率的研究策略[J]．中国农业科学,2002,35(9):1095-1103
+
+2010, 16(1): 1-5 Zhu Z L, Zhang S L,Yin B,et al. Historical comparison on the response curves of rice yield-nitrogen application rate in Tai-lake region[J].Plant Nutrition and Fertilizer Science, 2010,16(1): 1-5   
+[3] Liu X J, Ai Y W, Zhang F S,et al. Crop production,nitrogen recovery and water use efficiency in rice-wheat rotation as affected by non-flooded mulching cultivation (NFMC)[J]. Nutrient Cycling in Agroecosystems,2005,71(3): 289-299   
+[4] 刘瑜，串丽敏，安志装，等．硝化抑制剂双氰胺对褐土中尿 素转化的影响[J]．农业环境科学学报，2011，30(12): 2496-2502 Liu Y,Chuan L M,An Z Z,et al.Effects of nitrification inhibitor dicyandiamide on ammonium and nitrate nitrogen transformationsincinnamonsoil[J].Journal of Agro-Environment Science,2011,30(12): 2496-2502   
+[5]Bodirsky B L,Popp A,Lotze-Campen H,et al. Reactive nitrogen requirements to feed the world in 2050 and potential to mitigate nitrogen pollution[J]. Nature Communications, 2014,5:3858   
+[6] Chien S H,Prochnow L I, Cantarella H. Recent developments of fertilizer production and use to improve nutrient efficiency andminimizeenvironmental impacts[J]. Advancesin Agronomy,2009,102:267-322   
+[7] Trenkel M E.Slow- and controlled-release and stabilized fertilizers:An option for enhancing nutrient use efficiency in agriculture[R].Paris:InternationalFertilizerIndustry Association,2010   
+[8] Malhi S S,Grant C A,Johnston A M,et al.Nitrogen fertilization management for no-till cereal production in the Canadian Great Plains:A review[J]. Soil and Tillage Research,2001,60(3/4):101-122   
+[9]孙志梅，武志杰，陈利军，等．土壤硝化作用的抑制剂调控 及其机理[J]．应用生态学报,2008,19(6):1389-1395 Sun Z M,Wu Z J,Chen L J,et al.Regulation of soil nitrificationwith nitrification inhibitorsand related mechanisms[J]. Chinese Journal of Applied Ecology,2008, 19(6):1389-1395   
+10] 徐星凯，周礼恺,Van Cleemput O.脲酶抑制剂/硝化抑制剂 对植稻土壤中尿素 N 行为的影响[J].生态学报，2001, 21(10): 1682-1686 Xu XK, Zhou L K, Van Cleemput O.Effect of urease/nitrification inhibitorson the behavior of urea-N in the soil planted to rice[J]. Acta Ecologica Sinica,2001,21(10): 1682-1686   
+11]陈振华，陈利军，武志杰．脲酶-硝化抑制剂对减缓尿素转 化产物氧化及淋溶的作用[J]．应用生态学报，2005，16(2): 238-242 Chen Z H,Chen L J,Wu Z J. Effects of urease and nitrification inhibitors on alleviating the oxidation and leaching of soil urea's hydrolyzed product ammonium[J]. Chinese Journal of Applied Ecology,2005,16(2): 238-242 Huang Y Z,Feng Z W, Zhang F Z. Application of nitrapyrin in agriculture and environmental protection[J]. Soil and Environmental Sciences,2001,10(4): 323-326   
+[13]许超，吴良欢，郑寨生，等．含硝化抑制剂(DMPP)氮肥对 水稻产量及氮素吸收的影响[J]．浙江农业科学，2003,(2): 75-78 Xu C,Wu L H, Zheng Z S,et al. Effects of a nitrogen fertilizer containing nitrification inhibitor (DMPP)on yield and uptake of nitrogen in rice[J]. Journal of Zhejiang Agricultural Sciences,2003,(2): 75-78   
+[14] Zaman M, Saggar S,Blennerhassett JD,et al. Effect of urease and nitrification inhibitors on N transformation, gaseous emissions of ammonia and nitrous oxide,pasture yield and N uptake in grazed pasture system[J]. Soil Biology and Biochemistry,2009,41(6):1270-1280   
+[15]王飞，林诚，李清华，等．长期不同施肥对南方黄泥田水稻 籽粒品质性状与土壤肥力因子的影响[J]．植物营养与肥料 学报,2011,17(2): 283-290 Wang F,Lin C,Li QH, et al. Effects of long term fertilization on rice grain qualities and soil fertility factors in yellow paddy fields of southern China[J]. Plant Nutrition and Fertilizer Science,2011,17(2): 283-290   
+[16]林诚，王飞，李清华，等．不同施肥制度对黄泥田土壤酶活 性及养分的影响[J].中国土壤与肥料,2009,(6):24-27 Lin C,Wang F,Li Q H,et al. Effects of different fertilizer application strategies on nutrients and enzymatic activities in yellow clayey soil[J].Soils and Fertilizers Sciences in China, 2009, (6): 24-27   
+[17] 张宣．南方中低产黄泥田科学施肥技术研究[D]．杭州：浙 江大学,2014 Zhang X. Study on rational fertilization technology of low-medium yielding yellow-clayed paddy field in south China[D]. Hangzhou: Zhejiang University,2014   
+[18]刘彦伶，来庆，徐旱增，等．不同氮肥类型对黄泥田双季稻 产量及氮素利用的影响[J]．浙江大学学报：农业与生命科 学版,2013,39(4):403-412 Liu Y L, Lai Q, $\mathrm { \ X u \ H \ Z }$ ,et al.Effects of different types of nitrogen fertilizers on grain yield and nitrogen utilization of double-cropping rice in yellow clayey soil[J]. Journal of Zhejiang University: Agriculture & Life Sciences,2013, 39(4): 403-412   
+[19]孙海军，闵炬，施卫明．硝化抑制剂施用对水稻产量与氨 挥发的影响[J].土壤,2015,47(6):1027-1033 Sun HJ,Min J,Shi W M.Effects of nitrification inhibitor on rice production and ammonia volatilization in paddy rice field[J]. Soils,2015,47(6): 1027-1033   
+[20]叶全宝，张洪程，魏海燕，等．不同土壤及氮肥条件下水稻 氮利用效率和增产效应研究[J].作物学报，2005，31(11): 1422-1428 Ye Q B, Zhang H C,Wei H Y,et al.Effects of nitrogen fertilizer on nitrogen use efficiency and yield of rice under different soil conditions[J].Acta Agronomica Sinica,2005, 31(11): 1422-1428   
+[21]冯涛，杨京平，孙军华，等．两种土壤不同施氮水平对稻田 系统的氮素利用及环境效应影响[J]．水土保持学报，2005, 19(1): 64-67
+
+Feng T,Yang JP,Sun JH,etal.Effectof different nitrogen application levels on nitrogen utilization of paddy field system and environment impact under two soils[J].Journal of Soil and Water Conservation,2005,19(1): 64-67
+
+[22] 张耀鸿，张亚丽，黄启为，等．不同氮肥水平下水稻产量以 及氮素吸收、利用的基因型差异比较[J]．植物营养与肥料 学报,2006,12(5): 616-621 Zhang Y H, Zhang YL,Huang Q W,et al.Effects of different nitrogen application rates on grain yields and nitrogen uptake and utilization by different rice cultivars[J].Plant Nutrition and Fertilizer Science,2006,12(5):616-621   
+[23]朱兆良．农田中氮肥的损失与对策[J]．土壤与环境，2000, 9(1): 1-6 Zhu Z L.Loss of fertilizer N from plants-soil system and the strategies and techniques for its reduction[J].Soil and Environmental Sciences,2000,9(1):1-6   
+[24]张洪程，王秀芹，戴其根，等．施氮量对杂交稻两优培九产 量、品质及吸氮特性的影响[J].中国农业科学,2003,36(7): 800-806 Zhang H C，Wang X Q，Dai Q G,et al.Effects of N-application rate on yield,quality and characters of nitrogen uptake of hybrid rice variety liangyoupeijiu[J]. Scientia Agricultura Sinica, 2003,36(7): 800-806   
+[25] Jiang L G，Dai T B，Jiang D，etal.Characterizing physiological N-use efficiency as influenced by nitrogen management in three rice cultivars[J]. Field Crops Research, 2004,88(2/3): 239-250   
+[26]吴文革，张四海，赵决建，等．氮肥运筹模式对双季稻北缘 水稻氮素吸收利用及产量的影响[J]．植物营养与肥料学报, 2007, 13(5): 757-764 Wu W G, Zhang S H, Zhao JJ,et al. Nitrogen uptake, utilization andriceyield inthenorth rimlandof double-cropping rice region as affected by different nitrogen management strategies[J]. Plant Nutrition and Fertilizer Science,2007,13(5): 757-764   
+[27]冯惟珠，苏祖芳，杜永林，等．水稻灌浆期源质量与产量关 系及氮素调控的研究[J]．中国水稻科学,2000,14(1):24-30 Feng W Z,Su ZF,Du YL,et al. Relationship between source quality and grain yield during filling period in rice and its nitrogen-regulation approach[J]. Chinese Journal of Rice Science,2000,14(1): 24-30   
+[28]唐启源，邹应斌，米湘成，等．不同施氮条件下超级杂交稻 的产量形成特点与氮肥利用[J]．杂交水稻，2003，18(1): 44-48 Tang Q Y, Zou Y B,Mi X C,et al. Grain yield construction and N fertilizer efficiency of super hybrid rice under different N applications[J]. Hybrid Rice,2003,18(1): 44-48   
+[29]周旋，吴良欢，戴锋．新型磷酰胺类脲酶抑制剂对不同质 地土壤尿素转化的影响[J]．应用生态学报，2016,27(12): 4003-4012 Zhou X,Wu L H,Dai F.Influence of a new phosphoramide urease inhibitor on urea-N transformation in different texture soil[J]. Chinese Journal of Applied Ecology,2016,27(12): 4003-4012   
+[30] 周旋，吴良欢，戴锋．生化抑制剂组合对黄泥田土壤尿素 态氮转化的影响[J]．水土保持学报,2015,29(5):95-100 Zhou X,Wu L H,Dai F.Effects of combined biochemical in施肥技术[J]．中国稻米,2002,8(2):18-19 Zhu D F,Lin X Q,Chen W,et al. Nutrition characteristics and fertilization of Xieyou 9308[J]. China Rice,2002,8(2): 18-19   
+[32]邹应斌，敖和军，王淑红，等．超级稻"三定"栽培法研究I 概念与理论依据[J]．中国农学通报,2006,22(5):158-162 Zou Y B,Ao H J,Wang S H, et al. Studies on San-Ding cultivation method for super rice I.The concept and the principle[J]. Chinese Agricultural Science Bulletin,2006, 22(5): 158-162   
+[33]吴文革，张洪程，吴桂成，等．超级稻群体籽粒库容特征的 初步研究[J]．中国农业科学,2007,40(2):250-257 Wu W G, Zhang HC,Wu G C,et al. Preliminary study on super rice population sink characters[J]. Scientia Agricultura Sinica,2007,40(2): 250-257   
+[34]石丽红，纪雄辉，李永华，等．施氮量和时期运筹对超级杂 交稻植株氮含量与籽粒产量的影响研究[J].土壤，2011, 43(4): 534-541 Shi L H,Ji X H,LiY H,et al. Effect of nitrogen application amount and stage management on nitrogen content in plant and grain yield of super hybrid rice[J]. Soils,2011,43(4): 534-541   
+[35]彭显龙，刘元英，罗盛国，等．实地氮肥管理对寒地水稻干 物质积累和产量的影响[J]．中国农业科学，2006，39(11): 2286-2293 Peng X L,Liu Y Y,Luo SG,et al. Effects of the site-specific nitrogen management on yield and dry matter accumulation of rice in cold areas of Northeastern China[J]. Scientia Agricultura Sinica,2006,39(11):2286-2293   
+[36]彭显龙，刘元英，罗盛国，等．寒地稻田施氮状况与氮素调 控对水稻投入和产出的影响[J]．东北农业大学学报，2007, 38(4): 467-472 Peng X L,Liu Y Y, Luo S G,et al. Nitrogen application situation and effects of nitrogen management on cost and output of paddy field in cold area of northeast China[J]. Journal of Northeast Agricultural University,2007,38(4): 467-472   
+[37]敖和军，王淑红，邹应斌，等．不同施肥水平下超级杂交稻 对氮、磷、钾的吸收累积[J]．中国农业科学,2008,41(10): 3123-3132 Ao H J,Wang S H, Zou Y B,et al. Characteristics of nutrient uptake and utilization of super hybrid rice under different fertilizer application rates[J]. Scientia Agricultura Sinica, 2008,41(10): 3123-3132   
+[38] Jiang L G，Dong D F,Gan X Q，et al. Photosynthetic efficiency and nitrogen distribution under different nitrogen management and relationship with physiological N-use efficiency in three rice genotypes[J].Plant and Soil, 2005, 271(1/2): 321-328   
+[39]傅庆林，俞劲炎，陈英旭．氮素营养对水稻干物质和氮分 配的影响及氮肥需求量[J]．浙江大学学报：农业与生命科 学版,2000,26(4):399-403 Fu Q L, Yu J Y, Chen Y X. Efect of nitrogen applications on dry matter and nitrogen partitioning in rice and nitrogen fertilizer requirements for rice production[J]. Journal of Zhe jiang University: Agriculture & Life Sciences,20oo,26(4): 399-403   
+[40] 江立庚，曹卫星，甘秀芹，等．不同施氮水平对南方早稻氮 素吸收利用及其产量和品质的影响[J]．中国农业科学, 2004,37(4): 490-496 Jiang L G, Cao W X,Gan X Q,et al. Nitrogen uptake and utilization under different nitrogen management and influence on grain yield and quality in rice[J]. Scientia Agricultura Sinica,2004,37(4): 490-496   
+[41]薛利红，覃夏，李刚华，等．基蘖肥氮不同比例对直播早稻 群体动态、氮素吸收利用及产量形成的影响[J]．土壤,2010, 42(5): 815-821 Xue L H,Qin X,Li G H,et al. Effect of basal and tiller nitrogen rates on population dynamics,nitrogen uptake and utilization,and yield formation of direct-seeding early rice[J]. Soils,2010,42(5):815-821   
+[42]林忠成，李土明，吴福观，等．基蘖肥与穗肥氮比例对双季 稻产量和碳氮比的影响[J]．植物营养与肥料学报，2011, 17(2): 269-275 Lin Z C,Li T M,Wu F G,et al.Effects of nitrogen application on yield and C/N of double-cropping rice[J].Plant Nutrition and Fertilizer Science,2011,17(2): 269-275   
+[43]李木英，石庆华，黄才立，等．穗肥运筹对超级杂交稻淦鑫 688 源库特征和氮肥效益的影响[J]．杂交水稻,2010,25(2): 63-72 LiMY,Shi Q H, Huang CL,et al. Effects of nitrogen application of panicle fertilizer on source-sink characteristics and nitrogen fertilizer use efficiency of super hybrid rice Ganxin 688[J]. Hybrid Rice,2010,25(2): 63-72   
+[44]刘桃菊，唐建军，江绍琳，等．氮肥后移对超级稻扬两优6 号产量及氮肥利用率的影响[J]．东北农业大学学报，2012, 43(7): 57-60 Liu TJ,Tang JJ, Jiang S L,et al.Effect of postponing nitrogen fertilizer application on yield and nitrogen using efficiency of super rice Yangliangyou6[J]. Journal of Northeast Agricultural University,2012,43(7): 57-60   
+[45]俞巧钢，陈英旭.DMPP对稻田田面水氮素转化及流失潜能 的影响[J]．中国环境科学,2010,30(9):1274-1280 Yu QG,Chen Y X.Influences of nitrification inhibitor 3, 4-dimethylpyrazole phosphate on nitrogen transformation and potential runoff loss in rice fields[J].China Environmental Science,2010,30(9):1274-1280   
+[46]李香兰，徐华，蔡祖聪．氢醌、双氰胺组合影响稻田甲烷和 氧化亚氮排放研究进展[J].土壤学报,2009,46(5):917-924 Li X L,Xu H, Cai $Z \mathrm { ~ C ~ }$ .Effect of combined use of hydroquinone and dicyandiamide on $\mathrm { C H } _ { 4 }$ and ${ \bf N } _ { 2 } \mathrm { O }$ emissions from rice paddy field:a review[J].Acta Pedologica Sinica,2009, 46(5): 917-924   
+[47]孙爱文，石元亮，张德生，等，硝化/脲酶抑制剂在农业中 的应用[J]．±壤通报,2004,35(3):357-361 Sun A W, Shi Y L, Zhang D S,et al. Application of nitrification-urease inhibitors in agriculture[J].Chinese Journal of Soil Science,2004,35(3): 357-361   
+[48]彭玉净，田玉华，尹斌．添加脲酶抑制剂 NBPT 对麦秆还田稻 田氨挥发的影响[J].中国生态农业学报,2012,20(1):19-23 Peng YJ,Tian YH,Yin B.Effects of NBPT urease inhibitor on ammonia volatilization in paddy fields with wheat straw application[J]. Chinese Journal of Eco-Agriculture,2012, 20(1): 19-23   
+[49]叶会财，李大明，柳开楼，等．脲酶抑制剂配施比例对红壤 双季稻产量的影响[J].土壤通报,2014,45(4):909-912 Ye H C,Li D M,Liu K L, et al. Effects of combined application rate of urease inhibitor on rice yield in red paddy soil[J]. Chinese Journal of Soil Science,2014,45(4): 909-912   
+[50]张文学，孙刚，何萍，等．双季稻田添加脲酶抑制剂 NBPT 氮肥的最高减量潜力研究[J]．植物营养与肥料学报，2014, 20(4): 821-830 Zhang W X,Sun G,He P,et al.Highest potential of subtracting nitrogen fertilizer through addition of urease inhibitor NBPT in double-cropping paddy fields[J]. Plant Nutrition and Fertilizer Science,2014,20(4): 821-830   
+[51]王斌，李玉娥，万运帆，等．控释肥和添加剂对双季稻温室 气体排放影响和减排评价[J]．中国农业科学，2014，47(2): 314-323 Wang B,Li Y E,Wan Y F,et al. Effect and assessment of controlled release fertilizer and additive treatments on greenhouse gases emission from a double rice field[J]. Scientia Agricultura Sinica,2014,47(2): 314-323   
+[52] 陈利军，史奕，李荣华，等．脲酶抑制剂和硝化抑制剂的协 同作用对尿素氮转化和 ${ \bf N } _ { 2 } \mathrm { O }$ 排放的影响[J]．应用生态学报, 1995,6(4): 368-372 Chen L J,Shi Y,LiR H,et al. Synergistic effect of urease inhibitor and nitrification inhibitor on urea-N transformation and ${ \bf N } _ { 2 } \mathrm { O }$ emission[J]. Chinese Journal of Applied Ecology, 1995, 6(4): 368-372   
+[53] 张文学，孙刚，何萍，等，脲酶抑制剂与硝化抑制剂对稻田氨 挥发的影响[J].植物营养与肥料学报,2013,19(6):1411-1419 Zhang W X,Sun G,HeP,et al. Effects of urease and nitrification inhibitors on ammonia volatilization from paddy fields[J].Plant Nutrition and Fertilizer Science,2013,19(6): 1411-1419   
+[54]李敏，叶舒娅，刘枫，等．稳定氮肥用量和施用方式对水稻 产量和氮肥效率的影响[J]．农业资源与环境学报，2015, 32(6): 559-564 Li M,Ye SY,Liu F,et al. Effects of stabilized nitrogen fertilizer application amount and application methods on yield and nitrogen efficiency of rice[J]. Journal of Agricultural Resources and Environment.2015.32(6): 559-564

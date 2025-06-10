@@ -1,0 +1,200 @@
+# 水分对河西青贮玉米土壤化学计量比及稳态性的影响
+
+谢明君¹，李广¹，马维伟'，刘帅楠'，常海刚¹，杜佳囝¹，丁宁²(1.甘肃农业大学林学院,甘肃 兰州 730070；2.甘肃农业大学财经学院,甘肃 兰州 730070)
+
+摘要：为探究河西灌溉区农田生态系统土壤养分限制及其循环规律,明确不同水分处理下青贮玉米植株与土壤的稳态性特征，以甘肃省河西灌溉区 $\mathbb { W } _ { 0 }$ （传统灌水）、 $\mathbf { W } _ { 1 }$ （节水 $1 0 \%$ ） $\phantom { + } \cdot \mathbb { W } _ { 2 }$ （节水 $2 0 \%$ ） $\mathbf { \nabla } \cdot \mathbb { W } _ { 3 }$ （节水 $3 0 \%$ )4种灌水处理的青贮玉米为研究对象,分析不同灌水处理下土壤、植株有机碳（OC,Organic Carbon）、全氮（TN,Total Nitrogen）、全磷(TP,Total Phosphorus)含量及其生态化学计量特征变化和植株与土壤间的内稳性特征。结果表明：（1）不同灌水处理下青贮玉米土壤OC、TN、TP含量均在 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层达到最高值。(2)4种灌水处理下，植株器官养分含量在Wo灌水处理下显著升高;在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层土壤 $\mathrm { O C , T N , T P }$ 含量在 $\mathbb { W } _ { 1 }$ 灌水处理下最高，且TN、TP显著高于其余灌水处理$6 . 6 6 \% { \sim } 2 6 . 1 7 \% \sqrt { . 4 . 6 7 \% } { \sim } 1 9 . 2 1 \%$ ;随灌水量减少土壤及植株养分降低显著。(3）土壤、植株 $\mathrm { C : N , C : P , N : P }$ 值变化范围分别为 $3 . 6 0 { \sim } 6 1 . 2 , 4 . 3 9 { \sim } 5 3 . 9 , 1 . 0 1 { \sim } 1 . 2 4 ,$ 其中，土壤 $\mathbf { C } { : } \mathbf { N }$ 值在各土层及不同灌水处理下较为稳定，叶片（11.9）、根(7.58)的 $\mathrm { N } { : } \mathrm { P }$ 值均小于植株氮限制的阈值(14),说明植株生长受到氮元素的限制。(4)4种灌水处理下,植株(根、叶片)OC、TP元素及其化学比值稳态性均呈现绝对稳定状态，但在 $\mathbb { W } _ { 2 }$ 处理下叶片N:P稳态性表现出敏感状态。可见，在河西灌溉区，节水 $1 0 \%$ 不仅有利于青贮玉米土壤养分的存留及保持作物生长的稳定适应能力,也可达到节水目的,进而缓解水资源紧缺的现状。
+
+关键词：青贮玉米；灌水量；土壤养分；化学计量比；稳态性；河西
+
+生态化学计量学是近年来兴起的一个生态学领域，它揭示了各养分元素在生态过程中的耦合关系和共变规律，以便进一步判断植物的生长状况及氮磷限制性元素的利用效率，为解决生态系统植物-土壤养分供求与循环关系提供了新方法[2]。农田生态系统是陆地生态系统的重要组成部分，约占全球陆地面积的 $1 0 . 5 \% ^ { \left[ 3 \right] }$ ,而碳、氮、磷等化学元素不仅是农田生态系统中植株生长发育的必要元素，也是衡量土壤养分肥力的关键元素[4]。土壤中碳是构成植物体内干物质的最主要元素，氮、磷是限制植物生长发育的重要养分元素，三者既相互耦合又相互独立[5]。而有机体元素含量在内部环境(植物元素)和外部环境(土壤元素)间保持着一种相对稳定的关系[6。在化学计量生态学范畴内，环境中元素组成发生变化的情况下，生物体保持体内元素组成相对稳定的能力叫做化学计量稳态性，能较好地反映生物在面对复杂生存环境时的适应性[]。因此，探究作物植株-土壤碳、氮、磷化学计量特征及其稳态性，在探索农田生态系统养分存留、资源限制状况以及了解生态系统结构、功能和稳定性方面具有重要意义[4]。
+
+河西地区位于甘肃省西北部，是典型的大陆干旱荒漠气候，也是我国重要的粮食产区，玉米是该地区主要粮食作物，也是高耗水作物，种植面积已超过 $2 0 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 [ 8 ] }$ 。近年来,由于该区域气候变化和地下水资源过度利用，引起河道径流的减少及地下水位的大幅下降，进一步加剧了该地区水资源的紧缺状态，因此在实际灌溉过程中，优化节水灌溉，提高农田水资源利用效率迫在眉睫[8]。已有研究表明，不同的水分处理，影响着春小麦土壤中的水氮运移以及作物根系对水分和养分的利用效率，进而影响到该区域小麦农田系统养分循环过程[9;也有学者认为，红枣等作物的生长离不开良好适宜的水分，水分的不足将影响土壤养分对作物生长的供应[10],阻碍植株对氮、磷养分的吸收和利用[1];王虎兵等[12]研究发现，水分供应过少，将会降低作物器官对于养分的吸收与积累。目前，国内外学者对作物产量[13]土壤-植株养分特征[14]以及灌水频率的控施[15]等方面进行了广泛而深入的研究，但不同灌水处理下旱作青贮玉米-土壤系统养分循环耦合关系及其内部稳定机制尚不明确，特别是对植株-土壤碳、氮、磷养分限制及其内稳性特征的研究较少。因此，本文参考当地青贮玉米作物实际灌水量，选用 $\mathrm { W } _ { 0 } ( 6 1 5 0$ $\mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ,CK) $\mathrm { . W _ { 1 } } ( 5 5 3 5 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，节水 $10 \%$ ） $\boldsymbol { \mathbb { N } } _ { 2 } ( 4 9 2 0$ $\mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，节水 $20 \%$ ） $\mathrm { . W _ { 3 } ( 4 3 0 5 ~ m ^ { 3 } \cdot h m ^ { - 2 } }$ ，节水 $30 \%$ )4种灌水梯度为研究对象，分析探讨不同灌水处理下青贮玉米植株-土壤间养分循环规律及植株器官(叶片、根)随土壤养分变化产生的稳态性特征，有助于更深层次认识生态环境脆弱地区在不同节水处理下养分循环规律和稳定性机制，以期探究河西地区十旱区农作物土壤与植物间养分平衡及稳态性关系，为优选节水灌溉方式，减少水资源浪费提供科学依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+试验区位于河西走廊中部的甘肃张掖市民乐县华瑞牧场（ $\mathrm { ^ { 1 0 0 ^ { \circ } 4 0 ^ { \prime } 3 6 ^ { \prime \prime } E } }$ $3 8 ^ { \circ } 4 3 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { N } ,$ ，海拔为$1 6 2 9 \mathrm { ~ m ~ }$ ,年均降水量 $3 6 4 ~ \mathrm { m m }$ 、蒸发量 $1 6 9 2 . 7 ~ \mathrm { m m }$ ,多年平均气温 $3 . 8 ~ \mathrm { { ^ circ C } }$ ,降雨稀少，蒸发量大，属温带大陆性荒漠草原气候，农业生产完全依赖于灌溉；2009年末，境内耕地总面积 $6 . 2 5 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，水浇地占总耕地的 $6 0 \%$ 以上,是典型的绿洲灌溉农业区[16]。土壤类型为砂质土，容重为 $1 . 1 8 \ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ，有机碳、全氮、全磷、速效磷、速效钾分别为 $5 . 9 6 \ \mathrm { g \cdot k g ^ { - 1 } \cdot 0 . 7 \  g \cdot k g ^ { - 1 } }$ 、$0 . 6 5 ~ \mathrm { g } \bullet \mathrm { k g } ^ { - 1 } \bullet 2 7 2 . 1 9 ~ \mathrm { g } \bullet \mathrm { k g } ^ { - 1 } \bullet 6 . 8 9 ~ \mathrm { g } \bullet \mathrm { k g } ^ { - 1 }$ 。
+
+# 1.2试验材料与试验设计
+
+试验于2021年4—10月开展，试验材料为金铃67号。试验共设4种灌水处理 $\mathrm { W _ { \mathrm { 0 } } } ( 6 1 5 0 ~ \mathrm { m ^ { 3 } \cdot h m ^ { - 2 } }$ ，CK) $\mathrm { . W _ { 1 } } ( 5 5 3 5 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ,节水 $10 \%$ ） $\mathrm { . W } _ { 2 } ( 4 9 2 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 节水 $2 0 \%$ ） $\mathrm { . W _ { 3 } ( 4 3 0 5 ~ m ^ { 3 } \cdot h m ^ { - 2 } }$ ，节水 $3 0 \%$ )，不同处理各生育期具体灌水量见表1。每个处理设置3个小区重复，每个小区试验面积为 $1 . 6 ~ \mathrm { m } { \times } 1 . 5 ~ \mathrm { m }$ ，为避免相互影响设置 $1 \mathrm { m }$ 的隔离带。小区灌溉采用膜下滴灌，滴灌带选用贴片式滴灌带，滴头间距 $3 0 ~ \mathrm { c m }$ ，压力为 $0 . 1 \ \mathrm { M P a }$ ,滴头流量 $2 . 2 \mathrm { L } \cdot \mathrm { h } ^ { - 1 }$ ，每个小区安装水表严格控制灌水量，当土壤含水量达到试验处理设置的下限 $6 0 \%$ ,即开始灌水[16]。施肥采用液压比例施肥泵装置，各小区施肥量均在同一水平并随水施肥，试验中氮肥用尿素（含 $\mathrm { ~ N ~ } 4 6 \%$ )，钾肥用氯化钾（含 $\mathrm { K _ { 2 } O } 5 7 \%$ ),磷肥用磷酸脲（含 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 4 4 . 0 6 \%$ ）。
+
+# 1.3土壤含水量测定
+
+2021年5—10月，用TDR水分测定仪每隔2d测定1次各试验小区(12个)的土壤含水量["]，即测定 $0 { \sim } 1 0 \ \mathrm { c m } \ . 1 0 { \sim } 2 0 \ \mathrm { c m } \ . 2 0 { \sim } 3 0 \ \mathrm { c m } \ 3$ 个土层的土攘含水量。
+
+# 1.4土样、植株的采集与测定
+
+在玉米成熟期，试验各小区随机选取3个点，利用直径为 $5 \ \mathrm { c m }$ 的土钻在小区分别取 $0 { \sim } 1 0 \ \mathrm { c m } \ . 1 0 \sim$ $2 0 \mathrm { c m } \cdot 2 0 { \sim } 3 0 \mathrm { c m }$ 土样。剔除土样中土块、枯落物等杂物，将同一小区同一土层3个样点的土样混匀，分为两份，一份土样过 $2 \mathrm { m m }$ 土筛后用于测定土壤理化性质，另一份用于经室内自然风干保存备用。每个小区内选择长势良好的10株玉米，根系取样在玉米正下方，两株玉米之间以及近滴灌带侧 $1 0 \ \mathrm { c m }$ ，将同一小区叶片、根分别混合后装入自封袋,带回实验室用水洗去灰尘，去除杂草， $1 0 5 ~ \mathrm { { ^ circ C } }$ 杀青 $3 0 ~ \mathrm { m i n }$ 后，$8 0 ~ \mathrm { ^ { \circ } C }$ 烘十至恒量，测定十质量。样品称量后经粉碎过 $2 \mathrm { m m }$ 筛测定叶片、根理化性质。
+
+表1青贮玉米不同生育期灌水处理  
+Tab.1 Irrigation treatment at different growth stages of silage corn   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">Wo</td><td colspan="2">W</td><td colspan="2">W</td><td colspan="2">W3</td></tr><tr><td>次数/次</td><td>灌水量/(m·hm-2)</td><td>次数/次</td><td>灌水量/(m·hm-2)</td><td>次数/次</td><td>灌水量(m·hm-2)</td><td>次数/次</td><td>灌水量/(m·hm-2)</td></tr><tr><td>幼苗期</td><td>2</td><td>297.00</td><td>2</td><td>267.30</td><td>2</td><td>237.60</td><td>2</td><td>207.90</td></tr><tr><td>拔节前</td><td>2</td><td>825.00</td><td>2</td><td>742.50</td><td>2</td><td>660.00</td><td>2</td><td>577.50</td></tr><tr><td>拔节期</td><td>5</td><td>1875.15</td><td>5</td><td>1687.64</td><td>5</td><td>1500.12</td><td>5</td><td>1312.60</td></tr><tr><td>抽雄期</td><td>9</td><td>2643.90</td><td>9</td><td>2379.50</td><td>9</td><td>2115.12</td><td>9</td><td>1850.73</td></tr><tr><td>吐丝期</td><td>3</td><td>472.50</td><td>3</td><td>425.25</td><td>3</td><td>378.00</td><td>3</td><td>330.75</td></tr><tr><td>成熟期</td><td>1</td><td>36.45</td><td>1</td><td>32.81</td><td>1</td><td>29.16</td><td>1</td><td>25.52</td></tr><tr><td>总灌水量 /(m³·hm-2)</td><td colspan="2">6150</td><td colspan="2">5535</td><td colspan="2">4920</td><td colspan="2">4305</td></tr></table></body></html>
+
+注： $\mathbb { W } _ { 0 } ( \mathrm { C K } )$ · $\mathbb { W } _ { 1 }$ （节水 $10 \%$ ； $\mathbb { W } _ { 2 } { \mathrm { \Omega } }$ （节水 $2 0 \%$ ）； $\mathbb { W } _ { 3 }$ （节水 $3 0 \%$ )。下同。
+
+土壤、植株(叶片、根)有机碳(OC)含量均采用 重铬酸钾外加热法测定，全氮(TN)含量消煮后采用 半微量凯氏定氮法进行测定，全磷(TP)含量采用 $\mathrm { H _ { 2 } S O _ { 4 }  – H _ { 2 } O _ { 2 } }$ 溶液消解用钼酸铵比色法测定；用环刀 法测定各土层容重[18]
+
+# 1.5产量测定
+
+采用样方法测定地上部分青贮玉米产量，样方面积为 $1 . 6 \ : \mathrm { m } \times 1 . 5 \ : \mathrm { m }$ ,每个处理沿滴灌带方向选取玉米植株10株分别测定株高、茎粗、叶面积和根冠比。株高用卷尺测定，茎粗用游标卡尺测定。采摘籽粒果实人工脱粒后烘干( $8 0 ~ \mathrm { { ^ { \circ } C } }$ )用电子天平测定单位面积产量，并记录单株粒数，每公顷产量由单位面积产量折算[19]
+
+# 1.6数据处理与统计分析
+
+稳态性指数(Homeostasis Index, $H )$ 采用下式进行计算[20]。
+
+$$
+\lg ( y ) = \lg ( c ) + { \frac { \log ( x ) } { H } }
+$$
+
+式中： $H$ 为稳态性指数；因变量 $y$ 为叶片或根OC、TN、TP含量或计量比；自变量 $x$ 为对应的土壤OC、TN、TP含量或计量比; $\boldsymbol { \mathbf { \mathit { c } } }$ 为积分常数。按照Persson等的分类，当方程拟合显著时，将 $H { > } 4 , 2 { < } H { < } 4 , 1 . 3 3 { < }$ $H { < } 2 , H { < } 1 . 3 3$ 分别划为稳态、弱稳态、弱敏感态和敏感态;但当方程拟合不显著时认为是绝对稳态[20]。
+
+试验数据利用SPSS22.0进行统计分析，通过One-wayANOVA方差分析的Duncan多重比较法进行显著性分析。采用Pearson相关性分析土壤养分指标与叶片、根碳、氮、磷及其化学计量比间的相关性。
+
+# 2结果与分析
+
+# 2.1不同灌水处理下土壤剖面水分变化特征
+
+由图1可知， $\mathbb { W } _ { 2 } , \mathbb { W } _ { 3 }$ 灌水处理下土壤各土层含水量较高，且 $\mathbb { W } _ { 2 }$ 处理在 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 土层含水量急剧减少；而 $\mathbb { W } _ { 1 }$ 灌水处理下 $0 { \sim } 1 0 ~ \mathrm { c m }$ 含水量较小，仅为$1 2 . 8 9 \%$ ,且在 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 土层含水量整体随土层深度的增加而增加;4种灌水处理均在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层含水量整体趋于稳定。
+
+![](images/cc42fb4b7b62f1de3049ef5687f6bad79825a326a7f951c15d3be35d0ec3d000.jpg)  
+注： $\mathbb { W } _ { 0 } ( \operatorname { C K } )$ · $\mathbb { W } _ { 1 }$ （节水 $1 0 \%$ ； $\mathbb { W } _ { 2 }$ （节水 $2 0 \%$ ）； $\mathbb { W } _ { 3 } { \boldsymbol { \cdot } }$ （节水 $3 0 \%$ )。下同。图1不同灌水处理下土壤剖面水分变化Fig.1Changes of soil profile moisture under differentirrigation treatments for silage maize
+
+# 2.2不同灌水处理下植株-土壤OC、TN、TP含量变化特征
+
+不同灌水处理下青贮玉米土壤-植株(叶片、根)养分变化如图2所示。4种灌水处理下土壤OC、TN、TP含量均在 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层达到最高值，土壤OC含量在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 各土层间呈现一定范围内的波动，波动范围 $5 . 4 2 { \sim } 7 . 2 8 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ，而在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层, $\mathbb { W } _ { 2 }$ 灌水处理显著降低( $\scriptstyle \cdot { P < 0 . 0 5 }$ ；在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 全土层，土壤OC、TN、TP含量均在 $\mathbb { W } _ { 1 }$ 灌水处理下最高，同时在$\mathbb { W } _ { 1 }$ 处理下土壤TN含量高出其他灌水处理的 $6 . 6 6 \% .$ ）$2 6 . 1 9 \%$ ，土壤TP含量高出其他灌水处理的 $4 . 6 7 \%$ 2$1 9 . 2 1 \%$ 。
+
+在不同灌水处理下，植株(叶片、根)OC、TN、TP含量均随灌水量递减而递减。灌水量在 $\mathbb { W } _ { 0 }$ 处理下植株叶片 $\mathrm { O C } , \mathrm { T N } , \mathrm { T P }$ 含量 $( 4 4 8 . 0 0 \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } \cdot 6 . 6 7 \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 、$6 . 3 1 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } .$ )显著高于其他处理，植株根OC、TP含量$( 6 0 . 0 0 \mathrm { \ g } \cdot \mathrm { k g } ^ { - 1 } , 4 . 2 2 \mathrm { \ g } \cdot \mathrm { k g } ^ { - 1 } )$ 高于其他处理;在 $\mathbb { W } _ { 3 }$ 灌水处理下，植株叶片OC、TN、TP含量分别显著低于其余处理，但植株根TN含量在4种灌水处理下波动较小且无显著性差异。
+
+# 2.3不同灌水处理下植株-土壤各元素化学计量比特征
+
+从表2可以看出，因土壤、植株(根、叶片)OC、
+
+![](images/4f693443bf051d09191e4994325a162fda10bf3ed85985e1313876f8ffd85faf.jpg)  
+注：不同小写字母表示同一土层及植株器官下不同灌水处理间差异显著 $( P { < } 0 . 0 5 )$ 。  
+图2不同灌水处理下土壤-植株养分含量  
+Fig.2 Concentrations of soil and plant C,Nand P in silage corn under irrigation treatments
+
+表2不同灌水处理下 $\mathbf { 0 } { \sim } 3 \mathbf { 0 } ~ \mathbf { c m }$ 土壤-植株C、N、P化学计量特征  
+Tab.2 Soil and plant C,N,P stoichiometry among irrigation treatments at $\mathbf { 0 - 3 0 ~ c m }$ soil layer   
+
+<html><body><table><tr><td rowspan="2">指标</td><td rowspan="2"></td><td colspan="4">灌水处理</td></tr><tr><td>Wo</td><td>W</td><td>W2</td><td>W3</td></tr><tr><td>C:N</td><td>土壤</td><td>3.46±0.08a</td><td>3.41±0.23a</td><td>3.71±0.02a</td><td>3.82±0.12a</td></tr><tr><td></td><td>植株根</td><td>15.04±1.36a</td><td>11.41±0.44a</td><td>12.75±0.20a</td><td>12.26±2.60a</td></tr><tr><td></td><td>植株叶</td><td>67.37±2.93a</td><td>60.66±1.79a</td><td>59.62±3.83a</td><td>56.97±7.75a</td></tr><tr><td>C:P</td><td>土壤</td><td>4.39±0.09a</td><td>4.33±0.15a</td><td>4.17±0.23a</td><td>4.66±0.20a</td></tr><tr><td></td><td>植株根</td><td>14.27±0.631a</td><td>12.49±0.30b</td><td>12.33±0.17b</td><td>11.29±0.24b</td></tr><tr><td></td><td>植株叶</td><td>71.44±3.64a</td><td>66.10±5.874a</td><td>65.83±5.77a</td><td>66.06±9.95a</td></tr><tr><td>N:P</td><td>土壤</td><td>1.29±0.06a</td><td>1.30±0.04a</td><td>1.14±0.06a</td><td>1.23±0.04a</td></tr><tr><td></td><td>植株根</td><td>0.97±0.10a</td><td>1.10±0.07a</td><td>0.97±0.00a</td><td>0.99±0.17a</td></tr><tr><td></td><td>植株叶</td><td>1.07±0.07a</td><td>1.09±0.08a</td><td>1.11±0.07a</td><td>1.16±0.02a</td></tr></table></body></html>
+
+注：不同小写字母表示同一土层及植株器官下不同灌水处理间差异显著( $\scriptstyle P < 0 . 0 5 .$ 。
+
+TN、TP含量受主导因素不同， $\mathrm { C : N , C : P , N : P }$ 在受灌水梯度因素作用下表现出不同显著差异。经单因素方差分析表明(表3)，不同灌水处理下青贮玉米$0 { \sim } 3 0 ~ \mathrm { c m }$ 土层土壤、植株(根、叶片)化学计量比均值为： $\mathrm { C } \colon \mathrm { N }$ （3.60、12.87、61.15）、C:P（4.39、12.59、53.89) $, \mathrm { N } { : } \mathrm { P } ( 1 . 2 4 , 1 . 0 1 , 1 . 1 0 )$ ,其中土壤、植株(根、叶片)不同灌水处理间 $\mathrm { C : N , N : P }$ 值均无显著差异，而根C：P在 $\mathbb { W } _ { 0 }$ 达到最大值，与其他灌水处理存在显著差异 $( P { < } 0 . 0 5 )$ 。
+
+# 2.4不同灌水处理下青贮玉米产量的变化
+
+由图3可知，该区不同灌水处理下青贮玉米产量在 $8 5 { \sim } 6 9 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 之间。且 $\mathbb { W } _ { 0 }$ 处理显著 $( P { < } 0 . 0 5 )$ 高
+
+出 $\mathbb { W } _ { 2 } , \mathbb { W } _ { 3 }$ 处理 $2 0 . 8 2 \% { \sim } 2 4 . 4 9 \%$ 。从青贮玉米产量来看， $\mathbb { W } _ { 1 }$ 处理相较于 $\mathbb { W } _ { 0 }$ 处理产量差异较小，无显著差异。
+
+# 2.5植物-土壤化学计量学特征与各元素的相关关系
+
+由图4可知，土壤含水量与土壤OC、TN、TP含量均存在极显著( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ )线性相关关系。由表3可知，土壤OC与TN、TP均存在极显著正相关关系( $\scriptstyle P <$ 0.01)，土壤TN与TP(相关系数：0.91)呈现出极显著正相关关系；植株根OC与叶片OC、TN、TP间存在不同水平的显著正相关关系，植株根TN与叶片TN呈显著正相关关系( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ )；植株根TP与叶片OC呈
+
+# 表3土壤与植株叶片、根OC、TN、TP含量的相关关系
+
+Tab.3 Correlation between soil and plant OC,TN, TP   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">指标</td><td colspan="3">土壤</td><td colspan="3">植株根</td></tr><tr><td>OC</td><td>TN</td><td>TP</td><td>OC</td><td>TN</td><td>TP</td></tr><tr><td rowspan="2">植株叶</td><td>OC</td><td>0.23</td><td>0.13</td><td>0.02</td><td>0.86**</td><td>0.40</td><td>0.82**</td></tr><tr><td>TN</td><td>0.46</td><td>0.36</td><td>0.17</td><td>0.70*</td><td>0.71*</td><td>0.54</td></tr><tr><td rowspan="4">土壤</td><td>TP</td><td>0.43</td><td>0.22</td><td>0.18</td><td>0.59*</td><td>0.51</td><td>0.48</td></tr><tr><td>OC</td><td>1.00</td><td>0.91**</td><td>0.93**</td><td>0.17</td><td>-0.19</td><td>0.15</td></tr><tr><td>TN</td><td></td><td>1.00</td><td>0.91**</td><td>0.38</td><td>0.08</td><td>0.36</td></tr><tr><td>TP</td><td></td><td></td><td>1.00</td><td>0.28</td><td>-0.23</td><td>0.28</td></tr></table></body></html>
+
+注：\*\*表示在0.01水平(双侧)上显著相关;\*表示在0.05水平(双侧)上显著相关。
+
+![](images/fb7a316e295750b15fd258ff1ebd8bffb1e29ad9d68f7891094ac6c5c2770f6e.jpg)  
+图3不同灌水处理下青贮玉米产量Fig.3Yield of silage corn under different irrigationtreatments
+
+注：不同小写字母表示不同灌水处理间产量差异显著 $( P { < } 0 . 0 5 )$ 0
+
+极显著正相关关系 $\scriptstyle { \overbrace { P { < } 0 . 0 1 } }$ ）
+
+# 2.6植株叶片、根随土壤养分变化的稳态性分析
+
+植株叶片和根OC、TN、TP及其化学计量比在不同灌水处理下随土壤养分变化的稳态性特征表明(表4)，在4种灌水处理下植株叶片、根OC、TN、TP及化学计量比 $\operatorname { C } { : \mathrm { N } } , \operatorname { C } { : \mathrm { P } }$ 方程回归拟合均不显著，属于绝对稳态，表明在不同灌水处理下土壤碳磷元素均能调节植株元素及比例，使其处于相对稳定状态；在W灌水下植株叶片 $\mathrm { N } { : } \mathrm { P }$ 呈拟合显著结果,其稳态性指数分别为 $0 . 7 9 \big ( H < 1 . 3 3 \big )$ ,属于敏感态型，反映植株叶片养分TN、TP含量在 $\mathbb { W } _ { 2 }$ 灌水下极易受到土壤养分变化的影响。
+
+# 3讨论
+
+# 3.1不同灌水处理下植株叶片、根-土壤养分含量及其生态化学计量学特征
+
+碳、氮、磷元素是植物生长发育过程中的必需元素，其含量的高低可以预测土壤及植物养分饱和程度及限制状况[14]。本研究发现,节水 $1 0 \% ( \mathbb { V } _ { 1 } )$ 灌水处理下将有效提高土壤 $\mathrm { O C } , \mathrm { T N } , \mathrm { T P }$ 含量，这与前人研究结果相似[9]。一方面,节水处理可以在一定程度上使土壤水分向下层迁移，且 $\mathbb { W } _ { 1 }$ 节水处理下土壤含水量低于 $\mathbb { W } _ { 2 } , \mathbb { W } _ { 3 }$ 节水处理(图1)，较低的含水量有助于促进土壤养分的累积(图1);此外，节水$1 0 \%$ 处理下虽导致水分运移速度减缓，但可加速肥料的溶解和有机肥料的矿化，提高土壤生产力及土壤养分分解速率，进而促进养分的释放，增加土壤养分含量；而节水 $2 0 \% . 3 0 \%$ 的灌水处理使得土质过于紧实，水分向深层下渗(图1)，使土壤养分淋溶至土壤深层，加速养分流失。在施肥量相等、灌水量不同的情况下，土壤OC、TN、TP含量整体上均随土层深度增加而降低，这与王建程的研究结果一致。土壤有机碳主要来源于植物残体、腐殖质降解、微生物和根系分泌物矿化分解与转化累积[22]；土壤氮素主要来源于自身生物固氮、降雨及肥料的施用；土壤磷元素主要来自施肥和地表作物的归还[9]。由表3可知,土壤TN、TP含量均与土壤OC存在极显著正相关关系，说明表层有机质含量的提高促进了微生物的活性，进一步促进氮磷含量的累积，同时也因为外源氮磷肥的表层输入，导致养分在土壤表层密集，因此，青贮玉米 $0 { \sim } 1 0 \ \mathrm { c m }$ 土层土壤OC、TN、TP含量相对较高。
+
+![](images/d73fd7c047702e8e76ff8f8d9637991672d55ece2e1ae220ea380fe052370de4.jpg)  
+图4不同灌水处理下水分与土壤C、N、P间的线性关系  
+Fig.4Soil C,Nand Pin relation to water content under irrigation treatments for silage corn
+
+表4植株叶片、根养分和计量比与土壤的稳态性指数  
+Tab.4 Homeostasis index of silage corn plant leaf,root nutrients and dosing ratio and soil   
+
+<html><body><table><tr><td>器官</td><td colspan="2">变量</td><td colspan="3">Wo</td><td colspan="3">W</td><td colspan="3">W2</td><td colspan="3">W3</td></tr><tr><td></td><td>x</td><td>y</td><td>H</td><td>P</td><td>等级</td><td>H</td><td>P</td><td>等级</td><td>H</td><td>P</td><td>等级</td><td>H</td><td>P</td><td>等级</td></tr><tr><td>叶片</td><td>OC±壤</td><td>OC叶片</td><td>131.58</td><td>0.78</td><td>绝对</td><td>5.16</td><td>0.84</td><td>绝对</td><td>14.86</td><td>0.84</td><td>绝对</td><td>11.57</td><td>0.89</td><td>绝对</td></tr><tr><td></td><td>TN土壤</td><td>TN叶片</td><td>-1.60</td><td>0.16</td><td>稳态</td><td>3.40</td><td>0.38</td><td>稳态</td><td>20.66</td><td>0.32</td><td>稳态</td><td>-7.58</td><td>0.83</td><td>稳态</td></tr><tr><td></td><td>TP土壤</td><td>TP叶片</td><td>18.52</td><td>0.94</td><td></td><td>14.07</td><td>0.96</td><td></td><td>-1.68</td><td>0.21</td><td></td><td>-4.08</td><td>0.71</td><td></td></tr><tr><td></td><td>C:N土壤</td><td>C:N叶片</td><td>0.59</td><td>0.25</td><td></td><td>-2.69</td><td>0.30</td><td></td><td>0.13</td><td>0.52</td><td></td><td>-5.78</td><td>0.98</td><td></td></tr><tr><td></td><td>C:P土壤</td><td>C:P时片</td><td>0.95</td><td>0.75</td><td></td><td>-0.94</td><td>0.76</td><td></td><td>0.94</td><td>0.50</td><td></td><td>-0.34</td><td>0.44</td><td></td></tr><tr><td></td><td>N:P土壤</td><td>N:P叶片</td><td>0.66</td><td>0.27</td><td></td><td>0.81</td><td>0.69</td><td></td><td>0.79</td><td><0.05</td><td>敏感态</td><td>-2.65</td><td>0.47</td><td></td></tr><tr><td>根</td><td>OC ±壤</td><td>OC根</td><td>35.46</td><td>0.78</td><td>绝对</td><td>17.24</td><td>0.84</td><td>绝对</td><td>158.73</td><td>0.84</td><td>绝对</td><td>34.48</td><td>0.89</td><td>绝对</td></tr><tr><td></td><td>TN土壤</td><td>TN根</td><td>0.78</td><td>0.06</td><td>稳态</td><td>-58.82</td><td>0.59</td><td>稳态</td><td>22.42</td><td></td><td>0.758稳态</td><td>-0.50</td><td>0.34</td><td>稳态</td></tr><tr><td></td><td>TP土壤</td><td>TP根</td><td>7.40</td><td>0.78</td><td></td><td>24.51</td><td>0.92</td><td></td><td>11.82</td><td>0.68</td><td></td><td>-29.41</td><td>0.97</td><td></td></tr><tr><td></td><td>C:N土壤</td><td>C:N根</td><td>0.32</td><td>0.41</td><td></td><td>-13.70</td><td>0.92</td><td></td><td>-0.92</td><td>0.73</td><td></td><td>0.26</td><td>0.61</td><td></td></tr><tr><td></td><td>C:P土壤</td><td>C:P根</td><td>0.79</td><td>0.62</td><td></td><td>-2.23</td><td>0.55</td><td></td><td>-14.93</td><td>0.82</td><td></td><td>2.46</td><td>0.42</td><td></td></tr><tr><td></td><td>N:P 土壤</td><td>N:P根</td><td>0.41</td><td>0.09</td><td></td><td>-0.77</td><td>0.55</td><td></td><td>-1.00</td><td>0.94</td><td></td><td>0.20</td><td>0.20</td><td></td></tr></table></body></html>
+
+注：土壤各指标为 $x$ 轴;植株叶片、根各指标为 $y$ 轴； $H$ 为内稳态指数； $P < 0 . 0 5$ 时表示方程拟合显著。
+
+植物体内营养元素碳、氮、磷的水平可以在一定程度上反映植物在不同灌水处理下植物体内的营养状况以及对环境的适应能力[4]。本研究发现，节水处理会降低植株器官(叶片、根)OC、TN、TP养分含量(图2)，可能是因为叶片、根养分及其化学计量比之间存在不同水平相关关系(表3)，说明叶片、根所吸收的养分不仅来源于土壤、植物自身固氮和光合作用[]，也可能是叶片、根的不同元素间通过相互耦合后表现高度复杂的协同关系，这种协同关系可能与植物类型以及其适应环境变化的生长策略有关[19]。此外,节水 $2 0 \%$ ， $3 0 \%$ 的灌水处理将导致土壤、植株根周围环境养分减少，根系养分吸收量减少，减弱根系代谢强度，同时地上植株器官的生长与根系对土壤水分、养分的吸收能力密切相关，会进一步降低叶片气孔开度，导致叶片的光合作用减弱，引起地上部分干物质积累量及养分的减少[8]
+
+土壤C：N可以反映出碳、氮元素的营养平衡状况，并可以表征碳、氮元素对土壤质量的敏感程度[23]。而土壤养分是具有肥力且能生长植物的未固结层，极大地影响到植物自身对所需养分的吸收状况[]。本研究中，在青贮玉米成熟期下不同灌水处理 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土壤 $\mathrm { C } { : } \mathrm { N }$ 均值(3.60)低于全国农田土壤平均值(11.45)[(表2)，说明该区具有较快的碳、氮矿化速率。而土壤 ${ \mathrm { C } } { : } \mathrm { P } \ 、 { \mathrm { N } } { : } \mathrm { P }$ 是表征土壤微生物对有机质磷元素的释放及从外界吸收转化磷素矿化潜力，进行预测土壤养分限制状况和判断氮饱和的诊断指标。本研究发现，不同灌水处理青贮玉米在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层,土壤 $\mathrm { C } : \mathrm { P } , \mathrm { N } : \mathrm { P }$ 均值分别为4.36、1.24,远低于全国 $\mathrm { C } { : } \mathrm { P }$ 平均值(52.70)及全国农田$\mathrm { N } { : } \mathrm { P }$ 平均值(5.10)[24]。而较低的C:P、N:P值说明该区土壤不同灌水处理下土壤氮元素匮乏，土壤磷元素有效性较高，有机质中释放磷的潜力较大，可以促进土壤有效磷的释放[19]。此外，土壤C:N与N:P呈显著负相关 $( P { < } 0 . 0 5 )$ ，表明土壤养分损耗过度使匮乏元素得不到供应，土壤可利用的TN、TP含量降低，将会影响植株叶片、根自身所需的含量。
+
+植株器官 $\mathrm { C } : \mathrm { N } \ 、 \mathrm { C } : \mathrm { P } \ 、 \mathrm { N } : \mathrm { P }$ 能够反映植物从土壤中获取元素的运移循环及植物生长速率和养分利用率[2I]。本研究发现,青贮玉米植株根、叶片C:N随灌水量的减少均无明显差异，说明植株器官的OC、TN两者具有较为稳定的耦合结构关系。同时植株根 $\mathrm { C } { : } \mathrm { P }$ 均值(12.60)远低于全球C:P均值(595.00)，且在W灌水处理下显著高于其他灌水处理，表明植株根C：P随灌水量的减少，显著降低了植株同化碳的能力和固碳速率[7,进一步加大了根系有效磷含量的占比。原因可能是由于磷是一种沉积性矿物，在土壤中的迁移率较低，且易被吸附和固定，而根系对磷的获取更多依赖于根形态的改变[18]。在水分亏缺时根系易向土壤深层延伸,改变根冠比，由于根系的加速生长,使得表面积大、分枝多的根系能够占据更多的土壤体积，加大了与土壤磷的接触面积，从而在获取土壤磷方面具有相对明显优势，导致根系 $\mathrm { C } { : } \mathrm { P }$ 含量的显著降低。综上所述，植株叶片、根 $\operatorname { C } { : \mathrm { N } } , \operatorname { C } { : \mathrm { P } }$ 表现为叶 $>$ 根(表2)，这与叶作为植株重要的养分储存器官，而根作为养分吸收和传输的通道有关，说明相对于叶，根具有更快的生长速率。有研究表明,植株叶片 $\mathrm { N } { : } \mathrm { P }$ 的稳定会形成较高且稳定的生物量，当植株 $\mathrm { N } { : } \mathrm { P } { > } 1 6$ 时植物生长受磷限制,当 $\mathrm { N } { : } \mathrm { P } { < } 1 4$ 时植株生长受氮限制,当N:P值介于14\~16之间时受氮和磷共同限制或均不受两者限制[8]。本研究中的植株叶片、根 $\mathrm { N } { : } \mathrm { P }$ 均值(1.09、1.01)均小于14,表明青贮玉米在生长过程中受氮限制。
+
+# 3.2植株叶片和根对土壤养分变化的响应及其稳态性
+
+土壤养分的变化直接影响植物生长发育、功能运行及其养分的吸收利用，当土壤养分发生改变时，植物叶片、根可通过稳态性调节使其有机体能够维持自身体内化学元素相对稳定，该理论亦是植物养分吸收的内在属性及土壤养分供应状况的综合体现[25]，因此，植物稳态性的高低与养分限制间具有密切关联性。本研究中， $\mathbb { W } _ { 0 } , \mathbb { W } _ { 1 } , \mathbb { W } _ { 3 }$ 处理下植株叶片、根的稳态性呈绝对稳态， $\mathbb { W } _ { 2 }$ 处理下植株叶片N：P呈敏感态。主要是由于试验区土壤主要受氮限制，植株TN含量随土壤TN含量的变化而变化，从而导致其植株叶片 $\mathrm { N } { : } \mathrm { P }$ 随之发生变化，灌水量过少影响植株根吸收养分的能力，根系活力减弱，限制了向植株根部供应的碳水化合物积累，使植株器官营养养分降低，该结果与蔡倩等26对春玉米植物稳态性特征的研究结果一致。在 $\mathbb { W } _ { 0 } , \mathbb { W } _ { 1 }$ 处理下植株叶片、根各指标均呈绝对稳态，说明在 $\mathbb { W } _ { 0 }$ 为对照的情况下， $\mathbb { W } _ { 1 }$ 灌水处理下该区青贮玉米在干旱环境下已具有良好适应能力，进一步验证植株叶片、根N：P可以作为判定植物养分平衡状态的重要指标[27]
+
+综上所述，植株叶片、根养分和计量比利用稳态性模型在 $\mathbb { W } _ { 0 } , \mathbb { W } _ { 1 } , \mathbb { W } _ { 3 }$ 处理下模拟结果不显著均呈绝对稳态，在 $\mathbb { W } _ { 2 }$ 处理下呈部分敏感态。说明青贮玉米土壤、植株(叶片、根)养分计量学特征在以 $\mathbb { W } _ { 0 }$ 为对照的情况下 $\mathbb { W } _ { 1 }$ 灌水处理下存在耦合关系且具有绝对稳定性。因此，灌水量的不同会影响养分循环及其植株和土壤养分之间的互馈机制，且青贮玉米具有保守的养分利用策略，使得植株在干旱贫瘠的土壤中得以生存。
+
+# 4结论
+
+基于河西地区青贮玉米稳产下植株-土壤化学计量及其稳态性对水分调控的响应，研究了青贮玉米不同灌水处理下植株-土壤碳氮磷及其稳态性特征，结论如下：
+
+（1）不同灌水处理下土壤OC、TN、TP含量均随土层深度增加而降低，且节水 $1 0 \% \mathrm { ( W _ { 1 } ) }$ 有助于土壤养分含量的积累，但节水过多后 $( \mathbb { W } _ { 2 } , \mathbb { W } _ { 3 } )$ 将降低土壤、植株器官(叶片、根)OC、TN、TP养分含量。
+
+（2）土壤C:N:P化学比值较低，土壤有机质分解速率缓慢，氮素匮乏，磷有效性较高，且土壤、植株器官C:N均较为稳定，OC、TN两者具有较为稳定的耦合结构关系,而植株根 $\mathrm { C } { : } \mathrm { P }$ 随灌水量的减少，显著降低了植物同化碳的能力和固碳速率，进一步加大了根系有效磷含量的占比，同时由青贮玉米叶片$\mathrm { N } { : } \mathrm { P } { < } 1 4$ 可知，青贮玉米生长过程中受土壤氮元素的限制。
+
+(3）以传统灌水（ $\left( \mathbb { W } _ { 0 } \right)$ 为对照的情况下，节水$1 0 \% ( \mathbb { V } _ { 1 } )$ 灌水处理使青贮玉米植株叶片、根养分含量对土壤养分变化均具有相对较高的稳态性与良好的环境适应能力。
+
+# 参考文献(References)：
+
+[1]张娟,李广,袁建钰,等.水氮调控对旱作春小麦土壤、叶片养分 含量的影响[J].干旱区研究,2021,38(6):1750-1759.[Zhang Juan,Li Guang,Yuan Jianyu,et al. Effects of water and nitrogen regulation on soil and leaf stoichiometric characteristics of spring wheat in dry farming[J].Arid Zone Research,2021,38(6): 1750- 1759.]   
+[2]朱平宗,张光辉,杨文利,等.红壤区林地浅沟不同植被类型土 壤生态化学计量特征[J].水土保持研究,2020,27(6):60-65. [Zhu Pingzong,Zhang Guanghui, Yang Wenli,et al. Characteristics of soil ecological stoichiometry of diferent vegetation types in ephemeral gully of forestland in red soil region[J].Research of Soil and Water Conservation,2020,27(6): 60-65.]   
+[3]陈绍民,杨硕欢,张保成,等.不同水肥条件下夏玉米/冬小麦农 田生态系统碳平衡研究[J].农业机械学报,2021,52(5):229- 238.[Chen Shaomin, Yang Shuohuan, Zhang Baocheng,et al. Carbon balance in summer maize/winter wheat farmland ecosystem under different water and fertilizer conditions[J]. Transactions of the Chinese Society for Agricultural Machinery,2021,52(5): 229-238.]   
+[4]吴建平,韩新辉,许亚东,等.黄土丘陵区不同植被类型下土壤 与微生物C,N,P化学计量特征研究[J].草地学报,2016,24(4): 783-792.[Wu Jianping,Han Xinhui,Xu Yadong,et al. Ecological stoichometry of soil and soil microbial biomass C,N,P,under granin-to-green programe in loess hilly region[J]. Acta Agrestia Sinica,2016,24(4): 783-792.]   
+[5]孙立青.中国农田土壤碳氮磷化学计量特征的研究[D].北京: 中国地质大学,2018.[Sun Liqing.The Study of Farmland Soil C: N:P Stoichiometry Characteristics in China[D]. Beijing: China University of Geosciences,2018.]   
+[6]原雅楠,李正才,王斌,等.不同林龄榧树根、枝、叶的C、N、P化 学计量及内稳性特征[J.南京林业大学学报(自然科学版), 2021,45(6): 135-142.[Yuan Ya'nan,Li Zhengcai,Wang Bin,et al.Ecological stoichiometry in leaves,branches and roots of Torreya grandis with different forest ages and its stoichiometric homoeostasis[J]. Journal of Nanjing Forestry University(Natural Sciences Edition),2021,45(6): 135-142.]   
+[7]Sun Z H,Han JC.Effect of soft rock amendment on soil hydraulic parameters andcropperformance in Mu Us SandyLand,China[J]. Field Crops Research,2018,222(1): 85-93.   
+[8]梁川.河西内陆区玉米膜下滴灌高效节水供水供肥模式研究 [J].甘肃水利水电技术,2021,57(7): 28-31.[Liang Chuan. Study on the model of high-efficiency water-saving water supply and fertilizer supply for corn under mulch drip irrigation in the inland area of Hexi[J].Gansu Water Resources and Hydropower Technology,2021,57(7): 28-31.]   
+[9]张雨新,张富仓,邹海洋,等.生育期水分调控对河西地区滴灌 春小麦生长和水分利用的影响[J].干旱地区农业研究,2017,
+
+35(1):171-177.[Zhang Yuxin, Zhang Fucang, Zou Haiyang,et al. Effects of soil water regulation in growing period on spring wheat growth and water use in Hexi areas under drip irrigation[J].Agricultural Research in the Arid Areas,2017,35(1): 171-177.]
+
+[10] 柴仲平,王雪梅,孙霞,等.水氮耦合对红枣植株养分含量的影 响[J].西南农业学报,2010,23(4):1151-1154.[Chai Zhongping, Wang Xuemei, Sun Xia,et al.Effect of coupling of water and N on plant nutrient of Ziziphus jujube[J].Southwest China Journal of Agricultural Sciences,2010,23(4): 1151-1154.] [11] 王攀,余海龙,许艺馨,等.宁夏燃煤电厂周边土壤、植物和微生 物生态化学计量特征及其影响因素[J].生态学报,2021,41 (16): 6513-6524.[Wang Pan, Yu Hailong,Xu Yixin, et al. C : N: P ecological stoichiometry in soils,plants,microbes,and their influencing factors around thecoal-fired power plants in Ningxia[J].Acta Ecologica Sinica,2021,41(16): 6513-6524.] [12] 王虎兵,曹红霞,郝舒雪.温室番茄植株养分和光合对水肥耦合 的响应及其与产量关系[J].中国农业科学,2019,52(10):1761-   
+1771.[Wang Hubing,Cao Hongxia, Hao Shuxue.Responses of plant nutrient and photosynthesis in greenhouse tomato to water-fertilizer coupling and their relationship with yield[J].Scientia Agricultura Sinica,2019,52(10): 1761-1771.] [13]Mohannadi M, Shabanpour M, Mohannadi M H,et al. Characterizing spatial variability of soil textural fractions and fractal parameters derived from particle size distributions[J]. Pedosphere,2019,   
+29(2): 224-234. [14] 赵如梦,张炳学,王晓霞,等.黄土高原不同种植年限苜蓿草地 土壤与植物化学计量特征[J].草业科学,2019,36(5):1189-   
+1199.[Zhao Rumeng, Zhang Bingxue,Wang Xiaoxia,et al. Ecological stoichiometry characteristics of soil and plant of alfalfa with diffrent growing years on the Loess Plateau[J]. Pratacultural Science,2019,36(5): 1189-1199.] [15] 李菊,张富仓,王艳丽,等.灌水量和滴灌频率对甘肃省河西地 区春玉米生长和水分利用的影响[J].中国农业大学学报,   
+2021,26(1O): 8-20.[Li Ju, Zhang Fucang,Wang Yanli,et al. Effects of irrigation amount and dirp irrigation frequency on spring maize growth and water use in Hexi area of Gansu Province[J]. Journal of China Agricultural University,2021,26(1O): 8-20.] [16] 刘七军,曲玮,李昭楠,等.耕地细碎化对干旱绿洲区作物生产 和农户收入影响效应调查分析——以甘肃省民乐县为例[J]. 干旱地区农业研究,2011,29(3):191-198.[Liu Qijun, Qu Wei, Li Zhaonan,et al.A survey and analysis of the impacts of land fragmentation on crops production and farmers’income in arid oasis regions: A case from Minle County of Gansu Province[J].Agricultural Research in the Arid Areas,2011,29(3): 191-198.] [17]Zhang G Q, Shen D P,Ming B,et al. Using irrigation intervals to optimize water-use efficiency and maize yield in Xinjiang,Northwest China[J]. The Crop Journal,2019,7(3): 322-334.
+
+[18]刘帅楠,李广,宋良翠,等.早播及耕作措施对黄土高原半干旱区春小麦土壤氮磷元素的影响[J].干旱区研究,2021,38(5):
+
+1367-1375.[Liu Shuainan,Li Guang, Song Liangcui,et al. Effects of early sowing and tillage measures on nitrogen and phosphorus in the soil supporting spring wheat in the semi-arid area of the Loess Plateau[J].Arid Zone Research,2021,38(5): 1367-1375.]   
+[19]蒋宇新,郑旭荣,王振华.滴灌时长对伊犁河流域土壤理化性质 及作物产量的影响[J].干旱区研究,2020,37(3):645-651.[Jiang Yuxin,Zheng Xurong,Wang Zhenhua.Effects of drip irrigation duration on soil physical and chemical properties and wheat yield in the Yili River Basin[J].Arid Zone Research,2020,37(3): 645-651.]   
+[20]邓健,张丹,张伟,等.黄土丘陵区刺槐叶片-土壤-微生物碳氮 磷化学计量学及其稳态性特征[J]).生态学报,2019,39(15): 5527-5535.[Deng Jian,Zhang Dan, Zhang Wei, et al. Carbon, nitrogen,and phosphorus stoichiometry and homeostasis characteristics of leaves,soil,and microbial biomass of Robinia pseudoacacia forests in the loess hilly region of China[J].Acta Ecologica Sinica, 2019,39(15):5527-5535.]   
+[21]王建程.水分胁迫对玉米生理生态特性影响研究[D].太原:山 西农业大学,2O04.[Wang Jiancheng.Effect of Water Stress on the Physiological and Ecological Characteristics of Maize Abstract [D].Taiyuan: Shanxi Agricultural University,2004.]   
+[22] 江叶枫,叶英聪,郭熙,等.江西省耕地土壤氮磷生态化学计量 空间变异特征及其影响因素[J].土壤学报,2017,54(6):1527- 1539.[Jiang Yefeng,Ye Yingcong,Guo Xi,et al. Spatial variability of ecological stoichiometry of soil nitrogen and phosphorus in farmlands of Jiangxi Province and its influencing factors[J].Acta Pedologica Sinica,2017,54(6): 1527-1539.]
+
+[23]刘帅楠,李广,杨传杰,等.植被类型对黄土丘陵区土壤碳氮磷
+
+化学计量特征的季节变异[J].水土保持学报,2021,35(6):343- 349,36O.[Liu Shuainan,Li Guang,Yang Chuanjie,et al. Seasonal variation of soil carbon,nitrogen and phosphorus stoichometry under different vegetation types in loess hilly region[J]. Journal of Soil and Water Conservation,2021,35(6): 343-349,360.]   
+[24] 娄泊远,王永东,闫晋升,等.亚寒带荒漠草原不同树种人工林 土壤生态化学计量特征[J].干旱区研究,2021,38(5):1385- 1392.[Lou Boyuan,Wang Yongdong,Yan Jinsheng,et al.Characteristics of soil ecological stoichiometry of different tree spcies in sub-frigid desert steppe[J].Arid Zone Research,2021,38(2): 1385-1392.]   
+[25] 温晨,杨智姣,杨磊,等.半干旱黄土小流域不同植被类型植物 与土壤生态化学计量特征[J].生态学报,2021,41(5):1824- 1834.[Wen Chen,Yang Zhijiao,YangLei, et al.Ecological stoichiometry characteristics of plants and soil under different vegetation types in the semi-arid loess small watershed[J].Acta Ecologica Sinica,2021,41(5): 1824-1834.]   
+[26] 蔡倩,白伟,郑家明,等.水分胁迫对春玉米光合特性及水分利 用效率的影响[J].辽宁农业科学,2021,21(5):1-6.[Cai Qian, Bai Wei, Zheng Jiaming,et al.Effect of water stress on photosynthetic characteristics and water use efficiency of spring maize[J]. Liaoning Agricultural Sciences,2021,21(5): 1-6.]   
+[27] 宁志英,李玉霖,杨红玲,等.科尔沁沙地优势固沙灌木叶片氮 磷化学计量内稳性[J].植物生态学报,2019,43(1):46-54. [Ning Zhiying,Li Yulin,Yang Hongling,et al. Nitrogen and phosphorus stoichiometric homoeostasis in leaves of dominant sand-fixing shrubs in Horqin Sandy Land,China[J]. Chinese Journal of Plant Ecology,2019,43(1): 46-54.]
+
+# Effects of water treatment on stoichiometric ratio and homeostasis of silage corn soil in Hexi
+
+XIE Mingjun'，LI Guang'， MA Weiwei'， LIU Shuainan'， CHANG Haigang',DU Jia'nan'， DING Ning²(1. College of Forestry,Gansu Agricultural University,Lanzhou 73oO70,Gansu, China;  
+2. Colege of Finance and Economics,Gansu Agricultural University,Lanzhou 73oo7o,Gansu, China)
+
+Abstract: A study was conducted using irrigation treatments and changes in soil and plant carbon (OC), nitrogen (TN)，and phosphorus (TP） stoichiometry and homeostasiswere investigated to explore the soil nutrient limitation in farmland ecosystems in the Hexi irigation area.The following results are presented.(1）The OC, TN,and TP concentrations of silage maize soils under different irrigation treatments reached the highest values in $0 - 1 0 ~ \mathrm { c m }$ . (2)Among four irrigation treatments,the nutrient content of plant organs was the highest under $\mathrm { W } _ { 0 }$ （204号 irrigation. However, at $0 { - } 3 0 ~ \mathrm { c m }$ soil layers,the values of soil OC,TN,and TP concentrations were the highest under $\mathsf { W } _ { 1 }$ irrigation treatment (i.e.,traditional irrigation),soil TN and TP contents were more than those under other irrigation treatments ( $6 . 6 6 \% - 2 6 . 1 7 \%$ and $4 . 6 7 \% - 1 9 . 2 1 \%$ ,respectively),and the decrease in soil and plant nutrients was more significant than that in irrigation water amount.(3)The ranges of C:N,C:P,and N:Pratios in soil and plants were at 3.60-61.2,4.39-53.9,and1.01-1.24,respectively.Soil C:Nratios were relatively stable among three soil layers and diferent irrigation treatments.The N:Pratios of leaves (11.9)and roots (7.58) were less than the threshold of plant N limitation (14),indicating that plant growth was limited by N. (4) Among four irigation treatments,corn OC and TP and their ratios remained stable.However, the leaf N:P homeostasis was more sensitive to $\mathrm { W } _ { 2 }$ treatment ( $20 \%$ water- saving irrigation） than to $\mathrm { W } _ { 0 }$ treatment. Thus, $10 \%$ water- saving treatment in the Hexi irigation area might be beneficial to the retentionof soil nutrients in silage cornand maintains the stable adaptabilityof crop growth,realizing the purpose of water-saving and alleviating the current water scarcity situation.
+
+Keywords: silage maize； irrigation water; soil nutrient； stoichiometric ratio； homeostasis； Hexi

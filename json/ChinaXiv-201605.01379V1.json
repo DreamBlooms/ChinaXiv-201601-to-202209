@@ -1,0 +1,354 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A spontaneous depressive pattern in adult female rhesus macaques ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:17 September2014   \nAccepted: 2o May 2015   \nPublished: 1o June 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dongdong Qin¹,², Joshua Rizak¹, Xunxun Chu¹, Zhifei Li, Shangchuan Yang¹, Longbao Lu3, Lichuan Yang4, Qing Yang5, Bo Yang,Lei Pan7,Yong Yin7,Lin Chen², Xiaoli Feng¹ & Xintian Hu¹,3,8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Non-human primates offer unique opportunities to study the development of depression rooted in behavioral and physiological abnormalities.This study observed adult female rhesus macaques within social hierarchies and aimed to characterize the physiological and brain abnormalities accompanying depressive-like behavior.The behaviors of 31 female rhesus macaques from 14 different breeding groups were video recorded,and the footage was analyzed using the focal animal technique. There were 13 monkeys who never displayed huddling behavior (non-huddlers).The remaining 18 monkeys were divided into two groups according the mean time spent in the huddle posture. Four monkeys were designated as high huddlers, whereas the other14 monkeys were low huddlers.An inverse relationship was discovered between social rank and depression. High huddlers spent more time engaging in physical contact and in close proximity to other monkeys,as wellas less time spontaneously and reactively locomoting, than low huddlers and/or non-huddlers.Cortisol levels measured from the hair were elevated significantly in high huddlers compared with low huddlers and non-huddlers,and the measured cortisol levels were specifically higher in high huddlers than subordinate or dominant control monkeys. Regional cerebral blood flow data revealed significant and widespread decreases in high huddlers compared with non-huddlers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to the DSM-V(the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders) diagnostic criteria, major depressive disorder is characterized by five (or more) of the following symptoms: depressed mood,loss of interest, weight change,sleep disturbance, psychomotor agitation or retardation,los of energy,feelings of worthlessness,difficulty concentratingand recurrent thoughts of death. These symptoms must persist for at least two weeks and must include depressed mood and/or loss of interest. Depresson can lead to suicide1. In addition to psychological symptoms, depressd patients have a greater risk of developing cardiovascular disease² and type 2 diabetes3.The World Health Organization (WHO)currently lists depresson as the fourth major cause of disability and estimates that it willbecome the leading cause of disability and the second leading contributor to the global burden of disease by the year $2 0 2 0 ^ { 4 }$ .Epidemiological studies have indicated that depression occurs nearly twice as frequently in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory of Animal Models and Human Disease Mechanisms of the Chinese Academyof Sciences &Yunnan Province,Kunming Instituteof Zoology,ChineseAcademyof Sciences, Kunming,Yunnan,65o223,China.²State Key Laboratory of Brain and Cognitive Science,Institute of Biophysics, Chinese Academy of Sciences，Beijing, 100101,China.3Kunming Primate Research Center, Chinese Academy of Sciences,Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming,Yunnan,65o223,China.4School of Pharmaceutical Science andYunnan Key Laboratory of Pharmacology for Natural Products,Kunming Medical University, Kunming,65o5oo, China. 5DepartmentofNuclearMedicine,theSecondAfliated HospitalofKunming MedicalUniversity, Kunming,Yunnan, 650101,China.Nuclear Medical Department,the Fourth Afliated Hospital of Kunming Medical University, Kunming,Yunnan，65oo21,China.7Department of Rehabilitation Medicine,the Fourth Afliated Hospital of Kunming Medical University， Kunming, Yunnan,65oo21, China.CAS Center for Excellence in Brain Science, Chinese Academy of Sciences,32o Yue Yang Road, Shanghai, $2 0 0 0 3 1 ,$ China. Correspondence and requests for materials should be addressd toD.D.Q. (email: qindong1o8@163.com)orX.L.F.(email:virgo1g85712@163.com) or X.T.H. (email: xthu@mail.kiz.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "women than in men. This prevalence has been ascribed to several biological factors,including genetic predisposition,the hormonal changes associated with reproductive function,and hypersensitivity to hormonal changes known to precipitate depression5. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explore the neurobiological basis of depression and to identify more effective treatments,the construction of valid animal models that closely mimic the behavior and physiology of affcted humans is essential6.Various rodent models of depression have been developed because ofthe ease of use of rodents, but the rodent brain is phylogenetically distant from the human brain.In contrast, nonhuman primates, especially macaques, exhibit various similarities to humans,suggesting that a model of depression in macaques could provide an important improvement on earlier rodent studies.First, social functioning is known to be closely linked to depresson?,and select social behaviors of macaques are similar to those of humans. For example, macaques have strict social structures,a dependence on social relationships, an ability to engage in complex cognitive processes and a range of affective expresson. In addition, they exhibit a stress response similar to that of humans8.9. Second,the brain structure of macaques is similar to that of humans10.Third, the rearing environment of macaques,in contrast to that of humans, can be tightly controlled and therefore provides an easier platform for collecting quantitative data9,which makes it possible to study the environmental factors contributing to depression in macaques. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite these advantages,few macaque studies have been conducted on the etiology of depression. Paul et al.found that maternally deprived rhesus macaques displayed a wide range of behavioral abnormalities that could be reversed by chronic antidepressant treatment11.Pryce et al.constructed a primate model of depression that exhibited “learned helplessness”by depriving marmoset monkey offspring of biological parenting dailyl2.However, none of these studies reported the development of adult depression under normal developmental conditions,as they all depended on external perturbations such as maternal deprivation.Adult depression was modeled for the first time by Shively et al. in female cynomolgus monkeys.This model displayed several behavioral and physiological characteristics similar to those of human depresson13.14, and is particularly important because women are more likely to experience clinically significant depression than men5. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In humans, psychosocial factors are strongly correlated with depresive symptoms. Perceived stress, lack of personal control or social support,and low socioeconomic status exhibit the strongest associations of all possible factors15-17. Murphy and colleagues reported based on a survey that there is an inverse relationship between depresion and social status in the human population18.A plausible explanation for this finding is that people with low social status experience excessive physical and psychosocial stressors and lack social support and outlets to address the stressors, which contributes to further social stress and may lead to the development of a variety of diseases19. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similarly, macaque societies have an important mechanism of social organization that mimics the experiences of human beings with low socioeconomic status.In macaques,the dominant position is attained through acts of aggression and intimidation, such as open-mouth threats. In this scenario, low-ranking individuals are subject to more attacks by other animals, behave more vigilantly, lack alternative strategies to hierarchy competition,and spend more time alone and less time engaging in affiliative behaviors than their high-ranking counterparts19. These traits are asociated with higher physiological and psychological stress indices,and the animals become isolated20. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hypercortisolemia is often reported in severe forms of depresson,and considerable data have supported that it represents a state of depression21.There are also reports of significantly decreased regional cerebral blood flow (rCBF） in the prefrontal cortex22-26 and temporal regions27 of depressed patients, although no single physiological abnormality has been consistently identified to correlate these findings. Despite the lack of physiological indicators,both high cortisol levels and decreased rCBF are correlates of depression. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Findings from previous studies suggest that macaques of low social rank are good candidates for developing depression. The purpose of the present study was to find spontaneous depressive-like behavior in adult female rhesus macaques (Macaca mulata),to clarify the relationship between social rank and depression,and to characterize the physiological (cortisol) and brain changes (rCBF) associated with depressive-like behavior. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subjects. In order to ensure the reliability of obtained data, the monkeys were selected according to the following three entry criteria.First,they must be females and are reproductively intact because of our focus on female depression. Second,they should come from breeding colonies,and have lived in their respective social groups for at least l year prior to the initial observation to ensure the stability of social hierarchy. Third, none of them were pregnant or had given birth in the last year to avoid the pre-partum or post-partum depresion. Therefore, only 31 females met these requirements among the 2,400 monkeys living in the Kunming Primate Research Center of the Chinese Academy of Sciences and were included in the study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These 31 monkeys ranged from 6 to 19 years old $\\langle 9 . 8 4 \\pm 3 . 4 3$ years).They came from 14 different breeding colonies,each containing 2-4 female monkeys and 1 alpha male. Each colony lived in a connected indoor $( 2 . 6 1 \\times 2 . 4 6 \\times 2 . 5 8 \\mathrm { \\bar { m } } )$ -outdoor $( 2 . 6 7 \\times 2 . 6 6 \\times 2 . 6 7 \\mathrm { m } )$ cage. Monkeys were provided with both physical and feeding enrichment. Two trapezes and two dog toys (such as hollow balls) were placed in each outdoor cage.In addition, feding enhancements,such as a foraging apparatus, were presented to enrich the animals' environments.All animals were given commercial monkey biscuits twice a day with tap water ad libitum and were fed fruits and vegetables once daily. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The care and treatment of the monkeys was in strict accordance with the guidelines for the National Care and Use of Animals approved by the National Animal Research Authority (P.R. China) and the Institutional Animal Care and Use Commitee (IACUC) of the Kunming Institute of Zoology (approval ID SYDW20111230001-1).All possible efforts were made to minimize the monkeys' suffering.For example, hair samples were taken from the back of the monkey's neck using an electric-razor (no anesthetics were used).Routine veterinary care was provided by professional keepers and veterinarians.No animals were sacrificed as a result of this study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Behavioral data collection and analysis.Behavioral data for all monkeys were collected at the same time of the year (this period was not the breeding period).The focal animal technique28 was used to observe one monkey at a time in the cage,and a digital camera fixed on a tripod was set up in front of the colony to record the animal.Before video recording,the monkeys had seven days to become familiar with the observers and cameras.To avoid disturbing the animals during recording,the observers remained as far as possible (at least five meters) from the monkeys' cage.According to the DSM-V diagnostic criteria for depression,the depressive symptoms must persist for at least two weeks.Therefore, 14 1-hour recordings were collected for each monkey over a period of no lessthan two weeks,with half collected in the morning (9:00-11:00) and the other half in the afternoon (14:00-16:00). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conflict behaviors,active behaviors and afiliative behaviors were recorded throughout the experiment using the focal animal technique28.The frequency of conflict behavior was recordedl4.The duration of active behaviors was quantified as seconds per hour and included spontaneous locomotion (defined as any voluntary movement within the cage, including walking, running, jumping and climbing)29 and reactive locomotion (defined as locomotion caused by environmental stimuli).The duration of affliative behaviors, which included siting together(within another monkey's arms'reach or in contact) and alone (outside of another monkey's arms' reach),was also quantified as seconds per hourl4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Social rank determination.Based on the outcomes of her agonistic interactions with other group members,each monkey was assgned a rank using the David's score (DS) method that had been described in detail in previous studies30.Briefly, DS for each member, $i ,$ of a group is calculated with the formula: $\\begin{array} { r } { \\mathrm { D S } = \\mathbf { w } + \\mathbf { w } _ { 2 } - \\mathbf { l } - \\mathbf { l } _ { 2 } . } \\end{array}$ ， where w represents the sum of i's $P _ { i j }$ values $( P _ { i j }$ represents the proportion of wins by individual $i$ in her interactions with another individual $j ,$ ）， $\\mathbf { w } _ { 2 }$ represents the summed w values (weighted by the appropriate $P _ { i j }$ values)of those individuals with which $i$ interacted,l represents the sum of i’s $P _ { j i }$ values ( $\\cdot P _ { j i }$ represents the proportion of wins by individual $j$ in her interactions with another individual $i )$ and $\\mathbf { l } _ { 2 }$ represents the summed l values (weighted by the appropriate $P _ { j i }$ values）of those individuals with which i interacted30. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To standardize DS scores $( \\mathrm { D } \\mathsf { S } _ { \\mathrm { S } } )$ across groups, the smallest DS value (usually the largest negative value) in a group was added to its absolute value to create a zero value,and other DS values in the same group were then added to that same value.The new DS values were then divided by the largest new DS value.For each group,this process created $\\mathrm { D S _ { s } }$ values that ranged from O to 1,which indicated the lowest rank $\\mathrm { \\Delta D S _ { S } } = 0 \\mathrm { \\Omega }$ ）and the highest rank $( \\mathrm { D } \\mathsf { S } _ { \\mathrm { S } } = 1$ ） in each respective group. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the stability of social hierarchy, the $\\mathrm { ~ H ~ }$ value was calculated with a previously described equation31: $\\begin{array} { r } { \\mathrm { H } { = } \\left[ 1 2 / ( \\mathrm { n } ^ { 3 } { - } \\mathrm { n } ) \\right] \\sum _ { a = 1 } ^ { n } [ d a - ( n - 1 ) / 2 ] ^ { 2 } } \\end{array}$ where $\\scriptstyle d a = \\sum _ { a = 1 } ^ { n } p a$ , Pa refers to the proportion of encounters won by a monkey against another in a pair-wise encounter, and $n$ refers to the number of individuals in a group. Calculated $\\mathrm { ~ H ~ }$ values ranged from O to 1,indicating the social hierarchy on a continuum from the least stringent $\\mathrm { ( H = 0 ) }$ ）to the most stringent $\\mathrm { ( H = 1 ) } ^ { \\cdot }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Depressive-like behavior. Huddling up was considered representative of behaviors observed in human major depressive disorder because it has been considered the core posture most reflective of depressive-like behavior in macaques14,32. It is defined as a fetal-like,self-enclosed posture with the head at or below the shoulders during the waking state (i.e.,when the monkey had open eyes in the present study),which is accompanied by a relative lack in responsiveness to environmental stimuli that other monkeys attend to. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hair sample collection and measurement of cortisol level.Hair samples from all monkeys were collected between 13:30hours and 15:00 hours.Before the experiment commenced,the hair on the back of each animal’s neck was shaved with an electric razor without the use of anesthetic,with particular attention paid by technicians notto break or damage the skin.After completion of behavioral data collection, newly grown hair was collected as described above. The hair samples were placed into a small pouch of aluminum foil for protection and stored as previously described3,34. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The hair cortisol extraction procedure has been described in detail in previous studies3,35. Briefly, hair samples were washed twice in $5 \\mathrm { m L }$ of isopropanol (3 minutes each） to remove surface contaminants, dried at $3 5 ^ { \\circ } \\mathrm { C }$ for 8 hours,and then pulverized using a Retsch ball mill (Retsch M400, Germany) at $2 6 \\mathrm { H z }$ for 2.5 minutes.Powdered hair $( 4 0 0 \\mathrm { m g } )$ was weighed and incubated in $8 \\mathrm { m L }$ of methanol at room temperature for 24hours with slow rotation $( 2 3 0 \\mathrm { r p m } )$ to extract the cortisol. The samples were then centrifuged at $8 { , } 0 0 0 \\times g$ for 5 minutes,and $4 \\mathrm { m L }$ of the supernatant was pipetted into a centrifuge tube and dried under a stream of nitrogen gas. The precipitated extract was reconstituted with $0 . 5 \\mathrm { m L }$ of phosphate-buffered solution (pH:7.32)and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ until assayed. The cortisol concentration was quantified by radioimmunoassays (RIAs) at the Department of Nuclear Medicine of the Second Affliated Hospital of Kunming Medical University using a commercially available kit (Cortisol RIA DSL2000,U.S.A.).The cortisol extraction and RIA analysis were performed in a double-blind manner. Each hair sample was tested three times and the mean of the three hair cortisol values was used to reduce measurement error. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SPECT scanning. Single photon emission computed tomography (SPECT） was used to measure regional cerebral blood flow (rCBF). SPECT was performed with a dual-head rotating gamma camera (TOSHIBA GCA-7200A, Japan) equipped with a low-energy, high-resolution colimator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In preparation for the tomography scan,monkeys were given nothing to eat or drink for 4-6hours prior to the scan. They were then given potassium perchlorate $( \\mathrm { K C l O _ { 4 } } , 1 \\bar { 0 } \\mathrm { m g / k g } )$ to seal off the choroid plexuses.After 30 minutes,atropine $( 0 . 0 \\bar { 5 } \\mathrm { m g / k g ) }$ was injected intramuscularly to prevent the vagal reflex and vomiting. Within 5 minutes,the monkeys were then injected intramuscularly with ketamine $\\mathrm { ( 5 m g / }$ kg） and sodium pentobarbital $( 2 0 \\mathrm { m g / k g ) }$ . Anesthesia was maintained in accordance with veterinary recommendations,using the lowest possible concentration of sodium pentobarbital to ensure that the macaques were lightly anesthetized.The depth of anesthesia was assessd using physiological parameters (e.g.,heart rate and blood pressure,in addition to clinical checks before the scan for muscle relaxation). Anesthetized monkeys were then transferred to a quiet dimly lit room and injected intravenously with technetium- $9 9 \\mathrm { m }$ ethyl cysteinate dimer (99mTc-ECD, $2 . 5 \\mathrm { m C i / k g } )$ . SPECT scanning was conducted under a double-blind design,and the order of the scans was randomized for each group. The total scanning time for each monkey was 25 minutes. Monkeys were maintained with intermittent positive pressure ventilation to ensure a constant respiration rate during the scan,and the heart rate and blood pressure were monitored throughout the scan.Protocols for animal care,anesthesia,and SPECT were performed under the authority of personal and project licenses granted by the National Animal Research Authority (P.R.China). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Transaxial, coronal, and sagittal slice images were reconstructed by filtered backprojection with a Butterworth filter for an optimum frequency cutoff at $0 . 2 0 \\mathrm { H z } ^ { 3 6 }$ . In total, 20-22 image slices were reconstructed (thickness of $2 . 2 \\mathrm { m m } ,$ ）for each axis.Regions of interest (ROIs）within the frontal, temporal, parietal,and ocipital lobes and the cerebellm were drawn for each slice with reference to the Matsui and Hirano CT brain atlas³7 by two nuclear medicine physicians. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data analysis. Data analysis was conducted using the SPSS software package (SPSS Inc., Chicago, IL, U.S.A.).The normality of the data was determined using the Kolmogorov-Smirnov test. All the data (Kolmogorov-Smirnov tests: all $P$ -values $> 0 . 0 5$ ） except huddling behavior (Kolmogorov-Smirnov test: $P { < } 0 . 0 \\bar { 0 } \\bar { ) }$ were normally distributed. The Spearman correlation was used for analyzing the relationship between social rank and huddle behavior. Behavioral and physiological characteristics of depression were analyzed by ANOVA. The alpha level was set at $P = 0 . 0 5$ , and all $P$ -values were generated using two-sided tests. Tukey's test was used for post hoc comparisons.All data are presented as the mean $\\pm$ SEM (standard error of the mean). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relationship between social rank and depression. Each monkey was assigned a rank quantized as a given $\\mathrm { D S _ { s } }$ value. The monkeys with a $\\mathrm { D S _ { s } }$ value less than O.50 were considered subordinate $( \\mathrm { n } = 1 5 ^ { \\cdot }$ ), and those with a $\\mathrm { D S _ { s } }$ value equal to or greater than O.5O were classified as dominant $( \\mathrm { n } = 1 6 )$ ). The stability of social hierarchy was measured using the $\\mathrm { ~ H ~ }$ values,which were all above O.90 and supported highly strict hierarchies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Over the course of the experiment, $8 0 \\%$ of the subordinate monkeys $( { \\mathfrak { n } } = 1 2$ ）displayed huddling behavior, whereas only $3 7 . 5 \\%$ $( \\boldsymbol { \\mathrm { n } } = \\boldsymbol { 6 } )$ of the dominant monkeys displayed huddling behavior. Thus, social rank was inversely associated with depression (correlation between $\\mathrm { D S _ { s } }$ values and time spent in the huddle posture: $r \\dot { h } o = - 0 . 5 0 4$ 0 $P { = } 0 . 0 0 4$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Behavioral characteristics. There were 13 monkeys who never displayed huddling behavior (non-huddlers; ${ \\mathfrak { n } } = 1 3$ ). The remaining 18 monkeys were divided into two groups based on mean time spent in the huddle posture.Four monkeys spent more time than the mean value in the huddle posture C $\\mathrm { n e a n } = 1 5 9 . 3 2$ seconds perhour)and were designated as high huddlers $\\left( \\mathrm { n } = 4 \\right)$ ),whereas the other monkeys $\\mathrm { \\tilde { \\it { n } } = 1 4 } \\mathrm { \\tilde { \\it { n } } = 1 4 \\mathrm { \\tilde { \\it { n } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { 4 } } = 1 \\mathrm { \\tilde { \\it { \\it { \\Omega } } \\it { \\cdot } } } } } } } } } } } }$ )were low huddlers (Fig.1).Three of the high huddlers were ranked at the bottom with $\\mathrm { D S _ { S } }$ values equal to zero,and the other high huddler was ranked in the middle with a $\\mathrm { D S _ { s } }$ value equal to 0.50. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Behavioral characteristics were compared among high huddlers,low huddlers and non-huddlers. High huddlers spent more time in physical contact and close proximity to other monkeys ( $\\phantom { - } 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 4 . 5 4 \\$ 0 $P { = } 0 . 0 2$ ; post hoc Tukey's tests: both $P < 0 . 0 5$ ),less time spontaneously locomoting ( $\\phantom { - } 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 8 . 3 1$ ， $P { = } 0 . 0 0 1$ ; post hoc Tukey's tests: high huddlers versus low huddlers: $P { = } 0 . 3 2$ ,high huddlers versus non-huddlers: $P { = } 0 . 0 0 4$ ),and less time reactively locomoting 中 $\\mathrm { . } 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 3 . 1 7$ 0 $P { = } 0 . 5 7$ ; post hoc Tukey's tests: high huddlers versus low huddlers: $P { = } 0 . 1 8$ ,high huddlers versus non-huddlers: $P = 0 . 0 5$ )thanlow huddlers and non-huddlers (Table1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/20d2d91f9ccc1f7eaa2ae6407f135ba9522cdf32d9f172572a1b602e9c413f93.jpg",
+        "img_caption": [
+            "Figure 1.Huddle behaviors.On the X-axis, monkey individuals are divided into three groups: nonhuddlers $( \\mathbf { n } = 1 3 )$ ),lowhuddlers $( \\mathrm { n } = 1 4 )$ ）and high huddlers $( \\boldsymbol { \\mathrm { n } } = 4 )$ . The Y-axis displays the mean time spent in a huddle posture ( $\\mathrm { \\Delta } _ { \\cdot } { \\mathrm { s / h } }$ ，seconds per hour).Thirteen monkeys never displayed huddling behavior and were designated as non-huddlers.The time spent in the huddle posture was used to divide the remaining 18 monkeys into two groups based on the mean value $\\mathrm { ( m e a n = 1 } 5 9 . 3 2 ,$ .Four monkeys spent more time in the huddle posture than the mean value and were designated as high huddlers,whereas the other fourteen monkeys were designated low huddlers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5ec102b2a83924fdc46d399ffca89a1be6a66310212db548229a3337d8f7507.jpg",
+        "table_caption": [
+            "Table1.Basic data and behavioral characteristics of high huddlers vs.low huddlers and non-huddlers. Dataare presented as the mean $\\pm \\mathsf { s E M }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>High huddlers (n=4)</td><td>Low huddlers (n=14)</td><td>Non-huddlers (n=13)</td><td>F (d.f.)</td><td>P≤</td></tr><tr><td>Age (years)</td><td>12.00 ±2.89</td><td>9.71±0.67</td><td>9.31±0.98</td><td>0.95 (2,28)</td><td>0.40</td></tr><tr><td>Body weight (kg)</td><td>5.91±053</td><td>6.09±0.26</td><td>6.18±0.23</td><td>0.13 (2,28)</td><td>0.88</td></tr><tr><td>Body mass index (kg/m²)</td><td>21.36± 1.17</td><td>19.53± 0.51</td><td>21.23±0.60</td><td>2.69 (2,28)</td><td>0.09</td></tr><tr><td>Time spontaneously locomoting (s/h)</td><td>46.34± 9.53</td><td>143.85± 23.27</td><td>283.22± 42.36</td><td>8.31 (2,28)</td><td>0.001</td></tr><tr><td>Time reactively locomoting (s/h)</td><td>3.23±1.09</td><td>46.71±12.90</td><td>63.98 ±11.26</td><td>3.17 (2,28)</td><td>0.06</td></tr><tr><td>Time Alone (s/h)</td><td>1988.57 ± 436.75</td><td>1782.01± 169.90</td><td>1898.93± 107.98</td><td>0.26 (2,28)</td><td>0.78</td></tr><tr><td>Time close and in phtsical contact (s/h)</td><td>1474.39± 606.90</td><td>651.04± 111.95</td><td>588.53±87.69</td><td>4.54 (2,28)</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Basic data. The 31 monkeys were measured with regard to age, body weight (BW) and body mass index (BMI).A statistical analysis indicated a lack of significant differences in age $( 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 0 . 9 5$ ， $P { = } 0 . 4 0$ ; post hoc Tukey's tests: both $P > 0 . 0 5$ ，BW（ $\\cdot 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 0 . 1 3 , P = 0 . 8 8$ ; posthoc Tukey's tests:both $P { > } 0 . 0 5 { \\ ' }$ andBMI( $\\phantom { - } 1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 2 . 6 9$ ， ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/65be631e565501cef9e8890211a2ee0709e75454679a0a78094b8ed015599991.jpg",
+        "img_caption": [
+            "Figure2.Diffrences inhair cortisol levels.(A)On the X-axis,individuals are divided into high huddlers （ $( \\mathrm { n } = 4 )$ ,lowhuddlers $( \\mathrm { n } = 1 4 )$ ）and non-huddlers ${ \\mathrm { ( n = 1 } } 3 { \\mathrm { ) } }$ ).The Y-axis refers to hair cortisol levels $( | \\boldsymbol { \\mu } \\boldsymbol { \\ g } / \\mathrm { d l } )$ ： (B) On the $\\mathrm { \\Delta X }$ -axis,individualsaredividedinto highhuddlers $\\mathrm { ( n = 4 ) }$ ）and subordinate control $( \\mathbf { n } = 1 2 ^ { \\cdot }$ and dominant control monkeys $( \\mathbf { n } = 1 5 ^ { \\cdot }$ ).The Y-axis refers to hair cortisol levels $( | \\boldsymbol { \\mu } \\boldsymbol { \\ g } / \\mathrm { d l } )$ ： $^ { * } P < 0 . 0 5$ .Dataare presented as the mean $\\pm$ SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9897b759eae6855c1e59edf24884e68a0b393a5df928b3474910ecd46cd52930.jpg",
+        "table_caption": [
+            "Table 2．Regional cerebral blood flow of high huddlers vs.non-huddlers.Data are presented as the mean $\\pm$ SEM. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>High huddlers (n=4)</td><td>Non-huddlers (n=7)</td><td>F (d.f.)</td><td>P≤</td></tr><tr><td>Cerebral hemisphere (ROI counts)</td><td>210.51± 13.24</td><td>282.13 ± 19.73</td><td>6.37 (1,9)</td><td>0.03</td></tr><tr><td>Cerebellum (ROI counts)</td><td>215.69± 11.22</td><td>290.75 ±18.19</td><td>8.38 (1,9)</td><td>0.02</td></tr><tr><td>Occipital lobe (ROI counts)</td><td>231.78 ± 13.07</td><td>336.72± 20.79</td><td>12.48 (1,9)</td><td>0.01</td></tr><tr><td>Temporal lobe (ROI counts)</td><td>195.90 ± 12.53</td><td>266.93±20.79</td><td>5.77 (1,9)</td><td>0.04</td></tr><tr><td>Parietal lobe (ROI counts)</td><td>219.45±12.12</td><td>271.26± 20.32</td><td>3.22 (1,9)</td><td>0.11</td></tr><tr><td>Frontal lobe (ROI counts)</td><td>189.74± 20.11</td><td>244.97± 20.85</td><td>3.02 (1,9)</td><td>0.12</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$P = 0 . 0 9$ ; post hoc Tukey's tests: both $P > 0 . 0 5$ )between high huddlers and low huddlers or non-huddlers (Table 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hair cortisol levels.The levels of cortisol measured from the hair were elevated significantly in high huddlers compared to low huddlers or non-huddlers (Fig. 2A: $1 \\times 3$ groups ANOVA $F ( 2 , 2 8 ) = 8 . 0 6$ $P { = } 0 . 0 0 2$ ；post hoc Tukey's tests: both $P { < } 0 . 0 5 \\ '$ ).There was no significant difference in hair cortisol between subordinates and dominants ( $\\mathrm { . } 1 \\times 2$ groups ANOVA $F ( 1 , 2 9 ) = 0 . 0 3$ 0 $ { \\boldsymbol { P } } = 0 . 8 8 \\$ ),and no significant difference was observed between subordinate and dominant control monkeys_ ( $\\mathbf { \\delta } _ { 1 \\times 3 }$ groups ANOVA $F ( 2 , 2 8 ) = 1 0 . 0 1 \\$ ， $P { = } 0 . 0 0 1$ ; post hoc Tukey's tests: $P { = } 0 . 2 7 \\cdot$ ）when the four high-huddlers were excluded. Neverthelessthe measured cortisol levels were specifically higher in high huddlers than subordinate or dominant control monkeys (Fig. 2B: $1 \\times 3$ groups ANOVA $F ( \\bar { 2 } , 2 8 ) = 1 \\bar { 0 } . 0 1$ ， $P { = } 0 . 0 0 1$ ; post hoc Tukey's tests: both $P < 0 . 0 5$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regional cerebral blood flow (rCBF).The monkeys' rCBF was measured with SPECT scans at the Nuclear Medical Department of the Fourth Afiliated Hospital of Kunming Medical University, and only a few monkeys were allowed to perform the SPECT scans because oflimited medical equipment resource. Therefore,11 monkeys were selected to measure the rCBF, including 4 depressed individuals and 7 normal controls selected randomly from the non-depressed group. The SPECT scans revealed significant differences in rCBF between high huddlers and non-huddlers (Table 2).A decrease in rCBF was found in the cerebral hemispheres of high huddlers compared with non-huddlers $( F ( 1 , 9 ) = 6 . 3 7 ;$ $P = 0 . 0 3 )$ ！ Specifically, the $\\mathrm { r C B F }$ in high huddlers was significantly decreased in the cerebellum $( F ( 1 , 9 ) = 8 . 3 8$ $P { = } 0 . 0 2 { \\mathrm { \\Omega } }$ ),occipital lobe $( F ( 1 , 9 ) = 1 2 . 4 8$ 0 $P { = } 0 . 0 1$ ),and temporal lobe $( F ( 1 , 9 ) = 5 . 7 7$ ， $P = 0 . 0 4 \\$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we report a spontaneous depressve pattern in adult female rhesus macaques that shares several behavioral and physiological characteristics with human depresson,including low levels of activity (e.g.,spontaneous and reactive locomotion),elevated levels of cortisol,and decreased rCBF in the major parts of the brain. Our results are similar to those of Shively's study of cynomolgus macaques14: high huddlers spent more time in physical contact with and close proximity to other monkeys than low huddlers or non-huddlers.In contrast to Shively,we observed the inverse of the relationship between social rank and depresive-like behavior under normal conditions,which was also reported in the human population18.The levels of cortisol measured from the hair were elevated significantly in high huddlers compared to low huddlers or non-huddlers,and the measured cortisol were higher in high huddlers than subordinate or dominant control monkeys of similar social ranking.In addition,brain function was altered in high huddlers,as characterized by low blood perfusion in major parts of the brain. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similar to Shively's studyl4,the high huddlers spent more time in physical contact with and close proximity to other monkeys than low huddlers or non-huddlers.This may be somewhat diferent from human depression because the depressed patients are always socially withdrawn. However,this is advantageous to the depressed monkeys observed in this study. First,depressed monkeys were found to be relatively inactive and they can get warm by keeping close to other bodies14. Second,depressed monkeys were less responsive to environmental stimuli,and the vigilance of another monkey close by may make them respond to stimuli that they overlooked or disregarded14. Thus, physical contact may be purposeful behavior that the depressed monkeys adopted to ensure survival. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Social defeat can be considered a form of chronic stress in subordinate animals and can provoke behavioral and neuroendocrine changes correlated with a negative emotional state characteristic of human depressive symptoms38. It is interesting that there was an inverse relationship between social rank and depression in the present study,as it has been reported in humans that the prevalence of depression is significantly and persistently higher in populations with “low”socioeconomic status than at other levels of socioeconomic status18. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous studies utilized plasma,saliva or urine to measure cortisol levels.These methods were useful for assaying basal cortisol levels,but the cortisol levels only reflected short-term stress occurring over hours to days and could not assess chronic stress levels occurring over a period of weeks to months without repeated sampling of the animals39,40.In contrast, cortisol levels measured from hair can reflect chronic stress,as shown in previous rhesus macaque studies31,3,35,41. In this study, cortisol levels were measured from hair grown during the behavioral sampling period and were therefore likely to represent the mean cortisol production associated with the chronic stress that the animals experienced.To our knowledge,this is the first study using measurements of cortisol from hair samples to evaluate the function of the HPAaxis in depressed animals.The hair cortisol levels were elevated in high huddlers when compared to low huddlers or non-huddlers.There was no significant difference in hair cortisol between subordinates and dominants,similar to our previous findings that cortisollevels were not related to social rank in groups with highly strict hierarchies31.When the four high-huddlers were excluded,a significant difference was also not observed between subordinate and dominant control monkeys.Nevertheless,the measured cortisol levels were specifically higher in high huddlers than subordinate or dominant control monkeys of the same social rank. This suggested hypercortisolism was depression specific rather than influenced by the social rank.However,whether hypercortisolism is a cause or effect of depresson is a matter of dispute. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SPECT has revealed hypoperfusion in the prefrontal cortex2-26 and temporal lobes27 in patients with depresson.This hypoperfusion is positively correlated with depressive symptoms42. However, to our knowledge,there have been no reports determining cerebral blood flow in an animal model of depression. Brain SPECT with perfusion agents was performed in this study on anesthetized monkeys. Monkeys designated as high huddlers were found to display hypoperfusion in the whole brain. Some brain areas of high huddlers,including the cerebelum, occipital lobes and temporal areas,were shown to have a significant decrease in the rCBF compared to the same regions in non-huddlers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The depressive-like symptoms identified in female rhesus monkeys in this study provide a model to help identify environmental factors causing depression and to track physiological and brain changes associated with the development of depression. Nonetheless,the results presented here must be considered with caution because of the relatively small sample size.Further studies are needed to confirm the findings and clarify the extent to which depressive-like symptoms exhibited by female monkeys are reflective of human depression.Whether the abnormalities detailed above reflect the primary pathophysiological changes that produce depression or are secondary responses to alterations of behavior, or adaptations to chronic stress,needs to be further elucidated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Jeon,H.J.Depression and suicide.J Korean Med Assoc 54,370-375 (2011).   \n2.Hare,D.LTukhsati,,Jansson&Jarsma,TDepresonndardiovsculardiseaseinicalrevieEurHert 1365-1372 (2014).   \n3.Knol,M.Jetalepreiossfctorfortosetofteabeteselis.Ametaanasis.beogia9845 (2006).   \n4.Mathers,C.D.&Loncar,D.Projectionsofglobalmortalityandburdenofdiseasefrom02to30.PLoSmedicine3,e442e42 (2006). 5.Garde,K.Depression-gender differences. Ugeskr Laeger 169,2422-2425 (2007).   \n6.Kalin,N.H.Studyingnon-human primates:agatewaytounderstandinganxietydisorders.Psychopharmacol Bull38Suppl1, 8-13 (2004).   \n7.Hirschfeld,R.etal.Social functioningindepresion:Areview.Journalof Clinical Psychiatry64,268-275 (000).   \n8.Barr,C.S.etal.Theutilityofthenon-human primate;modelforstudyinggenebyenvironment interactionsin behavioral research. Genes Brain Behav 2,336-340 (2003).   \n9.Kalin,N.H.& Shelton,S.E.Nonumanprimate models tostudyanxiety,emotionregulation,and psychopathology.Ann NY Acad Sci 1008,189-200 (2003).   \n10.Neubert,F-X,MarsRogierB.,omas,AdamG.alet,J.&Rushworth,MathewFS.ComparisonofHumanVentralFrontal Cortex Areas for Cognitive Controland Language with Areas in Monkey Frontal Cortex.Neuron 81,700-713 (2014).   \n11.Paul,I.A.English,JA.&Halaris,A.Suroseandquinineintakebymaternall-eprivedandcontrolhesus monkey.eav Brain Res 112,127-134 (2000).   \n12.Pryce,C.R.Detling,A.C.，Spengler,M.,chnell，C.R.&Feldon,J.Deprivationof parentingdisruptsdevelopentof homeostatic and reward systems in marmoset monkey ofspring.Biol Psychiatry 56,72-79 (2004).   \n13.ShivelyC.A.,aber-Lid,K.&AntonR.Fehaviandysioloofocaltressndpressioniealegus monkeys. Biol Psychiatry 41,871-882 (1997).   \n14.ShivelyC.A.etal.Socialstress-aocateddepressnindult femalecyomolgus monkeys (Macacafasicularis).iolsychol 69,67-84 (2005).   \n15.Simmons,L.A.rn,Baig,R,ves,JR.&rigt,D.eprionanpoertmongrralomn:elai of social causation or social selection?J.Rural Health 24,292-298 (2008).   \n16.Fleischer,N.Lernald,L.C.&Hubbard,A.E.epresivesymptomsinow-incomewomeninuralexico.Eidemog, 678-685 (2007).   \n17.Adler,N.etal.Social statusadhealth:acomparisonofritishcivilservantsi Whitehal-IwithEuropean-andAfricanAmericans in CARDIA. Soc Sci Med 66,1034-1045 (2008).   \n18.Murphy,JM.etal.Depressionandanxietyinelatio tosocial status.Aprospectiveepidemiologicstudy.Arch GenPsyatry 48,223-229 (1991).   \n19.Sapolsky,R.M.Social tatusand health inhumans andotheranimals.Annual Reviewof Anthropology 33,393-418 (2004).   \n20.Sapolsky,R.M.The influence of social hierarchy on primate health.Science 308,648-652 (2005).   \n21.Gillespe,C.F& Nemeroff C.B.Hypercortisolemiaand depression.Psychosom Med 67Suppl1,S26-28 (005).   \n22.Drevets,W.Neuroimaging studies of mood disorders. Biological psychiatry 48,813-829 (2000).   \n23.Holthoff,V.etal.Changesinbrainmetabolismasociated withremissioninunipolarmajordepression.ActaPsychiatrica Scandinavica 110,184-194 (2004).   \n24.Kennedy,S.etal. Changes inregional brain glucose metabolismmeasured with positronemissiontomographyafterparoxetine treatment of major depresson.American Journal of Psychiatry 158,899-905 (2001).   \n25.KimbrellTetalRegionalcrebral gucoseutiationinatientswithngeofveritisofuipolarepresioniological psychiatry 51,237-252 (2002).   \n26.Saxena,S.etal.iferentialcerebralmetabolicchanges withparoxetinetreamentofbsesivecompusivedisordervs major depression.Archives of General Psychiatry 59,250-261 (2002).   \n27.Yazici,K.etal.Assssmentof changes inregional cerebral bloodflow inpatients with majordepressonusing the $9 9 \\mathrm { m }$ TcHMPAO single photon emision tomography method.European Journalof Nuclear Medicineand Molecular Imaging19,038- 1043 (1992).   \n28.Altmann,J. Observational study of behavior: sampling methods. Behaviour 49,227-267 (1974).   \n29.Rogers,J,Shelton,S.E.,helledy,W,Garcia,R.&Kalin,N.H.Geneticifuencesonbehavioral inhibitionandanxietyin juvenile rhesus macaques.Genes Brain Behav 7,463-469 (2008).   \n30.Gammel,.Pees,H,Jings,D.JCrlinC..&en,TJvid'sore:aoreaproiatedoaeig method than Clutton-Brock et al.'s index.Animal Behaviour 66,601-605 (2003).   \n31. Qin,D.D.etal.Socialrank andcortisolamong female rhesus macaques (Macaca mulatta).Zol.Res.34,E42-49 (2013).   \n32.Harlow,H.F&Suomi,S.J.Productionofdepressivebehaviors inyoung monkeys.JAutismDevDisord1,246-255 (971).   \n33.Davenport,M.DTefenbacher,S.,Lutz,C.K,Nvak,M.A.&Meyer,J..Analysisofendogenouscortisolconcentration the hair of rhesus macaques. Gen Comp Endocrinol 147,255-261 (2006).   \n34.Wennig,R.Potentialproblemswiththeinterpretationofhairanalysisresults.Forensicsience international7,5-(000).   \n35.Feng,X.etal.Maternalseparationproduceslstinghanges incortisolandbehaviorinhesus monkeys.ProcNatAcadci USA 108,14312-14317 (2011).   \n36.Herman, G.T. Image Reconstruction From Projections.Real-Time Imaging 1,3-18 (1995).   \n37.Rizzo,G.etal.Anelasticcomputerizedbrainatlasfortheanalysisofclinical PET/SPETdata.European Journalof Nuclear Medicine and Molecular Imaging 22,1313-1318 (1995).   \n38.Arregi,A.Azpiroz,AFano,E.&Garmendia,L.Aggressivebehavior:Implicationsofdominanceandsubordinatioforthe study of mental disorders.Aggression and Violent Behavior11,394-413 (2006).   \n39.Keay,J.Mngh,JGunt,M.C.&Kaur,TFecalglucocorticoidsadteirmetabolitesasinicatosoftressinariou mammalian species:a literature review.Journal of Zoo and Wildlife Medicine 37,234-244 (2006).   \n40.Owen,M.A,Czekala,.,wisgod,R.einan,K.&ndbrgD.G.easoalndduraldamicsfglucoc and behavior in giant pandas.Ursus 16,208-221 (2005).   \n41.Qin,D.etal.Cortisolresponsetochronicstres inadultmacaques:oderationbypolymorisminthesrotointrasporter gene.Behav Brain Res 278,280-285 (2015).   \n42.GalynkerI.etal.Hypofrontalitydegativesmptomsinajordepresivedsorder.JouralfuclearMedicie361 (1998). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank the Department of Nuclear Medicine of the Second Affliated Hospital of Kunming Medical University and the Nuclear Medical Department of the Fourth Afliated Hospital of Kunming Medical University for their technical assistance. Funding: This research was supported by the National Program on Key Basic Research Project (973 Programs 2015CB755605,2012CB825500, 2012CBA01304),the Strategic Priority Research Program of CAS (XDB0202000),Selected Frontier Scientific Significant Breakthrough Project of CAS,the Key Program of the Chinese Academy of Sciences (KZCC-EW-103-2),the Training Program of the Major Research Plan of the National Natural Science Foundation of China (91332120),the National Natural Science Foundation of China(81471312, 81460352,31271167,81271495),The Yunnan Provincial Project to Atract One-hundred Exceptional ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Talents From Overseas,the Natural Science Foundation of Yunnan Province of China (201oZC218),and the Applied Basic Research Programs of Science and Technology Commisson Foundation of Yunnan Province (2014FA047). The funders had no role in study design, data collection and analysis,decision to publish,or preparation of the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "D.D.Q.,L.C., X.L.F. and X.T.H. designed this study. D.D.Q.,X.X.C., Z.F.L.and X.L.F. acquired behavioral data and conducted the behavioral analysis.D.D.Q.,X.L.F.,S.C.Y.,L.C.Y.and Q.Y.conducted the cortisol extraction and radioimmunoassay. D.D.Q.,X.L.F.,L.P.,Y.Y.and B.Y. performed single photon emissioncomputed tomography (SPECT) scanning. L.B.L. provided the animals. D.D.Q.analyzed the data and wrote the manuscript. J.R.edited the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional Information Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Qin,D.et al.A spontaneous depressive pattern inadult female rhesus macaques.Sci. Rep.5,11267; doi: 10.1038/srep11267 (2015). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Atribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 8
+    }
+]

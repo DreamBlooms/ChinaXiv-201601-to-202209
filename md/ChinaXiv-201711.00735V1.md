@@ -1,0 +1,193 @@
+# 饲粮添加α-酮戊二酸对生长猪氮及钙、磷代谢的影响
+
+陈家顺1²吴飞1\*段叶辉」李建军」蒋　谦」李 欢² 黄 牛²田军权」印遇龙1,² 姚康(1.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，湖南省畜禽健康养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.湖南农业大学动物科学
+
+技术学院，长沙 410128)
+
+摘要：本试验旨在研究低蛋白质饲粮添加α－酮戊二酸(α-ketoglutarate，AKG)对生长猪氮以及钙、磷代谢的影响。试验选用初始体重为（ $\cdot 3 4 . 9 8 { \pm } 2 . 1 8$ ）kg的健康三元杂交（杜 $\mathbf { \nabla } _ { \times }$ 长 $\times$ 大）猪18头，按体重相近、性别比例相同原则随机分为3组，每组6个重复，每个重复1头。各组AKG的添加水平分别为0（对照组）、$1 \%$ 和 $2 \%$ 。先进行为期14d的饲养试验，观察生长性能；然后进行消化代谢试验，试验期为7d，前5d为预试期，后2d为粪尿收集期（全收粪法)。结果表明：1） $1 \%$ AKG添加组有改善 $3 5 { \sim } 4 5 ~ \mathrm { k g }$ 生长猪生长性能的趋势，具体表现为提高平均日增重（ $\scriptstyle P = 0 . 1 9 4 2 { \mathrm { , } }$ ）和平均日采食量（ $\scriptstyle ( P = 0 . 2 5 8 3 )$ ，降低料重比（ $scriptstyle P = 0 . 4 1 9$ 7)。2）随着AKG添加水平提高，尿氮含量有下降趋势（ $\scriptstyle P = 0 . 1 4 3 2 ,$ ，粪氮、总氮含量及总氮排放率极显著降低（ ${ \scriptstyle \cdot } P { < } 0 . 0 1$ )，氮表观消化率和蛋白质净利用率极显著提高（ $_ { . } P { < } 0 . 0 1 \$ )。与对照组相比， $1 \%$ 与 $2 \%$ AKG添加组尿氮含量分别降低了 $1 3 . 3 1 \%$ 和 $4 1 . 8 8 \%$ ，粪氮含量分别降低了 $1 8 . 7 3 \%$ 和 $5 4 . 6 9 \%$ ，总氮排放率分别降低了 $2 0 . 5 7 \%$ 和 $5 0 . 0 0 \%$ ，氮表观消化率分别提高了 $2 . 6 0 \%$ 和 $6 . 3 2 \%$ ，蛋白质净利用率分别提高了 $2 . 6 8 \%$ 和$6 . 5 1 \%$ 。3） $2 \%$ AKG添加组钙食入量、粪钙和粪磷含量显著低于对照组（ $_ { _ { P < 0 . 0 5 ) } }$ ，而钙表观消化率和磷表观消化率却显著高于对照组（ $_ { . } P { < } 0 . 0 5 { : }$ ；尿钙和尿磷含量有低于其他各组的趋势，但各组间差异不显著（ $. P { > } 0 . 0 5 \$ )。由此可见，在 $3 5 { \sim } 4 5 ~ \mathrm { k g }$ 的生长猪饲粮中添加 $1 \% \sim 2 \%$ AKG可有效降低机体氮、钙、磷排放，提高氮及钙、磷的利用率和日增重。
+
+关键词： ${ { \bf { a } } ^ { - } }$ 酮戊二酸；生长猪；氮代谢；钙磷代谢中图分类号：S816.7；S828 文献标识码： 文章编码：
+
+近年来，为节约蛋白质饲料、降低饲料成本、减轻动物应激及降低动物排泄物导致的环境污染等，在低蛋白质饲粮中添加合成氨基酸的研究及应用逐渐受到重视。Rotz[11指出降低饲粮蛋白质水平，氮排泄量会不同程度的降低，同时通过改变饲粮组成与结构可以使氮排放率减少 $3 2 \% \sim 6 2 \% ^ { [ 2 ] }$ 。 ${ \mathfrak { a } } ^ { \mathrm { ~ - ~ } }$ 酮戊二酸(a-ketoglutarate，AKG)是谷氨酰胺的重要前体物质，且和谷氨酰胺相比，在溶液中具有良好稳定性和溶解性，不会增加机体额外的氮负担，且是无毒的[3]。另外，AKG在谷氨酸脱氢酶或转氨酶的作用下生成谷氨酸，并进一步通过谷氨酰胺合成酶可形成谷氨酰胺。AKG拥有和谷氨酰胺相似的生理功能，如促进机体肠道发育。因此，越来越多的研究显示AKG可以替代谷氨酰胺应用于生产实践[4]。大量研究证明AKG在维持总氮平衡、降低氮损失及促进蛋白质合成中起重要作用。以大鼠为研究对象，Jeevanandam等[5]研究发现，在饲粮中补充 $2 1 5 \ \mu \mathrm { m o l / L }$ AKG可显著降低氮损失，增加氮沉积。此研究结果被Piva等进一步证实，其发现无氮饲粮中添加AKG(3和 $6 \ : \mathrm { g / k g } \dot { }$ 可使尿氮含量减少 $1 8 \%$ ，且与添加量无关。以生长鼠为研究对象,Prandini等[7]研究发现饲粮添加AKG（ ${ 3 \mathrm { \sim } 6 \ \mathrm { g / k g } }$ ）可显著降低内源性尿氮的损失，且有降低内源性粪氮的趋势。另外，AKG（ $\mathbf { \nabla } _ { \cdot } 2 \ \mathbf { g } / \mathbf { k g } ^ { \cdot }$ ）可以有效改善手术后及烧伤病人体内的负氮平衡，促进肌肉中蛋白质的合成[8]。同时，AKG在机体骨骼发育和骨矿物质沉积等生理过程有重要作用。钙和磷是动物必需的矿物质元素，是构成动物骨骼和牙齿的主要成分，同时参与体内代谢的调节[9]。Harrison等[10]研究表明，饲粮添加AKG（ $\mathbf { \sigma } _ { 0 . 1 } \mathbf { g } / \mathbf { k g } )$ 显著增加小羔羊骨小梁密度和皮质骨密度。Kowalik等[1]研究发现，饲粮补充AKG（ $0 . 4 ~ \mathrm { g / k g }$ ）显著增加仔猪骨矿物质密度。目前AKG对氮代谢的调控研究大多集中在鼠类和人类，且AKG对钙磷代谢的调控研究鲜见报道。我们研究团队曾报道AKG（2mmol/L）可促进猪肠道上皮细胞中蛋白质合成，抑制其蛋白质降解[12]。鉴于AKG对肠道细胞蛋白质代谢的调控，我们推测AKG可调控猪的氮代谢。此外，在现行推荐的生长育肥猪饲养标准下使饲粮粗蛋白质水平降低 $2 { \sim } 4$ 百分点是可行的[13-14]。因此，本试验以生长猪为研究对象，在玉米－豆粕型饲粮基础上，将饲粮粗蛋白质水平降低4百分点，同时补充限制性氨基酸，研究低蛋白质饲粮添加AKG对生长猪氮以及钙、磷代谢的影响，以期为AKG在猪的生态养殖中合理应用提供理论依据。
+
+1材料与方法  
+1.1 试验材料AKG：纯度 $2 9 9 . 0 \%$ ，由湖北远成赛创科技有限公司提供。
+
+# 1.2 试验饲粮
+
+选用普通玉米作为淀粉来源、豆粕作为蛋白质来源，参考NRC（2012） $[ 1 5 ] _ { 3 0 \sim 6 0 } \mathrm { k g }$ 猪营养需要配制各组饲粮，试验饲粮组成及营养水平见表1。各组AKG添加水平分别为0（对照组）、 $1 \%$ 和 $2 \%$ 。各种饲料原料粉碎后逐级混匀，制成粉状饲料，储存于通风干燥处备用。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) $\%$   
+
+<html><body><table><tr><td></td><td colspan="2">饲粮AKG水平Dietary AKG level</td></tr><tr><td>项目Items</td><td>0 1%</td><td>2%</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">原料 Ingredients</td></tr><tr><td>豆粕 Soybean meal</td><td>23.40</td><td>23.40</td><td>23.40</td></tr><tr><td>玉米 Corm</td><td>69.17</td><td>68.17</td><td>67.17</td></tr><tr><td>豆油 Soybean oil</td><td>2.83</td><td>2.83</td><td>2.83</td></tr><tr><td>α-酮戊二酸 α-ketoglutaric acid</td><td></td><td>1.00</td><td>2.00</td></tr><tr><td>石粉 Limestone</td><td>0.87</td><td>0.87</td><td>0.87</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.10</td><td>1.10</td><td>1.10</td></tr><tr><td>L-赖氨酸 L-Lys</td><td>0.41</td><td>0.41</td><td>0.41</td></tr><tr><td>L-苏氨酸L-Thr</td><td>0.11</td><td>0.11</td><td>0.11</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.09</td><td>0.09</td><td>0.09</td></tr><tr><td>L-色氨酸 L-Trp</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>小苏打 NaHCO3</td><td>0.60</td><td>0.60</td><td>0.60</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/g)</td><td>14.23</td><td>14.25</td><td>·14.21</td></tr><tr><td>粗蛋白质CP</td><td>15.99</td><td>16.24</td><td>15.85</td></tr><tr><td>赖氨酸 Lys</td><td>1.09</td><td>1.08</td><td>1.06</td></tr><tr><td>蛋氨酸Met</td><td>0.35</td><td>0.34</td><td>0.32</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.63</td><td>0.59</td><td>0.61</td></tr><tr><td>苏氨酸Thr</td><td>0.70</td><td>0.71</td><td>0.68</td></tr><tr><td>色氨酸Trp</td><td>0.19</td><td>0.18</td><td>0.17</td></tr><tr><td>钙Ca</td><td>0.65</td><td>0.72</td><td>0.86</td></tr><tr><td>总磷TP</td><td>0.27</td><td>0.23</td><td>0.30</td></tr><tr><td>粗纤维CF</td><td>3.06</td><td>3.14</td><td>2.91</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA4 000 IU， $\mathrm { V D } _ { 3 } 4 0 0 \mathrm { I L }$ I，VE 50 IU，VK1 mg, $\mathrm { V B } _ { 1 } ~ 1 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 \log$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ， $\mathrm { V C } 3 0 0 \mathrm { m g }$ ，烟酸nicotinic acid $2 3 ~ \mathrm { m g }$ ， $D$ -泛酸 $D$ -pantothenic acid$1 5 ~ \mathrm { m g }$ ，生物素 biotin $0 . 0 8 ~ \mathrm { { m g } }$ ，叶酸 folic acid $1 . 3 ~ \mathrm { m g }$ ，氯化胆碱 choline chloride $5 0 \%$ ） $6 0 0 ~ \mathrm { { m g } }$ ，耐高温植酸酶 hightemperature resistant phytase $1 5 0 \mathrm { m g }$ ，抗氧化剂antioxidant $8 0 0 ~ \mathrm { { m g } }$ ，防霉剂 mildew preventive $5 0 0 ~ \mathrm { m g }$ ，沸石粉 zeolite powder
+
+442 mg， $\mathrm { C u } 1 5 \mathrm { m g }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ，Fe $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { Z n 5 0 ~ m g }$ ， $\mathrm { ~ I ~ } 0 . 3 ~ \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ 。
+
+2)消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3 试验动物和设计
+
+选用初始体重为 $( 3 4 . 9 8 { \pm } 2 . 1 8 ) \mathrm { k g }$ 的健康三元杂交（杜 $\times$ 长 $\times$ 大）猪18头，按体重相近、性别比例相同原则随机分为3组，每组6个重复，每个重复1头。各组AKG添加水平分别为0（对照组）、 $1 \%$ 和 $2 \%$ 。先进行为期14d的饲养试验，观察生长性能，然后转入不锈钢代谢笼进行消化代谢试验，5d预试期后利用全收粪法收集粪尿样品 $2 \mathrm { d }$ 。
+
+# 1.4 饲养管理
+
+本试验在中国科学院亚热带农业生态研究所动物实验楼代谢室内进行。试验中猪只均单栏饲养于不锈钢代谢笼内，每天08:30和16:30各喂料1次，自由采食和饮水。试验期间每日准确记录每头猪的实际采食量，观察猪群的健康情况。室内消毒、清扫按常规程序进行，并保持猪舍通风、清洁。
+
+# 1.5 粪和尿样收集
+
+消化代谢试验期间，每天分别在08:00和16:00 收集试验猪的粪、尿。对每日收集的鲜粪称重，按每$1 5 { \mathrm { g } }$ 鲜粪加 $10 \%$ 稀硫酸 $1 0 ~ \mathrm { m L }$ 混合均匀（以免氨氮损失）后置于一 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 贮存备用。尿样用量筒量取总容量后，摇匀取1/5装入集尿器，每 $1 0 0 ~ \mathrm { { m L } }$ 尿样加入 $10 \%$ 稀硫酸 $1 0 ~ \mathrm { m L }$ （以防氨氮挥发和尿样腐败)，并置于－80℃贮存备用。
+
+# 1.6 测定指标及方法
+
+饲养试验开始第1天早晨对每头生长猪进行空腹称重，为初始体重，饲养14d后再次称重，记录生长猪的体重，并计算出每组生长猪的平均日增重（ADG)；记录每头生长猪每天的给料量和剩料量，计算每组生长猪的平均日采食量(ADFI)以及料重比(F/G)。
+
+试验猪饲粮、粪和尿样中氮含量利用凯氏定氮法进行测定；钙和磷含量采用电感耦合等离子体质谱法测定。各指标计算公式如下：
+
+吸收氮 $\ c =$ 食入氮一粪氮;
+
+沉积氮 $\ c =$ 食入氮一粪氮一尿氮；
+
+氮表观消化率 $_ { \mathrm { = } 1 0 0 } \times$ 吸收氮/食入氮;
+
+氮表观生物学价值 $_ { \mathrm { { \Omega } = 1 0 0 \times \Omega } }$ 沉积氮/吸收氮；
+
+蛋白质净利用率 $_ { \cdot = 1 0 0 } \times$ 沉积氮/食入氮;
+
+总氮排放率 $_ { \mathrm { - } 1 0 0 } \times$ （粪氮 $^ +$ 尿氮）/食入氮；
+
+钙表观消化率 $_ { \mathrm { - } 1 0 0 } \times$ （食入钙一粪钙）/食入钙；
+
+磷表观消化率 $_ { \mathrm { - } 1 0 0 } \times$ （食入磷一粪磷）/食入磷。
+
+# 1.7 统计分析
+
+试验数据用 Excel2013进行初步处理，用统计分析软件 SPSS 20.0 对数据进行协方差分析，采用one-way ANOVA进行差异显著性检验，差异显著性采用Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 者为差异显著，试验数据以平均数±标准误表示。
+
+# 2 结果与分析
+
+2.1 饲粮添加AKG对生长猪生长性能的影响
+
+由表2可以看出， $1 \% \mathrm { { A K G } }$ 添加组有改善生长猪生长性能的趋势，具体表现为提高平均日增重（ $\scriptstyle P = 0 . 1 9 4 2$ ）和平均日采食量（ $\scriptstyle P = 0 . 2 5 8 3 { \mathrm { ~ , ~ } }$ )，并降低料重比（ $\scriptstyle P = 0 . 4 1 9 7 .$ ）
+
+表2饲粮添加AKG对生长猪生长性能的影响  
+Table 2Effects of dietary AKG supplementation on growth performance of growing pigs   
+
+<html><body><table><tr><td>项目</td><td colspan="3">饲粮AKG水平DietaryAKGlevel</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td>0</td><td>1%</td><td>2%</td></tr><tr><td>初始体重 Initial weight/kg</td><td>35.17±2.81</td><td>34.79±1.66</td><td>34.96±1.94</td><td>0.963 1</td></tr><tr><td>终末体重 Final weight/kg</td><td>44.49±1.52</td><td>45.01±3.74</td><td>44.11±2.28</td><td>0.2319</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>666.41±3.57</td><td>731.35±6.53</td><td>653.94±8.34</td><td>0.194 2</td></tr><tr><td>平均日采食量 ADFI/（g/d)</td><td>1 405.61±78.88</td><td>1 504.33±55.17</td><td>1 363.44±25.78</td><td>0.258 3</td></tr><tr><td>料重比F/G</td><td>2.11±0.03</td><td>2.05±0.06</td><td>2.08±0.04</td><td>0.419 7</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $. P { > } 0 . 0 5$ )，不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ )。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ).The same as below.
+
+# 2.2 饲粮添加AKG对生长猪氮代谢的影响
+
+由表3可以看出，随着AKG添加水平的提高，尿氮含量有下降的趋势，粪氮、总氮含量及总氮排放率极显著降低( $_ { . } P { < } 0 . 0 1 \$ ),氮表观消化率和蛋白质净利用率极显著提高( ${ \cdot } P { < } 0 . 0 1$ )。与对照组相比， $1 \%$ 与 $2 \%$ AKG添加组尿氮含量分别下降了 $1 3 . 3 1 \%$ 和 $4 1 . 8 8 \%$ ，粪氮含量分别降低了 $1 8 . 7 3 \%$ 和 $5 4 . 6 9 \%$ ，总氮排放率分别降低了 $2 0 . 5 7 \%$ 和 $5 0 . 0 0 \%$ ，氮表观消化率分别提高了 $2 . 6 0 \%$ 和 $6 . 3 2 \%$ ，蛋白质净利用率分别提高了 $2 . 6 8 \%$ 和$6 . 5 1 \%$ 。
+
+# 表3饲粮添加AKG对生长猪氮代谢的影响
+
+Table 3Effects of dietary AKG supplementation on nitrogen metabolism of growing pigs
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">饲粮 AKG 水平 Dietary AKG level</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>1%</td><td>2%</td></tr><tr><td>粪氮Fecal N/(g/d)</td><td>92.45±5.88a</td><td>75.13±7.45ab</td><td>41.89±5.05b</td><td><0.01</td></tr><tr><td>尿氮Urinary N/(g/d)</td><td>3.08±0.32</td><td>2.67±0.50</td><td>1.79±0.33</td><td>0.143 2</td></tr><tr><td>总氮 Total N/ (g/d)</td><td>95.53±5.86a</td><td>77.80±6.95ab</td><td>43.68±4.72b</td><td><0.01</td></tr><tr><td>食入氮Nintake/（g/d)</td><td>832.09±65.52</td><td>850.27±30.44</td><td>754.25±14.45</td><td>0.314 2</td></tr><tr><td>沉积氮 N retention/（g/d)</td><td>736.55±59.74</td><td>772.47±28.02</td><td>710.57±9.73</td><td>0.556 0</td></tr><tr><td>氮表观消化率Napparent digestibility/%</td><td>88.86±0.26c</td><td>91.17±0.81b</td><td>94.48±0.56a</td><td><0.01</td></tr><tr><td>氮表观生物学价值 Biological value of N/%</td><td>99.58±0.05</td><td>99.65±0.07</td><td>99.75±0.05</td><td>0.182 5</td></tr><tr><td>蛋白质净利用率 Net protein utilization/%</td><td>88.48±0.26c</td><td>90.85±0.76b</td><td>94.24±0.52a</td><td><0.01</td></tr><tr><td>总氮排放率 TotalNemission rate/%</td><td>11.52±0.26a</td><td>9.15±0.76b</td><td>5.76±0.52c</td><td><0.01</td></tr></table></body></html>
+
+2.3 饲粮添加AKG对生长猪钙、磷代谢的影响
+
+由表4可以看出， $2 \%$ AKG组尿钙和尿磷含量有低于其他各组的趋势，但差异不显著（ $( P { > } 0 . 0 5 )$ ；其钙食入量、粪钙和粪磷含量显著低于对照组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ ，而钙表观消化率和磷表观消化率显著高于对照组$( P { < } 0 . 0 5 )$ 。
+
+表4饲粮添加AKG对生长猪钙磷代谢的影响  
+Table 4Effects of dietary AKG supplementation on Ca and P metabolism of growing pigs   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">饲粮 AKG 水平 Dietary AKG level</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>1%</td><td>2%</td></tr><tr><td>食入钙Ca intake/（g/d)</td><td>27.07±2.13a</td><td>20.74±1.14ab</td><td>16.62±0.55b</td><td>0.0313</td></tr><tr><td>食入磷Pintake/（g/d)</td><td>15.71±1.24</td><td>12.15±0.67</td><td>12.40±0.41</td><td>0.124 1</td></tr><tr><td>粪钙Fecal Ca/（g/d)</td><td>13.06±1.29a</td><td>11.04±0.30a</td><td>6.11±0.15b</td><td>0.0210</td></tr><tr><td>粪磷Fecal P/(g/d)</td><td>7.06±0.69a</td><td>5.99±0.30ab</td><td>3.84±0.28b</td><td>0.042 1</td></tr><tr><td>尿钙Urinary Ca/(g/d)</td><td>1.80±0.59</td><td>1.22±0.19</td><td>0.88±0.35</td><td>0.473 2</td></tr><tr><td>尿磷Urinary P/（g/d)</td><td>1.34±0.16</td><td>1.35±0.08</td><td>1.13±0.27</td><td>0.6840</td></tr><tr><td>钙表观消化率 Ca apparent digestibility/%</td><td>51.22±1.66b</td><td>46.55±4.38b</td><td>63.23±0.32a</td><td>0.031 5</td></tr><tr><td>磷表观消化率Papparent digestibility/%</td><td>55.22±1.71b</td><td>50.41±5.16b</td><td>69.09±1.22a</td><td>0.032 7</td></tr></table></body></html>
+
+# 3讨论
+
+AKG 对畜禽的生长性能具有一定的影响，其中研究较多的是其对肉仔鸡、仔猪的促生长作用。余亲平等[16]研究表明，在2周龄肉仔鸡饲粮中添加 $0 . 7 \%$ AKG 可显著提高其体重及平均日增重。胡泉舟[17]的试验表明，饲粮中添加1%AKG 能提高仔猪的生长性能，平均日增重可提高 $9 \%$ 。此外,饲粮中添加 $1 \%$ AKG能显著缓解脂多糖应激对断奶仔猪生长的抑制作用[18]。本试验研究结果与前人基本一致，在生长猪饲粮中添加1%AKG 可改善其生长性能。
+
+低蛋白质饲粮可降低动物氮的排泄，从而缓解环境污染所造成的压力[14.19]；而营养成分消化率的提高，尤其是氮沉积增加，是低蛋白质饲粮降低猪氮排泄的主要原因[20]。AKG 是谷氨酸家族氨基酸的共同碳架，且可以直接并迅速的生成谷氨酸进而生成谷氨酰胺。另外，AKG 也可以通过谷氨酸生成其他氨基酸，对机体的氨基酸代谢起着十分重要的生理作用[21]。以大鼠为研究对象，Jeevanandam 等[5]研究发现，在饲粮中补充 $2 1 5 \mu \mathrm { m o l } / \mathrm { L }$ AKG 可显著降低氮损失，增加氮沉积。此研究结果被Piva等进一步证实，其发现大鼠无氮饲粮中添加AKG（3和 $6 ~ \mathrm { g / k g }$ ）可使尿氮含量减少 $1 8 \%$ ，且与添加量无关。而本试验在低蛋白质饲粮的基础上分别添加 $1 \%$ 和 $2 \% \mathrm { { A K G } }$ ，尿氮含量分别减少了 $1 3 . 3 1 \%$ 和 $4 1 . 8 8 \%$ ，尿氮减少量随着AKG 添加水平的提高而增加。本试验结果及前人试验结果均说明，动物饲粮中添加AKG 确能调控氮代谢，降低氮排放。且本试验结果进一步说明，粪氮减少量对总氮排放率的减少起着决定性作用。另外，添加3和 $6 \mathrm { g } / \mathrm { k g } \mathrm { A K G }$ 使得小肠上皮细胞长度分别增加了 $2 5 \%$ 和 $4 9 \%$ ( $P { < } 0 . 0 1 \rangle$ ，添加 $6 \mathrm { g } / \mathrm { k g } \mathrm { A K G }$ 时血浆中必需氨基酸的含量下降了 $2 2 . 2 \% ^ { [ 6 ] }$ 。位莹莹等[22]研究发现，低蛋白饲粮中添加AKG（7.5 和 $1 5 . 0 ~ \mathrm { g / k g } )$ 有利于促进松浦镜鲤肝脏和胰脏氨基酸代谢，提高蛋白质利用率，促进蛋白质合成。这些研究结果表明，AKG 降低机体氮损失及提高氮利用率的作用机制可能与AKG 可有效地促进肠道细胞生长、提高肠道吸收功能，以及促进机体蛋白质合成与抑制蛋白质降解等功能有关，具体机制有待进一步研究。本试验中，低蛋白质（ $1 5 . 9 9 \%$ ）饲粮中添加 AKG 显著降低总氮排放率（其中粪氮贡献较为显著），增加净蛋白质利用率和氮表观生物学价值，且有提高氮沉积和氮表观消化率的趋势，以 $2 \%$ 的添加量为最佳。这说明饲粮中补充一定量的AKG 使生长猪体内蛋白质分解降低，合成增加，从而促进了含氮物质在体内的沉积[8.23]。其作用机理是AKG 作为谷氨酰胺前体物质和谷氨酰胺一样可为肠上皮细胞和免疫细胞供能和补充氮源，同时降低肠道谷氨酰胺的分解，为胃肠道细胞代谢提供能量，保障肠道屏障功能的完整性和正常的吸收功能[24-25]。
+
+钙和磷在骨生长和代谢中发挥重要作用，是动物骨骼生长发育和维持骨量不可缺少的重要矿物元素[26]。前人研究表明，AKG 可通过以下方式调控骨代谢：1）AKG可合成谷氨酸，谷氨酸可作为神经系统的一种信号分子，对骨代谢进行调控[27]；2）AKG 可代谢产生脯氨酸，脯氨酸进一步羟化为羟脯氨酸，羟脯氨酸是结缔组织和骨胶原蛋白合成不可缺少的氨基酸，而胶原是骨基质的主要成分，这表明其在骨骼系统的发育方面具重要作用[4]。Tatara等[28]在新生羊注射 AKG（0.1g/kg）14d后发现，其血浆中脯氨酸的浓度和骨矿物质密度显著增加。Andersen 等[29]研究表明，在出生 $2 1 \sim 2 4 \mathrm { ~ d ~ }$ 的仔猪饲粮中添加AKG
+
+$( 0 . 1 \ \mathrm { g / k g } )$ ，其股骨矿物质密度显著增加。这些研究验证了AKG对骨代谢的调控作用，进一步说明 AKG对骨骼矿物质沉积有积极地影响[10]。然而，AKG 如何调控骨骼矿物质沉积的机制目前国内外鲜少报道。另外，胡琴等[30]研究发现，低蛋白质（ $1 2 . 5 9 \%$ ）饲粮对育肥猪钙磷表观消化率和排泄量均无显著影响，且尹慧红等[31]也发现，低蛋白质（ $1 4 . 1 3 \%$ ）饲粮并不影响生长猪的钙磷表观消化率。而本试验在低蛋白质饲粮的基础上添加AKG 发现，生长猪低蛋白质（ $1 5 . 9 9 \%$ ）饲粮中添加 $2 \%$ AKG 能够显著降低粪中钙磷含量，增加钙磷表观消化率，与前人研究不一致。其原因可能是前人在做消化代谢试验过程中，粪尿并未完全分离，造成结果有失偏颇；另外，前人试验只探讨了低蛋白质饲粮的作用效果，我们推测低蛋白质饲粮可能并不足以改善钙磷代谢，而本试验在低蛋白质饲粮的基础上添加了AKG，其可以增加动物机体钙磷的沉积[32-33]，从而减少粪尿中钙磷的排泄。由此可见，AKG 可有效地改善钙磷代谢，但其是否能促进骨质发育有待进一步研究。
+
+4结论
+
+结合生长试验以及氮、钙、磷消化代谢试验，对于 $3 5 { \sim } 4 5 \ \mathrm { k g }$ 体重的生长猪，其饲粮中添加 $1 \% \sim$ 2%AKG可有效降低机体氮、钙、磷排放，提高氮及钙、磷的利用率和日增重。参考文献:
+
+[1] ROTZ C A.Management to reduce nitrogen losses in animal production[J].Journal of Animal Science,2004,82(13_Suppl):E119-E137.
+
+[2] SUTTON AL,KEPHART K B,VERSTEGEN M W,et al.Potential for reduction of odorous compounds in swine manure through diet modification[J].Journal of Animal Science,1999,77(2):430-439.
+
+[3] WU G,MEIER S A,KNABE D A.Dietary glutamine supplementation prevents jejunal atrophy in weaned pigs[J].The Journal of Nutrition,1996,126(10):2578-2584.
+
+[4] KRISTENSEN N B,JUNGVID H,FERNANDEZ J A,et al.Absorption and metabolism of α -ketoglutarate in growing pigs[J].Journal of Animal Physiology and Animal Nutrition,2002,86(7/8):239-245.
+
+[5] JEEVANANDAM M,ALI M R,RAMIAS L,et al.Efficacy of ornithine-alpha-ketoglutarate (OKGA） as a dietary supplement in growing rats[J].Clinical Nutrition,1991,1O(3):155-161.
+
+[6] PIVA A,MORLACCHINI M,PRANDINI A,et al.α-Ketoglutaric acid reduces nitrogen losses in rats fed nitrogen-free diet[M]//LINDBERG JE,OGLE B.Digestive physiology in pigs.Lewiston,NY,U.S.A.:CABI Publishing,2001:101-103.
+
+[7] PRANDINI A,MORLACCHINI M,SIGOLO S,et al.Anticatabolic activity of alpha-ketoglutaric acid in growing rats[J].Italian Journal of Animal Science,2012,11(3):279-284.
+
+[8] BLOMQVIST B I,HAMMARQVIST F,VON DER DECKEN A,et al.Glutamine and $\mathfrak { a }$ -ketoglutarate prevent the decrease in muscle free glutamine concentration and influence protein synthesis after total hip replacement[J].Metabolism Clinical and Experimental,1995,44(9):1215-1222.
+
+[9] 张铁鹰,张艳玲,闫素梅,等.用线性回归法测定生长猪内源钙、磷排泄量和豆粕钙、磷真消化率的研究[J].畜牧兽医学报,2008,39(12):1684-1691.
+
+[10] HARRISON A P,TYGESEN M P,SAWA-WOJTANOWICZ B,et al.α-Ketoglutarate treatment early in postnatal life improves bone density in lambs at slaughter[J].Bone,20O4,35(1):204-209.
+
+[11] KOWALIK S,SLIWA E,TATARA M R,et al.Influence of alpha-ketoglutarate on mineral density and geometrical and mechanical parameters of femora during postnatal life in piglets[J].Bulletin of the Veterinary Institute in Pulawy,2005,49(1):107-111.
+
+[12] YAO K,YIN YL,LI X L,et al.Alpha-ketoglutarate inhibits glutamine degradation and enhances protein synthesis in intestinal porcine epithelial cells[J].Amino Acids,2012,42(6):2491-2500.
+
+[13] LE BELLEGO L,VAN MILGEN J,NOBLET J.Effect of high temperature and low-protein diets on the performance of growing-finishing pigs[J].Journal of Animal Science,2002,8O(3):691-701.
+
+[14] KERR B J,SOUTHERN L L,BIDNER T D,et al.Influence of dietary protein level,amino acid supplementation,and dietary energy levelson growing-finishing pigperformance and carcass composition[J].Journal of Animal Science,2003,81(12):3075-3087.
+
+[15] National Research Council.Nutrient requirements of swine[S].11th ed.Washington,D.C.:National Academy Press,2012.
+
+[16] 余亲平,陈雁群,谢金蝉,等.日粮添加 $\alpha$ -酮戊二酸对肉仔鸡生长性能及组织器官发育的影响[J].中国畜牧兽医，2010,37(10):10-14.
+
+[17] 胡泉舟.α-酮戊二酸对断奶仔猪生长性能和肠道功能的影响[D].硕士学位论文.武汉:武汉工业学院,2008:15-16.
+
+[18] 刘坚,侯永清,丁斌鹰,等.α-酮戊二酸对脂多糖应激断奶仔猪生长抑制的缓解作用[J].动物营养学报,2009,21(4):519-524.
+
+[19]LE BELLEGO L,NOBLET J.Performance and utilization of dietary energy and amino acids in piglets fed low protein diets[J].Livestock Production Science,2002,76(1/2):45-58.
+
+[20] 梁福广.生长猪低蛋白日粮可消化赖、蛋 $^ +$ 胱、苏、色氨酸平衡模式的研究[D].博士学位论文.北京:中国农业大学,2005:4-8.
+
+[21]LAMBERTB D.FILIP R,STOLL B,et al.First-pass metabolism limits the intestinal absorption of enteral $\mathfrak { a }$ -ketoglutarate in young pigs[J].The Journal of Nutrition,2006,136(11):2779-2784.
+
+[22] 位莹莹,徐奇友,李晋南,等.不同蛋白质水平饲料中添加 $\mathfrak { a }$ -酮戊二酸对松浦镜鲤生长性能、体成分和血清生化指标的影响[J].动物营养学报,2013,25(12):2958-2965
+
+[23] 黄冠庆,余亲平,陈雁群,等.α-酮戊二酸对黄羽肉鸡饲料代谢能和蛋白质代谢的影响[J].中国饲料,2012(18):22-24.
+
+[24] CHEN L X,LI P,WANG JJ,et al.Catabolism of nutritionally essential amino acids in developing porcine enterocytes[J].Amino Acids,2009,37(1):143-152.
+
+[25] JONES C,PALMER T E A,GRIFFITHS R.Randomized clinical outcome study of critically ill patients given glutamine-supplemented enteral nutrition[J].Nutrition,1999,15(2):108-115.
+
+[26] 王剑,王栋,何建平,等.口服补钙对甘肃酚鼠钙磷代谢的影响[J].动物学杂志,2010,45(4):46-51.
+
+[27] STOLL B.HENRY J,REEDS PJ,et al.Catabolism dominates the first-pass intestinal metabolismof dietary essential amino acids in milk protein-fed piglets[J].The Journal of Nutrition,1998,128(3):606-614.
+
+[28] TATARA MR,TYGESEN MP,SAWA-WOJTANOWICZ B,et al.Bone development:the effect of short-term alpha-ketoglutarate administration on long-term mechanical properties of ribs in ram lambs[J].Small Ruminant Research,2007,67(2/3):179-183.
+
+[29] ANDERSEN N K,TATARA MR,KRUPSKI W,et al.The long-term effect of $\mathfrak { a }$ -ketoglutarate,given early in postnatal life,on both growth and various bone parameters in pigs[J].Journal of Animal Physiology and Animal Nutrition,2008,92(5):519-528.
+
+[30] 胡琴,朱建平,刘春雪,等.低蛋白日粮对育肥猪养分消化率和排泄量的影响[J].家畜生态学报,2014,35(3):74-77.
+
+[31] 尹慧红,张石蕊,孙建广,等.不同净能水平的低蛋白日粮对猪生长性能和养分消化率的影响[J].中国畜牧杂志,2008,44(13):25-28.
+
+[32] TATARA M R,MAJCHER P,KRUPSKI W,et al.Influence of alpha-ketoglutarate on cortical bone density,geometrical properties and mechanical endurance of the humerus in turkeys[J].Bulletin of the Veterinary Institute in Pulawy,2004,48(4):461-465.
+
+[33] TATARA M R,BRODZKI A,KRUPSKI W,et al.Efects of alpha-ketoglutarate on bone homeostasis and plasma amino acids in turkeys[J].Poultry Science,2005,84(1O):1604-1609.
+
+Effects of Dietary $\mathfrak { a }$ -Ketoglutarate Supplementation on Nitrogen and Calcium & Phosphorus Metabolism of Growing Pigs2
+
+CHEN Jiashun1,2WU Fei1\* DUAN Yehui1LI Jianjun1JIANG Qian1LIHuan²HUANGNiu²TIAN Junquan1 YIN Yulong1,2 YAO Kangl,2\*\* (1. Scientific Observing and Experimental Station ofAnimal Nutrition and Feed Science in South Central, Ministry of Agriculture, Hunan Provincial Engineering Research Center for Healthy Breeding ofLivestock and Poultry, Key Laboratory of Agro-Ecological Processes in Subtropical Region, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. College of Animal Science and Technology， Hunan Agricultural University， Changsha 41O128， China)
+
+Abstract: This experiment was conducted to investigate the effects of $\mathfrak { a }$ -ketoglutarate supplementation in low protein diet on nitrogen and calcium (Ca)& phosphorus (P） metabolism of growing pigs. Eighteen healthy crossbred (DurocxLandracexLargewhite) pigs with an average body weight of $( 3 4 . 9 8 { \pm } 2 . 1 8 \$ ）kgwere randomly allocated to 3 groups evenly with 6 replicates in each group and 1 pig in each replicate. AKG supplemental level was O (control group), $1 \%$ and $2 \%$ , respectively. All pigs were firstly fed for $1 4 { \mathrm { ~ d } } .$ ， and growth performance was measured, followed by digestion and metabolism test. The experiment lasted for $^ { 7 \mathrm { d } }$ ,the former $5 \mathrm { d }$ was pre-trail period, and the latter $2 \textup { d }$ was excreta collection period by means of collection full excrements analysis method. The results showed as follows: 1) growth performance of growing pigs with the weight of 35 to $4 5 ~ \mathrm { k g }$ tended to improve in $1 \%$ AKG supplementation group, embodied as increasing the average daily gain ( $\scriptstyle P = 0 . 1 9 4 \ 2$ ）and the average daily feed intake ( $\scriptstyle P = 0 . 2 5 8 \ 3$ ), while decreasing the feed to gain ratio ( $\scriptstyle P = 0 . 4 1 9 7$ ).2)With the increase of dietary AKG supplemental levels, the urine nitrogen content tended to decrease $\scriptstyle P = 0 . 1 4 3 \ 2$ ), the contents of fecal nitrogen and total nitrogen as well as total nitrogen emission rate were extremely significantly decreased （204 $( P { < } 0 . 0 1 )$ ， while the nitrogen apparent digestibility and net protein utilization were extremely significantly increased $( P { < } 0 . 0 1 )$ . Compared to the control group,urine nitrogen content was decreased by $1 3 . 3 1 \%$ and $4 1 . 8 8 \%$ ， fecal nitrogen content was decreased by $1 8 . 7 3 \%$ and $5 4 . 6 9 \%$ ， total nitrogen emission rate was decreased by $2 0 . 5 7 \%$ and $5 0 . 0 0 \%$ , nitrogen apparent digestibility was increased by $2 . 6 0 \%$ and $6 . 3 2 \%$ ,and net protein utilization was increased by $2 . 6 8 \%$ and $6 . 5 1 \%$ in $1 \%$ and $2 \%$ AKG supplementation groups, respectively.
+
+3) Compared to the control group, the $2 \%$ AKG supplementation group significantly decreased the Ca intake, contents of fecal $\mathrm { C a }$ and $\mathrm { \bf P }$ $( P { < } 0 . 0 5 )$ ,while increased apparent digestibilities of $\mathrm { C a }$ and $\mathrm { \bf P }$ （20 $( P { < } 0 . 0 5 )$ , and tended to decrease the contents of urine $\mathrm { C a }$ and $\mathrm { \bf P }$ compared to the other groups,but the difference was not significant $( P { > } 0 . 0 5 )$ . Thus, dietary $1 \%$ to $2 \%$ AKG supplementation can effectively reduce the body's nitrogen, Ca and P emissions, improve utilization of nitrogen and $\mathrm { C a }$ & $\mathrm { \bf P }$ and daily gain of growing pigs with the weight of 35 to 45 kg.
+
+Key words: $\mathfrak { a }$ -ketoglutarate; growing pigs; nitrogen metabolism; Ca & P metabolism

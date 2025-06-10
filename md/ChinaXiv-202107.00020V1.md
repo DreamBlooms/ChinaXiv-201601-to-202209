@@ -1,0 +1,154 @@
+# An arthropod community beyond the dry limit of plant life
+
+Benjamin DAVIDSON1,2\*, Elli GRONER,4
+
+1 Arava Institute for Environmental Studies, D.N.Eilot 88840,Israel;   
+2 Vassar College,Poughkeepsie,New York 12604,United States of America;   
+3 Dead Sea and Arava Science Center, Mitzpe Ramon 8060ooo, Israel;   
+4 Ben Gurion University,Eilat 88556,Israel
+
+Abstract: Water availability, which enables plant growth and animal activity, regulates dryland ecosystem function. In hyper-arid ecosystems,rain cannot support vascular plant growth. Therefore,hyper-arid vegetation is restricted to the lower topography， where runoff accumulates. Typically, food resources originating from areas of dense vegetation are dispersed across the desert floor, enabling animal life in areas lacking vascular plant growth. However, certain regions, such as the hyper-arid upper topography, may be devoid of plant-derived food resources.The present study examined arthropod activity in the upper topography of a hyper-arid desert, in comparison with arthropod activity in the lower topography. Pitfalltraps were utilized to compare arthropod activity along unvegetated ridges with activity in parallel, vegetated riverbeds. Surprisingly, the study revealed dense arthropod communities in the barren upper topography. Arthropods collected in the upper topography represented $26 \%$ of total arthropod abundance.In addition,the overlap between arthropod identity in the ridges and wadis (i.e., riverbeds) was low, and certain arthropods were strongly afiliated with the ridges.The upper topographic communities included high numbers of silverfish (Zygentoma:Lepismatidae)，malachite beetles (Psiloderes)，and predatory mites (Acari: Anystidae),and these arthropods were present at various life stages. It remains unclear how arthropod communities can persist in the unvegetated upper topography of the hyper-arid study area. These results raise the possbility that other food sources,independent from vascular plants, may play a significant role in the life history of hyper-arid arthropods.
+
+Keywords: hyper-arid area; spatial distribution; topography; silverfish; Tenebrionidae; desert
+
+# 1 Introduction
+
+Drylands are defined as regions with an aridity index of less than O.65;the aridity index is the ratio of mean annual precipitation to potential evapotranspiration (Barrow, 1992). Drylands cover $40 \%$ of the Earth's land area and support over two billion people (White and Nackoney, 2003).These areas face the double threat of climate change and land degradation (Giorgi et al., 2001;DI Giovanni and Palombini, 2002； IPCC,2007; Trenberth,2011). Drylands include dry subhumid, semi-arid,arid and hyper-arid lands.Hyper-arid lands are defined by an aridity index below 0.05 (Barrow,1992). This quantitative threshold reflects distinctive shifts in the spatial distribution of vegetation and associated trophic systems. Unlike other drylands,hyper-arid lands feature large
+
+areas beyond the dry limit of plant life, where minimal precipitation and high rates of evaporation prevent vascular plant growth (Noy-Meir, 1973). While extensive research has focused on arid ecosystems,hyper-arid ecosystems are understudied.
+
+In dryland ecosystems， water availability regulates plant growth and drives primary productivity. Water availability in dryland ecosystems is regulated by runofredistribution, or the flow of water from "source" areas to "sink" areas (Noy-Meir, 1973). On the community scale, impermeable soils act as water "sources", while permeable soils act as water "sinks"(Pueyo et al., 2013).On the landscape scale,water is redistributed in diferent land morphology； sloped or elevated areas act as water "sources" and level or low-lying areas act as water "sinks" (Cammeraat, 2002; Mayor et al.,2O08). These paterns of water availability regulate the vegetation abundance in dryland ecosystems (Schwinning et al., 20o4). Much like dryland vegetation, dryland animal abundance also depends on water availability. Many animals in dryland have developed independence from dietary water (Ward,2Oo9). Nonetheless, these animals rely on food resources that originate from primary producers.Accordingly, the fauna appearance in dryland often reflects the distribution of vegetation and water availability (Parker and Pianka,1975; Meserve and Glanz. 1978;Dean et al., 1999). Such spatial correlations between primary and secondary productivity are found in many terrestrial ecosystems (Valavanis et al., 2004; Holtgrieve et al., 20o9; Bregovic and Zagmajster, 2016).
+
+In hyper-arid ecosystems, water availability is all the more critical to plant and animal distribution. Hyper-arid landscapes feature large areas too dry to support plant life. As a result, hyper-arid plant communities are restricted to isolated pockets on the desert floor, or to the lower topography (Monod，1954； Zohary，1962； Kassas and Girgis， 1965).The concentration of vegetation in the lower topography (namely dry riverbeds and canyons,termed "wadis"),reflects the central role of land morphology and runoff in the distribution of water availability. Within the lower topography， soil properties play a central role in hyper-arid plant distribution (Abd El-Ghani and Amer, 2003; El-Bana and Al-Mathnani,2009). The ridges of hyper-arid ecosystems are completely bare from vascular plants since moisture in the ridges soil is not suficient to support them (Zohary,1962; Noy-Meir, 1973; Fossati et al., 1999).
+
+As in other dryland ecosystems, the fauna of hyper-arid ecosystems is often distributed in areas where vegetation grows, either as a result of trophic dependency, or because of shared preferences for cooler and less dry environments (Rebelo and Brito, 20o7; Nawaz et al.,2011; Hackett et al., 2013；Alatawi et al.，202O). However, certain arthropods, such as silverfish (Zygentoma） and darkling beetles (Tenebrionidae),are not restricted to vegetated areas,and instead are widely distributed across the desert floor. Even so, these arthropods still rely on nutritious organic detritus， produced near vegetation and dispersed by wind or animal migration (Louw and Hamilton,1972; Watson, 1989). Some hyper-arid ecosystems,such as the core of the Atacama Desert, Chile, lack both plant life and any form of plant-derived food resources (Ruhm et al., 2020).The only organisms known to survive such harsh environment are specialized microbial communities (Warren-Rhodes et al.， 20o6). Conditions are similar in the upper topography of many hyper-arid ecosystems, where water is too scarce to support vascular plant growth. Due to the lack of available food resources, hyper-arid upper topographic areas have never been targeted by ecological studies.
+
+The present study examined the spatial distribution of arthropods in the hyper-arid ecosystems in southern Israel. Arthropod activity in the steep upper topographic areas,lacking vascular plant life, was compared with that in the lower topographic areas, where runoff accumulation supports plant life. Arthropod activity was used as an indicator of ecological activity,because arthropods occupy various ecological niches and respond to fine-scale spatial variation in environmental conditions (Kremen et al.， 1993； Liu et al.，2016). Vegetation and topography were used as indicators of environmental conditions. The researchers did not record soil moisture, because rain in the study area is too scarce to create reliable differences in soil moisture. The researchers hypothesized that arthropods would be found only in the vegetated range of the study area.
+
+# 2 Materials and methods
+
+# 2.1 Study area
+
+The study was conducted in the highlands near to the west of the Arava Institute for Environmental Studies (AIES)，which belongs to the Kibbutz Ketura of the Arava Valley, southern Israel. The Arava Valley is a desert basin that extends along the border of Jordan and southern Israel, from the Dead Sea to the Red Sea. The climate of the southern Arava Vally is hyper-arid, with an annual mean temperature of $3 0 ^ { \circ } \mathrm { C }$ , mean annual precipitation between 3O and $5 0 ~ \mathrm { m m }$ ， and mean annual evaporation of $3 0 0 0 \ \mathrm { m m }$ (resulting in an aridity index of O.01O-0.017). During the last century, temperatures have increased while precipitation has decreased (Ginat et al.,2011). The valley is bounded by the Edom Mountains to the east and by highlands to the west. The elevation of the valley ranges from $4 0 0 \mathrm { ~ m ~ }$ below sea level to $2 1 0 \mathrm { ~ m ~ }$ above sea level (Goldreich and Karni, 2O01). The study was conducted in three sites each with two landscape units: one ridge and one riverbed adjacent to the ridge (Fig. 1). The ridges were bare of any vegetation, while the riverbeds were consistently vegetated with both shrubs and acacia trees.
+
+# 2.2 Sampling methods
+
+Four linear plots were established at each site,half in the wadis and half on the ridges,for a total of 12 plots. Each ridge plot was paired with a riverbed plot to create 6 blocks,2 at each site (Fig. 1). Distance,change in elevation and slope degree are provided in Table 1,along with photos of the terrain (Fig. 2). Each ridge plot was established on a separate peak,at least $1 0 0 \mathrm { ~ m ~ }$ away from vegetation.Each riverbed plot was established in the center of the riverbed, within $5 \mathrm { m }$ of vegetation, and at the point closest to the corresponding ridge plot. At each of the 12 plots,4 dry pitfall traps were placed at $1 { \cdot } \mathrm { m }$ intervals. Cups with a diameter of 7 cm were used. In the riverbed, the traps were established on loose sand and gravel, while in the ridges,a pickaxe was required to break the rocky soil and establish the traps. Over a period of 6 weeks,48 traps were sampled 4 times. Arthropods that could not be identified in the field were brought to the lab. Other arthropods were photographed on-site and identified to the highest recognizable taxonomic unit (RTU) (Ward and Stanley, 2004; Bird et al., 2020).
+
+![](images/76c152c2b6f3320c674bc7daf4f1a8b8cf9de2c5c29eea777a67f17356e20e52.jpg)  
+Fig.1Location and topographic features of the study sites in the Arava Institute for Environmental Studies (AIES), southern Israel
+
+Table1Site conditions at each block,including distance between the ridges and wadis,change in elevation between the ridges and wadis,and slope degree in the ridges and wadis   
+
+<html><body><table><tr><td>Block</td><td>Distance (m)</td><td>Change in elevation (m)</td><td>Wadis slope ()</td><td>Ridges slope (°)</td></tr><tr><td>A</td><td>70.7136</td><td>10.42416</td><td>17.08256</td><td>16.66176</td></tr><tr><td>B</td><td>84.4296</td><td>10.24128</td><td>5.65228</td><td>6.21687</td></tr><tr><td>C</td><td>55.7784</td><td>7.31520</td><td>22.94079</td><td>10.18023</td></tr><tr><td>D</td><td>95.4024</td><td>8.71728</td><td>15.08426</td><td>15.94099</td></tr><tr><td>E</td><td>137.7696</td><td>18.40992</td><td>8.15679</td><td>15.46925</td></tr><tr><td>F</td><td>173.7360</td><td>24.59736</td><td>15.75063</td><td>4.91531</td></tr></table></body></html>
+
+![](images/71b2c13bf46751865cb76708e5b65d140e4454ea5ef8f4a7d85954b4d532e933.jpg)  
+Fig.2Photos showing terrain in the ridges (a) and wadis (b) of the plots
+
+# 2.3 Data analysis
+
+Arthropod activity was calculated by dividing the number of individuals trapped by the number of days that the trap was open (Rubinstein et al., 2013). Arthropod activity, Simpson diversity and species richness in the ridges and wadis were compared by paired-sample $t$ -test,with each subsite as a replicate. Dissimilarity between the ridges and wadis was calculated using the Whitaker and Bray-Curtis indices,and evaluated against zero (no difference between the ridges and wadis) by one-sample $t$ -test,with each subsite as a replicate. These analyses were completed in R version 4.0.0.
+
+Ants,beetles and soil mesofauna respond to specific ecological factors, necessitating separate $t$ -tests.Ants respond to the pheromones of other ants.Beetles in the Arava Valley are morphologically diverse,but the vast majority is wandering detritivores. Soil mesofauna includes arthropods between $2 \ \mathrm { m m }$ and $1 0 0 ~ { \mu \mathrm { m } }$ in diameter (Swift et al.,1979). These arthropods are highly abundant and may be ecologically linked to microorganisms. Without justification for further subdivision of the data,all other arthropods were grouped together for $t { \cdot }$ -tests.Flying insects, including Lepidoptera, Diptera, Aphididae and winged Hymenoptera, were excluded from the analysis.Pitfalltraps are not suitable for flying insects,therefore,flying insects found in the traps were not considered.
+
+Multivariate analysis linked RTUs and locations using CANOCO 5.0.Principle component analysis (PCA) was used to cluster locations by similarity between their community compositions (ter Braak and Smilauer, 2O15). Environmental variables were tested for clusters of locations using redundancy detrended analysis (RDA). The RDA ordination tests if the locations (ridges and wadis） of the arthropod assemblies are different from each other by taking location (topography) as an environmental variable. Interactive-forward selection was completed including only significant variables step by step.
+
+# 3 Results
+
+# 3.1Activity, richness,diversity and dissimilarity
+
+The majority of arthropods $( 7 4 \% )$ were trapped in the wadis. Arthropod activity was significantly greater in the wadis than in the ridges for ants and soil mesofauna,but not for beetles or other arthropods (Table 2). Simpson diversity was significantly greater in the wadis than in the ridges, for all groups except ants (Fig. 3; Table 2). Species richness was significantly greater in the wadis than in the ridges,for all groups.The Whitaker and Bray-Curtis dissimilarities were significantly greater than zero for all groups.
+
+![](images/7b2b7f429cad3d8fdd7aeb8e759d375db2df33514e5585f9c6a86369c99e8ee3.jpg)  
+Fig.3Simpson diversity (a),species richness(b),arthropod activity (c)in the ridges and wadis,and Whitaker and Bray-Curtis dissimilarities (d)
+
+Table 2 Results of $t$ -tests $( d f = 5 )$ activity, Simpson diversity,species richness and Whitaker and Bray-Curtis dissimilarities for ants,soil mesofauna,beetles and other arthropods   
+
+<html><body><table><tr><td>t-test</td><td>Ants</td><td>Soil mesofauna</td><td>Beetles</td><td>Other arthropods</td></tr><tr><td rowspan="2">Activity (abundance/days elapsed)</td><td>P=0.0104</td><td>P=0.0118</td><td>P=0.2178</td><td>P=0.6796</td></tr><tr><td>t=3.3294</td><td>t=3.2155</td><td>t=1.4093</td><td>t= -0.4381</td></tr><tr><td rowspan="2">Simpson diversity</td><td>P=0.2792</td><td>P=0.0111</td><td>P=0.0213</td><td>P=0.0092</td></tr><tr><td>t=0.2134</td><td>t=3.2674</td><td>t=2.7044</td><td>t=3.4383</td></tr><tr><td rowspan="2">Species richness</td><td>P=0.0021</td><td>P=0.0215</td><td>P=0.0014</td><td>P=0.0014</td></tr><tr><td>t=5.0000</td><td>t=2.6968</td><td>t=5.4515</td><td>t=5.5000</td></tr><tr><td rowspan="2">Whittaker dissimilarity</td><td>P=0.0033</td><td>P=0.0184</td><td>P<0.0001</td><td>P<0.0001</td></tr><tr><td>t=4.4779</td><td>t=2.8274</td><td>t=11.3830</td><td>t=11.2330</td></tr><tr><td rowspan="2">Bray-Curtis dissimilarity</td><td>P<0.0001</td><td>P=0.0003</td><td>P<0.0001</td><td>P<0.0001</td></tr><tr><td>t=21.8110</td><td>t=7.6950</td><td>t=34.4910</td><td>t=10.6280</td></tr></table></body></html>
+
+# 3.2 Multivariate analysis
+
+The results of PCA show a clear distinction between the communities of the ridges and wadis (Fig. 4).RDA shows that several RTUs are associated with the ridges (arrows to the right), but most RTUs are affiliated with the wadis (Fig. 5). The constraint analysis of RDA showed that topography was significant and explained $3 6 . 7 \%$ of the variance ( $\scriptstyle { n = 1 2 }$ ,pseudo $\cdot F { = } 5 . 8$ ， $P { = } 0 . 0 0 4 { \cdot }$ ), whilst sites were not significant ( $\scriptstyle { ( P = 0 . 3 5 0 }$ ; Fig. 5).
+
+![](images/45278fcf3787131d350434e82aff324a5418d3e5e521bf47abc90c50e66f7938.jpg)  
+Fig.4Principle component analysis (PCA） plot of the recognizable taxonomic unit (RTU).Filld circles indicate ridges and open circles indicate wadis. Numbers by each circle indicate the number of species in each sample.
+
+![](images/b3500983f07beb3a0baf0b42413f90b0583c2caf2d42f41efb86adc77e51ceb1.jpg)  
+Fig.5Redundancy detrended analysis (RDA) plot showing afiliation of recognizable taxonomic units (RUTs) with either ridges or wadis.Filled circles indicate ridges and open circles indicate wadis.
+
+# 3.3Community composition in the ridges and wadis
+
+Numerous soil mesofauna were captured in the pitfall traps, including elongate bodied springtails (Collembola: Entomobryomorpha) and mites of the Anystidae family. The springtails were mostly restricted to the wadis, but the mites were distributed evenly across the ridges and wadis (Fig. 6a). Predators were scarce in the ridges, with the exception of jumping spiders (Salticidae; Fig. 6b). Ants were also scarce in the ridges, with the exception of Cataglyphis nigra, which was repeatedly captured at one subsite (Fig. 6c). Detritivores were numerous in both the ridges and wadis (Fig. 6d). The detritivore population of the ridges was dominated by silverfish (Zygentoma: Lepismatidae) and malachite beetles (Psiloderes). A few herbivores and fungivores were collected in the wadis, but none were collected in the ridges $( n { = } 7 )$ ：
+
+Certain arthropods were more numerous in the ridges than in the wadis (Fig. 6). These included the jumping spiders, silverfish and malachite beetles,as well as one species of ant, and one species of darkling beetle. In addition,various life stages of certain arthropods were observed in the ridges,namely silverfish and rove beetles (Staphylinidae).In fact,16 of the 18 rove beetle larvae were collected in the ridges.These larvae are either predators or detritivores.
+
+![](images/64e2508eb3aee2cfaa0c503610b9b566bc95f84bf7981e963dcc1e13f15aa66a.jpg)  
+Fig.6 Community composition in the ridges and wadis. (a),soil mesofauna; (b),predators; (c),ants; (d). detritivores.A-F are 6 blocks.
+
+# 4 Discussion
+
+The results of this study clearly reveal two striking conclusions.First, although vegetation is absent from the ridges,life in the ridges is abundant,making up $2 6 \%$ of total arthropod abundance (Fig. 4). Second,communities in the ridges are predominantly distinct from those of the riverbeds below, and not merely a reduced abundance of riverbed communities. This is evident from the clusters revealed by PCA,the afiliation of certain arthropods with the ridges, and the low degree of overlap between the identity and activity of arthropods in the ridges and wadis (Figs. 2 and 3). Certain arthropods， namely silverfish (Zygentoma: Lepismatidae), malachite beetles (Psiloderes),and predatory mites (Anystidae),were consistently observed at high densities,across all sampling sites in the ridges (Fig. 4). It remains unclear how these arthropods complete their life cycle within the harsh conditions of the ridges.
+
+Traditionally, hyper-arid arthropods are thought to depend on vascular plants. Herbivores are thought to be restricted to vegetated areas,and the survival of arthropods beyond the limit of plant life is explained by wind-blown organic detritus, produced near vegetation (Louw and Hamilton, 1972; Crawford and Taylor, 1984; Watson, 1989).It is quite possible that the results of the present study are merely one more example of this allochthonous detritus paradigm. However, growing evidence has linked hyper-arid arthropods to lithophilic autotrophs,such as lichens (Shachak et al.,1987; Lalley et al.,2Oo6). In the past, these links have only been demonstrated in areas of dense lichen coverage, and in proximity to vascular plants. However, lithophilic autotrophs such as cyanobacteria are well known from the driest environment of the Earth, and may be ubiquitous on suficiently stable hyper-arid substrates (Warren-Rhodes et al., 2Oo6; Pointing and Belnap, 2012).Previous studies of allochthonous detritus in deserts are largely restricted to sand dunes, where the unstable substrate prevents the development of robust microbial communities (Crawford and Taylor,1984). In contrast, the rocky cliffs of the study area provide an ideal environment for the development of cryptic autotrophs such as lichen and cyanobacteria. Many of the arthropods observed in ridges,such as silverfish and darkling beetles (Tenebrionidae) are best known as detritivores, but these groups are also known to feed on lichens (Furniss and Carolin 1977; Wessels et al.,1979).
+
+If the arthropod communities of the ridges do in fact rely on a local food source, this would bring into question the life history of many hyper-arid arthropods，which are thought to be dependent on plant-derived food resources. Such a discovery would provide a novel perspective on the functioning of hyper-arid ecosystems,and might significantly impact other areas of dryland ecology. Currently,however, the ecology of the ridges remains unclear.Due to the unexpected results of the study,additional research will be required to shed light on the ecology of the ridges, including surveys of lithophilic autotrophs. Surveys of ridges farther removed from riverbeds would clarify the relationship (or lack thereof) between the arthropods of the ridges and the vegetation of the wadis. Genetic barcoding of silverfish gut contents could further clarify the food sources available to arthropods of the ridges.
+
+# 5 Conclusions
+
+The unvegetated, hyper-arid ridges of the study area support novel arthropod communities, which differ from the communities of neighboring vegetated areas.The dominant arthropods in the ridges,including silverfish (Zygentoma)，malachite beetles (Psiloderes)， and darkling beetles (Tenebrionidae),are best known as detritivores. Arthropods were represented at various life stages in the ridges,and predators such as jumping spiders (Salticidae) and certain mites (Anystidae) were also well represented. It remains unclear what food sources are available in the ridges, where conditions are too harsh to support plant life. However, the abundance of arthropods in the ridges raises the possbility that local food sources, independent from vascular plant life, could play a key role in ridges communities. Further investigation of trophic systems in the harsh environments of the ridges may provide novel perspectives on the life history of hyper-arid arthropods,and the structure of hyper-arid ecosystems.
+
+# Acknowledgements
+
+Specialthanks to Ms.AmeliaLIBERATOREforher counsel throughout the projectand asistance in the field,Mr Shmuel BERMAN for his knowledge of local topography,Mr. Gabriele FRANZINI for his expertise in Melyrid
+
+betles,and Dr. Jawad HASAN-SHOQEIR for his ongoing support throughout the project. Ms.Eli GRONER is supported by the Ministry ofScience and Technology. We also thank Ms.Michell FINZIfor editing this paper.
+
+# References
+
+AbdEl-Ghani M,AmerWM.2oo3.Soil-vegetationrelationshipsinacoastaldesert plainofsouthern Sinai,Egypt.Journal of Arid Environments,55(4): 607-628.   
+AlatawiAS,GilbertF,ReaderT2020.Modellingterestrialreptilespeciesrichnessdistributionsandhabitatsuitabilityin Saudi Arabia.Journal of Arid Environments,178:104153.   
+Barrow C J.1992.World Atlas of Desertification. Kent: Land Degradation and Development, 3: 249-249.   
+BirdT,BouskilaA,GronerE,etal2.Canvegetationremoalsuccessullrestorecoastalduneioiversityross ultiple taxa? Applied Sciences,10: 2310.   
+BregovicP,Zagmajster M.2016.Understanding hotspots within a global hotspot-identifying the driversofregional species richness patterns in terrestrial subterranean habitats.Insect Conservation and Diversity, 9(4): 268-281.   
+Cammerat L H. 2002.A review of two strongly contrasting geomorphological systems within the context of scale.Earth Surface Processes and Landforms,27(11):1201-1222.   
+Crawford CS,TaylorEC.1984.Decomposition inarid environments:roleof the detrtivore gut.South AfricanJourmal of Science, 80(4): 170.   
+DeanWRJ,MiltonSJ,JeltschF.1999.Large tres,fertileislands,andbirds inaridsavanna.JournalofAridEnviroments, 41(1): 61-78.   
+DIGiovanni E,PalombiniA.2Oo2.Desertification,SustainabilityandArchaeology:Indications from thePastforanAfrican Future.In:Bonsignori Editore.Origins:PrehistoryandProtohistoryof AncientCivilizations.Italia:Universitadi Roma, 303-334.(in Italiano)   
+El-BanaMI,Al-Mathnani A.2Oo9.Vegetation-soilrelationships inthe wadi Al-Hayat areaoftheLibya Sahara.Australian Journal of Basic and Applied Sciences,3(2): 740-747.   
+Fosati J,Pautou GPeltierJP.1999.Waterasresourceand disturbance forwadis vegetationinahyperaridarea (Wadi Sannur, Eastern Desert,Egypt). Journal of Arid Environments, 43(1): 63-77.   
+FurnissRL,Carolin VM.1977. Western forest insects (No.1339).Washington DC: US Departmentof Agriculture,Forest Service.doi: 10.5962/bhl.title.131875   
+Ginat H,Shlomi Y,Batarseh S,etal.2Ol1.Reductioninprecipitation levelsintheAravaValley (southernIsraeland Jordan), 1949-2009.Jounal of Dead-Sea Arava Research,1: 1-7.   
+GiorgiF,HewitsonB,ArittR,etal.2Ool.Regional Climate Information-EvauationandProjections.In:HoughtonJH,Ding Y,Grigggs M,etal. Climate Change 20ol: The Scientific Basis.Gambridge: Gambridge University Press,583-638.   
+GoldreichY,KarniO.Oo1.CimatendprecipitationregimeintheravaVally,rael.IsraelJouralofarthiences,50(2): 53-59.   
+HacketTD,KorineC,HolderiedMW.2013.Theimportanceofacaciatrees forinsectivorous batsandarthropods in the Arava Desert.PloS ONE,8(2): e5299.   
+Holtgrieve GW,SchindlerDE,JewettPK.2009.Large predatorsand biogeochemical hotspots: brown bear(Ursus arctos) predation on salmon alters nitrogen cycling in riparian soils.Ecological Research,24(5): 1125-1135.   
+IPCC (Intergovernmental Panel on Climate Change）2007.Climate change 2007: Synthesis report.Contributionof working groups I,IandIItothefourthasessmentreportofthe IntergovernmentalPanelonClimateChange.Geneva: ICC.IPCC (Intergovernmental Panelon Climate Change)2007.Climate change 2007: Synthesis report.Contributionof working groups I,I and IIto the fourth assessment report of the Intergovernmental Panel on Climate Change. Geneva: IPCC.   
+KassasM,Girgis W.1965.Habitat and plantcommunities inthe Egyptian desert:VI.Theunitsofadesert ecosystem.Journal of Ecology, 53(3): 715-728.   
+Kremen C,Colwell R K,Erwin TL,etal.1993.Terrestrial arthropod assemblages:Theiruse inconservation planning. Conservation Biology,7(4): 796-808.   
+Laly J,VilesHA,HenschelJetalo6.Lichen-domnatedoilrustsasrtropodhabitatinardeserts.JoualofArid Environments,67(4): 579-593.   
+Liu R,ZhuF,Steinberger Y2016.Changesinground-dwellng arthropoddiversityrelatedtothe proximityofshrubcoverina desertified system.Journal of Arid Environments,124:172-179,doi: 10.1016/j.jaridenv.2015.08.014.   
+Louw GN,Hamilton WJ.1972.Physiologicalandbehavioural ecologyof theultrapsammophilous Namib Deserttenebrionid, Lepidochora argentogrisea. Madoqua,2(1): 87-95.   
+MayorAG,Bautista S,SmallEE,etal.2O08.Measurementoftheconnectivityofrunof sourceareas as determined by vegetationpatternandtopography:Atolforassessingpotentialwaterandsoillosses indrylands.WaterResources Research, 44(10),doi: 10.1029/2007WR006367.   
+Meserve PL,Glanz WE.1978.Geographical ecologyof small mammals in the northern Chilean arid zone.Journal of Biogeography, 5(2): 135-148.   
+Monod T.1954.Contracted anddifuse modesof Saharan vegetation.In: Cloudsley-ThompsonJL.Biologyof Deserts.London: Institute of Biology,35-44.   
+Nawaz MA,Rafique M,KhanNK.20l1.Paternof mammalian distribution in the Chagai Desert,Balochistan,Pakistan. Pakistan Journal of Zoology, 43(5): 841-847.   
+Noy-Meir I.1973.Desert ecosystems: environmentand producers.Annual Revisionof Ecological Systems,4(1): 25-51.   
+ParkerWS,PiankaER.1975.Comparative ecologyof populations of thelizard Uta stansburiana.Copeia,4: 615-632.   
+Pointing SB,Belnap J.2012.Microbialcolonizationandcontrols in drylandsystems.Nature Reviews Microbiology,0(8): 551-562.   
+PueyoY,Moret-FeandezD,aizH,etal.Ol3.Relationshipsbetweenplantspatialpatters,waterinfiltrationcapacitynd plantcommunitycomposition in semi-arid Mediterranean ecosystemsalong stress gradients.Ecosystems,16(3):452-466.   
+RebeloH,BritoJC.2o7.Bat guild structureand habitatuseinthe SaharaDesert.African JournalofEcology,45(2):8-230.   
+Rubinstein Y,GronerE,YizhaqH,etal.2O13.Aneco-spatial index forevaluatingstabilizationstateofsanddunes.Aeolian Research,9: 75-87.   
+Ruhm J,BhnertT,WeigendM,etal.2O2o.Plantlifeatthedrylimit-spatialpatternsoffloristicdiversityandcomposition around the hyperarid core of the Atacama Desert.PloS ONE,15(5): e0233729.   
+Schwining S,SalaOE,Loik ME,etal.2004.Thresholds,memoryand seasonality:understanding pulse dynamics in arid/semi-arid ecosystems. Oecologia,141:191-193.   
+ShachakM,Jones CG,GranotY.1987.Herbivoryinrocksandthe weathering ofadesert.Science,236(4805):1098-1099.   
+SwiftMJ,HealOW,AdersonJ,etal979.Decompositioniterestrialecosysems.TheQuarterlyReviewofiology6: 96.   
+ter Braak CJF,Smilauer P.2015.CANOCO Reference Manual and CanoDraw for Windows User's Guide: Software for Canonical Community Ordination (version 5.0).New York:Microcomputer Power.   
+Trenberth KE.2011. Changes in precipitation with climate change. Climate Research, 47: 123-138.   
+Valavanis VD,KapantagakisA,Katara I,etal.2O04.Criticalregions:a GS-based modelof marineproductivityotspots. Aquatic Sciences,66(1): 139-148.   
+Ward D.20o9.The Biology of Deserts.New York: Oxford University Press,304.   
+WardDF,StanleyM C.2004.The value of RTUs and parataxonomy versus taxonomic species.New Zealand Entomologist, 27(1): 3-9.   
+Waren-Rhodes KA,Rhodes KL,Pointing SB,et al.2O06.Hypolithic cyanobacteria,dry limit of photosynthesis,and microbial ecology in the hyperarid Atacama Desert.Microbial Ecology,52:389-398.   
+WatsonRT.1989.Nicheseparation inNamibDesert duneLepismatidae (Thysanura,Insecta): detritivores inanalochthonous detritus ecosystem.Journal of Arid Environments,17(1):37-48.   
+Wessels D CJ, Wessls LA,Holzapfel WH.1979.Preliminaryreportonlichen-feeding Coleoptera occuring on Teloschistes capensis in the Namib Desert, South West Africa.Bryologist, 82(2): 270-273.   
+WhiteRP,NackoneyJ.2Oo3.Drylands,people,andecosystemgoodsandservices:aweb-based geospatialanalysis.World Resources Institute.[20o3-02-01].https://www.wri.org/drylands-people-and-ecosystem-goods-and-services.   
+Zohary M.1962.Plant Life of Palestine: Israel and Jordan.New York: Ronald Press,393-394.

@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "Vegetation dynamics of coal mining city in an arid desert region of Northwest China from 20oo to 2019 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Siyuan, DUAN Yufeng, ZHANG Yuxiu\\*, GUO Jinjin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SchoolofChemical&EnvironmentalEnginering,ChinaUniversityof Miningand Technology(Beijing),Beijing100083, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Coal mining has led to serious ecological damages in arid desert region of Northwest China. However,effects of climatic factor and mining activity on vegetation dynamics and plant diversity in this region remain unknown. Wuhai City located in the arid desert region of Northwest China is an industrial city and dominated by coal mining. Based on Landsat data and field investigation in Wuhai City， we analyzed the vegetation dynamics and the relationships with climate factors,coal mining activity and ecological restoration projects from 2000 to 2019. Results showed that vegetation in Wuhai City mostly consisted of desert plants,such as Caragana micropbyll,Tetraena mongolica andAchnatberum splendens.And the vegetation fractional coverage (VFC) and greenness rate of change (GRC) showed that vegetation was slightly improved during the study period.Normalized difference vegetation index (NDVI) was positively correlated with annual mean precipitation,relative humidity and annual mean temperature,indicating that these climate factors might play important roles in the improved vegetation. Vegetation coverage and plant diversity around the coal mining area were reduced by coal mining, while the implementation of ecological restoration projects improved the vegetation coverage and plant diversity. Our results suggested that vegetation in the arid desert region was mainly afected by climate factors,and the implementation of ecological restoration projects could mitigate the impacts of coal mining on vegetation and ecological environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: climate factor； ecological restoration; normalized diference vegetation index (NDVI)； plant diversity; Wuhai City ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vegetation is an important part of the global environment and affects several processes, including terrestrial carbon cycle,energy exchange and water balance (Cao and Woodward,1998; Huang and Xue,2O16). The growth of vegetation is afected by climate factors,such as precipitation, temperature and wind speed. Vegetation is not only sensitive to climate but also regulates climate change through feedback of geophysical and biogeochemical mechanisms (Zhang et al., 2013). For example, Xu et al. (2O18) analyzed the dynamic changes of vegetation in Mu Us Sandy Land from 1981 to 2013 using remote sensing technology and landform analysis methods,and found that the increase in vegetation was related to a reduction in wind power and vegetation colonization or afforestation on the bare sand dunes. The dynamic changes of Sahel vegetation showed that increased precipitation was beneficial to vegetation restoration during 1984-2011 using the Global Inventory Modeling and Mapping Studies (GIMMS-3g） dataset and field investigation methods (Dardel et al.，2O14). Vegetation dynamics analyzed by the Moderate Resolution Imaging Spectroradiometer (MODIS） data of the Hulun Buir meadow steppe were mainly related to temperature，with no time lag，whereas the impact of precipitation was not obvious (Lin et al.,2O15). In addition to climate factors, anthropogenic activities, such as open-pit coal mining,overgrazing and land use conversion from grassland to cropland, have destroyed the natural vegetation, leading to the degradation of ecological environment. For example, natural grassland was destroyed by cultivation, grazing activities and invasion of alien plant species (Wu et al.，2OO9). The mining has led to land desertification in Wuhai City of Inner Mongolia Autonomous Region, China (Ruan et al.,2O2O). In the Yushenfu coal mine in Shaanxi of China, the area of vegetation ecological degradation caused by coal mining was $42 \\%$ higher than that of unexploited areas analyzed by normalized difference vegetation index (NDVI) data, indicating that coal mining activity had a negative impact on vegetation ecology (Liu et al.，2019). Eco-environmental projects could impact regional land use and vegetative coverage (Zhang et al., 2018).Vegetation greenness has significantly increased over the past 27 years in eastern and southern America, owing to forest management interventions (Hicke et al., 2OO2). Vegetation area and NDVI in different climate zones of China from 1990 to 2O15 increased by more than $50 \\%$ and $40 \\%$ ,respectively, after the implementation of ecological restoration projects (Shi et al., 2020). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vegetation fractional coverage (VFC) in Inner Mongolia showed an increasing trend from 1990 to 2015.Spatially, VFC had an obvious decreasing trend from northeast to southwest in Inner Mongolia (Zhang,2O18). VFC in Inner Mongolia gradually decreases from east to west from 1982 to 2O1O,and vegetation coverage was well correlated with precipitation (Tong et al., 2016). The area of reduced VFC was mainly distributed in the west of Alxa and scattered in the southern region in central Inner Mongolia from 200l to 201O (Tong et al.,2016).Wuhai City is an important coal production region in Inner Mongolia, China. Open-pit mining of coal in this region has caused a variety of environmental issues,such as land destruction，waste stacking,dust polution, topsoil damage and soil degradation (Feng et al., 2O19). Vegetation was degraded finally and ecological environment deteriorated (Dong et al., 2O11). Deciduous shrub Tetraena mongolica Maxim that is a protected Zygophyllaceae plant distributed in Wuhai City (Wang et al., 2014).Due to the contamination of heavy-metal molybdenum (Mo） and cobalt $\\scriptstyle ( \\mathbf { C } _ { 0 } )$ in the soil caused by coal mining, T. mongolica population was decreased (Wang et al., 2O14). The spatial distribution of land damage in Wuhai City was featured by atenuation around the mining working face,a downward trend of NDVI from 2OOO to 2OO9 and then an upward trend of NDVI from 2009 to 2015 (Guo et al.,2018). With the continuous expansion of mining area and the increasing pressure of regional ecological environment, more attention needs to be paid to the vegetation dynamics in mining areas,typically in the arid regions. Over the past 2O years, the spatiotemporal changes in vegetation dynamics in the arid desert region of Northwest China were not well discussed, particularly in Wuhai City. The interactions between vegetation coverage and climate factors or human activities in the region remain unclear. Accordingly, the efect of coal mining on vegetation coverage and plant diversity in the regional scale was unknown. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study, based on Landsat TM (thematic mapper) and Landsat OLI (operational land imager) data, combined with field surveys,we analyzed vegetation dynamics and the relationships with coal mining activity and climate factors from 2OoO to 2O19 in Wuhai City. The aim of this study is to (1) explore the change in vegetation dynamics in Wuhai City from 2000 to 2019;(2) to analyze the relationship between vegetation and climate factors; and (3) to distinguish the effects of coal mining on vegetation coverage and plant diversity. This study could provide important information for ecological restoration in the coal mining area of arid desert regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wuhai City is located in Inner Mongolia Autonomous Region, Northwest China $( 3 9 ^ { \\circ } 1 5 ^ { \\prime } - 3 9 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { N }$ $1 0 6 ^ { \\circ } 3 6 ^ { \\prime } – 1 0 7 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E }$ ; Fig.1). The total area is approximately $1 7 5 4 . 0 \\mathrm { k m } ^ { 2 }$ .Wuhai City is comprised by three municipal districts,Haibowan district, Wuda district and Hainan district and the total population was $5 6 . 6 1 \\times 1 0 ^ { 6 }$ in 2019. The city belongs to the arid desert region with low precipitation, high evaporation and heavy sand-wind. The average annual precipitation ranges from 78.1 to $2 3 9 . 9 \\ \\mathrm { m m }$ with $90 \\%$ occurring between May and September. The annual average temperature ranges from $9 . 2 ^ { \\circ } \\mathrm { C }$ to $1 1 . 3 ^ { \\circ } \\mathrm { C }$ ， and the annual average relative humidity is approximately $3 7 \\% - 4 5 \\%$ . The annual mean wind speed is approximately $2 . 3 { - } 3 . 1 ~ \\mathrm { m } / \\mathrm { s }$ ,and annual maximum wind speed is approximately $1 3 . 6 { - } 2 1 . 0 ~ \\mathrm { m / s }$ . Sandstorms are frequent in this region, and strong winds mainly originate from northwest. Soils are mainly classified as gray desert soils and brown calcareous soils. The major vegetation types in the area include trees (Elaeagnus angustifolia,Pinus and Populus), shrubs (Artemisia ordosica, Haloxylon persicum, Caragana spp., Tetraena mongolica and Tamarix spp.)， grasses (Stipa bungeana, Poa sphondyloides and Carex spp.) and other herbs (Agriophyllum) (Xu et al.,2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b590b4ce045ce94111c2837ab6d25dde5c198b7fded744cdac3d05a985d247a4.jpg",
+        "img_caption": [
+            "Fig.1Location of study area and distribution of sampling site in Wuhai City(a,band c).Area M(d) is near to open-pit coal mine.Area M includes the core reserve area (M1),reserve area (M2)and marginal area (M3) of $T .$ （20 mongolica and open-pit coal mine (CM). BG, botanical garden; DR,dump waste reclamation area; TmD, $T .$ mongolica disturbance area;W,wetland;CR,abandoned coking vegetation restoration area; SR,subsidence restoration area; NS, natural shrub vegetation area; $\\mathrm { T m N }$ ,T.mongolica Nature Reserve; GM,GanderMountain. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Field investigation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Twenty-two sampling sites in Wuhai City were selected for field vegetation investigation in June 2019.These sampling sites were divided into nine areas: T. mongolica Nature Reserve (TmN), T. mongolica disturbance area (TmD), natural shrub vegetation area (NS), Gander Mountain (GM), dump waste reclamation area (DR)，abandoned coking vegetation restoration area (CR), subsidence restoration area (SR), botanical garden (BG) and wetland (W） near by the Yellow River. At each sampling site, three representative parallel quadrats were set up,and the latitude and longitude of the quadrats were recorded by a global positioning system (GPS). The size of each quadrat was $1 5 \\ \\mathrm { m } { \\times } 1 5 \\ \\mathrm { m }$ .In addition, statistics were performed in each quadrat on vegetative indicators such as the coverage,height, plant density and composition. Alpha diversity indices such as Simpson's index, Shannon-Wiener's index and Pielou's evenness were calculated as described in Gonzalez-Hernández et al. (2O2O). Beta diversity represents the extent of species replacement or biotic change along an environmental gradient. Cody's index and Sorensen's index of beta diversity were calculated as described in Gebrehiwot et al. (2019). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Remote sensing methodology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Data sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study,Landsat $3 0 \\mathrm { - m }$ resolution data were employed and obtained from the United States Geological Survey (http://earthexplorer.usgs.gov/)，and a total of 13 stages of remote sensing images (Landsat TM or Landsat OLI) were selected from 200O to 2019 (Table 1). To exclude the seasonal impact of crops within a year, this study focused on the growing season from May to August. In addition，images with few clouds and shadows covering the study area were preferentially selected when possible,or the influences were minimized. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9833233eec07a150cfe2e0f53b9b658705b34af7bc4fc83b5f6d97435a6f76cb.jpg",
+        "table_caption": [
+            "Table1 Remote sensing images used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Remote sensing type</td><td>Date (mm/dd/yy)</td><td>Remote sensing type</td><td>Date (mm/dd/yy)</td></tr><tr><td>Landsat TM</td><td>08/29/2000</td><td>Landsat TM</td><td>06/18/2011</td></tr><tr><td>Landsat TM</td><td>08/19/2002</td><td>Landsat OLI</td><td>07/28/2014</td></tr><tr><td>Landsat TM</td><td>08/15/2003</td><td>Landsat OLI</td><td>05/30/2016</td></tr><tr><td>Landsat TM</td><td>06/01/2005</td><td>Landsat OLI</td><td>05/17/2017</td></tr><tr><td>Landsat TM</td><td>08/14/2006</td><td>Landsat OLI</td><td>08/29/2018</td></tr><tr><td>Landsat TM</td><td>08/10/2007</td><td>Landsat OLI</td><td>06/19/2019</td></tr><tr><td>Landsat TM</td><td>06/28/2009</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 NDVI ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NDVI,calculated as the ratio of the difference between near-infrared and red visible reflectance values to their sum, is widely recognized as a method for studying the changes in terrestrial vegetation patterns and the ability of vegetation to absorb photosynthetically active radiation (Pettorelliand and Fang,2OO5; Zhu et al., 2015). In this study， we calculated NDVI in ENVI (environment for visualizing images) v5.1 after removing the influence of clouds,atmosphere and solar elevation angle (Piao et al., 2Oo1). Linear regresson was applied to evaluate the strength of linear trends in NDVI over time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 VFC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VFC is a quantitative index for measuring vegetative cover, and we calculated VFC from NDVI image dataset using the dimidiate pixel model method. VFC is obtained as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { V F C = ( N D V I { - } N D V I _ { s o i l } ) / ( N D V I _ { v e g } { - } N D V I _ { s o i l } ) , }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { \\Delta N D V I _ { v e g } }$ is the NDVI of pure vegetation pixels; $\\mathrm { \\Delta N D V I _ { \\mathrm { { s o i l } } } }$ is the NDVI of pure soil pixels; and VFC is the vegetation fractional coverage. Based on NDVI cumulative frequency table, we extracted a cumulative frequency of $5 \\%$ for $\\mathrm { \\Delta N D V I _ { \\mathrm { { s o i l } } } }$ and a cumulative frequency of $9 5 \\%$ for $\\mathrm { \\Delta N D V I _ { v e g } }$ (Chu et al., 2O19). The spatial distribution of VFC was then mapped across the study area. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Greenness rate of change (GRC) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GRC is defined as the slope of the smallest power-function linear regression equation for the inter-annual change in the synthetic NDVI during a given period.The least-squares method was used to simulate the temporal trends of average NDVI in the study area (Duan et al., 2O11). The GRC is calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G R C } = \\frac { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i \\times \\mathrm { N D V I } _ { i } - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } i \\times \\mathrm { N D V I } _ { i } } { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } - ( \\sum _ { i = 1 } ^ { n } i ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where GRC is the slope of this trend line; $n$ is the number of years involved in the calculation; $i$ is the position of the year involved in the calculation;and $\\mathrm { N D V I } _ { i }$ is the average NDVI value of the first $i$ year. The result reflects the trend of annual average NDVI during the study period.When $\\mathbf { G R C } { > } 0$ ，NDVI values increase during the corresponding period; otherwise， NDVI values decrease $\\mathrm { ( G R C { < } 0 ) }$ or remained constant $\\scriptstyle ( \\mathbf { G R C = 0 } )$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Land cover ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Land cover information is recognized as one of the crucial data components required for many aspects of global change studies and environmental applications (Sellers et al.,1995).For the land cover classification， raw remote sensing images were orthorectified and calibrated to top-of-atmosphere reflectance and used as the primary input data. We divided land cover scheme of Wuhai City according to the \"Land Use Status Classification\" national standard (GB/T 2010-2017). Training sites with known classes were identified by field surveying，and their signatures were generated. Then， support vector machine (SVM) classifier was used for supervised classification of the image. SVM is a nonparametric supervised statistical classification technique. SVM-based techniques are quite practical for use in remote sensing because of their capability to produce higher classification accuracy even with limited training datasets (Mantero et al.,2Oo5),and these techniques have been adopted for categorizing degraded coal mining land (Karan et al., 2O16). Each pixel in the training dataset was further examined using high-resolution images in Google EarthTM and Landsat images to ensure that land cover labels were correctly assigned. In the accuracy assessment, a confusion matrix was created, which was represented by a table that shows correspondence between the classification result and a reference image assigned to a particular category. Then, the overall accuracy was calculated by the ratio of proportion of correctly classified pixels to total number of pixels in the confusion matrix. Kappa coefficient was also calculated to measure the agreement between classification and truth values. According to the evaluation, overall accuracy of each category classification exceeded $8 5 \\%$ ， and Kappa coefficient was above O.7,indicating that final classification results had acceptable accuracy and small error. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Climate factors ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Meteorological data were provided by the National Meteorological Bureau of China from 2000 to 2019,including daily data of precipitation, temperature,relative humidity, mean wind speed and maximum wind speed observed from the meteorological station of Wuhai City. The annual precipitation (AP),annual mean temperature (MT), mean relative humidity (RH) and mean wind speed (WS） were calculated with the meteorological data. Strong wind frequency $( \\mathrm { W } \\% )$ was calculated from the daily wind data and represented the percent of time during which the wind speed surpassed the threshold velocity required for sand entrainment. Thus we used $6 \\mathrm { m / s }$ at $1 0 \\mathrm { m }$ height as the threshold velocity in this study (Xu et al.,2018). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Pearson's coefficients $( r )$ were calculated between NDVI and climatic factors to investigate its possible relation. Ordinary least squares (OLS） regression was performed to detect the linear trends of NDVI and climate factors.Locally weighted scater point smoothing (LOWESS) method was used to smooth the data of NDVI and climatic factors (Basarin et al.,2O16). The slopes acquired from the OLS could quantify the changing rate, while LOWESS could depict the tendency in a finer timescale. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variations in VFC and GRC in Wuhai City ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VFC ranged from O.OO to 1.OO in Wuhai City and was divided into five levels (Table 2). The temporal and spatial distributions of VFC showed obvious heterogeneity in Wuhai City from 2000 to 2019(Figs.2 and 3). VFC in Wuhai City was mainly medium-high coverage (0.30-0.60) and high coverage (0.60-1.00)in 2000.From 2000 to 2009,low coverage (0.00-0.05) areas displayed an upward trend first and then a downward trend，while high coverage (O.6O-1.OO） areas continuously declined， indicating that vegetation degradation occurred during this period. Medium coverage (0.15-0.30) areas decreased dramatically，while high coverage (0.60-1.00) areas increased rapidly from 2O09 to 2O19, indicating that vegetation was improving at this stage. Moreover, the area with a high coverage (O.6O-1.OO) increased from $5 3 . 1 \\%$ in 2000 to $6 0 . 9 \\%$ in ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2019,indicating that vegetation was improved during the 19 a period.These results suggested that vegetation degraded at first and then underwent a restoration process in the region. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dafe503a5306ecec0b8ffff3bd7f11bc354e07263ced0e5e3d08f4dcf5b78f0b.jpg",
+        "table_caption": [
+            "Table 2Classification of vegetation fractional coverage (VFC) in Wuhai City from 2Ooo to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Level</td><td>Value of VFC</td><td>Description</td></tr><tr><td>Low coverage</td><td>0.00-0.05</td><td>Moderate desertification land,rock,buildings,opencast mine,waste dump and lowyield grassland</td></tr><tr><td>Medium-low coverage</td><td>0.05-0.15</td><td>Medium-low yield grassland, industrial land and sporadic vegetation</td></tr><tr><td>Medium coverage</td><td>0.15-0.30</td><td>Unutilized land,medium-low yield grassland and medium-low shrubland</td></tr><tr><td>Medium-high coverage</td><td>0.30-0.60</td><td>Medium-high yield grassland,medium-high shrubland and sparse woodland</td></tr><tr><td>High coverage</td><td>0.60-1.00</td><td>High-yield grassland,dense shrubland,reclaimed dump,cropland and dense woodland</td></tr><tr><td>(a)2000</td><td>(b)2006 (c)2009</td><td>(d)2011 (e)2019 N 10.60-1.00</td></tr><tr><td></td><td></td><td>A VFCvalue</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ecd74f205a0503ee1b559a77802445cb85a9d32ddc633f66141bd544c1b02ed.jpg",
+        "img_caption": [
+            "Fig.2Spatiotemporal distribution of vegetation fractional coverage (VFC) in Wuhai City. (a),2OOo; (b),2006; (c),2009;(d),2011;(e),2019. ",
+            "Fig.3Area changes in vegetation fractional coverage (VFC) in Wuhai City from 2OoO to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We divided GRC into six categories based on the magnitude of the change ( $( P { < } 0 . 0 5$ ; Table 3). Areas of moderate degradation $( - 0 . 1 0 - - 0 . 0 5 )$ and slight degradation $( - 0 . 0 5  – 0 . 0 0 )$ accounted for $5 4 . 7 3 \\%$ and $3 5 . 9 9 \\%$ of total area in Wuhai City, respectively, indicating that vegetation degraded from 2000 to 2009.The area of moderate improvement (0.05-0.10) accounted for $8 3 . 1 0 \\%$ of total area,indicating that vegetation improved from 2009 to 2019.The slight improvement area (0.00-0.05） accounted for $8 9 . 6 8 \\%$ of total area from 20oO to 2O19,and the area of vegetation improvement was larger than that of degradation, indicating that the overall vegetation generally improved during the 19 a period. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Land cover in Wuhai City ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Land cover in Wuhai City was classified into ten categories (Fig. 4). The main water body area covered a branch of the Yellow River surrounded by wetland and cropland.Residential land was mainly distributed in the middle of Haibowan district. Coal mining area was mainly distributed in eastern and western part of Wuhai City,while industrial land was mainly distributed around the coal mining area. Woodland was mainly distributed in the Gander Mountain. Grassland and shrubland were dispersedly distributed throughout the entire region. Barren land was sporadically found in the industrial area and around the coal mining area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 3Dynamics of greenness rate of change (GRC) during three stages in Wuhai City "
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2000-2009 2009-2019 2000-2019 Value of Category Are Percentage Amea Percentage Area Percentage area (%) area (%) area (%) <-0.10 Severe degradation 57.82 3.30 66.09 3.77 6.84 0.39   \n-0.10- -0.05 Moderate degradation 960.02 54.73 24.08 1.37 22.56 1.29   \n-0.05-0.00 Slight degradation 631.30 35.99 26.01 1.48 102.29 5.83   \n0.00-0.05 Slight improvement 49.26 2.81 121.68 6.94 1572.91 89.68 Moderate   \n0.05-0.10 17.97 1.02 1457.92 83.10 46.33 2.64 improvement >0.10 Significant 35.86 2.04 58.23 3.32 0.18 0.01 improvement (a)2000 (b)2006 (c)2009 (d)2011 (e)2019 NLegend Barren land A Grassland Shrubland Cropland Woodland Wetland Waterbody Coalminingarea Industrial land Residential land 0510km ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.4Dynamics ofannual landcover classification in Wuhai City.(a),2000; (b),206; (c),2009; (d),21; (e), 2019. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The areas of water body,residential land, industrial land and coal mining area in Wuhai City significantly increased during the 19 a period,accounting for $3 . 7 \\%$ ， $1 1 . 4 \\%$ ， $2 . 9 \\%$ and $1 0 . 6 \\%$ in 2019,respectively (Fig. 5). Water body area dramatically increased after completion of Wuhai Lake project in 2O13 and encroached on the areas of barren land，grassland and shrubland thereafter. Increase in the areas of residential land,industrial land and coal mining were roughly in accordance with the rise in raw coal production after 2Oo6 (Fig.5). Areas of grassand and shrubland were occupied by the residential land,industrial land and coal mining,and vegetation in coal mining was degraded from shrubland to barren land. Areas of cropland and wetland were relatively stable,and might mainly be attributed to the 'cropland and wetland protection' policies of Chinese government. Areas of barren land tended to expand first and then decreased, while area of shrubland decreased first and then expanded moderately,and area of grassland markedly decreased after 2O10.The afforestation and ecological restoration program were implemented in mining area, such as the backfilling of open-pit coal mine and reclamation of waste dumps, area of shrubland was improved after 2010. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fa74c66f55c3ae9a8d190a9f12fee25184db8f6548b3e2ecbc94bf7a6b02e4a.jpg",
+        "img_caption": [
+            "Fig.5Area of land cover and coal output in Wuhai City from 2OoO to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 VFC in the coal mining area ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VFC in Wuhai City decreased first and then increased from 200O to 2O19,(Fig.6a),the trend of VFC in area M (Fig.1d) was in line with Wuhai City (Fig. 6a). VFC increased with the distance of the plots to open-pit coal mine (Fig. 6b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In 2000, VFC in area M revealed that medium-high coverage (0.30-0.60) and high coverage (0.60-1.0O) was dominant, accounting for $2 0 \\% - 5 0 \\%$ and $5 0 \\% - 8 0 \\%$ , respectively (Fig. 6c). Area of low coverage (0.00-0.05) in M3 and CM plots gradually increased from 2000 to 2018, while area of high coverage (O.6O-1.0O) in M1 and M2 plots reached $98 \\%$ , indicating that coal mining destroyed the land surface structure and dump waste occupied the $T .$ mongolica area. Vegetation showed degradation in open-pit coal mine and surrounding areas during this period. The closer to the mine area a plot is,the lower the vegetation coverage and the more severe the impact of coal mining activity on vegetation is. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d051a7d3f3436f7bf492de6f7694271358bd14b560f3a2f374a9d9cfb4f23a9.jpg",
+        "img_caption": [
+            "Fig.6Change in vegetation fractional coverage (VFC) over a chronological sequence in Wuhai City(a) and area M(b) and area percentage of different VFC levels in M1 (core reserve area)，M2 (reserve area)，M3 (marginal area) and CM(open-pit coal mine) in 20oo,20o9 and 2018 (c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 NDVI in different sampling sites ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To reveal the vegetation dynamics in Wuhai City from 2O0O to 2O19, we analyzed NDVI at nine sampling sites (Fig.7). NDVI in NS was increased over two decades,and provided evidence for the influence of climate factors on vegetation in the region. BG was built in 2OO3,vegetation in SR was restored with trees and shrubs from 2OO6,and the greening plants were irigated by the drip irrigation system in both sites,and thus NDVI of the two sites was the highest. NDVI of GM was gradually increased under the influence of afforestation in recent years. TmN and W areas located in the nature reserves,and their NDVI was higher than that in NS.TmD was the closest to open-pit mine,and its NDVI was lower than that in TmN,indicating that vegetation was severely reduced by coal mining activity. NDVI of CR and DR was lower than that of TmN, suggesting that vegetation was destroyed by coal exploitation. Coal mining activity aggravated vegetation degradation, while the waste dumps reclamation and vegetation restoration in mining area had the potential to improve vegetation coverage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/11453ddb30c585664714128360c867f56462a798fbbffe75ce8214b69b5a9411.jpg",
+        "img_caption": [
+            "Fig.7Normalized difference vegetation index (NDVI) change at sampling sites in Wuhai City from 2000 to 2019.BG, botanical garden; CR,abandoned coking plant restoration area; SR,subsidence restoration area; DR, dump waste reclamation area; TmD,T. mongolica disturbance area; NS, natural shrub vegetation area; GM, Gander Mountain; TmN,T.mongolica Nature Reserve;W, wetland. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5 Plant community structure ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant community composition, coverage and plant diversity determined by field survey were shown in Table 4 and Figure 8. The value of VFC estimated by remote sensing analysis was highly correlated with the value of vegetation coverage measured by field survey (the decision coefficient reached O.83；data not shown)，indicating that VFC was a reliable indicator for evaluating changes of vegetation coverage at the regional scale. Vegetation in Wuhai City was mainly composed of arid desert plants, such as T. mongolica, Caragana microphylla, Salsola passerina, Zygophyllum xanthoxylon and Achnatherum splendens, according to field survey data from 2019 (Table 4). T. mongolica and Reaumuria soongarica were the dominant species in TmN. The number of T. mongolica decreased in TmD, while the number of Caragana microphylla and Zygophyllum xanthoxylon increased. Vegetation in GM was restored with trees in 2009 and dominated by Picea asperata and Pinus sylvestris,while Populus and Pinus sylvestris were dominant in coal mining SR area. The number of T. mongolica was the highest in TmN,followed by TmD, GM and NS2. However, T. mongolica was hardly found in BG, CR and DR (Fig. 8a), suggesting that native T. mongolica populations were damaged during coal exploitation and were difficult to restore under natural conditions. Vegetation coverage in TmN was higher than that in TmD,indicating that vegetation coverage was reduced by coal mining. DR had been restored by shrub species for 3 to $5 \\mathrm { ~ a ~ }$ ， the vegetation coverage was higher than that of TmD. Vegetation restoration in CR was started in 2O14 with trees and shrub species,vegetation coverage was similar to TmD. Vegetation greening by afforestation with trees in SR over $1 0 \\mathrm { ~ a ~ }$ ，and thus its coverage was higher than those in other sites.Therefore,artificial restoration could increase vegetation coverage of the coal mining area. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a8f6246a809824ccdb43d9e11a70c752a4e68235ba42c0cd968d25629b28425.jpg",
+        "table_caption": [
+            "Table 4Plant community composition in each sampling site "
+        ],
+        "table_footnote": [
+            "Note:BGtacalrden;,idctoatira;C,bdodingpatoratioea;uasteai area;TmD,T.mongolicadisturbancearea;S,aturalshrubgetationarea;G,Ganderountain;N,Tmongolicaature Reserve;W,wetland. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sampling site</td><td>Species number</td><td>Dominant species</td></tr><tr><td>BG</td><td>15</td><td>Elaeagnus angustifolia;Populus alba var.pyramidalis;Platycladusorientalis</td></tr><tr><td>SR1</td><td>14</td><td>Populus alba var.pyramidalis;Amorpha fruticose;Cynanchum chinense</td></tr><tr><td>SR2</td><td>15</td><td>Pinussylvestris var.mongolica;Picea asperata;Ulmus pumila</td></tr><tr><td>CR</td><td>8</td><td>Elaeagnus angustifolia;Syringa vulgaris;Amorpha fruticosa</td></tr><tr><td>DR1</td><td>9</td><td>Medicago sativa;Limonium bicolor;Amorpha fruticosa</td></tr><tr><td>DR2</td><td>7</td><td>Artemisia salsoloides;Medicago sativa;Alhagi camelorum</td></tr><tr><td>TmD1</td><td>12</td><td>Achnatherumsplendens;Tetraena mongolica;Convolvulus tragacanthoides</td></tr><tr><td>TmD2</td><td>7</td><td>Artemisia salsoloides;Convolvulus tragacanthoides;Achnatherumsplendens</td></tr><tr><td>TmD3</td><td>9</td><td>Caragana microphylla; Cynanchum hancockianum;Achnatherum splendens</td></tr><tr><td>TmD4</td><td>10</td><td>Tetraena mongolica;Zygophyllum xanthoxylon;Achnatherum splendens</td></tr><tr><td>TmD5</td><td>9</td><td>Tetraena mongolica;Zygophyllum xanthoxylon;Achnatherum splendens</td></tr><tr><td>TmD6</td><td>7</td><td>Tetraena mongolica;Salsola passerina;Achnatherum splendens</td></tr><tr><td>NS1</td><td>10</td><td>Achnatherum splendens; Ammopiptanthus mongolicus; Caragana microphylla</td></tr><tr><td>NS2</td><td>11</td><td>Zygophyllum xanthoxylon;Nitraria sibirica;Cynanchum chinense</td></tr><tr><td>GM1</td><td>11</td><td>Caragana microphylla;Picea asperata;Pinussylvestris var.mongolica</td></tr><tr><td>GM2</td><td>10</td><td>Caragana microphylla;Picea asperata; Pinus sylvestris var. mongolica</td></tr><tr><td>TmN1</td><td>12</td><td>Tetraena mongolica;Achnatherum splendens;Reaumuria soongarica</td></tr><tr><td>TmN2</td><td>11</td><td>Tetraena mongolica;Achnatherum splendens;Reaumuria soongarica</td></tr><tr><td>W1</td><td>10</td><td>Phragmites australis;Sophora alopecuroides;Tamarix chinensis</td></tr><tr><td>W2</td><td>10</td><td>Phragmites australis; Echinochloa crusgalli; Tamarix chinensis</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cf789565bec36223696e2c889da4fd68008561c73ddefd4bcda169ea673dd80.jpg",
+        "img_caption": [
+            "Fig.8Plant alpha diversity indices,coverage,occurrence of T.mongolica (a)and beta diversity indices (b)at sampling sites in Wuhai City from 2Oo0 to 2019.BG, botanical garden; CR,abandoned coking plant restoration area; SR,subsidence restoration area; DR,dump waste reclamation area;TmD,T. mongolica disturbance area; Ns, natural shrub vegetation area; GM, Gander Mountain; TmN,T. mongolica Nature Reserve; W, wetland. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Shannon-Wiener's index and Simpson's index among the sampling sites from low to high followed the order of $\\mathrm { T m D < N S < G M < W < T m N < B G }$ indicating that species diversity in TmD was severely reduced by coal mining.The restoration age in CR and DR sites were shorter than that of SR, plant diversity and coverage in CR and DR were relatively lower than that in SR accordingly. The Pielou's indices in SR and TmN were nearly the same, but the dominant species were different. Cody's index increased from BG to DR (Fig.8b), indicating that the high rate of species replacement occurred in coal mining restoration area. The highest variation in Sprensen's index occurred between DR and NS sites,confirming the dissimilarity in plant communities between T. Mongolica area and restored areas (SR,DR and CR). Furthermore,the closer the coal mining area was， the lower the coverage and plant diversity was.These results suggested that ecological restoration projects might play important roles in accelerating ecological restoration and reducing the impact of coal mining on vegetation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.6 Effects of climatic factors on NDVI ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From 20OO to 2O19,NDVI in Wuhai City displayed a first decreasing and then increasing tendency (Fig. 9a). AP was about $1 9 9 . 1 \\ \\mathrm { m m }$ and did not change significantly (Fig. 9b),while RH showed an increasing linear trend at a rate of $0 . 2 2 9 \\% \\mathrm { / a }$ (Fig. 9c), indicating that the ecological environment was improved. MT first declined and then slightly increased,with an overall total negative linear trend at a rate of $- 0 . 0 4 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ (Fig. 9d). $\\mathbf { W } \\%$ and WS declined significantly at rates of $- 0 . 0 1 8 \\% / \\mathrm { a }$ and $- 0 . 0 3 2 \\mathrm { m } / ( \\mathrm { s } { \\cdot } \\mathrm { a } )$ ,respectively (Fig. 9e and f),indicating that wind erosion risk of the study area had become less during the 19 a period. Overall, NDVI was positively related to RH ( $scriptstyle \\overbrace { r = 0 . 4 9 }$ ， $\\scriptstyle P = 0 . 0 0 1 { \\mathrm { . } }$ ),while NDVI was negatively correlated with $\\mathbf { W } \\%$ 0 $r = - 0 . 6 7$ ， $P { = } 0 . 0 1 2 \\$ and WS ( $\\stackrel { \\cdot } { r } = - 0 . 3 2$ ${ \\cal P } { = } 0 . 0 0 7 .$ ), suggesting RH and wind speed were important climate factors affecting vegetation activity in the region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of climate factors on vegetation dynamics ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wuhai City is a typical arid desert region，and vegetation is sensitive to climate change. Precipitation was the primary climatic factor that controlled vegetation growth in this region. NDVI gradually decreased from northeast to southwest in Inner Mongolia, showing an evident transition phenomenon between dry and wet areas (Li et al.， 2Ol6). NDVI was reduced to 0.20-0.4O in the semi-arid steppe area in central area, indicating that vegetation in this area is gradually becoming sparser. In the arid desert region of western Inner Mongolia, NDVI is less than O.10,with the surface mainly covered by desert, gobi,bare soil and bare rock (Li et al.,2016). Our result showed that AP in Wuhai City fluctuated around $1 9 9 . 1 \\ \\mathrm { m m }$ during the 19 a period, the average NDVI of Wuhai City is less than O.O5, indicating that overall vegetation coverage was low, and the lower vegetation coverage was related to the lower AP. Precipitation most strongly and significantly limited vegetation growth over $4 5 . 1 \\%$ of Inner Mongolia,while air temperature significantly limited vegetation growth over $0 . 7 3 \\%$ at a small part of the northeastern Inner Mongolia (Tian et al., 2O15). In Wuhai City, MT was increasing after 2O12,and RH displayed an increasing trend though AP did not change during the 19 a period. In fact, the construction of Wuhai Lake was completed in 2O13,and the area of water body reached $1 1 8 . 0 \\mathrm { k m } ^ { 2 }$ ，drip irrigation facilities were established in plantation-style forests (GM) and shrubland in remediation sites (DR).Thus,the increased RH might be related to the extended water area and elevated soil water content caused by artificial irrigation.We infer that Yellow River Water Conservancy Program (2010) in Wuhai City may play an important role in improving air humidity. NDVI was positively related to RH, indicating that plant growth was mainly improved by soil water and RH in 2012. Soil losses caused by wind erosion decreased vegetation coverage and aggravated sand mobilization in the Sahel (Abdourhamane et al.,2O19). Less wind could reduce the potential for surface erosion and sand transportation,and contributed to the growth and stability of vegetation in Mu Us Sandy Land (Xu, 2O18). In Wuhai City, the reduction in wind speed and increase in RH over the 19 a period indicating that regional ecological environment was gradually improved. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ff8d40eb46f4c2f6a8e933a17f2c3ae7afb5a091a85c8c97fca955d225fa71f.jpg",
+        "img_caption": [
+            "Fig.9Inter-annual normalized difference vegetation index (NDVI,a),annual precipitation (AP,b),relative humidity (RH,c),mean temperature (MT,d),strong wind frequency $( \\mathrm { W \\% }$ ，e）and annual average wind speed (WS,f) in Wuhai City from 2OoO to 2O19.The linear trend (red dashed lines)is based on ordinary least squares regression,while the nonlinear trend (blue solid lines)is fitted byLOWESS (locally weighted scatter point smoothing). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2Effects of coal mining activity and ecological restoration project on vegetation dynamics ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Climate change was an important factor influencing vegetation in Wuhai City. However, anthropogenic activity was also an important driving factor. The dominant species of $T .$ （204号 mongolica in Wuhai City significantly decreased with the strengthening of human disturbance from 1977 to 2O05,such as mining,coking,roads,cutting firewood and over grazing (Zhen, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2012). T. mongolica population size and density were reduced dramatically by coal mining (Wang et al.,2014). From 2000 to 2009,VFC declined (Fig.2),with $\\scriptstyle \\mathbf { G R C < 0 }$ (Table.3） and vegetation was seriously degraded, especially in the coal mining area (Fig.7). One potential explanation was that vegetation growth was inhibited by the low precipitation and temperature in this period (Fig. 9),and the other was that vegetation was destroyed by increasing industrial land and coal mining activity (Figs.4 and 5). From 2009 to 2019,VFC in Wuhai City increased,with $\\mathrm { G R C } { > } 0$ ，and vegetation showed an upward trend, particularly in the coal mining area (Fig. 7). Further, the trend of vegetation coverage showed diversity in local and regional scales,and different land use types had diferent changes in vegetation coverage (Fig. 7), indicating that meteorological factors and anthropogenic activities might act together to afect the spatiotemporal changes of vegetation coverage. Our field investigation found that number of T. mongolica, coverage and plant diversity in the coal mining area was decreased compared with that in T. mongolica Nature Reserve. The closer to the coal mining area the site is,the lower the plant diversity is.This could be caused by land occupation and heavy metal contamination in the soil (Wang et al., 2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Facing vegetation degradation and land desertification， a series of national ecological restoration projects or programs were implemented to restore degraded ecosystems in Wuhai City, including Beijing-Tianjin Wind/Sand Source Control Program (2OoO)，the fourth phase of Three-North Shelterbelt Development Project (2O01), Grain for Green project (2O01),Wildlife Protection and Nature Reserve Development Program (2OO1) and Grazing Ban (2O03). Based on these projects, government established West Erdos Natural Reserve to conserve T mongolica with an area of $1 3 9 . 1 \\mathrm { k m } ^ { 2 }$ in Wuhai City. NDVI in $\\mathrm { T m N }$ area gradually increased (Fig. 7),and area of shrubland in Wuhai City increased after 2OO8 (Fig.5). Afforestation practice was initiated in barren mountains and SR1 of Wuhai City in 2OO6,with greening area covering over $3 . 3 \\ \\mathrm { k m } ^ { 2 }$ .BG was constructed in 2Oo3,covered an area of $1 . 4 ~ \\mathrm { k m } ^ { 2 }$ with $1 . 1 \\ \\mathrm { k m } ^ { 2 }$ of green land. Meanwhile, construction of Gandel Mountain Ecological Civilization Scenic Spot was initiated, and $6 . 7 \\ \\mathrm { k m } ^ { 2 }$ （204号 of mountain afforestation (GM) was completed in 2OO9.Area of barren land had been reduced since 2006 (Fig. 5),and NDVI in study area had been increased since 2O09 (Fig 2). Thus, greening increased vegetation coverage and could further reverse land desertification. Evident land greening phenomena in sand and desert areas of the Loess Plateau of China (including Wuhai City) were observed during 2006-2008,and NDVI rapidly increased during 2011-2015 (Liu et al., 2020).NDVI also significantly increased in Inner Mongolia from 200O to 2012 (Tian et al.,2015). In addition, China's greening was atributed to large-scale tree plantations in low-productive areas from 200O to 2017 (Chen et al.， 2019). These previous studies coincided with our results. Moreover, Wuhai City also implemented several ecological construction policies and projects in order to improve the ecological environment in the coal mining area, such as Opinions on Strengthening the Supervision and Administration of Mineral Resource Development project (2008)，Ecological Construction project (2O12） and Comprehensive Environmental Treatment project (2O14). Accordingly, revegetation in waste dump was restored with native shrub and herb species in 2O14. Roads in the coal mining area and abandoned cocking plant site were afforested with tree and shrub pattern. Consequently, NDVI in the coal mining area showed a significant improvement in recent years (Fig 7). Revegetation of waste dump also occurred in open-pit coal mining area in the past decades,and its vegetation coverage has reached more than $90 \\%$ (Wang et al., 2020). Therefore,vegetation restoration also greatly improved ecological environment in the regional scale. Overall, NDVI in Wuhai City showed a consistent increasing trend in recent years, while potential degradation risks still existed in parts of the coal mining area. Anthropogenic impacts that are superimposed on the long-term climate-driven variations are also significant for vegetation restoration at both local and regional scales (Xu et al.，2O18). However, the contribution of human activities to vegetation greening was not yet quantitatively assessed in this region. Therefore, plant diversity and community structure in the restoration area need to be further examined. Moreover， ecological restoration projects should fully consider regional resource endowments and carrying capacity of the environment. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We revealed vegetation dynamics of Wuhai City in an arid desert region based on the land satelite remote sensing data and field survey. Vegetation in Wuhai City was mainly consisted of desert plant species, such as Caragana microphylla, T. mongolica and Achnatherum splendens. From 20OO to 2OO9,vegetation degradation in Wuhai City was induced by both climate factors and coal mining activity, climate factors might be the main factors,and coal mining accelerated the vegetation degradation. From 2009 to 2019,the increase in vegetation was atributed to the implementation of ecological restoration projects and improvement of ecological environment. Overall, climate was the main reason for vegetation dynamics,coal mining affected vegetation coverage and plant diversity, while ecological restoration policies and projects played important roles in vegetation restoration. The study provided reference for ecological restoration in the arid desert regions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Research and Development Program of China (2O17YFC0504400) and the Fundamental Research Funds for the Central Universities (202OYJSHH06).Thanks to Prof.LI Zhaoliang and Dr.GAO Maofang of Chinese Academy of Agricultural Sciences for their generous asistance in data collction.Thanks to Prof.JIANG Xiaoguang of Universityof Chinese Academy of Science forcareful editing the manuscript and suggestions. Thanks to Prof. YANG Keming of China University of Mining and Technology (Beijing) for the guidance in the methodology of remote sensing. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AbdourhamaneTA,TidjaniAD,RajotJL,etal.2O19.Dynamicsofwind erosionandimpactofvegetationcoverand landuse in the Sahel: Acase study on sandy dunes in southeastern Niger. CATENA,177: 272-285.   \nBasarin B,LukicT,PavicD,etal.2O16.Trendsandmulti-annualvariabilityof water temperatures intheriverDnube,Serbia. Hydrological Processes,30(18): 3315-3329.   \nBrown J,HowardD,WylieB,etal.2O15.Aplication-ready expedited MODISdataforoperational landsurface monitoringof vegetation condition. Remote Sensing,7(12):16226-16240.   \nCao M,WoodwardFI.1998.Dynamic responses of terrestrial ecosystem carbon cycling to global climate change.Nature, 393(6682): 249-252.   \nChen C,Park T,Wang X,etal.2O19.Chinaand Indialead ingreeningof the worldthrough land-use management.Nature Sustainability,2:122-129.   \nChu HS,Venevsky S,WuC,et al.2019.NDVI-based vegetationdynamicsand itsresponsetoclimatechangesat Amur-Heilongjiang River Basin from 1982 to 2O15.Science of the Total Environment,650:2051-2062.   \nDardel C,KergoatL,HierauxP,etal.2O14.Re-greningSahel:3Oyearsofremotesensingdataandfieldobservations(Mali, Niger).Remote Sensing of Environment, 140:350-364.   \nDongGG,ZhongKB,TieLS,etal.20l1.Impactsofcoalminingontheabovegroundvegetationandsoilquality:acasestudy of Qinxin coal mine in ShanxiProvince,China. Clean-Soil,Air,Water,39(3):219-225.   \nDuanH,YanC,Tsunekawa A,etal.2O11Assessingvegetation dynamics in the Three-North ShelterForestregionof China using AVHRR NDVI data. Environmental Earth Sciences,64(4): 1011-1020.   \nFeng Y,WangJM,Bai ZK,etal.2O19.Effectsof surfacecoal miningand landreclamationonsoilproperties:Areview. Earth-Science Reviews,191:12-25.   \nGebrehiwotK,DemissewS,WolduZ,etal.20l9.Elevationalchangesinvascularplantsichness,diversityanddistribution pattern in Abune Yosef mountain range,Northern Ethiopia.Plant Diversity,41(4): 220-228.   \nGonzalez-Hernandez MP,MouronteV,RomeroR,etal.2O2O.PlantdiversityandbotanicalcompositioninanAtlantic heather-gorse dominated understory after horse grazing suspension: Comparison of acontinuous and rotational management. Global Ecology and Conservation,23: e01134.   \nHicke JA,AsnerGP,RandersonJT,etal.2OO2.Trendsin North American net primaryproductivityderived fromsatelite observations,1982-1998.Global Biogeochemical Cycles,16(2):1018.   \nHuangF,XuSL.2O16.Spatio-temporal variationsofrain-useefficiencyin the westof Songliao Plain,China.Sustainability 8(4): 308.   \nKaran SK,Samadder SR,Maiti SK.2016.Assssmentof thecapabilityof remote sensing and GIS techniques formonitoring reclamation success in coal mine degraded lands.Journal of Environmental Management,182: 272-283.   \nLi SJ,Sun ZGTanMH,etal.2O16.Efectsofrural-urbanmigrationonvegetationgreennessinfragileareas:Acasestudyof Inner Mongoliain China.Journal of Geographical Sciences,26:313-324.   \nLin Y,Xin XP,Zhang HB,etal.2O15.Theimplicationsof serialcorrelationand time-lagefects fortheimpactstudyof climate change onvegetation dynamics-acase studywith Hulunber meadow steppe,Inner Mongolia.International Journal of Remote Sensing,36(19-20): 5031-5044.   \nLiu SL,LiWP,Qiao W,etal.2O19.Effectof naturalconditionsand miningactivitiesonvegetationvariations inardand semiarid mining regions.Ecological Indicators,103: 331-345.   \nLiu ZJ,WangJY,Wang XY,etal.2O20.Understanding the impactsof'GrainforGren'land managementpracticeonland greening dynamics over the Loess Plateau of China. Land Use Policy, 99:105084.   \nManteroP,MoserGSerpico SB.2O05.Partiallysupervised classificationofremotesensing images through SVM-based probability density estimation. IEEE Transactions on Geoscience and Remote Sensing,43(3): 559-570.   \nPetorelli N,VikJ,ystdA,tal..Usingthesatellte-ervedNDVItossseologicalesponsestvital change.Trends in Ecology& Evolution,20(9):503-510.   \nPiao SL,Fang JY.2Ool.Dynamic vegetationcover change over the last 18 years in China. Quaternary sciences,21(4): 294-302.   \nRuanMY,ZhangYX,ChaiTY.2O20.Rhizosphere soil microbialpropertieson Tetraena mongolicainthearidandsm-arid regions,China.International Journal of Environmental Research and Public Health,17(14): 5142.   \nSelersP,Meeson B，Hall F,etal.1995.Remote sensing of the landsurface for studiesof global change: Models-algorithms-experiments.Remote Sensing of Environment, 51(1): 3-26.   \nShi Y,Jin N,Ma XL,etal.2O2O.Atributionofclimateand humanactivities tovegetationchangeinChinausing machine learning techniques.Agricultural and Forest Meteorology,294:108146.   \nTianHJ,CaoCX,ChenW,etal.2O15.Responseofvegetationactivitydynamic toclimaticchangeand ecologicalrestoation programs in Inner Mongolia from 20o0 to 2012.Ecological Engineering,82: 276-289.   \nTong S Q,ZhangJQ,Ha S,etal.2016.Dynamicsoffractional vegetationcoverageanditsrelationshipwith climate and human activities in Inner Mongolia, China.Remote Sensing,8(9): 776.   \nWang SF,CaoYG,PietrzykowskiM,etal.2O2OSpatial distributionofsoilbulk densityanditsrelationshpwithslopeand vegetationalocation model inrehabilitationof dumping site in loess open-pit mine area.Environmental Monitoringand Assessment,192:740.   \nWang WF,HaoWD,BianZF,etal.2O14.Efectofcoalminingactivities ontheenvironmentof Tetraena mongolicain Wuhai, Inner Mongolia, China-A geochemical perspective.International Journal of Coal Geology,l32: 94-102.   \nWu GL,DuGZ,LiuZH,etal.2Oo9.Efectoffencingand grazingonaKobresia-dominatedmeadowin the Qinghai-Tibetan Plateau.Plant and Soil,319(1):115-126.   \nXu ZW,HuR,Wang K X,et al.2018.Recent greening (1981-20l3)inthe Mu Us dune field,northcentral China,and its potential causes.Land Degradation & Development,29(5):1509-1520.   \nZhang DJ,Jia QQ,Xu X,etal.2018.Contributionof ecolgical policiestovegetationrestoration:Acase studyfrom Wuqi County in Shaanxi Province,China.Land Use Policy,73: 400-411.   \nZhang X Z,Dai JH,Ge QS.2013.Variation invegetation greennessinspring across eastemn Chinaduring1982-2006.Journal of Geographical Sciences,23: 45-46.   \nZhenJH.2O12.Changeof landscapepaternandits impact in the distribution regionof Tetraena mongolica Maxim.Applied Mechanics and Materials,229-231: 2694-2697.   \nZhu J，Wang X,Zhang L X,et al.2015.System dynamics modeling of the influenceof the TN/TPconcentrations in socioeconomic water on NDVI in shallow lakes.Ecological Engineering,76(521O): 27-35. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

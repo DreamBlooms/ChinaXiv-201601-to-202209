@@ -1,0 +1,129 @@
+# 不同工质时脉动热管换热特性实验研究
+
+BASTAKOTIDurga，张红娜，李凤臣†(哈尔滨工业大学能源科学与工程学院黑龙江哈尔滨 150001)
+
+摘要：本文通过实验研究了工质类型和工质充液率对竖直式脉动热管换热特性的影响。采用了去离子水、甲醇和乙醇三种液体作为工质，加热功率范围为5瓦到80瓦。结果表明，脉动热管的换热特性与工质充液率密切相关。当去离子水充液率为 $5 0 \%$ 时，脉动热管内能够形成稳定的气柱和液塞流动，具有最佳的换热表现，获得的最低热阻为80 瓦加热功率下的0.47K/W。在较小的加热功率下，乙醇和去离子水具有比甲醇更小的热阻，随加热功率增加，采用甲醇时加热段温度上升波动剧烈，而采用去离子水和乙醇时温度上升平缓，具有更好换热效果。甲醇和乙醇做工质时获得的最小热阻分别为80瓦加热功率下的 $0 . 5 6 ~ \mathrm { K / W }$ 和 $0 . 4 8 ~ \mathrm { K / W }$ 。
+
+关键词：脉动热管；工质；换热特性；实验研究中图分类号： TK124 文献标识码：A
+
+# An Experimental Study on Thermal Performance of Pulsating Heat Pipe with
+
+# Different Working Fluids
+
+BASTAKOTI Durga ZHANG Hong-NaLI Feng-Chen† (School of Energy Science and Engineering,Harbin Institute of Technology,Harbin 150o01,China)
+
+Abstract: An experimental investigation was conducted to study the thermal performance of pulsating heat pipe (PHP) with diferent working fluids. Deionized water, methanol and ethanol were used in this studied at varying thermal loads ranging from 5 W to 80 W. Experimental results showed that the heat transfer capability of the tested PHP was highly dependent on the filling ratios of the working fluids. At a $50 \%$ filling ratio,a stable gas-liquid slug flow can be generated and the PHP had the best performance: a minimum thermal resistance of $0 . 4 7 ~ \mathrm { K / W }$ at $8 0 ~ \mathrm { W }$ thermal load was obtained.At low thermal loads, the PHP with ethanol and deionized water had lower thermal resistance than with methanol. With the increase of thermal load, strong fluctuations of temperature increase at the heating section appeared when using methanol as working fluid，while the temperature was increased gently with a better heat transfer performance when using deionized water or ethanol. The obtained minimum thermal resistances for the cases using methanol and ethanol were $0 . 5 6 \mathrm { K } / \mathrm { W }$ and $0 . 4 8 \mathrm { K } / \mathrm { W } ,$ ,respectively, at $8 0 \mathrm { W }$ thermal load.
+
+Key words: Pulsating heat pipe, working fluids, thermal resistance; experimental investigation
+
+# 0引言
+
+脉动热管是上世纪90年代由Akachi[1]提出的一种新型换热装置，在太阳能电池、燃料电池、电子芯片冷却以及混合动力汽车等领域具有广泛的应用前景[2-5]。脉动热管在高集成散热方面具有明显的优势，学者们已开展了诸多脉动热管相关的实验研究，然而脉动热管的运行机理非常复杂，涉及诸多影响因素，为了实现其最优化运行，仍然亟需大量的研究以充分理解其运行机理及传热现象。
+
+与传统热管相比，大量的研究表明脉动热管能够实现高热流密度下的集成散热，其换热特性取决于热流体的动力学特征及相变过程，主要影响因素包括脉动热管的工质、充液率、加热量、倾斜度及弯管数等[6-9]。一般来讲，脉动热管要求管道直径足够小，加热前向管内填充部分工质并保持管内处于真空环境。这种条件促使工质在加热时发生毛细作用，由于平行管道间气液相分布不均匀，在加热段和冷却段形成液柱和气塞的脉动流动。在脉动过程中利用汽化潜热和热流体显热将热量从加热段带至冷却段[10]。
+
+Zhang 和Faghri[11]提出了脉动热管的基本工作原理，并分析了工质种类、工质充液率、管道倾斜角度等对热管内热流体运动及换热特性的影响。研究表明，工质的热物性参数包括表面张力、润湿性、粘度及导热系数等对脉动热管的换热特性至关重要[8]。一些学者研究了不同类型工质或几种工质混合物对脉动热管换热特性的影响。Wang 等[12]发现采用水作为工质比乙醇或R141b具有更好的效果。Cui等[13]在实验中采用甲醇与去离子水、丙酮及乙醇混合物作为工质，发现脉动热管的换热特性与工质热物性参数相关。Sarangi和Rane[14]的实验表明脉动热管的启动加热功率与充液率无关，但最大加热功率与充液率密切相关。Tseng 等[15]在实验中采用去离子水、甲醇及HFE-7100等作为工质，发现脉动热管竖直放置时相对于水平放置具有更小的热阻，且去离子水具有最小的热阻。
+
+尽管学者们已通过大量实验对脉动热管的运行特性进行了研究，并得到了一些结论。然而脉动热管在实际运行时具有一定的复杂性和随机性，目前脉动热管的运行机理并不十分清楚，缺乏完善的理论模型指导应用设计。为了探索脉动热管的最佳运行条件，本文主要研究不同流动工质下脉动热管的运行特性。
+
+# 1 实验系统
+
+本实验采用8个弯头的密闭式脉动热管，管道采用内径 $2 \mathrm { m m }$ 壁厚 $0 . 5 \mathrm { m m }$ 的铜管。由于气泡是脉动热管运行的前提，其产生和破碎与工质表面张力及浮力密切相关，Akachi等[1]指出脉动热管的管径$d$ 应满足：
+
+$$
+d \leq d _ { c r } = 2 [ \sigma / g ( \rho _ { f } - \rho _ { g } ) ] ^ { 0 . 5 }
+$$
+
+式中 $d _ { c r }$ 为脉动热管最大管径， $\sigma$ 为工质表面张力，$\rho _ { f }$ 为液体密度， $\rho _ { g }$ 为蒸汽密度， $g$ 为重力加速度。
+
+图1给出了本实验所用脉动热管的结构示意图，脉动热管竖直放置，由底部加热段、中部绝热段及顶部冷凝段三部分组成，长度分别为6cm，4cm和 $8 \mathrm { c m }$ 。
+
+![](images/d226412c33b67d78815235fe94acab351ed9b2f4a97d41fc4d3788ff21574cd5.jpg)  
+图1脉动热管尺寸示意图
+
+![](images/7f6510a52bf740968f28376a1ad2a58d5ae8b241039403d8e544800c99ed3229.jpg)  
+Fig.1: Schematic of the pulsating heat pipe used in this experiment   
+图2脉动热管实验系统示意图  
+Fig.2: Experimental set-up of the pulsating heat pipe
+
+如图2所示，整体实验系统包括脉动热管、加热和冷却系统、充液和抽真空系统、测温和数据采集系统。对于加热段，首先在铜管壁覆盖导热绝缘硅胶，然后在导热硅胶上环绕 $0 . 1 \mathrm { m m }$ 镍-铬导线后通直流电进行加热。加热段和绝热段采用隔热泡沫材料阻断与环境的热传递。冷凝管段直接曝露在室内环境，用25瓦的直流风扇 $( 2 2 0 \mathrm { V } { - } 5 0 \mathrm { H z } )$ 冷却。在加热段、绝热段、冷凝段及脉动热管之外布置热电偶(K型， $\pm 0 . 1 ^ { \circ } \mathrm { C }$ ，共10个)，用多通道数据采集系统(LR8402-21)记录各热电偶测量的温度。
+
+在实验准备阶段，使用真空泵将管内抽真空并保持管内绝对压力约为10KPa，此后采用注射器向管内注入填充液，至所需充液率时密封管道。实验运行时，开启连接直流电源与镍-铬导线的开关，以步进方式逐步增大加热功率。
+
+脉动热管的换热特性主要通过热阻表示，其定义如下：
+
+$$
+T _ { e } = { \frac { 1 } { 3 } } \sum _ { i = 1 } ^ { 3 } { \overline { { T } } } i
+$$
+
+$$
+T _ { c } = { \begin{array} { l } { { \frac { 1 } { 3 } } \sum _ { i = i = 1 } ^ { 5 } { \boldsymbol { \eta } } _ { i } } \\ { { \boldsymbol { \mathit { T } } } _ { c } = { \frac { 1 } { 3 } } \sum _ { i = 1 } ^ { 5 } { \boldsymbol { \eta } } _ { i } } \end{array} }
+$$
+
+$$
+R = { \frac { \frac { T e - T r _ { c } } { q } } { q } }
+$$
+
+式中， $T _ { e }$ 和 $T _ { c }$ 分别为加热段和冷凝段平均温度， $R$ 为脉动热管的热阻，反映装置从加热段带走热量的阻力， $\varrho$ 为加热量。
+
+图3给出了加热开始后脉动热管热阻随时间的变化，结果表明，脉动热管在启动60s之后可以达到稳定运行的状态，即可用60s之后的平均温度计算脉动热管的热阻。故在后续实验中，每一工况均维持120s，数据采集频率为 $1 \mathrm { H z }$ ，持续 $3 0 \mathrm { m i n }$ ，加热量从0W每 $2 \mathrm { m i n }$ 增加5W增至 $8 0 \mathrm { W }$ 。
+
+![](images/29a59a38c4af32fb22ed06713af07239596ad9bbbec2795b9a9dbea2feb65b24.jpg)  
+图3去离子水充液率 $50 \%$ 时脉动热管的热阻随时间变化  
+Fig.3:Time seriesof thermal resistance of the pulsating heat pipe with $50 \%$ deionized water
+
+利用上述实验系统，本文研究了不同工质、充液率及加热量对脉动热管的换热特性影响。由于实验系统的限制，本文最大加热量为 $8 0 \mathrm { W }$ 。为防止温度过高，当加热段温度发生激增时，即刻停止实验。实验工质分别采用去离子水、甲醇及乙醇，分别测量了在去离子水充液率为 $20 \%$ ， $3 5 \%$ ， $50 \%$ ， $6 5 \%$ $80 \%$ 时，及甲醇和乙醇在 $50 \%$ 充液率下的脉动热管的换热特性。表1给出了各工质的热物性参数。作为参考，亦测量了充液率为 $0 \%$ 和 $100 \%$ 时热管的换热特性，当充液率为 $0 \%$ 时换热仅依靠管壁导热，当充液率为 $100 \%$ 时，换热依靠浮力驱动单相流体，此时均具有较大的热阻。
+
+<html><body><table><tr><td>流体物性</td><td>甲醇</td><td>去离子水</td><td>乙醇</td></tr><tr><td>沸点Ts,C</td><td>64.7</td><td>100</td><td>78.3</td></tr><tr><td>密度 pt,kg/m3 (at 20 ℃)</td><td>791</td><td>998</td><td>789</td></tr><tr><td>比热 Cpt, kJ/(kg C) (at 20 C)</td><td>2.48</td><td>4.18</td><td>2.39</td></tr><tr><td>导热系数λ,W/(mC) (at 20 C)</td><td>0.212</td><td>0.599</td><td>0.172</td></tr><tr><td>汽化潜热Hfg,kJ/kg</td><td>1101</td><td>2257</td><td>846</td></tr><tr><td>(dp/dT)sat × 10², Pa/C (at 80 C)</td><td>6.45</td><td>1.92</td><td>4.23</td></tr><tr><td>运动学粘度u, ×10,Pa s (at 20 C)</td><td>0.6</td><td>1.01</td><td>1.15</td></tr><tr><td>表面张力g×10²,N/m(at 20 ℃)</td><td>22.6</td><td>72.8</td><td>22.8</td></tr><tr><td>临界管径 Dmax, mm (at 20 C)</td><td>3.2</td><td>5</td><td>3.1</td></tr></table></body></html>
+
+表1不同工质的热物性参数  
+Table 1: Different thermodynamic properties of Methanol, water and Ethanol
+
+# 2结果与讨论
+
+图4给出了去离子水作为工质时不同充液率下加热段温度随时间的变化。结果表明，当去离子水充液率为 $2 5 \%$ ， $65 \%$ 及 $80 \%$ 时，由于脉动流动不充分，加热段温度增加剧烈，换热效果不佳。当充液率为 $2 5 \%$ 时，加热开始 $2 4 \mathrm { m i n }$ 后发生烧干，此后温度急剧升高。当充液率为 $80 \%$ 时，加热开始 $1 0 \mathrm { { m i n } }$ 后温度明显高于其他充液率，此后温度发生波动，意味着单相流的脉动的产生，但随加热持续增加，温度急剧上升；当充液率为 $65 \%$ 时，脉动流动持续时间比充液率为 $80 \%$ 时稍长，但当加热持续 $2 2 \mathrm { m i n }$ 后，加热段温度同样急剧上升。与上述工况相比，当充液率为 $3 5 \%$ 和 $50 \%$ 时，脉动热管能够持续运行至实验结束，但与充液率 $50 \%$ 的工况相比，充液率为 $3 5 \%$ 的工况在脉动流动开始阶段振荡剧烈，并不利于散热。故可以得出该脉动热管在去离子水充液率为 $50 \%$ 时工作效果最佳。
+
+![](images/3e826522b15f20bffcf93516e30337814778df201cb56bc5194715b074f59fe6.jpg)  
+图4不同去离子水充液率下加热段温度随时间变化 Fig.4. Time series of evaporator temperature for different fill ratio ofDI water
+
+图5给出了在不同加热功率和去离子水充液率下脉动热管的热阻，可以看出，当充液率较大时，热阻较大，热管内不容易产生气泡，而这是发生脉动流动的前提，阻碍热量从加热段带至冷凝段，换热表现不佳。当充液率较小时，能够改善在较大加热量时的换热特性，具有与 $50 \%$ 充液率时相似的热阻，约为 $0 . 4 7 \mathrm { K } / \mathrm { W }$ ，然而由于液体量较小，其汽化潜热和液体所携带热量不足，同样换热特性不佳。当加热功率为80W时，脉动热管在去离子水充液率为 $50 \%$ 时具有最小的热阻，即当管内充有一半液体时，在管内形成了稳定的脉动流动，此时换热效果最佳。
+
+为了研究工质对脉动热管的换热特性影响，接下来对比了在充液率为 $50 \%$ 下不同工质包括甲醇、乙醇和去离子水等在脉动热管内的换热特性。图6给出了采用各工质时加热段温度随时间变化，可以看出采用三种工质时热管随时间具有不同的温度变化过程。在起始阶段，换热主要依靠液体导热，由于(去离子水)>λ(甲醇) $\vartriangleright$ (乙醇)，故加热段温度增长呈现相同规律，去离子水慢于甲醇，而甲醇慢于乙醇。当加热持续到一定时间后，加热段温度增长率迅速降低，这一变化也可视为管内发生相变的标志或脉动热管开始启动，此时汽化潜热发挥了作用。脉动热管启动后，对于甲醇和乙醇，加热段温度急剧上升并随后急剧下降，对于甲醇甚至呈现随机波动，这反映了气泡在管内迅速生成，并溶解消失。对于去离子水，加热段温度和上升则比较缓慢，意味着管内形成了稳定的脉动流动，且维持了较长的时间。
+
+![](images/1167949386fe42bae97abd91d0068429c1e13d98653b7522e27b7777a47a9a0d.jpg)  
+图5不同去离子水充液率时脉动热管热阻随时间的变化
+
+![](images/639e88b290a834e10f2bb7c1783d07cb14447ba0ced30bedcb200c9b170fb74d.jpg)  
+Fig.5 Thermal resistance of the PHP with DI water as working fluid for different supply of heat loads   
+图6不同工质时加热段温度随时间变化 Fig. 6 Time series of evaporator Temperature for different working fluids
+
+图7给出了不同工质时脉动热管的热阻随加热功率的变化，可以看出在不同阶段，各工质表现不同。在较低的加热功率下，由于未触发管内由相变产生脉动的流动，此时三种工质的热阻均较大，去离子热阻最小，乙醇次之，甲醇热阻最大。随着加热功率增加，发生相变，并形成脉动流动，三种工质热阻均显著降低，热量能够迅速从加热段带走。随加热功率从0W增至80W，采用去离子水时热阻从2.03K/W降至0.47K/W；采用乙醇时热阻从2.55K/W降至0.48K/W；采用甲醇时，热阻从3.30K/W降至0.51K/W，具有较大起始热阻，故在充液率为 $50 \%$ 时，乙醇的换热特性优于甲醇，去离子水优于乙醇。
+
+![](images/84be8b1d0cbb09c0db411ad855ddd3b9cf43489a438bb39997f403dfce89a7c7.jpg)  
+图7采用不同工质时脉动热管的热阻 Fig.7 Variation of thermal resistance with different working fluids with $50 \%$ fill ratio
+
+# 3结论
+
+本文实验研究了采用不同工质和充液率时脉动热管的换热特性，测量了加热段和冷凝段的温度在不同加热量下随时间的演化，并得到了各测量工况下脉动热管的热阻，可以得到以下结论：
+
+（1）关于工质充液率对换热特性的影响，结果表明当去离子水充液率为 $50 \%$ 时，脉动热管具有最小的热阻。此时，管内形成稳定的气柱和液塞的脉动流动，汽化潜热和液体流动所携带的显热促进了脉动热管的换热特性。
+
+（2）关于工质对于换热特性的影响，结果表明，相对于甲醇，在较小的加热功率下，采用乙醇和去离子水时具有更小的热阻，加热段温度上升更加平缓；随加热功率增加，采用甲醇时，加热段温度上升波动剧烈，这也意味着管内并未形成稳定的气柱和液塞的脉动流动，不能有效地将热量从加热段带至冷却段。而采用去离子水和乙醇则具有更好换热效果。
+
+综上，本文仅进行了三种工质的相关研究，为了获得脉动热管的最佳运行参数并理解脉动热管的运行机理，仍需对更多的工质和实验参数进行进一步研究。
+
+# 参考文献
+
+[1] Akachi H.， Structure of a heat pipe, 1990, U.S. Patent 4921041.   
+[2] Verma B, Yadav VL, Srivastava KK.Experimental Studies on Thermal Performance of a Pulsating Heat Pipe with Methanol/DI Water. Journal of Electronics Cooling and Thermal Control. 2013;03(01):27-34. [3] Burban G,Ayel V，Alexandre A，Lagonote P, Bertin Y, Romestant C. Experimental investigation of a pulsating heat pipe for hybrid vehicle applications. Applied Thermal Engineering. 2013;50(1):94-103. [4] Clement J, Wang X. Experimental investigation of pulsating heat pipe performance with regard to fuel cell cooling application. Applied Thermal Engineering. 2013;50(1):268-74.   
+[5] Yang H, Khandekar S,Groll M. Performance characteristics of pulsating heat pipes as integral thermal spreaders. International Journal of Thermal Sciences. 2009;48(4):815-24.   
+[6] Ayel V，Araneo L，Scalambra A，Mameli M, Romestant C, Piteau A,et al. Experimental study of a closed loop flat plate pulsating heat pipe under a varying gravity force. International Journal of Thermal Sciences. 2015;96:23-34.   
+[7] Song Y, Xu J. Chaotic behavior of pulsating heat pipes. International Journal of Heat and Mass Transfer. 2009;52(13-14):2932-41.   
+[8] Yang H, Khandekar S, Groll M. Operational limit of closed loop pulsating heat pipes.Applied Thermal Engineering. 2008;28(1):49-59.   
+[9] Ayel V,Bertin Y, Romestant C and Burban G . Experimental study of pulsating heat pipes tested in horizontal and vertical positions.15th International Heat Pipe Conference,Clemson,USA，April 2010; 25-30.   
+[10] Khandekar S， Charoensawan P， Groll M, Terdtoon P. Closed loop pulsating heat pipes Part B: visualization and semi-empirical modeling. Applied Thermal Engineering.2003;23(16):2021-33.   
+[11] Zhang Y,Faghri A.Heat transfer in a pulsating heat pipe with open end. International Journal of Heat and Mass Transfer. 2002;45(4):755-64.   
+[12] Wang S,Nishio S.Heat Transport Characteristics in Closed Loop Oscillating Heat Pipes. 2005(47349):805-10.   
+[13] Cui X, Qiu Z, Weng J, Li Z. Heat transfer performance of closed loop pulsating heat pipes with methanol-basedbinarymixtures.Experimental Thermal and Fluid Science.2016;76:253-63.   
+[14]SarangiRK， RaneMV. Experimental Investigations for Start up and Maximum Heat Load of Closed Loop Pulsating Heat Pipe. Procedia Engineering. 2013;51:683-7.   
+[15] Tseng C-Y，Yang K-S,Chien K-H, Jeng M-S, Wang C-C. Investigation of the performance of pulsating heat pipe subject to uniform/alternating tube diameters.Experimental Thermal and Fluid Science. 2014;54:85-92.

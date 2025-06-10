@@ -1,0 +1,296 @@
+# Experimental and Numerical Analysis of Natural Bio and Syngas Swirl Flames in a Model Gas Turbine Combustor
+
+S. Iqbal1,A. C.Benim1\*, S.Fischer²,F. Joos³,D.KluB4,A. Wiedermann
+
+1. CFS,Dept. Mechanical and Process Eng., Düsseldorf Universityof Applied Sciences,Dusseldorf, Germany   
+2. Laboratory of Turbomachinery, Helmut Schmidt University, Hamburg, Germany   
+(Present address:Viessmann Werke Berlin GmbH,Berlin, Germany)   
+3. Laboratory of Turbomachinery, Helmut Schmidt University, Hamburg, Germany   
+4. Engineering Gas Turbines,MAN Diesel and Turbo SE, Oberhausen, Germany
+
+Turbulentreacting flows in a generic swirl gas turbine combustor model are investigated both numerically and experimentally.In the investigation,an emphasis is placed upon the external flue gas recirculation, which is a promising technology for increasing the eficiency of the carbon capture and storage process,which,however, can change the combustion behaviour significantly.A further emphasis is placed upon the investigation of alternative fuels such as biogas and syngas in comparison to the conventional natural gas.Flames are also investigated numerically using the open source CFD software OpenFOAM.In the numerical simulations,a laminar flamelet model based on mixture fraction and reaction progress variable is adopted. As turbulence model,the ST modelis used within a URANS concept. Computational results are compared with the experimental data,where a fair agreement is observed.
+
+# Keywords: Gas turbine combustion, turbulent combustion, URANS,laminar flamelet method
+
+# Introduction
+
+In recent years, the link between the climate change and anthropogenic green-house emissions (especially carbon dioxide) has been well established. These pollutant emissions are mainly caused by the combustion of fossil fuels. One possibility for mitigating these pollutant emissions is the CCS technology [1]. Until now, the post-combustion capturing process based on amine scrubbing has been identified as a cost-effective and realizable CCS technology [2]. The disadvantage of this technique is the significant deterioration of the overall plant efficiency,caused by the auxiliary power needed for the $\mathrm { C O } _ { 2 }$ -stripping process. This process can be improved by increasing the concentration of $\mathrm { C O } _ { 2 }$ in the exhaust gas,which can be achieved by external FGR[3].
+
+The latter can change the combustion behavior of the gas turbine significantly.ElKady et al.[4],Winkler et al. [5] and Burdet et al. [6] reported an increase in CO emissions with increasing FGR ratios,which was essentially caused by a decrease in the combustion reactivity, due to the“dilution”of the flame by FGR,which, however, had, on the other hand the positive effect of reducing $\mathrm { N O } _ { \mathrm { x } }$ emissions.The influence of hydrogen addition to NG was investigated by Winkler et al. [5]. Because of the increased reactivity, CO emissions at the equivalent FGR rates could be diminished,with only a slight increase in the $\mathrm { N O } _ { \mathrm { x } }$ emission levels.
+
+As discussed in [1],a replacement of fossil fuels by renewable,alternative fuels is a further option for de
+
+# Nomenclature
+
+（204号 $C$ （20 Reaction progress variable b burnt $c _ { p }$ （204号 Mean isobaric specific heat capacity - J/kgK st stoichiometric $k$ （20 Turbulence kinetic energy - $\mathrm { m } ^ { 2 } / \mathrm { s } ^ { 2 }$ （20 t turbulent
+
+$l _ { K }$ （204号 Kolmogorov length scale - m   
+$p$ （20 Static pressure - Pa   
+$P$ （204号 Probability density function   
+$\boldsymbol { \mathcal { Q } }$ （20 Volumetric heat release rate - $\mathrm { J / m } ^ { 3 } \mathrm { s }$   
+$t$ （204 Time-s   
+（204号 $T$ （204 Static temperature-K   
+$x _ { i }$ （204号 Space coordinates -m   
+$u _ { i }$ （ Velocity vector-m/s   
+（204号 $Y _ { i }$ （204号 Mass fraction of species $i$   
+$Z$ （204号 Mixture fraction
+
+# GreekSymbols
+
+$\beta$ （204号 Beta probability density function   
+$\varDelta$ （204 Local finite volume cell size -m   
+$\varepsilon$ （20 Dissipation rate of $\mathrm { k } - \mathrm { m } ^ { 2 } / \mathrm { s } ^ { 3 }$ （204号   
+$\theta _ { C }$ （204号 Source term of the C transport equation   
+$\mu$ （204号 Viscosity $- \mathrm { k g / m \mathrm { : } } \$   
+$\nu$ Kinematic viscosity - $\mathrm { m } ^ { 2 } / \mathrm { s }$   
+$\lambda$ （204号 Flamelet parameter   
+$\rho$ （204号 Density - $\mathrm { k g / m } ^ { 3 }$   
+$\sigma$ （204号 Schmidt number   
+$\varphi$ （204 Variable to extract from flameletlibraries   
+X Scalar dissipation rate -1/s   
+Subscripts   
+ad adiabatic   
+u unburnt   
+Superscripts   
+$\approx$ Favre-averagedvalue   
+： Reynolds-averaged value   
+（ Favre fluctuational value
+
+# Abbreviations
+
+BG Biogas   
+CCS Carbon capture and storage   
+EDC Eddy Dissipation Concept   
+FGR Flue Gas Recirculation   
+GI Grid Index   
+GTC Gas Turbine Combustor/Combustion   
+LFM LaminarFlameletMethod   
+LES Large Eddy Simulation   
+LPG Liquefied petroleum gas   
+NG Natural Gas   
+PDF Probability Density Function   
+RANS Reynolds-Averaged Numerical Simulation   
+RMS Root Mean Square   
+SG Syngas   
+SST Shear Stress Transport   
+URANS Unsteady RANS
+
+creasing $\mathrm { C O } _ { 2 }$ emissions.Kim et al.[7] and Lee et al. [8] investigated lean premixed combustion of LPG and SG blends in gas turbine combustors. Khalil et al. [9,10] investigated the combustion characteristics of low calorific value gaseous and liquid fuels in premixed and diffusion mode.All these investigations were carried out using unvitiated combustion air.
+
+From the modelling point of view, there are two challenges,namely, modelling of turbulence,and the modelling of turbulent combustion, i.e.the interaction between combustion and turbulence.Turbulence modelling is an issue,due to the high degree of swirl that is normally encountered in gas turbine combustors, creatinga strongly non-isotropic turbulence structure.Numerical investigations of isothermal swirling flows were,first, performed in [11-13]. However, these studies were performed for flows forrelatively low Re(5ooO-70oO) that do not represent typical gas turbine combustor conditions Swirling flows with higher Re( $\mathrm { R e } > 5 0 { , } 0 0 0 \rangle$ ）wereinvestigated in[14,15].The effect of the various turbulence modeling approaches based on URANS and LES procedures was investigated in detail in[15].In those studies, it was shown that the turbulence should be modelled within a three-dimensional and unsteady framework, which can also accommodate for the non-isotropic turbulence structure in large scales.These conditions are fulfilled best by the LES approach,and partially by the URANS approach. In the present analysis the URANS approach is employed.
+
+The further challenge for the simulation is the modelling of turbulent combustion,i.e. the interaction of combustion reactions with flow turbulence.Many state-ofthe-art turbulent combustion models are based on a global reaction mechanism,assuming a small number of species，since,otherwise,the computational costs would strongly increase.However,in some cases，like the present one incorporating BG and SG fuels,a more detailed information on the chemistry and a consideration of a larger number of reacting species are required. A very efficient way of incorporating detailed chemistry without increasing computational costs is provided by the LFM.The use of the method for GTC have been rather controversial, since it was claimed that the premixed combustion regime of GTC would not fall into the validity region of the LFM.However, it was shown [16] that the LFM has a broader validity range than that, what was assumed based on purely dimensional grounds,and it can indeed lead to sufficiently accurate predictions [17] for GTC.In the present study, the LFM is adopted as the turbulent combustion model.
+
+Within the framework of the present investigation, the effects of externalFGR on combustionbehaviorof natural gas,typical biogases and syngas are investigated experimentally and computationally.
+
+# Experimental
+
+An atmospheric combustor was used,where the recirculating flue gas was imitated by a natural gas fired condensing boiler. By regulating the exhaust gas valve,a fraction of the boiler exhaust gas was diverted from the bypass conduit and mixed with fresh air. Upstream of the compressor, the flow rate as well as the oxidizer composition was measured before being routed into the electric preheater,where the oxidizer is heated to typical com bustor inlet temperatures. The partially premixed combustor is illustrated in Figure 1.
+
+The combustor consists of a radial swirler,a burner nozzle,an octagonal flame tube and an exhaust gas nozzle.Four quartz glass windows are integrated into the flame tube for visual accessibility of the flame.The combustor is equipped with a pilot fuel system for ignition purposes as well as a main fuel system for main operation mode.A detailed view of the injection system and the swirler is shown in Figure 2.
+
+![](images/05ae8ea750f6ac0f8bfb4fc0ed43678a9a522f926a3522882d53f384eccf9f9a.jpg)  
+Fig.1The model combustor.
+
+![](images/b16674500c339f03aee620ea1f14a8f1f814c005ebe51da5ff1cd28c2cd48486.jpg)  
+Fig.2Cross-sectional view of the combustor injection system (above) and the sketchof the radial swirler (below).
+
+Upon passing the combustor hood, the oxidizer stream enters the swirler radially and is redirected by the swirler vanes to impart a sufficiently high tangential velocity component to the flow. The swirler is made up of 12 vanes with a constant vane angle of $4 5 ^ { \circ }$ ，resulting in a swirl number of O.93.Based on the local unburnt bulk axial velocity and the diameter at the exit of the converging-diverging burner nozzle, the Reynolds number turns out to be about 34,000.
+
+The combustor can be operated with NG and gas mixtures.The gas mixing device made up of eight separate mass flow controllers can continuously provide a mixture of $\mathrm { O } _ { 2 }$ ， $\Nu _ { 2 }$ ， $\mathrm { C O } _ { 2 }$ ，CO， $\mathrm { C H } _ { 4 }$ ， $\mathrm { H } _ { 2 }$ and $\mathrm { C } _ { 3 } \mathrm { H } _ { 8 }$ in a required composition.For NG operation - the pilot fuel system is always operated by NG - similar mass flow controllers are connected to the NG grid. The exhaust gas temperature is measured with a Type S thermocouple that is incorporated into a ceramic exhaust gas probe. The composition of the oxidizer and emissions are measured by an industrial system including sensors for $\mathrm { O } _ { 2 }$ $\mathrm { C O } _ { 2 }$ ，CO, $\mathrm { N O } _ { \mathrm { x } }$ and unburnt hydrocarbons (UHC). The measurement error was less than or equal to $2 \%$ of the measured value for CO, $\mathrm { N O } _ { \mathrm { x } }$ and UHC analyzers,and less than or equal to $1 \%$ of the full scale value for the $\mathrm { O } _ { 2 }$ and $\mathrm { C O } _ { 2 }$ analyzers The detection limits for CO and $\mathrm { N O } _ { \mathrm { x } }$ emissions were specified as $0 . 4 \ \mathrm { p p m }$ and $0 . 3 \ \mathrm { p p m }$ ,respectively.A more detailed description of the rig is given in [18].
+
+The oxidizer compositions that are considered in the present study are shown in Table 1.A list of the investigated gaseous fuels is provided in Table 2.In the present work,NG,BG5 and SG fuels are considered.For all experiments, the combustor inlet temperature is kept at the constant value of $5 7 3 \mathrm { ~ K ~ }$ .The adiabatic flame temperatures are kept in the ranges $1 5 0 0 ~ \mathrm { K } { - } 1 5 5 0 ~ \mathrm { K }$ ， $1 6 0 0 \mathrm { ~ K ~ }$ 1 $1 6 5 0 \mathrm { K }$ and $1 4 5 0 ~ \mathrm { K } { - } 1 5 0 0 ~ \mathrm { K }$ for the NG,BG, and SG fuels，respectively. Lower adiabatic flame temperatures were chosen for the SG fuel for preventing the risk of flashback [19], due to its high hydrogen content (Table 2).
+
+Table1Composition of investigated oxidizers.   
+
+<html><body><table><tr><td rowspan="2">FGR %</td><td colspan="5">oxidizer fraction in vol %</td></tr><tr><td>O</td><td>CO2</td><td>HO</td><td>Ar</td><td>N</td></tr><tr><td>0</td><td>20.6</td><td>0</td><td>1</td><td>0.9</td><td>77.5</td></tr><tr><td>20</td><td>17.9</td><td>2.2</td><td>2.3</td><td>0.9</td><td>76.7</td></tr><tr><td>40</td><td>13.5</td><td>5.9</td><td>3.6</td><td>0.9</td><td>76.1</td></tr></table></body></html>
+
+Table 2Composition of investigated gaseous fuels.   
+
+<html><body><table><tr><td rowspan="2">Gas</td><td colspan="7">fuel fraction in vol %</td></tr><tr><td>CH4</td><td>CO2</td><td>C3Hs</td><td>CO</td><td>H</td><td>02</td><td>N2</td></tr><tr><td>BG1</td><td>65</td><td>30</td><td></td><td></td><td></td><td>2</td><td>3</td></tr><tr><td>BG2</td><td>55</td><td>40</td><td></td><td></td><td></td><td>2</td><td>3</td></tr><tr><td>BG3</td><td>45</td><td>50</td><td></td><td>-</td><td></td><td>2</td><td>3</td></tr><tr><td>BG4</td><td>58.5</td><td>27</td><td>-</td><td></td><td>10</td><td>1.8</td><td>2.7</td></tr><tr><td>BG5</td><td>49.5</td><td>36</td><td></td><td></td><td>10</td><td>1.8</td><td>2.7</td></tr><tr><td>BG6</td><td>40.5</td><td>45</td><td></td><td>-</td><td>10</td><td>1.8</td><td>2.7</td></tr><tr><td>SG</td><td>10</td><td>22</td><td>4</td><td>22</td><td>40</td><td>-</td><td>2</td></tr><tr><td>NG</td><td>92.5</td><td>1.3</td><td>5.2</td><td>-</td><td></td><td>-</td><td>1</td></tr></table></body></html>
+
+# Modelling
+
+Ablock structured grid, comprising 1.2 million finite volumes is used.Views of the surface grid are illustrated inFigure 3.At the inlets,constant profiles are prescribed for velocities,temperature and mass fractions that result from the combustor data.At the outlet, fully-developed boundary conditions are applied for convective-diffusively transported variables,along with a radial equilibrium for the static pressure.Although there exist more sophisticated formulations such as nonreflecting boundary conditions [2O] they are not implemented,as the above-mentioned formulation is found to be sufficiently adequate for the present low Mach number case.The no-slip walls are assumed to be adiabatic.
+
+For the computational analysis, the open source finite volume CFD code OpenFOAM [21] is used. The pressure-correction scheme PIMPLE is applied for the velocity-pressure coupling [21]. As turbulence model,the Shear Stress Transport(SST) model [21] is used within a URANS framework.A gradient-diffusion approximation is used for scalars,assuming constant turbulent Schmidt numbers of value 0.7.
+
+![](images/51974b1bcf7565a62c0c84e95b01c85bd0ecf5c611023507348c782dc8f2444f.jpg)  
+Fig.3Views of the surface grid.
+
+A second order upwind discretization scheme is applied to the convective terms for all variables.A first order Euler scheme is used for time discretization,as stability problems were encountered using a second order scheme.The time step size is chosen to ensure cell Courant numbers to be smaller than unity. Starting from an initial field, simulations were performed for a period long enough to allow the establishment of a quasi-periodic flow field that is no more depending on the initial conditions.After this state, the time-averaging was started, and continued until the time-averaged fields did not show any remarkablechangeintime.
+
+In the present analysis, the Laminar Flamelet Method (LFM) is applied as turbulent combustion model. According to the assumptions of the LFM[22], for a steady, 1D,adiabatic,laminar diffusion flame,all thermochemical dependent variables $( \varphi )$ can be expressed as functions of the mixture fraction $Z$ and the stoichiometric value of the scalar dissipation rate $\chi _ { s t }$ as
+
+$$
+\varphi = \varphi \big ( Z , \chi _ { s t } \big )
+$$
+
+The mixture fraction $Z$ denotes the mass fraction of fuel stream locally in the unburnt mixture. For $\chi _ { \mathrm { s t } }$ quite commonly,an assumed functional dependence on Z (e.g. as the one suggested by Peters [22]) is used. Such functional relationships obtained by performing 1D laminar flame calculations based on
+
+$$
+\rho \frac { \chi } { 2 } \frac { \partial ^ { 2 } Y _ { i } } { \partial Z ^ { 2 } } - \dot { m } _ { i } = 0
+$$
+
+$$
+\chi = 2 D _ { Z } ( \nabla Z ) ^ { 2 }
+$$
+
+once for all,and made available in tabulated form (flamelet libraries) for the subsequent CFD analysis (In Eq.2, $\dot { m } _ { i }$ and $D _ { z }$ denote the source term and the diffusion coefficient, respectively). Assuming $Z$ and $\chi _ { \mathrm { s t } }$ are independent, based on presumed PDFs that are to be obtained from the results of the turbulent flow, the average thermo-chemical dependent variables can,then,be obtained from(the expression is written for a Favre-averaged quantity, but holds analogously for a Reynolds-averaged quantity)
+
+$$
+\widetilde { \varphi } = \int _ { 0 } ^ { \infty } \int _ { 0 } ^ { 1 } \varphi \big ( Z , \chi _ { s t } \big ) P \big ( Z \big ) P \big ( \chi _ { s t } \big ) d Z d \chi _ { s t }
+$$
+
+Typically,a single-delta PDF is assumed for $\chi _ { \mathrm { s t } }$ . The presumed PDF for $Z$ is typically controlled by its two moments, i.e. the average value $\widetilde { Z }$ and the variance Z"2 .The modelled time-averaged differential transport equations of these variables [23] are:
+
+$$
+\begin{array} { r } { \frac { \hat { c } \overline { { \rho } } \widetilde { Z } } { \hat { \mathcal { O } } t } + \frac { \hat { c } \left( \overline { { \rho } } \overline { { u } } _ { j } \widetilde { Z } \right) } { \hat { \alpha } x _ { j } } - \frac { \hat { \mathcal { O } } } { \hat { \alpha } x _ { j } } \Bigg [ \left( \frac { \mu } { \sigma } + \frac { \mu _ { t } } { \sigma _ { t } } \right) \frac { \partial \widetilde { Z } } { \partial x _ { j } } \Bigg ] = 0 } \\ { \frac { \hat { c } \overline { { \rho } } \widetilde { Z } ^ { \prime \prime 2 } } { \hat { \mathcal { O } } t } + \frac { \hat { c } \left( \overline { { \rho } } \overline { { u } } _ { j } \widetilde { Z } ^ { \prime \prime 2 } \right) } { \hat { \alpha } x _ { j } } - \frac { \hat { \mathcal { O } } } { \hat { \alpha } x _ { j } } \Bigg [ \left( \frac { \mu } { \sigma } + \frac { \mu _ { t } } { \sigma _ { t } } \right) \frac { \partial \widetilde { Z } ^ { \prime \prime 2 } } { \hat { \alpha } x _ { j } } \Bigg ] } \\ { = 2 \frac { \mu _ { t } } { \sigma _ { t } } \frac { \hat { \mathcal { O } } \widetilde { Z } } { \hat { \alpha } x _ { j } } \frac { \hat { \mathcal { O } } \widetilde { Z } } { \hat { \alpha } x _ { j } } - c \overline { { \rho } } \frac { \varepsilon } { k } \widetilde { Z } ^ { \prime \prime 2 } } \end{array}
+$$
+
+c being a model constant $( \mathsf { c } { = } 2 . 0 )$ .The above outlined LFM is known to perform well for a large class of non-premixed flames.However, it is known [22] that it cannot accurately describe phenomena such as local extinction,re-ignition,flame lift-off.Thus,it cannot be assumed to be convenient for premixed/partially premixed flames such as the currently considered one.
+
+Therefore,in the present work an alternative flamelet model is adopted,which can better cope with premixed/ partially premixed combustion. The model was proposed byPierce and Moin [24] within an LES framework,who parametrized the flamelets based on a new flamelet variable $\lambda$ that is defined through the so-called reaction progress variable $C$ as given by
+
+$$
+\lambda = \operatorname* { m a x } ( C )
+$$
+
+The reaction progress variable can be defined in different ways.In the present work,a temperature-based definition is preferred (the original species-based definition is not convenient in the present case with FGR)
+
+$$
+C = \frac { T - T _ { u } } { T _ { b } - T _ { u } }
+$$
+
+Hence,the laminar flamelet functional relationships are established as
+
+$$
+\varphi = \varphi ( Z , \lambda )
+$$
+
+Thus,the average values thermo-chemical variables are obtained ina similar fashion to Eq.(3).In the present work,a single-delta PDF is assumed for $\lambda$ .For $Z _ { i }$ ,abeta PDF(β) is used. Thus, the average values are obtained from
+
+$$
+\widetilde { \varphi } = \int _ { 0 } ^ { \infty } \int _ { 0 } ^ { 1 } \varphi ( Z , \lambda ) \beta \big ( Z ; \widetilde { Z } , \widetilde { Z } ^ { \prime \prime ^ { 2 } } \big ) \delta \big ( \lambda - \overline { { \lambda } } \big ) d Z d \lambda
+$$
+
+As $\lambda$ is connected to $C _ { i }$ ，for obtaining the correspond ing information,a differential transport equation is solved for $C$ ,derived following the Bray's approximation [25] of the chemical source term reading as
+
+$$
+\frac { \partial \overline { { \rho } } \widetilde { C } } { \partial t } + \frac { \partial \big ( \overline { { \rho } } \widetilde { u } _ { j } \widetilde { C } \big ) } { \partial x _ { j } } - \frac { \partial } { \partial x _ { j } } \Bigg [ \Bigg ( \frac { \mu } { \sigma } + \frac { \mu _ { t } } { \sigma _ { t } } \Bigg ) \frac { \partial \widetilde { C } } { \partial x _ { j } } \Bigg ] = \overline { { \theta _ { C } } }
+$$
+
+In Eq. (8) $\theta _ { \mathrm { C } }$ is defined as
+
+$$
+\theta _ { C } = \frac { Q } { c _ { p } \big ( T _ { b } - T _ { u } \big ) }
+$$
+
+where $\boldsymbol { \mathcal { Q } }$ and $c _ { P }$ denote volumetric heat release rate and the mean isobaric heat capacity,respectively. The volumetric heat release rate $\boldsymbol { \mathcal { Q } }$ is obtained from the 1D laminar flame libraries.
+
+The flamelet libraries are constructed by 1D steady, adiabatic laminar flame calculations using the FlameMaster code [26],a priori to the field calculations of the turbulent reacting flow by means of CFD.As the underlying reaction mechanism, the GRI Mech 3.0 [27] is used, assuming a Lewis number of unity for all species.
+
+# Results
+
+# Assessment of the Computational Grid
+
+In the computational study,a formal grid independence study was not performed.An analysis on the turbulent scales implies, however, that the present grid resolution is sufficiently fine.Within the framework ofLES, different measures were proposed for assessing the grid resolution, such as the Grid Index(GI) defined as ratio of the local grid size (assumed to be given by the third root of the cell volume) to the Kolmogorov length scale.
+
+$$
+G I = \frac { \Delta } { l _ { K } }
+$$
+
+with
+
+$$
+l _ { K } = \left( \frac { \nu ^ { 3 } } { \varepsilon } \right) ^ { \frac { 1 } { 4 } }
+$$
+
+According to Celik et al.[28],GI should be smaller than 25,for achieving sufficient accuracy for LES.In the present work,not an LES,but a URANS approach is used. Still, the LES grid resolution criteria can be regarded to be useful to have an indication of the grid resolution quality. Figure 4 presents the distribution of GI calculated for the NG flame with $20 \%$ FGR,at a time step,in a plane through the swirler (at the channel midheight),which is a critical region for the mixing and where the length scales are small. One can see that the values do not exceed 25 considerably and remain lower than 50. Thus,considering that not an LES but a URANS approach is used in the present study,which is theoretically less demanding as far as the grid resolution is concerned, it can be assumed that the present grid adequately fine.
+
+![](images/1de0c1fda9fde02dfc61fc1e0d2342348e5c14e4db16d00c73ff2a1573d1d5dc.jpg)  
+Fig.4GI distribution at an instant of time,in a plane through the swirler (at the channel mid-height） for the NG flamewith $20 \%$ FGR.
+
+# NaturalGasFlames
+
+Calculated distribution of instantaneous velocity magnitude,time-averaged streamlines,iso-surface of high vorticity and distribution of instantaneous and time- averaged temperature are displayed in Figure 5.It can be observed that a large inner recirculation zone is formed at the exit of the burner nozzle,at the frontal stagnation of which,the flame is anchored.The unsteady features of the predicted flow field exhibiting a precessing vortex core can also be observed.
+
+As it can be seen in the predictions presented in Figure 5,the flame is positioned at the exit of the burner nozzle, as confirmed by the experiments.The combustion takes place in the premixed mode,where maximum temperature of about $1 5 0 0 \mathrm { ~ K ~ }$ are achieved behind the slightly curved flame brush (Fig. 5e).
+
+The measured and predicted temperature variations along the combustor length are presented in Figure 6 for the NG flame with $20 \%$ FGR，along the combustor length (axial distance is measured from the position of the burner nozzle outlet (Fig.1)),and along a line parallel to axis at a radial position $\mathrm { ~ r ~ } = ~ 3 0 ~ \mathrm { \ m m }$ (This line touches the burner nozzle outlet edge (Fig.1)). Both experiments and predictions show a rapid temperature rise across the rather thin flame front, as already indicated by the temperature plot of Figure 5.Since the flame front is curved and the flame brush is comparably thicker near the burner nozzle edge (Fig. 5) the temperature increase observed along the $\mathbf { r } = 3 0 ~ \mathrm { m m }$ line (Fig.6b) is less steep compared to the temperature rise along the combustor axis (Fig. 6a).The predicted rise of temperature in the flame front shows a good agreement with the experiments (Fig. 6). The burnt gas temperature is overpredicted by about $1 0 0 { - } 1 5 0 \ \mathrm { K }$ (Fig. 6). This may be due to the assumption of an adiabatic flame in the predictions.
+
+![](images/c733261eee59754c002f6379436fe4930215a0ea8f4e05091479aa487e4c19dd.jpg)  
+Fig.5Predictions for the NG flame with $20 \%$ FGR(a) Velocity magnitude in combustor mid-plane at an instant of time,(b) time-averaged streamlines in combustor midplane,(c) iso-surface ofhigh vorticity at a time step,(d) temperature field in combustor mid-plane at an instant of time,(e) time-averaged temperature field in combustor mid-plane.
+
+Measured and predicted mass fractions (in ppm $@1 5 \%$ $\mathbf { O } _ { 2 } \mathbf { , }$ ）of CO and NO at the combustor exit are presented in Figure 7,for the NG flame with $0 \%$ FGR and $40 \%$ FGR. The predicted emission mass fractions agree with the measured values especially good for the $40 \%$ FGR (Fig. 7).
+
+For $0 \%$ FGR,the agreement for the NO mass fraction is better compared to CO mass fractions,whereas for the latter, the calculations clearly overpredict the very low measured value. The overall agreement can still be considered to be quite satisfactory (Fig.7). An interesting, and, having the thermal NO formation mechanism [29] in mind,rather unexpected trend is that the NO emission increases with increasing FGR.One would normally expect the contrary since both major contributors to NO formation rate,i.e. the oxygen concentration and temperature (thermal NO), decrease with increasing FGR.This trend is clearly observed in the measurements and only slightly predicted by the calculations.This trend will be discussed in more detail in the subsequent section on BG flames.
+
+![](images/4bfccbce6277282335aab2cd722876e5d7a8834a6c690709851314ae9d4c8202.jpg)  
+Fig.6Time-averaged measured and predicted temperature variation along combustor length for the NG flame with $20 \%$ FGR,(a) along burner centerline,(b) along $\mathbf { r } = 3 0 \mathrm { m m }$ line.
+
+![](images/71146579fef8767fa161a4fa1f9532ada2037f476c0b80776fc6d0903f77ba16.jpg)  
+Fig.7Measured and predicted mass fractions (inppm $@$ $1 5 \ \% \mathrm { O } _ { 2 } )$ at the combustor exit for the NG flame with $0 \%$ FGR and $40 \%$ FGR,(a) CO mass fractions (b) NO mass fractions.
+
+# BiogasFlames
+
+Predicted time-averaged temperature fields for the BG flame(the BG5fuel)fordifferent levelsofFGR $0 \%$ FGR, $20 \%$ FGR, $40 \%$ FGR) are presented in Figure 8 in combustor mid-plane.It is interesting to note that flue gasrecirculation has a very remarkable influence on the thickness of the flame brush according to the predictions, as observed especially for the $40 \%$ FGR case.Furthermore,it can be observed (Fig.8) that the BG flame exhibits a generically more strongly curved/inclined flame front compared to the NG flame,which exhibits a comparably flat one (Fig. 5e). The higher hydrogen content of the BG fuel may be playing a role here that allows a higher penetration of the flame in the core region, due to a higher flame speed, whereas the boundary regions may be protected against flame propagation due to the locally higher strain rates.
+
+Measured and predicted mass fractions (in ppm $@1 5 \%$ $\begin{array} { r } { { \bf O } _ { 2 } \dot { \bf { \Psi } } , } \end{array}$ ） of CO and NO at the combustor exit are presented in Figure 9, for the BG flame with $0 \%$ FGR, $20 \%$ FGR and $40 \%$ FGR. One can observe that both the measured CO and NO emissions for the BG flame steadily increase with increasing FGR ratio,which is predicted qualitatively well by the calculations (Fig. 9). As mentioned above, it is rather unexpected that NO emissions increase with increasing FGR ratio,if one considers the thermal NO formation path.The reason for the observed behavior is that increasing FGR ratios beyond a certain level ( $10 \%$ $- 1 5 \%$ FGR） shifts the operation point nearer to stoichiometry,which is beneficial for another NO formation path,namely for the prompt NO via the Fenimore mechanism [29],which is dependent on hydrocarbon radicalsand occurs mainly during the heat release.The latter is prolonged with increasing FGR ratios as manifested by thepredicted thickeningof the flame brush with increasing FGR ratio (Fig. 8). Similar trends,i.e.increasing NO emissions with increasing FGR ratio were also observed in the previous studies of other authors [30]. At this stage. it should be pointed out that these effects can only be predicted by a model incorporating detailed chemistry, and the presently employed LFM represents a very efficient alternative in that respect. On the other hand,it shall also be pointed out that the vertical scale of the CO plot (Fig. 9a) is a logarithmic one.Thus, the quantitative disagreement between the measurements and predictions is actually larger than it seems to be at the first sight. The comparably inferior quantitative prediction for CO may be due to fast chemistry assumption underlying the LFM being not very suitable for representing the CO kinetics.
+
+![](images/7c6896d603ae1849d18d6c19e89778ec365d1751e4176847b8d3eab407acc3e1.jpg)  
+Fig.8Predicted time-averaged temperature fields in combustor mid-plane for the BG flame, (a) $0 \%$ FGR, (b) $20 \%$ FGR,(c) $40 \%$ FGR.
+
+![](images/21a0e6a2c56d20fdac74d042f99cde9c587403e0f1964a116d3dd61ae64a535e.jpg)
+
+# Syngas
+
+Predicted time-averaged temperature fields in combustor mid-plane are presented for the SG flame for $20 \%$ FGR and $40 \%$ FGR in Figure 10. One can observe (Fig. 10) that the inclination of the flame front is even stronger for the SG flame,compared to the BG flame (Fig. 8b).
+
+This may,again,be attributed to the even higher hydro gen content of the SG (Table 2). The thickening of the flame brush(Fig.1O) with increasing FGR ratio is quite moderate compared to the BG flame (Fig. 8).
+
+Measured and predicted mass fractions (in ppm $@1 5 \%$ $\begin{array} { r } { { \bf O } _ { 2 } \dot { \bf { \Psi } } , } \end{array}$ ）of CO and NO at the combustor exit are presented in Figure 11,for the SG flame for $20 \%$ FGR and $40 \%$ FGR. It can again be observed that the calculations provide a qualitatively well prediction of the experiments. The quantitative agreement is better and rather pretty good for the NO mass fractions (Fig.11b),whereas the quantitative discrepancies are larger for the CO mass fractions (Fig. 11a).
+
+![](images/11501f0ba58014aa5ee63e806ffb278a27a6178343ba1121d2a8a0dcf79b25c7.jpg)  
+Fig.10Predicted time-averaged temperature fields in combustor mid-plane for the SG flame, (a) $20 \%$ FGR, (b) $40 \%$ FGR.
+
+![](images/38cb43046303214d9a8b470d18bf33ac61e2c127995aa01035b28915fa51faa5.jpg)  
+Fig.9Measured and predicted mass fractions (inppm $@$ $1 5 \% \mathrm { O } _ { 2 } \mathrm { , }$ at the combustor exit for the BG flame with $0 \%$ FGR, $20 \%$ FGR,and $40 \%$ FGR(a) CO mass fractions (b) NO mass fractions.   
+Fig.11Measured and predicted mass fractions (in ppm $@$ $1 5 \%$ $\begin{array} { r } { \mathbf { O } _ { 2 } \mathbf { , } } \end{array}$ ）at the combustor exit for the SG flame with $20 \%$ FGR and $40 \%$ FGR(a) CO mass fractions (b) NO mass fractions.
+
+# Conclusions
+
+Turbulent flames in a generic swirl gas turbine combustor are investigated numerically. The turbulent flow is modelled within a URANS framework,using the SST turbulence model. For modeling the turbulence-chemistry interaction,a laminar flamelet model based on the mixture fraction and reaction progress variable is used,coupled with a presumed probability density function approach. Natural gas,biogas and syngas flames with and without external flue gas recirculation are investigated. The numerical results are observed to show a fair agreement with the experimental data. The slight overprediction of the combustor exit temperature is assumed to be caused bythe assumption of adiabatic flame in the mathematical model. The model will be improved in the future to include non-adiabatic effects,which is also expected to lead to a more accurate prediction of NO emissions.Accuracy of the CO emissions were in general not as good as that of NO emissions.This may be due to the applied laminar flamelet model,which maynot be very suitable for the relatively slow CO chemistry.Alternative turbulent combustion models will also be explored in the future.
+
+# References
+
+[1]IPCC,20o1,“Summary for Policymakers",Edenhofer, O., et al. (Eds.) IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation，Cambridge University Press,UK.   
+[2]Bolland,O.and Mathieu,P.,1998,“Comparison of two $\mathrm { C O } _ { 2 }$ removal options in combined cycle power plants”, Energy Conversion and Management,39,pp.1653-1663.   
+[3] Guethe, F., Stankovic,D.,Genin,F., Syed,K.and Winkler,D.,2011,“Flue gas recirculation of the Alstom sequential gas turbine combustor tested at high pressure", ASME Paper GT2011-45329,ASME Turbo-Expo,Vancouver, Canada..   
+[4]ElKady，A.,Evulet,A.，Brnad,A.,Ursin，T.and Lynghjem,A.,20o8,“Exhaust gas recirculation in DLN Fclass gas turbines for post combustion $\mathrm { C O } _ { 2 }$ capture”, ASME Paper GT2008-51152,ASME Turbo-Expo,Berlin, Germany.   
+[5]Winkler,D.,MuellermP.,Reimer, S.,Griffin,T.,Burdet, A.,Mantzaras,J.and Germay, Y.,20o9,“Improvement of gas turbine combustion reactivity and flue gas recirculation condition with in-situ hydrogen addition”,ASME Paper:GT2010-59182，ASME Turbo-Expo，Glasgow, UK.   
+[6]Burdet,A.,Lachaux,T.,de la Cruz Garcia,M.and Winkler,D.,2O1o,“Combustion under flue gas recirculation conditions in gas turbine lean premix burner”,ASME Paper GT2010-23396, ASME Turbo-Expo.,Glasgow, UK.   
+[7]Kim, H.,Arghode,V.and Gupta,A., 2009,‘Combustion characteristics of a lean premixed LPGair combustor”, International Journal of Hydrogen Energy, 34, pp. 1045- 1053.   
+[8]Lee, M., Seo, S., Chung, J., Kim, S., Joo, Y.,and Ahn,D., 2010,“Gas turbine combustion performance test of hydrogen and carbon monoxide synthetic gas”,Fuel,89,pp. 1485-1491.   
+[9]Khalil，A.，Arghode,V., Gupta,A. and Lee,S.， 2012, “Low calorific value fuelled distributed combustion with swirl for gas turbine applications”, Applied Energy, 98, 69-78.   
+[10]Khalil,A.and Gupta,A.,2013,“Fuel flexible distributed combustion for eficient and clean gas turbine engines”, Applied Energy,109,267-274.   
+[11]Benim，A.C.，Nahavandi，A.，and Syed，K.，2005, “URANS and LES analysis of turbulent swirling flows”, Progress in Computational Fluid Dynamics, 5, pp. 444- 454.   
+[12]Benim,A. C.,Escudier,M.P.,Nahavandi,A., Nickson, K.,and Syed, K., 2008,“DES analysis of confined turbulent swirling flows in the sub-critical regime",Peng, S. H.and Haase,W.(Eds.) Advancesin Hybrid RANS-LES Modelling, Springer, Berlin, pp.172-181.   
+[13]Benim,A. C.,Escudier, M.P.,Nahavandi,A., Nickson, K.,and Syed, K., 2010,“Experimental and numerical investigation of incompressible turbulent flow in an idealized swirl combustor”， International Journal of Heat and Fluid Flow,20, pp.348-371.   
+[14]Benim,A. C., Cagna, C., Joos,F.,Nahavandi,A., and Wiedermann,A.,20o9,“Computational analysis of turbulent swirling flow in water model of a gas turbine combustor,Proc. 6th International Conference on Computational Heat and Mass Transfer, South China University of Technology, Guangzhou, China, pp. 338-346.   
+[15]Benim,A. C., Iqbal, S.,Nahavandi,A., Meier,W.,Wiedermann,A.,and Joos,F.,2014,“Analysis of turbulent swirling flow in an isothermal gas turbine combustor model"，ASME Paper GT2014-25008，ASME Turbo-Expo, Duesseldorf, Germany.   
+[16]Poinsot, T.,Veynante,D.and Candel, S.，1990,“Diagrams of premixed turbulent combustion based on direct simulation”,Proc.23rd Symp.(Int.） Combustion，The Combustion Institute,Pitsburgh,PA, USA, pp. 613-619.   
+[17]Benim,A.C.and Syed,K.J.,1998,“Laminar flamelet modelling of turbulent premixed combustion”,Applied Mathematical Modelling,22,pp.113-136.   
+[18]Fischer, S., KluB, D., Joos,F., 2014,“Experimental investigation of a fuel flexible generic gas turbine combustor with external flue gas recirculation”,ASME Paper GT2014-25388，ASME Turbo-Expo,Duesseldorf,Germany.   
+[19]Benim,A.C.and Syed,K.J.,2015,Flashback Mechanismsin Lean PremixedGas Turbine Combustion,Academic Press,Cambridge,MA,USA.   
+[20] Zafer,B.and Delale,C.F.,2014,“A novel nonreflecting boundary condition for unsteady flow"，International Journal for Numerical Methods in Fluids,74,pp.59-72   
+[21] www.openfoam.com   
+[22] Peters，N.，20o2，Turbulent Combustion，Cambridge UniversityPress,Cambridge,UK.   
+[23] Poinsot,T.and Veynante,D.,2oo5,Theoretical and Numerical Combustion, $2 ^ { n d }$ ed.,R.T. Edwards Inc., Philadelphia, USA.   
+[24]Pierce, C.D.and Moin, P., 2004,“Progress-variable approach for large-eddy simulation of non-premixed turbulent combustion”, Journal of Fluid Mechanics, 504,pp. 73-97.   
+[25] Bray, K. N. C.，1978,“The interaction between turbulence and combustion”, Proc. $1 7 ^ { \mathrm { t h } }$ Symp. (Int.） Combustion,The Combustion Institute,Pittsburgh,PA,USA, pp.223-233.   
+[26]Pitsch,H.,1998,“A $\mathrm { C } { + } { + }$ computer program for O-D and 1-D laminar flamelet calculations". Technical Report, RWTH Aachen, Germany.   
+[27] http://combustion.berkeley.edu/gri-mech/.   
+[28] Celik,I.,B.,Cehreli, Z.N.and Yavuz,I.,20o5,“Index of resolution quality for large eddy simulations",J.Fluids Eng.,127,pp.949-958.   
+[29] Warnatz, J.,Maas, J.and Dibble,R.,2006,Combustion, Springer, Berlin, Germany.   
+[30] Guethe,F.,de la Cruz Garcia,M.,and Burdet,A.,“Flue gas recirculation in gas turbine:Investigation of combustion reactivity and NOx emission”ASME Paper GT2009- 59221,ASME Turbo-Expo, Orlando,USA.

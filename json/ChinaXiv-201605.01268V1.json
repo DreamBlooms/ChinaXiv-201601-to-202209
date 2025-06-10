@@ -1,0 +1,607 @@
+[
+    {
+        "type": "text",
+        "text": "Structural Mechanism Underlying the Specific Recognition between the Arabidopsis State-Transition Phosphatase TAP38/PPH1 and Phosphorylated Light-Harvesting Complex Protein Lhcb1PEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xuepeng Wei,a,b Jiangtao Guo,a Mei Li,a and Zhenfeng Liua,1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NationalLaboratoryof Biomacromolecules,InstituteofBiophysics,ChineseAcademyof Sciences,Beijing1000,China School of Life Sciences,University of Chinese Academy of Sciences,Beijing100101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORCID ID: 0000-0001-5502-9474 (Z.L.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During state transitions,plants regulateenergydistribution between photosystems丨andIthrough reversible phosphorylation andlateralmigrationofthemajorlight-harvestingcomplexLHCll.DephosphorylationofHCllandthe transitionfromstate2to state1requiresa thylakoid membrane-associated phosphatase namedTAP38orPPH1.TAP38/PPH1 specificaly targets LHCl butnotthecoresubunitsofphotosystemll,whereas theunderlyingmolecularmechanismoftheirmutualrecognitioniscurently unclear.Here,we presentthe structuresof Arabidopsis thalianaTAP38/PPH1inthesubstrate-freeandsubstrate-bound states. The protein contains a type 2C serine/threonine protein phosphatase (PP2C) core domain, a $\\ M _ { \\mathrm { { n } } ^ { 2 + } }$ (or $M g ^ { 2 + }$ )binuclearcenterand twoaditionalmotifscontrbuting tosubstraterecognition.A15-merphosphorylatedN-terminalpeptideofLhcb1bindstoTAP38/ PPH1 on two surfaceclefts enclosed bythe additional motifs.The firstsegmentofthe phosphopeptide is clamped byapairof tooth-likearginineresiduesat Cleft1site.The bindingadopts the lock-and-keymechanism with slight rearangementof the substratebinding residuesonTAP38/PPH1.Meanwhile,amore evidentsubstrate-inducedfiting occurs on Cleft2harboring the extendedpartof thephosphopeptide.Theresultsunravel thebases forthe specific recognition between TAP38/PPH1and phosphorylated Lhcb1,a crucial step in state transitions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inalgaeand land plants,imbalancedexcitationof thetwo photosystems (photosystem I [PSl] and photosystem I [PSl)wil occur when the light intensity and quality are constantly fluctuating inthe natural environment.To avoid this,plants are capable of responding to the changes in light conditions and counteracting the potential photodamage and photoinhibition effects caused by the imbalance.The state transition is a fundamental photosynthetic acclimation mechanism that operates eficiently to balance the distribution of excitation energy between PSl and PSll under varying light conditions (Bonaventura and Myers,1969;Murata, 1969a,1969b).The state transition process in plants is dependent onreversible phosphorylationand dephosphorylationof the major light-harvestingcomplexLHCll (Allen，1992). It isalso accompaniedby reorganization of the thylakoid membranes and lateral migrations of the mobile LHCll pool to distribute excitation energy between the two photosystems.Under low white light or red light (withthewavelengths specific for exciting PSll),overexcitation of PSll leads to reduction of the plastoquinol pool and activation of LHCIl kinase by the cytochrome $b _ { 6 } f$ complex (Vener et al.,1997; Zito et al.，1999). Subsequently,a portion of LHCll,mainly in the formofa (Lhcb1) $\\vert _ { 2 }$ Lhcb2heterotrimer，is phosphorylated, dissociates from the periphery of PSll,and migrates to PSl to rebalance the excitation energy distribution (Pietrzykowska et al., 2014).Meanwhile,phosphorylation of the bulk LHCll,with Lhcb1 asits major protein component, leads to reorganization of the grana structure,which may facilitate phosphorylation and mobilization of the peripheral LHCll. On the other hand,when the light composition is dominated by far-red light (with the wavelengths specifically exciting PSl), or under completely dark conditions,the oxidized plastoquinol pool will induce inactivation of the LHCll kinase (Rochaix,2013).Alternatively，the LHCll kinase may be inhibited by the ferredoxin-thioredoxin system under high white light conditions (Rintamaki et al.，2ooo).Through the catalytic action of an LHCll phosphatase, the phospho-LHCll is dephos phorylated;subsequently,the mobile fraction of LHCll returns to the periphery of PSll to reequilibrate the excitation energy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State transitions require a chloroplast kinase and phosphatase pairfor the phosphorylation and dephosphorylation of LHCll,respectively (Rochaix etal.,2012).The identities of the kinase and phosphatase responsible for LHCll phosphorylation and dephosphorylation during state transitions have remained elusive for over30 years.Stt7 from Chlamydomonas reinhardtii and STN7 fromArabidopsisthalianawere identifiedasthekinasescrucial for the phosphorylation of LHCll and the transition from state 1 to state 2 (Depege etal.,2003;Bellafiore etal.,2005).In the stt7 or stn7knockout plants,phosphorylation of LHCll stays at a low level regardless of the changing light conditions.The Stt7 and STN7 proteins have a small N-terminal regionat the luminal side,a single transmembrane helix,and a large catalytic domain at the stromal side (Rochaix,2oo7).The catalytic domainadoptsa canonical fold ofthe Ser/Thr kinase family.It contains an ATPbindingsite sandwiched between two lobes and an additional Stt7/STN7- characteristic motif inserted near the kinase activation loop region (Guo et al.,2013).Despite extensive efforts,the mechanisms underlying substrate recognition and activity regulation of Stt7/ STN7 are still enigmatic. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Investigations on the LHCll phosphatase date back to 1980 whena thylakoid membrane-associated phosphatase activity was reported to be capable of dephosphorylating LHCll (Bennett, 1980).This phosphatase activity was stimulated by ${ \\mathsf { M g C l } } _ { 2 }$ and inhibited by NaF.Furtherwork reported thatanother phosphatase activity,peripherallyassociated on the thylakoid membrane,can also dephosphorylate thylakoid proteins (Sun et al.，1989).Later on,a $2 9 - 1 < 0$ stromal phosphatase was purified and found to be capable of dephosphorylating LHCll, too (Hammer et al.，1995, 1997).The activities of thylakoid protein phosphatases are independent of the redox states，and the kinetics of dephosphorylation reactions are heterogeneous among different substrates, including LHCll and PSll core subunits D1, D2,and CP43 (Silverstein et al.，1993). More recently， two groups independently identified， through genetic and biochemical approaches,a chloroplast phosphatase specifically involved in LHCll phosphorylation (Pribil et al.,2010; Shapiguzov et al.,2010).This phosphatase was named differently by the two groups,either as the Thylakoid-Associated Phosphatase of 38 kD (TAP38) (Pribil et al.,2010) or as Protein Phosphatase 1 (PPH1) (Shapiguzov et al.,2010). State transitions in tap38/pph1 knockout plants were blocked in state 2 and the dephosphorylation of LHCll was strongly impaired in these mutants.Moreover,in vitro assays indicated that recombinant TAP38 is able to dephosphorylate LHCll directly (Pribil etal.,201O).Therefore, it is believed that TAP38/ PPH1 represents the long-sought LHCll phosphatase (Pesaresi et al.,2011; Puthiyaveetil et al.,2012).TAP38/PPH1 is a type 2C serine/threonine protein phosphatase (PP2C) belonging to the metal-dependent protein phosphatases family.TAP38/PPH1 exhibits low sequence identity with the other PP2C members in Arabidopsis and forms a distinct clade with its orthologs from otherplant species.The majority of TAP38/PPH1 protein resides in the thylakoid membrane with a predicted membrane-spanning helix at its C-terminal region,while some minor soluble isoforms are also present in the stroma (Shapiguzov et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to TAP38/PPH1,another chloroplast PP2C-type phosphatase named PSII CORE PHOSPHATASE (PBCP)was identified as the one specifically involved in dephosphorylation of PSIl core subunits,such as D1, D2,and CP43 (Samol et al.,2012). The function of PBCP is to counteract the action of STN8 kinase (required for the phosphorylation of PSll core subunits) (Bonardi etal.,2oo5),and it is possibly involved in unfolding of thylakoid membranes during the repair process of PSll after photodamage. Therefore，PBCPand TAP38/PPH1representtwo pivotal chloroplast phosphatases with distinct and specialized activities in the acclimation of the photosynthetic apparatus in response to changes in light conditions.Although the in vivo functions of TAP38/PPH1 and PBCPhave been demonstrated,the molecular mechanism underlying the specific recognition between TAP38/ PPH1 (or PBCP) and the substrate remains elusive and awaits to beaddressed through structural and biochemical approaches. Previously, the structures of other PP2C members suggested that they all share a structurally conserved catalytic core domain bearinga binuclear metal center (Shi, 20o9;Barford,2010).The catalytic reaction mediated by the PP2C members was proposed to occur through the bimolecular nucleophilic substitution $( \\mathsf { S } _ { \\mathsf { N } } 2 )$ mechanism based on the earlier works on human $\\mathsf { P P 2 C \\alpha }$ (Dasetal.,1996;Jackson etal.,2003).Nevertheless, the details about substrate recognitionand catalytic mechanism remain to be revealed through structural studies of a PP2C phosphatase in complex with its natural phosphopeptide/phosphoprotein substrate (Barford,2010; Dupeux et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand the mechanistic details of one key step in state transitions, namely,dephosphorylation of LHCll,we solved the highresolution crystal structures of the stromal domain of TAP38/PPH1 from Arabidopsis (At-TAP38/PPH1),in both substrate-free and substrate-bound states.Direct and specific interactions between TAP38/PPH1 and the N-terminal phosphorylated polypeptide of Lhcb1 have beenobserved and are described indetail. Insights into the mechanisms of TAP38/PPH1-pLhcb1 mutual recognition and the catalytic process of TAP38/PPH1 have been obtained. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Substrate Specificity of TAP38/PPH1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toanalyze the phosphatase activityand substrate specificity of TAP38/PPH1,we used the native thylakoid phosphoproteins from pph1-2 plants (lacking endogenous TAP38/PPH1) and various synthetic phosphorylated peptides as the substrates for the purified recombinant stromal domain of Arabidopsis TAP38/ PPH1 (At-PPH1-SD，Arg59-Thr351).The results show that the recombinant PPH1-SD protein is highly active toward phosphorylated LHCll (pLHCll) and displayed the fastest kinetics toward pLHCll among the four phosphoproteins detected in protein gel blots (Figures1Ato 1E).AlthoughPPH1-SD is barelyactive toward pD1,it can also dephosphorylate pD2 and pCP43 in addition to pLHCIl,but at much lower efficiencies than toward pLHCll (Figures 1Aand 1E).Evidently，TAP38/PPH1 hasa strong preference for the pLHCll substrate over the PSll core subunits. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What is the specific feature of pLHCll making ita more favorable substrate for PPH1 than the others? The phosphothreonine (pThr ort) residues of pLhcb1 and pLhcb2 are located at the third position from the N terminus with two basic residues preceding it, such as Arg-Lys-pThr-Val-Ala (pLhcb1) or Arg-Arg-pThr-Val-Lys (pLhcb2) (Vener et al.,2001). In contrast, those of pD1 (pThr-AlaIle-Leu-Glu)，pD2 (pThr-Ile-Ala-Leu-Gly)，and pCP43 (pThr-LeuPhe-Asn-Gly)are located at the first position of their N termini without the two preceding basic residues.To investigatewhether the first two basic residues of pLhcb1/2 play a role in the specific substrate recognitionbyPPH1,we have performedaphosphatase activity assay on PPH1-SD using synthetic phosphorylated peptidesubstrates (Figure 1F).The results showagain that PPH1-SD exhibits higher activity toward the N-terminal phospho-pentapeptide of pLhcb1/2 than toward those of pD1，pD2 or pCP43. When the first two basic residues of pLhcb1 (RK) are fused to the N-terminal ends of pD1,pD2,and pCP43 phosphopeptides,the enzyme shows enhanced activity toward these chimeric substrates.On the other hand,when the Arg-Lys or Arg-Arg residues are deleted from the pLhcb1/2 phosphopeptides,the activity of ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/06902c04abbe830dcdebad49eafb2f1352697c2ba7a5857a490d6876453f7a07.jpg",
+        "img_caption": [
+            "Figure 1.The Phosphatase Activity of Recombinant At-PPH1-SD Protein. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(A)DeposphorylationofthetyladmmbraneprotenscatalydbytepurfiedP-Dpoteinepospoproteinsreprepaedfrote pph1-2 plant and probed through the protein gel blot using the antiphosphothreonine antibody.   \n(B)AparallotrolexpeientsereprfdittadgtePP-Dproteininteeactiodatasotackgroudactiisf endogenous thylakoid phosphatases other than TAP38/PPH1.   \n(C) The dephosphorylation kinetic curves of pLHCll,pD1，pD2,and ${ \\mathsf { p C P } } 4 3$ corresponding to the protein gel blot shown in (A).The intensities of theproteinbandsatdiferentimepointswerescaledtothoseatthebeginingofreactions.Therelativeamountofphosphoproteins $= 1 0 0 \\%$ when $\\mathbf { \\boldsymbol { \\mathfrak { t } } } = \\mathbf { \\boldsymbol { 0 } }$ min.   \n(D)The dephosphorylation kinetic curves corresponding to the control protein gel blot shown in (B).   \n(E)Processedineticpresetigeposotictiatdogos-looith bandintensitydata subtracting the efects of endogenous phosphatases.The relative amountof phosphoproteins $= 1 0 0 \\% - \\Delta \\mathsf { I } _ { \\mathsf { P P H 1 } }$ $\\Delta \\mathsf { I } _ { \\mathsf { P P H 1 } }$ represents the percentage of band intensity decrease caused by the activity of PPH1-SD. $\\Delta \\mathsf { I } _ { \\mathsf { P P H 1 } } = [ \\mathsf { I } _ { 0 } ( \\mathsf { A } ) - \\mathsf { I } _ { \\mathrm { t } } ( \\mathsf { A } ) ] / \\mathsf { I } _ { 0 } ( \\mathsf { A } ) - [ \\mathsf { I } _ { 0 } ( \\mathsf { B } ) - \\mathsf { I } _ { \\mathrm { t } } ( \\mathsf { B } ) ] / \\mathsf { I } _ { 0 } ( \\mathsf { B } ) . \\mathsf { I } _ { 0 } ( \\mathsf { A } )$ and $\\mathsf { I } _ { 0 } ( \\mathsf { B } )$ represents the O-min band intensities extracted from A and B panels,respectively. ${ \\mathsf I } _ { \\mathsf { t } } ( { \\mathsf A } )$ and $\\mathsf { I } _ { \\mathsf { t } } ( \\mathsf { B } )$ represents the t-min band intensities extracted from (A) and (B), respectively.The errr barsin (C)to (E)indicate the standard errorsof themean valuesof three independent repeats $( n = 3 )$ ：   \n(F)Terelativesptasectiofadfeteicospoaedeptidsctity-smeasdo thephosphataseassaysystmmonitoringthereleaseoffreephospateduringthedeposphorylationreactio.ItsactittwardpLbp phopeptide (RKtVA) was normalized as $100 \\%$ and the rest data were proportionally scaled.The sequences of the phosphopeptides (pLhcb1, pLhcb1△RK,pcb2,pb2R,pD1,RK-pD1,D2,RK-pD2,pCP43,ndK-pCP43)usedfortheassayarelabeledontopofthes.e error bars denote the standard errors of the mean values ( ${ \\mathfrak { n } } = { \\mathfrak { g } }$ except for pLhcb1△RK and pLhcb2△RR, whose $n = 6$ ${ } ^ { \\star } \\mathsf { P } < 0 . 0 5$ and $^ { \\star \\star \\star } \\mathsf { P } < 0 . 0 0 1$ by t test). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PPH1-SD toward the resulting pThr-Val-Ala or pThr-Val-Lys peptides drops to a minimal level ( $1 \\%$ of the activity toward Arg-Lys-pThr-Val-Ala) close to the background (Figure 1F). Therefore,the first two basic residues of pLhcb1/2 are crucial for the specificity of TAP38/PPH1 toward pLHCll. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Structure of PPH1 in Substrate-Free State ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To understand the structural basis for specific substrate recognition of TAP38/PPH1,we have successfully crystallized the Arabidopsis PPH1-SD and solved its structure at $1 . 6 \\cdot \\tt { \\AA }$ resolution through X-ray crystallography.The overall structure of PPH1-SD containsa conserved PP2C-type catalytic core domain and two additional motifs (Motifs A and B) (Figures 2A to 2C).The core domain superimposes well with the other members of PP2C-type phosphatases，such as the human PP2Cα (Das et al.，1996) (Supplemental Figure 1A) and the Arabidopsis ABSCiSlC ACID INSENSITIVE1 (ABl1) phosphatase involved in the abscisic acid signaling pathway (Supplemental Figure 1B) (Miyazono et al., 2009;Yin et al.,2009)，despite the fact that TAP38/PPH1 only shares ${ \\sim } 2 1 \\%$ sequence identity with either of them.In brief, the core domain of PPH1-SD harbors a central $\\beta$ -sandwich structure containing two sheets of five antiparallel $\\beta$ -strands (Figure 2A).The $\\beta$ -sandwich is flanked by two $ { \\alpha }$ -helices on one side and three more $ { \\alpha }$ -helices on the other side,leading to the formation of a tightly packed $2 \\alpha { - } 5 \\beta { - } 5 \\beta { - } 3 \\alpha$ core domain.Motifs A (residues 196 to 237)and B (residues 238 to 277)are consecutively inserted in the loop region between $\\boldsymbol { \\beta 7 }$ and β8 (Figure 2A). Motif A contains an $ { \\alpha }$ -helix followed bya long loop,while motifB folds intoa hairpinlike structure with a pair of antiparallel $\\alpha$ -helices.MotifB covers the segment of sequence (residues 242 to 274),which is a characteristic feature of the PPH1 family identified through bioinformatics analysis (Shapiguzov et al.,201O).Motifs A and B are not only covalently linked together，but also form extensive noncovalent interactions with each other (Supplemental Figures 2A and 2B). These interactions include the van der Waals interactions (Trp220- Phe262 and Trp220-le266) at the buried hydrophobic interface and hydrogen bonds (such as Cys227-Arg257 and Ala217- Lys269) as well as ionic interactions (such as Asp229-Arg240) at the solvent-exposed interface.Furthermore,the two stably associated motifs are attached to the core domain through the loop region between Val-232 and Ile-239 (Supplemental Figure 2C). This loop interacts with the core domain through hydrogen bonds, hydrophobic interactions,and ionic interactions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Atthe top region of PPH1-SD,two narrow clefts form between the two $\\beta$ -sheets of the core domain (Cleft1) and between the two additional motifs (Cleft2) (Figure 2B). Cleft1 harbors a $\\mathsf { M n } ^ { 2 + } \\mathrm { - } \\mathsf { M n } ^ { 2 + }$ binuclear center and its bottom surface is highly electronegative The negative charges carried by the acidic residues (Asp-93, Asp-296,and Asp-339) in this area are neutralized by the two $\\mathsf { M n } ^ { 2 + }$ ions (Mn1 and Mn2).The PPH1-SD protein used for crystallization was purified in the presence of $2 m M \\ M n ^ { 2 + }$ ，and the $\\mathsf { x }$ -ray anomalous difference map computed with data collected near the K edge of Mn confirmed that the two metal binding sites in PPH1- SD do contain $\\mathsf { M n } ^ { 2 + }$ (Supplemental Figure 1C). In the activityassay onthe effectof divalent cations (Figure 2D),PPH1 exhibits optimal activitywith ${ \\mathsf { M } } { \\mathsf { g } } ^ { 2 + }$ and maintains $40 \\%$ activity with $\\mathsf { M n } ^ { 2 + }$ ,while the others,like ${ \\mathsf { C } } a ^ { 2 + }$ or $Z n ^ { 2 + }$ ，do not support its activity.The binding sites for $\\mathsf { M g } ^ { 2 + }$ should overlap with those of $\\mathsf { M n } ^ { 2 + }$ considering that their coordination geometries are both octahedral and either of them supports the catalytic activity of PPH1/TAP38. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The binuclear center structure in PPH1/TAP38 closely resembles the $\\mathsf { M n } ^ { 2 + } { \\mathrm { - } } \\mathsf { M n } ^ { 2 + }$ center found in the human PP2Cα structure (Das etal.,1996) (Figures 2E and 2F).The two metal ions in PPH1/ TAP38 are spaced $3 . 9 \\textup { \\AA }$ apart,almost identical to that of $\\mathsf { P P 2 C \\alpha }$ $( 3 . 8 \\mathring { \\mathsf { A } } )$ .Each $\\mathsf { M n } ^ { 2 + }$ ion is coordinated with the surrounding amino acid residuesand watermolecules inanoctahedral geometry.The metal-oxygen bond lengths range from 2.1 to $2 . 4 \\ \\mathring { \\mathsf { A } } .$ The two metal-O bonds linking the interstitial water molecule to Mn1and Mn2 are slightly longer than the other 10 bonds $( 2 . 3 / 2 . 4 \\AA$ versus $2 . 1 / 2 . 2 \\AA )$ .Above the binuclear center,a sulfate ion is located 5.1 and $4 . 7 \\textup { \\AA }$ from Mn1 and Mn2,respectively (Figure 2A).It forms strong ionic interactionwithanearbyArgresidue,namely,Arg-69. As the sulfate ion is a close mimic of free phosphate ion (the product of dephosphorylation reaction),it is predictable that the phosphopeptide substrate should also bind around this region. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Cleft2 site is located in the region between Motifs A and B andappears shallower than the Cleft1 site (Figure 2B).The surface of Cleft 2 is nearly neutral or slightly electropositive.These two clefts are connected to each other and form a C-shaped groove on the top surface of PPH1. Such a surface groove appears to be ideal for binding the elongated N-terminal phosphopeptide of Lhcb1 or Lhcb2.Alternatively, it may also provide the binding sites for potential unidentified regulatory factors (either small molecules or proteins). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A Mutant of TAP38/PPH1 in Complex with aPhosphopeptideSubstrate ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To obtain a stable complex between TAP38/PPH1 and the phosphopeptide substrate, the major obstacle lies in the fact that the active enzyme only binds the substrate transiently and wil release the products immediatelyafter catalysis.Totackle this problem, there are two ways of blocking the catalytic process in theory to our knowledge. One way is by designingmutationson the enzyme toabolish orattenuate the dephosphorylation reaction without affecting its substrate binding affinity and the other is using nonhydrolyzable substrate mimics to form a complex with the wild-type enzyme.The attempts to cocrystallize wild-type PPH1- SD with the phosphopeptide mimics,such as Arg-Lys-Asp-Val-Ala and Arg-Lys-Glu-Val-Ala peptides,were unsuccessful, presumably due to their low-affinity binding.On the other hand,we have also chosen the mutagenesis strategyand screened for low-activity mutants of PPH1-SD for cocrystallizationwith the phosphorylated peptide substrate.A number of single-site mutations on the accessory acidic residues surrounding the binuclear center have been designed (Figure 3A).The purified mutant proteins were tested for their activities toward the Arg-Lys-pThr-Val-Ala phos phopeptide (the N-terminal pentapeptide of pLhcb1).As shown by the results of activity assay (Figure 3B),the D180N and D180E mutants exhibited the most dramatic loss of activityamong the six mutants tested.The Asp-180 is located $5 . 7 \\mathring { \\mathsf { A } }$ from Mn1,and the space between them is filled by two water molecules (Figure 3A). The proper size and negative charge of the amino acid side chain onthe 180 position ofTAP38/PPH1are both crucial for its optimal catalyticactivity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d636c554cc5e5a46407f315a8f04999c0b2d2cdd1cc3aab964aa744cd7e5930.jpg",
+        "img_caption": [
+            "Figure 2. Structure of At-PPH1-SD in the Substrate-Free State. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ASideviewofteructureinartopresetatioeataticoedomainisolodandieileodiotifs (MotifAand Motif B) are colored in yellowand magenta,respectively.The $\\mathsf { M n } ^ { 2 + }$ ions (Mn1 and Mn2) are shown as silver spheres,and a sulfate ion above the binuclear center is presented as a stick model.   \n(B)Arotatedvofintsatotetaeprstatiddeolootsdcatectroid electropositive regions,respectively.   \n(C) Schematic drawing of the topological structure of PPH1-SD.The $ { \\mathbf { \\alpha } } _ { \\mathrm { ~ \\tiny ~ \\left. ~ \\right.} } \\mathrm { ~  ~ } _ { \\mathrm { \\alpha } }$ -helices are shown as cylinders and the $\\beta$ -strands are presented as block arrows. The color codes are consistent with those in (A).   \n(D)TherelativeposphaseactitfP-treseeofferetdivatcatotpeptidasdstubstratefor The error bars denote the standard errors of the mean values $( n = 3 )$   \n(E) and (F) Local structures of the binuclear centers of PPH1 (E) and human $\\mathsf { P P 2 C \\alpha }$ (F).The water molecules are presented as red spheres and the interstitial ones linking Mn1 and Mn2 are indicated by green stars. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To solve the structure of PPH1-SD in complex with the phosphopeptide substrate,the D18oE mutant was cocrystallized with a synthetic 15-mer phosphopeptide whose sequence (RKtVAKPKGPSGSPW) is identical to the N-terminal region of pLhcb1.The structure of PPH1-phosphopeptide complex was solved at $2 . 0 { \\cdot } \\mathring { \\mathsf { A } }$ resolution and the high-quality electron density mapreveals well-defined features for the first10 amino acid residues including the phosphothreonine residue (RKtVAKPKGP) (Figure 3C).The electron density for the last five C-terminal residues (Ser-Gly-Ser-Pro-Trp) of the phosphopeptide is too weak to be interpretable,suggesting this part is disordered due to its high flexibility. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previously,the structure of a synthetic 15-mer phosphopeptide of the N-terminal region of pea (Pisum sativum) Lhcb1 (sequence: RKSAtTKKVASSGSP) in solution was characterized through various spectroscopic techniques (Nilsson etal.,1997).The backbone of the pea Lhcb1 N-terminal phosphopeptide is mostly extended, while $12 \\%$ （204号 $\\propto$ -helical region and $45 \\%$ （20 $\\beta$ -structure (β-sheet and $\\beta$ -turn) have also been detected. Unlike the solution-state pea Lhcb1 N-terminal phosphopeptide, the Arabidopsis Lhcb1 Nterminal phosphopeptide bound to TAP38/PPH1 adopts an all-coil secondary structure.Its backbone isalso mostly extended,while the regionaround pThr3bearsanotablebending (Figures3Dto 3F). The difference may arise from the sequence variation between the two phosphopeptides and presumably also from the conformational changes of the phosphopeptide upon binding to TAP38/PPH1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Interactions between PPH1and the N-Terminal Phosphopeptide of Lhcb1 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asshown in Figure 3C, the N-terminal phosphopeptide of Lhcb1 is accommodated in the elongated C-shaped surface groove of the TAP38/PPH1.The first five-residue segment (Arg-Lys-pThr-Val-Ala) fits well into Cleft 1,while the next five-residue segment (Lys-ProLys-Gly-Pro) binds to Cleft 2.The extended phosphopeptide backbone resembles the C character. It matches nicelywith the shape of the surface groove on TAP38/PPH1.There isa $9 6 ^ { \\circ }$ bending around $\\mathsf { p T h r 3 } _ { \\mathsf { L h c b 1 } }$ that directs the phosphothreonine towardMn2of the binuclearcenter (Figure 3D).Unexpectedly,the phosphate group of $\\mathsf { p T h r 3 } _ { \\mathsf { L h c b 1 } }$ forms a direct metal-O coordination bond (2.1-A bond length) with Mn2 by replacing a water molecule (Figures3Eand 5A).Thiswatermolecule is coordinatedwithMn2 in the substrate-free state. To secure the position of pThr3, $\\mathsf { A r g 6 9 } _ { \\mathsf { P P H 1 } }$ from the $\\beta \\ b { 1 - } \\beta \\ b { 2 }$ loop interacts with the phosphate group through a strong ionic bond $( 2 . 6 - \\tt A$ bond length) (Figure 3E).Moreover, several water moleculessurrounding the phosphate group further connect it to the nearby residues through hydrogen bonds. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Besides the interactions involving $\\mathsf { p T h r 3 } _ { \\mathsf { L h c b 1 } }$ ,additional hydrogen bonds,hydrophobic interactions,and van der Waals interactions have formed between the other regions of the phosphopeptide and the enzyme (Figures 3E and 3F). For instance, the terminal ${ \\mathsf { N H } } _ { 2 }$ group of the phosphopeptide is hydrogen bonded to two water molecules that are attached to $\\mathsf { A s p 2 9 6 } _ { \\mathsf { P P H 1 } }$ and $\\mathsf { G l n 3 3 8 } _ { \\mathsf { P P H 1 } }$ ，respectively.The first two basic residues (Arg-1 and Lys-2) of the phosphopeptide are important for enhancing the selectivity，as shown by the activity assay using substrates with or without these two residues (Figure 1F).These two residues not only interact with the enzyme through hydrogen bonds,but they also carry positive charges that will help to attract the peptide toward thenegatively charged surface of the binding site (Figure 4D).The side chain of $\\mathsf { A r g 1 } _ { \\mathsf { L h c b 1 } }$ is recognized by the backbone carbonyl group of $\\mathsf { A s n 2 2 3 _ { P P H 1 } }$ (Figure 3E).Moreover,this Arg residue also pairs up with the side chain of $\\mathsf { A r g } 2 2 5 _ { \\mathsf { P P H } 1 }$ , leading to an electrostatic-defying but stable Arg-Arg short-rangeinteraction (Magalhaes et al.，1994; Pednekar et al., 2009).The carbonyl of $\\mathsf { L y s 2 } _ { \\mathsf { L h c b 1 } }$ is recognized by the side chain of $\\mathsf { A r g } 2 2 5 _ { \\mathsf { P P H } 1 }$ ，and its side chain is linked to $\\mathsf { G l u 7 1 } _ { \\mathsf { P P H 1 } }$ and $\\mathsf { G l u } 7 3 _ { \\mathsf { P P H } 1 }$ through the water molecules between them.These specific interactions involving the first two residues of pLhcb1 explain the preference of TAP38/PPH1 for the substrates with two basic residuesat their N termini. In the other regions, three additional pairs of hydrogen bonds mediate the interactions between the peptide backbone and the surface residues of the Cleft 1 site of TAP38/PPH1 (Figure 3E).In detail,the carbonyl of pThr3Lhcb1 is hydrogen-bonded to the backbone amide of $\\mathsf { A l a 2 3 1 _ { P P H 1 } }$ ；the amide of $\\mathsf { V a l 4 } _ { \\mathsf { L h c b 1 } }$ is attached to the backbone carbonyl of $\\mathsf { A s p 2 2 9 } _ { \\mathsf { P P H 1 } }$ ; the carbonyl of $\\mathsf { A l a 5 } _ { \\mathsf { L h c b 1 } }$ is associated with the side chain carboxyl group of A $\\mathsf { s p } 2 2 \\mathsf { 9 } _ { \\mathsf { P P H 1 } }$ . These interactions serve to secure the binding of the phosphopeptide within the cavity of the Cleft1 site. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second part of the phosphopeptide,namely, the Lys-ProLys-Gly-Pro segment,is bound to the Cleft 2 region through the following specific interactions with TAP38/PPH1 (Figures 3E and 3F).The backbone amide and carbonyl groups of $\\mathsf { L y s 8 } _ { \\mathsf { L h c b 1 } }$ are hydrogen-bonded to $\\mathsf { C y s 2 2 7 _ { P P H 1 } }$ and $\\mathsf { T r p } 2 2 0 _ { \\mathsf { P P H } 1 }$ ，respectively (Figure 3E).Moreover,hydrophobic and van der Waals interactions, involving $\\mathsf { P r o } 7 _ { \\mathsf { L h c b 1 } }$ and $\\mathsf { P r o } 1 0 _ { \\mathsf { L h c b 1 } }$ (with $\\mathsf { A r g } 2 5 7 _ { \\mathsf { P P H } 1 } / \\mathsf { T r p } 2 5 8 _ { \\mathsf { P P H } 1 }$ and $\\mathsf { T r p } 2 2 0 _ { \\mathsf { P P H 1 } } / \\mathsf { P h e } 2 6 2 _ { \\mathsf { P P H 1 } }$ ,respectively),reinforce the binding of this segment in the Cleft 2 region (Figure 3F).The presence of multiple proline or glycine residues in the N-terminal region of Lhcb1 prevents the formation of regular secondary structure (such as $\\alpha$ -helix or $\\beta$ -sheet) within thisareaand endows itthe flexibilitytoadapt into the Cleft 2 site in an extended conformation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conformational Changes in PPH1 Induced by Phosphopeptide Binding ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By comparing the structures of PPH1 in the substrate-free and substrate-bound states,we have observed significant conformational changes in PPH1in the regions involved in binding the Lhcb1 phosphopeptide.Three loops around the Cleft 1 site, namely, $\\mathsf { l o o p } _ { \\beta 1 - \\beta 2 }$ P $\\mathsf { l o o p } _ { \\alpha 3 - \\alpha 4 } ,$ and $\\mathsf { l o o p } _ { \\alpha 8 - \\beta 1 0 } .$ ，are attracted toward the phosphopeptide (Figure 4A).A closer look at these regions reveals that the side chains of Arg-69 (on $\\mathsf { l o o p } _ { \\beta 1 - \\beta 2 } )$ and Arg-225 (on $\\mathsf { l o o p } _ { \\alpha 3 - \\alpha 4 } )$ have moved ${ \\sim } 1 \\tt { \\AA }$ toward the substrate to form an ionic interaction and hydrogen bond with it,respectively (Figure 4B).At the Cleft 2 site, three amino acid residues lining its wall (Arg-257，Trp-258,and Phe-262) have gone through more profound conformational changes induced by substrate binding (Figure 4B).The side chains of Arg-257 and Trp-258 change their conformations througha rotamer-switch mechanism (switching of the amino acid side chain from one conformer to another through rotationaroundasingle bond) to make space forthesecond part of the phosphopeptide.The aromatic ring of $\\mathsf { P h e 2 6 2 } _ { \\mathsf { P P H 1 } }$ is repositioned to avoid steric hindrance with $\\mathsf { P r o } 1 0 _ { \\mathsf { L h c b 1 } }$ .Moreover, the polypeptide backbone of this region of Motif B (between Lys-250 and Gly-27O) shifts outward to open the groove on Cleft 2 for substrate binding (Figure 4A). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The substrate binding sites of TAP38/PPH1 are flexible,allowing themto adopt two different conformations in the substrate-bound and substrate-free states.In the substrate-free state，the Cleft 1 site on TAP38/PPH1 is in a relatively open state (Figure 4C), while the Cleft 2 site appears to be closed (Figure 4E).When the substrate binds,the Arg-69 and Arg-225 residues from the Cleft 1 site close up and lock on the phosphopeptide like a pair of teeth (Figure 4D). In the meantime, the wall-lining residues on the Cleft 2 site move away from the groove and open it to accommodate the remaining part of the phosphopeptide (Figure 4F).The structural evidence presented hereby directlydemonstrates thatTAP38/PPH1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfaa5151625e9f0430e879b97f1caa3f6051bec075961641feb3f57d7fe13bcb.jpg",
+        "img_caption": [
+            "Figure3.Identificationof a Low-Activity MutantofAt-PPH1-SDfor Trapping thePhosphopeptide Substrate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(ALcatiosoftiesciicdtiiofouagsisresedi coordinatingtheuclearenterbtapartipateinteatalyticproc.eyepositodarbtheprodutic(sulfate)itfor the numbers labeled nearby the dash lines is A.   \n(B)ThephospataseactivityoftePPH-SDmutantsrelativetotheild-typeproteinTeerorbarsdenotethestandarderorofteean values $( n = 6 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "specifically targets pLhcb1 and can respond to the binding of substrate by readjusting the shapes of its binding sites according to the substrate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Structural Mechanism Underlying the Substrate Preference ofTAP38/PPH1 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phosphorylationand dephosphorylation of LHCll are fundamental events occurring in the state transition processes in algae and plants (Bennett,1980; Allen et al.,1981). Despite the long history of research on these phenomena,it isonly recently thatachloroplast kinase and phosphatase pair，named Stt7/STN7 and TAP38/ PPH1,respectively,have been shown to be essential for the reversible modification of LHCll (Rochaix etal.,2012). By solving and analyzing the structures of TAP38/PPH1 in substrate-free and substrate-bound states,we have provided direct evidence for the specific recognition between TAP38/PPH1 and pLhcb1.The structure of TAP38/PPH1 in complex with the N-terminal phosphopeptide of Lhcb1 demonstrates that the elongated phosphopeptide is recognized by two surface clefts sites onTAP38/PPH1. It curves into a C-shaped molecule fitting well into the grooves of these two connected clefts (Figure 3C).The first part of the phosphopeptide (Arg-Lys-pThr-Val-Ala) docks into the Cleft 1 region in a way resembling the classical lock-and-key mechanism. In the absence of substrate, the Cleft 1 site is already wide open (Figure 4C).Upon binding of Arg-Lys-pThr-Val-Ala peptide in this region,the nearbyamino acid residues are attracted toward the peptide and clamp onto the substrate (Figure 4D).On the other hand, the Cleft2 site in the substrate-free state is occluded by the bulky side chains of Arg-257，Trp-258，and Phe-262 and has a relatively shallow groove on its surface (Figure 4E). Upon binding with the second part (Lys-Pro-Lys-Gly-Pro) of the phosphopeptide,this site deepens its groove to accommodate the peptide (Figure 4F).The change is achieved through repositioning and rotamer-switching of its wal-lining residues (Figure 4B).Therefore, the induced-fit mechanism dominates on the second cleft site of TAP38/PPH1 for the bindingand recognition of pLhcb1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The specificity of TAP38/PPH1 toward pLhcb1 (and presumablyalso pLhcb2) isachieved throughtwo distinct strategies. First,the two basic residues on the N-terminal region of Lhcb1 (Arg-Lys) enhance the enzyme's activity toward pLhcb1 against pD1，pD2,and pCP43 (Figure 1F).The structure of the TAP38/ PPH1-phosphopeptide complex clearly demonstrates that the enzyme's Cleft1 site matches well with the Arg-Lys residues both in shape and surface charge (Figure 4D). Second, TAP38/PPH1 employsa second binding site,namely,Cleft2, to further increase its specificity toward pLhcb1 or pLhcb2.This site recognizes and binds the extended part (Lys-Pro-Lys-Gly-Pro) of the Lhcb1 phosphopeptide following the first five residues (Figure 4F).In Lhcb2, thesequence of the corresponding part is Ser-Thr-Pro-Gln-Ser, which may also fit in the Cleft 2 region as it mainly recognizes the main chain of the peptide substrate.As for the unfavorable substrates of TAP38/PPH1, namely,pD1,pD2,and pCP43 of the PSl core,their first10 residuesat the N-terminal regionsare tAILERRESE (pD1),tIALGKFTKD (pD2),and tLFNGTLALA (pCP43),respectively. The first five-residue segmentsand the extended parts (underscored regions) of these PSll coresubunitsare largelydifferent from those of pLhcb1 (RKtVAKPKGP) and pLhcb2 (RRtVKSTPQS),makingthem incompatible binding partners in either Cleft1or Cleft2 sites of TAP38/PPH1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ComparingTAP38/PPH1with PBCP ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The sequence alignment between TAP38/PPH1 and PBCP shows two large insertions present in TAP38/PPH1 but absent in PBCP (Supplemental Figure 2A).These two segments (residues 196 to 230 and 257 to 279) cover most of the Motif A (196 to 237) and part of its Motif B (238 to 277) in the structure of TAP38/PPH1. Motif A is not only involved in binding the Arg-Lys-pThr-Val-Ala part of the phosphopeptide around the Cleft 1 site,but also contributes to the formation of the inner walls of the Cleft2 site on one side (Figure 3C).The second insertion (257to 279) belongs to Motif Band overlaps with the previously reported PPH1-characteristic domain identified through phylogenetic comparisons of various PP2C phosphatases (Shapiguzov et al.,2010).This insertion contains the key residues (Arg-257,Trp-258,and Phe-262) lining the innerwalls of the Cleft2 site on the othersideacross MotifA(Figure 3C).Built with these two additional motifs,TAP38/PPH1 is thereby able to specifically recognize the N-terminal phosphopeptide of pLhcb1 and presumably also that of pLhcb2 considering its high sequence similarity with pLhcb1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As for PBCP,its Cleft1 site should be flat and shallow in shape since the two tooth-like Arg residues in PPH1 (Arg-69 and Arg225 in Figure 4D) are missing in PBCP (Supplemental Figure 2A). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(C)Side-viesufacepresentatioofteEutantof-Dinomplewitmerspopeptideofberedoa,tifA and Motif Bof PPH1-SDare colored in silver,yellow,and magenta,respectively.The $2 F _ { \\circ } { \\cdot } F _ { \\circ }$ electron density of the phosphopeptide is shown as cyan meshes with $1 . 0 \\times \\sigma$ contour level.   \n(D)ArotatedvieofteompleructureForaritteoshopeptideispresentedsticodel,ileePPH-Disosartoo presentation with the same color codes as in (C)   \n(E)Thepoliteactiossotidddiatd andcoordinateodespectivelyearbtomsoftiocidesidufro-dtespopeptideareolodindin respectively.The water moleculesare shownas red spheres.   \n(F)ThehydropobcandandrWaalsinteractiosbetweenthephospopeptidnd-SDeregioson-SDinvoedinbindingte phosphopeptidethroughhdrophobicinteractionsareshownastransparentsufacemodelssuperposedwithtickmodels.ThevanderWalsinteractions are indicated by the dark dotted lines. (A)MovementoftesoDiucedyospoeptidingeosopeptidissoiladstickmodelilee PPH1-SDispresetedtoodelseubstratefrandubstrateboudsatesofP-recolodindagetsctiely The arrows indicate the movements of polypeptide backbone of PPH1-SD induced by substrate binding.   \n(B)RearrangementoftsidecainsofaminoacidesiduesonPPSDuposubstratebnding.eesidueswitevidentconformatioang are indicated by the arrows.   \n(C)and (D) Comparing the shapes of Cleft1 siteon PPH1-SD under substrate-free(C)andsubstrate-bound (D) states.   \n(E)and(F)lefitedrubsratefr(ndubstrateboudF)sateectostaticotetiacemodsi on the Cleft 1 or Cleft 2 regions) are presented.Red,electronegative; blue,electropositive. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d678baf713b621727ab70d5b7848e69fb0058287b41ec47246a7eee9a8ae823b.jpg",
+        "img_caption": [
+            "Figure 4. Conformational Changes in At-PPH1-SD Induced by the Binding of Phosphopeptide. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This feature may be adapted to the N-terminal regions of its preferred substrates，namely，pD1，pD2，and pCP43 (Samol et al.,2012).These PSll core subunits all have phosphothreonineas their first residuesat the Ntermini followed by two orthree nonpolar residues. In the absence of Motif Aand half of Motif B in PBCP,its Cleft 2 site is most likelyalso missing.For future study,it remains to be discovered if PBCP contains any additional bindingsites for theextended part of the N-terminal peptides of the pD1，pD2，or pCP43 proteins.Moreover，the recombinantPBCP prefers $\\mathsf { M n } ^ { 2 + }$ and only exhibits minimal activity with ${ \\mathsf { M } } { \\mathsf { g } } ^ { 2 + }$ (Samol et al.，2012)，while TAP38/PPH1 can acceptboth $\\mathsf { M g } ^ { 2 + }$ and $\\mathsf { M n } ^ { 2 + }$ forits catalyticactivity.Therefore, theactive-site structure of PBCP might be somehow different from that of TAP38/PPH1,making it more selective for $\\mathsf { M n } ^ { 2 + }$ than ${ \\mathsf { M } } { \\mathsf { g } } ^ { 2 + }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the in vitro activity assays indicate that recombinant TAP38/PPH1 can also dephosphorylate pD2 and pCP43 (with relatively lowereffciency) inadditionto pLHCll (Figures1A,1E, and1F),it is actually highly specific toward pLHCll under in vivo conditions (Pribil etal.,2010; Shapiguzov etal.,2010). In the pph1 or tap38 knockout plants,the phosphorylation levels of CP43, D1, and D2 are unaffected (Pribil et al.,2010; Shapiguzov et al., 2010). We suggest that the accessibility of the potential substrates to TAP38/PPH1 under in vivo conditions should be taken into consideration to explain its high specificity toward pLHCll. As TAP38/ PPH1 is mainly localized in the membranes of stromal lamellae of thylakoids (Shapiguzov et al.，201O)，it can readily access the pLHCllsassociatedat the peripheral regions of PSl-LHCl supercomplexes (also localized in the stromal lamellae; Supplemental Figure 2D).On the other hand,the PSll complexes are mainly ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/85bd50620ff2998a7c794045260e5126d95de41a506acf4e29326ac54f9eab53.jpg",
+        "img_caption": [
+            "Figure 5.Structural Bases for the Catalytic Mechanism of TAP38/PPH1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(ATereltiositfsiobstrateitscttoerdutiicsfateodiatigaterlule beingreplacedbythephospategroupofpTrisndicatedbytheedarow.TeocalstructurearoundthbnuclearcenterofPPH-SDissow.e dark dash lines indicate the coordinate bonds around Mn1 and Mn2.   \n(B)upepocui)ad labeledas“M3.\"   \n(C)Thewatermoleculendmncidesdesptetillvodiprototiftaviggrousidueeputativepdor for the leaving group is indicated by the arrow.   \n(D)AschematicpresentatioofteproosdreactiomechansmcatalyzedbyPPHAP3.Tewatermoleculeproposedtolunchucleilic atacknP-ObndisoloredinedTeothewatermoleculedonatingaprotonfortheleavinggroupofpThr3iscoloredinbue.Teunitforte numbers labeled near the noncovalent bonds is A. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "localized in the tightly stacked grana thylakoid membranes and surrounded by the minor and major light-harvesting complexes (LHCIl) at their peripheral regions (Dekker and Boekema,2005; Daum and Kuhlbrandt,2011).Thus,it would be fairlyunlikely for the membrane-bound PPH1 to migrate laterally into the grana regionand breach multiple layers of LHClls to access the PSll core in order to dephosphorylate the pD1,pD2,and pCP43 subunits. To dephosphorylate the PSll core subunits,plants use a specialized phosphatase,namely,PBCP,which isa soluble protein enriched in the stroma that can readily diffuse to the grana region to gain access to the PSll core subunits (Samol et al., 2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Implication for the Features of Substrate Binding Site in Stt7/STN7 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A pair of tooth-like Arg residues located on the wall of the Cleft 1 site of TAP38/PPH1,namely，Arg-225 and Arg-69,are directly involved in binding the first three Arg-Lys-pThr residues of pLhcb1 (Supplemental Figure 3A).Curiously,itappears that the ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Micromonas Stt7 kinase homolog (Guo et al., 2013) also contains a pair of basic residues (Lys-320 and Arg-364) near its active site (Supplemental Figure 3B).They correspond to Lys304 and Arg-344 in Chlamydomonas Stt7 (Cr-Stt7) or Lys-281 and Arg-321 in Arabidopsis STN7 (At-STN7)， respectively. Moreover,the Stt7/STN7 kinases harbor an additional hairpin motif that contributes to the formation of the putative Cleft 2 region of the kinases (Supplemental Figure 3B).Although more evidence is needed to demonstrate that Stt7 or STN7 phosphorylates LHCll directly， these observations suggest that the potential peptide binding sites of the state transition kinases may have features resembling thoseofTAP38/PPH1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Insights into the Catalytic Mechanism of PP2C Phosphatases ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Besides the two high-affinity metal binding sites (M1 and M2) at thebinuclear center,various other PP2C members have been reported to contain a third metal binding site (M3) nearby the binuclear center (Pullen et al.，20o4;Rantanen et al.,2007; Wehenkel et al., 2007; Soon et al.,2012) (Figure 5B). This additional low-affinity $\\mathsf { M g } ^ { 2 + } / \\mathsf { M n } ^ { 2 + }$ binding site is required for their catalytic activityand involves two conserved Asp residuesas well as an accessory Asp residue (Su et al., 2011;Tanoue et al., 2013).In the crystal structure of wild-type TAP38/PPH1 or D180E mutant in complex with phosphopeptide,a water molecule instead of a $\\mathsf { M n } ^ { 2 + }$ or $\\mathsf { M g } ^ { 2 + }$ ion occupies the potential M3 site (Supplemental Figure 4).This water molecule is hydrogen bonded to the Asp-180 (or Glu-180 in the D180E mutant) of TAP38/PPH1 and nearly overlaps with the third metal ion found inABl2 phosphatase (Figure 5B).The lack of a third metal ionat this site is mainly because its binding site is affected either by alysine residue (Lys-261) from the adjacent molecule in the crystal lattice (Supplemental Figure 4A) or by the D180E mutation.Lys-261 forms stable ionic interactions with the carboxyl group of Asp-180 and may prevent the third metal ion from binding to this area (Supplemental Figure 4A). In solution, this site should be open to accept the third $\\mathsf { M g } ^ { 2 + } / \\mathsf { M n } ^ { 2 + }$ ion and is likely a dynamic metal binding site that is in constant exchange with solvent molecules. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/67cb4f2668dcba1f65a6504da654dc29b21c1f2034e4fe935c679034046faa62.jpg",
+        "table_caption": [
+            "Table1.Data Collection and Structure Refinement Statistics "
+        ],
+        "table_footnote": [
+            "aNumbers in parentheses represent the values for the highest resolution shell. bercentageofdodddtiiacdotgat backbone dihedral angles of each amino acid residue in the protein structure). "
+        ],
+        "table_body": "<html><body><table><tr><td>Data Collection</td><td>At-PPH1-SD</td><td>D180E-Phosphopeptide</td></tr><tr><td>Wavelength (A)</td><td>1.0000</td><td>1.0000</td></tr><tr><td>Space group</td><td>P21</td><td>P2,22</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c (A)</td><td>55.40,73.88,82.00</td><td>60.29,64.08,100.08</td></tr><tr><td>α,β, γ ()</td><td>90.00,109.14,90.00</td><td>90.00,90.00,90.00</td></tr><tr><td>Resolution (A)</td><td>50-1.60 (1.66-1.60)a</td><td>50-2.0 (2.07-2.0)*</td></tr><tr><td>Completeness (%)</td><td>98.4 (97.2)a</td><td>99.8 (100)a</td></tr><tr><td>Redundancy</td><td>3.8 (3.7)a</td><td>5.4 (5.5)a</td></tr><tr><td>V/g()</td><td>22.0 (2.6)a</td><td>14.3 (4.6)a</td></tr><tr><td>Rmerge</td><td>0.053 (0.493)a</td><td>0.123 (0.482)a</td></tr><tr><td>Refinement</td><td></td><td></td></tr><tr><td>Resolution (A)</td><td>30-1.60</td><td>40-2.0</td></tr><tr><td>Rwork/Rfree</td><td>0.180/0.203</td><td>0.193/0.217</td></tr><tr><td>No. of Atoms</td><td></td><td></td></tr><tr><td>All</td><td>5177</td><td>2603</td></tr><tr><td>Protein</td><td>4589</td><td>2371</td></tr><tr><td>Ligand/ion</td><td>14</td><td>2</td></tr><tr><td>Water</td><td>574</td><td>230</td></tr><tr><td>B-factor (A2)</td><td></td><td></td></tr><tr><td>All</td><td>32.4</td><td>24.8</td></tr><tr><td>Protein</td><td>31.4</td><td>24.3</td></tr><tr><td>Ligand/ion</td><td>38.8</td><td>11.0</td></tr><tr><td>Water</td><td>40.2</td><td>30.0</td></tr><tr><td>Root mean square deviations</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.017</td><td>0.012</td></tr><tr><td>Bond angles (°)</td><td>1.690</td><td>1.835</td></tr><tr><td>Ramachandran plot (%)b</td><td>97.8,2.2, 0</td><td>97.0, 3.0, 0</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The potential M3 binding site in PPH1 is contributed by D180 and D296，which are highly conserved among various PP2C members (Figure 5B).Mutation of Asp-180 in PPH1 (corresponding to D146 in human PP2Cα) to Glu or Asn residues causes a dramatic loss of activity toward phosphorylated peptide substrate (Figure 3B). In the D18oE mutant, the third metal ion might not be positioned accurately near the binuclear center or the substrate pThr group.This may lead to the attenuation of enzyme activity by blockinga key step of the catalytic reaction,namely, protonation of the leaving group on the Thr residue of the substrate.Previous mutagenesis and kinetics study on human PP2Cα strongly suggested that His-62 (His-95 in PPH1) is involved in protonation of the leaving group (Thr residue) oxygen atom during catalytic reaction (Jackson et al.,20o3). The H62Q mutation causesasignificant loss of activity on human PP2Cα with 20-fold lower $K _ { \\mathrm { c a t } }$ value compared with the wild-type enzyme. In the crystal structure of PPH1,the potential M3 site and His-95 are connected by a water molecule (Figure 5C),suggesting that His-95, D180,and the third metal may cooperate to protonate the leaving group of Thr residue on the peptide substrate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The hydrolysis of a phosphoester bond catalyzed by the PP2C phosphatases involves the $\\mathsf { S } _ { \\mathsf { N } } \\mathsf { 2 }$ reaction mechanism (Das et al., 1996). Based on the latest knowledge of the catalytic mechanism of human PP2Cα (Jackson et al.，2003;Tanoue et al.，2013) and the crystal structures of TAP38/PPH1 in substrate-free and substrate-bound states,we hereby propose an updated model on the catalytic mechanism of PP2C (Figure 5D). (1) First,Mn2 binds directly to the phosphate group of phosphothreonine through a coordination bond (2.1 A).An oxygen atom (O1) of the phosphate group of phosphothreonine replaces the water molecule that was coordinated to Mn2 in the substrate-free state (Figure 5A).The strong and direct interaction between Mn2 and the phosphate group draws electrons toward the metal ion and polarizes the phosphorus atom of the phosphate group,making it more electrophilic.In order for Mn2 to coordinate the phosphate group of pThr3 directly, the backbone of the phosphopeptide bends around the pThr residue to direct the phosphate group toward Mn2.The accurate positioning of phosphate above Mn2 is further reinforced by $\\mathsf { A r g 6 9 } _ { \\mathsf { P P H 1 } }$ through ionic interaction. (2) The water molecule bridging metals 1and 2 was proposed to be a nucleophile in the reaction. It is activated by a nearby conserved Asp residue (D339 in At-PPH1 or D282 in human PP2Cα) (Das et al.,1996).When activated by Asp-339in At-TAP38/PPH1，this interstitial water molecule between Mn1 and Mn2 will deprotonate into hydroxide ion $( \\mathsf { O H ^ { - } } )$ and launch nucleophilic attack on the phosphorus atom of the phosphate group. (3) Hydrolysis of the P-O monoester bond will require protonation of the leaving group,which may be facilitated by nearby amino acid residues,such as H95 in At-PPH1 (or H62 in human PP2Cα) (Jackson et al.,2003). In the high-resolution structure of TAP38/PPH1 in complex with Lhcb1 phosphopeptide, His-95 is located $4 . 9 \\mathring { \\mathsf { A } }$ from the P-O bond without forming direct interaction with it. Instead,His-95 interacts indirectly with the P-O bond through a bridging water molecule (Figure 5C).Therefore, the proton is most likely relayed by this water molecule to the leaving group oxygen atom.The role of the third metal ion in this region mayfacilitate the process bycoordinating the local residuesand/ orassist the deprotonation of proton donors,such as His-95 or Asp-180.(4) After hydrolysis,the free phosphate ion will be pulled away from the Mn2 binding site by $\\mathsf { A r g 6 9 } _ { \\mathsf { P P H 1 } }$ to a nearby position, as indicated by its mimic, namely,the sulfate ion shown in Figure 5A. The previous structure of human $\\mathsf { P P 2 C \\alpha }$ contains a free phosphate ion within its active site (Das et al.,1996),resembling our substrate-free TAP38/PPH1 structure with a sulfate ion bound in the corresponding position of free phosphate.This state likely represents the posthydrolysis state with dephosphorylated protein/ peptide released but the other product (phosphate) still bound. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Protein Expression and Purification ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Thefull-lengthArabidopsis thalianaPPH1 (at4g27800.1,the first isoform) containsa large soluble domainat the stromal side followedbya single transmembrane helix at its C-terminal region (residues 367 to 385).The recombinant full-length PPH1 protein carrying an N-terminal hexahistidine tag is found mainly in the inclusion bodies when it is expressed in the BL21 (DE3)Escherichia coli strainusing the pET15b vector.The gene is inserted between the Ndel and BamHI sites of the vector.The expressed protein can be purified in the denatured formand then refolded according to the protocol reportedby Pribil etal. (2010).The refolded full-length PPH1appears to be fairly pure and soluble in non-ionic detergent (octyl-glucopyranoside),but only exhibits weak phosphatase activity toward the Arg-Lys-pThr-Val-Ala phosphopeptide substrate (Supplemental Figure 5). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Afterseveral rounds of construct optimization through serial truncations from the N and/or C termini, we have found that the region covering most of the stromal domain of PPH1 (Arg59-Thr351,PPH1-SD) expresses as a soluble form (instead of inclusion bodies) in the cytosol of E.coli.The cDNA encoding the PPH1-SD protein was ligated into pET24a vector between Ndel and Xhol sites.Mutants were generated through the QuikChange site-directed mutagenesis protocol (Agilent Technologies). The recombinant PPH1-SD protein expressed in the BL21(DE3) strain was fused with a hexahistidine tag at its C terminus.The E.coli cellswere cultured in LB-kanamycin mediumsupplemented with2 mM $\\mathsf { M n C l } _ { 2 }$ .When the cell density reached $\\mathsf { O D } _ { 6 0 0 \\mathsf { n m } } = 0 . 8$ to 1.0,protein expression was induced with $0 . 1 \\mathsf { m M }$ isopropyl $\\beta$ -D-1-thiogalactopyranosidefor 16 to $2 0 \\mathsf { h }$ at $1 6 ^ { \\circ } \\mathsf { C }$ .After expression,the cells were harvested by centrifugation at $4 7 0 0 g$ for $1 0 \\mathrm { \\ m i n }$ ，and the pellets were frozen and stored at $- 2 0 ^ { \\circ } \\mathsf C$ Subsequently,the cell pellets were resuspended in a lysis buffer containing $2 0 \\mathsf { m } \\mathsf { M }$ Tris-HCl,pH8.0, 500 mM NaCl,and $5 \\%$ glycerol,and then sonicated on a Misonix S-4oo0 sonicator.The cell lysate was centrifuged at ${ 4 8 , 9 0 0 g }$ for 30 min and the supernatant was collected.The protein was purified through a Ni-NTA metal affinity column (Qiagen).The buffers used for Ni-NTA column purification were as follows.Equilibration buffer contained $2 0 ~ \\mathsf { m M }$ Tris-HCl,pH 8.0,500 mM NaCl,and $5 \\%$ glycerol. Washing buffer contained $2 0 ~ \\mathsf { m M }$ Tris-HCl,pH 8.0,500 mM NaCl, $5 \\%$ （204号 glycerol,and $5 0 ~ \\mathsf { m M }$ imidazole.Elution buffer contained $2 0 ~ \\mathsf { m M }$ Tris-HCl, pH 8.0,500 mM NaCl, $5 \\%$ glycerol,and $2 0 0 ~ \\mathsf { m M }$ imidazole.After being eluted from the Ni-NTA column and concentrated to $\\sim 1 0 \\ m g / \\ m L$ ，the protein sample was furtherpurified through gel filtration chromatography using a Superdex 200 10/300 GL column (GE Healthcare) in a buffer containing $2 0 ~ \\mathsf { m M }$ Tris-HCl,pH 8.0,500 mM NaCl, $5 \\%$ glycerol, $2 ~ \\mathsf { m M }$ $\\mathsf { M n C l } _ { 2 }$ ，and $0 . 2 \\%$ $\\beta$ -mercaptoethanol.The highly purified PPH1-SD protein shows much higher (20 times) phosphatase activity than the refolded full-length protein (Supplemental Figure 5).The protein was concentrated to_10 to $1 1 m g / m L$ with $A _ { 2 6 0 } / A _ { 2 8 0 } = 0 . 5$ to 0.7 before crystallization.The15mer phosphopeptideofLhcb1(sequence: RKtVAKPKGPSGSPW,“t\" indicates the phosphothreonine residue and all other peptides were obtained through chemical synthesis bya local vendor (ChinaPeptides). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ProteinCrystallization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "All crystals were grown at $1 6 ^ { \\circ } C$ using the sitting-drop vapor diffusion method (McPherson,2004).The substrate-free PPH1-SD crystals were grown by mixing $0 . 5 ~ \\mu \\mathsf { L }$ of $1 0 ~ \\mathrm { m g / m L }$ protein with $0 . 5 ~ { \\mu \\mathrm { L } }$ well solution containing $0 . 1 ~ \\mathsf { M }$ Bis-Tris, $\\mathsf { p H } 6 . 5$ 0.4M $\\mathsf { L i } _ { 2 } \\mathsf { S O } _ { 4 }$ ，and $30 \\%$ polyethylene glycol (PEG) 3350.For cocrystallization of PPH1-SD (D180E) mutant with the 15mer Lhcb1 phosphopeptide,the protein was firstly mixed with the synthetic 15mer phosphopeptide (dissolved in double-distilled water) at a molar ratio of 1:10 (protein:phosphopeptide). Subsequently, $0 . 5 ~ \\mu \\ L$ of the well solution with $0 . 2 M$ sodium malonate, $\\mathsf { p H } 6 . 0$ and $20 \\%$ PEG 3350 was added to $0 . 5 ~ \\mu \\mathsf { L }$ of the protein-phosphopeptide mixture in sitting drops.Thedropswere thenequilibratedagainst $1 0 0 ~ \\mu \\ L$ well solution in the sealed chambers of 48-well plates (XtalQuest).Crystals with the morphology of a thin plate usuallyappeared 2dafter the drops were set up and matured to $0 . 2 \\ \\mathsf { m m } \\times 0 . 1 \\ \\mathsf { m m } \\times 0 . 0 2 \\ \\mathsf { m m }$ (length $\\times$ width $\\times$ thickness) for1 week.For cryoprotection,the substrate-free PPH1-SD crystals were quickly soaked ina solution of O.1MBis-Tris,pH6.5, $0 . 4 \\mathsf { M }$ $\\mathsf { L i } _ { 2 } \\mathsf { S O } _ { 4 }$ $32 \\%$ PEG 3350,and $1 5 \\%$ glycerol for1min before being frozen in liquidnitrogen.The crystals ofPPH1-SD (D180E)-phosphopeptide complex were cryoprotected in a solution of $0 . 2 M$ sodium malonate, $\\mathsf { p H } 6 . 0$ $2 2 \\%$ PEG 3350, $1 . 5 ~ \\mathsf { m M }$ phosphopeptide,and $1 5 \\%$ glycerol. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Data Collection, Phasing,and Structure Refinement ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathsf { x }$ -ray diffraction data of PPH1-SD and PPH1-SD (D180E)-15mer phosphopeptide complex were collected at Photon Factory (beamline NW12A) and the Shanghai Synchrotron Radiation Facility (beamline BL17U), respectively.The NW12A at Photon Factory isequipped with an ADSC Quantum 210 detector，while the BL17U at the Shanghai Synchrotron Radiation Facility uses an ADSC Q315 CCD detector.The datawere both processed with the HKL2000 program.To solve the phases of the wild-type PPH1-SD structure,automatic molecular replacement (AutoMR) was run in the PHENIX suite (Adams et al., 2010) using a search model of human protein phosphatase1A (Protein Data Bank ID:3FXJ).The search yieldedaclear solution with a Z-score of 12.6 and a log likelihood gain of 205 and an output model with two molecules per asymmetric unit. Subsequently, the phenix. autobuild program was used to rebuild the structural model according to the inputsequence of PPH1.The initial model $( R _ { \\mathrm { w o r k } } = 3 6 . 9 \\% / R _ { \\mathrm { f r e e } } = 3 8 . 5 \\% )$ was manually corrected using the Coot program (Emsley and Cowtan,2004) and subjected to further refinement using the phenix.refine program.The final model of both molecules in the asymmetric unit covers all residues of PPH1- SD (Arg-59 to Thr-351 of PPH1).Two manganese ions,one sulfate ion,and numerous water molecules have been located in each PPH1-SD monomer. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The structure of the PPH1-SD(D180E)-phosphopeptide complex was also solved through molecular replacement using the wild-type PPH1-SD structure as the input model.The top solution has a Z-score of 48.8 and a log likelihood gain of 2764.The model was rebuilt by the phenix. autobuild program,manually corrected using Coot,and further refined using the phenix.refine program.Each asymmetric unit contains one copy of the PPH1-SD(D180E) molecule and one molecule of Lhcb1 phosphopeptide continuously traced from Arg-1 to Pro-10.The statistics of data collection and structure refinement are listed in Table 1.The sequence alignment shown in Supplemental Figure 2A was generated using the ClustalW program (McWilliam et al.,2013) and readjusted manually. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Phosphatase Activity Assay ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Promega Ser/Thr phosphatase assay system was used to analyze the activity of PPH1-SD in dephosphorylating the phosphopeptide substrates. Each reaction was performed in a $5 0 \\mathrm { - \\mu L }$ sample containing $5 0 ~ \\mathsf { m M }$ imidazole,pH7.2,5 mM ${ \\mathsf { M g C l } } _ { 2 }$ $0 . 2 { \\mathsf { m M } }$ EGTA, $0 . 1 \\mathrm { \\ m g / m L }$ BSA,and $5 0 0 \\mu \\ M$ synthetic phosphorylated peptide.To start the reaction, $1 \\mu \\mathfrak { g }$ wild-type or mutant PPH1-SD was added to the system.After incubation at $3 0 ^ { \\circ } \\mathsf { C }$ for $2 0 ~ \\mathrm { { m i n } }$ ,the reaction was stopped by adding $5 0 \\mu \\mathrm { L }$ molybdate dye solution provided by the assay kit.The absorbance at 600 nm $( A _ { 6 0 0 } )$ was measured ona96-well plate reader (Thermo Varioskan Flash 310O).For the metal ion-dependent activity assay,the PPH1-SD protein was stripped off the endogenous metal ion with EDTA,purified througha gel-filtration column,and then used for the phosphatase activity assay supplemented with different divalent cations $( \\mathsf { M } \\mathsf { g } ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ ${ \\mathsf { C a } } ^ { 2 + }$ ，or $Z n ^ { 2 + }$ ） ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,seeds of the Arabidopsis pph1-2 (SAlL_514-C03) mutant were obtained from the European Arabidopsis Stock Center (NASC and used for preparing native thylakoid phosphoproteins inorderto characterize the activity of recombinant PPH1-SD toward native substrates.The plants were grown in a growth chamber with $1 2 \\mathsf { h }$ light and $1 2 \\mathsf { h }$ dark at $2 2 ^ { \\circ } \\mathsf { C }$ for 3 to 4weeks.The thylakoids were prepared according toa published protocol (Casazza etal.,20o1) and frozen at $- 8 0 ^ { \\circ } \\mathsf { C }$ until use. Before the assay, the thylakoid sample was solubilized in $1 \\%$ （204号 $\\beta$ -dodecyl-maltoside (DDM) toafinal concentrationofchlorophyll at $0 . 5 \\ : \\mathrm { m g / m L }$ .Each reactionwas performed in a $. 5 0 0 \\mathrm { - \\mu L }$ systemcontaining $5 0 \\mathsf { m } \\mathsf { M }$ imidazole,pH7.2,5mM ${ \\mathsf { M g C l } } _ { 2 }$ $0 . 2 { \\mathsf { m M } }$ EGTA, $0 . 1 \\mathrm { \\ m g / m L }$ BSA,and dodecyl-maltoside-solubilized thylakoid proteins with $0 . 1 \\ \\mu \\mathfrak { g } / \\mu \\mathsf { L }$ chlorophyll. To initiate the PPH1-catalyzed dephosphorylation reaction, $2 . 5 ~ \\mu \\mathsf { L }$ purified recombinant PPH1-PD at a concentration of $1 \\mu \\ g / \\mu \\ L$ was added to the system and then incubated at $3 0 ^ { \\circ } \\mathsf { C }$ .Samples were takenafter the reaction continued for0,2,5,10,20,40, and $6 0 \\mathrm { { m i n } }$ .To stop the reaction,the samples were mixed immediately with SDS loading buffer.The proteins in the samples were resolved by $1 5 \\%$ SDSPAGE with 6 M urea,and each lane was loaded with $0 . 5 \\mu \\ g$ chlorophyll. The SDS-PAGE was run at $\\boldsymbol { \\mathsf { 1 0 0 } } \\boldsymbol { \\mathsf { V } }$ overnight to separate the bands of LHCl, D1, D2,and CP43.After electrophoresis,the proteins on the gel were transferred topolyvinylidene fluoridemembrane (presoakedwith $100 \\%$ methanol) under $2 5 0 – \\mathsf { m A }$ constant current for $1 5 0 \\mathrm { m i n }$ .The membrane was blocked in $8 \\%$ nonfat milk overnight at $4 ^ { \\circ } \\mathsf { C }$ ：The phosphothreonine antibody from Cell ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Signaling was used in1:20,oo0 dilution to probe the phosphorylated thylakoid proteins on the membrane.After being incubated with the secondary antibody conjugated with horseradish peroxidase,the membrane was developed by adding the western lightning Ultra ECL horseradish peroxidase substrate (Perkin-Elmer),and the images were taken on a chemiluminescence CCD imaging system (ChemiScope 3500 mini imager; Clinx Science Instruments). The band intensity was measured using ImageJ software. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Accession Numbers ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The protein sequence data from this article can be found in the Uniprot databank (www.uniprot.org) under the following accession numbers: P49599 (ArabidopsisTAP38/PPH1), O64730 (Arabidopsis PBCP),P0CJ48 (Arabidopsis Lhcb1),and Q9SHR7 (Arabidopsis Lhcb2).The Protein Data Bank accession codes for the structures of Arabidopsis ABl1 and ABl2, human PP2Cα,Micromonas Stt7,and the cAMP-dependent protein kinase in complex with substrates are 3JRQ,3UJK,1A6Q,4IX4，and 1JBP，respectively. Coordinates and structure factors for At-PPH1-SD (PDB: 4YZG) and At-PPH1-SD(D180E)-pLhcb1 phosphopeptide complex (PDB:4YZH) havebeendeposited intheProteinData Bank. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Data ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Figure 1. Characterization of the core domain structure of At-PPH1-SD. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Figure 2.The factors related to the distinct substrate specificities of PPH1and PBCP. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Figure 3.Comparing the peptide binding sites of TAP38/PPH1 and a Stt7 kinase homolog. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Figure 4.The potential third metal ion binding sites in the wild type and D180E mutant of At-PPH1-SD. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Figure 5.Comparing the refolded full-length At-PPH1 protein with the At-PPH1-SD protein. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank J.D. Rochaix,W.R. Chang,and M.R. Fan for discussion; X.Y.Liu and X.B.Liang for technical support in biochemistry and for handling protein crystal samples for data collection;the staff at Shanghai Synchrotron Radiation Facility and Photon Factory for their technical support during Xray diraction data collection;and the European Arabidopsis Stock Center (NASC)for providing the Arabidopsis mutant seeds.The project is financially supported by National 973 Project Grants 2011CBA00903 and the Strategic Priority Research Program of CAS (XDB08020302).Z.F.L.is supported by the National Thousand Young Talents Program from the Office of Global Experts Recruitment in China. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "X.P.W.carried out the molecular biology,biochemistry,data collection, and structure determination and analysis.J.T.G.constructed the initial expression vectors of PPH1 and examined protein levels.M.L.contributed to plant growth，biochemistry，and structure analysis.Z.F.L. designed and coordinated the project. X.P.W.and Z.F.L.wrote the article. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Received February 3,2015;revised March 26,2015;accepted April 5, 2015;published April 17, 2015. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Adams,P.D.,et al. (201O). PHENIX:a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr.D Biol. Crystallogr. 66:213-221.   \nAllen,J.F. (1992).Protein phosphorylation in regulation of photosynthesis. Biochim. Biophys.Acta 1098: 275-335.   \nAllen,J.F, Bennett,J., Steinback,K.E.,and Arntzen,C.J.(1981). Chloroplast protein phosphorylation couples plastoquinone redox state to distribution of excitation energy between photosystems. Nature 291: 25-29.   \nBarford,D. (2010).The structure and topology of protein serine/ threonine phosphatases.In Handbook of CellSignaling,R.A. Bradshaw and E.A. Dennis,eds (San Diego,CA: Academic Press), pp.677-681.   \nBellafiore,S., Barneche,F.,Peltier, G.,and Rochaix,J.-D. (2005). State transitions and light adaptation require chloroplast thylakoid protein kinase STN7. Nature 433: 892-895.   \nBennett,J.(1980). Chloroplast phosphoproteins. Evidence for a thylakoidbound phosphoprotein phosphatase. Eur.J. Biochem.104: 85-89.   \nBonardi，V.，Pesaresi，P.，Becker，T.，Schleiff,E.，Wagner，R., Pfannschmidt,T., Jahns,P.,and Leister,D.(20o5).Photosystem I core phosphorylation and photosynthetic acclimation require two different protein kinases.Nature 437:1179-1182.   \nBonaventura, C.,and Myers,J. (1969).Fluorescence and oxygen evolution from Chlorella pyrenoidosa. Biochim.Biophys.Acta 189: 366-383.   \nCasazza, A.P.,Tarantino, D.,and Soave, C. (2Oo1). Preparation and functional characterization of thylakoids from Arabidopsis thaliana. Photosynth.Res.68:175-180.   \nDas,A.K., Helps, N.R., Cohen, P.T.,and Barford, D.(1996). Crystal structure of the protein serine/threonine phosphatase 2C at 2.0 A resolution. EMBO J.15: 6798-6809.   \nDaum,B.,and Kühlbrandt, W. (2011). Electron tomography of plant thylakoid membranes.J.Exp. Bot. 62: 2393-2402.   \nDekker,J.P.,and Boekema,E.J. (2005). Supramolecular organization of thylakoid membrane proteins in green plants. Biochim. Biophys.Acta 1706:12-39.   \nDepége,N., Bellafiore, S.,and Rochaix, J.D. (2003). Role of chloroplast protein kinase Stt7 in LHCll phosphorylation and state transition in Chlamydomonas. Science 299:1572-1575.   \nDupeux, F., Antoni, R., Betz, K., Santiago, J., Gonzalez-Guzman, M.,Rodrigue,L.,Rubio,S.,Park,S.,Cutler,S.,odigue P.L.,and Marquez, J.A. (2011). Modulation of abscisic acid signaling in vivo by an engineered receptor-insensitive protein phosphatase type 2C alele.Plant Physiol.156:106-116.   \nEmsley,P.,and Cowtan,K. (20o4). Coot: model-building tools for molecular graphics.Acta Crystallogr.D Biol. Crystallogr.60: 2126-2132.   \nGuo,J.,Wei,X.,Li, M.,Pan,X., Chang,W.,and Liu,Z. (2O13). Structure of the catalytic domain of a state transition kinase homolog from Micromonas algae.Protein Cell 4: 607-619.   \nHammer, M.F., Sarath, G., and Markwell, J.(1995). Dephosphorylation of the thylakoid membrane light-harvesting complex-llby a stromal protein phosphatase. Photosynth.Res.45: 195-201.   \nHammer,M.F.,Markwell, J.,and Sarath,G. (1997). Purification of a protein phosphatase from chloroplast stroma capable of dephosphorylating the light-harvesting complex-l. Plant Physiol.113: 227-233.   \nJackson，M.D.， Fjeld,C.C.，and Denu, J.M. (2003). Probing the function of conserved residues in the serine/threonine phosphatase PP2Calpha. Biochemistry 42:8513-8521.   \nMagalhaes，A.，Maigret，B.，Hoflack，J.，Gomes，J.N.，and Scheraga,H.A. (1994). Contribution of unusual arginine-arginine short-range interactions to stabilization and recognition in proteins. J. Protein Chem.13: 195-215.   \nMcPherson,A. (20o4). Introduction to protein crystallization.Methods 34:254-265.   \nMcWilliam, H.,Li,W., Uludag,M., Squizzato,S.,Park,Y.M.,Buso, N.,Cowley,A.P.,and Lopez,R.(2013). Analysis tool web services from the EMBL-EBl.Nucleic Acids Res.41:W597-W600.   \nMiyazono,K.,et al. (2oo9). Structural basis of abscisic acid signalling. Nature 462: 609-614.   \nMurata,N.(1969a).Control of excitation transfer in photosynthesis. I.Light-induced change of chlorophyll a fluorescence in Porphyridium cruentum. Biochim. Biophys.Acta 172: 242-251.   \nMurata, N. (1969b). Control of excitation transfer in photosynthesis. Il. Magnesium ion-dependent distribution of excitation energy between two pigment systems in spinach chloroplasts. Biochim. Biophys. Acta 189: 171-181.   \nNilsson, A., Stys, D.,Drakenberg,T., Spangfort, M.D.,Forsén,S., and Allen, J.F.(1997). Phosphorylation controls the three-dimensional structure of plant light harvesting complex Il.J. Biol. Chem.272: 18350- 18357.   \nPednekar,D., Tendulkar,A.,and Durani, S. (20o9). Electrostaticsdefying interaction between arginine termini as a thermodynamic driving force in protein-protein interaction. Proteins 74:155-163.   \nPesaresi,P.,Pribil, M., Wunder,T.,and Leister, D. (2011). Dynamics of reversible protein phosphorylation in thylakoids of flowering plants: the roles of STN7,STN8 and TAP38. Biochim. Biophys.Acta 1807:887-896.   \nPietrzykowska,M., Suorsa,M.,Semchonok,D.A., Tikkanen,M., Boekema,E.J.,Aro,E.-M.,and Jansson,S. (2014).The lightharvesting chlorophyll $a / b$ binding proteins Lhcb1 and Lhcb2 play complementary roles during state transitions in Arabidopsis. Plant Cell 26: 3646-3660.   \nPribil,M., Pesaresi,P., Hertle,A., Barbato,R.,and Leister,D. (2010).Role of plastid protein phosphatase TAP38 in LHCll dephosphorylation and thylakoid electron flow. PLoS Biol.8: e1000288.   \nPullen,K.E., Ng,H.L., Sung,P.Y., Good, M.C., Smith,S.M.,and Alber，T. (20o4).An alternate conformation and a third metal in PstP/Ppp,the M. tuberculosis PP2C-Family Ser/Thr protein phosphatase. Structure 12: 1947-1954.   \nPuthiyaveetil, S., Ibrahim, I.M.,and Allen, J.F. (2012). Oxidationreduction signalling components in regulatory pathways of state transitions and photosystem stoichiometry adjustment in chloroplasts.Plant Cell Environ.35:347-359.   \nRantanen，M.K.，Lehtio,L., Rajagopal, L.，Rubens，C.E.,and Goldman,A. (2oo7). Structure of Streptococcus agalactiae serine/ threonine phosphatase.The subdomain conformation is coupled to the binding of a third metal ion.FEBS J.274: 3128-3137.   \nRintamäki,E., Martinsuo,P.,Pursiheimo,S.,and Aro, E.-M. (2000). Cooperative regulation of light-harvesting complex I phosphorylation via the plastoquinol and ferredoxin-thioredoxin system in chloroplasts.Proc. Natl.Acad. Sci. USA 97: 11644-11649.   \nRochaix,J.-D. (20o7).Role of thylakoid protein kinases in photosynthetic acclimation.FEBS Lett.581:2768-2775.   \nRochaix, J.-D. (2013). Redox regulation of thylakoid protein kinases and photosynthetic gene expression. Antioxid. Redox Signal.18:2184-2201.   \nRochaix, J.-D., Lemeille,S., Shapiguzov,A., Samol, I., Fucile,G., Willig,A.,and Goldschmidt-Clermont, M. (2012). Protein kinases and phosphatases involved in the acclimation of the photosynthetic apparatus to a changing light environment. Philos.Trans.R. Soc. Lond. B Biol. Sci. 367: 3466-3474.   \nSamol,I.,Shapiguzov,A., Ingelsson,B.,Fucile, G., Crevecoeur, M., Vener，A.V.，Rochaix，J.D.，and Goldschmidt-Clermont，M. (2012).Identification of a photosystem Il phosphatase involved in light acclimation in Arabidopsis.Plant Cell 24: 2596-2609.   \nShapiguzov,A., Ingelsson,B., Samol, I.,Andres,C.,Kessler,F., Rochaix,J.D.，Vener，A.V.，and Goldschmidt-Clermont，M. (2010).The PPH1 phosphatase is specifically involved in LHCll dephosphorylation and state transitions in Arabidopsis.Proc.Natl. Acad.Sci.USA 107:4782-4787.   \nShi,Y. (2oo9).Serine/threonine phosphatases:mechanism through structure.Cell 139:468-484.   \nSilverstein,T.,Cheng,L.,and Allen, J.F.(1993). Chloroplast thylakoid protein phosphatase reactions are redox-independent and kinetically heterogeneous.FEBS Lett.334:101-105.   \nSoon,F.F.,et al. (2012). Molecular mimicry regulates ABA signaling bySnRK2 kinases and PP2C phosphatases.Science 335:85-88.   \nSu,J.,Schlicker,C.,and Forchhammer,K. (2011).A third metal is required for catalytic activity of the signal-transducing protein phosphatase M tPphA.J.Biol.Chem.286:13481-13488.   \nSun,G.,Bailey,D.,Jones,M.W.,and Markwell,J. (1989).Chloroplast thylakoid protein phosphatase isa membrane surface-associated activity.Plant Physiol. 89:238-243.   \nTanoue,K.,MillerJenkins,L.M.,Durell,S.R.,Debnath,S.,Sakai, H.,Tagad,H.D., Ishida,K.,Appella, E.,and Mazur, S.J. (2013). Binding of a third metal ion by the human phosphatases PP2Cα and Wip1is required for phosphatase activity.Biochemistry 52: 5830-5843.   \nVener, A.V.,Harms,A.,Sussman, M.R.,and Vierstra,R.D. (2OO1).Mass spectrometric resolution of reversible protein phosphorylation in photosyntheticmembranes of Arabidopsis thaliana.J.Biol. Chem.276:6959-6966.   \nVener, A.V.,van Kan,P.J., Rich,P.R., Ohad, I.,and Andersson, B. (1997).Plastoquinol at the quinol oxidation site of reduced cytochrome bf mediates signal transduction between light and protein phosphorylation:thylakoid protein kinase deactivation bya singleturnover flash.Proc.Natl.Acad.Sci.USA94:1585-1590.   \nWehenkel,A., Bellinzoni,M., Schaeffer,F., Villarino,A.,and Alzari, P.M.(2oo7).Structural and binding studies of the three-metal center in two mycobacterial PPM Ser/Thr protein phosphatases.J. Mol.Biol.374:890-898.   \nYin,P., Fan, H., Hao,Q., Yuan, X.,Wu, D.,Pang, Y., Yan, C., Li,W., Wang,J.,and Yan,N. (2oo9). Structural insights into the mechanism of abscisic acid signaling by PYL proteins.Nat.Struct.Mol. Biol. 16: 1230-1236.   \nZito,F.,Finazzi,G.,Delosme，R.,Nitschke，W.,Picot,D.,and Wollman,F.A. (1999). The Qo site of cytochrome $b _ { 6 } f$ complexes controls the activationof the LHCll kinase.EMBOJ.18:2961-2969. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Structural Mechanism Underlying the Specific Recognition between the Arabidopsis State-Transition Phosphatase TAP38/PPH1 and Phosphorylated Light-Harvesting Complex Protein Lhcb1 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Xuepeng Wei, Jiangtao Guo, Mei Li and Zhenfeng Liu Plant Cell 2015;27;1113-1127; originally published online April 17, 2015; DOI 10.1105/tpc.15.00102 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This information is current as of July 1O, 2015 ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/e18eeac61480f0269d6b725f89fdaefb200f6011d227754a73d917ed7a67a119.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Supplemental Data</td><td>http://www.plantcell.org/content/suppl/2015/04/08/tpc.15.00102.DC1.html</td></tr><tr><td>References</td><td>This article cites 48 articles,17 of which can be accessed free at: http://www.plantcell.org/content/27/4/1113.full.html#ref-list-1</td></tr><tr><td>Permissions</td><td>https://www.copyright.com/ccc/openurl.do?sid=pd_hw1532298X&iss=1532298X&WT.mc_id=pd_hw153298X</td></tr><tr><td>eTOCs</td><td>Sign up for eTOCs at: http://www.plantcell.org/cgi/alerts/ctmain</td></tr><tr><td>CiteTrack Alerts</td><td>Sign up for CiteTrack Alerts at: http://www.plantcell.org/cgi/alerts/ctmain</td></tr><tr><td>Subscription Information</td><td>Subscription Information for The Plant Cell and Plant Physiology is available at: http://www.aspb.org/publications/subscriptions.cfm</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbb { O }$ American Society of Plant Biologists ADVANCINGTHE SCIENCEOFPLANTBIOLOGY ",
+        "text_level": 1,
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFICREPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One-step generation of triple genetargeted pigs Using CRISPR/Cas9 system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:02 October2015   \nAccepted:08 January 2016   \nPublished: 09 February 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xianlong Wang1,\\*,ChunweiCao1,\\*, Jiaojiao Huang1,\\*,JingYao1,Tang Hai1, Qiantao Zheng1,2, Xiao Wang1,2, Hongyong Zhang1,2,Guosong Qin1,Jinbo Cheng³,Yanfang Wang4, ZengqiangYuan³,Qi Zhou1,2, HongmeiWang1,²& Jianguo Zhao1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pig shows multiple superior characteristics in anatomy, physiology,and genome that have made this species to be more suitable models for human diseases, especially for neurodegenerative diseases, because they have similar cerebral convolutions compared with human neocortex. Recently, CRISPR/ Cas9 system shows enormous potentialfor engineering the pig genome.In this study, we expect to generate human Parkinson's disease pig model using CRISPR/Cas9 system by simultaneously targeting three distinct genomic loci,parkin/DJ-1/PINK1,in Bama miniature pigs.By co-injectionofCas9 mRNA and multiplexing single guide RNAs (sgRNAs)targeting parkin,DJ-1,and PINK1 genes,respectively, into in vivo derived pronuclear embryos,we simultaneously targeted three distinct genomic loci.The gene modified piglets remain healthyand display normal behavior at the age of10 months.In addition, despite the high numberof sgRNAs were employed in the present study,our trio-based whole-genome sequencing analysis suggested that the incidence of off-target events is low.Our results demonstrate that the simplicity,efficiency,and powerofthe CRlSPR/Cas9 system to allow for the modification of multiple genes in pigs and yield results of high medical value. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parkinson's disease (PD)is the most common neurodegenerative movement disorder in the elderly.While most cases are sporadic,about $5 \\mathrm { - } 1 0 \\%$ of people are now known to have forms of the disease that occur because of a mutation of one of several specific genes1.Recessively inherited loss-of-function mutations in the Dj-1, parkin,and PINK1 genes are linked to familial cases of early-onset $\\mathrm { P D } ^ { 2 - 4 }$ .However, neither single nor triple knockout mice lacking DJ-1, parkin,and PINK1 genes can recapitulate the clinical symptoms of idiopathic or inherited $\\mathrm { P D } ^ { 5 , 6 }$ . The lack of a proper model has hindered our ability to develop therapies against human PD. Recently, numerous pig models of neurodegenerative disorders,such as amyotrophic lateral sclerosis (ALS) and Huntington's disease $( \\mathrm { H D } ) ^ { 8 }$ , have been developed using gene engineering approaches because pigs share many physiological similarities with humans.To understand the pathophysiologyofPD,and to develop novel therapies for improved symptomatic management, we were therefore prompted to generate DJ-1,parkin,and PINKl genes modified pigs to attempt to obtain the relevant disease models of PD. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,through the use of the CRISPR/Cas9 system,biallelic gene knockout pigs were effciently generated in a single step through a direct cytoplasmic injection of Cas9 mRNA and sgRNA into pig zygotes,10. These findings indicated that the CRISPR/Cas9 system shows enormous potential in establishing large animal models of neurodegenerative diseases by engineering genome in spite of the lack of embryonic stem cellines for genomic manipulation11.Nevertheles,the versatile functionalities of the CRISPR/Cas9 system,such as multiplexed genome editing,remain to be developed and improved in pigs.This requirement is particularlyimportant when simultaneous modification of multiple genes functioning in concert is needed to obtain a desired phenotype.For example,inactivation of allthree recessive PD genes,DJ-1,parkin,and PINK1,may have synergistic effects and cause more severe PD pathology than single gene inactivation,which may explain why patients with ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof Stem Celland Reproductive Biology, Institute of Zoology, ChineseAcademyofSciences, Beijing100101,China.2UniversityofChineseAcademyofSciences,Beijing10o049,China.3State KeyLaboratoryof BrainandCognitiveSciences,nstituteofBiophysics,ChineseAcademyofSciences,Beijing100l01,China.4Institute ofAnimalSciences,ChineseAcademyofAgriculturalSciences,Beijing100193,China.5State KeyLaboratoryof Brain andCognitiveSciences,InstituteofBiophysics,ChineseAcademyofSciences,Beijing10olo1,China.\\*Theseauthors contributed equallto this work.Correspondence and requests formaterials should be addressed to H.W.(email: wanghm@ioz.ac.cn) orJ.Z. (email: zhaojg@ioz.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "digenic parkin and PINK1 mutations hadalower age ofonset than those with single mutationl2.Thus,it drives us to recapitulate some key features ofPD diseaseby generating DJ-1/parkin/PINK1 triple-gene modified pigs using CRISPR/Cas9 system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we produced pigs with mutations in multiple targeted genes.By co-injection of Cas9 mRNA and multiplexing sgRNAs into in vivo derived pronuclear embryos, we simultaneously targeted three distinct genomic loci in Bama miniature pigs (Fig.1A). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The simultaneous use of two adjacent sgRNAs targeting one locus significantly increased the targeting effciency and improved Cas9-mediated genome targeting13,14. Hence, we designed six sgRNAs targeting six different genomic sites encoding pig DJ-1(sgDJ1-1 and sgDJ1-2),parkin (sgparkin-1 and sgparkin-2)and PINK1 (sgPINK1-1 and sgPINK1-2)(Fig.1B). The sgRNAs were designed to contain 20-nucleotide customized spacer sequences together with tracrRNA-derived sequences as previously described15. A mixture of sgDJ1-1, sgDJ1-2,sgparkin-1,sgparkin-2,sgPINK1-1 and sgPINK1-2 (six sgRNAs) with Cas9 mRNA was injected into one-cell-stage pig embryos.Next, we transferred the injected embryos into surrogate pigs to produce piglets. A total of 34 embryos were delivered to 3 surrogates,andone ofsurrogates was successfully impregnated and delivered two live-born piglets (Supplementary information,Table S1).We amplified target sites from the genomic DNA ofeach individual piglet and analyzedthe genotype by Sanger sequencing.Surprisingly,both of the founders harbored site-specific indels in the targeting sites.One piglet showed bialelic modifcation of allthree genes, andanother showed bialelic modification ofthe DJ-1and PINK1 genes and monoallelic mutations of parkin gene (Fig.1C).These results demonstrated that piglets carrying bialelic mutations in three diffrent genes could be generated in one step through direct zygote injection with high effciency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wefurther examined whether gene modifications caused a depletion of gene expresson or related phenotypes.Immunofluorescence (Fig.2A)and western blot analysis (Fig. 2B) showed the absence of DJ-1 protein expresion inthefibroblasts ofthese two gene modified piglets,which confirmedthatbothoftheDJ-1 gene alleles wereinactivated.Due to the diffcultyof obtaining an effectiveantibodytodeterminethe expressionof parkin and PINK1 in pigs,real-time RT-PCR was employed.The relative parkinand PINK1 gene mRNA expression was also dramaticalydecreased inthe fibroblastcells from the two gene modified pig compared with wild-type cells based on real-time RT-PCR (Fig.2C),most likely due to nonsense-mediated mRNA decayl6.Furthermore,because oxidative stress and mitochondrial dysfunction have been linked to the pathogenesis of $\\mathrm { P D } ^ { \\mathrm { 1 7 } }$ ,we also showed that the transcription of some stres defense genes was disrupted in the gene modified pig fibroblast cells (Fig. 2D). However, the two piglets remain healthy with a normal growth rate for Bama miniature pigs and typical symptoms of Parkinson's disease have not been observed in 10-month-old live mutant pigs in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have suggested that the CRISPR/Cas9 systems might tolerate sequence mismatches distal from the protospacer adjacent motif (PAM) at the $5 ^ { \\prime }$ end of sgRNAs,which would likely induce off-target mutations18.Specifically,a high number of sgRNAs were employed in the present study.We thus sought to test the possible of-target efects in genome-modified pigs derived from multiplexing sgRNAs-injected zygote.We performed whole-genome sequencing in the two parentsand one of the piglets (Fig.3A,Supplementary information, Figure Sl) to assssthe degree of mutagenesis acrossthe entire genome. We largely focused on the identification of small indels introduced by non-homologous end joining (NHEJ)-mediated repair. After the fltering process (methods section),a set of small indels that were most likely tobe true positives and potential off-target mutations (rather than the mutations that arose in the parental genomes) were detected by whole-genome sequencing. Consequently we identified atotal of19 de novo indels in the ofspring throughout the genome (Table 1).The de novo mutation frequency $( 6 . 7 7 \\times 1 0 ^ { - 9 } )$ is closed to that previously estimated in human $( \\bar { 1 } . 5 \\times 1 0 ^ { - 9 } ) ^ { 1 9 }$ ,which indicates that our CRISPR/Cas9 system does not significantly increase the rate of de novo indel mutations.Further, the low de novo mutation frequency may indirectly reflect the low incidence of off-target events. Additionally, these mutations were allocated in the non-coding genomic regions (Table1),which suggests no obvious effect on the function of the protein. We further asked whether these de novo indels were generated spontaneously or induced by the CRISPR/Cas9 system.To this end,we performed a comprehensive prediction for potential off-target sitesbya CasOT program20,and we found thatno indel mutations located around the predicted/potentialoff-target regions (Fig.3B).These results suggested that these mutations were most ikelyto occur spontaneously.Moreover,the potentialof-targetsites,which werelocatedwithinthecoding regions,were wellcovered by sequencing reads (also confirmed bySanger sequencing,Supplementary information,Figure S2),and no de novo mutations were identified in theseof-target sitesand flanking regions (Supplementary information,Table S2).In addition,the whole-genome sequencing analysis demonstrated thatthe present CRISPR/Cas9 targeting did not lead to mosaic mutations (data not shown).We concluded that the CRISPR/Cas9 system may not significantly increase the incidence of off-target cleavages in the pig genome,thougha high number of sgRNAs was employed in the present study. Our study is consistent with the recent reports showing of-target mutations are rare in Cas9-modified mice²1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genetic manipulation of pigs is a crucial approach for improving livestock production and the studyof human disease.However,the generation of gene modifed pigs has been impeded bythe slow,tedious,and expensive procedure of genetic modifcation due to the lack ofembryonic stem cellines.The most exciting finding in this study is the demonstration of robust multiplex,bialelic gene targeting inthe pig without induction ofof-target mutattions. A unique capability of the CRISPR/Cas9 system is multiplex genome engineering by delivering a single Cas9 enzyme and two or more single guide RNAs (sgRNAs)targeted to distinct genomic sites.Through the co-injection of Cas9 mRNA and the multiplexing ofsgRNAs into in vivo derived pronuclear embryos, we simultaneously targeted three distinct genomic loci in Bama miniature pigs in a highly effcient manner. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A Cas9mRNA Mutant piglets mG caP MWWWAAAAAA Zygote LLLLLEL DJ-1/Parkin/PINK1 sgRNAs Embryo transfer Gestation (3 months $+ 3$ weeks $+ 3$ days)   \nB ATG DJ-1 locus (Chr 6) AAGATCCGGTGCAGTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT TTCTAGGCCACGTCACATCGGCACTACAACAGTAAACAGGGCTGCGGTCGGACCTTCTA ATG Parkin locus 1 (Chr 1) CCTGTCAAAGAGTGCAGCCAGGAAAGCTCCGCGTGCGGTGCAGCACCTGCCAACAGGCA GGACAGTTTCTCACGTCGGTCCTTTCGAGGCGCACGCCACGTCGTGGACGGTTGTCCGT ATG PINK1locus I (Chr 6) TCCAGCGAAGCCATCCTCAGTACAATGAGCCAGGAGCTCGTCCCAGCCAGTCGGGTGGC AGGTCGCTTCGGTAGGAGTCATGTTACTCGGTCCTCGAGCAGGGTCGGTCAGCCCACCG   \nC AAGATCCGGTGCAGTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGATWT DJ-1 AAGATCCG:::::GTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT -4 : : ::: : : : : : : : : : : :TAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT -187,+2   \n共 CCTGTCAAAGAGTGCAGCCAGGAAAGCTCCGCGTGCGGTGCAGCACCTGCCAACAGGCA WT   \nt Parkin CCTGTCAAAGAGTGCAGCCAGT:::GCTCCGCGTGCGGTGCAGCACCTGCCAACAGGCA -4,+1   \nd CCTGTCAAAGAGTGCAGCCAGGAAAGCTC: : : GTGCGGTGCAGCACCTGCCAACAGGCA -3, $+ 1 6$ （20 CTGCTCCTGTTGGCAG TCCAGCGAAGCCATCCTCAGTACAATGAGCCAGGAGCTCGTCCCAGCCAGTCGGGTGGC WT PINK1 TCCA: : : : : : : TCCTCAGTACAATGAGCCAGGAGCTCGTCCCAGCCAGTCGGGTGGC -9 TCCA:: :::TCCTCAGTACAATGAGCCAGGAGCTCGTCCCAGCCAGTCGGGTGGC -9 AAGATCCGGTGCAGTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT WT DJ-1 AAGATCCGGTGCCAGTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT $^ { + 1 }$ AAGATCCGGTGCCAGTGTAGCCGTGATGTTGTCATTTGTCCCGACGCCAGCCTGGAAGAT $^ { + 1 }$   \n2 CCTGTCAAAGAGTGCAGCCAGGAAAGCTCCGCGTGCGGTGCAGCACCTGCCAACAGGCAWT   \nt Parkin CCTGTCAAAGAGTGCAGCCAGGAAAGCTCCGCGTGCGGTGCAGCACCTGCCAACAGGCA 0   \n5 CCTGTCAAAGAGTGCAGCCAGCACC::::::::TGCGGTGCAGCACCTGCCAACAGGCA -12 $^ { + 4 }$ （20 TCCAGCGAAGCCATCCTCAGTACAATGAGCCAGGAGCTCGTCCCAGCCAGTCGGGTGGC WT PINK1 TCCAGCGAAGCCATCCTCAGTACAATGAGCCAGGAG:::::::::::::::::::TGGC -19 TCCAGCGAAGC: : : : : : TGGC -52 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6060a0970dd51049133775d0ab41f18682c319e290f130545cae7a8278ba96e0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05af43222cf48bd39e80dd5e8f383662fe696949793f1b32f23dcdf775acb84b.jpg",
+        "img_caption": [
+            "Figure 2.Brife phenotypic identification of triple gene-modified piglets. (A)DJ-1 immunofluorescence analysis ofthe fibroblasts of WTand two gene modified piglets.The fibroblasts of gene-modified piglets are negative for anti-DJ-1 staining; in contrast, the WT controls show positive staining in the fibroblasts. (B) Western blotanalysis showed the absence of DJ-1 protein expression in the fibroblasts of these two gene modified piglets.(C) Quantitation of parkin and PINK1 gene expression in the fibroblasts of WTand two gene modified piglets. parkin and PINK1 gene expresson was dramaticallydecreased in the gene modified-derived pig fibroblast cells compared with wild-type cells based on real-time RT-PCR.The graph demonstrates the results of the gene expression levels normalized against loading controls (arbitrary units, wild type $= 1$ ） (D) Comparison of oxidative stressdefense gene expression in wild type and gene modified-derived pig fibroblast cels by real-time RT-PCR.The graph demonstrates the results of the gene expression levels normalized against loading controls (arbitrary units,wild type $= 1$ ） $^ { * } \\mathrm {mathtt { p } } < 0 . 0 5$ ： ",
+            "Figure 3.(A) Cumulative distribution of coverage of whole genome sequencing for three individuals.Shown is the absolute number of genomic sites in the coding sequences (CDS)achieving coverage equal or higher than the coverage indicated on the x axis.(B) None ofindel mutations located around potentialof-target regions as predicted bythe CasOT program.Red triangles indicate uniquede novo indels detected by whole-genome sequencing. Black bars indicate the putative off-target sites predicted by the CasOT program. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several previous studies have reported that simultaneous use of dual sgRNAs to target an individual gene significantly improved the CRISPR/Cas9-mediated genome targeting efficiencyl3,14,2.In line with this, we found that dual gRNAs could indeed simultaneously target three distinct genomic loci in Bama miniature pigs in a highly efficient manner.This could be because different sgRNAs have substantially variable DNA cleavage efficiency,and dual gRNAs could guarantee the CRISPR system has maximize occurrence of genetic modification at the target site.Actually, in our present study,the alelic mutations at the parkin target site from piglet $1 \\#$ were induced by diffrent sgRNAs.Recently,dual sgRNAs were used to inducea deletion ofthe chromosome sequence between the two sgRNA-targeted loci, which is a very useful technique for creating nullaleles and targeting noncoding regions in the genome such as enhancers and silencers that control expression of disease-relevant genes22.However,Wang etal.,reported thatcombinationofsome two sgRNAs may exhibit anantagonistic effect intargeting.Such antagonistic efect reminded us that when multiple gRNAs were used incombination,the side effect should be taken into consideration23. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7017781d0b39e7629b0cfa68866cb30c38c9fe7aa21e30987efd2fd29da7f71a.jpg",
+        "table_caption": [
+            "Table 1. Unique de novo indels detected by whole-genome sequencing. No indels lie in the coding sequences.Indels that lie in the introns are highlighted in Bold. Other indelslie in the intergenic region.Red highlights indicate potential PAMs (NGG) within 20 bases upstream of the indel. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Chr</td><td>Pos</td><td>5'flanking</td><td>Ref</td><td>Alt</td><td> 3' flanking</td></tr><tr><td>1</td><td>137135750</td><td>GAGTCAAGCCTATGAGTATA</td><td>A</td><td>AAT</td><td>AAAGTAGTGACCAAATATTA</td></tr><tr><td>1</td><td>192684122</td><td>AGACAAAGGTGGTCTTTTGA</td><td>T</td><td>TTGAAGACACATCA</td><td>TGAAGACAGATCAAGGTAGC</td></tr><tr><td>10</td><td>12607948</td><td>GAATCTAGATTTACACTCAA</td><td>A</td><td>ACAGTAC</td><td>CAGAATAGATTTATGATAGC</td></tr><tr><td>11</td><td>60341250</td><td>GTTATGCAACTAAAATTTAT</td><td>A</td><td>AATG</td><td>AAGAAAACCTTATATACCAT</td></tr><tr><td>13</td><td>7678576</td><td>ATCCAAATTATAGAAATCAT</td><td>AC</td><td>A</td><td>CAACTATACATCAAAAAAAC</td></tr><tr><td>13</td><td>7678587</td><td>AGAAATCATACAACTATACA</td><td>T</td><td>TC</td><td>CAAAAAAACAAGCTAACTAA</td></tr><tr><td>13</td><td>103844162</td><td>ACATGTATCTTTTCGAATTA</td><td>G</td><td>GT</td><td>TTTTTTTTTTCCCCAGAATA</td></tr><tr><td>13</td><td>160142098</td><td>TTTTTATGACTGTAGTTTTG</td><td>TAGTAG</td><td>T</td><td>AGTAGAGTCTGAAGTCAGGG</td></tr><tr><td>14</td><td>107749627</td><td>GACTTTGTTGAACACCTGAA</td><td>ACTAACACTGTTTC</td><td>A</td><td>CTAACACTGTTTCCTAAGTC</td></tr><tr><td>15</td><td>95811724</td><td>ATATGGGTAGTTATATTTTT</td><td>G</td><td>GT</td><td>TTTTTTTGAGAAACTTCCAT</td></tr><tr><td>16</td><td>10892649</td><td>TGGTAGAACAGAGCTTTCCT</td><td>GAGTACCTTTCCCAA</td><td>G</td><td>AGTACCTTTCCCAAAGTATA</td></tr><tr><td>3</td><td>63723851</td><td>AAACAAAATTATATATTGTA</td><td>A</td><td>AAGG</td><td>AGGAGGAGCAGAAACTATCA</td></tr><tr><td>4</td><td>19988911</td><td>GTTGCAGGTGTGGCCCTAAA</td><td>AAT</td><td>A</td><td>ATATATATATAAAAAAAAAA</td></tr><tr><td>4</td><td>57910144</td><td>ACTTGAAAATAACTCCTGGC</td><td>TGATA</td><td>T</td><td>GATAGATAACTAGAGTCTTC</td></tr><tr><td>8</td><td>18066061</td><td>CTTTGTTGAAACCACTATTT</td><td>ATTTTCTTTTC</td><td>A</td><td>TTTTCTTTTCTTTTCTTTTC</td></tr><tr><td>8</td><td>69296057</td><td>CTAGGAATATTATATACACC</td><td>A</td><td>AT</td><td>TTTAGTTCATGTTCATCATT</td></tr><tr><td>9</td><td>38150005</td><td>GGATATCAATAAATAGAGTT</td><td>AG</td><td>A</td><td>GGAAAAAAATACCCAGGAAG</td></tr><tr><td>9</td><td>90939919</td><td>CTAGTTATCACCAATATATA</td><td>T</td><td>TA</td><td>TTTTTATTAGTGTAGTTTAT</td></tr><tr><td>9</td><td>92437048</td><td>TATGTACATATACACACACA</td><td>CAT</td><td>C</td><td>ATATATATATTTTCTTTCTA</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although CRISPR/Cas9 systems can serve as the basis of asimple and highly efficient method for performing genome editing in various organisms,theydo not have perfect specificity and can induce high-frequency off-target mutagenesis at sites in the genome other than the desired on-target site18.The major concernabout the present study is the potential off-target effect caused byhigh numberof sgRNAs.Unlike previously reports, in which limited numbers of potential target DNA sequences with point or combined mismatches in silico predicted by comparison with the authentic targeting sites were tested, we performed whole-genome sequencing in the parents and one of the piglets (1#) to assess the degree of mutagenesis acrossthe entire genome.Surprisingly, sequencing assy showed that our CRISPR/Cas9 system did not introduce significant of-target cleavages in the pig genome,thoughahigh numberofsgRNAs were employed in the present study.Inadditional,wealso did not find any mosaic mutations in the piglets by whole-genome sequencing.It suggested that the choiceof sgRNAs thatrepresent unique sequences in the genome and the use ofoptimization of the injection method would suffice to avoid of-target mutations and reduce the mosaic rate and thus cutthe cost and time required forthe production of mutant animals. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We expect that the newly developed CRISPR/Cas9 technology will promote the generation ofhuman diseases pig models and pigs with tailored economic traits,and yield results of high medicaland agricultural value. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MaterialandMethods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chemical and Reagents.Unless otherwise stated,allchemicals were purchased from Sigma (St. Louis, MO, USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Animalsand Ethics statement.Pigs were raised atthe BeijingFarm Animal Research Center(atached to Institute of Zoology, Chinese Academyof Sciences)and had ad libitumaccess toa commercial pig diet (nutrient levels according to the NRC)and water throughout the experimental period.Allexperiments involving animals were conducted according to the Guidelines for the Care and Use of Laboratory Animals established by the Beijing Association for Laboratory Animal Science and approved under the Animal Ethics Commitee ofInstitute of Zoology, Chinese Academy of Sciences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generation of DJ-1/parkin/PINK1 triple-gene modified pigs Using CRISPR/Cas9 system. Production of Cas9 mRNA and sgRNA,recovery of in-vivo-derived zygotes,cytoplasmic microinjection of RNAs,embryo transfer and Sanger sequencing of mutated sites were performed as described in our previous report24.The primers used in producing the PCR amplification for sgRNA in vitro transcription and detecting the mutagenesis at the targeted site were listed in Supplemental Tables S3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation of porcine ear fibroblasts and culture conditions.Pig ear fibroblast cells were prepared from ear skin biopsies from wild type or gene modified miniature pigs.The fibroblasts were cultured in DMEM, supplemented with $1 5 \\%$ defined FBS, $1 \\times$ non-essential amino acids,1oo units/mL penicillin,and $1 0 0 \\mu \\mathrm { g / m L }$ streptomycin in a humidified atmosphere containing $5 \\% \\mathrm { C O } _ { 2 }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RNA isolation and real-time RT-PCR. Total cellular RNA (tcRNA) was extracted from wild type or gene modified miniature pig fibroblasts using a RNAprep pure tisue kit (TIANGEN Biotech,Beijing,China). Real-time reverse transcriptase polymerase chain reaction (RT-PCR) was conducted using an ABI ViiAT 7 system(Applied Biosystems,Foster City, CA,USA)and SYBR Greenas the double-stranded DNA-specific fluorescent dye (Bio-Rad, Hercules, CA,USA) (se Supplementary Table S3 forRT-PCR primer sets).The pig GAPDH gene was used as an internal controlto normalizethe RT-PCR efciencyand to quantifythe expression of the genes. After normalization with actin mRNA,we compared the relative expresson ofeach mRNA in the wild type and two gene modifed miniature pig-derived genes with those ofthe controls. We performed RT-PCR on each sample independently and in triplicate. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence.Pig ear fibroblast cels were seeded into 24-well plates (BD Falcon,Franklin Lakes, NJ). On the next day, the cells were rinsed with1XPBS and fixed with $4 \\%$ paraformaldehyde for $1 0 \\mathrm { m i n }$ at room temperature followed by permeabilization with PBS plus $0 . 1 \\%$ Triton X-10o. The cells were subjected to immunofluorescence staining with a DJ-1 antibody(1:50o,Cel Signaling Technology, Inc.MA,USA) overnight at $4 ^ { \\circ } \\mathrm { C } .$ The cells were then washed with cold PBS three times for $3 \\mathrm { { m i n } }$ per wash and incubated with a FITC-labeled anti-rabbit secondary antibody(1:800)(Life Technologies,Carlsbad, CA,USA) at room temperature for $^ \\mathrm { 1 h }$ 元 After incubating the cells with $0 . 1 \\mu \\mathrm { g / m l }$ DAPI(DNA stain) for $1 \\mathrm { m i n }$ followed by rinsing with PBS,the cells were analyzed by confocal microscopy using a LSM 5 PASCAL (ZEISs, Oberkochen, Germany). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Whole genome sequencing. Genomic DNA was extracted from the ear tissue of each pig,and whole genome sequencing was performed using an Illumina NextSeq 500 system according to the manufacturer's instructions.For each individual (boar,sow and offspring),index sequence was added and a $2 \\times 1 5 0$ paired-end sequencing library with 3O0 bp insert size was generated.The three libraries were then pooled together and sequenced in a single run with a mean coverage of 11X (boar, $1 0 . 2 \\mathrm { X } ;$ sow,11.2X;offspring,11.7X.).The original sequence reads were split based on index and the adapters were trimmed out. A trimmomatic program was furtherused to remove adapter contamination and trim sequencing reads withlow qualitybases with the command \\`illumina_adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:50' The remaining qualified reads were then mapped to pig build 10.2 reference sequence using Burrows-Wheler Aligner (BWA) tools with default parameters.The SAMfiles (generatedfromBWA) thatcontained theread alignments were converted into BAMfiles,and the processed BAMfiles (sortingand removing duplicates)were then used to call variants by SAMtools program.The BEDTools software package was usedforanalyzing the coverage distributions.In the present whole genome sequencing analysis,about $7 0 \\%$ of genomic sites $( \\sim 3 7 \\mathbf { M } )$ within the coding sequences (CDS) were covered by at least 10 sequencing reads (Fig.3A and Supplemental Figure S1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "De novo mutation calling and filtering.To investigate de novo insertion/deletions (indels) mutations (introducedbyoff-targeting)ona genome-wide scale using trio-based sequencing data,atriocallingalgorithm implemented in VarScan software was applied with the following parameters as‘-min-coverage 10-min-reads2 2-min-var-freq 0.3-min-avg-qual 20-adj-var-freq 0.05-adj-p-value 0.1'To further filter thede novo mutations, aseries of stringent parameters were used to reduce the rate offalse positive: (a),no variant-supporting reads in either parent.(b),genotype quality(GQ) score of the variant should be higher than 25.(c),variants in therepetitive regions of pig genome were excluded.(Information for repetitive elements in pig genome was downloaded from UCsC table browser.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Prediction of off-target sites. Putative off-target sites were investigated using the CasOT program,and the maximum number of mismatches allowed in the seed region and non-seed region of potential off-target sites were limited to 2.To examine whether the potential off-target sites were located in exonic regions,annotation GTF file of pig gene-set (downloaded from Ensembl database) was provided. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.Lesage,S.&Brice,A.Parkinson'sdisease:from monogenicforms togeneticsusceptibilityfactors.Hum MolGenet18,R48-59 (2009).   \n2.Bonifati,V.etal.Localzatioofutosomalrecesivearly-onsetparkinsonsmtoromosomelp6(ARK7)inanindependent dataset.Annals of neurology 51,253-256 (2002).   \n3.Kitada,T.etal.Mutations intheparkingenecauseautosomalrecesivejvenileparkinsonism.Nature9,60-608(1998).   \n4.Valente,E.M.etl.HereditaryearlyonsetParkinson'sdiseasecausedbymutationsinK1.cience304,158-160(4).   \n5.Golderg,M.S.talParkin-deficientmiceexhibitnigrostriataldeficitsbutnotlossofdopaminergicneurons.JBiolChem28, 43628-43635 (2003).   \n6.Kitada,T.Tong,Y,Gautier,C.A.&en,JAbsenceofnigraldgenerationiagedparkin/J-/PKtripleknockoutice.J Neurochem 111,696-702 (2009). 7. Yang,H. Q.et al. Species-dependent neuropathology in transgenic SODl pigs. CellRes 24,464-481 (2014).   \n8.Baxa,M.etal.A transgenic minipig model of Huntington's Disease.JHuntington’s Dis 2,47-68 (2013).   \n9.Hai,T.Teng,F,Guo,R,LiW.&Zou,Q.One-stepgenerationofockoutigsbyygteijectionofCPR/Casste.Cell Res 24,372-375 (2014).   \n10.Whitworth,K.M.etal.UseoftheCP/Cas9SystemtoProduceGeneticallEngieeedPigsfromInVitro-Derivedocys Embryos.Biol Reprod 91,78 (2014).   \n11.Tu,Z.,Yang,W,Yan,Gu,X.&L,XJCas9:oefulgeneticengineringtolforetablsglrgaldels of neurodegenerative diseases.Mol Neurodegener10,35 (2015).   \n12.Funayama,M.etal.FamilialparkinsonismwithdigenicParkinandPINK1mutations.MovementDisord23,146l-1465(08).   \n13.Li,W.Teng,F,LiT.&Zhou,Q.Simultaneousgenerationandgermlinetransmisionofmultiplegene mutationsinatusing CRISPR-Cas systems.Nature Biotechnol 31,684-686 (2013).   \n14.Zhou,J.K.etal.DualsgRNAs facilitateCRISPR/Cas9-mediated mouse genome targeting.FEBSJ281,1717-1725 (2014).   \n15.Jinek,M.etal.Aprogrammabledual-RN-gudedDAdonuceaseinadaptivebacterialimmunity.cience7,1682(12).   \n16.Barrangou,R.etal.AdvancesinCRISPR-Cas9 genomeenginering:lssons larnedfromRNAinterference.NucleicAcidsRes43, 3407-3419 (2015).   \n17Henchclife,C.&Beal,M.FMitochondrialiologndoxidativestressinParkinsondseasepathogenesis.NatClinPracNeuro4, 600-609 (2008).   \n18.Fu,Y.etalHigfrqecyof-agetutageesisiucedby-Casucleasesinumacellatureotecol326 (2013).   \n19.Besenbacher,S.etal.Novelvariationandde novo mutationratesinpopulation-widedenovoasembledDanishtrios.Nature Commun 6,5969 (2015).   \n20.Xiao,A.etal.CasOT:agenome-wide Cas9/gRNAoff-targetsearching tool.Bioinformatics 30,1180-1182 (2014).   \n21.Iyer, V.et al.Of-target mutations are rare in Cas9-modified mice.Nat Methods12,479 (2015).   \n22.Chen,X.etal.DualsgRNA-directed geneknockoutusing CRISPR/Cas9technology inCaenorhabditis elegans.SciRep4,7581 (2014).   \n23.Wang,J.etal.Dual gRNAs guidedCRISPR/Cas9systeminibitshepatitisBvirusreplication.WorldJGastroentero21,9554-9565 (2015).   \n24.Wang,X.etal.EfcientCRIPR/Cas9-medatedbiallicgenedisruptionndsite-speifcknockinafteraidselectionofighly active sgRNAs in pigs.Sci Rep 5,13348 (2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors thank allmembers of the Zhao laboratory for their help inthis project.This work was supported by the National High Technology Research and Development Program of China (2012AA020602)and National Natural Science Foundation of China(3117281,31272440,and 31402045)the National Basic Research Program of China (2011CBA0100,2011CB944100 and 2011BAI15B02). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AuthorContributions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "J.Z. and H.W. conceived and designed the study. X.L.W., C.C.,JH.,JY.,T.H., Q.T..,X.W.,H.., G.Q.,J.C.,Y.W, Z.Y.and Q.Z performed the study. X.L.W., C.C. and J.Z. analyzed the data and prepared the manuscript. All authors reviewed the manuscript ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Wang,X.et al. One-step generation of triple gene-targeted pigs using CRISPR/Cas9 system.Sci. Rep.6,20620; doi:10.1038/srep20620 (2016). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is notincludedunder the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 6
+    }
+]

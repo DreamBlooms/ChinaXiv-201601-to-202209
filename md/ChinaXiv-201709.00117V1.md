@@ -1,0 +1,117 @@
+专题：青藏高原综合科学研究进展Progress of Comprehensive Scientific Research on Tibetan Plateau, China
+
+# 青藏高原的核心\*来自南半球冈瓦纳大陆
+
+![](images/08bc60d29dcdccb8c314ba4fc3ae556503f9e804ad75fede629ff99ebc6573ff.jpg)
+
+# 丁林12 李震宇1 宋培平1
+
+1中国科学院青藏高原研究所大陆碰撞与高原隆升重点实验室北京100101  
+2中国科学院青藏高原地球科学卓越创新中心北京100101
+
+摘要羌塘与拉萨地块处于青藏高原的核心位置。青藏高原北羌塘及拉萨地块的年代学及古地磁学研究表明，北羌塘地块在距今约3亿年前位于南半球 $( 2 1 . 9 ^ { \circ } \pm 4 . 7 ^ { \circ } \mathrm { S } )$ ）冈瓦纳大陆附近，因而不支持北羌塘地块来自北方劳亚大陆。北羌塘随后开始其持续的北向漂移过程，在约2.1亿年前到达当前纬度位置（ $3 4 ^ { \circ } \mathrm { N } \dot { }$ ），形象地表明其是一只“冈瓦纳大陆的早飞鸟”。拉萨地块从冈瓦纳大陆裂离后的漂移演化史则与北羌塘地块差别明显。自晚古生代一中生代（石炭纪一三叠纪）拉萨地块从冈瓦纳大陆北缘裂离后，其运动学演化过程更显得“犹豫不决”。最新的古地磁研究表明拉萨地块自冈瓦纳大陆裂离后并未显示出明显的快速北向漂移趋势，而是呈现出较为慢速的漂移，直到距今约1.8亿年前（早侏罗世）到达位于南半球赤道附近！ $( 3 . 7 ^ { \mathrm { o } } \pm 3 . 4 ^ { \mathrm { o } } \mathrm { S } )$ ），随后与北面的羌塘地块在晚侏罗世首先从东部发生碰撞，随后于早白垩世时期两个地块完成拼贴。之后的印度次大陆快速向北漂移并在早新生代（距今6500万年前）发生印度-亚洲大陆碰撞，继而对新生代时期欧亚大陆地形地貌格局产生了深远影响。
+
+关键词北羌塘地块，拉萨地块，冈瓦纳大陆，劳亚大陆，漂移历史 DOI 10.16418/j.issn.1000-3045.2017.09.003
+
+\*资助项目：中国科技部深  
+地专项（2016YFC060030  
+3），国家自然科学基金（41490615、41472185），  
+中科院战略性先导科技专项（B类）（XDB03010401），  
+中国博士后基金（2017M611  
+016)  
+修改稿收到日期：2017年9  
+月13日
+
+# 1大陆板块 “聚散史”
+
+在距今约3.6亿年前的远古时期，地球上仅存在两个超级大陆：位于北半球的超级大陆称为劳亚大陆，由现今北美大陆、格陵兰岛以及欧亚大陆的北部组成；位于南半球的超级大陆称为冈瓦纳大陆，包括今天的南美洲、非洲、印度、澳大利亚、阿拉伯和南极等大陆。两者之间是广阔的古特提斯大洋，类似今天的太平洋。冈瓦纳大陆是当时地球上最大的大陆聚合体（超级大陆），共覆盖地表超过1亿平方公里的面积，占地球表面积逾 $2 0 \% ^ { [ 1 ] }$ 。在寒武纪晚期到奥陶纪早期，冈瓦纳大陆的范围甚至从南极（北非地块）直到赤道地区（澳大利亚大陆）都有分布。
+
+在距今约3.2亿年前（晚石炭世），南方的冈瓦纳大陆与北方的劳亚大陆聚合并形成当时地球上唯一的联合古大陆——Pangea（有中文文献将其译为盘古联合古陆）。大约稍晚些时候（距今约3亿年前）联合古大陆开始解体（图1）：北方的劳亚大陆一分为二，分别是北美大陆和欧亚大陆；而南方的冈瓦纳大陆则像从高处跌落的瓷盘，彻底解体一—除南美洲、非洲、印度、澳大利亚、阿拉伯和南极几个大陆块外，还包括众多的小陆块[2-5]。羌塘和拉萨就是其中的两个小陆块，这两个小陆块的特殊性在于冈瓦纳大陆分出的其他大陆/地块的古地理位置都已获得精确限定，然而羌塘和拉萨的属性和来源一直没有很好限定。最新研究表明，羌塘和拉萨从冈瓦纳大陆分离后，漂洋过海，跨过宽广的特提斯洋，从南半球漂移至北半球，经过漫长的旅程最后加入了欧亚大陆，最终成为组成青藏高原的两大核心地体一一羌塘地块和拉萨地块[7]。
+
+# 2从冈瓦纳大陆启航最早的北羌塘地块
+
+“冈瓦纳大陆”这个名词最初是由奥地利地质学家修斯（Eduard Suess）在《地球的面貌》（The Face of theEarth）一书中提出的。冈瓦纳大陆是一个远古时期存在于南半球的古大陆，也称南方大陆[8]，它因印度中部的冈瓦纳地方而得名。在印度半岛，由石炭系到侏罗系，从下部的特征冰碛层到上部的含煤地层，统称为“冈瓦纳（岩）系”。南半球各大陆都发现有这一时代的相似岩系和化石，根据这一相似性和其他证据，便把这个古大陆命名为冈瓦纳大陆。学界当前对于冈瓦纳大陆的几个主要块体组成并无异议，然而，对于一些微型地块（或陆块）的来源却存在较大争议。南羌塘来自冈瓦纳大陆已是公认，但北羌塘地块的来源及其漂移历史一直争议很大：一些学者认为，北羌塘地块来自北方劳亚大陆，然而还有一些学者认为北羌塘地块在晚古生代时期就已从冈瓦纳大陆裂解出来，甚至还有观点认为北羌塘地（与南羌塘地块一起）与当时的华北地块、塔里木地块、扬子地块以及其他一些岛陆共同组成中国古大陆的主体，与劳亚大陆和冈瓦纳大陆“三足鼎立”[9]。争议的主要原因是北羌塘地块缺乏石炭纪一二叠纪典型的冰筏砾岩[2-4]，因为这种冰海杂砾岩是在距今约3亿年前冈瓦纳大陆的标志性沉积[2-4]，其在南美洲、非洲、澳大利亚、印度以及南极大陆都有发现。但北羌塘的地层和古生物又明显不同于欧亚大陆的塔里木地块和昆仑山地(a）距今2.1亿年；（b）距今3.0亿年块，而与扬子地块有很高的相似性。因而试图通过古生物地层的对比来揭示北羌塘地块的来源是行不通的。近现代古地磁学的发展，为更精确地厘定冈瓦纳大陆解体及随后欧亚大陆各地块拼贴聚合过程提供了可靠资料。
+
+![](images/8a357c415bdb6670da173d5b2ca3d814958aa1675900993a5784b40cdde75fb1.jpg)  
+图1羌塘地块、拉萨地块与冈瓦纳大陆、劳亚大陆的关系及古地理重建
+
+中科院青藏高原所大陆碰撞研究组通过古地磁学方法对北羌塘下二叠统开心岭群火山岩进行了详细研究。精确的锆石U-Pb时代表明开心岭群火山岩的年龄为2.97亿年，高质量的古地磁数据表明北羌塘地块在距今2.97亿年前位于南半球（ $2 1 . 9 ^ { \circ } { \pm } 4 . 7 ^ { \circ } \mathrm { S }$ ），此时北羌塘离冈瓦纳大陆较近，而远离北半球的劳亚大陆。这不仅指示北羌塘地块在距今约3亿年之前已经从冈瓦纳大陆裂解出来，还可以解释为什么北羌塘缺乏典型的冰筏沉积。为了进一步揭示北羌塘的漂移历史，项目组还对同一地点的晚三叠世的火山岩开展了古地磁研究。结果表明，到距今约2.1亿年前左右，北羌塘地块的古纬度已为 $3 1 . 7 ^ { \circ } { \pm } 3 . 0 ^ { \circ } \mathrm { N }$ —在误差范围内已达到目前的纬度（ $3 4 ^ { \circ } \mathrm { N }$ ）；同时，也表明此时北羌塘地块已与欧亚大陆发生碰撞，成为欧亚大陆新的南缘。因而自距今3.0一2.1亿年前，北羌塘地块自南向北漂移了约7000公里，平均漂移速度约为7.0厘米/年[10,11]
+
+# 3“走走停停” 的拉萨地块
+
+拉萨地块中部措勤地区敌布错北缘（ $8 4 . 7 ^ { \circ } \mathrm { E }$ ，$3 0 . 9 ^ { \circ } \mathrm { N }$ ）的三叠纪海相嘎仁措组古地磁学结果显示，拉萨地块在早一中三叠世和晚三叠世时期（距今2.4一2.1亿年前）古纬度分别位于南半球 $1 6 . 5 ^ { \circ } \mathrm { S }$ 和 $1 8 . 4 ^ { \circ } \mathrm { S }$ ，长时期徘徊在南半球（图1和2），显得“犹豫不决”，但也证明拉萨地块在早三叠世也已从南半球的冈瓦纳大陆裂离出来并位于南半球中一低纬度地区[12]。随后拉萨地块缓慢向北漂移，在距今1.8亿年时继续向北漂移至南纬$3 . 7 ^ { \circ } \mathrm { S }$ 附近[13]（图2），早白垩世（距今1.2亿年前）已经到达位于北纬 $1 3 . 1 ^ { \circ } \mathrm { N }$ 的位置[14]。距今8000万年时，拉萨地块西部亚热和狮泉河盆地晚白垩世的古地磁研究得到拉萨地块还在北半球约 $1 2 ^ { \circ } \mathrm { N } ^ { [ 1 5 ] }$ ，因而拉萨地块在整个白垩纪显得有点“裹足不前”，一直在北半球 $1 2 ^ { \circ } \mathrm { N }$ 左右徘徊。它在等待一个同伴一一印度次大陆。
+
+# 4 “急速追赶” 的印度次大陆
+
+印度次大陆（及其次大陆最北缘的喜马拉雅部分）在晚侏罗世从冈瓦纳大陆分离后，开始向北快速漂移，并急速追赶拉萨地块。最新研究表明，早新生代（距今6 500 万—6000 万年前）[16-18]，印度次大陆已经在北纬 $1 3 ^ { \circ }$ 附近与欧亚大陆最新南缘（拉萨地块）发生初始碰撞，随后拉萨地块与印度次大陆一起漂移到目前的位置( $3 0 ^ { \circ } \mathrm { N }$ ）。印度-欧亚大陆碰撞也被认为是距今5亿年以来地球历史上发生的最重要的造山事件[67]。尽管地质历史上曾经发生过多次大洋关闭以及大陆碰撞，但唯独印度次大陆与欧亚大陆的碰撞引起了大面积的地表隆起。这种碰撞和持续作用，其影响范围远远超越了青藏高原，甚至波及中亚腹地、东南亚和中国东部地区[19]。围绕这一重大地质事件，早在19世纪末期，就有国外学者对青藏高原的形成提出了认识；在20世纪初期，有学者提出青藏高原的形成是由于印度次大陆向欧亚大陆下方的俯冲导致两大陆间发生强烈挤压变形从而导致高原隆升。近年来，地球科学家们开展了大量的研究，取得了海量的数据及研究成果。关于印度-欧亚大陆初始碰撞研究，国际上普遍接受的观点认为，印度次大陆首先在西构造结与欧亚大陆发生碰撞，然后向东穿时性封闭[7,19,20]，普遍接受的碰撞起始时间为距今5500万年[21]。最新的来自巴基斯坦北部Hazara-Kashmir地区的锆石年龄谱、物源分析以及前陆盆地分析研究也证实，西构造结地区的初始碰撞在距今5 600万—5500万年[22]。同时，根据近10年我国境内雅鲁藏布江缝合带的研究资料，国内科学家首次提出印度次大陆与欧亚大陆的碰撞时间要更早，起始时间很可能在距今6500万年前，碰撞首先从中部开始，然后分别向西构造结和东构造结穿时性封闭[16,23-25]。新的模型预测：碰撞后（1）青藏高原将发生大规模的陆内俯冲，陆内俯冲可能是青藏高原大规模变形的主要动力学模式;（2）大规模的陆内俯冲将引起变形的远程效应；（3）青藏高原碰撞后将发生大规模的陆内岩浆活动和成矿作用。
+
+![](images/6063695320719eb5dc258ba75f94f96d8a0054332f5babaed7dc082b85328677.jpg)  
+图2欧亚大陆、印度及华北地块视极移曲线以及拉萨、特提斯喜马拉雅地块自晚古生代至新生代古地磁数据及其所反映的古纬度变化[13]
+
+总之，大陆间碰撞通常是一个极为复杂的过程，碰撞前的大陆边缘形状是各种各样、不规则的，如南美大陆西侧是平直、简单的活动大陆边缘；澳大利亚与亚洲大陆碰撞一侧的亚洲大陆活动边缘则是非常复杂的，包括陆缘弧、岛弧、微大陆和边缘海等；俯冲的板片也可能出现海山、岛链、海底高原及微陆块等；而印度次大陆边缘存在凸出的岬角和凹进的海湾，因而碰撞首先发生在两大陆凸出的岬角部位，在凸出点之间或一侧仍残留有大洋岩石圈。进一步的大陆-大陆会聚，使碰撞大陆部位向开放的残留大洋岩石圈做逆冲推覆或走滑变形，直至碰撞系统内所有大洋岩石圈被俯冲或被掩埋，然后碰撞变形将传递到更宽阔的两侧大陆之上。因此，可以想象，一个数千公里长的大陆碰撞带，如印度次大陆与欧亚大陆的碰撞，其碰撞将是穿时的，从最初的碰撞到系统内所有洋壳消失后的全面碰撞，可能要持续几十个百万年。
+
+# 5结论
+
+（1）距今3亿年前（晚石炭世），冈瓦纳大陆主体仍然位于南半球中、高纬度带，羌塘地块已经从超大陆北缘裂离出来并发生向北的漂移，而此时拉萨地块则仍然与冈瓦纳大陆连接在一起。
+
+（2）晚三叠世（距今2.1亿年前），羌塘地块已经到达北纬中纬度地区（与现今纬度一致），表明此时羌塘地块已经与中国华北等主要地块完成拼合过程且在运动学意义上与欧亚大陆不可区分，此时代表欧亚大陆与冈瓦纳大陆之间的古特提斯洋（Paleo-Tethys）已经关闭，但中特提斯洋（Meso-Tethys）仍广泛存在，纬向宽约3500一4200公里。拉萨地块则仍位于南半球中纬度地区（ $1 6 ^ { \circ } \mathrm { S }$ 附近）。
+
+（3）早侏罗世时期（距今1.8亿年前），拉萨地块仍然向北漂移并到达位于南半球赤道附近（ $3 . 7 ^ { \circ } { \pm } 3 . 4 ^ { \circ } \mathrm { S }$ ）。早白垩世时期（距今约1.2亿年前），拉萨地块则已经越过赤道并与位于北半球的羌塘地块完成了块体间的拼贴过程，该过程很可能一直持续到晚白垩世。此时拉萨地块最南缘位于 $1 0 ^ { \circ } \mathrm { N } \mathrm { - } 2 0 ^ { \circ } \mathrm { N } .$ 0
+
+（5）晚白垩世时期（距今约8000万年前），非洲大陆已经向北漂移，且印度次大陆漂移至 $1 0 ^ { \circ } \mathrm { S } \mathrm { - } 3 0 ^ { \circ } \mathrm { S }$ 范围，羌塘地块于拉萨地块并欧亚大陆整体古纬度几乎无明显变化，拉萨地块很可能仍然位于 $1 3 ^ { \circ } \mathrm { N }$ 附近。
+
+（6）早新生代时期（距今6500万年前），印度次大陆已经在 $1 3 ^ { \circ } \mathrm { N }$ 附近与欧亚大陆最新南缘（拉萨地块）发生初始碰撞。印度次大陆与欧亚大陆之间强烈汇聚缩短挤压[7,16]，把先期到达的羌塘和拉萨两地块紧紧地挤压在欧亚大陆南部，组成青藏高原的核心。
+
+# 参考文献
+
+1Torsvik TH,Cocks LR M. The Lower Paleozoic palaeogeographical evolution of the northeastern and eastern peri-Gondwana margin from Turkey to New Zealand. Geological Society London Special Publications,2009,325 (1):3-21.   
+2Caputo M V, Crowell J C.Migration of glacial centers across Gondwana during Paleozoic Era.Geological Society of America Bulletin,1985,96(8):1020-1036.   
+3 Jones A T,Fielding C R.Sedimentological record of the late Paleozoic glaciation in Queensland,Australia.Geology,2004,
+
+32(2):153-156.
+
+4 Fielding C R,Frank TD,Birgenheier L P,et al. Stratigraphic record and facies associations of the late Paleozoic ice age in eastern Australia (New South Wales and Queensland). In: Fielding C R, Frank TD, IsbellJL (Eds.). Special Paper 441: Resolving the Late Paleozoic Ice Age in Time and Space. Boulder: Geological Society of America: 41-57.   
+5Torsvik TH, Van der Voo R, Preeden U, et al. Phanerozoic polar wander, palaeogeography and dynamics. Earth-Science Reviews, 2012, 114(3-4): 325-368.   
+6Dewey JF, Shackleton R M,Chang C F,et al. The geological evolution of Tibet - The tectonic evolution of the Tibetan Plateau. Philosophical Transactions of the Royal Society of London A Mathematical Physical and Engineering Sciences, 1988, 327(1594): 379-413.   
+7 Yin A, Harrison T M. Geological evolution of the HimalayanTibetan Orogen. Annual Review of Earth and Planetary Sciences, 2003,28(1): 211-280.   
+8Suess,E.The Face of the Earth. Oxford: Clarendon Press,1906.   
+9 李才,等.羌塘地质.北京:地质出版社,2016.   
+10 Song P,DingL,Li Z,et al.Late Triassic paleolatitude of the Qiangtang block: Implications for the closure of the Paleo-Tethys Ocean. Earth and Planetary Science Leters,2015, 424: 69-83.   
+11 Song PP, Ding L,Li ZY,et al.An early bird from Gondwana: Paleomagnetism of Lower Permian lavas from northern Qiangtang (Tibet)and the geography of the Paleo-Tethys. Earth and Planetary Science Letters,2017,475: 119-133.   
+12 Zhou Y, Cheng X, Yu L,et al. Paleomagnetic study on the Triassic rocks from the Lhasa Terrane,Tibet,and its paleogeographic implications.Journal of Asian Earth Sciences,20l6,121: 108-119.   
+13 Li Z Y, Lippert P, Ding L,et al. Paleomagnetic constraints on the Mesozoic drift of the Lhasa terrane (Tibet) from Gondwana to Eurasia. Geology,2016,44: 737-740.   
+14 Li Z, Ding L, Song P, et al. Paleomagnetic constraints on the
+
+paleolatitude of the Lhasa block during the Early Cretaceous: Implications for the onset of India-Asia collision and latitudinal shortening estimates across Tibet and stable Asia.Gondwana Research,2015,41: 352-372.
+
+15 Yi Z, Huang B, Yang L,et al.A quasi - linear structure of the southern margin of Eurasia prior to the India - Asia collision: First paleomagnetic constraints from Upper Cretaceous volcanic rocks near the western syntaxis of Tibet. Tectonics,2015,34(7): 1431- 1451.   
+16 Ding L, Kapp P, Wan X. Paleocene-Eocene record of ophiolite obduction and initial India-Asia collision,south central Tibet. Tectonics,2005,24(3): TC3001.   
+17 Wu FY, Ji WQ, Wang J G, et al. Zircon U-Pb and Hf ISOTOPIC constraints on the onset time of India-Asia collision.American Journal of Science,2014,314(2): 548-579.   
+18 Decelles PG,Kapp P,Gehrels G E,et al. Paleocene - Eocene foreland basin evolution in the Himalaya of southern Tibet and Nepal:Implications for the age of initial India-Asia collision. Tectonics,2014,33(5): 824-849.   
+19 Tapponnier P, Mercier JL,Proust F,et al. The Tibetan side of the India-Eurasia colision. Nature,1981,294(5840): 405-410.   
+20 Rowley D B.Age of initiation of collsion between India and Asia: A review of stratigraphic data. Earth & Planetary Science Letters, 1996, 145(1-4): 1-13.   
+21 Beck R A,Burbank D W,Sercombe W J,et al.Stratigraphic evidence for an early collision between northwest India and Asia. Nature,1995,373(6509): 55-58.   
+22 Ding L,Qasim M,Jadoon IA K,et al. The India-Asia collision in north Pakistan: Insight from the U-Pb detrital zircon provenance of Cenozoic foreland basin. Earth and Planetary Science Letters, 2016, 455: 49-61.   
+23 Chen J, Huang B,Sun L.New constraints to the onset of the IndiaAsia collsion: Paleomagnetic reconnaissance on the Linzizong Group in the Lhasa Block, China. Tectonophysics,2010,489(1-4):
+
+189-209.
+
+24 Cai F,Lin D,Yue Y.Provenance analysis of upper Cretaceous strata in the Tethys Himalaya,southern Tibet:Implications for timing of India-Asia collision.Earth and Planetary Science Letters,2011,305(1):195-206.
+
+25 Yi Z, Huang B, Chen J, et al. Paleomagnetism of early Paleogene marine sediments in southern Tibet, China:Implications to onset of the India-Asia collision and size of Greater India.Earth and Planetary Science Letters,2011,309(1):153-165.
+
+# Core Fragments of Tibetan Plateau from Gondwanaland United in Northern Hemisphere
+
+Ding Lin1,2 Li Zhenyu'Song Peiping'
+
+(1KeyLaboratoryofContinental Collsionand Plateau Uplift,InstituteofTibetanPlateauResearch,Chinese Academyof
+
+Sciences,Beijing l0o101, China;
+
+2 Center forExcellence in Tibetan Plateau Earth Sciences,Chinese Academy of Sciences,Beijing l0o101, China)
+
+AbstractPaleomagneticandgeochronologicalstudiesconductedintheNorth QiangtangandLhasablocksindicatefirstlyheNorth Qiangtang block was situated in the latitudinal band of $2 1 . 9 ^ { \circ } { \pm } 4 . 7 ^ { \circ } \mathrm { S }$ in southern hemisphere 297 Ma ago,ruling out the long-lasting working hypothesisontheNorthQiangtangblockofitsLaurasianriginandscondlyatestNorthQiangtang'sGondanaoriginuchearlie andsubsequentlystarteditsnorthwarddrftingjoueyafterriftedfromnorthermarginoftheGondwaaland.TheNorthQiangtangblock reacheditspresentlatitudesome210Maago.Thus,theNrth Qiangtangblockcanbevividlyviewedas“anearlybirdoftheGondwanain thiscontextWilenorthwarddriftinghistoryofteLasablockisquitedierentfroteNorthQiangtangblocks.Conversel“wadering backand forth”featuredtheLhasablocksinceitsrftfromGondwanalandduringLatePaleozoic-EarlyMesozic.SubsequentlytheLhasa blockdriftednorthwardslowlysinceitsiftinsteadof“fastmovingtrendasitdidfortheNorthQiangtangblock.TheLasablockrachd （204号 $3 . 7 ^ { \circ } \mathrm { S }$ in the southern hemisphere at ${ \sim } 1 8 0 \mathrm { M a }$ (Early Jurassic), indicating its low-latitude presence around the equator then,and firstly collided withtheQiangtangblocktothenorth inbotheasteendsoftwoblocksduringLateJurassic.ThesuturingprocesswasfinishedyetyEarly Cretaceous.Clearlysallko,teIdiansubonientsarteditsfastmovingacksinceEarlJurasicndcolddwiteErasiaat ${ \sim } 6 5$ Ma(EarlyPaleocene),thisstillongoingonvergencebetweentheIdiaadEurasiaasre-shapedtetopogaphyandlandscapeod not only in Asia,but also in Europe.
+
+KeywordsNorth Qiangtang block, Lhasa block, Gondwanaland,Laurasia, drifting history丁 林中科院青藏高原所研究员，中科院大陆碰撞与高原隆升重点实验室主任。博士，构造地质学专业。毕业于北京大学。E-mail: dinglin@itpcas.ac.cn
+
+DingLinProfesorofStructureGeologyGraduatedfromPekingUniversityhservesastheirectorofKeyaboratoryofContienta ColisionandPlateauUplift,InstituteofibetanPlateauResearch,ChineseAcademyofSciences.E-mail: dinglin@itpca.ac.cn

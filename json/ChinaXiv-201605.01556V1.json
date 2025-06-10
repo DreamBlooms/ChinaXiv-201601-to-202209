@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "A STATISTICAL SURVEY OF DYNAMIC PRESSURE PULSES IN THE SOLAR WIND BASED ON WIND OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PINGBING ZUO1, XUESHANG FENG1, YANQIONG ${ \\mathrm { X I E } } ^ { 2 }$ ，Y1 WANG1, AND XIAOJUN ${ \\mathrm { X U } } ^ { 3 }$ （204号 1 SIGMA Weather Group,State KeyLaboratory of SpaceWeather,Center for Space Science and AppliedResearch, Chinese Academy of Sciences,Beijing,China;pbzuo $@$ spaceweather.ac.cn, fengx@ spaceweather.ac.cn 2Colege of eteorologyandOceanography UniversityofcienceandTechologyajigChin Space Science Institute,Macau University of Science and Technolog,Macao,China Received2015April3;accepted2015June8;published2015July21 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solar wind dynamic pressure pulse (DPP) structures,across which the dynamic pressure changes abruptly over timescales from a few seconds to several minutes,are often observed in the near-Earth space environment.The space weather effects of DPPs on the magnetosphere-ionosphere coupling system have been widely investigated in the last two decades.In this study,we perform a statistical surveyon the properties of DPPs near 1AU based on nearly 2O years of observations from the WIND spacecraft.It is found that only atiny fraction of DPPs (around $4 . 2 \\%$ ）can be regarded as interplanetary shocks.For most DPPs,the total pressure (the sum of the thermal pressure and magnetic pressure)remains in equilibrium,but there also exists asmal fraction of DPPs that are not pressurebalanced.The overwhelming majorityofDPPs are associated with solar wind disturbances,including coronal mass ejection-related flows,corotating interaction regions,as well as complex ejecta.The annual variations of the averaged occurrence rate of DPPs are roughly in phase with the solar activity during solar cycle 23,and during the rising phase of solar cycle 24. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:methods:data analysis- solar-terrestrial relations- solar wind ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the solar wind plasma is highly variable in nature (Hundhausen 1972).There is a long history of the study of the variations in the solar wind plasma and interplanetary magnetic fields (IMFs） over timescales ranging from seconds to years.One of the important concerns is the abrupt change of the solar wind dynamic pressure that is confirmed to play a significant role in determining the state, dynamics，and energetics of the magnetosphere-ionosphere coupling system (Tanskanen et al. 2OO7).Small-scale plasma structures with sharp and large changes (increase or decrease) in solar wind dynamic pressure are ubiquitous in the solar wind,and generally accompanied by a sharp change of ion flux and density (Riazantseva et al.2OO5，2OO7；Khabarova & Zastenker 2O11).They are often called solar wind dynamic pressure pulses (DPPs),or dynamic pressure impulses in some literature when there are only small variations in their preceding and succeeding regions (Zuo et al. 2O15).A portion of DPPs can be identified as directional discontinuities or interplanetary (IP） shocks (Dalin et al. 2002). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strong DPPs with notable enhancement of dynamic pressure arevery geoeffective，especially on the condition of the southward IMF,which draws much attention in the community ofsolar-terrestrial relations research.When strong DPPs impinge on the magnetosphere，many types of disturbances can be triggered in the magnetosphere-ionosphere coupling system. These include geosynchronous magnetic field increase and decrease at different magnetic local times(Sanny et al.2002；Wing et al.2002；Lee & Lyons 2004；Wang et al.2OO7)，global auroral brightening on the dayside and nightside(Lyons et al.200O,2005；Boudouridis et al.2003; Liou et al. 2O04; Zhou et al. 2013), the change in the coupling efficiency between the magnetosphere and ionosphere,plasma wave phenomena in ULF,ELF,VLF,and HF ranges（Wilson et al.2001；Shinbori et al. 2002,2004;Shi et al. 2013)，and associated energetic particle acceleration within the inner magnetosphere (Li et al. 2003; Zong et al. 2009),as well as disturbancesthroughoutthemagnetotail(Fairfield& Jones 1996;Collier et al.1998;Ostapenko & Maltsev 1998; Kim et al.2OO4).The DPP-induced disturbances can affect almost all the main plasma regions and current systems in the magnetosphere and the ionosphere (Zesta et al. 2OoO,p.127). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The important role of DPPs in magnetospheric space weather hasbeen widely addressed.However,less attention has been paid to the properties of DPPs and their origin and evolution in IP space.Since the timescale of the dynamic pressure front of DPPs ranges from a few seconds to several minutes (Dalin etal.2OO2),high-resolution solar wind experimental data from multiple spacecraft are necessary to investigate such concerns. The well-known WIND spacecraft, one of the missions of the Heliophysics Systems Observatory，is dedicated to understanding how the solar wind transients and solar wind affect the space environment in near-Earth space and beyond.WIND has built up almost 2O years of continuous solar wind observations with very high cadence.It supplies an opportunityto statistically study the properties of near-Earth solar wind DPPs in different solar phases and related physical phenomena. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently we have developed a novel procedure that is able to rapidly identify the DPPs from the plasma data stream,and simultaneously define the transition region wherelarge dynamic pressure variations occur and smartly select the upstream and downstream regions for analysis.The plasma data with high time resolution (near 3s） from the 3DP instrument on board the WIND spacecraft are inspected with an automatic DPP-searching code developed by Zuo et al. (2015). We built up a complete list of solar wind DPPs of historic WIND observations from 1994 November to 2014 November, which covers the whole of solar cycle 23 and the rising phase of solar cycle 24.Based on this event list,we present a statistical study on these DPPs with a large-amplitude change across the front in a short time interval.The pioneering study of Dalin et al.（20o2） investigated the basic properties of 300 rapid solar wind dynamic pressure changes(i.e.，DPPs, although not defined therein) in 1996 and 1998 (solar minima) using the Interball high-resolution data and in 1979 (solar maximum）using the IMP data.In their study，the DPP selection criteriaforInterball arealittlebit different from those for IMP data.Here we will revisit the statistical properties of the DPPs based on the huge event samples that are selected with consistent criteria in different solar phases.Furthermore, the association of the occurrence of DPPs with large-scale solar wind structures and the occurrence frequency of DPPs in different solar phases are analyzed particularly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.DATA SOURCEANDDPPSELECTIONCRITERIA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During the near 2O years’ continuous observations in space, WIND moved through various positions around the Earth.For most of the time,it was located in the solar wind to monitor the near-Earth environment.During the period from 1997 to 2014, NASA adjusted WiND's orbit from theL1 point to theL2 point and then the spacecraft returned to the L1 point permanently, which gives the spacecraft access to the magnetotail and the magnetosheath at sporadic times.In this study，we scan the plasma data stream to identify the DPPs by using an automatic searching code (Zuo et al. 2O15).To ensure that the detected DPPs occur in the solar wind and not in the foreshock region of the magnetosphere,we simply discard the data when WIND waslocatedintheregionwith $X _ { W I N D } < 6 0 R _ { E }$ and $\\sqrt { Y _ { W I N D } ^ { 2 } + Z _ { W I N D } ^ { 2 } } < 6 0 R _ { E }$ .The calibrated solar wind plasma data used in this code were measured by the WIND 3DP instrument (Lin et al. 1995)，and obtained from the public website: http://cdaweb.gsfc.nasa.gov.3DP data are provided with a temporal time resolution as high as $3 \\mathrm { s }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is required that the dynamic pressure of the solar wind should increase or decrease abruptly ina very short interval and stay relatively stable in the near vicinity on both sides.The region where the sudden dynamic pressure changes occur is here called the DPP transition region,and the corresponding preceding and succeeding stable regions are defined as being upstream and downstream of it.In terms of this definition, the selection criteria of the DPP events in this investigation are taken as follows:(1) the abrupt change of the dynamic pressure exceeds a given threshold value $d p _ { 0 } = 1 \\mathrm { n P a }$ ，and is at least $20 \\%$ of the average of the dynamic pressure in the upstream and downstream region $( \\bar { P _ { \\mathrm { d y } } } \\bar { = } ( P _ { \\mathrm { d y 1 } } \\bar { + } P _ { \\mathrm { d y 2 } } ) / 2 )$ ; (2) the crossing time of the transition region is less than $d t _ { 0 } = 5$ minutes; (3） in the upstream region,the square deviation of $P _ { \\mathrm { d y } }$ is less than O.6 times its average value and the amplitude of variation of dynamic pressure is less than O.6 times the amplitude of change in the transition region.The same requirements are also prescribed in the downstream region. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 presents six typical DPP events on 2OO5 January 1 and June 12.The top four panels show the magnitude and the three magnetic components (in GSM coordinates）of the magnetic field from the magnetic field investigation (MFI) instrument. The subsequent panels show the proton temperature,proton number density，solar wind bulk velocity，and proton dynamic pressure respectively from the 3DP instrument. The proton dynamic pressureiscalculatedas $P _ { \\mathrm { d y } } = m _ { \\mathrm { p } } n _ { \\mathrm { p } } V _ { \\mathrm { p } } ^ { 2 }$ ，： The two blue vertical lines define the so-called transition region,and the code-given adjacent upstream and downstream regions witharelatively quiet interval of 3 minutes are marked by the red transverse lines for each event.Previous studies indicated that the sudden dynamic pressure changes are mainly due to an increase or decrease in density，and the velocity changes play a little role (Dalin etal.2OO2; Xie et al. 2015; Zuo et al.2O15).It can also be seen that the bulk speed changes little,by less than $10 \\%$ for each event,but the density can change quickly by a factor of more than 1.The variations of the dynamic pressure within the transition region are not monotonic and may be very complicated (see events 2 and 5).The variations in dynamic pressure are accompanied by variations in the magnetic field and proton temperature.Dalin et al. (2002）and Riazantseva etal.(2OO5) indicated that most DPPs can be classified into tangential discontinuities,or rotational discontinuities with anisotropic thermal pressure according to the jump conditions.A small portion of DPP events are IP shocks.For example,the fifth event is a typical forward fast shock，which is driven by an interplanetary coronal mass ejection (ICME；not shown here,see the ICME list on the website http://www.ssc.igpp.ucla.edu/\\~jlan/ACE/Level3/ ICME_List_from_Lan_Jian.pdf). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we apply the automatic searching code with the above selection criteria to hunt forDPPs from the observational data stream of WIND from 1995 to 2014.The 3DP data downloadedaresavedasadatafileeachday.Notethatthere exist invalid data on some days.If all of the 3DP data are invalid on a certain day, the code can recognize and not process the data file.In total,10,538 DPP events with an average occurrence rate of 1.79 events per day have been identified.For space weatherpurposes,itis important to know the features of strong DPPs that have distinctly larger changes in dynamic pressure since they potentially trigger significant responses in the magnetosphere-ionosphere coupling system.Herewe adopta criterion similar to that in Dalin et al.(2OO2),which requires that the dynamic pressure increases or decreases by over $3 \\mathrm { n P a }$ from upstream to downstream for strong DPPs. Finally,1496 strong DPPs (about $14 \\%$ ）are determined from the DPP list for further survey.Table 1 shows the anuual number of DPPs and strong DPPs,as well as the days when the obtained3DPdatawerevalidandWiNDwasdefinitelyinthe solarwind in each year, during the period from 1995 to 2014. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.STATISTICALRESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Distribution of Dynamic Pressure Change and TransitTime ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zuo et al.(2O15）analyzed the distribution of the absolute amplitudeofchangeofthedynamicpressure,i.e., $d p = | p _ { \\mathrm { d o w n } } - p _ { \\mathrm { t p } } | .$ ，for the DPPs during solar cycle 23 (1996-2008).In their work, $d p$ is not required to be at least $20 \\%$ of the average of the dynamic pressure in the upstream and downstream regions in the DPP selection process.In comparison,the DPP selection criteria in this study are more stringent,and the investigated time epoch is extended to a wider period from 1995 to 2014 with the rising phase of solar cycle 24 covered. Figure $2 ( \\mathrm { A } )$ shows the distribution of dp statistically forall the DPPs under investigation.It is found that for most DPP events (about $71 \\%$ ), $d p$ is distributed in the range $1 . 0 { - } 2 . 0 \\mathrm { n P a }$ 、Theaveraged $d p$ is $2 . 1 \\mathrm { n P a }$ ，and its largest value for super-strong DPPs even reaches $4 2 \\mathrm { n P a }$ .Strong DPPswith $d p$ larger than $3 \\mathrm { n P a }$ only account for a small portion of the listed events.These results are basically consistent with Zuo et al.(2O15),where the DPP selection criteria are somewhat different. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b052c8312fb8bcfce2a8c80d708cdb1adababd4c948fdb897c139be253de9c43.jpg",
+        "img_caption": [
+            "FigurMgeicflddpapaesfosiexasfcpese)naedyd June 12. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ade170b43c36ef9ad0ae50538111ba5299df1d016ceb9c22ad30e10bf6b49347.jpg",
+        "table_caption": [
+            "Table 1 List of Solar Wind Dynamic Pressure Pulses (DPPs) Observed by WIND from 1995 to 2014 "
+        ],
+        "table_footnote": [
+            "Note.The strong DPPs are selected as the events with dynamic pressure changes greater than $3 \\mathrm { n P a }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>1995</td><td>1996</td><td>1997</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td></tr><tr><td>Days</td><td>316</td><td>267</td><td>301</td><td>289</td><td>159</td><td>246</td><td>308</td><td>305</td><td>265</td><td>282</td></tr><tr><td>No.of DPPs</td><td>744</td><td>475</td><td>651</td><td>890</td><td>424</td><td>812</td><td>904</td><td>702</td><td>525</td><td>545</td></tr><tr><td>No.of strong DPPs</td><td>70</td><td>19</td><td>62</td><td>131</td><td>72</td><td>172</td><td>224</td><td>112</td><td>74</td><td>88</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Year Days</td><td>2005 365</td><td>2006 336</td><td>2007 338</td><td>2008 346</td><td>2009 138</td><td>2010 234</td><td>2011 365</td><td>2012 366</td><td>2013 365</td><td>2014 299</td></tr><tr><td>No. of DPPs</td><td>940</td><td>230</td><td>225</td><td>287</td><td>70</td><td>233</td><td>509</td><td>483</td><td>516</td><td>373</td></tr><tr><td>No. of strong DPPs</td><td>163</td><td>9</td><td>9</td><td>14</td><td>2</td><td>15</td><td>83</td><td>82</td><td>46</td><td>49</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figures 2(B） and(C)present the distribution of the relative dynamic pressure change $d p _ { \\mathrm { r e l a t i v e } } = d p / ( p _ { \\mathrm { { u p } } } + p _ { \\mathrm { d o w n } } / 2 . 0 )$ for all the detected DPPs and strong DPPs,respectively.It can be seen that for all DPPs,the distribution is monotonic.The most probable value of the relative dynamic pressure change is 0.2-0.4.The relative amplitude of change exceeds 1 for only around $4 \\%$ of events.But for strong DPPs,the most probable dpreative is 0.4-0.6,and about 16% of events have a value of relative change larger than 1.Thus,in a statistical sense,for most of the strong DPPs with larger absolute amplitude of change,the relative amplitude of change is also larger. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transition region of the DPP contains the rapid variations in dynamic pressure. The transit time can be used to measure the size of the transition region,as well as the speed of change in dynamic pressure from one relatively quiet state to another since all the DPPs are detected near1AU.Figure 3 shows the distribution of the transit time for all the DPPs (Figure 3(A)) and for strong DPPs (Figure 3(B)).According to the selection criteria,the transit time of the identified events is set to be less than 5 minutes.Hence its maximum shown in the figure is 5 minutes.The distributions in the two parts of Figure 3 are similar.The most probable transit time is $1 5 0 { - } 2 1 0 \\mathrm { s }$ .Onlya very small portion of events $( < 6 \\% )$ have an extremely sharp transition region with transit time less than $3 0 \\mathrm { s }$ 、Thework of Dalin et al.(2OO2) indicated that the amplitude of change of the dynamic pressure and the transit time of DPPs are independent. Thispoint can be supported by the similarity of the distributions of $d T$ for all DPPs and for strong DPPs as shown in the figure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Relation with IP Shocks ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IP shocks are one type of important solar wind transient and are often formed during the evolution of large-scale solar wind disturbances such as ICMEs and corotating interaction regions (CIRs).Across the fast shock,which is known to be the dominant type of $\\mathrm { I P }$ shock，the dynamic pressure can be abruptly enhanced as a result of the intense increase in both density and solar wind speed (see the example in Figure 1). Thus some IP shocks can be identified as DPPs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea0ac17a1d6b00c8e445895f8fa99c726ed2f833443e54139ed717d0bf741f39.jpg",
+        "img_caption": [
+            "Figureit DPPs.（B):ofl.C):st "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The compression effects of strong fast shocks due to the pressure enhancementson the magnetosphere-ionosphere system have been intensively investigated. It is significant to know what percentage of shocks can be regarded as strong DPPs that can potentially trigger intense magnetospheric responses.To check this point,we inspect the public IP shock list from WIND observations on the website http://www.cfa. harvard.edu/shocks/wi_data/where the parameters of shocks in 1995-2O13 are given.For comparison，when WIND was locatedinsidetheregionwhere $X _ { W I N D } < 6 0 R _ { E }$ and $\\sqrt { Y _ { W I N D } ^ { 2 } + Z _ { W I N D } ^ { 2 } } < 6 0 R _ { E }$ the detected_shocksarealso excluded from analysis.Figure 4 shows the total number of all shocks (see blue bars),the shocks identified as DPPs (green bars)，and the shocks identified as strong DPPs (red bars）in eachyear from1995to 2013.A total of 439 shocksare listed during the interval,among which 273 shocks (accounting for $6 2 \\%$ are DPPs and 1O7 shocks (accounting for $24 \\%$ ）canbe identified as strong DPPs that have dynamic pressure enhanced by over $3 \\mathrm { n P a }$ ，That is to say,only a small portion of shocks have the ability to affect the dynamic status of the magnetosphere due to the large dynamic pressure enhancement. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a72fa7e43b60570811f772a837b8af52d5e68a18e1194be3612efead15f129a.jpg",
+        "img_caption": [
+            "Figure 3.Distribution of the transit timeof the DPP's transition regions:(A）for all DPPsand (B）for strong DPPs "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,most DPPs cannot be identified as IP shocks.From the near 2O years’observations of WIND,it is found that only $4 . 2 \\%$ ofDPPs belong to the shock component, and only $7 . 2 \\%$ of the strong DPPs can be identified as IP shocks. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Pressure-balance Test forNon-shock DPPs ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DPPs are essentially discontinuities or small-scale plasma structures such as magnetic holes (Zuo et al. 2O15） with sharp dynamic pressure changes,or interfaces between flows with different origins.For many small-scale solar wind structures, the pressure remains balanced, i.e.,the total pressure (sum of the magnetic pressure and thermal pressure） maintains equilibrium (Burlaga 1995).Here we also check how the total pressure changes across the DPP transition region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The total pressure in the upstream and downstream regions is calculated as the sum of the ion thermal pressure including the contributions of protons and alpha particles,the electron thermalpressure,andthemagneticpressure,i.e., $p _ { \\mathrm { t o t a l } } = \\dot { N _ { \\mathrm { p } } } K T _ { \\mathrm { p } } + N _ { \\mathrm { e } } K T _ { \\mathrm { e } } + N _ { \\alpha } K T _ { \\alpha } + \\dot { B ^ { 2 } } \\big / 2 \\mu _ { 0 }$ Considering that the shock is a typical non-pressure-balanced structure, we do a pressure-balance test only for non-shock DPPs here. The data on proton density $( N _ { \\mathrm { p } } )$ ，alpha particle density $\\left( N _ { \\alpha } \\right)$ proton temperature $( T _ { \\mathfrak { p } } )$ , and alpha particle temperature $\\left( T _ { \\alpha } \\right)$ are obtained from 3DP measurements.The $9 \\mathrm { { s } }$ resolution electron data are obtained from the solar wind experiment(SWE） that supplies the data on electron moments measured relying ona fit to a kappa distribution,available from 2OO2 August 16 to the near present. The magnetic filed data are obtained from the instrumentofMFI with3 s resolution.A totalof 4554DPPs for which the ion and electron data and the magnetic field data are available and valid are selected for the pressure-balance test. Figure 5 shows the histogram of the relative total pressure changes $d P _ { \\mathrm { t o t a l } } / P _ { \\mathrm { u p s t r e a m } }$ ，where $P _ { \\mathrm { u p s t r e a m } }$ is the total pressure upstream of the DPP front and $d P _ { \\mathrm { t o t a l } }$ is the absolute change in total pressure from upstream to downstream.It can be seen that for about $84 \\%$ of DPP events,the total pressure change across the transition region is less than $10 \\%$ .For the remaining $14 \\%$ of events,the pressure change $d P _ { \\mathrm { t o t a l } }$ is larger than $10 \\%$ of the upstream pressure，which means that the pressure is not balanced. For about $6 \\%$ of the DPP events,the total pressure changes are even greater than $30 \\%$ of the upstream pressure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.Distribution in Different Types of Solar Wind ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dalin et al.(2OO2）indicated that DPPs are not distributed homogeneously in time,but appear in groups in the solar wind. We also find by visual inspection that on some special days DPPs occur very frequently with even more than $1 0 \\mathrm { \\ D P P s }$ detected in an interval of one day.The bars in Figure 6 in sequence illustrate the number of days when there are no DPPs, 1-2DPPs,3-4DPPs,5-6 DPPs,7-8 DPPs,or $9 { - } 1 0 \\ \\mathrm { \\ D P P s }$ more than $1 0 ~ \\mathrm { D P P s }$ identified from one day's data.It can be seen that DPP events occur on only $34 \\%$ of the observational days (blue bars).On the remaining days (red bar),no DPP is detected.The numbers above the bars indicate the proportion of detected DPPs in the corresponding range of daily occurrence rate.If more than five events are observed on a particular day, it canbe regardedasan“active day.\"MostDPPs( $7 6 . 6 \\%$ in total) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ZUO ET AL. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/db9076e3855471d23afa8cd5c5e511d888b0a0b4bef892b8277ea2141cba0a23.jpg",
+        "img_caption": [
+            "igr "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "occur on active days.About $4 4 . 5 \\%$ of events are detected on days when more than 1O DPPs are detected.These results clearly demonstrate the grouping feature of DPP occurrence. It can be inferred that DPPs do not result from a random process in the solar wind,but may exist in special solar wind environments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sector boundaries (SBs) are the regions where the polarity of IMF reverses and IMF with uniform field direction persists for several days before and after the polarity change（Wilcox & Ness 1965;Svalgaard et al. 1975). SBs are usually accompanied by multiple crossings of the heliospheric current sheet due to its irregular flapping and wavy motions.Waves, discontinuities,and sharp changes in the solar wind ion flux areoften observed in their vicinities (Khabarova & Zastenker 2011).It is also significant to check whether the turbulent environment near the SBs is favorable for the origin and propagation of DPPs.Here we simply count the distribution of DPPs on the days when SBs are detected,i.e.,just look for DPPs in the vicinity of SB crossing. The approximate time with a one-day interval when SB crossings are detected near the Earth from 1926 to the present can be found in the SB list maintainedbyDr. LeifSvalgaard(http://www.leif.org/ research/sblist.txt).Figure 7 shows the total distribution of DPPs detected on SB-related days in each year from 1995 through 2O14.The annual percentage of DPPs on the SBrelated days ranges from $8 . 6 \\%$ to $33 \\%$ in different years.In total around $1 7 . 5 \\%$ of DPPs are found to occur on the SBrelated days,i.e.,a considerable portion of DPPs lie in the vicinity of SBs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally there are two types of dominant large-scale disturbances in the heliosphere:ICMEs and CIRs (Jian et al. 2011;Richardson& Cane 2O12).ICMEs are the IP manifestations of the coronal mass ejections (CMEs).When one ICME propagates outwards from the corona,it expands and usually drives an IP shock,and consequently a turbulent sheath region is formed between the ICME and the shock.The interaction between the ICME and the ambient solar wind may produce fluctuations in the density and the magnetic fields in the sheath region.A CIR is the compression region resulting from the interaction of fast solar wind with slow solar wind ahead.At 1AU,we often observe a forward pressure wave or forward shock at the leading edge of a CIR,and a reverse pressure wave orreverse shock at the trailing edge.Grouped DPPs are often presented inside the sheath region of ICMEs and CIRs,or at their boundaries.For example,as seen in Figures 5 and 6 of Zuo et al.(2015)，15 DPPs are found to be related to a magnetic cloud,and 12 DPPs are identified within a CIR. Notice that there are also some complex ejecta formed by the interaction of two or more solar wind disturbances，such as successive ICMEs，ICME followed closely by CIR，CIR followed closely byICME,orICME in SIR(stream interaction region) in the solar wind (Jian et al.2Oo6).Although the ICME and CIR can be determined as part of the complex ejecta,it is not easy to identify their boundaries since the corresponding interaction region is also disturbed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,we classify the near-Earth solar wind into five types in order to check in which type of solar wind DPPs prefer to reside:(I) CME-related transient flows includingICMEs and the associated sheath regions;(II) CIRs;(II) complex ejecta including the interaction region of different ICMEs or CIRs. (IV)quiet solar wind on SB-related days;and(V） quiet solar wind on non-SB-related days.The lists ofICMEs and CIRs during 1995-2009 on the websites http://www-ssc.igpp.ucla. edu/\\~jlan/ACE/Level3/SIR_List_from_Lan_Jian.pdf and http://www-ssc.igpp.ucla.edu/\\~jlan/ACE/Level3/ ICME_List_from_Lan_Jian.pdf arereferredto when deter mining the passage of solar wind transient events (i.e.，solar wind flows of types I,II,and III).Basically the solar wind disturbances persist for only a small fraction of time compared with the quiet fundamental solar wind flow; for example,in 1997 at the rising phase of solar cycle 23,there are 16 CMErelated transient flows，33 CIRs，and 5 complex ejecta identified,which occupy 30.1，39.4,and 9.8 days in total respectively.In 20O1 at the maximum of solar cycle 23,there are18 CME-related transient flows,28 CIRs,and12 complex ejecta identified,which occupy 28.9,36.2,and 29.9 days in total respectively.In 2Oo8 at the minimum of solar cycle 23, there are4 CME-related transient flows and 33 CIRs identified, which occupy4.6 and57.8daysin total respectively,and there are no complex ejecta occurring. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e603eecdcd03eb2e2a240b7b129b7df552dd3f981a9c51204ce4dc788e1120a.jpg",
+        "img_caption": [
+            "Figure 5.Distribution of the changes in total pressure across DPPs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b9bbb42008d7fffef2f73c3e19510aff94da58f1d7d1052c1ddfaf2c23ac288.jpg",
+        "img_caption": [
+            "Figure 6.Distribution of the daily occurrence rate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figures $\\bar { 8 } ( \\mathrm { A } ) \\mathrm { - } ( \\bar { \\mathrm { C } } )$ present the distribution of the population of DPPs in each type of flow in three representative years: 1997,20O1,and 2O08.Here,if the transition region of a DPP is located within one solar wind disturbance event or the DPP is identified as its boundary，the DPP is regarded as being associated with this structure.In 1997,the number of DPPs residing in flows of types I-V accounts for $2 4 . 4 \\%$ ， $2 6 . 9 \\%$ ， $2 4 . 0 \\%$ $2 . 5 \\%$ ,and $2 2 . 3 \\%$ respectively.In 2001, the corresponding proportions of DPPs related to the flows of types I-V are $2 3 . 3 \\%$ ， $2 6 . 5 \\%$ $2 8 . 9 \\%$ ， $1 . 3 \\%$ ，and $1 9 . 9 \\%$ respectively. In 2008, there are no complex ejecta occurring. The number of DPPs found in the other four types of flow accounts for $2 . 8 \\%$ and $9 1 . 3 \\%$ ， $1 . 7 \\%$ and $4 . 2 \\%$ respectively. Specifically, It can be seen that the dominant portion of DPPs exists in the solar wind disturbance events，which account for $7 5 . 2 \\%$ ， $7 8 . 8 \\%$ ，and $9 4 . 1 \\%$ respectively in 1997,2001,and 2008.That is to say,in the investigated three years of different solar phases,the occurrence frequency of DPPs in the solar wind disturbances is distinctly larger than that in the quiet solar wind. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have also counted the total number of DPPs in different types of solar wind during 1995-2009.Figure 8(D） shows the corresponding proportion of DPPs in each type of flow.In total, DPPs occurring in the solar wind of types I-V account for $1 6 . 0 \\%$ P $3 3 . 5 \\%$ ， $2 8 . 3 \\%$ $2 . 9 \\%$ ,and $1 9 . 2 \\%$ respectively.Note that the portion of DPPs in the quiet solar wind on the SB-related days is obviously muchlower.It is inferred that the dominant portion of DPPs in the vicinity of SBs discussed above are actually situated in thesubregionsof ICMEsor CIRs accompanied by the occurrence of SB crossings.On the other hand,we also notice that, for 55 out of 118 SB-related days, during which no solar wind disturbance is detected and the WIND spacecraftis surely in the solar wind, there exist DPPs with a daily occurrence rate ranging from 1 to 12 events per day.This indicates that the environment with dynamics of the heliospheric current sheet may be favorable for the production of large dynamic pressure changes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 illustrates the distribution of DPPs that are associated with the solar wind disturbances in each year during 1995-2OO9. It is found that the proportion of DPPs related to solar wind disturbance events compared with that for the quiet solar wind is very high,ranging from $4 6 . 6 \\%$ to $9 6 . 5 \\%$ .Except for1996,over $70 \\%$ of the DPPs are distributed within solar wind disturbances in each year. This indicates that the solar wind disturbance is the most important source of DPPs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/416754bf7248d0224fe4c21b47863e38953f3469a5e3269b6ff17e0f956abee6.jpg",
+        "img_caption": [
+            "Figure 7.Proportionof DPPs detected on the sector-boundary-related days in each year during 1995-2014. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the above analysis,it can be concluded that the overwhelming majority of DPPs reside in the solar wind disturbances.On the other hand,we can find the existence of DPPs in most single solar wind disturbance events. Statistically,during 1995-2009, there existed DPPs within about $86 \\%$ of CME-related events, $8 8 \\%$ of CIRs,and $93 \\%$ of complex ejecta.For most solar wind disturbance events,DPPs occur in groups as shown in Figures 5 and 6 of Zuo et al.(2015).The grouping occurrence of DPPs may be used as an indicator of space weather events since the solar wind disturbances are the main drivers of geomagnetic storms.DPPs associated with the solarwind disturbances may be produced by the interactions between different types of flows，such as those between fast flow and slow flow,between ICMEs and the ambient solar wind,and between ICMEs and CIRs during their propagation in $\\mathrm { I P }$ space. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.Solar Phase Dependence of Annual Occurrence Rates ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O presents the distribution of the averaged annual occurrence rate $\\bar { f } = N _ { \\mathrm { D P P s } } / n _ { \\mathrm { d a y s } }$ (calculated from the data in Table 1） together with the monthly solar sunspot number from 1995 to 2O14.The blue bars denote the variations in the occurrence rate of DPPs in each year and the green ones represent strong DPPs.During solar cycle 23(1996-2008), the annual variation of average occurrence rate for all DPPs is roughly in concert with the solar activity except in 1998,2005, and 2Oo8.The trend of following the solar activity is more obvious for strong DPPs except in 2Oo5.The occurrence rate is distinctly larger around the solar maxima (in 2ooO and 2001) and significantly smaller around the solar minima (in 1996 and 2008).As shown in the figure,the averaged occurrence is 3.3 events per day in 2OoO,which is more than twice that of the occurrencerate in 1996,and nearly three times the occurrence rate in 2Oo8.During the rising phase of solar cycle 24 (2010-2O14), the occurrence rates of all DPPs and strong DPPs also vary，roughly following the sunspot number variations exceptin 2013.Theyare nearlyidentical from 2011to 2014for all the DPPs.Note that the sunspot number also has this trend. For strong DPPs,the occurrence rate is much larger in 2011 and 2012 than in 2013 and 2014.On the whole,the occurrence rates of DPPs and strong DPPs during solar cycle 23 are much larger than during the rising phase of solar cycle 24. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theabove analysis tells us thatDPPs mainly reside in the solar wind disturbances.Jian etal.(2O11)found that the annual number of ICMEs follows the solar activity in solar cycle 23 except in 1998 and 2005 (see Figure 10 in their paper),being much larger during the solar maximum and nearly absent during the solar minimum (only three ICMEs in 1996).Jian et al.(2O11） also pointed out that the annual number of SIR events is smallest at solar maximum,and slightly larger in the declining phase and solar minimum,and the annual variation of the CIR number is relatively small.Therefore it seems that the summed percentage of the time with appearance of solar wind disturbance flows tends to be in phase with the solar activity in solar cycle 23.In 2005，there are obviously more ICMEs, hence the occurrence rate is also larger compared with that in the adjacent years. These facts may roughly explain the dependence on solar activity of the DPP occurrence rate in solarcycle 23. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It has been predicted and verified that solar cycle 24 is a weak cycle with relatively quiet solar activity.Richardson (2013）reported that fewer ICMEs appear in the rising phase of cycle 24 compared with previous solar cycles.The fact that the occurrence rate of DPPs does not change much from 2011 to 2014 is possibly because there are more CIRs than ICMEs,and the number and the occurrence rate of CIRs vary slightly during this interval. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Jian et al.(2O11） have compared the features of solar wind and large-scale solar wind structures at this normal solar minimum between solar cycles 23 and 24 with those at the previous three solar minima,and found that this solar minimum has the slowest, least dense,and coolest solar wind,and the SIRs and ICMEs are generally weaker than those during the previous minima.It can be inferred that the dynamic pressures in the solar wind and in the solar wind disturbances also become smallerin this cycle.Here the threshold of the dynamic pressure change of DPPs and strong DPPs is set in a unified manner as 1 and $3 \\mathrm { n P a }$ respectively.For some events that have an abrupt dynamic pressure change in a very short interval looking like a pulse structure,they may have a considerable change in dynamicpressurerelativeto the upstream background,but the absolute changes may be small so that this criterion may not be satisfied. So it can be understood that in the solar wind background with exceptional lower dynamic fewer events can be identified as DPPs according to the selection criteria,even if there are similar numbers of solar wind disturbances.This may be one of the reasons why we get an overall lower occurrence rate in the rising phase of the current solar cycle. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/60dee4739d3dd4c5613ac4681a8ad347ba24b3d79bae17fdf2c610fe9da644ca.jpg",
+        "img_caption": [
+            "Figure8.Theproportoosoateditdittsofsoandostedyars()(Cd() "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d97141ac0530c25666be421eea2e4ecdce4a5c149e2eb4b48bccd37d18862d34.jpg",
+        "img_caption": [
+            "Figure 9.Proportion of DPPs associated with solar wind disturbances in each year during 1995-2009. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The abrupt dynamic pressure changes of DPPs mainly result from density changes(Dalin et al. 20O2;Xie et al.2015;Zuo et al.2O15)，which indicates that these two parameters are closelycorrelated.Usuallya densitychange is regarded as one of the direct signatures that play important roles in the physical processes in the solar wind,such as plasma turbulence, magnetic reconnection，and the compression between flows with different origins.From this viewpoint，the dynamic pressure change is also an important parameter in solar wind dynamics.Furthermore,the abrupt change in dynamic pressure isa great concern in solar wind-magnetosphere coupling besides the parameter of IMF (Lyon 2OoO).These are the reasons why we pay attention to the investigations of DPPs.In this study,we perform a statistical survey on the properties of ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dac83418400d18141bb186d280fbed83e05f79fc2fb67256df2ebab99b795d7.jpg",
+        "img_caption": [
+            "Figure（A):)itedcycle 24."
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DPPs based on the historic observational data obtained from the WiND mission.The main results are summarized as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)In total, $1 0 { , } 5 3 8 ~ \\mathrm { D P P }$ events with an occurrence rate of 1.79 event per day have been identified,among which around $14 \\%$ of events are selected as strong DPPs that have dynamic pressure changes greater than $3 \\mathrm { n P a }$ 、MostDPPs have dynamic pressure changes less than $2 . 0 \\mathrm { n P a }$ ，and statistically the most probable value of the relative dynamic pressure change is 0.2-0.4 for all the DPPs. In comparison,this parameter is larger for strong DPPs,being O.4-O.6.The most probable transit time of the transition region of DPPs near 1 AU is $1 5 0 – 2 1 0 \\mathrm { s }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)Only a very tiny fraction of DPPs are identified as IP shocks.On the other hand,across an IP shock,the abrupt dynamic pressure change is not always high enough to exceed $1 \\mathrm { { n P a } }$ so as to be determined to be a DPP.As we know, there is no difference between IP shocks and DPPs in magnetospheric compression due to the strong dynamic pressure enhancements. Previous investigations on the solar wind-magnetosphere coupling mainly focused on the shock compression. The above results remind us that compressions from the huge number of non-shock DPPs should receive more attention from the space weather community due to their high occurrence frequency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）Previous studies indicated that the occurrence of DPPs has a grouping/clustered feature,i.e.，they appear on some active days in groups,and on most days there are no strong and abrupt dynamic pressure changes occurring. Our investigations also verify this phenomenon. The origin of DPPs isan important issue unknown at present.It is proposed that DPPs are probably produced in the solar atmosphere and propagate with the solar wind or solar wind transients,or they may be created under specific solar wind conditions in IP space (Dalin et al.2OO2).At present we are still unable to answer this question by analysis in terms of single point observations.But we found some clues that a considerable percentage of DPPs reside in the solar wind disturbances,which may be produced bythe interactionbetween the solarwind transientand the solar wind,and between the solar wind disturbances themselves as well,although these large-scale structures are present for a small fraction of time compared with the quiet solar wind in the near-Earth space environment. In addition,we also check the DPPs in the vicinity of SBs.It is found that around $1 7 . 5 \\%$ of DPPs are detected on SB-related days.However,most of these DPPs are found to be associated with the solar wind disturbances.FornearlyhalfofthedayswhenaSBisdetected but there is no solar wind disturbance occurring in its vicinity, there exist DPPs，which may be the product of magnetic turbulence or repeated magnetic reconnections in the region of SBs as analyzed in Khabarova & Zastenker (2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4）It is concluded that most DPPs maintain pressure equilibrium.But also there exists a small fraction ofDPPs that are not pressure-balanced. These events may evolve when propagating in IP space.To study how the DPPs evolve,it is necessary to compare the coordinated observations of two or more spacecraft in different locations with enough radial, longitudinal,or latitudinal separation.Since DPPs are associated with disturbed solar wind including CIRs,ICMEs,and the sheath regions，or complex ejecta，we may trace the evolution of a certain solar wind disturbance, whichis relatively easier to recognize from different locations,and then lookat the evolutions of the associated DPPs.This part of the Work will be our focus for future research. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5）During solar cycle 23 and the rising phase of solar cycle 24,the annual variations in the occurrence rate of DPPs are roughly in phase with the solar activity/sunspot numbers, which may be related to the phenomenon that the total time for the appearance of the solar wind disturbances roughly follows the solar activity,since the dominant portion of DPPs is hosted by solar wind disturbances. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank the NASA CDAWEB for providing the public WIND 3DP，MFI,and SWE data. We also acknowledge Dr.Lief Svalgaard and Dr.Lan Jian for providing the sector boundary list and the lists of ICMEs and CIRs.This Work is jointly supported by the National Basic Research Program of China (Grant No.2012CB825601)，the National Natural Science Foundation of China (41231068,41174152, 41374188,41304146),and the Specialized Research Fund for State KeyLaboratories. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Boudouridis,A., Zesta,E.,Lyons,R.,Anderson,P.C.,&Lummerzheim,D. 2003,JGRA,108,8012   \nBurlaga,L.F.1995,Interplanetary Magnetohydrodynamics(New York: Oxford Univ.Press)   \nCollier,M.R.,Slavin,J.A.,Lepping,R.P.,et al.1998,JGRA,103,17293   \nDalin,P.A.,Zastenker,G.N.,Paularena,K.I.,& Richardson,J.D.2002, AnGp,20,293   \nFairfield,D.H.,&Jones,J.1996,JGRA,101,7785   \nHundhausen,A.J.1972,Coronal Expansion and Solar Wind (New York: Springer)   \nJian,L.,Russell,C.T.,Luhmann,J.G.,& Skoug,R.M.2006,SoPh,239,393   \nJian,L.K.,Russell,C.T.,&Luhmann,J.G.2011,SoPh,274,321C344   \nKhabarova,O.,& Zastenker,G.2011,SoPh,270,311   \nKim,K.-H.,Cattell,C.A.,Lee,D.-H., et al. 2004,JGRA,109,4219   \nLee,D.Y.,&Lyons,L.R.2004,JGRA,109,A04201   \nLi,X.,Baker,D.N.,Elkington, S.,et al.2O03,JASTP,65,233   \nLin,R.P.,Anderson,K.A.,Ashford, S.,et al.1995,SSRv,71,125   \nLiou,K.,Newell,P.T.,Meng,C.-I.,Wu,C.-C.,&Lepping,R.P.20O4,JGRA, 109,6306   \nLyon,J.G.2000,Sci,228,1987   \nLyons,L.R.,Lee,D.-Y.，Wang，C.-P.,& Mende,S.B.20O5，JASTP, 110,8208   \nLyons,L.R.,Zesta,E., Samson,J.C.,& Reeves,G.D.2000,GeoRL,27,3237   \nOstapenko,A.A.,&Maltsev,Y.P.1998,GeoRL,25,261   \nRiazantseva,M., Zastenker,G.N.,Richardson,J.D.,& Eiges,P.2Oo5,JGR, 110,A12110   \nRiazantseva,M.O.,Khabarova, O.V.,Zastenker,G.N.,&Richardson,J.D. 2007,AdSpR,40,1802   \nRichardson,I.G.2013,JSWSC,3,A08   \nRichardson,I.G.,& Cane,H.V.2012,JSWSC,2,A02   \nSanny,J.,Tapia,J.A.，Sibeck,D.G.，& Moldwin,M.B.2002,JGRA, 107,1443   \nShi, Q.Q.,Hartinger,M.,Angelopoulos,V., Zong, Q.-G.,et al. 2013, JGRA, 118,1   \nShinbori,A.,Ono,T.,Iizima,M.,& Kumamoto,A.2004,EP&S,56,269   \nShinbori,A.,Ono,T.,& Oya,H.2Oo2,Advance Polar Atmosphere Research, 16,126   \nSvalgaard,L.,Wilcox,J.M.,Scherrer,P.H.,&Howard,R.1975,SoPh,45,83   \nTanskanen,E.I.,Palmroth,M.,&Pulkkinen,T.I.2OO7,JASTP,69,256   \nWang,C.,Liu,J.B.,&Huang,Z.H.2007,JGRA,112,A12210   \nWilcox,J.M.,& Ness,N.F.1965,JGR,70,5793   \nWilson,G.R.,Burke,W.J.,Maynard,N.C.,Huang,C.Y.,& Singer,H.J. 2001,JGR,106,24517   \nWing,S.,Sibeck,D.G.,Wiltberger,M.,& Singer,H.2002,JGRA,107,1222   \nXie,Y.Q., Zuo,P.B., Feng,X.S.,& Zhang,Y.2015,SoPh,57   \nZesta,E.,Singer,H.J.,Lummerzheim,D.,et al.2Ooo,in Magnetospheric Current Systems,ed.S.-I. Ohtani et al. (New York:Wiley),217   \nZhou,X.Y., Zhou,X.Z.,Angelopoulos,V.,et al. 2013,JGRA,118,3173   \nZong,Q.G., Zhou,X.Z.,Wang,Y.F.,et al.2009,JGRA,114,A10204   \nZuo,P.B.,Feng,X.S.,Xie,Y.Q.,Wang,Y.,& Xu,X.J.2015,ApJ,803,94 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

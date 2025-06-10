@@ -1,0 +1,234 @@
+# $\theta _ { 1 3 }$ and the Higgs mass from high scale supersymmetry
+
+Chun Liu and Zhen-hua Zhao Institute of Theoretical Physics， Chinese Academy of Sciences, and State Key Laboratory of Theoretical Physics, P. O. Box 2735， Beijing 100190， China\* (Dated: February 20, 2013) Abstract
+
+In the framework in which supersymmetry is used for understanding fermion masses rather than stabilizing the electroweak scale,we elaborate on the phenomenological analysis for the neutrino physics.A relatively large $\sin \theta _ { 1 3 } \simeq 0 . 1 3$ is naturally obtained. The model further predicts vanishingly small CP violation in neutrino oscillations. While the high scale supersymmetry generically results in a Higgs mass of about 141 GeV,our model reduces this mass to 126 GeV via introducing SU(2) $L$ triplet fields which make the electroweak vacuum metastable (with a safe lifetime) and also contribute to neutrino masses.
+
+PACS numbers: 14.60.Pq,14.80.Bn,11.30.Pb
+
+# I. INTRODUCTION
+
+Nowadays the particle physics is at a crucial stage. Experiments have been pushing the energy,up to which the standard model (SM) is still valid, higher and higher. In such a situation, neutrino experiments deserve more and more attention. Recently Daya Bay [1] and RENO [2] experiments have established the fact that $\theta _ { 1 3 }$ is relatively large. Such a result was indicated earlier in T2K [3], MINOS [4] and Double Chooz [5] experiments, as well as in the global fitting [6]. This relatively large $\theta _ { 1 3 }$ has important implications on theories relevant to the flavor puzzle.
+
+On the theory side, the SM still has problems, like how to understand the Higgs mass? If the flavor puzzle can be understood? Lacking of new physics signals, the electroweak (EW) scale may just have an anthropic origin [7, 8]. The TeV scale supersymmetry (SUSY) is losing its motivation. Inspired by the simplicity and beauty of SUSY, one of the authors (Liu) proposed to use SUSY for understanding the flavor puzzle [9, 10]. In the model, a family symmetry is introduced, then only one generation of fermions acquires masses after EW symmetry breaking. That is right the third generation. It is SUSY that provides necessary features to break the family symmetry. For the lepton sector, once sneutrino fields get different vacuum expectation values (VEVs), the family symmetry is broken and the muon becomes massive. The electron obtains its mass only through loops due to soft SUSY breaking effects where the family symmetry explicitly breaks. To get neutrino masses small naturally, soft SUSY masses should be very large $\sim ( 1 0 ^ { 1 1 } - 1 0 ^ { 1 3 } )$ GeV. The effective theory of this high scale SUSY breaking model at the TeV scale is just the SM.
+
+In this Letter，we emphasize on that a relatively large $\theta _ { 1 3 }$ is the right result of this high scale SUSY model. Furthermore, the model predicts vanishingly small CP violation in neutrino oscillations. In Ref. [1O],an order $0 . 1 \sin \theta _ { 1 3 }$ was predicted roughly, and CP violation in the lepton sector was not discussed. We will elaborate the analysis on the phenomenology of neutrino oscillations with a better approximation.
+
+More importantly, the high scale SUSY generically predicts the SM Higgs mass to be 141 GeV (for a large $\tan \beta$ as in our case） [11],while recent LHC experiments have ruled out this mass,and discovered that the Higgs mass is 126 GeV [12]. To reduce the Higgs mass from 141 GeV to about 126 GeV, we make use of an observation of Ref. [13], to modify the model by introducing SU(2) $L$ triplets at the high scale. They can change the Higgs quartic coupling at the high energy boundary to be even negative. They also contribute additionally to neutrino masses.
+
+In the next section, the basics of the original model is reviewed. Sect. III introduces in SU $( 2 ) _ { L }$ triplets. Neutrino phenomenology is analyzed in Sect. IV. The Higgs mass is discussed in Sect. V. The summary and discussions are given in the final section.
+
+# II. REVIEW
+
+Within the framework of SUSY, we introduce the $Z _ { 3 }$ cyclic family symmetry among the SU $( 2 ) _ { L }$ lepton doublets $L _ { i }$ ( $i = 1 , 2 , 3$ ）for three generations. All the other fields are trivial representations of this $Z _ { 3 }$ . It is then convenient to discuss physics in terms of the following redefined fields,
+
+$$
+\begin{array} { l } { { { \cal L } _ { \tau } ^ { \prime } = \displaystyle \frac { 1 } { \sqrt { 3 } } ( \sum { \cal L } _ { i } ) \ : , } } \\ { { { \cal L } _ { e } = \displaystyle \frac { 1 } { \sqrt { 2 } } ( { \cal L } _ { 1 } - { \cal L } _ { 2 } ) \ : , } } \\ { { { \cal L } _ { \mu } = \displaystyle \frac { 1 } { \sqrt { 6 } } ( { \cal L } _ { 1 } + { \cal L } _ { 2 } - 2 { \cal L } _ { 3 } ) \ : . } } \end{array}
+$$
+
+Because $L _ { \tau } ^ { \prime }$ is invariant under the $Z _ { 3 }$ ， in general, it mixes with the down-type Higgs $H _ { 2 }$ 号 （204号 $L _ { e } L _ { \mu }$ is the only bilinear $Z _ { 3 }$ invariant combination of above fields,which is also an SU $( 2 ) _ { L }$ singlet.The $Z _ { 3 }$ and gauge symmetric superpotential is expressed as follows [10],
+
+$$
+\mathcal { W } \supset y _ { \tau } H _ { d } L _ { \tau } E _ { \tau } ^ { c } + L _ { e } L _ { \mu } ( \lambda _ { \tau } E _ { \tau } ^ { c } + \lambda _ { \mu } E _ { \mu } ^ { c } ) + \bar { \mu } H _ { u } H _ { d } ,
+$$
+
+where $L _ { \tau }$ and $H _ { d }$ denote the physical $\tau$ lepton doublet and the physical down-type Higgs, they are superpositions of $L _ { \tau } ^ { \prime }$ and $H _ { 2 }$ ： $E ^ { \mathrm { { ^ { \it c } } } }$ stands for charged lepton singlets, $H _ { u }$ the up-type Higgs, $y _ { \tau }$ and $\lambda$ 's the couplings,and $\mu$ a mass parameter. Consequently, the mass matrix for charged leptons has the following form when Higgs and sneutrinos get VEVs,
+
+$$
+M ^ { l } = \left( \begin{array} { c c c } { { 0 } } & { { \lambda _ { \mu } v _ { l _ { \mu } } } } & { { \lambda _ { \tau } v _ { l _ { \mu } } } } \\ { { } } & { { } } & { { } } \\ { { 0 } } & { { \lambda _ { \mu } v _ { l _ { e } } } } & { { \lambda _ { \tau } v _ { l _ { e } } } } \\ { { } } & { { 0 } } & { { y _ { \tau } v _ { d } } } \end{array} \right) .
+$$
+
+It can be seen that the $\tau$ mass is related to the Higgs VEV and the muon mass to sneutrino VEVs. The electron mass is zero at this stage, and will become finite only after that the SUSY breaking effect is considered [9, 10].
+
+Neutrinos are massive because the lepton number is violated. Sneutrino VEVs result in only one nonvanishing neutrino mass in this model,
+
+$$
+M _ { 0 } ^ { \nu } = \frac { a ^ { 2 } } { M _ { \tilde { Z } } } \left( \begin{array} { l l l } { { v _ { l _ { e } } v _ { l _ { e } } } } & { { v _ { l _ { e } } v _ { l _ { \mu } } } } & { { v _ { l _ { e } } v _ { l _ { \tau } } } } \\ { { v _ { l _ { \mu } } v _ { l _ { e } } } } & { { v _ { l _ { \mu } } v _ { l _ { \mu } } } } & { { v _ { l _ { \mu } } v _ { l _ { \tau } } } } \\ { { v _ { l _ { \tau } } v _ { l _ { e } } } } & { { v _ { l _ { \mu } } v _ { l _ { \tau } } } } & { { v _ { l _ { \tau } } v _ { l _ { \tau } } } } \end{array} \right) ,
+$$
+
+where $a = \sqrt { ( g ^ { 2 } + g ^ { \prime 2 } ) / 2 }$ ， $g$ and $g ^ { \prime }$ are SM gauge coupling constants. A naturally small neutrino mass is obtained by taking the soft SUSY breaking scale $M _ { \tilde { Z } }$ to be $( 1 0 ^ { 1 1 } - 1 0 ^ { 1 3 } )$ （20 GeV. Note that trilinear R-parity violating terms in this model have negligible contribution to neutrino masses due to large sparticle masses.
+
+The low energy effective theory is just the SM. Our model is a high scale SUSY breaking one. In obtaining correct EW symmetry breaking,there is a Higgs doublet with its masssquared finely tuned to be small (the EW scale) and negative. So it gets a non-vanishing EW scale VEV. In terms of our high scale fields, in general, the above SM Higgs doublet field corresponds to a mixture of scalar fields of $H _ { u }$ ， $H _ { d }$ ， $L _ { e }$ ， $L _ { \mu }$ and $L _ { \tau }$ in the case of R-parity violation. It is equivalent to say that the scalar fields of $H _ { u }$ ， $H _ { d }$ ， $L _ { e }$ ， $L _ { \mu }$ and $L _ { \tau }$ have VEVs. The relative sizes of the VEVs are determined by the relative sizes of soft parameters ( $B \mu$ terms).
+
+Neutrino oscillation experiments reveal that there are at least two massive neutrinos. In order to provide realistic neutrino masses,a singlet superfield $N$ was introduced in Ref. [10]. While the realistic lepton spectrum and mixing pattern can be obtained. However, the Higgs mass is still required to be 140 GeV which is in conflict with recent LHC results.
+
+# III. SU(2) $L$ TRIPLETS
+
+Instead of singlet fields, SU $( 2 ) _ { L }$ triplet superfields $T$ and $T$ are introduced in this work. （204 $T$ and $T$ have hypercharge 2 and $- 2$ , respectively, and their mass is about $1 0 ^ { 1 3 }$ GeV.
+
+The $Z _ { 3 }$ invariant superpotential involving $T$ and $T$ fields is as follows,
+
+$$
+\begin{array} { r l } & { \mathcal { W } \supset \tilde { y } ^ { \nu } \sum _ { i } \{ L _ { i } H _ { 2 } \} T + \tilde { \lambda } _ { 1 } ^ { \nu } \{ L _ { i } L _ { i } \} T + \tilde { \lambda } _ { 2 } ^ { \nu } \{ L _ { 1 } L _ { 2 } + L _ { 2 } L _ { 3 } + L _ { 3 } L _ { 1 } \} T } \\ & { \qquad + \tilde { \lambda } _ { 3 } ^ { \nu } \{ H _ { 2 } H _ { 2 } \} T + \lambda _ { 4 } ^ { \nu } \{ H _ { u } H _ { u } \} \bar { T } + M _ { T } T \bar { T } , } \end{array}
+$$
+
+where $\tilde { y } ^ { \nu }$ and $\tilde { \lambda } ^ { \nu }$ 's are couplings. The braces denote that the two doublets form a SU $( 2 ) _ { L }$ triplet representation. The Lagrangian of the corresponding soft SUSY breaking terms
+
+includes scalar masses and trilinear scalar interactions.
+
+In terms of the redefined fields in Eq.(1), the superpotential has the following form,
+
+$$
+\begin{array} { l } { { \mathcal { W } \supset y ^ { \nu } \lbrace L _ { \tau } H _ { d } \rbrace T + \lambda _ { 1 } ^ { \nu } \lbrace L _ { e } L _ { e } + L _ { \mu } L _ { \mu } \rbrace T + \lambda _ { 2 } ^ { \nu } \lbrace L _ { \tau } L _ { \tau } \rbrace T } } \\ { { \qquad + \lambda _ { 3 } ^ { \nu } \lbrace H _ { d } H _ { d } \rbrace T + \lambda _ { 4 } ^ { \nu } \lbrace H _ { u } H _ { u } \rbrace \bar { T } + M _ { T } T \bar { T } . } } \end{array}
+$$
+
+Couplings are denoted without tildes in this flavor basis. In the above derivation, we have made use of the following observation,
+
+$$
+\{ L _ { e } L _ { e } + L _ { \mu } L _ { \mu } \} \propto \{ L _ { i } L _ { i } - \left( L _ { 1 } L _ { 2 } + L _ { 2 } L _ { 3 } + L _ { 3 } L _ { 1 } \right) \}
+$$
+
+and
+
+$$
+\{ L _ { \tau } ^ { \prime } L _ { \tau } ^ { \prime } \} = \{ L _ { i } L _ { i } + 2 ( L _ { 1 } L _ { 2 } + L _ { 2 } L _ { 3 } + L _ { 3 } L _ { 1 } ) \} .
+$$
+
+In this basis, the Lagrangian of soft SUSY breaking terms is written as
+
+$$
+{ \mathcal { L } } _ { \mathrm { s o f t } } \supset m _ { T } ^ { 2 } { \tilde { T } } ^ { \dagger } { \tilde { T } } + m _ { \tilde { T } } ^ { 2 } { \tilde { T } } ^ { \dagger } { \tilde { T } } + B _ { T } M _ { T } { \tilde { T } } { \tilde { \bar { T } } } + A \lambda _ { 4 } ^ { \nu } \{ h _ { u } h _ { u } \} { \tilde { \bar { T } } } + { \tilde { m } } _ { a b } \{ { \tilde { l } } _ { a } { \tilde { l } } _ { b } \} { \tilde { T } } + \mathrm { h . c . } ,
+$$
+
+where $\tilde { l } _ { a }$ denotes both sleptons $i _ { e }$ ， $\ddot { l } _ { \mu }$ ， $\tilde { l } _ { \tau }$ and the Higgs $\tilde { l _ { h } }$ identical to $h _ { d }$ . The soft masses are also taken to be typically about $( 1 0 ^ { 1 1 } - 1 0 ^ { 1 3 } )$ GeV.
+
+Analyzing the scalar potential relevant to $T$ and $T$ fields,we see that $\tilde { T }$ 's have VEVs $\sim \frac { v _ { u } ^ { 2 } } { M _ { T } }$ Although being very small, the VEVs induce new terms to the neutrino mass matrix. To be more accurate,
+
+$$
+M _ { 1 } ^ { \nu } \simeq - \frac { \lambda _ { 4 } ^ { \nu } v _ { u } ^ { 2 } } { M _ { T } } \left( \begin{array} { c c c } { { \lambda _ { 1 } ^ { \nu } } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { \lambda _ { 1 } ^ { \nu } } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { \lambda _ { 2 } ^ { \nu } } } \end{array} \right) .
+$$
+
+This part of neutrino mass generation is the so-called type-II seesaw mechanism [14]. For simplicity，we assume that $\lambda _ { 1 } ^ { \nu }$ is negligibly small. This smallness can be understood by taking $\tilde { \lambda } _ { 1 } ^ { \nu } \simeq \tilde { \lambda } _ { 2 } ^ { \nu }$ because $\lambda _ { 1 } ^ { \nu } \sim \tilde { \lambda } _ { 1 } ^ { \nu } - \tilde { \lambda } _ { 2 } ^ { \nu }$ while $\lambda _ { 2 } ^ { \nu } \sim \tilde { \lambda } _ { 1 } ^ { \nu } + \tilde { \lambda } _ { 2 } ^ { \nu }$
+
+Consequently, the Majorana neutrino mass matrix has the following form
+
+$$
+M ^ { \nu } = M _ { 0 } ^ { \nu } + M _ { 1 } ^ { \nu } = \frac { a ^ { 2 } } { M _ { \tilde { Z } } } \left( \begin{array} { l l l } { { v _ { l _ { e } } v _ { l _ { e } } } } & { { v _ { l _ { e } } v _ { l _ { \mu } } } } & { { v _ { l _ { e } } v _ { l _ { \tau } } } } \\ { { v _ { l _ { \mu } } v _ { l _ { e } } } } & { { v _ { l _ { \mu } } v _ { l _ { \mu } } } } & { { v _ { l _ { \mu } } v _ { l _ { \tau } } } } \\ { { v _ { l _ { \tau } } v _ { l _ { e } } } } & { { v _ { l _ { \mu } } v _ { l _ { \tau } } } } & { { v _ { l _ { \tau } } v _ { l _ { \tau } } + x v _ { u } v _ { u } } } \end{array} \right) ,
+$$
+
+where $x = \frac { M _ { \tilde { Z } } } { a ^ { 2 } } \frac { \lambda _ { 2 } ^ { \nu } \lambda _ { 4 } ^ { \nu } } { M _ { T } }$ This matrix is of rank 2. It has the same form as that given in Ref. [10] where a singlet field was introduced. With such a neutrino mass matrix, we will give a
+
+detailed analysis for neutrino oscillations, in particular for $\theta _ { 1 3 }$ and CP violation.In addition to generating neutrino masses, triplet fields will play a key role in reconciling high scale SUSY scenarios with the experimental result for the Higgs mass.
+
+# IV. NEUTRINO MIXING AND CP VIOLATION
+
+Now we give a detailed analysis for phenomenological consequences about the neutrino physics.Experimental neutrino oscillation parameters are measured as follows [1,15], $\Delta m _ { 2 1 } ^ { 2 } = ( 7 . 5 9 { \pm } 0 . 2 1 ) { \times } 1 0 ^ { - 5 } e V ^ { 2 }$ ， $\Delta m _ { 3 2 } ^ { 2 } = ( 2 . 4 3 \pm 0 . 1 3 ) \times 1 0 ^ { - 3 } e V ^ { 2 }$ and $\sin ^ { 2 } ( 2 \theta _ { 1 2 } ) = 0 . 8 6 1 _ { - 0 . 0 2 2 } ^ { + 0 . 0 2 6 }$ $\sin ^ { 2 } ( 2 \theta _ { 2 3 } ) > 0 . 9 2$ ， $\sin ^ { 2 } ( 2 \theta _ { 1 3 } ) = 0 . 0 8 8 \pm 0 . 0 0 8$
+
+Looking at the neutrino mass matrix $M ^ { \nu }$ . We will consider the case that $x v _ { u } v _ { u } \gg v _ { l _ { e } } ^ { 2 } \sim$ （20 $v _ { l _ { \mu } } ^ { 2 } \sim v _ { l _ { \tau } } ^ { 2 }$ .Because $M ^ { \nu }$ has only two nonvanishing eigenvalues, and it has two origins, such a case is reasonable. While $v _ { l _ { \tau } }$ which is $Z _ { 3 }$ invariant could be larger than $v _ { l _ { e ( \mu ) } }$ , in general, the largeness is a factor of 3 which is not considered in the analysis. This is different from the case of Ref. [10] where a somewhat unnatural cancellation between $x v _ { u } v _ { u }$ and $v _ { l _ { \tau } } ^ { 2 }$ was required. As a result,a normal hierarchical neutrino mass pattern is obtained,
+
+$$
+\begin{array} { r l } & { m _ { 1 } = 0 , } \\ & { m _ { 2 } = \sqrt { \Delta m _ { s o l } ^ { 2 } } \approx \frac { a ^ { 2 } v _ { l e } v _ { l e } } { M _ { \tilde { Z } } } , } \\ & { m _ { 3 } = \sqrt { \Delta m _ { a t m } ^ { 2 } } \approx \frac { a ^ { 2 } x v _ { u } v _ { u } } { M _ { \tilde { Z } } } . } \end{array}
+$$
+
+The matrix that diagonalizes $M ^ { \nu }$ has a simple form,
+
+$$
+U _ { \nu } \approx \left( \begin{array} { c c c c } { { r } } & { { 1 } } & { { } } & { { } } \\ { { \sqrt { 1 + r ^ { 2 } } } } & { { \frac { 1 } { \sqrt { 1 + r ^ { 2 } } } } } & { { \sqrt { \frac { \Delta m _ { s o l } ^ { 2 } } { \Delta m _ { a t m } ^ { 2 } } } } } \\ { { \frac { - 1 } { \sqrt { 1 + r ^ { 2 } } } } } & { { \frac { r } { \sqrt { 1 + r ^ { 2 } } } } } & { { r \sqrt { \frac { \Delta m _ { s o l } ^ { 2 } } { \Delta m _ { a t m } ^ { 2 } } } } } \\ { { 0 } } & { { 0 } } & { { 1 } } & { { } } \end{array} \right) ,
+$$
+
+where $r = \frac { v _ { l _ { \mu } } } { v _ { l _ { \circ } } }$ which should be $\mathcal { O } ( 1 )$ . Taking $v _ { u } \sim 2 4 5$ GeV, $v _ { l _ { e } } \sim 2 0$ GeV, $M _ { \tilde { Z } } \sim 1 0 ^ { 1 2 }$ （204号 GeV,and $x \simeq 0 . 0 4$ , the experimental results of neutrino mass squared differences can be recovered.
+
+In the charged lepton mass matrix Eq. (3), we take that $v _ { d } \sim v _ { l _ { e ( \mu , \tau ) } }$ ， $y _ { \tau } \sim \lambda _ { \tau } \sim 0 . 1$ and
+
+$\lambda _ { \mu } \sim 1 0 ^ { - 2 }$ . The eigenvalues are,
+
+$$
+\begin{array} { l } { { m _ { e } = 0 , } } \\ { { } } \\ { { m _ { \mu } \approx \lambda _ { \mu } v _ { l _ { e } } \sqrt { 1 + r ^ { 2 } } \frac { y _ { \tau } v _ { d } } { \sqrt { y _ { \tau } ^ { 2 } v _ { d } ^ { 2 } + \lambda _ { \tau } ^ { 2 } v _ { l _ { e } } ^ { 2 } ( 1 + r ^ { 2 } ) } } , } } \\ { { m _ { \tau } \approx \sqrt { y _ { \tau } ^ { 2 } v _ { d } ^ { 2 } + \lambda _ { \tau } ^ { 2 } v _ { l _ { e } } ^ { 2 } ( 1 + r ^ { 2 } ) } . } } \end{array}
+$$
+
+The matrix $U _ { l } ^ { \dagger }$ which diagonalizes the mass squared matrix $M ^ { l } M ^ { l \dagger }$ , has the following form,
+
+$$
+U _ { l } ^ { \dagger } \approx \left( \begin{array} { c c c } { { \displaystyle { \frac { 1 } { \sqrt { 1 + r ^ { 2 } } } } } } & { { \displaystyle { \frac { - r } { \sqrt { 1 + r ^ { 2 } } } } } } & { { 0 } } \\ { { \ldots } } & { { \ldots } } & { { \ldots } } \\ { { \ldots } } & { { \ldots } } & { { \ldots } } \end{array} \right)
+$$
+
+where we have just listed the matrix elements which are relevant for our purpose.
+
+Thus, the lepton mixing matrix $U ^ { P M N S } \equiv U _ { l } ^ { \dagger } U _ { \nu }$ [16] is obtained. It is parameterized in the following standard form,
+
+$$
+U ^ { P M N S } = \left( \begin{array} { c c c } { { c _ { 1 2 } c _ { 1 3 } } } & { { s _ { 1 2 } c _ { 1 3 } } } & { { s _ { 1 3 } e ^ { - i \delta } } } \\ { { \cdot \cdot } } & { { \cdot \cdot } } & { { s _ { 2 3 } c _ { 1 3 } } } \\ { { \cdot \cdot \cdot } } & { { \cdot \cdot } } & { { c _ { 2 3 } c _ { 1 3 } } } \end{array} \right) \times \mathrm { d i a g } ( e ^ { i \alpha } , e ^ { i \beta } , 1 ) ,
+$$
+
+where $\delta$ is the Dirac CP violation phase, $\alpha$ and $\beta$ Majorana CP violation phases. In the case of $m _ { 1 } = 0$ ， the phase $\alpha$ is unphysical. Consequently, $\tan \theta _ { 1 2 } = \frac { 1 - r ^ { 2 } } { 2 r }$ and $\sin \theta _ { 1 3 } =$ $\frac { 1 - r ^ { 2 } } { \sqrt { 1 + r ^ { 2 } } } \sqrt { \frac { \Delta m _ { s o l } ^ { 2 } } { \Delta m _ { a t m } ^ { 2 } } }$ With the experimental result of $\tan \theta _ { 1 2 }$ ， $r$ is determined to be O.53. In this case, $\sin \theta _ { 1 3 } \approx 0 . 1 3$ which is very close to the value of $0 . 1 5 \pm 0 . 0 2$ given by Daya Bay experiment [1].
+
+Finally, $\theta _ { 2 3 }$ can be obtained through the following equation,
+
+$$
+\tan \theta _ { 2 3 } = \sqrt { 1 + r ^ { 2 } } \frac { \lambda _ { \tau } v _ { l e } } { y _ { \tau } v _ { d } } .
+$$
+
+Alarge02isqitenatubttesoreasoinsodeltavegeactly Nevertheless even global fitting allows $\theta _ { 2 3 }$ being as low as $4 2 ^ { \circ }$ at the 1 $\sigma$ level.
+
+Now, let us consider CP violation in the lepton sector. Looking at mass matrices (3) and (11), because of the family symmetry they are very special, all the matrix elements of the Dirac part can be real by redefining relevant fields. This can be seen in the following way. Generally sneutrino VEVs are complex because they are determined by the scalar potential in which the soft masses are involved. In the charged lepton mass matrix, all the phases can be absorbed into fields of left-handed and right-handed charged leptons. In the neutrino mass matrix, if first we do not consider the $x$ term, it is easy to see that the phases can be rotated out, namely after factorizing the Majorana phases out, the remaining part of the neutrino mass matrix is real. Then once the $x$ term is added, it is noted that we always have the freedom to adjust its phase to be the same as that of ${ { v } _ { { l } _ { \tau } } } v _ { { l } _ { \tau } }$ through a phase rotation of $H _ { u }$ (and $H _ { d }$ ）field(s). Hence the Dirac part of the neutrino mixing matrix is real, CP violation in neutrino oscillations vanishes in the symmetry limit. Things become complicated when the nonvanishing electron mass is counted. The electron mass is due to the following terms adding to the mass matrix (3) [9,10],
+
+$$
+\delta M _ { \alpha \beta } ^ { l } \simeq { \frac { \alpha } { \pi } } { \frac { y _ { \tau } \tilde { m } _ { S } v _ { d } } { M _ { \tilde { Z } } } }
+$$
+
+with $\tilde { m } _ { S }$ being Yukawa soft masses where CP violating phases are expected to appear. $\delta M _ { \alpha \beta } ^ { l }$ （204号 itself is a general $3 \times 3$ matrix, it is a perturbation to the mass matrix (3), thus the Dirac CP violation phase in the lepton sector is found as $m _ { e } / m _ { \tau }$ . For CP violation to be measured in neutrino oscillations,
+
+$$
+\delta \sim { \frac { m _ { e } } { m _ { \tau } } } \sim 1 0 ^ { - 3 } , \quad \mathrm { o r } \quad J \sim 1 0 ^ { - 5 } ,
+$$
+
+where $J$ stands for the Jarlskog invariant [17]. It is too small to be observed in current neutrino experiments. Finally, the effctive Majorana neutrino mass $\begin{array} { r } { m _ { e e } = \sum U _ { e i } ^ { P M N S 2 } m _ { i } } \end{array}$ （ which is to be measured in neutrinoless double $\beta$ decays, is $\mathcal { O } ( 1 0 ^ { - 3 } ) ~ \mathrm { e V }$ , its exact value still depends on a Majorana phase which does appear as we have seen from the above described procedure of phase rotation [18]. It should be mentioned that the discussion of CP violation is independent on numerical assumptions adopted in the neutrino mixing analysis.
+
+It is remarkable to compare the mixing matrix of the lepton sector with that of the quark sector which has been analyzed in detailed in Ref. [1O]. For the case of quarks, a （204号 $Z _ { 3 }$ symmetry among the three generation quark doublets is still there. It is also the soft Yukawa trilinear interactions that lead to CP violation. However, the mass story is a bit different. The roles of sneutrino VEVs and loop effects are switched. Sneutrino VEVs give a mass to the first generation, whereas loop effects contribute masses to charm and strange quarks. And loop effects appear in both up- and down-type quark masses. Therefore, it is expected that the lepton mixing and the quark mixing are qualitatively different. The final expression of the CKM matrix is obtained in Eq. (35) of Ref. [10], in which we can see that small $V _ { u b }$ and $V _ { c b }$ , and a large Cabbibo angle are natural, furthermore,a large CP violation phase can be also naturally there.
+
+# V. HIGGS MASS
+
+The real aim of introducing triplet fields $T$ and $T$ is for the Higgs mass. In the high scale SUSY scenario, the Higgs quartic coupling evolves from a very high SUSY breaking scale (say $1 0 ^ { 1 2 }$ GeV） with usual boundary condition $\frac { 1 } { 8 } ( g ^ { 2 } + { g ^ { \prime } } ^ { 2 } ) \cos ^ { 2 } 2 \beta$ [11] down to the EW scale in the same way as that in the SM. In the case of a large $\tan \beta$ , the Higgs mass of $( 1 4 1 \pm 2$ ） GeV was predicted [11]. Because of sneutrino VEVs, the value will have a $1 \%$ decrease. Such a mass has been ruled out by recent results of ATLAS and CMS which show that the Higgs mass is about 126 GeV [12]. To reduce the Higgs mass from 140 GeV to about 126 GeV or so,we make use of an observation of Giudice and Strumia that triplet fields can change the boundary condition of the Higgs quartic coupling by a considerable amount in the case of a large tan $\beta$ [13].
+
+In Eq. (6)，after integrating out the triplet fields, we get a new contribution to the boundary condition of the Higgs quartic coupling. The interaction of $\lambda _ { 4 } ^ { \nu }$ plays the main role,because its correction to the Higgs quartic coupling is proportional to $\sin ^ { 4 } \beta$ which is significant in the large $\tan \beta$ case,
+
+$$
+\Delta \lambda \simeq \lambda _ { 4 } ^ { \nu 2 } \sin ^ { 4 } \beta \left[ 1 - \frac { M _ { T } ^ { 2 } ( m _ { \beta } ^ { 2 } - 2 A B _ { T } ) + A ^ { 2 } m _ { \alpha } ^ { 2 } } { { m _ { \alpha } } ^ { 2 } { m _ { \beta } } ^ { 2 } - B _ { T } ^ { 2 } M _ { T } ^ { 2 } } \right]
+$$
+
+where
+
+$$
+{ m _ { \alpha } } ^ { 2 } = m _ { T } ^ { 2 } + M _ { T } ^ { 2 } , { \quad } { m _ { \beta } } ^ { 2 } = m _ { \bar { T } } ^ { 2 } + M _ { T } ^ { 2 } .
+$$
+
+With the assumption that $M _ { T } ^ { 2 }$ is much larger than $m _ { \mathrm { s o f t } } ^ { 2 }$ , the above equation becomes $\Delta \lambda \sim$ $\frac { \lambda _ { 4 } ^ { \nu 2 } \sin ^ { 4 } \beta } { M _ { T } ^ { 2 } } [ m _ { T } ^ { 2 } - ( B _ { T } - A ) ^ { 2 } ]$ . Obviously,thiscontributio scomparableto $\frac { 1 } { 8 } \bigl ( g ^ { 2 } + { g ^ { \prime } } ^ { 2 } \bigr ) \cos ^ { 2 } 2 \beta$ （20 when $\frac { \lambda _ { 4 } ^ { \nu } m _ { T } } { a M _ { T } } \sim \frac { 1 } { 2 }$ ： We note that this is consistent with our numerical choice for $x$ in the last section, if $\lambda _ { 2 } ^ { \nu } \sim 0 . 0 4$ .Moreover, $\Delta \lambda$ is possible to become negative in some parameter space so that it cancels $\frac { 1 } { 8 } ( g ^ { 2 } + { g ^ { \prime } } ^ { 2 } ) \cos ^ { 2 } 2 \beta$ and even makes the boundary condition negative. With appropriate negative quartic coupling (about $- 0 . 0 2$ as shown in [20]） at the high scale,a Higgs mass of about 126 GeV compatible with the recent experimental results can be obtained.
+
+A negative Higgs quartic coupling constant at $\sim 1 0 ^ { 1 2 }$ GeV implies the instability of the SM vacuum. Note that at even higher energies, SUSY restores, the Higgs quartic coupling then becomes positive. Therefore, the true vacuum is at about $1 0 ^ { 1 2 }$ GeV. This negative value of the coupling at the high scale remains in the safe region where the life-time of the SM vacuum due to quantum tunneling is longer than the age of the Universe [19, 20].
+
+# VI. SUMMARY
+
+In conclusion, we have discussed the neutrino phenomenology in the framework which uses SUSY to account for the fermion mass hierarchy problem. One natural result of this model is that $\sin \theta _ { 1 3 }$ is about $0 . 7 \sqrt { \frac { \Delta m _ { s o l } ^ { 2 } } { \Delta m _ { a t m } ^ { 2 } } } \approx 0 . 1 3$ , just consistent with experiments. Furthermore, it has been predicted that the CP violation effect in neutrino oscillations is vanishingly small. Besides, the neutrino masses possess the normal hierarchy; $\theta _ { 2 3 }$ is not necessarily $4 5 ^ { \circ }$ . These can be checked in future experiments.
+
+The SUSY breaking scale is necessarily high in order to get neutrino masses small naturally. For reducing the high scale SUSY predicted Higgs mass, we have introduced SU $( 2 ) _ { L }$ （20 triplet fields. They make the Higgs quartic coupling negative at the high scale. Our universe with the EW scale $\sim 1 0 0$ GeV is metastable, and the true vacuum is at $\sim 1 0 ^ { 1 2 }$ GeV. Because the vacuum energy in our current universe is tiny positive, it is natural to guess that the true vacuum has a large negative cosmological constant.
+
+A special form of the neutrino mass matrix Eq. (11) has been adopted in our analysis. While this is a reasonable assumption in the case of triplet fields, it can be made accurate by introducing both singlets and triplets,and the singlets will be only for neutrino masses, and the role of triplets will be purely for the Higgs mass reduction. This will be achieved by raising the triplet mass $M _ { T }$ and the corresponding soft mass $m _ { T ( \bar { T } ) }$ two orders of magnitude with their ratio unchanged.
+
+In fact, in this model, the scale of $1 0 ^ { 1 2 }$ GeV or so is more fundamental, the effective theory below this scale is the just the SM,and the EW scale is a kind of accidental via fine tuning. Conventional WIMP dark matter, therefore, does not exist. However, we note that this high scale is close to that of the axion. The axion might be the dark matter in this model. Cosmological aspects of this model are under our study.
+
+In the near future,if experiments show that the SM is the full theory at TeV, then leptonic CP violation $\delta$ will be almost the last parameter to be fixed for the elementary particle physics. It would be also almost the last nontrivial physical quantity to verify various flavor models. Where the whole flavor puzzle is the most complicated problem of the SM, SUSY as well as its breaking just provides a simple and also complicated enough framework to understand the puzzle. SUSY should have a use because of its beauty and powerfulness.
+
+# Acknowledgments
+
+We would like to thank Jia-shu Lu and Hua Shao for helpful discussions. This work was supported in part by the National Natural Science Foundation of China under Nos. 11075193 and 10821504,and by the National Basic Research Program of China under Grant No. 2010CB833000.
+
+[1] Daya Bay Collaboration (F.P. An et al.), Phys.Rev.Lett108,171803 (2012) (arXiv:1203.166: [hep-ex]).   
+[2] RENO collaboration (J.K. Ahn et al.), Phys.Rev.Lett.108,191802 (2012) (arXiv:1204.062/ [hep-ex]).   
+[3] T2K Collaboration (K. Abe et al.), Phys. Rev. Lett. 107 (2011) 041801.   
+[4] MINOS Collaboration (P. Adamson et al.), Phys. Rev. Lett.107 (2011) 181802.   
+[5]H.de Kerret (for Double CHOOZ Collaboration), talk at LowNu1l workshop (Seoul, Nov 9-12, 2011).   
+[6] G.L. Fogli, E. Lisi, A. Marrone,A. Palazzo,and A.M. Rotunno,Phys. Rev. D 84 (2011 053002 (arXiv:1106.6028 [hep-ph]).   
+[7] V. Agrawal, S.M. Barr, J.F. Donoghue,and D. Seckel, Phys. Rev. D 57 (1998) 5480.   
+[8] N. Arkani-Hamed and S. Dimopoulos, JHEP 0506 (2005) 073 [hep-th/0405159]; G.F. Giudice and A. Romanino, Nucl. Phys. B 699 (2004) 65 [hep-ph/0406088].   
+[9] C. Liu, Phys. Lett.B 609 (2005) 111 [hep-ph/0501129].   
+[10] C. Liu,Commun. Theor. Phys. 47 (2007) 1088 [hep-ph/0507298].   
+[11] V. Barger, C.-W. Chiang, J. Jiang and T.-J. Li, Nucl. Phys. B 705 (2005) 71; L.J. Hall and Y. Nomura, JHEP 1003 (2010) 076; J. Unwin,arXiv:110.0470 [hep-ph]; N.V. Krasnikov, G. Kreyerhoff, and R. Rodenberg, Mod. Phys. Lett. A 9 (1994) 3663.   
+[12] ATLAS Collaboration (G. Aad et al.), Phys. Rev. Lett. 108 (2012) 111802,111803; CMS Collboration (S. Chatrchyan et al.), Phys. Rev. Lett.108 (2012) 111804; ATLAS Collaboration (G. Aad et al.), Phys. Lett. B 716 (2012) 1; CMS Collaboration (S. Chatrchyan et al.), Phys. Lett.B 716 (2012) 30.   
+[13] G.F. Giudice and A. Strumia, Nucl. Phys. B 858 (2012) 63 (arXiv:1108.6077 [hep-ph]).   
+[14] G. Lazarides, Q. Shafi, and C. Wetterich, Nucl. Phys. B 181 (1981) 287; R.N. Mohapatra ani G. Senjanovic, Phys. Rev. D 23(1981) 165; C. Wetterich, Nucl. Phys. B 187 (1981) 343; J Schechter and J.W.F. Valle, Phys. Rev. D 22 (1980) 2227; Phys.Rev. D 25 (1982） 774; E Ma, Phys. Rev. Lett.81,1171 (1998).   
+[15] Particle Data Group (J. Beringer et al.), Phys. Rev. D86 (2012) 010001.   
+[16] B.Pontecorvo, Zh. Eksp. Teor. Fiz. 33 (1957); Z. Maki, M. Nakagawa and S. Sakata, Prog. Theor.Phys.28（1962）870.   
+[17] C. Jarlskog,Phys. Rev. Lett. 55(1985) 1039; D.-d. Wu, Phys. Rev. D 33 (1986) 860.   
+[18] For a recent study， see F. Simkovic， S.M. Bilenky，A. Faessler， and Th. Gutsche, arXiv:1210.1306 [hep-ph].   
+[19] S.Coleman,Phys. Rev. D 15(1977) 2929.   
+[20] J.Elias-Miro, J.R. Espinosa,G.F. Giudice, G. Isidori, A. Riotto,and A. Strumia, Phys. Lett. B 709(2012） 222(arXiv:1112.3022 [hep-ph]).

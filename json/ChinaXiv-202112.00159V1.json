@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "紫玉兰 ‘红元宝’花芽分化阶段基因定量分析的",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内参基因筛选",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "章颖佳”²，程少禹’²，王卓为’²，戴梦怡’²，董彬’²，张超”²， 张寿洲，王亚玲4，申亚梅’2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．浙江农林大学风景园林与建筑学院，杭州311300；2．浙江省园林植物种质资源创新与利用重点实验室，杭州311300；3．仙湖植物园，广东 深圳518004;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4．西安植物园，西安710061)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为筛选紫玉兰‘红元宝’（Magnolia liliflora‘Hongyuanbao'）二次花芽分化阶段稳定表达的内参基因，该文以‘红元宝’不同花芽分化时期的花芽、叶为材料，基于转录组数据，筛选出8个候选内参基因：泛素酶基因（UBC）、肌动蛋白（ACT）、微管蛋白β链（ $\\lvert \\beta \\rvert$ -TUB）、微管蛋白β-5链（ $\\beta$ -TUB5）、微管蛋白α-3链（ $\\alpha$ -TUB3）、磷酸烯醇丙酮酸羧化酶（PEPC）、酰基载体蛋白2（ACP2）、酰基载体蛋白3（ACP3）。运用PrimerPremier5设计引物，简单克隆和熔解曲线验证引物特异性；利用qRT-PCR技术检测各个候选内参基因的表达情况，结合GeNorm、NormFinder、BestKeeper 软件和RefFinder 在线工具综合评估其表达稳定性，并通过目的基因TFL1的表达分析验证其可靠性。结果表明：8个候选内参基因条带位置正确，熔解曲线呈单一峰，说明引物特异性良好；综合4个软件的分析结果发现， $\\beta \\mathrm { . }$ -TUB、 $\\beta$ -TUB5和 $\\boldsymbol { a }$ -TUB3是‘红元宝’不同花芽分化时期较为稳定的内参基因，而UBC和ACT为稳定性最差的内参基因；以单个内参基因和β-TUB5、$\\boldsymbol { a }$ -TUB3、 $\\beta$ -TUB 组合为参照对TFL1基因进行相对表达量分析，结果显示， $\\beta$ -TUB5、α-TUB3、 $\\beta \\mathrm { . }$ -TUB及其组合的相对表达量趋于一致，而ACT和UBC并未对目的基因的表达量进行有效的标准化。因此， $\\beta$ -TUB、 $\\beta \\mathrm { . }$ -TUB5和 $\\alpha$ -TUB3可作为‘红元宝’二次花芽分化研究中稳定表达的内参基因。该研究结果将为木兰属植物二次成花分子调控机制研究提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：紫玉兰，内参基因，两次成花，qRT-PCR，微管蛋白基因中图分类号：S685.15 文献标识码：A 文章编号：202012047",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Selection of reference genes in Magnolia liliflora 'Hongyuanbao' during flower bud differentiation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yingjia1,², CHENG Shaoyu1,², WANG Zhuowei1,2, DAI Mengyi1,2, DONGBin1,2, ZHANG Chao1,2, ZHANG Shouzhou³,WANG Yaling4, SHEN Yamei1,2\\*基金项目：浙江省“十三五”林木新品种选育“特色优势木本花卉资源保育与种质创新”（2016C02056-12）[Supported by the 13th Five-Year-Plan for Floriculture Special Breeding of Zhejiang Province (2016C02056-12)]。作者简介：章颖佳（1996-），硕士研究生，研究方向为玉兰品种资源及种质创新，（E-mail)909621959@qq.com。\\*通信作者：申亚梅，博士，教授，研究方向为玉兰品种资源及种质创新，（E-mail）yameishen@zafu.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Landscape Architecture, Zhejiang A & F University, Hangzhou 311300, China; 2. Zhejiang Provincial Key Laboratory of Germplasm Innovation and Utilization for Garden Plants, Zhejiang A&F University,Hangzhou 311300,China; 3.Fairy Lake Botanical Garden, Shenzhen 518004, Guangdong, China; 4.Xi'an Botanical Garden, Xi'an 710061, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A number of Magnolia (Magnoliaceae) species bloom twice each year, instead of once in most other species in this family, which is a desirable ornamental trait. To investigate the molecular mechanism of the flower bud differentiation during the second bloom each year in these Magnolia species， quantitative real-time PCR (qRT-PCR） was frequently used as a sensitive gene expression technique that relies on the stability of reference genes for data normalization. Therefore， the identification of reference gene(s） suitable for molecular characterization during Magnolia flower bud differentiation in second bloom is of great interest. In this study, gene expression in the leaf and flower bud tissues of M. liliflora ‘Hongyuanbao’ at different stages of the flower bud differentiation during second bloom was analyzed. Based on transcriptomic sequencing data, eight constitutively expressed genes, including UBC (ubiquitinconjugating enzyme)，ACT (actin), $\\beta \\mathrm { . }$ -TUB (tubulin beta), $\\beta \\mathrm { . }$ -TUB5 (tubulin beta), $\\boldsymbol { a }$ -TUB3 (tubulin alpha), PEPC (phosphoenolpyruvate carboxylase),ACP2 (acyl carrier protein 2),ACP3 (acyl carrierprotein 3)， were selected as candidate reference genes for qRT-PCR. Comprehensively analysis was conducted using four softwares including geNorm, NormFinder, BestKeeper and RefFinder. Primer Premier 5 was used to design the primers.PCR products of all the eight candidate reference genes were analyzed by gel electrophoresis which showed sharp bands with the expected size. Each melting curve showed a single peak, which indicated the high specificity of PCR primers. The general assessment by the four different softwares ranked $\\beta$ -TUB, $\\beta$ -TUB5 and $a \\mathrm { - } T U B 3$ as the most stable reference genes,whereas $U B C$ and $A C T$ were the lest stable.The reference genes were further evaluated by analyzing the relative expression of TFL1 gene with either single or in combination of $\\beta \\mathrm { . }$ -TUB5, $\\boldsymbol { a }$ -TUB3, $\\beta$ -TUB，which showed highly consistent results.In contrast, $A C T$ and UBC did not effectively standardize the expression level of TFL1. In general, through this study, we have identified $\\beta \\mathrm { . }$ -TUB5, $\\scriptstyle a .$ -TUB3 and $\\beta \\mathrm { . }$ -TUB as the most suitable reference genes for qRT-PCR analysis of gene expresson in flower bud differentiation during the annual second bloom of $M .$ liliflora Hongyuanbao',which provides useful tools for investigating the regulatory mechanisms in Magnolia flowering. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Magnolia liliflora, reference gene,re-flowering, qRT-PCR, TUB ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木兰属（MagnoliaLinn.）植物在我国已有两千多年的栽培历史，花色艳丽、树形优美，为重要的春季开花绿化植物（张翼等，2009）。在自然条件下，木兰属植物中少数种质能在夏季二次开花，甚至可持续开放到秋季（Xiaetal.,2008）。然而，对木兰属植物二次开花或多次开花机理研究仍处于初级阶段，目前仅有紫玉兰‘红元宝’（Magnolialiliflora‘Hongyuanbao'）（程少禹等，2020）和常春二乔玉兰（Magnolia soulangeana‘Changchun'）（Sun etal.,2021）两个品种不同花期的转录组分析研究，从基因调控层面揭示该属植物二次开花机制的内容鲜有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实时荧光定量 PCR（quantitative Real-time polymerase chain reaction，qRT-PCR）技术具有高精度、高通量、高灵敏度等优点，被广泛用于基因表达分析的研究中（Huggett etal.,2005）。但qRT-PCR 结果的准确性容易受到样本差异性、组织特异性、提取RNA质量等因素的影响（Suzuki etal.,2000），需要引入一个或几个内参基因校正目的基因的表达（Quackenbush,2002;Xu et al.,2017）。实际研究中所选取的内参基因通常只能在一定范围内表达恒定，不能确保在所有试验条件中均能稳定表达（Thellin etal.,1999）。若不经筛选而盲目使用他人试验中的内参基因，容易得到不准确甚至错误的结果（Mukesh etal.,2006）。因此，在不同样本或不同试验条件下进行qRT-PCR分析的前提是筛选稳定表达的内参基因。目前已有研究筛选得到木兰属植物不同花色（王宁杭等，2019）、热胁迫处理（王倩颖等，2019）和盐胁迫处理（常鹏杰等，2018）适用的内参基因，却未对二次开花的木兰属植物进行内参基因的筛选。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "紫玉兰‘红元宝’（Magnolia liliflora‘Hongyuanbao'）（简称‘红元宝’）是紫玉兰（Magnolia liliflora）的变种，具有一年二次开花的特性（程少禹等，2020）。为筛选适合木兰属植物二次花芽分化研究的内参基因，本研究以‘红元宝’不同花芽分化时期的花芽、叶为材料，基于转录组数据选取8个常用内参基因（UBC、ACT、 $\\beta \\mathrm { . }$ -TUB、 $\\beta \\mathrm { . }$ -TUB5、α-TUB3、PEPC、ACP2、ACP3），并利用geNorm，NormFinder 和 Bestkeeper等统计学软件综合评估候选内参基因在不同花芽分化时期的表达稳定性，以期为木兰属植物二次或多次花开放的分子机理研究提供依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料选取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "‘红元宝’（树龄10年）种植于浙江农林大学平山基地。选取三棵长势一致，状况良好无病虫害的‘红元宝’为试验材料，定期采集树冠中上部分的花芽及其周围的嫩叶。由于每棵树上花芽分化的进程并不同步，因此不同分化时期的花芽按照对应的尺寸规格进行取样。2019年4月12日进行第一次采样，每隔15天采样一次，采集三次作为第一次花芽分化前中后三个时期的样品；2019年6月25日开始采集第二次花芽分化样品，每隔15天采集一次，采集三次作为第二次花芽分化前中后三个时期的样品。每个时期的样品均采集3个重复，共36个样品。每个样品均置于 $5 \\mathrm { m l }$ 的冻存管中，采集后迅速放入液氮中超低温保存，最终转到 $. 8 0 ~ \\mathrm { { ^ \\circ C } }$ 冰箱储存备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 引物设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据‘红元宝’转录组的测序结果，从中选取泛素酶基因（UBC）、肌动蛋白（ACT）、β微管蛋白（ $\\beta \\mathrm { . }$ -TUB）等8个常见的内参基因。根据荧光定量引物设计的要求，运用Primer Premier5软件设计引物。引物交于浙江有康生物科技有限公司，序列信息详见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按 UltraClean Polysaccharide and Phenol Plant RNA Purification Kit（天津，Novogene）试剂盒说明书提取各样品的总RNA。通过 $1 \\%$ 琼脂糖凝胶电泳和紫外分光光度计检测其完整性、浓度和纯度。用反转录试剂盒PrimeScriptTMRTMix（TaKaRa）进行cDNA合成，进行 $1 0 ~ \\mu \\mathrm { L }$ 体系反转录，取2μL $5 \\times$ PrimeScript缓冲液， $5 0 0 ~ \\mathrm { n g }$ 总 RNA，RNase Free $\\mathrm { \\ d H } _ { 2 } \\mathrm { O }$ 补足至 $1 0 ~ \\mu \\mathrm { L }$ ，于 $3 7 \\ \\mathrm { { ^ circ C } }$ 反应 $1 5 ~ \\mathrm { m i n }$ 后， $8 5 \\ \\mathrm { { ^ \\circ C } }$ 反应 $5 \\mathrm { ~ s ~ }$ ，最后在 $4 \\mathrm { { ^ \\circ C } }$ 保存。用LightCycler$4 8 0 \\mathrm { I I }$ （Roche）荧光定量仪进行qRT-PCR反应，其中BCGqPCRMasterMix（ $2 \\times$ ）10μL，上下游引物各 $0 . 8 ~ \\mu \\mathrm { L }$ ， $2 5 \\mathrm { n g \\ c D N A }$ 模板，并用双蒸水补足至 $2 0 ~ \\mu \\mathrm { L }$ ，每个样品进行3次技术重复。qRT-PCR扩增反应程序： $9 5 \\ \\mathrm { ^ \\circ C }$ 预变性 $3 0 ~ \\mathrm { s }$ ， $9 5 ^ { \\circ } \\mathrm { ~ C ~ } 5 \\mathrm { ~ s ~ }$ ， $6 0 \\mathrm { ~ \\textdegree ~ } 3 0 \\mathrm { ~ s ~ }$ ，40个循环，后运行 $9 5 \\mathrm { ~ \\textdegree ~ } 5 \\mathrm { ~ s ~ }$ ， $6 0 \\mathrm { ~ \\textdegree ~ } 6 0 \\mathrm { ~ s ~ }$ ， $9 5 \\mathrm { ~ \\textdegree ~ } 1 5 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究基于‘红元宝’转录组数据，选取了8个常见的候选内参基因：泛素酶基因（UBC）、肌动蛋白（ACT）、微管蛋白β链（ $\\beta \\mathrm { . }$ -TUB）、微管蛋白β-5链（ $\\beta \\mathrm { . }$ -TUB5）、微管蛋白 $a - 3$ 链（ $\\scriptstyle a$ -TUB3）、磷酸烯醇丙酮酸羧化酶（PEPC）、酰基载体蛋白2（ACP2）、酰基载体蛋白3（ACP3）。通过△Ct，geNorm，NormFinder，Bestkeeper,RefFinder分别计算qRT-PCR中所得到的数据，对其稳定性进行稳定性分析，最终确定最佳的单个内参基因或内参基因组合。候选内参基因的表达水平通常是由qRT-PCR 的阈值周期Ct值决定，Ct值与基因表达水平成反比，Ct值越大，基因表达水平越低，反之亦然。geNorm是根据基因表达稳定值（M值）的大小来判断候选内参基因的稳定性（ $. \\mathbf { M } { < } 1 . 5 )$ ，M值越小意味着基因表达越稳定。为了确定能在一定范围内恒定表达的最优内参基因数量，geNorm则能通过配对差异值（ $\\mathrm { { V _ { n / n + 1 } } }$ ）来判断最佳内参数量从而进行归一化（Vandesompele etal.,2002）。若基因间成对差异值大于或等于0.15，则应多增一个基因对其进行可靠的归一化。若成对差异值小于0.15，则不需要增加基因进行正常化（Liang etal.,2020）。NormFinder将原始Ct值进行了对数转换，然后进行方差的分析，计算得出一个基因的稳定表达值，稳定值最小的候选内参基因则为最稳定的基因（Lindbjerg etal.,2004）。BestKeeper通过计算Ct值的变异率比较不同候选内参基因的表达水平差异，相关系数 $\\mathrm { \\bf ~ r } ^ { 2 }$ 越大，标准偏差 SD 和变异系数CV 越小则越稳定（Pfafflet al.,2004）。RefFinder是一个用于评估和筛选参考基因的在线网站，它集成了geNorm，NormFinder和BestKeeper的计算程序，按照每个程序对候选内参基因的排名，为每个基因分配适当的权重，并计算出它们的权重几何平均值，从而获得最终的总体排名（黄真池等，2013；Xie et al.,2012）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1总RNA质量检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总RNA的琼脂糖凝胶电泳检测所得条带清晰，并且28SrRNA条带亮度约18S rRNA的2倍，无严重的RNA降解和DNA污染情况（图1）。紫外分光光度计检测结果显示，所有RNA样品中（ $\\mathrm { { ) D _ { 2 6 0 } } / \\mathrm { { O D _ { 2 8 0 } } } }$ 值均在 $1 . 8 \\sim 2 . 0$ 左右，说明RNA纯度较高，可用于进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M．Marker；28S．28S rRNA；18S．18S rRNA；5S．5SrRNA；F1～F6．两次花芽分化6个时期的花芽；L1～L6.两次花芽分化6个时期的叶。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8801b07f43327dc88015b6001ffbc57d0d4e0a87fd97533a63316ed3060d907.jpg",
+        "img_caption": [
+            "图1‘红元宝’总RNA琼脂糖凝胶电泳检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M.Marker;28S.28S rRNA;18S.18S rRNA; 5S.5S rRNA; F1\\~F6.Flower buds at six stages of two flower bud differentiation; L1\\~L6.Leaves at six stages of two flower bud differentiation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Agarose gel analysis of total RNA extracted from Magnolia liliflora ‘Hongyuanbao' 候选内参基因引物评价 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将‘红元宝’不同花芽分化时期样品的cDNA等量混合作为模板，8个候选内参基因通过简单克隆扩增之后，各候选内参基因结果均与预期一致，条带均显示在 $8 0 \\sim 1 5 0$ bp之间且单一清晰（图2）。随之将cDNA稀释成6个浓度梯度（ $. 5 ^ { 0 }$ ， $5 ^ { - 1 }$ ， $5 ^ { - 2 }$ ， $5 ^ { - 3 }$ ， $5 ^ { - 4 }$ ， $5 ^ { \\circ }$ 5），以不同浓度的cDNA作为qRT-PCR扩增的模板。通过绘制标准曲线法，以不同浓度的对数值为横坐标，Ct值为纵坐标即可获得斜率 $( k )$ 和相关系数 $( r ^ { 2 } )$ 。运用扩增效率公式： $E \\mathrm { = ~ ( ~ } 1 0 ^ { - 1 / k } \\mathrm { - } 1 \\mathrm { ) ~ } \\times 1 0 0 \\%$ ，可知 $E$ 值均在 $9 0 . 0 \\% \\sim 1 1 0 . 0 \\%$ 之间，相关系数 $r ^ { 2 } { \\geqslant } 0 . 9 8$ （表1）。各候选内参基因的单一熔解峰也表明引物特异性良好（图3），说明实验结果准确可靠。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3999cf138deb29ef602a208ebc0f1f998b79100f265ac6632fc923e893c3737.jpg",
+        "img_caption": [
+            "图28个候选内参基因PCR扩增产物 Fig.2 PCR amplification products of 8 candidate reference genes "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M.Marker;1.UBC; 2.ACT;3.β-TUB;4.β-TUB5;5.α-TUB3; 6.PEPC;7.ACP2; 8.ACP3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fedb92c741698fdaacad285dfdf10fa479e6c7e7d6e1465293c7a681e1dfbfa.jpg",
+        "table_caption": [
+            "表18个候选内参基因的引物序列及扩增效率 ",
+            "Table 1 Primers and amplification efficiency of 8 candidate reference genes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因名称 Gene name</td><td>引物序列（5'→3') Primer sequence</td><td>产物长度（bp） Product length</td><td>扩增效率（%） Efficiency</td><td>相关系数r² Correlationcoefficient</td></tr><tr><td>UBC</td><td>F_TAACAACGGCAAACCCAG</td><td>109</td><td>94.30</td><td>0.983</td></tr><tr><td>ACT</td><td>R_GCAGTCGAATGCCTAATC F_AGTCCAGCACAATACCAG</td><td>128</td><td>108.85</td><td>0.988</td></tr><tr><td>β-TUB</td><td>R_CAAGGCTAATCGTGAGAA F_CCCGTCTCCACTTCTTCA</td><td>121</td><td>91.99</td><td>0.993</td></tr><tr><td>β-TUB5</td><td>R_CACATCATATTCTTAGCATCCC</td><td></td><td></td><td></td></tr><tr><td></td><td>F_ATCAGTTCCGCTCCTTCA R_GCCCGATAACTTCGTCTT</td><td>81</td><td>103.80</td><td>0.995</td></tr><tr><td>α-TUB3</td><td>F_CTGGCTTGGGTTCTTTAC R_GCCGTTGATACCTGTGGG</td><td>100</td><td>97.80</td><td>0.993</td></tr><tr><td>PEPC</td><td>F_GGGCATTGTAAGGGAGGC</td><td>121</td><td>101.09</td><td>0.996</td></tr><tr><td></td><td>R_ATGCGGGCAGGAATGAGT</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ACP2</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>F_GCAGCAGTGGGTAAGCAA</td><td>95</td><td>92.34</td><td>0.997</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>R_GAGCGTGAACCAGAATAT</td><td></td><td></td><td></td></tr><tr><td>ACP3</td><td>F_CATAACAAGCTCCACCCT</td><td>141</td><td>99.08</td><td>0.995</td></tr><tr><td></td><td>F_ACCAGCTCCGATCATCTA</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e5b983115c5d714176757c7ec0460687a22facfceb3c9a27e38c17aadf5625.jpg",
+        "img_caption": [
+            "图38个候选内参基因熔解曲线 Fig.3 Melting curve of 8 candidate reference genes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "-dF/dT.Negative derivative ratio of fluorescent signal to temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3内参表达稳定性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过比较8个候选内参基因Ct值来评估其在‘红元宝’不同花芽分化阶段的表达丰度，根据Ct值的分布（图4），8个候选内参基因的Ct值均集中在 $1 7 \\sim 3 0$ 之间，表达丰度适中。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/588ca7156f1ff7e77603e472e8dd721a7126ecb0a960f69bf705d3f202480228.jpg",
+        "img_caption": [
+            "图48个候选内参基因的Ct值 Fig.4 Ct value of 8 candidate reference genes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "箱体表示Ct值的集中范围，箱体中的横线表示中位数，箱体上下边分别表示上/下四分位数，箱体上下 两端分别表示最大/小值，箱体内方框表示均值，箱体外黑点表示变异值。   \nThe box represents the concentrated range of Ct values,the horizontal line in the box represents the median,the upper and lower sides ofthe box respectively represent the upper/lower quartiles, the upper and lower ends of the box respectively indicate the maximum/minimum value,the square box inside the box body represents the mean value,and the black dot outside the box body represents the variation value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "geNorm 对各个候选内参基因进行稳定性排序，结果显示（图5），8个M值均小于1.5，最稳定的内参基因为 $\\beta \\mathrm { . }$ -TUB和β-TUB5，表达稳定值最小（ $\\mathrm { M } { = } 0 . 5 9 8$ ）。UBC",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\lvert \\mathbf { M } { = } 1 . 1 3 7$ ）和ACT（ $\\mathrm { M } { = } 1 . 0 2 1$ ）在该软件的分析中排序靠后，是最不稳定的内参基因。配对差异值的分析显示（图6）， $\\mathrm { \\Delta V _ { n / n + 1 } }$ 的值均大于0.15，其原因可能是‘红元宝’二次成花时间跨度大，不同组织中基因变异大。在geNorm手册中也提及 $\\mathrm { { V _ { n / n + 1 } } }$ 取0.15只是一个默认值，并非总是必要，可根据研究目的或 $\\mathrm { { V _ { n / n + 1 } } }$ 变化趋势选择 $2 \\sim 3$ 个稳定的内参基因（任锐等，2016）。NormFinder软件分析基因稳定性同样与数值大小呈负相关， $\\scriptstyle a$ TUB3的M值最小（ $\\mathrm { M } { = } 0 . 2 1 4$ ），因此稳定性最高，稳定性次之的是 $\\beta \\mathrm { . }$ -TUB5（ $\\mathrm { M } { = } 0 . 3 0 8$ ），稳定性最差的是UBC（ $\\scriptstyle 1 = 0 . 9 1 0$ ）和ACT（ $\\scriptstyle 1 = 0 . 8 4 7$ ），这一结果与geNorm大致相同。BestKeeper分析结果显示ACT的 SD值最大（ $\\mathrm { S D } { = } 2 . 1 5$ ），是最不稳定的内参基因，但ACP2的SD值最小（ $\\mathrm { S D } { = } 1 . 0 4 { \\dot { \\cdot } }$ ）、UBC次之（ $\\mathrm { S D } { = } 1 . 0 8 \\AA$ ），表明ACP2和UBC 的稳定性较好，这与geNorm、NormFinder的分析结果部分不一致。RefFinder集合了上述三种软件的算法和程序，对每个备选基因计算稳定值重的几何平均值进行综合排名，数值越小，则基因越稳定（陈莹等，2019）。通过分析结果得出（表2）， $\\scriptstyle a .$ -TUB3表达最为稳定， $\\beta$ -TUB5和β-TUB稳定性次之。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/779eaf2cb20805e08092821af6dea9644a8a2a1539ba46ce84454a7f03741fd2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c7b6b45f81783df46f1b2485626be0c4483b8048cb3e8d5975df6074734cd2f.jpg",
+        "img_caption": [
+            "图5geNorm软件分析候选内参基因表达稳定值 Fig.5 Stable value of gene expression of candidate reference gene analyzed by geNorm ",
+            "图6geNorm 软件分析候选内参基因的 $\\mathrm { { V _ { n / n + 1 } } }$ ",
+            "Fig.6 Pairwise variation value $\\mathrm { ( V _ { n / n + 1 } ) }$ of candidate reference gene analyzed by geNorm "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于上述3个软件的分析结果（geNorm，NormFinder，Bestkeeper），通过RefFinder综合确定内参基因的稳定性排名。结果显示（表2），在‘红元宝’不同花芽分化阶段，$\\boldsymbol { a }$ -TUB3、 $\\beta$ -TUB5、 $\\beta$ -TUB的表达稳定性最高，而UBC和ACT表达稳定性最低。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/efa519a9993746061c4b5669a2d0650a503163194c095d0d5e856a847f0587b0.jpg",
+        "table_caption": [
+            "表2候选内参基因稳定性排序",
+            "Table 2 Stability sequencing of candidate reference gene "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>候选内参基因 Candidate reference</td><td>geNorm</td><td>NormFinder</td><td>BestKeeper</td><td>RefFinder</td><td>综合排序 Comprehensive ranking</td></tr><tr><td>UBC</td><td>1.137</td><td>0.910</td><td>1.08</td><td>5.66</td><td>7</td></tr><tr><td>ACT</td><td>1.021</td><td>0.847</td><td>2.15</td><td>7.24</td><td>8</td></tr><tr><td>β-TUB</td><td>0.598</td><td>0.496</td><td>1.55</td><td>3.13</td><td>3</td></tr><tr><td>β-TUB5</td><td>0.598</td><td>0.308</td><td>1.61</td><td>2.30</td><td>2</td></tr><tr><td>α-TUB3</td><td>0.718</td><td>0.214</td><td>1.46</td><td>1.97</td><td>1</td></tr><tr><td>PEPC</td><td>0.910</td><td>0.509</td><td>1.36</td><td>4.95</td><td>6</td></tr><tr><td>ACP2</td><td>0.843</td><td>0.562</td><td>1.04</td><td>3.66</td><td>5</td></tr><tr><td>ACP3</td><td>0.781</td><td>0.451</td><td>1.15</td><td>3.22</td><td>4</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4TFL1基因验证最佳内参基因的稳定性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TERMINALFLOWER1（TFLI）是重要的成花抑制基因，因此，选用TFL1基因对候选内参基因进行验证。结果表明（图7），TFL1在叶中几乎没有表达，而在花芽中，第一次花芽分化的表达量明显低于第二次花芽分化，推测低水平表达的TFL1可能促进了‘红元宝’二次开花。而以稳定性较差的内参基因分析TFL1的相对表达量时，TFLI基因表达模式发生了变化。以单个基因（ $\\beta \\mathrm { . }$ -TUB、 $\\beta \\mathrm { . }$ -TUB5、 $\\scriptstyle a .$ -TUB3）及其组合为内参基因校准TFL1基因的表达水平时，均显示出了一致的趋势，进一步验证了4个软件对候选内参基因筛选结果的可靠性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/38a305fa27decba7b753084a70fdacb9b327e752c7285eb356b5cf5086027551.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A．TFL1在花芽中的相对表达量；B．TFL1在叶中的相对表达量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Relative expressionof TFL1 in flower buds;B.Relative expression ofTFL1 in leaves;1. UBC; 2.ACT;   \n3.β-TUB;4.β-TUB5;5.α-TUB3; 6.PEPC;7.ACP2;8.ACP3;9.β-TUB、β-TUB5、α-TUB3. 图7不同内参基因或组合分析TFL1在花芽分化阶段的相对表达量 Fig.7 Relative expression of TFL1 in flower bud differentiation using different reference genes or combinations ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "理想的内参基因在任何试验条件下都能稳定表达，但大量研究表明，在不同物种或不同条件中稳定表达的基因会发生变化（Artico etal.,2010；Mafra etal.,2012）。因此，在特定条件下筛选合适的内参基因对于后续基因表达模式分析具有重要意义。本研究通过转录组测序数据，筛选出‘红元宝’花芽分化进程8个候选内参基因，基于GeNorm、NormFinder、BestKeeper 和RefFinder 软件综合分析结果，进一步验证了β-TUB、 $\\beta \\mathrm { . }$ -TUB5和 $\\alpha$ -TUB3是‘红元宝’花芽分化进程最佳内参基因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在‘红元宝’不同花芽分化阶段，GeNorm、NormFinder 和 BestKeeper 软件评估的8个内参基因排序存在差异（表2）。有研究显示，利用GeNorm、NormFinder 和BestKeeper软件分析茉莉花（Jasminum sambac）（齐香玉等，2020）和老鸦瓣（Amanaedulis）（徐碧霞等，2021）不同组织的内参基因表达量时，3个软件得到的稳定性排名也不同。由此，GeNorm、NormFinder 和 BestKeeper 软件分析结果的差异在物种中普遍存在（付建新等，2016）。在本研究中，GeNorm和NormFinder分析结果表明 $\\alpha$ -TUB3、 $\\beta \\mathrm { . }$ TUB5 和β-TUB稳定性较好，UBC 和ACT表达稳定较差；而BestKeeper与前二者结果不一致，认为ACP2和UBC稳定性最佳，ACT稳定性最差（表2）。造成分析结果有差异的原因是3个软件采用的统计学算法不同，使同一组试验数据产生了不同的排名（Spiegelaere etal., 2017）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了减少软件算法差异造成的偏差，通常结合几何平均值法整合不同软件的结果得出综合排名（任锐等，2016）。本研究利用RefFinder综合评估上述3个软件的排序结果，分配权重进行几何平均值的计算，由表2可知，在所有样品中稳定性最佳的是 $\\beta$ -TUB、 $\\beta \\mathrm { . }$ TUB5和 $\\alpha$ -TUB3，稳定性最差的是UBC和ACT。为进一步验证筛选结果的可信度，本研究使用所有单个内参及最佳内参基因组合（ $\\beta$ -TUB、 $\\beta$ -TUB5和 $\\alpha$ -TUB3）对目的基因TFLI进行相对表达量分析（图7），结果表明3个内参基因组合校准的基因表达模式更为准确。在老鸦瓣（Amana edulis）（徐碧霞等，2021）、茉莉花（Jasminum sambac）（齐香玉等，2020）、芒（Miscanthus sinensis）（黄逸之等，2020）等物种的内参研究中也证实，综合不同软件的分析结果更能反映给定试验条件下内参基因的表达稳定性。由此表明，本研究利用多个不同的算法对基因稳定性进行综合评估从而对候选内参基因进行筛选，研究结果准确可靠。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TUB 基因是生物体维持生命活动所必须的细胞器骨架的基本组分，由 $\\boldsymbol { a }$ -TUB和β-TUB组成，具有良好的稳定性（阙友雄等，2009）。有研究结果表明，马缨杜鹃（Rhododendrondelavayi）花芽的不同发育时期的内参研究中，TUB是最佳的内参基因之一（张明超，2019）；刺葡萄（Vitis davidi）（潘红等，2019）和石蒜属（Lycoris）（蒋婷婷等，2015）在不同组织器官和非生物胁迫条件下筛选内参基因时，发现TUB的稳定性最好。与前人研究结果一致，本研究综合4个软件分析结果确定TUB同源基因 $\\beta \\mathrm { . }$ TUB、 $\\beta$ -TUB5和α-TUB3为‘红元宝’二次花芽分化研究的最佳内参基因。但TUB基因并非适用于所有物种，在甜樱桃（Prunusavium）（仇志浪等，2020）、萱草（Hemerocallis fulva）（梁锦等，2020）、马蹄莲（Zantedeschia hybrida）（周琳等，2020）不同品种和组织器官中，TUB表达不稳定，不适合作为内参基因。这表明了内参基因筛选研究应综合不同物种、组织器官及不同试验条件的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综合所述，本研究筛选到β-TUB、 $\\beta$ -TUB5和 $\\boldsymbol { a }$ -TUB3是‘红元宝’二次花芽分化相关基因表达分析的稳定内参基因组合，能够对开花关键基因进行较准确的相对定量分析，该结果为木兰属植物二次或多次开花的分子机理研究奠定基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nARTICO S, NARDELI SM, BRILHANTE O, et al., 2010. Identification and evaluation of new reference genes in Gossypium hirsutum for accurate normalization of real-time quantitative RT-PCR data[J]. BMC Plant Biol, 10(1): 1-12.   \nCHANG PJ, SHEN YM, DONG B,et al.， 2018. Selection of reference gene in Magnolia denudata under salt stress using qRT-PCR[J]. JAgric Biot, 26(9): 1611-1620.[常鹏杰，申亚 梅，董彬，等，2018．玉兰盐胁迫下qRT-PCR 分析中内参基因的筛选[J]．农业生物技 术学报，26(9)：1611-1620.]   \nCHEN Y, YU JY, PAN WY, et al., 2019. Selection of reference genes at the different organs in Anoectochilus roxburghi[J].Mol Plant Breed,17(18): 5930-5938.[陈莹，余佳瑶，潘王 韵，等，2019．金线兰根茎叶内参基因的筛选［J]．分子植物育种，17(18)：5930- 5938.]   \nCHENG SY, XUAN LJ, DONG B, et al., 2020.Identification of differential metabolic pathways and key regulatory genes in the two flower bud differentiation processes of Magnolia liliiflora[J].Acta Hortic Sin,47(8): 1490-1504.[程少禹，宣铃娟，董彬，等，2020．‘红 元宝’紫玉兰两次花芽分化差异代谢通路及关键调控基因筛选[J]．园艺学报，47(8)： 1490-1504. ]   \nCHOU ZL, HE MQ, WEN Z, et al., 2020. Selection and validation of reference genesin sweet cherry flower bud at different development stages[J]. Seed,39(2): 37-43.[仇志浪，何美乾， 文壮，等，2020．甜樱桃花芽不同发育时期内参基因的筛选与验证[J]．种子，39(2)： 37-43.]   \nFU JX, ZHANG C, WANG YG, et al., 2016. Reference gene selection for quantitative real-time polymerase chain reaction (qRT-PCR） normalization in the gene expression of sweet osmanthus tissues[J].J ZhejiangA&F Univ,33(5):727-733.[付建新，张超，王艺光， 等，2016．桂花组织基因表达中荧光定量PCR 内参基因的筛选［J]．浙江农林大学学 报，33(5)：727-733.]   \nHUANG ZC, OUYANG LJ, ZHANG L,et al.， 2013. Selection and evaluation of internal reference genes in Eucalyptus species[J]. JNorthwest A & F Univ (Nat Sci Ed), 41(1O): 67-72. [黄真池，欧阳乐军，张龙，等，2013．桉属植物内参基因的筛选及评估［J]．西北农林 科技大学学报(自然科学版)，41(10)：67-72.]   \nHUANG YZ, TANG MY, ZHONG MY, et al.， 2020. Optimum reference gene selection in Miscanthus sinensis root tissue with various abiotic stress[J]. J Sichuan Agr Univ, 38(6): 699- 707.[黄逸之，唐铭余，钟旻依，等，2020．芒根组织在不同非生物胁迫下最适内参基 因的筛选［J]．四川农业大学学报,38(6)：699-707.]   \nHUGGETT J, DHEDA K, BUSTIN S, et al., 2005. Real-time RT-PCR normalization, strategies and considerations[J]. Genes Immun, 6(4): 279-284.   \nJIANG TT, GAO YH, TONG ZK, 2015. Selection of reference genes for quantitative Real-Time PCR in Lycoris[J].Acta Hortic Sin,42(6):1129-1138.[蒋婷婷，高燕会，童再康， 2015．石蒜属植物实时荧光定量PCR 内参基因的选择[J]．园艺学报，42(6)：1129- 1138.]   \nLIANG J, LIU HT, ZHONG R, et al., 2020. Screening of reference genes for quantitative realtime PCR in different organs of Hemerocalis fulva[J]. Plant Physiol J, 56(9): 1891-1898.[梁 锦，刘海婷，钟荣，等，2020．萱草不同器官实时荧光定量PCR 内参基因的筛选 [J]．植物生理学报，56(9)：1891-1898.]   \nLIANG LJ, HE ZG,YU HZ,et al., 2020. Selection and validation of reference genes for gene expression studies in Codonopsis pilosula based on transcriptome sequence data[J]. Sci Rep, 10(1): 1362.   \nLINDBJERG AC, LEDET J, FALCK OT, 2004. Normalization of real-time quantitative reverse transcription-PCR data: a model-based variance estimation approach to identify genes suited for normalization, applied to bladder and colon cancer data sets[J]. Cancer Res, 64(15): 5245- 5250.   \nMAFRA V, KUBO KS,ALVES-FERREIRA M, et al.， 2018. Reference genes for accurate transcript normalization in Citrus genotypes under different experimental conditions.[J]. PLoS One, 7(2): e31263.   \nMUKESH J, AASHIMA N, TYAGI AK, et al.， 2006. Validation of housekeeping genes as internal control for studying gene expression in rice by quantitative real-time PCR[J]. Biochem Biophys Res Commun, 345(2): 646-651.   \nPAN H,LAI CC, ZHANG J, et al.,2019. Selection of reference genes for RT-qPCR from the red callus of Vitis davidii (Rom. Cail.) Foex under different light qualities[J]. Chin JAppl Environ Biol,25(6):1407-1413.[潘红，赖呈纯，张静，等，2019．不同光质条件下刺葡萄红色 愈伤组织的 RT-qPCR 内参基因筛选［J]．应用与环境生物学报，25(6)：1407-1413.]   \nPFAFFL MW, TICHOPAD A, PRGOMET C, et al., 2004. Determination of stable housekeeping genes, differentially regulated target genes and sample integrity: BestKeeper-Excel-based tool using pair-wise correlations[J]. Biotechnol Lett, 26(6): 509-515.   \nQI XY, CHEN SS,FENG J, et al., 2020. Selection and validation of candidate reference genes for quantitative real time PCR in Jasminum sambac Aiton[J]. Acat Agric Boreali-Sin, 35(6): 22-30.[齐香玉，陈双双，冯景，等，2020．茉莉花实时荧光定量PCR 内参基因的筛选 与验证［J].华北农学报，35(6)：22-30.]   \nQUACKENBUSH J, 2002. Microarray data normalization and transformation[J]. Nat Genet, 32(4): 496-501.   \nQUE YX, XU LP, XU JS, et al., 2009. Selection of control genes in Real-time qPCR analysis of gene expression in sugarcane[J].Chin JTrop Crops,30(3): 274-278.[阙友雄，许莉萍，徐景 升，等，2009．甘蔗基因表达定量PCR 分析中内参基因的选择[J]．热带作物学报, 30(3): 274-278.]   \nREN R,DAI PH,LI M, et al., 2016. Selection and stability evaluation of reference genes for real-time quantitative PCR in dove tree (Davidia involucrata)[J]. Plant Physiol J, 52(10): 1565-1575.[任锐，戴鹏辉，李萌，等，2016．珙桐实时定量 PCR 内参基因的筛选及稳 定性评价［J]．植物生理学报，52(10)：1565-1575.]   \nSPIEGELAERE WD, DERN-WIELOCH J, WEIGEL R, et al., 2017. Reference gene validation for RT-qPCR, a note on different available software packages[J]. PLoS ONE,10(3): e0122515.   \nSUN LY, JIANG Z, JU Y, et al.， 2021. A potential endogenous gibberellin-mediated signaling cascade regulated floral transition in Magnolia×soulangeana ‘Changchun'[J]. Mol Genet Genomics,296(1): 207-222.   \nSUZUKI T, HIGGINS PJ, CRAWFORD D,2000. Control selection for RNA quantitation[J]. Biotechniques, 29(2): 332-337.   \nTHELLIN O, ZORZI W,LAKAYE B, et al., 1999. Housekeeping genes as intermal standards: use and limits[J]. JBiotechnol, 75(2): 291-295.   \nVANDESOMPELE J,PRETER KD, PATTYN F, et al.,2002. Accurate normalization of realtime quantitative RT-PCR data by geometric averaging of multiple internal control genes[J]. Genome Biol, 3(7): 467-470.   \nWANG NH, LU DY, CHANG PJ,et al.，2019. Selection of reference genes for qRT-PCR analysis in Magnolia biondi[J].Mol Plant Breed,17(11): 3674-3680.[王宁杭，陆丹迎，常 鹏杰，等，2019．望春玉兰实时定量 PCR分析中内参基因的筛选［J]．分子植物育种， 17(11): 3674-3680.]   \nWANG QY, CHANG PJ, SHEN YM, et al.， 2019. Reference genes for quantitative PCR in Magnolia sinostellata with heat stress[J]. J Zhejiang A & F Univ, 36(5): 935-942.[王倩颖, 常鹏杰，申亚梅，等，2019．景宁木兰热胁迫下实时荧光定量PCR 内参基因的筛选 [J]．浙江农林大学学报，36(5)：935-942.]   \nXIA NH,LIU YH, NOOTEBOOM HP, 2008.Flora of China: Magnoliaceae (Vol.7)[M]. Beijing: Science Press and Missouri Botanical Garden Press: 48-91.   \nXIE FL,XIAO P, CHEN D,et al., 2012. miRDeepFinder: a miRNA analysis tool for deep sequencing of plant small RNAs[J]. Plant Mol Biol, 80(1): 75-84.   \nXU BX,GUO QS, ZHU ZB,et al.， 2021. Selection and validation of reference genes for quantitative Real-time PCR analysis in Amana edulis[J]. China J Chin Mater Med, 46(4): 938-943.[徐碧霞，郭巧生，朱再标，等，2021．老鸦瓣实时定量PCR 内参基因的筛选 和验证［J]．中国中药杂志，46(4)：938-943.]   \nXU LF, XU H, CAO YW, et al.,2017. Validation of reference genes for quantitative real-time PCR during bicolor tepal development in asiatic hybrid lilies (Lilium spp.)[J]. Front Plant Sci, 8(1): 669.   \nZHANG MC, 2019. Selection of reference genes for gene expression in Rhododendron delavayi Franch[D].Yunnan: Yunnan University:39-43.[张明超，2019．马缨杜鹃基因表达内参的 筛选[D]．云南：云南大学：39-43.]   \nZHANG Y, JIANG WB, WEN ML,2009. On Tree species of Yulania spach and its application in landscaping[J].Chin Agric Sci Bull,25(11): 128-132.[张翼，姜卫兵，翁忙玲，2009．论 玉兰属树种及其在园林绿化上的应用[J]．中国农学通报，25(11)：128-132.]   \nZHOU L， ZHANG YC, CAI YM, et al.， 2020. Screening of qRT-PCR reference genes in different varieties and tissues of Zantedeschia hybrida[J]. Mol Plant Breed,18(12): 3971-3979. [周琳，张永春，蔡友铭，等，2020．彩色马蹄莲不同品种和组织qRT-PCR 内参基因筛 选［J]．分子植物育种，18(12)：3971-3979.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

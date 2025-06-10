@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of Probe Support on the Stall Characteristics of a Low-Speed Axial Compressor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hongwei $\\mathbf { M } \\mathbf { a } ^ { 1 }$ , ShaohuiLi1,2,Wei Wei1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.National KeyLaboratoryofScienceand Technologyonaero-Engines,Colaborative Inovation Centerof Advanced Aero-Engine, School of Energy & Power Engineering, Beihang University,Beijing,100191 China 2. Beijing Institute of Space Launch Technology,Nanyuan Rd.,Fengtai Dist., Beijing,10o076, China 3. China Academy of Aerospace Aerodynamics (CAAA), Yungangxi Rd.,Fengtai Dist., Beijing,10o074, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the effects of probe support on the stall characteristics of micro compressrs,an experiment was carried out on a large-scale low-speed research compressr according to the principle of geometric similarity.A cylindrical probe support intruding to $50 \\%$ blade span was mounted at $50 \\%$ chord upstream from the rotor blade leading edge.The static pressre rise characteristic of the compressor is measured, with and without the probe support respectively.The dynamic compressor behavior from pre-stallto full stall was also measured. The results indicate that the stability margin of the compressor is lowered after installing the probe support. The stall inception is aroused by modal wave disturbances.The disturbances developed into two stall cels smoothly before installing the probe support, while the disturbances first developed into a single stall cell then splittig nto two stall cells after installing the probe support.The presence of probe support lowers te initial intensity of the rotatingstallofthecompressor,while itdoesn't altertheintensityoftherotationstallafterthecompressorenters into full stall. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Probe support; Compressor; Stability Margin; Stall inception; Intensity/frequency of rotating stal ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aerodynamic probes are widely used to measure the aerodynamicperformance of compressors.However, placing probes in the compressor would cause flow blockage,which affects the original flow structure in the compressor[1].Itis commonlyassumed that the effect of probe on the flow filed is negligible,while it indeed causes a negative impact on the performance of compressors at all rotating speeds.The blockage effect is more severe in micro compressors,which will lower the stability margin and even trigger stall in some cases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Somerelativeresearcheshave been carried out to investigate the effects of probes on the aerodynamic performance of compressors.Simon Coldrick et al [2] per formed a 3D numerical simulation of a cylindrical probe fixed at the leading-edge of a stator at mid passage.They concluded that the probe changes the velocity and pressure distribution around the probe. Lepicovsky [3] carried out an experimental investigation of distortions of the rotor exit flow field caused by a rotating aerodynamic probe mounted in the rotor. The results show that the presence of probe leads to a depression in pressure and axial velocity component.Moreover, He,et al [4-6] conducted both experimental and numerical research on the effects of airfoil-probes on the compressor performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "They concluded that the airfoil-probes have a negative influence on the compressor aerodynamic performance at both design and off-design operating conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actually, it will cause inlet distortion to the compressor after inserting the probe upstream of the compressor rotor. Zhang,et al [7] conducted experimental research on the correlation between the inlet distortion and the rotating stall, they conclude that the asymmetric flows caused by the inlet distortion initiate large scale disturbance before the onset of rotating stall, but the frequency of rotating stall is not altered. Jiang,et al [8] also performed experimental research on the influence of inlet distortion on the stall characteristics of a low speed axial compressor. The results indicate that the inlet distortion changes both the stall inception patterns and the intensity of rotation stall. Lin,et al [9] found the stall inception phenomenon of long-to-short length-scale transition in a compressor with inlet distortion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Until now, few researches on the effects of probe on the stall characteristics of compressors have been published. This paper presents an experimental investigation of effects of the probe installed upstream of the rotor on the stall characteristics (stall inception pattern and intensity/frequency of rotation stall) of an axial compressor. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Test Facility and Measurement Layout ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment is carried out on the low-speed largescale axial compressor (LLAC) in Beihang University. The compressor consists of17 rotor blades with C4 airfoil.Detailed design parameters are given in Tablel. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The geometrical size of the probe support is set according to the geometrical similarity principle,this paper aims at investigating the effect of probe on the stall characteristics of micro compressors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 1,a cylindrical probe support intruding to $50 \\%$ blade span was installed at $50 \\%$ chord upstream from the rotor leading edge. The diameter of the cylindrical probe support is $4 0 \\mathrm { m m }$ (length $ { 1 0 0 }  { \\mathrm { m m } } )$ ， and it occupies a projected area ratio of $0 . 8 \\%$ to the whole flow passage. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7099f483da9de00bd92b1fa180ca71f6d23f4de0b0df9339186280f9c05bea6.jpg",
+        "table_caption": [
+            "Table1 Parameters of the compressor rotor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Value</td></tr><tr><td>Outer diameter (m)</td><td>1</td></tr><tr><td>Hub to tip ratio</td><td>0.6</td></tr><tr><td>Design speed (r/min)</td><td>1200</td></tr><tr><td>Design mass flow rate (kg/s)</td><td>22.4</td></tr><tr><td>Blade chord (mm)</td><td>180</td></tr><tr><td>Blade height (mm)</td><td>197</td></tr><tr><td>Blade camber angle (degree)</td><td>26.5</td></tr><tr><td>Blade stagger angle (degree)</td><td>33.4</td></tr><tr><td>Rotor tip clearance(mm)</td><td>3</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Four static pressure taps are distributed uniformly at both $1 5 0 \\%$ chord upstream from the rotor leading edge and $2 5 0 \\%$ chord downstream from the rotor trailing edge on the casing to measure the overall compressor performance.The measurement error of the static pressure taps are less than $0 . 1 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eight dynamic pressure taps named as PO,P1, P2, P3, P4,P5,P6,P7 respectively are located uniformly around the annulus on the casing at $10 \\%$ chord upstream from the rotor leading edge (Figure 2） to record the signal from near stall condition to full stall. The sampling rate is $2 0 ~ \\mathrm { k H z }$ .The measurement error of the dynamic pressure tapsare less than $0 . 1 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4753c2782840d76d1bcc109b78f7f230c4786d227454a50aa9150e4c94f54f3c.jpg",
+        "img_caption": [
+            "Fig.1The tested axial compressor "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/683914daae7a257805434ec29f6718beaf3a7fa1740a8804dc25c39ec5c7264b.jpg",
+        "img_caption": [
+            "Fig.2Measurement layout "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effects of probe support on the stability margin of the compressor ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment is carried out at the rotational speed of $9 0 0 ~ \\mathrm { r / m i n }$ both before and after inserting the probe support.The overall compressor performance in terms of the static pressure rise coefficient and the mass flow coefficient is shown in Figure 3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mass flow coefficient $\\left( \\Phi \\right)$ , pressure rise coefficient $( \\mathrm { C p } )$ ,and the stability margin (S.M.) are defined as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC p = \\frac { P o u t - P i n } { 0 . 5 \\rho U t ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = \\sqrt { 2 ( P O - P s O ) / \\rho } / U t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS . M . = \\left( \\frac { C p _ { S } / \\varphi _ { S } } { C p _ { D } / \\varphi _ { D } } - 1 \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where Pin is the averaged static pressure at $1 5 0 \\%$ chord upstream from the rotor leading edge, Pout is averaged static pressure at $2 5 0 \\%$ chord downstream from the rotor trailing edge,PO is the atmospheric pressure, $ { \\mathrm { P s 0 } }$ is the inlet static pressure on the endwall,Ut is the rotor blade tip tangential velocity, $\\mathrm { { C p } _ { \\mathrm { { s } } } }$ and $\\varphi _ { \\mathrm { S } }$ are the pressure rise coefficient and mass flow coefficient at stability limit condition respectively, $\\mathrm { C p } _ { \\mathrm { D } }$ and $\\boldsymbol { \\Phi _ { \\mathrm { D } } }$ are the pressure rise coefficient and mass flow coefficient at design point respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asseen from Figure 3, the compressor enters into unstable operating point at the condition of $\\scriptstyle { \\mathfrak { p } } = 0 . 5 1 2$ 0 $\\mathrm { ( C p = }$ 0.542)before placing the probe support, while the compressor enters into unstable operating point at the condition of $\\scriptstyle { \\mathfrak { p } } = 0 . 5 1 5$ $\\mathrm { ( C p { = } 0 . 5 4 ) }$ after placing the probe support.Hence,the stability margin(S.M.) of the compressor before installing the probe support is $2 5 . 1 \\%$ ,and it is $23 . 9 \\%$ after installing the probe support. So the stall margin of the compressor is lowered by $1 . 2 \\%$ due to the presence of the probe support. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2bb778876c6cc03d2b84329a1a28caa95307050e86a346dad7e99d2eeb5d09f.jpg",
+        "img_caption": [
+            "Fig.3Overall static pressure rise characteristics "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thestall characteristics of the compressorbefore installing probe support ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dynamic compressor behaviors from near-stall to full stall are obtained by throttling the compressor. As wavelet [1O] is a great tool to analyze the raw signal both in time-domain and in frequency-domain,here wavelet analysis is applied to obtain the stall characteristics including stall inception pattern, intensity and frequency of rotating stall, etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 depicts a segment of the original data series (a),the corresponding wavelet spectrum (b) and Fourier-based power spectrum (c） for probe PO before installing probe support. The data segment was taken from $- 3 0$ rotor revolutions(3O revolutions prior to stall onset） to 30 rotor revolutions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 is the variation of mass flow coefficient within the throttling process.By observing these two figures, one can see that the mass flow coefficient changes slowly between -3O and -8 rotor revolutions,and the disturbances are weak within this time period.The mass flow coefficient drops quickly from -8 to O rotor revolutions, and this is in correspondence with the rapid increasing of the perturbation intensity aroused by modal wave.There isa sharp decrease of mass flow coefficient at O rotor revolutions,which signifies the stall onset of the compressor. Then the compressor enters a region named as ‘the frequency mixing region (FMR)’ proposed by NIE Chaoqun，from O to 5 rotor revolutions marked with black dashed-line.The disturbances aroused by modal waves developed into two rotation stall cells within this time period. The mass flow coefficient continues to drop in the following throttling process,but it was reduced much slower than before.The mass flow coefficient almost stays the same from about 37 rotor revolutions, which indicates that the compressor comes into completely full stall. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c8c05009df365b6d10dc57a8da90423601784bf7e5d1863ab11e9ddd2baa1e0.jpg",
+        "img_caption": [
+            "Fig.4Signal of the stall inception process "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/941cc2574079119296df03d466044e307a6eacce5b39fec480e12b781799844e.jpg",
+        "img_caption": [
+            "Fig.5Variation of mass flow in the stall inception process "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 6(a),the original pressure signals from all eight probes between -6 to 3 rotor revolutions are placed side-by-side. Figure 6(b) shows the wavelet spectrum from O to 4 rotor revolutions.The signal from probe PO is placed at both the bottom and top to represent the cyclic placement of the probes.Two disturbances(A and B) are clearly shown in Figure 6,and the intensity of disturbance Ais much bigger than B.Both the disturbances A and B traveled around the compressor annulus from probe to probe at $71 \\%$ rotor speed before the onset of rotating stall.With the increasing of both scale and intensity, the disturbance A grows into a stall cell at O revolution firstly. The intensity of disturbance B is increasing rapidly at the same time.In the following2 revolutions,it develops into a stall cell whose intensity and scale is the same with stall cell A. The two stall cells propagate at $67 \\%$ rotor speed,which is a little lower than the rotation speed of the former disturbances.The $134 \\%$ frot (frot means rotating frequency） shown in Figure 4(c) is the double passing frequency of the two stall cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The stall characteristics of the compressor after installing probe support ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 gives the same kind of results as Figure 4 after installing the probe support.Figure 8 is the variation of mass flow coefficient within the throttling process. One can see clearly that the mass flow coefficient was reduced slowly between -3O and -15 rotor revolutions, which indicates that the compressor is still in stable operation conditions within this time period. The disturbances aroused by modal wave are increasing in intensity at a large scale from -15 to O rotor revolutions, causing the mass flow coefficient drops quickly. The rapid shift of mass flow coefficient at O rotor revolution signifies the stall onset of the compressor,and the compressor enters into the frequency mixing region (FMR) at the same time. Within the time period of about 2 rotor revolutions, the disturbances are merged into a large stall cell. However, this large stall cell is not stable,and the compressor enters into the frequency mixing region (FMR） again at about 15 revolutions.Within the time period of 1O rotor revolutions,the single stall cell splits into two stall cells completely. The following process is almost the same as that before installing the probe support.The compressor enters into completely full stall from about 45 rotor revolutions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 9, the original pressure signals and corresponding wavelet spectrum from all eight probes between -2 to 3 rotor revolutions are placed side-by-side. One can also see two disturbances(A and B) in Figure 9,and the intensity of disturbance Ais muchhigher than B.what's differentis thatthedisturbanceAissloweddown ever since it passes through P4,while the disturbance B is almostnotaffected.Withthedecelerationofdisturbance A, the two disturbances are merging gradually along with traveling around the compressor annulus.Finally, the two disturbances merged into a single stall cell at about 2 rotor revolutions. The single stall cell travels at $67 \\%$ rotor speed. One could find that the turning point P4 is located closest to the probe support,so it is sure that the decelerationofdisturbanceAistheresultofthe interac tion of the wake generated from the probe support. As shown in Figure 9, the intensity ofdisturbance Bis much weaker than disturbance A,so the propagation of disturbance B is almost not affected by the interaction with the wake generated from the probe support. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f7e265dadcfa730b85545b16dd85ce484622e132be1abe2815abfada2b80e77.jpg",
+        "img_caption": [
+            "Fig.6Development and propagation of stall cell "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/275603f485aaabae9de73d0147089c87650fb7a7463607d318850f5ebe6074b3.jpg",
+        "img_caption": [
+            "Fig.7Signal of the stall inception process "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc6e2b112cefe8e7f5cae4d56316c944720b117928d9c121d80b38c7e54bb25b.jpg",
+        "img_caption": [
+            "Fig.8Variation of mass flow in the stall inception process "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O gives the original pressure signals and corresponding wavelet spectrum from all eight probes between 10 to 17 rotor revolutions. One can see clearly that the single stall cell began to split at about 13 rotor revolutions at probe P3.The single stall cell splits into two stall cells in the following 2 rotor revolutions. The two stall cells also propagate at $67 \\%$ rotor speed,which is the same with that before installing probe support. The $67 \\%$ frot shown in Figure 7(c) corresponds to the passing fre quency of the single stall cell, while the $134 \\%$ frot corresponds to the passing frequency of the two stall cells. Note that the intensity of the two stall cells is larger than that of the single stall cell,as the amplitude of the raw pressure signal is higher after the splitting of the stall cell Taking a close look at both Figure 4 and Figure 7, one could find that the raw pressure signals after the compressor entering into full stall are the same before and after installing the probe support. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the presence of probe support lowers the initial intensity and frequency of rotating stall, but it doesn't alter the final intensity and frequency of rotating stall.This is in accordance with the ‘M-G' model[11-12], which points out that stall characteristics of a compressor isrelated with the systematic characteristics of the com pressor(volume of the plenum, flow area, damping characteristics of the throttle,etc)，while the presence of probe support which occupying $0 . 8 \\%$ of the whole flow area is actually an external perturbation, which is merely capable of urging the compressor to enter into rotating stall in advance,but doesn't change the natural characteristics of the compressor. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/50d2844a7d5a83a99d250dc6b1b3103b48a751f280617200607bd3170bae036d.jpg",
+        "img_caption": [
+            "Fig.9Stall cell merging process "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7fa47d98d40bd122fe0b797e9469c5da601e222a8ea7f88af8e2999eccb2504.jpg",
+        "img_caption": [
+            "Fig.10 Stall cell splitting process "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1） The presence of probe support lowers the stability margin by urging the compressor to enter into unstable conditioninadvance. (2） The stall inceptions are aroused by modal waves both before and after installing the probe support,which means that the presence of probe support doesn't alter the stall incepting pattern. (3) The two disturbances developed into two stall cells smoothly before installing probe support,and it lasts for about 45 revolutions from stability limit to full stall. (4) The two disturbances first developed into a single stall cell then the single stall cell splitting into two stall cells afterinstalling the probe support.It lasts fora bit longer (about 6O revolutions) from stability limit to full stall. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5) The intensity of the initial rotating stall is lowered after placing the probe support,but the intensity of the final rotating stall is the same with that before installing probe support. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This paper presents the effects of probe support on the stall characteristics of a compressor.Future studies will be centered on how to reduce the effects and how to revise the measurement error. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was funded by the National Natural Science Foundation of China (Grant No. 51161130525 and 51136003),and the 111 Project, No.B07009. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dudziniski T J,Krause L N. Effect of Inlet Geometry on Flow Angle Characteristics of Miniature Total Pressure Tubes.NACA TND-6406,1971.   \n[2]Simon Coldrick,Paul Ivey,Roger Wells. Considerations for Using 3-D Pneumatic Probes in High-Speed Axial Compressors.Journal of Turbomachinery 2Oo3，125: 149-154.   \n[3]Lepicovsky J. Effects of a Rotating Aerodynamic Probe on the Flow Field of a Compressor Rotor.NASA/CR2008-215215,2008.   \n[4]XIANG Honghui, REN Minlin, MA Hongwei, et al. Experimental and numerical investigation of airfoil probe influences on the performance of compressor cascade. Gas Turbine Experiment and Research 2010,23(4):10- 16.[in Chinese]   \n[5]XIANG Honghui, REN Minlin,MA Hongwei, et al. Effect of airfoil probes on the experimental results of axial flow compressor performance.Gas Turbine Experiment and Research 2008,24(4): 28-33.[in Chinese]   \n[6]HE Xiang,MA Hongwei, REN Minglin,XIANG Honghui.Investigation of the Effects of Airfoil-probes on the Aerodynamic Performance of an Axial Compressor. Chinese Journal ofAeronautics 2012,25(4): 517-523.   \n[7]Zhang Jingxuan,Tong Zhiting,Nie Chaoqun.Experimental investigation of the correlation between the inlet distortion and the rotating stall.Journal of Aerospace Power 2007,22(5): 803-807.[in Chinese] [8]Jiang Huabing,Lu Yajun, Yuan Wei, et al. Influence of inlet distortion on the stall character of a low speed axial compressor. Journal of Aerospace Power 20o8,23(2): 355-360.[in Chinese] [9]Feng Lin,Meilin Li, Jingyi Chen.Long-to-short lengthscale transition:a stall inception phenomenon in an axial compressor with inlet distortion.Journal of Turbomachinery 2006,128:130-140.   \n[10]Feng Lin,Jingyi Chen,Meilin Li.Wavelet analysis of rotor-tip disturbances in an axial-flow compressor. Journal of Propulsion and power 2004,20(2): 319-333.   \n[11]Moore FK,Greitzer E M.A theory of post-stall transients in axial compression systems:Part I:Development of equations.ASME Journal of Engineering for Gas Turbines and Power 1986,108:68-76.   \n[12]Moore FK,Greitzer E M.A theory of post-stall transients inaxial compression systems: Part I: Application. ASME Journal of Engineering for Gas Turbines and Power1986,108:231-239. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

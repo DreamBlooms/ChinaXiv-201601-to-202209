@@ -1,0 +1,220 @@
+# 甘蔗ScNRAMP基因家族的全基因组鉴定与生物信息学分析
+
+刘营1,2，尹泽1.2，江姚兰1,2，周定港1,2,3\*
+
+（1.湖南科技大学 生命科学学院，湖南 湘潭411201；2.经济作物遗传改良与综合利用湖南省重点实验室，湖南 湘潭411201；3.福建农林大学农业部福建甘蔗生物学与遗传育种重点实验室，福州350002）
+
+摘要：NRAMP 蛋白（natural resistance-associated macrophage proteins）家族在植物响应重金属胁迫时起重要作用，能够转运 $\mathrm { F e } ^ { 2 + }$ 、 $ { \mathbf { M } }  { \mathrm { n } } ^ { 2 + }$ 、 $Z \mathrm { n } ^ { 2 + }$ 和 $\mathrm { C d } ^ { 2 + }$ 等重金属离子。为探究甘蔗ScNRAMP基因家族的特征，该文基于甘蔗割手密基因组鉴定了ScNRAMP基因家族，并进行了理化特性、基因结构、顺式作用元件、保守基序、结构域和进化关系等分析。结果表明：甘蔗 ScNRAMP基因家族含有29个成员，不均匀分布在19条染色体上；编码蛋白均为不稳定蛋白，无信号肽，亚细胞均定位在质膜上；各成员保守基序有6\~10个不等，跨膜数有6\~12个不等，二级结构主要构成元件为 $\mathfrak { a }$ -螺旋和无规则卷曲；顺式作用元件分析表明甘蔗ScNRAMP基因家族可能通过激素代谢参与逆境胁迫和生长发育等生物过程；利用割手密的 RNA-seq 转录组表达数据进行了组织特异性分析，发现 ScNRAMP 在甘蔗不同发育阶段的叶和茎中具有时空表达特性；进化树分析将甘蔗ScNRAMP家族成员分为3个亚家族（I，Ⅱ和II）。该研究在全基因组水平上系统地鉴定了现代栽培甘蔗祖先种之一割手密NRAMP基因家族，为进一步了解甘蔗NRAMP基因提供了基础，也为后续甘蔗重金属研究提供了重要候选基因。
+
+关键词：甘蔗，割手密，ScNRAMP，基因家族，重金属胁迫中图分类号：Q943 文献标识码：A
+
+# Identification and bioinformatics analysis of ScNRAMP gene family in sugarcane
+
+LIU Ying1,2,，YIN Zel1,2, JIANG Yaolan1,2,ZHOU Dinggang1.,2.3\* (1.SchoolofLife Science,Hunan UniversityofScience andTechnology,Xiangtan4112O1,Hunan,China; 2. Hunan Key Laboratory of Economic Crops Genetic Improvement and Integrated Utilization,Xiangtan 411201, Hunan,China; 3. Key Laboratory of Sugarcane Biology and Genetic Breeding,Ministry of Agriculture,Fujian Agriculture and Forestry University,Fuzhou 350oO2,China）
+
+Abstract: NRAMP (natural resistance-associated macrophage proteins)，which can transport metal ions such as $\mathrm { F e } ^ { 2 + }$ $ { \mathbf { M } }  { \mathrm { n } } ^ { 2 + }$ $Z \mathrm { n } ^ { 2 + }$ and $\mathrm { C d } ^ { 2 + }$ , plays essential role in response to heavy metal stress in plant. To better understand the characteristics of the ScNRAMP gene family, bioinformatics methods were employed to identify and comprehensively analyze ScNRAMP gene family which includes protein physicochemical properties, gene structure,conserved motif, domain, cisacting elements and evolutionary relationships. The results were as follows:A total of 29 ScNRAMP genes were identified in the Saccharum spontaneum genome; These 29 genes were unevenly distributed on 19 chromosomes,and contained 6 to 10 conserved motifs; The encoded proteins are all unstable proteins with no signal peptides and the subcellular locations are all on the plasma membrane; The number of membranes ranges from 6 to 12,and the secondary structure is composed of $\mathfrak { a }$ -helix and random coils as the main components； Moreover，cis-regulatory elements analysis suggested that ScNRAMP may be involved in regulation of stress and development by involving in phytohormone metabolism; The tissue-specific analysis were studied usingpublicly available gene expression data in ten different tissues and at different developmental stages, which showed that spatiotemporal expression of 29 ScNRAMP genes in the leaves and stems of sugarcane at different development stages; Phylogenetic analysis showed that the 29 ScNRAMP genes could be divided into three subfamilies (I, II and II).This study could be useful to beter understand the ScNRAMP gene family and provide significant candidate genes that respond to the stress of heavy metals in sugarcane.
+
+Key words: sugarcane, Saccharum spontaneum,ScNRAMP,gene family, heavy metal stress
+
+甘蔗(Saccharum spp.）是重要的一年生或多年生糖料作物，属单子叶植物纲(Monocotyledoneae)，禾本科(Poaceae)，甘蔗属(Saccharum L.)(Irvine,1999)。甘蔗是一种高光合效率的C4植物，具有生物量大、 $\mathrm { C O } _ { 2 }$ 补偿点低、耐干旱、适应性广和产量高等特点(方静平等,2014)。甘蔗是异源多倍体，其倍性水平从 $5 \times$ 到 $1 6 \times$ 不等，其基因组大小约为10Gb(Chen et al.,，2011)。现代栽培甘蔗是世界上最重要的食糖来源，占全世界食糖总量的$80 \%$ (Liu et al., 2020)。
+
+NRAMP转运体在离子稳态的维持、尤其是二价金属离子的转运上发挥着重要作用，且该蛋白家族在进化过程中高度保守(Nevo&Nelson,2006)。哺乳动物NRAMP基因的氨基酸序列与酵母、水稻和果蝇NRAMP基因的氨基酸序列相似性分别为 $4 6 \%$ 、 $58 \%$ 和$73 \%$ (Belouchietal.,1995)。在植物吸收重金属的过程中，NRAMP 蛋白等膜转运蛋白发挥着重要作用(Celier etal.,1995)。Mäser et al.(2001)对拟南芥的6个 NRAMP基因进行克隆和系统进化分析发现：6个家族成员被分为两个亚家族，其中AtNRAMP1和AtNRAMP6位第一亚家族；而AtNRAMP2\~AtNRAMP5属于第二亚家族。AtNRAMP1蛋白是模式生物拟南芥中的主要高亲和性锰转运蛋白，定位于质膜，其功能是将重金属转运至细胞质(Cailliatteetal.,2010)。Pottieretal. (2015)研究发现诱导表达AtNRAMP4的酵母株突变会导致其镉和锌的吸收下降，而对于铁的吸收量没有改变，此研究提示人为诱导NRAMP 转运蛋白的突变可用于降低动植物对Cd的吸收和转运。不同植物的NRAMP家族成员具有组织表达特异性，如AtNRAMP1在根中高表达(Castaings et al.,2016)，AtNRAMP2 则主要在根表皮和根尖区域表达(Gao etal.,2018)；OsNRAMP1在营养生长阶段在根部高表达，而在生殖生长期时在叶片和茎中高表达(Takahashi etal.,2011)。
+
+甘蔗是重要的经济作物，但与其他植物一样也面临着重金属污染问题。重金属对于植物的生长起着十分重要的作用，一些二价重金属离子 ${ \mathrm { C u } } ^ { 2 + }$ 、 $Z \mathrm { n } ^ { 2 + }$ 、 $\mathbf { M } \mathbf { n } ^ { 2 + }$ 等，是植物生长必需的微量元素；但有些重金属的过度吸收（如 $\mathrm { C d } ^ { 2 + }$ 、 $\mathrm { P b } ^ { 2 + }$ 等）则会造成植物的重金属毒害甚至影响产量(Rosa-Santos et al.,2020)。植物 NRAMP蛋白的功能研究已在拟南芥(Thomineet al.,2000)、水稻(Luo et al.，2018)、土豆(Tian et al.，2021)、大豆(Qin et al.,2017)和油菜(Meng et al.,2017)等植物中广泛报道，而目前还没有关于甘蔗 NRAMP 蛋白的研究报道。研究基于甘蔗割手密种的全基因组序列，利用生物信息学的方法筛选甘蔗 ScNRAMP 基因家族成员，并对其进行进化树构建、染色体定位、基因结构分析和蛋白特性分析等，为后续该基因家族的研究提供参考。
+
+# 1材料与方法
+
+# 1.1材料
+
+AtNRAMP 基因家族的蛋白序列来源于拟南芥 TAIR 数据库；甘蔗全基因组和基因注释文件来源于 http://www.life.illinois.edu/ming/downloads/Spontaneum_genome/ (Zhang et al.,2018)。
+
+# 1.2方法
+
+# 1.2.1甘蔗ScNRAMP基因家族的鉴定
+
+以拟南芥NRAMP蛋白序列作为种子序列，在 TBtools（版本号为v1.0971，Chen et al.,2020）进行第一次 blastp，在 NCBI进行第二次 blastp，再结合 SMART（http://smart.embl-heidelbreg.de/）对候选基因的氨基酸序列结构域进行鉴定，手动剔除不含NRAMP保守结构域的序列，保留下的即为甘蔗ScNRAMP基因家族成员。
+
+# 1.2.2编码蛋白理化特性
+
+利用ExPASy 在线软件（https://us.expasy.org/tools/protparam.html/）对 ScNRAMP 基因家族编码蛋白的等电点、分子量、序列长度、总平均疏水性、不稳定系数和脂溶指数等理化性质进行分析预测；利用 SignalP v4.1（http://www.cbs.dtu.dk/services/SignalP-4.1/）和CELLO v2.5（http://ello.life.nctu.edu.tw/）分别对 29 条蛋白序列进行信号肽预测和亚细胞定位分析。
+
+# 1.2.3蛋白二级结构和跨膜结构分析
+
+利用 SOPMA(https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page $\scriptstyle = _ { I }$ /NPSA/npsa_sopma.html)分析 NRAMP 蛋白的二级结构；利用 TMHMM Server v2.0 （http://www.cbs.dtu.dk/services/TMHMM/）分析该蛋白家族的跨膜结构。
+
+1.2.4甘蔗ScNRAMP基因保守基序、结构域及基因结构分析
+
+利用MEME(htps://meme-suite.org/meme/ )和 NCBI-CDD(https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi）检测甘蔗 ScNRAMP家族基因中所存在相似度较高的基序（motif)和保守结构域（domain)；利用基因组注释文件，获得家族成员内含子及外显子分布情况；最后，利用TBtools 软件对其进行可视化分析。
+
+1.2.5甘蔗ScNRAMP基因家族顺势作用元件分析
+
+提取ScNRAMP 基因上游3OOObp序列作为甘蔗NRAMP基因的启动子。利用PlantCARE（http:/bioinformatics.psb.ugent.be/webtools/plantcare/html/）对启动子区域顺势作用元件进行分析。
+
+# 1.2.6甘蔗ScNRAMP基因的染色体定位
+
+运用TBtools软件，结合甘蔗基因组注释文件和家族成员IDlist，将结果可视化。
+
+1.2.7甘蔗ScNRAMP家族进化树的构建
+
+使用本地软件 MEGAX完成多序列比对并采用邻接法(NeighborJoining)构建系统进化树，其中校验参数(bootstrap)设置为1000次，其余均设置为默认参数；利用在线 Evolview软件(https://evolgenius.info//evolview-v2/#login）对进化树进行绘制编辑。
+
+# 1.2.8甘蔗ScNRAMP基因的表达分析
+
+利用割手密的 RNA-seq 转录组表达数据进行甘蔗 ScNRAMP 基因的表达分析。割手密的转录组RNA-seq表达谱下载自割手密基因组数据库(Lietal.,2020)。筛选得到ScNRAMP基因家族成员在不同时期不同组织中的表达量（FPKM值)，用TBtools进行聚类，绘制热图。
+
+# 2结果与分析
+
+# 2.1甘蔗NRAMP蛋白理化特性
+
+从甘蔗割手密基因组中共鉴定到29个甘蔗ScNRAMP基因家族成员，其一级结构和理化性质如表1所示。结果表明：甘蔗 ScNRAMP基因家族成员的氨基酸总数在334\~1272个之间，氨基酸长度平均为563，分子量维持在 $5 5 ~ 0 0 0 ~ \mathrm { D a }$ 左右；等电点跨度较大，为4.77\~9.43之间；家族成员的不稳定系数大部分低于 $40 \%$ ，只有7个成员不稳定系数介于$4 0 \% { \sim } 4 8 \%$ 之间；家族成员平均亲水系数介于0.015\~0.949 之间；29个甘蔗 ScNRAMP 蛋白均无信号肽，亚细胞定位分析表明成员均定位在质膜上。
+
+# 2.2蛋白二级结构和跨膜结构分析
+
+甘蔗NRAMP蛋白二级结构和跨膜结构分析如表2所示。结果显示：ScNRAMP基因家族的二级结构主要是由 $\mathfrak { a }$ -螺旋、无规则卷曲、延伸链和 $\beta$ -转角组成，其中 $\mathfrak { a }$ -螺旋比例最高，达到 $3 6 . 7 1 \% { \sim } 6 4 . 3 2 \%$ ， $\beta$ -转角所占比例最小，占比仅为 $1 . 6 2 \% { \sim } 5 . 0 6 \%$ ；蛋白家族的二级结构较为整齐，除 Sspon.03G0024310-2B 和 Sspon.03G0024310-1A 是无规则卷曲 $> \alpha \mathrm { . }$ 螺旋 $>$ 延伸链 ${ > } \beta$ -转角，其余家族成员均为 $\mathbf { \boldsymbol { a } } .$ 螺旋 $>$ 无规则卷曲 $>$ 延伸链 ${ > } \beta$ -转角；29个甘蔗NRAMP家族成员均有跨膜结构，其数量为6\~12个不等。表明甘蔗NRAMP蛋白为跨膜蛋白，可能与其转运重金属离子的功能相适应。
+
+# 2.3甘蔗ScNRAMP基因保守基序、结构域及基因结构分析
+
+对甘蔗 ScNRAMP 基因的保守基序、结构域及基因结构分析如图1所示。保守基序分析发现motif1基序高度保守，在割手密29个NARAMP家族成员中均存在；个别家族成员存在两个 motif 9，如 Sspon.02G002160-2C、Sspon.02G0057810-1D、Sspon.02G002160-1A和Sspon.02G0021270-1A等；大部分家族成员当中有9个保守基序，而成员Sspon.02G0029680-1A、Ssp0n.05G0038800-1D 和 Ssp0n.02G0057180-1D 中最少，仅有6个保守基序（图1和表3)。保守基序的差异可能暗示该基因家族成员之间在功能上存在差异。
+
+基因结构分析发现ScNRAMP基因家族全都含有内含子，且内含子数目差异较大（为2\~11个不等)；部分基因成员在 $5 ^ { \prime }$ 末端和3'末端不含非翻译区（UTR）。
+
+保守结构域分析发现，除Sspon.02G0057810-1D、Sspon.05G0038800-1D、Sspon.01G0025840-2B、Sspon.01G0061080-1D 和 Ssp0n.01G0025840-1A 这 5 位成员的保守结构域为 Nramp superfamily，其余 24 位家族成员的结构域均为 Nramp。
+
+表1甘蔗NRAMP蛋白理化特性  
+Table 1 Protein physical and chemical properties of NRAMP in sugarcane   
+
+<html><body><table><tr><td>ID</td><td></td><td>分</td><td>等电点</td><td>不稳定系</td><td></td><td>亲水性的平均值</td><td></td></tr><tr><td>Sspon.02G0029680-2B</td><td>547</td><td>59 123.60</td><td>4.85</td><td>31.77</td><td>111.35</td><td>0.459</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.01G0005860-2B</td><td>516</td><td>56 346.08</td><td>5.74</td><td>34.63</td><td>113.99</td><td>0.541</td><td>质膜 plasma membrane</td></tr><tr><td>Sspon.02G0029690-2D</td><td>588</td><td>64 938.64</td><td>9.08</td><td>41.70</td><td>107.04</td><td>0.270</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0029680-3C</td><td>536</td><td>57 978.41</td><td>4.83</td><td>33.99</td><td>113.26</td><td>0.472</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0029690-1A</td><td>538</td><td>58 034.37</td><td>4.85</td><td>35.55</td><td>111.78</td><td>0.468</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.01G0005860-1P</td><td>551</td><td>60 825.41</td><td>6.28</td><td>36.08</td><td>111.38</td><td>0.464</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0029680-4D</td><td>498</td><td>53 799.21</td><td>4.77</td><td>35.72</td><td>105.48</td><td>0.388</td><td>质膜 Plasma membrane</td></tr></table></body></html>
+
+<html><body><table><tr><td>Sspon.01G0005860-1A</td><td>507</td><td>55 478.08</td><td>6.17</td><td>33.79</td><td>112.76</td><td>0.525</td><td>质膜Plasma membrane</td></tr><tr><td>Sspon.02G0029680-1A</td><td>462</td><td>51 417.00</td><td>9.59</td><td>40.15</td><td>103.81</td><td>0.147</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.08G0003780-3C</td><td>516</td><td>55 708.21</td><td>8.03</td><td>33.01</td><td>119.05</td><td>0.572</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0021270-1A</td><td>548</td><td>59 625.14</td><td>6.83</td><td>38.01</td><td>118.87</td><td>0.563</td><td>质膜Plasma membrane</td></tr><tr><td>Sspon.04G0018970-2B</td><td>603</td><td>65 379.86</td><td>9.05</td><td>40.05</td><td>108.56</td><td>0.483</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0021260-1A</td><td>546</td><td>58 757.48</td><td>6.59</td><td>38.89</td><td>124.14</td><td>0.721</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.08G0003780-1A</td><td>490</td><td>53 180.59</td><td>8.93</td><td>31.98</td><td>119.96</td><td>0.578</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.08G0003780-4D</td><td>488</td><td>52 797.32</td><td>9.34</td><td>33.67</td><td>120.86</td><td>0.631</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.04G0018970-3C</td><td>485</td><td>52 442.10</td><td>8.83</td><td>33.01</td><td>120.06</td><td>0.755</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0021260-2C</td><td>514</td><td>55 179.28</td><td>6.26</td><td>37.66</td><td>125.97</td><td>0.748</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.04G0018970-1A</td><td>504</td><td>54 945.09</td><td>9.43</td><td>38.69</td><td>116.11</td><td>0.612</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.04G0018970-4D</td><td>688</td><td>73 842.91</td><td>9.38</td><td>47.12</td><td>98.30</td><td>0.267</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0021270-2C</td><td>450</td><td>49 093.10</td><td>8.07</td><td>34.03</td><td>124.80</td><td>0.696</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.08G0003780-2B</td><td>494</td><td>53 497.17</td><td>9.19</td><td>36.45</td><td>124.51</td><td>0.646</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.05G0038800-1D</td><td>435</td><td>46 989.04</td><td>6.93</td><td>34.97</td><td>108.80</td><td>0.530</td><td>质膜Plasma membrane</td></tr><tr><td>Sspon.03G0024310-3C</td><td>717</td><td>77 854.58</td><td>5.02</td><td>37.10</td><td>103.07</td><td>0.334</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.03G0024310-2B</td><td>1 272</td><td>138 326.42</td><td>5.90</td><td>46.56</td><td>92.56</td><td>0.029</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.02G0057810-1D</td><td>308</td><td>33 144.69</td><td>7.70</td><td>41.30</td><td>137.40</td><td>0.949</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.03G0024310-1A</td><td>1267</td><td>138 008.88</td><td>5.97</td><td>46.07</td><td>92.38</td><td>0.015</td><td>质膜Plasma membrane</td></tr><tr><td>Sspon.01G0025840-2B</td><td>456</td><td>49 749.03</td><td>6.40</td><td>31.01</td><td>125.68</td><td>0.812</td><td>质膜Plasma membrane</td></tr><tr><td>Sspon.01G0061080-1D</td><td>458</td><td>50 027.17</td><td>6.05</td><td>32.71</td><td>124.48</td><td>0.742</td><td>质膜 Plasma membrane</td></tr><tr><td>Sspon.01G0025840-1A</td><td>334</td><td>36 374.03</td><td>6.78</td><td>30.42</td><td>122.54</td><td>0.734</td><td>质膜 Plasma membrane</td></tr></table></body></html>
+
+# 表2甘蔗NRAMP蛋白二级结构组成及跨膜结构预测结果
+
+Table 2 Secondary structure composition and transmembrane structure prediction of sugarcane NRAMP protein   
+
+<html><body><table><tr><td>基因 Gene</td><td>α-螺旋 α-helix (%)</td><td>延伸链 Extended chain (%)</td><td>β-转角 β-turn (%)</td><td>无规则卷曲 Random coil(%)</td><td>跨膜结构数 Number of</td></tr><tr><td></td><td>57.22</td><td>11.15</td><td>3.66</td><td>27.97</td><td>transmembrane 11</td></tr><tr><td>Sspon.02G0029680-2B Sspon.01G0005860-2B</td><td>57.56</td><td>10.08</td><td>3.10</td><td>29.26</td><td>10</td></tr><tr><td>Sspon.02G0029690-2D</td><td>53.57</td><td>12.59</td><td>3.06</td><td>30.78</td><td>11</td></tr><tr><td>Sspon.02G0029680-3C</td><td>57.65</td><td>11.38</td><td>2.99</td><td>27.99</td><td>11</td></tr><tr><td>Sspon.02G0029690-1A</td><td>58.55</td><td>11.15</td><td>3.90</td><td>26.39</td><td>11</td></tr><tr><td>Sspon.01G0005860-1P</td><td>57.99</td><td>11.90</td><td>3.35</td><td>26.77</td><td>8</td></tr><tr><td>Sspon.02G0029680-4D</td><td>53.61</td><td>13.45</td><td>3.41</td><td>29.52</td><td>9</td></tr><tr><td>Sspon.01G0005860-1A</td><td>57.40</td><td>11.05</td><td>2.17</td><td>29.39</td><td>10</td></tr><tr><td>Sspon.02G0029680-1A</td><td>58.01</td><td>13.85</td><td>3.03</td><td>25.11</td><td>6</td></tr><tr><td>Sspon.08G0003780-3C</td><td>52.91</td><td>13.95</td><td>3.10</td><td>30.04</td><td>10</td></tr><tr><td>Sspon.02G0021270-1A</td><td>53.47</td><td>12.23</td><td>3.10</td><td>31.20</td><td>11</td></tr><tr><td>Sspon.04G0018970-2B</td><td>53.90</td><td>12.77</td><td>3.65</td><td>29.28</td><td>10</td></tr><tr><td>Sspon.02G0021260-1A</td><td>55.31</td><td>15.38</td><td>2.75</td><td>26.56</td><td>11</td></tr><tr><td>Sspon.08G0003780-1A</td><td>54.69</td><td>11.84</td><td>3.06</td><td>30.41</td><td>10</td></tr><tr><td>Sspon.08G0003780-4D</td><td>51.43</td><td>13.52</td><td>4.52</td><td>30.53</td><td>10</td></tr><tr><td>Sspon.04G0018970-3C</td><td>64.32</td><td>9.28</td><td>2.89</td><td>23.51</td><td>11</td></tr><tr><td>Sspon.02G0021260-2C</td><td>55.84</td><td>15.95</td><td>5.06 2.18</td><td>23.15 23.81</td><td>10</td></tr><tr><td>Sspon.04G0018970-1A</td><td>61.11</td><td>12.90</td><td></td><td></td><td>9</td></tr></table></body></html>
+
+<html><body><table><tr><td>Sspon.04G0018970-4D</td><td>43.31</td><td>11.92</td><td>4.36</td><td>40.41</td><td>9</td></tr><tr><td>Sspon.02G0021270-2C</td><td>54.00</td><td>15.33</td><td>4.67</td><td>26.00</td><td>9</td></tr><tr><td>Sspon.08G0003780-2B</td><td>48.58</td><td>15.79</td><td>1.62</td><td>34.01</td><td>10</td></tr><tr><td>Sspon.05G0038800-1D</td><td>46.44</td><td>18.16</td><td>4.37</td><td>31.03</td><td>7</td></tr><tr><td>Sspon.03G0024310-3C</td><td>47.56</td><td>13.95</td><td>2.65</td><td>35.84</td><td>12</td></tr><tr><td>Sspon.03G0024310-2B</td><td>36.71</td><td>12.34</td><td>2.83</td><td>48.11</td><td>11</td></tr><tr><td>Sspon.02G0057810-1D</td><td>53.90</td><td>20.78</td><td>3.57</td><td>21.75</td><td>8</td></tr><tr><td>Sspon.03G0024310-1A</td><td>36.78</td><td>12.63</td><td>2.92</td><td>47.67</td><td>11</td></tr><tr><td>Sspon.01G0025840-2B</td><td>54.17</td><td>17.11</td><td>3.07</td><td>25.66</td><td>9</td></tr><tr><td>Sspon.01G0061080-1D</td><td>53.06</td><td>18.78</td><td>3.28</td><td>24.89</td><td>8</td></tr><tr><td>Sspon.01G0025840-1A</td><td>55.09</td><td>19.76</td><td>4.19</td><td>20.96</td><td>6</td></tr></table></body></html>
+
+表3甘蔗 ScNRAMP基因保守基序logo
+
+Table 3 Conservative motif logo of ScNRAMP gene in sugarcane   
+
+<html><body><table><tr><td>基序 Motif</td><td>E-Value</td><td>长度 Length</td><td>序列标志 Sequence logo</td></tr><tr><td>motif 1</td><td>6.2e-594</td><td>38</td><td></td></tr><tr><td>motif 2</td><td>3.5e-447</td><td>29</td><td>As-GWTOK.LAE-CsEIE EPRARIS</td></tr><tr><td>motif 3</td><td>3.7e-453</td><td>34</td><td></td></tr><tr><td>motif 4</td><td>4.2e-481</td><td>50</td><td></td></tr><tr><td>motif 5</td><td>3.6e-464</td><td>40</td><td></td></tr><tr><td>motif 6</td><td>42e-399</td><td>41</td><td></td></tr><tr><td>motif 7</td><td>9.4e-306</td><td>34</td><td></td></tr><tr><td>motif 8</td><td>3.8e-229</td><td>21</td><td>yKPRAsEYysOyEVlLSOE</td></tr><tr><td>motif 9</td><td>2.2e-206</td><td>21</td><td>sLxYxAYeLLAsGOSsITG</td></tr></table></body></html>
+
+Sspon.02G0021260-2C--H HHHH motfr4   
+Sspon.02G0057810-1D-HLH □ HHHHH motif   
+Sspon.02G0021260-1A-H HH motif3   
+spon.02G0021270-1A- □ 0 motif7   
+Sspon.02G0021270-2CH □ □ HHH jmotif10   
+Sspon.05G0038800-1D- H-HHO jmotif 6   
+Sspon.04G0018970-2B □ I   
+Sspon.04G0018970-4DH IHI H Nramp superfamily   
+Sspon.04G0018970-3C-HH □ □ 0   
+Sspon.04G0018970-1AHL HH-H GTR   
+Sspon.08G0003780-2B H- □ IIHH   
+Sspon.08G0003780-4D- HHHHIHH   
+Sspon.08G0003780-3C- □ HHHH   
+Sspon.08G0003780-1A- HHHHIH   
+Sspon.01G0005860-2B DI- □ H□-□   
+Sspon.01G0005860-1A- □   
+Sspon.01G005860-1PLH □ HH   
+Sspon.02G0029680-3C H □ □ -   
+Sspon.02G0029680-1A □HH   
+Sspon.02G0029680-2B HI □ □ HH   
+Sspon.02G0029690-2D DHL- L H □   
+Sspon.02G0029690-1A □ □   
+Sspon.02G0029680-4D DHH □ 面   
+Sspon.03G0024310-3CH □ H H H   
+Sspon.03G0024310-2B L H   
+Sspon.03G0024310-1A F F H   
+Sspon.01G0025840-2BH □ □ H 一□   
+Sspon.01G0061080-1D □ □ H   
+Sspon.01G0025840-1A □ H H 5 3 5 3 5° 3’ 200 400 600 800 1000 1200 14000 200 400 600 800 1000 12001400 2 000 4000 6000 8 000 10000 A B C
+
+A.ScNRAMP 基因的保守基序（motif）分布，10个motif 用不同颜色的方框表示；B.ScNRAMP基因保守结构域（domain）分布；C.ScNRAMP 基因内含子、外显子分布。绿色方框表示外显子；黑色线条表示内含子；黄色框表示的是基因的上下游区域。
+
+A.Distributions of conserved motifs in ScNRAMP genes,ten putative motifs are indicated in diferent colored boxes; B.Distributions of domains in ScNRAMP genes; C.Exon/intron organization of ScNRAMP genes. Green boxes represent exons;Black lines with same length represent introns; The upstream/downstream region of ScNRAMP genes are indicated in yellow boxes.
+
+Fig.1 Conserved motif, domain and gene structure analysis of ScNRAMP gene in sugarcal
+
+# 2.4甘蔗ScNRAMP基因家族顺式作用元件分析
+
+ScNRAMP基因起始密码子上游 $3 \ 0 0 0 \ \mathrm { b p }$ 启动子区域顺式作用元件分析结果如图2所示：ScNRAMP 基因启动子上含有：（1）与生长发育有关的作用元件：CAT-box（分生组织调控元件）、RY-element（种子特异调控元件)；（2）激素响应相关的顺式作用元件：ABRE（脱落酸响应元件）、TGACG-motif（茉莉酸响应元件）、TCA-element（水杨酸响应元件）TGA-element（生长素响应元件）和TATC-box/P-box（赤霉素响应元件)；（3）非生物胁迫相关的作用元件：TC-rich（防御和应激响应元件）、MBS（干旱响应元件）、LTR（低温响应元件）、GT1-motif/G-box、MRE 和I-box（光响应元件）和ARE（厌氧反应元件）；（4）蛋白相关元件：MBSI和MYBHv1（MYB转录因子结合位点）及O2-site（玉米醇溶蛋白代谢调节)。进一步分析发现G-box、MRE、TGACG-motif、ABRE 等元件存在于所有成员。这些结果说明，ScNRAMP 基因家族很有可能通过 TC-rich motif 和 MRE motif 等元件参与甘蔗的激素代谢进而影响其对重金属胁迫的响应。
+
+![](images/9a51519c73373d02230a58ad6e10edf739f1db6db67f0e4ca9aa5613d5ff4c7a.jpg)  
+图2甘蔗ScNRAMP基因启动子区域顺势作用元件预测结果 Fig.2 The prediction of cis-elements in the promoters of ScNRAMP gene in sugarcane
+
+# 2.5甘蔗ScNRAMP基因的染色体定位
+
+染色体定位结果如图3所示。甘蔗ScNRAMP基因的29个家族成员不均一的定位在19条染色体上。染色体 $\mathrm { C h r } 2 \mathrm { A }$ 上有4个基因；染色体Chr1B、染色体Chr2C 和染色体Chr2D上各有3个基因；染色体Chr1A上有2个基因；其余14条染色体上各含有1个基因。
+
+![](images/da58b7a2b1fe157b79adbaad36d915889aa29e407ec89427fd3c205fdab4959e.jpg)  
+图3甘蔗ScNRAMP基因在染色体上的位置Fig.3Position of ScNRAMP gene on chromosome in sugarcane
+
+# 2.6甘蔗ScNRAMP家族的系统发育树
+
+为了解甘蔗割手密和其他禾本科植物NRAMP基因家族的进化关系，构建了水稻、拟南芥、割手密、玉米和高梁五个物种 NRAMP家族成员的进化树（图4)。进化树有三个分支，分为3个亚家族。亚家族I中甘蔗 ScNRAMP 有14 位成员（Sspon.05G0038800-1D、Sspon.04G0018970-3C、Sspon.04G0018970-1A、Sspon.04G0018970-2B、Sspon.04G0018970-4D、Ssp0n.02G0021260-1A 、Ssp0n.02G0021260-2C、 Ssp0n.02G0057810-1D、Sspon.02G0021270-1A、Sspon.02G0021270-2C、Sspon.08G0003780-2B、Ssp0n.08G0003780-1A、Sspon.08G0003780-3C 和 Sspon.08G0003780-4D)，与高梁 14 位成员、玉米 15位成员、拟南芥2位成员和水稻4 位成员聚为一支。亚家族Ⅱ中甘蔗 ScNRAMP有9位成员（Ssp0n.01G0005860-2B、Ssp0n.01G0005860-1A、Ssp0n.02G0029680-2B、Sspon.02G0029680-1A、Sspon.02G0029680-3C、Sspon.02G0029680-4D、Ssp0n.02G0029690-lA、Sspon.02G0029690-2D 和 Sspon.01G0005860-1P)，与高梁3位成员、玉米5位成员、拟南芥4位成员和水稻2 位成员聚为一支。亚家族II中甘蔗 ScNRAMP有6位成员（Sspon.03G0024310-3C、Ssp0n.03G0024310-2B、Ssp0n.03G0024310-1A、Sspon.01G0025840-2B、Ssp0n.01G0061080-1D 和 Ssp0n.01G0025840-1A)，与高梁 5位成员和玉米 7位成员聚为一支，且在此分枝上没有拟南芥和水稻的家族成员。水稻、拟南芥、高粱、玉米和甘蔗NRAMP家族成员之间均有同源基因，相比之下玉米与甘蔗的 NRAMP基因家族成员之间亲缘关系更近。
+
+![](images/b64a8d0a58e6db8a200d61d88259071d9ad287b8afcb579a35f538fb4c22c814.jpg)
+
+黑色星号表示甘蔗 ScNRAMP；绿色方框表示玉米 ZmNRAMP；黄色圆圈表示水稻OsNRAMP；红色三角形表示拟南芥AtNRAMP；粉色对号表示高梁SbNRAMP。  
+Black asterisks represent ScNRAMP; Green boxes represent ZmNRAMP; Yellow circles represent OsNRAMP; Redtriangles represent AtNRAMP;Pink ticksrepresent SbNRAMP.
+
+图4甘蔗ScNRAMP的系统发育树
+
+Fig.4Phylogenetic treeofScNRAMPin sugarcane
+
+2.7甘蔗ScNRAMP基因组织表达
+
+为了解甘蔗ScNRAMP基因家族成员的功能与时空表达模式，我们以公开发表的割手密基因表达数据分析了ScNRAMP基因在不同组织和不同发育时期的表达情况，如图5所示。结果显示：甘蔗 ScNRAMP 基因的表达呈现组织特异性；Sspon.04G0018970-2B、Sspon.04G0018970-4D、Sspon.04G0018970-1A、Sspon.04G0018970-3C 等基因在茎成熟期（mature-steam-3、6、9）表达量较高，在前成熟期和发芽期表达量较低；Sspon.03G0024310-3C、Sspon.03G0024310-2B、Sspon.03G0024310-1A、Sspon.01G0025840-2B 和 Sspon.01G0061080-1D五个成员在发育期叶中的表达量高于前成熟期和成熟期。另外，29个家族成员中仅有1个成员 Sspon.05G0038800-1D 的表达量FPKM值为0，表明其在各发育时期和组织部位均未表达。
+
+S表示实生苗期；P表示成熟前期；M表示成熟期；s表示茎；1表示叶；3表示甘蔗茎第3节；6表示甘蔗茎第6节；9表示甘蔗茎第9节。
+
+![](images/7e29c636657b5b22abe7136740591bdcc7f1053ccc50758186cc588a170dd886.jpg)  
+图5甘蔗ScNRAMP基因表达模式分析
+
+Srepresents seedling stage; Prepresents early maturity stage; M represents mature stage; s represents steam; l represents leaf; 3 represents section 3 of sugarcane; 6 represents section 6of sugarcane; 9 represents section 9 of sugarcane.
+
+Fig.5Expression profile analysis of ScNRAMP genes in sugarcane
+
+# 3讨论与结论
+
+对甘蔗ScNRAMP基因家族成员进行理化特性分析发现，不同的 NRAMP蛋白序列有较大的差异，氨基酸长度为334\~1272aa，等电点跨度较大（4.77\~9.43)，表明其编码蛋白能适应不同的酸碱环境。甘蔗NRAMP蛋白不稳定系数均小于 $40 \%$ ，表明其稳定性较好；蛋白的平均亲水系数介于0.015\~0.949 之间，表明其是一类相对疏水的蛋白。29 个家族成员定位在19 条染色体上，染色体Chr2A上最多，有4个家族成员。割手密 NRAMP 蛋白所有成员均有6\~12个跨膜结构域，均定位在质膜上，可能与其具有转运重金属离子的功能相适应。基因结构分析显示所有家族成员均具有内含子。
+
+甘蔗割手密基因组中共鉴定出29个ScNRAMP基因，与水稻（6个成员）和拟南芥（6个成员）相比，ScNRAMP基因家族成员的数量明显要多，推测可能与甘蔗是多倍体、且基因组庞大有关，尤其是甘蔗作为多倍体植物，其在多倍化进程中的全基因组复制促进了甘蔗基因组含量的提高及其基因家族的扩张，这与相关研究茄科植物高度变异的基因家族在全基因组复制和基因的串联重复引起基因组的含量增加和基因家族扩张的观点一致(Maseret al.,2001；Zhang et al.,2018；Tian et al.,2021；Wang et al.,2021)。拟南芥和水稻的基因组大小分别为 $1 2 5 ~ \mathrm { M b }$ 和 $4 6 6 \mathrm { M b }$ ，而甘蔗割手密的基因组大小达到了3.36Gb，此外，拟南芥和水稻均为二倍体，甘蔗为八倍体，而测序的甘蔗品种割手密 AP85-441是甘蔗八倍体SES208 单花粉培育得到的整倍体（四倍体)，理论上现代甘蔗栽培种（多为异源八倍体、且为非整倍体）具有的 ScNRAMP 家族成员应多于 29 个（Chenet al.,2011; Zhang et al.,2018)。
+
+基因结构和基序组成分析可为基因家族的进化关系提供重要依据（Boudetetal.,2001)。ScNRAMP基因结构分析发现同一亚家族的大多数基因在外显子、基序或非翻译区具有类似的结构特征，这一现象与其他物种的 NRAMP 蛋白家族相似(Belouchi et al.,，1997；Lanquaret al.,2005)，如 AtNRAMP3 和 AtNRAMP4基因结构相似，且对 $\mathrm { F e } ^ { 2 + }$ 都有极高运输能力(Lanquar et al.，2005)；而 OsNrampl、OsNramp2 和 OsNramp3序列的相似性达到了$6 4 \% { \sim } 7 5 \ \%$ (Belouchi etal.，1997)，推测甘蔗NRAMP 蛋白同一亚家族的成员在功能上可能相似。甘蔗割手密、水稻、高梁和玉米4种单子叶植物和拟南芥1种双子叶植物的系统进化分析可将29个ScNRAMP家族成员分为3个亚家族。在亚家族III中，进化树分支上只有高梁（5位成员）、玉米（7位成员）和割手密（6位成员）的家族成员，而没有水稻和拟南芥的成员，推测甘蔗割手密NRAMP亚家族III中的这6位成员可能存在着与水稻和拟南芥的 NRAMP 蛋白家族不一样的特殊功能，而这个亚家族的特殊功能在高梁和玉米中也可能存在。
+
+植物启动子作为植物功能基因表达调控的最重要顺式元件之一，启动子分析能够帮助我们阐明基因表达的调控和响应机制。通过对启动子区域的顺式作用元件分析可得到植物关于响应特定生物胁迫或非生物胁迫的重要元件。通过启动子区域的顺式作用元件分析，推测甘蔗割手密种可能通过光响应因子、激素响应元件和抗逆响应因子（TC-rich motif)等元件间的相互作用形成复杂的代谢调控网络来响应和应对重金属胁迫。这与水稻NRAMP基因受到JA、ABA等激素的调控来应对病原菌侵染、外界防御信号和金属离子，从而参与植物的防御反应一致(Zhouetal.,2004)。在对甘蔗 ScNRAMP上游 $3 \ 0 0 0 \ \mathrm { b p }$ 区域研究发现成员中大部分均含有茉莉酸响应元件（TGACG-motif）和生长素响应元件（TGA-element），推断该基因家族在进化过程中可能具有与植物生长和逆境胁迫相关的功能。甘蔗 ScNRAMP基因的表达具有组织特异性，甘蔗 ScNRAMP基因主要在特定组织和器官中表达，Sspon.01G0025840-2B和 Sspon.01G0061080-1D两位成员在种子发芽期的叶和茎中的表达量明显高于其他时期。对各时期和各组织高表达的基因分析，发现家族成员均具有 MBSABRE 和TCA-element 等与激素响应相关的作用元件，推测其参与激素代谢过程进而影响甘蔗对重金属胁迫的响应。
+
+目前，NRAMP 基因家族在菜豆(Ishida et al.,2018)、大豆(Qin et al.,2017)、甘蓝型油菜(Mengetal.,2017)等经济作物上已经被广泛研究。甘蔗作为重要的糖料作物和能源作物，关系着我国乃至世界人民的食糖安全，降低重金属胁迫对甘蔗产量及含糖量的影响，对ScNRAMP等基因家族转运重金属离子的分子机制的了解尤其必要。本文通过对甘蔗割手密中 29个 ScNRAMP基因家族成员的全基因组分析，利于阐明甘蔗 ScNRAMP 基因家族的功能和为甘蔗的分子育种尤其是应对重金属胁迫的研究提供重要的候选基因。
+
+# 参考文献：
+
+BELOUCHI A, CELLIER M, KWAN T, et al.,1995. The macrophage-specific membrane protein Nramp controlling natural resistance to infections in mice has homologues expressed in the root system of plants [J]. Plant Mol Biol, 29: 1181-1196.   
+BELOUCHI A, KWAN T, GROS P,1997. Cloning and characterization of the OsNramp family from Oryza sativa, a new family of membrane proteins possbly implicated in the transport of metal ions [J]. Plant Mol Biol, 33: 1085-1092.   
+BOUDET N,AUBOURG S,KREIS M, et al., 2001. Evolution of intron/exon stucture of DEAD helicase family genes in Arabidopsis, Caenorhabditit and Drosophila [J]. Genome Res,11(12): 2101-2114.   
+CAILLIATTE R, SCHIKORA A, BRIAT JF, et al., 2010. High-affinity manganese uptake by the metal transporter NRAMPl is essential for Arabidopsis growth in low manganese conditions [J]. Plant Cell, 22: 904-917.   
+CASTAINGS L，CAQUOT A,LOUBET,et al.， 2016. The high-affinity metal transporters NRAMPl and IRTl team up to take up to iron under sufficient metal provision [J]. Sci Rep, 6: 37222.   
+CELLIER M,PRIVE G, BELOUCHI A,et al.，1995.Nramp defines a family of membrane proteins [J]. Proc Natl Acad Sci USA, 92: 10089-10093.   
+CHEN CJ,CHEN H, ZHANG Y, et al.，2020. Tbtools: an integrative toolkit developed for interactive analyses of big biological data [J]. Mol Plant,13: 1194-1202.   
+CHEN RK, XU LP, LIN YQ, et al., 2011. Modern sugarcane genetic breeding [M]. Beijing: China Agricultural Press: 329-372.   
+FANG JP, 2O14.A review of Saccharum origin and its evolutionary relationship with related genera[J].ChinJTrop Crops,35(4):816-822.[方静平,2014.甘蔗属起源及其与近缘属进化 关系研究进展[J].热带作物学报,35(4):816-822.]   
+IRVINE JE,1999. Saccharum species as horticultural classes [J]. Theor Appl Genet, 98: 186-194.   
+ISHIDA JK, CALDAS DG, OLIVEIRA LR,et al.，2018. Genome-wide characterization of the NRAMP gene family in Phaseolus vulgaris provides insights into functional implications during common bean development [J]. Genet Mol Biol, 41: 820-833.   
+LANQUAR V,LELIeVRE F, BOLTE S,et al.,2005. Mobilization of vacuolar iron by AtNRAMP3 and AtNRAMP4 is essential for seed germination on low iron [J]. EMBO J, 24: 4041-4051.   
+LI PT, CHAI Z, LIN PP,et al., 2O20. Genome-wide identification and expression analysis of AP2/ERF transcription factors in sugarcane (Saccharum spontaneum L.) [J]. BMC Genomics, 21(1): 685.   
+LIU XL，YIN Z,LIU Y, et al.， 2020. The complete mitochondrial genome of sugarcane (Saccharum spp.) variety FN15 [J]. Mitochondrial DNA Part B,5: 2163-2165.   
+LUO BB, CHEN JG, ZHU LL, et al., 2018. Overexpression of a high-affinity nitrate transporter OsNRT2.1 increases yield and manganese accumulation in rice under alternating wet and dry condition [J]. Front Plant Sci, 9: 1192.   
+MASER P, THOMINE S, SCHROEDER JI, et al., 20O1. Phylogenetic relationships within cation transporter families of Arabidopsis [J]. Plant Physiol, 126: 1646-1667.   
+MENG JG, ZHANG XD, TAN K,et al., 2017. Genome-wide identification of Cd-responsive NRAMP transporter genes and analyzing expression of NRAMPl mediated by miR167 in Brassica napus [J]. Biometals, 30: 917-931.   
+NEVO Y, NELSON N, 20O6. The NRAMP family of metal-ion transporters [J]. Biochim Biophys Acta, 1763: 609-620.   
+POTTIER M, OOMEN R,PICCO C, et al., 2015. Identification of mutations allowing Natural Resistance Associated Macrophage Proteins (NRAMP) to discriminate against cadmium [J]. Plant J, 83: 625-637.   
+QIN L,HAN PP, CHEN LY, et al.,2017. Genome-wide identification and expresson analysis of NRAMP family genes in Soybean (Glycine Max L.) [J]. Front Plant Sci, 8: 1436.   
+ROSA-SANTOS TM, SILVA RG, KUMARP, et al.， 2020. Molecular mechanisms underlying sugarcane response to aluminum stress by RNA-Seq [J]. Int JMol Sci, 21(21): 7934.   
+TAKAHASHI R,ISHIMARU Y,NAKANISHI H, et al.， 2011.Role of the iron transporter OsNRAMP1 in cadmium uptake and accumulation in rice [J]. Plant Signal Behav, 6(11): 1813- 1816.   
+THOMINE S,WANG R, WARD JM, et al.,2000. Cadmium and iron transport by members of a plant metal transporter family in Arabidopsis with homology to Nramp genes [J]. Proc Natl Acad Sci USA, 97: 4991-4996.   
+TIAN WJ, HE GD, QIN LJ, et al., 2021. Genome-wide analysis of the NRAMP gene family in potato (Solanum tuberosum): Identification, expression analysis and response to five heavy metals stress [J]. Ecotoxicol Environ Saf, 208:111661.   
+WANG P, MOORE BM,PANCHY NL, et al., 2018. Factors influencing gene family size variation among related species in a plant family, Solanaceae [J]. Genome Biol Evol,1O(1O): 2596-2613.   
+ZHANG JS, ZHANG XT, TANG HB, et al., 2018. Allele-defined genome of the autopolyploid sugarcane Saccharum spontaneum L.[J]. Nat Genet, 5O: 1565-1573.   
+ZHOU XJ, YANG YN, 2004. Differential expression of rice Nramp genes in response to pathogen infection,defense siganl molecules and metal ions [J]. Mol Plant Pathol, 65(5): 235-243.

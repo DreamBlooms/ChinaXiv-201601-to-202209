@@ -1,0 +1,129 @@
+临床研究
+
+# 非小细胞肺癌患者 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量与复发及生存期的关系
+
+李姝君，吴艳霞，陈华林，刘美莲，吴爱兵，杨志雄广东医科大学附属医院肿瘤中心肿瘤一区，广东 湛江 524001摘要：目的探讨 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞在预测非小细胞肺癌(NSCLC)患者复发的作用，以及不同因素下的生存期差异。方法 对59例NSCLC进行为期5年的随访，检测外周血 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量，使用受试者工作特征曲线(ROC)评价该细胞预测复发的敏感度及特异度，并与癌胚抗原(CEA)及细胞角蛋白21-1(Cyfra21-1)进行对比;使用Kaplan-Meier法对不同性别、年龄段、职业种类及是否放疗的NSCLC患者的生存情况进行分析。结果 59例NSCLC患者生存期最短为23个月，最长随访期>67个月；共有19例复发，其中有17例在随访期内均死于肿瘤转移 $( 2 8 . 8 1 \%$ )。未接受放疗患者及复发患者的 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量均分别显著高于放疗及无复发患者(均为 $P { = } 0 . 0 0 0 \rangle$ 。ROC分析显示曲线下面积(AUC)由大及小的顺序为 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞>Cyfra21-1>CEA $\scriptstyle P = 0 . 0 0 2 , 0 . 0 0 6$ 及0.013)， $9 5 \%$ 可信区间(CI)分别为0.649\~0.981、0.621\~0.936及0.584\~0.944;当 $\mathrm { C D 4 ^ { + } }$ $\mathrm { C D 2 9 ^ { + } T }$ 细胞百分含量为 $7 . 5 3 \ \%$ ，其预测复发的敏感度为 $9 1 . 4 2 \%$ ,特异度为 $8 7 . 5 9 \%$ 。以上59例NSCLC患者的5年生存率为$7 1 . 1 8 \%$ (42/59)，Kaplan-Meier生存分析显示女性生存期长于男性( $\scriptstyle P = 0 . 0 3 8$ ）， $< 5 0$ 岁生存期长于 $\cdot { > } 5 0$ 岁 $_ { \scriptstyle P = 0 . 0 1 3 }$ )，非脑力劳动者生存期长于脑力劳动者（ $\scriptstyle P = 0 . 0 2 9 ,$ )，放疗患者生存期长于未放疗患者 $( P { = } 0 . 0 0 3$ )。结论 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞预测NSCLC复发的效能优于Cyfra21-1及CEA;男性、大于55岁、从事脑力劳动、未行放射治疗是NSCLC的复发高危因素。
+
+关键词：非小细胞肺癌；复发； $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞；生存期；危险因素
+
+# Correlation of ${ \bf C D 4 ^ { + } C D 2 9 ^ { + } }$ regulatory T cells with recurrence and survival time in patients with non-small cell lung cancer
+
+LI Shujun,WU Yanxia,CHENHualin,LIU Meilian,WU Aibing,YANG Zhixiong DepartmentIofOncologyCenter,AfiliatedHospitalofGuangdongedicalUnioersity,Zhanjiang524,China
+
+Abstract: Objective To investigate the correlation of $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } }$ regulatory T cells (Treg) with tumor recurrence and survival timein patients with non-small cellung cancer (NSCLC). Methods Fifty-nine patients with NSCLC treated with radical surgery were folowed upfor 5years.Blood Treg cells were examined during thefollow-up using flow cytometry (FCM).The sensitivityand specificityofTreg celstopredict recurrenceof NSCLCwere analyzed usingreceiver-operating characteristic (ROC)curveand compared with those of carcinoembryonic antigen (CEA)and cytokeratin21-1(Cyfra21-1).The influences of gender,age,occupationandradiotherapyonsurvival ime ofthe patients were analyzed with Kaplan-Meier method.Results Among the59 patients,theshortestsurvival timewas 23months whilethelongest timewasover67months.Nineteenpatients had NSCLC recurrence, and 17 $( 2 8 . 8 1 \% )$ of them died of metastasis during the follow-up. The frequencies of blood Treg cells in patients who did not receive radiotherapyand in patients with tumor recurrnce were significantly higher than those in patients receiving radiotherapy and in patients free of recurrence $( P { = } 0 . 0 0 0 )$ . ROC curves showed that the area under curve (AUC) lowered in the order of Treg cells, Cyfra21-1, CEA ( ${ \it P } { = } 0 . 0 0 2 ,$ ,0.006 and 0.013, respectively) with $9 5 \%$ confidence interval $( \mathrm { C I } )$ of 0.649-0.981, 0.621-0.936 and 0.584-0.944, respectively. At the cut-off value of $7 . 5 3 \%$ , the sensitivity and specificity of Treg cells to predict NSCLC recurrence was $9 1 . 4 2 \%$ and $8 7 . 5 9 \%$ ，respectively. The five-year survival rate of the 59 patients was $7 1 . 1 8 \%$ (42/59), and Kaplan-Meier analysis revealed a longer survival time in female patients $_ { ( P = 0 . 0 3 8 ) }$ , in patients below 50 years of age $( P { = } 0 . 0 1 3 ) .$ ， in patients not engaging in mental work $( P { = } 0 . 0 2 9 )$ ， and in patients receiving radiotherapy $( P { = } 0 . 0 0 3 )$ ： Conclusion Tregcellshasabetter efficiency than Cyfra21-1 and CEA topredict tumorrecurrence in patients with NSCLC following radical surgery.The male gender,anage beyond 5O years,anoccupation of mental work,and failure to receive radiotherapy are all risk factors for recurrence of NSCLC.
+
+Key words: non-smallcell lung cancer; recurrence; CD4+CD29\*T cels; survival time; risk factors
+
+# 非小细胞肺癌(NSCLC)是最常见的肺癌类型，但
+
+其往往由于症状不典型、缺乏特异性而被漏诊或误诊[1],后者给患者带来极大损失，同时也增加医疗风险。血清肿瘤标记物(TM)是筛选肺癌的简易方法，目前常用的TM包括癌胚抗原(CEA）、细胞角蛋白21-1(Cyfra21-1)2]、鳞状细胞癌相关抗原(SCC)神经元特异性烯醇化酶(NSE)3]等。但上述TM诊断肺癌尤其在判断预后特别是复发的敏感度及特异度仍不够理想，这增加了肺癌患者病情发展方向的不确定性。有研究发现肺癌患者 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞表达增多且其与肿瘤病理学类型及分期相关[4。笔者既往研究发现肺癌患者的CD4+辅助性T细胞(Th)存在异常，与分期相关5，且发现 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞在肺癌患者的表达增加，且与肿瘤转移相关。因此，笔者猜测 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞可能有助于预测复发，并可能与生存率等预后因素密切相关。为验证该问题，笔者对59例NSCLC进行为期5年的随访，采用了受试者工作特征曲线(ROC)及生存分析等方法，对 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞预测复发及患者的生存情况进行观察及评价，过程如下。
+
+# 1 资料和方法
+
+# 1.1 患者资料
+
+选取2004年1月\~2011年6月我科收治的NSCLC患者作为研究对象。入选条件为：经病理学检查确诊为NSCLC，无合并免疫性疾病，无合并其他系统的原发性肿瘤，同意随访。共入选59例，其中男性38例，女性21例;首诊年龄23\~74岁，病程2月\~5年;右肺肺癌31例，左肺25例，双肺3例;接受肺癌根治术44例,非手术治疗15例；接受放疗39例，未接受放疗20例。以上NSCLC患者的一般情况见表1,其中在性别构成、年龄是否大于50岁、病程、是否手术、是否放疗、肿瘤分期及病理学分型均具有统计学差异 $( P { < } 0 . 0 5 )$ 0
+
+表1NSCLC患者一般情况比较 Tab.1 General demographic and clinical data of the patients with NSCLC   
+
+<html><body><table><tr><td>Indexes</td><td>Classification</td><td>n</td><td>x</td><td>P</td></tr><tr><td>Gender</td><td>Male</td><td>38</td><td>4.898</td><td>0.036</td></tr><tr><td rowspan="2">Age (year d)</td><td>Female</td><td>21</td><td rowspan="2">6.119</td><td rowspan="2">0.018</td></tr><tr><td><50</td><td>25</td></tr><tr><td rowspan="2">Course of the disease (year)</td><td>>50</td><td>34</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td><1</td><td>27</td></tr><tr><td rowspan="3">Surgery</td><td>1~3</td><td>21</td><td>58.000</td><td>0.000</td></tr><tr><td>>3</td><td>11</td><td></td><td></td></tr><tr><td>Yes No</td><td>44</td><td>14.254</td><td>0.000</td></tr><tr><td>Radiotherapy</td><td>Yes</td><td>15 39</td><td>6.119</td><td></td></tr><tr><td rowspan="2">Stage</td><td>No</td><td>20</td><td rowspan="2"></td><td rowspan="2">0.018</td></tr><tr><td>I</td><td>23</td></tr><tr><td rowspan="6">Pathological types</td><td>I</td><td>17</td><td></td><td></td></tr><tr><td>ⅢI</td><td></td><td>58.000</td><td>0.000</td></tr><tr><td>IV</td><td>13 6</td><td></td><td></td></tr><tr><td>Squamous carcinoma</td><td>27</td><td></td><td></td></tr><tr><td>Adenocarcinoma</td><td>18</td><td>19.576</td><td>0.000</td></tr><tr><td>Large cell carcinoma</td><td>9</td><td></td><td></td></tr><tr><td></td><td>Others</td><td>5</td><td></td><td></td></tr></table></body></html>
+
+# 1.2 治疗方法
+
+手术组44例患者采用胸腔镜或传统开胸方式行“肺癌根治术”，主要手术内容为肺叶切除 $+ _ { i }$ 淋巴结清扫，其中行胸腔镜术式31例，另13例行传统开胸术式。术后有32例患者接受放疗。非手术治疗的15例患者当中10例行单纯放疗，12例化疗 $\mathrm { \dot { + } }$ 放疗，3例行生物治疗。采用三维适形放疗(3D-CRT)对LC患者进行放疗，方法大致如下：采用医科达直线加速器，X线能量为8MV，TPS为医科达三维治疗计划系统，适形采用多叶光栅技术。危及器官剂量限制如下：双肺 $\mathrm { \Delta V _ { 2 0 } }$ 为 $28 \%$ ，脊髓最大剂量 ${ < } 4 5 \mathrm { G y }$ 心脏 $V _ { 5 0 } { < } 5 0 \%$ ,处方剂量 $5 0 { \sim } 6 0 \mathrm { G y } ^ { [ 6 ] }$ 。
+
+# 1.3随访与指标评价
+
+对以上患者进行计划60个月(5年)的随访，方式为复诊、邮件、电话、QQ等。当影像学或病理学提示患者再度出现新发癌肿则判断为复发。随访过程中记录患者的复发情况，以及首次治疗至复发的时间间隔[]。
+
+# 1.4流式细胞术
+
+清晨空腹采集以上4组观察对象静脉血 $5 ~ \mathrm { m L }$ ，使用免疫磁珠法分离出 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞[8。使用BD公司生产的流式细胞仪的双激光光源，以CD4及CD29进行设门，进行 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞百分含量检测。运用FACSDIVA软件分析对该细胞的百分含量进行比较。
+
+# 1.5统计学处理
+
+定量资料采用均数 $\trianglerighteq$ 标准差表示，使用两独立样本t检验比较两组间的定量指标差异；例数的构成比较采用$\chi ^ { 2 }$ 检验，单项有序资料(如分期等)的比较采用秩和检验；使用受试者工作特征曲线(ROC)法进行 $\mathrm { C D 4 ^ { + } }$ $\mathrm { C D 2 9 ^ { + } T }$ 细胞预测复发的敏感性及特异性评价；使用寿命表法对59例患者的生存期及生存率进行分析；使用Kaplan-Meier法比较不同因素下的生存期差异。运用统计软件包SPSS17.0处理数据，当 $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+# 2.1NSCLC患者的总体预后情况
+
+59例NSCLC患者生存期最短为23个月（为IV期患者且未接受放疗)，最长随访期为67个月（该例删失）。
+
+以上59例患者有19例复发，复发出现的时间区间为首次治疗后的15\~38个月，平均26.5个月；其中有17例在随访期内均死于肿瘤转移 $2 8 . 8 1 \%$ 。
+
+2.2放疗与复发因素下的 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量比较
+
+放疗组( $\scriptstyle { \overbrace { n = 3 9 } }$ 的 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量为 $( 5 . 3 6 \pm$ $1 . 3 3 ) \%$ ，非放疗组( $\scriptstyle n = 2 0$ 为 $( 7 . 3 7 { \pm } 1 . 9 0 ) \%$ ,两组差异具有统计学意义（ $\scriptstyle t = - 4 . 7 2 9$ ， $P { = } 0 . 0 0 0$ ,图1A)。无复发组中 $\scriptstyle n = 4 0$ 的 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量为 $( 5 . 1 6 { \pm } 1 . 0 3 ) \%$ ，复发组 $\scriptstyle { \overbrace { n = 1 9 } }$ 为 $( 7 . 5 2 { \pm } 1 . 9 8 ) \%$ ，两组差异具有统计学意义中 $_ { t = - 6 . 0 4 7 , P = 0 . 0 0 0 }$ ；图1B)。
+
+# 2 $. 3 \mathrm { \ C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量预测复发的情况
+
+ROC分析显示AUC由大及小的顺序为 $\mathrm { C D 4 ^ { + } }$ $\mathbf { C D 2 9 ^ { + } T }$ 细胞>Cyfra21- $1 >$ CEA, $P$ 分别为0.002、0.006及0.013;最佳截值显示敏感度及特异度的排序仍为$\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞>Cyfra21- $1 >$ CEA(表2，图1C)。
+
+# 2.4 NSCLC患者的生存分析
+
+随着随访期的延长，NSCLC患者的生存率进行性下降；寿命表法分析显示以上59例NSCLC患者的5年生存率为 $7 1 . 1 8 \%$ (42/59,图1D)。Kaplan-Meier生存分
+
+![](images/1e8f89443b4c3b76e8497be124fa7e34d71555a1409ef56200e893c3830b5771.jpg)  
+图1NSCLC患者 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞含量柱状图、ROC及累积生存曲线图 Fig.1 Percentages of $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ cells and ROC and survival curves in patients with NSCLC.A,B: Percentages of $\mathrm { C D 4 ^ { + } }$ $\mathrm { C D 2 9 ^ { + } T }$ cells in patients with different historyof radiotherapyand in those with and without recurrence.C:ROC curve of $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ cells, Cyfra21-1 and CEA for predicting recurrence; D: Cumulative survival curve of the 59 patients.
+
+表2 $\mathbf { C D 4 ^ { \circ } C D 2 9 ^ { \circ } T }$ 细胞、Cyfra21-1与CEA预测复发的敏感度及特异度比较 Tab.2 SensitivityandspecficityofCD4CD29Tcels, Cyfra2-1andCEAtpredictrecurrenceofNSCLCfollowingradicalsurgery   
+
+<html><body><table><tr><td rowspan="2">Indexes</td><td rowspan="2">AUC</td><td rowspan="2">SE</td><td rowspan="2">P</td><td colspan="2">95% CI</td><td rowspan="2">Best cut-off value</td><td rowspan="2">Sensitivity</td><td rowspan="2">Specificity</td></tr><tr><td>Lower limit</td><td>Upper limit</td></tr><tr><td>CD4+CD29+T cells</td><td>0.814</td><td>0.084</td><td>0.002</td><td>0.649</td><td>0.981</td><td>7.53%</td><td>91.42%</td><td>87.59%</td></tr><tr><td>Cyfra21-1</td><td>0.779</td><td>0.081</td><td>0.006</td><td>0.621</td><td>0.936</td><td>8.65 ng/mL</td><td>83.74%</td><td>86.15%</td></tr><tr><td>CEA</td><td>0.764</td><td>0.092</td><td>0.013</td><td>0.584</td><td>0.944</td><td>12.71 μg/L</td><td>80.19%</td><td>78.34%</td></tr></table></body></html>
+
+析Logrank(Mantel-Cox)检验法(各时间点权重一样）显示：女性生存期长于男性( $\scriptstyle ( P = 0 . 0 3 8 )$ ）， $< 5 0$ 岁生存期长于 $\cdot { > } 5 0$ 岁( $_ { \scriptstyle P = 0 . 0 1 3 } ,$ ,非脑力劳动者生存期长于老年劳
+
+动者 $\scriptstyle P = 0 . 0 2 9 ,$ ），放疗患者生存期长于未放疗患者( $P =$ 0.003;表3,图2)。
+
+表3不同因素的NSCLC患者生存期差异 Tab.3Factors affecting survival time of the postoperative patients with NSCLC   
+
+<html><body><table><tr><td rowspan="2">Indexes</td><td rowspan="2">Classification</td><td rowspan="2">Median survival time (month)</td><td colspan="2">95% CI</td><td rowspan="2">x</td><td rowspan="2">P</td></tr><tr><td>Lower limit</td><td>Upper limit</td></tr><tr><td rowspan="2">Gender</td><td>Male</td><td>49.87</td><td>47.39</td><td>55.62</td><td rowspan="2">4.315</td><td rowspan="2">0.038</td></tr><tr><td>Female</td><td>54.68</td><td>52.92</td><td>58.23</td></tr><tr><td rowspan="2">Age range</td><td>>50 years old</td><td>55.43</td><td>51.19</td><td>57.26</td><td rowspan="2">6.201</td><td rowspan="2">0.013</td></tr><tr><td><50 years old</td><td>59.31</td><td>58.17</td><td>64.18</td></tr><tr><td rowspan="2">Occupation</td><td>Mental work</td><td>56.37</td><td>50.89</td><td>60.24</td><td rowspan="2">4.781</td><td rowspan="2">0.029</td></tr><tr><td>Non-mental work</td><td>61.38</td><td>57.23</td><td>63.48</td></tr><tr><td rowspan="2">Radiotherapy</td><td>No</td><td>51.27</td><td>49.16</td><td>56.37</td><td rowspan="2">9.062</td><td rowspan="2">0.003</td></tr><tr><td>Yes</td><td>63.49</td><td>58.31</td><td>65.26</td></tr></table></body></html>
+
+# 3讨论
+
+本研究发现,作为免疫因素的 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞在预测NSCLC复发的敏感度及特异度均优于目前临床常用的两种TM,且发现几个导致复发的高危因素，特别是从事脑力劳动的职业因素，这在目前的报道较少，讨论如下。
+
+# 3.1 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞预测复发的优势
+
+$\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞是指细胞膜表达CD29分子的一类CD4+辅助性T细胞(Th),Th的重要功能包括识别并呈递抗原物质给效应T细胞从而诱发免疫反应[0]CD29分子的特殊性之一在于其属于整合素家属成员，该家族的蛋白分子在细胞黏附、血管形成及肿瘤转移等病理生理学过程发挥重要作用"，因此研究 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } }$ T细胞与肺癌的关系具有特殊意义。作为诊断LC的肿瘤标记物一种，细胞角蛋白21-1(Cyfra21-1)被认为是鳞状上皮细胞癌目前首选TM,其敏感度 $56 0 \%$ ,特异性可高达 $9 5 \%$ ,在NSCLC中表达最强,腺癌次之,小细胞肺癌最弱[12]。作为一线的TM,CEA被广泛应用临床肿瘤筛查,但其升高仅见于 $70 \%$ 的肺癌患者[2]。可见，不论Cyfra21-1或CEA，其在诊断LC的敏感度及特异度均不够理想，亦即两者有较高的“误判率”，在这种情况下使用两者去预测肺癌复发的效果则更不理想。因此笔者重点观察了在前期工作发现与肺癌转移相关的 $\mathrm { C D 4 ^ { + } }$ $\mathrm { C D 2 9 ^ { + } T }$ 细胞，发现未接受放疗及复发患者该细胞含量显著高于放疗及无复发患者，这提示一个重要现象：在未放疗或肿瘤复发情况下， $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞均可出现升高。该现象可衍生一个重要的用途一一预测复发。
+
+为此，笔者在随访过程中采集患者外周血进行$\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞检测(取平均值进行分析),发现该细胞预测复发的敏感度及特异度均高于Cyfra21-1及CEA，且发现了该细胞的截值在比较低(为正常上限的1.5倍)的情况下即可获得理想的预测效果，而Cyfra21-1及CEA需在正常上限的2.0倍以上方可让敏感度及特异度同时超过 $7 5 \%$ 。以上均凸显 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞的优势。产生以上差异的原因包括：(1)Cyfra21-1及CEA的本质为蛋白质，属于分子结构，其总体性不如作为细胞层次的 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞[13]；(2)肿瘤发病本身与免疫直接相关，而肿瘤的治疗因素与免疫更为密切[14],因此作为免疫细胞的 $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞与NSCLC更为相关;(3)肿瘤复发及转移的基本过程与细胞间接触及新生血管形成密切相关15，而这两项功能正由 $\mathbf { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞所覆盖。
+
+![](images/3ab723a940ab6409428c54fe4ecd0b415d8dfc76cbacf6fc8687564ac38f17b4.jpg)  
+图2不同因素下的NSCLC患者生存曲线图 Fig.2 Survival curves of the patients with different genders (A),age ranges (B),occupation types (C) and radiotherapy history $( D )$ .The abscissa is the survival time (month)and the ordinate is the cumulative survival rate $( \% )$
+
+# 3.2不同因素对NSCLC患者生存期的影响
+
+肺癌仍是世界第一大肿瘤，其发病率大于120万/年，死亡率大于110万年。我国已成为肺癌的第一大国,我国肺癌已超过癌症死因的 $1 / 5 ^ { [ 1 6 ] }$ 。资料显示目前我国肺癌发病率每年约增长 $2 6 . 9 \%$ ，如不及时采取有效控制措施,2025年我国肺癌患者将达到100万人[17],这对国人健康是极为不利的，因此研究肺癌早期诊断与病情预测具有重大现实意义。由于空气污染、工作节奏加快、缺乏睡眠等因素的持续存在及加剧，加上肿瘤细胞本身因突变而产生更强的抗治疗活性，因此肺癌的疾病谱可能会发生变化，故笔者重点观察了性别、放疗因素、年龄段、职业对生存期的影响，其中关于后两者的报道较少。
+
+本数据显示，所有59例NSCLC患者生存期最短为
+
+23个月，最长随访期为67个月（删失），提示NSCLC患者2年内的存活率高；共有19例复发，复发出现的时间区间为首次治疗后的15\~38个月，平均26.5个月，提示首诊2年后应加强随访以防复发;其中有17例在随访期内均死于肿瘤转移,5年累积生存率为 $7 1 . 1 8 \% ( 4 2 / 5 9 )$ ，稍高于李艳华[18]等的报道，其原因是：(1)本组有 $7 4 . 5 8 \%$ (44/59)的患者接受手术，且有 $6 6 . 1 0 \%$ 的患者接受放疗，因此治疗措施较综合[19];(2)I及Ⅱ期患者比例较高（20 $( 6 7 . 8 0 \% )$ ,为预后奠定病理学基础2；(3)以上患者多为本地户籍，较多使用中医中药辅助治疗，且当地空气污染不明显，这对于保护免疫力可能有一定的作用。
+
+生存分析显示：女性生存期长于男性，这与目前的流行病学资料一致;放疗患者生存期长于未放疗患者，这同样与当前的报道相符，原因是放疗可进一步杀灭肺癌细胞从而降低复发及转移概率，对于手术患者该效应更为明显。一个有趣的现象是本数据显示 $< 5 0$ 岁生存期长于 $\cdot { > } 5 0$ 岁，目前关于该现象的报道不多。笔者选择50岁作为一个年龄段的原因有：50岁处于女性患者的更年期，而近年流行病学资料显示女性的肺癌发病率有所增加，尤其是腺癌[16];对于男性及女性，50岁都基本处于事业成熟期，该时期发病对于事业及家庭均有重要影响。本研究还发现另一个富有新意的危险因素一一脑力劳动者。该因素不利于延长生存期的原因可能包括：脑力劳动者精神压力大，且往往缺乏睡眠，容易损伤免疫力2；该类群体患者多数工作或生活在城市，空气污染相对较重;缺乏体力劳动或体育锻炼，容易形成血栓甚至癌栓(本组有2例在高校工作的患者疑似癌栓合并血栓)。
+
+因此， $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞在预测NSCLC复发的敏感度及特异度均优于蛋白类TMCyfra21-1及CEA;男性、大于55岁、从事脑力劳动、未行放射治疗是NSCLC复发的高危因素，对于此类患者尤其是大于55岁的脑力劳动者，应加强随访从而预防复发。本研究的不足包括样本量不够大、随访时间较短，且未观察其他病理学类型、病程、手术方式等因素对NSCLC患者的预后的影响，以上将在后续研究加以探讨。
+
+# 参考文献：
+
+[1]Won YW,Joo J,Yun T,et al.A nomogram to predict brainmetastasis as the first relapse in curatively resected non-small celllung cancer patients[J].Lung Cancer,2015,88(2): 201-7.  
+[2」倪军,张力.四种肺癌肿瘤标记物在临床中的应用价值[J].中华内科杂志,2015,54(7):651-4.  
+[3」张国云,周春宇,刘晓岚.非小细胞肺癌放疗前后血清肿瘤标记物的改变及其临床意义[J].中国实验诊断学,2011,15(5):851-2.  
+[4]吴卫锋，吴洁文，邢窕思. $\mathrm { C D 4 ^ { + } C D 2 9 ^ { + } T }$ 细胞在肺癌患者的表达及其与肿瘤病理学类型及分期的相关性[J].实用医学杂志,2015,31(15):2477-9.  
+[5」李姝君，沈湘,吴爱兵,等.肺癌患者T细胞亚群和D-二聚体与临床分期相关性分析[J].中国现代医生,2013,51(22):58-9,62.  
+[6]张凌云,雷琳,孙志华.培美曲塞加奈达铂联合放疗同步治疗局部晚期肺腺癌的临床观察[J].癌症进展,2014,12(1):75-8.  
+[7」强光亮,郭永庆，肖飞，等.ⅢIA-N2期非小细胞肺癌完全切除术后复发危险因素分析[J].中华医学杂志,2014,62(41):3239-43.  
+[8]Page JM,Merkel AR,Ruppender NS,et al. Matrix rigidity regulatesthe transition of tumor cells to a bone-destructive phenotypethrough integrin $\beta 3$ and TGF- $\cdot \beta$ receptor type II[J].Biomaterials,2015,64(9): 33-44.  
+[9]崔少华,白 皓,董莉莉,等.肺癌脑转移生存预测因素分析[J].中国肺癌杂志,2015,18(7):436-42.  
+[10]Chen D, Zhang Y, Zhang X,et al. Overexpression of integrin-linkedkinase correlates with malignant phenotype in non-small cell lungcancer and promotes lung cancer cell invasion and migration viaregulating epithelial-mesenchymal transition (EMT)-related genes[J].Acta Histochem,2013,115(2): 128-36.  
+[11]Su YJ,Lin WH, Chang YW,et al. Polarized cell migration inducescancer type-specific CD133/integrin/Src/Akt/GSK3β/β-catenin sig-naling required for maintenance of cancer stem cell properties [J].Oncotarget,2015,6(35): 38029-45.  
+[12]陈礼文,盛守琴,周 强,等.CEA与CYFRA21-1在非小细胞肺癌血清和胸腔积液差异表达及其相关性分析[J].实用医学杂志,2014,30(8): 1221-4.  
+[13]张一弓,郑 燕,姜 龙,等.肺癌患者血清HE4的预后意义[J].中华放射医学与防护杂志,2014,34(6):423-6.  
+[14]敬怀志,邱 峰,陈世知,等.非小细胞肺癌中TRIM25和PKM2蛋白表达[J].南方医科大学学报,2015,35(3):437-41.  
+[15]胡婷华,姚 煜,于 硕,等.非小细胞肺癌组织中CXCR4和Nrf2的表达及其临床意义[J].南方医科大学学报,2014,34(2):153-8.  
+[16]Salvo E,Garasa S,Dotor J,et al. Combined targeting of TGF $_ { \cdot \beta 1 }$ （204号and integrin β3 impairs lymph node metastasis in a mouse model ofnon-small-cell lung cancer[J].Mol Cancer, 2014,13(9): 112.  
+[17]黄邵洪,李 昀,张 健,等.非小细胞肺癌合并孤立性肾上腺转移瘤预后及影响因素分析[J].中华肿瘤防治杂志,2014,21(1):47-50.  
+[18]李艳华,黄启洪,林 晓,等.四会市2003-2005年恶性肿瘤及鼻咽癌生存分析[J].中华肿瘤防治杂志,2013,20(10):734-6.  
+[19]Berghoff AS,Kovanda AK,Melchardt T,et al.αvβ3,αvβ5 and avβ6integrins in brain metastases of lung cancer[J]. Clin Exp Metastasis,2014,31(7): 841-51.  
+[20]陈涵一,杨 琛,闫蓓,等.浦东新区不同组织学类型肺癌发病及生存情况[J].中国肺癌杂志,2014,17(3):203-8.  
+[21]李姝君,杨志雄,田鲜艳,等.Survivin在肺癌中表达意义及其与Fas/FasL表达的关系[J].中国医药导报,2011,8(20):17-9.(编辑.孙昌明)

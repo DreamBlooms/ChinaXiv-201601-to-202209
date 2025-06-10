@@ -1,0 +1,653 @@
+[
+    {
+        "type": "text",
+        "text": "A novel fully automatic scheme for fiducial marker-based alignment in electron tomography ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Renmin Hana,b, Liansan WangC, Zhiyong Liud, Fei Sun b.e,f\\*,Fa Zhanga,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aKeyaboftellgentfatonocessingsiuteoompuingolyesecdeyofncesng   \nbUniversityofhineseAcademyofSciences,Beijing,hina   \n‘Beijing Instituteof Technology,Beijing, China   \ndStateKeyLboomputerrctecture,stiutefomputingnologyesedemyfiecesiing   \neNationalLbotorfoolecuesitefiedctudj   \nfCenterforologicalImaging,stituteofiophysics,ChneseAcademyofiences,15tunRod,eijingina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 21 May 2015   \nReceived in revised form 25 September 2015   \nAccepted 30 September 2015   \nAvailable online 1 October 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nElectron tomography Alignment   \nPoint set registration Four point invariant ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although the topic of fiducial marker-based alignment in electron tomography (ET) has been widely discussed for decades,alignment without human intervention remains a difficult problem.Specifically,the emergence of subtomogram averaging has increased the demand for batch processing during tomographicreconstruction; fully automatic fiducial marker-based alignment is the main technique in this process.However,the lack of an accurate method for detecting and tracking fiducial markers precludes fully automatic alignment. In this paper,we present a novel,fully automatic alignment scheme for ET. Our scheme has two main contributions:First,we present a series of algorithms to ensure a high recognition rate and precise localization during the detection of fiducial markers.Our proposed solution reduces fiducial marker detection to a sampling and classification problem and further introduces an algorithm to solve the parameter dependence of marker diameter and marker number.Second,we propose a novel algorithm to solve the tracking offiducial markers by reducing the tracking problem to an incomplete point set registration problem.Because a global optimization of apoint set registration occurs,the result of our tracking is independent of the initial image position in the tilt series,allowing for the robust tracking of fiducial markers without pre-alignment.The experimental results indicate that our method can achieve an accurate tracking,almost identical to the current best one in IMOD with half automatic scheme.Furthermore,our scheme is fully automatic,depends on fewer parameters (only requires a gross value of the marker diameter)and does not require any manual interaction,providing the possibility of automatic batch processing of electron tomographic reconstruction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electron tomography (ET） techniques have become an indispensable tool in structural biology.In ET,the three-dimensional density of the ultrastructure is reconstructed from a series of micrographs(tilt series) taken in different orientations.Generally, the geometrical information about the tilt series can be recorded by the electron microscope.However,the projection environment maybeaffected bymechanical instability,and inevitable transformations and deformations of the sample occur during data collection. Therefore,to obtain high-quality three dimensional density maps,the projection parameters of the tilt series should be calibrated accurately before reconstruction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two main types of alignment methods are available for ET: marker-freealignmentand marker-based alignment.Each type of method has its own applicability and limitations.Marker-free alignment (e.g.,cross-correlation(Guckenberger,1982）and common lines(Liu etal.,1995) used in coarse alignment,the iterative alignment methods combining cross-correlation with reconstruction and reprojection (Winkler and Taylor，2Oo6，2013)，and feature-based alignment methods that replace fiducial markers with features (Brandt et al.，2OO1a; Brandt and Ziese，2006; Castaio-Diez et al., 2007, 2010; Phan et al., 2009; Sorzano et al., 2009；Han et al.，2O14)） does not require fiducial markers to be embedded in the sample.However,the applications of marker-free alignment are still limited by Signal-to-Noise Ratio (SNR),the intrinsic biological structure of the sample and the contrast of the micrographs. Fiducial marker-based alignment (Lawrence,1992；Kremer et al.,1996;Frank,2006) requires that fiducial markers be embedded in the sample.Because fiducial markershave a high contrast with the background， the positions of the markers can be determined precisely，which further improves the alignment accuracy.Therefore，fiducial marker-based alignment is most accurate and has been widely used for high resolution electron tomography.Particularly for cryo-ET datasetswithlowSNR, fiducialmarker-based alignment could be the only choice (Amat et al.,2oo8). However, to benoted that,the embeddingof fiducial markersmay interfere with the sample and introduce undesirable artifacts in the reconstruction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fiducial marker-based alignment requires the positions and the corresponding relationship of markers in different tilted micrographs.Thus,marker-based alignment should first localize the embedded fiducial markers in micrographs and then track these markers throughout the tilt series.Although fiducial markerbased alignment has existed almost as long as structural biology, there are still no robust automatic schemes to perform the detection and tracking of fiducial markers.With the advent of the subtomogram averaging technique (Briggs，2O13)，batch tomographic reconstruction becomes an urgent demand,and fully automaticalignmentis the main technique for batch tomographic reconstruction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The manual intervention in marker detection and tracking is the bottleneck of marker-based alignment for high-throughput tomographic reconstructions.A number of studies have focused on the marker detection and tracking issue.The fiducial marker detection is usually performed by template matching (Kremer et al.， 1996; Brandt et al.， 2001b; Zheng et al., 2007；Amat et al.，2008；Cao et al.，2011). However, the result of template matching is usually affected by the value of the threshold used to determine the similarity between the image patches and the fiducial marker template.Furthermore,the value of the threshold used in the template matching usually variesfor different datasets, and an unsuitable threshold results in an unacceptable output. Current studies on fiducial marker-based alignment also have invested minimal effort in the refinement of the marker diameter parameter.Usually, the diameter parameter is set by users,and an incorrect value also can corrupt the result.The fiducial marker tracking is usuallyperformed by local search between consecutive images, usingtheunderlyinglocal geometry information orlocal similarity of patches(Ress et al.，1999； Brandt et al.，2001b; Amat et al.，2008；Cao et al.，2011). The reason why previous studies employ local search to track fiducial markers is that if the problem is modeled as a globally consistent tracking，the required computational resources will be extremely large. The use of local geometry information can improve tracking speed, but it cannot guarantee global consistency.Here,we present a novelfullyautomaticschemeforfiducialmarker-based alignment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First,we developed a complete algorithm to solve the detection problem automatically.Two types of parameters are used in the detection of fiducial markers.The first type includes the information of fiducial markers,such as the marker diameter and the shape of the fiducial marker. The second type of parameters includes the thresholds used to detect of fiducial markers. A robust automatic detection of fiducial markers depends on reasonable adjustment and estimation of these parameters.First, we developed an algorithm to refine the marker diameter. Then,we convert the maker detection problem into a sampling and classification problem．By solving this problem，we can automatically detect the fiducial markers,estimate the number of markers in each micrograph and eliminate the dependence of the threshold used in the detection.Thereafter,we developed an algorithm to refine the localization precision of the detected markers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After fiducial markerdetection， wepropose aglobal optimization algorithm to solve the tracking problem.Under the weak perspective projection model,corresponding image features in two respective 2D views from the identical planar surface are related by an affine transformation (Huttenlocher and Ullman，1990；Koenderink and van Doorn，1991). Based on the affine transformation relationship of the two projections, we reduce the tracking problem to an incomplete point set registration problem and propose a novel method to solve the matching of corresponding fiducial markers.Unlike traditional studies (Ress et al.，1999； Brandt et al.，2001b；Amat et al., 2008；Cao et al., 2O11） that treat the matching of corresponding fiducial markers as a tracking problem and use the local geometry or similarity of patches to accelerate the tracking,our solution does not use the local geometry information.Because the optimization of the point set registration is globally consistent, our tracking method is independent of the initial state of the tilt seriesand allowsinputswith unrefined fiducialmarker positions (possibly contaminated by outliers and missing data). Furthermore,the optimization of the point set registration can be solved by common computational resources in an acceptable time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally，we combine the detection and tracking methods into a fully automatic alignment scheme and evaluate the scheme with experimental data.The theoretical analysis and experimental results show the efficiency of theproposed scheme. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The steps of our alignment scheme are illustrated in Fig.1.1 The first step is to refine the parameters of the fiducial markers and detect the fiducial markers in the tilt series.We develop an algorithm to estimate the diameter parameter of the fiducial markers.A novel sampling and classification algorithm is used to ensure the exhaustive detection of the fiducial markers,and a new algorithm used to refine the final positions of the extracted fiducial markers is also illustrated as a post-detection subprocess. The second step is to match corresponding markers.We design a novel algorithm based on the idea of incomplete point set registration to guarantee a globally consistent matching of two marker sets.The third step is to track matching pairs consistently across the tilt series and to stretch the tracks as long as possible.A strategy that accelerates the tracking and compensates for the missing of fiducial markers is used in this step.The final step is to optimize the projection parameters with the determined tracksand， whennecessary， totransformtheimages geometrically. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Marker parameters refinement and marker detection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To detect fiducial markers,we need a clear definition of the appearance of fiducial markers in ET:the shape of a fiducial marker in a micrograph is a circular or nearly circular area with an outstanding contrast to the nearby area and the shape of an identical fiducial marker does not change substantially with different tilt angles.In addition,we notice that the theoretical capacity,i.e.,the number of fiducial markers that a micrograph isable to contain,is limited by the image size and the diameter of the markers (regardless of overlapping). In traditional studies (Ress et al.，1999；Brandt et al.，2001b;Amat et al., 2008；Cao et al.,2O11),the number of fiducial markers is set by the users, and the candidates of fiducial markers are ranked according to their Normalized Cross-Correlation(NCC) value.When the rank of a candidate is lower than the number inputted by the user, the candidate is assumed to be a fiducial marker.This type of strategy works well in most conditions but is not robust against incorrect user inputs.Furthermore,when the user has input a largenumber(forexample,1o,ooofiducialmarkers)， no applicable threshold develops.A hard threshold used to determine the final set of fiducial markers also is not applicable because of the change of amplitude of micrographs in different tilt angles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c29db07e1723402c7fb4c479c984360167c8b2d070b9c78f9536929ef85a6ca.jpg",
+        "img_caption": [
+            "Fig.1.Flowchart of our automatic alignment scheme. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Before further discussing our method,we would like to emphasize the theoretical capacity of fiducial markers in a micrograph.Assuming we already know the exact value of the marker diameter (denoted as $d$ )，givena micrographwithwidth wand height $h$ ，the theoretical maximum number of fiducial markers that can be detected from the micrographis $( \\boldsymbol { w } \\cdot \\boldsymbol { h } ) / d ^ { 2 }$ . Furthermore,if we have already picked out all the $( \\boldsymbol { w } \\cdot \\boldsymbol { h } ) / d ^ { 2 }$ candidate patches from the micrograph,our work is to classify these patches and determine the real fiducial markers.Therefore,in the case that the exact value of the marker diameter is already known,we can reduce the detection problem to a classification problem without considering the actual number of fiducial markers or the threshold. On the contrary, if we have a method to classify the candidate patches and have already extracted all the fiducial markers,we can determine the most accurate value of marker diameter.Therefore,we propose anovel algorithm to detect the fiducial markers.The detection algorithm consists of two sub-algorithms:a fiducial marker detecting algorithm based on the presupposition of known marker diameter and a marker diameter refining algorithm based on the presupposition of known exact fiducial markers.We will first introduce the marker detecting algorithm (Algorithm 1) and then introduce the marker diameter refining algorithm (Algorithm 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Algorithm1.Detect fiducial markers under a given value of   \nmarker diameter   \nprOCedure: DETECTFIDUCIALMARKERS(d,img)   \n1: Normalize the amplitude of img   \n2: Create fiducial marker template tmplt   \n3: $c o r r \\gets N C C$ (img,tmplt)   \n4:Normalize the amplitude of corr   \n5 $: C A N D I  \\emptyset$   \n6: thre1 $ A V G ( c o r r )$ 1， $k r e 2  A V G ( i m g )$ （20   \n7: for $i = 0$ to $w$ in step length of $d$ do   \n8: for $j = 0$ to $h$ in step length of $d$ do   \n9: Find the point $p _ { ( i , j ) }$ with maximum NCC value   \n10: if $c o r r ( i , j ) >$ thre1and img $( i , j ) >$ thre2 then   \n11: $p _ { ( i , j ) } . n c c \\gets c o r r ( i , j )$ ， $p _ { ( i , j ) } . \\nu a l \\gets i m g ( i , j )$   \n12: $C A N D I  p _ { ( i , j ) } \\cup C A N D I$ （204号   \n13: end if   \n14: end for   \n15:end for   \n16:Analysis the distribution of ncc and val of candidates {In   \nour implement,we fita Gaussian distribution model}   \n17: Calculate the mean $\\mu$ and the standard deviation $\\sigma$ of   \n$\\{ p _ { ( i , j ) } . n c c \\times p _ { ( i , j ) } . \\nu a l \\}$   \n18:thre3 $\\hphantom { - } 3 \\gets \\mu + 2 . 5 \\sigma$ （20   \n19: $F I D  \\emptyset$ （204号   \n20: for all $p _ { ( i , j ) } \\in C A N D I$ do   \n21: i $\\mathsf { f } p _ { ( i , j ) } . n c c \\times p _ { ( i , j ) } . \\nu a l > t h r e 3 \\mathrm { ~ t h e n }$   \n22: FID ←FID UP(j)   \n23:end if   \n24: end for   \n25:Test the shape of fiducial markers in FID by region   \ngrowing   \n26:Refine the position of fiducial markers in FID   \n27:return FID ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The flowchart of the marker detecting algorithm is illustrated in Fig.A.1.The marker detecting algorithm requires two inputs: themicrographanda template of fiducial markers.The template can be an average of fiducial markers or an artificial template generated from the already known marker diameter.As discussed above，the fiducial markers have very different shapesand contrasts strongly with the background.Here,the circular shape and the contrast is used as two characteristics of the fiducial markers in our solution.The algorithm fora given diameter(artificial template is used as marker template)is described in detail in Algorithm1,where $d$ is the input value of the diameter (unit: pixel),img is the original micrograph,FID is the set of fiducial marker positions, $A V G ( \\cdot )$ is the operation to obtain the mean pixel value of an image and the set CANDl represents the candidate points of fiducial markers.First,an artificial template is created from the input diameter information (a black circular area with a white background). Then,the Normalized Cross-Correlation is used to determine the similarity between patches of the micrograph and the template.The amplitudes of img and corr are normalized to $0 \\sim 1$ for further analysis (without cutoff).² The image is then divided into $( \\boldsymbol { w } \\cdot \\boldsymbol { h } ) / d ^ { 2 }$ patches and for every patch,the point with the maximum cross-correlation value is selected as a candidate of fiducial marker position.The selected marker positions whose pixel value in micrograph is smaller than the mean pixel value of img or corresponding NCC value with the template is smaller than the mean value of corr will be excluded from the candidate set.In other words,a very loose threshold is used to further refine the candidate set. The NCC value of the patch is assigned to the candidate as the ‘shape label' (denoted as $p _ { ( i , j ) } . n c c )$ and the corresponding pixel value of the point in the micrograph is asigned to the candidate as‘contrast label' (denoted as $p _ { ( i , j ) } . \\nu a l )$ It should be noted that in set CANDI,there are still thousands candidate points remaining after being filtered by the loose threshold. We use the candidates extracted from the zero-tilt slice of the Centriole ( $\\overset { \\cdot } { d } = 8$ pixels),an example downloaded from the website of IMOD (Kremer et al.,1996),as our illustration to show the characteristics of fiducial markers.Fig.2 illustrates the typical distribution of the values of the shape label and contrast label of these candidates.As shown in Fig.2(a),the background and the real fiducial markers can be easily separated bya boundary line.However,to make the computer understand the difference between the background and real fiducial markers,we still need other technique supports.We have tried cluster analysis,for example, $k$ -means and OPTICS (Ankerst et al., 1999), to separate the background and real fiducial markers.Though these techniques produce good separation and figure out the final candidate of fiducial markers, they cost relatively high computational resources.Our used solution is a threshold-based method relying on the statistical properties of the ‘labels'，which can reach comparable accuracy in a simple way. In this solution，for every candidate，a score $s ( p ) = N C C$ value $\\times$ pixel value is calculated.Given a threshold whose value is $\\mu + 2 . 5 \\sigma$ ，where $\\mu$ is the mean of $s ( p )$ and $\\sigma$ is the standard deviation of $s ( p )$ ,if $s ( p )$ is larger than the threshold, the corresponding candidate will be reserved.Fig.2(b） illustrates the histogram of the NCC value $\\times$ pixel value for all candidates. It can be found that the distribution of the values of $s ( p )$ approximatively follows a Gaussian distribution,which is in agreement with the central limit theorem.Maybe some good candidates are excluded by this solution,however,the proportion is very small and they can be recovered in marker tracking and extension. Finally,region growing is used as the final check to exclude false and low quality markers² and the positions of fiducial markers arerecalculated (the refinement of fiducial marker positions consists of two steps:the first step is to relocalize the fiducial markers by centroid calculation; the second step is to refine the positions by our position refinement algorithm,i.e.Algorithm 3,which will be discussed below). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7091abd63f6302dcf758c9cde3f8428a9da53721845b97524fec698dcaa5cc6.jpg",
+        "img_caption": [
+            "Fig.2.The distribution of the shape labels and contrast labels of candidate fiducial markers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algorithm2.Refine the diameter of fiducial markers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "prOCedure:REFINEMARKERDIAMETER(d,img)   \n1: while $\\xi > \\xi _ { 0 }$ do   \n2:Initialize search space of diameter $D I A = \\{ d _ { i } | d - \\xi / 2 < d _ { i } < d + \\xi / 2 , i = 1 , 2 \\ldots M \\}$   \n3: for all $d _ { i } \\in D I A$ do   \n4: Create fiducial marker template tmplt   \n5: $F I D =$ DetectFiducialMarkers $( d _ { i } , i m g )$   \n6: Create the average of fiducial markers avg_tmplt from FID with diameter $d _ { i }$   \n7: $d _ { i } . s i m \\gets N C C ( a \\nu g . t m p l t , t m p l t )$ （204号   \n8: end for   \n9: Find the diameter with maximum score $d _ { m a x }$ and submax score $d _ { s u b }$   \n10: （20号 $d \\gets ( d _ { m a x } + d _ { s u b } ) / 2 , ~ \\xi \\gets ( d _ { m a x } - d _ { s u b } )$   \n11:end while   \n12:return d ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although the diameter of fiducial markers can be determined using edge detection methods (for example, the Sobel Filter Kremer et al.，1996)，the performance of edge detectionis negatively affected by the SNR of cryo-ET datasets.We propose an algorithm to guarantee a robust estimation of the marker diameter.The flowchart of one loop of the algorithm is illustrated in Fig.A.2,and the detailed algorithm is described in Algorithm 2, where $d$ is the input value of the diameter,img is the original micrograph, $\\xi$ is the search range and $\\xi _ { 0 }$ is the exit condition. In our implementation,a grid search is used in the algorithm, where $d _ { i }$ is generated by an internal step that will change in each iteration and $M$ is the size of discretized search space DIA.First, the value of the diameter obtained from the search space is assumed to be correct,and the corresponding fiducial markers aredetected by Algorithm1.Then,all of the fiducial markers in set FID are assumed to be real fiducial markers and localized accurately;therefore,an average template of fiducial markers can be obtained byaveragingall the fiducial markers.Asimilarity score is obtained by calculating the NCC between the artificial template tmplt and the average template avg_tmplt.The above process is repeated until all the similarity scores for the diameters in the search space are calculated.The search space is updated by the diameters with the maximum value of similarity score. Finally,when the search range is smaller than $\\xi _ { 0 }$ ，the iteration stops and an estimation of the diameter is outputted.Typically, the zero-tilt slice of the micrographs is used as a reference for the diameter refinement. Our experiments indicate that an $\\xi _ { 0 }$ value of O.5 pixelsissufficient. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Byintroducing Algorithms1and2,we have solved the problem of the dependence of parameters of marker diameter and the number of fiducial markers.When a suitable diameter value is determined in Algorithm 2,a fiducial marker template(average template） can be generated by averaging the detected fiducial marker patches;this average template can replace the artificial template used in Algorithm1and further improve the performance of our method.An illustration of the performance of our algorithm will be provided in the Section 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "prOCedure:REFINEMARKERLOCALIZATION(d,img,FID)   \n1: $r e s \\gets$ int_max {residual}   \n2:while $r e s > r e s _ { m i n }$ do   \n3:Get all the patches that represent fiducial markers (image area with $d \\times d$ size,centering in the position of markers) from FID,denote the patchesas FID IMG   \n4:Enlarge the patches in FID_IMGK times ( $K = 1 6$ ,in our implementation)   \n5:Create the average of fiducial markers avg_tmplt from FID_IMG(Because FID IMG have been enlarged,avg_tmplt is also enlarged $K$ times)   \n6: $r e s \\gets 0$   \n7:for all $f i d _ { i } \\in F I D$ do   \n8: Get an image area of a marker $( ( d + 2 \\cdot B ) \\times ( d + 2 \\cdot B )$ size,centering in the position of $f i d _ { i }$ ),denote the imagearea as patchi   \n9: Enlarge the patchi $K$ times   \n10: $c o r r \\gets N C C ( p a t c h _ { i }$ avg_tmplt)   \n11: Find the point $p _ { i }$ with maximum NCC value in corr   \n12: map $p _ { i }$ to the position in img,update the value of $p _ { i }$   \n13: res ←res + DISTANCE(fidi, Pi)   \n14: $f i d _ { i } \\gets p _ { i }$   \n15: end for   \n16: res ←res/(size ofFID)   \n17:end while   \n18:return FID ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Localization precision is another issue.Although the centroid of fiducial markers can provide sub-pixel marker localization,its performance is easilyaffected by the background of micrographs (the centroid only considers the pixel value).Here,we propose an algorithm to refine the localization of fiducial markers by iteratively re-localizing the fiducial markers,generating an average template and re-scoring the similarity.The flowchart of the algorithm is illustrated in Fig.A.3and the detailed algorithm is described in Algorithm3.In our opinion, the shape is more important than the contrast for the final localization of fiducial markers. First,we generate an average template of fiducial markers that have been enlarged $K$ times $( 1 / K$ represents the measurement precision; $K = 1 6$ in our implementation).The image areas $( p a t c h _ { i }$ corresponds to $f i d _ { i }$ ）around a marker position are also selected and enlarged.Wewill spare some boundary (size in $B$ ） for further adjustment of the marker localization.Based on the NCC value of each patch,the position of each fiducial marker $f i d _ { i }$ isrefreshed ( $\\cdot p _ { i } ,$ ，in minimum scale $1 / K { \\mathrm { \\cdot } }$ )andtheaverageresidual res between all the $f i d _ { i }$ and $p _ { i }$ is calculated.This procedure is performed iteratively until the value of res is smaller than $r e s _ { m i n }$ (typically we set $r e s _ { m i n }$ to $1 / K )$ .Ouralgorithm can localize the position of fiducial markers to a minimum scale of $1 / K$ and our algorithm sufficiently considers the shape of the fiducial markers during the re-localization.Furthermore,because the average template of fiducial markers is recalculated for each micrograph,our algorithm can suppress the variations in the scale and contrast of fiducial markers caused by the change of tilt angle. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.Corresponding fiducial marker matching ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two characteristics should be considered in fiducial marker matching.The first consideration is that the positions of fiducial markers in micrographs can change substantially because of the perspective projection and in-plane rotation of samples.The second considerationis that there may be missing or falsely detected fiducial markers for the micrographs from different tilt angles. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First,we restate the problem as follows:Let ‘point set'denote the positions of the fiducial markers extracted from a projection. Given two point sets ( $\\mathcal { M }$ and $s$ ）belonging to different views,an affine transformation $T ( \\cdot )$ applied to the moving“model”point set $\\mathcal { M }$ can be found so that there exists a subset of $T ( \\mathcal { M } )$ with the maximum cardinality in which the points are corresponding to the points froma subset of the static“scene\"set $s$ undera select measure of distance.The corresponding relationship of these points is called ‘congruent'and the two subsets with maximum corresponding points to each other are called maximum congruent subsets.The subset of $T ( \\mathcal { M } )$ with maximum corresponding peers is denoted as largest common point set (LCP). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the cardinalities of $\\mathcal { M }$ and $s$ are not equal ( $\\mathcal { M }$ and $s$ represent the detected fiducial marker positions of different micrographs and the size of detected fiducial markers from different micrographs are not equal),it is an incomplete point set registration problem for fiducial marker tracking.Although there are many works discussing the problem of point set registration(Bishnu et al.，2006；Rusinkiewicz and Levoy，2001)，most of the works focus on the case of rigid transformation.Recently,some efforts based on heuristic methods(Zhang et al.,2Oo3） have been conducted to solve the affine point set registration problem.However, the performance of these methods heavily depends on the choice of parameters and is limited by the application field.To solve the incomplete point set registration problem,we must make a tradeoff between the robustness and computational complexity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Before further analysis of our solution,we introduce three basic concepts.The first concept is the affine invariant ratio of four points (Huttenlocher,1991),which has been widely used in computer graphics and vision (Aiger et al.,2Oo8). As shown in Fig. 3, let points ${ a , b , c , d }$ compose a point set $\\boldsymbol { \\mathscr { S } } _ { 1 }$ . Point $e$ is the intersection of line ab and cd.If there is a point set $ { \\boldsymbol { S } } _ { 2 }$ generated from $\\boldsymbol { \\mathscr { S } } _ { 1 }$ under the transformation $T ( \\cdot )$ ，then the ratio $r _ { 1 } = \\| a - e \\| / \\| a - b \\|$ and $r _ { 2 } = \\| c - e \\| / \\| c - d \\|$ are preserved under affine transformation, i.e., $\\| a ^ { \\prime } - e ^ { \\prime } \\| / \\| a ^ { \\prime } - b ^ { \\prime } \\| = r _ { 1 }$ and $\\| c ^ { \\prime } - e ^ { \\prime } \\| / \\| c ^ { \\prime } - d ^ { \\prime } \\| = r _ { 2 }$ . The use of the affine invariant can significantly reduce the computational complexity.The second concept is the random sample consensus (RANSAC)(Fischler and Bolles,1981).RANSAC isa widely used technique for the robust estimation of data with noise and outliers. Our matchingalgorithm is based on the idea of RANSAC.The third concept is the affine transformation model.Micrographs recorded ina tilt series obey the laws of affine projection (affine projection isa special case of weak perspective projection), the relationship of corresponding image points can be modeled as an affine transformation (Huttenlocher and Ullman，199o; Koenderink and van Doorn, 1991). Transformation $T ( \\cdot )$ is modeled as $x ^ { \\prime } = A x + t ,$ where $x$ and $x ^ { \\prime }$ are vectors representing points in $\\textstyle \\mathbb { R } ^ { 2 }$ ,A is a $2 \\times 2$ matrix, and t is the translation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e77f260d4c430283495795f52ac801a1d663db88239e9e387983da66f1b9af1a.jpg",
+        "img_caption": [
+            "Fig.3.Illustration of a four-point congruent set. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "procedure:FINDMATcH(M,S,dist_thre) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1: Generate all the quadrilaterals $Q _ { i }$ with wide-base, $\\varPhi = \\{ Q _ { i } | Q _ { i }$ is a 4 point subset ofS}   \n2: Calculate invariant ratios of all $Q _ { i }$ ,i.e. $Q _ { i }$ .in va1 and $Q _ { i }$ .inva2   \n3:Create kd-tree of $\\phi$ with $Q _ { i }$ .inva1 and $Q _ { i }$ .inva2as search keys,denote the kd-tree as $K D ( \\phi )$ （20   \n4: Calculate the maximum iteration count max_count   \n5:iteration $ 0$ （204号   \n6:while iteration $<$ max_count do   \n7: Randomly select a quadrilateral $P _ { r a n }$ from M   \n8: Search $K D ( \\phi )$ , get all the $Q _ { i }$ whose keys appropriately equal to $P _ { r a n }$ ,denote the quadrilateral set as $\\psi$   \n9: for all $Q _ { i } \\in \\varPsi$ do   \n10: Estimate the transformation $T ( \\cdot )$ to be applied to （204号 $P _ { r a n }$ ，so that $T ( P _ { r a n } )$ appropriately equals $Q _ { i }$   \n11: Apply $T ( \\cdot )$ to $M$   \n12: Find $C ( T ( M ) ) \\subset T ( M )$ and $C ( S ) \\subset S ,$ so that $C ( T ( M ) )$ is congruent to $C ( S )$ with the maximum cardinality under distance threshold 3dist_thre   \n13: if the cardinality of $C ( T ( M ) )$ is large enough then   \n14: Re-estimate $T ( \\cdot )$ by $C ( M )$ and $C ( S )$ ,so that （204号 $T ( C ( M ) )$ appropriately equals $C ( S )$ 4   \n15: Apply $T ( \\cdot )$ to $M$   \n16: Find $C ( T ( M ) ) \\subset T ( M )$ and $C ( S ) \\subset S$ ，so that $C ( T ( M ) )$ is congruent to $C ( S )$ with the maximum cardinality under distance threshold dist_thre   \n17: end if   \n18: if $C ( T ( M ) )$ has the current maximum cardinality then   \n19: $M A T C H \\_ P A I R  P a i r < C ( M ) , C ( S ) >$   \n20: Re-calculate the maximum iteration count max_count   \n21: end if   \n22: end for   \n23: iteration $$ iteration+1   \n24: end while   \n25:return MATCH PAIR and $T ( \\cdot )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our solution is described in Algorithm 4,where $\\mathcal { M }$ is the moving point set, $s$ is the fixed point set,and dist_thre is the distance threshold used to find the largest common point set. In our implementation,only the quadrilaterals with wide-base are used.4 Although there are many quadrilaterals in a point set,most quadrilaterals are not suitable for estimating $T ( \\cdot )$ .Matching with wide-base is more stable.Kd-tree is used to accelerate the search of quadrilaterals with appropriate keys (Bentley, 1975). The complexity of building a kd-tree differs according to its implementation and generally refers to $O ( \\alpha n \\log n )$ . The search complexity is $O ( \\log n )$ on average. Here, $\\alpha$ is 2,referring to the two ratios of the 4-point affine invariant. The matching procedure based on RANSAC in our algorithm is as follows:First,a quadrilateral is random selected from $\\mathcal { M }$ ，a search is performed for the potential congruent point set of the selected quadrilateral in $s$ ,and the corresponding transformation $T ( \\cdot )$ is calculated.Then the calculated transformation $T ( \\cdot )$ is applied to $\\mathcal { M }$ ，and the number of points in $T ( M )$ that is congruent with S is counted.If the cardinality is sufficiently large，accept the transformation $T ( \\cdot )$ as a solution. Repeat this process until the iteration reaches the maximum count. Typically，the transformation $T ( \\cdot )$ is estimated by least squares estimation.However,least squares estimation isnot robust to noise.To overcome this disadvantage,a two-stage estimation of the transformation is used. In the first stage, $T ( \\cdot )$ is estimated using a randomly selected quadrilateral $P _ { r a n }$ and its congruent set $Q _ { i }$ .Then,a loose distance threshold $3 \\cdot$ dist_thre is used to count the appropriate congruent points in $\\mathcal { M }$ and $s$ If the cardinality of the congruent subset $C ( T ( M ) )$ issufficiently large,go to the second stage. In the second stage,the transformation $T ( \\cdot )$ is re-estimated by $C ( M )$ and $C ( S )$ ,and the congruent subset is re-counted under a tight distance threshold dist_thre.In our solution,the maximum iteration count is refreshed according to the formula $L = \\log ( 1 - p _ { s } ) / \\log ( 1 - p _ { g } ^ { N } )$ ，where $p _ { s }$ is the required successprobability, $p _ { g }$ is the probability that the randomly selected point from $\\mathcal { M }$ is also present in $s$ and $N$ isthe cardinality of the randomly selected data set $( N = 4 )$ .Let $m$ be the number of points in $\\mathcal { M }$ and $n$ be the number of points in $s$ The generation of all quadrilaterals with wide-base is $O ( n ^ { 2 } + k )$ where $k$ is the total number of quadrilaterals with wide-base. Here the value of $k$ depends on the diameter used as the wide-base.Typically, $k$ is much smaller than $n ^ { 4 }$ if an appropriate value is selected for the diameter.Thus，the complexity of building kd-tree is $O ( k \\log k )$ ，which is smaller than $O ( n ^ { 3 } \\log { n } )$ Considering that the complexity of selecting random quadrilaterals in $\\mathcal { M }$ is $O ( m )$ ，the total complexity of our method is bound in $m a x ( O ( n ^ { 2 } + k ) , O ( k \\log k ) , O ( L m \\log n ) )$ .Becausethe $p _ { g }$ in $\\boldsymbol { L }$ is very large in our problem (the appearance of fiducial markers in different micrographs is stable)，the value of $\\boldsymbol { L }$ isrelatively small. Therefore， oursolutionismuchfasterthanan exhaustivemethod (approximately $O ( n ^ { 8 } )$ according to Zhang et al. (2003)). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.Fiducial marker tracking ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If only the corresponding relationship of markers in two views is found, the tracking of fiducial markers in different micrographs is easy.First,we employ a multi-level matching strategy presented in Han et al.(2O14) to obtain a sufficient number of pairs of corresponding fiducial markers: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）Initialize $s t e p = 1$ ,while step $< =$ MAXSTEP; (2)For the nth micrograph of the series,match the markers between the nth and $( n + s t e p )$ thpointsets( $n = 1 , 2 \\dots )$ (3) $s t e p = s t e p + 1$ ：， (4)Repeat until the condition in(1) is not satisfied. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This type of strategy has been widely used in ET (Brandt and Ziese, 2006; Amat et al.,2008; Han et al.,2014). Experiments have shown thata value of2isacceptable for MAXSTEP in the situation of fiducial marker-based alignment.5 After obtaining a sufficient number of pairs,we would like to use the tracking model (a data structure mainly copes with random insertion,searching of markers and matching collision) introduced in the work of Han et al.(2014） to accelerate the generation of tracks.The case in which a local pair ofcorresponding markers is missingisalso easy to handle.Because we have already obtained the transformation $T ( \\cdot )$ of micrograph pairs during the marker matching,given analready detected fiducial marker,we can reasonably postulate the possible location of the missing marker in the next micrograph. Using template matching in the restrained area around the postulated location,we can easily find the missing fiducial markers.All potential missing markers are checked and re-detected in the tilt series until the tracks cannot be extended.It should be noted that for some markers in micrographs withhigh tilt angle,the tracks are naturally shorter than others because these markers have not been projected in the micrographs withlow tilt angles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.Projection parameter optimization",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Once all of the tracks have been generated,a suitable projection model is needed to determine the projection parameters. Generally, the photographing of ET micrograph is assumed to obey the law of affine projection.The projection model is formulated as follows (for convenience without the loss of generality，the coordinate and vector used here are given in homogeneous coordinates): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { u } } \\\\ { { \\nu } } \\\\ { { z _ { c } } } \\end{array} \\right) = K ( I , 0 ) \\left( \\begin{array} { c c } { { R } } & { { t } } \\\\ { { 0 } } & { { 1 } } \\end{array} \\right) \\left( \\begin{array} { c } { { X } } \\\\ { { Y } } \\\\ { { Z } } \\\\ { { 1 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $K$ is the intrinsic matrix of the camera, $( I , 0 )$ is the projection matrix, $R$ is an $3 \\times 3$ orthogonal matrix,which can also be written as $R _ { \\alpha } \\cdot R _ { \\beta } \\cdot R _ { \\gamma }$ ,representing rotation in space, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { R _ { x } = \\left( \\begin{array} { c c c } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { \\cos { 2 } } & { \\sin { \\chi } } \\\\ { 0 } & { - \\sin { \\chi } } & { \\cos { 2 } } \\end{array} \\right) , } \\\\ & { R _ { \\theta } = \\left( \\begin{array} { c c c } { \\cos { \\beta } } & { 0 } & { - \\sin { \\beta } } \\\\ { 0 } & { 1 } & { 0 } \\\\ { \\sin { \\beta } } & { 0 } & { \\cos { \\beta } } \\end{array} \\right) , } \\\\ & { R _ { \\gamma } = \\left( \\begin{array} { c c c } { \\cos { \\gamma } } & { \\sin { \\gamma } } & { 0 } \\\\ { - \\sin { \\gamma } } & { \\cos { \\gamma } } & { 0 } \\\\ { 0 } & { 0 } & { 1 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and $t$ is the 3-dimensional translation vector of the sample. $( X , Y , Z , 1 )$ isthe spatial locations of the markers inthe sample,and $( u , \\nu , z _ { c } )$ are the projections in the micrographs,i.e, $( u / z _ { c } , \\nu / z _ { c } )$ represents the positions of fiducial markers $( x , y )$ in the micrograph.Generally,the intrinsic matrix $K$ is fixed because the strength of electron beam and the intrinsic parameters of camerachanges minimally during experiment.The following cost function is used to optimize the parameters: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { i , j } \\Bigl ( \\operatorname* { P r o j } ( \\widetilde { X } _ { j } ) - x _ { i , j } \\Bigr ) ^ { 2 } \\delta _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\{ \\widetilde { X } _ { j } \\}$ is the set of spatial points to be estimated (in inhomogeneous coordinates).Proj(-) is the process of projection defined in Eq. (1). $x _ { i , j }$ is the configured position of fiducial marker and $\\delta _ { i , j }$ $( \\delta _ { i , j } \\in \\{ 0 , 1 \\} )$ indicateswhether the jth markeris visible in micrograph i. Our aim is to find the most appropriate $R$ and twith the objective of minimizing the cost function $E$ Generally,the initial values of the optimized parameters are assigned as follows:The rotation parameters $\\alpha$ and yare set to zero,and $\\beta$ is equal to the assumed tilt value.Likewise,the position of the camera in the lowest absolute value of the tilt angle is chosenas the original coordinates.tis initialized according to thescene depth and initial tilt angle. $K$ is determined based on the intended application.For each spatial point $( X , Y , Z , 1 )$ ,the initial value is calculated by triangulating projections in low-tilt views. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because the projection transformation and the spatial location of the markers are both unknown a priori and the transformation of the sample further affects the projection location,the optimization of $E$ isanon-linear problem.Many mathematical techniques are available to solve the non-linear problem (Lawrence et al., 2006；Amat et al.,2oo8). Additionally,many ready-made models have been developed,for example,the alignment modules in TxBR (Phan et al.,2012), IMOD(Kremer et al.,1996) and our previous works (Han et al.,2014).These modules all perform excellently in solving the parameter estimation in ET.In this paper,we would like to use the alignment module composed in IMOD to illustrate the performance of our proposed scheme,because IMOD is a successful and widely used suite and isalready composed of two fiducial marker-based alignment schemes (the half automatic detection and tracking scheme appears in version $4 . 7 ^ { 6 }$ and RAPTOR of the work by Amat et al.(2oo8)).However,it should be noted that parameter estimation is not the focus of this paper.In practice,readers can choose alignment modules according to personal preference. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d73f274f006c692151a57c9adea159833277d822625e7830eb7313c3906ca195.jpg",
+        "img_caption": [
+            "Fig.4.Example images from the test sets.(a) Centriole.(b) Hemocyanin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.Experiments and results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.Test datasets ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We selected two ET datasets to test the performance of our proposed method. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The first dataset(Centriole dataset）is a tilt series of plastic embedded cell section around a centriole region (Fig.4(a)),which Was taken on a FEI TF3O microscope(operated at $3 0 0 \\mathrm { k V } )$ witha Gatan Camera.This dataset is obtained from IMOD tutorialand is an example data to test IMOD fiducial marker based alignment. The tilt angles of the projection images range from $+ 6 5 . 0 ^ { \\circ }$ to $- 6 1 . 0 ^ { \\circ }$ at $2 ^ { \\circ }$ intervals.In total, there are 64 images in the tilt series. The size of each tilt image is $1 0 2 4 \\times 1 0 2 4$ with a pixel size of $1 . 0 1 \\ \\mathrm { n m }$ .The initial orientation of the tilt azimuth with respect to the vertical direction of the image is $- 1 2 . 5 ^ { \\circ }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The second dataset (Hemocyanin dataset) isa tilt series of vitrified keyhole limpet hemocyanin solution (Fig.4(b)).Hemocyanin was bought from Sigma-Aldrich(USA) and buffered in PBS solution witha protein concentration of $1 \\mathrm { m g / m l }$ .The 3o0 mesh copper EM gridswith holey carbon film(Quantifoil $\\mathsf { R } 2 / 1$ ）werebought from EMS(Electron Microscopy Sciences,USA).Protein solution was applied to glow discharged grids and blotted in Vitrobot IV(FEI, Netherland）using 4-s blotting time under blotting force 2.The blotting chamber conditions were kept at 4 and 1oo humidity. After blotting,the grids were plunge-frozen in liquid ethane cooled byliquid nitrogen.The cryoET data was collected by FEI Titan Krios (operated at $3 0 0 \\mathrm { k V } ,$ witha Gatan US4ooO camera.The total dose used during data collection was kept $8 0 0 0 ~ \\mathrm { e / n m } ^ { 2 }$ .There are 95 images with the tilt angles ranging from $- 7 0 . 0 ^ { \\circ }$ to $+ 7 0 . 0 ^ { \\circ }$ degree at $1 ^ { \\circ } \\sim 2 ^ { \\circ }$ intervals.The size of each tilt image is $2 0 4 8 \\times 2 0 4 8$ with a pixel size of $0 . 4 \\ \\mathrm { n m }$ ，The initial orientation of the tilt azimuth with respect to the vertical direction of the image is $8 3 . 9 ^ { \\circ }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The first step of our scheme is to refine the value of the marker diameter and detect fiducial markers. Fig.5 shows the average template of the fiducial markers of each dataset extracted from the slice with $0 ^ { \\circ }$ tilt angle (the width of the sub-figures is equal to the diameter of the markers).We have tested initial input values ranging from O.5 times to 1.5 times the exact value of the marker diameter,and the experiment indicated that our method can refine the diameter parameter to a suitable value (the value of refined diameter for Centriole is 9.92 pixelsand thevalue of refined diameter forHemocyaninis15.06 pixels).Fig.6 illustrates the detected fiducial markers fromslices with $0 ^ { \\circ }$ tiltangle and high tilt angle. As shown in Fig.6(a) and (c),our method has detected all of the welldistributed markers in the slices with low tilt angles.In Fig.6(b) and (d),the backgrounds of the samples have changed considerablycompared with the backgrounds in Fig.6(a) and (c);in particular,we found that the markersare blurrier in the slice with high tilt angle in the Centriole datasetand that the contrast of the background has changed drastically in the slice with high tilt angle in the Hemocyanin dataset.Because our method considers both the “shape\"and“contrast\"of markers,our method will reject poorly shaped the fiducial markers.Thus,our method correctly extracted almost all of the well-distributed fiducial markers but rejected the poorly-shaped ones,as shown in Fig.6(b) and (d).Fig.7illustrates a bar graph of the number of fiducial markers detected by our algorithm and the number of fiducial markers that we did not detect. Notably,our method has a high positive ratio (for most micrographs,we can detect $\\geqslant 9 0$ percent of the fiducial markers）for fiducial marker detection; therefore,the user does not have to provide an estimation of the number of fiducial markers as input.Of the markers that have not been detected by our method or those that were ultimately rejected by our method,these markers can be restored during the step of extending the tracks (the method described in Section 2.3)；this strategy increases the robustness of our scheme. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e44837d2744d5a2b4b451384b94046ceb187f050bf30795e45f8e4fb967aef7d.jpg",
+        "img_caption": [
+            "Fig.5.Ilustration of the performance when determining the value of marker diameter.The sub-figures are average templates of the fiducial markers of the Centriole and Hemocyanin datasets.(a) The average marker template of Centriole; the diameter value is 10.(b) The average marker template of Hemocyanin; the diameter value is 15. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The second step is to determine the matching of corresponding fiducial markers.In our scheme,the matching of micrographs in thetilt series obeys the matching strategy developedin Section 2.3.However，to demonstrate the robustness of our matching method,micrographs separated by large tilt angles areused.Fig.8 illustrates the matching of markers based on the idea of point set registration.The selected point sets are from the Hemocyanin dataset. The moving point set $\\mathcal { M }$ is comprised of the positions of the detected fiducial markers of the micrograph with $- 5 5 . 5 ^ { \\circ }$ tilt angle.The fixed point set $s$ is comprised of the positions of the detected fiducial markers of the micrograph with $9 . 0 ^ { \\circ }$ tiltangle.Thereare totally134 positions of fiducial markers in $\\mathcal { M }$ ，and84 positions of fiducial markers in $s$ It is natural that more fiducial markers are expected in micrographs with high tilt angles.As shown in Fig.8(a), there isalmost no overlap between $\\mathcal { M }$ and $s$ in the superimposition image.Then, $\\mathcal { M }$ and $s$ are processed by our point set registration algorithm (When considering the value of the parameters in Algorithm 4,in our solution, dist_thre is set to 5,diameter of wide-base is set to O.35 of the diameter of $s$ and $p _ { s }$ isset to 0.999999). In Fig.8(b), the points in $\\mathcal { M }$ have been transformed to the appropriate positions;an overlap therefore can be observed in the superimposition image of $\\tau ( \\mathcal { M } )$ and $s$ 、In practice,because of the deformation of the sample and the defocus of the micrography，the relationship between corresponding markers cannot be described exactly by a simple affine transformation;however,for tracking (to obtain the pairs of corresponding fiducial markers in different micrographs),the deviation is acceptable.In this demonstration,we finally obtained 74 matching pairs;almost all the pairs of corresponding fiducial markers have been found out. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a141dd5b770f3bc80b6d3702eab3dc81456950c7005910e7e48aa5b5d51518bb.jpg",
+        "img_caption": [
+            "Fig.6.ExamplesofetectioAllteetectedmarkersaremarkedyiclesspeialytetectedakerstatarecommontothte $0 ^ { \\circ }$ and high tilt angle are marked by green circles.(a) Detected fiducial markers from the micrograph of Centriole with $0 ^ { \\circ }$ tilt angle.(b) Detected fiducial markers from the micrograph of Centriole with $6 4 ^ { \\circ }$ tilt angle.(c) Detected fiducial markers from the micrograph of Hemocyanin with $0 ^ { \\circ }$ tilt angle.(d) Detected fiducial markers from the micrograph of Hemocyanin with $7 0 ^ { \\circ }$ tilt angle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ce73a862807bf88c5b9301a17551d388b2c6e0d14d0ff5d80fcb6f1af44b070.jpg",
+        "img_caption": [
+            "Fig7 arkero enlargement as the tilt angle is increased.(a) Centriole.(b) Hemocyanin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/48eaae00bb9836a24cb47f7a5088c2319019ad9c29d3334b3928007c1737f02e.jpg",
+        "img_caption": [
+            "Fig.8.Exampleofthematchingofcorespondingfiducial markers.The Hemocyanindataset isusedhere.The moving pointset $\\mathcal { M }$ (labeled by “\") contains the positions of the detected fiducial markers for the micrograph with $- 5 5 . 5 ^ { \\circ }$ tilt angle.The fixed point set $s$ (labeled by $\" \\times \" .$ contains the positions of the detected fiducial markers for the micrograph with $9 . 0 ^ { \\circ }$ tiltangle.(a) Superimposition of point set $\\mathcal { M }$ and $s$ (b) Superimposition of point set $T ( \\mathcal { M } )$ and $s$ ,where $T ( \\mathcal { M } )$ means the result dataset of point set $\\mathcal { M }$ after transformation by $T ( \\cdot )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a866bb6eb3ef53d321558628b3e50c7df26d0a9f90a869ba8f1c00e8a5a5381.jpg",
+        "img_caption": [
+            "Figist toc pointsbroughiforioacodtrilgleotacktougutttieils).ntrl. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The length of the tracks is used to demonstrate the overall performance of the detection and matching.Fig.9 illustrates the histograms of the track length obtained by our method for the two samples (the tilt series were not pre-aligned). In practice, our method matches images within one and two view intervals and then combines the matching pairs to obtain the tracks.It should be noticed that not all of the markers appear throughout the entire tilt series;the micrographs with high tilt angles have more fiducial markers.However,the fiducial markers in the micrographs with low tilt angles appear inalmost every micrograph of the tilt series (regardless of the disappearance caused by the image transformation).Therefore,in this work,the ratio between the number of tracks with a long length and the number of detected fiducial markers in the micrograph with low tilt (zero tilt）is used to indicate the effectiveness of our detection and tracking. As shown in Fig.9,there are 38 tracks covering more than ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/843593a7fd9389f13ce948a8965a2666594516225018f74f58f792f59015f3eb.jpg",
+        "img_caption": [
+            "Fig.10.Histograms of the track lengths fordifferent samples (extracted by RAPTOR).(a) Centriole.(b) Hemocyanir "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "54 micrographs (approximately $8 5 \\%$ of the entire tilt series) in the Centriole dataset,and 69 tracks covering more than 81 micrographs (approximately $8 5 \\%$ of the entire tilt series） in the Hemocyanin dataset.Furthermore,we obtained 27 tracks(64 micrographs in length）and 6O tracks（95 micrographs in length）that cover the entire tilt series of the Centriole and Hemocyanin datasets, respectively.Asa comparison,the numbers of detected fiducial markers in the micrographs of the Centriole and Hemocyanin datasets with zero tilt angle are 51 and 84，respectively. Consequently,the tracks with the entire length have covered 74.5 percent(38/51）and 82.1 percent (69/84)of the fiducial markers in the zero tilt micrographs of the Centriole and Hemocyanin datasets,respectively. If excluding the disappearance of fiducial markers nearing the border of the micrographs (caused by image transformation), the value of coverage can be higher.The high value of coverage indicates the effectiveness of our method. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For comparison,we also analyzed the samples using the half automatic marker detection and tracking scheme provided by IMOD 4.7 and the scheme of RAPTOR(Amat et al.,2008).We compared the number of tracks that covered the entire tilt series and were generated by our method,IMOD and RAPTOR.In the half automatic marker detection and tracking scheme of IMOD, 31and 55 tracks of fiducial markers can be tracked for the Centriole and Hemocyanin datasets,respectively，all of which cover the entire tilt series.Thus,compared with the result of IMOD,our scheme does not perform as well for the Centriole dataset(27 vs.31）but performs better for the Hemocyanin dataset (6O vs.55).However,to obtain these tracks,our operator has interacted with IMODa dozen times to relocate and retrack the markers (half automatic);in our scheme,no manual interactionis required.In the scheme of RAPTOR,11 and 46 tracks of fiducial markers can be tracked for the Centriole and Hemocyanin datasets,respectively,all of which cover the entire tilt series. Further statistics of the length of the tracks detected by RAPTOR are shownin Fig.1O(a total of 39 and 77 tracks forthe Centriole andHemocyanindatasets,respectively).For the Centriole dataset, the number of tracks with the entire length detected by our method is 27,while the number of tracks with the entire length detected by RAPTOR is 11.For the Hemocyanin dataset，the number of tracks with the entire length detected by our method is 60,while the number of trackswith the entire length detected byRAPTORis 46.Therefore,the qualityof tracksdetected by our method is much higher than the ones detected by RAPTOR (asshown in Figs.9 and 1O,the total number of tracks detected by our method is also larger than the one of RAPTOR). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The final step is to calculate projection parameters.Here,we use the alignment module provided by IMOD (Kremer et al., 1996). In the bundle adjustment,our scheme only uses the tracks that cover more than 85 percent of the micrographs (thus,all the used markers have corresponding markers in the zero tilt micrograph） to calibrate the projection parameters.Fig.11 illustrates the physical trajectories of all selected tracks in image space (x-y coordinates in pixel number).No pre-alignment was performed on the datasets.Fig.11(a) and(c) indicate that there are substantial initial rotations in both datasets and that the images in the tilt series vibrate severely.Despite the diverse appearance of these two datasets,our scheme can accurately detect and track the fiducial markers.The results illustrated in Fig.11(b) and (d) demonstrate that the alignment based on our final tracks is successful.Reprojection residuals can be used to evaluate the quality of the extracted fiducial markers.For comparison，we also analyzed the samples using RAPTOR (Amat et al.,2Oo8）and half automatic marker selection and tracking scheme in IMOD.Detailed information about the alignment results are summarized in Table 1. For the Centriole dataset,our scheme used 38 tracks as the input of the bundle adjustment;the scheme of IMOD used 31 as the input of bundle adjustment and the scheme of RAPTOR used 39 tracks (the analysis of tracks has been illustrated in previous paragraph). As shown in Table 1,for the Centriole dataset,the initial residual of our method is close to the results of IMOD and better than the results of RAPTOR. The residual of Ali.4 of our method is even smaller than the result of IMOD.The results of our method and IMOD are much better than the results of RAPTOR.For the Hemocyanin dataset,our scheme used 69 tracks as the input of the bundle adjustment;the scheme of IMOD used 55 as the input of bundle adjustment and the scheme of RAPTOR used 77 tracks. As shown in Table 1,for the Hemocyanin dataset,the overall results of our method is almost identical to the results of IMOD and much better than the results of RAPTOR.Fig.12 illustrated the reconstruction result of each sample. Judging from Fig. 12, the alignment and reconstruction results carried out by our scheme are as good as the results obtained by manual detection and tracking of an expert in details.However,the alignment result of our scheme is obtained under the situations fully automatic and totally without any manual interference.Therefore,we can draw the conclusion that our fully automatic scheme is much easier to use and can achieve results comparable with IMOD,much better than RAPTOR. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b6437105def2cfbe0aac501e5b774ace723b6081a5a970e921401985a327b2.jpg",
+        "img_caption": [
+            "i.o mkeracsica aligned fiducial marker tracks of the Hemocyanin dataset in image space. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f008f0d5e3bf6ca9dbad5d3a0b308fd496f64490778716c31c7a4136eb3e08c.jpg",
+        "table_caption": [
+            "Table 1 Summary of residuals carried out by different methods. "
+        ],
+        "table_footnote": [
+            "igetlaol ofd turnofadjustment (aturnofalignmentmeansaturofmanualadjustmentforlargeresidalmarkersandaturnofbundleadjustment. b The abbreviation“avg.\"refers to the mean value of residuals;\"std.\"refers to the standard deviation of residuals. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\" colspan=\"2\">Methoda</td><td colspan=\"4\">Our scheme</td><td colspan=\"4\">RAPTOR</td><td colspan=\"4\">IMOD</td></tr><tr><td colspan=\"2\">Ali.1</td><td colspan=\"2\">Ali.4</td><td colspan=\"2\">Ali.1</td><td colspan=\"2\">Ali.4</td><td colspan=\"2\">Ali.</td><td colspan=\"2\">Ali.4</td></tr><tr><td>avg.</td><td>std.</td><td>avg.</td><td>std.</td><td>avg.</td><td>std.</td><td>avg.</td><td>std.</td><td>avg.</td><td>std.</td><td>avg.</td><td>std.</td></tr><tr><td>Dataset:</td><td>Centriole</td><td>0.57</td><td>0.42</td><td>0.46</td><td>0.26</td><td>0.75</td><td>0.51</td><td>0.68</td><td>0.38</td><td>0.58</td><td>0.38</td><td>0.51</td><td>0.30</td></tr><tr><td>Dataset:</td><td>Hemocyanin</td><td>0.71</td><td>0.51</td><td>0.63</td><td>0.47</td><td>0.86</td><td>0.56</td><td>0.77</td><td>0.47</td><td>0.70</td><td>0.48</td><td>0.63</td><td>0.44</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion and conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we present a novel, fully automatic scheme for alignment in ET.Our scheme focuses on the detection and tracking of fiducial markers.In our scheme,the refining of the marker diameter parameter and the idea that further converting the detection problem to sampling and classification problem provide an accurate detection of fiducial markers with a high recognition ratio.The procedure of refining fiducial marker localization provides highly precise positions of fiducial markers.The matching of corresponding markers based on the idea of incomplete point set registration under affine transformation guarantees a global matchingand tracking of fiducial markers.Furthermore,the reduction of the matching problem to a point set registration problem could provide a novel solution for other similar problems in the field of structural biology.The experimental results indicate that our method can provide excellent tracking quality,with almost identical results to the half automatic scheme of IMOD and better results than RAPTOR.Our scheme is fully automatic,depends on fewer parameters (only requires the marker diameter to be inputted by the user) and does not require any manual interaction. Therefore,the proposed scheme is much easier to use than the half automatic scheme of IMOD and provides the possibility of automatic batch processing of electron tomographic reconstruction. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Along with the new techniques introduced for the processing of electron tomography data, the most important contribution of our work to the scope of ET is its“fully automatic\"nature,which can completely free the researchers from tedious data processing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba45feeb1b5789b0934430c613761d0bd6e1a137970a061b06494fa695466f40.jpg",
+        "img_caption": [
+            "ig toati datasetaligned by the half automatic scheme of IMOD.The sharpnessof details is similar inboth reconstructions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Especially,concerning the data acquisition in subtomogram averaging(which requires handling dozens of tilt series with the identical protein or ultrastructure),our scheme can save researchers a substantial amount of time.On the otherhand,for tilt series witha complex projection model (for example,the non-linear bundle adjustment of Lawrence et al.(2oo6) requires a large number of fiducial markers),our scheme can also provide enough coverage of fiducial marker detection and good fiducial marker tracks in a fully automatic way. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although the effectiveness of our method has been shown,several points must be addressed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "First,the appropriate affine transformation between two views of tilt series is assumed.Although the appropriate affine transformation relationship of two respective 2D views from the identical planarsurfacehasbeen widelyused in computer vision (Huttenlocher and Ullman，199o; Koenderink and van Doorn, 1991),it may not be able to describe relatively large deformations,mass losses or other distortion effects of samples.Thus, the assumption may limit the application of our method.In the situation with large distortions,the results of our method can be used as the initial input of the iterative closest point (ICP) with more parameterized models (Besl and McKay，1992;Jian and Vemuri,2O11).However,in almost all experiments,the micrographs with large distortions may directly lead to a failure of 3D tomography.Therefore,in most situations,our method does not encounter this problem. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Second,although some techniques based on local informations can be introduced to the model of point set registration and accelerate the computational speed,these techniques are not recommended because they may introduce limitations to our application. For example,technique of feature descriptors (e.g. Scale-Invariant Feature Transform(SIFT)）can reduce the execution time of our method in samples with sufficient biological structures,the hybrid scheme will not be able to applied in the condition that the biological structures are insufficient. If we introduce local informations (e.g.an estimated corresponding search area from the dataset after coarse alignment),the roughly inaccurate matching pairs obtained by local search could provide as the seeds for estimating the transformation matrices in the point set registration,consequently,we must bear the risk of the failure of local search,which will hamper the robustness of our scheme. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Finally,our algorithms proposed here may be more feasible in the alignment schemes of dual-axis or multi-axis electron tomography. Our method can smoothly solve the fiducial marker tracking problem across different rotation axes.In other words, our method can naturally determine the corresponding relationship of fiducial markers across different micrographs,in a globally consistent manner.This capability can make it easy to perform bundle adjustment in a unique reference system,or make it easier to simultaneously aligna dual-axis tilt series based on reference points (Cantele et al., 2010). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.Implementation ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Software that is compatible with IMOD and based on our method,markerauto (fully automatic marker-based alignment),is being developed. Interested users can download the beta version in our site http://ear.ict.ac.cn/. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Strategic Priority Research Program of Chinese Academy of Sciences (Grant No.XDBo8o30202), the National Natural Science Foundation of China (Grant No. 61232001，61202210，61472397，61502455）and the National Basic Research Program (973 Program) of Ministry of Science and Technology of China (2014CB910700). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix.Algorithms'flowcharts ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/db0d4465808d70f6e5656bbe8aaf6cf786efdfcb2c9c6e0dcc1915f38a172c8b.jpg",
+        "img_caption": [
+            "Fig.A.1. Flowchart of the marker detection procedure with the assumption that the value of marker diameter is already known. ",
+            "Fig.A.2.Flowchart of a loop of the marker diameter refinement procedure with the assumption that the detected fiducial markers are real fiducial markers and accurately localized. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Initial value of diameter Micrograph dO createartificial markertemplate   \ndiameterspace   \ndmin O\\~dmax for each value ofdiameter score1 Do score2 do NCC& generatingaverage score3 calculatescore template detectmarkers · scoreN 0 averageaverage getxiwumscore Detected fiducial template markers d (most feasible valueofdiameter)Flowchartofrefiningvalueofdiameter ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e13d988b9c882a67f01bc798dd96f22028314ed36ccbdd29a9ccc4a8b36c99e.jpg",
+        "img_caption": [
+            "Fig.A.3.Flowchart of the marker position refinement procedure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Aiger,D., Mitra, N.J., Cohen-Or, D.,20o8. 4-points congruent sets for robust pairwise surface registration. ACM Trans. Graphics 27 (3), 85:1-85:10.   \nAmat,F., Moussavi, F., Comoli, L.R., Elidan, G., Downing, K.H., Horowitz, M., 2008. Markovrandom fieldbased automatic image alignment for electron tomography. J. Struct. Biol. 161 (3), 260-275.   \nAnkerst,M.,Breunig，M.M.，peter Kriegel,H.， Sander, J.，1999. Optics: Ordering Points to Identify the Clustering Structure. ACM Press, pp. 49-60.   \nBentley， J.L.，1975.Multidimensional binary search trees used for associative searching. Commun. ACM 18 (9), 509-517.   \nBesl,P.,McKay, N.D.,1992. A method for registration of 3-d shapes. IEEE Trans. Pattern Anal. 14 (2), 239-256.   \nBishnu,A.,Das,S.，Nandy， S.C.，Bhattacharya，B.B.， 2OO6. Simple algorithms for partial point set pattern matching under rigid motion. Pattern Recogn. 39 (9), 1662-1671.   \nBrandt,S., Ziese, U., 20o6.Automatic tem image alignment by trifocal geometry. J. Microsc. 222 (1), 1-14.   \nBrandt, S., Heikkonen,J., Engelhardt, P.,2O01a. Automatic alignment of transmission electron microscope tilt series without fiducial markers. J. Struct. Biol.136 (3), 201-213.   \nBrandt, S., Heikkonen, J., Engelhardt, P.,2Oo1b. Multiphase method for automatic alignment of transmission electron microscope images using markers. J. Struct. Biol. 133 (1), 10-22.   \nBriggs，J.A.， 2013. Structural biology in situ: the potential of subtomogram averaging. Curr. Opin. Struct. Biol. 23 (2), 261-267.   \nCantele,F., Paccagnini,E., Pigino,G., Lupetti, P.,Lanzavecchia,S.,2O1o. Simultaneous alignment of dual-axis tilt series. J. Struct. Biol. 169 (2), 192-199.   \nCao,M.,Takaoka, A., Zhang, H.-B., Nishi, R.,2011. An automatic method of detecting and tracking fiducial markers for alignment in electron tomography. J. Electron Microsc. 60 (1),39-46.   \nCastano-Diez,D., Al-Amoudi, A., Glynn, A.-M., Seybert, A., Frangakis, A.S.,2007. Fiducial-less alignment of cryo-sections. J. Struct. Biol. 159 (3)，413- 423.   \nCastano-Diez, D., Scheffer, M., Al-Amoudi, A., Frangakis, A.S., 2010. Alignator: A gpu powered software package for robust fiducial-less alignment of cryo tilt-series. J. Struct. Biol. 170 (1), 117-126.   \nFischler, M.A., Bolles, R.C.,1981. Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography. Commun. ACM 24 (6),381-395.   \nFrank,J., 2Oo6.Electron Tomography: Methods for Three-Dimensional Visualization of Structures in the Cell. Springer.   \nGuckenberger, R., 1982. Determination of a common origin in the micrographs of tilt series in three-dimensional electron microscopy. Ultramicroscopy 9 (1-2), 167-173.   \nHan,R., Zhang, F.,Wan, X.,Fernndez, J.-J.， Sun,F., Liu, Z.， 2O14. A marker-free automatic alignment method based on scale-invariant features. J. Struct. Biol. 186 (1), 167-180.   \nHuttenlocher,D.,1991.Fast affine point matching:an output-sensitive method.In: IEEE Computer Society Conference on Computer Vision and Pattern Recognition,1991. Proceedings CVPR '91,pp.263-268.   \nHuttenlocher, D., Ullman, S., 1990. Recognizing solid objects by alignment with an image. Int. J. Comput. Vision 5 (2), 195-212.   \nJian,B., Vemuri, B., 2011. Robust_point set registration using gaussian mixture models. IEEE T. Pattern Anal. 33 (8), 1633-1645.   \nKoenderink,J.J., van Doorn, A.J., 1991. Afine structure from motion. J. Opt. Soc. Am. A. 8 (2), 377-385.   \nKremer, J.R.，Mastronarde，D.N.，McIntosh,J.，1996. Computer visualization of three-dimensional image data using imod. J. Struct. Biol. 116 (1), 71-76.   \nLawrence, M., 1992. Least-squares method of alignment using markers. In: Frank, J. (Ed.), Electron Tomography. Springer, US, pp. 197-204.   \nLawrence，A.，Bouwer, J.C.， Perkins,G.，Elisman，M.H.，2Oo6. Transform-based backprojection for volume reconstruction of large format electron microscope tilt series. J. Struct. Biol. 154 (2), 144-167.   \nLiu, Y., Penczek, P.A., McEwen, B.F., Frank,J.,1995. A marker-free alignment method for electron tomography. Ultramicroscopy 58 (3-4), 393-402.   \nPhan,S., Bouwer,J.,Lanman,J.,Terada,M.,Lawrence,A.,2oo9.Non-linear bundle adjustment for electron tomography. In:2oo9 WRI World Congress on Computer Science and Information Engineering,vol.1,pp.6o4-612.   \nPhan,S., Lawrence, A.,Molina,T., Lanman,J., Berlanga,M.,Terada,M., Kulungowski, A. Obayashi, J., Ellisman, M., 2012. Txbr montage reconstruction for large field electron tomography. J. Struct. Biol. 180 (1), 154-164.   \nRess,D.,Harlow,M.L.， Schwarz,M.,Marshall,R.M.,McMahan,U.J.,1999. Automatic acquisition of fiducial markers and alignment of images intilt series for electron tomography. J. Electron Microsc. 48(3), 277-287.   \nRusinkiewicz,S.,Levoy，M.，2oo1.Efficient variants of the icp algorithm.In: Proceedings of Third International Conference on 3-D Digital Imaging and Modeling,2001,pp.145-152.   \nSorzano, C.,Messaoudi, C.,Eibauer,M., Bilbao-Castro,J.,Hegerl,R., Nickell,S.,Marco, S., Carazo, J.,2oo9. Marker-free image registration of electron tomography tiltseries.BMC Bioinf.10 (1),124.   \nWinkler, H., Taylor, K.A., 2oo6. Accurate marker-free alignment with simultaneous geometry determination and reconstruction of tilt seriesin electron tomography. Ultramicroscopy 106 (3), 240-254.   \nWinkler,H.,Taylor, K.A.,2013.Marker-free dual-axis tilt seriesalignment.J. Struct. Biol. 182 (2), 117-124.   \nZhang,L.，Xu,W.， Chang,C.，20o3. Genetic algorithm for affine point pattern matching. Pattern Recogn. Lett. 24(1-3), 9-19.   \nZheng, S.Q., Keszthelyi, B., Branlund, E., Lyle,J.M., Braunfeld, M.B., Sedat,J.W., Agard, D.A.,20o7. Ucsf tomography: an integrated software suite for real-time electron microscopic tomographic data collection,alignment,and reconstruction. J. Struct. Biol. 157 (1), 138-147. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

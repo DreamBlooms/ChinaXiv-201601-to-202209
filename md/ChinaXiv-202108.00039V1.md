@@ -1,0 +1,198 @@
+# 干旱内陆区声波干预下降雨微物理特征研究
+
+潘佩翀¹，时洋¹²，赵智丰¹，王佳¹，曹炯玮¹， 柏文文¹，解宏伟¹，魏加华1.2
+
+(1.青海大学水利电力学院,三江源生态与高原农牧业国家重点实验室,青海 西宁810016;2.清华大学水沙科学与水利水电工程国家重点实验室，北京100084)
+
+摘要：利用2019年6—9月青海省干旱内陆区雨滴谱仪和雨量筒数据，运用物理检验法和统计方法,分析了超高功率集束强声波干预下近地面降雨微物理特征变化。结果表明：(1）声波干预下，累计降雨量增加，降雨量增加和减少的场次分别占研究总场次的 $6 0 . 8 7 \%$ 和 $3 9 . 1 3 \%$ 。平均粒径、液态水含量、雷达反射率因子、雨强和降雨动能等微物理量均值明显增大，雨强和动能增幅最为明显，分别为 $3 6 . 0 0 \%$ 和 $6 9 . 2 0 \%$ 。(2）声波干预下，平均谱大粒子端( $> 0 . 8 \ \mathrm { m m }$ )粒子数浓度增加，且雨强越大，粒子数浓度增加效果越明显。(3)空间分布上，作业中心周边 $3 \mathrm { k m }$ 范围内雨强在声波干预下显著增加。
+
+关键词：声波；人工增雨；雨滴谱；降雨微物理特征；柴达木盆地
+
+# 文章编号：
+
+降水是全球水循环的重要组成部分，是维持自然生态的重要驱动要素，同时对人类活动和社会生产起到支配作用。水汽分布不均和水资源的缺乏严重制约着西北地区经济的发展[1]。其中，柴达木盆地作为我国最干旱地区之一，总降水量和强降水频次较少[2]。通过人工影响天气技术挖潜空中水资源,增加降水,在内陆干旱区尤为重要[3-4]。人工影响天气技术已有70多年的发展历史，通过火箭、高炮、地面燃烧炉、飞机等平台向云中撒播催化剂，改变云体粒子的相态和谱分布，以此实现影响天气的目的[5-6]。近年来，采用无催化剂的声波定向发射新型方法，因其环保、成本低且机动性强而受到广泛关注。声波增雨原理是利用波能在空气介质中传播引起扰动，促进气流所携带的云雨微滴碰撞，加速水汽凝结，从而促发降雨。
+
+近2a来，关于声波增雨的研究取得了一系列的进展。Wei等8通过室外低频强声波试验研究得出，声波对云雷达回波强度有着明显的触发和周期性影响，并且降雨强度与声波干预呈正相关。裘钧等[9基于降雨时间结构对青海省达日地区开展的野外声波增雨试验效果进行了评估。柏文文等[o通过室内微液滴沉降实验研究发现，对于一定尺寸分布颗粒群，存在本征声波频率使得声波干预后微滴群平均粒径显著增大。Shi等["通过建立耦合模型(CFD-DEM)来研究液滴在声场中的团聚性能，研究发现液滴在声团聚过程中需要考虑破碎现象，团聚室内声压结构和施加在微滴上的辐射声力可以显著影响液滴群的尺寸分布。当声强度不高时，延长液滴在声场和流场中的暴露时间是增加团聚物尺寸的有效方法。
+
+尽管上述研究证实声波能够影响液滴群团聚行为，但对声波干预下地表降雨微物理特征和降雨空间分布变化的研究并不多见。因此，本文通过2019年6一9月在柴达木盆地开展的声波增雨野外试验，采用雨滴谱和雨量筒监测数据对声波十预下近地面的降雨微物理特征展开研究，这对加深西北地区声波增雨机制的认识以及检验人工增雨效果具有重要意义。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+试验基地！ $( 3 7 ^ { \circ } 2 7 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { E } , 9 6 ^ { \circ } 4 8 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { N } )$ 位于青海省海西蒙古族藏族自治州德令哈市。该市地处柴达木盆地东北边缘，平均海拔 $2 9 8 0 \mathrm { ~ m ~ }$ ，干燥少雨，属于高原大陆性气候区。根据德令哈市国家气象站$( 3 7 ^ { \circ } 2 2 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { E } , 9 7 ^ { \circ } 2 2 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { N } )$ 监测数据，该地区1983—2016年平均降雨量 $2 0 4 . 7 \ \mathrm { m m }$ ,月平均降雨主要集中在6一8月。此外，该地区近20a最大风速的风向主要为西风(W)和东东北风(ENE)。声波增雨设备、雨滴谱仪位于作业中心点位置，雨量筒站点在东西南北方向上分别按 $0 . 5 \ \mathrm { k m } \cdot 1 . 0 \ \mathrm { k m } \cdot 2 . 0 \ \mathrm { k m } \cdot 3 . 0 \ \mathrm { k m }$ $4 . 0 \mathrm { k m }$ 的距离布设在中心点周边区域(图1)。
+
+![](images/a7880a34255a0fe8c90245420aa4ac08943128cee62ef08564b3285fbdc39c3a.jpg)  
+图1声波增雨试验基地区位图  
+Fig.1 Location of field site of acoustic precipitation
+
+# 1.2试验设备
+
+声波增雨设备[12-13]由低频声波发声系统、声波辐射器、控制系统、电源系统、云台机构等组成。空气压缩机将压缩空气送入低频声波发声系统产生低频强声波，声波辐射系统再将强声波传播到高空中。声波的频率响应范围为 $2 5 \mathrm { \sim } 5 0 \ \mathrm { H z }$ ,最大声压级达到 $1 6 5 ~ \mathrm { d B }$ ，在 $2 { \sim } 3 \ \mathrm { k m }$ 内声波最大声压级不小于$1 0 0 \mathrm { d B }$ ○
+
+雨滴谱仪为德国OTT-Parsivel二代激光粒子谱仪，该雨滴谱仪将测量的粒径和速度按不等距间隔各分为32个档，其中前2个通道由于仪器信噪比的原因可忽略，采样间隔为 $1 \mathrm { m i n }$ 。雨量筒(SLJ-2型)为翻斗式，采用固态存储的方式，测量精度为0.1$\mathbf { m } \mathbf { m }$ ,测量范围 $0 { \sim } 4 ~ \mathrm { m m } { \cdot } \mathrm { m i n } ^ { - 1 }$ ,采样间隔为 $2 \mathrm { m i n }$ 。
+
+# 1.3数据处理
+
+由于该地区降雨过程较少，采取随机和非随机结合的方法进行声波增雨试验。在当天第一场试验非随机的情况下，其后连续进行的试验均按照等时间间隔进行，以使后续试验场次随机化。根据裘钧等9研究，声波开启起效延迟时间为 $0 { \sim } 1 5 \ \mathrm { m i n }$ ，声波关闭后增雨效果消退也为 $0 { \sim } 1 5 ~ \mathrm { m i n }$ 。结合设备本身性能和云层对声波的响应速度等因素，将声波增雨设备开启时间固定为 $4 0 ~ \mathrm { m i n }$ ，关闭时间也固定为$4 0 ~ \mathrm { m i n }$ ，以对声波增雨设备开启和关闭后降雨微物理量进行分段研究。试验按照声波开启-声波关闭-声波开启的方式进行，将声波连续开启和关闭一次作为一场试验,依次往复,直到停止试验。由于人为操作设备时间、设备本身故障和天气因素等的影响，部分试验场次声波增雨设备开启和关闭的时长不相同。剔除掉该部分场次，共得到23场试验数据。
+
+本文根据最大雨强 $R _ { \mathrm { m a x } }$ 及其前后5个样本的雨强标准差 $\sigma$ 对降雨云系进行分类[14]。当 $5 \ \mathrm { m m \cdot h ^ { - 1 } } >$ $R _ { \mathrm { m a x } } { \geqslant } 0 . 5 ~ \mathrm { m m } ^ { \cdot } \mathrm { h } ^ { - 1 }$ 且 $\sigma { \leqslant } 1 . 5$ 时，降雨样本视为层状云降雨(S);当 $R _ { \mathrm { m a x } } { \geqslant } 5 \ \mathrm { m m } ^ { \cdot } \mathrm { h } ^ { - 1 }$ 且 $\sigma { > } 1 . 5$ 时，视为对流云降雨(C);其他情况视为混合云降雨(T)。
+
+雨滴谱(Drop sizedistribution,DSD)是指单位体积内不同大小降水粒子随粒径的分布[15],其谱型可用M-P分布[16]、Gamma分布[17]等拟合函数描述。由于Gamma分布在M-P分布的基础上引进了一个形状因子 $\mathbf { \dot { \boldsymbol { \mu } } }$ ,对分布描述的精度更高。因此，本文使用Gamma分布拟合平均谱。Gamma分布函数表达式为：
+
+$$
+N ( D ) { = } N _ { 0 } D ^ { \mu } \exp ( - \lambda D )
+$$
+
+式中： $N ( D )$ 表示单位体积、单位尺度间隔内的雨滴数$( \mathrm { m } ^ { - 3 } { \cdot } \mathrm { m m } ^ { - 1 } )$ · $N _ { 0 }$ 表示雨滴谱截距参数 $( \mathbf { m } ^ { - 3 } \cdot \mathbf { m } \mathbf { m } ^ { - 1 - \mu } ) ; D$ 表示雨滴的粒径( $\bf \Pi _ { \mathrm { m m } }$ ） $\mu$ 表示形状因子； $\lambda$ 表示斜率参数 $\left( \mathbf { m } \mathbf { m } ^ { - 1 } \right)$ ）。
+
+本文所涉及的降雨微物理量主要有平均粒径$( D _ { 1 } , \mathrm { { m m } ) }$ 、雨强 $( R , \mathrm { m m } \cdot \mathrm { h } ^ { - 1 } )$ ）、空间粒子数浓度 $( N$ $\mathbf { m } ^ { - 3 }$ )、雷达反射率因子 $( Z , \mathrm { m m } ^ { 6 } \cdot \mathrm { m m } ^ { - 3 } )$ ）、液态水含量$\left( W , \mathbf { g } \cdot \mathbf { m } ^ { - 3 } \right)$ 、降雨动能 $( E , { \mathrm { k J } } )$ 和标准化截距参数 $( N _ { \mathrm { w } }$ $\mathbf { m } ^ { - 3 } \cdot \mathbf { m } \mathbf { m } ^ { - 1 } )$ ,计算公式如下：
+
+# 干吴区地理
+
+$$
+D _ { 1 } { = } \sum _ { i = 1 } ^ { 3 2 } N ( D _ { i } ) D _ { i } / \sum _ { i = 1 } ^ { 3 2 } N ( D _ { i } )
+$$
+
+$$
+R = \frac { 6 \pi } { 1 0 ^ { 4 } } \sum _ { i = 1 } ^ { 3 2 } D _ { i } ^ { 3 } V _ { i } N ( D _ { i } ) \Delta D _ { i }
+$$
+
+$$
+N = \sum _ { i = 1 } ^ { 3 2 } N ( D _ { i } ) \Delta D _ { i }
+$$
+
+$$
+Z = \sum _ { i = 1 } ^ { 3 2 } D _ { i } ^ { 6 } N ( D _ { i } ) \Delta D _ { i }
+$$
+
+$$
+W { = } \frac { \pi } { 6 0 0 0 } { \sum _ { i { = 1 } } ^ { 3 2 } } { D _ { i } } ^ { 3 } N ( D _ { i } ) \Delta { D _ { i } }
+$$
+
+$$
+E { = } \frac { 1 0 ^ { - 9 } } { 1 2 } \rho _ { \mathrm { v } } \pi D _ { i } ^ { 3 } V _ { i } ^ { 2 }
+$$
+
+$$
+N _ { \mathrm { { w } } } = { \frac { 4 ^ { 4 } } { \pi \rho _ { \mathrm { { w } } } } } { \left( \frac { 1 0 ^ { 3 } W } { { D _ { \mathrm { { m } } } } ^ { 4 } } \right) }
+$$
+
+式中： $D _ { i }$ 为第 $i$ 尺度通道对应的雨滴粒径( $\mathrm { ( m m }$ ） $N ( D _ { i } )$ 为第 $i$ 尺度通道对应的粒子数浓度 $\left( \mathbf { m } ^ { - 3 } \cdot \mathbf { m } \mathbf { m } ^ { - 1 } \right)$ ; $V _ { i }$ 为第i尺度通道对应的雨滴下落速度 $\left( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \right)$ ; $\Delta { D _ { i } }$ 为尺度通道宽度 $( \mathrm { m m } ) { : \rho _ { \mathrm { w } } }$ 为水的密度 $( \mathrm { g } \cdot \mathrm { c m } ^ { - 3 } )$ $D _ { \mathrm { m } }$ 代表雨滴质量加权直径 $( \mathrm { m m } )$ 。
+
+# 2结果与分析
+
+# 2.1降雨微物理特征量变化
+
+2.1.1微物理量均值对23场次声波干预下降雨数据进行统计，降雨量及各微物理量均值的变化情况见表1，其中 $P$ 代表累计降雨量。对比试验前40$\operatorname* { m i n }$ 和后 $4 0 ~ \mathrm { m i n }$ ,14场次降雨过程累计降雨量增加，9场次累计降雨量减少，分别占比 $6 0 . 8 7 \%$ 和$3 9 . 1 3 \%$ 。其中，层状云降雨和对流云降雨中降雨量增加的场次占比分别为 $5 6 . 2 5 \%$ 和 $5 0 . 0 0 \%$ 。表1中各微物理量同降雨量的增减趋势基本一致，雨强和降雨量增减趋势对应良好。对于平均粒径和空间粒子数浓度，分别有4、6场过程同降雨量增减趋势不一致。这可能和声波对近地面降雨雨滴的影响有关，从而导致平均粒径和空间粒子数浓度异常。
+
+表2为声波开启、声波关闭、层状云降雨和对流云降雨4种情况下降雨微物理量均值的变化情况。自然情况下，表中各微物理量均值从层状云降雨向对流云降雨呈现出递增的趋势，这是由于对流云降雨比层状云降雨具有更加激烈的变化。声波增雨设备开启后粒径、雨强、含水量、雷达反射率因子和降雨动能等微物理量均值大于声波增雨设备关闭后的值。相比声波增雨设备关闭后，平均粒径和质量加权直径分别增加 $0 . 0 2 ~ \mathrm { m m } \setminus 0 . 0 7 ~ \mathrm { m m }$ ，增幅分别为 $3 . 2 3 \%$ 和 $7 . 6 9 \%$ 。雷达反射率因子和液态水含量增幅分别为 $6 . 1 2 \%$ 和 $1 1 . 4 3 \%$ 。雨强和降雨动能变化较明显，分别增加 $0 . 2 7 ~ \mathrm { { m m } ^ { * } \mathrm { { h } ^ { - 1 } } }$ 和 $5 . 2 8 \mathrm { ~ k J }$ ,增幅分别为 $3 6 . 0 0 \%$ 和 $6 9 . 2 0 \%$ 。空间粒子数浓度略有减少，减幅为 $3 . 1 2 \%$ ，空间粒子数浓度的变化可能与前述声波对降雨雨滴的影响有关。整体上看，声波干预下，声波开启后的各微物理均值大于声波关闭后的值。自然情况下，对流云降雨的微物理量均值大于
+
+表1降雨微物理参数均值变化情况  
+Tab.1 Average variation of microphysical quantities of precipitation   
+
+<html><body><table><tr><td>序号</td><td>云系</td><td>日期(年-月-日)</td><td>开启时间</td><td>关闭时间</td><td>P/mm</td><td>D/mm</td><td>N/m-</td><td>W/g·m-³</td><td>Z/dBz</td><td>E/kJ</td><td>R/mm·h-1</td></tr><tr><td>1</td><td>S</td><td>2019-06-26</td><td>10:45</td><td>11:25</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>一</td><td>一</td></tr><tr><td>2</td><td>S</td><td>2019-06-26</td><td>12:05</td><td>12:45</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>3</td><td>S</td><td>2019-07-02</td><td>10:25</td><td>11:05</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td>一</td><td>1</td></tr><tr><td>4</td><td>C</td><td>2019-07-06</td><td>17:50</td><td>18:30</td><td></td><td>+</td><td>一</td><td></td><td></td><td></td><td>1</td></tr><tr><td>5</td><td>C</td><td>2019-07-13</td><td>12:10</td><td>12:50</td><td>1</td><td>1</td><td>1</td><td>1</td><td>一</td><td>+</td><td>1</td></tr><tr><td>6</td><td>C</td><td>2019-07-13</td><td>13:30</td><td>14:10</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>7</td><td>C</td><td>2019-07-13</td><td>14:50</td><td>15:30</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>8</td><td>T</td><td>2019-08-07</td><td>11:28</td><td>12:28</td><td>+</td><td>+</td><td>1</td><td>1</td><td>+</td><td>+</td><td>+</td></tr><tr><td>9</td><td>T</td><td>2019-08-07</td><td>13:15</td><td>13:56</td><td>+</td><td>+</td><td>一</td><td></td><td>+</td><td></td><td>一</td></tr><tr><td>10</td><td>T</td><td>2019-08-07</td><td>14:38</td><td>15:20</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>11</td><td>S</td><td>2019-08-25</td><td>13:45</td><td>14:25</td><td>一</td><td>一</td><td>一</td><td></td><td>一</td><td>一</td><td></td></tr><tr><td>12</td><td>S</td><td>2019-08-25</td><td>15:05</td><td>15:45</td><td>+</td><td>+</td><td>一</td><td>+</td><td>+</td><td>+</td><td>一 +</td></tr><tr><td>13</td><td>S</td><td>2019-08-25</td><td>16:25</td><td>17:05</td><td>+</td><td>一</td><td>+</td><td>+</td><td>一</td><td></td><td>+</td></tr><tr><td>14</td><td>S</td><td>2019-08-25</td><td>17:50</td><td>18:30</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>15</td><td>S</td><td>2019-08-29</td><td>19:10</td><td>19:50</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>16</td><td>S</td><td>2019-09-18</td><td>10:40</td><td>11:20</td><td></td><td>1</td><td>一</td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td>S</td><td>2019-09-18</td><td>12:00</td><td>12:40</td><td>+</td><td>+</td><td>+</td><td>1 +</td><td>一 +</td><td>+</td><td>一</td></tr><tr><td>18</td><td>S</td><td>2019-09-18</td><td>13:20</td><td>14:00</td><td>+</td><td>1</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>19</td><td>S</td><td>2019-09-18</td><td>14:40</td><td>15:20</td><td>1</td><td></td><td>+</td><td></td><td></td><td></td><td>+</td></tr><tr><td>20</td><td>S</td><td>2019-09-18</td><td>16:00</td><td>16:40</td><td>+</td><td>一 +</td><td>一</td><td>+</td><td>一 +</td><td>+</td><td>1 +</td></tr><tr><td>21</td><td>S</td><td>2019-09-18</td><td>20:00</td><td>20:40</td><td></td><td>1</td><td>+</td><td></td><td>1</td><td></td><td></td></tr><tr><td>22</td><td>S</td><td>2019-09-19</td><td>10:50</td><td>11:30</td><td></td><td></td><td></td><td></td><td></td><td>一</td><td></td></tr><tr><td>23</td><td>S</td><td>2019-09-19</td><td>15:45</td><td>16:25</td><td>1 +</td><td>+ +</td><td>一 +</td><td>一 +</td><td>+</td><td>+</td><td>+</td></tr></table></body></html>
+
+注： $+$ 表示增大，-表示减小;S表示层状云降雨，C表示对流云降雨，T表示混合云降雨； $P$ 表示累计降雨量， $. D _ { 1 }$ 表示雨滴平均粒径， $N$ 表示空间粒子数浓度， $W$ 表示液态水含量，Z表示雷达反射率因子， $E$ 表示降雨动能，R表示雨强。下同。
+
+# 表2自然情况和声波干预下降雨微物理量均值
+
+Tab.2 Average microphysical quantities of precipitation underthe interventionofacousticwavesandnatural   
+
+<html><body><table><tr><td colspan="6">condition</td></tr><tr><td>不同情况</td><td>Di/mm Dm/mm</td><td></td><td>N/m-³W/g·m³ Z/dBz R/mm·h-1</td><td></td><td>E/kJ</td></tr><tr><td>声波开启</td><td>0.64</td><td>0.98</td><td>298.24 0.0692 23.94</td><td>1.02</td><td>12.91</td></tr><tr><td>声波关闭</td><td>0.62</td><td>0.91</td><td>307.84 0.0621 22.56</td><td>0.75</td><td>7.63</td></tr><tr><td>层状云降雨</td><td>0.61</td><td>0.94</td><td>288.04 0.0535 21.70</td><td>0.71</td><td>17.28</td></tr><tr><td>对流云降雨</td><td>0.62</td><td>1.07</td><td>680.31 0.1416 29.50</td><td>1.71</td><td>20.23</td></tr></table></body></html>
+
+注： $D _ { \mathrm { m } }$ 表示雨滴质量加权直径。
+
+层状云降雨的微物理量均值。另外，对比声波干预和自然情况下的不同降雨云系发现，微物理量均值增减趋势不一样，这归因于声波干预场次中层状云降雨占比较大而对流云降雨占比较小。
+
+2.1.2谱型分析如图2所示，自然情况下，对流云降雨平均谱的谱宽(最大粒径和最小粒径之差)和谱峰(最大粒子数浓度)都大于层状云降雨。且对流云降雨的最大粒子数浓度也大于层状云降雨的最大粒子数浓度，二者分别为 $1 4 7 3 . 4 9 ~ \mathrm { m } ^ { - 3 } \cdot \mathrm { m m } ^ { - 1 }$ 和$6 0 9 . 2 6 ~ \mathrm { m } ^ { - 3 } \cdot \mathrm { m m } ^ { - 1 }$ 。声波干预下，声波开启后的浓度值在粒径约 $0 . 8 ~ \mathrm { m m }$ 处开始变大，即小粒子端( $< 0 . 8$ $\mathbf { m m } .$ )浓度降低，大粒子端( $> 0 . 8 \ \mathrm { m m } )$ 粒子数浓度增加。结合表3，声波开启后的 $\mu$ 值(6.34)小于声波关闭后的 $\dot { \boldsymbol { \mu } }$ 值(6.44)，这表明含水量不变的情况下，小滴粒子数浓度减小，大滴粒子数浓度增大。另外，比较自然情况和声波干预下的平均谱谱型，声波干预下的降雨雨滴谱型总体上和层状云的谱型较接近，与总场次中层状云降雨占比较大有关。
+
+2.1.3参数关系雨滴谱参数关系在云物理模型、雷达降雨定量反演中有着重要意义，因此有必要进一步研究雨滴谱的参数关系[18]。根据Moisseev等[19]研究，Gamma分布的3个参数除了 $\mu , N _ { 0 }$ 和 $\lambda$ 都不是相互独立的。此外，还可利用 $N _ { \mathrm { w } } \sqrt { D _ { \mathrm { m } } }$ 这2个独立的参数来描述雨滴谱分布。雨滴质量加权直径 $D _ { \mathrm { m } }$ 用来衡量降雨粒子中大尺寸粒子比重，其值越大说明降
+
+![](images/f4d95276ff13bbba5521cc929cf1ac39f326890a3fa8bf40acc74114133d1c9e.jpg)  
+图2自然情况和声波干预下平均谱  
+Fig.2 Average spectrum under the intervention of acoustic waves and natural condition
+
+# 表3自然情况和声波干预下雨滴谱拟合参数
+
+Tab.3Fiting spectrum parameters under the intervention of acoustic waves and natural condition   
+
+<html><body><table><tr><td>自然情况</td><td>No/m-3·mm-1-μ</td><td>μ</td><td>λ/mm−1</td><td>R</td><td>声波干预</td><td>No/m-3·mm-1-μ</td><td>μ</td><td>λ/mm−1</td><td>R</td></tr><tr><td>层状云</td><td>9.12×106</td><td>5.821</td><td>11.41</td><td>0.99</td><td>开启</td><td>1.79×10</td><td>6.34</td><td>12.02</td><td>0.98</td></tr><tr><td>对流云</td><td>5.28×107</td><td>6.281</td><td>12.48</td><td>0.97</td><td>关闭</td><td>2.45×10</td><td>6.44</td><td>12.37</td><td>0.99</td></tr></table></body></html>
+
+注：拟合优度均通过了信度为0.05的显著性检验； $N _ { 0 }$ 表示雨滴谱截距参数，表示斜率参数， $. \mu$ 表示形状因子， $R ^ { 2 }$ 表示拟合优度。
+
+# 干旱区地理
+
+雨粒子中大粒子越多。 $N _ { \mathrm { w } }$ 可以独立衡量粒子数浓度大小， $N _ { \mathrm { w } }$ 越大，粒子数浓度越高。声波干预和自然情况下的的 $\lambda \mathcal { \mu }$ 关系如图3a所示， $\lambda$ 随着 $\dot { \boldsymbol { \mu } }$ 的增大而逐渐增大，拟合显著性水平低于0.001。从图中可看出，当 $\mu { > } 5 . 5$ 时，对于相同的 $\mu$ 值，声波开启后的 $\lambda$ 值小于声波关闭后的 $\lambda$ 值。结合关系式 $\lambda D _ { _ \mathrm { m } } = 4 + \mu ^ { _ { \perp 0 } \mathrm { ] } }$ ，表明声波开启后的 $D _ { \mathrm { m } }$ 值增大，即声波开启后，大滴降雨粒子数目增加。声波干预和自然情况下的log-$N _ { \mathrm { w } } { - } R$ 关系如图3b所示， $\mathrm { l o g } N _ { \mathrm { w } }$ 随着 $R$ 增大而增大，拟合显著性水平低于 $0 . 0 0 1$ 。从图中看出， $\mathrm { l o g } N _ { \mathrm { w } } – R$ 关系拟合曲线存在1个雨强拐点，为 $0 . 8 ~ \mathrm { { m m ^ { \cdot } h ^ { - 1 } } }$ 。当雨强大于该值时，声波开启后的粒子数浓度增大；反之，则减小。即声波干预下，雨强越大,粒子数浓度增加效应越明显。
+
+Z-R关系常被用来为雷达定量估测降水提供回波强度修正参数，Z-R关系随着降水地区、时间和降水类型不同而发生变化。图4为自然情况和声波干预下Z-R拟合关系曲线，声波开启、声波关闭和自然情况3种不同情况下Z-R关系拟合优度分别0.90、$0 . 8 1 \setminus 0 . 6 3 ( P < 0 . 0 0 1 )$ 。从图中可以看出，3种Z-R关系曲线的走势较为一致， $Z$ 随着 $R$ 的增大而增大。Z-R关系曲线存在一拐点，此处雷达反射率因子约为 $2 3 \mathrm { d B z }$ 。当雷达反射率因子大于该点时，声波开启后的雨强大于声波关闭后的雨强。可见，声波干预下，雷达反射率因子和雨强显著相关。
+
+# 2.2 雨强空间分布
+
+不同距离雨量筒站点分布如图5a所示，对各个注：入表示斜率参数 ${ \mathrm { ; } } \mu { \mathrm { . } }$ 表示形状因子； $\mathrm { l o g } N _ { \mathrm { w } }$ 表示标准化截距参数；R表示雨强。
+
+![](images/3b83452fe77ae32da3162ca09c2a0ee62a76b70f6f715e0709118d715e615a35.jpg)  
+Fig.3 $\lambda - \mu$ and $\mathrm { l o g } N _ { \mathrm { w } } – R$ relationships under the intervention of acoustic waves
+
+![](images/9d389ae01f31ed44bf50b6a165bdf6d4facaffbb884511c7ad16df72947dcff5.jpg)  
+图3声波干预下λ ${ \bf \nabla } \cdot \mu _ { - } = { \bf \nabla } \cdot { \bf \nabla } \mu _ { - }$ 关系和 $\mathrm { l o g } N _ { \mathrm { w } } – R$ 关系  
+注：Z表示雷达反射率因子； $R$ 表示雨强。图4声波干预下Z-R关系  
+Fig.4 Z-R relationship under the intervention of acoustic waves
+
+雨量筒站点实测的雨强数据进行统计，如图5b所示。其中横轴表示声波开启后 $4 0 ~ \mathrm { m i n }$ 不同距离站点的雨强值，纵轴表示声波关闭后 $4 0 ~ \mathrm { m i n }$ 不同距离站点的雨强值，虚线为雨强散点分布 $4 5 ^ { \circ }$ 线。从图中可以看到，雨强散点倾斜于 $4 5 ^ { \circ }$ 线右下方，即声波开启轴一侧。声波开启和关闭下雨强偏度分别为2.71、2.18，偏度比为1.24，表明声波对原点附近3$\mathrm { k m }$ 内雨强具有显著影响。
+
+# 3结论
+
+本文利用OTT-Parsivel雨滴谱仪、雨量筒等观测资料，对2019年6—9月在柴达木盆地内陆河流域开展的声波增雨试验进行了降雨微物理量、降雨量及雨强时空等特征分析，主要结论如下：
+
+![](images/82e33c38bfa6b5a1d82c084bb2cdbb93a80e252130d6cad726620d81b160f4a4.jpg)  
+图5不同距离雨量筒站点的雨强散点图  
+Fig.5Scattergram of gauge retrieved rain rates at different sampling distances
+
+（1）对比声波关闭后累计降雨量，声波开启后累计降雨量增加，降雨量增加的场次和降雨量减少的场次分别占总场次 $6 0 . 8 7 \%$ 和 $3 9 . 1 3 \%$ 。平均粒径、液态水含量、雷达反射率因子、雨强和动能等微物理量均值在声波开启后均出现不同程度的增加，平均粒径增加 $0 . 0 2 \mathrm { m m }$ ,增幅为 $3 . 2 3 \%$ 。雷达反射率因子和液态水含量增幅分别为 $6 . 1 2 \%$ 和 $1 1 . 4 3 \%$ 。其中雨强和动能变化最为明显，增幅分别为 $3 6 . 0 0 \%$ 和$6 9 . 2 0 \%$ 。另外，对于自然情况下不同云系降雨，各微物理量均值从层状云降雨向对流云降雨呈现出增大的趋势，且对流云降雨比层状云降雨具有更宽的谱宽和更高的粒子数浓度。
+
+(2）对于降雨总样本平均谱，声波开启后平均谱发生变化，声波开启后拟合谱分布参数形状因子$\mu$ 减小，这表明含水量不变的情况下，小滴粒子数浓度减小，大滴粒子数浓度增大。大约 $0 . 8 ~ \mathrm { m m }$ 后的雨滴粒子数浓度增大。对声波干预下的标准化截距参数和雨强关系分析发现，粒子数浓度随着雨强的增大而增大，当雨强越大时，粒子数浓度增加效果越为明显。
+
+（3）通过对比声波开启和关闭后试验原点周边不同距离内雨强，发现声波开启后 $3 \mathrm { k m }$ 内的雨强值显著增大。说明声波干预对周边降雨存在一定影响。
+
+与基于催化剂撒播技术的传统增雨研究不同，本文着重对新型人工增雨方式一声波增雨进行研究。详细分析了声波干预下的地表降雨微物理特征变化、降雨量变化和雨强分布，为后续开展的野外声波增雨试验提供了有力的科学依据，对声波增雨试验效果评估具有一定的参考价值。
+
+致谢：感谢王生春、刘琪、王媛、王金钊、赵康、杨海娇、石金和、介永胜、唐晨洋等在野外试验中的贡献。
+
+# 参考文献(References)
+
+[1] 王凯,孙美平,巩宁刚.西北地区大气水汽含量时空分布及其输 送研究[J].干旱区地理,2018,41(2):290-297.[WangKai,Sun Meiping,Gong Ninggang. Spatial and temporal distribution and transportation of the water vapor in the northwestern China[J].Arid Land Geography,2018,41(2): 290-297.]   
+[2] 赵雪雁,王亚茹,张钦,等.近50a青藏高原东部夏半年强降水 事件的气候特征[J].干旱区地理,2015,38(4):675-683.[Zhao Xueyan,Wang Yaru, Zhang Qin,etal.Climatic characteristics of heavy precipitation events during summer half year over the eastern Tibetan Plateau in recent 5O years[J].Arid Land Geography, 2015,38(4): 675-683.]   
+[3] 王光谦,李铁键,李家叶,等.黄河流域源区与上中游空中水资 源特征分析[J].人民黄河,2016,38(10):79-82.[Wang Guangqian,Li Tiejian,Li Jiaye,et al.Analysis of sky water resources in the source region and the upper-middle region of the Yellow River Basin[J]. Yellow River,2016,38(10): 79-82.]   
+[4] 王光谦,钟德钰,李铁键,等.天空河流:发现,概念及其科学问 题[J].中国科学:技术科学,2016,46(6): 649-656.[Wang Guangqian,Zhong Deyu,Li Tiejian, et al.Sky river: Discovery,concept, and implications for future research[J]. Scientia Sinica Technologi
+
+# 干旱区地理
+
+ca,ZU10,40(0): 04y-0J0.」   
+[5]张婷,张行才.人工增雨研究综述[J].山西农业科学,2008,36 (3): 87-90. [Zhang Ting, Zhang Hangcai. Summary of researches on artificial precipitation[J]. Journal of Shanxi Agricultural Sciences[J].2008,36(3): 87-90.]   
+[6]郑国光,郭学良.人工影响天气科学技术现状及发展趋势[J].中 国工程科学,2012,14(9): 20-27.[Zheng Guoguang,Guo Xueliang. Status and development of sciences and technology for weather modification[J]. Strategic Study of CAE,2012,14(9): 20- 27.]   
+[7]卜凡亮,王蓉,金华,等.声波定向发射及其在人工降雨中的应 用研究[J].仪器仪表学报,2008,29(8):309-312.[Bu Fanliang, Wang Rong,Jin Hua,et al. The research of sound wave directional transmission and its application[J]. Chinese Journal of Scientific Instrument,2008,29(8):309-312.]   
+[8]Wei JH, Qiu J,Li T J,et al. Cloud and precipitation interference by strong low-frequency sound wave[J]. Science China Technological Sciences,2020,63: 1-12.   
+[9]裘钧,路后亮,赵智丰,等.基于降雨时间结构分析的黄河源区 声波增雨外场试验效果评价[J].应用基础与工程科学学报, 2020,28(3): 691-702.[Qiu Jun,Lu Houliang, Zhao Zhifeng,et al. Evaluation the effect of acoustic raining field experiments in the source region of the Yellow River based on the analysis of the time structure of rain[J]. Journal of Basic Science and Engineering, 2020,28(3):691-702.]   
+[10] 柏文文,魏加华,倪三川,等.低频声波作用下微液滴沉降实验 研究[J].应用基础与工程科学学报,2020,28(2):247-258.[Bai Wenwen,Wei Jiahua,Ni Sanchuan,et al.Experimental study on micro-droplet sedimentation under the action of low-frequency acoustic wave[J]. Journal of Basic Science and Engineering,2020, 28(2) : 247-258.]   
+[11]Shi Y,Wei JH,Bai W W,etal.Numerical investigations of acoustic agglomeration of liquid droplet using a coupled CFD-DEM model[J].Advanced Powder Technology,2020,31(6): 2394-2411.   
+[12]席葆树.一种声波集束辐射器[P].中国专利:CN201123122, 2008-09-24.[Xi Baoshu.A utility model relates to an acoustic cluster radiator[P]. Chinese Patent: CN201123122,2008-09-24.]   
+[13]席葆树.阻挡射流扬声器[P].中国专利:CN1064384,1992-09- 09.[Xi Baoshu.A utility model relates to a blocking jet loudspeaker[P]. Chinese Patent: CN1064384,1992-09-09.]   
+[14]Chen B,Yang J,Pu J. Statistical characteristics of raindrop size distribution in the meiyu season observed in eastern China[J]. Journal of the Meteorological Society of Japan,2013,91(2): 215- 227.   
+[15]牛生杰.云降水物理研究[M].北京:气象出版社,2012:22-29. [Niu Shengjie.Physical study of cloud precipitation[M].Beijing: China Meteorological Press,2012: 22-29.]   
+[16]Marshall JS,Palmer W M. The distribution of raindrops with size [J]. Journal of Meteorology,1948,5(4): 165-166.   
+[17]Ulbrich C,Atlas D.Rainfall microphysics and radar properties: Analysis methods for drop size spectra[J]. Journal of Climate and Applied Meteorology,1998,37(9): 912-923.   
+[18]Cao Q, Zhang G,Brandes E,et al.Analysis of video disdrometer and polarimetric radar data to characterize rain microphysics in Oklahoma[J].Journal of Applied Meteorologyand Climatology, 2008,47(8): 2238-2255.   
+[19]Moisseev D, Chandrasekar V. Examination of the $\mathscr { \mu }$ $\varLambda$ relation suggested for drop size distribution parameters[J]. Journal of Atmospheric and Oceanic Technology,2007,24(5): 847-855.   
+[20]Ulbrich C W.Natural variations in the analytical form of the raindrop size distribution[J].Journal of Climate and Applied Meteorology,1983,22(10): 1764-1775.
+
+# Microphysical characteristics of precipitation under the intervention of acoustic over an inland arid region
+
+PAN Peichong'， SHI Yang1²， ZHAO Zhifeng'， WANG Jia'， CAO Jiongwei',BAI Wenwen'， XIE Hongwei'，WEI Jiahual,2
+
+1.ScholofWaterResourcesandElectricPower,StateKeyLaboratoryofPlateauEcologyandAgriculture,Qinghai UniversityXinng   
+810016,Qinghaiina;.StateKeyLaboratoryofHydrosienceandEngineering,singhuaUiversity,eijing4a)
+
+Abstract: This study analyzes the microphysical characteristics of precipitation under acoustic intervention in China's inland arid region, based on the results of acoustic rain enhancement experiments conducted from June to September, 2019,in a study area ( $3 7 ^ { \circ } 2 7 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { E }$ ， $9 6 ^ { \circ } 4 8 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { N } \rangle$ ）located in the northeastern edge of the Qaidam Basin,Qinghai Province. This region,which has an average elevation of $2 9 8 0 \mathrm { ~ m ~ }$ ，has a highland continental climate and experiences year-round drought and litle rain: the average annual precipitation is approximately $2 0 4 . 7 ~ \mathrm { m m }$ . Most of the annual precipitation typically occurs in the wet season, which lasts from June to August. The observed precipitation data were obtained using an OTT Parsivel laser raindrop spectrometer and a tipping bucket rain gauge and have been analyzed using statistical analysis and physical inspection methods to compare the microphysical characteristics of the precipitation under acoustic interference and nonacoustic interference. Furthermore,the raindrop size distribution is described by a Gamma distribution.The major contributions of this study are as follows: (1) The accumulated precipitation increased after the acoustic equipment was turned on,and the proportions of events with increased precipitation and reduced precipitation were $60 . 8 7 \%$ and $3 9 . 1 3 \%$ ， respectively.The average values of the microphysical parameters (e.g.,the average particle size,liquid water content,radar reflectivity factor,rainfallintensity,and kinetic energy)were greater by varying degrees after the acoustic equipment was turned on.The increase of the average particle size,radar reflectivity factor,and liquid water content were $3 . 2 3 \%$ ， $6 . 1 2 \%$ ，and $1 1 . 4 3 \%$ ，respectively. The changes in the rainfall intensity and kinetic energy were the most obvious,with an increase of $3 6 . 0 0 \%$ and $6 9 . 2 0 \%$ , respectively. (2) The mean raindrop size distributionof the total rainfallsamplechanged and theshape factorof the fited distribution decreased after the acoustic equipment was turned on. The concentration of raindrop particles increased after approximately $0 . 8 ~ \mathrm { m m }$ Additionall,the analysis of the relationship between the standardized intercept parameterand the rainfall intensity after the intervention of acoustic waves shows that the particle number concentration increased with the increase in therain intensity.(3)Regarding therainfallintensityat diffrent distances from the test’sorigin after the acoustic equipment was turned on and off, it was found that the rain intensity value increased significantly within $3 ~ \mathrm { k m }$ after the sound wave was turned on. This shows that acoustic intervention has a certain impact on the surounding rainfall Based on the above analysis,acoustic intervention is seen to have a significant impact on precipitation in terms of the microphysical and spatial distribution.Unlike the traditional precipitation enhancement studies that use catalyst spreading technology,this article focuses on the study of a new artificial precipitation enhancement method: acoustic precipitation enhancement. In it,a detailed analysis is undertaken of the surface precipitation microphysical characteristics,rainfall changes,and rainfallintensity distribution under acoustic interference.The results reported in this study offer a new avenue for the analysis of the microphysical characteristics of acoustic precipitation in inland arid regions,which is of value to wider acoustic precipitation enhancement experiments and their evaluation.
+
+Key words: acoustic； precipitation enhancement； drop size distribution (DSD)；microphysical characteristics ofprecipitation; Qaidam Basin

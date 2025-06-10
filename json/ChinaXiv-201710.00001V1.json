@@ -1,0 +1,632 @@
+[
+    {
+        "type": "text",
+        "text": "Network of Recurrent Neural Networks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Ming Wang School of Software,Beijing Jiaotong University, Beijing, China oujago $@$ gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We describe aclass of systems theory based neural networks called “Network Of Recurrent neural networks”(NOR), which introduces a new structure level to RNN related models.InNOR,RNNs are viewedas the high-level neurons and are used to build the high-level layers.More specifically, wepropose several methodologies to design different NOR topologies according to the theory of system evolution.Then we carry experiments on three different tasks to evaluate our implementations.Experimental results show our models outperform simple RNN remarkably under the same number of parameters,and sometimes achieve even better results than GRU and LSTM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inrecent years,RecurrentNeural Networks (RNNs) (Elman 1990) have been widely used in Natural Language Processing (NLP).Traditionally,RNNs are directly used to build the final models.In this paper,we propose a novel idea called “Network Of Recurrent neural networks\"”(NOR) which utilizes existing basic RNN layers to make the structure design of the higher-levellayers.Froma standpoint of systems theory(VonBertalanffy1968;VonBertalanffy1972),arecurrent neural network is a group or an organization made up of a number of interacting parts,and it actually is viewed as a complexsystem,ora complexity.Dialectically,everysystem is relative:it is not only the system of its parts,but also the partof a larger system.In NOR structures,RNNis viewed asthe high-level neuron,and several high-level neurons are used to build the high-level layers rather than directlyused to construct the whole models. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conventionally, there are three levels of structure in Deep Neural Networks (DNNs): neurons, layers and whole nets (or called models). From a perspective of systems theory, at each level of such increasing complexity, novel features that do not exist at lower levels emerge (Lehn 2OO2). For example,at the neurons level,single neuron is simple and its generalization capability is very poor. But when a certain number of such neurons are accumulated into a certain elaborate structure by certain ingenious combinations, the layers at the higher level begin to get the unprecedented abilityof classification and feature learning.More importantly such new gained capability or property is deducible from but not reducible to constituent neurons of lower levels. It's not aproperty of the simple superposition of all constituent neurons,and the whole is greater than the sum of the parts. In systems theory,such kind of phenomenon is known as whole emergence (Wierzbicki 2O15).Whole emergence often comes from the evolution of the system(Arthur and others1993),in which a system develops from the lower level to the higher level, from simplicity to complexity. In this paper, the motivation of NOR structures is to introduce a new structure level to RNN-related networks by transferring traditional RNN from the system to the agent and from the outer dimension to the inner dimension (Fromm 2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1993,W.Brian Arthur(Arthur and others 1993）has identified three mechanisms by which complexity tends to grow as systems evolve: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·Mechanism1:increase in co-evolutionary diversity.The agent in the system seem to be a new instance of agent class,type or species.As a result, the system seems to have new external agent types or capabilities. ·Mechanism 2:increase in structural sophistication. The individual system steadily accumulates increasing numbers of new systems or parts.Thus,newly formed system seems to have new internal subsystems or capabilities. · Mechanism 3: increase by“capturing software”. The system capture simpler elements and learns to“program\" these as“software\"to beused as its own ends. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, with the guidance of first two mechanisms, we introduce two methodologies to NOR structures design, which are named as aggregation and specialization.Aggregation and specialization are natural operations for increasing complexity in complex systems (Fromm 2Oo4).The formeris related to Arthur's second mechanism,in which traditional RNNs are aggregated and accumulated into a highlevel layer in accordance with a specific structure,and the latteris relatedto Arthur's first mechanism,in which the RNN agent in a high-level layer is specialized as the RNN agent that performs a specific function. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We make several implementations and carry out experiments on three different tasks,including sentiment classification, question type classification and named entity recognition.Experimental results show that our models outperform constitute simple RNN remarkably with the same number of parameters and achieve even better results than GRU andLSTM sometimes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Systems TheorySystems Theory was originally proposed by biologistLudwig Von Bertalanffy(Von Bertalanffy1968; Von Bertalanffy 1972） for biological phenomena．In biology systems,there are several differentlevels which begin with the smallest units of life and reach to the largest and most extensive category: molecule,cell, tissue,organ,organ system, organization etc.Traditionally,a system could be decomposed into its individual components so that each component could be analyzed as an independent entity,and components could be added in a linear fashion to describe the totality of the system(Walonick 1993). However, Von Bertalanffy argued that we cannot fully comprehend a phenomenon by simply breaking it down into elementary parts and then reforming it. We instead need to apply a global and systematic perspective to underline its functionality (Mele, Pels,and Polese 2O1O),because a system is characterized by the interactions of its components and the nonlinearity of those interactions (Walonick 1993). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Whole EmergenceIn systems theory， the phenomenon (i.e.,the whole is irreducible to itsparts) is knownas emergence or whole emergence (Wierzbicki 2O15). Emergence can be qualitatively described as:the whole is greater than the sum of the parts (Upton,Janeka,and Ferraro 2O14).Or it can also be quantitatively expressed as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW > \\sum _ { i } ^ { n } p _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $W$ is the whole of the system and consists of $n$ parts, and $\\{ p _ { i } \\} _ { i = 1 \\cdots n }$ is the $i$ -th part.In1972,Philip W.Anderson highlighted the idea of emergence in has article “More is Different’(Anderson 1972) in which he stated that a change of scale very often causes a qualitative change in the behavior of the system.For example,in human brains,when one examines a single neuron, there is nothing that suggests conscious.But a collection of millions of neurons is clearly able to produce wonderful consciousness. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mechanisms behind the emergence of complexity can be used to design neural network structures.One of the widely accepted reasons is the repeated application and combination of two complementary forces or operations: stretching and folding (in Physics term(Thompson and Stewart 2Oo2)), splitting and merging (in Computer Science term (Hannebauer 2Oo2)),or specialization and cooperation (in Sociology term). Merging or aggregating of agents means generally a number of (sub-)agents is aggregated or conglomerated into a single agent. Splitting or specializing means the agents are clearly separated from each other and each agent is constrained to a certain class or role (Fromm 2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RecurrentNeural Networksatthe Edgeof ChaosRecurrent Neural Networks (RNNs)（Werbos 1988；Elman 1990) are a class of deep neural networks that possess inter nal short-term memory due to recurrent feed-back connections between units,which makes them be able to process arbitrary sequences of inputs. Formally，given a sequence of vectors $\\{ x _ { t } \\} _ { t = 1 \\cdots T }$ , the equation of Simple RNN (Elman 1990) is: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { t } = f ( W x _ { t } + U h _ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $W$ and $U$ are parameter matrices,and $f$ denotes a nonlinearity function such as tanh or ReLU.For simplicity the neuron biases are omitted from the equation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actually，RNNs can behave chaotically.There have been some works analysing RNNs theoretically or experimentally from the perspective of systems theory. (Sontag 1997） provided an exposition of research regarding systemtheoretic aspects ofRNNs with sigmoid activation functions. (Bertschinger and Natschläger 2OO4) analyzed the computation at the edgeofchaosinRNNs and calculated the critical boundary in parameter space where the transition from ordered to chaotic dynamics takes place.(Pascanu,Mikolov, and Bengio 2O13） employed a dynamical systems perspective to understand the exploding gradients and vanishing gradients problems in RNNs.In this paper, we obtain methodologies from systems theory to conduct structure designs of RNN related models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Network of Recurrent Neural Networks Overall Architecture ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a45b92dd615d9b44c5aa79c7e5f5d7c5c225fb59790ad93659155f344bc77da.jpg",
+        "img_caption": [
+            "Figure 1: Overview of NOR structure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asthe high-level illustration shown in Figure 1,NOR architecture is a three-dimensional spatial-temporal structure. We summarize NOR architecture as four components: I, M, S and O, in which component I (input) and O (output) control the head and tail of NOR layer, component S (subnetworks） is in charge of the spatial extension and component M(memories) is responsible for the temporal extension of the whole structure. We describe each component as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Component I: Component I controls the head of NOR architecture.It does data preprocessing tasks and distributes processed input data to subnetworks. At each time-step $t$ ，the form of upcoming input data $\\boldsymbol { x } _ { t }$ may be various, such as one single vector, or several vectors with the multigranularity information, even the feature vectors with noise. One single vector may be the simplest situation,and the common solution is copying this vector into $n$ duplicates and feed each of them into one single subnetwork in the component S.In this paper, the copying method meets our needs and we formalize it as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ x _ { t } ^ { i } \\} _ { i = 1 \\cdots n } = C ( x _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b7ce6f5a2b33273b826b1beb09a6d676dbdbfcff88221fa325ac796f41b8373.jpg",
+        "img_caption": [
+            "Figure 2:The sectional viewsof NOR layers atone time-step.“T' means thecomponentI,\"O\"means thecomponentO,and \"R\" means RNN neuron. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which $C$ means copy function, and $\\ v x _ { t } ^ { i }$ will be fed into $i$ -th subnetwork. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Component $\\pmb { M }$ : Component M manages all memories over the whole layer,not only internal but also external memories(Weston, Chopra,and Bordes 2O14).But in this paper, component M only considers internal memory and do not apply any extra processing to the individual memory of each RNN neuron. That is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { t } ^ { j } = I ( o _ { t - 1 } ^ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $I$ means identity function,the superscript $j$ is the identifier of $j$ -th RNN neuron 1, $m _ { t } ^ { j }$ is the memory of $j$ th RNN neuron at time-step $t$ and $o _ { t - 1 } ^ { j }$ is the transformation output of $j$ -th RNN neuron at time-step $t - 1 ^ { 2 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Component $s$ :Component S is made up of several different or same subnetworks.Interaction may exist in these subnetworks. The responsibility of component S is to manage the logic of each subnetwork and handle the interaction between them.Suppose component S has $n$ in-degree and $m$ out-degree,i.e.,component S receives $n$ inputs and produces $m$ outputs, the $k$ -th output is generated by necessary inputs and memories: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { t } ^ { k } = f ( [ X , M ] )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $s _ { t } ^ { k }$ is the $k$ -th output at time-step $t , X$ and $M$ are needed inputs and memories,and $f$ is the nonlinear function which can be one-layer RNN or two-layer RNN etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Component $o$ : To form a layer we need a certain amount of neurons. So one of the NOR properties is multiple RNNs. A natural approach to integrate multiple RNN neurons’ signals is collecting all outputs first and then using a MLPlayer to measure the weights of each outputs.Traditional neuron outputs a single real value,so the collection method is directly arranging them into a vector.But RNN neurons is different, for each of them outputs a vector not a value.A simple method is concatenating all vectors and then connecting the concatenated vector to the next MLP. Another is pooling each RNN output vector into a real value, then arranging all these real values into a vector,which seems same as traditional neurons.In this paper, the former solution is used and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "formalized as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { s _ { t } = [ s _ { t } ^ { 1 } ; s _ { t } ^ { 2 } ; \\cdot \\cdot \\cdot ; s _ { t } ^ { m } ] } \\\\ { o _ { t } = r ( W _ { M L P } * s _ { t } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $s _ { t }$ is the concatenated vector, $W _ { M L P }$ is the weight of MLP and $r$ means the ReLU activation function of MLP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methodology I: Aggregation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Anyoperation with changing a boundary can cause a emergence of complexity. The natural boundary is the agent itself,and sudden emergence of complexity is possible at this boundary if complexity is transfered from the agent to the system or vice versa from the system to the agent. There are two basic operations,aggregation and specialization, that can be used to transfer complexity between different dimensions (Fromm 2004). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to Arthur's second mechanism,internal complexity can be increased by aggregation and composition of sub-agents,which means a number of RNN agents is conglomerated into a single big system. In this way,aggregation and composition transfer traditional RNN from the outer to the inner dimension,from the system to the agent,for the selected RNNs are accumulated to become a part of a larger group. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For a concrete NOR layer, suppose it is composed of $n$ subnetworks,and $i$ -th subnetwork is made up of $k ^ { i }$ RNN neurons. Then,at the time-step $t$ ，given the input $\\boldsymbol { x } _ { t }$ ，the operation flow is as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Component I: copy $\\boldsymbol { x } _ { t }$ into $n$ duplications using equation (3), then we get xl,x², $x _ { t } ^ { 1 } , x _ { t } ^ { 2 } , \\cdots , x _ { t } ^ { n }$   \n2.Component M: deliver the memory of each RNN neuron from the last time-step to the current time-step using equation (4), then we get memories mt,·,mt in first subnetwork and memories $m _ { t } ^ { 2 , 1 } , \\cdot \\cdot \\cdot , m _ { t } ^ { 2 , k ^ { 2 } }$ （204号 in second subnetwork,etc.   \n3.Component S:for each subnetwork $i$ ,takeadvantage of the input $\\ v x _ { t } ^ { i }$ and memories $m _ { t } ^ { i , 1 } , \\cdot \\cdot \\cdot , m _ { t } ^ { i , k ^ { i } }$ to get the nonlinear transformation output: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { t } ^ { i } = f ( [ x _ { t } ^ { i } , m _ { t } ^ { i , 1 } , \\cdots , m _ { t } ^ { i , k ^ { i } } ] )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "then, we get $s _ { t } ^ { 1 } , s _ { t } ^ { 2 } , \\cdots , s _ { t } ^ { n }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.Component O: concatenate all outputs by equation (6) and use a MLP function to determine how much signals in each subnetwork to flow through the component $_ { \\mathrm { ~ \\scriptsize ~ O ~ } }$ by equation (7). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Obviously, the number, the type and the interaction of the aggregated RNNs determine the internal structure or inner complexity of the newly formed layer system.Thus,we pro pose three kinds of topologies of NOR aggregation method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Multi-AgentIn systems theory, the natural description of complex system is the multi-agent system created by replication and adaptation. “Replication” means to copy and reproduce a new RNN agent, and “adaptation” means they are not totally same and some changes on weights or somewhere else by variation can increase the diversity of the system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AsshowninFigure 2(a), there isa NORlayer(called MANOR) composed of four parallel RNNs.Figure 3 shows this layer being unrolled into a full network. Each subnetwork of MA-NOR layer is a one-tier RNN, thus at time-step $t$ ,the $i$ -th subnetwork of component S in MA-NOR is calculated as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { t } ^ { i } = o _ { t } ^ { i } = r ( W _ { i } x _ { t } ^ { i } + U _ { i } m _ { t } ^ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $r$ means ReLU activation function, $W _ { i }$ and $U _ { i }$ are parameters of corresponding RNN neuron, $o _ { t } ^ { i }$ is the nonlinear transformation output and will be delivered to next time-step to be used as $\\mathbf { \\Omega } _ { m _ { t + 1 } ^ { i } } ^ { i }$ ,and $s _ { t } ^ { i }$ is the output of $i$ -th subnetwork which is equal to $o _ { t } ^ { i }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1c48106cf67c4ab8d0ee1016b8cd15765ded44cd2fa921170ec46c114bd5e38.jpg",
+        "img_caption": [
+            "Figure 3: The unfolding of MA-NOR in three time-steps. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nonlinear function in equation (5) of each subnetwork may be more complex.For example,Figure 2(b) shows a NOR layer made up of three two-tier RNNs. At time-step $t$ the $i$ -th subnetwork in component S is calculated as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { o _ { t } ^ { i , 1 } = r ( W _ { t } ^ { i , 1 } x _ { t } ^ { i } + U _ { t } ^ { i , 1 } m _ { t } ^ { i , 1 } ) } \\\\ { s _ { t } ^ { i } = o _ { t } ^ { i , 2 } = r ( W _ { t } ^ { i , 2 } x _ { t } ^ { i } + U _ { t } ^ { i , 2 } m _ { t } ^ { i , 2 } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Multi-ScaleThe combination of multiple RNNs in a Multi-AgentNORlayermakesit somewhatlikeanensemble. And empirically,diversity among the members of a group of agents is deemed to be a key issue in ensemble structure (Kuncheva and Whitaker 2OO3). One way to increase the diversity is to use the Multi-Scale topology which introduce new agent type to the system and can learn sequence dependencies in different timescales. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2(c) shows a NOR layer made up of four subnetworks,in which two of them are one-tierRNNs and the othersare two-tier RNNs. Two kinds of timescale dependenciesarelearnedin component S,which are formalized as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e923c66dc3131e6de28fea2dd1a71cbc164412f290b3c5ed663511f7c08575a.jpg",
+        "img_caption": [
+            "Figure 4: The unfolding of MS-NOR in three time-steps. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { s _ { t } ^ { 1 } = o _ { t } ^ { 1 } = r ( W _ { t } ^ { 1 } x _ { t } ^ { 1 } + U _ { t } ^ { 1 } m _ { t } ^ { 1 } ) } \\\\ & { s _ { t } ^ { 2 } = o _ { t } ^ { 2 } = r ( W _ { t } ^ { 2 } x _ { t } ^ { 2 } + U _ { t } ^ { 2 } m _ { t } ^ { 2 } ) } \\\\ & { \\qquad o _ { t } ^ { 3 , 1 } = r ( W _ { t } ^ { 3 , 1 } x _ { t } ^ { 3 } + U _ { t } ^ { 3 , 1 } m _ { t } ^ { 3 , 1 } ) } \\\\ & { s _ { t } ^ { 3 } = o _ { t } ^ { 3 , 2 } = r ( W _ { t } ^ { 3 , 2 } o _ { t } ^ { 3 , 1 } + U _ { t } ^ { 3 , 2 } m _ { t } ^ { 3 , 2 } ) } \\\\ & { \\qquad o _ { t } ^ { 4 , 1 } = r ( W _ { t } ^ { 4 , 1 } x _ { t } ^ { 4 } + U _ { t } ^ { 4 , 1 } m _ { t } ^ { 4 , 1 } ) } \\\\ & { s _ { t } ^ { 4 } = o _ { t } ^ { 4 , 2 } = r ( W _ { t } ^ { 4 , 2 } o _ { t } ^ { 4 , 1 } + U _ { t } ^ { 4 , 2 } m _ { t } ^ { 4 , 2 } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Self-SimilarityThe above mentioned aggregation and composition operation lead to big RNN agent-groups. While in turn，they can also be combined to form even bigger group. Such repeated aggregation and high accumulation makes the fractal and self-similar structure come into being. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/089c7c010ae76d31f4de06de4d7fa4e898ba2e9bcd7ea68b2fadfeffb99fbb2b.jpg",
+        "img_caption": [
+            "Figure 5: The unfolding of SS-NOR in three time-steps. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 2(d),we also use three paths. But after each path first learns its own intermediate representation,the second layers gather all intermediate representations of three paths to learn high-level abstract features. In this way, different paths do not learn and train independently. The connections among each other helps the model easy to share informations.Thus,it becomes possible that the whole model learns and trains to be an organic rather than parallel independent structure.We formalize the cooperation of component S as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad _ { o _ { t } ^ { 1 , 1 } } = r ( W _ { t } ^ { 1 , 1 } x _ { t } ^ { 1 } + U _ { t } ^ { 1 , 1 } m _ { t } ^ { 1 , 1 } ) } \\\\ & { \\quad _ { o _ { t } ^ { 2 , 1 } } = r ( W _ { t } ^ { 2 , 1 } x _ { t } ^ { 2 } + U _ { t } ^ { 2 , 1 } m _ { t } ^ { 2 , 1 } ) } \\\\ & { \\quad _ { o _ { t } ^ { 3 , 1 } } = r ( W _ { t } ^ { 3 , 1 } x _ { t } ^ { 3 } + U _ { t } ^ { 3 , 1 } m _ { t } ^ { 3 , 1 } ) } \\\\ & { \\quad _ { s _ { t } ^ { 1 } } = o _ { t } ^ { 1 , 2 } = r ( W _ { t } ^ { 1 , 2 } [ o _ { t } ^ { 1 , 1 } , o _ { t } ^ { 2 , 1 } , o _ { t } ^ { 3 , 1 } ] + U _ { t } ^ { 1 , 2 } m _ { t } ^ { 1 , 2 } ) } \\\\ & { \\quad _ { s _ { t } ^ { 2 } } = o _ { t } ^ { 2 , 2 } = r ( W _ { t } ^ { 2 , 2 } [ o _ { t } ^ { 1 , 1 } , o _ { t } ^ { 2 , 1 } , o _ { t } ^ { 3 , 1 } ] + U _ { t } ^ { 2 , 2 } m _ { t } ^ { 2 , 2 } ) } \\\\ & { \\quad _ { s _ { t } ^ { 3 } } = o _ { t } ^ { 3 , 2 } = r ( W _ { t } ^ { 3 , 2 } [ o _ { t } ^ { 1 , 1 } , o _ { t } ^ { 2 , 1 } , o _ { t } ^ { 3 , 1 } ] + U _ { t } ^ { 3 , 2 } m _ { t } ^ { 3 , 2 } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Methodology II: Specialization ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have mentioned that the emergence of complexity is usually connected to a transfer of complexity,a transfer at the boundary of the system. Aggregation and composition transfercomplexity from the system to the agent,and from the outer dimension to the inner dimension.Another way to be used to cross the agent boundary is the specialization or inheritance,which transfer complexity from the agent to the system,and from the inner dimension to the outer dimension (Fromm 2OO4). Specialization is related to Arthur's frst mechanism.It increases structural sophistication outside of the agent by adding new agent forms.Through inheritance andspecializationobjects become objects of a certain class and agents become agents of a certain type,and the more such an agent becomes a particular class or type, the more it needs to delegate special tasks that it can not handle alone to other agents (Fromm 2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effect of specialization is the emergence of delegation and division of labor in the newly formed groups.Thus, the formalization of $k$ -th output in Component S can be rewritten as the following: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { t } ^ { k } = g ( f _ { 1 } ( [ X , M ] ) , f _ { 2 } ( [ X , M ] ) , \\cdots , f _ { L } ( [ X , M ] ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { l }$ is the $l$ -th specialized agent function, $g$ means the cooperation of all specialized agents,and $L$ is the number of specialized agents.Equation (24) denotes the function $f$ in equation(5) is implemented by the separated operations $f _ { 1 } , f _ { 2 } , \\cdots , f _ { L }$ and $g$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gate-SpecializationWe see gate mechanism is one of the specialization methods. As shown in Figure 6,a general RNN agent is separated into two specialized RNN agents, one is for gate duty and the other is for generalization duty. A concrete Gate-NOR is shown in Figure7. In the original Multi-Agent NOR layer, each RNN agent is specialized as one generalization specific RNN and one gate specific RNN. We formalize it as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { o _ { t } ^ { 1 } = \\sigma ( W _ { t } ^ { 1 } x _ { t } ^ { 1 } + U _ { t } ^ { 1 } m _ { t } ^ { 1 } ) } \\\\ { o _ { t } ^ { 2 } = r ( W _ { t } ^ { 2 } x _ { t } ^ { 2 } + U _ { t } ^ { 2 } m _ { t } ^ { 2 } ) } \\\\ { s _ { t } ^ { 1 } = o _ { t } ^ { 1 } \\odot o _ { t } ^ { 2 } } \\\\ { o _ { t } ^ { 3 } = \\sigma ( W _ { t } ^ { 3 } x _ { t } ^ { 3 } + U _ { t } ^ { 3 } m _ { t } ^ { 3 } ) } \\\\ { o _ { t } ^ { 4 } = r ( W _ { t } ^ { 4 } x _ { t } ^ { 4 } + U _ { t } ^ { 4 } m _ { t } ^ { 4 } ) } \\\\ { s _ { t } ^ { 2 } = o _ { t } ^ { 3 } \\odot o _ { t } ^ { 4 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/18ea6c8cf00e9ec8dfa4db9eb15464fbe34608f5d03d2924251bee9e616185ae.jpg",
+        "img_caption": [
+            "Figure 6: Gate Specialization. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c32653fe8522342ed10db37430f000c58e925efee3a2454c9ae32b85d563d7d2.jpg",
+        "img_caption": [
+            "Figure 7: The sectional views of Gate-NOR layer at one time-step. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma$ denotes the sigmoid activation and $\\odot$ denotes element-wise multiplication. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Relationship withLSTM and GRUWe see Long Shortterm Memory (LSTM) (Hochreiter and Schmidhuber1997) and Gated Recurrent Unit (GRU) (Chung et al. 2014) as two special cases ofNetwork ofRecurrent neural networks.Take LSTM for example,at time-step $t$ ，given input $\\boldsymbol { x } _ { t }$ and previous memory cell $c _ { t - 1 }$ and hidden state $h _ { t - 1 }$ , the transition equations of standardLSTMcan be expressed as the following: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { i = \\sigma ( W _ { i } x _ { t } + U _ { i } h _ { t - 1 } ) } \\\\ { f = \\sigma ( W _ { i } x _ { t } + U _ { f } h _ { t - 1 } ) } \\\\ { o = \\sigma ( W _ { o } x _ { t } + U _ { o } h _ { t - 1 } ) } \\\\ { g = t a n h ( W _ { g } x _ { t } + U _ { g } h _ { t - 1 } ) } \\\\ { c _ { t } = c _ { t - 1 } \\odot f + g \\odot i } \\\\ { s _ { t } = t a n h ( c _ { t } ) \\odot o } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the perspective of NOR (Network of Recurrent Neural Networks),LSTMismade up of fourRNNs,in which three of four (i.e., i, $f$ ，oRNNs) are specialized for gate tasks to control how much of informations let through in different parts.Moreover, there is only a shared memory $h _ { t - 1 }$ which can be accessed by each RNN cell inLSTM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Whileinturn,LSTMandGRUcanalsobecombined to form even bigger group. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experiments ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to evaluate the performance of the presented model structures,we design experiments on the following tasks: ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8189386879ea437a061d32291a70fc917cf9e07c623924e387076b1e9a694fe.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 1: Numberof hidden neurons forRNN,GRU,LSTMMA-NOR,MS-NOR,SS-NOR and Gate-NOR for each networl size specified in terms of the number of parameters (weights). "
+        ],
+        "table_body": "<html><body><table><tr><td>Task</td><td># of Params.</td><td>IRNN</td><td>GRU</td><td>LSTM</td><td>MA-NOR</td><td>MS-NOR</td><td>SS-NOR</td><td>Gate-NOR</td></tr><tr><td rowspan=\"3\">Sentiment Classification</td><td>200 k</td><td>212</td><td>107</td><td>88</td><td>89</td><td>66</td><td>61</td><td>61</td></tr><tr><td>400 k</td><td>320</td><td>166</td><td>139</td><td>136</td><td>100</td><td>90</td><td>97</td></tr><tr><td>800k</td><td>468</td><td>252</td><td>213</td><td>203</td><td>149</td><td>132</td><td>149</td></tr><tr><td rowspan=\"3\">Questionclassification</td><td>100 k</td><td>198</td><td>86</td><td>68</td><td>74</td><td>54</td><td>53</td><td>45</td></tr><tr><td>200 k</td><td>319</td><td>148</td><td>119</td><td>122</td><td>88</td><td>83</td><td>79</td></tr><tr><td>400k</td><td>497</td><td>244</td><td>199</td><td>193</td><td>139</td><td>126</td><td>133</td></tr><tr><td rowspan=\"3\">Named Entity Recognition</td><td>200k</td><td>197</td><td>86</td><td>67</td><td>74</td><td>54</td><td>53</td><td>45</td></tr><tr><td>400 k</td><td>319</td><td>148</td><td>119</td><td>122</td><td>88</td><td>83</td><td>79</td></tr><tr><td>800k</td><td>497</td><td>244</td><td>199</td><td>193</td><td>139</td><td>126</td><td>133</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "sentiment classification，question type classification and named entity recognition. We compare all models under the comparable parameter numbers to validate the capacity of better utilizing the parametric space.In order to verify the effectiveness and universality of the experiments,we conduct three comparative tests under total parameters of different orders of magnitude,see Table 1. Every experiment is repeated 2O times with different random initializations and then we report the mean results.It's worthy noting that our aim here is to compare the model performance under the same hyper-parameter settings,not to achieve best performance for one single model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Le,Jaitly,and Hinton 2O15） showed that when initializingthe recurrent weight matrix to be the identity matrix and biases to be zero,simple RNN composed of ReLU activation function (named as IRNN) can be comparable with even outperformLSTM.In our experiments,all basic RNN neurons are simple RNNs applied with ReLU function. We also keep the number of the hidden units same over all RNN neurons in a NOR model. Obviously, our baseline model is a single giant simple RNN (Elman 199O) applied with ReLU activation.At the same time, two improved RNNs(GRU (Chung et al.2O14) and LSTM(Hochreiter and Schmidhuber1997)) have been widelyand successfullyused in NLP in recent years,so we also choose themas our baseline models. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The pre-trained 30O-D Glove 6B vectors³ and 300-D Google News vectors4 were obtained for the word embeddings. During training we fix all word embeddings and learn only the other parameters in all models. The embeddings for out-of-vocabulary words are set to zero vectors. We pad or crop the input sentences to a fixed length.The trainings are done through stochastic gradient optimizer descent over shuffled mini-batches with the optimizer Adam (Kingma and Ba 2O14).All models are regularized by using dropout (Srivastava et al. 2O14) method. At the same time, in order to avoid overfitting，early stopping is applied to prevent unnecessary computation when training. More de tails on hyper-parameters setting can be found in our codes, which are publiclyavailable at $\\ddagger$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sentiment Classification ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Weevaluate our models on the task of sentiment classification on the popular Stanford Sentiment Treebank (SST) benchmark(Socher et al.2013),which consists of 11855 movie reviews and is split into train(8544), dev(11O1) and test (221O). SST provides detailed phrase-level annotation and all sentences along with the phrases are annotated with 5 labels: very positive,positive,neural, negative,and very negative. In our experiments,we only use the sentence-level annotation. One of our goals is to avoid expensive phraselevel annotation, like (Qian,Huang,and Zhu 2O16). Anotheris,in practice,phrase-level annotation is hard to provide. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All models use the same architecture: embedding layer $$ dropout layer $$ RNN/NOR layer $$ RNN/NORlayer $$ max-pooling layer $$ dropoutLayer $$ softmax layer. The first layer is the word embedding layer,next are two-layer RNN/NOR layers as the non-linear feature transformation layer. Then a max-pooling layer max-pools all transformed feature vectors by selecting the max value in each position to get sentence representation. Finally,a softmax layer is used as output layer to get the final result. To benefit from the regularization,two dropout layers with rate of O.5 are added after embedding layer and before softmax layer. The initial learning rates of all models are set to O.OoO2.We use public available 3oO-D Glove 84OB vectors to initialize word embeddings.Threedifferentnetworksizesare tested for each architecture,such that the number of parameters areroughly $2 0 0 \\mathrm { ~ k ~ }$ ， $4 0 0 \\mathrm { ~ k ~ }$ and $8 0 0 \\mathrm { ~ k ~ }$ (see Table1).We set the minibatch size as 2O.Finally,we use the Cross-Entropy criterion as loss function. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a46cb361277494e7bf08cf2e838861adcc1e66c8b4407e8b3cc24b09968122c.jpg",
+        "table_caption": [
+            "Table 2: Accuracy $( \\% )$ comparison over different experiments on SST corpus. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>200k Params</td><td>400k Params</td><td>800k Params</td></tr><tr><td>IRNN</td><td>44.30</td><td>44.43</td><td>45.28</td></tr><tr><td>GRU</td><td>47.27</td><td>47.35</td><td>47.65</td></tr><tr><td>LSTM</td><td>46.98</td><td>47.19</td><td>47.37</td></tr><tr><td>MA-NOR</td><td>45.17</td><td>45.24</td><td>45.37</td></tr><tr><td>MS-NOR</td><td>44.83</td><td>45.51</td><td>45.59</td></tr><tr><td>SS-NOR</td><td>44.54</td><td>45.21</td><td>45.42</td></tr><tr><td>Gate-NOR</td><td>44.95</td><td>45.80</td><td>46.06</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of the experiments are shown in Table 2.It is obvious that NOR models get superior performances compared with IRNN baseline,especially when the network size is big enough.All models improve with network size grows. Among all NOR models,Gate-NOR gets the best results. However,we find thatLSTM and GRU get much better results in three comparative tests. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Question Type Classification ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Question classification is an important step in a question answering system which classifies a question into a specific type.For this task,we use TREC(Li and Roth 2OO2) benchmark,which divides all questions into 6 categories:location, human,entity,abbreviation,description and numeric.TERC provides 5452 labeled questions in the training set and 500 questions in the test. We randomly select $10 \\%$ of the training data as the validation set. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b1a40abcfe8e87359017e294bbfd602c0133a0010b8f8ea638f0d9efff62c15.jpg",
+        "table_caption": [
+            "Table 3: Accuracy $( \\% )$ comparison over different experiments on TREC corpus. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>100k Params</td><td>200kParams</td><td>400k Params</td></tr><tr><td>IRNN</td><td>92.73</td><td>93.22</td><td>93.62</td></tr><tr><td>GRU</td><td>91.83</td><td>92.54</td><td>93.64</td></tr><tr><td>LSTM</td><td>91.44</td><td>92.46</td><td>93.10</td></tr><tr><td>MA-NOR</td><td>92.73</td><td>93.56</td><td>93.73</td></tr><tr><td>MS-NOR</td><td>92.85</td><td>93.79</td><td>94.04</td></tr><tr><td>SS-NOR</td><td>93.19</td><td>93.62</td><td>94.12</td></tr><tr><td>Gate-NOR</td><td>92.77</td><td>93.35</td><td>93.81</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All network types use the same architecture:embedding layer $$ dropout layer $$ RNN/NOR layer $$ max-pooling layer $$ dropout layer $$ softmax layer. Dropout rates are set to O.5.Three hidden layer sizes are chosen such that the total number of parameters for the whole model is roughly $1 0 0 \\mathrm { k }$ $2 0 0 \\mathrm { k }$ $4 0 0 \\mathrm { k }$ ,see Table 1. All networks use a learning rate of 0.0oo5 and are trained to minimize the Cross Entropy Error. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3 shows the accuracy of the different networks on the question type classification task.Here again,NOR models get better results than baseline IRNN model. Among all NOR models, SS-NOR also gets the best result. In this dataset,we find theperformancesofLSTM andGRUare even not comparable with IRNN,which proves the validity ofresults in (Le,Jaitly,and Hinton 2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Named Entity Recognition ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Named entity recognition (NER) is aclassic NLP task which tries to identity the proper names of persons, organizations, locations,or other entities in the given text.We experiment on CoNLL-2O03 dataset (Tjong Kim Sang and De Meulder 2003) which consists of 14987 sentences in the training set, 3466 sentences in the validation set and 3684 sentences in the test set. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recently,popular NER models are based on bidirectional LSTM(Bi-LSTM) combined with conditional random fields (CRF),named asBi-LSTM-CRF(Lample etal.2016).The Bi-LSTM-CRF networks can effectively use past and future features via a Bi-LSTM layer and sentence level tag information via a CRF layer. In our experiments,we also adapt this architecture by replacing LSTM with NORs or other variation ofRNNs.So the universal architecture of all tested models is: embedding layer $$ dropout layer $ \\mathrm { B i } _ { \\overline { { \\mathbf { \\Gamma } } } }$ RNN/Bi-NORlayer $ \\mathrm { C R F }$ layer.Three hiddenlayersizes are chosen such that the total number of parameters for the whole network is roughly $2 0 0 \\mathrm { k } .$ $4 0 0 \\mathrm { k }$ and $8 0 0 \\mathrm { ~ k ~ }$ see Table 1. We apply $50 \\%$ dropout after embedding layer. Initial learning rate is set to O.OO5 and every epoch it is reduced byfactor O.95.The size of each minibatchis 2O.We train all networks for 25 epochs and early stop the training when there are 5 epochs no improvement on validation set. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7317f5ed4109906de4861f64b39d152c81d8ca14b17536a7d82a90e7341bdf56.jpg",
+        "table_caption": [
+            "Table 4: $F _ { 1 }$ 0 $( \\% )$ comparison over different experiments on CoNLL-2003 corpus. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>200k Params</td><td>400kParams</td><td>800kParams</td></tr><tr><td>IRNN</td><td>85.07</td><td>85.52</td><td>85.58</td></tr><tr><td>GRU</td><td>83.97</td><td>84.13</td><td>85.05</td></tr><tr><td>LSTM</td><td>84.95</td><td>85.70</td><td>86.18</td></tr><tr><td>MA-NOR</td><td>85.96</td><td>86.17</td><td>86.18</td></tr><tr><td>MS-NOR</td><td>85.51</td><td>86.10</td><td>86.21</td></tr><tr><td>SS-NOR</td><td>86.06</td><td>86.20</td><td>86.33</td></tr><tr><td>Gate-NOR</td><td>85.67</td><td>85.89</td><td>86.21</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our results are summarized in the Table 4. Not surprisingly,all NORs perform much better than giant single RNNReLU model.As we can see,GRU performs the worst, followed by IRNN. Compared to GRU and IRNN,LSTM performs very well, especially when network size grows up. At the same time,all NOR models get superior performances than IRNN,GRU and LSTM. Among them, SS-NOR model get best results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we introduced a novel kind of systems theory based neural networks called “Network Of Recurrent neural network”(NOR)which views existing RNNs (for example,simple RNN,GRU,LSTM) as high-level neurons and then utilizes RNN neurons to design higher-level layers. Then we proposed several methodologies to design different NOR topologies according to the evolution of systems theory (Arthur and others 1993).We conducted experiments on three kinds of tasks (including sentiment classification, question type classification and named entity recognition) to evaluate our proposed models.Experimental results demonstrated that NOR models get superior performances compared with single giant RNN models,and sometimes their performances even exceed GRU andLSTM. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Anderson 1972] Anderson,P.W.1972.More is different.   \nScience 177 4047:393-6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Arthur and others1993] Arthur,W.B.,etal.1993.On the evolution of complexity. Technical report. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Bertschinger and Natschläger 2OO4] Bertschinger, N.，and Natschläger, T. 2OO4. Real-time computation at the edge of chaos in recurrent neural networks.Neural computation 16(7):1413-1436. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Chung et al. 2O14] Chung,J.; Gulcehre, C.; Cho,K.； and   \nBengio，Y. 2014. Empirical evaluation of gated recur  \nrent neural networks on sequence modeling. arXiv preprint   \narXiv:1412.3555.   \n[Elman 1990] Elman, J. L. 1990. Finding structure in time. Cognitive science 14(2):179-211.   \n[Fromm 2004] Fromm, J. 2004. The emergence of complexity.Kassel university press Kassel.   \n[Hannebauer 2002] Hannebauer, M. 2002. Autonomous dynamic reconfiguration in multi-agent systems: improving the quality and effciency of collaborative problem solving. Springer-Verlag.   \n[Hochreiter and Schmidhuber 1997] Hochreiter,S.，and   \nSchmidhuber, J. 1997. Long short-term memory. Neural computation 9(8):1735-1780.   \n[Kingma and Ba 2014] Kingma, D.,and Ba, J. 2014. Adam:   \nA method for stochastic optimization.arXiv preprint arXiv:1412.6980.   \n[Kuncheva and Whitaker 2OO3] Kuncheva, L. and Whitaker, C.J. 20o3. Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy. Machine learning 51(2):181-207.   \n[Lample et al. 2016] Lample,G.; Ballesteros,M.; Subramanian, S.; Kawakami, K.; and Dyer, C. 2016. Neural architectures for named entity recognition. arXiv preprint arXiv:1603.01360.   \n[Le,Jaitly,and Hinton 2O15] Le, Q. V.; Jaitly, N.; and Hin  \nton，G.E.2O15.A simple way to initialize recur  \nrent networks of rectified linear units.arXiv preprint arXiv:1504.00941.   \n[Lehn 2002] Lehn,J.-M. 2002. Toward complex mater:   \nsupramolecular chemistry and self-organization. Proceed  \nings of the National Academy of Sciences 99(8):4763-4768.   \n[Li and Roth 2002] Li, X.,and Roth,D. 2002.Learning question classifiers. In Proceedings of the 19th international conferenceon Computational linguistics-Volume1,1-7.Association for ComputationalLinguistics.   \n[Mele,Pels,and Polese 2010] Mele, C.; Pels,J.; and Polese, F. 2010.A brief review of systems theories and their managerial applications. Service Science 2(1-2):126-135.   \n[Pascanu, Mikolov,and Bengio 2013] Pascanu, R.; Mikolov, T.; and Bengio, Y. 2O13. On the difficulty of training recurrent neural networks. In ICML.   \n[Qian, Huang,and Zhu 2016] Qian, Q.; Huang, M.; and Zhu, X.2016. Linguistically regularized lstms for sentiment clas  \nsification. arXiv preprint arXiv:1611.03949.   \n[Socher et al.2O13] Socher, R.； Perelygin，A.; Wu, J. Y.; Chuang, J.; Manning, C.D.; Ng, A. Y.; Potts, C.; et al. 2013. Recursive deep models for semantic compositionality over a   \nsentiment treebank. In Proceedings of the conference on empirical methods in natural language processing (EMNLP), volume 1631,1642. Citeseer.   \n[Sontag 1997] Sontag,E. 1997. Recurrent neural networks:   \nSome systems-theoretic aspects. In Dealing with Complexity:a Neural Network Approach. Citeseer. [Srivastava et al.2O14] Srivastava, N.；Hinton， G. E.; Krizhevsky， A.; Sutskever,I.； and Salakhutdinov， R. 2014.Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research 15(1):1929-1958.   \n[Thompson and Stewart 2OO2] Thompson， J.M. T.，and Stewart, H. B. 2Oo2. Nonlinear dynamics and chaos. John Wiley & Sons.   \n[Tjong Kim Sang and De Meulder 2O03]_Tjong Kim Sang, E.F.，and De Meulder，F. 2OO3．Introduction to the conll-2Oo3 shared task: Language-independent named entity recognition. In Proceedings of the seventh conference on Natural language learning at HLT-NAACL 2O03-Volume 4,142-147. Association for Computational Linguistics. [Upton, Janeka, and Ferraro 2O14] Upton, J.; Janeka,I.; and Ferraro,N. 2O14. The whole is more than the sum of its parts: aristotle,metaphysical. Journal of Craniofacial Surgery 25(1):59-63.   \n[Von Bertalanffy 1968] Von Bertalanffy,L．1968．General system theory. New York 41973(1968):40.   \n[Von Bertalanffy 1972] Von Bertalanffy,L.1972. The history and status of general systems theory. Academy of Management Journal 15(4):407-426.   \n[Walonick1993] Walonick，D.S. 1993. General systems theory. Information on http://www. statpac. org/walonick/systems-theory. htm.   \n[Werbos 1988] Werbos，P. J.1988．Generalization of backpropagation with application to a recurrent gas market model. Neural Networks 1:339-356.   \n[Weston, Chopra,and Bordes 2O14] Weston, J.;Chopra, S.; and Bordes,A．2014.Memory networks. arXiv preprint arXiv:1410.3916.   \n[Wierzbicki 2015] Wierzbicki, A. P. 2015. Systems theory, theoryofchaos,emergence.In Technen:ElementsofRecent History of Information Technologies with Epistemological Conclusions. Springer. 175-188. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

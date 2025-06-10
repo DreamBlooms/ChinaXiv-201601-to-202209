@@ -1,0 +1,127 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# 应用GaiaDR1的木卫六天体测量试验观测
+
+彭焕文1,2,，彭青玉²，王娜²（1.中国科学院云南天文台，云南 昆明650011；2.暨南大学中法天体测量、动力学与空间科学联合实验室，广东广州 510632；3.中国科学院大学，北京100049)
+
+摘要：木卫六是木星最大的一颗不规则天然卫星，为了获得它的高精度观测位置，天体测量归算过程中各方面都需要考虑，其中特别重要的是参考星表的选择。应用最新公布的星表GaiaDataRelease1（GaiaDR1），同时采用UCAC4 星表进行比较，对2015年云南天文台获得的185个木卫六的观测资料进行处理和归算，结果显示，采用GaiaDR1星表的木卫六的位置测量精度在赤经和赤纬两个方向都约为 $0 . 0 2 ^ { \prime \prime }$ ，比采用UCAC4的结果有显著提升。
+
+关键词：天体测量；木卫六；GaiaDR1；星表中图分类号：P123 文献标识码：A 文章编号：1672-7673(2017)03-0317-05
+
+太阳系内的小天体与早期太阳系的起源与演化有着密切的关系，这些小天体主要包括小行星及不规则天然卫星等。获得这些小天体的精确位置不仅有助于空间探测器的导航任务，而且能改进它们自身的轨道理论。木卫六是木星最大的一颗不规则天然卫星，采用CCD 相对位置测量方法能够获得它的精确观测位置，整个天体测量归算过程中包含了很多步骤。（1)CCD 图像处理，主要包含了平场和本底预处理、星像定心、星像匹配等。（2)参考星的站心视位置计算，其中包含了一系列的计算过程，涉及多个参考系之间的转换以及大气折射等。（3)几何扭曲的求解和剔除，对于参考星数量较少的目标图像来说，不太可能采用高阶常数模型进行计算，因此需要精确地求解CCD视场的几何扭曲，以便校正其对像素测量位置的影响。（4)木卫六的站心视位置计算，相对于同一视场的参考星计算得到它的观测位置，并与历表进行比较和分析等。
+
+在整个过程中，参考星表的选择是非常重要的一步，选择高精度的星表进行天体测量归算直接影响最终得到的木卫六的位置测量精度。为此采用欧洲空间局（European Space Agency，ESA)的 Gaia卫星[1]最新发表的第1个星表Gaia DR1[2]，这个星表比现有可获得的恒星星表数据精度有了巨大提升[3]。为了检验采用Gaia DR1星表对木卫六做相对位置测量会得到多大的精度改善，也采用UCAC4星表[4]进行处理和归算，以便进行比较和分析。
+
+# CCD相对位置测量
+
+木卫六的观测位置通过相对于同一CCD视场中的参考星计算得到。在将CCD 图像中搜索到的星像匹配星表之后，对匹配的星像和目标星像的像素坐标剔除几何扭曲，然后用IAU-SOFA函数库[5]计算得到参考星的站心视位置，并用最小二乘法拟合计算每幅CCD 图像的四常数模型，最后用四常数模型计算得到目标的观测位置，也就是站心视位置。
+
+在使用最小二乘法拟合四常数模型之前，需要将参考星的赤道坐标经过天球切平面投影变换得到天球切平面的标准坐标，计算公式如(1)式：
+
+$$
+\xi = \frac { \mathrm { c o s } \delta \mathrm { s i n } \left( \alpha - A \right) } { \mathrm { s i n } D \mathrm { s i n } \delta + \mathrm { c o s } D \mathrm { c o s } \delta \mathrm { c o s } \left( \alpha - A \right) }
+$$
+
+$$
+\eta = \frac { \mathrm { c o s } D \mathrm { s i n } \delta - \mathrm { s i n } D \mathrm { c o s } \delta \mathrm { c o s } \left( \alpha - A \right) } { \mathrm { s i n } D \mathrm { s i n } \delta + \mathrm { c o s } D \mathrm { c o s } \delta \mathrm { c o s } \left( \alpha - A \right) }
+$$
+
+其中， $( \xi , \eta )$ 为参考星在天球切平面的标准坐标； $( \alpha , \delta )$ 为参考星的赤道坐标； $( A , D )$ 为天球切平面切点的赤道坐标。
+
+在得到CCD 图像中参考星的天球切平面标准坐标后，就可以进行常数模型的拟合。因为已经获得了相应参考星在图像中的像素坐标，所以在剔除了几何扭曲后，可以采用四常数模型进行拟合，如（2)式：
+
+$$
+\begin{array} { l } { { \xi = a x - b y + c } } \\ { { \eta = b x + a y + d } } \end{array} ,
+$$
+
+其中， $( \xi , \eta )$ 为参考星在天球切平面的标准坐标； $( x , y )$ 为对应参考星在图像中的像素坐标； $a = \rho \cos \varphi$ ，$b { = } \rho { \sin \varphi }$ ，其中 $\rho$ 和 $\varphi$ 分别为底片比例尺和CCD芯片与赤道的夹角； $( c , d )$ 为天球切平面标准坐标系原点和图像像素坐标系原点之间的偏移量。
+
+接下来采用最小二乘拟合法计算4个参数 $( a , b , c , d )$ 的估计值，用这4个参数的估计值可以将观测目标的像素坐标计算得到标准坐标。最后可以通过天球切平面投影逆变换得到所要求解的观测目标的站心视位置，如(3)式：
+
+$$
+\begin{array} { l } { \displaystyle \tan \left( \alpha - A \right) = \frac { \xi } { \cos D - \eta \mathrm { s i n } D } } \\ { \displaystyle \tan \delta = \frac { \mathrm { s i n } D + \eta \mathrm { c o s } D } { \mathrm { c o s } D - \eta \mathrm { s i n } D } \mathrm { c o s } \left( \alpha - A \right) } \end{array} ,
+$$
+
+其中， $( \alpha , \delta )$ 为观测目标的赤道坐标； $( \xi , \eta )$ 为观测目标在天球切平面的标准坐标； $( A , D )$ 为天球切平面切点的赤道坐标。
+
+# 2 GaiaDR1星表
+
+Gaia太空望远镜主要用于天体测量，由欧洲空间局于2006年批准并开始建造，在2013年12月  
+19 日发射升空，经过几个星期的太空飞行后到达目的地一—太阳、地球和月亮系统的第二拉格朗日  
+点。Gaia太空望远镜在历时不到3年的观测后于2016年9月14日发表了它的第1个星表Gaia Data  
+Release 1（Gaia DR1），其中包括了超过10亿颗目标源的天体测量和测光数据，观测目标的极限星等  
+达到了G 波段的20.7等。Gaia DR1 星表匹配了依巴谷(Hipparcos）星表和第谷-2（Tycho-2)星表，获  
+得了大约200万颗目标源的自行和视差数据。Gaia DR1星表代表了现有可获得的恒星星表数据的最  
+高精度，应用它来做CCD 相对位置测量能进一步提高观测目标木卫六的位置测量精度。GaiaDR1星  
+表中目标源的详细分布情况见表1。表1GaiaDR1目标源分布
+
+# 3木卫六的观测结果
+
+文中的观测资料是2015年1、2月在云南天文台获得的，详细的观测情况见表2，所有的图像使用I滤光片。从表2可以看到，在丽江 $2 . 4 \mathrm { m }$ 望远镜获取了8天观测资料，在昆明 $1 \mathrm { m }$ 望远镜获取了2天观测资料。观测资料中的疏散星团用来求解几何扭曲，文[6]已经求解出相应的几何扭曲模型，详细的几何扭曲模型求解和剔除方法见文[7]。
+
+Table 1Distributions of sources of Gaia DR1   
+
+<html><body><table><tr><td>目标源类型</td><td>数量/颗</td><td>精度</td></tr><tr><td>总目标源</td><td>1 142 679 769</td><td>位置~0.3 mas,</td></tr><tr><td>第1类目标源</td><td>2 057 050</td><td>自行~1 mas/yr</td></tr><tr><td>依巴谷星</td><td>93 635</td><td></td></tr><tr><td>第谷-2星</td><td>1 963 415</td><td></td></tr><tr><td>第2类目标源</td><td>1 140 622 719</td><td>位置~10 mas</td></tr><tr><td>变星</td><td>3194</td><td></td></tr><tr><td>造父变星</td><td>599</td><td></td></tr><tr><td>天琴座RR 型变星</td><td>2 595</td><td></td></tr></table></body></html>
+
+文中应用的参考星表是最新发表的GaiaDR1星表，这个星表的观测数据由Gaia太空望远镜获得，GaiaDR1星表在现有可获得的恒星星表数据精度的基础上取得了巨大的进步。因此采用GaiaDR1星表匹配所有图像中的参考星，包括用来求解几何扭曲的疏散星团图像，以及观测目标木卫六的图像。
+
+为了重点比较不同参考星表对木卫六位置测量精度的影响，除了采用GaiaDR1星表外，也采用了UCAC4星表。在天体测量归算过程中，木卫六的理论位置取自美国喷气推进实验室（JetPropulsionLaboratory，JPL），其中包含了卫星历表 $\mathrm { J U P 3 0 0 } ^ { [ 8 ] }$ 以及行星历表DE431[9]。图1给出了分别参考GaiaDR1星表和UCAC4星表得到的木卫六观测位置与理论位置的残差（Observed-Computed，O-C)随时间的分布情况，图1（a）是赤经方向的观测位置与理论位置的残差分布，图1(b)是赤纬方向的观测位置与理论位置的残差
+
+# 表2CCD 观测情况分布
+
+Table2Distributions of CCD observations   
+
+<html><body><table><tr><td rowspan="2">观测日期</td><td rowspan="2">定标场 疏散星团</td><td rowspan="2">图像数</td><td rowspan="2">木卫六 图像数</td><td rowspan="2">望远镜 口径/m</td></tr><tr><td></td></tr><tr><td>2015-01-31</td><td>NGC1664</td><td>44</td><td>21</td><td>2.4</td></tr><tr><td>2015-02-07</td><td>NGC2324</td><td>44</td><td>25</td><td>2.4</td></tr><tr><td>2015-02-08</td><td>NGC2324</td><td>44</td><td>14</td><td>2.4</td></tr><tr><td>2015-02-09</td><td>NGC2324</td><td>44</td><td>18</td><td>2.4</td></tr><tr><td>2015-02-10</td><td>NGC1664</td><td>44</td><td>18</td><td>2.4</td></tr><tr><td>2015-02-11</td><td></td><td></td><td>19</td><td>2.4</td></tr><tr><td>2015-02-12</td><td></td><td></td><td>17</td><td>2.4</td></tr><tr><td>2015-02-13</td><td></td><td></td><td>19</td><td>2.4</td></tr><tr><td>2015-02-12</td><td>M35</td><td>60</td><td>14</td><td>2.4</td></tr><tr><td>2015-02-14</td><td></td><td></td><td>20</td><td>1</td></tr><tr><td>全部</td><td></td><td>280</td><td>185</td><td>1</td></tr></table></body></html>
+
+分布。可以看到，采用UCAC4星表的观测位置与理论位置的残差在单个晚上更弥散，同时也有较明显的系统误差。在采用了GaiaDR1星表后，单个晚上的观测位置与理论位置的残差弥散减小，系统误差也减小很多。这主要是因为在UCAC4星表中可能存在区域系统误差，而在GaiaDR1星表中的区域系统误差很微小，同时GaiaDR1星表的恒星位置精度比UCAC4 星表高。
+
+![](images/9aaef588f7924388824c286f2709adecc5604acfc112ed12d2697f7e168f2e83.jpg)  
+图1不同星表下的观测位置与理论位置的残差随时间的分布Fig.1Distributions of O-C residuals with respect to observational epochs for different catalogs
+
+图2给出了分别采用GaiaDR1星表和UCAC4星表得到的木卫六观测位置与理论位置的残差的弥散分布， $x$ 坐标是赤经方向的观测位置与理论位置的残差， $y$ 坐标是赤纬方向的观测位置与理论位置的残差。可以看到采用GaiaDR1星表得到的观测位置与理论位置的残差平均值比UCAC4 星表的小，并且采用Gaia DR1 星表得到的观测位置与理论位置的残差的弥散度要比UCAC4 星表的改善很多。
+
+表3给出了分别采用Gaia DR1星表和UCAC4 星表得到的观测位置与理论位置的残差统计结果。
+
+采用UCAC4星表得到的木卫六位置测量精度在赤经和赤纬两个方向上分别为 $0 . 0 4 3 ^ { \prime \prime }$ 和 $0 . 0 3 4 ^ { \prime \prime }$ ，采用GaiaDR1星表得到的木卫六位置测量精度在赤经和赤纬两个方向上分别为 $0 . 0 2 3 ^ { \prime \prime }$ 和 $0 . 0 2 2 ^ { \prime \prime }$ 可以看出，采用GaiaDR1星表的位置测量精度比UCAC4星表提高了将近一倍。此外，采用GaiaDR1星表后的观测位置与理论位置的残差平均值减小了很多，但在赤经方向上还存在$0 . 0 5 6 ^ { \prime \prime }$ 的偏差。考虑到木星的行星历表精度已经很高，而到目前为止木卫六的观测数据并不多，所以导致这个偏差的原因可能是木卫六的卫星历表精度不高。
+
+为了将木卫六位置测量结果和国际上同类型观测资料进行比较，从法国小行星中心（MinorPlanetCenter，MPC)获取了木卫六的5个主要的观测数据结果，数据来源于文［10]。表4给出了与这些观测数据的统计结果的比较，表中木卫
+
+![](images/5035070003840da5067350344ee846f5615dd43f3ccc342740509e31a634f20e.jpg)  
+图2不同星表下的观测位置与理论位置的残差的弥散Fig.2Dispersion of O-C residuals for different catalogs
+
+六的位置都是站心天体测量位置。可以看出，本文木卫六位置测量精度相较于国际上同类型木卫六的观测资料有了明显提升。
+
+Table 3Statistics of O-C residuals for different catalogs   
+
+<html><body><table><tr><td>N</td><td>星表</td><td>平均O-C赤经</td><td>标准差</td><td>平均O-C赤经</td><td>标准差</td></tr><tr><td>185</td><td>UCAC4</td><td>0.104"</td><td>0. 043"</td><td>-0.052"</td><td>0.034"</td></tr><tr><td></td><td>Gaia DR1</td><td>0. 056"</td><td>0. 023"</td><td>0.015"</td><td>0.022"</td></tr></table></body></html>
+
+表3不同星表下观测位置与理论位置残差的统计结果  
+表4与国际同类型观测资料比较  
+Table 4Comparisons with other observations from the MPC   
+
+<html><body><table><tr><td>IAU code</td><td>图像数</td><td>平均0-C赤经</td><td>标准差</td><td>平均O-C赤纬</td><td>标准差</td><td>观测时间/年</td></tr><tr><td>809</td><td>23</td><td>-0. 051</td><td>0.092</td><td>0. 014</td><td>0. 045</td><td>2007-2009</td></tr><tr><td>511</td><td>357</td><td>-0.021</td><td>0.049</td><td>-0.008</td><td>0.061</td><td>1997-2008</td></tr><tr><td>874</td><td>56</td><td>-0. 039</td><td>0. 112</td><td>-0. 026</td><td>0.070</td><td>1992-2014</td></tr><tr><td>874</td><td>238</td><td>-0. 077</td><td>0.175</td><td>-0. 009</td><td>0. 034</td><td>1992-2014</td></tr><tr><td>874</td><td>560</td><td>0.001</td><td>0.069</td><td>-0.018</td><td>0.053</td><td>1992-2014</td></tr><tr><td>本文</td><td>185</td><td>0. 056</td><td>0.023</td><td>0.015</td><td>0.022</td><td>2015</td></tr></table></body></html>
+
+# 4结论
+
+本文对总共185个木卫六的CCD观测资料进行了处理和归算，重点分析了不同参考星表对木卫六位置测量精度的影响。分别对采用GaiaDR1星表和UCAC4 星表的结果进行了比较和分析，结果显示，采用GaiaDR1星表的木卫六观测位置与理论位置残差的系统误差减小了很多，木卫六的位置测量精度在赤经和赤纬两个方向都约为 $0 . 0 2 ^ { \prime \prime }$ ，较采用UCAC4星表的结果有将近一倍的提升。与国际上同类型的木卫六观测资料相比较，本文的木卫六位置测量精度有明显的提升。致谢：感谢丽江 $2 . 4 \mathrm { ~ m ~ }$ 望远镜全体员工的支持，同时感谢昆明 $1 \mathrm { m }$ 望远镜全体员工的支持。
+
+# 参考文献：
+
+[1] Collaboration G，Prusti T，Bruijne de JH J，et al. The gaia mission ［J]．Astronomy & Astrophysics，2016，595(11) :A1.   
+[2] Collaboration G,Brown A G A，Vallenari A,et al.Gaia data release 1: summary of the astrometric, photometric，and survey properties [J]. Astronomy & Astrophysics，2016,595(11）：A2.   
+[3] Lindegren L，Lammers U，Bastian U,et al. Gaia data release 1: Astrometry-one bilion positions, two million proper motions and parallxes [J]. Astronomy & Astrophysics，2016,595(11） : A4.   
+[4] Zacharias N,Finch C,Girard T,et al. The Fourth US Naval Observatory CCD astrograph catalog [J].The Astronomical Journal，2012，145(2）: 531-544.   
+[5] Wallace P T. The IAU SOFA initiative ［C/OL].（1996）[2016-11-19]. htp://adsabs. harvard.edu/abs/1996ASPC..101..207W.   
+[6] Peng H W，Wang N，Peng Q Y.Preliminary results of CCD observations targeting Himalia acquered at Yunnan Observatories in 2O15 [J].Research in Astronomy and Astrophysics, 2016,16(12) : 59-66.   
+[7] Peng Q Y，Vienne A， Zhang Q Y，et al. A convenient solution to geometric distortion and its application to phoebe's observations [J]. The Astronomical Journal,2012，144(6）:170-179.   
+[8] Jacobson R A. The orbits of the regular jovian satelites，their masses，and the gravity field of Jupiter ［C]// American Astronomical Society，DDA meeting #44，2013，402：4.   
+[9] Folkner W M，Williams JG,Boggs DH,et al.The planetary and lunar ephemerides DE430 and DE431 ［J].Interplanetary Network Progress Report，2014，196：1-81.   
+[10] Gomes-Junior A R，Assafin M，Vieira-Martins R，et al.Astrometric positions for18 irregular satellites of giant planets from 23 years of observations [J]. Astronomy & Astrophysics，2015, 580(8) : 76-84.
+
+# Experimental Astrometry of Himalia using Gaia DR1
+
+Peng Huanwen $^ { 1 , 2 , 3 }$ ， Peng Qingyu²， Wang Na² (1.Yunnan Observatories，Chinese Academy of Sciences，Kunming 650011, China,Email: hwpeng@ynao.ac.cn; 2.Sino-French Joint Laboratory forAstrometry,Dynamicsand Space Science,Jinan University，Guangzhou 510632，China; 3.University of Chinese Academy of Sciences，Beijing 1Ooo49,China)
+
+Abstract：Himalia is the largest member of Jovian irregular satellites.Inorder to obtain its high-precision observed positions，alltheastrometric effects in data reductionshould be taken into account，especiall for he star catalogue used. In this paper,the newly published star catalogue Gaia Data Release 1（Gaia DR1）was used to math reference stars in al CCD frames. In order to make comparisons，the catalogue UCAC4 was also used in data reduction.A total of 185 CCD observations of Himalia were processd.Our results showed thatthe positional precision of Himalia is estimated at about $0 . 0 2 ^ { \prime \prime }$ in both right ascension and declination，after catalogue Gaia DR1 was used. This precision is significantly improved than the results by using catalogue UCAC4.
+
+Key words:Astrometry；Himalia；Gaia DR1；Catalogue

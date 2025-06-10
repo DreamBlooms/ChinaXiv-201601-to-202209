@@ -1,0 +1,98 @@
+# Original Article
+
+# A history of tranditional Chinese medicine and its current role in urolithiasis
+
+CHEN Shijun',GUDi’,L.J.TAY²,Robert GRAY², JING Tao², CHEN Dingnan', ZHENG Shaobin',Peter THOMPSON²
+
+DepartmentofUoloyfangHospitaloutheedicalUiversityGuangzhouo15，ina;DepartmentofUologying ZolegeHspitalUerotedialUesity
+
+Abstract:ObjectiveTo tracethehistoryofTCM,itsconceptandtheevaluate itsroleinthemanagementofrenal stones. Methods References were retrieved folowing a thorough bibliographic search using OVID Medline，EMBASE， Cochrane Database.Keywordsused included‘traditionalchinese edicine',urolithiasis','calculi''herbal medicine'，'kampo''kidney' Relevantreviewarticles,casereports,bookswereconsideredalong withresources fromtheWelcomeTrustColection,Royal Society of Medicine,London.Results TCMhasbeen inexistencefor over 2500 years.Itbroadlyconsist of acupuncture,herbal medicine,tuina(masage)andqi gong.Theearliest documentationof Chinese herbal medicaments is in the‘Shen Nung Benchau Jing',believed tobecompiled during theHan Dynasty.Historicaly,ithadanextensiveroleintreatmentofhronic diseases,and hasbeen widely used in China and Japan (known as Kampo)for10 decades,until the introduction of Western medicine inthelate18s.TCMis popular within urology,including herbal'ginsengfor thetreatmentof erectiledysfunction, acupunctureand herbal therapy foroveractive bladderandrenal stones.InTCM,dysfunctionof Qi in the bladdercauses damp-heat to diffuse downwardand accumulate inthe urinary system,over timecausing calculus formation.Urolithiasis causing obstruction isbelieved toblock theflowof Qi andthereforeresult inpain.Haematuria isatributed tothecalculus injuries tothemeridian.Curently,thereislimitedbutgrowing evidencebasedliteratureontheroleTCMintepreventionand treatmentofstones.The Chinese State Medicine Administration Bureauissued guidelinesin1994 formanagementofurolithasis. It categorized itinto foursyndromes,each with diferent modesof treatment (Dampheat retentionsyndrome,qi-stagnation blood stasis syndrome, kidney yingdeficiency syndrome and kidney yang deficiencysyndrome).Recent evidence showed that medicinal herbsare knowntoefectivelyincrease therateofcalculus pasage,decreased thecomplications ofurolithasis,which indirectlyreduces hospitalisationandcost.ConclusionFromitsprimitiveroots inChina,TCMnowhasaglobalinfluence,and we need to recognise the complementary role it plays in urological practice.
+
+Key words: urolithiasis; tranditional Chinese medicine; treatment
+
+In China, traditional Chinese medicine (TCM) has been used more than thousands of years dealing with human treatment and prevention of diseases. This essay is going to briefly introduce the treatment of urolithiasis in TCM and its mechanism which has been proved undermodernscientific research.
+
+TCMis a unique, integral system which was generated through the experience of the Chinese people in their long struggle against diseases.Its theoretical system wasgreatly influenced by ancient Chinese materialism and dialectics.Briefly speaking,TCM takes the four diagnostic methods: inspection,auscultation and olfaction inquiry,pulse-taking and palpation as its principletechniques, usingthedifferentiationof syndromes which based on the theory of‘Zang-Fu', ‘Six-Meridian’ and‘Wei, Qi, Ying and Xue’ as its guideline and basic theories.Its therapeutic principles are‘treating aiming at its pathogensis',，‘strengthening vital Qi to eliminate pathogenic factor","coordinating yin and yang” and“treatment in accordance with seasonal conditions,local conditions and patients individuality".
+
+# MATERIALSANDMETHODS
+
+References were retrieved following a thorough bibliographic search using OVID Medline,EMBASE, CochraneDatabase. Keywordsusedincluded ‘traditional chinese medicine',‘urolithiasis’,'calculi', ‘herbal medicine',‘kampo’,‘kidney'. Relevant review articles,case reports,books were considered along with resources from the Wellcome Trust Collection,Royal Society of Medicine,London.
+
+# RESULTS
+
+Urolithiasisiscalled“stoneurinate”in TCM references.Symptoms of this disease include stone in urine,painful urination,and lower abdominal pain with radiation to the umbilical region.TCM believes that its pathogenesis is the dysfunction of Qi in bladder,making the damp-heat diffuse downward and accumulate in urinary system,and then affect the urine and gradually form the calculus in kidney,ureter and bladder.When the urinary tract is blocked,the Qi-flowing is then obstructed and generate pain.When the calculus injury the meridian,the blood come out from the impaired meridian and cause hematuria.
+
+In many Chinese societies,medicinal herbs are widely used intheprevention and treatmentof urolithiasis.In 28 Jun 1994,“State Chinese Medicine Administration Bureau’ in China has issuedthe guideline of“stone urinate”and classified it into four different sub-types as follows:
+
+# Damp-heat Retention Syndrome
+
+Clinical features:lumbago or lower abdominal pain,or interruption of urinary flow,urinary frequency, urgency,painful urination,cloudy urine or hematuria; can associated with aversion to cold, fever,thirsty,red tongue,yellow and greasy of tongue-coating,wiry and hasty pulse.
+
+Management: clearing heat and draining damp, relieving strangury and removing calculus.
+
+Representative prescription and formula: ” Sanjing remove calculus decoction"(herbal composition can be adjusted according to syndrome differentiation): Desmodium $6 0 ~ \mathrm { g }$ ,Lygodium $6 0 \ { \mathrm { g } } .$ ，Ventriculi galli mucosa $1 2 { \mathrm { ~ g ~ } }$ Plantago seed $1 2 \ { \mathrm { ~ g } } .$ ，Pyrrosia lingua $1 2 \ \mathrm { \textrm { g } }$ ，Chingma abutilon seed ${ \mathfrak { g } } _ { \mathbf { g } } .$ Talcum(bag) $1 5 \mathrm { \ : g \ : }$
+
+# Qi-stagnation Blood Stasis Syndrome
+
+Clinical features: Disease progress rapidly, lumbar and abdominal colic pain with radiation to the perineal region,urinary frequency,urgency,yellow or red urine, deep-red tongue or ecchymosis on the tongue,wiry or choppy pulse .
+
+Management:regulating the flowof Qiand activating blood,relieving strangury and removing calculus.
+
+Representativeprescriptionand.formula: ” Jinglingzi powder mix with Shiwei powder” : Chinaberry fruit $3 0 \ { \mathrm { g } } .$ ，Corydalis tuber $3 0 \ { \mathrm { g } } ,$ Pyrrosia lingua $6 0 \textrm { g }$ Zhai weat $3 0 \ { \mathrm { g } } .$ ，Plantain seed $9 0 \ \mathrm { g }$ ，Chingma abutilon seed $6 0 \ { \mathrm { g } }$ Talcum $1 5 0 \ \mathrm { g }$
+
+# Kidney YinDeficiencySyndrome
+
+Clinical features: lumbar and abdominal swelling pain or dull pain,dribbling and discomfortable urinate, yellow or red urine,associated with dizziness and tinnitus,insomnia and dreamful sleep,or dysphoria and chest plams-soles,dry eye,red tongue, thread and hasty pulse.
+
+Management: nourishing yin and clearing heat, relieving strangury and removing calculus.
+
+Representative prescription and formula: “Zhibodihuang pillmix with Erzhi pill" : Fructus ligustri lucidi $3 0 \mathrm { \ g }$ ，herba celiptae $3 0 \mathrm { \ g }$ ，Rehmannia glutinosa libosach $^ { 1 5 } \ \mathrm { \underline { { g } } } ,$ Chinese yam $1 5 \ \mathrm { \textmu } _ { \mathrm { g } } .$ ，Asiatic cornelian cherry fruit ${ 1 5 \ \mathrm { ‰ } }$ ，Rhizoma anemarrhenae $\mathrm { 1 5 ~ g } .$ Poria cocos $1 5 \ \mathrm { \underline { { g } } } .$ ，Cassia twigl5 g，The root of bidentate achyranrthes ${ 1 5 \ \mathrm { g } } .$ ，Plantain seed $1 5 \mathrm { \ g }$ ，Tree peony bark $1 2 { \mathrm { g } }$ ,Licorice root $6 \mathrm { g }$
+
+# Kidney Yang Deficiency Syndrome
+
+Clinical features: Urinary calculus with a long history,cannot be removed, lumbar swelling pain from time to time,exacerbation when overworked,uropenia, associated with lassitude and fatigue,or slight puffy swelling face,pale tongue,thin tongue-coating,thread and weak pulse.
+
+Management: warming and recuperating kidney yang,relieving strangury and remove calculus
+
+Representative prescription and formula:“Shenqi pill":Desmodium $3 0 \ \mathrm { \ g } .$ ，Lygodium $3 0 \mathrm { ~ g , ~ V ~ }$ entriculi galli mucosa $3 0 \ \mathrm { \ g } .$ ，Astragalus membranaceus $3 0 \ \mathrm { \normalfont \ { g } }$ Cuscuta chinensis $2 0 \ { \mathrm { ~ g } } .$ ，Pyrrosia lingua $2 0 \mathrm { \ g }$ ，fructus aurantii $1 5 \ \mathrm { \textrm { g } }$ ，Eucommia ulmoides $^ { 1 5 } \mathrm { \textrm { ~ g } } ,$ Salvia miltiorrhiza $1 5 \mathrm { \textrm { g } }$ ，Pangolin $1 5 \ { \mathrm { g } } .$ ，Cistanche herba $1 5 \mathrm { \textrm { g } }$ Bighead atractylodes rhizome $1 5 \mathrm { \ g }$ ，Fructus psoraleae 10 g, Licorice root $6 \mathrm { g }$
+
+Inthe recentyears， manymodern scientitic researches,both in vivo or in vitro,have been applied to study the mechanism of how TCM’s herbs work.For example,as a widely used herb for anti-urolithiasis, Desmodium can up-regulates urinary citrate excretion, promotes the formation of soluble calcium citrate which can consume calcium ions and therefore result in the reduction of urinary calcium.Also,its diuretic action can attenuate the concentration of Calcium and Oxalate andinhibitscrystalretention.Furthermore,the flavonoid in the extract of Desmodium can protect urinary epithelium cells against damage effect of ROS and the increased expression of Osteopontin[1].We have abriefconclusionbelowaboutsomeofthe pharmacological actions of the medicinal herbs: (1) Desmodium styracifolium [2]， rhubarb [3] could increase ureteral peristalsis；(2) Desmodium styracifolium [4], rhubarb 5],the root of bidentate achyranthes[o],bighead atractylodesrhizome[7],Ericamultiflora flowers[8] Cynodon dactylonrhizomes]，Poriacocos[o]have pharmacologic action of diuresis; (3) Plantain[], Alisma rhizome[12]，esmodiumstyracifolium[13-4]，Orthoipo stamineusand Cystone tis]could decrease calcium oxalatecrystallization;(4) Houttuyniacordata [16], Sichuanlovagehzome7],saviaemiltiohizae5,ix PaeoniaeRubra6esmodmstyracifolum17pose pharmacologic action of antisepsis and anti-inflammation.
+
+# CONCLUSION
+
+In the Chinese urology clinic,TCM's herbs are thought to be effectively increase calculi expulsion rate and decrease expulsion duration, complications,medical costs,and hospitalization rate.It currently plays as a synergistic role of the intracavitary minimally invasive surgery and ESWL in the treatment of urolithias. Since most of the active constituents of the medicinal herbs remain unclear, further research is needed to identify their biological activity and interaction.
+
+# REFERENCES
+
+[1]Mi J, Duan J, Zhang J,et al. Evaluation of antiurolithic effect and the
+
+possible mechanisms of Desmodium styracifolium and Pyrrosiae petiolosa in rats[J]. Urol Res,2012,40(2): 151-61.   
+[2] Addy ME,Burka JF.Effect of desmodium adscendens fraction 3on contractions of respiratory smooth muscle|J].J Ethnopharmacol, 1990,29(3): 325-35.   
+[3] Cui XN,Li YB,Li Y.Effects of herbs capable of activating blood circulation or inducing diuresis on the expressions of tumor necrosis factor-alpha,nuclear factor-kappaB,and aquaporin-4 in rats with intracerebral hemorrhage [J].ChineseJournalofIntegrated Traditional and Western Medicine,2012,32(2): 203-8.   
+[4]Feng Y,Qiu Y,Zhou X,et al.Optimizing prescription of Chinese herbal medicine for unstable angina based on partially observable markov decision process[J].Evid Based Complement Alternat Med, 2013(12): 532-4.   
+[5]Shao Z,Li J, Zhao Z,et al. Effects of tetramethylpyrazine on nitric oxide/cGMP signaling after cerebral vasospasm in rabbits[J].Brain Res,2010,1361(32): 67-75.   
+[6] Aggarwal A,Singla SK,Gandhi M,et al.Preventive and curative effects of Achyranthes aspera Linn.extract in experimentally induced nephrolithiasis[J]. Indian JExp Biol, 2012,50(3): 201-8.   
+[7]Satoh K,Yasuda I, Nagai F,et al. The effects of crude drugs using diuretic on horse kidney $( \mathrm { N a } ^ { + } + \mathrm { K } ^ { + }$ )-adenosine triphosphatase[J]. Yakugaku Zasshi,1991,111(2): 138-45.   
+[8]Sadki C,Hacht B,Souliman A,et al.Acute diuretic activity of aqueous Erica multiflora flowers and Cynodon dactylon rhizomes extracts in rats[J].JEthnopharmacol,2010,128(2): 352-6.   
+[9] Zhao YY,Feng YL,Du X,et al.Diuretic activityof the ethanol and aqueous extracts of the surface layer of Poria cocos in rat[J].J Ethnopharmacol, 2012,144(3): 775-8.   
+[10]Devi VK,Baskar R,Varalakshmi P.Biochemical effects in normal and stone forming rats treated with the ripe kernel juice of plantain (musa paradisiaca)[J].Anc Sci Life,1993,12(3/4): 451-61.   
+[11] Yasui T,Fujita K,Sato M,et al. The effect of takusha,a kampo medicine,on renal stone formation and osteopontin expression in a rat urolithiasis model[J].Urol Res,1999,27(3):194-9.   
+[12]Hirayama H,Wang Z,Nishi K,et al.Effect of desmodium styracifolium-triterpenoid on Calcium oxalate renal stones[J].Br J Urol,1993, 71(2): 143-7.   
+[13]Rodgers AL,Webber D,Ramsout R,et al.Herbal preparations affect the kinetic factors of Calcium oxalate crystallization in synthetic urine: implications for kidney stone therapy[J].Urolithiasis,2014,42 (3): 221-5.   
+[14]Kumar M,Prasad SK,Hemalatha S.A current update on the phytopharmacological aspects of Houttuynia cordata Thunb [J]. Pharmacogn Rev,2014,8(15): 22-35.   
+[15] Chen J,Deng J,Zhang Y,et al.Lipid-lowering effects of Danhong injection on hyperlipidemia rats[J].JEthnopharmacol,2O14,154(2): 437-42.   
+[16]Wang L,Yang CL,Or TC,et al.Differential effects of Radix Paeoniae Rubra (Chishao) on cytokine and chemokine expression inducible by mycobacteria[J]. Chin Med,2011,6(1): 14-7.   
+[17] Zhu ZZ,Ma KJ,Ran X,et al.Analgesic,anti-inflammatory and antipyretic activities of the petroleum ether fraction from the ethanol extract of Desmodium podocarpum[J].J Ethnopharmacol,2O11,133 (3): 1126-31.
+
+# 中国传统医学在泌尿系结石疾病中的应用
+
+陈始均',古 迪',L.J.TAY²,Robert GRAY²,荆 涛³,陈定南',郑少斌',Peter THOMPSON²1南方医科大学南方医院泌尿外科,广东广州 510515;英国伦敦国王学院医院泌尿外科，英国 伦敦WC2R2LS；青岛大学附属医院泌尿外科，山东 青岛 266003
+
+摘要：目的 追溯中国传统医学的核心理念及其历史,评估其在治疗肾结石方面扮演的重要角色。方法 从以下几个数据库搜集相关所有文献资料:OVID Medline,EMBASE,Cochrane 数据库。关键词包括“中国传统医学”、“尿石症”、“结石”“中药”“汉方医学”“肾”。查找到的相关综述、病例报告和书籍均来源于英国伦敦皇家医学会的惠康基金会藏书资源。结果 中国传统医学已经存在了2500多年。它由针灸学、中药学、推拿学和气功学组成。现存最早的中药学专著是《神农本草经》,约成书于汉代。纵观中国历史,在治疗慢性病方面,本书扮演了极重要的角色，且在中国和日本(即"汉方医学")广泛应用了数十年，直到18世纪后期西方医学的引入。中国传统医学在泌尿外科学方面广受欢迎,包括用中药“人参"治疗勃起功能障碍，用针灸和中药联合治疗膀胱过度活动症和肾结石。在中国传统医学的观点中,膀胱气化失调引起了湿热向下扩散并累积到泌尿系统，日积月累引起了结石形成。尿石症阻滞了气的流动，引起了疼痛。而血尿源于结石对经络系统的损伤。目前，中国传统医学在预防和治疗肾结石方面的文献证据虽说有限，但日益增长。1994年,中国国家医药管理局就治疗尿石症发布了指南，指南将尿石症分型为4种(湿热蕴结型,气滞血瘀型,肾阴不足型和肾阳不足型),每种症状的治疗方式都不同。近年来的证据表明中医药能有效增加结石排出率,减少尿石症的并发症形成，这些能间接减少住院时间及花销。结论 中国传统医学的根源来自于中国传统文化，现在逐渐有了世界范围内的影响力，我们要认可其在泌尿外科学临床实践过程中起到的重要补充作用。
+
+关键词：尿石症；中国传统医学；治疗
+
+收稿日期：2016-04-25  
+基金项目：广东省自然科学基金(2014A030310479)  
+作者简介:陈始均,博士,E-mail: shijunchenathena@qq.com  
+通信作者:古 迪,E-mail: sveong@163.com

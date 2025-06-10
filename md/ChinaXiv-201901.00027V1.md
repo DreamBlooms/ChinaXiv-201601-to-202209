@@ -1,0 +1,212 @@
+# 面向企业私有云的数据安全保护方法研究
+
+陈庄，齐锋
+
+(重庆理工大学 计算机科学与工程学院，重庆 400054)
+
+摘要：针对现有企业私有云面临的数据安全存储和完整性校验问题，提出一种新的数据线性加扰混合加密保护方法。首先在数据加密之前进行数据细粒度和线性分割线划分；其次，分别对分割后的子数据块进行数据加扰处理；最后使用国产密码算法对加扰数据块进行混合加密和完整性校验。将所提出的算法与SM4和 SM2加密算法进行比较，并通过实验分别对算法的正确性、加密文件类型、加解密效率和安全性进行评估。实验结果表明，相对于另外两种加密算法，提出的算法在兼顾加解密效率的同时安全性得到大幅度提升。
+
+关键词：私有云；国产密码算法；数据线性加扰混合加密；数据完整性中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2018.08.0652
+
+Research on data security protection method for enterprise private cloud
+
+Chen Zhuang, Qi Feng (College of Computer Science & Engineering,Chongqing University ofTechnology,Chongqing 400054, China)
+
+Abstract:Theexisting enterprise private cloud is facing a problemabout data securitystorageand integrityverification, this paper proposedanewdata linearscrambling hybrid encryption protection method.Firstly,thedata arefine-grained and linearly divided before theyencrypted.Secondly,the divided sub-blocksarerespectivelysubjected to data scrambling processing.Finaly,the domestic cipher algorithmis used toperform mixed encryption and integrity check on thescrambled data blocks.The proposed algorithm iscompared withthe SM4 and SM2 encryption algorithms,and through experiments evaluate the correctness，encryption file type，encryption and decryption efficiency and security of the algorithm.The experimental results show thatcompared with the othertwo encryption algorithms,the proposed algorithmcan greatly improve the security while improving the encryption and decryption efficiency.
+
+Key words: private cloud; domestic cryptographic algorithm;data liner scrambling hybrid encryption; data integrity
+
+# 0 引言
+
+近年来云计算技术行业快速发展，逐渐替代传统IT 行业，被看做是第三次IT浪潮。云计算技术在物联网、移动计算、大数据等行业具有广阔的应用前景，它具有按需扩展、存储整合、经济高效等优点，受到广大企业用户的青睐。云计算[1在全球范围内目前尚未有统一的标准分类，根据目前业界达成的基本共识，按照服务类型可以分为基础设施即服务（IaaS）、平台即服务（PaaS）和软件即服务（SaaS），按照运营模式可以分为公有云、私有云和混合云。
+
+云计算技术在迅猛发展的同时数据安全问题也日益突出，安全事件不断发生。例如，2016年9月，雅虎在谈判中向Verizon推销他们时宣布，至少有5亿的用户名、密码、电话号码等信息被泄露；2017年6月，营销公司DeepRootAnalytics托管在AWSS3上的数据库泄露，近2亿美国人的投票数据被暴露；2017年11月，有媒体发布消息称趣店百万学生的数据疑是外泄。基于以上原因，目前越来越多的企业用户选择私有云架设方案来应对数据安全问题，其主要原因是企业用户可以拥有数据的控制权限，同时它可以部署在企业数据中心的防火墙内部。防火墙可以有效阻断物理层到应用层之间的攻击行为，但是无法应对在业务逻辑层或数据层的SQL注入、数据爬虫、业务权限滥用等非法入侵行为，不能从根本上防止数据泄露问题。
+
+为确保企业私有云环境下的数据安全，本文提出了一种新的不完全依赖密钥的数据安全保护方法即数据线性加扰混合加密算法DLSHE（data liner scrambling hybrid encryption）。
+
+# 1 相关工作
+
+私有云相对于公有云和混合云而言，具有更高的安全性，用户不会失去对数据的管控权限，但是同样面临着企业核心数据泄露问题，只是极大的缩小了信息泄露的范围。从目前的研究成果来看，学术界和商业界主要关注点在云数据的安全存储和安全审计两个方面。
+
+在加密存储技术方面，目前绝大多数云供商提供的加密存储服务都是基于美国开发的密码技术标准。现代密码技术按照密钥类型的不同通常可以分为两大类：对称加密算法和非对称加密算法。对称加密算法指的是加密密钥与解密密钥相同的算法，具有加解密效率高的优点，常见的对称加密算法有AES、DES、3DES等[2\~4]；非对称加密算法指的是加密密钥与解密密钥不同的算法，具有安全性高的优点，常见的非对称加密算法有RSA、ECC 等[5.6]。同时学术界在同态加密技术、基于属性的加密技术等方面也有大量的研究，但是由于各种原因导致其无法进行大规模的商业应用[7]。
+
+安全审计技术，主要面临着数据持有问题和数据完整性问题。公有云和混合云条件下，主要针对不可信或半可信的云存储系统，文献[8]提出对可证动态数据持有机制进行研究，它支持所有的动态操作，但是该方案的执行效率不高；在文献[9]中Wang等人提出了一种云存储完整性审计机制，但是计算代价巨大;在文献[10]中徐剑等人提出一种外包数据认证模型，通过外包数据服务器返回的证据和先前计算的正确性根据进行对比就能判断是否被修改，但是该方案不支持公开审计。私有云可以完全解决不可信或半可信云存储系统问题，但是仍然需要考虑数据的完整性校验问题。
+
+本文在算法的选择上采用经国家商用密码管理局认定的国产密码算法，国产密码算法已经在国内的银行、通信、医院等各大行业得到大规模应用，具备实际应用条件。在算法安全性上，目前国际上通用的杂凑密码算法MD5、SHA-1、HAVAL等已被我国密码学家王小云破解[11,12]。我国密码算法公开后，国内外众多行业专家对其进行了全面的安全测评，从目前公开的资料来看，我国密码算法的安全性整体优于美国的密码算法[13-15]。
+
+# 2 方案设计
+
+# 2.1算法设计
+
+数据加扰思想源自军事通信中的信号加扰处理，用于防正非授权者的窃听活动。在密码学中数据加扰可以有效隐藏明文数据的统计特性，提升其抗扩散能力。DLSHE 算法是基于国产密码算法 SM2、SM3 和 $\mathbf { S M 4 ^ { [ 1 6 \sim 1 8 ] } }$ 共同构成的一种数据线性加扰混合加密算法，本算法的重点在于加密细粒度、线性分割线、数据加扰控制、完整性验证和双密钥管理上。加密细粒度指对明文数据第一次进行最小化分块；线性分割线指对加密细粒度进行数据比例划分，处于分界线之前的数据使用SM4算法加密，处于分界线之后数据用SM2算法加密，最终在加密细粒度和线性分割线的共同作用下形成子明文数据块；数据加扰指对形成的子明文数据块分别进行按行读取，然后在每一行数据的末尾添加当前时间函数毫秒值的后三位，最终形成具有真随机性的加扰明文数据；数据的完整性验证主要包括报文摘要算法和数字签名算法，用于防止数据非法窜改和用户行为抵赖问题；双密钥管理指利用保护密钥加密工作密钥，工作密钥以密文的形式存储在云端，用户只需存储保护密钥。DLSHE 算法流程如图1所示。
+
+DLSHE 算法详细加密过程如下：
+
+a)读取需要加密的明文数据 $M$ ：
+
+b)将明文数据 $M$ 按照分割策略进行数据分割，数据分割完成后形成 $M _ { 1 } , M _ { 2 } , M _ { 3 } , M _ { 4 } , M _ { 5 } , \dots$ 等子明文数据。分割策略由加密细粒度和线性分割线共同决定，在实际应用中用户可以根据需求动态设置加密细粒度和线性分割线。
+
+c)系统分别读取子数据 $M _ { 1 } , M _ { 2 } , M _ { 3 } , M _ { 4 } , M _ { 5 } , \dots$ ，对每个子数据块进行数据加扰处理，最终形成子加扰数据$M _ { _ { 1 1 } } , M _ { _ { 2 2 } } , M _ { _ { 3 3 } } , M _ { _ { 4 4 } } , M _ { _ { 5 5 } } , \dots ,$ （204号
+
+d)系统对 $M _ { 1 1 } , M _ { 2 2 } , M _ { 3 3 } , M _ { 4 4 } , M _ { 5 5 } , \ldots$ 进行加密处理，处理方式为交替使用SM4和SM2算法对子加扰数据进行加密，最终形成子密文数据 $C _ { 1 } , C _ { 2 } , C _ { 3 } , C _ { 4 } , C _ { 5 } , \dots$ 。
+
+e)为防止数据非法窜改和用户行为抵赖问题，利用SM3算法对明文数据 $M$ 产生报文摘要，然后使用SM2算法的私钥进行数字签名，签名数据经过加扰后使用SM2算法的公钥进行加密，最终形成密文数据 $C _ { n + 1 }$ 。
+
+f)将密文数据 $C _ { 1 } , C _ { 2 } , C _ { 3 } , C _ { 4 } , C _ { 5 } , . . . , C _ { n + 1 }$ 进行合并形成最终密文 $c$ 。
+
+g)利用 SM2 的公钥加密 SM4的私钥（工作密钥）形成密钥密文存储在云端，用户本地只存储SM2的私钥（保护密钥）。
+
+DLSHE 算法详细解密过程如下：
+
+a)利用SM2的私钥解密密钥密文，得到SM4的私钥。
+
+b)将密文数据 $c$ 按照定义规则拆分成子密文数据$C _ { 1 } , C _ { 2 } , C _ { 3 } , C _ { 4 } , C _ { 5 } , \dots$ 和 $C _ { n + 1 }$ 。
+
+c)将子密文数据 $C _ { 1 } , C _ { 2 } , C _ { 3 } , C _ { 4 } , C _ { 5 } , \dots$ 按照解密策略，交替使用SM4和SM2算法进行解密，形成$M _ { _ { 1 1 } } , M _ { _ { 2 2 } } , M _ { _ { 3 3 } } , M _ { _ { 4 4 } } , M _ { _ { 5 5 } } , \dots$ 子加扰数据。
+
+d)分别对 $M _ { _ { 1 1 } } , M _ { _ { 2 2 } } , M _ { _ { 3 3 } } , M _ { _ { 4 4 } } , M _ { _ { 5 5 } } , \dots$ 进行数据去扰处理，得到 $M _ { 1 } , M _ { 2 } , M _ { 3 } , M _ { 4 } , M _ { 5 } , \dots$ 子明文数据。
+
+e)合并 $M _ { 1 } , M _ { 2 } , M _ { 3 } , M _ { 4 } , M _ { 5 } , \dots$ 所有子明文数据，得到原始数据 $M$ 。
+
+f)将密文数据 $C _ { n + 1 }$ 使用 SM2算法进行解密，产生加扰数字签名，然后进行数据去扰产生数字签名，对签名进行验证并产生原始报文摘要。
+
+g)对解密后的明文数据 $M$ 进行二次摘要产生新的报文摘要，对比分析两次报文摘要的值，如果相等即数据未窜改，如果不等即数据被窜改或签名有问题。
+
+明文数据M SM3 报文摘要 密钥密文 SM2私钥解密 SM4私钥密文数据C  
+1 明文分割 √  
+m · 数字签名 1 SM2解密C C C ··· Cn+1SM4解 SM2解密 SM4解密 SM2解密 SM4解密 7数据去扰√  
+M11 M22 M33 M44 M55 · 数据加扰 明 1  
+SM4加密 SM2加密 SM4加密 SM2加密 SM4加密 SM2加 M11M22M33 M44 M55 签名认证最 数据 数据 数据 数据 数据去扰 被篡改报文摘要  
+1 1 1 7 √ 居去扰 开 开 居去扰 不等 1  
+C ⑥卤 · Cn+1密文合并 7 7 1 1 1 对比分析M1 M2 M3 明文合并 M4 M5 相等7密文数据C 未篡改  
+SM4私钥 SM2公钥加密 密钥密文 明文数据M SM3 二次摘要加密 解密
+
+# 2.2算法安全性分析
+
+# 2.2.1密钥安全性分析
+
+现代密码学的基本设计准则为算法公开，安全性完全取决于对密钥的保密。DLSHE算法在密钥的管理上采用了双密钥管理机制，有效的增强了密钥的安全存储方式。基本原理为：DLSHE 算法的密钥由工作密钥和保护密钥两部分组成，工作密钥由SM4的私钥和SM2的公钥共同构成用于加解密数据，工作密钥只需要加密 SM4私钥部分，最终以密文的形式存储在云端；保护密钥由SM2的私钥构成存储于客户端本地，任何用户如果想解密密文数据，必须使用保密密钥解密工作密钥，意味着用户必须同时使用两把密钥才能解密数据。
+
+虽然双密钥管理机制确保了工作密钥的安全性，但是用户仍然需要安全存储保护密钥，为此DLSHE 算法增加了多因素安全依赖参数，形成不完全依赖密钥保护的安全机制，详细内容见2.2.3抗攻击性分析内容。
+
+# 2.2.2抗扩散性分析
+
+在密码学中扩散性指的是明文数据的每一位发生改变都会导致密文数据的诸多位发生改变，通过这种方式可以隐蔽明文数据的统计特性。本文选取同一明文数据和密钥用于实验测试，并选取三种算法进行对比分析，实验中一次只改变一位明文数据，并统计密文位数的变化情况，共进行6组实验测试，抗扩散性测试结果如图2所示。
+
+![](images/5b2508f763bd547d418d44d52b0f8d3d92b93d3f04c2e396f5cd714a5e288ee3.jpg)  
+图2抗扩散性测试
+
+由图2可知，在只改变一位明文数据的情况下，分别统计出三种算法密文变化位数的均值，其中SM4算法密文变化位数的均值约为68位，SM2算法密文变化位数的均值约为73位，DLSHE 算法密文变化位数的均值约为87位。由于DLSHE算法添加了加扰数据，相当于有多位的明文数据发生变化，因此在抗扩散性测试中密文变化的位数最多。通过实验分析对比，可得出DLSHE 算法的抗扩散能力最强，更加有效的隐蔽了明文数据的统计特性。
+
+# 2.2.3抗攻击性分析
+
+实际上DLSHE 算法的抗攻击能力并不完全依赖于密码算法和密钥，还取决于数据加扰方式、加密细粒度和线性分割线，详细内容如表1所示，其中Ai表示算法安全性；A2表示密钥安全性；A3表示数据加扰方式； ${ \bf A } _ { 4 }$ 表示加密细粒度；A5表示线性分割线；Y表示依赖，N表示不依赖，同时与SM4和SM2算法进行对比分析。假如攻击者获取部分明文数据和密文数据，但是明文数据在数据加扰后才进行加密生成密文，实际明文数据和密文数据的对应关系已经被破坏掉，同时数据加密细粒度和线性分割线采用用户自定义模式，攻击者很难对加密信息进行解密。甚至用户密钥在被盗的情况下，攻击者还必须同时知道加密过程中使用的算法、加密细粒度、线性分割线和数据加扰方式这些条件，才可能获取原始明文数据。通过以上分析可知，DLSHE 算法的安全性不再完全依赖单一的密钥保护和算法安全性，它还取决于数据加扰方式、加密细粒度和线性分割线等多因素安全参数，这种方式有效的提升了算法自身的抗攻击能力，能够为企业私有云环境下的数据提供安全保证。
+
+表1安全参数依赖性分析  
+Table1Securityparameter dependency analysis   
+
+<html><body><table><tr><td>算法名称</td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A5</td></tr><tr><td>SM4</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td></tr><tr><td>SM2</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td></tr><tr><td>DLSHE</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr></table></body></html>
+
+# 3 实验结果及分析
+
+实验平台：利用Hadoop搭建企业私有云数据存储环境，由6台计算机组成，基本配置为CPUi3-2120主频 $3 . 3 \ : \mathrm { G H z }$ 4GB内存，1TB硬盘，选择CentOS6.5版本作为每台服务器的操作系统；开发了基于LAMP的一个云存储加密系统，模拟企业私有云环境下的数据操作流程。
+
+# 3.1云存储加密系统
+
+云存储加密系统能够满足企业用户对云文件的基本操作要求，包括文件的上传、下载、修改、删除和共享功能。精细化的权限控制，公共区域文件用户仅拥有查看和下载权限，只有系统管理员输入相应密钥方可获取文件的全部操作权限。
+
+企业用户登录个人云空间，方可拥有自己文件的全部操作权限，此时可以使用DLSHE算法模块对核心重要数据进行加解密操作。本文着重介绍云存储加密系统的DLSHE 加解密模块，该模块具有密钥产生、报文摘要、数据签名、DLSHE加解密等功能，详细内容如图3所示。
+
+![](images/d4b048e721baebe4cdeb6dc663401483ea74dfd497918494d4b8cb0ba98a0c3e.jpg)  
+Fig. 2 Anti-diffusion test   
+图3 DLSHE 加解密模块  
+Fig.3DLSHE encryption and decryption module
+
+# 3.2DLSHE算法的实现
+
+a)DLSHE算法的正确性测试，本文选取两行明文数据作为实验测试数据，数据加密细粒度以此测试数据为最小单元，线性分割比例选取9：1进行，SM4加密算法是在CBC模式下，初始向量为EE0CAD6B0059D77EE3D4F0F16CA087E35，详细实验结果如表2所示。
+
+从表2实验结果可知，明文数据经过DLSHE算法加密处理后，形成相应的密文数据，通过对密文数据的拆分、去扰、解密等操作，获取相应的明文数据、报文摘要和数字签名。通过对比分析发现与原始的明文数据、报文摘要和数字签名完全相同，证明DLSHE 算法是满足数据加解密要求的，可以在企业私有云环境下应用。
+
+b)DLSHE 算法加密文件类型测试，实验中选取了txt、doc、png、zip等多种文件类型用于加解密测试（详细文件加密类型如表3所示），均可达到预期加解密效果。实际上DLSHE 算法采用的是基于文件IO流的数据加解密方式，所以可以支持任意格式的文件类型，从而进一步扩展了其应用范围。
+
+为展现文件加密效果，选取一个0.23MB大小的txt文件用于加密测试，系统启动DLSHE 加解密模块，具体操作界面如图3所示。具体操作流程如下：
+
+(a)用户点击密钥产生模块，系统将分别创建SM4私钥文件、SM2公钥文件和SM2 私钥文件；
+
+(b)用户点击报文摘要模块，选择明文数据，产生报文摘要文件；
+
+(c)用户点击签名模块，选择相应的报文摘要进行签名；
+
+(d)用户点击签名加扰模块，对签名进行数据加扰；
+
+(e)用户点击 SM2 加密模块，选择加扰签名进行加密，产生相应密文文件；
+
+(f)用户点击DLSHE 加密模块，系统读取 SM4 私钥和SM2公钥文件，开始对文件进行线性加扰混合加密并合并所有密文，加密完成后打开原始txt文件如图4所示。
+
+表2DLSHE 算法实验结果  
+表3文件加密类型测试  
+
+<html><body><table><tr><td></td><td>Table 2DLSHE algorithm experiment results</td></tr><tr><td colspan="2">明文数据</td></tr><tr><td colspan="2">SM4私钥</td></tr><tr><td colspan="2">ACC994D41FA7FC1D7D35B6EAFD69E80A</td></tr><tr><td colspan="2">04134EA21FCAE5D68E058FDC1A9291F6152D62C02DE</td></tr><tr><td colspan="2">SM2 公钥 4EECAFEAC61B976D38F7AB6B413F3E9272267789542</td></tr><tr><td colspan="2">835A1F1E59F6F07F81F063142CA1EB1F19F7E71CF7A1</td></tr><tr><td colspan="2">E631A148483E0BD91C839ED6558B84C9BF641EA69FE 报文摘要</td></tr><tr><td colspan="2">C059AF707855296B979B6 304402204E98DFEFC7451FE7B4995199F02E72B218E57</td></tr><tr><td colspan="2">6D53732C8D3C058B142281ED34A02205A4D8B3810FB</td></tr><tr><td colspan="2">数字签名 B23C617198F0209A28719890E7509222BE346930A569D</td></tr><tr><td colspan="2">62AE6E9</td></tr><tr><td colspan="2">BB37F31C19E671EDCA443C4A9947490C0A988DFD163</td></tr><tr><td colspan="2">A751C9B32A94A4FFE7ADE54F8E09A8B073122A879E</td></tr><tr><td colspan="2">EA33D4921AA04697EDAE8C0C1D2F864CFADAC00B1</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">A8B1A86771CA931FF00E24DE1C14B313FF4FD6F4124</td></tr><tr><td colspan="2">DC4B20CFADBADEDC9C9DD837610A620393FA01B3B</td></tr><tr><td colspan="2">9F00C20C709301DEFB2544F403D4A6A9757CD84AF23</td></tr><tr><td colspan="2">E7FA26165A3E6748D818FD92A5E032D1125022259329 密文数据</td></tr><tr><td colspan="2">358308191022100F33BD3CA205CFC3C198D00891A55F</td></tr><tr><td colspan="2">86D6F451C42E23B51E86CB0D713D54D682F022069690</td></tr><tr><td colspan="2">E4C86088E4A56773BEF5C224F6C64F6EC420C58B7AC</td></tr><tr><td colspan="2">98FC36F4B76830F70420E8CD3D5F92B38AEF6A5FD35</td></tr><tr><td colspan="2">F13E7074974300A0B3E21D169D6FE9BB44CB5D8F704</td></tr><tr><td colspan="2">2842412B945B2AB5B68FF0410269207832556A1CEBFA 4915790E9E165A4</td></tr><tr><td colspan="2">4EC8F9C7B8E231535EACEA64200C211F8D6F732E6F6 SM2私钥 F6CF4C89901B42EEED413</td></tr><tr><td colspan="2">304402204E98DFEFC7451FE7B4995199F02E72B218E57</td></tr><tr><td colspan="2">6D53732C8D3C058B142281ED34A02205A4D8B3810FB 签名验证</td></tr><tr><td colspan="2">B23C617198F0209A28719890E7509222BE346930A569D 62AE6E9</td></tr><tr><td colspan="2">解密的报文E631A148483E0BD91C839ED6558B84C9BF641EA69FE</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">摘要 C059AF707855296B979B6</td></tr><tr><td colspan="2">解密的明文 ABCD2354GTR689DFOKM6E6</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">数据 H7HG6809YGFD56HGG76980</td></tr></table></body></html>
+
+Table 3File encryption type test   
+
+<html><body><table><tr><td>文件类型</td><td>文件大小</td><td>文件类型</td><td>文件大小</td></tr><tr><td>txt</td><td>0.23MB</td><td>wma</td><td>74.6MB</td></tr><tr><td>doc</td><td>1.24 MB</td><td>mp4</td><td>36.2MB</td></tr><tr><td>png</td><td>1.13 MB</td><td>jpg</td><td>0.83MB</td></tr><tr><td>avi</td><td>68MB</td><td>rmvb</td><td>62.4MB</td></tr><tr><td>zip</td><td>126.4 MB</td><td>gif</td><td>1.62MB</td></tr></table></body></html>
+
+c)DLSHE 算法加解密效率测试，本文选取1.36GB大小的压缩包文件用于实验测试，文件内容格式包括txt、pdf、doc、avi等6种文件类型。加密细粒度的选择为2056比特，线性分割比例为9：1。默认情况下Hadoop 的数据分块大小为64MB，为充分测试加密算法在云平台下的加解密效率，分别选取了2MB、4MB、8MB、16MB、32MB、64MB大小的数据分块。实验中选取了DLSHE 算法、SM4算法和SM2算法用于对比测试，每种算法分别进行了6组的加密实验和6组的解密实验，并求其计算时间的平均值，加解密测试结果如图5和6所示。
+
+加密测试.txt-记事本 □文件（F)编辑(E)格式(O) 查看(V)帮助(H)铭頸ifj慕I\$標仕墩多爆，uj蕤；M侧 A%xvU宅鸽Q骏铑5（鏃5流72嗤A柑r茵秀+金7?D-銓+loJ?2-?璀0养g<qae旭K,t?馋LH8？s@，y？td燧iqn羧2D享YIG？幢yfH1.游€B微1摇N轉1）③陝蓬寮？s磵-衰漩+萬情zNL8際、x穫？.汽__v赌???\$招e灌_<z詔?？-a競？-惊飈5→藉藏\*?6招潮？3BX顓9耕{？磨mT-制？F排f&L?筏？親育冯/李A娆C+??Q\z排悄错J棉&D\*儒c稀展N浃?9震援j<mh總#？%Vq11愧?狼谢描4F陣银f？(Mkm#Φp湄穗#钝€隅储rik>a?2塘Hu→7Kf淬泼r灌r↑鸭k?f？{陸
+
+1200 △SM4 X SM2 1000 1090 -ODLSHE 墨士 800 912 823 781 70 70 600 472 400 388 366 337 315 324 200 358 269 245 女 29 1 226 0 2 4 8 16 32 64 Hadoop数据分块设置/MB
+
+1400 SM4 X SM2   
+1200 1294 美 DLSHE 1142   
+800 713 1009 941 3 3   
+6040 56 51 437 536 517 ☆ 489 △ 521 4   
+200 393 376 359 381 0 2 4 8 16 32 64 Hadoop数据分块设置/MB
+
+由图5和6分析对比可知，Hadoop的数据分块大小对数据的加解密效率存在着一定的影响，当数据分块在 $1 6 \mathbf { M B }$ 、32MB和64MB时加解密效率最高趋于稳定状态，但是当数据分块过小时，例如2MB的数据分块导致数据的加解密时间陡增，其主要原因包括：计算机需要频繁调用加解密算法处理数据，消耗计算资源;分布式计算条件下需要对分块的结果进行整合排序，当分块过小时势必要消耗更多的时间。所以企业在搭建私有云平台时，需要考虑合理的划分数据块大小，避免计算资源的浪费。
+
+对比分析三种加密算法的平均加解密时间消耗可知，SM2算法的平均加解密时间消耗最大，SM4算法的平均加解密时间消耗最小，DLSHE 算法的平均加解密时间消耗略上高于SM4算法，但是用户可以通过线性分割线的设置来进一步降低加解密时间。同时由于本文只使用了6台普通个人计算机搭建了一个小的云计算服务器集群，如果是在大规模的计算集群下，这种时间上的差距会更小。
+
+d)DLSHE 算法安全性测试，本算法的安全性由两部分构成，一部分是由SM4和SM2算法的安全性共同决定的，另一部分是由不公开的加密策略决定的。
+
+算法安全性对比：SM4算法在抗差分攻击方面目前最好的结果为23轮[19]；在抗线性攻击方面目前最好的结果为23轮[20]；在多维线性攻击方面目前最好的结果为23轮[20]；在矩形攻击方面目前最好的结果为18轮[21I；在积分攻击方面目前最好的结果为14轮[22]，整体来说目前没有任何一种攻击手段能够对其进行全轮攻击。SM2 算法的设计是基于广义ELGamal算法，但是该算法安全性不高，在选择明文攻击、选择密文攻击和自主选择密文攻击的多种攻击模式下，很容易遭受到IND-CAA2（不可区分性自主选择密文攻击），为此使用Hash函数来增强其安全性，使安全级别达到IND-CAA2标准[23]；在数字签名时最强的攻击行为是自主选择消息攻击，为此采用了EUF-CMA（自主选择消息攻击下存在不可伪造）标准来应对；在密钥替换攻击方面，采用了将签名者ID、公钥和消息源一起Hash的防御手段[24]，整体来说该算法的安全性优于SM4加密算法，但是其算法计算复杂度大消耗时间长。DLSHE算法具备上述两种算法的所有抗攻击能力，但是其安全性却优于上述两种算法中的任何一种，首先在密钥的管理上采取了双密钥管理机制，增强了密钥的安全存储方式，其次在抗扩散性实验中其抗扩散能力最强（详细内容见2.2.2抗扩散性分析），主要原因是采用了数据加扰的防御方式，最后由于DLSHE 算法的加密策略对外是不公开的，攻击者猜测不出加密策略中的加密粒度大小、线性分割线位置和数据加扰方式，从而进一步增强了算法的安全性。
+
+在云存储加密系统中，加密细粒度和线性分割线可根据用户需求改变，数据加扰方式采用的是当前时间函数，从安全的角度来说加密策略具有随机性，攻击者很难统计出加密策略的规律。同时由于加密策略的随机性，导致DLSHE算法的安全性并不是一层不变的，在实验测试中将算法的安全等级按照0到1之间划分，在数据加扰方式一样的条件下，分别进行了6组实验测试，其中SM4或SM2算法在6组实验测试中安全等级不会因加密策略的变化而变化，在第2组、第4组和第6组实验测试中，由于加密细粒度设置较大且线性分割线的比例设置简单，攻击者可能猜测出加密策略的概率就大，故DLSHE 算法的安全等级有所下降；在第1组、第3组和第5组实验测试中，加密细粒度设置较小且线性分割线的比例设置复杂，攻击者可能猜测出加密策略的概率就小，故DLSHE 算法的安全等级有所提升，在理想情况下是无限趋近于最高安全等级1的，详细内容如图7所示。
+
+![](images/8b3abdc327190d0f733c5c1c69aedad92653388b32d8ebadbc9c3734f4bd28b3.jpg)  
+图7DLSHE 安全性对比测试Fig.7DLSHE safety comparison testf)本文对DLSHE 算法的密钥安全性、抗扩散性和抗攻击
+
+性方面进行了全面分析，并通过实验测试了算法的正确性、加密支持的文件类型、加解密效率和安全性，综合考虑所有影响因素，最终确定了DLSHE 算法，该算法是一种在安全性和效率上同时兼顾的线性加扰混合加密算法，能够为私有云环境下的企业核心数据提供更好的安全保障，具有较大的应用价值。
+
+# 4 结束语
+
+企业私有云环境下的数据安全问题，主要包括数据的安全存储和完整性校验。针对以上问题，本文提出利用数据线性加扰混合加密思想，增强算法安全依赖参数，解决单一密钥保护问题；利用双密钥管理机制，增强密钥的安全存储方式；利用报文摘要算法和数字签名算法，解决数据防窜改和用户行为抵赖问题。最后通过实验对DLSHE 算法进行了全面测试，可达到企业私有云环境下的数据安全保护要求，且相对于传统加密算法在安全性方面有大幅度提升。
+
+# 参考文献：
+
+[1]冯登国，张敏，张妍，等．云计算安全研究[J].软件学报,2011,22(1): 71-83.(Feng Dengguo,Zhang Min,Zhuang Yan,et al. Study on cloud computing security [J].Journal of Software,2011,22(1):71-83.)   
+[2]闫乐乐，李辉．基于复合混沌序列的动态密钥AES加密算法[J].计 算机科学,2017,44(6):133-138,160.(Yan Lele,Li Hui.Dynamic key AES encryption algorithm based on compound chaotic sequence [J]. Computer Science,2017,44(6):133-138+160.）   
+[3]张祎江．基于 3DES-ECC 算法的网络信息加密研究[J].科技通报, 2014，30(4):229-231+235.(Zhang Yijiang.Study on network information based on 3DES-ECC encryption algorithm[J]. Science and Technology Bulletin,2014,30(4):229-231,235.)   
+[4] 周文婷，朱娇娇.DES 加密算法的一种改进方法[J].计算机安全, 2012,18(9): 47-50.(Zhou Wenting，Zhu Jiaojiao.An improvement method to implement the DES encryption algorithm [J]. Computer Security,2012,18 (9): 47-50.)   
+[5]肖振久，胡驰，蒋正涛，等.AES与RSA算法优化及其混合加密体质 [J].计算机应用研究,2014,31(4):1189-1194,1198.(Xiao Zhenjiu,Hu Chi,Jiang Zhengtao,et al. Optimization of AES and RSA algorithm and its mixed encryption system [J].Application Research of Computers, 2014,31(4): 1189-1194,1198.)   
+[6]王奎，李立新，余文涛，等．基于 ECC 算法的 TLS 协议设计与优化 [J]．计算机应用研究.2014,31(11):3486-3489.(Wang Kui,Li Lixin, Yu Wentao,et al.Design and optimization of TLS protocol based on ECC[J].Application Research of Computers.2014,31(11): 3486-3489.)   
+[7]冯朝圣，秦志光，袁丁.云数据安全存储技术[J].计算机学报，2015, 38(1):150-163．(Feng Chaosheng，Qin Zhiguang，Yuan Ding. Techniques of secure storage for cloud data [J].Chinese Journal of Computers,2015,38(1):150-163.)   
+[8]Erway C,Kupcu A,Papamanthou C,et al.Dynamic provable data possession [C]//Proc of ACM Conferenceon Computerand Communications Security.NewYork: ACM Press,2009:213-222.   
+[9]Wang Cong，Wang Qian，Ren Kui，et al. Towards secure and dependable storage services in cloud computing [J].IEEE Trans on Service Computing,2012,5(2):220-232.   
+[10]徐剑，周福才，陈旭，等．云计算中基于认证数据结构的数据外包认 证模型[J].通信学报，2011,32(7):153-160.(Xu Jian,Zhou Fucai, Chen Xu,et al.Data outsourcing authentication model based on authenticated data structures for cloud computing [J]. Journal of Communications,2011,32(7):153-160.)   
+[11]Bai D,Yu H,Wang G,et al.Improved boomerang attackson round-reduced SM3 and keyed permutation of BLAKE256 [J].IET Information Security,2015,9(3): 167-178.   
+[12] Wang X,Feng D,Lai X,et al.Collisions for hash functions MD4,MD5, HAVAL-128andRIPEMD[EB/OL].(2004-07-17）[2018-08-10]. https://eprint.iacr.org/2004/199.pdf.   
+[13] Zhao Shijun,Xi Li, Zhang Qianying,et al. Security analysis of SM2 key exchange protocol in TPM-2.O [J].Security & Communication Networks,2015,8(3):383-395.   
+[14] Christina B,Naya-Plasencia M, Suder V. Scrutinizing and improving impossible different attacks:Applications to CLEFIA，Camellia, LBlock and Simon [C]//Proc of International Conference on the Theory and Application of Cryptology and Information Security.Berlin: Springer,2014: 179-199.   
+[15] Todo Y. Integral cryptanalysis on full MISTY1 [C]//Advances in Cryptology.Berlin: Springer,2015:413-432.   
+[16]汪朝辉，张振峰．SM2椭圆曲线公钥密码算法综述[J]．信息安全研 究,2016,2(11): 972-982.(Wang Zhaohui, Zhang Zhenfeng.Overview on public key cryptographic algorithm SM2 based on elliptic curves [J]. Journal of Information Security Research,2016,2(11): 972-982.)   
+[17]王小云，于红波.SM3 密码杂凑算法[J].信息安全研究,2016,2(11): 983-994．(Wang Xiaoyun，Yu Hongbo．SM3 cryptographic hash algorithm [J].Journal of Information Security Research,2O16,2(11): 983-994.)   
+[18]吕述望，苏波展，王鹏，等.SM4 分组密码算法综述[J].信息安全 研究,2016,2(11): 995-1007.(Lyu Shuwang,Su Bozhan,Wang Peng,et al.Overview on SM4 algorithm [J]. Journal of Information Security Research,2016,2,(11):995-1007.)   
+[19] Su Bozhan,Wu Wenling,Feng Dengguo,et al. Security of the SM4 block cipher against differential cryptanalysis [J].Journal of Computer Science and Technology,2001,26(1):130-138.   
+[20]Liu Mingjie,Chen Jiazhe.Improved linear attacks on the chinese block cipher standard [J].Journal of Computer Science and Technology,2014, 29(6): 1123-1133.   
+[21]薛萍．对分组密码算法 SM4的矩形攻击[D].济南：山东大学,2012. (XuePing.Rectangle attack of reduced SMS4 block cipher [D]. Jinan: Shandong University,2012.)   
+[22]钟名富，胡予濮，陈杰．分组密码算法 SM4的14轮 Square 攻击[J]. 西安电子科技大学学报：自然科学版，2008,35(1):105-109.(Zhong Mingfu,Hu Yupu,Chen Jie. Square attack on the 14-round block cipher SMS4.Journal of XiDian University:Natural Science,2Oo8,35(1): 105-109.)   
+[23] Cramer R,Shoup V.A practical public key cryptosystem provably secure against adaptive chosen ciphertext attack[C]// Procof International Cryptology Conference on Advances in Cryptology.Berlin: Springer,1998:13-25.   
+[24] Zhang Zhenfeng,Yang Kang,Zhang Jiang,et al. Security of the SM2 signature scheme against generalized key substitution attacks [C]// Proc of International Conference on Research in Security Standardisation. Berlin: Springer,2015:140-153.

@@ -1,0 +1,230 @@
+# 体脂成分及血脂、血糖、尿酸与非肥胖人群MAFLD的相关性研究
+
+10.12114/j.issn.1007-9572.2022.0573 王颖捷’，程昊然²，周卫红'
+
+1.210008 江苏省南京市，南京大学医学院附属鼓楼医院健康管理中心2．30314 美国亚特兰大,埃默里大学罗林斯公共卫  
+生学院  
+王颖捷 程昊然为共同第一作者  
+\* 通信作者：周卫红，研究员；E-mail：njzhouwh@126.com
+
+【摘要】背景 非肥胖 MAFLD患者的体脂成分及代谢指标特点如何，以及各指标对该病的预测价值，不同的研究结论尚不一致。目的 分析非肥胖人群代谢相关脂肪性肝病（MAFLD）的体脂成分及血脂、血糖、尿酸变化特点，明确非肥胖 MAFLD 的独立危险因素，探讨以上指标与非肥胖 MAFLD相关性及对该病的预测价值。方法 收集2018年1月到 2019年1月在南京鼓楼医院健康管理中心体检人员，根据肝脏B超结果分为脂肪肝组和非脂肪肝组，分别在两组当中根据 $\mathrm { B M I } { < } 2 5 \mathrm { K g / m } ^ { 2 }$ 分为肥胖组和非肥胖组。最终纳入非肥胖 MAFLD129 例、非肥胖健康组129 例、肥胖 MAFLD129例、肥胖非MAFLD129例。比较非肥胖 MAFLD与其它3组间体脂成分及血脂、血糖、尿酸和肝功能指标，分析各指标与非肥胖 MAFLD 的相关性，明确非肥胖 MAFLD 的独立危险因素及以上指标对非肥胖 MAFLD 的预测价值。结果1、非肥胖 MAFLD 体质指数(body massindex,BMI)、体脂肪（Body fat,BF）、体脂肪百分比（Percentage of body fat,BFR）、内脏脂肪面积（Visceral fat area,VFA）、腰围（waist circumference,WC）、腰臀比（Waist hipratio，WHR）较非肥胖健康组升高而低于肥胖 MAFLD；总胆固醇(total cholesterol,TC)、低密度脂蛋白 胆固醇(lowdensitylipoprotein-cholesterol，LDL-C)、甘油三酯(triglyceride,TG)、谷丙转移酶(alanine aminotransferase，ALT)谷酰转肽酶(gamma-glutamyl transpeptidase,GGT)、尿酸（uric acid,UA）高于非肥胖健康组且与肥胖 MAFLD 无明显差异。空腹血糖（Fastingplasmaglucose，FPG）、糖化血红蛋白（glycosylatedhemoglobin， $\mathrm { H b A _ { 1 } C } \mathrm { \cdot }$ ）与非肥胖健康组无明显差异。2、Kendal1's相关分析显示TC、LDL、TG、ALT、GGT、UA、BFR、VFA和 WHR 与MAFLD呈正相关。HDL与MAFLD呈负相关。3、分组多因素Logistic 回归分析：TG、ALT、UA、BFR 和VFA为非肥胖 MAFLD独立危险因素。4、受试者工作特征（ROC）曲线分析结果TG、ALT、UA、BFR 和 VFA 对非肥胖 MAFLD 有较好的预测能力，其中以VFA对非肥胖 MAFLD 预测价值最大。最佳临界值男性为 $5 9 . 7 5 \mathrm { c m } ^ { 2 }$ ，女性为 $7 9 . 1 5 \mathrm { c m } ^ { 2 }$ 。结论 非肥胖 MAFLD与非肥胖健康人群相比，体脂肪及内脏脂肪增多，脂质代谢异常，尿酸水平升高，转氨酶上升。TG、ALT、UA、BFR 和VFA为非肥胖 MAFLD独立危险因素，ROC 曲线分析显示以上指标对非肥胖 MAFLD有预测能力，其中以VFA对非肥胖 MAFLD预测价值最大。HDL为非肥胖MAFLD 保护因素。
+
+【关键词】非肥胖；MAFLD；血脂；血糖；尿酸；内脏脂肪；危险因素；预测价值
+
+# Correlation study on body fat composition, blood lipid, blood glucose, uric acid and MAFLD in non-obese population
+
+WANG Ying-jiel CHENG Hao-ran² ZHOU Wei-hong1 \*
+
+1.HealthManagementCenter,NanjingDrumTowerHospital，theAfiliatedHospitalofNanjingUniversityMedicalSchoolNangjing   
+210008，China
+
+2.Rollins School ofPublic Health,EmoryUniversity,Atlanta 30314,USA
+
+WANGYing-jie and CHENGHao-ran are co first authors \* Corresponding author: ZHOU Wei-hong，Researcher；E-mail: njzhouwh@126.com [Abstract] background The characteristics of body fat composition and metabolic indexes in nonobese MAFLD patients, as well as the predictive Value of each index to the disease, different research conclusions are not consistent. Objective To analyze the body fat composition and the changes of blood lipid, blood glucose and uric acid in non-obese people with metabolic associated fatty liver disease (MAFLD), to clarify the independent risk factors of non-obese MAFLD,and to explore the correlation between the above indexes and non-obese MAFLD and its predictive value.Methods The physical examination personnel who underwent physical examination in the health management center of Nanjing Gulou Hospital from January 2018 to January 2019 were collected and were examined by human body composition analysis. According to the results of liver B-ultrasound, they were divided into fatty liver group and non-faty liver group.Among the two groups, they were divided into obese group and non-obese group according to $\mathrm { B M I } < 2 5 \mathrm { k g } / \mathrm { m } ^ { 2 } .$ .129 cases of non-obese MAFLD,129 cases of non-obese healthy group,129 cases of obese MAFLD and 129 cases of obese non MAFLD were finally included. To compare the body fat composition,blood lipid, blood glucose,uric acid and liver function indexes between non-obese MAFLD and the other three groups, analyze the correlation between each index and non-obese MAFLD,and clarify the independent risk factors of non-obese MAFLD and the predictive value of the above indexes for non-obese MAFLD. Results 1. The body mass index (BMI), body fat (BF), percentage of body fat (BFR)， visceral fat area (VFA), waist circumference (WC) and waist hip ratio (WHR) of non-obese MAFLD were higher than those of nonobese healthy group, but lower than those of obese MAFLD. Cholesterol (TC),low density lipoprotein cholesterol (LDL), triglyceride (TG), high density lipoprotein cholesterol (HDL), uric acid (UA), alanine aminotransferase (ALT) Glutamyl transpeptidase (GGT） was higher than that in non-obese healthy group, and there was no significant difference with obese MAFLD. There was no significant difference in fasting blood glucose (FPG) and glycosylated hemoglobin (HbAlc) between the nonobese healthy group and the non-obese healthy group.2. Kendal's correlation analysis showed that TC, LDL,TG, ALT, GGT, UA, BFR, VFA and WHR were positively correlated with MAFLD. HDL was negatively correlated with MAFLD. 3. Multivariate logistic regression analysis showed that TG, ALT, UA, BFR and VFA were independent risk factors for non-obese MAFLD.4. The results of receiver operating characteristic (ROC) curve analysis showed that TG, ALT, UA, BFR and VFA had good predictive ability for non-obese MAFLD,among which VFA had the greatest predictive value for non-obese MAFLD. The best critical value is $5 9 . 7 5 \mathrm { c m }$ for men and 79.15cm for women. Conclusion Compared with non-obese healthy people, non-obese MAFLD has increased body fat and visceral fat, abnormal lipid metabolism, elevated uric acid level and transaminase.TG,ALT,UA,BFR and VFA were independent risk factors for non-obese MAFLD. ROC curve analysis showed that the above indicators had the ability to predict non-obese MAFLD,among which VFA had the greatest predictive value for non-obese MAFLD. HDL is a protective factor for non-obese MAFLD.
+
+[Key Words] non-obese; MAFLD; Blood lipids; Blood glucose; Uric acid; Visceral fat; Risk factors; Predictive value
+
+近30 年来，与肥胖、2型糖尿病、代谢综合征相关的代谢相关性脂肪性肝病（MAFLD）的患病率增长迅速，目前全球的患病率达到 $2 5 . 2 4 \%$ [1]，亚洲地区患病率为 $2 9 . 6 2 \%$ [2]。在中国,随着人们饮食习惯快餐化，高热量、高脂肪、高果糖的膳食结构越来越普遍，以及久坐少动的生活方式，我国一般人群中 MAFLD 的患病率逐年上升达到 $2 9 . 8 1 \%$ ［2]。代谢相关脂肪性肝病(MAFLD)已经成为我国第一大慢性肝病，在慢性肝病的病因构成中达到 $5 0 \%$ 。MAFLD 不仅可以引起脂肪性肝炎及肝纤维化、肝癌，MAFLD 相关代谢紊乱导致的心脑血管疾病、慢性肾脏病、胰岛素抵抗相关的恶性肿瘤等肝外并发症更加危害人们健康。目前 MAFLD死亡原因第一位是心血管疾病，第二位是恶性肿瘤，第三位才是肝脏相关性疾病[3]。
+
+虽然 MAFLD 和肥胖密切相关，但是非肥胖人群的MAFLD也不少见，尤其在亚洲人群较为常见。非肥胖人群 MAFLD 患病率在7-21%均有报道[3]。一项 meta 分析提示中国人群非肥胖 MAFLD患病率为 $1 0 . 8 \%$ 。由于世界各地区人种的差异,非肥胖的诊断标准有所不同。本研究采用亚太地区标准，非肥胖型MAFLD是指 $\mathrm { B M I } { < } 2 5 \mathrm { k g } / \mathrm { m } ^ { 2 }$ 的MAFLD。
+
+非肥胖MAFLD患者的体脂成分及代谢指标特点如何，不同的研究结论尚不一致。本研究旨在通过分析非肥胖 MAFLD 体脂成分及代谢指标特点，探讨非肥胖 MAFLD 的危险因素及预测指标，为筛查及早期诊治非肥胖MAFLD提供依据。
+
+# 1资料与方法
+
+1.1研究对象收集 2018年1月到 2019年1月在鼓楼医院健康管理中心进行体检，并行人体成分分析的成年体检人员，根据肝脏B超检查结果分为脂肪肝组和非脂肪肝组，再分别在两组当中，按照 $\mathrm { B M I } { < } 2 5 \mathrm { K g / m } ^ { 2 }$ 分为肥胖组和非肥胖组。纳入标准：1）、符合2020年《亚太肝脏研究协会代谢相关脂肪性肝病诊疗指南》关于MAFLD 的新定义标准[4-6]。2）资料完整。3)年龄>18岁成年人。排除标准：1）资料不完整。2）年龄<18岁未成年人。3）B超提示脂肪肝，但是无糖尿病、超重/肥胖、代谢异常的体检者。4)服用降脂药物者。
+
+# 1.2研究方法
+
+1.2.1人体成分测定： 使用四海华辰H-key350人体成分分析仪(BIA 法)进行人体成分分析测定患者 BMI、BF、BFR、VFA、WC、WHR。  
+1.2.2超声检查：应用迈瑞Resona 7T彩色超声诊断仪行空腹肝胆B超检查。  
+1.2.3生化指标测定：清晨空腹采集静脉血，采用全自动生化分析仪（型号：BeckmanAU5400）检测 TC、TG、HDL、LDL、FPG、UA、ALT、GGT 指标。美国伯乐（Bio-Rad）D-100 糖化血红蛋白仪检测 $\mathrm { H b A _ { 1 } C }$ 。
+
+# 1.3诊断标准
+
+1.3.1MAFLD诊断标准
+
+依据 2020年《亚太肝脏研究协会代谢相关脂肪性肝病诊疗指南》，肝脏B超检查提示存在脂肪肝，且同时满足以下三项条件之一：超重/肥胖、2型糖尿病、存在两项以上代谢异常风险6。
+
+# 1.3.2超重及肥胖诊断标准
+
+根据亚太地区超重肥胖诊断标准：体重指数BMI正常： $1 8 . 5 { \leqslant } \mathrm { B M I } { < } 2 3 ~ \mathrm { k g / m } ^ { 2 }$ ；超重 $2 3 . 0 { \leqslant } \mathrm { B M I } { < } 2 5 ~ \mathrm { k g / m } ^ { 2 }$ ；肥胖： $\geqslant 2 5 . 0 \ \mathrm { k g / m } ^ { 2 }$ ：
+
+1.4数据分析：应用 SPSS 22.0统计分析软件对4组数据进行统计分析。计量资料符合正态分布的以 $( \mathrm { ~  ~ x ~ } ^ { - } \pm \mathrm { ~  ~ s ~ } )$ 表示，多组间比较采用单因素方差分析，两组间比较采用t检验；采用
+
+Kendal1's相关分析体脂肪及代谢指标与非肥胖MAFLD的相关性；采用分组多因素Logstic回归分析非肥胖MAFLD危险因素，计算比值比(OR）及其 $9 5 \%$ 可信区间（ $9 5 \% \mathrm { C I } )$ ）， $P \mathrm { < } 0 . 0 5$ 为差异有统计学意义。受试者工作特征（ROC）曲线分析以上指标对非肥胖 MAFLD 的预测能力。
+
+# 2结果
+
+2.1受检者一般情况资料：本次研究共纳入体检人员 516 例，其中男性 332 例，女性 184例。根据肝脏B超及BMI结果，分为非肥胖 MAFLD组、非肥胖健康组、肥胖 MAFLD组、肥胖非MAFLD 组共4组，每组均为129例，其中男性83例，女性46例。4组人员年龄、性别构成比无显著性差异 $( P { > } 0 . 0 5 )$ ，体脂成分及代谢指标在4组之间不全相等。见表1
+
+2.2进一步行非肥胖 MAFLD 组与非肥胖健康组、肥胖 MAFLD组、肥胖非 MAFLD 组体脂成分及代谢指标比较：  
+2.2.1非肥胖 MAFLD 与非肥胖健康组比较：BMI、BF、BFR、VFA、WC、WHR 升高，有显著性差异（ $. { \cal P } ( 0 . 0 5 )$ 。TC、LDL、TG、ALT、GGT及UA升高，HDL 降低，存在显著性差异（ $P ( 0 . 0 5 )$ 。FPG、HbAC在两组间无显著性差异（ $P { > } 0 . 0 5 )$ 。见表1  
+2.2.2非肥胖 MAFLD 与肥胖 MAFLD 比较：肥胖 MAFLD组BMI、BF、VFA、WC、WHR 均高于非肥胖 MAFLD（ $. P ( 0 . 0 5 )$ ，BFR 在两组无显著性差异‘ $( P > 0 . 0 5 )$ 。肥胖 MAFLD 组FPG、HbA1C 高于非肥胖MAFLD（ $\left[ { \cal P } ( 0 . 0 5 ) \right.$ ，但两组血脂4项、ALT、GGT及UA无显著性差异（ $\rho { > } 0 . 0 5 )$ 。见表12.2.3非肥胖 MAFLD 与肥胖非 MAFLD 比较:非肥胖 MAFLD 组 BMI、BF、WC 低于肥胖非 MAFLD（ $( P / 0 . 0 5 )$ ，BFR、VFA、WHR两组无显著性差异（ $( P > 0 . 0 5 )$ 。非肥胖 MAFLD的 TG、ALT、GGT、UA 高于肥胖 MAFLD（ $P ( 0 . 0 5 )$ ，FPG、HbA1C及TC、HDL、LDL 指标两组无差异（ $( P > 0 . 0 5 )$ 。见表1
+
+表1四组一般资料、体脂成分及代谢指标比较  
+Table l Comparison of general information,body fat composition and metabolic indexes of the four groups   
+
+<html><body><table><tr><td>项目</td><td>非肥胖MAFLD</td><td>非肥胖健康组</td><td>肥胖MAFLD</td><td>肥胖非MAFLD</td><td>F值/x²值</td><td>P值</td></tr><tr><td>n</td><td>129</td><td>129</td><td>129</td><td>129</td><td></td><td></td></tr><tr><td>sex(male/female)</td><td>(83/46)</td><td>(83/46)</td><td>(83/46)</td><td>(83/46)</td><td>0.000</td><td>1.000</td></tr><tr><td>age (year)</td><td>50.01±10.76</td><td>50.36±11.27</td><td>50.25±10.01</td><td>51.39±11.05</td><td>0.411</td><td>0.745</td></tr><tr><td>BMI(kg/m²)</td><td>23.65±0.97</td><td>19.08±1.14 *</td><td>25.68±0.5 *</td><td>25.26±0.20 *</td><td>1860.606</td><td>0.000</td></tr><tr><td>TC (mmol/L)</td><td>4.78±0.86</td><td>4.36±0.82 *</td><td>4.76±0.95</td><td>4.61±0.84</td><td>6.389</td><td>0.000</td></tr><tr><td>HDL_C(mmol/L)</td><td>1.20±0.29</td><td>1.51±0.33 *</td><td>1.15±0.29</td><td>1.23±0.27</td><td>38.391</td><td>0.000</td></tr><tr><td>LDL_C(mmol/L)</td><td>2.83±0.71</td><td>2.41±0.69 *</td><td>2. 77±0.73</td><td>2.76±0.69</td><td>9.591</td><td>0.000</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>TG(mmol/L)</td><td>1.90±1.19</td><td>1.01±0.55 *</td><td>2.13±1.47</td><td>1.45±1.06 *</td><td>25.526</td><td>0.000</td></tr><tr><td>ALT(U/L)</td><td>33.04±29.26</td><td>20.46±13.14 *</td><td>36.66±22.48</td><td>25.06±17.09 *</td><td>15.372</td><td>0.000</td></tr><tr><td>GGT(U/L)</td><td>44.62±39.89</td><td>26.83±42.05 *</td><td>49.92±54.22</td><td>30.1±20.91 *</td><td>9.453</td><td>0.000</td></tr><tr><td>FPG(mmol/L)</td><td>5.52±1.49</td><td>5.19±1.68</td><td>6.26±2.13 *</td><td>5.31±1.55</td><td>9.956</td><td>0.000</td></tr><tr><td>HbA1c(%)</td><td>5.81±0.88</td><td>5.60±0.75</td><td>6.15±1.35 *</td><td>5.72±1.03</td><td>6.795</td><td>0.000</td></tr><tr><td>UA(umol/L)</td><td>383.01±95.8</td><td>324.11±93.29 *</td><td>377.13±95.88</td><td>352.25±78.08 *</td><td>11.243</td><td>0.000</td></tr><tr><td>BF(Kg)</td><td>18.13±3.58</td><td>10.18±3.84 *</td><td>20.55±3.05 *</td><td>19.25±3.23 *</td><td>232.043</td><td>0.000</td></tr><tr><td>BFR(%)</td><td>27.54±6.08</td><td>18.74±5.86 *</td><td>29.19±4.98</td><td>27.91±5.43</td><td>91.826</td><td>0.000</td></tr><tr><td>VFA(cm2)</td><td>84.27±22.85</td><td>45.12±19.97 *</td><td>93.03±22.31 *</td><td>89±19.95</td><td>135.513</td><td>0.000</td></tr><tr><td>WHR</td><td>0.91±0.04</td><td>0.85±0.04 *</td><td>0.93±0.08 *</td><td>0.91±0.04</td><td>62.614</td><td>0.000</td></tr><tr><td>WC(cm)</td><td>84.93±11.47</td><td>74.65±6.21 *</td><td>88.78±9.47 *</td><td>88.24±4.95 *</td><td>77.650</td><td>0.000</td></tr></table></body></html>
+
+\* 非肥胖 MAFLD与非肥胖健康组、肥胖 MAFLD、肥胖非MAFLD比较 $P \mathrm { < } 0 . 0 5$
+
+2.3 非肥胖 MAFLD 组内男、女体脂成分及代谢指标比较：女性年龄、BF、BFP、VFA均显著高于男性，差异有统计学意义（ $P ( 0 . 0 5 )$ ，女性GGT、UA和WC均显著低于男性，差异有统计学意义（ $. P \mathrm { < } 0 . 0 5 )$ ），其余指标两组之间差异无统计学意义（ $( { \cal P } ) 0 . 0 5 )$ 。见表2
+
+表2非肥胖MAFLD组中男、女体脂成分及代谢指标比较 Table 2 Comparison ofbody fat composition and metabolic indexes between men and women in non obese MAFLD group   
+
+<html><body><table><tr><td>项目</td><td>女</td><td>男</td><td>t值/F值</td><td>P值</td></tr><tr><td>n</td><td>46</td><td>83</td><td></td><td></td></tr><tr><td>age(year)</td><td>54. 02±9.79</td><td>47.78±10.68**</td><td>3.272</td><td>0.001</td></tr><tr><td>BMI(kg/m²)</td><td>23.68±0.95</td><td>23.63±0.99</td><td>0.280</td><td>0.780</td></tr><tr><td>TC (mmol/L)</td><td>4.86±0.94</td><td>4.74±0.81</td><td>0.735</td><td>0.463</td></tr><tr><td>HDL_C(mmol/L)</td><td>1.22±0.26</td><td>1.19±0.31</td><td>0.527</td><td>0.599</td></tr><tr><td>LDL_C(mmol/L)</td><td>2.93±0.78</td><td>2.77±0.66</td><td>1. 221</td><td>0.224</td></tr><tr><td>TG(mmol/L)</td><td>1. 84±1.03</td><td>1. 93±1.28</td><td>-0.382</td><td>0. 703</td></tr><tr><td>ALT(U/L)</td><td>30.27±39.41</td><td>34.58±21.84</td><td>-0.800</td><td>0.425</td></tr><tr><td>GGT(U/L)</td><td>29.42±25.78</td><td>53.05±43.78**</td><td>-3.858</td><td>0.000</td></tr><tr><td>FPG (mmol/L)</td><td>5.48±1. 43</td><td>5.55±1.54</td><td>-0.262</td><td>0.794</td></tr><tr><td>HbA1c(%)</td><td>5.90±0.83</td><td>5.76±0.90</td><td>0.915</td><td>0.362</td></tr><tr><td>UA(umol/L)</td><td>321.98±80.55</td><td>416.83±86.71**</td><td>-6.101</td><td>0.000</td></tr><tr><td>BF(Kg)</td><td>20.78±3.38</td><td>16.7±2.79**</td><td>7.333</td><td>0.000</td></tr><tr><td>BFR(%)</td><td>33.64±4.65</td><td>24.23±3.77**</td><td>12.407</td><td>0.000</td></tr><tr><td>VFA(cm²)</td><td>104.2±22.96</td><td>73.46±13.77**</td><td>8.219</td><td>0.000</td></tr><tr><td>WHR</td><td>0.90±0.04</td><td>0.92±0.03</td><td>-1. 907</td><td>0.059</td></tr><tr><td>WC(cm)</td><td>80.52±17.83</td><td>87.33±4.09*</td><td>-2.528</td><td>0.015</td></tr></table></body></html>
+
+\* P<0.05 \*\*P<0.01
+
+2.4Kendal's 相关分析：TC、LDL、TG、ALT、GGT、UA、BFP、VFA 和 WHR 与MAFLD 呈正相关，差异具有统计学意义（ $P ( 0 . 0 5 )$ 。HDL与MAFLD 呈负相关（ $P ( 0 . 0 5 )$ 。见表3
+
+表3体脂肪及代谢指标与非肥胖MAFLD的Kendall's相关  
+3 Kendal's correlation analysis of body fat and metabolic indexes with non obese MAFl   
+
+<html><body><table><tr><td>项目</td><td>相关系数r</td><td>P值</td></tr><tr><td>sex</td><td>0.000</td><td>1.000</td></tr><tr><td>age</td><td>-0.029</td><td>0.423</td></tr><tr><td>TC</td><td>0.095**</td><td>0.009</td></tr><tr><td>HDL</td><td>-.0112**</td><td>0.002</td></tr><tr><td>LDL</td><td>0.092*</td><td>0.011</td></tr><tr><td>TG</td><td>0.176**</td><td>0.000</td></tr><tr><td>ALT</td><td>0.125**</td><td>0.001</td></tr><tr><td>GGT</td><td>0.142**</td><td>0.000</td></tr><tr><td>FPG</td><td>0.023</td><td>0.527</td></tr><tr><td>HbA1c</td><td>0.029</td><td>0.434</td></tr><tr><td>UA</td><td>0.114**</td><td>0.002</td></tr><tr><td>FAT</td><td>0.063</td><td>0.086</td></tr><tr><td>BFR</td><td>0.099**</td><td>0.007</td></tr><tr><td>VFA</td><td>0.092*</td><td>0.011</td></tr><tr><td>WHR</td><td>0.136**</td><td>0.000</td></tr><tr><td>WC</td><td>0.039</td><td>0.287</td></tr></table></body></html>
+
+\* P<0.05 \*\*P<0.01
+
+2.5非肥胖 MAFLD 独立危险因素分析：非肥胖 MAFLD 分组多因素Logistic回归分析结果：TG、ALT、UA、BFP和VFA为非肥胖MAFLD独立危险因素。见表4
+
+<html><body><table><tr><td rowspan="2">Variable</td><td rowspan="2">B</td><td rowspan="2">S.E.</td><td rowspan="2">Wald</td><td rowspan="2">df</td><td rowspan="2">Sig.</td><td rowspan="2">ExP(B)</td><td colspan="2">95% C.I.for EXP(B)</td></tr><tr><td>Lower</td><td>UPPer</td></tr><tr><td>TG</td><td>0.448</td><td>0.210</td><td>4.534</td><td>1.000</td><td>0.033</td><td>1.565</td><td>1.036</td><td>2.364</td></tr><tr><td>ALT</td><td>1.261</td><td>0.408</td><td>9.565</td><td>1.000</td><td>0.002</td><td>3.529</td><td>1.587</td><td>7.849</td></tr><tr><td>UA</td><td>0.904</td><td>0.295</td><td>9.385</td><td>1.000</td><td>0.002</td><td>2.469</td><td>1.385</td><td>4.402</td></tr><tr><td>BFR</td><td>1.709</td><td>0.265</td><td>41.713</td><td>1.000</td><td>0.000</td><td>5.522</td><td>3.288</td><td>9.274</td></tr><tr><td>VFA</td><td>2.899</td><td>0.743</td><td>15.210</td><td>1.000</td><td>0.000</td><td>18.162</td><td>4.230</td><td>77.972</td></tr></table></body></html>
+
+表4非肥胖MAFLD分组多因素Logistic回归分析 Table 4 multifactor logistic regression analysis of non obese MAFLD groups   
+表5总体体检者体脂成分及代谢指标诊断非肥胖MAFLD的ROC曲线 Table 5ROC curve of body fat composition and metabolic indexes in the diagnosis of non obese MAFLD
+
+2.6 ROC 曲线分析体脂成分及代谢指标对总体体检者非肥胖MAFLD的预测价值。
+
+ROC 曲线分析结果提示曲线下面积（AUC)）：VFA>BFR>TG >ALT>UA。VFA的曲线下面积最大，其次为BFP。VFA临界值为61.45cm。见表5，图1
+
+![](images/ea3c8e473b192ba793dc42ceffbd0721ea6aa54cfae965bfd4f2351aadca5baa.jpg)
+
+TG 0.807(0.754-0.860) <0.001 0.822 0.713 0.535 1.02   
+ALT 0.752(0.692-0.812) <0.001 0.814 0.770 0.434 18.35   
+UA 0.665(0.599-0.731) <0.001 0.605 0.682 0.287 356.00   
+BFR 0.853(0.807-0.898) <0.001 0.789 0.770 0.559 22.30   
+VFA 0.938(0.906-0.970) <0.001 0.852 0.904 0.756 61.45
+
+Figure 1 ROC curve of body fat composition and metabolic indexes in the diagnosis of non obese MAFLD
+
+2.7ROC曲线分析体脂成分及代谢指标对男性和女性非肥胖MAFLD的预测价值。
+
+进一步应用ROC 曲线分别分析男性和女性体脂成分及代谢指标对非肥胖 MAFLD的预测价值。结果显示曲线下面积（AUC)）：VFA>BFR>TG >ALT>UA。其中以VFA 曲线下面积最大。男性VFA临界值为 $5 9 . 7 5 ~ \mathrm { ~ c m } ^ { 2 }$ ,女性VFA临界值为79.15cm。见表6,7见图2,3
+
+表6男性体脂成分及代谢指标诊断非肥胖MAFLD的ROC曲线 Table 6 ROC curve of male body fat composition and metabolic indicators for diagnosis ofnon obese MAFLD   
+
+<html><body><table><tr><td>变量</td><td>AUC（95%CI)</td><td>P值</td><td>灵敏度</td><td>特异度</td><td>约登指数</td><td>最佳临界值</td></tr></table></body></html>
+
+![](images/778bc4c28b5f74138583c77b94d3912da69f6cecd01b4edaaa47a9d2c057bcfc.jpg)  
+图1体脂成分及代谢指标诊断非肥胖 MAFLD 的ROC 曲线
+
+<html><body><table><tr><td>TG</td><td>0.816(0.752-0.879)</td><td><0.001</td><td>0.807</td><td>0.711</td><td>0.518</td><td>1. 02</td></tr><tr><td>ALT</td><td>0.754 (0.679-0.828)</td><td><0.001</td><td>0.795</td><td>0.602</td><td>0.398</td><td>20.15</td></tr><tr><td>UA</td><td>0.688 (0.608-0.769)</td><td><0.001</td><td>0.759</td><td>0.578</td><td>0.337</td><td>360.50</td></tr><tr><td>BFR</td><td>0.942 (0.910-0.973)</td><td><0.001</td><td>0.880</td><td>0.867</td><td>0. 747</td><td>19.75</td></tr><tr><td>VFA</td><td>0.974 (0.954-0.993)</td><td><0.001</td><td>0.807</td><td>0.964</td><td>0. 771</td><td>59.75</td></tr></table></body></html>
+
+图2男性体脂成分及代谢指标诊断非肥胖MAFLD的ROC曲线
+
+Figure 2ROC curve of male body fat composition and metabolic indicators in the diagnosis of non obese MAFLD
+
+表7女性体脂成分及代谢指标诊断非肥胖MAFLD的ROC曲线 Table 7 ROC curve of female body fat composition and metabolic indexes in the diagnosis of non obese MAFLD   
+
+<html><body><table><tr><td>变量</td><td>AUC（95%CI)</td><td>P值</td><td>灵敏度</td><td>特异度</td><td>约登指数</td><td>最佳临界值</td></tr><tr><td>TG</td><td>0.789 (0.691-0.888)</td><td><0.001</td><td>0.822</td><td>0. 744</td><td>0.566</td><td>1. 19</td></tr><tr><td>ALT</td><td>0.757 (0.655-0.858)</td><td><0.001</td><td>0.689</td><td>0.767</td><td>0.456</td><td>18.35</td></tr><tr><td>UA</td><td>0.716 (0.607-0.826)</td><td><0.001</td><td>0.778</td><td>0.674</td><td>0.452</td><td>270.50</td></tr><tr><td>BFR</td><td>0.906 (0.842-0.969)</td><td><0.001</td><td>0.844</td><td>0.860</td><td>0.705</td><td>29.75</td></tr></table></body></html>
+
+![](images/30f8c86fddfa73115e4ff4f15b86f2f7b2cb46c598ed1e7dbb2af34ec4a0363b.jpg)
+
+<html><body><table><tr><td>VFA</td><td>0.924(0.861-0.986)</td><td><0. 001</td><td>0.844</td><td>0.884 0. 728</td><td>79. 15</td></tr></table></body></html>
+
+Figure 3ROCcurve of female body fat composition and metabolic indexes in the diagnosis of non obese MAFLD
+
+# 讨论
+
+# 1体脂成分与MAFLD
+
+有研究表明，短期内体重增加是引起非肥胖 MAFLD 发病的重要危险因素，即使体重在正常范围内的很小变化也会增加患 MAFLD 风险。国外的一项研究表明,基线体重指数 $\mathrm { B M I } { < } 2 3 \mathrm { k g / m } ^ { 2 }$ 的个体,体重增长 ${ > } 2 . 3 \mathrm { k g }$ 会引起发生MAFLD 的风险增加。本研究结果也提示在年龄、性别无差异的情况下,非肥胖 MAFLD 组较非肥胖健康组 BMI升高,可能与体质量增加有关。所以即使非肥胖 MAFLD也需要通过生活方式调整，控制饮食运动来减轻体重，以达到改善甚至逆转 MAFLD的目标。此外，本研究结果表明与非肥胖健康组相比，非肥胖 MAFLD 存在隐性肥胖及内脏肥胖。这个特点在女性尤其明显。与肥胖 MAFLD 相比，非肥胖 MAFLD 在反映腹部肥胖的指标 WC、WHR、VFA方面低于肥胖 MAFLD；在反映整体肥胖程度的BMI值以及体脂肪量的绝对数值方面也低于肥胖 MAFLD，但是体脂百分比两者并无显著性差异，进一步证明非肥胖 MAFLD存在隐性肥胖。另外，非肥胖 MAFLD的BMI及BF、WC 低于肥胖非 MAFLD，但两组VFA无明显差异，说明肥胖非 MAFLD 主要增加的是皮下脂肪，非肥胖 MAFLD 主要是内脏脂肪增加，有更高的代谢异常风险。并且本研究提示 BFR、VFA 和WHR与MAFLD呈正相关，BFR 和VFA为非肥胖 MAFLD 独立危险因素。值得一提的是，ROC 曲线分析男性和女性体脂成分及代谢指标对非肥胖 MAFLD 的预测价值，结果5项指标中VFA对非肥胖 MAFLD 的预测价值最高，其次是 BFP。考虑体脂肪、尤其是内脏脂肪在非肥胖MAFLD的发病中起着更为重要的作用。
+
+有外科资料表明8，切除占总体脂 $0 . 8 \%$ 的大网膜脂肪，可以明显改善胰岛素抵抗及代谢异常，而吸脂术去除占总体脂 $1 8 \%$ 的腹部皮下脂肪并不能改善代谢紊乱及胰岛素抵抗。说明与皮下脂肪相比，内脏脂肪与代谢紊乱及胰岛素抵抗关系更为密切。而胰岛素抵抗是MAFLD 发病的最重要的机制之一，证明内脏脂肪与 MAFLD 发病关系密切。内脏脂肪不仅与 MAFLD 发病有关，还与心脑血管疾病关系密切，即使BMI正常的人群，内脏脂肪也对心血管风险有预测价值[9]。内脏脂肪只占总脂肪量的 $5 \% - 2 0 \%$ ，主要分布在腹腔大网膜、肠系膜等部位，但血供丰富及代谢活跃，内脏脂肪脂解产生大量的游离脂肪酸(FFA)通过门静脉直接进入肝脏，加速了肝细胞脂肪变性[10]。 同时导致循环中低密度脂蛋白的堆积，最终造成VLDL-C、LDL-C 和 APoB-100升高,增加心血管疾病风险;FFA 的氧化刺激肝糖产生,导致糖代谢紊乱。内脏脂肪分泌的一些脂肪因子参与代谢综合征、糖尿病和骨质疏松的发生。腹型肥胖是脂肪肝最重要的危险因素之一，并且用内脏脂肪面积来描述腹型肥胖是最佳的方法[11]。MRI或者CT 测定脂肪为人体脂肪测定的金标准。但是这些检测方法多需要价格昂贵的特殊检测设备和仪器，且CT有一定的辐射,不适合大规模体检应用。本研究采用人体成分分析仪生物电阻抗（BIA）法测量体脂肪及内脏脂肪面积，有研究证明该方法的测定值与CT/MRI相关性很好[12][13]。人体成分分析仪作为无创的体成分检测方法，可用于大规模人群研究。
+
+# 2血脂与MAFLD
+
+有研究表明[14：非肥胖 MAFLD 患者的血脂水平比健康非肥胖者升高，介于正常和肥胖MAFLD 之间。但本研究显示非肥胖 MAFLD 的TG、TC、LDL 不仅高于健康非肥胖者，还与肥胖MAFLD无差异，并且男女血脂水平无差异。血脂在非肥胖与肥胖两组之间无差异，这与既往研究结果不同。分析原因：相比于体重指数 BMI及体脂肪的绝对数值，血脂水平可能与体脂肪占体重的百分比，也就是体脂百分比关系更为密切。相关性分析提示TC、LDL、TG与MAFLD 正相关，HDL与MAFLD为负相关。MAFLD病理特点为肝脏内TG过度沉积，国内外多项研究提示血脂异常为MAFLD 的危险因素，TG导致 MAFLD的机制得到广泛认可。本研究TG为 MAFLD 的独立危险因素与既往结论相符，并且ROC 曲线提示 TG 对非肥胖 MAFLD 有预测价值。
+
+但是TC、LDL是否为非肥胖 MAFLD的独立危险因素还有不同意见。有研究认为，高胆固醇饮食与非肥胖 MAFLD 发病有关，胆固醇在非肥胖 MAFLD 发病中的作用超过TG,TC、LDL是MAFLD 的独立危险因素[7]。但是也有研究指出 TC、LDL与 MAFLD 虽然相关，但并非独立危险因素，甚至有提出 TC 与非肥胖 MAFLD 无关[15]。本研究结果TC、LDL 与非肥胖 MAFLD 有正相关性，但不是非肥胖 MAFLD 的独立危险因素。考虑TC LDL升高是继发于TG 升高，并且升高程度与肥胖 MAFLD 无差异。MAFLD 者肝脏内大量脂肪堆积，导致进入血液的 FFA大量增加，促进肝脏合成TG，相应的引起血液中TC 和 LDL-C 水平升高。同时由于MAFLD 存在胰岛素抵抗而使 aPoA、磷脂、游离胆固醇等合成 HDL 原料释放减少,引起HDL水平下降[16]。作为心血管疾病重要危险因素的TC、LDL水平上升，而保护性因素 HDL下降，说明非肥胖 MAFLD 的心血管疾病发病风险可能并不比肥胖 MAFLD 低，提示在临床诊疗中需要重视控制非肥胖 MAFLD 的血脂水平。非肥胖MAFLD与胆固醇的关系尚需加大样本量进一步深入研究。
+
+# 3血糖与MAFLD
+
+MAFLD 与糖代谢异常、2型糖尿病关系密切。无糖尿病史的MAFLD 患者中，糖代谢异常者高达 $5 0 \%$ 。与无MAFLD 患者相比，MAFLD 患者发生2 型糖尿病的相对危险度为 $1 . 8 6 ^ { [ 1 7 ] }$ 。研究[18]表明，2 型糖尿病是一种主要由肝脏和胰腺的过量且可逆的脂肪堆积引起的疾病。胰岛素抵抗是在糖尿病前期和2型糖尿病中最早检测到的异常。肝脏胰岛素抵抗在MAFLD 引起糖尿病的机制中发挥关键作用，肝脏脂肪积聚引起胰岛素抵抗，进而决定了肝糖产生和空腹血糖水平，是引起糖尿病的核心机制[19]。2019年Taylor等[20]提出以脂肪肝为中心的肝-胰双循环假设(thetwin cycle hyPothes)，详细阐述了肝脏在糖尿病发生及逆转中的机制。根据此假说，如果多余的脂肪负荷能被减去，可以逆转双循环，血糖也能恢复正常。充分说明肝脏脂肪含量与糖代谢关系密切。国内有研究[2显示：肝脏脂肪含量达到 $4 \%$ 即开始出现胰岛素抵抗；增加到 $1 0 \%$ 胰腺β 细胞分泌功能恶化，血糖升高。
+
+本研究提示非肥胖MAFLD的FPG及 $\mathrm { H b A _ { 1 } C }$ 低于肥胖MAFLD，而与非肥胖健康人群无明显差异。这与肥胖 MAFLD有更多的内脏脂肪，胰岛素抵抗更加严重有关。非肥胖 MAFLD 糖代谢似乎更接近非肥胖健康人群水平。分析原因：1、本次研究对象为非肥胖 MAFLD，BMI正常范围，虽然内脏脂肪相对增多，但是总体脂肪量增加不明显，胰岛素抵抗不严重，β细胞尚能产生足够的胰岛素来代偿胰岛素抵抗，所以血糖代谢基本正常。2、考虑本次为回顾性研究，缺乏胰岛素及餐后血糖检查结果，也无OGTT及胰岛素释放试验结果，仅凭FPG 和 $\mathrm { H b A _ { 1 } C }$ 尚不能全面准确评估胰岛素抵抗及血糖水平，这在以后的研究中需要完善。
+
+# 4尿酸与MAFLD
+
+本研究结果提示非肥胖MAFLD 尿酸水平高于非肥胖健康组，与肥胖MAFLD 组无差异，男性尿酸高于女性。尿酸水平与非肥胖 MAFLD具有正相关性，为非肥胖 MAFLD 的独立危险因素，尿酸升高对于MAFLD 的发生有预测价值。
+
+一项 meta分析得出[22],尿酸水平的升高与脂肪肝的发病呈线性关系，血尿酸每增加1mg/dl,MAFLD 的发病率增加约1.03倍。高尿酸血症与 MAFLD 发病之间的关系不仅仅存在于肥胖人群当中，在非肥胖人群当中，血尿酸水平的升高，也与 MAFLD 的患病率呈正相关[23]，尿酸水平越高，超声诊断的脂肪肝严重程度越重[24]。尿酸主要通过以下几个方面参与 MAFLD 发病［25]。 $\textcircled{1}$ 尿酸可以通过诱导氧化应激及降低内皮NO 的生物利用度促进胰岛素抵抗。 $\textcircled{2}$ 诱导内质网应激，并激活炎症通路加重肝脏的炎性损伤。 $\textcircled{3}$ 尿酸诱导线粒体的氧化应激反应，加剧线粒体功能障碍，促进肝脏脂肪从头合成增加。 $\textcircled{4}$ 尿酸激活 NLRP3炎性小体，产生大量炎症介质，促进MAFLD、胰岛素抵抗的发生与发展。
+
+高尿酸血症不仅可以导致痛风发作，还是慢性肾病、高血压、心脑血管疾病及糖尿病等疾病的独立危险因素，是过早死亡的独立预测因子[26]。非肥胖 MAFLD 与肥胖 MAFLD 尿酸水平无明显差异，进一步说明非肥胖 MAFLD 与肥胖 MAFLD 可能有相似的心脑血管疾病、糖尿病等风险。
+
+# 5转氨酶与MAFLD
+
+本研究中，非肥胖 MAFLD 和肥胖 MAFLD 相比，两组ALT、GGT无明显差异。而且，与单纯肥胖无 MAFLD 的体检者相比，非肥胖 MAFLD组ALT、GGT是升高的，说明肝细胞的损伤程度与体重的关系没有与肝脏脂肪含量的关系密切。
+
+目前的研究表明，肝细胞可因为受到脂肪酸浸润导致损伤出现肝酶升高。ALT不仅是肝细胞损伤的敏感指标，而且可以预测 MAFLD从单纯性脂肪肝向NASH和肝纤维化的发展。本研究结果ALT为非肥胖 MAFLD独立危险因素，并且对非肥胖 MAFLD具有预测价值，与既往研究相符。GGT水平升高常反映肝脂肪沉积和内脏性肥胖。内脏脂肪可导致全身包括肝脏的胰岛素信号受损，加速胰岛素抵抗、脂肪肝和动脉粥样硬化的发生。所以GGT 增高对 MAFLD 发病有影响[27]。MAFLD 已成为体检时血 ALT、GGT升高的主要原因[28]。因此临床上对不明原因的肝生化指标异常患者应考虑 MAFLD 的可能性。
+
+本研究的不足之处：1、研究对象来自体检人员，容易产生选择偏倚。2、此次为回顾性研究，缺少反映胰岛素抵抗水平的数据。
+
+总而言之，非肥胖MAFLD 虽然BMI未达到肥胖，但是已经出现体脂肪及内脏脂肪增加。并且与肥胖 MAFLD有相似的代谢紊乱及心脑血管疾病的患病风险，早期筛查非肥胖 MAFLD 值得临床重视。研究提示最具预测价值的指标是VFA，VFA 预测非肥胖 MAFLD 最佳临界值，男性为$5 9 . 7 5 \mathrm { c m } ^ { 2 }$ ，女性为 $7 9 . 1 5 \mathrm { c m } ^ { 2 }$ 。VFA可以用作健康人群MAFLD自我监测和临床早期干预的有效指标。人体成分分析仪BIA法检测VFA，操作简便且无创，可在大规模人群体检中应用。针对非肥胖 MAFLD的独立危险因素，合理的饮食和运动，控制体重，减少体脂肪特别是内脏脂肪，维持正常糖脂、嘌呤代谢，对预防非肥胖 MAFLD有效。
+
+作者贡献：王颖捷负责提出研究思路，设计研究方案，对主要研究结果进行分析与解释，撰写论文及最终版本修订；程昊然负责检索文献，数据收集、整理及统计学分析，英文修订；周卫红负责文章的质量控制，监督管理，对文章整体负责。
+
+本文无利益冲突。
+
+# 参考文献
+
+[1]李婕.亚洲地区非酒精性脂肪性肝病的流行病学特点[J].临床肝胆病杂志,2018,12:2515-2519. DOI:10.3969/j.issn.1001-5256.2018.12.006
+
+LIJ.Epidemiologycharacteristics ofnonalcoholic fattyliverdisease inAsia[J].JClinHepatol,2018,34(12):251   
+5 - 251 9. DO1:10.3969/j.issn.1001-5256.2018.12.006
+
+_2」程晓光,李永丽，曾强．关注健康管理中非酒精性脂肪性肝病的精准评价[J」．中华健康管理学杂志,2020,04: 305-307. DOI: 10.3760/cma.j.cnl 15624-20200702-00522
+
+[3]韩琳，谢欢,孙颖,等.代谢相关脂肪性肝病的诊断与评估现状[J].肝脏,2021,02:205-210.DOI:
+
+10.14000/j.cnki.issn.1008-1704.2021.02.029
+
+[4] Eslam M, Sanyal AJ, George J,et al. MAFLD: a consensus driven proposed nomenclature for metabolic associated fattyliverdisease[J],Gastroenterology,2020,158（7) :1999-2014.el.DOI: 10.1053/j.gastro.2019.11.312. [5]Eslam M,Newsome PN,SarinSK, et al.Anew definition for metabolic dysfunction-associatedfatty liverdisease: an internationalexpertconsensus statement[J],Hepatol,2020,73(1）:202-209.DOI:10.1016/j.jheP.2020.03.039. [6] Eslam M,Sarin SK. Wong VW,etal. The asian pacific asociation for the study of the liver clinical Practice guidelines for the diagnosis and management of metabolic associated fatty liver disease[J],Hepatol Int, 2020,in Press. DOI: 10.1007/s12072-020-10094-2.   
+[7］邵琮翔，廖献花，钟碧慧.体质量与非酒精性脂肪性肝病[J].肝脏，2019，24（12)：1476-1478.DOI: 10.14000/j.cnki.issn.1008-1704.2019.12.041   
+[8]赵楠,许杰,李晓晨，等.腹部脂肪分布对 2型糖尿病患者人体成分及胰岛功能的影响[J].国际内分泌代 谢杂志,2019,06:361-362-363-364-365-366-367.DOI:10.3760/cma.j.issn.1673-4157.2019.06.001   
+[9]王静,李虎,顾菲,等．内脏脂肪面积对体质指数正常内脏脂肪面积超标体检人群缺血性心血管病十年发 病风险的评估价值研究[J]．中国全科医学,2019,03:279-283.DOI：10.12114/j.issn.1007-9572.2018.00.076 WANGJ，LIH，GUF，etal. Visceralfatareaforthepredictionof10-yearriskofischemiccardiovasculardiseaseinpopulations with normal BMIand increased visceralfat undergoing physical examination[J].Chinese General Practice，2019，22（3): 279-283 .D0I: 10.12114/j.issn.1007-9572.2018.00.076.   
+[10]ALMEIDANS,ROCHA R, COTRIMHP, et al. Anthropometric indicators of visceral adiposityas Predictors of non-alcoholic fattyliverdisease: areview[J]. WorldJHepatol,2018,10(10): 695-701.DOI: 10.4254/wjh.v10.0.695 [1]Byrne CD,Targher G.Ectopic fat,insulin resistance,and nonalcoholic fatty liver disease: implications for cardiovascular disease [J].Arterioscler Thromb Vase Biol,2014,34(6）:1155-1161.DOI:10.1161/ATVBAHA. 114.303034.   
+[12]杨炯贤，闫洁，彭芸，等.应用核磁共振测定儿童内脏脂肪验证生物电阻抗技术准确性的研究［J].中华 健康管理学杂志，2018,12（3):212-215.DOI: 10.3760/cma.j.issn.1674—0815.2018.03.0   
+[13］周绍酉，南龙，杨露，等.生物电阻抗法和定量计算机体层扫描法测量体检人群的内脏脂肪面积的对比 研究[J].中华健康管理学 杂志，2018，12（5)：449-452.DOI:10.3760/cma.j.issn.1674.0815.2018.0 [14]胡平方,谢渭芬.非肥胖型酒精性脂肪性肝病的特点及其研究[J].国际消化病杂志，2019，12 (6） : 382-384. DOI:10.3969/j.issn.1673G534X.2019.06.002
+
+[15]田甜，胡文炜，李雪，等.非肥胖人群非酒精性脂肪性肝病代谢特征及危险因素分析［J］.临床肝胆病杂志，2020，36(6) :1310—1313.DOI:10.3969/j.issn.1001-5256.2020.06.024
+
+TIANT，HUWW，LIX，etal．Metaboliccharacteristics of nonalcoholicfatyliver diseaseand related risk factorsinnon-obesepopulation[J].JClinHepatol，2020，36（6）:1310-1313．DOI:10.3969/j.issn.1001-5256.2020.06.024[16］胡江峰，蔡晓波，陆伦根.脂肪组织在脂肪性肝病发生发展中的作用[J］.国际消化病杂志,2019,39（3） : 153-156. DO1:10.3969/j.issn.1673-534X.2019.03.003
+
+[17]中华医学会内分泌学分会.非酒精性脂肪性肝病与相关代谢紊乱诊疗共识(第二版) ［J］.临床肝胆病杂志，2018，34(10) :2103—2108． DOI: 10.3969/j.issn.1001-5256.2018.10.010
+
+[18]TAYLOR R,AL -MRABEH A, ZHYZHNEUSKAYA S, et al. Remission of human type 2 diabetes requires decrease in liver and Pancreas fat content but is dependent upon capacity for $\beta$ cell recovery[J]. Cell Metab,2018, 28(4): 667. DO1: 10.1016/j.cmet.2018.07.003
+
+[19］颜红梅.改善非酒精性脂肪性肝病可以逆转2型糖尿病吗?［J]临床肝胆病杂志，2020，36(6)：1213 -1216.Doi:10.3969 /j. issn.1001 - 5256.2020.06.004
+
+YAN HM. Can type 2 diabetes melitus be reversed by improving nonalcoholic fatt liver disease?[J].JClin Hepatol, 2020,36(6): 1213 -1216. (in Chinese)
+
+[20] TAYLOR R,AL - MRABEH A,SATTAR N. Understanding the mechanisms of reversal of type 2 diabetes[J] Lancet Diabetes Endocrinol, 2019,7(9): 726 -736. DOI: 10.1016/S2213-8587(19)30076-2
+
+[21]卞华,林寰东,饶圣祥，等.肝脏脂肪含量与胰岛素抵抗及胰岛β细胞功能的关系[J].中华内分泌代谢杂志，2010，26（7): 535-540.DOI: 10.3760/cma.j.issn.1000-6699.2010.07.
+
+[22]Liu Z,Que S,Zhou L,etal.Dose-response relationship of serum uric acid with metabolic syndrome and nonalcoholic fatty liver disease incidence: ameta-analysis ofprospective studies [J].Scientific Reports,2015,5:14325. DOI:10.1038/srep14325
+
+[23]Sirota JC,Mcfann K,Targher G,et al.Elevated serum uric acid levels are associated with non-alcoholic fatty liver disease independently of metabolic syndrome features in the United States: liver ultrasound data from the National Health and Nutrition Examination Survey[J]．Metabolism，2013，62(3):392-399.DOI: 10.1016/j.metabol.2012.08.013
+
+[24]Zheng X, Gong L,Luo R,et al. Serum uric acid and non-alcoholic faty liver disease in non- obesity Chinese adults [J] .Lipids in Health Dis,2017,16(1):202. DOI: 10.1186/s12944-017-0531-5
+
+[25]梁倩玉,郭宏华．高尿酸血症及降尿酸药物对非酒精性脂肪性肝病影响研究进展[J]．中国实用内科杂
+
+志,2020,05:428-432.DO1: 10.19538/j.nk202005017[26]中华医学会内分泌学分会,中国高尿酸血症与痛风诊疗指南(2019)[J].中华内分泌代谢杂志，2020,36(1） : 1-13. DOI: 10.3760/cma.j.issn.1000-6699.2020.01.001
+
+[27]林仿，任跃忠，褚建平，等.甘油三酯与高密度脂蛋白胆固醇比值和谷氨酰转移酶对非酒精性脂肪肝的预测价值[J].中华全科医学，2017，15(7)：1175-1177.DOI:10.16766／ j.cnki.iss.1674—4152.2017.07.025[28］中华医学会肝病学分会脂肪肝和酒精性肝病学组，中国医师协会脂肪性肝病专家委员会.非酒精性脂肪性肝病防治指南（2018年更新版）［J」.实用肝脏病杂志，2018，21（2)：177-186.DOI:10.3969/j.issn.1672-5069.2018.02.007

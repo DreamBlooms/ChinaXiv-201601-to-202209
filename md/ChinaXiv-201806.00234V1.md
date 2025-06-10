@@ -1,0 +1,180 @@
+# 趋磁细菌及其生物合成磁纳米颗粒-磁小体的生物医学应用研究进展
+
+王方旭1,² 陈玉玲1,2 耿读艳」 陈传芳 2,\*
+
+1省部共建电工装备可靠性与智能化国家重点实验室(河北工业大学)，天津，300130
+
+2中国科学院电工研究所，北京市生物电磁学重点实验室，北京，100190\*通讯作者，电子信箱：chenchf@mail.iee.ac.cn国家自然科学基金资助项目（51477169）
+
+摘要近年来，趋磁细菌及其生物自身合成的磁小体由于良好的生物安全性逐渐被人们所认识，并被用于生物工程和医学应用研究。与人工化学合成磁性纳米颗粒相比，从趋磁细菌中提取的磁小体具有生物膜包被、生物相容性高、粒径均一以及磁性高等优势。趋磁细菌因磁小体在其胞内呈链状排列，具有沿磁场方向泳动的能力，也被应用于各种应用研究。因此，本文综述了趋磁细菌及磁小体特性，并就最近的研究进展重点综述趋磁细菌和磁小体在生物工程和医学应用等领域的最新研究进展。
+
+关键词 趋磁细菌 磁小体 磁纳米颗粒 生物医学应用
+
+# Research Progress on Biomedical Applications of Magnetotactic Bacteria and the Biosynthetic Magnetosomes
+
+WANG Fang-xu1,2, CHEN Yu-ling1,², GENG Du-yan1, CHEN Chuan-fang²
+
+1 State Key Laboratory of Reliability and Intelligence of Electrical Equipment, Hebei University of Technology， Tianjin,300130, P.R. China
+
+²Beijing Key Laboratory of Bioelectromagnetism， Institute of Electrical Engineering, Chinese Academy of Sciences, Beijing 10019o, P.R. China
+
+Abstract In recent years， magnetotactic bacteria and their biosynthetic magnetosomes have been recognized and have been used in biological and medical applications by people because of their good biosafety. Compared with synthetic magnetic nanoparticles, magnetosomes extracted from magnetotactic bacteria have biomembrane coated, high biocompatibility,uniform particle size and high magnetic. Because magnetotactic bacteria swam along magnetic field, they are also applied in biomedical applications. In this paper, we first descripted the characterization of magnetotactic bacterium and magnetosome, then we reviewed their apllications in biomedical in latest research progress.
+
+Keywords: Magnetotacticbacteria;Magnetosomes; Magneticnanoparticles; Biomedical applications
+
+随着纳米技术的发展，越来越多的纳米材料被合成出来并用于医疗卫生领域应用的研究当中，尤其是磁纳米颗粒在生物医药、磁流体、催化作用、核磁共振成像、数据储存和环境保护等得现代科学领域得到越来越广泛的应用[1-5]。有趣的是相对于人工化学合成的磁纳米颗粒，一种生物自身合成的具有生物膜包被的磁纳米颗粒—磁小体（Magnetosomes）逐渐被人们认识，并被研究和应用于各种领域[6-8]。
+
+与人工化学合成磁性纳米颗粒相比，磁小体具有产量高、分散性好、结晶度高，属于稳定的单磁畴晶体，颗粒表面有生物膜包裹，具有良好的生物相容性等特点[9,10]。合成的磁小体的趋磁细菌因磁小体在其胞内呈链状排列，而具有沿磁力线排列和泳动的能力，也被应用于各种应用研究。因此，本文就最近的研究进展重点综述了磁小体及趋磁细菌的特性，以及磁小体和趋磁细菌在药物靶向、肿瘤治疗、生物分离和成像等领域应用的最新研究进展。
+
+# 1趋磁细菌及其磁小体简介
+
+1975年Blakemore[8]在Science上详细报道了他发现的一种奇异磁敏感细菌，这种细菌能够沿着磁场方向泳动，并将其命名为趋磁细菌（Magnetotacticbacteria，MTB）。通过电镜观察，Blakemore[8,1]首次观察到了趋磁细菌体内的磁性物质磁铁矿磁小体。趋磁细菌广泛分布于淡水和海水环境中的有氧-无氧过渡区（Oxic-anoxic interface,OAI）以及湿润的沉积物中[12]。虽然趋磁细菌的分离和纯化比较困难，依然有11株菌株得到纯化，是目前研究趋磁细菌趋磁性和磁小体合成最主要的研究菌株[13-18]。
+
+磁小体是趋磁细菌体内合成的磁性颗粒，磁小体组成成分相对单一，大部分是由 $\mathrm { F e } _ { 3 } \mathrm { O } _ { 4 }$ 组成，部分是由 $\mathrm { F e } _ { 3 } \mathrm { S } _ { 4 }$ 组成。除Bazylinski等[19]在1995年发现一株能在胞内同时合成和的磁小体外，一种趋磁细菌胞内只能合成单一成分的磁小体。磁小体晶体大小一般在 $3 5 { \mathrm { - } } 1 2 0 ~ \mathrm { n m }$ 之间，属于稳定的单磁畴颗粒[20]，具有较高的矫顽力[21]。磁小体在大多数种类细菌体内呈链状排列，晶体颗粒间的距离在 3-18nm 之间[22,23]。
+
+磁小体的生物矿化是一个复杂的过程，主要可以分为细胞膜内陷、铁离子摄取、结晶生成和组装成链四个步骤[24-26]。磁小体表面有生物膜包裹，这层生物膜主要由脂类组成，同时含有20-40 种蛋白质[27,28]。这些膜蛋白不仅对研究磁小体的合成机制有着重要的意义，而且在磁小体的应用上也备受关注。同人工合成的磁性纳米颗粒相比，磁小体可以通过基因工程和化学连接对表面蛋白进行改造，从而在磁小体表面表达特定的蛋白或抗体，赋予磁小体更多的功能。
+
+目前，在纳米医学应用研究中所使用的磁小体主要来自于AMB-1和MSR-1两种趋磁细菌。MSR-1目前已经可以进行发酵罐大规模培养，可用于工业大规模批量生产磁小体[29,30]。
+
+# 2趋磁细菌的应用
+
+由于趋磁细菌具有沿着磁场泳动的特性，因此可视其为趋磁细菌机器人，应用于靶向治疗，提高药物和物理治疗的精准度，降低药物用量。Martel等人利用极性趋磁细菌 MC-1与一个 $3 ~ { \mu \mathrm { m } }$ 的PS 微球相连，通过微电磁阵列装置产生的电磁场实现对趋磁细菌机器人的运动控制[31]。并将5000个趋磁细菌进行了微组装和微操纵，将微米级的玻璃砖成功地垒成一个微型金字塔[32]。Felfoul 等[33]利用趋磁细菌的磁导航特性，在肿瘤附近注射载有药物的MC-1细菌，通过磁场导航作用，有 $5 5 \%$ 的细菌进入了肿瘤低氧区，改善了纳米载药颗粒的治疗效果。
+
+Chen 等[34]通过在趋磁细菌 MO-1细胞表面修饰兔抗MO-1多克隆抗体，构建了金黄色葡萄球菌分离系统。实验表明，趋磁细菌可在磁场控制下携带金黄色葡萄球菌到达指定位置，为下一步病原菌的检测奠定了基础。后续的研究中Chen等[35,36]利用MO-1对金黄色葡萄球菌进行杀伤作用研究，在动物实验中通过交变磁场热疗和摆动磁场的机械力作用均取得了显著的杀菌效果。
+
+# 3磁小体用于肿瘤热疗
+
+磁颗粒在交变磁场中，受磁滞损耗、涡流效应等影响，吸收磁场能量并释放热量，从而使周边组织温度升高，使肿瘤细胞凋亡[37,38]。同其它磁性纳米颗粒一样，磁小体在交变磁场下也会释放热量。Timko等[39]人研究发现，将磁小体暴露在 $5 \mathrm { k A } / \mathrm { m }$ 、 $7 5 0 \mathrm { k H z }$ 的磁场环境下，磁小体的电磁波吸收比值（SAR）高达 $1 . 7 \times$ $1 0 ^ { 5 } \mathrm { W / k g }$ ，表明磁小体具有良好的磁热转化能力。MARTINEZ-BOUBETA等[40]仿照细菌合成的磁小体改善了人工合成晶体的形状，将合成的单畴立方体磁性纳米颗粒和尺寸相近的球体纳米颗粒进行对比发现，立方体构型的纳米颗粒磁热转换效率更高。通过在原子水平上的蒙特卡罗模拟证实了立方粒子比球形粒子具有更大的各向异性和呈链状排列的趋势这些因素是使其SAR更高的原因。
+
+磁小体颗粒的特征会受细菌培养条件的不同而发生变化[4I]，SAR和形状相关也会随之发生变化[42]。AMB-1细菌在标准培养基的基础上分别加入更多的维生素和奎尼酸铁，磁小体平均直径由 $4 7 \mathrm { n m }$ 增加到 $5 2 \mathrm { n m }$ 和 $5 8 \mathrm { n m }$ ，相应的SAR也有所增加。Le等人[43]将磁小体表面用多聚赖氨酸包裹，测试其 SAR可达到 $4 \times$ $1 0 ^ { 4 } \mathrm { W / k g }$ ，相比较下化学合成的氧化铁颗粒SAR值仅为 $2 . 6 \times 1 0 ^ { 4 } \mathrm { W } / \mathrm { k g }$ 。另外有报道对磁小体掺杂钴可以提高磁小体的矫顽力，从而使 SAR 提升[44]。实验表明，当磁小体暴露于 $8 0 \mathrm { m T }$ ， $1 8 3 \mathrm { k H z }$ 的交变磁场中时，掺杂钴的磁小体链SAR由4$\times ~ 1 0 ^ { 5 } ~ \mathrm { W / k g }$ 提高到了 $5 \times 1 0 ^ { 5 } \mathrm { W / k g } .$ 。对AMB-1研究表明，磁小体在交变磁场中发热主要来源于磁矩的反转和磁小体的物理旋转[45,46]。
+
+在肿瘤热疗中，肿瘤区域温度升高到 $4 1 . 4 6 ^ { \circ } \mathrm { C }$ 可使生物膜功能和状态发生改变，激活溶酶体活性，抑制DNA、RNA及蛋白质合成，从而达到杀死肿瘤细胞的作用[47,48]。在 $1 9 8 \mathrm { k H z }$ ，磁场强度为 $2 0 { - } 3 0 ~ \mathrm { m T }$ 的环境下，将癌细胞与磁小体共同孵育，癌细胞的增殖受到抑制，并且链状磁小体对肿瘤细胞的抑制效果要更好[49]。Alphandéry 等[43,50]将从 AMB-1中提取出的链状磁小体注入在小鼠皮下构建的肿瘤内部，通过频率为 $1 0 0 \mathrm { k H z }$ ，场强为 $6 0 \mathrm { m T }$ 的交变磁场加热，肿瘤区域最高温度可升至50以上，通过3次、每次 $2 0 \mathrm { m i n }$ 的磁热疗，肿瘤完全消失。为了进一步提高安全性，Alphandéry 等将磁小体晶体用多聚赖氨酸包覆，并进行热疗实验。在 $2 0 2 \mathrm { k H z }$ ， $2 7 { \mathrm { m T } }$ 的磁场作用下，肿瘤温度升到了 $4 2 ^ { \circ } \mathrm { C }$ ，在接种肿瘤细胞68天后，小鼠肿瘤完全消失，并且在接种后的第350天，小鼠依然存
+
+活[51]。
+
+光热治疗是肿瘤热疗的另一种方式，纳米颗粒通过吸收光能并转化为热能，使肿瘤区域温度升高来治疗肿瘤[52]。已有研究表明，氧化铁纳米颗粒通过近红外光照射用于肿瘤热疗，在细胞实验和小鼠实验中取得良好的效果[53,54]。磁小体晶体多为 $\mathrm { F e } _ { 3 } \mathrm { O } _ { 4 }$ 组成,同样可以将光能转化为热能。通过在小鼠肿瘤内部注射 $0 . 4 ~ \mathrm { m g }$ 磁小体溶液，并用 $1 . 5 \mathrm { W } / \mathrm { c m } ^ { 2 }$ 的 $8 0 8 ~ \mathrm { n m }$ 红外光照射3分钟进行光热治疗，可使肿瘤区域温度升高至 $5 7 ^ { \circ } \mathrm { C }$ ，小鼠肿瘤完全消失[55]。Plan等人[56]将RGD肽修饰后的磁小体进行了实验，发现在细胞中磁小体光热效率要高于磁热100-1000倍。
+
+# 4磁小体用于药物靶向
+
+磁小体具有良好的生物相容性和低毒性，且能被外界磁场控制，是药物载体的理想靶标[57]。同时，磁小体表面有完整的生物膜包覆，且表面暴露有大量的氨基，因而可以将带有氨基的药物分子通过双功能试剂装载到磁小体膜上。同样，利用磁小体膜表面的各类基团还可以将其它功能分子如靶向配体、成像探针等和磁小体想结合，使磁小体同时具备诊断、治疗等多种功能[58,59]。
+
+Sun 等[60]将阿霉素（DOX）通过戊二醛偶联到磁小体颗粒（DBMs）上，体外毒性实验表明DBMs对HL60 和EMT-6存在细胞毒性，表现为抑制细胞增殖和c-myc 表达，这和DOX抗肿瘤特性相一致。进一步的动物实验发现，DBMs、DOX 和磁小体对H22荷瘤小鼠的肿瘤抑制率分别为 $8 6 . 8 \%$ 、 $78 . 6 \%$ 和 $4 . 3 \%$ ，小鼠死亡率分别为 $20 \%$ 、 $80 \%$ 和 $0 \%$ 。DBMs 和DOX均可有效抑制肿瘤生长，但DBMs 的毒性明显低于 $\mathrm { D O X } ^ { [ 6 1 ] }$ 。Guo 等人[62]发现聚-L-谷氨酸（poly-L-glutamicacid）修饰磁小体，可使DOX负载率提高 $8 1 . 7 \%$ ，对HepG2 和MCF-7细胞有较强的细胞毒性作用。
+
+Tang 等[63]将磁小体作为载体，由次级淋巴组织趋化因子、HPV-E7 和pSLC-E7-Fc 构成重组DNA开发了一种基因疫苗（BMP-V）。在 $6 0 0 \mathrm { m T }$ 的静磁场作用 $1 0 \mathrm { m i n }$ 后，BMP-V在体内和体外均能有效转染。在小鼠肿瘤模型中，皮下注射BMP-V并暴露于磁场中可诱导系统的HPV-E7特异性免疫，抑制肿瘤生长。Dai等人[64]通过聚乙烯亚胺（PEI）作为交联剂，构建了复合物BMs-PEI-siRNA，该系统可将 siRNA高效地导入肿瘤细胞，显著抑制了Hela 细胞的生长。这些结果表明磁小体可作为基因载体诱导全身免疫应答，为基因治疗和基因疫苗接种提供了新的策略。
+
+Cheng 等[65]基于磁小体研制了一种靶向热敏联合给药系统，将DOX、热休克蛋白HSP70、shPIk1和磁小体进行复合，同时具备了化疗、基因治疗和热疗三种功能。体外抗肿瘤实验表明，在交变磁场影响下该复合药物对肿瘤的抑制作用明显优于其他药物。
+
+# 5磁小体用于生物医学成像
+
+在成像方面，纯化后的磁小体结晶度高，生理环境下分散性好，是良好的造影剂材料。有研究证实，磁小体在 $1 7 . 2 \mathrm { T }$ 处T2横向弛豫率是目前商用氧化铁造影剂的4倍[6]。同时荧光融合磁小体除了可用于核磁共振成像（MRI)，还可用于近红外荧光(NIRF)成像[67,68]。
+
+Tang 等[69]利用细胞膜红色荧光探针（DiI）对趋磁细菌 MSR-1的磁小体进行了标记，并通过荧光成像系统对小鼠的肝、胃、肠、肺和脾进行了成像。Boucher等[70]将RGD修饰后的磁小体通过尾静脉注射进入载有胶质母细胞瘤小鼠体内，2 小时内磁小体快速在肿瘤区域聚集，通过MRI图像观察到肿瘤部位的影像增强，验证了生物集成制备MRI分子影像探针的可行性。Schwarz 等[71]发现磁小体可以用来标记造血干细胞和树状突细胞，并可通过MRI成像对摄取磁小体的细胞进行追踪。Benoit等[72]直接将低磁性的AMB-1趋磁细菌通过 $^ { 6 4 } \mathrm { C u }$ 标记后静脉注射到荷瘤小鼠体内，正电子发射断层成像（PET）在注射 $^ { 4 \mathrm { h } }$ 后，AMB-1开始聚集于肿瘤区域而其它器官含量减少。同时趋磁细菌内含有磁小体，可以增强磁共振T1加权成像效果。Xiang 等[73]通过P75 肽修饰磁小体颗粒使其对 EGFR和 HER2具有靶向能力。实验表明修饰后的磁小体主要聚集在荷瘤小鼠的肿瘤区域而在肝、肾等器官中含量很低，极大增强了MRI对肿瘤区域的成像效果，为MRI跟踪诊断癌症提供了潜在的工具。
+
+# 6磁小体用于生物分离
+
+磁小体具有较大的比表面积和较高的磁化强度，并且表面生物膜存在大量基团容易修饰，因此被广泛用于蛋白质的分离、病原菌的浓缩和纯化等领域[74,75]。
+
+Huang 等[7]将磁小体用于快速富集和测定磷酸肽。磁小体可以在不做修饰的情况下将 $\mathrm { F e } ^ { 3 + }$ 和 $Z \mathbf { r } ^ { 4 + }$ 固定在膜上，通过磷酸基团与正电荷金属离子相结合来富集磷酸肽。同时磁小体还可以直接通过和磷酸肽的相互作用，从α酪蛋白消化中单独富集一种磷酸肽，为纯化磷酸肽提供了新的途径。Waker 等人[77]通过在磁小体上修饰抗体，利用免疫PCR技术来检测抗原。该方法对乙型肝炎表面抗原$\mathrm { ( H B s A g ) }$ 的检出限为 $3 2 0 ~ \mathrm { p g / m L }$ ，比通过酶联免疫吸附测定的精度提高了约100倍。
+
+Li等[78]构建了磁小体-多抗复合物，该复合物能够特异性捕获沙门菌并且检出灵敏度、检测用时均优于普遍使用的方法。Xu等人[79]构建了一种重组磁螺菌，通过将功能基因与磁小体膜蛋白基因融合，使磁小体功能化，每毫克可捕获 $1 \times$ $1 0 ^ { 7 }$ 个副溶血性弧菌。
+
+# 7总结与展望
+
+近年来，有各种纳米材料被开发应用于生物医学领域当中，磁小体作为生物矿化的磁性纳米颗粒与人工合成颗粒相比具有颗粒大小分布均匀、组成成分单一、有生物膜包被等优点，被广泛应用于诊断、治疗、检测等领域的研究应用当中。尽管磁小体具有诸多优点，但其研究涉及诸多领域，学科跨度大，目前仍有一些问题需要解决。1、如何进一步提高磁小体产量达到工业水平。可实现磁小体工业生产是磁小体走向实际应用的前提。工业生产方式和实验室研究存在着较大差距，需要根据实验室已有的趋磁细菌培养经验来研制工业生产设备，探索工业培养条件。2、进一步研究磁小体的安全性。生物医用材料在应用前需要对其生物安全性进行大量的实验验证，目前已有一些文献报道磁小体的低毒性，但仍需要对其长期毒性等指标进行全面评价。3、强化磁小体的功能性。通过对磁小体膜修饰等方法使磁小体获得更好的功能，如提高分散性、延长在体内的存留时间等。
+
+可以相信，随着研究的深入，磁小体将在不久的将来走向实际应用，最终造福于人类。
+
+参考文献   
+[1] SAWDON A，WEYDEMEYER E，PENG C A. Antitumor Therapy Using Nanomaterial-Mediated Thermolysis [J]. Journal of Biomedical Nanotechnology, 2014, 10(9): 1894-917.   
+[2] WANG P, MAO H. The Application of Nanomaterials in Biomedical Detection [J]. China Biotechnology, 2011, (9): 88-95.   
+[3] SHARMA H S, MENON P K, LAFUENTE J V, et al. The role of functionalized magnetic iron oxide nanoparticles in the central nervous system injury and repair: new potentials for neuroprotection with Cerebrolysin therapy [J]. J Nanosci Nanotechnol, 2014, 14(1): 577-95.   
+[4] MOU X, ALI Z, LI S, et al. Applications of Magnetic Nanoparticles in Targeted Drug Delivery System [J]. J Nanosci Nanotechnol, 2015, 15(1): 54-62.   
+[5] LIN M, HUANG J, SHA M. Recent advances in nanosized Mn-Zn ferrite magnetic fluid hyperthermia for cancer treatment [J]. J Nanosci Nanotechnol, 2014, 14(1): 792-802.   
+[6] ALPHANDERY E. Applications of magnetosomes synthesized by magnetotactic bacteria in medicine [J]. Front Bioeng Biotechnol, 2014, 2(5).   
+[7] YAN L, ZHANG S, CHEN P, et al. Magnetotactic bacteria, magnetosomes and their application [J]. Microbiol Res,2012, 167(9): 507-19.   
+[8] BLAKEMORE R. Magnetotactic Bacteria [J]. Science, 1975,190(4212): 377-9.   
+[9] JOZEFCZAK A, LESZCZYNSKI B, SKUMIEL A, et al. A comparison between acoustic properties and heat effects in biogenic (magnetosomes） and abiotic magnetite nanoparticle suspensions [J]. J Magn Magn Mater, 2016, 407: 92-100.   
+[10]ALPHANDéRY E. Applications of magnetosomes synthesized by magnetotactic bacteria in medicine [J]. Frontiers in Bioengineering & Biotechnology,2014, 2(2): 5.   
+[11] BLAKEMORE R P, MARATEA D, WOLFE R S. Isolation and pure culture of a freshwater magnetic spirillum in chemically defined medium [J]. J Bacteriol,
+
+1979,140(2): 720-9.
+
+[12]SIMMONS S L，SIEVERT S M，FRANKEL R B，et al. Spatiotemporal distribution of marine magnetotactic bacteria in a seasonally stratified coastal salt pond [J]. Appl Environ Microbiol, 2004, 70(10): 6230-9.
+
+[13]BLAKEMORE R P, MARATEA D, WOLFE R S. Isolation and pure culture of a freshwater magnetic spirillum in chemically defined medium [J]. J Bacteriol, 1979, 140(2): 720-9.   
+[14] SCHLEIFER K H, SCHULER D, SPRING S, et al. The Genus Magnetospirillum Gen-Nov - Description of Magnetospirillum-Gryphiswaldense Sp-Nov and Transfer of Aquaspirillum-Magnetotacticum to Magnetospirillum-Magnetotacticum Comb-Nov [J]. Syst Appl Microbiol, 1991, 14(4): 379-85.   
+[15]MATSUNAGA T, SAKAGUCHI T, TADOKORO F. Magnetite Formation by a Magnetic Bacterium Capable of Growing Aerobically [J]. Appl Microbiol Biot, 1991, 35(5): 651-5.   
+[16]BAZYLINSKI D A, FRANKEL R B, JANNASCH H W. Anaerobic magnetite production by a marine, magnetotactic bacterium [J]. Nature, 1988, 334(6182): 518-9.   
+[17]FRANKEL R B, BAZYLINSKI D A, JOHNSON M S, et al. Magneto-aerotaxis in marine coccoid bacteria [J]. Biophys J,1997,73(2): 994-1000.   
+[18]ZHU K，PAN H，LI J,et al. Isolation and characterization of a marine magnetotactic spirillum axenic culture QH-2 from an intertidal zone of the China Sea [J]. Res Microbiol, 2010, 161(4): 276-83.   
+[19]BAZYLINSKI D A，FRANKEL R B，HEYWOOD B R,et al. Controlled Biomineralization of Magnetite (Fe3o4) and Greigite (Fe3s4) in a Magnetotactic Bacterium [J]. Appl Environ Microb, 1995, 61(9): 3232-9.   
+[20]JACOB J J, SUTHINDHIRAN K. Magnetotactic bacteria and magnetosomes Scope and challenges [J]. Mat Sci Eng C-Mater, 2016, 68: 919-28.   
+[21]BAZYLINSKI D A, FRANKEL R B. Magnetosome formation in prokaryotes [J]. Nat Rev Microbiol, 2004, 2(3): 217-30.
+
+[22]ARAT6, SZaNYI B, FLIES Z,et al. Crystal-size and shape distributions of magnetite from uncultured magnetotactic bacteria as a potential biomarker [J]. American Mineralogist, 2005, 90(8-9): 1233-40.
+
+[23]PAN Y, DENG C, LIU Q,et al. Biomineralization and magnetism of bacterial magnetosomes [J]. Chinese Science Bulletin, 2004, 49(24): 2563-8.   
+[24]JOGLER C， SCHuLER D. Genomics，Genetics， and Cell Biologyof Magnetosome Formation - Annual Review of Microbiology, 63(1):501 [J].   
+[25]LOWER B H， BAZYLINSKI D A. The bacterial magnetosome: a unique prokaryotic organelle[J]. J Mol Microbiol Biotechnol, 2013, 23(1-2): 63-80.   
+[26]TANAKA M, OKAMURA Y, ARAKAKI A， et al. Origin of magnetosome membrane: proteomic analysis of magnetosome membrane and comparison with cytoplasmic membrane [J]. Proteomics, 2010, 6(19): 5234-47.   
+[27]GRüNBERG K，MüLLER E C,OTTO A,et al. Biochemical and Proteomic Analysis of the Magnetosome Membrane in Magnetospirillum gryphiswaldense [J]. Applied & Environmental Microbiology, 2004, 70(2): 1040.   
+[28]MATSUNAGA T, OKAMURA Y， FUKUDA Y, et al. Complete Genome SequenceoftheFacultativeAnaerobicMagnetotacticBacterium Magnetospirillum sp. strain AMB-1 [J]. Dna Research, 2005,12(3): 157-66.   
+[29]GUO F, LIU Y, CHEN Y, et al. A novel rapid and continuous procedure for large-scalepurificationofmagnetosomesfromMagnetospirillum gryphiswaldense [J]. Applied Microbiology & Biotechnology， 2011，90(4): 1277-83.   
+[30]LIU Y, LI G R, GUO F F, et al. Large-scale production of magnetosomes by chemostat culture of Magnetospirillum gryphiswaldense at high cell density [J]. Microbial Cell Factories,9,1(2010-12-12),2010, 9(1): 99.   
+[31]MARTEL S, TREMBLAY C C, NGAKENG S, et al. Controlled manipulation and actuation of micro-objects with magnetotactic bacteria [J]. Applied Physics Letters,2006,89(23): 233904-3.   
+[32]MARTEL S,MOHAMMADI M. Using a swarm of self-propelled natural microrobotsin the form of flagellated bacteria to perform complex
+
+micro-assembly tasks,F,2010[C]. IEEE.
+
+[33]FELFOUL O, MOHAMMADI M, TAHERKHANI S, et al. Magneto-aerotactic bacteria deliver drug-containing nanoliposomes to tumour hypoxic regions [J]. Nat Nanotechnol, 2016, 11(11): 941-7.   
+[34]CHEN C Y, CHEN C F, YI Y, et al. Construction of a microrobot system using magnetotactic bacteria for the separation of Staphylococcus aureus [J]. Biomed Microdevices,2014, 16(5): 761-70.   
+[35]CHEN C Y, CHEN L J, WANG P P, et al. Magnetically-induced elimination of Staphylococcus aureus by magnetotactic bacteria under a swing magnetic field [J]. Nanomed-Nanotechnol, 2017, 13(2): 363-70.   
+[36]CHEN C, CHEN L, YI Y, et al. Evaluation of the anti- Staphylococcus aureus activity of magnetotactic bacteria-mediated magnetic hyperthermia [J]. Applied & Environmental Microbiology,2016,82(7): AEM.04103-15.   
+[37]GOBBO O L, SJAASTAD K, RADOMSKI M W, et al. Magnetic Nanoparticles in Cancer Theranostics [J]. Theranostics,2015,5(11): 1249-63.   
+[38]SUNG B， SHAFFER S， SITTEK M， et al. Alternating Magnetic Field-Responsive Hybrid Gelatin Microgels for Controlled Drug Release [J]. Jove-J Vis Exp,2016, (108).   
+[39]TIMKO M, DZAROVA A, KOVAC J, et al. Magnetic properties and heating effect in bacterial magnetic nanoparticles [J]. Journal of Magnetism & Magnetic Materials, 2009, 321(10): 1521-4.   
+[40]MARTINEZ-BOUBETA C， SIMEONIDIS K, MAKRIDIS A， et al. Learning from nature to improve the heat generation of iron-oxide nanoparticles for magnetic hyperthermia applications [J]. Sci Rep, 2013, 3(1652).   
+[41]CHEN C, MA Q, JIANG W, et al. Phototaxis in the magnetotactic bacterium Magnetospirillum magneticum strain AMB-1 is independent of magnetic fields [J]. Applied Microbiology & Biotechnology, 2011, 90(1): 269-75.   
+[42]TIMKO M, MOLCAN M, HASHIM A, et al. Hyperthermic Effect in Suspension of Magnetosomes Prepared by Various Methods [J]. IEEE Transactions on Magnetics, 2013, 49(1): 250-4.
+
+[43]LE FEVRE R,DURAND-DUBIEF M,CHEBBI I,et al.Enhanced antitumor efficacy of biocompatible magnetosomes for the magnetic hyperthermia treatment of glioblastoma [J]. Theranostics, 2017, 7(18): 4618-31.
+
+[44]ALPHANDERY E, CARVALLO C, MENGUY N, et al. Chains of Cobalt Doped Magnetosomes Extracted from AMB-1 Magnetotactic Bacteria for Application in Alternative Magnetic Field Cancer Therapy [J]. J Phys Chem C, 2011, 115(24): 11920-4.   
+[45]ALPHANDERY E， FAURE S， SEKSEK O,et al. Chains of magnetosomes extracted from AMB-1 magnetotactic bacteria for application in alternative magnetic field cancer therapy [J]. Acs Nano, 2011, 5(8): 6279-96.   
+[46]ALPHANDERY E, FAURE S,RAISON L, et al. Heat Production by Bacterial Magnetosomes Exposed to an Oscillating Magnetic Field [J]. J Phys Chem C, 2011, 115(1): 18-22.   
+[47]DIKOMEY E, FRANZKE J. Effect of Heat on Induction and Repair of DNA Strand Breaks in X-Irradiated Cho Cells [J]. Int J Radiat Biol, 1992,61(2): 221-33.   
+[48]MAIER-HAUFF K，ROTHE R，R，GNEVECKOW U，et al. Intracranial thermotherapy using magnetic nanoparticles combined with external beam radiotherapy: results of a feasibility study on patients with glioblastoma multiforme [J]. J Neurooncol, 2007,81(1): 53-60.   
+[49]ALPHANDERY E，GUYOT F, CHEBBI I. Preparation of chainsof magnetosomes， isolated from Magnetospirillum magneticum strain AMB-1 magnetotactic bacteria, yielding efficient treatment of tumors using magnetic hyperthermia [J]. Int J Pharm,2012, 434(1-2): 444-52.   
+[50]ALPHANDERY E, IDBAIH A,ADAM C, et al. Chains of magnetosomes with controlled endotoxin release and partial tumor occupation induce full destruction of intracranial U87-Luc glioma in mice under the application of an alternating magnetic field [J]. J Control Release, 2017,262: 259-72.   
+[51] ALPHANDERY E, IDBAIH A, ADAM C, et al. Development of non-pyrogenic magnetosome minerals coated with poly-l-lysine leading to full disappearance of
+
+intracranial U87-Luc glioblastoma in $100 \%$ of treated mice using magnetic hyperthermia[J].Biomaterials,2017, 141: 210-22.
+
+[52]YANG K, YANG G B, CHEN L,et al. FeS nanoplates as a multifunctional nano-theranostic for magnetic resonance imaging guided photothermal therapy [J]. Biomaterials, 2015, 38: 1-9.   
+[53]CHU M Q, SHAO Y X, PENG J L,et al. Near-infrared laser light mediated cancer therapy by photothermal effect of Fe3O4 magnetic nanoparticles [J]. Biomaterials,2013, 34(16): 4078-88.   
+[54]SHEN S，WANG S, ZHENG R,et al. Magnetic nanoparticle clusters for photothermal therapy with near-infrared irradiation [J]. Biomaterials, 2015,39: 67-74.   
+[55]CHEN C F, WANG S H, LI L L,et al. Bacterial magnetic nanoparticles for photothermal therapy of cancer under the guidance of MRI [J]. Biomaterials, 2016,104: 352-60.   
+[56]PLAN SANGNIER A，PREVERAL S,CURCIO A，et al. Targeted thermal therapywithgeneticallyengineeredmagnetitemagnetosomes $@$ RGD: Photothermia is far more efficient than magnetic hyperthermia [J]. J Control Release,2018,279: 271-81.   
+[57]REDDY L H, ARIAS J L, NICOLAS J, et al. Magnetic Nanoparticles: Design and Characterization， Toxicity and Biocompatibility， Pharmaceuticaland Biomedical Applications [J]. Chemical Reviews, 2012, 112(11): 5818-78.   
+[58]CHEN C F, WANG P P, LI L L. Applications of Bacterial Magnetic Nanoparticles in Nanobiotechnology [J]. JNanosci Nanotechno, 2016, 16(3): 2164-71.   
+[59]XIANG L, WANG B, JIN H, et al. Bacterial magnetic particles (BMPs) - PEI as a novel and efficient non - viral gene delivery system [J]. Journal of Gene Medicine, 2010, 9(8): 679-90.   
+[60]SUN J B, DUAN J H, DAI S L, et al. Preparation and Anti-Tumor Efficiency EvaluationofDoxorubicin-Loaded BacterialMagnetosomes:Magnetic Nanoparticles as Drug Carriers Isolated From Magnetospirillum gryphiswaldense [J]. Biotechnol Bioeng, 2008,101(6): 1313-20.   
+[61]SUN JB, DUAN JH, DAI $\mathrm { ~ S ~ L ~ }$ ， et al. In vitro and in vivo antitumor effects of doxorubicin loaded with bacterial magnetosomes (DBMs） on H22 cells: The magnetic bio-nanoparticles as drug carriers [J]. Cancer Lett， 2007, 258(1): 109-17.   
+[62]GUO L，HUANG J, ZHENG L M. Control generating of bacterial magnetic nanoparticle-doxorubicinconjugatesbypoly-L-glutamicacidsurface modification [J]. Nanotechnology, 2011, 22(17).   
+[63]TANG Y S, WANG D, ZHOU C, et al. Bacterial magnetic particles as a novel and efficient gene vaccine delivery system [J]. Gene Ther, 2012,19(12): 1187-95.   
+[64]DAI Q L,LONG R M, WANG S B, et al. Bacterial magnetosomes as an eficient gene delivery platform for cancer theranostics [J]. Microb Cell Fact, 2017,16.   
+[65]CHENG L, KE Y Q, YU S S, et al. Co-delivery of doxorubicin and recombinant plasmid pHSP70-Plk1-shRNA by bacterial magnetosomes for osteosarcoma therapy [J]. Int J Nanomed, 2016,11: 5277-86.   
+[66]MERIAUX S,BOUCHER M，MARTY B，et al. Magnetosomes， Biogenic Magnetic Nanomaterials for Brain Molecular Imaging with 17.2 T MRI Scanner [J]. Adv Healthc Mater,2015,4(7): 1076-83.   
+[67]FAIVRE D, SCHULER D. Magnetotactic Bacteria and Magnetosomes [J] Chemical Reviews, 2008,108(11): 4875-98.   
+[68]MAHMOUDI M, TACHIBANA A，GOLDSTONE A B,et al. Novel MRI Contrast Agent from Magnetotactic Bacteria Enables In Vivo Tracking of iPSC-derived Cardiomyocytes [J]. Sci Rep-Uk, 2016, 6.   
+[69]TANG T, ZHANG L，GAO R，et al. Fluorescence imaging and targeted distribution of bacterial magnetic particles in nude mice [J].Appl Microbiol Biotechnol, 2012, 94(2): 495-503.   
+[70]BOUCHER M，GEFFROY F， PREVERAL S，et al. Genetically tailored magnetosomes used as MRl probe for molecular imaging of brain tumor [J]. Biomaterials, 2017, 121: 167-78.   
+[71]SCHWARZ S, FERNANDES F, SANROMAN L, et al. Synthetic and biogenic magnetite nanoparticles for tracking of stem cells and dendritic cels [J]. J Magn Magn Mater, 2009, 321(10): 1533-8.   
+[72]BENOIT M R,MAYER D, BARAK Y, et al. Visualizing implanted tumors in mice with magnetic resonance imaging using magnetotactic bacteria [J]. Clin Cancer Res, 2009,15(16): 5170-7.   
+[73]XIANG Z C, YANG X L, XU J J, et al. Tumor detection using magnetosome nanoparticles functionalized with a newly screened EGFR/HER2 targeting peptide [J]. Biomaterials, 2017, 115: 53-64.   
+[74]AIHUA L I, TANG T, ZHANG H, et al. Modification of Bacterial Magnetosomes and Application of Magnetosome-Antibody Complex in Pathogen Detection [J]. Acta Biophysica Sinica, 2010, 26(8): 680-90.   
+[75]PENG Z, LING M, NING Y, et al. Rapid fluorescent detection of Escherichia coli K88 based on DNA aptamer library as direct and specific reporter combined with immuno-magnetic separation [J]. Journal of Fluorescence, 2014, 24(4): 1159-68.   
+[76]HUANG J,GUO L, ZHENG L M. Rapid enrichment and determination of phosphopeptides using bacterial magnetic particles via both strong and weak interactions [J]. Analyst, 2010,135(3): 559-63.   
+[77] WACKER R, CEYHAN B, ALHORN P, et al. Magneto Immuno-PCR: A novel immunoassay based on biogenic magnetosome nanoparticles [J]. Biochem Biph Res Co, 2007, 357(2): 391-6.   
+[78]LI A H, ZHANG H Y, ZHANG X, et al. Rapid separation and immunoassay for low levels of Salmonella in foods using magnetosome-antibody complex and real-time fluorescence quantitative PCR [J]. J Sep Sci, 2010, 33(21): 3437-43.   
+[79]XU J, HU JY, LIU L Z, et al. Surface expression of protein A on magnetosomes and capture of pathogenic bacteria by magnetosome/antibody complexes [J]. Front Microbiol, 2014, 5.

@@ -1,0 +1,840 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201612012472 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "包蕊,刘峰,张建平,段颖琳,赵帅，严晓亚,刘英.基于多目标线性规划的甲积峪小流域生态系统服务权衡优化.生态学报,2018,38（3）:812-828. BaoR,LiuF,gJanYZYaXLiuMectiveearrgrabasedradeofdtizatiof services in Jiajiyusmall watershed in the Loess Plateau,China.Acta Ecologica Sinica,2O18,38(3）:812-828. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于多目标线性规划的甲积峪小流域生态系统服务权衡优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "包蕊}，刘峰}，\\*，张建平²，段颖琳'，赵帅}，严晓亚³，刘英4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西南大学资源环境学院，重庆400715  \n2 甘肃省平凉市崆峒区水土保持局,平凉744000  \n3兰州职业技术学院，兰州730070  \n4重庆市市政环卫监测中心，重庆401121",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;黄土高原是我国水土流失最严重的地区之一,区域生态系统服务退化。小流域是水土流失的主要发生地,在提升水土保持服务时如何权衡各类生态系统服务,是当前生态系统服务管理的重要内容。选取黄土高原典型小流域——甲积峪,以 2012年为基准年,2022年为规划目标年,基于统计年鉴和调查数据,采用市场价值法、影子价格法、影子工程法、替代成本法和机会成本法对各土地利用类型的生态系统服务价值进行估算;采用多目标线性规划方法,将生态系统服务分为供给服务、水土保持服务与其他服务,以三者价值作为权衡子目标,生态系统服务总价值作为总目标构造目标函数,依据土地面积、粮油保障和各土地利用类型对坡度的适宜性,利用35个变量构造了17个约束方程,通过调整甲积峪土地利用类型实现小流域生态系统服务的权衡优化。结果表明,甲积峪生态系统服务价值主要受占地比例较大且生态系统服务价值较低的坡耕地和荒草地制约。权衡优化后,坡耕地和荒草地主要调整为生态系统服务价值较高的乔木林和梯田,土地利用结构得到明显改善。生态系统服务总价值增幅为 $9 . 2 3 \\%$ ,供给服务、水土保持服务与其他服务价值增幅分别为 $6 . 2 4 \\%$ 、 $9 . 8 1 \\%$ 和 $1 7 . 3 5 \\%$ 。三者增加量分别占生态系统服务总价值增加量的 $2 5 . 9 6 \\%$ ， $. 5 4 . 4 2 \\%$ 和 $1 9 . 6 2 \\%$ 。与仅以供给服务、水土保持服务、其他服务或总服务价值为目标函数的优化结果相比,3个子目标的优化结果更加协调，且三大效益均明显增加。空间分布上，不同生态功能区的各生态系统服务价值增长率存在明显差异,上游其他服务价值增长率最高,中游水土保持服务价值增长率最高，下游供给服务和总服务价值增长率最高,与甲积峪上中下游生态功能区定位一致。充分考虑了土地利用适宜性,在保证供给服务的前提下,突出了水土保持服务并优化了其他服务,各综合治理效益评价指标均得到提高,符合黄土高原小流域的实际情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态系统服务权衡;小流域;黄土高原;多目标线性规划;土地利用",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-objective linear programming-based trade-off and optimization of the ecosystem services in Jiajiyu small watershed in the Loess Plateau， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BAO Rui†，LIU Feng1,\\*， ZHANG Jianping²,DUAN Yinglin'， ZHAO Shuai'，YAN Xiaoya³,LIU Ying   \n1 College of Resources and Environment，Southwest University，Chongqing 40O715，China   \n2 Soil Conservation Service of Pingliang Kongtong District，Pingliang 744Ooo,China   \n3 Lanzhou Vocational Technical Collge,Lanzhou 73oo7O,China   \n4 Chongqing Municipal & Environmental Sanitation Monitoring Department，Chongqing 401121,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The LoessPlateau isoneof the most serious soil-erosion areas withecosystem service degradation in China.Smal watershedsare themainplaceof soilerosion；therefore，itisimportanttoevaluatevariousecosystemserviceswhen promotingtheir waterandsoilconservation.This paper took Jiajiyu,a typicalsmallwatershedintheLoessPlateau,as the studyarea using2O12asthebase yearand2O22asthetargetyear.Basedonthe StatisticalYearbook and investigation data, the ecosystem service values of different land-use types were evaluated bythe methods of market value，shadow price, shadow project，alternative cost，and opportunitycost.The ecosystemservices were evaluated and optimized based on the adjustment of land-usestructurebymulti-objective linear programming throughadjusting land-usetypes.Thesupply service,water and soil conservation service，and other services values were takenas the trade-off sub-objectives and he total ecosystem service valueas final objective，with17 constraint equationsdeveloped by35 decision variables.The constraint equations included theland-area control，grainand oil security，and suitabilityof land-use types on the slope. Theresults showed that the ecosystem service values of slope farmlands and waste grasslands were much lower than most of otherland-use types，andboth of them took arelatively higher proportionofsmall watershedarea，which restricted he ecosystem service valuesof Jiajiyu.The land-use structure wasobviously improved bythe trade-offand optimizationof ecosystemservices，with mostof the slope farmlandsand waste grassands adjusted to arborforest or terrace，both of which have much higher ecosystem service values. The total ecosystem service value increased by $9 . 2 3 \\%$ ，and the value of supply service，water and soil conservation service，and other services also increased $\\mathrm { b y ~ 6 . 2 4 \\% , 9 . 8 1 \\% }$ ，and $1 7 . 3 5 \\%$ ， respectively.Increases inthe threesub-objects of ecosystemservice values were dominated bythetotal increase in ecosystem service values by $2 5 . 9 6 \\%$ ， $5 4 . 4 2 \\%$ ，and $1 9 . 6 2 \\%$ ，respectively. Compared with the optimization results，which only took supply service，waterand soil conservation service，otherservices ortotal ecosystem servicevalues as the objective function，theoptimizationresultsof thethreeobjectivesub-functions were more cordinated，andallthree benefits increased significantly.Significant diferences wereobserved in thegrowth ratesofecosystem servicevalues in different reaches，withthe highest growth rates observed in the other service values of upper reaches，water and soil conservation service values of midle reaches，and suppy service and total service values of lower reaches，which were confomed to the ecologicalorientationof upper，middle，andlowerreachesof Jiajiyu,respectively.Inthis paper,the suitabilityoflanduse was fullconsidered.Under the guarantee ofsuplyservice,the waterandsoil conservation service was highlighted,other ecosystem services were optimized，and the evaluation indices ofcomprehensive management were improvedatthe same time. Our results were consistent with the actual conditions of the small watershed in the Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: ecosystem service trade-of；small watered; the Loess Plateau; multi-objective linear programming；land use N ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济与人口的快速发展及其对生态系统服务的过度需求，全球生态系统有 $6 0 \\%$ 的功能项正在退化[1],影响了人类的生存发展和区域的生态安全,其主要原因之一是缺乏生态系统服务的有效管理[2]。由于生态系统类型的多样化及其相互关系的复杂性,过于强调某项生态系统服务时,可能导致其他服务的降低[3-4]。因此,权衡和协调各生态系统服务,减轻人类对自然环境的干扰,促进生态系统功能恢复,是提高生态系统服务管理水平的有效手段之一[5-7]。在生态系统服务权衡的方法中,阈值分析法[8]可分析不同生态系统类型之间生态系统服务价值的权衡关系[9,但该方法本身存在不确定性,转换自然资本为经济资本的过程较为片面静态;极值分析法假设两个或多个存在冲突的对象存在线性关系,通过设置不同系数值使之求和最大化,但目前考虑因素有限,主要应用于水资源管理[10];InVEST模型分析法可预测不同情况下各生态系统服务的潜在变化,以减少其与生物多样性之间的冲突[1],适用于大尺度研究;多目标分析法[12]可将复杂的冲突简化,从而达到经济、生态、环境及社会多方平衡的目标,适用于复杂的系统分析[6]。以上方法都可归结为土地利用类型的改造与调整[13-14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "流域作为社会、经济与自然相互作用强烈的区域,水土流失、生态系统退化等问题突出[15]。实现流域生态系统能流、物流良性循环，自然资源可持续利用,从而达到社会经济可持续发展的目的是流域生态系统管理的目标[16]。我国小流域水土流失综合治理模式主要以治理试验观测为主,随着实地治理经验的积累[17-19],形成了一系列试验示范成果与治理模式[20-21]。但这种模式存在治理周期长、投人较大和措施推广性较差等局限性[22]。过程模拟与情景分析可权衡并预测小流域未来状态,计算各类治理措施下的经济、生态与社会效益[23-24],能快速经济地为制定不确定性的政策提供重要参考[25]。此外,从生态系统服务的角度优化小流域治理方案已成为当前的研究热点[26]。主要集中在分析人类活动(治理措施、农业措施和土地利用类型变化等)对流域生态系统服务的影响,权衡生态与经济的关系[8,27-29]等方面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄土高原丘壑区高低起伏,沟壑纵横,干旱少雨,地形破碎,水土流失严峻[30],严重制约着农业经济发展与生态系统服务供给。同时,土地资源长期不合理利用进一步导致水土流失日渐严重及土地生产力的下降[31]。甲积峪小流域于 1998—2004 年实施了黄土高原水土保持世行二期贷款项目,2007—2011年又实施了英国赠款小流域治理管理项目[32],水土流失得到了有效的治理。然而,在后续治理中各类生态系统服务的权衡问题逐步突显。据此，本文以甲积峪小流域为研究对象，采用多目标线性规划方法,在生态系统服务价值评估的基础上,设置供给服务、水土保持服务和其他服务3个目标,根据小流域土地利用优化方向和现有治理措施设计规划变量并建立约束方程,通过规划求解实现生态系统服务的权衡优化,为小流域综合治理提供参考依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甲积峪小流域( $1 0 6 ^ { \\circ } 5 7 ^ { \\prime } 0 2 ^ { \\prime \\prime } - 1 0 7 ^ { \\circ } 0 1 ^ { \\prime } 5 9 ^ { \\prime \\prime } \\mathrm { E } , 3 5 ^ { \\circ } 1 4 ^ { \\prime } 1 8 ^ { \\prime \\prime } - 3 5 ^ { \\circ } 1 8 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { N } ) ^ { [ 3 2 ] } .$ 是泾河的一级支流,属黄土高原残塬沟壑区,位于甘肃省平凉市崆峒区东南部（图1）。海拔1382—1785m，面积 $2 8 . 2 \\mathrm { k m } ^ { 2 }$ ,平均气温 $8 . 6 ^ { \\circ } \\mathrm { C }$ ,年降雨量 $5 1 1 \\mathrm { m m }$ ,2012 年总人口7713人,以回民为主。在甘肃省水土保持区划中,该流域属黄土高原沟壑侵蚀区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流域内以农业种植为主,主要农作物为小麦、玉米、胡麻、大豆,少量紫花苜蓿,下游地区有苹果和梨等果树。主要的畜牧养殖为牛、羊和鸡等。土地自然坡度在 $5 ^ { \\circ }$ 以下面积为 $4 5 4 \\mathrm { h m } ^ { 2 }$ ，占 $1 6 . 1 \\%$ $5 ^ { \\circ }$ 一 $1 5 ^ { \\circ }$ 面积",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b88c0d65cf171610891136aa08811a90aed9370c8a220a84214134b30da640f0.jpg",
+        "img_caption": [
+            "图1甲积峪小流域位置与坡度分布",
+            "Fig.1Location and slope distribution of Jiajiyu small watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 1 9 4 \\mathrm { h m } ^ { 2 }$ ，占 $4 2 . 3 \\%$ $1 5 ^ { \\circ }$ 一 $2 5 ^ { \\circ }$ 面积 $7 1 3 \\mathrm { h m } ^ { 2 }$ ，占 $2 5 . 3 \\% ; 2 5 ^ { \\circ } - 3 5 ^ { \\circ }$ 面积 $2 9 6 \\mathrm { { h m } } ^ { 2 }$ ，占 $1 0 . 5 \\%$ $3 5 ^ { \\circ }$ 以上面积 $1 6 3 \\mathrm { h m } ^ { 2 }$ ，占 $5 . 8 \\%$ 。地貌变化大,沟壑纵横,植被稀少,地表为黄土覆盖。由于长期冲刷侵蚀,地貌被分割成塬、梁、峁和台等多级阶状。“V”型沟极为发育，沟壑密度 $1 . 3 4 \\mathrm { k m / k m } ^ { 2 }$ 。多年平均土壤侵蚀模数 $6 6 0 0 \\mathrm { t ~ k m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ,径流模数$6 3 0 0 0 { \\mathrm { m } } ^ { 3 } { \\mathrm { k m } } ^ { - 2 } { \\mathrm { a } } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遥感数据为2012年GeoEye 影像，分辨率为 $0 . 5 \\mathrm { m }$ 。DEM与国际标准分幅地形图来源于国家基础地理信息中心,比例尺为1:5000。遥感影像已经过辐射校正、几何校正等预处理。由于小流域整体为长条形,面积小,采用监督分类和野外检验相结合的方法解译获得各土地利用类型空间分布。粮食单产数据来源于《平凉市崆峒区统计年鉴(2012)》、文献资料及2012年甲积峪居民问卷调查等。 75",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2生态系统服务价值评估方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小流域生态系统服务可分为供给服务（产品供给）、调节服务（固碳释氧、涵养水源、净化环境）、支持服务（保持土壤、维持营养物质循环)和文化服务（休闲旅游和科研教育）[1]。如表1所示,供给服务价值采用市场价值法评估,调节服务和支持服务采用影子价格法、影子工程法、替代成本法和机会成本法评估。由于甲积峪水域和未利用地研究资料较少，结合研究区实际情况,采用谢高地当量表[33]对其生态系统服务进行评估。研究区域无旅游景区，且文化服务价值缺少可靠的计算数据,本文未对其进行评估。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c0dd1e3a856f3c9d09ee31fd7f53521a32fa2bb9ca398ce267bf0ed7046ce95.jpg",
+        "table_caption": [
+            "表1生态系统服务类型及其价值评价指标与方法",
+            "Table1 Types，evaluation indices and methods of ecosystem services "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态系统服务类型 Ecosystem service type</td><td>分类指标 评价指标 Classification index Evaluation index</td><td>价值评价方法 Evaluation method</td></tr><tr><td>供给服务 Supply service</td><td>产品供给 产品产值</td><td>市场价值法</td></tr><tr><td>调节服务 Regulation service</td><td>固碳释氧 调节气体量(O、CO2)</td><td>影子价格法</td></tr><tr><td rowspan=\"3\">净化环境</td><td>涵养水源</td><td>影子工程法</td></tr><tr><td>土壤水分保持量 滞尘量</td><td>替代成本法</td></tr><tr><td>减轻泥沙淤积、减少土地废弃、 保持土壤肥力</td><td>影子价格法、机会成本法</td></tr><tr><td rowspan=\"2\">支持服务 Support service</td><td>保持土壤 维持营养物质循环</td><td></td></tr><tr><td>植物体内氮磷钾养分含量</td><td>影子价格法</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 产品供给 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "产品供给服务价值采用市场价值法评估，市场价格采用2012年当地收购价。主要产品包括玉米、小麦、牧草、仁用杏、苹果、农作物秸秆和活立木(乔木林)。出于水土保持的需要,甲积峪小流域内荒草地和封山育林禁伐禁牧,本文未计算其产品供给服务价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2固碳释氧 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据光合作用方程,按照各类植被净初级生产力计算其固碳释氧量[34]。采用造林成本法计算固碳释氧价值， $\\mathrm { ~ O } _ { 2 }$ 单价按照352.93元/t计算， $\\mathrm { C O } _ { 2 }$ 单价按照260.9元/t计算[35]。乔木林和经济林年净初级生产力分别为2.98[36] $1 . 4 4 5 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 [ 3 7 ] }$ ;果园和封山育林分别采用绿当量换算,折算为乔木林的系数分别为0.47、$0 . 7 3 ^ { [ 3 8 ] }$ ;根据\"英国赠款中国小流域治理管理项目\"监测结果,荒草地年净初级生产力为 $1 . 1 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 [ 3 9 ] }$ ；根据调查结果,人工草地年净初级生产力为 $1 2 . 5 0 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 }$ （按每年刈割3次计）。研究区内粮食主要供当地居民食用,秸秆与人工草用来饲养当地牛羊。农田作物为一年生,人工草地的牧草为10年生,从权衡优化的时间尺度考虑,本文未计算农田固碳释氧价值,人工草地以其地下部生物量进行评估。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 涵养水源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据各水土保持措施的保水率计算其拦蓄径流量,采用影子工程法计算其价值。因缺少裸地径流深监测",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据,参照《平凉市崆峒区甲积峪示范小流域规划报告》中甲积峪多年平均径流深 $6 3 \\mathrm { m m }$ 进行保守估算，各措施保水率取当地经验值。蓄水成本为3.75元/ $\\mathbf { \\dot { m } } ^ { 3 }$ 。计算公式为[40]：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = P \\times H \\times Q\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中,W为保水量 $( \\mathbf { m } ^ { 3 } ) ; P$ 为保水定额或保水率 $( \\% )$ $H$ 为径流深( $\\mathbf { \\dot { m } } \\mathbf { \\dot { m } } ,$ ; $Q$ 为措施面积( $\\left( \\mathrm { h m } ^ { 2 } \\right.$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 净化环境",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究区净化环境服务以滞尘为主,采用替代成本法计算。农田(坡耕地和梯田)滞尘能力为0.95t hm-2$\\mathbf { a } ^ { - 1 [ 4 1 ] }$ ,乔木林滞尘能力为 $1 0 . 1 1 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 [ 4 2 ] }$ ,果园、经济林和封山育林折算为乔木林系数分别为 $0 . 4 7 _ { \\cdot } 0 . 7 3$ 和$0 . 7 3 ^ { [ 3 8 ] }$ ,草地(荒草地和人工草地)滞尘能力为 $0 . 1 2 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 [ 4 3 ] }$ ,滞尘成本为170元/t[44]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 土壤保持",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤保持价值体现在减轻泥沙淤积、减少土地废弃和土壤肥力保持三方面。采用修正后的通用土壤流失方程（Revised Universal Soil Loss Equation,RUSLE）[45]估算潜在土壤侵蚀量与现实土壤侵蚀量,两者之差为土壤保持量。计算公式为： Q",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ A _ { c } } = { A _ { p } } - { A _ { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { _ p } = R \\times K \\times L S\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { r } = R \\times K \\times L S \\times C \\times P\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $A _ { c }$ 为单位面积土壤保持量( $\\mathrm { t } / \\mathrm { h m } ^ { 2 }$ ）； $\\ v { A } _ { p }$ 为单位面积潜在土壤侵蚀量 $( { \\mathrm { t } } / { \\mathrm { h m } ^ { 2 } } )  \\smash { ; \\tilde { A } _ { r } }$ 为单位面积实际土壤侵蚀量 $( { \\mathrm { \\Omega } } \\ V { \\mathrm { h m } } ^ { 2 } )$ ; $R$ 为降雨侵蚀力因子( $\\mathrm { ^ { ' } M J ~ m m ~ h m ^ { - 2 } ~ h ^ { - 1 } }$ ） $K$ 为土壤可蚀性因子 $( \\operatorname { t } \\ h \\ \\mathbf { M } \\operatorname { J } ^ { - 1 } \\ \\operatorname { m m } ^ { - 1 } \\cdot$ ; $L S$ 为坡长、坡度因子(无量纲); $C$ 为植被覆盖因子(无量纲); $P$ 为水土保持措施因子(无量纲）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据相关研究成果,获取各土地利用类型的 $\\widehat { C , P }$ 因子[46-47]；计算得出 $R$ 为 $5 1 . 5 8 \\mathrm { M J ~ m m ~ h m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } ; K$ 为$0 . 4 7 0 \\mathrm { t } \\mathrm { ~ h ~ M J ^ { - 1 } ~ m m } ^ { - 1 [ 4 6 ] }$ ;通过GIS 软件水文分析模块获得 $L S$ 因子图层。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 1 } \\sqrt { \\mp 2 4 \\% \\times A _ { c } \\times P }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $E _ { 1 }$ 为单位面积减轻泥沙淤积价值（元/hm²）; $2 4 \\%$ 为泥沙淤积在河道占总流失量的百分比； $A _ { c }$ 为单位面积的土壤保持量( $\\cdot \\sqrt { \\mathrm { h m } ^ { 2 } }$ ）； $P$ 为减沙成本 $( 1 8 \\frac { 1 } { \\pi } / \\mathrm { t } )$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 2 } = A _ { c } \\times B / ( 1 0 0 0 0 \\rho \\times D )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $E _ { 2 }$ 为单位面积减少土地废弃价值( $\\overrightarrow { \\pi } / \\mathrm { { h m } } ^ { 2 }$ ）； $. A _ { c }$ 为单位面积土壤保持量 $\\cdot \\sqrt { \\mathrm { h m } ^ { 2 } }$ ）； $B$ 为单位面积土地的机会成本（元/ $\\mathrm { { h m } } ^ { 2 }$ ）： $_ { ; \\rho }$ 为土壤容重 $( \\min ^ { 3 } ) { : } D$ 为土层厚度 $( 0 . 5 \\mathrm { m } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 3 } = A _ { c } \\times P \\times R\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $E _ { 3 }$ 为单位面积保持土壤营养物质价值( $\\overrightarrow { \\pi } / \\mathrm { h m } ^ { 2 }$ ） $A _ { c }$ 为单位面积土壤保持量( $\\cdot / \\mathrm { h m } ^ { 2 }$ ； $P$ 为养分价格（元/t）； $R$ 为养分含量（g/kg)。氮、磷、钾养分价格采用我国化肥平均价2549元/t[44],有机质价格为320元/t[48]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.6 营养物质循环 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据各植被年净增长量( $\\mathrm { \\ g C } / \\mathrm { m } ^ { 2 }$ )和生态系统营养物质分配率,计算植物体内氮磷钾积累量，采用影子价格法计算其价值。农田年净增长量由经济产量、经济系数和含水量推算[49-52]。人工草地种植年限较长,主要以地上部生长与还田方式维持营养物质循环,本文以其地上部年净增长量的氮磷钾含量进行计算。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3多目标线性规划模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1参数选取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示,甲积峪较严重的土壤侵蚀主要发生在上游与中游,这与其坡度和土地利用类型的空间分布特征一致。小流域上游 $\\angle 1 5 ^ { \\circ } , 1 5 ^ { \\circ } - 2 5 ^ { \\circ }$ 和 $> 2 5 ^ { \\circ }$ 面积分别占上游总面积的 $2 3 . 0 9 \\%$ ） $5 8 . 1 6 \\%$ 和 $1 8 . 7 5 \\%$ ,均以封山育林为主，坡耕地和荒草地面积分别占上游总面积的 $8 . 7 1 \\%$ 和 $9 . 2 4 \\%$ 。中游 $< 1 5 ^ { \\circ }$ 和 $1 5 ^ { \\circ } - 2 5 ^ { \\circ }$ 面积分别占中游总面积的 $3 2 . 9 3 \\%$ 和 $4 6 . 5 8 \\%$ ,以梯田和乔木林为主， $> 2 5 ^ { \\circ }$ 面积占中游总面积的 $2 0 . 4 9 \\%$ ,以梯田和封山育林为主，坡耕地和荒草地面积分别占中游总面积的 $7 . 3 8 \\%$ 和 $7 . 9 2 \\%$ 。下游 $< 1 5 ^ { \\circ }$ 和 $1 5 ^ { \\circ } - 2 5 ^ { \\circ }$ 面积分别占下游总面积的 $56 . 4 4 \\%$ 和 $3 9 . 3 9 \\%$ ,以梯田、建设用地和经济林为主， $> 2 5 ^ { \\circ }$ 面积占下游总面积的 $4 . 1 7 \\%$ ，以经济林和人工草为主，其中坡耕地和荒草地面积分别占下游总面积的$6 . 8 1 \\%$ 和 $6 . 6 9 \\%$ 。坡度越大，可能导致潜在的土壤侵蚀量越大，同时中下游的坡耕地和荒草地已得到了集中治理,余下的坡耕地和荒草地则主要集中在上游和中游，因此上游和中游土壤侵蚀程度相对较为严重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以甲积峪在治理中形成的上、中、下游生态功能区定位为基础,依据坡度适宜性[53],分析了坡度约束条件下甲积峪土地利用的可优化方向（表2）。以各优化方向对应的土地利用类型面积，作为约束方程中可优化的各类生态系统面积变量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考Costanza 等[54]与谢高地等[33]对生态系统类型的划分与《土地利用现状分类》（GB/T21010—2007），结合研究区土地利用情况与生态系统服务优化目标，将研究区土地利用类型分为耕地、草地、果园、林地、水域、建设用地和未利用地七大类,耕地细分为坡耕地与梯田，草地细分为荒草地与人工草地，林地细分为乔木林、经济林与封山育林。建设用地相关研究资料较少,本文未计算其生态系统服务价值[38]。根据表2的坡度适宜性约束结果,结合区域主要治理措施,进一步分析甲积峪粮油产量需求、人口和规划面积约束。选取以下35个决策变量(表3）,包括各土地利用类型规划后的面积,以及上、中、下游不同坡度区间内土地可调整的面积。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/edbeaef5311062618a7aabfbd7c594fbc8a3b7d2b0319b5f399ec1271e2a256c.jpg",
+        "img_caption": [
+            "图2甲积峪小流域土壤侵蚀程度分布图",
+            "Fig.2Soil erosion degree distribution of Jiajiyu small watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/21a9b5cd73839d62d325bb72640bf42df632dd8257e25ac46c062050abf57c51.jpg",
+        "table_caption": [
+            "表2甲积峪土地利用优化的坡度适宜性约束",
+            "Table 2Constraints of slope suitability of land-use optimization in Jiajiyu "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型 Land-use type</td><td>坡度/。 Slope</td><td>优化后土地利用类型 Land-use type after optimization</td><td>面积/hm² Area</td></tr><tr><td>坡耕地</td><td>上游水源涵养区</td><td>梯田、人工草地、乔木林或封育</td><td>14.92</td></tr><tr><td>Slope farmland</td><td><15 15-25</td><td>梯田、人工草地、乔木林或封育</td><td>37.99</td></tr><tr><td></td><td>>25</td><td>乔木林或封育</td><td>12.72</td></tr><tr><td>中游农业发展区</td><td><15</td><td>梯田、人工草地或经济林</td><td>23.15</td></tr><tr><td></td><td>15-25</td><td>梯田、人工草地或经济林</td><td>75.99</td></tr><tr><td></td><td>>25</td><td>人工草地或乔木林</td><td>20.30</td></tr><tr><td>下游生态经济区</td><td><15</td><td>梯田、果园或经济林</td><td>11.73</td></tr><tr><td></td><td>15-25</td><td>梯田、人工草地或经济林</td><td>15.65</td></tr><tr><td>上游水源涵养区 Waste grassland</td><td>不限</td><td>封育</td><td>69.64</td></tr><tr><td>中游农业发展区</td><td><15</td><td>人工草地或经济林</td><td>52.54</td></tr><tr><td></td><td>15-25</td><td>人工草地、乔木林或经济林</td><td>60.13</td></tr><tr><td></td><td>>25</td><td>乔木林或封育</td><td>15.45</td></tr><tr><td>下游生态经济区</td><td><15</td><td>人工草地或经济林</td><td>2.30</td></tr><tr><td></td><td>15-25</td><td>人工草地或经济林</td><td>24.57</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 规划目标",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于过度强化某类生态系统服务可能导致同一区域其他服务衰减，在生态系统服务优化时需要对不同生态系统服务进行权衡,如供给服务与其他服务的权衡[55]。本文结合研究区水土流失突出的特点,将生态系统供给服务价值、水土保持服务价值和其他服务价值分别设为目标函数 $F _ { 1 } ( X )$ 、 $F _ { 2 } ( X )$ 和 $F _ { 3 } ( X )$ ,则有：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { M a x } F _ { 1 } ( X ) = \\sum V _ { 1 i } \\times X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M a x } \\ F _ { 2 } ( X ) = \\sum \\ V _ { 2 i } \\times X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M a x } \\ F _ { 3 } ( X ) = \\sum \\ V _ { 3 i } \\times X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $V _ { 1 i }$ 为第 $i$ 类土地利用类型的单位面积供给服务价值( $\\overline { { \\mathcal { T } } } \\overline { { \\mathrm { L } } } / \\mathrm { h m } ^ { 2 }$ ）； $V _ { 2 i }$ 为第 $i$ 类土地利用类型的单位面积水土保持服务价值（元 $\\cdot \\mathrm { h m } ^ { 2 }$ ）； $V _ { 3 i }$ 为第 $i$ 类土地利用类型的单位面积其他服务价值( $\\overline { { \\mathcal { K } } } / \\mathrm { h m } ^ { 2 }$ ）； $X _ { i }$ 为第 $i$ 类土地利用类型的面积( $\\mathbf { h m } ^ { 2 } .$ 。 \\~",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a098d124e7ddf9309f14dba506e6c0dc1eca5419c28737c079f82d1eea458bd.jpg",
+        "table_caption": [
+            "表3决策变量设计",
+            "Table 3Design of decision variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量 Variable</td><td>变量说明/hm² Variable declaration</td><td>变量 Variable</td><td>变量说明/hm² Variable declaration</td><td>变量 Variable</td><td>变量说明/hm² Variable declaration</td><td>变量 变量说明/hm² Variable Variable declaration</td></tr><tr><td>X</td><td>上游<15坡改梯</td><td>X11</td><td>中游<15°坡改梯</td><td>X21</td><td>下游15°—25°退耕 还经济林</td><td>X31 中游>25°荒草地封育</td></tr><tr><td>X</td><td>上游<15退耕还草</td><td>X12</td><td>中游<15°退耕还草</td><td>X22</td><td>下 15°-25°坡</td><td>X32 下章<15°荒草地改人</td></tr><tr><td>X</td><td>上游<15°退耕还林</td><td>X13</td><td>中游<15°退耕还林</td><td>X23</td><td>下游 15°—25°退耕 还草</td><td>下游<15°荒草地改经 济林 X33</td></tr><tr><td>X4</td><td>上游<15°坡耕地</td><td>X14</td><td>改游15°-25°坡</td><td>X24</td><td>下1 -25°退耕</td><td>下遊工5°-25°荒草地</td></tr><tr><td>X5</td><td>上游15°—25坡 改梯</td><td>X15</td><td>中游15°—25°退耕 还草</td><td>X25 人工草地</td><td>中游<15°荒草地改</td><td>下游 15°—25°荒草地 改经济林 X35</td></tr><tr><td>X6</td><td>上游 15°—25°退耕 还草</td><td>X16</td><td>中游15°—25°退耕 还林</td><td>经济林 X26</td><td>中游<15°荒草地改</td><td></td></tr><tr><td>X7</td><td>上游15°—25°退耕 还林</td><td>X17</td><td>中游>25°退耕还草</td><td>地改人工草地 X27</td><td>中游 15°—25荒草</td><td></td></tr><tr><td>X</td><td>上游 15°—25°坡耕 地封育</td><td>X18</td><td>中游>25退耕还林</td><td>地改乔木林 X28</td><td>中游 15°—25°荒草</td><td></td></tr><tr><td>X</td><td>上游>25退耕还林</td><td>X19</td><td>下游<15°坡改梯</td><td>X29 地改经济林</td><td>中游 15°—25°荒草</td><td></td></tr><tr><td>X10</td><td>上游>25°坡耕地 封育</td><td>X20</td><td>下游<15°坡耕地改 果园</td><td>乔木林 X30</td><td>中游>25°荒草地改</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对不同生态系统服务价值进行归一化处理,得到 Max $\\because \\boldsymbol { F ^ { \\prime } } _ { 1 } ( \\boldsymbol { X } )$ ） $\\mathrm { M a x } \\ F _ { \\ 2 } ^ { \\prime } ( X )$ 与 $\\operatorname { M a x } F _ { 3 } ^ { \\prime } ( X )$ ,将3个目标函数的权重 $\\lambda _ { 1 } \\ldots \\lambda _ { 2 }$ 和 $\\lambda _ { 3 }$ 进行线性加权求和 $( \\lambda _ { 1 } + \\lambda _ { 2 } + \\lambda _ { 3 } = 1$ ）,3个权重系数均取 $1 / 3$ 。将多目标转换为单目标求解,则有：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M a x } F \\big ( X \\big ) = \\frac { 1 } { 3 } \\times \\mathrm { M a x } F ^ { \\prime } { } _ { 1 } ( X ) + \\frac { 1 } { 3 } \\times \\mathrm { M a x } F ^ { \\prime } { } _ { 2 } ( X ) + \\frac { 1 } { 3 } \\times \\mathrm { M a x } F ^ { \\prime } { } _ { 3 } ( X )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3约束条件",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "粮油产量需求约束。经调查得知,2012 年梯田小麦产量 $2 6 3 2 \\mathrm { k g / h m } ^ { 2 }$ ,小流域内居民以小麦为主食,人均小麦占有量 $1 2 5 . 1 6 \\mathrm { k g / a }$ ,自留种子用粮平均 $1 2 4 . 3 7 \\mathrm { k g / h m } ^ { 2 }$ ;玉米产量 $7 8 0 6 . 0 8 \\mathrm { k g / h m } ^ { 2 }$ ,人均玉米占有量为391.90kg/a,种子由购买获得;人均胡麻油占有量为 $3 0 \\mathrm { { k g / a } }$ ,产量 $1 6 8 3 . 8 2 \\mathrm { k g / h m } ^ { 2 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人口约束。2012 年甲积峪人口7713人,以崆峒区“十二五\"规划中人口自然增长率 $8 \\text{‰}$ 计算,规划期末人口宜控制在 8353人以内。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "面积约束。优化后各土地利用类型增加面积与可调整面积(坡耕地 $2 1 2 . 4 5 \\mathrm { h m } ^ { 2 }$ 荒草地 $2 2 4 . 6 3 \\mathrm { h m } ^ { 2 }$ )相等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据上述粮油产量需求、人口和土地面积约束,结合各土地利用类型调整时对坡度的适宜性约束（表2），设置17个约束方程(表4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4约束方程设置",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce5c83429928b55311b82ba8e73c76b0bcc6fda9c00a3e1b793ba05fe44cdb05.jpg",
+        "table_caption": [
+            "Table 4Design of constraint equations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>约束方程 Constraint equation</td><td>说明 Description</td></tr><tr><td>1</td><td>8353×125.16÷(2632-124.37)= a</td><td>小麦产量需求</td></tr><tr><td>2</td><td>8353×391.90÷7806.08=b</td><td>玉米产量需求</td></tr><tr><td>3</td><td>8353×30÷1683.82=c</td><td>食用油产量需求</td></tr><tr><td>4</td><td>X+X5+X11+X14+X19+X22≥a+b+c-885.70</td><td>农田面积满足规划期末人口需求约束</td></tr><tr><td>5</td><td>X +X+X3+X4=14.92</td><td>上游<15°坡耕地可调整面积</td></tr><tr><td>6</td><td>X5+X6+X+Xg=37.99</td><td>上游15°—25坡耕地可调整面积</td></tr><tr><td>7</td><td>X,+X10 = 12.72</td><td>上游>25°坡耕地可调整面积</td></tr><tr><td>8</td><td>X11 +X12+X13=23.15</td><td>中游<15°坡耕地可调整面积</td></tr><tr><td>9</td><td>X14+X15+X16=75.99</td><td>中游15°—25°坡耕地可调整面积</td></tr><tr><td>10</td><td>X17+X18 =20.30</td><td>中游>25坡耕地可调整面积</td></tr><tr><td>11</td><td>X19+X20+X21=11.73</td><td>下游<15°坡耕地可调整面积</td></tr><tr><td>12</td><td>X22+X23+X24 =15.65</td><td>下游15°—25坡耕地可调整面积</td></tr><tr><td>13</td><td>X25+X26= 52.54</td><td>中游<15°荒草地可调整面积</td></tr><tr><td>14</td><td>X27+X28+X29 =60.13</td><td>中游15°—25°荒草地可调整面积</td></tr><tr><td>15</td><td>X30+X31 = 15.45</td><td>中游>25°荒草地可调整面积</td></tr><tr><td>16</td><td>X32+X33 =2.30</td><td>下游<15°荒草地可调整面积</td></tr><tr><td>17</td><td>X34 +X35= 24.57</td><td>下游15°—25°荒草地可调整面积</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 敏感性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为验证生态系统服务价值系数的准确性,将各土地利用类型的生态系统服务价值系数分别上下调整$5 0 \\%$ ,计算其敏感度（Coefcient Sensibility,CS）,以反映生态系统服务价值对各生态系统服务价值系数的依赖程度,计算公式[56]为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { C S } = \\frac { ( \\mathrm { E S V } _ { j } - \\mathrm { E S V } _ { i } ) / \\mathrm { E S V } _ { i } } { \\{ V C _ { j k } - V C _ { i k } \\} / V C _ { i k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中，CS为生态系统服务价值敏感性指数；ESV，和 $\\mathrm { E S V } _ { j }$ 分别为调整前后的生态系统服务价值(万元)； $V C _ { i k }$ 和 $V C _ { j k }$ 分别为第 $k$ 类土地利用类型调整前后的生态系统服务价值系数（元/ $\\mathrm { { h m } } ^ { 2 }$ )。若 $C S > 1$ ,ESV 对 $V C$ 富有弹性; $C S \\ < \\ 1$ ,ESV 对 $\\boldsymbol { V } \\boldsymbol { C }$ 缺乏弹性 $\\mathrm { ~ _ { o } ~ } C S$ 越大,表明 $V C$ 的准确性对ESV 评估的影响越大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5小流域综合治理效益评价方法",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 保水保土效益评价 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据治理所减少的水土流失量(t),按照甲积峪实际工程成本计算其价值(元)。依据研究区多年治理经验,保水效益按照3.75元/t计算,减沙效益按照18元/t计算。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2经济效益评价",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "经济效益为坡改梯、种植经济林和果园等土地利用调整措施产生的经济收益（元/ $\\mathrm { \\hbar } \\mathrm { m } ^ { 2 }$ )。根据调查结果，粮食、秸秆、经济林果实和果园果实价格分别按2.00、0.60、2.50、3.50元/kg计算。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.3生态效益评价",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "森林覆盖率。森林植被面积占整个小流域面积的比例 $( \\% ) ^ { [ 5 7 ] }$ （204号",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "固碳综合能力。指单位流域面积固定 $\\mathrm { C O } _ { 2 }$ 的量,用于衡量流域内植被固定 $\\mathrm { C O } _ { 2 }$ 能力。公式为[57]：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\frac { 1 } { S } \\times \\sum _ { i = 1 } ^ { n } \\ Q _ { i } \\times S _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中， $Q$ 为流域单位面积植被的固碳量( $\\mathrm { ^ { ' } t h m } ^ { - 2 } \\mathrm { a } ^ { - 1 } ,$ ; $s$ 为流域植被总面积 $( \\ln \\mathbf { m } ^ { 2 } ) : n$ 为植被类型总数（个）; $Q _ { i }$ 为第 $i$ 种植被单位面积的固碳量 $\\mathrm { ~ \\ ' ~ t ~ h m ~ } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 }$ ）； $S _ { i }$ 为第 $i$ 种植被的面积( $\\left( \\mathrm { h m } ^ { 2 } \\right)$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1生态系统服务价值评估",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如表5所示,2012年果园的单位面积供给服务价值最高，为26325.74元/ $\\cdot \\mathrm { h m } ^ { 2 }$ ,经济林次之;乔木林的单位面积水土保持服务价值最高，为16425.62元 $\\langle \\mathrm { h m } ^ { 2 }$ ,封山育林次之;水域的单位面积其他服务价值最高，为13660.04元/ $\\cdot \\mathrm { h m } ^ { 2 }$ 。单位面积生态系统服务价值排序为果园 $>$ 经济林 $>$ 梯田 $>$ 乔木林 $>$ 水域 $>$ 人工草地>封山育林 $>$ 坡耕地 $>$ 荒草地 $>$ 未利用地。甲积峪单位面积生态系统服务价值较低,主要是由于坡耕地与荒草地的生态系统服务价值较低，且所占面积比例较大所致。坡耕地占总面积的 $7 . 5 3 \\%$ ,对水土保持价值的贡献仅为$3 . 6 4 \\%$ ;荒草地占总面积的 $7 . 9 6 \\%$ ,因水保需要禁止放牧,短期内不利用其产品供给价值。因此,需通过生态系统服务权衡优化将其调整为其他土地利用类型。未利用地为河流两岸裸地,为保证河流生态系统完整性,不对其进行调整。 C5",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5所示坡耕地单位面积保持土壤服务价值略高于果园,这是由于当前果园均位于小流域下游区域,LS因子低所致。进一步结合式2计算结果分析表明,对坡耕地而言,改为梯田、人工草地、经济林与果园时,供给服务、水土保持服务和其他服务价值均明显提高;改为乔木林或采取封山育林措施时,除供给服务价值略有下降外,水土保持服务和其他服务价值也明显提高。对荒草地而言,改为其他各土地利用类型均可提高其供给服务、水土保持服务和其他服务价值。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0c7634608057e8a795354bba63f15a650fb0a719d619285195e670c04df7c22.jpg",
+        "table_caption": [
+            "表52012年甲积峪各土地利用类型单位面积生态系统服务价值/（元/hm²）",
+            "[able 5Ecosystem service values per unit arealof land-use types in Jiajiyu in 2012 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>服务类型servicetype</td><td>坡耕地 Slope farmland</td><td>荒草地 Waste grassland</td><td>e</td><td>人工草地 Artificial grassland</td><td>Oard</td><td>经济林 Economic forest</td><td>封育 Closed forest</td><td>A乔est</td><td>水ier</td><td>未a利用地</td></tr><tr><td>产品供给 Product supply</td><td>9865.91</td><td>0</td><td>13318.98</td><td>10206.00</td><td>26325.74</td><td>13537.50</td><td>0</td><td>2340.00</td><td>297.81</td><td>0</td></tr><tr><td>固碳释氧 Carbon fixation and oxygen release</td><td>0</td><td>933.66</td><td>0</td><td>1082.83</td><td>1180.37</td><td>1226.49</td><td>1854.87</td><td>2529.37</td><td>232.65</td><td>0</td></tr><tr><td>涵养水源 Water conservation</td><td>472.50</td><td>708.75</td><td>2126.25</td><td>945.00</td><td>1417.50</td><td>1181.25</td><td>945.00</td><td>1653.75</td><td>5527.46</td><td>20.61</td></tr><tr><td>净化环境 Environment purification</td><td>161.50</td><td>20.40</td><td>161.50</td><td>20.40</td><td>802.06</td><td>1260.38</td><td>1260.38</td><td>1718.70</td><td>12127.60</td><td>212.34</td></tr><tr><td>保持土壤 Soil conservation</td><td>3912.11</td><td>8377.90</td><td>7070.38</td><td>5742.70</td><td>2489.41</td><td>8609.72</td><td>12738.22</td><td>14771.87</td><td>0</td><td>538.94</td></tr><tr><td>维持营养物质循环 Nutrient recycling</td><td>408.61</td><td>120.65</td><td>551.62</td><td>1231.33</td><td>61.84</td><td>64.25</td><td>97.17</td><td>132.51</td><td>1299.79</td><td>0</td></tr><tr><td>合计Total</td><td>14820.63</td><td>10161.36</td><td>23228.73</td><td>19228.26</td><td>32276.92</td><td>25879.59</td><td>16895.64</td><td>23146.20</td><td>19485.31</td><td>771.89</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为提高优化结果的合理性,排除 2012年各土地利用类型坡度坡长因子对模型权衡结果的影响,分别提取坡耕地和荒草地在不同生态功能区、不同坡度分级斑块的LS值,评估 2022年各土地利用类型在不同斑块的水土保持服务价值(表6),带入目标函数(式7)进行规划求解。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2最优解与土地利用变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 线性规划最优解",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "运用Excel规划求解功能，分别设定对应目标单元和约束单元,求得目标方程 $\\operatorname { M a x } F ( X )$ 最优解时的决策变量值(表7),据此分别对坡耕地与荒草地不同斑块优化后的同一土地利用类型面积进行加和,得到规划前后的土地利用转移关系（表8）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d18920dfa03983ad030c61e5e7355745d99c6583504c653af3837fc10120f216.jpg",
+        "table_caption": [
+            "Table 6Water and soil conservation service values of decision variables in 2022 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量 Variable</td><td>水土保持服务价值 Water and soil conservation service value</td><td>变量 Variable</td><td>水土保持服务价值 Water and soil conservation service value</td><td>变量 Variable</td><td>水土保持服务价值 Water and soil conservation service value</td><td>水土保持服务价值 变量 Water and soil Variable conservation service value</td></tr><tr><td>X</td><td>10031.95</td><td>X11</td><td>9718.12</td><td>X21</td><td>9616.37 X31</td><td>11368.98</td></tr><tr><td>X</td><td>6229.23</td><td>X12</td><td>6019.47</td><td>X22</td><td>6381.29</td><td>X32 7060.82</td></tr><tr><td>X</td><td>9668.44</td><td>X13</td><td>7947.43</td><td>X23</td><td>3789.10</td><td>X33 9335.95</td></tr><tr><td>X4</td><td>7550.51</td><td>X14</td><td>10439.34</td><td>X24</td><td>4973.51</td><td>X34 8356.93</td></tr><tr><td>X</td><td>7873.38</td><td>X15</td><td>6501.54</td><td>X25</td><td>14065.01</td><td>X35 11064.15</td></tr><tr><td>X6</td><td>4786.42</td><td>X16</td><td>8590.21</td><td>X26</td><td>18675.18</td><td></td></tr><tr><td>X7</td><td>7480.10</td><td>X17</td><td>4501.27</td><td>X27</td><td>14199.80</td><td></td></tr><tr><td>X8</td><td>5746.94</td><td>X18</td><td>7047.60</td><td>X28</td><td>21757.53</td><td></td></tr><tr><td>X</td><td>8140.96</td><td>X19</td><td>11590.72</td><td>X29</td><td>18854.90</td><td></td></tr><tr><td>X10</td><td>6291.60</td><td>X20</td><td>9393.56</td><td>X30</td><td>14301.51</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2afbbe370c6630ab096538eaaecd4703c25d095ad926b14c68b6205d52ee3ffa.jpg",
+        "table_caption": [
+            "表62022年各决策变量水土保持服务价值/（元 $\\langle \\mathrm { h m } ^ { 2 }$ ）",
+            "表7决策变量权衡最优值 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量 Variable</td><td>最优值/hm² Optimal value</td><td>变量 Variable</td><td>最优值/hm² Optimal value</td><td>最优值/hm² Optimal value</td><td>最优值/hm² Variable Optimal value</td></tr><tr><td>X</td><td>0</td><td>X11</td><td>23.15</td><td>0</td><td>0</td></tr><tr><td>X</td><td>0</td><td>X12</td><td>0</td><td>0.25</td><td>0</td></tr><tr><td>X</td><td>14.92</td><td>X13</td><td>0</td><td>0 X33 X32</td><td>2.30</td></tr><tr><td>X4</td><td>0</td><td>X14</td><td>75.99 X23 X24</td><td>X34</td><td>0</td></tr><tr><td>X</td><td>0</td><td>X15</td><td>0</td><td>15.40 X35</td><td>24.57</td></tr><tr><td>X6</td><td>0</td><td>X16</td><td>0</td><td>0 52.54</td><td></td></tr><tr><td>X7</td><td>37.99</td><td>X</td><td>9</td><td>0</td><td></td></tr><tr><td>X</td><td>0</td><td>X18</td><td>20.30</td><td>60.13</td><td></td></tr><tr><td>X</td><td>12.72</td><td>X19</td><td>0</td><td>0</td><td></td></tr><tr><td>X10</td><td>0</td><td>X20</td><td>X29 11.73 X30</td><td>15.45</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表8规划前后甲积峪土地利用转移矩阵 $\\langle \\mathrm { h m } ^ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/43e3b54d6c157ef901151d483631c55292e69ca3a3ae46c6b6177c3bd38d3896.jpg",
+        "table_caption": [
+            "Table 7The optimal value of decision variables ",
+            "Table 8 Land-use transition matrix of Jiajiyu before and after optimization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">C 土地利用类型 总计</td><td colspan=\"8\">规划后面积 Area after optimization</td></tr><tr><td>坡地</td><td>荒草地 grassland</td><td>梯田 Terrace</td><td>人工章地 grassland</td><td>果园 Orchard</td><td>经济林</td><td>封</td><td>乔木林</td></tr><tr><td>farmland 212.45</td><td></td><td>0</td><td>99.39</td><td>0</td><td>forest</td><td>forest</td><td>forest</td></tr><tr><td>坡耕地 Slope farmland 荒草地 Waste grassland 224.63</td><td>0 0</td><td>0</td><td>0</td><td>0</td><td>11.73 0</td><td>15.40 79.41</td><td>0 69.64</td><td>85.93 75.58</td></tr><tr><td>885.7</td><td>0</td><td>0</td><td>885.70</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>梯田 Terrace</td><td>0</td><td>0</td><td>0</td><td>194.77</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>人工草地 Artficial grassland</td><td>194.77 27.28 0</td><td>0</td><td>0</td><td>0</td><td>27.28</td><td>0</td><td>0</td><td>0</td></tr><tr><td>果园Orchard 经济林 Economic forest</td><td>141.54 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>141.54</td><td>0</td><td>0</td></tr><tr><td>封山育林 Closed forest</td><td>489.71 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>489.71</td><td>0</td></tr><tr><td>乔木林 Arbor forest</td><td>290.07 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>290.07</td></tr><tr><td>总计Total</td><td>2466.15 0</td><td>0</td><td>985.09</td><td>194.77</td><td>39.01</td><td>236.35</td><td>559.35</td><td>451.58</td></tr><tr><td>变化值 Change value</td><td>0 -212.45</td><td>-224.63</td><td>99.39</td><td>0</td><td>11.73</td><td>94.81</td><td>69.64</td><td>161.51</td></tr><tr><td>变化率Change rate/%</td><td>0 -100</td><td>-100</td><td>11.22</td><td>0</td><td>43.00</td><td>66.98</td><td>14.22</td><td>55.68</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 土地利用转移矩阵",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如表8所示,甲积峪生态系统服务权衡优化后,坡耕地与荒草地全部调整为其他土地利用类型。优化前后梯田所占面积比例均为最大，分别占小流域总面积的 $3 1 . 4 0 \\%$ 和 $3 4 . 9 2 \\%$ ;其次为封山育林,所占面积比例由$1 7 . 3 6 \\%$ 增至 $1 9 . 8 3 \\%$ 。调整后各土地利用类型面积增加量为乔木林 $>$ 梯田 $>$ 经济林 $>$ 封山育林 $>$ 果园，增幅为经济林 $>$ 乔木林 $: >$ 果园 $>$ 封山育林 $>$ 梯田。因乔木林可同时提供较高的水土保持服务价值和其他服务价值（表5),其面积增加量最大。由于荒草地和坡耕地在不同生态功能区坡度分布不同,且坡耕地优化需满足梯田的最低面积约束,使得两者土地利用调整方向的优先顺序不同。优化结果总体表现为坡耕地优先调整为乔木林和梯田，荒草地优先调整为经济林和乔木林。 ）",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "坡耕地调整为梯田的面积最大,其次调整为乔木林,分别占坡耕地面积的 $4 6 . 7 8 \\%$ 和 $4 0 . 4 5 \\%$ 。坡耕地主要集中在上中游区域,在 $L S$ 因子相同的条件下,因乔木林的单位面积水土保持服务价值与其他服务价值最大,使得坡耕地优化为乔木林的面积仅次于梯田。荒草地调整为经济林、乔木林和封山育林的面积比例大致相当，分别为 $3 5 . 3 5 \\% . 3 3 . 6 5 \\%$ 和 $3 1 . 0 0 \\%$ 。荒草地分布在中游的面积最大,为 $1 2 8 . { \\sqrt { 1 2 \\mathrm { h m } ^ { 2 } } }$ ，占荒草地总面积的$5 7 . 0 4 \\%$ ,由于中游为农业发展区,对土地利用类型调整的约束较少,生态系统服务权衡的选择性更大,优化结果更加多元化。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 土地利用空间变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如图3所示,规划前甲积峪梯田与坡耕地面积分别为 $8 8 5 . 7 0 \\mathrm { h m } ^ { 2 }$ 和212.45hm²，分别占总面积的 $3 1 . 4 0 \\%$ 和$7 . 5 3 \\%$ 。对于坡耕地,优化后在粮食生产得到基本保障的前提下,优先调整为具有更高水土保持服务价值和其他服务价值的乔木林。对于荒草地,上游全部实行封山育林,中游主要调整为乔木林和经济林（调整面积分别占中游荒草地面积的 $5 9 . 0 0 \\% . 4 1 . 0 0 \\% \\$ ),下游全部调整为经济林。从上、中、下游空间分布来看，上游坡度较陡且水土流失较为严重的坡耕地与荒草地主要优化为乔木林和封山育林,中下游坡度较缓且土壤肥力相对较高的坡耕地与荒草地主要优化为供给价值较高的经济林和果园等。结合生态功能区划分、土地坡度及土壤肥力对生态系统服务的权衡优化结果,可同时满足上游水土流失防治和中下游农业经济发展的需要。规划后小流域植被覆盖面积增加,土地利用格局发生明显正向变化。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdc6a54d9a6ea9c611db56b1f42df601840c4e14a44d1281163bbae33c3ffcc0.jpg",
+        "img_caption": [
+            "图3规划前后甲积峪土地利用空间分布",
+            "Fig.3Spatial distribution of land-use types of Jiajiyu before and after optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3生态系统服务权衡优化效果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 生态系统服务价值量变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "小流域生态系统服务优化后,供给服务价值、水土保持服务价值和其他服务价值分别增加了 $6 . 2 4 \\%$ 、",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$9 . 8 1 \\%$ 和 $1 7 . 3 5 \\%$ ,生态系统服务总价值增加了 $9 . 2 3 \\%$ （表9）。三者增加量分别占生态系统服务总价值增加量的 $2 5 . 9 6 \\%$ （ $, 5 4 . 4 2 \\%$ 和 $1 9 . 6 2 \\%$ 。乔木林与封山育林增加面积较大,由于两者的水土保持服务和其他服务价值相对较高,但供给价值均低于坡耕地,使得供给服务价值的增幅相对较小。坡耕地和荒草地的其他服务价值均远低于人工草地、果园、经济林、封山育林和乔木林,因此将两者调整为上述各类土地利用类型都会明显提高其他服务价值,使其他服务价值增长率高于供给服务和水土保持服务价值。从生态系统服务结构来看，调整后供给服务价值占比有所下降,同时其他服务价值的比例增幅明显,优化了小流域生态系统服务结构。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/196c47d6dbb56731421b199a86b9de323daf688cdb800b45eb240e55cd34f985.jpg",
+        "table_caption": [
+            "表9规划前后甲积峪各生态服务价值对比",
+            "Table 9Comparison of Jiajiyu Ecosystem Sevice Value（ESV）before and after optimization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">生态系服务类型 Ecosystem service type</td><td colspan=\"3\">价值Value/104元</td><td colspan=\"3\">占总服务价值比例Proportionof ESV/%</td></tr><tr><td>2012</td><td>2022</td><td>变化率/% Change rate</td><td>2012</td><td>2022 变化率/% Change rate</td></tr><tr><td>供给服务 Supply service</td><td>1920.44</td><td>2040.24</td><td>6.24</td><td></td><td>38.39 37.34 -2.74</td></tr><tr><td>水土保持服务 Water and soil conservation service</td><td>2559.87</td><td>2811.01</td><td>9.81</td><td>51.18</td><td>51.45 0.54</td></tr><tr><td>其他服务Other services</td><td>521.78</td><td>612.32</td><td>17.35</td><td>10.43</td><td>11.21 7.44</td></tr><tr><td>总服务 Total ecosystem service</td><td>5002.10</td><td>5463.58</td><td>9.23</td><td>100</td><td>100 0</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.2生态系统服务价值空间变化",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "空间分析表明（图4）,规划目标年上、中、下游供给服务价值变化差异明显，上游减小了 $1 8 . 1 4 \\%$ ,而中、下游分别增加了 $9 . 8 7 \\%$ 和 $1 6 . 2 4 \\%$ ,其变化量分别占供给服务价值总变化量的 $- 4 6 . 1 6 \\%$ $9 6 . 9 1 \\%$ 和 $4 9 . 2 5 \\%$ 。上游有较大面积土地适宜规划为供给价值低但水土保持服务和其他服务价值高的乔木林和封山育林,因而其供给服务价值下降。中下游适合发展农业与生态经济,调整后的土地利用类型中,经济林和梯田所占比例较大，因而其供给服务价值明显增加。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "优化后上、中、下游水土保持服务价值分别增加 $8 . 0 2 \\%$ $. 1 1 . 0 3 \\%$ 和 $6 . 8 3 \\%$ ,其变化量分别占水土保持服务价值总变化量的 $2 0 . 9 6 \\% . 7 1 . 2 1 \\%$ 和 $7 . 8 2 \\%$ 。中游调整后的经济林、乔木林和梯田的水土保持服务价值均较高，使其水土保持服务增加量最大。上游均调整为封山育林和乔木林,下游主要调整为经济林和果园,由于上、下游可调整面积均小于中游,且果园水土保持服务价值相对较低,因而上、下游水土保持服务价值增加量较小。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "优化后上、中、下游其他服务价值分别增加 $2 3 . 8 6 \\% . 1 4 . 2 5 \\%$ 和 $1 4 . 7 6 \\%$ ,其变化量分别占其他服务价值总变化量的 $4 3 . 5 4 \\%$ ） $4 6 . 8 0 \\%$ 和 $9 . 6 6 \\%$ 。土游和中游优化为乔木林与封山育林面积较大,两者其他服务价值均高于其他土地利用类型,因而其他服务价值明显增高。下游可优化面积较小，且有 $2 1 . 6 2 \\%$ 的面积优化为其他服务价值较低的果园,因而其他服务价值增加量最小。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "优化后上、中、下游生态系统服务价值分别增加 $3 . 0 0 \\%$ ） $1 0 . 8 8 \\%$ 和 $1 2 . 3 8 \\%$ ,其变化量分别占生态系统服务总价值变化量的 $7 . 4 0 \\% . 7 3 . 3 4 \\%$ 和 $1 9 . 2 6 \\%$ 。上游有大部分规划为封山育林和乔木林,两者的水土保持服务价值较高,但供给服务价值低,使其总服务价值相对较低。下游尽管有部分土地优化为总服务价值最高的果园，但优化面积仅有 $1 1 . 7 3 \\mathrm { h m } ^ { 2 }$ ,使其总服务价值增加量所占比例较小。中游有较大面积土地优化为总服务价值仅次于果园的经济林,使其总服务价值增加量最大。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "各权衡目标价值在中游的增加量占总增加量的比例均最高,这是由于中游主要将坡耕地与荒草地调整为梯田、乔木林和经济林,三者都具有较高水土保持服务价值或供给服务价值。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务不变区域为未规划区域,包括水域、建设用地和未利用地,以及经过前期治理、土地利用适宜的梯田、人工草地和林地(乔木林、经济林和封山育林）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4 敏感性分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由表10可知,规划前后各土地利用类型生态系统服务价值的敏感度均小于1。2012年敏感度排序为梯田 $>$ 封山育林>乔木林 $>$ 人工草地 $>$ 经济林 $>$ 坡耕地 $>$ 荒草地 $>$ 果园 $>$ 水域 $>$ 未利用地，以梯田的敏感度最大(0.41），即当梯田生态价值系数增加 $1 \\%$ 时，生态系统服务总价值增加 $0 . 4 1 \\%$ ;规划后各土地利用类型敏感度的排序变为梯田 $>$ 乔木林 $>$ 封山育林 $>$ 经济林 $>$ 人工草地 $>$ 果园 $>$ 水域 $\\mid >$ 未利用地，以经济林和乔木林的敏感度增加较大,这与经济林和乔木林面积增加较大有关[56]。敏感性分析结果还反映了各土地利用类型对生态系统服务总价值的影响程度,即敏感度越高,其影响程度越大。表明,研究区的生态系统服务总价值对各土地利用类型的生态价值系数缺乏弹性，即研究结果可信。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/44c648eb1fd53ee3a0ccca80aa1d43e92bd043b106fc3c9c963ccf7cfd0339f9.jpg",
+        "img_caption": [
+            "图4优化前后甲积峪生态系统服务价值变化空间分布",
+            "Fig.4Spatial distribution of ESV of Jiajiyu before and after optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ef57d122e086b5f3c79071203ffc6961c2cde60f93b2ef3dd2098ebb0332445.jpg",
+        "table_caption": [
+            "表10价值系数变化 $50 \\%$ 时甲积峪生态系统服务价值变化率与价值系数敏感度",
+            "ESV change rate and CS of Jiajiyu resulting from adjustment of ecosystem valuation coefficie "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地利用类型 Land-use type</td><td colspan=\"3\">ESV 变化率 ESV change rate/%</td><td colspan=\"3\">敏感度 Coefficient Sensibility</td></tr><tr><td>2012</td><td>2022</td><td>2012—2022</td><td>2012</td><td>2022</td><td>2012—2022</td></tr><tr><td>坡耕地 Slope farmland</td><td>3.15</td><td>0</td><td>-3.15</td><td>0.06</td><td>0</td><td>-0.06</td></tr><tr><td>荒草地 Waste grassland</td><td>2.28</td><td>0</td><td>-2.28</td><td>0.05</td><td>0</td><td>-0.05</td></tr><tr><td>梯田 Terrace</td><td>20.57</td><td>21.06</td><td>0.51</td><td>0.41</td><td>0.42</td><td>0.01</td></tr><tr><td>人工草地 Artificial grassland</td><td>3.74</td><td>3.42</td><td>-0.32</td><td>0.07</td><td>0.07</td><td>-0.00</td></tr><tr><td>果园Orchard</td><td>0.88</td><td>1.21</td><td>0.33</td><td>0.02</td><td>0.02</td><td>0.00</td></tr><tr><td>经济林 Economic forest</td><td>3.66</td><td>5.98</td><td>2.32</td><td>0.07</td><td>0.12</td><td>0.05</td></tr><tr><td>封育 Closed forest</td><td>8.27</td><td>8.50</td><td>0.23</td><td>0.17</td><td>0.17</td><td>0.00</td></tr><tr><td>乔木林 Arbor forest</td><td>6.71</td><td>9.15</td><td>2.44</td><td>0.13</td><td>0.18</td><td>0.05</td></tr><tr><td>水域 River</td><td>0.72</td><td>0.65</td><td>-0.07</td><td>0.01</td><td>0.01</td><td>-0.00</td></tr><tr><td>未利用地 Bare land</td><td>0.02</td><td>0.02</td><td>-0.00</td><td>0.00</td><td>0.00</td><td>-0.00</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5综合治理效益评价 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "通过小流域生态系统服务与土地利用类型的权衡优化,以2012年为基础,到2022年研究区年径流减少11.02万t,保水价值增加41.33万元;减少产沙 4406.67t,减少河道清淤成本 7.93万元;森林覆盖率由 $3 2 . 6 6 \\%$ 提高到 $4 4 . 2 2 \\%$ ;坡改梯单产由 $3 8 6 5 . 9 5 \\mathrm { k g / h m } ^ { 2 }$ 提高到 $5 2 1 9 . 0 4 \\mathrm { k g / h m } ^ { 2 }$ ,增加产值3453.07元/ $\\mathrm { \\hbar } \\mathrm { m } ^ { 2 }$ ;新增果品601.63t,产值达159.23万元;固碳综合能力由 $1 . 1 4 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ 提高到 $1 . 3 7 \\mathrm { t } \\ \\mathrm { h m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ ,提高了 $2 0 . 1 9 \\%$ 。此外,坡改梯和果园种植可为农田机械化耕作提供便利条件。表明,生态系统服务和经济、生态、社会三大效益均得到了明显提高。 OI7",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本文综合了研究区土地利用的坡度适宜性、生态功能分区和黄土高原主要的小流域综合治理措施,在生态系统服务价值评估的基础上，采用多目标线性规划方法,通过设置供给服务价值、水土保持服务价值和其他服务价值3个决策目标,探讨了甲积峪小流域的生态系统服务权衡优化。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "坡耕地和荒草地的生态系统服务价值较低且面积比例较大，是研究区生态系统服务价值偏低的主要原因。通过生态系统服务权衡优化,在满足土地利用类型的坡度适宜性和人口粮油需求等的约束条件下,将坡耕地与荒草地主要调整为乔木林、梯田、经济林和封山育林,少量调整为果园,与相关研究结果一致[2,58-60],使得3个目标函数值均明显增加。其中,其他服务价值增长率最高，其次为水土保持服务价值,供给服务价值增长率相对较低。空间分析表明,其他服务价值在上游的增长率最高,供给服务和总服务价值在下游的增长率最高,水土保持服务价值在中游的增长率最高。仅有上游部分区域供给服务价值和总服务价值略有下降。优化后,小流域的森林覆盖率、减少的水土流失量、固碳综合指数和农业产值等指标均有所提高,为研究区坡耕地和荒草地的治理方向提供了参考依据。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在小流域的生态系统供给服务中,粮食生产是当地居民为生存必须从事的活动,经济林和果园等食物供给与原材料供给是居民维持生计与区域直接经济效益的体现。片面追求农业生产利益,会使区域的水土流失问题更加严峻,生态系统脆弱性也随之增加。各生态系统服务之间存在着复杂的相互作用,尽可能通过权衡以减少其中的冲突并实现协作,才能实现生态系统服务的优化。本文将供给服务价值、水土保持服务价值与其他服务价值设置为权衡优化的子目标函数,同时参考相关研究成果[59,61-64],在权衡优化中侧重三者的平衡关系,将3个决策目标的权重系数均设定为1/3,即将供给服务、水土保持服务与其他服务视为同等重要。在约束条件不变的前提下,将以产品供给、水土保持和其他服务价值3个子目标构建目标函数与仅以单个子目标或总服务价值作为目标函数的优化结果对比发现,3个子目标的结果和仅其他服务价值为目标的结果极为相似，即供给服务价值和总服务价值较低,水土保持服务和其他服务价值较高,同时林地面积最高，两种方案都具有明显的优势,但后者的供给服务价值和总服务价值低于前者。若仅以供给服务或总服务价值为目标，优化后的供给服务和总服务价值均最高,但调整为林地(尤其是乔木林)的面积明显减少,使得水土保持服务和其他服务价值均最低。而仅以水土保持服务价值为目标,则水土保持服务价值最高但优势不明显,供给服务和总服务价值中等,其他服务价值低;供给服务价值居中是由于梯田同时具有很高的保土、保水价值和较高的供给价值,使得调整为梯田的面积增加而调整为林地的面积减少。因此，选择3个子目标的结果能在满足产品供给服务价值的条件下,通过将坡耕地和荒草地更多地调整为林地而获得较高的水土保持服务和其他服务价值,与预期效果一致,更符合甲积峪的实际情况。此外，由于本文从长远效益考虑,未计入农田的固碳释氧价值,且人工草地仅计算了其地下部的固碳释氧价值。从黄土高原水土流失的突出问题出发,净化环境价值仅考虑了滞尘方面,而未考虑吸收 $\\mathrm { S O } _ { 2 }$ 及 $\\mathrm { N O } _ { \\mathrm { x } }$ 等污染物的价值。因此,其他服务价值远低于产品供给和水土保持服务价值,在一定程度上避免了其他服务价值虚高对生态系统服务权衡的影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "土地利用不合理是导致该地区水土保持服务退化的主要原因之一,与其他学者的研究结果一致[20.65-6]。我国在1998—2008年间对土地利用进行了一系列复杂的调整,使得我国生态系统服务价值下降幅度低于全球平均值[7],效果较明显。坡耕地、荒山荒坡地和沟壑地是我国水土流失最严重的土地利用类型[68],研究区位于温带季风气候区,降雨多集中于夏季,且坡耕地和荒草地面积较大,加剧了水土流失。如何将其调整为适宜的土地利用方式,以减少地表径流量,改善小流域生态环境[65,69],是小流域综合治理的重点和难点[20]。本文从生态系统服务权衡优化的角度对土地利用类型在数量和空间上进行了调整,在考虑各土地利用类型坡度适宜性的基础上,参考《封山（沙)育林技术规程》（GB/T15163—2004）[70]中小流域内不适于人工造林的高山、陡坡和水土流失严重地段等地块,对其进行封育以增加植被盖度。研究区封山育林区域大多未成林,在计算其生态系统服务价值时生物量取乔木林的 $0 . 7 3 ^ { [ 3 8 ] }$ ,使其与乔木林有所区别。 (7",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "除土地利用类型调整外,小流域治理还可以从沟头防护、工程措施及法律法规方面着手,以缓解人类活动与自然之间的矛盾,针对生态系统服务权衡进行多方面综合研究是未来的重要方向[71]。其中沟头防护措施主要从防治沟头延伸、沟底下切和沟岸扩张三方面遏制水土流失的加剧。当地居民“乱砍滥挖”的情况比较严重,为防止过度索取导致生态环境遭到更大的破坏,可成立村民自管小组,通过政府发布封禁通告实行管护措施,以此加强村民的自我约束和管理。加强道路建设,修建小型堤坝和小型拦蓄工程也是小流域治理的有效措施之一。为了保证治理效果,使水土保持防治机制不断完善,依法监督和保护是必不可少的,国家与地方相继制定了《中华人民共和国水土保持法》、《甘肃省水土保持条例》、《水土保持补偿费征收使用管理办法》、《水利工程建设监理规定》等一系列促进水土保持工作法制化、规范化和科学化建设的法律法规和管理办法。当前甲积峪在综合以上监督、防预和治理的基础上,进行了农田种植结构调整及梯田后续产业综合开发,力求在提高区域水土保持服务价值和其他服务价值的前提下,实现供给服务价值最大化。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] MA.Ecosystems and Human Well-being.Washington，DC：Island Press,2003.  \n[2] 傅伯杰，张立伟.土地利用变化与生态系统服务：概念、方法与进展.地理科学进展，2014，33(4)：441-446.  \n[3] ChisholmRA.Tradeoffsetwnosystemservces：waterndcarboninabiodiversityotspot.EcologicalEcooics，2O1，69（10）：1973-1987.  \n[4] BennetEM，BalvaneraP.hefutureofproductionsystemsinaglobalizedworldFrontiersinEcologandtheEnviroment，O，5（4)191-198.  \n[5]WJGsapesaablteoteisdaelngingingldsasdapeo（6)：999- 1023.  \n[6] 曹祺文，卫晓梅，吴健生.生态系统服务权衡与协同研究进展.生态学杂志，2016，35(11)：3102-3111.  \n[7] WangJT,PengJ,ZaoYLuYX,enY.ignifcanttradeoffortepactofrain-for-GrnrogaeoosteicNorth-western Yunnan，China.Science of the Total Environment，2017,574：57-64.  \n8 ViglizoEF，FrankFC.Land-useoptionsforDelPlataBasininSouthAmerica：Tradeofsanalysisbasedoecosystemservicerovision.Ecological Economics，2006,57(1）:140-151.9 李云成，刘昌明，于静洁.三江平原湿地保护与耕地开垦冲突权衡.北京林业大学学报，2006,28（1)：39-42.  \n[10] 许月萍，任立新，黄艳，冉启华.水文极值计算及其不确定性.应用基础与工程科学学报，2009,17（2)：172-178.  \n11 NelsonE,SanderH,Hawthoe,onte,EaaaD,Woly,ansoSlaskProjectinggloald-usehangedsecosystem service provision and biodiversity with simple models.PLoS One,2010,5(12）：e14327.  \n[12] BrowK,dgerisEc,DougKealyisfaieroteedregnticalc，2001,37(3):417-434.  \n[13] 傅伯杰.生态系统服务与生态安全.北京：高等教育出版社，2013.  \n[14] BaralMP，BenasJMR，MeliP,MaceiraNO.Quantifingtheimpactsofologicalestoratioonboiverstndcosystesvicsinagroecosystems：A global meta-analysis.Agriculture，Ecosystems & Environment,2015,202：223-231.  \n[15］李春艳，邓玉林.我国流域生态系统退化研究进展.生态学杂志,2009,28（3)：535-541.  \n［16］魏晓华，孙阁.流域生态系统过程与管理.北京：高等教育出版社，2009.  \n[17] 刘震.我国水土保持小流域综合治理的回顾与展望.中国水利，2005，（22)：17-20.  \n[18] 秦富仓，余新晓，张满良，谢媛媛.小流域林草植被控制土壤侵蚀机理研究.应用生态学报，2005，16(9)：1618-1622.  \n[19] 董翠云，黄明斌，郑世清.流域尺度水土保持生物措施减沙效益研究.应用生态学报，2002，13（5)：635-637.  \n[20] 唐克丽.中国水土保持.北京：科学出版社，2004.  \n[21] 孙莉英，蔡强国，陈生永，和继军.东北典型黑土区小流域水土流失综合防治体系．水土保持研究，2012，19（3）：36-41,57-57.  \n[22] 朱阿兴，陈腊娇，秦承志，王平，刘军志，李润奎，蔡强国.水土流失治理新范式：基于流域过程模拟和情景分析的方法.应用生态学报，2012，23(7):1883-1890.  \n[23］徐勇，党丽娟，汤青，高雅.黄土丘陵区坡改梯生态经济耦合效应.生态学报，2015，35(4)：1258-1266.  \n[24] 李莹，黄岁樑.滦河流域未来土地利用变化情景的水文响应.生态学杂志，2016，35（7)：1970-1980.  \n[25]wartRskisoJbfthuturestaabildearoalioblEtala(2): 137-146.  \n[26] 陈能汪，王龙剑，鲁婷．流域生态系统服务研究进展与展望.生态与农村环境学报，2012，28（2)：113-119.  \n[27]SwalowBSangJK,abegedotichD,uraapaAK,YatichB.Trdofs，rgiesndrasaongosvicsinthe Lake Victoria basin of East Africa.Environmental Science& Policy，2009,12(4）：504-519.  \n[28]Zederesouupactsoeatatedaleiiodot(2): 65-72.  \n[29]Patanayak S K. Valuing watershed services: concepts and empirics from southeast Asia.Agri re，Ecosystems & Environment，2004，104（1）:171- 184.  \n［30］高海东，李占斌,李鹏，贾莲莲，徐国策，任宗萍，庞国伟，赵宾华.基于土壤侵蚀控制度的黄土高原水土流失治理潜力研究.地理学报，2015,70(9):1503-1515.  \n[31］姜娜，邵明安.黄土高原小流域不同坡地利用方式的水土流失特征.农业工程学报，2011,27(6)：36-41.  \n[32］刘峰，刘建昌，祁永新，董仁才，赵景柱，左煜.黄河上游甲积峪小流域生态系统管理能力动态评价.生态学报，2009，29（5)：2675- 2685.  \n[33］谢高地，甄霖，鲁春霞，肖玉，陈操.一个基于专家知识的生态系统服务价值化方法．自然资源学报，2008，23（5）：911-919.  \n[34] 高旺盛，董孝斌.黄土高原丘陵沟壑区脆弱农业生态系统服务评价——以安塞县为例．自然资源学报，2003，18（2)：182-188.  \n[35］谢红霞，任志远，李锐.陕北黄土高原土地利用/土地覆被变化中植被固碳释氧功能价值变化.生态学杂志，2007,26(3)：319-322.  \n[36] 李靖，马永禄，罗杰,李红，罗志斌.黄土丘陵沟壑区不同林龄刺槐林养分特征与生物量研究.西北林学院学报，2013，28（3)：7-12.  \n[37] 郭来锁，姚延涛.仁用杏生物量及营养循环研究//中国农学会.中国青年农业科学学术年报.北京：中国农业出版社，2002：153-156.  \n[38］栗晓玲，康绍忠，佟玲.内陆河流域生态系统服务价值的动态估算方法与应用——以甘肃河西走廊石羊河流域为例.生态学报，2006，26(6): 2011-2019. 2  \n[39］何兴照，祁永新，英国赠款小流域治理管理项目执行办公室.生物多样性监测评价.北京：中国计划出版社，2008.  \n[40］韩富伟，张柏，宋开山，王宗明，王岩松，高燕.黑龙江省低山丘陵区水保措施减蚀效应研究.东北农业大学学报，2008，39（2)：179- 183.  \n[41］马新辉，任志远，孙根年.城市植被净化大气价值计量与评价——以西安市为例.中国生态农业学报，200，12（2)：180-182.  \n[42]余新晓，鲁绍伟，靳芳，陈丽华，饶良懿，陆贵巧.中国森林生态系统服务功能价值评估.生态学报，2005，25(8)：2096-2102.  \n[43］张天华，陈利顶，普布丹巴，黄琼中，徐建英．西藏拉萨拉鲁湿地生态系统服务功能价值估算.生态学报，2005，25(12）：3176-3180.  \n[44］欧阳志云，王效科，苗鸿.中国陆地生态系统服务功能及其生态经济价值的初步研究.生态学报，1999,19(5)：607-613.  \n[45] RenardKG,FosterGR,WesiesGA，McColDK，YoderDC.Predictingsoilerosionbywater：Aguide toconservaionplaingwiththeRevised Universal Soil Loss Equation（RUSLE).Washington，DC：US Government Printing Office，1997.  \n[46]汪明冲，潘竟虎，赵军.基于GIS与RS 的土壤侵蚀变化定量监测——以黄土高原水保二期世行贷款庆城项目区为例.干旱地区农业研究，2007,25(6):116-121.  \n[47] 杨子生.云南省金沙江流域土壤流失方程研究.山地学报，2002，20(S1)：1-9.  \n［48］张华柳.嵊州市公益林生态效益服务功能价值评价研究[D].杭州：浙江农林大学，2011.  \n[49］崔明，赵立欣，田宜水，孟海波，孙丽英，张艳丽，王飞，李冰峰.中国主要农作物秸秆资源能源化利用分析评价.农业工程学报，2008，24(12) : 291-296.  \n[50］刘刚，沈镭.中国生物质能源的定量评价及其地理分布．自然资源学报，2007，22（1）：9-19.  \n[51］罗怀良.川中丘陵地区近55 年来农田生态系统植被碳储量动态研究——以四川省盐亭县为例．自然资源学报，2009，24(2)：251-258.  \n[52] 杨志新，郑大玮，文化.北京郊区农田生态系统服务功能价值的评估研究.自然资源学报，2005，20(4)：564-571.  \n[53］钟华.基于生态承载力的土地利用优化研究——以怀来县为例[D].北京：北京林业大学，2014.  \n[54]CostanzaR,AgeR,eGrotR,FarberSGraso,HaonB,imbugK,,O'eillRVarueloJ,RasinRG,den Belt M.The value of the world's ecosystem services and natural capital.Nature,1997,387(663O）：253-260.  \n[55］郑华，李屹峰，欧阳志云，罗跃初.生态系统服务功能管理研究进展.生态学报，2013,33（3)：702-710.  \n[56] 李文楷，李天宏，钱征寒.深圳市土地利用变化对生态服务功能的影响.自然资源学报，2008，23（3)：440-446.  \n[57] 何兴照，刘则荣，英国赠款小流域治理管理项目执行办公室.黄土高原小流域水土保持监测评价.北京：中国计划出版社，2008.  \n[58] 白杨，郑华，庄长伟，欧阳志云，徐卫华.白洋淀流域生态系统服务评估及其调控.生态学报，2013,33（3)：711-717.  \n[59]ChenLD,YngLWeiWWangZ,BR,CaiGJowardsstaiableintegratedwatershosteaagtedgion the Loess Plateau,China.Environmental Management，2013,51(1）：126-137.  \n60]WoodulJlshifting cultivation landscapes? Agriculture，Ecosystems & Environment,2016,215：47-56.  \n[61］张莹莹.沟壑坝系多目标开发统筹规划方法研究[D].北京：北京林业大学，2010.  \n[62] LuCH,vaIsK.ArfaalyisofleciforiesateofaAue,o&t,2004，102(3):235-246.  \n[63］戴尔阜，王晓莉，朱建佳，高江波.生态系统服务权衡/协同研究进展与趋势展望.地球科学进展，2015，30(11)：1250-1259.  \n[64] PanY，WuJX，XuZRAalysisoftetdefsetwnprovisiogndulatigsevcesfroteperspecieofrdarefprproduction in an alpine grassland ecosystem.Ecological Complexity，2O14,17：79-86.  \n[65］曾立雄，肖文发，黄志霖，雷静品，王鹏程，谭本旺.三峡库区不同退耕还林模式水土流失特征及其影响因子.长江流域资源与环境，2014,23(1): 146-152.  \n[66]FengQ,ZhaoWW,WangJ,ZhangX,ZhaoMY,ZhongL,LiuYX,FangXNEfetsofdifrentlandusetypesonsoilerosiodernatural rainfall in the Loess Plateau，China.Pedosphere,2016,26(2）: 243-256.  \n[67]SongW,DengXZ.Land-use/land-coverchangeandecosystemserviceprovisioninChina.ScienceoftheTotalEnvirent，17,576:705-719.  \n[68] 文俊.水土保持学.北京：中国水利水电出版社，2010.  \n［69］陈晓燕，张娜，吴芳芳.降雨和土地利用对地表径流的影响— 以北京北护城河周边区域为例.自然资源学报，2014，29（8）：1391-1402.  \n[70］中华人民共和国国家质量监督检验检疫总局，中国国家标准化管理委员会.GB/T 15163—204封山（沙）育林技术规程.北京：中国标准出版社，2004.  \n[71］戴尔阜，王晓莉，朱建佳，赵东升.生态系统服务权衡：方法、模型与研究框架.地理研究,2016,35(6)：1005-1016.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

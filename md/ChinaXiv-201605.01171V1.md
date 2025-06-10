@@ -1,0 +1,417 @@
+# Vector Condensate and AdS Soliton Instability Induced by a Magnetic Field
+
+Rong-Gen Cail\*， Li Li1t， Li-Fang Li $^ 2$ #， You Wu $3 \ S$ （204号
+
+（20 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190, China. （204 $^ 2$ State Key Laboratory of Space Weather,   
+Center for Space Science and Applied Research, Chinese Academy of Sciences, Beijing 100190,China.   
+（20 $^ 3$ Department of physics, Renmin University of China, Beijing 100872, China.
+
+January 9, 2014
+
+# Abstract
+
+We continue to study the holographic p-wave superconductor model in the Einstein-Maxwell-complex vector field theory with a non-minimal coupling between the complex vector field and the Maxwell field. In this paper we work in the AdS soliton background which describes a conformal field theory in the confined phase and focus on the probe approximation. We find that an applied magnetic field can lead to the condensate of the vector field and the AdS soliton instability. As a result,a vortex lattice structure forms in the spatial directions perpendicular to the applied magnetic field. As a comparison，we also discuss the vector condensate in the Einstein-SU(2) Yang-Mills theory and find that in the setup of the present paper, the Einstein-Maxwell-complex vector field model is a generalization of the SU(2) model in the sense that the vector field has a general mass and gyromagnetic ratio.
+
+# Contents
+
+1Introduction 2
+
+Einstein-Maxwell-complex vector model 4   
+2.1Turning on a constant magnetic feld 5   
+2.2Phase diagram 7
+
+# 3Einstein-Yang-Mills model 10
+
+3.1Adding a constant magnetic teld 1U   
+3.2Phase diagram 11
+
+lVortex lattice solution 12
+
+5Conclusion and discussion 14
+
+# 1 Introduction
+
+The gauge/gravity duality [1, 2, 3] allows us to map a strongly interacting quantum field theory to a weakly coupled gravity theory living in a higher dimensional spacetime. The applications of the gauge/gravity duality have been extended to various fields in recent years, especially in condensed matter physics [4, 5,6].
+
+A well known example is the holographic superconductor model [7, 8]. By introducing a charged scalar field coupled to a $( 3 + 1 )$ dimensional Einstein-Maxwell theory with a negative cosmological constant, this model admits a second order phase transition. At high temperature, the scalar field vanishes and one obtains the standard AdS ReissnerNordstrom black hole. However，when one lowers the temperature, the AdS ReissnerNordstrom black hole becomes unstable and is replaced by a charged black hole with a non-trivial scalar“hair”. The higher temperature AdS Reissner-Nordstrom black hole describes a conductor phase,while the low temperature black hole solution has the expected behavior for a superconducting phase. Since the condensed field is a scalar field dual to a scalar operator in the field theory side, it is therefore a holographic s-wave superconductor model. Holographic p-wave models were realized by the condensation of a vector like field [9,10, 11, 12], while holographic d-wave models were built up by introducing a charged spin two field propagating in the bulk [13, 14].
+
+On the other hand, some novel properties of QCD matter in a strong magnetic field have been revealed recently, see ref. [15] for a review. In particular, the QCD vacuum may undergo a phase transition to an exotic phase with charged $\rho$ -meson condensed in a sufficiently strong magnetic field, which is a kind of anisotropic superconducting phase [16, 17,18]. Similar phenomenon has been also studied by holography based on the SakaiSugimoto model [19, 20, 21]. In particular, the holographic $\rho$ -meson studied in the confined phase at zero temperature [19] suggests that the effective mass of the $\rho$ -meson would become tachyonic in a sufficiently strong magnetic field,which gives rise to the condensate of the $\rho$ -meson in a strong magnetic field. In principle, the holographic p-wave model proposed in refs. [11,12] can also describe the condensate of the $\rho$ -meson in low energy QCD.
+
+In a recent paper [11], we constructed a holographic model with vector condensate in the Einstein-Maxwell-complex vector field theory in $( 3 + 1 )$ dimensional spacetime. In this model there exists a non-minimal coupling between the complex vector field and the Maxwell feld. Working in the probe limit，we found that there is a critical temperature below which the charged vector condenses via a second order phase transition. The DC conductivity becomes infinite and the AC conductivity develops a gap in the condensed phase. In addition, it was found that the background magnetic field can induce the condensate of the vector field even in the case without chemical potential/charge density. In the case with non-vanishing charge density, the transition temperature raises with the applied magnetic field, and the condensate of the charged vector operator forms a vortex lattice structure in the spatial directions perpendicular to the applied magnetic feld. Thus, this model is also relevant to the $\rho$ -meson condensate in an applied magnetic field. In a follow up paper [12] we studied the model in some detail by taking into account the back reaction of matter fields on a black hole background geometry. Depending on the mass and charge of the vector field,we found that not only second order,but also first order and zeroth order phase transitions exist in this model. In particular the so-called “retrograde condensation” can also appear, there the hairy black hole solution exists only for the temperature above a critical value, its free energy is much larger than the one of the black hole without the vector hair. For details please see ref. [12].
+
+In the previous studies, we limited ourselves to the black hole background, which corresponds to a dual field theory in the deconfined phase in a finite temperature,according to the gauge/gravity duality. It is worth generalizing our study to the AdS soliton background case dual to a field theory in the confined phase. Such a study can not only shed lights on the p-wave insulator/superconductor transition at zero temperature, but also is relevant to the condensate of $\rho$ -meson appearing in a confined phase. In this model the background magnetic field is from the U(1) gauge feld, so we shall call it Abelian magnetic field for convenience. The black hole instability induced by a background non-Abelian magnetic field coming from a ${ \mathrm { S U } } ( 2 )$ gauge field has been reported in refs. [22, 23] where a vortex lattice structure forms due to the condensation of some non-Abelian current operators. To distinguish our model with the p-wave model with SU(2) gauge field [9], we may call our model Abelian p-wave model, while the latter non-Abelian one. To compare two models, we will also investigate the AdS soliton instability induced by non-Abelian magnetic field in the non-Abelian p-wave model.
+
+To immerse the strongly coupled system into an external magnetic field background, we turn on a uniform magnetic field $B$ in the bulk. For the Abelian p-wave model, we find that the increase of the Abelian magnetic field will induce the instability of the AdS soliton background. It is well known that the increase of the chemical potential can induce the instability of the AdS soliton background, which mimics the insulator/superconductor transition in many holographic s-wave [24, 25, 26, 27] and non-Abelian p-wave [28, 29] models. The magnetic field here plays the same role as the chemical potential and a family of condensate can be induced by the applied magnetic field in the dual strongly coupled system. Although there is a tower of “droplet” solutions in the sense that they are localized in a finite region for finite magnetic field [30],it is quite different from the s-wave soliton case [31], where the presence of the magnetic feld causes the phase transition much more difficult. We then study the non-Abelian p-wave model in the AdS soliton background with constant magnetic field. Similarly, the non-Abelian magnetic field can also induce the AdS soliton instability. In particular, if we take the mass of the charged vector feld to be zero and the non-minimal coupling constant between the charged vector field and the Maxwell gauge field to be one, we find that in the setup of the present paper, the reduced equations of motion of the Abelian p-wave model are exactly the same as those of the non-Abelian model.In this sense,the Einstein-Maxwell-complex vector field model can be viewed as a generalization of the SU(2) p-wave model. We also manage to construct the vortex latice solution in the condensed phase near the transition point,which is very reminiscent of the Abrikosov lattice in the common type-II superconductors.
+
+The plan of this paper is as follows. In section 2，we first introduce the holographic model with a complex vector field charged under a U(1） gauge field in the AdS soliton background. We turn on a uniform magnetic field and give details about how to recover the Landau levels of the vector field in this holographic model. Then we study the phase diagram. In section 3,we investigate the magnetic field effect for the non-Abelian p-wave model in the AdS soliton background. We construct the general vortex lattice solutions in section 4 for both two models. The conclusion and further discussions are included in section 5.
+
+# 2 Einstein-Maxwell-complex vector model
+
+In this section, we study the AdS soliton instabilities induced by an applied magnetic field in the Einstein-Maxwell-complex vector field theory. Let us introduce a charged vector field into a $( 4 + 1 )$ dimensional Einstein-Maxwell theory with a negative cosmological constant. The full action reads
+
+$$
+S = \frac { 1 } { 2 \kappa ^ { 2 } } \int d ^ { 5 } x \sqrt { - g } [ \mathcal { R } + \frac { 1 2 } { L ^ { 2 } } - \frac { 1 } { 4 } F _ { \mu \nu } F ^ { \mu \nu } - \frac { 1 } { 2 } \rho _ { \mu \nu } ^ { \dagger } \rho ^ { \mu \nu } - m ^ { 2 } \rho _ { \mu } ^ { \dagger } \rho ^ { \mu } + i q \gamma \rho _ { \mu } \rho _ { \nu } ^ { \dagger } F ^ { \mu \nu } ] ,
+$$
+
+where $\kappa ^ { 2 } \equiv 8 \pi G$ is associated to the gravitational constant in the bulk and $L$ is the AdS radius which is chosen to be unity. $m$ and $q$ are related to the mass and charge of the vector field $\rho _ { \mu }$ ，respectively. $F _ { \mu \nu } = \nabla _ { \mu } A _ { \nu } - \nabla _ { \nu } A _ { \mu }$ is the strength of $\mathrm { U } ( 1 )$ field $A _ { \mu }$ .The tensor $\rho _ { \mu \nu }$ is defined by $\rho _ { \mu \nu } = D _ { \mu } \rho _ { \nu } - D _ { \nu } \rho _ { \mu }$ with the covariant derivative $D _ { \mu } = \nabla _ { \mu } - i q A _ { \mu }$ The last term in (1） describes the non-minimal coupling between the charged vector field $\rho _ { \mu }$ and $\mathrm { U } ( 1 )$ gauge field $A _ { \mu }$ characterizing the magnetic moment of the vector field $\rho _ { \mu }$ . The coupling constant $\gamma$ in some sense can be thought of as an effective gyromagnetic ratio of the charged vector field.
+
+The equation of motion for the charged vector field $\rho _ { \mu }$ is given by
+
+$$
+D ^ { \nu } \rho _ { \nu \mu } - m ^ { 2 } \rho _ { \mu } + i q \gamma \rho ^ { \nu } F _ { \nu \mu } = 0 ,
+$$
+
+while the equation of motion for gauge field $A _ { \mu }$ is
+
+$$
+\nabla ^ { \nu } F _ { \nu \mu } = i q ( \rho ^ { \nu } \rho _ { \nu \mu } ^ { \dagger } - \rho ^ { \nu \dagger } \rho _ { \nu \mu } ) + i q \gamma \nabla ^ { \nu } ( \rho _ { \nu } \rho _ { \mu } ^ { \dagger } - \rho _ { \nu } ^ { \dagger } \rho _ { \mu } ) .
+$$
+
+By taking the limit $q \to \infty$ with $q \rho _ { \mu }$ and $q A _ { \mu }$ fixed, the back reaction of the matter sources to the background spacetime can be ignored. This is the probe limit we will adopt in this paper. Since we want to study the phase transition in the confined phase, the background geometry is taken to be a $( 4 + 1 )$ -dimensional AdS soliton
+
+$$
+d s ^ { 2 } = \frac { d r ^ { 2 } } { f ( r ) } + r ^ { 2 } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + f ( r ) d \eta ^ { 2 } ,
+$$
+
+where $\begin{array} { r } { f ( r ) = r ^ { 2 } ( 1 - \frac { r _ { 0 } ^ { 4 } } { r ^ { 4 } } ) } \end{array}$ and $r _ { 0 }$ is the tip of the soliton.This is a self-consistent solution of action (1） by neglecting the matter sources. To avoid the potential conical singularity at $r = r _ { 0 }$ , the spatial direction $\eta$ must have a period $\eta \sim \eta + \pi / r _ { 0 }$ . The AdS soliton just looks like a cigar with the asymptotical geometry $R ^ { 1 , 2 } \times S ^ { 1 }$ near the AdS boundary. Since the spacetime exists only for $r > r _ { 0 }$ , the dual field theory is in a confined phase and has a mass gap, $E _ { g } \sim r _ { 0 }$ . The AdS soliton spacetime can describe an insulator in condensed matter physics [24], due to the presence of the mass gap.
+
+# 2.1 Turning on a constant magnetic field
+
+We now turn on a magnetic field to study how the applied magnetic field influences the system. Similar to the black hole case studied in ref.[11],a consistent ansatz turns out to be
+
+$$
+\begin{array} { r } { \rho _ { \nu } d x ^ { \nu } = [ \epsilon \rho _ { x } ( r , x ) e ^ { i p y } + \mathcal { O } ( \epsilon ^ { 3 } ) ] d x + [ \epsilon \rho _ { y } ( r , x ) e ^ { i p y } e ^ { i \theta } + \mathcal { O } ( \epsilon ^ { 3 } ) ] d y , } \\ { A _ { \nu } d x ^ { \nu } = [ \phi ( r ) + \mathcal { O } ( \epsilon ^ { 2 } ) ] d t + [ B x + \mathcal { O } ( \epsilon ^ { 2 } ) ] d y , } \end{array}
+$$
+
+where $\rho _ { x } ( r , x )$ ， $\rho _ { y } ( r , x )$ and $\phi ( r )$ are all real functions, $p$ is a real constant and the constant $\theta$ is the phase difference between the $x$ and $y$ components of the vector field $\rho _ { \mu }$ . The constant Abelian magnetic field $B$ is perpendicular to the $x - y$ plane.The parameter $\epsilon$ is a small quantity characterizing the deviation from the critical point at which the condensate begins to appear.
+
+Substituting the ansatz (5) into equation (3), the equation of motion for $\phi$ can be read off at the zeroth order
+
+$$
+\phi ^ { \prime \prime } ( r ) + ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \phi ^ { \prime } ( r ) = 0 .
+$$
+
+The asymptotic value of $\phi$ gives the chemical potential $\mu = A _ { t } ( r  \infty )$ of the dual field theory. Imposing the Neumann-like boundary condition at the tip of the AdS soliton background [24],we find a unique solution
+
+$$
+\phi ( r ) = \mu .
+$$
+
+The equations of motion for $\rho _ { x }$ and $\rho _ { y }$ can be deduced from(2) at linear order $\mathcal { O } ( \epsilon )$ . We can further make a variable separation as $\rho _ { x } ( r , x ) = \varphi _ { x } ( r ) X ( x )$ and $\rho _ { y } ( r , x ) = \varphi _ { y } ( r ) Y ( x )$ To satisfy the equations of motion, $\theta$ can only be $\textstyle \theta _ { + } = { \frac { \pi } { 2 } } + 2 n \pi$ or $\textstyle \theta _ { - } = - { \frac { \pi } { 2 } } + 2 n \pi$ with $n$ （204号 an arbitrary integer. We then obtain the equations of motion for $\varphi _ { x } ( r )$ ， $\varphi _ { y } ( r )$ ， $X ( x )$ and （204 $Y ( x )$ as
+
+$$
+\begin{array} { r } { \varphi _ { x } \dot { X } \pm ( q B x - p ) \varphi _ { y } Y = 0 , } \\ { \varphi _ { x } ^ { \prime } \dot { X } \pm ( q B x - p ) \varphi _ { y } ^ { \prime } Y = 0 , } \end{array}
+$$
+
+$$
+_ { x } ^ { \prime \prime } + ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \varphi _ { x } ^ { \prime } + ( \frac { q ^ { 2 } \mu ^ { 2 } } { r ^ { 2 } f } - \frac { m ^ { 2 } } { f } ) \varphi _ { x } + \frac { \varphi _ { x } } { r ^ { 2 } f } [ \mp ( q B x - p ) \frac { \dot { Y } } { X } \frac { \varphi _ { y } } { \varphi _ { x } } \pm q B \gamma \frac { Y } { X } \frac { \varphi _ { y } } { \varphi _ { x } } - ( q B x - p ) ^ { 2 } ] = 0
+$$
+
+$$
+- ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \varphi _ { y } ^ { \prime } + ( \frac { q ^ { 2 } \mu ^ { 2 } } { r ^ { 2 } f } - \frac { m ^ { 2 } } { f } ) \varphi _ { y } + \frac { \varphi _ { y } } { r ^ { 2 } f } [ \frac { \ddot { Y } } { Y } \pm ( q B x - p ) \frac { \dot { X } } { Y } \frac { \varphi _ { x } } { \varphi _ { y } } \pm ( 1 + \gamma ) q B \frac { X } { Y } \frac { \varphi _ { x } } { \varphi _ { y } } ] = 0
+$$
+
+where the prime and dot denote the derivatives with respect to $r$ and $x$ ，respectively. Here and below the upper signs correspond to the $\theta _ { + }$ case and the lower to the $\theta _ { - }$ case. To satisfy (8) and (9),one should impose the constraint
+
+$$
+\varphi _ { y } = c \varphi _ { x } , ~ \dot { X } \pm c ( q B x - p ) Y = 0 ,
+$$
+
+with $c$ a real constant. We can see that only two of the four functions are independent. Substituting (12) into the remaining equations, we can find the following three equations
+
+$$
+\varphi _ { x } ^ { \prime \prime } + ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \varphi _ { x } ^ { \prime } + ( \frac { q ^ { 2 } \mu ^ { 2 } - \mathcal { E } } { r ^ { 2 } f } - \frac { m ^ { 2 } } { f } ) \varphi _ { x } = 0 ,
+$$
+
+$$
+- \ddot { X } \mp c ( 1 + \gamma ) q B Y + ( q B x - p ) ^ { 2 } X = \mathcal { E } X ,
+$$
+
+$$
+- \ddot { Y } \mp \frac { ( 1 + \gamma ) q B } { c } X + ( q B x - p ) ^ { 2 } Y = \mathcal { E } Y ,
+$$
+
+where $\mathcal { E }$ is a constant. It is clear that (14) and (15) are the same as corresponding ones in the black hole case discussed in ref.[11]. For the sake of brevity, we therefore just list the main results in this paper. More details can be found in ref. [11]. By defining a new function as
+
+$$
+\psi ( x ) = X ( x ) - Y ( x ) ,
+$$
+
+one gets its equation from (14) and (15) as
+
+$$
+\ddot { \psi } ( x ) + [ \mathcal { E } \mp c ( 1 + \gamma ) q B - ( q B x - p ) ^ { 2 } ] \psi ( x ) = 0 ,
+$$
+
+where we have imposed the condition $c ^ { 2 } = 1$ [11]. This eigenvalue equation can be solved exactly with the eigenvalue function
+
+$$
+\psi _ { n } ( x ) = N _ { n } e ^ { - \frac { 1 } { 2 } | q B | ( x - \frac { p } { q B } ) ^ { 2 } } H _ { n } ( \sqrt { | q B | } ( x - \frac { p } { q B } ) ) ,
+$$
+
+and the corresponding eigenvalue
+
+$$
+\mathcal { E } _ { n } = ( 2 n + 1 ) | q B | \pm c ( 1 + \gamma ) q B ,
+$$
+
+where $H _ { n }$ is Hermite function, $N _ { n }$ is a normalization constant and $n$ is a non-negative integer labeling each “energy level”.
+
+The solutions of $\varphi _ { x }$ and $\varphi _ { y }$ corresponding to the eigenvalue $\mathcal { E } _ { n }$ , denoted by $\varphi _ { x n }$ and $\varphi _ { y n }$ ， can be obtained by solving the equation of motion (13) with $\dot { \varepsilon _ { n } }$ given in (19). So far, we have recovered the Landau levels. As we arrive at the transition point, we should encounter a marginally stable mode at the critical point. Those solutions obtained from (13) just correspond to the marginally stable states.
+
+One can see from (13) that the effective mass of $\rho _ { x }$ is given by
+
+$$
+m _ { \mathrm { e f f } } ^ { 2 } = m ^ { 2 } + \frac { \mathcal { E } _ { n } - q ^ { 2 } \mu ^ { 2 } } { r ^ { 2 } } = m ^ { 2 } + \frac { ( 2 n + 1 ) | q B | \pm c ( 1 + \gamma ) q B - q ^ { 2 } \mu ^ { 2 } } { r ^ { 2 } } ,
+$$
+
+which is clearly corrected by the magnetic field $B$ . The appearance of magnetic field can increase or decrease the efective mass,thus will hinder or enhance the transition from the normal phase to the condensed phase. In what follows, we consider the solution with the lowest Landau level with $n = 0$ ，which reads
+
+$$
+\begin{array} { r l r } & { } & { \mathcal { E } _ { 0 } ^ { L } = - \vert \gamma q B \vert , } \\ & { } & { X _ { 0 } ^ { L } ( x ; p ) = \displaystyle \frac { N _ { 0 } } { 2 } e ^ { - \frac { \vert q B \vert } { 2 } ( x - \frac { p } { q B } ) ^ { 2 } } = - Y _ { 0 } ^ { L } ( x ; p ) . } \end{array}
+$$
+
+The general falloff of $\varphi _ { x }$ near the boundary $r  \infty$ behaves as
+
+$$
+\varphi _ { x } = \frac { \rho _ { x - } } { r ^ { \Delta _ { - } } } + \frac { \rho _ { x + } } { r ^ { \Delta _ { + } } } + . . . ,
+$$
+
+with $\Delta _ { \pm } = 1 \pm \sqrt { 1 + m ^ { 2 } }$ . 1 According to the AdS/CFT dictionary, up to a normalization, $\rho _ { x - }$ and $\rho _ { x + }$ timing the spatial dependent part are regarded as the source and the expectation value of the $x$ component of the dual vector operator denoted as ${ \hat { J } } ^ { x }$ in the boundary theory, respectively. Similar statement holds for $\varphi _ { y }$ corresponding to the $y$ component of the dual vector operator $\hat { J } ^ { y }$ . Since we want the $\mathrm { U } ( 1 )$ symmetry to be broken spontaneously, we turn off the source term, namely take $\rho _ { x _ { - } } = 0$ ：
+
+# 2.2 Phase diagram
+
+We are interested in how the applied magnetic field can influence the critical point from the normal phase to the condensed phase. As we can see from (2O), the effective mass of
+
+the charged vector field $\rho _ { \mu }$ in the lowest Landau level $n = 0$ depends on the magnetic field $B$ and the non-minimal coupling parameter $\gamma$ as
+
+$$
+m _ { \mathrm { e f f } } ^ { 2 } = m ^ { 2 } - \frac { | \gamma q B | + q ^ { 2 } \mu ^ { 2 } } { r ^ { 2 } } .
+$$
+
+It is clear that the increase of the magnetic field $B$ decreases the effective mass and thus tends to induce the phase transition. The magnetic field plays the same role as the chemical potential $\mu$ ：
+
+We introduce a new coordinate $z = r _ { 0 } / r$ ， then the equation of motion (13） can be rewritten as 2
+
+$$
+\varphi _ { x } ^ { \prime \prime } ( z ) - \frac { 1 + 3 z ^ { 4 } } { z ( 1 - z ^ { 4 } ) } \varphi _ { x } ^ { \prime } ( z ) - [ \frac { m ^ { 2 } } { z ^ { 2 } ( 1 - z ^ { 4 } ) } - \frac { \Lambda } { 1 - z ^ { 4 } } ] \varphi _ { x } ( z ) = 0 ,
+$$
+
+where $\begin{array} { r } { \Lambda = { \frac { q ^ { 2 } \mu ^ { 2 } + | \gamma q B | } { r _ { 0 } ^ { 2 } } } } \end{array}$ .We further define anew function for numerical convenience
+
+![](images/1c1ccf94531cbb6dcd467bde01934f67fec7b04c048df6f371f37007b534c7fe.jpg)  
+Figure 1: Three marginally stable modes of the charged vector field. The three curves from top to down correspond to $\Lambda _ { 0 } \simeq 7 . 7 5 6 2$ (red)， $\Lambda _ { 1 } \simeq 2 7 . 9 9 2$ （blue） and $\Lambda _ { 2 } \simeq 5 9 . 6 0 1$ (purple), respectively. We here take $m ^ { 2 } = 5 / 4$ . We have normalized the value of $\varphi _ { x }$ at the tip to be one.
+
+$$
+\varphi _ { x } ( z ) = ( \frac { z } { r _ { 0 } } ) ^ { \triangle _ { - } } F ( z ) ,
+$$
+
+then the equation of motion for $F ( z )$ is given by
+
+$$
+z ) - \frac { 1 } { z } ( \frac { 1 + 3 z ^ { 4 } } { 1 - z ^ { 4 } } - 2 \triangle _ { - } ) F ^ { \prime } ( z ) - [ \frac { m ^ { 2 } + 4 \triangle _ { - } } { z ^ { 2 } ( 1 - z ^ { 4 } ) } - \frac { \triangle _ { - } ( \triangle _ { - } + 2 ) } { z ^ { 2 } } - \frac { \Lambda } { 1 - z ^ { 4 } } ] F ( z ) = 0 .
+$$
+
+To solve such a second order equation, we should impose suitable boundary conditions. Remember that the leading term of $F ^ { \prime }$ near the boundary $z  0$ gives the source term which is set to be zero，so one has the condition $F ( z = 0 ) = 0$ at the boundary. We impose the regularity condition at the tip $z = 1$ . Thanks to the linearity of (26)，we take $F ( z = 1 ) = 1$ in our numerical calculation without loss of generality. It is clear that (26) depends on two parameters $m ^ { 2 }$ and $\Lambda$ . For a given $m ^ { 2 }$ , only for certain values of $\Lambda$ can the boundary conditions be fulfilled.
+
+Solving (26) by shooting method, we present the three lowest-lying marginally stable modes in figure $1$ for $m ^ { 2 } = 5 / 4$ . The three modes are in the sequence $\Lambda _ { 0 } < \Lambda _ { 1 } < \Lambda _ { 2 }$ . The mode with $\Lambda _ { 0 } \simeq 7 . 7 5 6 2$ (the red curve) is regarded as a mode with node $n = 0$ since the curve has no intersecting points with horizontal axis except at the origin $z = 0$ . Following such terminology, the blue curve corresponding to $\Lambda _ { 1 } \simeq 2 7 . 9 9 2$ is considered as a mode with node $n = 1$ and the purple one corresponding to $\Lambda _ { 2 } \simeq 5 9 . 6 0 1$ as a mode with node $n = 2$ .Due to the radial oscillations in $z$ -direction of $\varphi _ { x } ( z )$ ， the latter two modes are therefore thought to be less stable than the first one. Thus, the lowest value $\Lambda _ { 0 }$ just gives the critical value above which the AdS soliton is unstable to developing a vector “hair”. We plot the value of $\Lambda _ { 0 }$ for different squared mass of the vector field in figure 2, from which one can see that $\Lambda _ { 0 }$ increases as we increase the squared mass.
+
+![](images/44118f532fbc0cfad29cacd15f0c78e1c6d70902d38a9467d8bf6fcdf2e81d7c.jpg)  
+Figure 2: The critical value of $\Lambda _ { 0 }$ with respect to $m ^ { 2 }$ of the vector field. The black points are obtained by solving the equation (26) numerically by use of shooting method.
+
+It shouldbestressedere thatitisthecombinatio $\begin{array} { r } { \Lambda _ { 0 } = \frac { q ^ { 2 } \mu ^ { 2 } + | \gamma q B | } { r _ { 0 _ { \ldots } } ^ { 2 } } } \end{array}$ that determines the phase transition point of the system. More specifically, turning off the chemical potential $\mu$ ，we can see that only the magnetic field itself can also induce the instability. This result is totally different from the case in the holographic s-wave superconductor/insulator model [31], where the presence of the magnetic field makes the normal phase more stable rather than unstable. The result here is reminiscent of the QCD vacuum instability induced by strong magnetic field to spontaneously developing the $\rho$ -meson condensate. Just as pointed out in the finite temperature case [11], this is due to the non-minimal coupling of the vector field $\rho ^ { \mu }$ to the gauge field $A _ { \mu }$ in the last term in (1). The reader would be familiar with such a term used to describe the coupling of magnetic moment for charged vector particles to a background magnetic field in the literature, see refs. [32， 33] for example.
+
+# 3 Einstein-Yang-Mills model
+
+The black hole instability induced by an applied non-Abelian magnetic feld in the SU(2) p-wave model was studied in refs. [23,34]. In this section, we will study the AdS soliton instability induced by the non-Abelian magnetic field.
+
+The five-dimensional Einstein-SU(2) Yang-Mills theory with a negative cosmological constant can be written as [9]
+
+$$
+S = \int d ^ { 5 } x \sqrt { - g } [ \frac { 1 } { 2 \kappa ^ { 2 } } ( \mathcal { R } + \frac { 1 2 } { L ^ { 2 } } ) - \frac { 1 } { 4 \hat { g } ^ { 2 } } F _ { \mu \nu } ^ { a } F ^ { a \mu \nu } ] ,
+$$
+
+where $\hat { \boldsymbol g }$ is the Yang-Mills coupling constant. The SU(2) Yang-Mills field strength is given by 3
+
+$$
+F _ { \mu \nu } ^ { a } = \partial _ { \mu } A _ { \nu } ^ { a } - \partial _ { \nu } A _ { \mu } ^ { a } + \epsilon ^ { a b c } A _ { \mu } ^ { b } A _ { \nu } ^ { c } ,
+$$
+
+where $\epsilon ^ { a b c }$ is the totally antisymmetric tensor with $\epsilon ^ { 1 2 3 } = + 1$ . The gauge feld is given by （204号 $A = A _ { \mu } ^ { a } \tau ^ { a } d x ^ { \mu }$ . The equation of motion for $A _ { \mu } ^ { a }$ reads
+
+$$
+\nabla _ { \mu } F ^ { a \mu \nu } + { \epsilon } ^ { a b c } A _ { \mu } ^ { b } F ^ { c \mu \nu } = 0 .
+$$
+
+We work in the probe limit and treat marginally stable perturbations as probe into the AdS soliton (4).
+
+# 3.1 Adding a constant magnetic field
+
+We turn on a background non-Abelian magnetic field $B$ and also allow for a non-Abelian chemical potential in the dual system. Both of them come from the $\tau ^ { 3 }$ component of the Lie algebra. We take the following ansatz
+
+$$
+\begin{array} { l } { { A _ { \mu } ^ { 1 } d x ^ { \mu } = [ \epsilon a _ { x } ^ { 1 } ( r , x , y ) + \mathcal { O } ( \epsilon ^ { 3 } ) ] d x + [ \epsilon a _ { y } ^ { 1 } ( r , x , y ) + \mathcal { O } ( \epsilon ^ { 3 } ) ] d y , } } \\ { { A _ { \mu } ^ { 2 } d x ^ { \mu } = [ \epsilon a _ { x } ^ { 2 } ( r , x , y ) + \mathcal { O } ( \epsilon ^ { 3 } ) ] d x + [ \epsilon a _ { y } ^ { 2 } ( r , x , y ) + \mathcal { O } ( \epsilon ^ { 3 } ) ] d y , } } \\ { { A _ { \mu } ^ { 3 } d x ^ { \mu } = [ \phi ( r ) + \mathcal { O } ( \epsilon ^ { 2 } ) ] d t + [ B x + \mathcal { O } ( \epsilon ^ { 2 } ) ] d y , } } \end{array}
+$$
+
+with $\epsilon$ the small deviation parameter. Substituting above ansatz into (29),we obtain the equation of motion for $\phi ( r )$ at leading order,which is just the same as (6) with the solution given in (7). At linear order $\mathcal { O } ( \epsilon )$ ， the equations of motion turn out to be
+
+$$
+\partial _ { x } V _ { x } + ( \partial _ { y } - i B x ) V _ { y } = 0 ,
+$$
+
+$$
+\partial _ { x } \partial _ { r } V _ { x } + ( \partial _ { y } - i B x ) \partial _ { r } V _ { y } = 0 ,
+$$
+
+$$
+^ { 2 } { } _ { r } V _ { x } + ( { \frac { f ^ { \prime } } { f } } + { \frac { 1 } { r } } ) \partial _ { r } V _ { x } + { \frac { 1 } { r ^ { 2 } f } } [ ( \partial _ { y } ^ { 2 } - i 2 B x \partial _ { y } + \mu ^ { 2 } - B ^ { 2 } x ^ { 2 } ) V _ { x } + ( - \partial _ { x } \partial _ { y } + i B x \partial _ { x } - i B ) V _ { y } ] = 0 .
+$$
+
+$$
+\partial _ { r } ^ { 2 } V _ { y } + ( { \frac { f ^ { \prime } } { f } } + { \frac { 1 } { r } } ) \partial _ { r } V _ { y } + { \frac { 1 } { r ^ { 2 } f } } [ ( - \partial _ { x } \partial _ { y } + i B x \partial _ { x } + i 2 B ) V _ { x } + ( \partial _ { x } ^ { 2 } + \mu ^ { 2 } ) V _ { y } ] = 0 ,
+$$
+
+where $V _ { x } = a _ { x } ^ { 1 } - i a _ { x } ^ { 2 }$ and $V _ { y } = a _ { y } ^ { 1 } - i a _ { y } ^ { 2 }$
+
+In order to solve above four equations of motion, we further make a variable separation
+
+$$
+V _ { x } ( r , x , y ) = \tilde { \varphi } _ { x } ( r ) \tilde { X } ( x ) e ^ { i p y } , \quad V _ { y } ( r , x , y ) = \tilde { \varphi } _ { y } ( r ) \tilde { Y } ( x ) e ^ { i p y } e ^ { i \tilde { \theta } } ,
+$$
+
+where $\tilde { \varphi } _ { x }$ ， $\tilde { \varphi } _ { y }$ ， $\tilde { X }$ and $\tilde { Y }$ are all real functions and $p$ is a real constant. We also introduce a constant $\theta$ describing the phase difference between $V _ { x }$ and $V _ { y }$ . Further analysis shows that $\tilde { \theta }$ can only be $\begin{array} { r } { \tilde { \theta } _ { + } = \frac { \pi } { 2 } + 2 n \pi } \end{array}$ or $\begin{array} { r } { \tilde { \theta } _ { - } = - \frac { \pi } { 2 } + 2 n \pi } \end{array}$ with $n$ an arbitrary integer. Then we obtain the following equations of motion
+
+$$
+\begin{array} { r } { \tilde { \varphi } _ { x } \dot { \tilde { X } } \pm ( B x - p ) \tilde { \varphi } _ { y } \tilde { Y } = 0 , } \\ { \tilde { \varphi } _ { x } ^ { \prime } \dot { \tilde { X } } \pm ( B x - p ) \tilde { \varphi } _ { y } ^ { \prime } \tilde { Y } = 0 , } \end{array}
+$$
+
+$$
+\mathbf { \Psi } _ { x } ^ { \prime \prime } + ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \tilde { \varphi } _ { x } ^ { \prime } + \frac { \mu ^ { 2 } } { r ^ { 2 } f } \tilde { \varphi } _ { x } + \frac { \tilde { \varphi } _ { x } } { r ^ { 2 } f } [ \mp ( B x - p ) \frac { \dot { \tilde { Y } } } { \tilde { X } } \frac { \tilde { \varphi } _ { y } } { \tilde { \varphi } _ { x } } \pm B \frac { \tilde { Y } } { \tilde { X } } \frac { \tilde { \varphi } _ { y } } { \tilde { \varphi } _ { x } } - ( B x - p ) ^ { 2 } ] = 0 ,
+$$
+
+$$
+\tilde { \varphi } _ { y } ^ { \prime \prime } + ( \frac { f ^ { \prime } } { f } + \frac { 1 } { r } ) \tilde { \varphi } _ { y } ^ { \prime } + \frac { \mu ^ { 2 } } { r ^ { 2 } f } \tilde { \varphi } _ { y } + \frac { \tilde { \varphi } _ { y } } { r ^ { 2 } f } [ \frac { \ddot { \tilde { Y } } } { \tilde { Y } } \pm ( B x - p ) \frac { \dot { \tilde { X } } } { \tilde { Y } } \frac { \tilde { \varphi } _ { x } } { \tilde { \varphi } _ { y } } \pm 2 B \frac { \tilde { X } } { \tilde { Y } } \frac { \tilde { \varphi } _ { x } } { \tilde { \varphi } _ { y } } ] = 0 ,
+$$
+
+where the prime and dot denote the derivatives with respect to $r$ and $x$ ，respectively. The same as in the previous section, the upper signs correspond to the ${ \tilde { \theta } } _ { + }$ case and the lower to the $\tilde { \theta } _ { - }$ case. Comparing the above four equations of motion with equations (8)-(11), we can find that the two sets of equations of motion are the same if we choose parameters $q = 1 , m ^ { 2 } = 0$ and $\gamma = 1$ in (8)-(11). Thus, the results obtained in the previous section can be used here by simply restricting the model parameters to $q = 1 , m ^ { 2 } = 0$ and $\gamma = 1$ ： In this sense,the complex vector field model can be thought of as a generalization of the SU(2) p-wave model.
+
+# 3.2 Phase diagram
+
+In the presence of constant magnetic field and chemical potential, the field $\varphi _ { x }$ 4 acquires an effective mass in the lowest Landau level $n = 0$ as
+
+$$
+m _ { \mathrm { e f f } } ^ { 2 } = \frac { \mathcal { E } _ { 0 } - \mu ^ { 2 } } { r ^ { 2 } } = - \frac { | B | + \mu ^ { 2 } } { r ^ { 2 } } .
+$$
+
+It is clear that the increase of the magnetic field $B$ decreases the effective mass and thus tends to induce the instability. For given chemical potential $\mu$ ，as we increase the magnetic field $B$ to the critical value $\Lambda _ { 0 } r _ { 0 } ^ { 2 } - \mu ^ { 2 }$ with $\Lambda _ { 0 } = ( \mu ^ { 2 } + | B | ) / r _ { 0 } ^ { 2 } \simeq 5 . 1 3 1 3$ ，the AdS soliton background will become unstable to developing non-trivial vector “hair”. It is clear here that even without the chemical potential, the magnetic field will induce the vector condensate and the AdS soliton instability. In addition, note that the critical value $\Lambda _ { 0 }$ is comparable to the critical magnetic field found in the black hole background [34].
+
+![](images/5091b06ab7574883d8f3ee5b14964f3413bacd572bdd17fee295ac12f7b20823.jpg)  
+Figure 3: The value of chemical potential from the normal phase to the condensed phase as a function of magnetic field. It corresponds to the lowest Landau level with $\Lambda _ { 0 } \simeq 5 . 1 3 1 3$ $\mu _ { c } = \sqrt { \Lambda _ { 0 } } r _ { 0 }$ is the critical chemical potential in the case without the applied magnetic field.
+
+The $( \mu , B )$ phase diagram for the lowest Landau level with $\Lambda _ { 0 } \simeq 5 . 1 3 1 3$ is drawn in figure 3. In order to determine which side of the phase boundary is the condensed phase, we take a look at the equation (40) which suggests that the magnetic field decreases the effective mass. As one increases the strength of magnetic field at a fixed chemical potential, the normal phase will become unstable for sufficiently large magnetic field. Therefore, the region in the upper right in figure 3 corresponds to the condensed phase. In addition, let us mention here that the $( \mu , B )$ phase diagram for a fixed $m ^ { 2 }$ for the Abelian p-wave model discussed in the previous section should be extremely similar to figure 3.
+
+# 4Vortex lattice solution
+
+Following ref.[11], let us now construct the vortex lattice solution for the Abelian and the non-Abelian p-wave models. We consider the case with the lowest Landau level $n = 0$ Since the eigenvalue $\mathcal { E } _ { 0 }$ is independent of $p$ , it is easy to find that a linear superposition of the solutions $e ^ { i p y } \varphi _ { x 0 } ( r ) X _ { 0 } ^ { L } ( x ; p )$ and $e ^ { i p y } \varphi _ { y 0 } ( r ) Y _ { 0 } ^ { L } ( x ; p )$ with different $p$ is also a solution of two models at linear order $\mathcal { O } ( \epsilon )$ . Therefore, the following two functions
+
+$$
+\begin{array} { r } { W _ { x } ( r , x , y ) = \varphi _ { x 0 } ( r ) \displaystyle \sum _ { \ell = - \infty } ^ { + \infty } c _ { \ell } e ^ { i p _ { \ell } y } X _ { 0 } ^ { L } ( x ; p _ { \ell } ) , } \\ { W _ { y } ( r , x , y ) = c e ^ { i \theta _ { \pm } } \varphi _ { x 0 } ( r ) \displaystyle \sum _ { \ell = - \infty } ^ { + \infty } c _ { \ell } e ^ { i p _ { \ell } y } Y _ { 0 } ^ { L } ( x ; p _ { \ell } ) , } \end{array}
+$$
+
+are solutions of the full equations of motion, where $c _ { \ell } = e ^ { - i \frac { \pi a _ { 2 } } { a _ { 1 } ^ { 2 } } \ell ^ { 2 } }$ and $\begin{array} { r } { p _ { \ell } = \frac { 2 \pi \sqrt { | q B | } \ell } { a _ { 1 } } } \end{array}$ with （20 $a _ { 1 }$ and $a _ { 2 }$ arbitrary constants. According to ref. [11],we can construct the vortex lattice solution
+
+$$
+\triangle W ( r , x , y ) \equiv W _ { x } ( r , x , y ) - c e ^ { - i \theta _ { \pm } } W _ { y } ( r , x , y ) = \varphi _ { x 0 } ( r ) \sum _ { \ell = - \infty } ^ { + \infty } c _ { \ell } e ^ { i p _ { \ell } y } \psi _ { 0 } ( x ; p _ { \ell } ) ,
+$$
+
+where γo(x; pe) = Noe-½lqBl(x-)2.
+
+The solution $\triangle W ( r , x , y )$ exhibits a pseudo-periodicity
+
+$$
+\begin{array} { r l r } & { } & { \triangle W ( r , x , y ) = \triangle W ( r , x , y + \frac { a _ { 1 } } { \sqrt { | q B | } } ) , } \\ & { } & { \triangle W ( r , x + \frac { 2 \pi } { a _ { 1 } \sqrt { | q B | } } , y + \frac { a _ { 2 } } { a _ { 1 } \sqrt { | q B | } } ) = e ^ { \frac { i 2 \pi } { a _ { 1 } } ( \sqrt { | q B | } y + \frac { a _ { 2 } } { 2 a _ { 1 } } ) } \triangle W ( r , x , y ) , } \end{array}
+$$
+
+and has a zero at
+
+$$
+{ \bf x } _ { \tilde { m } , \tilde { n } } = ( \tilde { m } + \frac 1 2 ) { \bf v } _ { 1 } + ( \tilde { n } + \frac 1 2 ) { \bf v } _ { 2 } ,
+$$
+
+where two vectors V1 = $\begin{array} { r } { \mathbf { v } _ { 1 } = \frac { a _ { 1 } } { \sqrt { | q B | } } \partial _ { y } } \end{array}$ and $\begin{array} { r } { \mathbf { v } _ { 2 } = \frac { 2 \pi } { a _ { 1 } \sqrt { | q B | } } \partial _ { x } + \frac { a _ { 2 } } { a _ { 1 } \sqrt { | q B | } } \partial _ { y } } \end{array}$ [35] $\tilde { m }$ and $\tilde { n }$ are two integers. Remember that the corresponding results for the ${ \mathrm { S U } } ( 2 )$ model can be directly obtained by choosing the parameters $q = 1 , \gamma = 1$ and $m ^ { 2 } = 0$
+
+According to the AdS/CFT dictionary, the coefficient of the sub-leading term near the boundary $r  \infty$ of $\triangle W ( r , x , y )$ just gives the vacuum expectation value of the dual vector operator. For the Abelian p-wave model, the expectation value of the operator $\hat { J } ^ { x }$ dual to $\rho _ { x }$ is given by the coefficient of $1 / r ^ { \Delta _ { + } }$ at boundary $r  \infty$ , the combination $J _ { \pm } = \langle \hat { J } ^ { x } { \pm } i \hat { J } ^ { y } \rangle$ dose exhibit the vortex lattice structure which has the cores located at $\mathbf { x } _ { \tilde { m } , \tilde { n } }$ . This result is the same as that we reported in the black hole background [11]. In particular,to obtain the triangular lattice we can choose the following parameters
+
+$$
+a _ { 1 } = { \frac { 2 { \sqrt { \pi } } } { \sqrt [ 4 ] { 3 } } } , ~ a _ { 2 } = { \frac { 2 \pi } { \sqrt { 3 } } } .
+$$
+
+We notice that it is the linear combinations $J _ { \pm }$ which exhibit the vortex lattice solution. In particular, for $q > 0$ ，it is $J _ { - }$ that corresponds to the lowest Landau level,while for （20 $q < 0$ ,it is $J _ { + }$ . The SU(2) p-wave model corresponds to the case with $q = 1$ ， so its vortex lattice solution is related to $J _ { - }$ . This further provides the evidence for the correctness of choosing $c ^ { 2 } = 1$ in section 2.1.
+
+As a concrete example, the vortex lattice is presented in figure 4 in the $x - y$ plane perpendicular to the magnetic field for the triangular structure. For other values of $a _ { 1 }$ and $\boldsymbol { a } _ { 2 }$ ， one can obtain different vortex lattice configurations. To determine the true ground state, one must go beyond the linear analysis to find the values of $a _ { 1 }$ and $a _ { 2 }$ which minimize the free energy of all possible lattice structures. What's more, the overall normalization of $\triangle W ( r , x , y )$ can only be fixed at higher order. The calculation of higher order contributions can be done straightforwardly as in refs. [22, 35]. Nevertheless, it is much more involved and is not very relevant to our purpose of this paper. Thus, we shall leave it for our further study.
+
+![](images/f4707019baa1ffa38a990a57545aba1bee7fadbd758f428c33dac7458ad3de28.jpg)  
+Figure 4: The contour plot of the vortex lattice structure for the triangular lattice in $x - y$ plane. Darker shading indicates smaller values of the norm of the condensate. In particular, the condensate vanishes at the core of each vortex.
+
+# 5 Conclusion and discussion
+
+As a continuation of our recent studies on a holographic p-wave superconductor model in the Einstein-Maxwell-complex vector field model proposed in ref.[11], in this paper we generalized to the case with vector condensate of dual conformal field theory in confined phase,i.e.， in an AdS soliton background (see the metric (4)). This study is relevant to the p-wave superconductor(superfluid)/insulator phase transition as well as charged $\rho$ meson condensation in confined QCD vacuum in strong magnetic field. We focused on the behavior of the model in the presence of a constant magnetic field $B$ . At linear order $\mathcal { O } ( \epsilon )$ the spatial part of vector field $\rho _ { \mu }$ can be solved analytically, which gives the Landau level of the vector field in a magnetic field background. It was found that the effective mass of the vector field is reduced by turning on magnetic field in the lowest Landau level case. More precisely, it is the combination $\Lambda = ( q ^ { 2 } \mu ^ { 2 } + | \gamma q B | ) / r _ { 0 } ^ { 2 }$ that determines the instability of our system, here $\mu$ is the chemical potential of dual field theory, while $r _ { 0 }$ is related to the mass gap of the field theory. When we increase the value of $\Lambda$ to the critical one, the AdS soliton background becomes unstable to developing non-trivial vector “hair". Interestingly, it can be seen from $\Lambda$ that the magnetic field itself can induce the instability even without chemical potential $\mu$ . It is clear that the essential point for this is due to the non-minimal coupling between the vector field and the background magnetic field.
+
+To have further understanding, we also study the Einstein-SU(2) Yang-Mills theory in the AdS soliton background with a non-Abelian magnetic field. Interestingly, at least under our ansatz in the present paper, we found that the reduced equations of motion for the non-Abelian model are the same as those of the complex vector field model in the case with parameters $m ^ { 2 } = 0$ and $\gamma = 1$ . 5 Therefore, the presence of a non-Abelian magnetic field can also make the AdS soliton background unstable. In some sense, the EinsteinMaxwell-complex vector field model is a generalization of the SU(2） model to a general mass square $m ^ { 2 }$ and gyromagnetic ratio $\gamma$ of the vector field.
+
+The phase diagram in terms of $B$ and $\mu$ is drawn in figure 3. The critical chemical potential above which a condensed phase appears decreases with the applied magnetic field,which means the presence of magnetic field can enhance rather than suppress the phase transition. This result is reminiscent of the condensation of $W$ -meson [36] and $\rho$ meson [16,17] in a strong magnetic field. Of course, this result is opposite to the well known behavior reported in ordinary superconductors as well as holographic s-wave superconductor/insulator model [31], there the presence of an applied magnetic feld will suppress the superconducting phase transition.Remember that the action (1） describes a p-wave model, and that for the p-wave superconductors, theoretical studies [37, 38, 39, 40] as well as experimental evidences [41, 42] suggest the possibility that the magnetic field can induce superconductivity in some cases, in particular, for the ferromagnetic superconductors. Therefore our results are understandable.
+
+In the present study, we limited ourselves to the probe approximation by neglecting the back reaction of matter fields on the bulk AdS soliton geometry，which may work only near the critical point with continuous phase transition. Although it does be able to reveal some significant properties, something would be lost in this approximation, especially for the whole phase structure,see ref. [43] as an example. Indeed, in the black hole background case, going beyond the probe approximation, we found a rich phase structure in this Einstein-Maxwell-complex vector field model [12]. Depending on mass square $m ^ { 2 }$ and charge $q$ , the phase transition can be zeroth order, first order or second order. In addition, there also exists the so-called “retrograde condensation". The behavior of entanglement entropy in this model has also been studied in ref. [44]. In some sense,although the Einstein-Maxwell-complex vector model looks to be a generalization of the SU(2) p-wave model, it can have much rich phase structure and distinguished properties compared to the latter. Therefore,it is interesting to go beyond the probe limit in the soliton background. Our ongoing work shows that this model has much more interesting behaviors in the soliton background.
+
+The Einstein-Maxwell-complex vector feld model described by the action (1) is just a phenomenological model. At the moment it is not sure whether this model can be embedded into some effective theory of string/M theory. If the answer is yes,it is certainly of great interest to understand those interesting properties of the model from the dual field theory side. This must be quite helpful to understand some high temperature superconductors and QCD vacuum in strong magnetic field.
+
+# Acknowledgements
+
+This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.11035008, No.11205226 and No.11305235),and in part by the Ministry of Science and Technology of China under Grant No.2010CB833004.
+
+# References
+
+[1] J.M. Maldacena,“The large N limit of superconformal field theories and supergravity,” Adv. Theor. Math. Phys. 2, 231 (1998) [Int. J. Theor. Phys. 38,1113(1999)] [arXiv:hep-th/9711200].   
+[2] S. S. Gubser, I. R. Klebanov and A. M. Polyakov,“Gauge theory correlators from non-critical string theory,” Phys. Lett.B 428,105 (1998) [arXiv:hep-th/9802109].   
+[3] E.Witten，“Anti-de Sitter space and holography,” Adv. Theor. Math. Phys. 2, 253 (1998)[arXiv:hep-th/9802150].   
+[4] S.A. Hartnoll， “Lectures on holographic methods for condensed matter physics,” Class.Quant.Grav.26, 224002(2009) [arXiv:0903.3246 [hep-th].   
+[5] C.P. Herzog,“Lectures on Holographic Superfluidity and Superconductivity,” J. Phys. A 42,343001 （2009)[arXiv:0904.1975 [hep-th].   
+[6] J. McGreevy，“Holographic duality with a view toward many-body physics,” Adv. High Energy Phys.2010,723105 （2010) [arXiv:0909.0518 [hep-th].   
+[7] S. A. Hartnoll, C. P. Herzog and G. T. Horowitz,“Building a Holographic Superconductor,” Phys. Rev.Lett. 101,031601 (2008)[arXiv:0803.3295 [hep-th]].   
+[8] S.A. Hartnoll, C. P. Herzog and G. T. Horowitz,“Holographic Superconductors,” JHEP 0812,015 （2008）[arXiv:0810.1563 [hep-th].   
+[9] S. S.Gubser and S. S. Pufu,“The Gravity dual of a p-wave superconductor,” JHEP 0811,033 （2008)[arXiv:0805.2960 [hep-th].   
+[10] F. Aprile， D. Rodriguez-Gomez and J. G. Russo，“p-wave Holographic Superconductors and five-dimensional gauged Supergravity,” JHEP 1101， O56 (2011) [arXiv:1011.2172 [hep-th].   
+[11] R. -G. Cai, S. He, L. Li and L. -F. Li,“A Holographic Study on Vector Condensate Induced by a Magnetic Field,” arXiv:1309.2098 [hep-th].   
+[12] R. -G. Cai, L. Li and L. -F. Li, “A Holographic P-wave Superconductor Model,” arXiv:1309.4877 [hep-th].   
+[13] J. -W. Chen， Y. -J. Kao, D. Maity， W. -Y. Wen and C. -P. Yeh，“Towards A Holographic Model of D-Wave Superconductors,” Phys. Rev. D 81， 106008 (2010) [arXiv:1003.2991 [hep-th].   
+[14] F.Benini, C. P. Herzog, R. Rahman and A. Yarom,“Gauge gravity duality for d-wave superconductors: prospects and challenges,” JHEP 1011,137 (2010) [arXiv:1007.1981 [hep-th]].   
+[15] D. E. Kharzeev， K. Landsteiner，A. Schmitt and H. -U. Yee,“‘Strongly interacting matter in magnetic fields': an overview,” Lect. Notes Phys. 871，1 (2013) [arXiv:1211.6245 [hep-ph]].   
+[16] M. N. Chernodub,“Superconductivity of QCD vacuum in strong magnetic field,” Phys. Rev. D 82, 085011 (2010) [arXiv:1008.1055 [hep-ph].   
+[17] M. N. Chernodub, “Spontaneous electromagnetic superconductivity of vacuum in strong magnetic field: evidence from the Nambu-Jona-Lasinio model,” Phys. Rev. Lett.106,142003 (2011)） [arXiv:1101.0117 [hep-ph].   
+[18] M. N. Chernodub, J. Van Doorsselaere and H. Verschelde，“Electromagnetically superconducting phase of vacuum in strong magnetic field: structure of superconductor and superfluid vortex lattices in the ground state,” Phys. Rev. D 85, O45002 (2012) [arXiv:1111.4401 [hep-ph].   
+[19] N. Callebaut, D. Dudal and H. Verschelde,“Holographic rho mesons in an external magnetic field,” JHEP 1303,033 (2013)[arXiv:1105.2217 [hep-th].   
+[20] N. Callbaut and D. Dudal， “On the transition temperature(s) of magnetized twoflavour holographic QCD,” arXiv:1303.5674 [hep-th].   
+[21] N. Callebaut and D. Dudal， “A magnetic instability of the non-Abelian SakaiSugimoto model,” arXiv:1309.5042 [hep-th].   
+[22] Y.-Y.Bu, J. Erdmenger, J. P. Shock and M. Strydom,“Magnetic feld induced lattice ground states from holography,” JHEP 1303,165 (2013) [arXiv:1210.6669 [hep-th]].   
+[23] K. Wong,“A non-abelian vortex lattice in strongly-coupled systems,” arXiv:1307.7839 [hep-th].   
+[24] T. Nishioka, S. Ryu and T. Takayanagi, “Holographic Superconductor/Insulator Transition at Zero Temperature,” JHEP 1003,131 (2010) [arXiv:0911.0962 [hep-th].   
+[25] G. T. Horowitz and B. Way, “Complete Phase Diagrams for a Holographic Superconductor/Insulator System,” JHEP 1011, 011 (2010) [arXiv:1007.3714 [hep-th]].   
+[26] Y. Peng, Q. Pan and B.Wang,“Various types of phase transitions in the AdS soliton background,” Phys.Lett.B 699,383 (2011) [arXiv:1104.2478 [hep-th]].   
+[27] R. -G. Cai, S. He, L. Li and L. -F. Li, “Entanglement Entropy and Wilson Loop in Stückelberg Holographic Insulator/Superconductor Model,” JHEP 1210, 107 (2012) [arXiv:1209.1019 [hep-th].   
+[28] A. Akhavan and M. Alishahiha， “P-Wave Holographic Insulator/Superconductor Phase Transition,” Phys. Rev. D 83, 086003 (2011) [arXiv:1011.6158 [hep-th]].   
+[29] R.-G. Cai, L. Li, L. -F. Li and R. -K. Su, “Entanglement Entropy in Holographic P-Wave Superconductor/Insulator Model,” JHEP 1306, 063 (2013) [arXiv:1303.4828 [hep-th]].   
+[30] T. Albash and C. V. Johnson,“A Holographic Superconductor in an External Magnetic Field,” JHEP 0809,121 (2008)[arXiv:0804.3466 [hep-th].   
+[31] R. -G. Cai, L. Li, H. -Q. Zhang and Y. -L. Zhang，“Magnetic Field Efect on the Phase Transition in AdS Soliton Spacetime,” Phys. Rev. D 84，126008 (2011) [arXiv:1109.5885 [hep-th].   
+[32] J. A. Young and S. A. Bludman，“Electromagnetic Properties of a Charged Vector Meson,” Phys.Rev. 131, 2326 (1963).   
+[33] D. Djukanovic, M. R. Schindler, J. Gegelia and S. Scherer,“Quantum electrodynamics for vector mesons,” Phys. Rev. Lett. 95, 012001 (2005) [hep-ph/0505180].   
+[34] M. Ammon, J. Erdmenger, P.Kerner and M. Strydom,“Black Hole Instability Induced by a Magnetic Field,” Phys. Lett. B 706, 94 (2011) [arXiv:1106.4551 [hep-th].   
+[35] K. Maeda, M. Natsuume and T. Okamura,“Vortex lattice for a holographic superconductor,” Phys. Rev. D 81, 026002 (2010) [arXiv:0910.4475 [hep-th]].   
+[36] J. Ambjorn and P. Olesen，“Antiscreening Of Large Magnetic Fields By Vector Bosons,” Phys. Lett.B 214, 565 (1988).   
+[37] Rasolt. Mark, “Superconductivity in high magnetic fields,” Phys. Rev. Lett. 58,1482 (1987).   
+[38] M. Rasolt and Z. Tesanovic,“Theoretical aspects of superconductivity in very high magnetic fields,” Rev. Mod. Phys. 64, 709 (1992).   
+[39] K. G. Klimenko,R. N. Zhokhov and V. C. .Zhukovsky, “Superconductivity phenomenon induced by external in-plane magnetic field in (2+1)-dimensional GrossNeveu type model,” Mod. Phys.Lett.A 28,1350096 (2013) [arXiv:1211.0148 [hepth]].   
+[40] P. Olesen，“Anti-screening ferromagnetic superconductivity,” arXiv:1311.4519 [hepth].   
+[41] F.Levy, I. Sheikin, B.Grenier,A. Huxley,“Magnetic Field-induced Superconductivity in the Ferromagnet URhGe,” Science 309 1343 (2005).   
+[42] S.Uji， H. Shinagawa，T. Terashima, T. Yakabe，Y. Teral， M. Tokumoto，A. Kobayashi, H. Tanaka， H. Kobayashi， “Magnetic-field-induced superconductivity in a two-dimensional organic conductor,” Nature 410 908 (2010).   
+[43] R. -G. Cai, L. Li, L. -F. Li and Y. -Q. Wang, “Competition and Coexistence of Order Parameters in Holographic Multi-Band Superconductors,” JHEP 1309, O74 (2013) [arXiv:1307.2768 [hep-th]].   
+[44] L. -F. Li, R. -G. Cai, L. Li and C. Shen,“Entanglement entropy in a holographic p-wave superconductor model,” arXiv:1310.6239 [hep-th].

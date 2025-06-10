@@ -1,0 +1,279 @@
+# 透明国际智库的工作理念、运行机制及发展动态
+
+高春玲
+
+# 辽宁师范大学管理学院大连116029
+
+摘要：[目的/意义]深入剖析世界反腐智库德国透明国际智库的工作理念、运行机制以及发展动态，旨在为我国当前大力推行新型智库建设和严厉惩治腐败提供借鉴与参考。[方法/过程]运用历史研究法和案例分析法，结合文献和网站调研展开研究。同时援引国际权威的智库排名报告，对德国透明国际智库的工作理念、发展动态和社会贡献进行考察。[结果/结论]德国透明国际智库是西欧乃至全球著名的反腐智库，在透明度和善政智库、最佳独立智库等全球智库排名中荣登榜首，这得益于其多年来一直秉承的高质量、独立性、透明度、问责制以及诚信度的核心价值、运行机制以及顶层设计理念。
+
+关键词：透明国际 智库 核心价值 运行机制分类号：C936
+
+# 1背景
+
+腐败现象是目前世界各国最关心的社会问题之一。腐败问题牵一发而动全身，它不仅是经济问题更是政治问题。什么是“腐败”？哪些行为和现象属于“腐败”？如何定义腐败，却是一个世界性的难题。美国政治学家米彻尔·约翰斯顿指出，在反腐败问题的讨论中，没有哪个问题像腐败的定义这样长期争论不休，也没有哪个问题像腐败的定义这样在一些具有重要意义的讨论中经常占据优先的位置[]。谢莱法（A Shleifer）和韦欣尼（RVishney）认为，腐败是政府官员为了获取个人利益而出卖公共权力[2。李克强总理指出，腐败是国家工作人员不正当地运用公共权力以获得个人好处，亦即权力的异化3]。等等。目前，腐败涉及的关键词有：权力、违反准则、牟求私利、蜕化变质、公共决策、公共利益、堕落、异化、公职人员、执政党、国家机关、滥用、恶劣影响等。
+
+不难看出，在公正和私权滥用抗衡的时代背景下，对腐败定义的持续关注和不断升温折射出腐败问题不仅是一个区域关注的焦点问题，更是一个全球关注的热点问题。在这其中，德国透明国际智库（Transparency International，简称透明国际）秉持警醒之心，持续关注着世界腐败问题，并通过构建一套高度透明、切实问责、监督制衡的智库运行体系推动反腐运动发展。目前，透明国际已经成为对腐败问题研究最权威、最全面和最准确的国际性非政府组织，推动世界各国不断营造风清气正的政治生态环境。
+
+2 透明国际的基本理念
+
+# 2.1透明国际机构概况
+
+透明国际是由一群致力于阻止腐败的充满激情的人们于1993年创立的，是一家推动全作者简介：高春玲(0RCID:0000-0001-8821-5388),硕士生导师,副教授,博士,E-mail:spring_gcl@163.com。
+
+球反腐运动的非营利、非政府的国际性机构，基本情况如表1所示[4。创立初期的10 人于1993年2月9日在荷兰海牙签署了《透明国际创始宪章》，《创始宪章》随后于1993年6月15日正式载入德国柏林查洛特滕堡协会（Berlin Charlottenburg）史册[5]。自创立以来，从印度农村的村庄到布鲁塞尔的权力走廊，透明国际一直与政府、企业和公民共同努力，为腐败的受害者和证人发声，来阻止权力滥用、贿赂和秘密交易。腐败感知指数（CorruptionPerceptions Index）是透明国际最著名的研究成果之一，用来衡量世界各地的腐败程度[。
+
+表1 透明国际机构概况  
+Table 1Overview of Transparent International institutions   
+
+<html><body><table><tr><td>类型</td><td>内容</td></tr><tr><td>机构愿景</td><td>推动全球反腐运动，建立一个没有腐败的世界</td></tr><tr><td>机构使命</td><td>制止腐败，提高社会各级各部门的透明度、问责制和诚信度</td></tr><tr><td>核心价值</td><td>透明、责任、廉正、团结、勇气、公正和民主[]</td></tr><tr><td>机构分布</td><td>在世界各地100多个国家设立分会，并在柏林设立一个国际秘书处，与 政府、商界和民间团体的合作伙伴一起，采取有效措施打击腐败</td></tr><tr><td>机构特点</td><td>属于无党派的独立运行体制，不接受捐赠者参与组织决策，资金来源和 支出都透明可查</td></tr></table></body></html>
+
+2015年，透明国际制定了5年反腐战略《透明国际 2020战略》，确定了未来5年“共同抵制腐败”的发展目标。透明国际的2020反腐战略主要分为3个战略重点：（1）民众与合作伙伴；（2）预防，执行与司法公正；（3）强而有力的反腐运动8。如图1所示。
+
+![](images/491108883361cc30a3cc17f9921eb439a7ba72d80a16bed0159d509b5db2e21d.jpg)  
+图1透明国际2020战略  
+Figure 1Transparency International 2O2O strategy
+
+2.2透明国际对腐败、透明度等名词的解读对于腐败、腐败的类型以及透明度等术语，透明国际也给出了自己的诠释和解读。
+
+# 2.2.1 腐败及其类型
+
+透明国际指出，腐败是滥用权力而谋取私利，以腐败的规模和发生的部门为区分，透明国际将腐败划分为3 种类型：大型腐败（grand corruption）、小型腐败（petty corruption）和政治腐败（political corruption），如表2所示[10]。
+
+# 表2腐败的类型
+
+Table 2The types of corruption   
+
+<html><body><table><tr><td>腐败类型</td><td>定义</td></tr><tr><td>大型腐败</td><td>大型腐败是指政府高层的腐败行为，这些行为扭曲了国家的政 策或中央职能，使领导人以牺牲公共利益为代价而获益</td></tr><tr><td>小型腐败</td><td>小型腐败是指基层和中层官员在与普通市民的交往中（如医院、 学校、警署或其他部门），对权力的日常滥用</td></tr><tr><td>政治腐败</td><td>政治腐败是政治决策者在资源分配和融资方面滥用职权以操纵 政策、制度和程序规则，来维持其权力、地位和财富</td></tr></table></body></html>
+
+除此之外，透明国际认为，腐败的形式还包括：税基侵蚀和利润转移、隐匿实益所有人、受贿/贿赂、合谋腐败、裙带关系、商业利益冲突、挪用公款/贪污、敲诈勒索、疏通费、诈骗、非法资金外流、利益集团政治游说、洗钱、代名人、离岸金融中心、赞助、政治捐款、政治公众人物腐败、旋转门、空壳公司、教唆/鼓动、国家俘获、逃税/避税、避税天堂、转移定价等等[]。
+
+腐败对社会的恶劣影响是多方面的。最坏的情况是腐败会造成人员伤亡。除此之外，腐败还能让人们失去自由、健康或金钱。总的来说，腐败的代价可以分为4大类：（1）政治层面，腐败会阻碍民主和法治；（2）经济层面，腐败能损耗国家财富；（3）社会层面，腐败会腐蚀社会结构；（4）环境方面，腐败亦能导致环境恶化[12]。
+
+# 2.2.2透明度
+
+在长期的反腐运动中，透明国际始终秉承建立伙伴关系、循序渐进、保持非对抗性等3个指导原则打击腐败现象，促进社会各级各部门的透明度提升。
+
+透明国际认为，透明度旨在揭示规则、计划、过程和行动，阐明其原因（why）、方式（how）、内容（what）和数量（howmuch）。高透明度可确保官员、公务员、管理人员、董事会成员和商界人士的行为可见和合乎情理，并陈述其相关行为。这意味着公众可以追究其责任。这是防止腐败的最可靠的方法，也有助于在公众和其未来所依赖的机构之间建立信任机制错误！未定义书签。]。
+
+透明国际也积极致力于提高体育、石油和天然气、林业资源、举报/检举、国际公约、司法体系、政治与政府、教育、私营部门、气候变化、多国政府机构、信息公开、国防与安全、政府采购、水资源、健康、人道主义援助、贫穷与发展等一系列领域的透明度和问责制
+
+[13] 。
+
+# 3透明国际的运行机制
+
+# 3.1组织结构
+
+透明国际主要通过全球分会网络、国际秘书处、董事会、个人成员、咨询委员会和其他志愿人员等诸多力量共同推动反腐运动，且受《透明国际宪章》制约和指导[14]。透明国际的最终决策机构是年度会员大会。年度会员大会授权各国家分会和个人成员一起讨论关键问题、制定决议和选举中央管理机构一一董事会，如图2所示。
+
+![](images/0f6659ccb175d3cade4839f7de302c87aad38b705fa01bc3652430056c55acf6.jpg)  
+图2透明国际的组织结构  
+Figure 2 Transparency International's organizational structure
+
+3.1.1董事会
+
+透明国际的董事会由会员大会选举产生。董事会负责制定战略、政策以及监督智库运作的各项活动。董事会成员任期3年，需遵守透明国际制定的行为守则（codeofconduct）（如遵守保护伞声明和利益冲突政策等）[15]。董事会委员会主要包括会员资格认证委员会、伦理委员会、反腐败评奖委员会、风险与审计委员会、财务委员会、公司治理委员会，和趋势与愿景委员会。各委员会就全球业务中一些特别重要的议题向董事会提出相关建议[16]。
+
+# 3.1.2 秘书处
+
+总部设在柏林的秘书处在推动和支持反腐败行动方面，发挥着重要的核心作用和引领作用。秘书处总裁负责管理网络、分会和项目、宣传和研究、对外关系和行政服务等部门工作，各个职能部门的分工各不相同，副总裁负责公司治理和专项行动。如图3所示。
+
+![](images/7c0a405d234d450c7200e5e240212fde301005bec9bc0812ed8382bec7525e41.jpg)  
+图3秘书处的职能分工  
+Figure 3Division of functions of the Secretariat
+
+秘书处支持世界各地的分会活动，通过知识共享、宣传和建立联盟来协调区域工作，并为面临国家压力或恐吓的各地分会提供国际支持[17]。秘书处还与各地分会一起合作，开发出很多研究成果、工具和方法，以及政策意见。作为知识中心，秘书处以独特视角解读腐败动态，并提供解决腐败问题的新方法。此外，秘书处还促进增加财政和人力资源，以便于各分会更加有效打击腐败现象。
+
+# 3.1.3咨询委员会
+
+咨询委员会是由一群在透明国际中具有丰富工作经验的人员组成的。他们来自不同地域和文化环境，拥有多元专业背景。委员会由董事会任命，并向董事会提供咨询建议，以支持整个组织的反腐工作[18]。
+
+# 3.1.4个人会员
+
+个人会员为透明国际反腐运动提供多元的国际经验和专门知识。除了国际分会，个人会员也是透明国际年度会员大会的投票成员[19]。
+
+简而言之，国家分会（Nationalchapters）和个人会员是透明国际运动的关键组成部分。国家分会许可政策和个人会员任用政策旨在有效保护透明国际的诚信、凝聚力和社会声誉，以及加强和支持国家分会的反腐运动。在董事会的领导下，秘书处和会员资格认证委员会负责评审过程透明和协作，以确保各分会和个人会员能够继续维护透明国际反腐运动的核心价值和行为规则[20]。
+
+3.2 问责制
+
+透明国际一直致力于促进问责制、诚信度和透明度的提升，旨在成为良好治理、道德实践和更好提高透明度的典范。问责制既是透明国际工作不可或缺的一个组成部分，也是透明国际反腐运动的长远目标之一。问责制在其管理体系、规章制度、组织架构，以及国家分会许可和个人会员任用政策中都有所体现[21]。其中，伦理道德和投诉[22]包括伦理准则、行为准则和工作所依据的基本原则等，在透明国际的一些业务工作中多次提及，可以看出问责制在道德伦理操作层面的高度渗透和嵌入；资金和财务涉及捐赠者名单、捐赠政策和财务报表，其中也明确了资金的收入和支出情况；监测和评价主要涉及影响力监测和外界对透明国际反腐行动的评价。如图4所示。在透明国际的管理工作、行为准则和合规等诸多方面都清晰地明确了责权分工的运行体制，这为透明国际智库的逐渐发展和壮大奠定了坚实的理论根基。
+
+![](images/9be1d0148dbe132ea8c418e6144790376ba9dc6b9d7510ee4bee4bf5181136ad.jpg)  
+图4透明国际问责制的具体体现
+
+Figure 4 Concrete embodiment of Transparent International accountability system
+
+透明国际自 2008 年成立以来一直是国际援助透明倡议（International Aid TransparencyInitiative）指导委员会成员，致力于制定一个通用的捐赠者报告标准，以跟踪援助资金的去向和用途。此外，透明国际还是国际非政府组织问责制宪章（International NGO AccountabilityCharter）的成员。自2008年以来，国际秘书处开始使用国际财务报告标准（IFRS）提供开放、详细的收入和支出信息。除了公布财务报表之外，秘书处还公布外部评价、执行计划和业务预算情况[23]，切实履行问责制。
+
+# 3.3资金和财务
+
+资金保障是智库机构运行的必要条件。对于透明国际来说亦是如此。捐赠和其他收入能使透明国际有效承担反腐工作和打击腐败。安全而多样化的资金来源确保透明国际业务承担重要反腐工作、保持独立、维护声誉和有效运作。
+
+透明国际的捐助者主要包括政府机构、多边机构、基金会、私营部门和个人。除此之外，透明国际经费还来源于会员费、出版物收入和活动收入等。捐助资金不受任何限制或与特定项目挂钩。通常，国家分会和秘书处各自募集资金。资源开发部主要负责和协调秘书处的筹款活动[24。透明国际开展反腐运动，因而尤为重视资金来源的审核工作。如果透明国际接受的资金有悖于其历史使命，透明国际的反腐声誉就会遭受破坏。因此，透明国际的捐赠政策特别指出：透明国际接受任何捐助者提供的资金（货币或实物），前提是资助不能损害透明国际的独立性、诚信度及社会声望。捐赠政策还指出，如果捐款超过1,000欧元，透明国际各国家分会和秘书处都需要列出清单，并在年度报告和官方网站上对外公开。秘书处还把捐款超过1,000 欧元的捐赠者在财务报表中也列举出来。透明国际的独立性工作原则促使捐赠者也要接受公众审查。如果捐赠者也卷入腐败事件，不能奢求得到透明国际的保护。此外，透明国际在接受公司捐款之前，也会要求公司捐赠者签署一份诚信承诺[25]。
+
+透明国际秘书处定期会公开目前进行的所有项目。项目同时还列出与捐赠者签订的赠款协议[26]。透明国际秘书处的经费预算会列出资金捐赠者和具体金额，作为提高机构收入和支出透明度的一种手段。通过国际秘书处2016年、2017年和2018年的经费预算表可知，政府机构一直是经费的主要捐赠者，2018年政府机构捐款资金占总收入来源 $70 \%$ ，2017年占总资金来源 $5 7 . 8 \%$ ，2016年甚至高达 $8 2 \%$ 。通过3年的财务报表也可以看出，透明国际这3年得到的捐款资金呈逐年减少趋势，如表3所示。
+
+表3透明国际秘书处经费来源（单位：千欧元)  
+Table 3The operating budget of TI-Secretariat (unit: thousands of euros)   
+
+<html><body><table><tr><td>年度</td><td colspan="2">2016 年[27]</td><td colspan="2">2017 年[26]</td><td colspan="2">2018 年[28]</td></tr><tr><td>捐</td><td>政府和多边机构</td><td>18,321</td><td>政府</td><td>12,397</td><td>政府机构</td><td>11,878</td></tr><tr><td>赠</td><td>基金会</td><td>682</td><td>多边机构</td><td>4,328</td><td>多边机构</td><td>3,692</td></tr><tr><td rowspan="3">者</td><td>私营部门</td><td>2,437</td><td>基金会</td><td>2,482</td><td>基金会</td><td>689</td></tr><tr><td>其他收入来源</td><td>872</td><td>私营部门</td><td>1,377</td><td>私营部门</td><td>882</td></tr><tr><td></td><td></td><td>其他收入来源</td><td>877</td><td>其他收入来源</td><td>871</td></tr><tr><td>总额</td><td></td><td>22,312</td><td></td><td>21,461</td><td></td><td>18.012</td></tr></table></body></html>
+
+# 4透明国际的发展动态
+
+# 4.1研究实力和表现
+
+透明度是智库运营的一个重要特征，标志着智库的独立性和中立性。2017年宾夕法尼亚大学发布的《全球智库报告》[29]中，德国透明国际在全球透明度和善政智库（排名第1）、全球最佳独立智库（排名第1）、拥有最佳质量保障、诚信政策与工作流程的智库（排名第2）、社交网络利用最佳智库（排名第2）、宣传活动最佳智库（排名第4）、全球充分利用网络顶级智库（排名第5）、最佳外交关系/公众参与项目智库（排名第8）等排名中都表现出不俗的研究实力和发展潜力。本文专门将德国透明国际在《全球智库报告（2017）》中所有各项有排名的表单悉数整理出来，旨在于有效揭示德国透明国际在全球以及西欧的影响力和研究实力。同时，对比《全球智库报告（2015）》[30]和《全球智库报告（2016）》[31],列举出德国透明国际的排名变化情况，以及2017年德国透明国际所在的各项中排名前3位的智库情况。如表4所示。
+
+表4透明国际在《全球智库报告（2017）》中的排名及变化情况Table 4The ranking of Transparency International in 2Ol7 global go to think tank index report
+
+<html><body><table><tr><td colspan="5">全球/西欧顶级智库</td></tr><tr><td rowspan="2">排名类型</td><td>透明国际</td><td>较2016年</td><td>较2015年</td><td rowspan="2">该表单排名前3名智库</td></tr><tr><td>智库排名</td><td>变化情况</td><td>变化情况</td></tr><tr><td>全球顶级智库排名</td><td>51</td><td>√24</td><td>37</td><td>美国布鲁金斯学会、法国国际关系研究</td></tr><tr><td>西欧顶级智库排名</td><td>11</td><td>/1</td><td>￥5</td><td>所、美国卡内基和平基金会 法国国际关系研究所、比利时布鲁盖尔</td></tr><tr><td></td><td></td><td></td><td>各个研究领域的顶级智库</td><td>研究所、英国查塔姆研究所</td></tr><tr><td colspan="5"></td></tr><tr><td>排名类型</td><td>透明国际 智库排名</td><td>较2016年 变化情况</td><td>较2015年 变化情况</td><td>该表单排名前3名智库</td></tr><tr><td>外交政策和国际事务 顶级智库</td><td>24</td><td>√2</td><td>10</td><td>美国布鲁金斯学会、法国国际关系研究</td></tr><tr><td>全球透明度和善政顶 级智库</td><td>1</td><td>:-</td><td>--</td><td>所、英国皇家国际事务研究所 德国透明国际、美国自由之家、英国牛</td></tr><tr><td colspan="5">津善治委员会 拥有特殊成就的顶级智库</td></tr><tr><td>排名类型</td><td>透明国际 智库排名</td><td>较2016年 变化情况</td><td>较2015年 变化情况</td><td>该表单排名前三名智库</td></tr><tr><td>宣传活动最佳智库</td><td>4</td><td>√1</td><td></td><td>英国国际人权观察组织、美国传统基金 会、美国进步中心</td></tr><tr><td>最佳管理智库</td><td>64</td><td>11</td><td>--</td><td>巴西热图力奥·瓦加斯基金会、比利时 布鲁盖尔研究所、美国布鲁金斯学会</td></tr><tr><td>全球最佳智库网络</td><td>57</td><td>√1</td><td>/19</td><td>德国阿登娜基金会、德国艾伯特基金 会、美国卡内基国际和平基金会</td></tr><tr><td>社交网络利用最佳智 库</td><td>2</td><td>/4</td><td>18</td><td>美国战略与国际研究中心、德国透明国 际、美国布鲁金斯学会</td></tr><tr><td>最佳外交关系/公众参</td><td>8</td><td>/4</td><td></td><td>英国国际人权观察组织、美国战略与国</td></tr><tr><td>与项目智库 全球充分利用网络顶</td><td>5</td><td>11</td><td>√2</td><td>际研究中心、美国布鲁金斯学会 美国进步中心、美国传统基金会、英国</td></tr><tr><td>级智库 媒体利用最佳智库</td><td></td><td></td><td></td><td>国际特赦组织</td></tr><tr><td></td><td>15</td><td>√2</td><td>√4</td><td>美国彼得森国际经济研究所、英国查塔 姆研究所、美国战略与国际研究中心</td></tr><tr><td>对公共政策最有影响 力的智库</td><td>12</td><td>3</td><td>3</td><td>美国传统基金会、美国布鲁金斯学会、 英国国际人权观察组织</td></tr><tr><td>拥有最优秀政策导向 型研究项目的智库</td><td>16</td><td>√5</td><td>/8</td><td>兰德公司、比利时布鲁盖尔研究所、美 国城市研究所</td></tr></table></body></html>
+
+<html><body><table><tr><td>全球最佳独立智库</td><td>1</td><td>16</td><td>无排名</td><td>德国透明国际、美国卡内基国际和平基 金会、英国亚当斯密研究所</td></tr><tr><td>拥有最佳质量保障、诚 信政策与工作流程的 智库</td><td>2</td><td>13</td><td>-</td><td>兰德公司、德国透明国际、美国布鲁金 斯学会</td></tr></table></body></html>
+
+# 4.2反腐研究领域及主要出版物
+
+# 4.2.1反腐主要出版物
+
+透明国际的反腐研究主题包括贫穷与发展、国际公约、国防与安全、水资源、多国政府机构、石油和天然气、健康、信息公开、林业资源、政治与政府、政府采购、人道主义援助、体育运动、司法、教育、举报/检举等一系列领域，同时还提供相应的案例对各领域的腐败现象进行深入揭示和解读。在各反腐领域中，透明国际一方面提出该领域存在的问题及相应的解决方案，另一方面还介绍了透明国际目前参与的项目和活动。此外，透明国际还出版了一系列出版物，对反腐工作进行理论探讨与应用指导。表5列举了一些透明国际的反腐领域及对应的主要或相关出版物[13]。
+
+# 表5透明国际的反腐领域及主要出版物
+
+Table 5Transparency International's anti-corruption field and main publications
+
+<html><body><table><tr><td></td><td>反腐领域</td><td>主要出版物</td><td>出版日期</td></tr><tr><td></td><td>贫穷与发展</td><td>《反腐败催化剂：2015年之前实现千年发展目标》</td><td>2010.09.14</td></tr><tr><td rowspan="7">2 3 4 6</td><td rowspan="7">国际公约</td><td>《导出腐败：经合组织反外国贿赂公约执行情况2014年度</td><td>2014.10.23</td></tr><tr><td>进展报告》</td><td></td></tr><tr><td>《民间反腐指南：联合国反腐败公约和私营机构》</td><td>2013.03.15</td></tr><tr><td>《指南：使用联合国反腐败公约推进反腐工作》 国防与安全</td><td>2013.03.18</td></tr><tr><td>《减少经营腐败：国际组织工具指引》</td><td>2018.06</td></tr><tr><td>《国防治理全球标准》</td><td>2018.06</td></tr><tr><td>《水利部门廉正公约：政府官员的执行指南》</td><td>2010.03.15</td></tr><tr><td rowspan="4">5</td><td rowspan="4">多国政府机构</td><td>《2008 全球腐败报告：水利部门的腐败》</td><td>2008.06.25</td></tr><tr><td>《关于开放政府伙伴关系国家行动计划的游说提议》</td><td>2018.07.17</td></tr><tr><td>《关于开放政府伙伴关系国家行动计划的实际受益人透明 度的提议》</td><td>2018.07.17</td></tr><tr><td>《提高收入透明度：2011年石油和天然气公司报告》 《提高收入透明度：2008 年石油和天然气公司收入透明度</td><td>2011.03.01</td></tr><tr><td></td><td></td><td>报告》</td><td>2008.04.26</td></tr><tr><td>7</td><td>健康</td><td>《真实的生活，真实的故事：亚太地区》</td><td>2018.01.03</td></tr><tr><td></td><td></td><td>《公民与腐败：世界各地民众的呼声》</td><td>2017.11.14</td></tr><tr><td>8</td><td>信息公开</td><td>《妇女、土地和腐败：从业人员和决策者的资源》</td><td>2018.03.08</td></tr><tr><td>9</td><td>林业资源</td><td>《G20 意见书：开放数据与腐败（2017）》</td><td>2017.05.17</td></tr><tr><td></td><td></td><td>《全球腐败报告：气候变化》</td><td>2011.06.02</td></tr><tr><td></td><td></td><td>《林业部门的腐败问题分析：手册》</td><td>2011.11.15</td></tr><tr><td>10</td><td>政治与政府</td><td>《金钱、政治、权力：欧洲的腐败风险》</td><td>2012.06.06</td></tr><tr><td>11</td><td>政府采购</td><td>《遏制政府采购中的腐败现象：实用指南》</td><td>2014.07.24</td></tr><tr><td>12</td><td>人道主义援助</td><td>《2005 年全球腐败报告：建设中的腐败与后冲突重建》 《预防人道主义行动中的腐败现象：优秀实践手册》</td><td>2005.03.16</td></tr><tr><td>13</td><td></td><td>《全球腐败报告：体育运动》</td><td>2010.01.31</td></tr><tr><td></td><td>体育运动</td><td></td><td>2016.02.23</td></tr><tr><td>14</td><td>司法</td><td>《2007年全球腐败报告：腐败与司法体系》</td><td>2007.05.25</td></tr><tr><td>16 15</td><td>教育 举报/检举</td><td>《全球腐败报告：教育》</td><td>2013.10.01</td></tr><tr><td rowspan="4"></td><td rowspan="4"></td><td>《检举立法的最佳实践指南》</td><td>2018.03.01</td></tr><tr><td>《"直言不讳”的商业案例：内部报告机制如何激励私营部</td><td>2017.07.31</td></tr><tr><td>门组织》</td><td></td></tr><tr><td>《欧洲检举：欧盟对检举者的法律保护》</td><td>2013.11.05</td></tr><tr><td>17 私营部门</td><td>《公司报告的透明度：评估世界巨头公司（2014）》</td><td></td><td>2014.11</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="2">《公司报告的透明度：评估新兴市场跨国公司》</td><td>2013.10</td></tr><tr><td>《公司反贿赂计划的保障体系》</td><td>2012.06</td></tr><tr><td>18</td><td>气候变化</td><td>《全球腐败报告：气候变化》</td><td>2011.06.02</td></tr></table></body></html>
+
+# 4.2.2 《腐败感知指数》
+
+透明国际的旗舰出版物《腐败感知指数》（Corruption Perceptions Index，简称CPI）自1995 年问世以来，一直是全球公共部门腐败的主要风向标。腐败感知指数（CPI）主要基于世界各地的专家意见，对全球公共部门的腐败程度进行测量，并使用0（高度腐败）到100（非常干净）的分数进行赋值。该指数通过腐败排名，有效揭示了世界各国的年度腐败程度[32]。
+
+在2017年CPI评估的180个国家中，超过2/3的分数低于50。这意味着全球有超过60亿人生活的国家存在腐败现象。2017年，新西兰和丹麦分别以89分和88分名列榜首。叙利亚、南苏丹和索马里得分最低，分别为14分、12分和9分。表现最好的地区是西欧，平均得分为66分。表现最差的地区是撒哈拉以南非洲地区（平均32分）和东欧和中亚（平均34分）[33]。新加坡位列第6名，是排名最高的亚洲国家。如图5所示，颜色越深区域代表腐败现象愈严重，颜色越浅区域代表公共部门治理越廉正和透明。
+
+![](images/5e0f3827278690967003997df04c6b1c656405f4e04ee12d06c6412df144b9d0.jpg)  
+图52017年全球腐败感知指数(CPI)  
+Figure 5Global Corruption Perceptions Index 2O17(CPI)
+
+表6中列举出2017年全球CPI排名前20 的国家（地区），以及中国和俄罗斯自 2012年以来的腐败排名情况，由此可以管窥近6年以来全球一些国家在反腐败运动的发展态势。中国 2017年CPI值为41，排名77。虽然这几年的我国政府的反腐工作取得一定成绩，CPI值也呈逐年小幅增长趋势，但是腐败问题仍非常严峻，不容乐观。俄罗斯CPI值为29，全球排名135，反腐败工作同样任重道远。
+
+# 表6 全球部分国家CPI历年排名
+
+Table 6CPI ranking of some countries in the world   
+
+<html><body><table><tr><td>2017 排名</td><td>国家（地区）</td><td>2017 分数</td><td>2016 分数</td><td>2015 分数</td><td>2014 分数</td><td>2013 分数</td><td>2012 分数</td><td>地区</td></tr><tr><td>1</td><td>新西兰</td><td>89</td><td>90</td><td>91</td><td>91</td><td>91</td><td>90</td><td>亚太地区</td></tr><tr><td>2</td><td>丹麦</td><td>88</td><td>90</td><td>91</td><td>92</td><td>91</td><td>90</td><td>欧洲和中亚</td></tr><tr><td>3</td><td>芬兰</td><td>85</td><td>89</td><td>90</td><td>89</td><td>89</td><td>90</td><td>欧洲和中亚</td></tr><tr><td>3</td><td>挪威</td><td>85</td><td>85</td><td>88</td><td>86</td><td>86</td><td>85</td><td>欧洲和中亚</td></tr><tr><td>3</td><td>瑞士</td><td>85</td><td>86</td><td>86</td><td>86</td><td>85</td><td>86</td><td>欧洲和中亚</td></tr><tr><td>6</td><td>新加坡</td><td>84</td><td>84</td><td>85</td><td>84</td><td>86</td><td>87</td><td>亚太地区</td></tr><tr><td>6</td><td>瑞典</td><td>84</td><td>88</td><td>89</td><td>87</td><td>89</td><td>88</td><td>欧洲和中亚</td></tr><tr><td>8</td><td>加拿大</td><td>82</td><td>82</td><td>83</td><td>81</td><td>81</td><td>84</td><td>美洲</td></tr><tr><td>8</td><td>卢森堡</td><td>82</td><td>81</td><td>85</td><td>82</td><td>80</td><td>80</td><td>欧洲和中亚</td></tr><tr><td>8</td><td>荷兰</td><td>82</td><td>83</td><td>84</td><td>83</td><td>83</td><td>84</td><td>欧洲和中亚</td></tr><tr><td>8</td><td>英国</td><td>82</td><td>81</td><td>81</td><td>78</td><td>76</td><td>74</td><td>欧洲和中亚</td></tr><tr><td>12</td><td>德国</td><td>81</td><td>81</td><td>81</td><td>79</td><td>78</td><td>79</td><td>欧洲和中亚</td></tr><tr><td>13</td><td>澳大利亚</td><td>77</td><td>79</td><td>79</td><td>80</td><td>81</td><td>85</td><td>亚太地区</td></tr><tr><td>13</td><td>中国香港</td><td>77</td><td>77</td><td>75</td><td>74</td><td>75</td><td>77</td><td>亚太地区</td></tr><tr><td>13</td><td>冰岛</td><td>77</td><td>78</td><td>79</td><td>79</td><td>78</td><td>82</td><td>欧洲和中亚</td></tr><tr><td>16</td><td>奥地利</td><td>75</td><td>75</td><td>76</td><td>72</td><td>69</td><td>69</td><td>欧洲和中亚</td></tr><tr><td>16</td><td>比利时</td><td>75</td><td>77</td><td>77</td><td>76</td><td>75</td><td>75</td><td>欧洲和中亚</td></tr><tr><td>16</td><td>美国</td><td>75</td><td>74</td><td>76</td><td>74</td><td>73</td><td>73</td><td>美洲</td></tr><tr><td>19</td><td>爱尔兰</td><td>74</td><td>73</td><td>75</td><td>74</td><td>72</td><td>69</td><td>欧洲和中亚</td></tr><tr><td>20</td><td>日本</td><td>73</td><td>72</td><td>75</td><td>76</td><td>74</td><td>74</td><td>亚太地区</td></tr><tr><td>77</td><td>中国</td><td>41</td><td>40</td><td>37</td><td>36</td><td>40</td><td>39</td><td>亚太地区</td></tr><tr><td>135</td><td>俄罗斯</td><td>29</td><td>29</td><td>29</td><td>27</td><td>28</td><td>28</td><td>欧洲和中亚</td></tr></table></body></html>
+
+# 4.2.3 《全球腐败晴雨表》
+
+自 2003 年以来，《全球腐败晴雨表》（《GlobalCorruption Barometer》）调查了世界各地每天面对腐败的人们的生活经历。全球成千上万的民众会被问到关于腐败的看法或亲身经历。如民众是否置身于腐败问题之中？是否其所在国家腐败现象正在加剧？所在国家政府部门是否有效地解决了腐败问题？等等。这些问题都是《全球腐败晴雨表》中涉及和关注的内容。毋庸置疑，《全球腐败晴雨表》俨然已经成为全球唯一关于腐败的民意调查重要平台[34]。在 2015—2017年期间，透明国际发布一份《全球腐败晴雨表》，并附带5项地区民意调查。这些研究追踪了各国人民的腐败经历，并揭示了各地区腐败的发展趋势[35]。
+
+# 4.3社会贡献及交流
+
+自透明国际1993年成立以来，已经走过了25个春秋。在反腐运动上，取得了丰硕的成果，也为世界反腐败工作做出了巨大贡献：（1）制定一套全面的国家腐败评价指标《腐败感知指数》和《全球腐败晴雨表》，并一直被世界各地的学者、记者和经济学家使用；（2）帮助经济合作与发展组织（OECD）终止了贿赂收入税收减免规定，并写入《经合组织反贿赂公约》；（3）积极参与起草《联合国反腐败公约》，这则联合国文书为打击腐败构建了一个更强大、更全球化的立法框架；（4）共同开发一套通用的反贿赂准则《商业反贿赂守则》，致力于创建清洁、合乎道德的商业环境[36]。
+
+除此之外，透明国际还创办了透明国际诚信学校，组织国际反腐败系列会议，以及充分利用社交媒体发声，有效推动了反腐活动的交流与实践。
+
+# 4.3.1开办透明国际诚信学校
+
+透明国际诚信学校是一所针对未来领导人的顶尖的反腐败和问责制培训机构。透明国际诚信学校与维尔纽斯的米科拉斯·罗默里斯大学（Mykolas Romeris University in Vilnius）合作创办，招生对象面向大学的高年级学生、硕士研究生和35周岁以下的年轻专业人士，这些人士渴望学习如何对抗腐败，以及如何在自己的国家实现更大的透明度。经过严格的选拔过程，入选的学员会利用7天时间高强度向反腐败和问责制的专业人士学习。课程完成后，学员将获得6个ECTS学分。
+
+透明国际诚信学校会让学员了解反腐败和问责领域的最新发展，并提供切实的机会，在实践中尝试和实施他们的想法，旨在创造一个平等的学习和诚信构建的环境，将理论与实践联系起来，帮助年轻的领导人在传播反腐败信息方面获得更好的技能。透明国际诚信学校的讲座、研讨会、培训和实地考察为学员提供了全球和本地技能独特融合的平台，同时学校也要求学员着手处理相关主题问题，并提供新颖的、之前未经检验的解决方案。自2010年以来，透明国际诚信学校已经接待了来自全球110个国家的900多名青年领袖，也积累了大量的校友资源[37]。
+
+# 4.3.2组织国际反腐败系列会议
+
+国际反腐败会议（International Anti-Corruption Conference）成立于1983年，是民间社会、学术界、政府、国际组织和私营部门打击腐败的主要全球论坛。与会者人数可达 $1 , 0 0 0 \sim$ 2,000 名，通常每两年在世界不同地区举办一次。IACC 由IACC理事会管理，这是一个非营利性的非法人团体。自1997年以来，透明国际（TI)作为IACC系列的秘书处，在组织IACC方面发挥了重要作用，有效推动了全球反腐败运动的交流与合作[38]。
+
+# 4.3.3充分利用社交媒体
+
+智库的功能一是建言献策，二是影响舆论。只有智库研究和舆论传播密切结合才能扩大智库影响力[39]。充分利用社交网络是一个智库达到目标的关键因素。数字时代下，使用多种传播手段、借助各类媒体平台推广和传播学会的研究成果正成为透明国际发展与舆论传播的新形态。在2017智库排名中，透明国际在全球社交网络利用最佳智库方面，排名第2。透明国际在社交媒体 Facebook、Twitter、Google+、RSS、Flickr、Youtube、Linkedin 都开通了社交平台，充分利用社交媒体发声，以有效打击腐败，同时社交媒体也为民众与透明国际进行实时交流提供了传播渠道，公众可以及时有效地了解透明国际的反腐领域与反腐动态，也可以及时通过透明国际社交媒体向腐败发声。
+
+# 5结论及启示
+
+2017年的《腐败感知指数》显示，大多数国家在终结腐败方面几乎或根本没有取得任何进展，而腐败国家的记者和反腐积极分子却每天都在冒着生命危险发表言论。透明国际在全球100多个国家的亲身反腐经历表明，反腐败积极分子和新闻媒体在打击腐败方面发挥着至关重要的作用。因此，透明国际呼呼国际社会采取以下行动遏制腐败：（1）政府和企业必须在反腐领域鼓励言论自由、保障新闻媒体独立、允许政治异议和创建开放、参与的民间社会；（2）各国政府应尽量减少对新闻媒体的监管，包括传统媒体和新媒体，并确保记者能够在没有压迫或暴力的情况下工作；（3）民间社会和各国政府应从制定法律框架到具体实施方面入手来推动有关信息公开的法律的执行；（4）反腐败积极人士和政府应借助联合国可持续发展目标（SDGs）的势头，在国家和全球层面倡导和推动反腐败改革；（5）政府和企业应主动以开放数据的形式公开相关公共利益信息，包括政府预算、公司所有权、政府采购和党政财务状况，使新闻记者、民间社会和有关社群能够更有效地识别腐败模式[40],等等。透明国际指出，这些行动是全球反腐败斗争的重要步骤，可以用来借鉴、推广和实施。
+
+我国反腐败工作从来都是任重道远，反腐败斗争形势严峻复杂。2018年3月20日通过《中华人民共和国监察法》（以下简称：《监察法》），并自公布之日起正式施行。这是我国深化国家监察体制改革的重要举措。《监察法》的实施表达了党中央坚持“反腐败无禁区、全覆盖、零容忍”的决心，构建了强化监督问责、严厉惩治腐败，和“不敢腐、不能腐、不想腐”的长效机制。这无疑给中国的反腐败工作带来了希望。
+
+不过，我们仍然应该保持清醒的头脑，反腐败工作除了国家法律上的约束，还应该切实可行地采取更多行动为人民服务，从保障民生、食品安全、医疗卫生、环境保护、政府治理等方面切实、有效参与反腐运动，发挥民众监督机制，发挥舆论监督的力量，切实保护新闻记者的人身安全和反腐言论自由，保障反腐新闻独立。这些也是全球反腐败斗争的重要的经验和不可或缺的环节。
+
+透明国际多年反腐运动总结了一系列反腐方法：信息公开、问责、资产追回、审计、自动交换财务信息、行为准则、合规、反腐败公约、公司反腐治理、国别报告、制裁、信息披露、加强尽职调查、道德规范、腐败治理、廉正建设、知晓客户、司法互助、建立国家廉正体系、监督、廉正公约、政治意愿、立法/法治、提高透明度、检举/举报等[41]。我国政府应从战略层面大力执行《监察法》，从战术层面借鉴透明国际的一系列方法严厉惩治腐败现象。唯有此，我国的《监察法》才能切实有效发挥我国的公共部门监察体制和民生监督机制。
+
+# 参考文献：
+
+https://www.transparency.org/whoweare/organization.   
+[5]Transparency International. Faqs on Transparency International[EB/OL]. [2018-07-13].   
+https://www.transparency.org/whoweare/organisation/faqs_on_transparency_international/9.   
+[6] Transparency International. About Transparency International[EB/OL]. [2O18-07-13].   
+https://www.transparency.org/about.   
+[7] Transparency International. Mission, vision,values[EB/OL]. [2018-07-13].   
+https://www.transparency.org/whoweare/organisation/mission_vision_and_values/0.   
+[8] Transparency International. Strategy2020[EB/OL]. [2018-07-13].   
+https://www.transparency.org/whoweare/organisation/strategy_2020/1.   
+[9] Transparency International. What is corruption[EB/OL]. [2018-07-15].   
+https://www.transparency.org/what-is-corruption.   
+[10]Transparency International. What is corruption[EB/OL]. [2018-07-15].   
+https://www.transparency.org/what-is-corruption#define.   
+[11] Transparency International. Glossary[EB/OL]. [2018-07-15].   
+https://www.transparency.org/glossary.   
+[12] Transparency International. Faqs on corruption[EB/OL]. [2O18-07-15].   
+http://www.transparency.org/whoweare/organisation/faqs_on_corruption.   
+[13] Transparency International. Topic[EB/OL]. [2018-07-15]. https://www.transparency.org/topic.   
+[14] Transparency International. Governance[EB/OL]. [2O18-07-18].   
+https://www.transparency.org/whoweare/accountability/governance/1.   
+[15] Transparency International. Code of conduct[EB/OL]. [2018-07-18].   
+https://www.transparency.org/whoweare/organisation/code_of_conduct_for_the_board_of_directo rs/5.   
+[16] Transparency International. Board committees and task forces[EB/OL]. [2O18-07-18].   
+https://www.transparency.org/whoweare/organisation/board_committees_and_task_forces/5.   
+[17] Transparency International. Secretariat[EB/OL]. [2O18-07-18].   
+https://www.transparency.org/whoweare/organisation/secretariat/0.   
+[18] Transparency International. Advisory council[EB/OL]. [2018-07-18].   
+https://www.transparency.org/whoweare/organisation/advisory_council/0.   
+[19] Transparency International. Individual members[EB/OL]. [2O18-O7-18].   
+https://www.transparency.org/whoweare/organisation/individual_members/0.   
+[20] Transparency International. National chapter accreditation and individual member appointment policy[EB/OL]. [2018-07-18].   
+https://www.transparency.org/whoweare/accountability/national_chapter_accreditation_and_indivi dual_member_appointment_policy/1.   
+[21] Transparency International. Accountability[EB/OL]. [2018-07-20].   
+https://www.transparency.org/whoweare/accountability.   
+[22] Transparency International. Ethics[EB/OL]. [2018-07-20].   
+https://www.transparency.org/whoweare/accountability/ethics/1.   
+[23] Transparency International. IATI[EB/OL]. [2018-07-20].   
+https://www.transparency.org/whoweare/accountability/iati/2.   
+[24] Transparency International. Funding and financials.[EB/OL]. [2O18-O7-20].   
+https://www.transparency.org/whoweare/accountability/funding_and_financials/2.   
+[25] Transparency International. Transparency international donations policy[EB/OL].   
+[2018-07-20].   
+https://www.transparency.org/files/content/ouraccountability/19_10_2014_Transparency_Internati onal_Donations_Policy.pdf.   
+[26] Transparency International. TI-S 2017 operating budget[EB/OL]. [2018-07-22].   
+https://www.transparency.org/files/content/ouraccountability/TI-S_Project_Grants_2017.pdf.   
+[27] Transparency International. TI-S 2016 operating budget[EB/OL]. [2018-07-22].   
+https://www.transparency.org/files/content/ouraccountability/TI-S_2O16_budget.pdf.   
+[28] Transparency International. TI-S 2018 operating budget[EB/OL]. [2018-07-22]. https://www.transparency.org/files/content/ouraccountability/TI-S_2018_budget.pdf.   
+[29]MCGANN J. 2017 global go to think tank index report[EB/OL]. [2018-07-22].   
+https://repository.upenn.edu/think_tanks/13/.   
+[30]MCGANN J. 2015 global go to think tank index report[EB/OL]. [2018-07-22].   
+https://repository.upenn.edu/think_tanks/10/.   
+[31]MCGANN J.2016 global go to think tank index report[EB/OL]. [2018-07-22].   
+https://repository.upenn.edu/think_tanks/12/.   
+[32] Transparency International. CPI[EB/OL]. [2O18-07-26]. www.transparency.org/research/cpi.   
+[33] Transparency International. Corruption perceptions index 2017[EB/OL]. [2O18-07-26].   
+https://www.transparency.org/news/feature/corruption_perceptions_index_2017.   
+[34] Transparency International. GCB[EB/OL]. [2018-07-26].   
+https://www.transparency.org/research/gcb.   
+[35] Transparency International. Publication[EB/OL]. [2O18-07-26].   
+https://www.transparency.org/whatwedo/publication/people_and_corruption_citizens_voices_from _around_the_world.   
+[36] Transparency International. Faqs on Transparency International[EB/OL]. [2O18-07-28].   
+https://www.transparency.org/whoweare/organisation/faqs_on_transparency_international.   
+[37] Transparency International. About school[EB/OL].[2O18-07-28].   
+https://transparencyschool.org/about-school/.   
+[38] Transparency International. IACC series[EB/OL]. [2018-07-28].   
+https://www.transparency.org/whoweare/accountability/international_anti_corruption_conference_ iacc_series/2.   
+[39] 赵剑英．促进智库发展提高传播能力[EB/OL].[2018-07-31].   
+http://www.scio.gov.cn/zhzc/10/Document/1468693/1468693.htm.   
+[40] Transparency International. Corruption perceptions index 2O17[R]. 2018: 2.   
+[41] Transparency International. Anti-corruption solutions[EB/OL]. [2O18-07-31].   
+https://www.transparency.org/glossary.
+
+# The Working Ideas, the Operational Mechanism and the Developmental Stance of the Transparency International
+
+Gao Chunling School of Management, Liaoning Normal University, Dalian 116029
+
+Abstract: [Purpose/significance] This paper deeply analyzes the basic working ideas,the operational mechanism,and the new development design of the Transparency International in order to promote the construction of new think tank and accountability and severely punish corruption in China. [Method/process] This paper mainly adopts the historical study and case study methods,and also takes the literature research and web-based investigation methods for the research.By referring to the latest global think tank index report this paper interpreted the basic working ideas,the operational mechanism of the Transparency International. [Result/conclusion] The Transparency International is a famous western European and global anti-corruption think tank.The Transparency International has been the top think tank such as the top Transparency and Good Governance and Best Independent Think Tanks in the world, which is due to its adherence to its core value of“high quality,independence, transparency,accountability and integrity”, its operational mechanism,and the top-level design thoughts.
+
+Keywords: the Transparency International think tank core value operational mechanism

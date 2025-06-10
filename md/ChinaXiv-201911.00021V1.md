@@ -1,0 +1,222 @@
+# 渭北矿区土壤侵蚀评估及驱动因素分析
+
+邹雅婧，闫庆武，谭学玲，王瑾(中国矿业大学环境与测绘学院,江苏徐州221116)
+
+摘要：陕西省渭北矿区地处黄土高原，受到自然环境和煤炭开采等人类活动的双重影响,该地区土壤侵蚀更为严重，生态环境更加脆弱。以渭北矿区为研究对象，基于RUSLE模型对渭北矿区土壤侵蚀进行了评估，并综合植被覆盖度、多年平均降水量、坡度、土地利用类型和煤炭年产量等影响因子，应用地理探测器方法对渭北矿区土壤侵蚀进行定量归因。研究结果对矿区水土流失防治具有一定参考价值。结果表明：(1)渭北矿区土壤侵蚀以微度和轻度侵蚀为主，土壤侵蚀严重的区域主要位于研究区西南部、中部和东南部。(2)植被覆盖度和多年平均降水量是造成研究区土壤侵蚀的主导因子，坡度介于 $2 0 ^ { \circ } \sim 2 5 ^ { \circ }$ 的地区、植被覆盖度小于0.3的区域和裸地是发生土壤侵蚀的高风险区。(3)渭北矿区各因子协同作用对土壤侵蚀的解释力均大于单因子解释力，因此多个因子共同作用会对土壤侵蚀造成显著影响。
+
+关键词：土壤侵蚀；RUSLE模型；黄土高原；地理探测器；煤矿区；驱动因素
+
+位于陕北黄土高原区南缘的渭北矿区是我国重要的煤炭生产基地。脆弱的生态环境和高强度的人类活动使得该地区的土壤侵蚀现象日益加剧，对生态环境造成了严重破坏[1],成为社会经济发展的重要障碍。因此，定量评价该区域的土壤侵蚀现状，科学认识和定量评估地理环境因子、人类活动及其耦合作用对土壤侵蚀的影响，对矿区水土保持和环境保护具有重要意义。
+
+与传统的土壤侵蚀调查方法相比，利用RS 和GIS技术进行相关地理信息的搜集及分析，不仅提高了工作效率，更使得科学性和准确性有了保障[2]。在大量土壤侵蚀试验和定量观测数据的基础之上，通过不断完善改进形成的修正的通用土壤流失方程（Revised Universal Soil Loss Equation,RU-SLE)是目前在土壤侵蚀定量估算方面应用最广泛的经验坡面土壤侵蚀预报模型[3]。近年来,该模型已经被成熟地运用到我国黄土高原地区的土壤侵蚀研究当中。李柏延等[4]基于RUSLE 模型对榆林市2001—2010 年连续10a土壤侵蚀动态变化及其分布进行了分析，并对未来几年土壤侵蚀发生的主要区域进行了预测;秦伟等[5]利用RUSLE模型评估了陕西省四面窑沟流域的土壤侵蚀强度，所得结果与实际调查数据较为吻合，说明基于RUSLE模型评估黄土区小流域土壤侵蚀的方法有效、可行。在对区域土壤侵蚀进行定量分析的基础上进一步探究其驱动因素，能够帮助明确水土流失治理方向。在土壤侵蚀驱动因子识别方面，周来等[利用叠加统计分析和相关性分析的方法，探究了福建省将乐县坡度和土地覆盖类型与土壤侵蚀强度之间的相关关系，指出 $1 5 ^ { \circ } \sim 2 5 ^ { \circ }$ 坡度带的土壤侵蚀量占比最大并且森林和稀疏植被对土壤保持有着较大的贡献；王涛[以自然状态下陕北洛河流域土壤侵蚀模数、退耕还林还草工程实施区域自然状态土壤侵蚀模数等数据为基础，采用叠加统计分析的方法，定量评估了退耕还林还草工程的实施和降雨对土壤侵蚀的影响。
+
+通过对文献的梳理可以发现，目前对于黄土高原区的矿区土壤侵蚀定量评价研究还较少。作为陕西省开采历史悠久的重要煤炭基地，反映渭北矿区土壤侵蚀现状的研究还鲜有报道。此外，现有的工作对于土壤侵蚀驱动因素的分析虽然均聚焦于自然环境和人类活动的影响，但多采用相关性分析或回归统计等常规方法，而对多因子间交互作用进行定量分析，衡量其对土壤侵蚀影响力的研究还较少。基于地理探测器的自身优势，利用该方法可以通过探测地理现象的空间分层异质性来揭示其背后的驱动力，能够有效地识别地理现象的高风险区以及各风险因子间的交互作用。因此本文在RS和GIS技术的支持下，基于RUSLE 模型对渭北矿区的土壤侵蚀现状进行定量评价并利用地理探测器的方法开展渭北矿区土壤侵蚀多因子定量归因，以期甄别该区域土壤侵蚀的主导影响因子，分析各因子间的协同作用，为矿区水土保持治理和环境保护政策提供科学依据。
+
+# 1 研究区概况
+
+渭北矿区位于陕西省中部渭河以北，由西向东主要分为铜川、蒲白、澄合、韩城4个矿区，是陕西省主要产煤区之一，地理位置为 $3 4 ^ { \circ } 3 8 ^ { \prime } \sim 3 5 ^ { \circ } 4 7 ^ { \prime } \mathrm { N }$ $1 0 8 ^ { \circ } 4 0 ^ { \prime } \sim 1 1 0 ^ { \circ } 3 7 ^ { \prime } \mathrm { E }$ ,面积约 $8 \ 0 0 0 \ \mathrm { k m } ^ { 2 }$ ，占全省面积的 $4 . 8 6 \%$ （图1）。矿区地貌类型兼有平原和丘陵的特点，地貌较为复杂，小起伏中低山、中低海拔台地、低高海拔平原、丘陵兼而有之。矿区地形呈现南低北高的特点，坡度起伏较大，最小坡度为 $0 ^ { \circ }$ ，最大坡度为 $7 0 ^ { \circ }$ 。矿区内土壤大部分颗粒组成是粉沙粒径，质地均细，组织疏松，土粒间主要靠碳酸盐胶结，极易在水中崩解分散,抗蚀力薄弱[8]。黄河最大的支流——渭河位于矿区南部,矿区内部河流支流众多，对土壤的冲刷作用造成区域内沟壑纵横，地形破碎,沟壑密度普遍达到 $1 . 0 \ \mathrm { k m } \cdot \mathrm { k m } ^ { - 2 }$ 左右。矿区内矿藏储量丰富，煤炭资源量为 $3 7 1 . 1 2 \times 1 0 ^ { 8 } { \mathrm { ~ t ~ } }$ ，约占陕西省煤炭资源总量的 $10 \%$ ,煤种齐全，煤质优良，是陕西省最主要的产煤区。特殊的地势、土壤类型等自然条件和强烈的人类活动使得渭北矿区土壤侵蚀状况不容乐观。根据我国水利部公布的土壤侵蚀分类分级标准，该地区土壤侵蚀类型以水力侵蚀为主，侵蚀强度主要为微度和轻度侵蚀。
+
+# 2 数据来源与研究方法
+
+# 2.1 数据来源及处理
+
+基于RUSLE模型，对渭北矿区土壤侵蚀现状进行评估，所需研究数据如下：土壤数据主要来源于两个方面，一是由中国科学院资源环境科学数据中心(http：/www.resdc.cn)提供的全国范围土壤砂粒、粉粒和黏粒的百分比含量，二是由国土部门提供的土壤采样点数据和土壤类型数据，并通过插值生成研究区土壤有机碳分布图；地形数据以来源于中国科学院计算机网络信息中心国际科学数据镜像网站（http：//www.gscloud.cn）的GDEMDEM $3 0 \mathrm { ~ m ~ }$ 分辨率数字高程数据为基础，拼接裁剪生成研究区DEM,并利用ArcGIS10.2软件中表面分析模块提取坡度等数据;多年平均降水数据和月值降水数据来源于中国气象数据网（http：//data.cma.cn），选取渭北矿区及其周边区域31个气象站点的降水量数据插值生成覆盖研究区的多年平均降水量栅格数据;植被覆盖数据来源于美国国家航空航天局(NASA)官网（http：//ladsweb.nascom.nasa.gov）,采用2018年6\~9月MODIS数据 $2 5 0 \mathrm { ~ m ~ }$ 分辨率 $1 6 \mathrm { ~ d ~ }$ 合成产品MOD13Q1影像,利用ENVI5.1软件计算矿区归一化植被指数(NDVI)值,并利用像元二分模型计算植被覆盖度，其值范围在 $0 \sim 1$ ;土地利用数据由2018年3月和4月的四景Landsat-8OLI影像监督分类得到，利用ENVI5.1软件进行人机交互解译得到$3 0 \mathrm { ~ m ~ }$ 分辨率土地利用类型数据并进行精度验证，总体分类精度为 $9 6 . 5 8 \%$ ,数据较为可靠;煤矿数据由2017年和2018年实地调研资料整理得到，包括渭北矿区矿点名称、生产状况和煤炭年产量等,用于反映矿区的开采活动。
+
+![](images/4a9c333e6b6e8c6746cf273e797afc4ce05d62e1b27dbf9632ce245d18af86b4.jpg)  
+图1渭北矿区地理位置示意图  
+Fig.1Geographical location of the Weibei mining area
+
+将上述各类栅格数据统一为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ 像元大小，并统一采用WGS_1984_Lambert_Conformal_Conic投影。
+
+# 2.2 研究方法
+
+2.2.1 RUSLE模型RUSLE模型是在美国通用土壤流失模型的基础上发展得来的，该模型是目前国内外应用广泛的土壤侵蚀预测模型之一。RUSLE模型不仅弥补了实地观测在大尺度应用上的局限性，而且在不同尺度的模拟中取得了较好的效果[9-10]。因此,将 RUSLE 模型作为研究渭北矿区土壤侵蚀量的定量模型，其表达式为：
+
+$$
+A = R \times K \times L \times S \times C \times P
+$$
+
+式中： $A$ 为年土壤侵蚀量 $( \mathbf { t } \cdot \mathbf { h } \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ）; $R$ 为降雨侵蚀力因子 $\mathrm { ^ { ' } M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } \ ^ { \dagger } } ,$ ； $K$ 为土壤可蚀性因子 $( \mathrm {  ~ t ~ } \cdot \mathrm {  ~ h m ~ } ^ { 2 } \cdot \mathrm {  ~ h ~ } \cdot \mathrm {  ~ M J ~ } ^ { - 1 } \cdot \mathrm {  ~ m m ~ } ^ { - 1 } \cdot \mathrm {  ~ h m ~ } ^ { - 2 } )$ ;$L$ 为坡长因子; $s$ 为坡度因子 $( { } ^ { \circ } ) { } ; C$ 为地表植被覆盖因子; $P$ 为水土保持措施因子。
+
+降雨侵蚀力是指由于降雨引起的土壤潜在的侵蚀能力，是造成区域土壤侵蚀的主要因素之一。根据数据获取情况，本文采用章文波[1]提出的利用逐月雨量估算降雨侵蚀力的模型。采用渭北矿区内及周围区域气象站点的降雨数据，根据公式(2)计算各站点降雨侵蚀力值，并利用克里金方法插值得到渭北矿区年降雨侵蚀力栅格图。
+
+$$
+F _ { f } = 1 \cdot N ^ { - 1 } \sum _ { i = 1 } ^ { N } \Big [ \Big ( \sum _ { j = 1 } ^ { 1 2 } P _ { i , j } ^ { 2 } \Big ) \cdot \Big ( \sum _ { j = 1 } ^ { 1 2 } P _ { i , j } \Big ) ^ { - 1 } \Big ]
+$$
+
+$$
+R = \alpha F _ { f } ^ { \beta }
+$$
+
+式中： $P _ { i , j }$ 为第 $\mathbf { \chi } _ { i }$ 年 $\boldsymbol { \cdot } \boldsymbol { j }$ 月的降雨量( $\mathbf { \dot { m } } \mathbf { m } ^ { \tilde { \mathbf { \alpha } } }$ ）； $N$ 为年数; $R$ 为多年平均降雨侵蚀力 $( \mathrm {  ~ M J ~ } \cdot \mathrm {  ~ m m ~ } \cdot \mathrm {  ~ h m ~ } ^ { - 2 } \mathrm {  ~ \cdot ~ } \mathrm {  ~ h ~ } ^ { - 1 }$ · $\mathrm { ~ a ~ } ^ { - 1 }$ ）； $\alpha \mathcal { \beta }$ 为模型参数： $\alpha = 0 . \ 1 8 3 \ 3 \ , \beta = 1 . \ 9 9 5 \ 7 .$ □
+
+土壤可蚀性因子是反映土壤性能和土壤被蚀的难易程度的指标。本文使用在黄土高原地区具有较好适用性的WILLAMS 等[12]在侵蚀力/生产力影响模型EPIC（Erosion-Productivity Impact Calculator）中发展的 $K$ 值估算方法进行计算，公式如下：
+
+$$
+\begin{array} { r l r } {  { K = \{ 0 . 2 + 0 . 3 \mathrm { e } ^ { \big [ \big - \cos _ { \theta } \Sigma _ { \theta } \mathrm { s } _ { a } \big ( 1 - \frac { S _ { i } } { 1 0 0 } \big ) \big ] } \} \times } } \\ & { } & \\ & { } & { ( \frac { S _ { i } } { C _ { i } + S _ { i } } ) ^ { 0 . 3 } \times ( 1 . 0 - \frac { 0 . 2 5 C } { C + \mathrm { e } ^ { ( 3 . 7 2 - 2 . 9 5 C ) } } ) \times } \\ & { } & \\ & { } & { [ 1 . 0 - \frac { 0 . 7 S _ { n } } { S _ { n } + \mathrm { e } ^ { ( - 5 . 5 1 + 2 2 . 9 S _ { n } ) } } ] \qquad ( \mathrm { . ~ } } \end{array}
+$$
+
+式中： $S _ { \alpha }$ 为砂粒 $( 0 . 1 \sim 2 \ \mathrm { m m } )$ 含量 $( \% ) ; S _ { i }$ 为粉粒1 $0 . 0 0 2 \sim 0 . 1 \ \mathrm { m m } )$ 含量 $( \% ) ; C _ { i }$ 为黏粒 $( \mathbf { \nabla } < 0 . 0 0 2$ $\mathbf { m m } ^ { \prime }$ 含量 $( \% ) { : } C$ 为有机碳含量 $( \% ) ; S _ { n } = 1 - \frac { S _ { \alpha } } { 1 0 0 } \circ$ （204号
+
+坡长和坡度因子通常被称为地形因子 $( L S )$ ，反映了区域地形地貌特征对土壤侵蚀造成的影响。本文采用在黄土高原地区具有较好适用性的Foster等[13-15]建立的坡长因子和坡度因子的计算方法,计算公式为：
+
+$$
+L = \left( { \frac { \lambda } { 2 2 . 1 3 } } \right) ^ { m }
+$$
+
+$$
+\beta =  ( \mathrm { s i n } \theta / 0 . 0 8 9 ~ 6 ) / [ 3 ( \mathrm { s i n } \theta ) ^ { 0 . 8 } + 0 . 5 6 ]
+$$
+
+$$
+m = \beta { \Bigg / } \left( 1 + \beta \right)
+$$
+
+$$
+S = \left\{ \begin{array} { l } { { 1 0 . 8 \sin \theta + 0 . 0 3 , \ \theta < 5 . 1 4 2 \ 8 ^ { \circ } } } \\ { { } } \\ { { 1 6 . 8 \sin \theta - 0 . 5 , \quad 5 . 1 4 2 \ 8 ^ { \circ } \leqslant \theta < 1 4 . 0 3 6 \ 2 ^ { \circ } \ ( 7 ) } } \\ { { } } \\ { { 2 1 . 9 1 \sin \theta - 0 . 9 6 , \ \theta \geqslant 1 4 . 0 3 6 \ 2 ^ { \circ } } } \end{array} \right.
+$$
+
+式中： $\lambda$ 为坡长; $m$ 为坡长指数； $\theta$ 为在DEM中提取的坡度； $L$ 为坡长因子; $s$ 为坡度因子。
+
+地表植被覆盖因子 $( C )$ 反映了植被等地表覆盖对土壤的保护作用，植被覆盖度因子是指在其他条件相同的情况下，植被覆盖的土壤流失量与裸土的
+
+土壤流失量之间的比值,值在 $0 \sim 1$ 之间[16]。本文采用蔡崇法等[1 建立的植被覆盖度与植被覆盖度因子 $( C )$ 之间的关系来估算 $C$ 值,计算公式为：
+
+1
+
+$$
+0 \leqslant f _ { c } \leqslant 0 . 1 \%
+$$
+
+$$
+C = \ 0 . 6 5 0 \ 8 - 0 . 3 4 3 \ 6 \log ( f _ { c } ) , 0 . 1 \% \leqslant f _ { c } \leqslant 7 8 . 3 \%
+$$
+
+0，
+
+$$
+f _ { c } { \geqslant } 7 8 . 3 \%
+$$
+
+$$
+f _ { c } = \frac { N D V I - N D V I _ { s o i l } } { N D V I _ { v e g } - N D V I _ { s o i l } }
+$$
+
+式中： $f _ { c }$ 为植被覆盖度 $( \% ) { : } C$ 为地表植被覆盖度因子； $N D V I _ { s o i l } \setminus N D V I _ { v e g }$ 利用ENVI5.1统计获得累计像元值 $5 \%$ 处及 $9 5 \%$ 处，分别记为裸土值和植被完全覆盖值。在ArcGIS中利用栅格计算器编写上述公式得到2018年研究区地表植被覆盖度因子 $( C )$ 的栅格图层。
+
+水土保持措施因子 $( P )$ 是指采用水土保持措施后的土壤侵蚀量与未采取水土保持措施的顺坡种植时的土壤侵蚀量之比值[18]。不同水保措施效果的差异，可以通过对不同土地覆被类型进行赋值表达，但国内目前尚没有统一的赋值标准。根据遥感影像和渭北矿区的实际情况，结合前人的研究成果[3-4.6],对不同土地利用类型赋予不同的 $P$ 值,确定耕地、林地、水系、建设用地、裸地的 $P$ 值分别为$0 . 4 5 \AA , 1 \surd 0 . 0 \AA , 0 . 2$ ，得到 $P$ 因子分布图层。
+
+2.2.2地理探测器地理探测器的原理是通过分析辨别要素不同空间类别分区之间的异质性探究其背后驱动力，在定量探测地理现象的驱动因素方面已经有了一定的应用，并取得了较好的研究结果[19-22]。受到地带和非地带性因素的影响,地理要素的空间分布往往并不均匀，这种空间差异通过分类或者分区进行表达称为空间分层异质性。在地理探测器中通过层内方差之和小于层间总方差对这一现象进行判定,分异性的大小由 $q$ 值来衡量[23]。地理探测器的主要组成部分是因子探测器、风险探测器、生态探测器和交互作用探测器。因子探测器主要用于检验某种要素是否对因变量的空间分布格局产生了影响，并利用 $q$ 值来衡量其影响力的大小[24],其计算模型为：
+
+$$
+q \ = \ 1 \ - \ \frac { \displaystyle \sum _ { h = 1 } ^ { L } N _ { h } \sigma _ { h } ^ { 2 } } { N \sigma ^ { 2 } } \ = \ 1 \ - \ \frac { S S W } { S S T }
+$$
+
+$$
+S S W = \sum _ { h = 1 } ^ { L } { N _ { h } \sigma _ { h } ^ { 2 } } , S S T = N \sigma ^ { 2 }
+$$
+
+式中： $h = 1 , \cdots , L$ 为变量 $Y$ 或因子 $X$ 的分层，即分类或分区； $N _ { \mathfrak { h } }$ 和 $N$ 分别为层 $\boldsymbol { h }$ 和全区的单元数; $\sigma _ { h } ^ { 2 }$ 和$\sigma ^ { 2 }$ 分别是层 $h$ 和全区的 $Y$ 值的方差。 $S S W$ 和 SST分别为层内方差之和及全区总方差。 $q$ 为某一自变量对区域土壤侵蚀空间差异的解释力，值域为[0，1]， $q$ 值越大说明该因子的作用越明显，由此可对研究区土壤侵蚀的主导因子进行判别。
+
+风险探测器用于判断两个子区域间的属性均值是否具有显著差别,通过计算比较各个影响因子在不同类别分区下的土壤侵蚀量均值来进行高风险区域的搜索;交互作用探测器可以识别两个自变量因子之间的交互作用并进行定量计算，即评估两个影响因子共同作用时是否会增加或减弱对因变量的解释力，通过计算比较单因子 $q$ 值和交互两个因子的$q$ 值可以分析各因子的交互作用对土壤侵蚀量的影响力。相比于其他统计方法，这无疑是地理探测器的最大优势。
+
+为了分析渭北矿区土壤侵蚀的主导因子，利用地理探测器对植被覆盖度、多年平均降水量、坡度、土地利用类型和煤炭年产量5个因子进行分析。由于地理探测器要求输入的变量为类别数据，因此需要对连续型数据进行离散化。其中土地利用数据根据类别进行分类,结合王劲峰等[23]提出的数据离散化方法及先验知识[25]将多年平均降水量数据按照等间距分类法分成9类，植被覆盖度数据按照$< 0 . 3 \ , 0 . 3 \sim 0 . 4 \ , 0 . 4 \sim 0 . 5 \ , 0 . 5 \sim 0 . 6 \ , 0 . 6 \sim 0 . 7 \ ,$ $0 . 7 \sim 0 . 8 \ , 0 . 8 \sim 0 . 9 \ , 0 . 9 \sim 1$ 分为8类，坡度按照$< 5 ^ { \circ } \ : \ : \mathsf { J } ^ { \circ } \sim 1 0 ^ { \circ } \ : \ : \mathsf { \Omega } _ { \bf \times } 1 0 ^ { \circ } \sim 1 5 ^ { \circ } \ : \ : \mathsf { \Omega } _ { \bf \times } 1 5 ^ { \circ } \sim 2 0 ^ { \circ } \ : \ : , 2 0 ^ { \circ } \sim 2 5 ^ { \circ } \ : \ : , 2 5 ^ { \circ } \ : \sim$ $3 0 ^ { \circ } , 3 0 ^ { \circ } \sim 3 5 ^ { \circ } , > 3 5 ^ { \circ }$ 等级分为8类，煤炭年产量数据在进行地理位置识别后手动添加，各煤矿点的具体数据如图2所示。利用ArcGIS10.2将渭北矿区划分为 $2 \ \mathrm { k m } \times 2 \ \mathrm { k m }$ 的研究单元，并在每个研究单元中心点设置样本点，将土壤侵蚀量及各影响因子分类值赋予创建的离散点作为地理探测器的运行数据。
+
+# 3 结果分析
+
+# 3.1 土壤侵蚀评价
+
+应用RUSLE模型对渭北矿区土壤侵蚀量进行估算，渭北矿区2018年土壤侵蚀量的范围为 $0 \sim$ $2 ~ 5 4 2 . 4 6 \mathrm { ~ t ~ } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。按照国家土壤侵蚀强度分级标准（SL190-2007）[26]进行划分，该区域土壤侵蚀强度主要为微度和轻度侵蚀，其中微度侵蚀面积占比为 $8 3 . 9 2 \%$ ,轻度侵蚀面积占比为 $7 . 9 0 \%$ 。中度至剧烈土壤侵蚀强度在渭北矿区内也有零星分布，但面积占比均较小，分别为 $4 . 3 4 \% . 1 . 8 5 \% . 1 . 3 6 \%$ 和 $0 . 6 3 \%$ 。由2018年渭北矿区土壤侵蚀空间分布（图3)可以得到，渭北矿区土壤侵蚀具有空间异质性，侵蚀较为严重的区域位于研究区西南部、中部和东南部，其中尤以西南部和中部地区土壤侵蚀最为严重。通过叠加县级行政区划可以得到王益区、三原县北部、富平县北部、耀州区东部、白水县、蒲城县北部、澄城县西部、合阳县北部和韩城市中部地区的土壤侵蚀较为严重。对比区域地形图可以发现，这些地区地势起伏较大，地形较为复杂，且有清河、石川河、白水河、北洛河等河流经过。由于煤炭开采等原因降低了这些地区的植被覆盖度，使得植物对土壤的保护作用减弱，呈现出较为严重的土壤侵蚀现状。
+
+![](images/f691968dd076733416dab38d9a3b5862e93cc0a18162a4dd84d503809d1c332d.jpg)  
+Tig.2Some field research data of coalmines in Weibei mining area
+
+![](images/efc43fc2cf7249ffda414c899f6bc923464497d2cbc725a6c93ab1932951489a.jpg)  
+图2渭北矿区部分煤矿实地调研资料  
+图32018年渭北矿区土壤侵蚀空间分布  
+Fig.3Spatial distribution of soil erosion in the Weibei mining area in 2018
+
+# 3.2基于地理探测器的土壤侵蚀定量归因
+
+3.2.1土壤侵蚀影响因子显著性研究因子探测器运行结果表明，不同影响因子对土壤侵蚀量的解释力具有显著差异。从渭北矿区全范围来看，各影响因子对土壤侵蚀量的解释力从大到小依次为植被覆盖度、多年平均降水量、土地利用类型、坡度和煤炭年产量。表1为对所有因子的 $q$ 值计算结果,结果表明植被覆盖度因子具有最高的 $q$ 值,说明在这些影响因子中植被覆盖度是决定渭北矿区土壤侵蚀空间格局的主导因子。煤炭年产量因子的解释力最小，且未通过显著性检验，说明该因子对土壤侵蚀的影响程度最低。根据实地调研的结果，渭北矿区作为陕西省最早建成的煤炭生产基地，经过长期开采，矿区已经出现资源枯竭等诸多问题，多数煤矿已经闲置或关闭，煤矿数量大幅减少且实施了复绿工程。此外渭北矿区煤矿多为井工开采方式，相比于露天煤矿对土壤的扰动程度降低，因此通过分析2018 年的数据发现，煤炭开采已不是渭北矿区土壤侵蚀的主要影响因子。对比自然环境因素与人为因素的解释力可以发现，植被覆盖度、多年平均降水量等自然因素的 $q$ 值大于煤炭年产量等人为因素的 $q$ 值，说明自然环境因素是影响渭北矿区土壤侵蚀空间分布的主要驱动力。
+
+3.2.2土壤侵蚀高风险区域识别风险探测器结果如表2所示，土地利用类型中裸地发生土壤侵蚀的风险最高，这是因为渭北矿区地处黄土分布区域，在水力等作用下极易发生侵蚀。裸地环境条件较差，少有植物生长，同时科学有效的水土管理措施实施并不到位，造成土壤侵蚀现象较为严峻。通过对多年平均降水量分层土壤侵蚀均值进行比较发现降水量在 $5 3 6 . 4 2 \sim 5 4 8 . 6 2 ~ \mathrm { m m }$ 间的区域发生土壤侵蚀的风险最高。叠加渭北矿区多年降水量空间分布图可以得到，降水量在该区间范围的区域主要位于研究区中部(白水县、澄城县、蒲城县），这些地区的土壤侵蚀现象均较为严重。通过对比不同坡度分区对应的土壤侵蚀量均值可以发现随着坡度的增加，土壤侵蚀量呈先增加后减少的趋势，在坡度 $2 0 ^ { \circ }$ \~$2 5 ^ { \circ }$ 区间出现拐点，即为表2中坡度的高风险区。在
+
+Tab.1q value of influencing factors   
+
+<html><body><table><tr><td>解释力</td><td>土地利 用类型</td><td>多年平均降 水量/mm</td><td>坡度 植被覆 盖度 /</td><td>煤炭年产量 /104t·a-1</td></tr><tr><td>q值</td><td>0.0172</td><td>0.0594 0.0169</td><td>0.114 2</td><td>0.0103</td></tr></table></body></html>
+
+# 表2各影响因子土壤侵蚀高风险区域及其平均值 $/ \textbf { t } \cdot \textbf { h m } ^ { - 2 } \cdot \textbf { a } ^ { - 1 }$
+
+Tab.2High risk areasof soil erosionand its mean value in influencing factors $/ \textbf { t } \cdot \textbf { h m } ^ { - 2 } \cdot \textbf { a } ^ { - 1 }$   
+
+<html><body><table><tr><td></td><td>土地 利用</td><td>多年平 降水量</td><td>坡度 /0</td><td>植被 覆盖</td><td>煤炭年 产量</td></tr><tr><td>高风险区</td><td>类型 裸地</td><td>/mm 536.42~548.62</td><td>20~25</td><td>度 <0.3</td><td>62 /104t·a-1</td></tr><tr><td>土壤侵蚀</td><td>13.03</td><td>19.22</td><td>13.77</td><td>29.32</td><td>1</td></tr></table></body></html>
+
+注：“-”表示未通过置信水平 $9 5 \%$ 的检验
+
+对植被覆盖度进行层间分析后发现，渭北矿区内植被覆盖度与土壤侵蚀量密切相关，土壤侵蚀量随着植被覆盖度的升高而减少，植被覆盖度小于0.3时土壤侵蚀量均值达到最大值。叠加植被覆盖与土壤侵蚀空间分布图发现，侵蚀程度较轻的区域主要分布在高植被覆盖区，侵蚀程度较严重的区域主要分布在低植被覆盖区，可见植被对土壤侵蚀的抑制作用较为显著。
+
+3.2.3土壤侵蚀影响因子交互作用研究交互作用探测器统计结果如表3所示，可见两种影响因子的协同作用会增强对土壤侵蚀的解释力。对统计结果进行分析可以得到，除降水与坡度的交互作用外，交互作用解释力排在第一位的均为植被覆盖度与其他因子的协同作用，是土壤侵蚀的显著控制因子，这意味着植被覆盖度相差较大的区域往往土壤侵蚀程度有着明显差异。将各因子与植被覆盖度交互作用后的 $q$ 值与单因子 $q$ 值进行比较，坡度与植被覆盖度因子交互作用后 $q$ 值变化幅度最大，二者协同作用后对土壤侵蚀的解释力约是坡度单因子解释力的25 倍。因此应当注重坡面恢复植被,植树种草，增加入渗，减少地表径流和土壤的破坏转移。
+
+# 4结论
+
+通过对渭北矿区2018年土壤侵蚀量进行估算
+
+# 表3土壤侵蚀影响因子交互作用q值统计
+
+表1各影响因子q值统计  
+Tab.3q values of dominant interactions between two covariates   
+
+<html><body><table><tr><td></td><td>土地 利用</td><td>降水</td><td>坡度</td><td>植被 覆盖度</td><td>煤炭 年产量</td></tr><tr><td>土地利用</td><td>0.017</td><td>0.082</td><td>0.076</td><td>0.240</td><td>0.039</td></tr><tr><td>降水</td><td>0.082</td><td>0.059</td><td>0.226</td><td>0.215</td><td>0.082</td></tr><tr><td>坡度</td><td>0.076</td><td>0.226</td><td>0.017</td><td>0.435</td><td>0.036</td></tr><tr><td>植被覆盖度</td><td>0.240</td><td>0.215</td><td>0.435</td><td>0.114</td><td>0.138</td></tr><tr><td>煤炭年产量</td><td>0.039</td><td>0.082</td><td>0.036</td><td>0.138</td><td>0.020</td></tr></table></body></html>
+
+以及对驱动因素进行分析后得出以下结论：
+
+（1）渭北矿区土壤侵蚀强度主要为微度和轻度侵蚀，侵蚀严重的地区主要位于研究区西南部、中部和东南部。在县级行政区单元来看，侵蚀较为严重的地区主要在耀州区东部、富平县西部、白水县东部、澄城县西部、合阳县南部和韩城市中部。通过叠加河流和植被覆盖分布图可以发现，这些区域大多有河流经过且植被覆盖度相对较低。
+
+（2）通过利用地理探测器对土壤侵蚀各影响因子进行分析发现植被覆盖度的解释力最大，说明植被覆盖度是影响渭北矿区土壤侵蚀空间分布的主导因子。在对各因子进行层间侵蚀量差异进行分析后识别出渭北矿区土壤侵蚀高风险区位于坡度 $2 0 ^ { \circ } \sim$ $2 5 ^ { \circ }$ 、植被覆盖度 $< 0 . 3$ 和用地类型为裸地的区域，因此这些区域需注重实施水土保持措施。
+
+（3）由于土壤侵蚀是多个因子共同作用的结果，进一步对各因子进行交互作用研究发现各影响因子两两交互作用对土壤侵蚀的解释力均大于单因子解释力，且除去植被覆盖度与降水的交互作用解释力略小于坡度与降水的交互作用解释力外，植被覆盖度因子与其他因子的协同作用解释力均排在第一位，是渭北矿区土壤侵蚀的显著影响因子。
+
+（4）渭北矿区地处黄土高原，特殊的自然环境和强烈的人类活动都加重了区域土壤侵蚀。在今后的水土保持工作实施过程中除进一步对煤矿区进行生态修复外，还应注重坡面恢复植被，进而改良土壤增加入渗，同时注重开展对地形复杂地区的水土保持工作。受到收集到的数据的精度限制，所选用的遥感影像分辨率为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ ,加之研究区域面积较小，因此在后续的研究中应当着重提高数据源的精度，进而得到更好的研究成果。
+
+# 参考文献(References)
+
+[1］王力,李裕元,李秧秧.黄土高原生态环境的恶化及其对策 [J].自然资源学报，2004，19（2）：263-271.［WANGLi,LI Yuyuan,LI Yangyang.The eco-environment deterioration and its counter-measures in the Loess Plateau[J].Journal of Natural Resources,2004,19(2):263 -271.]   
+[2］卫亚星,王莉雯,刘闯.基于遥感技术的土壤侵蚀研究现状及 实例分析[J].干旱区地理，2010，33（1）：87-92.［WEIYaxing,WANGLiwen,LIUChuang.Caseanalysisand statusof erosion detection based on remote sensing technology[J].Arid Land Geography,2010,33（1):87-92.]   
+[3］李奎，岳大鹏,刘鹏,等.基于GIS 和RUSLE的榆林市土壤侵蚀 空间分布研究[J].水土保持通报，2014，34（6)：172-178.［LI Kui,YUE Dapeng,LIU Peng,et al. Spatial distribution of soil erosion analyzed based on GIS and RUSLE in Yulin City[J].Bulletin of Soil and Water Conservation,2014,34(6):172-178.]   
+[4］李柏延,任志远,易浪.2001—2010 年榆林市土壤侵蚀动态变 化趋势[J].干旱区研究,2015,32（5）:918-925.[LI Boyan, REN Zhiyuan,YI Lang.Study on changing trend of soil erosion in Yulin City from 2001—2010[J].Arid Zone Research,2015,32 (5) :918 -925.]   
+[5］秦伟,朱清科,张岩.基于GIS 和RUSLE 的黄土高原小流域土 壤侵蚀评估[J].农业工程学报,2009,25（8)：157-163,4. [QIN Wei,ZHU Qingke,ZHANG Yan. Soil erosion assessment of small watershed in LoessPlateau based on GIS and RUSLE[J]. Transactions oftheChinese SocietyofAgriculturalEngiering, 2009,25(8) :157 -163,4.]   
+[6］周来,张博,陈丽萍,等.基于GIS 的福建省将乐县土壤侵蚀及 保持定量分析[J].西北农林科技大学学报（自然科学版)， 2019,47(6):1-8.[ZHOU Lai,ZHANG Bo,CHEN Liping,et al. GIS-based quantitative analysis of soil erosion and conservation in Jiangle,Fujian[J].Journal of Northwest A&FUniversity（Natural Science Edition）,2019,47(6):1 -8]   
+［7］王涛.基于RUSLE 模型的土壤侵蚀影响因素定量评估——以 陕北洛河流域为例[J].环境科学与技术,2018,41（8）：170- 177.[WANG Tao.Quantitative analysis on influencing factors of soil erosion using RUSLE：A case study of the Luohe Basin in northern Shanxi Province[J].Environmental Science & Technology,2018,41(8):170 -177. ]   
+[8］张翼.黄土高原丘陵沟壑区土壤侵蚀研究进展[J].水土保持 学报,2001,2（15）:121-128.[ZHANG Yi.Research advance on soil erosion in loess hilly-gully region[J]. Journal of Soil and $\mathbb { W } \mathrm { a }$ ter Conservation,2001,2（15）:121-128.]   
+[9］王尧,蔡运龙,潘懋.贵州省乌江流域土地利用与土壤侵蚀关 系研究［J].水土保持研究,2013,20（3）：11－18.［WANG Yao,CAI Yunlong,PAN Mao.Analysis on the relationship between Soil erosion and land use in Wujiang River Basin in Guizhou Province[J]. Research of Soil and Water Conservation,2013,20（3）: 11 -18.]   
+[10]FENG T,CHEN HS,POLYAKOV V O,et al. Soil erosion rates in two karst peak-cluster depression basins of northwest Guangxi,China: Comparison of the RUSLE model with l37Cs measurements [J]. Geomorphology，2016,253:217 -224.   
+[11］章文波,付金生.不同类型雨量资料估算降雨侵蚀力[J].资源 科学,2003,25（1）:35-41.[ZHANG Wenbo,FU Jinsheng. Rainfall erosivity estimation under different rainfall amount[J]. Resources Science,2003,25(1) :35-41.]   
+[12]WILLIAMS JR. The erosion-productivity impact calculator（EPIC）model:A case history[J].Royal Society of London Philosophical Transactions,1990,329(1225）:421-428.   
+[13]RENARD K G,FOSTER G R, WEESIES G A,et al. Predicting rainfall erosion by water:A guide to conservation planning with the revised universal soil loss equation(RUSLE)[M].Washington D C: United States Department of Agriculture,1997:143 -182.   
+[14] MCCOOL D K,BROWN L C,FOSTER G R,et al. Revised slope steepness factor for the universal soil loss equation[J]. Transactions of the ASAE,1987,30(5):1387 -1396.   
+[15]LIU B Y,NEAR M A,RISSE L M. Slope gradient effects on soil loss for steep slopes[J].Transactions of the ASAE,1994,37(6）:
+
+1835 -1840.
+
+[16］陈龙，谢高地，裴厦，等.澜沧江流域生态系统土壤保持功能及 其空间分布［J].应用生态学报，2012,8（23）：2249－2256. [CHEN Long,XIE Gaodi,PEI Sha,et al.Ecosystem's soil conservation function and its spatial distribution in Lancang River Basin, southwest China[J].Chinese Journal of Applied Ecology,2012,8 (23):2249 -2256.] [17］蔡崇法，丁树文，史志华，等.应用USLE模型与地理信息系统 IDRISI预测小流域土壤侵蚀量的研究［J].水土保持学报，   
+2000,14(2）:19-24.[CAI Chongfa,DING Shuwen,SHI Zhihua, et al.Study of applying USLE and geographical information system IDRISI to predict soil erosion in small watershed[J]. Journal of Soil and Water Conservation,2000,14(2):19-24.] [18］张磊，孟亚利.基于GIS的江苏省太湖流域水土流失评价[J]. 江西农业学报,2009,21（6）:129-132.［ZHANGLei,MENG Yali.Evaluation of water and soil loss in Taihu Basin of Jiangsu Province based on GIS[J].Acta Agriculturae Jiangxi,2O09,21 (6):129-132.] [19］裴志林,杨勤科,王春梅,等.黄河上游植被覆盖度空间分布特 征及其影响因素［J].干旱区研究，2019，36（3)：546-555. [PEI Zhilin,YANG Qinke,WANG Chunmei,et al. Spatial distribution of vegetation coverage and its affecting factors in the upper reaches of the Yellow River[J].Arid Zone Research,2019,36 (3):546-555.] [20］柳冬青,张金茜,李红瑛,等.基于地理探测器的流域土壤磷流 失影响因素分析[J].环境科学学报，2018,38（12）：4814-   
+4822.[LIU Dongqing,ZHANG Jinqian,LI Hongying,et al.Impact factors of soil phosphorus loss in watershed based on geographical detector[J]．Acta Scientiae Circumstantiae,2018,38（12）：   
+4814 -4822.]
+
+[21］李俊刚，闫庆武，熊集兵，等.贵州省煤矿区植被指数变化及其
+
+影响因子分析[J].生态与农村环境学报,2016,32(3)：374- 378.[LI Jungang,YANQingwu,XIONG Jibing,et al.Variation of vegetation index in coal mining areas in Guizhou Province and its affecting factors[J].Journal of Ecology and Rural Environment, 2016,32(3) :374 -378.]   
+[22］李佳洺，陆大道，徐成东，等.胡焕庸线两侧人口的空间分异 性及其变化[J].地理学报，2017,72（1)：148-160.［LIJiaming,LU Dadao,XU Chengdong,et al. Spatial heterogeneity and its changes of population on the two sides of HuLine[J].Acta Geographica Sinica,2017,72(1):148-160.]   
+[23］王劲峰，徐成东.地理探测器：原理与展望[J].地理学报, 2017,72(1）:116-134.[WANG Jinfeng,XU Chengdong.Geodetector：Principle and prospective［J].Acta Geographica Sinica, 2017,72(1):116-134.]   
+[24]WANG JF,LI X H,CHRISTAKOS G,et al.Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun region,China[J].International Journal of Geographical Information Science,2010,24（1）:107 - 127.   
+[25］王欢,高江波,侯文娟.基于地理探测器的喀斯特不同地貌形 态类型区土壤侵蚀定量归因[J].地理学报,2018,73（9)： 1674-1686.[WANG Huan,GAO Jiangbo,HOU Wenjuan. Quantitative atribution analysis of soil erosion in different morphological types of geomorphology in karst areas:Based on the geographical detector method[J].Acta Geographica Sinica,2018,73（9）： 1674 -1686.]   
+[26］中华人民共和国水利部.土壤侵蚀分类分级标准（SL190- 2007)［S].北京：中国水利水电出版社,2008.［MinistryofWater Resources of the People's Republic of China.Standards for classification and gradation of soil erosion（SL190 -2OO7)[S]. Beijing:China Water&Power Press,2008.]
+
+# Evaluation of soil erosion and driving factors analysis in Weibei mining area
+
+ZOU Ya-jing， YAN Qing-wu， TAN Xue-ling， WANG Jin(ColegeofontedtialticsaUsitfndo)
+
+Abstract：The Weibei mining area in Shaanxi Province,China is located in the Loess Plateau.Afected by natural environmentand human activities such as coal mining,soil erosion in thisarea is more seriousand theecological environment is morefragile.In this paper,the simulationof soil erosionand its quantitative atributionanalysis have ben conducted inthe mining area based on the RUSLE model and the geographical detector method.The influencing factors,such as vegetation cover,perennial average precipitation,slope,landuse type and annual coal output have been taken into consideration.The results ofthis study provided the advice on the soil and water conservation in mining areas.The results indicate as follows:（1）The intensity of soil erosion in general was mainly slight and mild in Weibei mining area.The soil erosion was severe in the central,southeastern and southwestern regions of the studyarea.（2）Vegetation coverage and perennial average precipitation are thedominant factors of soil erosion in Weibei mining area.Moreover,the conditions that are likely to induce soil erosion are： slopes between $2 0 ^ { \circ }$ and $2 5 ^ { \circ }$ ， vegetationcoverage less thanO.3and bare lands.（3）The synergistic efectof the factors on soil erosion is greater than that of single factor.Therefore,the combined action of multiple factors have a significant impact onsoil erosion in Weibei mining area.
+
+Key Words:soil erosion；RUSLE model； Loess Plateau；geographical detector；coal mining area;driving factors

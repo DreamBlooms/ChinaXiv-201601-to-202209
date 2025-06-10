@@ -1,0 +1,292 @@
+# 基础研究
+
+# 基于全变分正则化去卷积的PET部分容积校正
+
+胡德斌'，路利军'，高园园',张后金'，韩彦江²，辜承慰'，马建华」南方医科大学'生物医学工程学院，南方医院PET中心，广东广州510515摘要：目的 提出全变分正则化去卷积方法并应用于PET图像部分容积校正。方法 将全变分(toal variation,TV)引人到图像退化模型中,提出基于全变分正则化的VanCitert(VC)和Richardson-Lucy(RL)去卷积方法。结果提出的方法分别应用于NCAT仿真数据、NEMANU4-2008IQ物理体模和肿瘤小鼠数据(均采用西门子小动物Inveon PET扫描得到)。相比于传统VC和RL去卷积方法，本文提出方法在仿真实验中校正图像有明显的去噪和保持边缘效果，同时在小鼠实验中肿瘤区域的活度值增加率为( $1 0 { \pm } 1 . 8 ) \%$ 时，图像标准方差(standarddeviation,SD)增加率分别从 $4 9 . 9 8 \%$ 下降到 $1 4 . 2 6 \%$ 和 $4 2 . 7 6 \%$ 下降到 $4 . 7 0 \%$ 。结论 本方法能够在校正PET部分容积效应的同时有效抑制噪声增加，可望更为准确地诊断肿瘤。
+
+关键词：PET;部分容积校正；去卷积;TV正则化
+
+# Incorporation of TV regularization in deconvolution for partial volume correction in PET imaging
+
+HUDebin',LULijun',GAO Yuanyuan',ZHANGHoujin',HANYanjiang,GUChengwei',MAJianhual Scholofomicaleptftegiaticaliyu
+
+Abstract: Objective We propose a method using total variation (TV)regularization in deconvolution for partial volume correction in PETimaging.In the degraded image model, we usedTVregularization procedure in VanCitert (VC)and Richardson-Lucy (RL)deconvolution algorithms.These methods were tested in simulated NCAT images and images of NEMA NU4-2008 IQ phantom and tumor-bearing mouse scanned by Simens Invoen microPET.The simulated experiment and tumor-bearing mouse experiment showed that the algorithms using TV regularization provided superior qualitative and quantitative appearance compared with traditional VCandRLalgorithms. When themean intensityofthe tumor increased by $( 1 0 \pm 1 . 8 ) \%$ ， the SD increase percentage was decreased from $4 9 . 9 8 \%$ to $1 4 . 2 6 \%$ and from $4 2 . 7 6 \%$ to $4 . 7 0 \%$ ， suggesting the efficiency of the proposed algorithms for reducing PVEs in PET.
+
+Key words: positron emission tomography; partial volume correction; deconvolution; total variation regularization;
+
+PET成像中部分容积效应(partialvolumeeffect,PVE)会使图像模糊，图像中组织活度衰减，病灶边界识别不清，从而影响临床诊断1。因此减轻部分容积效应对PET图像的影响，对提高PET在肿瘤诊断和指导治疗上的应用至关重要。当前，诸多方法相继被提出以实现PET图像部分容积效应校正(partialvolumecorrection,PVC)。其中一类方法是引人MR/CT解剖先验对PET图像进行部分容积校正，如在图像重建或后重建过程，通过分割和配准解剖图像，引入解剖图像的边缘或者区域信息[2-3]。然而这些方法首先要对解剖图像进行精确分割，而解剖图像分割尚无绝对鲁棒的方法。此外,此类方法主要针对大脑区域,极大限制了此类方法的应用。
+
+基于图像后重建的去卷积校正技术提供了另一类解决方法。去卷积方法只需考虑PET图像本身信息，方法实现简单易行，更重要的是可以针对全身区域进行部分容积校正，如Teo等4首先应用VanCittert(VC)去卷积算法[5在PET肿瘤图像进行部分容积校正。然而，去卷积过程会引起高水平噪声，故作者提出应用这种算法只是针对特定的感兴趣区域(regionsofinterest,ROIs），例如经过很好勾勒出的肿瘤区域。Tohka和Reihac[应用VC和Richardson-Lucy(RL)[7-8]去卷积算法进行脑PET图像的部分容积校正，结果表明这两种去卷积方法都会导致图像噪声的增加。为解决校正过程中噪声增加的问题,本文将正则化项引入到去卷积模型中。全变分(totalvariation,TV)已广泛应用于图像处理领域，能够在保持图像边缘的同时取得良好去噪效果。针对PET部分容积效应图像活度衰减、边缘模糊特点和传统去卷积方法噪声增加问题，本研究将全变分方法与传统迭代去卷积方法二者有机结合，提出基于全变分正则化的VC和RL去卷积算法，并与中值先验正则化[和贝叶斯正则化的去卷积方法比较。
+
+# 1方法
+
+一般而言，去卷积方法的通用框架是基于以下模型：
+
+$$
+O ( x ) = I ( x ) \otimes h ( x ) + N ( x )
+$$
+
+式中， $O _ { \cdot }$ 是探测得到的图像， $I$ 是真实理想的图像， $\mathbf { \nabla } _ { . } h$ 代表着点扩散函数(point spread function,PSF), $N$ 为加性噪声， $x$ 为空间坐标， $\otimes$ 是卷积操作。
+
+# 1.1 经典去卷积方法
+
+1.1.1Van Cittert(VC)去卷积算法Van Cittert(VC)去卷积算法是从探测得到的退化图像 $O$ 中迭代恢复真实理想的图像I，将(1)式改写成最小二乘形式为：
+
+$$
+J _ { 1 } = \sum _ { x } \bigl \| O ( x ) - ( I \otimes h ) ( x ) \bigr \| ^ { 2 }
+$$
+
+运用梯度下降法求解得到：
+
+$$
+\widetilde { I } ^ { n + 1 } ( x ) = \widetilde { I } ^ { n } ( x ) + \alpha ( O ( x ) - h ( x ) \otimes \widetilde { I } ^ { n } ( x ) )
+$$
+
+式中， $\alpha$ 是收敛参数一般设为 $1 , \tilde { I } ^ { n + 1 }$ 和 ${ \tilde { I } } ^ { n }$ 分别是第$\mathrm { n } { + } 1$ 次和第 $\mathfrak { n }$ 次迭代的结果， $o$ 和与(1)式定义相同。
+
+1.1.2Richardson-Lucy(RL)去卷积算法 Richardson和Lucy提出了RL去卷积算法，依据贝叶斯理论，由(1)式可以得到：
+
+$$
+p ( I | O ) { = } p ( O | I ) \cdot { \frac { p ( I ) } { p ( O ) } }
+$$
+
+其中 $p ( I | O )$ 是后验概率， $p ( O | I )$ 是似然概率， $p ( I )$ 是目标图像的先验概率， $p ( O )$ 是常数。
+
+在去卷积问题中，假设PET图像统计过程为泊松过程，故似然概率 $p ( O | I _ { \cdot }$ 能写成：
+
+$$
+p ( O | I ) { = } \prod _ { x } \frac { \left[ ( h \otimes I ) ( x ) \right] ^ { O ( x ) } \exp ( - ( h \otimes I ) ( x ) ) } { O ( x ) ! }
+$$
+
+求解(5)式可以得到需要最小化求解的代价函数：
+
+$$
+J _ { 2 } = \sum _ { x } [ ( h \otimes I ) ( x ) - O ( x ) \cdot \log ( h \otimes I ) ( x ) ]
+$$
+
+通过(6式最小化求解，可以得到RL算法的最终形式：
+
+$$
+\widetilde { I } ^ { n + 1 } ( x ) = \widetilde { I } ^ { n } ( x ) \cdot [ ( \frac { O ( x ) } { h ( x ) \otimes \widetilde { I } ^ { n } ( x ) } ) \otimes h ( - x ) ]
+$$
+
+式中， $h ( - x )$ 是 $h ( x )$ 的共轭， $\tilde { I } ^ { n + 1 }$ 和 ${  { \widetilde { I } } } ^ { n }$ 分别是第 $\mathrm { n } { + } 1$ 次和第 $\mathfrak { n }$ 次迭代的结果， $o$ 和h与(1)式定义相同。
+
+VC和RL两种去卷积方法都能用于PET图像的部分容积校正，但缺点是会引起高水平的噪声。因此，为了减少校正过程中噪声的增加，需要在去卷积步骤中引入正则化项。
+
+1.2全变分正则化
+
+全变分(totalvariation,TV)去噪模型是一种应用很广的滤波方法，优点是在保持边缘信息同时具有良好的去噪效果，三维情况下的TV式为：
+
+$$
+T V ( I ) = \int \lvert \nabla I \rvert d x d y d z = \int \sqrt { \frac { \partial I ^ { 2 } } { \partial x } + \frac { \partial I ^ { 2 } } { \partial y } + \frac { \partial I ^ { 2 } } { \partial z } } d x d y d z \mathrm { ( }
+$$
+
+其与经典去卷积算法结合的正则化形式分为两种。
+
+第一种是与VC去卷积算法结合，在(2)式中引入TV正则化项，则变为：
+
+$$
+J _ { T V 1 } = \sum _ { x } \bigl | \bigl | O ( x ) - ( I \otimes h ) ( x ) \bigr | \bigr | ^ { 2 } + \lambda _ { T V } \sum _ { x } \bigl | \nabla I ( x ) \bigr |
+$$
+
+运用梯度下降法求解，则(9)式的迭代求解式为：
+
+$$
+\begin{array} { l } { { \displaystyle \widetilde { I } ^ { n + 1 } ( x ) = \widetilde { I } ^ { n } ( x ) + \alpha ( O ( x ) - h ( x ) \otimes \widetilde { I } ^ { n } ( x ) ) + } } \\ { { \displaystyle \alpha \lambda _ { T V } \mathrm { d i v } ( \frac { \nabla \widetilde { I } ^ { n } ( x ) } { \big | \nabla \widetilde { I } ^ { n } ( x ) \big | } ) } } \end{array}
+$$
+
+式中， $\lambda _ { T V }$ 是正则化参数， $\alpha _ { \cdot }$ 是收敛参数一般设为1，div代表的是散度算子， $\bigtriangledown$ 为梯度算子，其余与(3)式定义相同。
+
+第二种是与RL去卷积算法结合，在(6)式中引入TV正则化项，则可以改写成：
+
+$$
+\begin{array} { l } { { J _ { T V 2 } = \displaystyle \sum _ { x } [ ( h \otimes I ) ( x ) \cdot O ( x ) \cdot \log ( h \otimes I ) ( x ) ] } } \\ { { + \lambda _ { T V } \sum _ { x } \bigr | \nabla I ( x ) \bigr | } } \end{array}
+$$
+
+求解(11)式可以得到：
+
+$$
+\begin{array} { l } { \displaystyle \tilde { I ^ { n } } ( x ) = ( \frac { O ( x ) } { \tilde { I ^ { n } } ( x ) \otimes h ( x ) } \otimes h ( - x ) ) \cdot } \\ { \displaystyle \frac { \tilde { I ^ { n } } ( x ) } { 1 - \lambda _ { T V } \mathrm { d i v } ( \displaystyle \frac { \nabla \tilde { I ^ { n } } ( x ) } { \big | \nabla \tilde { I ^ { n } } ( x ) \big | } ) } } \end{array}
+$$
+
+式中，各变量定义与(10)式相同。
+
+# 1.3中值先验正则化
+
+为了抑制去卷积迭代过程中噪声的增加，在RL去卷积框架下,Kirov提出将中值先验(median root prior,MRP)[12应用于去卷积过程中，用来构建迟一步MRP算法：
+
+$$
+\widetilde { I } ^ { n + 1 } ( \vec { r } ) = \displaystyle \frac { \widetilde { I } ^ { n + 1 , d e c } ( \vec { r } ) } { 1 + \beta \displaystyle \frac { \widetilde { I } ^ { n } ( \vec { r } ) - M _ { R } } { M _ { R } } }
+$$
+
+这里的 $\tilde { I } ^ { n + 1 , d e c } ( \vec { r } )$ 是在坐标点处第 $\mathrm { n } { + } 1$ 次去卷积迭代但没有进行MRP正则化的结果， $\tilde { I } ^ { n } ( \Vec { r } )$ 和 $| \widetilde { I } ^ { n + 1 } ( \vec { r } )$ 分别为在坐标点处第 $\mathfrak { n }$ 次和第 $\mathrm { n } { + } 1$ 次去卷积迭代进行过MRP正则化的结果。 $M _ { R } = M e d ( \widetilde { I } ^ { n } , \widetilde { r } , R )$ 是以坐标点为中心，$R$ 为半径的邻域的像素中值，其中 $\beta$ 为先验的权重。
+
+# 1.4贝叶斯正则化
+
+贝叶斯正则化去卷积方法在Naqa文章中指的是在
+
+求解(1)式过程中使用最大后验方法，引人自身图像作为先验，在贝叶斯框架下，得到贝叶斯去卷积迭代公式为：
+
+$$
+\widetilde { I } ^ { n + 1 } ( x ) = \widetilde { I } ^ { n } ( x ) \cdot \exp [ ( \frac { O ( x ) } { h ( x ) \otimes \widetilde { I } ^ { n } ( x ) } - 1 ) \otimes h ( - x ) ]
+$$
+
+式中，各变量定义与(7)式相同，公式中的指数项强制正向收敛，从而起到正则化作用。
+
+# 1.5数值解法
+
+对于三维数据的的 $\mathrm { d i v } ( \frac { \nabla I ( x ) } { \left| \nabla I ( x ) \right| } )$ 计算，我们参考Rudin等给出如下数值解法：
+
+$$
+\mathrm { d i v } ( \frac { \nabla I ( x ) } { \left| \nabla I ( x ) \right| } ) _ { i j k } =
+$$
+
+$$
+\begin{array} { r l } & { \Delta _ { - } ^ { x } \frac { \Delta _ { + } ^ { x } I _ { i j k } } { \sqrt { \left( \Delta _ { + } ^ { x } I _ { i j k } \right) ^ { 2 } + m ( \Delta _ { + } ^ { y } I _ { i j k } , \Delta _ { - } ^ { y } I _ { i j k } ) ^ { 2 } + m ( \Delta _ { + } ^ { z } I _ { i j k } , \Delta _ { - } ^ { z } I _ { i j k } ) ^ { 2 } } } + } \\ & { \Delta _ { - } ^ { y } \frac { \Delta _ { + } ^ { y } I _ { i j k } } { \sqrt { \left( \Delta _ { + } ^ { y } I _ { i j k } \right) ^ { 2 } + m ( \Delta _ { + } ^ { x } I _ { i j k } , \Delta _ { - } ^ { x } I _ { i j k } ) ^ { 2 } + m ( \Delta _ { + } ^ { z } I _ { i j k } , \Delta _ { - } ^ { z } I _ { i j k } ) ^ { 2 } } } + } \\ & { \Delta _ { - } ^ { z } \frac { \Delta _ { - } ^ { z } I _ { i j k } } { \sqrt { \left( \Delta _ { + } ^ { z } I _ { i j k } \right) ^ { 2 } + m ( \Delta _ { + } ^ { x } I _ { i j k } , \Delta _ { - } ^ { x } I _ { i j k } ) ^ { 2 } + m ( \Delta _ { + } ^ { y } I _ { i j k } , \Delta _ { - } ^ { y } I _ { i j k } ) ^ { 2 } } } } \end{array}
+$$
+
+$$
+\Delta _ { \pm } ^ { x } I _ { i j k } = h _ { x } ^ { - 1 } ( \mp I _ { i j k } \pm I _ { ( i \pm 1 ) j k } ) ,
+$$
+
+$$
+\Delta _ { \pm } ^ { y } I _ { i j k } = h _ { y } ^ { - 1 } ( \mp I _ { i j k } \pm I _ { i ( j \pm 1 ) k } ) , \Delta _ { \pm } ^ { z } I _ { i j k } = h _ { z } ^ { - 1 } ( \mp I _ { i j k } \pm I _ { i j ( k \pm 1 ) } )
+$$
+
+$$
+m ( a , b ) = { \frac { \operatorname { s i g n } a + \operatorname { s i g n } b } { 2 } } \operatorname* { m i n } ( | a | , | b | )
+$$
+
+同时 ${ \bf \ddot { \it h } } _ { x } , h _ { y } , h$ 是指像素的维数，一般都取1,在边界点，我们定义以下关系：
+
+$$
+\begin{array} { r l } & { I _ { 0 j k } = I _ { 1 j k } , ~ I _ { ( N _ { x } + 1 ) j k } = I _ { N _ { x } j k } , } \\ & { I _ { i 0 k } = I _ { i 1 k } , ~ I _ { i ( N _ { y } + 1 ) k } = I _ { i N _ { y } k } , } \\ & { ~ I _ { i j 0 } = I _ { i j 1 } , ~ I _ { i j ( N _ { z } + 1 ) } = I _ { i j N _ { z } } } \end{array}
+$$
+
+计算平台是IntelCore i $\cdot 5 { \cdot } 2 4 0 0 \ \textcircled { \div } \ 3 . 1 0 \mathrm { G H z }$ 四核处理器、4GB内存的PC机。Matlab版本为7.11.0.584(R2010b)。
+
+# 2实验设计与评价
+
+2.1NCAT仿真实验
+
+本图1A是大小为 $1 2 8 \times 1 2 8$ 的NCAT仿真PET图像，参数均来自文献[13]。图1B是仿真存在部分容积效应和噪声的退化PET图像，退化图像的部分容积效应是在图像域中对体模图像进行半高宽为 $6 ~ \mathrm { m m }$ 的高斯平滑，随后加入均值为0,方差为0.1的高斯噪声。
+
+![](images/54caae72a03e5b3a1ed067ef07c228a9f87c0cb4bd312c4500ca1712a128a47d.jpg)
+
+# 2.2物理体模实验
+
+PET物理体模数据采用基于NEMANU4-2008标准的图像质量体模[14]。图2为采用有机玻璃加工的体模，其圆柱长度为 $5 0 ~ \mathrm { m m }$ ，直径为 $3 0 ~ \mathrm { m m }$ ，包含直径为$3 0 ~ \mathrm { m m }$ 高为 $3 0 ~ \mathrm { m m }$ 的圆柱形空腔，还有高 $2 0 ~ \mathrm { m m }$ 的固体部分。其中固体部分有5个直径依次为1、2、3、4、$5 \mathrm { m m }$ 的可填充空腔棒，空腔棒与圆柱形空腔联通。
+
+我们在体模中注入 $2 1 ~ \mathrm { m l }$ 活度浓度为 $1 7 4 . 8 \mathrm { k B q / m l }$ 的 $^ { 1 8 } \mathrm { F } .$ -FDG溶液,得到的总活度为 $3 . 6 7 \mathrm { M B q }$ 。在南方医院PET中心小动物InvoenmicroPET上进行扫描。PET系统设置为默认设置，能量和事件符合时间分别为
+
+![](images/ccf1100547a944d2208e5f288863e81d43adcf2223bbf64dce255b9a7edbb0b6.jpg)  
+图1仿真NCAT图像 Fig.1 Simulated NCAT image.A: simulated PET image;B:degraded PET image with partial volume effect and noise.   
+图2NEMANU4-2008IQ体模 Fig.2NEMA NU4-2008 image-quality (IQ) phantom.
+
+$3 5 0 { \sim } 6 5 0 \ \mathrm { k e V }$ 和 $3 . 4 3 2 ~ \mathrm { n s }$ 。我们对体模进行 $2 0 ~ \mathrm { m i n }$ 扫描，数据存储为list-mode格式，然后采用2D有序子集最大 似 然 法（2Dorderedsubset expectationmaximization，OSEM2D)重建图像(16个子集，4次迭代)。最终得到的三维图像数据是 $2 5 6 \times 2 5 6 \times 1 5 9$ ，体素大小为 $1 0 . 3 9 \times 0 . 3 9 \times 0 . 7 9 \mathrm { { m m } }$ 0
+
+# 2.3肿瘤小鼠实验
+
+临床FDG数据是鼠源EMT6乳腺癌小鼠数据。我们使用南方医院InvoenmicroPET对注射 $^ { 1 8 } \mathrm { F }$ -FDG总活度为 $1 2 . 9 5 ~ \mathrm { M B q }$ 的肿瘤鼠进行 $1 0 ~ \mathrm { m i n }$ 扫描，扫描过程机器的设置为默认设置。重建算法为OSEM2D，参数设置为16个子集，4次迭代。最终得到的三维图像数据是 $2 5 6 \times 2 5 6 \times 1 5 9$ ，像素大小为 $1 0 . 3 9 \times 0 . 3 9 \times 0 . 7 9 \mathrm { { m m } }$ ）
+
+# 2.4定量评价指标
+
+针对部分容积效应校正后的图像，分别采用恢复系数（recoverycoefficient,RC）和标准方差（standarddeviation,SD)进行定量评价。
+
+2.4.1恢复系数恢复系数定义为：
+
+$$
+R C = \frac { X _ { R O I } } { X _ { R O I } ^ { \mathrm { t r } u e } }
+$$
+
+式中， $X _ { R O I }$ 为探测图像感兴趣区域的活度值， $X _ { R O I } ^ { \mathrm { t r } u e }$ 是真实图像感兴趣区域的活度值。
+
+2.4.2标准方差标准方差表示图像的噪声水平，定义如下：
+
+$$
+\begin{array} { r } { S D = \sqrt { \frac { 1 } { N - 1 } { \displaystyle \sum _ { j } } ( X _ { j } - \bar { X } ) ^ { 2 } } \times 1 0 0 \% } \end{array}
+$$
+
+式中， $N$ 是感兴趣区域的像素个数， $X _ { j }$ 为感兴趣区域像素 $j$ ( $j = 1 , . . . , N$ 处的像素值, $\bar { X }$ 是感兴趣区域的均值。
+
+同时，为了表示噪声的增加率，定义了标准方差的增加率：
+
+$$
+S D _ { i n c r e a s e } = \frac { S D _ { c o r r e c t } - S D _ { o r i g i n a l } } { S D _ { o r i g i n a l } } \times 1 0 0 \%
+$$
+
+式中，下标increase代表增加率，correct代表校正图像计算值,original代表校正前图像计算值。
+
+2.4.3参数优化针对重建得到的3D体模图像数据，记为Uncorrecteddata,分别用六种不同的方法进行部分容积校正。方法1是对图像数据进行VC去卷积，记为VC；方法2是对图像数据进行RL去卷积，记为RL；方法3是引入TV正则化项的VC去卷积,记为VC-TV;方法4是引入TV正则化项的RL去卷积，记为RL-TV;方法5是在RL框架下引入中值先验，记为MRP;方法6是对图像数据进行贝叶斯去卷积，记为 $\mathbf { B a } _ { \odot }$ 。在实验中，所有方法的迭代步数参数都为20。PSF作为影响算法校正结果的重要参数，本文选取半高宽(fullwidthathalfmaximum,FWHM)参数为 $1 . 5 \ \mathrm { m m } ^ { \ [ 1 5 ] }$ 。RL-TV 和VC-TV的TV正则化参数为0.005;RL-MRP的滤波核大小设为 $3 \times 3 \times 3 ,$ β的取值为0.3。
+
+# 3结果
+
+# 3.1仿真实验结果
+
+图3是传统RL和VC去卷积算法和引入TV正则化项去卷积算法的结果。从图3A和图3B可以看出RL和VC都具有校正效果，但噪声水平高于校正前图像。而图3C、D是RL-TV和VC-TV结果，可以看出在保持图像边缘信息的同时抑制了图像噪声的增加，达到很好的校正效果,其中RL-TV校正效果好于VC-TV。
+
+![](images/493ce26b78cd68630fe4dfe9b7ca4873cb72743b77a40af60542a5dc5451119d.jpg)  
+图3NCAT仿真图像校正结果 Fig.3 Simulated NCAT image results.A: RL; B:VC; C: RL-TV;D:VC-TV.
+
+# 3.2体模实验结果
+
+图4给出了优化参数下不同方法对体模图像校正后的结果，所有图像均在同一显示窗下显示。图4中各个图像的红色箭头均是指向最小直径( $\mathrm { . 1 ~ m m } \rangle$ 的ROI(记为ROI1)。由图4A中可以看出在未校正图像的ROI1在图像中亮度值很低，经过不同方法校正后可以看出ROI1处亮度值都有提升。同时，5个ROI的图像是用RC来定量分析，空腔圆形图像是用来定量SD。
+
+图5描绘了优化参数后的不同去卷积方法在不同直径圆形感兴趣区域的RC和SD增加率变化曲线。从图5A可以看出，直径越大的圆形感兴趣区域的RC值越接近于1,同时校正后的RC值的增加率范围为 $9 . 7 \% \pm$
+
+![](images/5dabc6a8f0383df6437eae73603b7dd49fd02656b5838b1140672f2e6fa5919b.jpg)
+
+$2 . 2 \% ( \mathrm { R O I } \ 5 ,$ 到 $( 2 5 . 9 { \pm } 1 . 2 ) \% ( \mathbf { R O I } \ 1 )$ 。图5B展示了不同校正方法的SD增加率曲线,即噪声增加水平。首先，感兴趣区域的直径大小与校正后引入的噪声有较大联系，基本上是直径越大，引入噪声越多，但在ROI2处的RL和Ba方法引入噪声反而较在ROI3和ROI4处多。其次，针对不同的去卷积算法，VC的SD增加率最大，范围是从1 $7 . 4 \%$ 到 $2 0 . 9 \%$ 。RL较VC表现更好，噪声引入较少，但仍然保持较高水平。另一方面，图5B中不同的正则化方法都能在一定程度抑制噪声的增加。其中在ROI2-ROI5条件下，MRP优于Ba,TV正则化算法优于MRP和Ba,而且RL-TV要优于VC-TV。特别地在ROI1处,Ba优于MRP和VC-TV。RL-TV在RC相等情况下，噪声抑制效果最好，SD增加率的范围为 $1 0 . 7 \%$ ${ \sim } 1 3 . 4 \%$ 0
+
+![](images/12d5e13039a21b4ef9ee0d5b49b8e7e5acf5f234ce2633dac64b79fb428edd31.jpg)  
+图4不同去卷积方法校正的体模图像 Fig.4 Various phantom images with differentPVC algorithm.s The red arrow points to the smallest ROI( $\mathrm { . 1 ~ m m }$ ） A:Uncorrected data;B: RL; C:VC;D: RL-TV;E: VC-TV;F:Ba;G:MRP.   
+图5不同去卷积方法在不同直径感兴趣区域的RC和SD增加率变化曲线Fig.5 Plots of RC and SD increase percentage using diferent methods varying ROIs. $A$ is for RC; $B$ is for SDincrease percentage.
+
+# 3.3肿瘤小鼠实验结果
+
+图6是不同去卷积方法对小鼠数据校正结果，所有图像都在同一灰度窗下显示。图6A中ROIA所在图像为矢状面图(以下相同),ROIA为肿瘤区域，ROIB所在图像为横切面图(以下相同),ROIB用来测量噪声的增加。实验中，我们保证各个去卷积校正方法对肿瘤区域即ROIA有近似一致的活度增强效果取！ $( 1 0 \pm 1 . 8 ) \%$ 增加率)，从而考虑ROIB中噪声增加情况。表1给出了不同去卷积方法对小鼠数据校正后具体活度增加率和SD增加率的数值比较，易见，RL-TV算法在肿瘤活度增加率最大的条件下，噪声增加率最小。
+
+![](images/4fd30884c132246b69d6001594561cc9f1153f14cafa47d24eabf96aad349fb0.jpg)
+
+# 4讨论
+
+最初是在1979年，Hoffman等[提出用恢复系数来描述并校正部分容积效应。该法主要是测量标准质量体模的不同直径区域的恢复系数，但是临床图像的病灶区域形状是不规则的，体模实验确定的恢复系数难以用于临床。随后有学者将迭代去卷积算法应用于PET肿瘤图像的部分容积校正。Kirov等人提出的基于RL去卷积方法的MRP算法能够有效校正图像同时抑制噪声，但是在考虑拓扑结构时需手动调节的参数有9个，本文只是讨论了其中最重要的一个参数 $\beta$ 。而本文方法，总共只有两个参数，大大减少了人为因素的影响。Boussion等[17提出在去卷积过程中引入小波滤波，但3D情况下只能对每层图像单独处理后加和，不能实现纯粹意义上的3D处理，因此本文不将此方法作为比
+
+# 表1小鼠图像校正后活度和SD增加率比较
+
+Tab.1 Comparison of intensity and SD increase percentage for mouse images   
+
+<html><body><table><tr><td>Methods</td><td>ROIA Activity Increase (%)</td><td>ROIB SD Increase (%)</td></tr><tr><td>VC</td><td>10.88</td><td>49.98</td></tr><tr><td>RL</td><td>10.47</td><td>42.76</td></tr><tr><td>Ba</td><td>10.76</td><td>35.66</td></tr><tr><td>MRP</td><td>11.06</td><td>25.59</td></tr><tr><td>VC-TV</td><td>8.20</td><td>14.26</td></tr><tr><td>RL-TV</td><td>11.32</td><td>4.70</td></tr></table></body></html>
+
+较。Naqa等人提出Bayesian正则化去卷积方法，这种方法只是对传统RL方法在形式上做了修改，引人了指数项的正向收敛，在NU42008体模实验和肿瘤小鼠实验中都表明此方法不能有效去除噪声。
+
+本研究在经典去卷积方法的基础上，引人全变分正则化项，在仿真体模实验结果图3中视觉显示该法可以在保持图像边缘的同时有效抑制噪声的增加。定量实验中，全变分正则化项方法在校正效果相同(具有相同的RC值或者一致的活度增加率)，相比于其他校正方法，具有最低的噪声增加率,其中RL-TV优于VC-TV,表明了本文提出方法的优越性。在本文的实验过程中，入的选择是根据量化准则优化选取，然而如何在临床应用中建立相应的优化参数选择，是本文进一步需要开展的研究。基于此，我们将采用临床半定量，如标准吸收值或定量的指标，提出自适应的参数选择算法，更好的服务于临床。
+
+综上所述，本文提出了一种基于全变分正则化去卷积的PET图像部分容积校正方法。针对传统RL和VC迭代去卷积方法引起的噪声增加问题，本文提出的TV正则化去卷积方法在仿真实验、物理体模实验、肿瘤小鼠实验中都展示了抑制噪声增加，保持图像边缘的优越性，尤其是RL-TV方法在文章中提到的方法中具有最好的去噪效果。
+
+# 参考文献：
+
+[1」耿建华,陈盛祖，陈英茂，等.正电子图像部分容积效应成因与校正的理论探讨[J].中华核医学杂志，2003，23(5)：318-9  
+[2]Lu LJ,Ma JH,Huang J,et al.Generalized metrics inducedanatomical prior forMAPPET image ReconstructionCl//Potsdam
+
+#
+
+(UCIIaIy),∠UII.∠JJ-U.   
+[3]Muller-Gärtner HW,Links JM,Prince JL,et al.Measurement of radiotracer concentration in brain gray mater using positron emission tomography:MRI-based correction for partial volume effects[J].JCereb BloodFlow Metab,1992,12(4): 571-83.   
+[4]Teo BK,Seo Y, Bacharach SL,et al. Partial-volume correction in PET: validation of an iterative postreconstruction method with phantom and patient data[J]. JNucl Med,2007,48(5): 802-10.   
+[5]Van CP. ZumEinfluB der spaltbreite auf die intensitatsverteilung in spektrallinien[J]. ZeitschriftfurPhysik,1930,65(7/8): 547-63.   
+[6]Tohka J,Reilhac A. Deconvolution-based partial volume correction in Raclopride-PET and Monte Carlo comparison to MR-based method[J]. Neuroimage,2008,39(4): 1570-84.   
+[7]Richardson WH. Bayesian-based iterative method of image restoration[J]. JOSA,1972,62(1): 55-9.   
+[8］Lucy LB.Iterative technique for rectification of observed distributions[J].Astron J,1974,79(6): 745-54.   
+[9]Rudin LI, Osher S,Fatemi E.Nonlinear total variation based noise removal algorithms[J].Physica D,1992,60(1/4): 259-68.   
+[10]Kirov AS,Piao JZ,Schmidtlein CR.Partial volume effect correction in PET using regularized iterative deconvolution with variance control based on local topology[J].Phys Med Biol,2Oo8,53(10): 2577-91.   
+[11]El Naqa I,Low DA,Bradley JD,et al. Deblurring of breathing motion artifacts in thoracic PET images by deconvolution methods [J].Med Phys,2006,33(10): 3587-600.   
+[12]Alenius S,Ruotsalainen U. Bayesian image Reconstruction for emission tomography based on median root prior[J].Eur J Nucl Med,1997,24(3): 258-65.   
+[13]KarakatsanisNA，Lodge MA，Tahari AK,et al. Dynamic whole-body PET parametric imaging:I. Concept，acquisition protocol optimization and clinical application[J].Phys Med Biol, 2013,58(20): 7391-418.   
+[14] NEMA,NU 4-2Oo8. National electrical manufacturers association [S]: nema standards publication,2008.   
+[15] Visser EP, Disselhorst JA, Brom MA,et al. Spatial resolution and sensitivity of the inveon Small-Animal PET scanner[J].Journal of Nuclear Medicine,2009,50(1):139-47.   
+[16]Hoffman EJ,Huang SC,Phelps ME.Quantitation in positron emission computed tomography:1.Effect of object size [J].J Comput Assist Tomogr,1979,3(3): 299-308.   
+[17] Boussion N, Cheze Le Rest C, Hatt M,et al. Incorporation of wavelet-based denoising in iterative deconvolution for partial volume correction in whole-body PET imaging[J].Eur JNucl Med Mol Imaging,2009,36(7): 1064-75.
+
+(编辑：孙昌朋)

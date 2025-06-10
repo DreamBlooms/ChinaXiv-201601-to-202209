@@ -1,0 +1,192 @@
+# 金属离子对细胞自噬的诱导作用
+
+李生\*
+
+（天津大学化工学院系统生物工程教育部重点实验室天津化学化工协同创新中心合成生物学平台天津300072）
+
+摘要自噬是真核生物普遍存在的重要生理过程,通过溶酶体降解错误折叠的蛋白质、异常的细胞器从而循环利用自身内含物。细胞自噬广泛参与多种病理和生理过程，是当前生物医学领域研究的热点之一。自噬的分子机制能够揭示自噬本质,不仅有利于理解自噬的生理意义,也有利于寻找新的药物靶点,为治疗疾病提供理论基础。金属离子能通过不同的信号通路诱导自噬,其研究对药物开发和疾病治疗具有重要的意义。主要从自噬的分子机制、金属离子的诱导作用两方面进行阐述。
+
+关键词自噬分子机制 金属离子诱导
+
+# 中图分类号 Q813
+
+1962年，Ashford和Porten通过电子显微镜在人的细胞观察到细胞存在“自己吃自己"现象,但限于当时科学技术条件,人们对这种现象知之甚少[1],直到1993年大隅良典（Yoshinori Ohsumi）从面包酵母中鉴别出了自噬相关基因 $\left( a t g \right) ^ { [ 2 ] }$ ,有关自噬的研究才得以迅速发展。随着研究的深入，自噬在生理学和医学上的重要性日益凸显，大隅良典也因在自噬溶酶体方面的卓越贡献获得了2016年的诺贝尔生理学或医学奖。自噬可分为三种不同种类：巨自噬、微自噬及分子伴侣介导的自噬。巨自噬是一种高度保守的生物过程，是清除异常蛋白质及细胞器的主要途径，通常所说的自噬就是巨自噬[34]。微自噬是溶酶体膜随机内陷包裹周围细胞质的一种非选择性溶酶体降解途径[5-7]。分子伴侣介导的自噬(CMA)是可溶性蛋白质在分子伴侣介导下进入溶酶体降解，故CMA具有选择性，能够直接、定向地降解细胞组份[8-9]。自噬在维持细胞稳态、质量控制、防止细胞内外损伤及维持能量平衡中发挥着重要作用[10-12] U
+
+当细胞面临饥饿、生长因子缺乏、缺氧等代谢压力、遭到电离辐射或化学毒物损伤时，细胞质中形成双层膜新月形的自噬前体，自噬前体逐渐形成囊腔并包裹目标蛋白质及细胞器，形成自噬小体。自噬小体与溶酶体融合成自噬溶酶体，其内含物被溶酶体内的酸性水解酶降解，降解产生的氨基酸等产物既可以用于蛋白质等大分子的生物合成，也可以进入线粒体彻底氧化分解，从而为细胞的的生命活动提供原料和能量，促进细胞的存活[10-12],但过度的自噬会导致细胞凋亡[13]。自噬相关基因(atg)在自噬过程中起关键作用，基因家族首先在酵母中被发现，到目前为止已被发现30多个成员，其中大部分基因在线虫、果蝇和哺乳动物细胞内有同源物。atg家族蛋白能够彼此结合形成复合物，在自噬的起始阶段、自噬体的形成和自噬体的成熟降解三个阶段发挥重要作用[14]。自噬过程的异常可导致肿瘤、糖尿病、神经退行性疾病等多种疾病的发生[15]
+
+金属离子广泛参与光合作用、呼吸作用、核酸代谢、酶的催化、维持渗透压等各种生理过程，它是细胞维持正常生命活动所必需的[16]。金属离子还与细胞自噬密切相关，可以通过浓度变化诱导自噬，自噬也会影响细胞内金属离子的浓度[17]。研究细胞自噬的分子机制及金属离子的诱导作用不仅有利于了解自噬的本质及其生理意义，更有利于揭示多种疾病发生、发展过程，从而为治疗多种疾病寻求潜在治疗方法。
+
+# 1 细胞自噬的分子机制
+
+# 1.1 mTOR信号通路
+
+mTOR是一种丝氨酸/苏氨酸蛋白激酶，它是氨基酸、生长因子、胰岛素等的感受器,参与调节细胞生长、发育、增殖、自噬、调亡过程[18-19]。哺乳动物细胞内mTOR主要以雷帕霉素敏感型的mTOR复合体1（mTORC1）和雷帕霉素非敏感型的mTOR复合体2（mTORC2)两种形式存在,mTORC1与细胞自噬有关，在本文中的mTOR即为mTORC1。
+
+细胞处于正常状态时，胰岛素等生长因子浓度适中，其与细胞表面受体结合后，激活磷脂酰肌醇激酶
+
+PI3K，进而活化Akt激酶，通过结节性硬化症相关蛋白TSC1/2及G蛋白Rheb激活蛋白激酶mTOR（图la)[20]。mTOR可以作为自噬的抑制物,不仅阻止Atgl-Atg13-Atg17复合物和 $\mathrm { m V p s } 3 4$ -Beclin-1复合物形成，还干扰自噬形成过程中两类泛素化系统，从而抑制自噬的发生[21]。机体面临代谢压力时,胰岛素等生长因子浓度降低,PI3K不能被激活，最终mTOR失活,Atg相关蛋白活化,促进细胞自噬[20]。细胞能量状态同样能通过mTOR调控细胞自噬，当细胞处于能量缺乏时，AMP/ATP升高，激活AMPK,活化的AMPK既可以通过磷酸化激活TSC1/2复合物，从而抑制 $\mathrm { \ m T O R }$ ，也可以直接磷酸化抑制mTOR 活性,促进细胞自噬[2]
+
+![](images/29309a6b95a6348b3befc6c77cb5c8599020c6c5e3fb173572d75abff1e2c6d2.jpg)  
+图1自噬相关的信号通路(b引自王宠等[39],有修改)  
+Fig.1Autophagy related signaling pathway
+
+mTOR，Beclin-l,and $\mathrm { e I F } 2 \alpha$ -mediated signaling pathway（b) $\mathrm { p } 5 3$ -mediated signaling pathway
+
+# 1.2 Becli-1 复合物
+
+Beclin-1是酵母atg6的同源基因，是细胞自噬过程中最重要的正调节因子。Beclin-1含BH3 结构域、螺旋-螺旋结构域（CCD）、进化保守结构域（ECD）、核输出结构域,并通过这些结构域与Bcl-2、Ⅲ型磷脂酰肌醇-3-磷酸激酶( $\mathrm { m V } \mathrm { p s } 3 4 \mathrm { \Omega } .$ ）、Bif-1、UVRAG、Barkor等相互作用调控自噬[232]。Bcl-2 是一种抗凋亡蛋白,能与Beclin-1的BH3结构域结合成Bcl-2-Beclin-1复合物，抑制Beclin-1的活性，从而抑制细胞自噬。在饥饿状态下，应激活化蛋白激酶JNK1磷酸化Bcl-2，导致Bcl-2-Beclin-1复合物解离,从而促进细胞自噬（图1a)[27]。
+
+# 1.3真核翻译起始因子 $\scriptstyle 2 \mathbf { \alpha }$
+
+当细胞面临紫外照射、饥饿、低氧、营养因子缺乏等生存压力时，蛋白激酶R样内质网激酶(PERK)或一般性调控阻遏蛋白激酶2(GCN2)磷酸化真核翻译起始因子 $2 \alpha \left( \mathrm { e I F } 2 \alpha \right)$ ，抑制绝大多数基因的转录，同时活化激活转录因子4（ATF4），优先翻译一系列Atg相关蛋白，如 $\mathrm { A t g 1 \_ A t g 3 \_ A t g 5 \_ A t g 7 \_ A t g 1 0 \_ A t g 1 2 }$ 等,从而促进细胞自噬（图1a）[28-32] C
+
+# 1.4P53基因的双重调节作用
+
+P53基因对细胞自噬具有双重调节作用，细胞质中抑制细胞凋亡，细胞核中促进细胞凋亡。细胞核中P53既可以反式激活AMPK的β1和β2 两个亚基、TSC1/2、AMPK的激活因子Sestrin1和2,通过抑制mTOR的活性来促进细胞自噬[33-35],也可通过反式激活损伤调节自噬调制物DRAM，促进细胞自噬。泛素化水解酶MDM2 能水解P53,但细胞核内也存在P14ARF能与MDM2结合阻止其对P53的降解，使细胞核内的P53浓度不至于太低[36]。P53 还可以反式激活促凋亡蛋白Bcl-2 家族Bax、Bad、Puma 等,通过使Bcl-2-Beclin-1复合物解离,促进细胞自噬[37]。在细胞质中,P53 通过自身直接发挥作用、通过激活mTOR以及抑制AMPK的活性来抑制细胞自噬[38]。细胞质中的 MDM2 水解P53,减少P53 对细胞自噬的抑制作用（图1b）[38]。
+
+# 2金属离子对自噬的诱导作用
+
+细胞正常生理功能依赖于多种金属离子，宏量金属离子包括钙离子、钾离子以及钠离子;微量金属离子包括铁离子、铜离子、锌离子、锰离子及钼离子等。近年来发现金属离子能够诱导细胞自噬，有毒重金属离子对细胞具有毒害作用，故我们将其单列出来进行综述。
+
+# 2.1_宏量金属离子对自噬的诱导作用
+
+正常细胞细胞质 $\mathrm { C a } ^ { 2 + }$ 浓度低，而在肌质网（内质网)等细胞器 $\mathrm { C a } ^ { 2 + }$ 浓度很高,细胞器 $\mathrm { C a } ^ { 2 + }$ 通道通过开启和闭合调节 $\mathrm { C a } ^ { 2 + }$ 浓度变化,进而调控细胞分泌活动、神经冲动传导、肌肉收缩等多种生理过程[40]。近年发现， $\vec { \mathrm { G a } } ^ { 2 + }$ 浓度变化对自噬也有着重要作用。Sukumaran笙[41]发现当细胞面临缺氧、营养剥夺等代谢压力时，瞬时受体电位通道1（MCOLIN1）开放导致的 $\mathrm { C a } ^ { 2 + }$ 外流，细胞质内 $\mathrm { C a } ^ { 2 + }$ 浓度提高，既可以直接活化AMPK酶4243],也可以通过先活化 $\mathrm { C a } ^ { 2 + }$ 依赖的激酶CaMKKβ继而激活AMPK，活化的AMPK通过抑制 $\mathrm { \ m T O R }$ 介导自噬的发生发展[4445]。溶酶体 $\mathrm { C a } ^ { 2 + }$ 在营养剥夺介导的自噬中发挥重要作用，营养缺乏导致溶酶体中 $\mathrm { C a } ^ { 2 + }$ 的释放,释放的 $\mathrm { C a } ^ { 2 + }$ 激活钙调磷酸酶,钙调磷酸酶去磷酸化激活转录因子EB（TFEB），进而促进核定位并最终激活自噬相关基因，Atg8-PE（LC3II)上调促进自噬（图2）[46-47]
+
+钾离子在维持细胞渗透平衡等正常生理功能上发挥重要作用[48」,近来越来越多的研究发现其在自噬中同样发挥重要作用。Perez-Neut等[49]使用小分子激活剂NS1643激活黑色素瘤细胞质膜钾离子通道hERG3，钾离子外流不仅促使自噬诱导因子Atg8-PE(LC3-II)的积累，而且激活AMPK,AMPK磷酸化激活ULK1，促进细胞自噬。钾离子剥夺也能诱导小脑颗粒细胞自噬的发生[50-51]
+
+# 2.2微量金属离子对自噬的诱导作用
+
+铁离子是微量金属元素中最常见的一种元素，在几乎所有生物系统中均发挥重要作用[52],细胞中铁离子过量将导致氧化应激的发生，产生活性氧自由基（ROS）,导致自噬的发生[53]。铁离子浓度过高或过低都影响正常的生理活动，细胞通过控制铁离子储存蛋白(铁蛋白)的降解来维持正常的铁离子浓度。当铁离子水平低时，自噬体表面的核受体辅助活化因子4(NCOA4)数量增加，NCOA4与铁蛋白结合，铁蛋白和自噬体被溶酶体酶酸性水解酶降解，释放铁离子至细胞质以提高铁离子浓度，此过程即为铁蛋白自噬。当铁离子水平高时，泛素蛋白连接酶HERC2通过泛素化降解NCOA4，导致自噬体表面NCOA4数量降低，从而抑制铁蛋白降解和铁离子释放[52]。同时细胞溶质中存在多种铁离子结合蛋白，如铁蛋白等，能结合额外铁离子,从而降低细胞对氧化应激的敏感性[54]。铁离子价态不稳定可以通过Fenton 和Haber-Weiss反应产生ROS，ROS 通过与Beclin-1、P52、Atg4、mTOR等相互作用导致细胞自噬（图3)[55]。溶酶体富含低分子质量铁离子，使得溶酶体易受ROS攻击，从而导致溶酶体膜通透性增加[56]。早期实验发现自噬有利于促进细胞存活，然而近期多项研究发现自噬同样能促进细胞死亡。铁死亡即为自噬介导细胞死亡的一种通路[57],是程序性细胞坏死的一种类型，该过程依赖于铁离子介导的ROS 的产生。
+
+![](images/f52150cd9139d359aaf91b2b5c80fb220f75e5dba61da65f50f7c665abe0a0f9.jpg)  
+图2 $\mathbf { C a ^ { 2 + } }$ 对细胞自噬的诱导作用  
+Fig.2The induction effect of calcium ions
+
+铜离子在多种细胞生理功能中起着重要作用[58]其在两种不同的氧化态间的循环导致ROS 的产生[59]从而诱导自噬的发生[0]。Gutierrez 等[61]发现抗肿瘤药物缩氨基硫脲铜配合物 $\mathrm { { C u - D p 4 4 m T } }$ 通过两种方式影响自噬,它既可诱导自噬体的形成,进而增加Atg8-PELC3-II)的表达，也可通过自噬底物和受体 $\mathrm { p } 6 2$ 的积累以减少自噬体的降解。 $\mathrm { D p 4 4 m T }$ 对自噬体降解的抑制作用会干扰促进细胞存活的自噬过程，诱导肿瘤细胞死亡。Zhong 等[62]发现一种新的抗肿瘤复合物HYE $2 7 \mathrm { { c } / \mathrm { { C u } } }$ 也可促进肿瘤细胞自噬,它通过激活MAPK11/12/13/14信号路径发挥作用。类似的复合物NSC689534[63]、BNMPH[64]、Casiopeina III-ia[65]等也能诱导肿瘤细胞的自噬，对这些复合物的研究将有利于开发基于自噬的新的抗肿瘤药物。
+
+![](images/5c16c0d1bf4f786c8a104051298105d36da5d12690285f7064aa0a0cb02a72e6.jpg)  
+图3铁离子对自噬的诱导作用  
+Fig.3The induction effect of iron ions
+
+研究发现高浓度的锌离子会促进细胞自噬，低浓度的锌离子会抑制自噬，锌离子通过自噬对细胞起保护作用。高浓度的锌离子促进酒精诱导的肝癌细胞中自噬泡的形成，它还与多巴胺诱导PC12细胞自噬的发生[],促进三苯氧胺诱导的乳腺癌细胞中自噬体的形成[52]。锌离子螯合剂 TPEN 的使用导致其浓度降低,能抑制自噬体的成熟降解进程[52]。在哺乳动物细胞中，高浓度的锌离子会减轻由脂多糖引发的炎症反应，而低浓度的锌离子会加重炎症反应[7]。同样,在小鼠的巨噬细胞中，锌离子的缺乏会激活caspase-1促使细胞凋亡[68]。锌离子可通过细胞外调节蛋白激酶(ERK1/2)对自噬进行调控，ERK1/2既可磷酸化激活
+
+Beclin-1，也可以促进mTOR的降解来诱导自噬。此外，锌离子还可能通过金属反应转录因子（MTF-1)促进自噬相关基因的表达间接调控自噬进程，如Atg7基因的启动子上有4个MTF-1结合位点，该基因的表达会受到锌和 MTF-1的诱导[9]。锌指蛋白是一类能结合锌离子的转录因子，因其可结合某些DNA或RNA，故可调控基因表达。Li等[70]发现上调人乳腺癌细胞中锌指蛋白ZNF32的表达，导致锌离子浓度降低，可能促进PI3K的表达及激活AKT/mTOR从而抑制自噬促进细胞存活，但其具体作用机制还需要进一步研究确认。相反地，通过转染小干扰RNA降低ZNF32的表达，导致锌离子浓度升高，会促进细胞自噬。
+
+锰离子、钼离子、钴离子等同样影响自噬过程。锰离子介入增加细胞自噬过程，自噬的发生可能与细胞避免锰离子引起的氧化应激损伤的保护性策略有关[71]。然而 Zhang 等发现,锰离子对细胞自噬过程起双向调节作用：小鼠锰离子介导的神经退行性疾病中，TH免疫反应神经元经短期(4\~12h)锰离子处理，促进自噬发生；长期 $( 1 \sim 2 8 \mathrm { d } )$ 处理后，抑制自噬过程发生[72]。自噬在锰离子诱导的支气管上皮细胞凋亡过程中起保护作用[73]。新型抗肿瘤锰离子化合物 Adpa-Mn，主要通过诱导细胞自噬导致细胞凋亡，其选择性优于传统的化疗药物顺氯氨铂（CDDP）。体外实验表明，它不仅可以激活DNA修复蛋白聚腺苷酸二磷酸核糖转移酶PARP，也可以增强自噬相关蛋白LC3表达。此外,它可以诱导ROS产生，当用抗氧化剂N-乙酰半胱氨酸处理后其抗肿瘤效果显著降低，表明其主要通过ROS 发挥抗肿瘤作用。体内实验表明,当Adpa-Mn 给药量为 $1 0 \mathrm { m g / k g }$ 时，可诱导肿瘤组织中细胞自噬和凋亡,从而发挥显著的抗肿瘤活性[74]。Ogata 等[75]发现聚氧钼酸盐PM-17可诱导人胰腺癌细胞AsPC-1自噬，然而自噬的抑制剂3-甲基腺嘌呤对PM-17引起自噬无明显影响，提示PM-17可能通过一种未知机制促进细胞自噬。
+
+Yang 等[76]发现视网膜神经节细胞经钴离子氯化物孵育后，细胞中自噬体的数量增加，而经氧化剂N-乙酰半胱氨酸（NAC)预孵育后该现象明显降低[77]。钴离子氯化物诱导的自噬在绒毛外滋养细胞植入子宫中起重要作用。然而，钴离子氯化物诱导的自噬与胆管癌及腺样囊性癌细胞转移有关，可见自噬对癌症转移的治疗可能存在不利影响[78-79]。Naves 等[79]研究表明，钴离子氯化物诱导神经母细胞瘤细胞自噬的发生，保护细胞免受活性氧的影响。综上所述，自噬作用在金属离子对细胞毒性作用及氧化应激中起保护作用。
+
+# $2 . 3$ 有毒重金属对自噬的诱导作用
+
+铅、砷、镉等有毒重金属同样能诱导自噬的发生，自噬过程有利于保护细胞免受重金属诱导的应激损伤2]。Sui等[\*]发现,铅离子对心成纤维细胞产生细胞毒性,通过抑制mTOR信号通路增加自噬现象，应用3-MA抑制自噬过程可增加铅离子产生的细胞毒性。成骨细胞及巨噬细胞经铅离子处理后，自噬现象增加[84-85],上述实验均表明自噬现象对细胞具有保护作用。
+
+砷化合物诱导细胞自噬和凋亡，这取决于砷化合物的暴露剂量及细胞系。Bolt等[86]研究发现,在淋巴母细胞系中，砷暴露导致含 $\mathrm { p } 6 2$ 和LC3的蛋白质聚集体积累，内质网应激（ER）激活未折叠蛋白响应（UPR），PERK磷酸化 $\mathrm { e I F } 2 \alpha$ ，磷酸化的 $\mathrm { e I F } 2 \alpha$ 激活ATF4，,表达一系列自噬相关基因，促进细胞自噬。Cheng等[87]证实,三氧化二砷能上调人白血病细胞K562中LC3和Beclin-1的表达促进自噬，同时还能下调抗凋亡蛋白Bcl-2的表达，从而表现抗肿瘤的效果。Kanzawa等[88]将三氧化二砷和自噬抑制剂巴佛洛霉素A处理人胶质瘤细胞，发现抑制促进细胞存活的自噬作用会显著增强前者的抗肿瘤活性。最新的研究表明，低浓度亚砷酸钠通过诱导神经细胞自噬来增强空间学习[89]
+
+镉是有毒重金属，接触会诱导细胞凋亡或者癌症的发生，且呈剂量和时间依赖性[90]。近年来有研究表明镉还能诱导细胞自噬。线粒体是ROS产生的主要场所，呼吸链泄露的少量电子会与氧结合生成ROS。Son等[9]发现镉能通过线粒体上调 ROS,ROS 会对核酸等大分子造成损伤，DNA损伤激活DNA修复蛋白聚腺苷酸二磷酸核糖转移酶PAPR,下调NAD\*，抑制糖酵解导致ATP 降低，激活肝激酶B1（LKB1），活化的LKB1磷酸化激活 AMPK,进而抑制mTOR,促进细胞自噬[91]Wei等[92]证实镉通过活化JNK1磷酸化失活Bcl-2,继而活化Beclin-1促进细胞自噬。Alexander等[93]发现ROS会活化共济失调突变蛋白ATM,激活LKB1-AMPKI信号通路促进细胞凋亡。镉还可以通过调节其他金属离子的浓度变化间接促进细胞自噬。Misa等发现镉会上调肌醇三磷酸（IP3），进而打开内质网IP3门控的 $\mathrm { C a } ^ { 2 + }$ 通道,上调细胞质内的 $\mathrm { C a } ^ { 2 + }$ ,激活 $\mathrm { C a M K K } \beta$ ，活化 AMPK,促进细胞自噬[94-96]。镉诱导内网应激反应激活 $\mathrm { e I F } 2 \alpha$ -ATF4信号通路，促进环氧酶2（COX-2）过表达,抑制mTOR，促进细胞自噬（图5）[97]
+
+![](images/60de3e630385b5d608cbc4260f4a9427149843c798db7760958a375c3a024bd0.jpg)  
+图4镉离子对自噬的诱导作用  
+Fig.4The induction effect of cadmium ions
+
+# 3前景与展望
+
+细胞通过自噬清除变性或错误折叠的蛋白质、衰老或损伤的细胞器等以维持细胞内稳态。自噬还是一种生理性保护机制，当细胞面临生存压力时，通过自噬降解自身蛋白质等大分子或细胞器为细胞的生命活动提供原料和能量，促进细胞存活。研究发现自噬过程异常会引起器官损伤及疾病。异常的细胞内自噬使得错误折叠的异常蛋白质堆积于细胞质、细胞核或细胞外基质中，导致细胞损伤，与帕金森病、阿尔兹海默病、亨廷顿病、肌肉萎缩性侧索硬化症等疾病的发生发展有关[13,15]
+
+有关细胞自噬的分子机制的研究能从分子水平阐明自噬的本质，有利于寻找新的药物作用靶点为治疗疾病提供理论依据。金属离子可以通过各种信号通路诱导自噬，自噬也会影响金属离子的浓度，研究金属离子对细胞自噬的诱导作用不仅有利于进一步阐明自噬的分子机制，也为开发新药和治疗疾病提供契机。自噬的研究还处于初级阶段，随着研究的深入，我们期待能通过控制自噬过程对神经系统疾病、肿瘤等多种疾病起到有效的治疗作用。
+
+# 参考文献
+
+Cell Biolgy，2007,8（11）: 931-937.   
+2]Nakatogawa H， Suzuki K，Kamada Y，et al.Dynamics and Feng Y,He D,Yao Z,etal. The machinery of macroautophagy. Cell Research，2014,24(1）：24-41. Ravikumar B，Futter M，Jahreiss L，et al.Mammalian macroautophagy at a glance.Journal of Cell Science,2O09,122 (11)：1707-1711. ShpilkaT，ElazarZ.Sheddinglightonmammalian microautophagy.Developmental Cell,2011,20（1）：1-2. Li W W，Li J，Bao JK. Microautophagy:leser-known selfeating.Cellular and Molecular Life Sciences，2012，69（7）： 1125-1136.   
+[7］Mijaljica D，Prescott M，Devenish RJ.Microautophagy in mammaliancells:revisitinga40-year-oldconundrum. Autophagy，2011,7（7） ：673-682.   
+[8]Xie W, Zhang L,Jiao H,et al. Chaperone-mediated autophagy preventsapoptosis by degrading BBC3/PUMA. Autophagy, 2015，11(9):1623-1635.   
+[9] Scarlati F,Granata R,Meijer A,et al.Does autophagy have a license to kill mammalian cells.Cell Death & Differentiation, 2009,16(1): 12-20.   
+[10]Zhang SJ,YangW,Wang C,et al.Autophagy:A double-edged sword in intervertebral disk degeneration.Clinica Chimica Acta, 2016,457:27-35.   
+[11]Hamacher-Brady A．Autophagy regulation and integration with cell signaling.Antioxidants& Redox Signaling，2012，17（5）： 756-765. killing：crosstalk between autophagy and apoptosis.Nature Reviews Molecular Cell Biology，2007,8(9）：741-752.   
+[14］钱帅伟，罗艳蕊，漆正堂，等.细胞自噬的分子学机制及运动 训练的调控作用．体育科学，2012，32（1)：64-70. Qian S W,Luo YR,Qi Z T,et al. The molecular mechanism of autophagy and exercise-related molecular regulatory role.Chins Sport Science,2012,32（1）： 64-70.   
+[15]Levine B,Kroemer G.Autophagy in the pathogenesis of disease. Cell,2008,132(1):27-42.   
+[16]Maret W.The metals in the biological periodic system of the elements：Concepts and conjectures．International Journal of Molecular Sciences,2016,17(1）:66.   
+[17]Sahni S,Bae D H,Jansson P,et al.The Mechanistic Role of Chemically Diverse Metal Ionsin the Induction of Autophagy. Pharmacological Research,2017,119:118-127.   
+[18]Rosner M, Hanneder M, Siegel N,et al. The mTOR pathway and its role in human genetic diseases. Mutation Research/Reviews in Mutation Research,2008,659(3）：284-292.   
+[19]Sarbassov D D，Ali S M,Sabatini D M.Growing roles for the mTOR pathway．Current Opinion in Cell Biology，2005，17 (6): 596-603.   
+[20]Nakao R,Hirasaka K,Goto J,et al.Ubiquitin ligase Cbl-b is a negative regulator for insulin-like growth factor1 signaling during muscle atrophy caused by unloading.Molecular and Celular Biology，2009，29（17）：4798-4811.   
+[21] Jung C H,Ro S H,Cao J,et al. mTOR regulation of autophagy. FEBS Letters,2010,584（7）:1287-1295.   
+[22]Gwinn D M，Shackelford D B，Egan D F，et al.AMPK phosphorylation of raptor mediatesa metabolic checkpoint. Molecular Cell,2008，30(2）：214-226.   
+[23]Kang R,Zeh H,Lotze M,et al.The Beclin 1 network regulates autophagy and apoptosis.Cell Death & Differentiation,2011,18 (4): 571-580.   
+[24]Thoresen S B，Pedersen N M，Liestσl K，et al．A phosphatidylinositol 3-kinase class II sub-complex containing VPS15，VPS34，Beclin 1，UVRAGand BIF-1 regulates cytokinesis and degradative endocytic traffic.Experimental Cell Research，2010，316(20）：3368-3378.   
+[25]Takahashi Y,Coppola D，Matsushita N,etal．Bif-1 interacts with Beclin 1 through UVRAG and regulates autophagyand tumorigenesis．Nature Cell Biology，2007,9（10）：1142-1151.   
+[26]Sun Q，Fan W,Chen K，etal．Identification of Barkor as a mammalian autophagy-specific factor for Beclin 1 and class III phosphatidylinositol 3-kinase.ProceedingsoftheNational Academy of Sciences，2008，105(49）：19211-19216. pathway.Proceedings of the National Academy of Sciences, 2002,99(1):190-195.   
+[31]Koumenis C，Naczki C，Koritzinsky M，et al．Regulation of protein synthesis by hypoxia via activation of the endoplasmic reticulum kinase PERK and phosphorylation of the translation 9 8(21) 74057411 $\alpha$ 32DB’chir W,MauiAC，CarraroV,etal.helF2 $\alpha .$ /ATF4 pathwayisessential forstress-inducedautophagygene expression． Nucleic acids research,2013,41(16）:7683-7699. 3 D'Amelio M,Cecconi F.A novel player in the p53-mediated autophagy:Sestrin2.Cell Cycle，2009,8（10:）:1466-1470.   
+[34]Maiuri M C，Malik S A，Morselli E，et al.Stimulation of autophagy by the p53 target gene Sestrin2.CellCycle,2009，8 (10):1571-1576.   
+[35]Budanov A V. Stres-responsive sestrins link p53 with redox regulationandmammalian targetofrapamycinsignaling. Antioxidants & Redox Signaling，2011,15(6）：1679-1690.   
+[36]Weber JD，Taylor L J，Roussel M F,et al. Nucleolar Arf sequesters Mdm2 and activates p53. Nature Cell Biology，1999, 1(1):20-26.   
+[37]Ryan K M. p53 and autophagy in cancer:guardian of the genome meets guardian of the proteome．European Journal of Cancer, 2011,47(1) : 44-50.   
+[38]Tasdemir E，Maiuri M C，Galluzzi L，et al．Regulation of autophagy by cytoplasmic p53．Nature Cell Biology，2008，10 (6):676-687.   
+[39］王宠，张萍，朱卫国．细胞自噬与肿瘤发生的关系．中国生物 化学与分子生物学报，2010,11：988-997. Wang C,Zhang P，Zhu W G.Relationship between autophagy and tumorigenesis.Chinese Journal of Biochemistry and Molecular Biology，2010,11:988-997.   
+[40]Carafoli E.Intracellular calcium homeostasis．Annual Review of Biochemistry，1987,56(1）：395-433.   
+[41] Sukumaran P,Sun Y，Vyas M,et al．TRPC1-mediated $\mathrm { C a } ^ { 2 + }$ （204 entry is essential for the regulation of hypoxia and nutrient depletion-dependent autophagy.Cell Death & Disease，2015,6 ls a cellular adaptation under hyperosmotic stress. Uell Uycle, 2015,14(6) : 867-879.   
+[43]Jin Y，Bai Y，Ni H,etal．Activation of autophagy through calcium- dependent AMPK/mTOR and PKC0 pathway causes activation of rat hepatic stellte cells under hypoxic stress.FEBS Letters，2016,590(5） :672-682.   
+[44]Krishan S,Richardson D R，Sahni S.Amp kinase（prkaal). Journal of Clinical Pathology,2014,67(9）: 758-763.   
+[45]Krishan S,Richardson D R,Sahni S.Adenosine monophosphateactivated kinase and Its key role in catabolism：structure, regulation，biological activity，and pharmacological activation. Molecular Pharmacology，2015，87(3）：363-377.   
+[46] Medina DL,Ballabio A. Lysosomal calcium regulates autophagy. Autophagy，2015，11(6):970-971.   
+[47］Medina DL，Di Paola S,Peluso I,et al．Lysosomal calcium signalling regulates autophagy through calcineurin and TFEB. Nature Cell Biology，2015，17(3）：288-299.   
+[48] Schreiber R,Landau D. Potassium in Health and Disease [M]. Springer:Encyclopedia of Metalloproteins,2013：1804-1807.   
+[49]Perez-Neut M，Haar L，Rao V，et al．Activation of hERG3 channel stimulates autophagy and promotes cellular senescence in melanoma．Oncotarget，2016，7（16）：21991-22004.   
+[50] Canu N,TufiR,Serafino A L,et al.Role of the autophagiclysosomal system on low potassium- induced apoptosisin cultured cerebelar granule cells.Journal of Neurochemistry, 2005,92(5): 1228-1242.   
+[51]Kaasik A,Rikk T,Piirsoo A,et al.Up- regulation of lysosomal cathepsin L and autophagy during neuronal death induced by reducedserumandpotassium.EuropeanJournalof Neuroscience，2005，22（5）：1023-1031.   
+[52]Richardson D R，Ponka P.The molecular mechanisms of the metabolism and transport of iron in normal and neoplastic cells. BiochimicaEtBiophysicaActa（BBA)-Reviewson Biomembranes，1997，1331（1）：1-40.   
+[53]Stohs S J，Bagchi D.Oxidative mechanisms in the toxicity of metal ions.Free Radical Biology & Medicine，1995，18（2）: 321-336.   
+[54]Kurz T,Brunk U T.Autophagy of HSP7O and chelation of lysosomal iron inanon-redox-active form．Autophagy，2009,5 (1) : 93-95.   
+[55］朱京，谭晓荣．活性氧与自噬的研究进展．生命科学，2011, 23(10) : 987-992. Zhu j，Tang X R. Research advances in ROS and autophagy. Chinese Bulletin of Life Sciences,2011,23（10）:987-992.   
+[56]Kurz T,Eaton JW，Brunk U T.The role of lysosomes in iron metabolismandrecycling.TheInternational Journalof death process.Cell Research,2016,26(9）:1021-1032.   
+[58]Festa R A，Thiele D J. Copper:an essential metal in biology. Current biology：CB,2011,21(21）：R877-R883.   
+[59] Denoyer D,Masaldan S,La Fontaine S,et al. Targeting copper incancer therapy：‘Copper That Cancer’.Metallomics: Integrated Biometal Science,2015,7(11）：1459-1476.   
+[60]Kiffn R，Bandyopadhyay U,Cuervo A M.Oxidative stress and autophagy.Antioxidants& Redox Signaling，2006，8（1-2）： 152-162.   
+[61] Gutierrez E，Richardson DR,Jansson PJ. The anticancer agent Di-2-pyridylketone4， 4-dimethyl-3-thiosemicarbazone （Dp44mT）overcomes prosurvival autophagy by two mechanisms persistent induction of autophagosome synthesis and impairment of lysosomal integrity.Journal of Biological Chemistry，2014, 289(48) : 33568-33589.   
+[62] Zhong W, Zhu H, Sheng F,et al. Activation of the MAPK11/ 12/13/14（p38 MAPK）pathwayregulatesthetranscritionof autophagy genes in response to oxidative stress induced by a novel copper complex in HeLa cells.Autophagy，2014,10（7）： 1285-1300.   
+[63]Hancock CN,Stockwin L H, Han B,et al.Acopper chelate of thiosemicarbazone NSC 689534 induces oxidative/ER stress and inhibits tumor growth invitroand in vivo.Free Radical Biology and Medicine,2011,50(1）：110-121.   
+[64] Yang Y,Li C,Fu Y,et al.Redox cyeling of acopper complex with benzaldehyde nitrogen mustard-2-pyridine carboxylic acid hydrazonecontributestoitsenhancedantituoractivity，buto change in the mechanism of action occursafter chelation. Oncology Reports,2016,35（3）:1636-1644.   
+[65] Trejo-Solis C, Jimenez-Farfan D,Rodriguez-Enriquez S,et al. Copper compound induces autophagy and apoptosis of glioma cells by reactive oxygen species and JNK activation．BMC Cancer,2012,12（1）:156.   
+[66]Hung HH,Huang WP,Pan C Y.Dopamine-and zinc-induced autophagosome formation facilitates PC12 cell survival． Cell Biology and Toxicology，2013,29(6): 415-429.   
+[67]Miyazaki T,Takenaka T,Inoue T，et al．Lipopolysaccharideinduced overproduction of nitric oxide and overexpression of iNOS and interleukin- $^ { 1 \beta }$ proteins in zinc-deficientrats．Biological Trace Element Research,2012,145(3）:375-381.   
+[68]Summersgill H，England H，Lopez-Castejon G，et al.Zinc depletion regulates the processing and secretion of IL $^ { \cdot 1 \beta }$ Cell Death & Disease,2014,5（1）:e1040.   
+[69]Cartharius K，Frech K，Grote K，et al．MatInspector and beyond:promoter analysis basedon transcription factor binding sites．Bioinformatics，2005,21（13）：2933-2942.   
+[70]LiY,Zhang L,Li K,et al.ZNF32 inhibits autophagy through
+
+lysosomal pathway determines the fate of glial cellsunder manganese- induced oxidative stress conditions.Free Radical Biology & Medicine，2015，87:237-251.   
+[72] Zhang J，Cao R，Cai T，et al．The role of autophagy dysregulationinmanganese-induced dopaminergic neurodegeneration． Neurotoxicity Research,2013,24(4）：478- 490.   
+[73]Yuan Z,Ying X P,Zhong W J，et al.Autophagy attenuates MnCl $^ 2$ -induced apoptosis in human bronchial epithelial cels. Biomedical and Environmental Sciences：BES，2016，29（7）： 494-504.   
+[74]Liu J，Guo W，Li J，et al.Tumor-targeting novel manganese complex induces ROS-mediated apoptotic and autophagic cancer cell death．International Journal of Molecular Medicine,2015, 35(3): 607-616.   
+[75]Ogata A，Yanagie H,Ishikawa E，et al．Antitumour effect of polyoxomolybdates：induction of apoptotic cell deathand autophagy ininvitro and in vivo models．British Journal of Cancer,2008,98(2）：399-409.   
+[76]Yang L,Tan P,Zhou W,et al.N-acetylcysteine protects against hypoxia mimetic-induced autophagy by targeting the HIF- $1 \alpha$ （204号 pathway in retinal ganglion cells． Cellularand Molecular Neurobiology，2012，32（8）：1275-1285.   
+[77]Thonqchot S,Yongvanit P,Loilome W,et al.High expression of HIF - $\mathbf { l } \propto$ ，BNIP3and PI3 KC3：hypoxia- induced autophagy predicts cholangiocarcinoma survival and metastasis.Asian Pacific Journal of Cancer Prevention Apjcp，2014，15（15）: 5873-5878.   
+[78］Hu YL，DeLay M，Jahangiri A，etal.Hypoxia-induced autophagy promotes tumor cell survival and adaptation to antiangiogenic treatment in glioblastoma.Cancer Research, 2012,72(7): 1773-1783.   
+[79]Naves T,Jawhari S,Jauberteau M O,et al.Autophagy takes place in mutated p53 neuroblastoma cells in response to hypoxia mimetic CoCl（2）．Biochemical Pharmacology，2013，85（8）: 1153-1161.   
+[80］史美琳，周阳，刘海涛，等．镉诱导细胞自噬的分子机制研究 进展．生物学杂志，2016，33(5)：79-82. Shi M L，Zhou Y，Liu H T.et al．Advance in molecular mechanism of autophagy induced by cadmium. Journal of Biology, 2016, 33(5) : 79-82.   
+[81]Wang Q W，Wang Y，Wang T，et al.Cadmium induced autophagy promotes survival of rat cerebral cortical neurons by activating class II phosphoinositide 3-kinase/beclin-1/B-cell lymphoma 2 signaling pathways.Molecular Medicine Reports, 2015，12(2):2912-2918.   
+[82]WangQW，Wang Y，Wang T，et al.Cadmium-induced autophagy is mediated by oxidative signaling in PC-12 cells and is associated with cytoprotection.Molecular Medicine Reports, 2015，12(3):4448-4454.   
+[83］Sui L，Zhang R H，Zhang P，et al．Lead toxicity induces autophagy to protect against cell death through mTORC1 pathway in cardiofibroblasts.Bioscience Reports，2015,35(2）:e00186.   
+[84]Kerr RP,Krunkosky TM,HurleyDJ,et al.Lead at 2.5 and $5 . 0 \mu \mathrm { m o l / L }$ induced aberrant MH-II surface expression through increased MI exocytosis and increased autophagosome formation in Raw 267.4cells.Toxicology in Vitro，2013，27（3）：1018- 1024.   
+[85]Lv XH,Zhao D H,Cai S Z,et al．Autophagy plays a protective role in cell death of osteoblasts exposure to lead chloride. Toxicology Letters，2015，239（2）：131-140.   
+[86]Bolt A M, Zhao F,Pacheco S,et al. Arsenite-induced autophagy Toxicology and Applied Pharmacology，2012，264（2）：255- 261.   
+87DCheng J,Wei HL,Chen J,et al．Antitumor effect of arsenic trioxide in human K562and K562/ADM cellsbyautophagy.   
+N Toxicology Mechanisms and Methods,2012，22(7）：512-519. death in malignant glioma cells byarsenic trioxide.Cancer Research，2003，63(9）:2103-2108.   
+89]BonakdarYazdi B,Khodagholi F,Shaerzadeh F,et al. The effect S:^! of arsenite on spatial learning：Involvement of autophagy and   
+[90]ThévenodF,Lee W K.Cadmium and cellular signaling cascades : interactions between cell death and survival pathways.Archives of Toxicology，2013，87（10）：1743-1786.   
+[91］Son YO，Wang X，Hitron JA，et al.Cadmium induces autophagy through ROS-dependent activation of the LKB1-AMPK signaling in skin epidermal cels. Toxicologyand Applied Pharmacology，2011，255(3）：287-296.   
+[92]Wei Y，Pattingre S，Sinha S，et al．JNK1-mediated phosphorylation of Bcl-2 regulates starvation-induced autophagy. Molecular Cell,2008，30(6）:678-688.   
+[93]Alexander A，KimJ，Walker CL.ATM engages the TSC2/ mTORC1 signaling node to regulateautophagy.Autophagy, 2010,6(5) : 672-673.   
+[94]Messner B，Turkcan A，Ploner C，et al．Cadmium overkill: autophagy，apoptosis and necrosis signalling in endothelial cells exposed to cadmium.Celllar and Molecular Life Sciences, 2016，73(8):1699-1713.   
+[95]Misra UK,Gawdi G,Pizzo S V.Induction of mitogenic signalling in the 1LN prostate cell line on exposure to submicromolar concentrations of cadmium $^ +$ ．Cellular Signalling，2003，15 （11）：1059-1070.   
+[96]Woods A，Dickerson K，Heath R，et al. $\mathrm { C a } ^ { 2 + }$ /calmodulindependent protein kinase kinase- $\mathbf { \beta } _ { \beta }$ actsupstream of AMPactivated protein kinase in mammalian cells. Cell Metabolism, 2005，2(1):21-33.   
+[97]Luo B，Lin Y，Jiang S,et al.Endoplasmic reticulum stress eIF2 $\alpha$ -ATF4pathway-mediatedcyclooxygenase-2induction regulates cadmium-induced autophagy in kidney.Cell Death & Disease，2016,7(6):e2251.
+
+# The Induction Effect of Metal Ions for Cell Autophagy
+
+LI Sheng
+
+(Deparmentof Pharmaceutical Engineering,School of Chemical Engineeringand Technology,Tianjin University; KeyLaboratory of Systems Bioengineering,Ministry of Education，Syn Bio Research Platform, Collaborative Innovation Center of Chemical Science and Engineering,Tianjin3Ooo72,China)
+
+AbstractAutophagy is one of the most important physiological processes in eukaryotic organisms，which can degrade the misfolded proteinsand the abnormal organelles by lysosomes.Autophagy is widely involved in many pathological and physiological processes.It is essential to reveal the molecular mechanism of autophagy, which will not only help to understand the physiological significance of autophagy，but also provide atheoretical basis for developing new drug targets for the treatment of diseases.Metal ionscan induce autophagy through different signaling pathways，and this mechanism is significant in drug development and disease treatment.The molecular mechanism of autophagy and the induction effect via metal ions are related.
+
+Key wordsAutophagyMolecular mechanism Metal ions Induction

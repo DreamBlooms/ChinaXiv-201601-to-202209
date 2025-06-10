@@ -1,0 +1,387 @@
+# 移动云环境面向多重服务选择的计算卸载算法
+
+何远德'，黄奎峰2+
+
+(1．西南民族大学 语言实验教学中心，成都 610041;2.重庆三峡医药高等专科学校，重庆 404120)
+
+摘要：移动云计算可以通过计算卸载改善移动设备的能效和应用的执行延时。然而面对云端的多重服务选择时，计算卸载决策是NP 问题。为了解决这一问题，提出一种遗传算法寻找计算卸载的最优应用分割决策解。遗传种群初始化中，算法联立预定义和随机染色体方法进行初始种群的生成，减少了无效染色体的发生比例。同时，算法为预定义的预留种群设计一种特定的基于汉明距离函数的适应度函数，更好地衡量了染色体间的差异。种群交叉中分别利用近亲交配与杂交繁育丰富了种群个体。算法通过修正的遗传操作减少了无效解的产生，以更合理的时间代价获得了应用分割的最优可行解。应用现实的移动应用任务图进行仿真实验评估了算法效率。评估结论表明，所设计的遗传算法在应用执行能耗、执行时间以及综合权重代价方面均优于对比算法。
+
+关键词：移动云计算；能效；计算卸载；应用分割；执行延时 中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2018.12.0876
+
+Offloading decision algorithm for multiple service selection in mobile cloud environment
+
+He Yuandel, Huang Kuifeng2+ (1.Language Experiment Teaching Center,Southwest Minzu UniversityChengdu 610041,China;2.Chongqing Three Gorges Medical College, Chongqing 404120, China)
+
+Abstract: Mobile cloud computing can use the computation offoading to improve the energy eficiencyof mobile devices andtheexecutiondelayofapplications.However,in thefaceofthe multiple service selection fromcloud,thecomputation offloading decision isaNPproblem.Inorder toadressthisproblem,ageneticalgorithm isdesignedtofindthe best application partitioning decision solution forcomputationofloading.In geneticpopulation initialization,ouralgorithm combinesof predefined and randomchromosomes to intialize the population，which can reduce the generationof the inefficientchromosomes.At the same time,the algorithm designs a specific fitnessfunction based on Hamming distance function for the predefined reserved populution，which can beter measure the diference between chromosomes.The population crossver uses respectivelythe inbreeding and crosbreeding toenrich individual species.Ouralgorithmuses the modified genetic operations toreduce the ineffective solutionsand obtain thebest feasible solution in areasonable time.We evaluated the eficiencyof the proposed algorithm using graphs ofreal mobile applications in simulation experiments.The evaluatedconclusions denote thatourdesigned algorithm has a better performance than thecomparision algorithms on the application execution energy, the execution time and the overall weight cost.
+
+Key words: mobilecloud computing;energy eficiency; computation ofloading;application partitioning; executiontime
+
+# 0 引言
+
+移动设备（如智能手机）已经成为人们日常生活中不可缺少的一部分[11；同时，人们对于在移动设备上所执行的应用的类型的复杂程度也变得更加多样和更加复杂，此时的用户需求不仅包括单一的非计算密集型应用（如简单的算术求解)，还包括许多计算密集型应用(如图像处理、视频流处理)。尽管移动设备的可用资源(电池容量、处理能力和内存容量）增加很快，但对于计算密集应用仍然是巨大的障碍[2.3]。借助于云计算技术，移动设备可以按需的提供应用服务请求至云端服务器，该类应用催生了移动云计算的发展[4.5]。移动云计算中，移动设备可以通过将计算密集型任务迁移至功能更强大的云端执行来改善自身的可用资源限制，即应用卸载技术[6-8]。由于受网络条件和云端服务器资源可用性的影响，整个应用卸载至云端并非总是有利的，很多研究正集中于如何选择卸载的部分应用任务至云端执行，以实现移动设备更低的能耗和应用更高的性能增益[9,10]。
+
+多数已有的移动云计算集中于研究单站点的卸载决策[1,12],即将移动设备上部分应用任务卸载至单一云端服务器。研究表明[13]，在云端多站点环境下进行应用卸载将具有更好的性能。然而多站点环境下的应用卸载是个NP问题，求解时间复杂度较高。为了解决这一问题，本文设计一种多重服务选择环境下的基于权重代价的卸载决策模型。模型将应用的执行时间和执行能耗综合地考虑到权重代价目标中，并设计了一种遗传算法对卸载问题进行了求解。本文在遗传算法的设计上作了以下修正：利用预留种群丰富了染色体的多样性，通过修正的选择和交叉操作增加了获得更好卸载解的概率。
+
+# 1 相关研究
+
+相关研究中，文献[14]中的MAUI是一种移动云中改进能耗的卸载算法，算法利用整型线性规化方法求解了最优卸载决策，但仅仅考虑了能耗优化问题。文献[15]中设计的ThinkAir是一种按需的资源分配和卸载模型，同样仅从能耗方面考虑了卸载决策问题。文献[12]提出了一种基于计算卸载的遗传算法，利用遗传优化对服务工作流的卸载问题进行了求解，同样将执行时间和能耗考虑到遗传适应度函数中，实现了最小化的卸载代价。文献[11将网络带宽因素考虑到卸载决策中，也实现了时间和能耗的双目标优化。文献[16]以满足延时约束最小化能耗为目标设计了卸载决策算法，可以得到应用分割后至云服务器的映射解。文献[17]以约束最短路径为基础设计了随机无线信道环境下的自适应卸载决策实现了移动设备能耗的优化。文献[18]则均衡考虑能耗、通信延时、全局应用执行时间及应用子任务间的顺序约束等条件，设计了联合调度与卸载算法。以上工作均是在单站点即单服务器环境下的卸载决策求解方法，不能应用于目前云服务多供应方的卸载环境。
+
+文献[13]提出一种静态的多站点卸载算法，但忽略了部分运行参数，如网络带宽变化和能耗变化，其结果与实际环境显得不符。文献[19]提出一种基于分支限界法的多站点卸载决策算法，该考虑虽然考虑了带宽和能耗变化，但在求解中等或大规模应用卸载问题时无法在有效时间内得到最优卸载决策，即算法作出卸载决策的时间远大于在本地移动设备上执行应用的时间。文献[20]利用蚁群优化设计一种MMRO算法，可得到多站点时的最优卸载解。该算法综合考虑了决策过程中的收益和风险因素，拥有较好的可行性。尽管以上基于多站点多服务选择的卸载决策算法具备一定可行性，但相关工作或者忽略了影响卸载决策的部分因素，或者在求解卸载决策时的时间复杂度过高，导致其可行性不高。本文将综合考虑移动应用的执行时间和移动设备上的能量消耗，通过更好的遗传操作对多服务选择环境时的应用卸载决策问题进行求解，并与相同类型的算法作出性能比较，证明其优越性。
+
+# 2 系统模型与问题形式化
+
+本章对应用执行时的卸载决策问题中的全局执行时间、执行能耗以及权重代价模型作出描述。图1描述的是一种多服务供应的卸载模型，云端的服务器为具有异构处理能力的资源供应方。表1给出本文相关符号说明。
+
+![](images/a3b3b7c51cb56b41f868b40d65cf56da678ca96e4735d2d50943cfd9858309eb.jpg)  
+图1系统模型Fig.1System model
+
+表1符号说明Table1Symbol description  
+
+<html><body><table><tr><td>符号</td><td>参数含义</td><td>符号</td><td>参数含义</td></tr><tr><td></td><td>任务i的执行因子，若本地 xsi 执行，xsi=0，若云端执行， xs i=1</td><td>Ptrans</td><td>本地移动设备的 传输功率</td></tr><tr><td>kxy</td><td>任务间的通信因子</td><td>SF</td><td>云端比较本地设 备能力的加速比</td></tr><tr><td>X</td><td>应用分割解，包括人p个子 任务，X={x1,x2,...xp}</td><td>Frp</td><td>预留种群的适应 度函数</td></tr><tr><td>X'</td><td>最优应用分割解 应用任务i在本地移动设备</td><td>H(x,y)</td><td>汉明距离函数 初始种群的局部</td></tr><tr><td>tloc i</td><td>上的执行时间</td><td>LFop</td><td>度函数 预留种群的局部</td></tr><tr><td>Tlocal</td><td>应用的本地执行时间</td><td>LFrp</td><td>度函数 应用任务i的执行</td></tr><tr><td>Elocal</td><td>应用的本地执行能耗</td><td>ins_numi</td><td>指令数 本地移动设备的</td></tr><tr><td></td><td>tremi应用任务i的云端执行时间 任务i（分配于云端x）与j</td><td>可proc_speedCPU</td><td>CPU 处理速度 返回初始种群染</td></tr><tr><td></td><td>tx,yij(分配于云端y)间的通信时 间 任务i（分配于云端x）与j</td><td>gx(Cri)</td><td>色体i的基因x的 函数 返回预留种群染</td></tr><tr><td></td><td>ex,yi,j (分配于云端y)间的通信能 耗 应用任务i与任务j间的通信</td><td>gx(Crr)</td><td>色体i的基因x的 函数 表示初始种群染</td></tr><tr><td>datai-j</td><td>传输数据量</td><td>gi,k</td><td>色体i的基因k的 参数 表示预留种群染</td></tr><tr><td>x,y 宽</td><td>bwtrans云端x与云端y间的传输带</td><td>grk</td><td>色体i的基因k的</td></tr><tr><td>pCPU</td><td>本地移动设备的CPU功率</td><td></td><td>参数</td></tr></table></body></html>
+
+# 2.1 应用构成
+
+将执行的应用建立为一个带有权重的任务关系有向图，表示为 $G \mathrm { = } ( N , E )$ ，节点 $N$ 和有向边 $E$ 分别表示应用的任务和任务间的联系。假设现有 $M$ 个云服务器集合，集合$S { = } \{ S 0 , S 1 , { \ldots } S _ { M } \}$ 表示可用服务集合， $S _ { 0 }$ 表示本地移动设备，即应用任务可在本地移动设备上执行。 $N$ 中的每个节点拥有一个权重集合 $\{ W N 0 \ i , \ : W N 1 \ i , . . . , W N M \ i \}$ ， $W N x \ i$ 表示在云端 $S _ { x }$ 上执行应用任务 $i$ 的执行时间。同时，每条有向边 $e { = } ( n 1 , n 2 )$ 也拥有一个权重集合 $\{ W E 0 , 0 ~ n I , n 2 , ~ W E 0 , 1 ~ n I , n 2 , . . . , W E 0 , \mathrm { M }$ $n I , n 2 , W E 1 , 0 n I , n 2 , . . . , W E M , M n I , n 2 \}$ ， $W E \mathrm { x , y } n l , n 2$ 表示任务nl（运行于 $S _ { x }$ ）与任务 $n 2$ （运行于 $S _ { y }$ ）间的数据传输时间。
+
+# 2.2多重服务选择的卸载
+
+# 2.2.1权重代价模型
+
+将多重服务选择的卸载问题建立为一个权重优化模型，并寻找应用的最优分割 $X ^ { \prime }$ ， $X ^ { \prime } { = } \mathrm { a r g m i n } ( W ( X ) )$ 。分割 $X$ 的应用权重代价 $W ( X )$ 表示为
+
+$$
+\operatorname* { m i n } _ { w _ { t } , w _ { e } \in [ 0 , 1 ] } W ( X )
+$$
+
+$$
+W ( X ) = w _ { t } \times \frac { T ( X ) } { T _ { L o c a l } } + w _ { e } \times \frac { E ( X ) } { E _ { L o c a l } }
+$$
+
+其中： $T ( X )$ 和 $E ( X )$ 分别表示一个应用的执行时间和执行能耗；$T _ { L o c a l }$ 和 $E _ { L o c a l }$ 分别表示应用在本地设备上的执行时间和执行能耗；执行时间权重 $w _ { t }$ 和执行能耗权重 $w _ { e }$ 的大小取决于用户应用的执行需求， $w _ { t } { = } 1$ 和 $w _ { e } { = } 0$ 时表示执行时间的优化模型， $w _ { t } { = } 0$ 和 $w _ { e } { = } 1$ 则表示执行能耗的优化模型。
+
+# 2.2.2执行时间模型
+
+应用的执行时间主要由每个任务的执行时间和任务间的通信时间构成。每个任务的执行时间即节点权重分为在本地移动设备上的执行时间tloc $i$ 或云端执行时间trem $i$ ，通信时间即为不任务间有向边的权重。执行时间优化模型的目标是寻找应用的最优分割 $X ^ { \prime }$ ， $X ^ { \prime } { = } \mathrm { a r g m i n } ( T ( X ) )$ 。分割 $X$ 下应用的执行时间 $T ( \boldsymbol { X } )$ 定义为
+
+$$
+T ( \boldsymbol { X } ) = \sum _ { i = 1 } ^ { p } ( ( 1 - x _ { i } ^ { s } ) \times t _ { i } ^ { l o c } + x _ { i } ^ { s } \times t _ { i } ^ { r e m } ) + \sum _ { i = 1 } ^ { p } \sum _ { j = 1 } ^ { p } k _ { x y } \times t _ { i , j } ^ { x , y }
+$$
+
+其中： $p$ 表示应用分割出的任务数量，且
+
+$$
+\boldsymbol { x } _ { i } ^ { s } = \left\{ \begin{array} { l l } { 0 , \boldsymbol { s } = \boldsymbol { S } _ { 0 } } \\ { 1 , \boldsymbol { s } \in \{ \boldsymbol { S } _ { 1 } , \boldsymbol { S } _ { 2 } , . . . , \boldsymbol { S } _ { M } \} } \end{array} \right.
+$$
+
+$$
+k _ { x y } = \left\{ { 0 , x _ { i } ^ { s } \oplus x _ { j } ^ { s } \neq 1 } \atop { 1 , x _ { i } ^ { s } \oplus x _ { j } ^ { s } = 1 }  \right.
+$$
+
+以上的约束条件表明，若任务分配至云端，则 $\scriptstyle x s i = 1$ 若任务分配在本地设备执行，则 $\scriptstyle x s i = 0$ ， $_ { x s i }$ 可视为本地或远程云端执行的区别因子。 $k _ { x y }$ 代表两个任务间的通信时间因子，若任务被分配至同一云端，则 $k _ { x y } { = } 0$ ；同时，若两个任务运行于相同移动设备上， $k _ { x y } { = } 0$ 。此外，式(3)还存在每个任务仅可分配至一个云端服务器的约束，即
+
+$$
+\sum _ { s = 0 } ^ { M } x _ { i } ^ { s } = 1 , \forall i \in N
+$$
+
+每个任务的执行时间需要根据其分配的云端服务器进行计算。因此，每个任务的本地执行时间和远程云端执行时间可分别以式(7)和(8)计算。
+
+$$
+t _ { i } ^ { l o c } = t _ { i } ^ { x } = \frac { i n s \_ n u m _ { i } } { p r o c \_ s p e e d ^ { C P U } } , x = S _ { 0 }
+$$
+
+其中：ins_numi表示应用任务 $i$ 的执行指令数；proc_speedCPU表示本地移动设备的处理速度。任务的远程云端执行时间trem $i$ 为其本地执行时间tloc $i$ 除以云端加速因子 $S F ^ { x }$ ，参数$S F ^ { x }$ 用于描述云端服务器 $x$ 比较移动设备处理速度proc_speedCPU 的加速比。
+
+$$
+t _ { i } ^ { r e m } = t _ { i } ^ { x } = \frac { t _ { i } ^ { l o c } } { S F ^ { x } } , x \neq S _ { 0 }
+$$
+
+两个任务间的通信时间 $_ { t x , y } i , j$ 根据任务间的数据传输量datai-j和传输带宽bwtrans $_ { x , y }$ 决定：
+
+$$
+t _ { i , j } ^ { x , y } = \frac { d a t a _ { i  j } } { b w _ { x , y } ^ { t r a n s } }
+$$
+
+# 2.2.3能耗模型
+
+应用的执行能耗主要由每个任务的执行能耗和任务间的通信能耗构成。执行时间优化模型的目标是寻找应用的最优分割 $X ^ { \prime }$ ， $X ^ { \prime } { = } \mathrm { a r g m i n } ( E ( X ) )$ 。分割 $X$ 下应用的执行时间 $E ( X )$ 定义为
+
+$$
+E ( \boldsymbol { X } ) = \sum _ { i = 1 } ^ { p } ( ( 1 - x _ { i } ^ { s } ) \times e _ { i } ^ { l o c } + x _ { i } ^ { s } \times t _ { i } ^ { r e m } ) + \sum _ { i = 1 } ^ { p } \sum _ { j = 1 } ^ { p } k _ { x y } \times e _ { i , j } ^ { x , y }
+$$
+
+约束条件为
+
+$$
+\boldsymbol { x } _ { i } ^ { s } = \left\{ \begin{array} { l l } { 0 , \boldsymbol { s } = \boldsymbol { S } _ { 0 } } \\ { 1 , \boldsymbol { s } \in \{ \boldsymbol { S } _ { 1 } , \boldsymbol { S } _ { 2 } , . . . , \boldsymbol { S } _ { M } \} } \end{array} \right.
+$$
+
+$$
+k _ { x y } = \left\{ { 0 , x _ { i } ^ { s } \oplus x _ { j } ^ { s } \neq 1 } \atop { 1 , x _ { i } ^ { s } \oplus x _ { j } ^ { s } = 1 }  \right.
+$$
+
+$$
+\sum _ { s = 0 } ^ { M } x _ { i } ^ { s } = 1 , \forall i \in N
+$$
+
+任务的本地执行能耗eloc $i$ 和通信能耗 $e x , y \ i , j$ 分别定义为式(14)和 (15)。
+
+$$
+e _ { i } ^ { l o c } = t _ { i } ^ { l o c } \times p ^ { C P U }
+$$
+
+$$
+e _ { i , j } ^ { x , y } = t _ { i , j } ^ { x , y } \times p ^ { t r a n s f e r }
+$$
+
+其中： $p ^ { C P U }$ 和 $p ^ { t r a n s f e r }$ 分别表示移动设备的 CPU 功率和传输功率。
+
+# 3 算法设计
+
+本文设计一种基于遗传方法的多重服务选择下的卸载决策算法ODA-GA。算法中，每个染色体代表应用的一个分割解 $X$ ，解中的每个任务(基因)被分配一个代表云端服务器或本地设置的值。图2代表一个算法中的染色体，此时应用分割为 $p$ 个任务，总共有 $M$ 个可执行方。ODA-GA的目标是获得应用的最优分割 $X ^ { \prime }$ ，从而得到最小化的全局执行代价。具体过程如下：
+
+算法1ODA-GA   
+a）Initialization//种群初始化   
+b）Repeat//循环迭代   
+c）Selection//种群选择   
+d）Crossover//种群交叉   
+e）Mutation//种群变异   
+f）Until the stop criteria are reached//判定迭代结束条件
+
+![](images/45a1eb281ac357a9994c7f23c5c132ae66e2861b07d8e7896e6161c982054ee8.jpg)  
+图2ODA-GA算法中的染色体结构Fig.2Chromosome structure of ODA-GA
+
+# 3.1 初始化
+
+该步骤需要初始化ODA-GA算法的相关参数，包括最大迭代次数 $\smash { I _ { \perp } }$ 变异概率 mp、种群大小PS及初始种群。多数遗传操作随机选择初始种群，ODA-GA算法联立预定义和随机染色体方法进行种群初始化。由于移动云环境中进行任务卸载优于本地执行性能，算法创建一个染色体，其所有任务（基因）均分配至本地设备上，这有助于在迭代中避免产生无效染色体。进一步，根据云端服务器的数量 $M$ ，进行种群初始化，其所有染色体的基因均分配至同一云端服务器，产生 $M$ 个染色体。剩余染色体则随机产生，维持种群的随机性。产生初始种群后，ODA-GA算法利用一个预留种群对染色体进行多样化处理。预留种群包含的染色体不同于初始种群，其染色体的差异（任务的分配目标）较初始种群中更大，有助于获得更高适应度的个体。图3为算法的初始种群。
+
+算法2Initialization
+
+a） set op as original population， rp as reserve   
+population//设置初始种群和预留种群   
+b） set maximum iteration number I,mutation probability   
+mp//设置最大迭代次数和种群变异概率   
+c） set population size PS， components’ number $p$ and   
+execution sitess//设置种群大小和应用任务数量和执行站点   
+d）for $\textit { i } = 1$ to M+1do//产生预留种群   
+e）for $\scriptstyle { j = 1 }$ to $p$ do   
+f）op[i][j]=i-1   
+g）rp[i][j]=random[0,M]   
+h）end for   
+i）end for   
+j）for $i = M + 2$ to PS do//产生随机种群   
+$\boldsymbol { \mathsf { k } }$ ）for $\scriptstyle { j = 1 }$ to $p$ do   
+1）op[i][j]=random[0,M]   
+m）rp[i][j]=random[0,M]   
+n）end for   
+o）end for
+
+![](images/aba8c4afd02bd744d953601546db3dbe952b4e1f83a59a62449774869d430622.jpg)  
+图3ODA-GA算法的初始种群 Fig.3Initial population of ODA-GA
+
+# 3.2适应度函数
+
+ODA-GA算法中，初始种群的适应度函数定义为式(1)，因此，每次迭代中，算法将试图寻找比先前迭代中具有更小权重代价的应用分割解。由于ODA-GA算法利用一个预留种群使染色体更多样化，需要根据预留种群的目标定义另一个适应度函数。预留种群的适应度函数 $F _ { r p } ( r )$ 为
+
+$$
+F _ { r p } ( r ) = \frac { 1 } { P S } \sum _ { i = 1 } ^ { P S } H ( C r _ { i } , C r _ { r } )
+$$
+
+其中： $P S$ 表示初始种群大小； $C r _ { i }$ 表示初始种群中第 $i$ 个染色体； $C r _ { r }$ 表示预留种群中的一个给定染色体； $H$ 表示汉明距离函数，定义为
+
+$$
+\begin{array} { r } { H ( C r _ { i } , C r _ { r } ) = \sum _ { k = 1 } ^ { p } \mathrm { s g n } ( \vert g _ { i , k } - g _ { r , k } \vert ) } \end{array}
+$$
+
+其中：
+
+$$
+\operatorname { s g n } ( \mid g _ { i , k } - g _ { r , k } \mid ) = { \binom { 0 , x = y } { 1 , x \neq y } }
+$$
+
+$F _ { r p } ( r )$ 的汉明距离函数用于计算给定染色体间的差异，根据任务分配目标不同衡量。 $g _ { i , k }$ 和 ${ { g } _ { r , k } }$ 分别表示初始种群中染色体 $i$ 的第 $k$ 个基因和预留种群中染色体 $\boldsymbol { r }$ 的第 $k$ 个基因。
+
+# 3.3种群选择
+
+该步骤中，初始种群和预留种群中的染色体根据其适应度函数进行评估，每个种群的染色体被排序，并根据锦标赛选择法进行染色体选择。每个种群中最优的两个染色体被选择产生子代，选择过程如算法3所示。
+
+算法3Selection
+
+a）For $\scriptstyle { i = 1 }$ to PS do   
+b）opfitness[i] $\scriptstyle = ($ calculate fitness on the basis of Equ.1//   
+利用式(1)计算初始种群的适应度   
+c)rpfitness[i]= calculate fitness on the basis of Equ.16//   
+利用式(16)计算预留种群的适应度   
+d）End for   
+e）Sortopfitness//基于适应度对初始种群排序   
+f）Sortrpfitness//基于适应度对预留种群排序   
+g）Selected $1 _ { o p } =$ select best two chromosomes of opfitness//选   
+择初始种群中最优的两个染色体   
+h）Selected $r p =$ select best two chromosomes of rpfitness//选   
+择预留种群中最优的两个染色体
+
+# 3.4种群交叉
+
+交叉步骤中，所选择的染色体（父代）相互结合产生新的子代。为了利用更加智能的交叉操作，算法分别为初始种群和预留种群定义局部适应度函数 $L F _ { o p }$ 和 $L F _ { r p }$ 。
+
+$$
+L P _ { o p } ( g _ { i } ) = { w _ { t } } \times ( t _ { g i } ^ { x } + \sum _ { j = 1 } ^ { p } k _ { x y } \times t _ { i , j } ^ { x , y } ) + { w _ { e } } \times ( e _ { g i } ^ { x } + \sum _ { j = 1 } ^ { p } k _ { x y } \times e _ { i , j } ^ { x , y } )
+$$
+
+其中： $t x g i$ 和 $e x g i$ 分别表示初始种群染色体中第 $i$ 个基因(任务）的执行时间和执行能耗； $_ { t x , y } i , j$ 和 $\mathrm { e x } , y \ i , j$ 分别表示两个基因间的通信时间和通信能耗。式(11)\~(13)也为式(19)的约束条件。
+
+$$
+L F _ { r p } ( g ( C r ) ) = \sum _ { i = 1 } ^ { P S } H ( g _ { x } ( C r _ { i } ) , g _ { x } ( C r _ { r } ) )
+$$
+
+其中： $g _ { x } ( C r _ { i } )$ 和 $g _ { x } ( C r _ { r } )$ 分别表示返回初始种群染色体 $i$ 的基因 $x$ 和预留种群染色体 $\boldsymbol { r }$ 的基因 $x$ 的函数。
+
+由于拥有两个种群，算法利用杂交繁育方法对种群进行交叉操作，即不同种群的父代可以进行交叉，这可以交换不同种群间的信息。同时，同一种群父代染色体可以进行近亲交叉。图4显示了ODA-GA算法的杂交和近亲交叉示例。
+
+![](images/4a46c16b6488390b22e24c2a2dced5a01bfc01115aaa6ac4693b33f1277eaa7b.jpg)  
+图4ODA-GA算法的交叉实例  
+Fig.4Crossover example of ODA-GA
+
+近亲交配(inbreeding)中，同一种群的父代染色体相互结合，两个父代的基因作出比较，拥有更优局部适应度 $( L F _ { o p }$ 或 $L F _ { r p } \ ' { _ { r p } } .$ 的基因被复制至子代中。同时，剩余基因产生另一子代。杂交繁育(crossbreeding)中，初始种群中的每个父代与预留种群中的父代结合，并基于 $L F _ { o p }$ 产生两个子代。该步骤基于 $L F _ { r p }$ 进行重复产生另外两个子代。因此，在每次迭代中，将产生八个子代。ODA-GA算法的交叉过程如算法4所示。
+
+算法4Crossover
+
+a） %inbreedingand crossbreeding are crossover   
+functions//种群交叉函数包括近亲交配和杂交繁育   
+b)%both of them use local fitness to generate new offsping   
+c）%each one of inbreeding and crossbreeding generate two   
+offspring   
+d） $\% P a r _ { o p }$ and $P a r _ { r p }$ represent chromosomes of original   
+population and reserve population respectively   
+e）For $\scriptstyle { i = 1 }$ to 2 do   
+$\textsf { f }$ ）For $\scriptstyle { j = 1 }$ to $p$ do   
+g） $L F _ { o p } [ i ] [ j ] = 0$ alculate local fitness by Equ.19//利用式   
+(19)计算初始种群的局部适应度   
+h） $L F _ { r p } [ \ i ] [ j ] = \mathtt { c }$ alculate local fitness by Equ.20//利用式   
+(20)计算预留种群的局部适应度   
+i）end for   
+j）end for   
+$\boldsymbol { \mathsf { k } }$ ）original population $\ O =$ inbreeding( $P a r _ { o p } , P a r _ { o p } ) ,$ //初始种群   
+的近亲交配 1）reserve population $\ O =$ inbreeding( $P a r _ { o p } , P a r _ { o p } ) .$ //预留种群的 近亲交配   
+m）original population $\mid =$ crossbreeding( $P a r _ { o p } , P a r _ { o p } )$ //初始种 群的杂交繁育   
+n）reserve population $\mathbf { \tau } = \mathbf { \tau }$ crossbreeding( $P a r _ { o p } , P a r _ { o p } )$ //预留种 群的杂交繁育
+
+# 3.5种群变异
+
+变异步骤中，新染色体的基因根据在初始化中预先定义的概率进行变异。ODA-GA算法中，基因根据标准均匀突变模型进行变异，该模型中，所有基因的变异概率是相等的。算法5描述ODA-GA的变异过程。
+
+每次迭代结束时，由原染色体组成的初始种群和预留种群和新的子代均被排序，且最优染色体在整个种群中得以选择。当到达预定义的迭代次数或无法进行适应度改进时，ODA-GA算法得以完成。
+
+算法5Mutation
+
+a）%numoff and mp represent the number of offspring and   
+the mutation probability respectively   
+b）for $\scriptstyle { i = 1 }$ to numoff do   
+c）for $\scriptstyle { j = 1 }$ to $p$ do   
+d）offspring[i][j]=Random[0,M,mp]   
+e）end for   
+f）end for
+
+# 4 实验评估
+
+# 4.1实验环境配置
+
+本节通过现实的应用任务图评估ODA-GA算法的性能。利用SPECjvm实验床[21]中两种开源移动应用ESS和DBAP进行实验仿真，ESS应用为一种专家系统shell程序应用，DBAP应用为一种数据库访问程序应用，ESS应用中总共拥有 20个任务节点，有向边为76条，DBAP应用中总共拥有33个任务节点，有向边为82条。算法在MatlabR2014中模拟实现，硬件配置为 $2 . 2 ~ \mathrm { G H z }$ Intel core i7CPU，8 GB RAM。配置一个具有三个异构执行站点的多站环境，包括两个云端服务器和一个移动设备作为本地站点。每个云服务器的加速因子服从区间[3,4]内的均匀分布。任务图中的权重同样服从均匀分布，所有算法执行10 次，获取 $9 5 \%$ 的置信区间。权重 $w _ { t }$ 和 $w _ { e }$ 均设置为0.5，即应用执行对于执行时间和执行能耗具有同等的偏好，该权重值可以通过不同的应用类型进行不同配置。
+
+# 4.2参数影响
+
+ODA-GA算法中，种群大小PS、最大迭代次数I、变异概率 $m p$ 以及网络带宽bwtrans $^ { x , y }$ 均会对算法性能产生影响。为了调整ODA-GA算法使其得到最优的性能表现，实验如表2所示配置了不同的场景。
+
+表2参数配置  
+Table 2 Parameter setting   
+
+<html><body><table><tr><td>配置场景</td><td>PS</td><td>I</td><td>mp</td><td>bwtrans x,y</td></tr><tr><td>C1</td><td>10-100</td><td>30</td><td>0.07</td><td>100</td></tr><tr><td>C2</td><td>50</td><td>10-200</td><td>0.07</td><td>100</td></tr><tr><td>C3</td><td>50</td><td>30</td><td>0.02-0.9</td><td>100</td></tr><tr><td>C4</td><td>50</td><td>30</td><td>0.07</td><td>10-100</td></tr></table></body></html>
+
+图5表示在两种应用下根据配置场景C1得到的种群大小对ODA-GA算法性能的影响。随着种群大小从10增加至50，两种应用的权重代价急剧下降。然而进一步增加种群规模并不会对种群适应度的改进产生巨大影响，即在 $P S { = } 5 0$ 后，种群的适应度并未发生明显变化，因此，后文将50设置为种群大小。图6显示在两种应用下根据配置场景C2得到的迭代交数对ODA-GA算法性能的影响。可以看到，到达稳定结果时（即最优适应度)，迭代次数为30。继续迭代也未对种群适应度改进产生明显影响。因此，后文将30作为算法的迭代次数。图7显示在两种应用下根据配置场景C3得到的变异概率对ODA-GA算法性能的影响。可以看到，变异约为0.07时算法产生了最优性能。算法的最差表现时变异概率为0.6。图8显示在两种应用下根据配置场景C4得到的带宽对ODA-GA算法性能的影响。如预期的，更高的带宽将导致更佳的适应度，由于带宽的增加，可以降低任务的通信延时和通信能耗。网络约增加至 $1 0 0 ~ \mathrm { K B / s }$ 时权重代价才趋于稳定。
+
+0.6 0.580.59 ESS应用 0.56更 0.58 DBAP应用 更0.540.570.520.560.55 AAIAAA 0.58102030405060708090100种群大小
+
+![](images/1f738a5f7023f6b5bf2e95a8b75aaeba9730d11dbaff66da30900c80e637b4eb.jpg)  
+Fig.5Population size impacts on weight cost   
+图6迭代次数对权重代价的影响
+
+![](images/3883766f8018ccbf812e0f4b4b727cfb096b8124b740f0b965cffa9b68a5f5e1.jpg)  
+图5种群大小对权重代价的影响  
+Fig.6Iteration number impacts on weight cost   
+图7变异概率对权重代价的影响  
+Fig.7Mutation probability impacts on weight cost   
+图8带宽对权重代价的影响  
+Fig.8Bandwidth impacts on weight cost
+
+1 1   
+0.9 ESS应用 0.9 DBAP应用   
+0.7 0.7 0.6   
+0.6 0.5 内   
+0.5 0.4 102030405060708090100 带宽:Kb/s
+
+# 4.3对比研究
+
+本节作算法的对比分析，对比算法包括：
+
+a)Local算法。该算法中所有应用任务均在本地移动设备上执行。
+
+b）Optimal 算法[19]。该算法利用 branch-and-bound(分支限界法)得到应用分配最优解，当求解模型较大时，该算法求解复杂性过高，因此所得到的解仅用于比较其他算法解的效率。
+
+c)SGA算法[22]。该算法即为常规的GA算法，遗传操作上未作任何修正。
+
+d)DPGA算法[23]。该算法也利用初始种群和预留种群进行解进化，但其他步骤类似于SGA。
+
+e)GACO 算法[12]。为单一服务环境下的遗传卸载算法。
+
+f)MMRO算法[20]。该算法为基于蚁群优化的多站点卸载决策算法。
+
+g)Local算法作为衡量计算卸载是否能够改善性能的标准算法。实验中参数配置由前一部分得到的最优值进行设置，$P S { = } 5 0$ ， $\scriptstyle { I = 3 0 }$ ， $m p { = } 0 . 0 7$ ，带宽为100。
+
+图9为迭代次数改变时的实验结果。可以看到，所有基于任务卸载的算法的执行时间和能耗均随着最大迭代次数的增加而下降，ODA-GA算法比其他算法在三项指标上更加有效，算法可以更少的迭代次数30次并以更快的速度收敛到最优解上，这表明该算法的决策时间也更短。MMRO算法的性能与SGA极其相似，而DPGA算法也与GACO拥有相似的性能。图10是带宽改变时的实验结果。ODA-GA算法在最差情况下（带宽为10)的性能与局部执行算法时的性能相似。然而SGA、MMRO、DPGA和GACO 等其他算法的性能在最差情况下与局部执行算法相差较远，即使在较低的带宽下，ODA-GA算法相较对比算法也具有很好的优越性。表3给出了算法在DBAP应用中算法的决策时间情况。ODA-GA算法较其他算法获得了最优的适应度，其决策时间与其他算法相差不大。SGA的决策时间是所有算法中最小的，但其适应度是最差的。在GACO、MMRO和DPGA中，GACO在决策时间和适应度方面均是更优的。
+
+100---Local Optimal90 -ODA-GA DPGA  
+s/回书 80 70 GACO V V SGA605040 D30 中 --010 20 30 40 50 60 70 80 90 100迭代次数(a)迭代次数对执行时间的影响(a)Iteration number impacts on execution time3530 OptimalODA-GA DPGA  
+/上 GACO SGA25 MMRO20 菜 菜15 育1010 20 30 40 50 60 70 80 90 100迭代次数
+
+![](images/742cb3c86513ccef3954c1d097896e173a068aaeb6ef72bf30fef387f38f2519.jpg)
+
+![](images/03a374a15cc83d5ddb299d964a107c855f2b29b7664e5047c700faaac08bd400.jpg)  
+(b)迭代次数对执行能耗的影响   
+(b)Iteration number impacts on execution energy   
+图9运行DBAP应用时迭代次数对算法的影响 Fig.9Iteration number impacts on algorithms in DBAP   
+图10运行DBAP 应用时带宽对算法的影响 Fig.10Bandwidth impacts on algorthms in DBAP
+
+# 表3决策时间对比
+
+Table 3Decision time comparison   
+
+<html><body><table><tr><td>算法</td><td>决策时间/s</td></tr><tr><td>ODA-GA</td><td>0.47</td></tr><tr><td>DPGA</td><td>1.05</td></tr><tr><td>GACO</td><td>0.34</td></tr><tr><td>MMRO</td><td>0.4</td></tr><tr><td>SGA</td><td>0.3</td></tr></table></body></html>
+
+# 5 结束语
+
+为了解决多服务选择环境下的计算卸载决策问题，本文提出了一种遗传算法寻找计算卸载的最优应用分割决策解，算法通过修正的遗传操作减少了无效解的产生，以更合理的时间代价获得了最优可行解。应用现实的移动应用任务图进行了仿真实验评估了算法效率。结果表明，遗传算法在应用执行能耗、执行时间以及权重代价方面均优于对比算法。进一步的研究将在考虑移动设备的移动性和连通性及不同类型的云服务提供的环境下设计高效的卸载决策，在设备执行能耗与应用执行延时上取得更好的均衡。
+
+# 参考文献：
+
+[1]Li Bo,Liu Zhi,Pei Yijian,et al.Mobility prediction based opportunistic computational offloading for mobile device cloud[C]//Proc of IEEE International Conference on Computational Science & Engineering. 2014:786-792.   
+[2] Chen Min, Hao Yixue,Li Yong,et al. On the computation offloading at Ad hoccloudlet:architectureandservicemodes[J].IEEE Communications Magazine,2015,53(6):18-24.   
+[3]Li Yujin,Wang Wenye.Can mobile cloudlets support mobile applications?[C]//Proc of IEEE INFOCOM.2014:1060-1068.   
+[4]Park J S,Kim H, Jeong Y,et al. Two-phase grouping-based resource management for big data processing in mobile cloud computing [J]. International Journal of Communication Systems,2014，27 (6): 839-851.   
+[5]Chen Lienwu,Ho Yufan,Kuo Weiying,et al. Intelligent file transfer for smart handheld devices based on mobile cloud computing [J]. International Journal of Communication Systems,2015,30 (1): 43-53.   
+[6] Zhou Bowen，Dastjerdi A V,Calheiros R,et al．mCloud:a context-aware offloading framework for heterogeneous mobile cloud [J]. IEEE Trans on Services Computing,2017,23 (9): 1-12.   
+[7]Enzai $\ l { \textsc { N I M } }$ ，Tang Maolin.A taxonomy of computation offloading in mobile cloud computing [C]//Proc of IEEE International Conference on Mobile Cloud Computing.[S.l.]: IEEE Computer Society,2014: 19-28.   
+[8] Chen Xu.Decentralized computation offloading game for mobile cloud computing[J].IEEE Trans on Parallel&Distributed Systems,2014,26 (4):974-983.   
+[9]Liu Jun,Ahmed E,Shiraz M,Application partitioning algorithms in mobile cloud computing:taxonomy,review and future directions [J]. Journal ot Network and Computer Applications,20l5,48 (2): 99-11/.   
+[10] Jeong Y,Park JS,Park JH.An efficient authentication system of smart device using multi factors in mobile cloud service architecture [J]. International Journal of Communication Systems,2015,28 (4): 659-674.   
+[11] Niu Jianwei,Song Wenfang,Atiquzzaman M,et al. Bandwidth-adaptive partitioningfordistributed executionoptimization of mobile applications [J].Journal of Network & Computer Applications,2014, 37 (37): 334-347.   
+[12] Deng Shuiguang，Huang Longtao,，Taheri J，et al．Computation offloading for service workflow in mobile cloud computing [J]. IEEE Trans on Paralel& Distributed Systems,2015,26 (12): 3317-3329.   
+[13] SinhaK，KulkarniM.Techniquesforfine-grained,multi-site computation offloading [C]//Proc of the 11th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.2013: 184-194.   
+[14] Cuervo E,Balasubramanian A,Cho D K,et al.MAUI: making smartphones last longer with code offload [Cl// Proc of IEEE International Conference on Mobile Systems.2013: 49-62.   
+[15] Kosta S,Aucinas A,Hui Pan,et al. ThinkAir: dynamic resource allocation and parallel execution in the cloud for mobile code offloading [C]//Proc of IEEE INFOCOM.2013:21-29.   
+[16] Barbarossa S,Sardelitti S,Lorenzo P D.Computation offloading for mobile cloud computing based on wide cross-layer optimization [Cl// Proc of Future Network & Mobile Summit.2013:56-63.   
+[17] Zhang Weiwan,Wen Yonggang,Wu Dapeng Oliver. Collaborative task execution in mobile cloud computing under a stochastic wireless channel [J].IEEE Trans on Wireless Communications,2014,14(1): 81-93.   
+[18] Mahmoodi SE, Uma R N, Subbalakshmi K P. Optimal joint scheduling and cloud offloading for mobile applications [J].IEEE Trans on Cloud Computing,2016,4(9): 1-10.   
+[19] Liu Kaiyang,Peng Jun,Li Heng,et al. Multi-device task ofloading with time-constraints for energy efficiency in mobile cloud computing [J].Future Generation Computer Systems,2016,64 (3): 1-14.   
+[20] Wu Huijun,Huang Dijiang.Modeling multi-factor multi-site risk-based offloading for mobile cloud computing [C]//Proc of IEEE International Conference on Network & Service Management.2014: 230-235.   
+[21] Bhattcharya A,De P.Computation offloading from mobile devices: can edge devices perform better than the cloud?[C]// Proc of IEEE International Workshop on Adaptive Resource Management& Scheduling for Cloud Computing.2016: 1-11.   
+[22] Dasgupta K,MandalB,Dutta P,et al.A genetic algorithm (GA)based load balancing strategy for cloud computing [J]. Procedia Technology, 2013,10 (2):340-347.   
+[23] Cai Zhiming, Chen Chongcheng. Demand-driven task scheduling using 2D chromosome genetic algorithm in mobile cloud [C]// Proc of IEEE International Conference on Progress in Informatics & Computing. 2014: 539-545.

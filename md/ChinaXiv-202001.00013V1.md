@@ -1,0 +1,232 @@
+# 印度河上游流域冰川度日因子变化及其影响因素
+
+巫建逢1,²，张寅生1,³，高海峰1,3，邹小娟1²，Muhammad Atif Wazir1,3,4（1．中国科学院青藏高原研究所青藏高原环境变化与地表过程重点实验室,北京100101;2．中国科学院大学,北京100049；3．中国科学院青藏高原地球科学卓越创新中心,北京100101;4．巴基斯坦气象局，伊斯兰堡44000)
+
+摘要：当前,基于正积温的度日模型广泛应用于冰川消融研究中,该模型的核心参数是度日因子。根据印度河上游 Sachen、Gharko、Barpu 冰川2014—2016 年的物质平衡和气温实测资料,计算得到消融期内各冰川研究区的度日因子,并分析了度日因子的时空变化特征及影响因素。研究结果显示;Sachen、Gharko、Barpu冰川度日因子均值分别为 $2 . 8 3 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Large ~ \mathfrak { C } ~ } ^ { - 1 } \cdot 3 . 7 4 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Large ~ \mathfrak { C } ~ } ^ { - 1 } \cdot 3 . 9 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Large ~ \mathfrak { C } ~ } ^ { - 1 }$ ;各冰川度日因子皆随着海拔升高而递增,海拔递增率分别为 $0 . 0 0 3 ~ 7 ~ \mathrm { { \ m m } ~ \cdot ~ d ^ { - 1 } ~ \cdot ~ \mathbb { C } ~ ^ { - 1 } ~ \cdot ~ m ^ { - 1 } ~ } \operatorname { m } \cdot 0 . 0 0 7 ~ 4 ~ \mathrm { { \ m m } ~ \cdot ~ d ^ { - 1 } ~ \cdot ~ \mathbb { C } ~ ^ { - 1 } ~ \cdot ~ m ^ { - 1 } ~ } \operatorname { m } . 0 0 4 ~ 1 ~ \mathrm { { \ m m } ~ \cdot ~ d ^ { - 1 } ~ \cdot ~ \mathbb { C } ~ ^ { - 1 } ~ }$ ：$\mathrm { ~ m ~ } ^ { - 1 }$ ;对于同一观测点而言,度日因子不是一个常数,会随着时间的变化而改变,冰川度日因子随着年际变化呈增加的趋势;度日因子受表磷影响显著,度日因子整体上随着表碛厚度的增加而递减。然而表碛厚度低于 $2 \ \mathrm { c m }$ 时，表磷的覆盖作用促进了冰川的消融，表磷覆盖区冰川度日因子大于裸露区冰川;冰川朝向的变化对度日因子产生了一定的影响，面向阳坡的冰川度日因子随海拔递增率大于阴坡。
+
+关键词：冰川；度日因子；冰川消融量；印度河上游流域
+
+冰川是气候变化的指示剂[1-2],冰川变化能清晰地反映区域乃至全球气候变化趋势[3]。物质平衡是反应冰川响应气候变化的重要指标[4],因而估算和重建冰川物质平衡具有重要的科学意义，一直受到国内外众多研究者的关注(5-9]。冰川物质平衡是冰川积累和消融的代数和，其中冰川的消融变化特征更能反映冰川对气候变化的响应程度[10]。因此，全面开展冰川物质平衡变化尤其是冰川消融变化研究，对于合理利用冰川融水资源，揭示冰冻圈乃至全球气候系统变化特征具有重要的科学价值和社会经济意义。
+
+国内外已有的冰川物质平衡研究中，基于能量平衡的冰川消融模型和基于气温的统计模型应用广泛[1]。前者理论基础和模型结构较完善,能从物理机制的角度有效地揭示冰川消融过程[12]。然而能量平衡模型输入参数较多，野外观测易受基础条件限制，不易获取足够的观测数据，因此能量平衡模型只适用于观测条件较好的部分冰川观测区[13]。后者,通常被称为“度日模型”或“度日因子模型”，是基于气温与冰川消融的良好统计关系建立的经验统计模型[14-15]。度日模型的输入数据是气温,数据获取容易，计算简单，虽然不能揭示冰川物质平衡变化的物理机制，但在区域或流域尺度上，通常能获得与能量平衡模型类似的模拟效果。因此在冰川物质平衡变化、冰川融水估算等研究中，度日模型相对于能量平衡模型应用更为广泛[,15] 。
+
+印度河发源于青藏高原西部西藏阿里地区的冈底斯山，流经克什米尔进入巴基斯坦，于巴基斯坦卡拉奇人阿拉伯海。其上游流域地跨兴都库什一喀喇昆仑一喜马拉雅(HKH)三大著名山脉，是全球中低纬度冰川发育最为丰富的地区[16-17]。目前,该流域共发育11413条冰川，覆盖面积达15061.74$\mathrm { k m } ^ { 2 [ 1 8 ] }$ 。印度河上游的冰川积雪融化提供了巴基斯坦 $70 \%$ 的水力发电和 $80 \%$ 的生活用水[19],被称为巴基斯坦水塔(20-22]。进入20 世纪中期以来,兴都库什一喀喇昆仑一喜马拉雅一带大部分的冰川呈退缩趋势[17]。但是,冰川的退缩并没有显示出区域的一致性,流域内喀喇昆仑地区的有些冰川保持稳定或微弱前进,称之为“喀喇昆仑异常”[23]。这说明该地区冰川变化异于全球其他地区，学术界对于“喀喇昆仑异常”的认识存在争议，有待未来更多深入的研究。因此，选择印度河上游流域典型冰川进行水文气象观测，开展冰川物质平衡变化研究对于揭示印度河上游流域冰川变化与区域水量平衡、流域水资源分配乃至区域经济发展具有重要的意义。
+
+本文所研究的 Sachen、Gharko、Barpu 冰川都积累了丰富的水文气象观测资料。本文从各典型冰川的观测资料入手，分析冰川度日因子的空间特征及其影响因素，为未来在印度河上游流域开展冰川融水径流研究和冰川物质平衡估算提供度日因子参数。
+
+# 1研究区概况与数据方法
+
+# 1.1 研究区概况
+
+本研究选取印度河上游流域内的3个冰川开展研究工作，分别是Barpu冰川、Gharko冰川和Sachen冰川（图1）。近年来，中国科学院青藏高原研究所(ITPCAS)同巴基斯坦空间与大气层大气研究委员会（Space and Upper Atmosphere Research Commis-sion）、巴基斯坦气象局（PakistanMeteorologicalDe-partment）和巴基斯坦水电开发署（WaterandPowerDevelopmentAuthority)进行了紧密的合作并联合开展野外考察，对印度河上游流域选取的3个冰川径流和物质平衡进行了观测，获取了各监测冰川的气象水文数据。
+
+Sachen冰川 $3 5 . 3 2 9 ^ { \circ } \mathrm { N }$ ， $7 4 . 7 5 2 ^ { \circ } \mathrm { E }$ ）位于西喜马拉雅山脉北坡,印度河上游流域Astore 子流域境内。冰川朝向 $\mathrm { \Delta N E }$ 。冰川面积 $9 . 8 9 ~ \mathrm { k m } ^ { 2 }$ ,冰储量$0 . 8 8 ~ \mathrm { k m } ^ { 3 }$ ,全长 $8 . 5 ~ \mathrm { k m }$ ,平均宽度 $1 . 1 6 ~ \mathrm { k m }$ ，海拔$5 ~ 0 3 9 \sim 3 ~ 3 8 2 ~ \mathrm { ~ m ~ }$ ,冰川表面多被厚度不均的表磷覆盖，裸露区极少。
+
+Gharko冰川( $3 6 . 0 4 ^ { \circ } \mathrm { N }$ ， $7 4 . 6 7 ^ { \circ } \mathrm { E }$ )位于西喀喇昆仑山脉南坡,印度河上游流域Gilgit子流域境内。冰川朝向 $\operatorname { s w }$ 。冰川面积 $3 0 . 4 9 6 ~ \mathrm { k m } ^ { 2 }$ ,冰储量4.03$ { \mathrm { k m } } ^ { 3 }$ ,全长 $1 3 . 9 ~ \mathrm { k m }$ ,海拔 $6 ~ 9 0 6 \sim 2 ~ 9 5 3 ~ \mathrm { ~ m ~ }$ ,冰川自海拔 $4 ~ 1 0 0 \mathrm { ~ m ~ }$ 以下被厚度不均的表碛覆盖，冰川区可分为高海拔裸露冰川区和表磷覆盖冰川区。
+
+Barpu冰川( $3 5 . 3 2 9 ^ { \circ } \mathrm { N }$ ， $7 4 . 7 5 2 ^ { \circ } \mathrm { E }$ )位于西喀喇昆仑山脉北坡，印度河上游流域Hunza子流域境内。该冰川是由Sumair和Miar两支同朝北向的分支冰川在海拔 $3 ~ 3 0 0 ~ \mathrm { ~ m ~ }$ 附近汇流而成的复式山谷冰川。冰川朝向NE。冰川面积 $8 8 . 2 4 8 ~ \mathrm { k m } ^ { 2 }$ ,冰储量 $1 6 . 9 3 ~ \mathrm { k m } ^ { 3 }$ ，全长 $2 4 . 5 ~ \mathrm { k m }$ ,平均宽度 $3 . 6 ~ \mathrm { k m }$ ，海拔 $6 ~ 9 8 2 \sim 2 ~ 8 2 9 ~ \mathrm { m }$ 。Sumair冰川以及冰川汇流区上部较洁净，表硕很少，Miar冰川在海拔 $4 \ : 2 0 0 \mathrm { ~ m ~ }$ 以下至冰川汇流点区域内表碛较多， $4 \ 2 0 0 \ \mathrm { ~ m ~ }$ 以上部分较洁净。冰川汇流区在海拔 $3 ~ 1 0 0 \mathrm { ~ m ~ }$ 以下直到冰舌末端都被厚度不均的表磷覆盖。
+
+![](images/cf1a5b3ad010b299f4d43c8fb5f9bc7d8f80017a9fb958c5d96d9be93034a3d6.jpg)  
+图1研究区位置及花杆观测点分布示意图  
+Fig.1Location of the study area and the distribution of observational sighting rods
+
+# 1.2 数据来源
+
+3个冰川的消融数据来自2014—2016年的夏、秋季野外考察结果。受野外条件的限制，花杆主要布设在冰川消融区，冰川消融速率较快，翌年多数花杆完全出露，故所有花杆的布设和观测均在观测年内完成。花杆观测内容包括各布点花杆处的海拔、位置、表碛厚度、花杆出露长度。观测期内，所有花杆无积雪覆盖。排除观测期内倒塌或折断的花杆，2014—2016年观测期间内，Sachen冰川累计收获了29 根有效花杆，Gharko 冰川累计收获了42根有效花杆;2014—2015年对Barpu冰川的考察计划顺利，累计收获了26根有效花杆,2016年布设的花杆由于后期科考时间冲突，未能完成对花杆的后期再观测。本研究中的花杆观测信息详见表1、表2和表3。
+
+同期的气温数据来自研究区内架设的自动气象站（automaticweatherstation，AWS）。各自动气象站均在距下垫面 $2 . 0 \mathrm { ~ m ~ }$ 处安装有温度传感器，并进行气温数据的自动观测，观测间隔为 $3 0 \ \mathrm { m i n }$ 。冰川区的各消融点的气温根据冰川上的气温递减率插值获得。插值的基准为研究区内各冰川获得的AWS站点数据。由于缺乏2016年Sachen冰川消融期气温观测数据，2016年度的气温插值基准序列由上一年度同期观测序列填补。温度递减率利用站点气温与其对应的海拔高度，采用线性相关方法计算获得。其中Gharko 冰川和Barpu 冰川的温度递减率是根据研究区不同海拔点的AWS站点观测资料计算求得，分别为 $0 . ~ 9 2 ~ \mathrm { ^ { \circ } C } ~ \cdot ~ ( ~ 1 0 0 \mathrm { m } ) ^ { \mathrm { ~ - 1 ~ } } \cdot ~ 0 . ~ 7 5 ~ \mathrm { ^ { \circ } C } ~ \cdot$ 0 $\left( 1 0 0 \mathrm { { m } } \right) ^ { - 1 }$ 。Sachen冰川研究区内只架设了一台AWS气象站，无法直接计算冰川区温度递减率，其温度递减率是利用多个站点［包括Sachen冰川
+
+Tab.1Information of the sighting rods for observing the Gharko Glacier from 2014 to 2016   
+表22014—2016年Sachen冰川花杆观测点数据信息  
+
+<html><body><table><tr><td>观测年度</td><td>海拔/m</td><td>表硕厚度/cm</td><td>花杆数量</td><td>观测时段/(月－日)</td><td>有效观测次数</td></tr><tr><td>2014</td><td>3 346~3 502</td><td>7.8~30</td><td>11</td><td>06-06-07 -26</td><td>11</td></tr><tr><td>2015</td><td>3 325~3 549</td><td>0.7~16.5</td><td>10</td><td>05-30-08-25</td><td>10</td></tr><tr><td>2016</td><td>3 325~3 564</td><td>0~17</td><td>11</td><td>06-02-07 -26</td><td>11</td></tr><tr><td></td><td>3 338~3 843</td><td>0~8</td><td>10</td><td>07 -23—10-20</td><td>10</td></tr></table></body></html>
+
+表12014—2016年Gharko 冰川花杆观测点数据信息  
+表32014—2015年Barpu冰川花杆观测点数据信息  
+
+<html><body><table><tr><td>观测年度</td><td>海拔/m</td><td>表厚度/cm</td><td>花杆数量</td><td>观测时段/(月－日)</td><td>有效观测次数</td></tr><tr><td>2014</td><td>3 587~3 861</td><td>1~20</td><td>9</td><td>06 -16-07 -19</td><td>9</td></tr><tr><td></td><td></td><td></td><td></td><td>07 -19-08-17</td><td>9</td></tr><tr><td>2015</td><td>3 545~3 824</td><td>7~19</td><td>11</td><td>06-15—07-30</td><td>11</td></tr><tr><td></td><td></td><td></td><td></td><td>07-30- -09-15</td><td>11</td></tr><tr><td>2016</td><td>3 590~3854</td><td>2~18.5</td><td>9</td><td>06-30—08-11</td><td>9</td></tr><tr><td></td><td></td><td></td><td></td><td>08-11—10-28</td><td>8</td></tr></table></body></html>
+
+Tab.2Information of the sighting rods for observing the Sachen Glacier from 2014 to 2016   
+Tab.3Information of the sighting rods for observing the Barpu Glacier from 2014 to 2015   
+
+<html><body><table><tr><td>观测年度</td><td>海拔/m</td><td>花杆数量</td><td>表硕厚度/cm</td><td>观测时段/(月－日)</td><td>有效观测次数</td></tr><tr><td>2014</td><td>2 939~3 002</td><td>13</td><td>2~10.5</td><td>07 -11-08 -06</td><td>13</td></tr><tr><td>2015</td><td>2 938~3 057</td><td>8</td><td>0~18</td><td>06-08—06-13</td><td>8</td></tr><tr><td></td><td></td><td></td><td>2~23</td><td>06-13—08-16</td><td>4</td></tr><tr><td></td><td>3 352~3 388</td><td>4</td><td>0~4.5</td><td>06 -11—08 -17</td><td>4</td></tr><tr><td></td><td>3559</td><td>1</td><td>1</td><td>10 -02—11-07</td><td>1</td></tr></table></body></html>
+
+表4冰川观测区各自动气象站主要观测信息  
+Tab.4Main information of the automatic meteorological stations for observing glaciers   
+
+<html><body><table><tr><td>冰川</td><td>序号</td><td>数据时段</td><td>海拔</td><td>温度观测高度/m</td><td>数据采集器</td><td>数据采样频率/s</td><td>数据记录频率/min</td></tr><tr><td>Gharko</td><td>AWS1</td><td>2014-06—2016-07</td><td>3831</td><td>2</td><td>CR1000</td><td>10</td><td>30</td></tr><tr><td></td><td>AWS2</td><td>2014-08—2017 -08</td><td>4 070</td><td>2</td><td>CR1000</td><td>10</td><td>30</td></tr><tr><td> Sachen</td><td>AWS</td><td>2014 -06—2016 -03</td><td>3531</td><td>2</td><td>CR1000</td><td>10</td><td>30</td></tr><tr><td>Barpu</td><td>AWS1</td><td>2014-06—V2014-09</td><td>3200</td><td>2</td><td>CR1000</td><td>10</td><td>30</td></tr><tr><td></td><td>AWS2</td><td>2014 -06—2016 -08</td><td>2784</td><td>2</td><td>CR1000</td><td>10</td><td>30</td></tr></table></body></html>
+
+AWS气象站、邻近Sachen冰川的两个低海拔气象站Astore气象站： $( 2 ~ 1 6 7 ~ \mathrm { ~ m ~ } )$ 和Rama气象站（3140m）,其中Astore气象站和Rama气象站距离Sachen冰川直线距离约 $2 0 ~ \mathrm { k m } ^ { \cdot }$ ]气温数据与其对应海拔的线性关系，通过计算斜率获得，其温度递减率为$0 . 6 5 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ } 1 0 0 \mathrm { ~ m ~ ) ~ } ^ { - 1 }$ 。研究区内自动气象站布设信息详见表4。
+
+# 1.3度日因子计算方法
+
+度日模型是基于雪冰消融量与气温关系的统计模型，通过建立度日因子与正积温之间的数学函数关系推求冰川消融量(1,14-15]。根据定义,度日因子的基本表现形式如下：
+
+$$
+M = { \mathrm { P D D } } \times { \mathrm { D D F } }
+$$
+
+式中： $M$ 为某一时段冰川或雪的消融水当量， $\mathrm { m m } \mathrm { ~ w ~ }$ e.;DDF 为冰川或雪的度日因子, $\mathrm { m } \mathrm { m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { - 1 }$ PDD 为某一时段内的正积温,其一般由下式获取：
+
+$$
+\mathrm { P D D } = \sum _ { t = 1 } ^ { n } { H _ { t } } \cdot T _ { t }
+$$
+
+式中： $H _ { t }$ 为逻辑变量，当 $T _ { t } > 0$ 时， $H _ { t } = 1 . 0$ ,当 ${ T _ { t } } \mathrm { { \leqslant } } 0$ 时， $H _ { t } = 0 . 0 ; T _ { t }$ 为某天 $\mathbf { \rho } ( t )$ 的日平均气温 $\big ( \mathrm { ‰ }$ 。
+
+# 2结果与讨论
+
+气温是反映冰川热量综合状况的良好指标，且容易通过气象站数据与温度递减率插值获得。国内外众多研究结果表明，冰川消融与正积温之间存在良好的线性关系。度日因子正是在此基础上建立的。Braithwaite[24]在对格陵兰冰盖研究中发现,冰川消融量与正积温的相关系数达0.9以上；在国内，冰川工作者们对念青唐古拉山扎当冰川[25]、祁连山“七一"冰川[26]和唐古拉山冬克玛底冰川[27]的研究中，也发现了冰川消融与气温之间的良好趋势关系。然而，并不是所有观测研究结果都符合上述现象。张勇等["]分析在天山南坡科其卡尔巴契冰川的观测资料时发现：在裸冰区，冰川消融量与正积温的线性关系良好；但是在表硕覆盖区，其线性关系不甚理想。本研究中除Barpu冰川外，Sachen冰川和Ghar-ko冰川获得的冰川消融量与正积温之间的线性趋势关系也不是特别理想，这可能与观测资料的表碛厚度差异分布有关(图2）。由于野外考察期间布设的花杆皆位于冰川的消融区，而消融区覆盖着大量的表磷物，不同厚度表硕下的冰川消融量有较大的差异。其中Barpu冰川观测点的表碛厚度以小于 $1 0 \ \mathrm { c m }$ 厚度点为主（图3）。与Barpu 冰川相比，Sachen冰川和Gharko冰川的观测点表碛厚度总体偏大，表碛厚度介于 $1 0 \sim 2 0 ~ \mathrm { c m }$ 之间的观测结果较多。
+
+![](images/db0c39ec43777a8b98452306c9686bbfe744313e30f457ba15741a799cf98a4a.jpg)  
+图2Sachen 冰川、Gharko 冰川和 Barpu 冰川消融量与正积温的关系  
+Fig.2Relationship between the ablation amount and the cumulative positive temperature of the Sachen,Gharko and Barpu glaciers
+
+# 2.1度日因子随时间变化特征
+
+利用花杆记录的冰川消融数据、各自动气象站逐日气温数据和温度递减率推求各花杆监测点的冰川度日因子。需要特别说明的是，由于缺乏2016 年Sachen冰川消融期AWS气温观测数据，故2016年Sachen冰川各花杆观测点的消融期温度数据是基于2015年AWS记录的同期气温数据插值获得的。根据式(1)和式(2)计算并汇总度日因子数据结果（表5）。计算结果显示：Sachen冰川上的各观测时段布设的花杆点度日因子均值介于 $2 . 4 0 \sim 3 . 1 6$ $\mathrm { m } \mathrm { m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { } ^ { \circ } \mathrm { C } ^ { - 1 }$ ,总体均值 $2 . 8 3 \mathrm { \ m m } \cdot \mathrm { ~ d } ^ { - 1 } \cdot \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { - 1 }$ ：Gharko冰川上的各观测时段布设的花杆点度日因子均值介于 $2 . 9 7 \sim 5 . 4 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { \circ } C } ^ { - 1 }$ ,总体均值$3 . 7 4 ~ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { 9 } C } ^ { - 1 }$ ;Barpu 冰川上的各观测时段布设的花杆点度日因子均值介于 $2 . 7 5 \sim 7 . 0 9 ~ \mathrm { m m } \cdot$ （$\mathrm { d } ^ { - 1 } \cdot \mathcal { C } ^ { - 1 }$ ,总体均值 $3 . 9 1 \mathrm { \ m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Lambda } ^ { \circ } \mathrm { C } ^ { - 1 }$ 。度日因子在Gharko冰川和Sachen冰川变化幅度较大，而 Sachen冰川度日因子较为稳定。受冰面气象要素、水热条件以及地形因素的影响，冰川上的能量交换过程会随着时间变化而变化，因此，各冰川研究区度日因子在时间尺度上存在差异，具体表现为：同一花杆观测点的度日因子在不同时间上的计算结果不尽相同，例如2015年布设于Sachen冰川表面的11根花杆在6月15日至7月30日与7月30日至9月15日的2个连续观测时段内计算的度日因子值都存在不同程度的差异（图4），这说明冰川上单点的度日因子会随时间的变化而变化；随着观测时段的变化，基于各观测时段计算的度日因子均值出现明显的波动;各冰川度日因子的年平均值波动幅度较小，呈逐年增加的趋势。
+
+![](images/8cf345a34955b682e605c6d3f4b2fc42d8a48c69600848b874e60f87ae16fe3a.jpg)  
+图3Sachen 冰川、Gharko 冰川和Barpu 冰川度日因子随表碛厚度变化  
+Fig.3Variation of degree-day factors of the Sachen,Gharko and Barpu glaciers with the thickness of surface moraine
+
+表5Sachen冰川、Gharko 冰川和Barpu 冰川度日因子计算结果  
+Tab.5Calculated results of degree-day factors of the Sachen,Gharko and Barpu glaci   
+
+<html><body><table><tr><td>冰川</td><td>年份</td><td>观测时段/月－日</td><td>各花杆观测点度日因子计算结果</td><td>度日因子均值</td><td>年平均值</td><td>总体均值</td></tr><tr><td>Sachen</td><td>2014</td><td>06-16-07-19</td><td>1.14~4.70</td><td>3.16</td><td>2.78</td><td>2.83</td></tr><tr><td></td><td></td><td>07-19—08-17</td><td>1.09~5.73</td><td>2.40</td><td></td><td></td></tr><tr><td></td><td>2015</td><td>06-15-07 -30</td><td>0.89~4.22</td><td>2.98</td><td>2.81</td><td></td></tr><tr><td></td><td></td><td>07-30—09-15</td><td>1.77~3.89</td><td>2.88</td><td></td><td></td></tr><tr><td></td><td>2016</td><td>06-30—08-11</td><td>2.17~5.28</td><td>3.13</td><td>2.90</td><td></td></tr><tr><td></td><td></td><td>08 -11—10-28</td><td>1.84~3.45</td><td>2.63</td><td></td><td></td></tr><tr><td>Gharko</td><td>2014</td><td>06-03-07 -26</td><td>1.02~4.49</td><td>2.97</td><td>2.97</td><td>3.74</td></tr><tr><td></td><td>2015</td><td>05 -30-08 -25</td><td>2.74~4.16</td><td>3.51</td><td>3.51</td><td></td></tr><tr><td></td><td>2016</td><td>06-02—07 -26</td><td>1.54~5.63</td><td>3.22</td><td>4.26</td><td></td></tr><tr><td></td><td></td><td>07 -24—10-20</td><td>3.01~6.81</td><td>5.41</td><td></td><td></td></tr><tr><td>Barpu</td><td>2014</td><td>07-11—08-06</td><td>2.09 ~5.53</td><td>3.45</td><td>3.45</td><td>3.91</td></tr><tr><td></td><td>2015</td><td>06-08-06-13</td><td>1.34~6.22</td><td>4.45</td><td>4.27</td><td></td></tr><tr><td></td><td></td><td>06 -11—08-17</td><td>4.48~4.84</td><td>4.73</td><td></td><td></td></tr><tr><td></td><td></td><td>06-13—08 -16</td><td>2.08~3.43</td><td>2.75</td><td></td><td></td></tr><tr><td></td><td></td><td>10-02—11-07</td><td>7.09</td><td>7.09</td><td></td><td></td></tr></table></body></html>
+
+![](images/67b4594c1ef85008c36a567f133592e0ffcac174773351bb97c7969fbb4a6f40.jpg)  
+图42015年Sachen冰川布设的11根花杆不同观测时段冰川度日因子变化
+
+# 2.2度日因子的空间分布特征
+
+由于度日因子会随着时间的变化而变化，花杆观测点在不同观测时段下的度日因子计算结果反映了单点度日因子在时段内的均值水平，因而较长时段下计算的度日因子值更适合反映花杆观测点度日因子的实际“平均状态”。基于上述认识，笔者得到了各冰川研究区花杆观测点度日因子与海拔的对应关系，如图5所示（Sachen冰川各观测花杆存在两个连续时段的度日因子计算结果,由于前后观测时段时长较接近，故取其均值作为各花杆点度日因子值；Barpu冰川2015年布设的首批8根花杆只有4根获得了较长时段的观测记录，因此选取这4次观测结果与其他花杆点度日因子作为本节研究数据)。由图5可以看出，度日因子在空间上存在明显的差异，整体上度日因子存在随海拔高度增加而递增的趋势，这一变化趋势与学者们对青藏高原地区众多冰川的研究结果一致[10,14,8-29]。张勇等[29]分析了中国西部数十条冰川的空间变化特征，发现较大的度日因子通常出现在海拔较高的地区，尤其是冰川物质平衡线附近。这主要是冰川物质平衡线附近太阳辐射强烈，导致冰川消融强烈造成的[30-31]。此外,还有研究表明冰川物质平衡线附近存在所谓的低温效应，其气温较低，因而正积温量值较小[32]。本研究中涉及的各花杆观测点布设于冰川消融区，随着海拔的增加，愈靠近冰川物质平衡线，度日因子愈呈递增趋势;受区域差异影响，不同冰川的度日因子空间递增率不同。基于各观测冰川所有观测点的度日因子值，笔者建立了Sachen冰川、Gharko冰川和Barpu冰川度日因子与海拔间的拟合函数关系，分别为：
+
+![](images/ee0800ec57be63e643ebb1184a426ec0cc6225344543ae911d856a938d0d7c7c.jpg)  
+Fig.4Variation of degree-day factors of the Sachen glacier observed from 11 sighting rods during different observational periods in 2015   
+图5Sachen 冰川、Gharko 冰川和 Barpu 冰川度日因子随海拔变化  
+Fig.5Variation of degree-day factors of the Sachen, Gharko and Barpu glaciers with the altitude
+
+Sachen 冰川：
+
+Gharko 冰川：
+
+$$
+= 0 . 0 0 7 \ 4 H \ - \ 2 1 . 9 2 , ( R ^ { 2 } = 0 . 4 9 9 \ 9 )
+$$
+
+Barpu 冰川：
+
+DDF $\mathit { \check { \Psi } } = 0 . 0 0 4 \ 1 H \ - \ 8 . 9 1 4 \ 5 , ( R ^ { 2 } = 0 . 4 1 8 \ 7 )$ 式中：DDF为冰川度日因子 $\mathbf { \chi } _ { \mathrm { m m } } ^ { } \cdot \mathbf {  { d } } ^ { - 1 } \cdot \mathbf {  { \mathcal { C } } } ^ { - 1 } \big ) ; H$ 为海拔高度 $\mathrm { ( m ) }$ 。可由上式获得各海拔高度处的度日因子值，从而开展区域分布式冰川物质平衡和融水径流模拟研究。
+
+对比冰川朝向会发现，朝向为SW的Gharko冰川度日因子随海拔的递增率明显大于朝向同为NE的Barpu冰川和Sachen冰川,在高海拔区域Gharko冰川度日因子偏大,这与韩海东等[33]在科其喀儿冰川表碛区研究的不同坡向冰崖度日因子变化规律一致，说明度日因子变化受冰川朝向影响，面向阳坡的Gharko冰川在消融期接收的太阳辐射较大，冰川消融更强烈，同时较高海拔地区温度较低且该冰川温度递减率较大，正积温量值变化偏小造成面向阳坡的冰川度日因子随海拔递增率较大。
+
+对比青藏高原西部冰川度日因子的研究成果（表6），发现 Sachen 冰川、Gharko 冰川和Barpu 冰川度日因子均值与青藏高原西部冰川度日因子均值较接近。张勇等[29]根据冰川度日因子的均值，将中国西部冰川区分为3个区域：度日因子高值区$\mathrm { \Lambda ^ { ' } \geqslant 9 . 0 ~ m m ~ \bullet ~ d ^ { - 1 } ~ \bullet ~ \circ \mathrm { C } ^ { \mathrm { \Lambda ^ { - 1 } } } \mathrm { \Lambda ^ { ' } } }$ ，度日因子中值区（2号 $( 6 . 0 \sim 9 . 0 \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm {  ~ \cdot ~ } \mathrm {  ~ \cdot ~ } )$ ）和度日因子低值区（2 $( \leqslant 6 . 0 \mathrm { \ m m \cdot \ d ^ { - 1 } \cdot \mathrm { \ ^ { 9 } C \ ^ { - 1 } } } )$ ）。本文研究的 Sachen、Gharko和Barpu冰川所在的喀喇昆仑一西喜马拉雅山脉区属于其划分的度日因子低值区，各冰川研究区度日因子均值计算结果皆小于 $6 . \ 0 \ \mathrm { \ m m }$ ·$\mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { c } } ^ { - 1 }$ ,与其研究成果吻合。
+
+表6印度河上游流域及其周边地区冰川度日因子对比  
+Tab.6Compared results of the degre-day factors of glaciers in the upper Indus and its surrounding areas   
+
+<html><body><table><tr><td>冰川</td><td>度日因子/(mm·d-1·℃ -1)</td><td>观测时段</td><td>海拔/m</td><td>参考文献</td></tr><tr><td>巴托拉冰川</td><td>3.4</td><td>1975 -06-08</td><td>2 780</td><td>[29]</td></tr><tr><td>特拉木坎力冰川</td><td>5.9</td><td>1987 -06-25-09 -07</td><td>4 630</td><td>[29]</td></tr><tr><td></td><td>6.4</td><td>1987-06-24—09-07</td><td>4 650</td><td>[29]</td></tr><tr><td>切尔干布拉克冰川</td><td>2.6</td><td>1960-06-06—07 -30</td><td>4 750</td><td>[29]</td></tr><tr><td>洋布拉克冰川</td><td>4.3</td><td>1987-07-01—07-05</td><td>4800</td><td>[29]</td></tr><tr><td>煤矿冰川</td><td>3.0</td><td>1989-05-07—09 -07</td><td>4 840</td><td>[29]</td></tr><tr><td>哈龙冰川</td><td>4.7</td><td>1981-06-15—06-28</td><td>4 616</td><td>[29]</td></tr><tr><td></td><td>3.6</td><td>1987 -06-14—06 -27</td><td>4 900</td><td>[29]</td></tr><tr><td>Sachen 冰川</td><td>2.83</td><td>本研究野外考察时段</td><td>3 526~3 861</td><td>本研究</td></tr><tr><td>Barpu 冰川</td><td>3.91</td><td>本研究野外考察时段</td><td>2 938~3 576</td><td>本研究</td></tr><tr><td>Gharko 冰川</td><td>3.74</td><td>本研究野外考察时段</td><td>3 325-3 843</td><td>本研究</td></tr></table></body></html>
+
+# 2.3表磷对度日因子影响分析
+
+度日因子是冰川表面能量收支状况的宏观表现。根据不同研究者对度日因子的研究结果,度日因子受冰面状况影响 $\left\{ 1 0 , 1 2 , 1 4 , 2 8 - 2 9 , 3 3 - 3 4 \right]$ 。表厚度[10]、反照率[14]、地形[33]等自然因素的变化都会对冰川消融产生一定的影响，进而影响度日因子的变化。此外,花杆人工测量以及基于气象站插值生成的温度数据带来的不确定性也不容忽视[10]。换而言之，冰川消融点的度日因子计算结果受自然和人为因素综合影响。由于笔者在野外科考中仅仅获得了各花杆点的表碛厚度变化数据，除表硕因素外的其他影响因子在本文中皆无法开展深入探讨，故聚焦于表碛变化对度日因子的影响研究。
+
+冰川消融的主要能源是太阳辐射[35]。在热量收入中，耗于冰面消融的热量与冰面性质有关，对裸露冰面而言， $9 0 \%$ 以上的热量供冰面消融[36]。表的覆盖作用改变了冰川与大气之间的热量传输过程。与裸冰区相比，表碛的覆盖作用削弱了地面反射率，促进了地面辐射的吸收。而地面辐射只能先加热表碛覆盖层，然后再将热量传导至冰川表面。因此，表碛的存在会影响到达并用于冰面消融的耗热量。相关研究表明[37]：表碛厚度分布的异质性会加速或抑制冰川消融这一过程，从而深刻影响冰川消融过程，当表碛层厚度小于某一临界厚度时，其下覆冰川冰消融大于裸冰消融，即表碛覆盖加速冰川消融;随着表磷厚度的增大（大于临界值），表碛的阻热作用抑制了冰川消融。度日因子是观测时段内的冰川消融量与同期正积温的比值，不同厚度的表磷物对冰川消融的差异影响势必会导致度日因子的变化。
+
+由于不同观测时段获得的花杆观测消融量对应的正积温量差异较大，基于正积温计算的观测期日平均气温差异也显著，此外，在野外观测中布设的裸冰面花杆点较少，为了有效探讨裸冰及不同表碛厚度影响下的冰川消融量与度日因子的关系，笔者选择Barpu冰川2015年6月8—13日观测时段内布设8根花杆和Gharko冰川2016年6月2日至7月26日观测时段内布设11根花杆观测资料做初步探讨（图6a和图6b）。从图6a和图6b可以看出，表碛厚度低于 $2 \ \mathrm { c m }$ 时，表硕的覆盖作用促进了冰川的消融，表碛覆盖区冰川度日因子大于裸露区冰川的度日因子。在Sachen冰川由于野外花杆观测工作中没有布设裸冰面下的花杆点，故无法直接判明Sachen冰川上的表碛对度日因子影响的临界厚度值，本文不对Sachen冰川的表碛影响做深入探究。需要特别说明的是：冰川度日因子对应的表碛厚度是指观测时段的前后2次观测记录中获得的表硕厚度的平均值。然而，大多数花杆观测工作的间隔时间较长，受地表外力和冰川运动影响，冰面表磷物可能在冰川表面发生移动，表磷厚度变化存在一定的不确定性，故本研究中使用的平均表硕厚度的可靠度有待进一步商榷。基于以上认识，本文不对表磷物对冰川消融影响的临界厚度值做出结论。
+
+![](images/2cbfba28933ccf4b7efc268b7b597ee184f7c34d6852bab89efb898b20f34caf.jpg)  
+注：（a）Barpu冰川2015年6月8—13日观测时段布设的8根花杆观测点，（b）Gharko冰川2016年6月2日至7月26日观测时段布设的11根花杆观测点。  
+图6不同表碛厚度影响下冰川日平均消融速率、日平均气温和度日因子变化  
+Fig.6Variationof daily glacier meltrate,dailyaverage temperatureand degree-dayfactors with diferent thickness of surface moraine
+
+各冰川研究区表硕广布，厚度不一，主要集中在消融区。其中Sachen冰川表碛覆盖率最高，除少量海拔区域外,多被表碛覆盖;Gharko冰川次之,Barpu冰川最少。本文涉及的各冰川研究区消融点度日因子与冰川表面表硕厚度的对应关系（图3）。从图3可以看出，各冰川研究区度日因子与表硕厚度之间表现出比较一致的梯度变化，整体上度日因子随表碛厚度的增加而递减，仅表碛厚度小于 $2 \ \mathrm { c m }$ 的部分冰川区表现出相反的梯度变化（由于较小的表碛厚度在一定程度上促进了冰川消融，致使度日因子增加）。基于各观测冰川所有观测点的度日因子值，初步建立了Sachen 冰川、Gharko 冰川和Barpu 冰川度日因子与表碛厚度间的整体线性拟合函数关系，分别为：
+
+Sachen 冰川：$\mathrm { D D F ~ = ~ - ~ } 0 . 1 1 0 ~ 5 X ~ + ~ 4 . 0 0 9 ~ 9 , ( R ^ { 2 } = 0 . 2 8 6 ~ 5 )$
+
+Gharko 冰川：
+
+$$
+\mathrm { D D F ~ = ~ - ~ } 0 . 1 2 3 ~ 3 X ~ + ~ 4 . 8 9 1 ~ 7 , ( R ^ { 2 } = 0 . 4 5 3 ~ 4 )
+$$
+
+Barpu 冰川:
+
+$$
+\mathrm { D D F ~ = ~ - ~ } 0 . 1 8 2 X ~ + ~ 4 . 9 8 1 ~ 2 , ( R ^ { 2 } = 0 . 5 9 0 ~ 8 )
+$$
+
+式中：DDF 为冰川度日因子 $\mathrm { { ' } m m } \cdot \mathrm { { d } } ^ { - 1 } \cdot \mathrm { { 9 } C } ^ { - 1 }$ ） $X$ 为表碛厚度（cm）。可由上式估算不同表碛厚度下的度日因子值。
+
+# 3结语
+
+本研究利用印度河上游流域Sachen 冰川、Gharko 冰川和Barpu冰川实测花杆和自动气象站记录气温数据资料估算了各冰川研究区观测花杆点的度日因子值，分析了冰川度日因子的在时间和空间上的变化特征，初步探究了度日因子的影响因素，可以得到以下结论：
+
+（1）计算结果显示：2014—2016年Sachen冰川度日因子为 $0 . 8 9 \sim 5 . 7 3 \mathrm { \ m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Lambda } ^ { \circ } \mathrm { C } ^ { - 1 }$ ,各观测时段度日因子均值介于 $2 . 4 0 \sim 3 . 1 6 ~ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { \circ } C } ^ { - 1 }$ ，总体均值为 $2 . 8 3 \ : \mathrm { \ m m } \cdot \mathrm { \ d } ^ { - 1 } \cdot \mathrm { \ d { C } } ^ { - 1 }$ ; Gharko 冰川2014—2016年度日因子为 $1 . \ 0 2 \ \sim \ 6 . \ 8 1 \mathrm { m m } \ \cdot$ $\mathrm { d } ^ { - 1 } \cdot \mathrm { } ^ { \circ } \mathrm { C } ^ { - 1 }$ ,各观测时段度日因子均值介于2.97\~$5 . 4 1 \ \mathrm { \ m m } \ \cdot \ \mathrm { d } ^ { - 1 } \ \cdot \ \mathrm { \Lambda } ^ { \circ } \mathrm { C } ^ { \ - 1 }$ ，总体均值为 $3 . 7 4 \ \mathrm { \ m m }$ ：$\mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { c } } ^ { - 1 }$ ;2014—2015 年 Barpu 冰川上观测获得的度日因子介于 $1 . 3 4 \sim 7 . 0 9 \mathrm { \ m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { \circ } C ^ { - 1 } }$ ,各观测时段度日因子均值为 $2 . 7 5 \sim 7 . 0 9 \mathrm { \ m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { \Lambda } ^ { \circ } \mathrm { C } ^ { - 1 }$ 总体均值为 $3 . 9 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ^ { \circ } C } ^ { - 1 }$ L
+
+（2）在时间分布上，度日因子会随着时间变化而改变。不同观测时段计算的度日因子值存在明显差异，即使是同一观测点的度日因子在不同观测时段的计算结果也不同。但是度日因子年平均值年际变化幅度不大，呈逐年递增的趋势
+
+(3）在空间分布上，冰川度日因子空间变化主要体现为随海拔与地形因素的变化而变化。主要表现为：Sachen 冰川、Gharko 冰川和Barpu 冰川度日因子随海拔的上升而增大，随海拔的递增率分别为$0 . 0 0 3 \ 7 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { } ^ { \circ } \mathrm { C } ^ { - 1 } \circ 0 . 0 0 7 \ 4 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { } ^ { \circ } \mathrm { C } ^ { - 1 }$ 、$0 . 0 0 4 \ 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { ~ \mathcal { C } ~ } ^ { - 1 }$ ;冰川朝向对度日因子产生了一定的影响，朝向为SW的Gharko冰川度日因子随海拔递增率明显大于朝向同为NE的Barpu冰川和 Sachen 冰川。
+
+（4）度日因子受表磷变化影响显著。整体上度日因子随表硕厚度的增加而递减，在表碛厚度小于$2 \ \mathrm { c m }$ 时，表磷的覆盖作用促进了冰川的消融，表碛覆盖区冰川度日因子大于裸露区冰川的度日因子。随着表碛厚度的增加，表碛物逐渐削弱了冰面消融的耗热量，冰川度日因子总体上呈递减趋势。
+
+# 参考文献(References）：
+
+[1]黄晓然,包安明,郭浩,等.近20a中国天山东段典型冰川变化 及其气候响应[J].干旱区研究，2017,34（4)：870－880. [Huang Xiaoran,Bao Anming,Guo Hao,et al. Change of typical glaciers and its response to meteorological factors in the Eastern Tianshan Mountains in China in recent 2O years[J].Arid Zone Research,2017,34(4) :870-880.]   
+[2]李开明，陈世峰,康岭芬,等.中国大陆型冰川和海洋型冰川变 化比较分析——以天山乌鲁木齐河源1号冰川和玉龙雪山白 水河1号冰川为例[J].干旱区研究,2018,35（1)：12-19.［Li Kaiming,Chen Shifeng,Kang Lingfen,et al.Variation of continental glacier and temperate glacier in China:A case study of glacier No.1 at the headwaters of the Urumqi River and Baishui Glacier No.1[J].Arid Zone Research,2018,35(1):12-19.]   
+[3]Immerzeel WW,Van Beek L PH,Bierkens MFP.Climate change will affect the Asian water towers[J].Science,2010,328(5 984）： 1382 -1 385.   
+[4]丁永建,炳洪涛.近40 年来冰川物质平衡变化及对气候变化 的响应[J].冰川冻土,1996,18（增刊1)：23－32.[Ding Yongjian,Bing Hongtao.Variations of glacier mass balance and their response to climatic change[J]. Journal of Glaciology and Geocryology,1996,18（Suppl.1） :23 -32.]   
+[5]高永鹏,姚晓军,安丽娜,等.2000—2010 年祁连山冰川冰储量 变化[J].干旱区研究,2018,35（2）:325-333.[Gao Yongpeng,Yao Xiaojun,An Lina,et al.Change of ice volume in the Qilian Mountains during the period from 200O to 2010[J].Arid Zone Research,2018,35(2):325-333.]   
+[6]Braithwaite RJ,Zhang Yu. Sensitivity of mass balance of five Swiss glaciers to temperature changes assessed by tuning a degree-day model[J]. Journal of Glaciology,2000,46(152）:7 -14.   
+[7]Tron L,Niels R.Sensitivity to climate change of the mass balance of glaciers in southern Norway[J]. Journal of Glaciology,1993,39 (133):656-665.   
+[8]张健,何晓波,叶柏生,等.近期小冬克玛底冰川物质平衡变化 及其影响因素分析[J].冰川冻土，2013，35（2)：263－271. [Zhang Jian,He Xiaobo,Ye Baisheng,et al.Recent variation of mass balance of the Xiao Dongkemadi Glacier in Tanggula Range and its influencing factors[J]. Journal of Glaciology and Geocryology,2013,35(2):263-271.]   
+[9]王盛,蒲健辰,王宁练,等.祁连山七一冰川物质平衡及其对气 候变化的敏感性研究[J].冰川冻土,2011,33（6):1 214 -1 221.[Wang Sheng,Pu Jianchen,Wang Ninglian,et al. Study of mass balance and sensibility to climate change of Qiyi Glacier in Qilian Mountains〔J].Journal of Glaciologyand Geocryology, 2011,33(6):1 214-1 221.]   
+[10］张勇,刘时银,上官冬辉,等.天山南坡科其卡尔巴契冰川度日 因子变化特征研究[J].冰川冻土,2005,27（3）：337－343. [Zhang Yong,Liu Shiyin,Shangguan Donghui,et al. Studyof the positive degree-day factors on the Koxkar Baqi Glacier on the south slope of Tianshan Mountains[J]. Journal of Glaciologyand Geocryology,2005,27(3） :337-343.]   
+[11]卿文武,陈仁升,刘时银.冰川水文模型研究进展[J].水科学 进展,2008,19（6）:893-902.[Qing Wenwu,Chen Rensheng, Liu Shiyin.Progress in study of glacier hydrological model[J].Advances in Water Science,2008,19(6） :893-902.]   
+[12]Braithwaite R J,Olesen Ole I.A simple energy-balance model to calculate ice ablation at the margin of the Greenland Ice sheet[J]. Journal of Glaciology,1990,36(123）:222-228.   
+[13]Ding Baohong,Yang Kun,Yang Wei,etal. Development of a Water and enthalpy budget-based glacier mass balance model(WEB-GM) and its preliminary validation[J].Water Resources Research,2017, 53(4) :3 146 -3 178.   
+[14]Hock R. Temperature index melt modeling in mountain areas[J]. Journal of Hydrology,2003,282(1):104 -115.   
+[15]Hock R.Glacier melt:A review of processes and their modelling [J].Progress in Physical Geography,2005,29(3）:362-391.   
+[16]Hewitt K. Tributary glacier surges:An exceptional concentration at panmah glacier,Karakoram Himalaya[J]. Joumal of Glaciology, 2017,53(181) :181 -188.   
+[17]Bolch T,Kulkarni A,Kaab A,et al. The state and fate of Himalayan Glaciers[J].Science,2012,336(6 079）:310-314.   
+[18]Bajracharya SR,Shrestha B R.The Status of Glaciers in the Hindu Kush-Himalayan Region[ M]. Working Papers,2011.   
+[19]Minora U,Senese A,Bocchiola D,et al.A simple model to evaluate ice melt over theablation area of glaciers in the Central Karakoram National Park,Pakistan[J].Annals of Glaciology,2015,56（70）： 202 -216.   
+[20]BrunF,Berthier E,WagnonP,et al.A spatially resolved estimate of High Mountain Asia glacier mass balances from 2Ooo to 2016 [J].Nature Geoscience,2017,10:668-673.   
+[21]Khan A,Naz B S,Bowling L C.Separating snow,clean and debris covered ice in the upper Indus Basin,Hindukush-Karakoram-Himalayas,using landsat images between 1998 and 2002[J]. Journal of Hydrology,2015,521:46 -64.   
+[22]PritchardH.Asia'sglaciersarearegionallyimportantbufferagainst drought[J].Nature,2017,545(7 653）:169 -174.   
+[23]Hewitt K.The Karakoram anomaly?Glacier expansion and the ‘Elevation Effect,’Karakoram Himalaya[J].Mountain Research
+
+and Development,2005,25(4）:332-340.
+
+[24]Braithwaite R J.Positive degree-day factors for ablation on the Greenland ice sheet studied by energy-balance modelling[J]. Journal of Glaciology,1995,41(137） :153 -160.
+
+[25〕吴倩如,康世昌,高坛光,等.青藏高原纳木错流域扎当冰川度 日因子特征及其应用[J].冰川冻土,2010,32（5）:891－897. [Wu Qianru,Kang Shichang,Gao Tanguang,et al. The characteristics of the positive degree-day factors of the Zhadang Glacier on the Nyainqentanglha Range of Tibetan Plateau,and its application[J]. Journal of Glaciologyand Geocryology,2010,32(5）:891-897.]   
+[26]Bhakta KR,Ageta Y,Nakawo M,et al.Positive degree-day factors for ice ablation on four glaciers in the Nepalese Himalayas and Qinghai- Tibetan Plateau[J].Bulletin of Glaciological Research, 2003,20:7 - 14.   
+[27]谯程骏,何晓波,叶柏生.唐古拉山冬克玛底冰川雪冰度日因 子研究［J].冰川冻土，2010,32（2）：257－264.[Qiao Chengjun,He Xiaobo,Ye Baisheng.Study of the degree-day factors for snow and ice on the Dongkemadi Glacier,Tanggula Range[J]. Journal of Glaciology and Geocryology,2010,32(2）:257-264.]   
+[28]刘伟刚,效存德,刘景时,等.喜马拉雅山珠穆朗玛峰北坡绒布 冰川度日因子研究[J].冰川冻土,2014,36(5):1101-1110. [Liu Weigang,Xiao Cunde,Liu Jingshi,etal.Study of the degreeday factors on the Rongbuk Glacier in the Mt.Qomolangma,Central Himalayas[J]. Journal ofGlaciologyand Geocryology,2014,36 (5):1 101-1 110.]   
+[29）张勇,刘时银,丁永建.中国西部冰川度日因子的空间变化特 征[J].地理学报,2006,61（1）:89－98.［Zhang Yong,Liu Shiyin,Ding Yongjian.Spatial variationof degree-day factors on the observed glaciers in Western China[J].Acta Geographica Sinica, 2006,61(1) :89-98.]   
+[30]白重瑷.冰川与气候关系的研究[J].冰川冻土,1989,11（4）： 287-297.[Bai Chongyuan.A study of relationship between climate and mountain glaciers[J]. Journal of Glaciologyand Geocryology,1989,11(4) :287 -297.]   
+[31］张勇,刘时银,韩海东,等.天山南坡科其卡尔巴契冰川消融期 气候特征分析[J].冰川冻土,2004,26(5）：545-550.[Zhang Yong,Liu Shiyin,Han Haidong,et al.Characteristics of summer climate on Keqicar Glacier,South of Tianshan Mountain[J]. Journal of Glaciologyand Geocryology,2004,26(5）:545-550.]   
+[32]Jansson P,Hock R,Schneider T. The concept of glacier storage : A review[J]. Journal of Hydrology,2003,282(1）:116 -129.   
+[33］韩海东,王建,王欣,等.科其喀尔冰川表硕区冰崖消融的度日因 子研究〔J].冰川冻土,2009,31（4):620-627.[Han Haidong， Wang Jian,Wan Xin,etal.Studyof the positive degree-day factorof ice cliff ablation in debirs-coverd area of the Koxkar Glacier[J]. Journal of Glaciologyand Geocryology,2009,31（4）:620-627.]   
+[34] Singh P,Kumar N,Arora M. Degree-day factors for snow and ice for Dokriani Glacier,Garhwal Himalayas[J].Journal of Hydrology,2000,235(1) :1 -11.   
+[35]Ohmura A.Physical basis for the temperature-based melt-index
+
+method[J].Journal of Applied Meteorology,2001,40（4）:753- 761.
+
+[36]杨针娘.中国冰川水资源[M].兰州：甘肃科学技术出版社，1991:64-65.[Yang Zhenniang.Glacier Water Resources in China[M].Lanzhou:Gansu Science and Technology Press,1991:64-
+
+# 65.]
+
+[37]Zhang Y,Fujita K,Liu S,et al.Distribution of debris thickness and itseffect on ice melt at Hailuogou glacier,Southeastern Tibetan Plateau,using in situ surveys and ASTER imagery[J].Journal of Glaciology,2011,57(206):1 147 -1157.
+
+# Variation of Degree-day Factors and Its Affecting Factors in the Upper Indus Basin
+
+WU Jian-feng1,2, ZHANG Yin-sheng1,3， GAO Hai-feng1,3， ZOU Xiao-juan $^ { 1 , 2 } _ { . }$ （204号 Muhammad Atif Wazir1,3,4
+
+(1.Key Laboratoryof Tibetan Environment Changes and Land SurfaceProcesses,Instituteof Tibetan Plateau Research; Chinese Academy of Sciences,Beijing 100101,China; 2.Center for Excellence in Tibetan Plateau Earth Sciences,Chinese Academyof Sciences,Beijing 10oio1,China; 3. University of Chinese Academy of Sciences,Beijing 100049,China; 4．Pakistan Meteorological Department,Islamabad 44000)
+
+Abstract:Currently,the degree-day model based on the sum of daily mean temperature is widely used in glacier ablation research.The degree-day factors for ice ablation of theselected Sachen,Gharko and Barpu glaciers were calculated based on the data of massbalance and meteorology from 2014 to 2O16,andtheir characteristics including the spatiotemporal variation and affecting factors were analyzed.Theresults showed that the average degree-day factors of the Sachen,Gharko and Barpu glaciers were 2.83,3.74 and $3 . 9 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 } \cdot \mathrm { v } \mathrm { C } ^ { \ - 1 }$ respectively. The degreedayfactors of the glaciers increased with the increaseof elevation,andthe increase rates of degre-day factors of the Sachen,Gharko and Barpu glaciers were 0.OO3 7,0.O07 4 and $0 . 0 0 4 \mathrm { ~ 1 ~ m m ~ } \cdot \mathrm { ~ d ~ } ^ { - 1 } \cdot \mathrm { ~ \mathcal { C } ~ } ^ { - 1 }$ respectively. The degreedayfactor was not aconstant,itchanged with the time and was affected significantly bysurface moraine,and it was holistically decreased withthe increase of surface moraine thickness.The coverage of surface moraine thiner than 2 cm could promote the glacier ablation,and the degree-dayfactorin the glacier areacovered bysurface moraine was higher than that without surface moraine.Glacier aspect afected the degree-day factor to acertain extent,and the degree-day factor on the sunny slope was higher than that on the shady slope.
+
+Key words: glacier；degree-day factor；glacier ablation,Indus Basin

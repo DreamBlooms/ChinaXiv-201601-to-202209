@@ -1,0 +1,211 @@
+# 近60a巴尔喀什湖水量平衡变化及其影响因素
+
+王正12.3，黄粤1²，刘铁¹²，钟瑞森1²，昝婵娟123，王晓飞1.2.3(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐 830011；2.新疆维吾尔自治区遥感与地理信息系统应用重点实验室,新疆 乌鲁木齐830011；3.中国科学院大学,北京100049)
+
+摘要：本文基于水文观测和遥感监测数据,获取近60a巴尔喀什湖面积、水位变化信息,重建湖泊水量变化时间序列,探明巴尔喀什湖水量变化特征;依据湖泊水量收入(入湖径流、降水)支出(湖面蒸发)建立巴尔喀什湖水量平衡模型,分析巴尔喀什湖水量平衡要素变化特征,定量解析气候变化和人类活动对巴湖水量变化的影响。结果表明：(1）1961—2020年，巴尔喀什湖水量以1987年为拐点先急剧减少后波动增加;人湖径流变化与湖泊水量变化过程基本一致，年均入湖径流量约为 $1 4 . 0 4 \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ；湖区降水以 $0 . 2 8 ~ \mathrm { m m ^ { - } a ^ { - 1 } }$ 的速率波动增加；水体年均蒸发量约17.95$\mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ,其中，1987年最小为 $1 6 . 1 0 \mathrm { k m } ^ { 3 } , 2 0 0 8$ 年最高达 $2 0 . 3 0 \mathrm { k m } _ { \circ } ^ { 3 } ( 2 )$ 过去60a年，地下水与湖泊互为补充，其中20世纪70年代和80年代地下水补给湖泊水量较多，补给量约为 $1 . 9 1 \mathrm { k m } _ { \circ } ^ { 3 } \left( 3 \right)$ 在湖区尺度上，入湖流量与巴尔喀什湖水量显著相关,是影响湖泊水量变化的主导因素;在流域尺度上,气候波动对入湖流量长期变化的贡献率为$7 1 . 6 7 \%$ ，人类活动耗水的贡献率为 $2 8 . 3 3 \%$ ;1970—1985年卡普恰盖水库蓄水及周边耕地扩张对入湖水量锐减的贡献率达 $4 7 . 4 7 \%$ ，人类活动明显加剧了这一时期湖泊水位下降的进程。
+
+关键词：巴尔喀什湖；水量平衡；析因分析法；蒸发；水量；内陆河流域
+
+中亚地区幅员辽阔，山区一绿洲一荒漠一尾闾湖是内陆河流域水形成与水利用的典型系统。气候变化一方面影响了山区水资源的形成与赋存方式，另一方面也加剧了绿洲与荒漠水资源耗散的过程；加之人类活动影响日益深入，中亚内陆河流域水资源变化及时空差异显著，加剧了区域、流域尺度的水资源短缺，进一步诱发了中下游地区特别是尾闾湖区的生态问题[1-2]。巴尔喀什湖是中亚干旱区典型内陆湖，具有湖水面积大、相对较浅的特点，拥有丰富的湿地和水生动植物资源[3]。由于流域内气候变化和农业灌溉，特别是卡普恰盖水库蓄水等因素，导致巴尔喀什湖在20世纪70—80年代水量急剧减少，造成了湖面水位下降和三角洲生态环境恶化[4-5],引起了哈萨克斯坦国内和国际社会的广泛关注。
+
+近年来，一些学者聚焦湖泊水文特征进行分析[6-11],如水位、面积的变化等。研究表明,巴尔喀什湖水位变化呈现周期性的丰枯交替特征，1879—2015年，巴尔喀什湖水位在 $3 4 0 { \sim } 3 4 4 \mathrm { ~ m }$ 呈明显丰枯周期性变化,变化周期为 $4 8 { \sim } 5 2 ~ \mathrm { a } ^ { [ 6 - 7 ] }$ 。20世纪70年代至21世纪初巴尔喀什湖经历一次丰枯过程，其中水位在1970—1987年内持续降低[6-8],1987年到达最小值,相较1970年水位降低了约 $2 . 3 8 \mathrm { ~ m } ^ { [ 1 2 - 1 3 ] }$ ,面积随水位降低而萎缩了约 $7 9 0 \mathrm { k m } ^ { 2 }$ ,主要体现在乌泽纳拉尔水道南部和三角洲附近；1987年以后水位开始上升，2005年达到有观测资料以来的历史最高水位 $3 4 3 . 0 1 \mathrm { ~ m ~ }$ ,湖泊面积也得到相应的恢复。1970—1990年湖泊水量急剧减少至 $7 5 0 ~ \mathrm { k m } ^ { 3 }$ ,1990年后水量逐渐恢复。然而，湖泊水文特征演变是湖体水量平衡变化的外在反映，目前有关巴尔喀什湖湖泊水量平衡的研究较少[13-15]。邓铭江等[12]和龙爱华等[13]指出由于卡普恰盖水库修建和水库左岸灌区农业灌溉引水，70年代伊犁河干流入湖量较1936—1969年均值低了 $2 4 . 2 8 \%$ ;Nakayama等[16]基于遥感数据提取巴尔喀什湖面积变化，结合湖泊水位观测数据和气象数据，分析了1960—1991年巴尔喀什湖水量平衡变化。20世纪90年代以来，随着苏联解体，哈国大面积耕地畧荒，灌溉引水减少，入湖水量回升，巴尔喀什湖水位也逐渐回升，巴尔喀什湖进入新的水量平衡状态。然而，以往对于巴尔喀什湖水量平衡的研究工作多集中于2012年之前，缺乏对近期湖泊水量平衡要素变化及互动关系的分析，对于气候变化与人类活动影响缺少定量解析与评估。
+
+因此，本文选择位于哈萨克斯坦境内的巴尔喀什湖为典型研究区，基于1992—2020年Landsat TM/ETM+/OLI和Jason1/2/3数据，提取湖泊面积、水位变化信息，结合历史文献数据，计算湖泊水量变化；利用气象再分析数据集，综合多种方法计算湖区耗水；建立水量平衡模型，分析湖泊水量、蒸散发、降水、入湖径流、地下水等水量平衡要素变化特征，解析水量收入与支出间的互动关系；并从湖区和流域两个尺度，定量区分了气候变化与人类活动对湖泊水量变化的影响。研究结果可为巴尔喀什湖流域水资源管理与生态保护提供数据支持。
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+巴尔喀什湖(简称巴湖)是位于哈萨克斯坦共和国东南部的内陆湖，处于巴尔喀什湖一阿拉湖盆地(图1)。湖泊中部有一半岛一—萨雷耶西克半岛,半岛从南岸伸向北岸,将湖分为东西两部分[3]。湖区多年平均气温约 $6 . 2 ~ \mathrm { ^ { \circ } C }$ ,多年平均降水约160$\mathbf { m } \mathbf { m } ^ { [ 1 7 ] }$ 。巴尔喀什湖主要由5条河流汇入,分别是伊犁河、卡拉塔尔河、阿克苏河、列普瑟河和阿亚古兹河，其中阿亚古兹河于1986年不再有地表径流注入巴湖[12]。发源于天山山脉的伊犁河自东向西注入西湖，是巴湖的主要水源;而注入东湖的4条河流径流量远小于伊犁河，东湖蒸发量远远超过河流补给量，导致了湖泊东咸西淡的盐度分布。卡普恰盖水库位于伊犁河上，建成于1970年，水库设计正常水位 $4 8 5 \mathrm { ~ m ~ }$ ,水库面积 $1 8 4 7 ~ \mathrm { k m } ^ { 2 }$ ，总蓄水量28.14$ { \mathrm { k m } } ^ { 3 }$ ,是伊犁河一巴尔喀什湖流域最大的水库[18]
+
+# 1.2数据来源与处理
+
+湖泊面积和水位数据获取可分为两个阶段，分别是1961—1991年和1992—2020年，前一阶段数据来自Nakayama等[16]和龙爱华等[13]的研究,后一阶段来源于美国地质调查局(http://glovis.usgs.gov/)的遥感数据，包括1992—2020年LandsatTM/ETM $+ /$ OLI数据共203景，时相集中于5一10月，用于湖泊面积信息提取[19];1992—2020年湖泊水位信息由Ja-son1/2/3测高卫星数据产品获得。
+
+气象数据采用英国EastAnglia大学Climatic注：底图采用自然资源部标准地图制作，审图号为GS(2019)3266号，对底图边界无修改。下同。
+
+![](images/23dadda29789cde76df93ecbbe9a322565bb9aa63a7bf3ca71d8de68f53ee5b0.jpg)  
+图1研究区示意图  
+Fig.1Map of the study area
+
+Research Unit（CRU)发布的 CRU TS 4.05 数据(http://data.ceda.ac.uk/badc/cru/data/cru_ts/），空间分辨率为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ ,时段为1961—2020年，下载参量包括月均温、月降水量和月蒸散发量等。近年来，CRU高分辨率格点化数据集在全球得到了广泛应用，在中亚地区的准确性和适用性也得到了验证[17.20-21]。研究区气象站点稀疏，且湖体形状狭长，东、西湖区横跨 $6 0 5 ~ \mathrm { k m }$ ,单一站点数据无法反映气象要素在空间上的差异与变化，张玉杰等[2]将巴尔喀什湖周边气象站点数据与CRUTS $\mathrm { \ v } 4 . 0 5$ 气象数据进行了相关性分析，发现气温与降水量观测数据与CRUTS$\mathrm { \ v } 4 . 0 5$ 数据集之间呈显著正相关关系，相关系数达到0.965和0.951。因此，本文采用CRU网格数据提取湖区平均降水序列和蒸发数据产品表征湖面蒸发量，该蒸发产品基于Penman-Monteith公式计算得到[22-23]
+
+伊犁河干流卡依尔干、卡上171和乌斯热尔玛水文站年径流数据获取自Kezer和Matsuyama[7]、龙爱华等[13]、Dostay等[24]和Panyushkina等[25]的研究，其中卡依尔干和卡上171水文站年径流数据时段为1961一2000年，乌斯热尔玛水文站年径流数据和伊犁河三角洲耗水数据时段为1961—2011年，伊犁河三角洲耗水数据来源于谢蕾等[2的研究，时段为1961一2008年。卡拉塔尔河、阿克苏河、列普瑟河和阿亚古兹河的入湖流量数据来自国家冰川冻土沙漠科学数据中心（http://www.ncdc.ac.cn）[27],时段为1961—2000年。
+
+# 1.3研究方法
+
+1.3.1湖泊水量计算基于Nakayama等[6的研究获取1961—1992年巴湖水量数据序列，依据遥感提取的1993一2020年巴湖水位、面积时间序列估算水量变化[28]：
+
+$$
+\Delta \ V { = } 1 / 3 ( H _ { 1 } { - } H _ { 2 } ) { \times } ( A _ { 1 } { + } A _ { 2 } { + } \sqrt { A _ { 1 } { \times } A _ { 2 } } )
+$$
+
+式中： $\Delta V$ 为湖泊体积从湖面高程 $H _ { 1 }$ 和面积 $A _ { 1 }$ 变化到高程 $H _ { 2 }$ 和面积 $A _ { 2 }$ 。
+
+1.3.2径流时间序列插补和延长经分析发现，伊犁河年入湖流量与巴湖年水位变化量、湖泊年水量及其年变化量具有显著的 $( P { < } 0 . 0 5 )$ 相关关系。因此，本文采用向后逐步回归分析法[29],建立入湖流量与巴湖水量及水位的统计预测模型，插补2012—2020年入湖流量。因卡普恰盖水库在1970一1985年内蓄水，为消除人为因素的影响，选取1986—
+
+2011年（1986—2005年为拟合期，2006—2011年为验证期)时间段建立入湖径流的逐步回归方程，模拟得到2012—2020年入湖流量。总体来说模型表现良好，预测误差能够控制在GB/T22482—2008《水文情报预报规范》许可的 $2 0 \%$ 以内，能较好地模拟入湖径流的变化。此外，基于伊犁河入湖径流和谢蕾等的[26]三角洲耗水插补延长伊犁河三角洲入口处乌斯热尔玛水文站径流数据，利用降水径流相关法[3插补延长伊犁河干流上游卡依尔干站径流数据，通过上下游相关法3插补延长得到卡普恰盖入库卡上 $1 7 1 \ \mathrm { k m }$ 站径流数据。
+
+$$
+R _ { i } = - 2 . 1 4 + 6 . 2 1 C _ { { L i } } - 0 . 0 0 8 C _ { { \scriptscriptstyle W i } } + 0 . 0 1 3 W _ { _ i }
+$$
+
+$$
+Y _ { i } = 2 . 8 1 7 + 1 . 0 2 8 R _ { i }
+$$
+
+式中： $R _ { i }$ 为预测的伊犁河入湖流量 $\left( \mathrm { k m } ^ { 3 } \right)$ ;i是预测的年份，取2012—2020年； $C _ { L i }$ 为对应年份巴湖水位变化 ${ \mathrm { ( m ) } } ; C _ { W i }$ 为对应年的巴湖蓄水量变化 $( \mathrm { k m } ^ { 3 } ) ; Y _ { i }$ 为入巴湖总径流量 $\left( \mathrm { k m } ^ { 3 } \right)$ ； $\textstyle \boldsymbol { W _ { i } }$ 为湖泊储水量 $( \mathrm { k m } ^ { 3 } )$ ）
+
+1.3.3水量平衡模型某时段湖泊库容差与增（减）水的关系，可用水量平衡方程式[31-32]表示：
+
+$$
+\frac { \Delta V } { \Delta t } = A ( h ) ( P - E ) + Q _ { \mathrm { i n } } + Q _ { \mathrm { o u t } }
+$$
+
+式中： $\Delta t$ 为计算时段(年)； $\Delta V$ 为湖泊库容变化量$( \mathrm { m } ^ { 3 } ) { ; } A$ 为湖泊水面面积 $\left( \mathbf { m } ^ { 2 } \right)$ ,是水位 $( h )$ 的函数； $P$ 为研究区内降水量（ $( \mathbf { \bar { \rho } } _ { \mathrm { m m } } )$ ； $E$ 为研究区内总蒸发量$\left( \mathrm { m m } \right)$ ; $Q _ { \mathrm { i n } }$ 为入湖水量 $\left( \mathbf { m } ^ { 3 } \right)$ $Q _ { \mathrm { { o u t } } }$ 为出湖水量 $\left( \mathbf { m } ^ { 3 } \right)$ 。
+
+由于巴湖是伊犁河等入湖河流的尾闾湖，属于封闭湖泊，没有出水河流，因此水量平衡方程可表示为：
+
+$$
+\frac { \Delta V } { \Delta t } = A ( h ) ( P - E ) + Q _ { \mathrm { s i n f i f i } } + Q _ { \mathrm { s i n f } }
+$$
+
+$$
+Q _ { \mathfrak { H H } } = Q _ { \mathfrak { H H } \mathbb { T } \backslash \mathfrak { i } } - Q _ { \mathfrak { H H T } \backslash \mathfrak { i } }
+$$
+
+式中： $Q _ { \mathrm { i n } \acute { m } \acute { n } \acute { i } } \wedge$ 为河流入湖水量; $Q _ { \# \mathbb { F } \lambda , Q _ { \# \mathbb { F } \mathbb { H } } }$ 为地下水入湖水量、出湖水量，
+
+# 2结果与分析
+
+# 2.1巴尔喀什湖水储量变化
+
+过去 $6 0 \mathrm { ~ a ~ }$ ，巴尔喀什湖的水位和面积均呈现先下降后上升的趋势(图2a)，水位在 $3 4 0 . 6 { \sim } 3 4 3 . 5 \mathrm { ~ m }$ 之间波动，且以 $3 . 6 ~ \mathrm { m m \cdot a ^ { - 1 } }$ 的速率波动下降了 $0 . 1 8 \mathrm { ~ m ~ }$ （1970一1987年下降速率最大，为 $1 3 . 1 \ \mathrm { m m ^ { \cdot } a ^ { - 1 } }$ )，其中在1987年降到 $3 4 0 . 6 \mathrm { ~ m ~ }$ ，接近有观测资料以来的最低点，相对最高水位降低了 $2 . 4 \mathrm { ~ m ~ }$ ;之后开始波动增加，2004年后趋于稳定状态。面积在1970一1981年内显著减少，减少速率为 $3 8 . 4 6 ~ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ ; 1982—1998年减少速率减缓，为 $8 . 6 1 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ ，之后以21.54$\mathrm { k m } ^ { 2 } { \cdot } \mathrm { a } ^ { - 1 }$ 的速率波动增加，其中在1988年面积达到最小值 $1 6 7 3 2 . 1 8 ~ \mathrm { k m } ^ { 2 }$ ,相对最高面积减少了 $5 . 2 1 \%$ ；至2005年，湖体面积恢复至20世纪70年代水平，并在$1 7 2 5 8 . 9 3 \small { \sim } 1 7 5 6 2 . 6 7 \ \mathrm { k m } ^ { 2 }$ 之间呈波动变化。巴湖水量呈现先下降后上升的变化趋势，可分为四个阶段（图2b),第一阶段，1961—1969年,湖泊水量小幅波动，水位也呈现小幅波动，整体较为稳定；第二阶段,1970—1987年,湖泊水量急剧减少，平均每年减少 $2 2 . 3 0 \mathrm { k m } ^ { 3 }$ ,对应时期内水位下降了 $2 . 3 1 \mathrm { ~ m ~ }$ ；第三阶段，1988一2004年，水量开始迅速增加，年增长率为$1 1 . 0 2 \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ,水位抬升了 $1 . 7 2 \mathrm { m }$ ,其中1999年前增长率为 $0 . 5 2 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ ,1999年后增长率为 $3 8 . 0 3 ~ \mathrm { k m } ^ { 3 }$ ：$\mathbf { a } ^ { - 1 }$ ;第四阶段，2005—2020年，水量在 $1 0 6 1 . 5 1 \ \mathrm { k m } ^ { 3 }$ 上下小幅波动，约是20世纪60年代水储量的 $9 5 \%$ 左右。
+
+![](images/3de18d0681ae05afb50ee3eb2b7e88ec448445e2aa8bd888b1637a572bef19cb.jpg)
+
+# 2.2巴尔喀什湖水量平衡要素变化
+
+2.2.1 降水CRU降水数据显示，过去60a内湖区年均降水量为 $1 9 4 . 7 8 ~ \mathrm { m m ^ { . } a ^ { - 1 } }$ ,总体未出现显著的趋势性变化，与已有研究结果基本一致[17.33]（图3)；湖面降水多年平均值为 $3 . 3 5 \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ,1974年降水量最小为 $1 . 4 2 \ \mathrm { k m } ^ { 3 }$ ,1988年最大为 $4 . 7 3 ~ \mathrm { k m } ^ { 3 }$ 。其中，1961—1969年湖面降水比多年平均值高了0.16$ { \mathrm { k m } } ^ { 3 }$ ，而1970—1980年平均降水量为 $2 . 9 8 ~ \mathrm { k m } ^ { 3 }$ ，比多年平均值低了 $0 . 3 6 \mathrm { k m } ^ { 3 }$ ;1981—1997年内湖面降水呈现明显的波动减少趋势,多年平均值为 $3 . 1 9 \mathrm { k m } ^ { 3 }$ 1997年后湖面降水量波动较大且明显增加，但仍在多年平均值上下波动,多年平均降水量为 $3 . 5 6 \mathrm { k m } ^ { 3 }$ 。
+
+2.2.2入湖径流入湖径流是巴湖水量的主要收入来源，其中伊犁河入湖径流的变化和入湖总径流的变化规律基本一致(图4)。过去 $6 0 \mathrm { ~ a ~ }$ 入湖径流年际变化较大，年均入湖总径流约 $1 4 . 0 4 ~ \mathrm { k m } ^ { 3 }$ ,其中伊犁河年均人湖流量为 $1 0 . 8 4 ~ \mathrm { k m } ^ { 3 }$ ，而卡拉塔尔河、阿克苏河、列普瑟河和阿亚古兹河四河的多年平均入湖径流量约 $3 ~ \mathrm { k m } ^ { 3 }$ 。1960一1969年期间入湖总径流具有高位震荡的特点；1970年入湖径流骤减，1970—1986年保持显著减少趋势，最低值达 $8 . 9 0 \mathrm { k m } ^ { 3 }$ ；之后入湖径流逐渐增加，并于1999年达到了1970年之后的第一次峰值 $2 0 . 0 1 \ \mathrm { k m } ^ { 3 } , 2 0 0 0 { - - 2 0 0 4 }$ 年一直维持在高水平；但2004年后入湖径流相对前一时期波动减少。
+
+![](images/7a60c111a7aba8549bb46b6d42026b56315b25d75684c5de2f36a4d70da38c40.jpg)  
+Fig.2Variations in water level,area and water volume ofLake Balkhash from 1961 to 2020   
+图31961—2020年巴尔喀什湖区年降水量变化Fig.3Variations in annual precipitation atLake Balkhashfrom 1961 to 2020
+
+![](images/0bc7e6c2d742e6c470c7627c2be38d9bda707dff3d05f23088a84ef0c8149d58.jpg)  
+图21961—2020年巴尔喀什湖水位、面积(a)和水量(b)变化  
+图41961—2020年巴尔喀什湖入湖径流量变化 Fig.4Variations in the annual runoff ofLake Balkhash into the lake from1961to 2020
+
+2.2.3 蒸发耗水量湖面蒸发是主要的巴湖水量支出，过去60a内，随着湖区气温升高，湖面潜在蒸发量呈增加趋势；水体蒸发量呈波动增加的趋势，年际变化较大(图5)。其中1961—1980年，蒸发量以$0 . 0 3 \mathrm { ~ k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ 的速率波动增加;1981—1990年波动减少，减少速率为 $0 . 1 2 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ ,1987年蒸发量达到最小值 $1 6 . 1 ~ \mathrm { k m } ^ { 3 }$ ;1991—2010年内蒸发量以 $0 . 0 8 \mathrm { k m } ^ { 3 }$ ·$\mathbf { a } ^ { - 1 }$ 的速率波动增加，2008年蒸发量达到最大值20.3$ { \mathrm { k m } } ^ { 3 } , 2 0 1 0$ 年之后变化无明显趋势。在整个时段内，湖面蒸发量的增加趋势并不显著，这是由于蒸发受到多因素的影响，如湖面面积、湖区气温、风速、湿度、辐射、气压和相对湿度等，湖面蒸发量的变化是多因素共同作用的结果。总的来说在1961一2010年平均水体蒸发量为 $1 7 . 9 5 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ ，与龙爱华等[13]和Nakayama等[16的研究结果相近。
+
+2.2.4余项在湖泊水量稳定的情况下，湖泊水位和潜水水位是持平的，在丰水年时，入湖径流增多，湖泊水位上升超过潜水水位，湖泊水补充湖滨地下水，则余项为正；反之，枯水年时入湖径流较少，湖泊水位下降低于潜水水位，湖滨地下水渗入湖体补给巴尔喀什湖，则余项为负。因此缺少地下水监测数据的情况下，可将余项近似为地下水变化量。过去60a巴湖水量平衡要素变化如图6所示，结果表
+
+![](images/06db9d2b3a20c75185a86f570a9e754997debbcf98138ec3c3efb5d09c3262df.jpg)  
+图51961—2020年湖面蒸发量(a)和潜在蒸发量、湖区气温(b)的变化  
+Fig.5Variations of evaporation,potential evaporation,and temperature of Lake Balkhash from 196l to 2020   
+图61961—2020年巴尔喀什湖水量平衡变化Fig.6Variations in the water balance ofLake Balkhashfrom 1961 to 2020
+
+25□入湖径流■降水量■蒸发量地下水变化20/ 1510 山 中50目-51960s 1970s 1980s 1990s 2000s 2010s年代
+
+明水量平衡的余项范围在 $- 2 . 7 { \sim } 1 . 0 \mathrm { k m } ^ { 3 }$ 之间,其中在20世纪60年代和90年代为正，表明该时期内湖水向地下水补给，平均补给量最大，为 $0 . 9 3 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ 和$0 . 1 1 \ \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ;其他年代水量平衡余项均为负值，表明地下水补给湖泊，其中20世纪70年代和80年代平均地下水补给量较大，分别为 $2 . 6 1 ~ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ 和1.18$\mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ,这是由于卡普恰盖水库在1970—1984年蓄水导致伊犁河入巴尔喀什湖径流大幅减少(图4)，2000年后地下水补给量较少，平均为 $0 . 1 9 \mathrm { ~ k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ ，湖泊基本能够依靠地表径流和湖区降水维持自身的水量平衡。龙爱华等[3的研究表明，1960—2008年巴尔喀什湖地区主要以地下水补给湖泊为主;
+
+Petr等[34]估算巴尔喀什湖每年的地下水交换量约$1 . 6 \mathrm { k m } ^ { 3 }$ ，与本文结果相近。
+
+# 3讨论
+
+在巴尔喀什湖湖区，湖体的水面蒸发是水量耗散的主要途径，入湖径流是主要的水量收人，水量收入与支出间的互动关系决定了巴湖的历史演变进程与未来趋势。本研究引人相关分析和析因分析法从湖区和流域两个尺度探究各因子在不同时段对巴湖水量变化的影响。在湖区尺度上，气温、降水、入湖流量及湖面蒸发与湖泊水量相关性分析表明，入湖径流和巴湖水量的相关性较好，但不同时段巴湖水量和各要素间的相关系数差异较大（表1)。总的来说，过去60a巴湖水量与湖区气温和降水相关程度较低，而与入湖流量呈显著的正相关关系(通过 $9 5 \%$ 置信度检验），表明入湖流量是巴尔喀什湖水量变化的主导因素。
+
+从流域尺度上来看，气候变化和人类活动通过影响入湖流量间接驱动湖泊水量的变化。伊犁河
+
+# 表1各时段内巴湖水量与湖泊水量平衡要素的
+
+# Spearmanr相关系数
+
+Tab.1 Spearmanr correlation coefficients ofwater volumeandwaterbalanceelementsinLakeBalkhash during different periods   
+
+<html><body><table><tr><td>时段</td><td>湖区气温</td><td>湖区降水</td><td>入湖径流</td><td>湖面蒸发</td></tr><tr><td>1961—1969年</td><td>0.142</td><td>-0.034</td><td>0.078</td><td>-0.101</td></tr><tr><td>1970—1985年</td><td>-0.258</td><td>-0.187</td><td>0.436*</td><td>0.155</td></tr><tr><td>1986—2005年</td><td>-0.564**</td><td>-0.153</td><td>0.419*</td><td>0.468*</td></tr><tr><td>2006—2020年</td><td>-0.486</td><td>0.124</td><td>0.763**</td><td>0.029</td></tr></table></body></html>
+
+注：\*表示在0.05水平(双侧)上显著相关，\*\*表示在0.01水平（双侧)上显著相关。
+
+发源于天山西部哈萨克斯坦境内汗腾格里峰北坡，是巴尔喀什湖的主要来水源，伊犁河供水占比达$7 6 . 7 4 \%$ 。伊犁河属于跨境河流，主要受到上游山区来水、中游农业用水和下游三角洲耗水的影响。伊犁河流域主要产流区分布在我国境内，而消耗于哈萨克斯坦，在中国境内耗水量为 $3 . 9 6 ~ \mathrm { k m } ^ { 3 }$ ，仅占$2 4 \%$ ,哈萨克斯坦境内耗水量为 $1 2 . 4 \mathrm { k m } ^ { 3 }$ ，占流域总耗水量的 $7 6 \% ^ { [ 3 3 ] }$ 。袁晴雪和魏文寿[35]的研究认为1957一2009年天山山区气温呈上升趋势，降水呈增加趋势[增长率为 $8 . 8 \ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \big ]$ ;Duan等[36的研究表明，伊犁河从中国流入哈萨克斯坦的水量显著增加，其中1998—2013年的平均径流流出量较1931—2007年增加了 $2 6 . 5 \%$ ;上述多个研究均表明伊犁河上游的产水、来水均在增加，但近20a伊犁河入巴尔喀什湖的径流在减少，表明在哈萨克斯坦境内伊犁河被过多的消耗[37]。本研究基于CRU数据提取了伊犁河流域上游山区降水和气温变化序列(图7），结果表明1961一2020年，山区降水增加、气温持续升高；哈国境内伊犁河干流上游水文站径流也呈小幅增加趋势。
+
+为了定量区分气候变化和人类活动对伊犁河入湖径流的影响，统计了伊犁河干流卡上171站至乌斯热尔玛站区间的径流变化(表2)。1970—1985年由于卡普恰盖水库的蓄水导致卡上171至乌斯热尔玛站之间的区间耗水量剧增了 $2 . 3 9 \mathrm { k m } ^ { 3 }$ ，入三角洲流量较20世纪60年代减少了近 $3 . 5 0 \mathrm { k m } ^ { 3 }$ ;值得注意的是，这一时段恰好处于长期气候波动导致的枯水时期，上游来水量比20世纪60年代减少了约$0 . 9 5 \mathrm { k m } ^ { 3 }$ 。1986—1995年上游来水依然处于较低水平，干流区间耗水较1970—1985年期间减少了1.53$\mathrm { k m } ^ { 3 }$ ;1996一2020年，随着上游来水显著增加，虽然干流引水也相应小幅增加，但入三角洲流量整体高于1970—1995年水平
+
+![](images/014dcec2d839590f4e99fb88534c6e14fc0e568263f4231d8ab19b65229d812d.jpg)  
+图7伊犁河上游山区降水、气温(a)及净流量距平(b)变化  
+Fig.7Changes of precipitation and temperature (a) and runoff anomaly (b) in the upper of Il River
+
+Tab.2 Runoff variation along the main stream of the Ili River during different periods   
+
+<html><body><table><tr><td>时段</td><td>卡上171(卡库入库)</td><td>卡普恰盖(卡库出库)</td><td>乌斯热尔玛(三角洲入流)</td></tr><tr><td>1960—1969年</td><td>14.56</td><td>13.90</td><td>14.90</td></tr><tr><td>1970—1985年</td><td>13.77</td><td>11.72</td><td>11.55</td></tr><tr><td>1986—1995年</td><td>14.10</td><td>13.53</td><td>13.47</td></tr><tr><td>1996—2005年</td><td>16.44</td><td>15.73</td><td>15.29</td></tr><tr><td>2006—2020年</td><td>14.41</td><td>13.18</td><td>12.86</td></tr><tr><td>均值</td><td>14.56</td><td>13.61</td><td>13.61</td></tr><tr><td>1956—2000年[12]</td><td>14.36</td><td>13.49</td><td>13.35</td></tr></table></body></html>
+
+析因分析结果表明伊犁河人湖流量在不同时期受流域气候变化与人类活动的影响程度不同(表3)。卡普恰盖水库修建之前(1970年前)，人类活动影响较小，入湖流量主要受到气候变化影响。1970—1985年，上游来水量随气候波动进入减少期，平均减少约 $0 . 8 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ ;而卡普恰盖水库的蓄水和耕地扩张导致伊犁河干流耗水显著增加引起人湖流量锐减的主要原因，其贡献率为 $4 7 . 4 7 \%$ ；同期巴湖水位由 $3 4 3 . 0 \mathrm { m }$ 下降到 $3 4 0 . 6 \mathrm { ~ m ~ }$ ，下降速率达 $1 4 ~ \mathrm { c m } \cdot \mathrm { a } ^ { - 1 }$ ，高于19世纪以来记录到的自然下降速率 $9 \ \mathrm { c m } \cdot \mathrm { a } ^ { - 1 [ 2 1 ] }$ ，说明这时期人类活动明显加剧了湖泊水位下降的进程。20世纪90年代初苏联解体后，哈国境内耕地面积先因擢荒减少 $2 6 1 0 \mathrm { k m } ^ { 2 } , 2 0 0 0$ 年以来哈国政治稳定，农业规模又逐渐扩大，耕地面积显著增加至$2 1 1 0 0 \mathrm { k m } ^ { 2 [ 3 8 ] }$ ;卡普恰盖蒸发耗水和灌溉引水量仍维持较大水量，干流区间耗水对伊犁河入湖水量的影响相对于1970—1985年减弱，贡献率约 $3 0 \%$ 。综上所述，长期来看流域尺度的气候变化主导着伊犁河
+
+# 表3气候变化和人类活动对伊犁河入三角洲水量变化的贡献率
+
+表2各时段伊犁河干流卡上171至乌斯热尔玛站区间径流变化  
+Tab.3 Contribution rate of climate change and human activities to the change of IliRiver inflowin LakeBalkhash   
+
+<html><body><table><tr><td rowspan="2">时段</td><td colspan="3">贡献率/%</td></tr><tr><td>山区气温</td><td>山区降水</td><td>干流区间耗水</td></tr><tr><td>1961—1969年</td><td>46.38</td><td>53.06</td><td>0.55</td></tr><tr><td>1970—1985年</td><td>44.93</td><td>7.596</td><td>47.47</td></tr><tr><td>1986—2020年</td><td>4.91</td><td>64.89</td><td>30.18</td></tr><tr><td>1961—2020年</td><td>5.00</td><td>66.67</td><td>28.33</td></tr></table></body></html>
+
+入湖径流的周期性变化，贡献率为 $7 1 . 6 7 \%$ ,其中山区降水的贡献率高于升温效应。
+
+# 4结论
+
+本文在巴尔喀什湖1961—2020年的降水、蒸发、入湖流量及湖泊水量等要素数据的基础上，解析了巴尔喀什湖水量收入与支出间的互动关系，并从湖区和流域尺度定量分析了其影响因素。主要结论如下：
+
+(1)过去 $6 0 \mathrm { ~ a ~ }$ ，巴湖水量以1987年为拐点先急剧减少再波动增加，由1961年的 $1 1 5 7 . 1 8 ~ \mathrm { k m } ^ { 3 }$ ,减少至1987年的 $7 4 6 . 3 3 ~ \mathrm { k m } ^ { 3 }$ ，至2020年恢复至1028.27$ { \mathrm { k m } } ^ { 3 }$ ;入湖流量变化与巴湖水量变化过程基本一致，地表年均入湖径流量 $1 4 . 0 4 ~ \mathrm { k m } ^ { 3 }$ ;湖面年降水量为$3 . 3 5 \mathrm { k m } ^ { 3 }$ ,湖面蒸发变化和面积变化联系紧密，年均蒸发量为 $1 7 . 9 5 \mathrm { k m } ^ { 3 }$ O
+
+(2)过去 $6 0 \mathrm { ~ a ~ }$ 年地下水以“丰入枯出"的形式补给湖泊，地下水年均补给量 $0 . 5 2 \mathrm { k m } ^ { 3 }$ ,其中在20世纪70年代由于伊犁河上游来水减少和卡普恰盖水库的拦截蓄水导致地下水补给量增加到 $2 . 6 1 \ \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ ，而20世纪60年代和90年代湖泊补给地下水量分别为 $0 . 9 3 \mathrm { ~ k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ 和 $0 . 1 1 \ \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 } , 2$ 1世纪后地下水补给湖泊水量较少，年均补给量为 $0 . 1 9 \mathrm { k m } ^ { 3 }$ 。
+
+(3）湖区尺度上，入湖流量与巴尔喀什湖水量显著相关，是影响巴湖水量变化的主导因素；流域尺度上，气候变化是伊犁河入湖流量长期波动的主导因素，贡献率为 $7 1 . 6 7 \%$ ；1970年以来灌溉引水和水库蓄水等人类活动对巴尔喀什湖水量的影响增强，特别是1970—1985年卡普恰盖水库蓄水和蒸发对乌斯热尔玛站径流减少的贡献率达 $4 7 . 4 7 \%$ ，加剧了巴尔喀什湖水位下降的进程。
+
+参考文献(References）:   
+[1]阮宏威,于静洁.1992-2015年中亚五国土地覆盖与蒸散发变 化[J].地理学报,2019,74(7):1292-1304.[Ruan Hongwei,Yu Jingjie. Changes in land cover and evapotranspiration in the five Central Asian countries from 1992 to 2015[J].Acta Geographica Sinica,2019,74(7): 1292-1304.]   
+[2]吴淼,张小云,王丽贤,等.哈萨克斯坦巴尔喀什湖-阿拉湖流 域水资源及其开发利用[J].河海大学学报(自然科学版),2013, 41(1): 11-2O.[Wu Miao, Zhang Xiaoyun,Wang Lixian,et al. Water resources and their exploitation and utilization in Balkhash-Alakol Lake Basin in Kazakhstan[J]. Journal of Hohai University(Natural Sciences),2013,41(1): 11-20.]   
+[3]杨逸民,张曰知.中亚五国手册[M].乌鲁木齐:新疆科技卫生出 版社,1992.[Yang Yimin, Zhang Yuezhi. Handbook of the Five Central Asian Countries[M]. Urumqi: Xinjiang Science,Technology and Health Press,1992.]   
+[4]Mischke S, Zhang chengjun, Plessen B. Lake Balkhash (Kazakhstan: Recent human impact and natural variability in the last 2900A years[J]. Journal of Great Lakes Research,2019,46(2): 267-276.   
+[5]沈贝贝,吴敬禄,吉力力·阿不都外力,等.巴尔喀什湖流域水化 学和同位素空间分布及环境特征[J].环境科学,2020,41(1): 173-182.[Shen Beibei,Wu Jinglu,Jilili Abuduwaili,etal.Hydro chemical and isotopic characteristics of the Lake Balkhash catchment,Kazakhstan[J]. Environmental Science,2020,41(1):173- 182.]   
+[6]杨川德.巴尔喀什湖水位变化及其原因[J].干旱区地理,1993, 16(1): 36-42.[Yang Chuande. Changes in the water level of Lake Balkhash and its causes[J].Arid Land Geography,1993,16(1): 36-42.]   
+[7] KezerK,Matsuyama H.Decrease of river runoff in the Lake Balkhash basin in Central Asia[J]. Hydrological Processes,2006, 20(6): 1407-1423.   
+[8] 黄坤,马龙,吉力力·阿不都外力.基于小波分析的巴尔喀什湖 水位变化特征及其影响因素[J].干旱区研究,2020,37(3):570- 579.[Huang Kun, Ma Long, Jilili Abuduwaili.A study of the water level variation of lake balkhash: Its influencing factors based on wavelet analysis[J].Arid Zone Research,2020,37(3): 570-579.]   
+[9]臧菁菁,李国柱,宋开山,等.1975—2014年巴尔喀什湖水体面 积的变化[J].湿地科学,2016,14(3):368-375.[Zang Qingqing, Li Guozhu, Song Kaishan,et al. Change of water area of lake balkhash during 1975-2014[J]. Wetland Science,2016,14(3): 368- 375.]   
+[10] 孙佳龙,郭金运,常晓涛,等.利用卫星测高和重力的巴尔喀什 湖水位变化监测[J].武汉大学学报(信息科学版),2011,36(4): 401-406.[Sun Jialong,Guo Jinyun, Chang Xiaotao,et al. Balkhash lakelevel variations monitored with satellite altimeter and satellite gravity data[J]. Geomatics and Information Science of Wuhan University,2011,36(4): 401-406.]   
+[11] 郝建盛,张飞云,赵鑫,等.基于GRACE监测数据的伊犁——巴 尔喀什湖盆地水储量变化特征及影响因素[J.遥感技术与应 用,2017,32(5): 883-892.[Hao Jiansheng, Zhang Feiyun,Zhao Xin, et al.Spatiotemporal change of water storage and its influencing factors in the Ili-Balkhash basin based on GRACE data[JJ. Remote Sensing Technology and Application, 2017,32(5): 883-892.]   
+[12] 邓铭江,王志杰,王姣妍.巴尔喀什湖生态水位演变分析及调控 对策[J].水利学报,201,42(4): 403-413.[Deng Mingjiang,Wang Zhijie,Wang Jiaoyan,etal.Analysis of balkhash lake ecological water level evolvement and its regulation strategy[J]. Journal of Hydraulic Engineering,2011,42(4): 403-413.]   
+[13] 龙爱华,邓铭江,谢蕾,等.巴尔喀什湖水量平衡研究[J].冰川冻 土,2011,33(6): 1341-1352.[Long Aihua, Deng Mingjiang, Xie Lei,et al.A study of the water balance of lake balkhash[J]. Journal of Glaciology and Geocryology,2011,33(6): 1341-1352.]   
+[14]Kezer K, Matsuyama H, Nogami M.The interannual variability of water balance in Balkhash Lake basin, Central Asia[J]. The Japan Society of Hydrology and Water Resources,1996,9(3): 240-251.   
+[15] 王姣妍,龙爱华,邓铭江,等.巴尔喀什湖分湖水平衡及其影响 与优化保护研究[J].冰川冻土,2011,33(6):1353-1362.[Wang Jiaoyan,Long Aihua,Deng Mingjiang,et al.Water balances of east and west lakes balkhash and their optimization management [J].Journal of Glaciology and Geocryology，2011,33(6):1353- 1362.]   
+[16]Nakayama Y,Tanaka S,Sugimura T, et al.Analysis of hydrological changes inlakes of Asian arid zone by satelite data[J]. International Society for Optics and Photonics,1997,3222:201-210.   
+[17] 周文婧,夏自强,黄峰,等.巴尔喀什湖流域降水量及其年内分 配的变化特征[J].水电能源科学,2013,31(6):10-13.[Zhou Wenjing, Xia Ziqiang,Huang Feng,et al. Variation characteristics of precipitation and its annual distribution in Balkhash Lake Basin [J].Water Resources and Power,2013,31(6): 10-13.]   
+[18] 赵萍,夏自强,陈起川,等.卡普恰盖水库对伊犁河径流特征及 下游生态径流的影响[J].河海大学学报(自然科学版),2013,41 (6): 482-487.[Zhao Ping,Xia Ziqiang, Chen Qichuan, etal. Influence of kapchagay reservoir on runoff characteristics andecological runoff in lower reachesof Ii River[J]. Journal of Hohai University(Natural Sciences), 2013,41(6): 482-487.]   
+[19] 骆剑承,盛永伟,沈占锋,等.分步迭代的多光谱遥感水体信息 高精度自动提取[J].遥感学报,2009,13(4):610-615.[Luo Jiancheng,Sheng Yongwei,Shen Zhanfeng,etal.Step by step iterative multi-spectral remote sensing water information extraction with high precision [J]. National Remote Sensing Bulletin,2009,13(4): 610-615.]   
+[20] 段伟利,邹珊,陈亚宁,等.1879—2015年巴尔喀什湖水位变化 及其主要影响因素分析[J].地球科学进展,2021,36(9):950- 961.[Duan Weili, Zou Shan, Chen Yaning,et al. Analysis og water level changes in Lake Balkhasn and its main influencing factors during 1879-2015[J].Advances in Earth Science,2021,36 (9): 950-961.]   
+[21] 张玉杰,王宁练,杨雪雯,等.基于多源遥感数据的1970—2020 年巴尔喀什湖动态监测[J/OL].干旱区地理,2021,1-16.[2021- 10-09].htp: //kns.cnki.net/kcms/detail/65.1103.x.20211007.1456. 002.html.[Zhang Yujie,Wang Ninglian, Yang Wenwen,et al.Dynamic monitoring of Lake Balkhash from l970 to 202O based on multi- source remote sensing data[J/OL]. Arid Land Geography, 2021,1-16.[2021-10-09].]   
+[22]Moseki O, Murray H M, Kashe K. Crop water and irrigation requirements of Jatropha curcas L.in semi-arid conditions of Botswana: Applying the CROPWAT model[J]. Agricultural Water Management,2019,225: 105754.   
+[23]Schieder T M.Analysis of Water Use and Crop Allocation for the Khorezm Region in Uzbekistan Using an Integrated Hydrologiceconomic Model[D]. Bonn: Rheinische Friedrich- Wilhelms- Universitat Bonn, 2011.   
+[24]Dostay Z,Alimkulov S,Tursunova A,et al.Modern hydrological statusestuary of Ii River[J].Arabian Journal of Geosciences, 2012,6(8),3041-3047.   
+[25]Panyushkina I,Meko D,Macklin M,et al.Runoff variations in Lake Balkhash Basin,Central Asia,1779-2015,inferred from tree rings[J]. Climate Dynamics,2018,51(7-8): 3161-3177.   
+[26] 谢蕾,龙爱华,邓铭江,等.伊犁河下游三角洲生态耗水研究[J]. 冰川冻土,2011,33(6):1330-1340.[Xie Lei,Long Aihua, Deng Mingjiang,et al.Atudy on ecological water consumption in delta of the lower reachesof Ili River[J].Journal ofGlaciology and Geocryology,2011,33(6): 1330-1340.]   
+[27]沈永平.1912—2000年(部分年份)中亚地区哈萨克斯坦河流 逐月平均流量数据[DB/OL].国家冰川冻土沙漠科学数据中心, 2019.[Shen Yongping. Monthly average discharge data of Kazakhstan River in Central Asia from 1912 to 2OOO (partial years) [DB/ OLJ. National Cryosphere Desert Data Center,2019.]   
+[28]张国庆,XIE HongJie,姚檀栋,等.基于ICESat和Landsat的中国 十大湖泊水量平衡估算[J].科学通报,2013,58(26):2664- 2678.[Zhang Guoqing,Xie Hongjie,Yao Shandong,et al. Water balance estimates of ten greatest lakes in China using ICESat and Landsat data[J]. Chinese Science Bulletin,2013,58(26): 3815- 3829.]   
+[29] 游士兵,严研.逐步回归分析法及其应用[J].统计与决策,2017, 14(7): 31-35.[You Shibing,Yan Yan.Atepwise regression analysis and its application[J]. Statistics & Decision,2017,14(7): 31-35.]   
+[30] 史楷生.年径流系列的插补、延长方法[J].山西水利科技,2012, 42(3):11-12,15.[Shi Kaisheng. On interpolation and prolongation methods of annual runoff[J]. Shanxi Hydrotechnics,2012,42 (3): 11-12, 15.]   
+[31] 王志杰,李畅游,张生,等.基于水平衡模型的呼伦湖湖泊水量 变化[J].湖泊科学,2012,24(5): 667-674.[Wang Zhijie,Li Changyou, Zhang Sheng,et al. Hydrological changes in lake Hulun based on water balance model[J]. Journal of Lake Sciences, 2012,24(5): 667-674.]   
+[32] 昝婵娟,黄粤,李均力,等.1990—2019年咸海水量平衡及其影 响因素分析[J].湖泊科学,2021,33(4):1265-1275.[Zan Chanjuan,Huang Yue,Li Junli,et al.Analysis of water balance in aral sea and the influencing factors from 1990 to 2019[J]. Journal of Lake Sciences,2021,33(4): 1265-1275.]   
+[33] 王姣妍,路京选.伊犁河流域水资源开发利用的水文及生态效 应分析[J].自然资源学报,2009,24(7):1297-1307.[Wang Jiaoyan,Lu Jingxuan. Hydrological and ecological impacts of water resources development in the Ili river basin[J]. Journal of Natural Resources,2009,24(7): 1297-1307.]   
+[34]Petr T.Lake Balkhash,Kazakhstan[J]. Internation Journal of Salt Lake Research,1992,1(1): 21-46.   
+[35] 袁晴雪,魏文寿.中国天山山区近40a来的年气候变化[J].干旱 区研究,2006,23(1): 115-118.[Yuan Qingxue,Wen Wenshou. Annual climate change in the tianshan mountainous since recent 40 years[J]. Arid Zone Research,2006,23(1): 115-118.]   
+[36] Duan weili, Zou shan, Chen yaning,et al. Sustainable water management for cross-border resources: The Balkhash Lake Basin of Central Asia,1931-2015[J]. Journal of Cleaner Production,2020, 263:121614.   
+[37]王宙.巴尔喀什湖流域径流变化特征分析[J].水利科技与经济, 2012,18(5): 53-58.Wang Zhou.Characterizationofrunoff changes in the Lake Balkhash basin[J].Water Conservancy Science and Technology and Economy,2012,18(5): 53-58.]   
+[38] 刘婉如，陈春波,罗格平,等.巴尔喀什湖流域土地利用/覆被 变化过程与趋势[J].干旱区研究.2021,38(5):1452-1463.[Liu Wanru, Chen Chunbo,Luo Geping,et al. Change processes and trends of land use/cover in the Balkhash Lake basin[J].Arid Zone Research,2021,38(5): 1452-1463.]
+
+# Analyzing the water balance of Lake Balkhash and its influencing factors
+
+WANG Zheng2,，HUANG Yuel2，LIU Tie³2，ZHONG Ruisen12, ZAN Chanjuant 23,，WANG Xiaofef12.3 (1.State KeyLaboratoryofDesertandOasisEcology,Xinjiang InstituteofEcologyand Geography,ChineseAcademy of Sciences, Urumqi 830011, Xinjiang,China; 2. Key Laboratory of GIS &RS Application Xinjiang Uygur Autonomous Region,Urumqi 83Oo11, Xinjiang, China; 3.University of Chinese Academy of Sciences, Beijing 100049, Xinjiang, China)
+
+Abstract: Based on hydrological observations and remote-sensing monitoring data,time series and water level of Lake Balkhash in the past 6O years were extracted to reconstruct the Lake Balkhash water level-area-volume capacity curve.Additionally，we explored the characteristics of the Lake Precipitation volume changes, established a water balance model of Lake Balkhash based on water revenue (runoff,precipitation,and groundwater recharge)and expenditure (evaporation and infiltration),and quantitatively analyzed the changes in water balance elements in Lake Balkhash. The interaction between water revenue and expenditure and the influence mechanism was explored based on climate change and human activities over time.Results showed that (1)the water volume of Lake Balkhash decreased sharply at first and then fluctuated from 196l to 2020.The change process of runoff into the lake was consistent with the water volume,and the average annual runoff was approximately $1 4 . 0 4 ~ \mathrm { k m } ^ { 3 }$ . Precipitation in the lake area fluctuated at a rate of $0 . 2 8 ~ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ . Additionally, the average annual evaporation of the lake was about $1 7 . 9 5 ~ \mathrm { k m } ^ { 3 }$ ，with a minimum of $1 6 . 1 0 \ \mathrm { k m } ^ { 3 }$ in 1987 and a maximum of $2 0 . 3 0 \ \mathrm { k m } ^ { 3 }$ in 2008.Moreover,(2） the groundwater and the lake supplemented each other, groundwater recharge was relatively high (about $1 . 9 1 ~ \mathrm { k m } ^ { 3 }$ ）in the 1970s and 1980s.(3) At the lake scale, the change nrunoffinto the lake significantly correlated with the volume ofLake Balkhash and was the dominant factor of water volume change in Lake Balkhash.Furthermore,at the basin scale,the contribution of climate fluctuations to long-term changes in runoff to the lake was $71 . 6 7 \%$ , and the contribution of human activities was $2 8 . 3 3 \%$ . The contribution of Kapchagay reservoir establishment and the expansion of surrounding arable land from 1970 to 1985 to the sharp decline in water inflow to the lake was $47 . 4 7 \%$ . Finally, human activities have exacerbated the declining water levels in the lake during this period.
+
+Keywords: Lake Balkhash; water balance; factorial analysis; evaporation; water volume; inland river basin

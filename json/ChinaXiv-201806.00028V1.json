@@ -1,0 +1,473 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201803014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "缺氮胁迫下雨生红球藻虾青素积累过程中的基因组MSAP分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张克亚1，卿人韦1，柳科欢1，刘倩倩1，侯兴国1，兰利琼」(1．四川大学生命科学学院，生物资源与生态环境教育部重点实验室，四川省 成都市 610065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：虾青素具有多种生物学活性，雨生红球藻为天然虾青素的最佳来源，缺氮胁迫会导致雨生红球藻积累虾青素。本研究发现缺氮胁迫 $0 { \\sim } 7 2 \\mathrm { h }$ 期间，雨生红球藻生长速度减慢；而虾青素积累主要发生在缺氮处理 $1 2 { \\sim } 2 4 \\mathrm { h }$ 期间，随后积累速度减慢。同时，对缺氮胁迫 $0 \\mathrm { h }$ 、 $2 4 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 的雨生红球藻基因组DNA进行甲基化敏感扩增多态性（Methylation Sensitive Amplification Polymorphism，MSAP）分析，总共得到了 291个甲基化多态性位点，其中发生甲基化变化的位点在 $0 { \\sim } 2 4 \\mathrm { h }$ 和 $2 4 { \\sim } 7 2 \\mathrm { h }$ 分别占总位点的 $2 9 . 9 0 \\%$ 和 $5 3 . 9 5 \\%$ 。在缺氮胁迫 $2 4 \\mathrm { h }$ 处DNA半甲基化率最大（ $12 . 7 1 \\%$ ），全甲基化率最低（ $2 6 . 8 0 \\%$ ）；缺氮胁迫 $^ { 7 2 \\mathrm { ~ h ~ } }$ 处的DNA全甲基化率最高（ $2 8 . 5 2 \\%$ ），半甲基化率最低（ $1 . 7 2 \\%$ ），表明DNA甲基化调节方式的改变是虾青素积累过程中的一种重要调控模式。本研究为探索缺氮条件下雨生红球藻虾青素积累的分子机制提供了新的研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：藻类学，缺氮胁迫，雨生红球藻，虾青素，甲基化变化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genome MSAP analysis of Haematococcus pluvialis astaxanthin accumulation under nitrogen depletion stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ke-yal, QING Ren-wei',LIU Ke-huan],LIU Qian-qian1, HOU Xing-guol,LAN Li-qiong1 (1.College ofLife Sciences,Sichuan University,61oo65,Sichuan province, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Haematococcus pluvialis is the best resource for natural astaxanthin,which has multiple biological function. Nitrogen depletion can result in astaxanthin accumulation in Haematococcus pluvialis. Under nitrogen depletion stress,the growth rateof the algae was found to decrease duringOto72 hours,the accumulation of astaxanthin mainly occured during 12 to 24 hours,and then slowed down,however.MSAP analysis of stress time point at $0 \\mathrm { ~ h ~ }$ $2 4 \\mathrm { ~ h ~ }$ and $^ { 7 2 \\mathrm { ~ h ~ } }$ have got 291 methylation polymorphism loci. Among which $2 9 . 9 0 \\%$ of 0 h-to $2 4 \\mathrm { ~ h ~ }$ （204号 methylation loci and $5 3 . 9 5 \\%$ of $2 4 \\mathrm { ~ h ~ }$ -to-72 h methylation loci have changed.After 24 hours of nitrogen depletion stress,the DNA semi-methylation rate was the highest （ $12 . 7 1 \\%$ ),and the full-methylation rate has got the lowest （ $2 6 . 8 0 \\%$ ). On the contrary,full-methylation rate was the highest ( $2 8 . 5 2 \\%$ )and the semi-methylation rate was the lowest ( $1 . 7 2 \\%$ ）after $^ { 7 2 \\mathrm { ~ h ~ } }$ stress.DNA methylation changes appeared to be a vital regulation for astaxanthin accumulation.This research shed light on molecular mechanism of astaxanthin accumulation in Haematococcus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "pluvialis under nitrogen depletion stress. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: phycology, nitrogen depletion sress, Haematococcus pluvialis, astaxanthin, methylation change ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "雨生红球藻（Haematococcus pluvialis），是一种淡水生长的单细胞绿藻，属于绿藻门、绿藻纲、团藻目、红球藻科、红球藻属。在不利环境中（如强光、高盐、高温、营养盐缺乏)，会形成较大的厚壁孢子积累虾青素，并失去鞭毛成为不动细胞（段良飞等，2017）。虾青素（Astaxanthin）是一种属于叶黄素类（Xanthophylls）的类胡萝卜素，呈深粉红色，化学结构类似于 $\\beta$ -胡萝卜素（Martinez-Delgado etal，2017），广泛存在于虾、蟹、鱼以及某些鸟类的羽毛中，除了具有着色功能以外，还具有很强抗氧化、清除自由基等方面的能力，能保护细胞免受氧化损伤。虾青素有三种立体异构体，即：3S，3'S；3R，3'R；3R，3'S（分别为左旋、右旋、内消旋）（Ambati etal，2014），雨生红球藻（H.pluvialis）中多为（3S,3'S）异构体（Wan etal，2015）。Liu（Liu etal，2016）等人的体外和体内实验表明，虾青素的三种立体异构体的抗氧化活性依次为（3S，3'S） $>$ （3R，3'R） $>$ （3R，3'S）。目前自然界中天然的虾青素主要存在于某些藻类、酵母和细菌中，其中雨生红球藻（Haematococcuspluvialis）是天然虾青素的最佳来源（赵晓燕等，2016）。虾青素因其具有高效生物学活性，近年来已成为国内外研究人员和水产养殖、化妆品、医药、食品等众多行业的研究热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA 甲基化一般指 DNA 甲基转移酶（DNAmethyltransferase）将 S-腺苷甲硫氨酸（ $S .$ -adenosylmethionine，SAM）的甲基转移到DNA分子中胞嘧啶残基5位碳原子上，实现DNA 修饰的过程。基因组DNA甲基化能维持植物基因组功能稳定以帮助植物抵抗逆境（马浪浪等，2013），还能调节植物的正常生长发育、改变植物春化作用，促进开花，引起转基因沉默等（黄禄君等，2009）。甲基化敏感扩增多态性（Methylation-sensitive amplifiedpolymorphism，MSAP）是在扩增片段长度多态性（Amplified fragment length polymorphism,AFLP）的基础上发展而来（Vos etal，1995），利用同裂酶HpaII/MspI对识别序列CCGG的甲基化敏感性不同，产生不同的DNA 切割片段来揭示甲基化位点（李娜等，2012）。HpaII识别外部胞嘧啶半甲基化的位点，MspI识别内部胞嘧啶全甲基化的位点。外部胞嘧啶甲基化、内部胞嘧啶半或全甲基化不能被任一酶剪切，而未甲基化的CCGG序列可以被这两种酶剪切（Schulz etal，2013）。根据扩增出的不同谱带，便能有效区分出基因组DNA 甲基化状态。由于该法成本低，灵敏度高，不受基因组序列的限制，检测位点多并能同时分析多个样品（熊肖等，2017），目前已越来越多的应用于检测植物基因组DNA甲基化水平，在植物表观遗传学的研究中具有良好应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现今对雨生红球藻的研究致力于其高效培养（(Jaime Fabregas et al，2001；Zhang et al,2014；陈兴才等，2005），虾青素的积累和提取条件探究（段良飞等，2017；李小慧等，2015）以及虾青素积累结构——质体球滴的观察与质体球滴结构蛋白的基因克隆等（范勇等，2012），对缺氮条件下雨生红球藻虾青素积累过程中的基因组MSAP分析还未见报道，而这对揭示雨生红球藻在缺氮条件下虾青素积累的具体机制具有重大意义。本研究通过对雨生红球藻进行缺氮胁迫，结合MSAP法，探究雨生红球藻在缺氮胁迫下虾青素积累过程中的基因组甲基化水平变化，初步揭示雨生红球藻对缺氮胁迫的适应机制，对深入研究氮胁迫下雨生红球藻虾青素积累机理提供一定的理论基础，丰富藻类在表观遗传学上的研究内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "雨生红球藻（Haematococcus pluvialis）藻种由四川大学生命科学学院藻类实验室培养",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 培养方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用BBM培养基，培养方式为通气（ $\\mathrm { \\nabla { N _ { \\ z ^ { \\prime } } } }$ ： $\\mathrm { V } _ { \\mathrm { C O 2 } } { = } 9 8$ ：2），温度（ $2 2 { \\pm } 1$ ）℃，光暗周期 $1 2 \\mathrm { h }$ ： $1 2 \\mathrm { h }$ ，光照强度 $9 0 0 { \\sim } 1 1 0 0 \\mathrm { L x }$ 。正式实验前先进行预培养：将处于对数生长期的藻按1：10比例接种，通气培养至对数生长期。正式实验时按1：6的比例转至1L三角瓶内培养，待培养至对数生长期后，将藻离心收集，藻泥全部转移至等体积新配的BBM缺氮培养基中进行胁迫，对照组用BBM全培养基进行正常培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 细胞计数及显微观察 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将对照组和缺氮胁迫组的雨生红球藻在培养至 $\\boldsymbol { 0 } \\mathrm { h }$ 、12 h、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 时分别取样，用显微镜观察藻细胞形态并用血球计数板测定藻细胞数目。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 虾青素含量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将对照组和缺氮胁迫组的雨生红球藻在培养至 $\\boldsymbol { 0 } \\mathrm { h }$ 、12h、 $2 4 \\mathrm { h }$ 、 $4 8 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 时分别取样，进行虾青素含量的测定，方法采用改进的美国Cyanotech公司的方法（(ZHANGW&J,1995):藻泥于 $1 5 ~ \\mathrm { m l }$ 离心管中烘干后，加入 $\\mathrm { ~ 1 ~ g ~ }$ 石英砂和5 mLDMSO, $4 5 { \\sim } 5 0 \\ \\mathrm { ~ \\textdegree C }$ 水浴 $3 0 \\mathrm { m i n }$ 此期间每 $5 \\mathrm { m i n }$ 涡旋振荡 $3 0 \\mathrm { ~ s ~ }$ （共计6次）。 $3 5 0 0 \\mathrm { r p m }$ 下离心 $5 \\mathrm { m i n }$ 使细胞物质沉淀，上清转入 $1 0 \\mathrm { m L }$ 容量瓶中。再往离心管中加入 $1 \\mathrm { m L }$ 丙酮，涡旋振荡 $3 0 ~ \\mathrm { s }$ 。 $3 5 0 0 \\mathrm { r p m }$ 下离心 $5 \\mathrm { m i n }$ 使细胞物质沉淀，将上清液转入 $1 0 ~ \\mathrm { m L }$ 容量瓶中，丙酮至少抽提3次，直到上清液基本无色（吸光值小于0.05）。用丙酮定容至 $1 0 ~ \\mathrm { m L }$ ，将容量瓶上下颠倒混匀，吸取 ${ 5 } { \\sim } 1 0 ~ \\mathrm { m L }$ 放入离心管， $3 5 0 0 \\mathrm { r p m }$ 下离心 $5 \\mathrm { m i n }$ 以除去前面步骤中带入的颗粒物。 $4 7 4 \\mathrm { n m }$ 波长下测定最大吸光值（丙酮作空白对照）。若吸光值大于1.25，则必须对样品用丙酮稀释后再测，稀释倍数一般为1： $5 { \\sim } 1$ ：10。每组3个重复。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类胡萝卜素质量 ${ \\begin{array} { r l } { ( \\mathbf { m g } ) } & { = \\ { \\frac { \\overleftrightarrow { \\mathbf { E } } _ { \\Re } + { \\lVert \\mathbf { B } _ { \\times } \\mathbf { \\tilde { x } } \\mathbf { i } \\cdot \\mathbf { i } \\rVert } { \\overleftrightarrow { \\mathbf { E } } } \\ \\mathbf { A } } { 2 5 0 } } \\times 1 0 \\ \\mathbf { m L } } \\end{array} }$ （丙酮） $\\times$ 稀释倍数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { ( \\% ) } & { = \\frac { \\frac { \\partial + } { \\partial \\exp } \\bigoplus \\frac { \\exp } { \\partial \\exp } \\ | \\setminus \\frac { \\arg } { \\sqrt { 2 \\pi } } \\mathrm { ~ ( \\log ) ~ } } { \\sharp \\sharp \\underline { { \\Pi } } \\bigoplus \\sqrt { \\mathbb { K } } \\sharp } \\ \\mathrm { ~ ( \\log ) ~ } \\ \\times 8 0 \\% } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 MSAP分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将缺氮处理 $^ { 0 \\mathrm { h } }$ （胁迫处理前，作为对照）、 $2 4 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 的雨生红球藻用植物 Ezup 柱式植物基因组DNA 试剂盒（生工生物工程（上海）股份有限公司）进行DNA 提取，参照 Xiong（L.Z.Xiong etal，1999）等人的方法改进后进行酶切、连接、预扩增、选择性扩增及电泳。MSAP分析所采用的接头序列、预扩增引物及选择性扩增引物序列见表1。接头和引物均由生工生物工程（上海）股份有限公司合成，限制性内切酶购自Thermo公司， $\\mathrm { T } _ { 4 }$ DNA Ligase购自TaKaRa公司，PCRmix购自成都擎科梓熙生物技术有限公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1MSAP所用的接头及引物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3db33cbbe9c64ead273a99b8fcc470675b06f873872a0e67d7c1ea950b295ff.jpg",
+        "table_caption": [
+            "Table 1Adapter and primer for MSAP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">引物类型</td><td colspan=\"2\">引物名称以及序列（5'—3')</td></tr><tr><td>Name and seqences of primer（5’—3')</td><td></td></tr><tr><td>Types of primer</td><td>EcoRI（E)</td><td>HpaII/MspI(H/M)</td></tr><tr><td>接头</td><td>EA1:CTCGTAGACTGCGTACC</td><td>H/M1:GATCATGAGTCCTGCT</td></tr><tr><td>Adapter</td><td>EA2: AATTGGTACGCAGTCTAC</td><td>H/M2: CGAGCAGGACTCATGA</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/df1df541df68236643819d5af03246e552879b492ba307b145da566457fc6377.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">预扩增引物 Pre-amplified primer</td><td>E0:GACTGCGTACCAATTC</td><td>H/M0:ATCATGAGTCCTGCTCGG</td></tr><tr><td></td><td>No.1</td><td>GACTGCGTACCAATTCAGC</td><td>ATCATGAGTCCTGCTCGGTCCA</td></tr><tr><td></td><td>No.2</td><td>GACTGCGTACCAATTCAGA</td><td>ATCATGAGTCCTGCTCGGTAG</td></tr><tr><td></td><td>No.3</td><td>GACTGCGTACCAATTCAAA</td><td>ATCATGAGTCCTGCTCGGTAG</td></tr><tr><td>选择性扩增引物对 组合</td><td>No.4</td><td>GACTGCGTACCAATTCAAC</td><td>ATCATGAGTCCTGCTCGGTAG</td></tr><tr><td>Selective</td><td>No.5</td><td>GACTGCGTACCAATTCAAG</td><td>ATCATGAGTCCTGCTCGGTAG</td></tr><tr><td></td><td>No.6</td><td>GACTGCGTACCAATTCAAT</td><td>ATCATGAGTCCTGCTCGGTAG</td></tr><tr><td>amplification primer</td><td>No.7</td><td>GACTGCGTACCAATTCAAC</td><td>ATCATGAGTCCTGCTCGGTAC</td></tr><tr><td>groups</td><td>No.8</td><td>GACTGCGTACCAATTCAAG</td><td>ATCATGAGTCCTGCTCGGTAC</td></tr><tr><td></td><td>No.9</td><td>GACTGCGTACCAATTCAGC</td><td>ATCATGAGTCCTGCTCGGTAC</td></tr><tr><td></td><td>No.10</td><td>GACTGCGTACCAATTCAAC</td><td>ATCATGAGTCCTGCTCGGTTG</td></tr><tr><td></td><td>No.11</td><td>GACTGCGTACCAATTCAGG</td><td>ATCATGAGTCCTGCTCGGTTG</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对提取的DNA分别进行EcoRI/HpaII和EcoRI/MspI2个组合酶切。酶切总反应体系 20μL:EcoRI $1 0 \\mathrm { U }$ ，HpaI& MspI $1 0 \\mathrm { U }$ ， $1 0 \\times$ Tango buffer $4 \\mu \\mathrm { L }$ ，DNA样品 $3 0 0 ~ \\mathrm { { n g } }$ ， $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 补足 $2 0 ~ \\mu \\mathrm { L }$ 。 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 酶切 $1 0 \\mathrm { { h } }$ 。酶切反应结束后，用 $1 \\%$ 琼脂糖凝胶电泳检测酶切效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接着进行接头连接，连接体系总共 $2 0 ~ \\mu \\mathrm { L }$ ：酶切产物 $1 0 \\mu \\mathrm { L }$ ，EcoRI接头（ $5 \\mu \\mathrm { M }$ ）与HpaII（MspI）接头（ ${ 1 5 0 \\mu \\mathrm { M } } \\times$ 各 $1 ~ \\mu \\mathrm { L }$ ， $\\mathrm { T } _ { 4 }$ DNA Ligase $3 5 0 \\mathrm { U }$ ， $1 0 { \\times } \\mathrm { T } _ { 4 }$ DNA Ligase buffer $2 \\mu \\mathrm { L }$ $\\mathrm { \\ d d H _ { 2 } O }$ 补足 $2 0 \\mu \\mathrm { L }$ 。 $1 6 ~ \\mathrm { { ^ circ C } }$ 连接 $1 2 \\mathrm { h }$ 。连接产物稀释10倍后进行预扩增。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预扩增体系 $2 0 ~ \\mu \\mathrm { L }$ ，包括：预扩增引物E0（ $1 0 ~ \\mu \\mathrm { M }$ ） $1 \\mu \\mathrm { L }$ ，H/M0（ $1 0 ~ \\mu \\ M$ ） $1 ~ \\mu \\mathrm { L }$ ，连接产物10倍稀释液 ${ 5 \\mu \\mathrm { L } }$ ， $2 { \\times } \\mathrm { P C R } \\operatorname* { m i x } 1 0 { \\mu } \\mathrm { L }$ ，双蒸水补足 $2 0 ~ \\mu \\mathrm { L }$ 。扩增程序为： $9 4 ~ \\mathrm { ^ { \\circ } C } \\mathrm { ~ 4 ~ m i n }$ $9 4 \\mathrm { ~ \\textcircled ~ { ~ C ~ } ~ } 3 0 \\mathrm { ~ s ~ }$ ， $5 6 ~ \\mathrm { ~ \\textdegree ~ } 1 \\operatorname* { m i n }$ ， $7 2  { \\mathrm { ~ \\circ ~ } } _ { \\mathrm { { C } } }  { \\mathrm { ~ 1 ~ m i n } }$ ，30个循环； $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $1 0 \\mathrm { m i n }$ 。反应结束后，将预扩增产物稀释30倍进行选择性扩增。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择性扩增体系 $2 0 ~ \\mu \\mathrm { L }$ ，包括：EcoRI选择性扩增引物（ $1 0 ~ \\mu \\mathrm { M }$ ） $1 ~ \\mu \\mathrm { L }$ ， $\\mathrm { H } / \\mathrm { M }$ 选择性扩增引物 $( 1 0 \\mu \\mathrm { M } ) 1 \\mu \\mathrm { L }$ ，预扩增产物30倍稀释液 ${ 5 \\mu \\mathrm { L } }$ ， $2 { \\times } \\mathrm { P C R }$ mix $1 0 ~ \\mu \\mathrm { L }$ ， $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 补足 $2 0 ~ \\mu \\mathrm { L }$ 。扩增程序为： $9 4  { \\mathrm { ~ \\circ ~ } } _ { \\mathsf { C } }  { \\mathrm { ~ 5 ~ } }  { \\operatorname* { m i n } }$ ， $9 4 \\mathrm { ~ \\textcircled ~ { ~ C ~ } ~ } 3 0 \\mathrm { ~ s ~ }$ ， $6 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ （每个循环降 $0 . 7 \\mathrm { ~ \\textdegree ~ }$ ） $3 0 ~ \\mathrm { s }$ ， $7 2 ~ \\mathrm { ^ { \\circ } C } ~ 1 \\operatorname* { m i n }$ 共12个循环； $9 4 \\mathrm { ~ \\textcircled ~ { ~ C ~ } ~ } 3 0 \\mathrm { ~ s ~ }$ ， $5 6 ~ \\mathrm { ~ \\textdegree ~ } 3 0 ~ \\mathrm { s }$ ， $7 2 ~ \\mathrm { ^ { \\circ } C } \\mathrm { ~ 1 ~ m i n }$ ，共 25个循环； $7 2 \\ \\mathrm { ~ \\textbar { ~ C ~ } ~ } 1 0 \\ \\mathrm { m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择性扩增产物经变性后，取 $2 { \\sim } 3 ~ \\mu \\mathrm { L }$ 进行 $6 \\%$ 变性聚丙烯酰胺凝胶电泳，电泳结束后按高东（高东，etal.,2009）等人的方法改进后进行银染，拍照并保存结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电泳结果中，将HpaII/MspI 酶切产物的条带进行标记，无条带记为 ${ } ^ { 6 6 } 0 ^ { 3 }$ ，有条带记为“1”。统计各类型条带数目，用Excel2013进行结果分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1雨生红球藻在缺氮胁迫下的生长曲线与显微观察",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 雨生红球藻生长曲线",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "雨生红球藻在正常BBM和缺氮的BBM培养基中的生长情况如图1所示。整个实验过程中，正常培养条件的雨生红球藻生长状态良好，至 $7 2 \\mathrm { { h } }$ 时，细胞数量已达 $1 3 . 2 \\times 1 0 ^ { 5 }$ 个： $\\mathrm { m l ^ { - 1 } }$ 而缺氮组的红球藻生长速度下降，生长减慢，到实验末期（ $^ { 7 2 \\mathrm { { h } } }$ ），细胞数量为 $8 . 7 { \\times } 1 0 ^ { 5 }$ 个： $\\mathrm { m } \\mathrm { l } ^ { - 1 }$ ，为对照组的0.66 倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f06b8f49e155372b91555027ff256fe46d2efe5d6cfe69f2a8e83fc0b73b68ac.jpg",
+        "img_caption": [
+            "图1雨生红球藻生长曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2显微观察 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "显微观察结果如图2：在缺氮胁迫 $0 { \\sim } 2 4 \\mathrm { h }$ 期间，雨生红球藻外观变化不显著，至胁迫$7 2 \\mathrm { { h } }$ 时，显微镜下可见藻细胞内部已有少量虾青素积累。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/89a9d2a2cbbbfaff7256ea4c796fa226b032a6b335e77e4f6b4ca3cea326d911.jpg",
+        "img_caption": [
+            "Fig.1 Growth curve of Haematococcus pluvialis ",
+            "图2雨生红球藻缺氮胁迫下显微观察"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A：缺氮 $^ { 0 \\mathrm { h } }$ ；B：缺氮 $1 2 \\mathrm { h }$ ；C：缺氮 $2 4 \\mathrm { h }$ ；D：缺氮 $4 8 \\mathrm { { h } }$ ；E：缺氮 $7 2 \\mathrm { { h } }$ after O h (A), $1 2 \\mathrm { { h } }$ (B), 24 h (C), $4 8 \\mathrm { { h } }$ (D) and 72 h (E) of nitrogen depletion stress ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 虾青素含量变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3为缺氮过程中虾青素含量变化情况，可见，缺氮组的虾青素含量在整个实验过程中一直高于对照组，且缺氮组在胁迫处理 $1 2 { \\sim } 2 4 \\mathrm { h }$ 阶段虾青素含量急剧增加，为增幅最大的时段。此后，缺氮组虾青素含量上升减慢，趋于稳定。缺氮组与对照组在胁迫 $7 2 \\mathrm { { h } }$ 处差异最大，此时缺氮组的虾青素含量为对照组的2.64倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf2ffd4dac8b7572a315ef542f3e63cc935df670eb09042d832ebc81e3d8cfbd.jpg",
+        "img_caption": [
+            "Fig.2Microscopy of Haematococcus pluvialis "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 缺氮胁迫下雨生红球藻DNA的MSAP分析将11对选择性扩增引物组合进行雨生红球藻DNA样品的全基因组甲基化分析（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea6049b536328ff37c41355ffb7c7c696ced5f4e8b7fed493ff2f62d4f88448e.jpg",
+        "img_caption": [
+            "图3虾青素含量变化 Fig. 3Changes of astaxanthin "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M：marker。图中以6个泳道为一组，组内引物组合相同，并且组内前三个样为缺氮处理0、24、 $7 2 \\mathrm { { h } }$ 的雨生红球藻细胞DNA 通过HpaII酶切，后三个样为缺氮处理0、24、 $7 2 \\mathrm { { h } }$ 的藻细胞DNA经MspI酶切。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M: marker. Every 6 lanes were divided into one group.In each group,the first 3 samples were HpaII digested genome DNA from stress period $0 \\mathrm { ~ h ~ }$ ， $2 4 \\mathrm { ~ h ~ }$ and $^ { 7 2 \\mathrm { ~ h ~ } }$ ，respectively;and the last 3 samples were MspI digested genome DNA from stress period $0 \\mathrm { h }$ ， $2 4 \\mathrm { h }$ and $7 2 \\mathrm { { h } }$ ,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4缺氮处理0、24、72h雨生红球藻DNA的MSAP图谱示例",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 MSAP bands for Haematococcus pluvialis treated with nitrogen depletion environment for 0, 24 and 72 hours. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对上述胶图进行条带统计后，按Tang 等人（Tang etal，2014）的方法进行分类，具体分类如表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2fe8dca3c4ba19c0e8ad482a4dbea33619a981611829be14bf6468d9d80f6c1.jpg",
+        "table_caption": [
+            "表2甲基化条带情况分类",
+            "Table2Methylationbandclassification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>HpaII</td><td>MspI</td><td>类型（Types）</td></tr><tr><td>1</td><td>1</td><td>I(非甲基化）</td></tr><tr><td>0</td><td>1</td><td>（No methylation ） II (全甲基化） （Full-methylation）</td></tr><tr><td>1</td><td>0</td><td>III (半甲基化）</td></tr><tr><td>0</td><td>0</td><td>（Semi-methylation） IV（超甲基化）</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "甲基化一共有四种类型：（I）HpaII 和 MspI 处均有带（1，1），即没有发生甲基化；（II）HpaII 无带，MspI 有带（0，1），为内部胞嘧啶发生全甲基化；（III）HpaII 有带，MspI 无带（1，0），为外侧胞嘧啶半甲基化；（IV）HpaII和 MspI 处均无带（0,0），为超甲基化位点。经统计后，得到各类条带数目如图5所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I, II, III and IV stands for methylation type I,II, III and IV, respectively ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/25e1a81935567bb464ef8eaadf4cc53b59ddffc89648ee60b2d283189f25a802.jpg",
+        "img_caption": [
+            "I、II、III、IV对应文中的四种甲基化类型",
+            "图5不同甲基化类型位点数",
+            "Fig.5 Loci number of different methylation patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，总共得到了1265个条带，从这些条带中得到了291个甲基化多态性位点。I类（未发生甲基化）数目最多，在缺氮处理 $^ { 0 \\mathrm { h } }$ 、 $2 4 \\mathrm { h }$ 、 $7 2 \\mathrm { { h } }$ 时分别为194、176、203个。ⅡI类在缺氮处理的三个时间点变化不大；IⅢI类在缺氮胁迫 $2 4 \\mathrm { h }$ 和 $^ { 7 2 \\mathrm { ~ h ~ } }$ 时减少了 $8 6 . 4 9 \\%$ ，变化显著。IV类较稳定，在缺氮处理 $7 2 \\mathrm { { h } }$ 时达64个，在三个时间点中数目最多。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对以上条带进行甲基化率分析，统计时将ⅡI与IV类型视作全甲基化，所得结果见表3。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/225ec951b1fba21fd8d4328abad16d9c1126cdf702881c31c948f4544c03a2b6.jpg",
+        "table_caption": [
+            "表3甲基化率情况Table 3 Methylation rate"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>0h</td><td>24 h</td><td>72 h</td></tr><tr><td>总扩增位点</td><td>291</td><td>291</td><td>291</td></tr><tr><td>Total amplified loci number</td><td></td><td></td><td></td></tr><tr><td>总甲基化位点</td><td>97</td><td>115</td><td>88</td></tr><tr><td>Total methylated loci</td><td></td><td></td><td></td></tr><tr><td>number（II+III+IV）</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/00dd146a803b01ba256da8f4888764400dda46f27d1c4e82115c3d06a8e6d862.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note： Methylation rate $( \\% ) = [$ ( $\\mathrm { I I { + } I I I { + } I V }$ /（ $\\mathrm { \\Delta I + I I + I I I { + } I V }$ ） $] \\times 1 0 0 \\%$ Full-methylation rate $( \\% ) = [$ （ $\\boldsymbol { \\mathrm { I I } } { + } \\boldsymbol { \\mathrm { I V } }$ ）/（I+I+II+IV） $] \\times 1 0 0 \\%$ Semi-methylation rate $( \\% ) = [$ (III）/( $\\mathrm { \\Delta I + I I + I I I + I V }$ ） $] \\times 1 0 0 \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td>全甲基化位点</td><td>81</td><td>78</td><td>83</td></tr><tr><td>Full-methylated loci</td><td></td><td></td><td></td></tr><tr><td>number（II+IV)</td><td></td><td></td><td></td></tr><tr><td>总甲基化率</td><td>33.33%</td><td>39.52%</td><td>30.24%</td></tr><tr><td>Methylation rate</td><td></td><td></td><td></td></tr><tr><td>全甲基化率</td><td>27.84%</td><td>26.80%</td><td>28.52%</td></tr><tr><td>Full-methylation rate</td><td></td><td></td><td></td></tr><tr><td>半甲基化率</td><td>5.50%</td><td>12.71%</td><td>1.72%</td></tr><tr><td>Semi-methylation rate</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "甲基化率统计结果表明，缺氮处理 $2 4 \\mathrm { h }$ 的总甲基化位点数最多（115个），总甲基化率最高 $( 3 9 . 5 2 \\%$ ）；缺氮处理 $7 2 \\mathrm { { h } }$ 的总甲基化位点最少（88个），总甲基化率最低（ $3 0 . 2 4 \\%$ )，显示在处理 $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间，基因组总甲基化率下调了 $2 3 . 4 8 \\%$ 。全甲基化位点数在缺氮处理0h、 $2 4 \\mathrm { h }$ ， $^ { 7 2 \\mathrm { ~ h ~ } }$ 之间差异不大，全甲基化率在 $2 6 { \\sim } 2 8 \\%$ 。半甲基化位点数在缺氮处理 $0 \\mathrm { h }$ 、24h、 $7 2 \\mathrm { { h } }$ 分别为16、37、5个，显示在缺氮 $2 4 \\mathrm { h }$ 处半甲基化率最大（ $12 . 7 1 \\%$ ），比 $^ { 0 \\mathrm { h } }$ 处上升了 $1 3 1 . 2 5 \\%$ ，而比 $7 2 \\mathrm { { h } }$ 处下降了 $8 6 . 4 7 \\%$ ，变化显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再对胞嘧啶发生甲基化和去甲基化变化的位点模式进行统计，具体情况见表4。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd084b6f0608f1729fe5a55db593620841607ea6367e8ab27381e2657aa99874.jpg",
+        "table_caption": [
+            "表4甲基化模式变化",
+            "Table 4Methylation pattern changes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>(Type changes)</td><td></td><td>h0->24</td><td>h24->72</td><td>h0->24(%)</td><td>h24->72(%)</td></tr><tr><td>1</td><td>[->I</td><td>无变化 No change</td><td>153</td><td>125</td><td>52.57731959</td><td>42.9553265</td></tr><tr><td>2</td><td>I->II</td><td>甲基化 methylated</td><td>6</td><td>8</td><td>2.06185567</td><td>2.74914089</td></tr><tr><td>3</td><td>I->III</td><td>甲基化 methylated</td><td>15</td><td>3</td><td>5.154639175</td><td>1.03092784</td></tr><tr><td>4</td><td>I->IV</td><td>甲基化 methylated</td><td>20</td><td>40</td><td>6.872852234</td><td>13.7457045</td></tr><tr><td>5</td><td>II->I</td><td>去甲基化 demethylated</td><td>9</td><td>10</td><td>3.092783505</td><td>3.43642612</td></tr><tr><td>6</td><td>II->II</td><td>无变化</td><td>8</td><td>3</td><td>2.749140893</td><td>1.03092784</td></tr><tr><td>7</td><td>II->IV</td><td>No change 甲基化</td><td>3</td><td>9</td><td>1.030927835</td><td>3.09278351</td></tr><tr><td>8</td><td>II->I</td><td>methylated 去甲基化</td><td>2</td><td>23</td><td>0.687285223</td><td>7.90378007</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/54ecbc7533f6754c9e01103117582f3443bdb1f7a063f97d4fa3fa4a9ddfb447.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">demethylated</td></tr><tr><td>9</td><td>III->III</td><td>无变化 No change</td><td>12</td><td>1</td><td>4.12371134</td><td>0.34364261</td></tr><tr><td>10</td><td>III->IV</td><td>甲基化</td><td>2</td><td>10</td><td>0.687285223</td><td>3.43642612</td></tr><tr><td>11</td><td>IV->I</td><td>methylated 去甲基化</td><td>12</td><td>45</td><td>4.12371134</td><td>15.4639175</td></tr><tr><td>12</td><td>IV->II</td><td>demethylated 去甲基化</td><td>8</td><td>5</td><td>2.749140893</td><td>1.71821306</td></tr><tr><td>13</td><td>IV->III</td><td>demethylated 去甲基化</td><td>10</td><td>1</td><td>3.436426117</td><td>0.34364261</td></tr><tr><td>14</td><td>IV->IV</td><td>demethylated 无变化 No change</td><td>31</td><td>5</td><td>10.65292096</td><td>1.71821306</td></tr><tr><td>15</td><td>III->I</td><td>甲基化 methylated</td><td>NA</td><td>3</td><td>NA</td><td>1.03092784</td></tr><tr><td>总计 (Total)</td><td></td><td></td><td>291</td><td>291</td><td>100</td><td>100</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分析发现，缺氮胁迫下的胞嘧啶甲基化和去甲基化变化共包括三种模式：（一）甲基化位点无变化。在缺氮处理 $0 { \\sim } 2 4 \\mathrm { h }$ 和 $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间，甲基化位点无变化的数目分别为204和134个，各占总甲基化位点的 $7 0 . 1 0 \\%$ 和 $4 6 . 0 5 \\%$ 。（二）位点发生甲基化。缺氮处理 $0 { \\sim } 2 4 \\mathrm { h }$ 期间发生甲基化的位点有46个，占总甲基化位点的 $1 5 . 8 1 \\%$ ；缺氮处理 $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间发生甲基化的位点有73个，占 $2 5 . 0 9 \\%$ 。（三）位点发生去甲基化。缺氮处理 $0 { \\sim } 2 4 \\mathrm { h }$ 期间发生去甲基化的位点有41个，占 $1 4 . 0 9 \\%$ ；缺氮处理 $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间发生去甲基化的位点有84个，占$2 8 . 8 7 \\%$ 。结果显示，291个多态性位点在 $0 { \\sim } 2 4 \\mathrm { h }$ 期间有87个发生了甲基化或去甲基化变化，占 $2 9 . 9 0 \\%$ ； $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间有发生甲基化或去甲基化变化的位点有157个，占 $5 3 . 9 5 \\%$ 。可见，在缺氮处理过程中基因组DNA同时发生甲基化和去甲基化，且在实验后期（ $( 2 4 { \\sim } 7 2 \\mathrm { h } )$ ）发生该变化的位点数更多。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "氮元素是植物生长发育和发育过程中必不可少且需求量最大的元素，对细胞的构成、分裂、生长都有着重要作用，被称为“生命元素”（陈雅君等，2013）。已有研究表明，氮元素是影响多种微藻生长和脂质积累最重要的元素（Griffiths etal，2009）。本研究中，缺氮条件下的红球藻生长速度减慢，这与庄惠如等人（庄惠如等，2000）研究中“在接种后3d，缺氮处理组生长明显延缓”的现象一致。黄水英等（黄水英等，2009）发现，缺氮条件卜，雨生红球藻积累虾青素的同时并没有大量形成孢子，而是在游动细胞阶段积累虾青素，这与本研究中缺氮处理 $7 2 \\mathrm { { h } }$ 时显微观察到的雨生红球藻细胞也并未形成厚壁孢子吻合。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "缺氮胁迫下，雨生红球藻生长减慢，但虾青素含量却一直增加，表明缺氮有助于虾青素的合成，这与许多研究结果一致（庄惠如等，2000；Borowitzka etal，1991），其机制可能是因为缺氮胁迫引起细胞内活性氧水平增加（Mendesferreiraetal，2010），形成氧化胁迫，藻细胞快速、大量合成虾青素等抗氧化物质清除细胞内的活性氧（王潮岗等，2012），维持细胞内活性氧的动态平衡。此外，缺氮还会增加某些绿藻的脂质体含量(Hirooka etal,2014)，而脂质体正是虾青素在雨生红球藻细胞质中储存的场所（Kobayashi，2003），这也是缺氮",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "胁迫导致虾青素积累的原因之一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MSAP结果显示，四种甲基化类型中，I类（未发生甲基化）条带数最多，其次为IV类（超甲基化）。分析发现，在缺氮处理 $2 4 \\mathrm { h }$ 处半甲基化率最高，达 $12 . 7 1 \\%$ ，全甲基化率最低，为 $2 6 . 8 0 \\%$ ，而缺氮 $1 2 { \\sim } 2 4 \\mathrm { h }$ 期间虾青素含量急剧增加，表明缺氮初期，虾青素积累可能主要以基因组 DNA半甲基化调节为主。缺氮处理 $7 2 \\mathrm { { h } }$ 时，虾青素仍在积累，但积累速度缓慢，此时基因组DNA全甲基化率最高，推测此时主要以全甲基化调节为主。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DNA 甲基化与去甲基化可以调节基因的表达，此过程中也可能将外源DNA沉默，以保持基因组的完整，使植物体正常生长代谢，更好的适应外界环境（刘冰，2013）。通常，基因发生甲基化会抑制表达，发生去甲基化会增加转录水平，促进基因表达((Iketal,1997)。本研究中，为适应缺氮胁迫，藻细胞DNA在 $0 { \\sim } 2 4 \\mathrm { h }$ 期间发生的甲基化位点多于去甲基化位点，表明激活表达的基因（如虾青素合成途径中相关基因）少于被抑制的基因，缺氮胁迫更多的抑制了基因的表达，王小利等（王小利等，2015）对缺氮胁迫下高羊茅基因组的 MSAP分析中也发现，经缺氮处理后，高羊茅甲基化率高于去甲基化率，表明高羊茅适应缺氮胁迫时，除激活抗逆基因的表达外，更涉及沉默部分基因的表达。缺氮胁迫 $2 4 { \\sim } 7 2 \\mathrm { h }$ 期间，发生去甲基化的位点多于甲基化位点，以去甲基化为主，此时虾青素积累速度缓慢，可能随虾青素不断积累，相关基因陆续启动，发生去甲基化而被激活。可见，缺氮胁迫下的虾青素积累与基因组DNA甲基化相关，通过甲基化和去甲基化的方式调控基因的表达，从而影响虾青素的合成。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AMBATIRR,PHANG SM,RAVIS,et al,2014.Astaxanthin: sources,extraction,stability,biologicalactiviies and its commercial applications--a review[J]. Mar Drugs,12(1): 128-52.   \nBOROWITZKA MA, HUISMAN JM, OSBORN A，1991. Culture of the astaxanthin-producing green alga Haematococcus pluvialis.1.Effects of nutrients on growth and cel type[J]. JAppl Phycol,3(4):295-304. CHEN XC，HUANG WG,OUYANG Q，2005．The study of culture conditions of Haematoccus pluvialis and its astaxanthin accumulation[J]．JFuzhou Univ (Natural Science)，33(2)：259-263．[陈兴才，黄伟光，欧阳琴， 2005．雨生红球藻的培养及虾青素累积条件的探讨[J]．福州大学学报（自然科学版），33(2)：259-263．] CHEN YJ，YANQW， ZHANG L，et al， 2013．Research progress on nitrogen and plant growth[J]. JNortheast Agric Univ，44(4): $1 4 4 ^ { - 1 4 8 }$ ．［陈雅君，闫庆伟，张璐，等，2013．氮素与植物生长相关研究进展[J]．东 北农业大学学报，44(4)：144-148．]   \nDUAN LF,GUAN B, KONG Q,et al,2O17. Effects of different culture modes oc green growth and astaxanthin accumulation by Haematococcus Pluvialis[J]．Trans Oceanology Limnol，1：73-79．[段良飞，管斌，孔青， 等，2017．不同培养模式对雨生红球藻细胞绿色生长以及虾青素积累的影响[J]．海洋湖沼通报，1：73-79.] Fan Y,Yu GX,Wang LN,et al,2012. Cloning and prokaryotic expresson of the plastoglobules protein gene from Haematoccus pluvialis[J]．Acta Hydrobiol Sin，36(4):640-645．[范勇，于广欣，汪乐霓，等，2012．雨生 红球藻质体球滴结构蛋白基因的克隆与原核表达[J]．水生生物学报，36(4)：640-645．]   \nGAO D，DUF， ZHU YY，2009．Low-background and high-resolution contracted silver-stained method in polyacrylamide gels electrophoresis[J]．Hereditas，31(6)： $6 6 8 ^ { - } 6 7 3$ ．［高东，杜飞，朱有勇，2009．低背景、 高分辨率PAGE 简易银染法[J]．遗传，31(6)： $6 6 8 \\substack { - 6 7 3 }$ ．]   \nGRIFFITHS MJ,HARRISON STL,2009.Lipid productivity as a key characteristic for choosing algal species for biodiesel production[J].J.Appl.Phycol,21(5): 493-507.   \nHIROOKA S,HIGUCHI S,UZUKAA,et al,2014.Acidophilic green alga Pseudochlorella sp.YKT1 accumulates high amount of lipid droplets under a nitrogen-depleted condition at a low-pH[J]. Plos One, 9(9): e107702. HUANG LJ,LIY,FUY,2009.Advance in plant DNA methylation and its biological significance[J].JBaoding Univ，22(4)：70-72．［黄禄君，李云，付毓，2009．DNA甲基化及其植物生物学意义研究进展[J]．保定 学院学报，22(4)：70-72．]   \nHUANG SY，QI AX，LI Z，et al，2009． Initial studies on the effcts of stress conditions on astaxanthin accumulation of Haematococcus pluvialis[J].Stud Mar Sin,49:144-150.[黄水英，齐安翔,李哲，等，2009.几 种胁迫方式对雨生红球藻积累虾青素影响的初步研究[J]．海洋科学集刊，49： $1 4 4 ^ { - 1 5 0 }$ ：]   \nIK AK,KOUKALOVA B, OPATRN Z, 1997. Hypermethylation of tobacco heterochromatic loci in response to Osmotic stress[J]. Theor Appl Genet, 95(1-2): 301-306.   \nJAIME FABREGAS,ANA OTERO,ANA MASEDA,et al,2001. Two-stage cultures for the production of astaxanthin from Haematococcus pluvialis[J]. J. Biotechnol, 89: 65-71.   \nL. Z. XIONG, C. G. XU, M. A. SAGHAI MAROOF, et al, 1999. Paterms of cytosine methylation in an elite rice hybrid and its parental lines,detected bya methylation-sensitive amplification polymorphism technique[J]. Mol Gen Genet,261(3): 439-446.   \nLI N，ZHANG Y，XIE LN，et al， 2012.Research progress in DNA methylation in plants[J].Plant Physiol J, 48(11)：1027-1036．[李娜，张肠，解莉楠，等，2012．植物 DNA甲基化研究进展[J]．植物生理学报， 48(11): 1027-1036．]   \nLI XH，ZOU N， SUN DH，et al，2015． Optimization of productional astaxanthin extraction process from Haematococcus pluvialis[J]. JAnhui Agri， 43(15): $2 3 - 2 4$ ．［李小慧，邹宁，孙东红，等，2015．雨生红球 藻中虾青素的提取工艺优化[J]．安徽农业科学，43(15)： $2 3 - 2 4$ ：]   \nLIU B，2013． Methylation sensitive amplification polymorphism (MSAP)analysis of mainly cultivated Oyster Mushsoom[D]．Huazhong Agri Univ．［刘冰，2013．平菇主栽品种DNA 甲基化敏感扩增多态性（MSAP） 分析[D]．华中农业大学．］   \nLIU X,LUO Q,RAKARIYATHAM K,et al, 2016. Antioxidation and anti-ageing activities of diffrent stereoisomeric astaxanthin in vitro and in vivo[J]. JFunct Foods, 25: 50-61.   \nMA LL,JIANG Z, HUANG XB,et al,2013.Research progressof DNA methylation on plant regulation[J]. China Biotech，33(9): $1 0 1 { - } 1 1 0$ ．［马浪浪，江舟，黄小波，等，2013．植物 DNA 甲基化调控研究进展[J]．中国 生物工程杂志，33(9)：101-110．]   \nMAKIO KOBAYASHI, 2003. Astaxanthin biosynthesis enhanced by reactive oxygen species in the green alga Haematococcus pluvialis[J]. Biotech Bioprocess E,8: 322 - 330.   \nMARTINEZ-DELGADO AA, KHANDUAL S, VILLANUEVA-RODRIGUEZ SJ,2017. Chemical stability of astaxanthin integrated into a food matrix: efects offood processing and methods for preservation[J].Food Chem, 225: 23-30.   \nMENDESFERREIRA A, SAMPAIOMARQUES B, BARBOSA C, et al, 2010. Accumulation of non-superoxide anion reactive oxygen species mediates nitrogen-limited alcoholic fermentation by saccharomyces cerevisiae[J]. Appl Environ Microbiol, 76(24): 7918-7924.   \nSCHULZ B, ECKSTEIN RL, DURKA W, 2013. Scoring and analysis of methylation-sensitive amplification polymorphisms for epigenetic population studies. Mol Ecol Resour,13(4): 642-653.   \nTANG XM, TAO X, WANG Y, et al,2014. Analysis of DNA methylation of perennial ryegrass under drought using the methylation-sensitive amplification polymorphism (MSAP) technique[J]. Mol Genet Genomics,289(6): 1075-1084.   \nVOS P, HONGERS R, BLEEKER M, et al,1995. AFLP: a new technique for DNA fingerprinting[J]. Nucl Acid Res, 23(21): 4407-4414.   \nWAN M, ZHANG Z,WANG J, et al,2015. Sequential heterotrophy-dilution-photoinduction cultivation of Haematococcus pluvialis for eficient production of astaxanthin[J].Bioresource Technol,198: 557.   \nWANG CG,HAN S,CHEN ZQ,et al,2012. The scavenging of reactive oxygen species with antioxidant systems in Haematococcus pluvialis[J]． Acta Hydrobiologica Sin，36(4)： $8 0 4 ^ { - } 8 0 8$ ．［王潮岗，韩燊，陈甄倩，等， 2012．雨生红球藻抗氧化系统对活性氧的清除机制[J]．水生生物学报，36(4)： $8 0 4 ^ { - } 8 0 8$ ．]   \nWANG XL，WANG Q，SHU JH，et al，2015．Analysis of nitrogen stress on DNA methylation by MSAP in tall fescue[J].Genom Appl Biol，34(11)：2362-2371．[王小利，王茜，舒键虹，等，2015．氮胁迫下高羊茅基 因组DNA 甲基化的 MSAP 分析[J]．基因组学与应用生物学，34(11)：2362-2371．]   \nXIONG X,LIB,GONG Q，et al， 2017．Analysis of methylation sensitive amplification polymorphsim genome DNA methylation in different barely tissues during development[J].JYangtze Univ (Natural Science Edition), 14(10): $2 9 - 4 2$ ．［熊肖，李博，龚强，等，2017．大麦不同组织成熟过程中DNA 甲基化的MSAP 分析[J].长 江大学学报（自科版），14(10)：29-42．]   \nZHANG W,WANG J,WANG J,et al,2014.Attched cultivation of Haematococcus pluvialis for astaxanthin production[J].Bioresource Technol, 158(2): 329-335.   \nZHANG W,JHR,1995.Extraction,composition,and stabilityof pigments from crawfish shell waste[J]. Nutr Util Technol Aquac,19: 255-268.   \nZHAO XY,ZHUHT,BIYP,et al，2016.Research of astaxanthin in the Haematococcus pluvialis[J].Food Res Dev，37(4)：191-194．［赵晓燕，朱海涛，毕玉平，等，2016．雨生红球藻中虾青素的研究进展[J]．食品 研究与开发，37(4)：191-194．]   \nZHUANG HR，SHI QQ，LU HS，etal，2000．The effect of nutritional stresses on accumulation of astaxanthin in Haematococcus pluvialis[J]．Acta Hydrobiologica Sin，24(3)：208-212．[庄惠如，施巧琴，卢海声，等， 2000．营养胁迫对雨生红球藻虾青素积累的影响[J]．水生生物学报，24(3)：208-212．] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,167 @@
+# 银道面附近若干天区变星搜寻
+
+白春海1,2,3，张辉4，冯国杰1,，周济林4，张轩³，刘慧根4，牛虎彪，马路，艾力.伊沙木丁³，胡景耀，姜晓军1,2  
+(1,光学天文重点实验室,北京 100012;2,中国科学院大学天文与空间科学学院,北京100049;  
+3，中国科学院新疆天文台，新疆乌鲁木齐 830011；4，天文与空间科学学院（南京大学），
+
+江苏南京 210023）
+
+摘要：对新疆天文台(XAO)南山一米大视场天文望远镜（NOWT）观测的历史数据，我们进行细致的数据挖掘，发现了百余颗变源。数据处理pipeline为XAO时域巡天数据处理包，该处理包同时考虑了测光系统内部权重和相关性，并结合快速混合算法编写的。除去已知的变源，我们发现了很多新的变源。对新变源证认的过程中，我们将结果与LAMOST、GCVS、VSX、Gaia DR2等星表进行了交叉。在讨论部分，我们对各星表的使用情况给出了说明。对于新源最后发现绝大部分是食双星，少部分是脉动变星，并有一颗表现相对复杂的变源。
+
+关键词：时域巡天；食双星；脉动变星;
+
+中图分类号：P141.2 文献标识码：A 文章编号：
+
+# 1背景
+
+光学天文研究中对光度流量有变化的目标，我们通常称其为变源或者变星。根据《变星总表第五版第一次修订》（GCVS 5.1）分类规则分为，爆发、脉动、旋转、激变、食双星、高能X射线双星和其他等类型。就形成机制而言，有内在机制导致的变星，例如脉动变星系列，经典径向变化的造父变星[2]、天琴座 RR[3]等；和非径向的盾牌座δ〔4]变星等。有外在机制导致的变星，如恒星系统的运动、邻近伴星或天体遮掩导致我们所观测到的亮度发生了变化。在目前所知道的变源中，占比较高的有食双星系统[5,6]、盾牌座δ和天琴座 RR。另外，系外行星凌星事件虽然在已知变源中所占比例不高，但因其奇特性天文学研究给以很多关注。大家所熟知的Kepler项目以及相关联合观测，研究成果所获颇丰；系外行星系统的搜寻在众多天文实测中也颇受青睐。新疆天文台南山观测站一米大视场天文望远镜联合南京大学开展了一场附近搜索系外行星的巡天观测。上述观测产生大量数据，我们对数据进行了细致的变源目标分析。目的是挖掘更多的变源样本，看是否存在奇异变源。
+
+# 2观测
+
+南山一米大视场天文望远镜坐落在新疆天文台南山观测站（经度：87.174°E，纬度：43.473°N，海拔：2088米）。望远镜桁架是地平主焦点式，主镜有效口径 $1 0 0 0 \mathrm { m m }$ ，焦比f2.2。配备的终端是E2VCCD203-82蓝敏芯片， $4 0 9 6 \mathrm { ~ x ~ } 4 1 3 6$ 像元，像元比例尺为 $1 . 1 2 5 ^ { \prime \prime }$ /pixel，CCD靶面对应的天空张角为 $7 8 ^ { \prime } \ \mathrm { ~ x ~ } \ 7 8 ^ { \prime }$ ；滤光片是Johnson UBVRI系统。
+
+观测目的是要发现系外行星候选体。制作观测计划时，考虑到天区内需要有足够多和足够亮度的目标，因此在银道面附近(Long: $1 6 6 ^ { \circ }$ ,Lat: $+ 7 ^ { \circ }$ )选定了星场比较密集同时星象又相对比较分立的四个天区。观测过程中为提高采样率，用单波段V进行观测。每个天区单张曝光时间为
+
+10s，连续曝光3次，而后再延沿着赤经方向移动循环拍摄。当这四个天区俯仰过高不适合观测的，拍摄已知的系外行星hat-p-29天区作为校验；待四个天区俯仰降低到合适高度后继续拍摄。表1是2013年12月14日开始试验，到2014年2月20日有效观测的统计。
+
+表1观测天区分布和观测数据统计  
+Tab.1 sky area distribution and observation statistics   
+
+<html><body><table><tr><td>Aera</td><td>RA (2000)</td><td>DEC (2000)</td><td>UT date</td><td>Days</td><td>Length (hour)</td><td>Filter</td><td>Frams</td><td>Exposure (s）</td></tr><tr><td>TD1</td><td>05:30:00</td><td>45:00:00</td><td>20131214-20140216</td><td>25</td><td>158.13</td><td>V</td><td>1569</td><td>10</td></tr><tr><td>TD2</td><td>05:37:30</td><td>45:00:00</td><td>20131214-20140217</td><td>24</td><td>144. 07</td><td>V</td><td>1438</td><td>10</td></tr><tr><td>TD3</td><td>05:45:00</td><td>45:00:00</td><td>20131214-20140218</td><td>25</td><td>152.4</td><td>V</td><td>1581</td><td>10</td></tr><tr><td>TD4</td><td>05:52:30</td><td>45:00:00</td><td>20131214-20140219</td><td>24</td><td>142.52</td><td>V</td><td>1431</td><td>10</td></tr><tr><td>TD5</td><td>02:12:31</td><td>51:46:43</td><td>20140119-20140214</td><td>19</td><td>15.71</td><td>V</td><td>725</td><td>10</td></tr></table></body></html>
+
+从表中可以看出，前四个天区TD1,TD2,TD3,TD4是主要天区。这四个天区观测帧数都在1500帧左右，有效观测天数跨度在24-25天，有效观测小时数约140-160h，积累的总数据量较多。TD5作为校验天区指向的是hat-p-29，一是每天的观测时间相对较少，二是部分观测夜该时段阴天时，更减少了观测时间，导致该天区积累数据最少。
+
+![](images/17deccad8e96df5aa12377f9319cb013449a134f555ad0da6a8e1d94ec5b3067.jpg)  
+图一V波段星等误差图Fig.1 Mag and error for $\mathrm { \Delta V }$ band .
+
+# 3数据处理
+
+对获得的CCD观测数据后，我们先通过IRAF(Image Reduction and Analysis Facility's，由NOAO提供和支持)进行了减本底、平场修正等预处理。第二步用XAOpipeline 结合UCAC3星表加载了天文坐标系统WCS信息，并通过SCAMP对WCS进行了高阶修正。最后用SExtractor对所有帧进行流量到星等的提取工作。
+
+对于获取到的仪器星等，每帧之间存在的差别，消除系统差是用XAO 时域巡天软件包处理解决的。该处理包同时考虑了测光系统内部权重和相关性，并结合了快速混合算法[8-10]。因原始数据是为了寻找系外行星只拍摄了V波段，而未拍摄B,R等波段数据，这里未能结合颜色项给出大气消光改正和大气外零点改正量。只是单纯的采用V波段仪器星等与GaiaG星等拟合了仪器星等零点改正量。仪器星等V与GaiaG星等的转换关系公式（1）所示，经转换后的V波段星等与测光误差的对应关系如图一所示。
+
+$$
+\mathrm { ~ V ~ - ~ G ~ } = \ : 2 . \ : 0 7 8 \pm 0 . 1 0 4
+$$
+
+# 4结果分类
+
+所有目标的V波段仪器星等在经过零点修正后，按星等亮度分类进行判别。在5个天区中共发现125颗变源目标，其中有106颗是新发现的。对于所有变源，我们都结合LAMOST DR5进行交叉；所得结果列入LAMOSTclass列中。在与GCVS 5.1星表以及美国变星观测者协会（AAVOS）的国际变星检索数据库(VSX)交叉时，我们发现有5颗应该被观察到的变星并没有找到。最后我们结合最新发布的GAIADR2进行交叉，找到了部分已知的变源。针对以上已知源和新发现源的情况，我们与观测得到的数据相结合，卜面进行详细的说明。
+
+因总的变源数量较多，按天展开的观测图表内容非常多，此文略去这部分的展示。我们分两部分在图二、图三中，分别给出了这106颗新发现变源的相位图叠加图。为便于观察，周期从零点画到1.5倍。每幅图中横坐标是周期相位，左边的纵坐标是星等变化范围为。而右边的纵坐标上，第1个关键字TD开头的是时域巡天的天区编号，第2个以V开头的关键字是新发现变星的编号。
+
+这106个新发现变源中，有100个是食双星系统，如表二所示。从表二中可以得到EA型22颗、EB型24颗、EW型54颗。
+
+原先设想，通过数据挖掘能发现一批可做标准烛光的天琴座 RR变星。对于光变形态接近的几个变源，我们通过比对周光关系和Gaia的视差后发现，这几个目标没有明确的对应关系。加上周期都相对较短，最终判定为脉动变星中的δ Scuti类型，详细信息见表3。
+
+V2 V3 V4   
+健 18 中 8 TD1-88   
+TD1   
+V6 0.14 V8   
+88 18 82 183 2   
+8 8 88 88 T1   
+8 精 82 8 TD1   
+V20   
+8 28 218 24   
+88 28583 1 TD1 88 18 D   
+8 8 B8 288 D2   
+88 8 88 8 TD2   
+V36   
+8 838 8 858 TD2   
+V40   
+88 8 28 38 138 V44 TD2   
+8 8 8 98 T42   
+8 288 8 288 D2   
+8 D2 8388 TD3 0.24 TD3 83 TD3   
+53 /54 28 /55 V56   
+0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5   
+Phase
+
+D V58 /59 二 V60   
+8 8 1 282 388 T4 8 88 8 8 TD3   
+88 8 188 8 2 V72   
+88 8 8 8 TD4 V76 8 998 8 88 TD4 V80   
+8 88 B8 8 TD4   
+8 88 T 898 V88 8 88 8 8 TD4 1 V92 88 82 488 8 TD4 V96 8 8 8 8 TD5 V100 88 518 TD5-0.24 D5-0.08 4 TD5 V1020.3 103 V104   
+8 8 0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5 D5 TD5 V1050. V106 0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5 Phase
+
+表4中还有一个新发现变源V102，是TD5天区中的目标。虽然也找到了周期关系，但从V102放大的图中可以看出，它的相位整齐性不像其他变星重叠的那样好。一个可能因为该天区拍摄帧数较少，存在采样不足的问题；第二可能它就是一个周期有变化的双星系统或者脉动变星。这需要进一步的观测确认，所以单另列在表4中。
+
+表5是对已知变星的描述。从表中可以看出，观测到的已知变星有19颗，加上未观测到的5颗一共有24颗。前19颗已知变星与VSX数据库交叉后发现，在星等、变化周期以及类型方面都符合的比较好。对于未观测到的5颗，V128和V129在TD5天区中，考虑是因为该天区采样较少导致；V126、V127和V130的星等都亮于11.3等，曝光过程中CCD像元饱和加上欠采样，是导致其未能观测到的原因。
+
+新发现的食双星V13、V38在GaiaDR2中未找到对映天体坐标，表二中这两颗星G星等值为空。
+
+# 表2所获得新的食双星变源列表
+
+Tab.2 List of new eclipsing binary system   
+
+<html><body><table><tr><td>ID</td><td>RA (2000)</td><td>DEC (2000)</td><td>Gaia Gmag</td><td>V mag</td><td>Amp (mag)</td><td>Period(d)</td><td>Type</td><td>lamost class</td><td>Area</td></tr><tr><td>V1</td><td>05:31:14.54</td><td>+44:22:44. 22</td><td>13.885</td><td>15.992</td><td>0.910±0.015</td><td>1.5586±0.0002</td><td>EA</td><td>A5V</td><td>TD1</td></tr><tr><td>V2</td><td>05:31:30.25</td><td>+44:25:00.03</td><td>15.199</td><td>17.285</td><td>0.552±0.157</td><td>0.4948±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V3</td><td>05:31:00.99</td><td>+44:27:29. 77</td><td>16.096</td><td>18.127</td><td>0.695±0.122</td><td>1.2069±0.0002</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V4</td><td>05:30:37.72</td><td>+44:29:40. 32</td><td>13.048</td><td>15.054</td><td>0.140±0.040</td><td>0.3996±0.0001</td><td>EW</td><td>F2</td><td>TD1</td></tr><tr><td>V5</td><td>05:29:58.04</td><td>+44:32:29. 46</td><td>15.790</td><td>17.852</td><td>1.472±0.171</td><td>2.3956±0.0005</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V6</td><td>05:30:09.44</td><td>+44:35:23. 62</td><td>15.210</td><td>17.362</td><td>0.739±0.115</td><td>2.2873±0.0004</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V7</td><td>05:31:24. 94</td><td>+44:35:07. 93</td><td>15.752</td><td>17.930</td><td>0.219±0.046</td><td>0.3162±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V8</td><td>05:28:19.60</td><td>+44:37: 45. 97</td><td>14.696</td><td>16.724</td><td>0.248±0.063</td><td>1.1829±0.0003</td><td>EB</td><td></td><td>TD1</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>+44:42: 55. 14</td><td>16.131</td><td>18.293</td><td>0.412±0.103</td><td>0.3023±0.0003</td><td></td><td></td><td></td></tr><tr><td>V9</td><td>05:28:56.02</td><td></td><td></td><td>17.844</td><td>0.353±0.075</td><td></td><td>EW</td><td>G0</td><td>TD1</td></tr><tr><td>V10</td><td>05:33:00.10</td><td>+44:41:35. 70</td><td>15. 754</td><td></td><td></td><td>0.3947±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V11</td><td>05:27:55.62</td><td>+44: 45:31. 24</td><td>15.246</td><td>17.247</td><td>0.358±0.097 0.588±0.153</td><td>0.8118±0.0003</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V12</td><td>05:29:22. 58</td><td>+44: 45:30. 85</td><td>15.025</td><td>17.128</td><td></td><td>0.2350±0.0001</td><td>EW</td><td>Non</td><td>TD1</td></tr><tr><td>V13</td><td>05:31:34. 06</td><td>+44:51: 17. 79</td><td></td><td>19.720</td><td>0.540±0.149</td><td>0.3503±0.0002</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V14</td><td>05:31:36.97</td><td>+44:51:22.28</td><td>17.632</td><td>19.673</td><td>0.676±0.123</td><td>0.4862±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V15</td><td>05:29:01. 29</td><td>+44: 53:09. 37</td><td>15. 751</td><td>17.833</td><td>0.440±0.085</td><td>0.4320±0.0003</td><td>EB</td><td></td><td>TD1</td></tr><tr><td>V16</td><td>05:30:31. 75</td><td>+44: 52: 53. 67</td><td>15.817</td><td>17.811</td><td>0.304±0.063</td><td>0.1877±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V17</td><td>05:26:42. 22</td><td>+44: 57:30. 88</td><td>14.880</td><td>16.885</td><td>0.134±0.032</td><td>0.2094±0.0002</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V18</td><td>05:32:37. 21</td><td>+45:00:56.59</td><td>16.119</td><td>18.117</td><td>0.300±0.065</td><td>0.1575±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V19</td><td>05:28:05.63</td><td>+45:04: 52. 20</td><td>15.939</td><td>17.913</td><td>0.269±0.057</td><td>0.6091±0.0005</td><td>EB</td><td></td><td>TD1</td></tr><tr><td>V20</td><td>05:31:32. 98</td><td>+45:08:05. 40</td><td>13.302</td><td>15.277</td><td>0.125±0.037</td><td>1. 5335±0.0004</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V21</td><td>05:30:52.18</td><td>+45:12:46. 31</td><td>16.023</td><td>18.175</td><td>0. 775±0.084</td><td>1. 2263±0.0005</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V23</td><td>05:30:21. 15</td><td>+45:20:01. 76</td><td>17. 547</td><td>19.723</td><td>0.822±0.219</td><td>0.2962±0.0001</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V25</td><td>05:32:10. 25</td><td>+45:20:50.95</td><td>16.785</td><td>18.961</td><td>0.569±0.126</td><td>0.2923±0.0002</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V26</td><td>05:29:24.15</td><td>+45:27:04. 45</td><td>14.084</td><td>16.262</td><td>0.345±0.015</td><td>1.8073±0.0001</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V27</td><td>05:29:08.93</td><td>+45:33:28.10</td><td>14.257</td><td>16.432</td><td>0.247±0.015</td><td>2.4012±0.0006</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V28</td><td>05:27:18.80</td><td>+45:29:50. 56</td><td>15.318</td><td>17.438</td><td>0.601±0.131</td><td>0.8570±0.0001</td><td>EA</td><td></td><td>TD1</td></tr><tr><td>V29</td><td>05:27:11. 14</td><td>+45: 29:47. 46</td><td>17.060</td><td>19.236</td><td>0.938±0.162</td><td>0.3409±0.0002</td><td>EW</td><td></td><td>TD1</td></tr><tr><td>V30</td><td>05:40:08.73</td><td>+44:25:39. 21</td><td>15. 187</td><td>17.235</td><td>0.296±0.090</td><td>0.4911±0.0004</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V31</td><td>05:35:25.20</td><td>+44:29:02.81</td><td>16.894</td><td>18.879</td><td>0.448±0.111</td><td>0.7359±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V32</td><td>05:40:04. 41</td><td>+44:39:12. 13</td><td>15.379</td><td>17.361</td><td>0.283±0.074</td><td>0.5045±0.0003</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V33</td><td>05:35:06. 56</td><td>+44:47:05. 82</td><td>18.088</td><td>20.167</td><td>1.001±0.154</td><td>0.3047±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V34</td><td>05:40:57. 69</td><td>+44: 47: 04. 55</td><td>16.381</td><td>18.526</td><td>0.812±0.156</td><td>0.7933±0.0001</td><td>EW</td><td>F0</td><td>TD2</td></tr><tr><td>V35</td><td>05:34:21. 49</td><td>+44:49:26.25</td><td>14. 759</td><td>16.879</td><td>0.661±0.107</td><td>0.8835±0.0004</td><td>EA</td><td></td><td>TD2</td></tr><tr><td>V36</td><td>05:38:24. 93</td><td>+44:48:43. 53</td><td>16. 671</td><td>18.680</td><td>0.758±0.141</td><td>0.4723±0.0007</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V37</td><td>05:36:35.36</td><td>+44: 49:37. 88</td><td>16.459</td><td>18.440</td><td>0.460±0.126</td><td>0.3677±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V38</td><td>05:39:16. 02</td><td>+44: 53:44. 80</td><td></td><td>17.096</td><td>0.534±0.104</td><td>1.2030±0.0005</td><td>EA</td><td></td><td>TD2</td></tr><tr><td>V39</td><td>05:37:03. 62</td><td>+44:59:48. 24</td><td>16.247</td><td>18.291</td><td>0.392±0.080</td><td>0.4542±0.0001</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V40</td><td>05:39:01. 22</td><td>+45:00:49. 04</td><td>17. 738</td><td>19.841</td><td>0.747±0.175</td><td>0.3201±0.0002</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V41</td><td>05:37:00. 70</td><td>+45:01:29. 53</td><td>17.335</td><td>19.438</td><td>0.465±0.133</td><td>0.4034±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V42</td><td>05:34:48.71</td><td>+45:08:25.26</td><td>16.055</td><td>18.106</td><td>0.348±0.065</td><td>0.5382±0.0003</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V43</td><td>05:36:00. 78</td><td>+45:08:32. 29</td><td>15.908</td><td>17.968</td><td>0.411±0.080</td><td>0.5027±0.0002</td><td>EB</td><td></td><td>TD2</td></tr><tr><td>V44</td><td>05:36:07. 26</td><td>+45:09:33. 99</td><td>16.278</td><td>18.271</td><td>0.969±0.110</td><td>0.8573±0.0001</td><td>EA</td><td></td><td>TD2</td></tr><tr><td>V45</td><td>05:35:18. 27 05:34:15. 44</td><td>+45:10:03.65</td><td>15.281</td><td>17.306</td><td>0.543±0.071</td><td>1.3176±0.0005</td><td>EA</td><td></td><td>TD2</td></tr><tr><td>V46</td><td></td><td>+45:11: 18. 03</td><td>14.209</td><td>16.309</td><td>0.563±0.100</td><td>2.2482±0.0007</td><td>EA</td><td></td><td>TD2</td></tr><tr><td>V47</td><td>05:39:22. 63 05:39:02. 33</td><td>+45:10:23. 91</td><td>16.685</td><td>18.864</td><td>0.455±0.104</td><td>0.3179±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V48 V49</td><td></td><td>+45:17: 29. 67</td><td>17. 121</td><td>19.218</td><td>0.425±0.112</td><td>0.2549±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V50</td><td>05:38:47. 69</td><td>+45:33:24.00</td><td>16.135</td><td>18.217</td><td>0.537±0.123 0.650±0.186</td><td>0.2518±0.0001</td><td>EW</td><td></td><td>TD2</td></tr><tr><td>V51</td><td>05:40:24. 72</td><td>+45:29:28.86</td><td>17.579</td><td>19.700</td><td></td><td>0.4037±0.0002</td><td>EB EW</td><td></td><td>TD2 TD2</td></tr><tr><td>V52</td><td>05:39:11.09 05:36:06. 62</td><td>+45:27:05. 24 +45:37: 50. 37</td><td>16. 774 17. 188</td><td>18.804 19.227</td><td>0.611±0.145 0.812±0.199</td><td>0.3812±0.0006 0.2514±0.0001</td></table></body></html>
+
+<html><body><table><tr><td>V59</td><td>05:43:55. 49</td><td>+45:13: 44. 56</td><td>16.402</td><td>18.503</td><td>0.357±0.079</td><td>0.4740±0.0002</td><td>EB</td><td></td><td>TD3</td></tr><tr><td>V60</td><td>05:42:12.70</td><td>+45:13:50.84</td><td>14.805</td><td>16.945</td><td>0.373±0.098</td><td>0.3801±0.0001</td><td>EW</td><td>F6</td><td>TD3</td></tr><tr><td>V61</td><td>05:47:01. 52</td><td>+45:05:58. 07</td><td>15. 647</td><td>17.753</td><td>0.811±0.140</td><td>0.8005±0.0005</td><td>EA</td><td>A7V</td><td>TD3</td></tr><tr><td>V62</td><td>05:45:46.21</td><td>+45:00:00.48</td><td>15. 679</td><td>17.788</td><td>0.612±0.126</td><td>0.4636±0.0003</td><td>EB</td><td>F5</td><td>TD3</td></tr><tr><td>V63</td><td>05:47:05.89</td><td>+44:59: 24. 41</td><td>15. 704</td><td>17.799</td><td>0.334±0.092</td><td>0.4314±0.0001</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V64</td><td>05:45:36.29</td><td>+44:57: 16. 64</td><td>17. 030</td><td>19.205</td><td>0.376±0.099</td><td>0.3236±0.0002</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V65</td><td>05:47:30. 95</td><td>+44:56: 13. 59</td><td>15.323</td><td>17.347</td><td>0.146±0.034</td><td>0.2285±0.0001</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V66</td><td>05:46:55.82</td><td>+44:50: 33. 51</td><td>16.369</td><td>18.474</td><td>0.704±0.168</td><td>0.3886±0.0001</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V67</td><td>05:46:39.59</td><td>+44:50:15. 03</td><td>15. 471</td><td>17.556</td><td>0.266±0.059</td><td>0.4732±0.0003</td><td>EB</td><td></td><td>TD3</td></tr><tr><td>V68</td><td>05:47:41.39</td><td>+44: 46: 17. 65</td><td>15. 404</td><td>17.424</td><td>0.328±0.062</td><td>1.4631±0.0008</td><td>EA</td><td>A2IV</td><td>TD3</td></tr><tr><td>V69</td><td>05:47:04.59</td><td>+44: 44: 33. 27</td><td>17. 629</td><td>19.792</td><td>0.477±0.160</td><td>0.3170±0.0001</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V70</td><td>05:45:14.12</td><td>+44: 38:23. 55</td><td>16.909</td><td>19.050</td><td>0.404±0.081</td><td>0.3694±0.0001</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V71</td><td>05:43:12. 54</td><td>+44:38: 05. 95</td><td>16.597</td><td>18.749</td><td>0.673±0.143</td><td>0.5211±0.0003</td><td>EB</td><td></td><td>TD3</td></tr><tr><td>V72</td><td>05:43:51.51</td><td>+44:36:36. 40</td><td>13.491</td><td>15.552</td><td>0.155±0.050</td><td>0.1681±0.0003</td><td>EW</td><td>A7V</td><td>TD3</td></tr><tr><td>V73</td><td>05:43:08.49</td><td>+44:32:35. 00</td><td>18.013</td><td>20.111</td><td>0.439±0.151</td><td>0.3663±0.0004</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V74</td><td>05:45:05.95</td><td>+44: 23:14. 83</td><td>16.403</td><td>18.574</td><td>0.889±0.208</td><td>0.3249±0.0003</td><td>EW</td><td></td><td>TD3</td></tr><tr><td>V75</td><td>05:50:18.99</td><td>+44:30:22. 94</td><td>16.909</td><td>19.024</td><td>0.552±0.128</td><td>0.3721±0.0001</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V76</td><td>05:51:07.65</td><td>+44:32:22. 32</td><td>14.800</td><td>16.783</td><td>0.244±0.062</td><td>0.9360±0.0001</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V77</td><td>05:52:04.79</td><td>+44:32:31. 04</td><td>13.585</td><td>15.564</td><td>0.607±0.096</td><td>2.3193±0.0011</td><td>EA</td><td>A1IV</td><td>TD4</td></tr><tr><td>V78</td><td>05:49:25.15</td><td>+44:34:12. 10</td><td>13.602</td><td>15.616</td><td>0.560±0.125</td><td>3.2111±0.0006</td><td>EA</td><td>A6IV</td><td>TD4</td></tr><tr><td>V79</td><td>05:50:54.13</td><td>+44:42:43. 86</td><td>17. 527</td><td>19.664</td><td>0.411±0.111</td><td>0.3184±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V80</td><td>05:50:31.70</td><td>+44:44: 22. 87</td><td>14.561</td><td>16.684</td><td>0.920±0.099</td><td>1.4937±0.0003</td><td>EA</td><td></td><td>TD4</td></tr><tr><td>V81</td><td>05:51:32. 06</td><td>+44: 48:24. 85</td><td>17. 087</td><td>19.107</td><td>0.593±0.118</td><td>0.4169±0.0001</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V82</td><td>05:53:06.60</td><td>+44: 48:26. 08</td><td>15.186</td><td>17.336</td><td>0.231±0.049</td><td>0.5777±0.0002</td><td>EA</td><td></td><td>TD4</td></tr><tr><td>V83</td><td>05:49:51.67</td><td>+44:51:16. 59</td><td>16. 472</td><td>18.512</td><td>0.326±0.074</td><td>0.3390±0.0001</td><td>EW</td><td>F0</td><td>TD4</td></tr><tr><td>V84</td><td>05:49:53. 60</td><td>+44:55:22. 34</td><td>16.908</td><td>18.969</td><td>0.340±0.078</td><td>1.0243±0.0003</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V85</td><td>05:55:13.98</td><td>+44:57:02. 80</td><td>15.230</td><td>17.266</td><td>0.153±0.038</td><td>0.1434±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V86</td><td>05:51:38.40</td><td>+44:58:19. 50</td><td>15. 464</td><td>17.489</td><td>0.290±0.062</td><td>0.6888±0.0005</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V87</td><td>05:49:49.37</td><td>+44:59:06. 35</td><td>14.884</td><td>16.934</td><td>2.208±0.110</td><td>2. 7776±0.0013</td><td>EA</td><td>A9V</td><td>TD4</td></tr><tr><td>V89</td><td>05:54:40.97</td><td>+45:01:52. 26</td><td>15. 627</td><td>17.748</td><td>0.272±0.054</td><td>0.5523±0.0002</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V90</td><td>05:54:46.41</td><td>+45:06: 15.82</td><td>16.743</td><td>18.775</td><td>0.461±0.123</td><td>0.3680±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V91</td><td>05:51:12.80</td><td>+45:09:15.41</td><td>13.903</td><td>16.034</td><td>0.801±0.119</td><td>0.8523±0.0008</td><td>EA</td><td></td><td>TD4</td></tr><tr><td>V92</td><td>05:53:23. 36</td><td>+45:09:01. 32</td><td>15.087</td><td>17.137</td><td>0.325±0.059</td><td>0.8959±0.0002</td><td>EA</td><td></td><td>TD4</td></tr><tr><td>V93</td><td>05:50:27.64</td><td>+45:11:26.90</td><td>12.709</td><td>14.724</td><td>0.412±0.084</td><td>0.3993±0.0001</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V94</td><td>05:51:27.68</td><td>+45:11: 26. 08</td><td>15.321</td><td>17.299</td><td>0.416±0.091</td><td>0.5401±0.0003</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V95</td><td>05:51:20.64</td><td>+45:11: 36. 14</td><td>16.722</td><td>18.756</td><td>0.532±0.118</td><td>0.4220±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V96</td><td>05:51:54.62</td><td>+45:19: 24. 38</td><td>17. 375</td><td>19.481</td><td>0.495±0.127</td><td>0.3350±0.0002</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V97</td><td>05:50:46.03</td><td>+45:29:48. 53</td><td>15.267</td><td>17.257</td><td>0.132±0.036</td><td>0.1848±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>v98</td><td>05:52:42.82</td><td>+45:28:55. 83</td><td>16.169</td><td>18.339</td><td>0.685±0.113</td><td>0.8176±0.00015</td><td>EB</td><td></td><td>TD4</td></tr><tr><td>V99</td><td>05:50:08.77</td><td>+45:21:28.38</td><td>17. 017</td><td>19.141</td><td>0.426±0.102</td><td>0.3066±0.0001</td><td>EW</td><td></td><td>TD4</td></tr><tr><td>V101</td><td>02:09:30.46</td><td>+51:39:05. 33</td><td>16.529</td><td>18.665</td><td>0.502±0.155</td><td>0.1823±0.0007</td><td>EW</td><td></td><td>TD5</td></tr><tr><td>V103</td><td>02:10:45.52</td><td>+52:01:59.50</td><td>16. 021</td><td>18.186</td><td>0.409±0.119</td><td>0.2644±0.0012</td></table></body></html>
+
+说明：第1列是变星编号，第2和第3列是目标的赤道坐标。第4列是与GaiaDR2 交叉得到的G波段性星等；第5列是实测过程中得到的V波段星等；第6列是实测过程中得到的变星星等振幅的大小；第7列变星的周期是利用Period04进行运算和后期叠加后得到的周期以及周期偏差；第8列是根据变星叠加图像的特征判定的变形类型；第9列是从LAMOST交叉得到的恒星类型，第10列该变星所在的搜寻天区。Note:Column1:variableID;Column 2and3:rightascensionanddeclination;Column4magnitudeinGofGaiaDR2；Column
+
+5:magnitude in V;Column 6:Amplitude;Column 7:periodinday;Column8:typeof variable stars;Column 9:stars Class in LAMOST；Column 10:sky area.
+
+表3观测获得新的脉动变星变源列表  
+
+<html><body><table><tr><td>ID</td><td>RA</td><td>DEC</td><td>Gaia</td><td>V</td><td>Amp (mag)</td><td>Period(d)</td><td>Type</td><td></td><td>lamost</td><td>Area</td></tr><tr><td></td><td>(2000)</td><td>(2000)</td><td>Gmag</td><td>mag</td><td></td><td></td><td></td><td></td><td>class</td><td></td></tr><tr><td>V22</td><td>05:31:09.43</td><td>+45:12:33.84</td><td>12.920</td><td>14.912</td><td>0.101±0.033</td><td>0.1326±0.0001</td><td></td><td>8scuti</td><td>F0</td><td>TD1</td></tr><tr><td>V24</td><td>05:26:29.71</td><td>+45:21:55. 91</td><td>16.836</td><td>18.813</td><td>0.732±0.216</td><td>0.0705±0.0004</td><td>8</td><td>scuti</td><td></td><td>TD1</td></tr><tr><td>V88</td><td>05:49:18.71</td><td>+45:02:14. 03</td><td>15.331</td><td>17.353</td><td>0.378±0.107</td><td>0.0910±0.0006</td><td>8</td><td>scuti</td><td>A6IV</td><td>TD4</td></tr><tr><td>V100</td><td>02:09:37. 21</td><td>+51:33:05. 27</td><td>16.401</td><td>18.382</td><td>0.218±0.061</td><td>0.0966±0.0017</td><td>8</td><td>scuti</td><td></td><td>TD5</td></tr><tr><td>V104</td><td>02:12:58.82</td><td>+52:10:17. 45</td><td>12.699</td><td>14.777</td><td>0.170±0.051</td><td>0.1308±0.0015</td><td>8</td><td>scuti</td><td></td><td>TD5</td></tr></table></body></html>
+
+Tab.3 List of new Pulsating variable stars   
+Tab.4 List of new Semiregular variables   
+
+<html><body><table><tr><td>ID</td><td>RA (2000)</td><td>DEC</td><td>Gaia</td><td>V</td><td>Amp (mag)</td><td>Period(d)</td><td>Area</td></tr><tr><td>V102</td><td>02:14:19.45</td><td>(2000) +51:54:08. 64</td><td>Gmag 14.398</td><td>mag 16.434</td><td>0.674±0.170</td><td>0.4127±0.0005</td><td>TD5</td></tr></table></body></html>
+
+![](images/5da0d6cf75bab90ceabfdfbf594502c0c5ac032c57a0b5dd4b157ff53d46f073.jpg)  
+图4V102变源，光变曲线与相位不重叠 Fig.4 Vio2 variable source，the light curve does not overlap with the phase
+
+已知变源V113，在GaiaDR2中均没有找到对应源，表五中该星G星等值为空。
+
+# 表5已知变星和观测结果列表
+
+表4观测获得新的不规则变星  
+Tab.5 List of Known variable stars   
+
+<html><body><table><tr><td>ID</td><td>RA (2000)</td><td>DEC (2000)</td><td>Gaia Gmag</td><td>V</td><td>Period(d)</td><td>Type</td><td>Area</td></tr><tr><td>V107</td><td>05:30:57.35</td><td>+44:48:12. 26</td><td>12.490</td><td>mag 14.669</td><td>1.1840±0.0003</td><td>EA</td><td>TD1</td></tr><tr><td>V108</td><td>05:29:53.15</td><td>+44:54:42.68</td><td>15.206</td><td>17.281</td><td>0.5196±0.0000</td><td>EW</td><td>TD1</td></tr><tr><td>V109</td><td>05:36:26.75</td><td>+44:35:28.87</td><td>12.010</td><td>14.110</td><td>4.4040±0.0002</td><td>DCEP</td><td>TD2</td></tr><tr><td>V110</td><td>05:36:22.31</td><td>+44:54:33.29</td><td>12.278</td><td>14.300</td><td>0.7336±0.0002</td><td>EB</td><td>TD2</td></tr><tr><td>V111</td><td>05:39:05.15</td><td>+45:00:52.85</td><td>15.598</td><td>17.742</td><td>0.3517±0.0002</td><td>EA</td><td>TD2</td></tr><tr><td>V112</td><td>05:35:17. 48</td><td>+45:34:22. 47</td><td>13.576</td><td>15.716</td><td>0.3132±0.0001</td><td>EW</td><td>TD2</td></tr><tr><td>V113</td><td>05:45:51.26</td><td>+45:30:32.05</td><td>1-1</td><td>16.785</td><td>0.8620±0.0003</td><td>EA</td><td>TD3</td></tr><tr><td>V114</td><td>05:42:02.67</td><td>+45:21:03.63</td><td>17.254</td><td>19.283</td><td>0.2859±0.0001</td><td>RRC</td><td>TD3</td></tr><tr><td>V115</td><td>05:47:51. 53</td><td>+44:59:25. 51</td><td>12.828</td><td>14.857</td><td>0.7010±0.0003</td><td>EW</td><td>TD3</td></tr></table></body></html>
+
+<html><body><table><tr><td>V116</td><td>05:45:10.32</td><td>+44:40:48. 33</td><td>16.158</td><td>18.204</td><td>0.5731±0.0002</td><td>EB</td><td>TD3</td></tr><tr><td>V117</td><td>05:44:46.11</td><td>+44:34:56. 90</td><td>16.390</td><td>18.416</td><td>0.0924±0.0009</td><td>HADS</td><td>TD3</td></tr><tr><td>V118</td><td>05:46:46.88</td><td>+44:33:48. 61</td><td>14. 584</td><td>16.662</td><td>0.7985±0.0008</td><td>EW</td><td>TD3</td></tr><tr><td>V119</td><td>05:46:34.18</td><td>+44:26:52. 07</td><td>12.923</td><td>14.973</td><td>1.1880±0.0004</td><td>EB:</td><td>TD3</td></tr><tr><td>V120</td><td>05:54:17.00</td><td>+44:25:32. 13</td><td>14. 433</td><td>16.482</td><td>0.2185±0.0000</td><td>EW</td><td>TD4</td></tr><tr><td>V121</td><td>05:51:28.65</td><td>+44:30:53.07</td><td>14. 318</td><td>16.401</td><td>0.4384±0.0000</td><td>EW</td><td>TD4</td></tr><tr><td>V122</td><td>05:55:35.73</td><td>+44:36:53.23</td><td>17. 340</td><td>19.363</td><td>0.2706±0.0001</td><td>EW</td><td>TD4</td></tr><tr><td>V123</td><td>05:53:24.03</td><td>+44:39:42. 93</td><td>15.378</td><td>17.375</td><td>0.7266±0.0001</td><td>EW</td><td>TD4</td></tr><tr><td>V124</td><td>02:11:09.24</td><td>+51:29:10. 79</td><td>14.810</td><td>16.892</td><td>0.2383±0.0016</td><td>EW</td><td>TD5</td></tr><tr><td>V125</td><td>02:13:00.97</td><td>+51:43:02. 77</td><td>15.674</td><td>17.650</td><td>0.3189±0.0021</td><td>EW</td><td>TD5</td></tr><tr><td>V126</td><td>05:43:55.46</td><td>+44:51:40. 13</td><td>11. 100</td><td>1</td><td>not detected</td><td>SRB</td><td>TD3</td></tr><tr><td>V127</td><td>02:12:31.31</td><td>+51:46:44. 22</td><td>11. 208</td><td>1</td><td>saturated</td><td>EP</td><td>TD5</td></tr><tr><td>V128</td><td>02:14:48.32</td><td>+51:48:18. 26</td><td>12.500</td><td>1</td><td>not detected</td><td>M</td><td>TD5</td></tr><tr><td>V129</td><td>02:08:08.25</td><td>+52:00:18.43</td><td>15.600</td><td>1</td><td>not detected</td><td>RRAB</td><td>TD5</td></tr><tr><td>V130</td><td>02:08:40.10</td><td>+51:48:01. 35</td><td>11. 300</td><td>1</td><td>saturated</td><td>SR:</td><td>TD5</td></tr></table></body></html>
+
+# 5讨论
+
+TD1-4天区观测有效时间也比较长，获得的桢数比较多，分别发现了29、24、21和25个变源。而TD5天区只发现了7个变源，并且周期的误差也较大。一个可能的原因是TD5天区变源本身就少；还一个可能是采样总量不足和采样间隙过长，导致很多潜在目标没有被发现。
+
+GCVS 5.1是大家常用公认的变星权威性参考星表。本次交叉证认中发现，新的125颗变源在与GCVS 5.1交叉证认时得到的结果只有两个。25个应该发现的变源，GCVS5.1只包含了6颗源，这反映出GCVS5.1的完备性较差。例如，随着设备的不断增加和观测能力的提升，近些年新发现的天琴座RR 变星应该是比较多的。在仔细分析了GCVS 5.1的星表后发现它收录2000年之后的源非常少。虽然星表总共有5万多颗变源，收录2000年以后发现的不到200个。2016-2017年发表的源都没有纳入其中。
+
+在使用AAVOS）的VSX数据库时，变星的总数量有60多万颗，相对GCVS5.1而言比较完善。也碰到部分数据信息给的不完整，变星描述中的一个或者几个参数没有完整给出的情况。
+
+与Gaia交叉认证前，认为空间望远镜GaiaDR2的数据应该是光学天文目标源的完备集，使用中发现新的变源V13、V38和已知变源V113，在GaiaDR2 中均没有找到对应数据。表二和表五中的G星等因此为空。
+
+# 6结论
+
+在南山一米大视场天文望远镜已有的时域巡天历史中进行数据发掘，此次搜寻的变源与LAMOSTDR5数据交叉的时有17个源，已知变源于与LAMOSTDR5数据交叉时有9个源。大部分是A和F型，还有部分G型星。
+
+虽然是对较密集的星场进行的时域观测，但各个天区变源的数量相差很多。搜寻过程中发现，对于新发现的变源而言，单天区有效观测的帧数和观测总小时数，对新发现变源的数量有较大的影响。新的变源中，食双星所占比重非常大。单就食双星而言EW型超过了一半多。V波段视星等分布情况是，亮于11.3和暗于18等的目标，分别因为饱和和测光误差等原因均不适宜观测。该巡天数据找的目标分布在15-17等的的变源所占比重较大，原因一是这个范围的源比较多，二是这个范围的测光误差相对比较小。联合观测虽已过去了几年，但依然有这么多变源可以去挖掘。说明南山一米大视场天文望远镜的口径、视场和观测深度这些基础，在变星的搜寻上仍有很大潜力可以挖。
+
+# Variable star searching in several areas near the Milky Way disc
+
+Bai Chunhai1,³， Zhou Jilin²，Feng Guojie’， Zhang Hui²， Zhang Xuan’，Liu Huigen²，Nit Hubiao²,Ma Lu’， A1i Esamdin³， Hu Jingyao¹， Jiang Xiaojun1,2 （1,KeyLborralrtilocalsdiega； 2,School of Astronomyand Space Science,University of Chinese Academy of Sciences,Beijing 10049,China; 3,Xinjiang Astronomical Observatory,Chinese Academy of Sciences,Urumqi 83ool1,China; 4, College of Astronomy and Space Sciences,Nanjing University,Nanjing 21oo23,China）
+
+Abstract:In the history of the observation of Nanshan One meter widely-field telescope located at NanShan station of Xingjiang Astronomical Observatiories(XAO)，we carried out detailed data mining and found more than a hundred variable sources.The data processing pipeline is the XAO time domain survey data processing package,which considers the internal weight and correlation of the metering system,and is writen in combination with the fast hybrid algorithm. Removing the known sources,we find new sources.In the process of identifying new sources,we intersected the results with LAMOST,GCVS 5.1, VSX, Gaia DR2 and other star tables,and explained the results of each star table.In the end, most of them were binary stars,a few were pulsating variable stars,and there was a strange variable source.
+
+Key words:Time-domain survey; Eclipsing binary stars; pulsating variable star;
+
+# 参考文献：
+
+[1] Samus N.N.，Kazarovets E.V.，Durlevich O.V.，Kireeva N.N.，Pastukhova E.N. General Catalogue of Variable Stars:Version GCVS 5.1，Astronomy Reports[J]，2017，61(1):80-88.   
+[2]Foster,G. Long-Term Light Curves of Cepheid Variables[J].The Journal of the American Association of Variable Star 0bservers,2006,34(2),275.   
+[3] Ennio Poretti，Jean-Francois Le Borgne,Alain Klotz，Monica Rainer and Mercedes Correa.Cyclic variations in the periods of RR Lyr stars.arXiv:1801.09702v1.   
+[4] Tao-Zhi Yang,Ali Esamdin,Jian-Ning Fu, Hu-Biao Niu,Guo-Jie Feng,Fang-Fang Song，Jin-Zhong Liu, Lu Ma.Pulsations of the High-Amplitude δ Scuti star YZ Bootis[J].RAA,2018,18(1) :2.   
+[5］杨勇，张燕平，付建宁，苍天启．W UMa型食双星GM Bootis测光研究[J]．天文研究与技术，2018，15(1)：17-24. Yang Yong，Zhang Yanping，Fu Jianning，Cang Tianqi.Photometric Study of W UMa type Eclipsing Binary GM Bootis[J]．Astronomical Research & Technology，2018，15(1)：17-24.   
+[6］马冬，吴潮，田海俊，魏建彦．大视场光学瞬变源认证系统的设计与实现[J]．天文研究与技术，2016，13(2)： 190-198.   
+Ma Dong，Wu Chao,Tian Haijun,Wei Jianyan.The Designand Implementationofa Wide-Field Optical Transient Identification System[J]．Astronomical Research & Technology，20l6,13(2):190-198.   
+[7] Wang,Songhu;Wu, Dong-Hong; Addison,Brett C.;Laughlin,Gregory; Liu,Hui-Gen; Wang,Yong-Hao; Yang, Taozhi;Yang,Ming； Yisikandeer,Abudusaimaitijiang; Hong,Renquan; Li, Bin; Liu,Jinzhong； Zhao,Haibin; Wu,Zhen-Yu；Hu,Shao-Ming； Zhou,Xu；Zhou,Ji-Lin；Zhang,Hui；Zheng，Jie；Wang，Wei；Fan,Zhou； Niu, Hubiao; Chen,Yuan-Yuan; Lu,Hao; Peng,Xiyan;Li,Kai; Guo,Di-Fu.Transiting Exoplanet Monitoring Project (TEMP)．III.On the Relocation of the Kepler-9 b Transit[J],2018,AJ,155:73.   
+[8]Tamuz，0.，Mazeh，T.，Zucker，S. Correcting systematic effects in a large set of photometric light curves[J]．Mon．Not．R.Astron．Soc．2005，356:1466-1470   
+[9]Ofir，A.，Alonso，R.，Bonomo，A.S.，Carone,L.，Carpano，S.，Samuel，B.，Weingrill，J.，Aigrain，S., Auvergne,M.，Baglin，A.，Barge,P.，Borde,P.，Bouchy，F.，Deeg，H.J.，Deleuil，M.，Dvorak，R.，Erikson, A.，Mello，S.F.，Fridlund,M.，Gillon，M.，Guillot，T.，Hatzes，A.，Jorda，L.，Lammer，H.，Leger，A., Llebaria,A.，Moutou,C.，Ollivier，M.，Päetzold,M.，Queloz，D.，Rauer，H.，Rouan，D.，Schneider，J., Wuchterl，G. The SARS algorithm:detrending CoRoT light curves with Sysrem using simultaneous external parameters[J]．Mon.Not.R. Astron. Soc.2010，404:L99-L103.   
+[10] Colier Cameron，A.，Pollacco,D.，Street，R.A.，Lister，T.A.，West，R.G.，Wilson，D.M.，Pont，F., Christian,D.J.,Clarkson,W.I.,Enoch,B.,Evans,A.,Fitzsimmons,A.,Haswell,C.A.,Hellier,C.,Hodgkin, S.T.，Horne,K.，Irwin,J.，Kane,S.R.，Keenan,F.P.，Norton,A.J.，Parley，N.R.，Osborne,J.，Ryans，R., Skillen，I.，Wheatley，P.J.A fast hybrid algorithm for exoplanetary transit searches[J].Mon. Not.R. Astron.Soc．2006，373：799-810．

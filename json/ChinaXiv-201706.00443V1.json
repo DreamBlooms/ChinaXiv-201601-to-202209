@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201604010594 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于瑞宏,张笑欣,刘廷玺,郝艳玲.浅水湖泊稳态转换预警识别方法局限与展望.生态学报,2017,37(11);3619-3627.YuRH,ZgXFddiatodseoloofiiActaEcologica Sinica,2017,37(11） :3619-3627.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "浅水湖泊稳态转换预警识别方法局限与展望",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于瑞宏1，\\*，张笑欣1，刘廷玺²，郝艳玲",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1内蒙古大学环境与资源学院，呼和浩特010021  \n2内蒙古农业大学水利与土木建筑工程学院，呼和浩特010018",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;浅水湖泊水体底泥交换强烈,极易受人类活动干扰，超过一定阈值即可能发生灾难性的稳态转换,对其有效识别有助于湖泊富营养化的及时防控与修复。浅水湖泊稳态转换可通过系统关键变量(叶绿素、溶解氧、浮游动物、鱼类等)的时间序列（判别不同稳态）预警信号及阈值等进行识别,其中预警识别可为湖泊生态系统稳态转换提供预判信息,有利于早预警早行动。目前,浅水湖泊稳态转换预警识别因子(方差及自相关性等)主要用于“临界慢化\"现象,但在强大外力作用、强烈随机扰动及极端事件下,这些“临界慢化\"因子则可能出现误用或错用。基于浅水湖泊基本特征,针对稳态转换的不同驱动机制,探讨“临界慢化”因子的适用性与局限性,并展望其未来发展方向,旨在为湖泊生态系统稳态转换预警识别提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：浅水湖泊;稳态转换;预警识别;临界慢化;驱动机制;局限；展望 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forewarned is forearmed: limitations and prospects of early warning indicators of regime shifts in shallow lakes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YU Ruihong1,\\*， ZHANG Xiaoxin1，LIU Tingxi²，HAO Yanling' 1 College of Environment and Resources，Inner Mongolia University，Hohhot O1oO21,China 2 Colege ofConservancy and Civil Engineering，Inner Mongolia Agricultural University，Hohhot O1oo18，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In shalowlakeecosystems,the exchange rate between waterand sedimentis high and can be easilydisturbed by anthropogenic pressures.Aditionally,catastrophicshiftsoccur whenathresholdisreached；however，fective methods for detectingregime shiftscancontribute tothetimelycontrolandrestoration of eutrophication.Regimeshiftsof keyvariables, including chlorophyll，dissolved oxygen，andbiomassof zooplanktonand fishes，maybedetected eitherthrough timeseries analysis，earlywarning signals providedbytheabruptchangesof indicators，oridentificationof thresholdsof explanatory variables，in which early warning signalscan provide the most useful forecasting information.Thusfar,the most widelyused early warning indicators，suchasautocorelationandvariance，are usuallyapplied to lakeecosystems subject to the phenomenon of critical slowingdown（CSD).However，under conditions of high stochasticity，strong exteral perturbation, and extreme events，these measuresmayunderperform or subject tomisinterpretation.Thus，in terms of driving mechanisms，the aplicabilityandlimitationsof CSDindicators arehereindiscussed,as wellastheir prospects.Theaimof this studyistosynthesizewhatiscurrntly knownabouttheearlywarning detectionofregimeshiftsinshallow lake ecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "limitations ；prospects ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浅水湖泊生态系统对外界干扰的反应会随着干扰强度的增强而出现结构或功能的突然变化，即稳态转换[1],这种转换通常具有突发性与难预知性,同时兼具非线性、多阈值、多稳态以及迟滞效应等特征。目前，国内外学者主要围绕浅水湖泊生态系统稳态转换的基本理论[2-4]、驱动因子[5-6]、预警识别[7-13]等开展了大量研究,其中,预警识别是近年来的研究热点,也是湖泊富营养化防控的有效方法,且已在“临界慢化”（Criticalslowing down)现象中证明了其有效性。所谓“临界慢化”,就是接近临界点时,即使很小的外力扰动,生态系统也趋于缓慢恢复[14-5],该现象可直接通过扰动实验[16]或间接通过\"临界慢化\"因子（简称 CSD 因子,如方差、自相关性、偏度、峰度及条件异方差等)的异常变化来进行识别[17-18]。尽管 CSD 因子具有坚实的理论基础及许多的应用经验,但其并不是预测所有类型稳态转换的灵丹妙药。在外部驱动(外源性氮磷负荷、气候变化、风浪、湖泊水位等)及内部驱动(鱼类、水生植物等)共同作用下,除“临界慢化”机制外,浅水湖泊生态系统还存在如慢-快循环转换[19]、闪变[20-21]、随机共振[2]、极端瞬变[18]、驱动力阶跃变化[18]等多种机制,其中某些机制单独或联合作用下,则可能会导致CSD因子的误用或错用。目前,浅水湖泊稳态转换预警研究大多是针对已发生转换生态系统的回顾式反演,而非前进式预测,因此,如何准确判断特定浅水湖泊生态系统稳态转换的驱动机制,并采取适宜的预警因子进行识别,仍是国际研究难点。为此,本文针对浅水湖泊生态系统稳态转换的不同驱动机制,揭示CSD因子的适用性与局限性,并展望其未来发展趋势,旨在为浅水湖泊生态系统稳态转换预警识别提供科学参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1浅水湖泊的基本特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浅水湖泊是相对于深水湖泊而言的湖泊范畴,目前并无通用的定义,本文采用 Scheffer（1998）所著“Ecology of Shallow Lake”一书中的描述,作为浅水湖泊定义的参考[23],所谓浅水湖泊就是：（1)光线可穿透水体进入湖底,即光补偿深度(透明层深度)超过水深的水体;(2)平均水深小于 $3 \\mathrm { m }$ ,且夏季不存在热力分层的湖泊。通常而言,浅水湖泊具有以下特征：(1)生态系统较为脆弱,具有较低的污染负荷能力[23」;(2)水生植物对浅水湖泊功能存在极大影响,可使湖体出现复杂的生态过程和反馈机制[2];（3)水土界面常由于动力扰动处于不稳定状态,物质交换强烈,湖底沉积物内源释放对上覆水产生显著影响[24」；(4)位于高强度农业区的浅水湖泊,不能从根本上控制外源,当沉积物中氮磷营养盐的生物地球化学循环、食物网结构和生态环境破坏后,水动力条件、表层底泥生物及理化性质的变化等都会通过反馈机制阻碍生态恢复进程[25]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2浅水湖泊\"稳态转换\"预警识别方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态系统稳态转换识别包括不同稳态识别、预警识别及阈值识别等[26],常用识别方法见表1。就浅水湖泊生态系统而言,稳态转换预警及阈值识别定量方法主要包括;实验观测、模型模拟及统计因子分析等3种方法[27]。(1)实验观测法:侧重于物种结构和功能的监测,主要用于稳态转换理论的验证及生物操控对湖泊稳态影响的评估[28],尤其将实验监测数据与CSD 因子相结合可有效用于稳态转换预警与预测[9,13,29];然而,实验观测法的条件限制较多，目前应用实例极少，这些条件主要包括：1）尽可能同时选取生物操控湖泊与对照湖泊,二者处于相同气候及流域条件下,且环境变化不会对湖泊稳态转换产生影响;2）需要大量实验观测数据,实验控制要适度,不能太快或太慢;如果外力增加太快,驱动系统快速通过转换点,会出现大的观测错误或预警信号被多元非线性过程的相互作用所抑制;若取样频率太低,则可能错过稳态转换时段,导致无法识别；3）外力扰动尽量要小,强烈扰动及线性过程累加可能会导致错误预警;4）需明晰生态系统复杂机理,否则难于遴选监测指标。（2)动力学模型,如沉水植物模拟模型[30],营养盐动力学模型[31],生态动力学模型[32]、动态食物链模型[33]等,主要用于稳态转换阈值识别,但难于预警稳态转换。（3)统计因子分析是湖泊稳态转换预警中最为广泛应用的方法，其可揭示长时间序列监测数据的规律，通过识别稳态转换发生前CSD因子出现的异常变化，即可判定湖泊生态系统是否趋近临界点,进而确定系统变量是否发生突变,借以预警稳态是否发生转换。鉴于CSD 因子分析可为预测和预防生态系统灾变提供可行有效的识别手段[12,26],本文将着重对预警识别统计分析法进行深入探讨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f33661a7b8981fe50e9544b736c0adff2b2427a01f7a295ce252dfcc0e260e9.jpg",
+        "table_caption": [
+            "表1湖泊生态系统稳态转换常用识别方法[26] ",
+            "Table1A variety of ways to detect regime shifts in shallow lake[26] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>识别内容</td><td>不同稳态识别 Identification of 2 distinct regimes</td><td>预enication f earlywaringsigmals</td><td>值cation f a hreshld</td></tr><tr><td>识别方法</td><td>连续F检验</td><td>时间序列统计特征(方差，偏度，峰度，条件异方差等)</td><td>主成分分析</td></tr><tr><td></td><td>连续T检验</td><td>时序方法(自相关性,时变P阶自回归模型等)</td><td>时间聚类分析</td></tr><tr><td></td><td>连续STARS法</td><td>非参数漂移-扩散模型</td><td>功率谱密度</td></tr><tr><td></td><td>回归法</td><td>扰动后恢复时间</td><td>马尔可夫链蒙特卡罗法</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "浅水湖泊生态系统预警识别统计分析法包括基于度量因子及基于模型等两种识别方法[34]。其中,度量因子主要包括：方差[7],自相关性[8],偏度[11],峰度[12],条件异方差[13]等,以上因子通称为CSD 因子;识别模型则主要包括;时变自回归模型[35],非参数漂移-扩散模型[9]等。许多专家学者对于稳态转换预警统计分析方法已经进行了全面系统的回顾,其中,李玉照等[27]及Dakos 等 [34]对预警识别统计方法的基本理论、计算公式及文献应用进行了系统完整的综述,Andersen[36]则对预警识别的相关统计软件及其应用进行了全面细致的总结。因此,本文不再赘述,仅给出浅水湖泊生态系统稳态转换预警识别步骤（图1),以及CSD 因子异常变化及其在各步骤中的影响因素（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/52ab174ee758e5f75a560dc13d0747d554ef3c2960cba41cbd8cee82de3b8a48.jpg",
+        "img_caption": [
+            "图1湖泊生态系统稳态转换预警识别流程",
+            "Fig.1Steps for detecting early warning signals of regime shift in shallow lake ecosystems "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3“稳态转换”预警识别方法的适用性与局限性 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态系统稳态转换的驱动机制可简单划分为6种类型[18],主要包括慢速环境驱动、慢-快循环转换、闪变、随机共振、极端瞬变、驱动力阶跃变化等(表3)。不难看出,外力作用及随机扰动决定着稳态转换机制及其被识别的可能性,而CSD 因子是否有效则可反过来用于稳态转换机制类型的判断。以下分别就“稳态转换”预警识别方法的适用性与局限性进行详细阐述及说明。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfbdc65a6212ed0dc153bf36af33bc9bc210774541af75b93ceaced01a2822fc.jpg",
+        "table_caption": [
+            "表2湖泊生态系统稳态转换预警识别方法",
+            "Table 2Methods for detecting early warnings of regime shift in shallow lake ecosystems ",
+            "表3湖泊生态系统稳态转换驱动机制",
+            "Table 3Driven mechanisms of regime shift in shallow lake ecosystems "
+        ],
+        "table_footnote": [
+            "$\\surd$ ：出现相应异常现象;y：缺失数据太多时需要内插;n：不需要内插;d：是否需要进行数据变换取决于数据质量;log：对数变换;+：敏感；-：不敏感"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">方法 Methods</td><td rowspan=\"2\">识别因子/模型 Indicators/Models</td><td colspan=\"3\">异常现象 Phenomenon</td><td colspan=\"2\">预处理 Preprocessing</td><td rowspan=\"2\">滤波/ 去趋势 Filtering/ Detrending</td><td colspan=\"2\">敏感性 Sensitivity</td><td rowspan=\"2\">显著性 Significance</td></tr><tr><td>升高记忆</td><td>升高变化</td><td>闪变</td><td>内插</td><td>变换</td><td>滑窗大小</td><td>滤波</td></tr><tr><td rowspan=\"4\">度量因子</td><td>1阶自相关</td><td>√</td><td></td><td></td><td>y</td><td>d</td><td>+</td><td>+</td><td>+</td><td>零模型假设</td></tr><tr><td>方差</td><td></td><td>√</td><td>√</td><td>n</td><td>d</td><td>+</td><td>+</td><td>+</td><td>零模型假设</td></tr><tr><td>偏度</td><td></td><td>√</td><td>√</td><td>n</td><td>d</td><td>+</td><td>+</td><td>+</td><td>零模型假设</td></tr><tr><td>峰度</td><td></td><td>√</td><td>√</td><td>n</td><td>d</td><td>+</td><td>+</td><td>+</td><td>零模型假设</td></tr><tr><td rowspan=\"3\">模型</td><td>条件异方差</td><td></td><td>√</td><td>√</td><td>n</td><td>d</td><td>1</td><td>+</td><td></td><td>内置</td></tr><tr><td>时变P阶自回归模型</td><td>√</td><td>√</td><td>√</td><td>n</td><td>log</td><td>+</td><td></td><td>一</td><td>内置</td></tr><tr><td>非参数漂移-扩散模型</td><td>√</td><td>√</td><td>√</td><td>n</td><td>log</td><td>1</td><td>1</td><td></td><td>MC 误差估算</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05ab58aec42a07c0a2629bc9d4dbdefba278ec8f4954d0a5282673b53022531d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "11期"
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "续表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a565e90e0ed205f536da9702d969b50fdc008432463f58aeec028b76140ba31.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1“稳态转换\"预警识别方法的适用性 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "统计因子分析是\"稳态转换\"预警识别的常用方法[27],具有坚实理论基础,广泛应用于富营养化湖泊稳态转换预警识别,其优势在于长时间序列CSD 因子会在稳态转换前呈现显著变化,但无需掌握湖泊生态系统的复杂动态机制和过程。然而,由于生态系统稳态转换可能发生于分,小时,日,月,年等不同时间尺度,甚至转换过程中就直接消失,而CSD 因子的变化则需要一定的时间段进行识别。因此,CSD 因子适用于“慢速环境驱动”及“慢-快周期转换”机制下稳态转换的识别。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)慢速环境驱动;在慢速环境驱动作用下,浅水湖泊生态系统完全符合“临界慢化”机制,即在几乎接近临界阈值时发生稳态转换,可用于识别浮游植物、浮游动物或全湖生物群等关键监测变量的突变。Drake[17]采用方差、偏度、时间及空间自相关等统计因子的突变,用于判定以浮游动物(大型水蚤)从减少到灭绝为代表的浅水湖泊稳态转换,研究指出,综合考虑以上4种计因子的异常变化可有效降低稳态转换判定的不确定性,且在转换发生前110d即可进行预警[17]。Carpenter[9]等基于全湖野外实验,连续3年人为引进大嘴鲈鱼改变湖泊原有食物网,并以毗邻相似湖泊为参照,采用方差、返回率、偏度及光谱比率等统计因子,识别叶绿素浓度、浮游动物生物量、食浮游生物动物密度等关键变量的突变,结果表明,在环境驱动力缓慢作用下,湖泊生态系统物种循环和能量流动路径及效率受到扰动,从而导致稳态转换[9]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)慢-快循环转换:浅水湖泊系统中,慢-快循环转换的发生需满足某些特定条件[19],这些条件包括：1)水生植物产生的内源释放效应较大;2）湖泊不太浅且水生植物对透明度无强烈影响,系统迟滞现象存在,但前后阈值相差不大。鉴于以上条件,循环转换在现实中发生概率相对较小,仅见于英国的Alderfen Broad 湖和荷兰的 Botshol 湖。van $\\mathrm { N e s } ^ { [ 1 9 ] }$ 基于慢-快理论对 Botshol湖的研究表明,浅水湖泊中,营养盐负荷为慢速变量,浊度为快速变量,沉水植物为振荡变量，快慢变量均与振荡变量相作用产生正负反馈,短期内沉水植物通过净化水体产生正反馈,但长远来看则会由于沉积物营养盐的内源释放产生负反馈，正负反馈共同作用形成湖泊循环转换。尽管湖泊稳态循环转换过程中无临界点出现,但转换前仍可从快速变量(浊度)动态中观测到CSD 因子的突然变化[19]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2稳态转换\"预警识别方法的局限性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于湖泊生态系统稳态转换驱动机制不尽相同,CSD 因子在概念、应用与方法层面均存在一定局限性[18],主要体现在：(1)概念层面,CSD 因子能否对稳态转换进行明确识别,很大程度上取决于这种转换是否为临界转换(存在临界点)及是否逐渐趋近,也就是说,识别会受到驱动机制的条件约束,若不能满足适用条件,则会产生误用或错用;（2)应用层面,CSD因子的应用与生态系统时空尺度和关键变量(叶绿素、浮游动物、鱼类等)监测能力紧密相关,强环境扰动或不充分监测均会降低其在适宜时间尺度预测适宜变量的能力;（3)方法层面,CSD 因子的敏感性及显著性不仅依赖于数据的数量和质量,同时也取决于对所使用的各种统计工具的基本假设[34,37]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1CSD 因子识别稳态转换的局限性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3所示6种转换机制中,除慢速环境驱动、慢-快周期转换等2种机制可由CSD 因子有效识别外,闪变、随机共振、极端瞬变、驱动力阶跃变化等4种驱动机制下,稳态转换并不跨越临界点,无“临界慢化\"现象出现，因此，难于使用CSD因子进行有效识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)闪变强烈扰动可导致“闪变\"现象,即系统在远离临界点时就发生不同状态间的往复跃迁,这种现象是系统离开“安全运行空间\"（Safe operating space)的直接信号[20]。在湖泊生态系统中,当“闪变”发生时,方差将升高[7-8,20],自相关性则可能升高[34,37]或降低[20];但在极端随机或混沌动态下,方差和自相关性均不能用于稳态转换预警[38-39],此时非参数模型[34]与时变自回归模型通常可替代CSD 因子,较好地识别该种“闪变”机制下的稳态转换。Dakos[21]的研究则进一步表明,通过时间序列概率密度分布重建吸引域,并将重建潜力与统计因子分异特征相结合,是识别“闪变”机制下稳态转换的最好方法[2I]。该种驱动机制下,需要依据扰动强度判定CSD 因子可否用于稳态转换识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2)随机共振最初由 Benzi等人提出并用于解释第四纪冰川变化[40],其后逐渐被用于描述非线性系统中由于内、外噪声存在而增加系统输出的响应[41]。就湖泊生态系统而言,随机共振效应通常发生于生物群落稳定边缘,因而轻微随机环境噪声就可能导致巨大的种群丰度变化。Beninca[22]研究了佛罗里达 Tarpon 湖浮游生物群落与气温随机变化间的共振关系,结果表明,轮虫、水蚤类等浮游生物与温度波动几乎具有相同的时间尺度变动范围,其生长速率周期性与温度红噪声时间尺度之间的共振,可引发浮游生物的强烈波动,从而导致湖泊物种发生转换。当该种驱动机制作用时,稳态转换前难于观察到CSD 因子(方差及自相关性)的增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)极端瞬变强烈的外界扰动会驱动生态系统远离当前状态,但并未真正转变为另一种稳态,其表现为极端事件下的短时间稳态转换,如低氧事件或病原体爆发导致鱼群消失,后期回弹,但并未真正发生稳态转换[18]。CSD 因子不能对该种驱动机制下的稳态转换进行识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)驱动力阶跃变化 恒定驱动力突然发生阶跃,并持续作用于生态系统,促使生态系统发生永久的稳态转换,CSD因子不能对该种驱动机制下的稳态转换进行识别。驱动力阶跃变化机制尚未见于浅水湖泊的应用实例,有待进一步探讨与研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2CSD因子错误预警及无预警的局限性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "稳态转换预警研究通常会选择相对理想的时间序列进行分析,然而,当环境因子随机波动较大、系统对环境因子不敏感或跟随环境高频波动的能力降低时,CSD因子则可能出现错误预警及稳态转换前无预警信号的情形。其中,错误预警通常源自外界随机扰动变化,CSD 因子(方差及自相关性)的升高可能是由环境冲击驱动，而非趋近临界转换[42」;而无预警信号则具有多种来源,主要包括：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)数据序列太短已有研究多遴选长序列、高质量、低噪声的湖泊监测数据进行稳态转换预警识别[7,11,12],但遇大波动噪声、驱动力快速变化、短时序低质量数据等情形时,CSD 因子则表现欠佳,难于在稳态转换前进行预警[39]。鉴于此,为了提升短期密集时间序列数据用于稳态转换预警的可行性,从识别 CSD 因子异常转向定义临界预警水平可为预警识别提供新思路[12]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)观测频率不适宜增加观测频次有助于准确估算方差,但增加观测间隔、减少频次有利于准确估算自相关性[34,37],二者互相牵制。因此,选择适宜观测频率(不能过高或过低),保证湖泊生态系统过程与取样过程时间尺度相匹配,有利于CSD 因子的有效识别,否则就会出现无预警情形。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)空间过程扰动大空间扰动、主要物种的不规律运动、空间异质性或扩散等空间交互作用,均会导致浅水湖泊系统关键变量时间序列CSD 因子在稳态转换前无预警信号[43];然而,空间CSD预警因子（如空间方差)通常可克服时间CSD 因子的局限性,呈现升高趋势,有效提升空间过程扰动情形下的预警识别能力[44]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)多源噪声共同作用浅水湖泊生态系统通常会受到多源噪声影响,当环境随机性同时体现在系统状态和过程中时,噪声对方差的影响就不能仅采用简单方程进行估算,而需借助多维方差矩阵[34],否则系统关键变量动态变化就可能会被放大或抑制,从而导致突变前方差预警失真[45]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5)关键变量快速趋近临界阈值CSD 因子的变化需要一定时间长度进行识别,当外力缓慢作用于湖泊生态系统时,CSD 因子可在稳态转换前有效预警;然而,当生态系统关键变量快速趋近临界阈值,CSD 因子通常在稳态转换后才会呈现升高趋势,无法提前进行识别[12]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(6)关键变量遴选错误并非所有关键变量对湖泊生态系统稳态转换都同等敏感,相同驱动力作用下，不同变量的表现不尽相同,不恰当的变量选择可能会导致转换前无预警信号。Bat[46]的研究表明,相对于估算变量(总初级生产力、呼吸作用、生态系统净生产量),直接监测变量(溶解氧,pH,叶绿素a浓度)能获得更好的预警效果,原因在于避免了生态模型用于变量估算的不确定性[46]。因此,基于浅水湖泊系统理论及实验,选择正确的系统变量至关重要。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(7)同步发生多种稳态转换浅水湖泊食物链可能会同时经历多个不同但相关联的稳态转换（如鱼类、浮游动物、浮游植物等)[15],此时系统行为时间序列通常是多种转换共同作用的结果,这会直接导致湖泊生态系统响应被抑制或放大,当响应被抑制时,稳态转换前则无预警信号发生[47]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4“稳态转换”预警识别展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管统计因子分析应用于湖泊生态系统稳态转换预警识别具有一定的局限性,在强扰动作用下还会出现误用或错用,但大量成功实例证明了其潜力及有效性，未来可从多源数据综合利用、监测方案创新及多方法联合使用等方面不断提升与完善。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)遥感数据与实验监测数据有机结合",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "理论需求与可获取高频监测数据的不匹配问题是浅水湖泊生态系统稳态转换研究的挑战，而自动水质监测与遥感技术的有机结合则为稳态转换预警提供了机遇。遥感技术可提供实时、高频率、长时间、大空间尺度浮游藻类群的实时影像,将航片和卫星影像获取的空间信息与长时序水质、植被监测数据相结合,能够为生态系统动态时空特征提取提供新途径,从而远离预警错误信息及不明信号,为稳态转换预警识别奠定基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)机理模型与统计模型有机结合 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前使用的生态系统稳态转换模型包括统计模型、动力模型、均衡模型及智能模型[26],其中统计模型可揭示长时间序列监测数据的规律,机理模型可从多尺度阐明稳态转化理论,若将统计模型与机理模型相结合，就可以形成多种组合用于稳态转换识别,很大程度上克服单独使用统计模型的局限性。此外,联合使用方差、偏度、峰度及自相关等CSD 因子的异常变化用于稳态转换的判定,可有效提高“闪变”机制下稳态转换识别效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)从突变预测到恢复力图解 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "稳态转换的先验知识可能会导致稳态转换预警的偏差[48],已有浅水湖泊研究通常局限于定点监测,而对不同时空尺度恢复力的大小不得而知,如果能够绘制不同时间不同地理位置的恢复力分布图,则能有效估算不同时间不同位置的恢复力及稳态转换发生的可能性,以便于不同区域优先顺序管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)期望稳态CSD因子安全允许范围的确定",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Carpenter 的研究表明[49],方差升高可作为临界慢化现象稳态转换的预警信号,然而为避免生态系统稳态转换,短时间内快速降低方差,不仅不能阻止稳态转换发生,还会增加系统跨越临界阈值的风险,导致生态系统向相反稳态发展，可见找出期望稳态CSD 因子安全允许范围是有效预警的重要条件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "International Ecology Institute，2003：10-10.  \n[2]SchefrosrS,ejeossepnE.leativequilialokesesiol&Eoutio99（8)：275-279.  \n[3]ScheferM,arpenterSR,FoleyJA,FolkeC，WalkerB.Catastrophicshiftsinecosystems.Nature,2,43（6856):591-596.  \n[4] Scheffer M,Jeppesen E.Regime shifts in shallow lakes.Ecosystems,2007，10(1）:1-3.  \n[5]ZhangSY,iuAF,MaJM,ZhouQH,XuD,ChengSP,ZhaoQ，WuZB.ChangesinphysicochemicalandbiologicalfactorsduringregieshitsnaestoatimosaifacoisalleeocselakolcalEgg）：1.  \n[6]JanssenABG,TeurlincS,AnSQ,JanseJH,aerHW,MoijW.AlteativetablesatesilargeshalowakesJoualfreatakesResearch，2014,40(4)：813-826.  \n[7]CarpenterSR,Brock WA.Risingvariance：aleading indicatorofecologicaltransition.EcologyLeters，2O06,9（3）:311318.  \n[8] CarpenterSR,ockWA，ColeJKitchellJFaceLLeadingindicatoroftrophcascadesEologLeers,O08，（)-18.  \n[9] CarpenterSR,ColeJJ,PaceML,Batt,BrockWA,ClineT,ColosoJ,HodgsonJR,KitchelIJF,SekellDA,SmithL，WeidelB.Earlywarnings of regime shifts：a whole-ecosystem experiment. Science，2011,332(6033）：1079-1082.  \n[10]KleinHldHetscHeldepotetialolefsectralpopertisetectigesolsiErthte：plaiotethermohaline circulation. Ocean Dynamics，2003,53(2）：53-63.  \n[1]GutalVapashgeslailofios）.  \n[12]BiggsR，arpenterS,rockW.Tugbackfrothebnk：detectingampedingregieshiftinitvertitProfeNational Academy of Sciences of the United States of America,2009,106(3): 826-831.  \n13]Skelcediaestiinait,2011,178(4): 442-451.  \n[14]Wissel C.Auniversal lawofthe characteristic return time near thresholds.Oecologia，1984,65(1）：101-107.  \n[15]ScheferM,ascompteJ，Brock WA,BrovkinV,CarpenterSR,DakosV,HeldH,vanNsEH,RetkerkM,SugiaraG.arl-waingsignals for critical transitions.Nature,2009,461(7260）：53-59.  \n[16]VerartAJseEJ,osVnsEinMheRecovytesefisaeiingptiivngNature，2012，481(7381):357-359.  \n[17]DrakeJM,GrifenBD.Earlywaringsignalsofextinctionindeterioratingenvironents.Nature，210,467（7314）:456-459.  \n[18]Dakos V，CarpenterSR,vanNesEHScheferM.Resieindicators:prospectsandliitationsforarlywaingsofregehits.Philosophical Transactions of the Royal Society B,2015，370(1659）：20130263.  \n[19]vanNsEHipJhefrMAoforicifsewlteativeasilkeso，）.  \n[20]Wang R,DeagJAngoPG,ZgEL,YangXD,DkosVheer.ckerigiearlaigalsofiilsta eutrophic lake state. Nature,2012,492(7429): 419-422.  \n[21]Dakos V,van NesEH,Schefer M.Flickeringas an early warming signal.TheoreticalEcology，2013,6(3):309-317.  \n[22]BenincdE,DkosVanNesEH,HuismnJ，heferMesoaceofplanktoomnisitmperaturfctuatiosicaNaturalist,2011,178(4): E85-E95.  \n[23]Schefer M.Ecology of Shallow Lakes. London: Chapmanand Hall，1998: xiv-xiv.  \n[24] 曾海鳌，吴敬禄.近50年来抚仙湖重金属污染的沉积记录.第四纪研究，2007，27(1)：128-132.  \n[25] MossB，MadgewckJ，PhillpsG.GuidetotheRestortionofutrient-enrichedShalowLakesNofolk：BroadsAuthority/EnvirotAgency，1996:21-122.  \n[26]FiltooillGanEwijRegesifsiouedocioenviroealsystsevifdelinalegsdcEnvironmental Modelling & Software，2016,75：333-347.  \n[27］李玉照，刘永，赵磊，邹锐，王翠榆，郭怀成.浅水湖泊生态系统稳态转换的阈值判定方法.生态学报，2013，3（11)：3280-3290.  \n28]MeierteopulasdaaiHydrobiologia，1999,408-409：13-30.  \n29]PaceMrpeeSsoRAuilJ.Zopakorvdelsfolelkeulatioand Oceanography，2013，58（2）: 525-532.  \n[30]vanNesEHheferManenergMS,CopsHDmnaeofaropesitroicsalolakes-ensouldweexpectitbnalternative stable state?.Aquatic Botany，2002，72(3/4)：275-296.  \n[31]KuiperJJ,vanAlenaC，eRuiterPC,vanGerveLPA,JanseJH,oiWM.Fod-webstabilsignalscicalransitiosinpateshallow lakes.Nature Communications，2015,6：7727.  \n[32]KongXZ,DongL,HeW,WangQM,MoijW,XuFLEstiatioofthelog-teutrientdgeandthresholdsofregieshiffeshallow lake in China.Ecological Indicators，2015,52：231-244.  \n[33] OfirE,GalG,orenaoJSpaerE.Detectighangestoefutiingoflakecosstellowinggeshifsdaticfood-web models.Ecological Modelling，2016,320：145-157.  \n[34]DakosVarpenterSR,BrockWA,ionAM,GtalV,esAR,KfS,LiviaV,SekelD,vnNesEH,Sheferosfordetectingearlywaingofiticaltrasitionsintieseriesilustratedusingsiulatedecologicaldata.PLSOne,O1,7（）：1010.  \n[35]IvesAakVegacalgsirtiocallatespaceodelsoe5.  \n[36]AndeastsenJdearE，arteColcallsdesiactetifdsiEcology & Evolution，2009,24（1）：49-57.  \n[37]LentonTM,vinaVN,DakosV,vanNesEH,ScheferM.Earlywaringofclimatetipingointsfromcricalslowingdow；coparingmethods to improve robustness.Philosophical Transactions of the Royal Society A,2012,370(1962）：1185-1204.  \n[38]CntaEliocatoofisolats：atdtoddoiooicalApplications，2009，19(3）：799-816.  \n39]Peeicaleesalal22(6):1772-1779.  \n[40]Benzi R,Parisi G,Sutera A,Vulpiani A. Stochastic resonance in climatic change,Tellus，1982,34(1）:10-16.  \n[41]MelltisstsetsdseelBiology，2009,5（5）：e1000348.  \n[42]DaoEdsee93(2): 264-271.  \n[43]DakoVEgleSaeaaasoe2010,3(3):163-174.  \n[44]CarpeteSrocErlyaofatatheuoose）.  \n[45]Brock WA,CarpenterSR.Earlywaringsofregimeshiftwhentheecosystemstructureisunknown.PLoSOne,2012,7（9)：e4586.  \n[46]BattRD，CarpenterSR，ColeJJ，PaceMLJsonRA.Changesincosystemesiliencedeteedinutoatedmeasureostemetabolismduriole-keanpulatorocedingsofteatioaladeofencsofteUnitedSatesofmca,）：17398-17403.  \n[47]BrockWA，CarpenterSInteractingregishftsincosstes：implicatioforarlyaingsEcologicalMogaphs，（）:353-367.  \n48]BoetisElsersofe)9.  \n[49]CarpenterSRrok WAFokeCansEHhefer.lowaeageaeratgscefexpieoProceedings of the National Academy of Sciences of the United States of America,2015,112(46)：14384-14389.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

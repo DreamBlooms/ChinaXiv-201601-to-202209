@@ -1,0 +1,269 @@
+# Cosmic age test in inhomogeneous cosmological models mimicking $\Lambda$ CDM on the light cone
+
+Mi-Xiang Lan, $^ { 1 , 2 }$ ,\* Miao Li, $^ { 3 , 2 , \dagger }$ Xiao-Dong Li, $^ { 1 , 4 , 2 , \ddagger }$ and Shuang Wang1,2, $\ S$ （204号 $^ { 1 }$ Department of Modern Physics， University of Science and Technology of China, Hefei 230026, China （204号 $\mathcal { Z }$ Key Laboratory of Frontiers in Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 10019o，China （2 $^ { 3 }$ Kavli Institute for Theoretical Physics China, Chinese Academy of Sciences, Beijing 100190,China （20 $\mathit { 4 }$ Interdisciplinary Center for Theoretical Study，Universityof Scienceand Tchnologyof China,Hefei 230026,China
+
+The possibility of reconstructing a spherically symmetric inhomogeneous Lemaitre-Tolman-Bondi (LTB) model with ACDMobservations has drawn much attention.Recently,an inhomogeneous LTB model having the same luminosity-distance and light-cone mass density of the homogeneous ACDM model was reconstructed. From the Wilkinson microwave anisotropy probe 7-year measurements together with other cosmological observations,we calculate the cosmic age at our position in this LTB model,and obtain a constraint $t _ { L T B } < 1 1 . 7$ Gyrat $1 \sigma$ confidence level.We find that this result is,although 2Gyr younger compared with the age of the homogeneous ACDM model,still within $1 \sigma$ agreement with the constraint of cosmic age given by current astronomical measurements. We expect that in the future with the help of more advanced observations we can distinguish the reconstructed inhomogeneous LTB model from the homogeneous ACDM model.
+
+# I. INTRODUCTION
+
+The problem of dark energy has become one of the most important issues of the modern cosmology since the observationsof typeIa supernovae (SNeIa)[1]first indicated that theuniverse is undergoing anaccelerated expansion at the present stage (if assuming that the universe is described bytheFriedmann-Lemaitre-Robertson-Walker(FLRW) model).Many cosmologists believe that the identity of dark energy is the cosmological constant which fits the observational datavery well.However，one stillhasreasons to dislike the cosmological constant since itsuffers fromthetheoretical problems suchas the“fne-tuning”and the“cosmic coincidence”puzzles[2].Thus,a varietyof proposals for dynamic dark energy have emerged.For example,the“scalar feld”model[3] has been explored fora long time.Besides,the“holographic dark energy”models[4],which arise from theholographic principleof quantum gravity theory, has also attracted much attention.
+
+There are also some other theoretical approaches to explain the current cosmic aceleration. For example, it is argued that the accelerationof the universe may signifythe breakdownof Einstein's theoryof general relativity[5] Another interesting idea [6] is basedon the assumption that the universe is describedby the spherically symmetric, inhomogeneous Lemaitre-Tolman-Bondi (LTB)metric[7][8][9].Recentlysome authors further proposeda posibilityof mimicking thecosmologicalconstant inaninhomogeneous universe[10][11][12][13].The idea is that,since cosmological observations are limitedon the lightcone,it is posible to reconstructan inhomogeneous cosmological model (indistinguishable from the homogeneous ACDM model) to explain the cosmic acceleration without a cosmological constant.The formalism of reconstruction was developed in [10] and was applied to the ACDM model in [11].In [12],the authors constructeda spherically symmetric,inhomogeneous cosmological model reproducing the luminosity-distance and the light-cone mass density of $\Lambda$ CDM model up to $z = 2$ ：
+
+In this work,we focus on the reconstructed inhomogeneous cosmological model and investigate whether it is consistent with cosmological observations. Since in this model $\Lambda$ CDM observations are exactly reconstructed on the light-cone,weshould seek forsomeobservationaltest notlimitedon the light-cone todistinguishitfrom the standard ACDM model.
+
+Fortunately, we fnd that the age of the universe is an appropriate touchstone. The cosmic age, which depends on the evolution ofthe universe at a comoving position,contains information not limited on the light-cone (the age is uniform in the ACDM model but may be dependent on the position inan inhomogeneous cosmological model).Thus it may reveal the discrepancies between the ACDMmodel and the reconstructed inhomogeneous model. On the other hand,it is rather convenient touse thecosmicage to test thevalidityof aspecificcosmological model.To do this one may just compare the result with the age of some old objects in our universe[14].For example,to be consistent the age of our universe in our position must not be younger than the age of the oldest stellar in the Milky Way.
+
+This paper is organized as follows.In Sec.I, following the procedureof[12], we introduce the inhomogeneous LTB model and explain how to reconstruct $\Lambda$ CDM observations in this model. In Sec. III,we calculate the cosmic age at our position and compare the result with the age of some old objects. We summarize in Sec. IV.
+
+# II. LEMAITRE-TOLMAN-BONDI MODELS
+
+In this section,following the procedureof[12], we explain how to reconstruct an inhomogeneous LTB model having the same luminosity distance and light-cone mass density of the homogeneous ACDM model.
+
+The LTB models are sphericaly symmetric cosmological solutions to the Einstein equations with a dust stress-energy :ensor. The general metric for the LTB models in a synchronous comoving coordinate takes the form,
+
+$$
+d s ^ { 2 } = - d t ^ { 2 } + \frac { R ^ { \prime 2 } ( r , t ) } { 1 + \beta ( r ) } d r ^ { 2 } + R ^ { 2 } ( r , t ) d \Omega ^ { 2 } .
+$$
+
+Following [10,12],we use the prime superscript to denote $\partial / \partial r$ ，and the overdot to denote $\partial / \partial t$ .Noticing that here $r$ is a dimensionless coordinate,while $R ( r , t )$ has the dimension of length. The Robertson-Walker metric can be recovered after performing $R ( r , t ) \to a ( t ) r$ and $\beta ( r ) \to - k r ^ { 2 }$ ．Solving the Einstein Equations one obtains the generalized “Friedmann Equations” for $R ( r , t )$ and $\rho ( r , t )$ ，
+
+$$
+\dot { R } ( r , t ) = \sqrt { \beta ( r ) + \frac { \alpha ( r ) } { R ( r , t ) } } ,
+$$
+
+$$
+\kappa \rho ( r , t ) = \frac { \alpha ^ { \prime } ( r ) } { R ^ { 2 } ( r , t ) R ^ { \prime } ( r , t ) } .
+$$
+
+And the photon radial null geodesic equation for $\hat { t } ( \boldsymbol { r } )$ is found directly from the LTB metric (we are only interested n the past light cone),
+
+$$
+\frac { d \hat { t } ( r ) } { d r } = - \frac { R ^ { \prime } ( r , \hat { t } ( r ) ) } { \sqrt { 1 + \beta ( r ) } } .
+$$
+
+For convenence we denote quantities on the light cone by a hat. Thus we have,
+
+$$
+R ( r , { \hat { t } } ( r ) ) \equiv { \hat { R } } ; \quad R ^ { \prime } ( r , { \hat { t } } ( r ) ) \equiv { \hat { R } } ^ { \prime } ; \quad \rho ( r , { \hat { t } } ( r ) ) \equiv { \hat { \rho } } .
+$$
+
+Then let us focus on the reconstruction procedures.The method was discussed by Mustapha, Hellaby,and Elis in 1997 [10], and was recently applied to the $\Lambda$ CDM model in [11] [12] (A related formalism was developed by [15] [16]). Following their procedure, we take advantage of a coordinate freedom and rescale $r$ so that on the light cone,
+
+$$
+\hat { R } ^ { \prime } = H _ { 0 } ^ { - 1 } \sqrt { 1 + \beta ( r ) } .
+$$
+
+The correspondingcoodinate transformationis $\begin{array} { r } { d r _ { 1 } = \frac { H _ { 0 } \partial \vec { R } / \partial r } { \sqrt { 1 + \beta ( r ) } } d r } \end{array}$ .Inthfollowgfliy $r$ to denote $r _ { 1 }$ . The redshift takes the form (see Sec. 2.3 in [10])
+
+$$
+\frac { d \hat { z } ( r ) } { d r } = ( 1 + z ) \frac { \hat { \dot { R ^ { \prime } } } } { \sqrt { 1 + \beta ( r ) } } .
+$$
+
+Following the procedure of [12],we reconstruct $\hat { d } _ { L } ( z )$ and $\hat { \rho } ( z )$ of the $\Lambda$ CDM model. To do this we require that on the light cone,
+
+$$
+( 1 + z ) ^ { 2 } \hat { R } ( z ) = ( 1 + z ) \int _ { 0 } ^ { z } \frac { d z _ { 1 } } { H _ { \mathrm { A C D M } } ( z _ { 1 } ) } , \quad \hat { \rho } ( z ) d V _ { L T B } = \rho _ { M , \mathrm { A C D M } } d V _ { \mathrm { A C D M } } ,
+$$
+
+where $\rho _ { M , \Lambda \mathrm { C D M } } ( z )$ stands for mass density in the $\Lambda$ CDM model, and $H _ { \Lambda \mathrm { C D M } } ( z )$ stands for the Hubble constant in the $\Lambda$ CDM model. These quantities take the forms,
+
+$$
+\rho _ { \Lambda \mathrm { C D M } } ( z ) = 3 \Omega _ { m } M _ { p } ^ { 2 } H _ { \Lambda \mathrm { C D M } } ( z ) ^ { 2 } , H _ { \Lambda \mathrm { C D M } } = H _ { 0 } \sqrt { \Omega _ { m } ( 1 + z ) ^ { 3 } + \Omega _ { \Lambda } } .
+$$
+
+For simplicity we only consider a flat $\Lambda$ CDM model. We use the notations,
+
+$$
+\Omega _ { m } = \frac { \rho _ { m } ( 0 ) } { \rho _ { C } ( 0 ) } , \quad \Omega _ { \Lambda } = \frac { \rho _ { \Lambda } ( 0 ) } { \rho _ { C } ( 0 ) } , \quad \rho _ { C } = 3 M _ { p } ^ { 2 } H _ { 0 } ^ { 2 } , \quad \Omega _ { m } + \Omega _ { \Lambda } = 1 .
+$$
+
+Then from Eq. (8) it is straightforward to derive the following expressions,
+
+$$
+\hat { R } ( z ) = \frac { 1 } { 1 + z } \int _ { 0 } ^ { z } \frac { d z _ { 1 } } { H _ { \mathrm { \Lambda C D M } } ( z _ { 1 } ) } ,
+$$
+
+$$
+H _ { 0 } ^ { - 1 } \hat { R } ^ { 2 } ( z ) \kappa \hat { \rho } ( z ) \frac { d r } { d z } = \frac { 3 \Omega _ { m } H _ { 0 } ^ { 2 } } { H _ { \mathrm { \Lambda C D M } } ( z ) } \big [ \int _ { 0 } ^ { z } \frac { d z _ { 1 } } { H _ { \mathrm { \Lambda C D M } } ( z _ { 1 } ) } \big ] ^ { 2 } .
+$$
+
+Furthermore,the following three equations can be obtained by solving the corresponding $z$ ， $\alpha ( r )$ and $\beta ( r )$ (Eqs. (19-21) in [12])
+
+$$
+\frac { d z } { d r } = ( 1 + z ) \frac { H _ { \Lambda \mathrm { C D M } } ( z ) } { H _ { 0 } } ,
+$$
+
+$$
+\frac { d \alpha } { d r } = \frac { 1 } { 2 } H _ { 0 } ^ { - 1 } \hat { R } ^ { 2 } ( z ) \kappa \hat { \rho } ( z ) \big [ \frac { 1 } { H _ { 0 } d \hat { R } / d r } \big ( 1 - \frac { \alpha } { \hat { R } } \big ) + H _ { 0 } \frac { d \hat { R } } { d r } \big ] ,
+$$
+
+$$
+\beta ( r ) = ( \frac { d \alpha } { d r } \frac { 1 } { H _ { 0 } ^ { - 1 } \hat { R } ^ { 2 } \kappa \hat { \rho } } ) ^ { 2 } - 1 .
+$$
+
+It should be emphasized that for these values of $\alpha ( z )$ and $\beta ( z )$ ， the corresponding LTB model exactly reproduces the luminosity-distance relation and light-cone mass density of the $\Lambda$ CDM model. For convenience, in the following context we will use “LTB- $\Lambda$ CDM model” to denote this reconstructed LTB model.
+
+It should be stressed that since the LTB-ACDM model is reconstructed by mimicking $\Lambda$ CDM model,it has the same luminosity-distance-redshift relationand light-cone mass-density-redshift relationas the homogeneous ACDM model.Thus when estimating some physical quantities of the LTB-ACDM model from cosmological measurements one can just use the obtained values of $\Omega _ { m }$ and $H _ { 0 }$ from the fit of the $\Lambda$ CDM model (i.e. it is not necessary to impose a special constraint on the LTB- $\Lambda$ CDM model).For example,in [12] the authors just take $\Omega _ { m }$ =0.3 to mimicking a flat ΛCDM with mass ratio $\rho _ { m 0 } / \rho _ { c 0 } = 0 . 3$ ：
+
+# III. COSMIC AGE ATOURPOSITION
+
+In the first subsection,we derive the expression of the cosmic age in the LTB-ACDM model. Then in the second subsection,we estimate the age from cosmologicalobservations,and compare it with that in the homogeneous $\Lambda$ CDM model. Finally, in the third subsection,we discuss the validity of the LTB- $\Lambda$ CDM model by considering the astronomical measurements of the age of some old objects in our universe.
+
+# A. Cosmic Age in the LTB-ACDM
+
+First of all, we investigate the properties of Eqs.(2),(3),(11-15) at $r = 0$ (corresponds to our position in the universe). Since the function $R ( r , t )$ represents the diameter distance, one expects $R ( r , t )  0$ when $r$ approaches zero.So $R ( r , t )$ can be expanded near $r = 0$ as,
+
+$$
+R ( r , t ) = R _ { 1 } ( t ) r + . . .
+$$
+
+Then from Eq. (14) we obtain
+
+$$
+\alpha ( r ) = \alpha _ { 3 } r ^ { 3 } + . . . . , \beta ( r ) = \beta _ { 2 } r ^ { 2 } + . . . , \dot { R } _ { 1 } ( t ) = \sqrt { \beta _ { 2 } + \frac { \alpha _ { 3 } } { R _ { 1 } ( t ) } } .
+$$
+
+From Eqs. (9)(12)(14),we expand $H _ { \Lambda \mathrm { C D M } } ( z )$ ， $\hat { r } ( z )$ ， $\hat { R } ( z )$ to the leading order and substitute them into Eq. (14) to obtain $\alpha _ { 3 }$ （20
+
+$$
+H _ { \mathrm { \Lambda C D M } } ( z ) = H _ { 0 } + . . . , r = z + . . . , \hat { R } ( z ) = \frac { z } { H _ { 0 } } + . . . , \alpha _ { 3 } = \Omega _ { m } H _ { 0 } ^ { - 1 } .
+$$
+
+The calculation of $\beta _ { 2 }$ is also straightforward. From Eqs.(14)(15) it follows that
+
+$$
+\beta ( r ) = \big ( \frac { 1 } { 2 } \big [ \frac { 1 } { H _ { 0 } d \hat { R } / d r } \big ( 1 - \frac { \alpha } { \hat { R } } \big ) + H _ { 0 } \frac { d \hat { R } } { d r } \big ] \big ) ^ { 2 } - 1 .
+$$
+
+Substituting $\hat { R } ^ { \prime } ( z ) = H _ { 0 } ^ { - 1 } + \hat { R } _ { 1 } ^ { \prime } z + \hat { R } _ { 2 } ^ { \prime } z ^ { 2 } + \dots$ into Eq. (19),we obtain
+
+$$
+\beta ( z ) = ( H _ { 0 } ^ { 2 } \hat { R } _ { 1 } ^ { \prime 2 } - \Omega _ { m } ) z ^ { 2 } + . . . = ( H _ { 0 } ^ { 2 } \hat { R } _ { 1 } ^ { \prime 2 } - \Omega _ { m } ) r ^ { 2 } + . . .
+$$
+
+Notice that $\hat { R } _ { 2 } ^ { \prime }$ does not appear in the expression, so we just have to expand $\hat { R } ^ { \prime }$ to the first order. Using Eqs.(11)(13), it follows that,
+
+$$
+\frac { \lambda \hat { R } } { l r } = \frac { d \hat { R } } { d z } \frac { d z } { d r } = - \frac { 1 } { 1 + z } \frac { H _ { \mathrm { A C D M } } ( z ) } { H _ { 0 } } \int _ { 0 } ^ { z } \frac { d z _ { 1 } } { H _ { \mathrm { A C D M } } ( z _ { 1 } ) } + \frac { 1 } { H _ { 0 } } = H _ { 0 } ^ { - 1 } - H _ { 0 } ^ { - 1 } z + . . . , \Rightarrow \qquad \hat { R } _ { 1 } ^ { \prime } = H _ { 0 } ^ { - 1 } .
+$$
+
+Combining with Eq.(20) we obtain
+
+$$
+\beta _ { 2 } = 1 - \Omega _ { m } .
+$$
+
+Next we calculate the age of the universe $\left( t _ { 0 } - t _ { B B } \right)$ at $r = 0$ . From Eq.(17) it follows that,
+
+$$
+t _ { 0 } - t _ { B B } = \int _ { t _ { B B } } ^ { t _ { 0 } } d t = \int _ { R _ { 1 } ( t _ { B B } ) } ^ { R _ { 1 } ( t _ { 0 } ) } \frac { d R _ { 1 } ( t ) } { \dot { R } _ { 1 } ( t ) } ,
+$$
+
+where the upper and lower bounds of the integral can be determined by Eq. (3),
+
+$$
+R _ { 1 } ( t ) = ( \frac { 3 \alpha _ { 3 } } { \kappa \rho ( 0 , t ) } ) ^ { \frac { 1 } { 3 } } .
+$$
+
+Finally, combining the above with Eqs.(9)(18),we obtain the age of the universe at $r = 0$ in the LTB- $\Lambda$ CDM model,
+
+$$
+t _ { 0 } - t _ { B B } = \int _ { 0 } ^ { H _ { 0 } ^ { - 1 } } \frac { d R _ { 1 } } { \sqrt { \Omega _ { \Lambda } + \Omega _ { m } H _ { 0 } ^ { - 1 } / R _ { 1 } } } .
+$$
+
+# B.Estimate $t _ { L T B }$ from Cosmological Observations
+
+Next we estimate the cosmic age in the LTB- $\Lambda$ CDM model and compare the result with that of the ACDM model. These two models are both determined by two parameters, the present matter ratio $\Omega _ { m }$ ,and the Hubble constant $H _ { 0 }$ For convenience, let us denote the cosmic age in the LTB- $\Lambda$ CDM model and $\Lambda$ CDM model at $r = 0$ as $t _ { L T B } ( \Omega _ { m } , H _ { 0 } )$ （204号 and $t _ { \Lambda \mathrm { C D M } } \big ( \Omega _ { m } , H _ { 0 } \big )$ . We have [we perform a parameter transformation $r = H _ { 0 } ^ { - 1 } / ( 1 + z )$ in $t _ { \Lambda \mathrm { C D M } }$ ]
+
+$$
+\begin{array} { c } { \displaystyle t _ { L T B } ( \Omega _ { m } , H _ { 0 } ) = \int _ { 0 } ^ { H _ { 0 } ^ { - 1 } } { \frac { d R _ { 1 } } { \sqrt { \Omega _ { m } / ( H _ { 0 } R _ { 1 } ) + 1 - \Omega _ { m } } } } , } \\ { \displaystyle t _ { \Lambda \mathrm { C D M } } ( \Omega _ { m } , H _ { 0 } ) = \int _ { 0 } ^ { + \infty } { \frac { d z } { H _ { \Lambda } ( z ) ( 1 + z ) } } = \int _ { 0 } ^ { H _ { 0 } ^ { - 1 } } { \frac { d r } { \sqrt { \Omega _ { m } / ( H _ { 0 } r ) + ( 1 - \Omega _ { m } ) ( H _ { 0 } r ) ^ { 2 } } } } . } \end{array}
+$$
+
+The only difference between $t _ { \Lambda \mathrm { C D M } }$ and $t _ { L T B }$ lies in the second term in the square root. Since $H _ { 0 } r < 1$ (the upper ound of the integral is $H _ { 0 } ^ { - 1 }$ ), it is clearly that $t _ { L T B }$ is smaller than $t _ { \Lambda \mathrm { C D M } }$ given the same set of parameters.
+
+Notice that $t _ { L T B } ( \Omega _ { m } , H _ { 0 } )$ is proportional to $1 / H _ { 0 }$ . To prove this one can perform a coordinate transformation $\tilde { R } _ { 1 } = H _ { 0 } R _ { 1 }$ ，which yields that,
+
+$$
+t _ { L T B } ( \Omega _ { m } , H _ { 0 } ) = \frac { 1 } { H _ { 0 } } \int _ { 0 } ^ { 1 } \frac { d \tilde { R } _ { 1 } } { \sqrt { \Omega _ { m } / \tilde { R } _ { 1 } + 1 - \Omega _ { m } } } .
+$$
+
+So we have,
+
+$$
+\begin{array} { r l } & { \displaystyle \frac { \partial } { \partial H _ { 0 } } t _ { L T B } ( \Omega _ { m } , H _ { 0 } ) \ = \ - \frac { 1 } { H _ { 0 } } t _ { L T B } ( \Omega _ { m } , H _ { 0 } ) \ < \ 0 , } \\ & { \displaystyle \frac { \partial } { \partial \Omega _ { m } } t _ { L T B } ( \Omega _ { m } , H _ { 0 } ) \ = \ - \frac { 1 } { 2 } \int _ { 0 } ^ { H _ { 0 } ^ { - 1 } } \big ( \frac { \Omega _ { m } } { H _ { 0 } r } + 1 - \Omega _ { m } \big ) ^ { - 3 / 2 } \big ( \frac { 1 } { H _ { 0 } r } - 1 \big ) \ d r < \ 0 , } \end{array}
+$$
+
+Clearly, $t _ { L T B } ( \Omega _ { m } , H _ { 0 } )$ has larger values with smaler values of $\Omega _ { m }$ and $H _ { 0 }$ parameters. One can easily verify that the conclusion is the same for $t _ { \Lambda \mathrm { C D M } } ( \Omega _ { m } , H _ { 0 } )$
+
+Now we are ready to calculate the specific values of $t _ { L T B }$ with given values of $H _ { 0 }$ and $\Omega _ { m }$ . Here we refer to the result of the seven-year Wilkinson microwave anisotropy probe (WMAP)observations [17]. From the constraint from "WMAP7+BAO $+ H _ { 0 }$ ” [17][18][19] the WMAP collaboration provides the best-fit values of $\Omega _ { \Lambda }$ and $H _ { 0 }$ together with their $1 \sigma$ uncertainties,
+
+$$
+\Omega _ { \Lambda } = 0 . 7 2 8 _ { - 0 . 0 1 6 } ^ { + 0 . 0 1 5 } , H _ { 0 } = 7 0 . 4 _ { - 1 . 4 } ^ { + 1 . 3 } \mathrm { k m / s / M p c } .
+$$
+
+From their result we can put a constraint on $t _ { L T B }$ and $t _ { \Lambda \mathrm { C D M } }$ at $1 \sigma$ confidence level (CL). The result is,
+
+$$
+t _ { L T B } = 1 1 . 4 \pm 0 . 3 ~ \mathrm { G y r } , ~ t _ { \Lambda \mathrm { C D M } } = 1 3 . 8 \pm 0 . 5 ~ \mathrm { G y r } .
+$$
+
+It is found that $t _ { L T B }$ is about 2Gyr younger than $t _ { \Lambda \mathrm { C D M } }$ . At the $1 \sigma$ CL we obtain the upper limit of the age of the LTB（204号 $\Lambda$ CDM model $t _ { L T B } < 1 1 . 7 \mathrm { G }$ yr, with the set of the smallest values of parameters $\Omega _ { m } = 0 . 2 5 7$ and $H _ { 0 } = 6 9 . 0 \mathrm { k m / s / M p c }$ （20 (In fact this result is overestimated since we ignore the degeneracy between $\Omega _ { m }$ and $H _ { 0 }$ . The upper limit value of （204号 $t _ { L T B }$ should be smaller, or at least as small as 11.7Gyr).
+
+It should be stressed that to be strict the previous estimation of $t _ { L T B }$ is not appropriate, since we have assumed that the WMAPand baryonacoustic oscillations data could beused to constrain the LTB models.In fact,the issues of CMB and structure formation in theLTB scenario arerather complicated and have not been clearly investigated.To avoid this problem one can put constraints to $\Omega _ { m }$ and $H _ { 0 }$ from SNIa observations. The recent observations of SDSSII (Sloan Digital Sky Survey I1)[2O] and Hubble Space Telescope[18] show that $\Omega _ { m } > 0 . 2 2 4$ ， $H _ { 0 } > 7 0 . 6 \mathrm { k m / s / M p c }$ in $1 \sigma$ CL. From their result we find a upper limit $t _ { L T B } < 1 1 . 6 \mathrm { G y r }$ ，which is the similar with our previous result $t _ { L T B } < 1 1 . 7 \mathrm { G y r }$ ：
+
+# C.Discussions of the Validity of the LTB-ACDM Model
+
+Thelowlimit to the cosmic age canbe directly obtained from estimatingthe ageof some old objects inour universe [21][22][23]. As an example,based on white dwarf cooling the authors of [22] get a result of 12.7 $\pm$ 0.7Gyr. Compared with the result of the previous subsection $t _ { L T B } < 1 1 . 7$ Gyr it seems that the LTB- $\Lambda$ CDM model is inconsistent with their measurements.However,one shouldnot conclude hastily.The reason is that theresult of [22]is subject to larger uncertainty.Theuncertaintydue tocalculations of the whitedwarf cooling is diffcult to estimate,and in their result coresponding errors are not included.In fact,the authors of[22]argued that systematic uncertainties are likely to beat leastaslargeas,if not larger than,thequoted statistical erors.So if indeed theuncertainty due to calculations of the white dwarf cooling is aslarge as the observational error,then theLTB-ACDMmodel is within $1 \sigma$ agreement with observations.
+
+The age based on evolution of compact binaries is somewhat lower. In [24][25] the authors give a result of $1 1 . 8 \pm$ 0.6Gyr and $1 1 . 1 0 \pm 0 . 6 7 \mathrm { G y }$ r, respectively. Moreover,the oldest known star in the Milky Way，HE 1523-0901, is reported to have an ageof13.2±2.7Gyr [26],fora lower limit of 10.5Gyr.Obviously,these measurements are allin consistent with $t _ { L T B }$ and $t _ { \Lambda \mathrm { C D M } }$ obtained with data from [17] at $1 \sigma$ CL.Therefore,although the obtained $t _ { L T B }$ is about 2Gyr younger than $t _ { \Lambda \mathrm { C D M } }$ ,it is still in $1 \sigma$ agreement with current astronomical observations,and we are not able to argue against the reconstructed LTB-ACDM model.
+
+![](images/648572384c80be6889e4c2d73ffbdc0ffb051c774b4bfb33da08834319191a82.jpg)  
+FIG.1: Parameter space in $\Omega _ { m }$ and $H _ { 0 }$ plane. The green and red regions stand for tACDM $>$ 11.2Gyr and $t _ { L T B } > 1 1 . 2$ Gyr respectively. The black shadow region represents the $1 \sigma$ constraint to $\Omega _ { m }$ and $H _ { 0 }$ from the seven-year WMAP observations (degeneracy is ignored).The blue region is a $2 \sigma$ constraint from a joint analysis from the Constitution supernovae sample, baryon acoustic oscillations and the five-year WMAP observations.
+
+We show the situation in Fig.1.The green and red regions represent parameters with cosmic age older than 11.2Gyr in ΛCDM and LTB-ACDM model, respectively. The black shadow region is a $1 \sigma$ CL constraint from the seven-year WMAP observations [17] (we ignore degeneracy). The blue region is a $2 \sigma$ CL constraint from a joint analysis performed in one ofour previous works [27],in which weusedthe Constitution supernovae sample [28],the baryon acoustic oscilations [29]and the five-year WMAP observations [30]. Since current limit to the cosmic age from astronomical measurements generally gives a result $t < 1 1 . 2$ Gyr，we plot the regions of $t _ { L T B } < 1 1 . 2 \mathrm { G y r }$ (red shadow) and $t _ { \Lambda \mathrm { C D M } } < 1 1 . 2 \mathrm { G y r }$ (green shadow) in this figure. It is obvious that the $\Lambda$ CDM perfectly passes the cosmic agetext,while the overlap of the blue region,the black shadow region and thered shadow region implies that the LTB-ACDM model is also consistent with current observations.
+
+Finally,at the end of this section, we stress that in this paper we only consider a particularLTB model- namely, the one with ACDM features. Other inhomogeneous models (such as the void models)may have larger age at the origin,and in these cases one would have to seek for other methods to test and identify them.
+
+# IV. SUMMARY
+
+In this paper we calculate the cosmic age at $r = 0$ in the LTB- $\Lambda$ CDM model, which reproduces the luminositydistance and light-cone matter density of the homogeneous $\Lambda$ CDM model. Using the constraints of $\Omega _ { m }$ and $H _ { 0 }$ （204号 from the seven-year WMAP observations combined with other cosmological observations,we get the upper limit $t _ { L T B } < 1 1 . 7 \mathrm { G }$ yr at $1 \sigma$ CL. This result is about 2Gyr younger than the cosmic age in $\Lambda$ CDM scenario. Since current astronomical measurements generally put a $1 \sigma$ CL lower limit on the age of the universe of about 11.2Gyr, the LTB$\Lambda$ CDM model is still in $1 \sigma$ agreement with all these observations. However, due to the relatively younger age the LTB-ACDM model might be disfavored by future observations.
+
+Besides,even if the LTB- $\Lambda$ CDM model successfully passes all the tests of future observations, there might be some other problems in this scenario.(The discusions of these complicated problems are beyond the scope of this paper.) The mainreasonis thatitis diffcult toft this model intothelargerframework offundamental physicssuchas particle physics,general relativity,astrophysics,and cosmology.For example,in[12] theauthors mentioned the theoryof structure formation and the integrated Sachs-Wolfe effect:studyof these issues is very difficult in theLTB models.
+
+The topic of distinguishing the homogeneous ACDM model and the reconstructed inhomogeneous LTB-ACDM model is scientifcally interesting and important,since it involves the question of the mysterious feature of dark energyand whether the nearby regionof the universe is homogeneous.This topic should be carefully investigated. In this paper we propose the posibilityof distinguishing the LTB-ACDM scenario with the standard ACDM model by performng the cosmic age test.The procedure is convenient and straightforward.Although the result shows that the LTB- $\Lambda$ CDM is still in $1 \sigma$ agreement with current astronomical observations,since with the same set of parameters this model always has a younger age than the standard $\Lambda$ CDM model it is possible to distinguish them from future observations.Inall,the isseofusing thecosmicage testtodistinguish thereconstructed inhomogeneousLTBmodels from the homogeneous ACDM model is worth further investigation,and should be taken intoconsideration infuture works,e.g.,in thecases whenpeople try toconstruct anew modelintheLTB scenario to explainthe apparent cosmic acceleration.
+
+# Acknowledgments
+
+The authors would like to thank the anonymous referees for carefully examining our paper and providing us a number of important comments.This work was supported by the Natural Science Foundation of China under Grants No.10535060/A050207,No.10975172 and No．10821504,and Ministry of Science and Technology 973 program under Grant No. 2007CB815401.SW also thanks the support from a graduate fund of the Universityof Science and Technology of China.
+
+[1] A.G. Riess et al.Astron.J.116,1009 (1998); S.Perlmutter et al. Astrophys. J. 517,565 (1999). 2]S.Weinberg,Rev.Mod.Phys.61,1(1989).   
+[3]P.J.E.PeeblesandB.Ratra,Astrophys.J.325,L17(1988); C.Weterich,Nucl.Phys.B.302668(1988);J.A.Frieman, C.T.Hill,A.Stebbins and I. Waga,Phys.Rev.Lett.75,2077(1995)；M.S.Turner and M.J.White,Phys.Rev.D 56,R4439 (1997); A.R.Lidle andR.J. Scherer,Phys.Rev.D.59,023509 (1998); I. Zlatev,L.M. Wang and P.J. Steinhardt,Phys.Rev.Lett.82,896 (1999);P.J.Steinhardt,L.M.Wang andI. Zlatev,Phys.Rev.D59,123504(99).   
+[4] M.Li,Phys.Let.B603,1(2004),hep-th/0403127; Q.G.HuangandM.Li,JCAP0408,013 (200),astro-ph/0404229; Y. G.Gong,Phys.Rev.D70,064029 (2004); Q.G.Huang andM.Li,JCAP0503,01 (2005),hep-th/0410095; X.Zhang, Int.J.Mod.Phys.D14,1597(2005); M.Li,X.D.Li,S.Wang and X. Zhang,JCAP0906,036 (2009); M.Li and Y. Wang,arXiv:1001.4466.   
+[5]S.M.CarrollV.Duvvuri,M.Trodden andM.S.Turner,Phys.Rev.D70,43528 (2004); S.Nojiri andS.D.Odintsov Phys.Rev.D68,123512 (2003)； S.Capoziello,S.Carloni and A.Troisi,Recent Res.Dev.Astron.Astrophys.1,625 (2003).   
+[6] H.Alnes,M.Amarzguioui andO.Gron,Phys.Rev.D73,083519 (206); Daniel J.H.Chung andA.E.Romano,Phys. Rev.D 74,103507(2006); H.Alnesand M.Amarzguioui,Phys.Rev.D74,103520 (2006)；D.Garfinkle,Class.Quant. Grav.23,4811 (2006); H.Alnes andM.Amarzguioui,Phys.Rev.D75,023506(2007); V.Marra,E.W.Kolb,S.Matarrese and A.Riotto,Phys.Rev.D76,123004 (2007); K.Enqvist and T.Mattson,JCAP0702,019 (2007)； M.Kasai,Prog. Theor.Phys.117,1067(2007)； K.Enqvist,Gen.Rel.Grav.40,451(2008)；C.Clarkson,B.Basett and T.H.-C.Lu, Phys.Rev.Lett.101,011301(2008);R.R.CaldwellandA.Stebbins,Phys.Rev.Lett.100,191302(2008)；J.GarciaBelido and T.Haugboele,JCAP0804,003(2008);T.BiswasandA.Notari,JCAP0806,021(2008);J.Garcia-Bellido and T.Haugboelle,JCAP 0809,016(2008)；J.P. Zibin,A.Moss and D.Scott,Phys.Rev.Lett101,251303 (2008); S.Alexander,T.Biswas,A.Notari and D.Vaid,JCAP0909,025 (2009); K.Bolejko and J.Stuart B.Wyithe,JCAP 0902,020 (209)； J.Garcia-BelidoandT.Haugboele,JCAP0909,028 (209);S.February,J.Larena,M.SmithandC. Clarkson, arXiv:0909.1479.   
+[7]G.Lemaitre,An.Soc.Sci.Bruxelles A53,51(1933);English translation,with historicalcomments:Gen.Rel.Grav.29, 641 (1997)   
+[8]R.C.Tolman,Proc.Nat.Acad.Sci.USA20,169 (1934);reprinted,with historical comments: Gen.Rel.Grav.29,935 (1997)   
+[9] H.Bondi, Mon.Not.Roy. Astron. Soc.107,410 (1947).   
+i0] N.Mustapha, C. Hellaby and G.F.R. Ellis,Mon. Not.Roy. Astron. Soc.292,817 (1997).   
+11] M.-N. Celérier,K.Bolejko and A.Krasinski,arXiv:0906.0905.   
+12]E.W.Kolb and C.R.Lamb,arXiv:0911.3852.   
+13] A.E.Romano, JCAP 1001 004 (2010)；A. E. Romano,arXiv:0912.2866.   
+14]A.C.S.Friacas,J.S.Alcaniz,and J.A.S.Lima,MNRAS.362,1295 (205)； S.Wang and Y. Zhang,Phys.Lett.B669 201(2008).   
+15] D.J.H. Chung and A.E. Romano,Phys.Rev.D 74,103507 (2006).   
+16] C.M. Yoo,T.Kai and K.I. Nakao,Prog. Theor.Phys.120, 937 (2008).   
+17] E.Komatsu et al.,arXiv:1001.4538.   
+18] A.G. Riess et al., Astrophys. J. 699 539 (2009).   
+19] W.J. Percival et al.,arXiv:0907.1660.
+
+20] R.Kessler et al.,Astrophys.J. Suppl.185,32 (2009).   
+21 H.B.Richer et al.,Astrophys.J. 574 L151 (2002).   
+22 B.M.S.Hansen et al.,Astrophys. J. 574 L155 (2002).   
+23 L.M.Krauss and B.Chaboyer,Science 299 65 (2003).   
+24 J.Kaluzny et al.,Astron. Soc.Pac.Conf.Ser.265,155 (2002).   
+25] B.Chaboyer and L.M.Krauss,Astrophys.J.567 L45 (2002).   
+26] A.Frebel et al.,J. 2007,Astrophys.J.Lett.660 L117 (2007).   
+27 M.Li, X.D.Li and X. Zhang,arXiv:0912.3988.   
+28 M.Hicken et al.,Astrophys.J. 700,1097 (2009).   
+29 W.J.Percival et al.,Mon.Not.Roy.Astron.Soc.381,1053 (2007).   
+30 E.Komatsu et al.,Astrophys. J. Suppl.180,330 (2009).

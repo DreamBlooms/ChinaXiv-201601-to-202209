@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "营养物质对鱼类食欲的影响1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田娟1,2何艮1\\*麦康森1 周慧慧1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国海洋大学，农业部水产动物营养与饲料重点实验室，青岛 266003；2.中国水产科学研究院长江水产研究所，农业部淡水生物多样性保护与利用重点开放实验室，武汉 430223)摘要：寻找理想鱼粉替代物是近20年动物营养学的研究热点之一，尽管在肉食性鱼类中鱼粉替代物因适口性差、消化率低、氨基酸不平衡和存在抗营养因子等原因导致其替代比例较低，然而，随着鱼粉供求关系的进一步不平衡，替代鱼粉已成为肉食性鱼类养殖可持续发展的必然要求。因此，如何提高肉食性鱼类对鱼粉替代物的利用率成为了鱼粉替代研究的瓶颈。本文从食欲的角度，综述各种营养物质对食欲的影响，以便利用营养措施来人为调控鱼类的食欲，从而提高饲料利用率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S963.7 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着水产养殖业的快速发展，配合饲料原料的需求量越来越大，饲料蛋白质源供应不足在20 世纪90年代就已出现，鱼粉作为最优质的蛋白质源表现得尤为突出，因此寻找理想鱼粉替代物成为近20年动物营养学研究热点之一[1-3]。目前，在水产动物上关于利用低廉易得的植物蛋白质源替代鱼粉的研究已有大量报道，一般认为非肉食性鱼类能较好的利用植物蛋白质原料，在配合饲料中可用植物蛋白质原料部分或全部替代鱼粉。但在肉食性鱼类中，植物蛋白质原料替代鱼粉后在相当大程度上降低了鱼类的食欲，并造成了负面影响(生产性能下降、生理和免疫机能降低、肉质品质劣化等)，从而极大限制了植物蛋白质源在肉食性鱼类上的应用[3-4]。然而，替代鱼粉已成为肉食性鱼类养殖可持续发展的必然要求，因此，全面深入研究鱼类的食欲生理调节机制，并利用营养措施来人为调控其食欲，提高其对植物蛋白质原料的利用率，将为有效解决植物蛋白质源在肉食性鱼类上的应用提供必要的理论依据与技术支持。本文将重点综述营养物质对鱼类食欲的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1食欲的概念 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "食欲是指动物对摄食的天然动机，是驱使动物进行摄食活动(ingestion)的欲望，以获得能量和营养物质来维持正常生理活动为目的，这也是消化代谢过程的首要环节。反映动物食欲好坏的重要指标是其主动摄食量（feed intake)，摄食量的大小是诸多因素相互间复杂作用的结果，这些因素包括动物自身因素如生理状况（感觉刺激、胃肠信号、循环因子和化学信号等)，以及外在因素如饵料（气味、形状、大小、原料构成、营养成分等）、水环境（温度、溶氧、pH、金属离子、 $\\mathrm { C O } _ { 2 }$ 等）、饲养密度和疾病防治等。鱼类摄食的基本调控过程如图1[5]所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贮能人寻找食物 摄取 吸收 代谢视觉 味觉 来自肠道感受器 循环因子嗅觉 / 的信号，如机械 如营养物质性或化学性刺激 代谢物? 激素中枢摄食网络不同类型食物 → 调节因子在机体里贮存 如昼夜循环的信息 发育继续或者停止摄食 疾病",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig1.Schematic diagram of the processes that control foodintake in fish ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Schematic diagram of the processes that control feed intake in fishes[5] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1蛋白质和氨基酸对食欲的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "动物为了生长和维持生命活动需要摄入一定量的蛋白质，饲粮中蛋白质或氨基酸水平对动物摄食的影响极为重要，下丘脑的摄食调控中枢可以通过神经与体液通路监测摄入食物中的蛋白质和氨基酸水平，从而调节动物的食欲[6-7]。研究证实，当食物中蛋白质甚或某一种必需氨基酸不足时，动物的摄食行为会出现不良表现；当食物中的蛋白质或必需氨基酸只能满足机体的最低需要时，动物会增加摄食量以满足生理需要；当食物中蛋白质水平过高时，动物摄食量会明显减少[8]。如当食物中的能量只有 $5 \\% \\sim 8 \\%$ 来自于蛋白质时，小鼠的摄食量较标准饮食显著增加（小鼠的营养标准中规定所需能量的14%需由蛋白质提供)，但当蛋白质提供的能量低于 $5 \\%$ 时，小鼠的摄食量显著降低[9]；在保证碳水化合物含量不变的情况下，将食物中蛋白质提供能量的比例由 $1 5 \\%$ 增加到 $30 \\%$ ，可使人的食欲减退，摄食量显著降低[0]。诸多学者已报道了类似的结果[1-4]。同时，蛋白质存在摄食补偿效应[15]。这主要是因为在短时间内蛋白质相对于糖类和脂肪更容易让人产生饱食感，这与蛋白质代谢生热效应比糖和脂肪更强有关[1]，同时蛋白质相对其他主要营养物质较难在体内消化分解，因此，需要消耗更多的时间和能量来消化吸收，相对不容易引起饥饿感[17]。也有研究者发现蛋白质会提高小肠内的葡萄糖\"产量”，而大脑在分析了小肠内的葡萄糖水平后，会决定是否发出\"吃饱了\"的信息，这条信息一旦发出，就会起到抑制食欲的作用[18-19]。此外，蛋白质通过影响机体食欲相关肽如瘦素（leptin）、饥饿素（ghrelin）、胆囊收缩素（CCK）、肽YY（PYY）的分泌，来影响食欲[10,20]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相对于高等陆生动物，鱼类对蛋白质的需要量更高，蛋白质在鱼类的生长过程中发挥着极其重要的生理功能，鱼体内的蛋白质不仅可用于各组织和器官的生长及自我修复，也是许多生物活性物质如酶、激素和抗体等的重要组成成分。研究发现，鱼体生长与鱼体蛋白质的增长具有显著的正相关关系，因而真正的鱼类生长指的是鱼体蛋白质的增长[211，但一般认为过低或过高的饲料蛋白质水平对鱼类的摄食率、蛋白质效率和饲料效率均会产生不良影响[22-23]。在鱼类上少有的机理研究结果却与高等动物存在明显差异，在大西洋鲑上发现高植物蛋白质饲料对 leptin、ghrelin 和CCK的mRNA 表达水平较鱼粉无显著影响[24-25]；在草鱼上发现，神经肽Y（NPY）作为草鱼的促进食欲调节因子[26]，饲料中含 $3 5 \\% \\sim 4 0 \\%$ 的蛋白质可显著提高其下丘脑 NPY的 mRNA 表达水平[27]；在虹鳟上（Oncorhynchus mykiss)的研究表明，植物蛋白质源饲料并不影响其雷帕霉素靶蛋白(TOR）信号通路中的TOR 和核糖体蛋白 S6（ribosomalprotein S6，S6）蛋白质磷酸化水平[28]，但随饲料中蛋白质与碳水化合物比的降低，虹鳟 TOR信号通路被激活[29]；对中华鳖(Pelodiscus sinensis)的研究发现，当用大豆浓缩蛋白替代饲料中 $60 \\%$ 鱼粉后，TOR、S6 和4E 结合蛋白1（4E-BP1）蛋白质磷酸化水平显著下降[30]。这表明鱼类TOR 信号通路受到饲料蛋白质水平的调控，蛋白质源对TOR信号通路的影响与动物种类有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本质上讲，鱼类对蛋白质的需求实际上是对蛋白质中比例平衡的氨基酸的需求。因此，在鱼类配合饲料中，不仅要注重蛋白质给食欲带来的影响，更要关注氨基酸对食欲的影响。现在普遍认为氨基酸对动物的摄食行为有着极强的刺激作用，是动物良好的诱食剂。氨基酸可分为 $L$ 型(左旋)和 $D$ 型(右旋)。 $L$ 型氨基酸已被公认是引诱鱼类、甲壳类和其他水产动物采食的最有效的化合物之一。 $L$ 型氨基酸(盐)具有一定的口感，其中组氨酸、精氨酸、苯丙氨酸表现为苦味；丙氨酸、脯氨酸、苏氨酸表现为甜味；天冬氨酸表现为酸味；谷氨酸盐具有鲜味；缬氨酸、亮氨酸和异亮氨酸等支链氨基酸具有巧克力味；而蛋氨酸及其衍生物则具有鲜肉味[31]。不同鱼类喜欢的风味不同，对风味具有定向性，即使同一种氨基酸或氨基酸组合对不同的鱼类也会表现出不同的诱食活性，一般认为非肉食性鱼类偏爱甜味，而肉食性鱼类偏爱鲜肉味[32-33]。同时氨基酸对鱼类的食欲影响还与氨基酸的酸碱性有关。酸性氨基酸包括天冬氨酸和谷氨酸，碱性氨基酸包括赖氨酸、精氨酸和组氨酸。一般认为，肉食性鱼类对碱性和中性氨基酸敏感，而草食性鱼类对酸性氨基酸敏感[34-35]。在哺乳动物上的研究发现，与识别氨基酸相关的口腔受体属味觉受体第1家族（taste receptor family1 members，T1Rs），它们均为G蛋白偶联受体，T1R1 和 T1R3 以异源二聚体的形式识别氨基酸的味道[36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于氨基酸影响动物摄食调控的研究结果在不同的物种间以及不同处理方式间存在差异。例如：脑部注射亮氨酸后，大鼠采食量显著减少，同时促食欲 NPY 和刺鼠相关蛋白(AgRP)的蛋白表达量显著下降6；在饲料中添加亮氨酸却并不影响泌乳期大鼠的采食量、产热量、体增重，但显著抑制了下丘脑 NPY和 AgRP mRNA的表达[37]。近年来，关于中枢信号通路对食欲的影响成为研究的热点，在断奶仔猪中发现，添加 $0 . 5 5 \\%$ 的 $L$ -亮氨酸组较对照组和添加 $0 . 2 7 \\%$ L-亮氨酸组显著提高了mTOR信号通路中的核糖体 S6 激酶1（S6K1）和 4E-BP1蛋白质磷酸化水平，从而促进了仔猪的蛋白质合成能力[38]。在鱼类中的研究主要集中在转录水平上。对鲫鱼的研究发现，饲料中添加 $0 . 5 4 \\%$ 精氨酸显著降低了其肝脏和肌肉中 TOR 和 S6K1的mRNA表达水平，但不影响 4E-BP2的mRNA 表达水平[39]。随饲料中亮氨酸水平的升高，团头鲂肝脏中的TORmRNA表达水平显著升高[40]。亮氨酸和精氨酸可提高饥饿中国对虾的 TOR和 S6K1蛋白质磷酸化水平及其 mRNA 表达水平[41l，而色氨酸抑制了建鲤肌肉和肝脏中 TOR mRNA 的表达，提高了中肠和后肠 TOR和4E-BP的mRNA 表达水平[42]。TOR 在进化上是一种十分保守的蛋白激酶，广泛存在于各种生物细胞中，鱼类TOR 基因与人类的同源性达到 $90 \\%$ 以上，鲤鱼与斑马鱼的TOR基因同源性达到 $9 7 \\%$ 以上[43]。在高等哺乳动物上，通常 TOR 信号通路的上、下游关键因子如蛋白激酶B（Akt)、TOR、S6K1、S6、4E-BP1等在转录水平上即 mRNA表达水平上并未发生很大的变化，一般主要体现在蛋白质磷酸化水平上，而在对鱼类的居多研究中均发现了转录水平上的差异，因此需要进一步通过蛋白水平来确认鱼类与哺乳类的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2脂肪与脂肪酸对食欲的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动物从外界摄取营养物质的第一需要是为了供给生命活动的能量需要，脂肪作为一种高能营养素，每克脂肪在体内的氧化产热量分别是糖类、蛋白质的2.3和1.7倍（蛋白质、脂肪和糖类的氧化产热量分别为23 640、39 539 和 $1 7 1 5 4 { \\mathrm { J / g } }$ ）[44]；同时，相对蛋白质和糖类，动物对脂肪的敏感性较低，脂肪相对最不容易使机体产生饱食感[20]，因此摄入同质量的这3种营养物质，脂肪意味着更多的能量输入，却不因能量过剩而抑制食欲，因而出现脂肪沉积并发生肥胖症。Boyd 等[45]认为高脂饮食不影响人的摄食量与血浆CCK 和胰高血糖素样肽-I（GLP-I）的水平。但也有研究者认为长期摄食过高脂肪饮食将抑制食欲，使抑制食欲的相关肽水平升高，如CCK、生长激素抑制素（somatostatin）[46-47]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近几年的生理学研究发现，人和啮齿目动物能通过口腔识别出脂肪酸的味道，但并不能识别出甘油三酯的味道[48]，能被识别的脂肪酸包括多不饱和脂肪酸（亚油酸）、单不饱和脂肪酸（油酸）、饱和脂肪酸(C18:0、C12:0、C6:0)等[49]。与脂肪摄入和代谢相关的作用受体主要分布在口腔[味觉感受细胞(tastereceptorcells）]和小肠。口腔脂肪酸敏感性（oral fatty acid sensitivity）在控制脂肪的摄入量中起关键作用，研究显示长期大量摄入高脂食物后，口腔脂肪酸敏感性会降低。例如：膳食诱导肥胖鼠（diet-inducedobesity prone，DIO-P）较膳食诱导肥胖抵抗鼠（diet-induced obesity resistant，DIO-R）口腔脂肪酸敏感性显著降低，当给这2种鼠同时饲喂同种高脂饲料时，前者的食欲和摄食量显著高于后者[50]。肠道对脂肪摄入的调节主要是通过调节胃肠道的运动力和刺激胃肠道分泌与食欲相关的激素来实现，当摄入的脂肪较多时，小肠会减缓胃肠胃的运动力，从而延长胃排空的时间，并分泌出抑制食欲的激素，如CCK、GLP-I等，进而减少能量的摄入[51]。同样，脂肪酸对 leptin 和 ghrelin 的分泌也产生影响，如二十碳五烯酸（EPA）会增加小鼠 leptin 的分泌[52l，增长脂肪酸碳链的长度会抑制 ghrelin 的分泌，促进 PYY、胰多肽和胰高血糖素样肽-2(GLP-2)的分泌[53]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在鱼类上，脂肪的消化能和代谢能转化为净能的效率比糖类和蛋白质高 $5 \\% \\sim 1 0 \\%$ ，直接来自饲料或体内代谢产生的游离脂肪酸、甘油三酯是鱼类维持生长的重要能源物质，特别是海水鱼类，因其对糖类的利用率较差，脂肪在海水鱼类营养中的供能作用就更为重要，适量的脂肪具有促进摄食和节约蛋白质的作用[44]。研究发现鱼类摄食率能够根据饲料脂肪水平的改变而调整。在非等能饲料中，有些鱼类的摄食率先随着饲料脂肪水平的增加而增加，当脂肪水平超过一定范围时摄食率显著下降，如虹鳟[54]、欧洲鲈[55]、草鱼[56]、南方鲇[57]等。也有研究发现，在等能饲料中，虹鳟的摄食率不受饲料脂肪水平的显著影响[58]。这表明鱼类主要是根据饲料的能量水平来调整饲料的摄入量，脂肪对鱼类摄食率的影响可能更多的取决于其供能作用。类脂如磷脂和胆固醇对某些水生动物具有一定的诱食作用[59-60]。饲料中添加适量的必需脂肪酸，可提高水产动物的摄食量和饲料效率[61]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 糖类对食欲的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "糖类是自然界中分布最为广泛的一类有机化合物，在植物体内通常可占干重的 $4 0 \\% \\sim 8 0 \\%$ ，是人和动物最重要的能量来源，在人类食物中糖类供给的能量占全部能量的 $5 0 \\% \\sim 5 5 \\%$ ，在畜禽上也在 $50 \\%$ 以上。水产动物虽然也可以利用糖类作为能源，但因其自身分泌胰岛素和糖代谢能力有限，因此糖类在水产动物上的应用受到鱼的种类、糖的种类及糖的消化率的影响，一般糖类供给的能量占水产动物全部能量的比例不超过 $5 0 \\% ^ { [ 4 4 ] }$ 。因植物蛋白质源自身所含的糖类相对鱼粉高出很多，因此有必要了解糖类对食欲的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于动物摄食糖类后所产生的影响具体见图2[62]，图中各种淀粉定义：易消化淀粉(rapidly digestiblestarch，RDS)，指能在小肠中被迅速消化吸收的淀粉；慢消化淀粉（slowly digestible starch，SDS)是指在小肠中能被完全消化吸收但速度较慢的淀粉；抗消化淀粉(resistant starch,RS)，是指在小肠中会产生抗消化现象的淀粉，其功能相当于纤维素。目前在高等动物上主要是根据血糖指数（glycemic index,GI）和血糖负荷（glycemic load,GL）对淀粉进行划分[63-64]。亦可以根据体外模拟酶水解法来判断不同淀粉的消化性能[59]。一般葡萄糖和RDS 可提高动物的食欲，SDS 和RS 抑制动物的食欲，果糖的过量摄入可能对机体造成不良影响[65]。多数学者认为糖类对食欲的影响主要是通过血糖和胰岛素来进行调节[6-69]，糖类对食欲神经肽如CCK、PYY 和 ghrelin 的分泌无显著影响[20]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前关于糖类对肉食性鱼类摄食的影响已有一些报道，通常认为高碳水化合物饲料会降低肉食鱼类的摄食率，因为鱼类在一定范围内有自发调节饲料能量的摄食，即等能摄食机制[70]。而另一些研究则表明，在饲料中添加适量淀粉作为能源物质时，肉食性鱼类采取提高摄食量的策略来维持正常生长，如南方鲇[71、长吻鮠[72]、大口黑鲈[73]和[74]。但在肉食性鱼类饲料中添加过量碳水化合物会对鱼体产生损伤，主要体现在内脏比增大、肝糖原增多和内脏脂肪含量增加等[67]。糖类对鱼类摄食的影响机理目前的研究仅限于血糖含量和糖类代谢相关酶活性，研究发现肉食性鱼类对糖类具有较高的消化率却不能很快代谢转化为能量，造成了长时间的摄食后高血糖现象，这证实了肉食性鱼类利用和代谢葡萄糖能力有限[75]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "碳水化合物糖类 多聚糖↓单糖 淀粉二糖1果糖葡萄糖 蔗糖、乳糖1 慢消化淀粉 抗消化淀粉↓ 易消化淀粉非胰岛素分泌代谢 ↓ ↓快速吸收↓ 消化慢 快速消化吸收肠上皮细 肝脏代谢 胰岛素释放增多 ↓ ↓ 不消化购代谢 ↓ 持久粹放葡萄糖 血糖快速升高 1  \n+ 肝糖原重新合成脂类 低血捷 低战岛麦反应 高水平民岛安分站 发  \n血赠有限上升 肝脏甘油三酯 持续的德备积态 低血捷 形成短缝脂肪酸不利的代谢影响 ↓ ↓ 机 增加饱食感  \n肝脏脂肪变性 过度能量消耗 控制能量摄入 能量摄入控制降低胰岛素抵抗 高血压 ↓ 控制能量摄入糖耐受力损伤 过度能量消耗",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2碳水化合物的分类和摄食碳水化合物后产生的主要反应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4核苷酸（nucleotides）对食欲的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "核苷酸是低分子化合物，具有编码遗传信息、调节能量代谢、传递细胞信号、作为辅酶等重要的生理生化功能。由于动物机体能合成各种核苷酸，且没有特异性缺乏症，因而长期以来核苷酸一直被视为非必需营养素。近年研究发现，核苷酸作为一种诱食剂能显著提高动物的食欲，并能促进肠道的生长发育及肠道损伤后的修复，还有利于肠道有益微生物的生长[76]。在水产动物上，饲料中补充核苷酸能提高大西洋鲑[77]、条纹鲈[78]等的摄食率，但对真鲷、条纹鲈和红鳍东方触的摄食有抑制作用[26]，其作用机理有待进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5 维生素对食欲的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因动物对维生素的需要量较少，且一般可通过外源性添加来满足动物对维生素的需要，因此维生素对动物食欲影响的报道较少。在鱼类上，缺乏维生素C、泛酸、叶酸、烟酸、肌醇等会出现厌食症[44]。在高等动物上维生素A 和维生素D对食欲的影响较为明显[79-81]。食物中若缺乏维生素D，会使小鼠胰岛素分泌受到明显的损伤，最终导致小鼠摄食量降低[81]；维生素D摄入过高会导致幼儿食欲减退[80];高水平维生素A可使小鼠的 leptin mRNA表达水平下调，但却并未导致摄食量的增加[82]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6矿物元素对食欲的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与水产动物食欲相关的矿物元素主要有镁、铁、锌等[47]。在高等动物上，锌对食欲的调控作用最为明显，锌是唾液中味觉素(gustin)的构成成分，动物缺锌不易刺激味觉，进而影响食欲；缺锌使代谢所需的各种含锌酶的活性降低，影响核酸和蛋白质的合成与分解。此外，锌还可通过直接改变中枢神经系统中去甲肾上腺素受体、多巴胺受体、血清素受体和阿片肽受体等的活性而调节食欲，并影响神经系统，表现为氨基酸代谢和神经递质(主要是儿茶酚胺类物质)含量发生改变，进而导致动物摄食异常[83-84]。缺锌和高锌均可调控大鼠垂体内基因的表达，缺锌可下调NPYmRNA 的表达水平，上调CCK 和降钙素基因相关肽(CGRP)mRNA 的表达水平；高锌则可上调黑素色浓缩素和 ghrelin mRNA 的表达水平[85]。关于其他矿物元素对食欲的影响目前未见系统报道。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在哺乳动物上均发现高蛋白质饮食容易使机体产生饱食感并刺激抑制食欲的调节肽分泌，而碳水化合物和脂肪却不同，特别是机体味觉系统对脂肪不敏感，同时蛋白质和糖类产生的总能相近，那么今后在鱼类配方设计时，需要合理降低饲料蛋白质水平，即蛋白质只需要满足鱼体的最低需求量，使更多的脂肪和碳水化合物供能。特别是在饲料蛋白质源供应不足成为水产养殖业可持续发展的瓶颈问题时，如何降低饲料蛋白质的供能作用，使更多的蛋白质用于生长，从而降低饲料蛋白质水平和提高蛋白质利用率，缓解饲料蛋白质源紧缺的问题，并减少大量的代谢氮排放对水环境的污染，更成为目前水产动物营养研究迫切需要解决的内容。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] HARDYR W.Alternate protein sources for salmon and trout diets[J].Animal Feed Science and Technol0gy,1996,59(1/2/3):71-80. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] WATANABE T.Strategies for further development of aquatic feeds[J].Fisheries Science,2002,68(2):242-252. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] HARDY R W.Utilization of plant proteins in fish diets:effects of global demand and supplies of fishmeal[J].Aquaculture Research,2010,41(5):770-776. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] 邓君明.动植物蛋白源对牙鲆摄食、生长和蛋白质及脂肪代谢的影响[D].博士学位论文.青岛:中国海洋大学,2006.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5] HUNTINGFORDF,JOBLING M,KADRI S.Aquaculture and behavior[M].Blackwel:Wiley,2012:183-219. [6] COTA D,PROULX K,SMITH K A B,et al.Hypothalamic mTOR signaling regulates food intake[J].Science,2006,312(5775):927-930. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7] JOURNEL M,CHAUMONTET C,DARCEL N,et al.Brain responses to high-protein diets[J].Advances in Nutrition:An International Review Journal,2012,3(3):322-329. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8] TOME D.Protein,amino acids and the control of food intake[J].British Journal of Nutrition,2004,92(Suppl.1):S27-S30. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9] DUF Y,HIGGINBOTHAM DA,WHITE B D.Food intake,energy balance and serum leptin concentrations in rats fed low-protein diets[J].The Journal of Nutrition,2000,130(3):514-521. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10] WEIGLE D S,BREEN PA,MATTHYS C C,et al.A high-protein diet induces sustained reductions in appetite,ad libitum caloric intake,and body weight despite compensatory changes in diurnal plasma leptin and ghrelin concentrations[J].The American Journal of Clinical Nutrition,2Oo5,82(1):41-48. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11] COLOMBO JP,CERVANTES H,KOKOROVIC M,et al.Effect of different protein diets on the distribution of amino acids in plasma,liverand brain in the rat[J].Annals of Nutrition & Metabolism,1992,36(1):23-33. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12] LEIDY HJ,RACKIE M.The addition of a protein-rich breakfast and its effects on acute appetite control and food intake in ‘breakfast-skipping' adolescents[J].International Journal of Obesity,2010,34(7):1125-1133. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13] WESTERTERP-PLANTENGA M S,LEJEUNE MPG M,NIJS I,et al.Hgh protein intake sustains weight maintenance after body weight loss in humans[J].International Journal of Obesity,20O4,28(1):57-64. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14] WHITE B DDEAN R G,MARTIN R J.An association between low levels of dietary protein,elevated NPY gene expression in the basomedial hypothalamus and increased food intake[J].Nutritional Neuroscience,1998,1(3):173-182. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15] GRIFFIOEN-ROOSE S,MARS M,SIEBELINK E,et al.Protein status elicits compensatory changes in food intake and food preferences[J].The American Journal of Clinical Nutrition,2O12,95(1):32-38. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16] JOHNSTON C S,DAY C S,SWAN PD.Postprandial thermogenesis is increased $100 \\%$ on a high-protein,low-fat diet versus a high-carbohydrate,low-fat diet in healthy,young women[J].Journal of the American College of Nutrition,2002,21(1):55-61. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17] WESTERTERP-PLANTENGA M S.The significance of protein in food intake and body weight regulation[J].Current Opinion in Clinical Nutrition & Metabolic Care,2O03,6(6):635-638. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18] PADDON-JONES D,WESTMAN E,MATTES R D,et al.Protein,weight management,and satiety[J].The American Journal of Clinical Nutrition,2008,87(5):1558S-1561S. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19] MITHIEUX G,MISERY P,MAGNAN C,et al.Portal sensing of intestinal gluconeogenesis is a mechanistic link in the diminution of food intake induced by diet protein[J].Cell Metabolism,20o5,2(5):321-329.   \n[20] BRENNANIM,LUSCOMBE-MARSHND,SEIMON R V,et al.Efects of fat,protein,and carbohydrate and protein load on appetite,plasma cholecystokinin,peptide YY,and ghrelin,and energy intake in lean and obese men[J].American Journal of Physiology: Gastrointestinal and Liver Physiology,2012,303(1):G129-G140. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21] NRC.Nutrient requirements of fish and shrimp[M].Washington,D.C.:The National Academics Press,2011. [22] COUTINHO F,PERES H,GUERREIRO I,et al.Dietary protein requirement of sharpsnout sea bream (Diplodus puntazzo,Ceti 1777) juveniles[J].Aquaculture,2012,356-357:391-397. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23] JAUNCEY K.The efects of varying dietary protein level on the growth,food conversion,protein utilization and body composition of juvenile tilapias (Sarotherodon mossambicus)[J].Aquaculture,1982,27(1):43-54. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24] HEVROY E M,EL-MOWAFI A,TAYLOR R,et al.Effects of a high plant protein diet on the somatotropic system and cholecystokinin in Atlantic salmon (Salmo salar L.)[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2008,151(4):621-627. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25] SISSENER N H,HEMRE G I,ESPE M,et al.Efects of plant-based diets on glucose and amino acid metabolism,leptin,ghrelin and GH-IGF system regulation in Atlantic salmon (Salmo salar L.)[J].Aquaculture Nutrition,2013,19(3):399-412. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26] ZHOU Y,LIANG X F,YUAN X C,et al.Neuropeptide Y stimulates food intake and regulates metabolism in grass carp,Ctenopharyngodon idellus[J].Aquaculture,2013,380-383:52-61. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] JIN Y,TIAN L X,XIE S W ,et al.Interactions between dietary protein levels,growth performance,feed utilization,gene expression and metabolic products in juvenile grass carp (Ctenopharyngodon idella)[J].Aquaculture,2015,437:75-83. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] LANSARD M,PANSERAT S,SEILIEZ I,et al.Hepatic protein kinase B (Akt)-target of rapamycin (TOR)-signaling pathways and intermediary metabolism in rainbow trout (Oncorhynchus mykiss are not significantly affected by feeding plant-based diets[J].British Journal of Nutrition,2009,102(11):1564-1573. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29] SEILIEZ I,PANSERAT S,LANSARD M,et al.Dietary carbohydrate-to-protein ratio affects TOR signaling and metabolism-related gene expression in the liver and muscle of rainbow trout after a single meal[J].American Journal of Physiology: Regulatory, Integrative and Comparative Physiol0gy,2011,300(3):R733-R743. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30] ZHOU F,WANG Y Q,TANG L,et al.Effects of dietary soy protein concentrate on growth,digestive enzymes activities and target of rapamycin signaling pathway regulation in juvenile soft-shelled turtle,Pelodiscus sinensis[J].Agricultural Sciences,2O15,6:335-345. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[31] 高冬余,李吕木.水产饲料中氨基酸类诱食剂的研究进展[J].中国饲料,2008(18):27-30.  \n[32] 伍一军,包华驹,吴文胜,等.氨基酸对鲫鱼、泥鳅的诱食活性[J].水产学报,1993,17(4):337-339.  \n[33]梁萌青,于宏,常青,等.不同诱食剂对3种鱼类诱食活性的研究[J].中国水产科学,2000,7(1):60-63.  \n[34] JOHNSEN PB,ADAMS M A.Chemical feeding stimulants for the herbivorous fish,Tilapiazilii[J].Comparative Biochemistry and Physiology Part A:Physiology,1986,83(1):109-112.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[35] REIG L,GINOVART M,FLOS R.Modification of the feeding behaviour of sole (Solea solea) through the addition of a commercial flavour as an alternative to betaine[J].Aquatic Living Resources,2003,16(4):370-379. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36] CHANDRASHEKAR J,HOON M A,RYBA N JP,et al.The receptors and cells for mammalian taste[J].Nature,2006,444(7117):288-294. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[37] LOPEZ N,SANCHEZ J,PICO C,et al.Dietary $L$ -leucine supplementation of lactating rats results in a tendency to increase lean/fat ratio associated to lower orexigenic neuropeptide expression in hypothalamus[J].Peptides,2010,31(7):1361-1367. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] YIN Y L,YAO K,LIU Z J,et al.Supplementing $L$ -leucine to a low-protein diet increases tissue protein synthesis in weanling pigs[J].Amino Acids,2010,39(5):1477-1486. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[39]TU Y Q,XIE S Q,HAN D,et al.Dietary arginine requirement for gibel carp (Carasss auratus gibelio var.CAS III) reduces with fish size from $5 0 \\ \\mathrm { g }$ to $1 5 0 \\ \\mathrm { g }$ associated with modulation of genes involved in TOR signaling pathway[J].Aquaculture,2015,449:37-47. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[40] REN M C,HABTE-TSION H M.,LIU B,et al.Dietary leucine level afects growth performance,whole body composition,plasma parameters and relative expression of TOR and TNF-a in juvenile blunt snout bream,Megalobrama amblycephala[J].Aquaculture,2015,448:162-168. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[41]SUN S J,WANG B J,JIANG KY,et al.Target of rapamycin (TOR) in Fenneropenaeus chinensis:cDNA cloning,characterization,tissue expression and response to amino acids[J].Aquaculture Nutrition,2015,21(1):1-9. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[42] TANG L,FENG L,SUN C Y,et al.Effect of tryptophan on growth,intestinal enzyme activities and TOR gene expression in juvenile Jian carp (Cyprinus carpio var.Jian):studies in vivo and in vitro[J].Aquaculture,2013,412-413:23-33. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[43]王嘉,薛敏,吴秀峰,等.鱼类对不同蛋白质源饲料选择性摄食调控机制的研究进展[J].动物营养学报，2014,26(4):833-842.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[44]李爱杰.水产动物营养与饲料学[M].北京:农业出版社,1996:36-46.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[45] BOYD K A,O'DONOVAN D G,DORAN S,et al.High-fat diet effects on gut motility,hormone,and appetite responses to duodenal lipid in healthy men[J].American Journal of Physiology:Gastrointestinal and Liver Physiol0gy,2003,284(2):G188-G196. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[46] BEGLINGER CDEGEN L.Fat in the intestine as a regulator of appetite—role of CCK[J].Physiology & ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Behavi0r,2004,83(4):617-621. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[47] BLUDELL JE,LAWTON C L,COTTON JR,et al.Control of human appetite:implications for the intake of dietary fat[J].Annual Review of Nutrition,1996,16:285-319. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[48] MATTES R D.Is there a fatty acid taste?[J].Annual Review of Nutrition,2009,29:305-327. [49] MATTES R D.Oral detection of short-,medium-,and long-chain fre fatty acids in humans[J].Chemical Senses,2009,34(2):145-150. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[50] GILBERTSON TA,LIU L D,KIM I,et al.Fatty acid responses in taste cells from obesity-prone and -resistant rats[J].Physiology & Behavior,2005,86(5):681-690. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[51] LITTLE TJ,FEINLE-BISSET C.Effects of dietary fat on appetite and energy intake in health and obesity-oral and gastrointestinal sensory contributions[J].Physiology& Behavior,2011,104(4):613-620.   \n[52] PEREZ-MATUTE P,MARTI A,MARTiNEZ J A,et al.Eicosapentaenoic fatty acid increases leptin secretion from primary cultured rat adipocytes:role of glucose metabolism[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2005,288(6):R1682-R1688. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[53] FELTRIN K L,PATTERSON M,GHATEI M A,et al.Eect of fatty acid chain length on suppression of ghrelin and stimulation of PYY,GLP-2 and PP secretion in healthy men[J].Peptides,2006,27(7):1638-1643. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[54] GELINEAU A,CORRAZE G,BOUJARD T,et al.Relation between dietary lipid level and voluntary feed intake,growth,nutrient gain,lipid deposition and hepatic lipogenesis in rainbow trout[J].Reproduction,Nutrition,Development,2001,41(6):487-503. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[55] BOUJARD T,GELINEAU A,COVES D,et al.Regulation of feed intake,growth,nutrient and energy utilisation in European sea bass (Dicentrarchus labrax) fed high fat diets[J].Aquaculture,2004,231(1/2/3/4):529-545. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[56] DU Z Y,LIU Y J,TIANL X,et al.Efect of dietary lipid level on growth,feed utilization and body composition by juvenile grass carp (Ctenopharyngodon idella)[J].Aquaculture Nutrition,2005,11(2):139-146. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[57] FU S J,CAO Z D.Effect of dietary protein and lipid levels on feed intake and growth performance of southern catfish,Silurus meridionalis Chen[J].Aquaculture Research,2OO6,37(1):107-110. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[58] YAMAMOTO T,KONISHI K,SHIMA T,et al.Influence of dietary fat and carbohydrate levels on growth and body composition of rainbow trout Oncorhynchus mykiss under self-feeding conditions[J].Fisheries Science,2001,67(2):221-227. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[59] PAIBULKICHAKUL C,PIYATIRATITIVORAKUL S,KITTAKOOP P,et al.Optimal dietary levels of lecithin and cholesterol for black tiger prawn Penaeus monodon larvae and postlarvae[J].Aquaculture,1998,167(3/4):273-281. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[60] BRIGGS M R P,BROWN JH,FOX C J.The effect of dietary lipid and lecithin levels on the growth,survival,feeding efficiency,production and carcass composition of post-larval Penaeus monodon Fabricius[J].Aquaculture Research,1994,25(3):279-294. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[61] TAKEUCHI T.Essential fatty acid requirements of aquatic animals with emphasis on fish larvae and fingerlings[J].Reviews in Fisheries Science,1997,5(1):1-25. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[62] ALLER E E JG,ABETE I,ASTRUP A,et al.Starches,sugars and obesity[J].Nutrients,2011,3:341-369. [63] JENKINS D J,WOLEVER TM,TAYLOR R H,et al.Glycemic index of foods:a physiological basis for carbohydrate exchange[J].The American Journal of Clinical Nutrition,1981,34(3):362-366. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[64] ZHANG G Y,SOFYAN M,HAMAKER B R.Slowly digestible state of starch:mechanism of slow digestion property of gelatinized maize starch[J].Journal of Agricultural and Food Chemistry,2008,56(12):4695-4702. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[65] 缪铭,江波,张涛.淀粉的消化性能与RVA 曲线特征值的相关性研究[J].食品科学,2009,30(5):16-19. [66] VAN DAM R M,SEIDELL J C.Carbohydrate intake and obesity[J].European Journal of Clinical Nutrition,2007,61(Suppl.1):S75-S99. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[67] PETERS HPF,RAVESTEIN P,VAN DER HIJDEN HT W M,et al.Effect of carbohydrate digestibility on appetite and its relationship to postprandial blood glucose and insulin levels[J].European Journal of Clinical Nutrition,2011,65(1):47-54. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[68] WOLEVER TM S,LEUNG J,VUKSAN V,et al.Day-to-day variation in glycemic response elicited by white bread is not related to variation in satiety in humans[J].Appetite,2Oo9,52(3):654-658. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[69] FLINT A,GREGERSEN N T,GLUUD L L,et al.Associations between postprandial insulin and blood glucose responses,appetite sensations and energy intake in normal weight and overweight individuals:a meta-analysis of test meal studies[J].British Journal of Nutrition,2OO7,98(1):17-25. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[70]ALI M Z,JAUNCEY K.Optimal dietary carbohydrate to lipid ratio in African catfish Clarias gariepinus ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(Burchell 1822)[J].Aquaculture International,2004,12(2):169-180.   \n[71]付世建,谢小军.饲料碳水化合物水平对南方鲇生长的影响[J].水生生物学报,2005,29(4):393-398.   \n[72] 裴之华,解绶启,雷武,等.长吻鮠和异育银鲫对玉米淀粉利用差异的比较研究[J].水生生物学 报,2005,29(3):239-246.   \n[73] 谭肖英,刘永坚,田丽霞,等.饲料中碳水化合物水平对大口黑鲈 Micropterus salmoides 生长、鱼体营养 成分组成的影响[J].中山大学学报:自然科学版,2005,44(增刊1):258-263.   \n[74] 周华,樊启学,宗克金,等.饲料碳水化合物水平对幼鱼生长和体成分的影响[J].水生态学杂 志,2011,32(3):108-113.   \n[75] 任鸣春.军曹鱼和虹鳟糖类营养生理研究[D].博士学位论文.青岛:中国海洋大学,2012.   \n[76]罗国富,杨小萍,宋焕,等.外源核苷酸对动物营养的作用[J].饲料博览,2009(4):8-11.   \n[77] BURRELLS C,WILLIAMS PD,FORNO P FDietary nucleotides:a novel supplement in fish feeds:1.Effects on resistance to disease in salmonids[J].Aquaculture,2001,199(1/2):159-169.   \n[78]PAPATRYPHON E,SOARESJR JH,Jr.Optimizing the levels of feeding stimulants for use in high-fish meal and plant feedstuff-based diets for striped bass,Moronesaxatilis[J].Aquaculture,2001,202(3/4):279-288.   \n[79] 何云飞.维生素A缺乏与儿童厌食行为的相关研究[D].硕士学位论文.南京:南京医科大学,2006.   \n[80] 袁秀琴.维生素D 中毒误诊为小儿厌食症5例报告[J].哈尔滨医药,2006,26(3):64-65.   \n[81] CHERTOW B S,SIVITZ W I,BARANETSKY N G,et al.Cellular mechanisms of insulin release:the effects of vitamin D deficiency and repletion on rat insulin secretion[J].Endocrinology,1983,113(4):151-1518.   \n[82] FELIPEF,MERCADER J,RIBOT J,et al.Efects of retinoic acid administration and dietary vitamin A supplementation on leptin expresson in mice:lack of correlation with changes of adipose tissue mass and food intake[J].Biochimica et Biophysica Acta: Molecular Basis of Disease,2005,1740(2):258-265.   \n[83] TAKEDA A.Movement of zinc and its functional significance in the brain[J].Brain Research Reviews,2000,34(3):137-148.   \n[84] HENDY HAE,YOUSEF MI,EL-NAGA N IA.Effect of dietary zinc deficiency on hematological and biochemical parameters and concentrations of zinc,copper,and iron in growing rats[J].Toxicology,2001,167(2):163-170.   \n[85] 井明艳.锌影响大鼠生长发育及其与降钙素基因相关肽调控摄食的机理研究[D].博士学位论文.杭州: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "浙江大学,2007.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Effect of Nutrients on Appetite of Fishes TIAN Juan1.2 HE Gen1\\*MAI Kangsen1ZHOUHuihui1 (1. Key Laboratory of Aquaculture Nutrition, Ministry of Agriculture, Ocean University of China, Qingdao 266003,China;2. Key Laboratory of Freshwater Biodiversity Conservation and Utilization, Ministry ofAgriculture, Yangtze River Fisheries Research Institute,Chinese Academy of Fishery Sciences, Wuhan 430223, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Finding ideal fish meal substitutes has become one of the research hotspots of animal nutrition in recently two decades.In carnivorous fishes,fish meal substitutes due to poorer palatability,lower digestibility, imbalance amino acid and anti-nutritional factors and other reasons lead to a lower replacement. Despite allthis, with the fish meal requirement further increasing，replacement of fish meal has become an inevitable requirement for sustainable development of carnivorous fish farming.Therefore,how to improve the utilization of fish meal substitutes becomes the bottle-neck of fish meal substitution study.This paper from the perspective of appetite,reviews the recent advances towards nutrients on the appetite,so as to regulate the appetite through nutrition measures, thus improves the utilization of feed through nutrition measures. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: appetite; nutrients; regulation; fishes ",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,538 @@
+[
+    {
+        "type": "text",
+        "text": "Lipid droplet remodeling and interaction with mitochondria in mouse brown adipose tissue during cold treatment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinhai Yua,b.1, Shuyan Zhanga, Liujuan Cuiaf, Weiyi WangC, Huimin Naab, Xiaotong Zhuab, Linghai Lid, Guoheng Xu,Fuquan Yanga, Mark Christiané, Pingsheng Liu a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NationalLaboratoryofBiomacromolecules,InstituteofBiophysics,ChineseAcademyofSciences,Beijing0,Chna   \nb University of Chinese Academy of Sciences,Beijing 10o049,China   \nDepartmentofPhysiology and Pathophysiology,Peking University Health Science Center,Beijing 10o191,China   \nept   \neDivisionofTranslationalandSystemsMedicine,WarwickMedicalchool,UniversityofWarwick,CoventryCV4A,UK   \nfSchoolofLife Sciences,UniversityofScience andTechnologyofChina,Hefei,Anhui,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 9 October 2014   \nReceived in revised form 22 December 2014   \nAccepted 16 January 2015   \nAvailable online 2 February 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBAT   \nLDs   \nMitochondria Cold exposure Proteomics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brown adipose tissue (BAT) maintains animal body temperature by non-shivering thermogenesis,which is through uncoupling protein 1(UCP1) that uncouples oxidative phosphorylation and utilizes $\\beta$ -oxidationof fatty acids released from triacylglycerol(TAG) in lipid droplets (LDs).Increasing BATactivity and “browning\" other tissues such as white adipose tissue (WAT) can enhance the expenditure of excesstored energy,and in turn reduce prevalence of metabolic diseases.Although many studies have characterized the biology of BAT and brown adipocytes,BATLDs especiall their activation induced by cold exposure remain to be explored. We have isolated LDs from mouse interscapular BAT and characterized the fullproteome using mass spectrometry.Both morphological and biochemical experiments showed that the LDs could tightly associate with mitochondria. Under cold treatment mouse BAT started expressing LD structure protein PLIN-2/ADRP and increased expression of PLIN1.Both hormone sensitive lipase (HSL)and adipose TAG lipase (ATGL)were increased in LDs.In addition,isolated BATLDs showed increased levels of the mitochondrial protein UCP1,and prolonged cold exposure could stimulate BAT mitochondrial cristae biogenesis.These changes were in agreement with the data from transcriptionalanalysis.Our results provide the BATLD proteome for the first time and show that BAT LDs facilitate heat production by coupling increasing TAG hydrolysis through recruitment of ATGLand HSL to the organelle and expression of another LD resident protein PLIN2/ADRP,as wellas by tightly assciating with activated mitochondria.These findings willbenefit the study ofBATactivationand the interaction between LDs and mitochondria. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2015 Elsevier B.V.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adipose tissue is a highly dynamic organ with essential roles in the regulation of energy balance.It is composed of varying amounts of the two different types,white adipose tissue(WAT) that stores energy in the form of triacylglycerol (TAG),and brown adipose tissue (BAT) that is responsible for adaptive,non-shivering thermogenesis through burning fat in mammals [1].BAT is a highly vascularised and innervated tissue and brown adipocytes possess multilocular lipid droplets (LDs);a very high number of mitochondria and demonstrate a high rate of fatty acid oxidation and glucose uptake [2.3]. It expresses a high amount of mitochondrial uncoupling protein 1（UCP1） that uncouples respiration and dissipates chemical energyas heat[1].UCP1 isa long-chain fattyacid (LCFA) anion/ $\\mathsf { H } +$ symporter [4] and is activated by LCFAs that are released within BAT by the lipolysis of triacylglycerol (TAG) from LDsuponadrenergic stimulation[1].Two different developmentally distinct brown adipocytes have been observed in mammals.The classical BAT(cBAT) develops during embryogenesis [5],and the recruitable BAT (rBAT) [6] or the beige [7,8] or brite (brown-in-white)[2,9] adipose tissue is induced postnatally within WAT[1O] or skeletal muscle [11].cBAT is more closely related to skeletal muscle,because of the closer ancestries [5]. In addition, there are two proposed pathways to develop rBAT:transdifferentiation of mature white adipocytes [12,13] or differentiation of brown adipogenic progenitors [14-16].The transcriptional regulators that are important for controlling expression of the BAT phenotype include PRDM16,PGC-1α, RIP140, Bmp7,and Fgf21[17,18]. The most studied of these is PGC-1α, which isa coactivator for PPARy.Although itmaynot be necessary for BAT differentiation directly[19],PGC-1α controls mitochondrial biogenesis and heat production through induction of expression of UCP1 and otherrespiratory factors [2O].PGC-1α overexpression in muscle stimulatesan increase expression of FNDC5 that is cleaved and secretedas irisin and acts in WAT to induce browning [21]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rediscovery of active BAT in human adults has led to a renaissance in the study of this tissue and has shed new light on the understanding of human metabolic disorders as well as a target for the development of therapeutic treatments for metabolic disorderinduced diseases [22-25]. Recently, several proteomic studies of rodent BAT have been reported.The differences of BAT protein composition from rats with different gender and diet are described [26] and the proteins have been compared in BAT and WAT from rat treated with high fat diet [27].In addition,the protein comparison studies were also conducted during brown preadipocyte differentiation,or adipose tissue lipolysis [28,29].These studies revealed some mechanistic pathways that govern the regulation of BAT thermogenesis.To dissect how brownadipocytes function in the metabolism of neutral lipids for heat production,the LDs that store,transfer,and metabolize neutral lipids in the cells must be understood. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LDs are dynamic cellular organelles that consist of a neutral lipid core covered with a phospholipid monolayer membrane and proteins. The LD-associated proteins provide a level of complexity and the ability to modulate key parameters such as LD size,stability,inter-droplet interactions as well as regulatable lipid storage.They include resident/ structural proteins as well as non-resident proteins that often move dynamically on and off LDs [3O-34]. From accumulated proteomic studies in the last decade,a large number of LD proteins have been identified and some of them have been further verified using morphological and functional experiments,demonstrating reliability of the proteomic screens [3O]. These previously identified LD proteins mainly belong to five categories:LD resident, lipid metabolism,lipid synthesis,membrane trafficking,and cell signaling[35,36], giving putative functions to the organelleand indicating that LDsare a cellular center for lipid metabolism [33,37].LDsare particularly important inadipocytes,which are cells specialized in the accumulation,storage and mobilization of neutral lipids.The different functions of adipose tissues are reflected in their morphology,with white adipocytes containinga single giant LD (unilocular) occupying most of the cytoplasm,while brown adipocytes are filled with a number of smaller LDs (multilocular).The large LDs provide more efficient fat storage,whereas smaller LDs,with higher surface/volume ratio,facilitate the release of their stored lipids given the extensive surface accessible to lipases.It is the complement of LDassociated proteins that determines LD size,number and metabolic state.Although they have been isolated from several tissues and cell types,LDs from BAT remainuncharacterized. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asakey site of lipid metabolism,LDs have been found to interact with other cellular organelles and structures,such as endoplasmic reticulum (ER) [38,39],mitochondria [40,41],early endosomes [42], peroxisomes [43],and cytoskeleton [44].In particular,physical contact between LDs and mitochondria would facilitate the transfer of fatty acid（FAs）hydrolyzed from LDs for $\\beta$ -oxidation without moving long distances in the hydrophilic cytosol.This is supported by co-isolation of mitochondria during LD purification in skeletal muscle as well as the fact that mitochondrial marker proteins are found in almost all isolated LDs from mammalian cells and tissues [45]. Consistent with other membrane structure interactions,a SNARE protein,SNAP23 was found to be involved in the interaction between LDs and mitochondria[41]. Since several Rab proteins have been localized to LDs,previous work also revealed that GTP isakey mediator ofLD and mitochondrial interaction[4O].Furthermore,an interactomic studyusinga bimolecular fluorescence complementation assay in Saccharomyces cerevisiae identified protein-protein contacts between surface proteins of these two organelles [40]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Brown adipocytes represent an important target for the reduction of ectopic lipid accumulation induced in metabolic syndromes and several transcriptional regulation pathways that govern their lipid metabolism have been identified.However, the molecular machinery on LDs controlling lipid storage and metabolism in these cells has not been fully elucidated.As LD-associated proteins serve to regulate the storage and release of lipids,we hypothesized that BAT LDs possess a unique proteome that is dynamic in nature and responds to stimuli such as cold to facilitate the release of their stored energy.So,we isolated LDs from mouse BAT and obtained their proteome.The comparative proteomic study revealed the dynamic nature of LD proteins during cold acclimation. We also present new evidence of a strong physical interaction between LDs and mitochondria.The proteome of BAT LDs provides new insight into the range of factors that determine LD biology including regulation oflipid storageand releasewhen thermogenesis is stimulated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Colloidal blue stain kit,LipidTox Red,and MitoTrackerwere from Invitrogen.Primary antibodies for perilipin 1 and ADRP were gifts from Dr. Guoheng Xu [46]. UCP1 and Cidea antibodies were gifts from Dr.Peng Li [47]. CGl-58 antibody was gift from Dr. Osumi [48]. Antibodies against ATGL,LAMP1,HSL, p-HSL,Rab5,UBXD8,and aP2 were from Cell Signaling Technology.Antibodies against Tim23,OPA1,and caveolin1 were from BD Biosciences.Anti-GAPDH,and Porin antibodies were obtained from Calbiochem.Anti-AcC1antibody was from Upstate. Antibodies against ACSL1,ACSL5,and CPT1b were from ABclonal Technology.Antibodyagainst Tom2O was from Santa Cruz Biotech.qPCR SYBR Mix kit was obtained from ABI.Western Lighting Plus ECL was from PerkinElmer.Percoll was obtained from GE Health. $2 5 \\%$ glutaraldehyde solution (EM grade),uranyl acetate,and lead citrate were from Electron Microscopy Sciences(Hatfield,USA).Osmium tetraoxide （EM grade)was purchased from Nakalai Tesque(Kyoto, Japan). Quetol 812 was from Nisshin EM(Tokyo,Japan).Formvar Was from BDH Chemicals (Poole, UK).Potassium ferrocyanide,gelatin, tannic acid,and other reagents were from Sigma-Aldrich (Missouri, USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Animals and cold exposure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eightweek old male C57BL/6(Mus musculus) mice were purchased from Vital River Laboratories (VLR) (Beijing).Chow diet was purchased from Beijing KEAO XIELI FEED CO.,LTD.All animal protocolswere approved by the Animal Care and Use Committee of the Institute of Biophysicsand University of Chinese Academy of Sciences under the permission number SCXK(SPF2oo9_111).The animals were maintained on $1 2 ~ \\mathrm { h } { : } 1 2 ~ \\mathrm { h }$ light-dark cycles.Theywere randomlydivided into 2 groups: cold exposure $( 4 ~ ^ { \\circ } \\mathsf { C } )$ and room temperature $( 2 2 - 2 5 \\ ^ { \\circ } C )$ .For cold exposure,mice were kept at $4 ^ { \\circ } C$ for 4,24,48,and $7 2 \\mathrm { h }$ ,respectively.The animals were allowed free access to standard rodent chowand waterad libitum. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.LD purification and LipidTox staining ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LDs were isolated by a modified method of Liu et al.[36],and Ding etal.[49]. In previous investigations we determined that large LDs $( > 5 ~ \\mu \\mathrm { m } )$ are too fragile for our standard purification protocol and would be broken by high-speed centrifugation.Therefore,to isolate BAT LDs,a lower speed centrifugation Was applied.In addition,most brownadipocytes had some very large LDs with little cytosol.This indicated that use of a N2 bomb under hypotonic conditions is not a suitable homogenization procedure.Therefore,we modified our established method [36,49] dramaticallyby1) homogenizing BAT bypassing the tissue through a $2 0 0 \\mu \\mathrm { m }$ mesh and 2) centrifuging samples at $2 0 0 0 g$ to separate LDs from cell lysate.Briefly, interscapular BAT from C57BL/ 6 male mice was placed into ice-cold PBS with $0 . 5 \\mathrm { m M }$ PMSF and any attached white fat tissue (WAT) carefully removed.Then BAT was transferred into $2 . 5 ~ \\mathrm { m l }$ ice-cold Buffer A( $2 5 ~ \\mathrm { m M }$ tricine $\\mathrm { p H } 7 . 6$ $2 5 0 ~ \\mathrm { m M }$ sucrose)plus $0 . 5 \\mathrm { m M }$ PMSF,and cut into $2 { - } 3 ~ \\mathrm { m m } ^ { 3 }$ pieces.The minced BAT was passed through a $2 0 0 ~ { \\mu \\mathrm { m } }$ mesh and the whole cell lysate (WCL)was collected and incubated on ice for $2 0 \\mathrm { m i n }$ .This was then centrifugedat $2 0 0 0 g$ for $3 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C$ ：the LD fraction on top was collected into a $1 . 5 \\mathrm { m l }$ microcentrifuge tube.After collection of the LD fraction, the remaining supernatant was subjected to $1 0 6 , 1 2 0 g ( 5 0 , 0 0 0 \\mathrm { r p m } )$ centrifugation(OptimaTM Ultracentrifuge TLA10o.3) for $2 0 \\mathrm { m i n }$ Themiddle clear supernatant was collected and used as cytosol fraction and the pellet was collected as total membrane (TM).LDs were then washed three timeswith $2 0 0 \\mu \\mathrm { l }$ Buffer A each time.LDs were mixed by $3 0 0 \\mu \\mathrm { l }$ acetone and $1 \\mathrm { m l }$ chloroformand vortex mixed thoroughly,and then LD proteins were pelleted by centrifugationat $2 0 { , } 0 0 0 g$ for $1 0 \\mathrm { m i n }$ LD proteins were either subjected to proteomic analysis or dissolved with $2 \\times { \\mathsf { S D S } }$ -sample buffer and denatured at $9 5 ^ { \\circ } C$ for $5 \\mathrm { m i n }$ for further analyses,such as protein profilingand Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Purified LDs were resuspended with Buffer A and stained with LipidToxwiththeratioLipidTox:LDsample $= 1 { : } 1 0 0 \\ ( \\nu / \\nu )$ on ice for $2 0 ~ \\mathrm { { m i n } }$ ,then visualized under ZEISS AxioImager M2 Imaging System. Intact LDs were determined by the sphere shape and smoothed edges for both stained LDs and EM photography. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.LD wash and trypsin cleavage protection assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 M NaCl,Triton X-10O and trypsin ( $0 . 2 5 \\% ,$ Gibco）were dissolved or diluted using Buffer A,respectively.After washing 3 times in Buffer A, LDswere subjected to different treatments.For the high salt wash,LDs were divided into two aliquots,BufferAor NaCl was thenadded,and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 1 \\mathrm { h } }$ For the Triton X-1OO wash,LDs were divided into fouraliquots with indicated concentrations of detergent,and incubated on ice for 5 min.For trypsin treatment,LDs were divided into nine aliquots with indicated concentrations of trypsin and inverted to mix.The enzymatic reaction was performed at $3 7 ^ { \\circ } \\mathsf { C }$ for 10,60,and $1 2 0 \\mathrm { m i n }$ ,respectively.During the reactions,tubes were inverted every $5 \\mathrm { m i n }$ .After incubation, LDs were re-isolated using $2 0 0 0 g$ centrifugation at $4 ^ { \\circ } C$ for $5 \\mathrm { m i n }$ ,then washed twice in Buffer A.LD proteins were extracted asabove. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Mitochondrial purification ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mitochondria were isolated by a modified method of Pu et al. [40]. WCL was centrifuged at $5 0 0 ~ g$ to remove nucleus and supernatant collected as post-nuclear supernatant (PNS).The PNS was centrifuged at $8 0 0 0 g$ for $1 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C .$ The pellet was washed twice and resuspended in $4 0 0 \\mu \\mathrm { u }$ BufferB( $2 0 ~ \\mathrm { m M }$ HEPES pH 7.4, $1 0 0 \\mathrm { m M }$ KCl, $2 \\mathrm { m M M g C l _ { 2 } }$ for further mitochondrial purification.The mitochondrial suspension was carefully applied on the top of a Percoll step gradient ( $3 \\mathrm { ~ m l ~ } 5 0 \\%$ and $8 \\mathrm { m l } 2 5 \\%$ )andcentrifugedat $1 8 , 0 0 0 \\mathrm { r p m }$ for $4 5 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C } .$ The interface between $2 5 \\%$ and $5 0 \\%$ Percoll was collected and washed with Buffer Band centrifuged at 15.000 rpm for $1 0 \\mathrm { m i n }$ at $4 ^ { \\circ } C$ to remove Percoll. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Western blotting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mouse tissue samples were prepared as previously described [50]. Briefly,BATwasweighed,dissolved in $2 \\times$ sample buffer by sonication. Sampleswere centrifuged at $2 0 { , } 0 0 0 g 4 ^ { \\circ } C$ for $1 0 \\mathrm { m i n }$ .Thefatpad floating on the sample buffer was removed and the procedure was repeated until there was no visible fat.Total proteins left in sample buffer were separated by SDS-PAGE,transferred to a polyvinylidene difluoride (PVDF）membrane,incubated with primary antibodies as indicated (1:200O dilution was used,except perilipin 1 and ATGL antibodies were diluted1:5000)atRT for $^ { 1 \\mathrm { { h } } }$ orat $4 ^ { \\circ } C$ overnight,and the membranes were washed at room temperature for3 times,5 min each. Afterwashing,the membranes were incubated in secondaryantibodies (1:5000 dilution）at room temperature for $^ { 1 \\mathrm { h } }$ ,washed 3 times,5 min each,and then detected using an ECL system.Each experiment was repeated at least 2 times from independent biological replicates and representative imagesare showin the figures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.Gene expression ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNA was extracted using the TRlzol $\\textcircled{8}$ reagent (Invitrogen, Carlsbad, CA),and converted into cDNA (Promega and TAKARA).qRT-PCR was performed using SYBR green dye and ABI StepOne PLUS(Applied Biosystems) for 4O cyclesand fold change for all the samples was calculated by $2 ^ { - \\Delta \\Delta \\mathsf { C t } }$ method, and $n \\geq 3$ $\\beta$ -actin wasused as housekeeping gene for mRNA expression analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.Mass spectrometry analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The protocol used was the same as previously described [51],except that MS/MS data were searched against with NCBI Refseq mouse database that was released on Jan.3,2011,using the SEQUEST program (Thermo,USA).Lipid droplet proteins were separated on a $12 \\%$ SDSPAGE gel,and subjected to Colloidal Blue staining overnight.The lane with LD proteins was cut into 29 slices.In-Gel digestion was performed as follows.Each slice was washed two times with MS-grade water,and then successively destained with acetonitrile.Proteins were reduced with $1 0 ~ \\mathrm { m M }$ DTT in $2 5 ~ \\mathrm { m M }$ ammonium bicarbonate at $5 6 ^ { \\circ } \\mathsf { C }$ for $^ { 1 \\mathrm { ~ h ~ } }$ andalkylated by $5 5 \\mathrm { m M }$ iodoacetamide in $2 5 \\mathrm { m M }$ ammonium bicarbonate in the dark at room temperature for $4 5 \\mathrm { m i n }$ Finally,gel pieces were thoroughly washed with $2 5 \\mathrm { m M }$ ammonium bicarbonate in water-acetonitrile $( 1 { : } 1 , \\nu / \\nu )$ solutionand completely dried ina SpeedVac.Proteins were incubated for $3 0 ~ \\mathrm { { m i n } }$ in $2 0 \\mu \\mathrm { l }$ of trypsin solution ( $1 0 ~ \\mathrm { { n g / m l } }$ in $2 5 ~ \\mathrm { m M }$ ammonium bicarbonate） on ice before adding $2 5 \\mu$ of $2 5 \\mathrm { m M }$ ammoniumbicarbonate and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ overnight.The digestion reaction was stopped by addition of $5 \\%$ formic acid to lower $\\mathsf { p H } < 4$ ：the digestion mixture was briefly spin down and the supernatant contained the peptides for further mass spectrum analysis.Peptide samples were loaded onto a C18 trap column with an autosampler,eluted onto a C 18 column ( $1 0 0 \\mathrm { m m } \\times 1 0 0 \\mu \\mathrm { m } ;$ packed with Sunchrom packing material (SP-120-3-ODS-A, $3 \\mu \\mathrm { m }$ ),and then subjected to nano-LC-ESI-LTQ MS/MS analysis.The quadrupole linear ion trap (LTQ) mass spectrometer Was operated in data-dependent mode with the initial MS scan ranging from 4OO to 2ooo Da.The five most-abundant ions were automatically selected for subsequent collision-activated dissociation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All MS/MS data were searched against with NCBI Refseq mouse database that was released on Jan.3,2011 with 30053 sequences,using the SEQUEST program(V.28,rev.12)(Thermo,USA).BioWorks（3.3.1 SP1) search parameters were set as follows:enzyme: trypsin; precursor ion mass tolerance: $3 . 0 \\mathrm { D a }$ ; and fragment ion mass tolerance: $1 . 0 \\mathsf { D } \\mathsf { a }$ number of missed and/or non-specific cleavages permitted:2.The variable modification was set to oxidation of methionine $( \\mathrm { M e t } + 1 5 . 9 9 \\mathrm { D a } )$ 一 The fixed modification was set to carboxyamidomethylation of cysteine $\\mathrm { \\Phi } ^ { \\mathrm { \\prime } } \\mathrm { C y s } + 5 7 . 0 2$ Da).The search results were filtered with Xcorr Vs.Charge values of Xcorr $( + 1 ) > 1 . 5$ Xcorr $( + 2 ) > 2 . 0$ ,Xcorr $( + 3 ) > 2 . 5$ ,and mass/charge ranged from35O to 18oo,and further filtered with number of distinct peptide $\\geq 2$ .The datawere further confirmedbymanually BLAST searching the UniProt datatase,and functional classification of proteins was referred to David [52,53] annotation results. Shotgun mass spectrum data collection and analysis were used the same criterionasabove. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.9.Transmission electron microscopy ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After collection,the mouse BAT was prefixed in $1 \\% ( w / \\nu )$ glutaraldehydeinPBS $\\left( \\mathrm { p H } 7 . 2 \\right)$ for $^ { 2 \\mathrm { ~ h ~ } }$ and subsequently post-fixed in $1 \\% ( w / \\nu )$ （204号 osmium tetraoxide（with $1 \\%$ potassium ferrocyanide） for $1 . 5 \\mathrm { ~ h ~ }$ at room temperature.After dehydration in an ascending concentration series of ethanol at room temperature,tissue was embedded in Quetol 812 and preparedas $7 0 \\mathrm { n m }$ sections using Leica EM UC6 Ultramicrotome (Leica,Germany).After staining with $4 \\%$ (w/v）uranyl acetate for $1 5 \\mathrm { m i n }$ and subsequently with lead citrate for $5 \\mathrm { m i n }$ at room temperature,the sections were viewed with Tecnai Spirit electron microscope (FEI). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The quality and morphology of isolated LDs were examined by TEM, using ultra-thin sectioning and positive staining methods.The sample preparation was similar to ultra-sectioning of BAT described above and finally viewed with Tecnai Spirit electron microscope.For positive staining, to fix the LDs,the grid was placed onto a drop of $2 . 5 \\%$ glutaraldehyde solution(O.1MPBS,pH7.2) for $1 0 \\mathrm { m i n }$ and subsequently to the drop $2 \\%$ osmium tetraoxide solution(O.1 M PBS, $\\mathsf { p H } 7 . 2$ )added for $1 0 ~ \\mathrm { { m i n } }$ .Then the LDs were stained with $0 . 1 \\%$ tannic acid for $1 0 ~ \\mathrm { { m i n } }$ and $2 \\%$ uranyl acetate for $1 0 \\mathrm { m i n }$ .The positive stained LDs appeared dark due to the direct contact with osmium tetraoxide. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.10.Statistics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Resultsare presented as mean $\\pm$ s.e.m.Differences between two groups were assessed using unpaired two-tailed Student's t-test.Data involving more than two groups were assessed by ANOVA ( $\\alpha = 0 . 0 5$ ） followed by Tukey's multiple comparison tests. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Isolating lipid droplets frommouse brown adipose tissue ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ahistological examination of mouse interscapular BAT showed that brown adipocytes contained many LDs from several hundred nm to about $2 0 \\mu \\mathrm { m }$ and many sphere-shaped mitochondria (Fig.1A).Many mitochondria were in direct contact with LDs butwithout any observed membrane fusion (Fig.1B).Using the modified method,LDs were isolated from mouse BAT (Fig.2).Morphological analysis showed that the isolated LDs were intact, sphere-shaped (Fig.2Aa) and all stained positive with LipidTox (Fig.2Ab).The size of LDs ranged from 0.5 to $2 0 \\mu \\mathrm { m }$ (Fig.2Aa-2Ad).Most importantly,other membrane structures were barely detected under both light and electron microscopy except mitochondria (Fig.2Aa-2Ad and S1),indicatinga high level of purity of the isolated LDs for further study.Additional verification was undertaken by comparing protein profiles between LDs with other cellular fractions. A unique protein profile was observed for LDs in comparison with total membrane (TM),cytosol (Cyto),and whole cell lysate (WCL) (Fig.2B). The purity of the isolated LDs was further confirmed by distribution of cellular proteins using Western blots (Fig.2C).As expected, the LD resident protein perilipin 1 was exclusively detected in LD fraction with a similar distribution for two other proteins,CGI-58 and Rab5 that were previously identified in LDs [36,49]. Also consistent with previous studies,two triacylglycerol(TAG)lipases,adipose TAG lipase(ATGL)and hormone sensitive lipase (HSL) were partially located in LDs while cytosolic proteins,GAPDH,aP2,and ACC1 were not detected in LDs (Fig.2C). Lysosome protein LAMP1 was present in TM but absent in LDs (Fig.2C). Interestingly,mitochondrial proteins such as Porin,uncoupling protein 1 (UCP1),and Tim23 were found in isolated LDs,suggesting co-isolation of mitochondria with LDs (Fig.2C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Proteomic analysis of isolated lipid droplets ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1.BATLD proteins were mainly involved in lipid metabolism and energy production ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LD proteins were then precipitated and separated by SDS-PAGE.The gel was excised and subjected to proteomic analysis (Fig.3). Identified peptides are listed in Table S1.To verify the proteome,a second proteomic analysis with independently isolated LDs was performed using the shotgunmethod (Table S2).The proteomic results from sliced gel pieces and from the shotgun method were compared(Table S3),and 169 proteins were common to both proteomes (Fig.3B). $8 1 . 7 \\%$ of the 169 proteins have been identified previously in other LD studies,verifying the reliability of LD isolationand proteomics (Table S3). Interestingly, the proteome of BAT LDs was similar to isolated LDs of skeletal muscle as previously reported(Table S3) [45].The proteins identified by LC-MS were categorized into 8 groups including lipid metabolism and energy production,other metabolism,traffickingand transport,chaperone, cytoskeleton,transcription and translation,electron transport,and other functions (Fig.3C,Table S4).Proteins involved in lipid metabolism and trafficking were a major component correlating with the functions of BAT LDs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2.BAT LDs were tightly associated with mitochondria ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The proteome of mouse BAT LDs was in agreement with the data from Western blot analysis in which mitochondrial proteins were one of the major parts (Table S1).Next,we tested whether the mitochondria or their proteins were non-specifically associated with LDs or they were physiologically bound to LDs.Three different methods were utilized; high concentration salt wash,detergent strip,and proteinase treatment. For the high salt wash,LDs were re-isolated and their proteins were analyzedafter incubation in $1 \\mathrm { ~ M ~ N a C l }$ for $^ { 1 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } \\mathsf C .$ Fig. 4A shows that levels of the mitochondrial protein UCP1 and the LD protein perilipin1 were similar before and after the high salt wash,indicating no effect of this treatment on the association between LDs and mitochondria.When isolated LDs were treated with different concentrations of Triton X-100,UCP1 was depleted from LDs with $0 . 0 5 \\%$ detergent. Perilipin 1 was removed under the same conditions and interestingly UCP1 seemed to be more resistant than perilipin1 (Fig.4B).Both treatments demonstrated that the binding strength of UCP1 to the LD fraction was as strong as the LD resident protein perilipin 1.We then addressed whether the LD-associated UCP1 was inside mitochondria by determiningresistance in a proteinase protection assay.It was clear that UCP1 remained totally intact after LD-specific proteins were completely hydrolyzed suchas perilipin1,UBXD8 [54],and caveolin1(Fig.4C,lane 9).The fact that UCP1 was protected from trypsin treatment suggests that UCP1 was in intact or resealed mitochondria that were tightly associated with LDs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Effectsofcoldtreatment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1.Cold increases lipid metabolism and energy production proteins on BATLDs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BAT functions to maintain body temperature,in particular,when the environmental temperature drops.The BAT-produced heat is generated in mitochondria by UCP-1-dependent uncoupling with high levels of $\\beta$ -oxidation of FAs that are hydrolyzed from TAG in LDs.Therefore,dynamic changes of LDs during Varying environment temperature are key to the heat production.To create a temperature treatment model, mice werekeptat $4 ^ { \\circ } C$ withregular food supply for indicated times.Histologically,BAT from $4 ^ { \\circ } C$ exposed mice showed smaller LDs and more cytosol space compared to control mice (Fig.S2).After $4 ^ { \\circ } C$ treatment, BAT LDs were isolated from the mice,and their proteins were analyzed (Fig.5 and S3).The protein and TAG ratio of isolated LDs from $4 ^ { \\circ } C -$ exposed mice was higher than the LDs from room temperature mice (Fig.S4),which is in agreement with a LD size decrease by cold treatment (Fig. S2).The protein profiles of LDs from different experimental conditions shown by stained SDS-PAGE were similar,indicating the consistence of LD proteins during the temperature change as well as the reliability of LD isolation method. One protein band was significantlyincreased during the treatmentand became to a major band at $^ { 7 2 \\mathrm { h } }$ treatment (Fig.5Aa,star).The band was excised and subjected to proteomic analysis and the primary protein identified was perilipin 1 (Fig.5Ab).Western blotting confirmed the cold-dependent induction of this protein in the LD fraction (Fig.5B).The proteome of BAT LDs from $4 ~ ^ { \\circ } C$ treated mice was also obtained(Table S5）and compared with the proteome from room temperature mice (Table S2).Although the protein staining profiles were similar,proteomics presented significant differences for some proteins (Table S6).We systematically analyzed protein increased on BAT LDs after cold exposure using BINGO [55]and STRING 9.1 [56],respectively.We found that these increased proteins were mainly related lipid metabolismand energy production (Fig. 6A),and belonged to two groups,lipid droplets related proteins and oxidation-reduction process related proteins (Fig.6B and Fig. S8). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c07fec71121e44957ce4ebdf969bec1f929620ef27d279844cba818be06f87f5.jpg",
+        "img_caption": [
+            "Fids showed multiple LDs and sphere-shaped mitochondria,which is characteristic of BAT.Scale bars represent $1 0 0 \\mu \\mathrm { m }$ in Aa and Ab, $5 0 \\mu \\mathrm { m }$ in Ac and Ad, $5 \\mu \\mathrm { m }$ in Ba, and $2 \\mu \\mathrm { m }$ in Bb. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2.LD-associatedmitochondriaweredifferent fromcytosolicmitochondria ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Western blot was then applied to verify some of these changes. Perilipin1was increased dramatically(about4 fold) during cold treatment along with some other LD proteins while perilipin 2/ADRP appeared and its expression level increased along with cold exposure time.In contrast,the LD-associated caveolin1and a mitochondrial protein Porin were decreased in the BAT LDs of cold-exposed mice (Fig.5B and S7).This is in contrast to the increase of mitochondrial proteins, Tim23 and UCP1,suggesting that LD-associated mitochondria represent a unique population of the organelle and could be activated by LD-mediated signals.No significant change of cytosolic mitochondrial proteins using Western blot analyses further supported this notion (Fig.5D).The levels of LD resident proteins such as perilipin 1 and ADRP,lipases such as HSL and ATGL,and other functional players such as Rab5,CIDEA,and UBXD8 were increased as expected during this state of increased lipolysis.Phosphorylation of HSL(Fig.5B and S7) was increased during low temperature treatment,inagreementwith the notion that TAG hydrolysis and FA generation are enhanced to produce more heat.Although the proteins on LDs appeared very dynamic, they were relatively consistent in whole cell lysate during cold treatment except ADRP,HSL,and CIDEA(Fig.5Ca),all of which increased.This discrepancy indicates that cold treatment may change locationand stability of these proteins.Therefore,we analyzed the transcriptional level of these genes using quantitative polymerase chain reaction(qPCR)(Fig.7 and Table S7).Transcription of ADRP and UCP1 was up-regulated significantly, but ATGL and HSL remained unchanged,which fits their protein expression level detected by Western blot(Fig.5C and Fig.7Aand B).The mRNA levelsof Cidea,and thecloselyrelated Cidec,were not increased in response to cold although its protein level was enhanced in both LDs and WCL(Fig.5B,C and Fig.7B).Perilipin 1 mRNA and protein levels responded in manner similar to Cidea,indicating these proteins became more stable during cold treatment.Both mRNAs of Porin and Tim23 were slightly induced after cold treatment that was inagreement with their protein level change in WCL (Figs.5C and 7B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2af9e4b2b425c76246c9d031b0f43ba01acde726b75de162c1ebb26a6d5f1497.jpg",
+        "img_caption": [
+            "i ii ( markers of the four fractions showed high purity of the LD fraction.Scale bars represent $1 0 \\mu \\mathrm { m }$ in a and b, $5 \\mu \\mathrm { m }$ in c, and $2 \\mu \\mathrm { m }$ in d. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbebafd78605d5f59f62e94c3da254985ccbbe495cc6d1a4049a227ef0845b63.jpg",
+        "img_caption": [
+            "Fig.3.Proteomics of isolated lipid droplets.A. BAT LD proteins were separated by $12 \\%$ SDS-PAGE and stained with Colloidal blue Staining Kit.The protein bands from SDS-PAGE were ei i m cytoskeleton,transcription and translation,oxidation reduction and other functions (Table S4). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/885be29354daa2c9aa76beb78b04de68a81a9b426a03c85019073d1f9b2c1f0d.jpg",
+        "img_caption": [
+            "Fig.4.Interactions between lipid droplets and mitochondria.A.Isolated BATLDs were incubated in1 MNaClfor1hat $3 7 ^ { \\circ } \\mathrm { C } ,$ re-isolated,and the proteins were subjected to Western blot analyses.B.LDs were washed with diferent concentrations of Triton X-1O0,as indicated,for $5 \\mathrm { m i n }$ on ice and the proteins analyzed by Western blot. C.LDs were subjected to trypsin treatment with indicated concentrations at $3 7 ^ { \\circ } \\mathrm { C }$ for the indicated time,then LDs were re-isolated,and the proteins were subjected to Western blot analyses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The transcription level of PPARy,PGC-1α,and Prdm16 was enhanced (Fig.7C). Increased expression of $\\mathsf { P P A R } \\mathsf { \\ P }$ PGC-1α,and Prdm16 in BATafter cold treatment led us to further explore how lipids were redistributed.After $^ { 7 2 \\mathrm { h } }$ treatment,animal body weight was slightly increased (Fig. S5A) and only sWAT was significantly decreased without detectable changesin eWAT and BAT(Fig.S5B).Except for blood glucose that was unchanged,TAG,glycerol,and both total cholesterol and free cholesterol were reduced (Fig.S5C-G). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the present study,mouse BAT LDs were successfully isolated and their proteome was obtained for the first time.Evidence from proteomic and biochemical studies indicated a tight interaction between LDs and mitochondria in BAT.The remodeling of BATLDs Was also investigated when the animals were exposed to $4 ^ { \\circ } \\mathsf C .$ The co-purification of the factors that define brown adipocytes froma LD fraction,including UCP1 and CIDEA highlights the tight association of LDs and mitochondria in BAT[57].This interaction is likely to be vital for the effcient utilization of fatty acids in thermogenesis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Purity isalways key for cellular organelle isolation and their proteome identification.White adipocytes are unilocular, containinga single LD per cell.In contrast LDs in brown adipocytes are multilocular,and are still very large with their diameters ranging from several hundred nm to about $2 0 \\mu \\mathrm { m }$ .This makes it tremendously difficult to maintain them intact when the tissue is disrupted and to separate them from other cellular components.To resolve this,we have greatly modified our previous method and with our newly established protocol we have obtained high quality LDs from mouse BAT.The quality of isolated BAT LDs was equivalent to our previously isolated LDs from other cells and tissues,according to morphological and biochemical determinations.To our knowledge,this work is the firstLD isolation and proteomic study from BAT and even the first time for any kind of adipose tissue. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The observed changes in the LD proteome upon cold exposure reveal a complexity in the regulationand subcellular targeting of keyproteins in BAT.In response to cold there was an increase in transcription,total protein levels and LD-association of ADRP.In contrast, the mRNA levels and total protein for perilipin1were unchanged,but there was a large increase in the amount of protein associated with LDs.Although Cidea was not altered at the transcriptional level, both total and LD-associated protein levels were highly induced following cold treatment. Transcriptional changes in genes that encode LD proteinsare more likely to be required in the acquirement of brown fat characteristics in WAT.In support of this,we recently reported that, from a group of the best characterized LD-associated proteins,the mRNA levels of the majority were induced in WAT after exposure to cold [2.58]. From the Western blots and LD proteome analysis we identified LD-associated proteins and many mitochondrial proteins,suggesting the close association of these organelles. Furthermore,our previous study of the LD-associated proteins in skeletal muscle also showed a co-isolation of LDs and mitochondria[45].The physical contact between LDs and mitochondria could be observed in BAT[41] and in muscle [45] by EM,demonstrating that co-isolation of two organelles is not due to none-specific binding during the isolation process.Here we have undertaken additional procedures to separate these two organelles in order to obtain purer LDs.Since the connection between them was proposed to be dependent on accessory proteins [40,41], high salt stripping and proteinase treatment were performed. However,neither method could remove mitochondria from LDs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Intriguingly,trypsin treatment completely digested the resident protein perilipin 1 and other LD-associated proteins UBXD8 and caveolin 1, whereas the inner mitochondrial membrane protein UCP1 remained intact.This indicates that intact mitochondria are in contact with LDs.In fact, to distinguish contamination of mitochondrial proteins and real interaction between two organelles,we provided other five lines of evidence that support the physical interaction between LDsand mitochondria:1) morphological evidence including light (Fig.S1B) and electron microscopies (Fig.1B,S1A,and S6A-C),in which the association between two organelles was visualized,2) Western blot to detect three mitochondrial proteins including UCP1,Tim23,and Porin in isolated LDs (Fig.2C and Fig.5B),3) proteomic analysis to detect many other mitochondrial proteins in LD fraction (Table S3),4) alteration of mitochondrial proteins in isolated LDs and mitochondrial cristae dynamic changes after cold treatment (Fig.5B and S6),and 5) retention of mitochondrial protein afterwashing with high salt and high speed centrifugation (Fig.4A).At the same time, these results reveal that,in BAT cells,the connection between LDs and mitochondria is unlikely to require LD-resident proteins, at least not perilipin1. One possibility is that the two organelles contact each other by hemifusion,which explains why proteinase treatment Was unable to remove mitochondrial proteins from isolated LDs. Using detergent we found thata tightly bound LD protein perilipin1 could be removed from isolated LDs more easily than the mitochondrial inner membrane protein UCP1,further suggesting that the connection between these two organelles involves lipids. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/62c2c347b74d8b94a3b72dfc407a2c761d76bd83c29d11f0f955a070d7910c5c.jpg",
+        "img_caption": [
+            "Fig.5.Lipid droplet remodeling during cold treatment. Eight week old C57BL/6 mice were subjected to $4 ^ { \\circ } C$ cold treatment for specific time lengths,as indicated,then sacrificed,and BAT LDs were isolated.A.LD proteins were equally loaded and separated by $12 \\%$ SDS-PAGE,andthe PAGE stained with Colloidalblue Staining Kit (a).The protein band labeled with a star was e pt (a).The proteins were equally loaded and separated by $1 0 \\%$ SDS-PAGE.ThePAGE was stained with Coloidal blue Staining Kit(b).(Abreviations:PLIN1,perilipin1;CES3,carboxylesterase 3; HSL, hormone sensitive lipase; HSP6o, heat shock $6 0 \\mathrm { k D a }$ protein; PDIA3,protein disulfide isomerase family A,member 3,CPS1,carbamoyl-phosphate synthase 1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After cold treatment,a mitochondrial outer membrane protein Porin was reduced on LDs but inner membrane proteins UCP1 and $\\mathrm { T i m } 2 3$ increased (Fig.5B and S7).Expression of these three proteins was enhanced during cold exposure (Fig.5C).These differences may be caused by short term cold exposure induced mitochondrial cristae decrease (Fig. S6), which was also contributed by hormone induced mitochondrial fragmentation [59].The induction of mitochondrial inner membrane proteins could be attributed to the increased cristae in response to cold treatment (Fig.S6).Although mitochondrial biogenesis is also elevated,the dramatically increased density and elongation of the inner membrane can dock more proteins.These data imply that the LD-associated mitochondria are more active than cytosolic ones. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In a comparison of this LD proteomic study with transcriptome analysis of BAT tissues [6O],nearlyall of our comparative proteome were present in the group of transcripts induced by cold treatment, and only a small portion of down-regulated genes from transcriptomic studyappeared in our LD proteomic data. Among these proteins ADRP Was up-regulated during cold exposure that agreed with our proteome and qPCR results,while PLIN4 was down-regulated during cold exposure that was opposite to our proteome result but coordinated with our qPCR result. Some key enzymes involved in TAG synthesis and hydrolysis were also found increased in both the transcriptome and our proteome (Acsl5,Acot11,Mgll,Acadl,Fas, Scd1),which suggests that during cold exposure LDs would both increase lipid synthesis and hydrolysis to maintain heat production.Rab family protein regulation Was highly dynamic,with some of Rabs (1a,1b,5a,5b,5c,15,21,35) up-regulated during cold exposure in proteome results coordinated with transcriptome(Rab 1a,1b,21,35),while others decreased in the proteome(2a,2b,3b,7a,10,18）with only Rab 10 being detected decreased in the transcriptome.Several (6b,11a,11b,14) showed no change in the proteome although Rab 6b and Rab 14 decreased in the transcriptome. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/62b850927d6f51cec03fc254241714ca3656219beb8e18467a2b76cffeb9ff5c.jpg",
+        "img_caption": [
+            "td $1 0 ^ { - 8 }$ ,and criterions in STRING were set to default. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It was no surprise that that the largest group of proteins identified on LDs was associated with lipid metabolism and energy utilization.However,it was noted that proteins involved in both TAG breakdown and synthesis were increased in response to cold.PLIN familyand lipases were the most significant ones among these proteins.This is consistent with previous studies,because heat production stimulated by cold exposure is accepted to be associated with increased sympathetic activity, which causes increasing lipolysis achieved by phosphorylation of perilipin1 and expression of ADRP and activated lipases (phosphorylated HSL) on LDs [1,61-65]. OPA1(Dynamin-like $1 2 0 \\mathrm { k D a }$ protein）is uncovered to localize on LD and regulate lipolysis by recruiting protein kinase A to LDs recently [66],and was found increased on LDs after cold exposure(Table S6).Furthermore,our previous transcriptome analysis revealed an increase in expression of Gyk [60],which allows for any glycerol that arises from increased lipolysis to be phosphorylated to glycerol-3-phosphate and re-combined with FFA to form TAG.A cycle of TAG hydrolysisand re-synthesisrequires substantial amounts of ATP,as it is used for the activation of free FAs byacyl-CoA synthetases and for the phosphorylation of glycerol by GYK.Such a futile cycle has been reported in response to thiazolidinediones and PGC-1α and PPARα [67,68] as well as due to cold stress in humans [69],and represents an important UCP1- independent mechanism for heat generation in BAT[70]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/74fa9c56e68a254e5ed8468d7292746b0f11e5926b40cd29ce29a7a30063d8e6.jpg",
+        "img_caption": [
+            "Fig.7.Effectofcoldtreatmentonmitochondrialandmetabolicgenes.EightweekoldC57BL/6micewere maintainedatRand $4 ^ { \\circ } C$ for 24 and $7 2 \\mathrm { h }$ respectively.qPCR of BATLDperilipin familyproteins (A),mitochondrialmarkersand Cidea,(B)BATtranscriptionalfactors (C).Alldataarepresentedasmean $\\pm$ s.e.m.and one-way ANOVA tests were performed.Asterisks denote significant diferences between groups.\\*, $P < 0 . 0 5$ ；\\*\\*， $P < 0 . 0 0 1$ . For perilipin1, $n = 5$ ; and the rest, $n = 3$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The activation of BAT is an important target to increasing energy expenditure in the treatment of obesity. Our data provides new clues to the molecular mechanisms that underpin BAT-dependent heat production under cold stress with LDs adapting their protein complement to increase TAG hydrolysis and maintaining a tight association with activated mitochondria. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of interest ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "P.L.and J. Y.designed the project.J.Y.,S.Z,L.C.,W.W.,X.Z,H.N,LL., and F.Y. performed the experiments.P.L.,J.Y., G.X.,andM.C.wrote the paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "All authors read and approved the final manuscript. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thanked Dr.Yong Chen (National Laboratory of Biomacromolecules,Institute of Biophysics, Chinese Academy of Sciences, Beijing, 100101,China) for the help of bioinformatics analysis of LD MS data. This work was supported by grants from the Ministry of Science and Technology of China（Grant No.2011CBA00906,No 2010CB833703), and the National Natural Science Foundation of China(No.31oo0365, No. 61273228,No.81270932).Mark Christian was supported by the BBSRC grant BB/HO20233/1 and the EU FP7 project DIABAT（HEALTHF2-2011-278373). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to thisarticle can be found online at http://dx.doi. org/10.1016/j.bbamcr.2015.01.020. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] B. CANNON,J. NEDERGAARD,Brown adipose tissue: function and physiological significance,Physiol.Rev.84(2004) 277-359.   \n[2] J.O.Nnodim,J.D.Lever, Neural and vascular provisions of rat interscapular brown adipose tissue,Am.J.Anat.182(1988) 283-293.   \n[3]O.Lindberg,J. De Pierre,E.Rylander,B.Afzelius,Studies of the mitochondrial energytransfer system of brown adipose tissue,J. Cell Biol.34(1967) 293-310.   \n[4]A.Fedorenko,P.V.Lishko,Y. Kirichok,Mechanism of fatty-acid-dependent UCP1 uncoupling in brown fat mitochondria, Cell 151 (2012) 400-413.   \n[5]P.Seale, B.Bjork,W.Yang,S. Kajimura,S.Chin,S.Kuang, A.Scime,S.Devarakonda,H.M. Conroe,H. Erdjument-Bromage,P.Tempst, M.A. Rudnicki, D.R. Beier, B.M. Spiegelman, PRDM16 controls a brown fat/skeletal muscle switch, Nature 454 (2008) 961-967.   \n[6]S.Enerbäck,The origins of brown adipose tissue,N.Engl.J. Med.360 (2009) 2021-2023.   \n[7]A. Vegiopoulos,K. Muller-Decker, D.Strzoda,I. SchmittE. Chichelnitskiy, A. Ostertag, M. Berriel Diaz,J. Rozman,M. Hrabe de Angelis,R.M. Nusing, C.W.Meyer,W.Wahli, M. Klingenspor,S. Herzig, Cyclooxygenase-2 controls energy homeostasis in mice by de novo recruitment of brown adipocytes, Science 328 (2010) 1158-1161. [8]J. Ishibashi,P.Seale,Medicine.Beige can be slimming, Science 328 (2010)1113-1114. [9]N.Petrovic,T.B. Walden, I.G. Shabalina,JA. Timmons,B. Cannon,J. Nedergaard, Chronic peroxisome proliferator-activated receptor gamma (PPARgamma) activation of epididymally derived white adipocyte cultures reveals a population of thermogenically competent, UCP1- containing adipocytes molecularly distinct from classic brown adipocytes,J. Biol. Chem. 285 (2010) 7153-7164.   \n[10] C.Guerra, R.A. Koza, H.Yamashita, K.Walsh,LP. Kozak,Emergence of brownadipocytes in white fat in mice is under genetic control. Effects on body weight and adiposity,J. Clin. Invest. 102(1998) 412-420.   \n[11] K. Almind, M. Manieri, W.I. Sivitz,S. Cinti, C.R. Kahn, Ectopic brown adipose tissue in muscle provides a mechanism for differences in risk of metabolic syndrome in mice, Proc. Natl. Acad. Sci.104 (2007) 2366-2371.   \n[12] S. Cinti, Between brown and white: novel aspects of adipocyte diferentiation, Ann.Med. 43 (2011) 104-115.   \n[13]T.J. Schulz, Y.H. Tseng, Brown adipose tissue: development, metabolism and beyond, Biochem. J.453 (2013) 167-178.   \n[14] Y.H.Lee,A.P.Petkova,E.P.Motillo,J.G. Granneman,In vivo identification of bipotential adipocyte progenitors recruited by beta3-adrenoceptor activation and high-fat feeding, Cell Metab.15 (2012) 480-491.   \n[15] J.Wu,P.Bostrom,LM.Sparks,L. Ye,J.H. Choi,A.H. Giang,M. Khandekar,K.A. Virtanen,P. Nuutila, G.Schaart,K.Huang,H.Tu,W.D.van Marken Lichtenbelt, J. Hoeks,S.Enerback, P.Schrauwen, B.M. Spiegelman, Beige adipocytes are a distinct type of thermogenic fat cell in mouse and human, Cell 150 (2012) 366-376.   \n[16] T.J. Schulz, T.L. Huang,T.T.Tran, H. Zhang, K.L. Townsend,J.L. Shadrach, M. Cerletti, LE. McDougal,N. Giorgadze,T.Tchkonia, D. Schrier, D.Falb,J.L. Kirkland, A.J. Wagers,Y.H. Tseng, Identification of inducible brown adipocyte progenitors residing in skeletal muscle and white fat, Proc. Natl. Acad. Sci. U. S.A. 108 (2011) 143-148.   \n[17]K.A.Lo,L.Sun, Turning WAT into BAT: a review on regulators controling the browning of white adipocytes,Biosci. Rep.33 (2013) 711-719.   \n[18]G.Leonardsson,J.H.Steel, M. Christian,V.Pocock,S.Milligan,J. Bell,P.-W.So,G.MedinaGomez, A. Vidal-Puig, R.White, Nuclear receptor corepressor RIP140 regulates fat accumulation,Proc. Natl.Acad. Sci.U. S.A. 101 (2004) 8437-8442.   \n[19]M. Uldry,W.Yang, J. St-Pierre,J.Lin,P.Seale, B.M.Spiegelman, Complementary action of the PGC-1 coactivators in mitochondrial biogenesis and brown fat diferentiation, Cell Metab.3 (2006) 333-341.   \n[20] Z.Wu,P.Puigserver, U. Andersson,C. Zhang, G. Adelmant, V. Mootha,A. Troy,S. Cinti, B. Lowell,R. Scarpulla, Mechanisms controlling mitochondrial biogenesis and respiration through the thermogenic coactivator PGC-1, Cell 98 (1999) 115-124.   \n[21]P.Bostrom,J.Wu, M.P.Jedrychowski, A. Korde,L.Ye,J.C.Lo,K.A. Rasbach,E.A. Bostrom,J.H. Choi, J.Z.Long,S. Kajimura, M.C. Zingaretti, B.F.Vind, H.Tu,S.Cinti, K. Hojlund,S.P. Gygi, B.M. Spiegelman,A PGC1-alpha-dependent myokine that drives brown-fat-like development of white fat and thermogenesis, Nature 481 (2012) 463-468.   \n[22] A.M. Cypess,S.Lehman, G.Williams,I.Tal, D. Rodman,A.B. Goldfine,F.C. Kuo, E.L.Palmer, Y.-H.Tseng,A. Doria,G.M.Kolodny, C.R. Kahn, Identificationand importance of brown adipose tissue in adult humans, N.Engl.J. Med.360 (2009) 1509-1517.   \n[23] W.D.van Marken Lichtenbelt,J.W. Vanhommerig, N.M. Smulders,J.MA.F.L.Drossaerts, G.J. Kemerink, N.D.Bouvy,P.Schrauwen, G.J.J. Teule,Cold-activated brown adipose tissue in healthy men, N. Engl. J. Med.360 (2009) 1500-1508.   \n[24]K.A. Virtanen, M.E.Lidell,J. Orava,M. Heglind, R.Westergren,T. Niemi, M.Taitonen,J. Laine,N.-J.Savisto,S.Enerbäck,P.Nuutila, Functional brownadipose tissue in healthy adults,N.Engl.J. Med.360 (2009) 1518-1525.   \n[25]M.C. Zingaretti, F.Crosta,A. Vitali, M. Guerrieri, A. Frontini, B. Cannon,J. Nedergaard, S. Cinti,The presence of UCP1 demonstrates that metabolically active adipose tissue in the neck of adult humans truly represents brown adipose tissue, FASEB J.: Of. Publ. Fed. Am.Soc.Exp.Biol.23 (2009)3113-3120.   \n[26]D.K. Choi,T.S.Oh,J.-W.Choi,R. Mukherjee,X. Wang,H.Liu,J.W.Yun, Gender diference in proteome of brown adipose tissues between male and female rats exposed to a high fat diet, Cell. Physiol. Biochem.28 (2011) 933-948.   \n[27]JI.Joo,T.S.Oh,D.H.Kim,D.K.Choi,X.Wang,J-W.Choi,JW.Yun,Diferential expressionof adipose tissue proteins between obesity-susceptible and -resistant rats fed a high-fat diet, Proteomics 11 (2011) 1429-1448.   \n[28] A.H.M. Kamal, W.K. Kim, K. Cho,A.Park,J.-K. Min,B.S. Han, S.G.Park,S.C.Lee,K.-H. Bae, Investigation of adipocyte proteome during the differentiation of brown preadipocytes, J. Proteome 94 (2013) 327-336.   \n[29] R.Birner-Gruenberger, H.Susani-Etzerodt,M.Waldhuber, G.Riesenhuber,H.Schmidinger, G. Rechberger,M. Kollroser,J.G. Strauss,A.Lass,R. Zimmermann,The lipolytic proteome of mouse adipose tissue,Mol. Cell. Proteomics 4 (2005) 1710-1717.   \n[30] L.Yang,Y.Ding,Y.Chen,S.Zhang, C. Huo,Y.Wang,J.Yu,P.Zhang, H.Na,H.Zhang, Y.Ma,P. Liu,The proteomics of lipid droplets: structure,dynamics,and functions of the organelle conserved from bacteria to humans, J. Lipid Res.53 (2012) 1245-1253.   \n[31] A.R. Kimmel, D.L. Brasaemle,M. McAndrews-Hill, C. Sztalryd, C. Londos,Adoption of PERILIPIN as a unifying nomenclature for the mammalian PAT-family of intracellular lipid storage droplet proteins,J. Lipid Res.51 (2010) 468-471.   \n[32] S.Martin, R.G.Parton,Lipid droplets: a unified view of a dynamic organelle, Nat.Rev. Mol. Cell Biol.7 (2006) 373-378.   \n[33]R.V.Farese Jr.,T.C.Walther,Lipid droplets finally get a little R-E-S-P-E-C-T,Cell139 (2009) 855-860.   \n[34] T.Fujimoto,Y.Ohsaki,J. Cheng,M.Suzuki,Y.Shinohara, Lipid droplets: a clasic organelle with new outfits, Histochem. Cell Biol. 130 (2008) 263-279.   \n[35] R. Bartz,J.K. Zehmer, M. Zhu, Y.Chen, G.Serrero,Y. Zhao,P.Liu, Dynamic activity of lipid droplets: protein phosphorylation and GTP-mediated protein translocation, J. Proteome Res.6 (2007) 3256-3265.   \n[36] P.Liu, Y.Ying, Y. Zhao,D.I. Mundy, M. Zhu, R.G.Anderson, Chinese hamster ovary K2 cell lipid droplets appear to be metabolic organelles involved in membrane traffic, J. Biol. Chem. 279 (2004) 3787-3792.   \n[37] A.S. Greenberg, R.A. Coleman,F.B. Kraemer,J.L. McManaman, M.S. Obin, V. Puri, Q.W.Yan, H.Miyoshi,D.G.Mashek,The role of lipid droplets in metabolic disease in rodents and humans, J. Clin. Invest.121 (2011) 2102-2110.   \n[38] S.Martin,K. Driessen,S.J. Nixon,M. Zerial, R.G.Parton,Regulated localization of Rab18 to lipid droplets: efects of lipolytic stimulation and inhibition of lipid droplet catabolism,J. Biol. Chem.280 (2005) 42325-42335.   \n[39] S. Ozeki,J. Cheng, K. Tauchi-Sato, N. Hatano, H.Taniguchi,T.Fujimoto, Rab18 localizes to lipid droplets and induces their close apposition to the endoplasmic reticulum-derived membrane,J. Cell Sci. 118 (2005) 2601-2611.   \n[40] J.Pu, C.W.Ha, S. Zhang,J.P.Jung,W.K. Huh,P.Liu,Interactomic study on interaction between lipid droplets and mitochondria,Protein Cell2(2011) 487-496.   \n[41] V. Petrovic, A. Korac, B. BuzadZic, A. Vasilijevic, A. Jankovic, K. Micunovic, B. Korac, Nitric oxide regulates mitochondrial re-modelling in interscapular brown adipose tissue: ultrastructural and morphometric-stereologic studies,J. Microsc. 232 (20o8) 542-548.   \n[42]P.S.Liu,R. Bartz,J.K.Zehmer, Y.S.Ying,M. Zhu, G.Serrero,R.G.W.Anderson,Rab-regulated interaction of early endosomes with lipid droplets, Biochim. Biophys.Acta-Mole.Cell Res. 1773 (2007) 784-793.   \n[43] D.Binns,T.Januszewski, Y. Chen,J. Hil, V.S.Markin, Y. Zhao, C.Gilpin, K.D. Chapman,R.G. Anderson, J.M. Goodman, An intimate collboration between peroxisomes and lipid bodies,J. Cell Biol. 173 (2006) 719-731.   \n[44] M.A. Welte,S.P.Gross, M.Postner,S.M. Block,E.F.Wieschaus, Developmental regulation of vesicle transport in drosophila embryos: forces and kinetics, Cell 92 (1998) 547-557.   \n[45]H. Zhang,Y.Wang,J.Li,J.Yu,J.Pu,LLi,H.Zhang,S.Zhang,G.Peng,F.Yang,P.Liu,Prote ome of skeletal muscle lipid droplet reveals association with mitochondria and apolipoprotein a-I,J. Proteome Res.10 (2011) 4757-4768.   \n[46] G. Xu, C. Sztalryd, X. Lu,J.T. Tansey,J. Gan,H. Dorward,A.R. Kimmel,C. Londos, Post-translational regulation of adipose diferentiation-related protein by the ubiquitin/ proteasome pathway, J. Biol. Chem. 280 (2005) 42841-42847.   \n[47] Z. Zhou,S.Y.Toh,Z. Chen, K. Guo, C.P. Ng,S.Ponniah,S.-C. Lin,W. Hong,P.Li, Cidea-deficient mice have lean phenotype and are resistant to obesity,Nat. Genet.35 (2oo3) 49-56.   \n[48] T.Yamaguchi, N. Omatsu, S. Matsushita,T. Osumi, CGl-58 interacts with perilipin and is localized to lipid droplets: possible involvement of CGl-58 mislocalization in ChanarinDorfman syndrome,J. Biol. Chem.279 (2004) 30490-30497.   \n[49] Y.F. Ding, S.Y. Zhang,L. Yang,H.M. Na,P.Zhang, H.N.Zhang,Y.Wang, Y.Chen,J.H.Yu, C.X. Huo,S.M.Xu, M. Garaiova,Y.S.Cong,P.S.Liu, Isolating lipid droplets from multiple species, Nat. Protoc.8 (2013) 43-51.   \n[50]G.Peng,L. Li, Y. Liu,J.Pu,S.Zhang,J. Yu,J. Zhao,P.Liu, Oleate blocks palmitate-induced abnormal lipid distribution,endoplasmic reticulum expansion and stress,and insulin resistance in skeletal muscle, Endocrinology 152 (2011) 2206-2218.   \n[51] Y.Ding,L. Yang, S.Zhang, Y.Wang, Y.Du,J.Pu,G.Peng,Y.Chen, H.Zhang,J.Yu, H. Hang,P. Wu,F.Yang,H. Yang, A. Steinbuchel,P.Liu,Identification of the major functional proteins of prokaryotic lipid droplets,J. Lipid Res.53 (2012) 399-411.   \n[52] B.T. Sherman, R.A. Lempicki, Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists, Nucleic Acids Res.37 (2oo9) 1-13.   \n[53] B.T.S.Da Wei Huang, R.A. Lempicki,Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources, Nat. Protoc.4 (2o08) 44-57.   \n[54] J.K.Zehmer, R. Bartz,B.Bisel,P.S.Liu,J.Seemann, R.G.W.Anderson,Targeting sequences of UBXD8 and AAM-B reveal that the ER has a direct role in the emergence and regression of lipid droplets,J. Cell Sci. 122 (2009) 3694-3702.   \n[55] S.Maere,K. Heymans,M. Kuiper, BiNGO: a Cytoscape plugin to assess overrepresentation of gene ontology categories in biological networks, Bioinformatics 21(20o5)3448-3449.   \n[56]A.Franceschini,D.Szklarczyk,S.Frankild,M.Kuhn,M. Simonovic,A.Roth,J.Lin,P. Minguez,P. Bork, C.von Mering, LJ. Jensen,STRING v9.1: protein-protein interaction networks,with increased coverage and integration, Nucleic Acids Res.41 (2013) D808-D815.   \n[57]M.Hallberg,D.L. Morganstein, E. Kiskinis, K Shah,A. Kralli,S.M. Dilworth,R. White,M.G. Parker, M. Christian, A functional interaction between RIP140 and PGC-1alpha regulates the expression of the lipid droplet protein CIDEA, Mol. Cell Biol. 28 (2008) 6785-6795.   \n[58]D. Barneda,A.Frontini, S. Cinti, M. Christian, Dynamic changes in lipid droplet-associated proteins in the“browning\"of white adipose tissues,Bba-Mol. Cell Biol.L 1831 (2013) 924-933.   \n[59] J.D.Wikstrom,K. Mahdaviani, M. Liesa, S.B.Sereda,Y.Si, G.Las,G.Twig,N. Petrovic,C. Zingareti, A. Graham, S. Cinti, B.E.Corkey, B. Cannon,J. Nedergaard, O.S. Shirihai, Hormone-induced mitochondrial fision is utilized by brown adipocytes as an amplification pathway for energy expenditure, EMBO J.33 (2014) 418-436.   \n[60] M. Rosell,M. Kaforou, A. Frontini, A. Okolo, Y.W.Chan, E.Nikolopoulou,S.Millership,M.E. Fenech,D. Macintyre, J.O. Turner, J.D. Moore,E. Blackburn,W.J. Gullick, S. Cinti,G. Montana,M.G.Parker,M. Christian,Brown and White Adipose Tissues.Intrinsic differences in gene expression and response to cold exposure in mice, American journal of physiology, Endocrinol. Metab.306 (2014) E945-E964.   \n[61] M.Imamura,T.Inoguchi,S.Ikuyama,S.Taniguchi, K. Kobayashi, N.Nakashima, H. Nawata, ADRP stimulates lipid accumulation and lipid droplet formation in murine fibroblasts, American journal of physiology, Endocrinol. Metab.283 (2002) E775-E783.   \n[62]E.Smirnova,E.B. Goldberg,K.S.Makarova,L.Lin,W.J. Brown, C.L Jackson,ATGL has a key role in lipid droplet/adiposome degradation in mammalian cells, EMBO Rep.7 (2006) 106-113.   \n[63] J.G. Granneman, H.P. Moore,R. Krishnamoorthy,M.Rathod,Perilipin controls lipolysis by regulating the interactions of AB-hydrolase containing 5 (Abhd5)and adipose triglyceride lipase (Atgl), J. Biol. Chem. 284 (2009) 34538-34544.   \n[64]H. Miyoshi,S.C.Souza,H.H. Zhang,K.J.Strissel, M.A. Christoffolete,J. Kovsan, A.Rudich,F.B. Kraemer, A.C. Bianco,M.S. Obin, A.S. Greenberg,Perilipin promotes hormone-sensitive lipase-mediated adipocyte lipolysis via phosphorylation-dependent and -independent mechanisms,J. Biol. Chem.281 (2006) 15837-15844.   \n[65] G.M. Clifford,C.Londos,F.B.Kraemer,R.G.Vernon,S.J.Yeaman,Translocationof hrmonesensitive lipase and perilipin upon lipolytic stimulation of rat adipocytes,J. Biol. Chem. 275 (2000) 5011-5015.   \n[66]A.S. Greenberg,F.B. Kraemer,K.G.Soni, M.P. Jedrychowski, Q.W.Yan, C.E. Graham,T.A. Bowman,A. Mansur, Lipid droplet meets a mitochondrial protein to regulate adipocyte lipolysis,EMBO J.30 (2011) 4337-4339.   \n[67]H.P. Guan, Y.Li,M.V. Jensen, C.B. Newgard, C.M. Steppan,M.A. Lazar, A futile metabolic cycle activated in adipocytes by antidiabetic agents,Nat. Med.8 (2002) 1122-1128.   \n[68]A. Mazzucotelli,N. Viguerie, C.Tiraby,J.S. Annicotte,A. Mairal,E.Klimcakova,E.Lepin,P. Delmar,S. Dejean, G.Tavernier, C. Lefort, J. Hidalgo,T. Pineau,LFajas,K. Clement, D. Langin, The transcriptional coactivator peroxisome proliferator activated receptor (PPAR) gamma coactivator-1 alpha and the nuclear receptor PPAR alpha control the expression of glycerol kinase and metabolism genes independently of PPAR gamma activation in human white adipocytes, Diabetes 56 (2007) 2467-2475.   \n[69]A.L. Vallerand,J. Zamecnik,P.J. Jones,I. Jacobs, Cold stress increases lipolysis,FFA Ra and TG/FFA cycling in humans, Aviat. Space Environ. Med.70 (1999) 42-50.   \n[70] E. Kiskinis,L. Chatzeli,E. Curry, M. Kaforou,A.Frontini,S. Cinti, G. Montana,M.G. Parker,M. Christian,RIP140 represses the“brown-in-white\"adipocyte program including a futile cycle of triacyclglycerol breakdown and synthesis, Mol. Endocrinol. 28 (2014) 344-356. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

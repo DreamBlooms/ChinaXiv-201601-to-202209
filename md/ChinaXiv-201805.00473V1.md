@@ -1,0 +1,376 @@
+# 基于分位函数的直方图符号数据非负主成分分析法
+
+李竹婷，陈秀宏，孙慧强(江南大学 数字媒体学院，江苏 无锡 214122)
+
+摘要：针对已有的符号数据主成分分析法大都采用部分代表性信息来代替符号数据的缺点，提出一种直方图符号数据的主成分分析法。直方图数据以概率分布的形式表示符号数据，更全面准确。根据直方图数据特点将其用分位函数表示，引入充分考虑直方图数据概率分布的Wasserstein距离，计算直方图变量协方差矩阵，从而进行主成分分析。但该方法求得的前若干个最大特征所对应的特征向量不一定为非负的，这样在用分位函数表示主成分时不能保证它也是分位函数。为此，又结合Dias[1]等人的DSD(distribution and symmetric distribution)回归模型，对每个直方图变量定义相应的对称分布变量，根据Wasserstein距离下的广义协方差矩阵得到具有非负系数的所有主成分。通过实验说明了该算法的有效性。该方法同时克服了文献[2]中直方图PCA系数可能为负的缺点，更多地保留了原始数据的信息。
+
+关键词：主成分分析；直方图数据；分位函数；Wasserstein 距离；协方差矩阵 中图分类号：TP391.4 doi:10.3969/j.issn.1001-3695.2018.03.0151
+
+# Principal component analysis of histogram data with non-negative coefficients based on quantile function
+
+Li Zhuting, Chen Xiuhong, Sun Huiqiang (SchoolofDigital Media,Jiangnan University,WuxiJiangsu 214ooo,China)
+
+Abstract: Since the existing principal component analysis(PCA)of symbolic data mostly use some representative information insteadofsymbolicdata,ahistogram principalcomponentanalysis isproposed.Representahistogramdata byaquantile functionwithitscaracteristic,andintroduce the Wassersteindistance whichfullytakes intoaccount theprobabilitydistribution ofthe histogram data.Itiseasytoobtainthecovariancematrix toperformthe principalcomponentanalysis using this distance. However,theeigenvectorscorespondingtothefirstmlargesteigenvaluesobtainedbythis methodisnotnecessarilynegative, so it canot guaranteethatthe principal components are alsoquantile functions when theyarerepresented bythequantile functions.Forthispoint,combining the ideaofDSD(distributionandsymmetricdistribution)regresionmodel studiedbyDias [1]etal,efining thecorrespondingsymmetricdistributionvariablesforeachhistogramvariable,thenobtainthenon-negative principal component coeficients with the generalized covariance matrix.The experiments show the effectiveness of the algorithm.Besides,this methodovercomes the disadvantage thatthePCAcoeficientofthe histogramin2]maybenegative and retains more information of the original data.
+
+Key words:Principal component analysis; histogramdata;thequantile function; Wasserstein distance; covariance matrix
+
+# 0 引言
+
+随着“大数据”时代的到来，符号数据有着越来越广泛的应用，其中最具代表性的是区间符号数据和直方图符号数据。对于区间符号数据，最著名的有顶点主成分分析法（VPCA）和中点主成分分析法（CPCA)，这两种方法均将一个区间型数据看作一个超立方体，分别用超立方体的顶点和中点来代表整个超立方体的信息。后来，Wang等提出了全信息主成分分析法（CIPCA)[3]以及关于正态分布的主成分分析法（ND-PCA)[4]，这两种方法分别假设区间数据呈均匀分布和正态分布，计算区间型数据的协方差矩阵，以此进行主成分分析。然而，这两种方法都是基于假设区间型数据服从某种分布的，不具有普遍性。直方图数据可以看作是对区间型数据内部进行统计分析的结果，因此可以表示任意不规则分布的区间型数据。
+
+由于直方图数据可以看做是一个分布，因此计算起来也比区间型数据复杂。在已有的直方图数据主成分分析法中，很多算法与区间型数据类似。Rodriguez等人[5将直方图数据转换为区间型数据来进行计算。Makosso-Kallyth和Diday[提出了一种定义直方图数据平均值的方法，用平均值来代替整个直方图数据，该方法同许多区间型主成分分析法类似，也是采用部分代表性信息来代替整个直方图数据变量的信息。此外，Nagabhushan 和Kumar[2]定义了单位直方图矩阵并通过此类直方图矩阵的加减乘除运算来求得协方差矩阵并由此获得主成分，但是此方法求得重构后的直方图可能会出现负值，与实际情况不符，也因此会丢失大量的信息。
+
+本文首先根据直方图数据的特点提出一种直方图数据的分位函数表示形式，这种表示形式大大减少了直方图数据计算的复杂度。然后在分位函数的基础上定义了Wasserstein距离，该距离充分利用直方图数据的概率分布进行计算，与其他只利用区间端点信息的距离相比，对直方图数据间的度量更准确。通过该距离可以求出一组直方图变量的中心直方图以及协方差矩阵，如直接利用该协方差矩阵进行主成分分析，此时的表示系数不一定全非负，而分位函数为非递减函数，所以分位函数线性表示不一定是分位函数。为此，借助Dias[1等人的思想，对每个直方图变量定义对称分布变量，对以上主成分进行修正。该方法不但解决了以往算法中只利用符号数据的部分信息来计算的缺点，保留了更多原始信息，更具有普遍性，同时克服了文献[2]中重构直方图权重可能为负这一缺陷。通过模拟数据以及2010年股票数据验证了本文算法的有效性。
+
+# 1 直方图数据以及Wasserstein距离
+
+# 1.1直方图的定义及其相关算法
+
+假设Y为一个直方图变量，如图1所示。其所在区间为$S = [ \underline { { y } } , \overline { { y } } ]$ 。将S 划分为 H个相继的区间 $\left\{ I _ { 1 } , I _ { 2 } , \cdots , I _ { h } \right\}$ ，其中$I _ { h } = [ \underline { { y _ { h } } } , \overline { { y _ { h } } } ]$ ， $h = 1 , 2 , \cdots , H$ ， $I _ { h } \cap I _ { k } = \emptyset \ ( h \neq k )$ 且 $\bigcup _ { h = 1 } ^ { H } I _ { h } = S$ 。于是得到 $\mathrm { \Delta Y }$ 的直方图表示： $Y = \{ ( I _ { 1 } , f _ { 1 } ) , ( I _ { 2 } , f _ { 2 } ) , \cdots , ( I _ { H } , f _ { H } ) \}$ 。其中 $0 \leq f _ { i } \leq 1$ ，且 $\sum _ { i = 1 } ^ { H } f _ { i } = 1$ 。定义Y的累计权为
+
+$$
+w _ { l } = \left\{ \begin{array} { c } { { 0 , \qquad l = 0 } } \\ { { \displaystyle \sum _ { h = 1 } ^ { l } f _ { h } , l = 1 , 2 , \cdots H } } \end{array} \right.
+$$
+
+则 $\mathrm { \Delta Y }$ 的经验分布函数为
+
+$$
+F ( y ) = w _ { l - 1 } + ( y - \underline { { y _ { l } } } ) \frac { w _ { l } - w _ { l - 1 } } { \overline { { y _ { l } } } - \underline { { y _ { l } } } } , ~ \underline { { y _ { l } } } \leq y \leq \overline { { y _ { l } } }
+$$
+
+那么，它的逆函数即其分位函数（QuantileFunction）为
+
+$$
+Q ( t ) = F ^ { - 1 } ( t ) = \underline { { y _ { l } } } + \frac { t - w _ { l - 1 } } { w _ { l } - w _ { l - 1 } } ( \overline { { y _ { l } } } - \underline { { y _ { l } } } ) \qquad w _ { l } \leq t \leq w _ { l - 1 }
+$$
+
+由于分位函数是分段函数，因此，将直方图数据以分位函数的形式表示，降低了直方图数据计算的复杂度，更方便计算。但分段函数进行运算时，需要具有相同的分段数与分段区间，因此，在对直方图的分位函数进行计算时，需要将其重新构造使参加计算的分位函数具有相同的分段（其对应的直方图数据也被重新构造使得所有直方图被分成相同段数的子区间，并且对应的同一子区间上权值相等)。
+
+300   
+250 ▲   
+200 150 100 50
+
+# 1.2两个直方图间距离的表示
+
+为计算两个直方图变量 $Y _ { i }$ 与 $Y _ { j }$ 间的距离，首先需要对其进行重构使其对应的分位函数具有相同的分段。根据Irpino[的方法，将 $Y _ { i }$ 与 $Y _ { j }$ 的累积权 $w ^ { i } = \{ w _ { 0 } ^ { i } , w _ { 1 } ^ { i } , \cdots , w _ { n _ { i } } ^ { i } \}$ 和 $\boldsymbol { w } ^ { j } = \{ w _ { 0 } ^ { j } , w _ { 1 } ^ { j } , \cdots , w _ { n _ { j } } ^ { j } \}$ 进行合并并按照从小到大的顺序进行排列得到集合$\boldsymbol { w } ^ { i j } = \{ w _ { 0 } ^ { i j } , w _ { 1 } ^ { i j } , \cdots , w _ { n _ { i j } } ^ { i j } \}$ ，其中 $w _ { 0 } = 0$ ， $w _ { n _ { i j } } ^ { i j } { = } 1$ ，且$\operatorname* { m a x } ( n _ { i } , \ n _ { j } ) \leq n _ { i j } \leq ( n _ { i } + n _ { j } - 1 )$ ，此时，对每组权 $w _ { l - 1 }$ 和 $w _ { l }$ 可确定两个区间：
+
+$$
+I _ { l i } = \big [ Q _ { i } ( w _ { l - 1 } ) , Q _ { i } ( w _ { l } ) \big ] , \quad I _ { l j } = \big [ Q _ { j } ( w _ { l - 1 } ) , Q _ { j } ( w _ { l } ) \big ] \mathrm { ~ o ~ }
+$$
+
+因此，直方图 $Y _ { i }$ 与 $Y _ { j }$ 的分位函数 $Q _ { i }$ 与 $Q _ { j }$ 被重写为具有相同分段 $\boldsymbol { w } ^ { i j } = \{ w _ { 0 } ^ { i j } , w _ { 1 } ^ { i j } , \cdots , w _ { n _ { i j } } ^ { i j } \}$ 的分位函数，直方图 $Y _ { i }$ 与 $Y _ { j }$ 也被表示为每个子区间具有相同权重的直方图。此时，便可对两个具有相同分段的分位函数进行计算。
+
+定义两个直方图变量 $Y _ { i }$ 与 $Y _ { j }$ 间的Wasserstein距离为
+
+$$
+d _ { w } ^ { 2 } ( Y _ { i } , Y _ { j } ) = \int _ { 0 } ^ { 1 } \left[ Q _ { i } ( t ) - Q _ { j } ( t ) \right] ^ { 2 } d t = \sum _ { l = 1 } ^ { n _ { i j } } \int _ { w _ { l - 1 } } ^ { w _ { l } } \left[ Q _ { i } ( t ) - Q _ { j } ( t ) \right] ^ { 2 } d t
+$$
+
+其中：每组权 $w _ { l - 1 }$ 和 $w _ { l }$ 对应 $Y _ { i }$ 与 $Y _ { j }$ 的两个区间的中心和半径分别为
+
+$$
+c _ { l u } = \frac { Q _ { u } ( w _ { l - 1 } ) + Q _ { u } ( w _ { l } ) } { 2 } \ , \quad r _ { l u } = \frac { Q _ { u } ( w _ { l } ) - Q _ { u } ( w _ { l - 1 } ) } { 2 } \ , \quad u = i , j
+$$
+
+于是得到以下结果：
+
+命题1
+
+$$
+\begin{array} { l } { { d _ { w } ^ { 2 } ( Y _ { i } , Y _ { j } ) = \displaystyle \sum _ { l = 1 } ^ { n _ { i j } } f _ { l } \Biggl [ ( c _ { l i } - c _ { l j } ) ^ { 2 } + \frac { 1 } { 3 } ( { \bf r } _ { l i } - r _ { l j } ) ^ { 2 } \Biggr ] } } \\ { { \int _ { 0 } ^ { 1 } Q _ { i } ( t ) Q _ { j } ( t ) d t = \displaystyle \sum _ { l = 1 } ^ { n _ { i j } } f _ { l } \Biggl [ c _ { l i } c _ { l j } + \frac { 1 } { 3 } r _ { l i } r _ { l j } \Biggr ] } } \end{array}
+$$
+
+其中 $f _ { l } = w _ { l } - w _ { l - 1 }$ ， $w _ { l } , w _ { l } \in W ^ { i j } , l = 1 , 2 , \cdots , n _ { i j }$ 。
+
+# 1.3中心直方图的求解
+
+给定的 $n$ 个直方图 $Y _ { 1 } , Y _ { 2 } , \cdots , Y _ { n }$ ，其中心 $Y _ { b }$ 也是一直方图变量。将 $Y _ { 1 } , Y _ { 2 } , \cdots , Y _ { n }$ 的累积权进行合并并按从小到大的顺序排列成一集合 $W$ ，并记该集合中元素个数为 $m$ ，则由命题1可知求中心直方图即为极小化以下函数：
+
+$$
+\begin{array} { l } { { f \left( c _ { _ { 1 b } } , r _ { _ { 1 b } } , \cdots , c _ { _ { m b } } , r _ { _ { m b } } \right) = \displaystyle \sum _ { i = 1 } ^ { n } d _ { _ w } ^ { 2 } \left( Y _ { i } , Y _ { b } \right) } } \\ { { \displaystyle = \sum _ { i = 1 } ^ { n } \sum _ { l = 1 } ^ { m } f _ { l } [ ( c _ { _ { l i } } - c _ { _ { l b } } ) ^ { 2 } + \frac { 1 } { 3 } ( r _ { _ { l i } } - r _ { _ { l b } } ) ^ { 2 } ] } } \end{array}
+$$
+
+其中： $c _ { l b }$ 与 $r _ { l b }$ 为中心直方图基本区间的中心与半径。解得：
+
+$$
+c _ { l b } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } c _ { l i } \ , \quad r _ { l b } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } r _ { l i } \ , \quad l = 1 , 2 , \cdots , m _ { \circ }
+$$
+
+从而 $\mathbf { \Pi } _ { \mathrm { n } }$ 个直方图数据的中心直方图表示为
+
+$$
+\begin{array} { r l } & { Y _ { b } = \Big \{ \big ( [ c _ { _ { 1 b } } - r _ { _ { 1 b } } , c _ { _ { 1 b } } + r _ { _ { 1 b } } ] , f _ { 1 } \big ) , \cdots , } \\ & { \big ( [ c _ { _ { l b } } - r _ { _ { l b } } , c _ { _ { l b } } + r _ { _ { l b } } ] , f _ { l } \big ) , \cdots , \big ( [ c _ { _ { m b } } - r _ { _ { m b } } , c _ { _ { m b } } + r _ { _ { m b } } ] , f _ { _ m } \big ) \Big \} } \end{array}
+$$
+
+# 1.4方差与协方差
+
+设 $X _ { 1 } , X _ { 2 } , \cdots , X _ { p }$ 为 $p$ 个相互独立的直方图变量，其中 $X _ { j }$ 中的 $n \uparrow$ 元素 $X _ { 1 j } , X _ { 2 j } , \cdots , X _ { p j }$ 均为直方图变量且相互独立。
+
+定义两个直方图符号变量 $X _ { k }$ 和 $X _ { j }$ 的标量积为
+
+$$
+X _ { k } ^ { T } X _ { j } = \sum _ { j = 1 } ^ { n } \int _ { 0 } ^ { 1 } Q _ { i k } \left( t \right) Q _ { i j } \left( t \right) d t
+$$
+
+其中： $Q _ { i k } ( t )$ 与 $Q _ { i j } ( t )$ 分别为直方图变量 $X _ { i k } ( t )$ 与 $X _ { i j } ( t )$ 的分位函数。
+
+记 $\overline { { Q _ { j } ( t ) } }$ 为直方图变量 $X _ { j }$ 的中心直方图的分位函数表示形式，根据Wasserstein 距离， $X _ { j }$ 的方差为
+
+$$
+V a r ( X _ { j } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } d _ { _ w } ^ { 2 } ( X _ { i j } , \overline { { { X _ { j } } } } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \int _ { 0 } ^ { 1 } [ Q _ { i j } ( t ) - \overline { { { Q _ { j } ( t ) } } } ] ^ { 2 } d t
+$$
+
+标准差为 $S T D ( X _ { j } ) = \sqrt { V a r ( X _ { j } ) }$ 从而 $X _ { i j }$ 的标准化偏差为
+
+$$
+S D _ { i j } ( t ) = \frac { Q _ { i j } ( t ) - \overline { { Q _ { j } ( t ) } } } { S T D ( X _ { j } ) } = \frac { Q _ { i j } ( t ) - \overline { { Q _ { j } ( t ) } } } { \sqrt { V a r ( X _ { j } ) } } , 0 \leq t \leq 1
+$$
+
+可以证明以下结果成立：
+
+$$
+\sum _ { i = 1 } ^ { n } [ Q _ { i j } ( t ) - \overline { { { Q _ { j } ( t ) } } } ] = 0 \quad , \qquad \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \int _ { 0 } ^ { 1 } [ S D _ { i j } ( t ) ] ^ { 2 } d t = 1 \mathrm { ~ _ o ~ }
+$$
+
+$X _ { j }$ 与 $X _ { k }$ 的协方差为
+
+$$
+C O V A R ( X _ { j } , X _ { k } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \int _ { 0 } ^ { 1 } ( Q _ { i j } ( t ) - \overline { { Q _ { j } ( t ) } } ) ( Q _ { i k } ( t ) - \overline { { Q _ { k } ( t ) } } ) d t
+$$
+
+则由命题2得
+
+$$
+C O V A R ( X _ { j } , X _ { k } ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \int _ { 0 } ^ { 1 } Q _ { i j } ( t ) Q _ { i k } ( t ) d t - \int _ { 0 } ^ { 1 } \overline { { Q _ { j } } } ( t ) \overline { { Q _ { k } } } ( t ) d t
+$$
+
+# 2 直方图数据非负主成分分析法
+
+# 2.1经典主成分分析法向直方图数据的推广
+
+根据经典主成分分析法，直方图数据 $X _ { 1 } , X _ { 2 } , \cdots , X _ { p }$ 的主成分$Y$ 定义为它们的线性组合，即 $Y = X u = \sum _ { j = 1 } ^ { p } u _ { j } X _ { j }$ ，其中$\boldsymbol { u } = ( u _ { 1 } , u _ { 2 } , . . . u _ { p } ) ^ { T }$ 满足 $u ^ { T } u = 1$ 。那么主成分 $Y$ 的方差为：$V A R ( Y ) = V A R ( \sum _ { j = 1 } ^ { p } u _ { j } X _ { j } ) = u ^ { T } D u$ ，其中 $D$ 为 $X _ { 1 } , X _ { 2 } , \cdots , X _ { p }$ 的协方差矩阵
+
+$$
+D _ { i j } = \left\{ { \begin{array} { l l } { V A R ( X _ { i } ) } & { , i = j } \\ { C O V A R ( X _ { i } , X _ { j } ) , } & { i \not = j } \end{array} } , \right.
+$$
+
+所以求主成分转换为条件 $u ^ { T } u = 1$ 下极大化方差 $V A R ( Y )$ 的优化问题：
+
+$$
+\operatorname* { m a x } _ { s . t . } \ u ^ { T } D u
+$$
+
+此问题的求解可以转换为求协方差矩阵D的特征值和特征向量。记 $\lambda _ { k }$ 为 $\mathrm { ~ D ~ }$ 的第 $\mathbf { k }$ 个最大特征值，对应的特征向量为$u _ { k }$ ，其中 $\lambda _ { 1 } \geq \lambda _ { 2 } \geq \cdots \geq \lambda _ { r }$ ， $r = r a n k ( D )$ ，则直方图数据样本矩阵的第 $\mathbf { k }$ 个主成分表示为
+
+$$
+Y _ { k } = X u _ { k } = \sum _ { j = 1 } ^ { p } u _ { k j } X _ { j } \ , k = 1 , 2 , \cdots , r \ \mathrm { ~ \circ ~ }
+$$
+
+于是，得到以下直方图数据的主成分分析算法：
+
+a)根据式(10)和(13)计算直方图数据 $X _ { 1 } , X _ { 2 } , \cdots , X _ { p }$ 的协方差 矩阵D;
+
+b)求解特征方程 $D u = \lambda u$ 的前 $\mathbf { m }$ 个最大特征值$\lambda _ { 1 } \geq \lambda _ { 2 } \geq \cdots \geq \lambda _ { m }$ 及对应的正交特征向量 $u _ { 1 } \ge u _ { 2 } \ge \dots \ge u _ { m }$ ，m≤p;
+
+c)计算第 $\mathbf { k }$ 个主成分 $Y _ { k } = X u _ { k } = \sum _ { j = 1 } ^ { p } u _ { k j } X _ { j }$ ， $k = 1 , 2 , \cdots , m$ ， $m \leq r$ 。
+
+# 2.2基于分位数的非负直方图主成分分析法
+
+在上述过程中，对协方差矩阵进行求解，所得到的特征值与特征向量不能保证全部非负，因此在对直方图进行重构计算主成分直方图时可能会出现问题。另外，主成分 $Y _ { \boldsymbol { k } }$ 也可以用分位函数表示：
+
+$$
+\mathcal { Q } _ { i k } ^ { Y } ( t ) = \sum _ { j = 1 } ^ { p } u _ { j k } \mathcal { Q } _ { i j } ( t ) , i = 1 , 2 , \cdots , n , 0 \leq t \leq 1 .
+$$
+
+由于分位函数是单调增加的，且只有单调增加函数的正线性组合才是单调增加的，所以为保证主成分 $Q _ { i k } ^ { Y } ( t )$ 也是分位函数，参数 $u _ { j k }$ 也必须是非负的，即 $u _ { j k } \ge 0$ ， $j = 1 , 2 , \cdots , p$ 。
+
+Dias 等人[给出了一种非负约束下基于分位函数间Wasserstein距离的回归方法，通过在回归表达式中增加对称分布的分位函数而扩充了回归因子的个数。以下利用该思想研究非负约束的主成分分析法并给出主成分分位函数的修正形式。
+
+假设随机变量 $X _ { i j }$ 的经验或理论概率密度函数为 $f _ { i j }$ （其分位函数为 $Q _ { i j }$ )，其对应的对称分布 $\tilde { f } _ { i j }$ （分位函数为 $\tilde { Q } _ { i j }$ ）是将 $f _ { i j }$ 的支撑乘以-1并使得两个分位函数和的积分为零，即$\int _ { 0 } ^ { 1 } \Bigl [ Q _ { i j } \left( t \right) + \tilde { Q } _ { i j } \left( t \right) \Bigr ] d t = 0$ 。于是主成分 $\mathrm { \Delta Y }$ 的分位函数表示的修正形式为
+
+$$
+Q _ { i k } ^ { Y } ( t ) = \sum _ { j = 1 } ^ { p } u _ { j k } { \cal Q } _ { i j } ( t ) + \sum _ { j = 1 } ^ { p } \tilde { u } _ { j k } \tilde { { \cal Q } } _ { i j } ( t ) \ ,
+$$
+
+其中： $u _ { j k } \ge 0 , \tilde { u } _ { j k } \ge 0$ 。
+
+记与 $X _ { i j }$ 对应的对称分布的变量为 $\tilde { X } _ { i j }$ ，其对应的的分位函数表示为 $\tilde { Q } _ { i j }$ ，变量 $\tilde { X } _ { j } = [ \tilde { X } _ { { 1 j } } , \tilde { X } _ { { 2 j } } , \cdots , \tilde { X } _ { { n j } } ] ^ { T } ~ ( ~ \mathbf { j } = 1 , 2 , \cdots , p ~ )$ 为 $n$ （204号维随机向量，那么原始变量组 $X = [ X _ { 1 } , X _ { 2 } , \cdots , X _ { p } ]$ 对应的对称分布为 $\tilde { X } = [ \tilde { X } _ { 1 } , \tilde { X } _ { 2 } , \cdots , \tilde { X } _ { p } ]$ 。假设向量组$\overline { { \boldsymbol X } } = [ X _ { 1 } , X _ { 2 } , \cdots , X _ { p } , \tilde { X } _ { 1 } , \tilde { X } _ { 2 } , \cdots , \tilde { X } _ { p } ] = [ X , \tilde { X } ]$ 的协方差矩阵为$V$ ，于是在非负约束条件（即 $\mathbf { v } \geq 0$ ）下极大化方差 $\nu ^ { T } V \nu$ 可表示为以下优化问题：
+
+$$
+\operatorname* { m a x } _ { \boldsymbol { x } , t . \quad \boldsymbol { \nu } ^ { T } \boldsymbol { \nu } = 1 , \quad \boldsymbol { \nu } \geq 0 } \quad ,
+$$
+
+其中 $\boldsymbol { \nu } = [ \nu _ { 1 } , \nu _ { 2 } , \cdots , \nu _ { p } , \nu _ { p + 1 } , \nu _ { p + 2 } , \cdots , \nu _ { 2 p } ] ^ { T }$ 。由于该问题具有非负约束，所以不能直接将之转换为求协方差矩阵 $V$ 的特征值与特征向量。但它本身是一个二次优化问题，故可通过非线性优化算法来求解。假设 $\nu ^ { ( 1 ) }$ 是其最优解，则第一个主成分为（204号 $Y ^ { ( 1 ) } = X \nu ^ { ( 1 ) } = \sum _ { j = 1 } ^ { p } \nu _ { 1 j } X _ { j } + \sum _ { j = 1 } ^ { p } \tilde { \nu } _ { 1 j } \tilde { X } _ { j }$ ，其残差为
+
+$$
+\overline { { { X } } } ^ { ( 1 ) } = \overline { { { X } } } ^ { ( 0 ) } - { Y } ^ { ( 1 ) } \nu ^ { ( 1 ) ^ { T } } \ ,
+$$
+
+其中： $\overline { { { X } } } ^ { \left( 0 \right) } = \overline { { { X } } }$ ，计算 $\overline { { \boldsymbol X } } ^ { ( 1 ) }$ 的协方差矩阵 $V _ { 1 }$ ，用 $V _ { \mathrm { 1 } }$ 替换问题（17）中的 $V$ 并求得 $\nu ^ { ( 2 ) }$ ，从而有第二个主成分 $Y ^ { ( 2 ) } = \overline { { X } } ^ { ( 1 ) } \nu ^ { ( 2 ) }$ 。重复以上过程，得以下迭代式：
+
+$$
+\overline { { { X } } } ^ { ( \mathrm { k } ) } = \overline { { { X } } } ^ { ( \mathrm { k - 1 } ) } - Y ^ { ( \mathrm { k } ) } \nu ^ { ( \mathrm { k } ) ^ { T } } ,
+$$
+
+再计算 $\overline { { \boldsymbol X } } ^ { ( \mathbf k ) }$ 的协方差矩阵 $V _ { \boldsymbol { k } }$ 并替换问题(17)中的 $V$ 并解得$\nu ^ { ( \mathbf { k + 1 } ) }$ ，从而第 $\mathbf { k }$ 个主成分为 $Y ^ { \mathrm { ( k + l ) } } = \overline { { X } } ^ { \mathrm { ( k ) } } \nu ^ { \mathrm { ( k + l ) } }$ 。如此下去，即可获得 $\overline { { { X } } }$ 的所有 $\boldsymbol { r }$ 个主成分，其中 $r = r a n k ( V )$ 。
+
+以上方法最重要的特性是所有 $\boldsymbol \nu ^ { ( 1 ) } , \boldsymbol \nu ^ { ( 2 ) } , \cdots , \boldsymbol \nu ^ { ( \mathrm { r } ) }$ 均为非负的且线性无关，但它们不必正交，且在Wasserstein距离下 $\overline { { \boldsymbol { X } } }$ 的最佳逼近为
+
+$$
+\hat { \bar { X } } = \sum _ { k = 1 } ^ { r } Y ^ { ( k ) } \nu ^ { ( k ) T }
+$$
+
+如何直接由 $\overline { { { X } } }$ 来确定主成分才能使 $\hat { \bar { X } }$ 成为最佳逼近？考虑以下最小误差优化问题：
+
+$$
+\operatorname * { m i n } \quad \varepsilon = \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { 2 p } d _ { W } ^ { 2 } ( \bar { X } _ { i j } ^ { } , \hat { \bar { X } } _ { i j } ^ { } )
+$$
+
+$$
+s . t . \quad u _ { i k } \geq 0 , \tilde { u } _ { i k } \geq 0 , i = 1 , 2 , \cdots , n k = 1 , 2 , \cdots , r ,
+$$
+
+（204 $\begin{array} { c } { { d _ { w } ^ { 2 } ( \bar { X } _ { i j } , \hat { \bar { X } } _ { i j } ) = \displaystyle { \int _ { 0 } ^ { 1 } \Biggl \{ Q _ { i j } ( t ) - \sum _ { k = 1 } ^ { r } \nu _ { j k } \left[ \sum _ { s = 1 } ^ { p } u _ { s k } Q _ { i j } ( t ) + \sum _ { s = 1 } ^ { p } \tilde { u } _ { s k } \tilde { Q } _ { i s } ( t ) \right] \Biggr \} ^ { 2 } d t } } } \\ { { + \displaystyle { \int _ { 0 } ^ { 1 } \Biggl \{ \tilde { Q } _ { i j } ( t ) - \sum _ { k = 1 } ^ { r } \nu _ { { \mathrm { p } } + j , k } \left[ \sum _ { s = 1 } ^ { p } u _ { s k } Q _ { i s } ( t ) + \sum _ { s = 1 } ^ { p } \tilde { u } _ { s k } \tilde { Q } _ { i s } ( t ) \right] \Biggr \} ^ { 2 } d t } } } \end{array}$   
+其中:$i = 1 , 2 , \cdots , n \ , \ j = 1 , 2 , \cdots , p$
+
+${ \overline { { X } } _ { i j } }$ 和 ${ \hat { \bar { X } } } _ { i j }$ 分别为 $\overline { { { X } } }$ 和 $\hat { \bar { X } }$ 中的第 $( i , j )$ 个元素。如果$( u _ { 1 k } , u _ { 2 k } , \cdots , u _ { p k } , \tilde { u } _ { 1 k } , \tilde { u } _ { 2 k } , \cdots , \tilde { u } _ { p k } )$ 为(21)的最优解，那么第 $\mathrm { ~ k ~ }$ 个主成分 $Y ^ { \mathrm { ( k ) } }$ 的第i个元素的分位函数 ${ Q _ { i k } } ^ { Y } ( t )$ 为
+
+$$
+Q _ { i k } ^ { Y } ( t ) = \sum _ { j = 1 } ^ { p } u _ { j k } \mathcal { Q } _ { i j } ( t ) + \sum _ { j = 1 } ^ { p } \tilde { u } _ { j k } \tilde { \mathcal { Q } } _ { i j } ( t ) \ : ,
+$$
+
+$$
+k = 1 , 2 , \cdots , r , i = 1 , 2 , \cdots , n _ { \mathrm { ~ o ~ } }
+$$
+
+下面给出改进的直方图数据主成分分析法，称为非负直方图PCA（NHV-PCA）。
+
+a)根据式(10)和(13)计算出协方差矩阵 $\mathrm { \Delta V }$ 。
+
+${ \bf b } )$ 利用式(17)和(19)计算非负向量组 $\nu ^ { ( 1 ) } , \nu ^ { ( 2 ) } , \cdots , \nu ^ { ( \mathrm { k } ) }$ ，其中$k$ 满足前 $k$ 个主成分的累积方差贡献率达到一确定的百分比。
+
+$\mathbf { c } )$ 求解问题式(21)得最优解
+
+$\mathbf { u } ^ { ( k ) } = ( u _ { 1 k } , u _ { 2 k } , \cdots , u _ { p k } , \tilde { u } _ { 1 k } , \tilde { u } _ { 2 k } , \cdots , \tilde { u } _ { p k } )$ ，并计算第 $l$ 个主成分中第 $i$ 元素的分位函数：
+
+$$
+Q _ { i l } ^ { Y } \left( t \right) = \sum _ { j = 1 } ^ { p } { u _ { j l } } Q _ { i j } \left( t \right) + \sum _ { j = 1 } ^ { p } { \tilde { u } } _ { j l } { \tilde { Q } } _ { i j } \left( t \right) ,
+$$
+
+$$
+l = 1 , 2 , \cdots , k , \quad k \leq r , i = 1 , 2 , \cdots , n _ { \mathrm { ~ c ~ } }
+$$
+
+于是，计算 $Q _ { i l } ^ { Y } ( t )$ 的积分（称之为主成分 $Q _ { i l } ^ { Y } ( t )$ 的分位值)$\begin{array} { r } { q _ { i l } ^ { Y } = \int _ { 0 } ^ { 1 } Q _ { i l } ^ { Y } ( t ) d t = \displaystyle \sum _ { j = 1 } ^ { p } ( u _ { j l } - \tilde { u } _ { j l } ) \int _ { 0 } ^ { 1 } Q _ { i j } ( t ) d t , \quad l = 1 , 2 , \cdots , k , } \end{array}$ （204号$k \le r , \ i = 1 , 2 , \cdots , n \ _ { \mathrm { ~ c ~ } }$ （2号
+
+# 3 数值实验结果与分析
+
+# 3.1模拟数据集
+
+本小节利用模拟数据集验证算法的有效性。结合MonteCarlo 实验方法，从每个符号数据内部随机选取 $\mathrm { ~ m ~ }$ 个单值数据来近似模拟该符号数据， $\mathrm { ~ m ~ }$ 越大，所取的这些数越能代表该符号数据。参考文献[3]，假设有三组不同类型的正态分布 $\mathrm { C } _ { 1 }$ 、 $\mathbf { C } _ { 2 }$ 和 $\mathrm { C } _ { 3 }$ ，它们的均值 $\mu _ { j }$ 与方差 $\delta _ { j }$ 服从不同区间上的均匀分布，如表1所示。
+
+表1三类数据  
+
+<html><body><table><tr><td></td><td>μ</td><td></td></tr><tr><td>C1</td><td>U[-5,-2]</td><td>U[1,2]</td></tr><tr><td>C2</td><td>U[-3,3]</td><td>U[1,2]</td></tr><tr><td>C3</td><td>U[2,5]</td><td>U[1,2]</td></tr></table></body></html>
+
+记 $X _ { n \times p }$ 为符号型数据样本矩阵，其中元素 $X _ { i j }$ 服从正态分布 $N ( \mu _ { i j } , \sigma _ { i j } )$ 。为了将本文算法与经典PCA 和 ND-PCA 进行比较，需要生成 ND-PCA 法所需的正态分布值采样矩阵 $X _ { n \times p }$ 、经典PCA的单值采样矩阵以及适用于本文算法的直方图数据矩阵。数据矩阵生成的过程如下：
+
+a）生成三个服从正态分布的符号数据样本矩阵 $X _ { n \times p }$ ，其第 $j$ 个列向量 $\boldsymbol { X } _ { j } = ( X _ { 1 j } , X _ { 2 j } , . . . , X _ { n j } ) ^ { T }$ 为第 $j$ 个变量，含有 $\mathbf { n }$ 个观察值。对第 $j$ 个正态分布变量，生成一个均值向量$\boldsymbol { \mu } _ { j } = ( \mu _ { 1 j } , \mu _ { 2 j } , . . . , \mu _ { n j } ) ^ { T }$ 和标准偏差向量 $\boldsymbol { \sigma } _ { j } = ( \sigma _ { 1 j } , \sigma _ { 2 j } , . . . , \sigma _ { n j } ) ^ { T }$ ，这里$\mu _ { i j }$ 和 $\delta _ { i j }$ 分别服从于 $[ a , b ]$ 和[c,d]上的均匀分布（a,b,c,d 是任意的)。将这三个矩阵合并为一个 $3 n \times p$ 矩阵 $\boldsymbol { X } _ { 3 n \times p }$ ，执行 ND-PCA算法并获得分类精度。
+
+b）对符号数据矩阵 $X _ { _ { 3 n \times p } }$ ，从每个服从正态分布 $N ( \mu _ { i j } , \sigma _ { i j } ^ { 2 } )$ 的元素中任意抽取 M个数据，形成一个 $\left( 3 n ^ { * } M \right) \times p$ 的单值数据矩阵 $K _ { ( 3 n ^ { * } M ) \times p }$ ，执行经典PCA并计算分类精度。
+
+c）对符号数据矩阵 $X _ { 3 n \times p }$ ，从每个服从正态分布 $N ( \mu _ { i j } , \sigma _ { i j } ^ { 2 } )$ 的元素中任意抽取 $\mathbf { M }$ 个数据并进行统计生成直方图数据，得到直方图数据矩阵 $H _ { 3 n \times p }$ 并执行 NHV-PCA 算法并分类精度。
+
+以上三个实验均重复R次，并求出R次的平均值。所有实验均假设 $\scriptstyle \mathrm { n = 5 0 }$ ， $\scriptstyle \mathtt { p } = 6$ ， $\scriptstyle \mathrm { R = } 1 0$ ，而 $\mathbf { M }$ 则分别取100，500，1000，5000，10000。实验结果如表2所示。
+
+表2分类精度对比  
+$1 \%$   
+
+<html><body><table><tr><td>M</td><td>对比方法</td><td>特征1</td><td>特征2</td><td>特征3</td><td>特征4</td><td>特征5</td></tr><tr><td></td><td>ND-PCA</td><td>84.13</td><td>82.93</td><td>90.4</td><td>93.86</td><td>99.07</td></tr><tr><td>100</td><td>经典PCA</td><td>99.52</td><td>99.63</td><td>99.26</td><td>99.64</td><td>98.71</td></tr><tr><td></td><td>NHV-PCA</td><td>98.48</td><td>98.86</td><td>98.67</td><td>98.86</td><td>98.5</td></tr><tr><td>500</td><td>ND-PCA</td><td>84.13</td><td>82.93</td><td>90.4</td><td>93.86</td><td>99.07</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>经典PCA</td><td>99.32</td><td>98.95</td><td>98.05</td><td>99.6</td><td>98.93</td></tr><tr><td rowspan="4">1000</td><td>NHV-PCA</td><td>98.27</td><td>98.3</td><td>98</td><td>98.4</td><td>98.43</td></tr><tr><td>ND-PCA</td><td>84.13</td><td>82.93</td><td>90.4</td><td>93.86</td><td>99.07</td></tr><tr><td>经典PCA</td><td>99.04</td><td>99.4</td><td>97.84</td><td>98.61</td><td>98.69</td></tr><tr><td>NHV-PCA</td><td>98.67</td><td>98.86</td><td>96.57</td><td>97.71</td><td>98.1</td></tr><tr><td rowspan="3">5000</td><td>ND-PCA</td><td>84.13</td><td>82.93</td><td>90.4</td><td>93.86</td><td>99.07</td></tr><tr><td>经典PCA</td><td>98.64</td><td>98.93</td><td>97.62</td><td>98.95</td><td>98.99</td></tr><tr><td>NHV-PCA</td><td>98.67</td><td>98.85</td><td>97.43</td><td>98</td><td>98.56</td></tr><tr><td rowspan="4">10000</td><td>ND-PCA</td><td>84.13</td><td>82.93</td><td>90.4</td><td>93.86</td><td>99.07</td></tr><tr><td>经典PCA</td><td>98.62</td><td>98.7</td><td>98.01</td><td>98.7</td><td>98.75</td></tr><tr><td>NHV-PCA</td><td>98.66</td><td>98.69</td><td>97.93</td><td>98.69</td><td>98.73</td></tr><tr><td colspan="4">表3 时间对比</td><td></td><td>/s</td></tr><tr><td rowspan="4">M 100</td><td>特征1</td><td></td><td>特征2</td><td>特征3</td><td>特征4</td><td>特征5</td></tr><tr><td>ND-PCA</td><td>0.84</td><td>0.83</td><td>0.90</td><td>0.94</td><td>0.99</td></tr><tr><td>经典PCA</td><td>49.72</td><td>190.24</td><td>191.5</td><td>193.11</td><td>194.42</td></tr><tr><td>NHV-PCA</td><td>244.82</td><td>243.5</td><td>245.69</td><td>250.79</td><td>264.1</td></tr><tr><td rowspan="4">500</td><td>ND-PCA</td><td>0.84</td><td></td><td></td><td></td><td>0.99</td></tr><tr><td>经典PCA</td><td>1312.85</td><td>0.83</td><td>0.90</td><td>0.94</td><td>5561.13</td></tr><tr><td>NHV-PCA</td><td>262.69</td><td>5227.8 273.17</td><td>6248.99 343.06</td><td>5783.79</td><td>311.04</td></tr><tr><td>ND-PCA</td><td>0.84</td><td></td><td></td><td>301.37</td><td></td></tr><tr><td rowspan="3">1000</td><td></td><td></td><td>0.83</td><td>0.90</td><td>0.94</td><td>0.99</td></tr><tr><td>经典 PCA NHV-PCA</td><td>6757.77</td><td>7225</td><td>7247.12</td><td>7335.38</td><td>7658.65</td></tr><tr><td>ND-PCA</td><td>313.51</td><td>312.61</td><td>317.86</td><td>322.24</td><td>330.43</td></tr><tr><td rowspan="3">5000</td><td></td><td>0.84</td><td>0.83</td><td>0.90</td><td>0.94</td><td>0.99</td></tr><tr><td>经典PCA</td><td>233509.3</td><td>234500.1</td><td>234525.1</td><td>234595.8</td><td>234607.1</td></tr><tr><td>NHV-PCA</td><td>249.44</td><td>255.67</td><td>257.32</td><td>259.11</td><td>260.55</td></tr><tr><td rowspan="3">10000</td><td>ND-PCA</td><td>0.84</td><td>0.83</td><td>0.90</td><td>0.94</td><td>0.99 1284319</td></tr><tr><td>经典PCA</td><td>1284300</td><td>1284307</td><td>1284312 310.32</td><td>1284315 314.66</td><td>317.49</td></tr><tr><td>NHV-PCA</td><td>289.32</td><td>297.57</td><td></td><td></td><td></td></tr></table></body></html>
+
+由表2可见，随着M的逐渐增大，经典主成分分析法计算得到的分类精度逐渐降低。这是因为，当M较小时，所取得的样本只代表了符号数据内的部分信息，并且所取样本在符号数据内部比较分散，因此容易区分；当M较大时，每个符号数据内所采样的样本个数增加，它们在符号数据内部分散比较密集，且三类数据集本身有部分重叠元素，因此样本数据交叉重合的部分较多。另外，NHV-PCA算法的分类精度相对稳定，这是因为，无论M取值为100,1000 或是10000，NHV-PCA 算法都是对采样值进行统计形成直方图数据。另外，由表2还可以看到，随着M 逐渐增大，经典PCA 和NHV-PCA的分类精度趋于一致，从一定程度上说明NHV-PCA算法更能从整体上把握各类数据间的相关性。与前两种算法相比，ND-PCA的分类精度在所取特征维数较低时也比较低，而在所取特征维数较高时会取得比较好的分类效果。但是，ND-PCA方法仅适用于服从正态分布的符号数据，而本文提出的NHV-PCA算法则适用于具有任意分布的符号型数据，因此更具有普遍性。
+
+表3给出了三种算法运行一次所消耗的时间。从表中结果可以看出，ND-PCA所用时间最小，这是因为该算法只是利用了每个正态分布数据的均值 $\mu$ 和偏差 $\delta$ ，并对协方差矩阵进行直接分解获得的特征向量，并且无论M取值为多少，ND-PCA永远为 $3 n \times p$ 的矩阵，计算量不变。而经典PCA虽然也是对协方差矩阵进行分解，但是当M较大时，所得到的数据越来越庞大，因此计算量也会随之增大。当M较小（例如 $\scriptstyle \mathbf { M } = 1 0 0$ ）时，经典PCA运行一次所消耗的时间小于NHV-PCA法，而当数据较大（例如 $\scriptstyle \mathbf { M } > = 1 0 0 0$ ）时，经典PCA法的运行时间将远大于NHV-PCA法。例如，当 $\scriptstyle \mathbf { M } = 1 0 0 0 0$ 时，经典PCA运行一次所用时间长达1284300s（约为14天)，而NHV-PCA 法运行一次所用的时间大约为290s左右。虽然NHV-PCA法和经典PCA法运行一次所消耗的时间随着M的增大而增加，但整体上看NHV-PCA法的增大幅度远小于经典PCA的增大幅度。
+
+由以上三种算法分类精度与时间的对比可以看到，当数据量非常庞大时，采用直方图主成分分析法可以快速而有效地提取出数据中的有用信息，并且能从全局上把握整个数据集。虽然ND-PCA花费时间也较短，但需要提取多个特征才能达到较高的分类精度，并且直方图算法相较于ND-PCA算法更具有普遍性，而不仅仅局限于正态分布型数据。
+
+# 3.2 Iris 数据集
+
+本小节利用Iris 数据集与文献[2]中HistogramPCA算法进行对比。Iris 数据集由150个具有4个特征的样本组成。共有3个类，即 setosa，versicolour 和verginica。其中，前50 个样本属于第一类，中间50个样本属于第二类，最后50个样本属于第三类。从每个类别中随机抽取30个样本，对其归一化处理，再对其统计分析生成直方图数据，每个类别随机抽取5次，因此可以获得15个4维直方图数据。绘制直方图数据如图2所示。
+
+一 共 LL！H二一！：二1>东 10 0.5 0 0.5 0.5 0 0.5
+
+LLLLL1111101110 0   
+-0.5   
+1   
+-1g   
+50   
+10 1   
+1234567890 1234567890 123456789 0 1234567890
+
+图3、4分别绘制出经过HistogramPCA算法与非负直方图主成分分析法计算后得到的直方图。经过降维后的直方图数据可以很明显的根据前两维变量将三类数据分辨出来，都起到了很好的降维效果。但是对比图3、4发现，经过HistogramPCA算法得到的直方图数据许多概率为负，已经不属于传统意义上的直方图数据，与实际情况不符，但是经过非负直方图主成分分析法降维得到的直方图数据可以很完整的表示出一个直方图数据，具有很好的实际意义。
+
+4205 20420 2 出 0 非E 一 20 N -2 0 2 -2 0 2 心 0 5 -2 0 2
+
+![](images/0a86242b013f839db2794f4d71d9d15b18d3f2dd5a4aaa41ea6629e395dfc66f.jpg)  
+图2Iris 原始数据直方图  
+图3HistogramPCA算法主成分直方图  
+图4NHV-PCA算法后的直方图数据  
+图52010年股票数据的直方图
+
+# 3.3股票数据集
+
+中国股票市场数据量庞大，结构复杂，由于股票的合并，重组，重新命名，以及暂停恢复等，导致对单支股票进行追踪研究较为困难，但如果从宏观上以每一类股票为研究对象，可以从整体上把握各类股票间的关系和规律。为此，本实验选取上海证券交易市场2010年1月1日到2010年12月31日所有上市公司的交易数据，选取5个变量：年个股总市值( $X _ { 1 \atop , } \cdot$ 、P/E值 $( X _ { 2 } ) ^ { , }$ 、换手率( $X _ { 3 }$ )，波动率( $X _ { 4 }$ )以及回报率( $\cdot \ : { \boldsymbol { X } } _ { 5 }$ )，将每类股票数据进行打包生成直方图数据进行实验。数据处理过程如下：
+
+首先将所有股票按市值进行排序，并分为大盘股、中盘股和小盘股；其次，对每个类别股票按照市盈率(P/E)进行排序，去除掉每个类别中最高和最低的 $5 \%$ 后再取P/E的中位数作为临界点，P/E大的部分为增长股，小的部分为价值股，因此形成六种股票：大盘增长股(L-G)，大盘价值股(L-V)，中盘增长股（M-G)，中盘价值股（M-V)；小盘增长股（S-G)，小盘价值股（S-V)。对六种股票的每个变量进行归一化处理并统计形成直方图变量，如图5所示，图中每一行代表一种股票，每一列代表一个变量。
+
+利用本文提出的非负主成分分析NHV-PCA 算法，在提取原数据中 $61 \%$ 的信息情况下可以得到前两个主成分：
+
+$$
+\begin{array} { l } { { Q _ { 1 } ^ { Y } \ = \ 0 . 7 3 8 1 \tilde { Q } _ { 1 } \ + \ 0 . 1 2 8 0 \tilde { Q } _ { 2 } \ + \ 0 . 0 3 2 6 Q _ { 3 } \ + \ 0 . 3 5 3 8 Q _ { 4 } } } \\ { { Q _ { 2 } ^ { Y } \ = \ 0 . 5 3 7 8 Q _ { 1 } \ + \ 0 . 4 7 5 3 \tilde { Q } _ { 2 } \ + \ 0 . 6 3 0 4 \tilde { Q } _ { 4 } \ + \ 0 . 2 3 1 2 Q _ { 5 } } } \end{array}
+$$
+
+图6绘制了前两个主成分的大致分布。观察发现，第一个主成分中 $Q _ { \mathrm { { l } } }$ 、 $Q _ { 2 }$ 与 $Q _ { 3 }$ 、 $Q _ { 4 }$ 呈反比。其中， $Q _ { \imath }$ 代表一个公司的总市值， $Q _ { 2 }$ 对应其P/E值，用来衡量一支股票是否被高估； $Q _ { 3 }$ 和 $Q _ { 4 }$ 分别表示换手率和波动率，衡量一支股票的交换频率与价格波动，这两个变量代表了一支股票的动态变化因此可以表示一支股票的“风险”。 $Q _ { \mathrm { { l } } }$ 与 $Q _ { 3 }$ 、 $Q _ { 4 }$ 的负相关表明中国股票市场大盘股风险低、小盘股风险高的现象。
+
+另外由图6发现，第一个主成分中市值所占比重最大，第二个主成分中 $\mathrm { { \bf P / E } }$ 值与波动率所占比重较大，因此第二个主成分可以近似表示“风险”。对6种类型的股票进行主成分重构后得到图7所示主成分直方图。
+
+![](images/a8b82e3224847513dd18473c727836f193c648138874a5a771ad07687ccef20b.jpg)  
+图6前两个主成份的大致分布
+
+![](images/6d11c24ff9a1fce236c0cf8f4af243e26abe53f75ca36633250004414f18f8e3.jpg)  
+图76种类型的股票数据在第一与第二主成分上的分布
+
+图7中第一列与第二列分别代表第一个主成分与第二个主成分6种股票的分布。每一行代表一种股票类型。由上至下分别为L-G，L-V，M-G，M-V，S-G 和S-V。由于第一个主成分主要代表了股票的市值，观察第一列直方图数据可发现其分布与实际吻合。第二个主成分代表风险，第二列直方图从上至下分布中心由小变大，验证了大盘股风险小，小盘股风险大的说法。
+
+图8绘制出了对所有单支股票利用经典主成分分析法进行降维后提取前两维得到的结果。可以发现，6种类型的股票杂乱的交叉在一起，无法从宏观上提取出六种股票之间的有效信息。因此可以说明，符号数据分析法可以从整体上把握研究对象关系，挖掘深层次规律的方法，具有重要的研究意义。
+
+![](images/e44d62ada758ad49bba3888af44e67715b6a28e4c114a3b1ccd6b962bfe49d47.jpg)  
+图8对所有单支股票利用经典PCA进行降维后的效果
+
+# 4 结束语
+
+在实际问题中符号型数据有着广泛的应用，从而出现了许多区间符号数据的降维方法。最为经典的方法有C-PCA和V-PCA、CIPCA和正态分布ND-PCA等，这些方法均假设区间型数据服从均匀分布或者正态分布，但是对于非均匀分布或非正态分布的数据具有一定的局限性。本文针对直方图符号数据利用Wasserstein距离和Dias[8]等人的线性回归方法，给出了一种非负直方图主成分分析法，该方法相比已有的符号数据主成分分析算法更具有普遍性，并且克服了文献[3]中直方图PCA 算法所获得主成分系数可能为负的缺点，更好地保留了此类数据的原始信息。通过模拟数据集和在中国股票市场的实证分析验证了算法的有效性。
+
+# 参考文献：
+
+[1]Dias S,Brito P.Linear regression model with histogram-valued variables [J]. Statistical Analysis & Data Mining the Asa Data Science Journal, 2015,8 (2): 75-113.   
+[2]Nagabhushan P,Kumar R P.Histogram PCA [C]// Proc of International Symposium on Neural Networks.[S.1.]: Springer-Verlag,2007: 1012-1021.   
+[3]Wang Huiwen,Guan Rong,Wu Junjie.CIPCA:Complete-informationbasedprincipal component analysisfor interval-valued data[J]. Neurocomputing,2012,86 (4): 158-169.   
+[4]Wang Huiwen,Chen Meiling,Shi Xiaojun,et al. Principal component analysis for normal-distribution-valued symbolic data [J].IEEE Trans on Cybernetics,2016,46(2): 356-365.   
+[5]Brito P,Dias S.A new linear regression model for histogram-valued variables [C]//Proc ofISI World Statistics Congress.2011.   
+[6]Verde R,Irpino A.Comparing histogram data using a MahalanobisWasserstein distance [C]// Computational Statistics.Physica-Verlag,2008: 77-89.   
+[7]Verde R, Irpino A,Balzanella A.Dimension reduction techniques for distributional symbolic data [J].IEEE Trans on Cybernetics,2016,46 (2): 344.   
+[8]Irpino A,Verde R.Linear regression for numeric symbolic variables: a least squares approach based on Wasserstein distance [J].Advances in Data Analysis and Classification,2015,9(1): 81-106.   
+[9]LongWen,MokHMKenry,Hu Yan,et al.The style and innate structure of the stock markets in China [J].Pacific-Basin Finance Journal,20o9,17 (2): 224-242.   
+[10] Pachner AR,Delaney E,Ricalton N S.Generalization of the principal components analysis to histogram data [J].Principles & Practice of Knowledge Discovery in Databases,2000,4(6): 345-351.   
+[11] Verde R,Irpino A.Ordinary least squares for histogram data based on wasserstein distance [C]//Proc of COMPSTAT.Physica-Verlag,2010.   
+[12]Ichino M.The quantile method for symbolic principal component analysis [J].Statistical Analysis& Data Mining the Asa Data Science Journal, 2011, 4 (2): 184-198.   
+[13]李汶华．区间型符号数据分析理论方法及其在金融中的应用研究[D]. 天津：天津大学,2006.(Li Wenhua, Study of the theory& methodology of interval-valued symbolic data analysis with application to finance [D].
+
+Tianjin: Tianjin University,2006.)   
+[14] Sun M K,Diday E.Adaptation of interval PCA to symbolic histogram variables [J].Advances in Data Analysis& Classification,2012,6(2):147- 159.   
+[15]Dias S,Brito P.Linear regression model with histogram-valued variables [J]. Statistical Analysis& Data Mining the Asa Data Science Journal,2015,8 (2): 75-113.   
+[16] Sun M K.Principal axes analysis of symbolic histogram variables [J]. Statistical Analysis & Data Mining the Asa Data Science Journal, 2015,9 (3): 188-200.   
+[17] Irpino A,Verde R.A new wasserstein based distance for the hierarchical clustering of histogram symbolic data [J].Studies in Classification Data Analysis & Knowledge Organization.2006:185-192.

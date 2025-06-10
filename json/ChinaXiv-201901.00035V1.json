@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进匈牙利算法的航路网络延误优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王莉莉，王航臣",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国民航大学 天津市空管运行规划与安全技术重点实验室，天津 300300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对我国航路网络流量分配依靠管制员经验，缺乏量化模型协助决策这一问题，对航路网络的延误优化模型及其求解算法展开研究。首先，建立了目标函数为总航行时间最小、带容量约束的流量指派模型；其次，针对经典匈牙利算法只适用于中小型运算的问题，在效率矩阵的计算上作出加圈的零元素个数最大概率与效率矩阵的阶数相等的改进；再次，根据航路运行效率随时间和流量变化的特点，使用M/M/C排队论模型构建了航路的费用函数，用变化的费用替代效率矩阵中不变的效率值，使效率矩阵随时间和流量变化；最后，以中南空管局与西南空管局的部分空域 2016年11月的实际运行数据作为算例。结果表明，在通行能力优化方面，算法能将进场通行能力提升$8 . 3 7 2 \\%$ ，离场通行能力提升 $8 . 9 9 9 \\%$ ；在延误优化方面，能降低每架航空器平均延误；在算法性能方面，具有比经典匈牙利算法迭代次数少、求解时间短的优点，更适用于实际的管制运行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：航空运输；延误优化；匈牙利算法；航路网络；指派问题；费用函数中图分类号：V355.1；TP391.9 doi:10.3969/j.issn.1001-3695.2018.09.0636",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization of en-route network delay based on improved Hungarian algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Lili, Wang Hangchen (ChinaTianjinKeyLaboratoryofATCOperationPlanning&SafetyTechnology,CivilAviation UniversityofChina,ianjin 300300, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Due to cope with relying oncontrolers badlyand lacking of quantitative models to assist decision-making in air trafic flow management,thedelay optimization model and its solving algorithm forroute network are studied.Firstly,a trafic flow asignment model with theobjective functionof minimum flight timeandcapacityconstraints was established. Secondly,clasical Hungarianalgorithmisonlysuitableforsmallandmedium-sizedoperations,the improvementof the eficiency matrix was made to improve the algorithm that the maximum probabilityof the number of zero elements was equal totheorderofthe efficiency matrix;Next,thecostfunctionof theen-route was defined bycombining the M/M/C queuing theory model.The function,which replaces theconstant eficiencyvaluein the efficiency matrix with avariable cost,madetheeficiency matrix change withtimeandflow.Finalypartairspacesof Chinaand theactualoperationaldata of 2016 were taken as examples.The results show that the algorithm can increase the access capacity by $8 . 3 7 2 \\%$ and the departure capacity by $8 . 9 9 9 \\%$ ; In terms of delay optimization,the average delay of each aircraft can be reduced; in terms of algorithm performance,ithas less iterations inadvantagesand lessolutiontime thantheclassical algorithm,and is more suitable for actual control operation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:air transportation；delayoptimization； Hungarian algorithm;en-route network；assignment problem；cost function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "航路网络作为空中交通系统的运行载体，其运行效率的高低直接决定了系统的运行效率[I。管制员依靠自身经验管理空中流量，缺乏量化的模型为管制员向各航路分配交通流提供决策依据，这在大流量的复杂空域易造成管制员疲劳，亟待一个能描述空域特点的方法协助管制员决策。空中交通流量管理（air traffic flow management,ATFM）问题是空中交通管制中的经典问题，对此各国专家学者建立了各种目标函数和约束条件不同的优化模型，并根据所建模型的特点，设计不同的算法求解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有的短期ATFM的研究，多采用数学规划方法或计算机仿真的方法。其中数学规划方法多以网络流理论为基础进行建模，但只能精确地求解小规模的航路网络[2],对于大规模的问题，只能采用启发式算法[3.4]或将问题分解简化[5-7]，从而减少问题的运算时间。航路网络的运行优化，无论是以地面等待时间最短[6-9]、空中等待时间最短[6.9]还是航行时间最短[10]、飞行油耗与排放最低[II]，本质都是有限的时间与空间资源指派与分配的组合优化问题。虽然如今计算机的运算能力已有大幅提升，但大规模ATFM的组合规模使得在实际管制运行中，很多算法无法投入应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对网络流算法解决ATFM时间复杂度高[与经典匈牙利算法迭代次数多，只适用于中小型指派问题[12]的缺点，a)建立了一个带容量约束的0-1整数规划模型，并将其转换为指派问题求解；b)在匈牙利法需要使用的效率矩阵的计算上，作出了加圈的零元素个数最大概率与效率矩阵的阶数相等的改进，从而减小效率矩阵的迭代次数；c结合航路网络航路运行效率随流量变化的特点，提出使用随流量等因素变化的阻抗函数替代经典方法中效率矩阵中不变的系数。最后通过中南和西南空管局所辖的部分空域与2016年11月的实际数据作为算例验证了模型与算法的效率与运算质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1航路网络的数学描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对航路网络进行分析，在多起点 $s _ { i } ( i = 0 , 1 , . . . , k )$ 与多讫点 $\\boldsymbol { t } _ { i } = 0 , 1 , . . . , k$ 的航路网络中，其中 $k$ 和 $k ^ { ' }$ 为节点数量，由于我国高度层分配的原则是“东单西双”，可将其视为平面有向赋权连通图。设有向图 $G { = } ( V , E , C ( a ) )$ ,记 $V = \\{ V _ { i } , V _ { s j } \\}$ ，其中 $V _ { _ i }$ 表示航路交叉口的集合， $V _ { s j }$ 表示起讫点机场的集合；$E { = } \\{ e _ { m n } \\}$ 表示航路路段的集合，其中 $\\mathbf { m }$ 表示航路的起点，n表示航路的终点。并使用权矩阵法描述航路网络，从而方便后文指派问题的计算机求解，转换方法可参见文献[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2通行能力及其影响因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "航路网络的基本通行能力这里界定为在既定的网络结构和管制运行规则下，一定交通流到达情况与分布特征下，管制员工作负荷可承担的最大通行量。通行能力的影响因素很多，如天气因素、军航活动、地形因素、交叉点航线冲突、限制区及其他边界条件限制等[1.3]。引入一个决策变量 $\\delta _ { \\mathrm { i j } }$ ，其取值只能是1或0。并令",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { \\mathrm { f , r s } } = \\{ \\begin{array} { l l }  \\hfill 1 , \\hfill \\frac { \\mathrm { a } \\mathrm { v } } { \\mathrm { = } \\mathrm { 1 } \\mathrm { ; ~ } \\mathrm { 1 } \\mathrm { ; ~ } \\mathrm { 1 } \\mathrm { ; ~ } \\mathrm { ) } \\mathrm { | \\vec { K } \\mathrm { ~ } j \\mathrm { ) } \\mathrm { \\vec { K } \\mathrm { ~ } j \\mathrm { ] } \\mathrm { \\vec { f } f \\mathrm { ~ } j \\mathrm { ] } \\mathrm { \\vec { H } \\mathrm { ~ } i \\mathrm { - } \\mathrm { ~ } j \\mathrm { ) } \\mathrm { \\vec { H } \\mathrm { ~ } i \\mathrm { ~ } r \\mathrm { ~ } ~ } } } } } } \\\\  \\hfill 0 , \\hfill \\frac { \\mathrm { a } \\mathrm { v } } { \\mathrm { = } \\mathrm { 1 } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { \\vec { \\mathcal { A } } \\mathrm { ~ } j \\mathrm { ~ } j \\mathrm { ~ } j \\mathrm { | \\vec { K } \\mathrm { ~ } j \\mathrm { ) } \\mathrm { \\vec { K } \\mathrm { ~ } j \\mathrm { ] } \\mathrm { \\vec { f } f i \\mathrm { ] } \\mathrm { \\vec { H } j \\mathrm { ~ } i \\mathrm { - } \\mathrm { ~ } j \\mathrm { ) } \\mathrm { \\vec { h } \\mathrm { ~ } i \\mathrm { ~ } r \\mathrm { ~ } } } } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往关于ATFM的研究中，常将航行费用视为常数[6.8,10]，这对于非拥挤的网络流量管理是比较合适的，但对于内部拥挤的网络，该方法计算的结果与实际情况存在较大出入。实际的航路网络存在着严重的繁忙拥挤现象，费用随着流量的增加而递增，故需设计一个符合航路网络运行特点的费用函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般认为，众多因素中与航空器分配关系最密切的是时间（是否能降低航班的延误）、距离（是否能提升航路网络的运行效率）与相关费用（是否能达到效益最大化)。不同的飞行类型对影响因素的关注程度有所不同，故定义费用函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { c } ( f _ { r s } ( t ) ) = \\alpha \\mu ( t _ { r s } f _ { r s } ( t ) + W _ { q } ) ^ { \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 表示流量系数，代表流量带来的阻抗影响，可由实际数据标定； $\\mu$ 表示节点的服务率； $f _ { \\mathrm { r s } } ( t )$ 表示终端区 $t$ 时刻从节点 $\\boldsymbol { r }$ 到节点 $s$ 的空中交通流量； $\\beta$ 为调整系数，可根据实际数据进行标定； $t _ { r s }$ 表示航空器飞过航线 $r s$ 所需的时间，设$L _ { \\mathrm { r s } }$ 表示第 $r s$ 段航线的长度， $\\overline { { \\mathbf { \\Omega } } } _ { \\nu } ^ { - }$ 表示空中交通流的平均速度，可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { r s } = \\frac { L _ { \\mathrm { r s } } } { \\frac { \\overline { { \\nu } } } { \\nu } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在确定了决策变量 $\\delta _ { i j }$ 和各航路费用函数 $\\mid c \\mid$ 这些基础条件后，可以开始考虑整个航路网络的通行能力模型。有文献证明[14单位时间内航空器的到达服从泊松分布，机场节点的服务服从负指数分布，故平均延误 $W _ { q }$ 可用 $\\mathbf { M } / \\mathbf { M } / \\mathrm { c }$ 排队论模型中的Little公式[15]求得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { q } = { \\LARGE L _ { q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { q } = \\sum _ { n = c + 1 } ^ { \\infty } ( n - c ) P _ { n } = { \\frac { ( c \\rho ) ^ { c } \\rho } { c ! ( 1 - \\rho ) ^ { 2 } } } P _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 航路网络通行能力模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1目标函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "航路网络短期流量管理的目标是使整个航线网络的航空器总航行费用最小，故可将目标函数设置为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } : Z = \\sum _ { r } \\sum _ { s } \\sum _ { t } x _ { r s } { \\bf c } ( f _ { r s } ( t ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $z$ 表示系统总航行时间，目标为求航路网络各条航路费用之和最小，也即整个航线网络总航行时间最小，其中随时间与空中交通流量变化的 $\\mathsf { c } ( f _ { r s } ( t ) )$ 可由式(2)求得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2约束条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在固定的安全间隔下，航路 $r s$ 每次只能有1股交通流通过，设航路网有 $n$ 个节点，对于 $\\forall r , s = 1 , 2 , . . . , n$ 可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\tau } \\sum _ { s } x _ { f ^ { i } , \\mathrm { \\scriptsize ~ r s } } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每一股交通流在第 $i$ 个时间段 $t _ { i }$ 又只能通过一条航路，，$\\forall \\mathbf { f } ^ { i } = 1 , 2 , . . . , n$ 可得，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\mathrm { i } } x _ { f ^ { \\mathrm { i } } , r s } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在将交通流指派到各个航路上时，需考虑航路的容量和即将到达的下一机场节点的容量，设 ${ C } _ { E } ^ { \\mathrm { r s } }$ 表示航路 $r s$ 的容量，$C _ { A } ^ { s }$ 表示机场节点s的容量，故可添加容量约束，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\mathrm { ~ r ~ } } \\sum _ { s } f _ { r s } ( t ) \\leq C _ { E } ^ { \\mathrm { r s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\mathrm { ~ r ~ } } \\sum _ { s } f _ { r s } ( t ) \\leq C _ { A } ^ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于机场容量与航路容量的确定方法，在很多文献中已给予介绍和说明[1]，本文不再赘述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 延误优化模型的改进匈牙利算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1经典匈牙利算法的不足 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经典匈牙利算法能够有效地求解一些工程应用问题，具体步骤可见文献[15]。但经典算法对于ATFM问题具有以下不足：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)空中航路网是一个复杂的巨系统，各航路上的费用转换为效率矩阵后会使得计算的时间复杂度很高，从而不能应用于实际的管制运行中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)随着空中交通流量的增大，航路网络会出现拥挤，各条航路的效率值（拥挤程度）会出现变化，经典匈牙利法将效率矩阵视为常数对于空中航路网的流量指派是不合理的，需要引入上文中提到的效率函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2算法的改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)算法改进的思想 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对 3.1节中的第一个不足，改进的思想是尽可能减少算法的迭代次数在第二步加圈的零元素个数 $a _ { 0 }$ 与效率矩阵的阶数 $\\boldsymbol { r }$ 相等的概率最大。所以可以作出一些改善，如下文中的第 a)b)步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对3.1节中的第二个不足，改进的思想是用上文中定义的费用函数描述矩阵，即效率矩阵中的值是可变的，随着流量和时间的改变而变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）改进后算法的详细步骤 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上思路，针对空中航路网结构复杂、交通流时变后各航路通行能力出现变化的特点，改进的匈牙利算法步骤如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）初始化。令航路网路各条航路上的交通流量$f _ { \\mathrm { r s } } = 0 , \\forall r , s \\in E$ ，从而求得航路网路的初始阻抗 $c ^ { 0 }$ ；令时间段 $i$ 需分配的流量 $\\mathbf { f } _ { \\mathrm { r s } } ^ { i }$ ，迭代次数i=1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)效率矩阵的预处理。比较效率矩阵每行最小元素的个数 $N _ { \\mathrm { l i n e } }$ 与每列最小元素的个数 $N _ { \\mathrm { r o w } }$ 。若 $N _ { l i n e } \\ge N _ { r o w }$ ，效率矩阵从列开始迭代，若 $N _ { l i n e } < N _ { r o w }$ ，效率矩阵从行开始迭代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)流量分配。按照经典的匈牙利算法的第三步\\~第五步对流量进行指派，得到时间段 $i$ 的流量分配结果若在航路 $r - s$ 上分配得流量和 $\\sum _ { \\mathrm { k } } f _ { \\mathrm { r s } } ^ { i } \\geq C _ { E } ^ { r s }$ 且 $\\sum _ { \\tau } \\sum _ { s } f _ { r s } ( t ) \\geq C _ { A } ^ { s }$ ，则未分配的剩余流量（分配后剩余的流量）进入下一次迭代；若未达到容量约束，该段航路仍有剩余容量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)更新航路阻抗。将分配得到的流量 $f _ { \\mathrm { r s } } , \\forall r , s \\in E$ 加载到航路网络，得到新的航路阻抗 $\\mathbf { c } ^ { i } ( f _ { r s } ( t ) )$ ，并转换成新的效率矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)收敛判断。设 $f _ { \\mathrm { r s } }$ 为各个时间段需分配的总流量，若ΣΣ∑fs=frs，则停止迭代；否则，返回第a)步。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真算例",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1算例构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中南和西南空管局所辖空域是我国最繁忙的空域之一，故选取该地区空域验证本文的模型与算法。算例数据来源于中南和西南空管局提供的2016年11月空域流量统计数据，以MATLAB2017a作为运算平台，验证上文的模型与算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2仿真结果 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2.1通行能力的增加",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据2016年的统计数据，剔除诸如军航活动、危险天气等流量异常数据，仿真空域六个主要民用机场：成都双流机场、重庆江北机场、桂林两江机场、南宁吴圩机场、张家界荷花机场和贵阳龙洞堡机场的日均进场和离场通行能力，见表1、2。由表1、2和历史数据可得成都双流机场和重庆江北机场面临较大的管制运行压力。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5891a14ff7e0accb9c5dbdce3488c2ca259cef12980377362101d2a82db4a217.jpg",
+        "table_caption": [
+            "表1优化前的进场交通量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>成都双流</td><td>重庆江北</td><td>桂林两江</td><td>南宁吴圩</td><td>张家界荷花</td><td>贵阳龙洞堡</td></tr><tr><td>8:00-9:00</td><td>33</td><td>27</td><td>5</td><td>8</td><td>1</td><td>19</td></tr><tr><td>9:00-10:00</td><td>22</td><td>22</td><td>10</td><td>8</td><td>1</td><td>17</td></tr><tr><td>10:00-11:00</td><td>16</td><td>27</td><td>8</td><td>16</td><td>1</td><td>31</td></tr><tr><td>11:00-12:00</td><td>19</td><td>21</td><td>4</td><td>14</td><td>1</td><td>12</td></tr><tr><td>12:00-13:00</td><td>21</td><td>27</td><td>10</td><td>6</td><td>3</td><td>17</td></tr><tr><td>13:00-14:00</td><td>20</td><td>18</td><td>6</td><td>7</td><td>4</td><td>12</td></tr><tr><td>14:00-15:00</td><td>27</td><td>23</td><td>11</td><td>12</td><td>3</td><td>13</td></tr><tr><td>15:00-16:00</td><td>29</td><td>21</td><td>10</td><td>9</td><td>2</td><td>18</td></tr><tr><td>16:00-17:00</td><td>15</td><td>23</td><td>3</td><td>10</td><td>1</td><td>17</td></tr><tr><td>17:00-18:00</td><td>24</td><td>22</td><td>6</td><td>8</td><td>1</td><td>13</td></tr><tr><td>18:00-19:00</td><td>21</td><td>23</td><td>8</td><td>12</td><td>3</td><td>13</td></tr><tr><td>19:00-20:00</td><td>22</td><td>22</td><td>8</td><td>13</td><td>2</td><td>13</td></tr><tr><td>20:00-21:00</td><td>22</td><td>22</td><td>6</td><td>8</td><td>2</td><td>18</td></tr><tr><td>21:00-22:00</td><td>17</td><td>12</td><td>5</td><td>3</td><td>4</td><td>7</td></tr><tr><td>22:00-23:00</td><td>8</td><td>12</td><td>5</td><td>5</td><td>6</td><td>8</td></tr><tr><td>23:00-23:59</td><td>4</td><td>3</td><td>1</td><td>1</td><td>1</td><td>3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用改进的匈牙利算法对上述6个机场进行运算求解，可算得表3和4所示的优化后的通行能力，两个空域繁忙的机场：成都双流与重庆江北的通行能力有明显的提升。但是由于桂林两江机场、南宁吴圩、张家界荷花和贵阳龙洞堡虽然本身不存在空域拥挤，但整个空域网络是一个系统，拥挤空域的优化使更多的航空器避免了地面等待，这4个机场的流量也出现增加。以双流机场和江北机场两个繁忙机场为例，算法能将进场通行能力提升 $8 . 3 7 2 \\%$ ，离场通行能力提升$8 . 9 9 9 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/52216367103c878c0e91627ac23de4d5c1418963b6e6c528b2d95af6ce22f57c.jpg",
+        "table_caption": [
+            "lable 2Number of departure aircrafts before optimization ",
+            "表3优化后的进场交通量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">成都双流 重庆江北 桂林两江 南宁吴圩</td></tr><tr><td>8:00-9:00</td><td>11</td><td>20</td><td>9</td><td>5</td><td>张家界荷花 1</td><td>贵阳龙洞堡 20</td></tr><tr><td>9:00-10:00</td><td>23</td><td>26</td><td>7</td><td>19</td><td>1</td><td>18</td></tr><tr><td>10:00-11:00</td><td>27</td><td>27</td><td>6</td><td>13</td><td>1</td><td>17</td></tr><tr><td>11:00-12:00</td><td>26</td><td>35</td><td>8</td><td>7</td><td>2</td><td>18</td></tr><tr><td>12:00-13:00</td><td>27</td><td>25</td><td>9</td><td>12</td><td>3</td><td>14</td></tr><tr><td>13:00-14:00</td><td>25</td><td>30</td><td>10</td><td>9</td><td>3</td><td>19</td></tr><tr><td>14:00-15:00</td><td>20</td><td>26</td><td>9</td><td>10</td><td>3</td><td>16</td></tr><tr><td>15:00-16:00</td><td>21</td><td>28</td><td>3</td><td>9</td><td>1</td><td>12</td></tr><tr><td>16:00-17:00</td><td>22</td><td>25</td><td>8</td><td>10</td><td>2</td><td>16</td></tr><tr><td>17:00-18:00</td><td>24</td><td>26</td><td>8</td><td>13</td><td>1</td><td>16</td></tr><tr><td>18:00-19:00</td><td>24</td><td>25</td><td>6</td><td>11</td><td>3</td><td>16</td></tr><tr><td>19:00-20:00</td><td>30</td><td>25</td><td>6</td><td>10</td><td>2</td><td>15</td></tr><tr><td>20:00-21:00</td><td>27</td><td>27</td><td>7</td><td>7</td><td>3</td><td>10</td></tr><tr><td>21:00-22:00</td><td>33</td><td>35</td><td>6</td><td>6</td><td>4</td><td>19</td></tr><tr><td>22:00-23:00</td><td>35</td><td>30</td><td>4</td><td>12</td><td>4</td><td>17</td></tr><tr><td>23:00-23:59</td><td>40</td><td>35</td><td>3</td><td>7</td><td>2</td><td>11</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f16f92e59f1042846e040c8ec6cf0cc5621a8b1a87e3afb7ffa1dc43ce47d741.jpg",
+        "table_caption": [
+            "表2优化前的离场交通量",
+            "lable 3Number of approach aircrafts after optimizatior "
+        ],
+        "table_footnote": [
+            "表4优化后的离场交通量"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>成都双流</td><td>重庆江北</td><td>桂林两江</td><td>南宁吴圩</td><td>张家界荷花</td><td>贵阳龙洞堡</td></tr><tr><td>8:00- 9:00</td><td>33</td><td>30</td><td>5</td><td>9</td><td>1</td><td>22</td></tr><tr><td>9:00-10:00</td><td>25</td><td>25</td><td>12</td><td>10</td><td>1</td><td>20</td></tr><tr><td>10:00-11:00</td><td>19</td><td>28</td><td>9</td><td>16</td><td>1</td><td>35</td></tr><tr><td>11:00-12:00</td><td>20</td><td>24</td><td>4</td><td>15</td><td>1</td><td>15</td></tr><tr><td>12:00-13:00</td><td>24</td><td>29</td><td>11</td><td>6</td><td>3</td><td>18</td></tr><tr><td>13:00-14:00</td><td>22</td><td>20</td><td>6</td><td>7</td><td>5</td><td>12</td></tr><tr><td>14:00-15:00</td><td>28</td><td>25</td><td>13</td><td>13</td><td>3</td><td>13</td></tr><tr><td>15:00-16:00</td><td>30</td><td>25</td><td>14</td><td>10</td><td>2</td><td>1</td></tr><tr><td>16:00-17:00</td><td>17</td><td>24</td><td>3</td><td>11</td><td>1</td><td>18</td></tr><tr><td>17:00-18:00</td><td>25</td><td>25</td><td>6</td><td>9</td><td>1</td><td>13</td></tr><tr><td>18:00-19:00</td><td>23</td><td>24</td><td>9</td><td>12</td><td>3</td><td>13</td></tr><tr><td>19:00-20:00</td><td>24</td><td>23</td><td>10</td><td>13</td><td>2</td><td>13</td></tr><tr><td>20:00-21:00</td><td>24</td><td>24</td><td>6</td><td>9</td><td>2</td><td>19</td></tr><tr><td>21:00-22:00</td><td>20</td><td>12</td><td>5</td><td>3</td><td>4</td><td>7</td></tr><tr><td>22:00-23:00</td><td>8</td><td>12</td><td>5</td><td>5</td><td>6</td><td>8</td></tr><tr><td>23:00-23:59</td><td>4</td><td>3</td><td>1</td><td>1</td><td>1</td><td>3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1130f968d7a17a1e241f57e05f4fc4773982ccdf04294884187f173eecab9d84.jpg",
+        "table_caption": [
+            "'able 1Number of approach aircrafts before optimization ",
+            ".able 4Number of departure aircrafts after optimization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>成都双流</td><td>重庆江北</td><td>桂林两江</td><td>南宁吴圩</td><td>张家界荷花</td><td>贵阳龙洞堡</td></tr><tr><td>8:00- 9:00</td><td>11</td><td>20</td><td>11</td><td>5</td><td>1</td><td>20</td></tr><tr><td>9:00- 10:00</td><td>23</td><td>26</td><td>7</td><td>19</td><td>1</td><td>18</td></tr><tr><td>10:00-11:00</td><td>27</td><td>27</td><td>6</td><td>13</td><td>1</td><td>18</td></tr><tr><td>11:00-12:00</td><td>26</td><td>35</td><td>8</td><td>9</td><td>2</td><td>18</td></tr><tr><td>12:00-13:00</td><td>27</td><td>25</td><td>9</td><td>12</td><td>3</td><td>16</td></tr><tr><td>13:00-14:00</td><td>25</td><td>30</td><td>10</td><td>11</td><td>3</td><td>19</td></tr><tr><td>14:00-15:00</td><td>20</td><td>26</td><td>9</td><td>10</td><td>3</td><td>16</td></tr><tr><td>15:00-16:00</td><td>21</td><td>28</td><td>3</td><td>9</td><td>1</td><td>12</td></tr><tr><td>16:00-17:00</td><td>22</td><td>25</td><td>8</td><td>12</td><td>2</td><td>18</td></tr><tr><td>17:00-18:00</td><td>24</td><td>26</td><td>8</td><td>15</td><td>1</td><td>16</td></tr><tr><td>18:00-19:00</td><td>24</td><td>25</td><td>6</td><td>11</td><td>3</td><td>17</td></tr><tr><td>19:00-20:00</td><td>30</td><td>25</td><td>6</td><td>10</td><td>2</td><td>15</td></tr><tr><td>20:00-21:00</td><td>27</td><td>27</td><td>7</td><td>7</td><td>3</td><td>10</td></tr><tr><td>21:00-22:00</td><td>33</td><td>35</td><td>6</td><td>6</td><td>4</td><td>21</td></tr><tr><td>22:00-23:00</td><td>35</td><td>30</td><td>4</td><td>12</td><td>4</td><td>17</td></tr><tr><td>23:00-23:59</td><td>40</td><td>35</td><td>3</td><td>7</td><td>2</td><td>11</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2.2延误时间的优化减少 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过式（4）（5）计算航路网络的延误，仿真空域最繁忙的两个机场优化前与优化后的延误水平如图1、2所示。成都双流机场的延误水平平均下降 $3 \\mathrm { m i n }$ ，重庆江北机场的平均延误下降 $2 ~ \\mathrm { m i n }$ 。国际民航组织定义延迟起飞超过 $1 5 \\mathrm { m i n }$ 便构成延误，算法将高峰时间段每架飞机的平均延误大多控制在 $1 5 \\mathrm { m i n }$ 以内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25  \n15  \n10  \n5  \n08:00-9:00 9:00-10:00 10:00-11:00 11:00-12:00 13:00-14-00 14:00-15:00 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00 19:00-20:00 21:0-2000 22:00-23:00 23:00-23:59时间段·优化后 一一优化前  \n6.4 206420  \n8:00-9:00 9:00-10:00 10:00-11:00 11:00-12:00 12:00-13:00 13:00-1 14:00-1 15:00-1 16:00-1 17:00-18 18:00-1 19:00-20:00 20:00-21:00 21:00-22:00 22:00-23:00 23:00-23:5914:00 15:00 16:00 7:00 18:00 19:00时间段·化后 一一优化前",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.3计算时间的减少",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过MATLAB2017a软件使用改进的匈牙利算法求解模型，算法运行环境为1台CPU为IntelCorei5-45903.30GHz,4GB内存的台式计算机。逐步扩大仿真空域的节点的数目对比改进后的算法与原算法的求解时间与迭代次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0454cd234e0b4b96fc7d17e84ad0fe7e737dec9f3aa6227af53f230f66dea2b1.jpg",
+        "table_caption": [
+            "表5算法求解性能分析",
+            "Table 5Algorithm performance analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">节点数</td><td colspan=\"2\">改进的匈牙利算法</td><td colspan=\"2\">经典匈牙利算法</td></tr><tr><td>求解时间</td><td>迭代次数</td><td>求解时间</td><td>迭代次数</td></tr><tr><td>8</td><td>5s</td><td>12</td><td>6s</td><td>23</td></tr><tr><td>16</td><td>11s</td><td>31</td><td>31s</td><td>179</td></tr><tr><td>32</td><td>51s</td><td>144</td><td>172s</td><td>401</td></tr><tr><td>64</td><td>192s</td><td>511</td><td>376s</td><td>1282</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表5可得，随着节点数量的增大，网络规模的逐渐复杂，改进的匈牙利算法的效率优势越来越明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据航路网络规模大、拥挤程度随流量和时间变化的特点，建立了流量指派的0-1整数规划模型，同时构建规则简化了效率矩阵的计算，有效地减少了算法的迭代次数，同时使用变化的费用函数替代效率矩阵不变的系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以西南空管局与中南空管局所辖部分空域作为算例，以历史数据计算仿真空域上主要机场的通行能力，并使用建立的模型与改进的匈牙利算法对所辖空域进行优化，仿真结果表明，优化模型与改进的匈牙利算法可以有效地提升航路网络通仃能刀，降低母架航空器的平均延误且昇法相比于经典匈牙利算法具有效率优势，更适用于实际的管制运行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]王航臣．基于级联失效的航路网络中关键航路识别算法[J]．航空 计算技术，2017，47(6):32-35.(Wang Hangchen．An algorithm of recognizing key airway in network based on cascade failure theory [J]. Aeronautical Computing Technique,2017(6): 32-35.)   \n[2]Sama M,D'Ariano A,D'Ariano P,et al. Scheduling models for optimal aircraft traffic control at busy airports: tardiness,priorities,equity and violations considerations [J]. Omega,2017,67(3): 81-98.   \n[3]Safak O, Gürel S,Akturk M S. Integrated aircraft-path assgnment and robust schedule design with cruise speed control[J]. Computers & Operations Research,2017,84:127-145.   \n[4]赵飞.管制区短期空中交通流量管理的时隙-航线分配模型及算 法[J]．航空学报，2009,30(1):121-126.(Zhao Yifei．Time-route Assignment Model and Algorithm for Short-term Area Trafic Flow Management [J]. Acta Aeronautica et Astronautica Sinica,20o9,30(1): 121-126.）   \n[5]Sama M, D'Ariano A,D'Ariano P,et al. Optimal aircraft scheduling and routing at a terminal control area during disturbances [J]. Transportation Research Part C: Emerging Technologies，2014，47: 61-85.   \n[6]Bertsimas D,Lull G, Odoni A.An integer optimization approach to large-scale air traffic flow management [J]. Operations Research,2011, 59: 211-227.   \n[7]王莉莉，王鑫，彭勃．移动式发散型恶劣天气下改航模型和算法研 究[J].飞行力学,2017,35(2):84-87.(Wang Lili,Wang Xin,Peng Bo. Research on the rerouting model and algorithm under adverse weather with moving and diverging.Flight Dynamics,2017,35(2): 84-87.)   \n[8]Xu Y,Prats X. Efects of linear holding for reducing additional flight delays without extra fuel consumption [J]. Transportation Research Part D: Transport and Environment, 2017,53: 388-397.   \n[9]胡明华，裔田园，任禹蒙．基于改进匈牙利算法的机场航班时刻优 化研究[J/OL].计算机应用研究，2019，36(8)．[2018-04-24]. http://www.arocmag.com/article/02-2019-08-012.html. (Hu Minghua, Yi Tianyuan，Ren Yumeng.Optimization of airport slot based on improved Hungarianalgorithm[J/OL]. Application Researchof Computers2019,36(8).[2018-04-24]. http://www. arocmag.com/article/ 02-2019-08-012. html. )   \n[10] RibeiroNA,Jacquillat A,Antunes AP,et al. Anoptimizationapproach forairport slot allocation under IATA guidelines [J]. Transportation Research Part B: Methodological,2018,112: 132-156.   \n[11]田勇，万莉莉，叶博嘉，等．基于降低温室效应的飞行高度层分配优 化[J]．西南交通大学学报，2018,53(2):400-405.(Tian Yong，Wan Lili,Ye Bojia,et al.Flight level allocation optimization to reduce greenhouse effect [J]. Journal of Southwest Jiaotong University,2018, 53(2): 400-405. )   \n[12]熊燕华.对国内求解指派问题的匈牙利法改进的评述[J]．中国制造 业信息化，2009，38(21):63-66,70.(Xiong Yanhua.Comments on improvement of Hungarian method for assignment problem in China [J]. Manufacture Information Engineering of China,2O09,38 (21): 63-66,70.   \n[13]AhujaRK,Magnanti TL,OrlinJB.Network flows: theory,algorithms, and applications [M].Prentice Hall,1993:1-17.   \n[14]丁峰，贺尔铭，吴盘龙．空中交通自动化管理中飞机等待队列的排 序算法[J]．西北工业大学学报，2001，19(3):456-460.(Ding Feng， He Erming,Wu Panlong.Optimal-window algorithm for scheduling ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "arrival aircraft [J]. Journal of Northwestern Polytechnical University, 2001,19(3):456-460.) [15]《运筹学》教材编写组.运筹学[M].4版.北京：清华大学出版社,2012: 349-379.(Operation Research Textbook Writing Group．Operation research [M].4th ed.Beijing:Tsinghua University Press，2012: 349-379.) ",
+        "page_idx": 4
+    }
+]

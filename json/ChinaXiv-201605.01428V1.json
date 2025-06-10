@@ -1,0 +1,642 @@
+[
+    {
+        "type": "text",
+        "text": "MolecularCell ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EM Structure of Influenza Virus RNA Polymerase Complex at 4.3 A Resolution ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphical Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fae3a0516e5c8255949aeff4e98c9da8b452f5589a37dc29f9b057daad20ad9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shenghai Chang, Dapeng Sun.,., Hong-Wei Wang, Yingfang Liu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "hongweiwang@tsinghua.edu.cn (H.-W.W.), liuy@ibp.ac.cn (Y.L.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InBrief ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this issue, Chang et al. obtained a $4 . 3 \\mathring { \\mathsf { A } }$ cryo-EM structure of an influenza A RdRP tetramercomplex,revealingassembly and interfaces within the RdRP oligomer. A potential mechanism for the oligomer state transition during replication is discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An influenza A virus RNA polymerase (RdRP) subcomplex was purified   \nA 4.3 A cryo-EM structure of tetrameric influenza RdRP has been reconstructed The monomeric subcomplex has been revealed as a cagelike structure The interfaces involved inthe formationof the tetramer structureare shown ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EM Structure of Influenza Virus RNA Polymerase Complex at 4.3 A Resolution ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shenghai Chang,17DapengSun,17HuanhuanLiang,17JiaWang,2JunLi,1LuGuo,1 Xiangli Wang,1ChengchengGuan,1 Bhargavi M.Boruah,1 Lingmin Yuan,1Feng Feng,1 MingruiYang,1Lulan Wang,5,6Yao Wang,5,6Justyna Wojdyla,3 Lanjuan Li,4 Jiawei Wang,2 Meitian Wang, Genhong Cheng,5,6 Hong-Wei Wang,2,\\* and Yingfang Liu1,4,\\* ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1NationalKeyLboratoryofomacromolecues,UversityfCnesecademyofiences,stituteofopsics,ineadeyf   \nSciences,Beijing, China 100101   \n2MinistryofEducationKeyLboratoryofProteinScience,Tsinghua-PekingJointCenterforLifeSiences,CenterforStructuralBiology   \nSchool of Life Sciences,Tsinghua University, Beijing, China,100084   \n3Swiss Light Source,Paul Scherrer Institute,Villigen,Switzerland CH-5232   \n4TheStateKeybraDstaedspialClofiZjUsity;Cllbratioe   \nDTID,79 Qingchun Road, Hangzhou 310003,China   \n5Departmentof Microbiology,Immunologyand Molecular Genetics,Universityof California,LosAngeles,USACA90095   \n6CenterofSystemMedicine,InstituteofBasicMedicalSciences,ChineseAcademyofMedicalSciences&PekingUnion MedicalCollege,   \nBeijing,China 100005   \n7Co-first authors   \n\\*Correspondence: hongweiwang@tsinghua.edu.cn (H.-W.W.),liuy@ibp.ac.cn (Y.L.)   \nhttp://dx.doi.org/10.1016/j.molcel.2014.12.031 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Replication andtranscription ofinfluenza virus genome mainly depend on its RNA-dependent RNA polymerase (RdRP), composed of the PA, PB1,and PB2 subunits. Although extensively studied, the underlying mechanism of the RdRP complex is still unclear.Herewereportthebiochemicalcharacterization of influenza RdRP subcomplex comprising PA,PB1,and N terminus of PB2,which exist as dimer in solution and can assemble into a tetramer state, regulated by vRNA promoter. Using single-particle cryo-electron microscopy，we have reconstructed the RdRP tetramer complex at $4 . 3 \\mathring { \\mathsf { A } } ,$ ，highlighting the assembly and interfaces between monomers within the tetrameric structure.The individual RdRP subcomplex contains all the characterized motifs andappears as a cage-like structure.High-throughput mutagenesis profiling revealed that residues involved in the oligomer state formation are critical for viral life cycle. Our results lay a solid base for understanding the mechanism of replication of influenzaandothernegative-strandedRNAviruses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The influenza virus is a negative-sense, single-stranded RNA virusbelonging to Orthomyxoviridae familywhose pathogenicity has brought significant long-term threat to human health.Influenzavirus contains eight segmented RNAs as its genome,which can synthesize at least 16 proteins.The influenza RNA-dependent RNA polymerase (RdRP),a heterotrimer with a mass of about $2 5 0 ~ \\mathsf { k D a }$ ，is composed of three subunits，namely PA, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PB1，and PB2.RdRP plays a central role in replication and transcription of the viral RNAs (vRNAs) (Fodor，2013).It is responsible for both viral replication and transcription，which can produce three different types of RNAs-vRNA,complementary RNA (cRNA),and messenger RNA (mRNA). In the virus, influenza RdRP subunits are bound to the ${ \\boldsymbol { 5 } } ^ { \\prime }$ and $3 ^ { \\prime }$ ends of the viral genome RNAs and are further wrapped with nucleoproteins to form viral ribonucleoproteins (vRNP and cRNP) (Tiley et al., 1994). The ${ \\boldsymbol { 5 } } ^ { \\prime }$ and $3 ^ { \\prime }$ ends of genomic vRNAs or cRNAs act as promoter during RNA synthesis and remain partially paired, resemblingacorkscrewstructure (Flick etal.，1996;Tomescu et al.，2014). Binding of RdRP to the promoter RNA is crucial forboth transcription and replication,in which the wholeviral RNPs act as template. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tofulfill viral replication and transcription, the three subunits of the influenza RdRP concisely cooperate with each other.A cis-acting model proposed that only one RdRP is involved during the transcriptional process (Fodor et al.，1994;Hagen et al., 1994; Luytjes et al.,1989),whereby pre-mRNAs from host cells are snatched by the ${ \\boldsymbol { 5 } } ^ { \\prime }$ -capbindingdomain of PB2and cleaved to forma 10-13 nucleotide (nt) primer by the endonuclease activityharboredby the N terminus of PA (PA_N) (Dias etal., 2009; Fechter et al.， 2003; Guilligay et al.， 2008; Hara et al.， 2006; Nakagawa et al.， 1995; Plotch et al.， 1981; Yuan et al., 2009). The $5 ^ { \\prime }$ -cap-containingprimeris then involved inelongation of mRNAalongvRNA genome by the PB1 subunit,which contains conserved RdRP motifs; transcriptase stops at the polyU position,17-22 bases away from the $5 ^ { \\prime }$ end of vRNA (Fodor et al., 1994; Hagen et al., 1994; Robertson et al., 1981). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Influenza virus replication is distinct from transcription in that initiation can take place in the absence of primer to produce a full copy of the vRNA genome through a cRNA synthesis intermediate step (de novo synthesis without adding $5 ^ { \\prime }$ -cap structures and polyA tails) (Deng et al.,2006a, 2006b; Zhang et al., 2010).Furthermore,in contrast to transcription,more than one RdRP complex has been reported to coordinate in trans during viral replication (Jorba etal., 2009; Moelleretal., 2012).Electron microscopy (EM) studies suggested that apart from the RdRP located at the termini of RNP structure,a new RdRP is recruited duringsynthesis of corresponding RNAs (Moeller et al.,2012) which is proposed to fulfill genome RNA replication process (Jorba et al., 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In contrast to double-stranded and positive-stranded viruses (Ng et al.,20o8), the functional mechanisms underlying RdRP fromnegative-stranded RNAviruses are still elusive,probably due to complexity in the structural organization of RdRP.Lowresolution EM structures of viral RNP showed that the RdRP has an overall cage-like structure and probably undergoes conformational changes to fulfill its multiple functions (Area et al.， 2004; Arranz et al., 2012; Moeller et al., 2012; Torreira etal.,2007).Previously reported crystal structures of PA_C (residues 256-716)/PB1 (residues 1-25) and PB1 (residues 680- 759)/PB2 (residues 1-37) complexes suggest that the three subunits bind to each other in a head-to-tail model in the order of PA-PB1-PB2 (Fodor, 2013; He et al., 2008; Obayashi et al., 2008; Ohtsu et al., 2002; Sugiyama et al., 2009). Structures of the cap-binding domain and C terminus of PB2 have been determined (Guilligay et al., 20o8; Kuzuhara et al., 20o9). But it is still unclear how this exquisite replication machine is assembled to fulfill its diverse functions.It will be of particular interest to know how the cis and trans conformations during transcription and replication processes are regulated and how a new RdRP isrecruited at the beginning of replication.An integral and detailed structure of influenza RdRPis essential forunderstanding the assembly,oligomerization,and versatile functions mediated by the complex. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For determination of the structural assembly of influenza RdRP,we purified an RdRP subcomplex (termed as subcomplex I) of influenza type A virus comprising full-length PA and PB1 subunits and the N-terminal 130 amino acids fragment of PB2 (PB2_N). The complex was reconstructed at $4 . 3 \\mathring { \\mathsf { A } }$ resolution by cryo-electron microscopy (cryo-EM) single-particle method, which clearly demonstrates the relative position of PA_C,PB1, andPB2_Nina tetramerstate.Further biochemicaland functional analysis suggests a dual RdRP-involved RNA synthesis model for the replication of influenzavirus.Our data providea structural basis for understanding the assembly and regulatory mechanism of influenza RdRP replication，and pave the way forexploring functional mechanisms of other negative-strand RNA viruses,for instance,Ebola virus,which has recently spread at analarming rate and gained pandemic status in West Africa. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assemblyand Oligomeric State of Influenza RdRP ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The influenza A virus (strain A/goose/Guangdong/1/96/H5N1) RdRP was expressed in Trichop lusiani(BTl-Tn5B1-4, Hi5) insect cell line using Bac-to-Bac baculovirus expression system (Invitrogen Inc.). Initial attempts to purify the full-length protein complex proved to be challenging due to repeated degradation of PB2 subunit at the C terminus, leaving only about 130 residues at the N terminus (confirmed through MS spectrometry and proteinsequencing).We therefore re-engineered the subcomplex I, whichappeared as an ${ \\sim } 2 0 0$ kDa monomeric heterotrimer.The subcomplex lexisted as dimer in solution with an apparent molecularweight ofabout $4 0 0 \\mathsf { k D a }$ ,as evident through size-exclusion chromatography (Figure 1A).Upon incubation with either vRNA or cRNA promoter, the dimer spontaneouslyassembled into a tetrameric state (Figures 1A and 2A).Existence of the tetrameric RdRP conformation was found to be consistent in all tested strains of influenza virus,including strain A/Brevig Mission/1/1918(H1N1)， A/PR/8/34(H1N1)， A/Victoria/3/1975 (H3N2)，and A/goose/Guangdong/1/96 (H5N1) (all the RdRP subcomplexes lacked the C-terminal residues of PB2;datanot shown).Furthermore,subcomplex l could also oligomerize into a tetramerstate in the presence of single-stranded ${ \\boldsymbol { 5 } } ^ { \\prime }$ arm of promoter vRNA or cRNA (Figures 1C and 1D,blue lines),suggesting thattetramerization is dependent on the presence of ${ \\boldsymbol { 5 } } ^ { \\prime }$ arm of viral promoterRNA.However,uponaddition of single-stranded $3 ^ { \\prime }$ arm of promoter RNA (vRNA or cRNA) to the RNA-free polymerase,a significant portion of the dimer dissociated into monomers (Figures 1C and 1D,magenta lines).Based on these results,we hypothesize that the oligomerization state of influenza RdRP is regulated by binding of RNA promoter.To analyze thedimerization interface,we madeaseries of truncationsand subsequently identified another subcomplex (named as subcomplex Il) including full-length PA and PB1 subunits along withthe N-terminal 86 residues of PB2.Subcomplex Il failed to dimerize and existed only as monomer in solution，with or without viral promoter RNA (Figure 1B).These results indicate that residues 86-130 of PB2 are crucial for oligomerization of influenza RdRP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ArchitectureofRdRPSubcomplexl ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using state-of-the-art cryo-EM instrument of a $3 0 0 ~ \\mathsf { k V }$ FEG transmission electron microscope equipped with a direct electron-counting camera,we performed cryo-EM analysis of subcomplex丨in the presence of vRNA promoter.An overall $6 . 8 \\mathring { \\mathsf { A } }$ resolution cryo-EM map for the complex was calculated (see Supplemental Experimental Procedures). Consistent with the elution profile from size-exclusion chromatography,we obtained a tetrameric structure resemblinga flat square with each monomerat the corners following D2 symmetry-two complexes at diagonal positions facing up and the other two facing down (Figures 2 and 5，and see Figures S1 and S2 online)．Overall dimension of this square tetrameric structure is about $1 8 0 \\times$ $1 5 0 \\times 7 0 \\mathring { \\mathsf { A } } ^ { 3 }$ with a central empty space of $9 0 \\times 4 5 \\times 7 0 \\mathring { \\mathsf { A } } ^ { 3 }$ Two types of monomer interaction exist at the interface一one ismore rigid,and the other is relatively flexible (Figures 2，5 $\\mathsf { S 1 G }$ ,and S2B).We therefore could distinguish the two dimers in the tetramer assembly.To further improve the resolution,a soft mask including the rigid dimer within the tetramer (Figure S2C) wasapplied,and iterative 3D refinement of the same dataset was performed.The processdramatically increased resolution of the dimer to a final $4 . 3 \\mathring { \\mathsf { A } }$ (Figures 2B and S2). The near-atomic resolution of the electron density map enabled clear identification of major secondary structural elements with additional bulky side chains (Figures 2C and S3;Movie S1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Atomic Model of the RdRP Complex ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the high-resolution 3D reconstruction，we were able to isolate the subcomplexlmonomer that revealedasa cage-like structure with dimensions of $9 0 \\times 7 5 \\times 7 0 \\mathring { \\mathsf { A } } ^ { 3 }$ (Figure 2C), similar to previous cryo-EM results as well as with RdRP structure of reovirus (RV) (Area et al., 2004; Tao et al., 2002; Torreira et al., 2007). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d628902f1f5a10b4e58859d1f03cfd9a4db075e8f8062f398ca4bd0f2a75f78.jpg",
+        "img_caption": [
+            "Figure1.OligomerStatesof the Purified Subcomplexes (A) Size-exclusion chromatography and SDS-PAGE analysis of subcomplex I.The UV absorptions at $2 8 0 \\mathsf { n m }$ and $2 6 0 \\mathsf { n m }$ are shown as solid and dashed lines, respectively.The elution volumes of RNA-free (in black) and RNA-bound (in blue) samples are $5 8 ~ \\mathrm { m l }$ and $5 3 ~ \\mathsf { m l }$ ,respectively,suggesting dimerand tetramer formation. (B)Size-eclusiocomatogaofsubomplexl,siilartureoth-fr(inbac)andbundsamples(ineeutedt $6 3 ~ \\mathrm { m l }$ with an apparent molecular weight of $2 0 0 \\mathsf { k D a }$ ,suggesting monomericstateof thecomplex.The bandsforPB1andPB2subunitsareindicated in the SDS-PAGEanalysis result shownon the right panel,while the smallfragment (residues 1-86) from PB2 is invisible in the gel. (C and D) Oligomeric state transition of subcomplex linduced by $5 ^ { \\prime }$ or $3 ^ { \\prime }$ arms of promoter.The result of RNA-free sample is shown in black.Results for the $5 ^ { \\prime }$ arm (in blue) or $3 ^ { \\prime }$ arm (in magenta)of vRNA and cRNA promoter binding to subcomplex lare shown in (C)and (D),respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initially,we docked the structure of PA_C (PDB ID code 3CM8) into the EM map (He et al.， 2008) (see Supplemental Experimental Procedures).The positivelycharged groove, initially identified in PA_C,is located toward the cavity.All the helicesand most of the strands belonging to PA_C domain could be wellfitted onto the map (Figures 2C,3A,and S5B); some additional sidechains in this domain were also visible (Figures S3A-S3F). The PB1 model was built de novo by combining the $4 . 3 \\mathring { \\mathsf { A } }$ resolution cryo-EM density map and bioinformatics approaches such assequence alignment of the characterized RdRP motifs,secondary structure prediction，and topology analysis of some known RdRPs of viruses (Figure S4; Supplemental Experimental Procedures) (Andino et al.， 1993; Butcher et al., 2001; Ferrer",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Orta et al., 2004; Tao et al., 2002; Zamyatkin et al., 2008). The final PB1 model was built with polyalanine which contained 21 helices,covering most of the predicted helices in N-terminal 620 amino acids of PB1 with some interruptions in some regions (Figures 3A,3B,S4B,and S5A). After building the core region of PB1 subunit,we assigned the densities, located besides the thumb domain of PB1,to be the C-terminal part (PB1_C, residues 620-757) and PB2_N. Due to low resolution at this region, we could only build six additional helices to depict the model (Figures 2C, 3A, and S5B; Movie S1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The structure of PB1 resembles a ring-like structure (Figures 3C and S5A).Briefly,PB1_N peptide (residues 1-16) is bound by the mouth region of PA_C.The following peptide traverses across the inner surface of the cavity and goes down toward the finger domain.The peptide,covering residues 40-480, folds into the palm (top) and finger domains (bottom)，respectively (right part of Figure 3A). The peptide chain (residues 480-620) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/56f5441ea55364c68d867100f47939769cc5e3bf544034b13316510ae4690188.jpg",
+        "img_caption": [
+            "Figure 2. Cryo-EMMapofSubcomplexI "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A)Representative 2D class averages of tetrameric subcomplex 丨 cryo-EM images. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(B) 3D map of the tetrameric subcomplex l at $4 . 3 \\mathring { \\mathsf { A } }$ resolution,depicting a square structure with four monomers.The model is a composition of two 3D reconstructions of the dimer portion within a tetramer.The three orthogonal viewsare all along the apparent 2-fold symmetry of each view.For clarity,in the two side views only the front dimer is shown. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(C)Atomic models of the PA_C (purple)，PB1 (yellow)，unassigned region (cyan),and promoter RNA (two strands in green and brown,respectively) docked in the 3D map of a monomer at the upper-left corner of the tetramer model in (B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seealso Figures S1 and S2 and Movie S1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "goes from the palm region to the upper part of PA_C,in which the C-terminal thumb domain is further folded (Figures S4B and S5A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Further search for homology using Dali server (http://ekhidna. biocenter.helsinki.fi/dali_server/start) showed that thestructure ofPB1 shares high similarity to those known RdRPs,such as hepatitis C virus (HCV) (HS5B,PDB ID code 2BRK),polio virus (PV) (PDB ID code 3OL6),and foot and mouth disease virus (FMDV) (PDB ID code 3KOA) with a normal root-mean-square deviation (rmsd) of around $3 . 5 { - } 4 \\mathring { \\mathsf { A } }$ (Ago et al., 1999; Andino et al.,1993; Bressaneli et al., 1999; Lesburg et al., 1999) (Figures ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4A and S5C).Most of the secondary structure elements of these proteins could be aligned, including locations of the characterized RdRP motifs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To sum up, the PA_C domain is located on the left part of the subcomplex structure,while the finger and palm domain of PB1 is located on the right part.The thumb domain of PB1 is seated on the top of the PA_C molecule (Figure 3A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cage Cavity Formed by PA_C and PB1 for RNA Binding ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The assembly of PA_Cand PB1 creates a partially enclosed empty central cavity,withinwhichasignificantbut unassigned density bearing the shape of a shortbending sheetis located at the bottom of thecavitybetweenPB1 fingerdomainandPA_Cbrainregion (Figures 2C and S3G-S3l).As reported earlier, the vRNA promoter has been predicted to contain an unpaired 9-10 nt region followed bya 5-6 base-paired region (Tomescu et al., 2014). The bending sheet-like density could be well-modeled witha6 base-paired double-stranded RNA structure (Figures 3A and S3G).We propose this to be the paired promoter RNA.Furthermore,a potential density for one arm of the unpaired vRNA chains could be located toward the inner surface close to the semicircular positively charged groove and neck region of PA_C (Figure S3H). The densities for the otherarm of the promoter could notbe well-defined, although we detected a discontinued unassigned density following the duplex RNA region,extending toward the bottom of PB1 finger domain (Figure S3l).The low resolution of the density mapmay result from the potential flexibility of this RNA chain. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Some vRNA binding regions in the RdRP complex have been reported previously (Fodor et al.，1993；Gonzalez and Ortin, 1999；Li et al., 1998). Residues 1-83,233-256,571-572,and 493-759 in PB1 were implicated to be involved in vRNA promoter binding.Therefore, the cavity formed by PA_C and PB1 can be presumed to be the site for RNA binding and synthesis. PA_C and the thumb domain provide the left side and upper surface of the cavity,while PB1 fingerand palm domain constitute the right side.Furthermore,a few positively charged residues in the semicircular groove of PA，including Lys539,Arg566, and Lys574,were found to be highly conserved,and their mutations disrupted all three types of RNA synthesis activity as well as ability for promoterRNAbindingby the RdRPcomplex (Figures 3D and S5E-S5H). A loop between β6 and $\\boldsymbol { \\beta 7 }$ in PA_C including residue His510 is also located in this region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Further detailed analysis of PB1/PA_C interaction showed that helices α5,α6,α7,and α8 on PA_C provide the major elongated platform to interact with α17 and α19 on the thumb domain of PB1．Specifically，residues Glu427，Ile428，Arg442，Arg443, R582，Leu586，Gln590，Gln591，and Glu593 in PA_C were observed to interact with the thumb domain of PB1 (Figure S5D). It has been reported that Arg442 and Arg443 are essential during replication (Obayashi et al., 20o8). Involvementof charged residuesat this interface implicates thatthe interaction might be regulated,presumably by vRNA binding.In addition, the outer surface of PB1 structure is surrounded by the long linker between PA_N and PA_C (residues 200-255) (Figures 3A and S5B),consistent with previous results showing that this linker necessarily binds to PB1 (Guu et al.,2O08).The large interaction area between PA and PB1 indicates a strong complex formation between the two subunits. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A and B) Different views of the structure PA_C (purple) and PB1 catalytic domain (yellow).The additional unassigned helixes are shown in cyan. The RNA duplex bound to the RdRP subcomplex l isshown in green and brown.Different regions of the complexes are labeled or indicated using black arrow in the figure. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/24b04cbd12f777518ba1a408b8981c26b9d12de55f349ef1fc70bc521bc84920.jpg",
+        "img_caption": [
+            "Figure 3. Overall Structure of the Subcomplex I Structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(C) Overall structure of PB1 subunit. The palm, finger，and thumb domains of PB1 have been labeled in the figure.The characterized catalytic motifs,namely Pre-A,A,B,C,and D,are shown in red, blue,green,cyan,and purple,respectively. (D) The residues on PA_C domain predicted to be critical for RNA binding are labeled and shown as sticks. β6 and β7 in PA_C are shown in green.The neck loopsare indicated using black arrow. See also Figures S3-S5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "dimer (hereaftertermed interface1，between monomers 1 and 2) is mediated through brain regions of adjacent PA_C domains and the PB1_C/PB2_N part containing the thumb domain of PB1 (Figure 5C). Residues 293-355 containing helices α1 and $\\boldsymbol { \\mathfrak { a } } 2$ and a loop 350-NEE",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Structure Comparison of PB1 with PVRdRPand ImplicationsforRNASynthesis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Structural similarities in the catalytic domain of influenza PB1 with HCV and PV RdRPs (Figures 4A and S5C) suggested that these viruses may use similar mechanisms for RNA synthesis. We further superimposed the PB1 catalytic domain with the PV RdRP elongation complex bound to three RNA chains (PDB ID code 3OL6) (Andino et al., 1993).An 18 nt template RNA and a 14nt nascent RNA could be docked into the cavity of the subcomplex without significant conflict with surrounding residues, while the three-residue cRNA paired to the $5 ^ { \\prime }$ terminus of the template remained outside the cavity (Figure 4B).The proposed RdRP motifs Pre-A,A,B,and C in PB1 are closely in contact with the RNA template as well as the product (Figure 4C). The $3 ^ { \\prime }$ end of the product is located at the center of these motifs,closely pointing toward the conserved S-D-D loop, for addition of new nucleotide.The secondary structure elements constituting the innersurface of this central cavity in the PA/PB1 structureare largely involved in RNAbinding.Based onthis comparison,we propose that the influenza RdRP might bear an RNA synthesis pathway similar to that for PV.Three gates are proposed for the influenza RNA synthesis activity.The gate for RNA template entry is predicted to be at the bottom of the cage cavity,while exit gate for the product would be in front of the structure (facing toward readers as in Figure 4A).The NTP entry gate provided by motif D would be located in the rear of the structure (te Velthuis, 2014) (Figures 4A and 4B). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FormationofDimerand TetramerRdRPSubcomplex ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the tetramer structure (Figures 5A and 5B), two types of monomerinteractions are visible-one interaction within a stable ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "KIP-355(L350-355)between $a 2$ and $\\boldsymbol { \\alpha 3 }$ in PA_C contribute to most of the interaction within this region.Particularly，L350- 355loopofmonomers1and2are locatedantiparalleltoeach otherand may form multiple interactions (Figure 5C).Two helices,H1 and H2 in the PB1_C/PB2_N region,are also present at the interface of the two monomers (Figure 5C). They are presumed to cover residues 86-130 of PB2 subunit,based on our results from size-exclusion chromatography which showed that subcomplex Il existed only as monomer,even in the presence of bound vRNA promoter (Figure 1B). Indeed, secondary structure prediction of PB2 performed by PSlPred (http:// bioinf.cs.ucl.ac.uk/psipred/) shows that this region (residues 86-130) might contain two helices. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thesecond interaction (hereafter termedas interface 2,between monomers 1and 3) is weakerand more flexible than the first interaction (Figures 5D and S2B). The finger domains of PB1are major regions involved in the interface.However,due to incomplete model and densitiesat this flexible finger region, the interface between the two monomers could notbe well-characterized.Two loops between residues 355-375 and 180-205 of PB1 are likely to be involved in the interface (Figure 5D). It is therefore plausible for the RNA to induce a conformational change in thedimerstate favoringsideway interactionto form atetramer.Moreover,the relativelylowerresolution for residues locatedatthe interfaces1and2of the tetramercomplexfurther suggests that these interfaces are flexible and the oligomer conformation mightbe regulated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inaddition,from 3D reconstruction of the tetrameric complex,we could reconstruct four double-stranded RNA helices (Figure 5B). Each double-stranded RNA helix is bound to and lies at the bottom of one subcomplex 丨 monomer.The location and lying conformation of each double-helix RNA suggested that it is possible for the two RNA chains (from one helix) to adjust their orientations for binding to its adjacent subcomplex. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00e0bb50e1ceddccce55726d512fd2ba8c9fba98074761fb4c2b6a739ec7f600.jpg",
+        "img_caption": [
+            "re 4. Structure Comparison of PB1 Catalytic Domain with PV RdRP and RNA Binding Model for the Subcom/ (A)StructurecomprsofataltaitdRDdeL)BisoldilodVisirase labeled. (B)RNAbindingodeloftinfuevirusompleitNsrivedfrotructuraomparisoithlivusdRcompleecolo strategy is same as in Figure 3A.Among the three RNA chains from 3OL6 structure, $3 ^ { \\prime }$ template chain is colored in orange,nascent RNA in green,and $5 ^ { \\prime }$ complementaryRNAinblue.Theentryandexitpathwaysof theproductaswellastheNTPgateareindicatedbyblackarrows. (C)Thdetalcepeacdofrato in Figure 3C. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis Analysis onthe ResiduesLocatedon the Dimer Interfaces ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inorderto evaluatewhether the secondarystructure elements in subcomplexlare essential forviral replication,ahigh-throughput mutagenesis profilingof the residues,presumed to be involved indimerand tetramer formation,was performedasdescribed previously (Arumugaswami et al.， 20o8). Briefly， to produce a high-density mutant library with ${ > } 1 0 ^ { 5 }$ mutant clones,random insertions ofa15nt sequence( $5 ^ { \\prime }$ -TGCGGCCGCANNNNN- $3 ^ { \\prime }$ ，N could be any nucleotide) to the plasmids encoding PB1,PB2, and PA were generated.Insertion of this 15 nt sequence into any position within the three subunits resulted changes in five to seven amino acids,without introducing any stop codon or frameshift mutation.Every residue,in these selected fragments of the three subunits,has been mutated at least once by this method as confirmed through sequencing of the clones (see Experimental Procedures). The surviving viral clones (replication-competent) were selected and sequenced. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the plethora of data,we mainly focused on the investigation of two regions一interface1 (within the rigid dimer) and interface 2 (within the flexible dimer).Most of the mutations in residues 293-350 of PA_C failed to yield viable clones (Figure 6C). Particularly,no viable clone with insertion mutations in the residues L350-355 of PA_C could be observed (Figures 5C and 6C).In the tetrameric structure of subcomplexI,a short fragment containing residues 86-130 of PB2_Nwas found to be essential forthe formationof RNA-free dimer betweenmonomers1and 2 (Figure 5C),as discussed earlier (Figure 1B).Consistent with these structural and biochemical results,no viable clone containing mutations in this region was found during our mutagenesis study (Figure 6C). On the contrary,clones with mutations at positions 53,54,55,57,60,61,and 63 were found to be largely viable.Taken together, these results suggest that residues 86- 130 are important for replication of the influenza virus. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Two loops in the finger domain of PB1,between residues 355- 375 and 180-205,are proposed to be involved in interface 2. Similarly,onlya fewviableclones were observedwith mutations in this region (Figure 6C).Some single-point mutations were also investigated using fluorescence CAT method,as described in the Experimental Procedures. Ile3o8 is located on helix $a 2$ of PA_C,at interface 1.Mutation of residue lle308 of PA_C significantlydecreased polymeraseactivityto less than $7 \\%$ ina minirepliconassay.Another three single mutations (Gln367,Met372, and Leu373) in the fragment containing residues 355-375 of PB1 resulted in loss of polymerase activity (Figure 6A).These three residues,located at the bottom of the finger domain and far away from the catalytic center,are presumed to be involved in interface 2 (Figure 6B).These results further implicate the significance of oligomerization of influenza RdRP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cryo-EM method has recently gained significant improvement inatomic structure reconstruction.Our results also represent significant progress in determination of the influenza RdRP structure.High structural similarity of influenza RdRPwith other viral RdRPs strongly suggests that influenza virus may share some similar mechanisms for RNA synthesis.However，in contrast to known viral RdRPs，influenza RdRP exists in different oligomerization states which might predict the possibility of a different mechanism during RNA synthesis and assembly (Jorba et al.， 2008,2009；Moeller et al.， 2012). Based onour structure and previous reports，some mechanisms underlying replication of influenza RdRP could be further discussed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Oligomeric State Transition Regulated by RNA Binding ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Purification of full-length influenza RdRP complex from mammalian cells (HEK293T)，in the form of dimer and higher ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d54e32380830795008c7acd430a31d858cad612b0df421fc239bd271282662f.jpg",
+        "img_caption": [
+            "Figure5.ConformationoftheDimerandTetramer "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(A)Dockingfthoecelsiftrafbopepisi Figure 3A.   \n(B)OveralsrceferaopleFofsoptubioiassdioi monomer2and3areshowninpink,brown,andgreen,espectively.Colorstrategyof monomer1and4issameasinFigure3.   \n(C) Close-up views of the interface 1. Helices α1 and $a 2$ in PA_Care shown in red color. Helices H1and H2in PB2 are colored in blue.Sequence 350-NEEKIP-355 (L350-355) in PA_C is indicated by black arrow.   \n(D)Close-upofftesiftwsiddsifsi highlighted in orange.   \nSee also Fiaure S6. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "oligomerstates，has been reported previously (Jorba et al., 2008).In addition,a soluble-free RdRP complex was proposed to be recruited by the RNP-bound RdRP to initiate and fulfill the replication process (replication in trans) (Jorba et al.，2009). Consistent with the previous reports,our results suggest that subcomplex 丨 can undergo oligomeric state transition，regulated by vRNA promoter binding. Therefore,instead of being an artifact from truncation of the C-terminal part of PB2,oligomerization might be a necessary mechanism which reflects the physiological states of the full-length influenza RdRP complex. We propose that the dimer interfaces (1 and 2) would likely aid in the recruitment of another soluble RdRP to the RNP-bound RdRP for initiation of replication.This conclusion has been further substantiated from a high-throughput mutagenesis profilingwhich revealed that residues of the structural elements involved informationofthedimer interfacesarecritical forviral viability (Figure 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ProposedMechanisms for Influenza Replication andTranscription ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We further considered the physiological relevance for existence of dimer and tetramer states during replication and transcription of the influenza RdRP,based on the cryo-EM structure of RdRP subcomplex I. Jorba et al. reported an RNP purification strategy usinga transcription-defective PB2 without affinity tag (shortenedas“T\")or areplication-defective PB2with C-terminal His-tag (shortened as “R-His\") (Jorba et al., 2009). Based on their results, the authors presumed that the RNP-bound influenza RdRP monomer executes mRNA synthesis process (cisconformation),while a new RdRP monomer is recruited to the RNPto initiate replication (trans-conformation).However，this model could not address some key questions.Compared to wild-type RNP,the authors could purify up to $70 \\% - 8 0 \\%$ transcription-defective progeny RNPs through nickel affinity column, when they are coexpressed with a replication-defective PB2 (A)Insertion mutations at specific positions of the RdRP complex dramatically reduced the RNA polymerase activity.Results came froman average of three independently analyzed biologicalreplicates.Error bars indicate the standard deviation among them. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff6433a56b34462f3d7ea9f36531dca0fb284dd557a2a819591e953ff13ba4e1.jpg",
+        "img_caption": [
+            "Figure6.EffectsofMutationswithin InfluenzaRdRPComplex "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe5c5f046f6ef9ab1cff6def78dddea6795f3e460c4400cad3b85dc78d5b010e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Fragment</td><td colspan=\"7\">Survive clones</td></tr><tr><td>PA</td><td>293-355</td><td>306(1/2)</td><td>343(2/5)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">PB1</td><td>180-205</td><td>180(1/3)</td><td>189(1/2)</td><td>196(1/3)</td><td>199(1/3)</td><td>200(1/2)</td><td></td><td></td></tr><tr><td>355-375</td><td>372(1/1)</td><td>374(1/3)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PB2</td><td>50-130</td><td>52(1/2)</td><td>53(1/3)</td><td>54(1/4)</td><td>56(1/2)</td><td>59(1/3)</td><td>60(1/3)</td><td>62(1/2)</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(B) The locations of the specific residues responsible for RdRP activity reduction are near the interfaceofdimerand tetrameras labeled. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(C) Summary for a high-throughput profiling of the residues，proposed to be located close to the interaction surface area.A table listing viable clones of the insertion mutants.The fragments shown in the table are proposed to be involved in dimerization. Residues selected in PA_C and PB2 moleculesareinvolvedon interface1.Residues selected in PB1 are proposed to be involved in the interactiononinterface2.Onlysurvivalclonesare listed in the table.Residue numbers of the survival clones are shown (parenthetical digits indicate survival ratio; for example,1/2 implicated as two different clones are found on one residue with one survival clone). No survival clonewithin PB2 residues 86-130 was found. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(R-His) (see Figure1in Jorba etal.,20o9).These results contradict the fact that the progeny (consisting of viral genome RNA mimic，NP，PA，PB1，and transcription-defective PB2[T])did not have any affinity tag and therefore could not be purified through nickel affinity column.Theoretically,the purified progeny should consist of PB2 with His-tag (R-His).This is consistent with the results showing that coexpressed hybrid progeny vRNPs harbor transcriptionactivity in the range of $2 0 \\% - 7 5 \\%$ compared to wild-type vRNPs (see Figure 2 in Jorba etal., 2009).Therefore, we propose that both Tand R-His polymerases might exist in the progeny RNP-the T polymerase takes charge of the replication activity in the progeny viruses,while the R-His polymerase harbors the transcription activity (Figure S6A). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on our results and a previous report (Jorba et al., 2009), we presume that instead of one RdRP, two RdRP complexes (or dimer) might be bound to a viral RNP.During replication,the RNP-bound RdRP dimer recruits another free dimer to forma transient tetramerduring replication (trans-acting).The newly recruited dimer binds with nascent ${ \\boldsymbol { 5 } } ^ { \\prime }$ RNAand later dissociates from the parental RdRP to proceed with RNA elongation along the genome.Finally,a progeny RNP is generated and released from the parental RNP.In the case of transcription，the two RNP-bound RdRP monomers (in a dimer) might disassociate fromeach other through involvement of $3 ^ { \\prime }$ arm vRNA promoter. While one dimer (on the RNP) fulfills the requirement for promoter binding，the other monomer proceeds with transcription.As such,recruitment of additional soluble RdRP is not necessary for the transcription process.These presumptions from our structural studies correlate with the previous report (Jorba et al.,2oo9) and provide meaningful conclusions for the authors results.Due to the involvement of different oligomer states of influenza RdRP,we also predict that the conformational change would be significant for transition between replicationand transcription，which might influence the locations of PB2 and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PA_N.Further structural and functional studies with full-length RdRP subunits during transcription will assist in validating this hypothesis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "During the process of submission of our manuscript,crystal structures for the RdRPs from type B influenza viruses and an unconventional bat influenza virus (H17N1O) were reported (Pflug et al.， 2014;Reich et al.， 2014). These structures were obtained from full-length polymerase and were reported as monomer state in solution.The RNA synthesis and transcription mechanism of the influenza RdRP were discussed in these reports,which can be regarded as a breakthrough in structural study of influenza RdRP.However, the mechanism for replication,as well as transition between replicationand transcription processes,was only limitedly discussed.The overall structure of our cryo-EM reconstruction and the reported crystal structures are precisely similar to each other.However，marked differences at the dimer interface between monomers1 and 2 (Figure S6B) could be observed.In the tetramer structure,the PB1_C/PB2_N domain is observed to be located faraway from the cavity and extends toward the adjacent molecule on the dimer interface.We propose that our cryo-EM structure of the RdRP oligomer assembly might reflect the replication state of influenza life cycle,while the reported monomer RdRP conformations represent the transcription state.These differences might suggest the unique features specific to canonical influenza ARdRPsas well as a mechanism for conformational transition during transcriptionand replication. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary,we reconstructed a $4 . 3 \\mathring { \\mathsf { A } }$ resolution model of the oligomeric structure of the influenza polymerase by cryo-EMsingle-particle method.From these results,we propose that RNA elongation，processed by PB1 catalytic domain,should follow aclassical pathway similarto thatof otherdouble-stranded or positive-stranded viruses.The tetramer structure further provided evidence to understand the mechanism of oligomerization and possible conformational transition duringviral replication and transcription.Our results provide asolid basis for further structural studies of mechanisms governing the functioning of RNA polymerase from influenza as well as other negativestranded RNA viruses. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Protein Expression and Purification ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The genes encoding PA,PB1,and PB2 (residues 1-130 or 1-86,generating polymerase subcomplexes 丨and I, respectively) were cloned into pFastBac vector(Invitrogen).Allthe RNAsused in this reportweresynthesizedbyTakara Inc.The RdRPs were overexpressed in insect cell line (Hi5) using Bac-to-bac expression system (lnvitrogen).The subcomplexes were purified through nickel affinity chromatography using 6-His tag at the C terminus of PB1.The proteins were further purified using ion-exchange chromatography (GE) to eliminate contamination.The oligomerization states of the purified polymerase complexes were determined through size-exclusion chromatography using a Superdex-200 (16/60 or 10/30) column (GE). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EMDataAcquisition GridPreparationandDataCollection ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Aliquotsof $2 . 8 ~ \\mu \\mu \\up$ ofpurified tetrameric subcomplex丨at aconcentration of ${ \\sim } 0 . 2 \\ \\mathrm { m g / m l }$ wereapplied to glow-discharged holey carbon grids (Quantifoil R2/1)and flash-cooled in liquid ethane using an FEl Vitrobot.Data were collected onan FEl TitanKrios operatingat $3 0 0 \\mathsf { k V } .$ Imageswere recorded using a K2 Summit direct electron counting camera (Gatan Inc.) ata calibrated magnification of 22,500 (pixel size of $\\mathring { \\mathsf { A } } )$ ，with the defocus ranging from $- 1 . 0$ to $- 3 . 0 ~ { \\mu \\mathrm { m } }$ .All dose-fractionated cryo-EM images were recorded using UCSF-lmage4,a semiautomated low-dose acquisition program (X.Li and Y. Cheng,personal communication). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Image Processing ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The initial model was generated by tomographic subvolume averaging of the negatively stained specimen.Tomographic reconstruction of 3D volumes was performed by the weighted back-projection method using Xplore 3D software (FEl).The tomographic subvolumes of single particles were picked and extracted using the e2tomoboxer.py program of EMAN2 (Tang et al., 2007). These subvolumes were aligned and averaged using the Dynamo software package (Castano-Diez etal.,2012).For cryo-EM micrograph,drift-corrected images were generated using the algorithm developed by Li et al. (Li et al., 2013).Particle picking was performed using EMAN2 (Tang et al.，2007), contrast transfer function parameters were estimated using CTFFIND3 (Mindell and Grigorieff,20o3),and all 2D and 3D classifications and refinements were performed using RELION (Scheres,2012).The resulting density maps werecorrected forthemodulation transfer function (MTF)of thedetector and sharpened using postprocessing options of RELION (Scheres,2012). Local resolution variations were estimated using ResMap (Kucukelbir et al., 2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Model Buildingand Refinement ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The structure of PA_C (PDB ID code 3CM8) was docked into the map manually in Chimera (http://www.cgl.ucsf.edu/chimera/).The catalytic motifs and topology of the structure were recognized according to sequence and structure comparison with reovirus (1N1H) (residues 380-890),foot and mouth disease virus (PDB ID code 3KLV), norwalk virus (PDB ID code 3BSO),and hepatitis C virus RdRPs (PDB ID code 2BRK) (Figure S4). Secondary structure elements from PB1 were built with polyalanine in Coot (Emsley et al.,2010) according to the density map.The model was further refined againstthe map with stereochemical and secondary structure restraints using Phenix.real_space_refine (Adams et al., 2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis,SequenceAnalysis,andScreeningof Influenza MutantClones ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Procedures for high-throughput mutagenesis profiling were performed as described previously (Arumugaswami et al., 2008). In brief, the PA,PB1,and PB2 gene segments of influenza virus A/WSN/33 underwent Mu transposonmediated mutagenesis,creating randomly positioned gene insertions.The mutant libraries were cotransfected with the seven complementary WT plasmids for viral packaging in HEK293T cells (Hoffmann et al.,20oO).Viruswas then collected and used to infect MDCK cels in three consecutive passages. vRNA from each passage was recovered,converted to cDNA,and genotyped by PCR amplification using gene-specific forward primers and an insertionspecific reverse primer. Individual mutant clones were randomly selected for sequencingand screened for viabilityand polymeraseactivity.Polymerase activity was assessed by cotransfection of the WSN PB1,PB2,PA,and NP plasmids with a Gaussia luciferase reporter construct.The mRNA,vRNA, and cRNA transcript levels were quantified using a strand-specific real-time RT-PCR method. Primer extension assays of vRNAs and RNA binding assay were performed as previously described (Hara et al.,20o6).Additional experimental procedures can be found in the Supplemental Information. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACCESSIONNUMBERS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Accession numbers for the EM density maps deposited to EM Data Bank are EMD-6202 and EMD-6203.The accession number for atomic coordinates fittedto thedimer EMmapdepositedto Protein Data Bank is 3J9B. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes six figures,one movie,and Supplemental Experimental Procedures and can be found with thisarticle at http://dx.doi. org/10.1016/j.molcel.2014.12.031. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "S.C.,J.L., L.G.,X.W.,C.G.,L.Y.,F.F.,M.Y.,B.M.B.,M.W.,and J.Wojdyla worked as a group for protein preparation and biochemical analysis.D.S. and J.W.did the cryo-EM data collection and EM calculation,supervised by H.W.The model was built up by H.L.,who also designed the biological experiments.G.C.,L.W.，Y.W.,and L.Y.performed mutagenesis assays. Y.L.,H.-W.W.,H.L., J.W.W.,B.M.B.,L.L.,J.L., D.S.,and S.C. prepared the manuscript. Y.L.supervised the project. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank Zihe Rao and Jinhua Liu for providing some influenza genes.We thank Fei Sun,Xueming Li, Fuquan Yang,Gang Ji,Xiaojun Huang,Yongsheng Chen,Lunjiang Ling,Wei Ding,and Yanji Xu for technical instructions.We acknowledge the Center for Biological Imaging at IBP,CAS,National Center for Protein Sciences (Beijing) and“Explorer 100\"cluster system of Tsinghua National Laboratory for Information Science and Technology.This work is supported by the NSFC projects (30925011,31030024),Chinese Academy of Sciences Program (XDB08oooooo),Ministry of Science and Technology (MOST) Projects (2011CB910304,2012CB910204,2010CB912401). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Received:November7,2014   \nRevised:December15,2014   \nAccepted:December17,2014   \nPublished:January 22,2015 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Adams,P.D.,Afonine,P.V.,Bunkoczi,G.,Chen,V.B.,Davis,I.W.,Echols,N., Headd,J.J.,Hung,L.W.,Kapral,G.J.,Grosse-Kunstleve,R.W.,et al. (2010). PHENIX:a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr.D Biol. Crystallogr. 66,213-221.   \nAgo,H.,Adachi,T.,Yoshida,A.,Yamamoto,M.,Habuka,N.,Yatsunami,K., and Miyano,M.(1999). Crystal structure of the RNA-dependent RNA polymerase of hepatitis C virus.Structure 7,1417-1426.   \nAndino，R.，Rieckhof，G.E.，Achacoso，P.L.，and Baltimore，D.(1993). Poliovirus RNA synthesis utilizes an RNP complex formed around the ${ \\boldsymbol { 5 } } ^ { \\prime }$ -end ofviralRNA.EMBOJ.12，3587-3598. Area,E.，Martin-Benito,J.，Gastaminza,P.，Torreira,E.，Valpuesta，J.M., Carrascosa,J.L.,and Ortin,J. (20o4).3D structure of the influenza virus polymerase complex: localization of subunit domains. Proc.Natl. Acad. Sci. USA 101,308-313.   \nArranz，R.，Coloma，R.，Chichon，F.J.，Conesa，J.J.，Carrascosa，J.L., Valpuesta,J.M., Ortin,J.,and Martin-Benito,J.(2012).The structure of native influenza virion ribonucleoproteins.Science 338,1634-1637.   \nArumugaswami,V.,Remenyi,R.,Kanagavel,V.,Sue,E.Y.,Ngoc Ho,T.,Liu,C., Fontanes,V.,Dasgupta,A.,and Sun,R. (2oo8).High-resolution functional profiling of hepatitis C virus genome. PLoS Pathog.4,e1000182.   \nBressanell,S.,Tomei,L.,Roussel,A.,nciti,I.,Vitale,R..,Mathieu,M.De Francesco,R.,and Rey,F.A.(1999). Crystal structure of the RNA-dependent RNA polymerase of hepatitis C virus. Proc.Natl. Acad. Sci. USA 96,13034- 13039.   \nButcher,S.J.,Grimes,J.M.,Makeyev,E.V., Bamford, D.H.,and Stuart,D.l. (2001).A mechanism for initiating RNA-dependent RNA polymerization. Nature 410,235-240.   \nCastano-Diez，D.，Kudryashev，M.，Arheit，M.，and Stahlberg，H. (2012). Dynamo:a flexible,user-friendly development tool for subtomogram averagingof cryo-EM data in high-performance computing environments. J. Struct. Biol.178,139-151.   \nDeng,T.,Sharps,J.L.,and Brownlee,G.G.(2006a). Role of the influenza virus heterotrimeric RNA polymerase complex in the initiation of replication.J. Gen. Virol. 87,3373-3377.   \nDeng,T., Vreede,F.T.,and Brownlee,G.G.(20o6b).Diferent de novo initiation Strategies are used by influenza virus RNA polymerase on its cRNA and viral RNA promoters during viral RNA replication.J.Virol.80,2337-2348.   \nDias,A.,Bouvier,D.,Crépin,T.,McCarthy,A.A.,Hart,D.J.,Baudin,F.,Cusack, S.,and Ruigrok,R.W.(20o9).The cap-snatching endonuclease of influenza virus polymerase resides in the PA subunit. Nature 458,914-918.   \nEmsley,P.,Lohkamp,B., Scott,W.G.,and Cowtan,K. (2010). Features and development of Coot. Acta Crystallogr.D Biol. Crystallogr.66,486-501. Fechter,P.,Mingay,L.,Sharps,J., Chambers,A.,Fodor,E.,and Brownlee, G.G. (2003).Two aromatic residues in the PB2 subunit of influenza A RNA polymerase are crucial for cap binding.J. Biol. Chem. 278,20381-20388. Ferrer-Orta, C.,Arias,A.，Perez-Luque,R., Escarmis,C.,Domingo,E.,and Verdaguer,N. (20o4). Structure of foot-and-mouth disease virus RNA-dependent RNA polymerase and its complex with a template-primer RNA.J. Biol. Chem.279,47212-47221.   \nFlick,R.,Neumann,G., Hoffmann,E., Neumeier,E.,and Hobom,G.(1996). Promoter elements in the influenza vRNA terminal structure.RNA 2,1046- 1057.   \nFodor,E. (2013).The RNA polymerase of influenza a virus: mechanisms of viral transcription and replication.Acta Virol. 57,113-122.   \nFodor,E., Seong, B.L.,and Brownlee,G.G.(1993). Photochemical cross-linking of influenza Apolymerase to its virion RNA promoter defines a polymerase binding site at residues 9 to 12 of the promoter.J.Gen.Virol.74,1327-1333. Fodor,E.，Pritlove,D.C.，and Brownlee,G.G.(1994).The influenza virus panhandle is involved in the initiation of transcription.J.Virol.68,4092-4096. Gonzalez,S.,and Ortin,J. (1999). Characterization of influenza virus PB1 protein binding to viral RNA: two separate regions of the protein contribute to the interaction domain.J.Virol.73,631-637.   \nGuilligay,D.,Tarendeau,F.,Resa-lnfante,P.,Coloma,R.,Crepin,T.,Sehr,P., Lewis,J.,Ruigrok,R.W.,Ortin,J., Hart,D.J.,and Cusack,S.(20o8).The structural basis for cap binding by influenza virus polymerase subunit PB2. Nat. Struct. Mol. Biol.15,500-506.   \nGuu,T.S., Dong,L.,Wittung-Stafshede,P.,and Tao,Y.J. (20o8). Mapping the domain structure of the influenza A virus polymerase acidic protein (PA) and its interaction with the basic protein 1 (PB1) subunit.Virology 379,135-142. Hagen,M.,Chung,T.D., Butcher,J.A.,and Krystal,M.(1994).Recombinant influenza virus polymerase: requirement of both ${ \\boldsymbol { 5 } } ^ { \\prime }$ and ${ } _ { 3 { ' } }$ viral ends for endonuclease activity.J. Virol.68,1509-1515. Hara,K., Schmidt,F.I., Crow,M.,and Brownlee,G.G. (2006).Amino acid residues in the N-terminal region of the PA subunit of influenza A virus RNA polymerase play a critical role in protein stability,endonuclease activity，cap binding,and virion RNA promoter binding.J.Virol.80,7789-7798.   \nHe,X.，Zhou,J.，Bartlam,M.，Zhang，R.，Ma,J.，Lou,Z.，Li,X.,Li,J., Joachimiak,A., Zeng,Z.,et al. (2oo8). Crystal structure of the polymerase PA(C)-PB1(N) complex from an avian influenza H5N1 virus.Nature 454, 1123-1126.   \nHoffmann,E., Neumann,G.， Kawaoka,Y., Hobom,G.，and Webster,R.G. (2000).A DNA transfection system for generation ofinfluenzaAvirus from eight plasmids. Proc. Natl. Acad. Sci. USA 97,6108-6113.   \nJorba, N.,Area,E.,and Ortin,J. (2oo8). Oligomerization of the influenza virus polymerase complex in vivo.J. Gen. Virol.89,520-524.   \nJorba,N., Coloma,R.,and Ortin,J.(20o9).Genetic trans-complementation establishes a new model for influenza virus RNA transcription and replication. PLoS Pathog.5,e1000462.   \nKucukelbir,A., Sigworth,F.J.,and Tagare,H.D. (2014). Quantifying the local resolution of cryo-EM density maps.Nat. Methods 11,63-65.   \nKuzuhara,T., Kise,D., Yoshida,H., Horita,T., Murazaki,Y., Nishimura, A., Echigo,N.,Utsunomiya,H.,and Tsuge,H.(20o9).Structural basis of the influenza A virus RNA polymerase PB2 RNA-binding domain containing the pathogenicity-determinant lysine 627 residue.J. Biol. Chem. 284,6855- 6860.   \nLesburg, C.A., Cable,M.B.,Ferari,E., Hong,.,Mannarino,A.F.,and Weber, P.C.(1999). Crystal structure of the RNA-dependent RNA polymerase from hepatitis C virus reveals a fully encircled active site.Nat. Struct.Biol.6, 937-943.   \nLi, M.L., Ramirez, B.C.,and Krug, R.M. (1998). RNA-dependent activation of primer RNA production by influenza virus polymerase: diffrent regions of the same protein subunit constitute the two required RNA-binding sites. EMBO J. 17, 5844-5852.   \nLi, X.M., Mooney,P.,Zheng,S., Booth, C.R., Braunfeld, M.B., Gubbens,S., Agard,D.A.,and Cheng,Y.F.(2013).Electron counting and beam-induced motioncorrectionenablenear-atomic-resolutionsingle-particlecryo-EM. Nat. Methods 10,584-590.   \nLuytjes，W.，Krystal,M., Enami，M.，Parvin,J.D.,and Palese，P.(1989). Amplification,expression,and packaging of foreign gene by influenza virus. Cell 59, 1107-1113.   \nMindell,J.A.,and Grigorief,N.(2003).Accurate determinationof local defocus and specimen tilt in electron microscopy.J. Struct. Biol.142,334-347. Moeller,A.,Kirchdoerfer,R.N.，Potter, C.S., Caragher,B.,and Wilson,I.A. (2012).Organization of the influenza virus replication machinery.Science 338,1631-1634.   \nNakagawa, Y., Kimura,N.,Toyoda,T., Mizumoto,K., Ishihama,A., Oda, K., and Nakada, S.(1995).The RNA polymerase PB2 subunit is not required for replication of the influenza virus genome but is involved in capped mRNA synthesis.J. Virol. 69,728-733.   \nNg,K.K.,Arnold,J.J.,and Cameron, C.E. (20o8). Structure-function relationships among RNA-dependent RNA polymerases.Curr.Top．Microbiol. Immunol. 320,137-156.   \nObayashi,E.,Yoshida,H., Kawai,F., Shibayama,N., Kawaguchi,A.,Nagata, K.,Tame,J.R.,and Park,S.Y. (2oo8).The structural basis for an essential subunit interaction in influenza virus RNA polymerase.Nature 454,1127-1131. Ohtsu,Y., Honda,Y.,Sakata,Y., Kato,H.,and Toyoda,T.(2002).Fine mapping of the subunit binding sites of influenza virus RNA polymerase.Microbiol. Immunol. 46,167-175.   \nPflug,A.,Guilligay,D.,Reich,S.,and Cusack,S.(2014).Structure of influenza A polymerase bound to the viral RNA promoter.Nature 516,355-360. Plotch，S.J.，Bouloy，M.，UImanen，I.，and Krug，R.M.(1981).A unique cap(m7GpppXm)-dependent influenza virion endonuclease cleaves capped RNAs to generate the primers that initiate viral RNA transcription. Cell 23, 847-858. Robertson,J.S.,Schubert,M.,and Lazzarini，R.A.(1981).Polyadenylation sites for influenza virus mRNA.J.Virol.38,157-163.   \nScheres,S.H.W. (2012).RELION: implementation of a Bayesian approach to cryo-EM structure determination.J. Struct. Biol.180,519-530.   \nReich,S.,Guilligay,D.,Pflug,A.，Malet,H.,Berger,I.,Crépin,T.,Hart,D., Lunardi,T.,Nanao,M.,Ruigrok,R.W.H.,and Cusack,S.(2014).Structural insight into cap-snatching and RNA synthesis by influenza polymerase. Nature 516,361-366.   \nSugiyama,K.,Obayashi,E.,Kawaguchi,A.,Suzuki,Y.,Tame,J.R.,Nagata, K.,and Park,S.Y. (20o9).Structural insight into the essential PB1-PB2 subunit contact of the influenza virus RNA polymerase.EMBO J.28, 1803-1811.   \nTang,G., Peng,L.,Baldwin,P.R.,Mann,D.S., Jiang,W.,Rees,l.,and Ludtke, S.J. (20o7).EMAN2:an extensible image processing suite for electron microscopy. J. Struct. Biol. 157,38-46.   \nTao,Y.,Farsetta,D.L., Nibert, M.L.,and Harrison,S.C.(2002).RNA synthesis ina cage一structural studies of reovirus polymerase lambda3.Cell 111, 733-745.   \nte Velthuis,A.J.(2014). Common and unique features of viral RNA-dependent polymerases.Cell.Mol.Life Sci.71,4403-4420. Tiley,L.S., Hagen,M.,Matthews,J.T.,and Krystal, M.(1994). Sequence-specific binding of the influenza virus RNA polymerase to sequences located at the $5 ^ { \\prime }$ ends of the viral RNAs.J.Virol.68,5108-5116.   \nTomescu，A.I.，Robb，N.C.，Hengrung，N.，Fodor，E.，and Kapanidis,A.N. (2014). Single-molecule FRET reveals a corkscrew RNA structure for the polymerase-bound influenza virus promoter.Proc.Natl．Acad.Sci.USA 111, E3335-E3342.   \nTorreira,E., Schoehn, G.,Fernandez,Y.,Jorba,N.,Ruigrok,R.W., Cusack,S., Ortin,J.,and Llorca,O.(2oo7).Three-dimensional model for the isolated recombinant influenza virus polymerase heterotrimer.Nucleic Acids Res.35, 3774-3783.   \nYuan,P.,Bartlam,M.,Lou, Z.,Chen, S.,Zhou,J., He,X.,Lv,Z.,Ge,R.,Li,X., Deng,T.,et al. (2oo9). Crystal structure of an avian influenza polymerase PA(N) revealsan endonuclease active site.Nature 458,9o9-913.   \nZamyatkin，D.F.，Parra，F.，Alonso，J.M.，Harki，D.A.，Peterson，B.R., Grochulski,P.,and Ng,K.K. (20o8). Structural insights into mechanisms of catalysis and inhibition in Norwalk virus polymerase.J.Biol.Chem.283, 7705-7712.   \nZhang,S.,Wang,J.,Wang,Q.,and Toyoda,T.(201O).Internal initiation of influenza virus replication of viral RNA and complementary RNA in vitro.J.Biol. Chem.285,41194-41201. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "塔里木河下游长期输水条件下河流剖面地下水埋深估算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "狄振华¹，谢正辉²，陈亚宁3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.北京师范大学地理科学学部,地表过程与资源生态国家重点实验室,北京100875;2.中国科学院大气物理研究所,大气科学和地球流体力学数值模拟国家重点实验室,北京100029;3.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：准确估计输水条件下河岸地下水埋深的动态变化，可以量化生态输水量与地下水埋深的响应关系，并由此估计自然河道所需输水量及持续时间，这对于干旱区水资源管理的可持续发展具有重要的科学意义。结合塔里木河下游20a生态输水监测数据，用发展的包含地下水和土壤水的拟二维地下水模型,对输水条件下塔里木河下游上、中、下段3个断面(英苏、阿拉干和依干不及麻)的地下水埋深变化进行 $2 0 \\mathrm { a }$ 长期模拟。通过率定期和后11a(2010—2020年)的地下水埋深模拟结果与站点数据比较，发现两者较一致，证明该模型在塔里木河下游河岸断面地下水长期模拟上的合理性和适用性。然后根据3个断面20a的模拟结果分析输水条件下地下水埋深和土壤水的长期变化及其对生态输水的响应。结果表明：经过20a的生态输水，英苏、阿拉干和依干不及麻3个断面上的地下水位和土壤湿度都有明显的上升，地下水位埋深从输水前的 $8 \\mathrm { m }$ 左右抬升到输水后的 $4 \\mathrm { m }$ 左右，土壤湿度从最初的0.20上升到0.35以上，特别是自2009年以来，随年输水量增加，地下水位和土壤湿度增加幅度明显。生态输水与地下水的年际变化有一定的滞后性，由于土壤湿度和地下水位表现为正相关关系，这使得土壤湿度对输水量也有滞后性的特点。相比于河水流量,地下水水平传导率的取值对断面地下水埋深变化起着更重要的作用。另外，输水量与地下水的年际变化表明塔里木河下游河岸要想获得持续的生态效益，需要对河道提供间歇性的生态输水。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：拟二维地下水模型；生态输水；地下水长期模拟；塔里木河下游",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木河是中国最长的内陆河，流域位于新疆南部。塔里木河流域在历史上形成了天然绿洲，是阻挡风沙侵袭、保护人类生存环境的重要生态屏障[1]。然而，自1950年起,随着大规模农业和人工绿洲等人为措施的实施，使得水资源被过度开发利用，导致塔里木河源流和干流水资源分配不均，致使塔里木河下游自大西海子水库至台特玛湖 $3 2 1 \\mathrm { k m }$ 河道断流，河两岸地下水埋深下降，植被大片死亡，土壤沙化更加严重,生态环境遭到严重破坏[2-3]。为了挽救生态环境，实现可持续发展战略，自2000年起，水利部同新疆维吾尔自治区人民政府及新疆生产建设兵团等部门对塔里木河下游实施了间隔性生态输水工程，特别是2010年以来，区域内的生态植被得到了有效的恢复[4-9]。了解和掌握塔里木河沿岸地下水和土壤水在输水工程实施以来发生的变化，对于定量评估输水工程的生态效应，以及干旱区生态水资源管理提供重要的科学依据[10-12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，针对输水条件下河岸地下水变化研究的主要手段包括站点监测和模型模拟。陈亚宁等[13]在塔里木河下游河道的上、中和下段的9个断面上，根据离河岸距离的远近建立了多个地下水埋深监测井，用来分析地下水对河道生态输水的响应。随后，许多研究[14-17]根据这9个断面上监测井的水位数据，分析了不同生态输水时期下，断面上地下水埋深的变化情况。由于监测井在断面上是离散分布的，因此这些数据只能反映了该井的水位变化，对于未建立监测井地方的水位无法估计，即使结合站点数据，建立简单的线性回归模型进行估计，却也可能存在着较明显的误差",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地下水模型能结合有限的站点数据，模拟到除了监测井外断面上其他点的地下水埋深，是对站点监测的一种有益补充。杨鹏年等8提出了用一维地下水非稳定流模型，解析模拟输水条件下河道断面上地下水埋深的变化。随后刘迁迁等和古力米热·哈那提等[20]虽对非稳定流模型进行了不同程度的改进以提高模拟效果，但归根结底还是通过对模型做各种假设把非线性模型变成线性模型求得解析解，这些假设带来的误差会比用数值解的误差更大。与之不同的是，狄振华等[21]对地下水非稳定流模型进行了离散的数值解，并在谢正辉等22的土壤水运边界理论的基础上，发展了土壤水和地下水相互作用的数值模型，并在英苏断面上得到了较好的地下水模拟。然而，该研究只模拟了输水期内英苏断面上地下水水位的变化，并没有对其进行长时间的地下水模拟，而且对塔里木河下游其它河段上的地下水水位也未进行模拟比较。为此，本研究结合塔里木河下游20a的生态输水监测数据，对塔里木河下游的上、中和下段各选取一个断面，分别进行20a的地下水埋深长期模拟，定量评估输水条件下河岸地下水和土壤水的变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区、数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于塔里木河下游大西海子水库至台特玛湖的河道(图1),河道全长 $3 2 1 \\ \\mathrm { k m }$ ,东部为库鲁克沙漠，西部为塔克拉玛干沙漠，海拔高程在$8 0 1 . 5 0 { \\sim } 8 4 6 . 2 4 \\mathrm { m }$ 之间，属于冲积平原区。该区年降水量 $1 7 . 4 { \\sim } 4 2 . 0 \\mathrm { m m }$ ,年潜在蒸发量高达 $2 5 0 0 { \\sim } 3 0 0 0 \\mathrm { m m }$ 实际年蒸发量 $1 7 8 . 5 \\mathrm { m m }$ 左右，属于典型的大陆性干旱气候，生态环境极为脆弱。由于有河流和地下水补给，沿河两岸生长了大片的荒漠河岸林，阻止了两大沙漠的合拢，因此具有重要的生态意义和战略意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区地处罗布泊微弱拗陷区，构造稳定，在漫长的地质时期内，河水携带的大量泥沙在河道频注：C3\\~C6为上段英苏断面上的4个监测井;G3\\~G6为中段阿拉干断面上的4个监测井;H2\\~H5为下段依干不及麻断面上的4个监测井。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/88e1e8e7444ca2cc01b89d9aa57c68f329c9219ca7ecaf4f73f3873cdffefded.jpg",
+        "img_caption": [
+            "图1塔里木河下游河道及9个断面示意图 Fig.1 Schematic diagram of the lower reaches of Tarim River and its nine sections "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "繁改道的过程中沉积，形成了约 $3 5 0 \\mathrm { ~ m ~ }$ 的第四系松散沉积层。沉积物以黏土质的河、湖相沉积为主;地形平坦，微向东倾斜，坡度 $3 \\text{‰}$ 左右。河两岸受风沙的影响，周边的土壤多以粗粉沙-极细沙-细沙为主[23],这种地质状况下地下水与土壤水的作用较为强烈。由于受河水漫溢及地下水抬升影响，植被主要沿河呈带状分布，植被类型自上而下总体呈由高覆盖度的胡杨林、怪柳灌丛、盐生草带向中低覆盖度的胡杨林、怪柳灌丛向低盖度的稀疏怪柳灌丛带过渡的特征[24]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自1950年以来，人类不合理利用水土资源使得大西海子水库以下河道长期处于断流状态，地下水位下降到 $8 { \\sim } 1 2 \\mathrm { ~ m }$ ,导致由地下水维系的天然植被严重退化，土壤盐渍化等生态环境问题日益突出。为了挽救塔里木河下游的生态环境，水利部同新疆维吾尔自治区人民政府及新疆生产建设兵团等部门从2000年5月开始在大西海子以下河段实施生态输水工程，直到2020年共计21次生态输水，累积输水量 $8 4 . 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。为了评估生态输水条件下地下水埋深和土壤水含量的变化，本研究结合 $2 0 \\mathrm { a }$ 生态输水监测数据，选取塔里木河下游上段英苏断面、中段阿拉干和下段依干不及麻3个河段断面，分别进行地下水和土壤水的模拟，以期揭示生态输水对河岸地下水和土壤水变化的影响。根据断面上监测井的位置，本研究选取河道单侧断面的 $1 0 0 0 \\mathrm { m }$ 范围区域进行模拟，断面和主要监测井的示意图见图1。英苏断面的4个监测井(C3、C4、C5、C6）、阿拉干断面的4个监测并( $( \\mathrm { G 3 } , \\mathrm { G 4 } , \\mathrm { G 5 } , \\mathrm { G 6 } )$ 和依干不及麻断面的4个监测井 $( \\mathrm { H } 2 , \\mathrm { H } 3 , \\mathrm { H } 4 , \\mathrm { H } 5 )$ 分别距离河岸$1 5 0 \\mathrm { m } \\phantom { 0 } . 3 0 0 \\mathrm { m } \\phantom { 0 } . 5 0 0 \\mathrm { m } \\phantom { 0 } . 7 5 0 \\mathrm { m } \\phantom { 0 }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源及预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）大西海子下泄 $2 0 \\mathrm { a }$ 流量数据来自于新疆塔里木河流域管理局；断面河道流量及地下水埋深数据来源于中国科学院新疆生态与地理研究所，我们只收集了前5次输水(2000—2003年)条件下的部分河道流量和断面监测井地下水数据，其中地下水数据有英苏断面C3、C4、C5、C6监测井，阿拉干断面G3、G4、G5监测井和依干不及麻断面H2、H3监测井。另外,2010—2020年的监测井地下水埋深数据也来自中国科学院新疆生态与地理研究所。值得注意的是，本研究所采用的模型是个依赖初边值的物理模型，只要给定初始地下水埋深值和河道的每日流量作为边界值，就能开展长期的模拟",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）地面高程数据根据断面上监测井的地面高程数据插值得到。它被用来计算地面到地下水埋深的垂直距离，用于垂直土壤水运边方程的计算。土壤参数据根据研究资料和查表得到。马晓东等[25]通过地质调查发现塔里木河下游的土壤质地以沙土和沙壤土为主,它们的饱和含水量在 $0 . 4 5 { \\sim } 0 . 5 0 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { m } ^ { - 3 }$ 0我们根据下游河段的经纬度范围，查找BATS模式对全球土壤的12种典型分类表[26],最终确定该研究区为第6类沙壤土：饱和土壤水含量 $\\left( \\theta _ { \\mathrm { s } } \\right)$ 为 $0 . 4 8 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { m } ^ { - 3 }$ 饱和基质势 $\\left( \\psi _ { \\mathrm { s } } \\right)$ 为 $- 0 . 2 0 \\mathrm { ~ m ~ }$ ,垂直饱和导水率 $( K _ { \\mathrm { v s } } )$ 为$0 . 5 4 4 3 2 \\mathrm { m } { \\cdot } \\mathrm { d } ^ { - 1 }$ ,土壤质地参数 $( b )$ 为 $6 . 0 0 \\AA$ 。结合文献资料和查表，得到的饱和含水量基本一致，可以认为所确定的土壤参数是合理的，因此，它们将被用于研究区土壤水运动方程的计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 拟二维地下水模型本研究的地下水与土壤水相互作用模型采用狄振华等[21]发展的拟二维地下水模型。该模型是将断面上完全二维的土壤水与地下水相互作用问题简化为以水平流为主的地下水运动程和以垂直流为主的土壤水运动方程相耦合的拟二维模型。具体包括：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { e } \\frac { \\partial h } { \\partial t } = \\frac { \\partial } { \\partial x } \\bigg ( K _ { s } h \\frac { \\partial h } { \\partial x } \\bigg ) - q _ { z = h ( x , t ) } ( x , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\theta } { \\partial t } = \\frac { \\partial } { \\partial z } \\bigg ( D ( \\theta ) \\frac { \\partial \\theta } { \\partial z } \\bigg ) + \\frac { \\partial K ( \\theta ) } { \\partial z } + f ( x , z , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { z = h ( x , t ) } ( x , t ) = \\int _ { h ( x , t ) } ^ { H } \\frac { \\partial \\theta } { \\partial t } \\mathrm { d } z + q _ { z = H } ( x , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n _ { e }$ 是饱和给水度 $( \\mathbf { m } ^ { 3 } \\cdot \\mathbf { m } ^ { - 3 } ) ; K _ { s }$ 是地下水水平导水率 $( \\mathbf { m } \\cdot \\mathrm { d } ^ { - 1 } ) ; h ( x , t )$ 是 $\\mathbf { \\Phi } _ { t }$ 时刻离河岸 $x$ 米处的地下水海拔高度 $( \\mathrm { m } )$ ; $q _ { z = h ( x , t ) } ( x , t )$ 是在潜水面上地下水与上层土壤水间的垂直交换通量 $( \\mathrm { m } \\cdot \\mathrm { d } ^ { - 1 } ) ; \\theta$ 为土壤水含量也称土壤湿度 $( \\mathrm { m } ^ { 3 } \\cdot \\mathrm { m } ^ { - 3 } )$ $D ( \\theta )$ 和 $K ( \\theta )$ 为非饱和土壤水的扩散率 $( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { d } ^ { - 1 } )$ 和导水率 $( \\mathbf { m } \\cdot \\mathrm { d } ^ { - 1 } )$ ,它们按照Clapp 和Hornberger[27关系式与饱和土壤水含量 $\\left( \\mathbf { \\nabla } \\theta _ { s } \\mathrm { \\ } , \\mathbf { m } ^ { 3 } { \\cdot } \\mathbf { m } ^ { - 3 } \\right)$ 、垂直饱和导水率 $( K _ { \\mathrm { v s } } , \\mathbf { m \\cdot d } ^ { - 1 } )$ 、饱和基质势 $\\left( \\ \\psi _ { s } \\ , \\mathbf { m } \\right)$ 和土壤质地参数 $( b )$ 建立关系式。 $\\scriptstyle q _ { z = H } ( x , t )$ 是地表的入渗(蒸发)通量 $( \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 } )$ 。本研究中模型的地表通量采用多年平均实际蒸发量，模型采用隐式差分格式算法进行数值计算,具体计算细节见狄振华等[19]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 SCE-UA参数率定方法SCE-UA方法是Duan等[28提出的全局参数自动优化方法，它结合了遗传算法和单纯性法的优点，不需要对模型进行直接求导，能快速找到全局最优解，是当今水文模型参数优化的主要流行算法之一。同狄振华等[2的SEC-UA用法一样，本研究主要优化拟二维模型中的地下水水平导水率 $( K _ { \\mathrm { s } } )$ 参数，而假定非饱和土壤中垂直饱和导水率 $( K _ { \\mathrm { v s } } )$ 不变，其与BATS全球土壤分类表中的饱和传导率值一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 模拟实验设置地下水方程(1)的左边界是河道选取变化的河水水位作为左边界值，右边界设为等值透水面，故选取零通量为边界。土壤水方程(2)的上边界是地表，选取多年平均地表通量(降雨减蒸发减径流)为边界值，取 $1 7 8 . 5 ~ \\mathrm { m m } \\cdot \\mathrm { a } ^ { - 2 }$ ，下边界选取固定饱和土壤水含量为边界值,取 $0 . 4 8 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { m } ^ { - 3 } ,$ 。地下水埋深的初始值为模拟第1天的观测值，王壤水的初始值因无观测，故设潜水面上方 $1 \\mathrm { ~ m ~ }$ 均为$0 . 4 , 1 \\mathrm { ~ m ~ }$ 以上至地表均为0.2。3个断面的模拟期都是输水的20a(2001—2020年)，但具体来说又略有不同。英苏的模拟期为2000年11月16日—2020年12月31日；阿拉干的模拟期为2002年8月15日一2020年12月31日；依干不及麻的模拟期为2002年9月23日—2020年12月31日，其中第2次输水期的2000年11月16日—2001年2月4日的81d为英苏断面的参数率定期，第4次输水期的2002年8月15日—11月3日的91d和2002年9月23日—11月20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "日的 $5 9 \\mathrm { d }$ 分别为阿拉干和依干不及麻的参数率定期，其他年份为无观测约束的模拟期。率定期的河道日流量和河水水位由观测值获得，其它模拟期(如2003—2020年)的河道日流量数据，则是根据率定期的总输水量与河道断面累积流量的比例关系，结合当年的生态输水量和输水天数进行插值得到。其他模拟期的河水水位则根据率定期河流量与水位的拟合关系式及插值的日流量计算得到。率定期第一天的地下水埋深作为模拟初值，后续的20a地下水埋深通过模型模拟得到。根据收集的3个断面监测井地下水埋深时长，选取模拟期的后11a(2010—2020年)为模型验证期。根据监测井的位置，本研究分别选取河道3个断面单侧的 $1 0 0 0 \\mathrm { m }$ 范围区域进行模拟，模拟的空间步长是 $1 \\mathrm { m }$ ,时间步长是 $0 . 5 \\mathrm { h }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1拟二维地下水模型参数率定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合观测的地下水埋深数据，用SEC-UA参数优化方法，分别对各自断面上的拟二维地下水模型进行地下水水平导水率 $( K _ { \\mathrm { s } } )$ 参数进行率定，最终英苏、阿拉干和依干不及麻断面上的 $K _ { \\mathrm { s } }$ 分别被率定为$1 . 5 8 8 \\ \\mathrm { m \\cdot d ^ { - 1 } } \\ \\mathrm { , 0 . 0 7 9 \\ \\mathrm { m \\cdot d ^ { - 1 } } } \\ \\mathrm { , 0 . 1 7 1 \\ \\mathrm { m \\cdot d ^ { - 1 } } }$ 。为了检验最优率定参数的合理性，比较分析了断面上观测和包含最优参数值模型模拟的地下水水位，英苏断面上4个监测井(C3、C4、C5、C6）、阿拉干断面3个监测井(G3、G4、G5)和依干不及麻断面2个监测井(H2、H3)在率定期内观测和模拟地下水水位变化结果如图2所示。通过比较发现，在经过参数率定后，模拟的地下水位高程与其观测值比较接近,其中英苏4个监测井地下水埋深模拟的平均绝对值误差(MAE)为$0 . 1 9 4 \\mathrm { ~ m ~ }$ ,阿拉干3个监测井模拟的MAE为 $0 . 2 1 4 \\mathrm { ~ m ~ }$ 和依干不及麻2个监测井模拟的MAE为 $0 . 1 8 9 \\mathrm { ~ m ~ }$ 。同样地，也可以看到在同一断面上模拟的地下水水位离河越远而变得越低。这些结果表明，拟二维地下水模型能够合理模拟塔里木河下游生态输水条件下河岸的地下水变化，从而证明了模型在该区域是适用的，为下步的长期输水条件河岸地下水模拟",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "834 (al)英苏-C3井 816 (b1)阿拉干-G3井 808 (c1)依干不及麻-H3井  \n832 814 温806  \n830 812 804828810 802  \n2000-11-16 2000-12-06 2001-02-04 2002-08-15 2002-09-21 2002-11-03 2002-09-23 2002-10-16 2002-11-20日期(年-月-日) 日期(年-月-日) 日期(年-月-日)834「 (a2)英苏-C4井 816「(b2)阿拉干-G4井 808「 (c2)依干不及麻-H4井  \n832 m/ 814 806  \n水 830 水 812828 810 8021  \n2000-11-16 2000-12-06 2001-02-04 2002-08-15 2002-09-21 2002-11-03 2002-09-23 2002-10-16 2002-11-20日期(年-月-日) 日期(年-月-日) 日期(年-月-日)834 (a3)英苏-C5井 816「(b3)阿拉干-G5井  \n832 m  \n位 位 814  \n水830 水812828810  \n2000-11-16 2000-12-06 2001-02-04 2002-08-15 2002-09-21 2002-11-03日期(年-月-日) 日期(年-月-日)834「(a4)英苏-C6井  \n832 模拟  \n水830 观测8282000-11-16 2000-12-06 2001-02-04日期(年-月-日)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Variations of the simulated and observed groundwater table for the monitoring wells at the three sectiol ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提供合适的模型平台。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2断面地下水埋深的长期模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在获得3个断面上各自的最优模型参数值后，结合大西海子水库对塔里木河下游的 $2 0 \\mathrm { a }$ 生态输水量数据，就可以用拟二维地下水模型对输水条件下河流断面上的地下水埋深，进行20a长期模拟。根据收集到的2010—2020年断面监测井地下水位，我们对模拟结果和观测进行了比较，结果如图3所示。模拟值是断面上 $1 0 0 0 \\mathrm { m }$ 内的地下水埋深年平均值,观测值是断面上5个监测井的年均地下水埋深值，其中每个断面上5个监测井选取距离河岸$1 5 0 \\mathrm { ~ m ~ } , 3 0 0 \\mathrm { ~ m ~ } , 5 0 0 \\mathrm { ~ m ~ } , 7 5 0 \\mathrm { ~ m ~ } , 1 0 5 0 \\mathrm { ~ m ~ }$ 的监测井。最终英苏断面上的地下水埋深平均模拟误差(MAE)为 $0 . 5 7 5 \\mathrm { m }$ ,阿拉干断面上的地下水埋深平均模拟误差(MAE)为 $0 . 5 9 5 \\mathrm { m }$ ,依干不及麻断面上的地下水埋深平均模拟误差(MAE)为 $0 . 4 8 4 \\mathrm { ~ m ~ }$ 。虽然这些误差看起来稍高，但对于河道日流量仅通过年值插值得到的模型模拟来说，模拟结果还是合理的。另外3个断面上模拟与观测的相关系数(CC)也是较高的，它们分别是英苏0.783，阿拉干0.796，依干不及麻0.945。总之，通过与观测值进行比较，进一步证实了模型模拟的3个断面的地下水埋深结果是合理的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后我们分析每个断面上的平均地下水埋深的变化，试图解释生态输水量与断面地下水埋深的变化关系，3个断面上 $1 0 0 0 \\mathrm { m }$ 内的平均地下水埋深变化模拟结果见图4。结果表明，在生态输水的20a里，3个断面上的地下水位埋深总体上是逐年降低的，对应于地下水水位是逐年上升的，这充分展示了生态输水对塔里木河下游两岸的地下水补给及生态恢复起到了积极的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b421850d20ea485e9a707bcd44cefdb12b5428dd2a9520ee66c304ccf8b79ae9.jpg",
+        "img_caption": [
+            "图33个断面上模拟与观测的年均地下水埋深比较 Fig.3Comparisons between simulated and observed mean annual groundwater table depths at the three sections "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "具体来说，经过20a的生态输水，塔里木河下游的上段的英苏断面，中段的阿拉干和下段的依干不及麻的断面地下水埋深平均埋深从输水前的 $8 \\mathrm { m }$ 左右上升到 $4 \\mathrm { m }$ 左右，可见生态输水补给塔里木河下游河岸地下水的效果明显。相比于英苏断面上地下水位的曲折上升，阿拉干和依干不及麻的地下水位是持续上升的，这主要与不同断面上地下水水平传导率的差异有关。英苏断面的地下水水平传导率最大，所以地下水埋深随河道流量的变化（由生态输水引起)最明显。阿拉干和依干不及麻的地下水水平传导率相比英苏较小，所以在短的输水间隔期内地下水埋深受河道水位的影响较小，也就是说，在输水停滞的时间段内，河道虽无地表径流，但有较浅的地下水仍在补给河两岸的地下水，最终使得地下水位呈现为持续上升的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "比较3个断面上地下水埋深的时间变化可以发现，上段英苏断面的地下水埋深最浅，其次是下段的依干不及麻和中段的阿拉干。虽然中段阿拉干河道分配的输水流量高于下段依干不及麻(约1.74倍)，但是依干不及麻的地下水埋深却低于阿拉干，该结果已在刘斌等[7]和白元等[29]的部分年份观测数据研究中得到了证明，从侧面证明了拟二维地下水模型的模拟结果是合理的。归其原因与3个断面",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9d47ce700817b114292516658f111628118850491c4519a3807999a2fd4f7b3.jpg",
+        "img_caption": [
+            "图43个断面上模拟的年均地下水埋深变化 Fig.4Variations of simulated mean annual groundwater table depths at the three sections "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上的地下水水平传导率不同造成的：下段依干不及麻的地下水水平传导率是中段阿拉干的2.16倍高的地下水水平传导率加快了河水向河两岸的地下水渗透速度，使得地下水上升的快，最终出现了虽然中段阿拉干断面上的河水流量高于下段依干不及麻，但下段依干不及麻的地下水抬升高度却高于中段阿拉干的情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，不同年份的塔里木河下游生态输水总量有差异，它是如何影响断面上地下水埋深的变化的？图5展示了塔里木河下游生态输水总量及其3个断面上地下水埋深的年际变化情况。由图5可知，生态输水工程基本每年都会开展，并且输水量总体呈增加的趋势，特别是自2009年以来年输水量增加明显。相应地，3个断面上的地下水埋深逐年抬升，而且在2010年以后抬升趋势明显。同样地，地下水开始下降或放缓的年份出现在输水量较少的2007—2009年和2014年。可见输水量与地下水水位表现为正相关关系，说明生态输水对抬升下游河岸的地下水埋深起到了积极的作用。也注意到，河流量减少也会带来河岸地下水埋深的增大，这说明塔里木河下游河岸要想获得持续的生态效益，也需提供间歇性的生态输水。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看到，地下水埋深抬升(下降)最明显的年份，不是对应于输水量最大(最小)的年份，而是在其之后的1\\~2a内发生。比如英苏地下水埋深局部最大年(2005年和2015年)都是在上一年输水量出现最低值之后发生的，它在2018年的最低地下水埋深是在上一年出现最大输水量之后发生的;阿拉干和依干不及麻上的地下水埋深抬升段(2004—2006年、2012—2014年、2018—2020年）对应的年输水量均是下降的，但他们有个共同的特点是都在前一年出现了最大输水量。由此可见，输水量与地下水的年变化具有滞后性的特点，这在湾疆辉等[14]和郭红雨等[30]的站点监测研究中也被证实，说明了拟二维地下水模型的地下水变化模拟结果是合理的，而且河岸地下水对生态输水的响应具有滞后性的特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ec5cfe542f7096ace66908dceefdb8af59f069daf4e12dd3e0323b215cf7e0.jpg",
+        "img_caption": [
+            "图5塔里木河下游年生态输水量及其3个断面上年均地下水埋深的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了比较不同断面上平均地下水埋深的变化外，也比较了同一断面上不同监测井内地下水埋深变化。图6a\\~c分别展示了英苏断面上4个监测井(C3、C4、C5、C6）、阿拉干3个监测井(G3、G4、G5)和依干不及麻2个监测井(H2、H3)的年均地下水埋深变化。结果发现离河岸近的监测井（如C3、G3和H2)的地下水埋深经常低于离河岸远的监测井（如C6、G5和H3），并且离河近的监测井地下水埋深抬升幅度要高于离河远的监测井。在每个断面上，监测井间的水位差在输水的末期（如2015—2020年）相差不大，这充分说明多年河道生态输水对河岸地下水埋深的抬升起到了积极作用。这些结果说明拟二维地下水模型模拟同一个断面上不同监测井的地下水埋深变化是合理的。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9718c813425f8dce7c829cf5dce048d9841ff55a6277dd21c14c59d4883ae49b.jpg",
+        "img_caption": [
+            "Fig.5Variations of accumulated annual ecological water conveyance amounts in the lower reaches of TarimRiver and mean groundwater table depths at the three sections ",
+            "图6断面监测井的年均地下水埋深变化 Fig.6Variations of mean annual groundwater table depths at different monitoring wells of each section "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7a96aef8ceef49ff21dbcf0fc3f10e75581f5a2179e9e6135ca96b91170262c.jpg",
+        "img_caption": [
+            "图73个断面上模拟的地下 $2 \\mathrm { m }$ 深平均土壤湿度的年际变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3断面土壤湿度的长期模拟 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "塔里木河下游生态输水目的不仅是抬升地下水埋深，更重要的是提高表层土壤中非饱和土壤水含量(也称土壤湿度)，满足河岸植被的生长需求和改良土壤盐渍化的条件。为此,非饱和土壤水含量在输水条件下的变化也是本研究关注的一个重点。由于3个断面的地表处于不同的海拔高度，为了统一起见，我们选取地下埋深 $2 \\mathrm { m }$ 内的平均土壤湿度模拟结果进行分析比较，最终20a的土壤湿度模拟结果如图7所示。3个断面上的土壤湿度在20a的输水过程中是逐年增加的，其值分别由最初的0.20上升到0.30以上，其中英苏和依干不及麻的上升值都在0.35左右。3个断面上，上段英苏的 $2 0 \\mathrm { ~ a ~ }$ 平均土壤湿度最高(均值为0.294),其次是下段依干不及麻(0.29)和中段阿拉干(0.26)。另外，土壤湿度变化起伏最大的英苏断面，其它两段面上升比较平稳。这些变化特点都与各自的地下水埋深变化趋势比较相似，可以算出20a内地下水埋深变化与土壤湿度变化的相关系数分别是英苏0.892，阿拉干0.867和依干不及麻0.957。由于垂直的土壤饱和传导率值在3个断面上是相等的，所以地下水与土壤水间呈高相关关系，可以认为土壤湿度的增加主要是由地下水埋深抬升所引起的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤湿度随生态输水量的变化结果见图8。正如土壤湿度的变化和地下水变化具有较高相关性一样，土壤湿度与生态输水量的关系也满足2个特点：正相关性和滞后性。土壤湿度随着输水时间和输水量的增加而增加，特别是后 $1 0 \\mathrm { a }$ ，随着输水量的大幅增加，土壤湿度相比前 $1 0 \\mathrm { ~ a ~ }$ 有明显的增加。土壤湿度与生态输水量的滞后性也非常明显，比如3个断面在生态输水量最高年(2003、2011、2017年）之后的2\\~3a内，土壤湿度仍然表现为增加的趋势;在生态输水最低年(2004、2008、2014年)对应的土壤湿度都不是局部最小值，而是在其后1\\~2a内出现了局部最小值。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ab81d7067ba22f535d3978e019dc45df1b72f1874bd4704ba2989a3ad4485c2.jpg",
+        "img_caption": [
+            "Fig.7 Annual variations of simulated mean 2-meter-depth soil moistures at the three sections ",
+            "图8塔里木河下游生态输水量与其3个断面上$2 \\mathrm { m }$ 深平均土壤湿度的年变化",
+            "Fig.8 Annual variations of accumulated ecological water conveyance amounts in the lower reaches of Tarim River and mean 2-meter-depth soil moistures at the three sections "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用发展的包含土壤水和地下水运动的拟二维地下水模型对塔里木河下游输水条件下上、中、下段的3个断面(英苏、阿拉干和依干不及麻)地下水埋深和土壤湿度进行了20a长期模拟。通过率定期和11a(2010—2020年)的地下水埋深模拟结果与观测数据比较，发现两者是较一致的，表明模型的模拟结果是合理的，从而证明了该拟二维地下水模型在塔里木河下游断面地下水模拟上的适用性。然后，根据合理模拟的3个断面 $2 0 \\mathrm { a }$ 地下水埋深的结果，横向分析每个断面上在生态输水条件下的20a地下水埋深变化，纵向分析3个断面上地下水埋深变化及其与生态输水量的关系。另外，对断面土壤湿度的相应变化也进行了分析。主要结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）为了提高模型在各个断面上对地下水动态",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "模拟的适用性，首先对拟二维地下水模型在断面上的模拟进行参数率定。3个断面上的模型率定参数均为地下水水平传导率。英苏断面模拟的率定期为第2次生态输水，阿拉干和依干不及麻断面模拟的率定期为第4次生态输水。这样的设置主要是根据断面地下水观测数据的密集程度而确定。最终英苏、阿拉干和依干不及麻断面上模型率定的地下水最优模拟的平均绝对值误差(MAE)分别为$0 . 1 9 4 \\mathrm { ~ m ~ } , 0 . 2 1 4 \\mathrm { ~ m ~ } , 0 . 1 8 9 \\mathrm { ~ m ~ }$ 并且每个断面上监测井地下水位离河岸越远而越低，说明了拟二维地下水模型对塔里木河下游输水条件下河岸断面地下水位模拟是合理的，可以在下游河岸进行长期模拟。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）对最优的拟二维地下水模型，分别在3个断面上进行20a输水条件下的地下水埋深的模拟,用2010一2020年的地下水埋深数据验证模拟结果，结果表明每个断面的地下水埋深年均模拟误差(MAE)约在 $0 . 5 \\mathrm { ~ m ~ }$ 左右，这在缺乏准确的日河水流量数据情况下，模拟结果被认为是合理的，从而证明了模型对塔里木河下游断面地下水长期的模拟是合理的。然后结合 $2 0 \\mathrm { a }$ 的模拟结果进行分析，表明随着输水年份的增加，3个断面上的地下水埋深均有明显的抬升，地下水位埋深从输水前的 $8 \\mathrm { m }$ 左右抬升到输水后的 $4 \\mathrm { m }$ 左右。特别是2009年之后，随着年输水量的增加，断面上的地下水埋深抬升明显，这些将会对于河岸的生态植被恢复起到了积极的作用。下段依干不及麻的地下水传导率参数值是中段阿拉干的2.16倍，这使得虽然中段河道流量高于下段河道流量,但最终结果是下段依干不及麻的地下水水位高于中段阿拉干，其中地下水水平传导率参数起着重要的作用。通过比较塔里木河下游输水量与3个断面上地下水埋深的变化关系，发现同一断面上地下水埋深对河水流量有一定的滞后正相关作用。另外，也分析了同一断面不同监测井的地下水埋深模拟变化，发现离河近的监测井地下水埋深抬升幅度高于离河远的监测井。这些结果从纵向(不同断面)和横向(同一断面)上，证实了模型对输水条件下河岸地下水长期模拟的合理性。同时，输水量与地下水水位的正相关与滞后性，说明了进行生态输水对抬升下游河岸的地下水埋深起到了积极的作用，并且塔里木河下游河岸要想获得持续的生态效益,需要提供间歇性的生态输水。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）在缺乏观测的情况下，也对模拟断面 $2 \\mathrm { ~ m ~ }$ 深的土壤湿度进行了分析。结果发现，随着生态输水量的增加，土壤湿度也有明显的增加，其值从输水前的0.20增加到20a输水后的0.30以上，其中英苏和依干不及麻的上升值都在0.35左右，这些对于河岸的生态植被恢复起到了积极的作用。土壤水与地下水位的变化趋势有较好的正相关性，两者相关系数在0.85以上。由于模型在垂直土壤水传导率参数上取值一样，因此可以推断土壤湿度的变化主要是由地下水埋深抬升引起。通过分析输水量与土壤湿度的年变化，发现土壤湿度与输水量间也有滞后性特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究在用模型解决输水条件下地下水动态变化实际问题上，用参数率定法消除了模型在描述实际问题的误差，但这毕竟是有限的。如果能把更多的物理过程如植被光合作用、土壤的冻融和不同植被动态变化等加入到模型描述中，将会得到好的模型模拟结果。另外还需要引入多种数据源来对模型做进一步的发展与验证，比如收集实测的断面河水流量或水位数据、地表降水、实际蒸散发量和更多的监测井地下水埋深等数据，对当地的土壤质地参数做多样本点的实测，收集更准确的土壤湿度数据等，只有这样才能获得更加准确的地下水和土壤水模拟，进而建立准确的河水流量与地下水位动态关系式。最终根据河岸植被生态所需水量，设计不同情景的输水策略，比如选择不同的输水期和输水量等，能以最小的输水量最大程度地满足塔里木河下游的生态环境安全，这对于干旱区生态水资源管理具有重要的意义和参考价值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]陈亚宁,张小雷,祝向民,等.新疆塔里木河下游断流河道输水 的生态效应分析[J].中国科学:D辑，2004,34(5):475-482. [Chen Yaning,Zhang Xiaolei,Zhu Xiangmin,et al.Analysis on the ecological benefits of the stream water conveyance to the driedup river of the lower reaches of Tarim River,China[J]. Science in China: Series D,2004,34(5): 475-482.]   \n[2] Chen Y,Li W,Xu C,etal.Desert riparian vegetation and groundwater in the lower reaches of the Tarim River Basin[J].Environmental Earth Sciences,2015,73(2): 547-558.   \n[3] 马跃.塔里木河下游生态输水对植被和地下水位的影响[J].生 态环境与保护,2020,3(4):37.[Ma Yue.Effects of ecological wa",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ter transport on vegetation and groundwater level in the lower reaches of Tarim River[J]. Ecological Environment and Protection, 2020, 3(4): 37.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]Ling H, Zhang P,Guo B,et al. Negative feedback adjustment challenges reconstruction study from tree rings: A study case of response of Populus euphratica to river discontinuous flow and ecological water conveyance[J]. Science of the Total Environment, 2017, 574: 109-119.   \n[5]Mamat Z,Halik U,Keyimu M,etal.Variation of the floodplain forest ecosystem service value in the lower reaches of Tarim River, China[J].Land Degradationand Development,2018,29: 47-57.   \n[6]Zhou H,Chen Y,Hao X,et al. Tree rings: A key ecological indicator for reconstruction of groundwater depth in the lower Tarim River,northwest China[J].Ecohydrology，2019,12:e2142,doi: 10.1002/eco.2142.   \n[7]Liao S,Xue L, Dong Z,et al. Cumulative ecohydrological response to hydrological processes inarid basins[J].Ecological Indicators, 2020,111: 106005,doi: 10.1016/j.ecolind.2019.106005.   \n[8]秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming,Zhang Ying,et al.Effcts of climate change and human activities on vegetation productivity in arid areas[J]. Arid Land Geography,2020,43(1): 117-125.]   \n[9]孙天瑶,李雪梅,许民,等.2000—2018年塔里木河流域植被覆 盖时空格局[J].干旱区地理,2020,43(2):415-424.[Sun Tianyao,Li Xuemei,Xu Min,et al. Spatial temporal variations of vegetation coverage in the Tarim River Basin from 2OOO to 2O18[J].Arid Land Geography,2020,43(2): 415-424.]   \n[10]陈亚宁.新疆塔里木河流域生态保护与可持续管理[M].北京: 科学出版社,2015.[Chen Yaning. Ecological protection and sustainable management of the Tarim River Basin[M].Beijing: Science Press, 2015.]   \n[11]徐海量,樊自立,杨鹏年,等.塔里木河近期治理评估及对编制 流域综合规划的建议[J].干旱区研究,2016,33(2):223-229. [Xu Hailiang,Fan Zili,Yang Pengnian,et al. Evaluation on the management of Tarim River and advices for the future planning of the Tarim River Basin[J].Arid Zone Research,2016,33(2): 223- 229.]   \n[12] 陈亚宁,李卫红,陈亚鹏,等.科技支撑新疆塔里木河流域生态 修复及可持续管理[J].干旱区地理,2018,41(5):901-907. [Chen Yaning,Li Weihong, Chen Yapeng, et al. Science in supporting the ecological restoration and sustainable development of the Tarim River Basin[J].AridLand Geography,2018,41(5): 901- 907.]   \n[13] 陈亚宁,李卫红,陈亚鹏,等.新疆塔里木河下游断流河道输水 与生态恢复[J].生态学报,2007,27:538-545.[Chen Yaning,Li ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Weihong,Chen Yapeng,etal.Water conveyance in dried-up river",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "way and ecological restoration in the lower reaches of Tarim River, China[J]. Acta Ecological Sinica,2007,27(2): 538-545.]   \n[14] 湾疆辉,陈亚宁,李卫红,等.塔里木河下游断流河道输水后潜 水埋深变化规律研究[J].干旱区地理,2008,31(3):428-435. [Wan Jianghui,Chen Yaning,Li Weihong,et al.Variation of groundwater level after ecological water transport in the lower reaches of the Tarim River in recent six years[J].Arid Land Geography,2008,31(3): 428-435.]   \n[15] 刘迁迁,古力米热·哈那提,苏里坦,等.塔里木河下游河岸带地 下水埋深对生态输水的响应过程[J].干旱区地理,2017,40(5): 979- 986.[Liu Qianqian,GulimireHanati,Sulitan,et al.Response process of groundwater table to ecological water conveyance in the lower reaches of Tarim River riparian zone[J].Arid Land Geography,2017,40(5): 979-986.]   \n[16] 李丽君,张小清,陈长清,等.近20 a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41(2):238-247.[Li Lijun, Zhang Xiaoqing, Chen Changqing,et al. Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J]. Arid Land Geography,2018, 41(2): 238-247.]   \n[17] 刘斌,赵雅莉,白洁,等.塔里木河下游流域输水工程生态效应 评价研究[J].地理空间信息,2020,18(3):112-117.[Liu Bin, Zhao Yali,Bai Jie,etal.Ecological effect evaluation of water con veyance project in lower reaches of Tarim River[J]. Geospatial Information,2020,18(3): 112-117.]   \n[18] 杨鹏年,邓铭江,董新光,等.间歇输水河道两侧一维地下水非 稳定流运动研究——以塔里木河下游为例[J].干旱区地理, 2008,31(5):731-736.[Yang Pengnian,Deng Mingjiang Dong Xinguang,et al.1D groundwater transient movement of intermittent water transmiting[J].Arid Land Geography,2008,31(5): 731- 736.]   \n[19] 刘迁迁,古力米热·哈那提,王光焰,等.间歇性生态输水塔里木 河下游断面地下水位变化模拟[J].生态学报,2018,38(15): 5519-5528.[Liu Qianqian, Gulimire Hanati, Wang Guangyan, et al. Simulation of sectional groundwater level variation in the lower reaches of Tarim River under intermitent ecological water conveyance[J].Acta Ecologica Sinica,2018,38(15): 5519-5528.]   \n[20] 古力米热·哈那提,张音,关东海,等.生态输水条件下塔里木河 下游断面尺度地下水流数值模拟[J].水科学进展,2020,31(1): 61-70.[Gulimire Hanati, Zhang Yin, Guan Donghai,et al.Numerical simulation of groundwater flow at cross-section scale in the lower reaches of Tarim River under the condition of ecological water conveyance[J].Advances in Water Science,2020,31(1): 61-70.]   \n[21] 狄振华,谢正辉,袁星,等.输水条件下考虑土壤水和地下水相 互作用的河流剖面地下水埋深估计方法[JJ.中国科学：地球科 学,2010,40(10): 1420-1430.[Di Zhenhua, Xie Zhenghui, Yuan ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xing,et al.Prediction of water table depths under soil watergroundwater interaction and stream water conveyance[J]. Science in China: Series D,2010,40(10): 1420-1430.] [22] 谢正辉,罗振东,曾庆存,等.非饱和土壤水流问题含水量和通 量的数值模拟研究[J].自然科学进展,1999,9(12):1280-1286. [Xie Zhenghui,Luo Zhendong, Zeng Qingcun,et al. Numerical simulation of water content and flux in unsaturated soil flow problems[J]. Progress in Natural Science,1999,9(12): 1280-1286.] [23] 钱亦兵,周华荣,赵锐锋,等．塔里木河中下游湿地及其周边土 壤理化性状的空间异质性[J].水土保持学报，2005,19(6):31-   \n34.[Qian Yibing,Zhou Huarong,Zhao Ruifeng,et al. Spatial heterogeneity of soil physical-chemical properties for wetlands and surrounding lands in middle and lower reaches of Tarim River[J]. Journal of Soil and Water Conservation,2005,19(6): 31-34.] [24] 汪亮亮,叶茂,高生峰,等.水热因子对塔里木河下游胡杨年轮 指数和植被指数的影响[J].南京林业大学学报(自然科学版),   \n2017,41(5): 85-91.[Wang Liangliang,Ye Mao, Gao Shengfeng, et al.Effects of hydrothermal factors on vegetation index and treeringindex ofPopuluseuphratica in the lower reachesof the Tarim River[J].Journal of Nanjing Forestry University (Natural Science Edition),2017,41(5): 85-91. ] [25]马晓东,李卫红,朱成刚,等.塔里木河下游土壤水分与植被时 空变化特征[J].生态学报,2010,30(5):4035-4045.[Ma Xiaodong,Li Weihong,Zhu Chenggang,et al. Spatio-temporal variation in soil moisture and vegetation along the lower reaches of Tarim River,China[J].Acta Ecologica Sinica,2010,30(5):4035-4045.]   \n[26]Dickison RE,Henderson-sellers A,Kennedy PJ,et al.Biosphere atmosphere transfer scheme (BATS) for NCAR community climate model[R].NCAR Technical Note,NCAR/TN 275+STR,1986.   \n[27]Clapp R B,Hornberger G M. Empirical equation for some soil hydraulic properties[J]. Water Resources Research,1978,14: 601- 604.   \n[28]Duan Q,Gupta V K, Sorooshian S.Effective and efficient global optimization for conceptual rainfall-runoff model[J].Water Resources Research,1992,28:1015-1031.   \n[29]白元,徐海量,张青青,等.基于地下水恢复的塔里木河下游生 态需水量估算[J].生态学报,2015,35(3):630-640.[Bai Yuan, Xu Hailiang, Zhang Qingqing,et al. Evaluation on ecological water requirement in the lower reaches of Tarim River based on groundwater restoration[J]. Acta Ecologica Sinica,2015,35(3): 630-640.]   \n[30]郭红雨.塔里木河下游生态输水工程对地下水位变化的影响分 析[J].西北水电,2020,185(5):29-32.[Guo Hongyu.Analysis of the impact of the ecological water delivery project on the change of groundwater level in the lower reaches of the Tarim River[J]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Northwest Hydropower,2020,185(5):29-32.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Estimation of riparian groundwater table depth in the lower reaches of Tarim River under long-term water conveyance ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DI Zhenhua'， XIE Zhenghui²， CHEN Yaning²",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.State KeyLaboratory of Earth Surface Processes and Resource Ecology,Facultyof Geographical Science,   \nBeijingNormalUniversity,BeijingOo875,China;2.tateKeyLaboratoryofNumericalModelingforAtmosphericSciencesad   \nGeophysicalFuidDamics (LSG),IstituteoftmosphericPhysics,hineseAcademyofiencs,BeijingO9,ina; 3.State Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute of Ecologyand Geography, Chinese Academy of Sciences, Urumqi 83oo11, Xinjiang, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Accurate estimation of the groundwater table dynamic variation in a riparian zone under ecological water conveyance conditions is of great importance for the sustainable development of water resources management in arid areas.Based on the data of river discharges from ecological water conveyance and the groundwater tables of riparian monitoring wels from 2001 to 2020,this study simulated the dynamic variation of groundwater table atthree sections of Yingsu,Alagan,and Yiganbujimain the lower reachesof the TarimRiver, Xinjiang, China usinga developed quasi-two-dimensional groundwater model, including the groundwater and soil water motion equations.In the calibration period,the observed groundwater table data was used to adjust the critical parameter (i.e.,horizontal hydraulicconductivity)of the quasi-two-dimensional model,and the average simulation errorof the monitoring wells at each of the three sections was approximately $0 . 2 \\mathrm { ~ m ~ }$ . In the validation period, the groundwater table data from 2011 to 2020 at the monitoring wels ofthe three sections were compared with the simulated results,and the average error at each of the three sections was approximately $0 . 5 \\mathrm { ~ m ~ }$ .Therefore,the simulated results of the groundwater table were acceptable under the lack of accurate river level data and the model was suitable for simulating the variation of the riparian groundwater table under ecological water conveyance in the lower reaches ofthe Tarim River.Thus,based on the simulation results from 2001 to 2020,the groundwater table and soil moisture variations were analyzed to demonstrate the response ofriparian groundwater and soil moisture to the ecological water conveyance project.The results show that the groundwater table and soil moisture at the three sections evidently increased in 20 years of water conveyance periods.Specifically,the groundwater table increased from approximately $8 \\mathrm { ~ m ~ }$ before ecological water conveyance to nearly $4 \\mathrm { ~ m ~ }$ ，and the corresponding soil moisture rose from O.20 to O.35 above.The increasing trend is more significant with the substantial increase of the annual water conveyance amount since 2Oo9.Moreover, the variation of groundwater table presented a certain lag follwing the change in the water conveyance amount,and a positive correlation between soil moisture and groundwater table makes the soil moisture lags behind the water conveyance amount. Compared with the river discharge,the groundwater hydraulic conductivity plays a more important role in the variation of groundwater table at cros-section; thus, increasing the upswing amplitude of the groundwater table at Yiganbujima sections of the lower segment compared with that of the Alagan section of the middle segment in lower reaches of the Tarim River. Additionaly,the inter-annual variations of groundwater and water conveyance amount also indicate that the intermitent ecological water conveyance is essential to achieve a sustainable ecological benefit in the lower reaches of the Tarim River. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: quasi-two-dimensional groundwater model; ecological water conveyance；long-term water table simulation； the lower reaches of Tarim River ",
+        "page_idx": 10
+    }
+]

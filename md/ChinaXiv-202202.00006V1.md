@@ -1,0 +1,365 @@
+# Ecological environment quality evaluation of the Sahel region in Africa based on remote sensing ecological index
+
+WU Shupu1,2, GAO Xin1,2\*, LEI Jiaqiang1,2, ZHOU Nal1,2, GUO Zengkun1,2, SHANG Baijun1,2
+
+1State KeyLaboratoryofDesertandOasisEcology,Xinjiang InstituteofEcologyand Geography,ChineseAcademyofSiences, Urumqi 830011, China;   
+2University of Chinese Academy of Sciences,Beijing 100049, China
+
+Abstract: Long-term monitoring of the ecological environment changes is helpful for the protection of the ecological environment. Based on the ecological environment of the Sahel region in Africa, we established a remote sensing ecological index (RSEI) model for this region by combining dryness, moisture, greenness, and desertification indicators. Using the Moderate-resolution Imaging Spectroradiometer (MODIS) data in Google Earth Engine (GEE) platform,this study analyzed the ecological environment quality of the Sahel region during the period of 2001-2020. We used liner regresson and fluctuation analysis methods to study the trend and fluctuation of RSEI,and utilized the stepwise regression approach to analyze the contribution of each indicator to the RSEI. Further,the correlation analysis was used to analyze the correlation between RSEI and precipitation,and Hurst index was applied to evaluate the change trend of RSEI in the future. The results show that RSEI of the Sahel region exhibited spatial heterogeneity. Specifically,it exhibited a decrease in gradient from south to north of the Sahel region. Moreover,RSEI in parts of the Sahel region presented non-zonal features.Diferent land-cover types demonstrated different RSEI values and changing trends. We found that RSEI and precipitation were positively correlated,suggesting that precipitation is the controlling factor of RSEI. The areas where RSEI values presented an increasing trend were slightly less than the areas where RSEI values presented a decreasing trend.In the Sahel region, the areas with the ecological environment characterized by continuous deterioration and continuous improvement accounted for $4 4 . 0 2 \%$ and $2 8 . 2 9 \%$ of the total study area,respectively，and the areas in which the ecological environment was changing from improvement to deterioration and from deterioration to improvement accounted for $12 . 4 2 \%$ and $1 5 . 2 6 \%$ of the whole area, respectively. In the face of the current ecological environment and future change trends of RSEI in the Sahel region, the research results provide a reference for the construction of the "Green Great Wall" (GGW) ecological environment project in Africa.
+
+Keywords: ecological environment; remote sensing ecological index; human activities; climate change; Sahel region; "Green Great Wall" (GGW)
+
+Citation:WU Shupu, GAO Xin,LEI Jiaqiang,ZHOU Na,GUO Zengkun,SHANG Baijun.2022.Ecological environment qualityevaluationof theSahelregion inAfricabasedonremotesensing ecologicalindex.JournalofAridLand,14():14-33. https://doi.0rg/10.1007/s40333-022-0057-1
+
+# 1Introduction
+
+Over the past $1 0 0 \mathrm { a }$ ,the Earth's mean temperature has increased by $0 . 7 ^ { \circ } \mathrm { C }$ (IPCC,2014).Numerous studies have shown that climate change has important impacts on polar, temperate,and tropical ecological environments (Vitousek,1994;Walther et al.,2002).Due to the influence of human activities,the changes of ecological environment tend to be complicated and multi-dimensional (Sih et al.,2011). Advances in science and technology provide a basis for monitoring the variability of the Earth's ecological environment and its possble responses to changes in anthropogenic and natural conditions (Moss et al.， 2O1O). Such advances can contribute to improving our understanding of the operating mechanism of the Earth's systems by monitoring long-term ecological environment changes,indicating the response of the ecological environment to more intense human activities (Qureshi et al.,2O2O),and can assist in efforts to minimize the negative impact of global changes on human survival and development (Ji et al., 2020).
+
+Remote sensing (RS) technology has the advantages of large observation range, timeliness,and periodicity. It is widely used in fire monitoring,land-cover change analyses,forestry investigations, and large-scale real-time air pollutant monitoring (Biswal and Gorai, 2O2O; Ebrahimi et al., 2020; Gu et al.，2020; Yim, 202O); this technology plays an important role in ecological environment monitoring (Xu et al.,2O19).Ecological environment refers to the general term of the environment composed of living and non-living organisms (Liao and Jiang,2O2O). Due to the different research themes of scholars,there are many differences in the definition of ecological environment quality (Miao et al.，2O16; Jing et al.，2O2O). Based on relevant researches,we define the ecological environment quality as the degree of suitability for the survival of living organisms in this study.
+
+Ecological environment quality evaluation is based on the choice of different indicators； it adopts the comprehensive evaluation method to quantitatively assess the regional ecological -environmental quality (Zhou, 2O00). Xu (2013） proposed to monitor and evaluate the ecological environment quality by obtaining remote sensing ecological index (RSEI) through RS technology. At present, many scholars have used RSEI to evaluate the ecological environment quality of different regions.For example,Xu et al. (2O019） quantified and monitored the ecological environment changes in Fujian Province of China based on the change vector analysis method and four ecological indicators (i.e.,moisture，greenness,heat,and dryness). Liao and Jiang (2020) established China's RSEI model, based on four indicators (moisture,greenness, heat, and dryness). They monitored the overall ecological environment quality of China from 2Oo0 to 2017 and found that drought was the most important factor affecting the ecological environment quality (Liao and Jiang, 2020).
+
+Changes in the ecological environment are usually accompanied by variations of the whole environment, including changes in the surface vegetation, temperature,and soil moisture (Walther et al.,2O02； Zheng et al., 2O2O). Therefore,a comprehensive evaluation of multiple indicators should be included when RS is used to monitor the ecological environment changes. However, previous research has mostly used moisture, greenness, heat,and dryness as evaluation indicators, while ignored the diversity of the ecological environment (Xiong et al.,2O2O). Different ecological environments should be evaluated with different indicators. Moreover,data loss occurs easily because RS images are limited by bad weather conditions (Steven et al.,1998; Zhang et al.,2020). In addition, some research areas are relatively broad,and images with intervals of 5 or 1O a are often selected for RSEI evaluation to reduce the experimental workload (Fan et al.，2020). However, owing to the influence of data selection,variations in the surface features,and extreme climate events,changes in the ecological environment can be easily misjudged (Hang et al.,2O2O). In the past, single ecological factor was used to evaluate the ecological environment quality, such as the vegetation index (Dardel et al., 2014), soil moisture index (Gu et al., 2019), precipitation (Dai, 2011),and temperature (Wu et al.， 2O2O). There are few studies about the overall ecological environment of the Sahel region. Based on the RSEI model, this paper comprehensively assessed the ecological environment quality of the Sahel region.
+
+As mentioned above,with the consumption of natural resources and global climate change, the global ecological environment is accordingly changing (Singh et al., 2O14). The Sahel region is a Zone between the Sahara Desert and Savanna. Its ecological environment is very fragile,and it is extremely sensitive to climate change and human activities (Held et al., 2OO5; Issa et al.,2014). Severe desertification occurs in the Sahel region owing to the harsh ecological environment. The "Green Great Wall" (GGW) ecological environment project of the Sahel region was proposed to combat desertification, which aimed to construct a tree belt from the west to the east of Africa (Goffner et al., 2O19).The shelterbelt intends to adjust the temperature along the pathway,reduce the rate of wind erosion of soil, and increase the moisture of the local microclimate (Wade et al., 2018; You et al., 2019).
+
+The main objectives of this study were to: (1) explore reasonable RS ecological indicators for the Sahel region; (2) determine the ecological environment change trend over the last 2O a in the Sahel region; (3）construct the RSEI model for the Sahel region； and (4） predict future ecological environment changes in the Sahel region.Moreover, this research offers an academic reference for the construction of the GGW.
+
+# 2Study area and data
+
+# 2.1 Study area
+
+The Sahel region encompasses the area from the Senegal in the west to the Eritrea in the east of Africa; it lies between the Sudan Savanna zone and the arid Sahara Desert, with a mean width of approximately $3 5 0 \mathrm { k m }$ .The Sahel region also has numerous wetlands,including the Senegal Delta, Niger River,and Lake Chad region (Moser et al.,2O14). The area of the Sahel region is mostly divided by annual precipitation. As shown in Figure 1,the Sahel region has an annual isohyet of $1 5 0 ~ \mathrm { m m }$ on its northern border and $7 0 0 ~ \mathrm { { m m } }$ on its southern border (Le and Henri, 1989). This region has a dry climate and frequent sandstorms.Due to the rapid growth of population,farmland and pastoral areas are continuously expanding,resulting in ecological environment deterioration and spread of desertification (Tucker et al.，1985; Scheffer et al., 2O01). The conception of the GGW was introduced to manage the ecological environmental conditions caused by climate change and human activities in the Sahel region,which was later gradually developed into the current GGW ecological environment project (Goffner et al., 2O19). The latitude of the areas of the GGW ecological environment project is similar to that of the Sahel region of Africa. There is a huge spatial overlap between the areas of the GGW ecological environment project and the Sahel region of Africa.
+
+![](images/d5f6f2bcda3e665862618aeb0e1bcd185d5e985e0dce0999591494a007912544.jpg)  
+Fig.1Location of the Sahelregion in Africa (study area)and the paths of the "Green Great Wal"(GGW) ecological environment project
+
+# 2.2 Data
+
+Moderate-resolution Imaging Spectroradiometer (MODIS） data (htps://lpdaac.usgs.gov/products/, 2001-202O) with a spatial resolution of $5 0 0 \mathrm { m }$ were used as the datasets for the analysis,including the MOD09A1 surface reflectance within an 8-d composite and MCD43A3 albedo within a 16-d composite.We used the Google Earth Engine (GEE) to remove clouds in the MODO9Al surface reflectance within an 8-d composite (htps://earthengine.google.com/). There are a small number of unevenly distributed meteorological stations in Africa,and therefore precipitation data in the ERA5 (ECMWF Reanalysis v5） dataset (htps:/cds.climate.copernicus.eu/#!/home) were used to process and calculate the annual mean precipitation data. Furthermore,annual isohyets of 15O and $7 0 0 \mathrm { m m }$ were extracted to delimit the scope of the Sahel region. In addition, the total precipitation in the months from May to October in the Sahel region during 2O01-2019 was calculated. We used GlobeLand30 production (htp://www.globallandcover.com/） in 2020 as land classification data. We adopted the water products of Joint Research Centre (JRC)
+
+(htps://global-surface-water.appspot.com） to reduce the influence of water on the experimental results,and used water areas from 2O01 to 2O2O as masks to remove water areas from the MODIS image data. Detailed information regarding the data is shown in Table 1.
+
+Table 1Data products used in the study and their spatial-temporal resolutions   
+
+<html><body><table><tr><td>Product</td><td>Band</td><td>Time resolution</td><td>Spatial resolution</td></tr><tr><td>MOD09A1</td><td>B1 (Red) B2 (NIR 1) B3 (Blue) B4 (Green) B5 (NIR 2) B6 (SWIR 1)</td><td>8d</td><td>500 m</td></tr><tr><td>MOD13A1</td><td>B7 (SWIR 2) NDVI</td><td>16d</td><td></td></tr><tr><td>MCD43A3</td><td></td><td>16d</td><td>500 m 500 m</td></tr><tr><td>ERA5</td><td>Black sky albedo</td><td></td><td></td></tr><tr><td></td><td>Total precipitation</td><td></td><td>0.1°</td></tr><tr><td>GlobeLand30</td><td></td><td>10a</td><td>30m</td></tr><tr><td>JRC Monthly Water</td><td></td><td>30d</td><td>30m</td></tr></table></body></html>
+
+Note:JRC,JontResearch Centre;N,nearinfrared;SW,short-waveinfrared;NDVI,ormalizeddiferencevegetatiodex.
+
+# 3 Methods
+
+# 3.1 RSEI
+
+RSEI was used to monitor the ecological environment,as proposed by Xu et al. (2O19), based on four indicators (moisture,greenness,heat,and dryness)and RS data. The RSEI model has demonstrated a good performance in evaluating the ecological environment of diferent regions (Gou and Zhao, 2020; Jing et al.,202O; Wen et al.,2O2O).This method also has some limitations; that is,because the indicator of heat is based on urbanization,a large error may occur when the method is used to evaluate the ecological environment without cities (Shao et al., 2O2O).The ecological environment in the Sahel region is fragile and desertification is serious (Toure et al.,2Ol9).Furthermore,the temperature has ben increasing in this region during recent decades (Diedhiou et al.，2O18). Therefore,taking the heat indicator as an ecological environment evaluation index may cause inaccurate results.In this study,we removed the heat indicator and included the reverse desert difference index (RDDI) as part of the improved RSEI model, based on the ecological environment of the Sahel region. The improved RSEI model is as follows:
+
+$$
+\mathrm { R S E I } = f ( \mathrm { N D S I } , \mathrm { W E T I } , \mathrm { N D V I } , \mathrm { R D D I } ) ,
+$$
+
+where RSEI is the remote sensing ecological index; NDSI (normalized dry soil index) represents the ecological environment dryness;WETI (wet index) represents the ecological environment moisture; NDVI(normalized diference vegetation index) represents the ecological environment greenness; RDDI represents the ecological environment desertification degree; and $f$ is the principal component analysis (PCA) method, which is used to extract the first principal component band. Here,PCA is a statistical method to transform a group of correlated variables into irrelevant variables through orthogonal transformation,and these transformed variables are called principal components to reduce the dimension and simplify the dataset (Jolliffe and Cadima, 2016).
+
+Generally, if the calculated RSEI value was high, it represented the region with a healthy ecological environment; by contrast, if the calculated RSEI value was low, it represented the region with a poor ecological environment (Xu et al.,2O19; Ning et al.,2O2O). In this study,after PCA was conducted for the years 2004,2005,2008,2010,2018,2019,and 2020,we found that the low RSEI value represented the region with a healthy ecological environment, whereas the high RSEI value represented the region with a poor ecological environment. Then, we subtracted the RSEI value of the above years from 1, so that the high value represented the region with a healthy ecological environment and the low value represented the region with a poor ecological environment (Xu et al.,2O19; Ning et al., 2020).
+
+# 3.1.1Dryness indicator
+
+The dryness indicator,reflecting the degree of surface dryness in a region, was obtained by combining the bare soil indicator and the index-based built-up indicator(Rikimaru,2OO2; Xu,2Oo8; Liao and Jiang, 2020). The dryness indicator is expressed as follows:
+
+$$
+\mathrm { S I } = \frac { ( \rho 6 + \rho 1 ) - ( \rho 2 + \rho 3 ) } { ( \rho 6 + \rho 1 ) + ( \rho 2 + \rho 3 ) } ,
+$$
+
+$$
+\mathrm { I B I } = \frac { \displaystyle \frac { 2 \rho 6 } { \rho 6 + \rho 2 } - \frac { \rho 2 } { \rho 2 + \rho 1 } - \frac { \rho 4 } { \rho 4 + \rho 6 } } { \displaystyle \frac { 2 \rho 6 } { \rho 6 + \rho 2 } + \frac { \rho 2 } { \rho 2 + \rho 1 } + \frac { \rho 4 } { \rho 4 + \rho 6 } } ,
+$$
+
+$$
+\mathrm { N D S I } = \left( \mathrm { S I } + \mathrm { I B I } \right) / 2 ,
+$$
+
+where SI is the bare soil indicator; $\rho 1 { - } \rho 7$ denote bands 1-7 of the MODIS image data, corresponding to the red band,near infrared 1 band,blue band,green band, near infrared 2 band,short-wavelength infrared 1 band,and short-wavelength infrared 2 band,respectively;and IBI is the index-based built-up indicator.
+
+# 3.1.2Moisture indicator
+
+The moisture indicator reflects the humidity of water body,vegetation,and soil.Based on the research results of Lobser and Cohen (2OO7), we adopted the Tasseled Cap Transformation method to obtain the moisture indicator by using MODISo9A1 data. The formula is as follows:
+
+$$
+\mathrm { W E T I } = 0 . 1 1 4 7 \rho 1 + 0 . 2 4 8 9 \rho 2 + 0 . 2 4 0 8 \rho 3 + 0 . 3 1 3 2 \rho 4 - 0 . 3 1 2 2 \rho 5 - 0 . 6 4 1 6 \rho 6 - 0 . 5 0 8 7 \rho ^ { 2 }
+$$
+
+# 3.1.3 Greenness indicator
+
+The NDVI represents surface vegetation characteristics (Carlson and Ripley,1997); it was selected as :he greenness indicator. The calculation formula is as follows:
+
+$$
+\mathrm { N D V I } = ( \rho 2 - \rho 1 ) / ( \rho 2 + \rho 1 ) .
+$$
+
+# 3.1.4Desertification indicator
+
+In this study,the desertification difference index (DDI) model was used (Ma et al.,2O11).We subtracted the normalized DDI value from 1 to obtain the RDDI value.The closer the RDDI value was to 1, the more serious the desertification was. The specific extraction steps were as follows: MCD43B3 images and MOD13A1 images from 1 May to 1 October of each year during the period of 2001-2020 were spliced using the GEE platform; albedo and NDVI values of the Sahel region during the period of 2001-202O were also extracted and averaged; and totaly 19,847 sampling points were established in the Sahel region. The DDI model was established by using the albedo and mean NDVI values of the corresponding sampling points,and then the RDDI model was derived.The formulas are as follows:
+
+$$
+a = - { \frac { b } { K } } - c ,
+$$
+
+$$
+d = 1 - a ,
+$$
+
+where $a$ is the DDI value; $K$ is the slope of the correlation between albedo and NDVI values; $b$ and $c$ are the NDVI and albedo values, respectively; and $d$ is the RDDI value.
+
+# 3.2Linear regression
+
+We used the linear regression method to analyze the interannual variation characteristics of RSEI from 2001 to 2020 (Bashir et al.,2020; Wu et al.,202O). The formula is as follow:
+
+$$
+\theta _ { \mathrm { S l o p e } } = \frac { \displaystyle n \times \sum _ { i = 1 } ^ { n } i \times M _ { \mathrm { R S E I } _ { i } } - \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } M _ { \mathrm { R S E I } _ { i } } } { \displaystyle n \times \sum _ { i = 1 } ^ { n } i ^ { 2 } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } } ,
+$$
+
+where $\theta _ { \mathrm { { S l o p e } } }$ is the slope of RSEI variations; $n$ is the number of years in the monitoring period; and $M _ { \mathrm { R S E I } _ { i } }$ is the RSEI for the $i ^ { \mathrm { t h } }$ year. When $\theta _ { \mathrm { S l o p e } } { > } 0$ ，RSEI showed an increasing trend during the studied $n$ years;when $\theta _ { \mathrm { S l o p e } } { < } 0$ ，RSEI showed a decreasing trend during the studied $n$ years; and when $\theta _ { \mathrm { S l o p e } } { = } 0$ ,RSEI maintained a constant trend.
+
+# 3.3 Fluctuation analysis
+
+The coefficient of variation (CV） analysis method can effectively reveal the data fluctuation (Kesteven,1946); in this study,it wasused to analyze the RSEI fluctuation in the Sahel region from 2001 to 2020. The formula is as follows:
+
+$$
+\mathrm { C V } _ { \mathrm { R S E I } } = \frac { \sigma _ { \mathrm { R S E I } } } { \mathrm { R S E I } _ { \mathrm { m e a n } } } ,
+$$
+
+where $\mathrm { C V } _ { \mathrm { R S E I } }$ is the coefficient of variation of RSEI; $\sigma _ { \mathrm { R S E I } }$ is the standard deviation of RSEI data; and ${ \mathrm { R S E I } } _ { \mathrm { m e a n } }$ is the mean RSEI value. The CV can be used to measure the variation of the overall ecological environment in the Sahel region.A higher CV value indicated the greater volatility in the time series (Wu et al., 2020).
+
+# 3.4Stepwise regression analysis
+
+The stepwise regression analysis method is the synthesis of the forward introduction and backward elimination methods,and it incorporates the advantages of both methods (Pope,197O).The basic idea is that the selected variables will be removed when they become unimportant after the introduction of new variables (Birth,1985).The removed variables can be included in the equation if the new variables are not important after introduction. To ensure that the regresson equation contained only the variables with significant influence on dependent variable prior to the introduction of new variables,each variable that was introduced or removed from the regression equation was subject to the $F$ test.In this study,we used this method to deduce and test the four indicators that affected the RSEI,eliminate insignificant variables,and establish the RSEI model in the Sahel region.
+
+# 3.5 Correlationanalysis
+
+Correlation analysis is a tool to reveal the correlation between different variables.We used this method to study the relationship between RSEI and precipitation.
+
+# 3.6 Hurst index
+
+The Hurst index is an important tool to analyze the time series change of data (Liu et al.,2017; Tong et al.,2O18). In recent years, it has been used to monitor vegetation change trends (Tong et al.,2018). Thus,we regarded the Hurst index as an important indicator to monitor the RSEI changes in this study.RSEI values in the past 1O a were selected for the Hurst index analysis in this study.When the Hurst index $( \mathrm { H I } ) { = } 0 . 5$ ，the time series is completely independent, showing no evident correlation or only a short-term correlation; when $0 . 0 { < } \mathrm { H I } { < } 0 . 5$ , the future change is opposite to the past change,and the closer the HI is to O.O,the stronger the anti-persistence will be; when ${ 0 . 5 } { < } \mathrm { H I } { < } 1 . 0$ ,the future change is consistent with the past change,and the closer the HI is to 1.O, the stronger the persistence will be.
+
+# 4 Results
+
+# 4.1 Extraction of RDDI
+
+Figure 2 shows an obvious negative correlation between albedo and NDVI, i.e., albedo increased with the decrease of NDVI. According to the frequency analysis,the most values of albedo and NDVI ranged from 0.23 to 0.68 and 0.20 to 0.60,respectively. Then, the RDDI model of the Sahel region was obtained as follows:
+
+$$
+\mathrm { R D D I } = 1 - 1 . 2 5 6 3 \times \mathrm { N D V I } + \mathrm { A l b e d o } .
+$$
+
+![](images/44844a50b220ae6a822e5986aa8f526ada3bbb866a409c2b91c419dd3254e5e4.jpg)  
+Fig.2Corelation between albedo and normalized difference vegetation index (NDVI).The red line represents the best linear fit,and colors represent the frequency of point-to-point overlap
+
+As shown in Figure 3,values of RDDI in the Sahel region were not evenly distributed (mean value of O.5O), demonstrating the spatial heterogeneity of the desertification degree in the Sahel region. The RDDI also showed gradient characteristics with a gradual increase from south to north. The RDDI values around rivers (Senegal River and Niger River),lakes (Lake Chad), and wetlands were significantly lower than those at the same latitudes,because soils around rivers,lakes,and wetlands was relatively moist and vegetation growth was well developed (Zoffoli et al., 2008; Thakur et al., 2012).
+
+![](images/d633bcd57d199faa76d97edf24b280b22ce6d87c9c5c6ffc2ff3b886973fbc7b.jpg)  
+Fig.3Spatial distribution of mean reverse desert diference index (RDDI) in the Sahelregion during the period of 2001-2020
+
+# 4.2Principal component analysis (PCA) of RSEI
+
+In this study,we only provided the PCA results of 2001,2006,2011,and 2016 due to the large amount of data. Table 2 shows that the contribution rates of the first principal component (PC1) for the four phases (2001,2006,2011,and 2016) of data were higher than $9 0 . 0 0 \%$ ,indicating that the PC1 accounted for more than $9 0 . 0 0 \%$ of the indicator characteristics of the original data after the process of the PCA,thus better reflecting the data of the four indicators. Second,for the PC1, NDVI and WETI were higher than zero and NDSI and RDDI were less than zero, showing that NDVI and WETI had positive effects on RSEI, whereas NDSI and RDDI had negative effects on RSEI.Finally,the contribution rate of the PC1 remained almost constant for different years; therefore,it can provide a basis for obtaining RSEI and analyzing its trend.
+
+# 4.3 RSEI in the Sahel region
+
+Figure 4 shows the spatial distribution of the mean RSEI in the Sahel region during the period of 2001-202O.The mean RSEI value in the Sahel region was O.40,and the value in the southern region was obviously larger than that in the northern region (Fig.4). However, some areas demonstrated non-zonal characteristics.For example, RSEI value near the Lake Chad was higher than that at the same latitude area due to the humid microclimate in the Lake Chad (where there is an abundance of vegetation). Meanwhile,RSEI value of the eastern Nile River region was high due to the large cultivated land area. As a result, the eastern Nile River region had higher greenness and moisture degrees and lower desertification and dryness degrees.Here，we selected regions A $( 1 3 ^ { \circ } 3 5 ^ { \prime } \mathrm { N }$ ， $3 0 ^ { \circ } 4 4 ^ { \prime } \mathrm { E }$ ；Sudan)，B( $1 4 ^ { \circ } 5 0 \mathrm { N } .$ ， $1 5 ^ { \circ } 1 0 ^ { \prime } \mathrm { W }$ ； Senegal)， and C( $\mathrm { 1 1 ^ { \circ } 0 6 ^ { \prime } N }$ ， $3 4 ^ { \circ } 3 9 ^ { \prime } \mathrm { E }$ ； Sudan) shown in Figure 4 to analyze the RSEI characteristics according to the high spatial resolution images (Fig. 5) obtained from the Google Earth software (Google Inc., Mountain View, California, America). The mean RSEI values of regions A, B,and C were O.20, 0.40,and 0.75,respectively. Specifically,region A had no vegetation cover and the sandy soil was relatively dry; region B was sparsely vegetated with scatered shrubs,and part of it was cultivated land; and region C had high vegetation coverage and tall trees (Fig. 5). Regions A, B,and C represented completely different ecological environments,and the RSEI results also supported this conclusion. Overall, it was possible to use the improved RSEI to beter monitor the ecological environment of the Sahel region.
+
+Table 2Principal component analysis (PCA) results   
+
+<html><body><table><tr><td>Year</td><td>Indicator</td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td></tr><tr><td rowspan="6">2001</td><td>NDVI</td><td>0.39</td><td>-0.50</td><td>-0.42</td><td>0.65</td></tr><tr><td>WETI</td><td>0.52</td><td>0.55</td><td>0.50</td><td>0.43</td></tr><tr><td>RDDI</td><td>-0.63</td><td>-0.27</td><td>0.52</td><td>0.51</td></tr><tr><td>NDSI</td><td>-0.42</td><td>0.61</td><td>-0.56</td><td>0.37</td></tr><tr><td>Eigenvalue</td><td>0.1030</td><td>0.0052</td><td>0.0023</td><td>0.0001</td></tr><tr><td>Contribution rate (%)</td><td>93.15</td><td>4.68</td><td>2.07</td><td>0.10</td></tr><tr><td rowspan="6">2006</td><td>NDVI</td><td>0.43</td><td>-0.56</td><td>-0.41</td><td>0.57</td></tr><tr><td>WETI</td><td>0.53</td><td>0.53</td><td>0.48</td><td>0.46</td></tr><tr><td>RDDI</td><td>-0.61</td><td>-0.30</td><td>0.50</td><td>0.53</td></tr><tr><td>NDSI</td><td>-0.39</td><td>0.56</td><td>-0.59</td><td>0.43</td></tr><tr><td>Eigenvalue</td><td>0.1128</td><td>0.0068</td><td>0.0023</td><td>0.0001</td></tr><tr><td>Contribution rate (%)</td><td>92.45</td><td>5.57</td><td>1.87</td><td>0.11</td></tr><tr><td rowspan="6">2011</td><td>NDVI</td><td>0.42</td><td>-0.58</td><td>-0.36</td><td>0.60</td></tr><tr><td>WETI</td><td>0.53</td><td>0.57</td><td>0.44</td><td>0.45</td></tr><tr><td>RDDI</td><td>-0.62</td><td>-0.24</td><td>0.53</td><td>0.53</td></tr><tr><td>NDSI</td><td>-0.39</td><td>0.53</td><td>-0.63</td><td>0.41</td></tr><tr><td>Eigenvalue</td><td>0.1083</td><td>0.0064</td><td>0.0025</td><td>0.0001</td></tr><tr><td>Contribution rate (%)</td><td>92.26</td><td>5.47</td><td>2.16</td><td>0.11</td></tr><tr><td rowspan="6">2016</td><td>NDVI</td><td>0.39</td><td>-0.51</td><td>0.39</td><td>-0.65</td></tr><tr><td>WETI</td><td>0.52</td><td>0.59</td><td>-0.45</td><td>-0.42</td></tr><tr><td>RDDI</td><td>-0.63</td><td>-0.23</td><td>-0.53</td><td>-0.52</td></tr><tr><td>NDSI</td><td>-0.43</td><td>0.58</td><td>0.60</td><td>-0.35</td></tr><tr><td>Eigenvalue</td><td>0.1058</td><td>0.0054</td><td>0.0022</td><td>0.0001</td></tr><tr><td>Contribution rate (%)</td><td>93.13</td><td>4.79</td><td>1.98</td><td>0.10</td></tr></table></body></html>
+
+Note:NDVI,oadcatioe;WEese;DDeerteedex;d soil index;PCthfistpriipalcopoent;C,tesondpricialompoent;C3,teidprialopoent;C4,efout principal component.
+
+The land cover in the Sahel region was divided into seven types: cultivated land,forest, grassland,shrubland,wetland,artificial surface,and bare land (see Fig.6; Table 3). The grassland area ( $( 1 1 3 . 9 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 } )$ occupied the largest proportion,and the artificial surface area ( ${ \overline { { ( 1 . 0 2 \times 1 0 ^ { 4 } } } }$ $ { \mathrm { k m } } ^ { 2 } )$ ） occupied the smallest proportion. Specifically，the areas of different land-cover types decreased in the following order:grassand>cultivated land>bare land>shrubland>forest> wetland>artificial surface.However, there were considerable differences in the RSEI values of the different land-cover types. The RSEI of wetland was the highest (O.64), whereas that of bare land was the lowest (O.27). The RSEI values for different land-cover types decreased in the following order: wetland>forest>shrubland>cultivated land> grassland>artificial surface>bare land.
+
+![](images/5ef611b379ff6b2c439862ca666910acb0912f588c9569e1acb08aadcaa799ec.jpg)  
+Fig.4Spatial distribution of the mean remote sensing ecological index (RSEI)during the period of 2O01-2020 in the Sahel regionaswell asin the locationsof regionsA,B,and C
+
+![](images/4ae61d91c6a45ac9734c5a50acbfde0690022acae749167bbae7254ee037f98f.jpg)  
+Fig.5High spatial resolution images of regions A(a),B(b),andC(c)fromthe Google Earth software.(a),sandy soil; (b), sparse vegetation; (c),trees and shrubs with high vegetation coverage.
+
+Figure 7 shows that the correlation coefficients between RSEI and precipitation in the Sahel region during the period of 2001-202O varied from $- 0 . 9 2$ to O.91,demonstrating evident spatial heterogeneity. The areas with positive and negative correlations between RSEI and precipitation accounted for $67 . 4 4 \%$ and $3 2 . 5 6 \%$ of the entire area, respectively, indicating that RSEI in most areas of the Sahel region showed a positive correlation with precipitation. Figure 8 exhibits an obvious positive correlation between RSEI and normalized precipitation. RSEI showed an increasing trend with the increase of precipitation. According to the frequency analysis,the most RSEI and precipitation values were in the range of 0.19-0.38 and O.11-O.31,respectively.
+
+![](images/0fa625f2d4a7485b238b32525498ce987a861c8c1e94d9f047b661e55dfe3d93.jpg)  
+Fig.6Spatial distribution of land-cover types in the Sahel region in 2020
+
+Table 3RESI values of different land-cover types in the Sahel region   
+
+<html><body><table><tr><td>Item</td><td>Cultivated land</td><td>Forest</td><td>Grassland</td><td>Shrubland</td><td>Wetland</td><td>Artificial surface</td><td>Bare land</td></tr><tr><td>Area (x104 km²)</td><td>56.64</td><td>10.72</td><td>113.92</td><td>12.84</td><td>3.22</td><td>1.02</td><td>36.69</td></tr><tr><td>Percentage (%)</td><td>24.10</td><td>4.56</td><td>48.47</td><td>5.46</td><td>1.37</td><td>0.43</td><td>15.61</td></tr><tr><td>RSEI</td><td>0.41</td><td>0.54</td><td>0.40</td><td>0.49</td><td>0.64</td><td>0.39</td><td>0.27</td></tr></table></body></html>
+
+Note: RSEI, remote sensing ecological index.
+
+![](images/43a7f69973a8f753e683686df31be1c86fe612aada5b61841f835112bf1591c8.jpg)  
+Fig.7Spatial distribution of the correlation coefficients between RSEI and precipitation in the Sahel region during the period of 2001-2020
+
+![](images/f6adabe31b8bf37b477416974525da67cd347bc170d48321bdc834d2b18f20c5.jpg)  
+Fig.8Correlation between RSEIand normalized precipitation.The red line represents thebest linear fit,and the colors represent the frequency of point-to-point overlap.
+
+# 4.4Changes in RSEI of the Sahel region
+
+# 4.4.1 Fluctuation analysis
+
+Figure 9 shows the spatiotemporal fluctuations of RSEI; the CV values of RSEI in the Sahel region during the period of 2001-2020 varied from 0.02 to 0.48，demonstrating evident spatial heterogeneity. We divided the CV values of RSEI into five fluctuation levels,i.e.， very low fluctuation, low fluctuation, moderate fluctuation, high fluctuation,and very high fluctuation (Fig. 9b; Table 4) (Rey et al.，2O17). The area with low fluctuation was the largest, accounting for $3 1 . 4 8 \%$ of the total area of the Sahel region. The areas with very low fluctuation and moderate fluctuation were relatively large and accounted for $2 8 . 9 9 \%$ and $2 2 . 7 5 \%$ of the entire region, respectively. The areas with high fluctuation and very high fluctuation had small proportions, accounting for $12 . 6 6 \%$ and $4 . 1 3 \%$ of the entire region,respectively. The CV values of RSEI in the northern Sahel region were evidently larger than those in the southern region. The areas with large fluctuations of RSEI were mainly located in southern Mauritania,southern Mali,and central Chad, whereas the areas with highly stable RSEI values were mainly located in northern Burkina Faso, northern Nigeria,Lake Chad,and most regions of central and southern Sudan.
+
+# 4.4.2 Interannual trend characteristics of RSEI in the Sahel region
+
+As shown in Figure 1O,the annual change trend of RSEI in the Sahel region demonstrated spatial heterogeneity during the period of 2OO1-2O2O. The areas in which RSEI exhibited decreasing and increasing trends accounted for $5 3 . 4 3 \%$ and $4 6 . 5 7 \%$ of the whole study area, respectively. In the whole Sahel region,the proportion of areas with increased RSEI was less than that with decreased RSEI. The area with a significantly changing RSEI trend accounted for $2 3 . 0 9 \%$ of the whole Sahel region,and the areas in which RSEI increased and decreased significantly accounted for $4 3 . 5 2 \%$ and $56 . 4 8 \%$ ，respectively. The RSEI in eastern Senegal, central and western Mali，northeastern Burkina Faso, southwestern Niger, and southern Sudan showed decreasing trends, whereas in the border between Chad and Nigeria and in the border between Chad and Sudan,RSEI showed increasing trends.
+
+![](images/bb188a99d70688f43c09a0297ab53977d25dc68c4c5be04ee9d663d0c61ead32.jpg)  
+Fig.9Spatial distributions of the coeficient of variance (CV)values of RSEI(a)and different fluctuation levels of the CV values of RSEI (b) in the Sahel region during the period of 2OO1-2020
+
+Table 4Fluctuation levels of the coefficient of variance (CV) values of RSEI in the Sahel region   
+
+<html><body><table><tr><td>Fluctuation level</td><td>CV</td><td>Area proportion (%)</td></tr><tr><td>Very low fluctuation</td><td>0.02-0.07</td><td>28.99</td></tr><tr><td>Low fluctuation</td><td>0.07-0.10</td><td>31.48</td></tr><tr><td>Moderate fluctuation</td><td>0.10-0.13</td><td>22.75</td></tr><tr><td>High fluctuation</td><td>0.13-0.18</td><td>12.66</td></tr><tr><td>Very high fluctuation</td><td>0.18-0.49</td><td>4.13</td></tr></table></body></html>
+
+We investigated interannual RSEI trends for different land-cover types. The RSEI of grassland $( - 0 . 2 3 { \times } 1 0 ^ { - 3 } )$ ，forest $( - 1 . 3 3 \times 1 0 ^ { - 3 } )$ ，and cultivated land $( - 0 . 3 6 \times 1 0 ^ { - 3 } )$ showed a trend of decline, among which the RSEI of forest was the most significant. The RSEI of wetland $( 0 . 9 3 \times 1 0 ^ { - 3 } )$ ， shrubland $( 0 . 3 0 \times 1 0 ^ { - 3 } )$ , and artificial surface $( 0 . 1 7 \times 1 0 ^ { - 3 } )$ showed an upward trend,among which the RSEI of wetland showed the most significant upward trend. However, the change trend of RSEI for bare land was not obvious.At the same time,we conducted a statistical analysis of RSEI and its trends in different countries within the Sahel region,as shown in Table 5.Burkina Faso and Sudan had higher RSEI values of O.46 and O.45,respectively. The RSEI values in Mauritania and Nigel were lower, both at O.26. The RSEI of the Sahel region had obvious spatial heterogeneity at a national scale.Different countries had different linear variation trends in RSEI,among which Senegal and Mauritania showed large decreasing trends, whereas Sudan and Chad showed large increasing trends.
+
+# 4.5 Ecological environmentmodelingintheSahelregion
+
+In order to quantitatively describe the ecological environment of the Sahel region, we established the ecological environmental quality model for the region. Specifically,we extracted 3ooO random points generated in each year in the Sahel region, including RSEI, NDVI, NDSI,RDDI, and WETI. We then screened the random points and obtained a total of 59,394 effective sample points.The RS ecological environment quality model of the Sahel region was obtained by using the stepwise regression method:
+
+![](images/5c7435d5fa7127625098ac16320f7ed56e39369709df4388c524da2a07287ff6.jpg)  
+Fig.10Spatial distributions of RSEI trend in the Sahel region during the periodof 2OO1-202O.(a),the slope of RSEI change trend; (b), significance test of slope variation.
+
+Table 5RSEI and its trends in different countries within the Sahel region   
+
+<html><body><table><tr><td rowspan="2">Country</td><td rowspan="2">RSEI</td><td colspan="2">Area proportion of change trend (%)</td></tr><tr><td>Decreasing</td><td>Increasing</td></tr><tr><td>Eritrea</td><td>0.43</td><td>48.84</td><td>51.16</td></tr><tr><td>Burkina Faso</td><td>0.46</td><td>68.42</td><td>31.58</td></tr><tr><td>Mali</td><td>0.39</td><td>53.57</td><td>46.43</td></tr><tr><td>Mauritania</td><td>0.26</td><td>70.00</td><td>30.00</td></tr><tr><td>Niger</td><td>0.26</td><td>56.12</td><td>43.88</td></tr><tr><td>Nigeria</td><td>0.44</td><td>48.53</td><td>51.47</td></tr><tr><td>Senegal</td><td>0.44</td><td>79.57</td><td>20.43</td></tr><tr><td>Sudan</td><td>0.45</td><td>43.98</td><td>56.02</td></tr><tr><td>Chad</td><td>0.36</td><td>45.00</td><td>55.00</td></tr></table></body></html>
+
+# RSEI= 0.441WETI+ 0.303NDVI-0.351RDDI-0.204NDSI (R² =0.99)
+
+Figure 11 shows that WETI and NDVI were positive indicators for RSEI, whereas RDDI and NDSI were negative indicators for RSEI. Four indicators (WETI, NDVI, RDDI, and NDSI) were retained after the stepwise regression analysis, indicating that these four indicators play a key role in the RSEI model. In general, WETI had the largest influence on the RSEI model, followed by RDDI and NDVI indicators,and NDSI had the smallest influence on the RSEI model. According to the projection of NDSI,RDDI,and RSEI on the three dimensions, RSEI showed a decreasing trend with the increases in NDSI and RDDI, and NDSI showed an increasing trend with the increase in RDDI (Fig.1la). The reason for this may be that NDSI represents the scale of urban buildings and the degree of surface exposure,and the probability and degree of desertification will inevitably increase to some extent with the expansion of impervious surface and surface exposure.Further, according to the projection of WETI, NDVI,and RSEI on three dimensions,RSEI showed an increasing trend with the increases in WETI and NDVI,and NDVI showed an increasing trend with the increase in WETI(Fig.11b).This can be atributed to the fact that precipitation is an important factor that restricts surface vegetation growth in arid and semi-arid regions.The WETI had a high correlation with precipitation.
+
+# 4.6Predicting the ecological environment in the Sahel region
+
+The RSEI from 2O0l to 2O2O cannot reflect the recent trend of ecological environment changes; therefore,it is less reliable to use it to predict the future trend of ecological environment changes of the Sahel region.Therefore,RSEI values in the past1O a were selected for the Hurst index analysis in this study.
+
+![](images/a4f1ec5ff093077a09e79572c7dcfce55163f5b2e8cce72c7e38d509a24b1736.jpg)  
+Fig.11 Three dimensions scattered feature maps showing (a) the projection of the correlations among RSEI, RDDI,and normalized dry soil index (NDSI) and (b)the projection of the correlations among RSEI,NDVI,and wetness index(WETI)
+
+Figure 12 shows the spatial distributions of the slope of predicted RSEI trend,the HI,and the predicted trend of RSEI in the Sahel region. The areas with increasing RSEI (slope $> 0 . 0 0 )$ and decreasing RSEI (slope ${ < } 0 . 0 0 { \dot { } }$ ）accounted for $40 . 7 1 \%$ and $5 9 . 2 9 \%$ of the total study area, respectively.In the last decade,the proportions of areas with ecological environment deterioration (slope $< 0 . 0 0 \dot { }$ ） in the Sahel region were greater than the proportions of areas with ecological environment improvement (slope>O.OO) (Fig.12a). This result is similar with the finding obtained when we previously monitored the trend of ecological environment change in the Sahel region from 2001 to 2O20. The areas with ecological environment deterioration in the Sahel region were mainly distributed in the west of Niger, while the areas with ecological environment improvement were concentrated in the east of Niger.
+
+The mean HI of the Sahel region was O.57.The areas with the HI higher than O.5O accounted for $7 2 . 3 1 \%$ of the entire area,and the areas with the HI less than O.5O accounted for $2 7 . 6 9 \%$ of the entire area. Meanwhile,we combined the RSEI change trend of the Sahel region in the past 10 a with the HI values,and divided the RSEI change trend in the future into four types: continuous reduction, continuous increase,reduction-increase trend, and increase-reduction trend. The areas with these four types accounted for $4 4 . 0 2 \%$ ， $2 8 . 2 9 \%$ ， $1 5 . 2 6 \%$ ,and $12 . 4 2 \%$ of the entire study area, respectively. The areas with continuous deterioration of ecological environment were mainly distributed in the western Sahel region,such as the border area of Senegal, Mauritania,Mali, the northeastern area of Burkina Faso,and the southwestern area of Sudan. The areas where the ecological environment continued to improve were mainly distributed in southern Niger, northern Lake Chad.The areas where the ecological environment changed from improvement to deterioration were mostly distributed in the southeastern region of Sudan. Further,the areas where the ecological environment changed from deterioration to improvement were distributed widely in the Sahel region.
+
+Different land-cover types exhibited different RSEI change trends (Fig.13). For bare land, the area in which RSEI continuously increased accounted for the largest proportion $( 3 7 . 5 2 \%$ of the total study area),and the same was true for shrubland and artificial surface ( $3 3 . 1 2 \%$ and $3 3 . 3 7 \%$ respectively). Forest showed the largest proportion $( 6 7 . 8 0 \% )$ of the area with continuous reduction in RSEI. The areas of grassland and bare land showing continuous reduction of RSEI accounted for $4 5 . 7 3 \%$ and $4 3 . 2 3 \%$ of the total study area,respectively. The total RSEI value for the six land-cover typesincreasedinthefollowingorder:wetland>bareland>artificial surface>shrubland>cultivated land>grassland>forest, generally demonstrating an obvious changing trend in the Sahel region.
+
+![](images/18374129dcf9143022b909e21f21500ffdf8edf661b7cf1842d95a30ded3a548.jpg)  
+Fig.12Spatial distributions of the slope of RSEI trend (a),the Hurst index (HI)(b),and the predicted RSEI change trend in the Sahel region in the future (c)
+
+![](images/505cd0bd66e7b0830946d0f242543fd2fd232a28234d64b8a726b30fb93ca996.jpg)  
+Fig.13Area proportions of predicatedRSEI trend for differentland-cover types in the Sahel region in the future. GL,grassland; BL,bare land;WL,wetland;FR,forest; CL,cultivated land; SL,shrubland; AS,artificial surface.
+
+# 5 Discussion
+
+Previous studies mostly focused on single indicator of NDVI, pollutant concentration，or biodiversity when studying the change trend of the ecological environment while ignored the integrity of the ecological environment (Adams et al.,2012; Firth et al.,2014; Muti et al., 2020). The current method of RSEI is considered more reasonable than a single indicator for the ecological environment assessment (Liu et al.,2019; Gao et al.,202O; Ji et al.,2020). However, owing to diferent ecological environment types,using constant indicators to evaluate different ecological landscape changes may cause deviations or errors. Thus,we selected the evaluation indicators for different ecological conditions to evaluate the ecological environment of the Sahel region. Because the Sahel region is a semi-arid region with severe desertification (Wu et al., 2020), we added the RDDI (which represents the degree of desertification) into the RSEI model. The Sahel region has few large-scale urban agglomerations located in the tropical areas where there is less disturbance from human activities； therefore，we removed heat indicator from the original RSEI model.
+
+We evaluated the ecological environment in the Sahel region in the past 2O a based on the improved RSEI model and found that RSEI of the Sahel region exhibited spatial heterogeneity and showed a gradual decrease in gradient from south to north. The Sahel region is a transitional region between Sahara Desert and Savanna. The northern part, which is in the vicinity of the Sahara Desert, is sparsely vegetated, and the land is highly exposed with severe desertification and poor soil moisture,while the southern part of the Sahel region exhibits the opposite characteristics (Foley et al.,2OO3; Lee et al.,2O15).Notably,the gradient-trend of RSEI from north to south has been disturbed in some regions,such as the Lake Chad and the eastern part of the Nile River. Aquatic vegetation is abundant in the vicinity of the Lake Chad (Leblanc et al., 2O11), improving the greenness indicator in the RSEI model.Moreover, the high soil moisture of the land around the lake improves the moisture indicator in the RSEI model, correspondingly reducing the degrees of desertification and dryness.There are substantial cultivated lands in the eastern region of the Nile River,and we selected the RS data in the crop-growing season from May to October for analysis. The NDVI and RSEI values of the above regions were obviously higher than those of the regions with the same latitudes. The order of RSEI values for different land-cover types decreased as follows: wetland>forest>shrubland>cultivated land>grassland>artificial surface>bare land. The indicators of the RSEI model were dryness, moisture, greenness,and desertification; among which, WETI and NDVI were positive indicators，while RDDI and NDSI were negative indicators. Wetland had high WETI and NDVI values, while NDSI and RDDI values were lowest among the land-cover types. On the contrary,each indicator of bare land was the opposite to that of wetland; therefore,RSEI of bare land reached the lowest value.The RSEI of grassand,forest,and cultivated land showed an interannual decline trend,which may be related to human grazing activities, deforestation, and excessive reclamation of wasteland for agricultural production (van Keulen and Breman,199O; Mainali,2OO6; Epule etal.,2O14).The RSEI of wetland,shrubland,and artificial surface showed an interannual upward trend; the reasons may be related to the construction of greening projects and climate change (Fensholt et al.， 2012； Abiodun et al., 2013).
+
+According to our predictions for the RSEI, bare land with a high continuous increase of RSEI was associated with the "greening" phenomenon caused by large-scale afforestation projects and the increase of precipitation in the Sahel region (Giannini et al.,2O08; Kusserow,2Ol7),and the continuous reduced RSEI of grassland may be related to the spread of desertification. The forest with a high reduction of RSEI may be related to the decrease of woody plant coverage caused by the increased grazing and wood demand (Leroux et al.,2O17). The RSEI prediction for different land-cover types had randomness, and other land-cover types with insignificant changes were not discussed here.
+
+Precipitation was positively correlated with RSEI. In arid and semi-arid areas, the change of precipitation will significantly affect the local ecosystem，and an increase of precipitation is generally conducive to improving the ecological environment (Fensholt et al., 2O12; Xu et al., 2020).The RSEI fluctuations in the Sahel region showed obvious spatial heterogeneity,and the CV values of RSEI in the northern region were significantly greater than those in the southern region, which was likely related to precipitation fluctuations. Figure 14 shows that the CV values of precipitation in the northern region of the Sahel region was larger than those in the southern region. Among the four indicators,moisture indicator was directly related to precipitation. The Sahel region is characterized by a semi-arid climate，and precipitation is a key factor restricting vegetation growth (Huber et al., 2O11; Fensholt et al.,2O13). Therefore,the fluctuation in annual precipitation had an important influence on the fluctuation of RSEI values.The areas where RSEI increased were smaller than the areas where RSEI decreased. Figures 1O and 15 show similar trends in RSEI and precipitation. However, some differences remained in local areas.For example, because population in Burkina Faso increased by $56 . 0 0 \%$ since 2000 (i.e., from $1 1 . 6 0 \times 1 0 ^ { 6 }$ in 2000 to $1 8 . 1 0 \dot { \times } \dot { 1 0 } ^ { 6 }$ in 2015) (FAO,201O), the ecological environment of the northern region showed a deteriorating trend. The rapidly growing population has placed great pressure on agriculture (Knauer et al., 2O17). Meanwhile, inadequate land management and agricultural activities have also largely contributed to land degradation in Burkina Faso(Knauer et al.,2O17). We found that RSEI in the Sahel region was largely dependent on the moisture indicator, which confirmed that precipitation was a key factor affecting the ecological environment changes in arid and semi-arid areas to some extent (Fensholt et al.,2Ol2).Prediction of the ecological environment in the Sahel region shows that the ecological environment of the western Sahel region will continue to deteriorate in the future.
+
+![](images/f6a889f2150e894f039422dae983d0d7ef4b52c819031932ff57a9fef0409dbf.jpg)  
+Fig.14Spatial distribution of CV values of precipitation in the Sahel region from 2Ooo to 2019
+
+![](images/95f1135ed9b7293a0287eb4fe2f6acd78b82541f8b099815c8fdb36d6690ac7b.jpg)  
+Fig.15Spatial distribution of precipitation variation trend (expressed as slope)in the Sahel region from 2000 to 2019
+
+According to the results of Monerie et al. (2O2O), precipitation in the western part of the Sahel region is expected to decrease in the future.The change of precipitation is directly related to the greenness indicator and moisture indicator in this region,which also confirms our prediction that the ecological environment in the western Sahel region will continue to deteriorate in the future. The prediction results also show that the ecological environment in the eastern part of the Nile River presented a trend from improvement to deterioration,owing to the expansion of cultivated area in the east of the Nile River from $3 . 9 0 \times 1 0 ^ { 4 }$ to $5 . 0 0 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ between 2000 and 2020 (Zika and Erb,2017).
+
+In this study,RSEI was used to observe and predict future changes in the ecological environment in the Sahel region. However, some shortcomings should be noted. First, RESI can observe the changes in the ecological environment; however,the attribution of its change trend can only be expressed qualitatively(rather than quantitatively)by measuring the corresponding "contributions" of human activities and climate change. Second, specific land-cover types will directly affect the monitoring of RSEI in the Sahel region.For example,a large area of water will directly affect the moisture indicator in the RSEI model. When the cultivated land changed at different periods, such as the area with high vegetation coverage prior to crop harvesting,the positive indicator of RSEI is larger; however, if there is a large amount of bare land after crop harvesting, the positive indicator will decrease,thus affecting RSEI.At the same time, when the wasteland is reclaimed for farmland and shelterbelt is planted, their NDVI will increase in a short time and the RSEI will also increase correspondingly (Estel et al.,2015; Mark,2019; Zhou et al.,202O). However, the increase of RSEI is at the cost of consuming groundwater and fertility，which will cause damages to the original ecological environment. Future research should be combined with field investigations to clarify the phenological changes with different land-cover types and select specific periods for future RSEI observations.Moreover, the atribution analysis of RSEI changes is also very important.
+
+# 6 Conclusions
+
+The RSEI in the Sahel region showed obvious spatial heterogeneity. From 200l to 2O20, RSEI of grassland,forest,and cultivated land showed a decline trend,while RSEI of wetland,shrubland, and artificial surface showed an upward trend. RSEI and precipitation were positively correlated. The CV values of RSEI in the northern Sahel region were obviously larger than those in the southern region during the period of 2OOl-2O20.The areas in which RSEI values presented an increasing trend were slightly less than the areas in which RSEI values presented a decreasing trend.We then constructed the RSEI model for the Sahel region.Based on the HI analysis method, the areas with RSEI showing continuous reduction, continuous increase, increase-reduction trend, and reduction-increase trend accounted for $4 4 . 0 2 \%$ ， $2 8 . 2 9 \%$ ， $1 2 . 4 2 \%$ ，and $1 5 . 2 6 \%$ of the entire area,respectively. As an afforestation project, the GGW in Africa can effectively improve the positive indicators of RESI. As key regions,more attention should be paid to the areas with continuous deterioration and areas with increase-reduction trend.
+
+# Acknowledgments
+
+This research was financially supported by the West Light Foundation of the Chinese Academy of Science (2017-XBQNXZ-B-018),the National Natural Science Foundation of China (41861144020),and the National Key Research and Development Program of China-Joint Research on Technology to Combat Desertification for African Countries of the "Great Green Wall" (2018YFE0106000).
+
+# References
+
+AbiodunBJ,alamiAT,MattewOJ,etalOl3.Potentialimpactsoffrestationonclimatechangeandextremeevnts n Nigeria. Climate Dynamics,41(2):277-293.   
+AckermanSA,StrabalaKI,MenzelWP,etal.998.DiscriminatingclearskyfromcloudswithMODS.JournalofGopyical Research Atmospheres,103(24): 32141-32157.   
+AdamsMD,DeLucaPF,CorrD,etal.2Ol2.Mobileair monitoring: measuringchange inairqualityin thecityof Hamilton, 2005-2010. Social Indicators Research,108(2):351-364.   
+Bashir B,CaoCX,Naeem S,etal.2O2o.Spati-temporal vegetationdynamicand persistence under climaticandanthropogenic factors.Remote Sensing,12(16): 2612.   
+Birth GS.1985.Evaluationofcorelationcoefficientsobtained withastepwiseregresionanalysis.Applied Sectroscopy39(4): 729-732.   
+Biswal SS,GoraiAK.2020.Change detection analysis incoverage area ofcoalfirefrom 209 to2019 inJhariacoalfieldusing remote sensing data. International Journal of Remote Sensing,41(24): 9545-9564.   
+CarlsonTN,RipleyDA.1997.Ontherelationbetween NDVI,fractionalvegetationcover,and leaf area index.Remote ensing of Environment, 62(3): 241-252.   
+Dai A G.2O11.Drought under global warming:areview.Wiley Interdisciplinary Reviews: Climate Change,2(1): 45-65.   
+Dardel C,KergoatL,HiernauxP,etal.2Ol4.Re-greening Sahel:3Oyearsofremotesensingdataandfieldobservations(Mali, Niger).Remote Sensing of Environment,140: 350-364.   
+Diedhiou A,Bichet A,Wartenburger R,et al.2O18.Changes in climate extremes over west and central Africaat $1 . 5 ^ { \circ } \mathrm { C }$ and $2 ^ { \circ } \mathrm { C }$ global warming.Environmental Research Letters,13(6): 065020,doi: 0000-0003-4470-5080.   
+Ebrahimi A,AsadiE,EbraimiA,etal.2O2O.Predictionoffuture grasslandvegetationcoverfluctuationunderclimatechange scenarios.Ecological Indicators,116:106858,doi: 10.1016/j.ecolind.2020.106858.   
+EpuleET,PengCH,LepageL,etal.2O14.Thecauses,effectsandchallengesofSaheliandroughts:acriticalreview.Regional Environmental Change,14(1):145-156.   
+Estel S,KuemmerleT,Alcantara C,etal.2O15.MappingfarmlandabandonmentandrecultivationacrossEuropeusingMDI NDVI time series.Remote Sensing of Environment,163: 312-325.   
+FanC,GuiF,WangLZ,etal.2O2o.Evaluationofenvironmental qualitybasedonremotesensingdata inthecoastalndsof eastern China.Journal of Coastal Research,36(6):1229-1236.   
+FAO.201o.Food and Agriculture Organization of the United Nations.Retrieved,3(13): 2012.   
+FensholtR,LangankeTRasmussenK,etal2l.Geeesinsem-aridareasacross theglobe198-2O—anearthobsering satellite based analysis of trends and drivers.Remote Sensing of Environment,121:144-158. Earth observation based primary productivity and precipitation relationships.Remote Sensing,5(2): 664-686.   
+FirthLB,SchofieldM,WhiteFJ,tal.2O14iodiversityinintertidalockpols:Iforingengineeringcriteriaortiicial habitat enhancement in the built environment.Marine Environmental Research,1O2:122-130.   
+FoleyJA,CoeMT,ScheferM,etal.2Oo3.Regimeshiftsinthe SharaandSahel: interactionsbetweencologicalandclimatic systems in northern Africa. Ecosystems, 6(6):524-539.   
+GaoPW,KasimuA,ZhaoYY,etal.2O0.EvauationofthetemporaladspatialchangesofecologicalqalityintheHmiOasis based on RSEI. Sustainability,12(18): 7716,doi: 10.3390/su12187716.   
+GianniniA,Biasuti M,Verstraete M.2O08.Aclimatemodel-basedreviewof drought intheSahel:Desertification,the re-greening and climate change. Global and Planetary Change, 64(3-4): 119-128.   
+Goffner D,SinareH,GordonLJ.2O19.TheGreat Green Wallfor theSaharaandthe Sahelinitiative asanopportunitytoenhance resilience in Sahelian landscapes and livelihoods.Regional Environmental Change,19(5): 1417-1428.   
+GouR,Zhao J.2O20.Eco-environmental quality monitoring in Beijing,China,using an RSEI-based approach combined with random forest algorithms.IEEE Access,8:196657-196666.   
+GuJ,Grybas H,CongaltonR G.2O20.Individual tre crowndelineationfrom UAS imagerybasedonregiongrowing andgrowth space considerations.Remote Sensing,12(15): 2363,doi: 10.3390/rs12152363.   
+Gu X H,Zhang Q,LiJF,et al.2O19.Intensification and expansionof soil moisture drying inwarm season over Eurasia under global warming.Journal of Geophysical Research: Atmospheres,124: 3765-3782.   
+Hang X,LiYC,LuoXC,etal.2020.Assesing theecological qualityof Nanjing during itsurbanizationprocess byusing satelite,meteorological,and socioeconomic data.Journal of Meteorological Research,34(2): 280-293.   
+Held IM,Delworth TL,Lu J,et al. 2Oo5. Simulation of Sahel drought in the $2 0 ^ { \mathrm { { t h } } }$ and $2 1 ^ { \mathrm { s t } }$ centuries. Proceedings of the National Academy of Sciences,102(50): 17891-17896.   
+Huber S,FensholtR,Rasmussen K.2Ol1.Wateravailabilityas thedriverof vegetation dynamics intheAfrican Sahel from1982 to 2007.Global and Planetary Change,76(3-4): 186-195.   
+IPCC.2014.ClimateChange 2014:Mitigationof Climate Change.Working Group II ContributiontotheFifth Assessment Reportof he IntergovernmentalPanelonClimate Change.In:EdenhoferOichs-MadrugaR,SokonaY,etal.Cambridgeand New York: Cambridge University Press,151-207.   
+Isa O,JirgenR,JoachimE,etal.2O14.There-greeningoftheahel: naturalcyclicityorhuman-inducedchangeLad,(3): 1075-1090.   
+JiJW,WangSX,ZhouY,etal.2O2o.Spatiotemporal changeandlandscapepaternvariationof eco-environmentalqualityin Jing-Jin-Ji urban agglomeration from 2001 to 2015.IEEE Access,8:125534-125548.   
+JingYQ,ZhangF,HeYF,etal.2O2.AsessmentofspatialandtempoalvariationofecologicalenvironmentqualityinEbur lakewetland nationalnaturereserve,Xinjiang,China.EcologicalIndicators,10:05874,doi:1.1016/j.coind219.105874.   
+JoliffeIT,CadimaJ.2Ol6.Principalcomponentanalysis:areviewandrecentdevelopments.PhilosophicalTransactionsof the Royal SocietyA: Mathematical Physical andEngineering Sciences,374(2065):20150202,doi:10.1098/rsta.2015.0202.   
+Kesteven GL.1946.The coefficient of variation.Nature,158(4015): 520-521.   
+Knauer K,Gessner U,Fensholt R,et al.2O17.Monitoring agricultural expansion in Burkina Faso over 14 years with $3 0 \mathrm { ~ m ~ }$ resolutiontime series:Theroleof population growthand implications fortheenvironment.Remote Sensing,9(2):132,doi: 10.3390/rs9020132.   
+Kusserow H.2Ol7.Desertification,resilience,andre-greening intheAfrican Sahel-amaterof theobservationperiod?Earth System Dynamics Discussions,8(4): 1141-1170.   
+LeH,Henri N.1989.Thegrazing landecosystemsof the African Sahel.Springer Berlin Heidelberg，44(6)，doi: 10.1007/978-3-642-74457-0.   
+Leblanc M,LemoalleJ,BaderJC,etal.2O1Thermalremotesensingofwaterunderflooded vegetation: Newobservationsof inundation paterns for the'smal' lake Chad. Journal of Hydrology,404(1-2): 87-98.   
+LeeE,HeYQZhouM,etal.2O15.Potentialfedback of recentvegetation changesonsummerrainfallinthe Sahel.Physical Geography,36(6): 449-470.   
+LerouxL,BégueéA,LoSD,etal.2Ol7.Driving forcesofrecentvegetationchangesinthe Sahel:Lessons learedfromrgioal and local level analyses.Remote Sensing of Environment,191: 38-54.   
+Liao WH,JiangWG.2O2o.Evaluationofthe spatiotemporalvariationsintheeco-environmental qualityinChinabasedonthe remote sensing ecological index.Remote Sensing,12(15): 2462,doi:10.3390/rs12152462.   
+Liu Q,Yang ZP,HanF,etal.2O19.Ecologicalenvironmentassessmentinworldnaturalheritage sitebasedonremote-sensing data.A case study from the Bayinbuluke.Sustainability,11(22): 6385,doi: 10.3390/sul1226385.   
+Lobser SE,Cohen WB.2O07.MODIS tasselld cap:land cover characteristics expressed through transformed MODIS data. International Journal of Remote Sensing,28(22): 5079-5101.   
+Ma ZY,XieYW,JiaoJZ,etal.2011.Theconstructionandapplicationof an Aledo-NDVIbased desertification monitoring model. Procedia Environmental Sciences,10: 2029-2035.   
+MainaliKP.2O06.Grazingcausesdesertificationin Sahel.FrontiersinEcologyandthe Environment,4(5):232，doi: 10.2307/3868780.   
+Mark Z.2O19.China's tree-planting drive could falter in a warming world.Nature,573(7775): 474-475.   
+Miao CL,SunLY,YangL.20l6.The studies of ecological environmental qualityasesment in Anhui Province basedon ecological footprint. Ecological Indicators, 60: 879-883.   
+MoneriePA,SanchezGE,GaetaniM,etal.2O20.Future evolutionofthe Shel precipitationzonalcontrastin CESM1.Climate Dynamics, 55(9): 2801-2821.   
+MoserL,Voigt S,SchoepferE,etal.2014.Multitemporal wetland monitoring inSub-Saharan West-Africausing medium resolutio opticalsatelite data.IEEE Journalof Selected Topics in Applied Earth Observations and Remote Sensing,7(8): 3402-3415.   
+Moss RH,EdmondsJA,HibbardKA,etal.2O10.Thenext generationofscenarios forclimatechangeresearchandsessmnt. Nature,463(7282): 747-756.   
+Mutti PR,LucioPS,DubreuilV,etal.2O20.NDVItimeseriesstochastic models fortheforecastofvegetationdynamicsover desertification hotspots.International Journal of Remote Sensing,41: 2759-2788.   
+Ning L,WangJY,Fen Q.2020.Theimprovementofecological environment index modelRSEI. Arabian Journal of Geosciences, 13: 1-14.   
+Pope PT.1970.Thoughts on stepwise regresson analysis.Industrial and Engineering Chemistry,62(7):35-36.   
+Qureshi S,Alavipanah SK,Konyushkova M,etal.2020.Aremotelysnsedasessmentofsurface ecological changeoverthe Gomishan Wetland,Iran. Remote Sensing,12(18): 2989,doi: 10.3390/rs12182989.   
+Re SJ, Stepens P,LuraJ.2O17.Anevaluationofsamplingandfulleumerationstrateges forFisherJenksclasiicationibig data settings. Transactions in GIS,21(4): 796-810.   
+Rikimaru A,RoyPS,Miyatake S.20o2.Tropical forest cover density mapping.Tropical Ecology,43(1):39-47.   
+Schefer M,Carpenter S,FoleyJA,et al.200l.Catastrophic shifts in ecosystems.Nature,413(6856):591-596.   
+Shao ZF,DingL,LiDR,etal.2O20.Exploringtherelationshipbetweenurbanzationandecological environmentusingremote sensingimagesand statistical data: Acase study in the Yangtze River Delta,China.Sustainability,12(14): 5620.   
+Sih A,Ferrari M CO,Harris DJ.2Ol1.Evolutionand behaviouralresponses tohuman-inducedrapid environmental change. Evolutionary Applications,4(2): 367-387.   
+Singh RB,Kumar A,Kumar R,et al.20l4.Ecosystem Services in Changing Environment.Tokyo: Springer,139-153.   
+ThakurJK,SrivastavaPK,Singh SK,etal.20l2.Ecologicalmonitoringof wetlands insem-aridregionof Konyaclosed Basin, Turkey. Regional Environmental Change,12(1): 133-144.   
+Tong SQ,Zhang JQ,Bao YH,et al.2O18.Analyzing vegetation dynamic trendonthe MongolianPlateau basedonthe Hurst exponent and influencing factors from 1982-2013.Journal of Geographical Sciences,28(5): 595-610.   
+Toure AA,TidjaniAD,RajotJL,etal.20l9.Dynamicsof wind erosion and impactof vegetationcoverand landusein the Sahel: A case study on sandy dunes in Southeastern Niger. CATENA,177: 272-285.   
+TuckerCJ,VanpraetCL,SharmanMJ,etal.1985.Sateliteremotesensingof totalherbaceous biomassproductioninthe Senegalese Sahel: 1980-1984.Remote Sensing of Environment,17(3): 233-249.   
+van keulen H,Breman H.1990.Agriculturaldevelopment in the West African Sahelianregion:acureagainst land hunger? Agriculture,Ecosystems & Environment,32(3-4):177-197.   
+Vitousek PM.1994. Beyond global warming: ecology and global change.Ecology,75(7): 1861-1876.   
+WadeTINdiayeO,MauclaireM,etal.2Ol8.Biodiversityfieldtrialstoinformreforestationandnaturalresourcemanagement strategies along the African Great Green Wallin Senegal.New Forests,49(3): 341-362.   
+WaltherGR,PostE,ConveyP,etal.2O02.Ecologicalresponses to recentclimate change.Nature,416(6879):389-395.   
+Wang SD,SiJJ,Wang Y.2021.Studyonevaluationof ecological environment qualityand temporal-spatial evolutionof Danjiang River Basin (Henan Section).Polish Journal of Environmental Studies,3O(3):2353-2367.   
+WenXL,MingYL,GaoYG,etal.2O20.Dynamic monitoringandanalysisofecological qualityof Pingtancomprehensive experimental zone,anew typeof seaisland city,basedon RSEI. Sustainability,12(1):21,doi:10.3390/sul2010021.   
+WuSP,GaoX,LeiJQ,etal.O2.Spatialandtemporalchangesinthenormalizeddiferencevegetationindexndteirdriving factorsinthe desert/grassand biome transitionzoneof the Sahelregionof Africa.Remote Sensing,l2(24):4119,doi: 10.3390/rs12244119.   
+XiongY,Xu WH,Huang SD,etal.2O20.Ecological environmentqualityassessmentof Xishuangbannarubber plantations expansion(1995-2018）basedonMulti-temporalLandsatimageryandRSEI.GeocartoInternational，doi: 10.1080/10106049.2020.1861663.   
+Xu HQ.2Oo8.Anew indexfordelineatingbuilt-uplandfeatures insatelite imagery.InternationalJournal ofRemote Sensing, 29(14): 4269-4276.   
+XuHQ.2013.Aremote sensingurbanecological index and itsaplication.Acta Ecologica Sinica,3(24):7853-7862.(in Chinese)   
+Xu HQ,Wang YF,Guan HD,etal20l9.Detecting ecologicalchanges witharemote sensing based ecological index (RSEI) produced time series and change vector analysis.Remote Sensing,11(2O): 2345,doi:10.3390/rs11202345.   
+XuL,ZhengCL,MaY.2O21.Variations in precipitation extremes inthearid and semi-aridregionsofChina.International Journal of Climatology,41(3):1542-1554.   
+Yim SHL.2020.Development of a 3D real-time atmospheric monitoring system (3DREAMS)using doppler LiDARs and applications forlong-termanalysis and hot-and-poluted episodes.Remote Sensing,12(6):036,doi:10.3390/rs12061036.   
+You Y,RenHJ,ZhouN,etal.2O19.ThePan-African Great Green WallInitiativeanditsdevelopmentofagriculture,animal husbandry& forestry.World Forestry Research,32(5):85-90.   
+Zhang X,WangHCheHZ,etal.2O2o.Improvementofsnow/hazeconfusiondatagapsinMODISdark targetaerosoletrievals in east China.Atmospheric Research,245:105063,doi:10.1016/j.atmosres.2020.105063.   
+Zheng Z,WuZ,ChenY,etal.2O20.Explorationofeco-environmentandurbanizationchanges incoastalones:Acasestudyin China over the past 20 years.Ecological Indicators,119:106847,doi:10.1016/j.ecolind.2020.106847.   
+ZhouGY,XiaJ,ZhouP,etal.2O20.Notvegetationitselfbutmis-revegetationreduces waterresources.ScienceChinaEarth Science,64(3): 404-411.   
+Zhou HR.2Ooo.Studyonecological environmental qualityas assessment index systemof Xinjiang.China Environmental Science,20(2):150-153.(in Chinese)   
+Zika M,ErbKH.2Ol7.The globallossofnetprimary productionresultingfrom human-induced soildegradation indrylands. Ecological Economics,69(2): 310-318.   
+Zofoli ML,KandusP,MadanesN,etal.2Oo8.Seasonal and interannual analysisof wetlandsin South Americausing NOAA-AVHRR NDVI time series: the case of the Parana Delta Region. Landscape Ecology,23(7): 83-848.

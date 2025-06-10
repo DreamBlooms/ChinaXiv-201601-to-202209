@@ -1,0 +1,548 @@
+[
+    {
+        "type": "text",
+        "text": "大规模MIMO下联合用户位置和空间距离的导频分配方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周小海，黄俊伟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：导频污染是大规模 MIMO(multiple-input and multiple-output)系统的瓶颈问题，提出一种联合用户位置和空间距离的导频分配方案来抑制导频污染。该方案首先将所有用户按到达角是否重叠进行分类，将到达角互不重叠的用户归为前 $n$ 类集合，剩余用户归为 $^ { n + 1 }$ 类集合。为前 $n$ 类用户集分配 $n$ 组正交导频在集合内复用，而对 $^ { n + 1 }$ 类集合中的用户进行导频选择时，定义一个干扰函数通过构建加权图的方式进行分配；同时，推导了上行频谱效率并分析了导频开销以及算法复杂度。仿真表明，该方案不仅大大减少了算法复杂度和导频开销，而且显著提高了系统的频谱效率(spectral efficiency，SE)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大规模MIMO；用户分类；到达角；空间距离；图着色 中图分类号：TN913.3 doi:10.3969/j.issn.1001-3695.2018.07.0643 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pilot allocation scheme for joint user location and spatial distance in massive MIMO ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhou Xiaohai†, Huang Junwei (School ofCommunication& Information Engineering,Chongqing Universityof Posts &Telecommunications,Chongqing 400065,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Pilotcontamination is the botteneck of the multi-cell Massive MIMO systems，and mitigating pilot contamination is critical to the Masive MIMO.This paper proposes a pilot allocation scheme that combines user location andspatial distance.Allusers are clustered according to whether the angleofarrival overlaps,and clasifies the usersets whose arrivalangles do not overlap each other inton sets.thentheremainingusers whodo notsatisfythecondition are classified into the $\\mathrm { n } { + } 1$ classes.Assigning n sets of pilot sequences to the first n types of user sets is multiplexed within the set,and for users in the $\\mathrm { n } { + } 1$ class set,the paper defines an interference function to construct a weighted graph.At the same time,it derives the user's expression of the uplink spectrum eficiency.Thesimulation results show thattheschemecan significantly improve the spectrum efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: massive MIMO; user classification; angle of arrival; spatial distance; graph coloring ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大规模MIMO 系统由于其显著提高频谱效率和能量效率等方面的优势，一直以来都备受关注。在时分双工（timedivisionduplex,TDD）大规模MIMO系统中，下行信道状态信息可通过信道互易性获得。因此，首先需对上行信道进行精确的估计，然后利用信道互易性进行检测矩阵和预编码矩阵设计[1]。然而，若想获得完美的信道状态信息，需保证用户间使用的导频是完全正交的。受限于信道的相干时间，导频序列不可避免的在相邻小区间重用，这种由于使用非正交导频序列带来的干扰，称为导频污染；当基站端的天线数非常庞大时，小区内干扰和不相关噪声逐渐消失，而复用非正交导频带来的干扰不会随着天线数的增加而消失。因此，导频污染是抑制大规模MIMO系统性能的瓶颈问题[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了抑制导频污染，学者们对此做了许多研究。文献[1]通过重新设计导频发送协议来减少小区间的导频污染。然而，该方法的局限性在于需要复杂的控制机制来协调各小区的导频发送时隙。文献[2]介绍了一种智能导频分配算法，该算法的导频复用因子为1,保证给信道质量差的小区用户分配正交导频，信道质量好的用户之间复用同一导频。该方法在干扰小区随机分配导频的前提下再对目标小区进行导频分配，其局限性在于没有从系统整体考虑，仅仅只考虑了目标小区的导频污染。文献[3]提出一种联合信道估计和用户到达角的导频抑制方案，该方案需要信道的协方差矩阵的信息。文献[4,5]通过大尺度衰落系数构建干扰图进行导频分配，即通过小区间用户边权图权值的大小来评估干扰，从而进行导频分配。该方案比较合理地从系统整体考虑进行导频分配。然而，当小区内的用户数较大时，其复杂度也是一个值得考虑的问题。文献[6]引进了机器学习进行导频分配，其主要思想在于通过穷举法得到最优导频分配方案作为训练序列，通过训练序列得到导频分配模型。当需要进行导频分配时，根据用户的大尺度衰落系数信息得到最优的导频。该方法的局限性在于得到训练数据的复杂度较高。基于部分导频复用考虑，文献[7]以中心用户和边缘用户将所有小区进行划分，即导频复用因子在中心用户间为1，在边缘用户间为3，优先减轻了边缘用户的导频污染。该方法根据小区内用户受导频污染严重程度的不同对小区内用户进行不同的导频复用。然而，该方法的局限性在于需要较多的正交导频序列。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种联合用户位置和空间距离的导频选择方案。基本思想在于首先按用户的到达角是否重叠进行分类，将用户到达角互不重叠的用户归为 $\\mathfrak { n }$ 类用户集合，而对无法满足条件的用户归为第 $^ { n + 1 }$ 类集合。随机分配 $n$ 组导频给前$n$ 类用户集，每组导频序列在各用户集合内复用，而对 $^ { n + 1 }$ 类集合，若给该集合中的所有用户配置相互正交的导频序列，这样的开销是无法承担的，因此，对此类用户采用加权图进行导频选择。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的系统模型工作在TDD 模式下，由 $L$ 个六边形小区构成，小区内均匀分布 $K$ 个单天线用户，部署有 $M ( M > > K )$ 根天线的基站位于小区中心。当路径数 $\\mathrm { ~ \\bf ~ P ~ }$ 非常多时（ $P > > 1 \\ \\rangle$ ，$j t h$ 小区 $k t h$ 用户到小区 $l t h$ 基站的上行信道 $h _ { j k , l } \\in \\mathbb { C } ^ { M }$ 等效为[3,8]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { j k , l } = \\sqrt { \\frac { \\beta _ { j k , l } } { p } } \\sum _ { p = 1 } ^ { P } a ( \\theta _ { _ { j k , l } } ^ { p } ) a _ { _ { j k , l } } ^ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当基站端的天线阵列均匀分布(uniformlineararray,ULA)时，导向矢量[3]为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { a } ( \\theta ) = [ 0 , e ^ { - 2 \\pi i D \\cos ( \\theta ) / \\lambda } , . . . , e ^ { - 2 \\pi i D ( M - 1 ) \\cos ( \\theta ) / \\lambda } ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "到达角 $\\theta \\in ( 0 , 2 \\pi )$ ， $p$ 代表信号的 $p t h$ 到达路径， $\\lambda$ 为信号波长， $a _ { { } _ { j k , l } } ^ { p }$ 表示信号 $p t h$ 条路径上的复高斯增益，且有$E \\{ \\vert a _ { _ { \\mu _ { \\lambda } , l } } ^ { p } \\vert ^ { 2 } \\} = 1$ 成立 $[ 8 ]$ 。 $D \\leq \\lambda / 2$ 为天线间距[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { j k , l } = { \\frac { z } { \\parallel x _ { j k } - x _ { l } \\parallel ^ { \\gamma } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\beta _ { j k , l }$ 表示大尺度衰落系数（包括路径损耗和阴影衰落）。》为路径损耗指数， $x _ { j k } , x _ { l } \\in \\mathbb { R } ^ { 2 }$ 分别代表用户 $u _ { j k }$ 和基站 $b _ { l }$ 的位置， $\\| ^ { * } \\|$ 表示欧几里德范数。而 $z$ 是一个常数，其值取决于小区边缘信噪比 $S N R _ { e d g e }$ 、小区半径 $R$ 以及噪声方差 $\\delta ^ { 2 }$ [3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz [ d B ] = S N R _ { e d g e } + 1 0 \\gamma \\log R + 1 0 1 \\mathrm { g } \\delta ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上行导频传输阶段，小区t基站端收到的信号$Y _ { l } ^ { p } \\in \\mathbb { C } ^ { M \\times \\tau }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { l } ^ { p } = \\sum _ { j = 1 } ^ { L } \\sum _ { k = 1 } ^ { K } h _ { j k , l } \\phi _ { s _ { j k } } ^ { T } + N _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $N _ { l } \\in \\mathbb { C } ^ { M \\times \\tau } \\sim C N ( 0 , \\delta ^ { 2 } )$ 为加性高斯白噪声； $\\phi _ { s _ { j k } } \\in \\mathbb { C } ^ { \\tau \\times 1 }$ 为小区$j t h$ 的用户 $k t h$ 使用的导频序列 $s$ （ $1 \\leq s \\leq \\tau ^ { } )$ ，其中 $\\tau$ 为导频序列的长度。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { s _ { j k } } ^ { * } \\phi _ { m _ { j k } } = \\left\\{ \\begin{array} { l l } { 1 } & { \\quad s = m } \\\\ { 0 } & { \\quad s \\neq m } \\end{array} \\right. \\qquad \\# \\# 1 \\leq s , m \\leq \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上行信道估计为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\tilde { h _ { l k , l } ^ { L S } } } } = Y _ { l } ^ { p } \\phi _ { s _ { j k } } ^ { * } ( \\phi _ { s _ { j k } } ^ { T } \\phi _ { s _ { j k } } ^ { * } ) ^ { - 1 } } } \\\\ { { \\displaystyle ~ = h _ { l k , l } + \\sum _ { j \\ne l } ^ { L } h _ { j k , l } + \\frac { N _ { l } \\phi _ { s _ { j k } } ^ { * } } { \\tau } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由以上分析知，信道估计的真实性会受到相邻小区使用非正交导频序列的用户间干扰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 导频分配",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本章提出一种基于联合用户位置和空间距离的导频分配方案来抑制导频污染。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该方案首先根据用户的到达角是否重叠进行用户分类，对各类用户集的用户执行不同的导频选择方案。两小区单用户的到达角模型如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "记",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { j k , l } ^ { \\mu } = \\arctan ( \\frac { [ x _ { j k } ] _ { 2 } - [ x _ { l } ] _ { 2 } } { [ x _ { j k } ] _ { 1 } - [ x _ { l } ] _ { 1 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { j k , l } ^ { \\delta } = \\arcsin ( \\frac { r } {  { \\lVert { x _ { j k } - x _ { l } } \\rVert } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则其到达角 $\\theta _ { j k , l } ^ { \\operatorname* { m i n } } = \\theta _ { j k , l } ^ { \\mu } - \\theta _ { j k , l } ^ { \\delta }$ ， $\\theta _ { j k , l } ^ { \\operatorname* { m a x } } = \\theta _ { j k , l } ^ { \\mu } + \\theta _ { j k , l } ^ { \\delta }$ ，其中r表示用户的散射半径。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5db92853c58a842849487d8c2acd080d7878b7344a4319fa094dbe1eced4f593.jpg",
+        "img_caption": [
+            "图1用户到达角模型 $_ { ( \\mathrm { L } = 2 , \\mathrm { K } = 2 ) }$ 0",
+            "Fig.1The model ofUser arrival Angle "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由文献[3]的定理1知，当干扰信号的到达角 $[ \\theta _ { j k , l } ^ { \\operatorname* { m i n } } , \\theta _ { j k , l } ^ { \\operatorname* { m a x } } ]$ 与期望信号的到达角 $[ \\theta _ { l k , l } ^ { \\operatorname* { m i n } } , \\theta _ { l k , l } ^ { \\operatorname* { m a x } } ]$ 完全不重叠时，即使使用的导频序列是非正交的，二者也不会产生干扰[3]。即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { M  \\infty } \\tilde { h _ { l k , l } } = h _ { l k , l } ^ { n o - }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，将用户按到达角是否重叠进行分类。设共有 $\\mathtt { n } { + } 1$ 类， $U _ { 1 } , U _ { 2 } , . . . , U _ { n }$ 表示到达角互不重叠的用户集。 $U _ { n + 1 }$ 包含了其到达角完全重叠和部分重叠的用户。对 $U _ { n + 1 }$ 类用户，若全部分配正交的导频序列，这样的开销是无法承担的。因此，对此类用户，即使无法保证其到达角互不重叠，也希望其空间距离足够的大。对此，本文定义了一个代价函数来评估其干扰大小，通过构造干扰图执行导频选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "记目标用户pth 路径导向矢量$a ( \\theta _ { i } ^ { p } ) = \\sum _ { m = 1 } ^ { M } \\mathrm { e x p } ( 2 \\pi i ( m - 1 ) \\frac { D } { \\lambda } \\mathrm { c o s } ( \\theta _ { i } ^ { p } ) )$ ，干扰用户pth 路径的导向矢量为 $a ( \\theta _ { j } ^ { p } ) = \\sum _ { m = 1 } ^ { M } \\mathrm { e x p } ( 2 \\pi i ( m - 1 ) \\frac { D } { \\lambda } \\mathrm { c o s } ( \\theta _ { j } ^ { p } ) )$ ，二者的空间距离为$d _ { i j } = \\rvert \\rvert \\boldsymbol { x } _ { i } - \\boldsymbol { x } _ { j } \\rvert \\rvert$ ，其中 $x _ { i } , x _ { j } \\in \\mathbb { R } ^ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义代价函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { J _ { i j } = a ( \\theta _ { i } ^ { \\prime } ) ^ { \\mu } a ( \\theta _ { j } ^ { \\prime } ) \\times \\frac { 1 } { d _ { i j } M } } } \\\\ { \\displaystyle { = \\frac { 1 } { M d _ { j } } \\times \\sum _ { m = 1 } ^ { M } \\exp ( 2 \\pi i ( m - 1 ) \\frac { D } { \\lambda } ( \\cos ( \\theta _ { i } ^ { \\prime } ) - \\cos ( \\theta _ { j } ^ { \\prime } ) ) ) } } \\\\ { \\displaystyle { = \\frac { 1 } { M d _ { j } } \\left\\{ \\frac { | 1 - \\exp ( 2 \\pi i M \\frac { D } { \\lambda } ( \\cos ( \\theta _ { i } ^ { \\prime } ) - \\cos ( \\theta _ { j } ^ { \\prime } ) ) ) | } { | 1 - \\exp ( 2 \\pi i \\frac { D } { \\lambda } ( \\cos ( \\theta _ { i } ^ { \\prime } ) - \\cos ( \\theta _ { j } ^ { \\prime } ) ) ) | } \\right\\} , \\Re } } \\\\ { \\displaystyle { M , \\cos ( \\theta _ { i } ^ { \\prime } ) = \\cos ( \\theta _ { j } ^ { \\prime } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当天线数 $M \\to \\infty$ ，且 $\\theta _ { j } \\notin \\theta _ { i }$ 时， $\\operatorname* { l i m } _ { M \\to \\infty } J _ { i j } = 0$ 。反之， $\\theta _ { j } \\in \\theta _ { i }$ ，$\\operatorname* { l i m } _ { M  \\infty } J _ { i j } = \\frac { 1 } { d _ { i j } }$ 。而当两者到达角相互重叠或部分重叠时，若二者的空间距离足够的大，有 $\\operatorname* { l i m } _ { d _ { i j }  \\infty } J _ { i j } = 0$ 成立。因此，该评估标准可综合考虑用户的到达角和空间距离来进行导频选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2在天线数 $M = 6 4$ ，用户距离 $d = 1 0 0 m$ ，目标用户到达角 $\\cos ( \\theta _ { i } ) = 1$ ，干扰用户到达角 $\\cos ( \\theta _ { i } ) \\in [ - 1 , 1 ]$ 时，对代价函数的曲线进行了仿真。由图2可知，当干扰用户的到达角$\\cos ( \\theta _ { j } ) \\in [ \\cos ( \\theta _ { i } ^ { \\operatorname* { m i n } } ) , \\theta _ { i } ^ { \\operatorname* { m a x } } ]$ 时，代价函数的值是很小的。这意味着若干扰用户的到达角落在该范围时，可视为二者到达角不重叠。反之，则视为到达角完全重叠或部分重叠。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/27594168adac66c5ad6b4d506344ab52a5492627cc2b9c5807d12e3cc1493954.jpg",
+        "img_caption": [
+            "图2干扰度量随到达角变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The curve of disturbance measures with the arrival Angle图3在 $\\cos ( \\theta _ { i } ) = \\cos ( \\theta _ { j } ) = 1$ ， $d \\in [ 1 0 , 2 0 0 0 ]$ 时，对代价函数的变化曲线进行了仿真。当二者的到达角相互重叠时，若其空间距离足够大，二者的干扰逐渐趋于0。如图3所示，当$d \\approx 1 0 0 0 \\mathrm { m }$ 时， $J \\approx 0 . 0 0 2$ 。干扰度量几乎可以达到二者到达角互不重叠时的值。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06af0c4ab1fa2a954b0665032f5920a5e1b738802ea346a44edd33c10830c0ea.jpg",
+        "img_caption": [
+            "图3干扰随空间距离变化的曲线",
+            "Fig.3The curve of interference with space distance "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该方案分为用户分类和导频选择两个阶段。算法的伪代码如表1、2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b195e323c045a3c5fd2efed474d63ba59457d52eb497dae9c9230a1544421757.jpg",
+        "table_caption": [
+            "表1用户分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table1</td><td>User classification</td></tr><tr><td>1)用户分类</td><td></td></tr><tr><td>输入S,K,L</td><td></td></tr><tr><td>1.fori,j=1:L</td><td></td></tr><tr><td></td><td>2.fork1,k2=1:K</td></tr><tr><td></td><td>3.计算Beta(k,l,I),DAR(k,l,l,2),d(k,k,l,)</td></tr><tr><td></td><td>4.end;end</td></tr><tr><td></td><td>5.fori=2:L</td></tr><tr><td></td><td>6.fork,k2=1:K</td></tr><tr><td></td><td>7.ifDAR(k,1,i,:)DAR(k2,l,i,:)=</td></tr><tr><td></td><td>8.Uk=Ux Uuik</td></tr><tr><td>9.end;end</td><td></td></tr><tr><td></td><td>10.Un+l=U-{UU...UUn}</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)用户分类",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前期准备（1\\~4)。对各用户的到达角，大尺度衰落系数，空间距离进行计算，并分别存储于DAR,Beta,d矩阵中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户聚类（5\\~10)。对目标小区的各用户进行遍历，判断相邻小区的用户的到达角是否与其相互重叠，若不重叠，则 $U _ { k } = U _ { k } \\cup u _ { i k }$ ，得到 $\\mathfrak { n }$ 类用户集合。该 $\\mathfrak { n }$ 类用户集合中的用户到达角均互不重叠，且 $| \\mathrm { U } _ { i } | \\geq L , \\mathrm { i } { = } 1 . . . \\mathrm { n }$ 。剩余无法满足条件的用户则全归为用户集 $\\mathbf { U } _ { n + 1 }$ 中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)导频选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前 $\\mathfrak { n }$ 类（1\\~4)。若第一类用户集合共有 $\\mathfrak { n }$ 类，随机抽取导频矩阵 $\\Phi$ 的 $\\mathfrak { n }$ 列依次配置给 $\\mathfrak { n }$ 类集合，并将该 $\\mathfrak { n }$ 组导频标记为不可使用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathtt { n } { + } 1$ 类（5\\~18)。对 $\\mathbf { U } _ { n + 1 }$ 集合中的用户进行遍历，根据代价函数构造加权图 $G = < V , E >$ 。step8-10 对集合 $\\mathbf { U } _ { n + 1 }$ 中的所有用户按干扰权值进行排序，优先为其分配两组正交导频并加入集合M中。接下来依次遍历所有用户，为每个用户分配导频序列。其中 step11-12为用户选择阶段，选择干扰权值最大的用户为后续导频选择做准备。接下来step13-15从剩余导频序列中选取使得导频污染最小的导频组分配给该用户。step16将已分配好导频的用户加入集合M中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2导频选择",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddd8d849a7ef8df0352c52d35d88981b7f820bee7a0aae6530d21271fe3088d7.jpg",
+        "table_caption": [
+            "Table 2Pilotselection "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2)导频分配 输入导频序列矩阵Φ,用户U=U,..Un+</td></tr><tr><td>输出导频结果矩阵P 1.fori=1:n</td></tr><tr><td>2.随机抽取一组导频分配给集合U的用户</td></tr><tr><td>3.Φ=Φ-Φ,U=Φ</td></tr><tr><td>4.end</td></tr><tr><td>5.for i=1:|Un+1 |</td></tr><tr><td>6.C(jk) = £ (j,k)∈Un+1/( j,k) J(j,k)(j1.1)</td></tr><tr><td>7.end</td></tr><tr><td>8.{j,k,j2,k}=sort(C(jk),'descend') 9.p(j,k)=1,p(j,k)=2</td></tr><tr><td>10.M={（ji,k)，(j,k)}</td></tr><tr><td>11.Cj）=∑</td></tr><tr><td></td></tr><tr><td>12.(jo,ko) =arg max(j.){C(j,k)，(j,k)g M}</td></tr><tr><td>13.A={Vk,P(jk）≠s,1≤≤t)</td></tr><tr><td></td></tr><tr><td>15.P(j2,k2)=arg min{X4j,Φ𝑠j ∈A} 16.M=MU(j2.k2)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1上行数据传输",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在用户发送上行数据阶段，基站收到的信号为 $Y _ { l } ^ { \\mu } \\in \\mathbb { C } ^ { M \\times 1 }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { l } ^ { u } = \\sum _ { j = 1 } ^ { L } \\sum _ { k = 1 } ^ { K } \\sqrt { p _ { j k } } h _ { j k , l } x _ { j k } + N _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { j k }$ 表示用户发送的上行数据信息， $E \\{ \\mid x _ { j k } \\mid ^ { 2 } \\} = 1$ 。 $p _ { j k }$ 为上行数据功率。 $N _ { \\iota } \\in \\mathbb { C } ^ { M \\times 1 }$ 表示加性高斯白噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基站端采用匹配滤波对信号进行接收时，记检测器ajk=hjlk，则",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle x _ { i k } = ( a _ { j k } ) ^ { H } Y _ { j } ^ { u } } \\\\ { = ( \\hat { h } _ { l , l k } ) ^ { H } ( { \\displaystyle \\sum _ { j = 1 } ^ { L } } \\sum _ { k = 1 } ^ { K } h _ { j k , l } x _ { j k } + N _ { l } ) } \\\\ { = \\sqrt { p _ { l k } } ( \\hat { h } _ { l , l k } ) ^ { H } h _ { l , l k } x _ { l k } + ( \\hat { h } _ { l , l k } ) ^ { H } { \\displaystyle \\sum _ { j = 1 , j \\neq l } ^ { L } } \\sum _ { m = 1 } ^ { K } \\sqrt { p _ { j m } } h _ { l , j m } x _ { j m } } \\\\ { ~ + ( \\hat { h } _ { l , l k } ) ^ { H } N _ { l } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\sqrt { p _ { l k } } ( \\hat { h } _ { l , l k } ) ^ { H } h _ { l , l k } x _ { l k }$ 为期望信号，干扰信号为(h）∑∑√Pmhmxm，（hN为噪声项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上行 SINR为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { S I N R _ { l k } = } \\\\ & { \\frac { p _ { l k } \\vert E \\{ ( \\hat { h } _ { l , l k } ) ^ { H } h _ { l , l k } \\} \\vert ^ { 2 } } { { \\displaystyle \\sum _ { j = 1 , j \\neq l } ^ { L } \\sum _ { m = 1 } ^ { K } p _ { j m } \\vert E \\{ ( \\hat { h } _ { l , l k } ) ^ { H } h _ { l , j m } \\} \\vert ^ { 2 } + \\delta ^ { 2 } \\vert E \\{ ( \\hat { h } _ { l , l k } ) ^ { H } \\} \\vert ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则采用MF接收时，小区的上行频谱效率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( 1 - \\frac { T _ { n } + T _ { n + 1 } + T _ { d } } { T } ) E \\{ \\log _ { 2 } ( 1 + S I N R _ { l k } ) \\} ( b p s / H z / c e l l )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $T _ { n }$ 表示第一类用户集合数， $T _ { n + 1 }$ 表示用户集合 $U _ { n + 1 }$ 所需的导频数， $T _ { n + 1 } \\triangleleft U _ { n + 1 } \\vert$ ，其中\\*表示集合的势。 $\\mathrm { ~ T ~ }$ 表示相干时隙， $T _ { d }$ 表示下行数据时隙。因此本方案的导频开销为 $T _ { n } + T _ { n + 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本方案的主要思想在于按用户按到达角是否进行分类，进而对各用户集用户选择相应的导频配置方案。因此，可从用户分类和导频选择两方面进行复杂度计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）用户分类。对 $\\mathrm { ~ L ~ }$ 个小区的K个用户进行分类时，需要对这LK个用户进行遍历。因此，其时间复杂度为 $O ( L K )$ 。b）导频配置。对集合 $U _ { \\scriptscriptstyle 1 } , \\ldots , U _ { \\scriptscriptstyle n }$ 的用户进行导频配置时，只需从导频矩阵随机抽取 $\\mathfrak { n }$ 组导频序列在 $\\mathfrak { n }$ 个用户集合内复用即可，其时间复杂度为 $O ( n )$ 。而对集合 $U _ { n + 1 }$ 中的用户，需对其进行干扰图构建以此进行导频分配，其复杂度为$O ( \\left( \\tau - n \\right) \\vert U _ { n + 1 }$ ）。因此，总复杂度 $O ( L K + n + ( \\tau - n ) \\big | U _ { n + 1 }$ β）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3将穷举算法，文献[5]方案的算法复杂度与本文方案进行对比。显然，本文的算法复杂度低于二者的算法复杂度。这是因为，相比对所有用户建立加权图或者穷举所有分配方案而言，该方案的用户分类部分的算法复杂度只需 $O ( L K )$ ，而构建干扰图的算法复杂度从 $O ( \\tau ( L K ) ^ { 3 } )$ 降低到$O ( \\left( \\tau - n \\right) | U _ { n + 1 } | ^ { 3 } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/95ad85fd5e2bd9407c96a0b47a4aeaffc203aa33119b3e1b6afc0c6b0676b88e.jpg",
+        "table_caption": [
+            "Table 3 Complexity comparison of algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>导频分配方案</td><td>算法复杂度</td></tr><tr><td>穷举方案</td><td>0((AK)−-1)</td></tr><tr><td>文献[5]方案</td><td>O(τ(LK))</td></tr><tr><td>本文方案</td><td>O(LK+n+(τ-n)|Un+1 β)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本部分将对提出的方案采用蒙特卡洛仿真进行分析。多小区大规模MIMO系统由L个六边形小区组成，小区内共有K 个单天线用户[3]。设用户均匀分布，基站位于小区中心，且离基站 $1 0 0 \\mathrm { ~ m ~ }$ 处无用户分布。相干块 $T = 2 0 0$ (相干时间1ms,相干带宽为 $2 0 0 \\mathrm { k H z }$ )。仿真参数如表4：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/acc9e8156a541d01fd602efd1b863238979e1d181c710d683df8d612f1764d9a.jpg",
+        "table_caption": [
+            "表3算法复杂度对比",
+            "表4仿真参数",
+            "Table 4The simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Tabie4</td><td>trorrPurur</td></tr><tr><td>仿真参数</td><td>取值</td></tr><tr><td>小区数L</td><td>7</td></tr><tr><td>基站天线数M</td><td>20≤M≤500</td></tr><tr><td>天线间距D</td><td>λ/2</td></tr><tr><td>小区半径R</td><td>1000 m</td></tr><tr><td>路径损耗指数α</td><td>3.7</td></tr><tr><td>阴影衰落因子</td><td>8dB</td></tr><tr><td>用户数</td><td>10</td></tr><tr><td>导频长度</td><td>10</td></tr><tr><td>信噪比</td><td>10 dB</td></tr><tr><td>上行数据功率</td><td>10 dBm</td></tr><tr><td>上行导频功率</td><td>10 dBm</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4给出了小区用户数 $K = 1 0$ 时的用户分类图，其中黑色实三角表示基站，黑色圆圈表示 $^ { n + 1 }$ 类用户集合，其余颜色相同的表示同一类集合。此时导频开销为10。对彩色用户分配同一导频，共7组正交导频序列，而对 $^ { n + 1 }$ 类集合用户进行小区间配对，共需3组正交导频序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bd0daa41d44885edfa3af1c7111c374295591a2ebb467b1014519c903d30504.jpg",
+        "img_caption": [
+            "图4用户分类图( $K = 1 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5将传统方案、文献[5]方案与本文方案的频谱效率随基站天线数的变化曲线进行仿真对比。对随机导频分配方案而言，当 $M \\approx 4 5 0$ 时，频谱效率已达上限，天线数继续增加，频谱效率不会继续上升。因为随着天线数增加，小区内干扰和非相关噪声逐渐消失，小区的频谱效率受到导频污染的限制。而相比随机分配方案，文献[5]方案的上限更高，优于传统方案约 $4 b i t / s / H z / c e l l$ 。因为该方案根据大尺度衰落系数对导频选择进行优化的结果。本文方案相比前两者频谱效率更优，因为本文方案不仅降低了导频开销，且对不同类用户进行不同处理大大抑制了导频污染。天线数 $M \\approx 5 0 0$ 时，其频谱效率优于文献[5]方案约 $4 . 2 b i t / s / H z / c e l l$ 。而与传统方案相比时，约有约 $8 b i t / s / H z / c e l l$ 的性能提升。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d86a9f7297f4bf847fb49c084154015109f47be1e92cb57bc91be98b9586b8cf.jpg",
+        "img_caption": [
+            "Fig.4User classification( $K = 1 0$ ）",
+            "图5频谱效率随天线数变化的曲线",
+            "Fig.5The spectral efficiency varying with the number of antennas "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6在天线数 $M = 2 5 6$ ，小区 $L = 7$ 时，对上行信干噪比的累积分布函数进行了仿真。相比传统方案和文献[5]的方案，本文方案提供更高的上行信干噪比。因为本文方案弱化了导频污染。对第一类用户集，其用户集内和用户集合间均不会存在导频污染。对用户集内，因各用户之间到达角互不重叠，即使复用同一导频也不会存在导频污染。而对用户集间，虽然各用户的到达角不满足互不重叠的条件，但因采用的是正交导频，故也不会存在导频污染。因此，导频污染只会来自第二类用户集内，且采用图着色的方案对第二类用户集内的用户进行导频选择后，其导频污染也得到了一定的抑制。因此，本文方案的上行SINR提升明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种联合用户位置和空间距离的导频分配方案，该方案按用户的到达角是否重叠进行分类，进而对各类用户集适用不同的导频选择方案。通过这样的分类，相当于将不会产生干扰的用户分为一类，共 $\\mathfrak { n }$ 类，而会产生干扰的用户归为一类。记为第 $\\mathtt { n } { + } 1$ 类。第一类各用户集间会产生干扰，而各用户集内不会产生干扰。因而需为 $\\mathfrak { n }$ 类用户集配置n 组正交导频在各用户集内复用。对第二类用户，考虑集合内用户的到达角完全重叠或部分重叠，因此为空间距离足够大的用户分配同一导频。反之，复用正交导频。经过这样的分类处理后，不仅导频开销和算法复杂度都大大降低，且系统的频谱效率也得到了一定的提高。因此，本方案是一种切合实际的低复杂度导频选择方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bedda6747dd8f5190f8ca39d1fc4474f32959946f44dbcf52bdb21fe4a544ac.jpg",
+        "img_caption": [
+            "图6SINR的累积分布曲线Fig.6The CDFof SINR"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Fernandes F,Ashikhmin A,Marzetta T L.Inter-cell interference in noncooperative TDD large scale antenna systems [J].IEEE Journal on Selected Areas in Communications,2013,31(2):192-201.   \n[2] Zhu Xudong,Wang Zhaocheng，Dai Lingdong，et al. Smart pilot assignment for massive MIMO [J].IEEE Communications Letters, 2015,19(9): 1644-1647.   \n[3]Yin Haifan,Gesbert D,Filippou M,et al.A coordinated approach to channel estimation in large-scale multiple-antenna systems [J].IEEE Journal on Selected Areas in Communications,2013,31(2):264-273.   \n[4]Zhu Xudong,Dai Lingdong,Wang Zhaocheng.Graph coloring based pilot allocation to mitigate pilot contamination for multi-cell massive MIMO systems[J].IEEE Communications Letters,2015,19(10):   \n[5] ZhuXudong，DaiLingdong，WangZhaocheng，etal. Weighted-graph-coloring-based pilot decontamination formulticell massive MIMO systems [J].IEEE Trans on Vehicular Technology,2017, 66(3):2829-2834.   \n[6]Kim K,Lee J,Choi J.Deep learning based pilot allocation scheme (DL-PAS) for 5G massive MIMO system [J].IEEE Communications Letters,2018,PP(99): 1-1.   \n[7]Zhu Xudong,Wang Zhaocheng,Qian Chen,et al. Soft pilot reuse and multicell block diagonalization precoding for massive MIMO systems [J].IEEE Trans on Vehicular Technology,2016,65(5): 3285-3298.   \n[8]Wang Zhaocheng，Zhao Peiyao,Qian Chen，et al.Location-aware channel estimation enhanced TDD based massive MIMO[J].IEEE Access,2016,4: 7828-7840.   \n[9]Bjornson E,Larsson E G,Debbah M.Massive MIMO for maximal spectral efficiency: how many users and pilots should be allocated? [J]. IEEE Trans on Wireless Communications,2014,15 (2):1293-1308.   \n[10] Marzetta TL.Noncooperative cellular wireless with unlimited numbers of base station antennas [J].IEEE Trans on Wireless Communications, 2010,9(11): 3590-3600.   \n[11] Chang Wenson, Chan Hanwei,Hua Yunkuei.Weighted graph coloring based softer pilot reuse for TDD massive MIMO systems [J].IEEE Trans on Vehicular Technology,2O18,PP(99):1.   \n[12] Marinello JC,Panazio CM,Abrao T.Massive MIMO pilot assignment optimization based on total capacity [J].Telecommunication Systems, 2018(11): 1-15.   \n[13] Fan Jiancun,Li Weiqi,Zhang Ying.Pilot contamination mitigation by fractional pilot reuse with threshold optimization in massive MIMO Systems [J].Digital Signal Processing,2018 (78):197-204. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

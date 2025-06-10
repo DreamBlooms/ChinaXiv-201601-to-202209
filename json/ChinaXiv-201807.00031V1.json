@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "Potato absorption and phytoavailability of Cd, Ni, Cu， Zn and Pb in sierozem soils amended with municipal sludge compost ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Zheng1, NAN Zhongren1\\*, ZHAO Chuanyan², YANG Yang lCollege of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,China; 2 State Key Laboratory of Grassland and Agro-Ecosystems,Lanzhou University,Lanzhou 73ooo0,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Effects of sludge utilization on the mobilityand phytoavailability of heavy metals in soil-plant systems have attracted broad attention in recent years. In this study, we analyzed the effects of municipal sludge compost (MSC) on the solubility and plant uptake of Cd,Ni, Cu, Zn and Pb in a soil-potato system to explore the mobility, potato plant uptake and enrichment of these five heavy metals in sierozem soils amended with MSC through a potato cultivation trial in Lanzhou University of China in 2014. Ridge regression analysis was conducted to investigate the phytoavailability of heavy metals in amended soils. Furthermore, $\\mathrm { C a C l } _ { 2 }$ ， $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ ， $\\mathrm { C H _ { 3 } C O O H }$ ,diethylene triamine pentacetic acid (DTPA) and ethylene diamine tetraacetic acid (EDTA)were used to extract the labile fraction of heavy metals from the amended soils.The results show that the MSC could not only improve the fertility but also increase the dissolved organic carbon (DOC) content of sierozem soils. The total concentrations and labile fraction proportions of heavy metals increase with increasing MSC percentage in sierozem soils. In amended soils, Cd has the highest solubility and mobility while Ni has the lowest solubility and mobility among the five heavy metals. The MSC increases the concentrations of heavy metals in the root, stem,peel and tuber of the potato plant, with the concentrations being much higher in the stem and root than in the peel and tuber.Among the five heavy metals,the bioconcentration factor value of Cd is the highest,while that of Ni is the lowest. The complexing agent (DTPA and EDTA) extractable fractions of heavy metals are the highest in terms of phytoavailability. Soil properties (including organic mater, pH and DOC) have important impacts on the phytoavailability of heavy metals. Our results suggest that in soil-potato systems, although the MSC may improve soil fertility,it can also increase the risk of soils exposed to heavy metals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: municipal sludge compost; amended soils; heavy metals; mobility; ridge regression; phytoavailability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heavy metals, being certain metallic elements or metalloids that have a high density (over 4.5 $\\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ , are toxic or harmful (Nagajyoti et al., 2O1O). Many heavy metals (e.g., Cu, Ni, Zn, Mn) needed by plants and humans are essential elements，which are involved in numerous physiological processes (Rengel, 2004; Hänsch and Mendel, 2009). However, some (e.g., Cd, Hg, As,Pb)are non-essential elements and are very toxic to flora and fauna (Sherameti and Varma, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2011).Essential heavy metals are also toxic when their concentrations exceed certain levels. Thus, sewage sludge-borne high level of heavy metals has been considered to be a risk for its application to soils (Wang，1997； Singh and Agrawal, 2O07). Heavy metals cannot be broken down by microorganisms. They may concentrate in plants through the food chain，thereby threatening human health. If the sewage sludge would be transformed to the sludge compost, it is essential to reduce the concentrations of heavy metals or decrease the availability of heavy metals in sludge. Therefore,many physical, chemical and microbial technologies have been used to reduce the concentrations of heavy metals in sludge (Wang et al.，2OO4; Gheju et al.,2011). However, al these technologies have high costs and low practicality. Therefore, researchers tried to develop heavy metal-stabilizing technologies in sludge treatment. Among the heavy metal-stabilizing technologies,composting is an effective solution.Mobility and solubility of heavy metals in sludge can be decreased following the composting treatment. Amir et al. (2005) studied the sequential extraction of heavy metals in sludge after applying the composting treatment,and the results indicated that the bioavailable fractions of heavy metals decrease after applying the composting treatment. This conclusion has been reported by many researchers (e.g., Haroun et al.， 2007； Zheng et al.， 2007; Manakova et al.，2014; Hazarika et al.，2017).For example, Zheng et al. (2OO7) found that the availability of Ni and Cr in sludge compost was lower than that in non-composted sludge. Hazarika et al. (2O17) revealed that leachable quantities of Cd, Cu, Ni, Pb, Cr and Zn decreased after composting. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both the activity and plant absorption of heavy metals are affected when composted sludge is applied to soil. Ilera et al.(2ooo） found that sludge could improve the concentrations of exchangeable fractions of Cd, Cu,Pb and Zn in soils. Jalali and Khanlari (2OO7) pointed out that when sludge is applied to calcareous soils, the primary fractions of Cd, Zn and $\\mathrm { P b }$ can be changed from stable to labile fractions.However, Sanchez-Martin et al.(2OO7) showed that the mobility of Cd, Pb,Ni, Zn,Cu and Cr exhibited no significant difference before and after the application of sludge. It has been previously reported that the sludge compost could reduce the labile fractions of Cd, Cu and Zn in soils (Zubilaga et al.,2O12). There have been inconsistent results reported for plant absorption of heavy metals after applying sludge to soils. Many researches showed that sludge or sludge compost increases the plant uptake of heavy metals (e.g., Angin and Yaganoglu, 2012；Goncalves et al.，2014； Liu et al.，2016)，or exhibited no effect on heavy metal concentrations in plant (e.g., Bramryd, 2013; Bourioug et al., 2015). However, McBride et al. (2004) demonstrated that sludge reduced the uptake of Zn, Cd, Cu and Ni by eggplant (Solanum melongena L.). The activity and phytoavailability of heavy metals are influenced by element properties, soil properties and plant species characteristics (Kidd et al.,2OO7). Among which, soil properties (especially $\\mathsf { p H }$ and organic matter） are primary influencing factors (McBride,2003; Sänchez-Martin et al., 2007). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the United States, the European Union and China,current regulations regarding the utilization of sludge to soils go no further than seting limits on permissible total concentrations of heavy metals in sludge. However, since many soil properties and environmental factors (temperature, precipitation, etc.） greatly affect the phytoavailability of heavy metals,assessment of potential contamination risk from sludge utilization by using total heavy metal concentration alone is inadequate (McLaughlin et al., 2OoOa). Over several decades,many methods including single chemical extractions (McLaughlin, 2002; Wang et al., 2009; Milicevic et al., 2017) and sequential extractions (Tessier et al.,1979; Davidson et al.,1999; Lestari et al., 2018; Xie et al., 2018),have been used to estimate soil heavy metal availability to plants. Single chemical extractions including chelates, neutral salts and dilute acids are widely used because of their operational simplicity (Feng et al.， 2Oo5). The commonly used methods for evaluating the phytoavailability of single extractable heavy metal are linear correlation analysis and stepwise regression analysis.Many researchers found that heavy metal fraction extracted by neutral salt extractants,such as $\\mathrm { { M g C l } } _ { 2 }$ (Chen et al.,2014), $\\mathrm { C a C l } _ { 2 }$ ， ${ \\bf N a N O } _ { 3 }$ ， $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ (Menzies et al., 2007)and $\\mathrm { C a } ( \\mathrm { N O } _ { 3 } ) _ { 2 }$ (Seo et al.,2O13), has the highest phytoavailability. Although much research has been carried out on the assessment of heavy metal phytoavailability, no one substance has been recognized as a universal extractant that could be used in any given soil. This is because plant absorption of heavy metals is influenced by plant species and soil properties (Soriano-Disla et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sierozem soils are widely distributed in Northwest China, which have low contents of organic matter(OM) and plant nutrients,and high carbonate content and $\\mathrm { p H }$ value.Thus,the fertility of sierozem soils is low. Municipal sludge, being rich in organic material and nutritive elements,can be supplied to sierozem soils to improve the fertility. Meanwhile,application of municipal sewage sludge to soils is also a method of sludge disposal. However, sewage sludge application will introduce heavy metals into soils.Therefore,it is necessary to understand the mobility and plant absorption of heavy metals in sierozem soils amended with municipal sludge to ensure food safety. Previously， we investigated the wheat uptake of Cd in sierozem soils amended with sludge compost (Liu et al.,2O16). Until now, there have been few reports regarding the mobility and plant absorption of heavy metals in sierozem-plant systems with sludge application. In this study, we explored the solubility and potato uptake of Cd, Ni, Cu, Zn and $\\mathrm { P b }$ in sierozem soils amended by different amounts of municipal sludge compost (MSC). We also evaluated the appropriateness of five extractants ( $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ $\\mathrm { C a C l } _ { 2 }$ ， $\\mathrm { C H _ { 3 } C O O H }$ ,diethylene triamine pentacetic acid (DTPA) and ethylene diamine tetraacetic acid (EDTA)) for estimating the phytoavailability of Cd,Pb, Cu, Zn and Ni to the potato plant in sierozem soils amended with MSC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Experimentalmaterials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tested plant species is potato (Solanum tuberosum L., variety Xindaping)，which is widely planted in Northwest China. Dewatered sludge was taken from the Qilihe Sewage Treatment Plant in Lanzhou City, Gansu province, China. The sewage from Lanzhou City was treated using cyclic activated sludge technology. In our experiment, one part of corn straw was added uniformly to eight parts of dewatered municipal sludge. The mixture was composted under aerobic and static conditions. In the composting process,the mixture was turned over every seven days. The MSC was obtained approximately one month later. The chemical properties of MSC are presented in Table 1.Heavy metal concentrations in the MSC were below the limits (3,300,500,1500, 500, 3 and $1 0 0 \\mathrm { m g / k g }$ for Cd, Pb, Cu, Zn, Cr, $\\mathrm { H g }$ and $\\mathrm { N i }$ ,respectively) for sludge application to farmland in China (Ministry of Housing and Urban-Rural Development of China,2OO9). Sierozem soils were obtained from the topsoil layer $\\left( 0 { - } 3 0 \\ \\mathrm { c m } \\right)$ in Yuzhong County of Gansu Province.The soil texture was $1 6 . 0 7 \\%$ sand, $6 3 . 3 9 \\%$ silt and $2 0 . 5 4 \\%$ clay. The collected sierozem soils and MSC wereair-dried, ground and passed through a $2 \\mathrm { - m m }$ sieve for further use. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7450206c8fdd579f5cbda03e5520bb76c2053e3f40ec33c0eea8395ac1686e7b.jpg",
+        "table_caption": [
+            "Table 1Chemical properties and heavy metal concentrations of municipal sludge compost (MSC) "
+        ],
+        "table_footnote": [
+            "Note:EC,electricconductivity;OM,organic mater;DOC,dissolvedorganiccarbon;P,phosphorus;K,potasium. "
+        ],
+        "table_body": "<html><body><table><tr><td>pH1:2.5</td><td>EC1:2.5 (μS/cm)</td><td>Carbonate (%)</td><td>OM (g/kg)</td><td>DOC (mg/kg)</td><td>P (%)</td><td>K(%)</td></tr><tr><td>7.66</td><td>3215.30</td><td>3.08</td><td>150.87</td><td>2679.43</td><td>8.54</td><td>3.25</td></tr><tr><td>Cd (mg/kg)</td><td>Pb (mg/kg)</td><td>Cu (mg/kg)</td><td>Zn (mg/kg)</td><td>Ni (mg/kg)</td><td>Cr (mg/kg)</td><td>Hg (mg/kg)</td></tr><tr><td>1.80</td><td>33.61</td><td>78.99</td><td>353.67</td><td>32.86</td><td>67.52</td><td>1.15</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Pot trial design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A pot trial was carried out at Lanzhou University in 2O14. Seven soil treatments $( 0 . 0 \\% , 0 . 5 \\%$ $1 . 0 \\%$ ， $2 . 0 \\%$ ， $4 . 0 \\%$ ， $6 . 0 \\%$ and $8 . 0 \\%$ MSC in sierozem soils) with four replicates for each were used in this experiment. Soil treatments were marked as control ( $0 . 0 \\%$ MSC in sierozem soils), S0.5 0 $0 . 5 \\%$ MSC), S1.0 ( $1 . 0 \\%$ MSC), S2.0 ( $2 . 0 \\%$ MSC), S4.0 ( $4 . 0 \\%$ MSC), S6.0 ( $6 . 0 \\%$ MSC)and S8.0 ( $8 . 0 \\%$ MSC). Different weights of sieved MSC were added evenly to the soil in each plastic pot according to proportions mentioned above. The mixed soil dry weight in each pot was $3 2 \\mathrm { k g }$ The amended sierozem soils were watered and then equilibrated for approximately 6 months. Potato seeds were soaked in $5 \\mathrm { m g / L }$ gibberellin solution for $5 \\mathrm { m i n }$ and sprouted in wet silica sand. One piece of sprouted seed tuber was planted in each pot. During the potato growth period, distilled water was used to irrigate the soil, maintaining soil moisture content at about $30 \\%$ of field capacity. Potato plants were harvested approximately 15 weeks after sowing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Plant and soil analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plant samples were washed carefully with deionized water to remove soil particles and other impurities. The potato plant was cut into four parts: root, stem (including stalk and leaves), peel and tuber. Then,the fresh weight of the tuber was measured.The plant samples were oven-dried at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $4 0 ~ \\mathrm { m i n }$ ，and then kept at $7 5 ^ { \\circ } \\mathrm { C }$ until constant weights were obtained. Samples were ground and homogenized in a mill and then dispensed into sample bottes.Dry samples were digested with ${ \\mathrm { H N O } } _ { 3 }$ using microwaves (Gardea-Torresdey et al., 2OO4). The Cd, Pb, Cu, Zn and Ni concentrations of the potato plant were determined with an atomic absorption spectrometer equipped with a graphite furnace atomizer (AAS, Type M6MKII, Thermo Electron Corporation, USA). Approximately $5 0 0 ~ \\mathrm { g }$ of soil was taken from each pot. Soil samples were air-dried and ground. The soil texture was measured by the hydrometer method (Liu,1996). The pH and electric conductivity (EC) in water (1.0:2.5） were measured using a combined glass calomel electrode (Ministry of Agriculture of China, 2OO6). The organic matter (OM) content was determined by oxidation with potassium dichromate and colorimetric determination (Nelson and Sommers,1996). The dissolved organic carbon (DOC) content was determined following Kaiser et al. (1996). The titration method was used to determine the carbonate content (Ministry of Agriculture of China, 1988). Soil samples and MSC samples were digested with ${ \\mathrm { H N O } } _ { 3 }$ and HCl (2.7:1.0) in a laboratory microwave system (Kidd et al.，2OO7） to determine the $\\mathrm { ~ \\bf ~ P ~ }$ （phosphorus） content.In order to determine the K (potassium) content,and concentrations of Cd, Pb, Cu, Zn,Cr and Ni, we digested soil samples and MSC samples with ${ \\mathrm { H N O } } _ { 3 }$ and $\\mathrm { { H C l O _ { 4 } } }$ (2:1）in a laboratory microwave system (Udom et al.，2004). The $\\mathrm { H g }$ concentration in the MSC was determined using the method conducted by Horvat et al.(1991).Available phosphorus (AP） was determined by bicarbonate extraction (Olsen et al.， 1954). Available potassum (AK） was determined by extraction with $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ (Page,1982). The single extraction analysis procedure was selected to investigate the phytoavailability of heavy metals in amended sierozem soils. The $\\mathrm { C a C l } _ { 2 }$ ， $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ $\\mathrm { C H _ { 3 } C O O H }$ ，DTPA and EDTA were used to extract the labile fraction of heavy metals from the soils(Quevauviller,1998； Sanka and Dolezal, 2Oo6). The heavy metal concentrations and K content in amended sierozem soils were determined with an atomic absorption spectrometer equipped with a graphite furnace atomizer (AAS, Type M6MKII, Thermo Electron Corporation, USA). The $\\mathrm { H g }$ concentration in amended sierozem soils was determined with an atomic fluorescence spectrometer (AFS，Type RGF8780，Bohui Innovation Technology Corporation, Beijing). The $\\mathrm { ~ \\bf ~ P ~ }$ content in amended sierozem soils was determined with an ultraviolet spectrophotometer (Evolution 300 Security UV-Vis Spectrophotometer， Thermo Electron Corporation,USA). Furthermore,certified reference samples, bush leaf material (GBW-07603) and yellow soil material (GBW-O74O8),were employed in quality control. The difference between measured and certified concentrations of Cu, Zn,Ni, Pb and Cd was no more than $10 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mean value of each treatment was obtained by averaging four replicates,and the relative error was less than $10 \\%$ . We used one-way analysis of variance(ANOVA) followed by Duncan's test $( P { < } 0 . 0 5 )$ to evaluate the significant differences between experimental data. In addition， the following data analysis methods were also used in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Bioconcentration factor (BCF) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The BCF is one of the key components representing a plant's capacity for enrichment with heavy metals (Jamali et al., 2OO9). The BCF was determined using the Equation 1: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B C F } { = } C _ { P } / C _ { S } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { P }$ and $C _ { S }$ are the heavy metal concentrations $( \\mathrm { m g / k g } )$ in the plant and soil, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2Ridge regression analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effects of multicollinearity on the least squares estimate of regression coefficients are well known.Multicollinearity can result in regression coefficient estimates with high variance that may consequently be far removed from the true population values. In addition,the least squares estimates may be too large in absolute values,and it is possible that some of them will even be of the wrong sign， resulting in unreliable regression equation (Timmermans， 1981). Stepwise regression analysis is usually used to overcome the multicollinearity problem. However, there is a consensus that stepwise regression analysis does not always succeed in selecting the best subset of predictor variables in terms of maximizing explained variance.To select the best predictor variables, Hoerl and Kennard (197O) introduced the ridge regression analysis. This approach has been successfully applied in many research fields.For the potato plant, root is the first plant organ exposed to soil metals.Heavy metal concentration in the root is considered to be a good indicator of phytoavailability, whereas the concentration in the other parts of the plant may not necessarily reflect heavy metal supply (Soriano-Disla et al.,2O1O).Thus,the heavy metal concentration in the root was selected as the plant absorption parameter in this study. Furthermore,it is commonly recognized that the extractable concentration of heavy metal is a useful variable to assess the potential risk of heavy metals in amended soils (McBride,2Oo3). Soil properties,such as OM content and pH value, also have an important impact on the phytoavailability of heavy metals (Li et al.,2003). Moreover, DOC could affect the plant uptake of heavy metals. Thus, we selected the extractable concentration of heavy metals,soil $\\mathrm { p H }$ value,and soil OM and DOC contents as the independent variables in this study. Multicollinearity ispresent among these independent variables. In response, ridge regresson was used to analyze the phytoavailability of heavy metals in the mixed soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Properties of amended sierozem soils ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The difference analysis results of properties of amended sierozem soils indicate significant variations in EC,OM, DOC,P, K, AP and AK among different treatments (Table 2). However, no significant difference was found between $\\mathrm { p H }$ value and carbonate content. Compared with control treatment, the EC, OM, DOC,P, K, AP and AK increased in MSC treatments. The EC, OM,DOC, P, K, AP and AK were $1 0 4 . 4 \\%$ ， $1 6 2 . 2 \\%$ ， $5 2 1 . 6 \\%$ ， $7 1 1 . 1 \\%$ ， $4 2 . 1 \\%$ ， $6 9 5 . 7 \\%$ ,and $2 7 2 . 2 \\%$ higher in S8.0 than in control treatment, respectively. As the MSC percentage in sierozem soils increased, the concentrations of Cu, Zn, Cd and $\\mathrm { P b }$ in amended soils increased correspondingly, while the concentration of Ni did not change significantly (Table 2).When the MSC percentage increased to $8 . 0 \\%$ in sierozem soils,the concentrations of Cd,Pb, Cu, Zn and Ni increased by $9 2 . 3 \\%$ ， $1 3 . 0 \\%$ $2 2 . 2 \\%$ ， $3 2 . 2 \\%$ and $8 . 1 \\%$ ， respectively, compared with the control treatment. Nevertheless,the heavy metal concentrations were within the limit (O.6,350,1Oo,30O and $6 0 ~ \\mathrm { m g / k g }$ for Cd, Pb, Cu, $Z \\mathrm { n }$ and $\\mathrm { N i }$ ，respectively）for farmland soils $\\mathrm { ( p H } \\mathord { \\sim } 7 . 5 \\mathrm { ) }$ in China (Ministry of Environmental Protection of China, 1995). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Labile fraction proportions of heavy metals ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Single extractions of Cd, Pb, Cu, Zn and Ni concentrations in amended sierozem soils are shown in Figure 1. Duncan's test indicates that each extractable concentration of heavy metal increased significantly with increasing MSC percentage in sierozem soils.For Zn,Pb,Cu and $\\mathrm { C d }$ ，the complexing agent (DTPA and EDTA） extractable concentrations were highest, but for Ni, the $\\mathrm { C H _ { 3 } C O O H }$ extractable concentration was the highest. For all five heavy metals, the $\\mathrm { C a C l } _ { 2 }$ extractable concentration was the lowest.Different heavy metals had diferent solubility in amended sierozem soils.Furthermore,the mean labile fraction proportion of each heavy metal was also investigated (Table 3). The result shows that the extractable labile fraction proportion of the five heavy metals was in the following order: $\\mathrm { N i } { < } \\mathrm { Z n }$ , Cu and $\\mathrm { P b } { < } { < } \\mathrm { C d }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Plant absorption of heavy metals ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Cd,Pb, Cu, Zn and Ni concentrations of the root, stem, peel and tuber of the potato plant are presented in Figure 2.As the MSC percentage in sierozem soils increased, the heavy metal concentrations in each part of the potato plant increased correspondingly. Concentrations of Cd, Pb, Cu,Zn and Ni in the potato plant were much higher in the stem and root than in the peel and tuber (Fig.2).The calculations of BCF were conducted to compare the plant enrichment ability of each heavy metal. Since the heavy metal concentration in different parts of the potato plant showed differences,we used the metal concentration of the whole plant to calculate the BCF. The BCF value of each heavy metal was in the following order: $\\mathrm { N i } { < } \\mathrm { Z n }$ Cu and $\\mathrm { P b } { < } { < } \\mathrm { C d }$ (Table 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/699d56b60efac1e1be7f3269383113928c67cfcc70cdf52e2be855c2cd1dfcd9.jpg",
+        "table_caption": [
+            "Table 2 Chemical properties and heavy metal concentrations of amended sierozem soils "
+        ],
+        "table_footnote": [
+            "Note:EC，electriccoductivityOM,organicmater;DOC,disslvedorganiccarbon；APavailablephosphorus；AK,available potassium. Control, $0 . 0 \\%$ MSC in sierozem soils; S0.5, $0 . 5 \\%$ MSC; S1.0, $1 . 0 \\%$ MSC; S2.0, $2 . 0 \\%$ MSC; S4.0, $4 . 0 \\%$ MSC; S6.0, $6 . 0 \\%$ （204号 MSC; S8.0, $8 . 0 \\%$ MSC.Different lowercase leters in the same row indicate significant diferences among soil treatments at $P { < } 0 . 0 5$ （204号 level according to the Duncan's test.Mean $\\pm \\mathrm { S D }$ $\\scriptstyle n = 4$ ， "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Control</td><td>S0.5</td><td>S1.0</td><td>S2.0</td><td>S4.0</td><td>S6.0</td><td>S8.0</td></tr><tr><td>pH1:2.5</td><td>8.33±0.52a</td><td>8.23±0.03a</td><td>8.22±0.06a</td><td>8.12±0.26a</td><td>8.03±0.43a</td><td>7.98±0.52a</td><td>7.77±0.32a</td></tr><tr><td>EC1m</td><td>713.7±30.0e</td><td>962.7±62.9d</td><td>1030.1±60.2cd</td><td>1121.7±39.7c</td><td>1173.7±43.5bc</td><td>1304.7±86.4b</td><td>1457.2±67.7a</td></tr><tr><td>Carbonate</td><td>13.12±0.12a</td><td>13.26±0.35a</td><td>13.28±0.20a</td><td>13.36±0.38a</td><td>13.35±0.59a</td><td>13.43±0.71a</td><td>12.78±0.58a</td></tr><tr><td>OM (g/kg)</td><td>7.60±0.39f</td><td>8.63±0.81ef</td><td>9.51±0.61e</td><td>11.37±1.09d</td><td>13.52±0.33c</td><td>16.11±1.09b</td><td>19.93±0.58a</td></tr><tr><td>DOC (mg/kg)</td><td>24.23±1.65g</td><td>35.65±1.83f</td><td>42.79±1.90e</td><td>51.68±4.44d</td><td>86.49±8.08c</td><td>120.47±8.39b</td><td>150.61±12.67a</td></tr><tr><td>P(%)</td><td>0.09±0.01g</td><td>0.14±0.01f</td><td>0.19±0.01e</td><td>0.27±0.01d</td><td>0.45±0.03c</td><td>0.59±0.05b</td><td>0.73±0.03a</td></tr><tr><td>K(%)</td><td>1.59±0.13b</td><td>1.89±0.01b</td><td>2.00±0.12a</td><td>2.02±0.08a</td><td>2.05±0.19a</td><td>2.18±0.01a</td><td>2.26±0.10a</td></tr><tr><td>AP (mg/kg)</td><td>19.78±0.74g</td><td>34.84±0.67f</td><td>39.41±1.69e</td><td>47.89±2.31d</td><td>52.46±0.63c</td><td>87.5±5.16b</td><td>157.39±3.56a</td></tr><tr><td>AK (mg/kg)</td><td>59.12±4.82e</td><td>97.44±8.83d</td><td>139.08±1.77c</td><td>152.71±13.95c</td><td>153.06±9.68c</td><td>188.09±1.83b</td><td>220.02±6.13a</td></tr><tr><td>Cd (mg/kg)</td><td>0.13±0.01d</td><td>0.14±0.01d</td><td>0.16±0.01c</td><td>0.18±0.01c</td><td>0.21±0.01b</td><td>0.23±0.02ab</td><td>0.25±0.02a</td></tr><tr><td>Pb (mg/kg)</td><td>16.86±0.74b</td><td>17.56±1.13ab</td><td>17.66±1.14ab</td><td>17.86±1.21ab</td><td>18.16±1.15ab</td><td>18.79±1.78ab</td><td>19.05±0.40a</td></tr><tr><td>Cu (mg/kg)</td><td>23.95±1.13c</td><td>24.96±1.92c</td><td>25.25±0.81c</td><td>25.66±2.01bc</td><td>26.46±1.25bc</td><td>27.26±0.10b</td><td>29.26±0.51a</td></tr><tr><td>Zn (mg/kg)</td><td>68.75±3.27c</td><td>71.58±1.09c</td><td>72.68±2.48c</td><td>75.48±4.58bc</td><td>81.67±1.57b</td><td>85.45±6.31ab</td><td>90.89±2.21a</td></tr><tr><td>Ni (mg/kg)</td><td>25.57±0.70a</td><td>26.19±2.01a</td><td>26.55±0.50a</td><td>27.02±0.78a</td><td>27.25±0.25a</td><td>27.42±1.58a</td><td>27.65±1.89a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/21a5e5d51abefdc84bb82134baec5469881ba7357fd60c0ac1b7d0f210705d25.jpg",
+        "table_caption": [
+            "Table 3Mean labile fraction proportions of the five heavy metals using different extractants "
+        ],
+        "table_footnote": [
+            "Note:DTPA,dietylenetraminepetaceticcid;EDTA,etylenediamietetraaceticacid.Dierentlowercaselettsiacholu indicate significant differences among different heavymetalsat $P { < } 0 . 0 5$ level according to the Duncan's test.Mean $\\pm \\mathrm { S D }$ $\\scriptstyle n = 2 8$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Heavy metal</td><td colspan=\"5\">Labile fraction proportion of heavy metal (%)</td></tr><tr><td>CaCl2</td><td>CH3COONH4</td><td>CHCOOH</td><td>DTPA</td><td>EDTA</td></tr><tr><td>Cd</td><td>1.53±0.25a</td><td>19.25±2.79a</td><td>7.50±1.37a</td><td>48.44±5.36a</td><td>32.51±6.08a</td></tr><tr><td>Pb</td><td>0.67±0.09b</td><td>1.61±0.17b</td><td>3.79±0.58b</td><td>4.86±1.18b</td><td>7.31±1.01b</td></tr><tr><td>Cu</td><td>0.64±0.11b</td><td>2.42±0.30b</td><td>2.86±0.57b</td><td>3.60±0.36b</td><td>5.74±0.80b</td></tr><tr><td>Zn</td><td>0.77±0.13b</td><td>1.96±0.18b</td><td>2.92±0.32b</td><td>4.10±0.73b</td><td>6.82±0.86b</td></tr><tr><td>Ni</td><td>0.45±0.08c</td><td>0.69±0.08c</td><td>1.43±0.35c</td><td>0.92±0.17c</td><td>1.63±0.29c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4221527a8dab1d0c2d7a2006aa27659c11316e3dbf2b0ab3fe1e247b52d49bc6.jpg",
+        "table_caption": [
+            "Table 4BCF(bioconcentration factor) values of the five heavy metals under different soil treatments "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters in each row indicate significant diffrences among diferent heavy metals at $P { < } 0 . 0 5$ level according to theDuncan'stest.Mean±SD, $\\scriptstyle n = 4$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"5\">BCF value</td></tr><tr><td>Cd</td><td>Pb</td><td>Cu</td><td>Zn</td><td>Ni</td></tr><tr><td>Control</td><td>3.98±0.57a</td><td>0.31±0.05b</td><td>0.30±0.04b</td><td>0.39±0.04b</td><td>0.10±0.01c</td></tr><tr><td>S0.5</td><td>5.23±1.00a</td><td>0.43±0.07b</td><td>0.40±0.04b</td><td>0.46±0.09b</td><td>0.14±0.02</td></tr><tr><td>S1.0</td><td>5.49±0.65a</td><td>0.50±0.06b</td><td>0.49±0.06b</td><td>0.52±0.10b</td><td>0.17±0.03c</td></tr><tr><td>S2.0</td><td>5.64±0.71a</td><td>0.50±0.09b</td><td>0.52±0.06b</td><td>0.51±0.08b</td><td>0.18±0.02c</td></tr><tr><td>S4.0</td><td>6.29±0.72a</td><td>0.56±0.09b</td><td>0.60±0.07b</td><td>0.54±0.08b</td><td>0.23±0.03</td></tr><tr><td>S6.0</td><td>5.89±0.67a</td><td>0.54±0.07b</td><td>0.61±0.08b</td><td>0.55±0.07b</td><td>0.24±0.03c</td></tr><tr><td>S8.0</td><td>2.73±0.51a</td><td>0.54±0.08b</td><td>0.65±0.09b</td><td>0.57±0.11b</td><td>0.25±0.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "U.10 (a) □CaCl □ CHCOONH4 CHCOOH Aa 0.14 QDTPA ■EDTA 自 000 0.12 Bb L Bc Aa 1 Aa 0000 A Cc   \n0.02 BdDd Be BdP AH Ae Aq A 0.00 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 4.0   \n32230 (b) Aa Aa Aa A Aa B Ba Ab Bb A A Bb Bb Bb Bb FAM CE CC BdF Cc Bd Cc Bc 国 Ac Ad AdE Ce B Be Bd Ad Ad A HOHH 0.0 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0   \n10 3 20  10 (c) Aa Ba Ab Ce 1 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0   \n(d) nnenire gt 164 (d) Aa 12 10 Ba H 86 B Bb 42 CCCC CbCa cccC CecCc S BCBC A T 0 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 1.4   \nrnr rnenriregn (e) 1.2 1.0 8000 Ab 0.8 0.6 8 8H 8H 1 Bb 年 Cb 40 C Bd AB A 0.0 上 呂： 臣 H H 全 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 Soil treatment 3.0   \n23 (a) Peet  Tuber AAa AaAa AA BaBa 品 B 工   \nP 00 BBb BbBb BbAb ADAD AAb AbAb AAb Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 25 AaAa   \n(or grnennitsg (b) Aa 20 ABABa AA Aa Aa 工 Aa工 15 Ba ABa ABa 1 工Ba 10 H   \np 5 C9 CbCb BbBb ABbb Ab Bb AbAb AAb 0 1 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 25   \n(ee) nrneneetenn (c) 管 20 AAa AAa 工 Ba Ba 15 Ca Cca B 广 Ba AbAb 10 BCb BCb Bb Bb BbBb 工工 Cb 工Bb Bb 5 CDb Cb 0 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 250 Aa   \n(y/8u) (d) Ba A   \n1 200 ICa CaCa C CBa BBa 工 Ab ABb Ab Bb Ab Cb Bbb Bb BCb Bb Db Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 16   \nrn nrnenieegn 12 14 (e) AaAa AaAa II AaAa I 10 Ba ABa 工 8 Ba Bb 6 B西 B Ab Ab 42 Cb CcCC CbBb BBb BbBb BbAb Ac Ac 0 Control S0.5 S1.0 S2.0 S4.0 S6.0 S8.0 Soil treatment ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Ridge regression analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The best-fit predictive equations for the five heavy metals using ridge regression analysis are shown in Table 5.A suitable indicator was found by DTPA extraction for Cd and $\\mathrm { P b }$ ，and by EDTA extraction for Cu, Zn and Ni in the root of the potato plant. The complexing extractions can be used to predict the phytoavailability of heavy metals in amended sierozem soils. The regression coefficients of OM and DOC contents were positive for all heavy metals, indicating that the increases of OM and DOC contents could lead to the increases of heavy metal concentrations in the root. However, the regression coefficients of soil $\\mathrm { p H }$ were negative for all heavy metals,showing that an increase of $\\mathrm { p H }$ value could lead to the decreases of heavy metal concentrations in the root. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2c24493795fb7faf9097eedac937ee65783b8a05ccebbdae50c70a79fbcce9e.jpg",
+        "table_caption": [
+            "Table 5Ridge regression analysis of heavy metal concentration in the root, soil $\\mathrm { \\ p H }$ value,soil OM content, soil DOC content and extractable concentration of heavy metal "
+        ],
+        "table_footnote": [
+            "Note:\\*means that the correlation coefficient is significant difference at $P { < } 0 . 0 5$ level. $\\mathbf { C } _ { \\mathrm { r o o t } }$ ,heavy metal concentration in the root （204号 $( \\mathrm { m g / k g } )$ ；CDTPA，DTPA-extractable concentration of corresponding heavy metal in amended sierozem soils $( \\mathrm { m g / k g } )$ ；CEDTA, EDTA-extractable concentration of corresponding heavy metal in amended sierozem soils $( \\mathrm { m g / k g } )$ $\\mathbf { C } _ { \\mathrm { O M } }$ ，soil organic matter content $( { \\mathrm { g / k g } } )$ ; CDoc,soil dissolved organic carbon content $( \\mathrm { g / k g ) }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Heavy metal</td><td>Ridge regression equation</td><td>R</td></tr><tr><td>Cd</td><td>Croot=2.370CDTPA+0.043CoM-0.657pH+0.005CDoc+6.080</td><td>0.953*</td></tr><tr><td>Pb</td><td>Croot=0.916CDTPA+0.309CoM-1.728pH+0.019CDoc+25.318</td><td>0.952*</td></tr><tr><td>Cu</td><td>Croot=0.838CEDTA+0.307CoM-4.829pH+0.027CD0c+47.829</td><td>0.959*</td></tr><tr><td>Zn</td><td>Croot=1.540CEDTA+2.389CoM-43.565pH+0.188CD0c+472.084</td><td>0.972*</td></tr><tr><td>Ni</td><td>Croot=1.390CEDTA+0.292Com-4.861pH+0.022CD0c+42.460</td><td>0.958*</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of MSC on properties of amended sierozem soils ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As the MSC percentage in amended sierozem soils increased, the soil EC, OM, DOC, P, K,AP, and AK increased correspondingly. Previous studies have reported similar results (Antonious et al.,2011; Yilmaz and Temizgul,2O12). Soil EC represents total salt content in soils. Generally, the suitable soil EC for plant growth is less than $1 5 0 0 ~ { \\mu \\mathrm { S / c m } }$ (Casado-Vela et al., 2006). In this study, the highest EC of amended sierozem soils was less than this threshold, indicating that the total salt content of amended sierozem soils is suitable for plant growth.DOC, the primary component of dissolved organic matter, plays an important role in the transport of metals in soils (Kalbitz et al., 2Ooo). DOC can form a stable chemical complex with heavy metals; therefore it improves the solubility of soil heavy metals (Sherence,2Oo9).Thus,the increase of DOC content in amended sierozem soils may enhance the solubility of heavy metals. Soil OM, $\\mathrm { \\bf ~ P }$ and K contents are important indicators of soil fertility. AP and AK, respectively representing the $\\mathrm { \\bf P }$ and K,can be directly taken up by plants. Although the soil OM content in this study (7.60-19.93 $\\mathrm { g / k g ) }$ was lower than the average value in Gansu Province $( 2 2 . 6 2 ~ \\mathrm { g / k g ) }$ ，MSC did effectively promote the fertility and phytoavailability of Pand K in amended sierozem soils. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Influence of MSC on mobility of heavy metals ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Single extraction can be used to determine the labile fraction of heavy metals in soils.It is a common method for investigating the mobility of heavy metals and exploring the potential risk of heavy metals. Generally speaking,the labile fractions of heavy metals in soils are composed of water-soluble, exchangeable and acid-soluble (bound to carbonate) components (Luo and Christie, 1998;Davidson et al.,1999).In this study,we used $\\mathrm { C a C l } _ { 2 }$ ， $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ ， $\\mathrm { \\mathbf { C H _ { 3 } C O O H } }$ ,DTPA and EDTA as extractants to extract the labile fractions of heavy metals.Both $\\mathrm { C a C l } _ { 2 }$ and $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ extractants are neutral salt solutions. Neutral salts could extract metals in soil solutions and from soil particles (McLaughlin et al.， 2Ooob).Phytoavailable metals are mainly absorbed on the surface of soil particles. They can be exchanged by other cations and therefore be released to soil solutions. Neutral salt extractions are considered to be directly absorbed by plants (McBride, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2003). The $\\mathrm { C H _ { 3 } C O O H }$ extractant is a dilute acid solution.It can extract water and acid-soluble heavy metals (Luo and Christie,1998). Both DTPA and EDTA are complexing agents that can form strong complexes with metals (Menzies et al.,2OO7). Chelating agents and dilute acids could extract more metals compared to neutral salts (McBride,2OO3). Chelating agents and dilute acids are usually used to assess the potential toxicity of heavy metals,and the heavy metals extracted by chelating agents and dilute acids could represent the long-term available metals in soils (McLaughlin et al., 2000a). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The labile fraction proportion of heavy metals increased with increasing MSC percentage in amended sierozem soils (Bhat et al.,2011; Delgado et al.,2012; Arvas et al.,2013). Zubillaga et al. (2012） reported that the labile fraction proportion of heavy metals in soil-sludge mixtures decreased with increasing soil OM content. In this study,soil OM content increased significantly with an increase of MSC percentage in amended sierozem soils,and the labile fraction proportion of each heavy metal increased with increasing soil OM content. This may be atributed to the DOC in the MSC.As MSC percentage in amended sierozem soils increased, the DOC content increased correspondingly. DOC can form stable complexes in soil solution with metal cations, metallic oxides and metal hydroxides,and then the sorption of metal ions on the soil solid phase is suppressed (Sherence,2Oo9). Thus,DOC can increase the solubility of metals. In amended sierozem soils,the increased DOC content could form a complex in soil solution with heavy metals,and increase the concentration of water-soluble metals.In addition,carbonate also influences the labile fraction proportion of heavy metals. Heavy metals are very effectively retained by carbonate surfaces at low soil metal concentrations via the chemisorption mechanism (Thakur et al.,2Oo6), while they can precipitate with carbonates at high soil metal concentrations (Ouhadi et al.,2O1O).Yuan and Lavkulich (1997) found that carbonates in soils with low OM content have a stronger sorption capacity of heavy metals than those in soils with high OM content.The amended sierozem soils in this study had a high carbonate content and a low OM content. More heavy metals tended to combine with carbonate than combine with OM. In summary，MSC could increase the DOC content in amended sierozem soils，and therefore increase the water-soluble fraction of heavy metals.Moreover,the high carbonate content in amended sierozem soils increased the acid-soluble fraction of heavy metals. Thus,the labile fraction proportion of heavy metals increased with increasing amounts of MSC addition in sierozem soils. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Different extractants had various extractable capacities. The complexing agent (DTPA and EDTA） extractable concentrationswere highestfor Cu， Pb， Cd and Zn. The $\\mathrm { C H _ { 3 } C O O H }$ -extractable concentration was highest for $\\mathrm { N i }$ ,and the $\\mathrm { C a C l } _ { 2 }$ -extractable concentration was lowest for all heavy metals. Similar results have been reported by Menzies et al. (2007) and Soriano-Disla et al. (2O1O). These findings might be atributable to the nature of each extractant. DTPA, EDTA and $\\mathrm { C H _ { 3 } C O O H }$ have high extractable capacities,and their extractions represent the long-term available pools of metals. However, $\\mathrm { C a C l } _ { 2 }$ mainly extracts water-soluble and exchangeable metals in soils,and its extraction tends to represent the short-term available pools of metals.Thus,there are few metals in amended sierozem soils that could be directly absorbed by the potato plant. However, this does not mean that plant absorption of heavy metals is low and that $\\mathrm { C a C l } _ { 2 }$ extraction can best be used to evaluate the phytoavailability of heavy metals.There are other factors that influence the plant absorption of heavy metals，such as soil properties, mineralization of OM,and plant species. These factors require further evaluation of the relationship between metal concentrations of the potato plant and extractable concentrations of heavy metals,in order to decide which extractable fraction is the highest in phytoavailability and to elucidate the influencing factors. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The solubility and mobility of Cd were highest and those of Ni were lowest among the five heavy metals. Sanchez-Martin et al. (2OO7) reported that Cd is more easily transferred than other heavy metals in soils following sludge application. This trend may be attributed to the nature of heavy metals. Several studies have confirmed that Cd is the most mobile heavy metal than other heavy metals in soils,and it is largely bound to readily leached exchangeable and acid-soluble fractions (e.g., Harrison et al.,1981; Chlopecka et al.,1996). Studies on arid soils (properties are similar to the loessal soil) in Gansu Province showed that the labile fraction proportion of Cd is greater than those of Zn,Ni, Pb and $\\mathtt { C u }$ (Li et al., 2006; Wang et al., 201O).Likewise, in this study, Cd also had higher solubility and mobility than other heavy metals. This might affect the absorption of heavy metals by the potato plant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3 Effects of MSC on plant absorption of heavy metals ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this research, MSC promoted the potato uptake of heavy metals, which is similar to the results of Bozkurt et al. (2O1O) and Bhat et al. (2O11).This might be attributed to the increased labile fraction proportion of heavy metals. Water-soluble and exchangeable heavy metals can be directly absorbed by plants. Moreover, in addition to DOC,there was some easily decomposable OM in the MSC.During the growth period of the potato plant, the labile OM in amended sierozem soils was degraded by microorganisms,and therefore heavy metals that were combined with the labile OM can be released into the soil solution. Under the influence of two substances (DOC and labile OM), heavy metals can be directly absorbed by the potato plant following an increase in MSC addition in sierozem soils. Also,acid-soluble heavy metals can be absorbed by the potato plant. Plassard et al. (2Ooo) found that the retention capacity of highly carbonated soil for heavy metals was large but the retention force was weak,and therefore a decrease in soil $\\mathrm { p H }$ would increase the risk of metal release.Root-induced acidification can reduce the rhizosphere $\\mathrm { p H }$ by two to three units compared to bulk soil (Marschner,1995). Therefore,heavy metals that were bound to carbonates can be released into the soil solution. MSC improved the labile fraction proportion of heavy metals,and thus increased the amount of heavy metals absorbed by the root.Meanwhile, the change in root metal concentrations was the primary factor affecting the metal concentrations of the stem, peel and tuber. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have demonstrated that the heavy metal concentration varies among different plant parts (Singh et al.，2OO6； Nedjimi and Daoud， 2O09). Specifically， the heavy metal concentration is higher in nutritive organs (root and stem) and lower in edible parts (peel and tuber). Similar results were obtained in this study. Root is the first plant organ to be exposed to heavy metals.In the root zone,heavy metals are bound to root tissue,where heavy metals are mainly combined with sulfur (Isaure et al.,2Oo6).Leaf and shoot (stem) are the primary tissues of plant transpiration, where water evaporates from the stem but solid mass is retained.Thus, high metal concentration is observed in the stem (Li et al., 2016). Although potato tuber grows in soils like the root, it cannot absorb substances from soils; instead, it receives substances transferred from the stem. Since most heavy metals are retained in the root and stem, few heavy metals were transferred to the tuber and peel. Thus,heavy metal concentrations in the tuber and peel were lower than those in the root and stem. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The order of BCF value was similar to that of the labile fraction proportion for the five heavy metals.The BCF value of Cd was far higher than those of other heavy metals (Turek et al., 2005). In amended sierozem soils, Cd had higher solubility and mobility than other heavy metals. Thus, Cd was more easily absorbed by the potato plant.In addition,the BCF value of Cd was greater than 1.O in this study, indicating that the potato plant has a strong Cd enrichment ability. Cd is not an essential element for the growth of potato plants,but it can accumulate easily in plants due to high solubility in amended sierozem soils. Although the total concentration and labile fraction proportion of Cd in amended sierozem soils were far lower than those of other heavy metals, the enrichment ability of potato plants was highest for Cd. Thus,attention should be focused on Cd when considering sludge application to sierozem soils in this region,i.e., Lanzhou City. The BCF value of Ni was the lowest among all heavy metals,which indicated that the potato plant has a weak Ni enrichment ability (Tack,2O14; Musilova et al.，2O15). Ni uptake by plants varies between species. Dixon et al. (1975） reported that leguminous and cucurbitaceous plants have higher Ni enrichment abilities than other plant species,since their urease synthesis process requires Ni element. In contrast, the potato plant has a low Ni enrichment ability. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4Phytoavailability of heavy metals ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The neutral salt extraction can be used to predict the phytoavailability of heavy metals (Menzies et al.,2OO7).This may be because the neutral salt extraction can be directly absorbed by plants.In this study,the DOC and labile OM were presented in the MSC, leading to increases in labile fraction proportion and potato plant absorption of heavy metals. Thus, the neutral salt extraction did not reflect the plant uptake of heavy metals. In contrast, the complexing agent extraction did reflect the phytoavailability of heavy metals, since it represented the potential available pools of heavy metals. According to the ridge regression equations,the heavy metal concentration of the root increased with increasing soil OM content. Chaudri et al. (2O07) and Zhou et al. (2O1O) have reported that increases in soil OM content can suppress the plant uptake of heavy metals. In this study, soil OM content and potato plant uptake of heavy metals increased as the MSC percentage increased in amended sierozem soils.The regression equations can beter reflect the actual results. It should be noted that the complexing agent (EDTA and DTPA) extraction can be used to predict the phytoavailability of heavy metals,with soil OM,pH and DOC being important impacting factors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The MSC improves the fertility of sierozem soils,increases DOC content,and enhances the solubility of Cd,Ni, Cu, Zn and $\\mathrm { P b }$ in sierozem soils.For the five heavy metals in amended sierozem soils,Cd has the highest solubility and mobility while Ni has the lowest solubility and mobility. The MSC significantly promotes the potato plant uptake of heavy metals.Most heavy metals accumulate in the root and stem, while few metals accumulate in the tuber and peel. The potato plant has a strong enrichment ability for Cd and a weak enrichment ability for Ni. The extractable concentration for complexing agents (DTPA and EDTA) is a suitable indicator for the phytoavailability of Cd, Ni, Cu, Zn and Pb in amended sierozem soils,and soil OM, pH and DOC are important impacting factors. Our results suggest that soils amended with MSC may improve soil fertility but increase the exposure risk of soils to heavy metals.Thus,further research should be conducted to investigate the mechanism of heavy metal release from OM decomposition, and to find methods to delay or inhibit the release of sludge-borne metals or retain the released metals. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (41571051, 51178209). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Amir S,Hafidi M,Merlina $\\mathbf { G }$ et al.2Oo5.Sequential extraction of heavy metals during composting of sewage sludge. Chemosphere,59(6): 801-810.   \nAnginI,YaganogluAV.2Ol2.Efectsofsewage sludge aplicationonyield,yield parametersand heavymetalcontentof barley grown underarid climatic conditions.International Journal of Agriculture & Biology,14(5): 811-815.   \nAntonious G F,Dennis S O,Unrine JM,et al. 2011.Ascorbic acid, $\\beta$ -carotene,sugars,phenols,and heavy metals in sweet potatoes grown in soil fertized with municipal sewage sludge.Journal of Environmental Science and Health，Part B-Pesticides,Food Contaminants,and Agricultural Wastes,46(2): 112-121.   \nArvasOKeskinB,YilmazIH.2O13.Efectofsewage sudgeonmetalcontentofgrasslandsoiladherbage insemiarid lands. Turkish Journal of Agriculture and Forestry, 37(2): 179-187.   \nBhat MA,KirmanNA,Agrawal HP,etal.2O.Heavymetal phytotoxicitytoradish (Raphanus sativusL.)inadigested sludge-amended Gangetic alluvium. Soil and Sediment Contamination,2O(6):733-743.   \nBourioug M,Alaoui-SehmerL,LaffayX,etal.2O15.Sewage sludge fertilizationinlarchseedlings:effectsontracemetal accumulation and growth performance.Ecological Engineering,77: 216-224.   \nBozkurtMA,Yarilgac T,Yazic1 A.2O10.Theuseofsewage sludge asan organic matersourceinapple trees.Polish Joualof Environmental Studies,19(2): 267-274.   \nBramryd T.2O13.Long-term efectsof sewage sludge applicationon the heavy metal concentrations inacid pine (Pinus sylvestrisL.) forests ina climatic gradient insweden.Forest Ecologyand Management,289: 434-444.   \nCasado-VelaJ,SellesSNavaroJ,etal.Oo6.Evaluationofompostedswagesudgeasutritionalsourceforhortiultural soils.Waste Management,26(9): 946-952.   \nChaudri A,McGrath S,Gibbs P,etal.2Oo7.Cadmiumavailabilityto wheat grain insoils treated withsewagesludgeormetal salts. Chemosphere,66(8): 1415-1423.   \nChen ZQ,AiYW,Fang C,etal.2014.Distributionand phytoavailabilityofheavymetalchemical fractions inartificialsoilon rock cut slopes alongside railways.Journal of Hazardous Materials,273:165-173.   \nChlopeckaA,BaconJR,WilsonMJ,etal.1996.Formsofcadmium,lead,andzinc incontaminated soilsfromsouthwest poland. Journal of Environmental Quality, 25(1): 69-79.   \nDavidso C M,Ferreira PC S,Ure A M.1999.Some sourcesof variabilityinapplicationof the three-stage sequential extraction procedurerecommended byBCR to industrially-contaminatedsoil.Fresenius Journal of Analytical Chemistry, 363(5-6): 446-451.   \nDelgadoG,Aranda Vérez-LomasAL,etal.2Ol2.Evolutionofavailable heavymetals insoilsmended withsewage sludge cocompost.Compost Science & Utilization,20(2):105-119.   \nDixon NE,Gazzola TC,BlakeleyR L,etal.1975.Leter: Jack bean urease(EC3.5.1.5).A metallenzyme.A simple biological role for nickel? Journal of the American Chemical Society, 97(14): 4131-4133.   \nFeng MH,Shan XQ,Zhang SZ,etal.2005.Comparisonofa rhizosphere-based method with other one-stepextraction methods for assessing the bioavailability of soil metals to wheat.Chemosphere,59(7): 939-949.   \nGardea-TorresdeyJL,Peralta-Videa JR,Montes M,et al.2004.Bioaccumulationof cadmium,chromium and copperby Convolvulusarvensis L.:impact on plant growth anduptakeof nutritional elements.Bioresource Technology，92(3): 229-235.   \nGheju M,PodeR,Manea F.2011.Comparative heavy metal chemical extraction fromanaerobically digested biosolids. Hydrometallurgy,108(1-2): 115-121.   \nGoncalves ICR,Araujo A SF Nunes LAP,et al.2014. Heavymetals andyieldof cowpea cultivated under compostedtanery sludge amendment. Acta Scientiarum Agronomy, 36(4): 443-448.   \nHansch R,MendelRR.2009.Physiological functionsof mineral micronutrients (Cu,Zn,Mn,Fe,Ni,Mo,B,Cl).Curent Opinion in Plant Biology,12(3): 259-266.   \nHaroun M,Idris A,Omar SR S.2Oo7.A studyof heavy metalsand their fate in thecomposting of tannery sludge.Waste Management,27(11): 1541-1550.   \nHarrisonR M,LaxenDPH,Wilson SJ.1981.Chemicalassociationsof lead,cadmium,copper,andzincinstreetdustsand roadside soils. Environmental Science & Technology,15(11):1378-1383.   \nHazarika J,Ghosh U,KalamdhadAS,etal.2Ol7.Transformationof elemental toxic metals intoimmobilefractionsipaper mill sludge through rotary drum composting.Ecological Engineering,101: 185-192.   \nHoerlAE,KennardRW.97o.Ridgeregresion:biasedestimationfornonrthogonalproblems.Technometrics,(1):5-67.   \nHorvatM,Lupsina V,PihlarB.1991.Determinationof total mercuryincoalflyashbygoldamalgamationcold vapouratomic absorption spectrometry.Analytica Chimica Acta,243:71-79.   \nIllera V, WalterISouzaP,etal.o.Short-tereectsofosolidandmunicipalsoidwasteaplcatiosoneayetals distribution ina degraded soilunder asemi-arid environment.Science of the Total Environment,255(1-3):29-44.   \nIsaure MP,Fayard B,Sarret $\\mathbf { G }$ et al.2Oo6.Localization and chemical forms of cadmium in plant samples by combining analytical electron microscopy and X-ray spectromicroscopy.Spectrochimica Acta Part B:Atomic Spectroscopy61(12): 1242-1252.   \nJalali M,KhanlariZV.o7.Redistributionoffractionsofinc,cadmim,nickel,copper,andleadincontaminatedcalcareous soils treated with EDTA. Archives of Environmental Contamination and Toxicology,53(4): 519-532.   \nJamali MK,KaziTGArainMB,etal.2O9.Heavymetalaccumulationindifferentvarietiesof wheat (TriticumestivumL.) grown in soil amended with domestic sewage sludge.Journal of Hazardous Materials,164(2-3):1386-1391.   \nKaiser K,GuggenbergerG,Zech W.1996.Sorptionof DOMandDOMfractions to forestsoils.Geoderma,74(3-4): 281-303.   \nKalbitz K,Solinger S,ParkJH,etal.20o0.Controlsonthedynamicsof dissolvedorganic materinsoils:areview.Soil Science,165(4): 277-304.   \nKidd PS,Dominguez-Rodriguez MJ,Diez J,etal.2Oo7.Bioavailabilityandplant acumulationof heavy metalsand phosphorus in agricultural soils amended by long-term application of sewage sludge.Chemosphere,66(8):1458-1467.   \nLestari,BudiyantoF,Hindarti D.2O18.Speciationof heavymetals Cu,Niand ZnbymodifiedBCRsequentialextraction procedure in sediments from Banten Bay,Banten Province,Indonesia.IOPConference Series:Earth and Environmental Science,118:012059.   \nLiF,Okazaki M,Zhou Q.2O03.EvaluationofCduptakebyplants estimated from total soil Cd,pH,andorganic matter. Bulletin of Environmental Contamination and Toxicology,71(4): 714-721.   \nLi XH,Zhou QX,Sun XY,etal.20l6.Efectsofcadmiumonuptakeandtranslocationofutrient elements indifferent welsh   \nLi Y, Wang YB,Gou X,etal.2O6.Riskassssmentofheavymetals insoilsandvegetables aroundnon-ferous metals ining and smelting sites,Baiyin,China. Journal of Environmental Science,18(6): 1124-1134.   \nLiu G S.1996.SoilPhysicaland Chemical Analysis &Descriptionof Soil Profiles.Beijing: Chinese Standard Pres,45-47.(in Chinese)   \nLiu HT,WangYW,HuangWD,etal.2O16.Responseof wine grapegrowth,developmentandthe transferofcopper,eadnd cadmium insoil-fruit system to sludge compost amendment.Environmental Science and Polution Research,23(23): 24230-24236.   \nLiu Z,Yang Y,BaiY,et al.2016.Theeffectof municipal sludgecompostonthemobilityand bioavailabilityof Cd na sierozem-wheat system inan aridregion northwest of China.Environmental Science and Polution Research,23(20): 20232-20242.   \nLuo YM,ChristieP.1998.Choiceof extraction technique forsoilreducible trace metals determines the subsequent oxidisable metal fractioninsequential extractionschemes.InternationalJournalofEnvironmental Analytical Chemistry,72(1):59-75.   \nManakovaB,Kuta J,Svobodova M,etal.2014.Effectsofcombinedcomposting and vermicomposting of waste sludgeon arsenic fate and bioavailability. Journal of Hazardous Materials,28O: 544-551.   \nMarschner H.1995.Mineral Nutrition of Higher Plants( $2 ^ { \\mathrm { n d } }$ ed.). London: Academic Press,131-136.   \nMcBride MB.2Oo3.Toxic metals in sewage sludge-amended soils:has promotion of beneficial use discounted the risks? Advances in Environmental Research,8(1):5-19.   \nMcBride MB,Richards B K,Steenhuis T.2O04.Bioavailabilityandcrop uptakeof trace elements insoil columnsamended with sewage sludge products.Plant and Soil, 262(1-2): 71-84.   \nMcLaughlin MJ,HamonRE,MclarenRGetal.2a.Review:abioavailability-basedrationaleforcontrolingmetaland metallidcontamination of agricultural land in Australiaand New Zealand.Australian Journal of Soil Research,38(6): 1037-1086.   \nMcLaughlinMJ,ZarcinasBA,Stevens DP,et al.2Oob.Soil estingforheavymetals.Communications inSoil Scienceand Plant Analysis,31(11-14): 1661-1700.   \nMcLaughlinMJ.2OO2.Bioavailabilityofmetals toterrestrialplants.In:AllenHE.Bioavailabilityof Metals inTrestrial Ecosystems:ImportanceofPartitioningforBioavailabilityto Invertebrates,Microbes and Plants.Pensacola,Fla:Societyof Environmental Toxicology & Chemistry.   \nMenziesN W,Donn MJ,Kopitke PM.2Oo7.Evaluationof extractants forestimationof the phytoavailable trace metals in soils.Environmental Pollution,145(1): 121-130.   \nMilicevic T,RelicD,SkrivanjS,etal.2017.Assessmentof majorandtraceelementbioavailabilityinvineyardsolpplying different single extraction procedures and pseudo-total digestion. Chemosphere,171: 284-293.   \nMinistryof AgricultureofChina.1988.Methodfordeterminationof soilcarbonate (NY/T86-1988).Beijing:China Agriculture Press. (in Chinese)   \nMinistryof Agricultureof China.2006.Soil tstingPart 2: Method for determinationof soilpH(NY/T1121.2-2006).Beijing: China Agriculture Press.(in Chinese)   \nMinistyof Environmental ProtectionofChina.2006.Environmentalquality standardforsoils(GB15618-1995).Beijing:China Environmental Science Press. (in Chinese)   \nMinistryof Housingand Urban-Rural Developmentof China.2O09.Disposal of sludge from municipal wastewater treatment plant-control standard for agricultural use (CJ/T309-20o9). Beijing: Standards Press of China. (in Chinese)   \nMusilova J,Bystricka J,Vollmannova A,et al.2O15.Factors afecting heavymetalsaccumulation inpotato tubers.Ochrona Srodowiska I Zasobow Naturalnych,26(3): 54-59.   \nNagajyoti PC,Lee KD,Sreekanth TVM.2Ol0.Heavy metals,occurrence and toxicity for plants:areview.Environmental Chemistry Letters,8(3):199-216.   \nNedjimi B,Daoud Y.2O09.Cadmium acumulation in Atriplex halimus subsp.schweinfurthiiandits influenceongrowth, proline,root hydraulicconductivityand nutrient uptake.Flora- Morphology,Distribution,FunctionalEcologyof Plants, 204(4): 316-324.   \nNelson DW,SommersLE.1996.Totalcarbon,organiccarbon,ndorganic materIn:Sparks DL.MethodsofSolAnalysis. Part 3-Chemical Methods.Madison: Soil Science Society of America Inc.,65-68.   \nOlsen SR,ColeCV,WatanabeFS,etal.1954.Estimationof Available Phosphorus in Soilsby Extraction with Sodium Bicarbonate.Washington: United States Department of Agriculture,76-81.   \nOuhadiVR,Yong RN,Shariatmadari N,etal.20l0.Impactof carbonateontheeficiencyof heavymetalremoval from kaolinite soil by the electrokinetic soil remediation method.Journal of Hazardous Materials,173(1-3): 87-94.   \nPage AL.1982.Methods of Soil Analysis.Part2.Chemical and Microbiological Properties.Washington: American Societyof Agronomy Inc., Soil Science Society of America Inc., 96-100.   \nPlasardF,WiniarskiT,Petit-RamelM.2Oo.Retetionanddistributionofthreeeavymetalsinacarbonatedsoil:comparison between batch and unsaturated column studies.Journal of Contaminant Hydrology,42(2-4): 99-111.   \nQuevauvilerP.1998.Operationally defined extractionprocedures forsoilandsediment analysis I Standardization. TrAC-Trends in Analytical Chemistry,17(5): 289-298.   \nRengel Z.2Oo4.Heavy metalsasesential nutrients.In:Prasad MNV,HagemeyerJ.Heavy Metal Stress inPlants:From Biomolecules to Ecosystems.Berlin,Heidelberg: Springer, 271-285.   \nSänchez-MartinMJ,Garcia-DelgadoM,LorenzoLF,etal.2Oo7.Heavy metals insewage sludge amendedsoilsdeterminedby sequential extractions as a function of incubation time of soils.Geoderma,142(3-4): 262-273.   \nSanka M,Dolezal M.2Oo6.Predictionof plantcontamination bycadmium and zinc basedon soil extractionmethod and contents in seedlings.International Journal of Environmental Analytical Chemistry,46(13): 87-96.   \nSeo BH,LimGH,KimKH,etal.20l3.Comparisonofsingle extractions forevaluationofheavymetal phytoavailabilityin soil.Korean Journal of Environmental Agriculture,32(3):171-178.(in Korean)   \nSherameti I, Varma A.2011.Detoxification of Heavy Metals.Berlin,Heidelberg: Springer,389-405.   \nSherenceT.2O09.Efect of dissolved organiccarbon (DOC)on heavy metal mobility in soils.NatureEnvironment and Pollution Technology, 8(4): 817-821.   \nSingh R P,Agrawal M.2O07.Effectsof sewage sludge amendment on heavymetalaccumulation and consequent responses of Beta vulgaris plants.Chemosphere,67(11): 2229-2240.   \nSingh S,Eapen S,D'Souza SF.2o6.Cadmium acumulationand its influenceon lipid peroxidationandantioxidative system in an aquatic plant, Bacopa monnieri L.Chemosphere,62(2): 233-246.   \nSoriano-DislaJM,G6mezI,Navaro-PedrenoJ,etal.20l0.Evaluationof singlechemical extractants forthe predictionof heavy metaluptakeby barley in soils amended with polluted sewage sludge.Plant and Soil,327(1-2): 303-314.   \nTack FMG.2014. Trace elements in potato.Potato Research,57(3-4): 311-325.   \nTesier A,CampbellPG C,Bisson M.1979.Sequential extraction procedure for the speciation of particulate trace metals. Analytical Chemistry,51(7): 844-851.   \nThakur SK,Tomar NK,Pandeya S B.2O6.Influenceof phosphate on cadmium sorption bycalcium carbonate.Geoderma, 130(3-4): 240-249.   \nTimmermans HJP.1981. Multiatribute shopping models andridge regression analysis.Environment and Planning A,13(1): 43-56.   \nTurek M,Korolewicz T, CibaJ.2Oo5.Removal ofheavy metals fromsewage sludgeusedassoilfertilizer.Soiland Sediment Contamination,14(2):143-154.   \nUdomBE,MbagwuJSC,AdesodunJK,etal.2O04.Distributionsof zinc,copper,cadmiumandlead inatropicalultisolafter long-term disposal of sewage sludge. Environmentt International, 30(4): 467-470.   \nWang MJ.1997.Land application of sewage sludge in China.Science of the Total Environment,197(1-3): 149-160.   \nWang QR,Kim D,Dionysiou DD,et al.2O04.Sources and remediationfor mercurycontaminationin aquatic systems—a literature review.Environment Pollution,131(2): 323-336.   \nWang SL,Nan ZR,LiuXW,etal.2O9.Accumulationandbioavailabilityofcopperand nickelinwheat plantsgrown in contaminated soils from the oasis,Northwest China. Geoderma,152(3-4): 290-295.   \nWang ZW,Nan ZR,ZhaoZJ,etal.2O10.Cadmium,zincand nickelbioavailabilities tocelery(Apium graveolens）grownin contaminated soils from the arid oasis,Northwest China. In: Proceedings of the $4 ^ { \\mathrm { u } }$ International Conference on Bioinformatics and Biomedical Engineering. Chengdu,China: IEEE,1-5.   \nXie YY,LuGN,YangCF,etal.2O18.Mineralogical characteristicsofsedimentsand havy metal mobilizationalongarver watershed affected by acid mine drainage.PLoS ONE,13(1): eO190010.   \nYilmaz D D,Temizgul A.2O12.Efects of municipal sewage sludge doses on thechlorophyllcontents and heavy metal concentration of sugar beet (Beta vulgaris var. saccharifera). Bioremediation Journal,16(3):131-140.   \nZheng GD,Gao D,Chen TB,et al. 2007.Stabilization of nickel and chromium in sewage sludge during aerobic composting. Journal of Hazardous Materials,142(1-2): 216-221.   \nZhou S Q,Lu WD,Zhao X.2010.Effects of heavy metals onplanting watercressin kailyard soil amended byadding compost of sewage sludge.Process Safety and Environmental Protection,88(4): 263-268.   \nZubillga M S,Bressan E,Lavado R S.2012.Efectsof phytoremediation and applicationof organicamendmenton the mobility of heavy metals ina polluted soil profile.International Journal of Phytoremediation,14(3): 212-220. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

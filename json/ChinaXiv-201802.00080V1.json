@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "氯化钾异相硫化机理的试验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡中发，王学斌\\*，王毅斌，邓双辉，李智锋，谭厚章（西安交通大学 能源与动力工程学院 热流科学与工程教育部重点实验室，陕西 西安，710049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生物质燃烧释放的碱金属氯化物蒸气会在受热面上冷凝，并在烟气中 $\\mathrm { S O } _ { 2 } / \\mathrm { O } _ { 2 } /$ 水蒸汽等共同作用下发生异相硫化反应，从而影响碱金属对受热面的腐蚀。本文利用固定床反应器研究了反应温度、停留时间、氯化物及$\\mathrm { S O } _ { 2 } / \\mathrm { O } _ { 2 } / \\mathrm { H } _ { 2 } \\mathrm { O }$ 等浓度等对固相KCI硫化的影响，实验结果表明：KCI非均相硫化的主要产物是 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ ，在 $\\mathrm { O } _ { 2 }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 较低是KCI异相硫化较慢，KCI异相硫化速率随 $\\mathrm { S O } _ { 2 } / \\mathrm { O } _ { 2 }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度增大而提高，随停留时间的延长呈线性递增，并随反应温度的升高呈指数关系升高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：碱金属；硫化； $\\mathrm { S O } _ { 2 }$ ；KCl；生物质中图分类号： TK16 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mechanism Investigation on the Heterogeneous Sulfation of Potassium Chloride ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Zhong-Fa WANG Yi-Bin WANG Xue-Bin\\* DENGShuang-Hui LI Zhi-Feng TAN Hou-Zhang (Xi'an Jiaotong University, School of Energy and Power Engineering,Xi'an 71Oo49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Alkali metal chloride vapor released from biomass combustion will condense on the heating surface,and react with gases like $\\mathrm { S O } _ { 2 }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O }$ ，and $\\mathrm { O } _ { 2 }$ in the flue gas,which can relieve the corrosion of alkali metal on the heating surface.Aiming at the heterogeneous sulfation of KCl, fixed bed is used to investigate the influence of sulfation temperature, residence time and the concentration of $\\mathrm { \\Delta \\vec { s } O _ { 2 } , O _ { 2 } , H _ { 2 } O }$ （204号 on the sulfation of KCl. Results show that the sulfation rate of KCl increases with the concentration of $\\mathrm { S O } _ { 2 }$ 0 $\\mathrm { O } _ { 2 }$ ,and $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ . And it increases linearly with residence time,and increases exponentially with sulfation temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Alkali metal; sulfation; $\\mathrm { S O } _ { 2 }$ ；KCl;biomass ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着能源危机和温室效应的加剧，生物质作为一种 $\\mathrm { \\mathrm { \\Omega } } ^ { \\mathrm { \\tiny { \\cdot } } } \\mathrm { C O } _ { 2 }$ 零排放\"的可再生能源，越来越受到世界的广泛关注。但生物质燃料中富含碱金属和氯元素，导致生物质燃烧设备受热面结焦和腐蚀等严重问题；同时焚烧生物质还产生大量富含K/S的细颗粒物，导致严重的雾霾天气。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物质燃料高温下释放到烟气中的碱金属氯化物蒸气，会在温度较低的受热面上冷凝。而冷凝后的碱金属组分与烟气中的 $\\mathrm { S O } _ { 2 }$ 、 $\\mathrm { O } _ { 2 }$ 以及水蒸汽等气体发生异相硫化，从而改变碱金属在固相沉积物中的分布，这样实际可以在一定程度上缓解燃烧设备受热面的腐蚀[1]。由于碱金属氯化物对受热面的腐蚀性显著高于硫酸盐，因此近年来有学者提出利用硫化效应尽可能将受热面沉积的氯化物转化为硫酸盐，以减轻生物质燃烧过程中受热面的结焦和腐蚀问题。在某150MW的燃煤炉内生物质混燃的实验结果表明在细颗粒中碱金属硫酸盐为主要组分，而氯化物的含量低于 $0 . 5 \\% ^ { [ 2 ] }$ ；Zheng等关于煤与秸秆混燃的研究也指出飞灰中 $90 \\%$ 以上的碱金属以硫酸盐形式存在。而最新的研究提出在生物质燃烧过程中加入硫酸铵或硫酸亚铁，快速释放的 $\\mathrm { S O } _ { 3 }$ 可将碱金属氯化物转化为硫酸盐沉积物，从而减轻受热面的结焦和腐蚀，并取得了良好的效果[4-8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前对于高温气相中碱金属蒸气的硫化动力学机理已经有了较为深入的研究，而对有关碱金属蒸气冷凝后发生的异相硫化反应动力学机理的研究还较少。因此，本文主要针对生物质燃烧过程中KC1的异相硫化动力学过程，在 $1 5 0 { - } 7 5 0 ^ { \\circ } \\mathrm { C }$ 范围内，利用固定床反应器研究了反应温度、停留时间、氯化物及 $\\mathrm { S O } _ { 2 } / \\mathrm { O } _ { 2 } / \\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度等对固相KC1硫化反应速率的影响，以期建立KC1异相硫化的反应动力学模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验系统及分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为KC1异相硫化实验系统，试验用管式炉长度 $6 0 0 \\mathrm { { m m } }$ ，采用硅碳螺旋元件进行加热，最高加热温度 $1 3 0 0 ^ { \\circ } \\mathrm { C }$ ，WRP-130型铂铑铂热电偶测温，温控精度 $\\mathrm { \\pm 1 ^ { \\circ } C }$ 。炉内置石英反应器内径 $2 0 \\mathrm { m m }$ ，反应器中央内置一孔板以放置反应床料，热电偶测温点置于孔板底部1cm左右处，每次实验选用 $\\mathrm { 1 g }$ 分析纯KC1粉末（ $9 9 . 5 \\%$ )，粒径为 ${ 5 0 } \\mathrm { - } 1 0 0 \\mu \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每次实验在炉体升温前，先通入高纯 ${ \\bf N } _ { 2 }$ 吹扫几分钟，保证反应器中为惰性气氛，同时炉体升温过程中只通入高纯 $\\Nu _ { 2 }$ ，待炉温达到试验目标温度后，通入反应所需 $\\mathrm { S O } _ { 2 }$ 、 $\\mathrm { O } _ { 2 }$ ，同时高纯 ${ \\bf N } _ { 2 }$ 进入水浴加热器，使高纯 ${ \\bf N } _ { 2 }$ 携带一定量的水蒸汽进入反应器，反应结束后取出样品进行SEM、EDS和XRD等分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/669ff3e58e2b88dd448ab235ccd77843fa73e695bd57c29c42c7cc9062e1c0ce.jpg",
+        "img_caption": [
+            "图1异相反应试验系统",
+            "Fig.1 Schematic of the fixed bed "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用德国 $\\operatorname { E V O } ( { \\mathbb { R } } )$ 可扩展扫描电镜平台/扫描电镜SEM分析反应后试样以及各元素的百分含量，可以得到试样中S的固定量。试样相分析采用日本理学 $\\mathrm { D / m a x } 2 4 0 0$ 型X射线衍射仪(XRD)，射线源采用 $\\mathrm { C u - K a }$ 射线，管电压 $4 0 \\mathrm { { k V } }$ ，管电流 $1 0 0 \\mathrm { { m A } }$ 扫描速度 $1 0 \\mathrm { { D e g / m i n } }$ ，扫描范围为 $1 0 { \\sim } 8 0 ^ { \\circ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1SEM微观形貌结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同工况下试样微观形貌如表1所示。由表1可见：随着反应时间的增长，反应产物表面开始呈现更加疏松多孔的鳞片状结构；随着反应温度升高到 $7 5 0 ^ { \\circ } \\mathrm { C }$ 时，由于KC1开始发生熔融，鳞片状结构逐渐消失，高温下呈现烧结和结块的形貌；随着$\\mathrm { H } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { O } _ { 2 }$ 和 $\\mathrm { S O } _ { 2 }$ 浓度的提高，KC1硫化的反应活性显著增强，反应产物的疏松状均越发显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table1Microstructure of productsat different conditions ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/29387b85aeac7c498a15662f03ee0e4af85b7e75fd3618ea5911345fe0a8b169.jpg",
+        "img_caption": [
+            "表1不同工况下试样的微观形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2XRD结构分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2为不同工况下产物的XRD分析图，由图可知：KC1异相硫化产物为 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 而不是钾的其它含硫盐。说明KC1异相硫化通过反应（1）进行的：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf436f66459013caf28519aefc44e88bf8ca64f783395cfe91d04857284f854.jpg",
+        "img_caption": [
+            "图2不同工况下反应产物的XRD衍射（1-KCl； $2 { \\mathrm { - } } \\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ ）Fig.2 XRD Patterns of products (1-KCl; $2 { \\cdot } \\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3分析与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反应后的样品进行 EDS 分析得到样品中的各元素（K、Cl、S、O等）含量分布，同时由于XRD相分析知道S的存在形式主要是以 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 的形式存在，因此在处理实验结果时，将S的含量转化为$\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 的含量，则转化率 $X$ 可以通过式（2）定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\frac { M \\mathrm { ( S ) } } { M \\mathrm { ( K , S O _ { 4 } ) } } \\cdot X \\mathrm { ( S ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（2）中 $X$ 为S 折算成 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 后的硫化率,$X ( \\mathrm { S } )$ 为 SEM分析中S含量； $M ( \\mathrm { S } )$ 为K的相对分子质量； ${ \\cal M } ( \\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 } )$ 为的相对分子质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2各因素对KC1硫化反应率的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1反应时间与温度的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3（a）为反应时间对KC1异相硫化率影响，由图可知：KC1硫化率随反应时间呈线性增加。反应时间的增加，使KC1与 $\\mathrm { S O } _ { 2 }$ 等气体接触时间增加，因而使更多的KCI会与 $\\mathrm { S O } _ { 2 }$ 、 $\\mathrm { O } _ { 2 }$ 等气体接触并发生反应，促进KC1硫化，提高KC1异相硫化率。图3（b）为反应温度对KC1异相硫化率影响，由图可知：KC1异相硫化率随反应温度呈指数增加。在温度较低时（ $\\mathrm { \\angle } 5 5 0 ^ { \\circ } \\mathrm { C } \\ \\$ )，KC1异相硫化率较低，同时随反应温度的升高其变化缓慢；而在温度较高时1 $\\left( > 6 0 0 ^ { \\circ } \\mathrm { C } \\right)$ )，KC1异相硫化率迅速增加。相关研究表明KC1异相硫化率较慢，而在均相下硫化率较高，可高达 $100 \\%$ 。因此，在温度较高时，KC1已经开始气化，而气化后的KC1与 $\\mathrm { S O } _ { 2 }$ 、 $\\mathrm { O } _ { 2 }$ 反应迅速，使KC1硫化速率加快，提高了KC1硫化率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6d6047bcff8392d8a8fcedeb294ea136ec2d2f8d4fe0193c759af994cf32c45.jpg",
+        "img_caption": [
+            "图4反应时间和温度对KC1异相硫化率的影响Fig.4 Effect of reaction time and temperature on KClconversion(Time $2 \\mathrm { h }$ $50 _ { 2 } 1 \\%$ $0 _ { 2 } 5 \\%$ $H _ { 2 } O 7 \\%$ $\\Nu _ { 2 }$ balance)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 3 . 2 . 2 \\ O } _ { 2 }$ 浓度与 $\\mathrm { S O } _ { 2 }$ 浓度的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4（a）为 $\\mathrm { O } _ { 2 }$ 浓度对KC1异相硫化率影响，由图可知：KC1异相硫化率随 $\\mathrm { O } _ { 2 }$ 浓度增加而增加，但当 $\\mathrm { O } _ { 2 }$ 浓度大于 $10 \\%$ 后，KC1异相硫化率趋于稳定，即在 $\\mathrm { O } _ { 2 }$ 浓度较高时（ $51 0 \\%$ )，浓度的变化对KC1硫化率的影响不显著；同时当 $\\mathrm { O } _ { 2 }$ 较低甚至不存在时，KCl的异相硫化率很低。图4（b）为 $\\mathrm { S O } _ { 2 }$ 浓度对KC1异相硫化率的影响，由图可知：KC1异相硫化率随 $\\mathrm { S O } _ { 2 }$ 浓度的增加而增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ba46c7637c511e83754dd0c826b477bd7e3d486cf8db5b3ce74fe6c03829504.jpg",
+        "img_caption": [
+            "图 $4 \\mathrm { O } _ { 2 }$ 和 $\\mathrm { S O } _ { 2 }$ 浓度对KCI异相硫化率的影响Fig.4Effect of $\\mathrm { O } _ { 2 }$ and $\\mathrm { S O } _ { 2 }$ concentration on KCl conversion(Temperature $8 2 3 \\mathrm { ~ K ~ }$ ,Time $2 \\mathrm { h }$ $0 _ { 2 } 5 \\%$ $H _ { 2 } O 7 \\%$ $\\Nu _ { 2 }$ balance)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 含量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c753841357738807a08a87cbc3479119b3de0d990b5e21ff4f733d74a5c5bf7f.jpg",
+        "img_caption": [
+            "图 ${ 5 \\mathrm { H } _ { 2 } \\mathrm { O } }$ 浓度对KCI异相硫化率的影响Fig.5Effect of $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ concentration on KCl conversion(Temperature $8 2 3 \\mathrm { ~ K ~ }$ ,Time $2 \\mathrm { h }$ $50 _ { 2 } 1 \\%$ $0 _ { 2 } 5 \\%$ $\\Nu _ { 2 }$ balance)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5为KC1异相硫化率随 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度的变化关系，由图可知：KC1异相硫化率随 $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度的增加而增加，但当 $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度大于 $1 5 \\%$ 后，KC1异相硫化率趋于稳定，即在 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度较高时（ $5 1 5 \\%$ ， $\\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度的变化对KCI硫化率没有显著影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）KC1异相硫化反应的主要产物是 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 而非钾的其它含硫盐，当 $\\mathrm { O } _ { 2 }$ 和 $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度较低时，KC1异相硫化较慢，即此时KC1异相硫化率较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）KC1异相硫化率随反应时间呈线性递增，而KC1的非均相硫化反应速率则随温度升高呈指数关系增加，且随 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 、 $\\mathrm { O } _ { 2 }$ 和 $\\mathrm { S O } _ { 2 }$ 等各气体浓度的增大而升高。当 $\\mathrm { O } _ { 2 }$ 浓度达到 $10 \\%$ 后， $\\mathrm { O } _ { 2 }$ 浓度的变化对KC1非均相硫化影响不显著，而当 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 浓度达到$1 5 \\%$ 后，它的变化对KC1异相硫化影响也不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Brostrom M, Enestam S,Backman R,et al, Condensation in the KCl-NaCl system [J].Fuel Processing Technology, 2013:105 142-148.   \n[2].Hansen PF B,Andersen K H, Hansen K.W, Overgaard P, et.al, Co-firing straw and coal in a 15O-MW utilitye boiler: in situ measurements [J]. Fuel Processing Technology, 1998,54 (1-3): 207-225.   \n[3] Zheng Yuanjing,Jensen P A,Jensen A D,et al,Ash transformation during co-firing coal and straw [J].Fuel, 2007,86(7/8): 1008-1020.   \n[4] Brostrom M, Kassman H,Helgesson A,et al, Sulfation of corrosive alkali chlorides by ammonium sulfate in a biomass fired CFB boiler [J]. Fuel Processing Technology, 2007,88 (11/12): 1171-1177.   \n[5] Kassman H,Pettersson J, Steenari B M, et al,Two strategies to reduce gaseous KCl and chlorine in deposits during biomass combustion—injection of ammonium sulphate and co-combustion with peat [J]. Fuel Processing Technology,2013,105:170-180.   \n[6] Pettersson J,Folkeson N, Johansson L G, et al, The Effects of KCl, $\\mathrm { K _ { 2 } S O _ { 4 } a n d }$ ${ \\mathrm { K } } _ { 2 } { \\mathrm { C O } } _ { 3 }$ on the High Temperature Corrosion of a 304-Type AusteniticStainless Steel [J]. Oxidation of Metals,2011, 76(1/2): 93-109.   \n[7] Sheth A C,Wang S H,Holt $\\textsc { j k }$ ，Potassium-Chlorine Interactions in a Coal-Fired Magnetohydrodynamics System [J].Environmental Science & Technology,1993, 27: 1532-1541. ",
+        "page_idx": 3
+    }
+]

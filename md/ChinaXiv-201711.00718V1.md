@@ -1,0 +1,223 @@
+# 不同纤维来源饲粮和细胞壁降解酶对猪肠道微生物多样性的影响
+
+张永婧 刘强\* 张文明 张志静 王伟兰 庄苏（南京农业大学动物科技学院，南京210095）
+
+摘要：本试验旨在利用末端限制性片段长度多态性技术研究不同纤维来源饲粮和细胞壁降解酶对猪肠道微生物菌群多样性及其组成结构的影响。试验选用8头平均体重为（ $3 5 { \pm } 2 . 5 \$ ）kg的“杜 $\times$ 长×大”三元杂交生长猪，统一安装回肠末端T型瘘管，随机分为4组，每组2个重复。试验分4期，每期每组猪按 $4 { \times } 4$ 拉丁方设计饲喂小麦麸、小麦麸加酶、大豆皮和大豆皮加酶4种试验饲粮之一。每期预试期 $1 5 { \mathrm { d } }$ ，正式期6d。试验结果表明：1）大豆皮饲粮组猪回肠食糜微生物的多样性显著高于小麦麸饲粮组（ $. P { < } 0 . 0 5$ )。2）小麦麸饲粮组显著提高猪回肠食糜中普氏菌属（Prevotella）和乳酸杆菌属（Lactobacillus）的丰度（ $. P { < } 0 . 0 5 ^ { \cdot }$ ，而大豆皮饲粮组则显著提高猪回肠食糜中瘤胃球菌属（Ruminococcus）及粪便中拟杆菌属（Bacteroides）、毛螺菌属（Lachnospira）的丰度（ $. P { < } 0 . 0 5$ )。3）添加细胞壁降解酶显著提高各饲粮组猪回肠食糜中Lachnospira、真细菌属（Eubacterium）及粪便中Lachnospira 的丰度（ $_ { . P < 0 . 0 5 } )$ ，但也同时降低了回肠食糜中Lactobacillus、Prevotella及粪便中Lactobacillus、Bacteroides和克雷伯氏菌属（Klebsiella）的丰度（ $_ { _ { P < 0 . 0 5 } }$ )。综上所述，纤维饲粮可显著提高猪肠道内非淀粉多糖降解菌的丰度，而细胞壁降解酶则可选择性改变菌群的多样性及其组成。
+
+关键词：生长猪；饲粮纤维；细胞壁降解酶；肠道微生物；末端限制性片段长度多态性中图分类号：S816.35
+
+猪肠道内寄居着种群庞杂的微生物[1]，肠道微生物除了发酵在小肠内未消化吸收的碳水化合物和蛋白质等养分，产生短链脂肪酸为猪提供能量之外，还通过维生素和酶合成、胆汁酸盐重吸收、促进消化道发育及其免疫系统成熟等多种方式影响猪的营养与健康[2-3]。研究表明，饲粮对猪肠道微生物菌群结构有明显影响，其中饲粮纤维的数量和类型备受关注[4]。谷物及其副产物中细胞壁非淀粉多糖（non-starch polysaccharides,NSP）是猪饲粮的主要纤维来源，其含量、组成和化学结构因植物种类、组织和生长阶段而异[5-6]。现有同类研究多基于多种纤维来源的混合饲粮[2.4.7]，而饲喂单一纤维来源饲粮的研究较少，不利于对饲粮 NSP化学特性与猪消化道微生物菌群结构间构效关系的认识。
+
+饲粮纤维通常不能被猪的内源消化酶降解，而且还会影响其他养分的消化利用，被视为一类抗营养因子[8]。养猪和饲料生产实践中，消除饲粮纤维副作用最常见的对策是添加 NSP降解酶等外源酶制剂[9-10]。Bedford 等[1]研究表明，外源 NSP 降解酶可促进不溶性 NSP 降解，生成可发酵寡糖，进而影响肠道微生物组成。然而，产生的寡糖结构又随饲粮 NSP 组成和外加 NSP 降解酶种类而异。同时，肠道微生物对寡糖的利用能力也存在着明显的种属差异性[12-14]。因此，本试验旨在利用末端限制性片段长度多态性（terminal restriction fragmentlength polymorphism,T-RFLP）技术研究纤维来源（小麦麸或大豆皮）以及添加外源细胞壁降解酶对猪肠道微生物菌群多样性的影响，为深入了解饲粮纤维组成与猪肠道微生物菌群结构间的构效关系，以及细胞壁降解酶在谷物副产物饲用开发中的应用潜力提供参考。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验选用8头平均体重为（ $3 5 { \pm } 2 . 5$ ） $\mathbf { k g }$ 的“杜 $\times$ 长 $\times$ 大"三元杂交生长猪，统一安装回肠末端T型瘘管（回盲瓣前 $1 5 { \sim } 2 0 ~ \mathrm { c m } ,$ )，随机分为4组，每组2个重复。试验分4期，每期每组试验猪按 $4 { \times } 4$ 拉丁方设计安排饲喂1种试验饲粮，每个试验期21d，其中前15d为预试期，饲喂全价配合饲粮（购自江苏海普瑞饲料有限公司)，预试期第1天试验饲粮替换部分全价配合饲粮，5d内全部替换为试验饲粮，其余 $1 0 \mathrm { d }$ 用于猪适应试验饲粮并维持肠道菌群的稳定。第 $1 6 { \sim } 1 8$ 天肛门采集粪便样品，第 $1 9 { \sim } 2 1$ 天11:00 和14:00 采集回肠食糜样品。样品用无菌袋收集，封装在经高温灭菌的 $5 \mathrm { m L }$ 塑料离心管内，-80℃冻存。T-RFLP分析前，将样品室温消融，分别等量混合每个试验期3d采集的饲喂同一种饲粮的2头猪的回肠食糜和粪便样品，作为分析试样。
+
+# 1.2 饲粮组成及营养水平
+
+试验饲粮参照我国《瘦肉型猪饲养标准》（2004 年版）配制，分别以小麦麸和大豆皮[均购自东海粮油（张家港）有限公司]作为单一纤维源，辅以玉米淀粉、鱼粉、血粉和指示剂三氧化二铬（ $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ）等配成2种营养均衡，能量、蛋白质、纤维水平相近的半纯合基础饲粮，分别为小麦麸饲粮（wheat bran diet，WB）和大豆皮饲粮（soybean hull diet，SH)，其组成及营养水平见表1。在2种基础饲粮中分别添加相同剂量的混合酶制剂（纤维素酶1000U/kg、木聚糖酶 $5 0 0 0 \mathrm { U / k g }$ 和植酸酶 $1 5 0 0 \mathrm { U / k g } \rangle$ ，共形成4种试验饲粮。
+
+表1基础饲粮组成及营养水平(风干基础)   
+Table 1Composition and nutrient levels of basal diets (air-dry basis）g/kg   
+
+<html><body><table><tr><td>小麦麸饲粮 项目Items</td></tr><tr><td>Wheat bran diet</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>小麦麸 Wheat bran 547.9 大豆皮 Soybean hull</td></tr><tr><td>330.0 玉米淀粉 Corn starch 210.0 383.0</td></tr><tr><td>鱼粉 Fish meal 70.5 100.0</td></tr><tr><td>血粉 Blood meal 40.0 80.0</td></tr><tr><td>大豆油 Soybean oil 68.0 35.0</td></tr><tr><td>沸石粉 Zeolite powder 3.0 6.0</td></tr><tr><td>石粉 Limestone 10.0 4.4</td></tr><tr><td>蔗糖 Sucrose</td></tr><tr><td>35.0 50.0</td></tr><tr><td>食盐 NaCl 3.0 3.0</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCI 4.1 0.1</td></tr><tr><td>DL-蛋氨酸DL-Met 2.0 2.0</td></tr><tr><td>三氧化二铬Cr2O3 3.0 3.0</td></tr><tr><td>维生素预混料 Vitamin 0.5 0.5</td></tr><tr><td>premix1)</td></tr><tr><td>微量元素预混料 Mineral 3.0 3.0 premix2)</td></tr></table></body></html>
+
+<html><body><table><tr><td>合计 Total</td><td>1 000.0</td><td>1 000.0</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr><tr><td>总能 GE/(MJ/kg)</td><td>18.1</td><td>17.8</td></tr><tr><td>干物质 DM</td><td>900.5</td><td>893.6</td></tr><tr><td>有机物OM</td><td>929.3</td><td>933.3</td></tr><tr><td>粗蛋白质 CP</td><td>198.2</td><td>197.1</td></tr><tr><td>淀粉 Starch</td><td>300.4</td><td>364.6</td></tr><tr><td>粗灰分 Ash</td><td>70.7</td><td>66.7</td></tr><tr><td>中性洗涤纤维 NDF</td><td>234.5</td><td>247.5</td></tr><tr><td>酸性洗涤纤维ADF</td><td>69.3</td><td>159.0</td></tr><tr><td>总非淀粉多糖 Total NSP</td><td>178.9</td><td>228.3</td></tr><tr><td>阿拉伯糖 Arabinose</td><td>43.8</td><td>16.4</td></tr><tr><td>木糖 Xylose</td><td>67.3</td><td>27.4</td></tr><tr><td>葡萄糖 Glucose</td><td>50.7</td><td>115.9</td></tr><tr><td>糖醛酸Uronic acid</td><td>7.0</td><td>34.2</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.6</td><td>15.1</td></tr></table></body></html>
+
+1)维生素预混料为每千克饲粮提供 The vitamin premix provided the following per kg of diets :VA 10 000 IU, $\mathrm { V D } _ { 3 } 4 0 0 0 \mathrm { I U }$ ，VE $3 2 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 5 \mathrm { m g }$ $\mathrm { V B } _ { 1 2 } 0 . 0 5 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $4 5 \mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $2 0 \mathrm { m g }$ ，叶酸 folic acid（204号 $2 \ : \mathrm { m g }$ ，生物素biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $3 6 0 ~ \mathrm { m g }$ 。
+
+2)微量元素预混料为每千克饲粮提供 The mineral premix provided the following per kg of diets: Fe $1 5 0 \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， $\mathrm { Z n 1 0 0 m g }$ ，Mn 50 mg， $\mathrm { ~ I ~ } 0 . 3 ~ \mathrm { m g }$ ， Se 0.3 mg。
+
+3)消化能为计算值，其余为实测值。DE was a calculated value and the others were measured values.
+
+# 1.3 检测指标
+
+# 1.3.1 DNA提取
+
+参考Bindelle等[15]的方法提取肠道微生物总DNA。
+
+# 1.3.2 PCR扩增
+
+试验选用16SrRNA全序列引物：8F： $5 ^ { \circ }$ -AGAGTTTGATCCTGGCTCAG-3'和1492R:$5 ^ { \circ }$ -GGTTACCTTGTTACGACTT-3’。PCR（ABI VeritiTM 96-wellThermal Cycler，美国 ABI 公司）反应体系共 $2 5 ~ \mu \mathrm { L }$ ，含2种引物各 $0 . 5 { \mu \mathrm { L } }$ ，DNA 模板 $1 . 0 \mu \mathrm { L }$ ，Taq DNA 聚合酶 $1 2 . 5 \mu \mathrm { L }$ 无菌水 $1 0 . 5 \mu \mathrm { L }$ 。反应程序为： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ ， $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 变性 $2 0 ~ \mathrm { s }$ ， $5 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸 $5 0 ~ \mathrm { s }$ ，共35个循环，最后 $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸 $7 \mathrm { m i n }$ 。取 ${ 5 . 0 \mu \mathrm { L } }$ 扩增产物进行 $1 \%$ 琼脂糖凝胶电泳（南京科室仪器研究所 EPS604）检测，预期扩增产物大小约 $1 5 0 0 \mathrm { b p }$ 。
+
+# 1.3.3 限制性内切酶酶切
+
+利用 AxyPrep PCR产物纯化试剂盒（美国Axygen 公司）对PCR产物进行纯化，而后各取 ${ 5 \mu \mathrm { L } }$ 纯化产物，采用限制性内切酶HhaI（日本Takara 公司1056A）进行酶切。酶切体系为 $2 0 \mu \mathrm { L }$ ：PCR纯化产物 ${ 5 \mu \mathrm { L } }$ ， $1 0 \mathrm { m o l / L }$ Buffer $2 \mu \mathrm { L }$ ，内切酶 $1 \mu \mathrm { L }$ ，灭菌水 $1 2 \mu \mathrm { L }$ 。 $3 7 \mathrm { ~ \textdegree ~ }$ 酶切 $2 \mathrm { h }$ ，65℃灭活 $3 0 \mathrm { m i n }$
+
+# 1.3.4 酶切产物毛细管电泳
+
+纯化后的酶切产物在DNA 测序仪（美国ABI公司ABI3730XLDNAAnalyzer）上进行毛细管电泳（样品送上海生工生物工程技术服务有限公司检测)。
+
+# 1.4 数据处理与分析
+
+电泳条带利用GeneMarkerV2.2.0软件进行定性和定量分析，获得样品各个末端限制性片段（terminal restriction fragment,T-RF）的长度、峰高及峰面积等参数。剔除长度小于 50 bp和大于 $6 0 0 \mathrm { b p }$ 的片段，并根据片段峰高计算微生物菌群的多样性指数。利用 MICA:T-RFLPAnalysis[16软件在线分析片段所对应的微生物种属。采用 SPSS18.0中GLM模型法对多样性指数和各片段相对含量进行2因素完全因子ANOVA分析，比较不同纤维饲粮组间微生物组成的差异。 $P { < } 0 . 0 5$ 时表示差异显著， ${ P / } { < } 0 . 1 0$ 时表示有差异趋势。
+
+微生物菌群多样性指数计算公式及其定义如下：
+
+物种丰度（表示微生物菌群中物种的个数） $\ c =$ 限制性片段的个数；
+
+香侬威纳指数（表示微生物菌群组成的复杂程度，该指数越大，表明菌群的组成结构越复杂） ${ \bf \omega } = - \sum P _ { i } \mathrm { l n } P _ { i } $
+
+辛普森指数（表示菌群中优势菌属所占比重及菌群的均衡度，该指数越大，表明优势菌属所占的比例越大，菌群均衡度则越低） ${ \tt = } 1 { - } \sum P _ { i } \wedge 2$ 。
+
+式中： $P _ { i }$ 表示第i个峰的峰高占总峰高的比例。
+
+# 2结果与分析
+
+# 2.1 微生物菌群多样性
+
+经软件分析，本试验平均每头猪回肠末端食糜和粪便样品中获得长度在 $5 0 \sim 6 0 0$ bp 的酶切片段为21和35个，其中相对含量在 $1 \%$ 以上的片段分别为13和17个。各饲粮组猪回肠末端食糜和粪便中微生物菌群的多样性指数见表 2。SH 组猪回肠末端的微生物丰度显著高于WB组（ $. P { < } 0 . 0 5 )$ ，但纤维来源对猪粪便微生物的物种丰度及香侬威纳指数均无显著影响 $( P { > } 0 . 0 5 )$ )。添加酶制剂有提高SH组猪回肠食糜微生物菌群香侬威纳指数的趋势( ${ \scriptstyle P < 0 . 1 0 } )$ 。各饲粮组猪回肠食糜微生物菌群的辛普森指数受纤维来源与酶制剂之间交互作用的影响0 $( P { < } 0 . 0 5 )$ 。
+
+Table 2The microbial diversity indexes of ileal digesta and feces of pigs of different diets   
+
+<html><body><table><tr><td></td><td colspan="2">小麦麸饲粮 WB</td><td colspan="2">大豆皮饲粮 SH</td><td></td><td colspan="3">P值P-value</td></tr><tr><td>项目</td><td></td><td></td><td></td><td></td><td>标准误</td><td colspan="3"></td></tr><tr><td>Items</td><td>不加酶</td><td>加酶</td><td>不加酶</td><td>加酶</td><td></td><td>饲粮</td><td>酶</td><td>饲粮×酶</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>SEM</td><td></td><td></td><td></td></tr><tr><td></td><td>-E</td><td>+E</td><td>-E</td><td>+E</td><td></td><td>Diet</td><td>Enzyme</td><td>Dietxenzyme</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表2各饲粮组猪回肠末端食糜和粪便样品中微生物菌群的多样性指数  
+
+<html><body><table><tr><td></td><td>-E</td><td>+E</td><td>-E</td><td>+E</td><td></td><td>Diet</td><td>Enzyme</td><td>Dietxenzym</td></tr><tr><td>回肠食糜Ileal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>digesta</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丰 度</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>10.75</td><td>21.75</td><td>24.00</td><td>24.75</td><td>1.65</td><td>0.03</td><td>0.10</td><td>0.15</td></tr><tr><td>Abundances</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>香侬威纳指数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Shannon-Weiner</td><td>1.71</td><td>1.87</td><td>1.04</td><td>1.86</td><td>0.13</td><td>0.21</td><td>0.08</td><td>0.22</td></tr><tr><td>index</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>辛普森指数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.47</td><td>0.75</td><td>0.76</td><td>0.72</td><td>0.04</td><td>0.09</td><td>0.12</td><td>0.04</td></tr><tr><td>Simpson index</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粪便Feces</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丰 度</td><td>34.25</td><td>29.00</td><td>44.25</td><td>32.75</td><td>3.75</td><td>0.38</td><td>0.29</td><td>0.69</td></tr></table></body></html>
+
+# Abundances
+
+<html><body><table><tr><td>Shannon-Weiner</td><td>2.77</td><td>2.36</td><td>2.79</td><td>2.52</td><td>0.15</td><td>0.77</td><td>0.26</td><td>0.80</td></tr><tr><td>index</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>辛普森指数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.89</td><td>0.78</td><td>0.90</td><td>0.82</td><td>0.03</td><td>0.74</td><td>0.20</td><td>0.83</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Simpson index</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.2 猪回肠末端食糜微生物T-RFs的丰度
+
+试验获得相对含量大于 $1 \%$ 的回肠末端食糜微生物T-RFs共13个，其所代表菌属及相对含量见表3。WB 组显著提高猪回肠末端食糜微生物菌群中乳酸杆菌属（Lactobacillus）和普氏菌属（Prevotella）的丰度（ $P { < } 0 . 0 5 \ \cdot$ )，而SH 组则显著提高猪回肠中瘤胃球菌属（Ruminococcus）的丰度（ $P { < } 0 . 0 5 \ \cdot$ )。添加酶制剂显著提高各饲粮组猪回肠中变形菌门（Proteobacteria）的未知菌、毛螺菌属（Lachnospira）和真细菌属（Eubacterium）的丰度（ $. P { < } 0 . 0 5 )$ ，但显著降低WB组猪回肠中Lactobacillus和Prevotella的丰度（ $. P { < } 0 . 0 5 \rangle$ 。各饲粮组猪回肠食糜微生物菌群中Lactobacillus 和Prevotella 的丰度受纤维来源与酶制剂之间交互作用的影响（ $_ { . } { P } { < } 0 . 0 5 )$ 。
+
+表3各饲粮组猪回肠末端食糜微生物的丰度  
+Table 3The abundances of bacteria in ileal digesta of pigs fed different   
+
+<html><body><table><tr><td colspan="4">diets</td><td colspan="5">%</td></tr><tr><td rowspan="3">项目 Items</td><td rowspan="3">T-RFs</td><td colspan="2">小麦麸饲粮 WB</td><td colspan="2">大豆皮饲粮 SH</td><td colspan="4">P值P-value</td></tr><tr><td>不加酶</td><td>加酶</td><td>不加酶</td><td>加酶</td><td>标准误</td><td>饲粮</td><td>酶</td><td>饲粮×酶</td></tr><tr><td>-E</td><td>+E</td><td>-E</td><td>+E</td><td>SEM</td><td>Diet</td><td>Enzyme</td><td>Dietxenz yme</td></tr><tr><td>梭菌属</td><td>66</td><td>32.81</td><td>27.56</td><td>34.73</td><td>36.13</td><td>0.05</td><td>0.39</td><td>0.84</td><td>0.49</td></tr><tr><td>Clostridium (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>巨单胞菌属</td><td>586</td><td>16.48</td><td>20.08</td><td>19.91</td><td>19.33</td><td>0.05</td><td>0.07</td><td>0.27</td><td>0.06</td></tr><tr><td>Megamonas (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>克雷伯氏菌属</td><td>371</td><td>22.45</td><td>20.45</td><td>14.30</td><td>16.41</td><td>0.04</td><td>0.03</td><td>0.10</td><td>0.57</td></tr></table></body></html>
+
+Klebsiella (P)
+
+<html><body><table><tr><td>乳酸杆菌属</td><td>266/403/594</td><td>20.88</td><td>12.01</td><td>14.98</td><td>10.61</td><td>0.01</td><td><0.01</td><td><0.01</td><td>0.01</td></tr><tr><td>Lactobacillus (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>变形菌门的未知菌</td><td>573</td><td>2.01</td><td>5.32</td><td>ND</td><td>3.19</td><td>0.01</td><td>0.06</td><td>0.01</td><td>0.95</td></tr><tr><td>Undefined</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Proteobacteria (P)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肠球菌属</td><td>216</td><td>1.95</td><td>2.01</td><td>2.68</td><td>2.32</td><td>0.00</td><td>0.31</td><td>0.77</td><td>0.67</td></tr><tr><td>Enterococcus (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>普氏菌属</td><td>57</td><td>3.22</td><td>1.66</td><td>1.53</td><td>1.70</td><td>0.00</td><td>0.02</td><td>0.05</td><td>0.02</td></tr><tr><td>Prevotella (B)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>瘤胃球菌属</td><td>64</td><td>ND</td><td>ND</td><td>2.04</td><td>3.49</td><td>0.00</td><td><0.01</td><td>0.11</td><td>0.11</td></tr><tr><td>Ruminococcus (F)</td><td></td><td>ND</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>毛螺菌属</td><td>208</td><td></td><td>3.42</td><td>ND</td><td>3.36</td><td>0.00</td><td>0.91</td><td><0.01</td><td>0.91</td></tr><tr><td>Lachnospira (F)</td><td></td><td>ND</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>真细菌属</td><td>369/567</td><td></td><td>1.29</td><td>ND</td><td>1.30</td><td>0.00</td><td>0.88</td><td><0.01</td><td>0.88</td></tr><tr><td>Eubacterium (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td></td><td>99.80</td><td>93.80</td><td>90.17</td><td>97.84</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+T-RFs：末端限制性片段；ND：未检测出；F：厚壁菌门；P：变形菌门；B：拟杆菌门。下表同。
+
+T-RFs: terminal restriction fragments; ND: not detected; F: Firmicutes; P: Proteobacteria; B: Bacteroidetes. The same as below.
+
+2.3猪粪便微生物T-RFs的丰度试验获得相对含量大于 $1 \%$ 的粪便微生物T-RFs共17个，其所代表菌属及相对含量见表
+
+4。WB组显著提高猪粪便微生物菌群中巨单胞菌属（Megamonas）和光岗菌属（Mitsuokella）的丰度（ $. P { < } 0 . 0 5 \$ )，Lactobacillus 和克雷伯氏菌属（Klebsiella）的丰度相比于SH组有升高趋势（ $P { < } 0 . 1 0 \rangle$ 。SH 组则显著提高猪粪便中拟杆菌属（Bacteroides）和Lachnospira 的丰度（ $P { < } 0 . 0 5 \$ )。添加酶制剂显著提高各饲粮组猪粪便中Proteobacteria 内未知菌和Lachnospira的丰度（ $P { < } 0 . 0 5 \$ ，同时显著降低Lactobacillus和Klebsiella的丰度（ $_ { \cdot } P { < } 0 . 0 5 { \mathrm { : } }$ ，以及SH组猪粪便中Bacteroides的丰度（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 { \ : } .$ )。各饲粮组猪粪便微生物菌群中Eubacterium的丰度受纤维来源与酶制剂之间交互作用的影响（ $P { < } 0 . 0 5 \rangle$ 0。
+
+表4各饲粮组猪粪便微生物的丰度  
+Table 4The abundances of bacteria in feces of pigs fed different   
+
+<html><body><table><tr><td colspan="8">diets</td></tr><tr><td rowspan="3">项目 Items</td><td rowspan="3">T-RFs</td><td colspan="2">小麦麸饲粮 WB</td><td rowspan="2">大豆皮饲粮 SH</td><td rowspan="2"></td><td rowspan="3">标准误</td><td colspan="3">P值 P-value</td></tr><tr><td>加酶</td><td>不加酶</td><td>SEM</td><td></td><td>饲粮×酶</td></tr><tr><td>-E</td><td>+E</td><td>-E</td><td>+E</td><td>Diet</td><td>Enzyme</td><td>Dietxenzyme</td></tr><tr><td>梭菌属Clostridium</td><td>66/190/231</td><td>44.13</td><td>31.86</td><td>31.91</td><td>43.45</td><td>0.06</td><td>0.98</td><td>0.98</td><td>0.32</td></tr><tr><td>(F) 乳酸杆菌属</td><td>63/68/187/</td><td>15.57</td><td>11.96</td><td>13.79</td><td>9.39</td><td>0.02</td><td>0.06</td><td>0.03</td><td>0.12</td></tr><tr><td>Lactobacillus (F)</td><td>596/598</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>拟杆菌属</td><td>96/99</td><td>13.23</td><td>14.39</td><td>19.28</td><td>14.61</td><td>0.01</td><td>0.04</td><td>0.04</td><td>0.76</td></tr><tr><td>Bacteroides (B)</td><td>383</td><td>5.02</td><td>4.14</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>产丁酸菌 Butyrate producing bacterium</td><td></td><td></td><td></td><td>4.93</td><td>5.24</td><td>0.00</td><td>0.58</td><td>0.75</td><td>0.51</td></tr><tr><td>(F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>克雷伯氏菌属</td><td>371</td><td>2.92</td><td>2.56</td><td>2.74</td><td>1.50</td><td>0.00</td><td>0.06</td><td>0.04</td><td>0.45</td></tr><tr><td>Klebsiella (P) 变形菌门的未知菌</td><td>569</td><td>1.80</td><td>8.05</td><td></td><td></td><td></td><td></td><td><0.01</td><td>0.31</td></tr><tr><td>Undified</td><td></td><td></td><td></td><td>3.00</td><td>6.10</td><td>0.01</td><td>0.31</td><td></td><td></td></tr><tr><td>Proteobacteria (P)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>毛螺菌属</td><td>208</td><td>1.10</td><td>3.91</td><td>3.00</td><td>6.76</td><td>0.01</td><td>0.04</td><td><0.01</td><td>0.07</td></tr><tr><td>Lachnospira (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>巨单胞菌属</td><td>586</td><td>2.30</td><td>6.25</td><td>ND</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>ND</td><td>0.01</td><td>0.02</td><td>0.25</td><td>0.25</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>光岗菌属</td><td>387</td><td>1.78</td><td>2.36</td><td>ND</td><td>ND</td><td>0.00</td><td><0.01</td><td>0.48</td><td>0.48</td></tr><tr><td>Mitsuokella (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>真细菌属</td><td>567</td><td>2.86</td><td>2.00</td><td>2.01</td><td>2.70</td><td>0.00</td><td>0.25</td><td>0.25</td><td><0.01</td></tr><tr><td>Eubacterium (F)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合计 Total</td><td></td><td>90.71</td><td>87.48</td><td>80.66</td><td>89.75</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同纤维来源饲粮和细胞壁降解酶对猪肠道微生物菌群多样性的影响
+
+总体而言，本试验猪粪便样品微生物的物种丰度明显高于回肠末端食糜样品，物种丰度越高表明该菌群的多样性越高，其组成结构越复杂，相应地该菌群中优势菌属的比重则越低。饲粮纤维来源和酶制剂对猪回肠食糜微生物多样性有不同程度的影响，但对粪便微生物的多样性相关指数均无显著影响。该结果表明猪小肠微生物区系更易受饲粮因素的影响，而大肠微生物区系因其组成结构复杂且均衡度高则相对稳定。一般来讲，消化道微生物的生长发育与饲粮中可利用底物的种类和数量有一定关系[17]。本试验2种纤维饲粮的中性洗涤纤维含量虽然接近，但WB的NSP 主要由阿拉伯糖、木糖和葡萄糖（阿拉伯木聚糖和纤维素）组成，而 SH除此之外还含有较高的糖醛酸（果胶类物质)，总NSP 含量也高于WB。此外，大豆皮中可溶性 NSP 的含量也显著高于小麦麸[2.6]。虽然 Liu 等[4]表明高果胶饲粮和高阿拉伯木聚糖饲粮并未对猪肠道微生物多样性产生显著影响，但Ivarsson[1却发现小麦麸饲粮会刺激猪回肠微生物菌群中Lactobacillus 的生长，且推测该菌能产生抗菌化合物，抑制其他菌种繁衍，从而导致猪肠道微生物多样性的下降。本试验WB 组猪回肠末端食糜微生物菌群的丰度显著低于 SH 组，也可能与WB 可利用底物的多样性及阿拉伯木聚糖选择性刺激Lactobacillus的生长有关。
+
+# 3.2不同纤维来源饲粮和细胞壁降解酶对猪肠道微生物菌群组成结构的影响
+
+Lamendella 等[18]指出，猪肠道内的微生物多与碳水化合物代谢有关，其中主要为革兰氏阳性菌厚壁菌门（Firmicutes）和革兰氏阴性菌拟杆菌门（Bacteroidetes）。本试验鉴定为梭菌属（Clostridium）、Lactobacillus、肠球菌属（Enterococcus）、Eubacterium、Megamonas、Mitsuokella、Lachnospira 和Ruminococcus 等菌属的T-RFs 均属于Firmicutes，总平均丰度分别占回肠食糜和粪便微生物总量的 $7 2 \%$ 和 $6 5 \%$ ，该结果与Lamendella 等[18]和Niu 等[19]在猪肠道内的研究结果相似。研究表明，大多数Firmicutes 细菌能分泌胞外多糖降解酶，部分菌属（如Ruminococcus 和Clostridium）具有结构复杂的多功能纤维小体，既能降解不溶性的木葡聚糖和木聚糖等半纤维素，也能有效降解纤维素，释放可溶性寡糖，但个别菌种[如热纤梭菌（R.thermocellum）]并不能利用其戊聚糖降解产物[20-21]。而 Bacteroidetes 细菌（如Prevotella）的糖降解代谢系统复杂且全面，易受底物调控，适应能力极强，主要参与降解寡糖、淀粉、果胶、木葡聚糖和木聚糖等多种可溶性多糖，但对纤维素降解能力较差[22]。本试验所得猪肠道细菌绝大多数来自Firmicutes，而 Bacteroidetes 细菌丰度相对较低1 $1 . 5 3 \% \sim 1 9 . 2 8 \%$ )，可能与WB 和SH中NSP均以不溶性多糖为主（分别占总NSP 的 $84 \%$ 和 $7 7 \%$ ）有关。然而从小肠到大肠，Bacteroidetes 细菌的丰度明显升高，这可能是由于在细菌和外源多糖酶制剂的作用下，饲粮 NSP 的溶解量增加或生成可溶性寡糖[23]，为Bacteroidetes 细菌提供适宜的可利用底物。本试验所有组猪回肠末端食糜中检测出的Proteobacteria 细菌丰度都明显高于同类研究。例如，在前人的研究中Klebsiella与肠道木聚糖的降解有关，但相对丰度较低[24]。Proteobacteria 细菌多数与蛋白质发酵有关[25]，该菌门丰度升高的原因可能与本试验为平衡各纤维饲粮的蛋白质与能量比，添加了较高含量的鱼粉和血浆蛋白粉等动物蛋白质原料有关。随着绝大多数饲粮蛋白质在小肠中被消化[26]，该门细菌的丰度从回肠食糜到粪便显著下降，这也间接证明了上述推测。同理，随着饲粮淀粉在回肠之前几乎被完全消化[26]，各试验组猪粪便中Lactobacillus 和 Enterococcus（肠道内主要淀粉降解菌[2,27]）的丰度也较回肠食糜明显下降，粪便中甚至均未检测出 Enterococcus。可见，可利用养分对肠道菌群组成可能起着决定性作用。
+
+肠道微生物对 NSP 的降解程度既取决于其自身的理化特性（如单糖组成、聚合度和溶解性等）[28]，也与肠道微生物菌属间的互作有关[Il。研究表明，Clostridium 菌属是人类肠道中主要的纤维降解菌，与 Eubacterium 和Prevotella等菌属互作可有效降解纤维素及半纤维素[29-31]。本试验各饲粮组猪肠道中均以 Clostridium 相对丰度最高，且不受纤维来源和外源酶制剂的影响。Lactobacillus 和Bacteroides 的丰度次之，但前者在WB 组猪回肠食糜和粪便中的丰度均显著高于 SH组，而后者仅在粪便中出现，且 SH组中的丰度高于WB 组。Sanchez等[32]研究表明，某些Lactobacillus 菌种能分泌阿拉伯木聚糖水解酶，在木寡糖或阿拉伯木聚糖培养基内生长。Ivarsson[也报道，麦麸可促进猪肠道内Lactobacillus 的生长，与本试验的结果基本吻合。同为Bacteroidetes 的Prevotella 和Bacteroides，前者仅出现在回肠食糜中，而后者仅出现在粪便中，可能与 Bacteroides 主要利用可溶性多糖和寡糖有关[28]。同为乳酸利用菌的Megamonas 和Mitsuokella，前者在回肠食糜中的丰度相当高，而在粪便中显著下降；而Mitsuokella仅在粪便中出现，同时伴随着一种未知丁酸生成菌（产丁酸菌）的出现，可能是肠道微生物之间在底物降解和产物利用方面存在互作关系的体现。据Weber 等[33]报道，Lachnospira 为人类肠道的主要果胶降解菌。该属细菌在本试验 SH组猪粪便中的丰度显著高于WB组，与 SH的果胶含量高于WB。未添加外源酶制剂时，表3中各饲粮组猪回肠食糜中均未检测出Lachnospira，而添加酶制剂后其丰度均显著升高，说明添加细胞壁降解酶促进原料中果胶的溶解或降解。但是无论WB或 SH，其中的果胶成分主要在猪后肠发酵[34-35]，因此粪便中该菌属的丰度显著高于回肠食糜。类似地，由于外源细胞壁降解酶加快淀粉在猪回肠之前的消化[11,减少了淀粉降解菌Lactobacillus 的可利用底物，使其丰度下降，表现出 Bedford 等[1]所谓的外源酶制剂对小肠内淀粉降解菌生长的抑制现象。
+
+尽管 T-RFLP 技术具有快速、低成本和高通量的优点，但仅依据限制性酶切片段长度而非其碱基序列信息不足以准确区分微生物的种类。根据其原理可知，该方法所得结果可能受内切酶的种类和作用时间、毛细管电泳图谱质量以及数据库范围等因素的影响，导致菌属间的归属出现误差。例如，片段 T-RF 370 在 Jensen 等[36的研究中被归属于肠杆菌属（Enterobacter)，而与之仅有1个碱基长度差的T-RF371在本试验中则被归属于Klebsiella。为了验证 T-RFLP 结果的可靠性，本次试验进一步对样品进行了llumina MiSeq 高通量测序。初步统计结果表明，虽然高通量测序技术可鉴定出更多的微生物种类，且能鉴定到属水平，但二者所得微生物菌群的多样性和与纤维相关的优势菌属基本一致。本文基于T-RFLP 技术所得结果，在反映肠道微生物菌群多样性方面也具有一定的参考价值。
+
+# 4结论
+
+$\textcircled{1}$ T-RFLP检测结果表明，纤维来源显著影响猪回肠末端食糜微生物菌群的多样性，但对粪便微生物的多样性无显著影响。  
+$\textcircled{2}$ 小麦麸饲粮可显著提高猪肠道微生物菌群中半纤维素降解菌Lactobacillus、Prevotella、Megamonas 和Mitsuokella等的丰度，而大豆皮饲粮则显著提高猪肠道中果胶降解菌Lachnospira、纤维素降解菌Ruminococcus和Bacteroides等的丰度。
+
+$\textcircled{3}$ 添加酶制剂选择性地影响猪肠道微生物菌群中Lachnospira、Eubacterium、Lactobacillus、Prevotella和Bacteroides等的丰度。
+
+# 参考文献：
+
+[1] IVARSSON E.Chicory (Cichorium intybus L.） as fibre source in pig diets-effects on digestibility,gut microbiota and performance[DJ.Ph.D.Thesis.Uppsala:Swedish University of Agricultural Sciences,2012.
+
+[2] IVARSSON E,ROOS S,LIU H Y,et al.Fermentable non-starch polysaccharides increases the abundance of Bacteroides-Prevotella-Porphyromonas in ileal microbial community of growing pigs[J].Animal,2014,8(11):1777-1787.
+
+[3] CUMMINGS JH.Short chain fatty acids in the human colon[J].Gut,1981,22(9):763-779.
+
+[4] LIU H Y,IVARSSON E,LUNDH T,et al.Chicory (Cichorium intybus L.) and cereals differently affect gut development in broiler chickens and young pigs[J].Journal of Animal Science and Biotechnology,2013,4:50.
+
+[5] KNUDSEN K E B.Carbohydrate and lignin contents of plant materials used in animal feeding[J].Animal Feed Science and Technology,1997,67(4):319-338.
+
+[6] LATTIMER JM,HAUB M D.Effects of dietary fiber and its components on metabolic health[J].Nutrients,2010,2(12):1266-1289
+
+[7] MONTAGNE L,PLUSKE JR,HAMPSON D J.A review of interactions between dietary fibre and the intestinal mucosa,and their consequences on digestive health in young non-ruminant animals[J].Animal Feed Science and Technology,2003,108(1/2/3/4):95-117.
+
+[8] WILFART A,MONTAGNE L,SIMMINS P H,et al.Sites of nutrient digestion in growing pigs:effect of dietary fiber[J].Journal of Animal Science,20O7,85(4):976-983.
+
+[9] JIA W,SLOMINSKI B A,BRUCE HL,et al.Effects of diet type and enzyme addition on growth performance and gut health of broiler chickens during subclinical Clostridium perfringens challenge[J].Poultry Science,2009,88(1):132-140.
+
+[10] LERKE HN,ARENT S,DALSGAARD S,etal.Effectofxylanases on ileal viscosity,intestinal fiber modification,and apparent ileal fiber and nutrient digestibility of rye and wheat in growing pigs[J].Journal of Animal Science,2015,93(9):4323-4335.
+
+[11] BEDFORD M R,COWIESON A J.Exogenous enzymes and their effects on intestinal microbiology[J].Animal Feed Science and Technology,2012,173(1/2):76-85.
+
+[12] FLINT HJ,SCOTT K P,DUNCAN S H,et al.Microbial degradation of complex carbohydrates in the gut[J].Gut Microbes,2012,3(4):289-306.
+
+[13] HAMAKER B R,TUNCIL Y E.A perspective on the complexity of dietary fiber structures and their potential effect on the gut microbiota[J].Journalof Molecular Biology,2014,426(23):3838-3850.
+
+[14] VAN DER MEULEN J,INBORR J,BARKER JG M.Efects of cell wall degrading enzymes on carbohydrate fractions and metabolites in stomach and ileum of pigs fed wheat bran based diets[J].Archiv fuir Tierernaehrung,2001,54(2):101-115.
+
+[15] BINDELLE J,PIEPER R,MONTOYA C A,et al.Nonstarch polysaccharide-degrading enzymes alter the microbial community and the fermentation patterns of barley cultivars and wheat products in an in vitro model of the porcine gastrointestinal tract[J].FEMS Microbiology Ecology,2011,76(3):553-563.
+
+[16] SHYU C,SOULE T,BENT S J,et al.MiCA:a web-based tool for the analysis of microbial communities based on terminal-restriction fragment length polymorphisms of 16S and 18S rRNA genes[J].Microbial Ecology,2007,53(4):562-570.
+
+[17] ROCA-CANUDAS M,ANGUITA M,NOFRARIAS M,et al.Effects of different types of dietary non-digestible carbohydrates on the physico-chemical properties and microbiota of proximal colon digesta of growing pigs[J].Livestock Science,2007,109(1/2/3):85-88.
+
+[18]LAMENDELLA R,SANTO DOMINGO J W,GHOSH S,et al.Comparative fecal metagenomics unveils unique functional capacity of the swine gut[J].BMC Microbiology,2011,11:103.
+
+[19] NIU Q,LI P H,HAO S S,et al.Dynamic distribution of the gut microbiota and the relationship with apparent crude fiber digestibility and growth stages in pigs[J].Scientific Reports,2O15,5:9938.
+
+[20] WHITE B A,LAMED R,BAYER E A,et al.Biomass utilization by gut microbiomes[J].Annual Review of Microbiology,2014,68(1):279-296.
+
+[21] RAVACHOL J,DE PHILIP P,BORNE R,et al.Mechanisms involved in xyloglucan catabolism bythecellulosome-producingbacterium Ruminiclostridiumcellulolyticum[J].Scientific Reports,2016,6:22770.
+
+[22] LARSBRINK J,ROGERS T E,HEMSWORTH G R,et al.A discrete genetic locus confers xyloglucan metabolism in select human gut Bacteroidetes[J].Nature,2014,506(7489):498-502.
+
+[23] ZENED A,COMBES S,CAUQUIL L,et al.Microbial ecology of the rumen evaluated by 454 GS FLX pyrosequencing is affected by starch and oil supplementation of diets[J].FEMS Microbiology Ecology,2013,83(2):504-514.
+
+[24] DODD D,MACKIE R I,CANN I K O.Xylan degradation,a metabolic property shared by rumen and human colonic Bacteroidetes[J].Molecular Microbiology,2011,79(2):292-304.
+
+[25] COWIESON A J,BEDFORD MR.The effect of phytase and carbohydrase on ileal amino acid digestibility in monogastric diets:complimentary mode of action?[J].World's Poultry Science Journal,2009,65(4):609-624.
+
+[26] 高月琴,王伟兰,张亚伟,等.不同来源纤维在生长猪消化道内的食糜理化特性和养分消化率[J].南京农业大学学报,2015,38(3):471-477.
+
+[27] REGMI P R,METZLER-ZEBELIB U,GANZLE M G,et al.Starch with high amylose content and low in vitro digestibility increases intestinal nutrient flow and microbial fermentation and selectively promotes Bifidobacteria in pigs[J].The Journal of Nutrition,2011,141(7):1273-1280.
+
+[28] FLINT H J,BAYER E A,RINCON M T,et al.Polysaccharide utilization by gut bacteria:potential for new insights from genomicanalysis[J].Nature Reviews Microbiol0gy,2008,6(2):121-131.
+
+[29] WEDEKIND K J,MANSFIELD H R,MONTGOMERY L.Enumeration and isolation of cellulolytic and hemicellulolytic bacteria from human feces[J].Applied and Environmental Microbiology,1988,54(6):1530-1535.
+
+[30] YODA K,TOYODA A,MUKOYAMA Y,et al.Cloning,sequencing,and expression of a
+
+Eubacterium cellulosolvens 5gene encoding an endoglucanase (Cel5A） with novel carbohydrate-binding modules,and propertiesof Cel5A[J].Applied and Environmental Microbiology,2005,71(10):5787-5793.
+
+[31] NIELSEN T S,LERKE HN,THEIL P K,et al.Diets high in resistant starch and arabinoxylan modulate digestion processes and SCFA pool size in the large intestine and faecal microbial composition in pigs[J].British Journal of Nutrition,2014,112(11):1837-1849.
+
+[32] SANCHEZ J I,MARZORATI M,GROOTAERT C,et al.Arabinoxylan-oligosaccharides (AXOS） afect the protein/carbohydrate fermentation balance and microbial population dynamicsofthesimulatorofhumanintestinalmicrobialecosystem[J].Microbial Biotechnology,2009,2(1):101-113.
+
+[33] WEBER F H,CANALE-PAROLA E.Pectinolytic enzymes of oral spirochetes from humans[J].Applied and Environmental Microbiology,1984,48(1):61-67.
+
+[34] IVARSSON E,ANDERSSON R,LINDBERG J E.Digestibility of fibre sources and molecular weight distribution of fibre fractions in ileal digesta of growing pigs[J].Archives of Animal Nutrition,2012,66(6):445-457.
+
+[35] JHA R,LETERME P.Feed ingredients differing in fermentable fibre and indigestible protein content affect fermentation metabolitesand faecal nitrogen excretion in growing pigs[J].Animal,2012,6(4):603-611.
+
+[36] JENSEN A N,MEJER H,MOLBAK L,et al.The effect of a diet with fructan-rich chicory roots on intestinal helminths and microbiota with special focus on Bifidobacteria and Campylobacter in piglets around weaning[J].Animal,2011,5(6):851-860.
+
+Gastrointestinal Microbial Diversity in Pigs Fed Different Fibrous Diets With or Without Cell Wall-Degrading Enzyme Supplementation
+
+ZHANG YongjingLIU QiangZHANG WenmingZHANG ZhijingWANG Weilan ZHUANG Su
+
+(College of Animal Science and Technology,Nanjing Agricultural University,Nanjing 210095,
+
+# China)
+
+Abstract: The microbial diversity and composition in pigs fed different fibrous diets with or without cell wall-degrading enzyme supplementation were compared using terminal restriction fragment length polymorphism analysis technique.Eight growing castrated pigs fitted with a T-shaped cannula at the terminal ileum were randomly assigned to four diets,i.e.，wheat bran-based diet (WB)， enzyme-supplemented WB， soybean hull-based diet (SH)，and enzyme-supplemented SH, according to a $4 { \times } 4$ Latin square design. The experiment lasted for 6 days after 15 days of adaptation in each period. The results showed as follows: 1) the microbial diversity of ileal digesta of pigs fed SH was significantly higher than that of pigs fed WB $( P { < } 0 . 0 5 )$ ！ 2) The WB diet increased the abundances of Prevotella and Lactobacillus in ileal digesta $( P { < } 0 . 0 5 )$ ， whereas the SH diet increased the abundances of Ruminococcus in ileal digesta and Bacteroides and Lachnospira in feces ( $( P { < } 0 . 0 5 )$ . 3) Adding cell wall-degrading enzyme significantly increased the abundances of Lachnospira and Eubacterium in ileal digesta and Lachnospira in feces （204号 $( P { < } 0 . 0 5 )$ ，whereas decreased the abundances of Lactobacillus, Prevotella in ileal digesta and Lactobacillus， Bacteroides and Klebsiella in feces $( P { < } 0 . 0 5 )$ ． In conclusion，dietary fiber significantly increase the abundances of fiber-degrading bacteria, and cell wall-degrading enzyme supplementation selectively alters the microbial diversity and composition.
+
+Key words: growing pigs; dietary fiber; cell wall-degrading enzyme; gastrointestinal microbiota; terminal restriction fragment length polymorphism

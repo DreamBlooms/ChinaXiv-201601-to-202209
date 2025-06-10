@@ -1,0 +1,145 @@
+# 不同密度单粒精播对花生养分吸收及分配的影响
+
+晓艳1,2,3郭峰2,3 张佳蕾2李　林」 孟静静2.3 李新国2.3 万书波3,4\*\*
+
+(1．湖南农业大学农学院长沙410128;2.山东省农业科学院生物技术研究中心 济南 250100;3．山东省作物遗传改良与生态生理重点实验室济南250100;4.山东省农业科学院济南250100)
+
+摘要在大田条件下，以花生大粒品种‘花育 22'为试验材料，研究高(S1:27 万穴 $\cdot \mathrm { h m } ^ { - 2 }$ )、中(S2:22.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ ）低(S3:18万穴 $\cdot \mathrm { h m } ^ { - 2 }$ 03种密度单粒精播与传统双粒穴播(CK:13.5万穴 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ )之间花生氮、磷、钾的累积吸收、分配特性及产量的差异，探讨适宜的单粒精播密度及其高产的养分生理基础。结果表明，与CK相比,S1和 S2均不同程度提高花生单株及群体氮、磷、钾的累积吸收量；但S1的单株提高幅度小于 S2，且在饱果期单株吸收能力迅速下降，群体养分累积吸收量与CK相比无显著变化;S2在整个生育期内都具有较高的单株及群体养分累积吸收量，生育后期效果尤为显著;S3虽然具有较高的单株氮、磷、钾累积吸收量，但群体累积吸收量较低。从养分分配特性看,S2和 S3的荚果氮、磷、钾分配系数均显著高于CK,S1与CK之间差异不显著。从荚果产量看，S2产量最高，增产 $8 . 1 \%$ ，其次为 S1，增产 $2 . 5 \%$ ，S3产量略有降低。从产量构成因素分析，S2产量显著提高的原因是合理的种植方式及密度改善了花生农艺性状，提高了单株生产力及经济系数。S1由于群体密度较大，单株生产力提高不明显，经济系数较低，所以产量无显著提高。S3虽然单株生产力较高，但群体数量不足，没有达到增产效果。高产田条件下，大粒花生单粒精播密度为22.5 万穴 $\cdot \mathrm { h m } ^ { - 2 }$ 较为适宜，有利于协调个体与群体的关系，提高花生养分吸收及营养物质向荚果的分配转移，增加产量。
+
+关键词花生单粒精播养分吸收与分配产量农艺性状中图分类号：S314;S565.2 文献标识码：A 文章编号:1671-3990(2016)07-0893-09
+
+# Effects of single-seed sowing at different densities on nutrient uptake and distribution in peanut
+
+LIANG Xiaoyan1,2 n1,2.3, GUO Feng² g23,ZHANG Jialei23,LILin1 MENGJingjing²3,LI Xinguo23, WAN Shubo34\*\*
+
+(1.Collge ofgronom,HunanAgriculturalUniversityChangsha40l8,Chna;2.CenterofBiotechologyResearch,adong AcademyofAgriculturalSciences,Jinan 250l0o,China;3.Shandong ProvincialKeyLaboratoryofCropGenetic Improvement, EcologyandPhysiology,Jinan2501oo,China; 4.Shandong AcademyofAgricultural Sciences,Jinan 2501o0,China)
+
+AbstractPeanut isan important economic oil crop in China.Traditional double-seed sowing patern hasbeen the main sowing mode in China because double-seed sowing can avoid low germination rate due to poor quality of peanut seed. However,this sowing mode results incompetition betweenplants inthe same hole which intensifies with time and eventuall limits plantdevelopment.Ontheotherhand,single-seed sowingisaseed-savingandhigh-yieldcultivationpattern,which adjusts population structure and improve single plant productivityby altering sowing patternand density,canproduce high yield.In order to study the process of high yield in single-seed sowing,‘Huayu $2 2 ^ { \circ }$ large-seed cultivar of peanut was used to study the difference in absorption regularity and distribution characteristics of $\mathrm { \Delta N }$ ， ${ \bf P } _ { 2 } { \bf O } _ { 5 }$ and $\mathrm { K } _ { 2 } \mathrm { O }$ under high(S1:270 000 holes $\cdot \mathrm { h m } ^ { - 2 }$ )，medium (S2:225 000 holest $\mathrm { h m } ^ { - 2 }$ ）and low (S3:180 000 holes $\cdot \mathrm { h m } ^ { - 2 }$ ） density conditions,respectively with single-seed sowing and traditional double-seed sowing $( \mathrm { C K } \colon 1 3 5 ~ 0 0 0 ~ \mathrm { h o l e s } { \cdot } \mathrm { h m } ^ { - 2 } )$ of groundnut in a field experiment. The results showed that both S1 and S2 increased N, ${ \bf P } _ { 2 } \mathrm { O } _ { 5 }$ and $\mathrm { K } _ { 2 } \mathrm { O }$ accumulation in both individual plant and population,but the increase in single plantofS1 wassmaller than thatofS2 treatment.Compared withcontrolatpod-filing stage,the nutrients absorptionrate in individual plant(S1)decreasedremarkably,andno significantdiference in population acumulation was observedinS1.However,nutrient accumulation in both individual plantandpopulationof S2remained higher level throughout the growing period compared with control,especially,at later growth stage.As for S3,the N, ${ \bf P } _ { 2 } 0 _ { 5 }$ and $\mathrm { K } _ { 2 } \mathrm { O }$ accumulation inindividual plant were higher,whiletheywere lower in populationthan thoseofthecorresponding control. Fromthe perspectiveofnutrientdistributioncharacteristics,therewas similarnutrientabsorptiontrendindiferenttreatments. N, ${ \bf P } _ { 2 } { \bf O } _ { 5 }$ and $\mathrm { K } _ { 2 } \mathrm { O }$ distribution coefficients in pod of both S2 and S3 were significantly higher than thoseof the control, however, there was no remarkable difference between Sl and thecontrol.Furthermore,peanut pod yieldofS2 was highest among the three densities of single-seed sowing treatments,and increased by $8 . 1 \%$ compared with that of the control,followed by that of S1 $( 2 . 5 \% )$ ,and thatof S3 slightly decreased compared with that of thecontrol.Based on the analysis of yield and yield components,thereasonofS2 withhighestyieldwas therationalplanting patternanddensitywhichimprovedagronomic traits, increasedsingle plant productivityand economiccoeficientof peanut.AsforS1treatment,lower economic index duetolarge plantdensity induced relativelower yieldof individual plantand population,whichwas no remarkably improvedcompared withthatofcontrol.Although S3had higher single plant productivityand lower plant density,the yield increase was not noticeable.Thus,inhighyieldfields,single-seed sowingatdensityof25Oo0holes per hectare forlarge-seed peanutvariety \`Huayu $2 2 ^ { \circ }$ was recommend for balancing the relationship between single plant and population nutrient uptake,improving nutrient absorption and promoting the distribution of nutrients in peanut pods.
+
+KeywordsPeanut; Single-seed sowing; Nutrition absorption and distribution; Yield; Agronomic trait
+
+花生(Arachis hypogaeaL.)是我国重要的油料作物和经济作物，花生的持续增产对保障我国食用油脂安全具有重要意义[1]。采用先进的栽培技术及管理模式是提高花生产量的重要途径。目前，花生生产上仍然采用传统双粒穴播为主的栽培模式，而同穴双株之间过窄的株距及较大的种植密度容易造成植株间竞争加剧，个体发育受到限制，生育中、后期群体环境恶化，导致叶片过早衰老，影响花生产量的进一步提高[2-3]。另外，传统双粒穴播用种量大,且不利于机械化操作，提高了花生的生产成本。花生单粒精播是一项行之有效的节种、高产和高效的栽培技术。该技术改传统的双粒穴播为单粒精播,减少穴播粒数的同时增加穴数，不仅节约了用种量，而且有利于实现花生的机械化操作。自前，关于单粒精播的研究已有不少报道，王才斌等[4]认为，高产条件下，改每穴双粒种植为单粒种植，可以充分发挥单株生产力，更有利于群体高产。通过大田试验和生产示范证明，与传统双粒播种相比，单粒精播技术在节种 $20 \%$ 的前提下，仍可增产 $10 \%$ 左右，生产成本大幅度下降[5]。冯烨等[6-7]研究表明，单粒精播能够有效协调根冠比，壮个体，强群体，充分发挥花生单株生产潜力，提高花生花后活性氧代谢水平，延缓花生后期的衰老进程，增加荚果的干物质积累。
+
+氮、磷、钾是花生生长所必需的大量元素，它们在植物体内的累积与分配是花生产量形成的基础[8]。合理的种植方式及适宜的密度能促进养分的吸收及向生殖器官的分配转移[9-11]。然而，目前关于花生养分累积吸收及分配方面的报道主要集中在基本规律的探索、品种间的比较以及对施肥的响应等方面[12-15],而关于不同密度单粒精播对花生养分吸收及分配影响的研究仍少见报道。本试验在单粒精播条件下设置高、中、低不同密度，以传统双粒穴播为对照，比较不同密度单粒精播处理与传统双粒穴播之间花生养分累积吸收、分配特性及产量的差异，探讨适宜密度单粒精播高产的养分生理基础，为更好地推广单粒精播技术提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验于2013年和2014年，在山东省农业科学院饮马泉试验基地进行。土壤类型为沙壤土，耕层土壤有机质量 $1 1 . 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、碱解氮 $8 2 . 7 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效磷 $3 6 . 2 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效钾 $9 4 . 5 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 、交换性钙$1 4 . 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。前茬作物为玉米。
+
+# 1.2 试验设计
+
+选用单株生产力较大的大粒型花生品种‘花育22号’覆膜栽培，双行垄种。设置高、中、低3个密度的单粒精播处理，分别为27万穴 $\cdot \mathrm { h m } ^ { - 2 } ( \mathrm { S } 1 )$ 、22.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ (S2)和18 万穴 $\cdot \mathrm { h m } ^ { - 2 } ( \mathrm { S } 3 )$ ，穴距分别为 $9 . 3 ~ \mathrm { c m }$ 、11.1 cm和$1 3 . 9 ~ \mathrm { c m }$ ，每穴1粒；以传统双粒穴播(CK)作对照，密度为13.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ ，穴距 $1 8 . 6 \mathrm { c m }$ ，每穴2粒。试验采用随机区组设计，每小区8垄，垄长 $7 . 5 \mathrm { ~ m ~ }$ ，龙距 $8 0 ~ \mathrm { c m }$ ，垄上行距 $3 0 ~ \mathrm { c m }$ ,3次重复。播种前基施腐熟鸡粪 $1 2 \tan ^ { - 2 }$ P氮 $\mathrm { \hbar } \langle \mathrm { N } ) 9 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，磷 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ) 1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，钾 $( \mathrm { K } _ { 2 } \mathrm { O } ) 1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和缓控释氮肥 $9 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。2013年5月3日播种，9月4日收获，2014年5月1日播种，9月2日收获，其他栽培管理按花生高产栽培要求进行。
+
+# 1.3样品采集与测定方法
+
+分别于花生出苗后 $3 0 \mathrm { ~ d ~ }$ (苗期)、50d(花针期)、70d(结荚期)、100d(饱果期)取样。各处理分别选取生长均匀一致的花生6株，洗净后将花生按照根、茎、叶、果各器官分开，分别置于烘箱内 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 杀青 $3 0 ~ \mathrm { m i n }$ ，80 $\mathrm { { } ^ { \circ } C }$ 烘干至恒重。将各器官干样分别粉碎，凯氏定氮法测全氮含量，钒钼黄比色法测全磷，火焰光度法测全钾[16]。单株氮磷钾累积吸收量根据各器官的干重及氮磷钾百分含量计算得出；群体氮磷钾累积吸收量根据单株氮磷钾吸收量与单位面积株数计算得出。英果氮、磷、钾分配系数 $\mathbf { \partial } : =$ 单株英果氮、磷、钾累积量/单株植株总氮、磷、钾累积量。
+
+成熟收获期每小区选取生长整齐一致的花生植株6株，考察花生主茎高、侧枝长、分枝数、单株英果数等指标。群体英果产量和群体生物量采取小区测产，各小区分别选取两垄内生长均匀一致、长度为 $2 \mathrm { m }$ 的花生进行收获，然后摘果、风干，测定英果产量及总生物产量；经济系数由群体英果产量与群体生物量的比值得出。
+
+# 1.4 数据处理与分析
+
+采用MicrosoftExcel2003处理数据和作图；采用SPSS19.0软件进行统计分析和检验显著性。
+
+# 2 结果与分析
+
+# 2.1不同密度单粒精播对花生氮素累积吸收及分配特性的影响
+
+# 2.1.1 对花生氮素累积吸收的影响
+
+由图1可知，花生生育期内单株及群体氮素累积吸收量均呈逐渐上升趋势，饱果期氮素累积达到高峰。 各生育期内，不同处理之间氮素累积吸收量存在显著差异。从单株氮素累积吸收量来看，苗期和花针期，不同密度单粒精播处理S1、S2和S3均高于CK；结英期和饱果期，S2和S3处理均显著高于CK，饱果期差异最为显著，二者分别比CK高$2 2 . 5 \%$ 和 $3 1 . 0 \%$ ，而S1处理与CK之间无显著差异。从群体氮素累积吸收量看，苗期，S1和S2处理均显著高于CK,S3处理与CK之间无显著差异；花针期，S1和S2处理显著高于CK，分别比CK高 $12 . 8 \%$ 和$1 4 . 0 \%$ ，而S3处理显著低于CK；结英期，S1和S2处理均显著高于CK，而S3处理显著低于CK；进入饱果期，S2处理显著高于CK，S1处理与CK无显著差异,S3处理显著低于 $\mathrm { C K } _ { \circ }$
+
+![](images/5db68c4b7124e43e083b9c6288d6b7a9ae1f0852557a7ec393473b935fc6700a.jpg)  
+图1不同密度单粒精播对花生生育期内单株(A)和群体(B)氮素累积吸收量的影响 g.1Effects ofsingle-seed sowingat diferent densities onNaccumulationofsingle plant (A)and population (B)ofpeanutat different growing stages
+
+S1、S2和S3为单粒精播，播种密度分别为27万穴 $\cdot \mathrm { h m } ^ { - 2 }$ 、22.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ 和18万穴 $\cdot \mathrm { h m } ^ { - 2 }$ ,CK为传统双粒穴播，密度为13.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ 不同小写字母表示同一生育期不同处理间在 $P { < } 0 . 0 5$ 水平差异显著。下同。S1,S2 and S3 are treatments of single-seed sowing at $2 . 7 \times 1 0 ^ { 5 }$ holes $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ $2 . 2 5 \times 1 0 ^ { 5 }$ holes·hm-² and $1 . 8 \times 1 0 ^ { 5 }$ holes:hm-² densities.CK is the traditional double-seed sowing at density of $1 . 3 5 \times 1 0 ^ { 5 }$ holes-hm-2. Differentsmalletters above the bars indicate significant difference among treatments atthe same growing stage $( P < 0 . 0 5 )$ ).The same below.
+
+# 2.1.2 对花生氮素分配特性的影响
+
+由表1可知，不同密度单粒精播处理与传统双粒穴播(CK)在花生生育期内各部位氮素累积分配及英果分配系数存在明显差异。苗期和花针期，花生氮素累积主要分布在叶和茎，叶片含量最高，其次为茎，根中含量最少。同一时期内不同处理之间氮素累积分配也表现不同，其中 S1 和 S2 处理在根、茎、叶不同部位的氮素累积量明显高于CK，而 S3处理与CK 之间无明显差异甚至低于CK；结英期,氮素累积开始转向英果，根、茎、叶中氮素累积量逐渐减少，其中，S2处理英果中氮素累积量最高，其次为S1和CK,S3最低；饱果期，氮素累积大部分转移到英果，英果中氮分配系数达 $0 . 7 3 { \sim } 0 . 7 6$ ，其中，S2和S3处理显著高于S1处理和CK，S2处理中英果氮素累积量最高，比CK高 $10 . 0 \%$ ,S1处理略高于CK，S3处理最低，但与CK差异不显著。这说明中密度的单粒精播处理S2不仅增加了各部位氮素累积吸收量，而且提高了英果中的氮分配系数。
+
+表1不同密度单粒精播对花生不同生育时期氮素累积分配的影响le1Efectsofsingle-seed sowingat different densitiesonNaccumulationand distribution inpeanutat diferent growi  
+
+<html><body><table><tr><td>生育期 Growing stage</td><td>处理 Treatment</td><td>根 Root (kg:hm-2)</td><td>茎 Stem (kg:hm-2)</td><td>叶 Leaf(kg·hm-2)</td><td>果 Pod (kg·hm-2)</td><td>英果氮分配系数 N distribution index of pod</td></tr><tr><td rowspan="3">苗期 Seeding stage</td><td>S1</td><td>3.5±0.12a</td><td>17.4±0.56a</td><td>41.5±1.23a</td><td></td><td></td></tr><tr><td>S2</td><td>3.6±0.09a</td><td>18.5±0.44a</td><td>40.8±1.05a</td><td></td><td></td></tr><tr><td>S3</td><td>3.7±0.11a</td><td>14.3±0.29b</td><td>33.0±1.14c</td><td></td><td></td></tr><tr><td rowspan="5">花针期 Pegging stage</td><td>CK</td><td>3.1±0.07b</td><td>14.4±0.43b</td><td>37.4±0.98b</td><td></td><td></td></tr><tr><td>S1</td><td>6.0±0.14a</td><td>52.5±1.25a</td><td>101.6±2.18a</td><td></td><td></td></tr><tr><td>S2</td><td>6.1±0.09a</td><td>58.1±2.14a</td><td>99.3±1.96a</td><td></td><td></td></tr><tr><td>S3</td><td>5.1±0.12b</td><td>44.8±1.13b</td><td>76.9±2.11c</td><td></td><td></td></tr><tr><td>CK</td><td>5.4±0.10b</td><td>46.8±1.61b</td><td>89.8±1.86b</td><td></td><td></td></tr><tr><td rowspan="5">结英期 Podding</td><td>S1</td><td>5.2±0.13a</td><td>51.0±1.84a</td><td>97.4±2.17a</td><td>116.7±2.56b</td><td>0.43±0.01c</td></tr><tr><td>S2</td><td>5.4±0.17a</td><td>43.0±1.40b</td><td>91.9±2.45a</td><td>123.8±1.94a</td><td>0.47±0.02a</td></tr><tr><td>S3</td><td>4.7±0.08b</td><td>38.0±1.08c</td><td>73.2±2.62b</td><td>101.3±2.13c</td><td>0.47±0.01a</td></tr><tr><td>CK</td><td>4.5±0.12b</td><td>39.4±0.81c</td><td>97.4±1.71a</td><td>116.0±1.78b</td><td>0.45±0.00b</td></tr><tr><td>S1</td><td>4.4±0.09b</td><td>24.9±0.72a</td><td>57.5±1.86a</td><td>232.1±5.36b</td><td>0.73±0.01b</td></tr><tr><td rowspan="3">饱果期 Pod flig</td><td>S2</td><td>4.8±0.18a</td><td>21.9±1.24b</td><td>58.0±1.44a</td><td>249.3±3.89a</td><td>0.75±0.01a</td></tr><tr><td>S3</td><td>4.3±0.11b</td><td>17.8±0.93c</td><td>48.4±2.01b</td><td>219.1±4.12c</td><td>0.76±0.00a</td></tr><tr><td>CK</td><td>3.6±0.17c</td><td>21.3±0.78b</td><td>58.5±1.84a</td><td>226.6±3.15bc</td><td>0.73±0.01b</td></tr></table></body></html>
+
+同列数据后不同小写字母表示处理间差异达 $5 \%$ 显著水平。下同。Different lowercase letters in the same column indicate significant difference among treatments at $5 \%$ level. The same below.
+
+# 2.2不同密度单粒精播对花生磷素累积吸收及分配特性的影响
+
+# 2.2.1 对花生磷素累积吸收的影响
+
+由图2可知，花生生育期内对磷的吸收动态与氮素相似，随着生育期的推进，花生不同处理之间单株和群体的磷素累积吸收量均呈逐渐升高的趋势。从单株磷素累积吸收来看，单粒精播处理S2和S3在整个生育期内磷素累积吸收量均高于CK，而S1处理在饱果期之前磷素吸收显著高于CK，饱果期之后与CK无显著差异，说明单粒精播各处理在生育前期单株磷素累积吸收量均表现一定的优势生育后期高密度的单粒精播处理优势逐渐消失，这可能与较高群体密度下花生易早衰有关。从群体磷素吸收量来看，苗期各处理之间差异较小，未达显著水平；进入花针期后，单粒精播处理S1显著高于CK，S2与CK之间差异不显著，S3磷素吸收量最低，显著低于CK；结荚期各处理间差异与花针期表现相似；进入饱果期后，S1和S2处理与CK之间均无显著差异，而S3处理显著低于CK，这说明中密度的单粒精播处理S2与CK相比，虽然密度有所降低，但是群体磷素吸收量并没有降低。
+
+![](images/b22bc1004c8edbc50ebad8a0483b3ff202f2450f77778b89b3081d5cceab029c.jpg)  
+图2不同密度单粒精播对花生不同生育期内单株(A)和群体(B)磷素累积吸收量的影响 Fig.2Effects ofsingle-seed sowingatdiferent densitiesonPaccumulationofsingleplant (A)and population (B)of peanutat different growing stages
+
+# 2.2.2 对花生磷素分配特性的影响
+
+由表2可知，花生生育期内各处理之间花生不同部位磷素累积分配规律基本一致，营养器官的分配率随生育期的渐进而降低，生殖器官的分配率则随之升高。苗期大部分磷素主要分配在茎和叶中，叶片的分配率最高，达 $0 . 4 9 \mathrm { \sim } 0 . 5 7$ ，单粒精播处理S2和S3叶片中磷素分配系数分别比CK高 $12 . 8 \%$ 和$1 5 . 7 \%$ ；茎部磷素累积量次之，分配系数为 $0 . 3 6 \sim$ 0.43，S2和S3处理略低于CK；进入花针期之后，叶片中磷素分配系数略有降低，为 $0 . 4 7 { \sim } 0 . 5 4$ ，而茎部的分配系数有所升高，为 $0 . 4 2 { \sim } 0 . 4 9$ ，S2 和S3 处理的茎部磷分配系数均高于CK。进入结英期后，大部分磷素转移到英果，英果磷分配系数达0.46\~0.52,S2和S3处理均显著高于CK，而S1与CK无显著差异。饱果期，英果中磷素分配系数达到最高，S2和S3处理分别为0.75和0.74，均显著高于CK，说明适宜密度的单粒精播处理能提高磷素向英果的分配转移率。
+
+表2不同密度单粒精播对花生不同生育期内磷素累积分配的影响[able2Efectsofsingle-seed sowingatdiferentdensitiesonPaccumulationanddistributioninpeanutatdifferent growingsta  
+
+<html><body><table><tr><td>生育期 Growing stage</td><td>处理 Treatment</td><td>根 Root (kg:hm-2)</td><td>茎 Stem (kg·hm-2)</td><td>叶 Leaf (kg·hm-2)</td><td>果 Pod (kg·hm-2)</td><td>英果磷分配系数 P distribution index of pod</td></tr><tr><td>苗期</td><td>S1</td><td>0.41±0.01a</td><td>2.39±0.12a</td><td>2.75±0.11b</td><td></td><td></td></tr><tr><td>Seeding stage</td><td>S2</td><td>0.38±0.00a</td><td>2.04±0.08b</td><td>3.04±0.08a</td><td></td><td></td></tr><tr><td></td><td>S3</td><td>0.32±0.01b</td><td>1.81±0.06b</td><td>2.83±0.08a</td><td></td><td></td></tr><tr><td></td><td>CK</td><td>0.35±0.01b</td><td>1.93±0.05b</td><td>2.22±0.06c</td><td></td><td></td></tr><tr><td>花针期 Pegging stage</td><td>S1</td><td>0.69±0.02a</td><td>8.21±0.24a</td><td>9.82±0.25a</td><td></td><td></td></tr><tr><td></td><td>S2</td><td>0.67±0.01a</td><td>8.76±0.31a</td><td>8.49±0.34b</td><td></td><td></td></tr><tr><td></td><td>S3</td><td>0.54±0.02c</td><td>7.60±0.23b</td><td>7.66±0.19c</td><td></td><td></td></tr><tr><td>结英期</td><td>CK</td><td>0.58±0.02b</td><td>6.67±0.19c</td><td>8.47±0.21b</td><td></td><td></td></tr><tr><td>Podding</td><td>S1</td><td>0.52±0.01a</td><td>7.17±0.24a</td><td>10.37±0.33a</td><td>15.34±0.54b</td><td>0.46±0.01b</td></tr><tr><td></td><td>S2</td><td>0.47±0.00b</td><td>6.37±0.11b</td><td>8.85±0.28b</td><td>16.97±0.42a</td><td>0.52±0.01a</td></tr><tr><td></td><td>S3</td><td>0.43±0.02c</td><td>5.53±0.18c</td><td>7.24±0.21c</td><td>13.86±0.38c</td><td>0.51±0.00a</td></tr><tr><td></td><td>CK</td><td>0.49±0.01a</td><td>6.35±.023b</td><td>9.17±0.32b</td><td>14.49±0.44b</td><td>0.48±0.01b</td></tr><tr><td>饱果期</td><td>S1</td><td>0.46±0.02a</td><td>6.00±0.21a</td><td>5.91±0.18a</td><td>29.06±1.14b</td><td>0.70±0.01b</td></tr><tr><td>Ppod filing</td><td>S2</td><td>0.46±0.01a</td><td>4.48±0.16b</td><td>5.76±0.20a</td><td>31.54±1.21a</td><td>0.75±0.02a</td></tr><tr><td></td><td>S3</td><td>0.38±0.00b</td><td>4.03±0.11b</td><td>4.96±0.15b</td><td>26.87±0.87c</td><td>0.74±0.01a</td></tr><tr><td></td><td>CK</td><td>0.39±0.01b</td><td>5.92±0.13a</td><td>5.24±0.14b</td><td>28.25±1.02b</td><td>0.71±0.00b</td></tr></table></body></html>
+
+# 2.3不同密度单粒精播对花生钾素累积吸收及分配特性的影响
+
+# 2.3.1 对花生钾素累积吸收的影响
+
+由图3可知，花生生育期内，单株及群体钾素累积吸收量均呈先升高后降低的趋势，结荚期钾素累积量达到高峰，到饱果期略有降低，而同一时期内不同处理之间的单株及群体钾素累积吸收量均表现不同。从单株累积吸收量看，单粒精播处理S1、S2和S3均能显著提高花生生育期前期(苗期和花针期)钾素的累积量，S2和S3处理效果更为显著；进入结英期之后,S1处理与CK之间无显著差异，到饱果期S1略低于CK，说明不同密度单粒精播均能提高花生生育前期钾素的单株吸收水平，而高密度单粒精播处理在生育后期与CK相比无显著差异。从群体养分累积吸收看，单粒精播处理S2 的钾素累积吸收量在花生整个生育期内都处于较高水平，均显著高于CK；S1在饱果期之前均高于CK，饱果期之后，略低于CK，但差异不显著;而S3仅在苗期高于CK，结荚期和饱果期均低于CK，说明提高群体的钾素累积吸收量不仅要提高花生单株养分吸收能力，而且要保证足够的群体数量。
+
+![](images/5ccf2a569d0f8d9b4e7aa1f030a9a556fa200516069c53ca25adaf4e3207ff88.jpg)  
+图3不同密度单粒精播对花生生育期内单株(A)和群体(B)钾素累积吸收量的影响 Fig.3Effects ofsingle-sedsowing at different densities on Kaccumulationofsingle plant(A)and population(B)ofpeanutat different growing stages
+
+# 2.3.2对花生钾素分配特性的影响
+
+由表3可知，花生生育期内各处理之间不同部位钾素累积分配量不同，而不同处理在花生整个生育过程中的钾素累积分配规律基本一致。营养生长阶段，钾素累积主要分配在叶和茎。苗期，叶片中钾素累积分配系数为 $0 . 5 5 \mathrm { \sim } 0 . 6 1$ ，茎为 $0 . 3 5 { \sim } 0 . 4 0$ ，单粒精播处理S1、S2和S3的叶片中钾素分配系数均高于CK；进入花针期后，叶片中钾素累积分配系数略有降低，为0.45\~0.49，而茎部的略有升高，为 $0 . 4 9 \sim$ 0.53；进入结荚期之后，叶和茎中钾素累积分配系数逐渐降低，到饱果期降至最低，其中，叶片钾素累积分配系数仅为 $0 . 1 6 { \sim } 0 . 1 8$ ，而茎中钾素累积分配系数高于叶片，为 $0 . 3 1 { \sim } 0 . 3 2$ ，这说明生育后期叶片中钾素的转移输出率较高，而茎中钾素向英果的转移率则较低，饱果成熟后茎中仍然具有较高的钾素积累量；饱果期,S1、S2和S3处理的英果钾素分配系数分别为0.48、0.50和0.51，除S1处理外，S2和S3处理均显著高于CK。说明单粒精播条件下适当降低密度有利于提高花生荚果的钾素分配系数及钾素利用率。
+
+表3不同密度单粒精播对花生不同生育期内钾素累积分配的影响Table 3Effectsofsingle-sedsowingatdiferentdensitiesoKaccumulationanddistributioninpeanutatdiferentgrowingstages  
+
+<html><body><table><tr><td>生育期 Growing stage</td><td>处理 Treatment</td><td>根 Root (kg:hm-2)</td><td>茎 Stem (kg·hm-2)</td><td>叶 Leaf (kg·hm-2)</td><td>果 Pod (kg·hm-2)</td><td>英果钾分配系数 P distribution index of pod</td></tr><tr><td>苗期 Seeding stage</td><td>S1</td><td>1.01±0.02b</td><td>8.52±0.32b</td><td>14.33±0.37a</td><td></td><td></td></tr><tr><td rowspan="5"></td><td>S2</td><td>1.18±0.03a</td><td>9.47±0.21a</td><td>15.22±0.41a</td><td></td><td></td></tr><tr><td>S3</td><td>0.94±0.02b</td><td>7.93±0.24bc</td><td>13.89±0.29a</td><td></td><td></td></tr><tr><td>CK</td><td>0.99±0.01b</td><td>7.55±0.28c</td><td>10.25±0.38b</td><td></td><td></td></tr><tr><td>S1</td><td>1.16±0.03a</td><td>21.33±0.76b</td><td>20.75±0.72a</td><td></td><td></td></tr><tr><td>S2</td><td>1.13±0.04ab</td><td>24.32±0.88a</td><td>20.69±0.35a</td><td></td><td></td></tr><tr><td rowspan="5">结英期 Podding stage</td><td>S3</td><td>1.06±0.02b</td><td>19.30±0.65c</td><td>17.96±0.48b</td><td></td><td></td></tr><tr><td>CK</td><td>1.09±0.01b</td><td>18.66±0.72c</td><td>18.60±0.55b</td><td></td><td></td></tr><tr><td>S1</td><td>1.13±0.02b</td><td>36.33±1.24a</td><td>31.51±1.22a</td><td>13.39±0.52b</td><td>0.16±0.01b</td></tr><tr><td>S2</td><td>1.28±0.03a</td><td>36.38±1.16a</td><td>30.98±1.08a</td><td>16.44±0.44a</td><td>0.19±0.01a</td></tr><tr><td>S3</td><td>0.98±0.03c</td><td>31.18±1.22b</td><td>25.93±0.88b</td><td>13.10±0.40b</td><td>0.18±0.00a</td></tr><tr><td rowspan="5">饱果期 Pod filing</td><td>CK</td><td>1.01±0.02c</td><td>32.02±1.04b</td><td>30.60±1.36a</td><td>12.80±0.36b</td><td>0.17±0.00ab</td></tr><tr><td>S1</td><td>0.97±0.01b</td><td>22.30±0.81ab</td><td>12.57±0.44a</td><td>33.26±1.12b</td><td>0.48±0.01b</td></tr><tr><td>S2</td><td>1.16±0.04a</td><td>24.05±0.96a</td><td>13.10±0.25a</td><td>39.01±1.52a</td><td>0.50±0.01a</td></tr><tr><td>S3</td><td>0.93±0.02b</td><td>21.05±0.74b</td><td>10.13±0.32b</td><td>33.21±1.34b</td><td>0.51±0.01a</td></tr><tr><td>CK</td><td>0.95±0.03b</td><td>23.02±0.820a</td><td>12.93±0.46a</td><td>34.36±1.28b</td><td>0.48±0.00b</td></tr></table></body></html>
+
+2.4不同密度单粒精播对花生产量、产量构成因素及植株农艺性状的影响由表4可知，不同密度单粒精播处理与传统双
+
+粒穴播处理间花生群体英果产量、产量构成因素及植株农艺性状存在明显差异。中密度的单粒精播处理S2群体英果产量最高，增产 $8 . 1 \%$ ,S1增产幅度较小，为 $2 . 5 \%$ ，而S3与CK相比，产量略有降低，但未达显著水平。从产量构成因素看，中密度单粒精播处理S2提高了花生的分枝数和单株荚果数，改善了花生的植株农艺性状，提高了花生单株生产力，同时提高了花生的经济系数；高密度单粒精播处理S1除植株高度有所增加外，分枝数及单株英果数并无显著增加，生物产量和经济系数与CK均无显著差异，因此群体荚果产量也无显著增加；而低密度单粒精播处理S3具有较高的分枝数及单株英果数，但其群体密度较低，群体生物产量不足，所以群体英果产量略低于CK。
+
+表4不同密度单粒精播对花生产量、产量构成因素及植株农艺性状的影响 fects of single-seed sowing at different densities on yield,yield components and agronomic char:   
+
+<html><body><table><tr><td>处理 Treatment</td><td>英果产量 Pod yield (kg·hm-2)</td><td>生物产量 Biomass (kg·hm-2)</td><td>经济系数 Ecomicient</td><td>主茎高 Stemheight</td><td>侧枝长 Branch height</td><td>分枝数 Branch number</td><td>单株荚果数 Pod number per</td></tr><tr><td>S1</td><td>5 617±148b</td><td>11 463±364a</td><td>0.49±0.01b</td><td>49.6±1.8a</td><td>51.2±1.4a</td><td>7.8±0.22b</td><td>14.1±0.45b</td></tr><tr><td>S2</td><td>5 920±126a</td><td>11 607±272a</td><td>0.51±0.00a</td><td>45.8±1.2b</td><td>47.1±1.6b</td><td>10.3±0.30a</td><td>17.5±0.56a</td></tr><tr><td>S3</td><td>5 306±204b</td><td>10 203±318b</td><td>0.52±0.01a</td><td>46.2±1.1b</td><td>47.6±1.5b</td><td>11.2±0.43a</td><td>18.6±0.64a</td></tr><tr><td>CK</td><td>5 478±172b</td><td>11 412±413a</td><td>0.48±0.01b</td><td>46.4±1.2b</td><td>48.5±1.1b</td><td>7.2±0.20b</td><td>13.9±0.38b</td></tr></table></body></html>
+
+# 3 讨论与结论
+
+作物较高的生物累积量是实现高产、优质生产的前提，而生物量累积则以养分吸收为基础[17]。氮、磷、钾是作物生长发育的三大营养元素，它们在植物体内的吸收与积累是作物产量形成的基础[18]。同一品种在不同的外界环境及栽培模式下养分吸收及分配规律存在差异。本研究结果表明：中密度的单粒精播(S2)条件下，花生生育期内单株及群体的氮、磷、钾累积吸收量均得到显著提高；低密度的单粒精播(S3)条件下，花生的单株氮、磷、钾累积吸收量有显著提高，而群体养分吸收量均低于CK，这可能与群体密度的不足有关。而高密度的单粒精播处理S1在生育前期单株及群体氮、磷、钾的累积吸收量与CK相比均具有一定优势，但是，生育后期优势逐渐消失甚至低于CK，这可能是由于过高种植密度下，植株间竞争加剧，生育后期群体和个体矛盾突出，花生过早出现衰老现象，影响了后期养分的吸收。冯烨等7研究表明由传统双粒穴播改为单粒精播，同时适当降低播种量有利于提高花生的抗氧化酶活性，延缓花生的衰老进程，提高花生的产量，这与本试验研究结果相吻合。另外，单粒精播条件下较高的养分吸收能力可能与根系的生长发育有着密切关系，研究表明单粒精播促进了根系的生长发育，改善了根系的形态结构与分布[6]，这为养分吸收能力的提高提供了基础。
+
+作物高产的基础是提高群体的光合生物量，并以较大的比例转移到经济器官中去[19]。万勇善等[20]研究表明高产花生品种产量提高主要是提高了经济系数，即营养物质向英果的分配转移率，生物产量的提高亦起重要作用，因此，通过采取一定措施提高经济系数是提高花生产量的重要途径。作物对营养物质的吸收与分配特性，除与作物本身的品种特性有关，还与一定的栽培技术有关。赵桂范等研究表明，不同种植方式对大豆(Glycinemax)植株干物质积累及氮、磷、钾等营养元素的吸收与分配均有不同程度的影响。Damisch等[21认为，适宜的小麦(Triticumaestivum)种植密度既可保持较高的叶面积，又有利于糖分的转化，提高氮利用率，从而提高了籽粒产量。本试验研究结果表明：中、低密度的单粒精播处理均能有效提高花生荚果氮、磷、钾的分配系数，并提高花生的经济系数，这说明在改传统双粒播为单粒播的基础上，适当降低播种量，能有效提高花生英果中营养物质的分配转移率。本研究结果在大豆和棉花(Gossypium spp.)上得到了相似的结论。翟云龙[22]对不同种植密度春大豆的氮磷钾吸收分配特性进行研究，结果表明：中、低密度处理的大豆更有利于营养物质向生殖器官的转移和单株产量的提高。娄善伟等[23]对不同栽培密度对新疆地区棉花氮、磷、钾累积量动态及其分配特征进行了研究，结果表明适宜的种植密度能够有效提高生殖器官中养分的分配转移率，进而提高产量。
+
+孙彦浩等[24]研究表明，建立一个大小适宜、个体发育与群体发展协调的群体结构，争取果多果饱是花生高产栽培的重要任务。中密度的单粒精播处理(22.5万穴 $\cdot \mathrm { h m } ^ { - 2 }$ )，在改传统双粒播为单粒播的同时，适当降低密度(用种量减少 $1 6 . 7 \%$ )，改善了花生的植株农艺性状，增加了单株荚果数，有效提高了花生的单株生产力，虽然花生种植密度有所降低但仍然具有较高的群体生物量和群体英果产量。因此，适宜密度的单粒精播栽培技术不仅有利于节省用种量，而且有利于充分发挥花生品种潜力，提高花生的经济产量。花生精量播种高产栽培技术在水稻(Oryza sativa)和小麦上也得出相似结论，即通过适当减少播种量和降低基本苗数，培育健壮个体，均衡群体与个体关系，建立合理的群体结构，改善群体光合，提高生育中后期光合产物的合成与积累，保证群体高产稳产[25-27]。
+
+# 参考文献References
+
+[1]万书波．山东花生六十年[M]．北京：中国农业科学技术出 版社,2009 Wan S B.The Development of Shandong Peanut[M]. Beijing: China Agricultural Science and Technology Press,2009   
+[2]李安东，任卫国，王才斌，等．花生单粒精播高产栽培生育 特点及配套技术研究[J]．花生学报,2004,33(2):17-22 Li A D，Ren W G, Wang C B,et al. Studies on plant development characters of high-yield cultured peanut and supporting techniques under single-seed precision sowing[J]. Journal of Peanut Science,2004,33(2):17-22   
+[3]梁晓艳，郭峰，张佳蕾，等．单粒精播对花生冠层微环境、 光合特性及产量的影响[J]．应用生态学报，2015，26(12): 3700-3706 Liang X Y,Guo F,Zhang JL,et al. Effects of single-seed sowing on canopy microenvironment, photosynthetic characteristics and pod yield of peanut (Arachis hypogaca)[J]. Chinese Journal of Applied Ecology,2015,26(12): 3700-3706   
+[4]王才斌，成波，迟玉成，等.高产花生单粒植群体密度研究[J]. 花生科技,1996(3):17-19 Wang C B,Cheng B,Chi YC,et al.Research on population density of high-yield peanut in single-seed pattern[J].Peanut Science and Technology,1996(3): 17-19   
+[5] 邵长亮．花生单粒精播节种高产理论与技术研究[D].青岛: 青岛农业大学,2005 Shao CL.Study on the theory and technology of single-seed precision seeding on saving seed and high yield of peanut[D]. Qingdao: Qingdao Agricultural University,2005   
+[6] 冯烨，郭峰，李宝龙，等．单粒精播对花生根系生长、根冠 比和产量的影响[J]．作物学报,2013,39(12):2228-2237 Feng Y,Guo F,LiB L,et al. Efects of single-seed sowing on root growth,root-shoot ratio and yield in peanut(Arachis hypogaca L.)[J]． Acta Agronomica Sinica,2013,39(12): 2228-2237   
+[7] 冯烨，李宝龙，郭峰，等．单粒精播对花生活性氧代谢、干 物质积累和产量的影响[J]．山东农业科学，2013，45(8): 42-46 Feng Y,Li B L,Guo F,et al. Effects of single-seed precision sowing on active oxygen metabolism,dry matter accumulation and yield of Arachis hypogaea L.[J]． Shandong Agricultural Sciences,2013,45(8): 42-46   
+[8]李向东，张高英．高产夏花生营养积累动态的研究[J]．山 东农业大学学报,1992,23(1):36-40 Li X D, Zhang G Y. The dynamics of nutrient accumulation in high yield summer peanut (Arachis hypogaca L.)[J]. Journal 233-239 Zhao G F, Lian C C, Zheng T Q,et al. The effect of planting pattern on dry matter accumulation and nutrient content absorbability of soybean plant[J]. Soybean Science,1995, 14(3): 233-239   
+[10]刘伟，张吉旺，吕鹏，等．种植密度对高产夏玉米登海 661 产量及干物质积累与分配的影响[J]．作物学报,2011,37(7): 1301-1307 Liu W, Zhang J W,Lü P,et al. Effect of plant density on grain yield,dry matter accumulation and partitioning in summer maize cultivar Denghai 66l[J].Acta Agronomica Sinica,2011,37(7): 1301-1307   
+[11]徐娇，孟亚利，睢宁，等．种植密度对转基因棉氮、磷、钾 吸收和利用的影响[J]．植物营养与肥料学报，2013，19(1): 174-181 Xu J,Meng Y L,Sui N,et al. Effects of planting density on uptake and utilization of N,P and K of transgenic cotton[J]. Plant Nutrition and Fertilizer Science,2013,19(1):174-181   
+[12]李俊庆，朱红霞，杨德才，等．旱地花生氮磷钾养分积累与 分配规律初探[J]．土壤肥料,1999(5):33-35 Li J Q,Zhu H X, Yang D C,et al. Preliminary study on the rule of accumulation and distribution of NPK nutrients in upland peanut[J]. Soils and Fertilizers,1999(5): 33-35   
+[13]王秀娟，李波，何志刚，等．花生干物质积累、养分吸收及 分配规律[J]．湖北农业科学,2014,53(13):2992-2994 Wang X J, Li B,He Z G, et al. Dry mater accumulation, nutrient uptake and distribution of peanut[J]. Hubei Agricultural Sciences,2014,53(13): 2992-2994   
+[14]房增国，赵秀芬．胶东地区不同花生品种的养分吸收分配 特性[J]．植物营养与肥料学报,2015,21(1):241-250 Fang Z G, Zhao X F. Nutrient absorption and distribution characteristics of different peanut varieties in Jiaodong peninsula[J]. Journal of Plant Nutrition and Fertilizer, 2015, 21(1): 241-250   
+[15]周可金，马成泽，许承保，等．施钾对花生养分吸收、产量 与效益的影响[J]．应用生态学报,2003,14(11):1917-1920 Zhou K J,Ma C Z,Xu C B,et al.Effects of potash fertilizer on nutrient absorption by peanut and its yield and benefit[J]. Chinese Journal of Applied Ecology,2003,14(11): 1917-1920   
+[16]鲍士旦．土壤农化分析[M]．第3版．北京：中国农业出版 社,2000 Bao S D. Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing: China Agricultural Press,2000   
+[17] Watt M S, Clinton P W,Whitehead D,et al. Above-ground biomass accumulation and nitrogen fixation of broom (Cytisus scoparius L.) growing with juvenile Pinus radiata on a dryland site[J]. Forest Ecology and Management,2003, 184(1/3): 93-104   
+[18]赵营，同延安，赵护兵．不同供氮水平对夏玉米养分累积、 转运及产量的影响[J]．植物营养与肥料学报，2006,12(5): 622-627 Zhao Y,Tong Y A, Zhao HB.Effects of different N rates on nutrients accumulation, transformation and yield of summer maize[J].Plant Nutrition and Fertilizer Science,2oo6,12(5): 622-627   
+[19]Nichiponovich A A．Photosynthesis and the theory of obtaining high crop yield[C]//Proceedings of 15th Timiryasev Lecture,USSR Acad Sci.Moscow,1954   
+[20]万勇善，曲华建，李向东，等．花生品种高产生理机制的研 究[J]．花生科技,1999(S):271-276 Wan Y S,Qu HJ,Li X D,et al.Study on the high yield physiological mechanism of peanut variety[J].Peanut Science and Technology,1999(S): 271-276   
+[21]Damisch W,Wiberg A.Biomass yield — A topical issue in modern wheat breeding programmes[J].Plant Breeding,1991, 107(1): 11-17   
+[22]翟云龙．种植密度对高产春大豆生长发育及氮磷钾吸收分 配的效应研究[D]．乌鲁木齐：新疆农业大学,2005 Zhai Y L.Study on the effect of plant density on the growth and development and nitrogen， phosphorus and kalium absorption and distribution of high-yield spring soybean[D]. Urumqi: Xinjiang Agricultural University,2005   
+[23]娄善伟，高云光，郭仁松，等．不同栽培密度对棉花植株养 分特征及产量的影响[J]．植物营养与肥料学报，2010，16(4): 953-958 Lou S W,Gao YG, Guo R S,et al.Effects of planting density on nutrition characteristics and yield of cotton[J]. Plant Nutrition and Fertilizer Science,2010,16(4):953-958   
+[24]孙彦浩，刘恩鸿，隋清卫，等．花生亩产千斤高产因素结构 与群体动态的研究[J]．中国农业科学,1982,15(1):71-75 SunYH,Liu EH,SuiQW,et al.Research on the high-yield factors and the population development of peanuts[J]. Scientia Agricultura Sinica,1982,15(1):71-75   
+[25]凌启鸿，张洪程，蔡建中，等．水稻高产群体质量及其优化 控制探讨[J]．中国农业科学,1993,26(6):1-11 LingQH,Zhang HC,Cai J Z,et al.Investigation on the population quality of high yield and its optimizing control programme in rice[J]. Scientia Agricultura Sinica,1993,26(6): 1-11   
+[26]凌启鸿，张洪程，丁艳锋，等．水稻精确定量栽培理论与技 术[M]．北京：中国农业出版社,2007 Ling QH, Zhang HC,Ding YF,et al. Theory and Technique of Precise and Quantitative Cultivation for Rice[M]. Beijing: China Agricultural Press,2007   
+[27]黄钢，汤永禄．精量露播小麦的群体质量分析[J]．西南农 业学报,2006,19(6):1044-1048 Huang G,Tang YL.Analysis of the population quality of wheat sown through precise surface seeding[J].Southwest China Journal of Agricultural Sciences,2oo6,19(6): 1044-1048

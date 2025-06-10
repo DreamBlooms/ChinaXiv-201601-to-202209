@@ -1,0 +1,242 @@
+# 基于散度-形状引导和优化函数的显著性目标检测‘
+
+梁丽香‘，夏晨星²，王胜文³，张汗灵²
+
+(1.凯里学院 大数据工程学院，贵州 凯里 556011;2.湖南大学 信息科学与工程学院，长沙 51000;3．六盘水师范学院数学与信息工程学院，贵州 六盘水 553004)
+
+摘要：为了准确地进行显著性目标检测，提出了一种基于散度—形状引导和优化函数的显著性检测有效框架。首先，通过考虑颜色、空间位置和边缘信息，提出了一种有辨别力的相似性度量；接着，利用散度先验剔除图像边界中的前景噪声获得背景集，并结合相似性度量计算得到基于背景显著图。为了提高检测质量，形状完整性被提出并通过统计在分层空间中区域被激活的次数期望生成相应的形状完整显著图。最后，利用一个优化函数对两个显著图融合后的结果进行优化从而获得最终的结果。在公开数据集 ASD、DUT-OMRON和ECSSD上进行实验验证，结果证明所提方法能够准确有效地检测出位于图像任意位置的显著性物体。
+
+关键词：显著性检测；散度一形状引导；优化函数；相似性度量；分层空间 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2018.03.0188
+
+# Saliency detection based on scatter-shape guidance and optimization function
+
+Liang Lixiang1, Xia Chenxing², Wang Shengweng³, Zhang Hanling³ (1.CollgeofigDataEngineering,Kaili University,KailiGuizhou556ol1,China;2.CollgeofComputer Science& Electronic Enginering Hunan UniversityChangsha 510oo,China;3.Schoolof Mathematics &Information Engieering, Liupanshui Normal College,Liupanshui Guizhou 553o04,China)
+
+Abstract: Inorder todetectsaliencyobjectaccurately,this paper proposedaneficient framework forsaliencydetection based onscater-shape guidanceandoptimization function.First,it proposedadiscriminativesimilar metricbytakingcolor,spatial and edge information into consideration.Based on similar metric together with background setobtained byremoving the foreground noisein the image boundaries with scater-guided,itconstructeda background based saliencymap.Inorderto improvethe qualityofdetection,itintroduced theshapecompletenesscueto generate thecorrsponding shape completeness saliencymap by measuring thecompleteness of aregion by the expectation of times for which itbounded theregion by completely shape over the hierarchical space.Finally,itachieved the final saliencymapby integrating theabove bothmaps jointly into anoptimization function.Quantitative experimentson four availabledatasets ASD,DUT-OMRONand ECSSD demonstrate thatthe proposed methodoutperforms other state-of-the-artapproachesanddetects thesalientoject whichlocates at random positions.
+
+Key Words: salient detection; scater-shape guidance; optimization function; similar metric; hierarchical space
+
+# 0 引言
+
+显著性检测是模拟人类视觉系统提取出图像中最显著的区域。近年来，显著性检测越来越受到人们的关注并广泛地运用于计算机视觉领域，包括图像分割[I]、目标识别[2]、视频压缩[3]、图像检索[4]等。从心理学的角度分析，显著性检测可以分为自底向上（数据驱动）方法和自顶向下（任务驱动）方法。前者主要利用图像的低级特征（如颜色、位置和纹理）检测显著性区域，而后者需要以监督的方式通过学习特定对象的视觉信息形成显著性图。
+
+由于目前对于显著目标缺乏一个统一的定义，导致大部分的方法都是根据前景或者背景特征所启发的一些有效假设先验来进行检测的。其中，边界先验是用得最多的一种准则[56]，其假定坐落在图像边界的区域成为背景的概率较高。虽然很多文献证明了图像的边界有很大的可能成为背景，由于目标有可能与图像的边界接触，直接将所有的边界作为背景往往会导致选定的背景中充满着病态信息从而导致错误。为了解决这个问题，目前提出了许多改进方法。Li等人[7提出丢弃四条边界中差异性最大的一条边，将余下的三个边界作为背景。Wang等人[8]通过将边界集合中边缘强度较大的的超像素视为前景声音进而选择得到可靠背景。Li等人[9计算边界集中每个像素的颜色差异并降序排列，然后经验地将排名 $30 \%$ 的像素从边界集剔掉。虽然这些处理机制有效地改善了结果，但是由于这些方法都只是局限于在边界集内来计算独特性并进行相应的处理，这样得到的结果不够可靠和健壮。
+
+虽然对于简单的场景能够获得较好的结果，但是对于复杂场景仅仅依靠边界先验显然是不够。为此，许多研究者致力于依托高层特征构建更有辨别力的相似性度量矩阵，从而增大前景与背景之间的差异性。Lee等人[0]提出串联编码的低级距离图和高级特征来计算显著性图。Zhao 等人[1提出利用多文本深度学习框架进行显著性检测。Wang 等人[12]在深度网络下融合局部特征和全局特征进行显著性目标的检测。虽然这些方法在数据集上表现出很好的性能，但它们需要收集大量的手动标签的图像，而且构建学习框架的开销也十分巨大，因此严重限制了其应用。与此同时，一些研究者提出了许多传播模型来提高显著性检测结果。Li等人[7提出归一化随机游走模型；Jiang 等人[13]提出在图像图模型上利用马尔可夫吸收概率来进行显著性检测。但是对于背景结构比较复杂或者背景与前景差异性比较小而相似度矩阵辨别力也不强的时候，这些方法可能会错误的将背景也凸显出来，从而生成比较混沌的结果。
+
+针对上述问题，本文提出了一种基于散度一形状引导和优化函数的有效框架进行显著性目标检测。首先，利用边缘引导进行区域分割，并通过新的特征空间构建了一个具有辨别力的相似性度量矩阵。与先前提取鲁棒背景的方法不同，本文从全局角度考虑，即利用整幅图像的散度先验来消除图像边界中的前景噪声，并结合边界差异性先验，得到相应的基于背景显著性图。为了保证显著性目标边界的完整性和内部区域元素全部被凸显，本文提出利用形状完整性线索，并通过统计在分层分割空间中区域被激活的次数期望来生成形状完整性显著性图。最后利用融合中层特征和种子选择的传播算法对两种显著图融合后的结果进行优化，从而来得到最终的显著性结果。
+
+# 1基于散度-形状引导和优化函数的显著性检测
+
+首先本文采用文献[14]计算边缘概率（probabilityofboundary,PB),然后对通过PB得到的超级等高线图(ultrametriccontourmap，UCM）阈值化获得超像素。在这里定义初始分割$P _ { 0 } { = } \{ R _ { i } \}$ ,分割区域的个数为 $K o$ 。
+
+# 1.1散度引导背景
+
+在一幅图像中，显著性区域之间通常表现出相似的颜色和紧凑的空间性，而背景区域通常呈现出外观的多样性和分布的松散性。因此，可以引入散度先验来剔除图像边界(BS)中的前景噪声。本文以整幅图像作为研究对象来计算每个超像素的散
+
+度：
+
+$$
+D i \nu _ { c } ( i ) = n o r m a l i z e ( \sum _ { j = 1 } ^ { N } w _ { i j } \cdot \left| \mathbf { s } _ { j } - \boldsymbol { \rho } _ { i } \right. | )
+$$
+
+$$
+\rho _ { i } = n o r m a l i z e ( \sum _ { j = 1 } ^ { N } w _ { i j } \ \mathbf { S } _ { j } )
+$$
+
+其中： $s _ { j }$ 表示超像素 $j$ 的坐标； $\rho _ { i }$ 表示超像素 $i$ 加权的平均位置；$N$ 表示超像素的个数，这里等于 $K _ { 0 }$ ；normalize ${ \bf \Psi } ^ { \prime } ( x )$ 表示对 $x$ 进行归一化； $w _ { i j }$ 表示边缘权重。为了能够有效地区分背景和前景，本文采用同时考虑颜色差异、空间距离和边缘信息的联合矩阵来计算 $w _ { i j }$ 主要从以下几个方面考虑：
+
+a）根据颜色相似性的认知特性，颜色相似的图像区域往往属于同一类别。b)基于空间邻近性，相邻区域在空间上可能具有相同的标签。c）在某些情况下，使用边缘图可以比式（2）和（3）更好地突出显示前景和背景之间的轮廓。
+
+基于上述分析，本文将 $w _ { i j }$ 表示为
+
+$$
+w _ { i j } = e x p ( - \frac { d _ { c } ( \mathbf { i } , \mathbf { j } ) + d _ { s } ( \mathbf { i } , \mathbf { j } ) + d _ { e } ( \mathbf { i } , \mathbf { j } ) } { 2 \sigma _ { w } ^ { 2 } } )
+$$
+
+其中： $\sigma _ { w }$ 控制一对节点之间的距离强度； $d _ { c } ( i , j )$ 表示超像素 $i$ 和$j$ 在LAB颜色空间欧式距离； $d _ { s } ( i , j )$ 表示两者之间的空间欧式距离； $d _ { e } ( i , j )$ 定义成两者之间最短路径权重的和，即
+
+$$
+d _ { e } ( i , j ) = \operatorname* { m i n } _ { u _ { 1 } = i , \ldots , u _ { k } = j } \sum _ { j = 1 } ^ { k - 1 } e ( \mathbf { u } _ { m } , \mathbf { u } _ { m + 1 } )
+$$
+
+这里： $e ( i , j )$ 表示在UCM中两个超像素之间的边缘强度。
+
+由于不同的边界与显著性目标接触的概率不同，基于散度信息，本文采用对不同的边界设置不同的阈值方式来剔除四条边界中的前景噪声，从而可以得到健壮的背景集 $( B G )$ 。根据边界先验，可以通过用计算与 $B G$ 之间的差异性获得显著性图。但是属于背景的超像素可能只是与 $B G$ 的部分相似而不是所有，因此计算超像素与 $B G$ 中所有的超像素之间的差异性当做其显著性值，这样的效果在场景复杂的情况下，效果可能并不好。因此，本文定义与 $B G$ 中散度最相近的 $k$ 个节点之间的差异性为超像素 $i$ 显著性值，即
+
+$$
+S _ { B } ( i ) = \sum _ { j = 1 } ^ { k } w _ { i j }
+$$
+
+其中： $\scriptstyle j \in B G$ $k { = } N u m ( B G ) / 1 0 , N u m ( B G )$ 表示 $B G$ 中超像素的个数。然后对 $S B$ 归一化可以得到基于背景显著性图。为了更加增大背景与前景之间的差异性，对 $S B$ 采用logistic 函数处理，即
+
+$$
+S _ { B + } = f ( S _ { B } ) = \frac { 1 } { ( 1 + e x p ( - a ( S _ { B } - b ) ) ) }
+$$
+
+这里： $\mathbf { \Omega } _ { a }$ 用来控制差异的权重； $b$ 是决定显著性值是被增大还是抑制的阈值。本文设定 $a { = } 1 0$ ， $b { = } 0 . 7$ 。图1显示了 $S B$ 和 $S B _ { + }$ 的效果。可以看出， $S B$ 凸显出了显著性区域， $S B _ { + }$ 则进一步增大了背景与前景之间的区别，即前景得到了增强背景受到了抑制。
+
+![](images/4fd3f68f3510388c158949085806a84485c208c1e73f8ad00b8cf7b60a641246.jpg)  
+图1基于背景显著图和形状完整显著图
+
+注：从左到右:(a)输入图像;(b)SB;(c) $\mathrm { S B ^ { + } }$ (d）没有经过改进机制得到的形状完整显著图;(e)SC;(f) $\operatorname { S C } +$ (g）真值图
+
+# 1.2形状完整显著图
+
+在大多数情况下，基于健壮的BG的背景显著性图 $S B _ { + }$ 效果很好，而在一些复杂的场景中并不是如此。如图1(c)的第二个例子所示，单独依靠边界先验计算显著值可能会错误地突出背景区域。考虑到基于显著性物体都有一个明确的封闭边界[15]，本节引入了形状完整性来提高显著性检测的质量。
+
+通过对UCM采用不同的阈值 $\xi \in [ 0 , \xi _ { N } ]$ ，可以获得一个分层分割 $\{ P _ { \xi } \}$ 。为了判断在 ${ \cal P } _ { \xi } { = } \{ R _ { i } \}$ 中的某一个区域是不是完整的闭合形状，本文提出通过计算整个分层分割空间中区域被激活的次数期望来决定。按照这个方法，同类区域被激活的次数越多，它们成为显著性的概率越高。阈值 $\xi$ 对应的指示图可以定义为
+
+$$
+I n d _ { \xi } ( x ) = \left\{ \begin{array} { l l } { 1 \qquad } & { i f x \in R , R \in P _ { \xi } ^ { i n } } \\ { s \qquad } & { i f x \in R , R \in P _ { \xi } ^ { o u t } } \end{array} \right.
+$$
+
+这里： $P _ { \xi } { \mathrm { \Delta } } ^ { i n } { = } \{ R _ { i } | R _ { i } { \mathrm { \ } } \cap B G { = } \boxed { \begin{array} { r l r } { \boxed { 1 } } & { { } } & { } \end{array} }$ 表示内部区域的集合，而 $P _ { \xi } { \mathrm { \Delta } o u t } { = } P _ { \xi }$ $\backslash P _ { \zeta } ^ { \mathrm { ~ } i n }$ ；s表示每个像素的权重，取值为 $S B _ { + }$ 。文献[16]提出过类似的方法，但是本文方法与其有如下不同：首先，在式（7）中选用的是健壮的 $B G$ ，而文献[16]直接选择四条边界组成的边界集 $B S$ 。文献[16]这样的处理机制会导致与边界相连的任何区域$R _ { i }$ 都被视为背景。显然，当显著性目标与边界相连时可能会产生不好的结果（见图1(d)中的第三行）。而改进机制当显著性目标与边界相连接时，目标区域也可以被成功检测。另外，分层分割的结果是基于阈值化的结果，阈值大小的不合适可能催生过分割和欠分割的现象。这样就会导致当欠分割时 $P _ { \xi } { ^ { i n } } $ 中可能包含背景，而当过分割时 $P \xi ^ { o u t }$ 可能包含前景，因此本文引入显著性权重为每个像素分配不同的概率，即对于 $x \in R$ ， $R \in { \cal P } _ { \xi }$ out，设置 $I n d _ { \xi } ( x ) { = } s$ 而不是 $0 ^ { [ 1 6 ] }$ 。
+
+基于得到的指示图，通过计算其在整个分层分割空间上的期望，可以生成轮廓完整性图：
+
+$$
+S _ { C } ( x ) = \int Q _ { \xi } ( x ) \cdot p ( \xi ) d \xi
+$$
+
+其中： $\xi$ 服从概率密度函数为 $p ( \xi )$ 的均匀分布。类似地，将获得的 $S C$ 采用式（6）来增强背景与前景之间的对比度，结果表示为 $S C _ { + }$ 。图2(e)\~(f)显示了 $S C$ 和 $S C _ { + }$ 的结果。很明显，本文方法在目标出现与边界相接处的情况下表现更好。
+
+![](images/dd3fe95279b3e3dc56b206df754efbec293eecb492fd56248b1312d59a653f4d.jpg)  
+图2整合和优化
+
+注:(a)输入; $\mathrm { ( b ) S B ^ { + } ; ( c ) S C ^ { + } }$ (d)SI;(e)Sfinal;(f)真值图。
+
+# 1.3融合与优化
+
+基于背景显著图偏向于突出目标，而形状完整性显著图则更好地抑制背景噪声，为了达到互补的效果，将基于背景显著图 $S B _ { + }$ 与基于形状完整性显著图 $S C _ { + }$ 进行融合，即
+
+$$
+S _ { I } = f ( e x p ( S _ { { B } _ { + } } ) { \cdot } e x p ( S _ { { C } _ { + } } ) )
+$$
+
+如图2(d)所示，融合后的结果很好地抑制背景和凸显前景，但是也注意到小的非突出对象(图2(d)中以红色椭圆标记的区域）还是有被检测出来。为了消除背景噪声，本文提出了一种基于种子选择机制的传播算法，使显著值更加平滑从而抑制背景。给定一个查询 $y _ { i }$ ，流行排序要解决下面这个最优问题[17]：
+
+$$
+f ^ { ' } = \mathrm { a r g m i n } { \frac { 1 } { 2 } } ( \sum _ { i , j = 1 } ^ { N } w _ { i j } \| { \frac { f _ { i } } { \sqrt { d _ { i i } } } } - { \frac { f _ { j } } { \sqrt { d _ { j j } } } } \| ^ { 2 } + \mu \sum _ { i = 1 } ^ { N } \| f _ { i } - y _ { j } \| ^ { 2 } )
+$$
+
+其中： $w _ { i j }$ 是关联矩阵 $W$ 的元素，表示两个超像素之间的相似性；度矩阵 $D { = } d i a g \{ d _ { 1 1 } , . . . , d _ { n n } \}$ ： $\scriptstyle d _ { i i } = \sum _ { j } w _ { i j }$ 。但是一旦种子节点不正确，在传播过程中会导致不正确的结果，特别是当背景与前景比较相似时。为了减少传播错误，本文提出了融合中层特征的种子选择机制的传播算法。
+
+本文使用文献[18]中提出的中级聚类算法对超像素进行融合。具有相同结构的超像素可能具有相似的显着性值，因此，本文定义一个基于中等特征的相似性矩阵A为
+
+$$
+p _ { i j } = a _ { i j } + r _ { i j }
+$$
+
+其中：
+
+$$
+a _ { i j } = \{ \begin{array} { l l } { w _ { i j } \quad \ j \in N B ( i ) } \\ { 0 \quad o t h e r w i s e } \end{array}  \quad r _ { i j } = \{ \begin{array} { l l } { 1 } & { \ i \not \exists \ \underline { { { j } } } \ \underline { { { j } } } \not \equiv \underline { { { \mathcal T } } } | \widecheck { { \Xi } } | \mathrm { ~  ~ } [ \widecheck { \Xi } \stackrel { { \mathrm { f i n } } } { \mathcal { R } } ] =  \ } \\ { 0 \quad \  o t h e r w i s e  } \end{array} 
+$$
+
+这里： $N B ( i )$ 表示节点 $i$ 的邻居（包括直接相连的节点和间接相连的节点）。定义 $Z { = } d i a g \{ \theta _ { 1 } , . . . , \theta _ { n } \}$ ，如果节点 $i$ 是种子节点则$\scriptstyle \theta _ { i } = 1$ ，否则为0。根据上述定义，传播算法的损失函数可以写成
+
+$$
+f ^ { * } = \operatorname { a r g m i n } \frac { 1 } { 2 } ( \sum _ { i , j = 1 } ^ { N } p _ { i j } \parallel \frac { f _ { i } } { \sqrt { d _ { i i } } } - \frac { f _ { j } } { \sqrt { d _ { j j } } } \parallel ^ { 2 } + \mu \sum _ { i = 1 } ^ { N } \theta _ { i } \parallel f _ { i } - y \parallel ^ { 2 } )
+$$
+
+式（13）可以重写成
+
+$$
+f ^ { * } = ( \mathbf { D } { - } \alpha P ) \ { } ^ { - 1 } Z Y
+$$
+
+这里： $D { = } d i a g \{ d _ { 1 1 } , . . . , d _ { n n } \}$ ， $\scriptstyle d _ { i i } = \sum _ { j } p _ { i j }$ ; $Y$ 表示确定前景对应的查询矩阵。种子选择矩阵 $Z$ 可以通过对 $S _ { I }$ 进行三阈值化获得，即 $\theta _ { i }$ 可以通过式（15）求得。
+
+$$
+\theta _ { i } = \left\{ \begin{array} { l l } { 1 } & { S _ { I } ( i ) \geq \delta _ { 1 } \bullet t h } \\ { 1 } & { S _ { I } ( i ) < \delta _ { 2 } \bullet t h } \\ { 0 } & { o t h e r w i s e } \end{array} \right.
+$$
+
+在这里， $t h { = } m e a n ( S _ { I } )$ ，利用式（14）求得排序向量f，本文将$f ^ { * }$ 归一化到(0,1)得到最终显著图：
+
+$$
+S _ { f i n a l } \left( i \right) = \bar { f } ^ { * } ( i ) i = 1 , . . . , N
+$$
+
+图2(e)中的例子显示了所提出方法的有效性。可以看到前景对象被更精确地突出显示，背景被进一步抑制。
+
+![](images/46424c2ff61bc7fccec66af3874d4042c69d03e3d50a33eab1167c2eefcd1f5d.jpg)  
+图3定性比较
+
+注:(a）输入图;(b)SF;(c)MR;(d)BFS;(e)LPS;(f)MB;(g)RR;(h)CGV;(i) SRD; (j)HCC;(k)Ours;(l)真值图
+
+# 2 实验结果与分析
+
+为了验证本文算法的性能，分别在 $\mathrm { A S D ^ { [ 1 9 ] } }$ 、DUT-OMRON[17]和ECSSD[20]三个数据集上进行结果评测。本文与近年来具有代表性以及与本文算法相关的九种方法进行了性能评估对比，包括 SF[21]、MR[17]、BFS[8]、LPS[9]、MB[22]、RR[7]、CGV[23]、SRD[24]、HCC[16]。为了公平起见，其他算法结果都是通过作者提供的源代码运行得到的。
+
+# 2.1定性分析
+
+图3显示了本文算法与其他算法进行直观的视觉质量比较的结果。从结果中可以看到，本文算法生成的显著图与真值图更接近。对于包含单一目标的图像，如前两行，本文方法完好地凸显出了显著性目标，同时也很好地抑制背景噪声。当图像具有复杂的背景结构时，算法结果仍然可以获得较好的结果和较少的背景噪声。例如，在第3行和第4行，本文的显着图可以均匀地凸显出图像的前景对象，但其他算法无法从复杂的背景中提取显着对象。此外，当显著性目标和背景具有相似的外观时，本文算法也能够精确地检测显着区域，而其他方法或者不能识别显著性目标，或者不正确地过度凸显背景区域，如第5 和第6行所示。这些结果证明了本文方法在凸显显著性目标并抑制背景区域的鲁棒性和有效性。
+
+# 2.2定量分析
+
+为了比较性能，本文首先使用标准的准确一召回(PR)曲线来评估本文方法的性能。PR曲线通过采用[0,255]等固定的阈值对显著图进行二值化分割得到256张二值化图，然后与基准图比较获得。图 4(a)显示了PR 曲线的结果，其中从上到下依次是ASD、DUT和ECSSD。
+
+由于准确率和召回率常常相互影响，为了综合评估本文模型，本文采用了F-measure，它是准确率(P)和召回率(R)的加权调和平均值: $F _ { \beta } { = } ( 1 { + } \beta ) \mathrm { P } { \cdot } \mathrm { R } / ( \beta ^ { 2 } \mathrm { P } { + } \mathrm { R } )$ ，平衡因子 $\beta ^ { 2 }$ 取值为 $0 . 3 ^ { [ 2 1 ] }$ 。另外，上述度量主要集中在显著像素正确检测的概率上，而忽略了非显著像素被正确分配的影响，因此并不能全面地衡量显著性结果的好坏。因此，本文也引入了平均绝对误差(MAE)来进行性能评估： $\mathrm { M A E } = m e a n ( | S - G | )$ 。其中： $s$ 代表显著图； $G$ 表示。图4(b)和4(c)显示了F-measure 和MAE，相应的数据如表1所示。
+
+从图4可以看出，在所有的评估指标和数据集中，所提出的方法都优于其他算法结果，这说明了本文方法总体性能的优越性。以具有挑战的ECSSD数据集为例，就P、R、F-measure三个指标而言，相比于排名第二的，分别提高了 $5 . 4 4 \% . 2 . 7 2 \%$ ，$1 . 5 \%$ ；就MAE而言降低了 $12 . 8 \%$ 。此外，有些方法虽然准确率很好，但这是以低召回率作为代价的，如MR、SRD等，这导致了准确率和召回率的不平衡。相比而言，本文算法在所有的测试集中能获得最好的F-measure。笔者也观察到，在高召回率范围内本文方法能取得更有优势的精度值，这说明了本文在抑制背景上面强大的能力，主要归因于强壮边界背景、形状完整性以及健壮传播算法的联合使用。
+
+![](images/16e3d7a0379c37ad241e990097816dc620ed3732fde05fee20e4b1382fb595e1.jpg)  
+图4定量分析
+
+注:从左到右:PR 曲线、F-measure、MAE;从上到下:ASD、DUT、ECSSD。
+
+表1F-measure 和MAE对比  
+
+<html><body><table><tr><td>F-measure</td><td>SF</td><td>MR</td><td>BFS</td><td>LPS</td><td>RR</td><td>MB</td><td>CGV</td><td>SRD</td><td>HCC</td><td>Our</td></tr><tr><td>ASD</td><td>0.826</td><td>0.912</td><td>0.8373</td><td>0.905</td><td>0.914</td><td>0.865</td><td>0.845</td><td>0.9153</td><td>0.9157</td><td>0.9211</td></tr><tr><td>DUT</td><td>0.4953</td><td>0.61</td><td>0.5391</td><td>0.5585</td><td>0.6127</td><td>0.5888</td><td>0.5388</td><td>0.6296</td><td>0.6469</td><td>0.652</td></tr><tr><td>ECSSD</td><td>0.548</td><td>0.736</td><td>0.6967</td><td>0.709</td><td>0.744</td><td>0.713</td><td>0.6984</td><td>0.7312</td><td>0.7599</td><td>0.7713</td></tr><tr><td>MAE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ASD</td><td>0.1293</td><td>0.0751</td><td>0.1417</td><td>0.07147</td><td>0.0738</td><td>0.0908</td><td>0.1687</td><td>0.0783</td><td>0.0516</td><td>0.0493</td></tr><tr><td>DUT</td><td>0.1468</td><td>0.1875</td><td>0.1772</td><td>0.187</td><td>0.1845</td><td>0.1566</td><td>0.2844</td><td>0.1522</td><td>0.1148</td><td>0.1197</td></tr><tr><td>ECSSD</td><td>0.2187</td><td>0.1892</td><td>0.2072</td><td>0.1989</td><td>0.1837</td><td>0.1741</td><td>0.2544</td><td>0.182</td><td>0.1502</td><td>0.131</td></tr></table></body></html>
+
+# 2.3 性能评估指标
+
+本文算法主要设计到基于背景显著图、形状完整显著图、融合机制、种子选择传播机制。图5所示为ASD数据集上测试各项特征所绘制的PR曲线。绿色和紫色曲线（见电子版）分别表示边界集是否有经过前景噪音处理。显然，经过前景噪声处理使所提出的背景差异图的曲线得到了提高。青色和粉红色曲线分别表示所得到的形状完整图是否采用了本文提出的改进机制。由图5可知，青色曲线明显优于粉红色曲线，很好地说明了本文关于形状完整性的改进机制的有效性。蓝色和红色曲线分别表示融合结果和经过优化得到的最终的结果。图5结果显示经过优化处理的融合曲线得到了很好的改善，有力证明了本文的优化机制对本文的贡献。
+
+![](images/6cebdc7963f03566b74b1374d3043197749a83b0a11fe6508578227e5b4b6b88.jpg)  
+图5评估本文方法所用到的各项特征
+
+# 2.4 运行时间比较
+
+表2展示了在ASD数据集上利用MATLABR2014b实现得到的本文算法与其他方法的平均运行时间。所有计算出来的平均运行时间是在IntelCorei5-44603.20GHzCPU和8GBRAM的64位Windows系统上实现的。由表2可知，本文算法要快于BFS、LPS、CGV 和HCC；虽然相比于SF、MR、RR和 SRD要略慢，但是本文方法的性能在各项评价指标上都要远远优于这些方法。由于本文算法是由MATLAB来实现的，如果改写成 $\mathrm { C } { + } { + }$ 代码，运行速度会得到一定的提升。
+
+表2平均运行时间对比  
+
+<html><body><table><tr><td>算法</td><td>时间/s</td><td>代码</td></tr><tr><td>SF</td><td>0.298</td><td>Matlab</td></tr><tr><td>MR</td><td>0.715</td><td>Matlab</td></tr><tr><td>BFS</td><td>7.513</td><td>Matlab</td></tr><tr><td>LPS</td><td>3.376</td><td>Matlab</td></tr><tr><td>RR</td><td>3.56</td><td>Matlab</td></tr><tr><td>MB</td><td>0.0582</td><td>C++</td></tr><tr><td>CGV</td><td>11.87</td><td>Matlab</td></tr><tr><td>SRD</td><td>0.907</td><td>Matlab</td></tr><tr><td>HCC</td><td>4.047</td><td>Matlab</td></tr><tr><td>Our</td><td>2.12</td><td>Matlab</td></tr></table></body></html>
+
+# 3 结束语
+
+本文提出了基于散度一形状引导和优化函数的显著性检测算法。为了准确地提取健壮的背景，提出了散度先验机制，并利用与边界背景差异性得到了相应的基于背景显著图。然后提出了一种形状完整性机制，并结合鲁棒边界节点和基于背景显著图，生成了形状完整性显著图。最后，为了进一步消除背景凸显前景，本文提出了利用基于中层特征和种子选择机制的传播算法，对上述两种方法显著图融合后的结果进行优化。
+
+后续工作将考虑利用深度学习的方法，提取更高层次的特征来提高显著性检测结果的准确性。同时考虑将显著性检测应用到其他的任务中，如目标识别、图像检索等，以便提高计算效率和准确率。
+
+# 参考文献：
+
+[1]黄娟，梅浙川，黄小明．融合区域合并和GraphCuts 的彩色图像分割方 法[J].计算机工程与应用，2016,52(17):225-228.(HuangJuan,Mei Zhechuan, Huang Xiaoming. Color image segmentation based on integration of regional combination and graph cuts [J].Computer Engineering and Applications,2016,52(17): 225-228.)
+
+[2]顾苏杭，马正华，吕继东．基于显著性轮廓的苹果目标识别方法[J]. 计算机应用研究,2017,34(8):2551-2556.(Gu Suhang,Ma Zhenghua,Lyu Jidong. Recognition method of apple target based on significant contour [J]. Application Research of Computers,2017,34(8): 2551-2556.)
+
+[3]Christopoulos C,Skodras A,Ebrahimi T.The JPEG2o00 still image coding system:an overview[J].IEEE Trans on Consumer Electronics,2ooo,46(4): ..·-.
+
+[4]Yang Yang,Yang Linjun,Wu Gangshan,et al.Image relevance prediction using query-context bag-of-object retrieval model [J]. IEEE Trans on Multimedia,2014,16 (6): 1700-1712.   
+[5]王娇娇，刘政怡，李辉．特征融合与objectness 加强的显著目标检测[J]. 计算机工程与应用,2017,53(2):195-200. (Wang Jiaojiao,Liu Zhengyi, Li Hui.Feature fusing and objectness enhanced approach of saliency detection [J]. Computer Engineering and Applications,2017,53 (2):195- 200.）   
+[6]Xia Chenxing,Zhang Hanling.Saliency detection combining multi-layer integration algorithm with background prior and energy function [C]//Proc of Pacific Rim Conference on Multimedia. 2016: 11-21.   
+[7]Li Changyang, Yuan Yuchen, Cai Weidong,et al. Robust saliency detection via regularized random walksranking[C]//Proc of IEEE Conference on Computer Vision and Pattrn Recognition. 2015: 2710-2717.   
+[8]Wang Jianpeng,Lu Huchuan,Li Xiaohui,et al. Saliency detection via background and foreground seed selection [J].Neurocomputing,2015,152 (C): 359-368.   
+[9]Li H,LuH,Lin Z,et al. Inner and inter label propagation: salient object detection in the wild [J]. IEEE Trans on Image Processing,2015,24 (10): 3176-3186.   
+[10] Lee G,Tai Yuwing W, KimJ.Deep saliency with encoded low level distance map and high level features [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2016: 660-668.   
+[11] Zhao Rui, Ouyang Wanli,Li Hongsheng,et al. Saliency detection by multicontext deep learning [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2015: 1265-1274.   
+[12] Wang Lijun,Lu Huchuan,Ruan Xiang,et al. Deep networks for saliency detection via local estimation andglobal search [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2015: 3183-3192   
+[13] Sun Jingang,Lu Huchuan,Liu Xiuping. Saliency region detection based on Markov absorption probabilities.[J]. IEEE Trans Image Process,2015,24 (5): 1639-1649.   
+[14] Dollar P, Zitnick CL. Structured forests for fast edge detection[C]//Proc of International Conference on Computer Vision.2013: 1841-1848.   
+[15] Jiang Huaizu, Wang Jingdong, Yuan Zejian,et al. Automatic salient object segmentation based on context and shape prior[C]/ Proc of British Machine Vision Conference.2011.   
+[16] Liu Qin, Hong Xiaopeng,Zou Beiji,et al. Hierarchical contour closurebased holistic salient object detection[J]. IEEE Trans on Image Processing, 2017, 26 (9): 4537-4552.   
+[17] Yang Chuan, Zhang Lihe,Lu Huchuan,et al. Saliency detection via graphbased manifold ranking[C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.2013:3166-3173.   
+[18] KimTH,Lee KM,Sang UL.Learning full pairwise affinities for spectral segmentation [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2010:2101-2108.   
+[19] Achanta R,Hemami S,Estrada F,et al. Frequency-tuned salient region detection [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2009:1597-1604.   
+[20] Yan Qiong,Xu Li, Shi Jianping,et al.Hierarchical saliency detection [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2013:1155-1162.   
+[21] Perazzi F,Krähenbuihl P,Pritch Y,et al. Saliency filters:contrast based filtering for salient region detection [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2012:733-740.   
+[22] Zhang Jianming,Sclaroff S,Lin Zhe,et al.Minimum barrier salient object detection at 8O FPS [C]//Proc of International Conference on Computer Vision. 2015:1404-1412.   
+[23]Yang Kaifu,Li Hui,Li Chaoyi,et al.A unified framework for salient structure detection by contour-guided visual search [J].IEEE Trans on Image Processing,2016,25(8):3475-3488.   
+[24] Zhou Li,Yang Zhaohui,Yuan Qing,et al.Salient region detection via integrating diffusion-based compactness and local contrast[J].IEEE Trans on Image Processing,2015,24(11):3308.

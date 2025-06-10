@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201508081671 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任芯雨,吕莹莹,巫颖伟,李明诗,李卫正.人工林与天然林破碎化过程差异对比——以美国华盛顿州和密西西比州为例.生态学报,2017,37（2)： 474-484. RenXYUias theUnitedStates：acasesudycompaingthesatesWashingtonandiissipiState.ctaEcologicaSinica,Ol7,7（2）:474-484. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人工林与天然林破碎化过程差异对比以美国华盛顿州和密西西比州为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任芯雨1,²，吕莹莹1,²，巫颖伟1,²，李明诗1,2,\\*，李卫正³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1南京林业大学林学院，南京210037  \n2 南方林业协同创新中心，南京210037  \n3 南京林业大学现代分析测试中心，南京210037",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:森林损失和破碎化一直是国际社会普遍关注的重大环境问题之一。根据 Fomman 景观变化包括穿孔、分割、破碎化、收缩和消失5种空间过程的理论，利用ArcGIS Modeler建立森林破碎化过程模型用以明确描述森林景观破碎化的空间过程和生态进程。基于NLCD2001、2006、20113期数据,以美国华盛顿州和密西西比州为研究区,利用森林破碎化过程模型,将森林损失斑块分为4种破碎化过程(分割类型因其线状特征被归人破碎化类型),对比分析天然林和人工林的破碎化过程在时空上的差异性。研究表明天然林破碎化斑块多分布于城市/森林、耕地/森林、以及灌木/森林的交界处,而人工林破碎化斑块分布格局较为零散;天然林中破碎化斑块和收缩斑块大多发生在上阶段收缩、破碎化以及穿孔斑块的边缘,而人工林中4种空间过程的承接关系不像天然林那么明显,但两者整体上都呈现相似的“收缩-消失-穿孔/破碎化\"变化规律,主要表现为收缩类型占主导然后慢慢消退，穿孔和破碎化逐渐增多占据新的主导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：森林破碎化过程；天然林；人工林；差异分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Differences in fragmentation processes between western natural forests and southeastern forest plantations in the United States : a case study comparing the states Washington and Mississippi State ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REN Xinyu1,²，LU Yingying1,2，WU Yingwei1,2，LI Mingshi1,2\\*，LI Weizheng³ 1CollegeofForestry，NanjingForestry University，Nanjing21OO37,China 2Co-Innovation Center for Sustainable Forestry in Southern China,Nanjing 21oo37,China 3Nanjing Forestry University Advanced Analysis Test Center，Nanjing 21oO37,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Forestlossand fragmentation have long beenoneof the most vitalconcernsof the internationalcommunity. Landscape fragmentationincludes fivediferent spatially explicit processs perforation，dissection，subdivision，shrinkage, andattriton.Followingthis theory，aforestfragmentationprocess model thatcandetect these spatially explicit proceses，as well as teecological consequences of forest landscape fragmentation，was developedusing ArcGISModeler.Using the NationalLand Cover Database（years2O01，2006，and2011），the forest fragmentationprocessmodel wasapplied to Washingtonand Misissppi inthe USA.Deforestedpatcheswerequantifiedandcategorized intooneoffourfragmentation proceses，bymerging thedissctionspatial processinto thesubdivisionspatialprocess（becauseof itsprincipal linear feature).Furthermore,thespatio-temporaldiferences infragmentationpaternbetweennaturalforestsandplantations were compared.Fornaturalforests，forestfragmentationmainlyocured intheurban/forest，cultivated/forest，andshrubland/ forest interfaces，whereasthe paternof deforested plantationpatchesdispersedsparselyand irrgularlythroughout he region.The subdivisionand shrinkagepatches innatural forests usuall followedtheperforation，subdivision，and shrinkage patches oftheprevious period.Incontrast,fortheplantations,the spatial transitionrelationshipsofthefourfragmentation processes were notasapparentasforthenatural forestsNonetheless，forboth naturalforestsand plantations，theoverall temporalfragmentationpattern tendedto haveasimilar“shrinkage-atrition-perforation/subdivision”tendency.This tendencywascharacterizedbyanearlyshrinkage dominance，followedbyitsgradualdisappearance.Furthermore, perforation and subdivision components increased gradually，and a new dominance was established accordingly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:forest fragmentation process；natural forests；plantation forests；difference analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林景观破碎化已是一种全球现象,特别是在一些发展中国家和地区,表现尤为突出[1]。森林破碎化是指原先大块连续的森林被分割成较小和独立斑块的过程[2]。森林破碎化改变了地区的植被结构,改变了物种生存所需的生物地理环境,严重影响着物种多样性,同时破坏了系统内的能量平衡和物质流动,还会带来会边缘效应和拥挤效应等一系列生物学后果[3-6]。因此森林景观格局及其破碎化研究一直是景观生态学的热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Forman 探讨了自然过程和人类无计划活动对景观所产生的影响。他认为,在景观变化中有五种空间过程;穿孔、分割、破碎化、缩小和消失[7]。穿孔是大面积景观要素单元在外力作用下形成小面积斑块的过程(如森林皆伐);分割是宽度相等的带划分区域,将原始景观分割的更为破碎(如道路、防护林);破碎化是原始斑块破碎程度加剧,形成的小斑块之间距离日益加深;到了缩小阶段,原始斑块规模日益缩小,最终彻底消失[8]。森林破碎化过程也遵循这样的规律,表现为森林斑块数量增加而平均斑块面积缩小,斑块形状趋于不规则,内部生境面积缩小,廊道被截断以及斑块之间隔离,最终形成孤立的森林岛屿[9]。这5种破碎化过程具有不同的空间属性,并深刻影响着景观空间格局和生态进程[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照森林起源的不同，森林可以分为天然林和人工林。根据美国科学认证体系（SCS）的定义，天然林是由自然传播或萌生而形成的、具有当地生态系统的大多数主要特征及关键要素（如复杂性、结构层次和多样性)的森林。人工林是指林地区域内与本土生态系统相比缺少某些特性和关键要素,其原因在于人类的活动,如植树、播种或强势的造林活动等形成的森林[11]。人工林比天然林生长快、成材早且轮伐期短,但天然林物种丰富度高,结构稳定,在生产功能和生态功能上往往优于人工林[12]。基于天然林和人工林在物种组成、成长过程、稳定性上的差异，可以预见两者在景观破碎化格局和空间过程中也将呈现不同的特点。然而目前针对天然林和人工林的比较多集中在群落结构、物种多样性、生物量和碳储量等方面[13-15]。关于两者景观破碎化过程的分析对比鲜有报道。而传统的森林破碎化研究多是利用景观格局指数描述景观类型组成和结构特征,研究结果缺乏空间含义,未能全面阐明在森林长期演变的过程中破碎化斑块面积和数量的变化情况及影响因子[16-19]。如果能够明确森林破碎化空间过程,定量描述天然林和人工林的景观破碎化方式,将有助于揭示不同生态环境下不同森林资源类型的演变机理,从景观生态的角度更加深刻理解天然林与人工林的差异性和相似处,对发展合理的、有差异性的森林经营管理策略具有重要指导意义。在此,根据一种基于Forman理论的新型景观破碎化过程模型[20],本研究建立了森林破碎化过程模型,用于天然林与人工林森林破碎化空间过程的差异比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为世界上第四大森林资源丰富的国家，美国多年来一直是世界上最大的木材出口国和最主要的纸浆和纸产品输出国之一[21]。西北太平洋沿岸和落基山脉分布着大片天然林,是美国木材供给的重要来源。但由于天然林的过度采伐,导致木材供应紧张,生态环境恶化。东南部人工林的大面积营造弥补了天然林的不足，但也带来了如森林稳定性差、病虫害严重、地力衰退等一系列问题[22]。美国西北部天然林和东南部人工林是近现代较为典型的林业生产与管理模式,同时美国在地理、气候等方面与我国相似,以其为研究案例,不仅可以剖析其林业发展成就的制度优势,还能为我国林业管理体制的完善和发展提供有益借鉴和现实参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述,本文选择天然林密布的华盛顿州和人工林面积广阔的密西西比州作为研究区域（图1）,使用NLCD2001、2006、20113期数据,根据Li提出的景观破碎化过程评价方法建立森林破碎化过程模型[20],将2001至2006年、2006至2011年间森林破碎化斑块分为穿孔、破碎化、收缩和消失4种明确的破碎化空间过程,由此对比天然林和人工林破碎化方式在空间过程和时间序列上的相同点和差异性,用以巩固天然林资源保护成效,更新人工林经营方式,提高森林稳定性,为政府营林造林提供决策支持,对我国实现森林资源可持续发展也具有借鉴意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区和研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "华盛顿州( $( 4 5 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { N } - 4 9 ^ { \\circ } \\mathrm { N } , 1 1 6 ^ { \\circ } 5 5 ^ { \\prime } \\mathrm { W } - 1 2 4 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { W } )$ 总面积约18.48万 $\\mathrm { k m } ^ { 2 }$ 。喀斯喀特山脉纵贯州境,将全州分为东西两部分,西部分布着温带雨林,东部主要是哥伦比亚熔岩高原。森林用地面积约占全州的 $5 2 \\%$ ，其中以针叶林占据主导地位,阔叶林大多分布在洪涝灾害频繁或受到其他严重干扰(雪崩或砍伐)的河岸地区[23]。该州林业区主要集中在喀斯喀特山脉及以东地区,木材产量居全国第二,采伐中的 $9 3 \\%$ 为软材,其中道格拉斯冷和西部铁杉为主要商业原材。 $40 \\%$ 以上的原材加工成条材和板材，约 $4 0 \\%$ 加工成圆木出口，其余作为纸浆和生产胶合板的原料。林产品出口居全国第一,属于较为典型的天然林生长区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "密西西比州 $\\langle 3 0 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { N } \\mathrm { - } 3 5 ^ { \\circ } \\mathrm { N } . 8 8 ^ { \\circ } 0 6 ^ { \\prime } \\mathrm { W } \\mathrm { - } 9 1 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { W } \\rangle$ 总面积约12.54万 $ { \\mathrm { k m } } ^ { 2 }$ 。全州地势低洼,雨量充沛,作物生长期长。该州河网密布，毗邻密西西比河东岸，西北部地区在亚祖河与密西西比河的冲积下而成了新月形的肥沃地带，称为冲击河谷。森林覆盖面积占全州$6 2 \\%$ ，南部主要为松树林，密西西比河下游主要分布柏树林,东北部地区为混合阔叶林[24]。该州人工林营林区面积广阔，私有林占全州森林面积 $8 8 . 6 \\%$ ,每年向工厂和其他制造业输出了超过10亿价值的林产品（包括木材、纸浆和松脂等），为该州带来了巨大的经济效益[25] O",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0d9de19658be31d8d7f8ca33a8c03965fdc6e3ce17961c771a86c6b821cec40.jpg",
+        "img_caption": [
+            "图1美国州界图",
+            "Fig.1 The state diagram of USA "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究所用的数据包括：空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ 的3期美国国家土地覆盖数据库（National Land CoverDatabase,NLCD2001、NLCD2006、NLCD2011）。美国国家土地覆盖数据库由多精度土地特征（Multi-ResolutionLand Characteristics Consortium,MRLC)项目建立,用于提供国家土地覆盖数据和土地覆盖变化数据,适于大范围森林景观格局变化的分析评价。3期数据为2014年10月发布的最新版本,均覆盖全美境内,均由 LandsatTM影像决策树分类得到,包括20种土地覆盖类型。此外,NLCD2011首次实现了从2001年到2011年国家土地覆盖数据之间墙到墙的,空间明确的连通。因此可以基于这3期数据直接比较并检测土地覆盖动态变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于NLCD产品精度依不同的地理位置和不同的分类类型而不同,因而没有正式的产品精度评价。Wickham 使用抽样设计和响应设计评价 NLCD2001分类精度,结果表明 NLCD2001安德森二级分类和一级分类的总体精度分别为 $7 8 . 7 \\%$ 和 $8 5 . 3 \\%$ ,其中森林类型的用户精度为 $8 7 . 0 \\% ^ { [ 2 6 ] }$ 。利用多时相高分辨率遥感影像分层随机抽样的方法评价NLCD2006分类精度，结果表明安德森二级分类精度为 $7 8 . 0 \\%$ ,森林类型的用户精度为 $8 7 . 0 \\% ^ { [ 2 7 ] }$ 。基于样本点抽取的NLCD2011分类精度评价正在进行当中,预计将于2015 年完成[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林景观破碎化过程模型建立在Forman景观破碎化理论的基础上。首先,通过叠加两个时相的土地覆盖分类数据,可以得到森林景观要素转变为其他类型的斑块(缺失森林斑块)和保持不变的斑块(保留森林斑块)。再利用景观破碎化过程模型将缺失森林斑块分为穿孔、破碎化、收缩和消失4种空间过程。其中,穿孔是指缺失森林斑块被一个保留森林斑块完全包围;破碎化是指缺失森林斑块与两个或两个以上的保留森林斑块相接;收缩是指缺失森林斑块仅仅与一个保留森林斑块相接;消失则是指缺失森林斑块不与任何保留森林斑块相接,处于完全孤立的状态[29]（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h 1 中穿孔 破碎化 收缩 消失Perforation Subdivision Shrinkage Attrition白色表示缺失森林斑块，绿色表示保留森林斑块，灰色表示非森林斑块",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 数据预处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为方便后续研究，对2001、2006和2011年土地覆盖数据进行聚合。将原始数据聚合为森林和非森林，得到两个研究区的3期森林/非森林分类图，用于获取缺失森林斑块和保留森林斑块，具体规则见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2森林破碎化过程模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文分别对华盛顿州和密西西比州2001到2006年,2006到2011年两个时间段的森林景观格局变化进行研究，利用ArcGISModeler实现模型的构建。将两期森林/非森林分类图进行叠加，得到缺失森林像元和保留森林像元。根据Moore理论对缺失森林像元使用八邻域法进行聚合，得到缺失森林斑块，称为森林破碎化斑块图。再对保留森林像元采用八邻域法聚合，得到森林损失图层1，其中值1代表缺失森林像元,2及其以上的值分别代表不同的保留森林斑块，图层背景值设为0。对森林损失图层1中每一个缺失森林像元用焦点分析工具计算其八邻域内不同值的个数(图3)。若结果值为1,则该像元被八个缺失森林像元包围;若值为2,则该像元的八邻域内存在另一个值(背景值0或者保留森林斑块);若结果值为3及其以上，则该像元八邻域内至少还有两种非1的值。然后，对结果进行分区统计，以每一个缺失森林斑块为一个区域,统计该区域内的最大值。由此得到森林破碎化空间过程分类图a,其中值为1的斑块为穿孔或消失类型;值大于等于3的该斑块为破碎化或收缩类型",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd97229919bcb60d396b3fb54cb921a70a0c4368028509b390ccb1e5a0e9f65f.jpg",
+        "table_caption": [
+            "表1土地覆盖类别聚合",
+            "Table1 Aggregation of NLCD classes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>第一种聚合 类别(代码) The first Aggregation class (code)</td><td>第二种聚合 类别(代码) The second Aggregation class (code)</td><td>NLCD2001、2006、2011 类别(代码) NLCD 2001、2006、 2011 classification themes（code)</td></tr><tr><td>非森林 Nonforest(2)</td><td>水域(1)</td><td>开放水域(11) 永久冰雪(12)</td></tr><tr><td></td><td>开发(2)</td><td>开发空间(21) 低强度开发空间（22) 中强度开发空间（23)</td></tr><tr><td></td><td></td><td>高强度开发空间（24)</td></tr><tr><td></td><td>裸地(3) 灌木(5)</td><td>裸地 (31)</td></tr><tr><td></td><td></td><td>矮小灌丛(51) 灌木(52)</td></tr><tr><td></td><td>草本(6)</td><td>草地(71)</td></tr><tr><td></td><td></td><td>莎草(72)</td></tr><tr><td></td><td></td><td>地衣（73)</td></tr><tr><td></td><td></td><td>苔藓 (74)</td></tr><tr><td></td><td>耕地(7)</td><td></td></tr><tr><td></td><td></td><td>牧场(81)</td></tr><tr><td></td><td>湿地(8)</td><td>栽培作物（82)</td></tr><tr><td></td><td></td><td>木本湿地(90)</td></tr><tr><td></td><td>森林(4)</td><td>草本湿地(95)</td></tr><tr><td>森林 Forest(1)</td><td></td><td>落叶林(41)</td></tr><tr><td></td><td></td><td>常绿林(42)</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>混交林(43)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接着,将森林损失图层1的背景值赋为空值得到森林损失图层2，再将该图层值为1的缺失森林像元赋为空值,得到森林损失图层3。分别对两个图层进行焦点最大值和最小值分析。若某像元的焦点最小值和其焦点最大值相等,且在该像元所在斑块内的所有像元焦点最大值都相同,那么该斑块就属于穿孔或收缩类型。而剩下的斑块为破碎化类型,由此得到森林破碎化空间过程分类图b。最后将森林破碎化空间过程分类图a和森林破碎化空间过程分类图b结合,即可将四种斑块类型区分出来,得到森林破碎化空间过程图（图4一图5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用的森林破碎化过程模型没有涉及到分割类型。这是因为分割过程往往始于线状廊道（如道路),而本研究所用土地覆盖数据的空间分辨率不高,难以识别捕捉到线状信息,道路等线状要素难以以斑块的形式呈现。另外,分割类型和破碎化类型都是缺失森林斑块与两个或两个以上的保留森林斑块邻接,不同在于分割类型往往是线状,到了破碎化阶段才发展为面状,因此将分割类型归入破碎化类型中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外,为了得到更加科学、准确的统计结果,模型没有设置最小斑块面积的阈值,森林破碎化斑块最小面积为 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ （即一个像元）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2470439d94b9d5837bc599a899205255f108fe825b313971952651c067c6ead.jpg",
+        "img_caption": [
+            "图3森林破碎化过程模型[20] ",
+            "Fig.3 Forest fragmentation process model[20] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 土地覆盖总体变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2显示了华盛顿州和密西西比州从2001到2011年11年间的土地覆盖总体变化情况。表中数值代表当年该土地覆盖类型面积占研究区域总面积的比例。2001到 2011年间华盛顿州灌木和草地覆被面积有大幅度增长;城市用地面积有小幅增长，从 $5 . 8 2 \\%$ 增长到 $5 . 9 7 \\%$ ;森林覆被面积持续下降，从 $4 3 . 3 9 \\%$ 减少到$4 0 . 0 6 \\%$ ;耕地先降再升有所波动;水体、裸土和湿地基本保持稳定。密西西比州11年间的土地覆盖变化情况大致相同,灌木和草地有大幅上升,城市用地从 $6 . 1 7 \\%$ 增加到 $6 . 4 3 \\%$ ;森林覆被比例从 $3 9 . 6 0 \\%$ 降低至 $3 7 . 7 3 \\%$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与华盛顿州不同的是,耕地覆被面积所占比例持续下降,湿地略有上升,水体有所下降,而裸土前五年基本保持不变,后五年略有增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比两州同一年份的土地覆盖情况不难发现,华盛顿州森林覆盖面积最大,灌木居于第二,农业用地也较为广泛。密西西比州森林覆盖面积位居第一,耕地覆盖面积位居第二,湿地面积比例较大位居第三,其次才是灌木;另外,密西西比州的森林和灌木比例都低于华盛顿州,而耕地和湿地的比例则明显较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e1f7b8998ec4d340c9c98443b2040b68a5be2bbb80c48cbb43784de8a22afaf.jpg",
+        "table_caption": [
+            "Table2Summary of land-cover statistics for Oregon and Alabama after aggregation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地覆盖类型 Land-cover types</td><td colspan=\"3\">占总面积百分比 Area percentage/%</td><td rowspan=\"2\">土地覆盖类型 Land-cover types</td><td colspan=\"3\">占总面积百分比 Area percentage/%</td></tr><tr><td>2001</td><td>2006</td><td>2011</td><td>2001</td><td>2006</td><td>2011</td></tr><tr><td>华盛顿州Washington</td><td></td><td></td><td></td><td>密西西比州 Misssipi</td><td></td><td></td><td></td></tr><tr><td>水域 Water</td><td>1.86</td><td>1.84</td><td>1.85</td><td>水域Water</td><td>2.34</td><td>2.25</td><td>2.22</td></tr><tr><td>开发Developed</td><td>5.82</td><td>5.91</td><td>5.97</td><td>开发Developed</td><td>6.17</td><td>6.34</td><td>6.43</td></tr><tr><td>裸地 Barren</td><td>1.56</td><td>1.50</td><td>1.50</td><td>裸地 Barren</td><td>0.17</td><td>0.17</td><td>0.20</td></tr><tr><td>森林Forest</td><td>42.39</td><td>41.40</td><td>40.06</td><td>森林Forest</td><td>39.60</td><td>38.40</td><td>37.73</td></tr><tr><td>灌木 Shrubland</td><td>24.15</td><td>25.34</td><td>25.73</td><td>灌木 Shrubland</td><td>10.55</td><td>10.91</td><td>11.28</td></tr><tr><td>草本 Herbaceous</td><td>5.39</td><td>5.25</td><td>6.05</td><td>草本 Herbaceous</td><td>0.54</td><td>2.18</td><td>2.53</td></tr><tr><td>耕地 Planted/Cultivated</td><td>17.04</td><td>16.98</td><td>17.07</td><td>耕地 Planted/Cultivated</td><td>26.15</td><td>25.32</td><td>25.10</td></tr><tr><td>湿地Wetlands</td><td>1.78</td><td>1.78</td><td>1.78</td><td>湿地Wetlands</td><td>14.48</td><td>14.42</td><td>14.51</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 森林损失 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3展示了华盛顿州和密西西比州在两个时间段（2001—2006和 2006—2011)的森林损失状况。其中，间期始端和末端的森林面积数据从NLCD土地覆盖数据中得到,两者之差为森林净损失面积;将前期与后期土地覆盖数据叠加可以得到森林损失面积。观察森林损失面积这一列,可以发现两个时段内密西西比州的森林损失远大于华盛顿州,年森林损失速率几乎是华盛顿州的两倍。同样的,密西西比州的森林恢复面积和年森林恢复速率也高于华盛顿州,而2006年到2011年间华盛顿州年森林森林恢复速率只有 $0 . 0 1 \\%$ 。以上对比说明人工林比天然林更容易遭到干扰,但同时其恢复速度也相对较快,因而森林净损失不大。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/543d71e5ab7384b969c3bfd6bec28673d61f8bb2315add79000b47ea66754ce9.jpg",
+        "table_caption": [
+            "表2华盛顿州和密西西比州土地覆盖聚合类别比例统计 ",
+            "表32001到2006,2006到2011年间华盛顿州和密西西比州森林损失面积对比",
+            "Table3Area of the lost forest during 2001 to 2006,2006 to 2011,in Washington and Mississippi states "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间间隔 Time interval</td><td>间期始端森林 面积/hm² Forest area at the start of the interval</td><td>间隔末期森林 面积/hm² Forest area at the end of the interval</td><td>森林净损失 面积/hm² Forest area net loss</td><td>森林损失 面积/hm² Forest area lost</td><td>森林恢复 面积/hm² Forest area added</td><td>年森林损 失速率/% Forest annual loss rate</td><td>年森林恢 复速率/% Forest annual added rate</td></tr><tr><td colspan=\"8\">华盛顿州Washington</td></tr><tr><td>2001—2006</td><td>7413156.45</td><td>7239930.84</td><td>173225.61</td><td>246457.80</td><td>73232.19</td><td>0.55</td><td>0.16</td></tr><tr><td>2006—2011</td><td>7239930.84</td><td>7005492.27</td><td>234438.57</td><td>239418.36</td><td>4979.79</td><td>0.55</td><td>0.01</td></tr><tr><td colspan=\"8\">密西西比州 Mississippi States</td></tr><tr><td>2001—2006</td><td>4893154.92</td><td>4744279.35</td><td>148875.57</td><td>305448.75</td><td>156573.18</td><td>1.04</td><td>0.53</td></tr><tr><td>2006—2011</td><td>4744279.35</td><td>4660912.35</td><td>83367.00</td><td>409061.25</td><td>325694.25</td><td>1.44</td><td>1.14</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 森林破碎化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 森林破碎化空间过程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过叠加不同时相的土地覆盖数据,森林破碎化过程模型可以检测森林景观变化并明确相应的空间过程。图4—图5分别展示了华盛顿州和密西西比州2001至2006年和2006至2011年两个阶段的森林破碎化空间过程。从整体上看,2001到2006年间华盛顿州的森林损失主要发生在西部沿海地区和东北部内陆地带,这里也是天然林集中分布的地区。森林破碎化斑块多集中在城市与森林,耕地与森林,以及灌木与森林接壤的过渡地带,呈现以城市(或耕地、灌木)斑块为中心向四周扩散的形态。穿孔斑块主要发生在大面积的原始森林内部;破碎化斑块大多将森林用地转变成了灌木和草地，且破碎化斑块的平均面积大于其他破碎化类型;收缩斑块平均面积最小,是整个研究区内最为普遍的破碎化形式;消失斑块数量最少,主要分布在中大型灌木斑块中。2006到2011年,森林损失斑块分布重心基本保持不变,整体有向西倾移的趋势。穿孔斑块与上一阶段的穿孔在空间分布上并无太大联系,但可以明显看出破碎化斑块大多延续着上阶段破碎化斑块向四周扩张;而收缩斑块则大多发生在上阶段收缩、破碎化以及穿孔斑块的边缘。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在密西西比州,2001至 2006 年间森林破碎化斑块多分布在东南部地区,到2011年重心略微朝北部倾斜。与华盛顿州不同的是,破碎化斑块并非集中在城市/森林、耕地/森林或灌木/森林的过渡带,而是呈现无规律的散布在森林区域内(除了东北部区域较规律的沿农业带分布),而且四种破碎化过程在时间上的承接关系也没有华盛顿州明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd36f4d223115cbd793f7711c263936b5ddeba97691e1d9dd7144d8531be430.jpg",
+        "img_caption": [
+            "图4华盛顿州森林破碎化空间过程",
+            "Fig.4Forest fragmentation spatial processes in Washington during 2oo1 to 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2森林破碎化时间动态",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4展示了森林破碎化四种空间过程在时间上的变化。从面积上看，2001年到2006年，华盛顿州破碎化类型导致的森林损失面积最大，超过 $5 0 \\%$ ;其次是收缩类型，为 $4 1 . 4 6 \\%$ ；穿孔类型导致的森林损失比例为$7 . 4 5 \\%$ ,消失类型比例最小不到 $1 \\%$ 。到下一阶段（2006—2011）,破碎化类型导致的森林损失面积仍为主导因素，且增长到 $5 2 . 3 5 \\%$ ,而其他3种破碎化类型比例均有所下降。密西西比州2001到2006 年间面积占森林损失总面积最大的为破碎化类型，达 $6 0 . 6 2 \\%$ ,位居第二的为收缩类型,为 $3 4 . 7 1 \\%$ ;穿孔类型只有 $3 . 0 2 \\%$ ;消失类型比例最小为 $1 . 6 6 \\%$ 。与华盛顿州情况相似，从2006年到2011年破碎化类型增长到 $6 7 . 6 4 \\%$ ，收缩类型下降较大为 $2 8 . 6 3 \\%$ ,其他两种类型也略有下降。从斑块数量上分析,华盛顿州2001到2006 年 $6 9 . 0 7 \\%$ 的森林损失斑块为收缩类型，破碎化类型仅占 $1 6 . 9 1 \\%$ 。2006年到2011年收缩斑块仍占主导但比例有所下降，破碎化和穿孔比例上升而消失类型比例下降。同样的,在密西西比州11年间收缩斑块数量最多,其次是破碎化。到第二阶段,收缩和消失的比例下降,而穿孔和破碎化的比例呈上升。由此看出,天然林和人工林的破碎化空间过程在时间上呈现相似的变化规律,主要表现为收缩类型占主导然后慢慢消退,穿孔和破碎化逐渐增多占据新的主导。此外,需要注意的是,华盛顿州和密西西比州从第一阶段到第二阶段穿孔类型面积比例变小了,但数量比例却增加了，这说明穿孔类型平均斑块面积较小，数量较多。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dea806d88b768176fb56aa8f044ede7899914acf0a532b95b8670e4ce3bebb1.jpg",
+        "img_caption": [
+            "图5密西西比州森林破碎化空间过程",
+            "Fig.5Forest fragmentation spatial processes in Mississippi States during 2oo1 to 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d5f0f29022073446b1963a06e0d9bf01a4eb12c4787a6a665212b187310a522.jpg",
+        "table_caption": [
+            "表4华盛顿州和密西西比州森林破碎化空间过程的面积比例和数量比例",
+            "Table4Areaduerpetasfstpaseperecntsatialprocesiasodsispitatsurigo "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4种空间过程 Four spatial processes</td><td colspan=\"2\">不同空间过程的面积比例/% Area percentages of different spatial processes</td><td colspan=\"2\">不同空间过程的数量比例/% Number percentages of different spatial processes</td></tr><tr><td>2001—2006</td><td>2006- -2011</td><td>2001—2006</td><td>2006—2011</td></tr><tr><td>华盛顿州Washington</td><td></td><td></td><td></td><td></td></tr><tr><td>穿孔 Perforation</td><td>7.45</td><td>6.44</td><td>9.37</td><td>11.55</td></tr><tr><td>破碎化 Subdivision</td><td>50.27</td><td>52.35</td><td>16.81</td><td>18.12</td></tr><tr><td>收缩 Shrinkage</td><td>41.46</td><td>40.52</td><td>69.07</td><td>66.85</td></tr><tr><td>消失 Attrition</td><td>0.81</td><td>0.69</td><td>4.75</td><td>3.49</td></tr><tr><td>密西西比州Mississippi States</td><td></td><td></td><td></td><td></td></tr><tr><td>穿孔Perforation</td><td>3.01</td><td>2.48</td><td>4.55</td><td>5.66</td></tr><tr><td>破碎化 Subdivision</td><td>60.62</td><td>67.64</td><td>20.60</td><td>27.59</td></tr><tr><td>收缩 Shrinkage</td><td>34.71</td><td>28.63</td><td>68.08</td><td>61.11</td></tr><tr><td>消失 Attrition</td><td>1.66</td><td>1.25</td><td>6.76</td><td>5.64</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)比较华盛顿州和密西西比州总体土地覆盖情况,11年间两地森林覆盖面积持续下降,森林不断遭到破坏;开发、灌木和草地覆盖面积持续增长;华盛顿州耕地面积有所波动,而密西西比州耕地面积持续下降;另外,密西西比州河网密布，湿地占全州土地覆盖很大一部分比例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)人工林的森林损失面积远大于天然林,年森林损失速率也达到天然林的2倍。但同时其森林恢复面积和年森林恢复速率也高于天然林。由此可见，人工林比天然林更容易遭到干扰，但同时其恢复速度也相对较快，因而森林净损失不大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)对比两个研究区的森林破碎化空间过程,可以得出这样的结论：西部天然林破碎化斑块多数分布于城市/森林、耕地/森林、以及灌木/森林的交界处,并以大面积的城市(或耕地)斑块为中心向四周扩散。而人工林破碎化斑块分布格局较为零散,呈现与天然林生态系统不同的破碎化格局。但天然林和人工林的4种破碎化空间过程具有以下共性;穿孔主要发生在大面积的原始森林内部,如皆伐;破碎化平均斑块面积最大;收缩斑块平均面积最小,是整个研究区内最为普遍的破碎化形式;消失斑块数量最少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4)探讨森林破碎化空间过程的时间动态,Forman认为穿孔和破碎化主要发生于景观破碎化前期,中期进入破碎化和缩小阶段,末期是消失阶段[6]。本研究通过对比华盛顿州和密西西比州发现,天然林中破碎化斑块大多延续着上阶段破碎化斑块向四周扩张;而收缩斑块则大多发生在上阶段收缩、破碎化以及穿孔斑块的边缘。人工林中4种空间过程的承接关系没有天然林明显,但整体上变化规律基本相似,可总结为“收缩-消失-穿孔/破碎化”,表现为收缩类型占主导然后慢慢消退,穿孔和破碎化逐渐增多占据新的主导,如此循环往复,整个过程基本符合Forman 景观破碎化理论的规律。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "美国天然林集中在西北太平洋沿岸和落基山脉,二战后由于木材需求量急增,大量天然林遭到砍伐,引发了关于濒危野生动物保护的法律诉讼[30]。1993 年美国政府发起了一项以天然林保护为目标的大型林业生态工程——西北林业计划,在西北林计划及各种保护政策的影响下,美国西北部形成了严格的森林经营规则和较高的森林管理水平,国有林地木材供给减少,天然林面积有明显增加,生物多样性得到保护,森林生态系统趋于稳定。然而尽管西部地区天然林保护卓有成效,但人类活动对森林的影响仍不可忽视。有研究表明，1978 年到 2001年间华盛顿州森林用地转变为其他土地覆盖类型的年平均损失速率为 $0 . 3 7 \\% ^ { [ 3 1 ] }$ 。本文分析结果显示2001至2011年间森林年平均损失速率达到 $0 . 5 5 \\%$ ,森林用地遭到持续侵蚀。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "美国东南部地区有着非常高的森林覆盖率和私有林占有率,据统计,截至2007年在美国南部11个州（包括密西西比州)通过人工种植或再生的人工林覆盖面积已达到180 万 $\\mathrm { h m } ^ { 2 [ 3 2 ] }$ 。人工林多是单作纯林，树种单一，结构简单,生物多样性较低，抗逆性较差,自然和人为干扰剧烈。表3显示密西西比州的人工林年平均损失速率超过 $1 \\%$ ,几乎是天然林的两倍。但同时,人工林在人为营林措施的干预下恢复速度较快,因而净森林损失量不大。另外,东南部地区大部分州没有森林经营的相关法律,林主对拥有的森林自由酌情处理。同时法律也没有对私有林地的木材采伐量进行限制或有采伐限额,采伐往往以皆伐为主,印证了图5森林破碎化斑块呈现较为零散而无规律的格局,体现了人工林本身的生态结构和经营管理方式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究利用森林破碎化过程模型明确了西部天然林和东南部人工林的破碎化在空间和时间上的动态过程,符合Forman 认为的景观变化包含不同空间过程的观点[7,3-4]。已有的森林破碎化研究大多针对某一时间点上的静态空间格局而忽视了空间过程,森林破碎化过程模型弥补了这一不足,利用两个时间点上的土地覆盖数据,图示并量化森林破碎化斑块的分布格局和变化过程,为天然林保护和人工林经营管理提供了一定的科学指导,对诠释政府政策含义,制定未来森林生态保护制度,促进林业可持续发展具有重要意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但是,本研究对土地覆盖数据进行直接比较,因此土地覆盖数据的误分会导致破碎化空间过程的误分,所以遥感影像的分类精度对破碎化空间过程的准确性有很大影响。本研究使用的NLCD数据精度平均在 $8 0 \\%$ ，难以避免的会有部分误差和错分。未来使用更加精确的土地覆盖数据可以有效改善这一现象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]LiMS,ZuZ,L,XuD,LAX,egSKAsetofforestgspatipesoveentresreasaJoalfForestry Research,2008，19(1）：25-31.  \n[2]LordJM,Norton DA.Scaleand the spatial conceptof fragmentation.Conservation Biology，1990,4（2）：197-202.  \n3]Fleftdtyaedoagea(7) : 627-642.  \n[4］刘建锋，肖文发，江泽平，冯霞,李秀英.景观破碎化对生物多样性的影响.林业科学研究，2005，18（2)：222-226.  \n[5]LiHB,ReyoldsJ.Anewcontagionindex toquantifyspatialpaersoflandscapes.LandscapeEcology93,8(3）：5-162.  \n[6]ButlerBslgJFrestfeaoinrtatodeaoFrestEoot2004，189(1/3):363-373.  \n[7]Forman RTT.Land Mosaics:The EcologyofLandscapesand Regions.Cambridge:Cambridge University Press，1995:1-656.  \n[8]Gutzwiler K.Applying Landscape Ecology in Biological Conservation.New York：Springer-Verlag，2O02：1-545.  \n［9］李哈滨，伍业刚.景观生态学的数量研究方法.北京：中国科学技术出版社，1992：209-223.  \n[10]cGarigalKsanSganQuantngetrilbiadFetatorotoolRocyainioUSA, 2005: 1-115.  \n［11］美国科学认证体系 SCS.森林保护计划关于中国森林认证暂行标准.2015.  \n[12］李丹，陈宏伟，李根前，杨斌，孟梦，史富强.我国天然林与人工林的比较研究.林业调查规划，2011,36(6)：59-63.  \n[13］王健敏，刘娟，陈晓鸣，温庆忠，段兆尧，赖兴会.云南松天然林及人工林群落结构和物种多样性比较.林业科学研究，2010，23（4)：515-522.  \n[14]杨玉盛，陈光水，林鹏，黄荣珍，陈银秀，何宗明.格氏栲天然林与人工林细根生物量、季节动态及净生产力.生态学报，2003，23（9)：1719- 1730.  \n[5]Ruz-JnMCotvinCanpictbosksinoosfrrdiversiopaspedctialiplantation and a natural forest.New Phytologist,2011,189(4）：978-987.  \n[16］陈利顶，刘洋，吕一河，冯晓明，傅伯杰.景观生态学中的格局分析：现状、困境与未来.生态学报，2008，28(11)：5521-5531.  \n[17]RitersKH,WickhamJD,O'NeillRV,JonesKB,SmithER,CoulsoJW,WadeTG,SmithJH.FragmentationofcontinentalUnitStates forests. Ecosystems，2002,5: 815-822.  \n[18]RitersKH,WickmD,WadeG.AnidcatorofforestdaicsusingashitinladscapeosaicEocalIdicatos，9（):107- 117.  \n[19]VogtP,itsKHstreguilC，KakJ，WaeG,JDagatilasihoolocalageproessEcology，2007,22(2): 171-177.  \n[20]irouosesniallliiapefreaolala116-124.  \n[21] 黄坤.美国林业管理模式对我国林业发展的五大启示.绿色中国，2012，（8)：58-61.  \n［22］刘贵森，倪薇，王燚，倪柏春，于春友，张莹.对人工林非森林问题的探讨.林业勘查设计，2011，（2）：11-13.  \n[23]LitelJS,OneilEE,MckenieD,HickeJA,LutzJA,eimRA,EsnrMM.Forestecosstems，disturbanenlaticage inWashington State，USA.Climatic Change，2010，102(1/2）：129-158.  \n[24]Fickle JE.Mississppi Forests and Forestry. Oxford: University Pressof Misissippi,201:1-347.  \n[25]Dahal,uIA，deorestiissspp:eactforesprctsustosspoutoutput analysis.Forest and Wildlife Research Center，Mississippi State University，2O13：1-22.  \n[26]WickaJDanSVryJ,ithJ,HomerCGaiccurcofhedcoverforthecoteouUed.Remote Sensing of Environment，2010,114(6)：1286-1296.  \n[27]WickhamJD，tehanSV，Gass，DewitzJ，FryJA，WadeJG.AccuracyasessmentofLDO6landcoverandipervioussuface.Remote Sensing of Environment，2013，130：294-304.  \n[28]HomerCG,DewitzJA,YangL,JnS,DanielsonP,XianG,CoulsJ,HeroldND,WickhaJD,MegoK.Completihe1NationalLandCoverDtabasefortheonterminousUnitedStates-RepresentingadecadeoflandcoverchangeinformationPhotogametricEngineering and Remote Sensing，2015，81(5）：345-354.  \n[29] 肖笃宁，李秀珍，高峻，常禹，李团胜.景观生态学.北京：科学出版社，2003：1-224.  \n[30]谭文雄，刘碧云，陈富强.美国林业可持续发展研究借鉴的文献综述.世界林业研究，2008，21（特刊)：16-20.  \n[31]BradleyG,EricksonA，Robins，mithG,MaloeL，RogersL，CoorMorestLandConversioninWashingtoStateeFturefWashington'sForestsandForestryIndustries.Seatle，WA：UniversityofWashingtonScholofForestResources，O：236-302.  \n2]ZanglogaaldistofatatitsddosetlllefatasU.South.Biomass and Bioenergy，2010，34(12）：1643-1654.  \n3Jaegrapleiueapa(2)：115-130.  \n[34] Bogaert，Ceulemas，alvador-VnEyseodeDDeisiotregitfodetectioofspatialproceseinlanscapeasfoatioEnvironmental Management，2004,33（1）：62-73.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

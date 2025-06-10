@@ -1,0 +1,162 @@
+# DOI: 10.5846/stxb201704070605
+
+管强,武海涛,陈展彦,李洪宇,芦康乐,刘吉平，吕宪国.三江平原典型沼泽湿地螺类组成生态指示.生态学报,2018,38（9);3320-3327. GuanQ,WuHiJbaicetils wetland on the Sanjiang Plain，China.Acta Ecologica Sinica,2018,38(9）:3320-3327.
+
+# 三江平原典型沼泽湿地螺类组成生态指示
+
+管强'，武海涛1，\*，陈展彦1,²，李洪宇³，芦康乐1,²，刘吉平4，吕宪国}
+
+1中国科学院东北地理与农业生态研究所/湿地生态与环境重点实验室，长春130102  
+2 中国科学院大学，北京100049  
+3黑龙江三江国家级自然保护区管理局，佳木斯156500  
+4吉林师范大学旅游与地理科学学院，四平136000
+
+摘要;螺类作为湿地的重要生物类群,对环境变化响应敏感,这使得螺类成为潜在的环境指示物种。为了研究中国东北沼泽湿地不同类型湿地螺类群落结构的差异以及螺类作为不同类型湿地指示物种的可能,在 2014年9月和 2015年5月对小叶章沼泽化草甸湿地、囊苔草湿地、毛苔草湿地、漂筏苔草湿地共17个采样点进行螺类样品采集。共采集到了螺类8科13 属17种4452个。研究表明,螺类以扁卷螺科 Planorbidae、椎实螺科Lymnaeidae、膀胱螺科 Physidae为主;4种不同类型湿地螺的种类组成不同,这些螺类的种类组成与不同类型湿地的水深、植物类型组成等湿地特征是相对应。螺类的生物多样性指数（Shannon-Wiener 指数和Marglef指数)在不同类型湿地之间也存在一定差异,筛选了指示螺类6种,无褶螺是小叶章沼泽化草甸的指示物种,小土蜗、半球多脉扁螺和虹蛹螺是嚴囊苔草湿地的指示物种，琥珀螺是毛苔草湿地的指示物种,平盘螺是漂筏苔草湿地的指示物种,这表明了螺类是沼泽湿地类型的重要指示生物。也为螺类生物多样性资源的保护、恢复和生态评价提供科学依据和资料积累。
+
+关键词：螺类；生态指示；不同湿地类型；水生无脊椎动物
+
+# Study on the assemblage and indicative characteristics of aquatic snails in typical marsh wetland on the Sanjiang Plain， China
+
+GUAN Qiang'，WU Haitao1\*,CHEN Zhanyan1,²，LI Hongyu³,LU Kangle1,²， LIU Jiping4,LU Xianguo'
+
+1KeyLaboratofodtstaddfc   
+130102,China   
+2 University of Chinese Academy of Sciences， Beijing 100049,China   
+3Sanjiang National Nature Reserve Administration in Heilongjiang Province，Jiamusi 1565o,China   
+4 College of Tourist and Geoscience，Jilin Normal University，Siping 136ooo,China
+
+Abstract：Snailsareecologicalydiverse.The pulmonate taxaareairbreathers，can tolerate hypoxia,andareoftencapable of resisting temporaryorseasonal drying.Thenon-pulmonates usegills to breathe，require oxygenated waterto survive,and arerarely able totolerate drying.Snails haveawidely diverse taxonomy，ecology，and physiology.Their basal position in foodwebsand pasivedispersal may makesnails potential environmental indicators.Westudiedthediferences inthe snail assemblagesofdiferent typesof marsh wetlands innortheastern China，and exploredthe possbility thatsnail speciescould be used as indicator species for diferent typesof marsh wetlands.In September，2014and May，2O15，snails were collected from17 sites spreadacrossDeyeuxiaangustifolia wetlands，Carexschmidtiiwetlands，Carex lasiocarpa wetlands, and Carex pseudocuraica wetlands.Bycollecting them in spring and autumn，weavoided the influence of spawningon the numbers of snails，and reduced identification interferencecaused bylarvae.Wecolected atotalof 4452 individuals，which belonged to eight families，13 genera，and17 species.The snails were mainly members of thePlanorbidae，Lymnaeidae, andPhysidae.Theresultsshowedthatthe aquaticsnail assemblages were afectedby wetland types.Theclustering analysis, non-metric multidimensionalscale,andananalysisofthesimilarities betweenthesnail communitiesdivided them into four cores.These were the Deyeuxia angustifolia wetlands， Carex schmidtiiwetlands，Carex lasiocarpa wetlands，and Carex pseudocuraica wetlands.Six snails were indicator species for these four typesof wetlands，and the characteristicsof these snails correspondedtothehydrologicaland vegetation characteristicsofthediferent wetland types.Aplexa hypnorum wasan indicator for Deyeuxia angustifolia wetlands；Galba pervia，Segmentina hemisphaerula，and Pupilla sp.were indicators for Carex schmidtii wetlands；Succinea sp.was an indicatorfor Carex lasiocarpa wetlands；and Valuata cristata was anindicator forCarex pseudocuraica wetlands.Therewere also some diferencesandcharacteristic variations inthebiodiversityindexesof thesnail assemblagesbetween diffrent wetland types.The diferences insnail assemblages between diferent wetland types meant that the efects of vegetation shouldbe recognized when studying the invertebrates found in typical marsh wetlands, and those connected with wetland protection and wetland ecosystem restoration.Thesnailscan be usedasone group of indicators（Wetland types).This study also providesascientificbasis and datathatcan be used torationalydevelopand sustainably utilize snail resources. ）
+
+Key Words: snails； ecological indicators； different types of wetlands； aquatic invertebrates
+
+湿地是分布于陆地系统和水体系统之间的,由陆地系统和水体系统相互作用形成的自然综合体[1-2]。湿地生态系统具有重要的水文功能、生物地球化学功能和生态功能,具有丰富的动、植物种类及多样性。沼泽湿地是中国东北湿地的最重要的类型之一，沼泽与沼泽化草甸湿地占湿地总面积的三分之二[3]。
+
+水是控制湿地形成和功能维持的重要因素，湿地植被组成和植物物种丰富度和多样性随着水深变化而不同。在三江平原沼泽湿地随着淹水深度的增加,湿地植被往往以小叶章 Deyeuxia angustifolia（Kom.）Y.L.Chang、膨囊苔草 Carex schmidti Meinsh.毛苔草Carex lasiocarpa Ehrh.漂筏苔草Carex pseudocuraica F.Schmidt为主的群落。大型无脊椎动物是湿地生物多样性的组成部分[4-5]。它受到水文特征、植被类型、捕食等因子的影响。现有研究不同程度上揭示了植被与水生无脊椎动物之间的关系[6-8],有无植被、植被类型、植物密度、植物的生物量均会对无脊椎动物群落产生影响[7,9-12]。
+
+螺类是软体动物腹足纲的通称,在众多湿地类型中分布广泛,是湿地中最为典型和常见的无脊椎动物类群之一,近来被认为是淡水湿地生态系统的良好指示物种[5,1-14]。螺类具有类群多样性,有肺的种类呼吸空气,能够耐受缺氧并且通常能够抵抗暂时或季节性干燥;无肺的种类使用鳃呼吸并且需要含氧水存活[15]。螺类倾向于取食植物、吸收含碳的藻类和碎屑,同时又被其他高等动物(如水鸟、鱼类等)所取食。螺类移动缓慢,分类学、生态学、生理学上的差异和食物网中的位置使得螺类有助于描述湿地中各种环境因素的影响[13]。
+
+对中国东北不同植被类型沼泽湿地的螺类进行调查,通过分析比较不同植被类型沼泽湿地螺类的组成及群落差异,研究螺类在沼泽湿地生态系统中对不同植被类型的指示功能,并为该区域湿地生物多样性的保护提供依据。
+
+# 1研究地区概况及研究方法
+
+# 1.1 研究区概况
+
+三江平原位于中国东北的黑龙江省，由黑龙江、松花江和乌苏里江形成,纬度介于 $4 5 ^ { \circ } 0 1 ^ { \prime } \mathrm { N }$ 和 $4 8 ^ { \circ } 2 8 ^ { \prime } \mathrm { N }$ 之间,经度介于 $1 3 0 ^ { \circ } 1 3 ^ { \prime } \mathrm { E }$ 和 $1 3 5 ^ { \circ } 0 5 ^ { \prime } \mathrm { N }$ 之间,总面积1090 万 $\mathrm { h m } ^ { 2 [ 1 6 ] }$ 。三江平原拥有丰富的沼泽湿地资源和多样的沼泽湿地类型。研究区气候类型为温带湿润季风气候,年平均气温 $1 . 9 \mathrm { { ^ { \circ } C } }$ ,年平均降水量 $6 0 0 \mathrm { { m m } }$ ,季节性封
+
+冻，无霜期为 $1 2 5 \mathrm { d }$ 。月平均气温从1月的 $- 2 1 \mathrm { } ^ { \circ } \mathrm { C }$ 到7月的 $2 2 \%$ 。超过 $6 0 \%$ 的降水发生在7月到9月。研究区的平均海拔为 $5 5 \mathrm { m }$ 。淡水莎草沼泽是三江平原自然湿地的主要类型。采样点选择在三江平原沼泽湿地生态试验站、洪河国家级自然保护区、洪河三区,湿地的基本水质、水文、底质特征见表1[3,17]。
+
+表1不同类型湿地基本特征[3,17]  
+Table1Basic characteristic of different types of wetlands   
+
+<html><body><table><tr><td>湿地属性 Wetland characteristic</td><td>小叶章沼泽化草甸 D.angustifolia wetlands</td><td>囊苔草湿地 C.schmidtii wetlands</td><td>毛苔草湿地 C. lasiocarpa wetlands</td><td>漂筏苔草湿地 C. pseudocuraica wetlands</td><td></td></tr><tr><td>水深 Depth/cm</td><td>0—10</td><td>0—20</td><td>10—30</td><td>10—30</td><td></td></tr><tr><td>pH</td><td>6.5-6.7</td><td>6.4-6.6</td><td>6.0—7.5</td><td>6.0-6.5</td><td></td></tr><tr><td>矿化度</td><td>0.06—0.31</td><td>0.04—0.84</td><td>0.05—0.50</td><td>0.07—0.10</td><td></td></tr><tr><td>Total dissolved solid(g/L) 水化学类型</td><td>HCO3-Ca ·Mg</td><td>HCO3-Ca·Mg</td><td>HCO3-Ca · Mg; HCO3-Ca</td><td colspan="2">HCO3-Ca · Mg</td></tr><tr><td>Hydrochemical type</td><td></td><td></td><td>·Na 腐殖质沼泽土、沼泽草甸</td><td colspan="2">泥炭沼泽土或腐泥沼泽土</td></tr><tr><td>土壤类型 Soil type</td><td>草甸沼泽土</td><td>沼泽草甸土或沼泽土 小叶章D.angustifolia </td><td>土、泥炭沼泽土</td><td colspan="2">漂筏苔草C.pseudocuraica</td></tr><tr><td>优势植物 Dominant plant</td><td>小叶章D.angustifolia</td><td>囊苔草C.schmidtii</td><td>毛苔草 C. lasiocarpa</td><td colspan="2"></td></tr><tr><td>伴生植物</td><td>囊苔草 Carex schmidtii Meinsh.;灰脉苔草 Carex</td><td>燕子花 Iris laevigata、 小白花地榆 Sanguisorba</td><td>spicutl Cyeriquisetum hyemale、卵叶真藓 Bryum</td><td colspan="2">狭叶甜茅 Glyceria spiculosa、 睡菜Menyanthes trifoliata、</td></tr><tr><td>Associated plants</td><td>Caendiculata；驴蹄草</td><td>tenuifolia var.alba 驴蹄 草 Caltha palustris 、木贼 Equisetumhyemale等</td><td>Deodamense粗助镰刀藓</td><td colspan="2">芦Paugemis hgeadias</td></tr></table></body></html>
+
+# 1.2样品采集和实验室处理
+
+螺类通常在夏季产卵繁殖,选择在2014年9月（秋季),2015年5月（春季)进行螺类的调查采样来避免螺类产卵对其分布的影响,并且可以减少螺类样品鉴定方面幼体带来的干扰。采用D-型抄网在小叶章沼泽化草甸(4个采样点）、嚴囊苔草(4个采样点）、毛苔草(5个采样点)和漂筏苔草(4个采样点)湿地中,在每个样点内随机选取4个点作为重复子样本,水平采样,距离为 $\mathrm { 1 m }$ 。每个采样点中四网( $\mathrm { ' } 0 . 3 5 \mathrm { m } \mathrm { \times } 1 \mathrm { m } \mathrm { \Omega } ,$ )子样本混合为一个样品。D--型抄网被认为在沼泽湿地中能有效地采样丰富的无脊椎动物[18],能够过滤整个水体、刮到底部、扫过水上和水下植被的表面,能采集到一个相对完整的螺类群落[19],并且沼泽湿地中植被多度和盖度较大,相对于其他工具可以更有效的进行无脊椎动物样品采集。
+
+在实验室用实体显微镜下将螺类从沉积物和植物残体中挑出，并保存在 $9 5 \%$ 乙醇中。螺类的鉴定使用《中国经济动物志-淡水软体动物》[20]、《中国动物图谱-软体动物》（第四册）[21]、《底栖动物与河流生态评价》[22]等将螺类鉴定到尽可能低的分类单元。所有螺类的物种名在2016年5月经过中国科学院动物研究所刘月英先生确认。虹蛹螺科、琥珀螺科、瓦娄蜗牛科鉴定到属,其他科的螺类鉴定到种。
+
+# 1.3数据处理与分析
+
+为了识别螺类群落结构的变化和识别不同采样点之间的可能分组,我们使用Bray-Curtis 相似性作为距离度量进行种水平上的聚类分析和非度量多维排序,数据被平方根转换以减少影响。当聚类分析显示分组时，使用群落相似性分析(ANOSIM)测试来评估哪些组之间存在显著差异。使用指示物种分析[23]来识别不同湿地类型的指示物种,该分析使用指定组中的物种的丰度和出现频率来为每个物种生成从0（无指示）和100(完全指示)的值,然后我们进行蒙特-卡罗检验以测试指示物种的显著性。我们使用方差分析来分析不用湿地之间螺类个体数、类群数、多样性指数的差异。聚类分析、非度量多维标度、群落差异性分析使用PRIMER7软件[24],指示物种分析使用PC-ORD5,方差分析使用 SPSS 21.0。
+
+# 2结果与分析
+
+# 2.1 螺类群落结构组成特征分析
+
+共采集到4452个螺类,隶属8科13属17种。螺类组成多样,包括水生、陆生有肺螺和水生无肺螺（表2)。螺类个体数为嚴囊苔草湿地 $\mathrm { . } > .$ 小叶章湿地 $>$ 漂筏苔草湿地 $>$ 毛苔草湿地;螺类类群数为小叶章湿地 $>$ 嚴囊苔草湿地 $>$ 毛苔草湿地 $>$ 漂筏苔草湿地。方差分析结果同样表明螺类的总个体数( $F = 5 . 7 2 7$ ， $P { < } 0 . 0 1$ )和总类群数( $F = 4 . 1 4 3 , P { < } 0 . 0 5 ;$ 在不同植被类型湿地之间存在显著性差异（表2）。 Q
+
+表2不同湿地类型螺类种类及个体数  
+Table 2The species and abundance of snails of different types of wetlands   
+
+<html><body><table><tr><td colspan="6">Table2 Thespecl enttypesorwetands 小叶章沼 嚴囊苔草湿地</td></tr><tr><td>科名 Family</td><td>物种 Species</td><td>泽化草甸 D. angustifolia wetland</td><td>C.schmidtii wetland</td><td>C. lasiocarpa wetland</td><td>C. pseudocuraica wetland</td></tr><tr><td>豆螺科 Bithyniidae</td><td>乌苏里豆螺 Bithynia ussuriensis Buttner & Ehrmann</td><td></td><td></td><td></td><td>+</td></tr><tr><td>椎实螺科</td><td>小土蜗 Galba pervia（Martens)</td><td>++</td><td></td><td></td><td></td></tr><tr><td>Lymnaeidae</td><td>狭萝卜螺 Radix lagotis（Schrank)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>长萝卜螺 Radix peregra （Muller)</td><td>++</td><td></td><td>+++</td><td>++</td></tr><tr><td>膀胱螺科Physidae</td><td>无褶螺 Aplexa hypnorum（Linnaeus)</td><td>+++</td><td></td><td></td><td>+</td></tr><tr><td></td><td>泉膀胱螺Physa fontinalis（Linnaeus）</td><td></td><td></td><td>++</td><td>+</td></tr><tr><td>扁卷螺科</td><td>白旋螺 Gyraulus albus (Muller)</td><td></td><td></td><td>++</td><td>+</td></tr><tr><td>Planorbidae</td><td>离心旋螺 Gyraulus centrifugus (Westerlund)</td><td>+++</td><td></td><td>+</td><td>++</td></tr><tr><td></td><td>尖口圆扁螺 Helicorbis cantori（Benson）</td><td></td><td></td><td></td><td>+++</td></tr><tr><td></td><td>角扁卷螺Planorbis corneus（Linnaeus）</td><td></td><td>+++</td><td>++</td><td></td></tr><tr><td></td><td>半球多脉扁螺 Segmentina hemisphaerula（Benson)</td><td>+++</td><td>+++</td><td>+</td><td>++</td></tr><tr><td></td><td>光亮隔扁螺 Segmentina nitida(Muller)</td><td>++</td><td></td><td>+++</td><td>+++</td></tr><tr><td>盘螺科 Valvatidae</td><td>平盘螺 Valvata cristata Muller</td><td>++</td><td></td><td></td><td>+++</td></tr><tr><td></td><td>西伯利亚盘螺 Valvata sibirica Middendorff</td><td>+</td><td></td><td></td><td>+</td></tr><tr><td>蛹螺科 Pupillidae</td><td>虹蛹螺 Pupilla sp.</td><td>++</td><td>++</td><td>++</td><td></td></tr><tr><td>琥珀螺科</td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>Succineidae</td><td>琥珀螺 Succinea sp.</td><td></td><td>+</td><td>++</td><td>+</td></tr><tr><td>瓦娄蜗牛科</td><td>瓦娄蜗牛 Vallonia sp.</td><td></td><td></td><td>++</td><td>+</td></tr><tr><td>Valloniidae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>9.50(1.04） *</td><td>6.50(0.29） *</td><td>6.40(0.24） *</td><td>6.00(1.22） *</td></tr><tr><td></td><td>类群数</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>个体数</td><td>229.73 （44.47） **</td><td>380.18 （104.83）**</td><td>61.29 （14.84）**</td><td>108.57 (55.48） **</td></tr></table></body></html>
+
++++代表该物种个体数占总个体数比例大于 $1 0 \%$ $^ { + + }$ 代表 $1 \% - 1 0 \%$ $^ +$ 代表 $< 1 \%$ ,-代表未发现此物种; $* *$ 代表 $P { < } 0 . 0 1$ ， $*$ 代表 $\scriptstyle P < 0 . 0 5$
+
+长萝卜螺 Radix peregra（Muller） $\prime _ { F = 4 . 5 4 1 , P < 0 . 0 5 } )$ 、无褶螺 Aplexa hypnorum（Linnaeus）( $F = 6 . 9 0 0 , P <$ 0.01）角扁卷螺 Planorbis corneus（Linnaeus）（ $F { = } 3 . 9 6 4$ $\scriptstyle P < 0 . 0 5$ ）、半球多脉扁螺( $F { = } 4 4 . 0 7 7$ $P { < } 0 . 0 1$ ）、平盘螺 Valvata cristata Muller( $F { = } 3 . 6 6 1$ ， $P { < } 0 . 0 5 )$ 在4 种不同类型湿地内其丰富度存在显著性差异。小叶章湿地的优势螺类为无褶螺、离心旋螺Gyraulus centrifugus（Westerlund）和半球多脉扁螺 Segmentina hemisphaerula（Benson);膨囊苔草湿地优势螺类为长萝卜螺、角扁卷螺和半球多脉扁螺;毛苔草湿地优势螺类为长萝卜螺和光亮隔扁螺 Segmentina nitida（Muller）;漂筏苔草湿地优势螺类为尖口圆扁螺 Helicorbis cantori（Benson）、光亮隔扁螺和平盘螺。乌苏里豆螺 Bithynia ussriensis Butner& Ehrmann(豆螺科)只在漂筏苔草湿地中采集到,小土蜗(椎实螺科)只在小叶章湿地中采集到,狭萝卜螺 Radix lagotis（Schrank）（椎实螺科)只在毛苔草湿地中采集到。
+
+http ://www.ecologica.cn
+
+不同类型湿地螺类多样性指数如图1所示。单因素方差分析表明,Shannon-Wiener多样性指数( $F =$ 7.190, $P { < } 0 . 0 1 \$ )和Marglef种类丰度指数( $F = 5 . 5 2 4 , P { < } 0 . 0 5 )$ 均存在显著性差异。对于 Shannon-Wiener多样性指数,小叶章沼泽化草甸和毛苔草湿地、嚴囊苔草湿地和毛苔草湿地、膨囊苔草湿地和漂筏苔草湿地之间无显著差异。对于Marglef 种类丰度指数,小叶章沼泽化草甸和嚴囊苔草湿地、小叶章沼泽化草甸和毛苔草湿地、膨囊苔草湿地和毛苔草湿地、膨囊苔草湿地和漂筏苔草湿地、毛苔草湿地和漂筏苔草湿地之间无显著差异。
+
+![](images/b67aee5d3283a77293d54e19941e67b9abf9bf16ba3a16f2c7da5756ff86dd7b.jpg)  
+图1不同类型湿地螺类多样性指数  
+Fig.1Four diversity index of snails in different types of wetlands
+
+2.2 湿地螺类群落聚类分析和指示物种筛选
+
+首先依据聚类分析结果得到的NMDS 图,拟合度（2D stress）为0.11,在相似度为 50时,显示了17个采样点可以分为5个组（图2)。其中2个漂筏苔草湿地(漂筏苔草1和漂筏苔草3)和另外2个漂筏苔草湿地(漂筏苔草2和漂筏苔草4）在 NMDS 图中分裂成两个组（图2）。对这两个组进行相似性分析（Analysis ofSimilarities），结果显示两个组的差异性不显著( $\stackrel { \prime } { R } = 1 , P = 0 . 3 3 3 )$ ,表明可以将这两个组合并看成一个单独的组,不同于其他3个类型湿地（小叶章湿地的4个点、膨囊苔草湿地的4个点和毛苔草湿地的5个点分别构成了单独的组)组。因此17个采样点可以分为4个单独的组,这和不同湿地类型刚好吻合,且不同组间存在显著性差异(表3）。
+
+6 种螺类是不同类型湿地的指示物种( $P { < } 0 . 0 5 )$ （表4）。无褶螺Aplexa hypnorum（Linnaeus）（膀胱螺科）是小叶章湿地的指示物种;小土蜗 Galba peruia（Martens）（椎实螺科）、半球多脉扁螺 Segmentina hemisphaerula(Benson)（扁卷螺科)和虹蛹螺 Pupilla sp.（虹蛹螺科)是膨囊苔草湿地的指示物种;陆生用肺呼吸的琥珀螺
+
+Succinea sp.（琥珀螺科)是毛苔草湿地的指示物种;平盘螺 Valuata cristata Muller(盘螺科)是漂筏苔草湿地的指示物种(表4）。
+
+![](images/0c14253ab6d4839d53db30925fef29b82637dded513054fe221458c10a85383b.jpg)  
+图2不同类型湿地螺类集合的非度量多维标度标序图
+
+Fig.2NMDSordination of snail abundance（Bray-Curtis similarity） found in different types of wetlands
+
+表3不同类型湿地螺类集合差异性分析  
+Table 3ANOSIM of floodplain snail abundance among wetland type!   
+表4不同类型湿地的螺类指示物种  
+
+<html><body><table><tr><td rowspan="2">因素Factors</td><td colspan="3">差异性 Dissimilarity(P)</td></tr><tr><td>囊苔草湿地</td><td>毛苔草湿地</td><td>漂筏苔草湿地 C. pseudocuraica wetlands</td></tr><tr><td>小叶章沼泽化草甸D.angustifolia wetlands</td><td>C.schmidtii wetlands 0.688(0.029)</td><td>C. lasiocarpa wetlands 1(0.008)</td><td>0.573(0.029)</td></tr><tr><td>囊苔草湿地C.schmidtii wetlands</td><td></td><td>1(0.008)</td><td>1(0.0029)</td></tr><tr><td>毛苔草湿地 C.lasiocarpa wetlands</td><td></td><td></td><td>0.744(0.008)</td></tr></table></body></html>
+
+Table 4Indicator snail species of different types of wetlands   
+
+<html><body><table><tr><td>湿地类型 Wetland type</td><td>物种 Species</td><td>指示值 Indicator value</td><td>P</td></tr><tr><td>小叶章沼泽化草甸 D.angustifolia wetlands</td><td>无褶螺</td><td>74.8</td><td>0.0114</td></tr><tr><td>囊苔草湿地 C.schmidtii wetlands</td><td>小土蜗</td><td>48.0</td><td>0.0346</td></tr><tr><td></td><td>半球多脉扁螺</td><td>71.6</td><td>0.0018</td></tr><tr><td></td><td>虹蛹螺</td><td>84.5</td><td>0.0028</td></tr><tr><td>毛苔草湿地 C.lasiocarpa wetlands</td><td>琥珀螺</td><td>60.9</td><td>0.0350</td></tr><tr><td>漂筏苔草湿地 C. pseudocuraica wetlands</td><td>平盘螺</td><td>70.0</td><td>0.0222</td></tr></table></body></html>
+
+# 3讨论
+
+全世界淡水湿地中的螺类主要来自于扁卷螺科,椎实螺科,膀胱螺科[25]。中国东北沼泽湿地中的螺类大多数来自于这3个科，本研究中这3个科的螺类种类数占到全部种类数的 $6 3 \%$ ,并且长萝卜螺（椎实螺科）、泉膀胱螺(膀胱螺科）、白旋螺(扁卷螺科)和角扁卷螺(扁卷螺科)在4种植被类型湿地中均采集到。在淡水
+
+http://www.ecologica.cn
+
+沼泽湿地中的螺类,与河流的洪泛平原相比可能有较小的多样性。我们在17个沼泽湿地中共采集到螺类8科17种,在相同地理区的乌苏里江洪泛平原采集到了更多种类的螺共10科28种,沼泽湿地每个点的螺类的种类数也是低于乌苏里江洪泛平原的( $1 4 . 5 8 { \scriptstyle \pm 0 . 6 7 } ;$ 种[14」；但是沼泽湿地螺类分布密度略大于乌苏里江洪泛平原的 $1 7 9 . 8 1 \pm 8 7 . 8 3 \$ ,由于沼泽湿地中水流速度相对较慢,有丰富的食源可供螺类取食[4],有利于螺类的繁殖。 2
+
+随着水深的增加,螺的种数呈现减少趋势(表2),是由于随着水深的增加,水生有肺螺类和陆生螺类的减少导致的。但是螺分布密度最高值出现在嚴囊苔草湿地，因为嚴囊苔草湿地位于水陆波动和交互作用的强烈交错带,而采集到的螺类大多数属于水生有肺螺类。而随着水深的增加,水生有肺的螺类爬到水面重新填充他们气囊的难度也随之增加[15]。本文中 $\mathrm { \ p H }$ 范围在6.0一6.7,并且不同采样点之间无显著差异，对螺类的分布影响不大。pH过高或过低对螺类物种分布均有显著影响,水生有肺螺类壳口无片,水体可以直接和螺类身体接触,故水生有肺螺类对 $\mathrm { \ p H }$ 反应比较敏感;而水生无肺螺类壳口有厝片，片可以起到保护螺类身体的作用,使螺类对 $\mathrm { \ p H }$ 有一定短时间的耐受性[26]。此外,由于螺类在其贝壳的形成过程中,需要大量的碳酸钙,所以水体pH会影响螺类的分布[26]。矿化度不仅仅受底质背景的影响,更反映了换水周期和稀释条件[27],也在不用程度上对螺类产生影响。水体水文水质特征对螺类群落结构、螺类分布的影响还需要进一步研究。
+
+指示物种分析支持我们关于17个不同植被类型湿地的4个分组（表4)。6种螺类分别是4类湿地的指示物种,其中漂筏苔草湿地中的平盘螺(盘螺科)是用鳃呼吸的螺,其余5种螺类均是用肺呼吸的螺类。小叶章湿地的指示物种为无褶螺（膀胱螺科),无褶螺在欧洲是濒危物种[28],对环境敏感[29-30],它喜欢栖息在特别浅的水域,通常是定期干燥的水域,虽然当栖息地干燥时,无褶螺本身死亡,但是它的卵非常耐干燥,也就是说当下一次有水补后,卵可以孵化。嚴囊苔草湿地中有3个指示物种,虹蛹螺属是一种陆生有肺的螺类,它的存在也进一步说明了嚴囊苔草群落水陆交互作用强烈的特征。琥珀螺通常以藻类、苔藓、腐殖质和植物的幼芽、嫩叶为食,可在水草、水面上飘浮运动,毛苔草湿地琥珀螺为指示物种可能与毛苔草群落伴生的苔藓、藻类有关。而漂筏苔草湿地中的指示物种平盘螺，与漂筏湿地水深通常较深有关。
+
+对比4种不同植被类型湿地螺类的生物多样性指数发现（图1）,Shannon-winer 多样性指数和 Marglef 丰富度指数均为小叶章湿地最大,这与此次在小叶章湿地采集到的螺类的物种数较多是相符合的。膨囊苔草湿地螺类的 Shannon-winner多样性指数、Marglef 丰富度指数和 Pielou 均匀度指数均为最低,这可能是由于一种或几种螺类在嚴囊苔草湿地处集聚导致的。虽然毛苔草湿地和漂筏苔草湿地有较低的类群数,但是他们有中等的 Shannon-winner多样性指数和 Marglef 丰富度指数。值得指出的是,生物多样性与多种环境因素关系密切[27,31],但是植被对生物多样性的影响是不可忽视的。
+
+植物的直接和间接作用影响螺类的分布和多度。直接作用是提供生境的复杂性,为取食植物的根、茎、叶以及凋落物的螺类提供丰富的食物来源;间接作用为螺类栖息提供了稳定的生境,植物的枝叶分化复杂化和根丛结构复杂化为螺类提供了躲避捕食的场所[32-33]。在三江平原沼泽湿地中,不同的微地貌形成了不同的势能区、造成了水热分布的差异,产生了不同的植被群落[34],来对螺类群落结构产生影响。
+
+》本研究结果表明,以不同类型沼泽湿地中,螺类的种类组成和多样性特征差异显著,且不同湿地类型中,螺类指示性物种不同,说明螺类群落可以作为不同类型湿地的指示物种。以水生无脊椎动物作为指示物种来进行生态健康评价、环境监测和生态环境变化在河流和湖泊中已经得到了广泛的应用,但是将水生无脊椎动物作为沼泽湿地的指示物种并不是很成功。近来人们已经开始探索用螺类作为沼泽湿地的指示物种进行湿地生物评估[4-5,35]。并且螺类群落在东北沼泽湿地作为指示物种来识别受损湿地和健康湿地已经取得了成功[13]。相对于无脊椎动物更加细致的分类书目和分类专家;易于采集的相对大的个体和硬壳;快速和方便从植物残体中分离使得螺类更加适合作为环境变化的指示物种。湿地植被恢复过程中没有一个评价恢复程度的指标,利用相邻区域无损或受损较小的湿地螺类群落来指示以生物恢复为目标的湿地植被恢复是可行的。
+
+# 参考文献（References）：
+
+[2] 陈宜瑜，吕宪国.湿地功能与湿地科学的研究方向.湿地科学，2003，1（1)：7-11.  
+[3] 吕宪国.中国湿地与湿地研究.石家庄：河北科学技术出版社，2008.  
+[4] Batzer DP,Boix D.Invertebrates in Freshwater Wetlands.Switzerland：Springer International Publishing,2016.  
+[5] RuhiA，BaterDsessingconguenceandsurrogacaongwetlandmacroinvertebratetaxatowardsefientlyeasuringidivesitWetlands，2014,34(6):1061-1071.  
+[6] BatzerDP,PalikB，uecRelatissetweiroealaracteristidcrovertebateitisiseasoaloddponds of Minnesota.Journal of the North American Benthological Society，2004,23(1)：50-68.  
+[7] CoperMJ,UiGurtoaceeateouitslatiotoguegeatidsediment depth in four Lake Michigan drowned river-mouth wetlands.Wetlands,2Oo7,27(4）：894-903.  
+[8] 陈博，李卫明，陈求稳，刘德富．夏季漓江不同底质类型和沉水植物对底栖动物分布的影响.环境科学学报，2014，34（7)：1758-1765.  
+[9] EvinLA,Tally.encsofgeatoandaioticviroealfctososaltashvertebrate//WestenMKreers.Concepts and Controversies in Tidal Marsh Ecology.Dordrecht：Springer,2OO2：661-707.  
+[10] HoungJP,FoteLquaticiertebatespsestosrecedvegeatocopeitnWsteoralsilcasforWaterbird productivity.Wetlands，2006,26(1）：1-12.  
+[11] Davis CA，BdwelJ.Responseofaquatic invertebrates tovegetatiomanagementandagricultureWetands，08,28（3）:7-805.  
+[12] Culer L E，Smith R F,Lamp W O.Weak relationships between environmental factors and invertebrate ommunities in constructed wetlands.Wetlands，2014，34(2):351-361.  
+[13] WuHT,GuaQ,Xaterail（lcaGstrod）eblagscatosfolocalodiioinfrsatesofNortheastern China.Ecological Indicators，2017,75：203-209.  
+[14] Guan Q，Wu HT,Lu KL，Lu X G，Batzer D P.Longitudinal ano alvariation ssemblages along a floodplain continuum.Hydrobiologia，2017，792(1）：345-356.  
+[15] PennakRW.Fresh-waterinvertebratesoftheunitedstates.JouralofquaticEcosystemStressandRecovery，955，7(1/）:16-26.  
+[16] 刘兴土，马学慧.三江平原自然环境变化与生态保育.北京；科学出版社，2002.  
+[17] 郎惠卿，赵魁义，陈克林.中国湿地植被.北京：科学出版社，1999.  
+[18] Batzer DP，ShurtleffAS，RaderRB.Smplingivertebratesinwelands//RaerRB，BatzerDP，WisingerSA，eds.BioaessmntndManagement of North American Freshwater Wetlands.New York : John Wileyand Sons,2001.  
+[19] BatzerDP,csC,oerecsofaalgoantsdeebatesisalleprlwdsofUA.Hydrobiologia，2000，441(1)：123-132.  
+[20] 刘月英，张文珍，王跃先，王恩义.中国经济动物志：淡水软体动物.北京：科学出版社，1979.  
+[21] 齐钟彦.中国动物图谱：软体动物(第四册).北京：科学出版社，1985.  
+[22] 段学花，王兆印，徐梦珍.底栖动物与河流生态评价.北京：清华大学出版社，2010.  
+[23] DufreneM,Ldeebadtesfoiblerroacolala967(3): 345-366.  
+[24] Clarke K R,Gorley R N. PRIMER v7: User Manual/Tutorial. Plymouth: PRIMER-E,2015.  
+[25] Boix D,Batzer D.Invertebra mblagesand their ecological controls across the world's freshwater wetlands//Batzer D，Boix D，eds.Invertebrates in Freshwater Wetlands. Cham： Springer International Publishing，2016.  
+[26] 刘保元.酸性水对淡水螺类存活、生长与繁殖的影响.应用生态学报，1993，4（3)：313-318.  
+[27] 蔡永久，姜加虎，张路，陈宇炜，龚志军.长江中下游湖群大型底栖动物群落结构及影响因素.生态学报，2013，33(16)：4985-4999.  
+[28] ValovE，Truchl M，StalmachovdBZaoralovM,CchkovaK.hecommunitisofwatermoluscaintheflodedsubsidencereservoisinupper Silesia//14th SGEMGeoConferenceon Ecology，Economics，EducationandLegisltion.Albena，Bulgaria；SGEM,2014.  
+[29] HolcombeGW，PhipsGL，MarierJW.Methodsforconductingsail（Aplexahyporum）embryothoughadultexposures：fectsofcadiumand reduced pH levels.Archives of Environmental Contamination and Toxicology，1984，13(5）:627-634.  
+[30] BaurB，RingeisB.Changesingstrodaemblsinfreshaterbitatsineviciityofasel（Switzerand）over87earsHdrobologia,2002, 479(1/3) : 1-10.  
+[31] 于海燕，李新正，李宝泉，王金宝，王洪法.胶州湾大型底栖动物生物多样性现状.生态学报，2006,26(2)：416-422.  
+[32] 杨泽华，童春富，陆健健.盐沼植物对大型底栖动物群落的影响.生态学报，2007，27（11)：4387-4393.  
+[33] 袁兴中，陆健健，刘红.河口盐沼植物对大型底栖动物群落的影响.生态学报，2002，22（3)：326-333.  
+[34] 杨青，刘吉平，吕宪国，李兆富，王毅勇.三江平原典型环型湿地土壤-植被-动物系统的结构及功能研究.生态学杂志，2004，23（4)：72-77.  
+[35] OrmerodJ，raIesridierteatesseaigteseao（573-582.

@@ -1,0 +1,217 @@
+[
+    {
+        "type": "text",
+        "text": "Opposite pressure effects in the orbitally-induced Peierls phase transition systems CuIr2S $^ 4$ and MgTi2O $4$ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Long Ma, $^ { 1 }$ Hui Han, $^ { 1 , 2 }$ Wei Liu, $^ { 1 , 2 }$ Kaishuai Yang, $^ 3$ Yuanyuan Zhu, $^ 4$ Changjin   \nZhang, $^ 1$ Li Pi, $^ { 1 , 5 }$ Dayong Liu,3,\\* Lei Zhang $^ { 1 , }$ t and Yuheng Zhang $^ { 1 , 5 }$   \nHigh Magnetic Field Laboratory， Chinese Academy of Sciences, Hefei 230031， China   \n（204号 $\\mathcal { Z }$ University of Science and Technology of China, Hefei 230026, China   \n$\\mathscr { S }$ Key Laboratory of Materials Physics， Institute of Solid State Physics,   \nChinese Academy of Sciences， Hefei 230031， China   \n4School of Arts and Sciences， Shanxi University   \nof Science and Technology， Xi'an 710021， China   \n（204号 $^ { 5 }$ Hefei National Laboratory for Physical Sciences at the Microscale,   \nUniversity of Science and Technology of China， Hefei 230026， China   \n(Dated: January 23, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The iso-spinel structural systems CuIr2S $^ 4$ and MgTi2O $_ 4$ exhibit phase transitions of the similar nature at $\\mathbf { \\zeta } ^ { \\prime \\sim }$ 230 K and $\\sim 2 6 0$ K respectively, which are explained as an orbitally-induced Peierls phase transition. However, in this work, we uncover that applied pressure has opposite pressure effects on the phase transitions in CuIr2S $^ 4$ and MgTi2O $_ 4$ . As pressure increases,the phase transition temperature ( ${ { T } _ { M I } }$ ） for CuIr2S $^ 4$ increases while that for MgTi2O $^ 4$ decreases. In addition, the phase transition intensity becomes weaker for CuIr2S $^ 4$ but gets stronger for MgTi2O $^ 4$ under pressure. Our results indicate that the applied pressure suppresses the metallic phase in CuIr2S $_ 4$ ，while enhances that in MgTi2O $_ 4$ . Combining the experimental observations with first-principle electronic structure calculations,we suggest that the opposite pressure effects in CuIrS $_ 4$ and MgTi2O $^ 4$ originate from the different orbital ordering configurations ( $ { d _ { x y } }$ $, d _ { y z } / d _ { x z } ,$ ）caused by different lattice distortions in these two systems. Our findings directly indicate that the interplay between the orbital and lattice degrees of freedom plays an important role in the orbitally-induced Peierls phase transition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:71.30.+h,71.45.Lr，72.80.Ga ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: orbitally-induced Peierls instability, pressure effect,metal-insulator phase transition ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The interplay between charge, orbital， spin， and lattice degrees of freedom results in complicated physical phenomena, among which the orbitally-driven dimensionality transformation in a three-dimensional network is very rare [1-5]. The prominent example is known as an orbitally-induced Peierls phase transition，which has been discovered in the iso-spinel structural materials CuIr2S $^ 4$ and MgTi2O $_ 4$ [6]. At room temperature,both systems have cubic unit cels belonging to space group $F d \\overline { { 3 } } m$ . Upon temperature decreasing, CuIr2S $^ 4$ exhibits a first order metal-insulator transition at $\\sim 2 3 0$ K,which is accompanied by a sharp decline of magnetism caused by spin-dimerization and emergence of an octamer ordering in the low temperature pseudo-tetragonal (strictly monoclinic) phase [7-10]. Similarly, MgTi2O undergoes a metal-insulator transition at $\\sim 2 6 0$ K,which is characteristic of $^ 4$ a sharp reduction of magnetism and appearance of a helical ordering in the low temperature tetragonal phase [11-13]. Both systems form a spin singlet state in the low temperature phases [14-17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D. I. Khomskii and T. Mizokawa proposed to explain these phase transitions as an orbitally-induced Peierls phase transition, where the anisotropic coupling of orbitals caused by the partially filled $t _ { 2 g }$ band along a certain direction gives rise to the orbitally-induced Peierls instability [18]. For CuIr2S4,the $5 d$ level of Ir ion is split by the crystal filed of IrS $_ 6$ octahedron into doublet $e _ { g }$ level with higher energy and triplet $t _ { 2 g }$ level with lower energy. Due to the band-Jahn-Teller effect, the coupling of $5 d _ { x y }$ orbitals of $\\mathrm { I r ^ { 4 + } }$ ions along the $x y$ direction leads to the dimerization of $\\mathrm { I r ^ { 4 + } { - } I r ^ { 4 + } }$ bonds along the [110] direction [19]. For MgTi2O $_ 4$ ，the $3 d$ level of Ti ion is split by the crystal filed of TiO $_ 6$ octahedron and band-Jahn-Teller effect. However, because of one electron per $\\mathrm { T i ^ { 3 + } }$ ion, the still degenerate （20 $3 d _ { x z }$ and $3 d _ { y z }$ levels are alternatively occupied. The coupling of alternative $3 d _ { x z }$ and $3 d _ { y z }$ orbitals of $\\mathrm { T i ^ { 3 + } }$ results in helical dimers with compressive Ti-Ti distances alternating with long bonds along the [0o1] direction [13]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It has been demonstrated that these orbitally-induced phase transitions are sensitive to   \nthe hydrostatic pressure $P$ [20, 21]. The transition temperature in CuIr2S increases as the $^ 4$   \npressure gets higher [22]. However, the pressure effect in MgTi2O $^ 4$ has not been reported   \nso far. In this work, through the modulation of lattice structures by hydrostatic pressure,   \nwe find that the orbitally-induced Peierls phase transitions in CuIr $_ 2$ S $_ 4$ and MgTi2O $^ 4$ have ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "opposite behaviors under pressure. The transition temperature of CuIrzS $^ 4$ shifts toward higher values as the pressure increases, while that of MgTi2O $^ 4$ toward lower values. Moreover,the transport behavior becomes more insulating as the pressure increases in CuIr $^ 2$ S $^ 4$ ， while it shows a metallic tendency in MgTi $^ { 1 2 }$ O $_ 4$ . Combining the experimental observations with first-principle calculations, we propose that the opposite pressure effects in CuIr $_ 2$ S $^ 4$ （204号 and MgTi2O $^ 4$ originate from different one-dimensional band-Jahn-Teller effects in these two systems. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. EXPERIMENT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A polycrystalline sample of CuIrzS $_ 4$ was prepared by the solid-state reaction method, and a polycrystalline sample of MgTi2O $^ 4$ was synthesized using the spark plasma sintering (SPS) method. Allthe sample preparation procedures were carried out in argon atmosphere. The preparation methods and the physical properties have been reported in details elsewhere [23, 24]. The resistivity measurements were performed using the conventional four-probe method with the temperature varied using a closed He-gas cycle refrigerator. For the hydrostatic high-pressure resistivity measurements, we used a clamp-type piston pressure cell and employed Daphne 7373 oil as the medium to transmit pressure with a high level of high homogeneity. To calibrate the pressures at room temperature，we used Cu $^ { \\cdot 2 }$ O powder as a manometer, whose nuclear quadrupole resonance frequency as a function of pressure has been determined very accurately [25]. The numerical calculations were performed by the full potential linearized augmented-plane-wave (FP-LAPW) scheme based on density functional theory (DFT) in the WIEN2K package [26]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures 1 (a) and (b) show the temperature dependence of resistivity $[ \\rho ( T ) ]$ for CuIrzS $^ 4$ （204号 and MgTi2O $^ 4$ under different pressures. Under ambient pressure, CuIr2S $^ 4$ exhibits a typical metal-insulator phase transition with temperature decreasing, as given in Fig. 1 (a). The value of resistivity undergoes a change of about three orders of magnitude at $\\sim ~ 2 3 0$ K from metallic state to insulating phase. The thermal hysteresis during cooling and heating indicates a first-order phase transition. As the pressure increases,the phase transition moves toward higher temperature direction,and the hysteresis area shrinks. This pressure induced tendency is consistent with the magnetization measurement [27] and other report [22]. Similarly, as the temperature decreases under ambient pressure,MgTi2O $^ 4$ displays a transition from metallic state to insulating phase with a change of two orders of magnitude in $\\rho ( T )$ at $\\sim 2 6 0$ K,as shown in Fig. 1 (b). The transition is also of first order as signified by a thermal hysteresis curve of $\\rho ( T )$ . The high temperature phase in MgTi2O $^ 4$ is still controversial. Zhou et al. suggested that MgTi2O $^ 4$ is a semiconductor above the transition temperature. However, this explanation is inconsistent with the Pauli paramagnetism in higher temperature regime [12]. Isobe et al. proposed that the high temperature phase is a metallic state, where the slow increase of $\\rho$ upon temperature decreasing is due to the grain boundary resistance [11]. In this paper, we roughly treat the first-order phase transitions in both systems as metal-insulator transitions,and define transition temperature as $T _ { M I }$ （204号 uniformly. In contrast to CuIr2S $^ 4$ ，Fig.1(b） shows that $T _ { M I }$ for MgTi $^ { \\ast 2 }$ O $_ 4$ shifts to lower temperature direction and the hysteresis area expands when the applied pressure increases. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To better understand the pressure effects on the phase transitions, Figs. 1 (c) and (d) present the temperature dependence of differential resistivity $[ d \\rho / d T ( T ) ]$ under different pressures for CuIr2S $^ 4$ and MgT $\\mathbf { \\boldsymbol { r } } _ { 2 }$ ○ $_ 4$ , respectively. There is a peak in each $d \\rho / d T ( T )$ curve, which is caused by the change of resistivity at $T _ { M I }$ . The height of the peak quantifies the intensity of the phase transition [22]. For CuIr $_ 2$ S $^ 4$ in Fig. 1 (c), the peak moves toward higher temperature direction and its height becomes smaller as the pressure increases. The reduction of the height suggests that the intensity of the phase transition is weakened by the pressure. For MgTi2O $^ 4$ in Fig. 1 (d), the peak shifts to lower temperature direction and its height gets larger as the pressure increases. The increase of the height implies that the phase transition is enhanced by the pressure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The transition temperature $T _ { M I }$ can be actually determined by the peak in $d \\rho / d T ( T )$ curve. Figures 2(a) and (b） plot $T _ { M I }$ as a function of pressure for CuIrzS $^ 4$ and MgTi2O $^ 4$ ， respectively. One can see that $T _ { M I }$ for CuIr2S $_ 4$ increases almost linearly with the applied pressure. The linear fitting of $T _ { M I }$ as a function of pressure has been performed using both the heating and cooling curves, where the value extracted from the heating (cooling) curve is denoted as $T _ { M I } ^ { H }$ （ $T _ { M I } ^ { C } ,$ ).For CuIr2S $^ 4$ ， $T _ { M I } ^ { H }$ increased with pressure at a speed of 21.32 K/GPa, while $T _ { M I } ^ { C }$ increases at 2.49 K/GPa. These results are consistent with previously reported values [22,27]. For MgTi2O $_ 4$ ， $T _ { M I }$ decreases linearly with the applied pressure, where $T _ { M I } ^ { H }$ （204号 decreases at a speed of 6.14 K/GPa and $T _ { M I } ^ { C }$ decreases at 6.20 K/GPa. Meanwhile, the width of the phase transition ( $\\Delta T$ )，which is defined as the peak-to-peak width in the $d \\rho / d T ( T )$ curves as illustrated in the inset of Fig. 1 (c),also qualifies the change of the phase transition with pressure. The pressure dependence of $\\Delta T$ for CuIrzS $_ 4$ and MgTi2O $_ 4$ are given in Figs. 2 (c) and (d) respectively (the lines are guided on eye). As the pressure increases, $\\Delta T$ decreases in CuIr2S $^ 4$ while it increases in MgTi2O $_ 4$ ， which corresponds to the shrinkage and expansion of the thermal hysteresis in CuIr2S $^ 4$ and MgTi $^ { - 2 }$ O $^ 4$ respectively. The shrinkage and expansion of the phase transitions also indicate that the phase transition is weakened in CuIrzS $^ 4$ while it is enhanced in MgTi2O $^ 4$ as the pressure increases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The opposite pressure effcts can also be understood by examining how the metallic phases change as quantified by the resistivity values, i.e. suppression and expansion of the metalic phase. Figure 3 shows the resistivity values as a function of pressure at 40 K ( $\\rho$ @40K) in the insulating phases for CuIr2S $^ 4$ (left axis) and MgTi $^ { - 2 }$ O $^ 4$ (right axis), respectively. The values of $\\rho$ at 40 K for CuIrzS $^ 4$ increase with pressure increasing, indicating the suppression of the metallic phase [28]. Nevertheless, those for MgTi $^ { - 2 }$ O $^ 4$ decrease with pressure increasing, suggesting the enhancement of the metallic state. These results clearly demonstrate that the applied hydrostatic pressure has opposite efects on the transport behaviors of CuIr2S $_ 4$ （20 and MgTi2O $_ 4$ . For CuIr $_ 2$ S $^ 4$ , the pressure suppresses the metallic phase. Thus, the shrinkage of the metallic phase results in the increase of $T _ { M I }$ and the weakening of phase transition intensity. Contrarily, for MgTi2O $^ 4$ , the pressure enhances the metallic phase. Therefore, the expansion of the metallic phase leads to the decrease of $T _ { M I }$ and the enhancement of phase transition intensity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the phase transitions in CuIrzS $^ 4$ and MgTi2O $^ 4$ are explained under a common framework of an orbitally-induced Peierls phase transition mechanism， our experimental results unambiguously demonstrate that the applied pressure has opposite efects on the transport behavior in these two systems. In fact,it has been noticed that there are some differences for the lattice distortions in these two systems. Experiments have demonstrated that the lattice structures change differently in these two systems when the phase transitions occur. In the low temperature insulating phase, the lattice constant $c / a = 1 . 0 3 3 > 1$ for CuIr2S $^ 4$ [8]，while that $c / a = 0 . 9 9 7 < 1$ forMgTi $^ { - 2 }$ O $^ 4$ [13].In other words,the $c$ -axisis elongated in CuIrzS $^ 4$ while it is compressed in MgTi2O $^ 4$ when phase transitions occur. It is well known that the Peierls phase transition typically only occurs in one-dimensional metallic chain due to the special one-dimensional band structure [29]. If a Peierls-like phase transition occurs in a three-dimensional material, a quasi-one-dimensional band structure should be expected in the system. For the spinel structure AB $\\mathrm { _ { 2 } X _ { 4 } }$ ， the crystal field $\\Delta _ { C F }$ （204号 generated by the BX octahedron splits the $d$ band into doublet sub-band with higher $_ 6$ $e _ { g }$ energy and triplet $t _ { 2 g }$ sub-band with lower-energy, as shown in Fig. 4. In the present cases of CuIr2S $^ 4$ and MgTi2O $_ 4$ ， the partial filled $t _ { 2 g }$ sub-bands (including degenerate $x y$ ， $y z$ ，and （204号 $z x$ ）paly key roles in the phase transitions. However, only crystal field alone cannot give the desired quasi-one-dimensional band structure because the $x y$ ， $y z$ ，and $z x$ levels of the $t _ { 2 g }$ sub-band are still degenerate. For the partial-filled triplet $t _ { 2 g }$ sub-band, the energy levels are further split through the elongation or compression of the lattice, which is known as the Jahn-Teller effect. The Jahn-Teller effect further splits and broadens the $t _ { 2 g }$ sub-band,which give rise to the required quasi-one-dimensional band structure [18]. The anisotropic orbital coupling is finally caused by the quasi-one-dimensional band originating from the JahnTeller efect, which leads to the orbitally-dependent hopping of electrons as encapsulated by the Kugel-Khomskii (KK) model [30-32]. In CuIr2S $^ 4$ , due to the elongation of lattice along the $c$ -axis caused by the Jahn-Teller effect, $y z$ and $x z$ levels of Ir- $t _ { 2 g }$ sub-band are lowered. Considering $5 d ^ { 5 }$ electronic configuration of $\\mathrm { I r ^ { 4 + } }$ ion, $y z$ and $x z$ levels are fully-filled and $x y$ （204号 level is half-filled,as shown in the bottom panel of Fig. 4(a). A strong orbital anisotropy is formed along the orbital lobe direction caused by the xy level, $i$ ： $e$ . the xy (or [110]) direction as given in the middle panel of Fig. 4 (a). The anisotropic orbital coupling results in the orbitally-driven Peierls instability. In MgTi2O $^ 4$ ， due to the compression of lattice along the （204号 $c$ -axis caused by the Jahn-Teller effect, the $x z$ and $y z$ levels are lowered,as shown in the bottom panel of Fig. 4 (b). However, in view of $3 d ^ { 1 }$ electronic configuration of $\\mathrm { T i ^ { 3 + } }$ ion, the degenerate $y z$ and $x z$ levels are occupied alternatively, resulting in the coupling along the alternative $x z$ and $y z$ directions ( $i$ ： $e$ . the chiral bonds along [Oo1] direction)，as shown in the middle panel of Fig. 4(b). The coupling along two directions ( $x z$ and $y z$ ）inMgT $^ { 1 2 }$ O $^ 4$ （204号 is more complex than that in CuIr2S $_ 4$ ， however, still quasi-one-dimensional band structure is formed,as shown in the bottom panel of Fig. 4 (b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The quasi-one-dimensional band structure also helps us to understand the opposite pressure effects in CuIr $2$ S $^ 4$ and MgTi2O $_ 4$ . The Jahn-Tell effect in low temperature phase implies that the phase transition would be directly influenced by the compression or expansion of the lattice. For CuIrzS $_ 4$ ， applying pressure suppresses the elongation tendency along the （204号 $c$ -axis,resulting in the suppression of the metallic phase. The shrinkage of the metallic phase in CuIr $_ 2$ S $^ 4$ results in the increase of $T _ { M I }$ , the weakening of the phase transition intensity, and the decrease of the resistivity values. Contrarily, for MgTi2O $^ 4$ ， applying pressure improves the compressive tendency of $c$ -axis，which causes the expansion of the metallic phase. The enhancement of the metallic phase in MgT $^ { 1 2 }$ ○ $^ 4$ leads to the decrease of $T _ { M I }$ ， the increase of the phase transition intensity， and the decrease of the resistivity values. This scenario is confirmed by the first-principle electronic structure calculations [26]. For revealing the influence of pressure effect more clearly, electronic structure calculations are performed using $P = 4$ GPa. Figures 5 (a) and (b) shows the total density of states (tDOS) of low-temperature phases under ambient and high pressure for CuIr $_ 2$ S $_ 4$ and MgTi2O $^ 4$ ，respectively. For CuIrzS $^ 4$ ， part of the occupied states become unoccupied under pressure so that the tDOS around Fermi level decreases [see the inset of Fig. 5 (a)]. As the physical properties of a material are dominantly determined by the electronic properties around Fermi level, the reduction of the tDOS indicates that the system becomes more insulating under high pressure,which results in the increase of resistivity as observed in experiment. ForMgTi $^ { \\cdot 2 }$ O $_ 4$ ， part of the unoccupied states become occupied under pressure [see the inset of Fig. 5 (b)],which is opposite to that in CuIr2S $^ 4$ . Therefore, the system exhibits the enhancement of metalic tendency under pressure,which is consistent with the experimental observations. To better understand the pressure effects on the electronic properties,we plot the atomically-resolved DOS in the low temperature phase for CuIr $_ 2$ S $^ 4$ and MgTi $^ { - 2 }$ O $^ 4$ in Fig. 5 (c) and (d),respectively. From Fig. 5 (c), it can be seen that the decreased tDOS in CuIr2S $^ 4$ is mainly due to the Ir ions. The S ions also have some contributions because of the hybridization between the S- $3 p$ and Ir- $5 d$ orbitals. From Fig. 5(d)，it is found that the increased tDOS is mainly due to the Ti ions, whereas the contribution from O or Mg is negligible,indicating the hybridization between Ti- $3 d$ and O- $2 p$ orbitals is rather weak. To summarize, the opposite behaviors under pressure in CuIr2S $^ 4$ and MgT $^ { 1 2 }$ O $^ 4$ are due to the different orbital ordering configurations ( $x y$ and $x z / y z$ orbital ordering) caused by the elongated and compressed tetragonal distortions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The orbitally-induced Peierls phase transition occurs in a three-dimensional network when a quasi-one-dimensional band structure emerges due to the interplay between the charge, spin,orbital,and lattice degreee of freedom. This kind of dimensionality reduction phenomena is quite rare. In additional to the typical CuIr2S $^ 4$ and MgTi $^ { - 2 }$ O $_ 4$ studied here, the layered ruthenate La $^ { 1 4 }$ Ru2O $^ { 1 0 }$ and pyrochlore Tl2Ru2O $^ 7$ exhibit similar transitions [1, 2]. For La4Ru2O $_ { 1 0 }$ , it has been found that $b > a$ or $c$ in low temperature phase,and spin-singlet formed by two $S = 1$ moments of $\\mathrm { R u ^ { 4 + } }$ ions [2, 33]. This suggests that La $^ { , 4 }$ Ru $^ { 2 }$ O $_ { 1 0 }$ should have similar pressure effect as that in CuIrzS $^ 4$ . The situation in Tl $^ { 2 }$ Ru $^ { 2 }$ O $^ 7$ is much more complicated [3]. It has been modeled as a one-dimensional zig-zag Haldane antiferromagnetic chain but not an orbitally-induced Peierls phase transition [3]. The $S = 1 / 2$ spin moments of $\\mathrm { R u ^ { 4 + } }$ ions do not form a spin-singlet but exhibit an antiferromagnetic order. The zig-zag ordering structure would lead to much more complicated pressure effect in Tl2Ru $_ 2$ O $^ 7$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary， we find that hydrostatic pressure have opposite effects on the orbitallyinduced Peierls phase transitions in CuIrzS $^ 4$ and MgTi2O $^ 4$ .For CuIr2S $^ 4$ ，the transition temperature ${ \\mathit { T } } _ { M I } $ increases under applied pressure and the phase intensity gets weaker. In contrast, for MgTi2O $_ 4$ ， $T _ { M I }$ decreases as the pressure increases and the transition intensity becomes stronger. These observations demonstrate that the applied pressure suppresses the metallic phase in CuIr2S $^ 4$ while it enhances that in MgTi2O $_ 4$ . Based on the first-principle electronic structure calculations, we suggest that these differences originate from the different one-dimensional band-Jahn-Teller effects $( x y , y z / x z )$ caused by different tetragonal lattice distortions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "V. ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (Grant Nos. 11574322， U1332140,11574315,11504377, and 11574288)，the State Key Project of Fundamental Research of China through Grant No. 2011CBA00111,and the Foundation for Users with Potential of Hefei Science Center (CAS) through Grant No. 2015HSC-UP001. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] H. Wu, Z. Hu, T. Burnus, J. D. Denlinger, P. G. Khalifah, D.G. Mandrus, L. Y. Jang, H. H. Hsieh,A. Tanaka, K. S. Liang, J.W. Allen, R. J. Cava, D. I. Khomski, L. H. Tjeng, Phys. Rev. Lett. 96,256402 (2006).   \n[3] S. Lee,J. G.Park, D. T. Adroja, D. Khomskii, S. Streltsov, K. A. Mcewen, H. Sakai, K. Yoshimura, V. I. Anisimov, D. Mori, R. Kanno, R. Ibberson, Nat. Mater. 5,471 (2006). [4] M. Croft, V. Kiryukhin, Y. Horibe, S. W. Cheong, New J. Phys. 9,86 (2007).   \n[5] S.H. Baek, D.V. Efremov, J. M. Ok,J. S.Kim,J. Brink,B.Buchner,Nat. Mater.14, 210 (2015).   \n[6] P.G. Radeali, New J. Phys. 7, 53 (2005).   \n[7] S. Nagata, T. Hagino, Y. Seki, T. Bitoh, Physica B 194-196,1077 (1994).   \n[8] T. Furubayashi, T. Matsumoto, T. Hagino, S. Nagata, J. Phys. Soc. Jpn. 63, 3333 (1994).   \n[9] P.G. Radaelli, Y. Horibe, M. J. Gutmann, H. Ishibashi, C. H. Chen,R. M. Ibberson， Y. Koyama, Y. S. Hor, V. Kiryukhin, S. W. Cheong, Nature (London) 416,155 (2002).   \n[10] H. Ishibashi, T. Sakai, K. Nakahigashi, J. Magn. Magn. Mater. 226-230,233 (2001).   \n[11] M. Isobe and Y. Ueda, J. Phys. Soc. Jpn. 71, 1848 (2002).   \n[12] H. D. Zhou and J. B. Goodenough, Phys. Rev. B 72, 045118 (2005).   \n[13] M. Schmidt, W. Ratcliff, P. G. Radaelli, K. Refson, N. M. Harrison, S. W. Cheong, Phys. Rev. Lett. 92,056402 (2004).   \n[14] K. Takubo, S. Hirata, J. Y. Son, J.W. Quilty, T. Mizokawa, N. Matsumoto, S. Nagata, Phys. Rev. Lett.95, 246401 (2005).   \n[15] N. L. Wang, G. H. Cao, P. Zheng, G. Li, Z. Fang, T. Xiang, H. Kitazawa, T. Matsumoto, Phys. Rev. B 69,153104 (2004).   \n[16] J. Zhou, G. Li, J. L. Luo, Y. C. Ma, D. Wu, B. P. Zhu, Z. Tang, J. Shi, N. L. Wang, Phys. Rev. B 74, 245102 (2006).   \n[17] In fact, there is competition between the spin-singlet state and a quadrupolar state in CuIr2S $^ 4$ ： The former singlet state is a conventional one, adiabatically connected to the orbital Peierls state.The latter quadrupolar state is stabilized by the additional interaction, which consists of a linear combination of different total spin momenta along the spin quantization axis [see K. M. Kojima, R. Kadono, M. Miyazaki, M. Hiraishi, I. Yamauchi, A. Koda, Y. Tsuchiya, H. S. Suzuki, H. Kitazawa, Phys. Rev. Lett. 112, 087203 (2014) and J. Nasu and Y. Motome, Phys. Rev. B 90, 045102 (2014).   \n[18] D.I. Khomskii and T.Mizokawa, Phys. Rev. Lett. 94,156402 (2005).   \n[19] M. Croft,W. Caliebe, H. Woo, T. Tyson, D. Sills,Y. S. Hor, S. W. Cheong,V. Kirykukhin, S. J. Oh,, Phys. Rev. B 67,201102 (2003).   \n[20] G. H. Cao, T. Naka, H. Kitazawa, M. Isobe, T. Matsumoto, Phys. Lett. A 307,166-171 (2003).   \n[21] G. H. Cao, T. Furubayashi, H. Suzuki, H. Kitazawa, T. Matsumoto, Y. Uwatoko, Phys. Rev. B 64,214514 (2001).   \n[22] G. Oomi, T. Kagayama, I. Yoshida, T. Hagina, S. Nagata, J. Magn. Magn. Mater. 140-144, 157 (1995).   \n[23] L. Zhang,L. S.Ling, Z. Qu, C. J. Zhang, S. Tan, Y. H. Zhang, Europhys. Lett. 94,37003 (2011).   \n[24] Y. Y. Zhu, R. J. Wang, L. Wang, Y. Liu, R. Xiong, J. Shi, Appl. Magn. Reson. 46,505 (2015).   \n[25] A.P. Reyes, E. T. Ahrens, R. H. Heffner, P.C. Hammel, and J. D. Thompson, Rev. Sci. Instrum.63,3120 (1992).   \n[26] See the supplementary material for the details of electronic structure calculation.   \n[27] L. Zhang, L. Ling, Z. Qu, W. Tong, S. Tan and Y. Zhang, Eru. Phys. J. B 77, 83 (2010).   \n[28] A.B. Garg, V. Vijayakumar, B. K. Godwal, A. Choudhury, H. D. Hochheimer,Solid State Commun. 142,369-372 (2007).   \n[29] R. E. Peierls, Quantum Therory of Solids, Oxford Univ. Press (1955).   \n[30] K. I. Kugel and D. I. Khomskii, Sov. Phys. JETP 37, 725 (1973).   \n[31] K. I. Kugel and D. I. Khomskii, Sov. Phys. Solid State 17, 285 (1975).   \n[32] K.I. Kugel and D. I. Khomskii, Sov. Phys. Usp. 25,231 (1982).   \n[33] S. J. Moon, W. S. Choi, S. J. Kim, Y. S. Lee, P.G. Khalifah, D. Mandrus, T.W. Noh, Phys. Rev. Lett.100,116404 (2008). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/abfda25c916624736268dd426f2da8edc1daff17d8e8e36a92ba191322095cf2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FIG.1:(Color online） Temperature dependence of resistivity $[ \\rho ( T ) ]$ under different pressures for (a) CuIrzS4 and (b) MgTi2O $^ 4$ [the inset of (b) shows the magnification of the phase transition for MgTi2O4]; temperature dependence of differential resistivity $[ d \\rho / d T ( T ) ]$ under different pressures for (c) CuIrzS $_ 4$ and (d) MgTi2O $^ 4$ [the inset of (c) shows the definition of $\\Delta T$ ] ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d53b6ff56c036fb8e9c46fb6591ffbf35425a07a91f564d437ced87e0bbc49c3.jpg",
+        "img_caption": [
+            "FIG. 2: (Color online) The transition temperature $T _ { M I }$ as a function of pressure for (a) CuIr2S $_ 4$ （20 and (b) MgTi2O $^ 4$ (the solid lines are fited); the pressure dependence of the phase transition width （ $\\Delta T$ ） for(c) CuIr2S and (d) MgTi2O (the lines are guided on eye). $^ 4$ $^ 4$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/140eecbfff4bedfefe8e645c12d4d3113607256166c28f45dde01dfb9d8dd288.jpg",
+        "img_caption": [
+            "FIG. 3:(Color online） The resistivity of CuIr2S $^ 4$ (right axis) and MgTi2O $_ 4$ (left axis） at 40K$\\rho$ @40K） as a function of pressure."
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/01597fe5382d3d538658887c18f9c603052d810620de08d960f1efde3e50da87.jpg",
+        "img_caption": [
+            "FIG.4:(Color online） The diagrammatic sketch for the formation of the quasi-one-dimensional bands for (a) CuIrzS $^ 4$ （left）and（b） MgTi2O $^ 4$ (right） (the top panels illustrate the distorted octahedron of IrS $^ 6$ and TiO $_ 6$ ， the middle ones show the orbital overlap directions,and the bottom ones display the one-dimensional band structures). "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/23e32df36d0aff96bb012250ce5d7d74053299463504ea2e755c9e7196c65c02.jpg",
+        "img_caption": [
+            "FIG. 5: (Color online) Total density of states (tDOS) in low temperature phases for (a) CuIr2S4 and(b） MgTi2O $^ 4$ ； atomically-resolved DOS in low-temperature phase for (c) CuIr2S4 and (d) MgTi2O $_ 4$ (the insets gives the magnification of the density of states around Fermi level). "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    }
+]

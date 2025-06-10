@@ -1,0 +1,247 @@
+# 移动边缘计算中基于中继辅助计算方法综述
+
+陈澈1,²，郑艺峰1,²，杨敬民1,，谢玲富4，张文杰1,2\*(1．闽南师范大学 计算机学院，福建 漳州 36300;2.数据科学与智能应用福建省高校重点实验室，福建 漳州363000;3．台北科技大学 电子工程系，台北 106344;4.宁波大学 电气工程与计算机科学系，浙江 宁波 315211)
+
+摘要：为了满足下一代网络在覆盖范围、部署成本以及容量方面的挑战，移动边缘计算(MEC)通常需要借助中继节点的辅助来完成计算密集型和延迟敏感型的任务。首先介绍了基于中继辅助 MEC 系统的基本架构，之后从任务卸载、资源分配和中继节点选择三方面对基于中继辅助 MEC 系统最新的研究方法进行归纳总结。更进一步，针对现有方法可能存在的问题与挑战进行了讨论与分析，并提出一些可行的解决方案为后续研究发展提供参考。
+
+关键词：移动边缘计算；中继辅助；资源分配；任务卸载；中继选择 中图分类号：TP3 doi:10.19734/j.issn.1001-3695.2021.12.0699
+
+Survey on relay-assisted computing methods in mobile edge computing
+
+Chen Che1,2, Zheng Yifeng1,2, Yang Jingmin1,3, Xie Lingfu4, Zhang Wenjie1, 2† (1.CollegeofComputer Science,MinnanNormalUniversityZhangzhouFujian3630,China;2.KeyLaboratoryofData Science&IntelligenceApicationFujianrovinceUniversityZngzhouujan63oo,hina;3.Collgeofletoc Engineering,Taipei UniversityofTechnologyTaipeil06344,China;4CollgeofElectricalEngineering&Computer Science,Ningbo University,Ningbo Zhejiang 315211, China)
+
+Abstract: Inorder to met the challenging requirementsofnext generation networks in terms ofcapacity,deploymentcost and coverage,Mobile Edge Computing (MEC)is usually necessary to complete the latency-sensitive and computationintensive task with the assistance ofrelay nodes.This paper first introduces the basic architecture ofrelay-asisted MEC system,and then summarizes the up-to-date research methods of relay- assisted MEC system from three aspects: task ofloading,resourceallocationandrelayselection.Furthermore,thepossibleproblemsandchallengesoftheexistingmethods are discussed and analyzed,and some feasible solutions are put forward to provide reference for follw-up research and development.
+
+Key words: mobile edge computing; relay-assisted; resource allocation; task offloading; relay selection
+
+# 0 引言
+
+近些年来，随着物联网和5G通信技术的迅速发展和普及，各种终端设备数量呈指数增长，其应用场景对时延和设备能耗提出了更高的要求，同时也给通信网络和计算资源管理带来了巨大的挑战[1，例如智慧医疗、自动驾驶、增强现实(AR)等。当前大多数移动终端设备体积小、计算能力不足、资源存储和电池容量有限，已无法满足新型应用对高算力的需求，进而严重影响了设备终端的性能和用户体验。为解决上述问题，云计算技术将数据计算能力、存储以及网络管理集中在云端，主要涉及数据中心、骨干IP网络和蜂窝核心网络[2.3],其允许设备将本地应用上传至云端进行计算，不仅缩短了任务执行延迟，同时减少了本地执行任务的能耗。然而，云计算的不足之处在于：当设备终端与中心云网络传播距离较长时，数据在链路传输过程中，会产生较长的通信延迟，并且传输过程发生中断的概率也会增加，无法满足一些敏感型业务(例如智能驾驶、增强现实)在时延和可靠性等方面的要求。因此，移动边缘计算(MobileEdgeComputing,MEC)的概念被业界所提出[4]。
+
+目前，移动边缘计算已成为5G网络发展的关键技术之一。不同于传统的云计算，移动边缘计算将服务器部署在更靠近设备终端的网络边缘节点，将业务本地化，其优势主要体现在低时延、低功耗和高能效。移动边缘计算可以在一定程度上改善网络性能，但是仍然存在边缘节点资源有限、通信距离与信号发射功率强度不匹配、未能充分利用空闲服务器等问题。为了充分利用网络资源，协作通信被视为有效的解决方案之一。依据协作通信方案设计，研究人员提出基于中继辅助的移动边缘计算系统[5]。该系统可分为源子系统、中继子系统和目的子系统三个部分，中继通过共享资源，使源节点和目标节点间接通信。不同于传统的MEC系统，基于中继辅助的MEC系统不仅能够有效地增加无线网络的接入能力和拓展覆盖范围，而且能充分利用空闲服务器的资源，提高网络能源效率，支持计算密集型和延迟敏感型应用程序，从而将资源有限的移动设备从这些任务中解放出来。例如，在VR游戏中，用户A和用户B需要完成特定的计算任务来赢得游戏，任何用户所采取的行动的必然会影响游戏的最终。为此用户A和用户B之间需要借助中继辅助MEC系统共享计算结果。为了充分利用边缘端闲置的资源，提高系统的覆盖率和计算力，国内外学者对基于中继辅助的MEC系统展开深入的研究，研究方向主要涉及计算任务卸载、资源分配以及中继选择等。计算任务卸载和资源分配主要解决用户端到中继之间，以及中继到目的地之间如何进行卸载、何时卸载和卸载任务量大小等问题[6]。许多研究者针对物联网(InternetofThings,IoT)中的资源调度，拍卖等问题展开进一步的探索。例如，在文献[7]中，一个多目标分布式调度模型被提出，并通过一种正弦函数的多目标智能算法来实解决该模型，为IoT中数据处理提供了新的想法。在文献[8]中，Cui等提出了一种考虑稀疏性和连通性的子空间聚类后处理策略，实验证明了该策略在IoT中的有效性并可以提高聚类精度。在文献[9]中，Zi等提出了一种用于快速调度的轻量级启发式解决方案，能够通过任务调度，显著减少移动边缘网络的任务执行延迟。在文献[10]中，MEC与设备之间资源管理问题被建模为一个双拍卖博弈的过程，通过引入参与者的经验加权值，来实现纳什均衡。中继节点的选择会影响协作通信系统中的能耗、时延、吞吐量以及传输中断概率等性能，是值得关注的研究问题之一。通过中继协作不仅可以有效地利用系统内空闲资源，还有助于提高网络通信的性能。目前在MEC基本知识原理、技术发展和应用方面，已有不少综述文章，但在基于中继辅助领域，这方面的综述文章还比较少。本文对基于中继辅助的MEC系统的关键研究问题进行详细的归纳概括，包括任务卸载、资源分配和中继节点选择，讨论和分析了现有方法的优势和不足之处，并对现存工作尚未解决的几个挑战进行展望。
+
+本文首先对MEC的基本概念和基于中继辅助的MEC系统进行详细的归纳概括；其次，分别从任务卸载、资源分配、中继选择三个方面对基于中继辅助的 MEC系统最新的研究方法进行归纳总结，讨论了现有方法中存在的不足和挑战，进一步提出一些潜在可行的解决方案为后续研究发展提供参考依据。
+
+# 1 基于中继辅助的MEC系统
+
+本节主要阐述MEC的基本概念和系统框架，之后详细介绍基于中继辅助的MEC系统模型。
+
+# 1.1传统MEC框架
+
+MEC被视为运行在边缘网络处的小型云服务平台，将原本位于云中心的计算服务下放至网络边缘节点，不仅能减少网络操作和降低通信损耗，还有助于提升用户服务质量。其结构可分为设备终端、边缘端和核心云端三个部分[11,12]，如图1所示。以下将分别对这三个部分进行详细的阐述。
+
+![](images/bed6414cf106c47c273983110341c9c0fa7b21d25ccb801537100b64457fc84c.jpg)  
+图1MEC架构图Fig.1Mec frame
+
+设备终端：终端设备(如手机、笔记本电脑等)被部署在边缘计算环境下。边缘计算环境可为用户提供更多的交互通信和响应能力。随着海量新型应用的涌现，边缘计算环境下的大量终端设备需要为新型应用提供高效和实时的计算服务。
+
+然而，大多数应用计算任务量大、时延要求低，现有设备终端已无法满足应用需求。因此，终端设备必须将计算任务卸载至边缘服务器。
+
+边缘端：边缘服务器部署在网络边缘为用户提供近距离、低时延、低功耗和高能效的服务，可进一步提高网络性能。边缘服务器可以响应许多用户服务请求，例如数据缓存、计算任务卸载和数据转发等。因此在边缘计算环境中，大部分用户将任务迁移至边缘端完成，不仅能降低传输时延，还能大幅度提高设备性能，满足用户需求。
+
+核心云端：核心云服务器能够为海量数据处理提供充足的计算力和数据存储能力。例如，云服务器可以提供海量并行数据处理、机器学习、数据挖掘和深度学习等服务。然而由于条件限制，云服务器通常布置在较远的地方，因此在传输链路中会消耗大量的能量，产生较大的时延。
+
+在5G通信网络中，边缘设备的部署更加密集，使得用户与边缘服务器距离更近，有效降低任务卸载的信道损耗。由于边缘节点(包括基站、笔记本电脑、平板和手机等)需求不同，每个时间段内都会有部分的设备处于空闲状态，同时也会有部分设备计算任务超负荷，因此，MEC系统需要提高资源的利用率，满足数据优化、敏捷联接、应用智能、实时服务等方面的重要需求。MEC服务器通常由云和电信运营商部署的靠近用户端的小型网络中心组成，通过网关与云中心进行连接。尽管其计算能力低于云中心服务器，但其优势在于与用户距离较近，有助于提供更低延迟以及更便捷的服务。
+
+# 1.2基于中继辅助MEC系统
+
+现如今，传统的MEC已经得到了广泛的研究并取得很多相关的成果。由于MEC将计算存储能力和业务服务能力下放至网络边缘，在用户数量变大，计算任务过重时，边缘节点可能会负载过重，无法完成大规模的数据传输和计算，使得MEC中的低时延和高能耗问题无法得到实质性的解决。特别是在5G和物联网时代，移动应用的数据是不断更新和产生，这些数据的传输和处理急需大量的资源。另一方面，5G网络是由大量具有计算和通信资源的无线设备组成，每个设备很可能被一些具有未使用的或额外的资源的设备包围。因此如何充分利用这些空闲设备的资源是解决5G和物联网时代，用户数量过多，计算任务过重和边缘节点负载过大的有效途径。此外，有些用户可能距离边缘服务器较远，不在服务器的覆盖范围。为了使远程用户能够利用MEC服务器的计算资源，应该选择一个中继节点来完成计算任务的传输。因此，基于中继辅助的任务卸载技术开始受到学者的广泛关注，其主要由三个部分组成[13,14]，源节点、中继节点以及远端节点，如图2所示。蓝色实线表明大多数用户依靠中继器的中继转发功能将任务分配至远端进行处理，红色虚线表明空闲的移动设备也可以充当中继节点进行任务转发，黄色点线条表明通信基站繁忙时，也可以作为中继节点向远端基站请求协助。针对源节点、中继节点以及远端节点的描述分别为如下。
+
+源节点：由设备终端构成，负责将本身的计算任务上传至中继节点或远端节点进行处理。
+
+中继节点：空闲设备终端、中继器、边缘服务器等均可作为中继节点进行数据转发和计算。由于计算资源有限，中继节点不能为其范围内的所有设备提供无止境的计算服务，需进一步将额外任务卸载到与其相连的服务器上执行。
+
+远端节点：与中继节点协作为终端设备提供计算服务，但因为距离终端设备较远，二者之间没有直连通道，需要通过中继节点的转发。
+
+传统的MEC方案无法直接适用于一些距离较远或信号干扰较大的环境中，需要通过中继节点的辅助来完成[15]。相比传统的MEC，基于中继辅助的MEC系统可提供协作通信和计算服务，能够减轻近端服务器的负荷，提高远端服务器的资源利用率。基于中继辅助的MEC系统通过中继节点进行协作通信和计算，不仅能够扩大通信范围，减少信号传输干扰，降低信号中断发生的概率，还可在近端资源受限的情况下，将任务卸载至远端空闲的服务器，有效提高MEC 环境中的能量效率。
+
+最简单中继辅助MEC系统包含三个节点：一个用户节点、一个中继节点和远端节点。在该场景下，只需要考虑功率分配，计算任务量大小等卸载问题。而在实际场景中，MEC系统通常存在多用户和多中继节点，这给中继选择和任务卸载带来很大的挑战。研究表明，在一个多中继节点的系统中，选择一个最佳中继节点进行数据传输，与选择多个中继节点进行传输，都能够获得分集增益，提高系统性能[16]。根据获取信道状态以及备选中继节点的计算能力和转发能力，传统的中继选择主要分为部分中继选择和机会中继选择。前者通过获取源节点到中继节点的局部信道信息。后者则是利用源节点到中继节点、中继节点到远端节点的全局信道信息来进行中继选择。相比后者，前者的方案结果无法达到全局最优，但是其复杂度较低。考虑到在MEC环境中存在大量用户的情况，由于用户距离较远，容易导致设备到设备(D2D)之间的通信存在严重的信号传输干扰[17]。此外，由于资源有限，用户需求多样性，当多个用户选择同一个中继节点时，用户之间存在竞争关系。因此，如何根据中继节点的资源、MEC的网络环境、终端的卸载请求以及资源的情况，合理分配资源，执行任务卸载，以提高资源利用率，以尽量满足更多用户的需求，将是基于中继辅助MEC系统的所面临的重大挑战。接下来本文将围绕资源分配、任务卸载和中继选择这三个方面，对基于中继辅助MEC系统的研究方法进行详细展开。
+
+![](images/6f5ef90aa26b759b8d840d96ba7a8fd0ac63586807de8047903b05e45dabaa49.jpg)  
+图2中继辅助MEC架构图  
+Fig.2Relay-assisted MEC frame
+
+# 2 基于中继辅助的任务卸载
+
+任务卸载作为MEC中的关键技术之一，将计算任务传输至边缘服务节点上执行，从而达到缓解计算以及延长设备电池寿命的目的。在MEC中，任务卸载主要分为完全卸载和部分卸载[5]。通过完全卸载，移动设备上的计算任务将整体卸载到边缘服务器上计算，或者直接在本地设备上执行。通过部分卸载，计算任务可以划分为多个不同的部分，分别在边缘服务器上计算和本地计算。在文献[18]中，一种低复杂度算法被提出，用于解决延迟约束下的完全卸载问题。在文献[19]中，Sun等人以最大化具有加权因子的用户计算效率和为目标，使用迭代和梯度下降法来权衡本地计算和任务卸载。由于完全卸载计算任务不可分割，相比之下，部分卸载更适合并行处理任务。在文献[20]中，一种基于半定松弛的算法用于解决部分卸载决策问题，能够有效降低卸载能耗和时延。在文献[21]中，一种基于深度强化学习的自适应计算卸载方法被提出，可以有效避免在时变的环境中，动作空间复杂度过高的困扰，并且有效的学习到最优策略。在基于中继辅助的 MEC系统中，任务卸载更具灵活性。每个任务都可以在本地进行处理，或者卸载到中继节点执行，或者经中继节点转发卸载到远端节点上执行。如图3所示，子图(a)表示用户本地执行任务，子图(b)表示用户将计算量级小的任务卸载到邻近的中继节点处理，子图(c)表示用户通过中继节点将计算量级大的任务卸载到远端的服务器执行。不同的卸载决策会产生不同的传输延迟、能量损耗。例如，任务本地处理虽无传输延迟，但可能会导致更高的任务执行时间和能耗；而将任务卸载到邻近边缘服务器或者远端服务器可在一定程度上降低任务的执行迟延和能耗，但不可避免地导致额外的传输延迟。因此，如何作出合理的卸载决策，将计算任务卸载至边缘节点，已成为 MEC的重要研究方向之一，在缩短任务时延和提升能量效率方面具有非常重大的研究意义。
+
+![](images/6c39fdd32f6b60547f8915d442d92b9bb437a6bcd7d38f8f61a62589c897e3ea.jpg)  
+图3任务卸载 Fig.3Task offloading
+
+在MEC系统中引入中继节点后，用户可利用中继节点处理计算任务，使得用户的任务卸载决策具有更高的，吸引了很多学者研究。现阶段，已有的基于中继辅助的任务卸载方法中，主要以最小化时延或者能耗为优化指标，因此以性能为分类标准，可以将用户的任务卸载方法分为以下三种：时延最小化卸载方法、能耗最小化卸载方法、以及多目标优化卸载方法，如表1所示。
+
+时延最小化卸载方法：现今众多大型应用均具有超低延迟要求，例如：视频监控、智慧交通等，因此，最小化任务执行时延一直以来都是MEC系统主要考虑的问题。例如，在最小化时延的任务卸载方法中，Meng 等将最小化缓冲队列中任务的平均减速和平均超时时间的优化问题转换为学习问题，提出基于深度强化学习(DRL)的算法，并设计奖励函数来指导算法直接从环境中学习卸载策略[22]。Xing等则是提出多用户协作MEC系统中基于时分多址TDMA通信协议的任务卸载方法，在优化任务分配、时间分配和功率分配的同时，减少本地用户的计算延迟。由于联合任务分配和无线资源分配问题是混合整数非线性优化问题(MINLP)，须先将其松弛为凸问题，进而得到有效次优解[23]。此外，文献[24]将计算任务卸载到具有计算能力的多个目的地，并提出多个目的地选择准则来最大化中继节点的计算容量、中继链路的信道增益和直接链路的信道增益。为更好地评估有关延迟的系统性能，提出基于传输和计算时间定义的中断概率，实验表明，基于中继辅助的MEC可显著减轻计算任务增加所造成的影响，降低时延。
+
+能耗最小化卸载方法：能耗问题一直是MEC系统的重点关注问题，对于延长设备的运行时间和电池寿命，以及保护环境等都具有长远的意义。一般来说，通过调整计算任务的卸载方案可在一定程度上减少完成任务所需的能耗。例如，彭等提出一种自适应卸载压缩节能机制(ESAOC)来解决云增强型光纤-无线网络能耗以及通信开销过大的问题[25]。首先结合不同优先级卸载数据的平均到达率和各个节点的压缩时延来动态调整业务的卸载压缩比，接着建立排队模型分析卸载业务在MEC服务器的排队时延，协同调度无线侧中继节点进行协同休眠调度。Li等分别研究了TDMA 模式、解码(DF)和放大(AF)情形下的FDMA模式，考虑多路中继辅助MEC系统下的总能耗最小化问题，并通过双层优化来求解[26]。除此之外，文献[27]则是考虑具有多源、多中继和单边缘服务器的计算体系结构，将基于正交频分多路复用接入(OFDMA)无线网络的最小化最大能耗问题分为两个子问题，并分别提出二部图匹配的最优总能耗算法(OTCA)和最优能耗分配算法(OECAA)来求解。文献[28]提出基于先收获后卸载协议的卸载方法，在满足计算任务约束的同时，将最小化接入点的总传输能量问题转换为最小化最大能耗问题，并通过求解得到最优卸载决策和最优的最小能量传输功率。
+
+多目标优化卸载方法：在权衡多目标的任务卸载方法中，大多数学者主要研究时延和能耗联合优化的任务卸载方法。此外，研究人员根据不同的服务质量(QoS)指标和性能要求来选择不同的卸载方案。例如，Fan等考虑一个多服务器的MEC系统，提出基于最小化时延和能耗的任务调度优化方法，并利用平衡因子灵活地调整时延和能耗之间的优化偏差[29]。Wen 等研究多输入多输出(MIMO)多双工(FD)中继辅助的SWIPT-MEC系统，以降低系统的能耗，在保证时延约束和能量消耗约束的前提下，提出一个能量有效性问题，使系统在一个时间段内的能量消耗最小化[30]。Ranji 等提出一种 MEC中基于D2D协作的节能和延迟感知卸载方案(EEDOS)。首先根据请求终端设备的截止日期和能量约束，对卸载请求进行分类，之后通过最大成本图算法的最大匹配找到合适的卸载目的地[31]。Cao 等提出在不同卸载方法下的联合计算通信协作方法，以便在满足用户计算延迟约束的同时，共同优化用户和中继节点的计算和通信资源分配(即卸载时间和传输功率分配以及中央处理单元(CPU)频率)，最小化其总能耗[32]。此外，Liao等基于医疗监测框架，提出一种由网络模型和计算模型组成的支持无线中继的任务卸载机制，并着重考虑在一定的链路质量条件下的性能评估，进而根据不同的服务质量(QoS)指标要求来选择不同的计算卸载方案[33]。Dong等构建一种基于协作的非正交多重接入的智能移动边缘计算(NOMA-MEC)通信系统，提出基于NOMA的智能移动边缘计算系统的卸载性能分析，通过一对用户卸载停机概率的表达式，来评估合作NOMA-MEC系统的性能[34]。
+
+表1任务卸载方法表  
+Tab.1Task offloading method table   
+
+<html><body><table><tr><td>分类</td><td>作者</td><td>年份</td><td>卸载方法</td><td>文献</td><td>模型假设和设计</td><td>实验结果</td><td>优缺点</td></tr><tr><td rowspan="3">务卸载方法</td><td>Meng等</td><td>2019</td><td>基于深度强化学习算法的卸载决策方法 多用户协作MEC系统中基于时分多址</td><td>[22]</td><td>单用户</td><td>优于传统启发式算法</td><td>优点：能够有效地最</td></tr><tr><td>时延最小化任 Xing 等</td><td>2018</td><td>TDMA 通信协议的任务卸载方法</td><td>[23]</td><td>多用户</td><td>显著降低用户延迟</td><td>小化系统时延</td></tr><tr><td>Xia等</td><td>2020</td><td>基于缓存辅助/无缓存的 MEC系统的中 继卸载选择策略</td><td>[24]</td><td>多目的地</td><td>减轻计算任务规模缺点：难以保障能耗 影响</td><td></td></tr><tr><td rowspan="3">能耗最小化任 务卸载方法</td><td>彭海英等</td><td>2020</td><td>带有卸载压缩激励的云增强FiWi网络节 能机制(ESAOC)</td><td>[25]</td><td>排队模型</td><td>降低能耗同时保证 时延</td><td></td></tr><tr><td>Li等</td><td>2021</td><td>最下化用户和中继的整体能耗的双层优化</td><td>[26]</td><td>多中继</td><td>不同工作模式下的 优点：能够有效地降 有效性</td><td>低系统能耗值</td></tr><tr><td>Yao等</td><td>2019</td><td>基于正交频分多路复用接入(OFDMA)无 线网络的最小化最大能耗算法</td><td>[27]</td><td>多用户／多中继</td><td>总能耗优于随机算缺点：无法保证时延 法 53.14%</td><td>约束</td></tr><tr><td rowspan="7">多目标优化任 务卸载方法</td><td>Hu等</td><td>2018</td><td>基于时分运行的先收获后卸载协议的协 同通信卸载方法</td><td>[28]</td><td>单用户</td><td>性能优于无协作系统</td><td></td></tr><tr><td>Fan等</td><td>2018</td><td>基于最小化时延和能耗的任务调度优化方法</td><td>[29]</td><td>单用户</td><td>不同场景中提高系 统性能</td><td></td></tr><tr><td>Wen等</td><td>2018</td><td>基于全双工无线中继节点下的联合卸载和 计算设计</td><td>[30]</td><td>单用户</td><td>性能优于三种基准 方案</td><td>优点：能够有效地权 衡能耗和时延</td></tr><tr><td>Ranji等</td><td>2020</td><td>MEC 中基于D2D 协作的节能和延迟感 知卸载方案 EEDOS</td><td>[31]</td><td>多用户</td><td>实现了95%的能量 效率</td><td>缺点：难以达到最优</td></tr><tr><td>Cao等</td><td>2018</td><td>基于不同卸载方法下的联合计算通信协 作方法</td><td>[32]</td><td>三节点</td><td>提高了计算能力和 能源效率</td><td>值，往往仅能得到近 似值的求解</td></tr><tr><td>Liao等</td><td>2018</td><td>在医疗监测框架中支持无线中继的任务卸 载机制</td><td>[33]</td><td>多中继</td><td>不同场景下取得更 好的性能</td><td></td></tr><tr><td>Dong等</td><td>2020</td><td>基于NOMA的智能移动边缘计算系统的 卸载性能分析</td><td>[34]</td><td>单用户</td><td>协同卸载性能优于 OMA</td><td></td></tr></table></body></html>
+
+基于时延最小化的卸载方法在降低时延上具有很大的优势，但是在一些对时延要求不高的场景下，会由于过度追求时延而导致网络能耗开销过大的问题。同样，能耗最小化卸载方法能够有效的降低网络中能量的开销，但是在一些时延要求较高的应用场景下，无法满足低时延的计算需求导致任务丢弃。多目标优化卸载方法综合考虑了单目标优化所存在的问题，然而现如今，大多数文献仅能得到问题的近似解，与穷举搜索法所得到的最优解仍有较大的差距。
+
+# 3 基于中继辅助的资源分配
+
+MEC中的资源分配问题主要包括：1)计算资源分配：根据用户任务需求，有效分配计算资源、最小化能耗和任务执行时延；2)通信资源分配：根据网络环境，分配通信资源，优化系统传输效率，降低用户间的通信干扰。在MEC中，合理的资源分配可以充分利用空闲资源，因此是至关重要的。在[35]中，Li等人提出了一种基于强化学习的优化框架，用于解决MEC中资源分配的问题，能够显著降低用户的延迟和能耗。在[36]中，一种可自适应分配计算资源的方案被提出，可以在不同MEC环境下均衡网络资源并优于传统的算法。在中继辅助MEC系统中，通过将邻近的边缘节点作为中继，协助源节点将任务转发至目的节点，能够充分利用周边节点的空闲资源，提高网络的整体性能。除此之外，基于中继辅助的资源分配问题不仅需要考虑用户的任务需求和MEC服务器资源，还需要考虑中继节点的可用资源、中继节点与源节点和目的节点的距离等因素，与传统MEC中的资源分配问题相比具有更大的难度。在基于中继辅助的MEC系统中，用户可以通过选择合适的中继节点进行传输，以较低的资源来实现更高的容量。基于中继辅助的资源分配策略主要取决于用户请求的任务量和自身的可用资源量，其基本分配过程如图4所示。首先，用户终端将应用程序完全卸载，交付到MEC内的本地调度程序，调度程序会检查是否有足够资源的计算节点。如果存在可处理应用程序的中继节点，则会在该节点上分配资源，处理应用程序，并将处理结果发送给用户；若不存在合适计算节点，则借助中继节点进行转发，调度应用程序给远端服务器。目前，基于中继节点的资源分配方法主要以时延和能耗作为性能指标，类似地，可将服务器的资源分配方法分为以下三种：时延最小化资源分配方法、能耗最小化资源分配方法和多目标优化资源分配方法，如表2所示。
+
+表2资源分配方法表Tab.2Resource allocation method table  
+
+<html><body><table><tr><td>分类</td><td>作者</td><td>年份</td><td>资源分配方法</td><td>文献</td><td>模型假设和设计</td><td>实验结果</td><td>优缺点</td></tr><tr><td rowspan="2">时延最小化资 源分配方法</td><td>张丙鑫</td><td>2020</td><td>基于无人机的移动边缘计算资 源调度机制研究</td><td>[37]</td><td>多UAV</td><td>搜索最佳UAV位置获 优点：能够优化资源 得最优解</td><td>利用的时延</td></tr><tr><td>秦旻</td><td>2019</td><td>功率受限边缘计算系统中计算 上载与资源调度方法</td><td>[38]</td><td>多用户</td><td>优化了网络性能和用缺点：难以保障资源 户体验</td><td>分配节点的能耗</td></tr><tr><td rowspan="2">能耗最小化资 源分配方法</td><td>Li等人</td><td>2020</td><td>基于D2D的中继选择策略和资 源分配策略的联合优化</td><td>[39]</td><td>多用户</td><td>与基线方法相比降低优点：能够优化各个 了时间成本</td><td>资源节点的能耗</td></tr><tr><td>李阳</td><td>2020</td><td>移动边缘计算中节能高效的资 源联合优化</td><td>[40]</td><td>多用户</td><td>具有更低的电能消耗 缺点：常常忽略了时 (10%-20%)</td><td>延约束</td></tr><tr><td rowspan="4">权衡多个性能 的资源分配方法</td><td>Chen等</td><td>2018</td><td>基于混合中继转发协议的资源 分配方法</td><td>[41]</td><td>单用户</td><td>与基于凹凸过程算法 相比收敛更快</td><td></td></tr><tr><td>Tan等</td><td>2017</td><td>全双工 SCN 中基于异构服务的 虚拟资源分配</td><td>[42]</td><td>多用户</td><td>不同参数配置验证了 有效性</td><td>优点：能够对能耗和 时延加权和联合考虑</td></tr><tr><td>Chen等</td><td>2020</td><td>基于正交频带混合中继的中继 辅助计算卸载(RACC)方法</td><td>[43]</td><td>混合传输</td><td>显著降低了计算复杂度 要很高的复杂度，大</td><td>缺点：得到最优值需</td></tr><tr><td>Kuang等</td><td>2021</td><td>MEC 中中延迟最小化的协同计 算卸载与资源分配</td><td>[44]</td><td>多用户</td><td>不同任务数量都能快 速收敛</td><td>多数只能得到近似解</td></tr></table></body></html>
+
+时延最小化分配方法：张等通过研究UAV辅助的MEC系统中的资源调度问题，包括UAV飞行轨迹、UAV与UE悬停位置间的关联以及任务调度等问题，以最小化任务完成时间为目标，降低系统时延，提高用户的体验[37]。秦等提出基于最小化任务处理时延的通信资源调度和多用户计算上载问题，量化用户可用的计算资源，得到最大化系统效用函数，进一步推导出多用户MEC系统中子载波分配和功率分配准则，进而提出具体的资源分配算法[38]。
+
+![](images/801915e3b8b457fd2e75d08266e5601bdd1de34cd69344c955f2545f39ea287c.jpg)  
+图4资源分配过程  
+Fig.4Resource allocation process
+
+能耗最小化分配方法：为有效降低系统总能耗，满足智能设备的时延要求，文献[39]联合优化MEC系统中基于D2D的中继选择和资源分配策略，并提出一种两阶段优化算法来求解该整数混合非凸优化问题。首先利用凸优化技术将原问题转换为凸问题得到最优中继选择策略；之后利用拉格朗日方法将原问题转换为资源分配问题。在满足计算、通信和延迟等约束条件下，文献[40]提出联合优化中继选择策略和资源分配策略来优化移动设备电能消耗。首先采用凸优化技术转换问题为混合整数非凸优化问题，再通过拉格朗日乘子法和中继选择策略获得最优资源分配策略。以最小化电能消耗为目标，针对MEC中远距离计算任务卸载的问题,提出基于D2D 辅助MEC系统，在满足计算、延迟和通信等约束条件下,通过联合优化资源分配策略和中继选择策略,最小化智能移动设备的能耗的优化问题，实现节能高效的中继路由选择策略和资源分配策略。
+
+多目标优化分配方法：Chen等人[41]提出基于混合中继转发协议的资源分配方法，将执行延迟和网络能耗的最小化问题建模为高度耦合约束的不可微非凸优化问题，并提出一种基于不精确的块坐标下降法(BCD)的轻量级算法来求解。Tan等人[42]在基于高数据速率服务和计算敏感服务的 MEC 网络中，联合考虑用户关联、功率控制和资源(包括频谱、缓存和计算)的分配，研究全双工(smallcell netwrok,SCN)中基于异构服务的虚拟资源分配问题，并通过变量松弛、乘法(ADMM)算法得到最优解。此外，对于中继辅助系统，中继节点的放大和转发(AF)与解码和转发(DF)，也可能会对网络性能和用户的体验质量产生重大影响。基于上述考虑，文献[43]提出一种新的(relayassistedcomputationoffloading,RACO)混合中继(HR)体系结构，并设计一种基于中继辅助任务卸载的有效资源分配方法，从而减少了任务的执行延迟和能耗。该方法在可用计算和通信资源的实际约束下，通过联合优化计算卸载比、处理器时钟率、AF和DF方案之间的带宽分配，以及用户和(mobile edge relay server,MERS)的传输功率水平，使RACO 系统中执行延迟和能耗的加权和最小化。文献[44]研究MEC中协同计算任务卸载方案和资源分配的联合问题，在保证传输功率、能耗和CPU循环频率的约束下减少延迟，利用概念优化方法、盛金公式法(ShengJinFormula)、单调优化方法一步步求解该非凸混合整数问题。
+
+与卸载方法类似，在中继辅助的资源分配场景下，时延最小化的资源分配方法能够合理分配计算资源从而达到最小化时延的目标，然而该方法忽略了不同计算节点处能耗的问题。而能耗最小化的方法时延要求难以满足。因此，如何在能耗和时延之间进行权衡仍面临着挑战性。
+
+# 4 中继选择
+
+中继选择是指从所有候选中继节点集中选择一个最优的中继节点进行数据转发和任务卸载，如图5所示。MEC系统内的协作通信与计算需要依赖于中继节点的辅助实现，由于受到边缘节点计算能力和信道条件的限制，可能无法为用户的大型任务提供计算服务。因此，选择最优的中继节点可以有效地提高MEC系统性能，拓展MEC系统的覆盖范围。本小节主要从通信辅助和计算辅助对中继节点选择的方法进行详细概述。
+
+![](images/2093480512e8e2220a2d4b1a14c3d6291848ef61e3940075f792d4d94b404828.jpg)  
+图5中继选择过程  
+Fig.5Relay selection process
+
+通信辅助中继选择方法：在MEC资源有限、通信距离与信号发射功率强度不匹配、未能充分利用空闲服务器等情况下，需要通过中继节点进行辅助通信。通信辅助能有效节约能量、提高网络吞吐量和改善网络覆盖率。例如，文献[45]利用中继节点协作通信(CMIMO)的方式将数据从节点传输到基站，有效地解决源节点与目的地之间信道深度衰落的问题。采用聚类、数据聚合方式，在每个集群中选择簇头作为中继节点将数据聚合并转发出去。通过构建簇间和簇内的能耗系统模型，定义一些协作通信方案，在衰落信道中通过另一个协作节点将数据从中继节点传输到目的地，以降低系统中的能量消耗。文献[46]考虑配备有电池储能的中继选择问题，研究在几种不同信道状态信息（CSI）要求下，对应于不同复杂性的中继选择策略，包括随机中继选择策略和距离最佳中继选择策略以及考虑电池性能的中继选择策略。通过推导得出所提出方案的中断概率性能的分析结果以及高信噪比(SNR）机制的简化渐近表达式。在文献[47]中，Jing 等提出允许多个中继卸载的中继选择方法。该文献基于中继排序函数提出多个SNR次优(因此错误率次优)中继选择方案，实现完全分集和低错误率。在文献[48]中，赵等联合考虑源节点与中继节点、中继节点与目标节点之间的信道条件，以降低误码率为目标，分别提出大于和小于中继节点个数阈值的方案。当中继节点个数小于给定阈值时，该方案重点考虑节点选择的准确性。当中继节点个数大于阈值时，则重点考虑节点选择的有效性和复杂性。仿真实验表明，所提出的中继节点选择方案与现有方案相比能够在保证中断概率保持不变的情况下，使误码率降低。
+
+计算辅助(D2D)中继选择方法：D2D (Device to Device)是指当两个距离较近时，在不需要基站的情况下直接进行通信，可以有效的减少时延和能耗。综合考虑计算辅助与D2D技术不仅能够提高资源利用率，还有助于提高能量效率和通信容量。在文献[39]中，Li等通过联合优化MEC系统中的无线电通信、中继选择和计算资源分配，来最小化D2D的MEC系统总能耗。该系统模型为每个用户从对应的中继集合中，选择一个中继节点来卸载数据，并同时根据选择不同的中继节点确定卸载比率。考虑计算、通信、时延以及选择的约束条件，该问题可描述为一个整数混合非凸优化问题，并且是一个 NP-hard 问题。由于穷举所有可能的中继选择策略具有较高的时间复杂度，为解决此问题，可将中继选择的离散变量松弛化，构建新的约束条件。之后采用重构线性化技术来消除所有的选择决策二次项。通过以上两个步骤得到一个标准的凸问题，通过解决该凸问题获得最优解。仿真结果表明，所提出的算法不仅降低获取最优解的时间，更有助于提高能量效率。在文献[49]中，Rahman等通过自适应神经模糊推理系统(Adaptive Neuro-Fuzzy Inference System,ANFIS)架构来选择最佳D2D中继，实现将D2D源信息转发到预期的D2D目的地，提出采用监督学习的自适应网络ANFIS架构。用户D2D之间的通信信噪比和中继传输至远端服务器的信噪比作为两个输入变量，进入一个五层的ANFIS 架构。第一层节点利用模糊化生成隶属度等级；第二层节点产生触发强度；第三层根据触发强度计算合格的后续隶属函数(MF)。第四层生成整体输出的隶属函数；第五层通过去模糊化，得到清晰的输出值。通过提出的ANFIS架构构建了D2D通信中继选择参数和因子之间的映射模型。基于神经模糊的算法选择具有最大D2D通信能量效率的中继节点，其能量效率接近于穷尽搜索的最佳中继选择方案。在文献[50]中，Omran 等考虑中继选择对负载均衡的影响，将问题构建成混合整数的组合优化问题，这是个NP-hard问题。为此，提出一种用于多层异构网络的具有负载均衡的联合用户中继选择方案，利用Kuhn-Munkres(K-M)方法给出最终选择，从而达到基于D2D通信的动态负载均衡。仿真结果表明，在负载均衡的情况下，该方案可显著增加接纳卸载用户的数量。
+
+通信 $^ +$ 计算辅助中继选择方法：中继辅助计算方法不仅能够缓解MEC系统内的负载压力，也有助于提高网络覆盖率。因此，大部分基于中继辅助MEC系统的研究都是采用通信 $+$ 计算辅助结合的方式。例如，在文献[51]中，Chen等提出一种序列“中继节点-远程节点”选择和卸载(SequentialRelay-remote Selectionand Offloading,SRSO)策略，指定何时停止节点序列发现并执行计算卸载，来达到能耗最小化。该文献将计算任务分散到本地、中继和远程三个部分进行，进而提高任务计算的并行执行能力。计算任务从本地卸载至中继节点(Relay Node,RN)和从RN 卸载至远端服务器(RemoteServer,RS)两个过程中，系统分别根据当前过程中每个阶段的系统状态(即节点的计算能力和信道条件)作出最优决策，确定卸载比例。以本地卸载至RN过程为例，系统根据当前状态(即中继节点计算能力和信道条件)作出最优决策 $u _ { 1 i }$ 。可通过公式表示为如下：
+
+$$
+u _ { 1 i } = \left\{ \begin{array} { l l } { x _ { 1 i } , } & { o f f l o a d i n g } \\ { C , } & { o t h e r w i s e } \end{array} \right.
+$$
+
+其中， $x _ { 1 i }$ 为作出决策后确定的卸载比例， $c$ 表示在此阶段不进行卸载，需要在下一个阶段继续选择中继节点。当每个阶段作出不同的决策时，预期的能耗函数可表示为如下：
+
+$$
+\begin{array} { r } { g _ { 1 i } ( s _ { 1 i } , u _ { 1 i } ) = \left\{ \begin{array} { c c } { 0 , } & { s _ { 1 i } = T } \\ { \tau P _ { d } + E _ { 1 i } , } & { s _ { 1 i } \neq T , u _ { 1 i } = x _ { 1 i } } \\ { \tau P _ { d } , } & { u _ { 1 i } = C } \end{array} \right. } \end{array}
+$$
+
+其中， $s _ { 1 i } = T$ 表示为系统已经作出卸载决定并停止检测过程，$\boldsymbol { \tau }$ 和 $P _ { d }$ 分别表示为MEC 服务器发现时间和功率， $E _ { 1 i }$ 表示为数据传输和处理的总能耗。因此，在中继选择过程中，以各个阶段能耗函数总和最小为目标，根据动态规划可得出最佳决策，以及停正服务器序列发现并执行计算卸载，达到最小化能耗这一目的。从RN卸载至RS的过程也采用相同方法。
+
+将SRSO算法与仅考虑通信中继选择(CommunicationOnlyRelaySelection，CORS)和仅考虑计算中继选择(Computing-OnlySelection,CPRS)方案相比较，结果如图6所示。中继节点数越多，平均能耗差异越明显。因此，SRSO算法在最小化系统能耗方面更优于其他两者。
+
+![](images/71f0c39d05cc5bc98d519a432ea008e5789ca4b1aa7983267151e70ef0ff7ba9.jpg)  
+图6与CORS和CPRS的性能比较 Fig.6Performance comparison with CORS and CPRS
+
+若中继节点存在任务缓冲队列，则可以将任务缓冲队列长度也考虑进中继选择决策当中，该方案可视为最小化传输能耗和缓冲队列加权和(Weighted Transmission energy andBufferqueueMinimization,WTBM)，如下所示。
+
+$$
+i ^ { * } = \arg \operatorname* { m i n } ( \nu _ { 1 } \xi _ { i } + \zeta _ { i } )
+$$
+
+其中 $\xi _ { i }$ 表示能耗， $\boldsymbol { \zeta } _ { i }$ 表示中继节点的队列长度， $\nu _ { \mathrm { { l } } }$ 为加权因子，用来调节能耗和队列长度重视程度的指标。将WTBM算法与仅考虑传输路径(Transmission Energy ConsumptionMinimization,TECM)中继选择和仅考虑任务缓冲队列(TaskBufferQueueMinimization,TBQM)中继选择进行比较，结果如图7所示。
+
+![](images/dba53d31a372b6dc08c5b9fe21a449aab645c5ed66f4dac8b654107bbbe84fba.jpg)  
+图7总能耗随时间变化比较  
+Fig.7Comparison of total energy consumption over time
+
+在文献[52]中，Liang等分别介绍仅考虑通信能力(Communication-OnlyRelay Selection,CORS)和仅考虑计算能力(Computing-OnlySelection,CPORS)情况下的中继决策。当仅考虑通信时，中继选择方案为
+
+$$
+i ^ { * } = \mathrm { a r g m a x } \{ \operatorname* { m i n } \left( v _ { i } ^ { 1 } , v _ { i } ^ { 2 } \right) \}
+$$
+
+其中： $v _ { i } ^ { 1 } , v _ { i } ^ { 2 }$ 分别表示用户到中继节点和中继节点到目的地的传输速率。当仅考虑计算能力时，中继选择方案为
+
+$$
+i ^ { * } = \operatorname { a r g m a x } \{ f _ { i } \}
+$$
+
+其中： $f _ { i }$ 为中继节点恒定的CPU周期频率， $f _ { i }$ 越大表示该中继节点的计算能力越强。
+
+文献[52]进一步提出的最小化延迟中继选择(Latency-BestRelaySelection,LBRS)方案不仅考虑通信能力，还考虑到中继节点的计算能力。因此LBRS方案选择的中继节点为
+
+$$
+i ^ { * } = \arg \operatorname* { m i n } ( t _ { i } ^ { 1 } + t _ { i } ^ { c } + t _ { i } ^ { 2 } )
+$$
+
+其中： $t _ { i } ^ { 1 } , t _ { i } ^ { c } , t _ { i } ^ { 2 }$ 分别为用户到中继节点的传输时延，中继节点计算时延以及中继节点到目的地的传输时延。
+
+在文献[53]中，李陶深等提出一种基于功率分配协作的(SimultaneousWireless InformationandPowerTransfer,SWIPT)中继选择方案，来解决由信道质量和中继发射功率等约束所构成的非线性混合整数规划问题。与传统的中继协作方案相比，该文献所提出的缓存配置是可行并且有效的，该方案具有更高的吞吐量，如表3所示。
+
+表3中继辅助MEC系统服务器选择方法表  
+Tab.3Relay-assisted MEC system server selection method table   
+
+<html><body><table><tr><td>中继分类 相关文献</td><td></td><td>优化目标</td><td>采用方案/关键研究点</td></tr><tr><td></td><td></td><td></td><td>采用聚类、数据聚合和协作通信 文献[45]提高能源效率 (CMIMO)的方式将数据从节点 传输到基站。</td></tr><tr><td rowspan="2">通信辅助 中继选择 方法</td><td></td><td>文献[46]降低中断概率</td><td>将蓄电池的充放电行为建模为双 状态马尔可夫链</td></tr><tr><td></td><td>文献[47]降低复杂度</td><td>提出有线性复杂度SNR次优多 中继选择方案</td></tr><tr><td rowspan="4">中继选择 方法</td><td>文献[48]</td><td>降低误码率</td><td>一种综合两阶段信道条件的中继</td></tr><tr><td></td><td></td><td>选择方案 文献[39]最小化能耗 整数混合非凸优化问题</td></tr><tr><td></td><td>计算辅助文献[49] 提高能源效率</td><td>提出自适应神经模糊推理系统 (ANFIS)架构</td></tr><tr><td></td><td>最大化卸载用 文献[50]户量和系统负</td><td>一种基于K-M方法联合用户选 择和系统负载均衡的方案</td></tr><tr><td>通信+计</td><td></td><td>载均衡 文献[51]最小化能耗</td><td>一种顺序中继-远程选择和卸载 (SRSO)策略</td></tr><tr><td rowspan="2">继选择方法</td><td></td><td></td><td>算辅助中 文献[52] 最小化延迟 一种新的中继选择LBRS 方案</td></tr><tr><td></td><td>文献[53]最大化吞吐量</td><td>一种基于功率分配协作的 SWIPT中继选择策略。</td></tr></table></body></html>
+
+# 5 问题与挑战
+
+尽管基于中继辅助的MEC系统已开始被广泛研究，国内外学者针对该领域问题已取得一些研究成果，但以下几个问题到目前为止还未有较好的解决方法：
+
+(1)用户移动性和任务随机性：用户的高度移动是MEC系统的特点之一。当用户发生移动时，需要重新选择中继辅助节点。另外，用户不是时刻都有任务需要计算，且任务是随机到达的，任务的大小也具有随机性。因此MEC系统中需要处理的任务数目和大小都是变化，这些将直接影响卸载决策、资源分配和中继选择。马尔可夫近似是分析动态模型的有效技术，通过设计可逆且收敛的马尔可夫链对用户的动态行为进行分析，将用户的移动性问题映射为马尔可夫链的状态转移问题。此外，也可以考虑按照任务的达到进行阶段划分，设计动态分布式算法来求解。
+
+(2)中继路径优化：当用户距离边缘服务器较远时，仅依靠一个中继节点，可能无法完成任务卸载，如何寻找一条经过多个中继节点的最优路径是面临的难点问题。中继路径选择需要综合考虑信道容量、路径损耗、距离、中继节点的计算能力等因素，计算用户与中继节点，中继节点之间，中继节点与MEC服务器之间每一条路径的能耗和时延，为任务选择下一个转发节点，寻找一条由用户到远端服务器经过多个中继节点能耗或时延最小的路径。
+
+(3)中继激励计划：随着5G和物联网的应用，网络中存在大量配备边缘计算服务器的移动车辆和无人机，可以为用户提供实时计算服务。但是这些网络设备都是自私的，在提供中继服务时，设备需要消耗资源，如电池和计算能力。此外，设备共享资源，存在暴露位置等隐私信息的风险。因此，在没有令其满意的奖励以补偿其资源消耗和潜在隐私破坏的情况下，这些网络设备一般不会主动提供中继服务，共享资源。因此，如何制定激励计划，吸引移动车辆和无人机等无线设备成为中继节点，共享他们闲置的资源是提高能源效率和系统计算能力的有效途径。另外，如何在执行任务卸载和资源分配时，考虑中继节点的特性(例如，无人机的飞行路径，无人机的距离，移动车辆的行驶速度和方向)也是一大挑战。契约理论是设计资源市场激励机制的有效方法，其关键思想是制定适当的合同条款，通过提供金钱等激励手段，吸引网络设备提供中继服务，共享资源。
+
+(4)5G网络:5G网络包含大量具有特定计算和通信资源的无线设备，由于无线通信具有突发性，每个无线设备很可能被一些空闲设备包围，这些设备具有未使用的或额外的资源。因此，如何结合中继辅助MEC系统，使用设备空闲资源，提高5G网络的计算能力和资源利用率是一个丞待解决的问题。此外，MEC系统能够支持很多种类型的应用，不同的应用对能耗、时延和资源都有不一样的要求。例如，在健康监测中，由于终端设备位置相对固定，服务需求是长期的；而对一些移动性比较高的设备，服务需求是短暂的。这与5G网络满足更多用户个性化需求的服务模式是一致的。将中继辅助MEC和5G网络切片技术先融合，同时引入虚拟机(VirtualMachine,VM)机制实现计算资源和通信资源的组合分配，在保持所需的QoE水平的同时优化系统资源利用率。根据中继节点的资源情况和用户的需求，在引入VM机制后，5G网络的资源分配和中继选择问题包含以下几个决策过程：给用户分配哪些资源，每种资源分配多少，以及选择哪个中继节点。此外，为了能够满足不同用户的动态服务需求，在网络切片运行时，应设计一种自适应VM算法，变换中继节点，按需分配资源。
+
+# 6 结束语
+
+本文首先介绍 MEC的基本概念和参考架构、以及基于中继辅助MEC系统的基本架构，然后着重从任务卸载、资源分配和中继节点选择三个方面对基于中继辅助MEC系统现存的方法进行归纳总结，最后对现有方法中几个尚待解决的问题做了进一步分析，并对相应的解决方向做了简要的展望。
+
+# 参考文献：
+
+[1]IMT-2020(5G)推进组.5G愿景与需求白皮书V1.0[EB/OL].(2014) [2021].(IMT-2020.5G Vision and demand white paper V1.0 [EB/OL]. (2014) [2021])   
+[2]Zhang Qi,Lu Cheng,Boutaba R.Cloud computing: state-of-the-art and research challenges [J]. Journal of Internet Services and Applications, 2010,1(1): 7-18.   
+[3]Armbrust M,Fox A,GriffithR,et al.Above the clouds:A berkeley view of cloud computing [R]. Technical Report UCB/EECS-2009-28,EECS Department,UniversityofCalifornia,Berkeley,2009.   
+[4] 田辉，范绍帅，吕昕晨，赵鹏涛，贺硕．面向 5G 需求的移动边缘计 算[J].北京邮电大学学报，2017,40(2):1-10.(Tian Hui,Fan Shaoshuai,Lyu Xinchen，Zhao Pengtao,He Shuo．Mobile Edge Computing for 5G Requirements [J].Journal of Beijing University of Posts and Telecommunications,2017,40 (2):1-10.)   
+[5]Mao Yuyi, You Changsheng,Zhang Jun,et al.A survey on mobile edge computing: The communication perspective [J]. IEEE Communications Surveys& Tutorials,2017,19(4):2322-2358.   
+[6] 谢人超，廉晓飞，贾庆民，等．移动边缘计算卸载技术综述[J].通 信学报，2018,39(11):142-159.(Xie Renchao,Lian Xiaofei,Jia Qingmin，et al. Overview of mobile edge computing offloading   
+[/」Cal Agjuall, Ueng SIauj, vu DI,el uu.A uiuuiouu-uuci-vascu many-objective intelligent algorithm for efficient task scheduling in intermet of things [J].IEEE Intermet of Things Journal,2020,8(12): 9645-9653.   
+[8]Cui Zhihua,Jing Xuechun,Zhao Peng,et al.A new subspace clustering strategy for AI-based data analysis in IoT system [J]. IEEE Internet of Things Journal,2021,8 (16): 12540-12549.   
+[9]Wang Zi,Zhao Zhiwei,Min Geyong,et al.User mobility aware task assignment for mobile edge computing [J].Future Generation Computer Systems,2018,85 (AUG.): 1-8.   
+[10] Li Quanyi,Yao Haipeng,Mai Tianle,et al.Reinforcement-learning-and belief-learning-based double auction mechanism for edge computing resource allocation [J].IEEE Internet of Things Journal,2019,7（7): 5976-5985.   
+[11] Ke Hongchang,Wang Jian,Deng Lingyue,et al. Deep reinforcement learning-based adaptivecomputationoffloading forMECin heterogeneous vehicular networks [J]. IEEE Transactions on Vehicular Technology,2020,69 (7): 7916-7929.   
+[12]夏士超，姚枝秀，鲜永菊，等．移动边缘计算中分布式异构任务卸载 算法[J]．电子与信息学报,2020,42(12):68-75.(Xia Shichao,Yao Zhixiu,Xian Yongju,et al. Distributed heterogeneous task offloading algorithm in mobile edge computing [J].Journal of Electronics and Information Technology,2020,42 (12): 68-75.)   
+[13] Naeem M,Anpalagan A, Jaseemuddin M,et al. Resource allocation techniques in cooperative cognitive radio networks[J].IEEE Communications Surveys & Tutorials,2013,16 (2): 729-744.   
+[14]唐玄玄，杨文东，蔡跃明，等．协同通信中的缓存辅助中继选择方案 综述[J].军事通信技术,2017,038(001):35-40.(Tang Xuanxuan, Yang Wendong,Cai Yueming,et al. Overview of buffer-asisted relay selection schemesin cooperative communication[J].Military Communication Technology,2017,038 (001):35-40.)   
+[15] Zhao Zichao,Zhao Rui,Xia Junjuan,et al.A Novel Framework of ThreeHierarchical Offloading Optimization for MEC in Industrial IoT Networks [J].IEEE Transactions on Industrial Informatics,2020,16 (8): 5424-5434.   
+[16] Asshad M, Khan SA, Kavak A,etal. Cooperative communications using relay nodes for next - generation wireless networks with optimal selection techniques: A review [J]. IEEJ Transactions on Electrical and Electronic Engineering,2019,14 (5): 658-669.   
+[17] Li Peng,Guo Song. Literature survey on cooperative device-to-device communication [J]. Cooperative Device-to-Device Communication in Cognitive Radio Celllar Networks,2014: 7-12.   
+[18] Deng Maofei,Tian Hui,Fan Bo.Fine-granularity based application offloading policy in cloud-enhanced small cell networks [C]// 2016 IEEE International Conference on Communications Workshops (ICC). IEEE, 2016: 638-643.   
+[19] Sun Haijian,Zhou Fuhui,Hu R Q. Joint ofloading and computation energy eficiency maximization in a mobile edge computing system [J]. IEEE Transactions on Vehicular Technology,2019,68 (3): 3052-3056.   
+[20] Ding Changfeng,Wang Junbo,Cheng Ming,et al. Joint beamforming and computation ofloading for multi-user mobile-edge computing [C]/ 2019 IEEE Global Communications Conference (GLOBECOM) . IEEE, 2019: 1-6.   
+[21] Ke Hongchang,Wang Jian, Deng Lingyue,et al. Deep reinforcement learning-based adaptivecomputationoffloading forMECin heterogeneous vehicular networks [J]. IEEE Transactions on Vehicular Technology,2020,69 (7): 7916-7929.   
+[23] Xing Hong,Liu Liang,Xu Jie,et al. Joint task assignment and wireless resource allocation for cooperative mobile-edge computing [C]// 2018 IEEE International Conference on Communications (ICC). IEEE,2018:1-6.   
+[24] Xia Junjuan,Li Chao,Lai Xiazhi，et al.Cache-aided mobile edge computing for B5G wireless communication networks [J]. EURASIP Joumal on WirelessCommunications and Networking,2020,2020 (1):1-10.   
+[25]彭海英，王泽东，吴大鹏．带有卸载压缩激励的云增强 FiWi 网络节 能机制[J]．电子与信息学报,2020,42(7):1726-1733.(Peng Haiying, Wang Zedong，Wu Dapeng. Cloud-enhanced FiWi network energysaving mechanism with offload compression incentives [J]. Journal of Electronics & Information Technology,2020,42(7): 1726-1733.)   
+[26] Li Xiang,Fan Rongfei，Hu Han,et al.Energy-efficient Resource Allocation for Mobile Edge Computing with Multiple Relays [J].IEEE IntermetofThings Jourmal,(2021-09-13).htp://doi: 10.1109/JIOT.2021.3125953.   
+[27] Yao Mianyang，Chen Long，Liu Tonglai,et al.Energy efficient cooperative edge computing with multi-source multi-relay devices [C]// 2019IEEE 2lst International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City;IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS) .IEEE,2019: 865-870.   
+[28] Hu Xiaoyan,Wong K K, Yang Kun.Wireless Powered CooperationAssisted Mobile Edge Computing [J]. IEEE Transactions on Wireless Communications,2018,17 (4): 2375-2388.   
+[29] Fan Wenhao,Liu Yyuanan,Tang Bihua,et al. Computation Offloading Based on Cooperations of Mobile Edge Computing-Enabled Base Stations [J].IEEE Access,2018,6:22622-22633.   
+[30] Wen Zhigang,Yang Kaixi,Liu Xiaoqing,et al. Joint offloading and computing design in wireless powered mobile-edge computing systems with full-duplex relaying [J].IEEE Access,2018,6: 72786-72795.   
+[31] Ranji R,Mansoor A M,Sani AA.EEDOS: An energy-efficient and delayaware offloading scheme based on device to device collaboration in mobile edge computing [J]. Telecommunication Systems,2020,73 (2): 171-182.   
+[32] Cao Xiaowen，Wang Feng,Xu Jie,et al. Joint computation and communication cooperation for energy-efficient mobile edge computing [J].IEEE Internet of Things Journal,2018,6 (3): 4188-4200.   
+[33] Liao Yangzhe,Yu Quan,Han Yi,et al. Relay-enabled task offloading management for wireless body area networks [J]. Applied Sciences,2018, 8 (8): 1409.   
+[34]Dong Xiequn,Li Xuehua,Yue Xinwei,et al.Performance Analysis of Cooperative NOMA Based Intelligent Mobile Edge Computing System [J].China Communications,2020,17 (8): 45-57.   
+[35] Li Ji, Gao Hui,Lyu Tiejun,et al.Deep reinforcement learning based computation offloading and resource allocation for MEC [C]// 2018 IEEE Wireless Communications and Networking Conference (WCNC). IEEE,2018:1-6.   
+[36] Wang Jiadai, Zhao Lei,Liu Jiajia,et al. Smart resource allocation for mobile edge computing: A deep reinforcement learning approach [J]. IEEETransactiosonmergigTpicsinComputig,019,9(3):9-1541.   
+[37]张丙鑫．基于无人机的移动边缘计算资源调度机制研究[D].中国 矿业大学,2020.(Zhang Bingxin.Research on UAV-based Mobile Edge Computing Resource Scheduling Mechanism [D]. China University of Mining and Technology,2020.)   
+[38]秦昊．功率受限边缘计算系统中计算上载与资源调度方法[D].中 国科学技术大学，2019.(Qin Min.Computing upload and resource scheduling method in power-constrained edge computing system [D]. University of Science and Technology of China,2019.)   
+[39] Li Yang, Xu Gaochao, Yang K,et al.Energy Efcient Relay Selection and Resource Alocation in D2D-Enabled Mobile Edge Computing[J]. IEEE Transactions on Vehicular Technology,2020,69(12):15800-15814.   
+[40]李阳．移动边缘计算中节能高效的资源联合优化若干问题研究[D]. 吉林大学,2020.(LiYang.ResearchonSveralIssuesofEnergaving and High-efficiency ResourceJoint Optimization in Mobile Edge Computing [D]. Jilin University,2020.)   
+[41] Chen Xihan,Shi Qingjiang,Cai Yunlong，et al.Joint Cooperative Computation and Interactive Communication for Relay-Asssted Mobile Edge Computing[C]/2018IEE88th Vehicular Technology Conference (VTC-Fall). IEEE, Chicago,IL, USA,27-30 Aug. 2018.   
+[42] Tan Zhiyuan,Yu F R,Li Xi,et al.Virtual resource allcation for heterogeneous services in fullduplex-enabled SCNs with mobiledge computing and caching[J]. IEEE Transactions on Vehicular Technology, 2017, 67 (2): 1794-1808.   
+[43] Chen Xihan,Cai Yunlong,Shi Qingjiang,etal.EficientResource Allcationforela-AssistedComputation OfloadinginMobie-Edge Computing [J].IEEEIntermetofThings Jourmal,2020,7 (3):2452-2468.   
+[44] Kuang Zhufang,Ma Zhihao,Li Zhe,et al. Cooperative computation ofloadingandresourceallcationfordelayminimizationinmobile edge computing[J].Journal ofSystems Architecture,2021,118:102167.   
+[45] Shikha, Dayal P.Energy eficient different cooperative communication schemes in wireless sensor network: A survey [C]// IEEE India Conference. IEEE, 2015.   
+[46] Krikidis I. Relay selection in wireless powered cooperative networks withenergy storage [J]. IEEE Journal on Selected Areasin Communications,2015,33 (12): 2596-2610.   
+[47] Jing Yindi,Jafarkhani H. Single and multiple relay selection schemes and their achievable diversity orders [J]. IEEE Transactions on Wireless Communications,2009,8 (3):1414-1423.   
+[48]赵玉丽，郭丽，朱志良，于海．协作通信中一种中继节点选择方案的 设计[J].计算机应用,2015,35(01):1-4.(Zhao Yuli,Guo Li,Zhu Zhiliang, Yu Hai. Design of a relay node selection scheme incooperative communication [J]. Computer Applications,2015,35(01): 1-4.)   
+[49] Rahman M, Lee Y D,Koo I. Energy-Efficient Power Allocation and Relay Selection Schemes for Relay-Assisted D2D Communications in 5G Wireless Networks [J].Sensors,2018,18 (9).   
+[50] Omran A, Sboui L,Rong Bo,et al. Joint Relay Selection and Load Balancing using D2D Communications for 5G HetNet MEC [C]/ 2019 IEEE International Conference on Communications Workshops (ICC Workshops) .IEEE,2019.   
+[51] Chen Che,Guo Rongzong,Zhang Wenjie,et al. Optimal sequential relayremote selection and computation offloading in mobile edge computing [J]. The Journal of Supercomputing,2022,78 (1): 1093-1116.   
+[52] Liang Jie,Chen Zhiyong,Li Cheng,et al.Delay Outage Probability of Multi-relay Selection for Mobile Relay Edge Computing System [C]// 2019 IEEE/CIC International Conference on Communications in China (ICCC) . IEEE,2019.   
+[53]施安妮，李陶深，王哲，等．基于缓存辅助的全双工无线携能通信系 统的中继选择策略[J].计算机应用,2021,41(06):1539-1545.(Shi Anni,Li Taoshen,Wang Zhe,et al. Relay selection strategy of fullduplex wireless energy-carrying communication system based on buffer assist [J]. Computer Applications,2021,41(06): 1539-1545.

@@ -1,0 +1,113 @@
+# 临床研究
+
+# 促甲状腺激素水平与垂体促甲状腺素腺瘤患者预后的关系
+
+余南生广东省潮州市饶平县人民医院，广东 潮州515700
+
+摘要：目的 分析促甲状腺激素(TSH)水平与垂体促甲状腺素腺瘤患者预后的关系。方法 回顾性收集53例垂体促甲状腺素腺瘤患者的临床资料，各项检查后均进行常规治疗，治疗前1周内检测血清TSH水平,并根据TSH水平分为I组 $\scriptstyle \overbrace { n = 2 0 }$ ,TSH<$2 . 5 \mathrm { \ m U / L } ,$ 、Ⅱ组 $n { = } 3 3 , \mathrm { T S H } { \geqslant } 2 . 5 \mathrm { m U } / \mathrm { L } )$ 。两组均进行至少5年期的随访(或至死亡终期),记录其无瘤生存和总生存情况。结果两组性别、年龄、肿瘤直径比较无统计学意义 $( P { > } 0 . 0 5 )$ ，但Ⅱ组淋巴结转移率高于I组 $3 6 . 3 6 \%$ vs $1 0 . 0 0 \%$ $P { < } 0 . 0 5$ ，TNM分期中 $\mathbb { I } { \sim } \mathbb { V }$ 期占比高于I组 $( 5 7 . 5 8 \%$ vs $2 5 . 0 0 \%$ $P { < } 0 . 0 5 )$ ,且Ⅱ组治疗前三碘甲腺原氨酸、甲状腺素水平均高于I组,差异均有统计学意义 $( P { < } 0 . 0 5 )$ )。截至2017年2月，Ⅱ组5年无瘤生存率和总生存率分别为 $4 8 . 4 8 \% , 6 3 . 6 4 \%$ ，低于I组 $8 0 . 0 0 \% . 9 0 . 0 0 \%$ ，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。Cox回归风险模型危险因素分析发现淋巴结转移、TNM分期及三碘甲腺原氨酸、甲状腺素、TSH水平为影响垂体促甲状腺素腺瘤患者治疗后5年生存率的独立影响因素 $( P { < } 0 . 0 5 )$ 。结论 高TSH水平与垂体促甲状腺素腺瘤患者预后不良有关，临床应积极采取对症措施调控患者TSH水平。
+
+关键词：TSH；甲亢;垂体促甲状腺素腺瘤；生存情况；预后
+
+# Relationship between TSH level and prognosis of patients with thyrotropin-secreting pituitary adenoma
+
+YUNansheng The People's Hospital ofRaoping,Chaozhou 515700,China
+
+Abstract: Objective To explore therelationship between thyroid stimulating hormone (TSH)leveland the prognosis of patients with thyrotropin-secreting pituitary adenoma. Methods The clinical data of 53 patients withthyrotropin-secreting pituitary adenoma were retrospectively analyzed.Patients were performed with routine treatment after examination.One wek before treatment,serum TSHlevel wasdetected.According to TSHlevel, the patients were divided into groupI $( n { = } 2 0 ,$ TSH level $< 2 . 5 \mathrm { m U / L }$ and group II ( $\scriptstyle \cdot _ { n = 3 3 , }$ TSH level $\geqslant 2 . 5 \mathrm { m U / L }$ ). The two groups were followed up for at least 5 years (or till death).Te tumor-freesurvivaland totalsurvival wererecorded. Results There werenosignificant diferences of gender,age and tumor size between the two groups $( P { > } 0 . 0 5 )$ . Rate of lymph node metastasis was significantly higher in group II than group I ( $3 6 . 3 6 \%$ Us $1 0 . 0 0 \%$ $P { < } 0 . 0 5$ ). Among all TNM stages, the proportion of stage III\~IVwas significantly higher in group II than group I ( $5 7 . 5 8 \%$ Us $2 5 . 0 0 \%$ $P { < } 0 . 0 5$ ). Before treatment, levels of triiodothyronine $\left( \mathrm { T } _ { 3 } \right)$ and thyroxine $\mathrm { ( T _ { 4 } ) }$ were significantly higher in group II than group I $_ { ( P < 0 . 0 5 ) }$ . Till February 2017, the 5-year disease-free survival rate and overall survival rate of group II were significantly lower than those of group I ( $4 8 . 4 8 \%$ and $6 3 . 6 4 \%$ Us $8 0 . 0 0 \%$ and $9 0 . 0 0 \%$ $P { < } 0 . 0 5$ ). Cox regression risk model showed that lymph node metastasis, TNM stage, levels of $\mathrm { T } _ { 3 } , \mathrm { T } _ { 4 }$ and TSH were independent factors influencing the 5- year survival rate of patients with thyrotropin-secreting pituitary adenoma $( P { < } 0 . 0 5 )$ . Conclusion High TSH levels are associated with poor prognosis of patients withthyrotropin-secreting pituitary adenoma.Clinical measures should be taken to control the TSH level of patients.
+
+Keyword: thyroid stimulating hormone; hyperthyroidism; thyrotropin-secreting pituitary adenoma; survival; prognosis
+
+垂体促甲状腺素腺瘤是一种较为少见的内分泌疾病，其多好发于中青年女性，主要症状表现为颈部有异常肿块，当肿块较大时，患者会出现产生压迫感，甲状腺肿块可随吞咽动作随甲状腺而上下移动，故可产生吞咽异物感，多数患者还可见呼吸困难、声音嘶哑、疼痛、咳血等症状，且有甲亢、继发的垂体功能紊乱的明显表现[1-3]。虽然垂体促甲状腺素腺瘤的发病率不高，但其一旦发生可严重影响患者的生存质量，且长时间大量TSH的刺激可极大增加甲状腺癌的发生风险，因此，及时诊断与治疗对改善患者的预后至关重要。尽管目前垂体促甲状腺素腺瘤的治疗方案已逐渐明确，主要包括长效生长抑素类似物和(或)外科手术和(或)伽马刀治疗，手术效果较为可观，术后并发症较少，但临床对垂体促甲状腺素腺瘤治疗疗效及预后的预测仍处于探索阶段4，且相关报道样本量均较小[8]。有临床分析论证了生长抑素类此物的应用有利于甲状腺功能控制正常，但对于垂体瘤治疗后完全缓解率的评估仍不够准确[5]。本文主要分析TSH水平是否可用于垂体促甲状腺素腺瘤患者的预后估测，相比于目前已有的内分泌指标监测的临床研究[，本文主要以TSH水平为主要评估指标，选取的患者均获得至少5年的随访期，对评估预后情况有重要价值。现报告如下。
+
+# 1资料与方法
+
+# 1.1 临床资料
+
+回顾性选取2008年1月 ${ \sim } 2 0 1 2$ 年3月期间我院收治的垂体促甲状腺素腺瘤患者53例为研究对象，均以出现呼吸困难、声音嘶哑、疼痛、咳血、颈部肿物、吞咽异物感等症状就诊，其中男17例，女36例，年龄$2 4 { \sim } 6 4 ( 4 9 . 5 0 { \pm } 9 . 5 3 )$ 岁，体质量 $4 1 { \sim } 6 4 ( 5 7 . 0 0 { \pm } 4 . 1 8 ) \mathrm { k g }$ 肿瘤直径 $2 . 0 4 { \pm } 0 . 4 4 ~ \mathrm { c m }$ 。纳入标准：年龄 $\geqslant 1 9$ 岁且 $\leqslant$ 65岁；存在甲状腺毒症的临床表现；均经X线、CT等检查及手术后病理学确诊为垂体促甲状腺素腺瘤;入院时未进行过放射性碘治疗；各项检查后均择期行手术治疗；临床病历与随访资料完整;对本研究的目的和意义知情;本研究取得我院伦理委员会批准。排除标准：有心、肺、肝、脾及内分泌疾病或其他合并症；继发心血管系统疾病、慢性疼痛综合征；入组前已接受过相关放化疗干预;合并有甲状腺炎；入组前服用过甲状腺激素等制剂；近3月内用过激素类药物或其他影响应激反应及止痛的相关药物；既往有甲亢或甲减史；精神系统疾病或语言交流困难及具有酒精、药物滥用史；已知对本研究麻醉相关药物过敏;孕产妇、哺乳期妇女。
+
+# 1.2 分组方法
+
+入选患者均于术前1周内采集清晨空腹静脉血 ${ \it 5 \mathrm { m L } }$ $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 后取上清，采用电化学发光检测试剂盒检测TSH,严格遵照说明书进行。TSH水平的正常范围 $0 . 5 5 { \sim } 4 . 7 8 ~ \mathrm { m I / L } ^ { [ 7 ] }$ 。将53患者根据TSH水平进行分组：I组( $\scriptstyle \overbrace { n = 2 0 }$ ， $\mathrm { T S H } { < } 2 . 5 \ \mathrm { m U } / \mathrm { L } \ \$ 、Ⅱ组（ $\scriptstyle ( n = 3 3$ $\mathrm { T S H } { \geqslant } . 5 \mathrm { m U } / \mathrm { L } )$ 。
+
+# 1.3分析指标及治疗
+
+收集两组患者入院时各项人口学资料、病史、实验室检查[三碘甲腺原氨酸 $\left( \mathrm { T } _ { 3 } \right)$ ，甲状腺素 $\mathrm { ( T _ { 4 } ) } ^ { \cdot }$ 、病情严重程度(肿瘤大小、淋巴结转移情况、TNM分期)等。两组入院后治疗方法相同，均给予长效生长抑素类似物和(或)外科手术治疗。
+
+# 1.4 随访
+
+采用门诊复查、邮件、电话、微信等方式对患者进行至少5年期随访(或至死亡终期),记录患者的无瘤生存期和总生存期，其中总生存期为治疗结束至患者死亡或最后1次随访时间。
+
+表1两组患者的临床一般资料与病理资料比较 $( n , { \bar { x } } \bot s )$   
+
+<html><body><table><tr><td>组别</td><td>女性(n,%)</td><td>年龄(岁)</td><td>肿瘤直径(cm)</td><td>淋巴结转移(n,%)</td><td>TNM分期(I~II/IⅢI~V期)</td></tr><tr><td>I组(n=20)</td><td>14(70.00)</td><td>49.66±11.34</td><td>2.00±0.20</td><td>2(10.00)</td><td>15(75.00)/5(25.00)</td></tr><tr><td>Ⅱ组(n=33)</td><td>22(66.67)</td><td>51.79±10.82</td><td>2.06±0.28</td><td>12(36.36)</td><td>14(42.42)/19(57.58)</td></tr><tr><td>x21t</td><td>0.06</td><td>0.68</td><td>0.84</td><td>4.45</td><td>5.33</td></tr><tr><td>P</td><td>0.801</td><td>0.498</td><td>0.407</td><td>0.035</td><td>0.021</td></tr></table></body></html>
+
+# 1.5统计学方法
+
+选用统计学软件SPSS19.0分析和处理研究数据，计数资料用率表示，两组间人口学资料的比较采用检验；计量资料采取均数 $\cdot \pm \cdot$ 标准差表示，两组间实验室指标的比较采用t检验;利用Kaplan-Meier生存曲线、多因素Cox回归分析研究患者的预后影响因素，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1比较两组患者的临床与病理资料
+
+两组性别、年龄、肿瘤直径比较差异无统计学意义 $( P { > } 0 . 0 5 )$ ，但Ⅱ组淋巴结转移率高于I组 $3 6 . 3 6 \% \nu s$ $10 . 0 0 \%$ ),TNM分期中 $\mathbb { I } { \sim } \mathbb { V }$ 期占比高于I组 $( 5 7 . 5 8 \%$ vs$2 5 . 0 0 \%$ ,差异有统计学意义 $( P { < } 0 . 0 5$ ,表1)。
+
+# 2.2 比较两组治疗前 $\mathrm { T } _ { 3 } \mathrm { , T } _ { 4 }$ 水平
+
+Ⅱ组治疗前 ${ \mathrm { \ddot { T } } } _ { 3 }$ $\mathrm { T } _ { 4 } .$ 水平均高于I组，差异有统计学意义 $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，表2)。
+
+表2两组治疗前 $\mathrm { T } _ { 3 } , \mathrm { T } _ { 4 }$ 水平比较( $\overline { { x } } \pm s$ ,pmol/L)  
+
+<html><body><table><tr><td>组别</td><td>T</td><td>T4</td></tr><tr><td>I组(n=20)</td><td>2.26±0.72</td><td>7.41±1.42</td></tr><tr><td>Ⅱ组(n=33)</td><td>2.68±0.50</td><td>8.42±1.55</td></tr><tr><td>t</td><td>2.29</td><td>2.42</td></tr><tr><td>P</td><td>0.026</td><td>0.019</td></tr></table></body></html>
+
+# 2.3比较两组预后Kaplan-Meier生存情况
+
+截至2017年2月，两组随访率均为 $100 \%$ ,I组中位随访时间为40.5月，Ⅱ组中位随访时间为40.8月。Ⅱ组5年无瘤生存率和总生存率分别为 $4 8 . 4 8 \% ( 1 6 / 3 3 )$ ）$6 3 . 6 4 \% ( 2 1 / 3 3 )$ 明显低于I组 $8 0 . 0 0 \% \left( 1 6 / 2 0 \right) , 9 0 . 0 0 \%$ (18/20),差异有统计学意义 $\scriptstyle ( \chi ^ { 2 } = 5 . 1 7$ ,4.45, $P { < } 0 . 0 5$ .图1\~2)。
+
+# 2.4垂体促甲状腺素腺瘤患者预后的Cox回归分析
+
+以预后总生存时间为分析变量，以两组性别、年龄、肿瘤直径、淋巴结转移、TNM分期及 $\mathrm { T } _ { 3 }$ 、 $\mathrm { \Delta T _ { 4 } }$ 、TSH
+
+水平为自变量，拟合Cox回归方程，Cox回归风险模型危险因素分析发现淋巴结转移、TNM分期及 $\mathrm { T } _ { 3 } , \mathrm { T } _ { 4 }$
+
+![](images/9a35e9935a36c5c8c9f9559675c454a8c261100c6ef1a49e4006d7bfb6db14a4.jpg)  
+图1两组无瘤生存曲线$^ { * } P { < } 0 . 0 5$
+
+TSH水平为影响垂体促甲状腺素腺瘤患者治疗后5年生存率的独立影响因素 $( P { < } 0 . 0 5$ ，表3)。
+
+表3垂体促甲状腺素腺瘤患者预后的Cox回归分析  
+
+<html><body><table><tr><td>影响因素</td><td>Exp(B)</td><td>95%CI</td><td>P</td></tr><tr><td>性别(女,男)</td><td>1.312</td><td>0.569~2.331</td><td>0.992</td></tr><tr><td>年龄(≥55岁和<55岁)</td><td>1.602</td><td>0.145~2.147</td><td>0.135</td></tr><tr><td>肿瘤直径(≥2cm和<2cm)</td><td>2.550</td><td>1.223~4.387</td><td>0.074</td></tr><tr><td>淋巴结转移(是,否)</td><td>3.164</td><td>2.012~6.321</td><td>0.001</td></tr><tr><td>TNM分期(I~Ⅱ期,II~IV期)</td><td>3.027</td><td>1.226~5.430</td><td>0.019</td></tr><tr><td>T(≥2.5 pmol/L和<2.5 pmol/L)</td><td>3.271</td><td>1.096~6.210</td><td>0.001</td></tr><tr><td>T4(≥7.2 pmol/L和<7.2 pmol/L)</td><td>3.450</td><td>3.471~6.996</td><td>0.001</td></tr><tr><td>TSH(≥2.5 mU/L和<2.5 mU/L)</td><td>4.270</td><td>1.174~7.393</td><td>0.000</td></tr></table></body></html>
+
+![](images/ebc50557b116b06293316083e69baa97386ba4f19c136873e6b16020cfb280fd.jpg)  
+图2两组总生存曲线$^ { * } P { < } 0 . 0 5$
+
+# 3讨论
+
+垂体促甲状腺素腺瘤的临床治疗一般首选经蝶垂体腺瘤切除术，并适当配合药物治疗，虽然临床多通过测定甲功、评估原有病灶影像学改变及术后并发症来评估临床治疗疗效，但是目前国内外尚无关于垂体促甲状腺素腺瘤手术疗效的统一评估标准，且部分患者可存在术后复发，影响预后，因此有学者认为垂体促甲状腺素腺瘤患者术后长期随访十分有必要，尤其是确定具有高灵敏度的预后预测实验室指标意义重大[9-10]
+
+TSH是一种由腺垂体分泌的促甲状腺生长因子，其可参与细胞的生长发育过程，可抑制肿瘤坏死细胞因子的分泌，在促进甲状腺滤泡上皮细胞增生、甲状腺激素合成及释放方面也扮演重要角色[1-12]TSH水平可反映甲状腺疾病严重程度，尤其是甲状腺乳头癌患者的TSH表达量显著增加[3]。TSH与甲状腺增生、结节性甲状腺肿的术后复发有显著的相关性[4]。本研究对93例垂体促甲状腺素腺瘤患者的临床资料进行分析总结，术前1周内检测血清TSH水平，并根据TSH水平高低分为I组、Ⅱ组，Ⅱ组淋巴结转移率显著高于I组，TNM分期中 $\mathbb { I } { \sim } \mathbb { V }$ 期占比明显高于I组，且Ⅱ组治疗前 $\mathrm { \Delta T } _ { 3 }$ 、T4水平均显著高于I组。该结果提示TSH水平与垂体促甲状腺素腺瘤患者淋巴结转移、TNM分期密切相关，与上述报道具有一致性。其中 ${ \mathrm { T } } _ { 3 }$ / $\mathrm { \Delta T _ { 4 } }$ 与TSH水平具有相关性，与二者的合成与分泌主要依赖于TSH这一调节因子，从而促进甲状腺生长[5]，且目前已有报道从基因学角度分析证实了 $\mathrm { T } _ { 3 } , \mathrm { T } _ { 4 }$ 与TSH水平均参与甲状腺疾病的发病机制[16]
+
+本组患者各项检查后均择期行手术治疗，同时辅以生长抑素类似物药物治疗。国外有研究报道，在术前应用生长抑素类似物可一定程度调控垂体促甲状腺素腺瘤患者术前甲功水平，且有利于缩小侵袭性肿瘤体积，从而降低手术难度[17-18]。本研究53例患者治疗后通过长达5年的随访，了解不同TSH水平的患者预后情况。结果显示，截至2017年2月，Ⅱ组5年无瘤生存率和总生存率明显低于I组，提示TSH水平较高者5年无瘤生存率和总生存率均较低，预后不良。有研究认为TSH水平在垂体促甲状腺激素腺瘤患者术后随访中具有重要意义，可预测和观察腺瘤复发与进展的情况[19.21]，但该研究并未将患者的预后情况纳入分析。本研究Cox回归风险模型危险因素分析发现淋巴结转移、TNM分期及 ${ \mathrm { T } } _ { 3 }$ 、 $\mathrm { T } _ { 4 }$ 、TSH水平为影响垂体促甲状腺素腺瘤患者术后5年生存率的独立影响因素，表明高TSH水平可预测垂体促甲状腺素腺瘤患者术后预后不良。李杰等2的报道证实高TSH水平是分化型甲状腺癌预后不良的独立因素，与本研究结论具有一致性，因此，临床应重视影响垂体促甲状腺素腺瘤患者预后的危险因素，采取积极针对性的防治措施尤其是调节TSH水平以改善患者预后。
+
+# 参考文献：
+
+[1]国垂体腺瘤协作组.中国垂体腺瘤外科治疗专家共识[J].中华医学杂志,2015,95(5):1324-9.  
+[2]岳志远，张韶君.垂体促甲状腺素腺瘤的研究进展[J]．中国现代医生,2016,54(33):165-8.  
+[3]姜晓华，蔡 洁,王卫庆，等.垂体促甲状腺素瘤的临床特点与诊治分析[J].中华内分泌代谢杂志,2012,28(9):729-33.  
+[4]杜立平.促甲状腺激素TSH受体基因突变同侵袭性垂体瘤的相关性研究[J].国际检验医学杂志,2013,34(8):921-2.  
+[5]姜艳,顾 锋,朱惠娟,等.分泌促甲状腺素及生长激素的垂体混合瘤临床特点及诊疗分析[J]．中国实用内科杂志，2016，36(7):567-9.  
+[6]王璐璐.内分泌激素水平监测对生长激素型垂体腺瘤患者手术远期疗效的研究[J].中国医药指南,2017,15(9):132-3.  
+[7]唐鲲,时立新,严征.甲状腺结节良恶性与术前血清促甲状腺素间的关系研究(附1553例报告)[J].贵州医药,2015,39(7):619-20.  
+[8]赵苇苇，杨叶虹，叶红英,等.垂体促甲状腺素分泌瘤20例临床分析[J].中华内科杂志,2014,53(1):19-22.  
+[9]张国军，吕虹，马瑞敏，等.多激素平行测定法的建立及其在垂体腺瘤筛查中的初步研究[J]．中华临床医师杂志:电子版，2013,9(7): 2918-22.  
+[10]陈东栋,黄擎擎,吴建东,等.垂体促甲状腺激素腺瘤的诊断和治疗[J].中华神经外科疾病研究杂志,2015,14(5):441-3.  
+[11]李洁茹,白斌,曹娟,等.老年急性缺血性脑卒中患者下丘脑腺垂体激素水平与预后相关性分析[J]．山西医药杂志，2014，43(14):1611-4.  
+[12]马飞国，王红军.甲状腺乳头状癌颈侧区淋巴结转移与血清促甲状腺激素的相关关系研究[J].中华普外科手术学杂志电子版，2015,9(6): 59-60.  
+[13]Rinaldi S,Plummer M,Biessy C,et al.Thyroid-stimulatinghormone,thyroglobulin，and thyroid hormones and risk ofdifferentiated thyroid carcinoma: the EPIC study[J].JNatl CancerInst,2014,106(6):97-100.  
+[14]曾剑锋,杨跃超,郭 红,等.新疆昌吉回族自治州结节性甲状腺肿术后血清促甲状腺素水平与复发关系的研究[J].重庆医科大学学报,2013,38(5): 554-7.  
+[15]叶文春,方向明，王玉容,等.亚临床甲状腺功能减退症患者促甲状腺素水平与血脂的关系研究[J].华西医学,2015,30(5):846-9.  
+[16]滕晓春,金婷,王冉冉,等.一例TRβ基因P453T突变所致的甲状腺激素抵抗综合征合并垂体TSH微腺瘤的病例报告[J]．中华内分泌代谢杂志,2016,32(1):19-23.  
+[17]凌 南，李向东，惠国桢，等.垂体促甲状腺素腺瘤的诊断和处理[J].江苏医药,2012,38(16): 1896-8.  
+[18]Kuzu F,Bayraktaroglu T, Zor F,et al.A thyrotropin-secretingmacroadenoma with positive growth hormone and prolactinimmunostaining:A case report and literature review[J].Niger JClin Pract,2015,18(5): 693-7.  
+[19]杨莹莹,刘 浩,胡 嫒,等.甲状腺素检测在垂体促甲状腺激素腺瘤术后随访中的意义[J].中华医学杂志,2016,96(47):3825-8.  
+[20]李 杰,张 博,白 杨,等.血清甲状腺球蛋白及促甲状腺素在分化型甲状腺癌预后判断中的意义[J].临床外科杂志,2016,24(3):193-6.  
+[21]岳增文，刘进忠，朱宝玉，等.转酮醇酶样蛋白1在舌鳞状细胞癌中的表达及意义[J].口腔疾病防治,2016,24(3):150-3.

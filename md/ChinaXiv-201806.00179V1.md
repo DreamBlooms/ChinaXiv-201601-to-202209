@@ -1,0 +1,123 @@
+临床研究
+
+# 右美托咪定对行肺癌根治术的患者围手术期炎症及肺功能保护作用的影响
+
+郭远波}，徐金东'，纪雪霞'，张建杏'，梁杰贤²，周国斌'  
+1广东省人民医院广东省医学科学院麻醉科,广东广州 510080；广东省心血管病研究所麻醉科,广东广州  
+510080
+
+摘要：目的探讨右美托咪定对行肺癌根治术的患者围手术期炎症及肺功能保护作用的影响。方法选取我院2014年5月～2016年5月的124例肺癌根治术患者进行研究,随机分为试验组和对照组各62例,对照组采用单一药物麻醉,试验组在对照组的基础上进行右美托咪定麻醉，比较手术开始前 $\left( \mathrm { T } _ { 0 } \right)$ 、单肺通气(OLV) $3 0 \mathrm { m i n } ( \mathrm { T } _ { 1 } )$ 、OLV60min(T)及手术结束 $( \mathrm { T } _ { 3 } ) 2$ 组患者的血清中IL-1β、IL-10 以及肿瘤坏死因子(TNF)- $\mathbf { \sigma } \cdot \mathbf { a }$ 水平变化，采用酶联免疫法（ELISA)测定两组术中肺脏组织标本匀浆中丙二醛(MDA）髓过氧化物酶(MPO)以及黄嘌呤氧化酶(XOD)水平，观察2组的动脉血氧分压 $\left( \mathrm { P a O } _ { 2 } \right)$ ）、氧合指数(OI)、气道平台压(APP)和气道阻力(AR)。结果2组患者在T和T时间点IL-1β、IL-10、TNF- $\mathbf { \alpha } _ { \cdot } \mathbf { \mathrm { a } } _ { } $ MDA、MPO、XOD均明显升高,而且试验组的IL-1β、IL-10、TNF- $\mathbf { \nabla } \cdot \mathbf { a } _ { } $ 、MDA水平明显低于对照组,MPO、XOD明显高于对照组,差异具有统计学意义 $( P { < } 0 . 0 5 )$ ;2组患者在T和T点的 $\mathrm { P a O } _ { 2 }$ 、OI明显降低,气道平台压和气道阻力明显升高,但是试验组气道平台压和气道阻力明显低于对照组， $\mathrm { P a O } _ { 2 }$ 和OI明显高于对照组，差异具有统计学意义（ $_ { ( P < 0 . 0 5 ) }$ 。结论肺癌根治术麻醉患者中采用右美托咪定麻醉可以有效的减轻肺部炎症反应，并对患者的肺功起到重要保护作用。
+
+关键词：肺癌根治术；右美托咪定；炎症；肺功能；保护作用
+
+# Protective effect of dexmedetomidine against perioperative inflammation and on pulmonary function in patients undergoing radical resection of lung cancer
+
+GUO Yuanbo,XUJindong',JI Xuexia,ZHANG Jianxing,LIANG Jiexian²,ZHOU Guobin   
+DepartmentofAnesthesiologyGuangdongGeneralHospitalGuangdongAcademyofMedicalSciences，Guangzhou5108China; ²Department of Anesthesiology, Guangdong Cardioascular Institute,Guangzhou 51oo8o,China
+
+Abstract: ObjectiveTo studythe protectiveefectof dexmedetomidine against perioperative inflammationandon pulmonary functionin patientsundergoingdicalresectionofungcancer.MethodsFromMay214toMay,2016,124patients withlung cancer receiving radical surgeries were randomized into experimental group $( n { = } 6 2 )$ and control group $( n { = } 6 2 )$ . The patients in thecontrol group receiveda single anesthetic agent for anesthesia,andadditional dexmedetomidine was given in the experimental group. The levels of serum interleukin- $\cdot 1 \beta$ (IL-1β), IL-10, and tumor necrosis factor-alpha (TNF- $\alpha$ )weremeasured before the operation $( \mathrm { T } _ { 0 } )$ ，at $3 0 ~ \mathrm { m i n }$ (T1) and $6 0 ~ \mathrm { m i n }$ $( \mathrm { T } _ { 2 } )$ during one lung ventilation (OLV) and at the end of operation $\left( \mathrm { T } _ { 3 } \right)$ Enzyme-linked immunosorbentassy (ELISA)wasused todeterminethelevelsof malondialdehyde (MDA),myeloperoxidase (MPO) and xanthine oxidase (XOD), and the arterial oxygen partial pressure $\left( \mathrm { P a O } _ { 2 } \right)$ ， oxygenation index (OI), airway plateau pressure (APP) and airway resistance (AR) were also recorded. Results At the time points of $\mathrm { T } _ { 1 }$ and ${ \mathrm { T } } _ { 2 } ,$ IL-1β, IL-10, MDA, MPO, TNF- $\scriptstyle \cdot \alpha ,$ and XOD levels were significantly increased inboth of the groups,but the levels of IL-1, IL-10,TNF- $\alpha$ and MDA were significantlylowerandMPOand XODlevels significantlyhigher in the experimental group than inthecontrolgroup( $P <$ 0.05). In both groups, $\mathrm { P a O } _ { 2 }$ and OI decreased and APP and AR increased significantly at $\mathrm { T } _ { 1 }$ and ${ \mathrm { T } } _ { 2 } ,$ but APP and AR were significantly lower and $\mathrm { P a O } _ { 2 }$ and OI significantly higher in the experimental group than in the control group $_ { ( P < 0 . 0 5 ) }$ Conclusion Anesthesia with dexmedetomidine in lung cancer patients undergoing radical surgery can efectively reduce the inflammatory response of the lungs and protect the lung function of the patients.
+
+Keywords: radical resection of lung cancer; dexmedetomidine; inflammation; pulmonary function
+
+# 肺癌患者行手术治疗时通常采用全身麻醉联合双
+
+腔支气管插管单肺通气为手术提供良好的视野，机械通气、单肺通气和手术创伤都会引起机体免疫反应，从而导致免疫相关的IL-1β、IL-10、TNF-α等相关炎症介质的释放，从而引起肺炎症反应，造成一定的损伤-4]，而全麻过程中合理选用一些麻醉药物，对减轻肺损伤保护肺功能起到一定的作用[56]。右美托咪定(DEX)是一种新型的镇静药物，DEX对 $\mathbf { \dot { a } } _ { 2 }$ 肾上腺素受体具有高度选择性，已被广泛用于临床麻醉。有研究报道：在麻醉过程中，能使患者的心率，血压平稳.改善胸科手术单肺通气期间的氧合[7-8]。还有动物实验研究表明,DEX可以抑制并减少促炎性介质的释放，从而抑制炎症反应，减轻炎症对肺的损伤。DEX通过减轻氧化应激反应，线粒体功能障碍，以及线粒体介导的细胞凋亡对脓毒症引起的肺损伤同样有保护作用[10]。以往基于动物实验的基础研究较多[10-13],临床的研究相对较少，有些报道结果相对局限[1415],而在肺癌根治术中，单肺机械通气及手术肺创伤导致患者炎症反应，全麻术中静脉使用右美托咪定是否具有类似的抑制炎症反应起到肺保护的效果，目前此方面研究较少。本研究拟观察DEX对行肺癌根治术患者血清炎症因子、肺组织中炎症介质及肺功能的影响，探讨DEX对肺癌围术期的炎症及肺功能保护作用及机制。
+
+# 1资料和方法
+
+# 1.1 基本资料
+
+选取我院2014年5月 ${ \sim } 2 0 1 6$ 年5月的124例行肺癌根治术患者进行研究。本研究已得到本院医学伦理委员会批准，并详细告知患者及家属并签署知情同意书。纳入标准[：(1)所有患者均为单侧肺叶出现肿瘤，而且周围型的肿瘤直径小于 $5 \mathrm { c m }$ ;(2)患者经过胸部CT的检查均无明显的肿大。排除标准：(1)精神病疾患者并长期服用精神类药品；(2)伴有呼吸道及肺部感染的患者;(3)伴有哮喘病史的患者(4)术前肺功能检查较差患者。
+
+# 1.2 方法
+
+采用随机数字表法，随机分为试验组和对照组各62例，其中试验组男性39例，女性23例，年龄40\~69岁，平均年龄为 $5 5 . 3 { \pm } 1 0 . 2 \$ 岁。对照组男性38例，女性24例，年龄41\~70岁，平均年龄为 $5 5 . 8 { \pm } 1 0 . 9 \ \$ 岁。2组患者在性别、年龄等方面无统计学意义 ${ \it P } { > } 0 . 0 5 )$ ，具有可比性。所有患者均在手术前禁食 $6 { \sim } 8 \mathrm { ~ h ~ }$ 和禁饮 $4  { \mathrm { h _ { \circ } } }$ 入室后常规监测脉搏血氧饱和度、血压、心率,并使用加温毯进行保温。术前 $1 5 ~ \mathrm { m i n }$ 给予盐酸戊乙奎醚注射液 $0 . 0 1 ~ \mathrm { m g / k g }$ 减少气道分泌物产生。采用全身麻醉诱导，咪达唑仑$0 . 0 5 \mathrm { m g / k g }$ 舒芬太尼 $3 ~ { \mu \mathrm { g / k g } }$ 、依托咪酯 $0 . 2 5 \mathrm { \ m g / k g }$ 顺阿曲库铵 $0 . 2 ~ \mathrm { m g / k g }$ 进行麻醉诱导。本研究均采用37号左侧双腔支气管导管插管，纤维支气管镜定位，机控制呼吸,吸入氧浓度 $3 5 \%$ ,呼吸参数根据文献进行设置[18]试验组的患者气管插管成功后先以 $1 \mu \mathrm { g / k g }$ 泵注右美托咪定 $1 0 ~ \mathrm { m i n }$ ，然后再以 $0 . 4 ~ \mu \mathrm { g } / ( \mathrm { k g } \cdot \mathrm { h } )$ 维持,手术结束前$3 0 ~ \mathrm { m i n }$ 停止泵注；对照组则不予泵注右美托咪定。两组患者均使用异丙酚 $3 { \sim } 4 ~ \mathrm { m g / ( k g \cdot h ) }$ ,瑞芬太尼 $0 . 1 \sim$ $0 . 1 5 \mu \mathrm { g } / ( \mathrm { k g } \cdot \mathrm { m i n } )$ ,顺阿曲库铵 $3 ~ { \mu \mathrm { g / ( k g \cdot h ) } }$ 维持麻醉,通过调节异丙酚、瑞芬太尼泵注速度维持麻醉深度，麻醉深度采用德国产Narcotrend监测。两组患者均在手术结束前 $3 0 ~ \mathrm { m i n }$ 停止输注顺式阿曲库铵,结束前 $1 0 ~ \mathrm { m i n }$ 停止输注异丙酚及瑞芬太尼，同时追加舒芬太尼镇痛。手术开始时行单肺通气[19],若术中出现血氧饱和度持续下降，暂停手术，重新定位导管、吸痰以及通过手控呼吸纠正，手术结束胸腔排除气体后行双肺通气,送患者入麻醉复苏室，待意识清醒、自主呼吸恢复及生命体征稳定后拔除双腔支气管导管。
+
+# 1.3 评价指标
+
+1.3.1炎症介质水平的测定于手术开始前 $\left( \mathrm { T } _ { 0 } \right)$ 、单肺通气 $( \mathrm { O L V } ) 3 0 \ \mathrm { m i n } ( \mathrm { T } _ { 1 } ) \mathrm { . O L V } \ 6 0 \ \mathrm { m i n } ( \mathrm { T } _ { 2 } )$ 及手术结束 $\left( \mathrm { T } _ { 3 } \right)$ （204号进行测定，于早上采集患者空腹静脉血 $1 5 \ \mathrm { m L } , 3 0 0 0 \ \mathrm { r / }$ min离心 $1 0 \mathrm { m i n }$ ，取血清置于 $- 2 0 \ \mathrm { { ^ circ C } }$ 保存备用。采用日本协和医药株式会社AP-960全自动酶联免疫分析仪，通过酶联免疫吸附法(ELISA法)测定血清IL- $1 \beta$ IL-10、TNF-α水平[20]
+
+1.3.2肺脏组织指标的测定于全麻后手术开始 $\left( \mathrm { T } _ { 0 } \right)$ 单肺通气(OLV) $3 0 \mathrm { \ m i n ( T _ { 1 } ) } \mathrm { , O L V 6 0 \ m i n ( T _ { 2 } ) }$ 及手术结束$\left( \mathrm { T } _ { 3 } \right)$ 进行测定，从病变需切除的肺叶，距离肿瘤 $1 { > } 5 \ \mathrm { c m }$ 处切取小块正常肺组织，采用酶联免疫法(ELISA法)测定肺组织匀浆上清液丙二醛(MDA）、髓过氧化物酶(MPO)以及黄嘌呤氧化酶(XOD)。采用日本协和医药株式会社AP-960全自动酶联免疫分析仪进行测定。
+
+1.3.3动脉血氧分压 $\mathrm { ( P a O } _ { 2 } )$ 氧合指数(OI)气道平台压和气道阻力的测定于术前 $\left( \mathrm { { T _ { 0 } } } \right)$ 、单肺通气 $( \mathrm { O L V } ) 3 0 \mathrm { m i n }$ $( \mathrm { T } _ { 1 } ) \mathop { \mathrm { . O L V } } 6 0 \mathrm { m i n } ( \mathrm { T } _ { 2 } )$ 及手术结束 $\left( \mathrm { T } _ { 3 } \right)$ 进行测定，采集桡动脉血液，检测吸入氧分压 $\mathrm { P a O } _ { 2 } \mathrm { . O I } _ { \circ }$ 检测2组患者同一时间点肺损伤情况，主要为气道平台压与气道阻力。
+
+# 1.4统计学方法
+
+采用SPSS19.00软件处理，所有数据均符合正态分布，计量资料以均数 $\cdot \pm$ 标准差表示，用t进行检验， $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+2.12组患者的IL-1β、IL-10、TNF-α水平比较
+
+由表1可知2组患者在 $\mathrm { T } _ { 1 }$ 和 $\mathrm { T } _ { 2 }$ 时间点IL- $1 \beta$ 、IL-10、TNF-α均明显升高，而且试验组的这些指标水平明显低于对照组，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ）。
+
+2.22组患者的MDA、MPO、XOD水平比较
+
+由表2可知2组患者在 $\mathrm { T } _ { 1 }$ 和 $\mathrm { T } _ { 2 }$ 时间点MDA、MPO、XOD均明显升高，而且试验组的MDA水平明显低于对照组，MPO、XOD明显高于对照组，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。2.32组患者 $\mathrm { P a O } _ { 2 \setminus } \mathrm { O I } ,$ 气道平台压和气道阻力比较
+
+由表3可知2组患者在 $\mathrm { T } _ { 1 }$ 和 $\mathrm { T } _ { 2 }$ 点的 $\mathrm { P a O } _ { 2 } \mathrm { , O I }$ 明显降低，气道平台压和气道阻力明显升高，但是试验组气道平台压和气道阻力明显低于对照组， $\mathrm { P a O } _ { 2 }$ 和OI明显高于对照组,差异具有统计学意义 $( P { < } 0 . 0 5 )$ 0
+
+表12组患者的IL-1β、IL-10、TNF-α水平比较 Tab.1 Comparison of serum IL-1β,IL-10 and TNF- $\alpha$ levels at different time points between the two groups (Mean±SD,ng/L)   
+
+<html><body><table><tr><td rowspan="2">Time point</td><td colspan="3">Experiment group (n=62)</td><td colspan="3">Control group (n=62)</td></tr><tr><td>IL-1β</td><td>IL-10</td><td>TNF-α</td><td>IL-1β</td><td>IL-10</td><td>TNF-α</td></tr><tr><td>T</td><td>5.21±0.36</td><td>30.3±2.3</td><td>13.9±3.2</td><td>5.32±0.26</td><td>30.5±3.6</td><td>13.7±2.1</td></tr><tr><td>T</td><td>10.3±1.1*</td><td>34.3±6.9*</td><td>28.9±2.6*</td><td>16.3±2.1</td><td>55.3±10.3</td><td>44.1±5.9</td></tr><tr><td>T</td><td>8.26±0.25*</td><td>41.3±3.6*</td><td>21.9±2.1*</td><td>12.6±2.6</td><td>59.6±10.6</td><td>32.9±3.5</td></tr><tr><td>T</td><td>7.12±0.32*</td><td>32.3±6.9*</td><td>18.5±3.2*</td><td>8.65±0.98</td><td>41.3±12.3</td><td>23.9±2.4</td></tr></table></body></html>
+
+Compare to Control group, $^ { * } P { < } 0 . 0 5$
+
+<html><body><table><tr><td rowspan="2">Time point</td><td colspan="3">Experiment group (n=62)</td><td colspan="3">Control group (n=62)</td></tr><tr><td>MDA (mmol/L)</td><td>MPO (ng/mL)</td><td>XOD (ng/mL)</td><td>MDA (mmol/L)</td><td>MPO (ng/mL)</td><td>XOD (ng/mL)</td></tr><tr><td>T</td><td>4.85±0.36</td><td>12.3±0.6</td><td>21.3±2.6</td><td>4.82±0.36</td><td>12.6±2.1</td><td>21.4±2.8</td></tr><tr><td>T</td><td>5.12±0.21*</td><td>14.6±0.2*</td><td>26.9±2.8*</td><td>5.65±0.25</td><td>16.2±2.3</td><td>28.6±3.7</td></tr><tr><td>T</td><td>5.98±0.25*</td><td>16.3±0.3*</td><td>28.9±2.7*</td><td>6.21±0.32</td><td>17.9±2.6</td><td>29.2±2.1</td></tr><tr><td>T</td><td>6.35±0.36*</td><td>18.3±2.3*</td><td>30.5±3.9*</td><td>6.99±0.31</td><td>18.9±2.3</td><td>31.8±2.4</td></tr></table></body></html>
+
+Compare to Control group, $^ { * } P { < } 0 . 0 5$ .MDA:Malondialdehyde;MPO:Myeloperoxidase;XOD:Xanthine oxidase.
+
+表22组患者的MDA、MPO、XOD水平比较 Tab.2 Comparison of MDA, MPO,and XOD levels at diferent time points between the two groups (Mean±SD)   
+表32组患者 $\mathrm { P a O } _ { 2 }$ 、OI、气道平台压和气道阻力比较 Tab.3 Comparison of $\mathrm { P a O } _ { 2 } ,$ OI,APP,and AR at different time points between the two groups (Mean±SD)   
+
+<html><body><table><tr><td rowspan="2">Time point</td><td colspan="4">Experiment group (n=62)</td><td colspan="4">Control group (n=62)</td></tr><tr><td>PaO (mmHg)</td><td>OI (mmHg)</td><td>APP (cmHO)</td><td>AR (cmHO/LS) PaO2 (mmHg)</td><td></td><td>OI (mmHg)</td><td>APP (cmHO)</td><td>AR (cmHO/LS)</td></tr><tr><td>T</td><td>97.3±10.3</td><td>399.3±21.6</td><td>10.3±2.2</td><td>14.3±2.3</td><td>97.5±12.3</td><td>400.1±25.9</td><td>10.3±3.6</td><td>14.5±3.2</td></tr><tr><td>T</td><td>88.9±12.4*</td><td>289.9±15.3*</td><td>18.6±2.1*</td><td>12.6±2.1*</td><td>81.2±14.3</td><td>221.3±18.9</td><td>21.3±3.2</td><td>14.9±2.3</td></tr><tr><td>T</td><td>93.2±14.3*</td><td>359.9±24.5*</td><td>16.3±2.5*</td><td>11.3±2.1*</td><td>88.3±15.3</td><td>288.6±24.5</td><td>22.9±2.1</td><td>15.9±2.8</td></tr><tr><td>T</td><td>98.3±22.6*</td><td>395.9±22.3*</td><td>13.2±3.1*</td><td>10.2±1.3*</td><td>97.3±15.3</td><td>377.5±26.3</td><td>15.3±2.8</td><td>14.3±3.1</td></tr></table></body></html>
+
+Compare to Control group, $^ { * } P { < } 0 . 0 5$ $\mathrm { P a O } _ { 2 }$ ：Arterial oxygen partial pressure; OI: Oxygenation index; APP:Airway plateau pressure; AR: Airway resistance.
+
+# 3讨论
+
+右美托咪定作为一种新型的镇静药物，近年来广泛的应用于手术及危重病监护室患者的镇静。除了镇静作用，相关的报道显示右美托咪定与抑制炎症反应及器官保护有一定的关系[7,10,17-19]。研究显示右美托咪定可减轻毒素诱导休克大鼠的炎症反应，抑制炎性介质或细胞的释放，进而降低死亡的发生，可以降低血清TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-6水平，这种发生机制可能与抑制炎性因子释放和氧化应激反应有关[20-21]。通过对右美托咪定的抗炎作用进一步研究,并在肺癌手术过程中评价IL- $1 \beta$ IL-10、TNF-α指标，结果显示使用了右美托咪定麻醉的患者在T和T阶段，IL- $1 \beta$ 、IL-10、TNF-α水平明显降低，从而证明了使用右美托咪定进行术中镇静可以起到抗炎的作用，并对肺功能的保护起到一定作用，这和大部分学者的研究基本一致[22-23],可以应用于肺癌根治等全麻机械通气的外科手术中。
+
+氧化应激反应也是导致手术过程中器官损伤的一个重要因素，本研究对肺脏组织的MDA、MPO、XOD水平进行分析，结果显示使用右美托咪定进行镇静麻醉可以降低MDA含量，增加MPO、XOD水平，起到抗氧化应激反应。其中MDA会引起蛋白质、核酸等生命大分子的交联聚合，且具有细胞毒性[24-26],而且对肺部的损伤比较严重;其中髓过氧化物酶(MPO)作为一种血红素蛋白酶，不仅可以杀灭和吞噬细胞内的微生物，释放到细胞外可以破坏多种靶物质，如肿瘤细胞等，对机体的炎性介质等起到重要作用[27-29];黄嘌呤氧化酶(XOD)能氧化次黄嘌呤、黄嘌呤和醛等，对机体产生和调节炎症反应等多方面发挥作用[30-31]。因此MPO和XOD会在肺部起到保护肺的作用，而麻醉中持续使用右美托咪定，MPO和XOD会增加。本研究的结果显示右美托咪定可以很好的调节MDA、MPO和XOD水平，从而起到保护肺的作用。
+
+$\mathrm { P a O } _ { 2 }$ 、OI、气道平台压和气道阻力是反应肺功能的重要指标[32]，这些指标在单肺通气过程中会发生明显变化。术中采用的保护性肺通气模式可以降低急性肺损伤等情况的发生，但过低的潮气量可能会影响到血氧饱和度,出现低血氧症[33-34]。因此采用这种保护性肺通气的同时并将右美托咪定应用于麻醉过程，进而可以抑制患者肺部炎症反应进程，同时也起到保护患者肺功能的作用[5]。右美托咪定麻醉的患者在 $\mathrm { T } _ { 1 }$ 和 $\mathrm { T } _ { 2 }$ 阶段 $\mathrm { P a O } _ { 2 } \mathrm { , O I } ,$ 气道平台压和气道阻力均出现明显变化,但是右美托咪定麻醉组患者的气道平台压和气道阻力明显低于未使用右美托咪定麻醉组， $\mathrm { P a O } _ { 2 }$ 和OI明显高于不使用右美托咪定麻醉组，对患者肺功能起到保护作用。因此采用右美托咪定麻醉可以起到抗炎性及保护患者的肺功能的作用,有助于患者术后恢复，并可将其广泛的应用于多种疾病的外科手术的麻醉维持中。
+
+综上所述，肺癌根治术患者麻醉中持续使用右美托咪定可以有效的减轻肺部炎症反应，并对患者的肺功能起到一定的保护作用。
+
+# 参考文献：
+
+[1]Khalil MA.Smoking as a risk factor for intraoperative hypoxemia during one lung ventilation[J].JAnesth,2013,27(4): 550-6.   
+[2]Sugasawa Y,Yamaguchi K,Kumakura SA,et al.Effects of sevoflurane and propofol on pulmonary inflammatory responses during lung resection[J].JAnesth,2012,26(1): 62-9.   
+[3]Schilling T,Kozian A,Huth C,et al. The pulmonary immune effects of mechanical ventilation in patients undergoing thoracic surgery [J].Anesth Analg,2005,101(4): 957-65.   
+[4]Baudouin SV.Lung injury after thoracotomy[J].Br JAnaesth, 2003, 91(1): 132-42.   
+[5]杨贞,欣荣,吕锐.右美托咪定预处理对肝脏手术后患者肺损伤的 影响[J].局解手术学杂志,2015,24(5):553-6.   
+[6]Huang L,Tang YT,Qin J,et al.Vasoactive intestinal peptide enhances TNF-alpha-Induced IL-6 and IL-8 synthesis in human proximal renal tubular epithelial cells by NF-kappa B-Dependent mechanism[J].Inflammation,2012,35(3):1154-60.   
+[7]Thongrong C, Sirikannarat P, Kasemsiri P, et al. Comparison of dexmedetomidine and fentanyl to prevent haemodynamic response to skull pin application in neurosurgery: double blind randomized controlled trial[J].Anaesthesiol Intensive Ther, 2017,49(4): 268-73.   
+[8]Kernan S,Rehman S,Meyer T, et al. Effects of dexmedetomidine on oxygenation during one-lung ventilation for thoracic surgery in adults[J]. JMinim Access Surg,2011,7(4): 227-31.   
+[9]Gu J, Chen J, Xia P,et al. Dexmedetomidine attenuates remote lung injury induced by renal ischemia-reperfusion in mice［J].Acta Anaesthesiol Scand,201,55(10): 12-8.   
+[10]Fu CL，Dai X，Yang Y,et al.Dexmedetomidine attenuates lipopolysaccharide-inducedacutelunginjurybyinhibiting oxidative stress,mitochondrial dysfunction and apoptosis in rats[J]. Mol Med Rep,2017,15(1): 131-8.   
+[11]解春艳,李云峰,梁江水,等.右美托咪定对肠缺血再灌注肺损伤中自 噬与凋亡的影响[J].中华结核和呼吸杂志,2015,38(10):761-4.   
+[12] Cavalcanti V, Santos CL, Samary CS,et al. Effects of short-term propofol and dexmedetomidine on pulmonary morphofunction and biological markers in experimental mild acute lung injury [J]. Respir Physiol Neurobiol, 2014,203(3): 45-50.   
+[13]Heil LB,Santos CL,Santos RS,et al. The effects of Short-Term propofol and dexmedetomidineon lung mechanics,histology,and biological markers in experimental obesity[J]. Anesth Analg, 2016, 122(4): 1015-23.   
+[14]Lee SH, Lee CY,Lee JG,et al. Intraoperative dexmedetomidine improves the quality of recovery and postoperative pulmonary function in patientsundergoing video-assisted thoracoscopic surgery: a CONSORT-Prospective,randomized,controlled trial[J]. Medicine (Baltimore),2016,95(7): e2854.   
+[15]Gao SQ,Wang YE,Zhao J,et al.Effects of dexmedetomidine pretreatment on heme oxygenase-1 expression and oxidative stress during one-lung ventilation[J].Int J Clin Exp Pathol,2015,8(3): 3144-9.   
+[16]Xia R,Yin H,Xia ZY,et al. Effect of intravenous infusion of dexmedetomidine combined with inhalation of isoflurane on arterial oxygenation and intrapulmonary shunt during Single-Lung ventilation[J].Cell Biochem Biophys,2013,67(3):1547-50.   
+[17]李远强,王志刚,宫本晶.等不同剂量右美托咪定对体外循环下心内 直视手术患儿肺损伤的影响[J].中华麻醉学杂志,2014,34(5):529- 32.   
+[18]Sentirk M,Slinger P,Cohen E. Intraoperative mechanical ventilation strategies for one-lung ventilation[J].Best Pract Res Clin Anaesthesiol,2015,29(3):357-69.   
+[19] Xiang H, Hu B,Li ZF,et al. Dexmedetomidine controls systemic cytokine levels through thecholinergic anti-inflammatory pathway [J].Inflammation,2014,37(5): 1763-70.   
+[20]Xie C,Wang Z,Tang J, et al. The efect of dexmedetomidine posttreatment on the inflammatory response of astrocyte induced by lipopolysaccharide[J].Cell Biochem Biophys,2015,71(1): 407-12.   
+[21]邓若熹,张 晟,张锦枝,等.右美托咪定在全麻手术中对炎症及肺损伤 保护作用的探讨[J].中华医院感染学杂志,2013,23(10):2343-5.   
+[22]Sugasawa Y, Yamaguchi K, Kumakura S,et al. The effect of onelung ventilation upon pulmonary inflammatory responses during lung resection[J].JAnesth,2011,25(2): 170-7.   
+[23]Liu Z,Wang Y,Wang Y,et al.Dexmedetomidine attenuates inflammatory reaction in the lung tissues of septic mice by activatingcholinergicanti-inflammatorypathway[J].Int Immunopharmacol,2016,35(3): 210-6.   
+[24]Du LL,Hu XX,Chen C,et al． Seabuckthorn paste protects Lipopolysaccharide-Induced acute lung injury in mice through attenuation of oxidative stress[J]. Oxid Med Cell Longev,2017,17 (6):4130967.   
+[25]Xu L,Bao H,Si Y,et al.Effects of dexmedetomidine on early and late cytokines during polymicrobial sepsis in mice[J]. Inflamm Res, 2013,62(5):507-14.   
+[26]龙建纲,王学敏,高宏翔,等.丙二醛对大鼠肝线粒体呼吸功能及相关 脱氢酶活性影响[J].第二军医大学学报,2005,26(10):1131-5.   
+[27]Neto AS,Simonis FD,Barbas CS,et al.Lung-Protective ventilation with low tidal volumes and the occurrence of pulmonary complications in patientswithout acuterespiratorydistress syndrome:a systematic review and individual patient data analysis [J].Crit Care Med,2015,43(10): 2155-63.   
+[28] Sun C,Wu Q,Zhang X,et al. Mechanistic evaluation of the protective effect of carnosine on acute lung injury in sepsis rats[J]. Pharmacology,2017,100(5/6):292-300.   
+[29] Passaro CP, Silva PL,Rzezinski AF,et al.Pulmonary lesion induced by low and high positive end-expiratory pressure levels during protective ventilation in experimental acute lung injury[J].Crit Care Med,2009,37(3): 1011-7.   
+[30]Fukuhara K,Nakashima T,Abe M,et al. Suplatast tosilate protects the lung against hyperoxic lung injury by scavenging hydroxyl radicals[J].Free Radical Biology and Medicine,2017,106(12): 1-9.   
+[31]Li GG,Cao YH, Sun YE,et al.Ultrafine particles in the airway aggravated experimental lung injury through impairment in Treg function[J].Biochem Biophys Res Commun,2016,478(1):494- 500.   
+[32] Slutsky AS,MD,Ranieri M, et al. D.ventilator-induced lung injury [J].NEngl JMed,2013,369(8): 2126-36.   
+[33]Hoyle GW,Chen J,Schlueter CF,et al.Development and assessment of countermeasure formulations for treatment of lung injury induced by Chlorine inhalation[J].Toxicol Appl Pharmacol, 2016,298(15): 9-18.   
+[34] Shosholcheva M,Jankulovski N,Kartalov A,et al. Synergistic effect of hyperoxia and biotrauma on Ventilator-Induced lung injury[J]. Prilozi,2017,38(1): 91-6.   
+[35]Park JB,Bang SH,Chee HK，et al.Efficacy and safety of dexmedetomidine for postoperative delirium in adult cardiac surgery on cardiopulmonary bypass [J].Korean J Thorac Cardiovasc Surg,2014,47(3): 249-54.

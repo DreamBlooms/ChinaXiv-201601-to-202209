@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201508081672 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张骞,高明,杨乐,陈成龙，孙宇，王金柱.1988—2013年重庆市主城九区生态用地空间结构及其生态系统服务价值变化.生态学报,2017,37（2)：566-575.  \nZhangQ，GaoM,angLChenCLunYWangJZhangesinesatialsrucurefolgicalnddosystesevicevauesinekeydistricts of Chongqing City over the past 25 years.Acta Ecologica Sinica,2017,37(2）:566-575.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1988一2013年重庆市主城九区生态用地空间结构及其生态系统服务价值变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张骞}²,高 明1,\\*，杨 乐³,陈成龙¹,孙 宇'，王金柱",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西南大学资源环境学院，重庆400715  \n2 河南城建学院测绘工程学院，平顶山467036  \n3重庆市规划设计研究院，重庆401147",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在当前快速城市化的背景下,理解和把握城市生态系统服务功能退化原因及规律的最有效手段是对其生态用地结构及其生态系统服务价值进行准确的评估。采用RS、GIS 技术以及生态系统服务价值评估等方法,对重庆市主城九区1988、1996、2004,2013年4个时段遥感影像进行解译及比较分析,结果表明：1988—2013年间,重庆市主城九区城市化水平经历了加速阶段、减速阶段及饱和阶段,城市化水平的提高对城市建设用地增长的影响显著;重庆市主城九区生态用地主要为城市提供了食物生产、提供原材料、废物处理、土壤形成与保护、气候调节、气体调节、生物多样性以及水源涵养等生态系统服务,在结构变化上呈现出“二减三增\"的结构变化特点;25年间重庆市主城九区共减少生态系统服务价值 $2 6 0 . 6 0 \\times 1 0 ^ { 6 }$ 元,整体处于下降趋势,其中农地的生态系统服务价值损失最大,共减少 $2 4 . 5 0 \\%$ ;在空间分布上,随着城市建设用地向“南一北一西\"方向扩展,生态系统服务价值以中梁山与铜锣山之间的区域减少最为严重,整个研究区生态系统服务价值下降的主要原因来自于农地的大量减少以及城市建设用地扩张所带来的生态负影响。研究结果表明在重庆市主城九区生态用地空间格局与生态系统服务变化之间存在密切相关性,在城市化率达到饱和阶段后应严格控制建设用地增长,促进建设用地集约节约利用,加大农地的保护力度以及对林地、水体、草地的维护,维持整个区域的生态平衡。研究可为科学合理布局和保护城市生态用地提供信息资料和决策参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城市化；生态用地；生态系统服务价值；用地结构；重庆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changes in the spatial structure of ecological land and ecosystem service values in nine key districts of Chongqing City over the past 25 years ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Qian1²，GAO Ming1\\*，YANG Le³,CHEN Chenglong'，SUN ${ \\mathrm { Y u } } ^ { 1 }$ ， WANG Jinzhu   \n1 College of Resources and Environment，Southwest University，Chongqing 40o715，China   \n2College of Surveying Enginering，Henan University of Urban Construction，Pingdingshan 467036,China   \n3Chongqing Planning and Design Institute,Chongqing 401147,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Land-usechange isa majorfactor that drives changes in ecosystem services.Measuring variations inthevalues of ecosystemservicesthatcorrespond to changes inland useisan effective wayof assessing environmental costs and benefits for environmental policy planning.Thepresent studyadopted the aboveapproach in the curentcontextof rapid urbanization，using the nine key districts of Chongqing City（a typical fast-growing Chinese city）asacase study. Conducting acurate assessments of the structureof ecologicallandandassociated ecosystemservicevalues has emergedas the most effctiveapproach forunderstanding thecausesand patternsof the functional degradationof ecological services. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Together with acurate spatial datasets of LandsatTMimages from 1988 to 2013，weused remotesensing，geographic information system（GIS）technologies，and ecosystem service value assessment methods toanalyze the urbanization levels of Chongqing's nine keydistricts.The present study explored variations in the spatial structureof urban ecologicallandand theeffectsof diffrent levelsof urbanizationacrossthese districtson the expansion of urban construction land.The study further assessd changes in monetized values of ecosystemservices that were caused bychanges in the structure of urban ecologicalland.Theresultsshowed thatfrom1988 to2O13，urbanizationlevelsof thestudydistricts firstunderwentan acceleration phase，subsequentlyshifting toa deceleration phase，and finallreachingasaturationphase.Increased urbanizationlevels hada significant impact ontheexpansionof urbanconstruction land.Theecological land in these districtsof Chongqing providesanumber of ecosystemservices，including food production，supplemental raw materials, wastetreatment，soil formation and protection，climateregulation，gasregulation，andbiodiversityand waterconservation. The structural changes of ecological land evidenced a“two minus three growth”patern.Thevalue of ecosystem services calculated for the study districts revealed a total loss of $2 6 0 . 6 0 \\times 1 0 ^ { 6 }$ Yuan over the past 25 years.The greatest loss was incurred for the value of farmland ecosystem services that showed a reduction of $2 4 . 5 \\%$ ．Together with the spatial distributionchange，entailing theexpansionof urban constructionland towardthewest,north，andsouth,thegreatestloss intermsof theecosystem service value was incurred intheregion between the Zhongliangand Tongluo mountains.The main reason forthe decline inecosystem service values over theentire studyarea wasthenegative impactresulting fromfarmland reductionandtheexpansionofconstructionland.The present studyrevealedastrong corelationbetween thespatial pattrn of ecologicallandandchanges in ecosystem service values inrelationtothediferent urbanizationlevelsofChongqing's nine keydistricts.Oncetheurbanizationlevelreach saturation，strictregulations shouldbeimplemented tocontrolthe expansion of constructionlandand promote its intensiveuse.Eforts toprotect farmlands，forests，grassands，and wetlandsshouldbe enhanced tomaintain theecological balanceof theentireregion.Thisresearch canprovide informationandguidelines to facilitatedecision-making inrelation tothe designofscientificandrational layoutsaswellasurbanecological land protection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: urbanization；ecological land； ecosystem service value； land use structure；Chongqing City",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 世纪以来,城市化已成为人类社会发展的最显著特征[1]。当前城市化与生态环境协调发展是国内外研究的热点问题[2]。城市是以人类活动为主导的一类自然-经济-社会复合生态系统[3],作为人类最主要的栖息地[4],受人类活动影响,往往会导致其他环境因素发生改变[5-6]。当前高速城市化带来了一系列的生态环境问题[7],如生物多样性减少和栖息地破坏[8-9],热岛效应增强[10-1]、环境污染等[12-13]。城市生态用地可以保护城市生态系统和生物栖息地、改善居民生活质量，其数量和空间分布都会对城市生态安全产生重要影响[1416]。基于土地利用/土地覆被的城市生态用地优化配置研究已成为统筹解决高速城市化带来的城市建设用地扩展与自然生态保护矛盾的重要综合途径[17-19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "董雅文等[20]在国内最早提出生态用地这一概念。国外研究中并未对生态用地进行单独分类,但在其土地分类体系中渗透了生态用地的思想[21]。近年来一些国内学者围绕土地生态功能对生态用地概念进行了分析与探讨,基于土地覆被类型、土地利用程度及生态服务质量对生态用地类型进行了划分[21-24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务是指生态系统形成和所维持的人类赖以生存和发展的环境条件与效用[25]。目前关于生态系统服务的评估可分为价值量评估和物质量评估两类[26]。自1997年Costanza 等[27]在 Nature上发表的关于全球生态系统服务价值评估的文章,吸引了众多学者对生态系统服务及其价值量评估方法的关注[28-3]。谢高地等[31]结合中国实际情况,对 Costanza 公布的生态系统服务价值量系数进行修正,得到了中国陆地系统的生态系统服务价值系数,被众多中国学者用来估算中国生态系统的价值变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城市化的高速发展具有强烈的人类活动特征,自然生态系统也受到人类活动的影响而发生改变[34],所以高速城市化中城市土地利用方式的改变必然导致其生态系统服务发生改变。相关学者针对重庆主城区在土地利用结构[35-36]、土地利用的景观格局[37]、土地利用变化所引起的生态环境效应[38]等方面,分别得出在特定时间段内,主城区建设用地重心向北部转移,其中农用地向建设用地转入最强烈,景观格局变化主要表现为耕地、林地、建设用地之间的转换,期间该区域生态系统服务价值持续下降,其中林地的变化对生态系统服务价值影响最为显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以高速城市化背景下的重庆市主城九区作为研究对象，采用遥感与地理信息系统相结合的技术手段,针对城市化进程中的城市生态用地空间结构变化及其生态系统服务价值演变的科学问题,定量分析了1988—2013年间重庆市主城九区城市生态用地与其生态系统服务价值两者间的相互关系,以期为合理规划布局和保护城市生态用地以及城市可持续发展提供重要的科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重庆市主城九区位于重庆市西部核心区,主要包括9个行政区：渝北区、江北区、沙坪坝区、渝中区、南岸区、北碚区、九龙坡区、大渡口区以及巴南区。全区面积 $5 4 6 8 . 7 1 \\mathrm { k m } ^ { 2 }$ ,常住人口808.53万人，2013年国内生产总值5391.84亿元，人均GDP达到66686.95元，城市化率为 $8 7 . 8 7 \\%$ 。全区地貌类型主要有山地、丘陵、台地、平坝等,其中山地和丘陵较多,而台地和平坝分布较少[39]。缙云山、中梁山、铜锣山、明月山等多条华山余脉从北至南嵌入城市,长江与嘉陵江交汇于渝中区朝天门后向东北向切割城市，“两江四山\"形成了重庆市主城九区的基本控制性地貌单元。研究区多年平均气温为17— $1 8 . 8 \\mathrm { { ^ { \\circ } C } }$ ,多年平均降雨量为975.1—1301.7mm,相对湿度为 $7 7 \\%$ 一 $8 3 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 地类划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合生态用地概念及类型的相关研究[20-24],从土地的生态功能和生态服务质量来考虑,结合国内学者的一些分类办法[14.16],根据重庆市土地利用的实际情况以及《土地利用现状分类》（GB/T 21010—2007）,在ArcGIS 10.0中合并土地类型后将重庆市主城九区用地类型分为林地、农地、水体、草地、未利用地、建设用地六类。其中林地、农地、水体、草地和未利用地为生态用地。具体分类情况详见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6a113455d57720c98d0e656d34063376c661da6294a525ed45c4dd9374bf50.jpg",
+        "table_caption": [
+            "表1重庆市主城九区土地利用类型",
+            "Table 1 Land use types of the nine key districts of Chongqing City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型 Land use type</td><td>内容描述Description</td></tr><tr><td>林地Forestland</td><td>有林地、灌木林地、其他林地</td></tr><tr><td>水体 Water area</td><td>河流水面、湖泊水面、水库水面、坑塘水面、内陆滩涂、沟渠</td></tr><tr><td>农地Farmland</td><td>耕地(水田、水浇地、旱地）园地(果园、茶园、其他园地)</td></tr><tr><td>草地Grassland</td><td>牧草地(天然草地、改良草地、人工草地)</td></tr><tr><td>未利用地Unused land</td><td>裸地</td></tr><tr><td>建设用地 Built-up area</td><td>城镇村及工矿用地、交通运输用地、其他建设用地</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据来源及技术处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择的4期 Landsat TM/ETM遥感影像分别是1988、1996、2004 和2013年。另有1:50000 重庆市主城九区行政图供参考。通过随机取样方法对分类结果进行 Kappa 检验,结果分别是0.78（1988年),0.81（1996年）,0.73(2004年),0.84（2013年）,均高于0.7的精度要求。在此基础上,对1988、1996、2004、2013年4期TM/ETM遥感影像进行监督分类和目视修改,获得重庆市主城九区各地类土地利用类型,然后在 ArcGIS 10.0中分类统计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3土地利用动态度土地类型变化率公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\frac { A _ { j } - A _ { i } } { A _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $C$ 为土地类型变化率， $. A _ { i } \\ltimes A _ { j }$ 研究区一种土地利用类型2个时期的面积( $\\cdot \\mathrm { h m } ^ { 2 }$ )。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单一土地利用类型变化动态度公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = \\frac { U _ { b } - U _ { a } } { U _ { a } } \\times \\frac { 1 } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $K$ 为研究时段内某一土地利用类型动态度; $U _ { a } \\ : , U _ { b }$ 别为研究初期和研究末期某一土地利用类型数量；T为研究时段长,当 $T$ 的时段设定为年时， $K$ 的值就是该研究区某种土地利用类型年变化率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合土地利用类型动态度公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL C = \\left[ \\frac { \\displaystyle { \\sum _ { i = 1 } ^ { n } \\Delta { L } U _ { i - j } } } { \\displaystyle { 2 \\sum _ { i = 1 } ^ { n } L } U _ { i } } \\right] \\times \\frac { 1 } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { L U } _ { i }$ 监测起始时间第 $i$ 类土地利用类型的面积; $\\Delta L U _ { i - j }$ 为监测时段内第 $i$ 类土地利用类型转为非 $i$ 类土地利用类型面积的绝对值； $T$ 为监测时段长度。当 $T$ 的时段设定为年时， $L C$ 的值就是该研究区土地利用年变化率[40]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4城市土地生态系统服务价值的评估方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务功能受多种因素影响,因此也有多种测算模型[41],其中以Costanza等人的研究成果最具代表性。本文以Costanza 等[27]和谢高地等[30-32]的研究成果确定生态系统服务价值系数,结合谢高地等[31,42]的价值当量换算方法，最终确定重庆市主城九区生态系统单位面积服务价值（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8879ba2d2d5523200fdc5df874c5fb512604f3fde63b0d0b5cd787d42d39a368.jpg",
+        "table_caption": [
+            "表2重庆市主城九区生态系统单位面积服务价值",
+            "Table2The ecosystem service value per unit areas of the nine key districts of Chongqing City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型 Land use type</td><td>生态系统类型 Ecosystem type</td><td>生态系统服务功能 Ecosystem service</td><td>生态系统服务价值系数 Ecosystem service value coefficient/(元/hm²)</td></tr><tr><td>林地 Forestland</td><td>森林</td><td>土壤形成与保护、气候调节、气体调节、生物多样性</td><td>19613</td></tr><tr><td>农地 Farmland</td><td>耕地</td><td>食物生产、提供原材料、废物处理</td><td>6203</td></tr><tr><td>水体 Water area</td><td>河流/湖泊</td><td>水源涵养、娱乐文化</td><td>55813.5</td></tr><tr><td>草地Grassland</td><td>草地/草原</td><td>栖息地、废物处理、营养循环</td><td>4261.5</td></tr><tr><td>未利用地 Unused land</td><td>裸地</td><td>废物处理、生物多样性</td><td>371.4</td></tr><tr><td>建设用地 Built-up area</td><td>城镇</td><td>无</td><td>-5372.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务功能价值的测评公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S V } = \\sum _ { i = 1 } ^ { n } A _ { i } \\times V C _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { E S V } _ { f } = \\sum _ { i = 1 } ^ { n } { \\left( A _ { i } \\times V C _ { f i } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中，ESV表示研究区的生态系统的总服务价值； $A _ { i }$ 表示研究区第 $i$ 种土地利用类型的面积( $\\mathrm { { h m } } ^ { 2 }$ ）； $V C _ { i }$ 表示第$i$ 种土地利用类型的生态系统服务价值系数; $\\mathrm { E S V } _ { f }$ 表示生态系统第 $f$ 项服务功能的价值； $\\boldsymbol { V } \\boldsymbol { C } _ { f i }$ 表示研究区第 $i$ 种土地利用类型的第 $f$ 项生态系统服务价值系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 城市化水平",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "城市化水平是指居住在城市的人口占总人口的比例,它既反映了一个地区城市发展的水平,也反映了该地区国民经济整体发展水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算城市化水平的公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = { \\big ( } P _ { 2 } + A _ { 1 } { \\big ) } / P _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中,Y为城市化水平， $P _ { 2 }$ 为非农业人口， $\\boldsymbol { \\cdot } \\boldsymbol { A } _ { 1 }$ 为从事二、三产业的农业劳动力数， $P _ { 0 }$ 为该区域总人口[43]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1重庆市主城九区1988—2013年度建设用地空间结构变化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据重庆市主城九区1988、1996、2004 和2013年4期土地利用分布图（图1）,1988—1996年建设用地主要集中在中梁山、铜锣山之间,城市以“多中心—组团状”方式发展。这期间城市发展缓慢,8年间建设用地由$3 . 1 9 \\%$ 增加到 $3 . 5 6 \\%$ 。比较1988—1996 年土地利用变化率（表3）,这期间土地综合动态度只有 $0 . 2 6 \\%$ ,城市用地空间结构整体而言变化不大。重庆市直辖以来,城市化进程加快,1996—2004年,8年间城市建设用地由$3 . 5 6 \\%$ 增加到 $5 . 2 3 \\%$ ,呈现出“南一北\"扩张趋势,土地综合动态度提高到 $1 . 1 4 \\%$ ,其主要来自于农地向建设用地的转化。2010年重庆市两江新区正式建立,城市建设用地呈现出“南—北—西”片状发展模式,2004—2013年其重心逐渐向北转移。建设用地单一动态度在这一时期达到 $1 9 . 5 1 \\%$ ,城市建设用地飞速扩张,生态用地逐渐被建设用地所占据,破碎化加剧,这一时期土地综合动态度达到 $6 . 8 8 \\%$ ,城市用地空间结构变化处于快速发展期。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb92c96d6eac1667cf565b122bc40ea89dc3dd6463aacb55523e250da901929b.jpg",
+        "img_caption": [
+            "图1重庆市主城九区1988一2013年土地利用状况",
+            "Fig.1Land use of the nine key districts of Chongqing City from 1988—2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2重庆市主城九区1988—2013年度生态用地空间结构变化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2反映了研究区各用地类型的数量结构变化。1988—2013年间农地比例下降最多,25年间占地比率由 $7 1 . 8 1 \\%$ 下降为 $5 4 . 2 2 \\%$ ,整个研究期内除了1988—1996 年农地以小幅度增长外,其余时期均处于下降状态,空间表现为城市建设用地向“南一北—西\"方向扩张而减少,其中又以 2004—2013 年间减少最为严重。自 1998 年重庆市政府制定《重庆市林地保护管理条例》以来,重庆市主城九区林地占地比例由1996 年的$2 0 . 9 2 \\%$ 增加到研究期末2013年的 $2 6 . 0 9 \\%$ ,从空间分布来看,林地的增长主要集中在缙云山、中梁山、铜锣山、明月山区域,以2004—2013年间增长幅度最大。自2007年由重庆市人大常委会通过《重庆市环境保护条例》以来，水体所占比例增长明显。水体比例由2004年的 $2 . 6 7 \\%$ 增加为2013年的 $3 . 3 3 \\%$ ,空间增长主要体现在较为分散的各个区的水库面积的增长。自2000 年重庆市实施退耕还林还草工程以来,草地比例由 $0 . 8 1 \\%$ 增加为 $1 . 9 3 \\%$ ,特别是在1996—2013期间年均增长率达到 $7 . 3 6 \\%$ ,空间增长主要体现在渝北区东部。研究区未利用地主要以裸地为主,其所占比例偏低,在整个研究期内先增加后减少,占地比例由 $0 . 0 7 \\%$ 下降为 $0 . 0 2 \\%$ 。从",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/139fc391f4002a4ac9020a1310abf96a82f8b9d38f8e87928b9e30f0f70ba674.jpg",
+        "img_caption": [
+            "图3中可以看出各类型生态用地与建设用地的变化比例。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa8e83c42c3c1bd7f37b8a157d5ec1651c6c3fae72bfc9f53817b812ce0c6121.jpg",
+        "img_caption": [
+            "图2重庆市主城九区1988一2013年各土地利用类型变化Fig.2Different types of land use changes in the nine key districts ofChongqing City from 1988—2013",
+            "图31988一2013年不同类型生态用地与建设用地比例变化Fig.3Proportion change of different types ecological land andbuilt-up area in the nine key districts area of Chongqing City from1988—2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "整个研究期内生态用地结构由以农地为主导的景观类型逐渐向“农林水草”各生态用地相互协调发展的方向发生改变,并呈现出“二减三增”的结构变化特点。政策的实施对于生态用地结构优化影响显著,又以2004—2013年这一时期结构变化最为激烈。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1134b85dd5b28697ce9e3f413e9b0a1ff0178ed85fbd1af5ccd16ccc72dd2f7a.jpg",
+        "table_caption": [
+            "表31988—2013年重庆市主城九区土地利用变化率",
+            "Table 3Land use changes of the nine key districts of Chongqing between 1988 and 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地利用类型 Land use type</td><td colspan=\"3\">单一动态度 Single dynamic degree/%</td><td colspan=\"3\">综合动态度 Comprehensive dynamic degree/%</td></tr><tr><td>1988—1996</td><td>1996—2004</td><td>2004—2013</td><td>1988—1996</td><td>1996—2014</td><td>2004—2013</td></tr><tr><td>林地 Forestland</td><td>-0.14</td><td>0.14</td><td>2.60</td><td></td><td></td><td></td></tr><tr><td>农地 Farmland</td><td>0.02</td><td>-0.39</td><td>-2.46</td><td></td><td></td><td></td></tr><tr><td>水体Water area</td><td>-1.17</td><td>-0.14</td><td>2.78</td><td>0.26</td><td>1.14</td><td>6.88</td></tr><tr><td>草地Grassland</td><td>0.76</td><td>5.54</td><td>6.22</td><td></td><td></td><td></td></tr><tr><td>未利用地 Unused land</td><td>-1.17</td><td>2.13</td><td>-8.61</td><td></td><td></td><td></td></tr><tr><td>建设用地 Built-up area</td><td>1.46</td><td>5.86</td><td>19.51</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3重庆市主城九区1988—2013年生态系统服务功能价值变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合重庆市主城九区4期土地利用变化数据,参考重庆市主城九区不同生态用地的单位面积服务价值系数(表2),得出重庆市主城九区城市化过程中土地利用结构变化所引起的生态系统服务价值变化（表4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农地提供的生态系统服务功能主要有食物生产、提供原材料、废物处理等。1988—2013年重庆市主城九区生态系统服务价值处于下降趋势，其中农地损失最多，达到 $5 9 6 . 3 1 \\times 1 0 ^ { 6 }$ 元，占其生态系统服务价值总比例的$2 4 . 5 0 \\%$ 。重庆市1988年粮食产量为565.02万t,到2013年增长为1148.20万t。虽然耕作技术的提升与优良种子的使用使得粮食增产,但是随着研究期内农地面积的大幅减少,农地在提供原材料和废物处理等方面的价值减少是该区域农地生态系统服务价值下降的主要原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "林地提供的生态系统服务功能主要有土壤形成与保护、气候调节、气体调节、维持生物多样性等。林地在2013年在主城九区用地比率只有 $2 6 . 0 9 \\%$ ,但是其生态系统服务价值贡献却占到生态系统服务总价值的$5 3 . 0 3 \\%$ ,是主城九区生态系统服务价值的主要贡献者。特别是2004—2013年期间,随着重庆市政府落实了森林工程的实施,主城九区林地占地面积增加了 $4 . 9 5 \\%$ ,而林地生态系统服务价值却增加了 $2 3 . 4 \\%$ ;由于山地城市的特殊地况地貌,重庆市主城九区的林地主要分布在“四山”区域及城市建设用地的交接地带。林地面积的增加对治理水土流失、改善长江水质、保障三峡工程正常运行具有重要意义。同时,在水土保持、改良土壤、固碳释氧、增加野生动物群落、改善人居环境、美化城市方面,也产生了极大地生态效益。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/450428c4887a8aa2a007a159da55b3aaf075d32343479e1d06946037a540399d.jpg",
+        "table_caption": [
+            "表4重庆市主城9区1988一2013年生态系统服务价值变化( $\\mathbf { 1 0 ^ { 6 } }$ 元）",
+            "Table 41988-2013 changes of ecosystem service values in the nine key districts of Chongqing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>林地 Forestland</td><td>农地 Farmland</td><td>水体 Water area</td><td>草地 Grassland</td><td>未利用地 Unused land</td><td>建设用地 Built-up area</td><td>合计 Total</td></tr><tr><td>1988</td><td>2267.09</td><td>2434.29</td><td>907.60</td><td>18.84</td><td>0.14</td><td>-93.64</td><td>5534.32</td></tr><tr><td>1996</td><td>2242.22</td><td>2437.57</td><td>822.60</td><td>19.98</td><td>0.12</td><td>-104.54</td><td>5417.95</td></tr><tr><td>2004</td><td>2266.45</td><td>2361.09</td><td>813.68</td><td>28.84</td><td>0.15</td><td>-153.51</td><td>5316.70</td></tr><tr><td>2013</td><td>2796.72</td><td>1837.98</td><td>1016.97</td><td>45.00</td><td>0.03</td><td>-423.01</td><td>5273.72</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水体提供的生态系统服务功能主要有水源涵养、娱乐文化等。长江与嘉陵江穿城而过构成了重庆市独特的水文景观。“两江\"水体以及零星分布的水库水面、大小河流、湖泊水面为重庆市水源涵养、水路运输、水资源循环、娱乐休闲、生活游憩提供了极大地生态服务功能。研究期内水体的生态系统服务价值增加了 $1 0 9 . 3 7 \\times$ ${ 1 0 } ^ { 6 }$ 元,主要发生在 2004—2013年间,这与政府对长江、嘉陵江以及城市周边湖泊、水库水面等水体的保护政策有关。在水体的保护上,除了注重水体面积的增加外,同时应注重各支流之间的连通度以及因排放污水、养殖投放饲料所带来的水体污染及富营养化问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "草地提供的生态系统服务功能主要有废物处理、提供生物栖息地、营养循环等。研究期内草地生态系统服务价值增长 $23 9 \\%$ ,受退耕还林还草政策影响显著。自2000 年重庆市实施退耕还林还草工程以来,对坡度在 $2 5 ^ { \\circ }$ 以上的耕地进行退耕还林还草,使得草地面积大量增加,其生态效益也逐渐加强。需要注意的是,草地属于生态系统较为脆弱的生态用地类型,在其保护过程中要防止其生态退化、沙化、过度放牧及二次复垦等问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究区未利用地主要以裸地为主,裸地的生态系统服务功能主要有废物处理、维持生物多样性。整体而言研究区裸地面积较低,在研究期末处于逐年减少的趋势,其生态服务功能也较为单一。在对未利用地进行优化时应首先考虑向生态服务功能较多的生态用地类型进行转化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4重庆市主城九区1988—2013年度城市化水平与建设用地变化关系",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对重庆市历年统计年鉴进行数据统计,计算出重庆市主城九区1988—2013 年城市化水平（图4）。根据Logistic 增长模型[4447]以及 Northam 的“S\"型城市化水平增长曲线的研究进展[48-52],得出在1988——2013年期间重庆市主城九区城市化水平经历了加速阶段,减速阶段和饱和阶段,各阶段之间界定主要依据是陈彦光等[45]对城市化的Logistic 过程阶段划分的宏观修正。1988—1996年重庆市主城九区处于城市化水平的加速阶段,该阶段虽然初始城市化水平较高,但是增长速度缓慢,年均增速仅为 $0 . 7 8 \\%$ ;1996—2004年重庆市主城九区城市化水平由加速阶段到减速阶段的转折期,该阶段年均增速为 $3 . 8 2 \\%$ ,2002年之后增速放缓；2004—2013年重庆市主城九区城市化水平由减速阶段向饱和阶段过渡,年均增速为 $0 . 3 1 \\%$ ,期末城市化水平达到饱和阶段,并在2010年首次出现下降,主要原因是由于在2010年末非农人口增长速率要小于该区域总人口增长速率,同时从事二、三产业的农业劳动力数也首次出现下降。由图(5)可知,城市建设用地面积随着城市化水平的提高而增加,两者呈“T\"型变化;城市化的快速提高是城市建设用地规模高速增长的主要原因,而重庆市主城九区的城市建设用地增长要滞后于城市化水平的提高。具体表现为在2004—2013 年期间,城市化水平由减速阶段达到饱和阶段,城市化年均增速明显放缓,而该时期城市建设用地年均增长率达到$1 9 . 5 \\%$ ,为研究区城市建设用地增长的最快时期。从长期来看,城市化水平与城市建设用地相关性显著,城市建设用地的扩张是城市化推进的必然结果,而城市建设用地的增加则对城市化水平的贡献有限[53-54]。25 年间整个研究区生态系统服务价值下降的主要原因来自于农地的减少以及城市建设用地扩张所带来的生态负影响。研究表明,生态用地结构变化导致生态系统服务价值变化，两者之间联系紧密。而生态系统服务价值的变化则影响整个区域的生态效益,造成城市建设用地与生态用地新结构的形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/acd477be3d08c87e93154ea530be82e3c6cdbcb4f7436815a87fed42314e9e5f.jpg",
+        "img_caption": [
+            "图4城市化水平曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebe7e078b159740b08834595c59e9c855c51733a4c8ac4a8865c6b36d0a28750.jpg",
+        "img_caption": [
+            "Fig.4The curve of the urbanization level ",
+            "图5城市化水平与建设用地变化关系图",
+            "Fig.5Relationship between built-up area change and urbanization level "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文收集了重庆市主城九区四期遥感数据,年份跨度大、间隔较平均,较好的还原了25年间重庆市主城九区城市建设用地与生态用地结构的变化情况,在此基础上对研究区生态用地所提供的生态系统服务功能进行货币化评估。主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)重庆市主城九区城市空间演变主要经历了3个时期:1988—1996 年处于缓慢增长期,该时期城市建设用地增长缓慢,其生态效益减弱也不明显。1996—2004年处于平稳增长期,重庆市自1997年直辖以来,城市建设用地快速增长,生态效益开始出现衰减,城市发展开始呈现出\"南—北\"扩张趋势。2004—2013 年处于飞速增长期,城市建设用地9年间增长 $2 7 6 \\%$ ,城市发展呈现出“南一北—西”片状发展模式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)25 年间生态用地内部结构呈现出“二减三增\"结构变化特征。其中农地损失最多,达到 $5 9 6 . 3 1 \\times 1 0 ^ { 6 }$ 元。在2004—2013年间,政府的退耕还林还草工程以及一系列政策的实施加大了长江、嘉陵江的水体保护和缙云山、中梁山、铜锣山、明月山的种植以及耕地的退耕还林还草力度,这段时间内林地、水体、草地生态系统服务价值各增加了 $5 3 0 . 2 7 { \\times } 1 0 ^ { 6 } \\ldots 2 0 3 . 3 2 { \\times } 1 0 ^ { 6 } \\ldots 2 6 . 1 6 { \\times } 1 0 ^ { 6 }$ 元。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3)25 年间,政府一系列政策的实施虽然极大地缓解了研究区生态效益的降低并改善了生态用地结构，但是整体来看重庆市主城9区的生态效益依然处于下降趋势,生态系统服务价值整体降低 $4 . 7 \\%$ ,主要原因来自于农地的大量减少以及城市建设用地扩张所带来的生态负影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]PlatRowRA,ickeocalCitPresegdstogUbaodivesiAerst：UiveitfPress，1994：1-10.  \n[2］王少剑，方创琳，王洋.京津冀地区城市化与生态环境交互耦合关系定量测度.生态学报，2015，35（7)：2244-2254.  \n[3］马世骏，王如松.社会-经济-自然复合生态系统.生态学报，1984,4(1)：1-9.  \n［4］彭建，汪安，刘焱序，马晶，吴健生.城市生态用地需求测算研究进展与展望.地理学报，2015，70(2)：33-346.  \n[5]RodriguezJP,eardJD,eettEumingGS,CokSJ，AgardJ,DobsoA,PetersonGD.de-ofsacrosspacdecosystem services.Ecology and Society，2006,11(1）：28-42.  \n[6]BenettEM,lvaeraP.ThefutureofproductionsstemsinaglobalizedworldFrotiersinEologandtheEviroentO（4）:191- 198.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7］陈利顶，孙然好，刘海莲．城市景观格局演变的生态环境效应研究进展.生态学报，2013，33（4)：1042-1050.  \n[8］周启星，王美娥，张倩茹，任丽萍，王如松.小城镇土地利用变化的生态效应分析.应用生态学报，2005，16(4)：651-654.  \n[9]CroosKR.elatiessivitiesofmammalianaivoestoabitatfragmetatioConseationogy，O6(2）：4-50.  \n10]uya，uJGUatsdeegityoasiepautsocioeconomic patterns.Landscape Ecology，2010,25(1）：17-33.  \n[11］贾宝全，邱尔发，蔡春菊.唐山市域1993-2009年热场变化.生态学报，2011，31（20)：6215-6223.  \n[12]SunZC,LiXWuX,L,TangDotetsfeladrcagofaceuoibareasofeaJournal of Applied Remote Sensing，2013,8(1)：084596.  \n[13］臧淑英，黄樨，郑树峰.资源型城市土地利用变化的景观过程响应——以黑龙江省大庆市为例.生态学报，2005，25（7）：1699-1706.  \n[14]李锋，叶亚平，宋博文，王如松.城市生态用地的空间结构及其生态系统服务动态演变——以常州市为例.生态学报，2011,31（19)：5623-5631.  \n［15］苏伟忠，杨桂山，甄峰.长江三角洲生态用地破碎度及其城市化关联.地理学报，2007,62（12)：1309-1317.  \n[16] 赵丹，李锋，王如松.城市土地利用变化对生态系统服务的影响——以淮北市为例.生态学报，2013，33（8)：2343-2349.  \n[17］傅伯杰，张立伟.土地利用变化与生态系统服务：概念、方法与进展.地理科学进展，2014，33（4)：441-446  \n[18] 贾丽娟，王成，高明.基于生态服务价值方法的区域生态格局划分——以重庆市沙坪坝区为例.西南大学学报：自然科学版，2009，31(5): 148-154.  \n[19］张凤太，苏维词，赵卫权.基于土地利用/覆被变化的重庆城市生态系统服务价值研究.生态与农村环境学报，208，24（3）：21-25，50-50.  \n[20] 董雅文，周雯，周岚，周慧.城市化地区生态防护研究—以江苏省、南京市为例.城市研究，1999,（2)：6-8，10-10.  \n[21］邓红兵，陈春娣，刘昕，吴钢.区域生态用地的概念及分类.生态学报，2009,29（3)：1519-1524.  \n[22] 邓小文，孙贻超，韩士杰.城市生态用地分类及其规划的一般原则.应用生态学报，2005，16(10)：2003-2006.  \n[23］陈婧，史培军.土地利用功能分类探讨.北京师范大学学报：自然科学版.2005，41（5)：536-540.  \n［24］龙花楼，刘永强，李婷婷，王静，刘爱霞.生态用地分类初步研究.生态环境学报，2015，24（1）：1-7.  \n[25］李文华，欧阳志云，赵景柱.生态系统服务功能研究.北京：气象出版社，2002：1-4.  \n[26］欧阳志云，王如松，赵景柱.生态系统服务功能及其生态经济价值评价.应用生态学报，1999，10（5）：635-640.  \n[27]CostanzaR,ArgeR,deGrotR,FarberS,raso,HaonB,LimburgK,NamS,O'eillVarueloJ,askinRG,nden Belt M.The valueof the world's ecosystem services and natural capital.Nature，1997,386(6330)：253-260.  \n[28]Daliy G C.Nature's Services.Societal Dependence on Natural Ecosystem.Washington DC: Island Press，1997:1-7.  \n[29］欧阳志云，王效科，苗鸿.中国陆地生态系统服务功能及其生态经济价值的初步研究.生态学报，199，19(5)：607-613.  \n[30］谢高地，鲁春霞，冷允法，郑度，李双成.青藏高原生态资产的价值评估．自然资源学报，2003，18（2)：189-196.  \n[31］谢高地，鲁春霞，成升魁.全球生态系统服务价值评估研究进展.资源科学，2001，23（6）：5-9.  \n[32]谢高地，鲁春霞，肖玉，郑度.青藏高原高寒草地生态系统服务价值评估.山地学报，2003,21（1）：50-55.  \n[33] 鲁春霞，谢高地，成升魁.河流生态系统的休闲娱乐功能及其价值评估.资源科学,2001,23（5）：77-81.  \n[34］汪小平，周宝同，王小玉，陈希媛.重庆市土地利用变化及其生态系统服务价值响应.西南师范大学学报：自然科学版，2009，34（5)：225- 229.  \n[35］鲁春阳，田永中，杨庆媛，文枫，胡渝春，万平.重庆市主城区土地利用动态变化时空特征分析.西南师范大学学报：自然科学版，2006，31(5) : 186-189.  \n[36］刘明皓，王耀兴.基于“源\"“汇\"理念的土地利用动态变化分析——以重庆市主城区为例.地理与地理信息科学，2013,29（3）：86-91.  \n[37］贾静涛，杨华，曾晅，张艳军.山地城市土地利用景观格局动态变化分析——以重庆市主城区为例.重庆师范大学学报：自然科学版，2013，30(4):34-39.  \n[38］邓伟，杨华，崔艳君.重庆主城区近 30年土地利用变化的生态环境效应评价.水土保持研究，2010,17（3）：232-236.  \n[39］刁承泰，赵纯勇．山地城市发展和规划的资源环境研究.重庆：西南师范大学出版社，2005：2-8.  \n[40］王秀兰，包玉海.土地利用动态变化研究方法探讨.地理科学进展，1999，18(1)：81-87.  \n[41］李文楷.基于ANN 和元胞自动机的生态服务价值预测评估模型与应用[D]．北京：北京大学，2008.  \n[42］段瑞娟，郝晋珉，王静.土地利用结构与生态系统服务功能价值变化研究——以山西省大同市为例.生态经济，2005，（3）：60-62，64-64.  \n[43］沈迟.关于城市化水平计算方法的探讨.城市规划，1997，（1)：22-22.  \n[44］United Nations.World Urbanization Prospects：The 2OO3 Revision.New York：United Nations,2004.  \n[45] 陈彦光，周一星.城市化Logistic 过程的阶段划分及其空间解释：对 Northam 曲线的修正与发展.经济地理，2005，25(6)：817-822.  \n[46]陈彦光，罗静.城市化水平与城市化速度的关系探讨——中国城市化速度和城市化水平饱和值的初步推断.地理研究，2006，25（6)：1063-1072.  \n[47]Muligan GF.Logistic population growth inthe world'slargestcities.Geographical Analysis，2O06,38(4）：344-370.  \n[48]Northam R M.Urban Geography.2nd ed.New York: John Wiley& Sons,1979:65-67.  \n[49]CenMX,LiuWD,TXLEvolutiodsessntoina'sbio96uderurbaatioooverbaaiaiatInternational,2013，38：25-33.  \n[50] Mulligan GF.Revisiting the urbanization curve.Cities，2O13,32：113-122.  \n[51]Chen M X,Ye C,ZhouY.Commentson Mullgan's“Revisiting theurbanization curve”.Cities，2014,41（S1）：S54-S56.  \n[52] 陈彦光.城市化水平增长曲线的类型、分段和研究方法.地理科学，2012，32(1)：12-17.  \n[53] 吴次芳，陆张维，杨志荣，郑娟尔，冯科.中国城市化与建设用地增长动态关系的计量研究.中国土地科学，2009，23（2）：18-23.  \n[54］赵可，张雄，张炳信.城市化与城市建设用地关系实证——基于中国大陆地区1982-2011年时序数据.华中农业大学学报：社会科学版，2014，(2):107-113.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

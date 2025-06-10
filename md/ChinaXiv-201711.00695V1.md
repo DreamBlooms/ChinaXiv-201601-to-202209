@@ -1,0 +1,93 @@
+编号：157083
+
+# 低比转速离心泵压力脉动频谱特性的试验研究
+
+张宁 杨敏官 高波 李忠 倪丹 王浩宇（江苏大学能源与动力工程学院，江苏 镇江212013）
+
+摘要：离心泵内部由叶轮-隔舌动静干涉作用诱发的压力脉动是激励离心泵振动噪声的重要因素，对泵的稳定、安全运行有重要影响。为了全面获得离心泵压力脉动特性，本文采用试验手段对一台低比转速离心泵进行压力脉动试验，在蜗壳周向均布20个高频压力脉动传感器对压力信号进行提取。结果表明：离心泵压力频谱呈现典型的离散特征，峰值信号出现在叶频及其高次谐波处，压力频谱中没有出现明显的轴频及其和叶频非线性干涉诱发的峰值信号。不同测量点处压力脉动幅值差异显著，在设计点及大流量工况，叶频处压力脉动幅值极大值点出现在隔舌后端区域范围内，而在隔舌前部区域内，压力脉动幅值较小；且随着角度的增加，叶频处压力脉动幅值呈现递减的趋势，而在小流量工况叶频处压力脉动幅值并没有出现在隔舌后端区域内。流量对叶频处压力脉动幅值影响显著，压力脉动幅值极小值点出现在 $0 . 9 Q _ { d }$ 附近，而在偏离该工况时，压力脉动幅值迅速上升。
+
+关键词：离心泵；压力脉动；试验研究；频谱特性中图分类号：TH311 文献标识码：A
+
+# Pressure Spectrum Characteristics of a Low Specific Speed Centrifugal Pump
+
+ZHANG Ning1YANG Min-Guan1GAO Bo1 LI Zhong1NIDan1WANG Hao-Yu1 (lSchool of Energy and Power Engineering, Jiangsu University, Zhenjiang,212013,China)
+
+Abstract: Pressre pulsations due to rotor-stator interaction are vital factors induced vibration and noise in centrifugal pumps, which have a great influence on the stable operating of the pumps.To have a comprehensive understanding of pressre spectrum characteristics of a low specific speed centrifugal pump,twenty pressure transduces are evenly mounted on the volute casing to obtain pressure pulsation signals.Results show that: pressure spectrum shows typical discrete characteristics,and evident peaks occur at blade pasing frequency fBPF and its higher harmonics. Components at shaft rotating frequency $f _ { R }$ together with the non-linear peaks between $f _ { B P F }$ and $f _ { R }$ are not evident. At nominal and high flow rates,the maximum amplitude occurs at the point after the volute tongue, and atthe point before the volute tongue,pressre amplitude is much smaller. This phenomenon is not observed at low flow rates. With the angle increasing, pressure amplitude shows a decreasing tendency. Minimum amplitude occurs at $0 . 9 Q _ { d } ,$ and pressure amplitude increases rapidly when flow rate deviating from $0 . 9 Q _ { d }$
+
+Key words: centrifugal pump; pressure pulsation; experimental investigation; pressure spectrum
+
+# 0 引言
+
+离心泵内部叶轮周期性地扫掠隔舌形成的强烈动静干涉作用是诱发压力脉动的主要来源，该非定常压力脉动是水力诱发振动噪声的主要因素[1]。在某些对离心泵振动噪声有极为严苛要求的领域，非定常压力脉动水平的控制是低噪声离心泵设计重要的研究内容。即使在设计工况点，叶轮流出的液体和蜗壳达到最佳的匹配特性，但这种由动静干涉作用激励的大幅压力脉动仍然存在。大量的研究证实，离心泵蜗壳内的流动结构呈周向不均匀性，这种不均匀度和叶轮、蜗壳的几何尺寸以及泵的工况点密切相关。离心泵内部非定常流动研究的最终目的是探索其内部真实作用机制，建立离心泵压力脉动的预测模型，为低噪声离心泵设计提供理论基础。
+
+Spence[2.3]等采用数值计算方法研究了离心泵特征几何参数对压力脉动影响的水平，并对不同几何参数的影响程度进行排序研究。Yao[4等人对一台具有双吸结构的离心泵频谱特性进行研究，分析了频谱中的典型峰值信号。Zhang[5-7] 等人从降低叶轮-隔舌动静干涉作用出发提出一种具有特殊的侧壁结构的压水室，并对其压力脉动水平进行研究，并和常规压水室离心泵压力脉动进行对比研究分析。本文对一台低比转速离心泵压力脉动频谱特征进行试验研究，分析其典型峰值信号特性，试图分析压力频谱随蜗壳周向位置及流动特性之间的关联。
+
+# 1试验测量系统
+
+本文的研究对象为一台低比转速离心泵 $n _ { s } = 6 9$ 叶轮采用二维圆柱叶片结构形式，蜗壳断面为矩形，其主要设计参数如表1所示。
+
+表1模型泵主要设计参数  
+Table 1 Main parameters of the model pump   
+
+<html><body><table><tr><td>设计参数</td><td>设计值</td></tr><tr><td>流量Qd</td><td>55 m³/h</td></tr><tr><td>扬程Hd</td><td>20 m</td></tr><tr><td>额定转速nd</td><td>1450 r/min</td></tr><tr><td>叶片数Z</td><td>6</td></tr><tr><td>叶轮进口直径 Di</td><td>80 mm</td></tr><tr><td>叶轮出口直径 Dz</td><td>260 mm</td></tr><tr><td>叶轮出口宽度 b2</td><td>17 mm</td></tr><tr><td>叶片出口安放角βz</td><td>30°</td></tr><tr><td>包角</td><td>115°</td></tr><tr><td>隔舌安放角α</td><td>20°</td></tr><tr><td>蜗壳基圆直径 D</td><td>290 mm</td></tr><tr><td>蜗壳出口直径 D4</td><td>80 mm</td></tr></table></body></html>
+
+搭建如图1所示的离心泵闭式试验测量系统，采用电磁流量计及高精度压力表获得模型泵的流量-扬程特性曲线，同时采用扭矩仪获得泵的输入功率，整个测试系统的误差小于 $0 . 5 \%$ 。为了获得模型泵在不同工况下的频谱特性，采用高频压力脉动传感器（PCB113B27）对压力信号进行采集，压力脉动传感器的具体位置如图2所示，压力传感器均匀分布在蜗壳圆周方向上，相邻压力传感器之间的夹角为$1 8 ^ { \circ }$ 。压力信号采样过程中，采样分辨率设置为$0 . 5 \mathrm { H z }$ 。大量的研究证实离心泵压力脉动信号基本处于低频段（ ${ \bf < } 1 0 0 0 \mathrm { H z } )$ ，因此采样过程中采样频率设置为 $1 0 0 0 0 \mathrm { H z }$ 以充分满足奈奎斯采样定理。
+
+![](images/29011e96b8841a798570bd1cab0536cf9860b51f03d2aebfb76c6919fe09354b.jpg)  
+图.2压力脉动测量点位置Fig.2 Measuring positions
+
+# 2试验结果分析
+
+图3给出了模型泵的试验性能曲线图，由图可得：模型泵的高效区较宽，在 $1 . 0 Q _ { d } – 1 . 2 Q _ { d }$ 流量范围内，其效率值基本相同，模型泵的最高效率点略偏向 $1 . 1 Q _ { d }$ 。小流量工况时，模型泵扬程曲线出现了不稳定驼峰现象，可知此时叶轮内部出现了旋转失速流动结构。
+
+图4给出了模型泵4种不同工况下，3个不同测量点处（ $\scriptstyle \theta = 0 ^ { \circ }$ ， $\scriptstyle { \theta = 3 6 ^ { \circ } }$ ， $\scriptstyle \theta = 9 0 ^ { \circ }$ ）的压力脉动频谱图。本文所研究的离心泵其转速为 $1 4 5 0 ~ \mathrm { \ r / m i n }$ 叶片数为6,因此叶轮旋转频率 $f _ { R }$ 为 $2 4 . 2 \ : \mathrm { H z }$ 叶频 $f _ { B P F }$ 为 $1 4 5 \mathrm { H z }$ 。
+
+![](images/081073c3316246d804d89aea4d4dd07234092a26b0a6bfd464ff260c70fcf410.jpg)  
+图1模型泵闭式测量系统 Fig.1 Closed test rig
+
+![](images/c72244da63dcad3d50185bfde2cf30e77df829d4b378b7c0670418168d9112db.jpg)  
+图3模型泵试验性能曲线
+
+由图可知：模型泵的频谱呈现典型的离散特性，峰值信号主要出现在叶频 $f _ { B P F }$ 及其高次谐波 $2 f _ { B P F } . 3 f _ { B P F }$ 处，且叶频处的压力脉动幅值远大于其高次谐波处。在频谱图的高频段基本没有峰值信号，因此可以认为由叶轮-隔舌动静干涉作用等非稳态流动现象激励的压力脉动信号基本处于 $0 { - } 5 0 0 \mathrm { H z }$ 频率范围内。由于本文所采用的叶轮由5轴数控加工完成，从而可以严格保证其动平衡性，因此在叶轮旋转频率处没有出现明显的峰值信号。同时由叶轮旋转信号和叶频信号之间非线性干涉作用诱发的峰值信号可以被很好的抑制，因此压力频谱中峰值信号主要出现在叶频及其高次谐波处，在其它频率处没有出现显著的峰值信号。
+
+不同测量点处，压力脉动幅值差异显著，不同流量下，在 $\scriptstyle { \theta = 3 6 ^ { \circ } }$ 测点处，压力脉动幅值均大于其它测量点。小流量工况下 $0 . 2 Q _ { d }$ 以及 $0 . 6 Q _ { d } ,$ 在 $\scriptstyle \theta = 0 ^ { \circ }$ 测量点， $2 f _ { B P F }$ 处的幅值信号远大于其它两个测量点处的峰值信号。而在设计点及大流量工况，在 $\scriptstyle \theta = 0 ^ { \circ }$ 测量点， $2 f _ { B P F }$ 处的峰值信号得到明显抑制，幅值较小。
+
+由图4可知：叶频处的压力脉动幅值在频谱中占据绝对主导作用，为了分析叶频处幅值在蜗壳周向的分布情况，图5给出了不同工况下叶频处压力脉动幅值随角度分布特性。由图可知：不同工况下，叶频分布呈现典型的6个波峰特性，该特征是由叶轮-隔舌的周期性动静干涉作用造成的。设计工况及大流量工况下，压力脉动的极大值点出现在隔舌靠后位置 $\scriptstyle { \theta = 3 6 ^ { \circ } }$ 监测点处，在靠近隔舌前端监测点$\scriptstyle \theta = 1 8 ^ { \circ }$ 处，压力脉动幅值较小；而在小流量工况 $0 . 8 Q _ { d }$ 在 $\scriptstyle { \theta = 3 6 ^ { \circ } }$ 监测点处，压力脉动幅值信号没有达到最大值，极值点出现在 $\scriptstyle \theta = 1 0 8 ^ { \circ }$ 监测点附近。由动静干涉机制可知：叶轮-隔舌的动静干涉作用强度主要由叶片尾迹流撞击隔舌决定，在隔舌前端监测点 $\scriptstyle \theta = 1 8 ^ { \circ }$
+
+![](images/b526eb11dfe441abb06e57fbec469d6b74cfada0bd71b55b7baadd93465e381a.jpg)  
+Fig.3 Performance of the model pump   
+图4模型泵压力脉动频谱特性  
+Fig.4 Pressure spectrum characteristics of the model pump
+
+![](images/504b8962c0de1ad789e3e4efe8d8cff9b0fb224a62b9e00945de0f42dba8ac0d.jpg)  
+图5叶频处压力脉动幅值随角度分布特性
+
+flow rates
+
+处，尾迹流与隔舌的撞击干涉作用还未出现，因此其压力脉动幅值较低。而在隔舌后端位置 $\scriptstyle { \theta = 3 6 ^ { \circ } }$ 附近，当尾迹流与隔舌产生干涉作用后，较大强度的扰动流场结构将在该区域附近产生，因此将在该区域造成较大的压力脉动幅值。而在小流量工况，我们认为部分液体从蜗壳散段回流进入蜗壳内部，此时尾迹流与隔舌的干涉结构将受到明显的抑制影响，压力脉动能量主要由叶片出口非均匀流动结构决定，从而造成 $\scriptstyle { \theta = 3 6 ^ { \circ } }$ 处的压力脉动幅值不再远大于其它监测点处。设计工况及大流量工况时，随着角度的增加，不同测点处的压力脉动幅值基本呈现不断下降的趋势，该结果是由叶轮和蜗壳间不断增加的间隙造成的。而在小流量工况，由于隔舌附近动静干涉作用较弱，隔舌附近监测点的压力脉动幅值不再具有明显优势，因此不同测点压力脉动幅值不再具有明显下降的趋势。
+
+不同工况下，离心泵内部的流动结构存在较大差异，从而影响到压力脉动幅值大小。图6给出了隔舌附近4个不同测点叶频处压力脉动幅值随流量的变化趋势。总体来看，压力脉动幅值在偏工况点远大于在设计工况附近，尤其在小流量工况附近，压力脉动幅值迅速上升。由能量性能曲线可知：模型泵最优工况点略偏向 $1 . 1 Q _ { d }$ 附近，此时叶轮出流的液体和蜗壳间的匹配关系达到最佳，因此模型泵的压力频谱能量应达到极小值，而图6中4个不同测量点处压力脉动幅值的极小值点皆位于 $0 . 9 Q _ { d }$ 工况附近。由图4可知：模型泵压力频谱中除了叶频信号外，还存在其高次谐波信号，因此压力频谱的总能量应为各个离散信号能量之和，虽然叶频处信号在压力频谱中占据主导作用，但其仅仅代表了压力频谱的部分能量，这也是叶频处压力脉动幅值可能偏向 $0 . 9 Q _ { d }$ 工况的原因。此外模型泵的最高效率点和水力效率最优点往往并不重合，在水力效率最优点时，模型泵内部的流动结构最为均匀，因此我们推断模型泵的水力效率最优点偏向 $0 . 9 Q _ { d }$ 工况，这可能也是造成压力脉动幅值最小点出现在 $0 . 9 Q _ { d }$ 工况的原因。
+
+![](images/0fdc2e74060c5d2547b4802cf537859e5dde2c71226432542cea09ab52465978.jpg)  
+Fig.5 Angular distribution of pressure amplitude at differeni   
+图6不同测量点处叶频幅值随流量变化趋势Fig.6Pressure amplitude trend versus flow rate
+
+# 3结论
+
+本文对一台低比转速离心泵的压力脉动特性进行了试验研究，通过布置在蜗壳圆周方向的高频压力脉动传感器获得了模型泵的压力脉动频谱特性，主要结论如下：1.不同测量点处模型泵的压力脉动频谱呈现典型的离散信号特征，峰值信号主要出现叶频及其高次谐波处。2.设计点及大流量工况下，叶频极值点出现在隔舌后端 $\scriptstyle \theta = 3 6 ^ { \circ }$ 附近，而在小流量工况，在该区域没有出现峰值极大值点。3．叶频处压力脉动幅值在 $0 . 9 Q _ { d }$ 工况点附近达到较小值，偏工况时，压力脉动幅值迅速上升。
+
+# 参考文献
+
+[1]Rodriguez C G, Mateos-Prieto B,Egusquiza E.Monitoring ofRotor-Stator Interaction in a Pump-Turbine Using Vibration Measured with Onboard Sensors Rotating with Shaft[J]. Shock and Vibration,2014:276796. [2]Spence R,Aaral-Teixeira J.A CFD Parametric Study of Geometrical Variations on the Pressure Pulsationsand Performance Characteristicsofa Centrifugal Pump[J]. Computers & Fluids,2009,38(6):1243-1257.
+
+[3]袁建平，付燕霞，刘阳，等．基于大涡模拟的离心泵蜗 壳内压力脉动特性分析[J].排灌机械工程学报，2010, 28(4): 310-314.   
+YUAN Jianping,FU Yanxia,LIU Yang,et al. Analysis on Pressure Fluctuation within Volute of Centrifugal Pump Based on Large Eddy Simulation[J]. Journal of Drainage and Irrigation Machinery Engineering，2010,28(4):310-314.   
+[4]YAO Zhifeng,Wang Fujun,QU Lixia,etal.Experimental Investigation of Time-Frequency Characteristics of Pressure Fluctuations in a Double-Suction Centrifugal Pump[J]. Journal of Fluids Engineering,2011,133(10):101303.   
+[5]ZHANGNing， YANGMinguan， GaoBo， etal. Experimental Investigation on Unsteady Pressure Pulsation in a Centrifugal Pump With Special Slope Volute[J]. Journal of Fluids Engineering,2015,137: 061103.   
+[6]ZHANG Ning， YANGMinguan， Gao Bo， etal. Experimental and Numerical Analysis of Unsteady Pressure Pulsation in a Centrifugal Pump with Slope Volute[J]. Journal of Mechanical Science and Technology,2015,29 (10): 4231- 4238   
+[7]ZHANG Ning,YANG Minguan, Gao Bo, et al. Unsteady Pressure Pulsation and Rotating Stall Characteristics in a Centrifugal Pump With Slope Volute[J]. Advancesin Mechanical Engineering,2014,11:710791.   
+附：   
+通讯作者：张宁   
+Add:江苏省镇江市江苏大学能源与动力工程学院212013   
+Tel:18806101236   
+E-mail: zhangningwlg@163.com

@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "Exploring soil microbial 16S rRNA sequence data to increase carbon yield and nitrogen efficiency of a bioenergy crop ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LEONARDO M.PITOMBO $^ { \\mathrm { ~ T ~ } , 2 , 3 }$ , JANAINA B. DO CARMO³,MATTIAS DE HOLLANDER1, RAFFAELLA ROSSETTO $^ 4$ ,MARYEIMYV.LOPEZ $^ { 5 }$ ,HEITOR CANTARELLA² and EIKOE. KURAMAE1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ 1$ Departmentof Microbial Ecology,Netherlands Instituteof Ecology (NIOO/KNAW),Droevendalsesteeg106708PB Wageningen,heetherlands,SoilsndEnironmentalResourcesCenterAgronomicIsitteofCampias(AC)rao de Itapura 1481，13020-902 Campinas,SP,Brazil, $^ 3$ Departmentof Enuironmental Sciences,Federal Uniersity of Sao Carlos (UFSCar),od.JoaoLemedosSntosKm08052-780Sorocaba,SP,Brazil,PoloiracicabaAgenciaaulistade Tecnologia (A),doiaS7m3340-970iacicaba,razil,DepartmentfSilience,isityfo Paulo (ESALQ/USP),Avenida Padua Dias 11,CEP13418-260 Piracicaba,SP,Brazil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crop residues returned to the soil are important for the preservation of soil quality,health,and biodiversity, and they increase agriculture sustainability by recycling nutrients. Sugarcane is a bioenergy crop that produces huge amounts of straw (also known as trash) every year.In addition to straw,the ethanol industry also generates large volumes of vinasse,a liquid residue of ethanol production,which is recycled in sugarcane fields as fertilizer.However,both straw and vinasse have an impact on $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from the soil. Nitrous oxide is a greenhouse gas that is a primary concern in biofuel sustainability. Because bacteria and archaea are the main drivers of N redox processes in soil, in this study we propose the identification of taxa related with $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes by combining functional responses $( \\mathrm { N } _ { 2 } \\mathrm { O }$ release) and the abundance of these microorganisms in soil. Using a large-scale in situ experiment with ten treatments，an intensive gas monitoring approach, high-throughput sequencing of soil microbial16S rRNA geneand powerful statistical methods,we identified microbesrelated to $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes in soil with sugarcane crops.In addition to the classical denitrifiers,we identified taxa within the phylum Firmicutes and mostly uncharacterized taxa recently described as important drivers of $\\mathrm { N } _ { 2 } \\mathrm { O }$ consumption.Treatments with straw and vinasse also allowed the identification of taxa with potential biotechnological properties that might improve the sustainability of bioethanol by increasing C yields and improving $\\mathrm { \\Delta N }$ efficiency in sugarcane fields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Anaeromyxobacter,nitrous oxide,straw,sugarcane,sustainability,vinasse ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received29April 2015;accepted26May2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioethanol from sugarcane is becoming an increasingly important alternative energy source worldwide. The sugarcaneplanted area in Brazil is around 9 million-ha (CONAB，2013) and 26 million-ha worldwide (Kao et al.,2014).The environmental benefits of replacing fossil fuels by ethanol from sugarcane can be only achieved if management practices are applied which lead to a minimum of greenhouse gases (GHG) losses to the atmosphere.Approximately $45 \\%$ of the total amount of methane $\\mathrm { ( C H _ { 4 } ) }$ and nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ emitted by the cultivation of sugarcane are derived from straw burning (Macedo et al.,20o8); this practice also releases charcoal particles,causing health problems for humans and animals.Recently，legislation was passed that restricts burning，which is being phased out. The unburned cane (green cane) leaves a thick mulch of plant material after harvest (trash or straw） ranging from 10 to $2 0 \\mathrm { ~ t ~ h a } ^ { - 1 }$ (dry matter） consisting of leaves and tops. The conversion from burning to green management of sugarcane will impact the biogeochemical cycling of carbon and nitrogen in the plant-soil system. Straw preservation affects the entire production process of sugarcane,influencing yields,fertilizer management and application, soil erosion,soil organic matter dynamics,and GHG emissions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In addition to plant straw,a second by-product of the sugarcane ethanol industry is vinasse (Mutton et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2010).Each liter of ethanol generates 1O-15lof vinasse, which is a liquid organic residue that has a high potential for polluting water streams.For this reason, there is legislation regulating the destination of vinasse.Currently，Brazil produces approximately 337 billion liters of vinasse that is almost entirely recycled as fertilizer in sugarcane fields (Mutton et al.,2o1O).Vinasse has a high dissolved organic carbon (DOC） content resulting in high biochemical oxygen demand (BOD） and contains several nutrients; it is particularly rich in potassium and sulfur and contains considerable amounts of phospho rus,nitrogen,calcium,magnesium,and micronutrients. Although vinasse use is of relevance for nutrient cycling in sugarcane fields its application contributes to GHG emissions especially when applied with chemical fertilizers and on the straw (Carmo et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The major sources of atmospheric $\\mathrm { N } _ { 2 } \\mathrm { O }$ are the nitrification and denitrification processes (Bouwman et al., 2013).Globally，approximately $1 0 . 9 \\mathrm { ~ T g ~ N } – \\mathrm { N } _ { 2 } \\mathrm { O }$ is estimated to be lost from land surfaces every year (Galloway et al., 2004).Although the metabolic pathways that result in $\\mathrm { N } _ { 2 } \\mathrm { O }$ production during nitrification are not entirely clear， some authors suggest that this process might represent an even larger source of $\\mathrm { N } _ { 2 } \\mathrm { O }$ from agricultural fields than denitrification (Khalil et al.，2004; Toyoda et al., 2011). Moreover, nitrification supplies oxidized N compounds that can be used as electron acceptors，subsequentlyresultingin $\\mathrm { N } _ { 2 } \\mathrm { O }$ release. Denitrification can also be a detoxification pathway as a result of the accumulation of $\\Nu { \\cal O } _ { 2 } ^ { - }$ in the system (Zhu et al.,2013). Nitrogen oxidation regulates nutrient availability for plant and the element mobility on the system, making the nitrification process of agronomical and environmental interest.Nitrification isa microbialrestricted niche (Hayatsu et al.,2Oo8)while denitrification canbe performed bya broad diversityof microorganisms,especially prokaryotes (Philippot et al.，2007). Denitrification has being described as a modular pathwayin which different cells may drive different steps to the complete reduction of nitrate to $\\Nu _ { 2 }$ being $\\mathrm { N } _ { 2 } \\mathrm { O }$ an intermediate product (Zumft,1997).Complementarily, the diversity of potential $\\mathrm { N } _ { 2 } \\mathrm { O }$ reducers goes beyond sensu stricto denitrifiers (Joneset al.,2013),which makes it difficult to identify the main players in $\\mathrm { N } _ { 2 } \\mathrm { O }$ production and consumption. Identifying these players will improve our understanding of these processes in the field and promote more sustainable fertilizer use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While experiments on micro and mesocosm scales have been performed to identify microbial drivers of the N cycle and specifically linked to $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soils (e.g. Ishii et al.,2011; Jung et al.,2014), field conditions cannot be reproduced. Surely such micro and mesocosm studies give important insights into the microbes involved in N cycle and specific processes.However, the dynamic system of soil/plants in addition to weather instability results in a complex microbial community that goes beyond cultivable microorganisms. Thus,in this study by combining intensive in situ $\\mathrm { N } _ { 2 } \\mathrm { O }$ monitoring, high-throughput sequencing of soil microbial 16S rRNA gene and powerful statistical methods wehave identified potential microbial taxa that might be explored to improve the sustainability of sugarcane as a bioenergy crop as a result of their biotechnological potential and/or their role in nutrient cycling. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sitedescriptionand experimental design ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experimental site is located in Piracicaba,Sao Paulo state, Brazil $( 2 2 ^ { \\circ } 4 1 ^ { \\prime } 1 9 . 3 4 ^ { \\prime \\prime } \\mathrm { S } ;$ ： $4 7 ^ { \\circ } 3 8 ^ { \\prime } 4 1 . 9 7 ^ { \\prime \\prime } \\mathrm { W } ;$ .Morethan $5 0 \\%$ of the sugarcane of Brazil is grown in this state (Conab,2013).The site'saltitude is $5 7 5 \\ \\mathrm { m } ,$ the mean annual temperature is $2 1 ^ { \\circ } \\mathrm { C } ,$ and the mean annual precipitation is $1 3 9 0 ~ \\mathrm { m m }$ ，The climate is defined as humid tropical with a rainy summer and a dry winter and is considered to be a Cwa type according to the Koppen classification system (Critchfield,1960).The soil is classified as Haplic Ferralsol (FAO,2Oo6); fertility parameters are listed in Table S1. Prior to the experiment, the sugarcane crop of the plant cycle was harvested without burning; thus,the field was in the first ratoon stage.After harvesting,the site was subdivided into two subsites.The straw was left onto soil of subsite 1 $( 1 0 \\mathrm { ~ t ~ h a } ^ { - 1 } )$ and removed mechanically of subsite 2. The removal of straw simulated the scenario that occurs when the sugarcane straw is used as raw material for biofuel produc tion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ten different treatments based on combination of organic, mineral fertilizers and straw were applied to the experimental site.Theplots $( n = 4 ,$ ： ${ \\textrm { 8 } } \\times { \\textrm { 9 m } }$ ）were randomlydistributed and separated from each other by $2 \\mathrm { ~ m ~ }$ borders.All treatments received single superphosphate as the phosphorus source $( 1 7 ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 }$ of P).The source of potassium was potassium chloride $( 1 0 0 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ of $| \\mathrm { K } \\rangle$ orvinasse (normal or concentrated).The nitrogen source was ammonium nitrate applied at a rate of $1 0 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ .The treatments without straw are described as the following:Ctrl (without N)- mineral fertilizer containing $\\mathrm { ~ P ~ } { }$ and K;MN (mineral N)- mineral fertilizer containing N,P,and ${ \\mathrm { K } } ;$ （ $\\mathrm { M N \\_ V }$ (mineral N plus vinasse）- vinasse as K source $( 1 . 1 0 ^ { 5 } \\mathrm { ~ l ~ h a } ^ { - 1 } )$ and mineral fertilizer containing $\\mathsf { N }$ and P;V (vinasse)- vinasse as K source $( 1 . 1 0 ^ { 5 } \\mathrm { ~ l ~ h a } ^ { - 1 } )$ and mineral fertilizer containing P; CV (concentratedvinasse）-concentratedvinasse asKsource $( 1 . 1 0 ^ { 4 } \\mathrm { ~ l ~ h a } ^ { - 1 } )$ and mineral fertilizer containing P.The same treatments were used with straw (Ctrl_S;MN_S;MN_V_S; $\\mathrm { v } _ { - } s ;$ and CV_S).Fertilization was carried out on 19 November，2012.Vinasse was applied to the total area,while the mineral fertilizers and concentrated vinasse were applied in bands parallel to the crop line as is usually performed in commercial areas.There was no treatment with CV and N because they could be applied to different sides of the plant; thus,the combination of C and N that results in high $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions was avoided. The composition of the vinasse and concentrated vinasse is presented in Table S2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Greenhouse gas flux measurement and emission estimation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil GHG fluxes were measured using the chamber-based method (Varner et al.，2003).In each plot,a PVC chamber $3 0 \\ \\mathrm { c m }$ in diameter) was placed on the soil in which it was partiallyinserted $3 \\mathrm { c m }$ deep).After closing the chambers, $6 0 ~ \\mathrm { m l }$ samples were collected at time points 1,10,20,and $3 0 ~ \\mathrm { m i n }$ using syringes and stored under pressure in $2 0 \\mathrm { - m l }$ -evacuated penicillin flasks sealed with gas-impermeable butyl-rubber septa (Bellco Glass 2048).All samplings were performed between 8:00 and $1 2 { : } 0 0 \\ \\mathrm { a . m }$ .The first 31 samplings were collected within 60 days after fertilization,followed by 4 weekly samplings and finally fortnightly intervals until the crop was harvested. Each gas chamber flux was calculated from slope regression between the gas concentration and collection time according to Carmo et al. (2013).Measurements of atmospheric pressure,chamber height,and air temperature were taken during gas sampling to determine the air chamber volume and to calculate GHGs emissions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gas samples were analyzed in a GC-2014 model gas chromatograph with electron capture for $\\mathrm { N } _ { 2 } \\mathrm { O }$ (Shimadzu, Kyoto,Japan).Soil temperature was measured at a depth of $1 0 \\ \\mathrm { c m }$ to assist in the interpretation of the results.All of the chambers were installed at the fertilized sugarcane line position. GHG emissions were calculated by linear interpolation of fluxes between sampling events (Allen et al.，2010).We estimated that the fertilizedbandsaccounted for $20 \\%$ of the total experimental area; the remaining $8 0 \\%$ of the area consisted of the spaces between the rows.Fertilizer emission factors (EF) were calculated according to Allenet al. (2010) and Carmo et al. (2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil sampling and soil chemical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil sampling and gas collection initiated1 day after fertilization.After collecting the gases,a composite soil sample $0 -$ $1 0 \\ \\mathrm { c m }$ deep from three points was collected from each plot at the fertilizer band position.The samples were stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ Soil moisture was determined by gravimetry,and mineral $\\Nu$ content was determined by colorimetry of the soil extracts (KCl $2 ~ \\mathrm { m o l } ~ \\mathrm { l } ^ { - 1 }$ ）using flow injection analysis (FIAlab 25oo) based on the methods proposed by Kamphake et al.(1967) for $\\mathrm { N O } _ { 3 } ^ { - }$ and Krom (1980) for $\\mathrm { N H _ { 4 } ^ { + } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA extraction,16S rRNA gene amplification and sequencing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA was extracted from $2 5 0 ~ \\mathrm { m g }$ of soil using the PowerSoil DNA Isolation Kit (Mobio Laboratories,Carlsbad,CA，USA) according to the manufacturer's protocol.We performed DNA extraction in samples from eight time points of each treatment corresponding to 240 samples(10 treatments $\\times 8$ time points $\\times 3$ replicates).Archaeal and bacterial community structures were assessed by sequencing the V4 region of the 16S rRNA gene using primers 515F (GTGCCAGCMGCCGCGGTAA）and 806R(TAATCTWTGGGVHCATCAGG)(Caporaso et al.，2010) and the LIB-L kit for unidirectional sequencing. Duplicate $5 0 ~ \\mu \\mathrm { l }$ PCRs were performed as follows: ${ 5 \\mu \\mathrm { l } }$ Roche $1 0 \\times \\mathrm { P C R }$ buffer with $\\mathrm { { M g C l } } _ { 2 } , 2 \\mathrm { { U } }$ of Roche Taq DNA polymerase, $2 ~ { \\mu \\mathrm { l } }$ of dNTP ( $\\mathrm { { 1 0 ~ m M } }$ ！ $1 ~ \\mu \\mathrm { l }$ each primer ${ \\mathrm { ~ } } ^ { \\prime } 5 { \\mathrm { ~ p m o l ~ } } \\mu \\mathrm { l } ^ { - 1 } )$ ,and $1 ~ \\mu \\mathrm { l }$ of DNA template.Thermocycling conditions consisted of aninitial denaturation at $9 4 ~ ^ { \\circ } C$ for 5 min,30 cycles at $9 5 ~ ^ { \\circ } C$ for 30 s, $5 3 ~ ^ { \\circ } \\mathrm { C }$ for $1 ~ \\mathrm { m i n }$ $7 2 ^ { \\circ } \\mathrm { C }$ for $1 \\ \\mathrm { m i n } ,$ and an final extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ .Technical replicates were pooled and purified using the Qiagen PCR purification kit.The 240 samples were equimolar mixed and then sequenced (Macrogen Inc. Company, South Korea) on a Roche 454 automated sequencer using the GS-FLX Titanium system (454Life Sciences,Brandford,CT, USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sequence data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sequence data were processed using the workflow of the NG6 system (Mariette et al.,2012),installed ona local server,which system depends on Mothur version 1.31.1 (Schloss et al.,2009). The flowgrams were demultiplexed and sizes between 350 and 750 flows were selected. The flowgrams were corrected using the shhh.flows command,which is the Mothur implementation of the original PyroNoise algorithm (Quince et al.,2011).Next, the results of the different sff files were combined for further analysis.The merged sequences were aligned to the bacterial and archaeal reference alignment provided on the Mothur website (http://www.mothur.org/wiki/Silva_reference_alignment) based on the SILVA 102 release of the SSURef database (Quast et al.,2013).Only reads that fell into region 13 862-22 580 of the reference alignment were kept. The pre.cluster command was used to reduce typical sequence errors due to sequencing PCR products from high-diversity DNA samples. This command assigns sequences that are within two mismatches to the mostabundantsequence(Huseet al.， 201o). Chimeric sequences were identified and removed using the chimera.uchime command (Edgar et al.,2011). Operational taxonomic units (OTUs） were formed at a maximum distance of 0.03 using the dist.seqs command and average neighbor clustering.All sequences were taxonomically classified using the Mothur implementation of the RDP classifier (Wang et al., 2007)using the training set (version 9) provided on the Mothur website(http://www.mothur.org/wiki/RDP_reference_files) and a bootstrap cutoff of $80 \\%$ . OTUs were defined at an identity cutoff of $9 7 \\%$ .We are aware that the Mothur developers state this training set as of poor quality and it is small in size. However,RDP taxonomy is one of the only sets that take subgroups of Acidobacteria into account. For each OTU,consensus taxonomy was determined using the classify.otu command. Representative sequences for each OTU were re-aligned to the Silva reference alignment and a neighbor joining tree was created using the clear-cut program (Sheneman et al.,20o6).Taxonomic classification and OTU clustering data were combined into the BIOM format (McDonald et al.,2012) for further downstream statistical analysis with the Phyloseq (McMurdie & Holmes.2013)R package. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The raw 454 pyrosequencing data of the 16S rRNA are available at the European Nucleotide Archive (ENA) (https:// www.ebi.ac.uk/ena/） under the study Accession Number PRJEB8973. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differential analyses of the count data (Anders & Huber,2010) were applied to verify the effect of different management practices on the abundance of operational taxonomic units (OTU). Time points were not considered for these analyses.The control (Ctrl) treatment was used as the reference,and the negative binomial generalized linear model was applied using the DESeq2 package(Love et al.，2014) in R.OTU fold changes were considered statically significant using $P < 0 . 0 1$ as the criterion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Generalized linear mixed models (Bolker et al.,2oo9)were used to test the effect of different management practices,soil parameters,and soil taxa abundance on $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes.The sampling event was used as the random factor.First,we fitted a global model using the Ime4' R package version 1.1-7 (Bates et al.,2014).Model selection was performed using the $\\cdot \\mathrm { { M u M I n ^ { \\prime } } }$ R package version 1.10.5 (Barton,2014) with the Akaike information criterion (AIC) for ranking.To verify the effect of OTUs on $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes,we performed screening steps to reduce the number of parameters before applying the 'dredge' function, which imposes limited number of parameters.From each global model,we consecutively fitted nested models selecting the OTUs with $P$ values $< 0 . 0 5 ,$ $< 0 . 1 ,$ and $< 0 . 2 ,$ ，until we obtained approximately 15 OTUs.Thus，the‘dredge' function was applied to select the best fitted model based on all parameter combinations.The AICwasusedasacriterion formodel selection. In general, $P$ values in generalized linear mixed models should be only used as guides to test nested models (Bolker et al.,2oo9). Thus,once the best model for each management practice was selected,and all OTUs were considered relevant for explaining $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil even at $P > 0 . 0 5$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GHG fluxes and emissions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taking into account management practices and soil physicochemical factors，we found by the best fitted model that organic C addition $( P < 0 . 0 0 1 )$ ，Nfertilization $( P < 0 . 0 0 1 )$ ，straw $( P = 0 . 0 1 6 )$ ，andmoisture $( P = 0 . 0 0 4 )$ increased the fluxes of $\\mathrm { N } _ { 2 } \\mathrm { O }$ from the soil. In contrast, $\\mathrm { N O } _ { 3 } ^ { - }$ reduced $( P = 0 . 0 6 5 )$ the fluxes of $\\mathrm { N } _ { 2 } \\mathrm { O }$ from the soil.Ammonium(Fig. S1) and soil temperature did not explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes according to the best fitted model. The intercept of the model highly correlated with soil moisture $( r ^ { 2 } = 0 . 9 4 9 )$ ．The relationship of nitrate with $\\mathrm { N } _ { 2 } \\mathrm { O }$ production is well known. In our study，the models showed an association but not a cause-effect relationship because straw and organic fertilization increased the $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes but also reduced soil $\\mathrm { N O } _ { 3 } ^ { - }$ (e.g.,by immobilization; Fig.S2).Thus,N fertilization byitself (i.e.,availableNand not the total Namount) better explained the $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes than soil inorganic N. The parameter estimation for fixed effects in global and best fitted models used to explain the $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil considering physicochemical parameters and management practices are presented in Table S3.Despite the high $\\mathrm { N } _ { 2 } \\mathrm { O }$ peaks verified in treatments without straw (Fig.1),annual $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions were greater in the plots receiving treatment with straw (Fig.2).We assumed that the effect of high moisture in the treatments with straw resulted in longer slopes with high $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes compared to treatments without straw (illustrated in Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the first 6O days of sampling, the cumulative $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions reached more than $70 \\%$ of the total emis sions observed during the sugarcane cycle for all treatments (Fig. S3). At the 89th day，the cumulative emissions reached at least $8 5 \\%$ .After 60 days,the soil inorganic $\\Nu$ content reached a similar content to that before fertilization (Figs S1 and S2),which was expected as sugarcane plants were actively taking up nutrients from the soil. Therefore,we selected soil samples from the first 60 days to assess the microbial community related to N redox in soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In accordance with the modeling showing that organic fertilization，mineral fertilization，and straw addition increased $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes (Fig.1)，the calculated annual emissions were also affected by these manage ment practices(Fig.2). The emission factors(EF) showed that theamountofNfrom fertilizerreleased as $\\mathrm { N } _ { 2 } \\mathrm { O }$ was equivalent to the following: (i) $2 1 0 \\mathrm { ~ g ~ h a } ^ { - 1 }$ when only mineral nitrogen was applied to the soil without straw; (ii) $2 1 5 7 \\mathrm { \\ g h a } ^ { - 1 }$ when mineral nitrogen was combined with vinasse; (iii) $1 1 4 1 \\ \\mathrm { g \\ h a } ^ { - 1 }$ only with vinasse; and (iv) $5 0 3 ~ \\mathrm { g } \\mathrm { \\ h a } ^ { - 1 }$ when concentrated vinasse wasused as fertilizer.In the treatmentswith straw,the $N { \\mathrm { - N } } _ { 2 } \\mathrm { O }$ released from the fertilizersincreased to $1 0 6 0 \\ \\mathrm { g \\ h a } ^ { - 1 }$ in the treatment containing mineral nitrogen; $3 3 8 0 \\ \\mathrm { g \\ h a } ^ { - 1 }$ in the treatment with mineral nitrogen combined with vinasse; $1 6 7 7 \\ \\mathrm { g \\ h a } ^ { - 1 }$ in the treatment with vinasse; and $6 8 8 \\ \\mathrm { g \\ h a } ^ { - 1 }$ when concentrated vinasse was applied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Archaeal and Bacterial microbial community ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall sequencing of 16S rRNA gene marker yielded ${ \\tt > } 1 . 3$ million reads with an average length of 283 bp. After quality trimming，a total of 836 750 sequences were obtained from 240 samples.These sequences covered 21 657 OTUs;a total of 7037 of these OTUs were represented by more than five reads.Differential analyses showed the effects of the management practices on 423 OTUs. Time points were not discriminate for this purpose.From these，32 belonged to Acidobacteria (Fig. 3c),46 to Actinobacteria (Fig.3f),29 to Bacterioidetes(Fig.3b),24 to Chloroflexi (Fig.3a),58 to Firmicutes (Fig.3d)，13 to Gemmatimonadetes (Fig.3b)，3to Nitrospirae (Fig. 3b),8 to Planctomycetes (Fig. 3b),124 to Proteobacteria (Fig. 3e),2 to Thaumarcheota (Fig. 3b), 3to Thermotogae(Fig.3b)，5 to Verrucomicrobia (Fig.3b),and 76 are unclassified bacteria or belong to other phyla. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88db37037dbe3e72894d337ce22407402b6bd17dcb0ee3c5e88264839911dc6.jpg",
+        "img_caption": [
+            "Fig.1Box-plotrepresentationofntrousoxidefluxesfromsoilwithsugarcanecopaftersoilfrilization.Ctrl:norogenaddition; MN: mineralnitrogenfertilization; V:vinase; CV:concentrated vinase;S:strawleftonthesoil.\\*Dailymeasurementsforsamplings 1-4;3-4times/wek measurements forsamplings5-31;onceaweek measurementsforsamplings 32-35;fortightlymeasurements for samplings 36-47 (just before the crop harvesting).The first sampling was 1 day after fertilization. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ff45364e42f14a806562e7f554a53b002d1fdcb6471fc6f19f8c6bfa37c6f37.jpg",
+        "img_caption": [
+            "Fig.2Annual nitrous oxide emissions from soils with sugarcane and respective emission factors $( \\% )$ .Bars are the standard errors.Reference lines are the calculated emissions from the control (Ctrl) treatments without straw(dotted line) and with straw (dashed line).Ctrl: no nitrogen addition; MN:mineral nitrogen fertilization; MN_V: mineral nitrogen plus vinasse fertilization;V:vinasse;CV:concentrated vinasse. Transversal lines: treatments with straw left on soil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interestingly，taxa classified as Chloroflexaleswere increased in abundance only in the treatments in which the straw was left on the soil.All OTUs in this order belonged to the genus Roseiflexus.In contrast, the differential analysis showedthatthemembersofKtedobacteraleswere underrepresented in soils with straw.There wasa significant effect of straw in reducing the abundance of 12 OTUs from the Ktedobacterales order,while in the plots without straw, only 4 OTUs were underrepresented.These OTUs were underrepresented 23 times with straw and only five times without straw (Fig. 3a), suggesting an inhibitoryeffect of straw on Ktedobacterales members. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The taxa recognized as ammonia oxidizersand affected by the treatments with straw and mineral N were from Thaumarcheota genus Nitrososphaera (OTU123,OTU-333,Fig.3b) and bacterial genus Nitrosospira (OTU-487，Fig. 3e，Fig. S4)(Nitrosomonadalesorder). Nitrososphaera OTUswere overrepresented onlyin treatments with straw,while Nitrosospira sp.OTU increased abundance in treatments with the addition of mineral N.The thousand most archaeal OTUs belong to the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "e96000 Qeee 19 503 1183 ③四 管 96 099 e60666g00g eceeee600 0060③6@④5④ 00:90809008 900000 厦   \n090 1 3 00908@ : 0096666 v 00 M 1 0000000 0 3000 √ @000 M .●··0· 川 ) 16 8 665 ® 665 o 0000009egoecgee 3.41 重 60日ee6ec6006g6 : (b) Nitrspir deras 900000960600F s90088:e68 (e)   \n@0QQQ @0060960 Q0ee Q0006600 : 60060G0000e: 09066 > 428 0 eebee Thtemet 章 motogales 188 135 6060060606 690000060606 ? 浙 660986e 福 609000 ? G8e159 998 福 Xanthomonadales oteobacteria   \n\"00u6 ? 000006e@ 00000 : 0006000 : 0e66e00069 6 > Qebee 06060 1 0966 9 r eee6 e80 248 s e0be · 00a > 00090908 1 000 300 282 e66e9 至 600€ uncisfe 川 693 36 55   \n\" e@g 自e@ : g6c006aceee MN_V-5S \" 9006 eece \\` 90009066 自0自 > ceeese MN 204 (c) adobe ： unclassified unclssified Granulicella @Q0e ee 600 00 6600 @ee6cee 9@ : ee90060@ G696 哈白日O \"0 6@e 自e日e 自00 : 9@0 Geee0 - 9Qee 06e Q M9Q 124 (f) W .   \n562 203 269 707 S 田 2 482 福 福 Adli 876 eege eeege ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "genus Nitrososphaera.Within the entire 16S rRNA dataset, there wasa clear dominance of the OTU 487 classified as ammonia oxidizer bacteria,which representative sequence presents $9 9 \\%$ of identity with N.multiformis. The other member of the Nitrosomonadales order (OTU 2796，Gallionellaceae） was low abundant. Among the nitrite oxidizers, only Nitrospira spp. (OTU-82, OTU-190, OTU-481，Fig. 3b） showed overrepresentation in treatments with straw and vinasse. The OTU-136 (Fig. 3d) classified as Ammoniphilus sp.also related to nitrogen cycle increased abundance in treatment with the addition of vinasse.Ammoniphilus is obligatory oxalotrophic, haloalkalitolerant bacteria and requires high ammonium concentration for growth (Zaitsev et al.,1998). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Vinasse organic fertilization resulted in an increase in 37Firmicutes taxa;however，the Lactobacillales order was the most responsive in terms of fold change (Fig.3d). The Lactobacillales OTUswere also highly abundant based on the model intercept analysis (Fig S5).Many OTUs (24)within Clostridiales were stimulated by the different treatments.However,18 of these OTUs had low-positive fold changes with treatments including concentrated vinasse and straw left on the soil (Fig.3d).Shifts in members of family Leuconostocaceae onlyoccurred with concentrated vinasse treatment, while shifts in members of family Alicyclobacillaceae were observed with normal vinasse treatment. OTU-215 and OTU-818 belonging to genera Megasphaera and Dialister，respectively，were shifted in all treatments with normal vinasse (Fig. 3d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regarding the phylum Actinobacteria，members of class Thermoleophilia were clearly overrepresented in treatments including the presence of straw.Order Micrococales from the class Actinobacteria was overrepresented in soils with the absence of straw,while the OTU belonging to the order Micronomosporales was overrepresented in soils with straw combinedwithmineral nitrogen fertilization (Fig. 3f). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In general, straw on the soil and the input of nutrients (organic or mineral) reduced the abundance of OTUs within phylum Acidobacteria.However，no pattern among specific Acidobacteria OTUs and fertilization practices was observed. The presence of straw resulted in 36 negative fold changes within 19 different OTUs; in treatment without straw，there were only 12 negative fold changes within 10 OTUs. Only 9 OTUs belonging to phylum Acidobacteria slightly increased their abundance in soil with straw (Fig. 3c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall,Proteobacteria was favored by organic fertilization and inhibited by the absence of straw (Fig. 3e). The treatments without straw resulted in 38 negative fold changes within 25 OTUs，while treatment with straw resulted in 19 negative fold changes within 14 OTUs (Fig. 3e). In treatments with organic fertilization, Alphaproteobacteria OTU-52,OTU-71,and OTU-317 that wereclassified as Novosphingobium，Gluconacetobacter and Acetobacter，respectively，were highly overrepresented (Fig. 3e). In addition to organic fertilization with concentrated vinasse，members of order Rhodocyclales (Betaproteobacteria) needed soil covered with straw to be overrepresented.The abilityof members of order Rhodocyclales to use complex organic sources and perform important steps of the nitrogen cycle,such as denitrification during waste treatment，has been previously described (Hesselsoe et al.,20o9). The class Deltaproteobacteria is another group that was overrepresented in soil with straw. Additionally, the members of this group were underrepresented in soil without straw (Fig. 3e), indicating a condition of dependency on straw. Interestingly，there were different effects at the OTU level within the Anaeromyxobacter spp.(Deltaproteobacteria) in the different treatments.From this taxon, OTU-50 and OTU-434 were overrepresented in soil with straw, OTU100 and OTU-248 were inhibited with the input of mineral nitrogen,and OTU-289 had a positive fold change with the addition of concentrated vinasse.Among the members of Gammaproteobacteria,OTU-76 and OTU-120 belonging to genera Acetinobacter and Dyella， respectively,were highly abundant in the treatments without straw when compared with the treatments with straw. Moreover，OTU-120，assigned to Dyella sp.， was increased in soil with mineral nitrogen treatment without straw. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OTU-121 and OTU-224 of the phylum Gemmatimonadetes were overrepresented in treatments with straw (Fig.3b).Within the phylum Verrucomicrobia,OTUs belonging to the order Chthoniobacterales presented negative fold changes inall treatments (Fig. 3b). One of these OTUs (OTU-398,classifiedas Candidatus Xiphinematobacter)was underrepresented only in the treatments with straw.Members of this genus are obligate endosymbionts of nematodes of commercial importance (Vandekerckhove et al., 200O),suggesting that straw might reduce the amount of this parasite in soil. Therefore, this taxon might be considered as a bioindicator of soil quality. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Microbial taxa to explain $N _ { 2 } O$ fluxes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After identifying the management practices (i.e., straw, mineral nitrogen fertilization,and organic fertilization) thatincreased $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes,we statistically checked what OTUs explain gas fluxes under the respective conditions.As a threshold,only OTUs that were represented at least twice in treatments with the same management practice were used to compose the respective model. These included were 64 OTUs related to straw,24 OTUs related to mineral nitrogen，and 64 OTUs related to organic fertilization.In contrast to the differential analysis,we used frequency-normalized data to troubleshoot convergence failures. The global models that explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes for the different management practices using microbial taxa narrowed the field $( P < 0 . 0 5 )$ to 19 OTUs for straw, six for mineral nitrogen,and 14 for organic fertilization (Table 1). The best and global models fitted with microbial OTUs under different managements to explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ are presented in Table1.The most represented orders in these models were Burkholderiales (6 OTUs)，Bacillales(5 OTUs)，Lactobacillales(4 OTUs), Myxococcales (3 OTUs)，and Xanthomonadales (3 OTUs). All nested models generated to obtain approximately 15 OTUs prior to application of the 'dredge' function (see Materials and methods for details)as well as the global and best models are presented in a supplemental file. The relative abundances of OTUs presented in Table 1 areillustrated for Firmicutes (Fig.S6)，Proteobacteria (Fig. S7) and other phyla (Fig. S8). There was an effect ofvinasse on Lactobacillus,concentrated vinasse on Leuconostoc and straw on Rummeliibacillus OTUs，significantly explaining the $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil (Fig. S6). Furthermore,the effect of straw and vinasse on relative OTU abundance within Anaeromyxobacter spp. was prominent (Fig. S7).The effects of straw on the OTUs thatexplain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxeswithin thearchaeal genus Nitro sosphaera and bacterial genera Roseiflexusand Gemmatimonas are shown in Fig. S8. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b65beb85648ed7f55efa4ac1077989b82e935b02e7832e8cccf196be3a0beeb.jpg",
+        "table_caption": [
+            "Table1 OTUs that explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes in soils under different sugarcane management practices $\\mathbf { \\nabla } \\cdot \\mathbf { S } = \\mathbf { \\nabla } \\cdot \\mathbf { \\vec { s } }$ straw; $\\mathrm { M N } =$ mineral nitroger fertilization; $\\mathrm { V } =$ vinasse fertilization)by the global models and by the best models "
+        ],
+        "table_footnote": [
+            "$\\{ \\mathrm { O n l y } \\$ OTUs that presented $P < 0 . 0 5$ are shown. Complete list of OTUs are presented in a supplemental file. $^ { * * * P } _ { } < 0 . 0 0 1$ $^ { * * } P < 0 . 0 1$ ${ ^ { \\ast } P } < 0 . 0 5 .$ $\\dagger P < 0 . 1 .$ : tnot significant but is part of the best model selected by AIC. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Global model§</td><td colspan=\"3\">Best model</td><td colspan=\"4\">Taxonomy</td></tr><tr><td>OTU</td><td>S</td><td>MN</td><td>V</td><td>S</td><td>MN</td><td>V</td><td>Phylum</td><td>Order</td><td>Family</td><td>Genus</td></tr><tr><td>103</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Acidobacteria</td><td></td><td></td><td>Acidobacteria Gp6</td></tr><tr><td>5</td><td>***</td><td></td><td></td><td></td><td></td><td></td><td>Actinobacteria</td><td>Actinomycetales</td><td>Micrococcaceae</td><td>Arthrobacter</td></tr><tr><td>231</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td>Actinobacteria</td><td>Solirubrobacterales</td><td>Unclassified</td><td></td></tr><tr><td>429</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td>Bacteroidetes</td><td>Sphingobacteriales</td><td>Sphingobacteriaceae</td><td>Sphingobacterium</td></tr><tr><td>503</td><td></td><td></td><td></td><td></td><td></td><td>*</td><td>Chloroflexi</td><td>Chloroflexales</td><td>Chloroflexaceae</td><td>Roseiflexus</td></tr><tr><td>23</td><td></td><td></td><td></td><td>***</td><td>*</td><td>***</td><td>Firmicures</td><td>Lactobacillales</td><td>Lactobacillaceae</td><td>Lactobacillus</td></tr><tr><td>61</td><td></td><td>*</td><td></td><td></td><td>*</td><td>***</td><td>Firmicures</td><td>Lactobacillales</td><td>Lactobacillaceae</td><td>Lactobacillus</td></tr><tr><td>436</td><td>?</td><td></td><td></td><td></td><td></td><td></td><td>Firmicures</td><td>Lactobacillales</td><td>Lactobacillaceae</td><td>Lactobacillus</td></tr><tr><td>179</td><td></td><td></td><td></td><td></td><td></td><td>*</td><td>Firmicutes</td><td>Lactobacillales</td><td>Leuconostocaceae</td><td>Leuconostoc</td></tr><tr><td>56</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Firmicutes</td><td>Bacillales</td><td>Bacilaceae</td><td>Bacillus</td></tr><tr><td>136</td><td>***</td><td></td><td></td><td>**</td><td></td><td>*</td><td>Firmicutes</td><td>Bacillales</td><td>Paenibacillaceae</td><td>Ammoniphilus</td></tr><tr><td>144</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Firmicutes</td><td>Bacillales</td><td>Paenibacillaceae</td><td>Rummeliibacillus</td></tr><tr><td>189</td><td></td><td></td><td></td><td></td><td></td><td>***</td><td>Firmicutes</td><td>Bacillales</td><td>Bacilaceae</td><td>Unclassified</td></tr><tr><td>366</td><td>***</td><td></td><td></td><td></td><td></td><td></td><td>Firmicutes</td><td>Bacillales</td><td>Sporolactobacillaceae</td><td>Sporolactobacillus</td></tr><tr><td>124</td><td></td><td></td><td></td><td></td><td></td><td>*</td><td>Firmicutes</td><td>Clostridiales</td><td>Clostridiaceae</td><td>Clostridium</td></tr><tr><td>215</td><td></td><td></td><td></td><td></td><td>*</td><td></td><td>Firmicutes</td><td>Selenomonadales</td><td>Veillonellaceae</td><td>Megasphaera</td></tr><tr><td>121</td><td></td><td></td><td></td><td></td><td></td><td>***</td><td>Gemmatimonadetes</td><td>Gemmatimonadales</td><td>Gemmatimonadaceae</td><td>Gemmatimonas</td></tr><tr><td>224</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td>Gemmatimonadetes</td><td>Gemmatimonadales</td><td>Gemmatimonadaceae</td><td>Gemmatimonas</td></tr><tr><td>34</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Burkholderiales</td><td>Comamonadaceae</td><td>Unclassified</td></tr><tr><td>40</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Burkholderiales</td><td>Burkholderiaceae</td><td>Burkholderia</td></tr><tr><td>74</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td>Proteobacteria</td><td>Burkholderiales</td><td>Oxalobacteraceae</td><td>Unclassified</td></tr><tr><td>88</td><td>*</td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Burkholderiales</td><td>Burkholderiaceae</td><td>Burkholderia</td></tr><tr><td>341</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Burkholderiales</td><td>Burkholderiaceae</td><td>Ralstonia</td></tr><tr><td>826</td><td></td><td></td><td></td><td></td><td></td><td>***</td><td>Proteobacteria</td><td>Burkholderiales</td><td>Unclassified</td><td></td></tr><tr><td>101</td><td></td><td></td><td></td><td></td><td></td><td>*</td><td>Proteobacteria</td><td>Enterobacteriales</td><td>Enterobacteriaceae</td><td>Unclassified</td></tr><tr><td>50</td><td></td><td>*</td><td></td><td></td><td>*</td><td></td><td>Proteobacteria</td><td>Myxococcales</td><td>Cystobacteraceae</td><td>Anaeromyxobacter</td></tr><tr><td>289</td><td>***</td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Myxococcales</td><td>Cystobacteraceae</td><td>Anaeromyxobacter</td></tr><tr><td>434</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Myxococcales</td><td>Cystobacteraceae</td><td>Anaeromyxobacter</td></tr><tr><td>317</td><td>?</td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Rhodospirillales</td><td>Acetobacteraceae</td><td>Acetobacter</td></tr><tr><td>641</td><td></td><td></td><td></td><td>***</td><td></td><td>***</td><td>Proteobacteria</td><td>Sphingomonadales</td><td>Sphingomonadaceae</td><td>Sphingomonas</td></tr><tr><td>131</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Unclassified</td><td></td><td></td></tr><tr><td>120</td><td></td><td></td><td></td><td></td><td></td><td>*</td><td>Proteobacteria</td><td>Xanthomonadales</td><td>Xanthomonadaceae</td><td>Dyella</td></tr><tr><td>373</td><td>**</td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Xanthomonadales</td><td>Xanthomonadaceae</td><td>Arenimonas</td></tr><tr><td>469</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Proteobacteria</td><td>Xanthomonadales</td><td>Sinobacteraceae</td><td>JTB255</td></tr><tr><td>333</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Thaumarchaeota</td><td>Nitrososphaerales</td><td>Nitrososphaeraceae</td><td>Nitrososphaera</td></tr><tr><td>172</td><td></td><td></td><td></td><td></td><td>*</td><td></td><td>Unclassified Unclassified</td><td></td><td></td><td></td></tr><tr><td>206 242</td></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on our field experiment,we expect to guide further efforts for mining specific members in the microbial community for sustainable biofuel production.A promising example for mining is our finding of the dominanceofarchaealNitrososphaeraandbacterial Nitrosospira as ammonia oxidizers instead of Nitrosomonas commonly found in soils and used as model for ammonia oxidizing bacteria. One of the practices to reduce $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions in sugarcane is the use of nitrification inhibitors.However,theavailable inhibitors are expensive and some are applied in high amounts (up to $5 \\%$ of the $\\mathrm { \\Delta N }$ is applied as nitrification inhibitor compounds) into soil (Soares et al.,2015).Furthermore, the available nitrification inhibitors were initially addressed to Nitrosomonas (Slangen & Kerkhoff,1984) and some of them have different effect on Nitrososphaera and Nitrosospira (Shen et al.,2013).Therefore,based on our results, the use and development of specific products for these taxa might be addressed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The genus Roseiflexus were present in all treatments, however，overrepresented in treatments with straw (Fig. 3a).Of the six Chloroflexi classes，Chloroflexia are able to perform photosynthesis (Gupta et al.， 2013). Despite the fact that mixotrophy metabolism have been reported for Roseiflexusspp.(Klatt et al.,2013),itis difficult to suggest that photosynthesis occurred below the straw layer due to the absence/low incidence of light. Until recently，no other morphological， physiological, biochemical，or molecular traits were known to be shared by different groups from phylum Chloroflexi (Gupta et al.，2013).Nevertheless，Dellas et al． (2013) have described, using Roseiflexus sp.as reference organism,that the members of class Chloroflexia present a singular mevalonate pathway. In other words, they present a singular pathway to synthesize the precursor of all isoprenoids,which are compounds of biotechnological interest for a broad range of industrial areas (Maury et al.,2oo5).Additionally, some results have shown that members of phylum Chloroflexi are promising cellulose degraders (Stott et al.,2oo9) and the utilization of plant polymers may be widespread across the Chloroflexi phylum (Hug et al.，2013). Many efforts have being addressed to obtain cellulasesbyscreeningand sequencing new organisms as they have potential to become the largest group of industrially used enzymes worldwide (Wilson,2009). These results highlight Roseiflexus as an important target for optimization of the C yield per harvested area from crops used for biofuel production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Large amounts of $\\mathrm { \\Delta N }$ are exported from the sugarcane crop as compared to the $_ \\mathrm { N }$ appliedas fertilizerin field, what makes this crop one of the most efficient crops for bioenergy.One of the explanations is that sugarcane benefits from $\\Nu _ { 2 }$ -fixing processes (Boddey et al.，2003; Urquiaga et al.,2012).Manybacterial isolatesand bacteria consortia have been used to test this hypothesis without consistent results(Boddey et al.,20o3;Martinez De Oliveira et al.,2006; Schultz et al.,2014).The reason might be that a great number of $\\Nu _ { 2 }$ -fixing organisms exist in the field,both in soils and in plants,non-endo phytic microorganisms contribute to N fixation (Fischer et al.,2012).Although nitrogenase activity has not yet been confirmed in Roseiflexus spp.strains,transcriptomicprofiles similar to Oscillochloris trichoides have shown that Roseiflexus spp. fix atmospheric N and this activity ismore intense during the night (Klatt et al.，2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Thus，deeper studies concerning soil living Roseiflexus spp.and their functional traits would contribute to betterunderstanding of N cycle in soils. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here,we showed that organic fertilization was the management practice that most affected the abundance of Firmicutes in soils (Fig.3d).As proposed by Sharmin et al. (2013), Firmicutes-type bacteria play a dominant role in the sugarcane industry due to their physiological ability to ferment sugars.Firmicutes,in particular lactic acids producers,are historically recognized as contaminants by the ethanol industry because their metabolites effectively inhibit yeast ethanol production (Muthaiyan et al.,2011).Thus,because most of the OTUs of Lactobacillus and Leuconostoc were not observed in treatments without vinasse application and Lactobacillus is the dominant taxa in vinasse (Assis Costa et al.,2015),vinasse residues might be the main source of these taxa to the soil (Fig. S6).As verified in thiswork and by Carmo et al. (2013),vinasse increases $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from sugarcane fields. The main reason might be because vinasse residues are rich in labile C and have high biological oxygen demand (BOD) values (Carmo et al.,2013;Christofoletti et al.,2013); thus,carbon and moisture are the key factors related with $\\mathrm { N } _ { 2 } \\mathrm { O }$ release.General fermenters and Lactobacillus are present in vinasse and when vinasse is applied to soil those microorganisms might be additional important factor for the $\\mathrm { N } _ { 2 } \\mathrm { O }$ balance.In accordance with Philippot et al. (2011)，we also propose that the increase in the proportion of these organisms in soils here studied might result in increases in $\\mathrm { N } _ { 2 } \\mathrm { O }$ release as truncated denitrification pathways are found in Lactobacillus spp. (Shapleigh,2013). Four of the taxa that explained $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil in our study were probably added to soil by vinasse organic fertilization. These taxa are from the genera Lactobacillus and Leuconostoc and were not detected in treatments without vinasse application (Fig. S6). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another important observation is that nitric oxide (NO)is a natural product from amino acids reduction during fermentation processes as well from amino acids oxidation (Medinetset al.,2015).NO can also be used as an electron acceptor by microorganisms such as the nondenitrifier Anaeromyxobacter spp.,which have the ability to reduce NO and $\\mathrm { N } _ { 2 } \\mathrm { O }$ (Sanford et al., 2012).Thus,the question arises of whether the proportion of nitrous oxide reducers can improve the $\\mathrm { N } _ { 2 } \\mathrm { O }$ balance.Nishizawa et al. (2014) showed that the inoculation into the soil of $\\Nu _ { 2 }$ -generating denitrifiers (Azoarcussp.，Niastella sp.and Burkholderia sp.）reduced the release of $\\mathrm { N } _ { 2 } \\mathrm { O }$ .Nevertheless，it is not adequate in fields with mineral fertilization because denitrifiers also tend to reduce the efficiency of the applied N. One promising approach is the overexpression of the nosZ gene by denitrifiers to improve the $\\mathrm { N } _ { 2 } \\mathrm { O }$ balance, for instance，when N is not dependent on artificially fixed sources (Itakura et al., 2013). In theory，microorganisms lacking genes related to $\\mathsf { N x O }$ generation (NO and $\\mathrm { N } _ { 2 } \\mathrm { O }$ ）or those with a greater affinity for $\\mathsf { N x O }$ than other $_ \\mathrm { N }$ species could also be applied to fertilized fields (Miyahara et al., 2010). Sanford et al. (2012) proposed that the proportion of nitrous oxide reducers would improve the $\\mathrm { N } _ { 2 } \\mathrm { O }$ balance between the soil and the atmosphere, with special attention paid to the nondenitrifier Anaeromixobacter spp. This genus was among the most abundant taxa identified in this study (OTUs50，-100,-133,-150,-236,-289，-434，-764，-1051，-1435, and -1593; Figs S5 and S7). Microorganisms that use trace gas as nutrient source or electron acceptors require efficient enzymatic systems because the concentration of these gases is very low (Conrad，1996). By consensus,the more specialized the function is，the more diversity is required as the rare (micro) organisms exert these functions as has been shown for methane consumption (Pester et al.，201o).Thus,it is not clear whether trace gas consumption is a specialized niche or whether diversity is not required to maintain active specialized niches. Because Anaeromyxobacter spp. can use sources other than $\\mathsf { N x O }$ as an electron acceptor (i.e., iron oxides;Hori et al.,2010),we assume that the reduction of trace gases is not a specialty of Anaeromyxobacter. According to the thermodynamic theory，oxygen>nitrogen>manganese>iron>sulfuroxides are reduced sequentially (Ponnamperuma，1972; Thauer et al.，1977).Therefore,in theorywhen $\\mathsf { N x O }$ are available in the environment, Anaeromyxobacter spp. tend to use these gases rather than other oxides. Thus, $\\mathsf { N x O }$ reduction does not represent the niche of these microorganisms and the reduction of $\\mathsf { N x O }$ does not require specialized microorganisms. OTUs classified as Anaeromyxobacter spp. were identified both by the global models and by the best fited models explaining $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil with straw and soil with mineral N fertilization (Table 1).To date, there are four strains ofAnaeromyxobacterspp. withavailablegenome sequences that are able to reduce NO and $N _ { 2 } O ;$ however, they do not possess the capacity to produce NO from $\\mathrm { N O } _ { 2 } ^ { - }$ (Sanford et al., 2012). Our findings linking this taxon to $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes reinforce the hypothesis that Anaeromyxobacter spp.are important contributors to $\\mathrm { N } _ { 2 } \\mathrm { O }$ consumption. However，in this present study, some OTUs of Anaeromyxobacter spp. were overrepresented,while others were underrepresented under the management practices that increase $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. These results indicate that the selection of groups related to $\\mathrm { N } _ { 2 } \\mathrm { O }$ balance at different taxonomical levels should be considered. For instance, our results suggest that different OTUs might share the same ability to performaspecific function,but theymightrespond differentlyunderconditionsof stress (i.e.,fertilizers). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Most OTUs identified in this study seem to be related to processes involved in $\\mathrm { N } _ { 2 } \\mathrm { O }$ release.For example,one OTUof Nitrososphaera significantly explained the fluxes of $\\mathrm { N } _ { 2 } \\mathrm { O }$ on the global model in straw management (Table 1，Fig.3b,Fig. S8). This archaeal genus iswell recognized as an ammonia oxidizer (Spang et al. 2010) with the capacity for $\\mathrm { N } _ { 2 } \\mathrm { O }$ production from ammonia oxidation (Jung et al.,2014; Stieglmeier et al.,2014). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jones et al. (2014) showed that $3 3 \\%$ of the nosZ gene (encoding nitrous oxide reductase) sequences in diverse environmental samples were most closely related to Gemmatinoma ssp.,while $1 8 \\%$ of all clones grouped with nosZ sequences were from phyla Bacteroidetes and Chloroflexi. These groups are members of the poorly characterized Clade II of the nitrous oxide-reducing microbial community (Jones et al.,2014),and they were represented in our fitted models explaining $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from sugarcane soil. However, due to their poor level of characterization and lack of experimental data tracing $\\mathrm { N } _ { 2 } \\mathrm { O }$ production or consumption such as for Anaeromyxobacter spp., it is not possible to support a causeeffect relationship between these taxa and $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes. It isalso not possible to infer if they might contribute to $\\mathrm { N } _ { 2 } \\mathrm { O }$ production or consumption. In contrast, the wellcharacterized denitrifying Proteobacteria were identified within the OTUs explaining $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes. For instance, strains of Burkholderia andDyella have been tested to reduce the amount of $\\mathrm { N } _ { 2 } \\mathrm { O }$ released into the atmosphere afterorganic fertilization (Nishizawa et al.,2014).However,they might increase the N losses from the soil to atmosphere through denitrification and consequently reduce synthetic fertilizer efficiency.The OTUclassified as Ammoniphilus sp. significantly explained $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes in all fitted models (Table 1).Despite the fact that this genus is known to require high concentrations of ammonium and use oxalates exclusively as a C source, to date no metabolic pathways that could result in $\\mathrm { N } _ { 2 } \\mathrm { O }$ have been described for members of this genus.The available Ammoniphilus sp. type strains are not able to reduce $\\mathrm { N O } _ { 3 } ^ { - }$ and are strictly aerobic (Zaitsev et al., 1998). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In an ideal context,a nitrogen fixer such as Azoarcus sp. that lacks the steps of denitrification prior to the production of $\\mathrm { N } _ { 2 } \\mathrm { O }$ (Krause et al.，2006) might be used to improve the $\\mathrm { \\Delta N }$ balance in bioenergy crops. Azoarcus strains have been tested for potential reduction of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from rice fields (Ishii et al.，2011;Nishizawa et al., 2014).For sugarcane,an analogous situation could arisewith members of the familyAcetobacteraceae.All of the known N-fixing organisms that are members of this family belong to the genera Acetobacter and Gluconacetobacter (Dutta & Gachhui,2oo6).The association between these two genera and sugarcane was reported by James et al. (1994). These organisms are of special interest for sugarcane crop as they have the ability to fix N in aerobic conditions like well-drained soils.Additionally，Acetobacter and Gluconacetobacter can use a broad range of organic sources,including alcohols present in thevinasse (James et al.,1994;Parnaudeau et al., 2008).In our study，OTUs (OTU-71 and OTU-317, Fig.3e） belonging to these two genera were strongly favored by vinasse organic fertilization and as showed by Assis Costa et al. (2015) they are also present in the ethanol production process.The same Acetobacter OTU favored by vinasse organic fertilization significantly explained $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil with straw by the global fitted model.Thus，AcetobacterandGluconacetobacter should be highlighted as the closest representatives to an ideal situation for the improvement of N-cycling in sugarcane，both by acting as N-fixing organisms and potential drivers of processes related to $\\mathrm { N } _ { 2 } \\mathrm { O }$ release. Furthermore,Acetobacterand Gluconacetobacter could be added to vinasse used as organic fertilizer in sugarcane fields,and thus,contributing to redefine vinasse from a source to a sink of $\\Nu _ { 2 }$ and $\\mathsf { N x O }$ 、However,it must be acknowledged that the survival of microrganisms inoculated in the soil system is a challenge. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,this is the first study relating specific microbial taxa to the respective functional response $\\left( \\mathrm { N } _ { 2 } \\mathrm { O } \\right.$ release) along the time and under different management practices in tropical soil.Here,we show that the limitation of linking microbial taxa with functional traits is particularly challenging because the microbial responses are at different taxonomical levels such as at OTU and genus levels,as observed for Anaeromyxobacter andRoseiflexus,respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The effects of fertilization and straw on $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions have been previously reported (Carmo et al., 2013)，however,not taken into account the microbial community.Besides the common Proteobacteria model organisms for denitrification， we have found taxa recently described as potential drivers of $\\mathrm { N } _ { 2 } \\mathrm { O }$ production and consumption (Jones et al.,2013)．Additionally we have identified taxa with potential biotechnological properties that might improve the sustainability of bioethanol by increasing C yields and improving N efficiency in sugarcane fields. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank ACVitti,AM Yasuda,KSLourenco,L Martinelli for technical assistance and W van der Werf,L Hemerik for data analyses instructions.This study was supported by grants from CAPES/NUFFIC (037/2012; BEX 0258/13-0); SaoPaulo Research Foundation-FAPESP (2012/50694-6) and Joint Research Projects in Biobased Economy (FAPESP/NWO 13/ 50365-5);The National Council of Technological and Scientific ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Development (CNPq) (471886/2012-2).Publication 5868 of the Netherlands Institute of Ecology (NIOO-KNAW). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Allen DE,Kingston G,Rennenberg H,Dalal RC,Schmidt S(2010)Effectof nitrogen fertilizer management and waterlogging on nitrous oxide emission from subtropical sugarcane soils. Agriculture Ecosystems $\\mathcal { E }$ Enuironment,136,29-17.   \nAnders S,Huber W (2010) Diferential expression analysis for sequence count data. Genome Biology,1,6.   \nAssis Costa OY,Souto BM,Tupinamba DDet al. (2015)Microbial diversityin sugarcane ethanol production in a Brazilian distillery using a culture-independent method.JournalofIndustrial Microbiology& Biotechnology,42,73-84.   \nBarton K (2014) MuMIn: Multi-model inference.[Computer software manuall.Availableat: http://cran.rproject.org/web/packages/MuMIn/MuMIn.pdf (accessed 04 February 2014).   \nBates D,Maechler M,Bolker B,Walker S (2014) lme4: Linear mixed-effects models using Eigen and S4. [Computer software manual].Available at: http://cran.rproject.org/web/packages/lme4/Ime4.pdf (accessed 03 February 2014).   \nBoddey RM,Urquiaga S,Alves BJR,Reis V (2003) Endophytic nitrogen fixation in sugarcane: present knowledge and future applications.Plant and Soil, 252, 139- 149.   \nBolker BM,Brooks ME,Clark CJ,Geange SW,Poulsen JR, Stevens MHH,White J-SS (2009)Generalized linear mixed models:a practical guide for ecologyand evolution.Trends in Ecology& Evolution,24,127-135.   \nBouwman AF, Beusen AHW,Griffioen J et al. (2013) Global trends and uncertainties in terrestrial denitrification and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. Philisophical Transactions of the Royal Societyofondon,Blogical iences,86,01.   \nCaporaso JG,Lauber CL,Walters WA et al.(2010) Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample.Procedings of the NationalAcademy ofSciences of theUnited States ofAmerica,108,4516-4522.   \nCarmo JB,Filoso S, Zotelli LC et al. (2013) Infield greenhouse gas emissions from sugarcane soilsin Brazil:effects from synthetic and organic fertilizer application and crop trash accumulation.Global Change Biology Bioenergy，5, 267-280.   \nChristofoletti CA,Escher JP,Correia JE,Urbano Marinho JF,Fontanetti CS (2013) Sugarcane vinasse: environmental implications of its use.Waste Management, 33, 2752-2761.   \nConab (2013)Acompanhamento da Safra Brasileira:Cana-de-acuicar，safra 2013/2014. Companhia Nacional de Abastecimento, Brasilia, $^ { 1 9 } \\mathrm { P }$ ，   \nConrad R (1996) Soil microorganisms as controllers of atmospheric trace gases $( \\mathrm { H } _ { 2 } ,$ （204 CO, $\\mathrm { C H } _ { 4 } ,$ OCS, $\\mathrm { N } _ { 2 } \\mathrm { O } ,$ and NO). Microbiological Reviews,60, 609-640.   \nCritchfield HJ (1960) General climatology.Prentice-Hall, Englewood Cliffs.465 p.   \nDellas N,Thomas ST,Manning G,Noel JP (2O13) Discovery of a metabolic alternative to the classical mevalonate pathway.eLife,2, e0067.   \nDuta D,Gachhui R (2Oo6) Novel nitrogen-fixing Acetobacter nitrogenifigens sp nov., isolated from Kombucha tea.International Journal of Systematic and Euolutionary Microbiology, 56,1899-1903.   \nEdgar RC,Haas BJ, Clemente JC,Quince C,Knight R (2011) UCHIME improves sensitivityand speedof chimera detection.Bioinformatics,27,94-2200.   \nFAO (2006)World Reference Base for Soil Resources,2006:AFramework for International Classification,Correlation and Communication. Food and Agriculture Organization of the United Nations, Rome.   \nFischer D,Pfitzner B,Schmid Met al.(2012) Molecular characterisation of the diazotrophic bacterial community in uninoculated and inoculated field-grown sugarcane (Saccharum sp.).Plant and Soil,356,83-99.   \nGalloway JN, Dentener FJ,Capone DG et al.(2004) Nitrogen cycles:past,present and future.ogeochemistry,0,.   \nGupta RS,Chander P,George S (2013) Phylogenetic framework and molecular signatures for the class Chloroflexi and its different clades; proposal for division of the class Chloroflexi class. nov into the suborder Chloroflexineae subord.nov., consisting of the emended family Oscillchloridaceae and the family Chloroflexaceae fam.nov.,and the suborder Roseiflexineae subord.nov., containing the family Roseiflexaceae fam.nov.Antonie VanLeeuwenhoek International Journal of General and Molecular Microbiology,103,99-119.   \nHayatsu M, Tago K,Saito M(2oo8) Various players in the nitrogen cycle: diversity and functions of the microorganisms involved in nitrification and denitrification. Soil ScienceandPlantNutrition,54,3-45.   \nHesselsoe M,Fuereder S,Schloter Met al. (2009)Isotope array analysisof Rhodocyclales uncovers functional redundancy and versatility in an activated sludge. ISME Journal,3,49-364. reducing microorganisms in anoxic rice paddy soil by C-13-acetate probing. ISME Journal, 4, 267-278.   \nHug LA, Castelle CJ,Wrighton KC et al. (2013) Community genomic analyses con strain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling.Microbiome,1,22-22.   \nHuse SM,Welch DM,Morrison HG, Sogin ML (2010) Ironing out the wrinkles in the rare biosphere through improved OTU clustering. Environmental Microbiology,12, 1889-1898.   \nIshii S, Ohno H, Tsuboi M, Otsuka S, Senoo K (2011) Identification and isolation of active $\\mathrm { N } _ { 2 } \\mathrm { O }$ reducers in rice paddysoil.ISME Journal,5,1936-1945.   \nItakura M, Uchida Y,Akiyama Het al. (2013)Mitigationof nitrous oxide emssions from soils by Bradyrhizobium japonicum inoculation.Nature Climate Change,3,208- 212.   \nJames EK,Reis VM,Olivares FL,Baldani JI, DobereinerJ(1994) Infectionof sugarcane by the nitrogen-fixing bacterium Acetobacter diazotrophicus.Journal of Experimental Botany,45,757-766.   \nJones CM,Graf DRH, Bru D,Philippot L,Hallin S (2013) The unaccounted yet abundant nitrous oxide-reducing microbial community: a potential nitrous oxide sink. ISME Journal,7,417-426.   \nJones CM, SporA, BrennanFP et al.(2014) Recently identified microbial guild mediates soil N2O sink capacity. Nature Climate Change,4,801-805.   \nJung M-Y,Well R,Min D et al.(2014) Isotopic signatures of N2O produced by mmonia-oxidizing archaea from soils.ISME Journal,8,1115-1125.   \nKamphake LJ,Hannah SA,Cohen JM (1967)Automated analysis for nitrate by hydrazine reduction. Water Research,1,205-216.   \nKao MCJ, Gesmann M, Gheri F (2014) FAOSTAT: A complementary package to the FAOSTAT database and the Statistical Yearbook of the Food and Agricultural Organization of the United Nations [Computer software manual].Available at: http://cran.r-project.org/web/packages/FAOSTAT/index.html(accessed02 June 2014).   \nKhalil K, Mary B,Renault P (2oo4) Nitrous oxide production by nitrification and denitrification in soil aggregates as affected by O-2 concentration. Soil Biology $\\boldsymbol { \\mathscr { E } }$ Biochemistry,36,687-699.   \nKlatt CG, Liu ZF,Ludwig M, Kuhl M,Jensen SI, BryantDA,WardDM(203) TemporalmetatranscriptomicpateringinphototrophicChloroflexiihabitinga microbial mat in a geothermal spring.ISME Journal,7,1775-1789.   \nKrause A, Ramakumar A, Bartels D et al. (2006) Complete genome of the mutualistic,N-2-fixing grass endophyte Azoarcus sp strain BH72.Nature Biotechnology,24, 1385-1391.   \nKrom MD (1980 Spectrophotometric determination of ammonia -a study of a modified Berthelot reaction using salicylate and dichloroisocyanurate. Analyst,105, 305-316.   \nLove MI, Huber W,Anders S (2014) Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2.Genome Biology,15,550.   \nMacedo IC, Seabra JEA, Silva JEAR (2oo8) Green house gases emissions in the production and use of ethanol from sugarcane in Brazil: the 20o5/2006 averages and a prediction for 2020.Biomass and Bioenergy,32,582-595.   \nMariete J,Escudie F,Allias N,Salin G,Noirot C,Thomas S,KloppC (2012) NG6: integrated next generation sequencing storage and processing environment. BMC Genomics, 13, 462.   \nMartinez De Oliveira AL,Canuto EDL, Urquiaga S,Reis VM, Baldani JI (2006) Yield of micropropagated sugarcane varieties in different soil types following inoculationwith diazotrophic bacteria.Plant and Soil,284,23-32   \nMaury J, Asadollahi MA,Moller K,Clark A, Nielsen J (2005) Microbial isoprenoid production: an example of green chemistry through metabolic engineering. BiotechnologyfortheFuture,o,19-51.   \nMcDonald D, Clemente J,Kuczynski J et al.(2012) The Biological Observation Matrix (BIOM) format or: how I learned to stop worying and love the ome-ome. GigaScience,1,7.   \nMcMurdie PJ, Holmes S(2013)phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data.PLoS ONE,8,e61217.   \nMedinets S,Skiba U,Rennenberg H, Butterbach-Bahl K (2015)A review of soil NO transformation: associated processes and possible physiological significance on organisms. Soil Biology and Biochemistry,80,92-117.   \nMiyahara M,Kim S-W,Fushinobu S et al.(2010) Potential of aerobic denitrification byPseudomonas stutzeri TR2 to reduce nitrous oxide emissions from wastewater treatment plants.Appliedand Environmental Microbiology,76,4619-4625.   \nMuthaiyan A,Limayem A,Ricke SC (2011) Antimicrobial strategies for limiting bacterialcontaminants in fuel bioethanol fermentations.Progress in Energyand Comhustion Science. 37.351-370. cane Bioethanol-R&D for Productivityand Sustainability (ed.Cortez LAB),pp.423- 440. Editora Edgard Bluicher, Sao Paulo.   \nNishizawa T,QuanA,Kai A etal. (2O14) Inoculation with N-2-generating denitrifier strains mitigates N2O emisson from agricultural soil fertilized with poultry manure. Biology and Fertility ofSoils,50,1001-1007.   \nParnaudeau V, Condom N,Oliver R, CazevieilleP,Recous S(20o8)Vinasseorganic matter quality and mineralization potential, as influenced by raw material, fermentation and concentration processes.Bioresource Technology, 99,1553-1562.   \nPester M,BitnerN, DeevongP,Wagner M,LoyA(2Oo)A'rare biosphere'microorganism contributes to sulfate reduction in a peatland.ISME Journal,4,1591 1602.   \nPhilippotL,HallnSoteroloofenitrifnprokarotesi cultural soil. Aduances inAgronomy,96,249-305.   \nPhilippot L,Andert J,Jones CM,BruD,HalinS(2011)Importanceof denitrifiers lacking the genes encoding the nitrous oxide reductase for N2O emissons from soil. Global ChangeBiology,17,1497-1504.   \nPonnamperuma FN (1972) The Chemistry of Submerged Soils.Aduances in Agronomy,24,29–96.   \nQuast C,Pruesse E, Yilmaz Pet al. (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Research,41, 590-596.   \nQuince C,Lanzen A, Davenport RJ,Turnbaugh PJ (2011)Removing noise from pyrosequenced amplicons. BMC Bioinformatics,12,38.   \nSanford RA,Wagner DD,Wu Q et al. (2012) Unexpected nondenitrifier nitrous oxide reductase gene diversityand abundance in soils.Proceedings of the National AcadmyofSciencesoftheUnitedStatesofAmerica,109,9709-19714.   \nSchloss PD,Westcott SL,Ryabin T et al.(2009) Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities.Appliedand Environmental Microbiology,75,7537- 7541.   \nSchultzN,JA Silva,Sousa JS etal.(2014)Inoculationof sugarcane with diazotrophic bacteria.Revista Brasileira De Ciencia Do Solo,38,407-414.   \nShapleigh J (2013) Denitrifying Prokaryotes.In: The Prokaryotes (eds Rosenberg E, Delong E,Lory S,Stackebrandt E,Thompson F),pp.405-425.Springer, Berlin Heidelberg.   \nSharmin F,Wakelin S,Huygens F,Hargreaves M (2013) Firmicutes dominate the bacterial taxawithinsugar-cane processingplants.SientificReports,3,107.   \nShen T,StieglmeierM,DaiJ, Urich T,Schleper C(2O13)Responsesof theterrsial ammonia-oxidizing archaeon Ca. Nitrososphaera viennensis and the ammoniaoxidizig bacterium Nitrosospira multiformis to nitrification inhibitors.FEMS MicrobiologyLeters349.   \nSheneman $\\scriptstyle { \\mathrm { ~ L , } }$ Evans J,Foster JA (2o06) Clearcut: a fast implementation of relaxed neighbor joining.Bioinformatics,22,2823-2824.   \nSlangen JHG,KerkhoffP(1984) Nitrification inhibitors in agriculture and horticulture: a literature review.Fertilizer Research,5,1-76.   \nSoares JR,Cantarella H,Vargas VP,Carmo JB,MartinsAA,Sousa RM,Andrade CA (2015）Enhanced-efficiency fertilizersinnitrous oxide emissions fromurea appliedtosugarcane.JournalofEnoironmental Quality,44,423-430.   \nSpang A,Hatzenpichler R, Brochier-Armanet Cet al. (2010) Distinct gene set in two different lineages of ammonia-oxidizing archaea supports thephylum Thaumarchaeota.Tends inicrobiology,18,140.   \nStieglmeier M,Mooshammer M,Kitzler B,Wanek W,Zechmeister-Boltenstern S, Richter A, Schleper $\\mathsf { C }$ (2014)Aerobic nitrous oxide production through N-nitrosating hybrid formation in ammonia-oxidizing archaea.ISME Journal,8,1135- 1146.   \nStott MB,DunfieldPF,Crowe MA (09)ClassofChloroflexi-like thermophiliccellulose degrading bacteria. Google Patents No. CA, 2716728,A1.   \nThauer RK, Jungermann K,Decker K(1977） Energy-conservation inchemotropic anaerobic bacteria.Bacteriological Reviews,41,100-180.   \nToyoda S,Yano M,Nishimura S-I et al.(2011) Characterization and production and consumption processes of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emitted from temperate agricultural soils determined via isotopomer ratio analysis.Global Biogeochemical Cycles，25, GB2008.   \nUrquiaga S,Xavier RP,De Morais RF et al.(2012)Evidence from field nitrogen balance and N-15 natural abundance data for the contribution of biological N-2 fixation to Brazilian sugarcane varieties.Plant and Soil,356,5-21.   \nVandekerckhove TTM,Willems A, Gillis M, Coomans A (20o0) Occurrence of novel verrucomicrobial species,endosymbiotic and associated with parthenogenesis in Xiphinema americanum-group species (Nematoda,Longidoridae). International JournalofSystematicandEuolutionaryicrobiology,50,2197-2205.   \nVarner RK,Keller M,Robertson JR et al. (20o3) Experimentally induced root mortality increased nitrous oxide emission from tropical forest soils. Geophysical Research Letters, 30,1144.   \nWang $\\mathrm { Q } ,$ Garrity GM, Tiedje JM, Cole JR (2007) Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy.Applied and Environmental Microbiology,73,5261-5267.   \nWilson DB (2009) Cellulases and biofuels. Current Opinion in Biotechnology,20, 295- 299.   \nZaitsev GM,Tsitko IV,Rainey FA,Trotsenko YA,Uotila JS, Stackebrandt E, Salkinoja-Salonen MS (1998) New aerobic ammonium-dependent obligately oxalotrophic bacteria: description of Ammoniphilus oxalaticus gen. nov., sp. nov.and Ammoniphilus oxalivorans gen.nov., sp.nov.International Journal of Systematic Bacteriology,48,151-163.   \nZhu X,Burger M,Doane TA,Horwath WR (2013) Ammonia oxidation pathways and nitrifier denitrification are significant sources of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and NO under low oxygenavailability.Proceedingsof the National Academy of Sciences of the United States of America,110,6328–6333.   \nZumft WG (1997) Cell biology and molecular basis of denitrification.Microbiology andMolecularBiologyReviews,61,533-616. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": ".dditional Supporting Information may be found in the online version of this article ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table S1. Soil physicochemical characteristics of the experimental site.   \nTable S2.Chemical composition of the normal vinasse and concentrated vinasse applied as potassium source in soil.   \nTable S3.Parameter estimation for fixed effects on global and best models fitted to explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil considering physic-chemical parameters and management practices.   \nFig S1 Box-plot representation of ammonium concentration in soil after fertilization.   \nFig S2 Box-plot representation of nitrate concentration in soil after its fertilization.   \nFig S3 Cumulative $( \\% )$ nitrous oxide emissions from soil under different treatments.   \nFig S4 Relative abundance of Nitrosospira sp.   \nFigS5Interceptof thenegativebinomialgeneralizedlinearmodelfitedtoverifytheeffectoftreatmentsonabundanceofOTUs.   \nFig S6 Relative abundance of Firmicutes OTUs that significantly explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes.   \nFig S7 Relative abundance of Proteobacteria OTUs that significantly explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes.   \nFigS8RelativeabundanceofOTUs belongedtoother phyla than Firmicutesand Proteobacteria that significantly explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes.   \nFile S1. Global, nested and best models fitted with microbial taxa to explain $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from soil. ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,287 @@
+# 云数据中心基于遗传算法的虚拟机迁移模型
+
+刘开南
+
+(三亚学院 信息与智能工程学院，海南 三亚 572022)
+
+摘要：提出了一个云数据中心中基于遗传算法的虚拟机迁移模型GA-VMM(genetic algorithm based virtual machinemigration)。GA-VMM在虚拟机迁移的时刻考虑的问题维度优于常见的策略，使虚拟机的分配与迁移更加合理与公平。建立了云端能量消耗与在线虚拟机迁移时间消耗数学模型，通过全局遗传算法来优化虚拟机迁移和放置策略。利用某个企业的大数据中心作为云端测试环境，对比测试GA-VMM迁移模型与已有的虚拟机迁移策略的性能。测试结果表明，GA-VMM 迁移模型能够更好地减少物理主机的使用数量和虚拟机的迁移次数，SLA(service levelagreement violation)违规基本处于稳定状态；GA-VMM可以降低数据中心能耗，性能优于已有的迁移策略。
+
+关键词：低能量消耗；SLA违规；虚拟机迁移；云数据中心；遗传算法中图分类号：TP393.093 doi:10.19734/j.issn.1001-3695.2018.10.0744
+
+Genetic algorithm based virtual machine migration model in cloud data centers
+
+Liu Kainan (SchoolofInformation & Intelligent Engineering,San Ya University,Sanya Hainan 572o22,China)
+
+Abstract:This paper proposed and discussda Genetic Algorithm based Virtual Machine Migration model incloud data centers called GA-VMM.This paper took into account several important parameters to frame theobjective function for the virtual machine migration which overwelmed the oldstratgiesand thus it made the virtual machine migration more reasonableand fair.Itconstructed the mathematics modelof powerconsumptionand live migrationcostofvirtualmachine in GA-VMM.It designed a global optimization genetic algorithm for how virtual machine migrated and placed. Using a corporation cloud data centers servers,this paper did some simulation experiments.The experimentalresults show that GA-VMM can efectively reduce the number of physical machine usages and virtual machines migrations compared with the common strategy.This paper also obtained the fewer SLA violation and low energy consumptionofdata centers in the test.
+
+Key words: low energy consumption; SLA violation; virtual machine migration; cloud data centers; genetic algorithm
+
+# 0 引言
+
+近年来各类大型IT企业都已经逐步建立了自己的基于云的大数据中心，其消耗的能量也与日俱增，政府与企业都在开始研究云数据中心的低能耗问题，倡导低碳环保生活与绿色云计算[1\~3]。
+
+云数据中心的虚拟机迁移策略是目前提高云端物理资源利用效率和降低能量消耗的主要技术。虚拟化允许用户对云资源的访问是透明与简单方便的，它通过虚拟机(virtualmachines，VM)的形式将应用程序封装起来，通过虚拟机分配策略将其分配到具体的数据中心的物理节点之中执行[4\~7]。所以虚拟机分配与迁移等策略很大程度上影响了云平台的整体性能，近5\~8年前大量的文献把虚拟机迁移策略的性能指标关注在SLA违规比率、服务质量QoS、系统能量消耗、虚拟机迁移次数等方面[8]。这些只是单纯的虚拟机迁移策略,其中考虑问题的维度只有物理节点的处理器主频或使用率等比较单一。
+
+最近1\~4 年很多研究者开始采用贪心算法[9,10]、遗传算法[11]、萤火虫群算法[12]、模拟退火算法、蛙跳算法、蚁群算法等来优化虚拟机迁移策略,考虑问题的维度也从单一的硬件信息提高到硬件、软件、网络带宽等[13]。其中文献[14]指出遗传算法通过种群的交叉操作、变异操作和修正操作在虚拟机分配与放置方面有明显的优势。
+
+根据上述分析，本文也提出了一个云数据中基于遗传算法的虚拟机迁移模型 GA-VMM(genetic algorithm basedvirtualmachine migration)。GA-VMM着重考虑云计算中虚拟机迁移中的三个关键点：能量消耗数学模型、在线虚拟机迁移时间消耗数学模型、SLA 违规(SLA Violation)数学模型。考虑SLA违规这个因素，使得本文的GA-VMM虚拟机迁移模型能够保证能量消耗与QoS之间的平衡。GA-VMM在虚拟机迁移过程中对上述三个模型的描述中，考虑的因素从硬件到软件，包括了CPU使用率、内存大小、网络带宽及网络设备和接口的能量消耗等多个维度，使得虚拟机的分配与迁移更加公平和合理。最后GA-VMM通过全局遗传算法来优化虚拟机迁移和放置策略，保证物理服务器的负载均衡。
+
+# 1 相关工作
+
+目前学术界利用云端的虚拟机动态迁移的手段来节省云端的能量消耗,进行了大量的研究。主要分为两大类：第一类是单纯的虚拟机迁移策略,没有利用相关智能算法进行优化;第二类是采用贪心算法等来进行优化的虚拟机分配与迁移策略。
+
+例如第一类相关研究，文献[15]分析了虚拟机迁移及其相关的动态虚拟机合并问题，提出了自适应的基于数据历史分析的启发式算法来保证低能量的消耗，它的实验结果显示局部规约算法LocalRegressionAlgorithm和最近时间迁移LeastTimeMigration方法性能优于其他的常见方法。文献[16]提出了能量相关的云计算的体系结构和方法，在此体系结构之上，对资源的选择与分配要么考虑低能量消耗，要么考虑高服务质量要求，它的主要思想是基于虚拟机的动态合并。它利用CloudSim[17来模拟与评测算法的性能，结果显示针对静态的资源分配方法比较起来，它可以很好地降低云数据中心的能量消耗。文献[18]提出了云数据中心的绿色计算的思路和减少碳泄露(carbonemission)的方法。它提出的方法都可以支持低能量消耗和减少碳泄露。实验结果显示它可以减少 $23 \%$ 的能量消耗和 $2 5 \%$ 的碳泄露，它节省的能量消耗比较少。文献[19]提出了虚拟机迁移中一个自适应的低能量消耗方法，使用模糊推理引擎来决定虚拟机的分配与放置，实验结果显示针对普通的能量管理算法，它可以减少 $1 8 \%$ 的能量消耗。文献[20]提出了云数据中心中的虚拟机迁移策略，它使用动态的方式使其满足客户端的各种SLA应用程序需求，实验结果显示该策略可以保证 $60 \%$ 的物理服务器中的SLA违规可以忽略不计，在一定程度上可以保证云数据中心的QoS服务质量。文献[21]在Beloglazov 研究的基础上提出SLA违规算法，引入最小能量最大利用率策略，进一步优化虚拟机配置方法;
+
+对于第二类研究，例如文献[22]从CPU维度对虚拟机的动态配置问题进行建模，并利用改进的蛙跳算法进行求解。文献[23,24]提出了云计算中的基于贪心算法的任务调度及改进，把改进任务竞争时间和改进任务执行代价作为主要因素。实验结果表明贪心算法在串行调度算法的基础上可以改进任务调度的性能，但是它们并没有将贪心算法使用到物理资源使用和低能量消耗相关的算法之中。文献[25,26]和文献[14]都提出了遗传算法优化的云数据中心虚拟机迁移策略，相关实验数据表明其性能要优于贪心算法和无智能优化算法等。
+
+上述这些方法的主要目的是应用虚拟机动态迁移技术实现云端服务的负载均衡、容错、优化服务器的电力能量管理等,最终是为了改善云端的服务质量QoS,减少SLA违规，它们考虑的物理资源使用情况的维度由早期的单一CPU利用率到现在的多个维度的指标。
+
+GA-VMM也是针对云端的多种应用服务请求处于动态变化情形下，提出的一种云端的虚拟机动态迁移模型，它通过考虑CPU使用率、内存大小、网络带宽、网络设备的接口消耗等多重因素来迁移虚拟机，采用遗传算法的目标优化作为虚拟机的主要迁移策略；最后运用实验将GA-VMM与常见优化算法进行对比分析。实验结果表明GA-VMM比常见的MADLVF[27]、Buyya[28]、Melliti[29]虚拟机迁移模型要优秀，能够实现低能量消耗和减少SLA违规,保证IT云数据中心的QoS。
+
+# 2 GA-VMM虚拟机迁移模型描述
+
+# 2.1服务器能量消耗模型
+
+研究表明云数据中心端的物理服务器的能量消耗值主要和其CPU在某一时刻的使用率密切相关，而且基本呈线性关系。因此考虑GA-VMM模型中物理服务器的能量消耗可以通过这些机器的CPU使用率来表示，如式(1)所示。
+
+$$
+S _ { i } ( w ) = \lambda _ { i } * S _ { i } ^ { \mathrm { { \ m a x } } } + ( 1 - \lambda _ { i } ) ^ { * } S _ { i } ^ { \mathrm { { \ m a x } } } * w _ { i }
+$$
+
+其中： $S _ { i } ( w )$ 是物理服务器 $i$ 的总体的能量消耗；常量 $\lambda _ { i }$ 表示当物理服务器 $i$ 在空闲或者高负荷的时候的比率； $S _ { i } ^ { \mathrm { { \ m a x } } }$ 表示服
+
+务器在被充分利用的时候的最大能量消耗； $\boldsymbol { w } _ { i }$ 表示物理服务器的CPU使用率。物理服务器 $i$ 在 $t _ { 1 }$ 与 $t _ { n }$ 之间的时间段的总体能量消耗可以记为 $E C _ { i }$ ，那么有
+
+$$
+E C _ { i } = \sum _ { t _ { 1 } } ^ { t _ { n } } S ( w _ { i } ( t _ { j } ) )
+$$
+
+其中： $w _ { i } ( t _ { j } )$ 是服务器 $i$ 在 $t _ { j }$ 时刻的CPU使用率； $S ( w _ { i } ( t _ { j } ) )$ 是服务器 $i$ 在在 $t _ { j }$ 时刻的能量消耗。
+
+还有相关文献表明，网络装置的能量消耗主要和网络设备本身的消耗及其相关的配置消耗相关。本文可以把网络装置认定为物理服务器，所以物理服务器的能量消耗可以按照式(3)来表示。
+
+$$
+S ( C ) = G ( C ) + B ^ { * } Y
+$$
+
+其中： $S ( C )$ 表示网络装置的能量消耗； $c$ 是网络装置的配置参数； $G ( C )$ 是网络装置的线路与接口的总体的能量消耗； $B$ 表示网络接口的能量消耗； $Y$ 表示网络接口的数目。
+
+综上所述，一个云数据中心的能量消耗可以定义为
+
+$$
+E C = \sum _ { 1 } ^ { N } E C _ { i } + \sum _ { t _ { 1 } } ^ { t _ { n } } S ( C )
+$$
+
+根据式(2)，可以得到
+
+$$
+E C = \sum _ { 1 } ^ { N } \sum _ { t _ { 1 } } ^ { t _ { n } } S ( w _ { i } ( t _ { j } ) ) + \sum _ { t _ { 1 } } ^ { t _ { n } } S ( C )
+$$
+
+其中： $N$ 是物理服务器的数量。能量消耗的数学模型考虑的问题维度已经到了硬件与网络设备。
+
+# 2.2在线虚拟机迁移时间消耗模型
+
+虚拟机的在线迁移将导致应用程序在预复制阶段的性能快速降低，并且在文件复制阶段的下载时间也将性能降低，所以虚拟机的在线迁移时间可以通过式(6)进行计算。
+
+$$
+t _ { \nu _ { i } } = { \frac { M _ { \nu _ { i } } } { B _ { \nu _ { i } } } }
+$$
+
+并且应用程序的性能降低可以通过式(7)来表示。
+
+$$
+S _ { V _ { i } } = \alpha * \sum _ { t _ { 0 } } ^ { t _ { 0 } + t _ { V _ { i } } } W _ { V _ { i } } + \beta ^ { * } M _ { V _ { i } } ^ { \prime } + \gamma ^ { * } B _ { V _ { i } }
+$$
+
+其中： $t _ { v _ { i } }$ 表示虚拟机在线迁移时间； $\boldsymbol { M } _ { \nu _ { i } }$ 表示了虚拟机的内存大小； $B _ { \nu _ { i } }$ 表示网络带宽； $S _ { v _ { i } }$ 表示了物理服务器性能降低情况。$t _ { 0 }$ 表示开始迁移的时间； $\boldsymbol { W } _ { \nu _ { i } }$ 表示CPU的使用率； $\alpha$ 、 $\beta$ 、 $\gamma$ 都是应用程序由于CPU的使用情况、内存占用、网络带宽占用而导致性能降低的参数。最后 $\boldsymbol { M } _ { \nu _ { i } } ^ { \prime }$ 表示虚拟机在线迁移的内存占用情况，性能评价指标 $S _ { \nu _ { i } }$ 已经考虑到了系统的多个维度，在虚拟机迁移的时候更加公平。
+
+# 2.3 SLA违规模型
+
+云计算中，服务质量QoS必须保证,QoS的衡量标准主要通过SLAviolation (service level agreement)来体现，SLA违规往往通过最小的吞吐量或者最大响应时间来表示。但是在云计算中针对不同的应用，表示方法也不完全一致,为了研究的需要，本文通过式(8)来表示SLA违规。
+
+$$
+S L A _ { \nu i o l a t i o n } = M _ { S l a V i o l a t i o n } / M _ { T o t a l }
+$$
+
+SLA违规值的百分比将表明在客户有服务请求的时候，CPU并没有分配资源的比例。因此,为了云客户端增加QoS,本文的首要目标是减少SLA违规的值。 $M _ { s l a V i o l a t i o n }$ 表示出现了SLA违规的物理服务器的数量， $M _ { T o t a l }$ 表示了物理服务器的总体数量。
+
+# 3 GA-VMM虚拟机迁移算法
+
+# 3.1服务器的负载状态
+
+第i个物理服务器的状态可以通过式(9)来描述：
+
+$$
+\{ \begin{array} { l l } { S _ { i } ^ { \it o } = 1 \vert S _ { i } ^ { \it f } = S _ { i } ^ { \it l } = 0 , W _ { i } > x } \\ { S _ { i } ^ { \it f } = 1 \vert S _ { i } ^ { \it o } = S _ { i } ^ { \it l } = 0 , y \leq W _ { i } \leq x \} } \\ { S _ { i } ^ { \it l } = 1 \vert S _ { i } ^ { \it o } = S _ { i } ^ { \it f } = 0 , W _ { i } > y } \end{array} 
+$$
+
+其中： $S _ { i } { } ^ { o }$ 、 $S _ { i } { } ^ { f }$ 、 $S _ { i } ^ { \phantom { \dagger } l }$ 分别表示第第 $i$ 个物理服务器是否为超负载工作状态、满负载工作状态、低负载状态，所以这里$S _ { i } { } ^ { o } + S _ { i } { } ^ { f } + S _ { i } { } ^ { l } = 1$ ； $W _ { i }$ 表示了服务器的CPU使用效率； $x , y$ 等分别表示CPU的使用效率为超负载状态的阈值边界。
+
+# 3.2 虚拟机迁移模型
+
+虚拟机迁移模型的目标函数为
+
+$$
+G _ { 1 } = \operatorname* { m i n } \sum _ { i = 1 } ^ { n } ( S _ { i } ^ { \textit { o } } + S _ { i } ^ { \textit { l } } )
+$$
+
+$$
+G _ { 2 } = \operatorname* { m i n } \sum _ { i = 1 } ^ { m } S _ { V _ { i } }
+$$
+
+$$
+G _ { 3 } = \operatorname* { m i n } \sum _ { i = 1 } ^ { n } E C _ { i }
+$$
+
+虚拟机迁移模型的约束条件为
+
+$$
+\left\{ \begin{array} { l l } { \sum _ { j = 1 } ^ { m } V _ { j } ^ { c p u \mathrm { \ : * } } S _ { i , j } < D _ { i } ^ { c p u } } \\ { \sum _ { j = 1 } ^ { m } V _ { j } ^ { m e m \mathrm { \ : * } } S _ { i , j } < D _ { i } ^ { m e m } } \\ { \sum _ { j = 1 } ^ { m } V _ { j } ^ { s t o r e \mathrm { \ : * } } S _ { i , j } < D _ { i } ^ { s t o r e } } \end{array} \right\}
+$$
+
+$$
+\sum _ { i = 1 } ^ { n } S _ { i , j } = 1 , S _ { i , j } \in \{ 0 , 1 \} \quad
+$$
+
+式（13)表明了物理服务器上的所有虚拟机的CPU总数，内存总数和磁盘空间总数必须小于物理服务器的CPU大小、内存大小和磁盘空间大小； $\mid m$ 是虚拟机迁移的数目； $n$ 是服务器的数目。
+
+$V _ { j } ^ { c p u }$ 、 $V _ { j } ^ { m e m }$ 、 $V _ { j } ^ { s t o r e }$ 分别表示虚拟机 $j$ 对 CPU、内存和磁盘空间的请求大小；类似的符号 $D _ { i } ^ { c p u }$ 、 $D _ { i } ^ { m e m }$ 、 $D _ { i } ^ { s t o r e }$ 是所对应的物理服务器i实际的CPU、内存和磁盘空间大小。
+
+从式（13）可以看出， $S _ { i , j }$ 表示了第 $j$ 个虚拟机是否被迁移到第i个物理服务器。所以 $S _ { i , j }$ 的值为0或者1。
+
+# 3.3虚拟机迁移遗传算法
+
+本节主要描述虚拟机迁移模型GA-VMM的算法，它使用了全局最优遗传算法，该算法包括编码阶段、交叉算子、变异算子、修正算子和局部搜索算子。
+
+编码阶段：假设需要被迁移到云数据中心的虚拟机的数目为 $m$ ，需要被迁移的服务器的数量为 $n$ ，那么虚拟机和服务器的映射可以通过一个 $n ^ { * } m$ 矩阵来表示。
+
+$$
+\left[ \begin{array} { l } { S _ { 1 , 1 } , S _ { 1 , 2 } . . . . . . . . . . . S _ { 1 , m } } \\ { S _ { 2 , 1 } , S _ { 2 , 2 } . . . . . . . . . . . S _ { 2 , m } } \\ { . . . . . } \\ { S _ { n , 1 } , S _ { n , 2 } . . . . . . . . . . . . . S _ { n , m } } \end{array} \right]
+$$
+
+初始化矩阵S是一个稀疏矩阵，从式(14)可以看出，该矩阵只有一列具有数据，该数据为1，矩阵的其他元素全部为0。
+
+交叉算子：首先随机的产生四个整数a、b、c、d， $a , c \in [ 1 , N ]$ ，$b , d \in [ 1 , M ]$ ，交叉操作可以用下面的方法来表示：
+
+$$
+\begin{array} { r l } & { S _ { 1 } = ( S _ { 1 , 1 } ^ { 1 } , . . . , S _ { a , b - 1 } ^ { 1 } \mid S _ { a , b } ^ { 1 } , . . . , S _ { c , d } ^ { 1 } \mid S _ { c , d + 1 } ^ { 1 } , . . . , S _ { n , m ) } ^ { 1 } ) , } \\ & { S _ { 2 } = ( S _ { 1 , 1 } ^ { 2 } , . . . , S _ { a , b - 1 } ^ { 2 } \mid S _ { a , b } ^ { 2 } , . . . , S _ { c , d } ^ { 2 } \mid S _ { c , d + 1 } ^ { 2 } , . . . , S _ { n , m } ^ { 2 } ) , } \\ & { S _ { 3 } = ( S _ { 1 , 1 } ^ { 1 } , . . . , S _ { a , b - 1 } ^ { 1 } \mid S _ { a , b } ^ { 2 } , . . . , S _ { c , d } ^ { 2 } \mid S _ { c , d + 1 } ^ { 1 } , . . . , S _ { n , m } ^ { 1 } ) , } \\ & { S _ { 4 } = ( S _ { 1 , 1 } ^ { 2 } , . . . , S _ { a , b - 1 } ^ { 2 } \mid S _ { a , b } ^ { 1 } , . . . , S _ { c , d } ^ { 1 } \mid S _ { c , d + 1 } ^ { 2 } , . . . , S _ { n , m } ^ { 2 } ) } \end{array}
+$$
+
+变异算子：首先随机产生一个实数 $x ,$ $x \in \left[ 0 , 1 \right]$ ,如果 $x \leq S _ { { \scriptscriptstyle m } }$ ，那么跳转到接下来的步骤。选择矩阵的一列，随机产生一个整数 $y _ { ; }$ ， $y \in \left[ 1 , N \right]$ ， $S _ { i , j } = 1$ ， $y \neq i$ ，使 $i = y$ $, S _ { y , j } = 1 , S _ { i , j } = 0$ ，然后从矩阵第一列到第 $m$ 列重复执行前面的操作。
+
+修正算子：令
+
+$$
+C P U ^ { e } = \sum _ { j = 1 } ^ { m } ( V _ { j } ^ { c p u } \ast S _ { i , j } ) - D _ { i } ^ { c p u }
+$$
+
+$$
+M E M ^ { \it e } = \sum _ { j = 1 } ^ { m } ( V _ { j } ^ { m e m } \ast S _ { i , j } ) - D _ { i } ^ { m e m }
+$$
+
+$$
+S t o r e ^ { e } = \sum _ { j = 1 } ^ { m } ( V _ { j } ^ { s t o r e } \ast S _ { i , j } ) - D _ { i } ^ { s t o r e }
+$$
+
+如果 $C P U ^ { e } \leq 0$ &&Meme $\leq 0$ &&Storee $\leq 0$ ，则返回；否则在矩阵中选择一列, $S _ { i , j } = 1$ ,随机的产生一个整数 $\mathbf { X } , x \in [ 1 , N ]$ ， $x \neq i$ 并且令 $S _ { x , j } = 1$ ， $S _ { i , j } = 0$ ,使其满足式(13)的约束条件。然后是从矩阵第一列到第 $\mathbf { m }$ 列重复执行前面的操作。
+
+局部搜索算子：该步骤主要目的是增加算法的收敛性。在前面的修正算子操作之后，搜索具有最大能量消耗 $G _ { \mathrm { { l } } }$ 值的种群个体 $s$ ，因为能量消耗越小，那么个体越优越。接下来选择一个种群，使该种群满足条件如下：
+
+$S _ { i , j } = 1$ ，随机产生的整数 $\textbf { x }$ ， $x \in [ 1 , N ]$ ， $x \neq i$ ， $S _ { x , j } = 1$ ， $S _ { i , j } = 0$ ，并产生种群个体 $\boldsymbol { s ^ { \prime } }$ 。
+
+如果 $G _ { 1 } ^ { \prime } < G _ { 1 }$ ，则返回之前的步骤，否则返回 $\boldsymbol { s } ^ { \prime }$ 。该步骤的输入为种群个体S，输出为优化后的种群个体 $\boldsymbol { s ^ { \prime } }$ 。
+
+# 4 测试与性能分析
+
+# 4.1测试环境
+
+为了对本文提出的虚拟机迁移模型GA-VMM进行实验分析，利用某个企业的中规模的云数据中心作为测试环境，它包括300个空闲的HPProLiantML110G4物理服务器，这些物理服务器在执行云计算应用程序的时候，物理服务器的配置情况如表1所示，划分为虚拟机后对资源的需求参数配置如表2 所示：把GA-VMM 虚拟机迁移模型与已经有的MADLVF[27]、Buyya[28]、Melliti[29]等常见的迁移模型进行了比较。比较的性能参数包括低负载服务器数量变化情况、虚拟机迁移个数分析、云数据中心能耗分析和SLA的平均违规分析四个。
+
+Table 1Parameter configuations of physical servers in experiments   
+表2实验中的虚拟机对资源的需求情况  
+
+<html><body><table><tr><td>物理服务器数量</td><td>300</td></tr><tr><td>处理器的主频</td><td>4GHz</td></tr><tr><td>内存空间大小</td><td>8GB</td></tr><tr><td>磁盘空间大小</td><td>1000GB</td></tr><tr><td>服务器类型</td><td>G4</td></tr><tr><td>最大能量消耗</td><td>200W</td></tr></table></body></html>
+
+表1实验中的物理服务器参数配置情况  
+Table 2Resource requirements of virtual machines in experiments   
+
+<html><body><table><tr><td>虚拟机参数</td><td>VM</td></tr><tr><td>处理器的数目</td><td>1</td></tr><tr><td>处理器的主频</td><td>1GHz</td></tr><tr><td>内存空间大小</td><td>2GB</td></tr><tr><td>磁盘空间大小</td><td>50GB</td></tr><tr><td>服务器类型</td><td>G4</td></tr></table></body></html>
+
+# 4.2低负载的服务器数量分析
+
+在测试过程中，当整个应用程序的虚拟机的请求数量增加的时候，四种迁移模型情况下，那些负载比较轻的服务器数量都随着增加，这也表明四个虚拟机迁移模型都可以降低负载比较重的服务器的工作压力，把这些负载迁移到低负载的服务器上，而且被增加的这些服务器的数量也是缓慢地增加。与其他几种云数据中心的虚拟机迁移模型比较起来，本文的GA-VMM迁移模型低负载的服务器数目增加是最缓慢的。整个测试结果如图1所显示。
+
+20 GA-VMM MADLVF Melliti Buyya   
+NNuadrne 80   
+604020°   
+0   
+0 1002003004005006007008009001000 Numbers of VMs
+
+# 4.3虚拟机迁移次数分析
+
+图2显示了随着应用程序的虚拟机请求数量的变化，四种模型比较起来虚拟机迁移后的迁移个数比较情况，结果显示本文的GA-VMM迁移模型随着虚拟机请求个数从100到1000的变化，它的迁移个数从370到2000左右，大约只有5.0倍的增加，而其他的三个迁移模型的个数都是8.0倍以上的增加。从这个结果表明,与其他三个模型比较起来，GA-VMM迁移模型能够有效地减少动态虚拟机的迁移个数，这样它间接就减少了云数据中心的能量消耗情况。
+
+3200- GA-VMM MADLVF   
+2800- Melliti   
+2400- Buyya   
+2000-   
+1600-   
+1200-   
+800   
+400 0 1002003004005006007008009001000 Numbers of Vms
+
+# 4.4云数据中心的能耗分析
+
+图3显示了随着应用程序的虚拟机请求数量的变化，四个模型比较起来云数据中心的电力消耗情况，本文的模型在四种模型中是最节省能量的，在虚拟机个数为100时，大约只有4千瓦特小时(KWH)的能量消耗。但是尽管如此，云数据中心的能量消耗还是增加比较快，这个是因为GA-VMM迁移模型主要目的是为了使服务器的负载虚拟机负载最小和负载均衡，在这个过程中就存在一定的虚拟机迁移动作，这样云数据中心的电力消耗情况也受到了影响。
+
+# 4.5 SLA平均违规分析
+
+SLA违规值的百分比表明在客户有服务请求的时候，物理服务器并没有分配CPU等资源的比例，因此，为了云客户端增加QoS,首要目标是减少SLA违规的值。图4显示了随着应用程序的虚拟机请求数量的变化四种模型比较起来云数据中心的服务等级协议SLA的平均违规比较情况。结果表明随着虚拟机请求数目的增加，四种迁移模型下的SLA的平均违规都是随机的变化，GA-VMM迁移模型处于性能中的中等水平，尽管如此,它的SLA违规都是比较平稳的变化，这个也表明它可以稳定的保证云平台的QoS。
+
+![](images/d7577a5fcd395c5477ebf631238b83cc63e4118d878200fcf07519d7baaa1132.jpg)  
+图2四种虚拟机迁移模型的迁移次数比较  
+Fig.2Performance analysis of migraion numbers in four virtual machine migration model   
+图4四种虚拟机迁移模型的SLA平均违规比较 Fig.4Performance analysis of average SLA violation in four virtual machine migration model
+
+![](images/8c6a791cc5b83e15a2ef5e5d588d640188b1be7f8bbaf8af8ea6968f35229092.jpg)  
+图1四种虚拟机迁移模型的负载均衡性能比较 Fig. 1 Performance analysis of load banlance in four virtual machine migration model   
+图3四种虚拟机迁移模型的能量消耗比较 Fig.3Performance analysis of energy comsumption in four virtual machine migration model
+
+从上面的四个实验可以看出，GA-VMM虚拟机迁移模型既可以减少能量消耗，也可以使虚拟机均匀的分布到所有的服务器中，使得云数据中心的各个服务器的负载均衡，预防计算资源过于集中和聚集，与常见的其他迁移模型比较起来性能处于优势，这是因为GA-VMM采用全局遗传算法的多目标优化手段，通过种群优化后的虚拟机重新迁移方法,最终得出最满意的资源放置策略，从而达到节省云数据中心的电力消耗与成本。
+
+# 5 结束语
+
+本文针对当前云数据中心的低能量消耗和高QoS服务质量的要求，提出了遗传算法优化的虚拟机迁移模型GA-VMM。GA-VMM在虚拟机迁移的时刻考虑的问题维度明显优于早期的策略，使虚拟机的分配更加合理与公平。测试结果表明GA-VMM能够有效减少虚拟机的迁移次数，比常见的迁移策略能更好地减少云数据中心的能源消耗。在后续研究过程中将针对提出的策略模型应用于模式识别、视频目标检测以及卷积神经网络引擎等云计算产品应用领域中。
+
+# 参考文献：
+
+[1]Arianyan E,Taheri H,Khoshdel V. Novel fuzzy multi objective DVFS-aware consolidation heuristics for energyand SLA efficient resource management in cloud data centers [J]. Journal of Network & Computer Applications,2017,78 (1): 43-61.   
+[2] Lei Zhou,Sun Exiong,Chen Shengbo,et al.A novel hybrid-copy algorithm for live migration of virtual machine [J].Future Internet, 2017, 9 (3): 1-13.   
+[3]Jin Xibo,Zhang Fa,Wang Lin,et al.Joint optimization of operational cost and performance interference in cloud data centers [J]. IEEE Trans on Cloud Computing,2017,99 (1): 697-711.   
+[4]Liu Haikun,He Bingsheng.VMbuddies: coordinating live migration of multi-tier applications in cloud environments [J].IEEE Trans on Parallel and Distributed Systems,2015,26 (4): 1192-205.   
+[5]Kella A,Belalem G.A stable matching algorithm for vm migration to improve energy consumption and QoS in CLOUD Infrastructures [J]. International Journal of Cloud Applications and Computing,2014,4 (2): 15-33.   
+[6] Huang Jing,Wu Kai, Melody M. Dynamic virtual machine migration algorithms using enhanced energy consumption model for green cloud data centers [C]/Proc of International Conference on High Performance Computing & Simulation.2014: 902-10.   
+[7]Jiang Hanpeng,Weng M L,Chen Weimei.Dynamic consolidation of virtual machines in cloud datacenters [J]. IEICE Trans on Information and Systems,2014,97(7): 1727-1730.   
+[8]Dad D,Yagoubi D E,Belalem G. Energy efficient VM live migration and allocation at cloud data centers [J]. International Journal of Cloud Applications and Computing,2014,4 (4): 55-63.   
+[9]Vasudevan M, Tian Yuchu,Tang Maolin,et al. Profiling: an application assignment approach for green data centers [C]//Proc of IEEE Industrial Electronics Society.Conference.2015: 5400-5406.   
+[10] Li Ji, Feng Longhua,Fang Shenglong.An greedy-based job scheduling algorithm in cloud computing [J].Journal of Software,2014,9(4): 921-925.   
+[11] Kar I, Parida R NR, Das H. Energy aware scheduling using genetic algorithm in cloud data centers [C]/Proc of IEEE International Conference on Electrical, Electronics,and Optimization Techniques. 2016: 3545-3550.   
+[12] Alboaneen D A，Tianfield H,Zhang Yan.Glowworm swarm optimisation algorithm for virtual machine placement in cloud computing [C]//Proc of IEEE International Conferences on Ubiquitous Intelligence & Computing,Advanced and Trusted Computing,Scalable Computing and Communications， Cloud and Big Data Computing, Internet of People,and Smart World Congress.2017: 808-814.   
+[13] Paul A K,Addya S K,Sahoo B,et al. Application of greedy algorithms to virtual machine distribution across data centers [C]]//Proc of IEEE India Conference.2015:1-6.   
+[14] Vasudevan M,Tian Yuchu，Tang Maolin，et al. Energy-efficient application assignment in profile-based data center management through a repairing genetic algorithm [J]. Applied Soft Computing, 2018, 67: 1-10.   
+[15] Beloglazov A,Buyya R. Optimal online deterministic algorithms and adaptive heuristics for energy and performance efficient dynamic consolidation of virtual machines in cloud data centers [J]. Concurr. Comput. Pract. Exp.,2012,24 (13): 1397-1420.   
+[16] Beloglazov A,Abawajy J, Buyya R.Energy-aware resource allcation heuristics for efficient management of data centers for cloud computing [J].Futur. Gener. Comput. Syst.,2012,28 (5): 755-768.   
+[17] Calheiros RN,Ranjan R,BeloglazovA,et al.CloudSim:a toolkit for modeling and simulation of cloud computing environments and evaluation of resource provisioning algorithms [J]. Software Practice & Experience,2011,41(1): 23-50.   
+[18] Garg S K,Yeo C S,Buyya .Green cloud framework for improving carbon efficiency of clouds [C]//Proc of in Euro-Par 2011 Parallel Processing.[S.1.]: Springer,2011: 491-502.   
+[19] Salehi MA, Krishna PR, Deepak K S,,et al. Preemption-aware energy management in virtualized data centers [C]//Proc of the 5th IEEE International Conference on Cloud Computing. 2012:844-851.   
+[20] Garg SK,Gopalaiyengar S K，Buyya R. SLA-based resource provisioning for heterogeneousworkloads in a virtualized cloud datacenter [C]//Proc of Algorithms and Architectures for Parallel Processing.[S.1.]: Springer, 2011:371-384.   
+[21] Cao Zhibo,Dong Shoubin.An energy-aware heuristic framework for virtual machine consolidation in cloud computing [J]. Journal of Supercomputing, 2014, 69 (1): 429-451.   
+[22] Luo Jianping,Li Xia,Chen Minrong.Hybrid shuffled frog leaping algorithm for energy-efficient dynamic consolidation of virtual machines in cloud data centers [J].Expert Systems with Applications, 2014,41 (13): 5804-5816.   
+[23] Choudhary M,Peddoju S K.A dynamic optimization algorithm for task scheduling in cloud environment [J],Int.J. Eng.Res.Appl.,2012,2 (3): 2564-2568.   
+[24] Sharma N S R K. A dynamic optimization algorithm for task scheduling in cloud computing with resource utilization [J]，Int. J. Sci.Eng. Technol.,2013,2(10): 1062-1068.   
+[25] Portaluri G, Giordano S,Kliazovich D,et al.A power efficient genetic algorithm for resource allocation in cloud computing data centers [C]/Proc of IEEE International Conference on Cloud Networking.2014: 58-63.   
+[26] Wu Gt,Tang Maolin,Tian Yuchu，et al.Energy-efficient virtual machine placement in data centers by genetic algorithm [M]//Neural Information Processing. Berlin :Springer,2012: 315-323.   
+[27] Verma JK,Katti C P, Saxena P C.MADLVF:an energy efficient resource utilization approach for cloud computing[J].IJ Information Technology and Computer Science,2014,6(7): 56-64.   
+[28] Beloglazov A,Abawajy J,Buyya R.Energy-aware resource allocation heuristics foreficient managementof datacenters for cloud computing [J].Future GenerationComputer Systems,2012,28 (5): 755-768.   
+[29] Mohamed M,Amziani M,Belaid D,et al.Melliti:an autonomic approach to manage elasticity of business processes in the cloud. Future[J]. Generation Computer Systems,2015,50 (1) 49-61.

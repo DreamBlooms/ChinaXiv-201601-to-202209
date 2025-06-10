@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM技术的施工场地布置研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李　飞¹刘宇恒1 杨　成² 杨光元² 屠剑飞³",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.长春工程学院，吉林130021；2.云南建工集团有限公司，昆明650501；3.浙江省建工集团有限责任公司，浙江310012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着建筑技术的日益进步,施工现场的场地布置面临着巨大的挑战。如何合理的进行施工场地的布置关系着安全文明施工,也影响着企业形象。本文主要通过结合BIM技术,进行三维场地布置，进而解决设备安置、材料堆放、设备进场、生活区布置等二维图纸难以解决的问题，并且通过BIM模型进行场地布置工程量计算、施工场地布置资产管理等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】BIM；施工现场布置 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17;TU731.1 【文献标识码】A 【文章编号】1674-7461(2017)01-0060 -05[DOI】10.16670/j.cnki.cn11-5823/tu.2017.01.11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施工场地布置是指根据图纸、结合现场堪察情况，并考虑进度的总体安排，按照文明施工、安全生产的要求,对现场情况施工布置总体安排的过程。现场的平面布置要考虑施工区域的划分、施工通道的布置、现场临时水电的布置、现场生产设施、现场办公以及生活区等内容，以保证现场生产的需要以及满足施工进度为前提。2015年,住建部下发的《关于推进建筑信息模型应用的指导意见》，充分体现了国家层面对BIM技术的重视和支持。越来越多的施工企业也开始重视BIM技术的应用研究，通过在试点工程的应用探索，逐渐推进到所有在建工程。借助BIM技术对施工场地布置进行预演，规避施工过程中可能出现的施工协调问题，达到按计划施工、安全文明施工的目的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1施工场地布置的重要性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 1 促进安全文明施工",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国施工水平的不断提高，对安全文明施工的要求也越来越高。考核建筑施工企业的质量、安全、工期、成本四大指标，也称施工企业的第一系统目标的落脚点都在施工现场。加强施工现场布置的管理，在施工现场改善施工作业人员条件，消防事故隐患，落实事故隐患整改措施，防止事故伤害的发生，这是极为重要的。施工项目部一般通过对现场的安全警示牌、围挡、材料堆放等建立统一标准，形成可进行推广的企业基准及规范，推动安全文明施工的建设。在建筑施工中，保证建筑施工的安全是保护施工人员人身安全和财产安全的基础，也是保证建筑工程能够顺利完工的前提条件，建筑施工的安全问题已经成为了当前社会的焦点话题，很多建筑安全事故在社会上引起了恶劣的影响，我国也出台了相应的管理条例，目的就是为了对我国建筑市场加强控制，保证建筑施工的质量和安全，所以在建筑施工的安全管理实际工作中，建筑施工企业和从业人员必须对此加以重视，实现企业经济效益的前提是保证工作人员的安全，继而提升施工企业的竞争力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 保障施工计划的执行",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对施工现场合理规划，是保障施工正常进行的需要。在施工过程中往往存在着材料乱堆乱放、机械设备安置位置妨碍施工的情况，为了进行下一步的施工必须将材料设备挪来挪去，影响施工的正常进行。施工场地布置要求在设计之初要考虑施工过程的材料以及机械设备的使用情况，合理地进行材料的堆放。通过确定最优路径等方法，为施工提供便利。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3有效控制现场成本支出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在施工过程中由于场地狭小等原因，会产生大量的二次搬运费，将成品和半成品通过小车或人力进行第二次或多次的转运会产生大量的二次搬运费用，增加了项目的成本支出。在施工场地布置的时候要结合施工进度，合理的对材料进行堆放。减少因为二次搬运而产生的费用，降低施工成本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于BIM的施工场地布置应用研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1建立安全文明施工设施BIM构件库",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "借助BIM技术对施工场地的安全文明施工设施进行建模，并进行尺寸、材料等相关信息的标注，形成统一的安全文明施工设施库。施工现场常用的安全防护设施、加工棚、卸料平台防护、用电设施、施工通道等设施都可以通过BIM软件的族功能,建立各种施工设施的BIM族库,并且对于尺寸、材质等准确标注，为施工设施的制作提供数据支持。图1是施工现场钢筋加工棚，在保证结构稳定性情况下，对尺寸进行标准，在满足场地空间的情况下进行推广,形成企业统一标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着企业BIM族库的不断丰富，施工现场设施布置也会变得简单。将所有的族文件进行分类整理，建立如图2所示的BIM构件库，在进行施工现场的三维模型建立时，可以将构件随意拖进三维模型中,建立丰富的施工现场 BIM 模型,为施工现场布置提供可视化参照。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8d5baa0ad1d037340cde3d207912a3920e148c4dca8d0957cdbe93d23e44f67.jpg",
+        "img_caption": [
+            "图2施工设施族库"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 现场机械设施管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在施工过程中会用到各种各样的重型施工机械，大型施工设备的进场和安置是施工场地布置的重要环节。传统的二维CAD施工平面设计只能二维显示出施工的作业半径，像塔吊的作业半径、起重机的使用范围等。基于BIM技术的二维施工机械布置则可以在更多的方面进行应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)施工机械设备进场模拟 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "施工机械体积庞大，施工现场的既有设施、施工道路等可能会阻碍施工设备的进场。依托BIM技术,设置施工机械进场路径,找出施工机械在整个进场环节中碰撞点，再进行进场路径的重新规划或者碰撞位置的调整，确保施工设备在进场过程中不出现任何问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a50a7880ea0db709cae59ad4355a1e4197de76b7313b346c9e6b4aeb7f97b16d.jpg",
+        "img_caption": [
+            "图1钢筋加工棚外观及尺寸标注"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)施工机械的固定验算 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "施工企业对于施工机械的现场固定要求较高，像塔吊等设备的固定在固定前都要进行施工受力验算，以确保在施工过程中能够保证塔吊稳定性。近几年塔吊事故频发，据统计，仅2014年全国共发生78起塔吊垮塌事故，造成大量的生命财产损失。借助BIM技术对施工现场的塔吊固定进行校验和检查，保证塔吊基座和固定件的施工质量，确保塔吊施工过程中的稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 成本控制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM 技术的优势在于其信息的可流转性，一个BIM模型不仅包含构件的三维样式，更重要的是其所涵盖的信息，包括尺寸、重量、材料类型以及材料生产厂家等等。在使用BIM软件进行场地建模之6后，可以将布置过程中所使用的施工机械设备数量临电临水管线长度、场地硬化混凝土工程量等系列的数据进行统计,形成可靠的工程量统计数据,为工程造价提供可靠依据。通过在软件中选择要进行统计的构件，设置要显示的字段等信息，输出工程量清单计算表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 $\\textcircled{4}$ 碰撞检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "施工现场总平面布置模型中需要做碰撞检查的主要包括内容：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)物料、机械堆放布置,进行相应的碰撞检1查，检查施工机械设备之间是否有冲突、施工机械设备与材料堆放场地的距离是否合理;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)道路的规划布置,检查所用的道路与施工道路尽量不交叉或者少交叉，以此保证施工现场的安全生产；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)临时水电布置，避免与施工现场的固定式的机械设备的布置发生冲突，也要避免施工机械，如吊臂等与高压线发生碰撞，应用BIM软件进行漫游和浏览，发现危险源并采取措施。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3BIM技术在施工场地布置中的应用案例分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "某商业广场项目位于长春市绿园区，总建筑面积 $1 0 8 \\ 3 6 1 \\mathrm { m } ^ { 2 }$ ，地下3层，地上23层，总体呈L型。项目靠近皓月大路，临建面积狭小,周围有居民小区，周边情况复杂，施工受周围因素影响较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 总平面布置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在项目投标的时候，工程部决定改变以往二维CAD进行平面设计的做法，采用BIM技术对施工场地的总体布置进行详尽的建模，在投标的时候进行三维演示,受到了评标专家的一致好评。在项目中标之后，根据前期建立的三维模型进行了精细化布置和材料提取，大大减少了工程技术人员的工作量，具体流程如图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e0d04bc5003c35e10c6f0eee65ae839fc27f6989d152fb2386df7b65a61052a.jpg",
+        "img_caption": [
+            "图3BIM技术下的场地布置流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过公司技术部的反复论证，得到如图4所示的施工总平面布置BIM模型。对于办公室、生活宿舍、材料堆放、材料加工、塔吊、电梯等施工设施的安置都有详细的布置。并且还能实现三维效果图渲染、二维出图等功能，对于后期的安全文明施工宣传和项目施工材料留档等都有很大的帮助。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b40905084baa006aaee5edd2352197fe2f26e1999ffa011ddd753fef7339d84.jpg",
+        "img_caption": [
+            "图4三维平面布置模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 工程设施细部详图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将BIM模型建立完成之后，如果只是进行三维演示远远没有体现出BIM的价值。通过建立的BIM模型，将各部分构件进行提取，对施工材料等信息进行详细的标准，在进行施工场地布置的时候能够知道现场人员进行施工。图6是围墙墙身的详细构造，从图片右侧可以看出来墙体的具体参数设置，包括墙身、基础、垫层，以及卜部基础的材料类型、高度、标高等信息就能详细的读出，并且还可以对构件类型进行随意的添加、删减等以满足不同工程的需要。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/899efad8d72a2c7e22c4e7035deba3fb7aca1a78965fd865c128fe34b0737d9e.jpg",
+        "img_caption": [
+            "图5二维CAD平面出图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84d9db71d0fcdd1ead82576784d428d648675a76698aa5699c7917b677e62103.jpg",
+        "img_caption": [
+            "图6围墙墙身详细构造"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 碰撞检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在大型机械设备进场之后，必须规范其作业位置以及作业半径，保证不会与其他设备设施发生碰撞。借助BIM技术对不同机械设备之间的空间关系进行模拟，找出在作业过程中可能会出现碰撞的地方，在施工的过程中加以防护。图7为现场布料机与电梯发生了碰撞，为了保证施工的正常进行就要更换布料机的作业位置，避免再与电梯发生碰撞。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/614c56825b7ee8b70df77f6a78e8c727b41b783edc443285400f7d10f8ead925.jpg",
+        "img_caption": [
+            "图7布料机与电梯发生碰撞"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4施工组织设计审查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统的施工组织设计与现场实际结合的不够紧密，方案中的设计难以付诸实践，各方在施工组织论证的时候由于缺乏三维图示等，往往各执一词，形不成统一的意见。在应用BIM技术之后能够有效地避免上述问题，通过使用BIM模型，以可视化的方式协助业主和监理审核施组设计；在监理例会等场合快速理解现场情况，快速沟通，在navis-works软件中，在关键部位增加视点，视点中可包含静态视点、动画、注释、测量等，如图8所示。在后期的施工检查的过程中可以依照模型，严格要求施工单位将施工组织设计中的内容落实到位，在保证施工正常进行的前提下，也能展示公司的精神风貌，体现公司的品牌价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5施工场地布置工程量统计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM 软件的一大特点就是不仅仅是三维的立体表现，更重要的是在于信息的传递。在场地布置完整之后可以通过对模型进行工程量的统计，将各构件的数量以报表的形式统计出来，形成真实可靠的工程量报表，方便后面进行造价控制。软件的建模规则是完全依据的是现行的工程量清单计价规则，不会存在因为建模规则的问题而产生错算、漏算、多算的现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ba0df3de0deba2fbe3e7c140ee6b084e4eda9616f059e420544fb23fa2bc7a5.jpg",
+        "img_caption": [
+            "图8Naviworks下的场地布置重要节点"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/397e5fdf322c434e0cd97950531f53cda7c1ac16f7a6ebeb83ac5f198001325b.jpg",
+        "table_caption": [
+            "表1按栋号楼层构件汇总"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 栋号</td><td>楼层 构件大类</td><td></td><td>构件小类</td><td>工程量</td><td>单位</td></tr><tr><td>1</td><td>施工 0</td><td>其它构件</td><td>木工加工棚</td><td>5</td><td>个</td></tr><tr><td>2</td><td>平面图</td><td>围墙</td><td>夹芯彩钢板围墙1</td><td>572.917</td><td>m</td></tr><tr><td>3</td><td></td><td>地貌</td><td>场区地貌</td><td>35 276.174</td><td>m²</td></tr><tr><td>4</td><td></td><td>塔吊</td><td>1号塔吊</td><td>2</td><td>个</td></tr><tr><td>5</td><td></td><td>大门</td><td>临时大门</td><td>2</td><td>个</td></tr><tr><td>6</td><td></td><td>安全围护</td><td>安全围护1</td><td>117.905</td><td>m</td></tr><tr><td>7</td><td></td><td>施工电梯</td><td>1号施工电梯</td><td>2</td><td>个</td></tr><tr><td>L9</td><td></td><td>板房</td><td>板房</td><td>1 467.878</td><td>m²</td></tr><tr><td></td><td></td><td>毗邻建筑</td><td>多层建筑</td><td>10 242.948</td><td>m²</td></tr><tr><td>3</td><td></td><td>道路</td><td>250厚施工道路</td><td>3 462.197</td><td>m²</td></tr><tr><td>110</td><td></td><td></td><td>250 厚施工道路2</td><td>1078.502</td><td>m²</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "O此外,使用BIM软件建立完成场地布置模型之后，就形成了资产使用信息库，将使用的材料设备等记录在案，进行资产管理，避免因施工现场人员混杂，设备使用情况统计不及时而造成财产损失的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4>总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以一个简单的在建工程，描述了BIM技术程场地布置方面的应用，通过对场地设施布置、安全文明施工、构件细部构造三维显示，以及最后的工程量统计功能的展示中可以看出，BIM技术在施工场地布置方面比传统的二维布置更为直观，也更为方便。随着BIM技术的应用越来越广泛，在场地布置方面的应用也会越来越广泛，BIM软件也会越来越成熟。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］徐伟,李建伟.土木工程项目管理[M].上海：同济大学出版社，2000：447-516.  \n[2］Charles Handy.The Age of Unreason,London:CenturyHutchinson,1989.  \n[3]William R. Bigler,Marilyn Norris New Science of StrategyExecution:How Established Firms Become Fast,SleekWealth Creators,Praeger Publishers,2004.  \n[4]Eastman C,Teicholz P,Sacks R,etc.BIM handbook:aguide to building information modeling for owners,man-agers,designers，engineers，and contractors［M].2nded.New Jersey:John Wiley& Sons,2O11:13.  \n［5］戴旭强,饶丰,朱吉祥．BIM技术在施工现场总平面布置中的应用[J]．科技创新与应用.2016(31).  \n［6］蔡大伟,刘软哲,宋乾双.BIM技术在场地平面布置中的应用实践[J].建筑,2015（21）：69-70.  \n[7］唐小卫，夏夕红，许馨文.BIM技术在三维空间布置中的应用[J].南通职业大学学报,2015（12）：100-104.  \n[8］周勇,姜绍杰,郭红领.建筑工程虚拟施工技术与实践［M].北京：中国建筑工业化版社，2013：4-22.  \n［9］王廷魁，郑娇.基于BIM的施工场地动态布置方案评选［J].施工技术，2014(02)：72-76.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Technology Research and Application of Construction Site Layout based on BIM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Li Fei,Liu Yuheng,Yang Cheng,Yang Guanyuan,Tu Jianfei ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1.Changchun Institute of Technology，Jilin 130021，China ; 2. YunNan Construction Engineering Group Co.,Ltd.， Kunming 650501，China ; 3. Zhejiang Construction Engineering Group Co.，Ltd.，Hangzhou 31ool2，China） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the progress of construction technology,construction site setting is facing huge chalenges.Construction site layout of how to relate to the safe and civilizedconstruction,also affcts thecompany image.This paper by combining BIM technology,three-dimensional setting,to address equipment placement,stacking of materials,equipment comes into play,living arrngement,two-dimensional drawings to solve problemsand site layout by BIM model calculation,construction site layout,such as asset management. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:BIM；Construction Site Layout ",
+        "page_idx": 4
+    }
+]

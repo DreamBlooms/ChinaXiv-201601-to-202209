@@ -1,0 +1,545 @@
+# Phenomenological Aspects of R-parity Violating Supersymmetry with A Vector-like Extra Generation
+
+Xue Chang, Chun Liu, Yi-Lei Tang State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190， China\*
+
+Abstract
+
+Phenomenological analysis to the R-parity violating supersymmetry with a vector-like extra generation is performed in detail. It is found that,via the trilinear couplings,the correct neutrino spectrum can be obtained. The Higgs mass rises to 125 GeV by new up-type Yukawa couplings of vector-like quarks with no need of very heavy superpartners.Phenomena of new heavy fermions at LHC are predicted.
+
+PACS numbers:12.60.Jv,14.60.St,14.60.Hi, 14.65.Jk
+
+# I. INTRODUCTION
+
+Recently a standard model (SM) Higgs-like particle with a mass of $1 2 5 - 1 2 6$ GeV was discovered [1]. In the paradigm of the weak scale supersymmetry (SUSY) which aims at the naturalness of the electro-weak scale, however, such a Higgs mass brings in tensions, especially the minimal SUSY SM (MSSM). Nonminimal and still natural scenarios of SUSY are thus motivated. One of them is the MSSM with a vector-like generation [2-5]. It gives the right Higgs mass naturally, is consistent with precision electroweak measurements, and has a rich phenomenology [2-6]. In the framework of SUSY, vector-like fermions can also be motivated by other theories beyond SM, such as SUSY extension with extra-dimensions or with composite states [7]. So it is worth asking the question whether such a scenario also provides explanations to other problems such as neutrino masses.
+
+Neutrino oscillations are the undoubted new physics beyond the SM. Daya Bay [8l and RENO [9] experiments recently discovered a relatively large $\theta _ { 1 3 } \simeq 8 . 8 ^ { \circ } \pm 0 . 8 ^ { \circ }$ .Within the framework of SUSY, in the absence of R-parity conservation, neutrino masses and mixings can be generated from lepton number violating (LPV） couplings [10]. This approach was extensively studied before [11]. It is known that all the neutrino experimental results, including that of oscillation phenomena like the large atmospheric mixing angle $\theta _ { 2 3 }$ , the hierarchy of oscillation frequencies $\Delta m _ { 2 1 } ^ { 2 } \ll \Delta m _ { 3 2 } ^ { 2 }$ and the smallness of $\theta _ { 1 3 }$ ， can be understood in three generation LPV MSSM. However, this needs some special requirements for relevant coupling constants and mass parameters.
+
+Combining both considerations above, we will work in the LPV MSSM with a vector-like extra generation [4]. While this model takes the vector-like slepton doublets as the two Higgs doublets needed for the electroweak symmetry breaking,the SM-like Higgs mass can be naturaly 125 GeV [5]. Extra trilinear LPV couplings between ordinary fermions and vector-like fermions provide a much larger parameter space to explain neutrino pheomena right.
+
+In this paper, phenomenological aspects of the model will be analyzed. In Sect. II, we make a brief review of the model. In Sect. III, neutrino masses are calculated. For the neutrino physics, noting the enlarged parameter space, we consider trilinear LPV couplings carefully. One-loop contribution to neutrino masses due to new trilinear LPV couplings is calculated, theoretical analysis are performed and numerical results are shown in detail.
+
+Besides, we analyze the SM-like Higgs mass and explicitly show that it can be increased to 125 GeV by two new Yukawa couplings of the up-type Higgs with vector-like quarks in Sect. IV. The LHC phenomenology of the new fermions is analyzed in Sect. VI. The summary and discussions are given in the last section.
+
+# II.ABRIEF REVIEW OF THE MODEL
+
+This modell4] is SUSY and SM gauge invariant， and R-parity violation with baryon number conservation is assumed. For the matter content， in addition to the ordinary 3 generations (3G),a vector-like generation is introduced in. Without R-parity conservation, this can be also thought as that there are $4 + 1$ chiral generations, where '4' stands for four chiral generations with SM quantum numbers and $^ { \ ' } 1 ^ { \ ' }$ for another chiral generation with opposite quantum numbers. The 4 chiral generations with same quantum numbers mix. The '1’ has Dirac masses with only one combination of the '4', thus, there are always SM required three massless chiral generations and one massive vector-like generation.
+
+In terms of mass eigenstates (before electroweak symmetry breaking), the massive sleptons in the vector-like generation are taken as the two Higgs doublets. New particles beyond the MSSM are the following with quantum numbers under SU(3) $_ c \times$ SU $( 2 ) _ { L } \times$ U $( 1 ) _ { Y }$ ，
+
+$$
+\begin{array} { l } { { E _ { 4 } ^ { c } ( 1 , 1 , 2 ) ~ , ~ E _ { H } ^ { c } ( 1 , 1 , - 2 ) ~ , ~ Q _ { 4 } ( 3 , 2 , ~ { \frac { 1 } { 3 } } ) ~ , ~ Q _ { H } ( \bar { 3 } , 2 , - { \frac { 1 } { 3 } } ) ~ , } } \\ { { { } } } \\ { { U _ { 4 } ^ { c } ( \bar { 3 } , 1 , - { \frac { 4 } { 3 } } ) ~ , ~ U _ { H } ^ { c } ( 3 , 1 , { \frac { 4 } { 3 } } ) ~ , ~ D _ { 4 } ^ { c } ( \bar { 3 } , 1 , { \frac { 2 } { 3 } } ) ~ , ~ D _ { H } ^ { c } ( 3 , 1 , - { \frac { 2 } { 3 } } ) ~ . } } \end{array}
+$$
+
+The superpotential is conveniently written as
+
+$$
+\mathcal { W } = \mathcal { W } _ { 0 } + \mathcal { W } _ { \mathbb { Z } } ,
+$$
+
+where ${ \mathcal { W } } _ { 0 }$ and $\mathcal { W } _ { \mathit { \mathbb { L } } }$ stand for that with lepton number conservation and LPV, respectively,
+
+$$
+\begin{array} { l } { { = \mu H _ { u } H _ { d } + \mu ^ { e } E _ { 4 } ^ { c } E _ { H } ^ { c } + \mu ^ { Q } Q _ { 4 } Q _ { H } + \mu ^ { U } U _ { 4 } ^ { c } U _ { H } ^ { c } + \mu ^ { D } D _ { 4 } ^ { c } D _ { H } ^ { c } + y _ { i j } ^ { l } L _ { i } H _ { d } E _ { j } ^ { c } + y _ { i j } ^ { d } Q _ { i } H } } \\ { { \ } } \\ { { + y _ { i j } ^ { u } Q _ { i } H _ { u } U _ { j } ^ { c } + y _ { i } ^ { E } L _ { i } H _ { d } E _ { 4 } ^ { c } + y _ { i } ^ { Q \prime } Q _ { 4 } H _ { d } D _ { i } ^ { c } + y _ { i } ^ { D } Q _ { i } H _ { d } D _ { 4 } ^ { c } + y ^ { Q D } Q _ { 4 } H _ { d } D _ { 4 } ^ { c } + y _ { i } ^ { U } Q _ { i } ^ { c } } } \\ { { \ } } \\ { { + y _ { i } ^ { Q } Q _ { 4 } H _ { u } U _ { i } ^ { c } + y ^ { Q U } Q _ { 4 } H _ { u } U _ { 4 } ^ { c } + y ^ { H } Q _ { H } H _ { d } U _ { H } ^ { c } + y ^ { H \prime } Q _ { H } H _ { u } D _ { H } ^ { c } , } } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { l l l } { { { \mathcal W } _ { \bar { \mathcal { Y } } } \supset } } & { { \lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \lambda _ { i j k } ^ { \prime } Q _ { i } L _ { j } D _ { k } ^ { c } + \lambda _ { i j } ^ { E } L _ { i } L _ { j } E _ { 4 } ^ { c } + \lambda _ { i j } ^ { Q } Q _ { 4 } L _ { i } D _ { j } ^ { c } } } \\ { { } } & { { } } & { { + \lambda _ { i j } ^ { D } Q _ { i } L _ { j } D _ { 4 } ^ { c } + \lambda _ { i } ^ { Q D } Q _ { 4 } L _ { i } D _ { 4 } ^ { c } + \lambda _ { i } ^ { H } Q _ { H } L _ { i } U _ { H } ^ { c } . } } \end{array}
+$$
+
+where $\boldsymbol { L } _ { i }$ ， $Q _ { i }$ ， $E _ { i } ^ { \mathrm { { \scriptscriptstyle T } } c }$ ， $D _ { i } ^ { c }$ ， $U _ { i } ^ { c }$ , i=1-3,are the first three generation $S U ( 2 ) _ { L }$ doublet leptons, doublet quarks, singlet charged leptons, singlet down-type quarks and singlet up-type quarks, respectively. $H _ { u }$ and $H _ { d }$ are the up-type and down-type Higgs. Note that the term $Q _ { H } H _ { u } D _ { H } ^ { c }$ in $\mathcal { W } _ { 0 }$ was missed in Ref. [4].1 And in $\mathcal { W } _ { \mathit { \mathbb { L } } }$ interactions of purely singlets are omitted, which are irrelevant to our study.
+
+By assuming universality of the mass-squared terms, the alignment of the $B$ terms the soft mass terms and the trilinear soft terms of all fermion's superpartners in the model are
+
+$$
+\begin{array} { r l }  \mathcal { L } \supset { M ^ { 2 } \tilde { L } _ { i } ^ { \dagger } \tilde { L } _ { i } + M ^ { 2 } H _ { d } ^ { \dagger } H _ { d } } + { M _ { h } ^ { 2 } H _ { u } ^ { \dagger } H _ { u } } + { M _ { E } ^ { 2 } \tilde { E } _ { m } ^ { \mathrm { c } \dagger } \tilde { E } _ { m } ^ { \mathrm { c } } + M _ { Q } ^ { 2 } \tilde { Q } _ { m } ^ { \dagger } \tilde { Q } _ { m } + M _ { U } ^ { 2 } \tilde { U } _ { m } ^ { \mathrm { c } \dagger } \tilde { U } _ { m } ^ { \mathrm { c } } } & { { } } \\ { \quad } & { { + M _ { D } ^ { 2 } \tilde { D } _ { m } ^ { \mathrm { c } \dagger } \tilde { D } _ { m } ^ { c } + M _ { E H } ^ { 2 } \tilde { E } _ { H } ^ { \mathrm { c } * } \tilde { E } _ { H } ^ { \mathrm { c } } + M _ { Q H } ^ { 2 } \tilde { Q } _ { H } ^ { \dagger } \tilde { Q } _ { H } + M _ { U H } ^ { 2 } \tilde { U } _ { H } ^ { \mathrm { c } * } \tilde { U } _ { H } ^ { \mathrm { c } } + M _ { D H } ^ { 2 } \tilde { D } _ { H } ^ { \mathrm { c } * } \tilde { D } _ { H } ^ { c } } } \\ { \quad } & { { + ( B \mu H _ { d } H _ { u } + B ^ { e } \mu ^ { e } \tilde { E } _ { 4 } ^ { c } \tilde { E } _ { H } ^ { c } + B ^ { Q } \mu ^ { Q } \tilde { Q } _ { 4 } \tilde { Q } _ { H } + B ^ { U } \mu ^ { U } \tilde { U } _ { 4 } ^ { c } \tilde { U } _ { H } ^ { c } + B ^ { D } \mu ^ { D } \tilde { D } _ { 4 } ^ { c } \tilde { D } _ { H } ^ { c } + B ^ { D } \mu ^ { D } \tilde { D } _ { 4 } ^ { c } \tilde { D } _ { H } ^ { c } + B ^ { D } \mu ^ { D } \tilde { D } _ { 4 } ^ { c } \tilde { D } _ { H } ^ { c } } } \end{array}
+$$
+
+Proper values of the new $B ^ { Q , U , D } \mu ^ { Q , U , D }$ terms are set to avoid unwanted color symmetry and purely $U ( 1 ) _ { Y }$ symmetry breaking,see Eq. (11,12) in paper [4], therefore EWSB in our model is just the same as in MSSM. After EWSB, the specific fermion mass matrixes and sfermion mass-squared matrixes are given in Appendix A.
+
+# III. NEUTRINO MASSES AND MIXINGS
+
+LPV results in nonvanishing neutrino masses. In this model, in addition to traditional Rparity violation in the MSSM, a lot more bilinear and trilinear LPV interactions are brought in through the vector-like generation. In this work, the trilinear R-parity violating interactions wil be studied. To avoid complication due to too many LPV sources, sneutrino VEVs will not be considered. There are several reasons for this.First，we can phenomenologically assume the universality of the soft SUSY breaking mass terms at the weak scale, to avoid dangerously large flavor changing neutral currents (FCNCs)， without considering any UV completion of the model. In that case, because of the alighnment in bilinear terms of the superpotential and that of soft terms, R-parity violating bilinear terms can be rotated away via field redefinition,and sneutrino vacuum expectation values (VEVs) vanish in the physical basis. The second reason is from consideration of underlying models. SUSY breaking is introduced effectively in our model, it can result from gauge mediated SUSY breaking. Then the messenger scale can be as low as 1Oo TeV, even if the universality scale is at the SUSY breaking messenger scale, the running effect is small, and the bilinear LPV is not important compared to the trilinear ones. Finally, small sneutrino VEVs can be included in the analysis nevertheless in future works,after the role of new trilinear LPV interactions gets a thorough understanding.
+
+The trilinear LPV Lagrangian relevant to neutrino masses is from $\mathcal { W } _ { \sharp }$
+
+$$
+\begin{array} { r l } & { \mathcal { L } \subset - \lambda _ { i j k } ( \tilde { l } _ { k R } ^ { * } \bar { \nu } _ { i R } ^ { c } l _ { j L } + \tilde { l } _ { j L } \bar { l } _ { k R } \nu _ { i L } ) - \lambda _ { i j k } ^ { \prime } ( \tilde { d } _ { k R } ^ { * } \bar { \nu } _ { i R } ^ { c } d _ { j L } + \tilde { d } _ { j L } \bar { d } _ { k R } \nu _ { i L } ) } \\ & { \quad \quad - \lambda _ { i j } ^ { E } ( \tilde { E } _ { 4 } ^ { c } \bar { \nu } _ { i R } ^ { c } l _ { j L } + \tilde { l } _ { j L } { E } _ { 4 } ^ { c T } \nu _ { i L } ) - \lambda _ { i j } ^ { Q } ( \tilde { d } _ { k R } ^ { * } \bar { \nu } _ { i R } ^ { c } Q _ { 4 } + \tilde { Q } _ { 4 } \bar { d } _ { k R } \nu _ { i L } ) } \\ & { \quad \quad - \lambda _ { i j } ^ { D } ( \tilde { D } _ { 4 } ^ { c } \bar { \nu } _ { i R } ^ { c } d _ { j L } + \tilde { d } _ { j L } \bar { D } _ { 4 } ^ { c T } \nu _ { i L } ) - \lambda _ { i } ^ { Q D } ( \tilde { D } _ { 4 } ^ { c } \bar { \nu } _ { i R } ^ { c } Q _ { 4 } + \tilde { Q } _ { 4 } \bar { D } _ { 4 } ^ { c T } \nu _ { i L } ) } \\ & { \quad \quad - \lambda _ { i } ^ { H } ( \tilde { U } _ { H } ^ { c } \bar { \nu } _ { i R } ^ { c } Q _ { H } + \tilde { Q } _ { H } \bar { U } _ { H } ^ { c T } \nu _ { i L } ) + \mathrm { h . c . } . } \end{array}
+$$
+
+where $\bar { \nu } _ { i R } ^ { c }$ stands for the left-hand neutrino.
+
+The 7 types of trilinear LPV interactions in the above equation induce 14 types of one-loop diagrams contributing to the neutrino spectrum, which are proportional to $\lambda \lambda , \ \lambda ^ { \prime } \lambda ^ { \prime }$ ， $\lambda ^ { E } \lambda ^ { E }$ ， （20 $\lambda \lambda ^ { E } , \lambda ^ { Q } \lambda ^ { Q } , \lambda ^ { Q } \lambda ^ { D } , \lambda ^ { D } \lambda ^ { D } , \lambda ^ { H } \lambda ^ { H } , \lambda ^ { Q D } \lambda ^ { Q D } , \lambda ^ { \prime } \lambda ^ { Q } , \lambda ^ { \prime } \lambda ^ { D } , \lambda ^ { \prime } \lambda ^ { Q D } , \lambda ^ { Q } \lambda ^ { Q D } , \lambda ^ { D } \lambda ^ { Q D } ,$ $\lambda ^ { D } \lambda ^ { Q D }$ ,respectively. The Feynman diagrams and the corresponding analytical results are shown in Fig. 1 in Appendix B. For simplicity and without losing our purpose, in the Yukawa interactions of （204号 ${ \cal { W } } _ { 0 }$ we assume that only $y ^ { E } , y ^ { Q ^ { \prime } } , y ^ { Q ^ { \prime } } , y ^ { D } , y ^ { U } , y ^ { H } , y ^ { H ^ { \prime } }$ are nonvanishing,that is vector-like particles have Yukawa interactions only with the third generation. Thus,the vector-like generation has little constraints from the collider phenomenology.
+
+Before starting to analyze the neutrino mass spectrum， some assumptions are introduced in order to control the parameter space and get relatively simple analytical result. Since four new up-type Higgs Yukawa couplings $y ^ { U }$ ， $y ^ { Q }$ ， $y ^ { Q U }$ ， $y ^ { H ^ { \prime } }$ and five new downtype Higgs Yukawa couplings $y ^ { E } , ~ y ^ { D } , ~ y ^ { Q ^ { \prime } } , ~ y ^ { Q D } , ~ $ $y ^ { H }$ appear in our model, and among which $y ^ { Q D } , \ y ^ { Q U } , \ y ^ { H } , \ y ^ { E }$ $y ^ { H ^ { \prime } }$ provide the mass mixings between vector-like generations, and further more, they have infrared quasi-fixed point [5],so we assume $y ^ { Q D } = y ^ { H } = 0$ and （20 $y ^ { Q U } \sim y ^ { H ^ { \prime } } \equiv y _ { V } ^ { t } \leq 1$ . We also set $y ^ { D } = y ^ { Q ^ { \prime } } = 0$ ， $y ^ { E } < 0 . 0 4$ and $y ^ { U } \sim y ^ { Q } \equiv y _ { 3 4 } ^ { t } \leq 0 . 0 8$ In other words, we neglect all new down-type Higgs Yukawa couplings in quark sectors while consider all of the new up-type Higgs Yukawa couplings only and take $y _ { 3 4 } ^ { t } \ll y _ { V } ^ { t }$ , which is a reasonable assumption.
+
+Basing on the above assumptions, contributions from $\lambda \lambda$ ， $\lambda ^ { \prime } \lambda ^ { \prime }$ type diagrams can be
+
+simplified to the familiar forms [12-14]
+
+$$
+\begin{array} { l } { { { \cal M } _ { i j } ^ { \nu } | _ { \lambda \lambda } \ \simeq \ \displaystyle \frac { 1 } { 8 \pi ^ { 2 } } \lambda _ { i 3 3 } \lambda _ { j 3 3 } m _ { \tau } \sin { \alpha _ { \tilde { \tau } } } \cos { \alpha _ { \tilde { \tau } } } \ln { \frac { \tilde { \tau } _ { R } } { \tilde { \tau } _ { L } } } , } } \\ { { { \cal M } _ { i j } ^ { \nu } | _ { \lambda ^ { \prime } \lambda ^ { \prime } } \ \simeq \ \displaystyle \frac { 3 } { 8 \pi ^ { 2 } } ( \lambda _ { i 3 3 } ^ { \prime } \lambda _ { j 3 3 } ^ { \prime } m _ { b } \sin { \alpha _ { \tilde { b } } } \cos { \alpha _ { \tilde { b } } } \ln { \frac { \tilde { b } _ { R } } { \tilde { b } _ { L } } } + \lambda _ { i 2 3 } ^ { \prime } \lambda _ { j 3 2 } ^ { \prime } m _ { s } \sin { \alpha _ { \tilde { b } } } \cos { \alpha _ { \tilde { b } } } \ln { \frac { \tilde { b } _ { R } } { \tilde { b } _ { L } } } } } \\ { { \quad \quad \ + \lambda _ { i 3 2 } ^ { \prime } \lambda _ { j 2 3 } ^ { \prime } m _ { b } \sin { \alpha _ { \tilde { s } } } \cos { \alpha _ { \tilde { s } } } \ln { \frac { \tilde { s } _ { R } } { \tilde { s } _ { L } } } ) , } } \end{array}
+$$
+
+where in the first equation，we only keep the dominant contributions and in the second equation，we keep the dominant and subdominant ones. $\alpha _ { \tau }$ ， $\alpha _ { b }$ ， $\alpha _ { s }$ ， $\alpha _ { t }$ are the angles of the corresponding 2 $\times$ 2 $\tilde { \tau } _ { L ( R ) } , \tilde { b } _ { L ( R ) } , \tilde { s } _ { L ( R ) } , \tilde { t } _ { L ( R ) }$ unitary matrices. Unfortunately, the other equations, (B3)-(B14) in Appendix B,can not be simplified by folowing similar process because there are mixings between different vector-like generations. So these can only be analyzed numerically and will be discussed later.
+
+At last, without loss of generality, among all 7 types of LPV trilinear couplings, we take 4 of them, $\lambda ^ { E }$ ， $\lambda ^ { D }$ ， $\lambda ^ { Q }$ and $\lambda ^ { H }$ , for consideration while assuming the rest of them, $\lambda$ ， $\lambda ^ { ' }$ and （20 $\lambda ^ { Q D }$ ,are negligible.The realization through different LPV trilinear coupling combinations can be derived straightforwardly. The method to calculate the neutrino mass matrix we use is given in Appendix C.
+
+Here we list the parameters of neutrino oscillation given by experiments, $\Delta m _ { 2 1 } ^ { 2 } = ( 7 . 5 9 \pm$ $0 . 2 1 ) \times 1 0 ^ { - 5 } ~ \mathrm { e V }$ 2’ $\Delta m _ { 3 2 } ^ { 2 } = ( 2 . 4 3 \pm 0 . 1 3 ) \times 1 0 ^ { - 3 } ~ \mathrm { e V ^ { 2 } }$ and $\sin ^ { 2 } 2 \theta _ { 1 2 } = 0 . 8 6 1 _ { - 0 . 0 2 2 } ^ { + 0 . 0 2 6 }$ ， $\sin ^ { 2 } 2 \theta _ { 2 3 } >$ （20 0.92, $\sin ^ { 2 } 2 \theta _ { 1 3 } = 0 . 0 8 8 \pm 0 . 0 0 8$ . Scanning the parameter space with proper EWSB, we find by adjusting the ratios and values of the LPV trilinear couplings we choosing, the correct neutrino spectrum can be generated through the $\lambda ^ { E } \lambda ^ { E }$ ， $\lambda ^ { D } \lambda ^ { Q }$ and $\lambda ^ { H } \lambda ^ { H }$ type one-loop diagrams. Numerical illustration is shown in Table I, in Set I we take the mass mixings assumptions mentioned before,in Set II we take different mass mixings and bigger vectorlike masses for comparison. The specific parameters settings see Appendix C.
+
+That is by choosing (for Set I)
+
+$$
+\begin{array} { c } { { \frac { \stackrel { \ O } { 1 3 } } { \stackrel { \wedge } { 2 } } \sim 0 . 2 5 ~ , ~ \frac { \lambda _ { 3 3 } ^ { Q } } { \lambda _ { 2 3 } ^ { Q } } \sim 1 . 4 ~ , ~ \lambda _ { 2 3 } ^ { Q } \sim 2 . 1 \times 1 0 ^ { - 6 } ~ , ~ \lambda _ { 1 3 } ^ { Q } \sim \lambda _ { 1 3 } ^ { D } ~ , ~ \lambda _ { 2 3 } ^ { Q } \sim \lambda _ { 2 3 } ^ { D } ~ , ~ \lambda _ { 3 3 } ^ { Q } \sim \lambda _ { 3 3 } ^ { D } ~ , } } \\ { { { } } } \\ { { \frac { \lambda _ { 1 } ^ { H } } { \lambda _ { 2 } ^ { H } } \sim 1 . 4 ~ , \frac { \lambda _ { 3 } ^ { H } } { \lambda _ { 2 } ^ { H } } \sim 1 ~ , ~ \lambda _ { 2 } ^ { H } \sim \lambda _ { 2 3 } ^ { Q } ~ , ~ \lambda _ { 1 3 } ^ { E } \sim \lambda _ { 2 3 } ^ { E } \sim \lambda _ { 3 3 } ^ { E } \sim \lambda _ { 2 3 } ^ { Q } ~ , } } \end{array}
+$$
+
+we have
+
+$$
+\begin{array} { r } { \frac { m _ { \nu 2 } } { m _ { \nu 3 } } \sim 0 . 1 7 , m _ { \nu 2 } \sim 5 . 9 \times 1 0 ^ { - 4 } \mathrm { e V } , m _ { \nu 1 } \sim 5 . 1 \times 1 0 ^ { - 6 } \mathrm { e V } , } \\ { \sin { \theta _ { 1 3 } } \sim 0 . 1 4 3 , \sin { \theta _ { 2 3 } } \sim 0 . 5 8 1 , \sin { \theta _ { 1 2 } } \sim 0 . 5 5 9 . \qquad } \end{array}
+$$
+
+<html><body><table><tr><td></td><td>M1入</td><td>My1B入8</td><td>Mylx品入</td><td>My1818</td><td>MlxX</td></tr><tr><td>Set I</td><td>0.0043</td><td>0.238</td><td>0</td><td>0</td><td>0.08</td></tr><tr><td>Set II</td><td>0.0027</td><td>0.168</td><td>0.004</td><td>0.003</td><td>0.011</td></tr></table></body></html>
+
+TABLE I: Numerical ilustration for 5 types of one-loop contributions in our model ,the specific parameter settings see Appendix B. $M _ { i j } ^ { \nu }$ (GeV） stands for the parts in Eq. (4,5) excepting the LPV trilinear coupling constants.
+
+Unlike in the 3G LPVcase, where $\lambda _ { i 3 3 } ^ { \prime } \lambda _ { j 3 3 } ^ { \prime }$ ， $\lambda _ { i 2 3 } ^ { \prime } \lambda _ { j 3 2 } ^ { \prime } + \lambda _ { i 3 2 } ^ { \prime } \lambda _ { j 2 3 } ^ { \prime }$ and $\lambda _ { i 3 3 } \lambda _ { j 3 3 }$ type one-loop contributions are dominant, subdominant and next-to-subdominant,here in our model, under the assumptions mentioned before, $\lambda _ { i 3 } ^ { Q } \lambda _ { j 3 } ^ { D }$ ， $\lambda _ { i } ^ { H } \lambda _ { j } ^ { H }$ and $\lambda _ { i 3 } ^ { E } \lambda _ { j 3 } ^ { E }$ type one-loop contributions are dominant, subdominant and next-to-subdominant, respectively. This is because the new fermions $\tau _ { 1 }$ $, \ t _ { 1 , 2 } , \ b _ { 1 , 2 }$ in the internal lines,see Fig. 1,are much heavier than the third generation fermions $\tau , \ t , \ b$ ：
+
+![](images/3f7406c2e9cb9388221fa577c69d016efc7fb595df1b430b472b494f96ebe682.jpg)  
+FIG.1: New one-loop contributions to the the neutrino masses and mixings from $\lambda ^ { E } \lambda ^ { E }$ ， $\lambda ^ { Q } \lambda ^ { D }$ （204 and $\lambda ^ { H } \lambda ^ { H }$ type couplings. All particles stay in mass eigenstates.
+
+For the same reason, our requirements of the new LPV couplings we choose are of order （204 $1 0 ^ { - 6 }$ and small enough to avoid measurable FCNC decays such as $\mu \to e \gamma$ [15]. It worth to note that by decoupling the vector-like generation, correct neutrino masses and mixings cannot be obtained via $\lambda \lambda$ ， $\lambda ^ { \prime } \lambda ^ { \prime }$ type one-loop contributions.
+
+In addition, $\lambda ^ { H } \lambda ^ { H }$ type contribution containing up-type (s)quarks in the internal lines is absent in 3G LPV models because the vector-like down-type doublet quark $Q _ { H } ^ { b }$ mixe with the right hand singlet top quark.
+
+From Table I, we can alsoseethat bychosing $\lambda _ { i 3 } ^ { Q } \lambda _ { j 3 } ^ { D }$ ， ${ \lambda } _ { i 3 } ^ { Q } { \lambda } _ { j 3 } ^ { Q }$ and $\lambda _ { i 3 } ^ { D } \lambda _ { j 3 } ^ { D }$ type one-loop contributions, the correct neutrino spectrum can also been generated in parameters Set II, we don't list the detailed results here.
+
+# IV. HIGGS MASS
+
+There are four new up-type Higgs Yukawa couplings in our model, $y ^ { U } , \ y ^ { Q } , \ y ^ { Q U } , \ y ^ { H ^ { \prime } }$ ， corresponding to the Yukawa mass, $m _ { 3 4 } ^ { t }$ ， $m _ { 4 3 } ^ { t }$ ， $m _ { 4 4 } ^ { t }$ ， $m _ { H } ^ { b }$ ， separately， and also five new down-type Higgs Yukawa couplings, $y ^ { E } , ~ y ^ { D } , ~ y ^ { Q ^ { \prime } } , ~ y ^ { Q D } , ~ y ^ { H }$ ， corresponding to the Yukawa mass, $m _ { 3 4 } ^ { \tau }$ ， $m _ { 3 4 } ^ { b }$ ， $m _ { 4 3 } ^ { b }$ ， $m _ { 4 4 } ^ { b }$ ， $m _ { H } ^ { t }$ , separately. The related superpotential contributing to the lightest scalar Higgs mass is shown in ${ \mathcal { W } } _ { 0 }$ . According to the assumptions mentioned in the last section, we neglect the down-type Higgs Yukawa contributions and the small up-type contributions between the SM third generations and the extra vector-like generations. The relevant superpotential can be simplified as
+
+$$
+{ \mathcal W } = \mu ^ { Q } Q _ { 4 } Q _ { H } + \mu ^ { D } D _ { 4 } ^ { c } D _ { H } ^ { c } + y ^ { H ^ { \prime } } Q _ { H } H _ { u } D _ { H } ^ { c } + y ^ { Q U } Q _ { 4 } H _ { u } U _ { 4 } ^ { c } ,
+$$
+
+So when neglecting the small D-term and the two-loop contribution, the new one-loop contribution to the lightest scalar Higgs square-mass is [5, 16]
+
+$$
+\triangle m _ { h } ^ { 2 } = \frac { 3 \times 2 } { 4 \pi ^ { 2 } } \ ( y _ { V } ^ { t } ) ^ { 4 } \ v ^ { 2 } \sin ^ { 4 } \beta \ [ t _ { V } - \frac { 1 } { 6 } ( 5 - \frac { 1 } { x } ) ( 1 - \frac { 1 } { x } ) + 2 \frac { X _ { V } ^ { 2 } } { M _ { S } ^ { 2 } } ( 1 - \frac { 1 } { 3 x } ) ] ,
+$$
+
+where $v = 1 7 4 \mathrm { G e v }$ indicates the Higgs VEV and
+
+$$
+\begin{array} { c } { { y ^ { H ^ { \prime } } = y ^ { Q U } \equiv y _ { V } ^ { t } \ , \ { x } = M _ { S } ^ { 2 } / M _ { V } ^ { 2 } \ , \ t _ { V } = \log \displaystyle \frac { M _ { S } ^ { 2 } } { M _ { V } ^ { 2 } } \ , } } \\ { { \displaystyle \left( A _ { H ^ { \prime } } - \mu _ { H ^ { \prime } } \cot \beta \right) ^ { 2 } = \left( A _ { Q U } - \mu _ { Q U } \cot \beta \right) ^ { 2 } = \left( A _ { V } - \mu _ { V } \cot \beta \right) ^ { 2 } \equiv X _ { V } ^ { 2 } , } } \end{array}
+$$
+
+in which, for simplicity, $\mu ^ { Q } = \mu ^ { D } \equiv M _ { V }$ stands for the vector-like mass of the new up-type quarks, $M _ { Q } ^ { 2 } = M _ { D } ^ { 2 } \equiv m ^ { 2 }$ (see Eq.(4)） and $M _ { S } = \sqrt { M _ { V } ^ { 2 } + m ^ { 2 } }$ stands for average mass of the new up-type squarks.
+
+In MSSM, the Higgs mass from the $t , \ \tilde { t }$ one-loop contributions is about 110 GeV, for $A ^ { t } = \mu = 4 0 0$ GeV, $m _ { \tilde { t } } = 4 0 0$ GeV and $\tan \beta \ = \ 1 0$ .Direct search bounds from CMS for exotic heavy top-like quark set limits of $M _ { t ^ { \prime } } > 5 5 7$ GeV if $B ( t ^ { \prime }  W b ) = 1$ [17] and （204号 $M _ { t ^ { \prime } } > 4 7 5$ GeV if $B ( t ^ { \prime }  Z t ) = 1$ [18]. When considering the mass mixing between the vector-like quarks and the SM third generation quarks, in other words,considering the realistic branch ratios, the mass limit is adjust to be $M _ { t ^ { \prime } } > 4 1 5$ GeV [19, 20]. So if we set the vector-like fermion masses in our model to be $M _ { V } \sim 5 0 0$ GeV, the soft supersymmetrybreaking parameters to be $m \sim 7 0 0$ GeV, $A _ { V } = \mu _ { V } \sim 5 0 0 \mathrm { G e V }$ and $B _ { V } \mu _ { V } \sim 5 0 0 ^ { 2 } ~ \mathrm { G e V ^ { 2 } }$ , then from Eq. (10), in order to get approximately 125 GeV Higgs mass, for about $M _ { V } = 5 0 0$ GeV and $M _ { S } = 8 5 0$ GeV, we just need to set $y _ { V } ^ { t } \sim 1$ , or say, need to set $m _ { 4 4 } ^ { t } = m _ { H } ^ { b } \equiv m _ { V } ^ { t } \sim 1 7 4$ （204号 GeV. These values are just near their infrared quasi-fix point, as mentioned in last section.
+
+Evoked by the ATLAS and CMS discovery of the enhancement in $\gamma \gamma$ channel and little deviation in ZZ channel [22, 23], the effects of the exotic vector-like quarks to the Higgs production and decay have been extensively studied recently [21]. In general, in a theory with $N$ vector-like generations extension, the new fermion contributions are suppressed by $N ^ { 2 } m _ { V } ^ { t 2 } / M _ { V } ^ { 2 }$ [21, 24]. So only the very large couplings to the Higgs can obviously enhance the Higgs production and decay in the $\gamma \gamma$ channel [21],but as we have mentioned, these couplings have quasi-fix point which limits their TeV values to be about 1 [5]. This value is large enough to accommodate $m _ { h } \sim 1 2 5$ GeV, but too small to influence the Higgs decay, one can't depend on vector-like fermions by themselves to modify the Higgs decay branching ratios. As far as the Higgs problem to be concerned, extra vector-like fermions are mainly introduced to adjust the Higgs mass. However， the $\gamma \gamma$ and ZZ channel anomaly, if they persist, can be realized through the light stop scenario [25], which beyond our scope in this paper.
+
+# V. THEEXTRA VECTOR-LIKEFERMIONDECAYS
+
+To be clear, we list the new extra vector-like fermions below:
+
+$$
+\Psi _ { E } = \left( \begin{array} { c } { { E _ { H } ^ { c } } } \\ { { \bar { E } _ { 4 } ^ { c } } } \end{array} \right) , \Psi _ { Q } = \left( \begin{array} { c } { { Q _ { 4 } ^ { t , b } } } \\ { { \bar { Q } _ { H } ^ { t , b } } } \end{array} \right) , \Psi _ { U } = \left( \begin{array} { c } { { U _ { 4 } ^ { c } } } \\ { { U _ { H } } } \end{array} \right) , \Psi _ { D } = \left( \begin{array} { c } { { D _ { 4 } ^ { c } } } \\ { { D _ { H } } } \end{array} \right) ,
+$$
+
+in which $E _ { H } ^ { c }$ mixes with $\tau _ { L }$ $E _ { 4 } ^ { c }$ mixes with $\tau _ { R }$ $Q _ { 4 } ^ { b } , D _ { H } ^ { c }$ mixes with $b _ { L }$ $D _ { 4 } ^ { c } , Q _ { H } ^ { t }$ mixes with （204 $b _ { R }$ ， $Q _ { 4 } ^ { t } ; U _ { H } ^ { c }$ mixes with $t _ { L }$ ， $U _ { 4 } ^ { c } , Q _ { H } ^ { b }$ mixes with $t _ { R }$ . These exotic heavy fermions can decay into SM bosons,see Fig. 2, which will analyze bellow. Our analysis agree with the results given in [5]. However the slightly difference comes from their neglect of the contributions proportional to $s _ { W } ^ { 2 }$ in the vertex of Feynman rules.
+
+Note that theoretically speaking， when kinematically allowed, the exotic fermions predicted in our model have the other two decay modes: through supersymmetric gauge kinetic interactions or the supersymmetric Yukawa interactions, decay into chargino/neutralino and sfermions, such as $\tau _ { 1 }  \tilde { C } ^ { + } \tilde { \nu _ { \tau } }$ ， $b _ { 1 }  \tilde { N _ { i } { b } }$ ， $t _ { 1 } \to \dot { C } ^ { - } \ddot { b }$ ，where $\tilde { N _ { i } }$ , i=1-4, is neutralino, $\tilde { C } ^ { \pm }$ is chargino; through LPV interactions, see Eq. (2), decay into fermions and sfermions, such as （204号 $\tau _ { 1 } \to e \tilde { \mu }$ ， $b _ { 1 }  \tilde { \tau } t$ ， $t _ { 1 }  \tilde { e } b$ . Although the kinematical conditions for the latter decay mode are easy to be satisfied, but we have already seen in section III, the LPV couplings in our model, in order to explain the neutrino spectrum, are of order $1 0 ^ { - 6 }$ ， so we can neglect this kind of decay channels reasonably. On the other hand, for simplicity here in our work, we assume the former decay mode is not kinematically allowed. Therefore,the exotic fermions can only decay into SM bosons.
+
+![](images/ae210f3783551926c183b7942081f31c53df70b2e96710b0df3ba00a673c4868.jpg)  
+FIG. 2: Tree-level decay of new exotic fermions in our model, all fermions stay in mass eigenstates.
+
+A． $\tau _ { 1 }$ decays
+
+The weak bosons interaction Lagrangian to $\tau , \ \tau _ { 1 }$ is
+
+$$
+\begin{array} { r l } { \mathcal { L } \supset } & { g _ { \bar { \tau } _ { 1 L } \nu _ { \tau } } ^ { W } \bar { \tau } _ { 1 L } \gamma ^ { \mu } \nu _ { \tau L } W _ { \mu } ^ { - } + g _ { \bar { \tau } _ { 1 L } \tau _ { L } } ^ { Z } \bar { \tau } _ { 1 L } \gamma ^ { \mu } \tau _ { L } Z _ { \mu } + g _ { \bar { \tau } _ { 1 R } \tau _ { R } } ^ { Z } \bar { \tau } _ { 1 R } \gamma ^ { \mu } \tau _ { R } Z _ { \mu } } \\ & { + g _ { \bar { \tau } _ { 1 L } \tau _ { R } } ^ { h ^ { 0 } } \bar { \tau } _ { 1 L } \tau _ { R } h ^ { 0 } + g _ { \bar { \tau } _ { L } \tau _ { 1 R } } ^ { h ^ { 0 } } \bar { \tau } _ { L } \tau _ { 1 R } h ^ { 0 } + \mathrm { h . c . } , } \end{array}
+$$
+
+the couplings and the decay widths of $\tau _ { 1 }$ are given in Appendix D
+
+The main characteristic of the lepton sector is that there must be mass mixing between the third and the vector-like lepton， otherwise the new heavy charged leptons $\tau _ { 1 }$ will be stable and give unacceptable cosmological heavy relic [26]. For Specific, when $y ^ { E } = 0$ ，the off-diagonal elements of $L ^ { \tau }$ ， $R ^ { \tau }$ are equal to zero. That's why we set $y ^ { E } \ne 0$ in section I while discussing neutrino spectrum， more specifically, we set $y ^ { E } \leq 0 . 0 4$ .Under these parameters settings, numerical results of $\tau _ { 1 }$ decay into $W , Z , h ^ { 0 }$ are shown in Fig. 3, we can see in the limit of large $m _ { \tau _ { 1 } }$ ，the branching rations are $\mathrm { B R } ( \tau _ { 1 }  \mathrm { W } \nu _ { \tau } ) \sim 0 . 7$ and $\mathrm { B R } ( \tau _ { 1 }  \mathrm { Z } \tau ) = \mathrm { B R } ( \tau _ { 1 }  \mathrm { h } \tau ) \sim 0 . 1 5$ ：
+
+![](images/07ed5715b56ce640bd08824e71328568a032a5d557995ff6228364e23618b5c1.jpg)  
+FIG. 3: The decay widths of the new lepton $\tau _ { 1 }$ (left panel) and its branching ratios (right panel) with $y ^ { E } = 0 . 0 4$
+
+# B． $t _ { 1 , 2 }$ decays
+
+The weak bosons interaction Lagrangian to $t , \ t _ { 1 }$ ， $t _ { 2 }$ is
+
+$$
+\begin{array} { r l } { \dot { \ z } \supset } & { g _ { t _ { 1 . L b } } ^ { W } \bar { t } _ { 1 . L } \gamma ^ { \mu } b _ { L } W _ { \mu } ^ { - } + g _ { t _ { 2 . L b } } ^ { W } \bar { t } _ { 2 . L } \gamma ^ { \mu } b _ { L } W _ { \mu } ^ { - } + g _ { t _ { 1 . L b } } ^ { W } \bar { t } _ { 1 . R } \gamma ^ { \mu } b _ { R } W _ { \mu } ^ { - } + g _ { t _ { 2 R b } } ^ { W } \bar { t } _ { 2 . R } \gamma ^ { \mu } b _ { R } \gamma } \\ & { g _ { t _ { 2 . L b } _ { L } } ^ { W } \bar { t } _ { 2 . L } \gamma ^ { \mu } b _ { 1 L } W _ { \mu } ^ { - } + g _ { t _ { 2 . L b } } ^ { W } \bar { t } _ { 2 . R } \gamma ^ { \mu } b _ { 1 R } W _ { \mu } ^ { - } + g _ { t _ { 1 . L } t _ { L } } ^ { Z } \bar { t } _ { 1 . L } \gamma ^ { \mu } t _ { L } Z _ { \mu } + g _ { t _ { 2 . L t _ { L } } } ^ { Z } \bar { t } _ { 2 . L } \gamma ^ { \mu } t _ { L } } \\ & { + g _ { t _ { 2 . L } t _ { 1 . L } } ^ { Z } \bar { t } _ { 2 . L } \gamma ^ { \mu } t _ { 1 L } Z _ { \mu } + g _ { t _ { 1 . R } t _ { n } } ^ { Z } \bar { t } _ { 1 R } \gamma ^ { \mu } t _ { R } Z _ { \mu } + g _ { t _ { 2 . R } t _ { n } } ^ { Z } \bar { t } _ { 2 . R } \gamma ^ { \mu } t _ { R } Z _ { \mu } + g _ { t _ { 2 . R } t _ { 1 } n } ^ { Z } \bar { t } _ { 2 . R } \gamma ^ { \mu } t _ { 1 R } } \\ & { + g _ { t _ { 1 . L } t _ { R } } ^ { b } \bar { t } _ { 1 . L } t _ { R } h ^ { 0 } + g _ { t _ { 2 . L b } } ^ { b 0 } \bar { t } _ { L } t _ { 1 R } h ^ { 0 } + g _ { t _ { 2 . L b } } ^ { b 0 } \bar { t } _ { 2 . L } t _ { R } h ^ { 0 } + g _ { t _ { L } t _ { 2 . R } } ^ { b 0 } \bar { t } _ { L } t _ { 2 R } h ^ { 0 } } \\ & { + g _ { t _ { 2 . L } t _ { 1 . R } } ^ { b 0 } \bar { t } _ { 2 . L } t _ { 1 . R } h ^ { 0 } + g _ { t _ { 1 . L } t _ { 2 . R } } ^ { b 0 } \bar { t } _ { 1 . L } t _ { 2 . R } \gamma ^ { \mu } + \mathrm { h . c . } , } \end \end{array}
+$$
+
+the couplings and the decay widths of $\mathrm { t } _ { 1 , 2 }$ are given in Appendix D.
+
+As mentioned in section II, we take $y ^ { U } \sim y ^ { Q } \le 0 . 0 8$ ， $y ^ { Q U } \sim y ^ { H ^ { \prime } } \leq 1$ ， the numerical reasults are shown in Fig 4, 5. We can see in the limit of large $M _ { t _ { 1 , 2 } }$ , the branching rations of $t _ { 1 }$ are BR $( \mathrm { t } _ { 1 }  \mathrm { W b } ) \sim 0 . 4$ and $\mathrm { B R ( t _ { 1 } \to Z t ) ~ = ~ B R ( t _ { 1 } \to h ^ { 0 } t ) ~ \sim ~ 0 . 3 ~ }$ ， the branching rations of $t _ { 2 }$ are $\mathrm { B R } ( \mathrm { t } _ { 2 } \to \mathrm { W b } _ { 1 } ) \sim 0 . 8 5$ and $\mathrm { B R } ( \mathrm { t } _ { 2 }  \mathrm { Z t } _ { 1 } ) \sim 0 . 1 5$ ：
+
+![](images/2cd5b4949a070803732b85aa9e535a04c263903a87efae348eb353384d45bc56.jpg)  
+FIG. 4: The decay widths of the lightest new up-type quark $\mathrm { t } _ { 1 }$ (left panel) and its branching ratios (right panel) with $y ^ { Q D } = y ^ { H } = y ^ { D } = 0$ ， $y ^ { U } \sim y ^ { Q } = 0 . 0 8$ and $y ^ { Q U } \sim y ^ { H ^ { \prime } } = 1$ .
+
+![](images/03cc091e9547991e2741166680db653f983f249821436371375b8039b635c365.jpg)  
+FIG. 5: The decay widths of the heaviest new up-type quark $\mathrm { t _ { 2 } }$ (left panel) and its branching ratios (right panel) with $y ^ { Q D } = y ^ { H } = y ^ { D } = 0$ ， $y ^ { U } \sim y ^ { Q } = 0 . 0 8$ and $y ^ { Q U } \sim y ^ { H ^ { \prime } } = 0 . 9 8$ ：
+
+C. $b _ { 1 , 2 }$ decays
+
+The weak bosons interaction Lagrangian to $b , \ b _ { 1 }$ ， $b _ { 2 }$ is
+
+$$
+\begin{array} { r l } { \mathcal { L } \supset } & { g _ { b _ { 1 L } t _ { L } } ^ { W } \bar { b } _ { 1 L } \gamma ^ { \mu } t _ { L } W _ { \mu } ^ { - } + g _ { b _ { 2 L } t _ { L } } ^ { W } \bar { b } _ { 2 L } \gamma ^ { \mu } t _ { L } W _ { \mu } ^ { - } + g _ { b _ { 1 L } t _ { R } } ^ { W } \bar { b } _ { 1 R } \gamma ^ { \mu } t _ { R } W _ { \mu } ^ { - } + g _ { b _ { 2 R } t _ { R } } ^ { W } \bar { b } _ { 2 R } \gamma ^ { \mu } t _ { L } } \\ & { + g _ { b _ { 2 L } t _ { 1 L } } ^ { W } \bar { b } _ { 2 L } \gamma ^ { \mu } t _ { 1 L } W _ { \mu } ^ { - } + g _ { b _ { 2 R } t _ { R } } ^ { W } \bar { b } _ { 2 R } \gamma ^ { \mu } t _ { 1 R } W _ { \mu } ^ { - } + g _ { b _ { 1 L } b _ { L } } ^ { Z } \bar { b } _ { 1 L } \gamma ^ { \mu } b _ { L } Z _ { \mu } + g _ { b _ { 2 L } b _ { L } } ^ { Z } \bar { b } _ { 2 L } } \\ & { + g _ { b _ { 2 L } b _ { 1 L } } ^ { Z } \bar { b } _ { 2 L } \gamma ^ { \mu } b _ { 1 L } Z _ { \mu } + g _ { b _ { 1 L } b _ { R } } ^ { Z } \bar { b } _ { 1 R } \gamma ^ { \mu } b _ { R } Z _ { \mu } + g _ { b _ { 2 R } b _ { R } } ^ { Z } \bar { b } _ { 2 R } \gamma ^ { \mu } b _ { R } Z _ { \mu } + g _ { b _ { 2 R } b _ { 1 R } } ^ { Z } \bar { b } _ { 2 R } \gamma ^ { \mu } } \\ & { + g _ { b _ { 1 L } b _ { R } } ^ { n } \bar { b } _ { 1 L } b _ { R } h ^ { 0 } + g _ { b _ { 2 L } b _ { 1 R } } ^ { b } \bar { b } _ { L } b _ { 1 R } h ^ { 0 } + g _ { b _ { 2 L } b _ { R } } ^ { b ^ { 0 } } \bar { b } _ { 2 L } b _ { R } h ^ { 0 } + g _ { b _ { L } b _ { 2 R } } ^ { b ^ { 0 } } \bar { b } _ { L } b _ { 2 R } h ^ { 0 } } \\ & { + g _ { b _ { 2 L } b _ { 1 R } } ^ { n } \bar { b } _ { 2 L } b _ { 1 R } h ^ { 0 } + g _ { b _ { 1 L } b _ { 2 R } } ^ { b ^ { 0 } } \bar { b } _ { 1 L } b _ { 2 R } h ^ { 0 } + h . c . } \end{array}
+$$
+
+the couplings and the decay widths of $\mathrm { b } _ { 1 , 2 }$ are given in Appendix D
+
+![](images/bd5c11254e529d81357e3fc43d1275c4230843b730c47a0cd0ab05e70b22f62c.jpg)  
+FIG. 6: The decay widths of the heaviest new down-type quark $\mathrm { { b _ { 2 } } }$ (left panel) and its branching ratios (right panel) with $y ^ { Q D } = y ^ { H } = y ^ { D } = 0$ ， $y ^ { U } \sim y ^ { Q } = 0 . 0 8$ and $y ^ { Q U } \sim y ^ { H ^ { \prime } } = 0 . 9 8$
+
+The numerical results of $\mathrm { { b _ { 2 } } }$ decay widths and branching rations are shown in Fig. 6 under the parameter settings mentioned before, we can see BR $\mathrm { \Delta \ b _ { 2 }  W b _ { 1 } ) \sim 0 . 8 5 }$ and B $\mathrm { { \ R } ( \mathrm { { b } _ { 2 }  \mathrm { { Z b } _ { 1 } ) \sim 0 . 1 5 } } }$ . The branching rations of $\mathrm { b } _ { 1 }$ are $\mathrm { B R } ( \mathrm { b } _ { 1 }  \mathrm { W t } ) = 1$ which are not shown here.
+
+# VI. SUMMARY AND DISCUSSION
+
+We have studied several phenomenological aspects of the LPV MSSM model with a vectorlike extra generation: the neutrino spectrum, the Higgs mass and the LHC phenomenology of the new predicted fermions. The results are:
+
+· The correct neutrino masses and mixings, especially the relatively large $\theta _ { 1 3 }$ can be generated from trilinear LPV couplings. The new trilinear R-parity violating couplings make it easy to generate the proper value of $\theta _ { 1 3 }$ . These coupling constants need to be about 10-6.   
+· The two new up-type Higgs Yukawa couplings, $y ^ { H ^ { \prime } }$ and $y ^ { Q U }$ ， between the vector-like quarks and the SM third generation quarks, with values about 1 near to their infrared quasi-fixed point in TeV scale, can give rise to 125 GeV Higgs mass with no need of very heavy new superpartner.   
+· There are five new heavy fermions, $\tau _ { 1 }$ ， $\mathrm { t } _ { 1 , 2 }$ , b1,2 ， predicted in this model. They can only decay into SM bosons by some kinematic assumptions. The branching radio depend on the mass mixing between the vector-like fermions and the SM third generation fermions. These charged exotic fermions would be quasi-stable if such mass mixings are very small.
+
+Based on our previous work about bilinear LPV couplings, further research on the renormalization group (RG) of them is worthy to be studied in the future. There are also plenty of aspects to be further analyzed in the area of new fermion LHC phenomenology based on this model.
+
+# Acknowledgments
+
+We would like to thank Dr. Guang-Zhi Xu for a very helpful discussion. This work was supported in part by the National Natural Science Foundation of China under nos.11075193 and 10821504, and by the National Basic Research Program of China under Grant No. 2010CB833000.
+
+Because the CP violation is not considered in this paper, we have taken al the masses real. In this model, the mass matrix M of the third generation lepton and the vector-like lepton is given as following
+
+$$
+\mathcal { L } \supset - \left( \tau , E _ { H } ^ { c } \right) \mathcal { M } ^ { \tau } \left( { \tau ^ { c } } \atop { E _ { 4 } ^ { c } } \right) ,
+$$
+
+and
+
+$$
+\mathcal { M } ^ { l } = \left( { { m } _ { 3 3 } ^ { \tau } } ~ { { m } _ { 3 4 } ^ { \tau } } \right) ,
+$$
+
+$m _ { 3 3 } ^ { \tau } \equiv y _ { 3 3 } ^ { l } \frac { v } { \sqrt { 2 } } \cos \beta$ cos β and m34 = y $m _ { 3 4 } ^ { \tau } \equiv y _ { 3 } ^ { E } \frac { v } { \sqrt { 2 } } \cos \beta$ . Taking $| \mu ^ { E } | \gg | m _ { 3 4 } ^ { \tau } |$ , then the biunitary matrix to diagonalize $\mathcal { M } ^ { \tau }$ are
+
+$$
+L ^ { \tau * } { \mathcal M } ^ { \tau } R ^ { \tau \dagger } = ( m _ { \tau } , \ \mu ^ { E } ) \equiv \mathrm { d i a g } ( m _ { \tau } , \ m _ { \tau 1 } ) \ ,
+$$
+
+where
+
+$$
+L ^ { \tau } = \left( { { 1 \atop - \frac { m _ { 3 4 } ^ { \tau } } { \mu ^ { E } } } } { \frac { \frac { m _ { 3 4 } ^ { \tau } } { \mu ^ { E } } } { 1 } } \right) , R ^ { \tau } = \left( { 1 \atop - \frac { m _ { \tau } m _ { 3 4 } ^ { \tau } } { ( \mu ^ { E } ) ^ { 2 } } } { \frac { \frac { m _ { \tau } m _ { 3 4 } ^ { \tau } } { ( \mu ^ { E } ) ^ { 2 } } } { 1 } } \right) .
+$$
+
+The mass matrix $\mathcal { M } ^ { b }$ of the third generation down-quark and vector-like down-type quarks is given as following
+
+$$
+\mathcal { L } \supset - \left( b , Q _ { 4 } ^ { b } , D _ { H } ^ { c } \right) \mathcal { M } ^ { b } \left( \begin{array} { c } { { b ^ { c } } } \\ { { D _ { 4 } ^ { c } } } \\ { { Q _ { H } ^ { t } } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\mathcal { M } ^ { b } = \left( \begin{array} { l l l } { { m _ { 3 3 } ^ { b } \ m _ { 3 4 } ^ { b } } } & { { 0 } } \\ { { } } & { { } } \\ { { m _ { 4 3 } ^ { b } \ m _ { 4 4 } ^ { b } } } & { { \mu ^ { Q } } } \\ { { } } & { { } } & { { } } \\ { { 0 } } & { { \mu ^ { D } m _ { H } ^ { b } } } \end{array} \right) ,
+$$
+
+where $m _ { 3 3 } ^ { b } \equiv y _ { 3 3 } ^ { d } \frac { v } { \sqrt 2 } \cos \beta , m _ { 3 4 } ^ { b } \equiv y _ { 3 } ^ { D } \frac { v } { \sqrt 2 } \cos \beta , m _ { 4 3 } ^ { b } \equiv y _ { 3 } ^ { Q \prime } \frac { v } { \sqrt 2 } \cos \ b $ cos β and m44 = yQDU $m _ { 4 4 } ^ { b } \equiv y ^ { Q D } \frac { v } { \sqrt { 2 } } \cos \beta$ Taking that $| \mu ^ { Q } | \sim | \mu ^ { D } | \gg | m _ { 4 b } ^ { b } |$ ，|m44l， |m33l， $| m _ { 3 4 } ^ { b } |$ , then the biunitary matrix diagonalize $\mathcal { M } ^ { t }$ are
+
+$$
+L ^ { b * } { \mathcal { M } } ^ { b } R ^ { b \dagger } = ( m _ { b } , \ \mu ^ { Q } , \ \mu ^ { D } ) \equiv \mathrm { d i a g } ( m _ { b } , \ m _ { b 1 } , \ m _ { b 2 } ) \ ,
+$$
+
+where
+
+$$
+\begin{array} { r } { L ^ { b } = \left( \begin{array} { l l l } { 1 } & { 0 } & { - \frac { m _ { 3 4 } ^ { b } } { \mu ^ { D } } } \\ { 0 } & { 1 } & { \frac { \mu ^ { D } m _ { 4 4 } ^ { t } + \mu ^ { Q } m _ { H } ^ { b } } { ( \mu ^ { D } ) ^ { 2 } + ( \mu ^ { Q } ) ^ { 2 } - ( m _ { H } ^ { b } ) ^ { 2 } } } \\ { \frac { m _ { 3 4 } ^ { b } } { \mu ^ { D } } } & { \frac { ( m _ { H } ^ { b } ) ^ { 2 } + ( m _ { 3 4 } ^ { b } ) ^ { 2 } } { \mu ^ { Q } m _ { H } ^ { b } + \mu ^ { D } m _ { 4 4 } ^ { b } } } & { 1 } \end{array} \right) , } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { r } { R ^ { b } = \left( \begin{array} { c c c } { 1 } & { \frac { m _ { 3 4 } ^ { b } } { \mu ^ { D } } } & { 0 } \\ { 0 } & { \frac { \mu ^ { Q } m _ { 4 4 } ^ { b } + \mu ^ { D } m _ { H } ^ { b } } { ( \mu ^ { D } ) ^ { 2 } + ( \mu ^ { Q } ) ^ { 2 } - ( m _ { H } ^ { b } ) ^ { 2 } } } & { 1 } \\ { - \frac { m _ { 3 4 } ^ { b } } { \mu ^ { D } } } & { 1 } & { \frac { ( m _ { H } ^ { b } ) ^ { 2 } + ( m _ { 3 4 } ^ { b } ) ^ { 2 } } { \mu ^ { D } m _ { H } ^ { b } + \mu ^ { Q } m _ { 4 4 } ^ { b } } } \end{array} \right) . } \end{array}
+$$
+
+The mass matrix $\mathcal { M } ^ { t }$ of the top quark and vector-like up-type generations is given as following
+
+$$
+\mathcal { L } \supset - \left( t , \ Q _ { 4 } ^ { t } , \ U _ { H } ^ { c } \right) \mathcal { M } ^ { t } \left( \begin{array} { c } { { t ^ { c } } } \\ { { U _ { 4 } ^ { c } } } \\ { { Q _ { H } ^ { b } } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\mathcal { M } ^ { t } = \left( \begin{array} { l l l } { { m _ { 3 3 } ^ { t } \ m _ { 3 4 } ^ { t } } } & { { 0 } } \\ { { } } & { { } } \\ { { m _ { 4 3 } ^ { t } \ m _ { 4 4 } ^ { t } } } & { { \mu ^ { Q } } } \\ { { } } & { { } } & { { } } \\ { { 0 } } & { { \mu ^ { U } } } & { { m _ { H } ^ { t } } } \end{array} \right) \ ,
+$$
+
+where $m _ { 3 3 } ^ { t } \equiv y _ { 3 3 } ^ { u } \frac { v } { \sqrt { 2 } } \sin \beta$ $m _ { 3 4 } ^ { t } \equiv y _ { 3 } ^ { U } \frac { v } { \sqrt 2 } \sin \beta , m _ { 4 3 } ^ { t } \equiv y _ { 3 } ^ { Q } \frac { v } { \sqrt 2 } \sin \beta , m _ { 4 4 } ^ { t } \equiv y ^ { Q U } \frac { v } { \sqrt 2 } \sin \beta$ and $m _ { H } ^ { t } \equiv y \frac { v } { \sqrt { 2 } } \cos \beta$ . Taking that $| \mu ^ { Q } | \sim | \mu ^ { U } | \gg | m _ { 4 3 } ^ { t } | , ~ | m _ { 4 4 } ^ { t } | , ~ | m _ { 3 3 } ^ { t } | , ~ | m _ { 3 4 } ^ { t } | , ~ | m _ { H } ^ { t } |$ ，then the biunitary matrix diagonalize $\mathcal { M } ^ { t }$ are
+
+$$
+L ^ { t * } \mathcal { M } ^ { t } R ^ { t \dagger } = ( m _ { t } , \ \mu ^ { Q } , \ \mu ^ { U } ) \equiv \mathrm { d i a g } ( m _ { t } , \ m _ { t 1 } , \ m _ { t 2 } ) \ ,
+$$
+
+where
+
+$$
+\begin{array} { r } { L ^ { t } = \left( \begin{array} { l l l } { 1 } & { 0 } & { - \frac { m _ { 3 4 } ^ { t } } { \mu ^ { U } } } \\ { 0 } & { 1 } & { \frac { \mu ^ { U } m _ { 4 4 } ^ { t } + \mu ^ { Q } m _ { H } ^ { t } } { ( \mu ^ { U } ) ^ { 2 } + ( \mu ^ { Q } ) ^ { 2 } - ( m _ { H } ^ { t } ) ^ { 2 } } } \\ { \frac { m _ { 3 4 } ^ { t } } { \mu ^ { U } } } & { \frac { ( m _ { H } ^ { t } ) ^ { 2 } + ( m _ { 3 4 } ^ { t } ) ^ { 2 } } { \mu ^ { Q } m _ { H } ^ { t } + \mu ^ { U } m _ { 4 4 } ^ { t } } } & { 1 } \end{array} \right) , } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { r } { R ^ { t } = \left( \begin{array} { c c c c } { 1 } & { \frac { m _ { 3 4 } ^ { t } } { \mu ^ { U } } } & { 0 } \\ { 0 } & { \frac { \mu ^ { Q } m _ { 4 4 } ^ { t } + \mu ^ { U } m _ { H } ^ { t } } { ( \mu ^ { U } ) ^ { 2 } + ( \mu ^ { Q } ) ^ { 2 } - ( m _ { H } ^ { t } ) ^ { 2 } } } & { 1 } \\ { - \frac { m _ { 3 4 } ^ { t } } { \mu ^ { U } } } & { 1 } & { \frac { ( m _ { H } ^ { t } ) ^ { 2 } + ( m _ { 3 4 } ^ { t } ) ^ { 2 } } { \mu ^ { U } m _ { H } ^ { t } + \mu ^ { Q } m _ { 4 4 } ^ { t } } } \end{array} \right) , } \end{array}
+$$
+
+The charged slepton mass-squared matrix $\tilde { \mathcal { M } } _ { \tau } ^ { 2 }$ of $\tilde { \tau }$ and the superpartners of the vectorlike leptons is given as following
+
+$$
+\mathcal { L } \supset \left( \tilde { L } _ { 3 } ^ { - * } , \tilde { E } _ { 3 } ^ { c } , \tilde { E } _ { 4 } ^ { c } , \tilde { E } _ { H } ^ { c * } \right) \tilde { \mathcal { M } } _ { l } ^ { 2 } \left( \begin{array} { l } { \tilde { L } _ { 3 } ^ { - } } \\ { \tilde { E } _ { 3 } ^ { c * } } \\ { \tilde { E } _ { 4 } ^ { c * } } \\ { \tilde { E } _ { H } ^ { c } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\begin{array} { l } { { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 1 1 } = M ^ { 2 } + \left( \frac { m _ { 2 } ^ { 2 } } { 2 } - m _ { W } ^ { 2 } \right) \cos 2 \beta + m _ { \tau } ^ { 2 } + | m _ { 3 4 } ^ { \tau } | ^ { 2 } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 1 2 } = \left( m _ { 0 } - \mu \tan \beta \right) n } } \\ { { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 1 3 } = \left( m _ { 0 } - \mu \tan \beta \right) m _ { 3 4 } ^ { \tau } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 1 4 } = \mu ^ { \varepsilon } m _ { 3 4 } ^ { \tau } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 2 1 } = \left( m _ { 0 } - \mu \tan \beta \right) m _ { \tau } , } } \\ { { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 2 2 } = M _ { E } ^ { 2 } - ( m _ { Z } ^ { 2 } - m _ { W } ^ { 2 } ) \cos 2 \beta + m _ { \tau } ^ { 2 } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 2 3 } = m _ { \tau } m _ { 3 4 } ^ { \tau } , } } \\ { { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 2 4 } = 0 \ , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 3 1 } = \left( m _ { 0 } - \mu \tan \beta \right) m _ { 3 4 } ^ { \tau } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 3 2 } = m _ { \tau } m _ { 3 4 } ^ { \tau } , } } \\ { { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 3 3 } = | \mu ^ { E } | ^ { 2 } + M _ { E } ^ { 2 } - ( m _ { Z } ^ { 2 } - m _ { W } ^ { 2 } ) \cos 2 \beta + | m _ { 3 4 } ^ { \tau } | ^ { 2 } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 3 4 } = B ^ { E } \mu ^ { E } , } \\ { \tilde { \mathcal { M } } _ { \tau } ^ { 2 } ) _ { 4 1 } = \mu ^ { E } m _ { 3 4 } ^ { \tau } , \ \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 4 2 } = 0 \ , \left( \tilde { \mathcal { M } } _ { \tau } ^ { 2 } \right) _ { 4 3 } = B ^ { E } \mu ^ { E } , } } \\   \tilde  \mathcal  M  \end{array}
+$$
+
+The corresponding unitary scalar matrix is defined as
+
+$$
+V ^ { \tau } \tilde { \mathcal { M } } _ { \tau } ^ { 2 } V ^ { \tau \dagger } = \mathrm { d i a g } ( \tilde { M } _ { \tau } ^ { 2 } , ~ \tilde { M } _ { \tau 1 } ^ { 2 } , ~ \tilde { M } _ { \tau 2 } ^ { 2 } , ~ \tilde { M } _ { \tau 3 } ^ { 2 } ) ~ ,
+$$
+
+The mass-squared matrix $\tilde { \mathcal { M } } _ { b } ^ { 2 }$ of $\tilde { b }$ and the superpartners of the down-type vector-like fermions is given as following
+
+$$
+\mathcal { L } \supset \left( \tilde { b } ^ { \ast } , \tilde { D } _ { 3 } ^ { c } , \tilde { D } _ { 4 } ^ { c } , \tilde { D } _ { H } ^ { c \ast } , \tilde { Q } _ { 4 } ^ { b \ast } , \tilde { Q } _ { H } ^ { t } \right) \tilde { M } _ { b } ^ { 2 } \left( \begin{array} { c } { \tilde { b } } \\ { \tilde { D } _ { 3 } ^ { c \ast } } \\ { \tilde { D } _ { 4 } ^ { c \ast } } \\ { \tilde { D } _ { H } ^ { c } } \\ { \tilde { Q } _ { 4 } ^ { b } } \\ { \tilde { Q } _ { H } ^ { t \ast } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\begin{array} { r l } & { ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 1 1 } = M _ { 0 } ^ { 2 } - \frac { m _ { e } ^ { 2 } } { 2 } \frac { ( 2 \widetilde { A _ { \mathrm { e f f } } } ) } { c } \cos { 2 \beta } + m _ { e } ^ { 2 } + | m _ { e } ^ { 3 } | ^ { 2 } , \quad ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 2 2 } = | \langle m _ { e } - \mu ( \widetilde { A _ { \mathrm { e f f } } } ) \widetilde { j } \rangle m _ { e } | } \\ & { ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 1 2 } =  ( m _ { e } - \mu ( \mathbf { A } \mathbf { m } ) \widetilde { j } m _ { e } ^ { 3 } ) _ { 3 3 } , \ \widetilde { A _ { \mathrm { e f f } } }  + \widetilde { \mathcal { A } _ { \mathrm { e f f } } ^ { ( 3 ) } } \frac { m _ { e } ^ { 4 } } { 2 } , \quad ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 3 3 } = \widetilde { i \mathcal { A } _ { \mathrm { e f f } } } \frac { m _ { e } ^ { 4 } } { 3 } \frac { m _ { e } ^ { 3 } } { 3 } m _ { e } \widetilde { a _ { 3 } } } \\ & { ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 1 2 } = - \{ 0 , \ \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } -  m _ { e } - \mu ( \mathbf { A } \mathbf { m } ) \widetilde { j } m _ { e } , \ \   \ } \\ &  ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 2 4 } = m _ { e } \widetilde { a _ { 3 } } \widetilde { j } m _ { e } + m _ { e } ^ { 4 } \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } , \quad ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 4 3 } = 0 , \ \  ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 2 4 } \widetilde { j } m _ { e } - \widetilde { \mathcal { A } _ { \mathrm { e f f } } ^ { ( 3 ) } } \\ &  ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 3 3 } =  m _ { e } - \mu ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } \widetilde { j } m _ { e } ^ { 4 } ) _ { 4 } , \ ( \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } \widetilde { j } \widetilde { A _ { \mathrm { e f f } } ^ { ( 3 ) } } ) _ { 4 } \widetilde { j } \end{array}
+$$$$
+\begin{array} { l } { { ( \mathcal M _ { b } ^ { 2 } ) _ { 3 5 } = ( m _ { 0 } - \mu \tan \beta ) m _ { 4 4 } ^ { b } , ( \mathcal M _ { b } ^ { 2 } ) _ { 3 6 } = \mu ^ { Q } m _ { 4 4 } ^ { b } + \mu ^ { D } m _ { H } ^ { b } , ( \mathcal M _ { b } ^ { 2 } ) _ { 4 1 } = \mu ^ { D } m _ { b 4 } ^ { b } } } \\ { { ( \mathcal M _ { b } ^ { 2 } ) _ { 4 3 } = - B ^ { D } \mu ^ { D } , ( \mathcal M _ { b } ^ { 2 } ) _ { 4 4 } = \vert \mu ^ { D } \vert ^ { 2 } + \mathcal M _ { D H } ^ { 2 } + \frac { m _ { Z } ^ { 2 } - m _ { W } ^ { 2 } } { 3 } \cos 2 \beta + + \vert m _ { H } ^ { b } \vert ^ { 2 } , } } \\ { { ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 4 5 } = \mu ^ { D } m _ { 4 4 } ^ { b } + \mu ^ { Q } m _ { H } ^ { b } , ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 4 6 } = ( m _ { 0 } - \mu \cot \beta ) m _ { H } ^ { b } , ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 5 1 } = m _ { b } m _ { d 3 } ^ { d } - } } \\ { { ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 5 2 } = ( m _ { 0 } - \mu \tan \beta ) m _ { 4 3 } ^ { b } , ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 5 3 } = ( m _ { 0 } - \mu \tan \beta ) m _ { 4 4 } ^ { b } , ( \tilde { \mathcal M } _ { b } ^ { 2 } ) _ { 5 4 } = \mu ^ { D } m } } \\  { ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 5 5 } = \vert \mu ^ { Q } \vert ^ { 2 } + \mathcal M _ { Q } ^ { 2 } - \frac { m _ { 2 } ^ { 2 } + 2 m _ { 3 } ^ { 2 } } { 6 } \cos 2 \beta + \vert m _ { 4 4 } ^ { b } \vert ^ { 2 } + \vert m _ { b } ^ { b } \vert ^ { 2 } , ( \bar { \mathcal M } _ { b } ^ { 2 } ) _ { 5 6 } = B ^ { Q } \mu ^ { Q } , } \\ { ( \tilde { \mathcal M } _ { b } ^ { 2 } ) _ { 6 1 } = 0 , ( \tilde { \mathcal M } _ { b } ^ { 2 } ) _ { 6 2 } = \mu ^ { Q } m _ { 4 3 } ^ { b } , ( \tilde { \mathcal M } _ { b } ^ { 2 } ) _ { 6 3 } = \mu ^ { Q } m _ { H } ^ { b } , ( \mathcal M _ { b } ^ { 2 } ) _ { 6 4 } = ( m _ { 0 } - \mu ^ { Q } ) _ { 7 } }  \end{array}
+$$
+
+The corresponding unitary scalar matrix is defined as
+
+$$
+V ^ { b } \tilde { \mathcal { M } } _ { b } ^ { 2 } V ^ { b \dagger } = \mathrm { d i a g } ( \tilde { M } _ { b } ^ { 2 } , \ \tilde { M } _ { b 1 } ^ { 2 } , \ \tilde { M } _ { b 2 } ^ { 2 } , \ \tilde { M } _ { b 3 } ^ { 2 } , \ \tilde { M } _ { b 4 } ^ { 2 } , \ \tilde { M } _ { b 5 } ^ { 2 } ) \ ,
+$$
+
+The mass-squared matrix $\tilde { \mathcal { M } } _ { t } ^ { 2 }$ of $\tilde { t }$ and the superpartners of the up-type vector-like fermions is given as following
+
+$$
+\mathcal { L } \supset \left( \tilde { t } ^ { * } , \tilde { U } _ { 3 } ^ { c } , \tilde { U } _ { 4 } ^ { c } , \tilde { U } _ { H } ^ { c * } , \tilde { Q } _ { 4 } ^ { t * } , \tilde { Q } _ { H } ^ { b } \right) \tilde { M } _ { t } ^ { 2 } \left( \begin{array} { c } { \tilde { t } } \\ { \tilde { U } _ { 3 } ^ { c * } } \\ { \tilde { U } _ { 4 } ^ { c * } } \\ { \tilde { U } _ { H } ^ { c } } \\ { \tilde { Q } _ { 4 } ^ { b * } } \\ { \tilde { Q } _ { H } ^ { b * } } \end{array} \right) ,
+$$
+
+where
+
+$$
+\begin{array} { r l } &  \begin{array} { r l } & { \langle \vec { A } _ { 1 2 1 } ^ { \prime } \bot _ { 1 } - \vec { u } _ { 2 } ^ { \prime } + \frac { \partial u _ { 2 } ^ { \prime } - \partial u _ { 2 } ^ { \prime } } { \partial x _ { 1 } ^ { \prime } } , \nabla u _ { 2 } ^ { \prime } \bot _ { 2 } - w _ { 2 } ^ { \prime } u _ { 2 } ^ { \prime } \rangle - \ \langle \vec { A } _ { 1 2 1 } ^ { \prime } \rangle \langle \vec { u } _ { 1 2 1 } ^ { \prime } - \frac { \partial u _ { 2 } } { \partial x _ { 1 } ^ { \prime } } - \nabla u _ { 2 } ^ { \prime } u _ { 1 } ^ { \prime } \rangle \ \mathcal { H } _ { 1 1 } } \\ & { \langle \vec { A } _ { 1 2 1 } ^ { \prime } \rangle _ { \leq } - \ \langle \nabla u _ { 2 2 } - \rho u _ { 1 1 } \delta _ { 1 2 } ^ { \prime } , \nabla u _ { 4 } ^ { \prime } \rangle \ \langle \vec { A } _ { 2 2 1 } ^ { \prime } \rangle _ { \leq } - \ \langle \vec { A } _ { 1 2 1 } ^ { \prime } \rangle \langle \vec { A } _ { 1 2 1 } ^ { \prime } \rangle _ { \leq } - \ \ \langle \vec { A } _ { 1 2 1 } ^ { \prime } \rangle \mathcal { H } _ { 2 } - \ \Pi _ { 1 } \langle u _ { 4 1 } ^ { \prime } + w _ { 4 } ^ { \prime } u _ { 4 } ^ { \prime } \rangle \ \mathcal { H } _ { 4 } ^ { 2 } } \\ & { \langle \vec { A } _ { 1 2 } ^ { \prime } \rangle _ { \leq } - \ \ \langle \vec { A } _ { 1 2 2 } ^ { \prime } \rangle _ { \leq } - \ \ \langle \vec { u } _ { 2 1 } ^ { \prime } \rangle \mathcal { H } _ { 1 } } \\ & { \langle \vec { A } _ { 1 2 } ^ { \prime } \rangle _ { \leq } - \ \ \nabla u _ { 2 } ^ { \prime } \ \langle \vec { A } _ { 2 2 } ^ { \prime } \rangle _ { \leq } - \ \langle \vec { u } _ { 2 1 } ^ { \prime } \rangle \mathcal { H } _ { 1 } } \\ &  \langle \vec { A } _ { 1 2 } ^ { \prime } \rangle _ { \leq } - \ \langle \vec { u } _ { 2 2 } ^ { \prime } \rangle \mathcal { H } _ { 1 } \ \Pi _ { 1 } ^ { \prime } \ \rho _ { 1 } ^ { \prime } \ \langle \vec { A } _ { 2 2 } ^ { \prime } \rangle _ { \leq } \ \langle \vec { A } _ { 1 2 } ^ { \prime } \rangle _ { \leq } - \ \langle \vec { u } _ { 2 1 } ^ { \prime } \rangle \ \rho _ { 1 } ^ { \prime } \ \langle \vec { u } _ { 1 2 } ^ { \prime } \rangle \mathcal { H } _   \end{array} \end{array}
+$$
+
+The corresponding unitary scalar matrix is defined as
+
+$$
+V ^ { t } \tilde { \mathcal { M } } _ { t } ^ { 2 } V ^ { t \dagger } = \mathrm { d i a g } ( \tilde { M } _ { t } ^ { 2 } , ~ \tilde { M } _ { t 1 } ^ { 2 } , ~ \tilde { M } _ { t 2 } ^ { 2 } , ~ \tilde { M } _ { t 3 } ^ { 2 } , ~ \tilde { M } _ { t 4 } ^ { 2 } , ~ \tilde { M } _ { t 5 } ^ { 2 } ) ~ ,
+$$
+
+# Appendix B:NEUTRINOMASSESIN OUR MODEL
+
+All fourteen types of one loop Fyenman diagrams which can contribute to the neutrino mass and mixing in our model are shown in Fig. 1
+
+![](images/c9a9138ff2f298e9be9f4f5399747152d0b443564e7681dc66345cc105da0fca.jpg)  
+FIG.7: One-loop contributions to the neutrino masses and mixings in our model.
+
+The corresponding analytical results are listed below:
+
+$$
+\begin{array} { r l } { | \hat { \mathcal { A } } _ { 2 , 1 \times \infty } ^ { \mathrm { Q } }  } & { = \cfrac { 1 } { \Delta t ^ { 2 } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } }  \nabla \cdot \hat { \mathcal { C } } _ { 2 , 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 , 1 } \hat { \mathcal { C } } _ { 2 , 2 , 1 } \hat { \mathcal { C } } _ { 2 , 2 , 1 } \hat { \mathcal { C } } _ { 2 , 2 , 1 } \hat { \mathcal { C } } _ { 2 , 2 , 1 }  } \\ { | \hat { \mathcal { A } } _ { 2 , 1 \times \infty } ^ { \mathrm { Q } }  } & { = \cfrac { 1 } { \Delta t ^ { 2 } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } }  \nabla \cdot \hat { \mathcal { C } } _ { 2 , 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 } \hat { \mathcal { C } } _ { 2 , 1 }  } \\ & {  \mathrm { [ F r ] } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } } \cfrac { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } }  \nabla \cdot \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 } \hat { \mathcal { C } } _ { 2 , 2 }  } \\ { | \hat { \mathcal { A } } _ { 2 , 1 \times \infty } ^ { \mathrm { Q } }  } \\    \frac { 1 } { \Delta t ^ { 2 } } { \sqrt { 2 } } { \mathrm { F r } _ { \mathrm { e x t } } }  \nabla \cdot \hat { \mathcal { C } } _   \end{array}
+$$
+
+$$
+\begin{array} { r l } { \| { \mathcal { S } } \| _ { 1 } = } &  \frac { 1 } { \sqrt { 3 } \alpha } \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } } ^ { 2 } \lambda _ { k } ^ { 2 } \leq \frac { \alpha ^ { 2 } } { 3 \alpha ^ { 2 } } } \exp { \left( { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 2 } + \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 2 } } } + { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } \leq { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } } }  } } \\ & \right) + \frac { 1 } { \sqrt { 3 } \alpha ^ { 2 } } \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } } ^ { 2 } \lambda _ { k } ^ { 3 } \leq \alpha ^ { 2 } } \exp { \left( { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 2 } + \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } } } + { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 }  } } \\  \\right)leq \frac { \alpha ^ { 2 } } { 3 \alpha ^ { 2 } } \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } } ^ { 2 } \lambda _ { k } ^ { 3 } \leq \alpha ^ { 2 } } \exp { \left( { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 2 } + \sum _ { k = 1 } ^ { N } { { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } } }  } } \\ { \right)\| { \mathcal { S } } \| _ { 1 } = } &  \frac { 1 } { \sqrt { 3 } \alpha ^ { 2 } } \sum _ { k = 1 } ^ { N }  { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } \leq \alpha ^ { 2 } } \exp { \left( { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 2 } + \sum _ { k = 1 } ^ { N } { { \mathbb { E } } _ { 1 } ^ { k } \lambda _ { k } ^ { 3 } }  } \lambda _ { k } \leq \lambda _ { k } \leq \lambda _ { k } , } \\  \\right)| { \mathcal { S } } \| _ { 1 } \leq \lambda _ { k } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq \alpha ^ { 2 } \leq  \end{array}
+$$$$
+\begin{array} { r l } { \mathcal { U } _ { \mathrm { S } } ^ { \dagger } ( \omega ) \omega , } &  = \underbrace { \mathrm {  ~ g ~ \Sigma ~ } _ { \mathrm { N } } ^ { \dagger } \sum _ { m } ^ { \prime } \mathrm {  ~ N } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } } \\ { \mathcal { U } _ { \mathrm { S } } ^ { \dagger } ( \omega ) \omega } & { = \frac { 3 } { 4 } \sum _ { m } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } } \\ & { = \left. \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \right| } \\ & { \quad + \left. \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \right| } \\  \mathcal { U } _ { \mathrm { S } } ^ { \dagger } \mathrm {  ~ \Sigma ~ } _ { \mathrm { S } } ^ { \dagger } \sum _ { m } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^ { \prime } \mathrm {  ~ \Sigma ~ } _ { \mathrm { N } } ^  \ \end{array}
+$$
+
+$$
+\begin{array} { l l l } { { { \displaystyle M _ { i j } ^ { \nu } | _ { \lambda ^ { \prime } \lambda ^ { Q D } } ~ \simeq ~ { \frac { 3 } { 8 \pi ^ { 2 } } } \sum _ { k , m } \lambda _ { i 3 3 } ^ { ' } \lambda _ { j } ^ { Q D } [ R _ { m 2 } ^ { * b } L _ { m 1 } ^ { * b } V _ { k 2 } ^ { * b } V _ { k 5 } ^ { b } ~ m _ { b _ { m } } b ( m _ { b _ { m } } , M _ { \tilde { b } _ { L ( R ) k } } ) } } } \\ { { } } & { { } } \\ { { { } + R _ { m 1 } ^ { * b } L _ { m 2 } ^ { * b } V _ { k 1 } ^ { * b } V _ { k 3 } ^ { b } ~ m _ { b _ { m } } b ( m _ { b _ { m } } , M _ { \tilde { b } _ { L ( R ) k } } ) ] , } } \\ { { { \displaystyle M _ { i j } ^ { \nu } | _ { \lambda ^ { H } \lambda ^ { H } } ~ \simeq ~ { \frac { 3 } { 8 \pi ^ { 2 } } } \sum _ { k , m } \lambda _ { i } ^ { H } \lambda _ { j } ^ { H } ~ R _ { m 3 } ^ { * b } L _ { m 3 } ^ { * t } V _ { k 6 } ^ { * u } V _ { k 4 } ^ { u } ~ m _ { t _ { m } } b ( m _ { t _ { m } } , M _ { \tilde { t } _ { L ( R ) k } } ) , } } } \end{array}
+$$
+
+In which $L ^ { \tau , b , t } , R ^ { \tau , b , t }$ are biunitary matrices of mass matrices between $( \tau , b , t )$ and the vector-like fermions (see Appendix A)，while $m _ { \tau _ { m } } , m _ { b _ { m } } , m _ { t _ { m } }$ indicate the corresponding mass eigenvalues. $V ^ { \tilde { \tau } , \tilde { d } , \tilde { t } }$ are the square mass mixing unitary matrices of their superpatners, while $M _ { \tilde { \tau } _ { L ( R ) k } } , M _ { \tilde { b } _ { L ( R ) k } } , M _ { \tilde { t } _ { L ( R ) k } }$ standfortecorrspondingmasigenvalein $\alpha _ { s 1 ( 2 ) }$ ， Cos $\alpha _ { s 1 ( 2 ) }$ are the unitary matrix elements of $\tilde { s }$ ： $b ( m _ { 1 } , m _ { 2 } )$ is the loop integral factor: b(m1,m2)=mm(m2nm²-mInm-m2+m2).Thevaluerangeof theindicesin Eq. (4)-(6) is m=1,2, k=1-4 ,while in Eq. (7)-(17), it is m=1,2,3,k=1-6.
+
+# Appendix C: NEUTRINO SPECTRUM-CALCULATING METHOD AND PARAMETER SETTINGS
+
+The methods to generate neutrino masses and mixing angles with one-loop trilinear $\mathcal { L }$ couplings actually involves the following three matrices
+
+$$
+m _ { 1 } \left( \begin{array} { l l l } { { a ^ { 2 } } } & { { a b } } & { { a c } } \\ { { a b } } & { { b ^ { 2 } } } & { { b c } } \\ { { a c } } & { { b c } } & { { c ^ { 2 } } } \end{array} \right) , m _ { 2 } \left( \begin{array} { l l l } { { d ^ { 2 } } } & { { d e } } & { { d f } } \\ { { d e } } & { { e ^ { 2 } } } & { { e f } } \\ { { d f } } & { { e f } } & { { f ^ { 2 } } } \end{array} \right) , m _ { 3 } \left( \begin{array} { l l l } { { g ^ { 2 } } } & { { g h } } & { { g l } } \\ { { g h } } & { { h ^ { 2 } } } & { { h l } } \\ { { g l } } & { { h l } } & { { l ^ { 2 } } } \end{array} \right) ,
+$$
+
+where we name each of the matrices above $\mathcal { M } _ { 1 , 2 , 3 }$ separately. We assume $m _ { 1 } ~ > ~ m _ { 2 , 3 }$ $m _ { 2 } \sim m _ { 3 }$ and there is no strong hierarchy between a, b,c, d,e, f, g, h,l.
+
+$\mathcal { M } _ { 1 }$ has only one eigenvalue after digonalized by an unitary rotation
+
+$$
+X ^ { T } { \mathcal { M } } _ { 1 } X = \mathrm { d i a g } ( 0 , \ 0 , \ M _ { 1 } ) \ ,
+$$
+
+where
+
+$$
+M _ { 1 } = m _ { 1 } ( a ^ { 2 } + b ^ { 2 } + c ^ { 2 } ) \ ,
+$$
+
+and
+
+$$
+X = \left( { \begin{array} { c c c } { { c _ { 2 } } } & { { s _ { 2 } c _ { 3 } } } & { { s _ { 2 } s _ { 3 } } } \\ { { } } & { { } } & { { } } \\ { { - s _ { 2 } } } & { { c _ { 2 } c _ { 3 } } } & { { s _ { 2 } s _ { 3 } } } \\ { { } } & { { } } & { { } } \\ { { 0 } } & { { - s _ { 3 } } } & { { c _ { 3 } } } \end{array} } \right) ~ ,
+$$
+
+$$
+s _ { 2 } = { \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } } } } \ , \ c _ { 3 } = { \frac { c } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } } } .
+$$
+
+If we rotate the sum over $\mathcal { M } _ { 1 , 2 , 3 }$ by matrix X, it becomes
+
+$$
+\begin{array} { r } { X ^ { T } ( \mathcal M _ { 1 } + \mathcal M _ { 2 } + \mathcal M _ { 3 } ) X \approx m _ { 1 } ( a ^ { 2 } + b ^ { 2 } + c ^ { 2 } ) \left( \begin{array} { l l l } { \epsilon _ { 1 1 } } & { \epsilon _ { 1 2 } } & { \epsilon _ { 1 3 } } \\ { \epsilon _ { 2 1 } } & { \epsilon _ { 2 2 } } & { \epsilon _ { 2 3 } } \\ { \epsilon _ { 3 1 } } & { \epsilon _ { 3 2 } } & { 1 } \end{array} \right) \ , } \end{array}
+$$
+
+where $\epsilon _ { i j }$ are some small values related with $m _ { 2 } / m _ { 1 } , m _ { 3 } / m _ { 1 }$ and the other elements of $\mathcal { M } _ { 1 , 2 , 3 }$ We can then define another unitary matrix $X ^ { \prime }$ to diagonalize the matrix in Eq. (B6) in an approximate way:
+
+$$
+\begin{array} { r } { X ^ { ' T } X ^ { T } ( \mathcal { M } _ { 1 } + \mathcal { M } _ { 2 } + \mathcal { M } _ { 3 } ) X X ^ { ' } \approx m _ { 1 } ( a ^ { 2 } + b ^ { 2 } + c ^ { 2 } ) \ \mathrm { d i a g } ( \delta _ { 3 } ^ { \prime } , \ \delta _ { 2 } ^ { \prime } , \ 1 ) \ , } \end{array}
+$$
+
+where
+
+$$
+X ^ { \prime } = \left( \begin{array} { c c c } { { c _ { 1 } } } & { { s _ { 1 } } } & { { 0 } } \\ { { - s _ { 1 } } } & { { c _ { 1 } } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { 1 } } \end{array} \right) \ ,
+$$
+
+and
+
+$$
+\tan 2 \theta _ { 1 } = \frac { 2 \epsilon _ { 1 2 } } { \epsilon _ { 2 2 } - \epsilon _ { 1 1 } } \ .
+$$
+
+Then from Eq. (B7)，we get all three mass eigenvalues
+
+$$
+M _ { 1 } \sim m _ { 1 } ( a ^ { 2 } + b ^ { 2 } + c ^ { 2 } ) \ , \ M _ { 2 } \sim M _ { 1 } \delta _ { 2 } ^ { \prime } \ , \ M _ { 3 } \sim M _ { 1 } \delta _ { 3 } ^ { \prime } \ ,
+$$
+
+and from Eq. (B4, B8)，we get all three mixing angles
+
+$$
+\begin{array} { r } { s _ { 1 3 } = s _ { 2 } s _ { 3 } = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } } \ , \ } \\ { s _ { 2 3 } = c _ { 2 } s _ { 3 } / c _ { 1 3 } = \frac { b } { \sqrt { b ^ { 2 } + c ^ { 2 } } } \ , \ } \\ { s _ { 1 2 } = ( s _ { 1 } c _ { 2 } + c _ { 1 } s _ { 2 } c _ { 3 } ) / c _ { 1 3 } \ . \ } \end{array}
+$$
+
+The parameter settings we used in table I are given as following
+
+Set I:
+
+$$
+\begin{array} { l l } { { m _ { 3 4 } ^ { \tau } = 1 0 , ~ M _ { E } = M _ { E H } = 6 0 0 \mathrm { G e V } , ~ B ^ { E } \mu ^ { E } = 4 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } ; ~ m _ { H } ^ { b } = 1 7 0 \mathrm { G e V } , } } \\ { { m _ { 3 4 } ^ { b } = m _ { 4 3 } ^ { b } = m _ { 4 4 } ^ { b } = 0 , ~ M _ { Q } = M _ { D } = M _ { D H } = M _ { Q H } = 7 0 0 \mathrm { G e V } , } } \\ { { B ^ { D } \mu ^ { D } = B ^ { Q } \mu ^ { Q } = 5 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } ; ~ m _ { 3 4 } ^ { t } = m _ { 4 3 } ^ { t } = m _ { H } ^ { t } = 1 3 \mathrm { G e V } , ~ m _ { 4 4 } ^ { t } = 1 7 4 \mathrm { G e V } } } \\ { { M _ { U } = M _ { U H } = 7 0 0 \mathrm { G e V } , ~ B ^ { U } \mu ^ { U } = 5 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } , ~ \tan \beta = 1 0 , ~ A = \mu = 5 0 0 \mathrm { G e V } . } } \end{array}
+$$
+
+Set II:
+
+$$
+\begin{array} { l } { { m _ { 3 4 } ^ { \tau } = 1 0 , ~ M _ { E } = M _ { E H } = 1 0 0 0 \mathrm { G e V } , ~ B ^ { E } \mu ^ { E } = 6 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } ; ~ m _ { H } ^ { b } = 1 7 0 \mathrm { G e V } , ~ B ^ { E } \mu ^ { C } = 6 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } , ~ M _ { H } ^ { b } = 1 7 0 \mathrm { G e V } , ~ B ^ { E } \mu ^ { C } = 6 0 0 } } \\ { { m _ { 3 4 } ^ { b } = m _ { 4 3 } ^ { b } = m _ { 4 4 } ^ { b } = 1 0 \mathrm { G e V } , ~ M _ { Q } = M _ { D } = M _ { D H } = M _ { Q H } = M _ { Q H } = 1 0 0 0 \mathrm { G e V } , } } \\ { { B ^ { D } \mu ^ { D } = B ^ { Q } \mu ^ { Q } = 6 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } ; ~ m _ { 3 4 } ^ { t } = m _ { 4 3 } ^ { t } = m _ { H } ^ { t } = 1 3 \mathrm { G e V } , ~ m _ { 4 4 } ^ { t } = 1 7 4 4 } } \\ { { M _ { U } = M _ { U H } = 1 0 0 0 \mathrm { G e V } , ~ B ^ { U } \mu ^ { U } = 6 0 0 ^ { 2 } \mathrm { G e V } ^ { 2 } , ~ \tan \beta = 1 0 , ~ A = \mu = 6 6 } } \end{array}
+$$
+
+# Appendix D: EXOTIC QUARK AND LEPTON COUPLINGS TO $W , Z , h ^ { 0 }$ ANDDECAYWIDTHS
+
+The couplings for the W, Z, $h ^ { 0 }$ boson with leptons in Eq. (12） are
+
+$$
+\begin{array} { l } { { g _ { \tau _ { 1 } , \tau _ { 2 } } ^ { W } = \displaystyle { \frac { g } { \sqrt { 2 } } } L _ { 2 1 } ^ { \tau _ { 2 } } ~ , } } \\ { { g _ { \tau _ { 1 } , \tau _ { 2 } } ^ { Z } = \displaystyle { \frac { g s _ { W } ^ { 2 } } { c _ { W } } } L _ { 2 2 } ^ { \tau } L _ { 1 2 } ^ { \tau } - \displaystyle { \frac { g } { 4 c _ { W } } } [ ( 2 - 4 s _ { W } ^ { 2 } ) L _ { 2 1 } ^ { \tau } L _ { 1 1 } ^ { \tau } ] ~ , } } \\ { { g _ { \tau _ { 1 } , \tau _ { K } } ^ { Z } = \displaystyle { \frac { g s _ { W } ^ { 3 } } { c _ { W } } } R _ { 2 2 } ^ { \tau } R _ { 1 2 } ^ { \tau } + \displaystyle { \frac { g } { 4 c _ { W } } } ( 4 s _ { W } ^ { 2 } R _ { 2 1 } ^ { \tau } R _ { 1 1 } ^ { \tau } ) ~ , } } \\ { { g _ { \tau _ { 1 } , \tau _ { T } } ^ { B ^ { 0 } } = - \displaystyle { \frac { s c _ { 0 } } { \sqrt { 2 } } } ( y _ { 3 3 } ^ { \tau } L _ { 2 1 } ^ { \tau } R _ { 1 1 } ^ { \tau } + y _ { 3 } ^ { B } L _ { 2 1 } ^ { \tau } R _ { 1 2 } ^ { \tau } ) ~ , } } \\ { { g _ { \tau _ { 1 } , \tau _ { 1 } , n } ^ { B ^ { 0 } } = - \displaystyle { \frac { s c _ { 0 } } { \sqrt { 2 } } } ( y _ { 3 3 } ^ { \tau } L _ { 1 1 } ^ { \tau } R _ { 2 1 } ^ { \tau } + y _ { 3 } ^ { B } L _ { 1 1 } ^ { \tau } R _ { 2 2 } ^ { \tau } ) ~ , } } \end{array}
+$$
+
+where ${ \mathfrak { c } } _ { \alpha } = { \mathfrak { s } } _ { \beta }$ ， $s _ { \alpha } = - c _ { \beta }$ is the elements of the rotation matrix related with the real parts of $( H _ { u } ^ { 0 } , \ H _ { d } ^ { 0 } )$ ：
+
+Then the decay widths of $\tau _ { 1 }$ are
+
+$$
+\begin{array} { l } { { \Gamma ( \tau _ { 1 }  \mathsf { W } \nu _ { \tau } ) = { \frac { m _ { \tau _ { 1 } } } { 3 2 \pi } } ( 1 + x _ { \tau \nu } ^ { 4 } - 2 x _ { \tau \nu } ^ { 2 } ) ^ { 1 / 2 } ( 1 - 2 x _ { \mathsf { W } } ^ { 2 } + x _ { \tau \nu } ^ { 2 } ) ( g _ { \tau \nu _ { \tau } } ^ { \mathsf { W } } ) ^ { 2 } \ , } } \\ { { \Gamma ( \tau _ { 1 }  \mathrm { Z r } ) = { \frac { m _ { \tau _ { 1 } } } { 3 2 \pi } } ( 1 + x _ { \tau } ^ { 4 } + x _ { \tau } ^ { 4 } - 2 x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } x _ { \tau } ^ { 2 } ) ^ { 1 / 2 } } } \\ { { \{ ( 1 + x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } + ( 1 - x _ { \tau } ^ { 2 } ) ^ { 2 } x _ { \tau } ^ { 2 } ) [ ( g _ { \tau _ { 1 , \tau \tau _ { 1 } } } ^ { \mathsf { Z } } ) ^ { 2 } + ( g _ { \tau _ { 1 , \tau \tau _ { 1 } } } ^ { \mathsf { Z } } ) ^ { 2 } ] \ } }  \\ { { \ + \ } } \\ { { \Gamma ( \tau _ { 1 }  \mathsf { H } _ { \tau } ^ { 2 } ) = { \frac { m _ { \tau _ { 1 } } } { 3 2 \pi } } ( 1 + x _ { \tau \nu } ^ { 4 } + x _ { \tau } ^ { 4 } - 2 x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } - 2 x _ { \tau } ^ { 2 } \alpha _ { \tau } ^ { 2 } ) ^ { 1 / 2 } } } \\ { { \ } } \\ { { \{ ( 1 + x _ { \tau } ^ { 2 } - x _ { \tau } ^ { 2 } ) [ ( g _ { \tau _ { 1 , \tau \tau } } ^ { \mathsf { R } } ) ^ { 2 } + ( g _ { \tau _ { 1 , \tau \tau } } ^ { \mathsf { R } } ) ^ { 2 } ] \ } } \\ { { \ } } \end{array}
+$$
+
+where $x _ { i } = m _ { i } / m _ { \tau _ { 1 } }$ for $i = \mathrm { W } , \mathrm { Z } , \tau , \mathrm { h } ^ { \mathrm { 0 } }$
+
+The couplings for the W, Z, $h ^ { 0 }$ boson with $t , t _ { 1 } , t _ { 2 }$ in Eq. (13) are
+
+$$
+\begin{array} { r l } & { \mathrm { c y c l e } _ { 1 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 2 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } \\ & { \mathrm { c y c l e } _ { 1 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } \\ & { \mathrm { c y c l e } _ { 1 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 4 , n } ^ { \mathrm { 2 } } = } & { \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 5 , n } ^ { \mathrm { 2 } } = } \\ & { \mathrm { c y c l e } _ { 1 , n } ^ { \mathrm { 2 } } = } &  \frac { \sqrt { 6 } } { 4 } \mathrm { c } _ { 3 , n } ^ { \mathrm { 2 } } \mathrm { c } _ { 5 , n } ^ { \mathrm { 2 } } \mathrm { c } _ { 6 , n } ^ { \mathrm { 2 } } \mathrm { c } _ { 7 , n } ^ { \mathrm { 2 } } \mathrm { c } _ { 7 , n } ^ { \mathrm { 2 } } \mathrm { c } _ { 7 , n } ^ { \mathrm { 2 } } \mathrm { c } _  7  \end{array}
+$$
+
+The decay widths of the lightest new up-type quark $\mathrm { t } _ { 1 }$ are
+
+$$
+\begin{array} { l } { { \Gamma ( { \mathrm { t } _ { 1 } \to \mathrm { W b } } ) = \displaystyle \frac { m _ { t _ { 1 } } } { 3 2 \pi } ( 1 + x _ { W } ^ { 4 } + x _ { b } ^ { 4 } - 2 x _ { W } ^ { 2 } - 2 x _ { b } ^ { 2 } - 2 x _ { W } ^ { 2 } x _ { b } ^ { 2 } ) ^ { 1 / 2 } } } \\ { { \{ ( 1 + x _ { b } ^ { 2 } - 2 x _ { W } ^ { 2 } + ( 1 - x _ { b } ^ { 2 } ) ^ { 2 } x _ { W } ^ { - 2 } ) [ ( g _ { t _ { 1 } , b _ { t } } ^ { W } ) ^ { 2 } + ( g _ { t _ { 1 } , b _ { t } b _ { t } } ^ { W } ) ^ { 2 } ] } } \\ { { \quad \quad \quad \quad \quad + 1 2 x _ { b } g _ { t _ { 1 } L b _ { t } } ^ { W } g _ { t _ { 1 } b _ { t } b _ { t } } ^ { W } \} \ } } \\ { { \Gamma ( { \mathrm { t } _ { 1 } \to \mathrm { Z t } } ) = \displaystyle \frac { m _ { t _ { 1 } } } { 3 2 \pi } ( 1 + x _ { t } ^ { 4 } + x _ { t } ^ { 4 } - 2 x _ { Z } ^ { 2 } - 2 x _ { t } ^ { 2 } - 2 x _ { Z } ^ { 2 } x _ { t } ^ { 2 } ) ^ { 1 / 2 } } } \\ { { \{ ( 1 + x _ { t } ^ { 2 } - 2 x _ { Z } ^ { 2 } + ( 1 - x _ { t } ^ { 2 } ) ^ { 2 } x _ { Z } ^ { - 2 } ) [ ( g _ { t _ { 1 } , t _ { t } } ^ { Z } ) ^ { 2 } + ( g _ { t _ { 1 } , t _ { t } b _ { t } } ^ { Z } ) ^ { 2 } ] } } \\ { { \quad \quad \quad \quad \quad + 1 2 x _ { t } g _ { t _ { 1 } L _ { t } } ^ { Z } g _ { t _ { 1 } b _ { t } } ^ { Z } \} \ , } } \end{array}
+$$
+
+$$
+\begin{array} { r l r } {  { \Gamma ( \mathrm { t } _ { 1 } \to \mathrm { h } ^ { 0 } \mathrm { t } ) = \frac { m _ { t _ { 1 } } } { 3 2 \pi } ( 1 + x _ { h ^ { 0 } } ^ { 4 } + x _ { t } ^ { 4 } - 2 x _ { h ^ { 0 } } ^ { 2 } - 2 x _ { t } ^ { 2 } - 2 x _ { h ^ { 0 } } ^ { 2 } x _ { t } ^ { 2 } ) ^ { 1 / 2 } } } \\ & { } & { \{ ( 1 + x _ { t } ^ { 2 } - x _ { h ^ { 0 } } ^ { 2 } ) [ ( g _ { \dot { t } _ { 1 L } t _ { R } } ^ { h ^ { 0 } } ) ^ { 2 } + ( g _ { \dot { t } _ { L } t _ { 1 R } } ^ { h ^ { 0 } } ) ^ { 2 } ] } \\ & { } & { + 4 x _ { t } g _ { \dot { t } _ { 1 L } t _ { R } } ^ { h ^ { 0 } } g _ { \dot { t } _ { L } t _ { 1 R } } ^ { h ^ { 0 } } \} ~ , } \end{array}
+$$
+
+where $x _ { i } = m _ { i } / m _ { t _ { 1 } }$ for $i = \mathrm { W } , \mathrm { Z } , \mathrm { t } , \mathrm { h } ^ { \mathrm { 0 } }$ . The heaviest new up-type quark t2 has six decay channels. The decay widths have the similar forms and can be deduced straightforwardly.
+
+The couplings for the W, $Z$ ， $h ^ { 0 }$ boson with $b , b _ { 1 } , b _ { 2 }$ in Eq. (14) are
+
+$$
+\begin{array} { r l } & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \quad \quad \quad \quad \quad \quad \quad \quad \quad  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ &  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \end{array}
+$$
+
+The decay widths of the lightest new down-type quark $\mathrm { b } _ { 1 }$ are
+
+$$
+\begin{array} { r l } & { \Gamma ^ { \{ \} } ( \mathbf { b } _ { 1 } \to \mathrm { W i } ) = \frac { m C _ { 2 } } { 3 2 \pi } ( 1 + x _ { \nu } ^ { \alpha } + x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } x _ { \nu } ^ { \alpha } ) ^ { 1 / 2 } } \\ & { \qquad \quad \Big \{ ( 1 + x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } x _ { \nu } + ( 1 - x _ { \nu } ^ { \alpha } ) x _ { \nu } ^ { \alpha } ) ^ { \top } ( \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha } } ) ^ { 1 } + ( \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha }  ) ^ { 1 } \Big \}  \\ & { \qquad \quad - 1 2 x _ { \nu } \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha } } \theta _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha }  ,  \\ & { \Gamma ^ { \{ \} } ( \mathbf { b } _ { 1 } \to \mathrm { W i } ) = \frac { m P _ { \mathrm { H } } } { 3 2 \pi } ( 1 - x _ { \nu } ^ { \alpha } + x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } x _ { \nu } ^ { \alpha } ) ^ { 1 / 2 } } \\ & { \qquad \quad \Big \{ ( 1 + x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \alpha } + ( 1 - x _ { \nu } ^ { \alpha } ) ^ { \top } x _ { \nu } ^ { \alpha } - ( 1 - x _ { \nu } ^ { \alpha } ) ( \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha } } ) ^ { 1 } + ( \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha }  ) ^ { 2 } \Big \}  \\ & { \qquad \quad - 1 2 x _ { \nu } \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha } } \theta _ { \mathrm { W i } ; \varepsilon } ^ { \{ \alpha }  ,  \\ &  \Gamma ^ { \{ \} \{ \mathbf { b } _ { 1 } \to \mathbf { W i } ^ { \beta } \} - \frac { m C _ { 1 } } { 3 2 \pi } ( 1 + x _ { \nu } ^ { \alpha } + x _ { \nu } ^ { \beta } + x _ { \nu } ^ { \alpha } - 2 x _ { \nu } ^ { \beta } - 2 x _ { \nu } ^ { \alpha } x _ { \nu } ^ { \beta } ) } \\ &  \qquad \quad \{ ( 1 + x _ { \nu } ^ { \alpha } - x _ { \nu } ^ { \beta } ) \Big \} \Big \{ \phi _ { \mathrm { W i } ; \varepsilon } ^ { \{ \} } \Big \} \\ &  \qquad \quad - 1 2 x _  \end{array}
+$$
+
+where $x _ { i } = m _ { i } / m _ { b _ { 1 } }$ for index $i = \mathrm { W , Z , b , h ^ { 0 } }$ . The heaviest new down-type quark b $_ 2$ has six decay channels, the decay widths have the similar forms and can be deduced straightforwardly.
+
+[1] ATLAS Collaboration (G. Aad et al.),Phys.Lett. B 716 (2012）1; CMS Collaboration (S. Chatrchyan et al.)，Phys. Lett. B 716 (2012) 30.   
+[2] K.S. Babu, J.C. Pati and H. Stremnitzer, Phys. Lett. B 256, 206 (1991)； T. Moroi and Y. Okada，Mod. Phys. Lett.A 7,187 (1992)；Phys. Lett. B 295,73 (1992)； K.S. Babu and J.C. Pati, Phys. Lett. B 384, 140 (1996); M. Bastero-Gil and B. Brahmachari, Nucl. Phys. B 575, 35 (2000); Q. Shafi and Z. Tavartkiladze, Nucl. Phys. B 580, 83 (2000); K.S. Babu, I. Gogoladze and C. Kolda, hep-ph/0410085; V. Barger, J. Jiang, P. Langacker and T.-J. Li, Int. J. Mod. Phys. A 22, 6203 (2007); K.S. Babu, I. Gogoladze,M.U. Rehman, Q. Shafi, Phys. Rev. D 78, 055017 (2008); P.W. Graham, A. Ismail, S. Rajendran, P. Saraswat, Phys. Rev. D 81,055016 (2010); Z.-f. Kang and T.-j. Li, JHEP 1210,150 (2012).   
+[3] T. Ibrahim and P. Nath, Phys. Rev. D 78, 075013 (2008).   
+[4] C. Liu, Phys. Rev.D 80,035004 (2009) (arXiv:0907.3011[hep-ph]).   
+[5] S.P. Martin, Phys. Rev. D 81, 035004 (2010).   
+[6] S.W. Ham, S.-a Shim and S.K. Oh,arXiv:1001.1129 [hep-ph]; C. Liu and S. Yang, Phys. T. Moroi, R. Sato and T.T. Yanagida, Phys. Lett. B 709, 218 (2012)； M. Endo, K. Hamaguchi, S. Iwamoto, and N. Yokozaki, Phys. Rev. D 85, 095012 (2012); K. Nakayama and N. Yokozaki, arXiv:1204.5420 [hep-ph]; S.P. Martin and J.D. Wells, Phys. Rev. D 86, 035017 (2012); Y. Okada and L. Panizzi, arXiv:1207.5607 [hep-ph]; J. Kearney, A. Pierce and N. Weiner,arXiv:1207.7062 [hep-ph]; M.A. Ajaib, I. Gogoladze and Q. Shaf, arXiv:1207.7068 [hep-ph].   
+[7] R.Sundrum， arXiv:0909.5430 [hep-ph]； T. Gherghetta and A. Pomarol, arXiv:1107.4697 [hep-ph]; C. Bouchart,A. Knochel and G. Moreau, arXiv:1101.0643 [hep-ph]; M. McGarrie, arXiv:1109.6245 [hep-ph]. [8] Daya Bay Collaboration (F.P. An et al.),Phys. Rev.Lett.108,171803 (2012) (arXiv:1203.1669 [hep-ex]).   
+[9]RENO collaboration (J.K. Ahn et al.), Phys. Rev. Lett.108,191802 (2012) (arXiv:1204.0626 [hep-ex]).   
+[10] C. Aulakh and R. Mohapatra, Phys. Lett. B 119,136 (1982); F. Zwirner,Phys. Lett.B 132, 103 (1983)； L. Hall and M. Suzuki, Nucl. Phys. B 231, 419 (1984); I.H. Lee, Phys. Lett.B 138,121 (1984); G. Ross and J. Valle, Phys. Lett.B 151,375 (1985); J. Ells, G. Gelmini, C. Jarlskog, G.G. Ross, and J.W. Vale., Phys. Lett. B 150,142 (1985); S. Dawson, Nucl. Phys. B 261, 297 (1985); R. Barbieri and A. Masiero, Nucl. Phys. B 267, 679 (1986); S. Dimopoulos and L. Hall, Phys. Lett. B 207, 210 (1988)； V.D. Barger, G.F. Giudice and T. Han, Phys. Rev. D 40, 2987 (1989); L.E. Ibanez and G.G. Ross,Phys. Lett.B 368 (1992) 3. C. C. J. Louis and G. Moreau, arXiv:0911.3640 [hep-ph]; M. Chemtob, P.N. Pandita, arXiv:0708.1284 [hep-ph]; A. Abada, G. Bhattacharyya and G. Moreau, arXiv:0606179 [hep-ph]; A. Abada, G. Moreau, arXiv:0604216 [hep-ph]. For reviews, see M. Chemtob, Prog. Part. Nucl. Phys. 54, 71 (2005); R. Barbier et al, Phys. Rept. 420,1, (2005).   
+[11] A.Y. Smirnov and F. Vissani, Nucl. Phys. B 460, 37 (1996)； C. Liu, Mod. Phys. Lett.A 12, 329 (1997); M. Drees, S. Pakvasa, X. Tata and T. der Veldhuis, Phys. Rev. D 57, 5335 (1998); G. Bhattacharyya, H.V.K. Kleingrothaus and H. Päs, Phys. Lett. B 463, 77 (1999); A.S. Joshipura, S.K. Vempati, Phys. Rev. D 60,111303 (1999); C.-H. Chang and T.-F. Feng, Eur. Phys. Jour. C 12, 137 (2000); M. Bisset, O.C.W. Kong, C. Macesanu, L.H. Orr, Phys. Rev. D 62, 035001 (2000); E.J. Chun and S.K. Kang, Phys. Rev. D 61, 075012 (2000); A.S. Joshipura, R.D. Vaidya and S.K. Vempati, Phys.Rev. D 65, 053018 (2002)； A. Abada, S. Davidson,and M. Losada, Phys. Rev. D 65, 075010 (2002)； A. Abada, G. Bhattacharyya, and M. Losada, Phys. Rev. D 66, 071701 (2002)； F. Borzumati and J.S. Lee, Phys.Rev.D 66,115012 (2002); M.A. Diaz, M. Hirsch,W. Porod, J.C. Romao, J.W.F. Vale, Phys. Rev. D 68,013009 (2003), Erratum Phys. Rev. D 71, 059904 (2005)； S. Bar-Shalom and S. Roy, Phys.Rev. D 69, 075004 (2004); B.C. Allanach, A. Dedes,and H.K. Dreiner,Phys.Rev. D 69,115002 (2004),，Erratum Phys. Rev.D 72, 079902 (2005)； G. Bhattacharyya, P.B. Pal, H. Päs,and T.J. Weiler， Phys.Rev. D 74, 053006 (2006)； M. Gozdz，W.A. Kaminski, F. Simkovic,and A. Faessler, Phys. Rev.D 74, 055007 (2006); S. Choubey and M. Mitra, JHEP 1005, 021 (2010); E. Halyo, arXiv:1101.6044; C. Frugiuele and T. Gregoire, Phys. Rev. D 85, 015016 (2012); E. Peinado and A. Vicente, Phys. Rev. D 86, 093024 (2012).   
+[12] L.J. Hal and M. Suzuki, Nucl. Phys. B 231, 419 (1984).   
+[13] J.W.F. Valle,hep-ph/9712277   
+[14] K.S. Babu and R.N. Mohapatra, Phys. Rev. D 42,3778 (1990) ; R. Barbieri et.al, Phys. Lett. B 252, 251, (1990).   
+[15] Andre de Gouvea, Smaragda Lola and Kazuhiro Tobe, Phys. Rev. D 63, 035004 (2001).   
+[16] K. S. Babua et.al, Phys. Rev. D 78, 055017, (2008).   
+[17] S. Chatrchyan et al. [CMS Collaboration], arXiv:1203.5410 [hep-ex].   
+[18] S. Chatrchyan et al. [CMS Collaboration], arXiv:1109.4985 [hep-ex].   
+[19] K. Rao and D. Whiteson, Phys. Rev. D 86, 015008, (2012).   
+[20] Stephen P. Martin and James D. Wells,Phys. Rev. D 86, 035017, (2012).   
+[21] N. Arkani-Hamed,K. Blum, R. T.D'Agnolo and J. J. Fan, arXiv:1207.4482 [hep-ph]； M. A .Ajaib,I. Gogoladze and Q. Shafi， arXiv:1207.7068 [hep-ph]； N. Bonne,G. Moreau, arXiv:1206.3360 [hep-ph]; K. Kumar， R. V. Morales, F. Yu, arXiv:1205.4244 [hep-ph]；A. Joglekar, P. Schwalerb and C. E. M. Wagnera, arXiv:1303.2969 [hep-phl; W. Z. Feng and P. Nath,arXiv:1303.0289 [hep-ph]; K. A. Pierce and N. Weiner,arXiv:1207.7062 [hep-ph].   
+[22] G. Aad et al. [ATLAS Collaboration], arXiv:1207.7214 [hep-ex].   
+[23] S. Chatrchyan et al. [CMS Collaboration],arXiv:1207.7235 [hep-ex].   
+[24] K. Ishiwata and M. B. Wise, Phys. Rev. D 84, 055025, (2011).   
+[25] M.A .Ajaib,I. Gogoladze and Q. Shaf,arXiv:1207.7068 [hep-ph]； M. R. Buckley and
+
+D.Hooper， arXiv:1207.1445 [hep-ph]； A. Joglekar， P. Schwaler and C. E. M. Wagner, arXiv:1207.4235 [hep-ph]; N. D. Christensen, T. Han and S. Su, arXiv:1203.3207 [hep-ph]; R. Benbrik, M. G. Bock, S. Heinemeyer, O. Stal, G. Weiglein and L. Zeune, arXiv:1207.1096 [hep-ph].
+
+[26] M. Fairbairn et.al, Phys.Rept. 438,1 (2007).

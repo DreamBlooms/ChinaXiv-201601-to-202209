@@ -1,0 +1,424 @@
+[
+    {
+        "type": "text",
+        "text": "2017一2019年中天山北坡城市群大气污染及污染天气类型特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李淑婷1,23，李霞1²，毛列尼·阿依提看²，钟玉婷1²，王慧琴1.2(1.中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002；2.中国气象局阿克达拉大气本底野外科学试验基地,新疆 乌鲁木齐830002；3.新疆树木年轮生态实验室,新疆 乌鲁木齐830002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用2017—2019年中天山北坡城市群(乌鲁木齐市、昌吉市、石河子市、五家渠市)逐时大气污染物监测数据及气象数据，分析了大气污染物年内变化和污染天气类型特征。结果表明：(1)中天山北坡4座城市6类大气污染物中 $\\mathrm { P M } _ { 2 . 5 }$ 超标日数最多(年均 $9 4 { \\sim } 1 0 4 \\mathrm { ~ d } ,$ ，年均浓度介于64\\~73$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ ，且五家渠市 $\\mathrm { \\dot { > } }$ 乌鲁木齐市 $>$ 石河子市 $>$ 昌吉市。采暖期 $\\mathrm { P M } _ { 2 . 5 }$ 浓度在 $1 0 0 { \\sim } 1 1 8 ~ { \\mu } \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 之间，是非采暖期的 $4 . 0 0 { \\sim } 5 . 0 0$ 倍，靠近山前地带的城市 $\\mathrm { P M } _ { 2 . 5 }$ 浓度日变化大体呈现“双峰双谷型”(2)4座城市污染天气类型主要分为静稳型、沙尘型和特殊型，其中静稳型占 $8 6 . 2 \\% { \\sim } 9 3 . 6 \\%$ 、沙尘型占 $5 . 8 \\%$ 2$1 3 . 2 \\%$ 。静稳型污染天气多出现在冬季，沙尘型主要出现在春、秋季节。静稳型污染天气中 $\\mathrm { V } - \\mathrm { W }$ 级污染级别占比 $4 5 . 8 \\% { \\sim } 5 6 . 6 \\%$ ，沙尘型污染天气中 $\\mathrm { V } - \\mathrm { W }$ 级污染级别占比 $1 4 . 9 \\% \\sim 2 9 . 4 \\%$ 。(3）静稳型和沙尘型污染天气下 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度都存在显著的线性相关，前者 $\\mathrm { P M } _ { 1 0 }$ 浓度是 $\\mathrm { P M } _ { 2 . 5 }$ 的1.26倍，而后者达3.16倍，此倍数可以作为区分静稳型和沙尘型污染天气的判据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超标日；污染物浓度；污染天气类型；静稳型天气；沙尘型天气 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自2013年我国颁布《大气污染防治行动计划》]以来，国内大气污染防控取得了显著成效， $\\mathrm { S O } _ { 2 } , \\mathrm { P M } _ { 1 0 }$ 等污染物排放量显著下降2]。然而，我国目前仍面临着严峻的大气复合污染，全国多地 $\\mathrm { P M } _ { 2 . 5 }$ 浓度仍然超标， $\\mathrm { \\Delta O } _ { 3 }$ 污染呈大范围蔓延态势[3-4]，环境空气质量进一步改善难度增加。众多学者对我国重点空气污染区域诸如京津冀[5-6]、长三角[7]、珠三角[8]、四川盆地9等均开展了区域大气污染物的时空变化特征研究，发现不同区域污染物及其时空分布特征不尽相同。京津冀地区 $\\mathrm { P M } _ { 2 . 5 }$ 污染呈现南高北低的特点[10],重污染日多集中在冬季，且首要污染物主要为细颗粒物[。长三角地区江苏省 $\\mathrm { P M } _ { 1 0 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { S O } _ { 2 }$ 和 $\\mathrm { N O } _ { 2 }$ 浓度普遍比浙江省要高，重污染主要发生在秋、冬两季内陆城市[7。其中，南京为长三角地区空气污染较为严重的城市， $\\mathrm { \\Delta O } _ { 3 }$ 成为继颗粒物污染之后长三角地区大气污染治理的重点和难点[1]。珠三角近年来表现出经济核心区一次污染物浓度下降趋势明显，二次污染尤其是 $\\mathrm { O } _ { 3 }$ 污染加剧特点[8]。四川盆地重污染日首要污染物是 $\\mathrm { P M } _ { 2 . 5 }$ 或 $\\mathrm { O } _ { 3 } ^ { [ 1 2 ] }$ ，污染天数最多的是1月，其次是12月和2月，其中成都市一年内大气污染超标天数超过 $1 5 0 \\mathrm { d }$ 。春季沙尘天气给兰州市输送了大量沙尘颗粒，形成重污染[13]冬季的北京由于近地层逆温、大气静稳致使污染物难以扩散,常常出现持续性重污染天气[6。可见，国内几大重污染城市群由于地域分布广、天气气候差异显著，大气污染特征都具有各自的独特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，中天山北麓的乌(乌鲁木齐)昌(昌吉)石(石河子)地区重污染事件频发，区域性大气污染问题日趋凸显4，成为我国一个新的大气污染高发区。中天山北坡城市群包含乌鲁木齐市、石河子市、昌吉市、阜康市、五家渠市及呼图壁县、玛纳斯县和沙湾县5市3县(图1)，地理区位优越、人口密集、工业发展迅速，是新疆“丝绸之路经济带”的核心区域。复杂的天气形势和边界层结构，以及冬季逆温、小风和中低层较强的偏东风都常常引起乌鲁木齐等地重污染事件的发生[15-17]。仅2018年11月—2019年3月，新疆重污染天气应急指挥部办公室就针对乌昌石地区启动了5次重污染天气黄色预警[18],引发各方关注。本文针对中天山北坡的乌鲁木齐市、昌吉市、石河子市和五家渠市，基于2017—2019年逐时污染物浓度数据，分析了大气污染物区域变化和污染天气类型特征，以期为今后空气质量预报预警、区域大气污染联防联控和决策分析提供一些科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中天山北坡城市群位于准噶尔盆地南缘，范围为 $4 2 ^ { \\circ } 5 2 ^ { \\prime } \\sim 4 5 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { N } \\vphantom { ^ 2 } 8 8 ^ { \\circ } 4 0 ^ { \\prime } \\sim 9 1 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { E }$ ，南北长244$\\mathrm { k m }$ 、东西宽 $4 4 5 ~ \\mathrm { k m }$ ,区域狭长[18]。城市群背靠天山山脉，北部为古尔班通古特沙漠，地理位置见图1。该区域是天山北坡经济带的重要组成部分，是新疆现代工业、农业、交通信息、教育、科技等最为发达的核心区域。这个区域集中了全疆 $4 0 . 0 \\%$ 以上的城镇人口，占全疆 $3 . 8 \\%$ 的面积上创造了全疆2/5的生产总值[19]。良好的城镇、交通、能源等基础条件，使其对全疆经济发展起着重要的带动、辐射和示范作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究时段为2017一2019年，6类大气污染物 $( \\mathrm { P M } _ { 2 . 5 } \\mathrm { , } \\mathrm { P M } _ { 1 0 } \\mathrm { , } \\mathrm { C O } \\mathrm { , } \\mathrm { N O } _ { 2 \\mathrm { , } } \\mathrm { O } _ { 3 }$ 和 $\\mathrm { S O } _ { 2 }$ )的逐时监测数据来自中国生态环境部官网(https://www.mee.gov.$\\mathrm { c n / }$ )。研究范围内乌鲁木齐市包括7个环境监测站（三十一中学、铁路局、监测站、七十四中、米东区环保局、收费站和农科院）、昌吉市2个站(新区政务中心和州监测站）、石河子市2个站(艾青诗歌馆和阳光学校)和五家渠市环境监测站，共计12个监测站。所有监测站点的监测设备、数据采集、数据质量控制等都严格遵照国家行业标准“GB3095-2012\"和\"HJ/T193-2005”。四季划分方法如下：3—5月为春季;6—8月为夏季；9—11月为秋季；12月—次年2月为冬季。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 统计方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据生态环境部环境空气质量指数(Airquali-tyindex，AQI)技术规定(试行)(HJ633-2012)，本文将2017—2019年6类大气污染物质量浓度日均值按标准划分为6个等级(表1)，大气污染物日均浓度超过Ⅱ级标准的为超标日。此外，根据环境空气质量标准(GB3095-2012），规定 $\\mathrm { P M } _ { 2 . 5 }$ 年平均浓度 ${ > } 3 5$ $\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 为超过国家空气质量二级标准， $\\mathrm { P M } _ { 1 0 }$ 年均浓度 ${ \\bf \\ddot { \\tau } } > 7 0 ~ \\mu \\bf { g } \\cdot \\bf { m } ^ { - 3 }$ 为超过国家空气质量二级标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照北京重污染天气类型的划分方法[20]，本文将中天山北坡城市群的污染天气划分为3类：静稳",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80f6acb83031259c18586b7873b65e50c0d479b64f7ab78a778d211b7e7fb15a.jpg",
+        "img_caption": [
+            "图1中天山北坡城市群地理位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Geographical location of urban agglomeration on the north slope of the middle Tianshan Mountains ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e063df126d21bada3468cb4dbc5c3ec98dce73262ec3d02fd8bcf9787540d783.jpg",
+        "table_caption": [
+            "表16类大气污染物质量浓度日均值等级划分标准",
+            "Tab.1 Classification criteria for daily average concentrations of six air pollutants "
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { O } _ { 3 - 8 }$ 表示 $\\mathrm { O } _ { 3 }$ 的 $8 \\mathrm { h }$ 滑动平均值。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>大气污染物</td><td>I级</td><td>Ⅱ级</td><td>Ⅲ级</td><td>V级</td><td>V级</td><td>VI级</td></tr><tr><td>PM25/μg·m3</td><td>≤35</td><td>35~75</td><td>75~115</td><td>115~150</td><td>150~250</td><td>> 250</td></tr><tr><td>PM1o/μg·m-3</td><td>≤50</td><td>50~150</td><td>150~250</td><td>250~350</td><td>350~420</td><td>> 420</td></tr><tr><td>SO/μg·m-3</td><td>≤50</td><td>50~150</td><td>150~475</td><td>475~800</td><td>800~1600</td><td>> 1600</td></tr><tr><td>NOz/μg·m-3</td><td>≤40</td><td>40~80</td><td>80~180</td><td>180~280</td><td>280~565</td><td>> 565</td></tr><tr><td>CO/mg·m-3</td><td>≤2</td><td>2~4</td><td>4~14</td><td>14~24</td><td>24~36</td><td>>36</td></tr><tr><td>03-8/μg·m-3</td><td>≤100</td><td>100~160</td><td>160~215</td><td>215~265</td><td>265~800</td><td>>800</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "型污染天气、沙尘型污染天气和特殊型污染天气。静稳型污染天气是指由于大气扩散条件不利，导致大气污染物逐步累积，从而形成的污染天气；沙尘型污染天气是由于沙尘输送造成的大气污染；特殊型污染天气，即春节期间因为鞭炮燃放等特殊因素造成的短时大气污染。判别依据主要参考污染天气及其前后的天气现象记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1中天山北坡大气污染总体状况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017—2019年中天山北坡城市群首要污染物以 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 为主，4座城市乌鲁木齐市、昌吉市、石河子市和五家渠市以 $\\mathrm { P M } _ { 2 . 5 }$ 为首要污染物的年平均日数分别有 $1 0 3 \\mathrm { ~ d ~ } , 9 3 \\mathrm { ~ d ~ } , 9 3 \\mathrm { ~ d ~ }$ 和96d,分别是以$\\mathrm { P M } _ { 1 0 }$ 为首要污染物的日数的6.43倍、13.29倍、15.50倍和8.00倍。4座城市超标的大气污染物有 $\\mathrm { P M } _ { 2 . 5 }$ ）$\\mathrm { P M } _ { 1 0 } , \\mathrm { N O } _ { 2 }$ 和CO,年均超标日数分别介于 $9 4 { \\sim } 1 0 4 \\mathrm { ~ d ~ }$ 、$5 6 { \\sim } 9 2 \\mathrm { ~ d } , 1 1 { \\sim } 4 1 \\mathrm { ~ d }$ 和1\\~7d,其中五家渠市 $\\mathrm { P M } _ { 1 0 }$ 超标日数最多(92d)，乌鲁木齐市 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { N O } _ { 2 }$ 超标日数最多，分别为104d和 $4 1 \\textup { d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4种大气污染物月均超标日数及等级分布都呈现明显的季节性特征(图2)，呈“U\"型分布，即夏半年以优良等级天数居多、超标日数少，冬半年超标日数多、大气污染物浓度等级高，这与国内其他城市相似[21-23]。冬季12月—次年2月，乌鲁木齐市、昌吉市、石河子市和五家渠市 $\\mathrm { P M } _ { 2 . 5 }$ 超标日数分别为81d(占全年超标日数 $7 2 . 0 \\%$ ，下同） $. 7 7 \\ : \\mathrm { d } ( 7 7 . 0 \\% )$ 、$8 1 ~ \\mathrm { d } ( 7 5 . 0 \\% )$ 和 $8 0 \\ : \\mathrm { d } ( 7 3 . 0 \\% )$ ,其中大于 $\\mathrm { \\Delta V }$ 级的超标日数分别为 $4 4 \\textup d \\lrcorner 4 0 \\textup d \\lrcorner 4 7 \\textup d \\lrcorner 5 2 \\textup d$ ，相当于1/2以上的$\\mathrm { P M } _ { 2 . 5 }$ 超标日都达到重度以上污染水平。1月是 $\\mathrm { P M } _ { 2 . 5 }$ 超标日数最多的月份，4座城市月平均超标日数为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30d,近乎整月超标。此外，春末3月和秋季10、11月也会有1/3日数 $\\mathrm { P M } _ { 2 . 5 }$ 出现超标。与 $\\mathrm { P M } _ { 2 . 5 }$ 相比，$\\mathrm { P M } _ { 1 0 }$ 不仅冬半年超标严重，夏半年也有超标日数出现，这与冷空气活动将土壤、沙尘颗粒裹挟至城市上空有关。除五家渠市以外，CO超标日数主要出现在冬季1—2月。 $\\mathrm { N O } _ { 2 }$ 超标日数集中在冬半年的10月一次年3月，1月超标日数最多(6\\~17d)。这与冬季采暖期化石燃料的燃烧、机动车废气等排放量的增加有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2中天山北坡大气污染物浓度状况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1不同阶段大气污染物浓度状况2017—2019年中天山北坡城市群 $\\mathrm { P M } _ { 2 . 5 }$ 年平均浓度分别为71$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\cdot 6 4 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\cdot 6 5 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $7 3 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ （表2），$\\mathrm { P M } _ { 1 0 }$ 年平均浓度分别为 $1 1 6 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 、 $1 0 7 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 、$1 0 6 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $1 3 4 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ ;与乌鲁木齐市 2013—2016年的大气污染物浓度[24]相比，2017—2019年$\\mathrm { P M _ { 1 0 } } \\setminus \\mathrm { P M } _ { 2 . 5 \\setminus } \\mathrm { N O } _ { 2 \\setminus } \\mathrm { S O } _ { 2 \\setminus } \\mathrm { C O }$ 分别下降了 $3 4 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 } \\cdot 5$ $\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\mathrm { , } 8 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\mathrm { , } 1 3 \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\mathrm { , } 0 . 3 7 \\mathrm { m g } \\cdot \\mathrm { m } ^ { - 3 }$ ，下降幅度分别为 $2 2 . 7 \\% . 6 . 6 \\% . 1 3 . 5 \\% . 5 2 . 6 \\% . 2 1 . 3 \\%$ 。不容忽视的事实是，2017—2019年4座城市 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 年均浓度都超过了国家二级标准，气体污染物年均浓度均没有超标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市群的粗细颗粒物浓度比值介于0.54\\~0.61,说明细颗粒污染较为严重。若以 $\\mathrm { P M } _ { 2 . 5 }$ 浓度衡量，4座城市污染程度为：五家渠市 ${ \\bf \\bar { \\rho } } > { \\bf \\bar { \\rho } }$ 乌鲁木齐市 $\\mathrm { \\dot { ~ } } >$ 石河子市 $>$ 昌吉市。冬季中天山北坡受燃煤采暖、大气稳定度增加和逆温频发等影响，更易导致 $\\mathrm { P M } _ { 2 . 5 }$ 的累积加剧和扩散不利[，其中采暖期(10月15日一次年4月15日） $\\mathrm { P M } _ { 2 . 5 }$ 平均浓度介于 $1 0 0 { \\sim } 1 1 8 ~ { \\mu } \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 之间,是非采暖期的4\\~5倍。京津冀 $2 { + } 2 6 ^ { \\circ }$ \"城市经历了大规模污染治理后，2017—2018年采暖期(11月一次年3月） $\\mathrm { P M } _ { 2 . 5 }$ 浓度是 $8 5 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 [ 2 5 ] }$ ,而3a来中天山北",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)乌鲁木齐市 $\\mathbf { \\hat { P } M } _ { 2 . 5 }$ （204号 (b)乌鲁木齐市 $\\mathbf { \\dot { P } M } _ { 1 0 }$ （204号 (c)乌鲁木齐市CO (d)乌鲁木齐市 $\\mathbf { N O } _ { 2 }$   \nP/日 353025201510 8 P/日 325225510 □ P/日 864 P/日 201628 50 H 山 5月uaJ 2 40 几 山 123456789101112 123456789101112 123456789101112 123456789101112 月份 月份 月份 月份 (e)昌吉市 $\\mathrm { P M } _ { 2 . 5 }$ （204号 (f)昌吉市 $\\mathbf { P M } _ { 1 0 }$ （204号 (g)昌吉市CO (h)昌吉市 $\\mathbf { N O } _ { 2 }$ （204 3530 30 8 20   \nP/ 日 2520 15105 □ □级 V级 P/ 日 2520 15105 ? 日 V级 □级 5 日 42 W级 V级 山 数 日 162 84 ■ 级 V级 0 h □ 0 [- 123456789101112 123456789101112 123456789101112 123456789101112 月份 月份 月份 月份 (i)石河子市 $\\mathrm { P M } _ { 2 , 5 }$ （204号 ()石河子市 $\\mathbf { P M } _ { 1 0 }$ （204号 (k)石河子市CO (l)石河子市 $\\mathbf { N O } _ { 2 }$ 35 30 8 20   \nP/日 3025201510 P/日 2520510 □ P/日 1628 5 5 2 4 山H 0---------- 0 l----- 123456789101112 123456789101112 123456789101112 123456789101112 月份 月份 月份 月份 (m)五家渠市 $\\mathbf { P M } _ { 2 . 5 }$ （204号 (n)五家渠市 $\\mathrm { P M } _ { 1 0 }$ （204号 (o)五家渠市CO (p)五家渠市 $\\mathbf { N O } _ { 2 }$ （204号   \nP/日 353025201510 P/日 302520510 P/日 8642 P/日 2016228 1 5 5 □ 1 0 0 10日 0 山 山 123456789101112 123456789101112 123456789101112 123456789101112 月份 月份 月份 月份 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f5914f576987a7d6a647cf6b426a74fe6ab34b11cc31fd040d176919e3b70e4.jpg",
+        "table_caption": [
+            "表22017—2019年中天山北坡城市群大气污染物浓度",
+            "Tab.2 Concentrations of air pollutants of urban agglomeration on the north slope of the middle Tianshan Mountains from 2o17 to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">城市</td><td colspan=\"4\">PM2.5/μg·m-3</td><td colspan=\"4\">PM10/μg·m-3</td><td colspan=\"4\">SO/μg·m-3</td><td colspan=\"4\">CO/mg·m-3</td><td colspan=\"4\">O3-8/μg·m-3</td><td colspan=\"4\">PM2.5/PM1比值</td></tr><tr><td></td><td>全年采暖非采 期</td><td>暖期</td><td></td><td>期</td><td>全年采暖非采 暖期</td><td></td><td></td><td>期</td><td>全年采暖非采 暖期</td><td>全年</td><td>采暖非采 期</td><td>暖期</td><td></td><td>全年采暖非采</td><td>期暖期</td><td></td><td>全年采暖非采</td><td>期</td><td>暖期</td><td></td><td></td><td>全年采暖非采 期暖期</td></tr><tr><td>乌鲁木齐市</td><td>71</td><td>110</td><td>25</td><td></td><td>116 165</td><td>79</td><td></td><td>12</td><td>14</td><td>9</td><td>51</td><td>63</td><td>37</td><td>1.37</td><td>1.92 0.73</td><td></td><td>43</td><td></td><td>29</td><td>65</td><td>0.61</td><td></td><td>0.67 0.32</td></tr><tr><td>昌吉市</td><td>64</td><td>100</td><td>24</td><td>107</td><td>153</td><td>55</td><td></td><td>15</td><td>19</td><td>9</td><td>42</td><td>49</td><td>34</td><td>1.16</td><td>1.61</td><td>0.66</td><td>50</td><td></td><td>36</td><td>70</td><td>0.60</td><td>0.65</td><td>0.44</td></tr><tr><td>石河子市</td><td>65</td><td>103</td><td>21</td><td></td><td>106 150</td><td>55</td><td></td><td>13</td><td>16</td><td>11</td><td>38</td><td>47</td><td>29</td><td></td><td>1.04 1.41 0.62</td><td></td><td>59</td><td></td><td>43</td><td>81</td><td></td><td></td><td>0.61 0.69 0.38</td></tr><tr><td>五家渠市</td><td>73</td><td>118</td><td>22</td><td>134</td><td>189</td><td>68</td><td></td><td>13</td><td>16</td><td>10</td><td>35</td><td>44</td><td>25</td><td>1.31</td><td>1.87</td><td>0.66</td><td>46</td><td>34</td><td></td><td>68</td><td></td><td>0.54 0.62 0.31</td><td></td></tr><tr><td>平均值</td><td>68</td><td>105</td><td>23</td><td>116</td><td>164</td><td>64</td><td></td><td>13</td><td>16</td><td>10</td><td>42</td><td>51</td><td>31</td><td></td><td>1.22 1.70 0.67</td><td></td><td>50</td><td>36</td><td></td><td>71</td><td>0.59 0.66</td><td></td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "坡城市群同期 $\\mathrm { P M } _ { 2 . 5 }$ 平均浓度是 $1 2 3 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ ，可见同期中天山北坡城市群 $\\mathrm { P M } _ { 2 . 5 }$ 浓度是京津冀 $2 { + } 2 6 ^ { \\prime }$ 城市的1.4倍，大气污染的严峻性由此可见一斑。相比 $\\mathrm { P M } _ { 2 . 5 }$ $\\mathrm { P M } _ { 1 0 }$ 和气体污染物( $\\mathrm { O } _ { 3 - 8 }$ 除外)采暖期与非采暖期浓度比值都较小，介于 $1 . 4 0 { \\sim } 2 . 9 0 \\$ 之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 $e$ 季细颗粒物浓度日变化特征图3显示了2017一2019年中天山北坡城市群大气污染物的四季日变化特征。可见，尽管4座城市同处在一个气候区—一北疆沿天山一带,但是每一个季节4座城市的污染物日变化都存在些许差别。例如春季，靠近山前地带的乌鲁木齐市、昌吉市、石河子市 $\\mathrm { P M } _ { 2 . 5 }$ 浓度大体呈现\"双峰双谷型\"变化模态，日最高值出现在凌晨01:00左右，分别为 $5 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\ 、 4 5 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 和$4 5 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ （表3），随后浓度逐渐下降，在早晨08:00—11:00达到谷值。到午后13:00—15:00又再次攀升到一个次高值，之后逐步下降，18:00—20:00出现全天最低值,分别是 $3 9 ~ { \\mu \\mathrm { g } } \\cdot { \\mathrm { m } } ^ { - 3 } \\cdot 3 3 ~ { \\mu \\mathrm { g } } \\cdot { \\mathrm { m } } ^ { - 3 }$ 和33$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 。五家渠市大体为\"单峰单谷型\"变化,日最高值出现在上午 $1 0 { : } 0 0 ( 5 4 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } )$ ,此后便一直降低，在20:00前后达到全天的最低值 $( 2 8 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } )$ 0和平原城市[25-27]比较，可以看到平原城市上午污染物的峰值与早高峰人类活动的时间比较吻合，而中天山北坡城市污染物的第一个峰值却延后至中午，与兰州颗粒物浓度的第一个峰值出现在午后13:00— $1 4 { : } 0 0 ^ { [ 2 8 ] }$ 类似，这与白天谷风及污染源地理分布有关[29-30]。夏季乌鲁木齐市、昌吉市、石河子市$\\mathrm { P M } _ { 2 . 5 }$ 浓度日变化曲线与春季相似，仍然是“双峰双谷型”，只是由于夏季日间长、日照时间也相应增多，大气扩散条件比春季更加有利。因此，污染物浓度的2个峰值出现时间更加靠近，即日最大峰值出现时间推后，介于00:00一03:00出现，次大峰值出现时间提前至09:00—11:00。海拔较低的五家渠市$\\mathrm { P M } _ { 2 . 5 }$ 浓度变化模态“单峰单谷型\"更加明显，最高值出现在03:00,最低值出现 $1 5 { : } 0 0$ 。秋季城市群大气污染物浓度日变化都呈现“双峰双谷型”，峰值、谷值出现时间和各自的春季类似，五家渠市、石河子市全天最高值都出现在白天，分别是10:00、14:00。冬季昌吉市、石河子市 $\\mathrm { P M } _ { 2 . 5 }$ 浓度日变化形态为“双峰双谷型”，全天最低值出现在08:00—10:00，石河子市最高值 $( 1 7 8 \\ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } )$ 出现在白天15:00,昌吉市2个峰值大小相近 $1 5 5 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 } ,$ 。乌鲁木齐市和五家渠市大体为“单峰单谷型”，五家渠市最高值(203$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ,$ )在中午13:00出现，乌鲁木齐市最高值(167$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } )$ 滞后到16:00出现。乌鲁木齐市 $\\mathrm { P M } _ { 2 . 5 }$ 浓度最低值出现在09:00—10:00，五家渠市则在19:00前后。由于靠近山前的城市受到山谷风影响明显[29],而五家渠市则不然，因此五家渠市多数季节与其他3座城市颗粒物浓度日变化迥异。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/946d40c5cd090daafe3965d326d7967622ab72db3fdd1d902588e90df63230a8.jpg",
+        "img_caption": [
+            "图32017—2019年中天山北坡城市群 $\\mathrm { P M } _ { 2 . 5 }$ 浓度四季日变化",
+            "Fig.3Diurnal variation of $\\mathrm { P M } _ { 2 . 5 }$ concentration of urban agglomeration in four seasons of urban agglomeration on the north slope of the middle Tianshan Mountains from 2O17 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a2c364ff7ce4043eb00a51d7478fb764a8c091b6d1d8537a660648fd6989826.jpg",
+        "table_caption": [
+            "表32017—2019年中天山北坡城市群四季 $\\mathbf { P M } _ { 2 . 5 }$ 浓度日最高、最低值统计",
+            "Tab.3 Statistics of daily maximum and minimum $\\mathbf { P } \\mathbf { M } _ { 2 . 5 }$ concentration in four seasons of urban agglomeration on the north slope of the middle Tianshan Mountains from 2o17 to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">城市</td><td colspan=\"2\">春季</td><td colspan=\"2\">夏季</td><td colspan=\"2\">秋季</td><td colspan=\"2\">冬季</td></tr><tr><td>日最高值 /μg·m-3</td><td>日最低值 /μg·m-3</td><td>日最高值 /μg·m-3</td><td>日最低值 /μg·m-3</td><td>日最高值 /μg·m-3</td><td>日最低值 /μg·m-3</td><td>日最高值 /μg·m-3</td><td>日最低值 /μg.m-3</td></tr><tr><td>乌鲁木齐市</td><td>50</td><td>39</td><td>30</td><td>18</td><td>54</td><td>45</td><td>167</td><td>136</td></tr><tr><td>昌吉市</td><td>45</td><td>33</td><td>28</td><td>18</td><td>48</td><td>37</td><td>155</td><td>131</td></tr><tr><td>石河子市</td><td>45</td><td>33</td><td>26</td><td>14</td><td>54</td><td>37</td><td>178</td><td>133</td></tr><tr><td>五家渠市</td><td>54</td><td>28</td><td>24</td><td>12</td><td>56</td><td>33</td><td>203</td><td>160</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3中天山北坡污染天气类型特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "已有研究[15-17.30-31]表明,中天山北坡城市群大气污染在冬季主要受稳定温度层结的影响，春秋季节受沙尘输送的影响，而春节鞭炮燃放等特殊因素也会造成短时大气污染，这与北京[20]、兰州[13]等地大气重污染特征相似。因此，本文将污染天气分为静稳型污染、沙尘型污染和特殊型污染3类。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 不同污染天气类型年内变化特征2017—2019年乌鲁木齐市、昌吉市、石河子市和五家渠市出现Ⅲ级以上(含Ⅲ级)污染天气日数分别是 $3 5 5 \\mathrm { d }$ 、$2 9 8 \\mathrm { d } , 2 9 5 \\mathrm { d }$ 和321d(表4)。上述4座城市静稳型污染天气日数分别是：306d（占污染天气总日数的$8 6 . 2 \\%$ ）、275d( $9 2 . 3 \\%$ ）、 $2 7 6 \\mathrm { ~ d ~ } ( 9 3 . 6 \\% )$ 和288d$( 8 9 . 7 \\% )$ ，平均为 $2 8 6 \\mathrm { ~ d } ( 9 0 . 2 \\% )$ ；沙尘型污染天气日数分别是： $4 7 \\ : \\mathrm { d } ( 1 3 . 2 \\%$ )、21d( $7 . 1 \\%$ ）、 $. 1 7 \\ : \\mathrm { d } ( 5 . 8 \\%$ 和",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$3 2 \\ : \\mathrm { d } ( 1 0 . 0 \\% )$ ,平均为 $2 9 \\mathrm { d } ( 9 . 2 \\% )$ ;特殊性污染天气日数分别是 $2 \\mathrm { d } ( 0 . 6 \\% ) \\ 、 2 \\mathrm { d } ( 0 . 7 \\% ) \\ 、 2 \\mathrm { d } ( 0 . 7 \\% )$ 和1d（ $0 . 3 \\% )$ ,平均为 $2 \\operatorname { d } ( 0 . 6 \\% )$ 。其次，静稳型天气中属于 $\\mathrm { V } - \\mathrm { W }$ 污染级别的比率分别为 $4 5 . 8 \\% , 4 5 . 8 \\%$ 、$4 7 . 1 \\%$ 和 $56 . 6 \\%$ ，沙尘型污染天气中属于 $\\mathrm { V } - \\mathrm { W }$ 污染级别的比率分别为 $1 4 . 9 \\% . 2 8 . 6 \\% . 2 9 . 4 \\%$ 和 $2 1 . 8 \\%$ ，而特殊型全都属于 $\\mathrm { V - W }$ 污染级别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2017—2019年中天山北坡城市群大气污染集中出现在春季和秋冬季(图4)，1月出现天数最多，其次是2、12月；1、2月还是中天山北坡城市群V-VI级重污染天气的高发期，月平均重污染天气比例分别达到 $7 6 . 6 \\%$ 和 $5 2 . 3 \\%$ ；12月ⅢI-V级污染天气较多。春、秋季节多为Ⅲ-V级污染天气。中天山北坡沙尘型污染主要出现在春、秋季，且多属于Ⅲ-M级污染。静稳型污染多出现在冬季，Ⅲ-V级的静稳型污染天气在12月出现日数最高(43d)，其次是2、11月；V-V级的静稳型污染天气则在1月出现日数最高(63d)，其次是2、12月。特殊型则主要出现在1、2月春节期间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2不同污染天气类型下粗细颗粒物相关性特",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "征中天山北坡城市群的污染天气以静稳型和沙尘型为主，不同类型 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 之比也会有所不同。4座城市静稳型污染和沙尘型污染的粗细颗粒物平均比值分别为0.73和0.27，可见这2种污染天气类型粗细颗粒物浓度比例悬殊很大。图5显示了2017一2019年4座城市在静稳型污染天气和沙尘型污染天气中粗细颗粒物浓度的相关关系。可以看出，静稳型污染天气情形下 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 存在非常显著的线性相关,乌鲁木齐市、昌吉市、石河子市、五家渠市的相关系数分别是：0.93、0.93、0.94和0.96，相关系数平均为0.94，都通过了0.001的显著性水平检验；对于沙尘型污染天气，粗细颗粒物相关性稍低，介于 $0 . 6 6 \\mathrm { \\sim } 0 . 9 0$ ，平均相关系数为0.82,也通过",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表42017—2019年中天山北坡城市群污染天气类型出现日数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8d8fd352d4fa5473036033be9707b8f3fed3450e6b307340d706b0f8a0577b6.jpg",
+        "table_caption": [
+            "Tab.4 Number of days of polluted synoptic types of urban agglomeration on the north slope of the middle Tianshan Mountains from 2o17 to 2019 "
+        ],
+        "table_footnote": [
+            "注：重污染比例指污染类型日数中V级及以上污染等级天数的占比。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">污染天气类型</td><td colspan=\"2\">乌鲁木齐市</td><td colspan=\"2\">昌吉市</td><td colspan=\"2\">石河子市</td><td colspan=\"2\">五家渠市</td></tr><tr><td>日数/d</td><td>重污染比例/%</td><td>日数/d</td><td>重污染比例/%</td><td>日数/d</td><td>重污染比例/%</td><td>日数/d</td><td>重污染比例/%</td></tr><tr><td>静稳型</td><td>306</td><td>45.8</td><td>275</td><td>45.8</td><td>276</td><td>47.1</td><td>288</td><td>56.6</td></tr><tr><td>沙尘型</td><td>47</td><td>14.9</td><td>21</td><td>28.6</td><td>17</td><td>29.4</td><td>32</td><td>21.8</td></tr><tr><td>特殊型</td><td>2</td><td>100.0</td><td>2</td><td>100.0</td><td>2</td><td>100.0</td><td>1</td><td>100.0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)乌鲁木齐市ⅢI-IV级污染 (b)昌吉市ⅢI-V级污染 (c)石河子市ⅢI-V级污染 (d)五家渠市ⅢI-IV级污染50 □静稳型 60 □静稳型 50 □静稳型 50 □静稳型40 沙尘型 50 □沙尘型 40 □沙尘型 40 □沙尘型  \n30 ■特殊型 p/ 40 ■特殊型 p/ 30 ■特殊型 p/ 30 ■特殊型30  \n时20 日 20 日 20 日 2010 10 10 100 0 1 0 0 □123456789101112 123456789101112 123456789101112 123456789101112月份 月份 月份 月份(e)乌鲁木齐市V-VI级污染 (f)昌吉市V-VI级污染 (g)石河子市V-VI级污染 (h)五家渠市V-VI级污染□静稳型 865430210 □静稳型 7 □静稳型 8 □静稳型  \nP/ □沙尘型 P/ 压 □沙尘型 P/ 50 □沙尘型 p/ 26050 □沙尘型  \n日 30 ■特殊型 日 ■特殊型 日 30 ■特殊型 日 4030201 ■特殊型20 2010 100 四 0 山 山 血123456789101112 123456789101112 123456789101112 123456789101112月份 月份 月份 月份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)乌鲁木齐市静稳型 (b)昌吉市静稳型 (c)石河子市静稳型 (d)五家渠市静稳型 (e)中天山北坡500 500 500 800 800 城市群静稳型--Br/pd 400 e--8r1/1 600300 300 300400 400200 5 200 200100 v=-1.16x+31.54 100 y1.27x+22.97 100 y-1.23x+14.85 200 y=1.29x+23.07 200 y=1.26x+20.410 0 0 0 0品品品品品 品品品 品品品品 名名名名 名名名名PM2.5/ug·m-3 PM2.5/ug·m-3 PM2.5/ug·m-3 PM2.5/μg·m-3 PM2.5/ug-m-3(f)乌鲁木齐市沙尘型 (g)昌吉市沙尘型 (h)石河子市沙尘型 (i)五家渠市沙尘型 (i)中天山北坡2000 800 1000 1200 2000 城市群沙尘型1000 400 600 600 1400500 y=8.90x-242.65 200 y=2.97x+76.87 200 y=3.46x+27.56 300 L y=2.12x+153.4 T y=3.16x+75.12R²=0.81 R²=0.69 R²=0.77 7 R²=0.43 4 R²=0.450 0 0 0 00 名名名名 茗名品 5050PM2.5/ug·m-3 PM2.5/ug·m-3 PM2.5/ug·m-3 PM2.5/ug-m-3 PM2.5/ug·m-3",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.001的显著性水平检验。对于静稳型污染天气来说，中天山北坡乌鲁木齐市、昌吉市、石河子市、五家渠市4座城市细颗粒物污染非常严重， $\\mathrm { P M } _ { 1 0 }$ 与$\\mathrm { P M } _ { 2 . 5 }$ 浓度非常接近，比值分别是 $1 . 1 6 , 1 . 2 7 , 1 . 2 3 .$ 1.29，平均值为1.26；而对于沙尘型污染天气来说，粗颗粒物浓度远远高于细颗粒物浓度，乌鲁木齐市、昌吉市、石河子市、五家渠市 $\\mathrm { P M } _ { 1 0 } / \\mathrm { P M } _ { 2 . 5 }$ 浓度之比分别为8.90、2.97、3.46、2.12，平均值为3.16。由此表明，通过粗细颗粒物浓度比值就可以判定中天山北坡的污染天气类型",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3不同污染天气类型的气象特征风对大气中污染物浓度的影响极为显著[32]。大气污染物可以在风的作用下稀释扩散或输送到其他地区，风速大小决定了风对污染物输送能力的强弱。风速越大，对大气污染物的稀释扩散及输送能力越强，反之则会加剧污染物的积累。2017—2019年中天山北坡城市群年均风速为 $1 . 6 1 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ ,相对较小,尤其是石河子市和五家渠市，年均风速只有 $1 . 2 2 \\ \\mathrm { m \\cdot s ^ { - 1 } } , 1 . 3 5$ $\\mathbf { m \\cdot s ^ { - 1 } }$ ,较乌鲁木齐市 $( 1 . 9 4 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 } )$ 和昌吉市( $1 . 8 5 \\mathrm { ~ m ~ }$ ·$\\mathbf { s } ^ { - 1 }$ )要低。污染天气时风速更小，Ⅲ-V级污染和$\\mathrm { V } - \\mathrm { W }$ 级污染时，中天北坡城市群平均风速分别为$1 . 4 7 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 和 $1 . 3 3 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 。不同污染天气类型下的风速大小也存在明显差距。静稳型污染天气发生时，平均风速为 $1 . 0 9 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,其中石河子市最小,为0.83$\\mathbf { m \\cdot s ^ { - 1 } }$ ;沙尘型污染天气发生时，平均风速为 $1 . 8 6 \\mathrm { m }$ ：$\\mathrm { ~ s ~ } ^ { - 1 }$ ,其中乌鲁木齐市最大,为 $2 . 8 0 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 。总体来看，静稳型污染天气中，ⅢI-V级污染日的风速略高于V-VI级污染日，说明V-VI级污染天气下风速不利于扩散;沙尘型污染天气中，乌鲁木齐市和昌吉市Ⅱ-V级污染日的风速要低于V-V级污染日，说明乌鲁木齐市和昌吉市上空的沙尘主要是远距离传输贡献大一些，而石河子市和五家渠市则相反，表明石河子市和五家渠市本地源贡献较大一些。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "湿度对大气污染物也有明显影响，相对湿度高有利于污染物的吸湿增长和气粒转化[33-34],进而导致污染物浓度骤升。在诸多气象因子的相关性中，相对湿度与 $\\mathrm { P M } _ { 2 . 5 }$ 浓度的相关性最高[35]。中天山北坡城市群年均相对湿度为 $6 0 . 0 \\%$ ,Ⅲ-V级污染日和V-VI级污染日相对湿度分别为 $6 2 . 0 \\%$ 和 $7 5 . 0 \\%$ 。静稳型污染天气的相对湿度平均为 $7 5 . 0 \\%$ ,较沙尘型污染天气偏高 $3 0 . 4 \\%$ 。可见污染程度越重、天气越稳定，相对湿度就越高。此外，2017—2019年中天山北坡城市群的能见度年均值为 $1 7 \\ \\mathrm { k m }$ ,而Ⅲ-V级污染和 $\\mathrm { V } - \\mathrm { W }$ 级污染时大气能见度分别为 $1 4 ~ \\mathrm { k m }$ 和 $6 \\mathrm { k m }$ ，静稳型和沙尘型污染天气能见度则分别为$6 \\mathrm { k m }$ 和 $1 5 \\mathrm { k m }$ ，污染物浓度的增加以及高湿的影响致使大气能见度下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总体来看，大气污染多发生于风速低、相对湿度大的气象条件下，污染程度严重时更甚。从不同污染天气类型来看，静稳型污染发生时，天气现象一般为雾霾或烟雾，还往往伴随明显的近地层逆温[30.36],风速小、湿度大的气象条件使得大气污染物难以扩散，形成明显的污染积累。沙尘型污染往往伴随大风而出现，天气现象一般表现为浮尘或扬沙。相对于静稳型污染来说，沙尘型污染天气风速大、相对湿度小，能见度相对较高，这是因为沙尘型污染时大气颗粒物以粗颗粒为主，且湿度小，消光作用低于静稳型污染。此外，因沙尘粒子的大量增加，沙尘污染与静稳型污染相比， $\\mathrm { P M } _ { 1 0 }$ 等颗粒物浓度会有所增加，但伴随大风的出现，气态污染物也会随之迅速扩散，浓度明显降低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于2017—2019年乌昌石地区逐时大气污染物浓度数据，分析了大气污染物区域变化和污染天气类型特征，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）中天山北坡城市群超标大气污染物有$\\mathrm { P M } _ { 2 . 5 } \\setminus \\mathrm { P M } _ { 1 0 \\setminus } \\mathrm { N O } _ { 2 }$ 和CO,其中 $\\mathrm { P M } _ { 2 . 5 }$ 年平均超标日数介于 $9 4 { \\sim } 1 0 4 \\mathrm { ~ d ~ }$ ，几乎占全年日数的1/3， $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { N O } _ { 2 }$ 年平均超标日数分别介于56\\~92d和11\\~41d。4种大气污染物超标日数主要出现在冬半年，1月大气污染物超标最多。4座城市中乌鲁木齐市和五家渠市大气污染物超标情况要多于昌吉市和石河子市。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）2017—2019年中天山北坡城市群 $\\mathrm { P M } _ { 2 . 5 }$ 年平均浓度排序为：五家渠市 $( 7 3 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ 乌鲁木齐市 $( 7 2 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ 石河子市 $( 6 5 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ 昌吉市(64$\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } .$ )。4座城市 $\\mathrm { P M } _ { 2 . 5 }$ 年平均浓度值为 $6 8 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ ，是国家二级标准的1.94倍； $\\mathrm { P M } _ { 1 0 }$ 年平均浓度值为$1 1 6 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ ,是国家二级标准的1.66倍。粗细颗粒物年平均比值介于 $0 . 5 4 \\mathrm { \\sim } 0 . 6 1$ 。采暖期 $\\mathrm { P M } _ { 2 . 5 }$ 平均浓度介于 $1 0 0 { \\sim } 1 1 8 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 之间，是非采暖期的4\\~5倍。4座城市的污染物日变化存在些差别，五家渠市多数季节与其他3座城市颗粒物浓度日变化迥异，大体为“单峰单谷型\"变化，其他3座城市则为“双峰双谷型”。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）中天山北坡城市群的污染天气类型中静稳型污染天气出现日数最多(平均286d，占污染天气总日数的 $9 0 . 2 \\%$ )，其次是沙尘型（ $2 9 \\mathrm { d } , 9 . 2 \\%$ )，特殊型最少 $( 2 \\mathrm { d } , 0 . 6 \\%$ )；静稳型污染天气中V-VI污染级别和ⅢI-Ⅳ污染级别所占比例相当，而沙尘型污染天气中ⅢI-V污染级别占比更高。静稳型污染天气多出现在冬季，尤其是1月，而沙尘型污染天气主要出现在春秋季，且多属于 $\\mathbb { I } - \\mathbb { N }$ 级污染。静稳型、沙尘型污染天气下粗细颗粒物浓度相关性很高， $\\mathrm { P M } _ { \\mathrm { 1 0 } } /$ $\\mathrm { P M } _ { 2 . 5 }$ 浓度比值分别为1.26和3.16，这2个比值可以成为区分静稳型污染和沙尘型污染天气的有效判据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）中天山北坡城市群年均风速、相对湿度和能见度分别为 $1 . 6 1 \\ \\mathrm { m \\cdot s ^ { - 1 } } \\cdot 6 0 . 0 \\%$ 和 $1 7 \\mathrm { k m }$ 。静稳型污染发生时风速小 $( 1 . 0 9 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 } )$ ）、湿度大 $( 7 5 . 0 \\% )$ ）、能见度低（ $( 6 ~ \\mathrm { k m } )$ ；沙尘型污染往往伴随风速较大(1.86$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } .$ 、相对湿度较小 $( 5 7 . 5 \\% )$ 、能见度相对较高1 $\\mathrm { 1 5 ~ k m } ,$ 情形。其中沙尘型污染天气中，乌鲁木齐市和昌吉市ⅢI-V级污染日的风速要低于V-VI级污染日，说明远距离沙尘输送贡献大一些；石河子市和五家渠市则相反，表明本地源贡献较大一些。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "奓乂(Keierences) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]中华人民共和国国务院.大气污染防治行动计划[EB/OL]. [2013-09-12]. http://www.gov.cn/zhengce/content/2013-09/13/content_4561.html.[State Council of the People's Republic of China. Action plan for prevention and control of air pollution[EB/OL]. [2013-09-12].htp://www.gov.cnzhengce/content/201-09/13/content 4561.html. ]   \n[2]Li M,Liu H, Geng G N,et al.Anthropogenic emission inventories in China: A review[J]. National Science Review,2017,4(6): 834- 866.   \n[3]中华人民共和国生态环境部.2013年3月和第一季度中国74 个城市的空气质量报告[EB/OL].[2013-04-19]. http:/ww.gov. cn/gzdt/2013-04/20/content_2382956.html.[Ministryof Ecology and Environment of the People’s Republic of China.Air quality report of 74 cities in China for March and the first quarter of 2013 [EB/OL].[2013-04-19]. http://www.gov.cn/gzdt/2013-04/20/content_2382956.html.]   \n[4]Geng G N,Xiao QY, Zheng Y X,et al. Impact of China’s air pollution prevention and control action plan on $\\mathrm { P M } _ { 2 . 5 }$ chemical composition over eastern China[J]. Earth Sciences,2019,62(12):1872- 1884.   \n[5]王英,李令军,刘阳.京津冀与长三角区域大气 $\\mathrm { N O } _ { 2 }$ 污染特征 [J].环境科学,2012,33(11):3685-3692.[Wang Ying,LiLingjun, Liu Yang. Characteristics of atmospheric $\\mathrm { N O } _ { 2 }$ in the Beijing-Tianjin-Hebei Region and the Yangtze River Delta analyzed by satellite and ground observation[J]. Environmental Science,2012,33 (11): 3685-3692. ]   \n[6]李令军,王占山,张大伟,等.2013—2014年北京大气重污染特 征研究[J].中国环境科学,2016,36(1):27-35.[Li Lingjun, Wang Zhanshan, Zhang Dawei, et al. Analysis of heavy air pollution episodes in Beijing during 2O13—2014[J]. China Environmental Science,2016,36(1): 27-35.]   \n[7]刘端阳,魏建苏,严文莲,等.1980—2012年江苏省城市霾日的 时空分布及成因分析[J].环境科学，2014,35(9):3247-3255. [Liu Duanyang,Wei Jiansu, Yan Wenlian,et al. Trends of urban haze in Jiangsu Province China over the past 33 years[J]. Environmental Science,2014,35(9): 3247-3255.]   \n[8]廖志恒,孙家仁,范绍佳,等.2006—2012年珠三角地区空气污 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "染变化特征及影响因素[J].中国环境科学,2015,35(2):329-",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "336.[Liao Zhiheng,Sun Jiaren,Fan Shaojia,etal.Variation characteristicsand influencing factors of air pollution in Pearl River Delta area from 2006 to 2012[J]. China Environmental Science, 2015,35(2): 329-336.]   \n[9]肖丹华,王式功,张莹,等.四川盆地城市群6种大气污染物的 时空分布[J].兰州大学学报(自然科学版),2018,54(5):662- 669.[Xiao Danhua,Wang Shigong, Zhang Ying,et al. Temporal and spatial distribution of six kinds air pollutants in cities in the Sichuan Basin[J]. Journal of Lanzhou University (Natural Science Edition),2018,54(5): 662-669.]   \n[10] 张忠地,邵天杰,黄小刚,等.2017年京津冀地区 $\\mathrm { P M } _ { 2 . 5 }$ 污染特征 及潜在来源分析[J].环境工程,2020,38(2):99-106,134.[Zhang Zhongdi, Shao Tianjie,Huang Xiaogang,et al. Characteristics and potential sources of $\\mathrm { P M } _ { 2 . 5 }$ pollution in Beijing-Tianjin-Hebei Region in 2017[J]. Environmental Engineering,2020,38(2): 99-106, 134.]   \n[11]曹云擎,王体健,韩军彩,等. $2 + 2 6$ \"城市一次污染过程 $\\mathrm { P M } _ { 2 . 5 }$ 化 学组分和来源解析研究[J].环境科学学报,2020,40(2):361- 372.[Cao Yunqing,Wang Tijian, Han Juncai,et al. Study on chemical components and source apportionment of $\\mathrm { P M } _ { 2 . 5 }$ during a pollution episode in $^ { \\cdot \\cdot } 2 { + } 2 6 ^ { \\prime \\prime }$ cities[J]. Acta Scientia Circumstantiae,2020,40(2): 361-372.]   \n[12] 宁贵财.四川盆地西北部城市群冬季大气污染气象成因及其数 值模拟研究[D].兰州:兰州大学,2018.[Ning Guicai.Meteorological causes of air pollution in the northwest urban agglomeration of Sichuan Basin in winter and their numerical simulation[D]. Lanzhou: Lanzhou University,2018.]   \n[13] 赵敬国,王式功,张天宇,等.兰州市大气重污染气象成因分析 [J].环境科学学报,2015,35(5):1547-155.[ZhaoJingguo,Wang Shigong, Zhang Tianyu,et al. The analysis of meteorological factors causing heavy air polution in Lanzhou[J].Acta Scientiae Circumstantiae,2015,35(5): 1547-1555.]   \n[14]王跃思,姚利,刘子锐,等.京津冀大气霾污染及控制策略思考 [J].中国科学院院刊,2013,58(3):353-363.[Wang Yuesi,Yao Li,Liu Zirui,etal.Formationof hazepolution in Beijing-TiajinHebei Region and their control strategies[J].Bulletin of Chinese Academy of Sciences,2013,58(3): 353-363.]   \n[15] 李霞,杨静,麻军,等.乌鲁木齐重污染日的天气分型和边界层 结构特征研究[J].高原气象,2012,31(5):1414-1423.[Li Xia, Yang Jing,Ma Jun,et al.Researches of weather pattern and boundary layer structure characteristics on serious air pollution days in Urumqi[J].Plateau Meteorology,2012,31(5): 1414-1423.]   \n[16] 李霞,贾健.复杂地形多尺度气流对城市大气污染影响的研究 进展[J].沙漠与绿洲气象,2016,10(6):1-10.[Li Xia,JiaJian.Research of the influence of the air flows on multiple scales on the transport and diffusion mechanisms of urban air pollution over the complex terrains[J].Desert and Oasis Meteorology,2016,10(6): 1-10.]   \n[17] 赵克明,李霞,卢新玉,等.峡口城市乌鲁木齐冬季大气污染的 时空分布特征[J].干旱区地理,2014,37(6):1108-1118.[Zhao Keming,Li Xia,Lu Xinyu,et al. Wintertime temporal-spatial distribution characteristics of air pollutants in the mountain gap town Urumqi[J]. Arid Land Geography,2014,37(6): 1108-1118.]   \n[18] 闵月.天山北坡乌昌石地区污染天气过程的气象特征研究[D]. 兰州:兰州大学,2020.[Min Yue.The meteorological characteristics of air pollution in northern slope of Tianshan Mountains[D]. Lanzhou: Lanzhou University,2020.]   \n[19] 刘慧,谢良兵,陈志峰.乌昌石城市群:新疆的希望之地[J].中国 国家地理,2013,53(10): 152-161.[Liu Hui, Xie Liangbing, Chen Zhifeng.Wuchangshi Citygroup: The landof hope in Xinjiang[J]. Chinese National Geography,2013,53(10): 152-161.]   \n[20] 李令军,王英,李金香,等.2000—2010北京大气重污染研究 [J].中国环境科学,2012,32(1): 23-30.[Li Lingjun,Wang Ying, Li Jinxiang,et al.The analysis of heavy air pollution in Beijing during 2000—2010[J]. China Environmental Science,2012,32 (1): 23-30.]   \n[21] 吴虹,张彩艳,王静,等.青岛环境空气 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 污染特征与 来源比较[J].环境科学研究,2013,26(6):583-589．[Wu Hong, Zhang Caiyan,Wang Jing,et al. Comparative study on pollution characteristics and source apportionment of $\\mathrm { P M } _ { 1 0 }$ and $\\mathrm { P M } _ { 2 . 5 }$ in Qingdao[J. Research of Environmental Sciences, 2013,26(6): 583-589.]   \n[22] 肖致美,毕晓辉,冯银厂,等.宁波市环境空气中 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 来 源解析[J].环境科学研究,2012,25(5):549-555.[Xiao Zhimei, Bi Xiaohui,Feng Yinchang,et al. Source apportionment of $\\mathrm { P M } _ { 1 0 }$ （204号 and $\\mathrm { P M } _ { 2 . 5 }$ in urbanarea of Ningbo City[J].Research of Environmental Sciences,2012,25(5): 549-555.]   \n[23] 刘琳,张正勇,刘芬,等.天山北坡经济带城市 $\\mathrm { P M } _ { 2 . 5 }$ 质量浓度时 空分布及模拟分析[J].环境科学研究,2018,31(11):1849- 1857.[Liu Lin, Zhang Zhengyong,Liu Fen,etal.Spatial-temporal distribution and simulation analysis of $\\mathrm { P M } _ { 2 . 5 }$ concentration of the cities in the northern slope economic zone of Tianshan Mountain [J].Research of Environmental Sciences,2018,31(11):1849- 1857.]   \n[24] 赵克明,李霞,阿不力米提江·阿布力克木,等.乌鲁木齐大气颗 粒物的时空分布规律[J].干旱区地理,2018,41(2):264-271. [Zhao Keming,Li Xia,Ablikim Ablimitjan,et al. Temporal and spatial distributionof atmosphericparticulatesoverUrumqi during the latest 3 years[J].Arid Land Geography,2018,41(2): 264-271.]   \n[25] 孙秀艳,刘毅,寇江泽.京津冀及周边地区大气重污染成因更为 清晰[N].人民日报,2019-3-21(7).[Sun Xiuyan,Liu Yi,Kou Jiangze. Causes of heavy air pollution in Beijing-Tianjin-Hebei and surrounding areas clearer[N]. People's Daily,2019-3-21(7).]   \n[26] 孙玫玲,穆怀斌,吴丹朱,等.天津城区秋季 $\\mathrm { P M } _ { 2 . 5 }$ 质量浓度垂直 分布特征研究[J].气象,2008,34(10):60-66.[Sun Meiling,Mu Huaibin,Wu Danzhu,et al.Vertical distribution characteristics of （20 $\\mathrm { P M } _ { 2 . 5 }$ mass concentration in the atmosphere over Tianjin[J]. Meteorology Monthly,2008,34(10): 60-66.]   \n[27] 王京丽,谢庄,张远航,等.北京市大气细粒子的质量浓度特征 研究[J].气象学报,2004,62(1):104-111.[Wang Jingli,Xie Zhuang, Zhang Yuanhang,et al. The research on the mass concentration characteristicsof fineparticlesin Beijing[J].Acta Meteorologica Sinica,2004,62(1): 104-111.]   \n[28] 王式功,杨德保,陈长和.兰州市不同季节大气污染物时空变化 规律的对比分析[J].兰州大学学报(自然科学版),1994,30(3): 150-155.[Wang Shigong, Yang Debao, Chen Changhe. An analysis and comparation on time-space changing regularity of air pollutant concentration in different season in Lanzhou[J]. Journal of Lanzhou University (Natural Science Edition),1994,30(3):150-155.]   \n[29]吕新生,王旭,蔡仁,等.乌鲁木齐辖区山谷风环流特征的分析 [J].干旱区地理,2016,39(6): 1172-1180.[Lu Xinsheng,Wang Xu, Cai Ren, et al. Characteristicsof mountain-valley breeze in Urumqi area[J].Arid Land Geography,2016,39(6): 1172-1180.]   \n[30]李霞.峡口城市乌鲁木齐冬季重污染的机理研究[D].北京:中 国科学院大学,2013.[Li Xia.Research on formation mechanism of air pollution in the Gap Town Urumqi in winter[D]. Beijing: University of Chinese Academy of Sciences,2013.]   \n[31] 赵克明,李娜,李霞,等.乌鲁木齐冬季焚风天气过程大气扩散 条件特征分析[J].干旱区地理,2021,44(6):1534-1544.[Zhao Keming,Li Na,Li Xia,etal. Characteristic analysis of atmospheric diffusion conditions of winter foehn weather process in Urumqi City[J].Arid Land Geography,2021,44(6): 1534-1544.]   \n[32] 蔡仁,李霞,赵克明,等.乌鲁木齐大气污染特征及气象条件的 影响[J].环境科学与技术,2014,37(增刊1):40-48.[Cai Ren,Li Xia, Zhao Keming,et al.The air pollution characteristicsand the impact of meteorological conditions in Urumqi[J]. Environmental Science & Technology,2014,37(Suppl.1): 40-48.]   \n[33] 方修琦,李令军,谢云.沙尘天气过境前后北京大气污染物质量 浓度的变化[J].北京师范大学学报(自然科学版),2003,39(3): 407-411.[Fang Xiuqi,LiLingjun,Xie Yun.Difference of air pollution during the duststorm process in Beijing[J].Journal of Beijing Normal University (Natural Science Edition),2003,39(3): 407-411.]   \n[34] 李振杰,金莉莉,何清,等.乌鲁木齐市城区和郊区近地层比湿 分布和廓线特征[J].干旱区地理,2020,43(4):977-996.[Li Zhenjie,Jin Lili,He Qing,etal.Characteristics of specific humidity distribution and profiles in Urumqi City and suburbs[J].Arid Land Geography, 2020,43(4): 977-996.]   \n[35] 王英,李令军,李成才.北京大气能见度和消光特性变化规律及 影响因素[J].中国环境科学,2015,35(5):1310-1318.[Wang Ying,Li Lingjun,Li Chengcai. The variation characteristics and influence factors of atmospheric visibility and extinction effect in Beijing[J].China Environmental Science,2015,35(5):1310- 1318.]   \n[36] 徐丽娜,李忠,胡亚男,等.2019年冬季呼和浩特市大气污染频 发的气象条件分析[J].干旱气象,2021,39(1):112-118.[Xu Li' na,Li Zhong,Hu Ya'nan,et al.Analysis on meteorological conditionsabout frequent airpolutionin Hohhotinwinterof 2019[J]. Journal of Arid Meteorology,2021,39(1): 112-118.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of air pollution and its polluted weather types of urban agglomeration on the north slope of the middle Tianshan Mountains from 2017 to 2019 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Shuting123，LI Xia²，Mauren AYIKAN'2，ZHONG Yuting12，WANG Huiqin12 (1.InstituteofDesertMeteorology,ChiaeteoroloicalAdministration,Urumqi30o2,Xijang,Chia;2.Felditiic ExperimentBseofAkdalaAtmosphericBackground,ChinaMeteorologicaldministration,Urumqi30o2,Xinjiang,a;3. Xinjiang Key Laboratory of Tree-Ring Ecology,Urumqi 83OoO2,Xinjiang,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The air pollution in urban agglomeration (Urumqi City,Changji City, Shihezi City, Wujiaqu City)on the north slopeof the middle Tianshan Mountains,Xinjiang,china is more serious than that in several eastern urban agglomerations.However, the characteristics of air pollution and corresponding polluted synoptic weathers on the north slope of the middle Tianshan Mountains are poorlyunderstood.Herein,the variation characteristics of air polutants and polluted synoptic types were analyzed using the hourly air pollutant data and meteorological data of four cities on the north slope of the middle Tianshan Mountains collected from 2017 to 2019.Results showed that: (1） among the six pollutants, $\\mathrm { P M } _ { 2 . 5 }$ was the primary pollutant with the maximum number of days exceeding the second standard of particulate matter in China at nearly $1 / 3$ days (94-104 days) in a whole year. The annual average concentrations of $\\begin{array} { r l } { \\mathrm { P M } _ { 2 . 5 } } & { { } } \\end{array}$ were ranked as follows: Wujiaqu City $( 7 3 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ Urumqi City (71 $\\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ Shihezi City $( 6 5 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } ) >$ Changji City $( 6 4 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } )$ ） $\\mathrm { P M } _ { 2 . 5 }$ concentration during the heating period was between $1 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ and $1 1 8 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ ，which was $4 . 0 0 \\mathrm { - } 5 . 0 0$ times higher than that during the nonheating period. The diurnal variation of $\\mathrm { P M } _ { 2 . 5 }$ concentration almost followed “bimodal distribution” for the three cities near the mountains but showed“unimodal distribution” for Wujiaqu City.(2） The poluted weather can be divided into three types: stagnant, dusty, and special. $8 6 . 2 \\% - 9 3 . 6 \\%$ of the study area belonged to stagnant pollution, whereas $5 . 8 \\% - 1 3 . 2 \\%$ experienced dusty pollution. Stagnant pollution mostly occurred in winter, whereas dusty pollution primarily occurred in spring and autumn. Stagnant pollution level $\\mathrm { V - V I }$ accounted for $4 5 . 8 \\% -$ $56 . 6 \\%$ , and dusty pollution at the same level accounted for $1 4 . 9 \\% - 2 9 . 4 \\%$ . (3) The correlation between the $\\mathrm { P M } _ { 1 0 }$ and $\\mathrm { P M } _ { 2 . 5 }$ of these two pollution types was extremely high,and the $\\mathrm { P M } _ { 1 0 }$ to $\\begin{array} { r l } { \\mathrm { P M } _ { 2 . 5 } } & { { } } \\end{array}$ ratios were 1.26 and 3.16 for stagnant and dusty polution,respectively. These values can be used to distinguish between stagnant and dusty pollution weathers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: exceedance day； pollutant concentration; poluted weather types; stagnant weather; dusty weather ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,238 @@
+# 老年人的消极交往与心理健康：实证、理论与展望
+
+徐潞杰1 2 张镇’2
+
+（1中国科学院心理研究所行为科学院重点实验室，北京100101；²中国科学院大学心理学系，北京100049）
+
+摘 要积极交往和消极交往分别会对老年人的心理健康产生有利和不利影响，然而，探讨消极交往的负面作用及其机制的研究相对较少。目前研究主要涉及消极交往的类型（社会隔离、丧偶或离婚）、来源（配偶、子女或朋友）及强度，并探讨感知评估、自尊的中介作用及性别、婚姻、受教育水平等变量的调节作用。社会情感选择理论、优劣势整合理论、社会交换理论及镜中我理论在一定范围内对消极交往的负面作用做出了合理解释。采取“原谅”或“认知疏远”的应对策略能有效缓解消极交往的负面影响。未来研究应进一步考察不同文化背景及社会网络背景下消极交往对老年人心理健康的影响，同时加强对消极交往的理论研究和线上研究，并关注相关的干预研究。
+
+关键词 社会关系，消极交往，心理健康，老年人
+
+# 1引言
+
+截止2019年末，我国65岁以上老年人达到1.76亿，占全国总人口的 $12 . 5 7 \%$ 。人口老龄化趋势不断加剧，老年人的心理健康开始受到广泛关注。社会交往贯穿在个体的日常生活中，成为心理学家探索老年人健康状况的重要切入点之一。社会交往能预测老年人的心理健康，消极交往常常和不良的健康状况相联系，而积极交往更多与良好的健康状况相联系(牛玉柏等，2019；姚若松等，2018；周玮等，2020; Guntzviller et al.,2020; Khondoker et al.,2017;Liu&Rook,2013; Saadi etal.,2018)。在严格控制教育程度、性别、自评健康状况等因素后，老年人更频繁的消极交往会导致幸福感降低、心理压力增加，更频繁的积极交往则带来更高的幸福感(Newsom etal.,2005)。有研究发现，老年人经历的消极交往少于积极交往，但其影响效力强于积极交往(Rook,2015)。消极交往对老年人心理健康的负面影响应该受到更多的
+
+关注。
+
+本文在梳理已有文献的基础上，详述了消极交往对老年人心理健康的影响，探讨这些影响背后的相关机制和可能的理论解释，以及应对消极交往的有效策略，首先，从类型、来源和强度三个不同的角度分析消极交往对老年人心理健康的负面影响；其次，对影响消极交往发挥作用的因素进行梳理；然后，从四个不同的理论视角对消极交往的负面效应进行解释;之后，对能有效应对消极交往的策略进行分析；最后，在上述分析的基础上，我们对未来研究方向进行了展望。
+
+# 2消极交往对老年人心理健康的影响
+
+消极交往的内涵是广泛的。有研究者认为，消极交往是指不愉快的社会接触，其特点是批评、拒绝、竞争、侵犯隐私和缺乏互惠，无效的帮助也包含其中(Krause＆Rook,2003)。Newsom 等人(2005)则将消极交往划分为四类:冷漠和麻木不仁的行为、无用的建议或打扰、没能及时提供所需帮助以及被他人拒绝或忽视。之后，Rook(2015)又给出了与消极交往相关的生活情景，如社会网络关系的丧失或中断、参与集体活动受挫及健康状况下降等，这进一步促进了对消极交往概念的理解。鉴于前人对消极交往的界定存在不一致，在本文中，我们主要从消极交往的不同类型、来源、强度来分析其对心理健康的影响。
+
+# 2.1不同类型的消极交往对心理健康的影响
+
+消极交往可以划分为许多不同的类型，对老年人来说，常见的几种消极交往包括社会隔离、丧亲或丧偶、离婚等，这些消极交往都会严重损害老年人的心理健康，增加其患焦虑症和抑郁症的概率，并正向预测老年人的死亡率(Aartsen＆ Jylha,2011; Cheng et al.,2014;Domenech-Abela etal.,2019; Levula et al.,2018; Levula et al.,2016; Steptoe,Shankar et al.,2013)。Gyasi 和 Phillips(2020)对加纳 50 岁以上中老年人的婚姻状况进行调查，并分析其与心理困扰之间的关联，结果发现，失去配偶（包括丧偶和离婚）与更强的心理痛苦相联系，对女性而言，失去配偶的痛苦感甚至是有配偶女性的两倍。
+
+但是，上述研究结论并不总是成立的，还可能受到其他混淆变量的影响。Cheng 等人(2014)的研究发现，无子女会降低老年人的生活满意度，然而，在控制了与家庭成员的交流后，无子女作为生活满意度的预测因子变得不再显著。家庭内部高质量的交流是否可以缓解无子女带来的消极影响？这值得研究者们进一步的探索。
+
+以往的研究虽然各自从不同的类型出发，考察了消极交往与心理健康之间的关系，如丧偶、家庭暴力、社会排斥等，但是，很少有研究系统地对不同类型的消极交往进行区分，并分析其带来的心理健康后果之间的差异。理论上来说，不同类型的消极交往带来的负面影响是有区别的。进一步细化消极交往的分类，探索特定消极交往是否会损害个体的特定功能，这对于针对性地保护老年人的心理健康有重大意义。
+
+# 2.2不同来源的消极交往对心理健康的影响
+
+基于目前的研究文献，老年人经历的消极交往主要来源于以下几个方面：配偶、子女、朋友及其他直系亲属。不同来源的消极交往对老年人心理健康的影响力有差异，研究表明，与配偶的消极交往会最大程度地增加老年人的抑郁症状、降低生活满意度，其次是子女、其他直系亲属，朋友排在最后(Lee& Szinovacz,2016; Stafford et al.,2011)。一般认为，配偶和子女作为相对稳定的核心网络成员，与个体的关系往往更加密切，而其他直系亲属在血缘关系上相对较远，朋友的流动性较大，两者在个体的社会网络中更可能处于外围网络，产生的影响也相对较弱。
+
+然而，近几年的相关研究揭示了朋友交往的重要性。相比其他直系亲属，与朋友的消极交往对老年人心理健康的损害更大，而与配偶和子女的交往仍然处于首要和次要位置(Chen&Feeley,2013;Chopik,2017; Harada et al.,2018)。对此，可能的解释是：朋友关系比亲戚关系更容易被选择。当个体认为一段友谊是消极的，可以选择及时终止这段关系，从而更好地保留积极的朋友关系；而亲戚关系通常是与生俱来或相对稳定的，终止一段亲戚关系不仅取决于个人，还可能涉及到整个家庭甚至家族，这使得终止一段亲戚关系变得困难。
+
+上述研究结果启示我们，对老年人而言，家庭成员是最重要的，与家庭成员的交往对老年人往往有着最强的影响。因此，来自家庭成员的支持与关怀是维持老年人心理健康的重要手段。而朋友和其他直系亲属在不同研究中呈现出的重要性差异，可能会受到老年人所处文化环境、经济地位、受教育程度等一系列变量的影响。
+
+# 2.3不同强度的消极交往对心理健康的影响
+
+老年人在社会生活中可能会遇到不同强度的消极交往，比如，朋友之间偶然的拌嘴可能属于低强度的消极交往，而亲密伴侣间的持续冷暴力则属于高强度的消极交往。来自横断研究的证据显示，高强度的消极交往会对心理健康产生不利影响，导致老年人的生活满意度下降(Barry et al.,2020; Cheng et al.,2011)。纵向研究也得到了相对一致的结果，即长期高水平的消极交往对抑郁症有显著的正向预测作用，在基线时间点报告较多消极交往的老人，随访期抑郁症状增加的可能性更大(Kwak & Ingersoll-Dayton,2020; Stafford et al.,2019)。高强度的消极交往对心理健康的影响在以往研究中呈现出一致性。
+
+然而，由于消极交往涉及到的事件或类别相对较多，难以对特定消极交往事件的强度进行准确的评级，以往研究者在对其进行测量时，通常采用相对宽泛的提问方式，如“其他人对你提了过多的要求？”或“你受到许多批评？”，而不是针对特定的消极交往事件进行提问，这就使测量结果更加关注消极交往的频率，对于强度的测量则被弱化了。另外，很多研究将强度作为连续变量测量时，能够很好地发现其对心理健康变量的预测作用，但容易忽视对高低强度之间差异的探讨。依据优劣势整合理论的观点，不同于高强度的消极交往，在消极交往强度较低时，老年人的心理健康受到的影响几乎可以忽略(Charles,2010;Charles &Luong,2013;Charles&Piazza,2009)。因此，在之后的研究中，有必要专门对比不同强度的消极交往带来的影响。
+
+从以上论述可以发现，不管消极交往的类型、来源、强度如何变化，大多数时候，消极交往总是给老年人的心理健康带来负面影响，即消极交往负向预测心理健康。然而，这不代表消极交往只能与消极后果相联系，在某些情况下，消极交往也能带来积极结果。例如，Birditt 和 Antonucci(2008）的研究显示，对慢性病患者而言，来自网络成员的批评和命令与其更低的死亡率相关联，即相比那些较少受到批评和命令的个体，接受到更多批评和命令的个体反而活得更久。后续研究进一步发现，个体与子女和朋友之间的关系越消极，死亡率越低(Antonucciet al.,2010)。因此，尽管本文聚焦于探讨“消极交往带来的负面影响”，也不能否定特定情况下消极交往的积极面，另外，对消极交往的探索并不局限于以上三个维度，有研究发现，从亲密度的视角对消极交往进行区分，也能得到有意义的结果(Birdittetal.,2020;English&Carstensen,2014)。未来研究应该从多个不同的维度对消极交往进行全面探索，从而得到更加有效的结论。
+
+# 3消极交往影响心理健康的机制
+
+消极交往为什么通常带来消极后果，研究者们对这种现象具体如何解释？以及在不同的边界条件下，消极交往带来的影响效力是否存在差异，即具备某些条件是否能够缓解消极交往的负面效应？本文分别从中介机制和调节机制两个方面展开论述，分析消极交往和心理健康关系中感知评估和自尊的中介作用，以及性别、婚姻状况和受教育水平的调节作用。
+
+# 3.1消极交往与心理健康的中介机制
+
+消极交往不仅能直接对心理健康产生影响，还可能通过其他因素对心理健康产生间接影响，如个体对社会交往的感知、自尊等。Newsom 等人(2005)的研究发现，消极交往能够通过两条中介路径对心理健康产生影响，即增强个体对社会交往的消极感知或减少个体对社会交往的积极感知。另外，有研究发现了自尊在社会交往和心理健康关系中的中介作用，好的社会关系质量能够增强老年人的自尊水平，进而提高其幸福感(吴玉婷等,2019;Kim&Thomas, 2019 )。
+
+这些研究结果为消极交往的负面效应提供了解释，也为进一步探索中介机制提供了思路：个体层面的某些感知因素可能是介导消极交往和心理健康之间关系的重要变量。也就是说，在消极交往发生后，消极的气氛可能首先引起个体感知或情感上的变化，进而对其心理健康产生影响，这在之后的相关研究中应该引起重视。
+
+此外，Hendryx 等人(2019)针对绝经后妇女的研究表明，某些健康行为变量在社会支持和患糖尿病风险的关系中起到中介作用，包括抽烟、酒精、节食、运动量及BMI指数，也就是说，社会关系变量能够通过改变健康行为变量对身体健康产生影响，那么，这种机制对心理健康是否适用？对身体健康的影响又是否会进一步牵涉到心理健康？这有待研究者们进一步的探索。
+
+# 3.2消极交往与心理健康的调节机制
+
+# 3.2.1性别对消极交往与心理健康的调节作用
+
+有研究表明，年长的女性比男性更有可能在亲属和非亲属之间的人际网络中建立桥梁，这种性别差异随着年龄的增长而增加，女性相比男性往往拥有更大的社会网络(Comwell,2011)。同时，生理上的差异也决定了男女性在感知和表达情感上有不同的模式。因此，消极交往对心理健康的影响可能存在性别差异。
+
+以往研究发现，当消极交往发生在家庭内部时，例如与配偶或子女发生矛盾，或经历丧偶事件等，女性会比男性承受更多的痛苦；当消极交往发生在家庭关系之外时，例如与朋友或邻居产生冲突，女性承受的心理压力则会低于男性(Cheng et al.,2014; Gyasi&Phillips,2020;Lee& Szinovacz,2016)。一方面，这可能是由于相比男性，老年女性的生活重心更多地放在家庭中，对朋友的重视程度相对较低，因此，家庭内部的交往对女性的各种健康结果有更大的影响；另一方面，女性进行社交的能力更强，这使得他们能够在交朋友上更有选择性，抛弃总是带来麻烦的朋友，从而减少来自朋友网络的消极影响。
+
+然而，Park 等人(2013)针对674名韩国老年人的研究得到了与上述观点不同的结果，他们发现，相比男性，女性与家庭外部成员的交往能够更加有效地抑制抑郁症状的发生，即女性似乎比男性更看重家庭外部的社会交往。这种结论的不一致可能是由文化差异导致的，在韩国，女性在晚年承担着非常高的照顾家庭的责任，她们很少有时间参与到家庭外部的活动中，因此，偶尔的放松对她们情绪的舒缓作用会更加突出，但不能就此断定女性比男性更看重家庭外部的交往。总之，研究结论的不一致表明，对消极交往的探索还有待在不同文化背景下展开，以便形成更具说服力的结论。
+
+# 3.2.2婚姻状态对消极交往与心理健康的调节作用
+
+消极交往对心理健康影响力的强弱会受到婚姻状态的调节。研究发现，当面临情感上的挫折时（主要指家庭内部)，有伴侣老人受到的心理创伤较大；而面临经济上的困难或遭遇社交排斥时，无伴侣老人的孤独感会显著增强(Ermer&Proulx,2019;Liu&Rook,2013)。这似乎说明，有伴侣老人比无伴侣老人更加看重情感上的联系，他们对来自配偶的情感支持更加期待。Nezlek 等人(2002)的研究支持了这一观点，他们发现：对于有伴侣老人而言，配偶占据其日常生活的 $43 \%$ ，而对于无伴侣老人，没有哪种关系类型占有优势地位。这进一步验证了有伴侣老人对家庭关系中情感联系的高度重视。
+
+以往研究大多发现了有伴侣老人对情感联系的重视，而关于无伴侣老人的相关结果相对较少，无伴侣老人不看重家庭内部的情感联系吗？Stokes 和 Moorman(2018)的研究发现，获得家庭支持能够减轻无伴侣老年人的抑郁症状，这种效应甚至强于有伴侣老人。对无伴侣老人而言，是真的不看重家庭内部的情感联系，还是因为缺少家庭情感联系而降低了其重要性？这需要研究者们进一步的探索。
+
+另外，相比有伴侣老人，无伴侣老人似乎对朋友网络更加重视，这可能是一种补偿机制。老年人的支持需求是相对稳定的，且对来自家庭网络、朋友网络、亲戚网络等的支持都有一定比例的需求，当个体缺乏来自某种网络的支持时，他们会更加重视来自其他网络的支持，致力于通过网络之间相互弥补达到一种新的平衡状态。由于无伴侣老人缺乏来自配偶的陪伴和情感支持，为了维持基本的支持需求，他们往往需要更多地扩宽社会网络，寻求来自外部的友谊，如果失败，其获取社会资源的机会减少，老年人会有社交和情感上的挫败感。Harada等人(2018)的研究结果在一定程度上为这种弥补机制提供了支持，他们考察了不同来源的社会支持在消极交往和心理困扰关系中的缓解作用，结果发现，其他亲人提供的支持能够缓解与家人的消极交往带来的心理困扰。也就是说，在某些情况下，由于缺少家庭支持而引发的后果能够通过获取其他支持而弥补，因此，缺少配偶支持的无伴侣老人总是表现出对友谊的重视。
+
+# 3.2.3受教育水平对消极交往与心理健康的调节作用
+
+受教育水平也是影响消极交往发挥作用的重要变量。一项针对泰国578名老年人的横断研究发现，经历更少的消极交往（具体表现为从家庭关系中获得更多的工具性支持）能够显著提高老年人的幸福感，且这种联系对受教育水平低的老年人更强(Thanakwang,2015)。对此，可能有两种解释，受教育水平高的个体对物质的态度更加淡薄，物质获取的多少并不是决定其幸福感的重要因素，或者较低的受教育水平预示着更为糟糕的经济状况，从而使得工具性支持变得更为重要。
+
+来自纵向研究的证据再次验证了上述观点，即受教育水平较低的个体在经历消极交往后通常会受到更大的影响。Krause(2005)长达7年的追踪研究发现，在基线时间点经历较多消极交往的老年人，之后患心脏病的风险会显著增加，且这种联系只对教育水平较低的老年人显著。上述研究结果一致地反映出这种观点，即受教育水平低的老年人受到社会交往的影响更强，或者说对社会交往中出现的变动更为敏感。这可能是由于相比受教育水平低的老年人，受教育水平高的老年人积累了更多的知识，在遭遇突发的压力事件时，他们能够更好地利用这些知识化解危机，维持健康状态。
+
+除了上述人口学变量，Koffer 等人(2019)还发现了控制感的调节作用，在面临压力情境时，控制感较高的个体受到的消极影响更小，对那些长期暴露在压力情境下的老年人来说，这种效应更加明显，即提高控制感是帮助老年人摆脱消极情绪的有效方法。未来研究应该更多考虑个人情绪、人格、感知等心理因素的调节作用。
+
+# 4理论解释：为何消极交往损害心理健康
+
+研究者们对中介机制的探索解释了“消极交往为什么会损害心理健康”这一问题，但相关的证据仍十分有限，本文通过对社会情感选择理论(The socioemotional selectivity theory)优劣势整合理论(The theoretical model of strength and vulnerability integration)、社会交换理论(Social exchange theory)及镜中我理论(The theory of looking-glass self)等四个理论进行分析,尝试从不同的理论角度解释消极交往对心理健康的负面影响，并通过对比进一步分析四个理论在解释机制及适用范围上的差异。
+
+# 4.1社会情感选择理论
+
+社会情感选择理论强调，个体的社会目标会随着时间知觉的变化而转变。当时间被认为是无限的，知识获取目标会被优先考虑；相反，当时间被视为是有限的，情感目标就占据了首要地位。保证社会目标的顺利进行对维持心理健康有重要意义(Carstensen,1993;Carstensenet al.,1999;Charles&Carstensen,2010)。随着年龄增长，人们感知到生命剩余时间的缩短，个人目标会由知识获取目标转化为情感目标。也就是说，老年人有更强的意愿去维持良好的社会关系。当一段消极交往发生后，个体可能会经历关系破裂、支持减少、丧失亲友等负性事件，这会阻碍个体情感目标的顺利实现，并进而损伤其心理健康。以往研究也证明了情感目标对老年人的重要意义，相比经济和信息上的短缺，情感上的缺失会最大程度地损害老年人的心理健康，显著增加其心理困扰(Liu&Rook,2013;Newsom etal.,2005)。
+
+# 4.2优劣势整合理论
+
+优劣势整合理论认为，相比年轻人，老年人的生理灵活性降低，反应更加迟钝。当遭遇持续的消极交往时，老年人将处于高度紧张的生理唤醒状态中，这种生理上的脆弱性使他们很难进行自我调节，从而延迟从事件中恢复，因此导致情感幸福感降低，心理健康受损(Charles,2010; Charles& Luong,2013;Charles& Piazza,2009)。该理论强调了消极交往对生理状态的影响，以及生理状态衰退对心理健康的破坏作用，这在相关研究中都得到了证实。例如，消极交往会抑制老年人的即时回忆和延迟回忆功能，而脆弱的生理状态会增加抑郁症的患病率(Felix et al.,2019; Segel-Karpas et al.,2017)。总之，依据优劣势整合理论的观点，持续经历消极交往的老年人会首先感受到生理上的不适，在高度紧张的生理状态下，他们难以应对消极交往，从而导致心理上的损伤。
+
+# 4.3社会交换理论
+
+社会交换理论认为，个体之间的相互作用可以描述为试图最大化回报和降低成本(包括物质和非物质)。如果两个或两个以上的社会行动者在这种相互作用中获益或“收支平衡”，那么他们之间的相互作用将会持续并得到积极评价。相应地，一段消极的相互作用通常基于社会交换中的不平衡，即一方没能对另一方的付出给予回报，这势必导致一段关系中地位或权力的失衡(Blau,1964; Byrne,1971; Shaw & Costanzo,1970)。依据 Dowd(1975)的观点，在一段消极的相互作用中，弱势方可供交换的资源相对较少，他们更多地处于被动或依赖地位。因此，当发生消极交往时，弱势方通常有更多束缚感和更低的自尊感，进而导致负面的心理健康结果。近年来的几项研究也验证了自尊感在社会交往和心理健康关系中的中介作用(吴玉婷等,2019;Kim& Thomas,2019）。但是，社会交换理论难以对强势方心理健康状况的恶化做出解释。
+
+# 4.4镜中我理论
+
+Cooley(1902)在关于“镜中我理论”的讨论中提到，一个人的自我意识是由他人的评价和反馈形成的。人们的自我认知与他们认为自己被看待的方式基本一致(Shrauger&Schoeneman,1979)。在经历消极交往后，对方给予的消极反馈会融入到个体对自我的判断中，降低其自我价值感，导致糟糕的心理健康结果。大量关于社会排斥的研究验证了这一观点，即消极交往通过负面化个体对自我的认知，如自尊、自我价值感、自我认同感等，进一步导致其心理健康受损(王玉龙等，2020；Arslan,2019;Wiley,2013)。另外，镜中我理论能为社会交往过程中强势方更糟糕的心理健康状况做出解释：尽管在消极交往中强势方拥有更多的资源和权力，但来自弱势方的负面评价会影响强势方的感受，导致其自我认知的负面化。
+
+以上四个理论都能对消极交往带来的负面效应做出解释，但各有其不同解释机制及范围（见表1)。社会情感选择理论主要强调“维持情感目标”的重要作用，认为良好的社会交往是维持情感目标的前提条件，但这种解释更适用于具有强烈情感动机的老年人，对致力于获取更多信息的年轻人并不适用；优劣势整合理论主要强调“生理状态”的重要作用，认为持续的消极交往会通过生理状态的衰退影响到心理健康，但这种解释成立的条件是，消极交往必须是高强度的或不可控的，这一理论无法对低强度的消极交往做出合理解释；社会交换理论主要强调“自尊感”或“公平感”的重要作用，它只能解释社会交往过程中弱势方糟糕的心理状况，无法解释强势方心理状态的变化；镜中我理论主要强调个体“自我认知”的重要作用，认为消极交往产生的消极氛围会被个体内化到对自我的认知中，从而导致心理健康的恶化。从上述分析可以发现，四个不同的理论都在一定范围内解释了消极交往的负面效应，不过，这四个理论对消极交往和心理健康的解释力还有待实证研究的系统检验。
+
+表1四个理论的解释机制及范围  
+
+<html><body><table><tr><td>理论</td><td>主要观点</td><td>解释机制</td><td>解释范围或群体</td></tr><tr><td>社会情感选择理论</td><td>消极交往阻碍老年人情感目标的顺</td><td>维持情感目标</td><td>老年人</td></tr><tr><td rowspan="2">优劣势整合理论</td><td>利实现，进而损害其心理健康</td><td></td><td></td></tr><tr><td>高强度的消极交往导致生理状态的生理状态</td><td></td><td>高强度/持续的/不可</td></tr><tr><td></td><td>持续紧张，降低幸福感</td><td></td><td>控的消极交往</td></tr><tr><td rowspan="2">社会交换理论</td><td>消极交往中的弱势方相对被动，自 尊感降低，心理健康状况较差</td><td></td><td>“自尊感”或“公平感”社会交往中的弱势方</td></tr><tr><td></td><td></td><td></td></tr><tr><td>镜中我理论</td><td>消极交往过程中消极气氛内化为个自我认知 体对自我的负面认知，导致心理健</td><td></td><td>所有群体</td></tr></table></body></html>
+
+# 5消极交往的应对策略
+
+过去几十年的研究表明，消极交往会给老年人的心理健康带来负面影响，在消极交往发生后，采用合适的策略去应对消极交往能有效缓解其带来的负面影响，这将成为老年人抵御消极交往的有力手段。
+
+Sorkin 和Rook(2006)在研究中将老年人应对消极交往的策略分为八种，分别为折中、改变他人、求助、回避、认知疏远、妥协、自责和原谅。研究结果表明，在经历消极交往后，“原谅”是老年人应对消极交往最常用的策略，老年人较少使用的应对策略是"自责”、“回避”和"妥协”。类似地，Ghaemmaghami 等人(2011)的研究发现，相比中年人，老年人在应对消极交往时的"回避"倾向更低。这似乎说明：相比中年人，老年人在应对消极交往时，更愿意采用积极主动的方式去解决问题。对老年人来说，他们为维持人际关系付出的努力显著高于中年人(Lang et al.,2013)。而中年人背负着多重社会责任和压力，面临更多的现实问题，有限的精力使他们主动维持一段关系的概率大大降低，因此，当中年人遭遇消极交往时，“回避”成为他们最常使用的应对策略。
+
+“原谅”是老年人最常用的应对策略，那么，这种策略是否能有效地保护心理健康呢？研究发现，在经历了消极交往后，使用“原谅”的应对策略能够显著减少个体的抑郁症状，提高生活满意度(Derdaele et al.,2019;Kaleta& Mroz,2018)。依据埃里克森的观点，在老年期，个体的发展主题是获得完美感，避免失望感，Derdaele 等人(2019)的研究发现，“原谅”与更高的完整感和更低的绝望感相联系，经常使用"原谅"策略的老年人回顾自己的一生时，会觉得这一辈子是有价值的，这就解释了为什么使用“原谅”策略的老年人有更高的生活满意度。
+
+当然，“原谅”不是维护心理健康的唯一有效策略。叶婉青等人(2018)对经历了“夫妻间负性事件"的老年人进行研究后发现，使用妥协、灾难化（强调经历事件的可怕方面）和沉思（思考与消极事件有关的想法和感受）等情绪调节策略会显著增加个体的抑郁水平。而实际上，“妥协"或者"道歉"也能在一定程度上缓解冲突，只是需要注意方式，最有效的应对策略是“补偿道兼”，即表示愿意对冲突过程中自身的过错或对方的损失进行补偿(Jeter&Brannon, 2017)。
+
+当个体应对消极交往的反应目标不同时，相同的应对策略带来的效果有差异。Sorkin 和Rook（2006）的研究发现，当个体的目标是“维持和谐关系”时，最有效的应对策略是“原谅”和“认知疏远”，原谅带给个体更多的成功感，认知疏远能够减少痛苦强度，两者都能缩短经历消极交往后的痛苦时长，使个体的情绪状态尽快恢复到正常水平。而“求助”和“回避”会给个体的心理健康带来更大的伤害，求助和更强烈、更长久的痛苦感相联系，回避带来失败感；当个体的目标是“引导他人改变行为”时，“改变他人”、“原谅”和“认知疏远”的应对策略都能有效抑制消极情绪，而“求助”带来痛苦；当个体的目标是“减少心理困扰"
+
+时，应当避免使用“求助”和“回避”的应对策略。
+
+通过以上论述，我们发现：在经历消极交往后，采用“原谅”或“认知疏远”的应对策略能够有效缓解消极交往带来的危害，而“求助”和“回避”通常导致心理健康的恶化。另外，使用不同的应对策略时应当注意方式方法，无原则的“妥协”或“道歉”不会带来好的结果，在面临消极情境时，抓住引起矛盾或冲突的主要源头，有针对性地进行回应或解决，这通常是维持良好心理健康状态的有效策略。
+
+# 6总结与展望
+
+近年来，随着老龄化趋势加重，学术界对老年人心理健康的关注逐渐增多。总体来看，消极交往对老年人的心理健康有破坏作用，这种消极效应受到性别、婚姻状态、受教育程度等因素的调节，学者们尝试从认知、情感、生理功能等不同角度对这种消极效应进行了解释，并发现“原谅”和“认知疏远”等策略是老年人应对消极交往的有效手段。可以说，目前针对老年人消极交往的研究已经取得了一定的成果，为维护老年人的心理健康提供了指导。但以往研究仍然存在局限和不足，需要未来进一步的探索。
+
+# 6.1消极交往的理论机制
+
+在之前的论述中，本文采用四个不同的理论详细解释了消极交往与心理健康之间的关系，并通过对比阐明了各个理论的解释机制及适用范围，但是，这些理论都存在一定的局限性。一方面，正如上文所说，它们的适用范围存在局限性，只能针对特定的群体或消极交往进行解释，从而使理论本身缺乏普适性；另一方面，很少有研究就上述四个理论进行系统性的验证，这使得我们无法确定不同理论在解释力上的差别。因此，对上述四个理论进行系统性验证是未来研究的重要方向。另外，目前能够专门针对消极交往和心理健康进行解释的理论还相对较少，前文中我们通过三个不同的维度即类型、来源及强度，对消极交往和心理健康的关系进行了论述，这对于之后构建消极交往的相关理论具备一定的参考价值。
+
+# 6.2社会网络背景下的消极交往
+
+在关于消极交往的研究中，大多数研究主要关注一段关系（通常指两人之间）或一类关系与心理健康之间的联系，对其他形式或更复杂的消极交往关注较少。Birditt 等人(2020)的研究揭示，消极交往通常不是独立存在的，尤其是在亲密关系中，一段关系常常既有积极因素，也有消极因素。我们需要对一段关系的积极性和消极性进行分别测量，确定这段关系是“积极的”、“消极的”或是“矛盾的”，进而得到更有说服力的结果。Ellwardt 等人(2019）将以自我为中心的三元关系网（分别为“我-他人1”、“我-他人2"及"他人1-他人2"）作为单位，对三段关系分别进行积极性或消极性的评估，形成了三元关系网的“平衡性”。这一变量不仅关注个体间的双向联系，还考虑到亲密社交圈子中第三人对双向关系的影响。能够更加全面地考察关系性质（积极或消极）与心理健康之间的联系。总之，在对消极交往进行研究时，仅仅考虑一段关系带来的影响是不够全面的，未来研究有必要超越双向关系，从社会网络的角度考察消极交往对心理健康的影响。
+
+# 6.3线上交往模式下的实证研究
+
+目前，关于老年人社会交往的研究大多是基于现实社会关系展开的。随着互联网的普及，老年人使用网络进行线上交往的频率不断增加，这使得他们在虚拟空间中形成了一个新的社会网络。线上社会关系可能与现实社会关系一样，能对老年人的心理健康产生影响。目前，已有研究发现，对某些特定群体而言，互联网能够对他们的社会网络起补偿作用。例如，研究表明，互联网的使用能够降低老年人患心理疾病的概率，尤其是对于那些家庭网络较小或患有身体疾病的个体(Coten et al.,2014; Gell et al.,2015; Yuan,2020)。较小的社会网络与病痛都会限制老年人参与社会活动的机会，这使得他们在社会交往上相对匮乏，通过互联网建立新的社会关系能够弥补老年人在社会关系上的缺失，避免其成为一座孤岛。这些研究成果提示我们，使用互联网带来的新型人际关系已经成为老年人社会交往中的重要部分，能为其心理健康带来积极或消极的影响。因此，未来研究在考虑个体现实社会关系的同时，还应该关注线上社会关系带来的影响。
+
+# 6.4消极交往的干预研究
+
+目前，有不少研究为老年人应对消极交往提供了建议。但是，这些研究结果大都是通过问卷调查得到的，很少有研究通过实验方式证明某项干预措施的有效性。这使得我们难以确切地说明，在面临消极交往时，哪一种策略能够有效缓解甚至消除这种消极效应，使老年人的心理健康保持稳定。最近,Rodriguez-Romero 等人(2020)的一项研究做了相关的干预工作，他们选取了55名中度或重度孤独的社区老年人，设置了干预组和对照组，干预手段为举办集体活动，包括教育研讨会、正念训练、瑜伽、参观城市花园等18项活动。经过六个月的干预，结果发现，相比对照组，干预组的老年人感知到的孤独感明显减少，社会支持感增加，抑郁症状也得到改善。不过，这些改善对中度孤独的老年人来说效果更加明显。这项研究说明，让老年人参与集体活动是减少其孤独感的有效手段。另外，干预要趁早，对于陷入严重心理困扰的老年人来说，要恢复到正常的情绪状态会更加困难。Myhre 等人(2017)针对老年人认知功能的干预方法也值得借鉴，不同于 Rodriguez-Romero 等人，他们主要采用线上干预手段进行研究，结果显示，保持社交积极性和认知投入的老年人具有更好的认知功能。上述研究表明，线上与线下活动都是能实现干预的有效路径。结合以往研究者们提供的思路，找到切实可行的干预手段以减少消极交往的危害，这将成为未来研究者重要的探索方向。
+
+# 6.5不同文化背景下的相关研究
+
+以往研究大致阐明了消极交往对老年人心理健康的影响，并得到了相对一致的结论，但针对不同种族进行研究得到的结果仍然存在差异。首先，不同种族的个体感知到压力水平有差异，如相比白人女性，非裔美国女性有更高的社会压力(Kershaw etal.,2014)。其次，不同种族的个体在面对相似的社会压力时，其受到的影响程度有差异。Hendryx 等人(2019)的研究显示，与非西班牙裔白人妇女相比，在承受社会压力的情况下，非裔美国妇女患糖尿病的风险更大。最后，不同文化背景下老年人社会网络的特征也存在差异。非西班牙裔白人比非裔美国人和加勒比黑人更可能独居、无子女，且更少与宗教团体成员接触(Taylor etal.,2019)。而与美国普通民众相比，中国老年人认同的社交网络更小、网络结构包含更多的亲属关系(Dong＆ Chang,2017)。基于以上三点跨文化的差异，为更好地了解中国背景下老年人的消极交往对其心理健康的影响，未来研究应更多地考虑在中国范围内进行取样。
+
+# 参考文献
+
+牛玉柏，郝泽生，王任振，洪芳．（2019）．老年人乐观、领悟社会支持与主观幸福感的关系—控制策略的中 介作用．心理发展与教育,35(2),227-235.   
+王玉龙，陈慧玲，袁燕．（2020）．社会排斥对青少年自伤的影响：羞耻感的中介和认知重评的调节．心理科 学，43(2),333-339.   
+吴玉婷，苑鑫，王雨晴，朱慧，毛叶琳，金灿灿.（2019）．广场舞组织氛围和老年人主观幸福感的关系:组织 认同和自尊的中介作用．心理发展与教育,35(5),624-631.   
+姚若松，郭梦诗，叶浩生.(2018).社会支持对老年人社会幸福感的影响机制：希望与孤独感的中介作用．心 理学报,50(10),1151-1158.   
+叶婉青，李晓彤，王大华.(2018).老年人对夫妻间负性事件的认知性情绪调节策略及其与婚姻满意度的关 系：交叉滞后分析．心理学报.50(4),426-435.   
+周玮，洪紫静，胡蓉蓉，朱婷婷，刘桑，张林.（2020）．亲子支持与老年人抑郁情绪的关系:安全感和情绪表 达的作用．心理发展与教育,36(2),249-256.   
+中国 2010 年人口普查资料.(2010).2020-09-30取自 htp://www.stats.gov.cn/tisj/pcsj/rkpc/6rp/indexch.htm   
+Aartsen,M.,&Jylha,M.(2011).Onsetofloneliness inolder adults: Results ofa28 yearprospective study.European Journal of Ageing,8(1),31-38.doi:10.1007/s10433-011-0175-7   
+Antonucci,T.C.,Birdit, K.S.,& Webster,N.J. (2ol).Social relations and mortality: A more nuanced approach.   
+Arslan,G. (2019).Mediating role of the self-esteem and resilience in the association between social exclusion and lifesatisfactionamongadolescents.PersonalityandIndividualDiferences,151. doi:10.1016/j.paid.2019.109514   
+Barry, C.，Speed,D.,& Best, L. (202O). Negative social experiences mediate the relationship between sexual orientation and mental health.Journal of homosexuality,1-23.doi:10.1080/00918369.2020.1819710   
+Birdit,K.,&Antonucci,T.C.(2Oo8).Life sustaining iritations?Relationshipqualityand mortality inthe context of chronic ilness. Social Science & Medicine, 67(8),1291-1299.doi:10.1016/j.socscimed.2008.06.029   
+Birdit,K.S.,Sherman,C.W.,Polenick,C.A.,Becker,L.,Webster,N.J.,Ajrouch,K.J.,&Antonucci,T.C.(020). So close and yet so iritating: Negative relations and implications for well-being by age and closeness. Journals of Gerontology Series B-Psychological Sciences and Social Sciences，75(2),327-337. doi:10.1093/geronb/gby038   
+Blau,P.(1964). Exchange and power in social life.New York: John Wiley & Sons.   
+Byme,J. J. (1971). Systemic analysis and exchange theory: A synthesis.Pacific Sociological Review,14(2),137- 146. doi:10.2307/1388378   
+Carstensen,L.L. (1993).Motivation for social contact arossthe life span: A theoryof socioemotional selectivity. In J. E. Jacobs (Ed.)， Nebraska Symposium on Motivation， 1992: Developmental perspectives on motivation. (Vol.40, pp.209-254).Lincoln: the United States.   
+Carstensen,L.L., Isaacowitz,D.M.,& Charles,S.T.(1999).Taking time seriously.Atheory of socioemotional selectivity. American Psychologist, 54(3),165-181. doi:10.103//0003-066x.54.3.165   
+Charles,S.T. (2010). Strength and vulnerability integration: A model of emotional well-being across adulthood. Psychological Bulletin,136(6),1068-1091. doi:10.1037/a0021232   
+Charles,S.T.,& Carstensen,L.L. (2010). Social and emotional aging.Annual Review Of Psychology, 61,383-409. doi:10.1146/annurev.psych.093008.100448   
+Charles,S.T.,& Luong, G. (2013).Emotional experience across adulthood: The theoretical model of strength and vulnerabilityintegration. Current DirectionsinPsychologicalScience， 2(6)， 443-448. doi:10.1177/0963721413497013   
+Charles，S.T.,& Piazza,J. R. (2009).Age differences in affective well-being: Context matters.Social and Personality Psychology Compass,3(5),711-724. doi:10.1111/j.1751-9004.2009.00202.x   
+Chen,Y.,&Feley,T.H.(O13).Socialsupport,social strain,loneliness,nd wel-beingamongolderadults.Joural of Social and Personal Relationships,31(2),141-161. doi:10.1177/0265407513488728   
+Cheng,S.T., Chan,T.W.,Li, G.H.,& Leung,E.M. (2014). Childlessness and subjective well-being in Chinese widowed persons. Journals of Gerontology Series B-Psychological Sciences and Social Sciences,69(1), 48-52. doi:10.1093/geronb/gbt049   
+Cheng,S.T.,Li,K.K.,Leung,E.M.F.,& Chan,A. C.M. (2011).Social Exchanges and Subjective Wel-being: Do Sources of Positive and Negative Exchanges Matter? Journals of Gerontology Series B-Psychological Sciences and Social Sciences,66(6),708-718. doi:10.1093/geronb/gbr061   
+Chopik,W.J.(2o17).Associations among relational values,support,health,andwell-beingacrossthe adult ifespan. Personal Relationships,24(2),408-422. doi:10.1111/pere.12187   
+Cooley, C.H.(1902). Human nature and the social order.New York: Charles Scribner's Sons.   
+Cornwell, B. (2011). Independence through social networks: Bridging potential among older women and men. Journals of Gerontology Series B-Psychological Sciences and Social Sciences， 66(6)， 782-794. doi:10.1093/geronb/gbr111   
+Coten, S.R.,Ford, G.,Ford,S.,& Hale,T.M. (2014).Interetuse and depression among retired older adults inthe United States: A longitudinal analysis. Journals of Gerontology Series B-Psychological Sciences and Social Sciences, 69(5),763-771. doi:10.1093/geronb/gbu018   
+Derdaele,E.,Toussaint,L.,Thauvoye,E.,&Dezuter,J.(2o19).Forgivenessand late life functioning:Themediating roleoffindingego-integrity.Aging&MentalHealth,23(2)，238-245. doi:10.1080/13607863.2017.1399346   
+Domenech-Abela,J.,Mundo,J.,Haro,J.M.,&Rubio-Valera,M.(219).Anxiety,epression,lonelinessandsocial network in the elderly: Longitudinal associations from The Irish Longitudinal Study on Ageing (TILDA). Journal of Affective Disorders, 246,82-88.doi:10.1016/j.jad.2018.12.043   
+Dong, X.,& Chang,E. S.(2017).Social networks among the older Chinese population in the USA: Findings from the PINE Study. Gerontology, 63(3),238-252. doi:10.1159/000455043   
+Dowd,J. J. (1975). Aging as exchange: A preface to theory. Journal of Gerontology， 30(5)， 584-594. doi:10.1093/geronj/30.5.584   
+Ellwardt,L.,Wittek,R.,Hawkley,L,& Cacioppo,J. (2019).Social network characteristics and theirassociations with stress in older adults: Closure and balance in a population-based sample. Journals of Gerontology Series B-Psychological Sciences and Social Sciences. doi:10.1093/geronb/gbz035   
+English,T.,& Carstensen,L.L. (2014).Selective narrowing of social networks across adulthood is associated with improved emotional experience in daily life. International Journal of Behavioral Development, 38(2), 195-202. doi:10.1177/0165025413515404   
+Ermer,A.E.,&Proulx, C.M.(2019).Asociations between social connectedness, emotional well-Being,and selfrated health among older adults: Difference by relationship status. Research on Aging, 41(4),336-361. doi:10.1177/0164027518815260   
+Felix,A.S.,Lehman,A.,Nolan,T.S.,Sealy-efferson,S.,Breathe,K.,Hood,D.B,.Willams,K.P.(19). Stress,resilience,and cardiovascular disease risk among black women. Circulation-Cardiovascular Quality and Outcomes, 12(4). doi:10.1161/circoutcomes.118.005284   
+Gell,N. M.,Rosenberg,D.E.,Demiris,G.,LaCroix,A.Z,& Patel,K.V. (2015).Patterns oftechnologyuse among older adults with and without disabilities. Gerontologist, 55(3), 412-421. doi:10.1093/geront/gnt166   
+Ghaemmaghami,P.,Allemand,M.,& Martin,M. (2011).Forgivenessin younger, middle-aged and older adults: Age and gender maters. Journal of Adult Development,18(4),192-203.doi:10.1007/s10804-011-9127-x   
+Guntzviller,L. M., Williamson,L.D.,& Ratcliff, C.L. (202O). Stresssocialsupport,and mental health among youngadultHispanics.FamilyandCommunityHealth，43(1), 82-91. doi:10.1097/FCH.0000000000000224   
+Gyasi, R. M.,& Phillips,D. R. (2020). Risk of psychological distressamong community-dwelling older adults experiencing spousal loss in Ghana. Gerontologist, 60(3), 416-427. doi:10.1093/geront/gnz052   
+Harada,K.,Sugisawa,H.,Sugihara,Y.,Yanagisawa,S.,& Shimmei,M. (2O18).Social support,negative interactions, and mental health: Evidence of cross-domain buffering effects among older adults in Japan. Research on Aging, 40(4),388-405.doi:10.1177/0164027517701446   
+Hendryx,M.,Nicholson,W.,Manson,J.E.,Kroenke,C.H.,Lee,J.,Weitlauf,J.C.,..Luo,J.(2019).Social relationships and risk of type 2 diabetes among postmenopausal women. Journals of Gerontology Series B-Psychological Sciences and Social Sciences. doi:10.1093/geronb/gbz047   
+Jeter, W. K.,& Brannon,L.A. (2017). T'lMake It Up to You:' Examining the effect of apologieson forgiveness. The Journal of Positive Psychology,1-8.doi:10.1080/17439760.2017.1291854   
+Kaleta,K.,& Mroz,J. (2018).Forgivenessand life satisfaction across differentage groups inadults.Personality and Individual Differences,120,17-23. doi:10.1016/j.paid.2017.08.008   
+Kershaw, K.N.,Brenes,G.A., Charles,L.E., Coday,M.,Daviglus,M.L.,Denburg,N.L.,..Van Horn,L. (2014). Associations of stressful life events and social strain with incident cardiovascular disease in the Women's HealthInitiative.JournaloftheAmericanHeartAssociation, 3(3)，e000687. doi:10.1161/JAHA.113.000687   
+Khondoker, M., Rafnsson,S.B.,Morris,S., Orell, M.,& Steptoe,A. (2017). Positiveand negative experiences of social support and risk of dementia in later life: An investigation using the English longitudinal study of ageing.Journal of Alzheimer's Disease,58(1),99-108.doi:10.3233/JAD-161160   
+Kim， S.，& Thomas, P. A. (2019). Direct and indirect pathways from social support to health? Journals of GerontologySeriesB-Psychological SciencesandSocialSciences， 74(6)， 1072-1080. doi:10.1093/geronb/gbx084   
+Koffer,R.,Drewelies,J.,Almeida,D.M.,Conroy,D.E.,Pincus,A.L., Gerstorf,D.,& Ram,N.(2019).The role of general and daily control beliefs for affective stressor-reactivity acros adulthood and old age. Journals of GerontologySeriesB-PsychologicalSciencesandSocialSciences， 74(2), 242-253. doi:10.1093/geronb/gbx055   
+Krause,N. (2Oo5). Negative interaction and heart disease in late life: Exploring variations by socioeconomic status. Journal of Aging and Health, 17(1),28-55. doi:10.1177/0898264304272782   
+Krause,N.,& Rook,K.S. (2Oo3). Negative interaction in late life: Issues in the stabilityand generalizabilityof conflict across relationships. Journals of Gerontology Series B-Psychological Sciences and Social Sciences, 58(2),88-99.doi:10.1093/geronb/58.2.P88   
+Kwak,M., & Ingersol-Dayton, B. (2020). Relationships between negative exchanges and depressive symptoms in older couples: The moderating roles of care and gender. Journal of Social and Personal Relationships, 37(3), 843-864. doi:10.1177/0265407519879504   
+Lang,F.R., Wagner,J.,Wrzus,C.,&Neyer,F.J. (20l3).Personal effort insocial relationships acrossadulthood. Psychology and Aging,28(2), 529-539. doi:10.1037/a0032221   
+Lee,H.J.,& Szinovacz,M.E. (2O16). Positive,negative,and ambivalent interactions with family and friends: Associations with well-being. Journal of Marriage and Family78(3),660-679. doi:10.111/jomf.12302   
+Levula,A., Harr, M.,& Wilson,A. (2018). The association between social network factors with depression and anxiety at different ife stages.Community Mental Health Journal,54(6),842-854.doi:10.1007/s10597- 017-0195-7   
+Levula,A., Wilson,A.,& Harre,M. (2016).The association between social network factors and mental health at different life stages. Quality of Life Research,25(7),1725-1733. doi:10.1007/s11136-015-1200-7   
+Liu,B.S.,& Rook,K.S.(2013).Emotional and social loneliness in later life Associations with positive versus negative social exchanges. Journal of Social and Personal Relationships, 30(6)， 813-832. doi:10.1177/0265407512471809   
+Myhre,J. W.,Mehl,M.R.,& Glisky,E.L.(2017). Cognitive benefits of online social networking for healthyolder adults.Journals of Gerontology Series B-Psychological Sciences and Social Sciences,72(5),752-760. doi:10.1093/geronb/gbw025   
+Newsom,J.T.,Rook,K.S.,Nishishiba,M.，Sorkin,D.H.,& Mahan,T.L. (2005).Understanding the relative importance of positive and negative social exchanges: Examining specific domains and appraisals. Journals of Gerontology Series B-Psychological Sciences and Social Sciences， 60(6)，304-312. doi:10.1093/geronb/60.6.P304   
+Nezlek, J.B.,Richardson,D.S.,Geen,L.R.,& Schatten-Jones,E.C.(202).Psychologicalwe-beingandda to-day social interaction among older adults. Personal Relationships,9(1),57-71. doi:10.1111/1475- 6811.00004   
+Park,N.S.,Jang,Y.,Lee,B.S., Haley,W.E,& Chiriboga,D.A. (2013).The mediating role of loneliness inthe relation between social engagement and depressive symptoms among older Korean Americans: Do men and women differ? Journals of Gerontology Series B-Psychological Sciences and Social Sciences,68(2), 193-201. doi:10.1093/geronb/gbs062   
+Rodriguez-Romero,R.,Heranz-Rodriguez,C.Kostov,B., Gene-Badia,J.,&Sso-Almirall,A.(202O). Intervention to reduce perceived loneliness in community-dwelling older people. Scandinavian Journal of Caring Sciences. doi:10.1111/scs.12852   
+Rook,K. S. (2015).Social networks in later life: Weighing positive and negative efects on health and well-being. Current Directions in Psychological Science,24(1),45-51. doi:10.1177/0963721414551364   
+Saadi,A.,Okeng'o,K.,Biseko,M.R.,Shayo,A.F.,MmbandoT.N.,Grundy,S.J.,.Mateen,F.J. (2018).Poststroke social networks,depressive symptoms,and disability in Tanzania:A prospective study. International Journal of Stroke,13(8), 840-848. doi:10.1177/1747493018772788   
+Segel-Karpas,D.，Palgi, Y.,& Shrira,A.(2O17). The reciprocal relationship between depressionand physical morbidity: The role of subjective age. Health Psychology, 36(9),848-851. doi:10.1037/hea0000542   
+Shaw,M.E., & Constanzo,P.R. (1970). Theories of social psychology. New York: McGraw·HillBook Company.   
+Shrauger,J.S.,&Schoeneman,T.J.(1979).Symbolic interactionist view ofself-concept: Through the lookingglass darkly.Psychological Bulletin,86(3), 549-573.doi:10.1037/0033-2909.86.3.549   
+Sorkin,D.H.,& Rook,K.S. (2o06). Dealing with negative social exchanges in later life: Coping responses, goals, and effectiveness. Psychology and Aging, 21(4),715-725. doi:10.1037/0882-7974.21.4.715   
+Stafford, M.,Antonuci,T.C.,& Zaninotto,P. (20l9). Joint trajectories of spousal social support and depressive symptoms in older age.Journal of Aging and Health, 31(5),760-782.doi:10.1177/0898264317747077   
+Stafford,M.,McMunn,A.,Zannoto,.,&Nazroo,J.(21).Positiveand negative exchanges inocialrelatiosps as predictors ofdepression: Evidence from the English Longitudinal Study of Aging. Journal ofAging and Health,23(4),607-628.doi:10.1177/0898264310392992   
+Steptoe,A.,Shankar,A.,Demakakos,P.,& Wardle,J. (2Ol3).Social isolation,loneliness,andall-cause mortality in older men and women.Proceedings of the National Academy of Sciences of the United States of America, 110(15), 5797-5801. doi:10.1073/pnas.1219686110   
+Stokes,J.E.,& Moorman,S.M. (2018). Influence of the social network on married and unmarried older adults' mental health. Gerontologist, 58(6),1109-113.doi:10.1093/geront/gnx151   
+Taylor,R.J., Chatters,L.M.,&Taylor, H. O.(2019).Race and objective social isolation: Older African Americans, Black Caribbeans,and Non-Hispanic Whites.Journals of Gerontology Series B-Psychological Sciences and Social Sciences,74(8),1429-1440.doi:10.1093/geronb/gby114   
+Thanakwang,K. (2015).Familysupport,anticipated support,negative interaction, and psychological well-being of older parents in Thailand. Psychogeriatrics,15(3),171-178. doi:10.1111/psyg.12107   
+Wiley, S. (2013). Rejection-identification among Latino immigrants in the United States. International Journalof Intercultural Relations,37(3),375-384.doi:10.1016/j.ijintrel.2012.08.018   
+Yuan,H. (2O20). Internet use and mental health problems among older people in Shanghai, China: The moderating rolesofchronicdiseasesandhouseholdincome. Aging& Mental Health. doi:10.1080/13607863.2020.1711858   
+Negative exchange and mental health of the elderly: Evidence,   
+theory and prospect   
+XU Lujie1,2, ZHANG Zhen1,2   
+(1KeyLaboratory of Behavioral Science, Institute of Psychology, Chinese   
+Academy of Sciences, Beijing 1o0101, China)   
+(²Department of Psychology, University of Chinese Academy of Sciences,   
+Beijing 100049, China)
+
+Abstract: Positive exchange and negative exchange have positive and negative effects on the mental health of the elderly, respectively. However, there are few studies on the negative effects and mechanisms of negative exchanges. The previous research on negative exchange mainly involves the types (social isolation，widowhood or divorce)， sources (spouse,children or friends） and intensity, and discusses the mediating role of appraisal and self-esteem, the moderating role of gender, marriage, education level and other variables. The socioemotional selectivity theory, the theoretical model of strength and vulnerability integration, social exchange theory and the theory of looking-glass self provide reasonable explanations for the negative effects of negative exchange to a certain extent. The coping strategies of "forgiveness" or "cognitive distancing" can effectively alleviate the negative effect of negative exchange. Future research should further investigate the impact of negative exchange on the mental health of the elderly under social networks and different cultural backgrounds, deepen the theoretical research, conduct more online research, and strengthen intervention research.
+
+Keywords: social relationship, negative exchange, mental health, the elderly

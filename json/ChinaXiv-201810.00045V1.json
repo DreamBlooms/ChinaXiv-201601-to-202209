@@ -1,0 +1,623 @@
+[
+    {
+        "type": "text",
+        "text": "基于矩阵保留策略的邻域粗糙集属性约简算法 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高阳，刘遵仁，纪俊(青岛大学 计算机科学技术学院，山东 青岛 266071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：属性约简对于数据处理来说意义重大。在基于邻域粗糙集的属性约简算法中，正域计算是保证其有效性的重要依据，也是影响其时间开销的最主要部分。为了减少算法时间开销，通过对现有算法FHARA的正域计算进行改进，采取保留策略，利用矩阵保留度量计算值的平方，将原本n维上的计算改进为1维上的计算，从而缩减了每次度量计算的计算时间，并在此基础上提出了基于矩阵保留策略的邻域粗糙集属性约简算法，最后通过多个UCI数据集验证了该算法。与现有算法相比较，实验结果表明，对大部分数据集而言，该算法能有效且更快速地得到数据集的属性约简。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：邻域粗糙集；正域；属性约简；快速算法 中图分类号：TP18 doi:10.3969/j.issn.1001-3695.2018.05.0390 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neighborhood rough set attribute reduction algorithm based on matrix reservation strategy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gao Yang,Liu Zunren, Ji Jun (College of Computer Science&Technology,Qingdao University,Qingdao Shandong 266O71,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Atribute reduction isof great importance fordata processng.Foran atribute reduction algorithmbased on the neighborhoodrough set model,thecalculationof thepositiveregion is thenecessarybasis ofits eficientperformance andthe uppermost partofits timecost.Inorder toreducethe time overheadofthe algorithm,this paper improvedthe positive domain calculationof the existing algorithmFHARA,adoptedthereservation strategyandused the matrix to preserved the square of thecalculated values.Theoriginaln-dimensionalcomputation wasimproved to1dimensional computation,whichreduced the computation time of each metric calculation.On this basis,this paper proposed a neighborhood rough set atributereduction algorithmbased on the matrix reservation strategy.Finally,the algorithm wasverified bymultiple UCIdata sets.Compared with existing algorithm,theexperimentalresults showthatfor most data sets,the algorithmcanget the atributereductionof the dataset more effectively and quickly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: neighborhood rough set; positive region; attribute reduction; fast algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术的高速发展，人们不仅面临着数据量爆炸的问题，还有更重要的数据的高维度问题，而处理高维数据时，“维度灾难\"现象十分普遍[1]。因此，属性约简对于一个数据量庞大的数据集而言是十分有意义的，可以减小维数灾难造成的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "粗糙集理论在数据的属性约简方面得到了广泛的应用。经典的Pawlak粗糙集[2]定义在经典的等价划分和等价类基础上，保证了粒度计算的进行。这种处理方式只适合处理离散型变量，而对于现实应用中广泛存在的数值型数据类型处理时，需要将数值型数据进行离散化，这种处理会改变数据原始的属性性质，造成信息损失，而离散化的方法不同又会使得处理结果不同，这严重制约了粗糙集理论的应用。为了解决这一问题，Zadeh[3]提出了信息粒化和粒度计算的概念，并给出了进行粒度计算的基本框架。Lin[4在信息粒化、粒度的基础上提出了邻域模型的概念。胡清华等人7在对基本邻域信息粒子进行邻域粒化和粗糙逼近的基础上，提出了邻域信息系统和邻域决策表模型。最后，经过各方研究后提出的邻域粗糙集模型方法将经典粗糙集的等价近似与邻域逼近相结合，使之能够同时支持数据型和离散型两种数据类型，扩大了粗糙集理论的应用范围[2-8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是与经典的Pawlak粗糙集不同，邻域粗糙集模型定义了样本间的 $\\delta$ -邻域，在对邻域粗糙集的正域进行计算时，需要遍历所有样本，通过度量计算来确定样本的 $\\delta$ -邻域关系，因此邻域实数空间下的计算量要比经典离散空间下的计算量大得多[9-13]，这导致了基于邻域粗糙集的属性约简算法在处理数据时往往时间开销过大的现象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了缩减时间开销，Hu等人9提出了基于前向贪心策略的属性约简算法 F2HARNRS(fast forward heterogeneous attributereduction based on neighborhood rough sets)。随后Liu 等人[10]对该算法的正域计算进行了改进，提出了更快速的属性约简算法FHARA(fast hash attribute reductalgorithm)，减少了F2HARNRS算法的正域计算时间开销。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上研究，本文对FHARA算法进行了改进，采用矩阵保留样本间的度量计算，使得增维后只需做1维上的度量计算，从而减少了正域计算的计算量。通过与FHARA算法比较，实验证明该算法能够更快速地得到数据集的属性约简。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基本概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1邻域粗糙集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1给定 $n$ 维实数空间 $R ^ { n }$ ，对于空间中的任意两个点$\\boldsymbol { x } _ { i } = \\left( x _ { i 1 } , x _ { i 2 } \\ldots , x _ { i n } \\right)$ 和 $\\boldsymbol { x } _ { j } = \\left( \\boldsymbol { x } _ { j 1 } , \\boldsymbol { x } _ { j 2 } , . . . , \\boldsymbol { x } _ { j n } \\right)$ ，定义 $d \\left( x _ { i } , x _ { j } \\right)$ 是 $R ^ { n }$ 上的一个度量计算，满足",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x _ { i } , x _ { j } ) = \\left( \\sum _ { p = 1 } ^ { n } \\Bigl | x _ { i p } - x _ { j p } \\Bigr | ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\pmb { 2 } ^ { [ 7 ] }$ 对于一个给定的实数空间上的非空有限集合$U = \\left\\{ x _ { 1 } , x _ { 2 } . . . , x _ { n } \\right\\}$ ，其中 $U$ 为论域。对于 $U$ 上的任意样本 $x _ { i }$ ，定义其 $\\delta$ -邻域为 $\\delta ( x _ { i } ) = \\{ x _ { j } \\mid x _ { j } \\in U , d ( x _ { i } , x _ { j } ) \\leq \\delta \\}$ ，其中 $\\delta { \\geq } 0$ 。 $\\delta ( x _ { i } )$ 称为由 $x _ { i }$ 生成的 $\\delta$ 邻域信息粒子，简称为 $x _ { i }$ 的邻域粒子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2邻域决策系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3对于四元组 $\\mathrm { N D T } = ( U , A , V , f )$ ，其中 $U$ 是论域;$A { = } C \\cup D$ ， $c$ 是条件属性,D是决策属性，且 $C \\cap D = \\emptyset$ ， $c \\neq \\emptyset$ ，$\\mathbf { D } \\neq \\emptyset$ ； $\\boldsymbol { V }$ 是信息函数 $f$ 的值域； $f$ 是 $U \\times A \\to V$ 的映射，那么称这个四元组为邻域决策系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4对于一个给定的邻域决策系统$\\mathbf { N D T } = ( U , C \\cup D , V , f )$ ， $D$ 将 $U$ 划分为 $N$ 个等价类： $D _ { 1 } , D _ { 2 } , . . . , D _ { { \\scriptscriptstyle N } }$ ，$\\forall B \\in C$ ，定义决策属性 $D$ 关于 $B$ 的下近似和上近似为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { N _ { B } D } { \\hbar } } = \\bigcup _ { i = 1 } ^ { N } { \\frac { N _ { B } D _ { i } } { \\hbar } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { N _ { B } D } } = \\bigcup _ { i = 1 } ^ { N } \\overline { { N _ { B } D _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { N _ { B } D _ { i } } { N _ { B } D _ { i } } = \\{ x _ { i } | \\delta _ { B } ( x _ { i } ) \\subseteq D _ { i } , x _ { i } \\in U \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据定义1：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { B } ( x _ { i } ) = \\{ x \\vert d ( B ( x _ { i } ) , B ( x ) ) \\leq \\delta , x \\in U \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义决策属性集 $D$ 关于 $B$ 的边界域为 $B N ( D ) = \\overline { { N _ { B } D } } - \\underline { { N _ { B } D } }$ ，正域为 $P o s _ { B } ( D ) = \\underline { { N _ { B } D } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义5根据定义4，进一步定义决策属性 $D$ 对 $B$ 的依赖性为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { _ B } \\left( D \\right) = \\left| P o s _ { _ B } ( D ) \\right| / \\left| U \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 邻域粗糙集属性约简算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对一个给定的数据集，如何设计以及利用有效的算法来删",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除冗余属性，寻找最小属性约简是一个NP-Hard问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\mathbf { 6 } ^ { [ 2 ] }$ 给定有限集合 $B \\subseteq C$ ，若满足 $P o s _ { \\scriptscriptstyle B } ( D ) = P o s _ { \\scriptscriptstyle C } ( D )$ ，则称 $B$ 是一个独立属性子集；如果对 $\\forall a \\in B$ ，$P o s _ { { \\scriptscriptstyle B - } \\{ a \\} } \\left( D \\right) < P o s _ { { \\scriptscriptstyle B } } \\left( D \\right)$ ，则称 $B$ 为 $c$ 的一个属性约简。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1F2HARNRS 算法和 FHARA 算法介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贪心策略能够在较少时间内求解最优解或次优解。 $\\mathrm { H u }$ 等人[9首先根据依赖性函数定义了条件属性对分类的贡献，称之为属性重要度，可以作为属性集合重要性的评价指标；然后根据属性重要度指标构造了一种基于邻域粗糙集的前向贪心属性约简算法，即F2HARNRS算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $7 ^ { [ 9 ] }$ 给定邻域决策系统 $\\mathsf { N D T } = ( U , C \\cup D , V , f )$ ， $\\forall B \\in C$ ，$\\forall a \\in C - B$ ，定义属性 $\\boldsymbol { a }$ 相对于集合 $B$ 的属性重要度为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S I G } { \\big ( } a , B , D { \\big ) } = \\gamma _ { { \\cal B } \\cup _ { a } } ( D ) - \\gamma _ { \\cal B } ( D )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上式等价于",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S I G } \\big ( a , B , D \\big ) = \\big | P o s _ { B \\cup a } ( D ) \\big | - \\big | P o s _ { B } ( D ) \\big |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "F2HARNRS[算法的基本思想是：初始化约简集合为空集，此时决策属性对集合的依赖度为0，每次计算全部剩余属性的属性重要度，并从中选取重要度最大的属性，即让当前正域中样本个数增加最大的属性加入到约简集合中，直到所有剩余属性的重要度全为0，即样本全划入当前正域中时，此时加入新的属性函数依赖值保持不变。输出集合，此时决策属性对集合的依赖度为1，即当前正域为论域。这种算法保留了重要度最大的属性，相当于保证核不被约简。其中，当新增加属性时，原本属于正域的样本不会变为非正域样本，因此，在算法的计算过程中，每次只需对还未判定为正域的样本进行正域计算，减少了样本判断次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "F2HARNRS算法的正域计算可以表示为图1。样本 $x _ { i }$ 需要和论域内所有样本做度量计算，其时间复杂度为 $O ( m \\vert U ^ { 2 } \\vert )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd8287542ad30755973e80da004d45caff0c124a8305a55b1306f7209652298e.jpg",
+        "img_caption": [
+            "图1F2HARNRS 算法的正域计算 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "之后Liu等人[0]在 $\\mathrm { H u }$ 等人[的基础上改进了F2HARNRS算法的正域计算方法，提出了更快速的FHARA算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FHARA算法的正域计算方法：利用映射函数$B _ { k } = \\{ x _ { i } \\vert \\forall x _ { i } \\in U \\land [ f ( x \\mathrm { 0 } , x _ { i } ) / \\delta = k ] \\}$ 将论域中的样本划分到有限集合$B \\mathrm { 0 } , B \\mathrm { 1 } , \\cdots , B \\mathrm { k }$ 中，其中 $x _ { 0 }$ 是论域 $U$ 中的一个特殊样本，其定义为$\\begin{array} { r } { x _ { 0 } = \\{ x _ { 0 } \\vert \\forall a \\in C , a ( x _ { 0 } ) = \\operatorname* { m i n } [ a ( x _ { i } ) ] \\} } \\end{array}$ ， $x _ { i } \\in U$ 。如果样本 $\\chi _ { i } \\in B _ { \\mathrm { q } }$ ，那么 $\\delta$ 1邻域只存在于 $B _ { q -  { 1 } \\cup B _ { q } \\cup B _ { q + 1 } }$ 中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FHARA算法的正域计算可以表示为图 $2 \\mathit { \\Pi } _ { 0 } \\ x \\mathit { i }$ 只需和自身所在集合以及相邻集合中的样本做度量计算，其时间复杂度为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal O } ( q . n | U ^ { 2 } | ) , q = 4 / \\left[ \\operatorname * { m a x } d ( x . x _ { j } ) / \\delta \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37a134e76bdca835f425122d28db0c274950953b7a92a4e9d51efe694fb66a0b.jpg",
+        "img_caption": [
+            "图2FHARA算法的正域计算"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上算法分析，假设某一数据集中包含 $m$ 个属性， $| U |$ 个样本，且约简结果中包含 $k$ 个属性，每增加一个属性正域中增加 $\\frac { \\left| U \\right| } { k }$ 个样本，则算法最大计算量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\cdot m \\big | U \\big | ^ { 2 } + 2 \\cdot ( m - 1 ) \\frac { k - 1 } { k } \\big | U \\big | ^ { 2 } + . . . + k \\cdot \\big ( m - k \\big ) \\frac { 1 } { k } \\big | U \\big | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于矩阵保留策略的邻域粗糙集属性约简算法 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析上述算法的最大计算量可知，在算法计算过程中，不同维数下的度量计算是互相独立的。例如，样本 $x _ { i } \\left( x _ { i 1 } , x _ { i 2 } \\right)$ 和$x _ { j } \\left( x _ { j 1 } , x _ { j 2 } \\right)$ 在2维空间上的度量计算为$d _ { 2 } ( x _ { i } , x _ { j } ) = \\left( \\left( x _ { i 1 } - x _ { j 1 } \\right) ^ { 2 } + \\left( x _ { i 2 } - x _ { j 2 } \\right) ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } }$ ,其增维后的样本 $x _ { i } \\left( x _ { i 1 } , x _ { i 2 } , x _ { i 3 } \\right)$ 和$x _ { j } \\left( x _ { j 1 } , x _ { j 2 } , x _ { j 3 } \\right)$ 在3维空间上的度量计算为$d _ { 3 } ( x _ { i } , x _ { j } ) = \\left( \\left( x _ { i 1 } - x _ { j 1 } \\right) ^ { 2 } + \\left( x _ { i 2 } - x _ { j 2 } \\right) ^ { 2 } + \\left( x _ { i 3 } - x _ { j 3 } \\right) ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } } \\ \\mathrm { ~ o ~ r ~ } i = 1 , 2 , 3 ,$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而这两次度量计算显然是有联系的，即d(x,xj)=(d(x,xj)）²+(𝑥3-𝑥js)2)。因此，如果在计算d(x,xj）前保留之前的度量计算 $\\boldsymbol { d } _ { 2 } ( \\boldsymbol { x } _ { i } , \\boldsymbol { x } _ { j } )$ ，那么增维后样本间的度量计算$d _ { 3 } ( x _ { i } , x _ { j } )$ 只需要做1维上的计算，即 $\\left( x _ { i 3 } - x _ { j 3 } \\right) ^ { 2 }$ ，而不必做原本3维上的计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，推广至 $\\mathfrak { n }$ 维，当样本增加至 $\\mathtt { n } { + } 1$ 维时，FHARA算法的度量计算需要做 $\\mathtt { n } { + } 1$ 维上的计算，而采用保留策略将样本在 $\\mathfrak { n }$ 维空间上的度量计算保存下来，那么增至 $\\mathbf { n } { + } 1$ 维时只需做1维上的度量计算。据此，本文对FHARR 算法的正域计算作出改进，然后提出基于矩阵保留策略的邻域粗糙集快速属性约简算法(fast attribute reduction based on matrix reservationstrategy，FARBMRS)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对以上分析，提出以下保留策略。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进：设当前属性约简集合 $r e d \\in C$ ，在求属性 $\\forall a \\in C - r e d$ 相对于red的重要度之前，先在red下做还未判定为正域的样本与所需计算样本间的度量计算，并且用矩阵 $d i s t [ U \\times U ]$ 对所求出的度量计算值的平方进行保存，那么在增维后求属性 $\\forall a \\in C - r e d$ 的相对于red重要度时只需从矩阵中找出相应值，再加上1维上的度量计算值即可。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可知，度量计算的耗时和度量计算次数主要影响着算法的时间开销。以上策略的优点在于：在度量计算次数不变的情况下，将每次度量计算过程中原本 $\\mathfrak { n }$ 维上的计算改进为1维上的计算，缩减了每次度量计算的计算时间，从而达到了缩减算法时间开销的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进后的正域计算 $P o s ( U , a \\cup D , \\delta , d i s t )$ 如算法1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1   \nInput: $\\mathrm { N D T } = ( U , a \\cup D , V , f )$ ·   \nOutput：正域pos.   \nStep 1 for each $x _ { i } \\in U$ $H a s h ( P ( x _ { i } ) , B _ { k } ) \\ ;$ （204号 end for   \nStep 2初始化 $p o s = \\emptyset$   \nStep 3 for each $\\begin{array} { r l } { x _ { i } \\in U } & { { } \\left( x _ { i } \\in B _ { k } \\right) } \\end{array}$ $\\mathbf { \\nabla } + 1 \\mathsf { a } \\mathbf { g } = \\mathsf { \\boldsymbol { \\theta } } ;$ for each $x _ { j } \\in B _ { k - 1 } \\cup B _ { k } \\cup B _ { k + 1 }$ if $d i s t ( x _ { i } , x _ { j } ) + ( a _ { i } - a _ { j } ) ^ { 2 } \\leq \\delta ^ { 2 }$ && $D ( x _ { i } ) \\neq D ( x _ { j } )$ $\\mathbf { \\nabla } \\mathsf { f } 1 \\mathsf { a } \\mathsf { g } = \\mathsf { 1 } ;$ break; end if end for if $\\left( \\mathrm { { f l a g } } \\neq 1 \\right)$ （204号 $p o s \\gets x _ { i }$ ; end if end for ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 4 return pos其中，Step1 中的映射函数为 $\\mathbf { B } _ { k } = \\{ x _ { i } { \\big | } \\forall x _ { i } \\in U \\wedge [ f ( x _ { 0 } , x _ { i } ) / \\delta = k ] \\}$ 。$d i s t ( i , j )$ 表示 $x _ { i }$ 和 $x _ { j }$ 的度量计算值。根据算法1，每次正域计算只需要做1维上的度量计算，即 $( a _ { i } - a _ { j } ) ^ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合算法 $1 P o s ( U , a \\cup D , \\delta , d i s t )$ ，下面给出FARBMRS 算法的具体步骤，如算法2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Input: ${ \\mathrm { N D T } } = ( U , C \\cup D , V , f )$ ·  \nOutput：属性约简red.  \nStep 1初始化 $d i s t [ U \\times U ]$ ， $r e d = \\infty$ ，待检验样本 $s m p _ { - } c h k = U$ ，当前正域 $m a x _ { - } p o s = \\emptyset$ ，重要度最大属性 $m a x _ { - } i = \\emptyset$   \nStep 2while $s m p - c h k \\neq \\emptyset$ （204号  \n$m a x _ { - } p o s = \\emptyset$ ;  \nfor each k,∈(C-red)  \n$P o s _ { i } = P o s \\left( s m p \\_ c h k , k _ { i } \\bigcup D , \\delta , d i s t \\right) \\textbf { ; }$   \nif $\\left| m a x _ { - } p o s \\right| < \\left| P o s _ { i } \\right|$   \n$\\begin{array} { l } { { m a x \\llap / _ { - } p o s = P o s \\lor } _ { i } \\ ; } \\\\ { { } } \\\\ { { m a x \\llcorner \\ - i = k _ { i } \\ ; } } \\end{array}$ （204号  \nend if;  \nend for",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "red =red Umax_i ; smp_chk=smp_chk-max_pos dist = distred ； else break; end if nd while ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step 3 return red ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法2中， $d i s t _ { r e d }$ 的更新公式为$d i s t _ { r e d } \\left( i , j \\right) = d i s t _ { r e d - a } \\left( i , j \\right) + \\left( a _ { i } - a _ { j } \\right) ^ { 2 } \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在该算法下，假设某一数据集中包含 $m$ 个属性， $| U |$ 个样本，且约简结果中包含k个属性，每增加一个属性正域中增加个样本，则算法最大计算量为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\cdot m \\big | U \\big | ^ { 2 } + 1 \\cdot \\big ( m - 1 \\big ) \\frac { k - 1 } { k } \\big | U \\big | ^ { 2 } + . . . + 1 \\cdot \\big ( m - k \\big ) \\frac { 1 } { k } \\big | U \\big | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 1 \\cdot m \\big | U \\big | ^ { 2 } + 1 \\cdot \\frac { k - 1 } { k } \\big | U \\big | ^ { 2 } + . . . + 1 \\cdot \\frac { 1 } { k } \\big | U \\big | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过以上对FARBMRS算法的最大计算量的分析可知，在约简集合red 增维的过程中，FARMRS 算法的正域计算每次仅需做1维上的度量计算，以及增加度量计算前的 $d i s t _ { r e d }$ 计算。总的来说，FARBMRS 算法增加的计算量小于减少的计算量，而FHARR算法每次的正域计算都需要进行 $n$ 维的计算，因此FARBMRS算法计算量少于FHARR算法的计算量，在理论上减少了时间开销。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验部分，首先对FARBMRS和FHARA算法在时间开销的差别作出了对比，验证了算法的有效性；然后对FARBMRS算法相对于FHARA算法的效率作出分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UCI（UniversityofCaliforniaIrvine）提供了一系列用于测试的标准数据集。为了验证FARBMRS算法的有效性，从UCI数据集中选取了八个具有代表性的数据集作为实验数据，描述如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fe39a216d23f8ac17bb775d3fd8010c8c63f1f040201c1b4e190a02c6cf9a28.jpg",
+        "table_caption": [
+            "表1数据集描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>数据集</td><td>样本数</td><td>属性数</td><td>类别数</td></tr><tr><td>1</td><td>Wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>2</td><td>Ionosphere</td><td>351</td><td>34</td><td>2</td></tr><tr><td>3</td><td>Librasmovement</td><td>360</td><td>90</td><td>15</td></tr><tr><td>4</td><td>WDBC</td><td>569</td><td>30</td><td>2</td></tr><tr><td>5</td><td>Credit Approval</td><td>690</td><td>14</td><td>2</td></tr><tr><td>6</td><td>German Credit</td><td>1000</td><td>19</td><td>2</td></tr><tr><td>7</td><td>Biodeg</td><td>1055</td><td>41</td><td>2</td></tr><tr><td>8</td><td>Segmentation</td><td>2310</td><td>19</td><td>7</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次实验在一台Intel(RCore(TM)i5CPU和4GB 内存的PC机上，采用Windows10环境下的MATLABR2016b进行算法仿真。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 （204号 $\\delta$ 的取值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在计算各邻域样本时， $\\delta$ 是一个关键的参数，它的取值直接影响着属性约简的结果。对于某一条件属性集合而言，如果 $\\delta$ 的取值太大，会导致大部分样本划分在同一邻域内，使得最后得到的约简属性偏少；如果 $\\boldsymbol { \\mathscr { s } }$ 的取值太小，会使得最后约简属性偏多。 $\\boldsymbol { \\mathscr { s } }$ 取值偏大或偏小得到的属性约简都不甚理想。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在邻域粗糙集中， $\\delta$ 一般采用点值式的取值方法[9-18]，这对于不同数据集和分类器来说有不同的效果。本文采用文献[12]中提出的采用标准差度量 $\\delta$ 的取值。标准差是数据平均值分散程度的一种度量。一个较小的标准差代表大部分数据都接近平均值，此时需要为邻域设定较小的 $\\delta$ 值；反之，而一个较大的标准差需要设定较大的 $\\delta$ 值。首先取每一列属性值的标准差，再将这些标准差取标准差作为 $\\delta$ 值，即假设条件属性$C = \\left\\{ C _ { 1 } , C _ { 2 } , . . . , C _ { m } \\right\\}$ ，那么 $\\delta$ 的取值公式为$\\delta = \\sigma \\big ( \\sigma \\big ( C _ { 1 } \\big ) , \\sigma \\big ( C _ { 2 } \\big ) , . . . , \\sigma \\big ( C _ { m } \\big ) \\big )$ 。大部分分类器在这种 $\\delta$ 取值下可以获得良好的分类性能，分类效果较为理想。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1FARBMRS算法的有效性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了去掉量纲对数据的影响，先对样本数据进行归一化处理。根据3.2节中的分析，本次实验取$\\boldsymbol { \\delta } = \\sigma \\big ( \\sigma \\big ( C _ { 1 } \\big ) , \\sigma \\big ( C _ { 2 } \\big ) , . . . , \\sigma \\big ( C _ { m } \\big ) \\big )$ ，将FARBMRS 和FHARA 算法各执行10次，统计各自的属性约简和运行时间，并取10次中的最小值作为最后的运行时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两种算法得到的属性约简如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b12af42fd69216c6e105b63f6ff7ffb4099359293c44d6dd15f9ef6a1e46aafa.jpg",
+        "table_caption": [
+            "表2算法得到的属性约简"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>FHARA算法</td><td>FARBMRS算法</td></tr><tr><td>Wine</td><td>13,10,7,5,11,1</td><td>13,10,7,5,11,1</td></tr><tr><td>Ionosphere</td><td>3,31,24,16,4</td><td>3,31,24,16,4</td></tr><tr><td>Libras movement</td><td>63,72,17,40</td><td>63,72,17,40</td></tr><tr><td>WDBC</td><td>23,22,28,9,25</td><td>23,22,28,9,25</td></tr><tr><td rowspan=\"2\">Credit Approval</td><td>14,7,2,3,6,5,8,9,</td><td>14,7,2,3,6,5,8,9,</td></tr><tr><td>11,4,1,12,13</td><td>11,4,1,12,13</td></tr><tr><td>German Credit</td><td>2,4,10,3,6,1,9,7,</td><td>2,4,10,3,6,1,9,7,</td></tr><tr><td></td><td>8,11,5</td><td>8,11,5</td></tr><tr><td rowspan=\"2\">Biodeg</td><td>7,3,38,37,1,14,35,</td><td>7,3,38,37,1,14,35,</td></tr><tr><td>8,13,10,9,12,2,31,</td><td>8,13,10,9,12,2,31,</td></tr><tr><td></td><td>22.33</td><td>22.33</td></tr><tr><td rowspan=\"3\">Segmentation</td><td>19,16,11,13,17,</td><td>19,16,11,13,17,</td></tr><tr><td>14,1,18,2,6,5,4,8,</td><td>14,1,18,2,6,5,4,8,</td></tr><tr><td>10,12,15,7</td><td>10,12,15,7</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表2可知，在 $\\delta$ 取值相同的情况下，FARBMRS和FHARA算法得到的约简结果是一样的，这证明FARBMRS算法是有效可行的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两种算法的运行时间如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f5c01ede5e5ef9726c5dc2cceda647a67a30f16d968432aa32e596a4b2e9b3e.jpg",
+        "table_caption": [
+            "表3算法的运行时间/s"
+        ],
+        "table_footnote": [
+            "表3的折线图如图3所示。"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>数据集</td><td>FHARA 算法</td><td>FARBMRS算法</td></tr><tr><td>1</td><td>Wine</td><td>1.031937</td><td>0.487075</td></tr><tr><td>2</td><td>Ionosphere</td><td>6.846643</td><td>2.375099</td></tr><tr><td>3</td><td>Libras movement</td><td>8.685433</td><td>5.426591</td></tr><tr><td>4</td><td>WDBC</td><td>9.168734</td><td>3.788283</td></tr><tr><td>5</td><td>Credit Approval</td><td>29.501807</td><td>6.900268</td></tr><tr><td>6</td><td>German Credit</td><td>87.749297</td><td>18.505205</td></tr><tr><td>7</td><td>Biodeg</td><td>117.338324</td><td>31.700159</td></tr><tr><td>8</td><td>Segmentation</td><td>380.319438</td><td>85.935464</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfb0ededc773e7853cf8f257b1ba17d51dde34e9f52df892f31527b6e7352385.jpg",
+        "img_caption": [
+            "图3两种算法的运行时间折线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析图3运行时间折线图可以看出，FARBMRS算法的折  \n线一直位于FHARR算法折线的下方，这表示FARBMRS算法  \n运行时间小于FHARR算法的运行时间，具有更短的时间开销。在实验中统计了两种算法的度量计算次数，如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/063bb014f92a258517db8c17b8f810b5e447c255c1b1800582447a9e6667d55a.jpg",
+        "table_caption": [
+            "表4算法的度量计算次数"
+        ],
+        "table_footnote": [
+            "根据表4可知，算法的度量计算次数没有发生变化。"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>数据集</td><td>FHARA 算法</td><td>FARBMRS算法</td></tr><tr><td>1</td><td>Wine</td><td>225680</td><td>225680</td></tr><tr><td>2</td><td>Ionosphere</td><td>1970004</td><td>1970004</td></tr><tr><td>3</td><td>Libras movement</td><td>1111901</td><td>1111901</td></tr><tr><td>4</td><td>WDBC</td><td>2308687</td><td>2308687</td></tr><tr><td>5</td><td>Credit Approval</td><td>8410959</td><td>8410959</td></tr><tr><td>6</td><td>German Credit</td><td>27515132</td><td>27515132</td></tr><tr><td>7</td><td>Biodeg</td><td>29854308</td><td>29854308</td></tr><tr><td>8</td><td>Segmentation</td><td>99679854</td><td>99679854</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上实验验证了本文2.2节中对两种算法计算量以及时间开销的分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2FARBMRS算法的效率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对各数据集，用FARBMRS算法的运行时间与FHARR算法的运行时间的比值作为FARBMRS算法相对于FHARR算法的效率。其中，比值越低，说明FARBMRS算法的约简效率越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两种算法运行时间的比值如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4151468c3861c9802b51672faff2a60aebc4f377922f26bc1465ec2cb37893d9.jpg",
+        "table_caption": [
+            "表5FARBMRS 算法的效率/%"
+        ],
+        "table_footnote": [
+            "表5的折线图如图4所示。"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>数据集</td><td>比值</td></tr><tr><td>1</td><td>Wine</td><td>47.20071</td></tr><tr><td>2</td><td>Ionosphere</td><td>34.68997</td></tr><tr><td>3</td><td>Librasmovement</td><td>62.47922</td></tr><tr><td>4</td><td>WDBC</td><td>41.31740</td></tr><tr><td>5</td><td>Credit Approval</td><td>23.38930</td></tr><tr><td>6</td><td>German Credit</td><td>21.08872</td></tr><tr><td>7</td><td>Biodeg</td><td>27.01603</td></tr><tr><td>8</td><td>Segmentation</td><td>22.59560</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/545416ea029a5d20cc1fa5cad26731c7184dd92dd9338b5857974f63a39bb5ec.jpg",
+        "img_caption": [
+            "图4FARBMRS算法的效率折线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析图4算法效率折线图可以看出，折线波动较大，取值区间位于 $20 \\% { \\sim } 6 5 \\%$ ，跨度较大。其中，大部分点的取值较低，这表明对于大部分数据集来说，FARBMRS算法的效率较高。这种波动性与两种算法性质有关，因为在正域计算中，如果判定当前样本属于正域，则立即跳出当前循环，这说明数据集中样本在样本空间中分布会影响两种算法的约简效果。相较于FHARA算法，当FARBMRS算法增加的 $d i s t _ { r e d }$ 计算量接近减少的度量计算计算量时，FARBMRS 算法效率较低；但是对于大部分数据集而言，FARBMRS算法的效率较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对当前邻域粗糙集中的经典属性约简算法作分析，针对算法对时间复杂度的要求，对其中的FHARA算法的正域计算作出了改进，提出了基于矩阵保留策略的邻域粗糙集属性约简算法FARBMRS，减少了算法时间开销，更快速地求得数据集的属性约简，且通过多个UCI标准数据集的实验验证，该算法是有效且更快速的。本文对FHARA算法的正域改进还可以与Lou[1的研究相结合，进一步减少算法的时间开销。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]贺玲，蔡益朝，杨征．高维数据聚类方法综述[J].计算机应用研究, 2010,27(1):23-26.(He Ling,Cai Yichao,Yang Zheng.Survey of lustering algorithms for high-dimensional data [J].Application Research of Computers,2010,27(1): 23-26.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Pawlak Z,So-Winski R.Rough set approach to multi-atribute decision analysis [J]. European Journal of Operational Research,1994,72(3): 443-459.   \n[3]Zadeh L A.Towards a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic [J]. Fuzzy Sets and Systems, 1997,90 (90):111-127.   \n[4]Lin T Y.Granular Computing on binary relations I: data mining and neighborhood systems [J].Rough Sets in Knowledge Discovery,1998,18 (1): 107-121   \n[5]王国胤．Rough 集理论与知识获取[M].西安：西安交通大学出版社， 2001:147-156.(Wang Guoyin.Rough set theory and knowledge acquisition [M].Xi'an: Xi'an Jiaotong University Press,20Ol:147-156.)   \n[6] 胡清华，赵辉，于达仁．基于粗糙集的符号与数值属性的快速约简算法 [J].模式识别与人工智能,2008,21(6):730-738.(Hu Qinghua,Zhao Hui, Yu Daren.Efficient symbolic and numerical attribute reduction with rough sets [J].Pattern Recognition and Artificial Intellgence，2008,21 (6): 730-738.)   \n[7]胡清华，于达仁，谢宗霞．基于邻域粒化和粗糙逼近的数值属性约简 [J]．软件学报，2008,19(3):640-649.(Hu Qinghua,Yu Daren，Xie Zongxai.Numerical attribute reduction based on neighborhood granulation and rough approximation [J]. Journal of Software,2008,19 (3): 640-649.)   \n[8]胡清华，于达人．应用粗糙计算[M].北京：科学出版社，2012.(Hu Qinghua,Yu Daren.Applied rough sets [M].Beijing:Science Press, 2012.）   \n[9]Hu Qinghua,Yu Daren,Liu Jinfu,et al.Neighborhood rough set based heterogeneous feature subset selection [J]. Information Sciences,2008,178 (18): 3577-3594.   \n[10] Liu Yong,Huang Wenliang,Jiang Yunliang,et al.Quick atribute reduct algorithm for neighborhood rough set model [J].Information Sciences, 2014,271 (7): 65-81.   \n[11]娄畅，刘遵仁，郭功振．基于块集的邻域粗糙集的快速约简算法 [J]. 计算机科学，2014,41 (S2):337-339.(Lou Chang，Liu Zunren,Guo ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gongzhen.Quick attribute reduct algorithm on neighborhood rough set ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "based on block set [J].Computer Science,2014,41(S2):337-339.)   \n[12]刘遵仁，吴耿峰．基于邻域粗糙集模型的高维数据集快速约简算法[J]. 计算机科学,2012,39(10): 268-271.(Liu Zunren,Wu Gengfeng. Quick reduction algorithm for high-dimensional data sets based on neighborhood rough set model[J]. Computer Science,2012,39 (10): 268-271.)   \n[13] Guo Gongzhen,Liu Zunren,Lou Chang,et al.Improving on a rapid atribute reduction algorithm based on neighborhood rough sets [Cl// Proc of International Conference on Fuzzy Systems and Knowledge Discovery. 2016:236-240.   \n[14] Chen Hongmei,Li Tianrui，Luo Chuan，et al.Dominance-based neighborhood rough sets and its attribute reduction [M]//Rough Sets and Knowledge Technology.[S.1.] : Springer International Publishing,2015.   \n[15] Wang Changzhong，Shao Mingwen,He Qiang，et al. Feature subset selection based on fuzzy neighborhood rough sets [J]. Knowledge-Based Systems,2016,111: 173-179.   \n[16]段洁，胡清华，张灵均，等．基于邻域粗糙集的多标记分类特征选择算 法[J].计算机研究与发展,2015,52(1):56-65.(Duan Jie,Hu Qinghua, Zhang Lingjun,et al.Feature selection for muli-label classification based on neighborhood rough sets [J].Journal of Computer Research and Development,2015,52(1): 56-65.)   \n[17] Chen Yumin，Zeng Zhiqiang，Lu Junwen．Neighborhood rough set reduction with fish swarm algorithm [J]. Soft Computing,2016,21 (23): 6907-6918.   \n[18]Fan Anjing，Zhao Hong，Zhu William． Test-cost-sensitive attribute reduction on heterogeneous data for adaptive neighborhood model [J]. Soft Computing,2015,20 (12): 4813-4824. ",
+        "page_idx": 5
+    }
+]

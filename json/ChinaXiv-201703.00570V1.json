@@ -1,0 +1,228 @@
+[
+    {
+        "type": "text",
+        "text": "Cu precipitates in hydrogen ion irradiated Fe-O.3%Cu alloy investigated by positron annihilation spectroscopy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shuoxue Jin1， Xingzhong Cao1,\\*， Peng Zhang1， Eryang LU'， Liping Guo²,RuiSheng YU1, Baoyi Wang1, \\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics,Chinese Academy of Sciences,100049, Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2Key Laboratory of Artificial Micro- and Nano-structures of Ministry of Education and School of Physics and Technology，Wuhan University,Wuhan 430072, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author.   \nTEL:+86-10-8823-5971; FAX: +86-10-8823-3178.   \nE-mail: caoxzh@ihep.ac.cn   \nPostal address: Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, Chinese Academy of Sciences,10o049,Beijing, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The formation of $\\mathrm { c u }$ precipitates in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ binary model alloy after hydrogen ion irradiation at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ was investigated by positron annihilation spectroscopy based on slow positron beam.In order to study the effect of elevated temperature for the $\\mathtt { C u }$ precipitates, the annealing treatment at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ inF ${ \\mathsf { s } } { \\mathsf { - } } 0 . 3 \\% { \\mathsf { C } } { \\mathsf { u } }$ alloy was also investigated. The S-parameters of specimens increased with the irradiation dose increased, especially in the damage peak region. $\\mathrm { H } +$ implantation produced a large number of vacancy-type defects in Fe- $. 0 . 3 \\% \\mathrm { C u }$ alloy. Compared to the unirradiated samples,the irradiated specimens show an overall major increase in W parameter values.Experimental results indicate that $\\mathrm { c u }$ precipitates formed easily under lower irradiation dose at elevated temperature.No obvious Cu precipitates formed when Fe- $. 0 . 3 \\% \\mathrm { C u }$ alloywas annealed for 2h at $4 0 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Positron annihilation; FeCu alloy; Ion irradiation; Thermal aging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Irradiation-hardening，leading to an increase in the ductile-to-britle transition temperature (DBTT), has been widely recognized in nuclear reactor pressure vessel (RPV) [1]. Cu atoms have a very low solubility in $\\mathfrak { a }$ -Fe[2,3], thus,not only under high-energy particles irradiation but also under thermal treatment at elevated temperature could lead the Cu precipitates in FeCu alloys [4]. The $\\mathtt { C u }$ precipitates are a major contribution to the hardness and embritlement increase,which results from the interaction of Cu with defects induced by irradiation. Thus，extensively studies have been focused to the formation of the Cu precipitates in RPV steels irradiated by neutrons/ions [3,5-9]. Yoshiie et al. have been reported the effects of damage rate on $\\mathtt { C u }$ precipitation and indicated that the precipitation was accelerated in lower damage rate [1O]. Nagai et al. have concluded that voids were surrounded by Cu precipitates [11]. Xu et al. also detected the formation of $\\mathtt { C u }$ cluster-vacancies complexes,and concluded that the growth of $\\mathtt { C u }$ precipitates depended on the nucleation and growth of microvoids,which did not increase monotonously with increasing irradiation dose [2,4]. Cao et al. indicated that the precipitation of $\\mathtt { C u }$ atoms formed easily as lower irradiation dose [5]. Therefore，it is important to establish a fundamental understanding of the interactions between Cu precipitates and the formation of vacancy-type defects. Hori et al. indicated that high density of vacancies introduced by heavy ions enhanced the formation of nm-size copper precipitate [12]. However, the mechanism of the interaction between defects and fine Cu-rich precipitates under irradiation remains unclear, which still require further investigation, especially the interaction between vacancies and copper atoms and the Cu precipitates nucleation at lower irradiation dose [2, 5]. In order to clarify the irradiation defects on the formation of $\\mathrm { C u }$ precipitates, it is important to study the fundamental behavior of the interaction between irradiation induced defects and Cu atoms. Ion implantation/irradiation is the most useful technique to introduce defects in metal materials [12].H ion,because of only a mass number, was considered to be the best ion for simulation neutron irradiation [13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In present work，positron annihilation Doppler Broadening(DB） spectroscopy and Coincidence Doppler Broadening (CDB） methods were used to measure the defects and the Cu precipitation behavior in hydrogen ion irradiated Fe- $. 0 . 3 \\% \\mathrm { C u }$ alloy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials and preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Fe- $0 . 3 \\% \\mathrm { C u }$ model alloy used in present study was melted from Fe $( 9 9 . 9 9 \\%$ purity) and $\\mathtt { C u }$ 0 $9 9 . 9 \\%$ purity） in vacuum using a high-frequency induction furnace,where the composition of $\\mathtt { C u }$ is in $w t \\%$ . After melting, the solution treatment of samples was at $8 0 0 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ ,followed by quenching in ice water. The bulk materials were first cut to thickness of $1 \\mathrm { m m }$ and $1 0 \\ \\mathrm { m m } { \\times } 1 0 \\ \\mathrm { m m }$ square sheets and then cold-rolled to a thickness of about $0 . 5 ~ \\mathrm { m m }$ All samples were punched into $1 0 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m }$ square sheets, well-annealed at $9 0 0 ^ { \\circ } \\mathrm { C }$ for $0 . 5 \\mathrm { h }$ （204号 in a vacuum, and quenched in ice water. Before hydrogen ion irradiation, the specimens were electrochemically polished to a mirror-like surface using $2 5 \\%$ perchloric acid and $7 5 \\%$ ethanol polishing solution at $- 3 0 ~ ^ { \\circ } \\mathrm { C }$ .Finally,the polished sheet specimens were cleaned with acetone and ultrasonically rinsed in de-ionized water for $5 \\mathrm { m i n }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Hydrogen ion irradiation and annealing treatment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Already prepared polished sheet specimens were irradiated with hydrogen ions using an ion implanter in the Accelerator Laboratory of Wuhan University. Specimens’ temperature was maintained at $4 0 0 { \\pm } 5 \\ ^ { \\circ } \\mathrm { C }$ during irradiation,which was monitored by a thermocouple throughout the experiment process.Irradiations were performed using $7 0  { \\mathrm { k e V } }  { \\mathrm { H ^ { + } } }$ to a fluence of $1 \\times 1 0 ^ { 1 6 }$ and $1 { \\times } 1 0 ^ { 1 7 } \\mathrm { i o n s } / \\mathrm { m } ^ { 2 }$ ， corresponding to the maximum damage dose of O.O45 dpa and 0.45 dpa, respectively. The damage profiles and distributions of hydrogen ions calculated by SRIM 2OO8 are shown in Fig.1,where the displacement energy was $4 0 \\mathrm { e V }$ .Two specimens were irradiated to O.045 dpa and $0 . 4 5 \\ \\mathrm { d p a }$ ，and corresponding irradiation times were $0 . 2 \\mathrm { ~ h ~ }$ and $2 \\mathrm { ~ h ~ }$ , respectively. In order to investigate the effect of elevated temperature, the third specimen was only annealed at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ .Then,the three specimens were investigated by positron annihilation DB and CBD spectroscopy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/37005e8202e53cb22f87c8a76c0cf1030b3375790a4d9cd1b751c714aec054f4.jpg",
+        "img_caption": [
+            "Fig.1. SRIM calculation of damage profiles and ion distribution produced by $7 0 \\mathrm { k e V }$ hydrogen ions "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 DB and CBD spectrum measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation DB and CBD spectroscopy measurement was carried out at slow positron beam facility in Institute High Energy Physics. Slow positrons are generated by a 50 mCi $\\mathrm { N a } ^ { 2 2 }$ radiation source. The positron beam energy range is about $0 . 1 8 { - } 2 0 . 1 8 \\ \\mathrm { \\ k e V }$ ： Importantly, the maximum depth of the positron incident could cover the damage profiles and distribution of hydrogen ions. In DB spectrum， two parameters were analyzed to characterize the defect information and the formation of $\\mathtt { C u }$ precipitates,namely S and W parameters,respectively.The S parameter is defined as the ratio of the counts in central area （204号 $( 5 1 0 . 2 { - } 5 1 1 . 8 \\mathrm { k e V } )$ of gamma rays to the total counts of whole spectrum ( $5 0 3 . 3 4 5 1 8 . 6 6 \\mathrm { k e V } )$ ： This is indicated as positron annihilation with low-momentum valence electrons and represents the information of the positron annihilation with vacancy-type defects. On the other hand,W parameter is defined as the ratio of the counts of the areas in a range of $5 1 4 . 8 3 { - } 5 1 8 . 6 6 ~ \\mathrm { k e V }$ and $5 0 3 . 3 4 \\mathrm { - } 5 0 7 . 1 7 \\ \\mathrm { k e V }$ to the total counts.It comes from the positron annihilation with high-momentum regions of inner shell electrons and conveys information of Cu element precipitates. In order to investigate the precipitation of $\\mathtt { C u }$ atoms further, two HPGe detectors were used to detect the $5 1 1 \\ \\mathrm { k e V }$ （20 $\\gamma$ -ray pairs emitted by annihilation of positron and electron in CDB technique,and the energy of positrons is about $1 3 . 1 8 \\ \\mathrm { k e V }$ in present work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the result of the vacancies profile in Fig. 1, the irradiated specimens were divided into three layers.The three layers have boundaries of about $ { 0 - 1 5 0 }  { \\mathrm { ~ n m } }$ ， $1 5 0 – 4 5 0 \\ \\mathrm { n m }$ and the third layer is the bulk. In Fig.1,DR is the damage region,where the incident ions produce a large of defects, finally stay at near the region (hydrogen atoms are easily escaping in present work). TR means the ion track region located between the surface and the DR. NIR is the third layer denoted the non-implanted region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The dependence of S parameter on incident positron energy for $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy annealed for $^ { 2 \\mathrm { ~ h ~ } }$ and irradiated with different dose is shown in Fig.2.The depth below surface of the slow positron is defined by the incident energy and is calculated by the empirical equation[14,15]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal Z } ( E ) = \\left( \\frac { 4 \\times 1 0 ^ { 4 } } { \\rho } \\right) E ^ { 1 . 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\scriptstyle { Z ( \\mathrm { E } ) }$ is the depth below surface and is expressed in nm and $\\mathrm { ~ E ~ }$ is the incident energy $\\left( \\mathrm { k e V } \\right)$ of the slow positron, $\\rho$ is the density in units of $\\mathrm { k g / m } ^ { 3 }$ .The calculated mean depth below the surface of the slow positron was shown in the top X-axis of Fig. 2 according to Eq. (1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At the range of positron energy changed from $2  { \\mathrm { \\ k e V } }$ to $2 0 \\mathrm { k e V } ,$ ，the specimen irradiated with O.45 dpa showed an overall increase in S parameter values compared to those of the sample irradiated with O.O45 dpa. It indicated that higher irradiation dose produced more defects at the overall area. In the DR,S values of the irradiated specimens were larger than that of the unirradiated ones from 13 to $2 0 \\ \\mathrm { k e V } ,$ which clearly indicated that hydrogen ion irradiation produces a lot of vacancy-type defects in the DR. However, according to the SRIM calculation (see in Fig.1),no peak S value formed in the irradiated specimens,and the experiment results are not significantly consistent with the calculation. The reason may be that the hydrogen atoms occupy the site of the vacancies. This means that the hydrogen atoms and the vacancy-type defects combined and formed the V-H complex [14,16]. The theoretical research showed that implications of hydrogen could enhance vacancy activities and formation in $\\mathfrak { a }$ -Fe [17]. Because of the easily diffusivity of hydrogen, the V-H complex may be destroyed and hydrogen atoms are easily escaping. Therefore, it could be predicted that the annealing treatment could destroy the V-H complex and the peak S value would appear in the DR. The further research and report will focus on the effect of annealing treatment isochronally in hydrogen ion-irradiated FeCu alloy. In the TR,the S parameter for unirradiated samples becomes larger than that for the irradiated ones from $2  { \\mathrm { \\ k e V } }$ to $8 \\ \\mathrm { k e V } .$ This is also abnormal phenomenon.A reasonable interpretation would be that elevated temperature irradiation lead to the H atoms migrated to the surface and numerous V-H complexes formed here due to an occupation of defects by H. Thus,the formation of the V-H complexes leaded to the decrement of S parameters in TR of the irradiated specimens compared to the unirradiated specimens. However, another possbility needs to consider the change of the positron diffusion length.In the range of $2 { \\cdot } 8 \\ \\mathrm { k e V } ,$ ，S parameters of unirradiated specimens were higher than intrinsic values due to an effect of the surface region. Thus, the positron diffusion length was reduced by irradiation-induced copper precipitates. As a result, S parameters of the irradiated sample became close to the intrinsic value even in the same energy range.The third possibility may be the increment of W parameters in irradiated specimens.W parameters of irradiated specimens were larger than that in unirradiated specimens because of the formation of copper precipitates (seen in Fig. 3). Especially the $\\Delta \\mathrm { W }$ parameters ( $\\mathrm { \\Delta ( \\Delta W = W _ { i r r a d i a t e d } \\mathrm { ~ - ~ } W _ { u n i r r a d i a t e d } ) }$ in the range of $2 { - } 8 \\ \\mathrm { k e V }$ were larger than that in the range of $8 { \\cdot } 2 0 \\mathrm { k e V } .$ Therefore,the S parameters for irradiated samples became lower than that for the unirradiated ones from $2 \\mathrm { k e V }$ to $8 \\mathrm { k e V } .$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bbc994d9bec3ed83075979c1057b3570b015fb5f6845e922e6b2839859a8fda.jpg",
+        "img_caption": [
+            "Fig. 2. S-E curves for $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy annealed for $2 \\mathrm { h }$ and irradiated with different dose "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd51b2846dc87b1d282b7ec350e73307263cff90a1c4cdc1f7b22c7cc2799d2d.jpg",
+        "img_caption": [
+            "Fig.3.Positron annihilation with high-momentum core electron increase in irradiated specimens compared with the unirradiated specimen. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/529f3ba89d37e2173e2a38923c61d36b5e8bb576dfc7a714692ebe9f6c0c3aba.jpg",
+        "img_caption": [
+            "Fig. 4. Typical CDB ratio spectra of irradiated Fe $- 0 . 3 \\% \\mathrm { C u }$ to unirradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ annealedfor $2 \\mathrm { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the W parameters of Fe $\\mathsf { s } _ { - } 0 . 3 \\% \\mathsf { C u }$ alloy annealed for $^ { 2 \\mathrm { ~ h ~ } }$ and irradiated with different dose. As stated above, the W parameter represents the positron annihilation with $\\mathrm { { C u } }$ 3d electrons and defined as the ratios of the counts in high momentum $( 1 8 { \\times } 1 0 ^ { - 3 } \\mathrm { m o c } < | \\mathrm { P _ { L } } | <$ $3 0 { \\times } 1 0 ^ { - 3 } \\mathrm { m o c } )$ regions in the DB spectrum to the total count, where $\\mathbf { m } _ { 0 }$ is the electron rest mass, and c is the velocity of light. The irradiated specimens show an overall major increase in $\\mathbf { W }$ parameter values compared to those of the unirradiated sample. In order to identify $\\mathtt { C u }$ precipitates further, the typical CDB ratio spectra of irradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ to unirradiated 11 $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ annealed for $2 \\mathrm { ~ h ~ }$ is shown in Fig. 4.Previously,we have investigated the ratio curve of pure $\\mathrm { C u }$ that shows a peak at about $2 5 { \\times } 1 0 ^ { - 3 } ~ \\mathrm { m o c }$ [5].A broad peak appeared at the same position in the case of irradiated F $\\mathrm { e - 0 . 3 \\% C u }$ alloy,and it came from $\\mathtt { C u }$ precipitates [2, 18].Therefore,this illustrates that the precipitation of $\\mathtt { C u }$ atoms formed easily as lower irradiation dose. In addition, there is no obvious distinction in W parameter values between the unirradiated specimen and the annealed Fe- $0 . 3 \\% \\mathrm { C u }$ alloy in Fig.3.This means that no obvious $\\mathtt { C u }$ precipitates formed when Fe- $. 0 . 3 \\% \\mathrm { C u }$ alloy was annealed for $2 \\mathfrak { h }$ at $4 0 0 ^ { \\circ } \\mathrm { C }$ .Barbu et al.showed that the mechanism of $\\mathrm { c u }$ precipitation was identical in FeCu alloy under thermal aging at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ and electron irradiation at $2 9 0 ~ ^ { \\circ } \\mathrm { C }$ [3，19]． Single elevated temperature $( 4 0 0 ~ ^ { \\circ } \\mathrm { C } )$ thermal treatment can't lead to the obvious $\\mathrm { { C u } }$ atoms precipitates in present work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We now atempt to propose an explanation for the Cu precipitation behavior in irradiated FeCu alloy that we found in this study. The correlation between $\\mathrm { c u }$ precipitation formation and irradiation induced defects (vacancy-type defects and V-H complexes) is shown in Fig. 5. Lines 1 to 3 correspond to an irradiation dose of 0, O.045 and O.45dpa, respectively. Line 4 corresponds to the specimen annealed for $2 \\mathrm { h }$ at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ .Experimental data（W/S） follows a near linear relation from the surface region to bulk region. However, it indicates that the slopes changed clearly in irradiated alloys compare to un-irradiated one. The slopes of the irradiated specimen were larger than that of the un-irradiated ones.It shows that the mechanism of positron annihilation was changed in hydrogen ion irradiated specimens. According to results in Fig.2, S increased with an increasing irradiation dose from O.045 dpa to 0.45 dpa in the DR. A larger of the vacancy-type defects and V-H complexes were formed. However, since the Cu atoms were aggregated easily by vacancy migration [2], it is likely that the nucleation of small $\\mathrm { C u }$ precipitates prior to the V-H complexes. The V-H complexes could be regarded as sinks, which could absorb more small Cu precipitates. The aggregation of $\\mathrm { c u }$ （204号 atoms grew and coarsened finally with increasing irradiation dose. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d26ab96cb879c0ad0d4c47be4d70a73c75da4e3730dd8d992e26f5a34d013c02.jpg",
+        "img_caption": [
+            "Fig. 5. S-W curves for $\\mathrm { F e - C u }$ alloys annealed for 2h and irradiated with different dose. Lines 1 to 3 correspond to an irradiation dose of O, O.O45 and $0 . 4 5 \\mathrm { d p a }$ , respectively. Line 4 corresponds to the specimen annealed for 2h at $4 0 0 ^ { \\circ } \\mathrm { C }$ Experimental data follows a linear relation from the surface to bulk, but the slopes of irradiated specimens were different from unirradiated specimens. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work examined the formation of V-H complexes and $\\mathrm { C u }$ precipitates in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ binary model alloy after hydrogen ion irradiation and annealing treatment at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ via DB and CDB.In the irradiated specimens,the hydrogen atoms occupied the site of the vacancies and the V-H complexes formed. The results of the W parameters and the CBD indicated that the Cu precipitates formed easily under lower irradiation dose at elevated temperature. It is likely that the nucleation of small Cu precipitates prior to the V-H complexes,and the V-H complexes could absorb more small Cu precipitates as sinks. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by National Natural Science Foundation of China (91O26O06 and 91226103) and Xie Jialin Foundation of IHEP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Y. Nishiyama, K. Onizawa, M. Suzuki, J. W. Anderegg，Y. Nagai, T. Toyama, M. Hasegawa and J. Kameda: Acta Mater. 56 (2008) 4510.   \n[2] Q.Xu, T. Yoshiie and K. Sato: Phys. Rev. B 73(2006) 134115.   \n[3] M.H. Mathon, A. Barbu, F. Dunstetter, F. Maury, N. Lorenzeli and C. H. deNovion: J. Nucl. Mater. 245(1997) 224.   \n[4] Q.Xu and T. Yoshiie: Philos. Mag. 91(2011) 3716.   \n[5] X. Z. Cao, P. Zhang, Q. Xu, K. Sato, H. Tsuchida, G. D. Cheng, H. B. Wu, X. P. Jiang, R. S. Yu,B.Y.Wang and L. Wei: J. Phys. Conf. Ser. 443 (2013) 012017.   \n[6] G. R. Odette and G. E.Lucas: Radiation Effects and Defects in Solids 144 (1998) 189.   \n[7] W.J.Phythian and C.A. English: J. Nucl. Mater.205(1993)162.   \n[8] K.Fukuya, K. Ohno, H. Nakata, S. Dumbill and J. M. Hyde: J. Nucl. Mater. 312 (2003) 163.   \n[9] R.G. Carter, N. Soneda, K. Dohi, J. M. Hyde, C.A. English and W.L. Server: J. Nucl. Mater. 298 (2001) 211.   \n[10] T. Yoshiie, Q. Xu and K. Sato: Nucl. Instrum. Meth.B 303 (2013) 37.   \n[11] Y. Nagai, Z. Tang, M. Hassegawa, T. Kanai and M. Saneyasu: Phys.Rev. B 63 (2001) 134110   \n[12] F. Hori, S. Tanaka, E. Kuramoto and A.Iwase: Nucl. Instrum. Meth.B 245 (2006) 180.   \n[13] G. S.Was, J.T. Busby,T. Allen, E.A. Kenik,A. Jenssen, S.M. Bruemmer, J. Gan, A. D. Edwards and P.M. Scott: J.Nucl.Mater.300(2002)198.   \n[14] J. Qiu, Y. Xin, X. Ju,L. P. Guo, B. Y. Wang, Y. R. Zhong, Q. Y. Huang and Y. C. Wu: Nucl. Instrum. Meth.B 267 (2009) 3162.   \n[15] R. S. Wang, X. B. Liu, A. Ren, J. Jiang, C.L. Xu, P. Huang, Y. C. Wu, C. H. Zhang and X.T.Wang: Nucl. Instrum. Meth.B 307(2013) 545.   \n[16] J. Qiu, X. Ju, Y. Xin, S.Liu and B. Y. Wang: J. Nucl. Mater. 41l (2011) 20.   \n[17] Y. Tateyama and T. Ohno: Phys. Rev.B 67(2003) 174105   \n[18] Z. Tang, M. Hasegawa, Y. Nagai and M. Saito: Phys. Rev. B 65 (2OO2) 195108.   \n[19] A.Barbu,M.H. Mathon, F. Maury, J.F.Belliard, B.Beuneu and C.H. de Novion: J. Nucl. Mater. 257 (1998) 206. ",
+        "page_idx": 7
+    }
+]

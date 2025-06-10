@@ -1,0 +1,653 @@
+[
+    {
+        "type": "text",
+        "text": "雾霾天气对高校学生旅游意向影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘奇勇",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(天津财经大学珠江学院，天津301811)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为深入研究雾霾天气对高校学生旅游出行意向的影响程度，采取问卷调查法对河南省不同地区的17所高校学生进行问卷调查，从旅游动机、出行前决策、旅游目的地体验、游客忠诚度四个维度选取具有代表性的问题，以描述性统计分析的方法进行探究。结果表明，雾霾天气对河南省高校学生的旅游动机、出行前决策、旅游目的地体验和游客忠诚度四个方面均有显著影响,并从政府、旅游企业、大学生自身等3个角度提出了解决方法：政府应大力推广清洁能源、给予旅游业重点扶持、改善各景区公共交通状况，旅游企业应建立常态化的空气质量检测与播报、增加景区内植被覆盖率、增加室内旅游休闲项目，大学生自身应合理安排出游时间、及时做好防护、多使用公共交通。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：旅游意向；问卷调查法；高校学生；雾霾天气文章编号： $1 0 0 0 - 6 0 6 0 { \\left( 2 0 2 0 \\right) } 0 4 - 1 1 2 7 - 0 9 { \\left( 1 1 2 7 \\sim 1 1 3 5 \\right) }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着我国经济发展水平的不断提高，越来越多的人选择以外出旅游方式放松心情、陶冶情操。但在粗放式的经济发展模式下，雾霾天气数量正逐年攀高，给广大居民出游带来诸多不便。随着雾霾天气的发生数量的上升，诸多学者对雾霾天气特征及其对人的行为影响日益关注。丁樑等通过问卷星以及微信对大学生体育锻炼的影响感知与行为倾向进行研究。代豪[2就雾霾天气下公众风险认知与应对行为方面展开研究，呼呼民众多关注雾霾信息和政府防范措施来有效减低心理恐慌，李静等3从旅游者感知的视角出发，设计旅游者雾霾风险感知量表，并借助SEM模型验证了雾霾感知、风险感知、满意度和忠诚度间的结构关系。程励等4基于旅游目的地选择理论以PLS-SEM模型实证研究城市居民在雾霾天气影响下的城市旅游地选择倾向。彭建等5借助问卷星和微信的问卷设计和传播平台研究了北京居民对雾霾影响的感知及其旅游需求和决策行为倾向。刁贝娣利用问卷调查结果及结构方程模型探讨雾霾对武汉市民游憩活动的内部影响机制和变化规律。唐承财等通过查阅文献、设计问卷、抽样调查，分析雾霾天气对北京入境旅游者的来京计划、来京途中、旅游行程等方面影响。国内诸多学者在大学生旅游心理和旅游行为、大学生旅游市场开发和营销、大学生专项旅游品以及大学生旅游市场所存在的问题等方面做出诸多研究[8-10],如李清霞[]分析了河南省大学生旅游市场需求。王芳等通过问卷调查和深入访谈法从居民感知和满意度的角度评估了新疆天山社区的移民效果。胡琳等[3]分析区域内霾天气的特征及相关气象要素的特征并研究霾天气过程的成因。这些学者的研究为雾霾天气特征及其对高校学生旅游意向的研究方法与指标体系构建提供了借鉴",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "笔者经过众多文献研究后发现，对于大学生旅游的研究中较少涉及到雾霾天气对于大学生旅游意向的影响，而大学生是信息接触广泛、旅游动机较强的一类群体，可作为年轻人群体旅游意向的典型代表。因此，本文以感知风险理论、旅游者行为理论为指导，着重探讨雾霾对大学生旅游消费意向的影响。本文参考以上学者的指标体系，运用问卷",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "调查的数据分析基础上，结合深度访谈法，重点探究雾霾天气对大学生旅游意向的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1问卷设计与检验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 问卷设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采取了问卷调查法进行分析研究。调查问卷分为三个部分内容。第一部分通过河南省大学生旅游动机、出行前决策、旅游体验以及游客满意度四个维度进行考察，本部分描述性语句对度量表题项进行说明，选项1-5依次表示“非常不同意”、“不同意”、“一般”、“同意”、“非常同意”。第二部分为单项选择题，针对旅游目的地的选择、对雾霾的认识，以及雾霾对自身旅游的影响等方面来进行调查。第三部分为受访者的个人信息，包括性别、学校、年级、生活费、家庭结构等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 调研过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此次问卷调查采取网络投放的形式进行，笔者通过在线问卷调查网站\"问卷星\"(http://www.so-jump.com)填制问卷，由各高校大学生前来填写问卷。问卷调查共涉及17所河南省高校，覆盖9个地区，调查地域分布均匀。调查所涉及河南省高校类型涵盖一本院校3所，二本院校6所，三本院校4所，专科院校4所，调查高校类型全面而典型",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e80077518043c7762153474e8a2ccd62c97a347c3febaa66dbeee0479bd7f61e.jpg",
+        "table_caption": [
+            "表1可靠性统计Tab.1 Reliability analyze",
+            "表3旋转成份矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cronbach'sAlpha</td><td colspan=\"2\">基于标准化项的Cronbach'sAlpha</td><td>项数</td></tr><tr><td>0.888</td><td colspan=\"2\">0.834</td><td>59</td></tr><tr><td>Tab.2</td><td colspan=\"2\">表2KMO和Bartlett的检验 KMOandBartlett'stest</td><td></td></tr><tr><td>取样足够度的Kaiser-Meyer-Olkin 度量</td><td colspan=\"2\"></td><td></td></tr><tr><td rowspan=\"3\">Bartlett的球形度检验</td><td></td><td colspan=\"2\">0.901 3983.300</td></tr><tr><td>近似卡方 df</td><td colspan=\"2\">1630</td></tr><tr><td>Sig.</td><td colspan=\"2\">0.000</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d5132e5ba2f7175da4ca9a422872fae19e230160efe900943964b5a506b799d.jpg",
+        "table_caption": [
+            "Tab.3Rotated compomemtent matrix "
+        ],
+        "table_footnote": [
+            "注：黑体为各成份提取因子"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">成份</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>您觉得目前为止国内大多景区对雾霾防护认识不足</td><td>0.790</td><td>-0.013</td><td>-0.011</td><td>0.115</td></tr><tr><td>您会很乐意向亲友推荐空气质量较好的景区</td><td>0.786</td><td>0.221</td><td>-0.005</td><td>0.020</td></tr><tr><td>您觉得雾霾常发的景区免费为游客提供防霾口罩是必要的</td><td>0.778</td><td>0.030</td><td>0.025</td><td>0.184</td></tr><tr><td>您觉得景区定时播报空气质量情况并提醒游客注意防护是必要的</td><td>0.744</td><td>0.153</td><td>-0.062</td><td>0.072</td></tr><tr><td>您会再次选择空气质量较好的景区旅游</td><td>0.668</td><td>0.265</td><td>0.147</td><td>0.091</td></tr><tr><td>因为雾霾原因您会减少去雾霾频发的地区</td><td>0.651</td><td>0.126</td><td>0.286</td><td>0.102</td></tr><tr><td>您会拒绝再次选择空气质量较差的景区旅游</td><td>0.546</td><td>0.069</td><td>0.408</td><td>0.077</td></tr><tr><td>您选择旅游线路时会着重考虑雾霾天气状况</td><td>0.118</td><td>0.707</td><td>0.231</td><td>0.301</td></tr><tr><td>雾霾天气非常影响您携亲友旅游</td><td>0.289</td><td>0.694</td><td>0.099</td><td>0.262</td></tr><tr><td>雾霾天气会成为您放弃旅游的一个主要因素</td><td>0.057</td><td>0.672</td><td>0.202</td><td>0.189</td></tr><tr><td>您会因为旅游而提前关注该地区的空气质量状况</td><td>0.280</td><td>0.670</td><td>0.167</td><td>0.193</td></tr><tr><td>您会因为雾霾天气而终止自己的旅游行程</td><td>0.225</td><td>0.520</td><td>0.474</td><td>-0.038</td></tr><tr><td>您愿意在空气质量较好的景区停留够长的时间</td><td>0.453</td><td>0.517</td><td>0.073</td><td>0.049</td></tr><tr><td>您在旅游景区内选择纪念品会受到雾霾天气的影响</td><td>0.114</td><td>0.202</td><td>0.690</td><td>0.058</td></tr><tr><td>您愿意在旅游期间为得到更好的防霾保护而支付一定的费用</td><td>0.246</td><td>0.049</td><td>0.644</td><td>0.135</td></tr><tr><td>您愿意在空气质量较好的景区进行更多的消费</td><td>0.344</td><td>0.280</td><td>0.578</td><td>0.110</td></tr><tr><td>您愿意为躲避雾霾而选择出国旅游</td><td>-0.082</td><td>0.357</td><td>0.529</td><td>0.122</td></tr><tr><td>您拒绝在空气质量较差的景区进行过多的消费</td><td>0.485</td><td>0.168</td><td>0.526</td><td>0.013</td></tr><tr><td>您愿意在空气质量较好的景区内住宿来提升旅游体验</td><td>0.401</td><td>0.107</td><td>0.508</td><td>0.153</td></tr><tr><td>您非常关注雾霾天气状况</td><td>0.077</td><td>0.232</td><td>0.169</td><td>0.628</td></tr><tr><td>您非常喜欢旅游</td><td>0.123</td><td>-0.186</td><td>-0.023</td><td>0.613</td></tr><tr><td>您很清楚雾霾对人体的危害</td><td>0.219</td><td>0.253</td><td>-0.039</td><td>0.606</td></tr><tr><td>您外出旅游得到了家人的支持</td><td>0.031</td><td>0.049</td><td>0.451</td><td>0.549</td></tr><tr><td>您认为山水风光旅游比城市旅游更适合自己</td><td>0.163</td><td>0.204</td><td>0.111</td><td>0.537</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3信度与效度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次调查问卷的信度分析如表1所示，Cron-bach'sAlpha系数为0.888，说明本次问卷调查在统计学上达到很高的可靠性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究效度分析如表2所示， $K M O$ 值为 $0 . 9 0 1 >$ 0.5，达到旅游调查问卷的效度要求。Bartletts's球形检验 $S i g \\ /$ (显著性）为 $0 . 0 0 0 < 0 . 0 5$ ,达到显著，球形假设被拒绝，适合作因子分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 因子分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采取了主成分分析法提取因子，是获取初始因子分析结果的常用方法。在考察因子的可解释性的时候，为得到最佳的解释方式，有必要进行因子旋转，采用最大方差法进行旋转，经过旋转后，各因子指标向更大或更小的两个方向变化，其",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表4公因子命名表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9976ff1452d6684ba5ab51776ddf0805439701980e8ddee61d02e4b576bbd21b.jpg",
+        "table_caption": [
+            "Tab.4Common factor analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公因子</td><td>变量因素</td></tr><tr><td>旅游动机</td><td>您非常关注雾霾天气状况</td></tr><tr><td rowspan=\"4\"></td><td>您非常喜欢旅游</td></tr><tr><td>您很清楚雾霾对人体的危害</td></tr><tr><td>您外出旅游得到了家人的支持</td></tr><tr><td>您认为山水风光旅游比城市旅游更适合自己 雾霾天气非常影响您携亲友旅游</td></tr><tr><td rowspan=\"4\">旅游决策</td><td>雾霾天气会成为您放弃旅游的一个主要因素</td></tr><tr><td>您会因为旅游而提前关注该地区的空气质量状况</td></tr><tr><td></td></tr><tr><td>您会因为雾霾天气而终止自己的旅游行程 您愿意在空气质量较好的景区停留够长的时间</td></tr><tr><td rowspan=\"6\"></td><td></td></tr><tr><td>旅游意向您在旅游景区内选择纪念品会受到雾霾天气的影响</td></tr><tr><td>您愿意在旅游期间为得到更好的防霾保护而支付一 定的费用</td></tr><tr><td>您愿意在空气质量较好的景区进行更多的消费</td></tr><tr><td>您愿意为躲避雾霾而选择出国旅游 您拒绝在空气质量较差的景区进行过多的消费</td></tr><tr><td>您愿意在空气质量较好的景区内住宿来提升</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"6\"></td><td>旅游体验</td></tr><tr><td>游客忠诚度您觉得目前为止国内大多景区对雾霾防护认识不足</td></tr><tr><td>您会很乐意向亲友推荐空气质量较好的景区</td></tr><tr><td>您觉得雾霾常发的景区免费为游客提供防霾 □罩是必要的</td></tr><tr><td>您觉得景区定时播报空气质量情况并提醒游客</td></tr><tr><td>注意防护是必要的</td></tr><tr><td colspan=\"2\">您会再次选择空气质量较好的景区旅游 因为雾霾原因您会减少去雾霾频发的地区 您会拒绝再次选择空气质量较差的景区旅游</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值和意义就比较清楚，表3为旋转后的矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由旋转成分矩阵根据表3旋转成份矩阵，分别找出24项问题因子负荷最大的公共因子,并结合专业知识对调查问卷的设计对四个公共因子进行命名，将各公因子的命名见表4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 回归分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以“您会再次选择空气质量较好的景区旅游”为因变量，以“您会很乐意向亲友推荐空气质量较好的景区”、“因为雾霾原因您会减少去雾霾频发的地区”、“当近距离有雾霾是，您愿意选择较远但空气质量较好的地区旅游”、“雾霾天气会成为您放弃旅游的一个主要因素”、“您愿意在空气质量较好的景区进行更多的消费”为5个自变量，开展多元回归分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS20.0软件开展多元回归分析。样本数据通过问卷调查获得，多重线性回归的变量参数选择\"进入法(enter)”，表5为回归结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上表给出了模型汇总的基本情况。由表5可知，模型的 $R$ 值为 $0 . 7 1 7 , R ^ { 2 }$ 值为0.514,调整的 $R ^ { 2 }$ 值为0.505，模型的自由度为 $5 , S i g .$ 为0.000。这说明多元回归模型的拟合情况基本符合要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表6给出了Anova方差分析分析结果。由表6可知，模型的平方和为103.842,残差为 $9 8 . 0 0 4 , F$ 值为53.826,其置信度检验值 $S i g . = 0 . 0 0 0 < 0 . 0 5$ 。这说明模型是十分显著的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，多元回归方程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$Q 3 3 = 0 . 5 7 5 + 0 . 5 6 7 \\times Q 3 5 + 0 . 1 4 3 \\times Q 3 6 + 0 . 0 3 6 \\times Q 5$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 0 1 9 { \\times } Q 1 1 + 0 . 0 9 8 { \\times } Q 2 4\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上面方程式我们可以进行如下的推导：在四个维度中，笔者主要选取游客忠诚度维度中的问卷问题作为因变量，由从其他的三个维度中选择问卷问题作为自变量，笔者将信息进行进一步汇总如下表所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表8可以看出，在对于大学生如何在雾霾天气下选择景区这的各个影响因素中，“Q35推荐景区”和“Q36减少次数\"有着较为明显的影响，这说明，雾霾天气下大学生选择景区、亦或是对旅游目的地的游客忠诚度影响最强烈的还是本维度中。在大学生去过某个景区之后，在受过雾霾天气的影响之后，必然会大幅减少再次选择，或者向别人推",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表5回归统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0e349d1737be4cd4a48b51bbb5bc9670e11df45c792a49cf19d86ffb5418e8b.jpg",
+        "table_caption": [
+            "Tab.5Regression statistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td rowspan=\"2\">R</td><td rowspan=\"2\">R</td><td rowspan=\"2\">调整R</td><td rowspan=\"2\">标准估计的 误差</td><td colspan=\"5\">更改统计量</td></tr><tr><td>R更改</td><td>F更改</td><td>df1</td><td>df2</td><td>Sig.F更改</td></tr><tr><td>1</td><td>0.717\"</td><td>0.514</td><td>0.505</td><td>0.621</td><td>0.514</td><td>53.826</td><td>5</td><td>254</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24233f623196376eec8af3d26871bfe95845591b40ff846fbe20b9d3aeff856c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>平方和</td><td>df</td><td>均方</td><td>F</td><td>Sig.</td></tr><tr><td>回归</td><td>103.842</td><td>5</td><td>20.768</td><td>53.826</td><td>0.000\"</td></tr><tr><td>残差</td><td>98.004</td><td>254</td><td>0.386</td><td></td><td></td></tr><tr><td>总计</td><td>201.846</td><td>259</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表7回归方程系数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d94ef340bbdf0ed923a38af21d6f4a8981c8eaaf50598fa9c8d3d476da972acc.jpg",
+        "table_caption": [
+            "表6 AnovaTab.6 Anova",
+            "表8各因素影响程度系数表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td colspan=\"2\">非标准化系数</td><td rowspan=\"2\">标准系数 试用版</td><td rowspan=\"2\">t</td><td rowspan=\"2\">Sig.</td></tr><tr><td>B</td><td>标准误差</td></tr><tr><td>Q35推荐景区</td><td>0.567</td><td>0.052</td><td>0.556</td><td>10.869</td><td>0.000</td></tr><tr><td>Q36减少次数</td><td>0.143</td><td>0.049</td><td>0.153</td><td>2.903</td><td>0.004</td></tr><tr><td>Q5雾霾刺激</td><td>0.036</td><td>0.035</td><td>0.050</td><td>1.036</td><td>0.031</td></tr><tr><td>Q11因霾放弃</td><td>0.019</td><td>0.035</td><td>0.027</td><td>0.535</td><td>0.043</td></tr><tr><td>Q24愿意消费</td><td>0.098</td><td>0.042</td><td>0.119</td><td>2.348</td><td>0.020</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9b96da7f4a319c38cfa734c4475c73d7f0171d5f31d383910e190e6346f9bfe.jpg",
+        "table_caption": [
+            "Tab.7 Coefficient of regression equation ",
+            "Tab.8Coefficientof influence degree of each factor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>描述</td><td>影响系数</td></tr><tr><td>Q35推荐景区</td><td>0.567</td></tr><tr><td>Q36减少次数</td><td>0.143</td></tr><tr><td>Q5雾霾刺激</td><td>0.036</td></tr><tr><td>Q11因霾放弃</td><td>0.019</td></tr><tr><td>Q24愿意消费</td><td>0.098</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "荐该景区，这是影响游客忠诚度最重要的因素。以下内容将从回归分析的4方面作特征描述统计分析，以全面揭示大学生旅游消费群体在雾霾天气影响下的特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4雾霾天气对意向影响分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文从河南省高校学生旅游动机、出行前决策、旅游目的地体验和游客忠诚度等4维度，选取具有代表性的问题通过描述性统计分析方法对各问题进行逐一分析，以期到更加准确分析结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1雾霾天气对旅游动机影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究雾霾天气对河南省大学生旅游出行意向的影响，应首先从河南省大学生的旅游动机方面着手。由图1所示，同意旅游的目的是为了消遣娱乐的大学生占到总人数的 $6 5 . 3 4 \\%$ （很同意 $3 1 . 6 7 \\% +$ 同意 $3 3 . 6 7 \\%$ )，不同意这个观点的大学生仅占 $1 1 . 9 5 \\%$ （很不同意 $5 . 3 8 \\% +$ 不同意 $6 . 5 7 \\%$ )，而有 $2 2 . 7 1 \\%$ 的大学生对此持中立态度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0a2f211365aee8f4209ee4bde68bfac49353d5f2a81ee2ba379e9de5c525fa0.jpg",
+        "img_caption": [
+            "图1以消遣娱乐为旅游目的意向统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出，当今大学生的旅游出行主要是为了消遣娱乐，为了排解在学校学习方面的、学生工作方面的压力，增长眼界开阔视野。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图2所示， $6 9 . 9 2 \\%$ （很同意 $3 4 . 6 6 \\% +$ 同意$3 5 . 2 6 \\%$ )的受访大学生同意自己旅游前往空气质量较好的区域是因为城市的雾霾天气较严重，有$9 . 3 2 \\%$ （很不同意 $2 . 5 9 \\% +$ 同意 $6 . 7 3 \\%$ )的受访大学生表示不同意该观点，还有达到 $2 0 . 7 6 \\%$ 的受访大学生表示这种情况持中立意向。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e786bf313b7fe5c1519fe57eac761fa6a5779a0269635130e4c1b75b1ec3aaa.jpg",
+        "img_caption": [
+            "Fig.1Intention statistics of entertainment as tourism purpose ",
+            "图2因居住地雾霾严重愿意前往空气质量好地区意向统计",
+            "Fig.2Statistics of intention to areas with good air quality due to severe haze "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析其中的原因不难看出，河南省大学生外出旅游的主要目的是为了消遣娱乐，因此在选择旅游目的地时，会格外关注会影响其旅游体验的因素，从高达 $6 9 . 9 2 \\%$ 的受访者同意该观点可以明确的得出本地区严重的雾霾天气是导致河南省大学生外出旅游的一个重要因素。而另外的 $3 0 . 0 8 \\%$ 的很不同意、不同意和持中立意向的受访大学生部分，笔者认为主要原因有以下三点：不同意或者不认为本地区雾霾天气严重到影响旅游体验;对于外出旅游有着很强的目的性，并不会因为雾霾天气而改变自己的安排;基本不外出旅游。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从总体来看，河南省大学生外出旅游的主要目的是为了消遣娱乐，而河南省大学生所在地区雾霾天气的发生，促使其选择空气质量较好的地方放松身心。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2雾霾天气对旅游出行前决策影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "笔者从问卷中选出2个典型问题分别为“您觉得雾霾天气对您的旅游出行造成很大的影响”“当近距离景区有雾霾天气时，您会选择较远但空气质量较好的景区”。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图3可以看出，认同雾霾对自己旅游出行有很大影响的大学生达 $6 9 . 3 2 \\%$ （很同意 $4 1 . 6 3 \\% +$ 同意$2 7 . 6 9 \\%$ ），仅有 $8 . 7 6 \\%$ （很不同意 $1 . 7 9 \\% +$ 不同意$6 . 9 7 \\%$ )的受访大学生不同意该观点，如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd55949e78f584aafc299949195d4874a4ec66f106365d6b6e5071f3b27c56b1.jpg",
+        "img_caption": [
+            "图3雾霾对旅游出行有影响意向统计",
+            "Fig.3Statistics of intention of impact of haze on travel "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3可以发现雾霾天气对大学生的旅游出行有很重要的影响。笔者认为，一方面，由于大学生作为接受新知识最快的群体，其本身非常了解雾霾天气对人体的危害，当遇到雾霾天气时，他们也会选择取消旅游，或者减少外出等方式来规避雾霾天气带来的危害。另一方面,从大学生本身的旅游体验上来说，雾霾天气的发生使其旅游体验大打折扣，外出旅游的大学生不得不因为雾霾天气而做出必要的防护措施，这是他们所不愿意看到也不愿意接受的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4可看出，同意“当近距离景区有雾霾天气时，您会选择较远但空气质量较好的景区\"观点的受访大学生占 $6 7 . 5 3 \\%$ （很同意 $3 5 . 4 6 \\% +$ 同意$3 2 . 0 7 \\%$ ),不同意该观点的大学生仅占 $8 . 3 6 \\%$ （很不同意 $1 . 7 9 \\% +$ 不同意 $6 . 5 7 \\%$ )，有 $2 4 . 1 1 \\%$ 的受访大学生对此持中立态度，如下图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3e45a9bf5761f38e007cd5c7db449f0ce5852c92cdecce4837307efcb85d75e.jpg",
+        "img_caption": [
+            "图4近距离有雾霾会选择较远空气好的景区意向统计 Fig.4Statistics of intention of scenic spots with good far air if there is haze in the short distance "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从调查中得出的 $6 7 . 5 3 \\%$ 的大学生会因为雾霾天气而增加旅游路途，这说明了在大学生中，雾霾天气对其旅游出行的影响程度是巨大的，增加旅游路程无疑会增加旅游花销和旅游所花费的时间，这一点表明，雾霾天气对大学生的影响程度，已经超过了大学生所要考虑的旅游花销和旅游消耗时间这两个因素。从这一点也可以看出当今雾霾天气的严重程度，其对于河南省大学生旅游出行的影响是巨大的，而这一点假若得不到很有效的改变，其对一个地区的旅游经济发展无疑是不利的，影响是深远的。雾霾天气对于河南省大学生外出旅游的影响程度，已经超过旅游所消耗的时间和金钱的地位。河南省大学生旅游出行前决策是对于外出旅游所获得体验的一个预判，在出行前决策时所考虑的主要是会对旅游体验造成影响的各个因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3雾霾天气对旅游体验影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在雾霾天气对旅游体验的影响方面进行调查研究，也可以了解到河南省大学生在对于旅游动机以及出行前决策因素的思考，另外，旅游体验的好与坏直接决定了河南省大学生对于其所到达景区的忠诚度，因此，笔者选择更具代表性的问题“外出旅游时出现雾霾天气会使心情烦躁”、“您愿意在空气质量较好的景区停留更多的时间\"进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，在受访河南省大学生中有 $8 0 . 2 8 \\%$ （很同意 $5 4 . 5 8 \\% + 2 5 . 7 0 \\%$ )的大学生表示在外出旅游期间雾霾天气会使其心情烦躁，态度中立和不同意该观点的大学生仅占 $1 9 . 7 2 \\%$ （一般 $1 3 . 9 5 \\% +$ 很不同意 $1 . 9 9 \\% +$ 不同意 $3 . 7 8 \\%$ )。这充分的说明在河南省大学生外出旅游期间，雾霾天气对其旅游体验的影响是巨大的，雾霾天气将会严重降低河南省大学生的旅游体验。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aef88fcea136c15ae7164125b3d79786432fa6386fd593643219a5b8c6b9aef6.jpg",
+        "img_caption": [
+            "图5旅游时出现雾霾心情烦躁统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，受访河南省大学生中有高达$8 4 . 8 6 \\%$ （很同意 $5 3 . 5 9 \\% + 3 1 . 2 7 \\%$ 的大学生表示愿意在空气质量较好的景区停留更多的时间，而仅有$2 . 9 9 \\%$ （很不同意 $0 . 6 0 \\% +$ 不同意 $2 . 3 9 \\%$ )的受访河南省大学生表示不同意该观点。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b770f43330fa9ee4610f7e83a2f5bcb3801845d6d964b7be9fb7ea89d592063d.jpg",
+        "img_caption": [
+            "Fig.5Statistics of restlessness at haze during tourism ",
+            "图6愿意在空气好的景区停留更长时间的意向统计 Fig.6 Statistics of willingness to stay longer in scenic spots with healthy air "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图6可见旅游景区的空气质量对于河南省大学生的旅游体验影响是巨大的，雾霾天气带来的景区空气质量的恶化，将直接决定河南省大学生旅游体验，进而影响到旅游时间的长短。由调查结果可知，雾霾天气对于河南省大学生的旅游体验影响是巨大而明显的，一方面会造成学生心情急躁等状况，另外一方面，雾霾天气状况的好坏将会影响学生在旅游目的地停留时间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4雾霾天气对游客忠诚度影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "笔者从问卷中选择出2个具有较强代表性的问题“您会再次选择曾经去过的空气质量较好的景区旅游”、“当同学准备外出旅游时您会重点推荐空气质量较好的地区\"整理统计分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，在受访河南省大学生中有 $6 7 . 9 3 \\%$ （很同意 $4 1 . 2 4 \\% +$ 同意 $2 6 . 6 9 \\%$ )的大学生表示愿意再次前往空气质量较好的景区，仅有 $7 . 9 6 \\%$ （很不同意 $1 . 5 9 \\% +$ 不同意 $6 . 3 7 \\%$ )的受访大学生表示不同意该观点。雾霾天气又是影响河南省大学生旅游的的重要因素。当河南省大学生去过的某些空气质量较好的景区，进而得到了很好的旅游体验时，大学生对该景区的旅游忠诚度就会进一步的攀升。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/baa60e1efb52b69675fec0bfd573dc812d16c1290d6974a6aff2987e0fa1e642.jpg",
+        "img_caption": [
+            "图7愿意再次前往空气质量较好的景区意向统计 Fig.7Statistics of willing to go to the scenic spot with better air quality again "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于当同学外出旅游时会重点推荐空气质量较好的地区这个问题的回答，呈现出很强的一致性，有 $8 0 . 0 0 \\%$ （很同意 $5 0 . 9 1 \\% + 2 9 . 0 9 \\%$ 的受访河南省大学生表示赞同该观点，仅有 $3 . 8 8 \\%$ （很不同意$1 . 0 6 \\% +$ 不同意 $2 . 8 2 \\%$ )的受访大学生不同意该观点，如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这表明在河南省大学生群体中，对于空气质量的好坏决定旅游体验的高低有着明确的认识。在对待同学等身边人推荐景区时，推荐者会重新思考一下其所旅游过的地区，对该地区雾霾天气状况会进行一个回溯思考，这一方面会加深其本身对于雾霾天气影响旅游体验的程度，在另一方面也在影响着被推荐大学生的整体认知。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfb55c3215267ef79627dbe8e15be9c2d172fda60d54987d458fab8788669357.jpg",
+        "img_caption": [
+            "图8会重点向同学推荐空气质量较好地区意向统计 Fig.8Statistics of focus on recommending the intention of areas with better air quality to students "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在雾霾天气对于河南省大学生游客忠诚度的数据分析可以得出，雾霾天气却是对于河南省大学生游客忠诚度有着显著形象，具体可以体现在其是否会再次将其作为旅游目的地和是否将其推荐给身边同学两方面。如何提升大学生游客乃至全部游客的忠诚度，这也是当地政府和各个景区所需要重点关注的问题，假如景区在长此以往不重视景区空气质量的保护，必然会造成景区游客忠诚度持续走低的现象，影响整个景区的营收，也对本地区的旅游发展产生不利影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5各维度影响程度分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了更加准确的反映出雾霾天气对河南省大学生，在各个维度方面的具体影响程度，笔者从问卷各个维度中挑选出能够量化的题项，将各个题项中有强烈影响程度的人数和总人数的比值作为影响程度，从而将数值来做对比。经过对各个维度问卷信息的整理分析，笔者得出雾霾天气对于四个维度分别的影响程度系数为：对旅游动机的影响程度为67.63，对出行前决策影响程度为68.43，对旅游体验影响程度为82.57，对游客忠诚度的影响程度为74.20。因此，在这四个维度中，雾霾天气对各个维度影响程度由强至弱分别为：雾霾天气对旅游体验影响 $>$ 对游客忠诚度影响 $>$ 对出行前决策的影响$>$ 对旅游动机的影响。因此，在降低雾霾天气对旅游活动造成的影响程度时，优先要注意到在旅游体验环节的治理，在大学生游客有明显感知的环节入手，能更直接的提升大学生游客在整个游览过程的满意度，进而提升游客忠诚度，并改善雾霾天气对出行前决策和对旅游动机的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5对策建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在雾霾天气对大学生旅游出行意向影响研究，通过问卷调查、以及对问卷进行从大学生旅游动机、旅游决策、旅游意向、游客忠诚度等四个维度进行分析之后发现，雾霾天气对大学生旅游出行消费主要影响在于旅游目的选择、旅游目的地距离、旅游消费、旅游出行方式等多方面有着显著影响。为了给大学生创造一个更加合适的旅游消费环境，正确引导大学生在外旅游时能很好的规避雾霾天气，给予大学生更多实质性的帮助，笔者主要从政府、旅游企业、高校学生三个角度提出对策和建议。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1 政府角度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1.1大力推广清洁能源治理雾霾天气，首先政府应作为主导，要不断加大对雾霾天气的治理，调整经济结构，减少煤炭等高污染能源的使用量，以及对高污染行业征收空气污染税，强制性要求企业对企业技术进行改革，强化废弃排放的除尘、脱硫、脱硝的处理减少，尽最大能力减少粉尘等有害污染物的排放。减少对植被的破坏，大力推广清洁能源，用风能、太阳能、核能等新兴清洁能源取代原有高污染能源",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1.2给予旅游业重点扶持在各个产业发展中，应根据各个地区的实际状况，尽可能多的给予旅游行业扶持。推动当地旅游业的发展，必然会壮大第三产业，减少当地对于第二产业的依赖程度，要及时淘汰落后产业，从源头上减少污染物的排放，通过第三产业的发展倒逼高污染企业采取措施减少污染物的排放，推动了当地产业结构的升级和优化，将更多的劳动力从第二产业中释放出来，加入旅游业等第三产业，这对提升当地服务质量有着巨大的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1.3改善各景区公共交通状况景区大量私家车的进入，是增加景区雾霾发生几率的一个重要因素，保护景区的空气质量环境，增加当地旅游收入，当地政府必须有所作为。应着重改善各景区周边的交通状况，增加对拥堵路段的疏导，减少因为堵车而造成大量污染物的排放。景区周边开设更多公交线路，倡导大学生游客使用公共交通，减少景区私家车的进人量，较少景区汽车尾气的排放量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2 旅游企业角度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.1建立常态化的空气质量检测与播报景区应根据当地景区雾霾的放生频率制定切实可行的雾霾天气预警应急机制，在雾霾将要发生时，对游客进行提醒。并在雾霾发生时，对广大游客免费发放口罩等防护用品，减少雾霾天气对游客的身体危害。这也能进一步消除大学生等游客的烦躁心理，增加景区亲和力，更加大学生等游客在景区的逗留时间,进一步增加景区收入。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.2增加景区内植被覆盖率景区内的灰尘是对大学生等游客影响最为明显的空气污染。景区管理者应大力增加景区内植被的覆盖率，在施工地区建立起较高的防护屏障，并且对易干燥地面进行及时的喷水处理，减少因为大风等极端天气造成的景区内大范围扬尘，减少对大学生等游客的身体损害，保护大学生等游客的身体健康。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.3增加室内旅游休闲项目对于室外出现雾霾天气等极端空气污染等恶劣现象，影响到游客的正常旅游，旅游企业应当及时做出调整。各旅游休闲企业可积极拓展室内温泉、电影、健身、水疗等休闲旅游设施，吸引游客。在上文中问卷内容分析部分，我们可以了解到，大学生旅游这对有安装有空气净化设施的酒店，一致处于接纳状态，旅游企业可将此作为影响热点进行宣传;酒店可提供与外部连通的空气净化设施，为会展人员和顾客提供更加舒适惬意的休闲场所，并可将其作为营销手段进行口碑宣传。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3大学生自身角度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3.1合理安排出游时间在每一天中雾霾天气最严重的时段是早晨，因为人类活动的减少，空气流动性降低，经过一晚上的积攒，早晨雾霾状况就会最严重。在这个时间段上，大学生应减少外出的几率，延长在室内停留的时间，减少雾霾对于自身的危害。等到风将雾霾浓度降低之后，再进行外出旅游观光。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3.2及时做好防护大学生外出旅游时应携带必备的防护工具，如防护口罩等。在雾霾发生时，应及时佩戴防护口罩，减少污染物颗粒通过呼吸进入体内。多饮水，保持良好的心态是防护雾霾危害的有效方法。在雾霾发生时，还应尽可能快的会到室内，关闭门窗，减少在雾霾中的时间，降低雾霾对自身的危害。还需要平时加强锻炼，增强心肺，增强自身免疫力，这样才能更好的抵制雾霾天气的危害。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3.3使用公共交通大学生在外出旅游时应减少私家车的使用频率，增加使用公共交通，减少私家车进人旅游景区而造成的交通拥堵，并且进一步减少交通拥堵时大量的有害物质排放，减少景区周边的污染物，改善景区的空气质量。这一举措在另一方面，也能让大学生等游客更好的投入到景区旅游之中，而不用担心停车位等无关事宜，提升大学生等游客的整体旅游体验度。平时在去一些近距离的地方时，尽可能选择自行车代步或者乘坐公交车，少开一点车，为这个世界少污染一点空气，更好的保护环境。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在雾霾天气对大学生旅游出行意向影响研究，通过问卷调查、以及对问卷进行大学生旅游目的、出行前决策、旅游目的地体验、游客忠诚度等四个维度分析研究发现，雾霾天气对河南省大学生旅游出行消费主要影响在于对旅游目的地体验，旅游目的选择、旅游目的地距离、旅游消费等多方面有着显著影响，大学生对有较好空气质量的景区具有偏好性，在雾霾天气时他们更愿意选择室内休闲旅游项目。由于笔者时间与能力所限，在细致化研究方面仍有所不足，调查对象群体范围仍然有限，需在今后的研究中进行更为深人和代表性区域群体的研究。在后续研究中，可参照官景得等[4运用综合舒适指数模型的方法，计算出因雾霾影响的旅游气候适宜期天数，并对其变化趋势分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］丁樑，窦彦丽.雾霾天气下大学生体育锻炼影响感知与行为研究[J].体育科技文献通报，2018，26(12)：148-150.DINGLi-ang,DOU Yanli.Research on the influence of physical exerciseon college students’perception and behavior in haze[J].Bulle-tin of Sport Science & Technology,2018,26(12):148-150.]  \n[2]代豪.雾霾天气下公众风险认知与应对行为研究[D].上海：华东师范大学,2014.[DAIHao.Research on of public risk percep-tion and coping behavior in haze weather[D].Shanghai：EastChina Normal University,2014.]  \n[3］李静,PEARCEPhilipL,吴必虎,等.雾霾对来京旅游者风险感知及旅游体验的影响一一基于结构方程模型的中外旅游者对比研究[J].旅游学刊,2015,30（10)：48－59.[LIJing,PEARCE Philip L,WU Bihu,et al.The impact of smog on riskperception and satisfaction of international and domestic touristsin Beijing[J].Tourism Tribune,2015,30(10):48-59.]  \n[4]程励，张同颢,付阳.城市居民雾霾天气认知及其对城市旅游目的地选择倾向的影响[J].旅游学刊，2015，30(10)：37-47.[CHEN Li,ZHANG Tonghao,FU Yang.Urban residents'cogni-tion of haze-fog weather and its impact on their urban tourismdestination choice[J].Tourism Tribune,2015,30(10):37-47.]  \n[5]彭建,张松,罗诗呷,等.北京居民对雾霾的感知及其旅游意愿和行为倾向研究[J].世界地理研究，2016,25(6)：128-137.[PENG Jian,ZHANG Song,LUO Shiga,et al. Smog's impactson tourism willingness and decision-making behavior of Beijingresidents[J].World Regional Studies,2016,25(6):128-137.]  \n[6］刁贝娣.雾霾污染及其对城镇居民游憩活动的影响——以武汉市为例[D].武汉：中国地质大学,2017.[DIAO Beidi.Fog hazeand its impact on urban residents'recreational activities：A casestudy of Wuhan[D].Wuhan:China University of Geosciences,2017.]  \n[7］唐承财,冯时,戴湘毅.雾霾天气对北京入境旅游者的影响分析[J].干旱区资源与环境，2017,31(8)：198-202.[TANGChengcai,FENG Shi,DAI Xiangyi.The impacts of haze weath-er on inbound tourists in Beijing［J]. Journal of Arid Land Re-sources and Environment,2017,31(8):198-202.]  \n[8］霍力,杜文广.大学生旅游消费心理分析[J].商业研究,1997,(3):23- 25.[HUO Li,DU Wenguang. Analysis on college stu-dent consumer's psychology of tourism[J].Commercial Re-search,1997，(3):23-25.]  \n[9]杜继淑,郑惠.“90后\"大学生旅游动机与旅游意向分析[J].贵州师范大学学报(社会科学版），2010，（6)：137-141.[DUJi-shu,ZHENG Hui.Tourism motive and consumption behavior ofpost-90s college students[J]. Journal of Guizhou Normal Uni-versity（Social Science),2010,(6):137-141.]  \n[10］孙雄燕.中日大学生旅游意识调查与分析[J].曲靖师范学院学报,2017,36(2）:66- 69.[SUN Xiongyan.A status surveyand analysis on tourism consciousness of college students in Chi-na and Japan[J]. Journal of Qujing Normal University,2017,36(2):66-69.]  \n[11］李清霞.论河南省大学生旅游市场的开发与对策[J].中州大学学报,2002,3:63-64.[LI Qingxia.The development and ad-vice of college students’tourism market in Henan Province[J].Journal of Zhongzhou University,2002,3:63-64.]  \n[12］王芳，栾福明,杨兆萍，等.新疆天山遗产地居民对生态移民的感知及满意度研究[J].干旱区地理，2019,42(3)：653-663.[WANG Fang,LUAN Fuming,YANG Zhaoping,et al.Resi-dents’ perception and satisfaction on ecological migration inXinjiang Tianshan heritage site[J].Arid Land Geography,2019,42(3):653-663.]  \n[13］胡琳，张侠，苏静，等.陕西省霾天气变化特征及气候成因分析[J].干旱区地理,2019,42(4):707-714.[HULin,ZHANGXia,SU Jing,et al.Variation characteristics of haze weather andits climatic causes in Shaanxi Province［J].Arid Land Geogra-phy,2019,42(4):707-714.]  \n[14]官景得,王咏青，孙银川,等.近39a宁夏旅游气候适宜期及变化分析[J].干旱区地理，2020，43(2)：339－348.[GUANJingde,WANG Yongqing,SUN Yinchuan,et al. Suitable periodand change of tourism climate in Ningxia in the past 39 years[J].Arid Land Geography,2020,43(2):339-348.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effect of haze weather on tourism intention of undergraduates ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Qi-yong (Pearl RiverCollege,Tianjin University ofFinance and Economics,Tianjin 301811,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper investigated the efect of hazy weather on the tourism intentions of undergraduates from 17 universities in the Henan Province,China.Data werecolected with questionnaires that explored decision-making,tourist motive,tourist experience,and tourist loyalty index.The results showed that hazy weather exerts a significant influence on the four variables for undergraduates in the Henan Province.The paper made recommendations that fall under three broad aspects:the government,tourism enterprises,and collge students themselves. The government should vigorously promote clean energy,prioritize support for the tourism industry,and improve public transportation toand in each scenic spot.Tourism enterprises should installairquality detection sensors,increase the vegetation coverage in scenic spots,and increase indoor tourism and leisure projects.Meanwhile,college students should use public transportation and pick travel times after checking weather updates. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:tourism intention；questionnaire;undergraduate;haze ",
+        "page_idx": 8
+    }
+]

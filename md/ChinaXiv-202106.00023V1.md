@@ -1,0 +1,175 @@
+# 广西三种真红树植物可培养细菌多样性及其生物活性初筛
+
+黎芳婷，李蜜，徐淑芬，王慧敏，刘永宏，高程海（广西中医药大学海洋药物研究院/药学院，南宁530200)
+
+摘要：为了挖掘真红树植物潜在细菌新物种和生物活性物质，丰富红树林微生物多样性，为新型活性产物开发提供菌株资源。该文从秋茄、木榄和红海榄三种广西来源的真红树植物及其生境，按根、茎、叶、花、果实和泥土分成22份样品。选用8种不同培养基分离可培养细菌，通过16SrRNA基因序列鉴定，分析其多样性。采用纸片法筛选细菌发酵粗提物的抑菌活性，点植法测试其酶活性。结果表明：（1）共分离获得可培养细菌35株，隶属于23个科28个属，芽孢杆菌属占细菌总数的 $1 4 . 3 \%$ ，为优势菌属，同时发现11株潜在的新细菌资源。（2）活性筛选获得4株细菌具有抑菌活性，16株细菌具有酶活性，芽孢杆菌属是酶活性优势菌属。综上所述，广西真红树植物可培养细菌多样性丰富，部分细菌具有抑菌活性和酶活性，在新型抗生素和酶应用方面具有一定的开发潜力。
+
+关键词：真红树植物，细菌，物种多样性，抑菌活性，酶活性中图分类号：Q939.1;R946 文献标识码：A
+
+# Study on diversity and biological activity of culturable bacteria in three true mangrove plants in Guangxi
+
+LI Fangting,LI Mi, XU Shufen, WANG Huimin, LIU Yonghong, GAO Chenghai (Institutes of Marine Drugs/Guangxi Key Laboratory of Efficacy Study on Chinese Materia Medica/Faculty of Pharmacy,Guangxi University of Chinese Medicine,Nanning 53o2O0,China)
+
+Abstract: This study aims to explore potential new bacterial species and bioactive substances in mangrove plants,which can enrich the diversity of mangrove microorganisms and provide strain resources for the development of new active products.22 samples were collected from three true mangrove plants of Kandelia candel, Bruguiera gymnorrhiza, Rhizophora stylosa, and their habitats,in Guangxi coastal area.Then 22 samples were divided according to diferent parts such as roots,stems,leaves,flowers,fruits and muds.Eight different culture mediums were used to isolate culturable bacteria,and 16S rRNA gene sequences were used to identify bacteria and analyze diversity.For cultured bacteria,the antibacterial and enzyme activities of fermented crude extracts were screened with Kirby-Bauer method and spot planting method,respectively. The results were as follows:(1)Based on sequencing results of 16S rRNA gene,a total of 35 culturable bacteria were isolated, belonging to 28 genera and 23 families. Bacillus accounted for $1 4 . 3 \%$ of the total bacteria, which was the dominant bacteria. Meanwhile,11 potential new bacterial species were found.（2） Four strains of bacteria showed antibacterial activities,16 strains had enzyme activities,and Bacillus was the dominant strain in enzyme activities.The above results showed that Guangxi true mangrove plants were rich in bacterial diversity,and some bacteria showed antibacterial activities and enzyme activities.The new bacterial species and active strain had certain development potential in the new antibiotics and enzymes application.
+
+Key words: true mangrove plants, bacteria， species diversity， antibacterial activity, enzyme activity
+
+红树林生境同时兼备海陆特质，具有高湿度、高盐、缺氧、强辐射及潮汐等环境特征。为了获得生存必需的营养，红树林生境中的微生物被迫与红树植物共生，导致微生物易产生遗传变异从而物种多样性丰富，代谢产物活性独特。真红树植物作为红树林生境中的优势种（姜舒等，2020），是挖掘新菌种和活性菌株的理想载体。广西红树林资源丰富，其面积全国红树林面积的三分之一，其中真红树植物有12种（廖宝文等，2014），是巨大的微生物资源宝库。长期以来关于广西海域微生物活性物质的研究主要集中在红树林生境的放线菌，关于红树植物内生细菌的报道相对较少。姜明国课题组（吴家法等，2017；石松标等，2018;王聪等，2019）和黄大林课题组（黄大林，2013；陈建宏等，2018；郑红芸等，2019）主要致力于对广西红树林生境中放线菌多样性及其生物活性研究。Jiang et al.（2018）从广西北仑河口多种真红树植物中分离到101株内生放线菌中，一株被鉴定为新种，35 株具有显著的抑菌活性。近年来研究发现，红树植物及其根际淤泥中可培养细菌也可产生抑菌、抗肿瘤（Gongetal.,2018）和延缓衰老等生物活性的代谢产物。李菲等（2016）从茅尾海无瓣海桑中分离得到 38 株内生细菌，其中5株为潜在新物种，5株具有较强的细胞毒活性。李家怡等（2017）从广西山口分离得到17株红海榄内生细菌，发现3株潜在新菌，2株对副溶血弧菌具有较强抑菌活性。李蜜等（2020）从徐闻分离到33株真红树植物内生细菌，其中10株为潜在新种或新属，2株有显著杀线虫活性。李蜜等（2020）从海南西海岸的14份真红树样品中分离到内生细菌38株，3株对秀丽隐杆线虫有显著延缓衰老活性。由此可见，真红树植物可培养细菌物种多样性丰富，代谢产物活性独特，值得我们深入挖掘。研究广西沿海真红树可培养细菌多样性，挖掘新型活性菌株，对完善该海域微生物多样性及新型活性化合物开发具有重要意义。
+
+由于抗生素的滥用，导致多种超级细菌产生，出现越来越多的难治性感染。细菌耐药性已经成为一场国际性的公共卫生危机，是亟需解决的全球性问题（刘丹华等，2019），研发新型抗耐药菌抗生素迫在眉睫。细菌是产生抗生素及生物活性物质重要微生物资源。蛋白酶、纤维素酶和淀粉酶是高效的生物活性酶，影响生物体的生理活动，在食品、医药和化工等生物技术方面有巨大的应用价值（马军等，2016）。红树植物共生细菌多样性丰富，能产生多种酶活性类物质和抗生素类化合物（Ntabo etal.,2018），是潜在酶活性物质及新型抗生素的重要来源。因此，本实验设计合适的分离培养基，以期从广西三种真红树植物及其根际淤泥中分离获得更多未培养细菌，并分析其可培养细菌多样性。通过筛选可培养细菌的抑菌和酶活性，为新型抗生素和酶活性物质提供菌株资源，并为后续广西真红树植物资源开发利用提供科学依据。
+
+# 1材料与方法
+
+# 1.1 材料
+
+# 1.1.1 样品采集
+
+为了探究不同地点及植物部位对真红树植物可培养细菌的影响，课题组于 2019 年 12月21日在广西沿海区域采集三种真红树植物的根、茎、叶、花、果实和泥土部位，按照不同地点分成22份样品。具体信息见表1，根部位样品4份，茎部分6份，叶部分6份，花部分1份，果实2份，泥土3份。经北仑河口红树林自然保护区吴志鹤鉴定，3种真红树分别为秋茄（Kandelia cande）、木榄（Bruguiera gymnorrhiza）和红海榄（Rhizophora stylosa）。
+
+表1样品采样信息  
+Table1 Information of collected samples   
+
+<html><body><table><tr><td>样品编号 Sample code</td><td>植物类型 Plant types</td><td>样品部位 Sample parts</td><td>经纬度 Longitude and latitude</td></tr><tr><td>F1</td><td>秋茄1 Kandelia cande</td><td>根、叶、茎、泥土 Root,leaf, stem, soil</td><td>10842'06 E、2139'04 N</td></tr><tr><td>F2</td><td>秋茄2 Kandelia cande</td><td>根、叶、茎、泥土</td><td>10831'25 E、21°53'15 N</td></tr><tr><td>F3</td><td>木榄1</td><td>Root, leaf,stem, soil 果、叶、茎</td><td>10813'47E、21°36'57 N</td></tr><tr><td>F4</td><td>Bruguiera gymnorrhiza 木榄2</td><td>Fruit,leaf, stem 花、叶、茎</td><td>10813'47E、 2136'57 N</td></tr><tr><td>F5</td><td>Bruguiera gymnorrhiza 木榄3</td><td>Flower, leaf, stem 果、根、叶、茎、泥土</td><td>108°13'47E、21°36'57 N</td></tr><tr><td>F6</td><td>Bruguiera gymnorrhiza 红海榄</td><td>Fruit,root, leaf,stem, soil 叶、茎、根</td><td></td></tr></table></body></html>
+
+1.1.2 试剂
+
+16SrRNA基 因 扩 增引 物对27F(5'-AGAGTTTGATCCTGGCTCAG-3'）和492R( $5 ^ { \prime }$ GGTTACCTTGTTACGACTT-3）购于全式金生物技术有限公司（中国，北京）；Chelex-100 树脂， $2 \times$ Easy Taq SupermixBioRad 购于BioRad 公司（美国）； $5 \%$ 的次氯酸钠溶液购于朗索医用消毒剂有限公司（中国，杭州）；其他试剂均为国产分析纯。
+
+# 1.1.3培养基
+
+分离培养基：参考李蜜等(2020）方法，P3、P7、M5、M7、M9、M10、M11具体配方参考文献；发酵培养基：改良 ISP2 液体培养基；酶活性筛选培养基：参考赵雅慧等（2018）方法；纤维素酶筛选培养基：LB 培养基中加入 $1 \%$ 的羧甲基纤维素钠和 $1 . 5 \%$ 的琼脂；淀粉酶筛选培养基：LB 培养基中加入 $1 \%$ 淀粉和 $1 . 5 \%$ 琼脂；蛋白酶筛选培养基：脱脂奶粉 $1 \%$ ，葡萄糖 $1 \%$ ，琼脂 $1 . 5 \%$ 。
+
+# 1.1.4指示菌
+
+无乳链球菌（Reptococcus agalactiae）NCTC 8181、海豚链球菌（Streptococcus iniae）CAIM527、沙门氏菌（Salmonella）。以上指示菌均为华南农业大学张晓勇课题组提供。
+
+# 1.2实验方法
+
+# 1.2.1样品的处理
+
+参考李蜜等（2020）方法，真红树植物样品用 $5 \%$ 次氯酸钠溶液浸泡 $8 ~ \mathrm { m i n }$ ，无菌水冲洗干净， $7 5 \%$ 乙醇中浸泡 $5 \mathrm { m i n }$ ，无菌水冲洗至无乙醇味。取以上样品约 $\boldsymbol { 2 } \ : \mathrm { g }$ 于无菌研钵中，加入 $2 { \mathrm { m L } }$ 无菌海水研匀即得原液。参考李菲等（2018）方法，泥土样品除去杂质，取约 2.0$\mathrm { \bf ~ g }$ 于装有 $2 0 ~ \mathrm { m L }$ 无菌水(内有玻璃珠)的锥形瓶中，放入摇床摇匀，充分均质即得原液。所有样品原液置于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存。选取 M7、P7、M11、M10、M5、AGG、P3、M98 种分离培养基，取样品的 ${ { 1 0 } ^ { - 4 } }$ 悬液 $1 0 0 \mu \mathrm { L }$ 涂布（李蜜等，2020）。
+
+# 1.2.2可培养细菌的分离纯化、鉴定、保藏
+
+参考吴家法等（2017）方法，分离培养平板于 $2 8 \mathrm { ~ \ ^ { \circ } C }$ 恒温培养箱培养 $2 { \sim } 8$ 周。长出细菌后，挑取质地光滑的单菌落，三线法在ISP2纯化培养基分离纯化，直至获得纯净菌株，记录菌株数量及其形态特征。参考Chelex-100 法（周双清等，2010）提取已纯化细菌的基因组DNA，参照Walsh et al.（1991）的方法对细菌基因组DNA进行PCR 梯度扩增。 $1 \%$ 琼脂糖凝胶电泳检测阳性扩增产物委托上海美吉生物医药技术有限公司广州分公司进行测序。经DNA Star软件整理的16SrRNA 基因测序结果，用数据库EzBioCloud（http://www.eztaxon.org/）（2009）及Blast 网站进行相似性比对。纯化的菌株保藏于 $20 \%$ (V/V)甘油管中，置于-80℃超低温冰箱中保存。
+
+# 1.2.3细菌发酵粗提物的活性筛选
+
+# 1.2.3.1细菌发酵及粗提物提取
+
+参考李蜜等(2020)方法发酵可培养细菌，离心收集的发酵液用等体积的乙酸乙酯萃取。减压蒸干乙酸乙酯层，用甲醇溶解收集，挥干甲醇即得细菌发酵粗提物，置于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存备用。
+
+# 1.2.3.2细菌抑菌实验
+
+检定板的制备：参考许敏等（2016）方法，生长良好的指示菌接种于装有 $5 0 ~ \mathrm { m L }$ 已灭菌LB 液体培养基的三角瓶中， $1 8 0 \ \mathrm { r m i n ^ { - 1 } }$ 摇床培养 $^ { \mathrm { ~ 9 ~ h ~ } }$ 得到对数生长期的指示菌混悬液，取混悬液加入到灭菌后低于 $5 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的LB（A）培养基中，稀释成 $0 . 3 \%$ 的浓度。灭菌的LB固体培养基倾注到培养血中，凝固后，再倾注一层加有的培养基，待其凝固即得检定板。
+
+纸片扩散法进行抑菌活性检测：参考曾臻等（2019）的方法，细菌发酵粗提物用甲醇溶解配成 $2 0 \mathrm { { m g } { \cdot } \mathrm { { m L } ^ { - 1 } } }$ ，吸取 ${ 5 \mu \mathrm { L } }$ 至直径为 $6 \mathrm { m m }$ 的无菌滤纸片上（加入 ${ 5 \mu \mathrm { L } }$ 甲醇的滤纸片作阴性对照），挥干甲醇，贴于检定板表面，于 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养 $2 4 \mathrm { ~ h ~ }$ ，观察并记录抑菌圈的大小，实验重复3次，计算抑菌圈平均值。
+
+# 1.2.3.3细菌酶活性实验
+
+酶活性菌株的筛选：参考杨桂柳等（2015）方法，点植法将对数生长期的细菌接种于相应的酶活性平板培养基上， $2 8 \mathrm { ~ \textdegree C }$ 恒温培养 $4 { \sim } 6 \mathrm { d }$ ，观察细菌生长情况和菌落周围是否出现透明圈，实验重复3次。
+
+# 2结果与分析
+
+# 2.1三种真红树植物可培养细菌多样性分析
+
+经菌落形态排重和16S rRNA基因测序比对分析，共获得35株可培养细菌。35株菌株分布在23个科28个属,35株可培养细菌物种组成如表3所示。其中,芽胞杆菌属(Bacillus）占菌株总数 $1 4 . 3 \%$ ，属于优势菌属芽胞杆菌属，此结果与其他学者研究相同(韩敏敏等，2020)，这表明芽孢杆菌属占红树植物微生物统治地位。Kimetal.（2014）认为16S rRNA基因序列相似性小于 $9 8 . 6 5 \%$ 的菌株有 $80 \%$ 为潜在新物种。对三种真红树植物可培养细菌进行新颖性分析，发现35株细菌中有11株细菌的16SrRNA基因序列相似性低于 $9 8 . 6 5 \%$ ，分别为GXIMD 7462、GXIMD 7066、GXIMD 7477、GXIMD 7064、GXIMD 7063、GXIMD 7115、GXIMD 7761、GXIMD 7498、GXIMD7121、GXIMD 7463、GXIMD 7518，可能为潜在新物种，图1为潜在新菌与相似度最高对照菌的 N-J系统进化树。11个潜在新物种隶属于9科11属，其中GXIMD7477和GXIMD7761分别于与纤维单胞菌属的巴基斯坦纤维单胞菌(Cellulomonas pakistanensis)和 Marmoricola属的 Marmoricola korecus 相似度最高，可能为稀有放线菌。说明真红树植物可培养细菌多样性丰富，可为研究生物活性物质提供良好的菌株资源。
+
+表235株可培养细菌的物种组成  
+  
+
+<html><body><table><tr><td colspan="5">Table2Speciescompositionofpotentialnewbacteria</td></tr><tr><td>菌株编号</td><td>来源</td><td>培养基</td><td>相近种</td><td>相似度</td></tr><tr><td>Strain code</td><td>Origin</td><td>Culture medium</td><td>Similar species</td><td>Similarity (%)</td></tr><tr><td>GXIMD 7462</td><td>F2 根 F2 root</td><td>M10</td><td>Asticcacaulis solisilvae</td><td>96.88</td></tr><tr><td>GXIMD 7066</td><td>F1茎 F1 stem</td><td>P3</td><td>Aurantimonas coralicida</td><td>98.05</td></tr><tr><td>GXIMD 7477</td><td>F3 叶 F3 leaf</td><td>AGG</td><td>巴基斯坦纤维单胞菌</td><td>96.72</td></tr><tr><td rowspan="3">GXIMD 7064</td><td></td><td></td><td>Cellulomonas pakistanensis</td><td></td></tr><tr><td>F1茎 F1 stem</td><td>AGG、P3</td><td>柠檬色赤杆菌</td><td>98.58</td></tr><tr><td></td><td></td><td>Erythrobacter citreus</td><td></td></tr><tr><td>GXIMD 7063</td><td>F1茎 F1stem</td><td>P3</td><td>海水纪氏菌Jiella aquimaris</td><td>96.61</td></tr><tr><td>GXIMD 7115</td><td>F6 根 F6 root</td><td>P7</td><td>解脂科迪单胞菌</td><td>94.72</td></tr><tr><td></td><td></td><td></td><td>Kordiimonas lipolytica</td><td></td></tr><tr><td>GXIMD 7761</td><td>F2 叶 F2 leaf</td><td>P3</td><td>Marmoricola korecus</td><td>98.56</td></tr><tr><td>GXIMD 7498</td><td>F5 茎 F5 stem</td><td>M9</td><td>Massilia oculi</td><td>97.91</td></tr><tr><td>GXIMD 7121</td><td>F6 根 F6 root</td><td>M9、M10、M11</td><td>Rhizobium helanshanense</td><td>96.62</td></tr><tr><td>GXIMD 7463</td><td>F2 根 F2 root</td><td>P3</td><td>Shinella daejeonensis</td><td>96.33</td></tr><tr><td>GXIMD 7518</td><td>F4 叶 F4 leaf</td><td>M5</td><td>鞘氨醇单胞菌</td><td>96.66</td></tr><tr><td></td><td></td><td></td><td>Sphingomonas panni</td><td></td></tr><tr><td>GXIMD 7789</td><td>F4 花 F4 flower</td><td>M7</td><td>Achromobacter denitrificans</td><td>99.87</td></tr><tr><td>GXIMD 7762</td><td>F1叶 F1 leaf</td><td>M11</td><td>拉氏无色杆菌</td><td>99.87</td></tr><tr><td></td><td></td><td></td><td>Achromobacterruhlandii</td><td></td></tr><tr><td>GXIMD 7147</td><td>F1 泥土、F5 泥土</td><td>P3</td><td>喜盐噬冷菌</td><td>99.22</td></tr><tr><td></td><td>F1 soil, F5 soil</td><td></td><td>Algoriphagus halophilus</td><td></td></tr><tr><td>GXIMD 7146</td><td>F5 泥土 F5 soil</td><td>AGG</td><td>食环氧化物交替赤细菌</td><td>99.22</td></tr><tr><td></td><td></td><td></td><td>Altererythrobacter epoxidivorans</td><td></td></tr><tr><td>GXIMD 7838</td><td>F4 茎 F4 stem</td><td>M9</td><td>Bacillus qingshengii</td><td>99.34</td></tr><tr><td>GXIMD 7132</td><td>F5 泥土、F2 茎、</td><td>P7、M7、P3</td><td>暹罗芽胞杆菌</td><td>99.61</td></tr><tr><td></td><td>F6 根 F5 soil,</td><td></td><td>Bacillus siamensis</td><td></td></tr><tr><td rowspan="4">GXIMD 7017</td><td>F2 stem, F6 root</td><td></td><td></td><td></td></tr><tr><td>F1 泥土 F1 soil</td><td>M11</td><td>特基拉芽胞杆菌</td><td>99.87</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>F6茎 F6 stem</td><td>M10</td><td>Bacillus tequilensis</td><td></td></tr><tr><td>GXIMD 7743</td><td></td><td></td><td>枯草芽胞杆菌Bacillusvanillea</td><td>99.04</td></tr><tr><td>GXIMD 7027</td><td>F1 泥土 F1 soil</td><td>P3</td><td>越南芽胞杆菌</td><td>98.7</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">GXIMD 7117</td><td rowspan="2">F6 泥土 F6 soil</td><td colspan="3">Bacillus vietnamensis</td><td rowspan="2"></td></tr><tr><td>M10</td><td>大洋金色球菌</td><td>99.35</td></tr><tr><td>GXIMD 7792</td><td>F4花、F2泥土 F4</td><td>M10、AGG</td><td>Croceicoccus pelagius Fictibacillus halophilus</td><td></td><td>100</td></tr><tr><td rowspan="2">GXIMD 7143</td><td>flower,F2 soil</td><td></td><td></td><td></td><td></td></tr><tr><td>F1茎、F5 泥土F1</td><td>M5</td><td>Labrenzia sp.</td><td></td><td>100</td></tr><tr><td rowspan="2">GXIMD 7615</td><td>stem,F5 soil</td><td></td><td></td><td></td><td></td></tr><tr><td>F6根、F5泥土F6AGG、M11、M10</td><td></td><td>白色拉布伦茨氏菌</td><td></td><td>99.09</td></tr><tr><td>GXIMD 7120</td><td>root,F5 soil</td><td>M11</td><td></td><td>Labrenzia alba</td><td></td></tr><tr><td rowspan="2"></td><td>F6 根 F6 root</td><td></td><td></td><td>盐拉布伦茨氏菌</td><td>99.22</td></tr><tr><td></td><td>M9</td><td>Labrenzia salina</td><td></td><td></td></tr><tr><td rowspan="2">GXIMD 7123</td><td>F6 根 F6 root</td><td></td><td></td><td>沉积物苍黄球菌</td><td>98.71</td></tr><tr><td></td><td></td><td></td><td>Luteococcus sediminum</td><td></td></tr><tr><td>GXIMD 7130</td><td>F5 泥土 F5 soil</td><td>M7</td><td></td><td>微杆菌</td><td>99.34</td></tr><tr><td rowspan="3">GXIMD 7834</td><td></td><td>M9、P7</td><td></td><td>Microbacterium thalassium</td><td></td></tr><tr><td>F1叶F1 leaf</td><td></td><td>植物内微球菌</td><td></td><td>99.74</td></tr><tr><td></td><td></td><td></td><td>Micrococcus endophyticus</td><td></td></tr><tr><td>GXIMD 7442</td><td>F2 泥土 F2 soil</td><td></td><td>AGG</td><td>Mycobacterium conceptionense</td><td>98.97</td></tr><tr><td>GXIMD 7744</td><td>F6 茎 F6 stem</td><td>M11</td><td></td><td>Paenibacillusurinalis</td><td>99.59</td></tr><tr><td>GXIMD 7402</td><td>F5叶F5 leaf</td><td>M11</td><td></td><td>马氏副球菌Paracoccus marcusii</td><td>99.74</td></tr><tr><td>GXIMD 7499</td><td>F5 茎、叶F5</td><td>M5、M11</td><td></td><td>恶臭假单胞菌</td><td>99.61</td></tr><tr><td></td><td>stem, leaf</td><td></td><td></td><td>Pseudomonas putida</td><td></td></tr><tr><td rowspan="3">GXIMD 7747</td><td>F5果F5 fruit</td><td>M10</td><td></td><td>海雪嗜冷杆菌</td><td>99.87</td></tr><tr><td></td><td></td><td></td><td>Psychrobacternivimaris</td><td></td></tr><tr><td>F5 茎 F5 stem</td><td>M10</td><td></td><td></td><td>99.74</td></tr><tr><td rowspan="2">GXIMD 7516</td><td></td><td></td><td></td><td>食吡啶红球菌</td><td></td></tr><tr><td></td><td></td><td></td><td>Rhodococcus pyridinivorans</td><td></td></tr><tr><td>GXIMD 7116</td><td>F6 根 F6 root</td><td></td><td>M10</td><td>光滑链霉菌Streptomyces levis</td><td>99.09</td></tr></table></body></html>
+
+![](images/89091261c40b6a2de7f0cd3c48fb4e37217dd2398f42a8a00018e74bb1197b72.jpg)  
+图1潜在新菌的16SrRNA基因序列N-J系统发育树  
+Fig.1 N-J phylogenetic tree of 16S rRNA gene sequences of potential new bacteri:
+
+# 2.235株细菌在不同真红树植物、植物部位及培养基中的分布
+
+不同植物种类及不同植物生境影响其可培养细菌的丰富程度。如图2所示，从不同样品中分离得到细菌多样性依次是木榄 $3 >$ 红海榄 $>$ 秋茄 $2 >$ 秋茄 $1 >$ 木榄 $2 >$ 木榄1。3株木榄均采集于防城港，但分离到的菌株种类及数量不同，可能由于植物采集时的老嫩程度及所取的植物组织部位差异所致。两株秋茄分别采样于北海海域两个采样点，采集地点不一致，分离到的细菌种属数量和物种完全不同。秋茄1（F1）分离得到的8株细菌为喜盐噬冷菌（Algoriphagus halophilus）、Aurantimonas coralicida、特基拉芽胞杆菌（Bacillus tequilensis）、越南芽孢杆菌（Bacillus vietnamensis）、海水纪氏菌（Jiella aquimaris）、Labrenzia sp.、植物内微球菌（Micrococcus endophyticus），秋茄2（F2）分离获得的细菌为拉氏无色杆菌（Achromobacter ruhlandii）、Asticcacaulis solisilvae、暹罗芽孢杆菌（Bacillus siamensis）、枯草芽胞杆菌（Bacillusvanillea）、Fictibacillus halophilus、Marmoricola korecus、Mycobacterium conceptionense、Paenibacillus urinalis、Shinella daejeonensis，两株秋茄植物共有细菌属为芽孢杆菌属，其余均为各自的特有属。由此可见，真红树植物生长不同阶段及植物生境差异可显著影响其可培养细菌物种多样性。
+
+![](images/2a199f97d7b25b1d7ccdb578e302b84324e4ec66d2d94421552b4362b8065b2c.jpg)  
+图2不同植物分离得到的可培养细菌分布情况
+
+不同部位的细菌多样性不同。从6份植物组织茎中分离获得11株可培养细菌，隶属于9个属(图3)。4份植物组织根中分离得到的10株细菌隶属于9个属。3份泥土样品分离得到的10 株细菌隶属于7个属。6份植物组织叶子中分离得到的8株细菌隶属于8个属。1份植物组织花中分离得到的2株细菌隶属于2个属。2份果实中分离得到1株细菌。本研究从植物组织茎中分离得到的细菌数量及多样性均最多，从果实中分离得到的细菌最少。
+
+![](images/36787e78cb5930c4d0b33a08c0356e7c84a1c836dc1e53805c418415e5c82793.jpg)  
+Fig.2 Distribution of culturable bacteria isolated from different plants   
+图3不同部位分离得到的可培养细菌分布情况  
+Fig.3Distribution of culturable bacteria isolated from different parts
+
+不同培养基分离得到的细菌多样性依次是 $\mathbf { M } 1 0 > \mathbf { M } 1 1 = \mathbf { P } 3 > \mathbf { A } \mathbf { G } \mathbf { G } > \mathbf { M } 9 > \mathbf { P } 7 > \mathbf { M } 5 > \mathbf { M } 7$ (图4)。由此可见，M10（棉籽糖-L-组氨酸培养基）和M11（葡萄糖-酸水解酪素培养基）培养基分离获得的细菌数量和物种多样性均有较明显的优势，可能是L-组氨酸和酸水解酪素等物质能满足细菌生长的营养需求。此结果与其他学者的研究有所区别，李蜜等（2020）从海南西海岸红树林伴生植物分离到的放线菌中，M7培养基得到的放线菌数量最多，而M11培养基分离到的放线菌最少。可能由于放线菌和细菌生长所必要的营养成分不同，今后可选用M7、M10和M11培养基作为分离培养红树可培养细菌的主要参考培养基。
+
+![](images/d13019d7583b251cc129668a40e7132bc07c4d5306d65211c65406013757af82.jpg)  
+图4不同培养基分离得到的可培养细菌分布情况  
+Fig.4Distribution of endophytic bacteria isolated from different media
+
+# 2.3 三种真红树植物可培养细菌粗提物生物活性分析
+
+# 2.3.1可培养细菌的抑菌活性分析
+
+无乳链球菌和海豚链球菌是人畜共患的致病菌，可给水产养殖业造成巨大损失，感染人体可导致脑膜炎等疾病，病死率较高。由于抗生素的滥用，无乳链球菌对青霉素、磺胺二甲基嘧啶和链霉素等普遍耐药，这一问题亟需解决。用滤纸片扩散法对细菌发酵粗提物进行抑菌活性筛选，共筛选获得4株可培养细菌的发酵粗提物至少对一种指示菌有抑制活性，阳性率为 $1 1 . 4 \%$ 。如表4所示，菌株GXIMD7747、GXIMD 7027和GXIMD7518同时对无乳链球菌和海豚链球菌有抑制作用，GXIMD7498同时对沙门氏菌和海豚链球菌有抑制作用。活性菌株GXIMD7498与菌株Massiliaoculi最高相似度分别为 $9 7 . 9 1 \%$ ，来源于木榄3（F5）的茎；GXIMD 7518与菌株鞘氨醇单胞菌（Sphingomonas panni）最高相似度为 $9 8 . 3 1 \%$ ，来源于木榄2（F4）的叶子。这两株活性菌株可能为潜在新物种，说明新型菌株在挖掘新化合物领域具有重要的开发价值。
+
+表34株有抑菌活性细菌的抑菌检测结果  
+Table3Results ofbacteriostatic test of4active bacteria   
+
+<html><body><table><tr><td>指示菌</td><td>活性菌株</td><td>抑菌圈大小</td></tr><tr><td>Indicator bacteria</td><td>Active strain</td><td>Size of bacteriostatic circle (mm)</td></tr><tr><td>无乳链球菌</td><td>GXIMD7027</td><td>12.1±0.263</td></tr><tr><td>Streptococcus agalactiae</td><td>GXIMD 7747</td><td>12.2±0.289</td></tr><tr><td></td><td>GXIMD 7518</td><td>11.3±0.252</td></tr><tr><td>海豚链球菌</td><td>GXIMD7027</td><td>11.4±0.116</td></tr><tr><td>Streptococcusiniae</td><td>GXIMD7498</td><td>12.3±0.252</td></tr><tr><td></td><td>GXIMD7747</td><td>16.4±0.153</td></tr><tr><td></td><td>GXIMD 7518</td><td>17.4±0.115</td></tr><tr><td>沙门氏菌 Salmonella</td><td>GXIMD 7498</td><td>10.2±0.057 7</td></tr></table></body></html>
+
+# 2.3.2可培养细菌的酶活性分析
+
+蛋白酶、淀粉酶和纤维素酶是生物活性物质，与人类生活密切相关，在医药食品及化工业等领域具有巨大的市场潜力。通过选育酶活性的细菌，可大规模发酵制备蛋白酶、纤维素酶和淀粉酶活性物质。真红树植物可培养细菌酶活性结果如表5所示，共获得16株至少有一种酶活性的可培养细菌，阳性率为 $4 5 . 7 \%$ ，芽孢杆菌属对酶活性比较敏感。菌株暹罗芽胞杆菌（Bacillus siamensis）、枯草芽胞杆菌（B.vanillea）、特基拉芽胞杆菌（B.tequilensis）和微杆菌（Microbacterium thalassium）同时具有淀粉酶、蛋白酶和纤维素酶活性，占酶活性总菌株数的 $2 5 \%$ 。16 株酶活性菌株中，2株同时具有蛋白酶和淀粉酶活性，占酶活性菌株的 $1 2 . 5 \%$ (图5)。1株同时具有淀粉酶和纤维素酶活性，占酶活性菌株的 $6 . 2 5 \%$ ，其中有2种以上的酶活性的菌株有7株，占酶活性菌株的 $4 3 . 7 5 \%$ 。具有纤维素酶活性的菌株最多，有13株，占酶活性菌株的 $8 1 . 2 5 \%$ 。具有蛋白酶和淀粉酶活性的菌株均为7株，占酶活性菌株 $4 3 . 7 5 \%$ 。以上结果表明真红树植物可培养细菌具有显著的酶活性，以纤维素酶活性尤为突出。后续通过优化发酵条件，可以生产酶活性物质应用于医药、食品及化工领域。
+
+![](images/e157e879ba97fab57ed4477a608a140d87fc1ae8c4c6e3131644183a3a60976e.jpg)  
+图5酶活性结果分析维恩图  
+Fig. 5 Venn diagram of enzyme activity result analysis
+
+表4红树植物可培养细菌酶活性结果  
+Table 4 Results of enzyme activities of culturable bacteria in mangrove plants   
+
+<html><body><table><tr><td>菌株编号 Strain code</td><td>相似物种 Similar species</td><td>蛋白酶 Protease</td><td>淀粉酶 Amylase</td><td>纤维素酶 Cellulase</td></tr><tr><td>GXIMD 7063</td><td>海水纪氏菌Jiellaaquimaris</td><td></td><td>-</td><td>+</td></tr><tr><td>GXIMD 7516</td><td>食吡啶红球菌</td><td>-</td><td>+</td><td>+</td></tr><tr><td></td><td>Rhodococcus pyridinivorans</td><td></td><td></td><td></td></tr><tr><td>GXIMD 7499</td><td>恶臭假单胞菌Pseudomonasputida</td><td></td><td></td><td>+</td></tr><tr><td>GXIMD 7123</td><td>沉积物苍黄球菌Luteococcus sediminum</td><td>-</td><td>-</td><td>+</td></tr><tr><td>GXIMD 7743</td><td>枯草芽胞杆菌Bacillus vanillea</td><td>+</td><td>+</td><td>+</td></tr><tr><td>GXIMD 7132</td><td>暹罗芽胞杆菌Bacillus siamensis</td><td>+</td><td>+</td><td>+</td></tr><tr><td>GXIMD 7120</td><td>盐拉布伦茨氏菌Labrenziasalina</td><td>-</td><td>-</td><td>+</td></tr><tr><td>GXIMD 7518</td><td>鞘氨醇单胞菌</td><td></td><td></td><td>+</td></tr><tr><td></td><td>Sphingomonas hankookensis</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>GXIMD 7017</td><td>特基拉芽胞杆菌Bacillus tequilensis</td><td>+</td><td>+</td><td>+</td></tr><tr><td>GXIMD 7116</td><td>光滑链霉菌 Streptomyces levis</td><td></td><td></td><td>+</td></tr><tr><td>GXIMD 7121</td><td>Rhizobiumhelanshanense</td><td></td><td></td><td>+</td></tr><tr><td>GXIMD 7130</td><td>微杆菌Microbacterium thalassium</td><td>+</td><td>+</td><td>+</td></tr><tr><td>GXIMD 7442</td><td>Mycobacterium conceptionense</td><td></td><td></td><td>+</td></tr><tr><td>GXIMD 7027</td><td>越南芽胞杆菌Bacillus vietnamensis</td><td>+</td><td>+</td><td>，</td></tr><tr><td>GXIMD 7792</td><td>Fictibacillushalophilus</td><td>+</td><td>+</td><td></td></tr><tr><td>GXIMD7143</td><td>Labrenzia sp.</td><td>+</td><td></td><td>·</td></tr></table></body></html>
+
+注： $^ +$ 表示阳性；-表示阴性。Note: $^ +$ means positive;-means negative.
+
+# 3讨论与结论
+
+随着陆地资源的不断开发，普通环境下筛选具有独特活性的新菌种越来越困难。因此红树林特殊生境中的微生物资源逐渐引起研究者的关注。本研究利用8种不同营养成分的分离培养基对22份真红树植物组织及根际淤泥可培养细菌进行分离纯化，尽可能丰富未培养和难培养红树林微生物资源，共获得35株菌株分布在23个科28个属。两株秋茄分别采样于北海海域两个采样点，分离到的细菌种属数量和物种完全不同。原因是红树林特殊的环境迫使细菌与红树植物共生，地点不同，红树林生境会有所差别，因此不同地点的同一种红树植物可培养细菌具有地点特异性。本研究中从植物组织茎中分离得到的细菌数量及多样性均最多，从果实中分离得到的细菌最少，此结果与魏玉珍等（2010）、李家怡等（2017）及李蜜等（2020）研究结果有所差别，可能是由于样品采集地点和季节影响不同植物组织细菌的多样性（解修超，2007），也可能与选取的植物组织数量差异及样品处理方式有关。针对广西沿海同一种真红树植物组织对其可培养细菌的分布及生物学特征是否有特异性影响，还需进一步探索。就物种新颖性分析，分离获得11株细菌16SrRNA基因序列相似性低于 $9 8 . 6 5 \%$ 的潜在新菌种，分布于秋茄的根、茎，木榄的叶以及红海榄的根部位，分别在 M7、P7、M11、M10、M5、AGG、P3、M9 培养基上培养出来，其中有5株从寡营养的燕麦粉琼脂培养基P3上培养获得，说明红树林特殊生境中，共生较多寡营养细菌，P3培养基可以作为发现真红树植物潜在新菌的主要参考培养基。后续对潜在新菌进行多项分类鉴定，可为挖掘新的活性化合物提供菌源。
+
+菌株GXIMD7477、GXIMD7027和GXIMD7518发酵粗提物同时对无乳链球菌和海豚链球菌有抑制作用，GXIMD7518同时具有抑菌和酶活性，这说明细菌的代谢产物中可能同时存在具有多种活性化合物，也可能是一种化合物有多种活性，后续可以进一步探究。活性菌株GXIMD7498与菌株Massiliaoculi最高相似度分别为 $9 7 . 9 1 \%$ ，从木榄3（F5）的茎组织的 M9 培养基中分离得到，抑菌活性菌株GXIMD7518与菌株 Sphingomonas panni（鞘氨醇单胞菌）最高相似度为 $9 8 . 3 1 \%$ ，从木榄2（F4）的叶子组织的M5培养基中分离到，这两株活性菌株可能为潜在新物种。说明针对细菌生长所必需养分，通过设计多种不同成分的培养基分离纯化不同样品的可培养细菌，更容易分离得到未培养的潜在活性新菌种。前人研究发现,酶活性菌株GXIMD7132（Bacillus siamensis)能产生促进植物生长的吲哚乙酸（Suliasihet al.,2020），可用作消毒剂，对抗浮游细菌和生物膜驻留细菌（Awan et al.,2020）。由此可见，本研究分离得到的活性菌株有开发成药物和生物技术产品的潜力。广西真红树植物可培养细菌的物种多样性丰富，后续通过优化活性菌株发酵条件，运用化学分离方法，分离粗提物中类抗生素和酶活性物质，可为研究新型抗生素及开发水产养殖药物提供新的药效基础物质，在食品、医药以及化工业等方面有一定开发潜能。
+
+参考文献：   
+AWAN SA, KHAN I, RAZA MA, et al., 2020. Bacillus siamensis reduces cadmium accumulation and improves growth and antioxidant defense system in two wheat (Triticum aestivum L.) varieties[J]. Plants, 9(7): 1-14.   
+GONG B, CHEN S, LAN W, et al., 2018. Antibacterial and antitumor potential of actinomycetes isolated from mangrove soil in the maowei sea of the southern coast of China [J]. Iran. J. Pharm. Res., 17(4): 1339-1346.   
+HAN MM, LI M,GAO CHH, et al.， Study on bacterial diversity and biological activity of rhizosphere soil offour true mangrove plants on the west coast of Hainan[J]. J S A,51(2): 327-334.[韩敏敏，李蜜，高程海，等，2020.海南西海岸4种真红树植物根际土壤细菌 多样性及其生物活性研究[J]．南方农业学报，51(2)：327-334.]   
+HUANG DL, DAI ZHK, MO G, et al., 2013. Screening and antibacterial activity of actinomycetes from mangrove soil in Beibu Gulf of Guangxi [J]. Lishizhen Med and Mat Med Res, 24(4): 857-859.[黄大林，戴支凯，莫刚，等，2013．广西北部湾红树林土壤放线菌的筛选和抗 菌活性研究[J]．时珍国医国药，24(4)：857-859.]   
+JIANG SH,LI M,HOU SHSH，et al.，2020.Diversity of endophytic actinomycetes and preliminary screening of their anti-aging activity in mangrove on the west coast of Hainan[J]. Guihaia,40(3):327-334.[姜舒，李蜜，候师师，等，2020.海南西海岸真红树内生放线菌 多样性及其延缓衰老活性初筛[J]．广西植物,40(3)：327-334.]   
+JIANG YJ, JI YY,LI JQ, et al., 2020. A new compound from the marine-derived Streptomyces sp. SS13M [J]. J. Asian Nat. Prod. Res., 22(7): 701-706.   
+JIANG ZK, TUO L, HUANG DL, OSTERMAN IA, TYURIN AP,LIU SW, et al., 2018. Diversity, novelty，and antimicrobial activity of endophytic actinobacteria from mangrove plants in Beilun bstuary national nature reserve of Guangxi, China[J]. Front Microbiol, 9(4): 868-879.   
+KIM KH, ROH SW, CHANG HW, et al., 2009. Nitratireductor basaltis sp. nov., isolated from black beach sand[J]. Int J Syst Evol Microbiol, 59(1): 135-138.   
+KIM M, OH HS, PARK SC,et al.， 2014. Towards a taxonomic coherence between average nucleotide identity and 16S rRNA gene sequence similarity for species demarcation of prokaryotes[J]. Int J Syst Evol Microbiol, 64(2): 346-351.   
+LI F, GAI CHH, ZHU LB,et al., 2016. Diversity and cytotoxicity of endophytic bacteria from Sonneratia apetala in Maowei Sea [J].Microbiol Chin,56(4): 689-697.[李菲，高程海，竺利 波，等，2016.茅尾海无瓣海桑内生细菌多样性及其细胞毒活性[J]．微生物学报，56(4)： 689-697.]   
+LI F, GAO CHH, YU L et al., 2018. Study on diversity and antibacterial activity of endophytic and rhizospheric bacteria in Spiraea manshurica[J]. Guihaia,38(7): 924-933.[李菲，高程海, 余炼，等，2018．川蔓藻内生及根际细菌多样性与抗菌活性研究[J]．广西植物，38(7): 924-933.]   
+LI M, GAO CHH, JIANG SH, et al.，2020. Diversity and anti-aging activity of endophytic bacteria in mangrove on the west coast of Hainan[J]. Guihaia, 40(3): 311-319.[李蜜，高程海, 姜舒，等，2020.海南西海岸真红树内生细菌多样性及其延缓衰老活性研究[J].广西植 物，40(3): 311-319.]   
+LI M,HOU SS, YIN JL, et al., 2O20. Species diversity and nematicidal activity of endophytic bacteria in mangrove in Xuwen sea area of Beibu Gulf[J]. Guihaia, 40(3): 301-310.[李蜜，候 师师，银江林，等，2020.北部湾徐闻海域红树内生细菌物种多样性及其杀线虫活性研 究[J]．广西植物,40(3)：301-310.]   
+LIAO BW, ZAHNG QM, 2O14. Distribution, area and tree species composition of mangrove in China[J].Wetland Sci,12(4):436-440.[廖宝文，张乔民，2014．中国红树林的分布、面积 和树种组成[J]．湿地科学,12(4)：436-440.]   
+LIU DH, ZHANG XW, ZHANG C, 2019. Antibiotic abuse and superbugs[J]. W Not Ant, 40(1): 1-4.[刘丹华，张晓伟，张，2019.抗生素滥用与超级细菌[J]．国外医药抗生素分册， 40(1): 1-4.]   
+MA J,WANG YR,HOU P, et al.，2016. Identification of a cellulase-producing Bacillus from mangrove rhizosphere soil and analysis of its enzymatic properties[J]. Oceanol et Limnol Sin, 47(5):997-1004.[马军，王耀，侯萍，等，2016.一株源于红树林根际土壤产纤维素酶 芽孢杆菌的鉴定及其酶学性质分析[J].海洋与湖沼,47(5)：997-1004.]   
+NTABO RM, NYAMACHE AK, LWANDE W, et al., 2018. Enzymatic activity of endophytic bacterial isolates from selected mangrove plants in Kenya[J]. Microbiol Open,12(1): 354-363.   
+SHI SB, YANG LF, JIANG MG, et al., 2018. Comparison of actinomycetes isolation media in Maoweihai mangrove habitat in Beibu Gulf, Guangxi[J]. Microbiol Chin, 45(11),2331-2340. [石松标，杨立芳，姜明国，等，2018．广西北部湾茅尾海红树林生境放线菌分离培养基 的比较[J]．微生物学通报，45(11)：2331-2340.]   
+SINGH AK, SHARMA P, 2020. Disinfectant-like activity of lipopeptide biosurfactant produced by Bacillus tequilensis strain SDS21[J]. Colloids Surf B: Bioint,185: 1-9.   
+SULIASIH, S,WIDAWATI S, 2020. Isolation of Indole Acetic Acid (IAA） producing Bacillus siamensis from peat and optimization of the culture conditions for maximum IAA production [J]. IOP Conf Ser: Earth Environ Sci, 572(1): 1-11.   
+WALSH PS, METZGER DA, HIGUSHI R,1991. Chelex 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material[J]. Bio Techn,10(4): 506-513.   
+WANG C, WANG K, JIANG MG, et al., 2019. Isolation and screening of actinomycetes from Guangxi Beibu Gulf and identification of their active products[J]. Nat Prod Res Dev, 31(7): 1170-1176.[王聪，王坤，姜明国，等，2019.广西北部湾放线菌的分离筛选及活性产物 的鉴定[J]．天然产物研究与开发，31(7)：1170-1176.]   
+WANG X, WU WH, CHEN ZHH, et al., 2010. Research progress on structural characteristics and biological activities of marine microbial secondary metabolites [J]. Chin J Nat Med,8(4): 309-320.[王幸，吴文惠，陈志华，等，2010．海洋微生物次生代谢产物的结构特征和生 物活性的研究进展[J]．中国天然药物，8(4)：309-320.]   
+WEI YZH， ZHANG YQ，ZHAO LL，et al.，2010. Isolation， screning and preliminary identification of endophytic actinomycetes from mangrove forest in Shankou, Guangxi[J]. MicrobiologyChina,37(6):823-828.[魏玉珍，张玉琴，赵莉莉，等，2010.广西山口红树 林内生放线菌的分离、筛选及初步鉴定[J]．微生物学通报，37(6)：823-828.]   
+WU JF, WU ST, LI ZHM, et al., 2017. Diversity of culturable actinomycetes in mangrove soil of Maoweihai and its activity against Fusarium oxysporum[J]. Chin J Antibiot, 42(4): 294-301.[吴家法，吴思婷，李智鸣，等，2017．茅尾海红树林土壤可培养放线菌多样性 及其抗尖孢镰刀菌活性分析[J]．中国抗生素杂志，42(4)：294-301.]   
+XIE XC, 2017. Isolation and identification of endophytic actinomycetes from mangrove plants and isolation and identification of active metabolites from two marine Streptomyces strains[D]. Haikou:Hainan University.[解修超，2007．红树植物内生放线菌的分离鉴定和2 株海洋 链霉菌活性代谢产物的分离鉴定[D].海口：海南大学.]   
+YANG GL, YANG LF, JIANG MG et al., 2015. Isolation, identification andactivity of endophytic actinomycetes from mangrove forest in Beilun River [J]. Chin J Agric Biotechnol,23(7): 894-904.[杨桂柳，杨立芳，姜明国，等，2015．北仑河红树林内生放线菌分离、鉴定及 活性研究[J]．农业生物技术学报，23(7)：894-904.]   
+YANG JL, 2O15. Isolation, identification and activity screening of endophytic actinomycetes from Guangxi mangrove plants[D]. Nanning: Guangxi University for Nationalities.[杨桂柳，2015. 广西红树植物内生放线菌分离、鉴定及活性筛选[D]．南宁：广西民族大学.]   
+ZENG ZH， TANG QL，2019. Isolation and identification of marine microorganisms and evaluation of their antibacterial and antitumor activities[J]. World Latest Med Inf,19(24): 109-110.[曾臻，谭强来，2019.海洋源微生物的分离、鉴定及抗菌与抗肿瘤活性评价[J]. 世界最新医学信息文摘，19(24)：109-110.]   
+ZHAO YH, ZHANG SL，WU JF, et al., 2018. Diversity and activity screening of culturable bacteria in rhizosphere soil of mangrove in Shankou[J]. Acta Oceanol Sin, 40(8): 138-151.[赵 雅慧，张舒琳，吴家法，等，2018．山口红树林根际土壤可培养细菌多样性及其活性筛选 [J]．海洋学报,40(8): 138-151.]   
+ZHENG HY， WU Y，HUANG DL，et al.， 2019. Diversity and antibacterial activity of actinomycetes in mud around mangrove roots in Maoweihai, Guangxi[J]. J Chin Antibiot, 44(9)：1020-1028．[郑红芸，吴越，黄大林，等，2019．广西茅尾海红树林根围淤泥放线 菌多样性及抗菌活性[J].中国抗生素杂志，44(9)：1020-1028.]   
+ZHOU SQ, HUANG XL, HUANG DY, et al., 2010. Rapid extraction of actinomycete DNA by Chelex-100 as PCR amplification template[J]. Biotechnol Bull,26(2):123-125.[周双清，黄小 龙，黄东益，等，2010.Chelex-100 快速提取放线菌 DNA作为PCR 扩增模板[J]．生物技 术通报,26(2):123-125.]

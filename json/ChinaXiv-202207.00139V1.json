@@ -1,0 +1,689 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of topography on the changes of Urumqi Glacier No. 1 in the Chinese Tianshan Mountains ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Hongliang1,2, WANG Puyu1,2.3\\*, LI Zhongqin1.3.4, JIN Shuang1, XU Chunhai', MU Jianxin1,HE Jie1,2, YU Fengchen3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratoryof Cryosphere Science,Northwest Institute ofEco-Environmentand Resources,Chinese Academyof   \nSciences,Lanzhou 730000,China;   \n2 University of Chinese Academy of Sciences, Beijing 10o049, China;   \n3 College of Sciences,Shihezi University, Shihezi 8320o0,China;   \n4Colege ofGeographyandEnvironmentalScience,Northwest NormalUniversity,Lanzhou73o7o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Topography plays an important role in determining the glacier changes. However, topography has often been oversimplified in the studies of the glacier changes. No systematic studies have been conducted to evaluate the relationship between the glacier changes and topographic features. The present study provided a detailed insight into the changes in the two branches (east branch and west branch) of Urumqi Glacier No.1 in the Chinese Tianshan Mountains since 1993 and systematically discussed the effect of topography on the glacier parameters. This study analyzed comprehensive recently observed data (from 1992/1993 to 2018/2019), including mass balance,ice thickness,surface elevation,ice velocity, terminus,and area,and then determined the differences in the changes of the two branches and explored the effect of topography on the glacier changes. We also applied a topographic solar radiation model to analyze the influence of topography on the incoming shortwave radiation $( \\mathrm { { S W _ { i n } } ) }$ across the entire glacier, focusing on the difference in the $\\mathrm { { S W _ { \\mathrm { i n } } } }$ between the two branches. The glacier mass balance of the east branch was more negative than that of the west branch from $1 9 9 2 / 1 9 9 3$ to $2 0 1 8 / 2 0 1 9$ ，and this was mainly attributed to the lower average altitude of the east branch. Compared with the west branch,the decrease rate of the ice velocity was lower in the east branch owing to its relatively increased slope.The narrow shape of the west branch and its southeast aspect in the earlier period resulted in a larger glacier terminus retreat of the west branch. The spatial variability of the $\\mathrm { { S W _ { i n } } }$ across the glacier surface became much larger as altitude increased. The $\\mathrm { { S W _ { \\mathrm { { i n } } } } }$ received by the east branch was slightly larger than that received by the west branch,and the northern aspect could receive more $\\mathrm { { S W _ { i n } } }$ , leading to glacier melting. In the future,the diference of the glacier changes between the two branches willcontinue to exist due to their topographic diferences. This work is fundamental to understanding how topographic features affect the glacier changes,and provides information for building diferent types of relationship between the glacier area and ice volume to promote further studies on the basin-scale glacier classfication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: glacier changes;topography; solar radiation; glacier terminus retreat; climate warming; Urumqi Glacier No.1;Chinese Tianshan Mountains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LIHongliang,WANGPuyu,LIZhongqin,JINShuang,XUChunhai,MUJianxin,HEJie,YUFengchen.2022. Effect of topographyon the changes of Urumqi Glacier No.lin the Chinese Tianshan Mountains.Journalof Arid Land, 14(7):719-738.https://doi.0rg/10.1007/s40333-022-0068-y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As large solid reservoirs,mountain glaciers have a vital impact on regional water resources, ecosystems,and economic societies (Zemp et al., 2015;RGI Consortium, 2017; IPCC,2019). Over the last 5O a, climate warming has caused most glaciers to shrink on a global scale,and this shrinkage has been accelerated since the end of the last century (Vaughan et al.,2O13; Farinoti et al.，2015； Zemp et al.，2O15). The glacier mass loss in the Tianshan Mountains is mostly unsustainable,and ice volume in this region will reduce by at least $3 0 . 0 0 \\%$ by 2100 (Miles et al., 2021). Nevertheless, glacier changes are not homogeneous worldwide (Yao et al.,2O12; Vaughan et al.,2013; Zemp et al.，2015,2019),and even in the same region under the same regional climate conditions,the changes in glaciers may differ because of differences in their dimensions, shape types,and topographic characteristics (Wang et al., 2O2O). For example,glaciers in the Tomor Peak of the Tianshan Mountains have been investigated in depth; specifically，glaciers have demonstrated quite different shrinkage rates, with one terminus even becoming almost stable owing to differences in topography and debris coverage. Therefore, it is important to understand the effect of topography on the changes in glaciers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The surface topographic settings in which most small glaciers $( < 0 . 4 0 0 \\ \\mathrm { k m } ^ { 2 } )$ are located could result in a very limited glacier area, suggesting that topographic setings lead to the protection of glaciers by direct solar radiation and the setings are favourable for glacier preservation (DeBeer and Sharp, 2Oo7). Additionally， some glaciers with relatively high altitude caused by topographic settings do not extend to low altitude，which reduces glacier mass loss and benefits glacier preservation (DeBeer and Sharp,2OO7,2OO9). Thus,the local surface topographic settings of small glaciers have a significant effect on their responses to climate change. The basal topography also influences the retreat rate of glaciers. For example, basal topography strongly modulates the Humboldt Glacier in northern Greenland,which can produce substantial variations in the glacier retreat rate at seasonal to decadal timescales (Carr et al., 2O15). Topography significantly alters the incoming shortwave radiation $( \\mathrm { { S W _ { i n } } ) }$ received at the surface of valley glaciers in High Mountain Asia; during the summer months (May-August),the net shortwave radiation of a glacier is one of the main components of the surface energy balance,usually accounting for $8 4 . 0 0 \\%$ or more of available energy on the surface (Wang et al.， 2O2O). Thus,changes in the amount of the $\\mathrm { { \\cal S } W _ { \\mathrm { i n } } }$ on the surface could alter the overall radiation and consequently have a significant influence on the surface energy balance. The intensity of the $\\mathrm { { S W _ { i n } } }$ received on the surface of a glacier is primarily a function of latitude and the time of year, with components such as topographic shading, slope,and aspect controlling the distribution of radiation at a local scale. Therefore,it is an important factor not only contributing to the surface energy balance,but also influencing glacier response and mass balance estimates (Olson and Rupper, 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the middle part of the Chinese Tianshan Mountains, Glacier No.1 at the head of the Urumqi River (namely Urumqi Glacier No.1) has been monitored since 1959,and it was found that the glacier was completely separated into two branches in 1993. The observation results showed that the two branches also have diferent behaviours in regards to how they change.Although many studies have reported observations and study results for this glacier (Han et al., 2OO6; Jing et al., 2006; Li et al.,2010; Xu et al.,2019),the effect of topography on the changes of this glacier has not been addressed in depth (Wang et al.， 2O18). Therefore,in this study,we aim to present comprehensive recently observed data (including mass balance,ice thickness, surface elevation, ice velocity, terminus,and area) to discuss the effect of topography on the changes of Urumqi Glacier No.1 based on the differences of the two branches.Importantly, the spatial heterogeneity of the $\\mathbf { S W _ { \\mathrm { i n } } }$ across topography，aspect, and slope was also assessed to accurately discuss the distribution of point-source $\\mathbf { S W _ { \\mathrm { i n } } }$ observations across the entire glacier. This study evaluated the impact of topographic features on the glacier changes in combination with climate change, so as to make the cognitive process of glacier changes more comprehensive. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Urumqi Glacier No.1（ $( 4 3 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { N }$ ， $8 6 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { E }$ ,located in the central region of the Chinese Tianshan Mountains in Central Asia,is a cirque-valley glacier with two branches (Fig.1).This glacier was first investigated in 1959 because it was continuously monitored by the Tianshan Glaciological Station. Its area and length were $1 . 9 1 0 \\mathrm { k m } ^ { 2 }$ and $2 . 2 0 \\mathrm { k m }$ ,respectively, in the early 196Os,based on the first mapping in 1962. Since then, it has experienced continuous shrinkage and was completely separated into two independent branches in 1993,presently covering an area of $1 . 5 2 1 ~ \\mathrm { k m } ^ { 2 }$ of which the east and west branches occupied O.97O and $0 . 5 5 1 ~ \\mathrm { \\ k m } ^ { 2 }$ ，respectively，based on observations in 2018. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee1009a1d026f4445a55c9ec1379a081a94b35a36c7c2f5d8e2a4a8afee06257.jpg",
+        "img_caption": [
+            "Fig.1Location of Urumqi Glacier No.1(a),overview of the two branches of Urumqi Glacier No.1(b),and layout of the surface topographic characteristics of the west branch (c) and east branch (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The glacier region is mainly controlled by three dynamic factors: a westerly jet in the upper troposphere， the Siberian anticyclonic circulation，and the westerly cyclonic disturbance. According to the observation data of the Daxigou Meteorological Station ( $3 5 3 9 \\mathrm { m }$ a.s.l.), which is $3 \\mathrm { k m }$ southeast of Urumqi Glacier No. 1, the mean annual temperature was approximately $- 4 . 9 ^ { \\circ } \\mathrm { C }$ and the annual precipitation was $4 7 3 . 0 \\ \\mathrm { m m }$ during the period of 1959-2019.The mean annual temperature increased at a rate of $0 . 2 4 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ , and the annual precipitation increased gradually at a rate of $2 1 . 8 ~ \\mathrm { { m m } / 1 0 a }$ ,based on the linear analyses shown in Figure 2. The main ablation period is from May to August, and precipitation mainly originates from the water vapour carried by the westerly wind. The precipitation from May to August accounts for $78 . 0 0 \\%$ of the annual total amount, with the main types of solid fall, such as snow,hail, and sleet. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Observation data and processing method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The two branches of Urumqi Glacier No.1 were observed in terms of their mass balance, ice the observation items mentioned and the data of those items.Table 1 provides allthe observation items mentioned and the data of those items.As Urumqi Glacier No.1 was separated in 1993, we extended some data items,such as the terminus,before 1993 to compare the situations before and after the separation of the glacier. In this paper, we briefly introduced the observations,data processing,and related uncertainties in recent years. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce4d4963e60e696d674b59cb79fbc941a74ee4f6c4a11f92138e42e73c325832.jpg",
+        "img_caption": [
+            "Fig.2Changes in the annual average temperature and annual precipitation at the Daxigou Meteorological Station from 1959 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a17f588396f392f6c96bbd5364441deb8747c8bf34122198ab26fcefc43b24f4.jpg",
+        "table_caption": [
+            "Table1 Data of Urumqi Glacier No.1 used in this study "
+        ],
+        "table_footnote": [
+            "Note:mW.e.meterwaterequivalent;DEM,digitalelevationmodel;RTK,Real-TmeKinematic;GS,GlobalPositioningSstem; $\\mathrm { { S W _ { i n } } }$ ,incoming shortwave radiation;-,dimensionless. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Method/Source</td><td>Measurement frequency</td><td>Unit</td><td>Data period</td></tr><tr><td>Mass balance</td><td>Stake/snow pit</td><td>Once a month in ablation season</td><td>m w.e.</td><td>1993-2019</td></tr><tr><td>Ice thickness</td><td>Ground-penetrating radar</td><td>Once every 5-6a</td><td>m</td><td>2001,2006,and 2012</td></tr><tr><td rowspan=\"3\">DEM</td><td>Stereo-photography, theodolite, total station,and RTK GPS</td><td>Once every few years</td><td rowspan=\"2\"></td><td>1994-2012</td></tr><tr><td>Terrestrial laser scanning</td><td>Every year</td><td>2015-2017</td></tr><tr><td>Unmanned aerial vehicle</td><td>End of August 2018</td><td>m</td><td>2018</td></tr><tr><td rowspan=\"3\">Ice velocity</td><td>Theodolite</td><td></td><td rowspan=\"3\"></td><td>1994-2001</td></tr><tr><td>Total station</td><td>Every year</td><td>2002-2006</td></tr><tr><td>RTK-GPS</td><td></td><td>2007-2019</td></tr><tr><td>Terminus</td><td>Tape and RTK-GPS</td><td>Beginning and end of the ablation season</td><td>m/a</td><td>1980-2020</td></tr><tr><td rowspan=\"3\">Area</td><td>Stereo-photography, theodolite, total station,and RTK GPS</td><td>Once every few years</td><td rowspan=\"3\">km²</td><td>1994-2012</td></tr><tr><td>Terrestrial laser scanning</td><td>Every year</td><td>2015-2017</td></tr><tr><td>Unmanned aerial vehicle</td><td>End of August 2018</td><td>2018</td></tr><tr><td>SWin</td><td>CNR4 radiation sensors</td><td>Every hour</td><td>W/m²</td><td>30 April 2018-30 April</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Observation data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Mass balance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mass balance of Urumqi Glacier No.1 has been conventionally observed using the stake/snow pit method during the ablation season from 1 May to 31 August since 1959.The mass balance from 1993 to 2O19 was used for the subsequent analyses in this study. The number of stakes differed in various years, with a total of 42 or 43 stakes distributed across the entire glacier in recent years (Fig.1b).The observation items for each mass balance stake included the vertical height of the stakes over the glacier surface and the stratigraphy of the snow pits, including the thickness and density of the firn layer and the thickness of the superimposed ice.The density of the superimposed ice was assumed to be $9 0 0 ~ \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ owing to the difficulty of the in situ measurements (Xu et al.,2019). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 Ice thickness ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Integrated observations using the ground penetrating radar (GPR) equipment were carred out to determine the ice thickness of Urumqi Glacier No.1 in 2001，2006,and 2012. The GPR equipment comprised an enhancement radar system (pulse EKKOPRO 1OO A， Sensors and Software Inc., Mississauga, Canada) equipped with $1 0 0 ~ \\mathrm { { M H z } }$ resistively loaded dipole antennae. The field survey was conducted with the antennae oriented perpendicular to the survey lines, ensuring that the maximum power was transmitted in-line.The reflections from the offline were minimal, although it was possible for high-conductivity surface features to produce reflections (e.g., survey poles and data loggers) (Sensors and Software Inc.,1994; Murray et al.,1997). The positions of the GPR survey points were concurrently determined using the Real-Time Kinematic (RTK)Global Positioning System （GPS） (Unistrong E650，Beijing UniStrong Science and Technology Co. Ltd., Beijing, China). The GPR measurement paths included seven transverse profiles along the stake rows and one longitudinal profile along the centre lines in the east and west branches,respectively. The GPR data were processed using the EKKO View Deluxe software (professional version developed by the Sensors and Software Inc.，Mississauga, Canada),and the corresponding two-dimensional radar images of the survey paths were obtained. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 Surface elevation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The surface elevation was obtained using a theodolite in 2OOl,a total station in 2OO6,and an RTK GPS in 2009 and 2012. Specifically, the Unistrong E650 GPS (produced by Beijing UniStrong Science and Technology Co.Ltd.,Beijing,China) was used in 2009 and 2012. Digital elevation models (DEMs） with a resolution of $1 \\mathrm { ~ m ~ }$ were established by interpolating GPS survey data.A map from the terrestrial stereo-photographic survey of 1994 was also used to derive the DEM. From 2015 to 2017,a terrestrial laser scanning system,Riegal VZ?-6000 (Riegal Company, Horn,Austria),was used to survey the glacier surface elevation from four scan positions at the glacier terminus every year (Xu et al.,2O19). An unmanned aerial vehicle (UAV; MATRICE 200, DJ-Innovations, Shenzhen, China) survey was conducted at the end of August 2O18,covering nearly the entire Urumqi Glacier No.1. Then, we used the Pix4Dmapper software (Pix4D S.A., Prilly, Switzerland) to generate a glacier DEM in 2O18 with a spatial resolution of $1 \\mathrm { m }$ ,according to the method of Li et al. (2O22). The DEMs were resampled at the same spatial resolution. We further compared the DEMs of glaciers at different periods to determine the glacier surface elevation change over the respective time periods. According to Nuth and Kaab (2O11), it is necessary to co-register the DEMs before extracting the glacier surface elevation changes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4Ice velocity ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Traditionally, the ice velocity can be obtained by installing a network of stakes and surveying the changes in the positions of the stakes on the glacier surface.Ablation stakes were also used for the ice velocity measurements for this glacier. Previously, theodolite and total station instruments were used, whereas GPS did not come into use until 2OO7.The GPS was then used to measure the stake positions after 2OO7.The measurement methods varied based on the year, as explained by Wang et al. (2O18). The GPS survey method was described in Section 3.1.3.We calculated the displacement vectors in the $X$ and $Y$ directions of the ablation stakes based on two measurements taken within a certain period.The stake displacement was then considered as the ice velocity at the corresponding stake position. Similar to the other glacier observed items mentioned above, the ice velocity change during the period of 1994-2O19 was analyzed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.5Terminus position and glacier area ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Changes in the terminal position of Urumqi Glacier No.1 were determined using both the GPS survey and tape measurements. Several sites around the terminus edge were measured using the GPS at the beginning(1 May） and end (31 August) of the ablation season,and the distance of each site to a stationary landmark was simultaneously measured using a tape measure. These actions were taken for both the east and west branches. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The glacier area was determined by terrestrial stereo-photographic mapping in 1994 and 2000, theodolite in 2001,total station in 2006,and RTK GPS in 2009 and 2012.The measurement procedures using theodolite and total station instruments have been introduced in previous studies (Dahl-Jensen et al.,1986; Wang et al., 2014). Since 2015,laser-scanning systems have been used to determine the glacier area (Xu et al., 2O19). In 2O18,the glacier area was surveyed using a UAV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.6Topographic characteristics ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To analyze the efect of topography on the changes of glacier, we derived topographic characteristics including surface elevation distribution, slope,and aspect from the DEMs in 1994 and 2018 and processed them by the 3D Analyst Tools in the ArcMap 10.3 software (Environment System Research Institute, ESRI, Redlands, USA). The subglacial topography was constructed by subtracting the ice thickness surveyed in 2O12 from the glacier surface elevation during the same period. The basal topography was analyzed by assuming that the subglacial topography remained unchanged during these periods. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.7 Incoming shortwave radiation $( \\mathrm { { S W _ { i n } } ) }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To investigate the distribution of the $\\mathrm { { S W _ { i n } } }$ across the entire glacier,we observed a point-source $\\mathrm { { S W _ { i n } } }$ at an automatic weather station ( $4 0 2 5 \\mathrm { ~ m ~ }$ a.s.l.） deployed on Urumqi Glacier No.1 from 30 April 2018 to 30 April 2019. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Processing methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Mass balance change ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mass balance of a single point $( b )$ can be calculated using the method of Paterson (1994) as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = b _ { s } + b _ { g i } + b _ { s i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $b _ { s } , \\ b _ { g i } ,$ and $b _ { s i }$ are the mass balances of the snow,glacier ice,and superimposed ice, respectively, with the unit of m w.e. (meter water equivalent). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on point observations,we can calculate the specific mass balance using one of the following two methods. One method is to interpolate the point mass balance by drawing equal mass-balance contour lines.The specific mass balance $( b _ { n } )$ is obtained as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { n } = \\frac { 1 } { s } \\sum s _ { i } b _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $s$ is the total area of the glacier $( \\mathrm { k m } ^ { 2 } )$ · $s _ { i }$ refers to the area between the two contour lines $( \\mathrm { k m } ^ { 2 } )$ ; and $b _ { i }$ is the corresponding mass balance (m w.e.). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second method is based on the repeated point measurements at different altitudes.The specific mass balance $( b _ { n } )$ can be calculated by extrapolating the point mass balance to the entire glacier as a linear function of altitude: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { n } = \\sum _ { i = 1 } ^ { n } s _ { i } ^ { \\prime } b _ { i } ^ { \\prime } / s ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the total number of altitude bands; $s _ { i } ^ { \\prime }$ is the area of the altitude band $( \\mathrm { k m } ^ { 2 } )$ ; and $b _ { i } ^ { \\prime }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "is the corresponding mass balance (m w.e.). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Ice thickness change ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The ice thickness $( h ; \\mathbf { m } )$ can be calculated using the two-way travel time ( $' t _ { s }$ ，with the unit of ns (nanosecond)) of the radar wave from the vertical axis and the velocity of the radar signal in glacier $( \\nu ; \\mathrm { { m } / { n s } ) }$ ,as shown in Equation 4: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = \\frac { t _ { s } } { 2 } \\times \\nu .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The velocity of the radar signal in mountain glaciers was in the range of $0 . 1 6 7 { - } 0 . 1 7 1 \\ \\mathrm { m / n s }$ (Glen and Paren, 1975; Robin,1975; Narod and Clarke,1994). In this study, we set the velocity value of $0 . 1 6 9 \\mathrm { m / n s }$ based on field tests. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Surface elevation changes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine the glacier surface elevation changes over the respective time periods, we compared the DEMs of Urumqi Glacier No.1 at different periods,as mentioned in Section 3.1.3. It is necessary to co-register the DEMs before extracting the glacier surface elevation changes (Nuth and Kaab,2O11). The uncertainties of the DEMs are usually estimated in two ways: (1) comparing the DEM values with an independent set of GPS points in the non-glaciated area; and (2） simultaneously rectifying the horizontal displacements and vertical biases based on the cosinusoidal relationship between the surface elevation diference and topographical parameters (slope and aspect). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To analyze the change in the ice thickness during the period of 1994-2O18,we attempted to synthesize data from different sources,including changes in thickness and surface elevation. Finally,the relationship between the ice thickness change and surface elevation changes during the periods of 2001-2006 and 2006-2012 was established. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 Solar radiation modelling ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { { S W _ { i n } } }$ is an important factor affecting glacier melting. The spatial distribution of the $\\mathrm { { S W _ { i n } } }$ on the surface of a glacier may result in differences in glacier melting.Therefore, we used a solar radiation model to explore the spatial variation of the $\\mathrm { { S W _ { i n } } }$ in Urumqi Glacier No.1(Kumar et al., 1997) and analyzed the $\\mathbf { S W _ { \\mathrm { i n } } }$ of the east and west branches.The solar radiation model included the effects of terrain shading and cloud cover. It can compute clear-sky direct and diffuse shortwave radiation in response to the geographical position, altitude, slope, and aspect of the glacier (Kumar et al.,1997). The forcing data comprised latitude,spatial resolution of the DEM,and ground reflectance,with a default of O.2. The potential $\\mathbf { S W _ { \\mathrm { i n } } }$ was computed and then corrected for cloud cover through the $\\mathbf { S W _ { \\mathrm { i n } } }$ measured at an automatic weather station ( $4 0 2 5 \\mathrm { ~ m ~ }$ a.s.l.）deployed on Urumqi Glacier No.1 from 30 April 2018 to 30 April 2019. The $r i _ { x , y }$ is the ratio of the potential $\\mathbf { S W _ { \\mathrm { i n } } }$ to the measured $\\mathrm { { S W _ { i n } } }$ . The spatially distributed $\\mathrm { { S W _ { i n } } }$ $( \\boldsymbol { \\mathrm { Q } c o r r } _ { x , y } )$ can be expressed as the measured $\\mathbf { S W _ { \\mathrm { i n } } }$ multiplied $r i _ { x , y }$ (the ratio of the potential $\\mathrm { { S W _ { i n } } }$ to the measured $\\mathrm { { S W _ { i n } } ) }$ . In our study, the UAV-DEM was derived from UAV in 2018 (see Section 3.1.3). To improve the efficiency of the computer operation, we resampled the UAV-DEM to a resolution of $3 0 \\mathrm { m }$ ,and then carried out coordinate normalization using the WGS84 datum (EPSG: 4326) and UTM 45N projection and applied the data to obtain the spatially distributed $\\mathrm { { S W _ { i n } } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 Statistical analysis",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, the statistical analysis of the annual average temperature and annual precipitation was carried out using the linear fiting method. At the same time, Origin 2O18 (OriginLab, Northampton, United States) and ArcMap v.10.3 (Environment System Research Institute, ESRI, Redlands,USA) were used to draw pictures in this study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 Changes in the two branches ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3a shows the annual mass balance changes in the east and west branches from 1992/1993 to 2018/2O19.The results indicate that after the separation of Urumqi Glacier No.1, the mass balance of the east branch became more negative than that of the west branch from 1992/1993 to 2018/2019,except for 1996/1997 and 2O03/2004; both the east and west branches experienced an overall decreasing trend in their mass balance with a large inter-annual variability,but the west branch changed less than the east branch. The period 1997-2O08 seemed to be a stage of continuous decrease，with an abnormally low value occurring between 2Oo9 and 2010; afterwards, a four-year increase stage occurred and then a relatively steady stage was followed after 2015,but the highest increase occurred in 2O19 again.We checked the meteorological data in the years with abnormally high and low values of mass balance and found that summer (June-August） temperature was the most important factor， followed by annual average temperature and annual precipitation,which were consistent with the discusson of a previous study on the relative importance of meteorological parameters (Wang et al., 2Ol6).For instance, summer temperature was usually higher than $4 . 2 ^ { \\circ } \\mathrm { C }$ during the study period (except for 2009, 2014,and 2019,with the values of $3 . 0 ^ { \\circ } \\mathrm { C }$ ， $3 . 2 ^ { \\circ } \\mathrm { C }$ ，and $3 . 3 ^ { \\circ } \\mathrm { C }$ ， respectively)，corresponding to extremely high mass balance values in these years. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e57f2eecf451ad8768b318c26bef8dcce2d55990dd0f69a7542d7f7c42950019.jpg",
+        "img_caption": [
+            "Fig.3Changes in the annual mass balance (a)and maximum ice velocity (b) for the east and west branches of Urumqi Glacier No.1 from 1992/1993 to 2018/2019,as wellas the glacier terminus change (c)from 1979/1980 to 2019/2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The maximum ice velocity series from 1992/1993 to 2018/2019 can be seen in Figure 3b, which shows how the ice velocity changed after the separation of Urumqi Glacier No.1, as well as the diferences between the west and east branches. The patterns of the average and minimum ice velocities were similar with the maximum ice velocity. The ice velocities of both the east and west branches were in a continuously decreasing state, with the decreasing rate of the west branch being larger than that of the east branch overall until 2O1O/2O11,after which it became almost the same for the two branches.The higher decreasing rate of the ice velocity in the west branch was attributed to the higher slope (Wang et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 3c shows the changes in the location of the glacier terminus position since 1980. Generally, the glacier terminus retreat was larger after the separation of Urumqi Glacier No. 1 than before. The glacier terminus generally retreated at a rate of $4 . 0 \\ \\mathrm { m / a }$ from 1980 to 1993 (before the separation),and the retreat rate of the east and west branches was 5.O and $5 . 8 ~ \\mathrm { m / a }$ respectively,from 1994 to 2O2O (after the separation). The glacier terminus change process can be roughly divided into three stages: the period before 1993,the period of 1994-2011,and the period after 2011. In the first stage (the period before 1993),the glacier terminus retreat rate remained steady and low, with a value of approximately $3 . 6 0 \\ \\mathrm { m / a }$ from 1983 to 1988,while it fluctuated significantly in other years. In the second stage (the period of 1994-2O11), the east branch had a lower glacier terminus retreat rate between 3.1 and $3 . 7 ~ \\mathrm { { m } / a }$ ，whereas the west branch had a much higher retreat rate with a stepped fluctuation between 4.7 and $7 . 0 ~ \\mathrm { m / a }$ .In the third stage (the period after 2O11),the pattern of the glacier terminus retreat rate in the east and west branches was reversed compared to the previous stage. The glacier terminus retreat rate in the east branch speeded up suddenly in 2O11/2012 and remained at nearly $8 . 0 \\ \\mathrm { m / a }$ in other years;in contrast, the glacier terminus retreat rate in the west branch slowed down to less than $4 . 0 ~ \\mathrm { { m } / \\mathrm { { a } } }$ . In recent years, the glacier terminus retreat has become increasingly complex. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The ice thickness change trends in different periods are shown in Figure 4.The thinning rate of the entire glacier was calculated using the area-weighted average of the two branches. Specifically,the thinning rate of the east branch was larger than that of the west branch on average,but both of them remained almost the same in the early years following the separation of the glacier. Since 2OO6,the thinning rate of the east branch was remained clearly larger than that of the west branch,but the difference between the east and west branches seemed to have decreased in recent years. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Photographs of Urumqi Glacier No.1 in different years (Fig. 5) can visually show the glacier shrinkage process of the glacier. Table 2 presents the glacier area change values of the east and west branches from 1994 to 2O18.These values demonstrate that the area of the east branch reduced from 1.115 to $0 . 9 8 3 \\ \\mathrm { k m } ^ { 2 }$ at a rate of $5 . 7 4 0 { \\times } 1 0 ^ { - 3 } \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ ，while the west branch reduced from 0.627 to $0 . 5 5 9 { \\mathrm { ~ k m } } ^ { 2 }$ at a rate of $2 . 9 6 0 { \\times } 1 0 ^ { - 3 } \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ .The relative change rates were $- 0 . 0 0 6$ （204号 $\\mathrm { k m } ^ { 2 } / \\mathrm { a }$ for the east branch and $- 0 . 0 0 3 ~ \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ for the west branch,indicating a large difference between the two branches. However, the shrinkage of the west branch was larger than that of the east branch before 2OO9 but decreased thereafter. The main reason is that the narrow shape and southeast- and south-dominated aspects of the west branch tongue in the earlier period were beneficial for glacier terminus melting and retreat. The glacier area shrinkage rate was much larger after the separation of the glacier $( 0 . 0 0 9 \\mathrm { k m } ^ { 2 } / \\mathrm { a } )$ ）than that in the previous period from 1962 to 1992 $( 0 . 0 0 2 \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/548bd4372db7f79273932ac93c0ffbd8ed189aba5c2c08ab688db36e96514172.jpg",
+        "img_caption": [
+            "Fig.4Ice thickness changes of Urumqi Glacier No.1 from 1994 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d686a14678733af9f614de01fcefcb5c7355e03c1df40e38c09739aa6dad654.jpg",
+        "img_caption": [
+            "Fig.5Photographs of Urumqi Glacier No.1 during diferent periods showing the glacier shrinkage over the past 60 a. (a),1962;(b),1993;(c),2021. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb5db9972514d400b2ced2ec012918c4b680d876dc591976e16a7ef95f1b3fd7.jpg",
+        "table_caption": [
+            "Table 2Area changes ofUrumqi Glacier No.1 from1994 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td colspan=\"2\">East branch</td><td colspan=\"2\">West branch</td><td colspan=\"2\">Urumqi Glacier No.1</td></tr><tr><td>Area (km²)</td><td>Change rate (km²/a)</td><td>Area (km²)</td><td>Change rate (km²/a)</td><td>Area (km²)</td><td>Change rate (km²/a)</td></tr><tr><td>1994</td><td>1.115</td><td></td><td>0.627</td><td></td><td>1.742</td><td></td></tr><tr><td>2000</td><td>1.111</td><td>-0.001</td><td>0.622</td><td>-0.001</td><td>1.733</td><td>-0.001</td></tr><tr><td>2001</td><td>1.101</td><td>-0.010</td><td>0.607</td><td>-0.015</td><td>1.708</td><td>-0.025</td></tr><tr><td>2006</td><td>1.086</td><td>-0.003</td><td>0.591</td><td>-0.003</td><td>1.677</td><td>-0.006</td></tr><tr><td>2009</td><td>1.069</td><td>-0.006</td><td>0.578</td><td>-0.004</td><td>1.647</td><td>-0.010</td></tr><tr><td>2012</td><td>1.020</td><td>-0.016</td><td>0.570</td><td>-0.003</td><td>1.590</td><td>-0.019</td></tr><tr><td>2015</td><td>0.994</td><td>-0.009</td><td>0.561</td><td>-0.003</td><td>1.555</td><td>-0.012</td></tr><tr><td>2016</td><td>0.991</td><td>-0.003</td><td>0.559</td><td>-0.002</td><td>1.550</td><td>-0.005</td></tr><tr><td>2017</td><td>0.984</td><td>-0.007</td><td>0.558</td><td>-0.001</td><td>1.542</td><td>-0.008</td></tr><tr><td>2018</td><td>0.970</td><td>-0.014</td><td>0.551</td><td>-0.007</td><td>1.521</td><td>-0.021</td></tr><tr><td>1994-2018</td><td></td><td>-0.006</td><td></td><td>-0.003</td><td></td><td>-0.009</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2Topographic differences of the two branches ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Combined with glacier area, terminus (or length), hypsometry,and accumulation area ratio, the topographic characteristics of the east and west branches could be elucidated by their maps of the altitude, slope,aspect, and subglacial topography,as shown in Figures 6 and 7. The altitude of Urumqi Glacier No. 1 ranged from 3740 to $4 4 7 8 \\mathrm { ~ m ~ }$ a.s.l.,where the average altitudes of the east and west branches were 3994 and $4 1 2 7 \\mathrm { ~ m ~ }$ a.s.l. in 2O18,respectively. In comparison, the average altitudes were 3985 and $4 1 2 3 \\mathrm { ~ m ~ }$ a.s.l. for the east and west branches in 1994,respectively. Both the average and terminus altitudes of the east branch were lower than those of the west branch. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The average slope angles of the east and west branches were approximately $2 2 ^ { \\circ }$ and $2 4 ^ { \\circ }$ in 2018, and about $2 1 ^ { \\circ }$ and $2 2 ^ { \\circ }$ ,respectively, in 1994.In contrast, both the slope distribution and average slope value show that the slope angle of the east branch was lower than that of the west branch. The aspect maps show that the west branch faced the east, whereas the east branch mainly faced the north. In addition, the subglacial topography,as shown in Figure 7, indicates that the basal topography of the east branch was more undulating than that of the west branch and that the ice thickness of the east branch was larger than that of the west branch. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results further demonstrate that the shrinkage of the west branch was larger than that of the east branch before 2OO9,and the narrow shape and southeast- and south-dominated aspects of the west branch tongue during the same period were beneficial for glacier terminus melting and retreat; therefore,the slope and aspect of the glacier strongly influenced the glacier area reduction. In addition,the shape of the glacier directly affected the ice dynamics. Urumqi Glacier No.1 exhibited wide cross-sections in the firn basins and narrow cross-sections in their ablation Zones (Fig. 6). The ice velocity,an ice dynamic element, was also related to the ice thickness, and the distribution pattern of the ice thickness was similar with that of the ice velocity (Fig. 3) (Wang et al., 2018). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e213759636095614f7dffaafbe161343637e222dd77c86632e5875f387640f18.jpg",
+        "img_caption": [
+            "Fig.6Altitude (a and d),slope (b and e),and aspect (c and f) in the east and west branches of Urumqi Glacier No.1 in 1994 and 2018.(a)-(c),1994;(d)-(f),2018. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbbb5699f63a655823bf996acd7b227a0d6377a2d20fb751575257293c88ac00.jpg",
+        "img_caption": [
+            "Fig.7Surface elevation and subglacial topography for the main lines ofthe east branch(a)and west branch (b) of Urumqi Glacier No.1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3Impact of the incoming shortwave radiation $( \\mathbf { S W _ { i n } } )$ on the glacier changes ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "During the period from 30 April 2018 to 30 April 2019, the spatial variability of the $\\mathrm { { S W _ { i n } } }$ across the glacier surface became much larger as the altitude increases, based on the UAV-DEM shown in Figure 8. The mean change of the $\\mathrm { { S W _ { i n } } }$ calculated by the UAV-DEM for all combined topographic components was the greatest at lower altitudes ( ${ < } 3 8 8 6 \\mathrm { ~ m ~ }$ a.s.l.）and then began to decrease with the increase of altitudes; however, at higher altitudes ( $> 4 3 0 0 \\mathrm { ~ m ~ }$ a.s.l.), it exhibited a slightly increasing trend. The mean changes of the $\\mathrm { { S W } _ { \\mathrm { { i n } } } }$ in the west and east branches were 143 and $1 5 0 ~ \\mathrm { W / m ^ { 2 } }$ ,respectively. The $\\mathrm { { S W _ { i n } } }$ in the east branch was slightly larger than that in the west branch,which may be due to the low altitude of the east branch (Fig.9).Additionally， the estimated result of the UAV-DEM indicates that the northern aspect could receive more $\\mathrm { { S W _ { i n } } }$ as shown in Figures 6f and 8. Such variations would surely have a significant effect on the heat budget of different sites, thus influencing the glacier surface melting. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4a108a2312c5235d69ddc4f13558a707a5f5e2fda15ee93739f43ef8296c63e.jpg",
+        "img_caption": [
+            "Fig.8Spatial distribution of the mean changes in the incoming shortwave radiation $( \\mathrm { { S W _ { i n } } ) }$ in the east and west branches of Urumqi GlacierNo.1 from 30 April 2018 to 30 April 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1 Uncertainties of individual glacier parameters ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The glacier mass balance within a budget year can be obtained by using the stakes or snow pits. In this study, we aimed to analyze the difference in the mass balance of the two branches before and after 1993 (the separation of Urumqi Glacier No.1） to potentially reflect the impact of topography on the glacier changes. Uncertainties of the in situ mass balance can usually be categorized into three terms. First,according to Fountain and Vecchia (1999) and Kuhn (1999),a value of $\\pm 0 . 1 0 \\mathrm { ~ m ~ w . e . / a ~ }$ is usually adopted as field measurement. Second, Hock and Jensen(1999) demonstrated that the error introduced by the Kriging interpolation method is approximately $\\pm 0 . 1 0 \\mathrm { ~ m ~ }$ w.e./a for a single point mass balance. Third, the glacier retreat could result in an overestimation of mass loss of $\\pm 0 . 0 2 \\mathrm { ~ m ~ w . e . / a ~ }$ for the Urumqi Glacier No.1 (Xu et al., 2019). Additionally, internal accumulation and ablation cannot be quantified.We also recognized that internal accumulation and ablation could lead to small but significant systematic cumulative errors.By considering the factors mentioned above,the annual uncertainty of the in situ mass balance was therefore $\\pm 0 . 1 4 \\mathrm { ~ m ~ w . e . / a ~ }$ without taking into account the systematic uncertainties. The cumulative uncertainty of the mass balance was $\\pm 0 . 7 3  { \\mathrm { ~ m ~ } }$ w.e.during the period of 1993-2019. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/52c827260ea8c70dc9fdfef82895894cbeb3093b97c54d00911ede63c7666440.jpg",
+        "img_caption": [
+            "Fig.9Mean changes in the $\\mathbf { S W _ { \\mathrm { i n } } }$ of the east branch(a) and west branch (b) of Urumqi Glacier No.1 along with the altitudefrom 30April 2018 to 30April 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To determine the glacier surface elevation changes over the respective time periods，we compared the DEMs of the two branches at different periods,as mentioned in Section 3.1.3. According to Wang et al. (2O14),the relative error of the DEMs during the period of 1994-2009 was less than $\\pm 0 . 3 0 \\mathrm { ~ m ~ }$ based on the GPS points in the non-glaciated area.For the DEMs between 2012 and 2O15, ten independent GPS points in the non-glaciated area were selected to perform the uncertainty of the DEMs with $\\pm 0 . 3 3 \\mathrm { ~ m ~ }$ ，and after the co-registration, the mean surface elevation difference in the non-glaciated area was $\\pm 0 . 4 1 \\mathrm { ~ m ~ }$ (Li et al.,2022).For the DEMs between 2015 and 2017,the standard error was estimated by calculating the surface elevation changes from the terrestrial laser scanning system over the non-glaciated area with $0 . 2 3 \\mathrm { ~ m ~ }$ in 2015-2016 and $0 . 1 6 \\mathrm { ~ m ~ }$ in 2016-2O17 (Xu et al.,2O19). The surface elevation difference in the non-glaciated area during 2017-2018 was $0 . 6 8 ~ \\mathrm { ~ m ~ }$ .It was concluded that the surface elevation difference in the non-glaciated area had stabilized, making the processed DEM difference suitable for estimating the glacier surface elevation changes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The glacier terminus position data were input into the same coordinate system,and the glacier terminus change was obtained by comparing data from various periods. The tape measurement error was very small and mainly determined by manual operation. The area change of the glacier can be derived from a comparison of the topographic maps for different periods. After the integrated evaluation,the whole uncertainty in the glacier area change during the period of 1994-2018 was approximately $0 . 0 1 \\ \\mathrm { k m } ^ { 2 }$ according to Williams et al. (1997),Hall et al. (2003), ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and Silverio and Jaquet (2005). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The accuracy of the ice thickness estimation depended on the accuracy of the measurement system and the properties of the ice and bedrock. The relative error of the measurement system was approximately $1 . 1 8 \\%$ . Combined with the survey points and measurement path differences for the different surveys,the ice thickness distribution for each survey caused errors by using different interpolation methods. The properties of the ice and bedrock (e.g., crevasses and bedrock roughness） had a significant influence on ice thickness estimation. However, it is difficult to determine this. The error caused by neglecting the firn layers was estimated at approximately $5 . 0 0 \\%$ ,according to Haeberli et al.(1982). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the ice thickness and surface elevation changes was compared in this section. The comparison results show that the correlation coeffcient was O.75 and the root mean square error was $3 . 4 0 \\mathrm { m }$ .The difference was within $1 0 . 0 0 \\%$ , indicating a good agreement between the ice thickness and surface elevation changes.Therefore,the ice thickness change trend can be demonstrated in more detailed time intervals over the long-term period. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The estimated error of the ice velocity at each point was ${ < 1 0 . 0 0 \\% }$ of the ice velocity components in the $X$ and $Y$ axis directions (Wang et al., 2O18). The uncertainty of the ice velocity and its changes also depended on the interpolation method and glacier surface characteristics, such as the ice thickness and slope. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2 Effect of topography on the individual glacier parameters ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 Glacier mass balance and ice thickness ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If adjacent glaciers or branches of a glacier have the same topography, their mass balance should be close because they are in the same regional climate conditions. However, differences in the topography (see Fig. 6) can result in the differences in the mass balance between them. Afected by the altitude,slope and aspect of the glacier,the energy received by the glacier is different, which eventually leads to the difference in the glacier mass balance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "First, because the average altitude of the east branch is lower than that of the west branch, the increase of the $\\mathbf { S W _ { \\mathrm { i n } } }$ will inevitably lead to a greater amount of glacier melting on the surface of the east branch than on the surface of the west branch (Fig.9). Second,we calculated the accumulation area ratio of the two branches annually and found that the accumulation area ratio of the east branch was generally lower than that of the west branch,as shown in Figure 10a; therefore,the larger ablation area ratio of the east branch resulted in a higher glacier mass loss rate.Third, both east and south aspects influenced the amount of solar radiation received.Figure 6 shows that the lower section of the west branch faced the east and south more than the east branch,suggesting more intensive glacier melting in the west branch than in the east branch. However, a large part of the upper section in the east branch facing the northwest was beneficial for receiving strong solar radiation in the afternoon, whereas the upper section of the west branch faced mainly the northeast and north,which means that it received less solar radiation (Fig. 9). According to the study of Yue et al. (2O17),on average,the albedo did not have an apparent difference between the east and west branches,although it was slightly less for the west branch. Therefore,it can be concluded that the lower altitude and accumulation area ratio are the main factors leading to a more negative glacier mass balance in the east branch. The influence of topography on the solar radiation is complex due to the complicated surface features and aspect changes in the lower section of the branches over time.For example,the area of the west branch tongue facing the south shrank as the glacier terminus retreat. The albedo was closely related to both the surface impurity concentration and topographic shield. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The topographic difference between the east and west branches led to a similar trend in the ice thickness and glacier mass balance changes, that is, the thinning rate of the east branch was larger than that of the west branch on average.This is reasonable because the ice thickness change is determined mostly by the glacier mass balance (Huang et al.,2O18), so a higher glacier mass loss will cause a greater thinning in the east branch than in the west branch. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/32100fe9249eb4c018fb4e30d402e09b84968bd6de6113a6d6873edd5b1b6023.jpg",
+        "img_caption": [
+            "Fig.10Accumulation area ratio (a),glacier terminus retreat rate (b),and ice velocity ofthe glacier terminus (c) in the east and west branches of Urumqi Glacier No.1 from 1993/1994 to 2017/2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 Ice velocity ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Because the accumulated glacier mass in the upper section of the two branches is transported down to the ablation area through ice movement, the ice velocity is one of the significant factors controlling the surface and dimensional changes of Urumqi Glacier No.1.The slope influences the ice velocity and mass balance,and may also impact the snow accumulation rate through its effect on the avalanche transport of snow on the glacier surface.Figure 3b shows that the ice velocity of the west branch was always higher than that of the east branch,but the difference decreased,particularly after 2O10.Previous studies,such as Li et al. (2Ol1)，concluded that Urumqi Glacier No.1 was predominantly cold-based, with basal sliding occurring only close to its snout. It is well known that the ice velocity caused by creep deformation mainly depends on the ice thickness and slope (Paterson,1994). After analyzing the effects of the ice thickness and slope using the basic dynamic principle,Wang et al. (2O18) found that the ice velocity is more sensitive to the slope compared to the ice thickness,and a larger slope will lead to a higher ice velocity in the west branch than in the east branch. Figure 6 shows that the slope was higher in the west branch than in the east branch.The calculated average slope indicates that the difference in the slope between the west and east branches declined to some extent,as mentioned above. This coincides with the change trend of the maximum ice velocity,as shown in Figure 3b; that is, the ice velocity was higher in the west branch than in the east branch, gradually becoming closer under current slope changes.Because the average ice thickness in the early 2OoOs was larger in the east branch (approximately $5 9 . 0 \\mathrm { ~ m } \\mathrm { , }$ ） than in the west branch (approximately $4 5 . 0 \\mathrm { ~ m } ,$ ，the contribution of the ice thickness to the ice velocity was larger in the east branch than in the west branch.However,the measured ice velocity in the east branch was lower than that in the west branch,indicating that the effect of the ice thickness was less than that of the slope. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "From Figure 7 we can conclude that compared with the west branch,the more undulant basal topography of the east branch has a retardative effect on the ice movement.Therefore,the difference in the ice velocity between the west and east branches is a result of the comprehensive effects of the slope,ice thickness,and basal topography. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.2.3 Glacier terminus ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Changes in the terminus of a glacier are mainly controlled by the glacier mass balance and ice velocity near the terminus. The results of this study mentioned above indicate that the glacier mass balance of the east branch was more negative,and the ice velocity of the east branch was lower than that of the west branch,which makes the mass supply in the terminus of the east branch slow. The combination of the above two factors led to a larger glacier terminus retreat for the east branch than for the west branch. However, before 2Ol2,the measured glacier terminus retreat was lower for the east branch than for the west branch (Wang et al.,2O16; Li et al., 2022). Comparing the ice thickness and shape of the east branch with the west branch,the west branch tongue was much narrower with a pointed terminus,making the absolute ice thickness thinner than that of the east branch. Another factor is that the southeast aspect of the west branch tongue in the earlier period benefited more from the solar radiation for glacier melting;therefore,the glacier melting rate of the west branch was stronger (Wang et al., 2O16). This feature must have led to a larger terminus retreat rate in the west branch compared with the east branch if the differences in the glacier melting rate and ice velocity between the east and west branches were not too large.From the observation data in Figure 1Ob and c,the glacier melting rate did not show any system differences at the stakes closest to the terminus of the east or west branch, while the ice velocity at the stake of the west branch was much higher than that of the east branch before 2007,but the difference gradually decreased thereafter. Thus,the glacier terminus retreat was influenced by the combined effects of the tongue shape, melting rate, and ice velocity. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Since 2O11/2Ol2, the difference of the glacier terminus retreat between the west and east branches semed to have become more complex.The west branch retreated more than the east branch in some years but less in other years, with frequent alternation after 2Ol5.In view of the small difference in the ice velocity between the west and east branches after 2O1O,the glacier melting rate and topography were the main causes of the difference in the glacier terminus retreat. In particular, the difference of glacier melting was more important because the topography changed little from year to year. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.3Changes of the east and west branches response to climate change ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "It is widely accepted that glaciers in the High Mountain Asia will continue to shrink under the background of climate warming or cessation of warming due to the lag of glacier responses to climate change (Li et al., 201; Yao et al., 2012; Farinotti et al.,2015; Zemp et al.,2015, 2019; IPCC,2019), as is the case for Urumqi Glacier No.1 (Li et al.,2011; Xu et al.,2011; Wang et al., 2016).However, it still needs to explore whether this glacier retreat will accelerate,although some studies have indicated that the glacier retreat in the Tianshan Mountains,including or specifically Urumqi Glacier No.1, has accelerated in recent decades and will continue to do so in the near future (Pieczonka et al.,2013,2015; Brun et al.,2017). The observational data suggest that this glacier shrinkage became more rapid after the 199Os than before,but the observed glacier mass balance did not appear to have become more negative since 2O12, based on a comparison between the mean values of 2012-2019 and 1997-2011 (Fig. 3a). The average glacier mass balance was $- 0 . 8 \\mathrm { ~ m ~ }$ w.e. during the period of 1997-2011 and $- 0 . 7 \\mathrm { ~ m ~ }$ w.e. during the period of 2012-2O19 in the east branch，whereas it was $- 0 . 6$ and $- 0 . 4 \\mathrm { ~ m ~ }$ w.e. during the periods of 1997-201l and 2012-2O19 in the west branch,respectively. If the current climate conditions are maintained in the future,the negative glacier mass balance and glacier terminus retreat will undoubtedly continue,but the glacier terminus retreat will slow gradually when the terminus positions of the east and west branches retreat at higher altitudes. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Owing to the topographic differences,changes in the glacier mass balance,ice velocity, and glacier terminus retreat will inevitably differ between the east and west branches,despite the same climate conditions. As mentioned above,the glacier mass balance was more negative for the east branch than for the west branch because of the lower average altitude and accumulation area ratio in the east branch.The ice velocity of both the east and west branches will continue to decrease in the future,but the velocity of the east branch may catch up and even exceed that of the west branch,because the east branch is thicker on average and the slope difference between the west and east branches diminishes gradually. The difference of the glacier terminus retreat is complicated because it is dependent not only on the glacier melting rate and ice velocity at the glacier terminus but also on the shape of the glacier's snout. In addition,the shape and size of the glacier are important factors in controlling the glacier dynamics. It was previously found that small glaciers lost more area than large glaciers, because small glaciers such as Urumqi Glacier No.l are generally more sensitive to climate change (Oerlemans,1989). The response time of the glacier to climate change can be roughly estimated from the simplest formula introduced by Paterson (1994),which is based on an ideal assumption. According to Wang et al. (2016), the actual response time is likely to be shorter than the estimated value, perhaps around 1O a. This suggests that Urumqi Glacier No.1 will continue to shrink in the coming decade,even without further climate warming, due to the time it takes to respond to the previous climate warming. Nevertheless,it can be imagined that when the east and west branches shrink,the glacier terminus retreat of the east branch will be faster than that of the west branch,as the lower altitude and wester-facing direction of the east branch would lead to more ice loss in comparison to the west branch. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Under the background of climate warming, Urumqi Glacier No.1 has experienced continuous mass loss and dimensional shrinkage in recent decades； however, after the separation of the glacier into two branches,no obvious accelerated trend was identified in recent years. The observation data show that there were differences between the east and west branches in terms of glacier mass balance and dimensional changes,such as terminus retreat, thickness decrease, and ice velocity change.The difference of the glacier area shrinkage between the two branches was not large,although the east branch shrunk slightly more.From the comparison of the topographic features of the two branches,the greater negative glacier mass balance in the east branch was mainly attributed to the lower average altitude and accumulation area ratio.As expected, the larger negative glacier mass balance has led to a higher average thinning rate of the east branch, although the thinning rate between the east and west branches differed in different years. The narrow and pointed snout of the west branch and its southeast aspect resulted in a larger glacier terminus retreat for the west branch.The ice velocity decreased in both the east and west branches, but the decrease rate was lower in the east branch owing to its increase in the slope. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A topographic solar radiation model was used to quantify the spatial variability of the $\\mathrm { { S W _ { i n } } }$ across the glacier surface.It is indicated that the $\\mathbf { S W _ { \\mathrm { i n } } }$ became much larger as altitude increased based on the UAV-DEM,and the north aspect could receive more $\\mathrm { { S W _ { i n } } }$ ，resulting in glacier melting. Importantly, the $\\mathbf { S W _ { \\mathrm { i n } } }$ was the greatest at lower altitudes ( ${ < } 3 8 8 6 \\mathrm { ~ m ~ }$ a.s.l.) and then began to decrease with the increase of altitudes；however,at higher altitudes $\\mathrm { > } 4 3 0 0 \\mathrm { ~ m ~ }$ a.s.l.), it exhibited a slightly increasing trend. The $\\mathrm { { S W _ { i n } } }$ received by the east branch was slightly larger than that received by the west branch,which was probably due to the lower altitudes of the east branch. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In the future,both branches of Urumqi Glacier No.1 will continue to shrink due to the climate warming； however， differences between the two branches will still exist owing to their topographic differences. The east branch retained a more negative glacier mass balance and a larger thinning rate than the west branch. The ice velocity of both the east and west branches will decrease continuously, but the velocity of the east branch may catch up to and even exceed that of the west branch after some years.With the continuous decrease in the glacier area,the glacier terminus retreat of the east branch may exceed that of the west branch, because the east branch has a lower average altitude and the western-facing direction of the east branch would lead to more ice loss in comparison to the west branch. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This research was jointly fundedby the Third Xinjiang Scientific Expedition Program (2O21xjkkO801),the Youth Innovation Promotion Asociation of Chinese Academyof Sciences (Y2O21110),and the State KeyLaboratory of Cryospheric Science (SKLCS-ZZ-2022).Aditionally，the authors thank the editors and reviewers for their numerous invaluable comments in improving the article. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "BrunF,BerthierE,WagnonP,etal.2Ol7.Aspatiallyresolved estimateofHighMountainAsiaglaciermassbalances from2000 to 2016.Nature Geoscience,1O: 668-673.   \nCarrJ,VieliA,Stokes C,etal.2O15.BasaltopographiccontrolsonrapidretreatofHumboldtGlacier,ortherGrland. Journal of Glaciology,61(225):137-150.   \nDahl-Jensen D,SteffensenJP,Johnsen SJ.1986.Leastsquares methodusedinreductionofdatafromtheodolite measurements on fast moving glaciers.Annals of Glaciology,8: 42-46.   \nDeBeer C,Sharp M.2Oo7.Recent changes in glacier areaand volume withinthe southern Canadian Cordillra.Annalsof Glaciology,46: 215-221.   \nDeBeer C,Sharp M.2o9.Topographic influences onrecent changes ofverysmallglaciersin the Monashee Mountains,British Columbia,Canada. Journal of Glaciology,55(192): 691-700.   \nFarinotti D,Longuevergne L,Moholdt $\\mathbf { G }$ et al.2O15.Substantial glacier mass loss in the Tien Shan over the past 5O years. Nature Geoscience, 8(9): 716-722.   \nFountain A G,Vecchia A.1999.How manystakes are required to measure themass balance ofa glacier?GeograflskaAnaler, 81(4): 563-573.   \nGlen J W,Paren JG.1975.The electrical properties of snow and ice.Journal of Glaciology,15:15-37.   \nHaeberli W,WachterHP,Schmid W,etal.1982.Firstexperiences withthe USGeological Survey—Monopulseradiosoarin thefirn,ice andpermafrostoftheSwisslps(German).EisundPermafrostderSchweizerAlpen,19(1):61-72.(inGerman)   \nHallDK,BayrK,SchnerW,etal.O.Cosiderationofteorsierentinmappinghstorical glacierositiosiAustra from ground and space (1893-2001).Remote Sensing of Environment, 86: 566-577.   \nHanTD,DingYJ,YeBS,etal.2O6.Mass-balancecharacteristicsof Urumqi GlacierNo.1,Tien Shan.China.Aalsof Glaciology,43:323-328.   \nHock R,Jensen H,1999.Applicationofkriging interpolationfor glacier massbalance computations.GeograflskaAnnaler, 81(4): 611-619. giacicl II uIC IICHSHal iviOutaI.   \nIPCC.2019.Summary for Policymakers.In:IPCC Special Report on the Ocean and Cryosphere ina Changing Climate. [2021-10-21]. https://www.ipcc.ch/srocc/.   \nJing ZF,JiaoKQ,YaoTD,etal.2O6.MassBalance andrecessionofUrumqi GlacierNo.1,Tien Shan,China,overthelast 45 years. Annals of Glaciology,43: 214-217.   \nKuhn M,Dreiseitl,E,Hofinger S,etal.1999.Measurementsndmodelsofthe massbalanceofHintereisferner.Geograflska Annaler,81(4): 659-670.   \nKumar L，Skidmore A K,KnowlesE.1997.Modelling topographicvariation in solar radiation ina GISenvironment. International Journal of Geographical Information Science,11(5): 475-497.   \nLi HL,Wang PY,LiZQ,etal.2O22.Anapplicationof three diferent field methods to monitorchanges inUrumqi GlacierNo. 1, Chinese Tien Shan, during 2012-18. Journal of Glaciology, 68(267): 41-53.   \nLi ZQ,Wang WB,ZhangMJ,etal.20l0.Observed changes instreamflowattheheadwatersof the Urumqi River,Easter Tianshan,Central Asia. Hydrological Processes,24(2): 217-224.   \nLi Z Q,LiHL, ChenYN.2O1. Mechanisms and simulation ofacelerated shrinkage of continental glaciers: a case studyof Urumqi Glacier No.1 in Eastern Tianshan,central Asia. Journal of Earth Science,22(4): 423-430.   \nMilesE,McCarthy M,Dehecq A.etal.2O21.Health and sustainabilityof glaciers in High Mountain Asia.Nature Communications,12: 2868,doi.10.1038/s41467-021-23073-4.   \nMurrayT,GoochDL,Stuart GW.1997.Structures within thesurge front at Bakaninbree,Svalbard Using GroundPenetrating Radar. Annals of Glaciology,24:122-129.   \nNarod BB,Clarke G K C.1994. Miniature high-power impulse transmiter forradio-echo sounding. Journal of Glaciology, 40(134): 190-194.   \nNuth C,KaabA.2Ol1.Co-registrationand biascorrectionsof satelite elevationdata sets forquantifying glacierthickess change. The Cryosphere,5(1):271-290.   \nOerlemansJ.1989.Ontheresponse of valey glaciers to climaticchange.In:Glacier Fluctuations and Climatic Change. Netherlands: Springer,353-371.   \nOlson M,Rupper S.2019.Impacts of topographic shading on direct solar radiationforvalley glaciers incomplex topography. The Cryosphere,13: 29-40.   \nPaterson W SB.1994.The Physics of Glaciers ( $3 ^ { \\mathrm { r d } }$ ed.). Oxford: Pergamon Press,109-111.   \nPieczonka T,BolchT,WeiJF,etal.20l3.Heterogeneous mass lossof glaciers intheAksu-TarimCatchment (CentralTen Shan)revealed by1976KH-9 Hexagonand 2009 SPOT-5 stereo imagery.Remote Sensing of Environment,130:233-244.   \nPieczonka T,Bolch T.2015.Region-wide glaciermassbudgetsandarea changes fortheCentralTien Shan between\\~1975and 1999 using Hexagon KH-9 imagery. Global and Planetary Change,128:1-13.   \nRGI Consortium.2017.Randolph Glacier Inventory-A Datasetof Global Glacier Outlines，Version 6.Global Land Ice Measurements from Space.NSIDC:National Snowand Ice Data Center.Boulder,Colorado,USA.doi:10.7265/4mlf-gd79.   \nRobin GDQ.1975.Velocityofradio waves in ice by means ofabore-hole interferometric technique.Journal of Glaciology, 15(73): 151-159.   \nSensorsandSoftware Inc.1994.PulseEKKO100User's GuideVersion1.1.Technical Manual,1994.17.SensorsandSoftware Inc., Mississauga, Canada.   \nSilverioW,Jaquet JM.2005.Glacialcovermapping(1987-1996)of theCordillera Blanca (Peru)usingsateliteimagery. Remote Sensing of Environment,95 (3): 342-350.   \nVaughanDG ComisoJCllsonL,etal.213.Observations: cryospere.In:StockerTF,QinD,PlatnerGK,etal.Cate Change 2013:The Physical Science Basis.Contribution of Working Group Ito the Fifth Assssment Report of the Intergovernmental Panel on Climate Change. Cambridge and New York: Cambridge University Pres,319-382.   \nWang PY,LiZQ,LiHL,etal.2014.Comparisonof glaciologicaland geodetic massbalanceatUrumqi GlacierNo.1,Tian Shan, Central Asia. Global and Planetary Change,114: 14-22.   \nWang PY,LiZQ,LiHL,etal.0l6.AnalysesofrecentobservationsofUrumqi GlacierNo.1,ChineseTanshanMotains. Environmental Earth Sciences,75: 720,doi:10.1007/s12665-016-5551-3.   \nWangPY,LiZQ,ZhouP,etal.2O18.Long-termchange in ice velocityof Urumqi GlacierNo.1,Tian Shan,China.Cold Regions Science and Technology,145: 177-184.   \nWangPY,LiZQ,LiHL,etal..GlaciersinXinjiang,China:pastchangesandcurentstatus.Water,2(9):267,doi: 10.3390/w12092367.   \nWilliamsRS,HallJrDK,ChienJYL.1997.Comparisonof satelite-derived with ground-based measurementsof the fluctuations of the margins of Vatnajokull,Iceland,1973-92.Annals of Glaciology,24:72-80.   \nXu C H,Li ZQ,LiHL,etal.2O19.Long-range terrestrial laserscanning measurementsof anualand intra-aualmass balances for Urumqi Glacier No.1,eastern Tien Shan,China.The Cryosphere,13: 2361-2383.   \nXu X K,PanBL,HuE,etal.20.Responsesof two branchesof Glacier No.1toclimatechange from1993 to 2005, Tianshan,China. Quaternary International,236(1-2):143-150.   \nYaoTD,ThompsonL,Yang W.etal.2O12.Diferent glacier statuswith atmosphericcirculations in Tibetan Plateauand surroundings.Nature Climate Change,2(9): 663-667.   \nYueXY,ZhaoJ,LiZQ,etal.2O17patialandtemporalvarationsofthesurfaceabedondotherfactorsinflencingUrumi Glacier No.1in Tien Shan,China. Journal of Glaciology,63(241): 899-911.   \nZemp M,FreyH,Gärtner-RoerI,etal.2O15.Historically unprecedented global glacierdecline in the early $2 1 ^ { \\mathrm { s t } }$ century. Journal of Glaciology, 61(228): 745-762.   \nZemp M,Huss M,ThbertE,et al.2O19.Global glacier mas changes and theircontributions tosea-level risefrom1961 to 2016.Nature,568:382-386. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

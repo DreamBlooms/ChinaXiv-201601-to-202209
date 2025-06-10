@@ -1,0 +1,186 @@
+# 苦苣苔科镜像花的多样性及演化
+
+卢涛，凌少军，任明迅
+
+(海南大学热带农林学院，环南海陆域生物多样性研究中心，海口570228)
+
+摘要：泛热带分布的苦苣苔科(Gesneriaceae)在我国南方具有极高的物种丰富度与特有率，花部特征变化丰富，是研究物种形成与适应演化的代表类群。镜像花(mirror-image flowers)是极为特化的传粉系统，在苦苣苔科中出现了较多的不同类型，可能与苦苣苔科物种多样性形成与维持有关。本文总结与分析了苦苣苔科镜像花的类型多样性、系统分布与适应演化等，讨论了镜像花对苦苣苔科物种形成与维持的积极意义。结果发现，镜像花仅分布在亚洲和非洲的苦苣苔亚科(Didymocarpoideae)的7个属，在历史上至少发生了5次独立起源。长冠苣苔属(Rhabdothamnopsis)、南洋苣苔属(Henckelia)及长蒴苣苔属(Didymocarpus)镜像花的花柱与可育雄蕊分别向左、右两侧偏转，形成互补镜像花；蛛毛苣苔属(Paraboea)、喜鹊苣苔属(Ornithoboea)、非洲堇属(Saintpaulia)镜像花缺乏与花柱对应侧偏的可育雄蕊(非互补镜像花)；海角苣苔属(Streptocarpus)直立堇兰亚属(subg.Streptocarpella Engler)则同时出现了互补、非互补镜像花。不同于其他被子植物(离瓣花、缺乏花冠筒)，苦苣苔科中的镜像花大多伴随着明显的花冠筒、内藏的雄蕊、合生的花药，以非互补镜像花为主；传粉者以小型的无垫蜂(Amegilla spp.)和熊蜂(Bombus spp.)为主。这些特殊的花部综合征与特化的传粉机制，提高了传粉精确性，可能促进了传粉隔离与物种适应辐射。今后的一个研究重点应通过分子系统发育方法，进一步揭示苦苣苔亚科互补与非互补镜像花的进化顺序及其在物种分化与长距离扩散过程中的可能作用。
+
+关键词：苦苣苔科，镜像花，传粉，合生花药，物种分化  
+中图分类号：Q948 文献标识码：A  
+DOI:10.11931/guihaia.gxzw201812019
+
+# The diversity and evolution of mirror-image flowers in Gesneriaceae
+
+LU Tao，LING Shaojun，REN Mingxun (Center for Terrestrial Biodiversity of the South China Sea, Institute of Tropical Agriculture and Forestry,Hainan University,Haikou 570228,China)
+
+Abstract: Gesneriaceae is a pantropical family with diverse floral traits and forms a diversification and endemism center in Southwest China.Mirror-image flowers,a highly specialized pollination system, were discussed in Gesneriaceae with an emphasis on its diversity, systematic distribution,and evolution. Mirror-image flowers was found in seven genera in the subfamily Didymocarpoideae, among which three genera have reciprocal mirror-image flowers (Rhabdothamnopsis, Henckelia, Didymocarpus) and other three genera possess nonreciprocal mirror-image flowers (Paraboea, Ornithoboea, Saintpaulia). The subg. Streptocarpella Engler of Streptocarpus contains both reciprocal and nonreciprocal mirror-image flowers. Gesneriaceae was dominated by nonreciprocal mirror-image flowers with united anthers and hidden sexual organs in floral tubes, distinctive from the typical mirror-image flowers in other families.The main pollinators to mirror-image flowers in these species are small-bodied bees such as Amegilla spp. These unusual floral traits suggest the mirror-image flowers in Gesneriaceae probably had experienced distinctive evolutionary history. Phylogenetic relationships indicate that mirror-image flowers are restricted to the subfamily Didymocarpoideae, which is endemic to the Old World. According to molecular phylogenetic studies,at least five independent origins of mirror-image flowers were found. The highly-specialized pollination mechanism associated with mirror-image flowers might facilitate pollination accuracy and consequently accelerate speciation rate of Didymocarpoideae. It is suggested that molecular phylogenetic methods can be used to explore the evolutionary relationship of reciprocal and nonreciprocal mirror-image flowers in Gesneriaceae to determine the possible role of evolutionary transitions of these two types of mirror-image flowers in the family's speciation histories and long-distance dispersal.
+
+Key words: Gesneriaceae, mirror-image flowers, pollination, united anthers, speciation
+
+苦苣苔科(Gesneriaceae Rich.& Juss.)共150 余属、3500 余种(韦毅刚,2010;Weber et al.,2013)。传统上，苦苣苔科被分为2个亚科(Burtt,1963；李振宇和王印政,2005)：子叶不等大的苦苣苔亚科(Didymocarpoideae Arm.)和子叶等大的大岩桐亚科(Gesnerioideae Burnett,Outlines Bot.)。前者主要分布在亚洲和非洲热带地区，少量分布于欧洲南部与大洋洲北部;后者则集中分布于美洲，极少数出现在大洋洲。Weber(2013）根据分子系统学结果，增加了1个新的亚科 Sanangoideae A.Weber,J.L.Clark& Mich.Moller(单属单种、南美特有)。
+
+苦苣苔科约在7000 万年前起源于南美洲，约4500 万年扩散至东南亚群岛，逐渐进化成为子房上位、子叶不等大的苦苣苔亚科(Perrett et al.,2012)。之后，在地质变迁和热带季风的作用下，苦苣苔亚科逐渐向西迁移至非洲与欧洲南部、向北扩散至中国南方(姜超等,2017)，并在中国西南丰富的石灰岩地貌作用下形成了物种分化与特有中心(韦毅刚等，2004；李振宇和王印政,2005; Tao et al.,2015)。
+
+在新、旧世界的热带地区，苦苣苔科植物与不同动物区系协同进化产生了多样的传粉适应机制和花部特征，如苦苣苔科的花冠筒类型有坛状、钟状、筒状、细筒状和漏斗状等类型，传粉者包括了鸟、蝙蝠、膜翅目昆虫、鳞翅目昆虫等(Harrison et al.,1999;Perret et al.,2007;Marten-Rodriguez et al.,2010; Roalson & Roberts,2016)。(Harrson et al.,1999; Gao et al.,2005;
+
+Perret et al.,2007; Marten-Rodriguez et al.,2010; Roalson & Roberts,2016; Ling et al.,2017)。其中，镜像花(Mirror-image flowers)是一类非常特化的传粉系统。镜像花是指同一种植物中，花内的花柱或向左或向右偏离花中轴线，形成镜像对称的两种花型；这两种花型通过侧偏的花柱接触昆虫腹部的左右两侧，促进了花型之间的异交传粉(Gao et al.,2005;Ren et al.,2013;Weber etal.,2013)。大部分镜像花都有一个与花柱侧偏方向相反的雄蕊，可称为“互补镜像花”(reciprocal mirror-image flowers)；如缺乏与侧偏花柱相对的雄蕊，则为“非互补镜像花”(nonreciprocal mirror-image flowers) (Jesson & Barrett, 2003)。
+
+镜像花是特化程度非常高的传粉适应机制，也是对环境和传粉者变化极为敏感的传粉系统(钱贞娜等,2016)，可能是传粉隔离和新物种形成与维持的一个重要原因(Ren etal.,2013;Ren，2015；钱贞娜等，2016)。苦苣苔科镜像花集中出现在广布于亚洲和非洲的苦苣苔亚科(Harrison et al.,1999;Gao et al.,2005)，可能有着多次独立起源。与大多数被子植物不同，被子植物镜像花通常以离瓣花为主，雌雄蕊裸露，且多为互补型镜像花类型(张大勇,2004；林玉和谭敦炎，2007)，而苦苣苔科很多物种的镜像花缺乏与花柱对应侧偏的雄蕊(Gao et al.,2005；韦毅刚等,2010)，显示出不一样的传粉适应机制和进化历史，可能是认识苦苣苔亚科物种适应辐射的一个重要内容。本文首先通过总结苦苣苔亚科镜像花的类型与系统分布、主要花部特征与传粉机制，然后分析镜像花物种在最新系统发育树上的分布与进化历史，揭示苦苣苔亚科镜像花的多样性及其在物种分化与适应进化历史中的可能作用。
+
+# 1数据来源
+
+根据《华南苦苣苔科植物》(韦毅刚等,2010)、《中国苦苣苔科植物》(李振宇和王印政，2005)、Flora of China(Wang et al.,1990) (http:/foc.eflora.cn/)以及 the Gesneriad Reference Web(http://www.gesneriads.info/gesneriad-genera/)，查阅苦苣苔科各属的花部特征，判定每个属是否具有镜像花及其类型(互补、非互补镜像花)。
+
+当一个属被确定为具有镜像花之后，首先利用该属属名与关键词“花”和“传粉”一起在中国知网(htp://cnki.net/)进行检索，获取该属各物种相关学术论文，判断各个物种是否具有镜像花及其类型。然后,利用该属拉丁名与关键词"flower"和"pollination"在Web of Science(http://www.webofknowledge.com/)进行检索英文文献，判断检索到的物种是否具镜像花及其类型。同时，结合 theGesneriadReferenceWeb 和中国植物图像库网站(http://www.plantphoto.cn/)检索物种带花照片，结合花部特征进一步判定各个物种有无镜像花及其类型。对每个镜像花物种的地理分布范围及相关花部综合征(可育雄蕊位置、花冠颜色、传粉者类型)等信息收集进行对比分析，以揭示镜像花不同类型是否与某些特定花部特征相关。
+
+# 2镜像花的多样性与系统分布
+
+目前已知苦苣苔科有7个属存在镜像花：长冠苣苔属(Rhabdothamnopsis)、蛛毛苣苔属(Paraboea)、喜鹊苣苔属(Ornithoboea)、南洋苣苔属(Henckelia)、非洲堇属(Saintpaulia)、海角苣苔属(Streptocarpus)及长蒴苣苔属(Didymocarpus)。这些属都属于苦苣苔亚科，集中分布在亚洲、非洲和欧洲南部(Burtt，1963；李振宇和王印政，2005；韦毅刚，2010；Weber et äal.,2013)。
+
+# 2.1长冠苣苔属(Rhabdothamnopsis)
+
+长冠苣苔属是中国特有属，分布于云南、四川、贵州及湖南等地的石灰岩地区(韦毅刚,2010)。该属有1种、1变种，都具互补镜像花(图1:A)。花冠筒钟状或弯曲筒形、花两侧对称、花冠紫色或白色具黄色条纹(蜜导)。可育雄蕊2枚、内藏；花丝生于花冠筒上，花药合生、被髯毛(韦毅刚，2010)。由于花冠筒基部或左或右的弯折，导致花柱位于花冠筒内的或右或左侧面；雄蕊的花丝也扭曲推动合生花药偏向花冠筒另一侧(卢涛和任明迅，个人观察)，形成了互补镜像花。花药与柱头位置均在花冠筒开口附近，传粉者为一种取食花蜜、喙长约lcm 的熊蜂(Bombus sp.) (卢涛，个人观察)。
+
+# 2.2 南洋苣苔属(Henckelia)
+
+根据最新的分子系统学研究结果，南洋苣苔属包括了120多种，唇柱苣苔属原产中国的22种被划入南洋苣苔属(Wang et al.,2011; Weber et al.,2013; Moller et al.,2016；许为斌等,2017)。具有镜像花的有7种都分布于马来西亚，均为互补镜像花(图1:B)。花冠筒钟状或筒形；花冠紫色、蓝色或白色具黄色蜜导。雄蕊2枚、内藏，合生的花药与柱头均位于花冠口开口处。传粉者未知。
+
+# 2.3长蒴苣苔属(Didymocarpus)
+
+长蒴苣苔属共180 余种、其中12 种具有互补镜像花(图1:C)，但花冠筒细筒状或漏斗状筒形，花冠常为鲜艳的紫、红或橙色，无明显蜜导。可育雄蕊2，花丝着生在花冠基部1.5cm 处，花药密被髯毛；退化雄蕊3、不明显，位于花冠基部 $1 \mathrm { c m }$ (韦毅刚,2010)。可育雄蕊的花药与柱头均位于花冠喉部。传粉者未知。
+
+2.4 海角苣苔属(Streptocarpus）直立堇兰亚属(subg.Streptocarpella Engler)
+
+海角苣苔属分布于非洲中部至南部的土坡、石灰岩山地林，共180 余种。海角苣苔属花冠筒状，花冠白、蓝或紫色，蜜导为深紫色。可育雄蕊2枚、花丝细长、花药位于花冠喉部。传粉者为无垫蜂(Amegilla sp.) (Martins,2008)。
+
+海角苣苔属分为两个亚属：堇兰亚属(subg.Streptocarpus Lindl.)、直立堇兰亚属(subg.Streptocarpella Engler) (Smith et al.,1998)。只有直立堇兰亚属5个种具镜像花(图1:D)，其中Streptocarpuspallidiflorus C.B.Clarke 是非互补镜像花，其余 4 个物种为互补镜像花(Harrison et al., 1999)。
+
+![](images/ff6a8688c89c6c0ff3a045b4660913aa20865decec2e0852a362819d0ba9dd12.jpg)  
+图1苦苣苔科的镜像花。  
+Fig.1Mirror-image flowers in Gesneriaceae.
+
+# 2.5非洲堇属(Saintpaulia)
+
+非洲堇属生境为石灰岩山地和溪谷林地，原产非洲中部的坦桑尼亚和肯尼亚，共 20 余种，全部具非互补镜像花(Harrison et al.,1999)。花瓣离生、无明显花冠筒(图1:E)，花瓣平展、辐射对称或略呈两侧对称、花瓣多呈紫色、蓝色或白色。雄蕊2枚，顶端连着，花丝较短，花药较大、颜色鲜艳；雄蕊着生花冠基部，可育花药聚合、位于花冠中央上部 $2 \mathrm { m m }$ 处，侧偏花柱较长。传粉者为无垫蜂(Martins,2008)。
+
+# 2.6蛛毛苣苔属(Paraboea)
+
+蛛毛苣苔属的生境是较为典型的石灰岩山地。广泛分布于东南亚地区，约100 余种(Triboun&Middleton,2012)，其中15 种具镜像花(图1:F)，镜像花类型为非互补镜像花：花柱较长、沿花冠筒内壁弯曲而侧偏；2枚可育雄蕊花丝较短、藏于花冠基部、不侧偏。花冠多为斜钟状、两侧对称、花冠呈紫、蓝或白色，无明显蜜导。传粉者为雄蜂(Bombus sp.)无垫蜂属(Amegilla sp.)、彩带蜂属(Nomia sp.)等(Gao et al.,2005)。
+
+# 2.7喜鹊苣苔属(Ornithoboea)
+
+喜鹊苣苔属生境也多为石灰岩山林下，主要分布于中国南部、中南半岛等地。共17种，均具互补镜像花(图1:G)。花冠斜钟状，两侧对称，花冠呈紫色、蓝色和白色，下唇普遍丛生蓝色或白色髯毛。可育雄蕊2枚内藏，着生于花冠基部 $1 { - } 3 . 5 \ \mathrm { m m }$ 、不侧偏、花丝膨大关节处分叉、花药位于花冠喉部(韦毅刚,2010)。传粉者未知。
+
+# 3苦苣苔科镜像花的特殊性
+
+# 3.1非互补镜像花占优势
+
+在被子植物中，互补镜像花比非互补镜像花更常见(林玉和谭敦炎，2007)。这是因为互补镜像花有一个与花柱侧偏方向相反、互补的可育雄蕊，可以促进这一左一右的雌雄器官在不同花型之间互相传粉，实现了异交传粉的高效进行；而非互补镜像花缺乏这个对应侧偏的可育雄蕊，传粉准确性不如互补镜像花(Barrett et al.,2000; Jesson & Barrett,2002,2003)。因此，非互补镜像花常被认为是直立花柱(原始状态)向互补镜像花进化的中间阶段，在进化上应属不稳定状态(Jesson&Barrett,2002,2003)。
+
+然而，苦苣苔科的镜像花以非互补镜像花为主：非互补镜像花出现在53个物种中，远多于互补镜像花(25 种)(图2:A)。这可能是非互补镜像花在苦苣苔科具有显著的适应意义。首先，仅仅是花柱侧偏带来的适应优势如避免访花者对雌蕊的物理伤害(Duiberger，1981)、避免自交与性别干扰就足以维持非互补镜像花的存在(Jesson&Barrett,2003)；其次，非互补的雄蕊/花药可以适应更多的泛化传粉者，增加花粉被各类传粉者携带的可能性，或位于较低处的雄蕊可诱使访花者延长访花时间，提高了柱头接触传粉者体表花粉的可能性(Jesson&Barrett, 2003)。
+
+花冠颜色通常是吸引和筛选传粉昆虫的重要花部特征(张大勇,2004)。互补镜像花以紫色为主(15 种、占物种数 $6 0 \%$ ，非互补镜像花主要为紫色(24 种)、蓝色(21 种)，分别占比$44 \%$ 、 $3 8 \%$ (图 2:B)。一般而言，紫、黄和蓝色花的主要访花者为蜂类(Grant,1950；张大勇,2004)，表明苦苣苔科镜像花的传粉者可能主要是蜂类。目前的传粉生物学研究也证实了这一点，如海角苣苔属、非洲堇属及蛛毛苣苔属的传粉者都有无垫蜂属昆虫(Gao et al.，2005;Martins,2008)。无垫蜂属昆虫体型较小，通常靠抖动翅膀或吮吸花药开口使花粉从孔裂花药中散布出来(Barrett et al.,2000; Jesson & Barrett,2002,2003)。
+
+# 3.2 花药合生
+
+苦苣苔科的雄蕊多为4，常为2长2短的二强雄蕊(王文采等，1990；李振宇和王印政，2005)。这2长2短的雄蕊往往分别合生在一起(或较短的一对退化)，成为苦苣苔科植物的一个显著特征(李振宇和王印政,2005；任明迅,2008)。在具有镜像花的苦苣苔科7属中，可育花药都合生或紧密聚合在一起(图1)。但在非互补镜像花的一些物种中，出现了花药离生(图2A)。花药合生可以将花内花粉聚集在同一个空间位置，提高了传粉者携带花粉的可能性与准确性，可能是降低花粉浪费、提高传粉效率的一种适应(任明迅,2008;Ren& Tang,2010)。
+
+合生的花药还增强了雄蕊的强度，在传粉者访花过程触碰雄蕊时能维持花药的相对位置(任明迅,2008;Ren& Tang,2010)。而且，苦苣苔科合生花药往往紧贴花冠筒内壁或开口处，花药位置进一步得到稳固，提高了花粉落置在传粉者身体上的专一性，降低了花粉浪费(任明迅,2009)。这可能是非互补镜像花(缺乏与花柱对应侧偏的雄蕊)(图1)保障花药/花粉接触传粉者的一种适应。
+
+![](images/814d88a783a8eabf347df206c11ec3d778afedffdb078d83f0330ff38d367fe0.jpg)  
+图2 苦苣苔科不同类型镜像花的花药类型(A)与花色(B)  
+Fig.2 Anther types (A) and corolla color (B) of mirror-image flowers in Gesneriaceae
+
+# 3.3明显的花冠筒和内藏的雌雄蕊
+
+大多数镜像花的花冠是开放式的离瓣花，雌蕊和雄蕊伸出花冠外(林玉和谭敦炎，2007;Ren et al.,2013)。苦苣苔科的镜像花则往往有着明显的花冠筒(图1)，而且雄蕊与雌蕊多内藏在筒内，柱头与花药位于花冠筒开口处或稍靠下的喉部；仅非洲堇属的花冠筒极度缩短，进而显得花瓣为离生，且雌雄蕊外伸(图1)。
+
+花冠筒可能是促进苦苣苔科非互补镜像花传粉的一种适应。花冠筒的形状及开口大小与朝向能够筛选合适的访花昆虫，限制了进入花内的访花者类型及其在花内的活动，提高了传粉准确性、降低了花粉浪费。为了适应不一样的传粉昆虫，花冠筒的形态不尽相同，如南洋苣苔属、海角苣苔属及长蒴苣苔属的花冠为下唇宽阔的窄筒状，利于小型昆虫降落；而长冠苣苔属、蛛毛苣苔属与喜鹊苣苔属为钟形宽筒状(图1)，可能适应于体型较大的昆虫。非洲堇属具较短花冠筒导致雌雄蕊外露，花药颜色鲜艳起到了引导传粉者的作用，但是与蛛毛苣苔属一样具有蜂振传粉模式(buzz-pollination)(Martins,2008)。
+
+苦苣苔科镜像花的可育雄蕊与雌蕊多藏于花冠筒内或处于喉部(图1)，这使得传粉者必须进入花冠内部才能采集到花粉和花蜜，也保证了花粉落置在昆虫身体上的精确性。内藏的雌雄蕊还避免了访花者降落时对雌雄蕊造成的物理损伤，而这正是镜像花柱受到选择的一个重要原因(Duiberger，1981)。综合而言，内藏雌雄蕊可能与花冠筒一起形成了提高传粉者忠实度、限制传粉者访花行为而提高传粉效率的花部综合征(floral syndromes)，可能促进了非互补镜像花在苦苣苔科中的形成与维持。
+
+# 4苦苣苔科镜像花的演化
+
+苦苣苔科镜像花集中出现在广布于亚洲和非洲的苦苣苔亚科(Harrison et al.，1999;Gaoet al.,2005)，有着多次独立起源。根据苦苣苔科系统发育关系及镜像花类群在系统树上的分布，推测镜像花可能在苦苣苔亚科中发生了至少5次独立进化(图 3)。
+
+同在非洲的非洲堇属与直立堇兰亚属系统关系比较近，直立堇兰亚属同时存在互补、非互补两类镜像花，而非洲堇属仅有非互补镜像花(图3)。从花冠特征来看，直立堇兰亚属和非洲堇属较为近似，都具有极短的花冠筒、平展的花瓣；但直立堇兰亚属的雌雄蕊藏于花冠筒内，而非洲堇属的雌雄蕊外露(图1)。这两个属似乎来自于具有非互补镜像花的共同祖先(Moller & Cronk,1997; Harrison et al., 1999)。
+
+长冠苣苔属与喜鹊苣苔属的系统发育关系较近，中间只有一个不具镜像花的属(图 3)。因此，即使两者的镜像花类型不同，根据最简约法则可以认为这两个属的镜像花有可能是共同起源。南洋苣苔属的互补镜像花、蛛毛苣苔属的非互补镜像花、长蒴苣苔属的非互补镜像花在系统发育树上相距甚远、分散分布(图3)，可能源自独立的进化。
+
+![](images/a9406b1db13c6ce8aa3ef1bd5f3cc2f0aca29e090bab548e83b2a678d09a5542.jpg)  
+图3 苦苣苔科镜像花的系统分布。系统树改自 Moller et al.(2009,2011)。括弧内数字为具有
+
+# 镜像花物种数/该属总物种数。
+
+Fig. 3 The systematic distribution of mirror-image flowers in Gesneriaceae. The phylogeny tree is revised from Moller et al. (2O09,2O11). The data in the brackets are the number of species with mirror-image flowers /No. of total species of the genus.
+
+苦苣苔亚科镜像花的进化历史与其生物地理学分布格局、迁移历史密切相关。苦苣苔亚科是典型的热带植物类群，在亚洲、非洲之间的长距离扩散过程中，进化出多样的花部特征与传粉适应机制。尤其是在亚洲，由于热带季风的强烈作用，苦苣苔亚科大量物种可以扩散至北回归线以北的热带边缘地带(姜超等,2017)，而后在适应局域生境(尤其是石灰岩地貌)、不同传粉者类型的选择压力下分化出丰富的花部特征和不同的镜像花类型(严彩霞等，2013;姜超等,2017)。一些广布种如金虎尾科风筝果属(Hiptage)的镜像花可能在适应地理种群不同体型访花者的选择压力下出现花部特征的分化适应，导致传粉隔离和物种分化(Ren，2015;钱贞娜等,2016)，这可能是苦苣苔亚科物种分化的一个原因。
+
+# 5结语
+
+苦苣苔亚科的镜像花主要是非互补式的镜像花类型，在历史上可能发生过5次独立起源。苦苣苔亚科镜像花往往伴随着合生花药、内藏雌雄蕊、明显花冠筒等花部综合征，反映出苦苣苔亚科较为特化的繁殖适应历史。苦苣苔亚科在中国西南石灰岩地貌区域形成了物种多样性与特有中心，也在支离破碎的东南亚群岛上有着丰富的特有物种。从镜像花这一特化传粉系统角度来分析这些地区物种多样性的形成与维持、物种迁移与适应等有着重要意义。今后的相关研究，可以通过系统发育生物学方法研究互补与非互补镜像花在苦苣苔亚科的进化顺序，揭示镜像花这一特化传粉系统的起源时间、演化历史及其对物种分化的可能作用，解析中国西南石灰岩地区苦苣苔亚科物种多样性分布中心形成与维持机制。
+
+# 参考文献
+
+BARRETT SCH, JESSON LK, BAKER AM, et al.,2OOO. The evolution and function of stylar polymorphisms in flowering plants [J]. Ann Bot, 85 (Suppl.): 253-265.   
+BURTTBL,1963. Studies on the Gesneriaceae of the Old World XXIV: tentative keys to the tribes and genera [J]. Notes Roy Bot Gard Edinb, 24: 205-220.   
+DUIBERGER R,1981. The floral biology of Cassia didymobotrya and C. auriculata (Caesalpiniaceae) [J]. Am JBot, 68(1O): 1350-1360.   
+GAO JY, REN P, YANG ZH, et al., 2O05. The pollination ecology of Paraboea rufescens (Gesneriaceae): a buzz-pollinated tropical herb with mirror-image flowers [J]. Ann Bot, 97(3): 371-376.   
+GRANT V,1950. The flower constancy of bees [J]. Bot Rev,16(7): 379-398.   
+HARRISON CJ, MOLLER M, CRONK QCB, et al.,1999. Evolution and development of floral diversity in Streptocarpus and Saintpaulia [J]. Ann Bot, 84(1): 49-60.
+
+JESSON LK, BARRETT SCH, 2002. Enantiostyly: solving the puzzle of mirror-image flowers [J]. Nature, 417(6890): 707-707.
+
+JESSON LK, BARRETT SCH, 2O03. The comparative biology of mirror-image flowers [J]. Int J Plant Sci, 164(S5): S237-S249.
+
+JIANG C, TAN K, REN MX, et al., 2O17. Effects of monsoon on distribution pattrns of tropicalplants in Asia[J].Chin JPlan Ecol,41(10):1103-1112.[姜超，谭珂，任明迅，等，2017.季风对亚洲热带植物分布格局的影响[J]．植物生态学报，41(10)：1103-1112.]  
+LI ZY,WANG YZ, 2O05. Plants of ‘Gesneriaceae' in China [M]. Zhengzhou: Henan Science andTechnology Press:1-110.[李振宇，王印政，2005．中国苦苣苔科植物[M]．郑州：河南科学技术出版社：1-110.]
+
+LIN Y,TAN DY, 2OO7. Enantiostyly in angiosperms and its evolutionary significance [J]. ActaPhytotax Sin,45(6):901-916.[林玉，谭敦炎，2007．被子植物镜像花柱及其进化意义[J]．植物分类学报，45(6)：901-916.]
+
+LING SJ, MENG QW, TANG L, et al.,2017. Pollination syndromes of Chinese Gesneriaceae: a comparative study between Hainan Island and neighboring regions [J]. Bot Rev, 83(1): 59-73.
+
+MARTEN-RODRIGUEZ S, ALMARALES-CASTRO A, FENSTER CB,et al.,2010. Evaluation of pollination syndromes in Antillean Gesneriaceae: evidence for bat, hummingbird and generalized flowers [J]. JEcol, 97(2): 348-359.
+
+MARTINS DJ,2OO8.Pollination observations of the African violet in the Taita Hills, Kenya [J]. J East Afric Nat Hist, 97(1): 33-42.
+
+MOLLER M, CRONK QCB, 1997. Origin and relationships of Saintpaulia (Gesneriaceae) based on ribosomal DNA internal transcribed spacer (ITS) sequences [J]. Am JBot, 84(7): 956-965.
+
+MOLLER M, PFOSSER M, JANG CG, et al., 20O9.A preliminary phylogeny of the ‘Didymocarpoid Gesneriaceae' based on three molecular data sets: Incongruence with availdable tribal classifications [J]. AmJBot, 96(5): 989-1010.
+
+MOLLER M, FORRESTA, WEI YG, et al., 2011. A molecular phylogenetic assessment of the advanced Asiatic and Malesian didymocarpoid Gesneriaceae with focus on non-monophyletic and monotypic genera [J]. Plant Syst Evol, 292(3-4): 223-248.
+
+MOLLER M, WEI YG, WEN F, et al., 2016. You win some you lose some: updated generic delineations and classification of Gesneriaceae - implications for the family in China [J]. Guihaia, 36(1): 44-60.
+
+PERRETT M, CHAUTEMS A, SPICHIGER R, et al., 20O7. The geographical pattern of speciation and floral diversification in the neotropics: the tribe Sinningieae (Gesneriaceae) as a case study [J].Evolution,61(7): 1641-1660.
+
+PERRETT M, CHAUTEMS A, DEARAUJO AO, et al., 2012. Temporal and spatial origin of Gesneriaceae in the New World inferred from plastid DNA sequences [J]. Bot J Linn Soc, 171(1): 61-79.
+
+QIAN ZN, MENG QW,REN MX, et al.,2016. Pollinatian ecotypes and herkogamy variation ofHiptage benghalensis (Malpighiaceae) with mirror-image flowers [J]. Biodivers Sci,24(12):1364-1372.[钱贞娜，孟千万，任明迅，等，2016．风筝果镜像花的雌雄异位变化及传粉生态型的形成[J]．生物多样性，24(12)：1364-1372.]
+
+REN MX, 2oo8. Stamen fusion in plants: diversity, adaptive significance,and taxonomicimplications [J].Acta Phytotax Sin,46(4): 452-466.[任明迅，2008．植物雄蕊合生的多样性、适应意义及分类学意义初探[J]．植物分类学报，46(4)：452-466.]
+
+REN MX, 2OO9. Intrafloral stamen differentiations and their adaptive significances [J]. Chin J Plan Ecol,33(1):222-236.[任明迅，2009．花内雄蕊分化及其适应意义[J]．植物生态 学报，33(1)：222-236.]
+
+REN MX, TANG JY,2010. Anther fusion enhances pollen removal in Campsis grandiflora, a hermaphroditic flower with didynamous stamens [J]. Int JPlant Sci, 171(3): 275-282.
+
+REN MX, ZHONG YF, SONG XQ, et al, 2013. Mirror-image flowers without buzz pollination in the Asian endemic Hiptage benghalensis (Malpighiaceae) [J]. Bot JLinn Soc,173(4): 764-774.
+
+REN MX, 2O15. The upper reaches of the largest river in Southern China as an ‘evolutionary front' of tropical plants: evidences from Asia-endemic genus Hiptage (Malpighiaceae) [J]. Collect Bot, 34: e003.
+
+ROALSON EH, ROBERTS WR,2016. Distinct processes drive diversification in different clades of Gesneriaceae [J]. System Biol, 65(4): 662-684.
+
+SMITHJF, KRESGE ME,MOLLER M, et al., 1998.A cladistic analysis of ndhF sequences
+
+from representative species of Saintpaulia and Streptocarpus subgenera Streptocarpus andStreptocarpella (Gesneriaceae) [J]. Edinb JBot, 55(1): 1-11.  
+TAO JJ, QI QW, KANG M, HUANG HW, et al., 2015, Adaptive molecular evolution of PHYEin Primulina, a karst cave plant [J]. PLoS One, 10(6): eO127821.  
+TRIBOUN P, MIDDLETON DJ, 2012. Twenty new species of Paraboea (Gesneriaceae) fromThailand [J]. Gard Bull Sing, 64(2): 333-370.  
+WANG WC, PAN KY, LI ZY, et al.,1990. Gesneriaceae [M]. Flora Republicae Popularis Sinicae,Tomus 69.Beijing: Science Press:125-131.[王文采，潘开玉，李振宇，等，1990．苦苣苔科[M]．中国植物志第 69 卷.北京：科学出版社：125-131.]  
+WANG YZ, MAO RB, LIU Y, et al., 2O11. Phylogenetic reconstruction of Chirita and allies(Gesneriaceae) with taxonomic treatments [J]. J Syst Evol, 49(1): 50-64.  
+WEBER A, CLARK JL, MOLLER M, et al., 2013. A new formal classification of Gesneriaceae[J]. Selbyana, 31(2): 68-94.  
+WEI YG, ZHONG SH, WEN HQ,et al., 2004. Studies of the flora and ecology Gesneriaceae inGuangXi Province [J].Acta Bot Yunnanica,26(2): 173-182.[韦毅刚，钟树华，文和群,等，2004．广西苦苣苔科植物区系和生态特点研究[J]．云南植物研究，26(2)：173-182. ]  
+WEI YG, 2010. Gesneriaceae of South China [M]. Nanning: Guangxi Science and Technologypres:68-94.[韦毅刚，2010．华南苦苣苔科植物[M]．南宁：广西科学技术出版社：68-94.]  
+XU WB,GUO J, PAN B, et al., 2017. Diversity and distribution of Gesneriaceae in China [J].Guihaia,37(10):1219-1226.[许为斌，郭婧，盘波，等，2017．中国苦苣苔科植物的多样性与地理分布［J]．广西植物，37(10)：1219-1226.]  
+YAN CX, MA K, XU BQ, et al., 2013. Research advance on Gesneriaceae plant in China [J].Chin HorticulAbs,29(6):64-66.[严彩霞，马凯，徐步青，等，2013．我国苦苣苔科植物研究进展[J]．中国园艺文摘，29(6)：64-66.]  
+ZHANG DY,2004. Plant Life-history Evolution and Reproductive Ecology [M]. Beijing:Science Press:310-331.[张大勇，2004．植物生活史进化与繁殖生态学[M]．北京：科学出版社：310-331.]

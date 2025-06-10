@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "南美天胡萎及其根际土壤水浸提液化感成分分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周旭，胡亚萍，葛晓敏，陈水飞,马方舟，丁晖（生态环境部南京环境科学研究所自然保护与生物多样性研究中心/国家环境保护武夷山生态环境科学观测研究站/武夷山生物多样性综合观测站/国家环境保护生物安全重点实验室,南京210042)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用种子萌发试验、气相色谱-质谱以及液相色谱-质谱物质鉴定的方法，通过分析南美天胡萎不同溶剂浸提液对种子萌发的影响、南美天胡萎植株以及根际土壤浸提液成分，探讨南美天胡萎对其他植物种子萌发是否具有影响以及筛选了影响其他植物的主要化学物质。结果表明：（1）南美天胡萎不同溶剂浸提物均具有一定程度的抑制种子萌发作用;（2）气相色谱-质谱分析下，南美天胡萎植株水浸提液中共鉴定35 种物质，邻苯二甲酸二丁酯 $( 1 5 . 2 \\% )$ ）、10,15-十八烷二元酸 $( 8 . 5 8 \\% )$ 、2.4-二叔丁基苯酚 $( 6 . 8 1 \\% )$ 为主要物质；根际土壤水浸提液中共鉴定17 种成分，油酸酰胺 $( 2 6 . 4 7 \\% )$ 、正二十七烷 $( 9 . 6 3 \\% )$ 、十六酸乙酯$( 4 . 8 3 \\% )$ 为主要物质；（3）液相色谱-质谱分析下，南美天胡募植株水浸提液共鉴定109 种，${ \\mathrm { E S I } } ^ { + }$ 模式下，L-苯丙氨酸 $\\left( 3 ~ 4 8 3 . 9 9 ~ \\mathrm { n g \\cdot m g ^ { - 1 } } \\right.$ ）、木犀草素（ $\\cdot 2 \\ 3 0 6 . 6 4 \\ \\mathrm { n g { \\cdot m g } ^ { - 1 } }$ ）含量最大，ESI模式下，右旋奎宁酸（ ${ \\bf \\zeta } 2 1 ~ 8 2 7 . 7 1 ~ \\mathrm { n g } { \\cdot } \\mathrm { m g } ^ { - 1 } .$ ）、绿原酸（ $1 2 ~ 5 8 9 . 2 5 ~ \\mathrm { n g \\cdot m g ^ { - 1 } } .$ ）含量最大；根际土壤水浸提液中共鉴定93种成分，ESI+模式下，丁酸 $( 7 ~ 6 6 0 . 5 3 ~ \\mathrm { n g } { \\cdot } \\mathrm { m g } ^ { - 1 } )$ ）、棕榈酰胺（ $3 ~ 2 0 0 . 3 6 ~ \\mathrm { n g \\cdot m g ^ { - 1 } } .$ ）含量最大，ESI模式下，正二十八酸（ $1 8 ~ 6 0 5 . 3 5 ~ \\mathrm { n g \\cdot m g ^ { - 1 } } .$ ）、蔗糖（12$1 8 3 . 2 3 ~ \\mathrm { n g \\cdot m g ^ { - 1 } }$ ）含量最大；（4）南美天胡萎的潜在化感物质主要为脂肪酸类、酰胺类、酯类、芳香酸类物质，而直接起化感作用的物质可能为丁酸、正二十八酸、羟基乙酸、油酸酰胺、棕榈酰胺、十六酸乙酯、苯甲酸，其中脂肪酸类物质输入可能来源于南美天胡萎、土壤微生物和土壤动物，酰胺类、酯类、芳香类物质则更可能来源于南美天胡萎植株。关键词：气相色谱-质谱，液相色谱-质谱，化感成分，南美天胡萎",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：Q948.1 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of allelochemicals in water extracts of plant and rhizospheric soil of Hydrocotyle vulgaris ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Xu, HU Yaping, GE Xiaomin, CHEN Shuifei, Ma Fangzhou, DING Hui ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Research Center for Nature Conservation and Biodiversity/ State Environmental Protection Scientific   \nObservation and Reserch Station for Ecological Environment of Wuyi Mountains/ Biodiversity Comprehensive   \nObservation Station for Wuyi Mountains/ State Environmental Protect Key Laboratoryon Biosafety,Nanjing InstituteofEnvironmental Sciences,MinistryofEcologyandEnvironment,Nanjing21oo42,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper,the biological indexes included the relative germinating rate,the index of allelopathic were selected to investigate the effects of different extract solutions of Hydrocotyle vulgaris on seed germination of three test plant species. The chemical constituents extracted by water from the plants and rhizospheric soils of Hydrocotyle vulgaris were analyzed by GC-MS and LC-MS,to explore the main chemical constituents of Hydrocotyle vulgaris which may affect the other plants.The results were as follows: (1) Chemistry components of Hydrocotyle vulgaris in different extracts solutions allinhibited the seed germinating rate of Raphanus sativus,Brassica chinensis, Cucumis sativus,and the inhibition effects were significant for Raphanus sativus.(2)35 and 17 compounds were identified from waters extracts in plants and rhizospheric soils of Hydrocotyle vulgaris by GC-MS. The common organics included Dibutyl phthalate，10,15- Octadecane diacid and 2,4-Di-tert-butylphenol in water extracts of plant. The common organics included Oleic acid amide,N-hexadecane and Ethyl palmitate in the water extract of rhizospheric soil. (3)1O9 and 93 compounds were identified from water extracts of plant and rhizospheric soils by LC-MS. By ${ \\mathrm { E S I } } +$ ，The relative content of L-phenylalanine and Luteolin were the main components in water extract of plant, and the relative content of L-phenylbutyric acid and Palmitamide were the main components in rhizospheric soil. By ESI-,the relative content of Lphenylpropyl dextro-quinic acid and Chlorogenic acid were the main components in water extract of plant, and the relative content of L-phenylpropanoid octadecanoic acid and Sucrose were the main components. (4) Butyric acid, Octadecanoic acid, Glycolic acid, Oleic amide, Palmitamide, Ethyl hexadecanoate, Benzoic acid maybe affect the growing and surving of companion organism directly，which belonged to fatty acids，amides，esters and aromatic acids. Oleic amide, Palmitamide,Ethy hexadecanoate,Benzoic acid may originate in plants or transformed from secretion of plants by soil organisms, and the input pathways of Butyric acid, Octadecanoic acid, Glycolic acid include plants, micro-organisms and soil animals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: gas chromatography mass spectrometry, liquid chromatography mass spectrometry, allelochemicals,Hydrocotyle vulgaris ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "化感作用是指植物或微生物的代谢分泌物对环境中其他植物或微生物产生有利或不利的作用（Rice，1984）。植物通过淋溶、挥发、凋落物及残体分解、根系分泌等方式向土壤或空气中释放化学物质，而释放至土壤中的化学物质通过土壤物理吸附作用和土壤中有机体滞留、运输、转化作用将化感物质汇集至临界浓度，最终促进或抑制伴生物种的正常生长（Kobayashi，2004；Wahren et al.，1998；李广义等，2009；拱健婷和张子龙，2015）。植物化感物质几乎都是植物的次生代谢产物，一般分子量较小，结构较简单，大致分为：水溶性有机酸、直链醇、脂肪族醛和酮；简单不饱和内酯；长链脂肪酸和多炔；醌类；苯甲酸及其衍生物；肉桂酸及其衍生物；香豆素类；内黄酮类；单宁；内萜；氨基酸和多肽；生物碱和氰醇；硫化物和芥子油苷；嘌呤和核苷等14 类（Calleway &Aschehoug，2000）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物化感作用是解释外来物种入侵的重要机制，筛选出影响其他植物生长的化感物质对探究外来物种入侵的影响机制、制定入侵物防控策略有重要作用。紫茎泽兰（Ageratinaadenophora）主要化感物质包括绿原酸、黄烷酮、泽兰二酮、羟基泽兰酮、9-羰基泽兰酮等成分（杨国庆，2006；Lia0 etal.，2015；郭娇，2016；李霞霞等，2017），这类物质可以引导旱稻（Oryza sativa）根细胞丙二醛、过氧化氢酶活动改变，脱落酸、吲哚乙酸等激素水平的生理生化指标失调，还能使旱稻根尖顶端分生组织、皮层薄壁细胞等解剖结构发生改变（Yang et al.，2006; Yang et al.，2008）；土荆芥（Dysphania ambrosioides）主要化感物质包括α-萜品烯和对伞花素（周健等，2016），这两种物质将通过调控ROS 和 NO调控保卫细胞 $\\mathrm { C a } ^ { 2 + }$ 水平的变化而引起蚕豆（Viciafaba）气孔保卫细胞发生Caspase依赖性的细胞凋零（周健等，2016，2017）。化感物质分析方法包括GC-MS 和LC-MC，GC-MS分析在入侵物种化感作用研究中具有较长历史，普遍用于植物挥发物以及植物浸提液化学成分分析（冀晓青等，2012；高远等，2017），但GC-MS分析更适合易挥发物质的鉴定，而LC-MS 则更适合极性和非挥发性物质的鉴定（李坤等，2010；郭修武等，2011），两者单独使用往往不能完全鉴定出植物的化感物质，因此结合GC-MS 和LC-MS 分析可能能更为完善的鉴定筛选植物化感物质。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "南美天胡萎（Hydrocotylevulgaris），伞形科植物，原产于欧洲、北美洲及中美洲地区，引入我国后，常被用于湿地造景（缪丽华等，2011），由于其生物学特征，被评估对我国热带、亚热带湿润区具有较高的入侵风险（缪丽华等，2011；Liu etal.，2014；Donget al.,2015；Yangetal.，2013）。本研究拟结合GC-MS以及LC-MS分析对南美天胡萎以及根际土壤化学成分分析，以期筛选出南美天胡萎分泌至土壤中可能具有化感作用的物质，为进一步研究其化学生态学提供基础数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验植物材料取自南京外港河，选取长势均匀，生长良好，无病虫害的整株南美天胡萎植株，将植物冲洗干净，并置于房间内阴干，用碾磨仪（MixerMillMM400,Retsch",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Germany）将南美天胡萎制备成粉末；土壤材料取自南美天胡萎根际土，取样方法为抖土法（刘辰琛，2011），土壤样品在室内阴干，碾成粉末并过筛备用。受试种子为黄瓜(Cucumis sativus)、萝卜(Raphanus sativus)和青菜(Brassica chinensis) 3种常见受试植物种子（购于南京市星光种业种子公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2南美天胡募不同浸提液的制备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别称取 $\\boldsymbol { 5 } \\mathrm { g }$ 南美天胡萎粉末，以南美天胡萎粉末／各浸提溶剂（蒸馏水、甲醇、乙酸乙酯、正己烷） $= 1 \\mathrm { ~ g ~ / ~ } 4 0 \\mathrm { ~ m l }$ 的比例配置南美天胡募浸提液，摇匀并静置 $^ { 4 8 \\mathrm { ~ h ~ } }$ ，再将浸提液分别用定性滤纸过滤2次，得到的滤液（甲醇浸提液、乙酸乙酯浸提液、正己烷浸提液，水浸提液直接定容至 $2 0 0 ~ \\mathrm { m L }$ ）用旋转蒸发仪（Hei-VAPValue,Heidolph,Germany）减压旋蒸，最终得到浸提物浸膏，将浸膏置于 $8 0 ~ \\mathrm { { ^ circ C } }$ 水浴 $^ { 2 \\mathrm { ~ h ~ } }$ 去除剩余溶剂，再将浸膏刮至200mL蒸馏水中，充分搅拌，得到南美天胡萎浸提悬浊液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3南美天胡萎不同浸提液对种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以黄瓜、萝卜、青菜种子作为受试对象，黄瓜种子选取30粒，杨花萝卜、上海青种子各选取50粒，分别用 $2 \\%$ 高锰酸钾溶液消毒 $1 5 ~ \\mathrm { m i n }$ ，再用蒸馏水冲洗3次，将洗净的种子均匀摆放在铺有2层滤纸、直径为 $9 0 ~ \\mathrm { m m }$ 的培养皿中，分别加 $5 ~ \\mathrm { m L }$ 不同溶剂浸提悬浊液（对照组为蒸馏水），每个处理设置3个重复，最后放置于光照培养箱（GXZ-338A，宁波江南仪器厂）中进行培养。培养条件为光周期：暗周期 $= 1 3 { \\textrm { h } } \\colon 1 1 { \\textrm { h } }$ ；培养温度 $2 7 \\ \\mathrm { { ^ circ C } }$ ，种子萌发以胚根突破种皮为标准。每隔 $2 4 \\mathrm { ~ h ~ }$ 记录一次种子萌发数，并再次加入 $5 ~ \\mathrm { m L }$ 不同溶剂浸提悬浊液，监测时间为 $1 0 \\mathrm { d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4南美天胡募及其根际土水浸提液的制备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别称取 $\\boldsymbol { 5 } \\mathrm { g }$ 南美天胡萎粉末和根际土壤粉末，以南美天胡萎粉末（土壤粉末）：浸提溶剂 $\\mathrm { = } 1 \\mathrm { g } : 4 0 \\ \\mathrm { m L }$ 的比例制备南美天胡萎及其根际土壤水浸提液，浸提溶剂选择蒸馏水，置于摇床上摇匀，并将浸提液分别过滤2次备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5GC-MS分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将南美天胡萎及其根际土壤水浸提液过 $0 . 2 2 ~ { \\mu \\mathrm { m } }$ 有机膜，另外将水浸提液进行冷冻干燥，再用乙酸乙酯进行萃取，过 $0 . 2 2 ~ { \\mu \\mathrm { m } }$ 有机膜，待测。GC-MS 分析采用 Agilent6890N-G5795B 气象色谱-质谱联用仪(美国安捷伦公司)，色谱柱为 Agilient HP-5MS 毛细管柱(30$\\mathrm { c m } { \\times } 0 . 2 5 \\ \\mathrm { c m } { \\times } 0 . 2 5 \\ \\mathrm { \\mu m } )$ ，柱温 $4 0 ^ { \\circ } \\mathrm { C }$ （保留 $2 \\mathrm { m i n }$ ），以 $8 \\mathrm { \\ ^ { \\circ } C \\cdot m i n ^ { - 1 } }$ 升温至 $2 0 0 ^ { \\circ } \\mathrm { C }$ ，保持时间1min，在以 $1 5 ~ \\mathrm { { ^ { \\circ } C \\cdot m i n ^ { - 1 } } }$ 升温至 $2 8 0 ~ ^ { \\circ } \\mathrm { C }$ ，保持 $2 0 ~ \\mathrm { m i n }$ ；载气为高纯He（ $9 9 . 9 9 9 \\%$ ），柱前压$7 . 6 2 \\ \\mathrm { p s i }$ ，载气流量 $1 . 0 ~ \\mathrm { { m L } \\cdot \\mathrm { { m i n } ^ { - 1 } } }$ ，不分流进样，延迟时间 $1 \\mathrm { m i n }$ ，离子源温度为 $2 3 0 ^ { \\circ } \\mathrm { C }$ ，四级杆温度为 $1 8 0 ^ { \\circ } \\mathrm { C }$ ，进样口温度 $2 5 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6LC-MS分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别将南美天胡萎及其根际土壤水浸提液进行冷冻干燥，称取 $5 0 ~ \\mathrm { m g }$ 南美天胡萎和土壤冷冻干样品，加入 ${ 8 0 0 } ~ \\mu \\mathrm { L }$ 甲醇和 $1 0 ~ \\mu \\mathrm { L }$ 内标 $( 2 . 9 ~ \\mathrm { m g } { \\cdot } \\mathrm { m o l } ^ { - 1 }$ ，二氯苯丙氨酸)，将其置于组织研磨仪中 $6 5 ~ \\mathrm { H z }$ 研磨 $4 5 \\mathrm { ~ s ~ }$ ，涡旋混匀 $3 0 \\mathrm { ~ s ~ }$ ，置于 $4 ~ ^ { \\circ } \\mathrm { C }$ 离心机中， $1 2 \\ 0 0 0 \\ \\mathrm { r \\cdot m i n } ^ { - 1 }$ 离心15min，吸取 $2 0 0 ~ \\mu \\mathrm { L }$ 上清液，待LC-MS 检测分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LC-MS 分析采用 Thermo,Ultimate 3000 LC,Orbitrap Elite 液相色谱-质谱联用仪器(美国赛默飞世尔科技公司)，色谱柱采用 Hypersil GOLD $\\mathbf { C } _ { 1 8 }$ 色谱柱， $1 0 0 { \\times } 2 . 1 ~ \\mathrm { m m }$ ， $1 . 9 ~ { \\mu \\mathrm { m } }$ ，色谱分离条件为 $4 0 ~ ^ { \\circ } \\mathrm { C }$ ，流速 $0 . 3 \\mathrm { \\ m L } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ ，流动相组成A：水 $+ 0 . 1 \\%$ 甲酸，B：乙腈 $+ 0 . 1 \\%$ 甲酸，进样量为 $4 \\mu \\mathrm { L }$ ，自动进样器温度 $4 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试种子的萌发率、相对萌发速度以及化感效应指数按以下公式（曾任森，1999；桂富荣等，2011）计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1） $R _ { g } { = } ~ ( M _ { g } / M ) ~ \\times 1 0 0 \\%$ ，其中 $R _ { g }$ 是萌发率， $M _ { f }$ 是萌发种子数， $M$ 是供试种子数;(2) $R _ { r g } \\mathbf { = \\left( { { R _ { t } } / { R _ { c } } } \\right) \\times 1 0 0 \\% }$ ，其中 $R _ { r g }$ 是相对萌发率， $R _ { t }$ 是处理组萌发率， $R _ { c }$ 是对照组萌发率；(3） $R I = ~ ( 1 – R _ { t } / R _ { c } ) ~ \\times 1 0 0 \\$ 或 $R I { = \\ ( R _ { t } / R _ { c } { - } 1 ) \\ \\times 1 0 0 }$ ；其中 $R I$ 是化感效应指数， $R _ { t }$ 是处理组萌发率， $R _ { c }$ 是对照组萌发率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 Excel、SPSS 22.0、Origin 9.0 对数据进行整理、分析以及画图，用单因素方差分析比较不同浸提液处理下种子根苗长的差异显著性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1南美天胡萎不同浸提液对种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相对于对照组，南美天胡萎浸提液对黄瓜种子萌发率影响较小，四种溶剂浸提液处理下的萌发率与对照组相差不大；相较于黄瓜种子，青菜、萝卜种子萌发率的抑制作用更为明显，萝卜受到的抑制作用最为强烈，青菜受到的抑制作用次之（图1）。化感效应指数是衡量浸提液影响强度的重要指标，四种溶剂的南美天胡萎浸提液对黄瓜种子的抑制作用均非常弱（ $\\mid R I \\mid \\leqslant 0 . 0 2 .$ ），而对青菜、萝卜种子的抑制作用较为明显（青菜：「RI最大可达0.81；萝卜：|RI|最大可达0.75）（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e855f285ef3a48a69b87f34b01abea85118c3369e6b32e8f8f679f844226b1dd.jpg",
+        "img_caption": [
+            "图1不同溶剂浸提液对植物种子相对萌发率的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：CS.黄瓜；RS.萝 $\\boldsymbol { \\mathsf { h } }$ ；BC.青菜。不同字母代表显著性差异。下同。 Note: CS. Cucumis sativus;RS.Raphanus sativus; BC.Brassica chinensis.Lettrs represent the degree of significance. The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effect of leach liquors of Hydrocotyle vulgaris by different chemical solvents in relative seed germination rates of 3 plant species ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/78889b6f8b98e884d5968e3026b38d2b10fcc9a32f753126bb5dd510c6bcbe8b.jpg",
+        "img_caption": [
+            "图2不同溶剂浸提液对植物种子相对萌发率化感效应指数的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Effect of leach liquors of Hydrocotyle vulgaris by different chemical solvents in index of allelopathic effect of 3 plant species ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2南美天胡募及其根际土水浸提物的GC-MS分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将南美天胡萎及其根际土壤的水浸提物进行GC-MS分析，图3和图4为两者的总离子流图。根据表1所示，南美天胡萎水浸提液共有效命名了35种有机物，分别属于烷烃类、醇类、酸类、酚类、酮类、糖类以及糖苷类，其中酯类物质含量最多，所占比例达到$3 5 . 3 4 \\%$ ，其次为酸类、醇类，所占比例分别为 $1 3 . 2 6 \\%$ 以及 $1 0 . 1 4 \\%$ ，35种有机物中以邻苯二甲酸二丁酯、10,12-Octadecadiynoic acid、2,4-二叔丁基苯酚、6-[(1E)-3-Hydroxy-1-butenyl]-1,5,5-trimethyl7-oxabicyclo[4.1.0]heptan-3-ol、十六酸乙酯、(6R,7E,9R)-9-Hydroxy-4,7-megastigmadien3-one为主要物质，含量所占比例分别为 $1 5 . 2 \\%$ 、 $8 . 5 8 \\%$ 、 $6 . 8 1 \\%$ 、 $6 . 1 0 \\%$ 、$4 . 5 2 \\%$ 、 $4 . 7 8 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "南美天胡萎根际土壤水浸提液中共有效命名了17种有机物，分别属于烷烃类、烯烃类、酚类、酯类、酰胺类、类，其中酰胺类物质含量最多，所占比例达到 $2 6 . 4 7 \\%$ ，其次以烷烃类、酯类，所占比例分别为 $1 5 . 7 5 \\%$ 、 $1 1 . 9 3 \\%$ ，17种有机物中油酸酰胺最多，所占比例为$2 6 . 4 7 \\%$ ，其次为正二十七烷、十六酸乙酯，所占比例分别为 $9 . 6 3 \\%$ 、 $4 . 3 8 \\%$ 。南美天胡萎及其根际土壤水浸提液中共有物质共8种，分属烷烃类、酯类以及糖类，但共有成分在植株以及土壤中均不为主要成分。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0ae4c7ed81e2ffd6b7ab9e31a59fc46077c295195d9ccbaf690b036233d6156.jpg",
+        "img_caption": [
+            "图3南美天胡菜水浸提物GC-MS总离子色谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Total ion chromatogram of water extract from Hydrocotyle vulgaris by GC-MS ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/61c992a898397172a19784c1a83b683cc3f49dbcec2a5494a306b73f33063c5b.jpg",
+        "img_caption": [
+            "图4南美天胡菜根际土水浸提物总离子图",
+            "Fig.4 Total ion chromatogram of water extract from rhizosphere soils by GC-MS "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/13fea0cfc111beef809c0a0a58b2c472cac8749bbb82780fad4d49bcf5ba7f81.jpg",
+        "table_caption": [
+            "表1南美天胡募与其根际土水浸提物GC-MS分析结果",
+            "Table 1 Component of water extractive from Hydrocotyle vulgaris and rhizosphere soils by GCMS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类别 Type</td><td rowspan=\"2\">共有化合物 Common component</td><td colspan=\"2\">植株水浸提液 Water extract of plants</td><td colspan=\"2\">根际土壤水浸提液 Water extract of rhizosphere soils</td></tr><tr><td>组分 Component</td><td>比例 Percentage</td><td>组分 Component</td><td>比例 Percentage</td></tr><tr><td>烧烧nes</td><td>3-乙基-5- (2-乙 基）十八烷 Octadecane,3-ethyl- 5-（2.2-丙二基） 二 氧基]双十八烷1,1'- [(1,2-Propanediyl) bisoxy]bisoctadecane</td><td>三甲基（苯乙氧基）硅烷 Trimethyl (phenethythio) silane; 1,1' - [ （1,2-丙二 基）二氧基]双十八烷 1-[(1,2-Propanedi) bisoctadecane; 3-乙基-5- （2-乙基）十八烷 Octadecane,3-ethyl-5-(2- ethyl); 1,1' - [ （1,3-丙二</td><td>5.44</td><td>2,6,10-三甲基十四烷2,6,10-trimethyl tetradecane; 6-甲基十六烷 6-methyl hexadecane;3-乙基-5-(2-乙基丁基)-十八 烷3-ethyl-5-(2-ethylbutyl) -octadecane;正 基）（1 Propanediyl)bisoxy] bisoctadecane;1,1'- [（1,3-丙二基）二氧基]双十八烷1,1- [(1,3-Propanediyl) bisoxy] bisoctadecane;</td><td>15.75</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b0b584ce5b0c4c02b6e7c6d0b6a11776df1d2ac6bbd3da457fcb3fcd52f3cab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">烯烃</td><td colspan=\"2\">基）二氧基]双十八烷 1,1'-[(1,3-Propanediyl) bisoxy] bisoctadecane 2-十六醇 2-hexadecanol;</td><td rowspan=\"2\">十八烷 Octasiloxane,1,1,3,3,5,5,7,7,9,9,11,11,13,, 15,15Hexadecamethyl- 苯并环丁烯 Benzocyclobutene;17-戊三胺 1.98 17-Pentatriacontene</td></tr><tr><td>Alkenes</td><td></td><td>3-十二烷醇 3-dodecanol; 人参炔醇 Panaxynol; 6- [（1e）-3-羟基-1-丁烯 基]-1,5,5-三甲基-7-恶双环 [4.1.0]庚-3-醇 6-[(1E)-3- Hydroxy-1-butenyl]-1,5,5- trimethyl7-oxabicyclo [4.1.0] heptan-3-ol; 2-亚甲 基-5α-胆固醇-3β-醇 2- Methylene-5α-cholestan- 3β-ol;6-[（1e）-3-羟基-1-</td></tr><tr><td>醇 Alcohols</td><td>丁烯基]-1,5,5-三甲基 7-恶 双环[4.1.0]庚-3-醇 6- [(1E)-3-Hydroxy-1- butenyl]-1,5,5-trimethyl7- oxabicyclo [4.1.0] heptan- 3-ol;（5Z，7E）-25 - [（三甲基硅烷基）氧基] -9,10-断胆甾-5,7,10 （19）-三烯1,3β二醇</td><td>10.14 [(Trimethylsilyl)oxy]-9,10-</td><td></td></tr><tr><td></td><td>2-甲基已酸2- 八碳二炔酸10,12- octadecadiynoic acid</td><td>triene-1,3β-diol 酸Genhexeaoic id, 12 13.26 12,15-十八碳二炔酸甲酯</td><td></td></tr><tr><td></td><td>Methyl 12,15- 十六酸乙酯 Ethyl palmitate；（Z） -9- 十八碳二烯酸 3- （十八烷基）丙酯 (Z)-9- Octadecenoicacid 3- (octadecyloxy)propyl</td><td>octadecanedionate;10,13- 十八碳二炔酸甲酯 Methyl 10,13-octadecanedionate; (E)-3,7-二甲基-2.6-辛二烯 醇(E)-3,7-dimethyl-2.6- octanediol; 3-甲基丁酸酯 3-methyl butyrate;邻苯二 甲酸二丁酯 Dibutyl</td><td>十六酸乙酯 Ethyl palmitate;(Z)-9-十八酸 3-(十八烷基)丙酯 (Z)-9-Octadecenoic acid</td></tr><tr><td>sters</td><td>3-十六2基二 酸酯1,2- Propadediol.3), diacetate; N-[24-氧 代-3α，7α，12α-三 甲基硅氧基-5β-胆 -24-基4甘氨酸甲 3α,7α,12α- tris(trimethylsiloxy)- 5β-cholan-24- -乙酸盐5,5,8a- yllglycine methyl ester Trimethylhexahydro-2H-</td><td>Pthyl pae: 十六酸乙酯 异丁酸三甲基硅酯 Tri酸e(,siis，e; 35.34 6，7，8-八氢-3，8，8-三 甲基萘-2-基）甲酯 Acetic acid, 31.2 yl) methyl ester; 5,5,8a-三 甲基六氢-2h-铬-4a（5h）</td><td>3-（醇， Propanediol,3-(hexadecyloxy)-,1,2- 基 11.93 Dihydroxy-1-octadec-9'-enyloxypropane; N-[24-氧代-3α，7α，12α-三甲基硅氧基- 5β-胆甾-24-基]甘氨酸甲酯N-[24-Oxo-</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/117bc34efef06e6ff04229feda053d3ee7b99ce4ca3fb6ee72ffe4fbd97d7190.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>2.5-</td><td>rel-9-十八烯酸[（2s*）- 2α*-苯基-1,3-二氧戊环]- 4α*-基甲基酯 rel-9- Octadecenoic acid [(2S*)- 2α*-phenyl-1,3-dioxolane]- 4α*-ylmethyl ester; 2.5-十八碳二烯酸甲酯 Octadecadiynoicacidmethyl ester;1,2-丙二醇，3-（十 六烷基）-二乙酸酯 1,2- Propanedio 1,3- (hexadecyloxy)-diacetate; (Z）-9-十八烯酸 3-十八 酰氧基丙酯 (Z)-9- Octadecenoic acid 3- (octadecyloxy） propyl ester; N-[24-氧代-3α, ，1-2氨基</td><td></td></tr><tr><td>OPhenols</td><td>2,4-二叔丁基苯酚 2,4-di-tert-</td><td>cholan-24-yllglycine methyl ester 2,4-二叔丁基苯酚 2,4-di-</td><td>6.81 2,4-二叔丁基苯酚2,4-di-tert-butylphenol</td><td></td></tr><tr><td>tones</td><td></td><td>47日 4,7-megastigmadien3-one; 6-羟基-4,4,7a-三甲基- 5,6,7,7a7-四氢苯并呋喃-2 （4h）-酮6-Hydroxy- 4,4,7a-trimethyl-5,6,7,7a7- tetrahydrobenzofuran-</td><td>6.59</td><td></td></tr><tr><td>酰胺 Amides</td><td></td><td>11-one</td><td></td><td>油酸酰胺 Oleic acid amide 26.47</td></tr><tr><td>糖 Carbohydrates</td><td>DL-阿拉伯糖 DL- Arabinose</td><td>DL-阿拉伯糖 DL- Arabinose;D-(+)-甘露糖 D-(+)-mannose</td><td>DL-阿拉伯糖 DL-Arabinose</td><td>0.54</td></tr><tr><td>糖苷 Glycosides</td><td></td><td>洋地黄毒甙Digitalis glycoside;脱硫苷 Desulfosinigrin</td><td>2.61</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3南美天胡萎与其根际土壤水浸提液LC-MS分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正离子模式下，植物水浸提液中以氨基酸及其衍生物、酚酸、黄酮类物质为主，氨基酸及其衍生物，物质含量达到 $6 \\ 4 9 5 . 5 0 \\ \\mathrm { n g \\cdot m g ^ { - 1 } }$ ，酚酸类物质含量为 $2 \\left. 6 5 1 . 1 6 \\mathrm { n g \\cdot m g ^ { - 1 } } \\right.$ ，黄酮类物质含量为 $2 ~ 3 0 6 . 6 4 ~ \\mathrm { n g \\cdot m g ^ { - 1 } }$ ，含量较大的物质为L-苯丙氨酸、咖啡酸以及木犀草素，相对含量分别为3483.99、2045.91、 $2 ~ 3 0 6 . 6 4 ~ \\mathrm { n g \\cdot m g ^ { - 1 } }$ ；根际土壤中以脂肪酸类物质为主要物质，相对含量达到 $1 0 ~ 5 6 1 . 5 5 ~ \\mathrm { n g { \\cdot m g } ^ { - 1 } }$ ，其次含量较大物质包括胺类物质、维生素类物质，相对含量分别为3 200.36、2 989.29 ng:mg-l，土壤水浸提液中含量较大的物质为丁酸、棕榈酰胺以及苯乙烯，相对含量分别为7660.53、3200.36、 $2 7 0 4 . 1 3 \\mathrm { n g } \\cdot \\mathrm { m g } ^ { - 1 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "负离子模式下，植物水浸提液以二元酸类、酚酸类、糖类以及衍生物为主，相对含量分别为 23 455.88、16 959.38、11 570.66 ng:mg，其中相对含量较大的物质为右旋奎宁酸、苹果酸以及绿原酸，相对含量分别为21827.71、12369.30、 $1 2 ~ 5 8 9 . 2 5 ~ \\mathrm { n g { \\cdot m g } ^ { - 1 } }$ ；对应根际土壤中以脂肪酸、糖类及衍生物类化合物为主要物质，相对含量分别为19 801.71、12945.74 ng·mg-1，其中含量较大的物质包括正二十八酸、蔗糖以及维生素A酸，相对含量分别为18 605.35、12 183.23、 $8 ~ 1 8 7 . 7 5 ~ \\mathrm { { n g } { \\cdot } \\mathrm { { m g } ^ { - 1 } } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/75fd90c667e22834b192423a1d7421c73fb4f715a63e369f87f0202a60deef13.jpg",
+        "img_caption": [
+            "图5南美天胡萎水浸提液LC-MS总离子流图（ $\\mathrm { E S I + }$ ）） Fig. 5 Total ion chromatogram of water extract from Hydrocotyle vulgaris by LC-MS (ESI+) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebedcf46f506436a3395c56ca3b0a7d2e836d0be00adea4f6d1c977a59c9864f.jpg",
+        "img_caption": [
+            "图6南美天胡萎水浸提LC-MS总离子流图（ESI-) Fig. 6 Total ion chromatogram of water extract from Hydrocotyle vulgaris by LC-MS (ESI+) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/94f6498fb3e6da9c5988f8ac6efa3c6ae61bab6164f8e4bc8b1f2699475b80b4.jpg",
+        "img_caption": [
+            "图7根际土壤水浸提液LC-MS总离子流图（ $\\mathrm { \\ E S I + ) }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Total ion chromatogram of water extract from rhizosphere soils by LC-MS $( \\mathrm { E S I + } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/49f30a07eab9636e50824be25430caaf86d808f51b6148a6f1c6d6da7a57394a.jpg",
+        "img_caption": [
+            "图8根际土壤水浸提液LC-MS总离子流图（ESI-) Fig. 8 Total ion chromatogram of water extract from rhizosphere soils by LC-MS (ESI-) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d983758dd5f3e62714f5f58249de8a1ceb2fbaacd1e9ba1f05c0b7808799b7ac.jpg",
+        "table_caption": [
+            "表2南美天胡募与其根际土水浸提物LC-MS分析结果（ $\\mathrm { E S I } +$ ） Table 2 Component of water extractive from Hydrocotyle vulgaris and rhizosphere soils by LCCA "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">共有化合物</td><td colspan=\"2\">MS(ESI+) 植株水浸提液</td><td colspan=\"2\">根际土壤水浸提液</td></tr><tr><td rowspan=\"3\">类别 Type</td><td rowspan=\"3\">Common component L-丙氨酸 L-alanine; L-</td><td>Water extract of plants 组分</td><td>含量</td><td>Water extract of rhizosphere soils 组分</td><td rowspan=\"3\">含量 Content (ng:mg-1)</td></tr><tr><td>Component</td><td>Content (ng·mg-1)</td><td>Component</td></tr><tr><td>L-丙氨酸L-alanine; L-精</td><td></td><td>L-丙氨酸L-alanine;L-亮氨 酸L-leucine;L-脯氨酸 L-</td></tr><tr><td>物 Amino acids and their derivatives</td><td>氨基酸及其衍生亮氨酸L-leucine;L-脯 氨酸L-proline;L-苏氨 酸L-threonine;L-络氨 酸L-cytidine;焦谷氨酸 Pyroglutamic acid; L-组</td><td>氨酸L-arginine;L-天冬 氨酸L-aspartic acid; L- 亮氨酸l-leucine;L-蛋氨 酸L-Methionine;L-脯氨</td><td>6 495.50</td><td>Proline；L-苏氨酸L- threonine；L-络氨酸 L tyrosine；焦谷氨酸</td><td>2 325.93 Pyroglutamic acid;L-组氨酸</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ae36fc98ce810ed3a6165375e7a3c4dc2c096f4910262bb58a6ace03cbc170b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>phenylalanine；L-氨 酸L-valine</td><td>Pyroglutamic acid; L-组 氨酸L-histidine;L-苯丙 氨酸 L-phenylalanine; L-</td><td></td><td>valine</td><td></td></tr><tr><td>酰胺类</td><td>棕榈酰胺 Palmitamide</td><td>缬氨酸L-valine 棕氨胺PaL-guamaidene</td><td>939.93</td><td>棕榈酰胺Palmitamide</td><td>3 200.36</td></tr><tr><td>倍半萜类 Sesquiterpenes</td><td>缬草烯酸Valerianoic acid</td><td>缬草烯酸Valerianoic acid</td><td>28.68</td><td>草烯酸 Valerianoic acid</td><td>467.79</td></tr><tr><td>芳香酸类 Aromatic acids</td><td>苯甲酸 Benzoic acid; 苯乙酸Phenylacetic</td><td>苯甲酸 Benzoic acid;苯 乙酸 Phenylacetic acid</td><td>65.46</td><td>苯甲酸 Benzoic acid;苯乙酸 Phenylacetic acid</td><td>186.35</td></tr><tr><td>酚enols</td><td>acid 苯酚 Phenol</td><td>没食子儿茶素</td><td>373.17</td><td>苯酚 Phenol</td><td>1 050.71</td></tr><tr><td>酚酸类</td><td>咖啡酸 Caffeic acid;薰</td><td>Phenol 咖啡酸 Caffeic acid；绿 酸Chaniieicded:</td><td></td><td>咖啡酸 Caffeic acid;薰草酸 Vanillicacid;水杨酸</td><td>501.94</td></tr><tr><td>核苷及碱基</td><td>草酸Vanillic acid；水 杨酸 Salicylic acid</td><td>杨酸 Salicylic acid</td><td>2 651.16</td><td>Salicylic acid</td><td></td></tr><tr><td>and Bases Nucleosides</td><td>yp thne尿嘧 Uracil;腺嘌呤 Adenine</td><td>鸟HyGuanine; Uracil;腺嘌呤 Adenine</td><td>330.77</td><td>次黄嘌呤 Hypoxanthine；尿 嘧啶Uracil;腺嘌呤Adenine</td><td>930.66</td></tr><tr><td>Pavoids</td><td>木犀草素Luteolin</td><td>木犀草素Luteolin</td><td>2 306.64</td><td>木犀草素Luteolin</td><td>2.68</td></tr><tr><td>销酯类 Sphingosides</td><td>D-鞘氨醇</td><td>D- D-鞘氨醇 D-sphingosine</td><td>31.19</td><td>D-鞘氨醇 D-sphingosine</td><td>101.37</td></tr><tr><td>三萜类</td><td>sphingosine 酪霉酸Tyrosilic acid</td><td>酪霉酸 Tyrosilic acid</td><td>821.01</td><td>酪霉酸 Tyrosilic acid</td><td>2.34</td></tr><tr><td>萜类 Triterpenoids</td><td>对聚伞花素</td><td>对聚伞花素 Paracyanidin</td><td>62.39</td><td>对聚伞花素Paracyanidin</td><td>41.00</td></tr><tr><td>Terpenoids 糖类及其衍生物</td><td>Paracyanidin</td><td></td><td></td><td></td><td></td></tr><tr><td>Sugars and Their Derivatives</td><td></td><td>栀子酸 Gardeniac acid</td><td>198.94</td><td></td><td>0.00</td></tr><tr><td></td><td></td><td>维生素 D3 Vitamin D3;</td><td></td><td></td><td></td></tr><tr><td>生素</td><td>维生素 D3 Vitamin D3;</td><td>烟酰胺 Nicotinamide；尼 克酸 Nicotinic acid;维生</td><td></td><td>维生素D3VitaminD3;烟酰</td><td></td></tr><tr><td>Vitamin</td><td>烟酰胺Nicotinamide;</td><td>素 B5 Vitamin B5；维生</td><td>701.80</td><td>胺Nicotinamide；尼克酸</td><td>2 989.29</td></tr><tr><td></td><td>尼克酸Nicotinic acid</td><td>素 B2 Vitamin B2；核黄</td><td></td><td>Nicotinic acid</td><td></td></tr><tr><td>C 无机酸</td><td></td><td>素Riboflavin</td><td></td><td></td><td></td></tr><tr><td>Inorganic acids</td><td>磷酸 Phosphoric acid</td><td>磷酸 Phosphoric acid</td><td>9.59</td><td>磷酸 Phosphoric acid</td><td>338.05</td></tr><tr><td>香豆素类</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Coumarins</td><td>香豆素Coumarin</td><td>香豆素Coumarin</td><td>107.42</td><td>香豆素Coumarin</td><td>10.08</td></tr><tr><td>脂肪酸类</td><td>醋酸 Acetic acid;亚麻 酸 Linolenic acid;丁酸</td><td>醋酸 Acetic acid;亚麻酸 Linolenicacid；丁酸</td><td></td><td>醋酸Acetic acid；亚麻酸</td><td></td></tr><tr><td>Fatty Acids</td><td>Butyrate; 亚油酸 Linoleic acid；油酸</td><td>Butyrate;B-环糊精 B- cyclodextrin；亚油酸</td><td>1 429.99</td><td>Linolenic acid; 丁酸 Butyrate；亚油酸Linoleic</td><td>10 561.55</td></tr><tr><td></td><td>Oleic acid 鞘氨醇 Sphingosine；溶</td><td>Linoleic acid；油酸 Oleic acid</td><td></td><td>acid;油酸 Oleic acid</td><td></td></tr><tr><td></td><td>血磷脂胆碱（16:0） LysoPC(16:0)；溶血磷</td><td>鞘氨醇 Sphingosine；溶 血磷脂胆碱（16:0）</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>鞘氨醇 Sphingosine；血磷脂</td><td></td></tr><tr><td></td><td></td><td>LysoPC(16:0);</td><td></td><td>胆碱(16:0)LysoPC(16:0)；溶</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>溶血磷脂乙酰胺</td><td></td><td></td><td></td></tr><tr><td></td><td>脂乙酰胺（0:0/16:0）</td><td></td><td></td><td>血磷脂乙酰胺 (0:0/16:0)</td><td></td></tr><tr><td>脂类</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>LysoPE(0:0/16:0);溶血</td><td>(0:0/16:0)</td><td></td><td>LysoPE(0:0/16:0)；溶血磷脂</td><td></td></tr><tr><td></td><td></td><td></td><td>1 056.76</td><td></td><td>14.54</td></tr><tr><td>lipids</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>LysoPE(0:0/16:0)；溶血</td><td></td><td></td><td></td></tr><tr><td></td><td>磷脂乙酰</td><td>胺</td><td></td><td>乙酰胺 (0:0/18:2(9Z,12Z)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>LysoPE(0:0/18:2(9Z,1Z);</td><td></td></tr><tr><td></td><td>(0:0/18:2(9Z,12Z))</td><td>磷脂 乙</td><td>酰 胺</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>(0:0/18:2(9Z,12Z)</td><td></td><td>MG(0:0/24:1(15Z)/0:0);</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>LysoPE(0:0/18:2(9Z,12</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>LysoPE(0:0/18:2(9Z,12Z)</td><td>MG(18:3(9Z,12Z,15Z)/0:0/0:</td><td></td></tr><tr><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/78a7400018e6e2302f629ca5ba979f757650be5c2376b6c14ef2d2e3ee17eebe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">其他 Others</td><td>MG(18:3(9Z,12Z,15Z)/ 0:0/0:</td><td>MG(18:3(9Z,12Z,15Z)/0: 0/0:；对香豆蔻酰奎宁酸 p-Coumaroyl quinic acid 吲哚indole；六氢吡啶</td><td rowspan=\"3\">吲哚indole；六氢吡啶 Hexahydropyridine；喹啉 Quinoline；维生素A 酸 4720.56</td><td rowspan=\"3\"></td></tr><tr><td>吲哚 indole;六氢吡啶</td><td>Hexahydropyridine；喹啉 quinoline；维生素A酸</td></tr><tr><td>Hexahydropyridine；喹 啉Quinoline;维生素A 酸 Vitamin A acid;苯</td><td>2 132.55 Vitamin Aacid;苯乙烯 Vitamin Aacid;苯乙烯 Nicone; L-烟碱L- Styrene</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6f0808dec277203c0b3ea6e3461b2142d1013306c32523b1a6c8426cbddfdd.jpg",
+        "table_caption": [
+            "表3南美天胡萎与其根际土水浸提物LC-MS分析(ESI-)",
+            "Table 3 Component of water extractive from Hydrocotyle vulgaris and rhizosphere soils by LC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">MS(ESI-)</td></tr><tr><td rowspan=\"2\">类别 Type</td><td rowspan=\"2\">共有化合物 Common component</td><td colspan=\"2\">南美天胡萎水浸提液 Water extract of Hydrocotyle vulgaris</td><td colspan=\"2\">根际土壤水浸提液 Water extract of rhizosphere soils</td></tr><tr><td>组分 Component</td><td>含量 Content (ng · mg-1)</td><td>组分 Component</td><td>含量 Content (ng · mg-1</td></tr><tr><td>氨基酸及其衍 生物 Amino acid and its derivatives</td><td>L-亮氨酸L-leucine; L-酪 氨酸L-tyrosine; L-焦谷 氨酸L-pyroglutamic acid;L-氨酸L-valine</td><td>L-胱硫醚 L-cystathionine; L-亮氨酸L-leucine;L-苏 氨酸L-threonine;L-色氨 酸L-tryptophan;L-酪氨酸 L-tyrosine; L-焦谷氨酸 L- pyroglutamic acid; L-苯丙</td><td>10 130.54</td><td>L-亮氨酸 L-leucine; L- 酪氨酸 L-tyrosine;L- 焦谷氨酸 Pyroglutamic acid;L-氨酸L-valine</td><td>442.65</td></tr><tr><td>L00 倍半萜类 OSesquiterpenes 9 元酸 Polyacids</td><td>草烯酸 Valerianoic acid</td><td>草oiacid Hydroxyvalerianoic acid 乌头酸 Aconitic acid</td><td>274.90</td><td>草烯酸Valerianoic acid</td><td>792.86</td></tr><tr><td>元酸 protic acids</td><td>己二酸 Adipic acid; 2-十 二烯二酸 2-Dodecenoic acid;十六烷二酸 Hexadecanedioic acid；顺 丁烯二酸 Maleic acid;苹</td><td>2-异丙基苹果酸2- Isopropyl malic acid;己二 酸Adipic acid;柠苹酸 Limonic acid; 2-十二烯 二酸 2-Dodecenoic acid; 十六烷二酸</td><td></td><td>己二酸 Adipic acid;柠 苹酸Limonic acid; 2-十二烯二酸 2- dodecenoic acid;十 六烷二酸</td><td></td></tr><tr><td>芳香酸类</td><td>Malonicacid;琥珀酸 Succinic acid</td><td>顺丁烯二酸 Maleic acid; 苹果酸 Malic acid;丙二 酸 Malonic acid;琥珀酸 Succinic acid 苯甲酸 Benzoic acid;苯乙 酸 Phenylacetic acid</td><td></td><td>Maleic acid;苹果酸 Malic acid；丙二酸 Malonic acid;琥珀 酸 Succinic acid 苯甲酸 Benzoic acid</td><td></td></tr><tr><td>酚类ols</td><td>5-羟基-1-(4-羟基-3-甲氧 基-环-)3--5-</td><td>（+）-没食子儿茶素（+）- Gall catechin；儿茶素 Catechin；苯酚 Phenol；对 -4H甲- 己基)癸-3-酮 5-Hydroxy-1-</td><td>5 111.90</td><td>5-羟基-1-(4-羟基-3-甲 氧基-环基)癸-3-酮 hydroxy-3-methoxy-</td><td>82.75</td></tr><tr><td>酚酸类</td><td>咖啡酸 Caffeic acid;阿</td><td>(4-hydroxy-3-methoxy- cyclohexyl) decyl-3-one 咖啡酸 Caffeic acid;绿原 酸 Chlorogenic acid；阿魏 酸 Ferulic acid;没食子酸 魏酸Ferulic acid;水杨酸 Gallic acid;2.5-二羟基苯</td><td></td><td>咖啡酸 Caffeic acid;阿 魏酸 Ferulic acid;水杨</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbbd44ca297849a8ddacbf232b4ba2d1d55d94799b756fc0ef64cd1a8e1c9341.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Shikimic acid</td><td colspan=\"5\"></td></tr><tr><td></td><td>次黄呤Hypoxantine；</td><td></td><td>386.55</td><td></td><td>呤</td><td>10.02</td></tr><tr><td>黄酮类 Flavonoids</td><td>芹菜素Apigenin</td><td>芹菜i草</td><td>297.96</td><td>芹菜素 Apigenin</td><td></td><td>956.28</td></tr><tr><td>羟基酸</td><td>羟基乙酸 Glycolic acid;</td><td>Gentiopicrin 羟基乙酸 Glycolic acid;托</td><td></td><td>羟基乙酸 acid；托品酸Tropic</td><td>Glycolic</td><td></td></tr><tr><td>Hydroxylic acid 三萜类</td><td>托品酸 Tropic acid</td><td>品酸 Tropic acid 酪霉酸Tyrosilic acid</td><td>581.33</td><td>acid</td><td></td><td>4948.87</td></tr><tr><td>Triterpenoids 糖类及其衍生</td><td>酪霉酸 Tyrosilic acid D-葡萄糖醛酸 D-</td><td>D-葡萄糖醛酸 D-</td><td>99.33</td><td>酪霉酸 Tyrosilic acid D-葡萄糖醛酸D-</td><td></td><td>4.54</td></tr><tr><td>物 Seriraiand their</td><td>Glucuronic acid;甘露醇 Mannitol; L-(-)-阿拉伯糖</td><td>Glucuronic acid；甘露醇 Mannitol;L-(-)-阿拉伯糖 sil-aSuol肌醇</td><td>11570.66</td><td>Glucuronic acid;甘露 醇 Mannitol; L-(-)-阿拉</td><td></td><td>12945.74</td></tr><tr><td>维生素 酰胺</td><td>L-(-suol肌醇 泛酸 Calcium</td><td>泛钙 Calcium</td><td>458.03</td><td>泛酸钙</td><td>Calcium</td><td>4.09</td></tr><tr><td>amides 10</td><td>L-谷氨酰胺L-glutamine</td><td>L-谷氨酰胺L-glutamine 亚麻酸 Linolenic acid；辛</td><td>605.06</td><td>L-谷氨酰胺 glutamine 亚麻酸 Linolenic acid;</td><td>L-</td><td>20.90</td></tr><tr><td>OFatty Acids 306 脂肪酸类</td><td>亚麻酸Linolenic acid;亚 油酸 Linoleic acid；棕榈 酸 Palmitic acid;硬脂酸 Steari acid; 油酸 Oleic</td><td>酸 Bitter；二十二碳六烯酸 Docosahexaenoic acid;亚 油酸Linoleic acid;硬脂酸 teric candi i酸</td><td>4705.66</td><td>亚油酸 Linoleic acid; 棕榈酸 Palmitic acid; 硬脂酸 Stearic acid;正 +cAcid; </td><td></td><td>19801.71</td></tr><tr><td>)；溶血磷脂酰乙醇胺</td><td>溶血磷脂酰乙醇胺 (0:0/16:0) LysoPE(0:0/16:0)；溶血 磷脂酰乙醇 胺 (y0/PE:(09Z,122Z)</td><td>Oleic acid 溶血磷脂胆碱(14:0) LysoPC(14:0)；溶血磷脂胆 碱(15:0) LysoPC(15:0); LysoPE(0:0/16:0)；溶血磷 脂 酰 乙 醇 胺 (18:3(9Z,12Z,15Z)/0:0) E0:0821 7025.20</td><td></td><td>酸 Oleic acid 溶血磷脂酰乙醇胺 (0:0/16:0) LysoPE(0:0/16:0)；溶血 磷脂酰乙醇胺 (0:0/18:2(9Z,12Z))</td><td></td><td></td></tr><tr><td>P物tormones 植物生长素</td><td>(18:3(9Z,12Z,15Z)/0:0) LysoPE(18:3(9Z,12Z,15Z )/0:0); MG(0:0/15:0/0:0)</td><td>(18:3(9Z,12Z,15Z)/0:0) LysoPE(18:3(9Z,12Z,15Z)/ 0:0）； MG(0:0/15:0/0:0); MG(0:0/18:2(9Z,12Z)/0:0); MG(P-18:0e/0:0/0:0)</td><td></td><td>(18:3(9Z,12Z,15Z)/0:0) LysoPE(18:3(9Z,12Z,1 5Z)/0:0); MG(0:0/15:0/0:0)</td><td></td><td>2900.84</td></tr><tr><td>Auxins</td><td></td><td>赤霉素A99 Giberelin</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"7\"></td><td></td><td></td><td>3078.94</td><td></td><td></td><td>0.00</td></tr><tr><td></td><td>生长素Auxin</td><td>63.42</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>茉莉酸 Jasmonic acid;对</td><td>茉莉酸 Jasmonic acid；对</td><td></td><td>生长素Auxin</td><td></td><td>188.18</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>香豆酰奎宁酸 P-coumaric</td><td></td><td>茉莉酸 Jasmonic acid;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>对香豆酰奎宁酸P-</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>香豆酰奎宁酸 P-</td><td>quinic acid；右旋奎宁酸</td><td></td><td>coumaric quinic acid;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他rs</td><td></td><td></td><td>25532.69</td><td></td><td></td><td>11490.84</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1南美天胡萎不同浸提液的萌发抑制作用",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明， $2 5 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 不同溶剂的南美天胡萎浸提液对青菜与萝卜均有抑制作用，这与杨琴琴等（2013）研究结果一致，说明南美天胡萎具有抑制其他植物种子萌发的能力，而南美天胡萎对黄瓜种子的抑制作用较弱与其研究结果不同则可能是由于南美天胡萎浸提液浓度较其选用的浓度 ${ 5 0 } \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 更低的原因。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2南美天胡菜及其根际土壤水浸提液成分比较",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "化感物质是化感作用的主要载体，物质成分几乎都是植物的次生代谢产物，分子量较小，结构较简单，通常被认为能通过根系分泌、雨水淋溶、残枝腐解等方式释放至土壤，这些物质往往具有能够通过物理或者化学作用影响其他植物生长的能力，或者通过土壤微生物活动转化成具有能够通过物理或者化学作用影响其他植物生长的能力（孙庆花等，2016；郭晓燕等，2018；Bonanomi et al.，2006；Fermandez et al.，2008），因此本研究采取分析植株以及根际土壤水浸提液化学成分探讨南美天胡萎影响其他植物的可能物质。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由于土壤中化学物质成分最终直接作用于其他生物，因此本文将比较分析土壤中主要成分以及植物、土壤共有主要成分。其中酯类、氨基酸类物质在土壤中含量明显减少，而脂肪酸类、酰胺类、酚类、核酸和碱基类、维生素类、芳香酸类、羟基酸类以及糖类物质在土壤中含量明显增加。酯类、脂肪酸类、酰胺类、酚类、芳香酸类、维生素类、羟基酸类物质在土壤中含量较多，并且这些种类的物质已被证明具有化感作用（谢东峰等，2018;李光等，2017；高云霞等，2011；董颖娜等，2018），另外在以往的研究中酚酸类物质通常是重要的化感物质（李培栋等，2010），因此尽管土壤中酚酸类物质减少，判断酚酸类物质是否是南美天胡萎的主要化感物质仍需要进一步的验证。分析南美天胡萎水浸提液和根际土壤水浸提液具体物质，土壤水浸提液中物质主要包括油酸酰胺、正二十七烷、十六酸乙酯、棕榈酰胺、醋酸、丁酸、苯甲酸、羟基乙酸、正二十八酸、维生素 A酸，油酸酰胺是芦苇叶中重要的化感成分（叶小齐等，2016），丁酸是黄菖蒲、杉木枯枝落叶中主要化感物质（陈国元等，2013；刘学芝，2006），棕榈酸、亚油酸是重要的化感物质（舒俊等，2016），与其相关的棕榈酰胺可能是南美天胡萎根际土壤中重要的化感物质，而正二十八酸则被报道对富营养化水体藻类具有抑制作用（张胜花，2009），羟基乙酸可能是露珠杜鹃林下土壤中的化感物质（李朝婵等，2018），十六酸乙酯、2,4-二叔丁基苯酚已被验证具有化感作用（舒俊等，2016），毛红椿落叶腐解物中主要成分则是苯甲酸（郭晓燕等，2018）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "土壤水浸提液主要物质中，丁酸、正二十八酸、羟基乙酸属于脂肪酸类，油酸酰胺、棕榈酰胺属于酰胺类，十六酸乙酯属于酯，苯甲酸为芳香酸类，正二十七烷属于烷烃类，通过对比植株与土壤水浸提液主要物质，土壤水浸提液中主要物质在植株水浸提液中含量均不高，因此土壤中可能存在转化或者其他输入过程。土壤脂肪酸主要来源于植物、微生物和土壤动物（Otto＆ Simpson，2005），根际土壤中脂肪酸含量明显高于植株中含量，说明土壤中脂肪酸的输入途径不仅仅是植物源，微生物和土壤动物可能是输入的重要来源，另外植物分泌的酯类物质的分解同样也可能是土壤脂肪酸输入的一个途径。油酸酰胺、棕榈酰胺是土壤水浸提液中主要成分，然而植物水浸提液中鉴定出大量的油酸和棕榈酸，尽管土壤中油酸酰胺和棕榈酰胺的合成动力学尚不清楚，但植物源油酸和棕榈酸可能成为土壤中酰胺类物质的来源。十六酸乙酯在土壤和植物水浸提液中均有较大的含量，因此土壤中十六酸乙酯的一个重要输入可能来源于南美天胡萎植株。烷烃类物质是土壤中重要物质，并且植物中烷烃类物质较少，而烷烃类物质相对稳定，因此正二十八烷的输入来源可能并不是南美天胡萎。芳香酸类物质在植株中含量较少，但植株中含有大量的酚类和酚酸类物质，土壤中苯甲酸可能来自于植株的输入。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "因此，对比分析南美天胡萎植株水浸提液和根际土壤水浸提液化学物质，脂肪酸类、酰胺类、酯类、芳香酸类可能是南美天胡萎的潜在化感物质，丁酸、正二十八酸、羟基乙酸、油酸酰胺、棕榈酰胺、十六酸乙酯、苯甲酸则可能是南美天胡萎根际土壤中直接影响其他植物的化学物质，其中脂肪酸类物质包括丁酸、二十八酸以及羟基乙酸输入来源不仅是南美天胡菜植株，微生物和土壤动物输入可能占更大比例，酰胺类、酯类、芳香酸类物质包括油酸酰胺、棕榈酰胺、十六酸乙酯、苯甲酸则可能主要依靠南美天胡萎植株输入。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献： BONANOMI G, SIEUREZZA MG, CAPORASO S,et al.， 2006. Phytotoxicity dynamics of decaying plant materials[J]. New Phytol, 169(3): 571-578. CALLAWAY RM, ASCHEHOUG ET,20O0. Invasive plants versus their new and old neighbors: a mechanism for exotic invasion [J]. Science,29O: 521-523. CHEN GY,LI QS, TANG K, 2013. Alelopathic effect of organic acids from Iris pseudacorus L. on microcystis aeruginosa [J]. Environ Sci Technol, 9 $: 3 2 - 3 6 + 7 1$ .[陈国元，李青松，唐凯，   \n2013．黄菖蒲有机酸组分对铜绿微囊藻的化感作用［J]．环境科学与技术，9：32- $3 6 + 7 1$ .] DONG BC,WANG JZ,LIU RH, et al.,2013. Effects of heterogeneous competitor distribution and ramet aggregation on the growth and size structure of a clonal plant [J]. PLoS ONE, 8(7) : e68557 DONG BC,WANG JZ, LIU RH, et al.，2015. Soil heterogeneity affects ramet placement of Hydrocotyle vulgaris [J]. Plant Ecol, 8(1): 91-100. DONG YN, FENG B,WANG BX, et al.， 2018. Allelopathy of aqueous extract of cattail on Microcystis aeruginosa[J].Chin JEcol,37(2):498-505.[董颖娜，冯彬，王冰璇，等，   \n2018．香蒲水浸提液对铜绿微囊藻的化感作用[J]．生态学杂志，37(2)：498-505.] FERNANDEZ C, VOIRIOT S, MEVY JP, et al., 2OO8. Regeneration failure of Pinus halepensis, mill: The role of autotoxicity and some abiotic environmental parameters[F]. For Ecol Environ, 255(7): 2928-2936. GAO Y,LI GP, SHI H, et al., 2017. Allelopathic effect of endophyte-infected Achnatherum sibiricum on Stipa grandis[J].Acta Ecol Sin,37(4): 1063-1073.[高远，李隔萍，施宏，等,   \n2017．感染内生真菌的羽茅大针茅的化感作用[J]．生态学报，37(4)：1063-1073.] GAO YN,LIU BY,GEFJ,et al.,2011. Isolationand identificationof alelopathic fatty acids exuded from thre submerged hydrocharitaceae species[J]. Acta Hydrobiol Sin,35(1): 170-   \n174.[高云霓，刘碧云，葛芳杰，等，2011．三种水鳖科沉水植物释放的脂肪酸类化感 物质的分离与鉴定[J].水生生物学报，35(1)：170-174.] GONG JT, ZHANG ZL, 2O15. Research advance on influencing factors of plant allelopathy[J]. J Biol,32(3):73-77.[拱健婷，张子龙，2015．植物化感作用影响因素研究进展［J]．生 物学杂志，32(3)：73-77.] GUI FR, JIANG ZL, JIN JB, et al. 2011. Allelopathic effect of Ageratina adenophora on seed germination of nine herbaceous species[J]. JBiosafety,20(4): 331-336.[桂富荣，蒋智林, 金吉斌，等，2011．紫茎泽兰化感作用对9 种草本植物种子萌发的影响[J]．生物安全 学报，20(4)：331-336.] GUO J，2O16.Effects of mechanical damage and biocontrol factors on the contents of allelochemicals from the rhizosphere of Ageratina adenophora Sprengel [J]. Yangzhou: Yangzhou University.[郭娇，2016．机械损伤和生防因子对紫茎泽兰根际化感物质的影 响[D]．扬州：扬州大学.] GUO XW,LI K, SUN YN, et al., 2011. Allelopathic effects and identification of allelochemicals in grape root exudates[J].JFruit Sci,37(6): 861-868.[郭修武，李坤，孙英妮，等，2011. 葡萄根系分泌物的化感效应及化感物质的分离鉴定［J]．果树学报，37(6)：861-868.] GUO XY，WEN T，ZHANG L，et al.，2018. Allelopathy and chemical composition of decomposing products from leaf litter of Toona ciliate var. pubescens [J]. Sci Silv Sin,   \n54(6):24-32.[郭晓燕，温婷，张露，等，2018．毛红椿落叶腐解物的化感作用及成分 [J]．林业科学，54(6)：26-32.] JI XQ,HAN XT, YANG BJ, et al., 2012. Analysis on alllochemicals in the cell-free filtrates of Amphidinium carterae[J].Acta Ecol Sin,32(6): 1745-1754.[冀晓青，韩笑天，杨佰娟，等，   \n2012．强壮前沟藻化感物质分析[J]．生态学报，32(6)：1745-1754.] KOBAYASHI K, 2004. Factors affecting phytotoxic activity of allelochemicals in soil [J]. Weed Biol Manag, 4(1):1-7. LI CC, QIANG CY, QUAN WX, et al., 2018. Allelopathic potential evaluation of different soil decomposition layers in wild Rhododendron irroratum forest[J]. Acta Ecol Sin, 38(13):   \n4909-4916.[李朝婵，钱沉鱼，全文选，等，2018．野生露珠杜鹃不同分解层的土壤化 感潜力［J]．生态学报，38(13)：4909-4916.]   \nLI GY, HOU XW, DENG X, et al., 2009. Effects of microorganisms on the allelopathy of three invasive weeds[J].Ecol Environ,18(3):1045-1048.[李光义，候宪文，邓晓，等，2009. 微生物对三种入侵杂草化感作用的影响[J]．生态环境学报，18(3)：1045-1048.]   \nLI G, BAI WB, CAO CL, et al., 2017. Effects of continuous cropping duration of sorghum on components of root exudates and contents of allelochemicals[Jj. Chin J Ecol, 36(12): 3535- 3544.[李光，白文斌，任爱霞，等，2017．高梁不同连作年限对其根系分泌物组成和 化感物质含量的影响[J]．生态学杂志，36(12)：3535-3544.]   \nLI K, GUO XW, GUO YS,et al., 2010. Alelopathy of grape root aqueous extracts[J]. Chin J Appl Ecol,21(7):1779-1784.[李坤，郭修武，郭印山，等，2010．葡萄根系浸提液的化感作 用［J]．应用生态学报，21(7)：1779-1784.]   \nLI PD, WANG XX, LI YL, et al., 2010. The contents of phenolic acids in continuous cropping peanut and their allelopathy[J].Acta Ecol Sin,30(8): 2128-2134.[李培栋，王兴祥，李弈 林，等，2010．连作花生土壤中酚酸类物质的检测及其对花生的化感作用［J]．生态学 报，30(8)：2128-2134.]   \nLI YJ, CHEN S,LI CY, et al., 2Oo8. Isolation and identification of alllochemicals from Mikania micrantha [J].JSChin Agric Univ,29(4): 26-30.[李拥军，陈实，李春远，等，2008．薇 甘菊化感活性成分的分离与鉴定［J]．华南农业大学学报，29(4)：26-30.]   \nLI X，ZHANG QD，ZHU XZ， 2017. Progress of the research on invasive plant species Eupatorium adenophorum over the last decade[J]. Pratac Sci, 34(2): 283-293. [李霞霞，张 钦弟，朱珣之，2017．近十年入侵植物紫堇泽兰研究进展［J]．草业科学，34(2)： 283-293.]   \nLIAO F, HU YC, WU 1, et al., 2015. Induction and mechanism of HeLa cell apoptosis by 9-oxo10,11-dehydroageraphorone from Eupatorium adenophorum[J]. Oncol Rep, 33(4): 1823- 1827.   \nLIU XZ,2Oo6.Alelopathy of Chinese fir litter by bioassy and identification in different decomposition stage [D]. Fuzhou: Fujian Agriculture and Forestry university.[刘学芝， 2006．杉木枯枝落叶不同分解阶段黄安物质生物评价与鉴定[D]．福州：福建农林大 学.]   \nLIU CC, 2011. $\\mathrm { N O } _ { 3 } \\mathrm { \\mathrm { ~ } } ^ { - } \\mathrm { N }$ concentration in rhizosphere soil solution and leaching characteriristics in typical crops [D].Baoding:Hebei Agricultural University.[刘辰琛，2011．典型作物根际 土壤溶液硝态氮浓度及淋失特征研究[D]．保定：河北农业大学.]   \nLIU RH, CHEN QW, DONG BC, et al., 2014. Effects of vegetative propagule pressure on the establishment of an introduced clonal plant, Hydrocotyle vulgaris [J]. Sci Rep, 4(1): 5507- 5562.   \nMIU LH, JI MC, WANG YY, et al., 2O11. Study on invasion risk of Hydrocotyle vulgaris as an alln species in wetlands [J].J Zhejiang Univ (Agric Life Sci),30(3): 354-358.[缪丽华，季 梦成，王莹莹，等，2011．湿地外来植物香菇草(Hydrocotyle vulgaris)入侵风险研 究［J]．浙江农林大学学报(农业与生命科学版)，30(3)：354-358.]   \nOTTA A， SIMPSON MJ，2O05.Degradation and preservation of vascular plant-derived biomarkers in grassand and forest soils from western Canada[J]. Biogeochemistry,74(3): 377-409.   \nRICE EL,1984.Allelopathy [M]. New York: Academica Press.   \nSHU J, CHENG XR, YU MK, et al., 2016. Effect of mowing on Miscanthus floridulus allelopathy and secondary metabolites [J].Acta Agrect Sin,24(1):76-83.[舒骏，成向荣，虞木奎，等， 2016．刘割对五节芒化感作用及次生代谢物质的影响［J]．草地学报，24(1)：76-83.]   \nSUN QH, ZHANG C, LIU GB, et al., 2016. Allelopathy of extracts from the pioneer population, Artemisia capillaries, during succession of the herbaceous community in the hilly-gully region of loess plateau[J].Acta Ecol Sin,36(8): 2233-2242.[孙庆花，张超，刘国斌，等， 2016．黄土丘陵区草本群落演替中先锋种群茵陈蒿浸提液的化感作用[J]．生态学报， 36(8): 2233-2242.]   \nWAHREN J, FELIG P, CERASI E, et al.,1998. The role of soil community in plant population dynamics: Is allelopathy a key component? [J]. Trend Ecol Evolut, 13(10): 407.   \nXIE DF, ZHANG GC, XIA XX, et al., 2018. Efect of phenolic acids on the growth and photosynthesis of Populus $\\times$ euramericana‘Neva’ [J]. Acta Ecol Sin, 38(5): 1789-1798. [谢东峰，张光灿，夏宣宣，等，2018．不同浓度酚酸对欧美杨Ⅰ-107 苗木生长和光 合特性的影响［J]．生态学报，38(5)：1789-1798.]   \nYANG GQ, 2O06.Main allelochemicals isolated and identified from the leachates of Ageratina adenophora Sprengel (Asteraceae） and their action mechanisms on Upland Rice (Oryza sativa) seedlings [J].Peking: Chinese Academy of Agricultural Science.[杨国庆，2006．紫 茎泽兰淋溶主效化感物质的分离鉴定及其对旱稻幼苗的作用机理[D]．北京：中国农业 科学院.]   \nYANG GQ,LIU WX，WAN FH, et al.， 2006. Physiological effects of alllochemicals from leachates of Ageratina adenophora (Spreng.) on rice seedlings[J]. Allelopathy J,18(2): 237- 246.   \nYANG GQ,LIU WX, WAN FH, et al., 2008. Influence of two allelochemicals from Ageratina adenophora Sprengel on ABA, IAA and ZR contents in rooys of upland rice seedlings[J]. Allelopathy J, 21(2): 253-262.   \nYANG QQ, MIU LH, HONG CT, et al., 2013. Allelopathic effects of Hydrocotyle vulgaris extract on seed germination and seedling growth[J]. J Zhejiang A & F Univ, 30(3): 354-358. [杨琴琴，缪丽华，洪春桃，等，2013．香菇草水浸提液对3种植物种子萌发和幼苗生 长的化感效应［J]．浙江农林大学学报，30(3)：354-358.]   \nYANG QQ,MIU LH,HONG CT, et al.， 2013. Allelopathic effects of Hydrocotyle vulgaris extract on seed germination and seedling growth [J]. J Zhejiang A&F Univ, 30(3): 354-358. [杨琴琴，缪丽华，洪春桃，等，2013．香菇草水浸提液对3 种植物种子萌发和幼苗生 长的化感效应[J].浙江农林大学学报，30(3)：354-358.]   \nYE XQ，WU M, SHAO XX, et al., 2016. Analysis on allelopathic activity and screening on potential allelopathic compound in water extracts from leaf of Phragmites australis [J]. J Plant Resour Environ,25(2):41-47.[叶小齐，吴明，邵学新，等，2016．芦苇叶水提物 的化感活性分析及潜在化感成分的筛选［J]．植物资源与环境学报，25(2)：41-47.]   \nZENG RS,1999. Review on bioassay methods for alelopathy research[J]. Chin J Appl Ecol, 10(1):123-126.[曾任森，1999．化感作用研究中的生物测定方法综述［J]．应用生态学 报，10(1)：123-126.]   \nZHANG SH，2009. Studieson the allelopathy between two speciesof submerged Potamogetonaceae and planktonic algae [D]. Wuhan: Institute of Hydrobiology，Chines Academy of Sciences.[张胜花，2009．两种眼子菜科沉水植物与浮游藻类之间的化感作 用研究[D]．武汉：中国科学院水生生物研究所.]   \nZHAO XM, 2009. The effect of continuous cropping on the growth of American ginseng and allelochemical [D].Peking: Peking Union Medical College.[赵晓萌，2009．连作对西洋参 生长发育的影响及根际化感物质的研究[D]．北京：中国协和医科大学.]   \nZHOU J, MA DW, CHEN YT, et al., 2016. Effects of volatile allelochemicals from Chenopodium ambrosioides on the stoma guard cells in leaf epidermis of Vicia faba[J]. Guihaia, 36(8):963- 968.[周健，马丹炜，陈永甜，等，2016．土荆芥挥发性化感物质对蚕豆叶表皮细胞的 影响[J]．广西植物，36(8)：963-968.]   \nZHOU J，WANG YN，MA DW，et al.， 2017. Volatile allechemicas from Chenopodium ambrosiodes L. induced guard cells apoptosis and its signal regulation in Vicia faba L.[J]. Acta Ecol Sin,37(17):5713-5721.[周健，王亚男，马丹炜，等，2017．土荆芥挥发性化 感物质诱导蚕豆保卫细胞死亡及信号调节[J]．生态学报，37(17)：571 3-5721.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

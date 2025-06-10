@@ -1,0 +1,212 @@
+# 胜任需要挫败的“双刃剑”效应及干预策略：
+
+# 行为和认知神经科学视角\*
+
+方慧1付辉建²张慧君²(1广东金融学院工商管理学院,广州，510521)(广东工业大学管理学院,广州，510520)
+
+摘要胜任需要挫败是指个体觉得自己很失败或者感觉不能胜任工作。随着知识经济的快速发展，越来越多的新生代知识型员工在工作中遭受了短期或长期的胜任需要挫败。在经历胜任需要挫败后，员工在后续的工作中会越挫越勇还是一蹶不振？如果员工会越挫越勇，如何强化这一积极效应？如果员工会一蹶不振，如何规避这一消极后果？已有研究无法清晰地解答这些问题。因此，本研究基于自我决定理论，综合运用行为实验、认知神经科学实验和现场试验的方法，依次考察短期和长期的胜任需要挫败对后续任务自主动机的跨期影响，进而探讨并检验组织层面的发展性反馈、自主性支持以及个体层面的成就目标导向等干预策略的有效性。研究结果拓展了胜任需要挫败和自主动机的相关研究，有助于指导企业对员工的胜任需要挫败问题进行科学管理和干预，有益于员工有效应对胜任需要挫败，充分激发其自主工作动机。
+
+关键词 神经管理学,胜任需要挫败，自主动机，自我决定理论,事件相关电位技术
+
+分类号 B849； C93
+
+# 1问题的提出
+
+“VUCA时代”的到来意味着市场较工业时代变得更加动荡、不确定、复杂和模糊，企业之间的竞争更为激烈。因此，现代企业对员工尤其是新生代知识型员工提出了更高的要求。新生代知识型员工经常面临多样化的、具有挑战性和不确定性的工作任务，在工作过程中容易遭遇各种挫折并遭受胜任需要
+
+挫败。胜任需要是一项基本心理需要，胜任需要挫败是指个体觉得自己很失败或者感觉自己不能胜任工作(Bartholomew etal.，2010)。例如，当员工反复修改的设计方案依然被主管否定时，员工可能产生很失败的感觉，开始怀疑自己是否能胜任设计工作。已有研究显示，工作不安全感、阻碍性工作压力、工作挑战性过大、苛责管理、负面反馈、聚焦个体的批评和社会比较等是诱发胜任需要挫败的重要因素(Bartholomew et al.,2014; Deci et al.,2017; Trepanier et al., 2016;Vansteenkiste et al.，2020）。工作场所的胜任需要挫败会给员工和组织带来较多负面后果。对于员工而言，胜任需要挫败会导致消极情绪(Bartholomew et al.,2014;Gunnell et al.,2013;Unanue et al.,2017)、抑郁症状(Van den Broeck et al.,2016)、不健康状况(Chen et al.,2015)和不幸福感(Gillet et al.,2012)等。对于组织而言，胜任需要挫败会增加员工的反生产行为、降低员工的工作投入和自主动机(Bartholomew etal.,2014)，进而负向影响创新能力和组织绩效。
+
+随着知识经济的快速发展，新生代知识型员工的胜任需要挫败已经成为普遍存在的社会心理现象，并逐渐引起研究者的重视。过往研究主要考察了在当前任务中胜任需要挫败对员工和组织所造成的负面影响(Bartholomew et al.,2014; Gillet et al.，2012; Gunnell et al.，2013; Unanue et al.,2017)，但缺乏对胜任需要挫败的跨任务影响的探讨。现实工作场景中，员工往往需要连续完成一系列不同的工作任务，员工的基本心理需要挫败（如自主需要挫败）会影响其参与后续任务的动机水平和注意力选择(Radel etal.,2014;Radel etal.,2011; Sheldon& Gunz,2009;Strack&Deutsch,2004)。例如，个体在遭受短暂的自主需要挫败后，渴望恢复自身的自主感，在后续任务中会更加关注与自主相关的刺激(Radeletal.,2013)。因此，也有必要深入探讨员工在前面任务中遭受的胜任需要挫败是否以及如何影响其在后续任务中的心理或行为表现。
+
+自主动机是激励领域的重要概念，指个体因兴趣、享受从事某一活动的乐趣或因坚定的信念而自愿从事某些行为的动机(Deci&Ryan,2000)。例如，当个体主动牺牲闲暇时间修改设计方案并发自肺腑地热爱其设计工作，乐于投入时间和精力，则意味着个体对工作的自主动机较强。已有研究表明，员工的自主动机能预测工作绩效、员工建言行为、主动性行为和创新行为等积极的行为和结果（陈戈等，2020；侯烜方,卢福财，2018；杨勇等，2020；张建卫等，2020)。随着新生代知识型员工逐渐成为职场的主力军和组织的核心人力资源，如何激发他们的活力，保护和提升其自主工作动机，是企业人力资源管理者和理论研究者面临的重要而紧迫的任务。从自主动机的成因来看，现有研究揭示了员工特征、自主性支持环境以及工作特征等因素对自主动机的影响，但鲜有研究考察跨任务情境下胜任需要挫败如何影响自主动机。
+
+个体遭受短暂的基本心理需要挫败后，存在恢复基本心理需要满足的动机和过程，且恢复过程不受自身认知过程的控制(Sheldon&Gunz,2009;Strack &Deutsch,2004)。基于此，短期的胜任需要挫败对后续任务存在积极的恢复效应，可能会正向影响后续任务的自主动机。Radel,Pelletier 和 Sarrazin（2013）发现，经历短暂的自主需要挫败的个体在后续的任务中对自主相关的刺激更加敏感。根据自我决定理论，个体遭受长期的基本心理需要挫败后，更倾向于采取措施对基本心理需要挫败进行补偿，例如寻找需求的替代品，从而更加关注外在的目标、放松自我控制并形成不良行为等(Vansteenkiste&Ryan,2013)。研究者发现，持续的自主需要挫败降低个体参与后续任务的自主动机水平(Fang et al.,2020)。基于此，长期的胜任需要挫败会引发个体的补偿行为，进而可能负向影响后续任务的自主动机。综上所述，本研究预测，短期和长期的胜任需要挫败对后续任务的自主动机存在“双刃剑”效应。
+
+因此，本研究以基本心理需要中的胜任需要为切入点，考察短期和长期的胜任需要挫败对后续任务自主动机的影响，并试图从组织层面和个体层面寻求胜任需要挫败的干预策略，以期为企业管理者对员工的胜任需要挫败问题进行管理和干预提供指引。
+
+# 2研究现状
+
+# 2.1胜任需要挫败的定义和相关研究
+
+自我决定理论（Self-Determination Theory）认为个体具有自主、胜任和归属等基本的、与生俱来的心理需要。其中，胜任需要是指个体需要在活动中体验到自己有能力完成该项任务，或者说个人感觉自己能胜任或掌控工作（White,1959)。相应地，胜任需要挫败是指个体觉得自己很失败或者感觉自己不能胜任工作(Bartholomew etal.,201O)。研究表明，基本心理需要满足有助于提升个体的幸福感和内在动机，而基本心理需要挫败往往会引发消极情绪、不幸福感和抑郁症状等负面后果(Deci & Ryan,2000;Van den Broeck et al.,2016)。早期的研究侧重于考察整体的基本心理需要挫败对个体的态度和行为的影响，但随着研究的深入，学者们开始关注胜任需要挫败如何影响个体的态度和行为。
+
+已有文献主要从教师教学风格、工作特征和组织情境等角度探讨了胜任需要挫败的前因和后果。例如，Earl,Taylor,Meijen 和Passfield（2017）基于初中生的实证研究表明，教师控制性的教学风格正向影响学生的胜任需要挫败，进而增加课堂的消极不投入行为，如打瞌睡等。此外，教师控制性的教学风格还会通过胜任需要挫败正向影响初中生的校园欺凌行为 (Hein et al.,2015)。Bartholomew,Ntoumanis,Cuevas 和Lonsdale（2014）基于体育教师的实证研究发现，阻碍性的工作压力与工作倦怠、身体不适等正相关，这是因为阻碍性的工作压力致使教师产生胜任需要挫败。基于企业员工的研究显示，工作中的不安全感通过胜任需要挫败正向影响基于组织的反生产行为（Van den Broeck et al.,2014)；职场排斥会通过诱发胜任需要挫败进而增加工作场所的偏差行为（Fatima etal.,2017)；角色模糊、角色冲突和任务的不确定性等工作特征也会导致胜任需要挫败，从而增加员工的工作倦怠和离职意向(Gillet et al.,2015;Olafsen etal.，2021)。然而，现有研究主要聚焦于胜任需要挫败对当前任务的负面影响，较少探讨当前任务中的胜任需要挫败对后续任务的跨期影响。
+
+# 2.2基本需要挫败的跨任务影响
+
+个体在遭受基本心理需要挫败初期，会启动自身的恢复机制，在后续活动中努力寻找机会满足自身的基本心理需要。根据冲动-反思模型，需要恢复引起的反应来自于冲动系统。因此，这些反应不受个体意识和认知的控制。更具体地说，基本心理需要的挫败会引发能有效终止需要挫败的行为反应（Strack&Deutsch,2004)。但根据自我决定理论，如果个体长期遭受基本心理需要挫败，则会触发自身的补偿行为，即放弃追求胜任感的满足，转而通过寻找需求的替代品和发展补偿行为对基本心理需要挫败进行补偿。已有文献主要探讨了自主需要挫败和归属需要挫败的跨任务影响(Deci&Ryan,200O;Radel et al.，2011)。例如，个体在遭受短暂的自主需要挫败后，在后续的任务中更加关注与自主相关的刺激材料，因为这些刺激有助于他们恢复自主感 (Radeletal.，2011)。如果后续任务能满足个体的自主需要，则个体参与后续任务的自主动机会显著增强(Radeletal.,2014)。一项纵向的问卷调研表明，长期的自主需要挫败会引发学生的补偿动机，进而跨期影响学生后续的攻击性行为(Joussemet et al.,2008)。此外，个体遭受短暂的归属需要挫败后（比如遭到排斥和拒绝)，会通过关注组织信息(Brunia& Boxtel,2004)、非语言的组织线索(Pickett et al.,2004)、接受性的提示(Dewalletal.，2008)、以及无意识地试图融入集体或者模仿他人的习惯和行为(Lakin etal.,2008)等方式帮助自身恢复归属感。目前已经有少数研究者开始关注胜任需要挫败的跨任务影响。比如Waterschoot，Van der Kaap-Deeder 和Vansteenkiste（2019）通过实验研究发现，短暂的胜任需要挫败会促使个体在后续任务中更为关注与胜任相关的刺激材料。然而，短期和长期的胜任需要挫败分别如何影响后续任务自主动机尚不明确，有待进一步探讨。
+
+# 2.3自主动机的成因
+
+自主动机是指个体因对某事物的兴趣、享受从事某一活动的乐趣或因坚定的信念而自愿从事某些行为的动机。研究表明，工作特征、自主性支持环境和员工特征是影响自主工作动机的关键因素。 $\textcircled{1}$ 在工作特征方面，任务重要性、反馈和自主性等特征能使员工体验到工作的意义感和责任感，进而增强员工的自主工作动机(Hackman&Oldham,1976)。工作意义和任务的多样性提升了员工对工作的兴趣和认同，从而增强了自主工作动机(Gagné& Deci，2005)。 $\textcircled{2}$ 在自主性支持环境方面，上级的自主支持、领导风格、组织的自主支持感、提供发展性反馈等会影响自主动机。上级的自主支持能提升员工的自主感和归属感，从而有力地激发员工自主工作动机(Gillet et al.,2013;Güintert,2014;Nie et al.,
+
+2015)；工作的自主性支持（如提供选择）可以提升员工的自主感，进而提升自主动机(Meng& Ma,2015;Van den Broeck etal.,2016)。变革型领导、真诚型领导、授权型以及魅力型领导等领导风格能满足下属基本心理需要，增强和维持内在动机、促进外在动机内化和整合，进而提升员工的自主工作动机(Gillet etal.,2013;Fermet etal.,2015)。员工遭受胜任需要挫败后，如果上级能及时提供发展性反馈，让员工感受到领导的支持和鼓励，从而能不惧失败、敢于尝试新的办法，有可能促使员工表现出较高的自主动机(耿紫珍等，2020)。 $\textcircled{3}$ 在个体特征方面，个体的成就目标导向、因果定向、主动性人格和价值定向等会影响自主工作动机。员工的自主因果定向正向预测自主工作动机(Gillet etal.,2013)，持内在目标或价值取向的员工通常具有较高的自主工作动机(Schreurs etal.,2014)。与绩效目标导向的员工相比，掌握目标导向的员工具有较高的自主工作动机(Lee&Reeve,2012)。此外，主动性人格特征的个体在工作中更为主动，表现出较高的自主工作动机(艾丽欣,王英春，2017)。
+
+# 2.4动机问题的认知神经科学研究
+
+伴随认知神经科学的快速发展，越来越多的学者采用功能性磁共振成像（fMRI）技术和事件相关电位技术（ERPs）等神经科学技术手段研究内在动机，以克服传统的自报告等手段所具有的依赖事后回顾、存在主观偏差等缺陷。基于 fMRI的研究发现，纹状体多巴胺是内在动机的关键神经递质，大脑内侧和外侧额叶皮层、前扣带回（ACC）、前岛叶皮层（AIC）等区域的活动情况与内在动机紧密相关(Di Domenico & Ryan,2017; Lee & Reeve,2017; Murayama et al.,2015; Murayama et al.,2010; Ng,2018)。例如，日本学者 Murayama,Matsumoto 和Izuma采用fMRI技术，验证了物质激励对内在动机的侵蚀作用，是国际范围内第一项采用认知神经科学方法探究个体内在动机问题的研究。该研究指出，腹侧纹状体多巴胺的激活程度可实时表征个体的内在动机水平。随后，Albrecht,Abeler,Weber 和Falk 等人通过 fMRI技术研究了口头鼓励对个体内在动机的影响，结果表明口头鼓励会增强纹状体多巴胺在反馈结果加工环节的激活程度，证实口头鼓励可以增强个体的内在动机水平。进一步研究显示，只有不存在外部奖励时，纹状体激活程度才与内在动机水平相关(Murayama etal.,2015)。提高纹状体的效率和连接强度能提升内在学习动机(Pascoe etal.，2019)。内在动机的神经系统还涉及AIC等脑区的活动，有趣的任务会激活AIC 和纹状体，内在满足的主观感受(与 AIC 激活有关)、奖励加工(与纹状体激活有关)及其交互作用构成了内在动机的实际体验(Lee＆Reeve,2017)。与回忆非内在激励的记忆相比，回忆内在激励的记忆时，腹内侧前额叶皮层(VMPFC)和 ACC 更容易被激活，且VMPFC 和ACC之间存在更大的交互作用(Lee&Reeve,2020)。
+
+基于ERPs的实验研究发现，反馈结果加工阶段的反馈相关负波（FRN）、反馈结果期待阶段的刺激前负波（SPN）等ERP 成分的波幅等可实时表征个体的自主动机水平(Fang et al.,2020; Fang et al.,2019; Meng & Ma,2015; Meng et al.,2016)。例如，一项采用秒表任务的脑电实验研究表明，与无选择组相比，提供任务选择组的 SPN 波幅以及反馈相关负波的差异波（d-FRN）波幅更大，从行为和认知神经科学融合的视角证明了提供选择能增强个体的自主动机(Meng&Ma,2015)。一项模拟线上竞技游戏的脑电实验发现，适度的挑战促使个体的胜任感得到充分的满足，从而激发其自主动机，SPN 波幅显著增加。个体遭受自主需要挫败后，会积极采取措施以恢复自身的自主感，如果后续任务较难，其参与后续任务的自主动机将会显著降低，d-FRN波幅相应减弱(Fang etal.,2018)。
+
+综上所述，采用功能磁共振成像技术研究动机可以帮助我们深入了解与动机相关的大脑区域，而ERPs技术的时间精度高，能实现客观、实时、准确的测量个体在参与一项任务过程中的自主动机水平。因此，采用认知神经科学的方法开展动机问题的研究具有重要的战略意义(Camerer,2010;Ryan etal.,2018;Vansteenkiste et al., 2020)。
+
+# 2.5现有研究的不足
+
+通过对胜任需要挫败、自主动机以及动机问题的认知神经科学研究等方面文献的回顾和梳理，提炼出已有研究的不足之处： $\textcircled{1}$ 从研究的视角来看，现有的研究主要探讨了单一任务情境下胜任需要挫败对个体态度与行为的负面影响，较少关注多任务情境下前面任务中的胜任需要挫败对后续任务的跨期影响； $\textcircled{2}$ 从自主动机的成因而言，以往的研究主要探讨了工作特征、自主性支持环境和员工特征等因素对自主动机的影响，缺乏对前面任务的关注； $\textcircled{3}$ 从胜任需要挫败的研究内容来看，当前研究探讨了短暂的胜任需要挫败可能存在的积极恢复效应，却忽略了长期的胜任需要挫败对后续任务可能存在的消极影响及相应的干预策略； $\textcircled{4}$ 从研究方法的角度而言，过往研究较少运用认知神经科学方法探讨胜任需要挫败对个体生理、心理和行为的影响。由于自主动机是一种内在的心理反应，传统的测量方法（如自由报告法或自由选择法）存在依赖事后回顾、主观偏差等不足，但借助认知神经科学技术实时监测大脑的认知加工活动，可以对个体参与任务时的自主动机水平进行更加准确和客观的测量。基于此，本研究综合运用行为实验、认知神经科学实验和现场实验的方法，探讨（短期和长期的）胜任需要挫败对后续任务自主动机的影响，并试图从组织层面和个体层面建构胜任需要挫败的干预策略，以期拓展胜任需要挫败和自主动机的相关研究，指导企业管理者对员工胜任需要挫败问题进行科学管理和干预。
+
+# 3研究构想
+
+本研究聚焦新生代知识型员工的胜任需要挫败问题，尝试从认知神经科学和行为科学融合的视角揭开胜任需要挫败对后续任务自主动机的双刃剑效应“黑箱”，并试图从组织和个体层面寻求有效的干预策略。具体而言，本研究通过四个研究模块来探索以下问题：第一，短期的胜任需要挫败如何影响后续任务的自主动机，其神经机理是什么？第二，长期的胜任需要挫败如何影响后续任务的自主动机，其神经机理是什么？第三，员工遭受短期的胜任需要挫败后，是否能够通过实施组织和个体层面的干预策略（如提供发展性反馈、工作中的自主性支持和成就目标导向的引导）提升其参与后续任务的自主动机，促使其越挫越勇？；员工遭受长期的胜任需要挫败后，是否能够通过实施上述干预措施抑制补偿行为的发生，从而弱化其对后续任务自主动机的负面影响，避免使其一蹶不振？第四，在组织情景中，上述干预策略是否有效？
+
+# 3.1研究一：短期的胜任需要挫败对后续任务自主动机的影响
+
+根据冲动-反思模型，个体遭受基本心理需要挫败后，短期内存在恢复基本心理需要满足的动机和过程，且个体并没有意识到自己存在恢复的动机且恢复过程不受自身认知过程的控制(Sheldon& Gunz,2009；Strack& Deutsch,2004)。研究表明，个体遭受短期的自主需要挫败后，如果后续任务能满足被试的自主感，个体参与后续任务的自主动机会显著增强(Radeletal.，2014)。个体遭受短期的胜任需要挫败后，在后续的任务中更为关注与胜任相关的刺激(Waterschootet al.,2019)。在工作场景中，个体经常需要连续完成不同的工作任务，个体在前面任务中遭受的胜任需要挫败如何影响其参与后续任务的自主动机尚不明确。基于此，研究一（实验1）主要考察短期的胜任需要挫败是否会增强个体参与后续任务的自主动机。
+
+与近年来采用认知神经科学的方法研究自主动机问题的实验方法一致，本研究拟采用估算时间任务和停止秒表任务作为实验任务(Meng＆Ma,2015;Murayama etal.,2010)。在估算时间任务中，被试需要在不借助外部工具的情况下，尽可能准确地估算3秒时长。具体而言，屏幕中央一出现秒表图标就代表任务开始，如果被试感觉距离任务开始已经过去了3秒钟的时间，他们应当马上按键确认。如果秒表停止在成功区间范围内，则视为成功，具体按键时间将通过绿色的框和绿色的字体反馈给被试；如果秒表停止在成功区间范围外，则视为失败，具体按键时间将通过红色的框和红色的字体反馈给被试。在停止秒表任务中，屏幕中央的秒表从0秒开始走动，被试的目标是尽可能将秒表停在3秒，反馈形式与估算时间任务相同。实验1为三阶段的ERPs被试间实验，第一和第三阶段的实验任务为3s停止秒表任务,第二阶段任务为3s估算时间任务，通过改变第二阶段任务的难度来操纵胜任需要挫败。实验1主要探讨实验组在第二阶段任务中遭受胜任需要挫败后，与控制组（第二阶段任务中未遭受胜任挫败）相比，被试自主动机水平的变化（第三阶段-第一阶段）是否存在差异。由于个体的自主动机存在自然的衰退过程（对任务逐渐熟悉、新鲜感逐渐消失)，由此提出本研究的假设：针对实验组的被试，胜任需要挫败的引入会增强其自主动机，并抵消自主动机的自然衰退，反映为自主动机的变化是正向的（第三阶段-第一阶段)，而控制组的自主动机的变化是负向的。
+
+现有的研究表明，大脑对一项任务的认知加工过程包括情景线索加工、任务启动准备、任务绩效监控、反馈结果期待以及反馈结果加工等5个阶段，在相应的阶段存在不同的脑电指标可实时测度个体的自主动机水平。根据FRN的情绪动机理论，FRN是个体对反馈结果进行主观价值评估时产生的脑电成分，其波幅反映了个体对反馈结果的情感和动机。FRN差异波的波幅（即d-FRN，输的结果诱发的FRN振幅减去赢的结果诱发的FRN振幅）反映了被试对任务表现的主观价值评估和在意程度，因此d-FRN的波幅可以表征个体参与任务时的自主动机水平。已有系列研究证实，在不涉及物质激励的情况下，SPN和d-FRN这两种脑电成分的波幅均能作为个体在任务执行过程中的自主动机水平的测量指标(Fang et al.,2018;Meng& Ma,2015;Meng& Yang,2018)。因此，本研究拟通过 SPN、d-FRN 等脑电成分表征个体的自主动机水平。根据 SPN 和d-FRN 等脑电指标特点分别选择特定的时间窗和电极点的脑电数据进行分析。SPN的时间窗设定为反馈结果呈现之前的- $2 0 0 \sim 0$ 毫秒这一区间，d-FRN的时间窗设定为反馈结果呈现之后的 $2 5 0 { \sim } 3 5 0$ 毫秒这一区间。电极点主要选择前额区域的F1、FZ、F2、FC1、FCZ和FC2共6个电极点，进而基于这些电极点的平均波幅开展统计分析。因此，我们提出脑电层面的假设：实验组的 SPN 和d-FRN 成分的波幅变化是正向的（第三阶段-第一阶段)，而控制组的变化（第三阶段-第一阶段）是负向的。
+
+值得注意的是，为了提升研究的可靠性，本研究将同时采集脑电数据（如SPN、FRN）和自报告数据（自主动机量表)。在数据分析过程中将融合不同层面的数据，通过回归分析等方法验证 SPN和d-FRN等脑电成分的波幅对个体主观报告的自主动机水平的预测作用，从而提升研究结论的准确性和可推广性。
+
+# 3.2研究二：长期的胜任需要挫败对后续任务自主动机的影响
+
+根据自我决定理论，个体在遭受长期的基本心理需要挫败时，往往采取一些措施来补偿基本心理需要挫败，这其中就包括寻找需求的替代品，从而更加关注外在的目标、放松自我控制、形成并发展不良行为(Vansteenkiste&Ryan,2013)。例如，长期的归属需要挫败会导致个体变得更具攻击性(Twenge et al.,2001)，不喜欢亲密的关系(Moller et al.,2010)，更加追求外在的目标如财富、地位等(Deci&Ryan,2000)，减少利他行为(Twenge etal.，2007)等对归属需要挫败进行补偿。此外，长期的自主需要挫败会导致青少年更加关注外在目标，并形成吸烟和酗酒等不良行为(Williams etal.，200O)、降低自主学习动机(Sheldon&Krieger,2006)等对自主需要挫败进行补偿。在工作场景中，有时员工可能会遭受持续的胜任需要挫败。然而，长期的胜任需要挫败对个体参与后续任务自主动机的影响尚不明确。基于此，本研究（实验2）在研究一的基础上，进一步考察长期的胜任需要挫败是否会降低个体参与后续任务的自主动机。
+
+本研究沿用实验1的方法，通过任务难度来操纵胜任需要挫败。实验2 拟采用与实验1相同的实验任务和ERP技术，但实验更复杂。实验2包括四阶段的实验任务，并通过在实验组设置两阶段的高难度估算时间任务，诱发被试持续的胜任需要挫败，进而从行为和脑电层面观察两组被试自主动机水平的变化是否存在差异。根据自我决定理论，个体遭受长期的胜任需要挫败时，会放弃对胜任感的追求，寻找胜任需要的替代品。因此，本研究预期：长期的胜任需要挫败会削弱自主动机，进一步加剧自主动机的自然衰退，两组被试的自主动机的改变值均是负向的，与控制组相比，实验组的自主动机水平下降的幅度更大，自主动机水平的改变值（第四阶段-第一阶段）更负。具体而言，与控制组相比，实验组的 SPN 波幅和d-FRN 波幅下降幅度更大（第四阶段-第一阶段）。
+
+# 3.3研究三：胜任需要挫败的干预策略研究
+
+随着社会竞争的加剧，越来越多员工会在工作中遭遇短暂或持续的胜任需要挫败，短暂的胜任需要挫败会增强其参与后续任务的自主动机，但持续的胜任需要挫败则可能会削弱其参与后续任务的自主动机。因此，对员工的胜任需要挫败问题进行科学干预和管理，遏制胜任需要挫败的负面影响、发挥胜任需要挫败的积极效应，具有重要的现实意义。然而，现有研究较少探讨胜任需要挫败的干预策略。
+
+个体遭受短暂的胜任需要挫败后，渴望恢复自身的胜任感，因而会在后续任务中更加关注胜任相关的刺激(Waterschoot etal.,2019)，这意味着我们可以从胜任感的视角干预员工的胜任需要挫败。基于现有文献，本研究将探讨组织层面因素（如发展性反馈、自主性支持）和个体层面因素（如成就目标导向）是否会调节胜任需要挫败对自主动机的跨任务影响。发展性反馈是组织中上级为其下属提供的对其未来学习、工作和个人发展有价值的反馈，有助于提升员工的胜任感和工作动机(Chiviacowsky&Wulf,2002)。工作中的自主性支持能提升员工的胜任感，并增强其自主工作动机(Van den Broeck et al.,2016)。此外，个体应对胜任需要挫败的恢复机制存在个体差异，比如，绩效目标导向会阻碍胜任需要挫败的恢复机制，与绩效目标导向较高的个体相比，绩效目标导向较低的个体遭受短期的胜任需要挫败后更渴望恢复自身的胜任感(Fang etal.,2019)。此外，基于成就目标理论的研究表明：持掌握目标导向的个体把注意力集中在对任务的理解和把握之上，在完成任务难度较高的任务时，会积极寻找解决问题的策略，从而激发其参与后续任务的自主动机。持绩效目标导向的个体在面临挑战性较高的任务时，更容易怀疑自身能力，从而导致较低的自主动机(Lee,2010)。综上所述，组织层面的发展性反馈和自主性支持以及个体的成就目标导向均能影响员工的胜任感。基于此，本研究预测，发展性反馈、自主性支持，以及个体层面的成就目标导向等因素将会调节胜任需要挫败对自主动机的跨任务影响。研究三将沿用实验研究的方法进一步探讨胜任需要挫败的干预措施。
+
+# 3.3.1研究3a：如何越挫越勇，组织和个体层面的干预策略研究
+
+本研究包括两项脑电实验，实验任务、数据采集的设备和方式同研究一。实验3主要考察组织层面的干预策略如发展性反馈和自主性支持能否引导员工越挫越勇，采用2(反馈方式:发展性反馈vs.正常) $\times 2$ (任务选择：有vs.无)两因素被试间设计，因变量为干预前后的自主动机水平的差值（第三阶段-第一阶段)。为了操纵发展性反馈，本研究拟在第二阶段任务结束后，在反馈界面告知被试具体的成功次数和成功率，并结合个人表现，告知成功率较低的原因以及改进措施(Zhou,2003)。与以往研究的范式保持一致，本研究通过提供任务选择操纵自主性支持(Meng& Ma,2015)。具体而言，本研究设计难度相同的两项停止秒表任务A和B（经过前期的预试验，任务A和任务B的成功区间不同，成功率均为 $50 \%$ 左右)，有选择组可根据自己的偏好选择其中一项停止秒表任务，无选择组被随机分配一项停止秒表任务。本研究假设，短期的胜任需要挫败会增强自主动机、抵消自主动机的自然衰退，四组被试的自主动机的变化均是正向的，但发展性反馈且有选择组的自主动机水平的增加幅度最大，显著高于其余各组。据此提出脑电层面的假设：四组被试的 SPN 波幅和d-FRN 波幅均会增加，其中发展性反馈且有选择组的 SPN 波幅和 d-FRN 波幅增加幅度显著高于其他各组（第三阶段-第一阶段）。
+
+实验4主要考察员工遭受短期的胜任需要挫败后，与绩效目标导向相比，个体的掌握目标导向是否能增强其参与后续任务的自主动机，从而引导其越挫越勇。采用单因素被试间设计，自变量为成就目标导向，因变量为干预前后的自主动机水平的差值（第三阶段-第一阶段)。与以往研究范式一致，实验4设置绩效目标导向组和掌握目标导向组，拟采用指导语来引发各组被试的掌握目标导向和绩效目标导向(李燕平,郭德俊，2004)。本研究预测，短期的胜任需要挫败会增强自主动机、抵消自主动机的自然衰退，两组被试的自主动机的变化均是正向的，且掌握目标导向组自主动机水平的增加幅度高于绩效目标导向组。具体而言，两组被试的 SPN波幅和d-FRN的波幅均会增加。与绩效目标导向组相比，成就目标导向组的 SPN波幅和d-FRN波幅增加幅度更大（第三阶段-第一阶段）。
+
+# 3.3.2研究3b：如何避免一蹶不振，组织和个体层面的干预策略研究
+
+本研究包括两项ERPs实验，实验任务、数据采集的设备和方式同研究二。
+
+实验5主要考察员工遭受长期的胜任需要挫败后，组织层面的干预策略（发展性反馈和自主性支持）是否能减轻长期的胜任需要挫败对其参与后续任务自主动机的削弱作用，从而避免一蹶不振。实验5采用2(反馈方式:发展性反馈vs.正常) $\times 2 0$ (任务选择:有vs.无)两因素被试间实验设计，胜任需要挫败、发展性反馈和自主性支持的操纵方式同实验3，因变量为干预前后的自主动机水平的差值（第四阶段-第一阶段)。本研究预测，长期的胜任需要挫败会削弱自主动机，进一步加剧自主动机的自然衰退，四组被试的自主动机的变化均是负向的，且发展性反馈且有选择组自主动机水平的降低幅度最小。具体而言，四组被试的 SPN波幅和d-FRN波幅均会减少，其中发展性反馈且有选择组的 SPN波幅和d-FRN 波幅降低幅度最小（第四阶段-第一阶段）。
+
+实验6主要考察个体遭受长期的胜任需要挫败后，与绩效目标导向相比，个体的掌握目标导向是否能减轻长期的胜任需要挫败对个体参与后续任务自主动机的削弱作用。具体而言，实验6为一项四阶段的被试间实验，采用单因素被试间设计，自变量为成就目标导向，因变量为干预前后的自主动机水平的差值（第四阶段-第一阶段)，胜任需要挫败和成就目标导向的操纵方式同实验4。本研究预测，长期的胜任需要挫败会削弱自主动机，进一步加剧自主动机的自然衰退，两组被试的自主动机的变化均是负向的，且掌握目标导向组自主动机水平的降低幅度低于绩效目标导向组。具体而言，两组被试的 SPN 波幅和 d-FRN 波幅均会减少，但与绩效目标导向组相比，成就目标导向组的 SPN波幅和d-FRN 波幅降低幅度更小（第四阶段-第一阶段）。
+
+# 3.4研究四：在管理实践中，考察胜任需要挫败干预策略的有效性
+
+在研究三中，我们在受控的实验室情景中，分别研究和检验了组织层面和个体层面干预策略的有效性。本研究模块就将通过一项现场实验，在企业实践中考察干预策略的有效性。
+
+本研究的目标单位是新生代知识型员工较多、员工工作压力较大、工作不安全感较高的IT企业。通过对目标企业进行筛选，形成包含5个单位的初步列表。对列表中的单位进行现场调研，初步了解目标企业中新生代知识型员工感知的胜任需要挫败的程度以及员工的自主动机水平。选取改进空间最大的一家企业作为现场实验的单位，通过访谈了解各部门员工的胜任需要挫败感，选择胜任需要挫败感相对较高的部门作为研究对象，随机将部门员工分为实验组和控制组。在员工自愿参与的基础上，首先调查员工的复原力、情绪稳定性、成就目标导向等个人特质，以及过去三个月感知的胜任需要挫败感、自主动机水平、工作自主性、发展性反馈和工作满意度等；随后与企业的人力资源管理部门合作，针对实验组的员工开展有关成就目标导向的培训，引导其形成掌握目标导向；其次，培训相关的主管，在工作时间、任务安排等方面增强实验组员工的工作自主性；在实验组员工遭受胜任需要挫败时，及时提供发展性反馈。实施干预措施1个月后，通过经典量表再次测量员工的胜任需要挫败、发展性反馈、工作自主性、成就目标导向、自主动机水平和工作满意度，检验实验组和控制组在干预前后的变化水平是否存在差异。
+
+# 4理论建构
+
+市场竞争的日益激烈使得现代企业对员工尤其是新生代知识型员工提出了更高的要求，他们经常因阻碍性工作压力、工作的不确定性、挑战性过高以及负面反馈等遭受胜任需要挫败(Bartholomew etal.，2014;Ryan& Deci,2017;Trepanier etal.,2016)。由于员工的胜任需要挫败问题日益普遍，学者们围绕胜任需要挫败的成因、消极影响、恢复机制以及个体差异等方面开展了初步的探讨。例如，工作的不安全感、角色模糊、工作的挑战性过高等工作特征会导致员工产生胜任需要挫败感，进而增加员工的工作倦怠，不幸福感以及偏差行为等(Bartholomew et al., 2014; Bartholomew et al., 2011; Fatima et al., 2017; Gillet etal.,2015;Van den Broeck et al.,2014)。个体遭受胜任需要挫败后，会努力在后续任务中恢复胜任感(Ryan&Deci,2017;Sheldon& Gunz,2009)，在后续的任务中更为关注胜任相关的刺激材料，且个体的绩效目标导向会阻碍胜任需要挫败的恢复机制(Fangetal.，2019)，复原力较高的个体更渴望恢复自身的胜任感(Waterschoot etal.,2019)等。在实际中，员工遭受胜任需要挫败后，有时会偃旗息鼓、一蹶不振，但更多的情况下，他们会在后续的任务中更加主动，以再度证明自己。然而，过往研究忽略了从动态的视角探讨胜任需要挫败对后续任务自主动机的影响，以及较少研究关注胜任需要挫败的干预策略。此外，现有的研究主要采用自由选择法和自我报告法等事后测量的方法考察自主动机，存在一定的偏差。借助认知神经科学技术，可实现实时监测大脑的认知加工活动，从而可实现准确、客观测量个体参与任务时的自主动机水平。因此，综合运用行为实验、认知神经科学实验和现场实验的方法，考察（短期和长期的）胜任需要挫败对后续任务自主动机的影响，研究如何降低胜任需要挫败的负面效应，以及如何干预并引导更多的员工越挫越勇等兼具重要的科学意义和应用前景。
+
+本研究聚焦新生代知识型员工的胜任需要挫败，尝试从认知神经科学和行为科学的视角揭开胜任需要挫败对个体参与后续任务自主动机的双刃剑效应“黑箱”，并试图从组织和个体层面寻求有效的干预策略，以引导更多的员工越挫越勇，尽量避免一蹶不振，从而充分激发其自主工作动机。第一，基于动态的视角，考察（短期和长期的）胜任需要挫败对个体自主动机的跨期影响。第二，基于组织层面和个体层面，建构胜任需要挫败的干预策略，探讨发展性反馈、自主性支持以及成就目标导向等干预策略的有效性。第三，在管理实践中，检验干预策略的有效性。基于以上思路，本研究构建了四项子研究，展开了胜任需要挫败的“双刃剑”效应及干预策略研究。
+
+研究一首先考察短暂的胜任需要挫败对后续任务自主动机的积极影响，认为个体遭受短暂的胜任需要挫败后，短期内是存在恢复基本心理需要满足的过程和动机，如果后续任务能满足其胜任需要，其参与后续任务的自主动机会显著增强。研究二考察持续的胜任需要挫败对后续任务自主动机的消极影响，认为个体遭受持续的胜任需要挫败后，往往采取一些措施来补偿胜任需要挫败，如寻找需求的替代品，更加关注外在的短期目标等，进而会降低其参与后续任务的自主动机。研究三关注胜任需要挫败的干预策略。通过4项ERPs实验，探讨并检验个体遭受短期的胜任需要挫败后，组织层面的发展性反馈和自主性支持以及个体层面的成就目标导向等干预措施是否能增强其参与后续任务的自主动机，引导其越挫越勇；探讨并检验员工遭受长期的胜任需要挫败后，通过实施上述干预策略，是否能减轻长期的胜任需要挫败对其参与后续任务自主动机的削弱作用，避免其一蹶不振。研究四通过一项现场实验，在企业实践中考察干预策略的有效性。拟选择改进空间较大的一家企业作为研究对象，选择胜任需要挫败感相对较高的部门作为研究对象，以部门为单位，随机将员工分为实验组和控制组。针对实验组的员工，从成就目标导向的引导、提供发展性反馈和增强工作的自主性等方面出发，进行为期1个月的干预，随后检验实验组和控制组在干预前后的变化水平（胜任需要挫败、自主动机水平和工作满意度等)
+
+是否存在差异。
+
+本研究建构胜任需要挫败的“双刃剑效应”以及干预策略模型（如图1所示)，并从以下几个方面对现有研究进行了延伸和拓展。
+
+![](images/90c3cf1cb66abd788d71410e0a454961b98e04d6dd189e48d79e18a7b5e21175.jpg)  
+图1本研究理论建构
+
+首先，现有研究主要考察了胜任需要挫败对当前任务的消极影响，鲜有探讨胜任需要挫败对后续任务的跨期影响。近年来，学者们开始关注短暂的胜任需要挫败对后续任务的积极影响，但缺乏从时间的维度综合考察胜任需要挫败对后续任务的影响。因此，本研究系统地探讨短期和长期的胜任需要挫败对个体参与后续任务自主动机的“双刃剑”效应，弥补了已有文献的不足，响应了加强探讨基本心理需要挫败动态影响的呼呼 (Radeletal.，2014)，有效拓展和延伸了自我决定理论的研究范畴和理论内涵。
+
+其次，从自主动机的成因而言，已有文献主要探讨了员工特征、自主性支持环境以及工作特征等对自主动机的影响，较少关注前面任务的影响。本项目考察了前面任务感知的（短期和长期的）胜任需要挫败对个体参与后续任务自主动机的影响，契合了从跨任务视角探讨心理需要、任务投入、动机等的前沿热点(Newton et al.,2020; Shin & Grant,2019;Waterschoot et al.,2019)，扩展了自主动机的前因变量研究。
+
+第三，从胜任需要挫败的研究内容来看，尽管以往研究注意到个体的特质如复原力、自尊和情绪稳定性等因素对胜任需要挫败恢复程序的影响，但忽略了组织层面的因素对个体胜任需要挫败恢复程序的影响。本研究综合组织和个体层面，探讨并检验发展性反馈、自主性支持以及成就目标导向等因素对胜任需要挫败恢复程序的影响，拓展了胜任需要挫败的研究范畴，也为基本心理需要挫败的恢复机制研究提供新视角。
+
+最后，本研究是管理学与认知神经科学的交叉融合，通过认知神经科学指标实时、客观地测度个体在参与任务过程中的自主动机水平，可以在一定程度上克服传统测量方法的不足，为自我报告和自由选择这两种传统测量方法提供了有效的补充，响应了学界对采用认知神经科学的方法开展动机问题研究的呼吁(Camerer,2010; Ryan et al.,2018;Vansteenkiste et al.,2020)，并将激励问题的研究从行为学层面深入到认知神经科学层面。
+
+本研究成果对科学管理新生代知识型员工的胜任需要挫败问题具有一定的实践意义。首先，帮助企业管理者意识到员工有时会越挫越勇，有时会一蹶不振，科学管理和干预员工的胜任需要挫败能提升其自主工作动机，有利于改善企业绩效。其次，通过脑电实验和现场实验检验组织层面因素（发展性反馈和自主性支持）以及个体层面因素（成就目标导向）等干预策略的有效性，为管理者科学干预和管理新生代知识型员工的胜任需要挫败提供了有效的策略。再者，对于员工个体而言，在经历短暂的胜任需要挫败后，要主动寻找并创造机会在后续的任务中满足自身的胜任感，并注重培养自己的掌握目标导向，进而帮助自己越挫越勇，尽量避免一蹶不振，从而提升自主工作动机。
+
+# 参考文献
+
+艾丽欣，王英春.(2017).主动性人格对教练员-运动员关系的影响:自我决定动机的中介作用. 中国临床心理学杂志,25(06),1119-1123.   
+陈戈，陆冠文，谢俊.(2020).情绪耗竭对建言行为的U型影响—一内在动机的调节作用．心 理科学,43(03),689-696.   
+耿紫珍，赵佳佳，丁琳.(2020).中庸的智慧：上级发展性反馈影响员工创造力的机理研究. 南开管理评论,23(01),75-86.   
+侯烜方，卢福财.(2018).新生代工作价值观、内在动机对工作绩效影响—一组织文化的调节 效应.管理评论,30(04),157-168.   
+李燕平，郭德俊.(2004).成就目标与任务投入的关系.心理学报,36(1),53-58.   
+杨勇，冯博，王林，张跃先.(2020).自我决定动机与组织服务导向对优质服务绩效的作用机 制研究.管理学报,17(03),354-364.   
+张建卫，周愉凡，张红川，李海红.(2020).时间压力对研发人员创新行为的双刃剑效应：一 个双链式中介模型.预测,39(04),45-52.   
+Albrecht,K.，Abeler,J.，Weber,B.，& Falk,A. (2O14). The brain correlates of the effects of monetary and verbal rewards on intrinsic motivation.Frontiers in Neuroscience,8,Article e303. https://doi.org/10.3389/fnins.2014.00303.   
+Bartholomew, K. J., Ntoumanis, N.,& Thogersen-Ntoumani, C. (2010). Self-determination theory and the prediction of ill-being in the sport context: The role of psychological need thwarting. Journal of Sport & Exercise Psychology,32,142-143.   
+Bartholomew, K. J.,Ntoumanis, N., Cuevas,R.,& Lonsdale, C. (2O14). Job pressure and ill-health in physical education teachers: The mediating role of psychological need thwarting. Teaching and Teacher Education,37,101-107.   
+Bartholomew, K.J., Ntoumanis, N., Ryan,R M& Thogersen-Ntoumani, C.(2O11). Psychological need thwarting in the sport context: Assessing the darker side of athletic experience.Journal of Sport & Exercise Psychology,33(1),75-102.   
+Brunia, C.H. M.,& Boxtel, G.J. M. V. (2OO4). Anticipatory atention to verbal and non-verbal stimuli is reflected in a modality-specific SPN. Experimental Brain Research,156(2),231-239.   
+Camerer, C. F. (2O1O). Removing financial incentives demotivates the brain. Proceedings of the National Academy of Sciences of the United States of America, 107(49),20849-20850.   
+Chen, B., Vansteenkiste, M, Beyers, W, Boone,L,Deci, E L, Kaap-Deeder, JV D,. Mouratidis, A. (2015). Basic psychological need satisfaction, need frustration,and need strength across four cultures.Motivation & Emotion,39(2),216-236.   
+Chiviacowsky, S.,& Wulf, G. (2Oo2). Self-controlled feedback: does it enhance learning because performers get feedback when they need it? Research Quarterly for Exercise & Sport,73(4), 408- -415.   
+Deci,E.L Olaf.,sen, A.H.,& Ryan,RM. (2Ol7). Self-Determination theory in work organizations: The state of a science. Annual Review of Organizational Psychology and Organizational Behavior, 4(1), 19-43.   
+Deci,E.L.,&Ryan,R M. (2OOO). The "what" and "why" of goal pursuits: Human needs and the selfdetermination of behavior. Psychological Inquiry,11(4),227-268.   
+Dewall, C.N.,Baumeister, R.F.,& Vohs, K.D.(2008). Satiated with belongingness? effects of acceptance,rejection, and task framing on self-regulatory performance. Journal of Personality & Social Psychology, 95(6), 1367-1382.   
+Di Domenico, S. I.,& Ryan, R.M. (2O17). The emerging neuroscience of intrinsic motivation: A new frontier in self-determination research. Frontiers in Human Neuroscience,11,Article e145. https://doi.org/ 10.3389/fnhum.2017.00145.   
+Earl, S.R., Taylor,I. M., Meijen, C., & Passfield,L. (2O17). Autonomy and competence frustration in young adolescent classrooms: Different associations with active and passive disengagement. Learning & Instruction, 49,32-40.   
+Fang,H., Wan, X., Zheng, S.,& Meng,L. (202O). The spillover effect of autonomy frustration on human motivation and its electrophysiological representation. Frontiers in Human Neuroscience, 14,Article e134. https://doi.org/10.3389/fnhum.2020.00134.   
+Fang,H.,Fu, H.,Li, X.,& Meng,L. (2O19). Trapped in the woods: High performance goal orientation impedes competence restoration. Personality and Individual Differences,150, Article e109479.https://doi.org/10.1016/j.paid.2019.06.022.   
+Fang,H., He, B., Fu, H., Zhang, H., Mo, Z.,& Meng,L. (2018). A Surprising source of selfmotivation: Prior competence frustration strengthens one's motivation to win in another competence-supportive activity. Frontiers in Human Neuroscience， 12， Article e314. https://doi.org/10.3389/fnhum.2018.00314. eCollection 2018.   
+Fatima，T.，Raja,U.，& Jahanzeb， S.(2017).A moderated mediation model of ostracism, psychological capital, Need frustration and deviance. Academy of Management Proceedings, 2017,Article e15372.https://doi.org/10.5465/AMBPP.2017.15372abstract.   
+Fernet, C., Trépanier, S.,Austin, S., Gagné, M.,& Forest,J. (2O15). Transformational leadership and optimal functioning at work: On the mediating role of employees’ perceived job characteristics and motivation. Work and Stress,29(1),11-31.   
+Gagné，M.，& Deci, E.(2Oo5). Self-determination theory and work motivation. Journal of Organizational Behavior,26,331-362.   
+Gillet,Fouquereau, Huyghebaert.,& Colombat, P. (2O15). Job demands, organizational resources, work engagement, and burnout: The mediating role of psychological need satisfaction and thwarting. Spanish Journal of Psychology,18,1-19.   
+Gillet, N., Lafreniere, M. A., Vallerand, R.J., Huart, I.,& Fouquereau, E. (2O14). The effects of autonomous and controlled regulation of performance-approach goals on well-being: a process model. British Journal of Social Psychology,53(1),154-174.   
+Gilet,N., Gagne,M., Sauvagere,S.,&Fouquereau,E. (20l3). The role of supervisor autonomy support, organizational support， and autonomous and controlled motivation in predicting employees' satisfaction and turnover intentions. European Journal of Work and Organizational Psychology,22(4), 450-460.   
+Gillet,N.， Fouquereau，E.，Forest, J.，Brunault,P.，& Colombat, P.(2012). The impact of organizational factors on psychological needs and their relations with well-being. Journal of Business and Psychology, 27(4), 437-450.   
+Gunnell, K.E., Crocker,P.R.E., Wilson,P.M., Mack,D.E.,& Zumbo,B D. (2013).Psychological need satisfaction and thwarting: A test of basic psychological needs theory in physical activity contexts. Psychology of Sport and Exercise,14(5), 599-607.   
+Guntert, S. T. (2015). The impact of work design, autonomy support, and strategy on employee outcomes: A differentiated perspective on self-determination at work. Motivation And Emotion,39(1),74-87.   
+Hackman, J. R.,& Oldham, G. (1976). Motivation through the design of work: Test of a theory. Organizational Behavior and Human Performance,16, 250-279.   
+Hein,V., Koka, A.,& Hagger, M. S. (2O15). Relationships between perceived teachers' controlling behaviour, psychological need thwarting, anger and bullying behaviour in high-school students. Journal of Adolescence, 42,103-114.   
+Joussemet, M., Vitaro,F., Barker,E. Coté, S., Nagin,D.,Zoccolillo,M.,& Tremblay,R. (2008). Controlling parenting and physical aggression during elementary school. Child development, 79, 411-425.   
+Lakin,J. L., Chartrand, T. L.,& Arkin, R. M. (2OO8). I Am Too Just like You: Nonconscious mimicry as an automatic behavioral response to social exclusion. Psychological Science,19(8), 816-822.   
+Lee,A. (2010). Effects of achievement goal orientations on intrinsic motivation, classroom attitude, and satisfaction in middle physical education class. Secondary Education Research, 58(3), 289- 311.   
+Lee,W., & Reeve, J. (2O17). Identifying the neural substrates of intrinsic motivation during task performance. Cognitive, affctive & behavioral neuroscience,17(5), 939-953.   
+Lee,W.，& Reeve, J. (2O20). Remembering pleasure and personal meaning from episodes of intrinsic motivation: an fMRI study. Motivation and Emotion, 44(6),810-818.   
+Meng,L., & Ma, Q.(2015). Live as we choose: The role of autonomy support in facilitating intrinsic motivation. International Journal of Psychophysiology, 98(3), 441-447.   
+Meng,L.,Pei, G., Zheng, J.,& Ma, Q. (2016). Close games versus blowouts: Optimal challenge reinforces one's intrinsic motivation to win. International Journal of Psychophysiology，110, 102-108.   
+Meng,L.,& Yang, Z. (2O18). Feedback is the breakfast of champions: the significance of selfcontrolled formal feedback for autonomous task engagement. Neuroreport, 29(1),13-18.   
+Moller,A. C.,Deci,E.L.,& Elliot, A.J. (2O1O).Person-level relatedness and the incremental value of relating. Personality and Social Psychology Bulletin, 36(6),754-767.   
+Murayama, K., Matsumoto,M., Izuma, K., Sugiura, A., Ryan, R. M., Deci, E .L., & Matsumoto, K. (2015). How self-determined choice facilitates performance: A key role of the ventromedial prefrontal cortex. Cerebral Cortex, 25(5), 1241-1251.   
+Murayama，K.，Matsumoto，M.， Izuma,K.，& Matsumoto,K.(201O). Neural basis of the undermining effect of monetary reward on intrinsic motivation. Proceedings of the National Academy of Sciences of the United States of America, 107(49),20911-20916.   
+Newton, D. W.,Lepine, J. A., Kim, J. K., Wellman, N.,& Bush, J. T. (202O). Taking engagement to task: The nature and functioning of task engagement across transitions. Journal of Applied Psychology, 105(1), 1-18.   
+Ng, B. (2O18). The neuroscience of growth mindset and intrinsic motivation. Brain Sciences, 8(2), Article e20. https://doi.org/10.3390/brainsci8020020   
+Nie, Y., Chua, B.L., Yeung, A.S., Ryan, R.M.,& Chan, W.Y. (2015). The importance of autonomy support and the mediating role of work motivation for well-being: testing self-determination theory in a Chinese work organization. International Journal of Psychology, 50(4), 245-255.   
+Olafsen,A.,Niemiec,C.,Deci,E.,Halvari,H.,Nilsen,E.,& Wiliams,G. (2021).Mindfulness buffers the adverse impact of need frustration on employee outcomes: A self - determination theory perspective. Journal of Theoretical Social Psychology, 5(3),283-296.   
+Pascoe, L., Thompson, D., Spencer-Smith, M., Beare, R.,，Adamson, C., Lee, K.,.. Anderson, P. (2019). Efficiency of structural connectivity networks relates to intrinsic motivation in children born extremely preterm. Brain Imaging and Behavior,13,1-14.   
+Pickett C. L.， Gardner, W. L.，& Knowles, M. (2004). Getting a cue: the need to belong and enhanced sensitivity to social cues. Personality and Social Psychology Bulletin, 30(9),1095- 1107.   
+Radel,R.,Pelletier,L.,Baxter,D.,Fournier, M.,& Sarrazin,P. (2O14). The paradoxical effect of controlling context on intrinsic motivation in another activity. Learning and Instruction, 29, 95- 102.   
+Radel,R., Pelletier,L. G., Sarrazin, P.,& Milyavskaya, M. (2011). Restoration process of the need for autonomy: the early alarm stage. Journal of Personality & Social Psychology,1Ol(5), 919- 934.   
+Radel, R., Peletier,L., & Sarrazin, P. (2O13). Restoration processes after need thwarting: When autonomy depends on competence. Motivation and Emotion, 37(2),234-244.   
+Ryan, R. Soenens, B.,& Vansteenkiste,M. (2O18). Reflections on self-determination theory as an organizing framework for personality psychology: Interfaces,integrations,issues,and unfinished business. Journal of Personality, 87(6), 115-145.   
+Ryan，R.M.,& Deci, E.L. (2O17). Self-determination theory. Basic psychological needs in motivation, development and wellness.NewYork,NY:GuilfordPress.   
+Sheldon, K. M.,& Gunz,A. (2Oo9). Psychological needs as basic motives, not just experiential requirements. Journal of Personality, 77(5),1467-1492.   
+Sheldon, K. M.,& Krieger, L S. (2O06). Understanding the negative effects of legal education on law students: a longitudinal test of self-determination theory. Personality and Social Psychology Bulletin, 33(6), 883-897.   
+Shin, J.,& Grant, A. M. (2O19). Bored by interest: Intrinsic motivation in one task can reduce performance on other tasks. Academy of Management Journal, 62(2), 415-436.   
+Strack,F.,& Deutsch,R.(2Oo4). Reflective and impulsive determinants of social behavior. Personality and Social Psychology Review,16(3), 220-247.   
+Trepanier, S.G,Fernet, C.,& Austin, S.(2016). Longitudinal relationships between workplace bullying, basic psychological needs, and employee functioning: a simultaneous investigation of psychological need satisfaction and frustration. European Journal of Work and Organizational Psychology,25(5), 690-706.   
+Twenge, J. M, Baumeister, R.F., Tice,D. M.,& Stucke,T. S. (2OO1). If you can't join them, beat them: Effects of social exclusion on aggressive behavior. Journal of Personality and Social Psychol0gy, 81(6), 1058-1069.   
+Twenge, J. M., Baumeister,R.F., Dewall C. N., Ciarocco,N. J.,& Bartels, J. M. (2007). Social exclusion decreases prosocial behavior. Journal of Personality and Social Psychology, 92(1),56- 66.   
+Unanue, W.,Rempel, K., G6mez, M. E., & Anja, V.D.B. (2017). When and why does materialism relate to employees’attitudes and well-being: The mediational role of need satisfaction and need frustration. Frontiers in Psychology，8,Article e1755. https://doi.org/ 10.5465/AMBPP.2017. 15372abstract.   
+Van den Broeck，A.，Ferris,D. L.， Chang，C.，& Rosen， C. C.(2016).A Review of selfdetermination theory's basic psychological needs at work. Journal of Management, 42(5),1195-
+
+1229.
+
+Van den Broeck,A., Sulea, C., Vander Elst, T.,Fischmann, G., Iliescu, D.,& De Wite, H. (2014). The mediating role of psychological needs in the relation between qualitative job insecurity and counterproductive work behavior. Career Development International, 19(5), 526-547.   
+Vansteenkiste，M.，Ryan，R. M.，& Soenens,B.(2020). Basic psychological need theory: Advancements, critical themes,and future directions.Motivation and Emotion, 44(2),1-31.   
+Vansteenkiste, M.，& Ryan,R. M. (2O13). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. Journal of Psychotherapy Integration,23(3),263-280.   
+Waterschoot, J., van der Kaap- Deeder, J.,& Vansteenkiste,M. (2O19). The Role of competencerelated attentional bias and resilience in restoring thwarted feelings of competence. Motivation and Emotion,22(7),47-57.   
+White,R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297-333.   
+Williams, G.,A. Hedberg,V.,M. Cox,E.,& Deci, E.(2Oo0).Extrinsic life goals and health-risk. Behaviors in Adolescents, 51(8), 1559-1816.   
+Zhou, J. (2O03). When the presence of creative coworkers is related to creativity: Role of supervisor close monitoring，developmental feedback，and creative personality. Journal of Applied Psychol0gy, 88(3), 413-422.
+
+# The “double-edged sword” effect of competence frustration and intervention strategies:Behavioral and cognitive neuroscience perspectives
+
+FANG Hui 1, FU Huijian ², ZHANG Huijun² (SchoolofusinessAdministration,Guangdong Universityofinance,GuangzhouGuangdong,hina;²Schoolof Management,Guangdong University of Technology,Guangzhou,Guangdong,China)
+
+Abstract: Competence frustration refers to the feelings of inadequacy or failure. A growing number of the new generation of knowledge workers are experiencing shortterm or long-term competence frustration.After their experience of competence frustration, what is going on the knowledge worker's motivation in the subsequent task. If the experience of competence frustration has a positive effect on the subsequent work, how can we reinforce it? If the experience of competence frustration makes negative consequences,how can we avoid or restore it? Existing researches fails to clearly answer these questions. Based on the self-determination theory, this study is intended to uncover the intertemporal effect of competence frustration on one's autonomy motivation by integrating different approaches (e.g., behavioral experiment, cognitive neuroscience experiment and field experiment). In addition, this study will examine the effectiveness of intervention strategies such as developmental feedback and autonomous support from both the organizational perspective,as well as changing one's achievement orientation from the individual perspective. The findings of the present study will extend our knowledge on competence frustration and autonomous motivation. They will provide important guidance for managers to intervene competence frustration, and help employees to cope with competence frustration and boost their autonomous motivation.
+
+Key words: neuromanagement, competence frustration, autonomy motivation, selfdetermination theory, event-related potentials

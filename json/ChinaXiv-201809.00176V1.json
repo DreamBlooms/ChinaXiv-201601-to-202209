@@ -1,0 +1,473 @@
+[
+    {
+        "type": "text",
+        "text": "一类高阶非线性微分方程Lyapunov不等式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭旭¹，王浩帆¹，郑军²(1．西南交通大学 信息科学与技术学院，成都 611756；2．西南交通大学 数学学院，成都 611756)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要］本文研究一类高阶非线性微分方程的Lyapunov 不等式，是对《Lyapunov-type inequalities for $\\psi$ -Laplacian equations》有关结论的进一步探讨和推广. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "［关键词］Lyapunov 不等式；高阶非线性微分方程； $\\psi$ -Laplacian1引 引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lyapunov 在文［1]考察了方程 $\\left\\{ \\begin{array} { l l } { u ^ { \\prime \\prime } { \\bigl ( } x { \\bigr ) } + r { \\bigl ( } x { \\bigr ) } u { \\bigl ( } x { \\bigr ) } = 0 , x \\in ( a , b { \\bigr ) } } \\\\ { u { \\bigl ( } a { \\bigr ) } = u { \\bigl ( } b { \\bigr ) } = 0 } \\end{array} \\right.$ 其中 $r$ 为在$\\big [ a , b \\big ]$ 上的非负连续函数,其证明了：若存在非平凡解 $u$ ，则不等式 $\\int _ { a } ^ { b } r \\left( x \\right) d x \\geq \\frac { 4 } { b - a }$ 成立．由于该不等式在常微分方程解的振荡性、周期性、稳定性，以及特征值等问题的研究中有着重要作用(见[2，14]等)，后人称上述不等式为 Lyapunov 不等式，且对其做了大量的推广和研究（见[3-13,15-18]）.[18]考察了 $\\psi$ -Laplacian方程:",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( \\psi \\left( u ^ { \\prime } \\left( x \\right) \\right) \\right) ^ { \\prime } + r \\left( x \\right) f \\left( u \\left( x \\right) \\right) = 0 , x \\in \\left( a , b \\right) , } \\\\ & { } \\\\ & { u \\left( a \\right) = u \\left( b \\right) = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中 $r \\in L ^ { 1 } \\left( a , b \\right)$ 且在 $\\scriptstyle { \\left( a , b \\right) }$ 上不恒等于零， $\\psi$ 和 $f$ 满足如下基本条件：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(i） $\\psi$ 和 $f$ 为定义在 $\\mathbb { R }$ 上的连续函数且在 $\\left( 0 , \\infty \\right)$ 上一阶连续可微， $f$ 为非零函数;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（ii） $\\psi$ 为 $\\mathbb { R }$ 上奇函数;（iil）对于 $\\forall t \\in \\left[ 0 , \\infty \\right)$ 都有 $f ( t ) \\geq 0$ ；(iv） $\\exists k _ { 0 } > 0$ ，使得 $\\begin{array} { r } { \\left| f \\left( t \\right) \\right| \\leq k _ { 0 } \\psi \\left( \\left| t \\right| \\right) , t \\in \\left( - \\infty , \\infty \\right) ; } \\end{array}$ （204号以及 $\\psi$ 或 $f$ 满足推广形式的 Lieberman 条件 (见[18):",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（v）假设 $\\exists \\delta _ { 0 } , \\delta _ { 1 } \\geq 0$ ，使得 $\\delta _ { 0 } \\psi \\left( t \\right) \\leq t \\psi ^ { \\prime } \\left( t \\right) \\leq \\delta _ { 1 } \\psi \\left( t \\right) , \\forall t > 0 \\ ;$ （20（vi）假设 $\\exists \\theta _ { 0 } , \\theta _ { 1 } \\geq 0$ ，使得 $\\theta _ { 0 } f \\bigl ( t \\bigr ) \\leq t f ^ { \\prime } \\bigl ( t \\bigr ) \\leq \\theta _ { 1 } f \\bigl ( t \\bigr ) , \\forall t > 0 .$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若(1)存在解 $u$ ，其满足在 $\\left[ a , b \\right]$ 上连续,在 $\\scriptstyle { \\left( a , b \\right) }$ 上一阶连续可微，且 $\\psi \\left( u ^ { \\prime } ( x ) \\right)$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在 $x$ 定义域内连续，文[18］得到如下定理.定理 $1 ^ { [ 1 8 ] }$ （i）若 $\\psi$ 满足(i)-(iv)及 $( \\mathsf { v } )$ ，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r \\left( x \\right) \\right| d x \\geq \\frac { 2 } { k _ { 0 } } \\cdot \\frac { 1 + \\delta _ { 0 } } { 1 + \\delta _ { 1 } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { 2 } { b - a } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { 2 } { b - a } \\right) ^ { \\delta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（ii）若 $f$ 满足()-(iv)及(vi)， 则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r \\left( x \\right) \\right| d x \\geq \\frac { 2 } { k _ { 0 } } \\cdot \\frac { 1 + \\theta _ { 0 } } { 1 + \\theta _ { 1 } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { 2 } { b - a } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { 2 } { b - a } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定理 $2 ^ { [ 1 8 ] }$ 进一步假设 $\\psi ( t ) t$ 在 $t \\in \\left[ 0 , + \\infty \\right)$ 上是凸函数.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(i）若 $\\psi$ 满足(i)-(iv)及 $( \\mathsf { v } )$ ，则 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r \\left( x \\right) \\right| d x \\geq \\frac { 2 } { k _ { 0 } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { 2 } { b - a } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { 2 } { b - a } \\right) ^ { \\delta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（ii）若 $f$ 满足(i)-(iv)及(vi)，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\Bigl | r \\left( x \\right) \\Bigr | d x \\ge \\frac { 2 } { k _ { 0 } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { 2 } { b - a } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { 2 } { b - a } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引理 $3 ^ { [ 1 8 ] }$ 令 $\\Psi \\left( t \\right) = \\int _ { 0 } ^ { t } \\psi \\left( s \\right) d s$ ， $t \\geq 0$ ，且若 $\\psi$ 满足（i）-（v）,则下列结论正确",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（i） $\\psi \\left( s t \\right) \\leq \\operatorname* { m a x } { \\left\\{ s ^ { \\delta _ { 0 } } , s ^ { \\delta _ { 1 } } \\right\\} } \\psi \\left( t \\right) , \\forall s , t \\geq 0 .$   \n(ii) $\\Psi$ 是 $\\left( 0 , + \\infty \\right)$ 上的二阶连续可微函数，且在 $\\big [ 0 , + \\infty \\big )$ 为凸函数.(iil) $\\frac { t \\psi \\left( t \\right) } { 1 + \\delta _ { 1 } } \\leq \\Psi \\left( t \\right) \\leq \\frac { t \\psi \\left( t \\right) } { 1 + \\delta _ { 0 } } , \\forall t \\geq 0 .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若令 $F \\left( t \\right) = \\int _ { 0 } ^ { t } f \\left( s \\right) d s$ ， $t \\geq 0$ ，且 $f$ 满足（i）-（iv）及（vi）,则有与上述相似的结论.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文是在此基础上继续文[18]的工作，将上述定理1、定理2推广到高阶情形.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 主要结论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文总假设：如下等式成立且其中 $\\psi$ 和 $f$ 满足文［18］的（i）-（iv）条件",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( \\psi \\left( u ^ { ( m ) } \\right) \\right) ^ { ( n ) } + r ^ { ( k ) } \\left( x \\right) f \\left( u ^ { ( q ) } \\left( x \\right) \\right) = 0 , } \\\\ & { u ^ { ( l ) } \\left( a \\right) = u ^ { ( p ) } \\left( b \\right) = 0 , l = 0 , 1 , 2 \\cdots , n , p = 0 , 1 , 2 \\cdots , m . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $m + n \\geq 2 , 0 \\leq q < m , 0 \\leq n \\leq m .$ （20",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定理1（i）若 $\\psi$ 满足（v）则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\left( x \\right) \\right| d x \\geq \\frac { \\left( 1 + \\delta _ { 0 } \\right) n ! } { k _ { 0 } \\left( 1 + \\delta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（ii）若 $f$ 满足（vi）则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left. r ^ { ( k ) } \\left( x \\right) \\right. d x \\geq \\frac { \\left( 1 + \\theta _ { 0 } \\right) n ! } { k _ { 0 } \\left( 1 + \\theta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理2假设 $\\psi \\big ( t \\big ) t$ 在 $t \\in \\left[ 0 , + \\infty \\right)$ 上是凸函数,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（i）若 $\\psi$ 满足 $( \\nu )$ 则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left. r ^ { \\left( k \\right) } \\left( x \\right) \\right. d x \\geq \\frac { n ! } { k _ { 0 } \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（ii）若 $f$ 满足（vi）则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left. r ^ { \\left( k \\right) } \\left( x \\right) \\right. d x \\geq \\frac { n ! } { k _ { 0 } \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3定理的证明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1的（i）证明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由含积分余项的 Taylor 公式$f \\left( x \\right) = \\frac { f \\left( x _ { 0 } \\right) } { 0 ! } + \\frac { f ^ { \\prime } \\left( x _ { 0 } \\right) } { 1 ! } \\left( x - x _ { 0 } \\right) + \\frac { f ^ { \\prime \\prime } \\left( x _ { 0 } \\right) } { 2 ! } \\left( x - x _ { 0 } \\right) ^ { 2 } + \\cdots + \\frac { f ^ { \\left( n \\right) } \\left( x _ { 0 } \\right) } { n ! } \\left( x - x _ { 0 } \\right) ^ { n } + \\frac { \\left( - 1 \\right) ^ { n } } { n ! } \\int _ { a } ^ { x } \\left( t - x \\right) ^ { n } f ^ { \\left( n + 1 \\right) } \\left( t \\right) d t$ 以及方程 $u ^ { ( l ) } \\left( a \\right) = u ^ { ( p ) } \\left( b \\right) = 0 , l = 0 , 1 , 2 \\cdots , n , p = 0 , 1 , 2 \\cdots , m , 0 \\leq q < m , 0 \\leq n \\leq m ,$ 可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { ( q ) } \\left( x \\right) \\leq \\frac { 1 } { \\left( m - q \\right) ! } \\int _ { a } ^ { b } \\left( b - x \\right) ^ { m - q } u ^ { ( m ) } \\left( x \\right) d x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { ( m - n ) } \\big ( x \\big ) \\leq \\frac { 1 } { n ! } \\int _ { a } ^ { b } \\big ( b - x \\big ) ^ { n } u ^ { ( m ) } \\big ( x \\big ) d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故由（3）（4）及文[18］中引理3的（i）（ii）和（ii）可得 $\\psi \\left( \\left| u ^ { \\left( q \\right) } \\left( x \\right) \\right| \\right) \\left| u ^ { \\left( m - n \\right) } \\left( x \\right) \\right|$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq \\psi ( | \\frac { 1 } { ( m - q ) ! } | _ { z } ^ { b } ( b - x ) ^ { m - q } u ^ { ( m ) } ( x ) d x ) | | \\frac { 1 } { n ! } \\int _ { z } ^ { b } ( b - x ) ^ { m } u ^ { ( m ) } ( x ) d x | } \\\\ & { \\leq \\psi ( | \\frac { 1 } { ( m - q ) ! } \\operatorname* { m a x } | ( b - x ) ^ { m - q } | \\int _ { a } ^ { b } u ^ { ( m ) } d x | ) | \\frac { 1 } { n ! } \\operatorname* { m a x } | ( b - x ) ^ { m } | \\int _ { a } ^ { b } u ^ { ( m ) } d x | } \\\\ & { = \\psi (  \\frac { 1 } { ( m - q ) ! } ( b - a ) ^ { m - q } | \\int _ { a } ^ { b } u ^ { ( m ) } d x | ) \\frac { 1 } { n ! } ( b - a ) ^ { m } | \\int _ { a } ^ { b } u ^ { ( m ) } d x | } \\\\ & { \\leq \\psi (  \\frac { ( b - a ) ^ { m - q - 1 } } { ( m - q ) ! } \\frac { 1 } { b - a } \\int _ { a } ^ { b } u ^ { ( m ) } | d x | ) |  \\frac { ( b - a ) ^ { m - 1 } } { n ! } \\frac { 1 } { b - a } \\int _ { a } ^ { b } u ^ { ( m ) } | d x | } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq \\frac { \\left( b - a \\right) ^ { n + 1 } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} \\psi \\left( \\frac { 1 } { b - a } \\int _ { a } ^ { b } \\left| u ^ { ( m ) } \\right| d x \\right) \\frac { 1 } { b - a } \\int _ { a } ^ { b } \\left| u ^ { ( m ) } \\right| d x\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq \\frac { \\left( b - a \\right) ^ { n + 1 } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { n + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { n + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} \\left( 1 + \\delta _ { 1 } \\right) \\frac { 1 } { b - a } \\int _ { a } ^ { b } \\Psi \\left( \\left| u ^ { ( m ) } \\right| \\right) d x } \\\\ & { = \\frac { \\left( b - a \\right) ^ { n } \\left( 1 + \\delta _ { 1 } \\right) } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { n + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} } \\\\ & { \\quad \\quad . \\int ^ { b } \\Psi \\left( \\left| u ^ { ( m ) } \\right| \\right) d x } \\end{array}\n$$$$\n\\cdot \\int _ { a } ^ { b } \\Psi \\Big ( \\Big | u ^ { ( m ) } \\Big | \\Big ) d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由文［18］的引理3的（ii）及条件（ii）可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\Psi \\Big ( \\Big | u ^ { ( m ) } \\Big | \\Big ) d x \\leq \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\psi \\Big ( \\Big | u ^ { ( m ) } \\Big | \\Big ) \\Big | u ^ { ( m ) } \\Big | d x = \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\psi \\Big ( u ^ { ( m ) } \\Big ) u ^ { ( m ) } d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再由分部积分与(2）可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\displaystyle \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\psi \\big ( u ^ { ( m ) } \\big ) u ^ { ( m ) } d x \\leq \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\left| u ^ { ( m - n ) } \\left( \\psi \\left( u ^ { ( m ) } \\right) \\right) ^ { ( n ) } \\right| d x } \\\\ { \\displaystyle \\ \\qquad = \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\left| r ^ { ( k ) } f \\big ( u ^ { ( q ) } \\big ) u ^ { ( m - n ) } \\right| d x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由文[18］的条件（iv）和（5）得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\displaystyle \\frac { 1 } { 1 + \\delta _ { 0 } } \\int _ { a } ^ { b } \\Big | r ^ { ( k ) } f \\Big ( u ^ { ( q ) } \\Big ) u ^ { ( m - n ) } \\Big | d x \\leq \\frac { 1 } { 1 + \\delta _ { 0 } } \\operatorname* { m a x } \\Big ( \\Big | f \\Big ( u ^ { ( q ) } \\Big ) u ^ { ( m - n ) } \\Big | \\Big ) \\int _ { a } ^ { b } \\Big | r ^ { ( k ) } \\Big | d x } \\\\ { \\displaystyle \\qquad \\leq \\frac { k _ { 0 } } { 1 + \\delta _ { 0 } } \\operatorname* { m a x } \\Big ( \\psi \\Big ( \\Big | u ^ { ( q ) } \\Big | \\Big ) \\Big | u ^ { ( m - n ) } \\Big | \\Big ) \\int _ { a } ^ { b } \\Big | r ^ { ( k ) } \\Big | d x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq \\frac { k _ { 0 } \\left( 1 + \\delta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } { \\left( 1 + \\delta _ { 0 } \\right) n ! } } \\\\ & { \\qquad \\cdot \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} } \\\\ & { \\qquad \\cdot \\displaystyle \\int _ { a } ^ { b } \\Psi \\left( \\left| u ^ { ( m ) } \\right| \\right) d x \\displaystyle \\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\right| d x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "若 $\\int _ { a } ^ { b } \\Psi \\Big ( \\big | u ^ { ( m ) } \\big | \\Big ) d x = 0$ ，则由文［18]的引理3及条件（i） $( \\nu )$ 可得 $\\Psi \\left( \\left| u ^ { ( m ) } \\right| \\right) = 0$ 则 $u ^ { ( m ) } = 0$ ，可知 $u = A _ { { m } } x ^ { m - 1 } + A _ { { m } - 1 } x ^ { m - 2 } + \\cdots + A _ { 2 } x + A _ { 1 }$ ， $( A _ { m } , A _ { m - 1 } \\cdots , A _ { 1 }$ 为常数)，但由边值条件 $u ^ { ( p ) } \\left( b \\right) = 0 , p = 0 , 1 , 2 \\cdots , m$ 可求得 $A _ { m } = A _ { m - 1 } = \\cdots = A _ { 1 } = 0$ ，与题设矛盾，故$\\int _ { a } ^ { b } \\Psi \\Big ( \\big | u ^ { ( m ) } \\big | \\Big ) d x \\neq 0$ ，可约去.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，由(6）(7）(8)得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\left( x \\right) \\right| d x \\geq \\frac { \\left( 1 + \\delta _ { 0 } \\right) n ! } { k _ { 0 } \\left( 1 + \\delta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\delta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理1的（i）得证.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理1的（ii）证明",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与定理1的（i）证明方法相似，若 $f$ 满足文[1]的条件（vi)，可得到与 (5）相似的结论",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf { \\biggl ( } { \\biggl | } u ^ { ( q ) } \\left( x \\right) { \\biggr | } { \\biggr ) } { \\biggl | } u ^ { ( m - n ) } \\left( x \\right) { \\biggr | } \\leq { \\frac { \\left( b - a \\right) ^ { n } \\left( 1 + \\theta _ { 1 } \\right) } { n ! } } \\operatorname* { m a x } \\left\\{ \\left( { \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } } \\right) ^ { \\theta _ { 0 } } , \\left( { \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } } \\right) ^ { \\theta _ { 1 } } \\right\\} \n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cdot \\int _ { a } ^ { b } F \\Big ( \\big | u ^ { ( m ) } \\big | \\Big ) d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "再由分部积分、文[18]的引理3，条件（ii）（iv）及(2）(9)可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { a } ^ { b } F \\big ( | u ^ { ( m ) } | \\big ) d x \\le \\frac { 1 } { 1 + \\theta _ { 0 } } \\int _ { a } ^ { b } f \\big ( | u ^ { ( m ) } | \\big ) | u ^ { ( m ) } | d x } } \\\\ & { } & \\\\ & { } & { \\le \\frac { k _ { 0 } } { 1 + \\theta _ { 0 } } \\int _ { a } ^ { b } \\psi ( | u ^ { ( m ) } | ) | u ^ { ( m ) } | d x } \\\\ & { } & \\\\ & { } & { = \\frac { k _ { 0 } } { 1 + \\theta _ { 0 } } \\int _ { a } ^ { b } \\psi ( u ^ { ( m ) } ) u ^ { ( m ) } d x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq \\cfrac { k _ { 0 } } { 1 + \\theta _ { 0 } } \\int _ { a } ^ { b } \\left| u ^ { ( m - n ) } \\left( \\psi \\left( u ^ { ( m ) } \\right) \\right) ^ { ( n ) } \\right| d x } \\\\ & { = \\cfrac { k _ { 0 } } { 1 + \\theta _ { 0 } } \\int _ { a } ^ { b } \\left| r ^ { ( k ) } f \\left( u ^ { ( q ) } \\right) u ^ { ( m - n ) } \\right| d x } \\\\ & { \\leq \\cfrac { k _ { 0 } } { 1 + \\theta _ { 0 } } \\operatorname* { m a x } \\left( \\left| f \\left( u ^ { ( q ) } \\right) u ^ { ( m - n ) } \\right| \\right) \\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\right| d x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq \\frac { k _ { 0 } \\left( 1 + \\theta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } { \\left( 1 + \\theta _ { 0 } \\right) n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\theta _ { 1 } } \\right\\} \\int _ { a } ^ { b } F \\left( \\left| u ^ { ( m ) } \\right| \\right) d x \\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\right| d x\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与上述判别 $\\int _ { a } ^ { b } \\Psi \\Big ( \\Big | u ^ { ( m ) } \\Big | \\Big ) d x \\neq 0$ 的方法类似，可得 $\\int _ { a } ^ { b } F \\Big ( \\big | u ^ { ( m ) } \\big | \\Big ) d x \\neq 0$ ，能约去.因此，可得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\left( x \\right) \\right| d x \\geq \\frac { \\left( 1 + \\theta _ { 0 } \\right) n ! } { k _ { 0 } \\left( 1 + \\theta _ { 1 } \\right) \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定理1的（ii）得证.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定理2的（i）证明",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "令 $\\Phi \\left( t \\right) = \\psi \\left( t \\right) { t }$ ， $t \\geq 0$ ．由(5)可得 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x ) { \\Big \\| } u ^ { ( m - n ) } ( x ) { \\Big \\| } \\leq { \\frac { ( b - a ) ^ { n + 1 } } { n ! } } \\operatorname* { m a x } \\left\\{ \\left( { \\frac { ( b - a ) ^ { m + 1 - q } } { ( m - q ) ! } } \\right) ^ { \\delta _ { 0 } } , \\left( { \\frac { ( b - a ) ^ { m + 1 - q } } { ( m - q ) ! } } \\right) ^ { \\delta _ { 1 } } \\right\\} w { \\bigg ( } { \\frac { 1 } { b - a } } \\int _ { a } ^ { b } \\left| u ^ { ( m ) } \\right| d \\kappa \\bigg ) { \\frac { 1 } { b - a } } \\int _ { a } ^ { b } \\left| u ^ { ( m ) } \\right| d \\kappa\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { \\left( b - a \\right) ^ { n + 1 } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} \\Phi \\left( \\frac { 1 } { b - a } \\int _ { a } ^ { b } \\left| u ^ { ( m ) } \\right| d x \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq \\frac { \\left( b - a \\right) ^ { n + 1 } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} \\cdot \\frac { 1 } { b - a } \\int _ { a } ^ { b } \\Phi \\left( \\left| u ^ { ( m ) } \\right| \\right) d x } \\\\ & { = \\frac { \\left( b - a \\right) ^ { n } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cdot \\int _ { a } ^ { b } \\Phi \\Big ( \\Big | u ^ { ( m ) } \\Big | \\Big ) d x .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由(2)和 (10)得",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\left. { \\int _ { a } ^ { b } \\Phi \\left( \\left| u ^ { ( n ) } \\right| \\right) = \\int _ { a } ^ { b } \\psi \\left( \\left| u ^ { ( n ) } \\right| \\right) \\left| u ^ { ( n ) } \\right| d x } } \\\\ & { = \\int _ { a } ^ { b } \\psi \\left( u ^ { ( n ) } \\right) u ^ { ( n ) } d x } \\\\ & { \\le \\int _ { a } ^ { b } \\left| u ^ { ( n - n ) } \\left( \\psi \\left( u ^ { ( n ) } \\right) \\right) ^ { ( n ) } \\right| d x } \\\\ & { = \\int _ { a } ^ { b } \\left| r ^ { ( k ) } f \\left( u ^ { ( n ) } \\right) u ^ { ( n - n ) } \\right| d x } \\\\ & { \\le k _ { n } \\psi \\left( \\left| u ^ { ( n ) } \\right| \\right) u ^ { ( n - n ) } \\left( c \\right) \\right| \\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\left( x \\right) \\right| d x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq \\frac { \\left( b - a \\right) ^ { n } k _ { 0 } } { n ! } \\operatorname* { m a x } \\left\\{ \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 0 } } , \\left( \\frac { \\left( b - a \\right) ^ { m + 1 - q } } { \\left( m - q \\right) ! } \\right) ^ { \\delta _ { 1 } } \\right\\} \\int _ { a } ^ { b } \\Phi \\left( \\left| u ^ { ( m ) } \\right| \\right) \\int _ { a } ^ { b } \\left| r ^ { ( k ) } \\left( x \\right) \\right| d x\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定理2的（i）得证.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定理2的（ii）的证明与（i）类似，可得",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } \\left. r ^ { \\left( k \\right) } \\left( x \\right) \\right. d x \\geq \\frac { n ! } { k _ { 0 } \\left( b - a \\right) ^ { n } } \\cdot \\operatorname* { m i n } \\left\\{ \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 0 } } , \\left( \\frac { \\left( m - q \\right) ! } { \\left( b - a \\right) ^ { m + 1 - q } } \\right) ^ { \\theta _ { 1 } } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[参考文献] ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]A.Lyapunov.Probleme General de la Stabilite du Mouvement [J]．Ann.Math.Studies，1949,17:   \n[2]R.C.Brown，D.B. Hinton. Lyapunov inequalities and their applications [M].Dordrecht,The Netherlands:Kluwer Academic Publishers,2000.   \n[3] S. Cheng. Lyapunov inequalities for differential and difference equations [J]. Fasc.Math., 1991,23(23):25- 41.   \n[4] A.Tiryaki. Recent development of Lyapunov-type inequalities[J]. Adv.Dyn.Syst.Appl.，2010, 5(2) :231- 248.   \n[5]R.P. Agarwal，A Ozbekler. Lyapunov type inequalities for second order sub and super-half-linear differential equations [J]. Dynamic Systems & Applications， 2015, 24(1) :211- 220.   \n[6] P.Almenar,L.Jodar. A Lyapunov inequality for a second order nonlinear differential equation [J]．Appl． Math. Lett.，2011,24(4) :524-527.   \n[7] D. Cakmak. On Lyapunov-type inequality for a class of nonlinear systems [J]. Electronic Journal of Qualitative Theory of Differential Equations,2013,16(1):101-108.   \n[8] D. Cakmak. On Lyapunov-type inequality for a class of quasilinear systems [J]. Electronic Journal of Qualitative Theory of Differential Equations,20l4,2014(9):1-10.   \n[9]O.Dosly，P. Rehak. Half-Linear Differential Equations ［J]． Math. Stud.，2005,202.   \n[10] G.Guseinov,B.Kaymakcalan. Lyapunov inequalities for discrete linear Hamiltonian systems [J]．Comput.Math.Appl.，2003,45(6):1399-1416.   \n[11] C.Lee,C. Yeh,C. Hong，R.P.Agarwal.Lyapunov and Wirtinger inequalities [J].Appl.Math. Lett.，2004,17(7) :847-853.   \n[12] J.P.Pinasco.Lower bounds for eigenvalues of the one-dimensional p-laplacian [J].Abstr. Appl． Anal.，2004,2004(2) :147-153.   \n[13] J.P.Pinasco.Comparison of eigenvalues for the p-laplacian with integral inequalities [J]. Appl． Math．Comput.，2006,182(2):1399 -1404.   \n[14] J.P. Pinasco.Lyapunov-type inequalities with applications to eigenvalue problems [J]. Springer Briefs in Mathematics.2013.   \n[15] X.Tang，M. Zhang. Lyapunov inequalities and stability for linear Hamiltonian systems [J]. Differential Equations， 2012,252(1) :358 - 381.   \n[16] A.Tiryaki,M. Unal，D. Cakmak. Lyapunov-type inequalities for nonlinear systems [J].Math. Anal． 2007,332(1) :497-511.   \n[17] P.L. De Napoli，J. P. Pinasco. A Lyapunov inequality for monotone quasilinear operators [J]．Differential Integral Equations，2005,18(10):1193-1200. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]J. Zheng， X. Guo. Lyapunov-type inequalities forγ - Laplacian equations[J]. chinaXiv:201805.00171，2018. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "邮箱：zhengjun@swjtu.edu.cn (郑军) ",
+        "page_idx": 7
+    }
+]

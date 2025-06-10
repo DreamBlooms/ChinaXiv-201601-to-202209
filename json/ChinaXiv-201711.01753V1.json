@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "白酒糟、啤酒糟和米酒糟对肉鸡的营养价值比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷涵杨灿\\* 陈思远 贺　瑜宾冬梅（衡阳师范学院，生命科学与环境学院，衡阳421008）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在比较白酒糟、啤酒糟和米酒糟在肉鸡上的营养价值。试验选取24 只平均体重为 ( $1 . 0 0 { \\pm } 0 . 1 2 \\$ ）kg 的42日龄湘黄肉公鸡，随机分为4组，每组6个重复，每重复1只鸡。按照 $4 { \\times } 4$ 拉丁方设计，4组肉鸡分别饲喂 $100 \\%$ 基础饲粮、 $80 \\%$ 基础饲粮 $+ 2 0 \\%$ 白酒糟、$80 \\%$ 基础饲粮 $+ 2 0 \\%$ 啤酒糟、 $80 \\%$ 基础饲粮 $+ 2 0 \\%$ 米酒糟。预饲7d后连续4d收集鸡只的粪便，测定酒糟、饲粮和粪便的养分含量，应用套算法计算白酒糟、啤酒糟和米酒糟的养分表观消化率。结果显示：米酒糟、白酒糟、啤酒糟的表观消化能分别为7.11、8.39、12.26 MJ/kg;粗脂肪含量分别为 $8 . 6 5 \\%$ 、 $7 . 6 6 \\%$ 、 $0 . 4 4 \\%$ ；粗纤维含量分别为 $1 1 . 2 2 \\%$ 、 $4 . 7 8 \\%$ 、 $2 1 . 6 1 \\%$ 。啤酒糟的粗脂肪表观消化率为 $2 5 . 6 4 \\%$ ，与白酒糟的 $2 8 . 5 4 \\%$ 差异不显著 $( P { > } 0 . 0 5 )$ ，但显著低于米酒糟的 $5 9 . 5 6 \\% ( P < 0 . 0 5 )$ 。白酒糟的粗纤维表观消化率为 $5 5 . 4 1 \\%$ ，显著高于啤酒糟的$3 8 . 7 4 \\%$ 和米酒糟的 $3 0 . 0 5 \\% ( P { < } 0 . 0 5 )$ 。白酒糟的各氨基酸表观消化率介于 $2 5 . 6 7 \\% \\sim 6 2 . 2 7 \\%$ 米酒糟的介于 $1 5 . 2 2 \\% \\sim 7 9 . 0 4 \\%$ 之间，啤酒糟的各氨基酸表观消化率要稍高些，介于 $5 0 . 7 2 \\% \\sim$ $9 0 . 1 0 \\%$ 。总之，不同酒糟间养分含量及养分表观消化率差异较大，啤酒糟虽粗纤维含量高，但其氨基酸表观消化率普遍较高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：酒糟；养分表观消化率；肉鸡中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "畜牧业的飞速发展导致饲料资源的紧缺。而伴随着酒精生产能力的扩大，酒糟的产出量也在不断增加。国外对酒糟的利用价值方面做了大量研究，但我国在这方面的报道却有限，生产中借鉴的也大多是国外研究数据[1]。国外的酒糟主要是生产工业用乙醇的副产物，而我国的酒糟主要是生产饮用酒精的副产物，我国年产酒糟巨大，但利用率不高。因此，有必要针对国内的酒糟进行营养价值评定，为酒糟在饲料行业的应用提供精确数据。本文旨在研究不同原料不同发酵工艺下的中国酒糟（白酒糟、啤酒糟和米酒糟）的营养价值及其在肉鸡上的消化率，为国产酒糟在动物生产上的应用提供数据支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 酒糟来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验用白酒糟和米酒糟来自湖南常德，啤酒糟来自湖南衡阳燕京啤酒厂。白酒糟的主要原料为玉米和稻谷，是作坊生产白酒后的副产物。啤酒糟的主要原料为小麦和稻谷，是工业生产啤酒后的副产物。米酒糟的主要原料为大米，是作坊生产米酒后的副产物。酒糟采样后直接放置在-20℃保存待用，配制饲粮前再将酒糟在 $6 0 { \\sim } 6 5$ ℃烘干，粉碎过 40目筛后制成风干样进行配料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "挑选体重（ $1 . 0 0 { \\pm } 0 . 1 2 \\$ ）kg、健康的42日龄湘黄肉公鸡24只，随机分为4组，每组6个重复，每重复1只鸡。按照 $4 { \\times } 4$ 拉丁方设计，4组试鸡分别饲喂 $100 \\%$ 基础饲粮、 $80 \\%$ 基础饲粮 $+ 2 0 \\%$ 白酒糟、 $80 \\%$ 基础饲粮 $+ 2 0 \\%$ 啤酒糟、 $80 \\%$ 基础饲粮 $+ 2 0 \\%$ 米酒糟。基础饲粮参考NRC（1994）家禽营养需要标准配制，其组成及营养水平见表1。试验在衡阳师范学院生命科学与环境学院动物学实验室进行。试鸡单笼饲养，消化笼高 $4 0 \\ \\mathrm { c m }$ 、长 $7 0 \\mathrm { c m }$ 、宽 $3 0 \\ \\mathrm { c m }$ 体积为 $0 . 0 8 4 \\mathrm { m } ^ { 3 }$ ，自由采食，自由饮水。预试期7d，采样期 $^ { 4 \\mathrm { d } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/04054df2cdf7b7fdbd699562db07f86bef82f356ef0916072f47bdc7b80fe837.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平(风干基础) ",
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米2 Corn 2 (GB2) 60.37</td></tr><tr><td>大豆粕2 Soybean meal (GB2) 15.57</td></tr><tr><td>全脂大豆(熟)Fullfat soybean (cooked) 19.55</td></tr><tr><td>石粉 Limestone 1.21</td></tr><tr><td>磷酸氢钙 CaHPO4 1.95</td></tr><tr><td>预混料 Premix* 1.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6f6f98d51697cfaa93a0a92a9fb8f2fa4b2ba40751854c18db88fb0a16eb6a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>食盐 NaCl 0.35</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平(计算值)Nutrient levels (calculated values)</td></tr><tr><td>粗蛋白质CP 18.60</td></tr><tr><td>钙Ca 0.95</td></tr><tr><td>总磷TP 0.67</td></tr><tr><td>可利用磷 AP 0.46</td></tr><tr><td>食盐 NaCl 0.36</td></tr><tr><td>赖氨酸Lys 0.97</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.57</td></tr><tr><td>苏氨酸Thr 0.74</td></tr><tr><td>色氨酸Trp 0.22</td></tr><tr><td>总能GE/(MJ/kg) 16.43</td></tr><tr><td>消化能 DE/(MJ/kg) 12.37</td></tr><tr><td>粗纤维CF 2.1</td></tr><tr><td>粗脂肪 EE 5.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预混料为每千克饲粮提供 The premix provided the following per kg of the diet：Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ， $Z \\mathrm { n }$ (as zinc sulfate) $8 0 ~ \\mathrm { m g }$ ， I(as potassium iodide) $0 . 7 \\mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 \\mathrm { m g }$ ，VA6 000 IU, VD 750 IU，VE 10 IU，VK $0 . 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 2 . 0 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 5 \\mathrm { m g }$ ，泛酸 pantothenic acid $1 0 ~ \\mathrm { m g }$ ， 烟酸 nicotinic acid $3 0 \\mathrm { m g }$ ，叶酸 colic acid $0 . 5 5 \\mathrm { m g }$ ，胆碱choline $1 0 0 0 \\mathrm { m g }$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预饲7d后分别于每只试鸡的肛门部系1个集粪袋，连续4d收集鸡只的排泄物，称重，每 $\\boldsymbol { 1 0 0 } \\mathrm { g }$ 鲜样加 $5 \\mathrm { m L } 1 0 \\%$ 硫酸避免氨氮损失，再加2\\~3滴甲苯防腐。排泄物样品保存于 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将待测原料、饲粮及排泄物样品在 $6 0 { \\sim } 6 5 ^ { \\circ } \\mathrm { C } ,$ 烘干，粉碎过40目筛后进行常规养分测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质、粗脂肪、粗灰分、粗纤维、盐酸不溶灰分含量分别参照GB/T 6435-2006、GB /T6433-2006、GB/T6438-1992、GB/T 6434-1994、GB/T23742-2009 的方法测定；总能（GE）采用IKA-KV600 digital 能量仪测定；用6mol/L 盐酸在110℃水解样品 $2 4 \\mathrm { ~ h ~ }$ 后，用日立L-8800 氨基酸分析仪按照GB/T18246-2000 的方法测定样品中氨基酸组成及含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用套算法计算酒糟中各养分的表观消化率。以氨基酸为例：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD { = } 1 0 0 \\times ( A { \\mathbf { - } } \\mathbf { B } ) / F { + } B _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $D =$ 待测原料氨基酸表观消化率 $( \\% )$ ; $\\scriptstyle A =$ 混合饲粮氨基酸表观消化率 $( \\% )$ ; $B =$ 基础饲粮氨基酸表观消化率 $( \\% )$ ; $F =$ 待测原料氨基酸占该原料组成混合饲粮氨基酸的比例 $( \\% )$ 。用内源指示剂法（即盐酸不溶灰分法)测定饲粮中各养分的表观消化率。以氨基酸为例：饲粮氨基酸的表观消化率 $( \\% ) { = } 1 0 0 { - } 1 0 0 \\times$ (饲粮中盐酸不溶灰分含量 $\\times$ 食糜中氨基酸含量)(粪中盐酸不溶灰分含量 $\\times$ 饲粮中氨基酸含量)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据以平均值 $\\pm$ 标准误表示，采用SAS8.0一般线性模型（GLM）对数据进行方差分析，差异显著时对组间进行Duncan 多重比较。 $P { < } 0 . 0 5$ 视为差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同酒糟的养分含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3种酒糟的养分含量见表2。本试验测得白酒糟中粗灰分含量为 $7 . 7 7 \\%$ ，而米酒糟仅为$1 . 8 5 \\%$ ，啤酒糟为 $2 . 9 1 \\%$ 。在粗脂肪含量方面，米酒糟最高，达 $8 . 6 5 \\%$ ，其次是白酒糟，为$7 . 6 6 \\%$ ，啤酒糟中粗脂肪含量仅为 $0 . 4 4 \\%$ 。啤酒糟的粗纤维含量高达 $2 1 . 6 1 \\%$ ，远高于米酒糟的 $1 1 . 2 2 \\%$ 和白酒糟的 $4 . 7 8 \\%$ 。在检测到的16种氨基酸中，谷氨酸、亮氨酸、天冬氨酸这3种氨基酸在酒糟中含量相对较多，在白酒糟中分别为 $3 . 1 8 \\%$ 、 $1 . 9 1 \\%$ 、 $1 . 2 1 \\%$ ，在啤酒糟中分别为 $6 . 2 2 \\%$ 、 $2 . 5 1 \\%$ 、 $2 . 4 8 \\%$ ，在米酒糟中分别为 $8 . 1 5 \\%$ 、 $3 . 7 2 \\%$ 、 $3 . 0 9 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6c4324d585f1652f744378d5452a067f8b6a06b45c93132a22ac5939ba0b9af.jpg",
+        "table_caption": [
+            "表2不同酒糟的养分含量(风干基础)",
+            "Table 2 Nutrient contents in different distiller's grains (air-dry basis) $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>白酒糟</td><td>啤酒糟</td><td>米酒糟</td></tr><tr><td>Items</td><td>White distiller's</td><td>Beer distiller's</td><td>Rice distiller's</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2097e2866dcf0a9c005b887b2547583fccb6be2f6cd1b2e81c746888d28ba24.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>grains</td><td> grains</td><td>grains</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>18.76</td><td>19.29</td><td>23.32</td></tr><tr><td>干物质 DM</td><td>89.68</td><td>75.42</td><td>89.16</td></tr><tr><td>粗灰分 Ash</td><td>7.77</td><td>2.91</td><td>1.85</td></tr><tr><td>粗脂肪 EE</td><td>7.66</td><td>0.44</td><td>8.65</td></tr><tr><td>粗纤维CF</td><td>4.78</td><td>21.61</td><td>11.22</td></tr><tr><td>氨基酸 Amino acids</td><td></td><td></td><td></td></tr><tr><td>苏氨酸 Thr</td><td>0.72</td><td>1.22</td><td>1.70</td></tr><tr><td>半胱氨酸Cys</td><td>0.25</td><td>0.55</td><td>1.03</td></tr><tr><td>氨酸 Val</td><td>0.97</td><td>1.81</td><td>2.57</td></tr><tr><td>蛋氨酸 Met</td><td>0.28</td><td>0.50</td><td>1.44</td></tr><tr><td>异亮氨酸 Ile</td><td>0.66</td><td>1.28</td><td>1.86</td></tr><tr><td>亮氨酸 Leu</td><td>1.91</td><td>2.51</td><td>3.72</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.91</td><td>1.81</td><td>2.32</td></tr><tr><td>赖氨酸Lys</td><td>0.69</td><td>1.49</td><td>1.40</td></tr><tr><td>组氨酸His</td><td>0.44</td><td>0.71</td><td>0.90</td></tr><tr><td>精氨酸Arg</td><td>0.72</td><td>1.87</td><td>2.38</td></tr><tr><td>天冬氨酸 Asp</td><td>1.21</td><td>2.48</td><td>3.09</td></tr><tr><td>丝氨酸 Ser</td><td>0.92</td><td>1.56</td><td>2.22</td></tr><tr><td>谷氨酸Glu</td><td>3.18</td><td>6.22</td><td>8.15</td></tr><tr><td>甘氨酸 Gly</td><td>0.66</td><td>1.26</td><td>1.59</td></tr><tr><td>丙氨酸 Ala</td><td>1.20</td><td>1.67</td><td>2.58</td></tr><tr><td>酪氨酸Tyr</td><td>0.52</td><td>1.03</td><td>2.08</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮添加不同酒糟对湘黄肉公鸡采食量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4d采样期中，基础饲粮组肉鸡的平均日采食量（ADFI）为（ $5 0 . 5 0 { \\scriptstyle \\pm 8 . 8 5 } ,$ g，而白酒糟、啤酒糟及米酒糟组肉鸡的 ADFI分别为 $( 4 4 . 1 2 { \\pm } 1 2 . 6 5 \\$ ）g、 $\\cdot 5 3 . 5 9 { \\pm } 1 0 . 1 9 \\$ ）g、 $3 8 . 1 7 { \\scriptstyle \\pm 5 . 8 1 }$ ）g。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同酒糟的养分表观消化率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 种酒糟的养分表观消化率见表3。3种酒糟的常规养分如干物质、粗脂肪、粗纤维、粗灰分的表观消化率均较低。啤酒糟的粗脂肪表观消化率只有 $2 5 . 6 4 \\%$ ，与白酒糟的 $2 8 . 5 4 \\%$ 差异不显著（ $P { > } 0 . 0 5$ ），但均显著低于米酒糟的 $5 9 . 5 6 \\% ( P < 0 . 0 5 )$ 。3种酒糟的粗灰分表观消化率均未能超过 $50 \\%$ ，白酒糟为 $3 5 . 2 6 \\%$ ，啤酒糟为 $2 7 . 0 2 \\%$ ，米酒糟为 $2 5 . 9 3 \\%$ 。白酒糟的粗纤维表观消化率为 $5 5 . 4 1 \\%$ ，显著高于啤酒糟的 $3 8 . 7 4 \\% ( P 0 . 0 5 )$ ，二者均显著高于米酒糟的 $3 0 . 0 5 \\% ( P { < } 0 . 0 5 )$ 。白酒糟各氨基酸的表观消化率均较低，介于 $2 5 . 6 7 \\% \\sim 6 2 . 2 7 \\%$ ，其中谷氨酸的表观消化率最低，为 $2 5 . 6 7 \\%$ ，蛋氨酸的表观消化率最高，为 $6 2 . 2 7 \\%$ 。相比较而言，啤酒糟的各氨基酸表观消化率要稍高些，介于 $5 0 . 7 2 \\% \\sim 9 0 . 1 0 \\%$ ，其精氨酸的表观消化率达到 $9 0 . 1 0 \\%$ 。米酒糟的各氨基酸表观消化率介于 $1 5 . 2 2 \\% \\sim 7 9 . 0 4 \\%$ ，其中酪氨酸的表观消化率仅为 $1 5 . 2 2 \\%$ ，而精氨酸的表观消化率为 $7 9 . 0 4 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb281649959da89dd2833519f57400fe569dcda27e674ca39692db124664fbeb.jpg",
+        "table_caption": [
+            "表3不同酒糟的养分表观消化率(风干基础)",
+            "Table 3Apparent digestibility of nutrients in different distiller's grains (air-dry basis） $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>-PP 白酒糟</td><td>啤酒糟</td><td>米酒糟</td><td>SE</td><td>P值</td></tr><tr><td>Items</td><td>White distiller's</td><td>Beer distiller's</td><td>Rice distiller's</td><td>M</td><td>P-value</td></tr><tr><td></td><td>grains</td><td>grains</td><td>grains</td><td></td><td></td></tr><tr><td>表观消化能</td><td>8.39b</td><td>12.26a</td><td>7.11b</td><td>1.20</td><td><0.000 1</td></tr><tr><td>ADE/(MJ/kg)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 dry matter</td><td>31.20b</td><td>58.24a</td><td>24.21℃</td><td>1.33</td><td><0.000 1</td></tr><tr><td>粗灰分 Ash</td><td>35.26a</td><td>27.02b</td><td>25.93b</td><td>0.79</td><td>0.006 0</td></tr><tr><td>粗脂肪 EE</td><td>28.54b</td><td>25.64b</td><td>59.56a</td><td>1.07</td><td><0.000 1</td></tr><tr><td>粗纤维 CF</td><td>55.41a</td><td>38.74b</td><td>30.05c</td><td>1.22</td><td>0.000 2</td></tr><tr><td>苏氨酸 Thr</td><td>38.84℃</td><td>77.59a</td><td>58.05b</td><td>1.05</td><td>< 0.000 1</td></tr><tr><td>半胱氨酸 Cys</td><td>39.44b</td><td>67.73a</td><td>19.46℃</td><td>3.90</td><td>0.002 3</td></tr><tr><td>氨酸Val</td><td>43.69b</td><td>79.04a</td><td>54.45b</td><td>1.27</td><td><0.000 1</td></tr><tr><td>蛋氨酸 Met</td><td>62.27a</td><td>51.61a</td><td>18.83b</td><td>2.48</td><td>0.000 1</td></tr><tr><td>异亮氨酸 Ile</td><td>39.18℃</td><td>79.55a</td><td>56.56b</td><td>1.53</td><td>0.000 2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b9121a3db56ff2667860f5ffec935a0f674806ef828a0b0ea523cc26a8922bb.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亮氨酸Leu</td><td>32.04c</td><td>79.95a</td><td>54.80b</td><td>0.99</td><td>< 0.000 1</td></tr><tr><td>苯丙氨酸 Phe</td><td>32.67℃</td><td>76.93a</td><td>47.43b</td><td>1.29</td><td><0.000 1</td></tr><tr><td>赖氨酸Lys</td><td>34.55℃</td><td>78.33a</td><td>62.90b</td><td>1.24</td><td>0.000 4</td></tr><tr><td>组氨酸 His</td><td>27.33</td><td>83.43a</td><td>70.41b</td><td>0.98</td><td>0.000 1</td></tr><tr><td>精氨酸 Arg</td><td>26.41°</td><td>90.10a</td><td>79.04b</td><td>0.48</td><td><0.000 1</td></tr><tr><td>天冬氨酸 Asp</td><td>29.98c</td><td>83.01a</td><td>65.63b</td><td>0.92</td><td><0.000 1</td></tr><tr><td>丝氨酸 Ser</td><td>39.00c</td><td>84.84a</td><td>63.11b</td><td>0.67</td><td>< 0.000 1</td></tr><tr><td>谷氨酸 Glu</td><td>25.67℃</td><td>87.22a</td><td>61.26b</td><td>0.67</td><td><0.000 1</td></tr><tr><td>甘氨酸 Gly</td><td>47.63b</td><td>63.68a</td><td>37.05℃</td><td>1.22</td><td>< 0.000 1</td></tr><tr><td>丙氨酸 Ala</td><td>39.83℃</td><td>75.66a</td><td>54.98b</td><td>1.28</td><td><0.000 1</td></tr><tr><td>酪氨酸Tyr</td><td>48.55a</td><td>50.72a</td><td>15.22b</td><td>2.41</td><td>0.000 1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Values in the same row with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本试验测得白酒糟总能为 $1 8 . 7 6 \\mathrm { M J / k g }$ ，粗脂肪含量为 $7 . 6 6 \\%$ ，明显低于徐建等[2的研究所得数据，总能只接近其数据的 $1 / 2$ ，但与王洁等[3得出的宁夏地区白酒糟的粗脂肪含量为$8 \\% \\sim 1 4 \\%$ 的数据很接近。李政一[4测得白酒糟的水分为 $7 \\% \\sim 1 0 \\%$ ，粗脂肪 $4 . 2 \\% { \\sim } 6 . 9 \\%$ ，粗纤维 $1 6 . 8 \\% { \\sim } 2 1 . 2 \\%$ ，粗灰分 $3 . 9 \\% \\sim 1 5 . 1 \\%$ ，本试验所得数据除了粗纤维含量明显低于李政二[9]所得数据外，其他养分含量均与其接近。总体上来说白酒糟的粗脂肪和粗纤维含量均不高，但氨基酸尤其是赖氨酸含量不足，仅为 $0 . 6 9 \\%$ ，蛋氨酸 $+$ 半胱氨酸含量为 $0 . 5 3 \\%$ 。来自吉林省的干玉米酒糟（白酒糟的一种）的赖氨酸含量与本试验所得一致，但含硫氨基酸含量要稍高些，为 $0 . 9 8 \\% ^ { [ 5 ] }$ 。本试验中啤酒糟的粗纤维含量为 $2 1 . 6 1 \\%$ ，是其他报道值[6-7]的2倍左右，而粗脂肪含量却远低于其他报道[8-10]，能值与美国的小麦型干酒糟及其可溶物（DDGSw）接近[1]。除了组氨酸、半胱氨酸和蛋氨酸含量较低外，其余氨基酸含量都高于夏伦志等[的试验数据，与邓启华等[8的报道较一致。与前人报道相比，本试验中啤酒糟的粗纤维含量较高，粗脂肪含量较低，这可能与啤酒糟来源于燕京啤酒厂，其生产工艺与其他报道不一致有关。本次试验所测米酒糟无论是从总氨基酸含量还是单个氨基酸含量看，都普遍低于其他报道[12-13]，但赖氨酸、蛋氨酸、半胱氨酸和苏氨酸含量高于黄酒糟[14]。米酒糟的粗纤维含量为 $1 1 . 2 2 \\%$ ，远高于袁生等[13]所测米酒糟的 $0 . 9 3 \\%$ 。综合比较表明，本试验中的米酒糟的粗脂肪含量较高，可以作为能量原料的补充，但粗纤维含量也较高，较高的粗纤维含量会影响家禽的消化率，从而影响生产性能。国内外对米酒糟的营养价值及消化率方面的研究较少，所以本次试验测出的数据可为米酒糟的研究提供参考。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验比较了饲粮添加不同酒糟后对鸡采食量的影响，发现与基础饲粮相比，啤酒糟的添加能促进鸡的采食，而白酒糟与米酒糟的添加均不同程度地影响了鸡的采食。这可能与啤酒糟香味纯正，诱导了鸡的食欲有关。酒糟具有一定的能量，其消化能数据与其他报道[8]相近。马雪云等[15]将啤酒糟以粉碎、膨化、未加工3 种不同的方法加工处理后分别饲喂种公鸡，其干物质表观消化率分别为 $54 . 8 6 \\%$ 、 $5 4 . 9 7 \\%$ 、 $5 3 . 3 0 \\%$ ，本试验所测的啤酒糟对鸡的干物质表观消化率为 $5 8 . 2 4 \\%$ ，与之结果相差不大；其粗纤维表观消化率分别为 $45 . 3 6 \\%$ 、45.43%、 $3 1 . 1 0 \\%$ ，但本试验所测的啤酒糟的粗纤维表观消化率为 $3 8 . 7 4 \\%$ ，显著低于粉碎和膨化处理过的啤酒糟的粗纤维表观消化率。干全酒糟及其可溶物（DDGS）在鸡上的氨基酸表观消化率的研究国内报道较少，仅见李秋菊等[16利用8种玉米型 DDGS 在蛋种公鸡上测定了主要必需氨基酸表观消化率平均值为 $7 7 . 1 2 \\%$ ，而本试验所用啤酒糟在湘黄鸡上所测定的主要氨基酸表观消化率的平均值为 $7 2 . 2 1 \\%$ 。本试验中氨基酸表观消化率数据比夏伦志等回用 DDGSw 在淮南麻黄鸡上所得数据高出一点点，但差异不大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对白酒糟、啤酒糟及米酒糟营养成分进行测定并对其养分表观消化率进行计算，得到如下结论：米酒糟，白酒糟，啤酒糟的代谢能分别为7.11、8.39、 $1 2 . 2 6 \\mathrm { M J / k g }$ ；粗脂肪含量分别为 $8 . 6 5 \\%$ 、 $7 . 6 6 \\%$ 、 $0 . 4 4 \\%$ ；粗纤维含量分别为 $1 1 . 2 2 \\%$ 、 $4 . 7 8 \\%$ 、 $2 1 . 6 1 \\%$ 。白酒糟及米酒糟的各氨基酸表观消化率分别在 $2 5 . 6 7 \\% \\sim 6 2 . 2 7 \\%$ 、 $1 5 . 2 2 \\% \\sim 7 9 . 0 4 \\%$ ，而啤酒糟的各氨基酸表观消化率要稍高些，在 $5 0 . 7 2 \\% \\sim 9 0 . 1 0 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]杨胜.饲料分析及饲料质量检测技术[M].北京:北京农业大学出版社,1993[2] 徐建,陈代文,毛倩,等.白酒糟的营养价值评定[J].中国畜牧杂志,2012,48(7):47-50.[3]王洁,边海霞,周云锋,等.DDGS 的营养价值及其在动物生产中的应用[J].广东饲",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "料,2016,25(6):41-43. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]李政一.白酒糟综合利用研究[J].北京工商大学学报:自然科学版,2003,21(1):9-13.[5]贾连平,吕中旺,祁腾飞.干玉米酒糟在国内外的生产和应用现状[J].中国畜牧兽医,2012,39(3):113-118.  \n[6]夏伦志,吴东,钱坤,等.小麦型干酒糟及其可溶物在淮南麻黄鸡上能量及氨基酸代谢率的测定[J].动物营养学报 2013,25(2):364-371.  \n[7]于洋.啤酒糟饲用价值的研究进展[J].畜牧市场,2010(4):19-21.  \n[8]邓启华,傅力,王德良,等.啤酒糟成分测定及饲料开发的研究-蛋白含量和纤维组分的分析[J].技术研究,2008(12):52-54.  \n[9]杨璐玲,吕永艳,张杰杰,等.啤酒糟对瘤胃发酵参数及纤维素酶活性的影响[J].动物营养学报,2013,25(10):2414-2421.  \n[10]王晓力,孙尚琛,匡艳蓓,等.不同地区啤酒糟基本成分测定及其分析[J].安徽农业科学2015,43(13):276-278.  \n[11] EMIOLA I A,OPAPEJU F O,SLOMINSKI B A,et al.Growth performance and nutrientdigestibility in pigs fed wheat distilers dried grains with solubles-based diets supplemented with amulticarbohy drase enzyme[J].Journal of Animal Science,2009,87(7):2315-2322.  \n[12]王晓玲.保健米酒酿造及利用米酒糟培养泰山赤芝的研究[D].硕士学位论文.无锡:江南大学,2009:32-33.  \n[13]袁生,虞光华,秦怀芝,等.米酒糟是有价值的对虾饵料蛋白源[J].饲料工业,1990(6):24.[14]呼慧娟.黄酒糟对生长肥育猪饲用价值的研究[J].硕士学位论文.杭州:浙江大学,2010:28-29.  \n[15]马雪云,侯宗良,陈无暇,等.鸡对啤酒糟的代谢率试验[J].当代畜牧,2000(4):43-45.[16]李秋菊,邓立康,李超,等.中国8个不同来源DDGS蛋公鸡氨基酸代谢率及评价方法相关性研究[J].中国农业科学,2011,44(16):3427-3435.  \nComparison ofNutritional Value among White, Beer and Rice Distiler's Grains for BroilersLEI Han YANG Can\\* CHEN Siyuan HE Yu BIN Dongmei",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(College of Life and Environment Science, Hengyang Normal Collge, Hengyang 421008, China) Abstract: This experiment was conducted to compare the nutritional value of white, beer and rice distillr's grains for broilers.A total of 24 Xianghuang female broilers with the average body weight of $( 1 . 0 0 { \\pm } 0 . 1 2 ) \\ \\mathrm { k g }$ were randomly divided into 4 groups with 6 replicates per group and 1 broiler per replicate. According to the $4 { \\times } 4$ Latin square design, broilers in those 4 groups were fed $100 \\%$ basal diet, $80 \\%$ basal diet $+ 2 0 \\%$ white distiller's grains, $80 \\%$ basal diet $+ 2 0 \\%$ beer distiller's grains and $80 \\%$ basal diet $+ 2 0 \\%$ rice distiller's grains. After 7 days of pre-feeding, the feces were collcted in next 4 days. The nutrient contents of distiller's grains, diets and feces was measured, and the apparent digestibility of nutrients of distiller's grains, diets and feces were calculated by substitution method. The results showed that apparent digestible energy of rice,white,beer distiler's grains was 7.11, 8.39 and $1 2 . 2 6 \\mathrm { M J / k g }$ , respectively; the crude fat content of rice, white, beer distiller's grains was $8 . 6 5 \\%$ ， $7 . 6 6 \\%$ and $0 . 4 4 \\%$ , respectively; and the crude fiber content was $2 1 . 6 1 \\%$ for beer distiller's grains, $1 1 . 2 2 \\%$ for rice distiller's grains, and $4 . 7 8 \\%$ for white distiller's grains. The apparent digestibility of ether extract was $2 5 . 6 4 \\%$ for beer distiller's grains, and it was not significantly different with white distiller's grains $( 2 8 . 5 4 \\% )$ $( P { > } 0 . 0 5 )$ , but significantly lower than that for rice distiller's grains $( 5 9 . 5 6 \\% )$ ） $( P { < } 0 . 0 5 )$ ). The apparent digestibility of crude fiber for white distiller's grains was $5 5 . 4 1 \\%$ ， which was significantly higher than that for beer distiller's grains $( 3 8 . 7 4 \\% )$ and rice distiller’s grains $( 3 0 . 0 5 \\% )$ $( P { < } 0 . 0 5 )$ . The apparent digestibility of different amino acids was from $2 5 . 6 7 \\%$ to $6 2 . 2 7 \\%$ in white distiller's grains, from $1 5 . 2 2 \\%$ to $7 9 . 0 4 \\%$ in rice distiller's grains,and it was slightly higher in beer distiller's grains, which was from $5 0 . 7 2 \\%$ to $9 0 . 1 0 \\%$ . In a word, there are larger differences in nutrient contents and their apparent digestibility among different distiller's grains. Although the beer distiller's grains have higher crude fiber content, they have commonly higher apparent digestibility of amino acids. Key words: distiller's grains; apparent digestibility of nutrients; broilers ",
+        "page_idx": 9
+    }
+]

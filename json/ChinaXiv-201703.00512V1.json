@@ -1,0 +1,280 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of annealing on $\\mathbf { V _ { m } H _ { n } }$ complexes in hydrogen ion irradiated Fe and Fe- $0 . 3 \\%$ Cu alloys ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Zhang a, Shuoxue Jin a, \\*, Eryang Lua, Baoyi Wanga, Yongnan Zhengb, Daqing Yuanb, Xingzhong Cao a, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aKey Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, Chinese Academy of Sciences, 100049, Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bChina Institute of Atomic Energy, Beijing 102413, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effect of annealing on $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes and Cu precipitate behaviors in hydrogen ion irradiated Fe and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys was investigated by positron annihilation spectroscopy using a slow positron beam. The results of S parameters indicated that the room temperature irradiation was benefit for the formation of the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complex compared to the elevated temperature irradiation. The S-W results confirmed the formation of $\\mathrm { C u }$ precipitates in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ even at the irradiation dose of O.1 dpa. The formation of the evident S value peaks in the damage region after annealing treatment suggested that the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes were broken and a larger of hydrogen atoms were escaping. The residual vacancy defects would migrate towards both the surface region and the opposite direction with the increasing annealing temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ion irradiation; $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complex; Annealing treatment; Doppler broadening spectra ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the research and development of nuclear materials，accelerated ion irradiation experiments are usually employed to shorten irradiation time,especially the hydrogen ion. Hydrogen ions were considered to be one of the most suitable ions to simulate neutron irradiation due to only one nucleon [1]. Thus,hydrogen ion has been widely investigated to simulate neutron irradiation damage/effect in nuclear reactor structural materials [2-4], since few neutron sources are available. However, the hydrogen，as the impurity atom，would be retained by the intrinsic and irradiation-induced defects. The thermal stability and the recovery of $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complex in Fe irradiated with high energy hydrogen ions were investigated by Ishizaki et al. The de-trapping energy of hydrogen atoms from vacancies is only about $1 ~ \\mathrm { e V }$ and hydrogen atoms could easily escape from the vacancy-type defects [2]. Ishizaki et al. also reported the effect of hydrogen atoms on microvoid formation in iron and the effect of annealing on the decomposition of hydrogen-vacancy complexes [3]. Yoshitaka et al. investigated the stability of hydrogen-vacancy complexes and their binding preferences in $\\mathfrak { a }$ -Fe,which suggested that hydrogen could enhanced the vacancy activities and vacancy formation [5]. Therefore， the inventory of the hydrogen in nuclear reactor structural materials is an important issue. In order to use hydrogen ion source better, we have to understand interaction of hydrogen and vacancy-type defects caused by hydrogen ions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cu atoms have a very low solubility in $\\mathfrak { a }$ -Fe below 800 K [6-8] and Cu precipitates are easily formed in FeCu alloy during thermal aging at elevated temperature as well as upon high-energy particle irradiation [6,8-1O]. The formation of copper precipitate could hinder the dislocation motion，which would lead to an increase of the ductile-to-brittle transition temperature in Fe-base alloys containing Cu impurities.Thus, the concentration of the Cu impurity must be limited strictly in commercial reactor structural materials. Xu et al. detected the formation of Cu cluster-vacancies complexes，and concluded that the growth of Cu precipitates depended on the nucleation and growth of microvoids，which did not increase monotonically with increasing irradiation dose [6,9]. The effect of annealing at ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$9 0 0 ~ ^ { \\circ } \\mathrm { C }$ on the formation of Cu precipitates and vacancy-Cu precipitate complexes was studied by Wu et al [11]. Yoshiie et al. reported the effect of damage rate on Cu precipitation and indicated that the precipitation was accelerated at lower damage rate [8]. Nagai et al. have concluded that voids were surrounded by Cu precipitates [12]. Cao et al. indicated that the precipitation of Cu atoms formed easily at lower irradiation dose [13]. Therefore, in order to clarify the effect of irradiation defects on the formation of Cu precipitates， it is important to establish a fundamental understanding of the interactions between Cu precipitates and the formation of vacancy-type defects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The main purpose of the present work was to investigate the effect of annealing on $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes and $\\mathtt { C u }$ precipitate behaviors in irradiated Fe and 1 $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys using positron annihilation spectroscopy based on a slow positron beam. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental Details ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As a model system, Fe and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy were chosen in the present study, which was melted from Fe( $9 9 . 9 9 5 \\%$ purity） and $\\mathtt { C u }$ （ $9 9 . 9 9 9 \\%$ purity） in vacuum using a high-frequency induction furnace. After melting,the solution treatment of alloys was carried out at $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ ，followed by quenching in ice water. The bulk materials were first cut to thickness of $1 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m }$ square sheets and then cold-rolled to a thickness of about $0 . 5 ~ \\mathrm { m m }$ . All samples were punched into $1 0 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m }$ square sheets, well-annealed at $9 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $0 . 5 \\mathrm { ~ h ~ }$ in a vacuum, and quenched in ice water. Before hydrogen ion irradiation, all the square sheet specimens were firstly mechanically polished with silicon carbide paper with the grades of 800-20oo,and then electrochemically polished to a mirror-like surface using $2 5 \\%$ perchloric acid and $7 5 \\%$ ethanol polishing solution at $\\boldsymbol { - 3 0 } ^ { \\circ } \\boldsymbol { \\mathrm { C } }$ ，Finally,the polished specimens were cleaned with acetone and ultrasonically rinsed in de-ionized water for 5 min. Already prepared polished sheet samples were irradiated with hydrogen ions at room temperature using an ion implanter located in China Institute of Atomic Energy. Irradiations were performed using $1 0 0 \\mathrm { k e V }$ hydrogen ions to a dose of O.1 dpa and 1.0 dpa. The beam was scanned in both the horizontal and vertical directions to maintain the uniformity of the irradiation dose,and the current density was $\\scriptstyle \\sim 2 \\ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ Irradiation times of about $0 . 5 \\mathrm { ~ h ~ }$ and $5 \\mathrm { ~ h ~ }$ were used, and the damage rate is about $5 . 5 { \\times } 1 0 ^ { - 5 } \\mathrm { d p a } / \\mathrm { s }$ . The damage profiles and distributions of hydrogen ions calculated by SRIM [14] are shown in Fig. 1,where the displacement energy was $4 0 \\ \\mathrm { e V }$ .After irradiation, the samples were annealed isochronally for $3 0 \\mathrm { m i n }$ in a vacuum of $1 0 ^ { - 5 } \\mathrm { { P a } }$ and the annealing temperatures were $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ ， $2 0 0 ~ ^ { \\circ } \\mathrm { C }$ ， $3 0 0 ~ ^ { \\circ } \\mathrm { C }$ ， $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation Doppler Broadening (DB） measurement was carried out at slow positron beam facility in Institute High Energy Physics. Slow positrons are generated by a $1 . 8 5 ~ \\mathrm { G B q }$ $^ { 2 2 } \\mathrm { { N a } }$ radiation source. The positron beam energy range is from 0 to $2 0 \\mathrm { k e V }$ . The detective depth of the slow positron is defined by the incident energy and is calculated by the empirical equation [15]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal Z } ( E ) = \\left( \\frac { 4 \\times 1 0 ^ { 4 } } { \\rho } \\right) E ^ { 1 . 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\scriptstyle { Z ( \\mathrm { E } ) }$ is the depth below surface and is expressed in nm and $\\mathrm { \\Delta E }$ is the incident energy $( \\mathrm { k e V } )$ of the slow positron, $\\rho$ is the pure Fe density in units of $\\mathrm { k g / m } ^ { 3 }$ . The calculated mean depth below the surface of the slow positron was shown in the top X-axis of Fig. 2 according to Eq. (1). Thus, the max detective depth of the incident positron could cover the damage profiles and distribution of hydrogen ions. In this work,we mainly studied the defects in the damage region and neglected surface region due to the interference of surface effect on positron. The damage region was about from ${ \\sim } 2 0 0 ~ \\mathrm { n m }$ to ${ \\sim } 6 0 0 \\ \\mathrm { n m }$ ,as shown in Fig.1. In the DB spectra, S parameters were measured to characterize the defect information and W parameters represented the formation of $\\mathrm { C u }$ precipitates. The S and the W parameters are defined as the ratios of the counts in central low momentum area ( $( 5 1 0 . 2 \\textrm { - } 5 1 1 . 8 \\mathrm { k e V } )$ and two flanks high momentum regions (514.83 - 518.66 keV and $5 0 3 . 3 4 - 5 0 7 . 1 7 \\mathrm { k e V } )$ in the DB spectra to the total counts, respectively. Annihilation $\\gamma$ -rays with a small energy displacement from the peak centre indicate positron annihilation with low-momentum valence electrons and thus the S parameter represents information on positron annihilation with vacancy-type defects. While, $\\gamma$ -rays with a large energy shift from the peak centre are due to positron annihilation with high-momentum regions of inner shell electrons and thus the W parameter conveys information on Cu element precipitates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e889c2c7863475c652d4215e8a13dbc134fd7c12cafd148798ee4d204604eeb1.jpg",
+        "img_caption": [
+            "Fig.1. SRIM calculation of damage profiles and ion distribution produced by 100 keV hydrogen ions. Damage region was about from ${ \\sim } 2 0 0 \\mathrm { n m }$ to $\\mathord { \\sim } 6 0 0 \\mathrm { n m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the S-E (S parameter-positron energy) curves for pure Fe alloy irradiated at 1.O dpa and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys irradiated at O.1dpa and 1.O dpa. The S parameters for the unirradiated samples were also drawn in Fig.2. For the pure Fe, the S parameter for the 1.O dpa sample was higher than that for unirradiated sample, which indicated that hydrogen ion irradiation generated vacancy-type defects. However, the S parameter for 1.O dpa sample decreases with increasing positron energy. In contrast to the SRIM calculation (see Fig. 1),no expected peak in the S parameter formed in the 1.O dpa irradiated specimen,and thus the experiment results are not consistent with the calculation. The dependence of the S parameter on positron energy for $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys irradiated at O.1 and 1.O dpa also indicate that the S parameters for irradiated specimens were larger than that for unirradiated one at overall region, but no peak formed in the damage region. A reasonable interpretation could be expressed by the following invertible formulation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { \\mathrm { V } _ { \\mathrm { m } } } +  { \\mathrm { H } _ { \\mathrm { n } } }   { \\mathrm { V } _ { \\mathrm { m } } }  { \\mathrm { H } _ { \\mathrm { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The deduced interpretation would be that a larger number of hydrogen deposited at the damage area and hydrogen atoms $\\mathrm { ( H _ { n } ) }$ occupied vacancy sites $( \\mathrm { V _ { m } } )$ ，which could lead to the formation of numerous $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes.The formation of the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes would affect the annihilation of positrons with the electrons in vacancy defects.No S parameter peak formed in the damage region. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/381b75491b350fcf1d219420a9927dea0fffe8cf13b2ee12988982ffab68f56c.jpg",
+        "img_caption": [
+            "Fig. 2. S-E curves for pure Fe and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ irradiated with different irradiation dose. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the irradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy, at all energies the S parameter for 1.O dpa was not larger than that for O.1 dpa sample, as shown in Fig. 2 (i. e. the S-parameter increased after O.1 dpa irradiation, and seemed saturated in 1.O dpa). The S values of the higher dose were almost the same with that of the lower dose from 11 to $2 0 \\mathrm { k e V . }$ The S values for 1.O dpa sample were even smaller than that for lower dose irradiation sample from $4  { \\mathrm { \\ k e V } }$ to $\\cdot$ ，The results were not consistent with our previous hydrogen ion irradiation experiment at elevated temperature [16]. In hydrogen ion irradiated I $\\mathsf { \\bar { e } } \\mathrm { - } 0 . 3 \\% \\mathrm { C u }$ alloy at $4 0 0 ^ { \\circ } \\mathrm { C }$ ,the S parameter for higher dose was larger than that for lower dose in the damage region (positron energy was from $8  { \\mathrm { \\ k e V } }$ to $2 0 \\mathrm { k e V }$ ） [16]. In the present work, the concentration of hydrogen atoms increased nearly 10 times in 1.O dpa sample. The room temperature irradiation would affect/limit the diffusion velocity of hydrogen atoms,which would promote $\\mathrm { H } _ { \\mathrm { n } }$ occupied $\\mathrm { V _ { m } }$ and formed the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes as shown in equation (2） and lead to the decrement of defect density. It could decrease the positron annihilation with low-momentum valence electrons. The elevated temperature could enhance the hydrogen atoms diffusion and escaping, which would delay the combination between hydrogen atoms and vacancy-type defects. Therefore，in the present study， room temperature irradiation was benefit for the formation of the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complex and the S parameter for 1.0 dpa was not larger than that for O.1 dpa sample. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As stated above, the W parameter was usually used to describe the information of core electrons annihilated with positrons. Especially， in the present study，W parameter is defined as the information of $\\mathrm { C u } 3 \\mathrm { d }$ electrons annihilated with positrons and thus the W parameter conveys information on Cu element precipitates.As we known, the S parameter conveys the information of vacancy-type defects. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 shows S versus W plots for all samples studies. The slope of the S-W plot could represent mechanism of positron annihilation after trapped. In Fig. 3, the (S, W) points of unirradiated and 1.O dpa pure Fe samples were almost at the same linear function from the surface region to bulk region (i. e., the values of slopes for the two samples were almost the same,as shown the lines 1 and 2 in Fig. 3). Because annihilation mechanism of the different defects annihilated with positrons is different and different kinds of positron annihilation site are characterized by the corresponding typical (S,W) couples, the S-W plot could be used to identify the number of defect types which are trapped by positrons in materials [15]. This indicated that there was only one type defect (vacancy-type defects) were detected by the positrons (i. e., the positron annihilation mechanisms were the same between unirradiated specimen and irradiated specimens). Fig. 3 also shows the S-W curves in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys and the correlation between Cu precipitates and irradiation induced defects (vacancy defects and $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes).Lines 3 to 5 correspond to the irradiation dose of unirradiated, O.1 and 1.O dpa, respectively. The slopes of the irradiated specimens were larger than that of unirradiated Fe- $. 0 . 3 \\% \\mathrm { C u }$ alloy, and the gradient value increased with irradiation dose.The change of slopes meant that the mechanism of positron annihilation has changed after hydrogen ion irradiation. The reason for the increment of the gradient value may be the Cu precipitates formation in irradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys. It is also clear that the changes of S and W are not independent, and S and W values were in an irrigorous inverse relationship in generally. Although the W parameter decreased partially due to the increment of S values in irradiated specimens, the increment of S-W gradient values also confirmed the formation of Cu precipitates in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ even at the irradiation dose of O.1 dpa. The increment of S-W gradient value with the irradiation dose indicated that the aggregation of Cu atoms was promoted further at higher irradiation. Since Cu atoms are easily aggregated by vacancy migration [6], the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes and the vacancy defects could be regarded as the sinks,which could absorb more small $\\mathrm { C u }$ precipitates. The aggregation of $\\mathrm { C u }$ atoms grew and coarsened finally with increasing irradiation dose. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cb8ad6f8c7cd9e5bd98a765674cf13bbb2a7c47ead221d05aad208c5e1c0afb.jpg",
+        "img_caption": [
+            "Fig.3. S versus W plots for the irradiated samples at different dose and the S-W curves of un-irradiated sample also included. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The evolution of the S parameters as a function of positron incident energy and annealing temperature in hydrogen ion-irradiated pure Fe and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy was shown in Fig. 4,and the isochronal annealing temperature were $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ ， $2 0 0 ~ ^ { \\circ } \\mathrm { C }$ $3 0 0 ^ { \\circ } \\mathrm { C }$ $4 0 0 ^ { \\circ } \\mathrm { C }$ and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ,respectively. In Fig. 4a, 1.O dpa ion irradiation generated vacancy-type defects and accompanied with the formation of $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes in pure Fe,as stated above. However, a predicted peak in the S parameter appeared in the damage region after $1 5 0 ^ { \\circ } \\mathrm { C }$ annealing treatment (see the peak 1). So $1 5 0 ^ { \\circ } \\mathrm { C }$ annealing treatment just could break the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes and the defect peak 1 appeared in \\~ $5 0 0 \\ \\mathrm { n m }$ ，as shown in Fig.4a. It clearly indicated that the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes were broken. A larger of hydrogen atoms was escaping at $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ and the remaining vacancy-type defect induced the increment of the S parameter. The residual vacancy would migrate in random directions in thermally-activated process. The vacancy defects would migrate towards both the surface region and the opposite direction after annealing treatment. With the annealing temperature increased to $2 0 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C }$ the depth of corresponding peaks (2 and 3） were about $4 2 0 \\ \\mathrm { n m }$ and $4 1 0 \\ \\mathrm { n m }$ ， respectively. The peak intensity of the S parameters gradually decreased from $1 5 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ~ ^ { \\circ } \\mathrm { C }$ . These also indicated that the vacancy-type defects gradually recovered with the increasing temperature. When the annealing temperature was $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ the depth of the defect peak 4 migrated to $2 4 0 \\mathrm { n m }$ . But the S value of peak 4 was larger than peaks 1,2 and 3. The reason may be that the migration and aggregation of vacancy defects would lead to the increment of the defect density in $\\sim 2 4 0 \\ \\mathrm { n m }$ . The peak 5 in $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ annealed specimen was located in $\\sim 2 3 0 \\ \\mathrm { n m }$ and the value was smaller than the peak 4. More remarkable, the annealing temperature increased from （2 $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ to $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ， the depth of the defect peak would migrate towards to surface. However, the residual vacancy defects also migrate towards the opposite direction, it is predicted that the other defect peak may existed the deeper region. The maximum energy of positron was only $2 0 \\mathrm { k e V } ,$ and the maximum detective depth in the pure Fe alloy for our equipment was only $\\sim$ $\\sim 6 0 0 \\ \\mathrm { n m }$ . Thus, it can't show another peak in the deeper region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The escaping of the hydrogen from the vacancy-type defects also appeared in post-irradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy annealed isochronally, as shown in Figs. 4b and 4c. For the O.1 irradiated I $\\vec { \\cdot } \\mathbf { e - } 0 . 3 \\% \\mathbf { C u }$ alloy,Fig. 4b shows clearly that the S parameter peaks migrated from the damage area towards to surface region (peaks 1-5) and the S parameters in the damage area gradually decreased with the increasing annealing temperature. The shrinkage of vacancy-type defects and the density of defects induced the decrease of S parameters during elevated annealing treatment. On the whole, the vacancy defects would migrate towards to surface region and the opposite direction after annealing treatment, and the vacancy-type defects gradually recovered with the increasing annealing temperature. However, the phenomena in Fig. 4c were complex in higher dose irradiated sample. There are two differences from the lower dose irradiation experiment results. One is that the S parameters (peak 1-3) in the damage region increased with the annealing temperature increased from $1 5 0 ^ { \\circ } \\mathrm { C }$ to $3 0 0 ^ { \\circ } \\mathrm { C }$ ,and the S value (peak 4） reduced to the lowest when the annealing temperature was （204 $4 0 0 ^ { \\circ } \\mathrm { C }$ . In addition, S parameters increased by the annealing in Fig. 4c. This suggests that the amount of vacancy-type defects after $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ $2 0 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C }$ annealing was higher than that in as-irradiated sample. It further showed that annealing could break the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes, and remaining vacancy-type defect after the escaping of hydrogen atoms induced the increment of the S parameter. For the higher dose irradiated specimen, the micro-void/void may form, and the larger size defects could hold the more hydrogen atoms than vacancy. Thus, the hydrogen atoms only completely released until more than $3 0 0 ~ ^ { \\circ } \\mathrm { C }$ .But elevated temperature $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ annealing treatment would lead to the shrinkage of micro-voids/voids and the decrement of S value.Another is that the peak 5 for the $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ annealed specimen was larger than peak 4 for the $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ annealed one.This is an unexpected phenomenon. Elevated annealed treatment ( $( 5 0 0 ~ ^ { \\circ } \\mathrm { C } )$ ）may promote the aggregation of the Cu precipitates and lead to the increment of S parameters,which need to research further. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b67ba23807c03c282e0317d97118b6d0056c523231773600b7eb6a87186a039.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bb28dbc0528c3fedd4d279d61f9664f2fa50d63c442674a30b9586db81057ab.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b402cda16544bc5d6ec3fff8cc26f413b967f327572e12a2fb2dd67ab5e9b70.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4. The evolution of the S parameters in post-irradiated pure Fe and $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys annealed isochronally,and the annealing temperature were $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ ， $2 0 0 ~ ^ { \\circ } \\mathrm { C } .$ $3 0 0 ~ ^ { \\circ } \\mathrm { C }$ ， $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，respectively. The S parameters of prior-irradiated specimen also included. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The pureFeand H $\\mathsf { \\bar { e } } { - } 0 . 3 \\% \\mathsf { C u }$ alloys were irradiated with $1 0 0 \\mathrm { k e V }$ hydrogen ions at room temperature. In order to study the effect of annealing on $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes and Cu precipitate behaviors, the irradiated samples were annealed isochronally for 30 min at $1 5 0 ^ { \\circ } \\mathrm { C }$ $2 0 0 ^ { \\circ } \\mathrm { C }$ $3 0 0 ^ { \\circ } \\mathrm { C }$ $4 0 0 ^ { \\circ } \\mathrm { C }$ and $5 0 0 ^ { \\circ } \\mathrm { C }$ ,respectively. The evolution of the defects in Fe and] $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloys was investigated by positron annihilation spectroscopy using a slow positron beam. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An analysis of the S parameter results indicated hydrogen atoms occupied vacancy sites and $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes were formed in hydrogen ion irradiated Fe and Fe- $. 0 . 3 \\% \\mathrm { C u }$ . The room temperature irradiation was benefit for the formation of the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complex compared to the elevated temperature irradiation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The S-W results confirmed the formation of Cu precipitates in Fe-O.3%Cu even at the irradiation dose of O.1 dpa,and the aggregation of $\\mathtt { C u }$ atoms grew and coarsened finally with increasing irradiation dose. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There was a predicted evident S peak appeared in the damage region after annealing treatment, and the depth of the S peak would gradually decrease with the increasing annealing temperature. The $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes were broken and the hydrogen atoms were escaping. The residual vacancy defects would migrate towards to both the surface region and the opposite direction after annealing treatment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science Foundation of China (91026006, 91226103 and 11475193) and the Xie Jialin Foundation of IHEP. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] G. S. Was, J. T. Busby, T. Allen, E. A. Kenik, A. Jenssen, S.M. Bruemmer, J. Gan, A. D.Edwards and P. M. Scott, J. Nucl. Mater. 300 (2002) 198.   \n[2] T. Ishizaki, Q. Xu, T. Yoshiie and S. Nagata, Materials Transactions 45 (2004) 9.   \n[3] T. Ishizaki, Q. Xu, T. Yoshiie, S. Nagata and T. Troev, J. Nucl. Mater. 307 (2002) 961.   \n[4] H. Momida, Y. Asari, Y. Nakamura, Y. Tateyama and T. Ohno,Phys. Rev. B 88 (2013) 144107.   \n[5] Y. Tateyama and T. Ohno, Phys. Rev. B 67 (2003) 174105.   \n[6] Q. Xu, T. Yoshiie and K. Sato, Phys. Rev. B 73 (2006) 134115.   \n[7] M.H. Mathon，A. Barbu,F. Dunstetter,F. Maury，N. Lorenzeli and C.H. deNovion, J. Nucl. Mater. 245 (1997) 224.   \n[8] T. Yoshiie, Q. Xu and K. Sato, Nucl. Instrum. Meth.B 303 (2013) 37.   \n[9] Q. Xu and T. Yoshiie, Philos. Mag. 91 (2011) 3716.   \n[10] K. Sato,Q. Xu,X. Z. Cao,P. Zhang,B. Y. Wang and H. Tsuchida,13th International Workshop on Slow Positron Beam Techniques and Applications (Slopos13) 505 (2014) 012011.   \n[11] H. B. Wu, X. Z. Cao, G. D. Cheng, J. P. Wu, J. Yang, P. Zhang, Z. X. Li, A. M. S. Rahman,R. S. Yu and B. Y. Wang,Physica Status Solidi a-Applications and Materials Science 210 (2013) 1758.   \n[12] Y. Nagai, Z. Tang, M. Hasegawa, T. Kanai and M. Saneyasu, Phys. Rev. B 63 (2001) 134110.   \n[13] X. Z. Cao, P. Zhang, Q. Xu, K. Sato, H. Tsuchida, G. D. Cheng, H. B. Wu, X. P. Jiang,R. S. Yu, B. Y. Wang and L. Wei, J. Phys. Conf. Ser. 443 (2013) O12017.   \n[14] http://www.srim.org/.   \n[15] J. Qiu, Y. Xin, X. Ju, L. P. Guo, B. Y. Wang, Y. R. Zhong, Q. Y. Huang and Y. C. Wu, Nucl. Instrum. Meth. B 267 (2009) 3162.   \n[16] S. Jin, X. Cao, P. Zhang, E. Lu, L. Guo, R. Yu and B. Wang, JJAP Conference Proceedings 2 (2014) (accept). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

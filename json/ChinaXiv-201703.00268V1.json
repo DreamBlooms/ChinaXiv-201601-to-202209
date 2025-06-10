@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "基于行扫描测量的运动目标压缩成像",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王盼盼1）2) 姚旭日 刘雪峰1) 俞文凯³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邱棚 日1）2) 翟光杰1）\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院 国家空间科学中心，复杂航天系统电子信息技术重点实验室，北京100190;2.中国科学院大学，北京100190;3.北京理工大学 物理学院，北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：运动目标成像在实际应用中具有重要作用，而如何获取高质量运动目标图像是该领域研究中的一个热点问题。本文采用行扫描的采样方式，通过构造运动测量矩阵，建立一种基于压缩感知理论的运动物体成像模型，并通过仿真及实验，验证了该模型对于恢复运动物体图像信息的可行性。实验结果证明，该方法可获得高质量的运动物体成像。通过引入图像质量评价标准，分析了运动物体成像质量与速度之间的关系。本文还将该方法与普通压缩感知算法进行比较，结果证明，在相同速度下，该方法的成像质量更高。因而，该成像方法在无人机对地观测、产品线视频监测等领域有着很好的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：压缩感知；运动目标成像；行扫描；测量矩阵",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "压缩感知（Compressed Sensing，CS）理论是由Candes、Donoho、Tao 等人提出的一种新型信号重建理论[1.2]。该理论指出，只要信号是可压缩的或在某个变换域下是稀疏的，可通过随机的观测矩阵将高维信号投影到低维空间上，并通过求解一个优化问题从少量的投影值重建原始信号。由于其打破了奈奎斯特采样定理的限制，所以该信号恢复理论成为近年来一个热点科学问题[3.4]。基于CS 理论的典型应用当属 Rice 大学提出的单像素相机模型，即仅用一个点探测器收集信息便可成像[5-7]。还有学者将其应用于量子成像，遥感成像，医学影音等领域[8-14]。与其他成像方式一样，获得高质量成像也是CS 算法追求的主要目标之一。然而，上述CS成像研究均是针对静止目标而言。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实际成像中，成像目标大多数是运动的，因而获取运动目标的高质量成像具有重要意义。比如在无人机对地观测、产品线视频监测等过程中，成像系统与探测目标之间的相对运动会导致获取的目标成像质量退化，产生运动模糊，所以运动目标的成像质量在实际应用中具有重要作用[15,16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，不少学者提出过有关于CS运动物体成像的模型，其中包括韩申生等提出利用散斑大小和速度检索可实现运动鬼成像的去模糊[17.18]，国防科技大学的刘吉英等提出的光学遥感运动补偿压缩成像，通过对运动条件下压缩采样的精确建模，实现了运动补偿压缩成像，有效提高了光学遥感的成像质量[19,20],以及本实验室研究小组提出的基于互补采样的运动目标压缩成像[21]。传统CS 成像算法普遍采用区域扫描成像，但是如果待重建图像像素规模较大时，测量矩阵规模也会很大，则在存储测量矩阵时会占用系统很大内存。本文提出采用采用行扫描的采样方式[23,24」，通过构造运动测量矩阵，建立一种新的基于压缩感知的运动物体成像模型，采用行扫描采样方式不仅可以使测量矩阵大幅减少存储量并提高测量采样时间。我们还在数值模拟的基础上，引入数字微镜器件[25-27]，搭建了一套原理验证实验装置，验证了该模型可用于重建高质量的运动物体图像，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1压缩感知理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "压缩感知理论（Compressed Sensing，CS）作为一种信息处理技术自 2006 年被提出以来就被有效地应用于许多光学领域。该理论指出，对稀疏或可压缩的信号进行少量非适应性的线性测量，所获取的信息就足够用来重建信号，这突破了传统的奈奎斯特采样定理。在压缩感知理论中，通过利用信号的稀疏性先验知识和优化算法，可以通过m 次测量恢复n维信号（ $\\mathbf { m } { < } \\mathbf { n } \\mathbf { \\backslash }$ ），也就是说可以实现亚采样重建物体信息。在压缩感知数学模型中，一个一维信号 $\\boldsymbol { x }$ 可以在一个稀疏基 $\\pmb { \\psi }$ 下稀疏表示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\nabla } _ { \\mathbf { { x } } } = \\Psi \\mathbf { \\dot { x } } ^ { ' }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { \\Delta x ^ { ' } }$ 是稀疏的，测量过程可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { y } = \\pmb { A } \\pmb { x } + \\pmb { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $y$ 为 $\\mathbf { m }$ 维矢量， $A$ 为一 $\\mathbf { m } \\times \\mathbf { n }$ 矩阵，即测量矩阵，这里 $\\mathbf { m }$ 可以小于 $\\mathfrak { n }$ ， $\\textbf { \\em e }$ 为噪声，当矩阵 $A$ 满足RIP（restricted isometry property）条件时[6-8]，信号 $\\boldsymbol { x }$ 可通过下面的优化目标函数得到：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { x } { \\frac { 1 } { 2 } } \\left\\| y - A \\pmb { \\psi } \\pmb { x } ^ { \\prime } \\right\\| _ { 2 } ^ { 2 } + \\tau \\left\\| \\pmb { x } ^ { \\prime } \\right\\| _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\tau$ 为一常数因子， $\\left\\| \\cdot \\right\\| _ { P }$ 代表 $\\textit { l } _ { P }$ 范数。物体信号的稀疏表示是压缩感知可亚采样有效恢复物体信息的重要前提和关键点，此外采样矩阵的设计构造和重建算法也是压缩感知的核心内容[1-4]。压缩感知理论凭借其独特的优势在光学领域得到了成功的应用[8-14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于改进行扫描测量矩阵的运动目标压缩成像",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上面介绍的算法已经广泛使用在对静态物体的压缩感知成像中，对于运动物体的成像需要重新定义。本文在行扫描的基础上建立了基于CS的运动物体成像模型。模型中引入参数v（pixels/sampling）[17,18]，来表示运动物体的速度，并规定物体在某一直线方向上运动，行扫描方向与物体运动方向为垂直关系，如图（1）所示。本文做出这样的扫描规定是符合机载扫描或产品线视频监测等应用的实际情况的。因为物体连续运动，而探测器不能保证完全采集到运动物体的全部信息，根据图像积分理论[28]，假设物体在dt时间内运动距离为dl，如图1所示，则速度可以表示为公式（4）所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu = \\frac { d l } { d t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设图像每行像素数为 $s _ { 0 }$ ， $d l$ 长度内的像素数为 $d s$ ，则：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s = s _ { 0 } \\cdot d l\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将公式（4）代入上式有： ${ \\frac { d s } { d t } } = s _ { 0 } \\nu$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将上式两边同时对 $s$ 求积分，便得到物体直线运动的连续函数，如公式（7）所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns { = } \\int \\limits _ { 0 } ^ { t } s _ { 0 } { \\nu } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/961a3e8ba90657b6f0f1dc5778a1e8964df289a32170876f88574cff87921c9d.jpg",
+        "img_caption": [
+            "图1.物体运动示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文规定待成像的物体是一幅像素规模为 $\\mathfrak { n } \\times \\mathfrak { n }$ 的图像 ${ \\bf \\Phi } _ { { \\bf x } }$ ，因为采用行扫描策略，所以在此 $\\boldsymbol { x }$ 每次仅有一行宽度的像素内容参与成像，经过多次行扫描过程，最终拼成一幅 $\\mathbf { n } { \\times } \\mathbf { n }$ 的图像。因为物体在连续运动，实际参与每次行扫成像的并不是一行像素内容，而是多于一行，多行像素内容混叠恢复出重建图的一行像素内容，如果按照正常CS 成像直接求解会使获取的物体图像严重退化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所以要想通过CS算法恢复出高质量的运动物体成像，就需要找出参与成像过程中行与行之间的关联，这也是本模型采用行扫描采样方式的原因之一。实际采样过程中，行扫描的每次调制过程都是物体的两行像素内容在参与成像，这里我们称之为“当前行 $x _ { u }$ ”和“下一行 $\\textstyle | x _ { d } \\quad |$ ”，而且在当前行 $x _ { u }$ 完全运动出探测器的扫描区域之前， $x _ { u }$ 和 $\\textstyle \\mathbf { x } _ { d }$ 所包含的像素内容大小一直在变化，设S表示行扫描每次采样过程中探测器收集到的像素信息，代入公式（7）可将 $s$ 表示如下，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = ( s _ { u } - \\intop _ { 0 } ^ { t } s _ { u } \\nu _ { 0 } d t ) + \\intop _ { 0 } ^ { t } s _ { d } \\nu _ { 0 } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $s _ { u }$ 和 $s _ { d }$ 分别表示当前行 $x _ { u }$ 和下一行 $\\textstyle \\mathbf { x } _ { d }$ 所包含的全部像素信息，公式（8）中等号右边第一部分 $s _ { u } - \\intop _ { 0 } ^ { t } s _ { u } \\nu d t$ 表示物体连续运动中，探测器收集到的当前行 $x _ { u }$ 参与成像的像素信息，即用当前行的全部信息 $s _ { u }$ 减去运动出去的像素信息（积分部分）得到；第二部分$\\int _ { 0 } ^ { t } s _ { d } \\nu _ { 0 } d t$ 表示收集到的下一行 $\\textstyle \\mathbf { x } _ { d }$ 参与成像的像素信息，即（积分部分）表示下一行进入到探测器探测范围的像素信息。将公式（8）对应到CS成像算法上表示为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = A [ ( x _ { u } - \\int _ { 0 } ^ { 1 } x _ { u } \\nu _ { 0 } d t ) + \\int _ { 0 } ^ { 1 } x _ { d } \\nu _ { 0 } d t ] + e = A [ ( 1 - \\int _ { 0 } ^ { 1 } \\nu _ { 0 } d t ) x _ { u } + ( \\int _ { 0 } ^ { 1 } \\nu _ { 0 } d t ) x _ { d } ] + e\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即一次采样期间，采集到的信息为 $x _ { u }$ 和 $\\textstyle \\mathbf { x } _ { d }$ 所包含的像素内容叠加，可见随着物体的连续",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运动， $x _ { u }$ 与 $\\textstyle \\mathbf { x } _ { d }$ 像素信息所占的权值比例一直在变动。本文中物体匀速运动，即 $\\nu _ { 0 }$ 为一常数，由公式（9）中的积分关系，可以很容易推导出如下公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb y } = { \\pmb A } ( p \\cdot { \\pmb x } _ { u } + q \\cdot { \\pmb x } _ { d } ) + { \\pmb e } = ( { \\pmb A } \\cdot p ) { \\pmb x } _ { u } + ( { \\pmb A } \\cdot q ) { \\pmb x } _ { d } + { \\pmb e }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\textit { p } , \\textit { q }$ 分别表示行扫描的每次采样中当前行 $x _ { u }$ 和下一行 $\\textstyle \\mathbf { x } _ { d }$ 被探测器收集到的像素内容所占的权值，即公式（9）中积分计算推导出的 $1 - \\intop _ { 0 } ^ { 1 } \\nu _ { 0 } d t$ 和 $\\int _ { 0 } ^ { 1 } \\nu _ { 0 } d t$ 。当 $x _ { u }$ 完全运动出探测器的扫描区域时，这时完成了一次行扫描，恢复出一行图像信息，需要说明的是这里恢复出来的一行图像为X1与X2 拼接的一行图像，用矩阵可表示为 $[ x _ { 1 } , x _ { 2 } ]$ ，即像素范围是 $1 \\times$ 2n,在呈现成像结果时，将其转换成 $2 \\times \\mathrm { n }$ 维度，即直接恢复出前两行图像信息。下一次行扫描时，原图像的第三行变成了此次行扫描的“当前行”，并以此类推完成 $\\mathbf { n } / 2$ 次隔行扫描，即可恢复出完整图像信息。采样到最后一行时，此时视野区域外也可参与计算，呈现最终成像结果时舍掉视野外的内容便可。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上行扫过程写成矩阵形式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = ( A \\cdot P ) x _ { u } + ( A \\cdot Q ) x _ { d } + e = [ A \\cdot P , A \\cdot Q ] [ x _ { u } , x _ { d } ] + e\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据CS 理论，我们把公式（11）中的 $[ A \\cdot P , A \\cdot Q ]$ 称为改进运动测量矩阵，用 $\\textbf {  { B } }$ 表示,即：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = [ A \\cdot P , A \\cdot Q ] = [ P , Q ] \\cdot [ A , A ]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { P } \\pmb { \\mathrm { = } } \\left[ \\begin{array} { c c c } { p _ { 1 } } & { \\ldots } & { p _ { 1 } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } \\\\ { p _ { m } } & { \\cdots } & { p _ { m } } \\end{array} \\right] \\quad , \\qquad \\pmb { Q } \\mathbf { \\mathrm { = } } \\left[ \\begin{array} { c c c } { q _ { 1 } } & { \\ldots } & { q _ { 1 } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } \\\\ { q _ { m } } & { \\cdots } & { q _ { m } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据公式（13）可看出，匀速运动时物体运动速度的快慢由矩阵 $_ { P , Q }$ 值的设置决定;非匀速运动时只要速度已知，对 $P , Q$ 矩阵进行调整即可；其中 $p _ { m } \\ 、 \\ q _ { m }$ 分别对应每次行扫的第 $\\mathbf { m }$ 次采样过程中 $x _ { u }$ 和 $\\textstyle \\mathbf { x } _ { d }$ 像素内容所占的权值，在当前行 $x _ { u }$ 完全运动出探测器的扫",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "描区域之前， $x _ { u }$ 和 $\\textstyle | x _ { d } \\quad |$ 所占的权值一直在变，即 $x _ { u }$ 参与成像的像素一直在变少，权值在变小，相反 $\\boldsymbol { x } _ { d }$ 的权值一直在变大。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { B = [ P , Q ] \\cdot [ A , A ] = \\left[ \\begin{array} { l l l l l l } { p _ { 1 } } & { \\dots } & { p _ { 1 } q _ { 1 } } & { \\dots } & { q _ { 1 } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { p _ { m } } & { \\dots } & { p _ { m } q _ { m } } & { \\dots } & { q _ { m } } \\end{array} \\right] \\cdot [ A , A ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { x } = [ \\pmb { x } _ { \\pmb { u } } , \\pmb { x } _ { d } ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { y } = \\left[ \\begin{array} { l } { y _ { 1 } } \\\\ { \\vdots } \\\\ { y _ { m } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "公式（14）中的 $A$ 为普通CS 算法中的测量矩阵，矩阵维度是 $\\mathrm { { m } } { \\times } \\mathrm { { n } }$ ， $\\textbf {  { B } }$ 为本文模型中的改进运动测量矩阵，维度为 $\\mathrm { m } { \\times } 2 \\mathrm { n }$ ，只要 $\\pmb { B }$ 满足相关约束条件，根据CS重建算法，便可重建出运动目标在不同速度下的图像。 $y$ 为每次行扫描的测量值。 $\\boldsymbol { x }$ 表示由 $x _ { u }$ 和 $\\boldsymbol { x } _ { d }$ 组成的一个 $2 \\mathrm { n } { \\times } 1$ 维的列向量，即实验中重建出的图像信息。 $\\textbf { \\em e }$ 为加入噪声，这里取高斯噪声，噪声标准差是观测值标准差的 $5 \\%$ ，表示为公式（17）。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS t d ( e ) = 0 . 0 5 S t d ( \\mathbf { y } )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上的改进CS算法，充分利用了行扫描采样方式在处理行与行之间像素关联问题的优势，有效地解决了运动物体成像问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3实验与数据分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证本文提出的基于行扫描的改进测量矩阵运动物体成像模型，利用DMD（数字微镜器件，Digital Micro-mirror Device）[25-27]可对入射光进行空间光调制，我们搭建了一套基于CS的运动物体成像实验装置，如图2所示，采用卤素灯作为光源，光源经过衰减片和滤光片后通过会聚透镜将光会聚到DMD上一定像素区域内。实验中所采用的DMD的微镜阵列规模是 $1 0 2 4 \\times 7 6 8$ ，微镜尺寸为 $1 3 . 6 8 \\mu \\mathrm { m } \\times 1 3 . 6 8 \\mu \\mathrm { m }$ ，每个微镜可以单独控制旋转 $+ 1 2 ^ { \\circ }$ 方向或者一 $1 2 ^ { \\circ }$ 方向，把这两种状态记为1和0，分别对应“开”和“关”状态。“开”状态时，DMD将光反射至后续的收光系统中；“关”状态时，其反射光不被收集。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验中为简化分析，让待成像物体为一幅二值虚拟物体图像[29.30]，如图3（a）所示为一大写字母A，像素规模为 $3 2 \\times 3 2$ 。每次行扫的图像区域为 $1 \\times 3 2$ 的像素范围，实验中采取“像素扩充”方法，将待成像物体的 $1 { \\times } 3 2$ 像素区域等比例扩充24倍对应到DMD上24$\\times 7 6 8$ 的像素区域上，区域外都处于“关”状态。实验中我们设定物体运动速度为1=0.041667pixels/sampling（即每次行扫描进行 24 次采样，这期间物体运动了一个像素24宽度的距离）[17,18]，对应采样率为对应到扩充之后的DMD上，相当于每次采样时间内，物体运动了一个DMD 微镜尺寸宽度的距离。这时：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { \\theta } \\mathbf { = } \\left[ \\begin{array} { c c c } { \\displaystyle { \\frac { 2 3 } { 2 4 } } } & { \\displaystyle { \\cdots } } & { \\displaystyle { \\frac { 2 3 } { 2 4 } } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\displaystyle { \\frac { 0 } { 2 4 } } } & { \\displaystyle { \\cdots } } & { \\displaystyle { \\frac { 0 } { 2 4 } } } \\end{array} \\right] , \\qquad Q _ { \\theta } \\mathbf { = } \\left[ \\begin{array} { c c c } { \\displaystyle { \\frac { 1 } { 2 4 } } } & { \\displaystyle { \\cdots } } & { \\displaystyle { \\frac { 1 } { 2 4 } } } \\\\ { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\displaystyle { \\frac { 2 4 } { 2 4 } } } & { \\displaystyle { \\cdots } } & { \\displaystyle { \\frac { 2 4 } { 2 4 } } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则公式(14)的改进运动测量矩阵可表示为公式（19）如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { { \\cal B } } = \\left[ P _ { 0 } , Q _ { o } \\right] \\cdot \\left[ { \\pmb { A } } , { \\pmb { A } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上式中关于测量矩阵 $A$ 的选择一条最基本的原则是满足RIP准则，根据以往学者的研究成果[34-36]可知服从伯努利分布的 $- 1 / 1$ 伪随机矩阵满足RIP准则并且容易实现而被广泛使用,它恰好能够满足DMD 这种二位空间光调制器的控制需求。另外，随机二进制矩阵的元素数值仅需一位即可表示，可以有效的节约存储空间和运算时间。因此本文中的 A 设计为$2 4 \\times 3 2$ 的 $- 1 / 1$ 伪随机矩阵。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再用 $\\textbf {  { B } }$ 对每行待成像物体的像素内容进行调制得到 $Y _ { o }$ ，将24个 $Y _ { o }$ 矩阵顺序加载到",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DMD上，依次对待成像物体的每一行像素宽度的图像进行压缩传感测量与重建，每次行扫测量数为24，总共32行，即进行16次隔行扫描，由公式（19）的改进测量矩阵可看出每次行扫描采样率为 $2 4 / 6 4 \\mathrm { = } 0 . 3 7 5 \\$ 。实验中经过DMD之后的反射光被收集透镜L4收集，利用光电桶探测器探测总光强，如图2所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9129b638a32d0d7e5086d9a35790d82bcae16ae2bb46556f9af774f1d8469ea0.jpg",
+        "img_caption": [
+            "图2实验装置图",
+            "图3实验重建图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最后，测量值 $\\textbf { y }$ 和改进运动测量矩阵 $\\textbf {  { B } }$ 作为重建算法软件的输入，利用TVAL3算法[31,32]求解，重建出待测运动图像信息，将每行恢复出的像素信息拼接，便得到完整恢复图像，如图3（c）所示。此外我们还在不同速度下比较了普通CS算法和本文改进CS 算法对于恢复运动物体图像的能力，实验表明，在不同速度下改进CS算法均具有更好的运动物体重建能力，如图3所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AAAAA（a）原图，像素规模 $3 2 \\times 3 2$ ；（b）普通CS 算法下速度为1/24 pixels/sampling（采样率为0.3750）的重建图；（c）改进算法下速度为1/24 pixels/sampling（采样率为0.3750）的重建图；（d）普通CS算法下速度为1/12 pixels/sampling（采样率为0.0833）的重建图；（e）改进算法下速度为1/12 pixels/sampling（采样率为0.0833）的重建图.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验证明，根据本文提供的基于行扫描的改进测量矩阵CS成像方法，在一定速度内可以实现高质量的运动物体图像。此外我们还通过仿真实验验证了该改进算法的有效性。仿真实验中我们选取了经典Lene 灰度测试图其中一部分的 $1 2 0 \\times 1 2 0$ 范围作为成像目标，并设定一组匀速运动的速度值，对普通CS算法和改进算法进行比较，得到如图4所示的运动物体重建图。可见本文提出的改进算法对于重建运动目标成像具有显著效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dc9a4af5d173f2cb9a23173614847019e90d86519c658f438eec3a5651ebe67.jpg",
+        "img_caption": [
+            "图4.仿真重建图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（a）原始图像 $6 4 \\times 6 4$ ；（b1）改进CS算法下速度0.01163pixels/sampling 重建图；（b2）普通 CS 算法下速度0.01163pixels/sampling 重建图；（c1）改进 CS 算法下速度0.01724pixels/sampling 重建图；（c2）普通算法下速度0.01724pixels/sampling 重建图；（d1）改进CS算法下速度0.02632pixels/sampling 重建图；（d2）普通算法下速度0.02632pixels/sampling重建图.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4性能对比",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了有效评价重建图像质量的好坏，本文还引入了均方差（Mean Square Error,MSE），定义式为公式（20），这是基于像素点间误差敏感的全参考图像质量评价指标，即把像素误差看作是图像质量的亏损。MSE 值越小，重建的图像质量越好。[33]",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM S E = \\frac { 1 } { M N } \\sum _ { j = 1 } ^ { M } \\sum _ { k = 1 } ^ { N } ( x _ { j , k } - x _ { j , k } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { x }$ 表示原始图像信号， $\\mathbf { \\Delta } _ { \\mathbf { \\boldsymbol { x } } ^ { \\prime } }$ 表示重建图信号，图像大小为 $\\mathbf { M } { \\times } \\mathbf { N }$ ， $j$ ， $k$ 分别代表图像的行和列，分析结果如图5所示。给出普通CS算法和本文改进运动测量矩阵算法的 MSE值随速度变化曲线，随着速度提高，图像重建质量均有所减弱，而本文改进运动测量矩阵算法的MSE 值明显一直低于普通CS 算法。所以，本文改进算法在提高运动物体CS成像质量上有显著成效。同时从图5中还可以看出当速度逐渐变大时，图像重建质量越来越差，这是因为当速度逐渐变大时，每次行扫描所采样到的每一行的像素内容越来越少，导致重建图像的退化越来越严重。从图（5）可看出当运动速度低于一定值时，MSE值随速度大小的变化缓慢，这是因为物体运动速度慢时相当于行扫描采样数已经足够CS 算法的重建需求，同样当速度快于一定值时，可看出MSE 曲线变化缓慢，这是因为当速度快于一定值以后，每次行扫描的采样数无限少，此时的重建图已经接近一幅随机图，所以速度再快对于MSE值的影响也很微弱了。可见随着速度的加快，采样数势必越来越少，采样率越来越低，重建质量也逐渐变差。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee30e370d50a01cf0de31a0ef082d462ae0877fa14d0e26d0e6aadf8d70fac50.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5非匀速运动成像",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以上描述均已匀速直线运动物体为前提，本节将本文提出的模型用于非匀速运动直线运动成像的计算，并给出仿真实验结果。由公式（8）可以得出，非匀速运动时将公式中的常量 $\\mathrm { \\Delta ~ v 0 ~ }$ 写成随时间变化的变量vt即可，如公式（21）所示。",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = ( s _ { u } - \\int _ { 0 } ^ { t } s _ { u } \\nu _ { t } d t ) + \\int _ { 0 } ^ { t } s _ { d } \\nu _ { t } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考上文匀速直线运动物体成像的计算过程可以得出非匀速直线运动时，只要各个时刻的速度已知，对公式（13）中P,Q矩阵进行调整即可得到采样过程中描述当前行与下一行像素内容所占权值关系的矩阵。本文给出加速度已知的匀变速直线运动物体成像的计算过程和仿真结果。设加速度为a（单位为pixels/sampling²），初速度为0，则任一时刻的瞬时速度可表示为公式（22）所示： $\\scriptstyle \\nu _ { t } = a t$ （204 (22)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "这里的 $\\mathrm { \\Omega ^ { t } }$ 应理解为采样的次数。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "将公式（22）带入公式（21）并求解积分可以得到 $S = s _ { u } ( 1 - \\frac { 1 } { 2 } a t ^ { 2 } ) + s _ { d } \\cdot \\frac { 1 } { 2 } a t ^ { 2 }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同样 $s _ { u } \\ : , \\ : s _ { d }$ 还是分别代表当前行和下一行所包含的全部像素信息，则同匀速运动一样，对应到CS成像算法上表示为",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = A ( p _ { t } \\cdot x _ { u } + q _ { t } \\cdot x _ { d } ) + e = ( A \\cdot p _ { t } ) ~ x _ { u } + \\left( A \\cdot q _ { t } \\right) ~ x _ { d } + e { = } [ A \\cdot P _ { t } , A \\cdot Q _ { t } ] [ x _ { u } , x _ { d } ] + e ^ { - \\frac { 1 } { 4 } ( A \\cdot Q _ { t } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "根据上式可以看出，非匀速运动时的计算过程和匀速运动成像的计算过程基本相似，加速度已知，则任一时刻的速度也可得到，只要对当前行和下一行所占像素的权值进行相应调整即可，也就是对矩阵Pt,Qt 中的元素乘以相应比例系数进行调整。本文给出一系列加速度值下的匀变速直线运动物体成像的仿真结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc8a59f6be4a21f45887c6d1df509419b5edad202457af39c66fcfee5bff4b81.jpg",
+        "img_caption": [
+            "图6.匀变速直线运动仿真重建图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（a）原图， $1 6 0 \\times 1 6 0$ ；（b）a=0.027027重建图；（c）a=0.030303重建图；（d）a=0.034483重建图;",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（e）a=0.076923重建图.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6结论与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文采用行扫描的采样方式，通过构造运动测量矩阵，建立了基于压缩感知的运动物体成像模型。并搭建了基于DMD的原理验证实验光路系统，验证了该模型在重建运动物体成像方面相较普通CS算法具有更高恢复能力。同时也发现当速度快于一定值时，重建图像质量发生较显著的退化现象，而且此模型目前分别对匀速水平、垂直运动和匀变速水平、垂直方向运动物体成像的重建有效，若物体沿倾斜方向运动，需要对模型进行相应修正，针对以上缺陷，我们将在今后的工作中展开进一步研究。鉴于本文提出的基于行扫描的改进测量矩阵压缩感知运动成像算法的优势，有理由相信将在实际成像领域中得到广泛应用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "芗丐乂酬 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] Candes EJ, Romberg J, Tao T 2006 IEEE Trans. Inf. Theory 52 489   \n[2] Donoho D L 2004 IEEE Trans. Inf. Theory 52 1289   \n[3] Candes E J 2O06 Proceedings of the International Congress of Mathematicians 3 1433   \n[4] Romberg J 2008 IEEE Signal. Pro 25 14   \n[5] Duarte M F, Davenport M A, Takhar D, Laska J N, Sun T, Kelly K F, Baraniuk R G 2008   \nIEEE Signal. Pro 25 83   \n[6] Takhar D, Laska JN, Wakin MB, Duarte MF, Baron D, Sarvotham S, Kelly K F, Baraniuk   \nR G 2010 Proc. SPIE, San Jose,CA, USA,Feb.2, 2006 p43   \n[7] Candes E J, Romberg J, Tao T 2006 Commun.Pure Appl.Math. 59 1027   \n[8] Howland G A, Howel JC 2013 Phys.Pev.X 3 1071   \n[9] Zhao C Q, Gong W L, Chen M L, Li E R, Wang H, Xu w d, Han S S Appl.Phys.Lett 101   \n141123   \n[10] Chen G H, Tang J, Leng S 2008 Med.Phy 32 660   \n[11] Gross D, Liu Y K,Flammia S T, Becker S, Eisert J 2O10 Physical Review Letters 105 2903   \n[12] Zhu L, Zhang W, Elnatan D, Huang B 2O12 Nature Methods 9 721   \n[13] Wu Y, Mirza I O,Arce G R, Prather D W 2011 Optics Letters 36 2692   \n[14] Arce G R, Brady D J, Carin L, Arguello H 2014 IEEE Signal Processing Magazine 31 105   \n[15] Spagnolo P, Orazio T D, Leo M, Distante A 2006 Image Vis.Comp 24 411   \n[16] Zhang C,Gong W L,Han S S,2012 Chinese Journal of Lasers 12 204[张聪，龚文林，韩   \n申生 2012 中国激光 24 411]   \n[17] Li X H, Deng C J, Chen ML, Gong W L, Han S S 2015 Chinese Laser Press 3 153   \n[18] Li E R, Bo Z W, Chen ML, Gong W L, Han S S 2014 Appl.Phys.Lett 104 251120 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[19] Yan F X, Zhu JB,Liu J Y 2014 Spacecraft Recovery & Remote Sensing 35 54 [严奉霞，朱 炬波，刘吉英 2014航天返回与遥感35 54]   \n[20] Liu J Y, Zhu JB, Yan F X, Zhang Z 2013 Inverse Problems & Imaging 4 1295   \n[21] Yu W K, Yao X R, Liu X F, Li L Z, Zhai G J2015 Appl. Opt. 54 4249   \n[22] Yu W K, Yao XR, Liu XF, Lan R M, Wu L A, Zhai G J 2016 Opt. Comm. 371 105 [23] Yu W K, Liu X F, Yao X R, Wang C, Gao S Q, Zhai G J, Zhao Q, Ge M L 2012 Physics 1202 5866   \n[24] Yu W K, Liu X F, Yao X R, Wang C, Zhai G J, Zhao Q 2014 Physics Leters A, 378 3406 [25] Ri S, Fujigaki M, Matui T, Morimoto Y 2006 Applied Optics 45 6940   \n[26] Li C R, Wang Q. 2013 Applied Mechanics & Materials 475 383   \n[27] Howland G A, Dixon PB, Howell J C 2011 Applied Optics 50 5917.   \n[28] Gonzalez R C,Woods R E (translated by Ruan Q Q, Ruan Y Z) 201O digital image processing (Beijing: Publishing House of Electronics Industry)pp40-55(in chinese)[冈萨雷斯, 伍兹著（阮秋琦，阮宇智译）2013数字图像处理（北京：电子工业出版社）第 40-55页] [29] Li MF, Zhang YR, Luo K H, Fan H 2013 Physical Review A 87 2285   \n[30] Li M F, Zhang YR,Fan H, Wu L A,Liu XF, Yao XR, Luo KH, 2O13 Applied Physics Letters 103 211119   \n[31] Yu W K,Liu X F, Yao XR, Wang C, Zhai Y, Zhai G J 2014 Scientific Reports 4 5834 [32] Gu YF,Yan B L,LeiWF,Han Y,Chen J2014 Acta Phys.Sin.1385[古宇飞，闫镔，李 磊，魏峰，韩玉，陈健 2014 物理学报1385]   \n[33] Yu W K,Li MF, Yao X R,Liu XF, Wu LA, Zhai G J2014 Optics Express 22 7133 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Moving target compressive imaging based on improved row scanning measurement matrices ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Wang Pan-Pan1)2) Yao Xu-Ri1Liu Xue-Feng1 Yu Wen-Kai3) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Qiu Peng 1)2) Zhai Guang-Jie1)\\* ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1. Key Laboratory of Electronics and Information Technology for Space Systems, Center for Space Science and Applied Research, Chinese Academy of Sciences, ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Beijing 100190, China; ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences, Beijing 1OO190, China; ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3. School of Physics, Beijing Institute of Technology, Beijing 1OO081, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Moving target imaging (MTI) plays an important role in practical applications, and how to capture high quality dynamic images of the target becomes a front-burner issue in this field. In this paper, a new MTI model based on compressed sensing is proposed to improve its reconstruction quality, applying a sampling scheme of the row-scanning together with a motion measurement matrix constructed by our own. The simulation and the experiments show that a relatively higher quality of the moving target imaging can be achieved through this approach. Furthermore，an evaluation criterion of reconstructed images is introduced to analyze the relationship between the imaging quality and the moving speed of the target. By comparison, it can be concluded that the performance of our algorithm is better than that of traditional compressed sensing algorithms under the same moving speed condition. Therefore,the results suggest that our imaging method has a great application prospect in the earth observation of unmanned aerial vehicles, video monitoring in the product line and other fields. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Keywords: compressed sensing; movingtarget imaging; row-scanning; measurement matrix ",
+        "page_idx": 15
+    }
+]

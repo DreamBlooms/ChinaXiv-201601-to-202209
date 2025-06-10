@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "左心室室壁瘤患者行左室成形术与单纯冠脉旁路移植术的中远期疗效对比",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "申磊磊，汪 成，王 嵘,肖苍松，吴 扬，王 瑶，龚志云，郭鹏飞，赵海智，高长青中国人民解放军总医院心血管外科，北京100853",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的评价左心室室壁瘤(left ventricular aneurysm,LVA)患者分别行左室成形术(surgical ventricular restoration,SVR)及单纯冠脉旁路移植术(coronary artery bypassgrafting,CABG)的中远期疗效。方法 回顾性分析1997年1月\\~2012年12月在我中心诊断为LVA的205例患者资料，其中行SVR115例,行单纯CABG90例，采用1:1配对方法，以术前超声心动图指标(室壁瘤大小、左室收缩末期容积指数LVESVI、左室射血分数LVEF)及EuroSCORE危险因素为配对标准,筛选32对纳人研究。比较两组患者围术期及术后1年、3年、5年心脏结构及功能变化、生存率及MACCEs发生率的差异。结果与单纯CABG对比,SVR术后心脏超声指标(左室内径LVEDD、左室收缩末期容积LVESV、LVESVI、左室舒张末期容积LVESDV、左室舒张末期容积指数LVEDVI)较术前明显减小,LVEF明显增加,NYHA分级明显改善;CABG术后仅LVEDD及LVEF较术前有所改善,随时间推移,两组心脏超声指标均呈上升趋势,组间差异逐渐缩小,并在术后5年差异无统计学意义 $( P { > } 0 . 0 5 )$ 。两组在中远期生存率及MACCEs事件发生率方面差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论对于LVESVI小于 $6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 的LVA患者，与单纯CABG对比,SVR并未减少MACCEs事件发生率，也未明显提高中远期生存率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：左心室室壁瘤；左室成形术；冠状动脉旁路移植术；生存率；主要不良心脑血管事件",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Surgical ventricular restoration versus isolated coronary artery bypass grafting for lefl ventricular aneurysm: comparison of mid- to long-term outcomes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHEN Leilei WANG Cheng, WANG Rong, XIAO Cangsong,WU Yang WANG YaoGONG Zhiyun,GUO Pengfei,ZHAO Haizhi,GAO   \nChangqing   \nDepartment of Cardiovascular Surgery, General Hospital ofPLA, Beijing 10853,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Tocompare themid-tolong-term outcomesof patients receiving isolated coronaryarterybypa grafting (CABG)versus surgical ventricular restoration (SVR)plus CABG for left ventricular aneurysms.Methods Theclinical data wereretrospectivelyanalyzed in 205 patients withleft ventricularaneurysms admited toour hospitalbetweenJanuary,997 and December,2012, including 115 patients receiving SVR plus CABG and 90 undergoing isolated CABG.By matching preoperative echocardiographic parameters includinganeurysm size,left ventricular ejection fraction (LVEF),leftventricular end-systolic volume index (LVESVI)andEuroSCORE risk factors,32 patients receiving SVR plusCABGand another 32 with isolated CABG wereenrolled in this study.The patients werecompared for survival rates，major adverse cardiac or cerebrovascularevents (MACCEs),eftventricular geometryandfunctionat1,3and5yearsoffollow-up.Results Compared with the patients receiving isolated CABG，those receiving SVR and CABG showed greater improvementsin echocardiographic parameters and NYHA functional clas.The diferences in the echocardiographic parameters between the two groups gradually reduced with time and became comparable at 5 years after the operation $( P { > } 0 . 0 5 )$ . No significant difference was found in the mid- to long-term survival or the incidence of MACCEs between the two groups $( P { > } 0 . 0 5 )$ Conclusion Compared with isolated CABG,SVR plus CABG does not reduce the incidence of MACCEs or improve the midto long-term survival rate of patients with left ventricular aneurysm with a LVESVI ${ < } 6 0 \\ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ ， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: leftventricularaneurysm; surgical ventricle restoration; coronary artery bypass grafting; survival rate; major adverse cardiac or cerebrovascular events ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着心梗后积极的溶栓治疗、冠脉血运重建技术(PCI和CABG)的快速发展，以及新药的推陈出新，冠心病患者急性心梗死亡率明显降低，但作为并发症之一的左心室室壁瘤(LVA)发生率仍相对较高，而LVA形成后导致的慢性心衰的治疗是公认的世界难题[]。多项回顾性研究5表明左室成形术(SVR)是LVA相对安全且有效的治疗措施，能减少左室容积、提高左室收缩功能、改善症状并提高5年生存率。然而，在结合心衰指南推荐的内科药物治疗措施后，心梗后左室扩张不明显的室壁瘤患者的最佳治疗方案因STICH研究而争议越来越大[67]。本研究通过对比我中心LVA患者行SVR与单纯CABG治疗，分析两种手术治疗的中远期效果，为该类患者寻找最佳的外科治疗策略提供临床证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1997年1月\\~2012年12月，在我中心通过超声心动图或左室造影明确诊断为LVA并行SVR的患者115例，其中男性100例，女性15例。同期，行单纯CABG的患者90例，其中男性77例，女性13例。先以术前心脏超声参数(室壁瘤大小,LVESVI,LVEF)为主要配对指标，初步筛选出SVR组与CABG组相配对患者，再以EuroSCORE危险因素(高血压病、高脂血症、糖尿病、年龄、性别等)为次要配对指标，按1：1的比率最终选取32对患者纳人研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2麻醉、体外循环及手术方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用静脉复合麻醉，给予有创动脉压力检测。放置Swan-Ganz导管及双腔静脉插管，监测中心静脉压、肺动脉压、肺动脉楔压及心排血量。常规建立体外循环。明确室壁瘤范围,根据术者经验选择Cooley、Jatene、Dor或SAVE术式。CABG可在SVR前或之后完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3临床资料收集及随访 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者术前行经胸二维超声心动图(TTE)检查，评估左室局部及整体功能，了解室壁瘤大小和位置。术中经食管超声心动图(TEE)不仅可以监测心功能和指导排气，还可即刻评价残留左心容积、补片缝合位置及二尖瓣反流程度。术后复查超声评价左室局部及整体收缩功能、左室腔容积、左室几何形状及二尖瓣反流程度的变化。嘱患者及时复查超声心动图，记录术后1年、3年、5年的LVEDD、LVESV及LVESVI、LVEDV及LVEDVI、LVEF、二尖瓣反流程度等指标。通过查阅病历、电话及信件方式随访，收集患者随访期间超声心动图指标、心功能分级，以及生存情况、MACCEs。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS15.0统计学软件，对所有数据进行正态性和方差齐性检验，正态分布的计量资料用均数 $\\boxdot$ 标准差或中位数表示，手术前后比较采用独立样本t检验；非正态分布的计量资料采用M(QR)表示，手术前后比较采用非参数检验。生存率及MACCEs发生率采用Kaplan-Meier法生存分析。计数资料用率和百分比表示，组间比较用x检验， $P { < } 0 . 0 5$ 认为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两组患者在性别、年龄、术前并发症、NYHA分级、术前冠脉情况等方面差异无统计学意义（ $( P { > } 0 . 0 5 )$ ，心脏超声指标中仅LVEDD差异有统计学意义（ $_ { P < 0 . 0 5 }$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两组患者在处理靶血管数目、前降支完全再血管化率、完全再血管化程度、ICU停留时间、术后住院时间、CPB使用率等方面差异有统计学意义( $P { < } 0 . 0 5 )$ ，其它方面差异均无统计学意义（ $\\mathrm { \\ P { > } 0 . 0 5 }$ ，表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两组患者术前NYHA分级差异无统计学意义( $P >$ 0.05)。截止至末次随访时，两组患者心功能分级与术前相比明显改善 $( P { < } 0 . 0 5 )$ ，但组间差异仍无统计学意义0 $\\scriptstyle \\mathrm { \\mathit { P } > 0 . 0 5 }$ ，表3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两组患者手术前后心脏超声指标变化情况：LVEDD的变化：SVR组术后LVEDD较术前明显减小（202 $( P { < } 0 . 0 5 )$ ,随着时间的推移,LVEDD有增大趋势,并在术后5年与术前相比差异无统计学意义 $( P { > } 0 . 0 5 )$ ，但较术后2周明显增大 $( P { < } 0 . 0 5 )$ ;CABG组术后2周及术后1年LVEDD较术前有所减小 $( P { < } 0 . 0 5 )$ ,但随时间推移亦有增大趋势，术后5年即与术前无明显差异（ $\\mathrm { \\stackrel { . } { \\it P } } { > } 0 . 0 5$ ，表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LVESV及LVESVI、LVEDV及LVEDVI的变化：SVR组术后LVESV及LVESVI、LVEDV及LVEDVI较术前明显减小 $( P { < } 0 . 0 5 )$ ,随着时间推移，两者有增加趋势，至术后5年与术前比较差异仍有统计学意义（ $P <$ 0.05)，与术后比较亦有明显差异( $( P { < } 0 . 0 5 )$ ;CABG组术后较术前未见明显减小，随着时间推移有减少趋势，但术后5年较术前稍有增加，但差异无统计学意义（ $P >$ 0.05）。组间比较：两组患者LVESV及LVESVI、LVEDV及LVEDVI基线水平无明显差异 $( P { > } 0 . 0 5 )$ ，但术后、术后1年比较差异有统计学意义，由于SVR组指标随时间推移有增大趋势，在术后5年两组间差异无统计学意义( $\\mathrm { P } { > } 0 . 0 5$ ，表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LVEF的变化：SVR组术后LVEF较术前相比明显增加 $( P { < } 0 . 0 5 )$ ,随着时间推移，LVEF有降低趋势,术后5年与术前相比差异仍有统计学意义（ $( P { < } 0 . 0 5 )$ ，但较术后差异无统计学意义（ $\\mathrm { \\ P { > } 0 . 0 5 ) }$ ;CABG组术后2周及术后1年LVEF较术前有所增加 $( P { < } 0 . 0 5 )$ ，但随时间推移亦有降低趋势，术后5年即与术前无明显差异( $\\mathrm { \\ P { > } 0 . 0 5 }$ ，表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在随访结果方面，截止至2016年1月31日，两组患者各失访2例，失访率 $6 . 2 5 \\%$ 。SVR组围术期(术后30天内)1例心源性死亡，随访期间死亡3例(心源性死亡2例,脑血管并发症死亡1例)。CABG组无围术期死亡，随访期间死亡4例(心源性死亡2例，呼吸衰竭死亡1例,脑血管并发症死亡1例)。使用Kaplan-Meier法计算两组患者生存率，两组差异无统计学意义 $( P { > } 0 . 0 5 )$ 0两组患者MACCEs免除率差异亦无统计学意义（ $\\cdot P >$ 0.05),分别绘制Kaplan-Meier曲线(表5,图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究表明，对于术前左室收缩末期容积指数小于$6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 的室壁瘤患者，左室成形术能有效恢复心脏几何结构及形态，并改善患者心脏功能状态，但与单纯冠脉旁路移植术相比，在中远期生存率、MACCEs事件免除率、心衰再入院免除率、再次心绞痛或心梗免除率、再次血管化治疗免除率及脑血管管并发症免除率等方面并无明显差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/af4dc44f1f182c3442daea75b4f14ef52874399f3623e9ff93c2088ade0cb91d.jpg",
+        "table_caption": [
+            "表1两组患者基本资料 Tab.1 Preoperative baseline characteristics of patients in SVR and CABG groups "
+        ],
+        "table_footnote": [
+            "SVR:Surgical ventricularrestoration;CABG:Coronaryarterybypassgrafting;LVEF:Leftventricularjectionfraction;LVEVI:Left ventricularend-systolicvolumeindex;LVEDD:Leftventricularen-diastolicdimension;LVA:Leftventricularanurysm;BM:Body mass index; COPD: Chronicobstructive pulmonarydisease;NYHA: NewYork heart assciation; AMI: Acute myocardial infarction. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>SVR (n=32)</td><td>CABG (n=32)</td><td>P</td></tr><tr><td>Gender (Male/Female)</td><td>27/5</td><td>27/5</td><td>1.000</td></tr><tr><td>Age (Mean±SD,year)</td><td>61.57±8.56</td><td>61.64±12.70</td><td>0.986</td></tr><tr><td>BMI (Mean±SD,kg/m²)</td><td>25.16±3.09</td><td>26.70±4.11</td><td>0.277</td></tr><tr><td>Clinical history [n (%)]</td><td></td><td></td><td></td></tr><tr><td>Smoking history</td><td>16 (50.0)</td><td>12 (37.5)</td><td>0.313</td></tr><tr><td>Hypertension</td><td>20 (62.5)</td><td>15 (46.9)</td><td>0.209</td></tr><tr><td>Hypercholesterolemia</td><td>4 (12.5)</td><td>3 (9.4)</td><td>1.000</td></tr><tr><td>Diabetes mellitus</td><td>8 (25.0)</td><td>6 (18.8)</td><td>0.545</td></tr><tr><td>Renal disease</td><td>0(0)</td><td>1 (3.1)</td><td>1.000</td></tr><tr><td>COPD</td><td>0(0)</td><td>1 (3.1)</td><td>1.000</td></tr><tr><td>Peripheral vascular disease</td><td>0(0)</td><td>1(3.1)</td><td>1.000</td></tr><tr><td>Cerebrovascular disease</td><td>7 (21.9)</td><td>3 (9.4)</td><td>0.168</td></tr><tr><td>History of PCI</td><td>5 (15.6)</td><td>4 (12.5)</td><td>1.000</td></tr><tr><td>NYHA functional class [n (%)]</td><td></td><td></td><td>0.141</td></tr><tr><td>I</td><td>0(0)</td><td>0(0)</td><td></td></tr><tr><td>II</td><td>12 (37.5)</td><td>17 (53.1)</td><td></td></tr><tr><td>Ⅲ</td><td>18 (56.3)</td><td>15 (46.9)</td><td></td></tr><tr><td>IV</td><td>2 (6.3)</td><td>0(0)</td><td></td></tr><tr><td>Time from AMI to hospital (year)</td><td>2 (0.5, 5)</td><td>2.75 (0.5, 8)</td><td>0.214</td></tr><tr><td>Angiographic profile</td><td></td><td></td><td></td></tr><tr><td>Culprit lesions (Mean±SD)</td><td>2.34±0.83</td><td>2.56±0.71</td><td>0.262</td></tr><tr><td>Left main stenosis [n (%)]</td><td>4 (12.5)</td><td>5 (15.6)</td><td>1.000</td></tr><tr><td>Pre-operative heart functional variables (Mean±SD)</td><td></td><td></td><td></td></tr><tr><td>LVEF</td><td>40.36±9.88</td><td>40.75±6.80</td><td>0.857</td></tr><tr><td>LVESVI</td><td>58.12±24.20</td><td>49.29±15.74</td><td>0.089</td></tr><tr><td>LVEDD</td><td>59.63±7.81</td><td>54.15±6.96</td><td>0.004</td></tr><tr><td>Size ofLVA (mmxmm)</td><td>(39.84±11.20)x(24.88±10.43)</td><td>(38.41±10.43)x(25.38±9.26)</td><td>0.831</td></tr><tr><td>2-dimension area of LVA (mm²)</td><td>1052.59±599.65</td><td>1025.12±569.58</td><td>0.852</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "60多年的发展变革，SVR同期行CABG被广泛认为是LVA患者安全有效的治疗措施，全球众多心脏外科中心的回顾性临床研究也表明它更能有效改善心功能，缓解症状，提高中远期生存率。但迄今为止唯一的前瞻性随机对照试验，即STICH研究却表明SVR同期CABG及单独CABG治疗在中远期总生存率及心源性再住院率方面并无明显差异，使得近年来LVA患者外科手术的术式选择争议越来越大。也有不少外科医生选择单纯CABG治疗提高室间隔等非室壁瘤部位冬眠心肌的灌注并控制室性心律失常的发生，结合药物治疗逐步提高心功能[8-9]。STICH研究小组将555例病人以基线LVESVI分为3个水平： $< 6 0 . 6 0 { \\sim } 9 0 . > 9 0 \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ ，结果表明生存率在3个水平之间并无明显差异；以术后4个月时的LVESVI水平进行亚组分析时，小于 $7 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 的患者接受SVR治疗的生存率要高于接受单纯CABG治疗的患者[10]。虽有作者指出该研究的入选对象的左室容积较小、更多室壁瘤性左室、术后左室容积减小率低及每个人选医院手术量小等问题，认为结果具有误导性[\"]，,但欧洲血运重建指南[12]对SVR的建议调整却是基于该研究做出的，指南建议左室扩张不明显且心功能较好的患者可能从SVR中获益较多，而左室扩张明显且心功能差的患者则可能获益不多。目前的临床实践中，由于早期介入治疗的普及，急性心梗能够在急性期开通罪犯病变，使得经典薄壁反常运动型室壁瘤变得少见，由心内膜下的坏死心肌和心外膜下不同程度的存活心",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/64d0f6c983fad6f7b7392a434464917e93b0d49f1be38a8fc86c03aba0cbdde8.jpg",
+        "table_caption": [
+            "表2两组患者围术期资料 Tab.2 Perioperative data of the patients in SVR and CABG groups "
+        ],
+        "table_footnote": [
+            "CPB:Cardial pulmonary bypass; IMA: Internal mammary artery; ICU: Intensive care unit. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>SVR (n=32)</td><td>CABG (n=32)</td><td>P</td></tr><tr><td>CPB [n (%)]</td><td>30 (93.75)</td><td>22 (68.75)</td><td>0.010</td></tr><tr><td>CABG [n (%)]</td><td>30 (93.75)</td><td>32 (100)</td><td>0.472</td></tr><tr><td>Treated vessels (range)</td><td>2 (1,3)</td><td>3 (2,3)</td><td>0.020</td></tr><tr><td>Revascularization of IMA [n (%)]</td><td>26 (81.3)</td><td>32 (100)</td><td>0.032</td></tr><tr><td>Total revascularization [n (%)]</td><td>19 (59.4)</td><td>27 (84.4)</td><td>0.026</td></tr><tr><td>Mitral valve procedure [n (%)]</td><td>0(0)</td><td>3 (9.4)</td><td>0.237</td></tr><tr><td>Ventilation time (h,range)</td><td>21 (17,38.7)</td><td>18 (17,21)</td><td>0.400</td></tr><tr><td>Ventilation time>24 h [n (%)]</td><td>12 (38.7)</td><td>6 (18.8)</td><td>0.080</td></tr><tr><td>ICU stay time (day,range)</td><td>5 (4.2, 6.7)</td><td>3 (2.8, 4.6)</td><td>0.002</td></tr><tr><td>Postoperative hospital stay (day,range)</td><td>16 (13.9,22.0)</td><td>12.5 (9, 15)</td><td>0.003</td></tr><tr><td>Perioperative adverse events [n (%)]</td><td></td><td></td><td></td></tr><tr><td>Cardiac death</td><td>1 (3.1)</td><td>0(0)</td><td>1.000</td></tr><tr><td>New onset atrial arrhythmia</td><td>3 (9.4)</td><td>0(0)</td><td>0.237</td></tr><tr><td>Ventricular fibrilation</td><td>4 (12.5)</td><td>0(0)</td><td>0.121</td></tr><tr><td>Postoperative renal failure</td><td>0(0)</td><td>0(0)</td><td>-</td></tr><tr><td>Low cardiac output syndrome</td><td>3 (5.0)</td><td>1 (1.7)</td><td>0.611</td></tr><tr><td>Cerebrovascular complications</td><td>1 (3.1)</td><td>0(0)</td><td>1.000</td></tr><tr><td>Intra-aortic balloon pump</td><td>3 (9.4)</td><td>1 (3.1)</td><td>0.606</td></tr><tr><td>Reoperation for bleeding</td><td>1 (3.1)</td><td>0(0)</td><td>1.000</td></tr><tr><td>Deep wound infection</td><td>0(0）</td><td>0(0)</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3两组患者手术前后NYHA分级情况",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4775004ab6e3c58fb4bf53f5d28b758f13fa79ed27a89eadd7fe38f5fb74f377.jpg",
+        "table_caption": [
+            "Tab.3Pre-and postoperative NYHA functional class of the patients in the two groups [n (%)] "
+        ],
+        "table_footnote": [
+            "Latest follow-up:SVR1\\~2O7 months,median follow-up is 70 months, CABG 8\\~180 months,median follow-up is 83 months. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>SVR</td><td>CABG</td><td>P</td></tr><tr><td>Preoperative NYHA (n=32)</td><td>2.59</td><td>2.47</td><td>0.141</td></tr><tr><td>I</td><td>0(0)</td><td>0 (0)</td><td></td></tr><tr><td>Ⅱ</td><td>12 (37.5)</td><td>17 (53.1)</td><td></td></tr><tr><td>Ⅲ</td><td>18 (56.3)</td><td>15 (46.9)</td><td></td></tr><tr><td>V</td><td>2 (6.3)</td><td>0(0)</td><td></td></tr><tr><td>Latest follow-up NYHA (n=26)</td><td>1.85</td><td>1.73</td><td>0.519</td></tr><tr><td>I</td><td>8 (30.8)</td><td>9 (34.6)</td><td></td></tr><tr><td>Ⅱ</td><td>14 (53.8)</td><td>15 (57.7)</td><td></td></tr><tr><td>Ⅲ</td><td>4 (15.4)</td><td>2 (7.7)</td><td></td></tr><tr><td>V</td><td>0(0)</td><td>0(0)</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肌构成的无运动型室壁瘤更常见13，左室扩张程度中等且心功能尚可的患者占多数。本研究入选的两组患者术前LVESVI在 $5 0 { \\sim } 6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 水平，LVEF在 $40 \\%$ 左右，室壁瘤大小在 $4 0 \\ \\mathrm { m m } \\times 2 5 \\ \\mathrm { m m }$ 左右，在中远期生存率、",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MACCEs事件免除率方面两组患者并无明显统计学差异，但SVR 对 患 者LVESV、LVESVI、LVEDV、LVEDVI、LVEF等心功能指标的改善要明显优于单纯CABG治疗，术后5年的随访结果仍优于术前水平，这和Marchenko等[14]及Prucz等[15]的研究结果类似。本研究结果和STICH的亚组分析结论一致，证实SVR治疗并不是基线LVESVI小于 $6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 的LVA患者的最佳选择。LVESVI的正常值范围是 $( 2 3 { \\pm } 6 ) ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ ，小于$6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 水平的LVA患者，给外科医生减少LVESVI的空间并不多；而且，左室腔太小容易导致低心排综合征和舒张功能不全，低心排综合征是围术期死亡的常见原因，舒张功能不全则是影响中远期临床效果的危险因素[14]。因此,在STICH研究中只有 $2 6 \\%$ 的患者在SVR术后LVESVI减少了 $30 \\%$ 以上， $40 \\%$ 的患者术后LVESVI并没有减少，有的反而有所增加[10]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究表明[，虽然左室扩张是LVA患者临床预后差的危险因素，但同时它也是心梗或慢性心肌缺血所导致的心肌损害的代偿机制。通过机械性或外科手术切断这种代偿机制，反而有可能打乱代偿与失代偿的平衡而最终损害患者的心功能。这种现象本研究也有体现，SVR同期CABG术后早期患者心功能(LVEF)较术前",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4两组患者心脏超声指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6afe7f334f9105c52c5eb49556307113608950ac97730abdab8ff1f4c1caec5.jpg",
+        "table_caption": [
+            "Tab.4 Echocardiographic results before and at different time points after the operation in SVR and CABG groups (Mean±SD) "
+        ],
+        "table_footnote": [
+            "$^ { * } P { < } 0 . 0 5$ compared between follow-up and preoperative; $^ { * } P { < } 0 . 0 5$ compared between follow-up and postoperative；△ $P { < } 0 . 0 5$ compared between the two groups. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>SVR</td><td>CABG</td></tr><tr><td>Preoperative (n=32)</td><td></td><td></td></tr><tr><td>LVEDD (mm)</td><td>59.31±7.80</td><td>54.15±6.96△</td></tr><tr><td>LVESV (mL)</td><td>105.92±37.70</td><td>89.37±28.67</td></tr><tr><td>LVESVI (mL/m²)</td><td>58.12±24.20</td><td>49.29±15.74</td></tr><tr><td>LVEDV (mL)</td><td>170.10±45.88</td><td>148.56±39.65</td></tr><tr><td>LVEDVI (mL/m²)</td><td>92.87±24.17</td><td>79.86±18.39△</td></tr><tr><td>LVEF (%)</td><td>40.36±9.88</td><td>40.75±6.80</td></tr><tr><td>Postoperative (n=32)</td><td></td><td></td></tr><tr><td>LVEDD (mm)</td><td>48.94±6.50*</td><td>48.69±5.37*</td></tr><tr><td>LVESV (mL)</td><td>59.48±26.46*</td><td>85±32.97△</td></tr><tr><td>LVESVI (mL/m²)</td><td>31.34±12.75*</td><td>46.88±12.1</td></tr><tr><td>LVEDV (mL)</td><td>110.75±35.20*</td><td>146.25±50.33△</td></tr><tr><td>LVEDVI (mL/m²)</td><td>58.61±16.74*</td><td>80.66±21.25</td></tr><tr><td>LVEF (%)</td><td>47.47±7.80*</td><td>44.47±7.18*</td></tr><tr><td>1-year follow-up</td><td>(n=28)</td><td>(n=30)</td></tr><tr><td>LCEDD (mm)</td><td>51.80±8.18*</td><td>49.44±6.32*</td></tr><tr><td>LVESV (mL)</td><td>61.89±26.62*</td><td>82.56±32.24</td></tr><tr><td>LVESVI (mL/m²)</td><td>35.39±15.54*</td><td>45.53±13.16^</td></tr><tr><td>LVEDV (mL)</td><td>125.72±58.95*</td><td>144.0±50.32^</td></tr><tr><td>LVEDVI (mL/m²)</td><td>65.93±22.71*</td><td>79.42±27.05</td></tr><tr><td>LVEF (%)</td><td>45.65±8.86*</td><td>44.50±7.26*</td></tr><tr><td> 5-year follow-up</td><td>(n=20)</td><td>(n=21)</td></tr><tr><td>LVEDD (mm)</td><td>53.91±10.32*#</td><td>51.43±6.32</td></tr><tr><td>LVESV (mL)</td><td>82.13±26.95*#</td><td>85.5±19.92</td></tr><tr><td>LVESVI (mL/m²)</td><td>44.29±19.79*#</td><td>46.7±10.66</td></tr><tr><td>LVEDV (mL)</td><td>138.22±45.29**</td><td>147.00±46.10</td></tr><tr><td>LVEDVI (mL/m²)</td><td>75.04±26.97*#</td><td>81.06±24.12</td></tr><tr><td>LVEF (%)</td><td>44.29±10.62</td><td>42.25±3.69</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "明显改善，但随时间推移，LVEF逐渐下降。而行单纯CABG术后，心功能较术前有轻度提高，在随访期间LVEF也有下降趋势，在术后5年时两组患者心功能差异无统计学意义。单纯CABG术后的随访期间心脏超声其它指标(LVESV、LVESVI、LVEDV、LVEDVI)较术前并无明显统计学差异，而SVR术后这些指标在随访期间较术前虽有明显改善，但两组间差异越来越小，并最终无统计学意义。这种现象的可能原因主要有：(1)SVR同期CABG术后左室内的冬眠心肌部分仍继续心室重构过程，左室沿着心脏短轴继续扩张，而非术前沿着心脏长轴扩张模式，这种迥异的重塑过程逐步损害改善的心功能，并最终导致心脏的球形结构[14；(2)对于心梗后左室扩张不明显的室壁瘤患者，主要问题可能还是心肌再血管化，通过完全再血管化增加心肌灌注并恢复冬眠心肌的活力，从而逆转心室重构，大量研究表明完全再血管化可明显改善左室形态及功能[17-19];(3)越来越多的证据表明,SVR术后左室收缩功能明显改善[20-22],但术后左室舒张功能反而受损，而这限制了心脏整体的“泵\"功能[23-25],STICH研究的作者认为这也是SVR与单独CABG治疗LVA出现中性结果的主要原因之一。舒张期左室顺应性降低，抵消改善的收缩功能7，逐渐出现二尖瓣返流及左室再扩张，二者相互作用，加重左室扩张及心功能恶化；(4)部分文献报道[26-27术前严重左室功能不全、残余心肌瘢痕组织多而存活心肌活力低、残余或新发二尖瓣返流、心肌细胞外基质的纤维化以及SVR术后的球形左室可能也是造成左室再扩张的原因。另有文献报道[28]，前降支应用内乳动脉行完全再血管化与手术死亡率及远期死亡率有关。本研究中两组患者左室扩张并不明显、心功能尚可，提示梗死段心肌变薄突出不明显，仅是未梗死段缺血严重而冬眠心肌继续重构，SVR组处理靶血管数目、前降支再血管化率及完全再血管化程度均低于单纯CABG组。完全再血管化后通过增加心肌灌注，冬眠心肌逐渐变为正常心肌，从而逆转心室重构过程，并最终体现在左室形态及功能上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究属于单中心回顾性研究,存在其固有的选择偏倚等非随机对照试验的缺陷；另外，对比研究的配对样本量偏少，有可能对心功能指标的比较、生存分析、MACCEs事件等产生影响。需要在今后的研究中不断扩大样本量，积极开展多中心前瞻性随机对照临床试验仍是解决这一研究领域相关问题的努力方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，对于左室收缩末期容积指数小于 $6 0 ~ \\mathrm { m L } / \\mathrm { m } ^ { 2 }$ 的左心室室壁瘤患者，与单纯冠脉旁路移植术对比，左室成形术并未减少MACCEs事件发生率，也未明显提高中远期生存率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]高长青.室壁瘤外科治疗学[M].北京:科学出版社,2006:57.   \n[2]Athanasuleas CL，Bukberg GD,Stanley AWH,et al. Surgical ventricular restoration in the treatment of congestive heart failure due to post-infarction ventricular dilation[J].J Am Col Cardiol, 2004,44:1439-45.   \n[3]Menicanti L,Castelvecchio S,Ranucci M,et al. Surgical therapy for ischemic heart failure:single-center experience with surgical anterior ventricular restoration[J].J Thorac Cardiovasc Surg,2007, 134(2): 433-41.   \n[4]Yamaguchi A,Adachi H,Kawahito K,et al.Left ventricular Reconstructionbenefitspatientswithdilatedischemic cardiomyopathy[J].Ann Thorac Surg,2005,79(2): 456-61.   \n[5]Di Donato M,Castelvecchio S,Kukulski T,et al． Surgical ventricular restoration:left ventricular shape influence on cardiac function,clinical status,and survival[J].Ann Thorac Surg,2009,87 (2): 455-61.   \n[6]Maxey TS,Reece TB,Ellman PI,et al. Coronary artery bypass with ventricular restoration is superior to coronary artery bypass alone in ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dfde7b8bdd4d1b0d6a7ea02b3bc7e6a6f2f56b6f7a675e9c24621bf03dc5aff7.jpg",
+        "table_caption": [
+            "表5两组患者随访情况比较 Tab.5 Follow-up data in SVR and CABG groups $( \\% )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>SVR</td><td>CABG</td><td>P</td></tr><tr><td>Survival</td><td></td><td></td><td>0.673</td></tr><tr><td>1-year follow-up</td><td>93.1±4.7</td><td>100</td><td></td></tr><tr><td>3-year follow-up</td><td>93.1±4.7</td><td>93.1±4.7</td><td></td></tr><tr><td>5-year follow-up</td><td>89.0±6.0</td><td>93.1±4.7</td><td></td></tr><tr><td> 8-year follow-up</td><td>80.9±9.5</td><td>70.6±16.6</td><td></td></tr><tr><td>Freedom from MACCEs</td><td></td><td></td><td>0.793</td></tr><tr><td>1-year follow-up</td><td>96.3±3.6</td><td>96.7±3.3</td><td></td></tr><tr><td>3-year follow-up</td><td>96.3±3.6</td><td>92.5±5.2</td><td></td></tr><tr><td> 5-year follow-up</td><td>86.5±7.4</td><td>92.5±5.2</td><td></td></tr><tr><td> 8-year follow-up</td><td>61.2±13.7</td><td>76.4±9.5</td><td></td></tr><tr><td>Freedom from rehospitalization for CHF</td><td></td><td></td><td>0.756</td></tr><tr><td>1-year follow-up</td><td>88.9±10.5</td><td>92.9±6.9</td><td></td></tr><tr><td>3-year follow-up</td><td>88.9±10.5</td><td>92.9±6.9</td><td></td></tr><tr><td>5-year follow-up</td><td>88.9±10.5</td><td>92.9±6.9</td><td></td></tr><tr><td>8-year follow-up</td><td>88.9±10.5</td><td>84.4±10.2</td><td></td></tr><tr><td>Freedom from recurrent angina or AMI</td><td></td><td></td><td>0.583</td></tr><tr><td>1-year follow-up</td><td>91.9±5.5</td><td>96.6±3.4</td><td></td></tr><tr><td> 3-year follow-up</td><td>91.9±5.5</td><td>96.6±3.4</td><td></td></tr><tr><td> 5-year follow-up</td><td>86.5±7.4</td><td>92.2±5.4</td><td></td></tr><tr><td> 8-year follow-up</td><td>61.2±13.7</td><td>75.2±9.9</td><td></td></tr><tr><td>Freedom fromrepeat revascularization</td><td></td><td></td><td>0.307</td></tr><tr><td>1-year follow-up</td><td>96.3±3.6</td><td>95.5±4.4</td><td></td></tr><tr><td> 3-year follow-up</td><td>96.3±3.6</td><td>95.5±4.4</td><td></td></tr><tr><td>5-year follow-up</td><td>91.9±5.5</td><td>95.5±4.4</td><td></td></tr><tr><td>8-year follow-up</td><td>78.8±13.0</td><td>85.9±9.9</td><td></td></tr><tr><td>Freedom from cerebral complications</td><td></td><td></td><td>0.129</td></tr><tr><td>1-year follow-up</td><td>96.3±3.6</td><td>75±21.7</td><td></td></tr><tr><td> 3-year follow-up</td><td>96.3±3.6</td><td>75±21.7</td><td></td></tr><tr><td>5-year follow-up</td><td>96.3±3.6</td><td>75±21.7</td><td></td></tr><tr><td>8-year follow-up</td><td>86.7±9.7</td><td>75±21.7</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "patients with ischemic cardiomyopathy[J].J Thorac Cardiovasc ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Surg,2004,127(2): 428-34.   \n[7]Jones R,Velazquez E,Michler R,et al. Coronary bypass surgery with or without surgical ventricular reconstruction[J].N Engl J Med,2009,360:1705-17.   \n[8]Hata M,Raman JS,Storer M,et al. The mid-term outcome of geometric endoventricular repair for the patients with ischemic left ventricular dysfunction[J].Ann Thorac Surg,2003(75): 1406-12.   \n[9]Di Donato M,FrigiolaA,Benhamouda M,et al. Safety and efficacy of surgical ventricular restoration in unstable patients with recent anterior myocardial infarction[J].Circulation,2OO4,11O(11 Suppl 1): I169-73.   \n[10]Michler RE,Rouleau JL,Al-Khalidi HR,et al.Insights from the STICH trial: Change in left ventricular size after coronary artery bypass grafting with and without surgical ventricular Reconstruction [J].JThorac Cardiovasc Surg,2013,146(5): 1139.   \n[11]Buckberg GD,Athanasuleas CL.The STICH trial: misguided conclusions[J].JThorac Cardiovasc Surg,2009,138(5):1060-4.e2.   \n[12] Stephan Windecker,Philippe Kolh,Fernando Alfonso,et al.2014 ESC/EACTS Guidelines on myocardial revascularization: the task force on myocardial revascularization of the european society of cardiology(ESC) and the european association for cardio-thoracic surgery (EACTS)[J].Eur HeartJ,2014,35(37): 2541- 619.   \n[13]Dzemali O,Risteski P,Bakhtiary F,et al. Surgical left ventricular remodeling leads to better long-term survival and exercise tolerance than coronary artery bypassgrafting alone in patientswith moderate ischemic cardiomyopathy[J].J Thorac Cardiovasc Surg, 2009,138(3): 663-8.   \n[14]Marchenko A,Chernyavsky A,Efendiev VA,et al．Results of coronary artery bypass grafting alone and combined with surgical ventricular Reconstruction for ischemic heart failure [J].Interact Cardiovasc Thorac Surg,2011,13(1): 46-51.   \n[15]Prucz RB，Weiss ES,Patel ND,et al.Coronary artery bypass grafting with orwithoutsurgical ventricularrestoration:a comparison[J].Ann Thorac Surg,2008,86(3): 806-14.   \n[16]Hwang SJ,Melenovsky V,Borlaug BA.Implications of coronary artery disease in heart failure with preserved ejection fraction[J].J Am Coll Cardiol,2014,63(25PtA): 2817-27.   \n[17]Garcia S,Sandoval Y,Roukoz H,et al. Outcomes after complete versus incomplete revascularization of patients with multi-vessel coronary artery disease:a meta-analysis of 89,883 patients enrolled in randomized clinical trials and observational studies[J].JAm Coll Cardiol,2013,62(16):1421-31.   \n[18]Kirschbaum SW,Baks T,Van Den Ent M,etal.Evaluation of left ventricular function three years after percutaneous recanalization of chronic total coronary occlusions[J].Am J Cardiol,2oo8,101(2): 179-85.   \n[19]Sharon W,Kirschbaum SW,Tirza S,et al. Complete percutaneous revascularization for multi-vessel disease in patients with impaired left ventricular function [J].JACC Cardiovasc Interv,2010(3): 392-400.   \n[20]Di Donato M,Toso A,Dor V,et al. Surgical ventricular restoration improves mechanical intraventricular dyssynchrony in ischemic cardiomyopathy[J].Circulation,2004,109:2536-43.   \n[21]Schreuder JJ,Castiglioni A,Maisano F,et al.Acute decrease of left ventricularmechanicaldyssynchronyand improvementof contractile state and energy efficiency after left ventricular restoration[J].JThorac Cardiovasc Surg,2005,129(1):138-45.   \n[22]Tulner SA,Bax JJ,Bleeker GB,et al. Beneficial hemodynamic and clinical effects of surgical ventricular restoration in patients with ischemic dilated cardiomyopathy[J].Ann Thorac Surg,2OO6,82(5): 1721-7.   \n[23]Brinke EA,Klautz RJ,Tulner SA,et al.Long-term effects of surgical ventricular restoration with additional restrictive mitral annuloplastyand/or coronary artery bypassgrafting on left ventricular function: Six-month follow-up by pressure-volume loops [J].JThorac Cardiovasc Surg,2010(140):1338-44.   \n[24] Castelvecchio S,Menicanti L,Ranucci MA. Impact of surgical ventricular restoration on diastolic function:implications of shape and residual ventricular size [J].Ann Thorac Surg,2Oo8,86(6): 1849-55.   \n[25]Dardas PS,Pitsis AA,Mezilis NE,et al.Left atrial function and work after surgical ventricular restoration in postmyocardial infarction heart failure[J].JAm Soc Echocardiogr,20o8,21(7): 841-7.   \n[26]Gelsomino S,Lorusso R,Capecchi I,et al.Left ventricular reverse remodeling after undersized mitral ring annuloplasty in patients with ischemic regurgitation [J].Ann Thorac Surg，20o8,85(4): 1319-30.   \n[27]Horii T, Tambara K,Nishimura K,et al.Residual fibrosis affects a long-term result of left ventricular volume reduction surgery for dilated cardiomyopathy in a rat experimental study [J].Eur J Cardiothorac Surg,2004(26):1174-9.   \n[28]Pasini S,Gaqliardotto P,Punta G,et al. Early and late results after surgical therapy of postinfarction left ventricular aneurysm[J].J Cardiovasc Surg (Torino),1998,39(2): 209-15. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b20827a0b989e50a64b97d40247c7fe588e1d1c5ecd8bb6c38d68cfb889275da.jpg",
+        "img_caption": [
+            "图1两组患者生存率 $( A )$ 、MACCEs事件免除率 $\\mathbf { \\eta } ( B )$ 、心衰再入院免除率 $( C )$ 再发心绞痛或心梗免除率 $( D )$ 、再血管化治疗免除率 $( E )$ 、脑血管并发症免除率 $( F )$ Kaplan-Meier曲线 Fig.1Kaplan-Meiercurvesofthesurvival (A),freedomfromACCEs(B),fredomfromrehospitalizationforCHF(C),freedom from recurrent angina or AMI $( D )$ ,freedom from repeat revascularization $( E )$ ,and freedom from cerebral complications $( F )$ between SVR and CABG groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（编辑：经媛）",
+        "page_idx": 6
+    }
+]

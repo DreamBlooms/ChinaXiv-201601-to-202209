@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "Nonminimal Inflation and the Running Spectral Index ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miao Li $^ { 1 , 2 }$   \n$^ { 1 }$ Interdisciplinary Center of Theoretical Studies   \nUSTC, Hefei, Anhui, China   \nand   \n（20 $^ 2$ Institute of Theoretical Physics   \nAcademia Sinica, P. O. Box 2735   \nBeijing 100080, China   \nmli@itp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study a class of models in which the inflaton is minimally coupled to gravity with a term $f ( R ) \\varphi ^ { 2 }$ . We focus in particular on the case when $f \\sim R ^ { 2 }$ , the expansion of the scale factor is driven by the usual potential energy, while the rolling of the inflaton is driven by the nonminial coupling. We show that the power spectrum is in general blue,and the problem of getting a running spectral index is eased. However,the inflaton potential must have a large second derivative in order to get a large running. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The WMAP three data reveal that the power spectrum of the primordial density fluctuation is not exactly scale invariant [1]. If we do not assume the running of the spectral index, $n _ { s } \\simeq 0 . 9 5$ . However, once the running of the spectral index is introduced as a parameter, the data favor a blue spectrum with a large running. It was shown that the noncommutative inflation model can in principle account for this large running [2], but with a rather unnatural potential [3]. For earlier studies on inflation models with a large running, see [4-7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We shall study an alternative class of models with the inflaton nonminimally coupled to gravity. This class of models is among those studied in [8], however, those authors did not study concrete models and moreover their method of treating fluctuation equations is limited to cases not including the class of models studied in this note. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the following, we shall assume a number of simplifications, leaving a more careful and detailed study to [9]. We shall see that when the nonminimal coupling term $f ( R ) \\varphi ^ { 2 }$ （20 assumes the form $f ( R ) \\sim R ^ { 2 }$ and inflation is slow-rolling, the evolution of the scale factor is driven by the potential energy $V ( \\varphi )$ only. There is a region in the parameter space where the roling of the inflaton is driven by only the nonminimal coupling term, we shall focus on this region, and once again leaving the study of more general situations to [9]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consider the following Einstein-Hilbert action coupled to a nonminimal infaton ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\frac { 1 } { 2 } M _ { p } ^ { 2 } \\int d ^ { 4 } x \\sqrt { - g } R + \\int d ^ { 4 } x \\sqrt { - g } \\left( - \\frac { 1 } { 2 } ( \\nabla \\varphi ) ^ { 2 } - V ( \\varphi ) - \\frac { 1 } { 2 } f ( \\frac { 1 } { 6 } R ) \\varphi ^ { 2 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { M _ { p } ^ { 2 } = \\frac { 1 } { 8 \\pi G } } \\end{array}$ is thereduced Planckasqad $f$ is afuctiooftatu （204号 $R$ . We will work with the FRW metric ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = - d t ^ { 2 } + a ^ { 2 } ( t ) d x ^ { 2 } = a ^ { 2 } ( \\tau ) ( - d \\tau ^ { 2 } + d x ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the co-moving time and $\\tau$ is the conformal time. The scalar curvature of the FRW metric reads: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = 6 \\left( \\frac { \\ddot { a } } { a } + ( \\frac { \\dot { a } } { a } ) ^ { 2 } \\right) = 6 \\frac { a ^ { \\prime \\prime } } { a ^ { 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the dot denotes the derivative with respect to $t$ and the prime denotes the derivative with respect to $\\tau$ . The equations of motion derived from(1） are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { { } } & { { } } & { { 3 M _ { p } ^ { 2 } a ^ { \\prime 2 } = \\displaystyle \\frac { 1 } { 2 } a ^ { 2 } \\varphi ^ { \\prime 2 } + ( V + \\frac { 1 } { 2 } f \\varphi ^ { 2 } ) a ^ { 4 } - f ^ { \\prime } a a ^ { \\prime \\prime } \\varphi ^ { 2 } + \\frac { 1 } { 2 } \\partial _ { \\tau } ( f ^ { \\prime } a a ^ { \\prime } \\varphi ^ { 2 } ) , } } \\\\ { { } } & { { } } & { { 6 M _ { p } ^ { 2 } a ^ { \\prime \\prime } = - a \\varphi ^ { \\prime 2 } + ( 4 V + 2 f \\varphi ^ { 2 } ) a ^ { 3 } - \\frac { 3 } { 2 } f ^ { \\prime } a ^ { \\prime \\prime } \\varphi ^ { 2 } + \\frac { 1 } { 2 } \\partial _ { \\tau } ^ { 2 } ( f ^ { \\prime } a \\varphi ^ { 2 } ) , } } \\\\ { { } } & { { } } & { { \\varphi ^ { \\prime \\prime } + 2 ( a ^ { \\prime } / a ) \\varphi ^ { \\prime } + ( V ^ { \\prime } + f \\varphi ) a ^ { 2 } = 0 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "note that $f ^ { \\prime }$ is the derivative of $f$ with respect to its argument $\\scriptstyle { \\frac { 1 } { 6 } } R$ , and $V ^ { \\prime }$ is the derivative of $V$ with respect to $\\varphi$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We shall impose the usual slow-roll conditions: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\ddot { \\varphi } \\ll 3 H | \\dot { \\varphi } | , \\quad | \\dot { H } | \\ll H ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to simplify calculations, we assume $\\begin{array} { r } { \\frac { 1 } { 2 } ( \\dot { \\varphi } ) ^ { 2 } \\ll V } \\end{array}$ ， the above slow-roll conditions lead to ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| V ^ { \\prime \\prime } + f - \\frac { 1 2 f ^ { \\prime } H ^ { 2 } \\dot { H } \\varphi } { V ^ { \\prime } + f \\varphi } | \\ll 9 H ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To make the maximal use of the nonminimal coupling term $f \\varphi ^ { 2 }$ ，we shall assume that in the e.o.m. for $\\varphi$ ， the force due to the nonminimal coupling is much larger than the one caused by the usual potential $V$ ，namely ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| f \\varphi | \\gg | V ^ { \\prime } | .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With this assumption,the third term on the L.H.S. of the first equation in (6) becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 2 f ^ { \\prime } H ^ { 2 } { \\dot { H } } } { f }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and it is much smaller than $1 2 H ^ { 2 }$ parametrically if $f$ is a monomial of $R$ . In this case, (6) simplifies to ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| V ^ { \\prime \\prime } + f | \\ll 9 H ^ { 2 } , \\quad | f ^ { \\prime } \\dot { H } \\phi ^ { 2 } | \\ll V .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With these conditions in mind,after some lengthy calculations, we find the much simplified equations of motion ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n3 M _ { p } ^ { 2 } H ^ { 2 } = \\frac { 1 } { 2 } ( f - f ^ { \\prime } H ^ { 2 } ) \\varphi ^ { 2 } + V ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n3 H \\dot { \\varphi } = - f \\varphi .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let us now specify to a class of models with $\\begin{array} { r } { f = \\frac { 1 } { 4 } l ^ { 2 } ( \\frac { 1 } { 6 } R ) ^ { 2 } } \\end{array}$ ，where $l$ is a length scale being either the string scale or the Planck scale. With $R = 1 2 H ^ { 2 }$ ， $f = l ^ { 2 } H ^ { 4 }$ ，with this choice, the frst term $( f - f ^ { \\prime } H ^ { 2 } ) \\varphi ^ { 2 }$ in the Friedman equation vanishes identically. Thus, the inflation of the scale factor is driven by the potential energy $V$ only, and with assumption (7),the rolling of the inflaton is driven by $f \\varphi$ only. Define slow-roll parameters ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon = { \\frac { M _ { p } ^ { 2 } } { 2 } } ( { \\frac { V ^ { \\prime } } { V } } ) ^ { 2 } , \\quad \\eta = M _ { p } ^ { 2 } { \\frac { V ^ { \\prime \\prime } } { V } } , \\quad \\Delta = { \\frac { l ^ { 2 } V } { 9 M _ { p } ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\epsilon$ and $\\eta$ are the traditional ones, $\\Delta$ is a new slow-roll parameter in our nonminimal models. Now, if $| \\eta | \\ll 1$ and $| \\Delta | \\ll 3$ ，the first slow-roll condition in (8） is met. The dominance condition（7） becomes ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\frac { \\varphi ^ { 2 } } { M _ { p } ^ { 2 } } \\gg | \\frac { V ^ { \\prime } } { V } \\varphi | .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If $\\begin{array} { r } { \\frac { V ^ { \\prime } } { V } \\varphi \\sim 1 } \\end{array}$ , the above condition implies $\\varphi ^ { 2 } \\gg M _ { p } ^ { 2 }$ , we must have large field inflation. To deal with the second slow-roll condition in (8),we use the Friedman equation to compute （204号 $\\dot { H }$ and in the end we obtain ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ^ { 2 } { \\frac { \\varphi ^ { 2 } } { M _ { p } ^ { 2 } } } \\ll 2 | { \\frac { V } { V ^ { \\prime } \\varphi } } | .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When we consider concrete models,we need to come back to conditions (11) and (12). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let $\\varphi _ { * }$ be the value of $\\varphi$ when inflation ends,the number of $\\mathrm { e }$ -folds is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = \\int H d t = - \\frac { 1 } { M _ { p } ^ { 2 } } \\int _ { \\varphi } ^ { \\varphi _ { * } } d \\varphi \\frac { V } { f \\varphi } = - \\int _ { \\varphi } ^ { \\varphi _ { * } } \\frac { d \\varphi } { \\Delta \\varphi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is clear that to have a large e-folds number, $\\Delta$ must be small. For positive $\\varphi$ ， $\\varphi$ always rolls from larger values to smaller ones,and when the slow-roll conditions are violated, inflation ends. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To calculate fluctuations, we need to perturb the Einstein equations. As usual， we will work with the following perturbed metric ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = a ^ { 2 } \\left( - ( 1 + 2 \\phi ) d \\tau ^ { 2 } + ( 1 - 2 \\psi ) d x ^ { i } d x ^ { i } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The perturbation of $\\varphi$ is denoted by $\\delta \\varphi$ . What $\\phi , \\psi$ and $\\delta \\varphi$ represent is called scalar perturbation, these components are not independent. In the usual minimal inflation models, there are the following linear relations ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ^ { \\prime } + \\frac { a ^ { \\prime } } { a } \\phi = \\frac { 1 } { 2 } M _ { p } ^ { - 2 } \\varphi ^ { \\prime } \\delta \\varphi , \\quad \\phi = \\psi .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These relations are modified for the nonminimal models. However, for simplicity, we wil still use the above relations,a honest treatment can be found in [9]. Let $u = a \\delta \\varphi$ ，the perturbation equations are ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\phi ^ { \\prime \\prime } - \\Delta \\phi + ( 2 \\alpha - \\displaystyle \\frac { 2 \\varphi ^ { \\prime \\prime } } { \\varphi ^ { \\prime } } ) \\phi ^ { \\prime } + ( 2 \\alpha ^ { \\prime } - 2 \\alpha \\displaystyle \\frac { \\varphi ^ { \\prime \\prime } } { \\varphi ^ { \\prime } } ) \\phi = 0 , } } \\\\ { { u ^ { \\prime \\prime } - \\Delta u + ( - \\alpha ^ { \\prime } - \\alpha ^ { 2 } + V ^ { \\prime \\prime } + f - 2 M _ { p } ^ { - 2 } \\varphi ^ { \\prime 2 } ) u - 2 a \\varphi ^ { \\prime \\prime } \\phi = 0 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha = a ^ { \\prime } / a$ . We are interested in the power spectrum of the curvature perturbation $\\textstyle { \\mathcal { R } } = \\phi + { \\frac { a } { z } } \\delta \\varphi$ ，where $z = a \\dot { \\varphi } / H$ . However, the e.o.m for $\\mathcal { R }$ is not diagonalized. Instead, we will use $\\Phi = z \\mathcal { R }$ , the e.o.m. for $\\Phi$ read ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ^ { \\prime \\prime } - \\Delta \\Phi - \\frac { z ^ { \\prime \\prime } } { z } \\Phi + h u = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle h = \\frac { 2 g } { \\alpha } ( \\frac { \\varphi ^ { \\prime \\prime } } { \\varphi ^ { \\prime } } + 2 \\alpha - \\frac { \\alpha ^ { \\prime } } { \\alpha } ) + \\frac { g ^ { \\prime } } { \\alpha } + \\partial _ { \\tau } f \\frac { a ^ { 2 } \\varphi } { \\varphi ^ { \\prime } } , } } \\\\ { { \\displaystyle g = \\frac { 1 } { 6 } M _ { p } ^ { - 2 } f ^ { \\prime } ( \\alpha ^ { 2 } - \\alpha ^ { \\prime } ) \\varphi ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, the e.o.m. for $\\Phi$ is not in a diagonal form. Nevertheless, we can prove that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\ll \\frac { 1 } { 6 } \\epsilon a ^ { 2 } H ^ { 2 } , \\quad h \\leq \\epsilon a ^ { 2 } H ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "so to the first order in $\\epsilon$ ，one can drop the last term in (17). Moreover,as far as the slow-roll conditions are met,the solution to equation (17),to the first order,is the same as in a standard inflation model. The power spectrum, to the first order, is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { H } ^ { 2 } = \\frac { 1 } { 2 5 \\pi ^ { 2 } } \\frac { H ^ { 2 } } { \\dot { \\varphi } ^ { 2 } } = \\frac { 3 } { 2 5 \\pi ^ { 2 } l ^ { 2 } } \\frac { 1 } { \\Delta \\varphi ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A more careful calculation of the power spectrum can be found in [9]. Now, although $\\Delta$ is small, it is possible to choose appropriate $l$ and $\\varphi$ to make $\\delta _ { H } ^ { 2 }$ sufficiently small to match the COBE normalization ( $\\phantom { + } \\sim 4 \\times 1 0 ^ { - 1 0 }$ ).For instance, take $\\Delta = 1 0 ^ { - 1 }$ , this demands $l \\varphi \\sim 1 0 ^ { 4 }$ ， this is easily satisfied if $l$ is three magnitudes larger than $l _ { p }$ and $\\varphi$ is one magnitude larger than $M _ { p }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To compute the power spectral index $n _ { s }$ and its running $\\alpha _ { s } = d n _ { s } / d \\ln k$ ，we use the old horizon exit condition $k = a H$ ，thus ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\ln k = { \\frac { 1 } { 2 } } d \\ln V + { \\frac { d \\ln a } { d \\varphi } } d \\varphi = - \\bigl ( \\Delta ^ { - 1 } - { \\frac { 1 } { 2 } } { \\frac { V ^ { \\prime } \\varphi } { V } } \\bigr ) { \\frac { d \\varphi } { \\varphi } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since $\\Delta \\sim V$ ， we can also write ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\ln k = - ( \\Delta ^ { - 1 } - \\frac { 1 } { 2 } \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } ) \\frac { d \\varphi } { \\varphi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta ^ { \\prime } = d \\Delta / d \\varphi$ . Therefore, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { s } - 1 = ( 2 + { \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } } ) ( 1 - { \\frac { 1 } { 2 } } \\Delta ^ { \\prime } \\varphi ) ^ { - 1 } \\Delta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\alpha _ { s } = \\lbrack \\displaystyle \\frac { \\varphi ^ { 2 } } { M _ { p } ^ { 2 } } ( \\eta - 2 \\epsilon ) + \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } \\rbrack ( 1 - \\frac { 1 } { 2 } \\Delta ^ { \\prime } \\varphi ) ^ { - 2 } \\Delta ^ { 2 } } } \\\\ { { + \\ ( 2 + \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } ) \\lbrack \\displaystyle \\frac { \\varphi ^ { 2 } } { M _ { p } ^ { 2 } } ( \\eta - 2 \\epsilon ) \\Delta + ( - 1 + \\Delta ) \\displaystyle \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } \\rbrack ( 1 - \\frac { 1 } { 2 } \\Delta ^ { \\prime } \\varphi ) ^ { - 3 } \\Delta ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To examine the consequences of formulas (23) and (24)， let us consider a further simplification: Since we assumed $\\Delta \\ll 1$ , as required by the slow-roll conditions, it is also natural to assume $\\Delta ^ { \\prime } \\varphi \\ll 1$ . We have a simpler formula for the spectral index ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { s } - 1 = ( 2 + \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } ) \\Delta .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Neglecting some terms in the second line of (24) smaller by a factor $\\Delta$ compared with the first line of (24),we have ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { s } = - ( \\frac { \\varphi ^ { 2 } } { M _ { p } ^ { 2 } } \\eta + 3 \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } ) \\Delta ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The above formula can also be derived directly from (25) using $d \\ln k = - \\Delta ^ { - 1 } d \\varphi / \\varphi$ ， since $( \\varphi ^ { 2 } / M _ { p } ^ { 2 } ) \\eta$ is just $\\varphi ^ { 2 } \\Delta ^ { \\prime \\prime } / \\Delta$ （204号 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ Large running ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The WMAP3 result indicates that if we introduce the running of the spectral index, the running is quite large. At $k = \\mathrm { 0 . 0 5 M p c ^ { - 1 } }$ ， $n _ { s } ~ = ~ 1 . 2 1$ ， $\\alpha _ { s } ~ = ~ - 0 . 1$ ，we thus have $( n _ { s } - 1 ) ^ { 2 } / | \\alpha _ { s } | = 0 . 4 4$ ,a value smaller than 1. In the usual slow-roll inflation models, this ratio is generally greater than 1, thus we need to resort to new models to account for this small ratio. Another difficulty in the usual slow-roll models is that $n _ { s } - 1$ is often negative, namely the power spectrum is red. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To match the running data,we require ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 + \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } > 0 , \\quad \\frac { \\Delta ^ { \\prime \\prime } \\varphi ^ { 2 } } { \\Delta } + 3 \\frac { \\Delta ^ { \\prime } \\varphi } { \\Delta } > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first condition guarantees $n _ { s } - 1 > 0$ and the second condition guarantees $\\alpha _ { s } < 0$ . To see whether we can get a large running, let $\\begin{array} { r } { f = \\frac { \\Delta ^ { \\prime } } { \\Delta } \\varphi } \\end{array}$ ,we have the ratio ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { ( f + 2 ) ^ { 2 } } { f ^ { 2 } + 2 f + f ^ { \\prime } \\varphi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As a first trial, let $f = ( \\varphi / M ) ^ { n }$ ，then ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { ( x ^ { n } + 2 ) ^ { 2 } } { x ^ { 2 n } + ( n + 2 ) x ^ { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $x = \\varphi / M$ . To have a small ratio, $n$ must be large and $f = x ^ { n } \\sim 2$ . Indeed, take $f = x ^ { n } = 2$ ， the above ratio becomes $8 / ( n + 4 )$ ，and $n$ must be sufficiently large to get a value close to $1 / 2$ . For $f = 2$ ， $n _ { s } - 1 = 4 \\Delta$ , to have $n _ { s } - 1 = 0 . 2$ ， $\\Delta = 1 / 2 0$ . To be more concrete, for the choice $f = ( \\varphi / M ) ^ { n }$ （204 ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\sim \\Delta = \\Delta _ { 0 } \\exp ( \\frac { 1 } { n } ( \\frac { \\varphi } { M } ) ^ { n } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the choice $\\Delta = 2 0$ , the dominance condition（11） and the slow-roll condition（12） can barely be both satisfied. Using(13) we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = \\Delta _ { 0 } ^ { - 1 } \\int { \\frac { d \\varphi } { \\varphi } } e x p ( - { \\frac { 1 } { n } } ( { \\frac { \\varphi } { M } } ) ^ { n } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\textstyle { \\bigl ( } { \\frac { \\varphi } { M } } { \\bigr ) } ^ { n } \\ = \\ 2$ and smaller, the exponential function in the above integral is a slowlyvarying function, thus approximately we have $\\begin{array} { r } { N = \\Delta _ { 0 } ^ { - 1 } \\ln \\frac { \\varphi } { \\varphi _ { * } } } \\end{array}$ . Taking $\\Delta _ { 0 } ^ { - 1 } = 2 0$ ,we find $\\varphi = \\varphi _ { * } e ^ { 3 }$ for $N = 6 0$ . Finally, we need to check whether the other slow-roll condition $\\eta \\ll 1$ is satisfied. By definition of $f$ ，we have $\\eta = M _ { p } ^ { 2 } / \\varphi ^ { 2 } ( f ^ { 2 } - f + f ^ { \\prime } \\varphi )$ ，which is just （20 $M _ { p } ^ { 2 } / \\varphi ^ { 2 } ( f ^ { 2 } + ( n - 1 ) f )$ for $f \\sim \\varphi ^ { n }$ . As long as $M _ { p } ^ { 2 } / \\varphi ^ { 2 }$ is suffciently small, $\\eta \\ll 1$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In general, from (28) we see that to have a small ratio $( n _ { s } - 1 ) ^ { 2 } / | \\alpha _ { s } |$ ， $f ^ { \\prime } \\varphi$ must be larger than $f$ .Now, $f = d \\ln \\Delta / d \\ln \\varphi = d \\ln V / d \\ln \\varphi$ ， this condition simply states that the second derivative of function $\\ln V$ with respect to $\\ln \\varphi$ must be greater than the first derivative. This eases the problem of large running spectral index, since in the usual slow-roll inflation model, one typically requires a large third derivative. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· Other models ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although a blue spectrum ( $n _ { s } > 1 )$ is common in our nonminmal inflation scenario, it is quite diffcult to get a large running,as we shall show by considering some examples. $\\diamondsuit$ Monomial potential ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let $\\textstyle \\Delta = { \\bigl ( } { \\frac { \\varphi } { M } } { \\bigr ) } ^ { n }$ , to have a positive $n _ { s } \\mathrm { ~ - ~ } 1$ ， $n > - 2$ ， since $f = \\varphi \\Delta ^ { \\prime } / \\Delta = n$ . To get a negative $\\alpha _ { s }$ ， $n > 0$ . According to (28), the ratio $( n _ { s } - 1 ) ^ { 2 } / | \\alpha _ { s } | = ( n + 2 ) ^ { 2 } / ( n ^ { 2 } + 2 n ) > 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The e-folds number is given by $N = ( 1 / n ) ( \\Delta ^ { - 1 } ( \\varphi _ { * } ) - \\Delta ^ { - 1 } ( \\varphi ) )$ . Apparently, to have a large enough $N$ ， $\\Delta ( \\varphi _ { * } )$ must be sufficiently small, thus, if $n \\sim O ( 1 )$ ， $n _ { s } - 1$ is very small near the end of the inflation. However, $\\Delta ( \\varphi )$ does not need to be very small, so it is still possible to have a quite blue spectrum at large scales. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\diamondsuit$ Exponential potential ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let $\\begin{array} { r } { \\Delta = \\Delta _ { 0 } \\exp ( \\frac { \\varphi } { M } ) } \\end{array}$ ， we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { ( 2 + \\frac { \\varphi } { M } ) ^ { 2 } } { ( \\frac { \\varphi } { M } ) ^ { 2 } + 3 \\frac { \\varphi } { M } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To have a negative $\\alpha _ { s }$ and $n _ { s } > 1$ ， $\\varphi / M > 0$ , thus the above ratio is again greater than 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\diamondsuit$ Polynomial potential ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Consider the special case $\\begin{array} { r } { \\Delta = \\frac { 1 } { 2 } ( \\frac { \\varphi } { M } ) ^ { 2 } + \\frac { \\alpha } { n } ( \\frac { \\varphi } { M } ) ^ { n } } \\end{array}$ .Let $x = \\alpha ( \\varphi / M ) ^ { n - 2 }$ ，then ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { 4 + 2 ( \\frac { 2 } { n } + 1 ) x + ( \\frac { 2 } { n } + 1 ) ^ { 2 } x ^ { 2 } } { 2 + ( \\frac { n } { 2 } + \\frac { 4 } { n } + 1 ) x + ( \\frac { 2 } { n } + 1 ) x ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Take a limiting case when $n \\gg 1$ , the above ratio assumes a minimal value when $x \\simeq 2$ ， and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } \\simeq \\frac { 1 2 } { n + 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of course this value can be arbitrarily smaller than 1. This is a case with $f ^ { \\prime } \\varphi$ much larger than $f$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For $n = O ( 1 )$ , ratio (33) can not be made small enough. We examine another limit in which $n \\ll 1$ . Ratio (33) assumes its minial value when ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = { \\frac { n } { 2 } } ( { \\sqrt { 3 } } - 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and (33) is greater than 1. This is a special case of the following class of potentials. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Another class of polynomials ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Take $\\begin{array} { r } { \\Delta = \\Delta _ { 0 } [ 1 + ( \\frac { \\varphi } { M } ) ^ { n } ] } \\end{array}$ .Let $\\textstyle x = { \\bigl ( } { \\frac { \\varphi } { M } } { \\bigr ) } ^ { n }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { ( 2 + ( n + 2 ) x ) ^ { 2 } } { n ( n + 1 ) ( x + x ^ { 2 } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This ratio assumes its minimal value when $x = 2 / ( n - 2 )$ ， and its value is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( n _ { s } - 1 ) ^ { 2 } } { | \\alpha _ { s } | } = \\frac { 8 } { n + 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Once again, $n$ must be large to get a small ratio. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we have seen that the class of nonminimal inflation models we studied in this note usually results in a blue power spectrum, and a large running of the spectral index is possible, nevertheless the second derivative of the potential must be large enough. Acknowledgments ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The author is grateful to Jian Xin Lu, Tao Wang and Yi Wang for helpful discussions. This work was supported by grants from CNSF. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] D. N. Spergel et al., astro-ph/0603449.   \n[2] Q.-G. Huang and M, Li, astro-ph/0603782.   \n[3] X. Zhang and F.-Q, Wu, astro-ph/0604195,Phys.Lett. B638 (2006) 396; Q.-G. Huang, astro-ph/0605442.   \n[4] Q.G.Huang and M. Li, JHEP 0306(2003)014, hep-th/0304203; JCAP 0311(2003)001, astro-ph/0308458； Nucl.Phys.B 713(2005)219, astro-ph/0311378; S. Tsujikawa， R. Maartens and R. Brandenberger, astro-ph/O308169.   \n[5]K.Izawa，hep-ph/0305286； S. Cremonini， hep-th/0305244；E. Keski-Vakkuri，M. Sloth,hep-th/0306070; M. Yamaguchi, J. Yokoyama, hep-ph/0307373; J. Martin, C. Ringeval, astro-ph/0310382; K. Ke, hep-th/0312013; S. Tsujikawa, A. Liddle,astroph/0312162; C. Chen, B. Feng, X. Wang, Z. Yang, astro-ph/0404419; L. Sriramkumar，T. Padmanabhan， gr-qc/0408034; N. Kogo， M. Sasaki, J. Yokoyama， astroph/0409052; G. Calcagni, A. Liddle, E. Ramirez, astro-ph/0506558; H. Kim, J. Yee, C. Rim, gr-qc/0506122.   \n[6] A.Ashoorioon， J. Hovdebo， R. Mann，gr-qc/0504135;G.Ballesteros，J. Casas，J. Espinosa,hep-ph/0601134; J. Cline,L. Hoi,astro-ph/0603403.   \n[7] B. Feng, M. Li, R. J. Zhang and X. Zhang, astro-ph/0302479; J. E. Lidsey and R. Tavakol, astro-ph/0304113; L. Pogosian， S. -H. Henry Tye, I. Wasserman and M. Wyman, Phys.Rev. D 68 (2003) 023506, hep-th/0304188; S. A. Pavluchenko,astroph/0309834; G. Dvali and S. Kachru,hep-ph/0310244.   \n[8] J. C. Hwang,“Cosmological perturbations in generalized gravity theories: Formulation,” Class. Quant. Grav.7 (1990) 1613; J. C. Hwang and H.Noh, “Classical evolution and quantum generation in generalized gravity theories including string corrections and tachyon: Unified analyses,” gr-qc/0412126, Phys. Rev. D71(2005)063536.   \n[9] B. Chen, M. Li, T. Wang and Y. Wang, work in progress. ",
+        "page_idx": 8
+    }
+]

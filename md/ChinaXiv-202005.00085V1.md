@@ -1,0 +1,279 @@
+# 基于WoS的基础学科OA论文的质量评价思路---以物理学科为例
+
+王新
+
+摘要：[目的]全面了解物理学科学术期刊的开放获取（OA）程度以及质量。探索基于被引的OA 期刊和论文的质量评价方法；[方法」运用统计学原理和文献计量学方法，以JCR分类法物理学科348种期刊为研究对象，基于其在Webof Science（WoS）2年内的论文数量、被引数据，对整个物理学科以及8个分支领域的OA期刊和论文的开放率、被引率和接受度三个维度的9个指标进行比较和相关性分析；[结果]整个学科有0A期刊39个，占总期刊$1 1 . 2 1 \%$ ；OA论文总的开放率和被引率分别为 $2 8 . 3 7 \%$ 和 $3 5 . 9 5 \%$ ，OA期刊对论文开放率和被引率的贡献分别为 $3 0 \%$ 和 $2 3 . 9 9 \%$ ；高被引论文开放率为 $4 1 . 8 7 \%$ ，被引贡献率为 $4 0 . 5 6 \%$ 。OA论文的篇均被引为4.35频次。8个分支领域期刊及其0A期刊的接受度均值区间分别为{962，301}和{1032，50}；[结论]实证分析表明：1.物理学科0A论文的主流贡献来自复合期刊；凝聚态物理开放程度较低，与学科规模不成比例；目前高被引论文的开放虽然不存在偏见，但也不被给予更多关注，因此加大高被引论文的开放数量可以成为提高OA质量的一种策略。2.期刊和论文的开放率以及0A期刊的贡献率，可以作为开放程度的评价指标；OA论文被引率、高被引论文开放率、0A期刊的篇均被引率可以作为OA质量评价指标。3.0A期刊的刊文量及其刊文量的百分位数均可用于期刊的接受度分析。
+
+关键词：物理学术期刊；开放获取（OA)；OA质量评价
+
+分类号：G250
+
+# 1研究背景与意义
+
+对于基础学科，论文是学术成果的主要表现。广泛传播论文、提高其影响力是作者关注的核心问题，快速获取最新的研究进展是使用者所关注的重点。因此，在学术发表的共同体内,提高学术成果的可见度和影响度是共同的追求。自从 2002年布达佩斯OA 计划（BudapestOAInitiative，BOAI）正式提出，学术界、研究机构图书馆和学术出版三界的博弈与协作便开始了。学术论文开放获取（Open access，以下简称OA）的进程在艰难中成长，截止到 2019年7月18 日，全球最大的学术 OA 期刊数据库 DOAJ（Directory of open Access Journals）可以提供10612种学术期刊的414万余篇学术论文的全文获取。2015年欧盟提出的“在 2020年实现欧洲所有科学论文和研究数据实现开放获取的战略目标”，2018年9月4日，欧盟委员会和欧洲研究理事会（ERC）又支持了cOAlition 计划的启动，其总原则是“从2021年起，所有来源于得到国家、地区和国际研究理事会和科研资助机构提供的公共或私人资金资助的科研项目研究成果的学术出版物,必须在OA期刊、OA平台上发表，或通过OA仓储实现无延迟的立即可用”[1，这些目标都明确提出了时间进程表，为学术界、图书馆和学术出版的合作带来了又一轮的挑战。
+
+学术论文的开放取决于两方面行为，一是期刊出版方自身的遴选行为，二是学者们对开放资源的感知、认知行为。一个期刊开放内容的数量和学术质量，直接关系到这个期刊的学术生命力，以及商业存活[2]。因此，开展OA内容的数量和学术质量的评价研究，对于短期内开放策略的制定和合理布局，以及开放获取健康持续发展的长期目标都具有实际意义。
+
+最早对OA 论文进行计量分析研究的是D.J.Solomom 和 B.Bo-Christer（2012年）[3]，他们利用JCR(Journal citation Reports)、SClmago（SClmago Journal & Country Rank)、 UIrichsweb和 DOAJ四个数据库的数据，分析OA论文在不同国家和不同学科开放程度的分布；国内学者陈娟和朱江在 D.J.Solomom 的基础上，以Web of Science(以下简称WOS）或 Scopus 引文库为数据源，增加了对不同学科或领域的OA期刊开放数量在不同时间段分布的比较分析，并以传统的质量指标 SNIP(Source Normalized Impact)、IPP(Impact Per Publication)、SJR(SClmagoJournal Rankings)，以及5年IF，对某个别年或某个别期刊的OA 和非OA期刊进行了比较研究，结果发现虽然OA开放程度在逐年增长，但是OA期刊质量指标的平均水平低于非OA 期刊4；以Nature 为样本，研究过去的10 年里高被引OA 的开放比率的规律[5]，这些都成为最早将计量学方法引入0A的实证研究。此外，黄金霞等（2013年）在OA出版质量评价工作的同时，全面分析了国内开放期刊评价研究的现状，提出了以出版质量(JQ）、学术影响（AI)和开放能力（DO）这三个一级指标为核心的学术影响力的广谱评价体系，其中学术影响 AI的二级指标，就建议以被收录和传统评价指标IF、H5来承担[6。笔者认为，出版层面的质量是侧重开放内容的可读性，开放规模和地区机构分析更侧重OA的进程和布局，但是OA的学术影响力才是OA的核心价值问题，因为使更多的高质量的学术成果尽快地得到关注、促进学术交流才是OA模式的意义所在。最近一年里，赵蓉英、李广利等业内学者也是用实证分析的方法对我国OA 的现状和OA 的学术影响力作了更深入的研究工作[7][8]，并提出了提升影响力的建议。
+
+本文旨在通过对物理学科及其不同研究领域开放获取期刊OAJ和OA论文的计量分析，一方面全面了解整个物理学科学术成果开放获取的规模、质量以及学者对开放获取期刊的接受程度；另一方面，由于物理学科的学术成果以发表论文为主要体现，对基础学科研究和学术成果传播具有代表性，希望通过对这个学科的实证分析，探索对OA学术期刊、学术论文质量评价的思路。
+
+# 2．研究对象、数据来源和研究方法
+
+物理学科的各研究领域划分成熟，在JCR的分类界限清晰，对基础性科学研究具有代表性。此外，物理学科在WOS中收录的期刊数量为348种，其大小既满足统计学对样本数量的基本要求，又可以保证在短时间内实现对数据手工收集、处理等环节的质量控制。这些期刊在JCR分类列表中分别属于8个分支：粒子与场论、天文与天体物理、核物理、交叉学科、流体与等离子体、原子分子与化学物理、凝聚态物理和量子科学与技术，为表达的简捷对这8个领域编号，依次为1，2，3，4，5，6，7，8。
+
+选择WOS作为唯一数据源，基于两点考虑：第一，WOS 来源刊的遴选相对比较严格和规范，选择WOS收录的OA期刊可以大大降低掠夺性期刊出现的机率，从数据源头上保证研究对象的质量\*；第二，对于基础学科，论文被引用是研究成果最主流的、最本质的学术价值体现，而WOS的指标数据都是基于论文被引，不包含如：点击、下载、浏览或者网络交流等反映社会影响力的AItermetrics 指标，这就保证了数据来源的干净、整齐，能够更真实地反映开放获取论文的学术影响力。
+
+选择 2016 年-2017年两年的时间窗口基于两点： $\textcircled{1}$ 保持与JCR中对期刊IF定义中时间窗口一致； $\textcircled{2}$ 开放资源的优势不仅在于免费获取，更重要的是被迅速获取和传播，因此在2年的时间窗口内收集可被引文献（citable）的数量P、总被引数Tci、高被引文献数 Hi、高被引文献的总被引数 $\mathsf { T c i } _ { \mathrm { h i } }$ 等主要数据进行研究分析，可以更准确体现OA的时间效应。
+
+本研究设定9个指标为基础评价指标，如表1所示，并且从开放的规模和开放的质量这两个角度，以及开放期刊和开放论文这两个维度展开实证分析。
+
+表1 OA的评价基础指标设定  
+
+<html><body><table><tr><td></td><td>指标</td><td>符号</td><td>算法 算式</td></tr><tr><td>1</td><td>期刊总开放率</td><td>JOA%</td><td>OA期刊数目/总期刊数目， JoA/J</td></tr><tr><td>2</td><td>论文总开放率</td><td>POA%</td><td>OA 论文总数/总论文数， PoA/P</td></tr><tr><td>3</td><td>OA 期刊论文对总 OA 论文的贡献度</td><td>CpoAI</td><td>OA 期刊论文总数/OA论文数， PoAJ/POA</td></tr><tr><td>4</td><td>OA 论文总被引率</td><td>TcioA%</td><td>OA 论文被引/总论文被引， TcioA/Tci</td></tr><tr><td>5</td><td>OA 期刊论文对总 OA 论文被引的贡献度</td><td>CtcioAJ</td><td>OA 期刊论文被引/总论文被引， TcioAI/TcioA</td></tr><tr><td>6</td><td>高被引论文开放率</td><td>HioA%</td><td>高被引OA 论文/总高被引论文， HioA/Hi</td></tr><tr><td>7</td><td>OA 期刊论文对总高被 引OA论文的贡献度</td><td>ChioAJ</td><td>OA 期刊的高被引论文/高被引OA 论文，HioA/HioA</td></tr><tr><td>8</td><td>篇均被引</td><td>Ci</td><td>总被引频次/论文数， Tci/P</td></tr><tr><td>9</td><td>期刊学术接受度定义</td><td>P</td><td>可被引用期刊刊文量 article+review,</td></tr><tr><td></td><td>期刊接受度均值 OA 期刊接受度比</td><td>P a</td><td>总刊文量/期刊个数 P/J OA 期刊刊文量/期刊平均刊文量 PoAJ/ P</td></tr></table></body></html>
+
+$* \ 2 0 1 9$ 年荷兰莱顿大学 Centre for Science and Technology Studies（CWTS）刚刚公布的最新排名首次加入了开放出版指标，而所引用的数据源也是仅限于WoS的来源刊。
+
+# 3．物理学科OA论文计量分析
+
+# 3.1开放程度分析
+
+3.1.1物理学科整体的开放情况
+
+开放获取的期刊分为完全开放期刊和复合开放期刊。完全开放期刊(JOA)，是指期刊上的每一篇论文自发刊时即可免费获取；复合开放期刊，Hybird OAJournal（HOAJ)），是指在发刊时挑选部分论文为开放获取，因此，全部的0A论文 $\mathsf { P } _ { \mathsf { O A } }$ 包含 $\mathsf { P } _ { \mathsf { O A J } }$ 和P OAH 两部分。表2为整个物理学科348个期刊来自WoS的在2016-2017年间的统计数据：期刊数J、论文数P（限于articles 和review）、开放期刊Joa数、开放期刊论文数 $\mathsf { P } _ { \mathsf { O A J } }$ ，以及全部OA论文数量（ $\mathsf { P o } _ { \mathsf { A } } \bar { }$ ）。
+
+表2物理学科期刊与论文整体开放率及贡献度  
+
+<html><body><table><tr><td>指标</td><td>符号</td><td>种|篇</td><td>开放率（%)</td><td>贡献度CoAJ（%）</td></tr><tr><td>期刊数</td><td>」</td><td>348</td><td></td><td></td></tr><tr><td>总论文数</td><td>P</td><td>237536</td><td></td><td></td></tr><tr><td>开放期刊数</td><td>JOA</td><td>39</td><td>11.21</td><td></td></tr><tr><td>总开放论文数</td><td>POA</td><td>67384</td><td>28.37</td><td></td></tr><tr><td>开放期刊论文数</td><td>PoAI</td><td>20027</td><td>8.43</td><td>29.72</td></tr></table></body></html>
+
+由表2数据我们得知，物理学科期刊整体的开放率 $\mathsf { J } _ { 0 \mathsf { A } } \%$ 为 $1 1 . 2 1 \%$ ；论文开放率 $\mathsf { P o } _ { \mathsf { A } } \%$ 仅仅为 $3 0 \%$ ，而开放期刊论文 $\mathsf { P } _ { \mathsf { O A J } }$ 对 OA论文的贡献度为 $2 9 . 7 2 \%$ ，换言之，在整个物理学科的6.7万多篇开放获取论文中，仅有 $3 0 \%$ 是由OAJ提供，其余皆来自 HOAJ。
+
+# 3.1.2各个研究领域的开放评价
+
+为全面了解物理学科各个领域的学术期刊的开放情况，本研究对8个研究领域期刊论文的数据分别进行了统计和计算，如表3，并以期刊开放率 $J _ { 0 A } \%$ 、论文开放率 $90 \text{‰}$ 和OA期刊论文对总开放论文的贡献度 $\mathsf { C } p _ { \mathsf { O A J } }$ 作为量化分析指标比较各学科的开放差异，如图1-a所示。 $\mathsf { J } _ { 0 \mathsf { A } } \%$ 、 $\mathsf { P } _ { 0 \mathsf { A } } \%$ 和 $\mathsf { C } p _ { \mathsf { O A J } }$ 的中位数分别为11. $3 5 \%$ 、21. $4 3 \%$ 和 $1 7 . 4 3 \%$ ，粉色标识的是分别大于期刊整体水平的领域。左图显示不同领域OAJ的比率，排在前四位的是粒子
+
+编号 JCR 物理学科8个领域 J JOA P POA PoAI  
+1 PARTICLES&FIELDS 29 9 24781 13216 9322  
+2 ASTRONOMY&ASTROPHYSICS 69 8 41155 21142 2347  
+3 NUCLEA 19 3 12083 4248 2336  
+4 MULTIDISCIPLINARY 81 8 41926 10472 4443  
+5 FLUIDS&PLASMAS 32 1 18351 3229 93  
+6 ATOMIC,MOLECULAR&CHEMICAL 36 4 34626 5794 344  
+7 CONDENSED MATTER 68 4 60406 8854 1043  
+8 QUANTUMSCIENCE&TECHNOLOGY 14 2 4208 429 99  
+JoA% POA% CpoAJ  
+1 0.3103 0.5333 0.7054  
+2 0.1159 0.5131 0.1110  
+3 0.1579 0.3516 0.5499  
+4 0.0988 0.2527 10.4243  
+5 0.0313 0.1760 0.0288  
+6 0.1111 0.1673 0.0594  
+7 0.0588 0.1466 0.1178  
+8 0.1429 0.1019 0.2308
+
+物理与场论、核物理、量子科学与技术以及天文学与天体物理，开放率分别为 $3 1 . 0 3 \%$ ，$1 5 . 7 9 \%$ 、 $1 4 . 2 9 \%$ 、 $1 1 . 5 9 \%$ ；中图表示论文开放率，排在前四位的学科领域是粒子物理与场论、天文与天体物理、核物理以及物理交叉学科，开放率分别为 $5 3 . 3 3 \%$ 、 $5 1 . 3 1 \%$ 、$3 5 . 1 6 \%$ 和 $2 5 . 2 7 \%$ ，其中粒子物理和场论、天文和天体物理，有半数以上的论文被开放，但是其贡献来源有很大差别，粒子物理和场论来自OAJ的贡献率为 $7 0 . 5 4 \%$ ，而天文与天体物理来自OAJ的贡献率为 $1 1 . 1 1 \%$ ，说明两者开放的策略不同，前者侧重OA」模式，而后者侧重HOAJ模式。
+
+![](images/d293baf3184cb9c050a52324c4c7b2a5025b01c214eabde559b0d32dca05712a.jpg)  
+图 $_ { \mathrm { 1 - a } }$ 物理分支学科OAJ与OA论文开放率  
+图1-b物理分支学科开放获取程度
+
+图1-b 同框直观展示了物理学科在2016-2017年间每个领域论文P与OA论文的开放率（ $\rho _ { 0 \mathsf { A } } \%$ ）和OAJ的占比（ $\mathrm { \Delta } \mathrm { J _ { O A } } \mathrm { \mathrm { \% } }$ ）的数量关系。两个极端的情况是：粒子物理与场论和天文与天体物理是OA论文占比最高，超过 $5 0 \%$ ，但论文产出量P和 $J _ { 0 \mathsf { A } } \%$ 与 $P _ { O A l \% }$ 的关系却不同；凝聚态物理是二战后发展起来的领域，特别是近二十年在规模上，即研究人员的投入量和论文年均产出量逐渐成为整个物理学科之首，但是数据却显示 $J _ { 0 \mathsf { A } } \%$ 为 $5 . 9 \%$ ，OA论文的比例$P _ { O A } \%$ 为 $1 4 . 7 \%$ ，并且图1-a分析也显示OAJ的贡献率 $\mathsf { C } p _ { \mathsf { O A J } }$ 仅为 $1 1 . 7 8 \%$ ，无疑说明凝聚态物理的总体开放获取程度偏低。
+
+# 3.2开放质量分析
+
+# 3.2.1OA论文的被引用分析
+
+传统的文献计量学分析是建立在论文被引的基础上，虽然在信息资源日益开放的时代，为了多维度地反映文献的影响力，“浏览”和“下载”等一些替代计量学（AItermatric）指标有时也作为评价指标，但主要起辅助作用。从是否对知识创新产生贡献的本质去看，一篇论文“被引用”意味着它在新的知识生产中“被批判”或“被继承”，是学术价值最根本和最直接的体现，因此，论文的被引用量始终都是学术评价系统的核心指标。本研究以被引频次的数据为主要依据，对物理学科OA文献资源的质量展开分析。
+
+如果以“被引用的论文”视为“有效论文”为前提，那么评价OA的质量一定是聚焦在两点上：第一，多少被引是来自OA的论文， $\mathsf { P } _ { \mathsf { O A } }$ ；第二，在OA论文的被引中有多少是来自OAJ的论文， $\mathsf { P } _ { \mathsf { O A J } }$ 。表4是来自WoS 的物理学科8个领域348个期刊论文的总被引数据 Tci、OA 论文的总被引TcioA，以及OAJ论文的总被引TciQAi，可以反映物理学科OA 论文被引用的总体情况。整体来看，物理学科 OA 论文的总被引 Tcioa 占期刊论文总被引用频次 Tci 的$3 5 . 9 5 \%$ ；OAJ论文的被引TcioAi仅仅占Tci的 $8 . 6 2 \%$ ，OAJ对OA论文的总被引TcioA 的贡献是$23 . 9 9 \%$ 。说明物理学科有31.7万次的被引是来自OA论文，超过学科总被引三分之一，而其中近 $7 5 \%$ 的被引是来自复合开放期刊HOAJ的OA论文。
+
+表4物理学科OA论文和OAJ论文整体被引率和被引贡献度  
+
+<html><body><table><tr><td>指标</td><td>符号</td><td>数量</td><td>被引率 (%)</td><td>OAJ贡献度（%)</td></tr><tr><td>总被引</td><td>Tci</td><td>882380</td><td></td><td></td></tr><tr><td>开放论文总被引</td><td>TcioA</td><td>317217</td><td>35.95</td><td></td></tr><tr><td>开放期刊论文总被引</td><td>TcioAI</td><td>76101</td><td>8.62</td><td>23.99</td></tr></table></body></html>
+
+表58个领域论文被引用数据  
+
+<html><body><table><tr><td colspan="2">编号 JCR 物理学科8个领域</td><td>Tci</td><td>TcioA</td><td>Tci oAJ</td></tr><tr><td>1</td><td>PARTICLES&FIELDS</td><td>90186</td><td>60614</td><td>39890</td></tr><tr><td>2</td><td>ASTRONOMY&ASTROPHYSICS</td><td>170358</td><td>104942</td><td>8505</td></tr><tr><td>3</td><td>NUCLEA</td><td>28668</td><td>16299</td><td>8139</td></tr><tr><td>4</td><td>MULTIDISCIPLINARY</td><td>131396</td><td>52778</td><td>16068</td></tr><tr><td>5</td><td>FLUIDS&PLASMAS</td><td>43430</td><td>8987</td><td>155</td></tr><tr><td>6</td><td>ATOMIC,MOLECULAR&CHEMICAL</td><td>108001</td><td>21252</td><td>1205</td></tr><tr><td>8</td><td>QUANTUMSCIENCE&TECHNOLOGY</td><td>9641</td><td>1798</td><td>686</td></tr><tr><td>7</td><td>CONDENSED MATTER</td><td>300700</td><td>50547</td><td>1453</td></tr></table></body></html>
+
+表5 是各个学科领域期刊的被引统计，基于表5的数据图2-a展示了各领域OA论文的
+
+被引率 $T C i \circ A \%$ ，以及OAJ论文被引对OA 论文总被引的贡献度CtcioAl。OA 论文被引率超过整体平均值（ $3 5 . 9 5 \%$ ）的是粒子与场论、天文与天体、核物理和多学科交叉，前三者都超过$5 0 \%$ ；而OAJ论文对被引的贡献度超过整体平均值（ $2 3 . 9 9 \%$ ）的领域略有改变，即量子科学与技术取代了天文与天体。
+
+![](images/786b2451eaf5dae6e2f3e809518ea86e96fbf6033a453ee14b030806856695bc.jpg)  
+图2-a开放论文的被引
+
+![](images/b02368b6383436b682d99aaed1d8c5daa2537dbcf25ee4b6630e72f1cb2e3155.jpg)  
+图2-b开放论文的被引分析
+
+图 2-b 同框直观展示了物理学科8个领域方向期刊的总被引Tci、OA总被引占比 $\bar { \mathsf { T c i } } _ { 0 \mathsf { A } } \%$ 以及OAJ对OA 被引的贡献度 $\mathsf { C } t c i _ { \mathsf { O A J } }$ 。可见粒子与场论、天文与天体物理以及核物理OA论文的被引占总被引的 $50 \%$ 以上，并且粒子与场论和核物理的OAJ对OA论文的总被引的贡献度 $\mathsf { C } t c i _ { \mathsf { O A J } }$ 在 $50 \%$ 以上，但是天文与天体OA 论文被引的贡献度很低，仅为 $8 . 1 \%$ 。
+
+此外，图1-b和图2-b共同分析，我们进一步发现：
+
+$\textcircled{1}$ 核物理、流体与等离子体以及量子科学与技术物理都属于论文体量较低的领域，但是它们的数据有明显区别。核物理的论文开放程度 $P _ { O A } \%$ 、OA 论文被引率 $\bar { \mathsf { T c i } } _ { 0 \mathsf { A } } \%$ 都相对比较高，特别是它的OAJ对被引的贡献程度 $\mathsf { C } t c i _ { \mathsf { O A J } }$ 在 $5 0 \%$ ，位居物理8个领域前列，可见学科规模和论文产出不大的领域，其开放程度和质量都可以较高；而其它两个领域OA论文被引率较低，并且OAJ的贡献率大小明显不同。这些数据表明，很难找到 $\mathsf { P o } _ { \mathsf { A } } \%$ 、TcioA%以及 $\mathsf { C } t c i _ { \mathsf { O A J } }$ 三个量之间的相关性。
+
+$\textcircled{2}$ 凝聚态物理是一个大学科，拥有68个期刊，刊发60406 篇论文，总被引频次为300700次，但是其论文开放程度 $P _ { O A } \%$ 仅为 $1 4 . 6 6 \%$ ，其OA论文被引率为 $1 6 . 8 \%$ ，OAJ占68种期刊的 $5 . 8 8 \%$ ，OAJ对OA论文总被引的贡献度 $\mathsf { C } t c i _ { \mathsf { O A J } }$ 仅仅 $2 . 8 7 \%$ ，说明凝聚态物理开放的程度与其论文的产出体量并不匹配。
+
+3.2.2高被引论文中OA论文的数量与质量分析
+
+如果被引用体现了论文的有效性，那么，高被引论文的数量就是期刊质量的体现。高被引论文中OA论文的数量和被引用率越高，说明被开放出来的资源越优质，OAJ中高被引论文的数量越高，说明OAJ的质量越高。高被引论文数据的统计如表6所示。虽然OAJ中的高被引论文仅占总的高被引论文的 $1 1 . 4 9 \%$ ，但整个物理学科的高被引OA论文率 $H i _ { 0 \ A } \%$ 达到$4 1 . 8 7 \%$ ,这个比值高于OA论文的开放率( $2 8 . 3 4 \%$ ,表2),其中OAJ的贡献率 $\mathsf { C h i } _ { \mathsf { O A } }$ 为 $2 7 . 4 3 \%$ 。在高被引论文的被引数据中， $4 0 . 5 6 \%$ 来自高被引OA论文，这个比值高于OA论文被引率（ $3 5 . 9 5 \%$ ，见表4)，其中OAJ的贡献度 ${ \mathsf { C } } t c i ^ { { \dot { h } } i } { \mathsf { o A } } { \mathsf { J } }$ 为 $1 7 . 5 \%$ 。
+
+表6物理学科高被引论文整体开放率及贡献度  
+
+<html><body><table><tr><td>指标</td><td>符号</td><td>数量</td><td>开放率 (%)</td><td>OAJ贡献率（%）</td></tr><tr><td>总高被引论文</td><td>Hi</td><td>2873</td><td></td><td></td></tr><tr><td>开放的高被引论文</td><td>HioA</td><td>1203</td><td>41.87</td><td></td></tr><tr><td>开放期刊的高被引论文</td><td>HioAJ</td><td>330</td><td>11.49</td><td>27.43</td></tr><tr><td>高被引论文总被引</td><td>Tcihi</td><td>152467</td><td></td><td></td></tr><tr><td>开放的高被引论文被引</td><td>TcihioA</td><td>61836</td><td>40.56</td><td></td></tr><tr><td>开放期刊的高被引论文被引</td><td>TcihoAJ</td><td>10832</td><td>7.10</td><td>17.52</td></tr></table></body></html>
+
+表7是物理学科8个领域期刊高被引论文及其被引数据的统计，图3以高被引论文的开放率 $H i _ { 0 \mathsf { A } } \%$ 、高被引OA论文的被引率 $\bar { \mathsf { T C l } } ^ { h i } \mathsf { o A } \%$ 、以及OAJ对二者的贡献率 $\mathsf { C h i } _ { \mathsf { O A J } }$ 和 CtcioAJ进一步分析各分支领域的高被引OA论文情况。图3-a左列中粉色标识的粒子与场论、天文与天体、核物理、多学科交叉和量子科学与技术是高被引论文的开放率 $H i _ { 0 \ A } \%$ 和高被引OA论文的被引率 $\mathsf { T c i } ^ { h i } \mathsf { o A } \%$ 都高于物理学科整体平均值的领域，分别为( $8 3 . 3 3 \%$ ， $8 5 . 4 4 \%$ ）、 $7 0 . 9 9 \%$ $7 4 . 9 2 \%$ ）、（ $7 0 . 4 2 \%$ ， $8 2 . 2 6 \%$ 、（ $5 0 . 0 8 \%$ ， $5 4 . 9 4 \%$ ）和（ $4 4 . 0 0 \%$ ， $5 1 . 1 5 \%$ )，可以理解为这五个领域高被引论文的开放率较高。图3-a右表示OAJ中高被引论文对全部高被引OA论文数量的贡献度 $\mathsf { C } h i _ { \mathsf { O A J } }$ 和被引贡献度 ${ \mathsf { C } } t c i ^ { { \mathsf { h } } i } { \mathsf { o A } } { \mathsf { J } }$ ，粉色标识的分别为高于物理学科整体平均值的领域，对于 $\mathsf { C } h i _ { \mathsf { O A l } }$ ，是粒子与场论（ $6 5 . 3 6 \%$ 、核物理（ $6 4 \%$ ）以及量子科学与技术（ $3 6 . 3 6 \%$ ）三个领域，前两者OAJ的高被引论文有 $60 \%$ 的贡献率；而对于 ${ \mathsf { C } } t c i ^ { { \mathsf { h } } i } { \mathsf { o A } } { \mathsf { J } }$ ，是粒子与场论 $( 5 2 . 9 2 \% )$ ，量子科学与技术 $( 4 1 . 1 1 \% )$ 和核物理 $( 1 9 . 5 2 \% )$ 三个领域，只有粒子与场论是大于 $50 \%$ 。
+
+表7高被引用论文数据统计  
+
+<html><body><table><tr><td>编号</td><td>JCR 物理学科8个领域</td><td>Hi</td><td>HioA</td><td>HioAJ</td><td>Tcihi</td><td>Tcihi OA</td><td>TcihioOAJ</td></tr><tr><td>1</td><td>PARTICLES&FIELDS</td><td>336</td><td>280</td><td>183</td><td>14104</td><td>12050</td><td>6377</td></tr><tr><td>2</td><td>ASTRONOMY& ASTROPHYSICS</td><td>424</td><td>301</td><td>34</td><td>21181</td><td>15869</td><td>755</td></tr><tr><td>3</td><td>NUCLEA</td><td>71</td><td>50</td><td>32</td><td>4335</td><td>3566</td><td>696</td></tr><tr><td>4</td><td>MULTIDISCIPLINARY</td><td>625</td><td>313</td><td>69</td><td>30348</td><td>16674</td><td>2539</td></tr><tr><td>5</td><td>FLUIDS& PLASMAS</td><td>60</td><td>11</td><td>0</td><td>1926</td><td>481</td><td>0</td></tr><tr><td>6</td><td>ATOMIC,MOLECULAR&CHEMICAL</td><td>144</td><td>30</td><td>4</td><td>6851</td><td>1488</td><td>155</td></tr><tr><td>7</td><td>CONDENSED MATTER</td><td>1188</td><td>207</td><td>4</td><td>72985</td><td>11331</td><td>155</td></tr><tr><td>8</td><td>QUANTUM SCIENCE&TECHNOLOGY</td><td>25</td><td>11</td><td>4</td><td>737</td><td>377</td><td>155</td></tr></table></body></html>
+
+![](images/a6bef5f4a1cba487d8e7f414274ac6db7a95cc4b54c20f9c23240648dd22c33c.jpg)  
+图3-a 高被引论文开放率和OAJ的贡献度
+
+为更清晰地反映它们的对应关系，将高被引论文的开放率和高被引OA论文的被引率以及 OAJ对二者的贡献度4个量集为一图3-b。由此发现：1.高被引OA论文的被引率（灰色）与高被引论文开放率（蓝色）对称性很好，它们呈线性相关，相关系数 $\scriptstyle \mathsf { r } = 0 . 9 9 0 2$ ；贡献率ChiOAJ（橘黄色色）和 $\mathsf { C t c i } ^ { h i } \mathsf { o A l }$ （黄色）相关系数为 $\mathsf { r } { = } 0 . 8 0 9 4$ ，如图3-c。2.在图3-b中，粒子与场论和凝聚态物理的数据分别处于两个极端的情况。表7显示前者的研究成果在 2016-2017两年时间里共有336 篇高被引论文，被引用次数为14104，其中OA论文有280篇，被引用次数为12051，分别占高被引论文总数 Hi和占高被引论文被引频次 $\mathsf { T c } \mathsf { i } ^ { h i }$ 的 $8 3 . 3 3 \%$ 和$8 5 . 4 4 \%$ ；280 篇高被引OA论文中有183 篇论文是来自OAJ，因此，OAJ对高被引OA论文的贡献率ChioAi为 $6 5 . 3 6 \%$ ，OAJ对高被引OA论文被引的贡献率 ${ \mathsf { C } } t c i ^ { { \mathsf { h } } i } { \mathsf { o A } } { \mathsf { J } }$ 为 $5 2 . 9 2 \%$ 。而凝聚态物理在2016-2017两年期间共有1188 篇高被引论文，被引用量为72985，其中为0A论文的有207篇，被引用量为11331，开放比例分别为 $1 7 . 4 2 \%$ 和 $1 5 . 5 3 \%$ ；而来自OAJ的高被引论文只有4篇,被引用量为155，因此OAJ的贡献率 $\mathsf { C h i } _ { \mathsf { O A J } }$ 和 ${ \mathsf { C } } t c i ^ { { \mathsf { h } } i } { \mathsf { o A } } { \mathsf { J } }$ 仅仅为 $1 . 9 3 \%$ 和 $1 . 3 7 \%$ ，这些数据都客观上反映了凝聚态物理这个大学科在论文和期刊双方面都远低于例子与场论的开放程度，其开放程度的严重不足，也使其OAJ的贡献在8个领域方向居于最低。3.在图3-b 中还有一个现象，以天文与天体为代表，高被引OA论文的开放率和高被引OA论文的被引率都较高，但是OAJ的贡献却很低，与本文3.2.1章节的分析结果一致，是OAJ论文的比例较小而以HOAJ高被引论文为开放获取主流方式的代表。
+
+![](images/0c3714783687811c192df5ab2861385b5104ec5ef45927e61cb437073a7c6864.jpg)  
+图3-bOA高被引OA论文分析
+
+![](images/0b0bf20549e506b5d4703c738e40129ce31acdb3e9f61f6a027fc6be63713917.jpg)  
+图3-c相关性分析
+
+# 3.2.3篇均被引分析
+
+篇均被引Ci是一个非常重要的期刊质量评价指标，因此我们分别对物理学的348个期刊的全视野和8个分支的6个篇均被引指标进行统计，数据来自表3、表5和表7，并按照四个路径两个节点进行数据分析，即 $\textcircled{1} \textcircled { 2 } \textcircled { 3 } \textcircled { 4 }$ ，以及整体论文和该被引论文，如图4表示。图4-a为整体分析组，包括 $\textcircled{1}$ 和 $\textcircled{3}$ ，即物理学科的348个期刊整体论文（以阴影条形图表示）和8个领域期刊的整体论文篇均被引Ci、OA 论文的篇均被引CioA和 OAJ论文的篇均被引CioAi；图4-b为高被引论文组，包括 $\textcircled{2}$ 和 $\textcircled{4}$ ，即物理学科的348个期刊高被引论文（以阴影条形图表示）和8个领域期刊的高被引论文的篇均被引Cihi、高被引OA 论文的篇均被引$\mathsf { C i } ^ { \mathsf { h i } _ { \mathsf { O A } } }$ 和OAJ的高被引论文篇均被引 ${ \mathsf { C i } } ^ { \mathsf { h i } } { \mathsf { o a } } { \mathsf { J } }$ 。结果如下：
+
+![](images/2d1c67e2c962f07e5ac0634cf5806a902c9eb548cf07efcf31f3dc137516aa7c.jpg)  
+图4篇均被引分析的思路
+
+1）物理学全视野篇均被引表现。348个期刊全视野 $\textcircled{1} \textcircled{2}$ 对应图4a和4b中坐标“8个领域”的两组数据，我们发现，OA论文的篇均被引CioA、 $\mathsf { C i } ^ { \mathsf { h i } } \mathsf { o A }$ （4.35，50.33）高于整体论文的篇均被引Ci、Cihi（3.26，46.54）和OAJ论文的篇均被引 $\mathsf { C i } _ { 0 \mathsf { A l } }$ 、 ${ \mathsf { C i } } ^ { \mathsf { h i } } { \mathsf { o a } } { \mathsf { \Pi } }$ （3.56，29)，这一结果与前期的研究一致{4}[9][10]。原因可以解释为OA 论文的开放获取模式提高了使用者的关注度，因此Cioa和CihioA 高于Ci和Cihi；然而，即使 OAJ论文具有获取和被关注的优势，但是由于其相对非开放期刊和复合期刊论文的质量偏低，最终导致其在三者中的数值最低。
+
+2）各领域的篇均被引表现。8个领域的个体表现 $\textcircled{3} \textcircled{4}$ 如应图4a和4b两组条形图所示。整体组表现最好的是凝聚态物理（5.71)，其次为多学科交叉和天文天体学；高被引OA论文篇均被引表现最好的为核物理（71.3)，接下来为凝聚态物理和多学科交叉；而总体来讲，无论是整体组还是高被引组，OA 论文的篇均被引在7个领域上都与以上分析1)所述的整体情况比较一致，只有凝聚态物理除外，即表现出其高被引的整体论文篇均被引 $\mathsf { C i } = 6 1 . 4$ 高于了高被引OA 论文 $\mathsf { C i } _ { 0 \mathsf { A } } = 5 4 . 7$ 篇均被引。
+
+![](images/65740238d6997c2f9426b3bc6fcfcd1f709486fc6584d54e95833f5b2bf01915.jpg)  
+整体论文篇均被引ci   
+图4-a 整体论文的篇均被引分析
+
+![](images/4ca5de71f6eb9733f50da3ace3695c91acaff0800aa7d522a7485f80a08b30c7.jpg)  
+高被引论文篇均被引cihi  
+图4-b高被引论文的篇均被引分析
+
+3）个刊的篇均被引表现。为了解各个领域6个指标的领头期刊，对篇均被引的6个指标进行了统计计算和排名，表8顺序列出了排名前5%的15个期刊。此外，有四个指标 Ci、CioA、Cihi、 $\mathsf { C i } ^ { \mathsf { h i } } \mathsf { o A }$ 的最大平均值被凝聚态物理学（编号7）夺得， $\mathsf { C i } _ { \mathsf { O A } }$ ， $\mathsf { C i } ^ { \mathsf { h i } } \mathsf { o A }$ 指标凸显于其它各个领域，说明此领域期刊质量的整体水平比较高，但是我们并没有发现它们之间存在相关规律，我们认为最主要的相关因素是凝聚态物理学的研究论文总的产出较高，在没有OA偏见的情况下，带动了OA的质量数据表现，并不源自OA的规模或主动开放，因此，也没有证据改变以上“凝聚态物理OA开放程度与领域规模、期刊的刊文量不相匹配”的研究结论。
+
+表86个篇均被引指标排名前 $5 \%$ 的期刊列表  
+
+<html><body><table><tr><td></td><td></td><td>Ci</td><td>CioA</td><td>CiOAJ</td><td></td><td>Cihi</td><td>Cihi oA</td><td></td><td>CiAJ</td></tr><tr><td></td><td>最大</td><td>凝聚态物理</td><td>凝聚态物理</td><td>量子科学与技术</td><td></td><td>凝聚态物理</td><td>核物理</td><td>凝聚态*、原子分子*、量子*、</td><td></td></tr><tr><td>平均值</td><td>最小</td><td>量子科学与技术</td><td>流体与等离子体</td><td></td><td>凝聚态物理</td><td>量子科学与技术</td><td>量子科学与技术</td><td></td><td>核物理</td></tr><tr><td>前15最多的领域</td><td></td><td>7</td><td>7</td><td></td><td>1</td><td>7</td><td>3</td><td></td><td>1</td></tr><tr><td rowspan="17">TOP15期刊排名</td><td></td><td>4REVMOD PHYS</td><td>83.732ANNUREVASTRON ASTR</td><td></td><td>43.671LIVINGREVRELATIV</td><td>27.00 1CHINESE PHYS C</td><td>529.81 CHINESE PHYS C</td><td>1868.00 1PROGTHEOREXPPHYS</td><td>66.00</td></tr><tr><td>2 3</td><td>7NATMA TER</td><td>37.154REVMOD PHYS</td><td>43.07 2LIVINGREV SOL PHYS</td><td></td><td>14.00 3CHINESE PHYS C</td><td>529.83CHINESEPHYSC</td><td>1868.00 4PROGTHEOREXPPHYS</td><td>66.00</td></tr><tr><td></td><td>2ANNUREVASTRON ASTR</td><td>32.724 PHYSREP</td><td>32.824PHYSREVX</td><td></td><td>12.147PHYS STATUS SOLIDI-R</td><td>3067PHYS STATUS SOLIDI-R</td><td>306.001LIVINGREVRELATIV</td><td>63.67</td></tr><tr><td>45</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>4 LMNGRE RELATIV</td><td>27.8 NATMATION</td><td></td><td>28018NPJOUANTUM INFORM</td><td>8.34 NUCL NSTRUM MTHA</td><td>20 NUCL NSTUMETA</td><td></td><td>4853</td></tr><tr><td></td><td>7ADV PHYS</td><td>25.801LIVINGREVRELATIV</td><td></td><td>27.00 7NPJQUANTUMINFORM</td><td>8.34 2ASTRON ASTROPHYS</td><td>123.82ASTRON ASTROPHYS</td><td>150.086NPJQUANTUMINFORM</td><td>38.75</td></tr><tr><td></td><td>7ADVMA TER</td><td>24.597SURF SCI REP</td><td></td><td>23.501JHIGH ENERGY PHYS</td><td>5.07 6MOL SIMULAT</td><td>1167JPHYS-CONDENS MAT</td><td>118.677NPJ QUANTUM INFORM</td><td>38.75</td></tr><tr><td></td><td>8 7 ADV ENERGY MA TER</td><td>22.465ANNU REVFLUIDMECH</td><td></td><td>22.804 ADV PHYS-X</td><td>5.04 7NATMATER</td><td>81.636MOL SIMULAT</td><td>116.00 4 PHYSREVX</td><td>37.76</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(1-15)</td><td>910 4 NANU REV FLUDMECH</td><td>17.981ANNU REVNUCLPARTS</td><td></td><td>22201 FHYSLETTC</td><td>4.64 7ADYROPHYSJTLET</td><td>8151JHYSGNUC PARIC</td><td></td><td>34.51</td></tr><tr><td></td><td>11 4 REP PROGPHYS</td><td>16.337ADVANCED MA TERIALS</td><td></td><td>21.552PHYS LETTB</td><td>4.076MOLPHYS</td><td>776JMOLLIQ</td><td>89.004NEWJPHYS</td><td>32.89</td></tr><tr><td></td><td>12</td><td>7ANNU REV CONDENMAP</td><td>15.327ADVENERGY MATER</td><td>20.633PHYS LETTB</td><td>4.077JPHYS-CONDENS MAT</td><td>75.635ANNU REVFLUIDMECH</td><td>87.004Entropy</td><td>30.00</td></tr><tr><td></td><td>13</td><td>7ADVFUNCTMATER</td><td>15.03 1CHINESE PHYS C</td><td>19.21 4NEWJPHYS</td><td>3.65 5PLASMA SOURCES SCIT</td><td>735 PLA SMA SOURCES SCIT</td><td>83.001NUCL PHYSB</td><td>25.69</td></tr><tr><td></td><td>14 7SURF SCIREP</td><td></td><td>14.71 3 CHINESE PHYS C</td><td>19.216STRUCTDYNAM-US</td><td>3.226J CHEMTHEORY COMPUT72.677SEMICOND SCI TECH</td><td></td><td>83.00 4RESULTS PHYS</td><td>25.00</td></tr><tr><td></td><td>15</td><td>2ASTRON ASTROPHYSREV</td><td>14.293ATOMDATA NUCLDATA</td><td>18.881NUCLPHYSB</td><td>3.144ADV PHYS-X</td><td>714REVMOD PHYS</td><td>74.772ADV ASTRON</td><td>25.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：每一个期刊名前的数字是领域编号。黄色为OAJ。
+
+# 4．物理学科OA期刊接受度分析
+
+# 4.10AJ接受度与接受度指标建立
+
+一个OA期刊的接受度是指学术共同体对其的感知和认知的程度，以往的研究多是以问卷调查方式来研究学术界对OA理念的了解程度、对OA期刊的关注程度，以及是否有意愿向 OA 期刊投稿[1][12][13]等一些主观行为。但是目前从文献计量学的角度，用数据去客观地分析作者对OA期刊的接受度的研究还是个白点，实际上，接受度的定量分析已经逐渐显示出它在OA研究中的不可回避性，对OA期刊的质量评价和OA期刊开放政策的制定都具有直
+
+接的参考意义。
+
+如何定义一个期刊的接受度是研究OAJ接受度指标确定的前提。笔者认为对OA期刊的感知和认知行为有两个：引用与投稿。引用OAJ的论文是侧重对期刊论文内容的感知和认可；而选择一个OA期刊投稿，则是学者对期刊的主动接受行为，它更出自于对期刊本身学术影响力和出版质量的认知。因此，本研究选择OA期刊的刊文量P作为研究和评价OAJ接受度的重要依据，并提出三个衍生评价指标：1）接受度均值P $\mathsf { \Lambda } ( = { \mathsf { P } } / { \mathsf { J } }$ )，即本领域期刊刊文量的平均值；2）接受度百分位，即期刊刊文量的百分位数；3）0AJ接受度比a（ $\scriptstyle \left( = { \mathsf { P } } _ { 0 \mathsf { A J } } / { \mathsf { P } } \right)$ ，即OAJ 的刊文量与总刊文量之比。以此三个量来分析物理OA 期刊的接受度，探索OA 期刊接受度的评价方法，研究思路如图5所示：
+
+![](images/5d5eecb2f1f3a4c6833470f9fe150c76dc16a33f049f1be366b7a1dfd3ef11c5.jpg)  
+图5 OAJ接受度分析思路  
+图6期刊接受度均值分析
+
+4.2接受度分析方法的实证探究
+
+4.2.1期刊刊文量平均数分析
+
+基于刊文量P为接受度指标的设定，一个领域整体期刊接受度平均值和OA 期刊接受度平均值分别为：领域内期刊论文的总刊发量除以领域的期刊总数，即：
+
+物理8个领域接受度平均值P如图6中折线所示；而各领域刊文量大于P的非OAJ和OAJ的数目以百分比 $J _ { \mathsf { N O A l } } \%$ 和 $J ^ { \mathsf { P } } \mathsf { o A } \%$ 表示，如图中条形图所示。从折线图可见，
+
+1)各领域期刊J的整体平均接受度P在 $9 0 0 +$ 至 $5 0 0 +$ 之间（除量子科学与技术偏低，为301），各领域之间有一定差异，但取值区间小于OAJ的平均接受度PoAi的区间值（在 $1 0 0 0 +$ 至
+
+60.0% 1036 1200  
+0 50.0% 1000  
+r/ 855 779 888 962 (0AA/AA140.0% 80030.0% 636555 596 60057320.0% 30.0% 37.5% 30.2 261 29.9% 28.1% 301 4020 /d25.0%  
+大 33.3% 33.3% 37.5% 12. .5%0.0% 0核物理 分子与化…粒子与场论 多学科交叉 凝聚态物理天文与天体物理 流体与等离子体 量子科学与技术原子、IJPNOA% IJPOA% P/J POAJ/JOA
+
+100-间)。OAJ平均接受度较高的是粒子物理、核物理和多学科交叉物理，甚至超过了本领域期刊的整体平均接受度P，其余领域的 $\overline { { \mathsf { P } } } _ { \mathsf { O A J } }$ 均小于P。
+
+2)以各领域期刊的整体平均接受度水平P为基准线，大于此值的非OAJ 的数量百分比 $J _ { \tt N O A l \% } ^ { \tt P }$ （蓝色条形图）在 $2 1 \% - 3 8 \%$ 之间（除了量子科学与技术表现出超值，为 $5 0 \%$ )；而大于P的OAJ的数量百分比 $J _ { ^ { \prime } 0 \mathsf { A } } ^ { \mathsf { P } } \%$ （红色条形图）在 $4 0 \% - 0 \%$ 之间，其中多学科交叉物理最高，意味着有 $3 7 . 5 \%$ 的 OAJ的接受度超过P（ $\scriptstyle = 5 1 8$ 篇)，也超过了NOAJ的水平（NOAJ有 $3 0 . 1 \%$ 的期刊接受度超过518篇)。但是有四个领域OAJ接受度超过基准线的期刊数量为零，意味着这四个领域所有OAJ中，没有一种期刊的刊发量达到平均水平。
+
+3）领域规模引起的期刊体量的差异会是否给接受度指标带来影响？凝聚态物理是物理学期刊最多、论文量最大（6万篇）的领域，但是从图6可以发现，其整体平均接受度为 $\scriptstyle { \overline { { \mathsf { P } } } } = 8 8 8$ 和 $\overline { { \mathsf { P } } } _ { \mathsf { O A J } } = 2 6 1$ ，在8个领域中这两个值都没有引起其它数据表现的奇异，与三个领域：流体与等离子（刊文量为1.8万）、原子分子与化学物理（刊文量为3.5万）、量子科学与技术（刊文量最小，为0.4万）为参考对象，它们的 $J _ { ^ { \ P } _ { 0 \ A } \% } ^ { \mathsf { P } }$ 均为零，说明刊文量P的差异对这种接受度均值的分析方法并没有产生奇异数据。基于以上的研究分析，基本可以认可用每个期刊的P与整个领域的P进行比较的方法作为期刊认可度的映射指标，为OAJ投稿的接受程度研究提供了可能性。
+
+# 4.2.2刊文量百分位数分析
+
+不同领域的期刊在刊文数量上存在很大的体量差异，百分位数是有效克服这一影响的分析方法。按348个期刊刊文量P进行排名，计算各个期刊的百分位数并排序，并将排名分为1-30、31-100、101-200、201-300以及 $3 0 0 + 5$ 个区间段（简称为A、B、C、D、E)，计算8个领域各个区段和整体的百分位数均值、期刊数目，得到的数据阵列如表9所示。
+
+表9物理8个领域期刊百分位数分布  
+
+<html><body><table><tr><td>区段</td><td colspan="2">A(1-30)</td><td colspan="2">B(31-100)</td><td colspan="2">C(101-200)</td><td colspan="2">D（201-300)</td><td colspan="2">E（300+)</td><td colspan="2">整体</td></tr><tr><td>领域编号</td><td>J(OAJ)</td><td>均值首分位</td><td colspan="2">J（OAJ均值首分位</td><td colspan="2">J(OAJ) 均值首分位</td><td colspan="2">J(OAJ)</td><td colspan="2">J(OAJ)</td><td colspan="2">均值首分位</td><td>均值分位</td></tr><tr><td>2</td><td>5(1)</td><td>0.9684</td><td>8</td><td>0.819</td><td>13(1)</td><td>0.5314</td><td>27(3)</td><td>均值首分位 0.264</td><td>16(3)</td><td>均值首分位 0.0724</td><td>0.3853</td><td>0.2636</td></tr><tr><td>6</td><td>5</td><td>0.9644</td><td>8</td><td>0.8251</td><td>9</td><td>0.5562</td><td>6(2)</td><td>0.3041</td><td>8（2)</td><td>0.0708</td><td>0.4085</td><td>0.1092</td></tr><tr><td>7</td><td>7</td><td>0.9618</td><td>20(1)</td><td>0.8073</td><td>21</td><td>0.5972</td><td>12(3)</td><td>0.2639</td><td>8</td><td>0.0485</td><td>0.5227</td><td>0.1818</td></tr><tr><td>5</td><td>2</td><td>0.9612</td><td>7</td><td>0.7943</td><td>9</td><td>0.53</td><td>13(1)</td><td>0.2825</td><td>1</td><td>0.1006</td><td>0.5008</td><td>0.2299</td></tr><tr><td>1</td><td>4(2)</td><td>0.9504</td><td>5(2)</td><td>0.8063</td><td>10(3)</td><td>0.5848</td><td>7(1)</td><td>0.2935</td><td>3(1)</td><td>0.0699</td><td>0.5498</td><td>0.6111</td></tr><tr><td>4</td><td>5</td><td>0.9368</td><td>15(3)</td><td>0.8236</td><td>28(3)</td><td>0.5584</td><td>27(2)</td><td>0.3023</td><td>6</td><td>0.0599</td><td>0.5085</td><td>0.5704</td></tr><tr><td>3</td><td>3(1)</td><td>0.9282</td><td>3</td><td>0.7874</td><td>7(1)</td><td>0.6211</td><td>2(1)</td><td>0.2385</td><td>4</td><td>0.0991</td><td>0.5457</td><td>0.6044</td></tr><tr><td>8</td><td>0</td><td>0</td><td>3</td><td>0.7797</td><td>3</td><td>0.5795</td><td>6(1)</td><td>0.261</td><td>2(1)</td><td>0.0374</td><td>0.5731</td><td>0.3520</td></tr><tr><td rowspan="2">348J</td><td>31</td><td>0.9545</td><td>69</td><td>0.8108</td><td>100</td><td>0.5679</td><td>100</td><td>0.2805</td><td>48</td><td>0.0678</td><td></td><td></td></tr><tr><td>-4</td><td>0.9282</td><td>-6</td><td>0.8223</td><td>-8</td><td>0.5449</td><td>-14</td><td>0.233</td><td>-7</td><td>0.0431</td><td></td><td></td></tr></table></body></html>
+
+注：括号内数据表示OA期刊的数量
+
+70.0% 60.3% 0.6111 0.6044（%） 60.0% 5498 0.5457 0.0.5704 0.5731 0.5008 0.522740.0% 0.3520 0.3853 0.408530.0% 24.0% 0.2636 0.229920.0% 2.4% 6.0% 0.5% 18018108000.0% 网 5子与…粒子与场论 核物理 多学科交叉 科学与技术 文与天体物理 与等离子体 凝聚态物理 可POAJ/P ■均百分位数 ■均值百分位数 原子、
+
+图7-a 显示了OAJ接受度比a（ $\mathrm { \Delta P _ { o A J } / P }$ ）和百分位数均值。首先，接受度比a的分析是试图通过8个分支领域各自OAJ刊文量与其总刊文量的比值，直观地了解各领域学者的投稿倾向以及领域之间的差异。比如：粒子与场论OAJ的刊发量占本领域期刊总刊发量的$6 0 . 3 \%$ ，其次为核物理，a为 $2 4 \%$ ，原子分子与化学的a值最低，仅为 $1 \%$ 。其中粒子与场论领域OAJ的刊文量比例超过总刊文量的半数，说明作者对普通期刊」和OAJ的选择差异比较小，映射了学者对OAJ的质量认可，但是对于其它领域，都明显表明投稿者更倾向非OAJ投稿。第二，百分位数均值是试图比较8个分支领域各自OAJ和各自整体期刊的差异，比如：粒子与场论、核物理、多学科交叉三个领域的0A百分位均值都与其领域整体期刊」的接受度均值相当，而凝聚态物理、原子分子与化学物理OAJ的百分位数与整体期刊」的百分位数值差异都很大，其相差的绝对值分别为0.3409 和0.2993，是各自整体期刊」均值百分位数的 $6 5 . 2 \%$ 和 $7 3 . 3 \%$ ，说明这两个领域学者对OAJ的投稿倾向很低。
+
+![](images/7b03db52bbb5556cedb8a8c2c8cf8cea193e268f1edd28f587447e3eee7838c6.jpg)  
+图7-b期刊接受度百分位数区间分析
+
+我们将百分位分为几个区段，图7-b试图从折线图描绘A、B、C、D、E各段百分位数均值，以及柱形图描绘的各个区段拥有OAJ数量的百分比。首先，如图所示OAJ和」百分位数均值的大小和趋势十分一致，这正是百分位数研究方法的数据特征；此外，进入各区段的 OAJ百分比略有不同，如在C区间段有8个OAJ，占此区段期刊总数目的 $8 \%$ ，D 和E段的OAJ比率最高，为 $14 \%$ ，但总体来讲，接受度百分位低的领域OA」占比略高，但涨落并不显著，说明 OAJ在各个区段的接受度分布比较均匀，不存在开放策略上的偏见性，同时也说明了对接受度高的期刊也并没有给予更高的关注，有意识地开放比例。
+
+从图7a-b的研究结果我们可以看出，每个区段的百分位数的一致性和各个区段期刊数目的稳定，为以刊发量作为期刊接受度评价指标的稳定性提供了佐证，也说明了用百分位数方法对以刊发量为接受度研究的可行性，以及对OAJ评价和筛选的稳定性和合理性。
+
+# 5．小结
+
+通过对物理学科在WoS 收录的348个期刊的分析和研究，使我们对物理学科期刊的开放规模和质量有了一个比较全面的了解，也为我们开展对一个学科期刊规模、开放规模以及开放数量和质量之间的关系，等研究提供了一个思路。此外，提出了以刊发量为本的对 OAJ接受度进行评价的可能性。归纳以下几点：
+
+1）a.物理学科共有6.74万篇OA论文，开放率和被引率分别为 $2 8 . 3 7 \%$ 和 $3 5 . 9 5 \%$ ；其中粒子物理与场论具有最大的开放率和被引率，分别达到 $5 3 . 3 \%$ 和 $6 7 . 2 \%$ ，其次为天文与天体物理、核物理；物理学科共有39个OA 期刊，它们对论文开放率和被引率的贡献分别为$30 \%$ 和 $2 3 . 9 9 \%$ 。
+
+b. $4 1 . 8 7 \%$ 的高被引论文被开放，高被引论文的被引率为 $4 0 . 5 6 \%$ ，其中粒子与场论、天文与天体物理的高被引论文被引率达到 $70 \text{‰}$ 以上，其次是天文与天体物理、核物理和多学科交叉物理。
+
+因此总体来讲，无论是OA 论文还是高被引OA论文，OAJ对其的贡献率 $\mathsf { C } p _ { \mathsf { O A J } }$ 、ChioA小、CtcioAi、ChitcioAi都很有限，支持OA论文的开放率和被引率的主要来源是 HOAJ，说明当前物理学科的开放模式是以复合期刊的部分开放获取为主要模式。
+
+2）本研究的篇均被引分析为物理各分支领域开放质量的具体分析提供了数据支持。从物理学科和各分领域的整体和高被引两组的论文、OA论文、OA 期刊论文共6个篇均被引指标 Ci、Cihi、CioA、CihioA、CioAJ、 $\mathsf { C i } ^ { \mathsf { h i } } \mathsf { o A }$ 的阵列分析来看，无论是整个物理学科，还是各个分支领域，OA论文的篇均被引高于整体论文的篇均被引， $\mathsf { C i _ { O A } } > \mathsf { C i }$ 、 $\mathsf { C i } ^ { \mathsf { h i } } \mathsf { o A } \mathsf { > C i } ^ { \mathsf { h i } }$ ；但是，OAJ论文的篇均被引则普遍低于整体论文平均值。此外， $5 \%$ 的排序结果反映了各个领域的开放策略的现状以及特点。其中，凝聚态物理的相对胜出，就说明了非 OA」在开放获取质量上的比重。在同样的开放获取优势下，OAJ的论文质量普遍低于非OAJ论文质量的结论也许还需要更进一步的实证。
+
+3）接受度指标的确定是衡量期刊被接受程度的前提，本研究提出了以期刊的刊文量作为作者选择期刊投稿的直接体现，并能间接反映作者对期刊认知度或接受度的指标。通过对接受度均值及其百分位数的定量分析，不仅对8个领域的OAJ的接受度有了量化了解，还从图7-b 发现了OAJ在各个区段分布相对均匀，表明了开放策略的无偏向性。此外，图6和图7-a分别从接受度均值和接受度百分位均值两条路径的结果表现了对各领域期刊接受度差异研究结论的一致性。
+
+4）提出期刊开放率、论文开放率、OA期刊的贡献率作为开放程度的评价指标；OA 论文被引率、高被引OA论文率、OA期刊的平均被引率作为开放质量评价指标；以及基于刊文量的接受度比a（ $\mathsf { \Lambda } _ { = \mathsf { P O A J / P } } )$ 、接受度百分位数和接受度均值为指标的个刊评价方法，并用实证分析证明了这些指标在OAJ评价上的可行性。
+
+OA 期刊、OA论文的质量，是学术OA事业发展的生命，是OA 持续发展的决定因素。但是实证分析的经验使我们意识到，领域和期刊之间都存在着很大的个性差异，因此合理地选择研究对象以及研究变量的时间窗口是探索OA质量评价研究的前提，只有深刻理解传统期刊和学术论文质量评价体系和评价指标的内涵，并从OA的时效性和易获性的核心价值出发，才可能建立合理、有效的研究范式。总之，对OA的学术评价体系的建立以及评价研究的开展对学术开放获取事业的意义也许越来越凸显。
+
+# 参考文献：
+
+[1]cOAlitionS发布修订版S计划原则和实施指南（中文版）[EB/OL].
+
+http://www.oa2020.cn/nd.jsp?id=40
+
+[2]Seamus J.Martin. The FEBS Journal in 2O2O： Open Access and quality versus quantitypublishing[J].The FEBS Journal， 2020，287: 4-10  
+[3] Bo-Christer Bjork, David Solomon. Open access versus subscription journals: a comparison ofscientific impact[J]. BMC Medicine，2012，（10): 73-83  
+[4]陈娟.Scopus 和 WoS 收录开放获取期刊的定量研究[J]．中国科技期刊研究，2015，26(4):405-413.
+
+[5] 朱江，任晓亚．高质量学术期刊 OA 论文的分析研究----以Web of Science 核心合计为例
+
+[J]．知识管理论坛，2018，14(2):95-105  
+[6] 黄金霞，陈雪飞，沈东婧．开放资源的利用评价研究[J]．图书情报工作，2013，57（21)：18-23  
+[7] 赵蓉英，王旭．中美国际 OA 期刊影响力评价与比较[J]．情报资料工作，2019，40（2)：5-13  
+[8] 李广利，白雪，张美琦．中国金色 OA 论文现状分析---基于Web of Science 数据[J]．农业图书情报学报,2020，32（1）：40-46  
+[9] 李贺，周金娉．国外开放获取期刊研究综述[J] 图书情报工作，2013，57（9)：135-144[10] Harnad S, Brody T. Comparing the impact of open access (OA) vs non-OA articles in the samejournals[J/OL].D-Lib Mag,2004,10(6)  
+[11]王应宽．中国科技界对开放存取期刊认知度与认可度调查分析[J].中国科技期刊研究,2008，19(05): 753-762  
+[12] 杜亮，陈耀龙，王梦书，张琼文，核弹端，李幼平.我国医学工作者对“开放获取（OpenAccess)"的认知态度---《中国循证医学杂志》作者调查结果分析[J].中国科技期刊研究,2009,20 (02): 252-255  
+[13] 刘建华，黄水清．国内用户对开放获取的认同度研究---以高校调查分析为例[J].中国图书馆学报，2007（02)：103-107
+
+# The idea of quality evaluation for Open Access of basic subject based on WoS Empirical Analysis about Physics
+
+WANG Xin
+
+Library，Renmin University of China， zhongguancun str.59， Haidian， Beijing 100872， China
+
+Abstract
+
+[Purposes] A comprehensive understanding of the degree of open access (OA)of academic journals in physics,and the quality of OA papers. Exploring the quality-evaluation methods based on cited OA papers.
+
+[Methods] Using statistical principles and bibliometrics methods,348 physics journalsin web of science (WoS), were studied,according to their number of papers and citation collected within 2 years.A comparison and correlation analysis of 9 indicators of about OA proportion ofwhich including OA paper, OA journals,citation of OA paper,as wellas acceptability of OA journals, were carried out for the whole physics discipline and 8 branch areas.
+
+[Findings] There are 39 OA journals in the whole discipline,accounting for $1 1 . 2 1 \%$ of the total journals.The total opening rate and citation rate of OA papers are $2 8 . 3 7 \%$ and $3 5 . 9 5 \%$ ,respectively. The contribution of OA journals to the opening rate and citation rate is $30 \%$ and $2 3 . 9 9 \%$ respectively. The opening percentage of high cited papers is $4 1 . 8 7 \%$ ，and its contribution percentage for citation is $4 0 . 5 6 \%$ . OA papers were cited as 4.35 per paper. In eight branch areas, the intervals of mean value of Journals Acceptability (JA) of their journals and OA journals,are $\{ 9 6 2 , 3 0 1 \}$ and $\{ 1 0 3 2 , 5 0 \}$ respectively.
+
+[Conclusions] Empirical analysis shows that :1)The majority of OA papers come from hybridjournals.For condensed matter physic,its OA level is much less than the scale of its journal publish. Regarding the OA tactics of high- cited papers,we did not find that they were priority， neither biased.Therefore,increasing the percentage of open access of high- cited papers can be a strategy to improve the quality of OA.2) OA ratio of Journals and papers,as wellthe contribution ratio of
+
+OA journals can be used as an evaluation index for the degree of openness.The citation ratio of OA papers,the OA ratio of high cited papers,and the average citation per paper in OA journals can be used as indexes for evaluating the quality of OA.3)The publication volume (PV)of OA journal and the percentile of the journal's PV can be used for the journal acceptability analysis. Keywords: academic journals in Physics， Open Access， OA- quality evaluate

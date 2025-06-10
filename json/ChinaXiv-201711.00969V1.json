@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "基于二维码技术的地铁管片生产管理系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋博宙1,² 熊诚2, 夏海兵4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.上海大学－上海城建建筑产业化研究中心，上海200072；2.上海大学土木工程系，上海200444；3.上海地下空间设计研究总院有限公司，上海200020；4.上海市隧道工程轨道交通设计研究院，上海200235）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目前管片的生产在车间中，通常用笔记簿记录工厂管理和质量监控信息，例如生产数量、库存数量、材料数量和质量监控信息等等；数据并没有为了控制过程的需要录入电脑，直到返回办公室之后才由纸质记录录入电脑。此外，由于管片在生产堆放运输过程中存在信息获取、数据再录入、管片跟踪、交付延迟或错误等方面的一些问题，导致劳动力和原材料成本的浪费。二维码是一种很有前景的技术，可有效地用于管片堆放和运输数据的采集及查看。目前，RFID技术已有不少研究成果，但在实际应用中遇到很多问题，无法在管片生产中进行大规模推广。为此本文经过二维码试验研究，提出了基于二维码技术的管片生产管理系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】管片；二维码；生产管理；系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】F273 【文献标识码】A 【文章编号】1674-7461（2016）01-0022-07  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "隧道衬砌环由数块管片拼装而成，管片是盾构法施工中隧道结构衬砌的主体，对于整个隧道的质量和使用寿命起着关键作用。目前，国内应用最广泛的是钢筋混凝土管片。但是，在管片生产、堆放及运输的过程中依然存在着一些问题，主要有：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)管片体积大，生产数量多，需要占用的生产面积大，尤其是大量管片所占用的堆放面积很大，在堆场数量庞大的管片中寻找所需的管片要花费较多的时间；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)同一项目的管片会分到几个厂家共同生产，导致管片生产计划难以协调，不能很好地满足实际施工进度计划的需求；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)管片在生产、运输、施工过程中，数据的采集虽也采用电脑记录的方式，但还是先由纸质记录转录入电脑，存在多次重复录入的问题，在生产进度管理以及管片识别、跟踪定位方面也并未找到行之有效的解决方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术的发展，RFID技术在建筑施工中的探索试验和应用不断加大，已有许多单位、企业研究把RFID技术应用到建设施工中，并取得了良好的效果[2]，发现RFID技术在建筑施工行业能够提高识别和定位的效率。但RFID技术在实际应用和大面积推广上却遇到了难题。主要问题如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)技术成熟度不够 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于RFID电子标签具有反向反射性特点，一些频段电波的穿透性也很弱，使得其在金属、液体、灰尘等物质中干扰较大，大大影响了它的扫描和读取。而管片作为钢筋混凝土材料，其中含有大量的钢筋，脱模后也要进行蒸养和水养使之达到一定强度，生产施工现场不可避免会有大量尘土，严重影响了RFID的使用效果；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)成本高",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RFID标签相对于普通条码标签价格就很高，再加上RFID发射器、读写器、编码器等设备，而管片生产量又很大，这样就会造成成本提高，在很大程度上降低了企业使用的积极性；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)技术标准不统一，安全性不够强",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RFID技术目前还没有形成统一的标准，市场上多种标准并存，致使不同企业产品的RFID标签互不兼容，进而在一定程度上造成RFID技术应用的混乱；此外，标签信息容易被非法读取和恶意篡改。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与RFID相比较，二维码不仅成本优势凸显，其与智能手机、平板等便捷式移动设备的结合，使它的用户体验和互动性也具有更好的应用前景。随着3G/4G移动网络环境下智能手机和平板电脑的普及，二维码应用不再受到时空和硬件设备的局限，可对产品基本属性、图片、声音、文字、指纹等数字化信息进行编码捆绑，适用于产品质量安全追溯、物流仓储、产品销售以及身份、物料单据识别等。为此，本文提出了一种基于二维码的管片信息管理系统，用于管片生产信息的采集、识别、查询及跟踪等，为工作人员提供一种信息分享的平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "谈永泉、杨鼎宜等[3介绍了我国管片的生产技术及质量标准，结合衬砌管片生产过程控制对管片生产工艺、技术规程等具体内容进行了叙述。Ben-jaoran和Dawoodp4提出了针对预制混凝土管理的生产计划系统及其对工厂资源的充分应用。信息化可以快速地传送各种信息，通过互联网，生产经理可以通过这个系统平台及时检查预制进度和状态，提高了工作效率，也促进了管理的整合，减少了不必要的费用。开发实施混凝土企业生产信息化管理系统，可以实现企业生产管理的信息化，是加强企业管理、保证产品质量、保障企业经济效益的有效方法，符合当前建筑行业发展的需求[5",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在建设工程中，很多研究都显示了二维码的潜力，比如数据录入效率、劳动力的管理、生产效率的提升、成本的节约、设备和材料的追踪以及文件的管理等。许多研究聚焦于二维码与其他技术的融合，Bell和Williams将二维码和GIS技术结合在一起，运用于全州路标的管理；Navon和Berkov-ich8将二维码和RFID结合用于原材料管理和控制中数据的自动收集；Shehab和Moselhi利用二维码技术开发一种用于工程交付的如图纸、报告、说明书等的自动化系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3二维码在生产管片中的应用分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对管片的生产现状，通常情况下，质检人员要对管片各个流程环节进行检查记录。之后在对管片信息数据进行校准、检查、维护和堆场管理过程中，甚至后期的施工、运营维护的追溯过程中，常常出现信息和数据再录入的困扰，以及管片在堆场中查找、定位、运输的不便，造成劳动力和原材料成本的浪费。此外，统计分析和准确查询历史记录也是一项艰巨的工作，很少有合适的信息平台来帮助工作人员分担检查和查询的任务。为此，本文利用二维码标签的信息识别的优势，设计管片生产管理系统用于管片的生产、储存、运输，并为之后的施工、运维提供有效的信息数据支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1二维码标签选择与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对二维码标签进行选择时，模拟标签粘附在管片上的自然环境，考虑主要的影响因素，如抗腐蚀、抗高温、抗磨损性、防水性能及粘黏度等，略去一些如空气潮湿度、氧化、暴晒等细微复杂的条件，分别对各个标签厂家提供的标签样品进行试验比较。将标签样品粘贴在混凝土试块表面，对粘贴的各标签试块进行高温蒸养、浸泡、浸水风干、粘度测定等试验。最后综合各项试验指标，选择一种性能优异、实用、性价比高的标签。ABCDE五组标签的试验结果如表1（以☆个数代表优劣）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f2e532b3d9c6cbba45d29962d46ea2d5641c161c99e147bf2fba787a67d2ffa.jpg",
+        "table_caption": [
+            "表1标签实验表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A</td><td>B C</td><td>D E</td></tr><tr><td>抗高温</td><td>☆☆☆</td><td>☆☆ ☆</td><td>☆☆☆☆ ★☆☆</td></tr><tr><td>粘黏度</td><td>☆★☆</td><td>☆☆☆☆ ☆☆☆</td><td>☆☆☆☆ ☆☆☆☆☆</td></tr><tr><td>抗腐蚀性</td><td>☆☆</td><td>☆☆☆ ☆☆☆☆</td><td>☆☆ ☆☆☆</td></tr><tr><td>脱落程度</td><td>☆☆☆☆</td><td>☆ ☆☆☆</td><td>☆☆☆☆ ☆☆☆</td></tr><tr><td>抗磨损度</td><td>★☆☆</td><td>☆☆☆ ☆☆</td><td>☆☆☆ ☆☆☆☆</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过实验验证，所选用的二维码标签在一个月的测试期内都完好无损，从而保证了管片在28天养护周期结束后，标签依然可用。并结合管片的大小和堆放储存方式及运输方式，考虑标签粘贴在管片上的位置、标签的尺寸、管片表面的光滑程度及实际扫描情况，设计二维码标签的大小。避免二维码标签粘贴的不牢固和可能发生的破损现象，提高扫描的成功率，也便于工作人员粘贴和扫描，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2二维码应用流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文通过二维码技术来进行管片的识别和定位。所提出的基于二维码的系统工作流程见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d50087be8951919a1100148793b1a6c95d4d37e9b5ab38d65ae26f9ceb79b573.jpg",
+        "img_caption": [
+            "图1二维码标签的设计与粘贴"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c9f73a4d2be8b4e83944467d76966759691c6d6752c2f448edf627c6fa4ff50.jpg",
+        "img_caption": [
+            "图2工作流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "管片的二维码包含了大量的管片信息，包括制造单位、管片类型、原材料信息、生产信息（预埋件布置、养护时间、强度等关键指标、修补记录（含照片）、责任人和质量验收证明等）、生产日期、出广日期、运输单位、交付地点及日期等，这些构成了管片独立的ID，在管片生产制造后，二维码标签被张贴在每个管片上，在水养、堆放、出厂及施工时使用。工作人员可以用平板或手机扫描管片二维码标签，利用该系统，并将此管片信息传到数据库中，见图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/16b2aa5ca701408079bbe07d1c343af81b83587c9f47d55a93836d35a91987df.jpg",
+        "img_caption": [
+            "图3扫描二维码标签并传输信息"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水养的管片达到7天养护标准后，系统会自动进行龄期提醒，从而及时吊出管片，并在系统中显示管片位置，确保生产流程顺利进行。在出厂管片管理中，工作人员通过系统中二维码信息来精确定位管片在堆场中的准确位置，系统从数据库中检索达到养护标准后的管片，从而加快管片出厂效率。由于二维码技术快速识别的能力及快速访问管片信息的功能，相关人员可以通过平板或手机扫描贴在管片上的二维码查看某个管片的信息。因此，在生产或施工现场，二维码标签可以消除管片信息缺乏的问题，便于管片质量追溯，同时降低查找的难度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4基于二维码技术的管片生产系统构架设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1管片生产、运输过程剖析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "管片的生产需要经历许多道工序，包括：钢筋加工、钢筋笼制作、模具检查组装、钢模检验、脱模剂喷涂、钢筋笼及预埋件安装、混凝土浇筑、蒸汽养护、拆模标记、管片起吊、管片二次水养、管片检查、三环预拼装、入堆场仓储、管片出厂等。管片生产流程如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b716594666d656c286041159078eb26fb6802a002e1ad09e5ecfb18c8e0c60b.jpg",
+        "img_caption": [
+            "图4管片生产流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从工作场地看，管片的生产过程分在四个不同的工作区域完成，包括钢筋笼绑扎车间，管片生产车间，水养池和堆场，要发生多次位置转移。同时，在水养及堆场堆放时，管片的量很大。考虑到管片位置的流动性，在生产现场，用平板设备进行信息的录入，在管片脱模后粘贴二维码标签，用平板扫描二维码，进行信息的采集和传递。通过集中式数据库，使得施工方和运营方也能够共享这些管片信息数据。管片生产方可以通过对管片相关数据的分析和优化来实现管片质量和生产进度的管理和决策，施工方和运营方也可以通过这些数据来指导隧道施工以及后期隧道的运营维护，实现隧道全生命周期的管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2系统基本构架",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为此，本系统采用B/S架构模式。基于JAVA平台开发技术进行开发，采用VisualStudio2013集成开发环境进行平台设计。服务器数据库则采用SQLServer来进行数据之间的管理。B/S三层体系架构模式，每一层都有其自己的职责，包括：显示层、逻辑层、数据层。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）显示层（客户端）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义了管理和最终用户的web界面，其中包含能够与浏览器进行交互的各类程序。用户通过客户端安装的浏览器向Web服务器请求数据访问管片信息；该部分主要实现计划在线发布和生产过程实时反馈的功能，用户在浏览器中制定、选择、查看相关计划，拥有相应权限的用户可直接在该页面上反馈管片生产的状态信息，后台自动保存反馈信息，并根据需要更新页面显示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）逻辑层（服务层）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要针对业务规则的制定、业务流程的实现等与业务需求有关的系统设计，也可以理解为对数据业务逻辑处理或对数据层的操作。定义了各种应用系统主要模块，提供计划管理，材料管理，生产管理，堆场管理及系统管理等功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）数据层",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其功能主要用于存放系统内所有相关管片信息数据，负责数据库的访问。采用SQLserver数据库来集中存储企业数据文档，详细数据和进展数据记录保存在关系型数据库中，简单的说法就是实现对数据表的Select（查询）、Insert（插人）、Update（更新）、Delete（删除）等操作，为业务逻辑层提供数据服务，使系统的结构更加清楚，系统和数据库之间数据存储和读取快捷而有效。如图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "管片生产管理系统主要有三个部分组成：平板电脑或手机、二维码标签以及系统网站。很显然，移动设备和二维码标签组件均在客户端，而系统网站在服务端。管片质检人员所录入的相关检查信息记录储存在中央系统的数据库中，所有工作人员可以通过基于其访问权限的中央门户网站访问各自所需的信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照用户需求，我们将系统分为Web端与平板端。Web端系统配置于台式或笔记本式电脑，登录者为系统管理员及相关有权限的用户。平板端系统配置于平板电脑，使用可移动设备可方便质检员、相关负责人携带至生产车间进行数据录入，从而代替原有的纸质报告填写，因此平板端的系统模块内容与原本需要填写的纸质检测报告完全一致。系统结构具有良好的可扩展性和模块化，采用多层组件结构设计，灵活组装系统模块，良好的扩展性有效应对现实和未来的环境变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d36639b6ceacb5f548e66d457346548dfc721d48e15861d250b4a74edafc9f40.jpg",
+        "img_caption": [
+            "图5构架图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 工程应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "某地铁隧道工程，每环管片由一块封顶块、两块邻接块、两块标准块、一块拱底块一共六块管片组成，管片采用通缝拼装。总环数近万环，所用管片数量极大。在此次项目中，我们成功地应用了该系统（系统Web端界面如图6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在系统中，研究以300块管片（50环 $\\times 6$ 块)为样本的生产供应链创建两种模型，一种是未使用系统的“基本模型\"时间统计，一种是使用二维码系统的“二维码模型”的时间统计，从而分析比较两种情况的差异及使用系统后所带来的改变。在研究过程中，被列入模型的活动过程涉及管片生产、养护、堆放、运输、施工的各个环节。根据在生产现场实地观测记录，得出相关结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa3a5999e8c60bdbfb83f4b8b91a3cf36b659b06ba03a2c8241015cb3339f64c.jpg",
+        "table_caption": [
+            "表2各项活动累积时间(单位：h)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>活动</td><td>基本模型</td><td>二维码模型</td></tr><tr><td>标签信息写入</td><td>1. 20</td><td>2.50</td></tr><tr><td>生产现场储存区选择</td><td>5.00</td><td>0</td></tr><tr><td>生产现场管片定位</td><td>2.50</td><td>0.80</td></tr><tr><td>生产现场管片识别</td><td>25.00</td><td>4.50</td></tr><tr><td>生产现场管片扫描</td><td>8.50</td><td>1.50</td></tr><tr><td>扩大查找范围</td><td>55.00</td><td>1. 00</td></tr><tr><td>施工现场扫描读取</td><td>4.50</td><td>1. 20</td></tr><tr><td>施工现场检查</td><td>3.50</td><td>0.5</td></tr><tr><td>给生产厂发送报告</td><td>0.5</td><td>0</td></tr><tr><td>总计</td><td>105.7</td><td>12.0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2可以得出，除标签信息写人环节外，所有与管片的识别、处理、定位等相关活动环节所需的时间，“二维码模型”比“基本模型”都有了显著减少。因为在输入管片相关生产信息时，“二维码模型”写入信息的过程需要花费更长的时间。而在生产现场，当二维码被用于堆场存储时，它所花费的时间从5个小时减少到可以忽略不计。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/addd3e27ca0db7139d840edd8e554b753fd54dd189aa794d5e0cb169b3b7ce91.jpg",
+        "img_caption": [
+            "图6web端系统界面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "原因是，在生产现场，基于二维码的管片生产系统，可以根据管片存储位置和情况自动安排空余堆区给现场工作人员。此外，系统在收集信息后由程序自动分析，出现错误而重新选择堆区的概率大大降低，工作人员可以根据计划立即选择存储区域，在选择每个管片的正确存储位置时没有额外的时间花费。而在“基本模型”中，虽然管片的位置信息也会显示在规划好的纸质平面布置图中，但每个网格中管片的交付日期需要人工检查核对，以确保布局规划的信息正确，耗时的同时不可避免人工记录的数据会出现错误。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "还有一项显著减少的活动时间，是扩大搜索范围的持续时间（即，从 $5 5 \\mathrm { h }$ 减少到1h），节省时间高达 $9 9 \\%$ ，这种减少，一方面是因为在最初的搜索时，管片便已被清晰定位，不需要通过扩展搜索范围，另一方面，在扩展搜索阶段，系统自动定位能力和精确性比派工人去现场查找会大幅提高，从而大大节省时间。还有在管片识别、扫描、运输到施工现场的扫描和检查过程，所消耗的时间也都有不同程度的减少，减少比例基本达到 $70 \\%$ 以上。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a78fd2b2a4845a011f4be16c1d0eae8c25bffadaf6ce3ad58d2ca772d133290.jpg",
+        "table_caption": [
+            "表3对于“基本模型”和“二维码模型”各事件发生的概率（单位： $90$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>事件</td><td>基本模型</td><td>二维码模型</td></tr><tr><td>吊运管片到堆场</td><td>98.0</td><td>100</td></tr><tr><td>正确定位管片（初始查找）</td><td>65.0</td><td>99.5</td></tr><tr><td>扩大查找范围</td><td>97.0</td><td>99.5</td></tr><tr><td>缺失的管片</td><td>0.5</td><td>0.1</td></tr><tr><td>装运错误管片</td><td>2.5</td><td>0.2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3结果显示，“二维码模型”中不正确的装运、识别管片的数量概率显著减少。在堆场中初始搜索时，一次性正确定位管片的概率从 $6 5 \\%$ 增加至$9 9 . 5 \\%$ ，而在管片出厂时，缺失管片的概率从 $0 . 5 \\%$ 降低至 $0 . 1 \\%$ ，以及可能出现的管片装运错误概率也有了大幅度的降低，从 $2 . 5 \\%$ 降至 $0 . 2 \\%$ 。错误的管片被运送到施工现场，由于不符合当前盾构推进要求或是无法正确的拼装，是不能被采用的，这些管片会堆放在施工现场，占用本就十分紧张的施工场地，或可能直接被废弃。此外，错误识别和装运不正确导致的延期交货，施工方停工的时间成本以及额外运输成本的浪费。二维码的使用，有效地杜绝了这些情况的发生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从以上分析可以看出，在选择堆放区域、准确查找管片等过程中，运用该系统显著节省了时间；对避免装运错误，延期交付和额外的运输成本等方面也有极大地改善。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从工程实际使用的效果来看，使用基于二维码的管片生产管理系统的具有如下优势：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)规范管片制造流程，改进管片生产、出厂、运输方式、龄期提醒、库存状态、材料情况等一目了然；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）方便出厂管理，缩短查找管片的时间，同时，管片具有可跟踪性，获取及时的信息和在供应链中完全的物流信息，实现基于时间点的管片库存管理，从而使得基于管片需求的预测更加准确；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)减少了人工操作的错误，节省部分劳动力及时间成本，节约了资金；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］彭世杰.地铁施工中钢筋混凝土管片的生产技术[J].建筑科学，2008（16）：69-70.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)因为管片生产企业提供的数据信息具有集成、管理、更新、维护以及快速检索、调用、传输和分析等特点，实现隧道工程项目从投资策划、勘察设计、施工、运维各阶段基于BIM标准的信息传递和共享，满足工程建设不同阶段对质量管控和工程进度、投资控制的需求。此外，还可对管片生产进度、人力、材料、设备、质量、安全、场地布置等信息进行管理和优化，快速形成生产项目成本计划，高效、准确地进行成本预测、分析等，有效提高成本管控能力，提高管片生产和盾构施工间协调工作，提升建造效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "二维码目前虽只用于管片生产和运输阶段，在施工、运维阶段因纸质二维码标签使用周期很短，不能在隧道全生命周期中运用，开发能够用于每块管片长时间使用、可嵌入的二维码标签，用于施工和运维阶段，从而实现企业管理系统与隧道BIM技术集成应用，实现隧道全生命周期建设。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2］姚彬峰，马小军.BIM和RFID技术在开放式建筑全生命周期信息管理中的应用[J].施工技术，2015，5(10):92-96.  \n［3］谈永泉，杨鼎宜，俞峰等.我国预制混凝土衬砌管片生产技术及标准现状[J].混凝土与水泥制品，2011，2(2):25-34.  \n[4]VacharapoomBenjaoran，Nashwan Dawood.Intelligenceapproach toproductionplanning systemforbespokepre-castconcreteproducts,AutomationinConstruction15(2006)737-745.  \n[5］王铁.信息化技术在混凝土生产企业精细化管理中的应用[J].建筑技术，2012，43（12)：1121-1123.  \n[6］王刚.城市道路盾构隧道全寿命周期信息平台设计[J].城市道桥与防洪，2014，8(8）：196-202.  \n[7]L.Bell,B.Williams.Resourcesand field technologyforsignmanagementsystemimplementation,ProceedingsofConstructionResearch Congress2OO3,ASCE,March 19-21,HeldinHonolulu,Hawaii,2003.  \n[8]R.Navon,O.Berkovich.Development and on-siteevalua-tion of an automated materials management and controlmodel,J.Constr.Eng.Manage.131(12)（2005)1328-1336.  \n[9]T.Shehab,O.Moselhi.Anautomatedbarcodesystemfortrackingandcontrol ofengineeringdeliverables,Proceed-ingofConstruction Research Congress2OO5,April5-7,HeldinSanDiego,CA,2005.  \n[10]G.Saeed,A.Brown,M.Knight,M.Winchester.Deliveryofpedestrianreal-timelocationand routinginformationtomobilearchitecturalguide,Autom.Constr,2O10,19（4）：502-517.  \n[11］樊驿.信息化技术在PC建筑生产过程中的应用[J].住宅科技，2014(6)：68-72.  \n[12]李犁，邓雪原.基于BIM技术的建筑信息平台的构建[J].土木建筑工程信息技术，2012，4（2）：25-29.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Subway Segment Production Management System Design based on 2D Barcode Technology ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SongBozhou1,²,Xiong Cheng²3,Xia Haibing (1.SHU-SUCGResearch Center for Building Industrialization，Shanghai University，Shanghai2Oo72,China； 2.Department of Civil Enginering，Shanghai University，Shanghai 2O0444,China； 3.Shanghai Underground Space Architectural Design& Research Institute，Shanghai 2OoO2O,China； 4.Shanghai Tunnel Engineering&Rail Transit Designand Research Institute，Shanghai2O235,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Currently,in segment production plants factory，managementand quality monitoring information is usuallrecordedwithnotebookintheworkshop,includingthenumberofproduction,inventorystocknumber,materialquantityandqualitymonitoring information.Dataarenottypedintothecomputeruntilback totheoffce.Furthermore,duringproduction，storageandtransportation,thereareproblemslikeaccesstoinformation,datare-entry, tracking，delivery delayanderors,resulting ina wasteof labor andraw materials costs.2Dbarcode is apromising technologythatcanbeeffectivelyusedfordatacollectionand viewingduringstackingandtransportation.Currently,RFIDtechnologyhasachievedalotofresearchfruits,butmeanwhileencounteredmanyproblems inpracticalapplications，andasaresult,itcan’trealizelarge-scalepromotion inthesegmentproduction.This paper studies testedtwo-dimensionalcodeand proposessegment production management system basedontwo-dimensional code technology. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Segment；2DBarcode；Production Management；System ",
+        "page_idx": 6
+    }
+]

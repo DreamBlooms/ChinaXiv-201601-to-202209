@@ -1,0 +1,248 @@
+[
+    {
+        "type": "text",
+        "text": "牛奶中兽药残留检测技术的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜兵耀1,2.3.4王加启 1,3.4文芳 $^ { 1 , 3 , 4 ^ { * } }$ 郑楠1,3,4 张养东1,3.4李国栋1,3.4郭晓东 1,3,4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国农业科学院北京畜牧兽医研究所，农业部奶产品质量安全风险评估实验室（北京)，北京100193；2.新疆农业大学动物科学学院，乌鲁木齐 830052；3.农业部奶及奶制品质量监督检验测试中心（北京)，北京100193；4.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来，牛奶质量安全问题频发，已严重威胁到公共健康。因此，牛奶质量安全成为国际关注的重点。当牛奶中残留兽药时，会对消费者造成不良的影响。本文从牛奶中兽药检测技术的原理和优缺点出发，对牛奶中兽药残留的检测技术进行了较全面的综述，并对牛奶中兽药残留检测技术在未来的发展方向作了展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：兽药残留；牛奶；微生物检测；仪器分析；免疫分析；适配体传感器中图分类号：TS252.1 文献标志码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在动物的生产过程中，往往会使用兽药来进行疾病治疗和提高生产性能。随着兽药使用量的增加，会导致药物在动物源性食品如牛奶、肌肉、肝脏中的残留，进而影响食品质量安全，对消费者产生不良的副作用，如过敏反应、产生耐药性、毒性反应[1-2]。由于兽药的广泛应用，引起的兽药残留在动物源性食品中广泛存在，各个国家已经设立了动物源性食品的最大残留限量，用来保护消费者的身体健康。鉴于兽药残留对机体造成的危害，需要对兽药的残留进行准确的检测[3-7]。随着科技的发展，各种技术已经被广泛的应用于兽药残留的检测。然而，在动物源性食品中兽药残留的检测和量化存在以下几个难点：不同性质的兽药同时测定较为复杂；兽药残留的浓度可能会很低；自然状态下基质很复杂。因此，需要采用适当的分析方法对动物源性食品中兽药残留进行检测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛奶是人类饮食中蛋白质的重要来源，具有高蛋白质和高脂肪含量，但是牛奶基质复杂，能够结合分析物和干扰分析物浸出液8。从分析的角度来看，即使是少量的脂肪也可以恶化分析柱和污染分析系统，因此测定牛奶中残留微量水平的兽药时，样品前处理要有效的分离蛋白质和脂肪，才能实现对牛奶中残留兽药进行准确的定量检测。牛奶中残留的兽药主要有4类，即磺胺类、四环素类、大环内酯类和氨基糖苷类。针对牛奶中存在兽药残留的现状，我国和欧盟均设置了牛奶中兽药的最大残留限量，如表",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1所示。政府机构和乳品企业非常重视对牛奶中兽药残留进行准确的检测，因此，需要建立快速、简单、经济、高效的方法检测牛奶中存在的兽药，用来确保消费者的安全。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1兽药在牛奶中的最高残留限量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table1MRLs of veterinary drugs in milk μg/kg ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "药物名 Name of drugs 中国农业部 Ministry of 欧盟 Europeanagriculture for China[9] Union[10]  \n链霉素 Streptomycin 200 200  \n双氢链霉素 200 200  \nDihydrostreptomycin  \n林可霉素Lincomycin 150 150  \n磺胺类Sulfonamides 100 100  \n恩诺沙星 Enrofloxacin 100 100  \nbase  \n四环素Tetracycline 100 100  \n土霉素 Oxytetracycline 100 100  \n金霉素Chlortetracycline 100 100  \n氟甲喹 Flumequine 50 50  \n红霉素 Erythromycin 40 40  \n达氟沙星Danofloxacin 30 30  \n阿莫西林 Amoxicillin 10 4  \n氨苄西林 Ampicillin 10 4  \n氯霉素Chloramphenicol 不得检出 禁用  \n呋喃它酮 Furaltadone 不得检出 禁用  \n呋喃唑酮 Furazolidone 不得检出 禁用",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前我国针对牛奶中兽药残留的检测设置了相关的标准：1）高效液相色谱法检测牛奶中残留喹诺酮类药物[11；2）液相色谱-质谱/质谱法检测动物源性食品中残留的青霉素族抗生素[12]；3）液相色谱-质谱/质谱法检测动物源性食品中残留的磺胺类药物[13]；4）液相色谱-质谱/质谱法与高效液相色谱法检测动物源性食品中残留的四环素类兽药[14]；5）液相色谱-串联质谱法检测牛奶和奶粉中残留的硝基呋喃类药物[15]等。这些标准中兽药残留的检测方法虽然多，但是需要专业的操作人员和昂贵的仪器设备。近年来，一些高技术含量的检测方法也相继被开发出来，被广泛的应用于牛奶中兽药残留的检测。本文主要介绍几种兽药残留检测方面的相关技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1微生物检测法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微生物检测法是基于兽药对微生物的抑制作用，测定原理是利用兽药对微生物的生理机能和代谢的抑制作用来确定样品中的兽药残留，结果通过测量抑菌圈的大小进行衡量。微生物检测法简单快速，成本低，不需要通过化学的方法，不需要复杂的仪器，可以检测出广谱的抗菌药物，但是劳动强度大，只能定性的测量，并且该方法灵敏度和特异性有待进一步提高[16-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Appicciafuoco 等[18]报道了1个基于大肠杆菌的生长抑制试验的生物光学方法检测牛奶中喹诺酮类药物的残留，样品采用空白和加标的牛奶，在培养基中接种10000CFU/mL的大肠杆菌，若喹诺酮药物存在时，抑制培养基中大肠杆菌的生长。该方法中环丙沙星和恩诺沙星的检出限为 $1 0 0 \\mu \\mathrm { g / L }$ ，但该检测方法不能检测出牛奶中低浓度药物的残留，灵敏度有待于进一步的提高。Stead 等[19]利用戴尔沃检测法检测牛奶中的青霉素、氨苄西林、阿莫西林、头孢菌素、头孢噻呋、氯唑西林、磺胺嘧啶、土霉素、新霉素、红霉素10 种兽药残留，检测结果符合欧盟的最大残留限量的要求；样品的终端测量视觉系统通过戴尔沃扫描系统，戴尔沃可视化系统可以有效地区分基质对残留兽药的影响；另外，该方法还适用于检测牛奶中的脂肪含量和体细胞数。氯霉素是一种价格低廉、广谱高效的兽药，被广泛的应用于临床的治疗和疾病的预防。然而，对人类来说，氯霉素可能会造成不利影响，如造成再生障碍性贫血。Samsonova 等[20]建立了用于检测不同类型食品（牛奶、肉、蛋）中的兽药(氯霉素、甲砜霉素、氟甲砜霉素)残留的方法，该方法筛选了如微生物抑制法、基于抗体的免疫法、生物传感器检测法，并对这些方法的优缺点进行了讨论和比较，对兽医残留检测方法当前的状态和未来的发展趋势进行了分析。Kumar 等[21利用微生物检测法对牛奶中芽孢杆菌的萌芽孢子和休眠孢子进行检测，通过残留的兽药抑制孢子的萌芽过程来监测牛奶中的兽药残留情况，在 $6 4 ^ { \\circ } \\mathrm { C }$ 的条件下孵育 $2 { \\sim } 3 \\mathrm { h }$ ，可以激活孢子到萌芽状态，颜色从紫色变化为黄色作为检测牛奶中兽药残留的标准。该试验通过对 228个样品进行检测，发现兽药的残留水平为 $1 0 . 0 8 \\%$ ，假阳性率为 $0 . 4 3 \\%$ 。该研究结果表明该方法可以应用于奶制品企业，用于检测牛奶中兽药的残留，然而只能半定量的检测，存在灵敏度低和选择性差等缺点。许多法规禁止在饲料中使用兽药，以保护消费者和动物的健康。Bohn 等[16]开发了一种简单、成本低的方法用于检测饲料中的兽药残留，并验证了14 种代表性药物，其中环丙沙星的检出限为 $1 0 ~ \\mu \\varrho / \\mathrm { L }$ ，氯苯胍的检出限为$1 0 \\mathrm { m g / L }$ ，但是该检测方法存在一定的假阴性，需要进一步的改进。Yamaki 等[22]使用微生物检测法对西班牙的1个牧场生产过程中羊奶中残留的兽药进行了分析，通过检测发现样品的阳性率为 $2 . 6 \\%$ ，阳性样品中大约 $2 5 \\%$ 为 $\\beta$ -内酰胺类兽药，阳性样品 $8 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 加热 $1 0 \\ \\mathrm { m i n }$ 后阳性率降低了 $0 . 9 \\%$ ，并且9和10月份阳性率最高，但是该方法存在一定的假阳性，且灵敏度有待提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "）八苎汁 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫分析法是以抗体与抗原的特异性结合反应为基础的分析方法。由于抗原与抗体的结合具有高度  \n的敏感性和特异性，并且抗原（抗体）的量与其反应强度呈明显的函数关系，可以对样品进行定性或定  \n量分析。利用该原理建立的一系列灵敏、高效的免疫分析方法被广泛的应用于牛奶中兽药残留的检测  \n[23]。头孢噻呋是强效的兽药，常在泌乳期用于治疗牛的肺炎，使用不当会造成在牛奶中残留。Stanker",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等[24开发出基于单克隆抗体的竞争酶联免疫检测法，应用酶联免疫法检测牛奶中残留的头孢噻呋及其代谢物，操作简单，且样品只需要进行稀释就可以进行检测，检出限达到 $1 ~ \\mu \\varrho / \\mathrm { L }$ ，回收率在 $8 0 . 8 \\% \\sim$ 116.8%。Zhi 等[25]采用免疫分析法检测牛奶中的头孢菌素，回收率到达 $7 4 \\% \\sim 1 2 0 \\%$ ，检出限达到 $1 \\mu \\mathrm { g / L }$ 可以快速准确地检测牛奶中的头孢菌素。Pennacchio 等[26]利用新型的免疫传感器方法检测牛奶中的青霉素G，首先将牛血清蛋白（BSA）溶解在碳酸盐缓冲液中，加入青霉素G进行共轭，形成青霉素G-BSA的复合物，免疫家兔获得免疫球蛋白G（IgG）抗体。该方法可以直接地应用于检测牛奶中青霉素G的残留，而不受其他物质的干扰，检测限达到 $0 . 3 5 6 \\mu \\mathrm { g / L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "克林沙星常用于治疗动物的疾病，但其残留在奶制品中会对人体的健康造成危害，导致产生细菌的耐药性或者过敏反应。Chen 等[27]利用荧光示踪剂建立了荧光偏振免疫分析法，通过合成异硫氰酸荧光素标记的兽药，在黑暗条件下混匀，示踪剂与抗体结合，然后测量加入不同浓度的药物与示踪剂竞争结合抗体后的荧光偏振值，进而高灵敏度检测奶制品中克林沙星的残留，该方法的回收率为 $8 6 . 8 \\% \\sim$ $1 0 4 . 5 \\%$ ，相对标准偏差为 $4 . 1 \\% \\sim 7 . 2 \\%$ ，其中依诺沙星的检出限达到 $3 . 3 ~ \\mu \\mathrm { g / L }$ 。Gao 等[28]通过合成单克隆抗体测定牛奶中的四环素类兽药残留，分别用强力霉素和金霉素的免疫原免疫小鼠来合成单克隆抗体，获得的抗体和包被的抗原进行混合，通过筛选获得抗体和抗原的最佳组合，从而建立可以同时检测7 种四环素类药物的酶联免疫技术，该方法的回收率在 $7 5 . 3 \\% \\sim 1 0 6 . 8 \\%$ ，检出限的范围在 $1 . 5 { \\sim } 6 . 9 \\ \\mu \\mathrm { g } / \\mathrm { L } .$ 但该方法可能存在各种干扰试验的因素，如果没有精确的方法和质量控制标准，容易出现假阳性，也可能发生交叉效应，有待于进一步完善。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3仪器分析法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仪器分析法是通过兽药分子中的基团具有的特殊性质或者反应来测定其含量，如气相色谱法、高效液相色谱法等，其中高效液相色谱仪结合紫外检测器、质谱检测器被广泛地应用于牛奶中兽药残留的分析。在前处理步骤中利用蛋白质沉淀、萃取等使牛奶中的兽药分离。Samanidou 等[29]利用高效液相色谱法与二极管阵列结合检测牛奶中的四环素类兽药，用草酸盐缓冲液加入 $20 \\%$ 的三氯乙酸蛋白质洗脱剂，通过固相萃取柱提取牛奶中分析物，进行上机检测，该方法的加标回收率在 $9 3 . 8 \\% \\sim 1 0 7 . 2 \\%$ ，相对标准偏差低于 $8 . 5 \\%$ 。Yu 等[30]开发了一种简单、快速、灵敏、成本低的检测技术，即利用C18 搅拌棒吸附萃取技术结合高效液相色谱-串联质谱用来测定牛奶中的6种磺胺类药物。C18二氧化硅粒子包覆的搅拌棒制备简单，具有好的机械强度，可以重复使用 20次以上。颗粒涂层表面积增大，对萃取过程极为有利，靶标亲和力强，通过对萃取时间、离子强度、样品的pH 和搅拌速度进行优化，6种磺胺类药物的检出限达到 $0 . 9 { \\sim } 1 0 . 5 ~ \\mu \\mathrm { g } / \\mathrm { L }$ ，可以应用于牛奶和奶粉中磺胺类药物的检测。Arroyo-Manzanare 等[311分别采用分散液相微萃取和QuEChERS 前处理方法来检测牛奶中的9种磺胺类药物。使用这2种前处理方法用来代替固相萃取，简单易行，减少了有机溶剂的使用量。分散液相微萃取和QuEChERS（quick,easy,cheap,effective,rugged and safe）前处理方法的回收率分别在 $9 0 . 8 \\% \\sim 1 0 4 . 7 \\%$ 和 $8 3 . 6 \\% \\sim 1 0 4 . 8 \\%$ ，检出限分别为1.21和 $2 . 7 3 \\ \\mu \\mathrm { g } / \\mathrm { L } \\circ \\ \\beta .$ 内酰胺类兽药在牛奶中的残留会对人体的健康造成不良的影响。Camara 等[32]描述了1个灵敏可靠的检测方法，利用高效液相色谱结合紫外二极管阵列检测器同时检测多种 ${ \\mathfrak { \\beta } }$ 内酰胺类兽药，通过对色谱柱、流动相、温度和流速进行优化，回收率达到 $7 9 \\% \\sim 9 6 \\%$ ，相对标准偏差在$0 . 5 \\% \\sim 4 . 9 \\%$ ，检出限达到 $3 . 4 { \\sim } 8 . 6 ~ \\mu \\mathrm { g / L }$ ，满足国家最低残留限量的要求。Adlnasab 等[331利用分散液-液固相萃取法检测牛奶中 $\\beta$ -内酰胺类兽药的残留，通过前处理和条件的优化后上机检测，相对标准偏差在 $4 . 3 \\% \\sim 8 . 5 \\%$ ，检出限达到 $5 0 { \\sim } 5 0 0 ~ \\mu \\mathrm { g / L }$ 。Wang 等[34]开发了1种空气辅助-液液微萃取的前处理方式结合高效液相色谱检测奶粉和鸡蛋中的喹诺酮类药物残留的方法，该方法对影响萃取效果的参数萃取溶剂的类型、离心时间、 $\\mathsf { p H }$ 等进行了优化，变异系数小于 $8 \\%$ ，回收率达到 $7 2 \\% \\sim 1 1 5 \\%$ ，检出限最低达到 ${ 5 \\mu \\mathrm { g / L } }$ ，该方法使用有机溶剂少、离心时间短、快速、简单。Lombardo-Agui等[35]利用毛细管液相色谱法结合激光诱导荧光检测法测定牛奶中7种兽药的残留，并且采用了QuEChERS 和分子印迹聚合物2 种萃取前处理方式，结果发现QuEChERS 前处理方式更快，回收率更高，检出限更低，其中达氟沙星的检出限达到 $0 . 4 ~ \\mu \\mathrm { g / k g }$ 。 $\\mathrm { \\Delta X u }$ 等[36]利用固相萃取技术结合超高效液相色谱串联质谱法检测牛奶中四环素类兽药的残留，在优化试验条件后，对于四环素类兽药检测的回收率达到 $8 1 . 5 \\% \\sim 1 0 1 . 4 \\%$ ，检出限达到 $0 . 6 1 { \\sim } 1 0 . 3 4 ~ \\mu \\mathrm { g / k g }$ 。Lv 等[37]开发了1种快速、灵敏、特异性好的方法用于检测牛奶中的四环素类兽药，样品通过分子印迹固相萃取技术结合反向高效液相色谱进行上机检测，以四环素类为模板，功能单体为甲基丙烯酸，无机前驱体为四乙氧基硅烷，偶联剂为甲基丙烯酰氧丙基三甲氧基硅烷，合成了分子印迹有机-无机复合材料，建立了在线固相萃取结合高效液相色谱检测四环素类兽药的新方法，回收率达到 $8 5 . 3 \\% { \\sim } 9 8 . 3 \\%$ ，检出限达到 $0 . 7 6 \\mu \\mathrm { g / k g }$ 。Santos 等[38利用毛细管电泳法检测牛奶中的6种兽药，并与高效液相色谱法进行对比，其中高效液相色谱法不能区分阿莫西林，检出限范围在 $0 . 4 8 { \\sim } 1 . 0 9 \\mathrm { m g / L }$ 相对标准偏差 $45 \\%$ 。该方法简单，容易使用，耗时短，检测限低，操作简便，而且灵敏度高，测量范围广，但是该方法对样品前处理要求高，设备昂贵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4适配体传感器检测法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "核酸适配体的概念最早由 Elington 等[39]和 Tuerk 等[40]在1990 年提出。核酸适配体在整个检测系统中作为信号识别单元，在结构设计上灵活多变，与靶标作用后其结构会发生改变或重构，是实现信号转导的良好选择，可以用于检测多种目标物，包括兽药、蛋白质、细胞、霉菌毒素、重金属等[41-421，适配体结构稳定，可以体外合成，不受自然和物理条件的限制，从而受到研究者们广泛的关注，因此，核酸适配体检测技术成为食品中兽药快速检测的新方法[43]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当前的高效液相色谱法费时，需要受过专业的技术人员，且不容易携带。Sun 等[44I开发了1种基于石墨烯-纳米金离子、多壁碳-酞菁钴和壳聚糖-纳米金离子复合材料之间协同效应的适配体传感器，电极修饰过程的电化学性能通过循环伏安法进行表征，纳米复合材料的形貌通过扫描电子显微镜表征，在最佳条件下，该适配体传感器具有高灵敏度、高特异性、低检出限等特点，用于牛奶中卡那霉素的检测，检出限达到 $3 . 3 7 \\mu \\mathrm { g / L }$ 。Zhou 等[45]建立了电化学适配体传感器检测卡那霉素的方法，适配体通过巯基连接到金电极表面，卡那霉素和卡那霉素适配体特异性的结合后，发生空间构象的变化，引起金电极表面的覆盖率增加，造成电子传递被阻碍，通过差分脉冲伏安法在探针溶液中进行表征，卡那霉素的浓度变化通过峰电流值的变化进行表征。该方法的特异性好、灵敏度高，检出限达到 $8 . 1 5 \\ \\mathrm { n g / L }$ 。Guo 等[46]首先将四环素的适配体通过纳米金离子修饰在电极表面，然后把亚甲基蓝修饰到电极表面，当加入四环素后，四环素与亚甲基蓝竞争结合适配体，由于四环素与适配体的亲和力强于亚甲基蓝，使亚甲基蓝释放，造成电流值的减小，通过电流的变化表征四环素的浓度。该方法选择性好、灵敏度高，用于牛奶中四环素的检测，回收率为 $9 4 \\% \\sim 1 0 8 \\%$ ，检出限到达 $1 . 8 6 ~ \\mathrm { { n g / L } }$ 。智文婷[47]开发了用于检测四环素的比色适配体传感器，适配体与四环素结合后，纳米金离子失去适配体的保护，高浓度的氯化钠溶液促使纳米金离子的间距缩小，引起纳米金溶液颜色发生变化。该方法检出限达到 $7 . 8 ~ \\mu \\mathrm { g / L }$ 。Xu 等[48]开发了1种基于辣根过氧化物酶和氧化石墨烯-聚苯胺的信号放大策略构建的适配体传感器，氧化石墨烯-聚苯胺膜修饰到电极上，同时加入辣根过氧化物酶修饰的土霉素适配体和土霉素到电极表面，土霉素和适配体结合导致电极上的辣根过氧化物酶减少，引起电化学信号降低，利用电化学信号的变化来表征土霉素的浓度。该方法选择性好、灵敏度高，检出限达到 $2 . 3 { \\times } 1 0 ^ { - 6 } \\mathrm { m g / L }$ 。虽然该方法灵敏度高、选择性好、检测成本低，但是也存在重复性差等问题，需要进一步的完善。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着科学技术的日益提高，兽药残留的检测技术也在逐步的提高。在牛奶质量安全的检测分析中，作为目前较为常用的微生物检测法、仪器分析法、免疫分析法的灵敏度有了显著的提高，适配体传感器检测法也在逐步的改进，相比较于传统的检测方法，适配体传感器检测法由于灵敏度高、特异性强、体积小、操作简单、成本低等诸多优势受到科研工作者的广泛关注，但是也存在一些问题，需要科研工作者逐步的完善。总之，我们相信在牛奶中兽药残留检测领域，将会涌现出更多全新的灵敏度高、适用性强、简便快捷的检测分析方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]ZHANG D,PARK Z Y,PARK J A,et al.A combined liquid chromatography-triple-quadrupole mass spectrometry method for the residual detection of veterinary drugs in porcine muscle,milk,and eggs[J].Environmental Monitoring and Assessment,2O16,188:348. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2]潘明飞,王俊平,方国臻,等.食品中农兽药残留检测新技术研究进展[J].食品科学,2014,35(15):277-282.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "」王加启,郑楠,许晓敏,等.牛奶质量安全主要风险因子分析I.总述[J].中国畜牧兽医,2012,39(2):1-5.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]DA COSTA R P,SPISSO B F,PEREIRA M U,et al.Innovative mixture of saltsinthequick,easy,cheap,effective,rugged,and safe method for the extraction of residual macrolides in milkfollowed by analysis with liquid chromatography and tandem masspectrometry[J].Journal of SeparationScience,2015,38(21):3743-3749.  \n[5]SONG J S,PARK S J,CHOI J Y,et al.Development of analytical method and monitoring of veterinarydrug residuesin Korean animal products[J].Korean Journal for Food Science of AnimalResources,2016,36(3):319-325.  \n[6]STOILOVA N A,SURLEVA A R,STOEV G.Simultaneous determination of nine quinolones in food byliquid chromatography with fluorescence detection[J].Food Analytical Methods,2013,6(3):803-813.  \n[7]VRAGOVIC N,BAZULIC D,JAKUPOVIC E,et al.Dietary exposure assessment of streptomycin andtetracycline in food of animal origin on the Croatian market[J].Food Additives and Contaminants:PartB,2012,5(4):236-240.  \n[8]MARTINS M T,BARRETO F,HOFF R B,et al.Multiclassand multi-residue determination of antibioticsin bovine milk by liquid chromatography-tandem mass spectrometry:combining efficiency of milkcontrol and simplicity of routine analysis[J].International Dairy Journal,2O16,59:44-51.  \n[9]动物性食品中兽药最高残留限量:中华人民共和国农业部公告第 235 号[R].[S.1.]:[s.n.],2002.  \n[10]European Union.Commission regulation.No 37/2010[S].[S.1.]:[s.n.],2010.  \n[11]农业部,卫生和计划生育委员会.GB 29692-2013 牛奶中喹诺酮类药物多残留的测定 高效液相色  \n谱法[S].北京:中国标准出版社,2014.  \n[12]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 21315—2007 动  \n物源性食品中青霉素族抗生素残留量检测方法液相色谱-质谱/质谱法[S].北京:中国标准出版社,2008.  \n[13]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 21316—2007 动  \n物源性食品中磺胺类药物残留量的测定高效液相色谱-质谱/质谱法[S].北京:中国标准出版社,2008.  \n[14]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 21317—2007 动物源性食品中四环素类兽药残留量检测方法液相色谱-质谱/质谱法与高效液相色谱法[S].北京:中",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国标准出版社,2008.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 22987—2008 牛奶和奶粉中呋喃它酮、呋喃西林、呋喃妥因和呋喃唑酮代谢物残留量的测定 液相色谱-串联质谱法[S].北京:中国标准出版社,2009.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]BOHN T,PELLET T,BOSCHER A,et al.Developing a microbiological growth inhibition screening assay for the detection of 27 veterinary drugs from 13 different classes in animal feedingstuffs[J].Food Additives & Contaminants:Part A,2013,30(11):1870-1887.   \n[17]CALIXTO G,DOMINGOS L,FABRI N,et al.Microbiological assay for the determination of colistin sulphate[J].Current Analytical Chemistry,2014,10:443-448.   \n[18]APPICCIAFUOCO B,DRAGONE R,FRAZZOLI C,et al.Microbial screening for quinolones residues in cowmilkbybio-opticalmethod[J].JournalofPharmaceuticalandBiomedical Analysis,2015,106:179-185.   \n[19]STEAD S L,ASHWIN H,RICHMOND S F,et al.Evaluation and validation according to international standards of the Delvotest? SP-NT screening assay for antimicrobial drugs in milk[J].International Dairy Journal,2008,18(1):3-11.   \n[20]SAMSONOVA J V,CANNAVAN A,ELLIOTT C T.A critical review of screening methods for the detection of chloramphenicol,thiamphenicol,and florfenicol residues in foodstufs[J].Critical Reviews in Analytical Chemistry,2012,42(1):50-78.   \n[21]KUMAR N,RAGHU H V,KUMAR A,et al.Spore germination based assay for monitoring antibiotic residuesinmilkatdairyfarm[J].World JournalofMicrobiology and Biotechnology,2012,28(7):2559-2566.   \n[22] YAMAKI M,BERRUGA M I,ALTHAUS R L,et al.Screening of antibiotic residues in ewes’ milk destined to cheese by a commercial microbiological inhibition assaylJ].Food Additivesand Contaminants,2006,23(7):660-667.   \n[23]杜兵耀,臧长江,马晨,等.免疫学技术在牛奶检测中应用的研究进展[J]).中国畜牧兽 医,2016,43(2):457-461.   \n[24]STANKER L H,BUCKLEY S,MULDOON M,et al.A monoclonal antibody-based immunoassay for the detection of ceftiofur in milk[J].Food and Agricultural Immunology,1998,1O(2):121-131.   \n[25]ZHI Z L,MEYER U J,VAN DEN BEDEM J W,et al.Evaluation of an automated and integrated ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "flow-through immunoanalysis system for the rapid determination of cephalexin in raw milk[J].Analytica Chimica Acta,2001,442(2):207-219. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PENNACCHIO A,VARRIALE A,SCALA A,et al.A novel fluorescence polarization assay for ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "determination of penicillin G in milk[J].Food Chemistry,2016,190:381-385.   \n[27]CHEN J H,SHANIN I A,LV S W,et al.Heterologous strategy enhancing the sensitivity of the fluorescence polarization immunoassay of clinafloxacin in goat milk[J].Journal of the Science of Food and Agriculture,2016,96(4):1341-1346.   \n[28]GAO F,ZHAO G X,HUI C,et al.Production of monoclonal antibody against doxycycline for immunoassay of seven tetracyclines in bovine muscle and milk[J].Journal of Environmental Science and Health.Part B,2013,48(2):92-100.   \n[29]SAMANIDOU VF,NIKOLAIDOU K I,PAPADOYANNIS I N.Development and validation of an HPLC confirmatory method for the determination of seven tetracycline antibiotics residues in milk according to the European Union Decision 2002/657/EC[J].Journal of Separation Science,2007,30(15):2430-2439.   \n[30]YU C H,HU ${ \\bf B } . { \\bf C } _ { 1 8 } .$ coated stir bar sorptive extraction combined with high performance liquid chromatography-electrospray tandem mass spectrometry for the analysis of sulfonamides in milk and milk powder[J].Talanta,2012,90:77-84.   \n[31]ARROYO-MANZANARE N,GAMIZ-GRACIA L,GARCIA-CAMPANA A M.Alternative sample treatments for the determination of sulfonamides in milk by HPLC with fluorescence detection[J].Food Chemistry,2014,143:459-464.   \n[32]CAMARA M,GALLEGO-PICO A,GARCINUNO R M,et al.An HPLC-DAD method for the simultaneousdeterminationofnine （2 $\\beta$ -lactam antibiotics in ewe milk[J].Food Chemistry,2013,141(2):829-834.   \n[33] ADLNASABL,EBRAHIMZADEH H,YAMINI Y.A threephasedispersive liquid-liquid microextractiontechnique for the extraction ofantibioticsinmilk[J].Microchimica Acta,2012,179(1):179-184.   \n[34]WANG L,HUANG T,CAO H X,et al.Application of air-asssted liquid-liquid microextraction for determination of some fluoroquinolones in milk powder and egg samples:comparison with conventional dispersive liquid-liquid microextraction[J].Food Analytical Methods,2016,9(8):2223-2230.   \n[35]LOMBARDO-AGUI M,LOMBARDO-AGUI L,CRUCES-BLANCO C,et al.Comparison of diferent ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "sample treatments for the analysis of quinolones in milk by capillary-liquid chromatography with laser induced fluorescence detection[J].Journal of Chromatography A,2011,1218(30):4966-4971. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[36]XU J J,AN M R,RUI Y,et al.Determination of tetracycline antibiotic residues in honey and milk by miniaturized solid phase extraction using chitosan-modified graphitized multiwalled carbon nanotubes[J].Journal of Agricultural and Food Chemistry,2016,64(12):2647-2654. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[37]LV Y K,ZHANG J Q,GUO Z Y,et al.Determination of tetracyclines residues in egg,milk,and milk powder by online coupling of a precolumn packed with molecular imprinted hybrid composite materials to RP-HPLC-UV[J].Journal of Liquid Chromatography & Related Technologies,2015,38(1):1-7.   \n[38]SANTOS S,HENRIQUES M,DUARTE A,et al.Development and application of a capillary electrophoresis based method for the simultaneous screening of six antibiotics in spiked milk samples[J].Talanta,2007,71(2):731-737.   \n[39] ELLINGTON A D,SZOSTAK J W.In vitro selection of RNA molecules that bind specific ligands[J].Nature,1990,346(6287):818-822.   \n[40]TUERK C,GOLD L.Systematic evolution of ligands by exponential enrichment:RNA ligands to bacteriophage T4 DNA polymerase[J].Science,1990,249(4968):505-510.   \n[41]FENG C J,DAI S,WANG L.Optical aptasensors for quantitative detection of small biomolecules:a review[J].Biosensors and Bioelectronics,2014,59:64-74.   \n[42]BAO T,SHU H W,WEN W,et al.A sensitive electrochemical aptasensor for ATP detection based on exonuclease II-assisted signal amplification strategy[J].Analytica Chimica Acta,2015,862:64-69.   \n[43]TANG D P,LIU B Q.NIESSNER R,et al.Target-induced displacement reaction accompanying cargo release from magnetic mesoporous silica nanocontainers for fluorescence immunoassay[J].Analytical Chemistry,2013,85(21):10589-10596.   \n[44]SUN X,LI F L,SHEN G H,et al.Aptasensor based on the synergistic contributions of chitosan-gold nanoparticles,graphene-gold nanoparticles and multi-walled carbon nanotubes-cobalt phthalocyanine nanocomposites for kanamycin detection[J].Analyst,2014,139:299-308.   \n[45]ZHOU N D,LUO J B,ZHANG J,et al.A label-free electrochemical aptasensor for the detection of kanamycin in milk[J].Analytical Methods,2015,7(5):1991-1996.   \n[46]GUO Y M,WANG X Y,SUN X,et al.A label-free electrochemical aptasensor based on electrodeposited goldnanoparticlesand methylene blue for tetracycline detection[J].International Journal of ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[47]智文婷.基于核酸探针检测四环素和卡那霉素的应用研究[D].硕士学位论文.扬州:扬州大学,2013:17-32.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[48]XU W,LIU S,YU J H,et al.An ultrasensitive HRP labeled competitive aptasensor for oxytetracycline detection based on grapheme oxide-polyaniline compositesas the signal amplifiers[J].RSC Advances,2014,4(20):10273-10279. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Advances in Detection Techniques of Veterinary Drug Residues in Milk ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DU Bingyao1.2.3.4WANG Jiaqi1.3.4WEN Fang1.3.4\\*ZHENG Nan1.3.4ZHANG Yangdong1.3.4LI Guodong1.3.4GUO Xiaodong1,3,4 (1. Laboratory of Quality & Safety Risk Assessment for Dairy Products (Beijing),Ministry of Agriculture, Institute ofAnimal Sciences, Chinese Academy ofAgricultural Sciences,Beijing 100193, China; 2. Collge of Animal Science, Xinjiang Agricultural University, Urumqi 830052, China; 3. Milk and Dairy Product Inspection Center (Beijing), Ministry ofAgriculture, Beijing 100193, China; 4.State Key Laboratory of Animal Nutrition, Institute ofAnimal Sciences, Chinese Academy of Agricultural Sciences,Beijing 100193, China) Abstract: In recent years,milk quality and safety events have ocurred frequently，which imposes serious hazards to public health. Milk quality and safety thus plays an important role for international attention. Once present in milk,veterinary drugs pose a hazard to humans who consume them. In this paper, the principles, advantages and disadvantages of various analytical techniques for the detection of veterinary drug residues in milk were summarized,and the development trend of detection techniques of veterinary drug residues in the future was predicted. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: veterinary drug residues; milk; microbiology detection; instrumental analysis; immunoassays; aptasensors ",
+        "page_idx": 10
+    }
+]

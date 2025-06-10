@@ -1,0 +1,273 @@
+# 太阳爆发抵近探测器的热防护设计方案研究
+
+黄善杰’，种晓宇²，林隽¹，金振宇¹，许方宇1(1中国科学院云南天文台，云南 昆明650216）(2昆明理工大学,云南 昆明650093）
+
+摘要：中国科学院云南天文台首次提出了太阳爆发过程及相应磁场结构抵近探测的科学项目，该项目将对太阳大气及其发生在其中的剧烈活动进行前所未有的近距离测量。项目研制的探测器近日区域运行的时间将超过帕克太阳探测器（Parker SolarProbe，简称PSP）和Solar 0rbiter太阳探测器，其热防护系统遇到的困难也远超后两者。本文首先分析了抵近探测器的轨道环境特点，提出了热防护的设计思路，然后给出了具体热防护系统设计、仿真和地面实验方案。初步研究显示，热防护系统的设计方案具有辐射散热好、耐高温、稳定可靠性高等优点。
+
+关键词：抵近探测器；热防护；辐射制冷；涂层中图分类号：P171 文献识别码：A
+
+# 0引言
+
+地球生物几乎所有的活动都依赖来自太阳的能量，太阳上的任何活动与变化，都在以各种各样的方式影响着人类生活与周边环境的安全。随着无线通信、卫星导航、互联网等现代高科技系统的广泛应用，太阳耀斑、日冕物质抛射（coronal mass ejection,简称 CME)等太阳爆发产生的带电粒子对人类生活的影响越发明显,类似“卡灵顿事件”、“1989 魁北克事件”等强太阳活动事件会严重影响现代人类生活乃至生存质量。太阳是唯一一颗人类可以近距离探测研究的恒星，为应对强烈太阳活动未来对人类的潜在影响，需要对太阳活动规律进行越来越严密监测研究并提前预警。
+
+2018年8月12日，PSP在Florida Caraveral肯尼迪航天中心发射升空，将穿过太阳的大气层，探索观测太阳抵近探测器从未探测过的区域，对太阳日冕和太阳风的起源和动力学特征进行接触式探测。PSP利用金星的引力多次助推来靠近太阳，24个椭圆轨道中，近日点逐渐接近太阳，但在距离日心小于10倍太阳半径的近日区域内仅停留 20小时左右，由于时间较短，很难对近乎随机发生的太阳爆发现象进行准确探测[1]。
+
+随着欧洲的SolarOrbiter项目和俄罗斯的“内太阳探测”项目等近距离探测太阳项目的执行，人类对太阳的探测将掀起一个新高潮。中国科学院云南天文台首席科学家林隽研究员首次提出了太阳爆发过程及相应磁场结构的抵近探测项目，该项目将对一颗恒星的大气以及发生在其中的剧烈活进行前所未有的近距离测量。该项目提出的中国太阳爆发抵近探测器（简称为抵近探测器）将在距离日心小于10倍太阳半径区域内绕日长期运行。抵近探测器热防护系统用于保护探测器的仪器设备免受超强太阳辐射加热、太阳风和星际尘埃侵袭和宇宙冷黑辐射致冷等的影响，是确保探测器任务成功的关键。与 PSP不同，太阳爆发抵近探测器有长达数年的运行期间内日心距都将小于10个太阳半径，其热防护系统遇到的困难和挑战远超前者，是目前深空探测领域中的研究空白。
+
+# 1太阳爆发抵近探测器的轨道环境
+
+长时间、近距离探测太阳活动，需要太阳探测器长期处于近日轨道上。中国太阳爆发抵近探测器目前计划采用绕日近圆形轨道，距离日心 $5 \sim 1 0$ 个太阳半径,轨道倾角$1 0 { \sim } 2 0 ^ { \circ } \ ^ { [ 1 ] }$ ，其轨道热环境主要包括：超强太阳电磁辐射，距日心5倍太阳半径轨道处太阳辐射强度可达地球附近辐射强度的1848倍，约 $2 . 5 3 \mathrm { M W / m } \hat { \ 2 }$ ；太阳风长期持续的冲击侵蚀，不定期遭受日冕物质抛射、耀斑等剧烈太阳活动带来的各种带电粒子的轰击破坏。此外，轨道上的探测器背对辐射等效温度约为3K 的宇宙背景，还承受宇宙冷黑的强辐射制冷。
+
+# 2抵近探测器的热防护难点
+
+抵近探测器距日心小于10倍太阳半径内区域的时间远大于PSP，在轨运行期间内长期面对超强太阳辐射，尚未有先例。抵近探测器迎日面直迎超强的太阳辐射，背面需要面对辐射等效温度为3K的宇宙背景辐射，既要迎日面降高温，背面又需防低温。各种带电粒子、星际尘埃对探测器的动能加热和撞击破坏，会影响抵近探测器表面各种功能膜层和电子设备的功效。抵近探测器入轨前后，都需要太阳能电池板供电，但照射到太阳能电池板太阳辐射强度差异很大，热防护系统需要使太阳能电池板在不同辐照强度下既能有足够的发电功率，又不被烧坏。抵近探测器载有电磁场探测仪、高能粒子探测仪、远紫外日冕光谱仪、远紫外成像光谱仪、低频射电频谱仪和白光日冕仪等仪器设备[],除了仪器设备探测头，其它组件都处于热防护罩影子里，若无保护措施，会因与宇宙冷黑辐射热交换而被致冷成极低温。热防护系统是抵近探测器中体积最大的系统，为了降低发射成本，要尽可能地采用重量轻、尺寸小的方案设计。此外，探测器的发射后难以维护保养和更换，稳定可靠性是热防护系统设计中的重中之重。
+
+# 3抵近探测器热防护设计思路
+
+抵近探测器首先需要一个直面太阳辐射冲击的热防护罩，用于抵挡强太阳辐射、日冕物质抛射、太阳风等侵袭，产生一个保护仪器设备和探测器支撑结构的工作区域。防护罩应具有耐高温、耐超强太阳辐射、太阳辐射反射率高、耐带电粒子撞击、密度小、强度大等特点且外形设计应避免出现热和应力奇点。其次，热防护罩大小需有一定余量，可容忍一定的指向误差，即抵近探测器指向太阳出现一定倾斜角度时，热防护罩仍能对科学设备起到遮阳保护。此外，抵近探测器所有迎日面需可承受带电粒子冲击，且不影响其自身功能；处于热防护罩阴影中的仪器设备表面需要热防护，以抵抗宇宙冷黑的强辐射制冷。最后，为提高热防护系统的稳定可靠性，热防护设计原则上可尽可能选择可靠性高的被动热控技术。
+
+# 4抵近探测器的热防护系统
+
+抵近探测器热防护系统核心组件包括热防护罩及迎日涂层、辐射制冷器、桁架结构、太阳能电池板和设备舱等，所述迎日涂层是热防护罩迎日面直面太阳辐射冲击的表面防护涂层。图1是基于平板型热防护罩的热防护系统原理示意图：
+
+![](images/0dd299ecb1859216184b1be0668e379954051262f83935b39e73bc95deb668ab.jpg)  
+图1基于平板型热防护罩的热防护系统示意图  
+Fig.1Schematic diagram of the thermal protection system based on the plate type heat shield
+
+热防护罩位于抵近探测器的最前端，用于遮挡强太阳辐射和低能带电粒子侵袭，产生一个供探测器设备长期工作的环境，其迎日面的迎日涂层是面对超强太阳辐射的第一道防线。热防护罩通过桁架与辐射制冷器连接。桁架为抵近探测器的基本结构支撑，图1中只显示了部分桁架。辐射制冷器安装桁架表面，外表面有高热发射率涂层，向宇宙空间进行辐射散热。辐射制冷器的内表面有多层隔热材料膜层（multilayerinsulation material，简称MLI)，MLI薄膜具有很低的热发射率和高反射率。抵近探测器采用电池板供电，抵近探测的科学仪器设备表面覆盖有MLI薄膜，用于提供合适的工作温度环境。
+
+# 4.1迎日涂层
+
+热防护罩迎日面镀的迎日涂层，作为抵近探测器热防护罩第一道防线的迎日涂层，需要满足以下关键技术要求：
+
+1）迎日涂层需要具备承受超强太阳辐射、低能带电粒子和星际尘埃的长期侵袭，能对热防护罩进行有效的保护。2）若迎日涂层采用多层设计，各层以及与基层之间应有良好的结合强度，保证在发射前、入轨前后的高低温环境中，涂层无剥落、翘皮。3）迎日涂层与基层、涂层之间在高温下不能相互反应或发生高温分解，且能阻止基层物质向外扩散。4）即使迎日涂层局部产生轻微裂缝，涂层应具有防止裂缝持续扩大的设计。帕克太阳探测器迎日涂层采用白色氧化铝陶瓷与钨金属涂层的设计方案。除了帕克太阳探测器迎日涂层，本文提出了另外两种迎日涂层设计：一种是特制氧化铝涂层与铱金方案，另一种为超级耐高温迎日涂层设计方案。
+
+# 4.1.1帕克太阳探测器迎日涂层
+
+帕克探测器采用白色光滑氧化铝陶瓷与钨金属屏蔽涂层(Barriercoating)作为迎日涂层，涂层下面是碳/碳复合材料和碳泡沫组成的碳基层。白色光滑氧化铝陶瓷涂层在可见光和近红外波段都有较高的反射率，其总太阳辐射反射率高，吸收率低。氧化铝陶瓷涂层具有良好抗辐照损伤特性，承受短波辐射、电子、质子等带电离子轰击能力较强，且熔点超过两千摄氏度。PSP 的氧化铝陶瓷涂层添加有氧化镁掺杂剂，作为晶粒生长抑制剂（GGI)，用于进一步提高涂层的太阳辐射反射率并降低涂层在高温下热膨胀系数，使之与下方钨金属涂层的热膨胀系数接近，提高两涂层之间的结合能力，使其能承受较大的热梯度而不裂纹、剥落。高温氧化铝陶瓷会与碳基层发生反应，变成灰色，氧化铝陶瓷涂层和碳基层之间的钨金属涂层，可阻止两者高温下的相互作用。钨的熔点超过3000 摄氏度，是熔点最高的金属。PSP 的氧化铝陶瓷涂层为多孔结构，多孔涂层开裂时，碰到一个微孔就会裂缝停止，避免进一步开裂。
+
+PSP 热防护罩通过表面与宇宙冷黑的辐射热交换散热。PSP距日最近时，热防护罩表面迎日涂层的平衡温度接近1700K，1700K黑体的光谱辐亮度曲线如图2所示，热辐射本领最大值相对应的波长约为 $1 . 7 \mu \mathrm { ~ m ~ }$ ，约 $3 9 . 2 5 \%$ 的热辐射能量分布在 $1 . 3 { \sim } 2 . 4 \mu \mathrm { ~ m ~ }$ 的峰值波段附近。
+
+![](images/5b593ec26e6e4893c234e7ee4fdc0376ab7ee09fd5beacc69f3044b9b618333a.jpg)  
+图21700K黑体的光谱辐亮度曲线  
+Fig.2Spectral radiance curve of blackbody with temperature of 1700k
+
+1700K黑体在 $1 . 3 \widetilde { \textrm { 2 } } . 4 \mu \textrm { m }$ 波段辐射出射度约为 $1 8 5 8 7 0 \mathrm { ~ W / m 2 }$ 。 $1 . 3 ^ { \sim } 2 . 4 \mu \mathrm { ~ m ~ }$ 波段的太阳辐射约占太阳总辐射的 $1 2 . 7 \%$ ，距日心10倍太阳半径轨道处该波段的太阳辐射通量密度仅为 $8 0 5 6 1 \mathrm { w / m ^ { 2 } }$ ，两者之差为 $1 0 5 3 0 9 ~ \mathrm { W / m ^ { 2 } }$ ，两者比值约为2.3072。若1700K温度的迎日涂层在 $1 . 3 ^ { \sim } 2 . 4 \mu \mathrm { ~ m ~ }$ 波段的太阳吸收率和热发射率均为0.6，上述两者之差降为 $6 3 1 8 5 . 4 ~ \mathrm { W / m 2 }$ ，两者比值也为2.3072;若1700K温度的迎日涂层在该波段的太阳吸收率和热发射率降为0.2，两者比值仍为2.3072。迎日涂层表面在该波段的自身热辐射仍然大于吸收的太阳辐射，但两者之差进一步降为 $2 1 0 6 1 . 8 ~ \mathrm { W / m ^ { 2 } }$ 。温度平衡时，对于不透明的物体其热辐射能力越大，吸收能力也越大。因此，迎日涂层在其热辐射本领最大值相对应的波长附近的光谱辐射率越高，其在峰值波段附近的自身热辐射与吸收的太阳辐射的差值越大，辐射散热效果也越好。PSP 迎日涂层的热发射率没有特别设计，涂层辐射的散热能力较弱，太阳辐射反射率较低。Metco105SFP氧化铝陶瓷粉末掺杂氧化镁后制成白色氧化铝陶瓷，结合76.2微米的TAN 屏蔽涂层的形成的迎日涂层，其在室温环境下的太阳辐射反射率为 $6 1 . 6 2 \%$ ，热发射率为 $6 0 . 5 6 \%$ 经过真空 $1 1 8 0 ^ { \circ } \mathrm { ~ C ~ }$ 热处理后太阳辐射反射率升为 $7 3 . 6 4 \%$ ，热发射率为 $4 9 . 7 6 \%$ ；经过真空$1 4 0 0 ^ { \circ } \mathrm { ~ C ~ }$ 热处理后太阳辐射反射率升为 $7 4 . 0 4 \%$ ，热发射率为 $4 5 . 9 6 \% ^ { [ 2 ] }$ 。
+
+太阳辐射反射率和自身热发射率低于航空领域常见的玻璃型二次表面镜,辐射散热效果也弱于玻璃型二次表面镜。此外，氧化铝陶瓷涂层的本征热导率过高，导致未被反射的辐射热量传输到钨金属屏蔽涂层和碳泡沫层；氧化铝陶瓷涂层的硬度和模量高，导致高温断裂韧性低、损伤容限低，容易产生裂纹、剥落，必须进行掺杂韧化；氧化铝陶瓷涂层的热膨胀系数低，与金属的热失配大。因此寻找性能更优异的陶瓷涂层材料是非常重要的。
+
+# 4.1.2基于特制透明氧化铝陶瓷涂层的迎日涂层方案
+
+为了克服 PSP 迎日涂层的不足之处，本文首次提出一种基于透明氧化铝陶瓷/稀土钮酸盐过渡层/铱金属膜层的迎日涂层设计方案，如图3所示：
+
+![](images/25a2dfc52275fe2a17c2a93eadee6f8ee362c7f9cf2db7e11d970990eeb5cad7.jpg)  
+图3基于特制透明氧化铝陶瓷涂层的迎日涂层结构设计  
+Fig.3Design of Sun-Oriented Coating Structure Based on Special Transparent Alumina Ceramic Coating
+
+迎日涂层包括设置于热防护罩碳基层表面耐高温且太阳辐射反射率高的铱金属膜层，和设置于金属膜层表面的稀土钼酸盐过渡层，以及设置于稀土钼酸盐过渡层表面的特制透明氧化铝陶瓷涂层，组成一种耐高温、高热阻的类似玻璃型二次表面镜的新型迎日涂层。百纳米级厚度的透明氧化铝陶瓷对太阳辐射具有很高的透光率，而耐高温的铂系金属铱具有很高的反射率，还可以阻挡氧化铝陶瓷涂层和碳基层在高温下的相互作用。由于是强氧离子绝缘体，稀土钮酸盐过渡层可进一步阻止氧化铝和碳基层在高温下的相互作用。制备氧化铝陶瓷的陶瓷粉晶粒尺寸范围为几十纳米至几十微米，氧化铝陶瓷对波长与其晶粒的等效圆直径相近辐射的吸收率和辐射率最高，抵近探测器距离太阳表面最近时迎日涂层平均温度设为T，温度为T的黑体的热辐射本领最大值相对应的波长为 $\lambda$ ，氧化铝陶瓷在温度为T时的晶粒等效圆直径与入相近时，可大幅度提高涂层在该波长附近的光谱发射率，进而获得更好的辐射散热效果[3]。氧化镁、氧化钇等添加剂也可调节透明氧化铝陶瓷的波段热发射率。
+
+稀土钮酸盐是昆明理工大学冯晶教授团队开发出来的一种最具潜力热障涂层材料，具有工作温度高（比传统热障涂层高 $2 0 0 { - } 3 0 0 ^ { \circ } \mathrm { C }$ )、高温韧性好、热导率低、热膨胀系数高、并且是强氧离子绝缘体，能够阻碍沿氧化铝传输过来的热量，并能降低陶瓷涂层与金属屏蔽层的热失配，提高涂层整体的高温断裂韧性，见参考文献[4，8]，稀土钮酸盐过渡层可降低热导率和热失配、提高高温断裂韧性、防止产生热裂纹和剥落。
+
+本文提出的迎日涂层设计提高了抵近探测器距离太阳最近时迎日涂层在其热辐射本领最大值相对应的波长附近的热发射率，有助于提升迎日涂层辐射散热能力，还可以克服 PSP迎日涂层韧性低、热失配大等多方面的不足，有提高对抵近探测器迎日面的热防护能力，延长抵近探测器的使用寿命。
+
+# 4.1.3稀土钽酸盐/超高温碳化物复合涂层方案
+
+上文两种迎日涂层要面临一个重大挑战，即涂层必须在变温、长期高温、强太阳辐照和带电粒子轰击环境下保持较高的表面反射率和辐射率。一旦表面光学特性受损，平衡温度会急剧上升，而氧化铝陶瓷熔点仅为 $2 0 5 4 ^ { \circ } \mathrm { C }$ 。碳化钮和碳化铪具有熔点高（均超过 $3 7 5 0 ^ { \circ } \mathrm { C }$ ）、硬度高、抗冲击性能好、化学稳定性好等优点，可结合过渡层，作为耐高温陶瓷涂层镀在热防护罩的 $\mathrm { c / c }$ 复合基底上。
+
+陶瓷涂层与 $\mathrm { c / c }$ 复合材料的热膨胀系数多不匹配，温度变化时存在较大的热应力，容易开裂。尽管文献[9,10]有报道称陶瓷涂层借助碳化铪纳米线的拔出、桥联以及裂纹转向机制可以提高涂层的韧性，减小涂层的开裂，但是纳米线结构的涂层在高温下并不稳定，抗烧结能力很差，导致涂层韧性降低、开裂，必须寻找具有本征断裂韧性高的涂层材料。文献[11,12]稀土钮酸盐材料由于具有铁弹增韧效应，高温下纤维状铁弹畴的转动能够吸收应力，造成应变延迟产生，极大提高了高温韧性。同时白色的稀土钮酸盐对太阳辐射有极强的反射作用，以稀土钮酸盐作为高温碳化物涂层的封顶涂层，该体系具有作为抵近探测器迎日涂层的可能性。图4（a）-（c）为稀土钼酸盐中铁弹畴的微观形貌，（d）为稀土钮酸盐高温下的铁弹增韧机理[13]。
+
+![](images/584f85aea0e0e6e00e364d3cfdbf1acd6497bd7e576fc6abcd4eac307db6bd8c.jpg)  
+图 $4 \left( \mathrm { a } \right) - \left( \mathrm { c } \right)$ 稀土钮酸盐铁弹畴的不同微观形貌；（d）稀土钮酸盐的铁弹增韧的微观机理  
+Fig.4(a)-(c)Diferent micromorphologyof rare earth tarate ferroelastic domains;(d)Micro-mechanismof iron bullet   
+toughening for rare earth tantalum salt
+
+武汉理工大学材料学院的王为民教授主要从事陶瓷及其复合材料的研究与开发，参见文献[14,17」，研制出了平均尺寸为 $3 0 0 \mathrm { n m }$ 的碳化铪粉体颗粒，可用于制作碳化铪涂层。碳化钮、碳化铪和稀土钮酸盐陶瓷均为超级耐高温材质，镀在热防护罩的 $\mathrm { c / c }$ 复合材料表面可允许热防护罩的工作温度超过 $2 0 0 0 ^ { \circ } \mathrm { C }$ 。 $2 0 0 0 ^ { \circ } \mathrm { C }$ 黑体的辐射出射度与6.45倍太阳半径处轨道的太阳辐照度相差不大，即使入射至超级耐高温涂层的太阳辐射被全部吸收，当距日心大于6.45半径时，热防护罩的最高温度仍低于 $2 0 0 0 ^ { \circ } \mathrm { C }$ ，因此允许涂层表面具有较高太阳吸收率。
+
+# 4.2热防护罩设计与热仿真
+
+PSP 热防护罩有两层 $\mathsf { c / c }$ 复合材料和置于两层之间的碳泡沫层组成，迎日涂层镀C/C复合材料层的迎日面，碳泡沫层为低导热的碳泡沫。图5热防护罩剖面结构示意图。该结构设计保证热防护罩的强度，并大幅度降低热防护罩质量。
+
+![](images/b9eae1fd6a1a4842a02cd97d6405fd5638a780ca1bbc89bcd4bf5a83e161e8b0.jpg)  
+图5PSP热防护罩剖面示意图  
+Fig.5Chart of section of Heat shield of PSP
+
+超高温C/C复合材料和 SiC材料方面，国内有大量经验丰富、技术雄厚的研制团队，包括西北工业大学材料学院李何军院长领衔的研究团队；中南大学粉末冶金研究院的黄伯云院士团队；哈尔滨工业大学杜善义院士团队；上海大学材料科学与工程学院孙晋良院士团队；航天材料及工艺研究所（航天一院703所）的胡子君团队；西安航天复合材料研究所（航天43所）等。抵近探测器的热防护罩主体也采用双 $\mathrm { c / c }$ 复合材料层和碳泡沫层设计，并且考虑了平板型、半球型和圆锥形三种形状设计。相同的遮阳区域下，三种不同形状的热防护罩具有不同的辐射热交换面积和表面太阳辐射照度。与平板型热防护罩相比，相同遮阳区域的半球型和圆锥型具有更优的散热能力，但后两者的体积、质量更大，对火箭的运载能力要求大于平板型。最终选择结构简单，体积、质量小的平板型结构，并进行了热防护仿真。
+
+抵近探测器距日心5倍太阳半径轨道时，太阳的视角约22.62度，热防护罩设计应保证只有迎日涂层面被太阳直接照射。平板型热防护罩设计为迎日面直径2.5米、下底面直径为2.38米、厚度30厘米的薄圆台形状。圆台平板设计保证侧面和底面不会被太阳辐射直接照射。环形主辐射制冷器与热防护罩、设备舱共轴，且靠近热防护罩下底面端的外直径为2米。整个设计确保主辐射制冷器和设备舱位于热防护罩的阴影里，且允许一定的指向日心误差。平板热防护罩设计有三层 $\mathrm { c / c }$ 复合材料层，覆盖碳泡沫层三个表面，每层厚度设计为0.25厘米，总厚度0.5厘米。碳泡沫层厚度设计为29.5厘米，选用碳泡沫的孔隙率为 $9 7 \%$ 导热系数大约为 $0 . 0 5 \mathrm { w / m * k }$ ，密度约 $0 . 0 1 6 \mathrm { g / c m } \hat { \textbf { 3 } }$ 。碳泡沫层质量为 $2 3 . 0 7 7 \mathrm { k g }$ ，三个 $\mathrm { c / c }$ 复合材料层总质量为54.62千克，迎日涂层厚度为亚毫米量级，质量可以忽略，热防护罩总质量不到78千克。所用碳/碳复合材料经高温石墨化处理，高温下，乱层石墨结构发生三维层平面的重排现象，使乱层石墨结构的层间距减小和微晶尺寸增加，碳/碳复合材料由乱层结构碳向石墨晶体结构转化。经 $2 5 0 0 ^ { \circ } \mathrm { C }$ 高温石墨化处理后， $\mathrm { c / c }$ 复合材料的强度和耐高温能力可进一步增强。
+
+抵近探测器入轨后，热防护罩达到热稳定并简化为等温体的热平衡方程为：
+
+$\alpha \mathrm { A } _ { 1 } \mathrm { S } + \mathrm { A } _ { 1 } \varepsilon _ { 1 } \sigma \mathrm { T } _ { \mathrm { C M B } } ^ { 4 } + \varepsilon _ { 2 } \sigma \mathrm { T } _ { \mathrm { C M B } } ^ { 4 } ( \mathrm { A } _ { 2 } + \mathrm { A } _ { 3 } ) + \mathrm { A } _ { 4 } \varepsilon _ { 2 } \sigma \mathrm { T } _ { \mathrm { a } } ^ { 4 } = \mathrm { A } _ { 1 } \varepsilon _ { 1 } \sigma T _ { s } ^ { 4 } + \varepsilon _ { 2 } \sigma T _ { s } ^ { 4 } ( \mathrm { A } _ { 2 } + \mathrm { A } _ { 3 } + \mathrm { A } _ { 4 } ) + \mathrm { C }$ 式1中参数的物理意义如表1所示：
+
+表1热平衡方程中各参数的物理意义  
+Tab.1 Parameters of the thermal equilibrium equation   
+
+<html><body><table><tr><td>Parameters</td><td>Physical Significance</td><td>Parameters</td><td>Physical Significance</td></tr><tr><td>α</td><td>Solar absorptance of sun-oriented</td><td>A3</td><td>The area of outer ring on the back of heat shield</td></tr><tr><td rowspan="3">S</td><td>coating</td><td></td><td></td></tr><tr><td>Solar irradiance of probe for in situ</td><td>A4</td><td>The area covered by radiators on</td></tr><tr><td>measurements</td><td></td><td>the back of heat shield</td></tr><tr><td>Ts</td><td>Average temperature of heat shield</td><td>ε1</td><td>Heat emissivity of sun-oriented coatingat Ts</td></tr></table></body></html>
+
+<html><body><table><tr><td>T</td><td>Equivalentradianttemperature of hemisphere above the area covered by radiators on the back of heat</td><td>ε2</td><td>Heat emissivity of Carbon-C arbon at Ts (≈1)</td></tr><tr><td>TcmB</td><td>shield Cosmic microwave background (~3K)</td><td>0</td><td>Stephen Boltzmann constant</td></tr><tr><td>A1</td><td>The area of sun-oriented coating</td><td>C</td><td>Heat transfer from heat shield to</td></tr><tr><td>A2</td><td>Side area of heat shield</td><td></td><td>truss</td></tr></table></body></html>
+
+热防护罩背面是桁架结构，辐射制冷器安装在桁架结构上。抵近探测器桁架设计采用导热系数较低的钛合金材质，实际上热防护罩背面温度较低，相对于辐射散热，可忽略热防护罩与桁架结构的传导热量C。
+
+![](images/90861724c73c268dc553070d5b4748c3dc50a0b6bbca3fd299bc8503c6b99e46.jpg)  
+图6无间隙的热防护系统原理示意图
+
+若辐射制冷器紧贴热防护罩，两者之间无间隙，如图6所示。热防护罩背面被辐射制冷器包围的内圆的辐射热交换环境为辐射制冷器内表面和设备舱顶面。与PSP类似，两个表面均设计覆盖有MLI膜层，该膜层具有低热发射率和高反射率。热防护罩的热辐射经过膜层多次反射后，大部分被防护罩背面吸收，一定程度上可认为内圆没有辐射热交换，式1简化为：
+
+$$
+\alpha \mathrm { A } _ { 1 } \mathrm { S } + \mathrm { A } _ { 1 } \varepsilon _ { 1 } \sigma \mathrm { T } _ { \mathrm { C M B } } ^ { 4 } + \varepsilon _ { 2 } \sigma \mathrm { T } _ { \mathrm { C M B } } ^ { 4 } ( \mathrm { A } _ { 2 } + \mathrm { A } _ { 3 } ) = \mathrm { A } _ { 1 } \varepsilon _ { 1 } \sigma T _ { s } ^ { 4 } + \varepsilon _ { 2 } \sigma T _ { s } ^ { 4 } ( \mathrm { A } _ { 2 } + \mathrm { A } _ { 3 } )
+$$
+
+计算式2，可以获得迎日涂层不同ε和 $\alpha$ 值时对应的热防护罩简化为等温体的温度，如图7、8所示：
+
+![](images/629bf4c0c265bc512b8ae44329dc4f301e713ac658642433f92805db350a992e.jpg)  
+Fig.6 schematic diagram of thermal protection system without gap   
+图7热防护罩距日心10倍太阳半径时，不同ε和 $| \alpha \rrangle$ 值对应的平衡温度
+
+Fig.7Equilibrium temperature corresponding to differentεand $\mathfrak { a }$ values when the distance between the heat shield and the sl
+
+![](images/582160802a1f530966c344ed581cb6fbbcd818fbf9977c86c22156346c727070.jpg)  
+图8热防护罩距日心5倍太阳半径时，不同ε和α值对应的平衡温度
+
+抵近探测器距日心5倍太阳半径时的热防护罩平衡温度远高于10倍太阳半径处，迎日涂层的热发射率ε越大、太阳吸收率α越小，平衡温度越小，反之越高。当 $\alpha$ 小于0.2时，无论热发射率多大，10倍太阳半径处的热防护罩平衡温度始终低于 $1 1 0 0 ^ { \circ } \mathsf { C }$ ；而在5倍太阳半径时，则低于 $1 6 0 0 ^ { \circ } \mathrm { C }$ 。计算中忽略了热防护罩背面与桁架、辐射制冷器、设备舱顶部之间热交换，上述计算结果可认为是平均温度的最高极限值。光滑涂层表面具有较高的太阳辐射反射率和低吸收率，假设迎日涂层 $\alpha$ 为0.2，热发射率ε也设为0.2，则10倍太阳半径处的迎日涂层吸收的太阳辐射功率为 $1 2 6 1 9 9 . ~ 1 8 \mathrm { w } / \mathrm { m } \hat { \cdot } 2$ ，在5倍太阳半径处的太阳辐射功率为$5 0 4 7 9 6 . 7 3 \mathrm { w / m } \hat { \textrm { 2 } }$ 。图9、10分别是 $\alpha = \varepsilon = 0 . 2$ 时，10倍和5倍太阳半径处的热防护罩的热仿真结果。
+
+![](images/3c9d5187b20970af26c144097572a9a205d382e104f72a33861caefbc05b672c.jpg)  
+center is 5 times the solar radius
+
+![](images/394152a65577d3fe8decfc575a52fc1f19da524700a4b5e3101986ddf2a68f4b.jpg)  
+g.8Equilibrium temperature corresponding to differentε and $\mathfrak { a }$ values when the distance between the heat shiel   
+图9热防护罩距日心10倍太阳半径时的温度仿真结果
+
+Fig.9Temperaturesimulationresultsofheatshield whenthedistance betweentheheatshieldandthesuncenteris5times thesolar
+
+Fig.1OTemperature simulationresultsofheatshield whenthedistancebetween theheatshieldandthesuncenteris1Otimes the solar radius
+
+10 倍太阳半径处，热防护罩平均温度为 $9 6 6 . 0 5 ^ { \circ } \mathrm { C }$ ，迎日面温度高达 $1 5 4 5 . 4 ^ { \circ } \mathrm { C }$ ，背面中心达 $7 4 7 ^ { \circ } \mathrm { C }$ ，边缘低至 $\cdot 1 5 . 4 7 9 ^ { \circ } \mathrm { C }$ 。5 倍太阳半径处，热防护罩平均温度为 $1 4 7 9 . 3 4 ^ { \circ } \mathrm { C }$ 。，迎日面温度高达 $2 3 8 1 . 5 ^ { \circ } \mathrm { C }$ ，背面中心达 $1 1 1 2 ^ { \circ } \mathrm { C }$ ，边缘低至 $0 . 1 6 2 9 5 ^ { \circ } \mathrm { C }$ 。热防护罩与主辐射制冷器之间的无间隙时，热防护罩背面的内圆无法辐射散热，导致热防护罩背面温度过高。
+
+![](images/b971b948db560fa82634a9ff297170f7544779cd463085cbd96f785438921d4c.jpg)  
+图10热防护罩距日心5倍太阳半径时的温度仿真结果
+
+添加间隙后，如图1所示，热防护罩与主辐射制冷器通过桁架连接，之间有30cm 的间隙。图11、12分别是 $3 0 \mathsf { c m }$ 间隙、 $\alpha = \varepsilon = 0 . 2$ ，10 和5倍太阳半径处的热防护罩热仿真图：
+
+Fig.11Temperaturesimulationresultsofheatshield witha3Ocmgapwhenthedistancebetweentheheatshieldandthesuncenter
+
+is 1O times the solar radius
+
+![](images/ce5f129c7a679232eb9eca1eaf1bdcf1d51c0d4a74f8efe2b040d4e59237eeb9.jpg)  
+图11间隙 $3 0 \mathrm { c m }$ ，10倍太阳半径处的热防护罩热仿真图  
+图12间隙30cm，5倍太阳半径处的热防护罩热仿真图
+
+Fig.12Temperaturesimulationresultsofheatshield witha3Ocmgapwhenthedistancebetweentheheatshieldandthesuncenter
+
+热防护罩仿真显示，热防护罩与辐射制冷器之间的间隙使得热防护罩背面的温度大幅度下降，只有数十摄氏度，背面高温情况则有很大改善，本质是利用与宇宙冷黑的交换热辐射冷却热防护罩背面。表面光滑、反射率较高的物体表面为非朗伯体，其平均发射率、平均反射率和两者之和随温度有微小变化，表面越光滑，两者之和越小，但大体也在0.95至1之间。PSP 的白色氧化铝陶瓷光滑迎日涂层为典型的非朗伯体，有较高的太阳辐射反射率，且在平衡温度峰值波长附近的发射率没有特别设计。若α超过0.8，则ε小于0.2，且α越高，热发射率越低。 $\alpha$ 为0.8、ε为0.2的光滑迎日涂层，距离日心5倍太阳半径处时，热防护罩迎日面温度可达 $2 4 0 0 ^ { \circ } \mathrm { C }$ 。 $\alpha$ 为0.9、ε为0.1时，迎日面温度也超过氧化铝陶瓷熔点，故白色氧化铝光滑陶瓷迎日涂层无法用于5倍太阳半径轨道的探测器。
+
+为了满足抵近探测器距日更近轨道和更长近日时间对热防护罩的要求，除了本文提出的耐高温和辐射散热性能更好的迎日涂层设计，还可利用超高温热管阵列降低热防护罩的温度。超高温热管吸热段设置于热防护罩内，放热端位于辐射制冷器。热防护罩的热量经放热端传输给辐射制冷器，能大幅度降低热防护罩温度，热管阵列与间隙的桁架平行。目前超高温热管的工作温度范围可达 $1 5 0 0 ^ { \circ } \mathrm { C } ^ { \sim } 2 0 0 0 ^ { \circ } \mathrm { C }$ ，一般采用锂金属作为工质，锂金属的汽化潜热很大，高温条件下的饱和压力也不大，具有传热能力高、等温性好、变热通量等特性。工程热物理研究所曲伟研究员及团队是国内热管和相变传热技术方面的权威专家，其研制的锂超高温热管工作温度超过 $1 5 0 0 ^ { \circ } \mathrm { C }$ ，可用于高超音速飞行器的前缘冷却[18]。
+
+# 4.3辐射制冷器
+
+由于没有直面太阳辐射冲击，抵近探测器对辐射制冷器的要求与PSP大致相同。PSP的辐射制冷器由多块辐射制冷板拼接而成，表面涂有高热发射率涂层。抵近探测器的辐射制冷器设计安装于设备舱与热防护罩之间的桁架上，分成A、B两部分。A部分通过热管冷却热防护罩，B部分通过热管传热或水冷传热冷却太阳能电池板。B部分辐射制冷器表面设有辐射屏蔽环。B部下端的辐射屏蔽环遮挡的B部分面积可调，把屏蔽面积与B部分面积的比值称之为屏蔽度 $\mathtt { M } _ { s }$ 。调节屏蔽度，可以改变太阳能电池板的平衡温度。
+
+![](images/b26285ab7fcd8cd58d6bb1e3f56be621c577895fa14e5a77963df0ec348034e5.jpg)  
+图13辐射制冷器示意图  
+Fig.13Schematic diagram of the radiator
+
+如图13所示：辐射屏蔽环的内表面和外表面覆有MLI膜层，MLI具有高反射率和低热发射率，可以阻断辐射制冷器与宇宙空间的交换热辐射散热。辐射屏蔽环固定于辐射制冷器B部分的底部，两底部大致平齐，辐射屏蔽环采用电动控制，可以沿中心轴上下伸缩，且屏蔽环的内表面与主辐射制冷器外表面有一定间隙。辐射屏蔽环采用折叠柔性层或其它相同功效的装置，完全伸展打开后，可以覆盖主辐射制冷器B部分。
+
+# 4.4太阳能电池板及热控方案
+
+普通太阳能电池板的结构如图14所示，包括电池片、钢化玻璃保护层、粘结层、背板和边框等。钢化玻璃保护层具有保护电池片的作用，普通抵近探测器的钢化玻璃，需要很高的透光率，尽可能多的吸收太阳辐射。
+
+![](images/4e29522521559db0b36306b2de3432c76bdd7566e734af312f840f6bd9ccc287.jpg)  
+图14普通太阳能电池板的结构示意图
+
+帕克探测器采用了一种能减轻紫外线降解的太阳能电池板。距日最近时，由于超强的太阳辐射，帕克电池板每产生1瓦电，就会伴随产生约13瓦的热量。帕克探测器最大耗电功率约 462瓦特，最大需要冷却6000瓦特的热量。PSP采用基于美国汉胜公司离心泵和容积为320立方英尺的体积补偿装置组成的复杂的循环水冷系统，总质量55千克，耗电功率不超过43瓦特。抵近探测器在距日心5倍太阳半径时，若采用PSP的方案，其电池板产生数百瓦电力，会伴随产生数万瓦特的热量，需配备极其庞大且复杂的水冷系统，并需要辐射表面积很大的辐射制冷器，成为热防护系统难以克服的挑战。越复杂的系统越脆弱，出现问题的可能性也越高，复杂的水冷系统为主动热控技术，降低了热控系统的可靠性。
+
+抵近探测器轨道处的太阳辐照度大于PSP，为克服水冷系统在其电池板冷却方面的不足，本文提出了一种保证抵近探测器太阳能电池板发电功率充足、且可有效降低电池板发热的热控保护膜，该膜对太阳辐射具有反射率高、透过滤低、太阳吸收率低的特点。热控保护膜包括高透光玻璃基层，设置于高透光玻璃基层表面的金属膜层，以及设置于金属膜层表面的透明氧化铝陶瓷膜层。金属膜层选用的金属种类包括铱、铂和银中的任一种。
+
+透明氧化铝陶瓷膜层具有很高的太阳辐射透过率；铱、铂和银等金属膜层具有高的太阳辐射反射率和高熔点。调节金属膜层的厚度，可以改变透过率，投射适量的太阳辐射被电池片吸收并发电；高透光玻璃层为热控保护膜的基础结构层，决定整个热控保护膜结构的强度，其厚度由抵近探测器对热控保护膜强度和重量的具体设计要求决定[19]。
+
+$1 0 0 \mathrm { n m }$ 银膜、 $1 0 0 \mathrm { n m }$ 透明氧化铝膜层和2mm高透光玻璃基层组成的热控保护膜的光谱吸收率曲线如图15所示：
+
+![](images/ba736cceb938e609287c80b44d0d1aa8c52e3c76ace8592d1019ba980ae8bc89.jpg)  
+Fig.14Structure of ordinary solar panels   
+图15电池板热控保护膜的光谱吸收率曲线  
+Fig.15Spectral absorptivity curve of thermal protective film of panel
+
+1-3000nm 波段内的光谱吸收率曲线分成两部分表示，图15（a）表示1-150nm波段的光谱吸收率，（b）表示151\~3000nm 波段的光谱吸收率。
+
+图16是上述热控保护膜的光谱透光率曲线，也是分成两个波段进行显示：
+
+![](images/4982fc64f7f4f83c8b87fa2c31cc44a7cccc5b497af54dc6bd969b1664a6440e.jpg)  
+Fig.16Spectral transmittance curve of thermal protective film of panel
+
+图17是上述热控保护膜的光谱反光率曲线，也是分成两个波段进行显示：
+
+![](images/136503c7b4a5d8d9adafc8a2db12fc1efb71687f9322990c12c71c9931dc5ed1.jpg)  
+图16电池板热控保护膜的光谱透过率曲线  
+图17电池板热控保护膜的光谱反光率曲线  
+Fig.17Spectral Reflectance curve of thermal protective film of panel
+
+一定程度上，太阳辐射可以看作温度为5770K的黑体辐射，根据普朗克黑体辐射定律，5770K黑体的光谱辐射出射度 $\mathtt { M _ { k } } ( \lambda )$ 是波长的函数：
+
+$$
+\begin{array} { r } { \mathrm { M } _ { \mathrm { k } } ( \lambda ) = \frac { \mathrm { c } _ { 1 } } { \lambda ^ { 5 } } \frac { 1 } { \exp ( \mathrm { c } _ { 2 } / \lambda * 5 7 7 0 ) - 1 } } \end{array}
+$$
+
+式3中， $\mathbf { c } _ { 1 }$ 为第一辐射常数， $c _ { 2 }$ 为第二辐射常数； $1 ^ { \sim } 3 0 0 0 \mathrm { n m }$ 波段的太阳光谱辐射出射度如图所示，其辐射能量主要集中在 $3 0 0 0 \mathrm { n m }$ 以下波段。
+
+基于热控保护膜的太阳辐射透光率、吸收率和反射率以及太阳光谱辐射出射度，计算出，$1 0 0 \mathrm { n m }$ 银膜、 $1 0 0 \mathrm { n m }$ 氧化铝膜层和 $2 \mathrm { m m }$ 高透光玻璃基层组成的热电池板保护膜的太阳辐射透过率为 $0 . 0 7 \%$ ，反射率为 $9 7 . 6 1 \%$ ，吸收率为 $2 . 3 2 \%$ 。距日心5倍太阳半径的圆形轨道上的太阳辐照度约为地球附近的1848倍，近距离探测太阳活动的航天器太阳能电池板覆盖该保护膜时，入射到电池片的太阳辐照度约为地球附近太阳辐照度的1.3倍，反射掉了$9 7 . 6 1 \%$ 的太阳辐射，大幅度降低了太阳能电池板的热控压力。
+
+除了循环水冷方案，抵近探测器还可以采用热管阵列把电池板热量传递给辐射制冷器。电池板背部通过耐高温的导热硅胶连接高温热管的吸热段，放热端位于辐射制冷器，电池板的热量经放热端传输给辐射制冷器B部分。入轨后，根据电池板的实测温度，调整其倾斜角度 $\theta _ { s }$ 和屏蔽度 $M _ { s }$ ，使其处于工作温度范围内。所述倾斜角度为太阳能电池板表面法线与热防护罩中心轴线的夹角。当热控保护膜的反光率很高时，电池板发电时的产生的热量大幅度降低，可以在不使用辐射制冷器B部分的条件下，结合太阳能电池板的倾斜角控制，使电池板控制在合适的温度范围内。此外，与单纯金属膜层相比，保护膜的表面热发射率远高于金属，具有良好的辐射散热能力。
+
+# 4.5设备舱的热控方案
+
+热防护罩影子里的仪器设备，会因与宇宙冷黑辐射交换而被制冷到低温，此外当抵近探测器出现指向故障时，太阳辐射会直接照射到仪器表面。除了设备的探测头，设备的其它元器件需要防低温和强太阳辐射的防护。抵近探测器设计采用白色MLI薄膜包裹除探测头的仪器设备其它表面，由聚酰亚胺与铝箔合成。铝金属对于波长从 $2 0 0 \mathrm { - } 1 2 0 0 \mathrm { n m }$ 波段内的辐射都有很高的反射率，适用于指向故障时反射太阳辐射，而金、银、铜对 $2 0 0 { - } 6 0 0 { \mathrm { n m } }$ 波段的反射率比较低。此外MLI薄膜热发射率低，降低与宇宙冷黑的辐射热交换，可有效保护内部设备被强辐射制冷。
+
+# 5热防护系统的地面试验设计
+
+抵近探测器轨道热环境包括宇宙冷黑、真空、超强太阳辐射和带电粒子轰击。太阳辐射中的紫外、X、γ光子和太阳周边的带电粒子撞击热防护罩和电池板表面涂层时，除了动能加热效应，还会造成涂层材料的物理、结构和性能上变化，产生各种缺陷，称为辐照损伤。与帕克探测器相比，抵近探测器距离太阳更近，带电粒子的密度更大，且小于10倍太阳半径区域内的运行时间是前者的几千倍。因此，抵近探测器迎日涂层的辐照损伤远远大于帕克迎日涂层。入射粒子与迎日涂层晶格原子碰撞，传递给晶格原子的动能超过离位阈能时，原子便可离开晶格位置，造成的损伤称为离位损伤。离位发生在表面会出现表面原子溅射，引起涂层表面形貌变化。离位损伤还可能造成材料内部出现空洞、表面裂纹，材料韧性降低，脆化、蠕变等现象。此外，入射粒子的一部分能量也会转移给迎日涂层晶格原子的电子，使之激发或电离，可导致分子健的断裂和辐照分解，引起材料强度丧失等现象。所以，抵近探测器需要做高能粒子损失的地面模拟实验。轨道处带电粒子的轰击用阴极射线、质子线和α射线的等效剂量辐照做地面测试实验；轨道处短波辐射用实验室内的紫外、X、?射线的等效剂量辐照模拟。
+
+真空、宇宙冷黑和太阳辐射可用热真空环境模拟器做测试实验。液氮冷却容器内壁模拟宇宙冷黑环境，轨道处的强太阳辐照可由热真空环境模拟器中的太阳模拟器提供，例如 KM6热真空环境模拟器内部的太阳模拟器结构由灯室（包括支架、聚光系统、水冷档板）、平面反射镜组件、光学积分器、真空密封窗口和准直镜组成[2，为离轴准直光学系统。聚光系统由19个短弧氙灯做光源，每个光源配备一个椭球聚光镜和调节机构。氙灯光汇集到光学积分器，并通过真空密封窗口将均匀光照射到准直镜，由准直镜反射形成平行光束，提供一个直径5.4米，总能量39158瓦的辐照区域。准直镜位于真空腔内，其它器件放置在真空腔外。KM6 太阳模拟器辐照区域的辐照强度较弱，可利用菲涅尔透镜、太阳能反光镜等聚光元件将辐射汇聚至与轨道处相同的辐照度。图18是用菲涅尔透镜将直径1米的太阳光束汇聚为约直径2厘米的光斑实物图：
+
+![](images/263cc3c1ac0fb8b7cb1d2817fe5a28574a6c0bf28ff8cd2e3a01212bca939111.jpg)  
+图18铜板上的菲涅尔透镜焦点光斑实物图和红外图  
+Fig.18The photographs and infrared image of Fresnel lens focal spot on copper plat
+
+地面热环境实验时，需要布置大量温度探头，实时监测各处的温度变化；启动电控系统，调节倾斜角度 $\theta _ { s }$ 、屏蔽度 $\mathtt { M } _ { s }$ 或保护膜，测量不同状态下的电池板温度和发电状态。实测强太阳辐射和宇宙冷黑下热防护罩、电池板及保护层的老化情况。改变离焦距离，模拟抵近探测器距离太阳不同距离的热环境影响。根据抵近探测器的运行周期规划，可以每周模拟一年的轨道热环境变化。
+
+# 6结束语
+
+本文提出了抵近探测器的热防护系统的整体方案，并给出了各个核心组件的具体设计。太阳爆发抵近探测器的运行轨道与PSP、SolarOrbiter探测器轨道完全不同，其热防护难度远大于后两者，迎日涂层是热防护系统的关键。为了满足抵近探测器对迎日涂层的特殊要求，本文提出了两种新型迎日涂层设计，为下一步迎日涂层的研制工作奠定了初步基础。与PSP热防护系统相比，本文提出基于超高温热管的热防护罩和电池板保护膜的新型设计，具有更好的热控能力，可以承受更强的太阳辐照度。此外，热防护系统可采用无水冷被动热控技术，稳定可靠性更高。
+
+# 参考文献：
+
+[1]林隽，汪敏，田晖等．太阳爆发的抵近探测［J].中国科学：物理学 力学 天文学（LIN Jin,WANG Min,TIANHui,etal.In situ   
+measurements of the solar eruption[J].SCIENTIA SINICAPhysica,Mechanica &Astronomica）,2019,49(05):70-89.   
+[2]CongdonE,MehokeD,BuchtaM,etal.DevelopmentofHigh-TemperatureOptical CoatingforThermal ManagementonSolar Probe Plus[C]//Aiaa/asme Joint Thermophysics & Heat Transfer Conference.2013.   
+[3]中国科学院云南天文台.一种航天器热盾迎日面的热控涂层:中国（Yunnan Observatories，Chinese Academy of Science.A   
+thermal control coating on the sun-facing surface of a spacecraft: China）,201910976421.0[P].2020-01-17.   
+[4]J Wang,XY Chong,R Zhou,J Feng\*.Microstructure and thermal properties of RETaO4 ( $\mathrm { R E = }$ Nd,Eu,Gd,Dy,Er,Yb,Lu) as promising thermal barrier coating materials[J],Scripta Mater.,126,(2O17) 24-28.   
+[5]Peng Wu,Mingyu Hu,Xiaoyu Chong,JingFeng\*.Theglas-likethermalconductivityinZrO-Dy3TaOceramicforpromising thermal barier coating application，Appl. Phys. Lett. 2018;112: 131903.   
+[6]LinChen,ingHu,engWu,Jingeng\*ealexpasioperforacendintrisiclaticethaloductivityoflasti RETaO4 ceramics，JAm Ceram Soc.2019;102(8): 4809-4821.   
+[7]宗若菲，吴福硕，冯晶\*．稀土钮酸盐在热障涂层中的研究与应用[J],航空制造技术(ZONG Ruofei,WU Fushuo,FENG Jing.   
+Research andAplicationofRare Earth TantalateCeramicsforThermalBarierCoatings[J].Aeronautical Manufacturing Technology),   
+2019,62:20-31.   
+[8]陈琳，汪俊，冯晶\*，稀土钼酸盐陶瓷热障涂层的研究进展[J]，中国材料进展(CHEN Lin,WANG Jun,FENG Jing,Research   
+Progress of Rare Earth Tantalate Ceramics as Thermal Barier Coatings[J].Materials China),2O17,36:1-15.   
+[9]李淑萍，李克智，杜红英，张守阳，沈学涛.碳化铪含量对C/C 复合材料喉衬烧蚀性能的影响[J].新型炭材料(LI Shuping,LI Kezhi,DU Hongying,ZHANG Shouyan,SHEN Xuetao.Efectof hafiumcarbidecontentontheablativeperformanceofcarbon /carbon composites as rocket throats[J].New Carbon Materials)， 2012,27(4) :311-314.   
+[10]沈学涛，李克智，李贺军，等.碳化铪改性炭/炭复合材料喉衬的热化学烧蚀[J].无机材料学报(SHEN XueTao,LI KeZhi,LIHeJun,FENGTao,ZHANGLeiLei,WANG Bin.ThermochemicalErosionofHafnium Carbide Modified Carbon/Carbon Composite Throat in a Smal Solid Rocket Motor[J]. Journalof Inorganic Materials),2O11,26(4):427-432.   
+[11]Peng Wu,XiaoYu Chong,Jing Feng\*，Effect of Al3 $^ +$ doping on mechanical and thermal properties of DyTaO4 as promising thermal barrier coating application，JAm Ceram Soc.2018;101: 1818-1823.   
+[12]PengWu,Mingyu Hu,LinChen,FushuoWu,Xiaou Chong,JingFeng\*，Theeffectof ZrO2alloyingonthe microstructuresnd thermal properties of DyTaO4 for high-temperature application，JAm Ceram Soc.2019;102: 889-895.   
+[13]Peng Wu,Mingyu Hu,LinChen, Wei Chen,Xiaoyu Chong,Hui Gu,Jing Feng\*,Investigation on microstructuresand thermo-physical properties of ferroelastic (Y1-xDyx)TaO4 ceramics，Materialia,2O18; 4: 478-486.   
+[14]WUJie,WANG Weimin\*,LIUChun.Low-temperature RapidSynthesisofUltrafine HafniumCarbideCeramicPowders[J].oumal of Wuhan University of Technology (Materials Science).2018(O4):843-948.
+
+[15]DongliangLuWeimin Wangn,HaoWangetal.Synthesisofultra-finehafniumcarbidepowderscombiningthemethodsofliquid
+
+precursor conversion and plasma activated sintering[J].Ceramics International.2O16(O7) :8108-8114. [16]鲁栋良.超细碳化铪陶瓷粉体的制备研究[D].武汉理工大学(LU DongLiang.Synthesisof fine hafnium carbide ceramic powders[D].Master's thesis of Wuhan University of Technology)，2016. [17]吴洁.碳化铪陶瓷纳米粉体的制备与结构研究[D].武汉理工大学(WUJie.Synthesis and study on structure of nano-hafnium carbide ceramic powders[D].,Master's thesis of Wuhan University of Technology)，2018. [18]曲伟,王焕光．高温及超高温热管的相容性和传热性能[J].化工学报(QU Wei,WANG Huanguang.Compatibility and heat transferof highand super high temperature heatpipes[J].Journal of Chemical Industryand Enginering)，20l1(62):77-81. [19]中国科学院云南天文台.一种航天器电池板热控保护膜:中国(Yunnan Observatories，Chinese Academy of Science.A thermal protective film for spacecraft panels: China),201910976407.0[P].2020-01-14. [20]庞贺伟，黄本诚，臧友竹，陈金明.KM6 太阳模拟器设计概述[J].航天器环境工程(PANG Hewei，HUANG Bencheng,ZANG Youzhu,CHEN Jinming.DesignofKM6 Solar Simulator[J].Spacecraft Environment Engineering),20o6(03):5-13.
+
+# Study on design scheme of thermal protection of probe for in situ measurements of solar eruption
+
+HUANG Shan-jie',ZHONG Xiao-Yu²,LIN Jun',JIN Zhen-Yu',XU Fang-Yu (1 Yunnan Observatories，Chinese Academy of Science，Kunming 65O216，China) (2Kunming University of Science and Technology，Kunming 65oo93，China)
+
+Abstract:The Yunnan Observatories of the Chinese Academy of Sciences has proposed a scientific project for in situ measurements of solar eruption and its corresponding magnetic field structure, which would carry out unprecedented close-range measurements of the solar atmosphere and intense activity. The total time close to the sun of Probe for in situ measurements of solar eruption will exceed the PSP and Solar Orbiter, and its thermal protection system willbe far more difficult than the PSP and Solar Orbiter. This paper first analyzes the characteristics of the orbit environment of the Probe for in situ measurements of solar eruption,puts forward the design idea of the thermal protection,and then gives the design of the thermal protection system and the ground experiment scheme. Preliminary research shows that the design scheme of thermal protection system has the advantages of good radiation heat dissipation，high temperature resistance and high reliability.
+
+Key words: In situ measurements of solar eruption; Thermal protection; Radiation refrigeration; Coating

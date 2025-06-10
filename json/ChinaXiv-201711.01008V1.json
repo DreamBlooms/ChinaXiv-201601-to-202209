@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "鲜味剂对猪味觉的调控及其机理1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘清梅 李方方 张勇朱宇旌（沈阳农业大学畜牧兽医学院，沈阳110866)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：动物的采食量在实际生产中起着重要的作用。因仔猪对鲜味的偏爱，所以常在仔猪饲料中添加鲜味剂以提高仔猪的采食量。鲜味剂提高仔猪采食量的主要途径是通过刺激其味觉，从而促进口腔和胃肠道中的激素等分泌，以增加其对饲料的采食。本文从鲜味剂对猪味觉的调控进行阐述，旨在为鲜味剂在仔猪饲料中的应用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鲜味剂；仔猪；味蕾；信号传递；胃肠道；鲜味受体中图分类号：S828 文献标识码：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采食量是动物生产性能以及基因潜力能否充分发挥的关键因素。在养猪生产中，仔猪的采食量是否充足尤为重要，若是仔猪的采食量不足会影响其生产性能，而且仔猪的生长状况对后期猪的育肥也具有重要的作用。尤其是在夏季，泌乳母猪的采食量普遍会降低 $3 0 \\% \\sim$ $4 0 \\% ^ { [ 1 }$ 1，导致其泌乳所需的营养难以满足，从而影响仔猪的生长性能。因此，在生产实践中，常在猪饲料中添加风味剂以提高其采食量。研究表明，仔猪对甜味、酸味以及鲜味比较偏爱，所以，鲜味剂常作为一种特殊的添加剂在仔猪饲料中添加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1鲜味剂的分类及其在猪饲料中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甜味、咸味、鲜味、酸味以及苦味是目前已经确认了的5种基本味觉[2]，其中鲜味的产生与蛋白质（如氨基酸和寡肽）相关。能够提供鲜味的物质有很多，如谷氨酸钠、 $5 ^ { \\circ }$ -肌苷酸、 $5 ^ { \\circ }$ -鸟苷酸、肽类、有机酸类等物质均能够呈现出鲜味。其中，在猪饲料中较为常用的鲜味剂是 $L$ -谷氨酸钠（即味精)。适量的添加谷氨酸钠可以显著提高猪的食欲，并且能够促进猪的生长。据报道，在湿拌料中添加 $3 0 0 ~ \\mathrm { g / k g }$ 的味精，可使猪的日增重提高 $5 \\% \\sim 8 \\%$ 。若用提取味精后所剩下的废渣添加到饲料中进行饲喂，则其日增重可提高 $4 . 5 \\%$ 以上，且料重比下降 $0 . 1 5 \\% ^ { [ 3 ] }$ 。过量的添加谷氨酸钠会导致生长性能的下降。陈罡等[4试验表明，低剂量的谷氨酸钠对哺乳仔猪机体蛋白质的代谢情况具有改善作用，且能够增加机体内蛋白质的沉积，促进哺乳仔猪的生长；而高剂量的谷氨酸钠则会对机体产生负面作用，从而抑制哺乳仔猪的正常生长。谷氨酸钠的适宜添加量还有待进一步的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常见的鲜味物质根据其化学成分的不同可以分为以下几类 (表1)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "表1常见鲜味物质的分类及其呈味特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/834492d83e56e10c40c4f91c646bfe92168d927f84f9debdb858a3edd8eeb60f.jpg",
+        "table_caption": [
+            "Table 1The classification of the common umami substances and their flavor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">characteristics[5-7]</td></tr><tr><td>种类</td><td>常见的鲜味物质</td><td>呈味特点</td></tr><tr><td>Species</td><td>Common umami substances</td><td>Flavor characteristics</td></tr><tr><td></td><td>L-谷氨酸钠（MSG)</td><td>定味基是两端带负电的功能基团，如</td></tr><tr><td>氨基酸类</td><td>L-天门冬氨酸钠（MSA)</td><td>-COOH、-C=O，助味基是具有亲水性的基</td></tr><tr><td>Amino acids</td><td>L-丙氨酸（L-Ala)</td><td>团，如α-L-NH、-OH。α-NH+3 和 γ-COO- 2</td></tr><tr><td></td><td>甘氨酸（Gly）</td><td>个基团产生静电吸引，形成五元环结构，从</td></tr><tr><td></td><td>5'-肌苷酸二钠（IMP)</td><td>而产生鲜味 定味基是亲水的核糖磷酸，助味基是芳香环</td></tr><tr><td>核苷酸类</td><td>5-鸟苷酸二钠（GMP)</td><td>2'-和6'-的疏水取代基。呈鲜条件:1)核糖 5'</td></tr><tr><td>Nucleotides</td><td>5'-腺苷酸二钠(AMP)</td><td>碳形成磷酸脂;2)其核苷酸的碱基为嘌呤基;</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>5'-黄苷酸二钠（XMP)</td><td>3)嘌呤环的6-碳上有一个-OH</td></tr><tr><td></td><td>Glu-Glu</td><td></td></tr><tr><td></td><td>Glu-Ser</td><td></td></tr><tr><td></td><td>Thr-Glu</td><td>鲜味物质分子的3种分子团（即带正电分子</td></tr><tr><td>肽类</td><td>Glu-Asp</td><td>团、带负电分子团以及含亲水性残基分子</td></tr><tr><td>Peptides</td><td>Gly-Asp</td><td>团）要分别接到与其相对应的感受器位置才</td></tr><tr><td></td><td>Ala-Glu</td><td>能够感受到鲜味</td></tr><tr><td></td><td>Glu-Leu</td><td></td></tr><tr><td></td><td>Lys-Gly-Asp-Glu-Glu-Ser-Leu-Ala</td><td></td></tr><tr><td></td><td>（美味提升肽）</td><td></td></tr><tr><td></td><td>琥珀酸</td><td>主要存在于鸟、兽、鱼类的肉中，尤其是贝</td></tr><tr><td>有机酸类</td><td></td><td>壳、水产类含量甚多</td></tr><tr><td>Organic acids</td><td>琥珀酸一钠</td><td>具有鲜味和酸味2种味道</td></tr><tr><td></td><td>琥珀酸二钠(又名干贝素)</td><td>干贝中的主要呈鲜成分，含量可达0.37%</td></tr><tr><td>复合鲜味剂</td><td>动物水解蛋白</td><td></td></tr><tr><td>Compound flavor</td><td>植物水解蛋白</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2动物味觉生理以及猪味觉的特点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动物的舌、会厌以及软腭上皮等分布着许多的小突起，即味乳突，在每个乳突上都含有不同数量的味蕾，而每个味蕾中又含有 $5 0 \\sim 1 5 0$ 个味觉受体细胞。猪有3种味觉乳突，即杯状乳突、叶状乳突以及菌状乳突，每个乳突上的味蕾数都有成千上万个。杯状乳突以及叶状乳突受舌咽神经（nervi glossopharyngeus，NG）的支配；菌状乳突受鼓索神经（chorda tympaninerve，CT）的支配[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "哺乳动物的味蕾形状一般为圆形或椭圆形，其顶端有个开口（味孔）与口腔相连。在舌表面的味孔里存在味觉受体，并且与味神经紧密相连。每个味觉细胞的游离端都含有大量的微绒毛突起，其上有味觉受体蛋白，这些微绒毛突起伸进舌黏膜中（图1)。味蕾中的Ⅱ型细胞感受味刺激，IⅢ型细胞将味觉信号传导到感觉传入神经纤维[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceb81285106757ffba9ad197aefe31364a82dbbfa2ab95ff011fa3230e7ec83b.jpg",
+        "img_caption": [
+            "图1舌上皮中味蕾的主要结构及功能细胞"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.神经纤维 nerve fibers；2.突触 synapses；3.II型感觉细胞 type II sensory cell；4.基底细胞 basal cell；5. 支持细胞 supporting cell；6.II型感觉细胞 type II sensory cell；7.微绒毛 microvilli；8.外味道孔隙 outer taste pore；9.上皮细胞 epithelial cell ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Lingual epithelium showing the main structural and functional cells associated with taste buds[10] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动物的种类不同其味蕾数也不相同，研究发现，在哺乳动物中，猪的味蕾相对较多。Chamoorro 等[1报道，猪的味蕾数比人的多（表 2)。人的菌状味蕾数越多，其味觉的感受能力越强[12]，猪也有与之相似的规律[8]。由此可见，猪的味觉要比人的敏锐很多。总体而言，猪的味蕾数为人的 $3 { \\sim } 4$ 倍[13]。因此，有的味道人感受不到，猪却能感受到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2猪与人不同味蕾的数量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1ac8765670f3c6c3f9073a4cc3066c7936e92f0df6c35f582d201a3a7c2c4f1.jpg",
+        "table_caption": [
+            "Table 2The number of different taste buds in pigs and human[14] "
+        ],
+        "table_footnote": [
+            "3鲜味剂调控猪采食量的机理"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">物种 Species</td><td>杯状味蕾数目</td><td>叶状味蕾数目</td><td>菌状味蕾数目</td></tr><tr><td>Number of goblet</td><td>Number of foliate</td><td>Number of fungiform</td></tr><tr><td rowspan=\"2\">猪Pigs</td><td>taste buds</td><td>taste buds</td><td>taste buds</td></tr><tr><td>>10 000</td><td>4 800</td><td>5 000</td></tr><tr><td>人Human</td><td>6 000</td><td>3000</td><td>1 600</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鲜味剂对仔猪采食量的调控主要是通过刺激仔猪的味觉以提高其采食量。其鲜味受体T1R1和T1R3在口腔及胃肠道中均有所表达。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1鲜味物质在味蕾中的信号传导",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "味蕾的基本单位是味觉受体细胞（taste receptor cell，TRC)，味觉受体存在于 TRC 的顶端。目前已经发现至少 2种G 蛋白偶联受体（guanosine binding protein coupled receptors,GPCRs）在鲜味的感知过程中起着重要作用[15-16]，分别为味觉受体异质二聚体和味觉特异性亚型代谢型谷氨酸受体（metabotropic glutamate receptors，mGluRs）[17]。味觉受体异质二聚体是由T1R家族当中的2个成员所构成：即 T1R1和 T1R3[18]。T1R1和T1R3 在菌状乳突的TRC 中表达。T1R1和T1R3共同介导鲜味物质的信号传导。代谢型谷氨酸受体包括[19]：代谢型谷氨酸受体 4（metabotropic glutamate receptor 4，mGluR4）、代谢型谷氨酸受体 1(metabotropic glutamate receptor 1，mGluR1）、代谢型谷氨酸受体 2（metabotropic glutamatereceptor 2，mGluR2）和代谢型谷氨酸受体 3（metabotropic glutamate receptor 3，mGluR3）。其中 mGluR4 仅在口腔的味蕾中表达，主要存在于杯状味蕾和叶状味蕾中[20]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鲜味物质与T1R1/T1R3结合，使 $\\alpha$ -味导素被激活，导致G 蛋白的β、γ亚基分离，而释放出的Gβ3 和 $\\mathbf { G } \\boldsymbol { \\gamma } \\mathbf { l } \\boldsymbol { 3 }$ 亚基使磷脂酶Cβ2(phospholipase Cβ2,PLC-β2)被激活，活化的PLC-β2将磷脂酰肌醇二磷酸（PIP2）水解为第二信使1,4,5-肌醇三磷酸（IP3）和二脂酰甘油（diacylglycerol,DAG),其中DAG的功能尚不清楚,而 IP3 和第三类肌醇三磷酸受体(inositoltriphosphate receptor 3，IP3R3）相结合，导致胞内钙库中的钙离子（ $\\mathbf { C a } ^ { 2 + }$ ）被释放出来，促使胞内 $\\mathrm { C a } ^ { 2 + }$ 的浓度上升，从而使单价选择性阳离子通道——瞬时受体电位通道M5（transientreceptorpotentialchannelM5，TrpM5）打开，引起钠离子（ $\\mathrm { \\Delta N a ^ { + } }$ ）内流，致使膜去极化，产生动作电位，并且释放出ATP，释放出的 ATP作为神经递质，能够通过由泛连接蛋白-1（pannexin-1，PX-1）构成的缝隙连接半通道，激活传入神经纤维上的嘌呤受体（图2）[21]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac6473908535f9c44f15149152a3910453f0a03d0af7e43158401fd0683e7fcb.jpg",
+        "img_caption": [
+            "图2 口腔中味感物质的信号传导"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Signal transduction of taste substance in oral cavity[19,21] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在菌状味蕾中，鲜味物质与 mGluR4 结合[22]，激活 $\\scriptstyle { \\mathfrak { a } } .$ 味导素，致使磷酸二酯酶（phosphodiesterase，PDE）活化，并且降低细胞内腺苷-3',5'-环化一磷酸（cAMP）的浓度[19],从而使环核苷酸（cyclic nucleotide，cNMP）解除对离子通道的抑制作用，促使胞内钙库释放 $\\mathbf { C a } ^ { 2 + [ 2 2 ] }$ ，最终导致传入神经纤维上嘌呤受体的激活。而在叶状味蕾中，cAMP减少的原因仍然时候由 $\\scriptstyle { \\mathfrak { a } } .$ 味导素所引起的，但其过程有可能是通过抑制腺苷酸环化酶（adenylylcyclase,AC）而不是通过激活PDE[19]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2胃肠道内的鲜味受体及其信号传导",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鲜味受体 T1R1和 T1R3不仅在动物的口腔中表达，而且在胃肠道中也有表达[23]。在过去的几年里已经证明，胃肠道中存在甜味、鲜味和苦味受体以及与味觉相关的信号分子[24]。口腔中的Ⅱ型味觉细胞与胃肠道中的内分泌细胞有着相同的味觉信号传导元件，即 $\\mathbf { \\boldsymbol { a } } .$ 味导素、PLC-β2、IP3R3和 $\\mathrm { T r p M } 5 ^ { [ 2 5 ] }$ 。这表明，味细胞和内分泌细胞在细胞内的信号转导通路有着相当大的相似之处。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鲜味味感的产生与蛋白质相关。异源二聚体 T1R1/T1R3受体能够感应脂肪族氨基酸，以及鲜味氨基酸 $L$ -谷氨酸，但对芳香族氨基酸却不能感应[24]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鲜味物质(如氨基酸、肽类)与T1R1/T1R3 相结合，其信号通过 $\\mathfrak { a }$ 味导素[26],激活PLC ${ \\bf \\beta } \\cdot { \\bf \\{ \\beta }  \\mathrm { ~ } \\beta 2 \\mathrm { ~ }$ 从而产生IP3 和DAG，IP3与 IP3R3 相结合，促使细胞内的钙库释放出 $\\mathrm { C a } ^ { 2 + }$ ，而细胞内 $\\mathrm { C a } ^ { 2 + }$ 浓度的上升使TrpM5 通道被激活，进而引起 $\\mathrm { \\Delta N a ^ { + } }$ 的内流，致使膜发生去极化，产生动作电位，并且促使囊泡核苷酸转运体（vesicular nucleotide transporter，VNUT）释放出神经递质$\\mathrm { A T P ^ { [ 2 7 ] } }$ ，通过缝隙连接半通道，激活传入神经纤维上的嘌呤受体（图3)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ba9024df0929b8b72935eaf2b3fb9a02c9947e55c4bbd330710df01fe2128fc.jpg",
+        "img_caption": [
+            "图3肠内分泌细胞中味感物质的信号传导",
+            "Fig.3Signal transduction of taste substance in intestinal endocrine cells[25] "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "胃肠道内除了内分泌细胞外，还有少量的类味觉细胞（刷细胞)。虽然特定化学物质对刷细胞的刺激尚未见报道。但 Hass 等[28]报道，胃中的刷细胞能够表达 T1R3 和胃饥饿素（ghrelin)，表明这些细胞也许能够通过控制 ghrelin 的分泌调控摄食。刷细胞也许在促味剂/营养物质的化学感应中起着重要的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 T1R1和T1R3基因的结构特点",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人类的T1R1与T1R3基因分别位于第1染色体短臂的1p36、1p36.33[29-30]，两者的距离较为接近。而小鼠的则在第4染色体末端。哺乳动物的T1R1基因含有6个外显子，其中前5 个外显子编码GPCRs 的一个长的胞外结构域，而第6个外显子则编码其余的部分：包括7个跨膜结构域、3个胞外环、3个细胞内循环和胞内C末端[31]。人类的T1R3 基因长 $4 ~ \\mathrm { k b }$ 含7个外显子，所编码的蛋白质包含了843个氨基酸残基，且含有7个跨膜结构域，在胞外的N末端为558个氨基酸残基。不同物种中的T1R型受体具有显著差异，而正是由于这种差异导致了不同动物味觉的特异性和选择性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鲜味剂中的可溶性化学物质通过舌上的味孔，与微绒毛上鲜味受体蛋白的特异性配位基相结合，使味觉细胞内产生级联反应，以刺激味觉神经，并使其发出突触信号。这些信号传导到下丘脑弓状核，从而对猪的采食量进行调控。现已证明在仔猪饲料中添加鲜味剂能够提高仔猪的食欲，促进其生长。仔猪生长状况良好有利于肥育猪的提前上市。因此，对鲜味剂在猪采食中的调控及其机理进行研究，在提高养猪的经济效益方面具有重要作用。鲜味剂对猪味觉调控的报道现多为正向调控，是否有负向调控尚未见报道，还有待进一步的研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \n[1]江青艳.动物采食的调控机制及其研究进展[J].饲料与畜牧,2012(4):5-9.   \n[2]YAMAMOTO K,ISHIMARU Y.Oral and extra-oral taste perception[J].Seminars in Cell & Developmental Biology,2013,24(3):240-246.   \n[3]陈延玲.猪饲料中添加微量元素和调味剂的配方[J].养殖技术顾问,2014(6):80.   \n[4]陈罡.谷氨酸纳对哺乳仔猪蛋白质和脂肪代谢影响的研究[D].硕士学位论文.长沙:湖南 农业大学,2013.   \n[5]吴娜,顾赛麒,陶宁萍,等.鲜味物质间的相互作用研究进展[J].食品工业科 技,2014,35(10):389-392,400.   \n[6]何灯,杨荣华.鲜味物质及其在水产调味品中的应用[J].中国调味品,2005(4):3-8,37. [7]孙芝杨.鲜味剂的应用及发展前景[J].中国调味品,2011,36(6):1-3,9.   \n[8]DANILOVA V,ROBERTS T,HELLEKANT G.Responses of single taste fibers and whole chorda tympani and glossopharyngeal nerve in the domestic pig,Susscrofa[J].Chemical Senses,1999,24(3):301-316.   \n[9] SUZUKI T.Cellular mechanismsin taste buds[J].The Bulletin of Tokyo Dental College,2007,48(4):151-61.   \n[10] ROURAE,TEDOG.Feedappetenceinpigs:an oronasal sensing perspective[M]//TORRALLARDONA D,ROURA E.Voluntary FeedIntake in Pigs.The Netherlands:Wageningen Academic,2009:105-140.   \n[11]CHAMORRO C A,DE PAZ P,FERNANDEZ J Get al.Fungiform papille of the pig and the wild boar analyzed by scanning electron microscopy[J].Scanning Microscopy,1993,7(1):313-322. [12]MILLER IJ Jr,REEDY F E Jr.Variations in human taste bud density and taste intensity perception[J].Physiology & Behavior,1990,47(6):1213-1219.   \n[13]KUMARS S,BATE L A.Scanning electron microscopy of the tongue papille in the pig (Sus scrofa)[J].Microscopy Research and Technique,2004,63(5):253-258.   \n7 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14]吕继蓉.饲料风味剂对猪采食量和采食行为的影响及机理研究[D].博士学位论文.雅安:四川农业大学,2010.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]LI X D.T1R receptors mediate mammalian sweet and umami taste[J].The American Journal of Clinical Nutrition,2009,90(3):733S-737S. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]CHAUDHARI N,PEREIRA E,ROPER S D.Taste receptors for umami:the case for multiple receptors[J].The American Journal of Clinical Nutrition,2009,90(3):738S-742S. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]CHAUDHARI N,LANDIN A M,ROPER S D.A metabotropic glutamate receptor variant functions as a taste receptor[J].Nature Neuroscience,20oo,3(2):113-119. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]DANG Y L,GAO X C,XIE A Y,et al.Interaction between umami peptide and taste receptor T1R1/T1R3[J].Cell Biochemistry and Biophysics,2014,70(3):1841-1848. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]KINNAMON S C.Umami taste transduction mechanisms[J].The American Journal of Clinical Nutrition,2009,90(3):753S-755S. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20]CHAUDHARI N,YANG H,LAMP C,et al.The taste of monosodium glutamate:membrane receptors in taste buds[J].The Journal Neuroscience,1996,16(12):3817-3826. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21] KINNAMPNSC.Tastereceptorsignaling-fromtonguesto lungs[J].Acta Physiologica,2012,204(2):158-168. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]陈大志,叶春,李萍.味觉受体分子机制[J].生命的化学,2010,30(5):810-814.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23]ZHANG J,YIN Y L,SHU X G,et al.Oral administration of MSG increases expression of glutamate receptors and transporters in the gastrointestinal tract of young piglets[J].Amino Acids,2013,45(5):1169-1177. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]BEHRENS M,MEYERHOF W.Gustatory and extragustatory functions of mammalian taste receptors[J].Physiology and Behavior,2011,105(1):4-13. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]IWATSUKI K,ICHIKAWA R,UEMATSU A,et al.Detecting sweet and umami tastes in the gastrointestinal tract[J].Acta Physiologica,2012,204(2):169-177. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26]TOLHURST G,REIMANN F,GRIBBLE F M.Intestinal sensing of nutrients[M]//JOOST H G.Appetite Control,Handbook of Experimental Pharmacology.Berlin Heidelberg:Springer,2012,209:309-335. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27]IWATSUKI K,UNEYAMA H.Sense of taste in the gastrointestinal tract[J].Journal of Pharmacological Sciences,2012,118(2):123-128. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28] HASS N,SCHWARZENBACHER K,BREER H.T1R3 is expressed in brush cells and ghrelin-producing cells of murine stomach[J].Cell and Tissue Research,2010,339(3):493-504. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29] LI X D,STASZEWSKI L,XU H,et al.Human receptors for sweet and umami taste[J].Proceedings of the National Academy of Sciences of the United Statesof America,2002,99(7):4692-4696. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]LIAO J Y,SCHULTZ P G.Three sweet receptor genes are clustered in human chromosome 1[J].Mammalian Genome,2003,14(5):291-301. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31]ZHAO H B,XU D,ZHANG S Y,et al.Genomic and genetic evidence for the loss of umami taste in bats[J].Genome Biology Evolution,2012,4(1):73-79. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Regulation and Mechanism for Umami Enhancer on the Porcine Gustatory2 LIU Qingmei LI Fangfang ZHANG Yong ZHU Yujing\\* (College of Veterinary and Animal Science， Shenyang Agricultural University， Shenyang 110866，China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Feed intake plays an important role in animal production. Umami enhancer is often added into feds for improving feed intake of the piglets, because piglets have a preference for umami. Umami enhancer improves feed intake of piglets mainly by stimulating their gustation, then promotes oral cavity and secretes hormones in the gastrointestinal tract to increase their fed intake.This review summarized the regulation of umami enhancer for the porcine gustation,aimed at providing theoretical basis for the application of umami enhancer in feeds of piglets. Key words: umami enhancer; piglets; taste buds; signal transduction; gastrointestinal tract; umami receptor ",
+        "page_idx": 8
+    }
+]

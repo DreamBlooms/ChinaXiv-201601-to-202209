@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "7T Transmit/Receive Arrays Using ICE Decoupling for Human Head MR Imaging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xinqiang Yan, Xiaoliang Zhang, Baotong Feng, ChuangXin Ma, Long Wei, and Rong Xue\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—In designing large-sized volume type phased array coils for human head imaging at ultrahigh fields,e.g.，7T, minimizing electromagnetic coupling among array elements is technically challenging.A new decoupling method based on induced current compensation or elimination (ICE) for a microstrip line planar array has recently been proposed.In this study,an eight-channel transmit/receive volume arraywith ICE-decoupled loop elements was built and investigated to demonstrate its feasibility and robustness for human head imaging at 7T.Isolation between adjacent loop elements was better than -25 dB with a human head load.The worst-case of the isolation between all of the elements was about-17.5 dB.All of the MRI experimentswere performed ona7Twhole-bodyhuman MR scanner.Imagesof the phantom and human head were acquired and $\\mathbf { g }$ -factormapswere measured and calculated to evaluate the performance of the coil array.Compared with the conventional capacitively decoupled array,theICE-decoupled array demonstrated improved parallel imaging ability and had a higher SNR.The experimental results indicate that the transceiver array design with ICE decoupling technique might be a promising solution to designing high performance transmit/receive coil arrays for human head imaging at ultrahighfields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms-Decoupling，high field magnetic resonance imaging(MRI),human head, induced current compensation or elimination (ICE), loop,parallel imaging,phased array,radio-frequency (RF) coil. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I N RECENT years,an increasing number of 7T and 9.4T imaging systems are being used for human experiments, because high magnetic fields have advantages in terms of high signal-to-noise ratio,image resolution,and improved image ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript received November 27,2013;revised February O6,2014;accepted March19,2014.Date of publication April 01,2014;date of current version August 28,2014.This work was supported in part by the Ministry of Science and Technology of China under Grant 2012CB8255o0,in part by the Chinese National Major Scientific Equipment R&D Project under Grant ZDYZ2010-2,in part by the National Natural Science Foundation of China under Grant 51228702,and in part by the Chinese Academy of Sciences (CAS) under Grant XDB02010001 and Grant XDB02050001.Asterisk indicates correspondingauthor. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X.Yan is with the Key Laboratory of Nuclear Analysis Techniques,Institute ofHigh Energy Physics,Chinese Academy of Sciences,Beijing 100049, China,and Graduate School, University of Chinese Academy of Sciences,Beijing10oo49, China (e-mail: yanxq@ihep.ac.cn). X.Zhang is with the Department ofRadiology and Biomedical Imaging,University of California San Francisco,San Francisco,CA 94158USA,and also with UCSF/UC Berkeley Joint Graduate Group in Bioengineering,San Francisco, CA 94158 USA (e-mail: xlzhang@berkeley.edu). B.Feng,C.X.Ma,andL.Wei are withKeyLaboratory ofNuclearAnalysis Techniques,Institute of High Energy Physics,Chinese Academy of Sciences, Beijing 100049,China. ${ } ^ { * } \\mathrm { R } .$ Xue is with State KeyLaboratory ofBrain and Cognitive Science,Beijing MRI Center for Brain Research,Institute of Biophysics,Chinese Academy of Sciences,Beijing l0o101,China (e-mail: rxue@bcslab.ibp.ac.cn). Color versions of one or more of the figures in this paper are available online at http://ieeexplore.ieee.org. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Digital Object Identifier 10.1109/TMI.2014.2313879 contrast [1]-[6]. The Larmor frequency $\\omega$ increases with magnetic field strength. The resultant high frequency makes the design of large-sized radio-frequency(RF) coils challenging Phased array coils perform well in designing large-sized coils at ultrahigh fields with parallel imaging,which can reduce data acquisition time while maintaining imaging quality [2], [7]-[14]. The main challenge in designing phased array coils is to minimize the electromagnetic coupling between resonant elements. The resonance peak is usually split because of strong coupling between adjacent elements,which is especially observed for traditional $L / C$ resonant loops without shielding. Several methods are employed to reduce mutual coupling, including the use of low input impedance preamplifiers, overlapping adjacent loop elements [15],transformers [16] and $L / C$ decoupling networks [17]-[20]. However, preamplifier decoupling [21] is not readily feasible for transceiver arrays, and overlap decoupling increases the geometry $\\left( \\mathrm { g } - \\right)$ factor in the overlapped area [22], [23]. $L / C$ decoupling networks are not robust at high fields because the values of the lumped components are too sensitive to the load [19], [20]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A new decoupling method based on induced current compensation or elimination (ICE) or magnetic wall technique has recently been proposed and has demonstrated the ability to decouple strongly coupled resonant elements[24]-[29]. The method has been successfully demonstrated in planar coil arrays.Compared with planar coil arrays,cylindrical volume coils often have stronger electromagnetic coupling between nonadjacent or opposite resonant elements.In this study,we aim to test the feasibility of the ICE decoupling method in cylindrical volume coil array designs for human head imaging atultrahigh magnetic fields.An eight-channel transmit/receive (TX/RX) loop-array with this decoupling method was designed and built for human head MR imaging at 7T.Loop resonators were chosen as the coil elements because of their popularity in MR imaging and because of more pronounced decoupling difficulties compared with other type of elements,e.g.,microstrip resonators.We evaluated coil performance by bench tests including the $Q$ value,s-parameter matrix and reflection coefficient $\\mathbf { s } _ { 1 1 }$ of the coil array.The feasibility of this coil array was also validated through MR imaging experiments in phantom and human subjects.Additionally,the coil performance including the SNR and parallel imaging capability was evaluated and compared with the conventional capacitively decoupled loop array [30]-[33] in this study. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.MATERIALS ANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.Design and Construction of the ICE-Decoupled Coil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ICE decoupling method has been investigated by eigenvalue/eigenvector analysis in previous work [24]. Consider a coil array consisting of two identical coil elements and one decoupling element,which is placed symmetrically between the two coil elements.Coil element1 and coil element2 are decoupled to each other when ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/76c785b590f70c4170c498dda5c0db2e8e4c61042b9437a4abd5187826365137.jpg",
+        "img_caption": [
+            "Fig.1．(a) Photograph of the 8-channel ICE-decoupled transceiver coil array. (b)Photograph of the 8-channel capacitively decoupled transceiver coil array. (c) Schematic presenting the two coil elements and one decoupling loop of the 8-channel ICE-decoupled transceiver coil array. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { { X _ { 1 } = X _ { 2 } = X _ { c c } } } \\\\ { { X _ { d } = \\frac { { X _ { c d } } ^ { 2 } } { X _ { c c } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { 1 }$ and $X _ { 2 }$ are the impedances of coil element 1 and coil element 2, $X _ { d }$ is the impedance of the decoupling element, $X _ { c c }$ is the mutual impedance between the two coil elements and $X _ { c d }$ is the mutual impedance between the coil element and decoupling element. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The eight-channel array coil was mounted on a cylindrical acrylic former with an outer diameter of $2 5 ~ \\mathrm { c m }$ ，as shown in Fig.1(a) and (c).The permittivity of the acrylic used in this work is approximately 2.7 with a loss tangent of $\\sim 0 . 0 2$ at 1 MHz.A rectangular loop (length $1 7 \\mathrm { c m }$ ，width $6 . 8 \\mathrm { c m } \\dot { }$ )withsix capacitors (one tuning capacitor, four distributed capacitors,and one matching capacitor) was used as the coil element in each loop.One smaller rectangular loop (length $1 7 \\ \\mathrm { c m }$ ，width 2.8 cm) with six distributed capacitors,referred to as the decoupling loop,was placed between adjacent coil elements to reduce the mutual coupling.All coil elements and decoupling loops were built using printed circuit boards to ensure design accuracy. The conductor is $5 \\mathrm { m m }$ wide and $1 0 0 \\ \\mu \\mathrm { { m } }$ thick.All of the capacitors used in the coil array are ATC fixed capacitors (American Technical Ceramics,Huntington Station,NY,USA). The values of Ca1,Ca2,Cb1,Cb2,CDa1,CDa2,CDb1,and CDb2[as shown in Fig.1(c)] are: $\\mathrm { C a 1 = C a 2 = C b 1 = C b 2 = 3 . 7 p F }$ $\\mathrm { { C D a 1 } = \\mathrm { { C D a 2 } = \\mathrm { { C D b 1 } = \\mathrm { { C D b 2 } = 1 0 \\ p F . } } } }$ Tuning capacitor $\\mathrm { C t }$ ，matching capacitor $\\mathrm { C m }$ ，and decoupling capacitors $\\mathrm { C D t }$ CDm were individually selected to achieve a good matching and de-coupling performance for each loop.The values of $\\mathrm { C t }$ $\\mathrm { C m }$ , CDt,and CDm were slightly different for all of the loop elements and the inconsistency was less than $10 \\%$ when loaded with a human head. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The coil was used for both transmission and reception and was matched to $5 0 \\Omega$ and tuned to $2 9 7 . 2 \\ : \\mathrm { M H z }$ ，which was the proton Larmor frequency of our 7T system.In this study,a parallel shunt capacitive network was used to match the coil to $5 0 \\Omega$ . An eight-way Wilkinson power splitter split a single RF signal from the power amplifier into eight transmit sources and drove eight coil elements with a $4 5 ^ { \\circ }$ phase increment between adjacent coil elements.Eight transmit/receive switches and conventional $5 0 ~ \\Omega$ preamplifiers were made to operate the array coil.RF cable traps were placed between the cables and coil loops to avoid possible cable resonance at the high frequency of $2 9 7 . 2 ~ \\mathrm { M H z }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a30b4c6d31f2ec461996cf6bda7a79de2112d8588e666541a417ee2e51a0d1.jpg",
+        "img_caption": [
+            "Fig.2．Photographs of a single loop,a two-channel ICE-decoupled loop array and a two-channel capacitively decoupled loop array (fromleft to right). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a911b62b84cb692f6870bcb72e6b48b31425bff0b92347654ab2445875059e1.jpg",
+        "img_caption": [
+            "Fig.3.Setup used to measure the reflection coefficient $\\mathbf { s } _ { 1 1 }$ of the entire coil "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A conventional capacitively decoupled array with exactly the same dimensions as the ICE-decoupled array was built for comparison,as shown in Fig.1(b).Two capacitors with a value of about $1 . 5 ~ \\mathrm { p F }$ were used to remove coupling between adjacent coil elements.Additionally,a single loop,a two-channel ICE-decoupled loop array and a two-channel capacitively decoupled loop array were built for further studies,as shown in Fig.2.All of the coil elements and the decoupling loop had exactly the same dimensions as the eight-channel ICE-decoupled array. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B．Bench Tests ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The reflection coefficient $\\mathbf { s } _ { 1 1 }$ and transmission coefficient $\\mathbf { s } _ { 2 1 }$ of the ICE-decoupled array and conventional capacitively decoupled array were measured using an Agilent E5O71C network analyzer. The reflection coefficient was also used to calculate the unloaded Q value $( Q _ { U L } )$ and loaded Q value $( Q _ { L } )$ of the coil.As demonstrated in previous work [32], [34], the impendence of the entire coil deviates from $5 0 ~ \\Omega$ even when all of the loop elements are tuned and matched at desired frequency because of the limited decoupling between loop elements.This causes obvious power reflection and decreases the transmission efficiency.To show the transmit performance of this coil, the re flection coefficient of the entire coil for the load(with a human head) was measured at the input port of the power splitter,as indicated in Fig.3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/91defb715d270f34441749a30e395ad862c4314f89dd3ba014b627cfc7818ade.jpg",
+        "img_caption": [
+            "Fig. 4. $\\mathbf { s } _ { 1 1 }$ and $\\mathbf { S } _ { 2 1 }$ measurementsofthe8aelCEecopledtrascevrcoilyleftand8aelapaciielydecoupledtraseirclayht loadedwithaaadeasoatioetojactcltstoddapaciielepe $- 2 7 . 0$ dB and $- 1 6 . 5$ dB,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf42952c314d9ea5b7ae952a3354891fe2c5a7e9df3fd122f8dd313264531074.jpg",
+        "table_caption": [
+            "TABLEI$\\mathbf { s } _ { 2 1 }$ PARAMETERS AND QVALUES MEASURED FROM A SINGLE LOOP,A TWO-CHANNEL ICE-DECOUPLED ARRAY AND A TWO-CHANNELCAPACITIVELYDECOUPLED ARRAY"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Single loop</td><td>ICE-decoupled two loops</td><td>Capacitively decoupled two loops</td></tr><tr><td>S21unload (dB)</td><td>*</td><td>-29.4</td><td>-15.1</td></tr><tr><td>S21load (dB)</td><td>*</td><td>-27.5</td><td>-19.6</td></tr><tr><td>Qunload</td><td>110.1</td><td>123.5</td><td>82.3</td></tr><tr><td>Qload</td><td>40.1</td><td>54.6</td><td>42.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C.MRI Experiments ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All of the MRI experiments on the phantom and human head were performed on a whole-body MRI scanner（7T MAGNETOM， Siemens Healthcare，Erlangen，Germany). The human MRI experimental protocol was approved by the local Institutional Review Board (IRB).To demonstrate the decoupling performance of the ICE-decoupled coil, the image profiles and B1 maps of the water phantom in the transverse plane using the individual single elements (i.e.，without any other elements) and decoupled array elements (one element excited with other elements terminated with $5 0 \\Omega$ terminators) were compared.The cylindrical water phantom with an outer diameter of $1 6 ~ \\mathrm { c m }$ and a length of $3 7 \\ \\mathrm { c m }$ was placed at the center of the coil. The electromagnetic parameters of the water phantom were measured using a DAK-12 dielectric probe (Speag, Switzerland): conductivity $\\sigma ~ = ~ 0 . 5 9 ~ \\mathrm { s / m }$ ；relative permittivity $\\varepsilon _ { r } ~ = ~ 7 9$ . In this comparison,the experimental setup,including imaging sequence and parameters,was exactly the same. The sequence and parameters used for imaging acquisition are GRE, flip angle $\\mathbf { ( F A ) } = 1 5$ deg, $\\mathrm { T R } = 8 . 6 \\ : \\mathrm { m s }$ $\\mathrm { T E } = 4 ~ \\mathrm { m s }$ ， $\\mathrm { F O V } = \\mathrm { 2 8 0 \\times 2 8 0 ~ m m ^ { 2 } }$ ,matrix: $= 4 6 0 \\times 5 1 2$ slice thickness $\\mathbf { \\lambda } = \\mathrm { ~ 3 ~ m m }$ ，bandwidth $= ~ 2 6 0 ~ \\mathrm { H z / \\mathrm { f } }$ oixel,and phase encoding is in the y direction.The B1 map was measured with a Turbo FLASH method and scaled to angle [35]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Human head images using a hyper-echo TSE sequence were obtained using the ICE-decoupled array coil.The parameters of the hyper-echo TSE are $\\mathrm { F A } ~ = ~ 6 0 \\$ deg, $\\mathrm { T R } ~ = ~ 1 0 . 2 5 ~ \\mathrm { s }$ $\\mathrm { T E } = 6 4 ~ \\mathrm { m s }$ ， $\\mathrm { T A } = 2 . 5 5 \\mathrm { m i n } * 2$ ， $\\mathrm { F O V } = \\mathrm { 2 0 8 \\times 2 2 9 ~ m m ^ { 2 } }$ acceleration factor $= 3$ ,matrix $= 3 8 4 \\times 3 4 8$ ,slice thickness $\\ c =$ $3 ~ \\mathrm { m m }$ ， slice spacing $= 0 . 9 \\ \\mathrm { m m }$ ,bandwidth $= 3 6 2 ~ \\mathrm { H z } /$ pixel, and phase encoding is in the $\\mathbf { x }$ direction.To further evaluate the performance of the coil array for human head imaging,combined GRE images and sub-images from each coil element in transverse and sagittal planes were obtained. Imaging parameters used are $\\mathrm { F A } ~ = ~ 2 5$ deg， $\\mathrm { T R } ~ = ~ 1 2 0 ~ \\mathrm { m s }$ ， $\\mathrm { T E } ~ = ~ 6 ~ \\mathrm { m s }$ $\\mathrm { F O V = 2 5 0 \\times 2 5 0 m m ^ { 2 } }$ , matrix $= 2 5 6 \\times 2 5 6$ , slice thickness $\\ c =$ $\\mathrm { 5 ~ m m }$ ,bandwidth $= 2 6 0 ~ \\mathrm { H z / } .$ pixel.Combined GREimageof the capacitively decoupled array in the transverse plane with the same sequence and parameters was shown for signal-to noise(SNR) comparison.The SNR was determined by a previously reported method[1],where signals were measured from a square of $2 0 \\times 2 0$ pixels in each of the five positions at the center and periphery of the images.To demonstrate their parallel imaging capabilities, $\\mathrm { g }$ -factor maps and average g-factors in the sagittal plane with reduction factors of 2,3,and 4 using GRAPPA were also shown for both arrays.The $\\mathrm { g }$ -factor maps and average $\\mathrm { g }$ -factors were calculated using an RF coil array design and analysis software Musaik(Speag,Switzerland).Before human head imaging, we performed safety test for the coils in MRI experiments and measured the temperature of a $6 . 5 ~ \\mathrm { k g }$ portion of pork for an hour using an Opsens fiber-optic thermometer(Quebec, Canada).With the sequences we used in the paper, the temperature of the pork meat waskept stable between $1 9 . 2 ^ { \\circ }$ to $1 9 . 4 ^ { \\circ }$ at all selected points,which is slightly lower than room temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III.RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A．Bench Tests ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table Ilists the $\\mathbf { s } _ { 2 1 }$ parameters and Q values that were measured from a single loop,a two-channel ICE-decoupled array and a two-channel capacitively decoupled array.Isolation of the ICE-decoupled array was better than $- 2 5 { \\mathrm { ~ d B } }$ for both the unloaded and loaded conditions (water phantom was placed $4 \\mathrm { c m }$ below the array),whereas the isolation of the capacitively decoupled array was dependent on sample-element distance,about $- 2 0$ dB with loading and $- 1 5$ dB without loading. The limited unloaded isolation of the capacitively decoupled array also causes a reduction in $Q _ { U L }$ (from 110 to 82). The $Q _ { U L }$ of the ICE-decoupled array was even slightly better than that of the single loop,which is probablybecause of the shielding effect of the decoupling loop. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathbf { s } _ { 1 1 }$ and $\\mathbf { s } _ { 2 1 }$ matrices of the eight-channel ICE- decoupled arrayand capacitively decoupled array loaded with a human ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Element1 Element2 Element3 Element4 Element5 Element6 Element7 Element8 一 1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Element1 Element2 Element3 Element4 Element5 Element6 Element7 Element8   \n00ea0 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/27b71cfd1342944ba47553d87eabd24c81ebdbc19803fb04f3640b8057ce944d.jpg",
+        "img_caption": [
+            "Fig.5MRd $5 0 \\Omega$ terminators.GRE images were acquired using this transceiver array.Imaging parameters: $\\mathrm { F A } = 1 5$ deg, $\\mathrm { T R } = 8 . 6 \\ : \\mathrm { m s }$ $\\mathrm { T E } = 4$ ms, $\\mathrm { F O V } = 2 8 0 \\times 2 8 0 \\ : \\mathrm { m m ^ { 2 } }$ matrix $= 4 6 0 \\times 5 1 2$ ,slice thickness $= 3$ mm,bandwidth $= 2 6 0 ~ \\mathrm { H z } _ { I }$ pixel,phase encoding is in the y direction. ",
+            "Fig.7.Cmparsofasfalentsdopledmetsoisaofdalmedhois mapofdecouetssalaerbetagsdst betweenteato In other words,the coupling between other coil elements and the measured elements is sufficiently small. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "head were measured and results are shown in Fig.4.For the ICE-decoupled array, the average $Q _ { U L }$ and $Q _ { L }$ of a single element were 120 and 46, respectively. The measured reflection coefficients $\\left( \\mathbf { s } _ { 1 1 } \\right)$ ofall elements were better than $- 3 0$ dB.The transmission coefficient $\\mathbf { s } _ { 2 1 }$ between adjacent coil elements was better than $- 2 5$ dB.The isolation between two next adjacent coil elements was better than $- 1 7$ dB and the isolation between two opposite elements was better $- 2 0$ dB.For the conventional capacitively decoupled array, the average $Q _ { L }$ of a single element was 38. $Q _ { U L }$ could not be calculated because the resonance peak split with unloading.The transmission coefficient $\\mathbf { s } _ { 2 1 }$ between adjacent coil elements ranged from $- 1 5 . 2 ~ \\mathrm { d B }$ to $- 1 9 . 5$ dB because of the variations in the sample-element distance.The isolation between next adjacent coil elements was about -16 dB,and the isolation between two opposite elements was about $- 2 0$ dB. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The measured reflection coefficient $\\mathbf { s } _ { 1 1 }$ of the entire coil loaded with a human head was approximately $- 2 2 . 7$ dB.The impendence of the entire coil did not deviate from $5 0 \\Omega$ because the coupling between the coil elements was sufficiently small. This indicates that less than $1 \\%$ of the power was reflected and the transmission efficiency of the entire coil was high. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.MRI Phantom Imaging ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figs.5 and 6 show water phantom images acquired from individual elements and decoupled array elements.Fig.7 shows the ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/16c3e4a63cbe88c39b0e760b014028655c5ebbb1c97b560a4aefb767bc3d4b3d.jpg",
+        "img_caption": [
+            "Fig.6.s setupincludittaaoto. ",
+            "Fig.8.A set of multiple slice transverse TSE images ofa human head acquired with the ICE-decoupled array at7T.Sequence parameters: $\\mathrm { F A } = 6 0$ deg,TR $\\ c =$ $1 0 2 5 0 ~ \\mathrm { m s }$ 0 $\\mathrm { T E } = 6 4 ~ \\mathrm { m s }$ = $\\mathrm { F O V } = 2 0 8 \\times 2 2 9 ~ \\mathrm { m m ^ { 2 } }$ ,acceleration factor $= 3$ matrix $= 3 8 4 \\times 3 4 8$ ，slice thickness $\\ l = \\mathrm { ~ 3 ~ m m }$ ,slice spacing $\\mathbf { \\omega } = \\mathbf { \\omega } 0 . 9 \\ \\mathbf { m m }$ bandwidth $= 3 6 2 ~ \\mathrm { H z } /$ pixel,and phase encoding is in the $\\mathbf { x }$ direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B1 map comparison between individual elements and decoupled array elements.The image profiles and B1 maps show similar distribution patterns between the individual elements and decoupled array elements.This demonstrates that the influence of other coil elements on the measured element can be ignored. In other words, the coupling between other coil elements and the measured elements is sufficiently small.Destructive interference wave patterns can be observed in these images,which lead to the cancellation in the center of the phantom. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e6438bd62ab5af4d676c026c9adbf4b152faaee33d8389b643855f47acf2f67.jpg",
+        "img_caption": [
+            "Fig.9.HumanadGimagceditesaesighCE-opledy.(aobdGgendubiagecho element in the transverse plane with parameters: $\\mathrm { F A } = 2 5$ deg, $\\mathrm { T R } = 1 2 0 ~ \\mathrm { m s }$ $\\mathrm { T E } = 6$ ms, $\\mathrm { F O V = 2 5 0 \\times 2 5 0 ~ m m ^ { 2 } }$ ,matrix $= 2 5 6 \\times 2 5 6$ ,slice thickness $\\ c =$ （204号 $\\mathrm { 5 ~ m m }$ .(b)Intesityrgoa).dGadroctiiala (dIntesi atthet coil elements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C. Human Head Imaging, SNR and Parallel Imaging ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Multi-slice images of a human head from a healthy volunteer were acquired at 7T using a hyper-echo TSE sequence (acceleration factor $= 3$ )and the ICE-decoupled phased array, as shown in Fig.8.All of the images were reconstructed from raw data without any postprocessing. Individual GRE images from each coil element and their combinations with the SOS (sum of squares) method in transverse and sagittal planes are shown in Fig.9(a) and (c). Corresponding intensity corrected images are shown in Fig.9(b) and(d).These images indicate that the ICE decoupling technique is feasible in designing cylindrical volume transceiver arrays for human head imaging at the ultrahigh field of 7T.Enough coverage of this coil in the $\\mathbf { z }$ -direction allows a sufficient SNR to be attained in the cerebellum and temporal lobe. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.10 shows the comparison of the SNR of human head images for the ICE-decoupled array and the conventional capacitively decoupled array at7T.In the human head images acquired from these two coil arrays, the local SNR at four peripheral areas and the center of the brain were calculated and compared.Both arrays displayed a similar SNR pattern,with higher SNR at the peripheral areas of the brain due to a higher receive sensitivity in these regions.The measurement reveals that the ICE-decoupled array has an overall SNR gain of $13 \\%$ over the capacitively decoupled array.This gain might result from improved element decoupling and the shielding effect of the decoupling elements. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Accelerated parallel images of the human head using the ICEdecoupled array at reduction factors (R) of1 (no acceleration), 2,3,and 4 in the sagittal plane are shown in the top row of Fig.11.High quality images can be obtained even at an acceleration factor of 4 for this 8-element array,which indicates that the ICE-decoupled volume coil array possess excellent parallel imaging capability.G-factor maps of the ICE-decoupled array and capacitively decoupled array were obtained with different reduction factors of 2,3,and 4,which are displayed in the middle and bottom row ofFig.11,respectively.The average g-factors of the ICE-decoupled array at $\\mathrm { R } = 2$ ,3,and 4 were 1.03,1.04,and 1.14,respectively, whereas the average g-factors of the capacitively decoupled array at $\\mathrm { R } = 2 , 3$ ,and 4 were 1.03, 1.06,and 1.20,respectively. The $\\mathrm { g }$ -factors of the ICE-decoupled array were relatively lower (or better),especially at higher reduction factors,e.g., $\\mathrm { ~ R ~ } = \\mathrm { ~ 4 ~ }$ . This improvement can also be verified by the comparison of s-parameter matrices as described above.In parallel imaging, the SNR of accelerated images is inversely proportional to the $\\mathrm { g }$ -factor[8].Therefore,the results of the $\\mathrm { g }$ -factor measurements suggest that better quality accelerated images can be achieved by using the ICE-decoupled transceiver coil array over the conventional capacitively decoupled array. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c26daebc9f01d56aad308a05aefca4315ac3d99a505d53e4549a02b7f5cec00.jpg",
+        "img_caption": [
+            "Fig.10.Human head GRE images acquired using the ICE-decoupled array (left) and the capacitively decoupled array (right) with the local SNR marked in boldface numbers.In the SNR measurements,the signals were measured from a square of $2 0 \\times 2 0$ pixels in each of the five positions at the center and periphery of the images.The ICE-decoupled array had an overall SNR gain of $13 \\%$ compared with the capacitively decoupled array. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d76bb3614bdb473010216ef4aa04acfaab742f476ee8ac363e0806696b35aa19.jpg",
+        "img_caption": [
+            "Fig.11. GRE images of the ICE-decoupled array using acceleration factors ${ \\mathrm { R } } = 1$ (no acceleration), $\\mathrm { R } = 2 , \\mathrm { R } = 3$ ,and $\\mathrm { R } = 4$ in the sagittal plane (top row) and $\\mathrm { g }$ -factor maps of the ICE-decoupled arry (middle row)and the capacitively decoupled array (bottm row) for $\\mathrm { ~ R ~ } = \\mathrm { ~ 2 ~ }$ $\\mathrm { ~ R ~ } = 3$ ,and $\\mathrm { ~ R ~ } = 4$ in the sagittal plane. The average $\\mathrm { g }$ -factors of the ICE-decoupled array with $\\mathrm { R } = 2 ,$ 3 and 4 were 1.03,1.04,and 1.14,respectively. The average $\\mathrm { g }$ -factors of the conventional capacitively decoupled array with $\\mathrm { ~ R ~ } = \\mathrm { ~ 2 ~ }$ ,3,and 4 were1.03,1.06,1.20,respectively,which demonstrates beterparallel imagingcapabilityof theproposed ICE-decoupled array over the conventional capacitively decoupled array at 7T. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.DISCUSSION AND CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An eight-channel loop array for 7T human head imaging using induced current compensation decoupling (or magnetic wall)method was designed and the feasibility of this coil array has been validated through bench tests and MRI imaging experiments of both phantom and human subjects.Traditional loops with six distributed capacitors were placed between two adjacent coil elements as the decoupling elements. The resonance frequency of the decoupling loops $\\mathrm { ( \\sim ~ 3 7 0 ~ M H z }$ 0 is far from the proton Larmor frequency at 7T.Therefore,the influence of decoupling loops on MR signal excitation and detection at 7T is negligible. Coupling between two next adjacent coil elements and opposite elements was sufficiently small (better than $- 1 7$ dB and $- 2 0 \\mathrm { d B }$ ,respectively) even though no extra decoupling method was applied. The input impendence of this coil array at the input port of the power combiner was well matched to $5 0 \\Omega$ ,leading to less than $1 \\%$ power reflection during transmission. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Compared with the conventional capacitively decoupled array, the ICE-decoupled array shows better isolation between adjacent coil elements (Fig.4). The ICE-decoupled array also shows higher SNR than the capacitively decoupled array, with an overall gain of $13 \\%$ . This might be due to its better decoupling performance and the shielding effect of the decoupling elements.In addition, the ICE-decoupled array demonstrated improved parallel imaging capability that the average $\\mathrm { g }$ -factor of a human head in the sagittal plane was as low as 1.14 when the acceleration factorachieved4.Furthermore,the ICE decoupling method is not sensitive to the load.As such,decoupling loops do not need to be readjusted for different loads(in this work,waterphantom and human head) to achieve acceptable decoupling performance.Finally, the ICE-decoupled array is not physical connected between the decoupling loops and coil array elements,which will potentially provide a mechanically robust structure as flexible transceiver arrays. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For in vivo human experiments,preliminary human head images were acquired and demonstrated using this coil array at 7T. The SNR at the central area of the head can be further improved by manipulating the width of the decoupling loops and coil elements. From the parallel imaging results and $\\mathrm { g }$ -factor maps, no significant image reconstruction related noise amplifications were observed for parallel imaging with acceleration factors of 2,3,and 4.The ICE decoupling method has demonstrated its feasibility of designing large-sized volume-type transceiver arrays for human head parallel imaging at ultrahigh fields.Further studies are needed to analyze the size,shape,and position of decoupling loops to have an optimal sensitivity and image coverage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge the technical assistance provided by Y.Li,L. Shi,and Z.Li from the RF Group, IBP, CAS. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]J.T.Vaughan,M.Garwood,C.M.Collins,W.Liu,L.DelaBarre,G. Adriany,P.Andersen,H.Merkle,R.Goebel,M.B.Smith,and K. Ugurbil,“7T vs.4T: RF power, homogeneity,and signal-to-noise comparison in head images,\"Magn.Reson.Med.,vol.24,pp.24-30,2001. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] G.Adriany,P.F.Van de Moortele,F.Wiesinger, S. Moeller, J.P. Strupp,P.Andersen,C.Snyder,X.Zhang,W.Chen,K.P.Pruessmann, P.Boesiger, T.Vaughan,and K.Ugurbil,“Transmit and receive transmission line arrays for7 Tesla parallel imaging,”Magn.Reson.Med., vol.53,pp.434-45,Feb.2005. [3] T.Vaughan,L.DelaBarre,C. Snyder,J. Tian,C.Akgun,D.Shrivastava,W.Liu,C. Olson,G.Adriany, J. Strupp,P.Andersen,A. Gopinath,P.F.van de Moortele,M. Garwood,and K. Ugurbil,“9.4T human MRI: Preliminary results,” Magn.Reson.Med.,vol.56,pp. 1274-82,Dec.2006. [4] X.Zhang,K. Ugurbil,and W.Chen,“Microstrip RF surface coil design for extremely high-field MRI and spectroscopy,”Magn. Reson.Med., vol.46,pp.443-50,Sep.2001. [5] X.Zhang,K.Ugurbil,R. Sainati,and W.Chen,“An inverted-microstrip resonator for human head proton MR imaging at 7 tesla,” IEEE Trans.Biomed.Eng.,vol.52,no.3,pp.495-504,Mar.2005. [6]X.Zhang,X.H. Zhu,and W.Chen,“Higher-order harmonic transmission-line RF coil design for MR applications,”Magn.Reson. Med., vol. 53,pp.1234-9,May 2005. [7] D.K.Sodickson and W.J.Manning,“Simultaneous acquisition of spatial harmonics (SMASH):Fast imaging with radiofrequency coil arrays,”Magn.Reson.Med.,vol.38,pp.591-603,1997. [8]K.P.Pruessmann,M.Weiger,M.B. Scheidegger,and P.Boesiger, “SENSE: Sensitivity encoding for fast MRI,”Magn. Reson.Med., vol. 42,pp.952-962,1999. [9]M.A.Griswold,P.M.Jakob,R.M.Heidemann,M.Nittka,V.Jellus, J. Wang,B.Kiefer,and A. Haase,“Generalized autocalibrating partially parallel acquisitions (GRAPPA),”Magn.Reson.Med.,vol. 47, pp.1202-10,Jun.2002.   \n[10] Y.Pang,D.B.Vigneron,and X. Zhang,“Paralel traveling-wave MRI: A feasibility study,”Magn.Reson.Med.,vol.67,pp.965-78,Apr. 2012.   \n[11] B.Wu, C.Wang,D.A. Kelley,D. Xu,D.B. Vigneron, S.J. Nelson, and X.Zhang,“Shielded microstrip array for7T human MR imaging,\" IEEE Trans.Med.Imag.,vol.29,no.1,pp.179-84,Jan.2010.   \n[12] B.Wu, C.Wang,J.Lu, Y.Pang, S.J.Nelson,D.B.Vigneron,and X. Zhang,“Multi-channel microstrip transceiver arrays using harmonics for high field MR imaging in humans,”IEEE Trans.Med.Imag.,vol. 31, no.2,pp.183-91,Feb.2012.   \n[13]B.Wu,X. Zhang,C.Wang,Y.Li,Y.Pang,J.Lu,D.Xu, S.Majumdar, S.J.Nelson,and D.B.Vigneron,“Flexible transceiver array for ultrahigh field human MR imaging,”Magn.Reson. Med.,vol. 68,pp. 1332-8,Oct.2012.   \n[14] M.A. Ohliger,R.L.Greenman,R.Giaquinto,C.A.McKenzie,G. Wiggins,and D.K. Sodickson,“Concentric coil arrays for parallel MRI,Magn.Reson.Med.,vol.54,pp.1248-60,Nov.2005.   \n[15]P.B.Roemer,W.A.Edelstein,C.E.Hayes,S.P.Souza,and O.M. Mueller,“The NMR phased array,”Magn. Reson.Med.,vol.16, pp. 192-335,1990.   \n[16]N.I.Avdievich,“Transceiver-phased arrays for human brain studies at 7 T,\"Appl.Magn.Reson.,vol.41,pp.483-506,Dec.2011.   \n[17]B.Wu,X.Zhang,P.Qu,and G.X. Shen,“Design of an inductively decoupled microstrip array at 9.4 T,”J.Magn.Reson.,vol.182,pp. 126-32, Sep.2006.   \n[18] B.Wu,P.Qu,C.Wang,J. Yuan,and G.X. Shen,“InterconnectingL/C components for decoupling and its application to low-field open MRI array,” Concepts Magn. Reson. Part B: Magn. Reson. Eng.,vol. 31B, pp.116-126,2007.   \n[19] B.Wu,X. Zhang,P.Qu,and G.X. Shen,“Capacitively decoupled tunable loop microstrip (TLM) array at 7T,” Magn. Reson. Imag., vol. 25, pp.418-24,Apr. 2007.   \n[20] B.Wu,C.Wang,R.Krug,D.A.Kelley,D.Xu,Y.Pang,S.Banerjee, D.B.Vigneron,S.J.Nelson, S.Majumdar,and X. Zhang,“7T human spine imaging arrays with adjustable inductive decoupling,”IEEE Trans.Biomed.Eng.,vol.57,no.2,pp.397-403,Feb.2010.   \n[21] X.Chu,X.Yang,Y.Liu,J. Sabate,and Y.Zhu,“Ultra-low output impedanceRF poweramplifier forparallel excitation,”Magn.Reson. Med., vol. 61,pp.952-61,Apr.2009.   \n[22] C.Von Morze,J.Tropp,S.Banerjee,D.Xu,K.Karpodinis,L.Carvajal, C.P.Hess,P.Mukherjee,S.Majumdar,andD.B. Vigneron,“An eightchannel, nonoverlapping phased array coil with capacitive decoupling for parallel MRI at3T,\"Concepts Magn.Reson.PartB:Magn.Reson. Eng.,vol.31B,pp.37-43,2007.   \n[23] D.K. Sodickson,C.A.McKenzie,M.A. Ohliger,E.N.Yeh,and M. D.Price,“Recent advances in image reconstruction,coil sensitivity calibration,and coil array design for SMASHand generalized parallel MRI,”MAGMA,vol.13,pp.158-63,Jan.2002.   \n[24] Y.Li, Z. Xie,Y. Pang,D. Vigneron,and X. Zhang,“ICE decoupling technique forRF coil array designs,\"Med.Phys.,vol.38,p.4086,2011.   \n[25] M.A. Abou-Khousa,J.Gati,and R. Menon,“Magnetic walls for RF coil elements decoupling,”in Proc.2lth Sci.Meet.,Int. Soc.Magn. Reson.Med.,SaltLake City,UT,2013,p.0724.   \n[26] Z.Xie and X. Zhang,“A novel decoupling technique for non-overlapped microstrip array coil at 7T MR imaging,” in Proc.16th Sci. Meet.,Int. Soc.Magn.Reson.Med.,Toronto,Canada,20o8,p.1068.   \n[27] Z.Xie and X. Zhang,“An eigenvalue/eigenvector analysis of decoupling methods and its applicationat7TMR imaging,”in Proc.16th Sci. Meet.,Int.Soc.Magn. Reson. Med.,Toronto,Canada,2008,p.2972.   \n[28] Z.Xie and X. Zhang,“An 8-channel microstrip array coil for mouse parallel MR imaging at 7T by using magnetic wall decoupling technique,\"in Proc.16th Sci.Meet.,Int.Soc.Magn.Reson.Med.,Toronto, Canada,2008,p.2973.   \n[29] Z.Xie and X. Zhang,“An 8-channel non-overlapped spinal cord array coil for7TMR imaging,”inProc.16th Sci.Met.，Int.Soc.Magn. Reson.Med.,Toronto,Canada,2008,p.2974.   \n[30] R.G.Pinkerton,E.A.Barberi,and R.S.Menon,“Transceive surface coil array for magnetic resonance imaging of the human brain at 4 T,” Magn.Reson.Med.,vol.54,pp.499-503,Aug.2005.   \n[31] Z. Zuo,J.Park,Y.Li,Z.Li,X. Yan,Z. Zhang,Y. Zhuo,Z.H.Cho,X. J. Zhou,and R.Xue,“An Elliptical octagonal phased-array head coil for multi-channel transmission and reception at 7T,”in Proc.20th Sci. Meet.,Int. Soc.Magn.Reson.Med.,20i2,p.2804.   \n[32]M.Kozlov and R.Turner,“Influence of the position of decoupling capacitors on RF transmit performance for a 7T MRI loop array,”Proc. PIERS,pp.1323-1327,Mar.2012.   \n[33]H.Jeong,K.N.Kim,S.M.Hong,J.H.Park,M.K.Woo,Y.B.Kim, and Z.H. Cho,“Evaluation of capacitive and transformer decoupling methods using in non-overlapped array at 7.OT,”in Proc.21th Sci. Meet.,Int.Soc.Magn.Reson.Med.,SaltLake City,UT,2013,p.4351.   \n[34]M.Kozlov and R.Turner,“Fast MRI coil analysis based on 3-D electromagnetic and RF circuit co-simulation,”J.Magn.Reson.,vol.200, pp.147-52, Sep.2009.   \n[35] U.Klose,“Mapping of the RF magnetic field with a MR snapshot FLASH technique,”Med. Phys.,vol.19,pp.1099-1104,1992. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

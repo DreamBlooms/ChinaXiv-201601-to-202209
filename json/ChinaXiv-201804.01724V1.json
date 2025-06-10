@@ -1,0 +1,579 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201704130655 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白天骄,孙才志,赵良仕.人文因素对中国灰水经济生产率的影响.生态学报,2018,38(7);2536-2546.  \nBaiTJ,Sunoctiftea.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人文因素对中国灰水经济生产率的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白天骄}，孙才志1,2,\\*，赵良仕²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1辽宁师范大学城市与环境学院，大连116029  \n2辽宁师范大学海洋经济与可持续发展研究中心，大连116029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：促进水资源环境与经济的可持续发展,已成为当前我国亟待解决的问题。以灰水经济生产率为研究主体，将其定义为GDP 与灰水足迹之比,基于对我国31个省市(香港、澳门特别行政区和台湾省数据尚未统计)200—2014年灰水经济生产率区域特征和空间相关性的分析,利用空间 Durbin 模型对人文因素与灰水经济生产率的关系进行了研究。结果显示：（1)我国灰水经济生产率整体呈现上升趋势,东部地区显著高于中、西部,西部地区最低;(2)各省区灰水经济生产率在空间分布上存在显著正自相关性且空间集聚程度较高,近年来区域间的分化加剧;(3)从全国范围来看,提升产业结构优化度、城镇化水平及社会福利有利于本地灰水经济生产率增长,提高受教育程度和社会福利对邻近地区灰水经济生产率具有正向影响;(4)从各分区情况来看,提升民众受教育程度、产业结构优化度、城镇化水平和社会福利都对东部地区灰水经济生产率具有显著积极效用,城镇化建设的发展和社会福利水平的提高有利于西部地区灰水经济生产率增加;在间接效应结果中,东部民众受教育程度的提高,中部社区服务机构的减少,西部社会福利的改善都对相应邻近地区灰水经济生产率产生了显著正向影响;此外,各地需缩小城乡差距,提高农村地区GDP,促进经济与环境健康发展。提出了推动我国水环境与经济协调发展的建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：灰水经济生产率；人文因素;空间Durbin模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Influence of human factors on the economic productivity of grey water in China BAI Tianjiao1,SUN Caizhi1,2,\\* ,ZHAO Liangshi² ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Urban and Environment,Liaoning Normal University,Dalian 116029,China   \n2Centerfor StudiesofMarineEconomyandSustainableDevelopment,LiaoningNormalUniversity，Dalian16O29,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Thereisanurgentneed for solutions toenable the sustainable development of the waterresource environmentand economyin China.The present study investigated the economic productivityof grey water（EPGW），which was defined as theratio of grossdomestic product togrey water footprint.Basedonananalysisof regional characteristicsand spatial correlationof the EPGWinthe31 provinces，citiesandautonomousregions in China（thedataof Hongkongand Macao special administrative regions and Taiwan Province have notbeen counted）from 2OOO to 2O14，weusedthespatial Durbin modelto examine the relationship between human factors andthe EPGW.We found thatthe EPGW in China increased over time and that the nationwide productivity increased from 19.85 yuan/ $\\mathbf { \\dot { m } } ^ { 3 }$ in 2000 to 107.93 yuan/ $\\mathbf { \\dot { m } } ^ { 3 }$ in 2014，and the 15- year average EPGW was 52.19 yuan/ $\\mathbf { \\dot { m } } ^ { 3 }$ . In the eastern region，the EPGW was significantly higher than that of the central and westernregionsand waslowest inthe westernregion.Thediference inaverage productivity，over15years，betweenthe eastern region and the central and western regions was $> 5 0$ yuan/ $\\mathbf { \\dot { m } } ^ { 3 }$ .From 200O to 2014，the EPGW in China exhibited a significantpositiveauto-corelationinregardstospatialdistribution，andthespatialaglomerationdegree was higherand notrandomlydistributed.Inrecentyears，however，interegionaldiferentiationintheEPGWhasintensified.Fromthe national perspective,theoptimizationofindustrial structure,urbanization,andsocial welfareareconducive tothegrowthof theEPGW inlocalregions.Therefore,improvingthelevelofeducationandsocialwelfare haspositivelyafectedthe EPGW inotherareas.Improving education，urbanization，social welfare，andthe proportionof tertiary industrycould positively impactthe EPGWof theeasternregion.And improving education could alsohaveasignificant positive impact onthe EPGW of theeastern region'souterarea.Reducing social welfare in thecentralregion has positively afected theEPGWof the adjoining and surrounding areas.The total effectcoefficient of urbanizationreached 4.8446 inthe westernregion，and improvigsocial welfare positivelyafected theEPGWof the westernregion'souterarea.Inaddition，variousregions need to reduce thedisparitybetween theEPGWof urbanandruralareas,，improve theGDPofrural areas，and promoteahealthy development in both economy and environment. On the basis of these observations，we propose various suggestions that could further promote the coordinated development of water environment and economy in China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:economic productivity of grey water；human factor； spatial Durbin model",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2014年我国GDP已超过 $1 0 ^ { 1 3 }$ 美元,作为世界第二大经济体,9个省区的人均水资源量低于 $5 0 0 \\mathrm { m } ^ { 3 }$ 极端缺水临界线,根据水利部《21世纪中国水供求》分析,到2030 年我国将缺水 $4 0 0 { \\ - } 5 0 0$ 亿 $\\mathbf { m } ^ { 3 }$ ,然而2014年我国污废水排放量已提升至 $7 1 6 . 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 [ 1 ] }$ ,仅北方17省水质较差和极差的监测井所占比重就已达到 $8 4 . 8 \\% ^ { [ 2 ] }$ 。粗放的经济增长模式导致水资源短缺和污染问题加剧,使水资源与经济发展的矛盾更加尖锐。因此,调整我国各地区水环境与其影响因素的关系,促进水资源环境与经济的可持续发展,成为当前亟待解决的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "灰水足迹作为将实体水资源消耗与水污染程度相联系的理念,能够以“稀释水”的形式量化水体污染程度,全面刻画水污染对水环境的影响[3-5]。“生产率\"表示国民经济产出与要素投入的比值。因此,本文将GDP 与灰水足迹之比（单位灰水足迹所对应的GDP)定义为灰水经济生产率并作为研究主体,分析协调水资源环境与经济发展的关系。灰水经济生产率属于环境效率的范畴,反映在经济建设中水资源利用方面的环境技术效率水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对生产率与其影响因素关系的研究中,空间 Durbin 模型被广泛应用[6-14],它不仅能探究影响因素与本地生产率的关系,也能够反映与邻域生产率的关联性,如:LeSage 等[6]应用空间 Durbin 模型衡量了知识资本对欧洲全要素生产率的直接和间接贡献,并对知识溢出的相对重要性进行了评估;Fischer 等[7]利用空间Durbin 模型研究了欧洲198个地区人力资本对劳动生产率变化的影响;Azorin 等[8]采用不同权重矩阵的空间Durbin 模型解释了人力资本和集聚经济变量与欧盟地区劳动生产率之间的关系;刘传江等[9]在分析碳生产率空间相关性的基础上,应用空间 Durbin 模型探究了外商直接投资对碳生产率的影响;程琳琳等[10]在对农业碳生产率进行测算的基础上,利用空间 Durbin 模型分析了对农村教育水平和农业开放程度等农业碳生产率的主要影响因素及空间效应;张浩然等[11]采用空间 Durbin 模型检验了基础设施及其空间外溢效应与全要素生产率的关系;胡威等[13]运用空间 Durbin 模型对环境规制、人口规模和产业结构等因素对碳生产率的影响展开了实证分析;赵良仕等[14]在综合考虑劳动力、资本等投入和产出(包括期望产出和非期望产出)的基础上,运用空间Durbin模型对水资源要素参与情况下的全要素生产率的空间溢出效应进行了研究。综观上述文献可知,目前缺乏利用空间Durbin 模型对灰水经济生产率及其影响因素的关系研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此,本文选取 2000—2014 年我国31个省市（全文尚不含我国香港、澳门特别行政区和台湾省统计数据)的面板数据作为研究对象,在探究灰水经济生产率区域特征和空间相关性的基础上,应用空间Durbin 模型能够反应溢出效应的优势,对各类人文因素与本地及其邻域灰水经济生产率的关系进行了研究。为通过人文因素改善水环境,提高水资源利用率,促进经济的可持续发展提供合理参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 灰水足迹测算 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "灰水足迹的概念由 Hoekstra 和Chapagain 于 2008 年首次提出[15],在《水足迹评价手册》中将其定义为以",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然本底浓度和现有的水质标准为基准,将一定的污染物负荷吸收同化所需的淡水体积[5]。本文采用文献[16]中的灰水足迹计算方法,对 2000—2014 年31个省市的灰水足迹进行测算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 农业灰水足迹",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取氮元素的值作为评价指标并采用面源污染公式进行计算。其公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G W F _ { a g r } = } \\frac { a { \\times } \\mathrm { A p p l } } { C _ { \\operatorname* { m a x } } - C _ { \\operatorname* { n a t } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { G W F _ { a g r } }$ 为农业灰水足迹( $\\mathbf { m } ^ { 3 } / \\mathbf { a } ^ { \\dagger }$ )’ $\\alpha$ 为氮肥进入单位水体的比例,变量Appl表示氮肥的使用量(kg/a），$C _ { \\mathrm { m a x } }$ 为污染物水质标准浓度( $\\vert \\mathbf { k g } / \\mathbf { m } ^ { 3 }$ ； $C _ { \\mathrm { n a t } }$ 为收纳水体的自然本底浓度( $\\vert \\mathbf { k g } / \\mathbf { m } ^ { 3 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 工业灰水足迹",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工业污水中关键的污染物为化学需氧量(COD)和氨氮( $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ ),因此选取以上两者作为指标计算工业灰水足迹。 C5",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G W F } _ { \\mathrm { i n d } ( i ) } = \\frac { L _ { \\mathrm { i n d } ( i ) } } { C _ { \\mathrm { m a x } } - C _ { \\mathrm { n a t } } } - W _ { \\mathrm { e d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { G W F } _ { \\mathrm { i n d } ( i ) }$ 表示以第 $i$ 类污染物为标准的工业灰水足迹( $\\mathbf { \\bar { m } } ^ { 3 } / \\mathbf { a } )$ ）， $\\mathcal { L } _ { \\mathrm { i n d } ( i ) } ^ { \\mathrm { ~ ~ } } \\mathrm { ~ , ~ }$ 表示工业第 $i$ 种污染物的排放负荷（ $\\mathrm { \\ k g / a } )$ ’ $\\mathrm { G W F _ { \\mathrm { i n d } } }$ 表示工业灰水足迹总量 $( \\mathbf { m } ^ { 3 } / \\mathbf { a } )$ ， $W _ { \\mathrm { e d } }$ 表示工业废水排放量 $( \\mathbf { m } ^ { 3 } / \\mathbf { a } )$ o",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 生活灰水足迹",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生活污水和工业污水同属点源污染,其关键污染物与工业污水相同,因此生活灰水足迹 $\\mathrm { G W F } _ { \\mathrm { d o m } ( i ) } \\left( \\mathrm { m } ^ { 3 } / \\mathrm { a } \\right)$ 的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 地区总灰水足迹",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将农业、工业和生活灰水足迹求和,可得总灰水足迹,其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，TGWF为总灰水足迹 $( \\mathrm { m } ^ { 3 } / \\mathrm { a } )$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 空间权重矩阵 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于本文以灰水经济生产率为研究主体,涉及经济和资源两个方面,需要将空间单元的距离和潜在的影响因素结合设定权重。因此,采用非对称的经济距离函数的空间权重矩阵,测试空间中一地对另一地的权重，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i j } = \\left\\{ \\left( { \\frac { 0 ( i = j ) } { \\mathrm { G D P } _ { i } } } \\right) ^ { 1 / 2 } \\times { \\frac { 1 } { d _ { i j } } } ( i \\neq j ) \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当省区 $i$ 和 $j$ 为同一省区时,空间权重 $\\boldsymbol { W } _ { i j }$ 用0表示,为不同省区时， $\\mathrm { G D P } _ { i }$ 和 $\\mathrm { G D P } _ { j }$ 分别表示省区 $i$ 和 $j$ 的CDP, $\\frac { \\mathrm { G D P } _ { i } } { \\mathrm { G D P } _ { j } }$ 表示省区 $i$ 对 $j$ 的经济权重， $d _ { i j }$ 为省区 $i$ 和省区 $j$ 重心点之间的距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 空间Durbin模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间Durbin 模型（Spatial Durbin Model）与空间滞后模型（SpatialLag Model）和空间误差模型（SpatialError Model)相比,同时考虑了因变量和自变量的空间滞后项,可以更全面的考察不同维度因素对因变量的影响。本文参考赵良仕等[14 的研究,应用以下公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\rho W y + X \\beta + W X \\theta + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $y$ 为灰水经济生产率 $( \\overrightarrow { \\pi } / \\mathrm { m } ^ { 3 }$ ）； $W$ 为空间权重矩阵； $X$ 为影响因素， $\\boldsymbol { W } \\boldsymbol { X }$ 为其滞后项; $\\boldsymbol { \\varepsilon }$ 为随机扰动项。当模型引入空间权重矩阵后,应考虑其空间效应,LeSage 等[17]提出直接效应和间接效应分别表示影响因素对本地和邻域被解释变量的平均影响,总效应为直接效应和间接效应之和,表示影响因素对所有地区的平均影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此将式(8)表达为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( I _ { \\scriptscriptstyle n } - \\rho W \\right) y = X \\beta + W X \\theta + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(9)两边乘以 $\\left( I _ { n } - \\rho W \\right) ^ { - 1 }$ ,展开记为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\sum _ { r = 1 } ^ { k } S _ { r } ( W ) x _ { r } + V ( W ) \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { r } ( \\ W ) = V ( \\ W ) \\left( \\ I _ { n } \\beta _ { r } + W \\theta _ { r } \\right) , V ( \\ W ) = \\left( \\ I _ { n } { - } \\rho W \\right) ^ { - 1 }$ ,展开后得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} { ( \\begin{array} { l } { y _ { 1 } } \\\\ { y _ { 2 } } \\\\ { \\vdots } \\\\ { y _ { n } } \\end{array} ) } = { \\sum _ { r = 1 } ^ { k } } { ( S _ { r } ( \\boldsymbol { W } ) _ { 2 1 } S _ { r } ( \\boldsymbol { W } ) _ { 2 2 } \\ldots S _ { r } ( \\boldsymbol { W } ) _ { 2 n } ) } { ( { \\boldsymbol { x } } _ { 2 r } } \\\\ { \\vdots } \\\\ { S _ { r } ( \\boldsymbol { W } ) _ { n 1 } S _ { r } ( \\boldsymbol { W } ) _ { n 2 } \\ldots S _ { r } ( \\boldsymbol { W } ) _ { \\mathit { n n } } } \\end{array} )  { ( { \\boldsymbol { x } } _ { n r } ) } + { \\sqrt { ( \\boldsymbol { W } ) \\sigma } } _ { \\widehat { ( \\boldsymbol { \\bigtriangledown } ) } } ^ { \\widehat { ( \\boldsymbol { \\bigtriangledown } ) } } { ( \\widehat { \\boldsymbol { \\bigtriangledown } ) } _ { \\widehat { ( \\boldsymbol { \\bigtriangledown } ) } } ^ { \\mathrm { { O } } } } ^ { \\mathrm { { O } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由式（11），因变量 $y$ 对自变量 $X$ 求偏导可认为自变量 $X$ 对因变量造成的影响，得到：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M ( r ) _ { \\overset { u ^ { * } } { \\underset { \\mathrm { E u } } { \\vdots } } \\overset { u ^ { * } } { \\underset { \\mathrm { A U } } { \\vdots } } } = n ^ { - 1 } { I _ { n } } ^ { - 1 } S _ { r } ( \\ W ) I _ { n } } \\\\ { M ( r ) _ { \\overset { u ^ { * } } { \\underset { \\mathrm { E u } } { \\vdots } } \\overset { u ^ { * } } { \\underset { \\mathrm { B U } } { \\vdots } } \\overset { u ^ { * } } { \\underset { \\mathrm { B U } } { \\vdots } } } = n ^ { - 1 } t r ( S _ { r } ( \\ W ) ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { I n } = \\left( \\begin{array} { l l l } { 1 } & { \\ldots } & { 1 } \\end{array} \\right) _ { 1 \\times n } ^ { T }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2变量和数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文应用课题组关于灰水足迹的计算方法[16],对 2000—2014 年中国省际灰水足迹进行测算,并以各省区不变价GDP与同期灰水足迹之比表示灰水经济生产率（EPGW）,在模型中取自然对数值（InEPGW）。将灰水经济生产率作为被解释变量的同时，设定了如下解释变量：(1)人口发展水平 $( P D )$ ,选取人口密度即各地区每平方公里人口数表示[18-20]；（2)受教育程度(EDU）,由各地区大专及以上人口在总人口中所占比重表示[21]；(3)产业结构优化度(OIS),选用第三产业固定资产投资额占GDP 的比重来衡量[22];（4)城镇化水平（URB),以各省区城镇建成区面积占总面积的比重表示[23]；（5）城乡差距（URG),由城乡居民人均可支配收入的差值表示[24];(6)社会福利(SW),以每万人社区服务机构数表示,由于地区数值差距较大,在模型中取自然对数值（lnSW）。以上变量的描述性统计如表1所示。所需数据主要来自《中国统计年鉴》[1]和国家统计局网站。 K 1",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e1d8233f849cfdb8582216940bf15c230354c3020087940a8c78edc84ecedea.jpg",
+        "table_caption": [
+            "表1变量的描述性统计",
+            "Table1 Descriptive statistics of the variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量Variable</td><td>单位 Unit</td><td>观测值 Obs</td><td>均值 Mean</td><td>标准差 Std. Dev.</td><td>最小值 Min</td><td>最大值 Max</td></tr><tr><td>lnEPGW：灰水经济生产率Economic productivityof greywater</td><td>1</td><td>465</td><td>3.6804</td><td>1.0951</td><td>0.4706</td><td>7.2231</td></tr><tr><td>PD：人口发展水平Populationdevelopmentlevel</td><td>人/km²</td><td>465</td><td>384.7136</td><td>515.1196</td><td>2.1003</td><td>3726.1270</td></tr><tr><td>EDU:受教育程度 Education level</td><td>%</td><td>465</td><td>7.6434</td><td>5.4702</td><td>0.7203</td><td>39.4566</td></tr><tr><td>OIS:产业结构优化度 Optimization of industrial structure</td><td>%</td><td>465</td><td>44.1063</td><td>10.2803</td><td>31.5113</td><td>77.9484</td></tr><tr><td>URB：城镇化水平Urbanization level</td><td>%</td><td>465</td><td>1.4645</td><td>2.6599</td><td>0.0256</td><td>15.8532</td></tr><tr><td>URG:城乡差距 Urban-rural gap</td><td>万元</td><td>465</td><td>0.9355</td><td>0.4674</td><td>0.2765</td><td>2.9665</td></tr><tr><td>lnSW :社会福利 Social welfare</td><td>二</td><td>465</td><td>9.3609</td><td>1.6212</td><td>3.3673</td><td>11.9144</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农业部门的氮肥淋失率采用全国平均氮肥淋失率 $7 \\% ^ { [ 2 5 ] }$ ,氮肥施用量选自《新中国五十年农业统计资料》和《中国环境统计年鉴》,畜禽饲养数量来源于《中国统计年鉴》和《中国农村统计年鉴》,饲养周期、日排泄量、单位排泄物中COD 和总氮的含量、单位排泄物中污染物进入水体的流失率取自《全国规模化畜禽养殖业污染情况调查技术报告》;工业和生活污水和污染物排放量来源于《中国环境统计年鉴》。本文假设受纳水体的自然本底浓度 $C _ { \\mathrm { n a t } }$ 为 $0 ^ { [ 5 ] }$ ,污染物浓度达标排放标准采用《污染物综合排放标准》（GB8978—1996)中的一级排放标准,其中COD 和氮的达标排放浓度分别为 $6 0 \\mathrm { m g / L }$ 和 $1 5 \\mathrm { m g / L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为深入分析变量对灰水经济生产率的影响的地区差异,本文参照我国根据各地区经济、科技的发展水平和土地、水资源等自然条件划分的三大经济带对数据分组：东部地区(北京、天津、河北、辽宁、上海、江苏、浙江、福建、山东、广东、海南),中部地区(山西、内蒙古、吉林、黑龙江、安徽、江西、河南、湖北、湖南)和西部地区（广西、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3灰水经济生产率区域特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知,各省区灰水经济生产率均呈现逐年上升趋势,全国灰水经济生产率由 2000 年的19.85元 $\\mathbf { \\dot { m } } ^ { 3 }$ 增至 2014年的107.93元 $' \\mathrm { m } ^ { 3 }$ ， $1 5 \\mathrm { a }$ 均值为52.19元/ $\\mathbf { \\dot { m } } ^ { 3 }$ 。其中,上海的灰水经济生产率最高且涨幅最大,其次为北京，15a 均值都高于250 元 $' _ { \\mathrm { { m } } ^ { 3 } }$ ,两地在经济技术、社会管理等多方面与其他地区相比都存在显著优势,且侧重发展第二、三产业,使其具有较高的GDP 和较少的灰水足迹,两市灰水经济生产率在15a间也一直远高于其他地区。西藏作为社会经济处在初级发展阶段的地区,GDP 最低而灰水足迹较高,其灰水经济生产率一直为全国最低值,均值仅为3.91元 $\\mathrm { ~ m } ^ { 3 }$ 。 j",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/032dc05527fce1554f895aa509795cff67078ab58883c672c28e661e6b774673.jpg",
+        "table_caption": [
+            "表22000一2014年我国31个省市（自治区)灰水经济生产率/（元/m）"
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td>Table2</td><td colspan=\"8\">The economic productivityof grey waterof the 31 provinces，cities and autonomous regions in China from 20o0 to 2014</td></tr><tr><td>地区Region</td><td>2000年</td><td>2002年</td><td>2004年</td><td>2006年</td><td>2008年 2010年</td><td>2012年</td><td>2014年</td><td></td><td>均值Mean</td></tr><tr><td>北京</td><td>73.13</td><td>100.85</td><td>147.88</td><td>244.43</td><td>366.34</td><td>603.57</td><td>861.69</td><td>1007.77</td><td>287.26</td></tr><tr><td>天津</td><td>44.67</td><td>81.53</td><td>81.88</td><td>105.51</td><td>171.26</td><td>235.67</td><td>300.63</td><td>501.40</td><td>174.51</td></tr><tr><td>河北</td><td>17.59</td><td>21.71</td><td>25.64</td><td>31.19</td><td>51.13</td><td>68.73</td><td>84.64</td><td>112.76</td><td>46.66</td></tr><tr><td>山西</td><td>18.92</td><td>23.54</td><td>27.61</td><td>33.99</td><td>52.54</td><td>67.18</td><td>88.28</td><td>114.97</td><td>48.72</td></tr><tr><td>内蒙古</td><td>12.42</td><td>15.67</td><td>16.80</td><td>21.27</td><td>30.19</td><td>40.90</td><td>53.86</td><td>63.95</td><td>33.45</td></tr><tr><td>辽宁</td><td>26.41</td><td>34.45</td><td>43.70</td><td>47.54</td><td>66.04</td><td>85.34</td><td>108.61</td><td>148.77</td><td>67.67</td></tr><tr><td>吉林</td><td>11.06</td><td>14.88</td><td>15.95</td><td>19.83</td><td>31.09</td><td>40.69</td><td>53.15</td><td>70.21</td><td>30.36</td></tr><tr><td>黑龙江</td><td>20.21</td><td>24.01</td><td>28.17</td><td>34.69</td><td>44.53</td><td>55.01</td><td>68.51</td><td>82.96</td><td>44.50</td></tr><tr><td>上海</td><td>94.65</td><td>114.71</td><td>197.81</td><td>249.00</td><td>369.51</td><td>718.84</td><td>1370.69</td><td>1155.77</td><td>331.38</td></tr><tr><td>江苏</td><td>43.11</td><td>49.39</td><td>62.28</td><td>78.98</td><td>111.99</td><td>150.19</td><td>196.77</td><td>245.58</td><td>110.12</td></tr><tr><td>浙江</td><td>46.97</td><td>63.57</td><td>86.92</td><td>111.56</td><td>156.67</td><td>219.51</td><td>275.28</td><td>300.53</td><td>144.82</td></tr><tr><td>安徽</td><td>16.17</td><td>19.11</td><td>25.09</td><td>34.24</td><td>50.73</td><td>67.06</td><td>85.97</td><td>98.40</td><td>46.54</td></tr><tr><td>福建</td><td>42.60</td><td>56.90</td><td>64.74</td><td>80.34</td><td>115.66</td><td>148.35</td><td>178.57</td><td>206.78</td><td>110.72</td></tr><tr><td>江西</td><td>15.71</td><td>19.26</td><td>22.89</td><td>28.65</td><td>41.22</td><td>52.56</td><td>66.68</td><td>74.71</td><td>39.51</td></tr><tr><td>山东</td><td>21.82</td><td>28.21</td><td>38.34</td><td></td><td>86.47</td><td>117.84</td><td></td><td></td><td></td></tr><tr><td>河南</td><td>12.78</td><td>15.30</td><td></td><td>54.15</td><td></td><td></td><td>146.13</td><td>188.44</td><td>73.74</td></tr><tr><td>湖北</td><td>19.25</td><td></td><td>18.81</td><td>23.12</td><td>36.15</td><td>45.98</td><td>59.37</td><td>73.12</td><td>33.61</td></tr><tr><td>湖南</td><td>15.65</td><td>23.48</td><td>28.49</td><td>35.95</td><td>49.83</td><td>64.34</td><td>83.51</td><td>100.55</td><td>49.69</td></tr><tr><td>广东</td><td>39.44</td><td>17.44</td><td>19.30</td><td>22.97</td><td>33.76</td><td>45.57</td><td>58.88</td><td>77.10</td><td>34.96</td></tr><tr><td>广西</td><td>7.46</td><td>48.72</td><td>66.44</td><td>83.60</td><td>121.05</td><td>164.00</td><td>198.18</td><td>203.86</td><td>108.60</td></tr><tr><td>海南</td><td>14.38</td><td>10.11</td><td>11.66</td><td>13.85</td><td>21.99</td><td>28.97</td><td>37.40</td><td>56.20</td><td>21.63</td></tr><tr><td>重庆</td><td>19.07</td><td>18.82</td><td>19.48</td><td>23.48 35.57</td><td>33.95</td><td>43.93</td><td>52.55</td><td>63.29</td><td>33.40</td></tr><tr><td>四川</td><td>11.30</td><td>23.72 13.67</td><td>28.08 17.41</td><td>22.30</td><td>53.55 31.28</td><td>68.69 41.61</td><td>90.15 56.36</td><td>106.37 69.55</td><td>52.70</td></tr><tr><td>贵州</td><td>7.31</td><td>8.53</td><td>9.71</td><td>11.33</td><td>17.78</td><td>22.22</td><td>31.05</td><td>35.71</td><td>31.67 17.25</td></tr><tr><td>云南</td><td>10.99</td><td>13.07</td><td>15.25</td><td>17.97</td><td>23.75</td><td>28.92</td><td>36.75</td><td>38.75</td><td>23.49</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcad337faa57ba2b908195220aa2db2fe3bd6f54b178678c41c17d5744cff448.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [
+            "表中数据为我国31个省市的统计数据(香港、澳门特别行政区和台湾省数据尚未统计)"
+        ],
+        "table_body": "<html><body><table><tr><td>地区Region</td><td>2000年</td><td>2002年</td><td>2004年</td><td>2006年</td><td>2008年</td><td>2010年</td><td>2012年</td><td>2014年</td><td>均值Mean</td></tr><tr><td>西藏</td><td>1.60</td><td>2.01</td><td>2.39</td><td>2.93</td><td>3.69</td><td>4.80</td><td>6.20</td><td>7.69</td><td>3.91</td></tr><tr><td>陕西</td><td>13.73</td><td>16.39</td><td>18.89</td><td>22.99</td><td>36.23</td><td>47.83</td><td>61.57</td><td>75.48</td><td>35.11</td></tr><tr><td>甘肃</td><td>12.96</td><td>14.45</td><td>16.64</td><td>18.38</td><td>23.60</td><td>28.85</td><td>37.20</td><td>39.41</td><td>24.23</td></tr><tr><td>青海</td><td>4.81</td><td>5.78</td><td>7.56</td><td>8.55</td><td>9.97</td><td>12.34</td><td>16.67</td><td>19.33</td><td>10.72</td></tr><tr><td>宁夏</td><td>6.31</td><td>10.18</td><td>14.88</td><td>12.17</td><td>16.91</td><td>22.56</td><td>29.29</td><td>33.19</td><td>17.59</td></tr><tr><td>新疆 东部</td><td>12.80</td><td>14.14</td><td>14.55</td><td>15.72</td><td>23.53</td><td>27.34</td><td>30.95</td><td>36.08</td><td>22.46</td></tr><tr><td>Eastern region</td><td>33.21</td><td>42.31</td><td>54.54</td><td>69.01</td><td>103.41</td><td>139.23</td><td>173.47</td><td>212.90</td><td>95.29</td></tr><tr><td>中部 Central region</td><td>15.49</td><td>18.68</td><td>21.97</td><td>27.25</td><td>39.83</td><td>51.67</td><td>66.69</td><td>81.63</td><td>39.15</td></tr><tr><td>西部 Western region</td><td>10.19</td><td>12.45</td><td>14.76</td><td>17.53</td><td>25.30</td><td>32.54</td><td>42.48</td><td>51.25 J</td><td>25.36</td></tr><tr><td></td><td>19.85</td><td>24.63</td><td>30.18</td><td>37.31</td><td>54.61</td><td>70.77</td><td>89.32</td><td>107.93</td><td>52.19</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，东部地区灰水经济生产率显著高于中、西部地区，西部最低，中、西部15a平均灰水经济生产率与东部的差距已大于50 元 $' _ { \\mathbf { m } ^ { 3 } }$ 。这表明东部地区在经济发展的同时，兼顾对水资源的保护和可持续利用。2000一2006年全国及各分区灰水经济生产率变动趋势平稳，提升较少,2007年后开始较快增长。2007年国务院节能减排工作领导小组的成立和排污单位需持证排污的政策促进了社会各界加大节能减排工作力度，推动了水污染治理的开展。与东部相比中 西部地区增幅较缓，区域间差距逐年增大。由原始数据可知，3个分区 $1 5 \\mathrm { a }$ 的GDP增幅都约为 $4 . 2 0 \\%$ ,东部地区的灰水足迹降幅达到 $3 1 . 3 3 \\%$ ,中部仅为 $9 . 5 1 \\%$ ,西部却增加了$0 . 8 1 \\%$ 。因此,减小区域差距，推动中、西部灰水经济生产率提升的重点在于提高水资源利用率，减少水污染，降低灰水足迹。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/355a8873c658ad97dd992c33f0ae8d259fc784512ef7ecca048d171ac770ed7b.jpg",
+        "img_caption": [
+            "图12000—2014年灰水经济生产率省际均值变化Fig.1The change trend of the grey water economic productivitymean of the China's overall,eastern,central and western regionsfrom 2000 to 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图中数据为我国31个省市的统计数据(香港、澳门特别行政区和台湾省数据尚未统计)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4实证结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1空间自相关检验结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如表3所示,2000—2014年中国省际灰水经济生产率的全局 Moran'sI指数均为正,最高值出现于 2002年,为0.1373,最低值在2012年为0.0382,所有时间范围的结果都在 $1 \\%$ 水平下显著,表明中国灰水经济生产率在空间分布上存在显著的正自相关性且空间集聚程度较高,即灰水经济生产率具有相似属性和特征的区域相邻或集聚,并非随机分布。因此,有理由认为空间分布因素可以通过空间溢出效应对灰水经济生产率产生影响。但全局 Moran'sI指数并不能确切指出区域内部的空间集聚状况,因此下文对局部自相关性进行了分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图2所示,2000 年,灰水经济生产率高高集聚区集中于东部沿海,自北向南依次为天津、江苏、上海和浙江;高低集聚区都存在于东部省区分别为辽宁、北京、福建和广州;中部的山西和安徽属于低高集聚区;其他省市皆为低低集聚区。与2000 年相比,2014年辽宁由高低集聚区转变为低高集聚区,北京由高低集聚区转变为高高集聚区,中部的内蒙古成为低高集聚区。由此可知,区域内灰水经济生产率差距正在逐渐缩小,区域间的分化现象加剧,低低集聚区比重大,社会经济发达的东部集聚类型较为多样化,中部地区灰水经济生产率水平有所提高，而西部地区经济技术发展缓慢，所有省区皆为低低集聚区。以上分析表明我国各省区灰水经济生产率具有空间关联性,并需要考虑空间溢出效应,所以采用空间Durbin 模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/526845e87f2ce5010ad3ace6d3645ed43a917e4ef9839d2c32e442c29a7281c9.jpg",
+        "table_caption": [
+            "表3我国省域灰水经济生产率全局Moran'sI检验结果",
+            "Table 3The global Moran'sItestresultsofprovincial economy productivityof greywaterin China from2o to 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份Year</td><td>Moran's I</td><td>Z</td><td>P</td><td>年份Year</td><td>Moran's I</td><td>Z</td><td>D</td></tr><tr><td>2000</td><td>0.1149</td><td>3.8603</td><td>0.0001</td><td>2008</td><td>0.0999</td><td>3.4742</td><td>0.0003</td></tr><tr><td>2001</td><td>0.1344</td><td>4.3687</td><td>0.0000</td><td>2009</td><td>0.0809</td><td>2.9806</td><td>0.0014</td></tr><tr><td>2002</td><td>0.1373</td><td>4.4425</td><td>0.0000</td><td>2010</td><td>0.0688</td><td>2.6645</td><td>0.0039</td></tr><tr><td>2003</td><td>0.1261</td><td>4.1527</td><td>0.0000</td><td>2011</td><td>0.0619</td><td>2.4869</td><td>0.0064</td></tr><tr><td>2004</td><td>0.0998</td><td>3.4714</td><td>0.0003</td><td>2012</td><td>0.0382</td><td>1.8713</td><td>0.0307</td></tr><tr><td>2005</td><td>0.1024</td><td>3.5373</td><td>0.0002</td><td>2013</td><td>0.0922</td><td>3.2730</td><td>0.0005</td></tr><tr><td>2006</td><td>0.0936</td><td>3.3091</td><td>0.0005</td><td>2014</td><td>0.0816</td><td>2.9979</td><td>0.0014</td></tr><tr><td>2007</td><td>0.1015</td><td>3.5148</td><td>0.0002</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/02a09a8be92150b7cbb479e26e32b5b737828312f2b0056acc28b7c5926ae1cd.jpg",
+        "img_caption": [
+            "图2我国31个省市灰水经济生产率空间分布",
+            "Fig.2LISA map of the economic productivity of grey water in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2实证分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经LM 检验发现各地区除空间固定效应模型外,时空均不固定、时间固定和时空固定效应模型均未通过检验,因此只在表4中列出各地区空间固定效应模型检验结果。由表可知,各地区空间固定形式下的空间滞后效应结果均比空间误差效应结果更显著。通过LR检验结果得知空间固定和时间固定效应都存在较强的显著性,表明可以选取空间固定效应的空间 Durbin 模型进行回归。随后对空间固定形式下的空间Durbin 模型进行模拟,在此基础上的Wald 检验和LR检验结果均在 $1 \\%$ 水平下显著，表明模型不能简化为空间滞后模型或空间误差模型。所以本文选取空间固定效应的空间Durbin模型进行回归,由回归结果可知,全国和各分区的 $R ^ { 2 }$ 值均大于0.99,似然比均大于150,4个模型都具有良好的解释能力和回归效果。但由于这些回归系数不能很好地解释灰水经济生产率在地区间的流动效应,因此,需要对直接效应、间接效应和总效应结果进行分析(表5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a417a313fbbaf639cf9a3d54dce9532f6add194169a00df5cfaa11103ab73c4.jpg",
+        "table_caption": [
+            "表4空间固定效应检验结果",
+            "Table 4 Spatial Fixed Effects "
+        ],
+        "table_footnote": [
+            "\\*、 $\\ast *$ 和 $* * *$ 分别表示 $1 0 \\%$ $5 \\%$ 和 $1 \\%$ 的显著水平"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">检验 Test</td><td rowspan=\"2\">31个省市 31 provinces,cities</td><td rowspan=\"2\">东部地区</td><td rowspan=\"2\">中部地区 Central region</td><td rowspan=\"2\">西部地区 Western region</td></tr><tr><td>Eastern region</td></tr><tr><td>LM 滞后检验LM-Lag Test</td><td>313.7894(0.000）***</td><td>69.8496(0.000） ***</td><td>99.1783(0.000） ***</td><td>70.8209(0.000)</td></tr><tr><td>稳健LM 滞后检验 Robust LM-Lag Test</td><td>192.7290(0.000） ***</td><td>73.6387(0.000） ***</td><td>26.2737(0.000）***</td><td>39.9878(0.000)</td></tr><tr><td>LM 误差检验LM-Error Test</td><td>151.1461(0.000）***13.6478(0.004）***</td><td></td><td>90.5281(0.000） ***</td><td>30.8430(0.000） **</td></tr><tr><td>稳健 LM 误差检验 Robust LM-Error Test</td><td>30.0857（0.000） ***</td><td>7.4368(0.006） ***</td><td>17.6236(0.000） ***</td><td>9.0099(0.015） **</td></tr><tr><td>空间 LR 检验 LR test for spatial</td><td></td><td></td><td>1413.4754(0.0000）*** 297.8215(0.0000） ***343.8444（0.0000）***</td><td>364.5448（0.0000） ***</td></tr><tr><td>时间LR 检验 LR test for time period</td><td></td><td>385.7273（0.0000）*** 161.5245(0.0000）***192.7085(0.0000)</td><td></td><td>114.1386(0.0000） ***</td></tr><tr><td>Wald 空间滞后检验 Wald test for spatial lag</td><td></td><td>95.5074(0.0000） ***79.5037(0.0000） ***</td><td>17.5179(0.0076) *</td><td>122.4508（0.0000） ***</td></tr><tr><td>LR 空间滞后检验LR test for spatial lag</td><td></td><td>74.4016(0.0000）*** 54.0445(0.0000） ***</td><td>16.6342(0.0107)</td><td>82.7333(0.0000） ***</td></tr><tr><td>Wald 空间误差检验 Wald test for spatial error</td><td></td><td>96.8900(0.0000）***72.0940(0.0000）***</td><td>23.0244（0.0000） ***</td><td>89.9049（0.0000）***</td></tr><tr><td>LR 空间误差检验LR test for spatial error</td><td>82.8642（0.0000） ***</td><td>54.0084（0.0000） ***</td><td>22.8880(0.0000） **</td><td>75.8400(0.0000） *</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以下内容都如表5所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在人口密度的总效应和间接效应结果中,全国范围和东部地区都显著为负,中、西部各类效应结果都不显著。这表明随着人口增长和社会经济发展,制造业吸引大量人口向东部及其他较发达地区迁移,人口密度增大对经济发展具有正向带动作用,然而超额利用水资源承载过量人口,也增加了水环境负担和水污染治理难度,不利于水环境和经济的可持续发展,对东部邻近地区灰水经济生产率造成显著负向影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "受教育程度的提升对东部本地灰水经济生产率存在显著积极影响,而在西部则具有显著的负向相关性。这说明东部地区民众教育水平的提高能够有效推动本地治污技术的革新和环境规制的执行。虽然西部地区高等教育人口比重逐年增加,但受人口流动影响,大量在籍高学历人口跨省流出,流入人口学历较低[26],使原有的人才资源并未对本地降低灰水足迹和改善水环境起到良好的效用。在总效应和间接效应结果中,全国及东部地区都显著为正,表明综合素质的提升不仅有利于本地减少灰水足迹和开展经济建设,还可以带动其他地区对水资源水环境的保护。中部地区的各类效应结果都为正值但不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "全国范围和东部地区的产业结构优化度对本地灰水经济生产率具有显著正向影响,对其邻近地区的影响不显著。可见东部第三产业比重增长能够对本地经济效益提升和水环境良性发展起到显著推动作用。中、西部第三产业比重相对东部较低,且波动不定涨幅较缓,两地发展仍以第二产业为主,且近年来承接大量东部污染密集型产业的形势正在加剧[27};作为灰水足迹最主要组成部分的农业灰水足迹,近年也呈波动上升趋势。这说明中、西部地区缺乏科学合理的产业规划和有远见的水环境标准,未能采取有效的水资源保护机制,导致中、西部产业结构优化度对本地灰水经济生产率产生显著负向影响。区域间的经济辐射和产业竞争合作,加剧了中、西部经济和环境问题向外界扩散,使其对邻近地区灰水经济生产率产生消极影响,中、西部间接效应结果显著为负。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "城镇化水平变量的直接效应和总效应结果在全国和东、西部地区都显著为正,且西部地区总效应系数值高达4.8446。在3个分区中,西部城市化发展最快,东部次之,15年间各省区平均城镇化增幅分别达到 $1 7 3 \\%$ 和 $1 1 8 \\%$ ,城镇在发挥聚集效应汇聚人口和扩张建设的同时,可以带动经济资源整合,其建设水平的提升和排水设施的逐步完善有益于污水集中整治,因此东、西部城市建设面积的扩大对提高本地灰水经济生产率具有积极的促进作用。中部城镇建设面积增幅虽为 $87 \\%$ ,但众多企业分散在小城镇,不利于产业集聚发展和统一整治,且小城镇建设量多质低,基础设施无法满足环境需要[28-29],对邻近地区水环境造成了不利影响,使中部地区间接效应和总效应结果都显著为负。全国和东、西部的间接效应结果都为正值。可见东、西部快速的城市化变革也辐射带动了邻近地区工业、生活污水处理率的提高和相关产业的发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "城乡差距变量在全国和各分区的各类效应结果中,都与灰水经济生产率显著正相关。2014年，工业和服务业对GDP的总贡献率已增至 $9 1 . 4 8 \\%$ ,所占比重远高于农业，而城市经济以现代化大工业生产为主，农村经济正处在从传统农业向现代农业的过渡期,发展较为缓慢,2000—2014 年农业GDP 增幅仅为 $1 5 6 . 7 5 \\%$ ,工业和服务业GDP增幅则分别达到 $3 7 1 . 1 3 \\%$ 和 $4 8 2 . 4 2 \\%$ ,造成城乡经济发展差距和收入差距增大，城镇经济的发展成为GDP 提升的主导因素,且近年来灰水足迹出现小幅下降,导致城乡收入差距与灰水经济生产率表现出显著正相关关系。然而,城乡差距的增大不利于社会稳定,仍然需要减小城乡差距,逐步改变二元结构，促进城乡协调发展,为水环境的改善提供稳定的社会环境。 ）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "社会福利的增加能够对全国范围和东、西部本地灰水经济生产率产生显著积极影响。作为社会经济实力增强的表现和促进环境规制实行的民众基础,全国范围和东、西部政府对于公共环境福利的改善和民众生活质量的提高,有利于减轻社会阶层矛盾,确保经济发展拥有稳定的社会条件,对提升本地灰水经济生产率具有积极地促进作用。中部地区大力推进“摊大饼式”发展,而由于地方财力有限和政策落实不到位等原因,提供的公共服务与产品不能及时满足人口集聚的需求,导致每万人社区服务机构数近年逐渐减少,出现社会福利滞后,使社会福利变量与中部本地灰水经济生产率显著负相关;而邻近的地区间,公共福利资源配置存在相互竞争的关系[30],同时受到来自经济和人口迁徙集聚效应的影响,对经济社会产生带动效用,使该变量对中部邻近地区灰水经济生产率产生显著正向影响。然而,社会福利水平的降低不利于社会公平和安定,因此中部还需构建完善的本地社区服务机制。全国和西部间接效应结果都显著为正,东部结果不显著,表明全国总体和中、西部公民社会福利惠及范围的扩大,对邻近地区灰水经济生产率同样存在正向带动作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/09bc542436a537e30fa57934dd357502d9fd9ea2d31d462126c3d4c81a165ad0.jpg",
+        "table_caption": [
+            "表5直接效应、间接效应和总效应下的空间Durbin模型回归结果",
+            "Table 5Regression results of spatial Durbin model with total effect，direct effect and indirect effect "
+        ],
+        "table_footnote": [
+            "\\*、\\*\\*和 $* * *$ 分别表示 $1 0 \\% . 5 \\%$ 和 $1 \\%$ 的显著水平"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">31个省市 31 provinces,cities</td><td colspan=\"3\">东部地区Eastern region</td><td colspan=\"3\">中部地区 Central region</td><td colspan=\"3\">西部地区Western region</td></tr><tr><td>变量 Variable</td><td>直接效应 Direct effect</td><td>间接效应 Indirect effect</td><td>总效应 Total effect</td><td>直接效应 Direct effect</td><td>间接效应 Indirect effect</td><td>总效应 Total effect</td><td>直接效应 Direct effect</td><td>间接效应 Indirect effect</td><td>总效应 Total effect</td><td>直接效应 Direct effect</td><td>间接效应 Indirect effect</td><td>总效应 Total effect</td></tr><tr><td>PD</td><td>-0.0001</td><td></td><td>-0.0031*** -0.0032 ***</td><td>-0.0001</td><td>-0.0015</td><td>-0.0017 ***</td><td>0.0004</td><td>-0.0007</td><td>-0.0003</td><td>0.0014</td><td>0.0081</td><td>0.0096</td></tr><tr><td></td><td>(-0.5397)</td><td>(-4.2528)</td><td>(-4.1256)</td><td>-1.2108)</td><td>(-4.0065)</td><td>（-3.7165)</td><td>(0.4035)</td><td>(-0.1656)</td><td>(-0.0612)</td><td>(1.0571)</td><td>(1.3605)</td><td>(1.5193)</td></tr><tr><td>EDU</td><td>0.0049</td><td>0.0290 *</td><td>0.0340 *</td><td>0.0109 *</td><td>0.0515***</td><td>0.0624***</td><td>0.0043</td><td>0.0295</td><td>0.0338</td><td>-0.0249 ***</td><td>0.0116</td><td>-0.0133</td></tr><tr><td></td><td>(1.4108)</td><td>(1.5780)</td><td>(1.8024)</td><td>(2.1638)</td><td>(3.4052)</td><td>(3.7837)</td><td>(0.6029)</td><td>(1.0320)</td><td>(1.0382)</td><td>(-3.4470)</td><td>(0.4659)</td><td>(-0.4928)</td></tr><tr><td>OIS</td><td>0.0035 **</td><td>-0.0060</td><td>-0.0025</td><td>0.0168 *</td><td>-0.0152</td><td>0.0015</td><td>-0.0070 ***</td><td>-0.0217 **</td><td>-0.0288 **</td><td>-0.0091***</td><td>-0.0189 *</td><td>-0.0280 **</td></tr><tr><td></td><td>(2.1049)</td><td></td><td>(-0.8091）(-0.3152)</td><td>(4.3290)</td><td>(-1.4969)</td><td>(0.1236)</td><td>(-3.2612)</td><td>(-2.1597)</td><td>(-2.7643)</td><td>(-3.1152)</td><td>(-1.8825)</td><td>(-2.5414)</td></tr><tr><td>URB</td><td>0.1102 ***</td><td>0.5076*</td><td>0.6178 *</td><td>0.0841***</td><td>0.1013 **</td><td>0.1854***</td><td>0.0836</td><td>-1.6620 **</td><td>-1.5784 *</td><td>0.8591***</td><td>3.9854***</td><td>4.8446 ***</td></tr><tr><td></td><td>(9.2905)</td><td>(6.0064)</td><td>(7.1184)</td><td>(6.1411)</td><td>(2.6590)</td><td>(4.2154)</td><td>(0.8025)</td><td>(-2.4471)</td><td>(-2.0721)</td><td>(6.6644)</td><td>(4.7208)</td><td>(5.1123)</td></tr><tr><td>URG 0.2038*</td><td></td><td>0.8189 ***</td><td>1.0226</td><td>0.2301***</td><td>0.6321***</td><td>0.8622 ***</td><td>0.5990 ***</td><td>1.3558 ***</td><td>1.9548 ***</td><td>0.2410 **</td><td>0.3645 *</td><td>0.6054***</td></tr><tr><td></td><td>(3.8078)</td><td>(7.3166)</td><td>(9.7649)</td><td>(3.0575)</td><td>(4.4549)</td><td>(5.4200)</td><td>(7.5971)</td><td>(4.4738)</td><td>(6.0877)</td><td>(2.1287)</td><td>(1.8408)</td><td>(3.3579)</td></tr><tr><td>lnSW</td><td>0.0018 *</td><td>0.1029 *</td><td>0.1045 ***</td><td>0.0301 *</td><td>0.0296</td><td>0.0597</td><td>-0.0252 *</td><td>0.0777 *</td><td>0.0525</td><td>0.0106 ***</td><td>0.1160 **</td><td>0.1265 **</td></tr><tr><td></td><td>(1.2407)</td><td>(2.9265)</td><td>(2.8661)</td><td>(2.1541)</td><td>(0.6896)</td><td>(1.2207)</td><td>(-2.1904)</td><td>(1.9663)</td><td>(1.1946)</td><td>(0.7523)</td><td>(2.3819)</td><td>(2.2982)</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)我国灰水经济生产率整体呈现上升趋势。东部地区灰水经济生产率显著高于中、西部,西部地区最低,2007年后东部灰水经济生产率大幅增长,而中、西部增幅较缓,区域间差距逐年增大。上海和北京的灰水经济生产率及其增幅高于其他省区，西藏的灰水经济生产率一直最低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)2000—2014 年我国灰水经济生产率在空间分布上存在显著的正自相关性且空间集聚程度较高,并非随机分布。区域间的分化加剧,低低集聚区比重大,高高集聚区集中于东部沿海,西部皆为低低集聚区。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)在直接效应结果中：从全国范围来看,提高产业结构优化度、城镇化水平以及社会福利都有利于本地区灰水经济生产率的增长;提升民众受教育程度、第三产业比重、城镇化水平和社会福利都可以对东部本地灰水经济生产率产生显著积极影响;社会福利的下降和产业结构优化度对中部本地灰水经济生产率具有显著负向影响;城镇化建设和社会福利水平的提高有利于西部本地灰水经济生产率增长，高等受教育人口的流失和产业结构优化度则对其具有负向影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4)在间接效应结果中：我国31个省市自治区受教育程度和社会福利的提高有助于邻近地区灰水经济生产率增长,人口密度的增加具有显著负向影响;东部提高民众受教育程度能促进邻近地区灰水经济生产率的提升,而增加人口密度则对邻近地区不利;中部社会福利的降低对邻近地区灰水经济生产率产生了显著正向效应,第三产业和城镇化的发展并未对其产生正向带动作用;西部社会福利的改善对邻近地区灰水经济生产率具有明显的带动作用,而第三产业的发展未对其具有正向影响。此外,各地需缩小城乡差距,提高农村地区GDP，促进经济与环境健康发展。 C",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6建议",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)在人口发展方面,将东部人口数量控制在水环境可承载范围内,逐步疏解密集区人口,就近承接转移,走迁入迁出平衡的内源式发展道路,促进水资源合理利用;此外,需提高中、西部发展引力,适度促进人才回流,缓解人口向东部集聚的趋势,以缓解水资源压力、增强水环境自我修复能力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)在受教育程度方面,东部需扩宽农民工子女受教育途径,提高其接受高等教育机率;普及高校非环境类专业环保教育,增加高校水污染治理技术创新型人才的培养,形成国内水污染和水资源节约技术研发的示范区。西部应继续加大对贫困地区政策倾斜,增强民众教育意识以降低辍学率;扩大高等教育惠及范围,制定具有激励性的人才政策以减少人才流失;完善环境教育法制和层次体系建设,从基础教育阶段开始培养公民水环境保护意识。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)在产业结构方面,东部需继续完善现代服务业政策体制,带动民间资本融人,发挥固定资产投资导向作用,推动服务业结构转换升级。中部应在强化区位优势的同时，促进产业集聚转型发展;激励金融政策创新以提升服务业投资份额,引导资本进入科研技术等现代服务业,提升水环境保护产业智能化水平。西部应促进投资向服务业集聚,整合创新资源,推动各产业技术改造和深度融合。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4)在城镇化水平方面,东部在推进城市外扩和鼓励非农业人口向重点城镇集聚的同时,需发挥中心城市在水环境规划与管理中对城市群的辐射带动作用,并对城市功能区进行水环境的差别化管治。中部需严控小城镇数量和建设面积,妥善布局高端高效产业,筹建小城镇水环境基础设施,促进乡镇污水无害化处理。西部应创立绿色城镇化机制，依据水环境脆弱性和水资源承载力制定城镇化政策、调整建设范围;新城区建设单独的道路排水系统，干旱区城市注重涵养水源。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5)在改善城乡差距方面,各地区都应促进农村基础设施建设和农业科创资金的多元投入,推动农村金融资本要素流转;推广农民生产经营技术实训,引导农民多种经营,积极发展现代农业以提高农产品经济效益,吸收剩余劳动力,带动农民持续增收;同时还需推动农村水污染治理设施建设以减少对水环境破坏。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(6)在社会福利方面,东部需在平抑过高房价、减轻民众生活负担的同时,依据各地财力统筹规划城乡社区机构建设,提高运营效益,逐步完善进城务工人员社会保障体系和留守儿童福利机制。中部应维持人口发展和土地城镇化的协调推进,减少不必要的财政支出;落实社会福利资金和政策,增强竞争优势,协调经济增长和生态福利绩效的关系。西部应根据民众需求开展生态福利工作,并在扩大社会保障覆盖范围、健全社会保险制度的同时,继续规范公众服务管理,开拓社区服务市场,为经济发展和水资源环境保护提供有利条件。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "［1］中华人民共和国国家统计局.中国统计年鉴 2001—2015.北京：中国统计出版社，2001-2015.  \n［2］中华人民共和国水利部.中国水资源公报2014.北京：中国水利水电出版社，2015.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "［3」曾昭，刘俊国.北京币灰水足逊评价．目然资源学报，2013，28(7)：1169-1178.  \n[4EneSettdfspatalg&al2011，10(3)：333-340.  \n[5］HoeksraAY,Chapagain AK,Aldaya MM,MekonenMM.水足迹评价手册.刘俊国，曾昭,韩乾斌,马坤，臧传富，译.北京；科学出版社，2012.  \n[6]LeSageJ,ischrMEstimatesadInferencesofKnowledgeCapitalImpactsonegioalTotalactorProductityVieWUUniversity of Economics and Business，2010[2017-07-17].http://epub.wu.ac.at/3961/.  \n[7]Fischerartosa,iedAardadar,KuertA.hepactofaapitaloegioallaborproductityinEroesSpatial and Resource Sciences,2009,2：97-108.  \n[8]AzornJDB,delMarSnchedelaVega M.HumancapitalefectsolabourproductvityinEUregios.AppliedEcoomics，215,47(44814-4828.  \n[9］刘传江，胡威.外商直接投资提升了中国的碳生产率吗?——基于空间面板 Durbin 模型的经验分析.世界经济研究，2016，（1)：99-109.  \n[10] 程琳琳，张俊飚，田云，周晓时.中国省域农业碳生产率的空间分异特征及依赖效应.资源科学，2016，38（2)：276-289.  \n[11］张浩然，衣保中.基础设施、空间溢出与区域全要素生产率——基于中国266 个城市空间面板杜宾模型的经验研究.经济学家，2012,(2):61-67.  \n[12]汪辉平,王美霞，王增涛.FDI、空间溢出与中国工业全要素生产率——基于空间杜宾模型的研究.统计与信息论坛，2016，31(6)：44-50.  \n[13］胡威.环境规制与碳生产率变动[D].武汉：武汉大学，2016.  \n[14] 赵良仕，孙才志，郑德凤.中国省际水资源利用效率与空间溢出效应测度.地理学报，2014，69(1)：121-133.  \n[15] Hoekstra AY,Chapagain A K.Globalization of Water：Sharing the Planet's Freshwater Resourc Oxford：Blackwell Publishing，2008.  \n[16］孙才志，韩琴，郑德凤.中国省际灰水足迹测度及荷载系数的空间关联分析.生态学报，2016，36(1)：86-97.  \n[17]LeSage J,Pace R K. Introduction to Spatial Econometrics. Boca Raton,Fla.：CRC Press,2009:513-514.  \n[18]SeldenTongviotalqalitdeveontiseeuesuefoiissosJaloftalEconomics and Management，1994,27(2）: 147-162.  \n[19]VincentJR.TestingforeviroenaKuzetsureswithiadevelopingoutryEnviroentandDevelopentEcoics，99（4):417-431.  \n[20]PanaompcalTstsdlcalyftalDeaaAtietStaooceveloetWgeWP238.Geneva:ILO,1993：4.  \n[21］李荣杰，张磊，赵领娣.能源开发、人力资本与全要素能源效率.北京理工大学学报：社会科学版,2016，18(1)：30-37.  \n[22] 刘承良，颜琪，罗静.武汉城市圈经济资源环境耦合的系统动力学模拟.地理研究，2013，32（5)：857-869.  \n[23] 高宝棣，王成新，崔学刚.人口—经济一空间视角下山东省城镇化时空演变.经济地理，2016，36(5)：79-84.  \n[24] 刘传江，胡威，吴晗晗.环境规制、经济增长与地区碳生产率—基于中国省级数据的实证考察.财经问题研究，2015，（10)：31-37.  \n[25］朱兆良.农田中氮肥的损失与对策.土壤与环境，2000,9(1)：1-6.  \n[26] 李怡涵.1985—2010年中国省际人口迁移的空间区域分布特征及影响因素研究[D].兰州：兰州大学，2015.  \n[27］豆建民，沈艳兵.产业转移对中国中部地区的环境影响研究.中国人口·资源与环境，2014，24（11）：96-102.  \n[28］冯晓平.双二元夹缝中的生存——论中部小城镇养老保障的结构性困境.乡镇经济，2007，(6)：19-22.  \n[29] 李光辉.我国产城融合发展路径研究[D].合肥：安徽大学，2014.  \n[30] BruecknerJK.StrategiciteractioaonggoveetsanovevieofmpicalstudiesnteatioalRegioalSceRevie6）175-188.",
+        "page_idx": 10
+    }
+]

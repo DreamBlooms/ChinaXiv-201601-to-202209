@@ -1,0 +1,193 @@
+# 农地流转对农业生态系统的影响
+
+程相友 信桂新 陈荣蓉 \* 李承桧(西南大学资源环境学院 重庆400715)
+
+摘要为评价农业经营方式转变带来的生态环境效应，本研究选取重庆市荣昌县农地流转典型区域，结合实地调查和能值分析方法，分别以普通农户和经营大户的投入和产出表征农地流转前后的农业生态系统投入和产出，对研究区农地流转前后农业生态系统能值变化进行了对比分析。结果表明，农地流转后研究区农业生态系统的购买能值投入较流转前减少 $7 0 . 4 8 \%$ ，能值产出增加 $2 . 1 5 \%$ 。这使得农业生态系统的净能值产出率由农地流转前的0.01增加到流转后的0.04，提高了 $300 \%$ 。农业机械对人工的替代是单位投入减少的最主要因素，从而使得农业生产效率得到大幅度提升。对于可更新系数小于系统可更新系数的单项投入来讲，减少其投入量能够使系统的环境负载率降低；对于可更新系数大于系统可更新系数的单项投入来讲，增加其投入量能够使系统的环境负载率降低。但是研究区农业生态系统单项投入的变化均使得环境压力有所增大。其中，人力投入大幅度减少，电力柴油等投入有不同程度地增加。因此，研究区农业生态系统的环境负载率由农地流转前的0.12增加到流转后的0.65，提高 $4 4 1 . 6 7 \%$ ；可持续性指标由流转前的0.08降低到流转后的0.06，生态可持续性降低 $2 5 . 0 0 \%$ 。研究发现，适度规模经营能够有效降低生产成本，增强产品的市场竞争力；不过，种植结构调整高附加值化和高产量追求，导致农药化肥等购买资源大幅度地增加，加剧了农业生态系统潜在的生态环境风险。研究认为，农业生态系统可持续发展的关键在于对农业集约化发展方式的选择。为此，国家在引导农地流转和发展适度规模经营的政策体系中需对此给予指导并施以规范。
+
+关键词农地流转农业生态系统能值分析生产效率 可持续发展中图分类号：F062.2 文献标识码：A 文章编号:1671-3990(2016)03-0335-10
+
+# Impact of farmland transfer on agro-ecosystem
+
+CHENG Xiangyou, XIN Guixin, CHEN Rongrong\*\*,LI Chenghui (College of Resources and Environment, Southwest University, Chongqing 40o715, China)
+
+AbstractFarmland transfer,supportedbyboth thenationalandlocalgovernments,haslargely promoted thetransformation of agricultural management and modernization.Specifically,te increasing scope and scale offarmland transferdramatically changedthe industrial structureand input-output of agriculture.Thus farmland transferhasasignificant efecton the agro-ecosystem.To assess eco-environmental effects ofthe transformationof the mode of agricultural management due to farmland transfer,this studyanalyzed thre aspectsoffarmland transfer一productioneficiency,environmental impactand overallsustainabilityofagro-ecosystems.This was doneinacasestudyofRongchangCountyin Chongqing,China.Todothat theinput-outputofordinary farmersand agriculturalcontractors,which respectivelyrepresented theagricultural management patterns beforeand after farmland transfer,was analyzed.Theemergy evaluation method used proved tobe effctive in analyzing the eficiencyand sustainabilityof ecosystems.Emergy evaluation method overcame the weakness of traditional methods of energyanalysis as itintegrated different forms of energy intoacommon physical basis known assolar emergy.
+
+This method took multiple important factors into consideration (e.g.，natural resources，labor and ecosystem services), generally neglected in other similar methods.The results showed that the input for purchasing resources decreased by $7 0 . 4 8 \%$ while emergy output increased by $2 . 1 5 \%$ after farmland transfer. Thus emergy yield ratio (EYR) changed from O.01 before farmland transfer to O.O4 after that,which represented an increase of $3 0 0 . 0 0 \%$ . This increase was mainly due to agricultural machinery inputratherthanlaborforce input,whichlowered theoverallinputand increasedthe effciencyofproduction.Fora single input item,whenits'renewabilityfactor waslessthanthatoftheecosystem,decreasing inputreduced theenvironmental loadingratio(ELR);fortheitem,whoserenewabilityfactorwas higher thanthatoftheecosystemand vice versa.Thedecline inlabor force together withthe increase inpesticideandfertilizeruseincreased the environmentaloadofan ecosystem.Thus ELR changed from 0.12 to 0.65,which was a rise of $4 4 1 . 6 7 \%$ after farmland transfer.Emergy sustainability index (ESI) changed from 0.08 to O.06,a decline of $2 5 . 0 0 \%$ . This indicated that the moderate increase in farmland for a household significantlyreduced thecostof agricultural production and increased the marketcompetitivenessof agriculturalproducts. However,in modern agriculture,the drive for increasedoutputand added values of agricultural products had substantially increasedtheuseofpesticidesand fertilizers.This has inturn intensifiedthepotentialrisksofagro-ecosystems.In summary, an intensive agricultural development mode should be carefully selectedandadopted in order to achieve the goals of sustainable agro-ecosystems.Therefore national policies should paymore attention to theselection of agricultural modes during the process of farmland transfer and scaling farmland cultivation.
+
+KeywordsFarmland transfer; Agroecosystem; Emergy evaluation; Production eficiency; Sustainable development
+
+农业生态系统是人类生存的最基本系统，对其结构和功能进行分析、对资源环境价值进行评价和量化有利于加强人们对农业资源环境的认识和保护。农业经营方式的转变使得农业生态系统中农业生产要素种类及其组合方式发生了重大变化[1]，并对农业生态系统的物质流、能量流具有十分深刻的影响。例如循环农业能够改善农田生态系统物质和能量的利用关系[2]，降低生态环境压力，提高可持续发展性[3]；立体农业能够合理配置处于不同生态位的各种生物，最大限度地开发组合利用各种形式的时间和空间生态位，改善生态环境[4。对这些经营类型，相关研究从生态、环境以及可持续性等方面进行了实证，提高了对农业经营方式的认识，对促进农业生态系统的高效和可持续发展具有特殊的实践意义。相比而言，农地流转及其导致的农业经营方式转变更具普遍意义。事实上，农地流转是近年来中央支持鼓励、地方大力发展的热点，对于转变农业经营方式，实现农地适度规模经营和农业的现代化产业化具有较强的推动作用[5]。尤其是伴随农地流转范围和规模的日益扩大，农业经营方式、产业结构、投入产出等均发生了显著变化，农地流转对农业生态系统产生了重要影响。然而，综观现有农地流转的相关研究，学者较多关注农地流转现状[6]、流转模式[7-9]、影响因素[10-11]以及经济效益分析[12-13]等，专门探讨农地流转对农业生态系统影响的文献报道还不多见。那么对农业生态系统而言，农地流转给农田生态环境带来了怎样的变化？农地流转对区域农业发展的可持续性有何影响？是否有助于防控农田污染、保障农产品质量安全？基于此本研究以重庆市荣昌县农地流转区域为例，在大量调查的基础上，从物质流、能量流和货币流角度对农地流转区的农业生态系统内的能值变化情况进行对比分析，客观评价了农地流转对区域农业生态系统产生的能值变化影响，并对农地流转中改善农田生态环境的措施进行了讨论。
+
+# 1 研究区概况
+
+荣昌县位于重庆市渝西走廊，东经 $1 0 5 ^ { \circ } 1 7 ^ { \prime } \sim$ $1 0 5 ^ { \circ } 4 4 ^ { \prime }$ ，北纬 $2 9 ^ { \circ } 1 5 ^ { \prime } { \sim } 2 9 ^ { \circ } 4 1 ^ { \prime }$ ，总面积 $1 \ 0 7 5 . 3 7 \ \mathrm { k m } ^ { 2 }$ 。地貌以浅丘为主，平均海拔 $3 8 0 ~ \mathrm { \ m }$ (图1)。属中亚热带湿润季风气候区，无霜期年平均 $3 3 6 \mathrm { ~ d ~ }$ ，多年平均气温 $1 7 . 4 \mathrm { ~ \ ^ { \circ } C }$ ，年平均积温 $6 4 8 2 . 4 \mathrm { ~  ~ { ~ C ~ } ~ }$ ，年平均日照时数 $1 0 7 7 . 1 \mathrm { h }$ ，年平均降雨量 $1 \ 0 9 2 . 8 \ \mathrm { m m }$ ，具有夏热冬暖，光热同季，雨量充沛，湿润多阴等特点。荣昌县农耕传统历史悠久，土地开发利用率高，农业较为发达，是一个以农业和农村经济为主体的农业县，也是重庆市主要商品粮油生产基地之一，农业生产在县域经济中占有重要地位。其中，种植业是研究区农业生产中的主要部分。鉴于此，本研究仅针对种植业农业生态系统。据荣昌县农业委员会提供的数据，截至2013年年末，荣昌县农地流转面积达$2 . 7 3 { \times } 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ，其中适度规模经营面积 $2 . 4 4 \times 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ 适度规模经营面积占流转面积的 $89 . 3 8 \%$ 。本研究选取荣昌县农地流转年限在5年以上、农业生产条件和经营模式较为稳定的区域作为研究农业生态系统能值变化的对象。农地流转前，研究区水稻 $( O r y z a$ sativa)种植一般实行一年1熟制，冬季水田空闲；旱地主要作物品种以玉米(Zea mays)、小麦(Triticumaestivum)、红薯(Ipomoeabatatas)为主，大部分实行小麦-玉米-红薯轮间套作3熟制。平均农地经营规模仅 $0 . 2 9 \ \mathrm { h m } ^ { 2 }$ ，且地块较为分散，距离农户住地最远地块甚至达到 $2 ~ \mathrm { k m }$ ，务农条件十分不便。由于丘陵地带地形条件的限制，研究区农业机械化程度较低，大部分农业生产环节均由人工完成。同时，因为务农的效益较低，所以大多数农户采取兼业的形式，青年劳动力往往进城务工，农忙时返回村里务农。农田平日的管理基本上靠老年劳动力。农地流转后，水田以水稻-油菜(Brassicacampestris)轮作，旱地主要种植水果[西瓜(Citrullus lanatus)、弼猴桃(Actinidiachinensis)等]或者大棚蔬菜[生姜(Zingiberofficinale)、白菜(Brassica pekinensis)等]。平均农地经营规模达 $1 3 . 8 6 \mathrm { h m } ^ { 2 }$ ，地块集中。为适应规模化经营和农业现代化的需要，经营大户对农业基础设施进行了改造，包括道路、水利、电力等。调研结果显示，研究区共投入资金1180余万元进行道路、水利和电力等基础设施建设，平整土地 $4 4 . 7 3 \ \mathrm { h m } ^ { 2 }$ ，修建蔬菜大棚 101个，新建储藏加工房面积 $6 7 5 ~ \mathrm { ~ m } ^ { 2 }$ 。同时，所有经营大户均购置了农业机械，涉及农业生产的耕种、灌溉、收割、运输等各个环节。有的经营大户甚至购置了包装生产线，实现了农产品的生产包装。
+
+研究以该地区农地流转前普通农户农业生态系统为参照，对农地流转后经营大户的农业生态系统进行能值分析和比较。
+
+![](images/5089a6159b53dafd5b0a556599485935d3687ea5badda7d44018a8480806224c.jpg)  
+图1研究区农地流转调研样点示意图  
+Fig.1Sampling points of the farmland transfer in the research area
+
+# 2数据与方法
+
+# 2.1 数据来源
+
+本研究中涉及的数据分为本地资源数据、购买资源数据和系统产出数据。本地资源数据(包括太阳能、风能、雨水势能、雨水化学能、地球旋转能)来自中国气象科学共享数据。购买资源和系统产出数据来自2014年对研究区实地调研得到的普通农户和经营大户的汇总数据。调研以普通农户的经营投入(即普通农户的购买资源数据)和产出表征流转前农业生态系统的投入和产出，以经营大户的经营投入(即经营大户的购买资源数据)和产出表征流转后农业生态系统的投入和产出。调研共收回问卷285份，整理筛选后得到有效问卷253份，有效问卷率$8 8 . 7 7 \text{‰}$ 其中农户问卷231份，经营大户问卷22份。
+
+实地调研工作开展于2014年9月5日至2014年10月21日。课题组在当地政府的指导下，选取了在农地流转规模、形式和效果方面均具有代表性的盘龙镇(三合村、大建社区)、古昌镇(冲锋村、玉带村)、双河镇(梅石坝社区、高丰村)、清流镇(马草村)、安富街道(通安村、斑竹村)和吴家镇(双流村、高丰村)等 6 个镇街共 11 个村进行抽样调研(图 1),调研内容主要包括农户、经营大户的农地流转方式、经营规模、种植结构、投入产出、收益等。调查过程中，一是收集各样点镇街农地流转的总体情况资料，二是采用入户访谈与问卷调查相结合的方式了解农户的土地流转情况，三是通过深度访谈向较有代表性的农地流转经营大户了解流转土地的经营情况。
+
+# 2.2 研究方法
+
+能值分析克服了能量分析中不同类别能量难以比较的问题，以统一的能值标准为量纲，把生态经济系统中流动和储存的不同种类、不可比较的能量转化成同一标准的能值，对系统的能量流、物质流与货币流等进行流量分析[14]，揭示了自然环境资源与经济活动的价值及它们之间的关系，有助于调整生态环境与经济发展的关系，对自然资源的科学评价和合理利用、经济发展方针的制定及实施可持续发展战略均具有重要意义。
+
+能值计算方式如下：
+
+$$
+E = e { \big ( } m { \big ) } \times t
+$$
+
+式中： $E$ 是能值，单位为 sej; $e$ 是能量，单位为J; $\mathbf { \nabla } _ { m }$ 是物质量，单位为 $\mathbf { g } ; t$ 是能值转换率，单位为 sej $\mathbf { J } ^ { - 1 }$ 或 sej-g−1。
+
+能值转换率参考了与研究区自然经济条件差异较小的同类地区的相关研究[15-18]，并且采用了新的能值基准 $1 5 . 8 3 \times 1 0 ^ { 2 4 } \mathrm { { s e j } { \cdot } a ^ { - 1 } }$ 。人民币与美元的换算采用2013年平均汇率6.19，研究中涉及的建筑和机械均根据其使用年限折算为每年的能量投入。
+
+从“是否需要购买"的角度，本研究将投入资源分为本地资源和购买性资源；从“是否可更新"的角度将投入资源分为可更新资源和不可更新资源。特别需要指出的是，某些资源在生产或者形成过程中，是由可更新资源和不可更新资源共同组合而成的，即这类资源既非完全可更新也非完全不可更新。传统的资源能值核算将这类资源完全认定为可更新资源或者不可更新资源的做法缺乏合理性。根据Odum 的研究[19]，系统的能值分析首先从能值图的绘制开始，以明确系统的基本结构，从总体上反映出系统的投入和产出状况。本研究绘制了研究区农业生态系统能流图(图2)。
+
+为客观评价农地流转前后生态系统的产出效率、可持续发展能力及其生态经济效益，本研究选用了3个能值评价指标(表1)。同时，基于研究区的实际情况，参考相关研究[20-23]，引入可更新比例系数(表2)，以提高能值分析的精确性。
+
+![](images/5a202b2515ba5c7981cb7c2f07f295ca395833031218184a9bae0398fd965eae.jpg)  
+图2研究区农业生态系统能流图Fig.2Emergy flow diagram of the agro-ecosystem in the research area
+
+表1能值分析指标表达式及其描述  
+Table 1Expression and description of emergy analysis indexes   
+
+<html><body><table><tr><td>能值分析指标 Emergy index</td><td>表达式 Expression</td><td>描述 Description</td></tr><tr><td>净能值产出率(EYR)</td><td>Y/P</td><td>Abiltytouseth用本地资能力外经济系的贡献能力tstudidsyste</td></tr><tr><td>环境负载率(ELR)</td><td>N/R</td><td>反映系统生产过程对环境的压力</td></tr><tr><td>Environmental loading ratio 可持续性指标(ESI)</td><td></td><td>Environmental pressure produced by the production process of the studied system 反映系统的可持续性</td></tr><tr><td>Emergysustainability index</td><td>EYR/ELR</td><td>Sustainability of the studied system</td></tr></table></body></html>
+
+$P$ ：购买性能值投入；Y:系统产出能值；N:不可更新能值投入；R:可更新能值投入。P:purchased emergy input；Y:yield emergy of thi system; N: non-renewable emergy input; R: renewable emergy input.
+
+# 3 结果与分析
+
+# 3.1 研究区农业生态系统能值投入结构分析
+
+计算结果表明，流转前和流转后研究区农业生态系统单位面积的能值投入分别为 $1 . 8 6 \times 1 0 ^ { 1 7 }$ sej-hm-2和 $5 . 4 9 \times 1 0 ^ { 1 6 }$ sej $\cdot \mathrm { h m } ^ { - 2 }$ (表2、表4)，流转后比流转前下降 $7 0 . 4 8 \%$ 。可见，流转后的研究区农田生态系统的能值投入要远低于流转前。随着经营规模的扩大，单位面积能值投入水平下降，体现出了农地流转的规模效应。流转前后可更新资源投入分别占总能值投入的 $89 . 2 5 \%$ 和 $6 0 . 6 6 \%$ 。这表明，研究区农业生态系统流转前后都主要由可更新资源驱动，但流转后对可更新资源的依赖性有所降低。调研结果显示，研究区投入结构中除本地资源外，仅有人力和电力投入的可更新系数较高，其余投入项自的可更新系数均较低甚至为零。
+
+表2研究区农地流转前后单位面积能值投入结构表  
+Table 2Emergy input per unit area before and after the farmland transfer in the research area   
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">能</td><td rowspan="2">R新</td><td colspan="2">流转前</td><td colspan="2">流转后</td></tr><tr><td>g·hm-² or Yuan·hm-2)</td><td></td><td></td><td></td></tr><tr><td>本地资源 Local resources</td><td></td><td></td><td></td><td>(sej·hm-2)</td><td>(J·hm−²,g·hm-²or Yuan·hm-2)</td><td>(sej-hm-2)</td></tr><tr><td>太阳能 Solar energy</td><td>1.00</td><td>1</td><td>1.56×1013</td><td>1.56×1013</td><td>1.56×1013</td><td>1.56×1013</td></tr><tr><td>风能Wind energy</td><td>1.50×103</td><td>1</td><td>3.04×1011</td><td>4.56×1014</td><td>3.04×1011</td><td>4.56×1014</td></tr><tr><td>雨水势能 Rainfall potential energy</td><td>8.89×10³</td><td>1</td><td>2.38×109</td><td>2.11×1013</td><td>2.38×109</td><td>2.11×1013</td></tr><tr><td>雨水化学能</td><td>1.54×104</td><td>1</td><td>3.00×1011</td><td>4.63×1015</td><td>3.00×1011</td><td>4.63×1015</td></tr><tr><td>Rainfall chemical energy 地球旋转能 Earth recycle</td><td>2.90×104</td><td>1</td><td>1.11×1011</td><td>3.23×1015</td><td>1.11×1011</td><td>3.23×1015</td></tr><tr><td>购入资源 Purchase resources</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>人力Labor force</td><td>7.56×106</td><td>0.9</td><td>2.37×1010</td><td>1.79×1017</td><td>4.14×109</td><td>3.13×1016</td></tr><tr><td>农药 Pesticide</td><td>1.60×109</td><td>0</td><td>2.33×104</td><td>3.73×1013</td><td>1.12×105</td><td>1.79×1014</td></tr><tr><td>农家肥 Farm manure</td><td>2.70×104</td><td>0.18</td><td></td><td></td><td>6.96×106</td><td>1.88×1011</td></tr><tr><td>有机肥 Organic fertilizer</td><td>2.70×104</td><td>0.18</td><td></td><td></td><td>2.31×106</td><td>6.24×1010</td></tr><tr><td>化肥Fertilizer</td><td>2.90×109</td><td>0.05</td><td>6.53×105</td><td>1.89×1015</td><td>1.41×106</td><td>4.09×1015</td></tr><tr><td>电力Electric power</td><td>8.00×104</td><td>0.81</td><td>1.48×109</td><td>1.18×1014</td><td>2.78×109</td><td>2.22×1014</td></tr><tr><td>柴油Diesel</td><td>2.87×109</td><td>0.05</td><td>1.53×105</td><td>4.39×1014</td><td>3.09×105</td><td>8.87×1014</td></tr><tr><td>农膜Agriculture film</td><td>3.80×108</td><td>0</td><td></td><td></td><td>1.79×10²</td><td>6.80×1010</td></tr><tr><td>机械 Machinery</td><td>1.21×1013</td><td>0</td><td></td><td></td><td>1.49×10²</td><td>1.80×1015</td></tr><tr><td>建设费 Construction fee</td><td>1.21×1013</td><td>0</td><td></td><td></td><td>9.72×10²</td><td>1.18×1016</td></tr></table></body></html>
+
+在购买性资源中，流转前和流转后人力投入分别占总能值投入的 $9 6 . 2 4 \%$ 和 $5 7 . 0 1 \%$ ，土地流转后人力投入比例大幅度下降。虽然人力投入大幅度下降，但是农地流转后人力投入仍然是最主要的投入项目。这反映出农业生产需要大量人工完成。流转前和流转后化肥和农药投入分别占到总能值投入的$1 . 0 4 \%$ 和 $7 . 7 8 \%$ ，流转前和流转后投入比例大幅度上升。调查发现，研究区化肥和农药的使用量大大增加。化肥施用量从 $6 5 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到 $1 \ 4 1 4 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，农药施用量从 $2 3 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到 $1 1 2 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。建设费占总投入的 $2 1 . 4 9 \%$ ，主要用于平整土地、维修道路、修建水利设施和电力设施等，体现了丘陵地区通过大规模基础设施改造来适应机械化需要的特点。流转后农膜和机械投入占总能值投入的 $3 . 2 8 \%$ 是设施农业特有的投入项目。其次，流转前电力和柴油投入占总能值投入比例不足 $1 \%$ ，流转后电力和柴油投入占总能值投入的 $2 . 0 2 \text{‰}$
+
+# 3.2研究区农业生态系统变化
+
+# 3.2.1 净能值产出率
+
+生产活动是在一定外部投入下，对土地生产潜力的一种开发。当外部经济投入一定时，土地产出越高，则对土地生产潜力的开发程度越大，产品由于更低的成本因而具有更强的市场竞争力。净能值产出率是系统产出能值与经济反馈(购买性资源)能值之比，是衡量系统通过外部经济反馈获取和使用本地资源能力的指标。由表2、表3、表4可计算出表5，从表5可知研究区农业生态系统流转前净能值产出率为0.01，流转后为0.04，增加3倍，表明流转后系统的市场竞争力趋强。结合表4，流转后购买能值投入较流转前减少 $7 0 . 4 8 \%$ 。并且流转后能值产出增加 $2 . 1 5 \%$ 。实际上，农地流转后购买能值投入大幅度降低主要是因为农业机械使用率的增加和机械化程度的提高。从调研结果来看，虽然购买能值投入大幅度下降，但是并非所有的单项投入均呈下降趋势。除人力投入大幅度下降(雇工数量从6人 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ （204号降至1人 $\cdot \mathrm { h m } ^ { - 2 }$ )外，其他单项投入均有所增加。之所以购买能值投入能够大幅度下降，是因为人力投入能值的减少量抵消了其他单项投入能值的增加量。由此看出，人力投入的降低是购买能值投入下降的主要因素。相关研究也表明，农业机械投入和人力投入之间存在明显的替代关系[24]。调查发现，研究区农地流转前仅有 $42 \%$ 的农户使用农业机械进行生产。而流转后所有的经营大户均使用农业机械进行生产。另外，农户主要使用小型机械如微耕机，机械化程度较低；而经营大户还使用了收割机、轻卡、拖拉机等大中型机械。正是农业机械使用率的增加和机械化程度的提高，才使得流转后总能值投入大幅度下降。另一方面，农地流转后的产出有所增加。农地流转后，农田的规模化经营大多采取轮作，取代了传统小户在旱地实行间作的种植习惯，加之油菜种植使原来闲置的冬水田得到利用，相应提高了土地利用效率和复种指数。另外，农技站、疫病防控中心等社会化机构的服务也在一定程度上保障了产出的增加。
+
+表4研究区农地流转前后单位面积投入产出汇总表  
+
+<html><body><table><tr><td rowspan="2">项目 Item</td><td rowspan="2">能值转换率 rans segmrty</td><td colspan="2">流转前 Before the farmland transfer</td><td colspan="2">流转后 After the farmland transfer</td></tr><tr><td>Orgina a J-hm2)</td><td>Emergy(sej m²2)</td><td>rigin ata J hm-2)</td><td>Emergy(sej m²2)</td></tr><tr><td>水稻Rice</td><td>8.30</td><td>4.69×109</td><td>3.89×1014</td><td>5.03×109</td><td>4.17×1014</td></tr><tr><td>小麦Wheat</td><td>6.80</td><td>1.63×109</td><td>1.11×1014</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>8.51</td><td>3.63×109</td><td>3.09×1014</td><td></td><td></td></tr><tr><td>大豆 Soybean</td><td>8.30</td><td>2.04×109</td><td>1.69×1014</td><td></td><td></td></tr><tr><td>红薯 Sweet potato</td><td>8.30</td><td>8.80×108</td><td>7.30×1013</td><td></td><td></td></tr><tr><td>油菜 Rapeseed</td><td>8.60</td><td>2.01×109</td><td>1.73×1014</td><td>2.73×109</td><td>2.35×1014</td></tr><tr><td>高梁 Sorghum</td><td>8.30</td><td></td><td></td><td>3.75×109</td><td>3.11×1014</td></tr><tr><td>生姜Ginger</td><td>2.70</td><td>3.46×109</td><td>9.34×1013</td><td>7.68×109</td><td>2.07×1014</td></tr><tr><td>空心菜 Swamp cabbage</td><td>2.70</td><td>5.53×109</td><td>1.49×1014</td><td></td><td></td></tr><tr><td>茄子Eggplant</td><td>2.70</td><td>4.15×109</td><td>1.12×1014</td><td>6.40×109</td><td>1.73×1014</td></tr><tr><td>四季豆Kidney bean</td><td>2.70</td><td>1.38×109</td><td>3.74×1013</td><td></td><td></td></tr><tr><td>辣椒 Pepper</td><td>2.70</td><td>2.08×109</td><td>5.60×1013</td><td></td><td></td></tr><tr><td>白菜 Chinese cabbage</td><td>2.70</td><td>6.92×109</td><td>1.87×1014</td><td>7.68×109</td><td>2.07×1014</td></tr><tr><td>梨Pear</td><td>5.30</td><td></td><td></td><td>2.53×109</td><td>1.34×1014</td></tr><tr><td>西瓜Watermelon</td><td>5.30</td><td></td><td></td><td>3.38×109</td><td>1.79×1014</td></tr><tr><td>猕猴桃 Wiki fruit</td><td>5.30</td><td></td><td></td><td>6.76×108</td><td>3.58×1013</td></tr><tr><td>合计Total</td><td></td><td></td><td>1.86×1015</td><td></td><td>1.90×1015</td></tr></table></body></html>
+
+表3研究区农地流转前后单位面积能值产出表 Table 3Emergy output per unit area before and after the farmland transfer in the research area   
+Table 4Input-output per unit area before and after the farmland transfer in the research area   
+
+<html><body><table><tr><td></td><td>项目 Item</td><td>流转前 Before the farmland transfer (sej-hm-2)</td><td>比例 Percentage (%)</td><td>流转后 After the farmland transfer (sej-hm-2)</td><td>比例 Percentage (%)</td></tr><tr><td>投入</td><td>全部能值 Total emergy</td><td>1.86×1017</td><td>100.00</td><td>5.49×1016</td><td>100.00</td></tr><tr><td>Input emergy</td><td>可更新能值流 Renewable emergy</td><td>1.66×1017</td><td>89.25</td><td>3.33×1016</td><td>60.66</td></tr><tr><td></td><td>不可更新能值流 Non-renewable emergy</td><td>2.02×1016</td><td>10.75</td><td>2.16×1016</td><td>39.34</td></tr><tr><td>本地资源 Local resources</td><td></td><td>4.43×1015</td><td>2.15</td><td>4.43×1015</td><td>8.01</td></tr><tr><td></td><td>购入资源 Purchase resources</td><td>1.82×1017</td><td>97.85</td><td>5.05×1016</td><td>91.99</td></tr><tr><td colspan="2">产出 Out emergy</td><td>1.86×1015</td><td></td><td>1.90×1015</td><td></td></tr></table></body></html>
+
+表5研究区农地流转前后能值指标变化 Table 5Emergy indicators before and after the farmland transferinthe researcharea   
+
+<html><body><table><tr><td>指标 Indicator</td><td>流转前 Before the farmland transfer</td><td>流转后 After the farmland transfer</td><td>变化率 Changing rate (%)</td></tr><tr><td>净能值产出率 Emergyyield ratio</td><td>0.01</td><td>0.04</td><td>300.00</td></tr><tr><td>环境负载率 Environmental loading ratio</td><td>0.12</td><td>0.65</td><td>441.67</td></tr><tr><td>可持续性指标 Emergy sustainability index</td><td>0.08</td><td>0.06</td><td>-25.00</td></tr></table></body></html>
+
+# 3.2.2 环境负载率
+
+环境负载率是用于衡量系统不可更新资源的使用对其周围环境产生压力的大小。环境负载率越高，则表明不可更新资源的投入比例越高，对环境造成的生态压力也越大。由表5可知，研究区农地流转前农业生态系统的环境负载率为0.12，流转后为0.65，说明流转后的系统比流转前承受了更大的环境压力。调查发现，系统中不可更新资源全部来自购买资源。其中，仅有人力和电力投入的可更新系数较高(分别为0.90和0.81)，其余投入项目的可更新系数均较低甚至为零。某项投入资源的可更新系数越小，意味着增加一定单位的该项资源投入中包含的可更新资源越少，包含的不可更新资源就越多，对环境增加的生态压力越大。研究区农地流转前后可更新资源投入分别占总能值投入的 $89 . 2 5 \%$ 和$6 0 . 6 6 \%$ 。这表明，研究区农业生态系统流转前后都主要由可更新资源驱动，但是对可更新资源的依赖性有所降低，而对不可更新资源的依赖性有所上升。根据环境负载率的计算公式可得：
+
+$$
+\begin{array} { r l } & { \mathrm { E L R ' } = \frac { N + \Delta \times \left( 1 - f \right) } { R + \Delta \times f } = \frac { N \times \left[ 1 + \frac { \Delta \times \left( 1 - f \right) } { N } \right] } { R \times \left[ 1 + \frac { \left( \Delta \times f \right) } { R } \right] } } \\ & { \quad \quad = \mathrm { E L R } \times \frac { 1 + \frac { \Delta \times \left( 1 - f \right) } { U \times \left( 1 - F \right) } } { 1 + \frac { \Delta \times f } { U \times f } } } \end{array}
+$$
+
+式中：ELR为农地流转前系统的环境负载率，ELR'是农地流转后系统的环境负载率， $N$ 为农地流转前不可更新资源投入， $R$ 为农地流转前可更新资源投入，$F$ 为农地流转前系统投入的可更新系数， $\Delta$ 为某单项投入增量， $f$ 为该单项投入的可更新系数。
+
+设 $1 { > } F { > } f { > } 0 , \ \Delta { > } 0$ ，则有：
+
+$$
+F - F \times f > f - F \times f
+$$
+
+$$
+F \times \left( 1 - f \right) > f \times \left( 1 - F \right)
+$$
+
+$$
+\frac { F \times \left( 1 - f \right) } { F \times \left( 1 - F \right) } > \frac { f \times \left( 1 - F \right) } { F \times \left( 1 - F \right) }
+$$
+
+$$
+\frac { 1 - f } { 1 - F } > \frac { f } { F }
+$$
+
+$$
+\frac { \Delta \times \left( 1 - f \right) } { 1 - F } > \frac { \Delta \times f } { F }
+$$
+
+$$
+\frac { \Delta \times \left( 1 - f \right) } { U \times \left( 1 - F \right) } > \frac { \Delta \times f } { U \times F }
+$$
+
+$$
+1 + \frac { \Delta \times \left( 1 - f \right) } { U \times \left( 1 - F \right) } > 1 + \frac { \Delta \times f } { U \times F }
+$$
+
+$$
+\mathrm { E L R } \times \frac { \displaystyle 1 + \frac { \Delta \times \left( 1 - f \right) } { U \times \left( 1 - F \right) } } { \displaystyle 1 + \frac { \Delta \times f } { U \times F } } > \mathrm { E L R }
+$$
+
+$$
+\mathrm { E L R ^ { \prime } } > \mathrm { E L R }
+$$
+
+同理，可推导出：
+
+若 $1 { > } F { > } f { > } 0$ ， $\Delta { < } 0$ ，则 $\mathrm { E L R ^ { \prime } { < } E L R }$ ；若 $1 { > } f { > } F { > } 0$ $\Delta { > } 0$ ，则 $\mathrm { E L R ^ { \prime } } { < } E L R$ ；若 $1 { > } f { > } F { > } 0$ ， $\Delta { < } 0$ ，则 $\mathrm { E L R ^ { \prime } { > } }$ ELR；若 $\scriptstyle 1 > f = F > 0$ ，则 $\mathrm { E L R ^ { \prime } { = } E L R _ { \circ } }$ （204
+
+上述结果表明，对于可更新系数小于系统可更新系数的单项投入来讲，减少其投入量能够使系统的环境负载率降低；对于可更新系数大于系统可更新系数的单项投入来讲，则增加其投入量能够使系统的环境负载率降低。由表4可得，研究区流转前农业生态系统的可更新系数为 $0 . 8 9$ 。对照表2，可以发现本地资源可更新系数大于系统可更新系数但投入量保持不变；购买资源中仅有人力投入的可更新系数大于系统的可更新系数，其他投入项目的可更新系数均小于系统的可更新系数。然而，从调查结果来看，所有购买资源投入项目均朝着使系统环境负载率上升的方向变化。即可更新系数大于系统可更新系数的人力投入大幅度减少，系数小于系统可更新系数的其他可更新投入项目均有不同程度的增加。因此，研究区农业生态系统流转后承受的环境压力较流转前大幅增加。
+
+# 3.2.3 可持续性指标
+
+可持续性是指在生产效率和环境压力之间取得平衡，既不能只注重经济发展而破坏生态环境，也不可一味保护环境而低效生产。可持续性指标是净能值产出率与环境负载率的比值，用于综合衡量生态系统的可持续发展能力。从表5可以看出，研究区农业生态系统流转前可持续性指标为0.08，流转后可持续性指标为0.06，可持续性有所降低。农地流转前后系统的可持续性指标均远小于1，说明流转前后系统均属于消费型系统，表明研究区农业生态系统净能值产出率较低而环境负载率较高。从长远来看，这种农业发展方式是不可持续的。研究区农业生产方式未产生根本性的改变，均是以高投入来实现高产出。农地流转带来的改变主要是经营规模的转变导致机械化程度的上升，从而使生产效率提高。然而这种农业生产方式未能顾及到生产资料(尤其是农药化肥以及农膜等)的过度和粗放使用可能带来的农业生态环境问题。实地调研发现，研究区化肥施用量从流转前的 $6 5 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到流转后的 $1 \ 4 1 4 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，农药施用量从流转前的 $2 3 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到流转后的 $1 1 2 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。大量增加的农药化肥投入加大了农田生态环境遭受污染的风险，增加了环境压力负荷。
+
+# 4结论与讨论
+
+农地流转促进了农业机械在农业生产过程中的使用，农业机械化是农业生态系统生产效率得以提升的关键所在。从研究结果来看，研究区农业机械使用率从农地流转前的 $42 \%$ 提高到农地流转后的$100 \text{‰}$ 。同时收割机、轻卡等大中型农业机械的使用也大大增加。研究区农地流转后，进行了大量的农业基础设施建设，包括新修和维护道路、水利、电力设施以及土地平整。良好的农业基础条件不仅为农业机械的使用创造了条件，也为农业规模经营奠定了基础。研究区平均农地经营规模由农地流转前的 $0 . 2 9 \mathrm { h m } ^ { 2 }$ 提高到农地流转后的 $1 3 . 8 6 \mathrm { h m } ^ { 2 }$ 。研究区农业生态系统单位投入减少了 $7 0 . 4 8 \%$ ，单位产出提高 $2 . 1 5 \text{‰}$ 说明规模经营有效降低了生产成本，增强了产品的市场竞争力。研究区农业生态系统生产效率的提高主要得益于单位投入的大幅度下降，而农业机械投入对于人工投入的替代是单位投入减少的最主要因素。由此可见，在适度规模经营中农业机械化对于促进农业增效增收具有重要实用意义。朱玉林等[25通过对环洞庭湖区农业生态系统进行研究得到了相似的结论，认为农业机械化程度越高，农业生态系统的投入产出效率则越高。但是，机械投入可更新比例系数为零。根据前文公式推导结果,机械投入的增加将使得农田生态环境压力增大。然而，考虑到机械投入并非是造成农田生态环境压力的主要因素(研究区农地流转后机械投入对环境负载率指标的贡献率仅为 $8 . 3 3 \%$ )，本文依然认为农业机械化的作用是中性的，有助于实现农地适度规模经营。
+
+农地流转后农业投入结构的变化，尤其是大量增加化肥农药的施用加剧了农业生态系统的生态环境风险。研究区农地流转前后，净能值产出率和环境负载率分别增加 $3 0 0 . 0 0 \%$ 和 $4 4 1 . 6 7 \%$ ，可持续发展指标降低 $2 5 \%$ ，表明环境压力的增加程度大于产出效率的增加程度，农业发展付出了环境代价。农地流转前后研究区农业种植结构发生显著变化。农地流转前，农户以种植水稻、玉米等粮食为主，兼有蔬菜如空心菜(Ipomoea aquatica)、辣椒(Capsicumannuum)等，很少种植水果。粮油、蔬菜和水果种植面积比例为 $1 1 : 3 : 1$ 。农地流转后，尤其是集约化温棚生产方式的引入使具有较高附加值的菜[如生姜、茄子(Solanum melongena)]果(如西瓜)种植面积快速增长、复种指数快速提升。粮油、蔬菜和水果的种植面积比例变为 $1 : 2 : 1$ ，菜果的种植比例由流转前的 $2 6 . 6 7 \%$ 上升到流转后的 $7 5 . 0 0 \%$ 。正是种植结构调整和产量追求，导致了农药化肥等购买资源的大幅增加，研究区化肥施用量从流转前的 $6 5 2 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到流转后的 $1 4 1 4 \mathrm { \ k g ^ { . } h m } ^ { - 2 }$ ，农药施用量从流转前的 $2 3 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 上升到流转后的$1 1 2 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。相关研究表明[26-27]，我国大部分农田并未采取平衡施肥和科学施药，化肥和农药的有效利用率仅为 $30 \% { \sim } 4 0 \%$ 。农田施用农药化肥后，一部分被作物吸收，大部分通过降水、灌溉等进入周围环境中，造成农田污染。随着农业集约化水平的不断提高，加之应对措施的缺乏，我国农药化肥流失造成的面源污染正在加剧[28]。可见，研究区农药化肥施用量的大幅增加为农业生态系统的环境负荷带来了潜在的风险。因此，在农业生产经营过程中必须根据种植作物类型及种植结构，注意农药化肥的合理施用，尽可能采取配方施肥技术、生物性农药替代技术等污染防控技术，以提高农药化肥的有效利用率，降低农业生态系统的环境负荷。由此可见,追加生产要素的数量能够实现农业增产，但大量低更新度或零更新度要素的投入却加剧了农业生态系统的生态环境风险。
+
+农地流转是一把双刃剑，关键在于如何把握农业集约化发展的方向。农地流转的同时，面临着农业集约化发展方式的选择。如果遵循农业集约化经营就是增加单位面积上资本和劳动力投入的观点，那么根据本文环境负载率指标分析的结果，农业适度规模经营的环境负载率会持续上升，而净能值产出率将随着边际报酬递减而增长趋缓，农业生态系统的可持续性将进一步降低，甚至随着化肥农药等不可更新投入的持续追加，而出现生态环境风险和食品安全隐患。如果遵循农业集约化是通过提升农业科技和装备水平以降低投入、提高农业生产率的观点，那么根据本文分析结果，农业适度规模经营将带来农业生态系统的可持续发展。因此，在国家引导农地流转和发展适度规模经营的政策体系中，还需要进一步确立可持续的农业集约化发展方式，同时在农业投入、扶持和管理的政策措施中给予鼓励并严格加以规范。
+
+# 参考文献References
+
+[1]邵明伟．中国农业经营方式研究述评[J]．改革与战略,2011, 27(5): 183-186 Shao M W.A full researching review on the management mode of Chinese agriculture[J].Reformation & Strategy,2011, 27(5): 183-186   
+[2]钟珍梅，黄勤楼，翁伯琦，等．以沼气为纽带的种养结合循 环农业系统能值分析[J]．农业工程学报，2012，28(14): 196-200 Zhong Z M,HuangQL,Weng BQ,et al.Energy analysis on planting-breeding circulating agriculture ecosystem linked by biogas[J]. Transactions of the CSAE,2012,28(14):196-200   
+[3]尹昌斌，周颖，刘利花．我国循环农业发展理论与实践[J]. 中国生态农业学报,2013,21(1):47-53 Yin C B, Zhou Y, Liu L H. Theory and practice of recycle agriculture in China[J]. Chinese Journal of Eco-Agriculture, 2013,21(1): 47-53   
+[4]付伟，赵俊权，杜国祯．山地立体农业的生态学解析[J]. 中国人口·资源与环境,2013,23(11):62-65 Fu W,Zhao JQ，Du G Z.Ecological analysis of the mountainous three-dimensional agriculture[J]. China Population Resources and Environment,2013,23(11): 62-65   
+[5]张曙光．土地流转与农业现代化[J]．管理世界,2010,26(7): 66-85 Zhang S G. Between the transfer of the use of land and agricultural modernization[J]. Management World,2010, 26(7): 66-85   
+[6] 黄祖辉，王朋．农村土地流转：现状、问题及对策——兼论 土地流转对现代农业发展的影响[J].浙江大学学报：人文 社会科学版,2008,38(2):38-47 Huang ZH,Wang P.Farmland transfer and its impacts on the development of modern agriculture: Status,problems and solutions[J]. Journal of Zhejiang University:Humanities and forestland transfer modes and its policy implications[J]. China Land Sciences,2014,28(5): 11-18   
+[8]刘卫柏，李中．新时期农村土地流转模式的运行绩效与对 策[J]．经济地理,2011,31(2):300-304 Liu W B,Li Z. Operating performance for the modes of rural land transfer and strategies in new times[J].Economic Geography,2011,31(2): 300-304   
+[9]郝丽丽，吴箐，王昭，等．基于产权视角的快速城镇化地区 农村土地流转模式及其效益研究——以湖北省熊口镇为例[J]. 地理科学进展,2015,34(1):55-63 Hao LL,Wu Q,Wang Z,et al. Rural land circulation models and benefits based on property tights in rapid urbanization areas:A case of Xiongkou Town in Hubei Province[J]. Progress in Geography,2015,34(1): 55-63   
+[10]张兰，冯淑怡，曲福田．农地流转区域差异及其成因分析- 以江苏省为例[J]．中国土地科学,2014,28(5):73-80 Zhang L,Feng S Y, Qu F T.Regional differences of farmland transfer and its influencing factors:A case study of Jiangsu Province[J]. China Land Sciences,2014,28(5): 73-80   
+[11]许恒周，郭忠兴．农村土地流转影响因素的理论与实证研 究——基于农民阶层分化与产权偏好的视角[J]．中国人口· 资源与环境,2011,21(3):94-97 Xu H Z,Guo Z X. Theoretic and empirical research on influential factors of rural land transfer based on the perspective of hierarchy differentiation and property rights preference[J]. China Population Resources and Environment, 2011, 21(3): 94-97   
+[12]张仕超，魏朝富，邵景安，等．丘陵区土地流转与整治联动 下的资源整合及价值变化[J]．农业工程学报，2014,30(12): 1-17 Zhang S C,Wei C F, Shao JA,et al.Resources integration and change in land value affected by land transfer and consolidation of rural villages in hilly areas[J]. Transactions of the CSAE,2014,30(12):1-17   
+[13]程飞，信桂新，魏朝富，等．农地流转综合绩效评价体系构 建及应用[J]．西南大学学报：自然科学版，2015，37(1): 110-117 Cheng F, Xin G X,Wei C F, et al.An evaluation system for comprehensive performance of farmland circulation and its application[J].Journal of Southwest University: Natural Science Edition,2015,37(1): 110-117   
+[14]蓝盛芳，钦佩，陆宏芳．生态经济系统能值分析[M]．北京: 化学工业出版社,2002:38-42 Lan SF, Qin P, Lu H F. Emergy Analysis of Ecological Economic System[M]. Beijing: Chemical Industry Press,2002: 38-42   
+[15］张文卓．基于三元相图法的酉阳县农业生态经济系统能值 分析及可持续发展研究[D]．重庆：西南大学,2014 Zhang W Z. Emergetic ternary diagram based on ecoeconomic analysis and sustainable development of Youyang County[D]. Chongqing: Southwest University, 2014   
+[16]张文卓，谢世友，冀建成．北碚区农业生态经济系统能 值分析及可持续发展[J]．湖北农业科学，2013，52(9): 2188-2191 Zhang W Z,Xie S Y, Ji J C.Economic system emergy analysis and sustainability development of agroecosystem in Beibei District[J].Hubei Agricultural Sciences,2013,52(9): 2188-2191   
+[17]吴超，胡小东．基于能值理论的重庆市生态承载力现状研 究[J]．西南大学学报：自然科学版,2010,32(4):26-30 Wu C,Hu X D. Study on energy ecological carrying capacity of Chongqing based on energy theory[J].Journal of Southwest University:Natural Science Edition,2010,32(4): 26-30   
+[18]张喜梅.基于生态足迹的重庆市生态安全动态变化研究[D]. 重庆：西南大学,2014 Zhang X M. Study on the dynamic changes of ecological security in Chongqing based on the emergy-ecological footprint model[D]. Chongqing: Southwest University, 2014   
+[19]Odum H T. Environmental Accounting: Emergyand Environmental Decision Making[M].New York: John Wiley and Sons,1995:101-117   
+[20]王小龙，韩玉，陈源泉，等．基于能值分析的无公害设施蔬 菜生产系统效率和可持续性评价[J].生态学报，2015,35(7): 2136-2145 Wang X L，Han Y,Chen Y Q，et al.Efficiency and sustainability evaluation of a pollution-free vegetable production system based on emergy analysis[J]. Acta Ecologica Sinica, 2015,35(7): 2136-2145   
+[21] Cavalett O,de Queiroz JF, Ortega E. Emergy assessment of integrated production systems of grains,pig and fish in small farms in the South Brazil[J].Ecological Modelling,2006, 193(3/4): 205-224   
+[22] Agostinho F,Diniz G, Siche R,etal. The use of emergy assessment and the geographical information system in the diagnosis of small family farms in Brazil[J]．Ecological Modelling,2008,210(1/2):37-57   
+[23]Chen G Q,Jiang M M,Chen B,et al.Emergy analysis of Chinese agriculture[J].Agriculture,Ecosystems & Environment,2006,115(1/4):161-173   
+[24]马凯，史常亮，王忠平．粮食生产中农业机械与劳动力的 替代弹性分析[J]．农机化研究,2011(8):6-9 Ma K,Shi C L,Wang Z P.Analysis of substitute relation betweenrurallaborandagro-mechanismingrain production[J]. Journal of Agricultural Mechanization Research, 2011(8): 6-9   
+[25]朱玉林，李明杰，龙雨孜，等．基于能值分析的环洞庭湖区 农业生态系统结构功能和效率[J].生态学杂志，2012, 31(12):3086-3093 Zhu Y L,Li M J,Long Y Z,et al. Structure function and efficiency of agro-ecosystem around Dongting Lake region of Hunan Province， South-central China based on emergy analysis[J].Chinese Journal of Ecology,2012,31(12):3086-3093   
+[26]李亮科.生产要素利用对粮食增产和环境影响研究—以 化肥为例[D]．北京：中国农业大学,2015 LiL K. The research on how utilization factors of agricultural production impact grain production and environment Taking fertilizer an example[D].Beijing:China Agricultural University,2015   
+[27]叶邦兴，唐海明，汤小明，等．中国农田污染的现状及防治 对策初探[J]．中国农学通报,2010,26(7):295-298 Ye B X,Tang H M,Tang X M,et al. Status and prevention measurements of farmland pollution in China[J].Chinese Agricultural Science Bulletin,2010,26(7):295-298   
+[28]杨正礼．中国农田污染评价与防治道路探究[J]．中国农学 通报,2006,22(9):415-419 Yang Z L.Estimation of cropland pollution in China and advisable approaches for its prevention and cure[J].Chinese Agricultural Science Bulletin,2006,22(9):415-419

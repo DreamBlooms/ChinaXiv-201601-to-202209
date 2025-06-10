@@ -1,0 +1,210 @@
+# A Consolidation Model for Carbon Fiber Reinforced Thermoplastic from the Wet-laidProcess and its Validation
+
+Xin YANa, Guang-lei ZHAOa, Jin YANGa\*, Xi-wen WANG\*\* aSchool of Light Industry and Engineering, State Key Laboratory of Pulp and Paper, South China University of Technology, Wushan Road 381st, Guangzhou City, China, 510640.
+
+Corresponding authors:
+
+\*Jin YANG, E-mail: yangjin@scut.edu.cn.
+
+\*Xi-wen WANG, E-mail: wangxw@scut.edu.cn.
+
+# Abstract
+
+In recent decades, carbon fiber reinforced thermoplastic from the wet-laid process (WL-CTP) appeals to attention for its simplicity and compatibility with recycled carbon fibers. However, there is still no constitutive model for the consolidation of WL-CTP. This study proposes a constitutive model based on the constitutive equation describing the compress behavior of the dry/impregnated CF network. Three deductions raised from the consolidation model were validated by the experiments investigating the effect of molding time, pressure, and temperature on the void volume fraction of the WL-CTP. Flexural testing further investigated the effect of molding time, pressure, and temperature on the flexural modulus and strength of the WL-CTP. It reveals that the molding pressure can be the only factor affecting the consolidation and flexural properties of the WL-CTP, which indicates that the WLCTP with low void content and qualified mechanical properties can be produced under a relatively low temperature and high productivity.
+
+Keywords: Carbon fiber reinforced thermoplastic，Wet-laid process, Consolidation, Model, Flexural properties
+
+# 1. Introduction
+
+Wet-laid process based on papermaking principles can be used to produce carbon fiber reinforced thermoplastic (CFRTP)[1], appealing attention for its simplicity and compatibility with recycled carbon fiber (rCF)，offering a solution to the low-cost CFRTP and the reuse of $\mathrm { r C F } ^ { [ 2 ] }$ ， broaden the application of CFRTP. After its first application in the manufacturing of Glass-FRTP in the $1 9 9 0 \mathrm { s } ^ { [ 3 , 4 ] }$ ， various kinds of fiber-reinforced thermoplastics (FRTP) were developed by the wet-laid process in recent decades, from traditional composites[5.6] to nanocomposites[7.8]， from artificial fiber-reinforced composites[5.6,9-12] to natural fiber-reinforced composites[13-16].
+
+The wet-laid process involves two procedures, mainly: (1) Papermaking. Carbon fibers (CFs） and thermoplastic fibers are dispersed in water to form pulp,during which the two kinds of fibers are mixed evenly. Subsequently, drainage and waterremoval result in preform; (2) Heat-compression molding. Place the preform in mold. After heat-compression and cooling, the carbon fiber reinforced thermoplastic from the wet-laid process (WL-CTP) can be obtained. The papermaking process produces a mixture of carbon fiber and thermoplastic fiber. The heat-compression molding makes the thermoplastic molten， impregnate carbon fiber， and endow the WL-CTP with strength. The consolidation of WL-CTP happens in heat-compression molding. Void is a kind of usual defect in composites， forming in consolidation， defecting the mechanical properties of composites. Thus, constitutive models were proposed to figure out the influence of molding conditions on eliminating voids, predicting the composites’ consolidation behavior.
+
+Generally speaking, two primary models were used to model the consolidation for FRTP. Firstly, the model of forced unidirectional infiltration of deformable porous media[17]. In this model, the consolidation process is regarded as a forced molten matrix infiltrating the deformable fiber network. The fiber network is modeled as a mat. The compressibility and relaxation properties of the mat are combined with Darcy's law to finish modeling. Michaud et al.18.19] modeled the consolidation of GMT from the film-stacking process by using this basic model. Secondly, the fiber bundle impregnation model[2o]． In this model, the fiber network is modeled as individual fiber bundles.Besides the combination of stress-strain behavior of fiber bundles and Darcy's law, the size and distribution of fiber bundles in preform are also considered. Bernet et al.[21 modeled the consolidation of GF/PEEK commingled yarn composite by using this model. The common ground between the two basic models is that they need a clear boundary between the fiber network and matrix at the initial consolidation stage.However, in WL-CTP, CFs exist both in single fiber and fiber bundles,commingling with thermoplastic fiber (see Fig 1). Thus, the carbon fiber network can be neither modeled as mat nor bundles.Meanwhile, there is no clear boundary between the fiber network and the matrix (see Fig 1). These properties mean that the two basic models mentioned above are not suitable for the consolidation of WL-CTP, make modeling the consolidation of the WL-CTP complex.
+
+Nevertheless, researchers still made efforts on the study of consolidation of WLCTP. Wei et al.[] investigated the influence of molding pressure on the mechanical properties of the WL-CTP consisting nominal fiber volume fraction (FVF） of $20 \%$ Results showed that pressure under 3 MPa could not ensure a good consolidation; meanwhile, pressure higher than 8 MPa could shorten the carbon fiber. An optimal pressure of 5 MPa was chosen to prepare WL-CTP with the best mechanical properties. Tse et al[22] inspected the void content of WL-CTP containing flax fiber and found that the void content decreased with the increase of the content of flax fiber due to the hydroxyl groups bringing an intimate interaction between fibers. Yeole et al.[23] studied the efect of papermaking additives on consolidating GF/PA6 composites prepared by the wet-laid process. They found that additives did not affect the consolidation process because they would volatilize during the compression molding.
+
+Researches reviewed above promote our understanding of the consolidation of the WL-CTP. Unfortunately，a constitutive model for consolidation is still not proposed. This study aims at the modeling of the consolidation of WL-CTP and the validation of the consolidation model. Firstly， the consolidation of WL-CTP was regarded as the compression of an impregnated fiber network. Then, the constitutive equations for the compressibility of impregnated fiber network were used to model the consolidation of WL-CTP. Deductions were proposed according to the model and validated by experiments. Finally, the effect of molding parameters on the flexural properties of the WL-CTP was investigated.
+
+# 2. Theory and modeling
+
+Fig 1(a) shows the even mixture of CFs and PP fibers in the preform consisting of 50vol% CF. After the preform was heated to molten under no pressure and cooled down, the matrix impregnated the CF network spontaneously, as shown in Fig 1(b). This spontaneous impregnation is usual, as the capillary pressure can enhance the matrix's infiltration to fiber network[21]. This phenomenon indicates that we can take the molten preform as impregnated CF network. Thus, the consolidation of WL-CTP can be regarded as the compression of the impregnated CF network, which would deform into a tighter structure under higher pressure, resulting in void closing, just as shown in Fig 2.
+
+![](images/6619602abd343b9698f02880a3b4b596283db57119c3b35d433245c28906f3a9.jpg)
+
+![](images/7e94af6c31c4d41f853110a830998bc3b6679f1ec5ad90bd7e649c714d61ee73.jpg)  
+Fig 2. The voids' morphology and the schematic diagrams of voids closing during the consolidation of WL-CTP. (a) - (b): The morphology of voids in WL-CTP prepared under 2 MPa (a) and 5 MPa (b), while the temperature and time were fixed at $1 9 0 ^ { \circ } \mathsf { C }$   
+and 10 min. (c) -(d): Schematic diagrams of voids closing.
+
+Servais et al.[24] studied the compressbility of the impregnated fiber network and found that the compress behaviors of the impregnated ones were identical to the dry ones, which can be described by the following equation developed by Toll et al.[25-27]:
+
+where $P _ { f }$ is the pressure applied to the dry/impregnated fiber network, $E$ is the tensile modulus of fiber, $V _ { f n }$ is the FVF of the dry/impregnated fiber network，is the scalar invariant of fiber orientation distribution function, is a parameter related to the mode of fiber orientation distribution: for 3-dimension distribution,；for 2-dimension distribution,.
+
+Considering a WL-CTP with voids. The ratio of the volume fraction of polymer to fiber,，, can be determined by burning test:
+
+where and are the weights of WL-CTP before and after burning test, and are densities of polymer and fiber. Then, the theoretical density of WL-CTP,，can be calculated as:
+
+Thus, the void volume fraction(VVF) of the WL-CTP, $X _ { V }$ can be calculated as:
+
+where is the actual density of WL-CTP. The constitutes of WL-CTP with voids are CF,matrix, and voids (i.e., air). Therefore, the FVF of the WL-CTP, $V _ { f c }$ ，can be calculated as:
+
+Since the consolidation of the WL-CTP can be regarded as the compression of the impregnated CF network thus,
+
+where $P _ { a }$ is the applied pressure for the consolidation of WL-CTP. Combine Eq(1) with Eq (5)-(7), we get:
+
+Wan et al.[28] utilized X-ray scanning to inspect the inner structure of WL-CTP and found that the CFs were mainly distributed in-plane. Therefore, the theoretical value of in Eq (8) can be determined as 5, i.e.,
+
+Thus,we get the constitutive model for the consolidation of WL-CTP.
+
+According to Eq (9), we can make the following three deductions:
+
+(1) Because no term representing molding time exists in Eq (9), molding time does not affect the VVF of WL-CTP;
+
+(2) VVF decrease with the increase of molding pressure, and have a linear correlation with a coefficient of 5;   
+(3） Because no term representing molding temperature exists in Eq (9),molding temperature does not affect the VVF of WL-CTP.   
+Experiments would be designed to validate the three deductions.
+
+3.Materials and method
+
+# 3.1. Composite preparation
+
+Fig 3 shows a schematic diagram of the sample preparation. CFs (ZOLTECK PX35 Wet-Type, length of $6 ~ \mathrm { m m }$ ，density of $1 . 9 1 \ \mathrm { g } / \mathrm { c m } ^ { 3 } ,$ ） and PP fibers (Zhejiang Yijiahui Co., Ltd, length of $4 ~ \mathrm { m m }$ ,coarse of 3 dtex, density of $0 . 9 0 ~ \mathrm { g / c m } ^ { 3 }$ )were jointdisintegrated in water by a blender (Lorentzen& Wetter 991509, Sweden) for $1 0 \mathrm { { m i n } }$ 0 to form a fiber suspension containing $0 . 1 \mathrm { w t \% }$ fiber raw materials. Although one of the advantages of the WL-CTP is compatible with rCFs, the CFs used here are original. This is because we can determine the tensile modulus of CF as a critical constant in the consolidation model from Eq (9). However, as far as we know, the tensile modulus of rCFs can vary considerably due to the complicated raw material supplying for rCF manufacturing and detriment to the mechanical properties of CFs during recycling[29]. Thus，we chose original CFs as raw material to avoid possible errors raised by possible variety between rCFs batches.
+
+The fiber suspension was subsequently poured into a laboratory papermaking machine (Lesson Ind. Co., Ltd, 398AS, China Taipei). Drainage and squeeze resulted in the wet nonwoven fabric, which would be dried at $1 0 5 ^ { \circ } \mathsf { C }$ for $6 \textup { h }$ to form the dry preform. The final dry preforms had a basis weight of $4 0 0 \ \mathrm { g / m } ^ { 2 }$ approximately. Sufficient preform was put in the matched-die mold (home-made, specific information of the mold can be seen in the supplementary material) so that the prepared WL-CTP had a theoretical thickness of $2 ~ \mathrm { m m }$ without voids. The molding pressure was applied after the whole mold set was preheated for $^ { \textrm { 1 h } }$ in a platen press machine. Then the mold was transferred swiftly to another platen press machine fixed at room temperature and cooled for $2 0 ~ \mathrm { { m i n } }$ . Molding pressure was maintained during cooling. Finally,a square WL-CTP sample with a side length of $1 0 0 \ \mathrm { m m }$ was obtained. Fig 4 shows the heat-molding procedures.
+
+![](images/9006d75a0110f633a78ec4a4e2d7aff7b64fdd40573e15e30c4992de859db110.jpg)
+
+Fig 3. WL-CTP preparation process: (a) PP fibers and CFs are dispersed in water; (b) preform is obtained after drainage and water-removal; (c) place preform in the mold;
+
+(d)-(f) the mold was heat-compressed and cooling, resulting in WL-CTP
+
+![](images/91d05b13cecb619c19644884e9021680d7e4eb3feeee2f7919c5fbe3b1b9370d.jpg)  
+Fig 4. The heat-molding compression procedures, taking molding temperature of
+
+190℃, pressure of 5 MPa, and time of 10 min as an example.
+
+# 3.2. Testing
+
+# 3.2.1.Burning test and the determination of the VVF of WL-CTP
+
+WL-CTP was placed in an oven under $3 5 0 ^ { \circ } \mathsf C$ for 4 h to burn off the PP matrix, the weights before and after burning were recorded. The ratio of the volume fraction of polymer to fiber would be calculated according to Eq (2). The actual density was measured by density balance and then applied into Eq (4) to calculate VVF. All the SDs of VVF data were calculated from three parallel experiments.
+
+# 3.2.2. Flexural properties
+
+Flexural testing was performed according to the GB/T 9341-2008. A rectangular piece with a length of $4 0 \ \mathrm { m m }$ and a width of $2 5 \mathrm { m m }$ was cut from the WL-CTP sample. A load frame(Shimadzu AGS10KNI) with a $1 0 \mathrm { k N }$ load cell was used to test specimens in a three-point bend at a cross-head speed of $1 \ \mathrm { m m / m i n }$ .The span length was fixed at $3 2 ~ \mathrm { m m }$ . All the SDs of flexural properties data were calculated from five parallel tests.
+
+# 3.2.3.Micro observation
+
+All SEM images were obtained by Scanning Electronic Microscope (Zeiss EV018).
+
+# 4.Results and discussions
+
+# 4.1. The effect of molding time on VVF
+
+WL-CTPs were prepared under molding pressure of 2 MPa and 5 MPa, respectively. The molding temperature was fixed at $1 9 0 ^ { \circ } \mathsf { C }$ The variation of VVF along with molding time was inspected. The experiment design of this part was summarized in Table 1. Results were plotted in Fig 5.
+
+Table 1. Experiment design for the investigation of the effect of molding time on
+
+<html><body><table><tr><td colspan="4">TableT.Experimentdesignfortheinvestigationofthe effectofmoidingtimeon VVF.</td></tr><tr><td>Molding temperature/C</td><td></td><td>Molding</td><td>Molding time/min</td></tr><tr><td rowspan="2">190</td><td rowspan="2">1:1</td><td>pressure/MPa</td><td></td></tr><tr><td>2 5</td><td>0,1,2,5,10,20, 30 0,1, 2, 5,10,20, 30</td></tr></table></body></html>
+
+![](images/715cea3d2c2ce5e93d2a8b088bfd8a35ad994674c20b4ee3e18f25768a7b3fe4.jpg)  
+Fig 5. The effect of molding time on VVF
+
+For the molding pressure of $2 \mathrm { M P a }$ ， the VVF decreased with molding time before molding time of $1 0 ~ \mathrm { m i n }$ and then stabled at ${ \sim } 2 0 ~ \mathrm { v o l } \%$ . This is because there was a dry CF network at the initial consolidation stage, just as shown in Fig 6. However, these dry fiber networks would be impregnated spontaneously by the molten polymer. Thus, we can observe a decreasing VVF at an early stage. After the complete impregnation of the dry CF network, no pressure to further deform the fiber network meaning no further voids closing, so that a stable VVF can be observed. For the molding pressure of $5 \ \mathrm { M P a }$ ， the VVF did not decrease at the early stage and stabled at ${ \sim } 1 1 ~ \mathrm { v o l \% }$ at every molding time. This is because the fiber network was compressed much tighter under $5 \mathrm { M P a }$ ，which means the spontaneous impregnation stage can be too short to be observed in the current experimental design. Therefore, we validate the Deduction (1): molding time does not affect the VVF of WL-CTP.
+
+![](images/681c94af1e6f08d3296f47e55df616938fe680d54a0d9d5652a78f3cdf41305d.jpg)  
+Fig 6. The dry fiber networks in WL-CTP consolidated under molding temperature of   
+190℃, pressure of 2 MPa, time of 0 (a), 1 (b), 2(c), and 5 (d) min.
+
+# 4.2. The effect of molding pressure on VVF
+
+# 4.2.1 The compress behavior of dry fiber network
+
+Consolidated WL-CTP was heated under $3 5 0 ^ { \circ } \mathsf C$ for $4 \mathrm { h }$ to burning off the polymer, resulting in a dry CF network. The weight and size of the dry CF network were measured. The dry CF network was compressed using a load frame (Shimadzu AGS10KNI) with a $1 0 ~ \mathrm { k N }$ load cell, and the machine speed was set at $1 \ \mathrm { m m / m i n }$ During compression, the Load-Strain curve was recorded and transformed into $P _ { f } - V _ { f n }$ curve by the following equations:
+
+where $F$ is load, $s$ is strain, $A , m$ and $h _ { \theta }$ are the compressed area, the weight, and the initial height of the dry CF network, respectively. Fig 7 shows the curve of $P _ { f } - \mathrm { \Delta } V _ { f n }$ plotted in logarithmic coordinates. Perform linear fittng on the linear part of the curve to get the fitting equation:
+
+![](images/a904d3438be5ad1a09b6cd8ad47fd0e7279b14e8887ecbff424d1006e84939c7.jpg)  
+Fig 7. The compress behavior of the dry fiber network
+
+The slope of the fitting equation is very close to 5,which means the use of Eq (1) is appropriate. From Eq (8) and (9), we can find that the value of the fiting equation's intercept is an intrinsic value of the preparation method. Therefore, intercepts would be fixed at 8.27 during linear fittings in 4.2.2 and 4.3.
+
+# 4.2.2 The effect of molding pressure on VVF
+
+In this part, WL-CTP would be prepared under different molding pressures while the molding temperature and time were fixed at $1 9 0 ^ { \circ } \mathsf C$ and $1 0 ~ \mathrm { m i n }$ . The platen press machine we used can offer a minimal pressure of $2 \mathrm { M P a }$ . Thus, the molding pressure was designed as 2, 3, 4,5,and 6 MPa. The variation of VVF along with molding pressure was inspected. Table 2 summarizes the experimental design of this part. Fig 8 shows the results plotted in logarithmic coordinates.
+
+Table 2. Experiment design for the investigation of the effect of molding pressure on   
+
+<html><body><table><tr><td colspan="4">VVF.</td></tr><tr><td>Molding temperature/℃</td><td></td><td>Molding pressure/MPaMolding time/min</td><td></td></tr><tr><td rowspan="2">190</td><td>1:</td><td>2,3,4,5,6</td><td rowspan="2">10</td></tr><tr><td>1</td><td></td></tr></table></body></html>
+
+![](images/756ba9b6da745ea45886fd443f56d0d334f042228c5bc8add87642262348e10c.jpg)  
+Fig 8. The effect of molding pressure on VVF
+
+The slope of the fitting line in Fig 8 was 4.64 and close to the theoretical value of 5. Adj- $\cdot \mathrm { R } ^ { 2 }$ value of O.99989 indicated a good agreement. Thus,we validate the Deduction (2): VVF decrease with the increase of molding pressure， and have a linear correlation with a coefficient of 5.
+
+# 4.3. The effect of molding temperature
+
+The experiments in 4.2.2 validated the consolidation model of WL-CTP directly. If the relation between and showed in Fig 8 can be repeated under different molding temperatures， then we can say molding temperature does no effect on the consolidation of WL-CTP, i.e.， do no effect on VVF of WL-CTP. In this part, experiments in 4.2.2 were repeated but under the molding temperature of $1 8 0 ^ { \circ } \mathsf { C }$ and $2 0 0 ^ { \circ } \mathsf C$ The experiment design of this part was summarized in Table 3. Results were plotted in logarithmic coordinates in Fig 9.
+
+Table 3. Experiment design for the investigation of the effect of molding temperature
+
+![](images/8839b0074e21d8951a2ad2397b9bc7b12eb256a356fe41dd3841f4efcd08130c.jpg)  
+Fig 9. The effect of molding temperature on VVF: the relation between and under the molding temperature of $1 8 0 ^ { \circ } \mathsf { C }$ (a) and $2 0 0 ^ { \circ } \mathsf C$ (b)
+
+Linear fitting concluded a good agreement both in the case of $1 8 0 ^ { \circ } \mathsf C$ and $2 0 0 ^ { \circ } \mathsf { C }$ and the fitting equations were close to each other and both close to the fiting equation in Fig 7. Thus, we validate the Deduction (3): molding temperature does not affect VVF of WL-CTP.
+
+# 4.4 The effect of molding parameters on the flexural properties of WL-CTP
+
+From the experiment results discussed above, we can conclude that the molding pressure is the only factor that affects the VVF of WL-CTP among the molding parameters discussed above. This makes us wonder if the molding pressure can be the only factor affecting the mechanical properties of WL-CTP. Thus,we choose the flexural properties as the representative of the mechanical properties, and the effect of molding parameters on the flexural properties was investigated.
+
+The flexural properties of WL-CTP prepared in 4.1 were tested to inspect the effect of molding time, and the results are plotted in Fig 10. In Fig 10(a), in the molding pressure of $2 \ \mathrm { M P a }$ ， both the flexural modulus and strength increase with molding time and stabled after molding time of $1 0 \ \mathrm { m i n }$ ，behaved similarly to the VVF's variety with molding time in Fig 5. Fig 10(b) indicates a non-obvious impact of molding time on the flexural modulus and strength, which is also similar to the impact of molding time on VVF in the molding pressure of 5 MPa in Fig 5. Therefore, we can conclude that the molding time does no effect on the flexural properties of WL-CTP.
+
+![](images/aa8bd8f281d84d71064ff5753b6fcb240fe5768c75083fe736f0958311ad1912.jpg)  
+Fig 10. The effect of molding time on the WL-CTP consolidated under 2 MPa (a) and 5 MPa (b)
+
+The flexural properties of WL-CTP prepared in 4.2 and 4.3 were tested to inspect the effect of molding pressure and temperature,and the results are plotted in Fig 11. For both three levels of molding temperature, the flexural modulus and strength both increased with the molding pressure, corresponding to the VVF's decrease along with the increase of molding pressure in Fig 8 and Fig 9. This is because the higher molding pressure deforms the CF network in the WL-CTP into a tighter one and closes the voids, reducing the VVF. For every molding pressure, the molding temperature does not affect the flexural modulus and strength, just as the effect of molding temperature on the consolidation of WL-CTP that we observed in 4.3.
+
+![](images/291832958c03af7103490ebfc9f3534eeff4561d141ab84bd3a51efe71329825.jpg)  
+Fig 11. The effect of molding pressure and temperature on the flexural modulus (a) and flexural strength (b)
+
+From the discussion above, we can conclude that the molding pressure is the only factor affecting the mechanical properties of WL-CTP, just like the molding pressure is the only factor affecting the VVF of WL-CTP. This means that once the molding temperature reaches the polymer's melting point and the molding pressure reaches the level dictated by Eq (9), WL-CTP with low void content and qualified mechanical properties can be produced under relatively low molding temperature and high-speed production. Therefore, the WL-CTP, as a kind of discontinuous CFRTP, can be a kind of affordable CFRTP product that can be used as interiors and coverings[30] for lightweight design for automobiles at a large scale.
+
+# 5. Conclusion
+
+A constitutive model for the consolidation of WL-CTP was proposed based on the constitutive equation describing the compress behavior of the dry/impregnated CF network. Three deductions were proposed according to the model and validated by experiments. It reveals that the molding pressure is the only factor affecting the consolidation of WL-CTP among the molding time， pressure, and temperature. Flexural properties testing further determined that the molding pressure can be the only factor affecting the flexural properties of WL-CTP among the molding time, pressure, and temperature. The overall experimental results indicate that WL-CTP with qualified mechanical properties can be produced under a relatively low molding temperature and high productivity， which means WL-CTP can be a promising candidate for the affordable CFRTP product.
+
+# Acknowledgment
+
+We would like to acknowledge Toray and ZOLTECK for supplying PX35 carbon fiber. We also appreciate the assistance of Guangzhou Congyuan Instruments in the manufacturing and maintenance of the matched-die mold.
+
+# References
+
+[1] Hemamalini T, Giri Dev V R.Wet Laying Nonwoven Using Natural Cellulosic Fibers and Their Blends: Process and Technical Applications.A Review[J].Journal of Natural Fibers,2019: 1-11.   
+[2] Pakdel E, Kashi S,Varley R,et al.Recent progress in recycling carbon fibre reinforced composites and dry carbon fibre wastes[J].Resources, Conservation and Recycling,2021, 166: 105340.   
+[3] D. F. Hiscock D M B.Long fiber reinforced thermoplastic matrix composites by slurry deposition[J].Polym Compos,1989,10: 145-149.   
+[4] D.M. Bigg D F H, J.R.Preston, E.J.Bradbury The Properties of Wet-Formed Thermoplastic[J].Polym Compos,1993,14: 26-34.   
+[5] Lu Y. Mechanical Properties of Random Discontinuous Fiber Composites Manufactured from the Wetlay Process[D].Virginia Polytechnic Institute and State University Blacksburg, Virginia Virginia Polytechnic Institute and State University 2002.   
+[6] Caba A C. Characterization of Carbon Mat Thermoplastic[D].Virginia Polytechnic Institute and State University,Blacksburg, Virginia: Virginia Polytechnic Institute and State University,2005.   
+[7] Nakagaito A N, Fujimura A, Sakai T, et al.Production of microfibrillated cellulose (MFC)-reinforced polylactic acid (PLA) nanocomposites from sheets obtained by a papermaking-like process[J].Compos Sci Technol,2009, 69 (7-8): 1293-1297.   
+[8] Lee J-C, Lee J-A,Lim D-Y, et al.Fabrication of Cellulose Nanofiber Reinforced Thermoplastic Composites[J].Fibers and Polymers,2018,19 (8): 1753-1759.   
+[9] Johnson R K, Zink-Sharp A, Renneckar S H,et al.Mechanical properties of wetlaid lyocell and hybrid fiber-reinforced composites with polypropylene[J].Composites Part A: Applied Science and Manufacturing,2008, 39 (3): 470-477.   
+[10] M. Honma A T, N. Hirano,T. Hashimato. novel carbon- fiber- reinforced stampled thermoplastic sheet with high strength[C].18th International Conference on Composite Materials,2011.   
+[11] Wei H, Nagatsuka W, Lee H, et al.Mechanical properties of carbon fiber paper reinforced thermoplastics using mixed discontinuous recycled carbon fibers[J].Adv Compos Mater,2017, 27 (1): 19-34.   
+[12] Wei H W, Nagatsuka W, Ohsawa I, et al.Influence of small amount of glass fibers onmechanical propertiesof discontinuousrecycled carbon fiber-reinforced thermoplastics[J].Adv Compos Mater,2019, 28 (3): 321-334.   
+[13] Bullions TA, Gillespie R A,Price-O'brien J, et al.The effect of maleic anhydride modified polypropylene on the mechanical properties of feather fiber, kraft pulp, polypropylene composites[J].J Appl Polym Sci,2004, 92 (6): 3771-3783.   
+[14] Bullions TA, Hoffman D, Gillespie R A, et al.Contributions of feather fibers and various cellulose fibers to the mechanical properties of polypropylene matrix composites[J].Compos Sci Technol,2006, 66 (1): 102-114.   
+[15] Christina Froemder K K, Neil Reynolds, Peter R. Wilson, Felipe C. Fernandes, Stuart R. Coles Investigation of the processabilityof hybrid thermoplastic nonwoven includingrecycledcarbon fibrethrough faststamping[C].SAMPEEurope Conference,2018.   
+[16] Sousa S, Costa A P, Simoes R.Poly(lactic acid) composites reinforced with kraft pulp fibres: Production by a papermaking process and characterisation[J].Composites Part A: Applied Science and Manufacturing,2019, 121: 273-282.   
+[17] Sommer J L，Mortensen A.Forced unidirectional infiltration of deformable porous media[J].J Fluid Mech,1996, 311: 193-217.   
+[18] Michaud V, Manson J a E.Impregnation of compressble fiber mats with a thermoplastic resin. Part I: Theory[J].J Compos Mater,2001,35 (13): 1150-1173. [19] Michaud V, Tornqvist R, Manson Ja E.Impregnation of compressible fiber mats with a thermoplastic resin. Part II: Experiments[J].J Compos Mater,2001,35 (13): 1174-1200.   
+[20] Kim T W, Jun E J, Um M K, et al.Effect of pressure on the impregnation of thermoplastic resin into a unidirectional fiber bundle[J].Adv Polym Tech,1989, 9 (4): 275-279.   
+[21] Bernet N,Michaud V, Bourban P E,et al.Impregnation model for the consolidation of thermoplastic composites made from commingled yarns[J].J Compos Mater,1999, 33 (8): 751-772.   
+[22] Tse B, Yu X, Gong H, et al.Flexural Properties of Wet-Laid Hybrid Nonwoven RecycledCarbonandFlaxFibreCompositesinPoly-LacticAcid Matrix[J].Aerospace,2018, 5 (4).   
+[23] Yeole P, Ning H, Hassen A A,et al.The Effect of Flocculent, Dispersants, and Binder on Wet-laid Process for Recycled Glass Fiber/PA6 Composite[J].Polym Polym Comp0s,2018, 26 (3): 259-269.   
+[24] Servais C, Michaud V, Manson J a E.The packing stress of impregnated fiber mats[J].Polym Compos,2001, 22 (2): 298-311.   
+[25] Tol S.Packing mechanics of fiber reinforcements[J].Polym Eng Sci,1998, 38 (8): 1337-1350.   
+[26] Toll S.Note: On the tube model for fiber suspensions[J].J Rheol,1993,37 (1): 123-125.   
+[27] S. Toll Ja E M.Elastic Compression of a fiber network[J].Journal of Applied Mechanics,1995, 62 (1): 223-226.   
+[28] Wan Y, Takahashi J.Deconsolidation behavior of carbon fiber reinforced thermoplastics[J].J Reinf Plast Compos,2014, 33 (17): 1613-1624.   
+[29] Meng F, Mckechnie J, Turner T, et al.Environmental Aspects of Use of Recycled Carbon Fiber Composites in Automotive Applications[J].Environ Sci Technol,2017, 51 (21): 12727-12736.   
+[30] Wan Y, Takahashi J.Development of Carbon Fiber-Reinforced Thermoplastics for Mass-Produced Automotive Applicationsin Japan[J].Journal of Composites Science,2021, 5 (3): 86.

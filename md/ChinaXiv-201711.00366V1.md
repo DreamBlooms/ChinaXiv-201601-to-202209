@@ -1,0 +1,172 @@
+# Wind tunnel test on the effect of metal net fences on sand flux in a Gobi Desert, China
+
+WANG Tao1,2.3.4, QU Jianjun1,2.3\*,LING Yuquan, XIE Shengbo1.3, XIAO Jianhua1.3
+
+1 Key Laboratoryof Desertand Desertification,Northwest Institute ofEco-Environmentand Resources,Chinese Academyof Sciences,Lanzhou 73000o,China;   
+² Breedig Base for State KeyLaboratoryofLand Degradationand EcologicalRestoration in Northwest China,Ningxia University, Yinchuan 750021,China;   
+3 Dunhuang Gobiand Desert Ecologyand Environment Research Station,Northwest Institute of Eco-Environment and Resources,Chinese Academy of Sciences,Dunhuang 7362Oo, China;   
+4 University of Chinese Academy of Sciences,Beijing 10o049,China
+
+Abstract: The Lanzhou-Xinjiang High-speed Railway runs through an expansive windy area in a Gobi Desert,and sand-blocking fences were built to protect the railway from destruction by wind-blown sand. However,the shielding effect of the sand-blocking fence is below the expectation.In this study,effects of metal net fences with porosities of O.5 and O.7 were tested in a wind tunnel to determine the effectiveness of the employed two kinds of fences in reducing wind velocity and restraining wind-blown sand. Specificaly,the horizontal wind velocities and sediment flux densities above the gravel surface were measured under different free-stream wind velocities for the following conditions: no fence at all single fence with a porosity of O.5, single fence with a porosity of O.7,double fences with a porosity of O.5,and double fences with a porosity of O.7. Experimental results showed that the horizontal wind velocity was more significantly decreased by the fence with a porosity of O.5,especially for the double fences. The horizontal wind velocity decreased approximately $6 5 \%$ at a distance of $3 . 2 5 \mathrm { ~ m ~ }$ (i.e., $1 3 \mathrm { H }$ ,where H denotes the fence height) downwind the double fences,and no reverse flow or vortex was observed on the leeward side.The sediment flux density decreased exponentially with height above the gravel surface downwind in all tested fences. The reduction percentage of total sediment flux density was higher for the fence with a porosity of 0.5 than for the fence with a porosity of O.7,especialy for the double fences.Furthermore,the decreasing percentage of total sediment flux density decreased with increasing free-stream wind velocity. The results suggest that compared with metal net fence with a porosity of O.7,the metal net fence with a porosity of O.5 is more effective for controling wind-blown sand in the expansive windy area where the Lanzhou-Xinjiang High-speed Railway runs through.
+
+Keywords: wind-blown sand；wind tunnel experiment;porous fence； flow field; sediment flux density; Lanzhou-Xinjiang High-speed Railway; Gobi Desert
+
+# 1 Introduction
+
+Sand-blocking fence is one of the most important parts in blown-sand disaster shelter systems. It can be set up at the front edge of the shelter system to reduce wind velocity and restrain wind-blown sand particles. Fences can be upright， horizontal， griddled， holed-plank，and wind-screened, depending on the available materials in diferent areas (Dong et al.,2O07).For example,upright fences made of reed bunches were used along the highway that crosses the Taklimakan Desert, Northwest China (Dong et al., 2O04). Nylon net fences were used along the Qinghai-Tibet Railway (Zhang et al.,2O10; Cheng and Xue,2014) and on the top of the Mogao Grottoes, China (Ling et al.,1996;Wang et al., 2005; Li et al., 2013,2014). The aerodynamic characteristic and shelter effect of a sand-blocking fence depends on its geometric design, including height, length，width，porosity， opening size， distribution， and geometry (Li and Sherman,2O15).Porosity, defined as the ratio of the open area to the total area of the fence,is commonly considered the most important structural feature controlling the performance of a sand-blocking fence (Bean et al.,1975; Cornelis and Gabriels,2005). Ling et al. (1984) observed the sand amounts accumulated around fences in the Shapotou area and concluded that fences with porosities of O.3-O.4 were effective in preventing the sand from accumulation at the windward side of the fence. Dong et al. (2OO6) measured the wind velocity threshold of saltating sand for fences with diferent porosities and pointed out that fences with porosities of O.3-O.5 resulted in a best effectiveness of the shelter system. Normally,a low-porosity fence has a beter effect in reducing wind velocity. However, fences with very low porosity can generate more turbulence downwind. A widely accepted proposition is that with increasing porosity, the wake velocities increase while the turbulence intensity decreases. In general， the optimal porosity of a sand-blocking fence is dependent on the pore distribution and the material of the fence (Baltaxe, 1967; Raine and Stevenson, 1977; Ling et al.,1984; Lee and Kim, 1998,1999; Lee et al., 2002; Cornelis and Gabriels,2005; Dong et al., 2006, 2007; Li and Sherman,2015).
+
+The Lanzhou-Xinjiang High-speed Railway in China is the first high-speed railway that runs through a vast windy area (totally $4 6 2 . 4 1 ~ \mathrm { k m }$ from east to west) and the blown-sand disaster (the highest instantaneous wind velocity reaching up to $6 0 . 2 ~ \mathrm { m / s }$ ） has constantly troubled the railway operation (Zhou et al., 2012; Cheng et al., 2015,2016). The areas with strong wind along the Lanzhou-Xinjiang High-speed Railway are mostly distributed in the Gobi Desert (Fig. la). The natural surfaces of the Gobi Desert were extensively disturbed by large-scale projects and railway construction is easily the most significant one of such projects. Loose materials (mainly sand and silt) are readily available near railways for wind to transport. Rocky checkerboard sand barriers and sand-blocking fences were often built on the windward side of the railways to protect them from destruction by wind-blown sand (Fig.1b).However, the shielding effect of the shelter system is not often satisfactory because wind-blown sand particles can often accumulate around the tracks of the railways (Fig.lc).Due to the relatively low fence porosity (O.3） and uneven distribution of the fence openings,massive sand particles can often accumulate on the downwind side of the fences (Fig.1d). Therefore,the need is still pressing to design a more effective sand-blocking fence to improve the effectiveness of the existing shelter systems.
+
+In this study, we simulated the sheltering effects of metal net fences with porosities of 0.5 and O.7 in a wind tunnel and compared the sheltering effects of single and double fences in the experiments.Wind velocities,airflow fields,and sediment flux densities downwind the single and double fences were measured and the data were used to determine the sheltering effects of the metal net fence. The results are expected to_provide references to improve the existing sand-blocking systems of the Lanzhou-Xinjiang High-speed Railway.
+
+# 2 Materials and methods
+
+# 2.1Experiment design and set-up
+
+The experiments were carried out in May 2Ol6 in a wind tunnel at the State Key Laboratory of Desertification and Aeolian Sand Disaster Combating, Gansu Desert Control Research Institute. The blow-type non-circulating wind tunnel had a total length of $3 8 . 9 \mathrm { ~ m ~ }$ and the test section in the wind tunnel was $1 6 . 0 \ \mathrm { m }$ long.The cross-sectional area of the test section was $1 . 2 ~ \mathrm { m } { \times } 1 . 2 ~ \mathrm { m }$ and the thickness of the boundary layer in the test section was up to $0 . 5 \mathrm { ~ m ~ }$ ，The free-stream wind velocity in the wind tunnel ranged from 4 to $3 5 ~ \mathrm { m / s }$ ：
+
+![](images/cec62592ef2406214ec9d87b85cfab54b8d2d5b6cc6b721c1ef3e8e53834e452.jpg)  
+Fig.1Illustrations: (a) Gobi Desert where the Lanzhou-Xinjiang High-speed Railway runs through,(b) rocky checkerboard sand barriers and sand-blocking fences on the windward side of the railway,(c)sand accumulations around he tracks of the railway,and (d) sand accumulations on the downwind side of the sand-blocking fences
+
+Fence models were constructed with rigid stainless metal wires with a diameter of $1 ~ \mathrm { m m }$ in our experiments. As $90 \%$ of the wind-blown sand occurs within $3 \mathrm { ~ m ~ }$ above the ground surface in the windy areas of the Gobi Desert (Cheng et al., 2O15), the fences used along the Lanzhou-Xinjiang High-speed Railway were purposely designed to have a height of approximately $2 . 5 { - } 3 . 0 \mathrm { ~ m ~ }$ Correspondingly, the height of the fence models in our experiments was designed at $0 . 2 5 \mathrm { m } ( 2 5 \mathrm { c m } )$ （204号 with the geometric scaling of approximately 1:1O with the characteristic ratio of scale height to boundary layer height being O.5.The fence length was $1 . 2 \mathrm { m }$ ，which covered the total width of the test section. Two fence models with porosities of 0.5 and 0.7 were designed with the corresponding pore sizes 3 and $8 ~ \mathrm { m m }$ ，respectively (Fig. 2). Shelter effects of single and double fences were compared in this study.
+
+![](images/2e1f0ce61e2f008ff7ecc81c872283cfc16fbfaa1f6be82ec3a39b5fab603206.jpg)  
+Fig.2Schematic diagram of (a) fence model with a porosity of 0.5 and (b)fence model with a porosity of 0.7
+
+As shown in Figure 3,the first fence was located at $1 0 \mathrm { ~ m ~ }$ from the entrance of the test section (White,1996).And, the second fence was located at $1 . 5 \mathrm { m }$ downwind from the first fence,i.e.,11.5 m from the entrance of the text section. It should be particularly noted that we laid a gravel surface layer ( $1 . 2 \mathrm { ~ m ~ }$ wide and $1 0 . 0 \mathrm { ~ m ~ }$ long） that was levelled to the tunnel floor to simulate the Gobi Desert surface (Figs.3 and 4a).The gravel surface layer was made of natural Gobi gravels with the diameters ranging from 0.5 to $3 . 0 ~ \mathrm { c m }$ . According to previous observations (Cheng et al., 2012), wind-blown sand movement occurred in the Gobi Desert when the wind velocity exceeded $1 0 ~ \mathrm { { m / s } }$ (mean velocity over $1 0 ~ \mathrm { { m i n } } ,$ ). Therefore,four free-stream wind velocities that are larger than the threshold velocity in the Gobi Desert were used to measure the wind velocity profiles and sediment flux density profiles in our experiments ( $6 0 \ \mathrm { c m }$ above the tunnel floor at the entrance of the test section). The adopted free-stream wind velocities were 10,17, 22,and $2 7 ~ \mathrm { { m / s } }$
+
+![](images/2bc39fcecb707add4059ec77933ae96d27d23ec4c7c2696158eea16234de503e.jpg)  
+Fig.3Layout of the test section in the wind tunnel
+
+![](images/7caa492e9e4a8fd5734a7efe5a191bf8c0e0df2461e4bae65bf207f7e8ff7eea.jpg)  
+Fig.4Layout of (a) fence models and gravel surface layer set-up in the wind tunnel,(b） wind velocities measured using pitot-static tubes,(c) sand bed and sand sampler set-up in the wind tunnel,and(d) sand particles dropped down evenly around fences during the experiment
+
+# 2.2 Data collection and analysis
+
+The wind velocities were measured using an array of pitot-static tubes at heights of 1, 2,3,5, 8, 13,20,30,40, and $6 0 \ \mathrm { c m }$ above the gravel surface,and at distances of 1H, 2H, 3H, 5H, 7H, 9H, 11H and 13H (H is the fence height) downwind from the single fence and also from double fences (Fig. 4b). The efficiency of the metal net fence in reducing wind velocity at a given height above the gravel surface and at a given distance downwind from the fences was expressed in terms of the reduction coefficient of horizontal wind velocity $( R c _ { ( x , z ) } )$ (Cornelis and Gabriels,2005):
+
+$$
+R c _ { ( x , z ) } { = } 1 { - } u _ { ( x , z ) } / u _ { 0 ( x , z ) } ,
+$$
+
+where $x$ is the distance downwind from the fence $\mathrm { ( m ) }$ ； z is the height above the gravel surface (cm); $u _ { ( x , z ) }$ is the wind velocity above the gravel surface that had fences $\mathrm { { ( m / s ) } }$ ; and $u _ { 0 ( x , z ) }$ is the wind velocity above the gravel surface that had no fence $\mathrm { { ( m / s ) } }$
+
+To obtain the sand transport rate (mass per unit time and per unit area) above the gravel surface with or without fences,we placed a sand bed (diameters of $0 . 1 \mathrm { - } 0 . 5 ~ \mathrm { m m }$ ，width of $1 . 2 \mathrm { m }$ ,depth of $0 . 1 \mathrm { ~ m ~ }$ and length of $4 . 0 \mathrm { m } )$ at $1 \mathrm { m }$ downwind from the test section entrance (Fig. 3). The length of the sand bed $( 4 . 0 ~ \mathrm { m } )$ ensured the full development of the saltating sand cloud. Furthermore,we used a vertical segmented sand sampler to measure sand transport above the gravel surface. The total height of the sand sampler was $5 0 \ \mathrm { c m }$ with a sampling interval of $2 \ \mathrm { c m }$ ，During the experiment, the sand sampler was set at $1 5 \mathrm { ~ m ~ }$ downwind from the entrance of the test section (Figs. 4c and d).
+
+The sediment flux density profile describes how the sand transport rate changes with increasing height above the ground (Lv and Dong,2O14).To obtain the sediment flux density，we firstly converted the mass of transported sand collected at each height above the gravel surface into unit of $\mathrm { k g } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } )$ . We then calculated the sediment flux density above the gravel surface with and without fences. In this study， SigmaPlot version 12.5 was used to conduct linear regression analysis and display the graphs. AutoCAD version 2OO7 was used to draw the schematic diagram of fence models and experiment set-up.
+
+# 3 Results
+
+# 3.1 Effects of fences on boundary wind over the Gobi Desert
+
+# 3.1.1 Wind velocity
+
+We first measured the wind velocities above the gravel surface that had no fence under different free-stream wind velocities (Fig. 5). Regression analyses showed that the horizontal wind velocity above the gravel surface changed with height according to a logarithmic law, which can be expressed by the following equation:
+
+$$
+\scriptstyle u _ { z } = a + b \ln z ,
+$$
+
+where $u _ { z }$ is the horizontal wind velocity at height z (m/s); $z$ is the height above the gravel surface (cm); and $a$ and $b$ are the regression coefficients.For each free-stream wind velocity, the measured wind velocity data above the gravel surface fitted well with the logarithmic curve $( R ^ { 2 } { \ge } 0 . 8 9 )$ ， indicating that the simulated results in the wind tunnel agree well with the field conditions.
+
+As shown in Figure 6, wind velocities above the gravel surface that had fences were similar to those above the gravel surface that had no fence, indicating that the influence of fences on airflow was minimal. However,compared with the gravel surface that had no fence,horizontal wind velocities downwind the single fence or double fences all decreased below the top of the fences (especially approximately $2 0 \ \mathrm { c m }$ above the gravel surface) and increased above the top of the fences.Furthermore,below the top of the fences,horizontal wind velocities downwind the double fences decreased much more significantly than those downwind the single fence; while above the top of the fences,horizontal wind velocities downwind the double fences increased slightly more than those downwind the single fence.The decrease of horizontal wind velocity downwind the fences with a porosity of O.5 was greater than that downwind the fences with a porosity of 0.7.
+
+Figure 7 shows the reduction coeficient of horizontal wind velocity with distance downwind from the fences at different heights above the gravel surface under the tested free-stream wind velocity of $2 2 ~ \mathrm { m / s }$ .For the single fence,the maximum reduction coefficient of horizontal wind velocity was approximately 0.4 at a distance of 9H downwind from the fence with a porosity of 0.5 (Fig.7a) and O.2 at a distance of 7H downwind from the fence with a porosity of O.7 (Fig.7c). For the double fences，the maximum reduction coeficient of horizontal wind velocity was approximately O.65 at a distance of 13H downwind from the fences with a porosity of 0.5 (Fig. 7b) and O.4 at a distance of $1 3 \mathrm { H }$ downwind from the fences with a porosity of O.7 (Fig. 7d).
+
+# 3.1.2Flow field downwind the fences
+
+Figure 8 shows the isovelocity downwind the single and double fences (porosities of 0.5 and 0.7)
+
+under the free-stream wind velocity of $2 2 ~ \mathrm { m / s }$ ，As air approached the fence, it was lifted above the fence, resulting a high wind velocity region (over flow) above the fences and a low wind velocity region (bleed flow) below the fences. The bleed flow downwind the fence with a porosity of 0.5 was weaker than that with a porosity of O.7,while the over flow downwind the fence with a porosity of O.5 was stronger than that with a porosity of O.7 (Figs. 8a and b). Furthermore, bleed flow downwind the double fences (especially for the double fences with a porosity of 0.5） was much weaker than that downwind the single fence,while the over flow downwind the double fences was much stronger than that downwind the single fence (Figs. 8c and d).
+
+![](images/0006cc28b44b2d1d1544ba5b059bd43327813f04513d905cba06612fe4e3cded.jpg)  
+Fig.5Relationship between horizontal wind velocity and height above the gravel surface that had no fence under different free-streamwind velocities (i.e.,diagrams a,b,c,d). $\nu$ ,free-streamwind velocity; $z$ ,heightabove the gravel surface; $u _ { z } ,$ horizontal wind velocity.
+
+# 3.2 Effects of fences on sediment transport over the Gobi Desert
+
+3.2.1 Sediment flux density profiles
+
+Figure 9 shows the sediment flux density varies with the height above the gravel surface. Sediment flux density decreased with increasing height above the gravel surface for all tested fences and free-stream wind velocities,and the relationship between sediment flux density and height above the gravel surface can be well fitted by the following equation with $R ^ { 2 } { \geq } 0 . 9 2$
+
+where $q _ { z }$ is the sediment flux density at height $z$ （ $( \mathrm { k g } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } ) )$ ：， $z$ is the height above the gravel surface (cm); and $c$ and $d$ are the regression coefficients. It should be noted that for the gravel surface that had no fence, the maximum sediment transport occurred at $2 { \bmod { \cos { \theta } } } = 2 { \bmod { \theta } }$ heights above the gravel surface when the free-stream wind velocity was greater than $1 0 \mathrm { m / s }$ (Figs. 9b-d).
+
+Furthermore,the total sediment flux density increased with increasing free-stream wind velocity for all tested fences (Fig.1O),and the relationship between the total sediment flux density and free-stream wind velocity can be well fitted by the following equation with $R ^ { 2 } { \geq } 0 . 8 2$ ：
+
+where $q _ { t }$ is the total sand flux density $( \mathrm { k g } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } ) )$ ·， $\nu$ is the free-stream wind velocity $\mathrm { ( m / s ) }$ ; and $f$ .s the regression coefficient. As shown in Figure 10,the correlation coefficient between the total sediment flux density and free-stream wind velocity was highest for gravel surface that had no fence.The correlation coefficients for different fences with different porosities are in a following decreasing order: single fence with a porosity of 0.7, double fences with a porosity of O.7, single fence with a porosity of O.5,and double fences with a porosity of 0.5.
+
+![](images/a69c7526f98e879a0ac511c793051cd6dd0e7f1dac8a45e3ebc83a452e0ffd1a.jpg)  
+Fig.6Wind velocity profiles above the gravel surface that had fences and at diferent distances downwind from the single and double fences with porosities of O.5 and O.7 as wellas wind velocity profiles above the gravel surface that had no fence under different free-stream wind velocities.v,free-stream wind velocity; $z$ ,height above the gravel surface;H,fence height $scriptstyle \mathrm { { H } } = 2 5 \ \mathrm { { c m } }$ ）
+
+# 3.2.2 Effects of fences on total sediment flux density
+
+The sediment flux density decreased significantly downwind in al tested fences with increasing height above the gravel surface (Fig.9). Compared with gravel surface that had no fence,the reduction percentage of total sediment flux density was highest downwind the double fences with a porosity of O.5,followed by single fence with a porosity of O.5,double fences with a porosity of 0.7,and single fence with a porosity of O.7 under four free-stream wind velocities (Table 1). The results showed that double fences with a porosity of O.5 were the most efective for reducing windblown sand particles.
+
+![](images/058f4299cd6dfa744574eeead625681da2cbdf2affe7defc5b4813b14e660726.jpg)  
+Fig.7Reduction coefficient of horizontal wind velocity with distance downwind from the single and double fences(porosities ofO.5and O.7)at diffrent heightsabove the gravel surfaceunder the tested fre-stream wind velocity of $2 2 ~ \mathrm { m / s }$ . It should be noted that positive reduction coefficient indicates that the wind velocity decreases while negative reductioncoefficient indicates that the wind velocity increases.z,height above the gravel surface; H, fence height $scriptstyle \mathrm { { H } } = 2 5 \mathrm { { c m } }$ ）
+
+Table1Reduction percentages of total sediment flux density downwind the fences (with diferent porosities) compared to gravel surface that had no fence under different free-stream wind velocities   
+
+<html><body><table><tr><td rowspan="2">Free-stream wind velocity (m/s)</td><td colspan="4">Reduction percentages of total sediment flux density (%)</td></tr><tr><td colspan="2">Single fence</td><td colspan="2">Double fences</td></tr><tr><td></td><td>Porosity of0.5</td><td>Porosity of 0.7</td><td>Porosity of 0.5</td><td>Porosity of 0.7</td></tr><tr><td>10</td><td>59.43</td><td>23.92</td><td>86.79</td><td>62.96</td></tr><tr><td>17</td><td>66.55</td><td>46.23</td><td>86.11</td><td>67.85</td></tr><tr><td>22</td><td>62.74</td><td>49.87</td><td>84.45</td><td>53.49</td></tr><tr><td>27</td><td>62.10</td><td>50.53</td><td>80.40</td><td>49.60</td></tr><tr><td>Average</td><td>62.71</td><td>42.64</td><td>84.44</td><td>58.48</td></tr></table></body></html>
+
+# 4 Discussion
+
+The Lanzhou-Xinjiang High-speed Railway runs through a vast windy area in the Gobi Desert. The wind-blown sand movement in this windy area is characterized by high velocity and stable flow directions (Cheng,2O12). Generally speaking,the dynamics of wind-blown sand movement above the Gobi surface is difficult to understand (Dong et al.,2Ol2; Tan et al.,2O13), especially in strong windy area.For the gravel surface that had no fence,the wind velocity profiles generally follow a log law (Dong et al.,2002; Qu et al.,20o5). In this study, the maximum sand transport occurred at $2 { \mathrm { - } } 4 \ { \mathrm { c m } }$ heights above the ground surface when the wind velocity was high,and the sediment flux density followed an exponential-decay function above this height, being in agreement with the results from field observations conducted by Qu et al. (2Oo5) and Lv et al. (2016).It means that the gravel surface simulated in our wind tunnel experiment can well represent the underlying surface of the Gobi Desert.
+
+![](images/a23c4193896fce665f9c7c0b6d7dd942ef9267283bab3c63bcfa93a4ddfc3560.jpg)  
+Fig.8Isovelocity downwind the single and double fences (porosities of O.5 and O.7)under the fre-stream wind velocity of $2 2 ~ \mathrm { m / s }$ . z,height above the gravel surface;H, fence height $\scriptstyle ( \mathrm { H } = 2 5 \ \mathrm { c m } )$ ）
+
+For the existing shelter system along the Lanzhou-Xinjiang High-speed Railway, the openings of sand-blocking fences with a low porosity (O.3) are unevenly distributed. Although these fences do reduce the strong wind velocity, they also generate high air turbulence downwind the fences. The high air turbulence generated by the fences with a low porosity may result in an increase in horizontal wind velocity near the fences and consequently a decrease in the efectiveness of the sheltering fences (Lee and Kim,1999; Cornelis and Gabriels,2005; Dong et al., 2007; Lee and Mim,1999), leading to sand accumulation around the tracks of the railway (see Fig.lc). The airflow downwind a fence can be generally divided into several regions according to the aerodynamic behaviours and they are: over flow region, wake region, internal boundary layer, reverse cell region (a region of reversed flow with a negative wind velocity） and small vortex region (Plate，1971； Dong et al.，2007).Normally，all of these airflow regions may exist downwind the low-porosity fences or solid fences. But, some of the regions may be absent when the fence is highly porous.As shown in Figure 8,the streamline paterns downwind all fences were smooth,and no reverse cell or only small vortex may appear, suggesting that the bleed flow
+
+![](images/251a8a37bd6b4adbddc867b22d885813a421a08aba83b88b62b86bc9b19a5cc4.jpg)  
+Fig.9Sediment flux density profiles above the gravel surface that had single and double fences with porosities ofO.5and O.7as wellas sediment flux density profiles above the gravel surface that hadno fence under diferent free-stream wind velocities. $\nu$ ,free-stream wind velocity; $z$ ,height above the gravel surface.   
+Fig.10Total sediment flux density above the gravel surface that had single and double fences with porosities of 0.5and O.7as well as total sediment flux density above the gravel surface that had no fence under different free-stream wind velocities. $q _ { t } ,$ ,total sand flux density; $\nu$ ,free-stream wind velocity.
+
+1001(a) Gravel surface that had no fence 50](b) Single fence with 50 (c) Double fences with 40 a porosity of 0.7 40 a porosity of 0.7   
+60 q=e0.1669v 30 q=e0.1398v 30 q=e0.1397v R²=0.99 R²=0.97 R²=0.95   
+40- 20 20   
+20- Measured curve 10 10 Regression curve 01 0 01 10 15 20 25 30 10 15 20 25 30 10 15 20 25 30 v (m/s) v (m/s) v (m/s) 40 (d) Single fence with 201 (e) Double fences with a porosity of 0.5 a porosity of 0.5 32 15 24 q=e0.1291v q=e0.1010v R²=0.94 10 R²=0.82 16 tt 8 5 0 0 10 15 20 25 30 10 15 20 25 30 v(m/s) v (m/s)
+
+is dominant and the turbulence intensity is negligible. Being consistent with the research of Lee and Mim (1999), our experimental results showed that the fence with a porosity of O.5 can greatly reduce the horizontal wind velocity and the maximum reduction coefcient of horizontal wind velocity may reach up to O.65 for the double fences.
+
+Compared with gravel surface that had no fence, the sediment flux density decreased significantly downwind in all tested fences. The reduction percentage of total sediment flux density was the highest for double fences with a porosity of O.5 (reduction percentage being $8 4 . 4 4 \%$ ，demonstrating that double fences with a porosity of O.5 are the most effective for trapping sand particles and can be used to protect the railway from damage by wind-blown sand. In addition, since no reverse cell or only small vortex appeared downwind the metal net fences, the sand particles dropped down evenly on the leeward side of the fences during the experiments (see Fig.4d). So,these fences would not be buried by sand and can thus be used to replace the existing sand-blocking fences that were often buried by sand (see Fig.1d).
+
+# 5 Conclusions
+
+In this study, horizontal wind velocity and sediment flux density downwind the metal net fences with porosities of O.5 and O.7 were tested in a wind tunnel. Horizontal wind velocity was decreased more significantly by the fence with a porosity of O.5 than that with a porosity of 0.7, and the reduction percentage of total sediment flux density was higher for fence with a porosity of 0.5 than for fence with a porosity of O.7. It means that the fence with a porosity of O.5 is more effective in restraining wind-blown sand particles than the fence with a porosity of O.7. To sum up, metal net fence with a porosity of 0.5 is more effective for controlling wind-blown sand in the vast windy area where Lanzhou-Xinjiang High-speed Railway runs through,and it can be placed at the front edge of the shelter system to improve the effectiveness of the shelter system. Furthermore，double fences are more effective in reducing wind velocity and restraining wind-blown sand particles than single fence.It should be noted that we only tested two porosities (0.5 and O.7) under both single-fence and double-fence conditions in the wind tunnel and that certainly more porosities (e.g., O.2, 0.3, 0.4 and 0.6) need to be tested.
+
+# Acknowledgements
+
+This research was financially supported by the Scientific and Technological Services Network Planning Project of Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences (HHS-TSS-STS-1504), the Technological Research and Developmental Planning Projects of China Railway Corporation (2O15G005-B), and the National Natural Science Foundation of China (41501010,41401611).
+
+# References
+
+Baltaxe R.1967.Air flow paterns in the leeof model windbreaks.TheoreticalandApplied Climatology,15(3):287-312.   
+Bean A,AlperiRW,FedererCA.1975.Amethod forcategorizing shelterbelt porosity.Agricultural Meteorology4(1-2): 417-429.   
+ChengJJ.2l2.Studyonthe wind-sandflow movementcharacteristicsandthe shielding effectof the wind-break wallalong the railway in Gobi Area.Applied Mechanics and Materials,178-181:1653-1657.   
+ChengJJ,Xue CX.2O014.Thesand-damage-preventionengineeringsystem fortherailwayinthe desertregionof the Qinghai-Tibet plateau.Journal of Wind Engineering and Industrial Aerodynamics,125:30-37.   
+ChengJJ,JiangFQ,XueCX,etal.2Ol5.Characteristicsof thedisastrous wind-sandenvironmentalongrilways intheGobi area of Xinjiang,China.Atmospheric Environment,1O2:344-354.   
+Cheng JJ,LeiJQ,LiSY,etal.2O16.Disturbanceoftheinclined inserting-typesandfencetowind-sandflowfeldsandits sand control characteristics.Aeolian Research,21:139-150.   
+CornelisWM,GabrielsD.2Oo5.Optimal windbreak design for wind-erosioncontrol.Joural of Arid Environments,61(2): 315-332.   
+Dong ZB,Liu XP, Wang XM.2002. Aerodynamic roughness of gravel surfaces.Geomorphology,43(1-2): 17-31.   
+Dong ZB,Chen GT,He XD,etal.2O04.Controlingblownsand along the highwaycrossing the Taklimakan Desert.Journal of Arid Environments,57(3): 329-344.   
+Dong ZB,QianGQ,LuoWY,etal.2O06.Thresholdvelocityfor wind erosion:the effctsofporous fences.Environmental Geology,51(3): 471-475.   
+Dong ZB,Luo WY,Qian GQ,etal.2Oo7.A windtunnel simulationofthe meanvelocity fields behind upright porous fences. Agricultural and Forest Meteorology,146(1-2): 82-93.   
+Dong ZB,LvP,Zhang ZC,etal.2012.Aeolian transport inthe field:Acomparisonof theefectsof different surface treatments. Journal of Geophysical Research: Atmospheres,117(D9): D09210.   
+LeS J,KimHB.1998.Velocityfield measurements offlowarounda triangularprismbehindaporous fence.Journalof Wind Engineering and Industrial Aerodynamics,77-78(98): 521-530.   
+Le SJ,Kim HB.199.Laboratory measurementof velocityand turbulence field behind porous fences.Jourmalof Wind Engineering and Industrial Aerodynamics,80(3): 311-326.   
+Le SJ,Park KC,Park CW.2OO2.Wind tunnelobservations about the shelterefectof porous fences on thesand particle movements.Atmospheric Environment, 36(9):1453-1463.   
+Li BL,Sherman DJ.20l5.Aerodynamics and morphodynamics of sand fences: Areview.Aeolian Research,17:33-48.   
+Li G S,QuJJ,LiXZ,etal.20l3.Theefectof microclimates intheaeoliansand environmentatthe Mogao Grotoes,China. Terrestrial Atmospheric and Oceanic Sciences,24(1): 89-105.   
+Li GS,QuJJ,LiXZ,etal.2014.Thesand-depositionimpactofartificialgravelbedsontheprotectionoftheMogaoGrotoes. Scientific Reports,4: 4341.   
+LingYQ,JinJ,ZouBG,etal.1984.EffctoffencetechiquesinlevelingsandacumulationaroundsandbreaksCasestudy in Shapotou district. Journal of Desert Research,1984,4(3):16-25.(in Chinese)   
+Ling YQ,QuJJ,FanJS,etal.1996.The effect analysis of sand control engineering ontheclifftopof Mogao Grottoes. Journal of Desert Research,16(1):13-18.(in Chinese).   
+LvP,Dong ZB.2O14.The status of research onthe developmentand characteristicsof mas-flux-density profiles above wind-eroded sediments:a literature review. Environmental Earth Sciences,71(12): 5183-5194.   
+LvP,Dong ZB,MaXM.2O16.Aeoliansand transport above three desert surfaces in northern China with different characteristics (shiftingand,strawcheckerboard,ndgravel):fieldobservations.EnvironmentalEarth ciences,75():1-9.   
+Plate E J.1971.The aerodynamics of shelter belts.Agricultural Meteorology,8: 203-222.   
+QuJJ,HuangN,Ta WQ,etal.2Oo5.Structuralcharacteristicsof Gobisand-driftand itssignificance.AdvancesinEarth Science,20(1):19-23.(in Chinese)   
+Raine JK,StevensonDC.1977.Wind protection by modelfences inasimulated atmosphericboundary layer.Journalof Wind Engineering and Industrial Aerodynamics,2(2):159-180.   
+TanLH,Zhang WM,QuJJ,etal.2O13.Aeolian sandtransportover Gobi with different gravelcoverages underlimited sand supply:A mobile wind tunnel investigation.Aeolian Research,11: 67-74.   
+Wang WF,Wang T,FanJS,etal.20o5.Efectof nylon net fence onpreventing blownsandattopof MogaoGrotoes, Dunhuang. Journal of Desert Research,25(5): 640-648.(in Chinese)   
+White B R.1996.Laboratory simulation of Aeolian sandtransportand physical modelingoflow arounddunes.Anals of Arid Zone,35(3):187-213.   
+Zhang KC,QuJJ,LiaoKT,etal.2O10.Damagebywind-blownsand and itscontrolalong Qinghai-TibetRailwayin China. Aeolian Research,1(3-4): 143-146.   
+Zhou D,YuanXX,Yang MZ,etal.2O12.Researchontheanti-wind/sand effectof windbreak wallonhigh-speedtrain.Joural of Experiments in Fluid Mechanics,24(4):63-67. (in Chinese)

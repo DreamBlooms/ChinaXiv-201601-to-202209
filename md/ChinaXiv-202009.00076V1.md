@@ -1,0 +1,330 @@
+# 基于MLP神经网络的分组密码算法能量分析研究
+
+王恺‘²，蔡爵嵩‘，严迎建‘
+
+(1．战略支援部队信息工程大学，郑州 450001;2.中国人民解放军 32125部队，济南 250001)
+
+摘要：随着嵌入式密码设备的广泛应用，侧信道分析(SCA)成为其安全威胁之一。通过对密码算法物理实现过程中的泄漏信息进行分析实现密钥恢复，进而对密码算法实现的安全性进行评估。多层感知器(MLP)是一种人工神经网络结构，为了精简用于能量分析的MLP 网络结构，减少模型的训练参数和训练时间，针对基于汉明重量(HW)和基于比特的MLP神经网络的模型进行了研究，输出类别由256分类分别减少为9分类和2分类。通过采集AES 密码算法运行过程中的能量曲线，对所提出的MLP神经网络进行训练和测试。实验结果表明，该模型在确保预测精度的前提下，能减少MLP神经网络 $84 \%$ 的训练参数和 $2 8 \%$ 的训练时间，并减少了密钥恢复阶段需要的能量曲线数量，最少只需要1条能量曲线，即可完成AES算法完整密钥的恢复。实验验证了模型的有效性，使用该模型可以对分组密码算法实现的安全性进行分析和评估。
+
+关键词：侧信道分析；深度学习；MLP；密码芯片；AES 中图分类号：TP309.1 doi:10.19734/j.issn.1001-3695.2019.12.0703
+
+Research on side channel analysis of block cipher algorithm based on MLP neural network
+
+Wang Kai1,2, Cai Juesongl, Yan Yingjian1 (1.StrategicSupportForceInformationEngineeing UnversityZhengzhou41,Chna;2.215rosofA,an 250001, China)
+
+Abstract: Withthewidespread application of embedded cryptographic equipment,side channel analysis (SCA)has become oneof itssecuritythreats.The key information isrecovered byanalyzing the leaked information during thephysical implementationof thecryptographic algorithm.Furthermore,the securityof thecryptographic algorithmcan be evaluated. MLPis an artificialneural network structure.Inorder to streamline theMLPnetwork structurefor energyanalysis andreduce thetraining parameters and training time of the model,tis paper studied the models based on Hamming weight (HW)and bit-based neural networks,andthe output categories were reducedfrom 256 to9and2respectively.The power trace during the operation of the AEScryptographic algorithm was collcted through experiments.This paper trained and tested the proposed MLPneural network.The results showthat the modelcanreduce the raining parameters ofthe MLP neuralnetwork by $84 \%$ and the training time by $28 \%$ ,and reduce the number of power traces required during the key recovery phase,while ensuringthe prediction accuracy.At least only one power trace is needed to complete the recovery ofthe AES algorithm's completekey.The validityof the model isverifiedby experiments,and the securityof the block cipher algorithmcan be analyzed and evaluated by using the model.
+
+Key words: side channel analysis; deep learning; multi-layer perceptron (MLP); cryptographic chips; AES
+
+# 0 引言
+
+嵌入式设备如智能卡、RFID射频标签和各种物联网设备在本文的生活中得到了广泛应用，这些设备使用密码算法实现加解密操作，从而保护数据的安全。但是，在密码算法的执行过程中，设备所处理秘密信息会在能量消耗[1]、处理时间[2]、电磁辐射[3]等方面泄漏，泄漏的信息依赖于所处理的数据和执行的操作，因此可以通过对泄漏信息进行分析来恢复敏感信息。
+
+侧信道分析是由Kocher于1996年首次提出的[2]，他通过对时间序列分析进行密钥恢复，随后提出了更强大和更通用的分析形式[11，称为差分能量分析(DPA)。后来，Mulder等人将差分分析技术应用到差分电磁分析(DEMA)[4.5]和其他密码算法如ECC或RSA等。除了简单和差分分析分析外，模板攻击被认为是最有效的分析方式，它假设密码分析者可以获得一个相同的目标设备，并对目标设备完全可控，利用泄漏信号对随机变量统计特性进行建模，用判别分析的方法获取目标设备泄漏信息中所隐藏的秘密信息。
+
+近年来，密码学界探索了基于机器学习和深度学习的密码分析新方法，这对加密算法实现的安全性造成了威胁。刘飚等人[使用支持向量机(SVM)方法对电磁泄漏信息进行分析，从而实现密钥的恢复。Lerman等人[7通过实验验证了SVM算法可以对带掩码防护的AES算法实现密钥恢复。
+
+作为机器学习的一个分支，深度学习使用深度神经网络从复杂数据中学习特征，并对另一组数据分析作出决策，具有良好的特征提取和分类功能，已成为当前的研究热点，许多研究已经证明了深度神经网络在SCA中的性能。Maghrebi等人[8最早研究了深度学习在密码算法实现中的应用，将多层感知器(MLP)和卷积神经网络(CNN)等深度学习模型应用于SCA。在文献[9]中，作者提出了一种基于神经网络的侧信道分析方法，对DPAcontestV4的带掩码防护AES算法实现破解。文献[10]评估卷积神经网络(CNN)的在处理带防护措施或未对齐曲线条件下性能。Benadjila等人[1]通过实验给出了MLP模型的超参数选择的方案，进一步证明了深度学习在模板型SCA中的强大功能。
+
+本文对文献[11]中提出的MLP神经网络模型结构进行了更为深入的研究，针对模型参数较多、各层连接关系复杂和训练时间较长的缺点，对模型的结构进行优化和精简，输出层由256分类改为9分类和2分类，本文提出了基于汉明重量的MLP模型(HW-MLP)和基于比特的MLP模型(bit-MLP)。实验结果表明，相比于文献[11]中提出的256分类模型，本文提出的2种模型在确保预测精度的前提下，减少了 $84 \%$ 的训练参数和 $2 8 \%$ 的训练时间，在密钥恢复阶段最少只需要1条能量曲线，即可完成AES加密算法密钥的恢复。本文也通过实验对该模型的防护策略进行研究，使用该模型可以有效地对分组密码算法实现的安全性进行分析和评估。
+
+# 1 密码算法能量分析和MLP神经网络
+
+# 1.1模板型能量分析
+
+模板型(Profiled)能量分析假设如下：假设对手有两台完全相同的密码设备，一台建模设备和一台目标设备。分析者能够完全控制建模设备的输入和输出，能够通过技术手段非常精确地采集和刻画设备工作时的能量信息；目标设备运行的是具有未知密钥 $k ^ { * } \in K$ 的加密算法，分析的目标是恢复密钥字节 $\boldsymbol { k } ^ { * }$ 。因此模板型的侧信道分析分两个阶段执行：建模阶段和分析阶段，对应于深度学习中的训练阶段和测试阶段。
+
+# 1）建模阶段(profiling phase)
+
+从建模设备中采集能量曲线，使用建模设备与密钥相关泄漏信息来构建特定的泄漏模型。分析者对每个可能的 $k \in$ $K$ ，分别采集 $N$ 条能量曲线 $P _ { k } { = } \{ T _ { i } ( k ) | i { = } 1 , \cdots , N \}$ 构成训练集合$X$ 1
+
+$$
+X = \bigcup _ { k = 0 } ^ { 2 5 5 } { P _ { k } }
+$$
+
+计算概率分布函数 $\xi$ 的估计值 $e _ { k }$
+
+$$
+\boldsymbol { e } _ { k } = \xi \big [ T = t | \big ( P , K \big ) = \big ( p , k \big ) \big ]
+$$
+
+其中 $T$ 表示所采集的能量曲线数据集，在已知明文 $p _ { i }$ 和密钥$k _ { i }$ 下获得能量曲线 $t _ { i }$ ，估计值 $\scriptstyle e _ { k }$ 是从训练集 $D _ { p } { = } \{ t _ { i } , \ \mathsf { p } _ { i } , \ k _ { i } \}$ $i { = } 1 , \cdots , S _ { p }$ 中计算出来的。
+
+# 2）分析阶段(Analysis phase)
+
+从目标设备采集能量曲线并根据泄漏信息进行分类，测试集 $D _ { a } { = } \{ t _ { i } , p _ { i } \}$ ， $i { = } 1 , \cdots , S _ { a }$ 用于恢复正确的密钥，最终目标是通过能量曲线的测试集恢复密钥 $\boldsymbol { k } ^ { * }$ ，概率分布函数估计值 $e _ { k }$ 最高值。因此，分析者构建模型必须能正确区分概率分布函数 $\xi$ 的估计值 $e _ { k }$ ， $k \in { \cal K }$ ，实际通过最大似然函数对估计值 $e _ { k }$ 进行计算，对每个可能的猜测密钥 $k { \in } K$ 计算最大似然估计$L ( K )$ ：
+
+$$
+\begin{array} { r } { \log L \big [ k \big ] = \sum _ { i = 1 } ^ { S _ { s } } \log \xi \big [ ( P , K ) = ( p , k ) \big | T = t _ { i } \big ] } \end{array}
+$$
+
+其中， $L ( K )$ 是对应于猜测密钥 $k$ 的对数似然概率，从目标设备中采集到的能量曲线使 $L ( K )$ 最大的值对应的 $k { \in } K$ 为正确的密钥值。
+
+# 1.2非模板型能量分析
+
+非模板型(Non-Profiled)能量分析使用统计分析来检测泄漏信息和敏感变量之间的相关性。密码算法能量分析利用了这样一个事实：密码设备的瞬时能量消耗依赖于设备所处理的数据和设备所执行的操作。非模板型分析方法主要包括简单能量分析(Simple Power Analysis,SPA)、差分能量分析(DifferentPowerAnalysis,DPA)、相关能量分析(CorrelationPower Analysis,CPA)等[12]。这种类型的 SCA 对应于假设较弱的分析者，他们只能访问在目标设备上捕获的物理泄漏，用于恢复密钥。
+
+# 1.3MLP神经网络
+
+多层感知器(Multi-Layer Perceptron,MLP)是一种由多个感知器单元组成的神经网络[14,15]，如图1所示。每一层的所有感知器与下一层的所有感知器相连。MLP由输入层、输出层和一系列中间层(隐藏层)组成。每一层由一个或多个感知器单元组成。MLP的权重值和偏差值是随机梯度下降过程中更新的可训练参数。
+
+本文主要研究多层感知器(MLP)神经网络，它由多个线性函数和非线性激活函数组成的函数 $F$ 相联系，该函数具有计算效率高、导数有界且易于求导的特点。综上所述，可以将MLP表示为
+
+$$
+F \left( x \right) = s \circ \lambda _ { n } \circ \sigma _ { n - 1 } \circ \lambda _ { n - 1 } \circ \cdots \circ \lambda _ { 1 } \left( x \right) = y
+$$
+
+其中 $\boldsymbol { \lambda } _ { n }$ 是全连接层， $\boldsymbol { \sigma } _ { i }$ 为激活函数， $s$ 为Softmax 函数。
+
+MLP神经网络是由神经元形成一个网格状的结构，该结构被分成多个连接层，每个神经元的值为
+
+$$
+n _ { i , j } = f \left( \sum _ { j } n _ { i - 1 , j } \ast w _ { j } + b _ { j } \right)
+$$
+
+其中 $w$ 为相邻层之间神经元连接权重值， $b$ 为该神经元的偏置值， $f$ 为激活函数，当前层的神经元都是上一层中每个相连神经元的输出值的函数。常用的激活函数包括ReLU、Sigmoid、Tanh 和 Softmax。
+
+MLP网络模型算法核心思想是通过前向传播得到误差，再把误差通过反向传播实现权重值 $w$ 的修正，最终得到最优模型。在反向传播过程中通常使用随机梯度下降法对权重值进行修正，梯度下降法的原理是计算损失函数关于所有内部变量的梯度，并进行反向传播。内部变量通常是权重值，根据损失函数所跨越曲面的最陡下降方向进行调整[16]。
+
+![](images/8266fd9f199a43682e100d4febac1be99a7f60f5948ead184ae3af0ac895fb90.jpg)  
+图1具有3个隐藏层的MLP神经网络  
+Fig.1MLP neural network with3 hidden layers
+
+神经网络是一种计算开销非常大的技术，与传统分析方式DPA、CPA相比，它需要花费更多的时间和内存资源。但是，它对于侧信道能量分析具有以下明显的优势[17]：
+
+a)不需要手动选择特征点，卷积层和全连接层通过自动特征提取可以识别和提取与曲线相关的特征；b）卷积层可以独立于其在数据中的位置来提取特征，因此深度神经网络能够对抗非稳定的时钟周期和消除随机延迟策略带来的抖动；c）由于深度神经网络是一个高度参数化的模型，因此可以基于超参数优化来优化分类精度，进而提升侧信道分析的成功率；d)深度神经网络可以实现高度复杂的功能，对广泛采用的防护策略(如掩码策略或混乱策略)有一定的分析能力。
+
+# 1.4汉明重量模型
+
+汉明重量模型是计算寄存器在某一时刻所存储的数据1个数，根据1的个数来刻画寄存器的能量消耗[12]。对一个 $k$ 位二进制数据的汉明重量模型的形式化表述为
+
+$$
+H W \left( V \right) = \sum _ { i = 0 } ^ { k - 1 } \nu _ { i }
+$$
+
+其中 $V { = } ( \nu _ { k - I } { \cdots } \nu _ { 1 } \nu _ { 0 } ) ( \nu _ { i } { = } 0 \mathrm { o r } 1 )$ ，此模型通常用于预充电模式的设备中能量消耗模型的刻画，即在数据变化之前，寄存器中所有编码置为0或1。
+
+能量消耗模型是对实际能量消耗的一种模拟，模拟精度越高则分析者恢复出密码设备所使用的敏感信息或密钥信息的能力就越强。汉明重量模型可以在分析者对密码芯片的网表一无所知或仅知道很少一部分的情况下进行分析。在汉明重量模型中，分析者假设能量消耗与被处理的数据中操作位的比特数存在线性关系，事实上，数据的汉明重量与处理该数据造成的能量消耗并非完全相关，只限于一些具体的场景。在 AES算法的侧信道分析过程中，通常选取某个S盒的输出作为分析点，在该点的输出值的汉明重量通常与泄漏值成线性关系，如图2所示，能量曲线的颜色由深到浅说明泄漏值与汉明重量成线性关系。
+
+![](images/dacf30eee50c18dd0dd84956871c17dc4b3502bedd27b154a547db360956efa9.jpg)  
+图2S盒输出值汉明重量与电压值的关系 Fig.2The relation between output hamming weight and voltage value of S-box
+
+# 2 基于MLP神经网络的能量分析流程和模型
+
+# 2.1能量分析流程
+
+基于MLP神经网络模型的能量分析总体流程如图3所示，具体操作步骤如下：
+
+![](images/11031764ad9b3225e14fa2dd7cf38a1cbc70d699d1ff59a01a29932943a1b04a.jpg)  
+图3基于MLP神经网络的分析流程
+
+a）数据采集和预处理。在传统的模板攻击和基于机器学习的SCA中，数据预处理步骤实际上是狭义的降维。通常采集到的原始能量数据具有噪声大、维度高的特点，需要对数据进行预处理以降低计算复杂度，因此预处理过程不能省略。但是基于深度学习的SCA，可以省去降维的预处理步骤，直接对数据集进行预处理。通常将采集到的能量曲线数据分为训练数据集和测试数据集两部分，训练数据集用于模型训练和建模，测试数据集用于模型评价和密钥恢复。
+
+b)模型训练。使用训练数据对模型进行训练，在训练过程中通常采用交叉验证的方式对模型的训练效果进行评估，并且对不同的深度神经网络或机器学习算法进行对比，在本文实验中对支持向量机算法(SVM)进行对比
+
+c）模型评价。通常使用多种评价策略来评价模型的性能，或为参数化模型选择最优参数。在能量分析中主要评价指标有：模型的预测精度、密钥猜测熵、训练时间、恢复密钥所需要的曲线条数、计算资源消耗等。
+
+d)密钥恢复。在密钥恢复过程中，通常采用“分而治之”的策略，对AES算法的16个密钥字节逐个进行恢复。对于基于汉明重量的模型，可以通过汉明重量的预测值和已知的明文数据，计算出可能的密钥值，通过使用多条曲线所对应的不同汉明重量和不同的明文数据，通过将猜测值取交集的形式逐步缩小密钥猜测范围，最终获得子密钥。
+
+# 2.2分析模型选择
+
+与传统的侧信道分析方法如DPA、CPA和模板攻击等类似，基于深度学习的能量分析也需要定义泄漏模型，基于MLP神经网络模型的分析是在有监督的条件下进行的，因此，训练阶段和测试阶段的曲线需要根据泄漏模型选择相应的标签值，根据所选标签值的不同，神经网络最终的分类数量也是不同的。对分组密码算法进行分析时，通常选S盒输出值为分析点，该点处的操作为非线性变换，能量消耗较大，对于不同数据区分较明显。
+
+如果泄漏模型是AES加密算法第一轮运算S盒输出值，如图4所示，在神经网络输出值的类别数有以下几种：a）密钥字节身份模型(ID 模型)输出值为 $2 ^ { 8 } { = } 2 5 6$ 类；b)汉明重量模型(HW 模型)输出值为9类；c）单比特模型(bit模型)输出值为0或1，共2类。
+
+![](images/4c133a245190d3829918cfd2ad07946c51c364394cba7424a3f900f26b95c444.jpg)  
+Fig.3The analysis process based on MLP neural network   
+图4使用S盒输出值构建分析模型  
+Fig.4Use S-box output to build the analysis model
+
+在本文实验中，使用ID 模型、HW 模型和bit模型用于MLP神经网络建模，本文分别简称为ID-MLP模型、HW-MLP 模型和bit-HW 模型。
+
+# 2.3 ID-MLP模型
+
+设计该模型的目的是将Benadjila等人[1]提出的MLP模型引入到本文的实验平台中，对其参数进行优化和确定，以达到最佳的分析效果，并将该模型作为参考模型与本文提出的模型进行性能对比。
+
+由于采集到的单条能量曲线为时间序列，因此MLP 神经网络的输入层节点数为能量曲线的采样点个数，输出层为256个节点，输出层使用Softmax激活函数，ID-MLP模型共6层。为提高测试精度，使用tanh激活函数，模型结构如表1所示。在训练过程中，标签值为S盒的输出值，共 $2 ^ { 8 } { = } 2 5 6$ 种，因此在密钥恢复过程中，可以直接对密钥字节进行恢复，通过分而治之的策略对16个密钥字节进行恢复。
+
+表1ID-MLP 模型结构  
+Tab.1ID-MLP model structure   
+
+<html><body><table><tr><td>类型</td><td>节点数量</td><td>输出大小</td><td>激活函数</td><td>参数个数</td></tr><tr><td>输入层</td><td>N</td><td>1XN</td><td>tanh</td><td></td></tr><tr><td>隐藏层Ni</td><td>200</td><td>1×200</td><td>tanh</td><td>200 X(N+1)</td></tr><tr><td>隐藏层N2</td><td>200</td><td>1×200</td><td>tanh</td><td>40200</td></tr><tr><td>隐藏层N</td><td>200</td><td>1×200</td><td>tanh</td><td>40200</td></tr><tr><td>隐藏层N4</td><td>200</td><td>1×200</td><td>tanh</td><td>40200</td></tr><tr><td>隐藏层Ns</td><td>200</td><td>1×200</td><td>tanh</td><td>40200</td></tr><tr><td>输出层</td><td>256</td><td>1× 256</td><td>Softmax</td><td>51456</td></tr></table></body></html>
+
+# 2.4 HW-MLP模型
+
+在实验中采用随机化网格搜索法获取MLP结构的超参数，主要包括：全连接层数 $\mathrm { { N } } _ { \mathrm { { l a y e r } } }$ ，隐藏层节点数node，迭代次数epochs，单次训练数据量batch_size，学习率和激活函数类型等。具体结构设计如表2所示。
+
+与ID-MLP相比，HW-MLP模型减少了隐藏层的层数，减少了各隐藏层节点数，增大了学习率，并使用tanh 激活函数。在各层的结构设计上，节点数逐层递减，整个网络为倒梯形结构。通过实验证明该模型的训练精度和测试精度提升明显，训练时间和训练参数大幅减少。
+
+Tab.2 HW-MLP model structure   
+
+<html><body><table><tr><td>类型</td><td>节点数量</td><td>输出大小</td><td>激活函数</td><td>参数个数</td></tr><tr><td>输入层</td><td>N</td><td>1×N</td><td>tanh</td><td></td></tr><tr><td>隐藏层Ni</td><td>200</td><td>1×200</td><td>tanh</td><td>200 X(N+1)</td></tr><tr><td>隐藏层N2</td><td>160</td><td>1×160</td><td>tanh</td><td>32160</td></tr><tr><td>隐藏层N</td><td>120</td><td>1×120</td><td>tanh</td><td>19320</td></tr><tr><td>隐藏层N4</td><td>80</td><td>1×80</td><td>tanh</td><td>9680</td></tr><tr><td>输出层</td><td>9</td><td>1×9</td><td>Softmax</td><td>729</td></tr></table></body></html>
+
+通过HW-MLP模型最终可以预测得到输入的能量曲线所对应的汉明重量值，通过密钥恢复算法，可以使用少量曲线恢复初始密钥字节，具体算法伪代码如算法1所示。该算法不局限于特定的神经网络或机器学习算法类型，可以用于任意基于汉明重量模型的模板型能量分析。
+
+算法1 通过HW 值恢复密钥字节算法
+
+输入：HW_value $( H W _ { i } )$ ）1≤i<N，planitexts( $\cdot ^ { \mathsf { p } _ { \mathrm { i } } ) }$ 1≤i≤N。   
+输出：key。   
+for ${ i \in N }$ do for $\boldsymbol { k } \in \boldsymbol { K }$ do $H W _ { g u e s s } { = } { \mathsf { S \_ b o x } } ( k \oplus p _ { i } )$ if $H W _ { g u e s s } { = } H W _ { i }$ do set $H W _ { g u e s s }$ to the HW_set[i] HW_set[i]=HW_set[i]n HW_set[i-1] if element number of HW_set[i] $\scriptstyle = = 1$ do key= HW_set[i]   
+end for   
+return key
+
+# 2.5 bit-MLP模型
+
+为了进一步精简网络模型和训练参数，使用bit模型进行建模，与HW模型相比，输出结果为2分类，因此进一步减小网络层数和节点个数，具体结构如表3所示。通过为每个密钥字节建立8个bit模型，可以直接对密钥比特进行恢复，进而恢复完整密钥。
+
+表2HW-MLP 模型结构  
+表3bit-MLP模型结构  
+Tab.3Bit-MLP model structure   
+
+<html><body><table><tr><td>类型</td><td>节点数量</td><td>输出大小</td><td>激活函数</td><td>参数个数</td></tr><tr><td>输入层</td><td>N</td><td>1×N</td><td>tanh</td><td></td></tr><tr><td>隐藏层Ni 隐藏层N2</td><td>200</td><td>1×200</td><td>tanh</td><td>200 ×(N+1)</td></tr><tr><td>隐藏层N3</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N4</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N2 隐藏层N2</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N3</td><td>120</td><td>1×120</td><td>tanh</td><td>24120</td></tr><tr><td>隐藏层N4</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N2</td><td></td><td></td><td></td><td></td></tr><tr><td>隐藏层N3</td><td>40</td><td>1×40</td><td>tanh</td><td>4840</td></tr><tr><td>隐藏层N4</td><td></td><td></td><td></td><td></td></tr><tr><td>输出层</td><td>2</td><td>1×2</td><td>Softmax</td><td>82</td></tr></table></body></html>
+
+# 3 实验与分析
+
+# 3.1数据采集
+
+为确保实验结果真实有效，本文所有实验都采用相同的硬件配置。使用ChipWhispererLite 实验平台采集能量曲线，ChipWhisperer是一套完整的开源工具链，主要用于侧信道能量分析和故障注入。目标芯片为XMEGA128D4单片机，目标密码算法为AES，分组长度和密钥长度均为128bit。通过ChipWhispererLite采集60000条能量曲线，使用随机明文和随机密钥进行加密，其中50000条能量曲线作为训练集，10000条能量曲线作为测试集。
+
+单条能量曲线如图5所示，利用AES算法的知识，能很容易确定第一轮运算中16个S盒的近似位置，右半部分形状较为规则的区域为16个S盒所对应的能量曲线。图6所示为前2个S盒能量曲线放大之后的图形，其中最大值或最小值处为其泄漏位置，通过观察和计算可以确定单个S盒对应的能量曲线包含72个采样点，因此在后续实验中，单条曲线样本输入大小为 $1 \times 7 2$ 。
+
+![](images/2244202eadd4ed2b5e9ffef10cd115d7b2edab57ff21089be6fbc09394ef8e88.jpg)  
+图5单条能量曲线波形
+
+![](images/7993aa74f7833c51663592a11528b06e7dd0b85a8a52c1f4ac0b926cb3ccfbc5.jpg)  
+Fig.5A single power trace waveform   
+图6S盒能量曲线放大后波形  
+Fig.6The power trace of S-box is magnified
+
+# 3.2 实验评价指标
+
+通过以下评价指标对实验结果进行分析：
+
+a)模型精度和损失函数。精度是对神经网络进行训练和评估的最常见的指标，它被定义为在数据集上分类成功的概率，训练精度对应于每个epoch结束时得出的最大训练精度，测试精度对应于每个epoch结束时得出的最大验证精度。训练精度是训练过程中的一个重要指标，通过观察每个epoch训练精度的变化，可以判断训练的模型是否满足神经网络拟合和泛化，训练精度的提高也表明了反向传播算法是否收敛到正确的权重值和偏差值。损失函数是用来评估模型的预测值与真实值的不一致程度，损失函数越小，模型的鲁棒性越好。
+
+b)恢复密钥字节所需要的曲线条数。通过对比恢复单个密钥字节的曲线条数，对模型的性能进行比较，所需要的曲线条数越少，模型的性能越好。c)恢复完整密钥所需要的曲线条数。通过对比恢复全密钥字节的曲线条数，对模型的性能进行比较，所需要的曲线条数越少，模型的性能越好。d)模型参数和计算时间。在具有相同预测精度的前提下，模型参数越少、模型结构越精简，模型训练时间花费时间越短，性能越好。
+
+# 3.3实验结果
+
+# 1)ID-MLP 模型实验
+
+使用ID-MLP模型对密钥字节进行恢复，以第0字节为例进行测试，模型在epochs ${ \tt \Omega } _ { : = 2 0 0 }$ 、batch_size $\scriptstyle \sum \prime = 1 0 0$ 的条件下进行训练，最终训练精度达到 $9 8 . 0 0 \%$ ，平均测试精度达到$9 8 . 8 9 \%$ ，相比于Benadjila-MLP模型，训练精度提升明显，LOSS值下降较快，恢复密钥所需要的能量曲线更少，如图7所示。
+
+![](images/076f708d50457be0a6d08836836e85e109f48386a46702b1b0fb4d31feb82408.jpg)  
+图7ID-MLP与Benadjila-MLP模型训练精度与LOSS对比 Fig.7Comparison of training accuracy and LOSS between ID-MLPand Benadjila-MLP models
+
+恢复其他密钥字节的测试精度和曲线条数如表4所示，经计算，平均训练精度达到 $9 7 . 8 8 \%$ ，平均测试精度为 $9 5 . 5 1 \%$ 恢复密钥字节平均需要1.050条能量曲线。
+
+表4各S盒实验数据和恢复密钥字节需要的能量曲线条数
+
+Tab.4Experimental data of each S-box and the number of   
+
+<html><body><table><tr><td colspan="4">powertracerequiredtorecoverkeybytes</td></tr><tr><td>序号</td><td>训练精度/%训练LOSS/%</td><td>测试精度/%</td><td>曲线数量</td></tr><tr><td>S_box_00</td><td>98.00</td><td>7.40 98.89</td><td>1.011</td></tr><tr><td>S_box_01</td><td>97.70</td><td>8.40 96.63</td><td>1.035</td></tr><tr><td>S_box_02</td><td>97.40</td><td>9.70 95.69</td><td>1.045</td></tr><tr><td>S_box_03</td><td>97.90</td><td>7.60 97.22</td><td>1.029</td></tr><tr><td>S_box_04</td><td>97.50</td><td>9.10 90.67</td><td>1.103</td></tr><tr><td>S_box_05</td><td>98.10</td><td>6.70 95.96</td><td>1.042</td></tr><tr><td>S_box_06</td><td>97.70</td><td>8.00 97.20</td><td>1.029</td></tr><tr><td>S_box_07</td><td>98.30</td><td>6.10 94.18</td><td>1.062</td></tr><tr><td>S_box_08</td><td>97.90</td><td>7.40 95.70</td><td>1.045</td></tr><tr><td>S_box_09</td><td>98.40</td><td>5.90 97.94</td><td>1.021</td></tr><tr><td>S_box_10</td><td>97.80</td><td>7.90 97.62</td><td>1.024</td></tr><tr><td>S_box_11</td><td>98.30</td><td>6.40 97.13</td><td>1.030</td></tr><tr><td>S_box_12</td><td>97.90</td><td>7.60 95.53</td><td>1.047</td></tr><tr><td>S_box_13</td><td>98.10</td><td>6.60 97.45</td><td>1.026</td></tr><tr><td>S_box_14</td><td>97.50</td><td>9.40 96.10</td><td>1.041</td></tr><tr><td>S_box_15</td><td>97.60</td><td>8.70 84.26</td><td>1.187</td></tr></table></body></html>
+
+对恢复完整密钥共进行1000次实验，所需要的能量曲线条数分布柱状图如图8所示，平均需要1.563条曲线可完成密钥恢复，其中有487次实验仅需要1条即可完成恢复完整密钥。因此，通过将Benadjila-MLP模型进行改进，改入到本文的实验平台，实验数据表明，该模型能达到较好的预测效果。
+
+![](images/f110ad9253080e75c122a7b0d2693835feadbde34d5e1a5b5714fa3fe245db41.jpg)  
+图8恢复128bit密钥需要的曲线条数分布  
+Fig.8Trace number distribution required to recover l28bit key
+
+1)HW-MLP模型实验
+
+使用HW-MLP模型对密钥字节的汉明重量进行恢复，以第0字节密钥为例进行测试，模型在epochs $\scriptstyle \mathtt { \ i = } 2 0 0$ 、batchsize $\scriptstyle : = 1 0 0$ 的条件下进行训练，随着迭代次数的增加，训练精度不断提升，LOSS值不断下降，最终训练精度达到$9 8 . 0 0 \%$ ，测试精度达到 $9 7 . 1 1 \%$ ，如图9所示，使用汉明重量密钥恢复算法，恢复第0字节密钥平均需要曲线条数为4.045条，与SVM算法相比精度提升较为明显，所需要的能量曲线更少，训练时间也较短，如表5所示。
+
+![](images/0bf06319cb0d9c80fbbfcb197015b36db7ce9f3b8e63e13d030c386d8cdb9f2b.jpg)  
+图9HW-MLP模型训练精度与LOSS
+
+表5HW-MLP模型与SVM算法对比  
+
+<html><body><table><tr><td>对比内容</td><td>HW-MLP模型</td><td>SVM算法</td></tr><tr><td>训练时间</td><td>277.4s</td><td>449.6s</td></tr><tr><td>训练精度</td><td>98.00%</td><td>93.14%</td></tr><tr><td>测试精度</td><td>98.16%</td><td>79.19%</td></tr><tr><td>恢复密钥字节所需曲线条数</td><td>4.045</td><td>5.113</td></tr></table></body></html>
+
+恢复其他密钥字节的训练精度、LOSS、测试精度和曲线条数如表6所示，经计算，平均训练精度为 $9 7 . 7 5 \%$ ，平均测试精度为 $9 6 . 1 3 \%$ ，恢复密钥字节平均需要4.185条能量曲线。
+
+表6各S盒实验数据和恢复密钥字节需要的能量曲线条数
+
+Tab.5Comparison betweenhw-MLP model and SVM model   
+Tab.6Experimental data of each S-box and the number of power trace required to recover key bytes   
+
+<html><body><table><tr><td>序号 训练精度/%</td><td>训练LOSS/%</td><td>测试精度/%</td><td>曲线数量</td></tr><tr><td>S_box_00</td><td>98.00</td><td>6.70 97.11</td><td>4.045</td></tr><tr><td>S_box_01</td><td>97.60</td><td>7.40 92.48</td><td>4.407</td></tr><tr><td>S_box_02</td><td>97.10</td><td>8.60 96.74</td><td>4.204</td></tr><tr><td>S_box_03</td><td>97.90</td><td>6.60 96.43</td><td>4.237</td></tr><tr><td>S_box_04</td><td>97.20</td><td>8.60 96.90</td><td>4.144</td></tr><tr><td>S_box_05</td><td>97.90</td><td>6.50 96.60</td><td>4.146</td></tr><tr><td>S_box_06</td><td>97.60</td><td>7.20 96.64</td><td>4.172</td></tr><tr><td>S_box_07</td><td>98.40</td><td>5.10 93.02</td><td>4.317</td></tr><tr><td>S_box_08</td><td>97.80 7.00</td><td>96.81</td><td>4.136</td></tr><tr><td>S_box_09</td><td>98.30 5.50</td><td>96.19</td><td>4.135</td></tr><tr><td>S_box_10</td><td>97.40 7.60</td><td>95.65</td><td>4.195</td></tr><tr><td>S_box_11</td><td>98.30 5.40</td><td>97.39</td><td>4.101</td></tr><tr><td>S_box_12</td><td>97.60</td><td>7.50 96.16</td><td>4.192</td></tr><tr><td>S_box_13</td><td>98.00</td><td>6.20 97.08</td><td>4.156</td></tr><tr><td>S_box_14</td><td>97.20</td><td>8.80 96.31</td><td>4.210</td></tr><tr><td>S_box_15</td><td>97.70</td><td>7.20 96.53</td><td>4.158</td></tr></table></body></html>
+
+使用HW-MLP模型对完整密钥进行恢复，共进行1000次实验，恢复完整密钥平均需要6.46条能量曲线，各条数出现的次数如图10所示。
+
+![](images/819428ceedf930eace4cb630566de5b9162635ea097688707643d4ae7ba3b05b.jpg)  
+Fig.9Training accuracy and LOSS ofHW-MLP model   
+图10恢复128bit密钥需要的曲线条数分布  
+Fig.l0Trace number distribution required to recover l28bit key
+
+使用HW-MLP模型虽然增加了恢复密钥所需要的能量曲线条数，但是在由于模型结构的简化，训练时间和训练参数都有显著下降。
+
+# 3.3.1bit-MLP模型实验
+
+使用bit-MLP模型对密钥字节的8个bit进行恢复，以第0字节密钥的第0比特为例进行实验，模型在epochs ${ \tt \Omega } _ { = 2 0 0 }$ 、batch_size $\scriptstyle \sum \sum \prime = 1 0 0$ 的条件下进行训练，最终训练精度达到
+
+$9 4 . 5 6 \%$ ，测试精度达到 $9 5 . 2 0 \%$ ，如图11所示。对第0字节密钥的其他比特进行恢复，结果如表7所示，平均训练精度为 $9 4 . 7 0 \%$ ，测试精度为 $9 3 . 3 9 \%$ ，第0字节密钥恢复需要曲线条数为1.469条。
+
+![](images/9e674e8536a05399137900fc04320c1dd9270ef6237f4f580a4b186f056a01e5.jpg)  
+图11bit-MLP 模型训练精度与LOSS
+
+Fig.11Training accuracy and LOSSof bit-MLP model 表7第0个S盒8比特实验数据   
+Tab.78-bit experimental data of the Oth S-box /%   
+
+<html><body><table><tr><td>序号</td><td>训练精度</td><td>训练LOSS</td><td>测试精度</td></tr><tr><td>bit_0</td><td>94.56</td><td>13.70</td><td>95.20</td></tr><tr><td>bit_1</td><td>95.23</td><td>12.37</td><td>95.55</td></tr><tr><td>bit_2</td><td>93.14</td><td>17.10</td><td>93.25</td></tr><tr><td>bit_3</td><td>94.08</td><td>15.05</td><td>94.22</td></tr><tr><td>bit_4</td><td>95.36</td><td>12.05</td><td>93.35</td></tr><tr><td>bit_5</td><td>95.43</td><td>11.67</td><td>88.40</td></tr><tr><td>bit_6</td><td>94.89</td><td>13.19</td><td>91.85</td></tr><tr><td>bit_7</td><td>94.95</td><td>12.82</td><td>95.32</td></tr></table></body></html>
+
+恢复其他密钥字节的训练精度、LOSS、测试精度和曲线条数如表8所示，经计算，平均训练精度为 $9 3 . 6 4 \%$ ，平均测试精度为 $9 2 . 5 6 \%$ ，恢复密钥字节平均需要1.540条能量曲线。
+
+表8各S盒实验数据和恢复密钥字节需要的能量曲线条数
+
+Tab.8Experimental data of each S-box and the number of   
+
+<html><body><table><tr><td colspan="4">power trace required to recover key bytes</td></tr><tr><td>序号</td><td>训练精度/% 训练LOSS/%</td><td>测试精度/%</td><td>曲线数量</td></tr><tr><td>S_box_00</td><td>94.70</td><td>10.80 93.39</td><td>1.469</td></tr><tr><td>S_box_01</td><td>94.13 14.72</td><td>93.01</td><td>1.450</td></tr><tr><td>S_box_02</td><td>89.86 23.72</td><td>89.34</td><td>1.812</td></tr><tr><td>S_box_03</td><td>94.67 13.41</td><td>93.84</td><td>1.421</td></tr><tr><td>S_box_04</td><td>89.88 23.73</td><td>89.29</td><td>1.846</td></tr><tr><td>S_box_05</td><td>94.60 13.67</td><td>93.81</td><td>1.408</td></tr><tr><td>S_box_06</td><td>93.66 15.53</td><td>91.99</td><td>1.539</td></tr><tr><td>S_box_07</td><td>96.15 09.96</td><td>94.75</td><td>1.386</td></tr><tr><td>S_box_08</td><td>93.23 16.45</td><td>92.16</td><td>1.502</td></tr><tr><td>S_box_09</td><td>95.89 10.52</td><td>94.87</td><td>1.391</td></tr><tr><td>S_box_10</td><td>93.29 16.37</td><td>92.22</td><td>1.577</td></tr><tr><td>S_box_11</td><td>95.98 10.37</td><td>94.50</td><td>1.381</td></tr><tr><td>S_box_12</td><td>92.54 17.96</td><td>92.30</td><td>1.549</td></tr><tr><td>S_box_13</td><td>94.96 12.84</td><td>93.86</td><td>1.413</td></tr><tr><td>S_box_14</td><td>90.45 22.55</td><td>88.70</td><td>1.954</td></tr><tr><td>S_box_15</td><td>94.26 14.37</td><td>92.92</td><td>1.535</td></tr></table></body></html>
+
+使用bit-MLP模型对完整密钥进行恢复，共进行1000次实验，恢复完整密钥平均需要3.837条能量曲线，各条数出现的次数如图12所示。
+
+![](images/d7eac06b8cc509daa7e64a27be708c6c597abf57d650eeec53fcb0fe3b463fe3.jpg)  
+图12恢复128bit密钥需要的曲线条数分布  
+Fig.12Trace number distribution required to recover 128bit key
+
+# 3.4实验分析
+
+# 1）模型参数与性能对比
+
+bit-MLP模型和ID-MLP模型都能使用较少的能量曲线对密钥进行恢复，但是两种模型的结构和参数有较大差异，bit-MLP模型结构简单，训练时间短，达到同样的训练精度（204号 $( \geqslant 9 5 \% )$ 所需要的训练集数量更少、时间更短，训练参数量比ID-MLP减少了 $84 \%$ ，训练时间减少 $2 8 \%$ ；HW-MLP模型的训练时间和训练参数适中，但是在密钥恢复阶段需要的曲线条数较多。最后，为每个模型进行评分，模型恢复完整密钥需要的曲线条数记为 $\mathrm { ~ N ~ }$ ，模型参数个数记为P，模型的得分计算为 $1 / ( \mathrm { N ^ { * } P } )$ ，并将最高值按100分进行换算，各模型对比如表9所示。
+
+因此，在实际的能量分析场景中，需要综合考虑能量曲线的输入维数、信噪比、采集的曲线条数和计算能力等情况对模型进行改进，选择最佳模型以达到最优性能。
+
+表9各模型参数与性能对比  
+Tab.9Comparison of model parameters and performance  
+
+<html><body><table><tr><td>内容</td><td colspan="4">Benadjila-MLPID-MLPHW-MLPbit-MLP</td></tr><tr><td>输出类别</td><td>256</td><td>256</td><td>9</td><td>2</td></tr><tr><td>模型层数</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>激活函数</td><td>relu</td><td>tanh</td><td>tanh</td><td>tanh</td></tr><tr><td>参数个数</td><td>270656</td><td>270656</td><td>76489</td><td>43642</td></tr><tr><td>单个 epoch 时间/s</td><td>1.5593</td><td>1.3546</td><td>1.3869</td><td>0.9753</td></tr><tr><td>训练集最少数量</td><td>50000</td><td>42000</td><td>32000</td><td>28000</td></tr><tr><td>测试精度</td><td>59.24%</td><td>95.51%</td><td>96.13%</td><td>92.56%</td></tr><tr><td>恢复密钥字节曲线数量</td><td>1.688</td><td>1.050</td><td>4.185</td><td>1.540</td></tr><tr><td>恢复完整密钥曲线数量</td><td>2.700</td><td>1.563</td><td>6.460</td><td>3.837</td></tr><tr><td>得分值</td><td>27.34</td><td>47.23</td><td>33.89</td><td>100.00</td></tr></table></body></html>
+
+1）针对MLP模型的防护策略研究
+
+目前针对分组密码算法的防护主要有两种策略，一是信息隐藏技术，主要包括随机插入伪操作、乱序操作、增加噪声等；二是掩码技术，对每个中间值都被称为“掩码”的随机数进行掩盖，从而避免信息泄漏，姜久兴等人[18]提出的低面积复杂度低熵掩码方案，可以有效应对基于偏移量的CPA攻击。对ChipWhisperer 实验平台进行随机插入伪操作并采集数据，使用bit-MLP模型对第0个S盒的第0比特进行训练和测试，训练精度和损失如图13所示，可以看出插入伪操作后，训练精度上升较慢，最终测试精度仅为 $6 4 . 1 2 \%$ ，略高于随机猜测精度，因此该策略具有一定的防御能力。
+
+![](images/1579942398293c6c2f614558619fb4d4fb46fe7a1fe3b2a6fd251ed92ce11456.jpg)  
+图13插入伪随机操作前后模型训练精度对比 Fig.13Comparison of training accuracy before and after inserting pseudo-random operation
+
+# 4 结束语
+
+将MLP神经网络引入到能量分析中，利用MLP神经网络提取特征的能力，可以挖掘出能量泄漏信息与所处理的敏感信息或密钥数据的深层次关系，为能量分析提供了一种新的手段和思路。实验结果表明，通过对文献[11]中的MLP模型进行改进，将神经网络结构进行优化，在减少了 $84 \%$ 的训练参数和 $2 8 \%$ 训练时间的情况下，可以有效提高测试精度，并减少密钥恢复阶段所需要的能量曲线条数，最少仅需要1条曲线即可完成AES算法128比特密钥的恢复。因此，本文提出的2种模型具有训练参数较少、训练时间较短的优点，随着迭代次数的增加具有较高的预测精度和较强鲁棒性，该模型也能用于其他分组密码算法(如DES、SM4等)的侧信道能量分析和评估场景。
+
+# 参考文献：
+
+[1]Kocher P,Jaffe J,Jun B.Differential power analysis [C]// Annual International Cryptology Conference.Springer,Berlin,Heidelberg,1999: 388-397.   
+[2]KocherPC.Timing attacks on implementations of Diffie-Hellman,RSA, DSS,and other systems [C]//Annual International Cryptology Conference.Springer, Berlin,Heidelberg,1996:104-113.   
+[3]Gandolfi K,Mourtel C,Olivier F.Electromagnetic analysis: Concrete results [C]// International workshop on cryptographic hardware and embedded systems.Springer, Berlin,Heidelberg,20o1:251-261.   
+[4]De Mulder E,Buysschaert P,Ors S B,et al.Electromagnetic analysis attack on an FPGA implementation of an elliptic trace cryptosystem [C]// EUROCON 2oo5-The International Conference on"Computer as a Tool". IEEE,2005,2:1879-1882.   
+[5]De Mulder E,Ors S B,Preneel B,et al.Differential power and electromagnetic attacks on a FPGA implementation of elliptic trace cryptosystems [J].Computers & Electrical Engineering,20o7,33 (5-6): 367-382.   
+[6]Liu Biao,Feng Huamin,Yuan Zheng,et al.Learning to attack from electromagnetic emanation [C]// 2O12 6th Asia-Pacific Conference on Environmental Electromagnetics (CEEM) .IEEE,2012:202-205.   
+[7]Lerman L,Bontempi G,Markowitch O.A machine learning approach against a masked AES [J]. Journal of Cryptographic Engineering,2015, 5 (2): 123-139.   
+[8]Maghrebi H,Portigliati T,Prouff E. Breaking cryptographic implementations using deep learning techniques [C]// International Conference on Security, Privacy,and Applied Cryptography Engineering. Springer, Cham,2016:3-26.   
+[9]Gilmore R,Hanley N,O'Neill M.Neural network based attack on a masked implementation of AES [C]// 2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST) .IEEE, 2015: 106-111.   
+[10] Cagli E,Dumas C,Prouff E.Convolutional neural networks with data augmentation against jitter-based countermeasures $[ \mathrm { C } ] / \AA$ International Conference on Cryptographic Hardware and Embedded Systems. Springer, Cham,2017: 45-68.   
+[11]BenadjilaR,ProuffE,Strullu R,et al. Studyof deep learning techniques for side-channel analysis and introduction to ASCAD database [EB/OL]. ANSSI,France & CEA,LETI,MINATEC Campus,France.Online verfugbar unter https://eprint.iacr.org/2018/053. pdf.   
+[12]冯登国，周永彬，刘继业等．能量分析攻击[M].北京：科学出版社, 2010:84-105.(Feng Dengguo,Zhou Yongbin,Liu Jiye,et al.Power Analysis Attack [M].Beijing: science press,2010: 84-105.)   
+[13] Brier E, Clavier C,Olivier F. Correlation power analysis with a leakage model [C]// International Workshop on Cryptographic Hardware and Embedded Systems.Springer,Berlin,Heidelberg,2004:16-29.   
+[14] Cagli E,Dumas C,Prouff E.Convolutional neural networks with data augmentation against jitter-based countermeasures $[ \mathrm { C } ] / \AA$ International Conference on Cryptographic Hardware and Embedded Systems. Springer, Cham,2017: 45-68.   
+[15] Bishop C M. Neural networks for pattern recognition [J].Agricultural Engineering International the Cigr Journal of Scientific Research & Development Manuscript Pm,1995,12 (5):1235-1242.   
+[16] Ruder S.An overview of gradient descent optimization algorithms [J]. arXiv preprint arXiv: 1609.04747,2016.   
+[17] MaghrebiH，Portigliatti T，Prouff E.Breaking cryptographic implementations using deep learning techniques [C]// International Conference on Security, Privacy,and Applied Cryptography Engineering. Springer, Cham,2016: 3-26.   
+[18]姜久兴，厚娇，黄海等．低面积复杂度AES低熵掩码方案的研究[J]. 通信学报,2019(5):201-210.(Jiang Jiuxing,Hou Jiao,Huang Hai,et al. Research on area-efficient low-entropy masking scheme for AES [J]. Journal on Communications,2019 (5): 201-210.)

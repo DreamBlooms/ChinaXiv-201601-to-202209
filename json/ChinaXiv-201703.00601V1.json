@@ -1,0 +1,256 @@
+[
+    {
+        "type": "text",
+        "text": "Baryon Antibaryon Nonets ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. Z. Yuan, X. H. Mo, P. Wang $^ \\mathrm { a }$ $^ *$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { a }$ Institute of High Energy Physics,P.O.Box 918,Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The baryon-antibaryon $S U ( 3 )$ nonets are proposed as a scheme to classify the increased number of experimentally observed enhancements near the baryon antibaryon mass threshold.The scheme is similar to the Fermi-Yang-Sakata model,which was put forth about ftyyears ago in explaining the mesonsobserved at that time.According to the present scheme,many new baryon-antibaryon bound states are predicted,and their possible productions in quarkonium decays and $B$ decays are suggested for experimental search. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lowmass baryon-antibayron enhancements have recently been observed in charmonium and （204号 $B$ decays. In charmonium decays, $p { \\overline { { p } } }$ and $p \\bar { \\Lambda }$ enhancements are observed in $J / \\psi \\ \\to \\ \\gamma p \\overline { { p } }$ [1], （204号 $\\psi ^ { \\prime }  \\pi ^ { 0 } p \\overline { { { p } } }$ ，npp [2], and $J / \\psi \\to p \\overline { { { \\Lambda } } } K ^ { - } + c . c$ [3], as well as in $\\psi ^ { \\prime }  p \\overline { { { \\Lambda } } } K ^ { - } + c . c$ .decays [3] by BES collaboration．In $B$ decays,many baryonantibayron-pair-contained final states have been measured by CLEO,Belle and BABAR collaborations, such as $B ^ { 0 } \\to D ^ { * - } p \\overline { { { n } } }$ [4], $B ^ { \\pm }  p \\overline { { { p } } } K ^ { \\pm }$ [5], （20 $\\overline { { B ^ { 0 } } } \\to D ^ { * 0 } p \\overline { { p } }$ ， $D ^ { 0 } p \\overline { { p } }$ [6]， $B ^ { 0 } \\to p \\overline { { { \\Lambda } } } \\pi ^ { - }$ [7] $B ^ { + } \\to$ $p \\overline { { p } } \\pi ^ { + }$ ， $p \\overline { { p } } K ^ { \\ast + }$ ， $B ^ { 0 } \\to p \\overline { { { p } } } K ^ { 0 }$ [8], $B ^ { + } \\to \\Lambda \\overline { { { \\Lambda } } } K ^ { + }$ [9], $B ^ { 0 } \\  \\ \\overline { { { D } } } ^ { * 0 } p \\overline { { { p } } } , \\ \\overline { { { D } } } ^ { 0 } p \\overline { { { p } } }$ [10],and so on, with observed enhancements in $p { \\overline { { p } } }$ ， $p \\bar { \\Lambda }$ and $\\Lambda \\overline { { \\Lambda } }$ mass spectra.Except for the enhancement in $J / \\psi  \\gamma p \\overline { { p } }$ which is claimed to be very narrow and below the $p { \\overline { { p } } }$ mass threshold,all other states are slightly above the baryon antibaryon mass threshold and the widths are a few ten to less than $2 0 0 \\mathrm { M e V } / c ^ { 2 }$ ： Stimulated by recent experimental results,a number of theoretical speculations and investigations are put forth [11,12],some focus on the interpretation ofa particular final state [11],for instance $J / \\psi  \\gamma p \\overline { { p } }$ ，while others discuss the final states containing baryon and antibaryon pair [12].Most of these works devote to the improvement of previous models or exploration of the production and decay dynamics,but it is still far from understanding the problem. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The discovery of increased number of baryonantibaryon enhancements near thresholds can not help reminding us of the era prior to the development of $S U ( 3 )$ quark model,when the socalled elementary particles emerged one by one. In this Letter,we try to find a way to classify them. We suggest a nonet scheme to accommodate the baryon-antibaryon enhancements observed in charmonium and $B$ decays.We surmise, with certainkind of interaction,for example,the residual strong force between the quarks inside the baryons,some multiplets can be formed as the baryon-antibaryon bound states. Our idea is enlightened by the Fermi-Yang-Sakata (FYS) model,in which the mesons were interpreted as baryon-antibaryon bound states. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our scheme could lead the experiments to search these bound states in a systematical way, as the missing mesons and baryons had been searched following the prediction of the quark model.Also this scheme facilitates the theoretical development which describes these bound states in an unfied model instead of focusing on a particular state,since these states are bound by common forces and they decay through the same dynamics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the following parts of the Letter,we first review the FYS model briefly, then put forward a baryon-antibaryon nonet scheme,by virtue of which，many new baryon-antibaryon bound states are expected.Finally,the search for these states are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Fermi-Yang-Sakata Model ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In 195Os,as the number of the so-called elementaryparticles increased,it became less likely that all of them were truly elementary. Under such circumstance,as a tentative scheme,Fermi and Yang proposed [13] that the $\\pi$ -meson may be a composite particle formed by the association of a nucleon and an anti-nucleon,with strong attractive force in between which binds them together. Since the mass of the $\\pi$ -meson is substantially smaller than twice the mass of a nucleon,it is necessary to assume that the binding energy is extremelylargewhichisunappealingtheoretically. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In 1955 after the discovery of the strangeness, Sakata extended Fermi-Yang's idea by including a strange baryon $\\Lambda$ and its anti-particle [14],and intended providing a physical meaning for the Nishijima-Gell-Mann's rule [15]. Four years later, the most modern-like version of the FYS model was developed by Ikeda, Ogawa and Ohnuki [16]. They assumed that proton $p$ ，neutron $n$ and $\\Lambda$ （20 are basic particles which compose other baryons and mesons as suggested by the FYS model. They proposed a frameworkwhich explicitlyassures the equivalence of the three basic particles, $p$ ， $n$ and $\\Lambda$ ,inthelimit ofan mass.Thisleadsto the introduction of a new invariance under the exchange of $\\Lambda$ and $p$ or $\\Lambda$ and $n$ in addition to the usual charge independence and the conservation of electrical and hyperonic charge.They utilized $U ( 3 )$ group to analyze the symmetry of the FYS model and obtained exactly the same classification of the pseudoscalar mesons as the quark model as long as the basic elements $p$ ， $n$ and $\\Lambda$ are replaced by $u$ $d$ and $s$ quarks.The symmetry analysis of Ikeda, Ogawa and Ohnuki was so successful that all the pseudoscalar mesons known by 1961 could be accounted for,and moreover,a new particle $\\eta$ was predicted which was shortly discovered [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However,after the theory of unitary symmetry of strong interactions was put forward [18],especiallywhenhyperon $\\Omega ^ { - }$ waspredicted definitely by Gell-Mann [19]and its existence was confirmed experimentally [2O],theFYS model becamea history for the quark model.In fact,even when the FYS model was proposed, it encountered a profound difficulty which was the enormous binding energy for sticking the nucleons together to form a meson.On the contrary,for the newly observed baryon antibaryon enhancements near thresholds, the binding energy is small compared with the mass of a nucleon. So we turn to the FYS model to classify these bound states. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. $0 ^ { - }$ and $1 ^ { - }$ Nonets ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We come back to the FYS model,but from a different point of view.In our scheme，the baryon-antibaryon bound states do not refer to ordinary mesons,such as $\\pi$ ， $K$ ， $\\eta$ ，but to the bound states formed by baryon and antibaryon. The interaction between the baryon and antibaryon is probably the residual force between the strong interaction of the quarks and gluons inside the baryon or antibaryon. On one hand, the masses of the three-quark systems (the baryon and the antibaryon) increase by a small amount due to the residual forces required to form the bound state;on the other hand, the binding energy between the two three-quark systems decreases the mass of the baryon-antibaryon system to lower than the sum of the masses of the three-quark systems,but very close to the baryonantibaryon mass threshold. This supplies as a phenomenologicalsurmise,therealphysicsawaits for the validity of the quantum chromodynamics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similar to the $S U ( 3 )$ quark-antiquark nonets, we postulate the existence of special octets and singlets (nonets) whose elements are baryonantibaryon bound states，as shown in Fig.1. Hereafter,we limit our study to the low-mass baryons: $p$ ， $\\textit { \\textbf { n } }$ and $\\Lambda$ .For a baryon-antibaryon bound state,its quantum numbers are obtained in the following way: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "· Its spin ( $S$ ）is O or1, from the addition of the component baryons. · The parity is $( - 1 ) ^ { L + 1 }$ ，where $L$ is the orbital angular momentum between the baryon and the antibaryon.In case of $S$ wave ( $L = 0$ ),theparity isodd $( - )$ ，while for $P$ -wave,the parity is even $( + )$ · · For pure neutral system， such as nn, $p { \\overline { { p } } }$ or $\\Lambda \\overline { { { \\Lambda } } }$ ，the $C$ -parityis $( - 1 ) ^ { L + S }$ For charged members,we define the generalized $C$ -parity [21]by the neutral member of the nonet,but under $C$ -parity transformation, the particle changes into its anti-particle. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e589629ca72a06b747ed5fc27fe2e34463d078efb3da3d743d5e3365bc7e2b7a.jpg",
+        "table_caption": [
+            "Table 1 Quantum numbers of baryon-antibaryon nonet with $J ^ { P } = 0 ^ { - }$ or $1 ^ { - }$ ： $\\boldsymbol { \\mathit { 1 } }$ is isospin, $I _ { 3 }$ is the third component of $\\boldsymbol { { I } }$ ， $\\boldsymbol { S }$ is the strangeness and $Q$ is the charge of the state. The column “symbol” gives nomenclature of the $0 ^ { - }$ and $1 ^ { - }$ states for easy reference intheLetter. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>state</td><td>1(13)</td><td>S</td><td>Q</td><td>Symbol</td></tr><tr><td>(pn)</td><td>1(+1)</td><td>0</td><td>+1</td><td></td></tr><tr><td>(np)</td><td>1(-1)</td><td>0</td><td>-1</td><td>πB/PB</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>n</td><td></td><td>010</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(πA)</td><td></td><td>-1</td><td>0</td><td>KB/K</td></tr><tr><td>(pA)</td><td>（一）</td><td>-1</td><td>-1</td><td></td></tr><tr><td>(nn + pP-2AA)</td><td></td><td></td><td></td><td>KB/KB</td></tr><tr><td>√6</td><td>0（0）</td><td>0</td><td>0</td><td>18</td></tr><tr><td>(nπ +pPp + A)</td><td>0（0）</td><td>0</td><td>0</td><td>nB/uB</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/811dcc556afca54cde06ecd81ef37f2744e0adec8ab78a4893bb5c33820ded16.jpg",
+        "img_caption": [
+            "Figure 1. Baryon-antibaryon nonet. The $J ^ { P }$ of this nonet is either $0 ^ { - }$ or $1 ^ { - }$ ．The three circles in the figure indicate the following three states: （204号 $( n { \\overline { { n } } } - p { \\overline { { p } } } ) / { \\sqrt { 2 } }$ ， $( n \\overline { { n } } + p \\overline { { p } } - 2 \\Lambda \\overline { { \\Lambda } } ) / \\sqrt { 6 }$ ,and $( n { \\overline { { n } } } +$ $p \\overline { { p } } + \\Lambda \\overline { { \\Lambda } } ) / \\sqrt { 3 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The property of the $S$ -wave spin-singlet states $\\ : \\ : J ^ { P } \\ : = \\ : \\ : 0 ^ { - } \\ :$ ）orthe $S$ -wave spin-triplet states （ $J ^ { P } = 1 ^ { - }$ ) nonet is summarized in Table 1,which leads to the relation of their production rates in experiments. For simplicity,we assign the particles in the nonets the same names as the meson nonets formed by quark-antiquark,but with a subscript $B$ for distinction.For example, the $0 ^ { - }$ isospin vector states are denoted as $\\pi _ { B } ^ { + }$ ， $\\pi _ { B } ^ { 0 }$ ,and （20 $\\pi _ { B } ^ { - }$ ,while the $1 ^ { - }$ strange particles are referred to as $K _ { B } ^ { * 0 }$ ， $K _ { B } ^ { * + }$ ,and their anti-particles. In general,there is mixing between the 8th component of the $S U ( 3 )$ octet and the $S U ( 3 )$ singlet. Since the masses of proton and neutron differ by only （204号 $1 . 3 ~ \\mathrm { M e V } / c ^ { 2 }$ ，but the mass of $\\Lambda$ is $1 7 7 ~ \\mathrm { M e V } / c ^ { 2 }$ greater, one is invited to assume ideal mixing between them,thus one is pure $( p { \\overline { { p } } } + n { \\overline { { n } } } )$ and the other is pure $\\Lambda \\overline { { \\Lambda } }$ . This is to be verified by experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If the electromagnetic interaction is neglected, the production rates of these baryon-antibaryon bound states in $J / \\psi$ and $\\psi ^ { \\prime }$ decays can be simply related by $S U ( 3 )$ symmetry except for a phase space factor [21]. For example,the production rates of baryon-antibaryon bound states with $J ^ { P } = 1 ^ { - }$ accompanying by a pseudoscalar meson are related by: $\\pi ^ { 0 } \\rho _ { B } ^ { 0 } : \\pi ^ { + } \\rho _ { B } ^ { - } : \\pi ^ { - } \\rho _ { B } ^ { + } : K ^ { + } \\overline { { { K } } } _ { B } ^ { * - } :$ （20号 $K ^ { 0 } \\overline { { { K } } } _ { B } ^ { \\ast \\mathbf { o } } : K ^ { - } K _ { B } ^ { \\ast + } : \\overline { { { K } ^ { 0 } } } K _ { B } ^ { \\ast 0 } : \\eta \\omega _ { B } : \\eta \\phi _ { B } : \\eta ^ { \\prime } \\omega _ { B } :$ $\\eta ^ { \\prime } \\phi _ { B } = 1 : 1 : 1 : 1 : 1 : 1 : 1 : 1 : X _ { \\eta } ^ { 2 } : Y _ { \\eta } ^ { 2 } : X _ { \\eta ^ { \\prime } } ^ { 2 } : Y _ { \\eta ^ { \\prime } } ^ { 2 }$ Here $X _ { \\eta }$ ， $X _ { \\eta ^ { \\prime } }$ ， $Y _ { \\eta }$ ,and $Y _ { \\eta ^ { \\prime } }$ are the mixing coefficients of $\\eta$ and $\\eta ^ { \\prime }$ [22]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { | \\eta \\rangle } } & { { = } } & { { \\displaystyle X _ { \\eta } \\displaystyle \\frac { 1 } { \\sqrt { 2 } } | u \\overline { { { u } } } + d \\overline { { { d } } } \\rangle + Y _ { \\eta } | s \\overline { { { s } } } \\rangle ~ , } } \\\\ { { | \\eta ^ { \\prime } \\rangle } } & { { = } } & { { \\displaystyle X _ { \\eta ^ { \\prime } } \\displaystyle \\frac { 1 } { \\sqrt { 2 } } | u \\overline { { { u } } } + d \\overline { { { d } } } \\rangle + Y _ { \\eta ^ { \\prime } } | s \\overline { { { s } } } \\rangle ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $X _ { \\eta } = Y _ { \\eta ^ { \\prime } }$ ， $X _ { \\eta ^ { \\prime } } = - Y _ { \\eta }$ ，and $X _ { \\eta } ^ { 2 } + Y _ { \\eta } ^ { 2 } = 1$ Assuming aforementioned states predominantly decay to baryon-antibaryon pair,and considering the fact that $\\rho _ { B } ^ { 0 } \\ \\to \\ n \\overline { { n } }$ and $\\omega _ { B } ~  ~ n \\overline { { n } }$ are hard to be detected experimentally,above relation can be reformulated in terms of the experimentally detected final states: $\\pi ^ { 0 } ( p \\overline { { { p } } } ) : \\pi ^ { + } ( n \\overline { { { p } } } ) :$ $\\pi ^ { - } ( \\overline { { { n } } } p ) : K ^ { + } ( \\overline { { { p } } } \\Lambda ) : K ^ { 0 } ( \\overline { { { n } } } \\Lambda ) : K ^ { - } ( p \\overline { { { \\Lambda } } } ) : \\overline { { { K ^ { 0 } } } } ( n \\overline { { { \\Lambda } } } ) :$ $\\eta ( p \\overline { { { p } } } ) : \\eta ( \\Lambda \\overline { { { \\Lambda } } } ) : \\eta ^ { \\prime } ( p \\overline { { { p } } } ) : \\eta ^ { \\prime } ( \\Lambda \\overline { { { \\Lambda } } } ) \\cong \\frac { 1 } { 2 } : 1 : 1 : 1$ $\\textstyle 1 : 1 : 1 : 1 : { \\frac { X _ { \\eta } ^ { 2 } } { 2 } } : Y _ { \\eta } ^ { 2 } : { \\frac { X _ { \\eta ^ { \\prime } } ^ { 2 } } { 2 } } : Y _ { \\eta ^ { \\prime } } ^ { 2 }$ The productionrates of baryon-antibaryonbound states with other quantum numbers are expressed similarly The phase space is proportional to $p ^ { 3 }$ for the production of the $J ^ { P } = 1 ^ { - } ( 0 ^ { - } )$ baryon-antibaryon bound state with an accompanying pseudoscalar (vector）meson,where $p$ is the momentum of the baryon-antibaryon bound state. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $p { \\overline { { p } } }$ state observed in $J / \\psi$ radiative decays is $\\eta _ { B }$ or $\\pi _ { B } ^ { 0 }$ if it is a $S$ -wave_state due to spinparity conservation,and the $p \\overline { { \\Lambda } }$ states in $J / \\psi$ decays is $K _ { B } ^ { * + }$ or $K _ { B } ^ { + }$ In $B$ decays, since parity is not conserved,the spin-parity of the state is to be determined by the angular distributions of the final state particles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.ExperimentalSearches ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because of the large phase space, $B$ decays playimportant roles in the study of the baryonantibaryon resonances. Many of the baryonantibaryon-pair-contained final states have been analyzed experimentally as mentioned above, other interesting modes to be searched for are given in Table 2. The complexity here is the possible existence of two or more baryon-antibaryon resonances in the same final states and in a very small mass region, since many different $J ^ { P }$ states can be produced in $B$ decays，depending on the other particles accompanying the baryonantibaryon resonances. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Charmonium is another domain to study the baryon-antibaryon states. Unlike $B$ decays, conservation law holds a rein on a possible decay mode herein.By virtue of the quantum numbers listed in Table 1,some decay modes involving the $0 ^ { - }$ and $1 ^ { - }$ baryon-antibaryon bound states are listed in Table 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The production of the $0 ^ { - }$ baryon-antibaryon bound states in $J / \\psi$ (or $\\psi ^ { \\prime }$ ）decays can be accompanied by a vector meson. For the iso-vector bound states,one may look for the $\\rho N \\overline { { N } }$ (nucleon antinucleon） final states,including $\\rho ^ { + } n \\overline { { p } }$ $\\rho ^ { 0 } p \\overline { { p } }$ and $\\rho ^ { - } p \\overline { { n } }$ ； for the iso-scalar bound state, one may look for the $\\omega p p$ final state; while for the strange states,one may look for the $K ^ { * + } \\Lambda \\overline { { p } } + c . c$ and $K ^ { * 0 } \\Lambda \\overline { { n } } + c . c$ . final states. The neutron or anti-neutron which is not detected may be reconstructed by kinematic fit in the event selection. The $S U ( 3 )$ singlet state can be searched for by measuring $\\phi \\Lambda \\overline { { \\Lambda } }$ final state.The measurement of the $0 ^ { - }$ baryon-antibaryon bound states together with an axial-vector meson is less promising since almost all the axial-vector mesons are resonances. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fab313209a713ce1072ccaca99099a4910c93929ac799cdd937546b072bb930e.jpg",
+        "table_caption": [
+            "Table 2 Possibledecaymodescontaining baryonantibaryon nonets in $B$ decays. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>decaymode</td><td>decaymode</td></tr><tr><td>db→ ds</td><td></td><td>ub→ us</td></tr><tr><td>B→</td><td>π(nA） π-(pA） K+(np) K(pP) K%(AA) n(nA n'(nA) p(n p-(pA)</td><td>B+→ π+(nA) π(pA） K+(PP) K+(AA) K(pn) n(pA) n'(pA p+(nA) p°(pA</td></tr><tr><td>(nA) d(ccs)</td><td></td><td>(pA) ub→ u(ccs)</td></tr><tr><td>db→ B°→</td><td>nc(nA)</td><td>B+→ nc(pA) J/(pA)</td></tr><tr><td>J/(nA) db→ d(cud)</td><td></td><td>ub→ u(cud)</td></tr><tr><td>B→ D(pp D°(AA)</td><td>D-(pn) D*°(2007)(pp)</td><td>B+→ D(pn) D°(2007)(pm)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The production of the $1 ^ { - }$ baryon-antibaryon bound states can be accompanied by a pseudoscalar $( \\pi , \\ \\eta , \\ \\eta ^ { \\prime } , \\ K )$ ，scalar, tensor or axialvector meson．The most promising way to look for them is in the decays with a pseudoscalar meson: analyze $\\pi N \\overline { { N } }$ for the iso-vector bound states;analyze $\\eta p p$ for iso-scalar bound state;and analyze $K ^ { + } \\Lambda \\overline { { { p } } } + c . c$ .and $K ^ { 0 } \\Lambda \\overline { { n } } + c . c$ .for the strange bound states. The $S U ( 3 )$ singlet bound state can be searched for via $\\eta ^ { \\prime } \\Lambda \\overline { { \\Lambda } }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6bb3e92710bae3fe41de82a4dcc7244acf878c2caa607f4f00f1ed8418bd8ab.jpg",
+        "table_caption": [
+            "Table3 Decaymodescontainingbaryon-antibaryon nonets in charmonium decays. The first $J ^ { P }$ is for the accompanying particle while the second for the baryon-antibaryon resonance. "
+        ],
+        "table_footnote": [
+            "\\*：not allowed in $J / \\psi$ decays; $* *$ : not allowed in $\\psi ^ { \\prime }$ decay. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">decaymode</td><td>Note</td></tr><tr><td rowspan=\"6\">1-&0</td><td>p(pp)，p+(np)，p-(pn)</td><td></td></tr><tr><td>K*+(pA)，K*-(pA)</td><td>*</td></tr><tr><td>K*0(nA),K* (nA)</td><td>*</td></tr><tr><td>w(pP)</td><td></td></tr><tr><td>(AA)</td><td>*</td></tr><tr><td>6(1235)(pp)</td><td>*</td></tr><tr><td rowspan=\"6\"></td><td>b(1235)(np)，b(1235)(pn)</td><td>*</td></tr><tr><td>h1(1170)(PP)，h1(1170)(△A),</td><td>*</td></tr><tr><td>K+(1270)(𝑝A)，K(1270)(pA)</td><td>*</td></tr><tr><td>K(1270)(nA),K(1270)(nA)</td><td>*</td></tr><tr><td>K‡(1400)(𝑝A)，K−(1400)(pA)</td><td>*</td></tr><tr><td>K(1400)(πA),K(1400)(nA)</td><td>*</td></tr><tr><td rowspan=\"4\">0-&1-</td><td>π(pp)，π+(np)，π-(pn)</td><td></td></tr><tr><td>K+(pA),K°(πA)</td><td></td></tr><tr><td>K-(pA),K(nA)</td><td></td></tr><tr><td>n(pP)，n(AA) n'(pP)，n'(AA)</td><td></td></tr><tr><td rowspan=\"8\">0+&1-</td><td></td><td>*</td></tr><tr><td>a8(980）(pp)</td><td></td></tr><tr><td>a(980)(np），a(980）(pπ）</td><td></td></tr><tr><td>a8(1450）(PP)</td><td>*</td></tr><tr><td>a(1450)(np)，a(1450)(pn)</td><td>*</td></tr><tr><td>fo(980)(pP)，fo(980)(△A),</td><td></td></tr><tr><td>fo(1370)(pP)，fo(1370)(AA), K*+(1430)(p△)，K*-(1430)(pA)</td><td>*</td></tr><tr><td>K*(1430)(πA),K0*°(1430)(nA)</td><td>*</td></tr><tr><td rowspan=\"8\">1+&1-</td><td></td><td>*</td></tr><tr><td>a(1260)(Pp)</td><td>*</td></tr><tr><td>a†(1260)(np)，a1(1260)(pn)</td><td>*</td></tr><tr><td>fi(1285)(pP)，fi(1420)(AA),</td><td>*</td></tr><tr><td>K‡(1270)(pA)，K−(1270)(pA)</td><td>*</td></tr><tr><td>K♀(1270)(πA),Ki(1270)(nA)</td><td>*</td></tr><tr><td>K‡(1400)(𝑝A)，K−(1400)(pA)</td><td>*</td></tr><tr><td>K♀(1400)(πA),K(1400)(nA)</td><td>*</td></tr><tr><td rowspan=\"8\">2+&1-</td><td>a(1320)(pp)</td><td>*</td></tr><tr><td>a(1320)(np)，a(1320)(pn)</td><td>*</td></tr><tr><td>f2(1270)(pP),</td><td>*</td></tr><tr><td>f(1525)(AA)</td><td>**</td></tr><tr><td>K+(1430)(pA)，K*-(1430)(pA)</td><td>*</td></tr><tr><td></td><td></td></tr><tr><td>K*(1430)(nA)，K(1430)(nA)</td><td>*</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the neutral non-strange $0 ^ { - }$ baryon-antibaryon bound states can also be produced via radiative decays of $J / \\psi$ (or $\\psi ^ { \\prime }$ ) while the $1 ^ { - }$ baryon-antibaryon bound states can not be produced this way due to spin-parity conservation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although among charmonium decays $J / \\psi$ provides a good source of the baryon-antibaryon bound states because of the large data samples, there are disadvantages: the phase space is too small and there are many $N ^ { * }$ 's near nucleon meson mass threshold,whichaffect the identification of the states [23]. The $\\psi ^ { \\prime }$ decays have larger phase space,however,the data samples are smaller,and there is alarge fraction of charmonium transition. CLEOc and BESIII will surely help to improve the statistics,and the partial wave analysis is desirable to take the $N ^ { * }$ contribution into account correctly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is also possible to perform such searches in bottomonium （Y） decays，with the existing data sample at CLEO-III and possibly more if $B$ -factories take data at $\\Upsilon ( 1 S )$ . The phase space is much larger than in charmonium,and the $N ^ { * }$ states are far from the baryon-antibaryon mass threshold.In principle,all modes listed in Table 3 can be searched for in bottomonium decays. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.Discussion and Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although our discussion is limited to $S$ -wave, $S U ( 3 )$ baryon-antibaryon bound states,it can be easily extended in many aspects. First,the $P$ 1 wave, $\\mathcal { D }$ -wave and even higher angular momentum multiplets are also expected to exist.Thus we have $J ^ { P } = 0 ^ { + }$ ， $1 ^ { + }$ ， $2 ^ { + } , \\cdots$ ， states. Second, the scheme can be extended by including more baryons,for example,the charmed baryon $\\Lambda _ { c }$ .As has been reported by the Belle collaboration,an enhancement was observed in $\\Lambda _ { c \\bar { p } }$ mass spectrum near the threshold [24]. This can be interpreted as a member in the $S U ( 4 )$ multiplets.Last,the extension to the baryon-meson，or the mesonmeson bound states is in principle straightforward.Nevertheless,the existence of such kinds of resonances can merely be determined by experiment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary, the observations of the enhancements near the baryon antibaryon mass thresholds in charmonium and $B$ decays bring us fresh ideas in the study of hadron spectroscopy. With the known symmetry properties of strong interaction，we foresee the existence of the whole class of nonet baryon-antibaryon bound states and their possible quantum numbers in a revived FYS model, even though current theory of strong interaction does not provide means to calculate their binding energies and decay rates.Theoretically,instead of giving the dynamics for a particular state,our scheme provides a unified foundation for further exploration of the binding forces and decay dynamics ofvariousbound states.Experimentally,in light of our scheme,we know where to find these bound states systematically in $J / \\psi$ ， $\\psi ^ { \\prime }$ ， $\\Upsilon$ and $B$ meson decays.The search can be conducted with the existing or soon available CLEOc,BESIII,and $B$ -factory data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1． BES Collaboration， J. Z. Bai et al.，Phys. Rev.Lett.91 (2003)022001.   \n2. BES Collaboration,M.Ablikim et al.,Phys. Rev.D 71(2005) 072006.   \n3. BES Collaboration,M.Ablikim et al.,Phys. Rev.Lett.93(2004) 112002.   \n4. CLEO Collaboration， S. Anderson et al., Phys.Rev.Lett.86(2001) 2732.   \n5. Belle Collaboration,K.Abe et al.,Phys.Rev. Lett.88(2002)181803.   \n6. Belle Collaboration,K.Abe et al.,Phys.Rev. Lett.89(2002)151802.   \n7. Belle Collaboration,M.-Z. Wang et al., Phys. Rev.Lett.90(2003) 201802.   \n8. Belle Collaboration,M.-Z.Wang et al., Phys. Rev.Lett.92(2004) 131801.   \n9．Belle Collaboration，Y.-J. Lee et al.,Phys. Rev.Lett.93(2004) 211801.   \n10.BABAR Collaboration,B.Aubert et al., hepex/0408035.   \n11.A.Datta and P.J.O'Donnell,Phys.Lett.B 567(2003) 273;A. Sibirtsev et al., Phys.Rev. D 71(2005) 054010; D.V.Bugg,Phys.Lett. B 598 (2004) 8; Chong-Shou Gao and Shi-Lin Zhu,Commun.Theor.Phys.42 (2004) 844, hep-ph/0308205; B. S. Zou and H. C.Chiang, Phys.Rev.D 69 (2004) 034004;B.Loiseau and S.Wycech,hep-ph/0501112.   \n12.J.L. Rosner, Phys.Rev.D 68 (2003) 014004; Xiao-Gang He, Xue-Qian Li and J. P. Ma, Phys.Rev.D 71（2005）014031；Chao-Hsi Chang and Hou-Rong Pang, Commun. Theor. Phys.43 (2005) 275,hep-ph/0308205.   \n13.E. Fermi and C. N. Yang, Phys. Rev. 76 (1949) 1739.   \n14.S.Sakata,Prog. Theor.Phys.16 (1956) 686.   \n15.T.Nakano and K.Nishijima, Prog. Theor. Phys.10(1953) 581；K.Nishijima，Prog. Theor.Phys.12 (1954) 107;idid,13(1955) 285; M. Gell-Mann, Phys.Rev. 92 (1953) 833.   \n16. M. Ikeda, S. Ogawa and Y. Ohnuki， Prog. Theor.Phys.22(1959) 715.   \n17.A.Pevsner et al., Phys. Rev. Lett.7(1961) 421;C. Alff et al.,Phys.Rev.Lett.9 (1962) 325.   \n18.M.Gell-Mann,Phys.Rev.125 (1962) 1067; Y.Ne'eman,Nucl. Phys.26(1961) 222.   \n19.M. Gell-Mann，Proceedings of the International Conference on High-Energy Nuclear Physics， Geneva， 1962 (CERN Scientific Infromation Service, Geneva, Switzerland, 1962), p.805.   \n20.G. S. Abrams et al.，Phys. Rev. Lett.13 (1964) 67O;V.E.Barnes,Phys.Rev.Lett. 12(1964) 204.   \n21.H.E.Haber and J.Perrier,Phys.Rev.D 32 (1985) 2961.   \n22.J.L. Rosner,Phys. Rev.D 27(1983) 1101; L. Kopke and N. Wermes,Phys. Rev.174 (1989) 67.   \n23.For example,compare the Dalitz plots in Ref.[2] and hep-ex/0405030.   \n24.Belle Collaboration，K． Abe et al.，hepex/0409005. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

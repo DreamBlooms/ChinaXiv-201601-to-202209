@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "智慧时代的螺丝钉：机器人凸显对职场物化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许丽颖」　喻丰2\\*　彭凯平」王学辉」(1清华大学社科学院心理学系，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(²武汉大学哲学学院心理学系，武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在“工具人”“打工人”、“社畜”等流行语风靡职场的当下，职场物化已然成为了一个亟需探讨的话题。而随着人工智能尤其是机器人在职场中的使用日益增多，机器人产生的职场效应也值得关注。因此，本项目旨在探讨在人工智能飞速发展的当今社会，机器人渗入职场是否会产生或加重职场物化现象。基于群际威胁理论和补偿控制理论，我们假设职场中的机器人员工凸显会增加职场物化。项目采用实验、大数据与问卷调查相结合的方式，首先考察机器人员工的凸显是否会增加职场物化，初步验证影响效应；然后探讨机器人影响职场物化的中介机制，试图发现感知威胁和控制补偿的链式中介效应；最后从个人、机器人和环境三方面分别考察其对机器人影响职场物化的调节作用，并从组织文化的角度探讨对职场物化的干预策略。对本项目的探索有助于结合人工智能尤其是机器人发展背景，前瞻性地了解人工智能在职场中可能的负面影响，并提出有效的解决方案。  \n关键词职场物化，机器人，补偿控制理论，道德",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代社会，职场中人必与机器为伍。从农业到工业乃至服务业，从办公室白领到工厂蓝领，从小型计算机到大型工业、农业机械，职场中充斥着各式各样的机器。某种程度上，如马克斯·韦伯（1904/2010)所言，去魅的理性化让现代社会分工成为精细、运转流畅的机器，而现代职场中的人也变成了这台机器的零部件。工人成为了机器的零件，劳动则随之从本能自发变成了工具，工人自己也开始根据其生产的商品和价值来看待自己，从此，人之为人由人创造的商品来定义，这是马克思所谓的异化（Marx,1844/1964)。今时不同往日，除了人像机器，机器也变得像人了。像人一样的机器非谓相貌拟人（许丽颖 等,2017)，而是智能似人，此即人工智能（喻丰，许丽颖,2020)。人工智能以机器人或智能程序方式进入人类职场，除了抓、抬、扶、举等传统劳动，它还能辅助抓取数据、实时监控、智能选择、辅助决策，它可能帮你挑选简历、也可能助你布置任务，甚至为公司的未来决策出谋划策。进入职场的机器人引发了全社会的广泛讨论（如Chamorro-Premuzic etal.,2019 at Harvard BusinessReview; Kelion,2019 at BBC; Martinez,2019 at Forbes; Abril,2019 at Fortune 等)。机器进入职场成为类似的“人”，那么这是否会改变人和人之间的关系？职场中的人因为机器人的出现以及人机之间界限的日益模糊，他们看待自己的同事是否会发生变化？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这是必然的。对此问题的关切正是“加强人工智能同保障和改善民生的结合，从保障和改善民生、为人民创造美好生活的需要出发，推动人工智能在人们日常工作、学习、生活中的深度运用，创造更加智能的工作方式和生活方式”（习近平语,2018于中共中央政治局第九次集体学习）的同时要必须要考虑的“加强人工智能相关法律、伦理、社会问题研究”（习近平语,2018于中共中央政治局第九次集体学习）问题。人为机器、机器为人，这是否会造成人性不张以至于人与人之间的关系发生变化？最容易思考的便是人将机器拟人化，而将职场中的人机器化，机器化便是某种形式的物化（Objectification; Andrigheto et al.,2017）。人非物是人之为人的骄傲，文艺复兴时期所提倡的人文主义主张对人的个性的关怀，强调维护人类的人性尊严，然而工业革命的洪流却又将个体性的人淹没在巨大的社会机器之中，扮演着螺丝钉一样的角色，职场物化（workplace objectification）在这样的背景下时有发生。当我们在说一个人不是人的时候，充满着负面、鄙视和嘲讽，但是否我们真的都将人当作人呢？在“2020 年十大网络热词”中，“工具人”榜上有名，它也成为了职场流行语。在职场中，人们不仅将彼此视为“工具人”，甚至也会自我嘲讽为“工具人”，这显然是对人的物化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已经可以预见的是，人工智能将极大地融入人们的生活，并同时深刻地改变它，乃至改变人们对自己和他人的认识。人工智能自身的发展必将导入一种与人交互、以人为中心的发展形态，它会以各种方式嵌入人们的生活，造就一种新的存在方式。新的生活和存在方式必然导致新的关系模式、新的伦理模式、新的交互模式、新的认知模式。因此，对于人工智能尤其是机器人可能产生的社会问题的担忧长期以来与其发展相伴而行。科技进步固然重要，但脱离了“人”本身的发展却可能失控。机器人作为劳动者的崛起已经引发了人类的忧虑（e.g.,Smith&Anderson,2017)，这不仅由于机器人对人类就业、安全等方面的现实威胁，也因为机器人可能对人类身份的认同和独特性产生威胁（Yogeeswaran et al.,2016)，这是以往的工业革命所不曾有过的。职场里的机器人会如何塑造社会关系的探讨尚未有定论，但由于机器人对工作岗位的抢占会导致人与人之间的竞争更加激烈，从而导致对人际关系的负面影响。类似威胁结果如，增加人们对物质的不安全感，使人们更多地感知到移民和外国工人的威胁，进而增加对反移民政策的支持等（e.g.,Frey et al.,2018;Imet al.,2019)。因此，本项目假设职场中的机器人凸显（robotsalience）会产生或加重职场物化现象，此经由心理威胁及威胁后的控制补偿机制所致，并由个人、机器及环境因素所调节。需要说明的是，本项目中所使用的“机器人凸显”一词意指机器人进入职场引发人类关注，其不仅包含职场中机器人数量比例上的增加，也涵盖机器人在工作参与程度上的提升。对此问题的探索有助于深化对职场物化现象在人工智能时代背景下的理解，了解人工智能特别是机器人在职场中可能的负面影响，并给出有效的可能应对措施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究现状及评述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1职场物化应是物化之核心却受到研究忽视",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物化本为对社会批判之产物，其起源正在于资本主义社会中人类的境遇，这个概念的核心在于社会机器中的人成为其零件。但该词语在心理学研究中却始终失之偏颇，成为一种专指女性境况的描绘。这可能源自美国当代女性哲学家玛莎·努斯鲍姆（Martha Nussbaum），她详细描述了物化的特征，即（1）工具性（instrumentality)，即物化者将物化对象视为其实现自身目的的工具；（2）否定自主性（denialofautonomy)，即物化者认为物化对象缺乏自主性；（3）惰性（inertness），即物化者认为物化对象缺乏能动性（agency)，或许也缺乏活跃性；（4）可替代性（fungibility)，即物化者认为物化对象可以被同类型或不同类型的其他对象所替代；（5）可侵犯性（violability)，即物化者认为物化对象缺乏边界完整性（boundary-integrity)，伤害物化对象是被允许的；（6）所有权（ownership)，即物化者将物化对象视为属于他人所有、可以买卖等；（7）否认主观性（denialof subjectivity)，即物化者认为不需要考虑物化对象的体验和感受（Nussbaum,1995,1999)。努斯鲍姆对物化的定义实际上并无偏向女性之意，因为如果将以上一项或多项特征归属于某人，则该人可能被物化（Nussbaum,1995,1999)。心理学里物化之含义并未超脱于努斯鲍姆。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于上世纪中叶美国社会对民主、平权、身份等概念的追求加剧，随着女权主义的推动（e.g.,MacKinnon,1989）以及性物化现象愈加普遍和严重，物化的心理学研究便聚焦于性物化，而其中最有影响力的物化理论（Objectification Theory）也仅限于探讨对于女性的性物化（Fredrickson&Roberts,1997）。性物化（sexualobjectification）是指“女性的身体、身体部位或性功能脱离了女性本身，沦为纯粹的工具或被视为能够代表女性个体本身”（Bartky，1990；孙青青 等,2013；郑盼盼 等,2015)。但可惜的是，其他物化形式被忽视了。从研究数量上看，迄今为止大部分关于物化的研究仍然聚焦于性物化（Andrighetto etal.,2017)。如果对已有的物化研究进行分析，则图1极为直观地展现了物化研究向女性研究和性物化倾斜的偏颇程度。需要说明的是，中文心理学文献中对“Objectification”虽也有“物化”译法（如杨文琪 等,2015)，但通常将其译为“客体化”（如江沂芯，陈红,2019)，而这种译法存在问题。因为Object有物体或者客体之意，物体乃为区分人和它者，客体是将人区分于自己的主体。实际上，自我尚有主我、客我之分（James,1890)，将人变为知觉对象的客体绝无物化含义。性物化实际上只是物化概念的一个特例。因此，本项目采取“物化”的译法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "psycholcgea distress extesion 路 gaynen sexual entation 酒 ethicity orenatoninvetary bulimiagnervosa college-students harasment anorexia-nervosabody shameafricanmerican body consciousness rae adolestent boys united-states symgtoms swimsuitdiscriminationsexism disorders vicence body survellance 中 tripartite infilence mcdel depression prevalence scale 中 ate vitienrseis depressvesymptoms rellabilay sociocultural attitudes eatingdisorders body obj=ctification consuption thin-ideal intermalization yoga ge Z prejedice infonmation dealeating-disorders self-objectification objectification perceptions 9 . compecence . dissatisfaction body image adoilesents bodies peoplebody thinideal fergalo femnism power mage concerns oredictors womens culture sexuallzationsex interuention healthexpenience . adolescentgs young-women 4 social comparison interaulraisacieno fantalk risk inarpagegy wark persctive psychology youth · associations media sexuelity social representations body saestfacion thin exposure childrentelevision ett:scence exercise adolescence disc@urse attractiveness body-imageconcerns commuBication boys zidls social netvrking sites socialmedia sport massinedia facebook ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：使用VOSviewer 软件（Van Eck&Waltman,2010）对在Web of Science（WoS）数据库中获取（截止2021年1月22日）的以“物化（objectification）”为主题类型（subjective categories）的共 2895 篇 SCI、SSCI和A&HCI文献数据进行可视化处理，即对文章的关键词进行聚类分析，生成关键词共现网络可视化图谱。可见，国外物化研究的绝大部分关键词均为女性性物化相关词汇，如女性（women）、自我物化（self-objectification，一般指女性的自我物化）、物化理论、身体意象（bodyimage）等。如果在知网中以“客体化”为篇名、以“心理\"为期刊来源（模糊）进行检索（截止2021年1月22日），结果显示共有31条结果，除了1篇无关的科普文章以外，其余30 篇文章均为对女性的性物化相关研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如上所述，职场物化被物化尤其是女性视角研究忽视了。实际上，物化应当是一个能够用以解释更广泛社会问题的更为宽泛的概念（Belmi& Schroeder,2021)，比如劳动关系（e.g.,经济物化; Marx,1844/1964; Gruenfeld et al.,2008）、奴隶制（Heath& Schneewind,1997）、偏见（Grayetal.,2011）等。可以说，将物化研究局限于对女性的性物化不仅限制了物化的对象（局限于女性)，也限制了物化的类型（局限于性相关)，这不利于物化研究的全面发展，也损失了用物化来理解和预警更广泛社会问题的可能性。因此，本项目聚焦于职场物化（workplace objectification）。结合已有关于职场物化的研究（e.g.,Baldissarri etal.,2014; Belmi& Schroeder,2021)，本项目将职场物化定义为：在工作场所将人视为物的过程和倾向，主要反映了工作关系中的工具性和对人性的否定。职场物化的形式主要是工具化；职场物化的方向可能是下行（如领导对员工)，可能是平行（如员工之间、员工与顾客之间，甚至普通人对员工)，也可能是上行（员工对领导)；职场物化的对象也不局限于女性，而是男女都有。此外需要强调的是，本项目所研究的职场物化主要聚焦于个体层面，即职场中的个体将其他人物化的程度，并在此基础上探讨其中的心理机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，尽管对职场物化的理论反思由来已久且并不鲜见（如康德、马克思、弗洛姆等)，但对于职场物化的实证研究目前却仍然处于起步阶段（Baldissarri etal.,2014)。已有关于职场物化的实证研究主要有两类，一类是前因探索，即试图发现影响职场物化的因素；另一种是后果探索，即试图发现职场物化可能造成的后果。对职场物化研究的总结可见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/55517ece53bc4cb6706dcda297676a4620578eb8f6f29ad7e2c1078988c56601.jpg",
+        "table_caption": [
+            "表1职场物化的研究总结"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>问题</td><td>现有结论</td><td>详细解释</td></tr><tr><td>什么 会导 致职 场物 化？</td><td>（1）人的因素 （2）工作因素</td><td>如权力（Gruenfeld et al.,2008;Gwinn et al.,2013;Inesi et al.,2014）、对金钱的 热爱（Wang&Krumhuber,2017）、希望与他人成功互动，但对自身掌控他人的 能力感到不确定（Landauetal.,2012）等。 工作具体特征如重复性、对机器的依赖性和任务的零散性、碎片化等</td></tr><tr><td rowspan=\"4\">职场 物化 会导 致什 么？</td><td>（1）自我物化</td><td>（Andrighetto et al.,2017; Andrighetto et al.,2018; Baldissarri et al.,2017)、工作 环境如办公室的匿名性（Taskin etal.,2019）、环境航脏（Valtorta etal.,2019）、 甚至仅仅是身处工作场景（Belmi&Schroeder,2021）等。 当员工感觉到他们的领导将他们仅仅视为工具时（Auzoult&Personnaz,2016;</td></tr><tr><td></td><td>Baldissarri etal.,2014）、甚至仅仅是回忆自己在工作中被物化的经历（Loughnan etal.,2017)，都会导致自我物化。</td></tr><tr><td>（2）负面心理 工作后果</td><td>职场物化与抑郁以及工作满意度（Szymanski&Feltman,2015）、幸福感和工作 表现（Caesens etal.,2017）、对薪酬的估计（Rollero& Tartaglia,2013）等显著 相关。</td></tr><tr><td>（3）特定行为</td><td>如从众（Andrighetto etal.,2018;Baldissarri etal.,2020）和更高的攻击性（Poon etal.,2020）等。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2机器人进入职场造成威胁却并未引起重视。",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，越来越多的机器人进入了工作场所，作为新型的员工与人类一同工作，甚至正在取代部分人类员工。自第一台机器人诞生以来，机器人执行任务的复杂性及其自主性一直在稳步提高（Murashov et al.,2016)，这使得机器人能够胜任的人类工作越来越多、能够进入的职场领域越来越广，由此对人类造成的威胁也愈加严重。然而，虽然一些社会调查显示公众已经对机器人的威胁感到担忧（e.g.,Smith,2016; Smith&Anderson,2017)，但对于这种威胁是否真实存在、人们是否以及在多大程度上感知到这种威胁、这种威胁可能会造成何种影响，相关实证研究却还十分有限。职场中机器人的应用越来越多，而机器人主要可以分为两种：工业机器人和服务机器人。本项目所包含的研究对象既包括工业机器人也包括服务机器人，但主要侧重于在工作场所中被编程为复制人类功能的服务机器人。需要说明的是，本项目所研究的机器人不一定具有拟人化的外观，并且可以由人类操纵或自主独立运行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现如今，机器人几乎已经进入了人类工作的各个领域。在工业领域，机器人不再像最初出现时那样引人注目，它们已经被视为工业部门自然和不可或缺的一部分（Salzmann-Erikson& Eriksson,2016)。新冠肺炎疫情的肆虐对许多行业造成了严重打击，然而消毒机器人市场却逆势上扬，仓库、工厂和送货上门等工作领域对服务机器人的需求大幅上升（InternationalFederation ofRobotics,2020）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在事关生命健康大事的医疗领域，机器人也已经成为了不可或缺的一部分，其应用范围从初步诊断到微创和精确的机器人手术，以及作为行为障碍、残疾和康复的干预和治疗工具等（Agnihotri&Gaur,2016)。研究发现，与非机器人手术相比，机器人辅助手术能够减少患者的住院时间、降低并发症和死亡率（Yanagawa etal.,2015)。世界各地人口的日益老龄化和医疗保健专业人员的短缺增加了在各种医疗保健领域中使用辅助技术和机器人的需求，如老年人护理、中风康复和初级保健（Vermeersch etal.,2015）。对于普通人来说，服务业中的机器人就更为常见了。服务机器人现在已经可以帮助顾客在机场免税店挑选葡萄酒（ChangiJourmeys,2019)，拉着一个1000 升的垃圾桶沿着预先规划的路线进行清洁（Yi,2019)，甚至给违反交通规则的人开罚单（Kaur,2019)。其中人形机器人在服务业的运用最为广泛，以人形机器人“Pepper”为例，自2014年推出以来，全球已售出1万多台“Pepper”机器人，销售额和相关服务收入达1.4 亿美元(Frank,2016)。Pepper 曾在日本1000 家雀巢咖啡店（Nestlé,2014）帮助销售咖啡机，并曾在亚洲必胜客（Sophie,2016）和奥克兰国际机场的一家餐厅担任服务员，接受订单并与客户互动（如推荐食物;Brian,2017)。此外，机器人其实几乎也进入了人类工作生活的方方面面，如军事（e.g.,Lin etal.,2008）、教育（e.g.,Leyzberg et al.,2014;Ritschel,2018）、法律（e.g.,Xu&Wang,2019)，公司招聘（e.g.,Nawaz,2019）、甚至进入具有更高认知要求的管理职位（e.g.,Dixon etal.,2021）等。总而言之，机器人目前已经出现在许多工作领域，并且随着机器人技术的不断发展，机器人员工的队伍势必还会进一步壮大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着机器人员工队伍的不断壮大，人类在职场中受到的威胁也与日俱增。关于群际关系的心理学研究表明，人们会区分内部群体（个体所认同的群体或“我们\"）和外群体（个体所不认同的群体或“他们\"）（Hewstone etal.,2002)。这种区分在人一机器人交互中也同样适用，机器人可能被视为有别于人类群体的一个外群体。根据群际威胁理论（Intergroup ThreatTheory; Stephan etal.,2015），人们会感知到来自外群体的不同威胁，包括现实威胁（realisticthreat）和象征性威胁（symbolic threat)。现实威胁是资源威胁的一种形式，它涉及到对内群体的身体伤害以及对内群体权力、资源和福祉的威胁（Stephan et al.,2015）。因此，当机器人被认为威胁到人类的工作、物质资源或安全时，它们就可能被视为对人类的现实威胁。而象征性威胁则是指对内群体认同、价值观和独特性的威胁（Stephan et al.,2015)。由于人们有动机认为自己的群体与其他外群体截然不同（Tajfel& Turner,1986)，因此当机器人与人类相似度很高并融入社会时，它们不仅可能被视为对人类工作和资源的现实威胁，还可能被视为对人类认同的威胁，因为它们模糊了人和机器之间的界限（Yogeeswaran etal.,2016)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一方面，机器人员工对人类造成了现实威胁。如前所述，随着机器人技术的进步，越来越多的机器人已经进入了人类的工作领域。一项面向公众的社会调查现实，多达三分之二的美国人预计“机器人和计算机将在50年内完成目前由人类完成的大部分工作\"（Smith,2016)。另一项调查显示，多达 $72 \\%$ 的受访美国人担心未来计算机和机器人可以做更多的人类工作，而 $8 5 \\%$ 的人支持限制机器用于危险工作的政策（Smith&Anderson,2017)。2017年麦肯锡的一份报告也预估，通过采用当前的机器人技术， $50 \\%$ 的人类工作都可以实现自动化（Manyikaetal.,2017)。这意味着在工作场所会出现越来越多的机器人，由此引发人与机器人之间更严重的工作竞争。在许多方面，机器人可能比人类更高效、更可靠、更节约。首先，机器人更容易管理，机器人“雇员”既不会迟到，也不会与同事发生冲突；其次，尽管购买、租赁和维护成本目前可能比较高昂，但随着机器人技术的日渐成熟，成本也会随之降低，而且最关键的是雇主不需要向机器人支付福利（Borenstein,2011)，这意味着机器人的工作成本可能会比任何人力成本都要低，而它们的工作时间则必然比任何人类劳动力都要长（McClure,2018)，这些都会导致雇主可能会越来越倾向于用机器人员工替代人类员工。此外，我们不应忽视某些人类劳动力群体相对而言可能会受到机器人员工更大的威胁，比如汽车行业是工业机器人应用最为广泛的行业，几乎 $2 8 \\%$ 的工业机器人都安装在汽车工厂中（InternationalFederationofRobotics,2020)。虽然设计和维修目前仍然是人类员工的“地盘”，但不可否认的是生产线上的大量体力劳动者已经被机器人所取代了，其中较为年长、教育程度较低的员工也往往学习能力较弱，很难适应新技术的发展，就更容易成为机器人的“高威胁”人群（Borenstein,2011)。除了威胁人类的工作之外，机器人员工也可能会对人们的安全造成一定的威胁。许多影视作品如《机械姬》（ExMachina）、《我，机器人》（I,Robot）等都表达了人类对机器人威胁人类安全的恐惧，人类在努力让机器人更智能的同时，也在对机器人变得太聪明而威胁到人类自身而感到担忧（Salzmann-Erikson&Eriksson,2016)。如果说科幻小说和电影太虚幻，那目前出现在各种工作场所和公共场所的机器人也有可能对人类安全造成威胁，随着越来越多的移动机器人与人类直接接触，对于互动空间中的安全担忧已经有所增加（Murashov et al.,2016）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一方面，机器人员工对人类造成了认同威胁。机器人对人类的认同威胁主要是由于其能力和外观与人类的相似性模糊了人类和机器之间的界限，有些拟人化机器人的外观与人类几乎很难区分，有些机器人的能力与人类不相上下甚至超越了人类，这都会威胁人类作为一个独一无二物种的认同感和独特感，造成认同威胁。首先，随着机器人技术的飞速发展，机器人的能力已经在很多方面赶上甚至超越了人类，前文中我们提到很多人类员工已经被机器人所取代，这与机器人的能力密不可分。一些机器人在体力任务上可以远超人类，而另外一些机器人则在数学甚至国际象棋和围棋比赛等智力任务上胜过人类，这无疑对人类关于自身能力的认同感和独特感造成了威胁。其次，机器人外观的拟人化也是造成认同威胁的重要原因。拟人化是指一种将人类独有特质赋予非人实体的倾向性或形态（Epley etal.,2007；许丽颖 等,2017)，目前许多机器人特别是服务机器人都具有一定程度的拟人化外观，拟人化服务机器人也在越来越多地取代众多服务行业中的人类员工（Harris etal.,2018；喻丰，许丽颖,2020)。但研究发现外观拟人化程度非常高的机器人不仅会被知觉为对人类工作、安全、资源的真实威胁，还会被视为对人类自身独特性的威胁，尤其是在这种机器人的能力超越人类时（Yogeeswaran etal.,2016)。此外，机器人拟人化过高还会导致“恐怖谷效应（uncanny valleyeffect)”（Mori，1970)，即在一定范围内，人类对机器人的好感会随着拟人化程度的上升而上升，但当拟人化达到一定程度时，人类对机器人的好感会突然陷入低谷，从而对机器人产生厌恶和不适感，这也会对人类造成认同威胁。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3机器人威胁经由控制补偿引发负面结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们已经详细分析了机器人员工对人类所造成的现实威胁和认同威胁，那么这些威胁又是如何影响职场物化的呢？获得对自身和外部世界的控制感是人类的基本心理需求，人们有动机认为自己控制了自己的生活（Landauetal.,2015)，而威胁则会使这种动机更加强烈。威胁倾向模型（Threat Orientation Model）认为，保持和加强控制是人们面对威胁时的主要倾向之一（Thompson＆Schlehofer,2008)。虽然人们在生活中所遇到的威胁多种多样，但感知控制（perceivedcontrol）的缺乏却是许多威胁经历的核心（Greenaway etal.,2014）。例如研究发现，突然的威胁事件如癌症很容易破坏人们对于身体和生命的控制感（Leventhal,1975;Taylor,1983)，除了健康威胁之外，就业方面的威胁也是影响控制感的重要因素（Remondet& Hansson,1991;Ross& Sastry,1999)。此外，危险的社区环境（Ross,2011）、恐怖主义和金融威胁（Thompson& Schlehofer,2008）、甚至环境变化（Hornsey etal.,2015;Davydova et al,2018）等威胁都会减少人们的感知控制，增强人们恢复控制的动机。而机器人员工不仅对人类造成了现实威胁，还造成了认同威胁，因此本项目认为，当人们知觉到机器人员工的两种威胁时，会产生较为强烈的恢复控制的动机。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据补偿控制理论（Compensatory Control Theory; Kay et al.,2008; Kay et al.,2009; Landauet al.,2015)，人们对于减少感知控制的事件和认知会采取补偿性策略，将感知控制恢复到基线水平。而补偿感知控制的策略主要有四种：加强个人能动性（personalagency）、支持外部能动性（external agency；如政府、神）、肯定特定结构（specific structure）和肯定非特定结构（nonspecific structure）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一种策略是通过加强个人能动性来补偿感知控制。个人能动性是指“认为一个人拥有必要的资源来执行产生特定结果或达到特定目的所需的一种或一组行为的信念”（Landau etal.,2015)，这些资源包括知识、技能和其它使自我能够主动采取行动、在追求目标时付出努力，并在逆境中坚持的能力。因此，当人们面对感知控制减少的情境时，他们会通过加强（或自我肯定)自己所拥有的资源以及通过个人能动性成功驾驭环境的可能性来将感知控制恢复到基线水平。但实际上，人们常常会对自己控制随机事件的能力抱有幻想（Langer,1975)。以机器人为例，如果人们在感知到机器人威胁时采用加强个人能动性的策略来补偿感知控制，那么人们可能会加强或者自我肯定自身能够控制机器人的资源和能力，比如认为自己比机器人的能力更强，可以指挥机器人做自己安排的工作等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第二种策略是通过支持外部能动性来补偿感知控制。也就是说，个体可以依赖自我以外的系统，认为这个系统可以影响个体相关的结果，并提高个体实现某些目标的可能性。采用这一策略的人会放弃对自己生活的自主控制，将个人能动性交给外部系统如神或政府，通过对外部系统的依赖来恢复感知控制，相信外部系统会调动资源来实现符合他/她利益的结果。例如研究发现，让被试回忆一个他们缺乏控制的事件，被试对上帝的信仰会增加，并且这种效应只会在上帝被描述成干预个人日常事务时才会出现（Kay etal.,2008)。此外，Kay 等人（2008）也发现，提醒被试会减少感知控制的事件，会让被试在随后的实验中将更多权力赋予他们的政府，尤其是当他们对政府抱有积极看法时。以机器人为例，如果人们在感知到机器人威胁时采用支持外部能动性的策略来补偿感知控制，那么人们可能会对政府的支持增加，或者对神的信仰增强，因为他们相信政府或神能够控制机器人并保护他们。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第三种策略是通过肯定特定认知结构来补偿感知控制。也就是说，除了能动性之外，人们还需要相信做出特定的行为能够可靠地产生预期结果，但需要说明的是，这种清晰、可靠的“行为一结果”可能性是针对减少感知控制的具体情境的。举例来说，如果一个学生对于期末考试缺乏感知控制，那么他/她除了要认真学习（增强个人能动性）之外，还需要相信认真学习能够可靠地预测期末考试的好成绩（特定结构)，这样才能有效地通过认真学习来恢复控制感知。以机器人为例，如果人们在感知到机器人威胁时采用肯定特定认知结构的策略来补偿感知控制，那么人们可能会相信某种与机器人密切相关的“行为一结果”，如他们拔掉机器人的电源（行为）就一定能够控制住机器人（结果)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第四种策略是通过肯定非特定认知结构来补偿感知控制。简单来说，肯定非特定认知结构就是寻求并偏好对世界的简单、清晰和一致的解释。这种策略和前三种策略都不同，首先，这一策略与强化个人能动性不同，因为它不直接针对个人对自身资源的信念；其次，它不同于支持外部能动性，因为它不直接针对个人对外部系统的信念；它不同于肯定特定的认知结构，因为它针对的是社会和物理环境的某些方面，而这些方面不在感知控制减少的具体情境范围内。本项目所研究的物化就是一种对于外部社会和物理环境的简单、清晰和一致的解释（Landau etal.,2015)。人们（至少内隐地）知道控制他人需要理解并影响他人的主观状态，包括他们个人的信念和欲望。因此，意识到他人的主观状态是模糊的、不稳定的，并且往往不受自己影响，就会减少人们认为自己可以控制他人的信念。而物化则通过将他人简化为物，能够在一定程度上补偿这种感知控制的缺失，使人们对控制他人的能力更有信心。研究发现，如果男性感觉自己缺乏影响女性的能力，他们就会更倾向于将女性物化，后续在职场情境中的研究也发现，被引导怀疑自己影响同事能力的被试更倾向于将同事物化（Landau et al.,2012)。这些都证明了物化作为一种对于他人的简单、清晰和一致的解释，能够有助于恢复人们减少的感知控制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着机器人技术的不断发展，各行各业中都引入了大量的机器人员工，这些机器人员工一方面因其占领人类岗位而对人们造成失业等现实威胁，另一方面因其在外表和能力上不断趋近于人类而对人类造成认同威胁；感知到这些威胁会诱发人们寻求控制补偿，并可能通过肯定非特定结构这种策略将自身的感知控制恢复到基线水平，即寻求并偏好对世界的简单、清晰和一致的解释；而职场物化恰恰就是这样一种对于职场中他人的简单、清晰和一致的解释，因为把他人简化为物体来看待往往能够使人忽略他人作为人的复杂一面，如主观和内心状态的模糊性和不稳定性，而简单以对物的方式来看待和对待他人。综上，我们认为机器人员工会给人类带来现实威胁和认同威胁，而感知到这些威胁会使人寻求控制补偿，并且通过物化职场中的他人来恢复感知控制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4关注职场中机器人负面的结果有利于预警现实问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本项目试图研究机器人渗入职场之后对职场人士心理造成威胁，从而经由控制补偿机制，产生了较为负面的人际后果，即职场物化。但机器人渗入职场是否一定会产生负面的结果？当然不是。机器人本身替代体力劳动、辅助决策都会产生积极的意义。本项目着眼于负面结果主要是因为：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，坏比好的心理感受更强烈。坏比好更强大（Baumeisteretal.,2001)，这意味着坏事比好事对人心理感受的影响更为强烈和持久。中彩票固然令人欣喜，但中奖者的幸福感却会很快回落至中奖之前的水平；而相对于好事带来的短暂欣喜，在事故中致残的人心理恢复的速度则要慢得多（Brickman etal.,1978)，即使很多人最终得以康复（Taylor,1983）。同理，损失了一些钱的痛苦比获得相同数额的钱带来的喜悦或幸福要大得多（Kahneman&Tversky,1984)。既然坏比好更强大，坏事比好事对人的影响更为持久和强烈，那么我们对负面事件的关注和理解就更显得尤为重要。职场物化是将职场中的他人视为物，这本就是对人性的贬低和侮辱，并且它还会进一步带来自我物化（e.g.,Loughnan et al.,2017）以及负面心理和职业健康结果（Caesens etal.,2017）等消极后果，进一步加重负面影响。因此在本项目中，我们聚焦于职场中机器人可能产生的负面结果即职场物化，结合当前社会背景对这一负面结果的探讨有助于我们更好地进行预警。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，机器人对人际关系的积极影响有待商榷。尽管许多研究者对机器人影响人际关系持消极看法且已得到实证证据，如机器人增加人们对物质的不安全感，导致他们更多地感知到移民和外国工人的威胁，从而增加对反移民政策的支持等（e.g.,Frey etal.,2018;Im et al,2019)，但也有研究发现了机器人对人际关系可能产生正面影响。近期研究发现，机器人员工作为外群体能够增加人们的泛人类主义（panhumanism)，凸显人类的共同身份，从而减少对人类外群体的偏见（Jackson etal.,2020）。不过，Jackson 等人（2020）在其研究的讨论部分也提到，他们从37个国家所收集的数据表明，过去42年自动化速度最快的国家对外群体的外显偏见也增加了，这一影响在一定程度上与不断上升的失业率有关（Jackson etal.,2020)。并且他们还在讨论中说明了其研究对于机器人威胁并未考察，指出机器人威胁可能并不会减少人际偏见，并鼓励未来研究着重探讨机器人威胁对于人际关系的影响。综上，虽然少量研究得到了一些正面结果，但机器人对人际关系的积极影响仍有待商榷，因此本项目进一步考察了机器人可能产生的负面人际结果，并重点着眼于机器人对于人类的威胁。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过本项目的研究，力图确定职场中出现越来越多的人工智能尤其是机器人这一新现象所带来的威胁性后果，前瞻性地了解其原理、机制以及可能的解决路径，为未来职场可能出现的问题做好准备、提供可能的参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本项目的研究内容见图2,具体分为5个研究，分别探讨机器人对职场物化影响的存在、中介机制以及人、机、环境三方面的调节机制。本项目首先验证机器人员工的凸显（salience）会影响职场物化；然后探讨机器人影响职场物化的中介机制，试图发现感知威胁和控制补偿的链式中介效应；接着，我们从个人（如加强个人能动性等）、机器人（如拟人化等）和环境（即不同的组织文化）三方面分别考察其对机器人影响职场物化的调节作用，并从组织文化的角度探讨对职场物化的干预策略。具体而言，研究1验证机器人影响职场物化这一现象的存在，并确定其影响的方向；研究2探究感知威胁和控制补偿的链式中介效应；研究3考察个人因素对机器人影响职场物化的调节作用，包括加强个人能动性、支持外部能动性和肯定特定认知结构；研究4考察机器人因素对机器人影响职场物化的调节作用，包括拟人化和心智知觉的能动性和体验性；研究5考察环境因素对机器人影响职场物化的调节作用，包括不同导向的组织文化和伦理组织文化，并由此入手探索对职场物化的干预策略。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/441c1bca2da4183327169aa10516ea970a2b30bf224d5d8a41e2dfcda3855915.jpg",
+        "img_caption": [
+            "图2项目的研究框架图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1研究1：机器人对职场物化影响的存在",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着机器人技术的不断发展，越来越多的机器人进入了人类职场，在职场中承担大量原本由人类所承担的工作。早期机器人由于智能所限只能进行简单重复的工业劳动，而如今技术的进步正在开辟新的前景，大量机器人已经开始进入以前人类专属的工作领域，如医疗（e.g.,Agnihotri & Gaur,2016）、服务（e.g.,Persado,2017）、军事（e.g.,Lin etal.,2008）、教育（e.g.,Leyzberg et al.,2014; Ritschel,2018）、法律（e.g.,Xu& Wang,2019)，公司招聘（e.g.,Nawaz,2019）、甚至进入具有更高认知要求的管理职位（e.g.,Dixon etal.,2021）等。诸多社会调查表明，人们对机器人的发展存在忧虑（e.g.,Smith&Anderson,2017)。机器人抢占人类工作势必会造成人类失业增加，进而增加社会动荡和不平衡的风险（e.g.,Borenstein,2011;McClure,2018)。可以说，人类已感知到了机器人的威胁，而这种威胁不仅体现在就业、安全等现实方面，也包括对于人类身份的认同和独特性的威胁，这类威胁显然会导致人对机器人的负面态度（Yogeeswaran etal.,2016)，但它对于人与人之间的关系又会造成何种影响呢？关于这一问题的答案目前仍存在争议。由于机器人对工作岗位的抢占导致人与人之间的竞争更加激烈，因此大量研究认为机器人的威胁会对人际关系造成负面影响。如研究发现，机器人等自动化对未来就业的威胁会增加人们对物质的不安全感，导致他们更多地感知到移民和外国工人的威胁，从而增加他们对反移民政策的支持（Frey etal.,2018;Im et al.,2019）。然而新近研究却发现，机器人员工的增加有助于减少人际偏见，这是因为机器人增加了人们的泛人类主义，突出共同的人类身份，从而减少对外群体的偏见（Jackson et al.,2020)。但是该研究回避了机器人对人类造成的威胁，并且研究者自己也提到，他们从37个国家所收集的数据则表明，过去42年自动化速度最快的国家对外群体的外显偏见也增加了，这一影响在一定程度上可能与不断上升的失业率有关，其研究具有局限性（Jackson etal.,2020）。因此，机器人到底会对人际关系产生何种影响，这仍是一个悬而未决且仍待探讨的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于此，我们提出本项目所探讨的第一个问题：机器人会对人际关系产生何种影响？并且结合机器人大量出现于职场环境以及当前职场物化的现状和研究意义，我们将研究聚焦于机器人对职场物化的影响，提出以下研究假设：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "假设1：机器人员工的凸显会增加职场物化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2研究2：机器人影响职场物化的中介机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在研究1中，我们通过多种研究方式重复验证了机器人对职场物化的影响，那么这种影响有何潜在机制呢？机器人员工的凸显是通过何种途径造成了职场物化的增加呢？在研究2 中，我们将着重探讨机器人增加职场物化的中介机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "随着机器人员工队伍的不断壮大，越来越多的人类岗位已经被机器人所占领，并且这种影响趋势仍在随着人工智能的发展而进一步扩大。甚至在许多工作领域，机器人的工作效率和成本甚至已远优于人类，这些无疑对人类造成了工作和资源等方面的现实威胁。此外，随着机器人技术的提升，机器人无论在外观还是能力上都不断趋近于人类，这会威胁到人类作为一个独一无二物种的认同感和独特感，从而造成认同威胁。因此，机器人员工的凸显可能会对人们造成现实威胁和认同威胁。而当面临威胁时，保持和加强控制则是人们的主要倾向之一（Thompson& Schlehofer,2008)。因此，当人类知觉到机器人员工的威胁时，也会产生较为强烈的恢复控制的动机。根据补偿控制理论（Kay etal.,2008;Kay et al.,2009;Landau etal.,2015)，人们对于减少感知控制的事件和认知会采取补偿性策略，将感知控制回复到基线水平。其中一种策略就是通过肯定非特定认知结构来补偿感知控制，即寻求并偏好对世界的简单、清晰和一致的解释。而物化就是这种补偿控制策略的一种表现形式，因为把他人简化为物体来看待往往能够使人忽略他人作为人的复杂一面，如主观和内心状态的模糊性和不稳定性，从而以简单对物的方式来看待和对待他人，因此物化正是一种对于他人的简单、清晰和一致的解释，能够有助于恢复人们减少的感知控制。（Landau etal.,2015)。并且先前研究也表明，减少感知控制会导致男性更多地将女性物化，职场环境中也存在这种效应（Landauet al.,2012)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上，我们提出以下假设：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "假设2：在机器人影响职场物化的作用中，机器人员工凸显、感知威胁、补偿控制和职场物化存在链式中介关系，即机器人员工的凸显会增加人们对机器人的感知威胁，进而引发补偿控制，最终导致更多的职场物化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3研究3：机器人影响职场物化的调节机制之个人因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在遭遇威胁时，人们会产生较为强烈的恢复控制的动机，而根据补偿控制理论（Kay etal.,2008;Kay etal.,2009;Landau etal.,2015)，人们会采取补偿性策略来将自己的感知控制恢复到正常水平。补偿控制理论所提出的补偿控制策略主要有四种：第一种是通过加强个人能动性来补偿感知控制，即通过加强（或自我肯定）自己所拥有的资源以及通过个人能动性成功驾驭环境的可能性来将感知控制恢复到基线水平；第二种是通过支持外部能动性来补偿感知控制，即将个人能动性交给外部系统如神或政府，通过对外部系统的依赖来恢复感知控制，相信外部系统会调动资源来实现符合他/她利益的结果；第三种是通过肯定特定认知结构来补偿感知控制，即相信做出特定的行为能够可靠地产生预期结果，并且这种清晰、可靠的“行为一结果”可能性是针对减少感知控制的具体情境的；第四种是通过肯定非特定认知结构来补偿感知控制，即寻求并偏好对世界的简单、清晰和一致的解释。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "那么在面对机器人可能造成的现实威胁和认知威胁时，人们会有意识或无意识地选择哪种策略来恢复个人控制？关于补偿控制理论四种策略的选择和偏好问题目前尚未有定论（Landau etal.,2015)。如前所述，本项目所研究的物化就属于第四种补偿控制策略，即通过肯定非特定认知结构来补偿感知控制，寻求并偏好对世界的简单、清晰和一致的解释。但实际上减少感知控制并不必然指向人们对非特定结构的肯定，与其它补偿控制策略相关的个人和环境因素也可能会缓和这种影响（e.g.,Cutright,2012; Sullivan et al.,2010)，因为人们有机会选择其它的补偿控制策略来恢复感知控制。因此，在本研究中，我们考虑可能会对机器人增加职场物化起到调节作用的个人因素，并从补偿控制理论的另外三种策略以及肯定非特定认知结构的其它形式入手，分别探讨与之相关的个人因素能否对机器人增加职场物化起到调节作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上，我们提出以下假设：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设3a：个人能动性能够调节机器人对职场物化的影响。具言之，当个人能动性较弱时，机器人员工凸显会显著增加职场物化；当个人能动性较强时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设 3b：外部能动性能够调节机器人对职场物化的影响。具言之，当对外部能动性的支持较弱时，机器人员工凸显会显著增加职场物化；当对外部能动性的支持较强时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设3c：特定认知结构能够调节机器人对职场物化的影响。具言之，当对特定认知结构的信念较弱时，机器人员工凸显会显著增加职场物化；当对特定认知结构的信念较强时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设3d：其它非特定认知结构形式能够调节机器人对职场物化的影响。具言之，当人们能够通过其它肯定非特定认知结构的形式（如知觉到职场的明确等级）进行控制补偿时，机器人员工凸显对职场物化的影响会削弱。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4研究4：机器人影响职场物化的调节机制之机器人因素",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在人一机器人交互中，除了个人因素之外，机器人因素是另外一个重要变量。我们分别从内外两方面来考虑机器人因素，即机器人的外观拟人化和人们对机器人的心智知觉。拟人化是指一种将人类独有特质赋予非人实体的倾向性或形态（Epley et al.,2007；许丽颖 等,2017)，而随着科技的迅猛发展，人工智能机器人已然成为拟人化应用的热门领域。研究发现外观拟人化程度非常高的机器人不仅会被知觉为对人类工作、安全、资源的真实威胁，还会被视为对人类自身独特性的威胁，尤其是在这种机器人的能力超越人类时（Yogeeswaranetal.,2016)。并且当机器人外观的拟人化达到一定程度时，还可能会引发恐怖谷效应，这也会对人类造成感知威胁。因此，我们认为机器人外观的拟人化会增加机器人对人们造成的认同威胁，从而加重机器人对职场物化的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "拟人化之后，机器人便会被当作有心智的人来看待。心智知觉理论（Mind PerceptionTheory,Gray etal.,2007）认为，人们从两个维度知觉世间万物的心智，即能动性（agency，即自我控制、道德行为、进行计划的能力等）和体验性（experience，即能够体验欲望、恐惧、快乐等)。机器人一般会被知觉为具有中等程度的能动性和较低程度的体验性（Gray et al,2007)，而对机器人能动性和体验性的感知也会对人们感知机器人威胁产生影响，由于机器人的感知能动性和感知体验性的提高会使其更趋近于人类，从而对人类造成更强烈的认同威胁。因此，我们认为对机器人的心智知觉，即知觉到机器人具有不同程度的能动性和体验性，也会对机器人增加职场物化产生调节作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上，我们提出以下假设：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设4a：机器人外观的拟人化能够调节机器人对职场物化的影响。具言之，当机器人外观拟人化程度较高时，机器人员工凸显会显著增加职场物化；当机器人外观拟人化程度较低时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "假设 4b：机器人的感知能动性能够调节机器人对职场物化的影响。具言之，当机器人感知能动性较高时，机器人员工凸显会显著增加职场物化；当机器人感知能动性程度较低时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "假设4c：机器人的感知体验性能够调节机器人对职场物化的影响。具言之，当机器人感知体验性较高时，机器人员工凸显会显著增加职场物化；当机器人感知体验性程度较低时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.5研究5：机器人影响职场物化的调节机制之环境因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "除了人类因素和机器人因素以外，环境因素的影响也不容忽视。并且，环境因素也是组织能够从自身着手进行改善的重要部分，因此可以作为有效可行的干预方式。以往研究发现组织文化（organizational culture）与职场物化有一定程度的相关性（Auzoult & Personnaz,2016)。因此，本研究将组织文化作为可能调节机器人对职场物化影响的调节变量进行考察。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们考察的第一种组织文化分类基于Quinn（1988）的模型，该模型将组织文化分为四个维度：支持，即鼓励参与、合作、信任以及口头和非正式沟通；创新，即寻求创造力，鼓励员工乐于改变和参与；规则，即强调尊重权威、程序的合理性和分工，书面正式沟通；目标，即一种注重绩效指标、责任和成就的导向。这四种文化反映了组织成员对其工作环境的解释和赋予意义的方式。物化是一种降低复杂性和不确定性以恢复控制的手段（Landau et al.,2012)，而强大的组织文化可以通过提供确定的解释框架和价值观来减少复杂性和不确定性，使组织成员的行为变得可预测，因此职场物化与组织文化息息相关。以往研究发现，目标导向和支持导向的组织文化能够减少职场物化（对他人)，创新导向的组织文化能够减少工人的自我物化，而规则导向的组织文化则加重了工人的自我物化（Auzoult&Personnaz,2016)，但对于创新和规则导向的组织文化如何调节对他人的职场物化则尚不明确。职场物化与权力关系密切，研究发现权力地位会改变人们对他人的认知方式：与处于低权力地位和控制组的被试相比，高权力地位组的被试会更多地将下属视为工具，他们会从有用性的角度来评价下属，与下属打交道完全是基于下属对实现目标的有用性，而不是他们的价值观和人性品质（Gruenfeld etal.,2008)。从组织的角度来看，强调权力和控制则体现为规则导向的组织文化，因此我们认为规则导向的组织文化可能会加重机器人对职场物化的影响。而创新虽然是个人、组织乃至社会发展的强劲动力，却也与组织中的不道德行为相关。先前研究发现创新会增加个人跳出框架思考的动机，并进而导致不道德的行为，并且仅仅是启动被试有关创新的认知就会产生这种不良后果（Gino&Ariely,2012)。也就是说，创新导向的组织文化也可能会催生更多的不道德行为。结合本项目的研究主题，机器人显然是创新性的代表，有机器人员工的企业大多也会具有创新导向的组织文化，而职场物化则无疑是一种不道德的认知和行为。因此，我们认为创新导向的组织文化可能会加重机器人对职场物化的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二类组织文化是伦理组织文化。伦理组织文化能够支持人们做出良好的道德决策并遵守道德规范（Trevino&Nelson,2021)，在组织中有许多因素可能会催生不道德行为，但当伦理组织文化营造出良好的道德文化氛围时，道德失范的可能性就会大大降低。伦理组织文化既是正式的又是非正式的，它通过文化信息以及奖惩制度得以体现（Trevino& Brown,2004），并且被研究发现与更多的组织公民行为（organizational citizenship behavior，即员工对组织的自愿支持行为）、更少的怠工行为以及更好的工作表现显著相关(Peng&Kim,2020)。而职场物化作为组织中的一种不道德认知和行为，有可能受到伦理组织文化的影响。因此，我们认为伦理组织文化可能会缓和机器人对职场物化的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，我们提出以下假设：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "假设5a：不同导向组织文化能够调节机器人对职场物化的影响。具言之，在创新和规则导向的组织文化下,机器人员工凸显会显著增加职场物化；在支持和目标导向的组织文化下，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "假设 5b：伦理组织文化能够调节机器人对职场物化的影响。具言之，伦理组织文化较弱时，机器人员工凸显会显著增加职场物化；伦理组织文化较强时，机器人员工凸显对职场物化的影响不显著。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4理论建构与创新 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "随着机器人越来越多地在职场中使用，它给职场中员工会带来何种心理和行为反应，又会给职场中领导和员工、员工与员工间的社会交互产生何种影响急需研究。需要说明的是，实际上人工智能产品早已进入人类生活，但有些表现为算法，它无形无状，职场中大量使用的办公算法实际上有时并未引起人类过多关注。但是机器人不同，尤其是拟人化的机器人，在新奇之余，它能提示人们来反思自己或者人物关系。长久来看，机器人必然会称为人类生活之常态，而对于机器人渗入人类生活甚至职场的心理学理论准备其实不足，或者说较少有完备的理论来解释机器人参与人类活动时，人类心理与行为的应对（喻丰，许丽颖,2018)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "确实有一些所谓的\"理论\"来探索这方面内容。比如技术接受模型（TechnologyAcceptanceModel,TAM; Davis,1989)，它借用理性行为理论（Theory of Reasoned Action,TRA;Fishbein&Ajzen,1975）用感知有用性和感知易用性来解释人类对于技术的接受。这种简单理论可以提出一些显然的维度和测量，但是其并非是一种自上而下的由理性推理而形成的理论建构，更多形成的结果是从表层的知、情、行等维度去直接寻找变量自下而上地找出一些可能关联的细小变量来编织“故事”，形成“理论”。在直观感觉上会造成理论感较差、思考深度较弱，较难勾勒人类心理的深层变化。受其影响，一些所谓“理论”甚至直接暴力整合，比如Venkatesh 等人（2003）提出的技术接受与使用整合理论（Unified Theoryof Acceptance andUseofTechnology,UTAUT)，它直接把之前所有可能想到的八种理论所提出的维度测量进行测量，以技术接受作为因变量做回归，将显著的变量留存。这类做法实质是变量杂糅的简单回归，还远不能称之为理论（许丽颖，喻丰,2020)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "将因变量标定为“接受”、“购买”、“喜爱”等态度、行为或者行为意向较为容易，但解释其中过程则相对困难。这种理论或许可以从机器人作为人类生活中的不同角色来思考，当然这种思考可能也只能用传统心理学理论来解释。机器人如果渗入人类的工作和生活，那么其角色至少可能是两种，一种是旁观者，一种是参与者。如果机器人在工作中是旁观者，那么它可能充当一种人类进行社会行为时的他人在场效应，因为它不见得被知觉成“人”，所以这种他人在场效应会相应减弱（Raveendhran&Fast,2019)。换句话说，由于机器人的存在，而其始终在知觉上更少被当作真人，因此人们体会到的社会评价和因此而产生的评价焦虑就会减少，造成人们可能更加接受职场中的机器人或者广义人工智能产品的使用（Raveendhran＆Fast,2019)。这一点实际上可资利用，这造成人类广义上对于职场机器人的防备减弱，对其敌意意图的知觉降低，如果它不是机器人形态而是某种人工智能程序的话，这种效应会更强。如研究便发现，员工更有可能接受算法控制的工作行为数据监控和追踪（比如在工作中佩戴可穿戴设备搜集个人信息)，而倾向于拒绝人类操控的类似数据追踪，其原因便是因为类似人工智能产品会被知觉为更少对人评价、有更少意志以及有更少的自主性（Raveendhran & Fast, 2021）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "但是职场机器人恐怕很难仅仅只是旁观者，它必有参与之可能。由于职场人工智能产品及机器人在现行状态下还无法是所谓“强人工智能”，因此经常会产生与人交互时的问题，造成人类在职场中与机器人交互时的特定体验（Puntoni etal.,2021)。这种体验可能包括因职场机器人和算法工作原理未知（即不透明）带来的剥削感，因职场机器人和算法产生错误时带来的被误解感，也可能是因为社会交互而带来的疏离感（Puntoniet al.,2021)。而无论是何种人机交互体验，接下来的心理过程似乎是一致的，即感受到控制感的剥夺或者降低。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "实际上，寻求掌控和获取控制感本身便是人类寻求意义的重要动机来源，也是人类动机性认知的本质需求（Kruglanski etal.,2021; Jost et al.,2003)。这与本项目之控制补偿的心理过程论述一致，只是本项目并未直接探求体验，而是针对威胁和社会认同过程。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实际上，本项目一直在探讨何以为人的问题，即人作为人的认同。职场物化来源于社会现象，如“工具人”、“社畜”等词汇的流行放大了职场物化现象，这种含涉“人禽之辨”的说法本身就已然暗喻人和非人之间的差别。将人当作非人以及将非人当作人，这均会引起人类对自己人类身份认同的焦虑甚至威胁（喻丰,2020)。尤其是机器人这种介于机器与人之间的存在，其出现也同样会引起人对于人类身份的细微考量，本项目首先厘清物化概念来源于“人物之辨”而非更小的性物化概念，聚焦于职场物化，并结合人工智能发展背景，考察机器人对职场物化的影响。而本项目探索的机器人影响也从“人机之辨”出发，考察认同威胁后的控制补偿过程，即通过肯定非特定认知结构来恢复控制水平的补偿控制策略，探讨职场物化作为这种策略，对机器人威胁进行控制补偿的可能性。这些人与非人过程通过本研究的探索可以形成某种特定的人类知觉社会事物之理论，即以人为中心来知觉社会，所有社会实体处于一条以人为中点的存在链上（Brandt&Reyna,2011)。也就是说，人类如何认识世界，某种程度上取决于人如何认识人类自身。认识和理解世界需要一个框架、一套模式、一种知识，而这些框架、模式和知识是基于从前的。对于从未见过的新鲜事物，我们必然按照之前已有的事物来类比、模拟、套用。人自身的认同便是这种最为基础之图式与知识，或者说主体知识（Epley etal.,2007)。本项目的完成有助于通过职场机器人与人的“人机之辨”引发的后续心理过程，造成职场物化结果的“人禽之辨”，从动物和机器（Haslam,2006）两个方向上理解以主体认同为核心的存在链理论可能，并基于此可能产生出机器人渗入人类生活的独特心理中距理论。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "当然，本项目也具有实践性。基于当前人工智能的发展前景，从职场社会现象以及时代背景出发提出问题，结合社会心理学理论探索机器人对职场物化的影响，同时从物化研究的薄弱点出发，研究职场物化现象，并结合群际威胁理论和控制补偿理论提出机器人影响职场物化的潜在中介机制，这可以前瞻性地从人、机、环境三个方面探讨调节机器人对职场物化影响的不同变量，如个人能动性、拟人化和组织文化等，思考可能的职场物化解决措施，意图前沿性探索其职场后果尤其是负面影响并提出可能的应对方案。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "江沂芯，陈红.(2019).自我客体化的女性对身体线索的注意和记忆偏向．心理科学,42(6),1462-1469.   \n孙青青，郑丽军，郑涌.(2013).性客体化与女性自我客体化．心理科学进展,21(10),1794-1802.   \n韦伯.(2010).新教伦理与资本主义精神.广西师范大学出版社.   \n许丽颖，喻丰.(2020).机器人接受度的影响因素.科学通报,65(6),496-510.   \n许丽颖,喻丰，邬家骅，韩婷婷，赵靓.(2017).拟人化：从“它”到“他”．心理科学进展,25(11),1942-1954.   \n杨文琪，金盛华，何苏日那，张潇雪，范谦.(2015).非人化研究：理论比较及其应用．心理科学进展,23(7), 1267-1279.   \n喻丰，彭凯平，郑先隽.(2015).大数据背景下的心理学：中国心理学的学科体系重构及特征．科学通报,60 520-533.   \n喻丰，许丽颖.(2018).如何做出道德的人工智能体？心理学的视角．全球传媒学刊,5(4),24-42.   \n喻丰，许丽颖.(2020)．人工智能之拟人化．西北师大学报（社会科学版）,57(5),52-60.   \n喻丰.(2020)．论人工智能与人之为人．人民论坛·学术前沿,2020(01),30-36.   \n郑盼盼，吕振勇,Jackson,T.(2015)．自我客体化对女性心理健康的影响及其机制．心理科学进展,23(1),93- 100.   \n周浩；龙立荣.(2004).共同方法偏差的统计检验与控制方法．心理科学进展,12(6),942-950.   \nAbril,D.(2019).A.I.might be the reasonyou didn't get the job.Retrieved November11，2020，from https://fortune.com/2019/12/11/mpw-nextgen-ai-hr-hiring-retention   \nAgnihotri,R.,& Gaur,S. (2016). Robotics: A new paradigm in geriatric healthcare. Gerontechnology,15(3),146- 161.   \nAmodio,D.M.,Devine,P.G.,& Harmon-Jones,E.(2Oo8). Individual diffrences in the regulation of intergroup bias: the role of conflict monitoring and neural signals for control.Journal of Personality and Social Psychology, 94(1),60-74.   \nAnderson,C.,John,O.P.,& Keltner,D.(2012).The personal sense of power.Journal of Personality80(2),313- 344.   \nAndrighetto,L.,，Baldissari, C.,& Volpato,C. (2017). (Still) modern times: Objectification at work.European Journal of Social Psychology, 47(1),25-35.   \nAndrighetto,L., Baldissarr, C., Gabbiadini,A., Sacino,A., Valtorta,R.R.,& Volpato,C.(2018). Objectified conformity: Working self-objectification increases conforming behavior. Social Influence,13(2),78-90.   \nAuzoult,L.,&Personnaz,B. (2016).The role oforganizational culture and self-consciousnessinself-objectification in the workplace.TPM: Testing,Psychometrics,Methodology in Applied Psychology,23(3),271-284.   \nBaldissarri， C.，Andrighetto，L.，& Volpato，C.(2014).When work does not ennoble man: Psychological consequences of working objectification.TPM: Testing, Psychometrics,Methodology in Applied Psychology, 21(3), 1-13.   \nBaldissrri,C.,Andrigheto,L.，Di Bernardo,G.A.，& Annoni,A.(2020).Workers' self-objectification and tendencies to conform to others. Journal of Community and Applied Social Psychology, 30(5),1-14.   \nBaldissarri, C., Valtorta,R.R.Andrigheto,L.,& Volpato, C. (2O17). Workers as objects: The natureof working objectification and the role of perceived alienation.TPM-Testing,Psychometrics,Methodology in Applied Psychology, 24,153-166.   \nBartky, S.L. (199o).Femininity and domination: Studies in the phenomenology ofoppression. New York: Routledge.   \nBaumeister,R.F., Bratslavsky,E.,Finkenauer,C.,& Vohs,K. D.(2001). Bad is stronger than good. Review of General Psychology, 5(4),323-370.   \nBelmi,P.,& Schroeder,J. (2021). Human “resources\"? Objectification at work. Journalof Personality and Social Psychology, 120(2),384-417.   \nBorenstein, J. (2011). Robots and the changing workforce. AI & Society,26(1),87-93.   \nBrandt,M.J.,& Reyna, C.(2011).The chain of being: A hierarchy of morality. Perspectives on Psychological Science, 6(5),428-446.   \nBrian,H. (2017).Pepper the robot gets a gigat the Oakland airport. Retrieved January 11，2021，from https://techcrunch.com/2017/01/25/pepper-robot   \nBrickman,P., Coates,D.,& Janoff-Bulman,R. (1978).Lotery winners and accident victims: Is happinessrelative? Journal of Personality and Social Psychology, 36(8), 917-927.   \nCaesens,G.，Stinglhamber,F.,Demoulin,S.，& De Wilde,M.(2017).Perceived organizational support and employees’ wel-being: The mediating role of organizational dehumanization. European Journal of Work and Organizational Psychology,26(4),527-540.   \nChamorro-Premuzic,T.,Poli,F.,& Datner,B. (2019).Building ethical AI for talent management.Retrieved November 11,2020,from https://hbr.org/2019/11/building-ethical-ai-for-talent-management   \nChangi Jourmeys. (2019).Wine-picking robot helpsout at Changi's DFS.Retrieved January11,2021,from https://osf.io/dfrks/   \nCutright, K. M. (20l2). The beauty of boundaries: When and why we seek structure in consumption. Journal of Consumer Research,38(5),775-790.   \nDavis,F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340.   \nDavydova,J.,Pearson,A.R.,Ballew,M.T.,&Schuldt,J.P.(2O18).Iluminating the link between perceived threat and control over climate change: the role of atributions for causation and mitigation. Climatic Change, 148(1-2), 45-59.   \nDixon, J., Hong,B.,& Wu,L.(2O21).The robot revolution: Managerial and employment consequences for firms. Management Science, 67(9),5586-5605.   \nEpley，N.，Waytz， A.，& Cacioppo，J. T. (2007). On seeing human: A three-factor theory of anthropomorphism. Psychological Review, 114(4), 864-886.   \nFishbein,M.,&Ajzen,I. (1975). Belief,atitude andbehavior: An introduction to theoryand research.Reading, UK: Addison-Wesley.   \nFrank,T. (2016).How is Pepper,sofbank's emotional Robot, doing?Retrieved January 11，2021，from https://www.therobotreport.com/how-is-pepper-softbanks-emotional-robot-doing   \nFredrickson,B.L., & Roberts,T.A.(1997).Objectification theory: Toward understanding women's lived experience   \nrreeman,J. B.& Amoaay, N.(ZUiU). Mouse Iracker: SoItware Ior stuaying real-time mental processing using a computer mouse-tracking method. Behavior Research Methods, 42, 226-241.   \nFrey, C.B.,Berger,T.,&Chen, C.(2018).Political machinery: Didrobots swing the2016 U.S.presidential election? Oxford Review of Economic Policy, 34(3),418-442.   \nGino,F.,& Ariely,D.(2012).The dark side of creativity: Original thinkers can be more dishonest.Journal of Personality and Social Psychology,102(3),445-459.   \nGray,H.M., Gray, K.,& Wegner,D.M.(20o7).Dimensions of mind perception. Science,315, 619.   \nGray, K., Knobe,J.,Sheskin, M.,Bloom,P.,& Barrett,L.F. (2011). More than a body: Mind perceptionand the nature of objectification. Journal of Personality and Social Psychology, 101,1207-1220.   \nGreenaway, K.H.,Louis, W.R.,Hornsey,M. J.,&Jones,J. M.(2014).Perceived control qualifies the efects of threat on prejudice. British Journal of Social Psychology,53(3), 422-442.   \nGreenwald,A.G.,& Farnham, S.D.(20oo). Using the implicit asociation test to measure self-esteem and selfconcept. Journal of Personality and Social Psychology, 79,1022-1038.   \nGrimmelikhuijsen, S.，& Knies,E. (2O17). Validating a scale for citizen trust in government organizations. International Review of Administrative Sciences,83(3),583-601.   \nGruenfeld,D.H.,Inesi,M.E.,Magee,J.C.,& Galinsky,A.D.(20o8).Powerand the objectificationofsocialtargets. Journal of Personality and Social Psychology, 95(1),111-127.   \nGwinn, J.D., Judd,C.M.,& Park,B.(2013).Less power $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ less human? Effects of power differentials on dehumanization. Journal of Experimental Social Psychology, 49,464-470.   \nHarris,K., Kimson,A.,& Schwedel,A.(2018). Why the automation boom couldbe followed bya bust.Harvard Business Review.Retrieved January 20,2021，from htps://br.org/2018/03/why-the-automation-boomcould-be-followed-by-a-bust   \nHaslam,N.(206).Dehumanization: An integrative review.Personalityand Social Psychology Review,10(3),252 -264.   \nHeath,P.,& Schneewind,J.B. (1997). Lectures on ethics. Cambridge, UK: Cambridge University Press.   \nHendricks,B.,Marvel,M. K.,& Barrington, B.L. (1990). The dimensionsof psychological research.Teachingof Psychology, 17(2),76-82.   \nHewstone,M.H.,Rubin, M.,Wilis,H. (2002).Intergroup bias.Annual Review of Psychology,53,575-604.   \nHornsey, M.J.,Fielding,K.S., McStay,R.,Reser,J.P.,Bradley, G.L.,& Greenaway,K.H. (2015).Evidence for motivated control: Understanding the paradoxical link between threat and eficacy beliefs about climate change.Journal of Environmental Psychology,42,57-65.   \nIm, Z. J.,Mayer,N.,Palier,B.,&Rovny,J. (2o19).The “losers ofautomation\": Areservoirof votes fortheradical right? Research & Politics, 6(1), 1-7.   \nInesi,M.E.,Lee,S.Y.,&Rios,K. (2014). Objects ofdesire: Subordinate ingratiation triggers self-objectification among powerful.Journal of Experimental Social Psychology, 53,19-30.   \nInternational Federation of Robotics. (2020). Executive summary world robotics 2020 service robots. Retrieved January 2, 2021, from https://ifr.org/img/worldrobotics/Executive_Summary_WR_2020_Service_Robots.pdf   \nJackson, J. C., Castelo, N.,& Gray, K. (2020). Could a rising robot workforce make humans less prejudiced?. American Psychologist, 75(7), 969-982.   \nJames,W. (1890). Principles of psychology (Vol. 2). New York,NY: Henry Holt.   \nJost,J.T.,Gaser,J.,Kruglanski,A.W,&uoway,F.J. (3).Politicalconservatismas motivatedsocialcogition. Psychological Bulletin,129(3),339-375.   \nKahneman,D.,& Tversky,A. (1984). Choices,values,and frames. American Psychologist, 39(4),341-350.   \nKaur,K. (2019). Robot traffic cop spotted at Changi Airport.Retrieved January 11，2021，from https://www.straitstimes.com/singapore/transport/robot-traffic-cop-spotted-at-changi-airport   \nKay, A. C., Gaucher, D., Napier,J.L., Calln,M.J.,& Laurin, K. (2Oo8). God and the govermment: Testing a compensatory control mechanism for the support of external systems. Journal of Personality and Social Psychology, 95(1),18-35.   \nKay, A. C., Whitson,J.A., Gaucher, D.,& Galinsky,A.D. (2o09). Compensatory control: Achieving order hrough the mind,our institutions,and the heavens. Current Directions in Psychological Science,18(5),264-268.   \nKelion,L.(2019). Retrieved November 11,2020,from https://www.bbc.com/news/technology-50761116   \nKnobe,J.,& Nichols,S. (2008). Experimental Philosophy. New York: Oxford University Press.   \nKoenig,H. G.,& Bussing,A. (2010).The Duke University Religion Index (DUREL): a five-item measure for use in epidemological studies. Religions,1(1),78-85.   \nKruglanski, A. W., Szumowska,E., Kopetz, C.H.,Valerand,R. J.,& Pierro,A. (2021). On the psychology of extremism: How motivational imbalance breeds intemperance. Psychological Review, 128(2),264-289.   \nLachman,M.E.,& Weaver, S.L. (1998).The sense ofcontrolas a moderator of social class diferences in health and well-being. Journal of Personality and Social Psychology,74(3),763-773.   \nLai, C.K.,& Wilson, M.E. (2021). Measuring implicit intergroup biases. Social and Personality Psychology Compass,15(1), e12573.   \nLandau,M. J., Kay,A. C.,& Whitson, J.A. (2015). Compensatory control and the appeal of a structured world. Psychological Bulletin,141(3), 694-722.   \nLandau,M.J.,Sulivan,D.,Keefer,L.A.,Rothschild,Z.K,&Osman,M.R. (2012).Subjectivityuncertaintytheory of objectification: Compensating for uncertainty about how to positively relate to others by downplaying their subjective attributes.Journal of Experimental Social Psychology, 48(6),1234-1246.   \nLanger,E.J.(1975). Iusion ofcontrol. Journal ofPersonality and Social Psychology,32(2),311-328.   \nLeventhal, H.(1975).The consequences ofdepersonalization during illnessand treatment. In J. Howard &A.Strauss (Eds.),Humanizing health care (pp.119-161). New York,NY: John Wiley& Sons.   \nLeyzberg,D.,Spaulding,S.,& Scasselati,B.(2014).Personalizing robot tutors toindividuals'learning differences. In Proceedings ofthe 2014 ACM/IEEE international conference on human-robot interaction (pp. 423-430). Bielefeld, Germany.   \nLin,P.,Bekey,G.,&Abney,K. (208)Autonomous militaryrobotics:Risk,ethics,anddesign. Ethics &Emerging Technologies Group at California State Polytechnic University   \nLoughnan,S.,Baldissarri, C.Spaccatini,F.,&Elder,L.(2017).Internalizing objectification: Objectifiedindividuals see themselves as less warm, competent, moral,and human.British Journal of Social Psychology,56(2), 217-232.   \nMacKinnon, C.A. (1989). Toward a feminist theory of the state.Harvard University Press.   \nMacKinnon,D.P.,Fairchild,A.J.,&Fritz,M.S. (20o7). Mediation analysis. Annual Review of Psychology,58, 593-614.   \nManyika,J.,Chui,M.,Miremadi,M.,Bughin,J.,George,K.,Willmott,P.,& Dewhurst,M.(2017).Haressing automation for a future that works. Retrieved January 15,2021,from http://www.mckinsey.com/globalthemes/digital-disruption/harnessing-automation-for-a-future-that-works   \nMartinez, A. (2019). Retrieved November 11, 2020， from https://www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in-hiring-as-its-use-grows-so-dothe-legal-implications-for-employers/?sh $\\circleddash$ 5afaea7577d4   \nMarx,K.(1964).Early writings (T.B.Bottomore,Trans.).New York,NY: McGraw-Hill (Original work published 1844)   \nMcClure,P.K. (2018).“You're fired,”says the robot: The rise of automation in the workplace,technophobes,and fears of unemployment. Social Science Computer Review,36(2),139-156.   \nMori,M. (1970). The uncanny valley. Energy, 7(2),98-100.   \nMurashov, V.,Hearl,F.,& Howard,J.(2O16).Working safelywith robot workers: Recommendations forthe new workplace.Journal of Occupational and Environmental Hygiene,13(3), D61-D71.   \nNawaz,D.N. (2019). Robotic process automation for recruitment process. International Journal of Advanced Research in Engineering and Technology,10(2),608-611.   \nNestlé.(2014).Nestlé to use humanoid robot to sell Nescafé in Japan.Retrieved January 11,2021，from https://www.nestle.com/media/news/nestle-humanoid-robot-nescafe-japan   \nNussbaum, M. C. (1995). Objectification. Philosophy & Public Affairs, 24(4),249-291.   \nNussbaum, M.C.(1999). Sex and social justice. New York,NY: Oxford University Press.   \nPeng,A. C.，& Kim, D. (2020).A meta-analytic test of the diffrential pathways linking ethical leadership to normative conduct. Journal of Organizational Behavior, 41(4), 348-368.   \nPersado.(20l7). Retail CMOS to invest up to \\$10omin AI this year improving audience Engagement to drive revenue a top priority. Retrieved January 25,2021, from https://www.persado.com/press-releases/retail-cmos-toinvest-up-to-100m-in-ai-this-year-improving-audience-engagement-to-drive-revenue-a-top-priority/   \nPodsakoff,P.M.,MacKenzie,S.B.,Lee,J.Y.,&Podsakoff,N.P.(20o3).Common method biases in behavioral research: Acritical review of the literature and recommended remedies.Journal of Applied Psychology, 88(5), 879-903.   \nPoon,K.T., Chen,Z.,Teng,F.,& Wong, W.Y. (2020). The effect of objectification onaggression.Journalof Experimental Social Psychology,87,103940.   \nPuntoni,S.,Reczek,R.W., Gesler, M.,&Boti,S. (2021).Consumersand artificial inteligence: An experiential perspective. Journal of Marketing, 85(1),131-151.   \nQuinn,R.E.(1988). Beyond rational management. San Francisco, CA: Jossey-Bass.   \nRaveendhran,R.& Fast, N.J. (2021). Humans judge,algorithms nudge: The psychologyof behavior tracking acceptance. Organizational Behavior and Human Decision Processes,164, 11-26.   \nRavendhran,R.,& Fast, N. J. (2019). Technology and social evaluation: Opportunities and challenges.In R. N. Landers (Ed.),The Cambridge Handbook of Technology and Employee Behavior New York: Cambridge University Press.   \nRemondet, J. H.,& Hansson,R. O.(1991). Job-related threats to control among older employees.Journal of Social Issues,47(4), 129-141.   \nRitschel, H.(2O18).Socially-aware reinforcement learning for personalized human-robot interaction.In Proceedings ofthe International Conference on Autonomous Agents and Multiagent Systems (pp.1775-1777). Stockholm, Sweden.   \nRollero,C.,& Tartaglia, S.(2013). Men and women at work: The efects of objectification on competence, pay, and fit for the job. Studia Psychologica,55(2),139-152.   \nRosen,L.D., Whaling,K., Carrier,L. M., Cheever,N.A.,& Rokkum,J. (2013). The media and technologyusage and attitudes scale: An empirical investigation. Computers in Human Behavior,29(6),2501-2511.   \nRoss,C.E.(011).Colective threat,trust,andthesense ofpersonal control.Journal ofHealth and Social Behavior, 52(3),287-296.   \nRoss,C.E.,& Sastry,J. (199).The sense of personal control. In Handbook ofthe sociology ofmental health (pp. 369-394). Boston, MA: Springer.   \nSalzmann-Erikson,M.,&Eriksson,H. (2016).Tech-resistance: The complexityof implementing nursing robots in healthcare workplaces.Contemporary Nurse: a Journal for the Australian Nursing Professon,52(5),567- 568.   \nSmith,A.(20l6).Public predictions for the future of workforce automation. Retrieved November 11,2020,from http://www.pewinternet.org/2016/03/10/public-predictions-for-the-future-of-workforce-automation/   \nSmith,A.,& Anderson, M. (2017). Automation in everyday life. Washington,DC: Pew Research Center.   \nSophie,C. (2016). Pizza hut hires robot waiters to take orders and process payments at its fast-food restaurants. Retrieved January 11,2021,from htp://www.mirror.co.uk/tech/pizza-hut-hires-robot-waiters-8045172   \nStephan, W.G., Ybara,O.,&Rios,K.(2o15). Intergroupthreattheory.InT.D.Nelson (Ed.),Handbook ofprejudice, stereotyping,and discrimination (2nd ed.,pp.255-278).Mahwah,NJ: Lawrence Erlbaum Associates.   \nSullivan,D.,Landau,M.J.,&Rothschild,Z.K. (20l0).Anexistential functionof enemyship:Evidence that people attribute influence to personal and political enemies to compensate for threats to control. Journal of Personality and Social Psychology, 98(3),434-449.   \nSzymanski,D.M.,& Feltman, C.E. (2015).Linking sexuallobjectifying work environments among waitresses to psychological and job-related outcomes. Psychology of Women Quarterly,39(3),390-404.   \nTajfel,H.,&Turner,J.(1986).The social identity theoryofintergroupbehavior.InS.Worchel& W.G.Austin(Eds.), The psychology of intergroup relations (pp. 7-25). Chicago, IL: Nelson-Hall.   \nTaskin,L.,Parmentier,M.,& Stinglhamber,F. (2019).The dark side of office designs: Towards de-humanization. New Technology, Work and Employment,34(3),262-284.   \nTaylor,S.E. (1983). Adjustment to threatening events: A theory of cognitive adaptation. American Psychologist, 38(11), 1161-1173.   \nThompson,S.C.,& Schlehofer, M.M. (2oo8).Control,denial,and heightened sensitivityreactions to personal threat: Testing the generalizability of the threat orientation approach. Personality and Social Psychology Bulletin,34(8),1070-1083.   \nTrevino,L.K.,& Brown,M.E.(2004).Managingto be ethical: Debunking five business ethics myths.Academy of Management Perspectives,18(2),69-81.   \nTrevino,L.K.,&Nelson,K.A.(2021).Managing business ethics: Straight talkabout how todo itright.NewYork, NY: John Wiley & Sons..   \nTrevino,L.K.,Buterfield,K.D.,& McCabe,D.L.(1998).The ethical context in organizations: Influences on employee attitudes and behaviors.Business Ethics Quarterly,8(3),447-476.   \nValtorta,R.R.,Baldissarr, C.,Andrighetto,L.,& Volpato,C.(2019). The dirty side of work: Biologizationof physically tainted workers. International Review of Social Psychology,32(1),1-13.   \nVan Eck, N. J.，& Waltman,L. (2010). Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics, 84(2),523-538.   \nvan Muijen,J.J.,Koopman,P.,De Witte,K.,De Cock,G., Susanj,.,Lemoine,C.,..Turnipseed,D.(999). Organizational culture: The focus questionnaire. European Journal of Work and Organizational Psychology, 8(4), 551-568.   \nVenkatesh,V., Moris,M. G.,Davis,G.B.,& Davis,F.D.(2003). User acceptance of information technology: Towarda unified view. MIS Quarterly,27(3),425-478.   \nVermeersch,P.,Sampsel,D.D.,&Kleman,C.(2O15).Acceptabilityandusabilityofatelepresence robotforgeriatric primary care:A pilot. Geriatric Nursing, 36(3),234-238.   \nWang,X.,& Krumhuber,E.G.(2Ol7).The love of moneyresults inobjectification.British Journal of Social Psychology, 56(2),354-372.   \nWeisman,K.,Dweck, C.S.,& Markman,E.M. (2017).Rethinking people'sconceptions ofmentalife.Proceedings of theNational Academy of Sciences,114(43),11374-11379.   \nXu,N.,& Wang,K.J.(2019). Adopting robot lawyer?The extending artificial intelligence robot lawyer technology acceptance model for legal industry byan exploratory study. Journal ofManagement & Organization,27(5), 867-885.   \nYanagawa,F.,Perez,M.,Bel,T.,Grim,R.,Martin,J.,&Ahuja,V.(215).Criticaloutcomesinnonroboticvsrobotic assisted cardiac surgery.JAMA Surgery, 150(8),771-777.   \nYi,S.B.(20l9).Firstpairofrobotcleanersreport for work at National Gaery,Jewel Changi Airport.Retrieved January 11， 2021， from htps://www.straitstimes.com/singapore/manpower/i-robot-autonomous-cleanersgo-to-work   \nYogeeswaran,K.,Zlotowski,J.,Livingstone,M.,Bartneck, C.,Sumioka,H.,&Ishiguro,H.(2O16).Theinteractive effcts of robot anthropomorphism and robot ability on perceived threat and support for robotics research. Journal ofHuman-Robot Interaction,5(2),29-47. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The Influence of Robot Salience on Workplace Objectification ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "XU Liying1YU Feng²PENG Kaiping1 WANG Xuehuil (1 Department of Psychology,School of Social Sciences,Tsinghua University,Beijing 10oo84,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(² Department of Psychology, School of Philosophy, Wuhan University, Wuhan 430072, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With buzzwords such as \"tool man\", \"laborer\" and “corporate slave” sweeping the workplace，workplace objectification has become an urgent topic to be discussed. With the increasing use of artificial intelligence, especially robots in the workplace,the workplace effects produced by robots are also worth paying attention to. Therefore,the present project aims to explore whether the penetration of robots into the workplace will produce or aggravate workplace objectification. Based on intergroup threat theory and compensatory control theory, we hypothesize that the salience of robot workers will increase workplace objectification. Experiments,big data, and questionnaire surveys will be adopted in the project. Firstly, whether the salience of robot workers will increase workplace objectification will be investigated,and thus the effect will be initially verified. Secondly, we will explore the underlying mechanism behind the influence of robot salience on workplace objectification and try to find the chain mediating effects of perceived threat and compensatory control. Finally， the moderating variables in the relationship between robot salience and workplace objectification will be investigated from the perspectives of individual, robot and environment, and the intervention strategies for workplace objectification will be explored from the perspective of organizational culture. This project helps to prospectively understand the possible negative effects of artificial intelligence in the workplace and put forward effective solutions. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: workplace objectification, robot, compensatory control theory, morality ",
+        "page_idx": 18
+    }
+]

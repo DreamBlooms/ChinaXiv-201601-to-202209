@@ -1,0 +1,181 @@
+发酵饲料对育肥猪生长性能、胴体性状、肉品质、血清生化指标和代谢产物的影响朱　坤」毛胜勇1\* 朱崇淼²马瑞雪²高文军²（1.南京农业大学动科科技学院，南京210095；2.南京致润生物科技有限公司，南京
+
+211124)
+
+摘要：本试验旨在研究发酵饲料对育肥猪生长性能、胴体性状、肉品质、血清生化指标和代谢产物的影响。试验选取体重约 $6 0 \mathrm { k g }$ 的三元杂交健康猪24头，随机分为2组，分别为基础饲粮组（对照组）和发酵饲料组（试验组)，每组4个重复，每个重复3头猪。对照组饲喂基础饲粮，试验组饲喂 $80 \%$ 基础饲粮和 $20 \%$ 发酵饲料。预试期6d，正试期 $2 9 \mathrm { d }$ 。结果表明，与对照组相比：1）试验组育肥猪的生长性能和胴体性状指标无显著差异（ $_ { . P > 0 . 0 5 ) }$ ·2）试验组育肥猪背最长肌的 $\mathrm { \ p H } _ { 4 5 \mathrm { m i n } }$ 、红度值、肉色评分和粗脂肪含量显著提高（ $P { < } 0 . 0 5 )$ ，背最长肌肉剪切力显著降低（ $\scriptstyle P < 0 . 0 5$ )；3）试验组育肥猪的血清中总蛋白和尿素氮含量显著升高（ $P { < } 0 . 0 5 )$ ；4）试验组育肥猪的血清中 $L$ -焦谷氨酸含量显著降低（ $_ { . } P { < } 0 . 0 5 { \ : } )$ ，但血清中黄嘌呤、丁子香酚、丙烯酰胺和对-香豆酸的含量均显著升高（ $_ { . P < 0 . 0 5 ) }$ 。由此可见，饲喂发酵饲料可改变机体代谢，增加育肥猪背最长肌肉色评分及嫩度，改善肉品质。
+
+关键词：发酵饲料；代谢组学；育肥猪；肉品质；代谢物中图分类号：S828 文献标识码: 文章编号:
+
+近年来，随着人们对饲用抗生素带来的负面效应的认识愈加深入，我国在养殖业中规定允许使用的饲用抗生素的种类越来越少，并且，禁用饲用抗生素已是大势所趋。因此，研发饲用抗生素的替代品成为动物营养领域的一个研究热点。发酵饲料作为一类新型、绿色、环保的饲料，由于其在生产过程中微生物发酵可以产生大量有益于动物健康的代谢产物，因而其可以在一定程度上减少养殖过程中饲用抗生素的使用，从而降低养殖成本。因此，在畜牧生产中，发酵饲料的研发与推广备受关注。近年来，诸多研究显示，在动物生产中使用发酵饲料可维持动物消化道微生态平衡[1、增强动物的免疫力、提高生长性能[2-3]。然而，当前有关发酵饲料在猪生产中的研究仍主要集中于发酵饲料对猪生长性能等表型指标的影响，关于发酵饲料对猪机体整体代谢影响的报道极少，对猪肉品质的影响仍不十分清楚。因此，本试验拟采用基于超高效液相色谱-四极杆飞行时间串联质谱的代谢组学技术，研究发酵饲料对生长育肥猪血清代谢产物的影响，同时探讨饲喂发酵饲料对育肥猪生长性能、胴体性状、肉品质、血清生化指标的影响，拟为发酵饲料在猪生产中的合理应用提供相关试验数据。
+
+# 1材料与方法
+
+# 1.1试验动物、试验饲粮与试验设计
+
+试验选用健康、日龄基本一致，体重约 $6 0 \mathrm { k g }$ 的三元杂交猪24头，随机分为2组，分别为基础饲粮组（对照组）和发酵饲料组（试验组)，每组4个重复，每个重复3头猪。对照组饲喂基础饲粮，试验组饲喂 $80 \%$ 基础饲粮和 $20 \%$ 发酵饲料（发酵饲料底物组成同基础饲粮)。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米 Corn 67.00</td></tr><tr><td>豆粕 Soybean meal 18.00</td></tr><tr><td>小麦麸 Wheat bran 10.00</td></tr><tr><td>预混料 Premix1) 5.00</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能 DE/(MJ/kg) 13.18</td></tr><tr><td>粗蛋白质 CP 16.00</td></tr><tr><td>钙Ca 0.90</td></tr><tr><td>总磷TP 0.55</td></tr><tr><td>赖氨酸Lys 1.20</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathbf { k g }$ of diets: VA 3 200 IU,
+
+VD 3 500 IU， VE 15 IU, $\mathrm { V K } _ { 3 } \textrm { l m g }$ ， $\mathrm { V B } _ { 1 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 1 7 \mu \mathrm { g }$ 核黄素 riboflavin $2 . 5 \mathrm { m g }$ ，烟酸 nicotinic acid $2 5 \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 . 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $2 5 0 \mathrm { m g }$ ，Fe $7 5 \mathrm { m g }$ ， $\mathrm { C u } 3 0 \mathrm { m g }$ ，Mn $1 5 \mathrm { m g }$ ， $Z n 6 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 1 7 5 \mathrm { ~ m g }$ ， Se 0.125mg。
+
+2)营养水平均为计算值。Nutrient levels were all calculated values.
+
+发酵饲料的制作程序如下：采用南京农业大学动物科技学院消化道微生物实验室保存的唾液乳杆菌L79、枯草芽孢杆菌B1121和酿酒酵母菌 S1145制备菌液，并按照质量比2：2：1进行混合（复合菌总数量约为 $1 { \times } 1 0 ^ { 9 } \mathrm { C F U } / \mathbf { g } $ ，取对照组基础饲粮，按 $0 . 2 \%$ 复合菌液添加于饲粮中，混合均匀后分装至发酵袋中，于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 发酵 $2 \mathrm { d }$ ，饲喂前再与基础饲粮以1：4的比例混合，将混合后的饲料作为试验组饲粮。试验期间，每日饲喂2次，自由采食，自由饮水。预试期6d，正试期 $2 9 \mathrm { d }$ 。
+
+# 1.2样品采集
+
+正式试验开始后第30天，将试验猪禁饲 $1 2 \mathrm { h }$ 后称重，禁饲期间自由饮水。随后，每个重复随机选取1头猪，颈静脉采血，室温放置 $2 0 \mathrm { m i n }$ 后 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 分离血清，-20℃保存；每组选取4头接近平均体质量的猪，按照常规流程进行屠宰，检验检疫后测定胴体性状指标，并取 $2 0 0 \ \mathrm { g }$ 左右的背最长肌样品，存于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰盒中，用于肉品质测定。
+
+# 1.3 检测指标
+
+# 1.3.1生长性能和胴体性状指标测定
+
+试验开始和结束时对试验猪进行称重，记录试验猪的采食量，计算平均日采食量、平均日增重和料重比。
+
+参照NY/T825-2004《瘦肉型猪胴体性状测定技术规范》测定育肥猪胴体重、屠宰率、背膘厚。
+
+# 1.3.2 背最长肌肉品质指标测定
+
+背最长肌 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 、 $\mathfrak { p H } _ { 2 4 \mathrm { h } }$ 、亮度（ $\boldsymbol { \cdot } \boldsymbol { \mathrm { L } } ^ { * }$ ）值、红度（a\*）值、黄度（b\*）值、滴水损失、蒸煮损失和剪切力的测定参照NY/T2793-2015《肉的食用品质客观评价方法》。按照美版NPPC比色板进行肉色评分和大理石纹评分。
+
+# 1.3.3背最长肌营养成分测定
+
+利用凯氏定氮法和索氏提取法测定背最长肌样品中粗蛋白质、粗脂肪、干物质含量。
+
+# 1.3.4血清生化指标测定
+
+采用南京生物工程研究所试剂盒测定育肥猪血清总蛋白（TP）、尿素氮（UN）、甘油三酯（TG）、总胆固醇（TC）、葡萄糖（GLU）含量及谷丙转氨酶（ALT）、谷草转氨酶（AST）活性。
+
+# 1.3.5 血清代谢产物组成测定
+
+取 $1 0 0 \mu \mathrm { L }$ 血清置于 $1 . 5 \mathrm { m L }$ 离心管中，加 $0 . 3 ~ \mathrm { m L }$ 甲醇， $1 0 ~ \mu \mathrm { L }$ 内标(2-氯苯丙氨酸)，涡旋 $3 0 ~ \mathrm { s }$ ，在 $4 \mathrm { { ^ \circ C } }$ 、 $1 2 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，移取 $2 0 0 ~ \mu \mathrm { L }$ 上清，转入自动进样瓶。采用基于超高效液相色谱-四极杆飞行时间串联质谱的代谢组学技术，对血清进行色谱分离和鉴定，并测定标志性差异代谢产物含量。
+
+# 1.4数据统计与分析
+
+采用WatersMassynxV4.1软件对原始数据进行峰检测和峰匹配。每个样本的总峰面积归一化至10ooo。采用有监督的偏最小二乘判别分析（partial least-square discriminant analysis;PLS-DA）方法对样品进行模式识别分析。潜在标志物根据变异权重参数值（VIP）、置信区间得分图（scoring plot）和载荷图（loading plot）进行筛选，用 SPSS 20.0 进行独立样品 $\mathbf { \chi } _ { t }$ 检验（independent-sample ttest）方法分析，再根据VIP 和统计结果进行判别分析。血清生化指标等数据以平均值和标准误的形式表示，试验所得数据经Excel2010初步处理后，采用SPSS20.0软件中的独立样本t检验方法进行分析， $P { < } 0 . 0 5$ 为达到显著性水平。
+
+# 2结果
+
+# 2.1发酵饲料中营养成分的变化
+
+由表2可知，发酵饲料中粗蛋白质、粗纤维含量及干物质消失率高于基础饲粮( $( P { > } 0 . 0 5 )$ ，粗脂肪含量低于基础饲粮（ $P { > } 0 . 0 5 \ '$ ）
+
+表2发酵饲料中营养成分的变化  
+Table 2 Changes of nutrient composition in fermented feed   
+
+<html><body><table><tr><td colspan="4">Ige Cea</td></tr><tr><td>项目 Items</td><td>基础饲粮 Basal diet</td><td>发酵饲料 标准误</td><td>P值</td></tr><tr><td></td><td>Fermented feed</td><td>SE</td><td>P-value</td></tr><tr><td>粗蛋白质 Crude protein</td><td>17.04</td><td>0.18</td><td>0.912</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗纤维 Crude fiber</td><td>4.13</td><td>4.41</td><td>0.09</td><td>0.156</td></tr><tr><td>粗脂肪 Crude fat</td><td>9.51</td><td>9.26</td><td>0.11</td><td>0.338</td></tr><tr><td>干物质消失率 Dry matter loss rate</td><td>2.06</td><td>2.16</td><td>0.22</td><td>0.853</td></tr></table></body></html>
+
+2.2发酵饲料对育肥猪生长性能和胴体性状的影响
+
+由表3可知，与对照组相比，试验组育肥猪的平均日增重、平均日采食量、料重比、宰前活重、胴体重、屠宰率、背膘厚、眼肌面积等指标均无显著差异（ $. P { > } 0 . 0 5 )$ 。
+
+# 表3发酵饲料对育肥猪生长性能和胴体性状的影响
+
+Table 3Effects of fermented feed on growth performance and carcass traits of finishing pigs   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="3">试验组</td><td rowspan="2">P值</td></tr><tr><td>对照组</td><td>Experimental</td><td>标准误</td></tr><tr><td>Items</td><td>Control group</td><td>group</td><td>SE</td><td>P-value</td></tr><tr><td>初重 Initial weight/kg</td><td>66.38</td><td>66.58</td><td>0.71</td><td>0.901</td></tr><tr><td>末重 Final weight/kg</td><td>88.78</td><td>91.74</td><td>1.30</td><td>0.291</td></tr><tr><td>平均日增重 ADG/kg</td><td>0.80</td><td>0.90</td><td>0.04</td><td>0.277</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.59</td><td>2.59</td><td>0.09</td><td>0.999</td></tr><tr><td>料重比F/G</td><td>3.34</td><td>2.91</td><td>0.23</td><td>0.415</td></tr><tr><td>宰前活重 Live weight/kg</td><td>93.25</td><td>94.00</td><td>2.55</td><td>0.896</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>65.55</td><td>70.03</td><td>2.06</td><td>0.313</td></tr><tr><td>屠宰率 Carcass yield/%</td><td>70.27</td><td>73.02</td><td>1.19</td><td>0.280</td></tr><tr><td>背票厚 Back fat/mm</td><td>14.40</td><td>14.05</td><td>0.29</td><td>0.599</td></tr><tr><td>眼肌面积 Loin eye area/cm²</td><td>52.43</td><td>57.19</td><td>2.12</td><td>0.294</td></tr></table></body></html>
+
+# 2.3发酵饲料对育肥猪肉品质的影响
+
+由表4可知，与对照组相比，试验组育肥猪背最长肌的 $\mathrm { \ p H } _ { 4 5 \mathrm { \ m i n } }$ 、a\*值和肉色评分显著提高（ $P { < } 0 . 0 5 \rangle$ ，剪切力显著降低（ $_ { P < 0 . 0 5 ) }$ 。但2组间 $\mathfrak { p H } _ { 2 4 \mathrm { h } }$ 、 $\boldsymbol { \mathrm { ~ L ~ } } ^ { * }$ 值、 $\boldsymbol { \mathbf { b } } ^ { * }$ 值、大理石纹评分、滴水损失及蒸煮损失无显著差异（ $_ { . P > 0 . 0 5 ) }$ 。试验组育肥猪的背最长肌粗脂肪含量显著高于对照组 （ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，而2组间干物质、粗蛋白质含量无显著差异（ $P { > } 0 . 0 5 \ '$ ）°
+
+# 表4发酵饲料对育肥猪肉品质的影响
+
+Table 4Effects of fermented feed on meat quality of finishing pigs   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="3">试验组</td><td rowspan="2">P值</td></tr><tr><td>对照组 Control group</td><td>Experimental</td><td>标准误 SE</td></tr><tr><td>Items</td><td></td><td>group</td><td></td><td>P-value</td></tr><tr><td>pH45 min</td><td>6.27</td><td>6.40</td><td>0.03</td><td>0.010</td></tr><tr><td>pH24 h</td><td>5.61</td><td>5.65</td><td>0.01</td><td>0.144</td></tr><tr><td>亮度L*</td><td>43.64</td><td>44.81</td><td>0.49</td><td>0.260</td></tr><tr><td>红度a*</td><td>6.60</td><td>7.89</td><td>0.27</td><td>0.002</td></tr><tr><td>黄度b*</td><td>1.69</td><td>1.62</td><td>0.02</td><td>0.143</td></tr><tr><td>肉色评分 Meat color score</td><td>2.88</td><td>3.31</td><td>0.09</td><td>0.004</td></tr><tr><td>大理石纹评分 Marbling score</td><td>1.69</td><td>1.94</td><td>0.12</td><td>0.346</td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.11</td><td>2.24</td><td>0.06</td><td>0.316</td></tr><tr><td>蒸煮损失 Cooking loss/%</td><td>22.64</td><td>20.93</td><td>0.48</td><td>0.067</td></tr><tr><td>剪切力 Shear force/N</td><td>36.06</td><td>33.76</td><td>0.54</td><td>0.015</td></tr><tr><td>干物质 Dry matter/%</td><td>26.07</td><td>26.76</td><td>0.27</td><td>0.249</td></tr><tr><td>粗蛋白质 Crude protein/%</td><td>87.74</td><td>88.96</td><td>0.75</td><td>0.457</td></tr><tr><td>粗脂肪 Crude fat/%</td><td>8.77</td><td>11.02</td><td>1.05</td><td>0.019</td></tr></table></body></html>
+
+# 2.4发酵饲料对育肥猪血清生化指标的影响
+
+由表5可知，与对照组相比，试验组育肥猪的血清中总蛋白和尿素氮含量显著升高中 $\scriptstyle \cdot - 0 . 0 5$ )。2组育肥猪的血清中总胆固醇、甘油三酯和葡萄糖含量无显著差异（ $\cdot P { > } 0 . 0 5 )$ ，血清中谷丙转氨酶和谷草转氨酶活性也无显著差异( $_ { . P > 0 . 0 5 ) }$ 。
+
+表5发酵饲料对育肥猪血清生化指标的影响  
+Table 5Effects of fermented feed on serum biochemical indicators of finishing pigs   
+
+<html><body><table><tr><td></td><td>对照组</td><td>试验组</td><td></td><td>P值</td></tr><tr><td>项目</td><td></td><td></td><td>标准误</td><td></td></tr><tr><td>Items</td><td>Control group</td><td>Experimental group</td><td>SE</td><td>P-value</td></tr><tr><td colspan="5"></td></tr><tr><td>总蛋白 TP/(g/L)</td><td>60.38</td><td>142.38</td><td>16.85</td><td>0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td>尿素氮 UN/(mmol/L)</td><td>5.86</td><td>7.64</td><td>0.44</td><td>0.028</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.68</td><td>2.78</td><td>0.21</td><td>0.833</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.44</td><td>0.43</td><td>0.07</td><td>0.985</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>3.89</td><td>4.28</td><td>0.21</td><td>0.388</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>11.66</td><td>7.35</td><td>1.52</td><td>0.169</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>2.91</td><td>3.98</td><td>0.89</td><td>0.589</td></tr></table></body></html>
+
+# 2.5发酵饲料对育肥猪血清代谢产物的影响
+
+代谢组学数据分析结果表明，正模式下在猪血液中检测到91种可鉴定出的代谢产物，负模式下共鉴定出80种代谢产物。采用 SIMCA-P11.5软件中PLS-DA方法进行了分析，PLS-DA得分图（图1）结果显示，2种分析模式下，2组育肥猪的血清代谢产物均可明显分开。正模式下横坐标解释了 $1 8 . 7 \%$ 的变异，纵坐标解释了 $20 . 1 \%$ 的变异；负模式下横坐标解释了 $4 0 . 4 \%$ 的变异，纵坐标解释了 $1 9 . 0 \%$ 的变异。
+
+A：正模式 Positive mode；B负模式 Negative mode。
+
+![](images/179f86970c4298fe7ced2563d4b809978c0cde0460d3d5758f230161c961a437.jpg)  
+图1育肥猪血清代谢产物偏最小二乘法判别分析  
+Fig.1PLS-DA of serum metabolites of finishing pigs
+
+选取VIP大于1.5、2组间统计有显著差异（ $P { < } 0 . 0 5$ ）的化合物，得到的标志性差异代谢产物如表6所示。与对照组相比，试验组育肥猪血清中 $L .$ -焦谷氨酸含量显著降低( $_ { . P < 0 . 0 5 ) }$ 新但血清中黄嘌呤、丁子香酚、丙烯酰胺和对-香豆酸的含量均显著升高（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表6育肥猪血清差异代谢产物鉴定（ $P { < } 0 . 0 5$ 且 $\mathrm { \nabla } \cdot \mathrm { V I P } { > } 1 . 5$ ）
+
+Table 6Identification of significantly different metabolites in serum of finishing pigs ( $_ { \it P < 0 . 0 5 }$ and $\mathrm { V I P } { > } 1 . 5$ ）
+
+相对分子质  
+
+<html><body><table><tr><td colspan="2"></td><td>量</td><td>变异权重参数</td><td></td><td></td></tr><tr><td rowspan="2">项目</td><td>保留时间</td><td>Relative</td><td>值</td><td>P值</td><td>差异倍数</td></tr><tr><td>RT/min</td><td></td><td></td><td>P-value</td><td>FC</td></tr><tr><td rowspan="2"></td><td></td><td>molecular</td><td>VIP</td><td></td><td></td></tr><tr><td></td><td>mass</td><td></td><td></td><td></td></tr><tr><td>对-香豆酸 p-coumaric acid 黄嘌呤 Xanthine</td><td>3.870</td><td>164</td><td>1.815</td><td>0.016</td><td>2.862</td></tr><tr><td></td><td>1.178</td><td>152</td><td>2.025</td><td>0.031</td><td>1.521</td></tr><tr><td>丁子香酚 Eugenol</td><td>7.422</td><td>164</td><td>1.961</td><td>0.048</td><td>1.085</td></tr><tr><td>丙烯酰胺 Acrylamide</td><td>4.201</td><td>283</td><td>2.080</td><td>0.045</td><td>1.014</td></tr><tr><td>L-焦谷氨酸 L-pyroglutamic acid</td><td>1.176</td><td>129</td><td>2.181</td><td>0.017</td><td>0.830</td></tr></table></body></html>
+
+FC 代表差异倍数，试验组平均值与对照组平均值的比。 $\mathrm { F C } { > } 1$ 表示该代谢产物在试验组育肥猪血清中的含量大于对照组。
+
+FC represents fold change,the ration of mean value of experimental group to mean value of control group. If $\mathrm { F C { > } 1 }$ ,mean that the metabolite in serum of finishing pigs in experimental group is higher than that in the control group.
+
+# 3讨论
+
+本试验期间，2组育肥猪的生长性能和胴体性状虽无显著差异，但饲喂发酵饲料的试验组育肥猪的料重比在数据上低于对照组，宰前活重、胴体重、屠宰率、眼肌面积在数据上均高于对照组，并且背膘厚较低。导致该结果的原因可能是与试验猪处于生长发育后期有关，此时，育肥猪采食量大，外源添加物难以在短时间内有效地改变其生长速度，此外，本研究所用猪的数量相对较少。因此，有关发酵饲料对猪的生长性能的影响还需进一步研究。
+
+动物血清生化指标可反映动物的生理代谢和健康情况。血清中的总蛋白在维持血管内胶体渗透压、运输养分等功能中具有重要的作用，可反映机体本身的营养状况和对蛋白质的消化吸收情况[3]。血清中的总蛋白含量越高，表明机体合成蛋白质的能力越强。本试验中，试验组育肥猪血清中总蛋白含量显著高于对照组，说明猪的蛋白质合成能力增强。尿素氮是机体蛋白质和氨基酸等组分的代谢产物，其含量可相对准确地反映出动物体内蛋白质代谢和氨基酸代谢的平衡[4]。本试验中，试验组育肥猪血清中尿素氮含量显著高于对照组，说明饲喂发酵饲料促进机体蛋白质的分解代谢。由此，基于饲喂发酵饲料组育肥猪血清中总蛋白和尿素氮含量皆高于对照组，本试验认为发酵饲料可能促进了机体蛋白质整体代谢，这也可能是2 组猪的生长性能没体现出差异的原因之一。
+
+本研究利用代谢组学研究手段，研究发现饲喂发酵饲料显著影响了育肥猪血清中 $L$ -焦谷氨酸、黄嘌呤、丁子香酚、丙烯酰胺和对-香豆酸含量。在这些代谢产物中， $L$ 焦谷氨酸是谷胱甘肽的分解产物之一，血清中 $L .$ -焦谷氨酸含量下降，说明饲喂发酵饲料可在一定程度上降低谷胱甘肽的分解代谢，此结论与前文所述发酵饲料可增强育肥猪机体蛋白质整体代谢这一结论相符。研究发现，谷胱甘肽可减少蛋白巯基被氧化导致的酶失活，并可与体内自由基结合加速其向酸类物质的还原过程,因而其可减轻自由基对机体重要脏器的损伤。由此，谷胱甘肽分解代谢减弱对维持机体健康有着积极作用[5]。本试验中育肥猪血清代谢产物中的对-香豆酸与丁子香酚主要来自于微生物发酵饲料生成，与对照组相比，其在试验组的育肥猪血清中含量升高，原因可能与饲料发酵生成有关。相关研究表明，对-香豆酸与丁子香酚均具有良好的抗氧化活性[6-7]，上述物质含量上升暗示发酵饲料具有增强育肥猪抗氧化应激的作用。本研究中，饲喂发酵饲料的育肥猪血清中的丙烯酰胺和黄嘌呤含量上升，出现该结果的具体原因尚不清楚。
+
+肉色是影响猪肉感官的重要指标。研究表明，饲喂发酵饲料可使猪肉肉色更加鲜艳[8]。本试验中，试验组育肥猪背最长肌a\*值、肉色评分显著高于对照组，原因可能与试验组育肥猪血清中的对-香豆酸、丁子香酚含量增多和机体谷胱甘肽代谢降低有关。如前所述，对-香豆酸与丁子香酚具有抗氧化活性，能够抑制细胞膜脂质的过氧化反应，从而延缓肌肉中肌红蛋白被氧化为导致肉色变暗的高铁血红蛋白。因此试验组的育肥猪血清中对-香豆酸与丁子香酚含量升高，暗示发酵饲料具有提高肉的色泽和亮度及改善肉色的功能。嫩度是猪肉口感的重要物理指标，是猪肉质地的反映，而剪切力是评定肌肉嫩度的客观指标，其平均剪切力越高，肉越老。有研究表明，嫩度与猪背最长肌内脂肪含量和肉的保水量相关[9-10]，肉的保水性增加可减少汁液损失，从而提高嫩度[1]。相关研究表明，育肥猪饲粮中添加发酵饲料可有效改善猪肉品质，提高肌内脂肪含量，显著降低背最长肌的剪切力值[8,12-13]。本试验结果显示，试验组育肥猪背最长肌中脂肪含量显著高于对照组，且蒸煮损失低于对照组，剪切力也显著低于对照组，结果也与上述文献报道相符。造成上述结果的原因可能是饲喂发酵饲料增强了机体抗氧化能力，进而增强了机体的抗应激能力[14]，从而使屠宰后背最长肌细胞中糖酵解速度减慢，进而导致其pH下降速度显著慢于对照组。研究显示，较慢的pH下降速度可降低肌红蛋白、肌动蛋白等蛋白质的变性程度，从而使肌肉色泽更加鲜艳、嫩度提升、系水力增强，该结果也暗示发酵饲料可能具有改善肌肉的食用品质的功能[15]。
+
+# 4结论
+
+综上所述，饲喂发酵饲料可显著影响育肥猪血清中代谢产物组成，改善育肥猪背最长肌肉品质，但对生长性能和胴体性状无显著影响。
+
+# 参考文献:
+
+[1]张丽靖,杨郁.微生物饲料添加剂的研究及应用现状[J].上海畜牧兽医通讯,2008(1):60-61.[2]李永凯,毛胜勇,朱伟云.益生菌发酵饲料研究及应用现状[J].畜牧与兽医,2009,41(3):90-93.
+
+[3] 黄红英,贺建华,范志勇,等.母猪日粮中支链氨基酸水平对仔猪血液生化指标和部分免疫指标的影响[J].饲料工业,2007,28(21):24-26.
+
+[4] HARRISPA.Aminoacids in farm animal nutrition[J].British Veterinary Journal,1994,152(6):737.
+
+[5]贾贞,王丹,游松.谷胱甘肽的研究进展[J].沈阳药科大学学报,2009,26(3):238-242.
+
+[6] MISHARINA T A,SAMUSENKO A L.Antioxidant properties of essential oils from lemon,grapefruit,coriander,clove,and their mixtures[J].Applied Biochemistry & Microbiology,2008,44(4):482-486.
+
+[7] SOOBRATTEE M A,NEERGHEEN V S,LUXIMON-RAMMA A,et al.Phenolics as potential antioxidant therapeutic agents:mechanism and actions[J].Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis,2005,579(1/2):200-213.
+
+[8]孙建广.发酵乳酸杆菌对生长肥育猪生长性能和肉品质的影响[D].硕士学位论文.长沙:湖南农业大学,2009.
+
+[9]苗海明,高爱武,杨金丽,等.动物肌内脂肪沉积对肉嫩度影响的研究进展[J].中国农学通报,2012,28(11):51-54.
+
+[10]熊火印.肌内脂肪含量对猪肉嫩度的影响[J].肉类研究,1991(2):19-20.
+
+[11] GOERL K F,EILERT S J,MANDIGO R W,et al.Pork characteristics as affected by two populations of swine and six crude protein levels[J].Journal of Animal Science,1995,73(12):3621-3626.
+
+[12]曹启民,张永北,宋绍红,等.灵芝菌糠发酵饲料对育肥猪生产性能的影响[J].中国饲 料,2013(9):39-41.
+
+[13]徐云华,魏海峰,田恩杰,等.不同微生物发酵饲料对鲁莱黑猪肉质及生产性能的影响[J].  
+猪业科学,2011,28(5):116-117.[14]田艳.抗氧化剂的体外评价及在运输应激大鼠中的抗应激效果研究[D].硕士学位论文.  
+武汉：华中农业大学,2014.
+
+[15]沈林園,郑梦月,张顺华,等.猪屠宰后pH变化对肉品质的影响[J].猪业科 学,2013,30(4):114-115.
+
+Effects of Fermented Feed on Growth Performance, Carcass Traits, Meat Quality and Serum Biochemical Indicators and Metabolites of Finishing Pigs
+
+ZHU Kun1MAO Shengyong1\* ZHU Chongmiao²MA Ruixue² GAO Wenjun2 (1. College of Animal Science and Technology, Nanjing Agricultural University, Nanjing 210095, China; 2. Nanjing Zhirun Biotechnology Co., Ltd.,Nanjing 211124, China)
+
+Abstract: This experiment was conducted to study the efects of fermented feed on growth performance,carcass traits,meat quality and serum biochemical indicators and metabolites of finishing pigs. Twenty-four ternary crossbred pigs with an average body weight of about $6 0 ~ \mathrm { k g }$ （204号 were randomly divided into two groups: basal diet group (control group） and fermented feed group (experimental group). Each group had 4 replicates and 3 pigs per replicate. Pigs in the control group were fed a basal diet, and others in the experimental group were fed the mixture diet containing $80 \%$ basal diet and $20 \%$ fermented feed. The pre-experimental period lasted for 6 days, and the experimental period lasted for 29 days. The results showed that compared with the control group: 1) the growth performance and carcass traits of finishing pigs in experimental group were no significant difference $\left( P { > } 0 . 0 5 \right) ; 2 )$ the $\mathrm { \ p H _ { 4 5 \operatorname* { m i n } } }$ ,redness value,meat color score and crude fat content of longissimus dorsi of finishing pigs in experimental group were significantly increased （204 $( P { < } 0 . 0 5 )$ ，while the shear force of longissimus dorsi was significantly decreased ( $( P { < } 0 . 0 5 )$ ; 3) the contents of total protein and urea nitrogen in serum of finishing pigs in experimental group were significantly increased ( $( P { < } 0 . 0 5 )$ ； 4) the serum $L$ -pyroglutamic acid content of finishing pigs in experimental group was significantly decreased $( P { < } 0 . 0 5 )$ ,while the contents of xanthine, eugenol, acrylamide and $p$ -coumaric acid in serum were significantly increased $( P { < } 0 . 0 5 )$ .The results showed that feeding the fermented feed can alter the body' s metabolism, increase the meat color score and tenderness of longissimus dorsi, and improve the meat quality of finishing pigs.
+
+Key word: fermented feed; metabolomics; finishing pigs; meat quality; metabolites

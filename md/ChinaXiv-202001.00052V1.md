@@ -1,0 +1,179 @@
+# 河西走廊城乡居民点空间分异特征及绿洲孕育度分析
+
+周亮,²，朱彦儒,，孙东琪²（1兰州交通大学 测绘与地理信息学院,甘肃兰州730070；2中国科学院地理科学与资源研究所,北京100101;3中国水利水电科学研究院水资源研究所，北京100044)
+
+摘要：绿洲和绿洲所孕育的城镇与乡村聚落是西北干旱区人类生产、生活和生态的核心,探究绿洲与居民点的关系对干旱区新型城镇化建设与乡村振兴意义重大。研究通过GoogleEarth目视解译,识别提取河西走廊全域绿洲和城乡居民点空间特征信息，运用GIS空间分析、景观格局指数，系统地对河西走廊2016年城乡居民点的规模、形态结构与类型特征进行分析，并首次提出了干旱区居民点的绿洲孕育指数，进一步分析了城乡居民点的绿洲孕育程度。结果表明：(1）河西走廊居民点规模与密度分异特征显著，居民点用地规模普遍偏小，平均规模仅为 $0 . 0 5 \ \mathrm { k m } ^ { 2 }$ 。居民点分布呈现高密度小规模和低密度大规模集聚分布的特征，居民点密度和集聚度均以城市为中心呈距离衰减规律。“热点”探测发现，山丹县以东是河西走廊地区居民点分布的热点区。（2）居民点形态结构分析表明乡村聚落的连接性和稳定性自东向西逐渐减弱，居民点面积差异性从城市“中心一边缘”在逐渐的缩小，其中瓜州县、玉门市和金塔县等区域居民点的平均形状指数和平均分维数耦合度高，自然分布态势强，斑块形状复杂。（3）绿洲孕育指数较高的嘉峪关“人一地”关系矛盾突出，城乡发展极大受绿洲规模限制；而凉州区、民勤县等绿洲腹地空间宽广有利于城乡居民点发展。
+
+关键词：居民点；空间规模；形态结构；绿洲孕育指数；河西走廊
+
+城乡居民点是区域生活、生产、生态“三生"空间的核心组成部分[1],其形态结构、景观格局及用地变化是历年来乡村地理学研究的重点内容，也是人地关系地域体系研究的重要领域之一[2-3]。2030年中国仍然有超过 $6 \times 1 0 ^ { 8 }$ 人口生活在农村，因此,农村居民点在未来几十年仍然是必不可少的聚居形式[4]。然而随着乡村经济发展,农村居民点出现了耕地占用、分布零散、粗放低效利用、空心化等现象，严重影响了农村城镇化的进程[5]。城镇化是衡量一个地区经济发展水平的重要标志[6],为了协调城乡一体化的发展，加快城镇化的进程，全国正在全面实施“撤村并点”、“成片连线”的新农村建设规划[7]。受乡村城镇化建设的驱动,国内学者对农村居民点的研究也逐渐增多，研究内容主要集中于农村居民点的空间格局与时空变化[8]、空间重构与土地整治[9]、影响因素与驱动机制[10-11]、整理潜力测算[12]、空心化与资源环境效应等[13-14]。研究尺度也开始从宏观转向微观[15]。由于乡村居民点的空间分布形态是乡村地域人地关系综合作用的结果[16]。不同地域的居民点受地形特征、自然条件、经济条件等因素的影响，使得居民点的空间分布呈现多样性，而居民点景观斑块的类型、大小、形状和数量即是各种因素相互作用的结果，又是影响该区域生态过程的关键所在[17]。当前,学者们对居民点空间研究总体归纳为三个方面的研究：一是不同地貌类型下的居民点空间分布形态研究，如谭雪兰等分别对丘陵、苏中平原、黄土沟壑等地的居民点空间分布进行了分析[18-19]；二是运用不同方法对农村居民点的空间特征的分析，如钟紫玲等运用景观格局指数、Voronoi图及GIS空间分析等方法分析了居民点空间分布特征[20-21]；三是基于不同视角研究农村居民点空间特征，如李贺颖等从居民纯收入及农户兼业角度分析居民点空间分布形态[22-23]。总结相关研究发现，不少学者基于多角度多尺度对居民点空间特征及影响因素展开不同地域的研究，其中不乏对干旱地区和干旱区内陆河的研究，但很少有将河西走廊作为独特单元整体研究的成果。
+
+河西走廊绿洲城镇与乡村居民点是居民与周围自然环境(大漠、绿洲、戈壁）、经济社会、文化环境相互作用的现象与结果。绿洲作为主要的生态景观，是居民生产、生活的载体，乡村聚落的存在与发展受到水土资源的强烈约束，特别是在有限的水土资源的约束下，绿洲决定着乡村聚落的规模与承载力[24]。但随着国家“一带一路”战略推动以及西部大开发的持续深入，资源要素的快速集聚导致城镇化的快速发展，致使土地利用类型和结构发生显著变化，“人一地”关系矛盾更加突出，人地关系适应性改变，而河西走廊城镇化的发展与绿洲规模的耦合关系是影响“人一地”关系的一个重要因素[25]，因此，本研究将河西走廊作为独立的研究单元，采用GIS与RS空间分析与景观指数相结合的方法，分析城乡居民点的空间规模分异特征与形态结构，并将城乡居民点置于绿洲生态环境的大背景下，首次提出了绿洲居民点孕育指数，用于探讨绿洲型居民点与区域生态空间协调发展的关系，并对河西走廊居民点进行系统聚类分析，以期为绿洲新型城镇化发展与乡村振兴提供一定参考。
+
+# 1 研究区概况
+
+河西走廊位于甘肃省境内，行政范围介于$9 0 ^ { \circ } 1 1 ^ { \prime } \sim 1 0 1 ^ { \circ } 2 9 ^ { \prime } \mathrm { ~ E ~ } , 3 7 ^ { \circ } 1 4 ^ { \prime } \sim 4 2 ^ { \circ } 1 5 ^ { \prime } \mathrm { ~ N ~ } _ { \cdot }$ ,地处祁连山与走廊北山之间，东起乌鞘岭，西至古玉门关。区域包括武威、金昌、张掖、酒泉、嘉峪关5个地级市，共20 个县级行政单元，总面积为 $2 7 . 6 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，约占甘肃省面积的 $60 \%$ 。年平均气温约 $4 \sim 1 0 \ \mathrm { { ^ { \circ } C } }$ ，年降水量在 $2 0 0 ~ \mathrm { m m }$ 左右，且多集中在 $7 \sim 9$ 月，呈现出自东向西减少的趋势，属典型的大陆性干旱气候。河西走廊分属石羊河水系、黑河水系、疏勒河水系3大内流盆地[26],在山地周围,形成相互毗连的山前倾斜平原,在较大的河流下流，分布着冲积平原，是河西走廊绿洲的主要分布地区，居民点一般都分布在绿洲的内部或边缘（图1）。
+
+96°E 100°E  
+2 NΛ 4瓜州县敦煌市肃北县 玉门市峪关金塔县  
+N 哈萨克族县 酒泉市高台县 N  
+1.68 临泽县 68肃南县张掖市民乐县山丹县 金昌市 民勤县永晶县武威市县城驻地 河流 古浪县  
+N.98 铁路行政区河西走廊绿 0 80 10自 N.9896°E 100°E
+
+# 2 数据来源与方法
+
+# 2.1 数据来源
+
+研究所需的数据来源于：（1)2016年河西走廊绿洲和居民点的矢量数据基于GoogleEarth目视解译得到，通过ArcGIS软件将 $\mathbf { k m l }$ 格式的数据转成矢量数据。并将所得到矢量数据的WGS84的地理坐标系转换成墨卡托投影，以便后续的空间统计与计算。(2)选取甘肃乡镇区划图对其进行配准，矢量化和标注，得到甘肃乡镇矢量图，并从中提取得到河西走廊乡镇矢量数据。
+
+# 2.2 研究方法
+
+（1）景观格局指数。景观格局指数是指能够高度浓缩景观格局信息，反映其结构组成以及空间配置的定量指标[27]。研究主要从斑块要素、斑块特征水平、景观异质性水平这两方面选取指标(表1），其目的主要探测居民点斑块的形状、离散程度和斑块面积的差异性。研究采用 $5 \ \mathrm { k m } \times 5 \ \mathrm { k m }$ 的正方形网格划分研究区，与居民点进行叠置分析，统计计算各个网格内的景观格局指标值。
+
+（2）趋势面分析。趋势面分析是模拟地理要素在空间上的分布及变化趋势的一种数学方法，研究采用趋势面模型用于分析绿洲居民点数量和面积空间分异特征，其模型构建如下：
+
+设 $Z _ { \mathrm { i } } \left( x _ { i } , y _ { i } \right) \left( i = 1 , 2 \cdots , n \right)$ 是地理要素的实际观测值， $( x _ { i } , y _ { i } )$ 为平面坐标值,则有：
+
+$$
+Z _ { \mathrm { i } } \left( x _ { i } , y _ { i } \right) = \hat { Z } _ { \mathrm { i } } \left( x _ { i } , y _ { i } \right) + \varepsilon _ { \mathrm { i } }
+$$
+
+$$
+\begin{array} { r } { \hat { Z } _ { \mathrm { i } } \big ( x _ { i } , y _ { i } \big ) = a _ { 0 } + a _ { 1 } x + a _ { 2 } y + a _ { 3 } x ^ { 2 } + a _ { 4 } y ^ { 2 } + a _ { 5 } x y } \end{array}
+$$
+
+表1河西走廊绿洲居民点景观格局指数  
+Tab.1 Landscape pattern index of oasis settlements in Hexi corridor   
+
+<html><body><table><tr><td>景观格局指数</td><td>公式</td><td>描述</td></tr><tr><td>平均斑块形状指数 (Mean Shape Index,MSI)</td><td>MSI=∑(0.25Pi/√a)/N</td><td>Pi为斑块的周长,ai为斑块的面积,N为斑块 数,该指数用于表示斑块的形状,值越接近于</td></tr><tr><td>平均分维数 （Mean Patch Fractal Dimension,</td><td>2ln(0.25Pi) MPFD=∑ /N</td><td>1,斑块形状越趋近于正方形。 Pi为居民点图斑的周长，ai为居民点图斑的面</td></tr><tr><td>MPFD)</td><td>Inai</td><td>积,值介于1~2,用于表示斑块结构的不规则 程度，值越大，斑块形状越复杂。</td></tr><tr><td>斑块结合度指数 (Patch Cohesion Index,COHESION) COHESION</td><td>(100）</td><td>Pi为斑块i的周长，ai为斑块i的面积,z为 斑块的数量,斑块结合度用来表示斑块的连接</td></tr><tr><td>斑块大小标准差</td><td>[ai-4]</td><td>性,值越大，居民点斑块间的内聚力就越强。 PSSD 为斑块面积标准差,ai为单一斑块面积，</td></tr></table></body></html>
+
+式中： $\hat { Z } _ { \mathrm { i } } ( x _ { i } , y _ { i } )$ 表示趋势函数； $a _ { 0 } , a _ { 1 } \cdots , a _ { 5 }$ ，表示函数中变量的系数； $a _ { 0 }$ 是常数项； $\boldsymbol { \varepsilon } _ { i }$ 表示实际观测值与趋势值的偏差。
+
+（3）核密度分析。核密度分析被用来分析居民点的空间集聚特征，其运算原理是以样本点为中心产生圆形邻域，在圆心位置，密度值最高，随着圆形邻域半径的逐渐增大，密度值逐渐减小，直到圆形领域的半径等于搜索半径时,密度值为零[28]。本研究运用ArcGIS10.2首先将居民点的地理坐标转成投影坐标，然后将核密度分析中的输出栅格像元大小设置为 $8 0 0 \mathrm { ~ m ~ }$ ,搜索半径设置为 $6 ~ 0 0 0 ~ \mathrm { ~ m ~ }$ ,得到居民点空间分布图。
+
+（4）绿洲居民点孕育指数。对干旱区绿洲城市而言，绿洲如同“婴儿的胎盘”是居民生产、生活与生态汲取营养重要空间，绿洲规模大小直接决定着所孕育的城乡居民点规模。运用绿洲居民点孕育指数可以进一步探讨城乡发展与绿洲规模之间的相互关系，即城乡发展对绿洲的胁迫，空间挤压和影响，以及绿洲规模对城乡发展的反馈作用（促进或抑制）。因此，本研究拟提出“绿洲居民点孕育指数$( R )$ 的概念，即绿洲居民点面积（OasisResident Are-$_ { \mathrm { ~ a ~ } , O R A } )$ 与所在城乡绿洲面积（OasisArea, $O A$ )之比。
+
+$$
+R = \frac { O R A } { O A }
+$$
+
+式中： $R$ 表示绿洲居民点孕育指数； $O R A$ 表示绿洲城乡居民点面积； $O A$ 表示市/县所在的绿洲面积
+
+# 3 结果分析
+
+# 3.1绿洲城乡居民点空间分异特征
+
+研究基于GoogleEarth目视解译分别提取了绿洲与城乡居民点斑块。提取到的绿洲斑块共1099个， $> 5 \ \mathrm { k m } ^ { 2 }$ 的绿洲斑块有126个， $> 1 0 \ \mathrm { k m } ^ { 2 }$ 的绿洲斑块有91个。提取出城乡斑块有21773个，用地规模超过 $1 ~ \mathrm { k m } ^ { 2 }$ 的居民点斑块有220个，超过10$ { \mathrm { k m } } ^ { 2 }$ 的斑块仅有6个，用地规模在 $0 \sim 1 ~ \mathrm { k m } ^ { 2 }$ 的居民点斑块占到 $9 9 . 8 \%$ ,可见河西走廊干旱地区居民点的规模普遍较小。为了进一步探究河西走廊绿洲居民点总体趋势变化，借助趋势面分析模型，对河西走廊乡镇单元内的居民点数量和面积进行分析。将乡镇单元内的居民点数量和面积作为高度属性值（ $Z$ 值)，通过拟合生成三维透视图（图2）。如图可知绿洲居民点的数量在空间上呈现出西高东低的态势，面积则表现出相反的格局，表明河西走廊以西居民点分布以高密度散点型分布为主，河西走廊以东以低密度团簇型分布为主。南北方向上居民点的数量在空间上呈现北多南少的格局，面积则同样呈现出相反法的特征，是因为铁路干线、G312国道线贯穿全境，带动了沿线城市的发展，吸引了更多的居民点聚集在城市周围，导致河西走廊中部以南居民点面积较大。另外，河西走廊居民点的斑块数量和斑块面积呈现出一定的负相关关系，其Person相关系数为-0.119，且在0.01水平上显著，表明居民点的分布存在着高密度小规模集聚分布和低密度大规模集聚分布的干旱区独特规律。
+
+为了探究绿洲居民点的规模分异特征，研究选用斑块面积和斑块数量来表征网格内斑块的用地规模，用核密度分析和热点分析表征河西走廊绿洲不同区域内居民点的分布状态。城乡居民点的用地规模(图3)显示：(1)居民点的用地规模普遍较小，平均规模仅为 $0 . 0 5 \ \mathrm { k m } ^ { 2 }$ ,用地规模较大的城乡居民点（大于 $9 . 2 1 \ \mathrm { k m } ^ { 2 }$ )主要集中于凉州区、民勤县、金川区、甘州区、肃州区和嘉峪关市的市区周围。（2）由于城市对居民点具有吸引和辐射带动作用，斑块规模呈现距离衰减规律，即离大城市越近，斑块密度越大，景观越破碎。
+
+研究采用“热点”探测工具分析居民点的空间分布，以斑块面积为属性值制作河西走廊城乡居民点的“热点”分布图，图4a中每个点代表居民点斑块的质心，数值上代表“热点”分析的 $Z$ 得分，黑色区域为“热点”区，代表居民点分布的高值集聚，浅灰色区域为“冷点”区，代表居民点分布的低值集聚，深灰色为居民点规模的随机分布区。可以看出，热点区基本分布于凉州区、民勤县和永昌县的平原地区，以及民乐县、甘州区、肃州区和嘉峪关市的城市核心区周围，冷点区基本分布于山丹县的南部、甘州区的西部和南部，肃州区的北部与东部以及金塔县、玉门市、瓜州县和敦煌市等地，城乡居民点的分布自东向西变化显著，山丹县以东主要是居民点分布的热点区，山丹县以西主要是居民点分布的冷点区。图4b表征河西走廊居民点的集聚度，其特征如下：(1)由于河西走廊城乡居民点的分布受石羊河、黑河和疏勒河三大内陆河的影响，居民点的空间分布呈现出明显的沿河流走向的态势。依据核密度分析发现，城乡居民点的集聚度由内向外在逐渐递减，表明居民点的空间分布具有明显的亲水性特征。(2)凉州区居民点的密度等级最高，以居民点密度为1.7\~3.8个· $\mathrm { k m } ^ { - 2 }$ 聚落的面积所占比例和居民点密度为 $0 . 9 3 \sim 1 . 7$ 个： $\mathrm { k m } ^ { - 2 }$ 聚落的面积所占的比例为主，占整个凉州区居民点分布面积的一半以上。居民点密度等级仅次于凉州区的甘州区，聚集度出现两个峰值，且位于甘州区的南部,并向外围呈不规则形状散开，乡村聚落规模扩展迅速，沿着黑河干流和铁路与临泽县连在一起，形成大面积的乡村聚居地，但是可以看出，居民点的集聚度不高。集聚度规模最小的肃州区，以 $1 . 7 \sim 3 . 8$ 个： $\mathrm { k m } ^ { - 2 }$ 聚落的面积所占的比例仅出现在肃州区的西北街街道、东北街街道、西南街街道、东南街街道、新城街道和玉门油田生活基地街道。从图中进一步可以看出，敦煌市、金塔县、山丹县、古浪县和民勤县的居民点密度以 $0 . 9 3 \sim 1 . 7$ 个· $\mathrm { k m } ^ { - 2 }$ 聚落面积所占比例为集聚度最高值，且规模非常小，可见居民点的规模发展非常小，主要是受周围荒漠和戈壁滩的影响，居民地的分布和发展受到了极大的限制。以 $0 . 4 6 \sim$ 0.93个· $\mathrm { k m } ^ { - 2 }$ 聚落面积所占比例为集聚度最高的瓜州县、玉门市、嘉峪关市、民乐县和金川区，由于河网密度低，交通不便利等因素的影响，居民点聚集程度相对较低。
+
+![](images/085b12948433ab281a74bd1a28114a994dc3bf39391ff7065fbe005b267015d6.jpg)  
+Fig.2Trends map in the number and area of oasis settlements in 2016
+
+![](images/7318aa111aebecd68c78254443760fc32b9fa4260091c5407be38175cd0f5960.jpg)  
+图22016年绿洲居民点数量和面积趋势图  
+图3河西走廊绿洲居民点面积与数量分布图  
+Fig.3Distribution of area and quantity of oasis settlements in Hexi Corridor
+
+# 3.2绿洲居民点形态分布特征
+
+选取斑块平均形状指数(MSI)、斑块平均分维数（MPFD）、斑块结合度（COHESION）、斑块大小标准差(PSSD)共4个指标测度河西走廊居民点斑块的空间形态分布特征。其中以MSI、MPFD表征斑块自身的形态特征，以COHESION、PSSD表征居民点斑块的整体形态特征。研究发现（图5）：（1)基于网格斑块平均形状指数和平均分维数空间分异特征显著，且具有很强的正相关性，其Person相关系数为0.864，在0.01水平上显著。斑块平均形状指数值介于 $1 . 0 8 9 \sim 5 . 0 9 9$ 之间，其中值小于2的居民点占 $6 0 . 1 8 \%$ ,表明河西走廊居民点的形态结构复杂性整体上较低。同样平均斑块分维数的值整体也相对较低，其值介于 $1 . 0 0 0 \sim 1 . 2 2 3$ 之间，普遍接近于1，是因为居民点斑块本质上是人类活动强烈改造自然的结果。（2）乡村聚落平均形状指数高于1.92，平均分维数高于1.062的区域主要位于金塔县以及高台县和肃南县的交接处，该区域乡村聚落形状较复杂，不规则且空间破碎，自然分布态势较强。乡村聚落多沿河道伸展是导致居民点多呈条带型分布主要原因。(3)凉州区南部、民勤县北部、东部、金川区西北部乡村聚落平均形状指数和平均分维数较低,表明该区域乡村聚落形状较简单、规则，分布较为规整，破碎化程度小。区域海拔和坡度相对较小,地势平坦,河网密度大,聚居地相对集中，是该区域形成了聚落规模小，小团状分布聚落较多的主要原因。
+
+![](images/226b6f10f6f19839e10d968af308ef310250412493eca390783709afe21936b5.jpg)  
+Fig.4Hotspot distribution and spatial agglomeration map of urban and rural settlements
+
+![](images/ed46c7035d2065f0377b797757b3fc2cd888da877dac3bbbaec6d32163df8827.jpg)  
+图4城乡居民点热点分布与空间集聚分布图  
+图5城乡居民点斑块的形态结构分布图  
+Fig.5Patch structure distribution map of urban and rural settlements
+
+斑块结合度(COHESION)反映了居民点斑块间的连接性，斑块大小标准差(PSSD)反映了聚落斑块之间的差异性。图6a发现，绿洲城乡居民点的斑块结合度自东向西变化较大，金昌市、民勤县、凉州区、古浪县、高台县以及民乐县的聚集度指数分布在$9 8 . 8 8 \sim 9 9 . 3 4 \$ 的高值区间，城乡居民点具有较好的聚集性和稳定性。肃州区、玉门市、金塔县、瓜州县和敦煌市的结合度指数波动幅度较大，且高值多集中于城市周围，表明该区域的乡村聚落连接程度低，稳定性差。图6b发现，PSSD值呈现出由内向外逐渐递减的态势，在离绿洲城市核心区越近的地方斑块面积的差异性越大，远离城市核心区的地方斑块面积的差异性越小，且多位于绿洲边缘地带，由于研究区斑块大小标准差主要以低值分布为主，而其高值呈零星团状分布在绿洲城市核心区周边，通过斑块密度图(图3b)可以看出，离城市越近，居民点斑块的破碎度越高，由此可见，河西走廊各个城市并没有形成大范围的城市区域，因而城市对周边居民点的辐射带动作用不强。
+
+# 3.3绿洲居民点孕育指数
+
+由于河西走廊其独特的地理区位，生态空间的保护对于城乡建设与生态协调发展至关重要，而绿洲作为居民生产生活的重要场所，进一步探究绿洲规模与城乡居民点规模之间的关系有助于绿洲人居空间的优化。因此，研究依据不同城乡所在绿洲面积的大小将其分为小规模、较小规模、中等规模、较大规模和大规模5个等级，并基于这5个方面，提出居民点绿洲孕育指数，基于该指数对各个县域进行定量化分析。图7显示：（1）绿洲小规模分布的区域有嘉峪关市、肃北县和肃南县，其中嘉峪关市绿洲孕育指数最高，值为 $2 5 . 8 5 \%$ ，肃南县的绿洲居民点孕育指数最低，仅为 $0 . 6 9 \%$ ,可见嘉峪关市的“人一地”关系矛盾最为突出，生态环境相比其他区域更加脆弱，城乡发展受到了极大程度限制。（2）由于绿洲型城乡建设对所在的绿洲环境会有不同程度的影响，而绿洲规模较小分布的区域，如金川区和敦煌市，受周围戈壁滩的影响，城乡发展对绿洲胁迫和空间挤压的程度更加突出，其中居民点空间分布众多，绿洲孕育指数为 $1 4 . 5 9 \%$ ，仅次于嘉峪关市的金川区，绿洲孕育生态环境较为脆弱，城乡发展受到一定程度的限制。(3)绿洲规模中等分布的区域，如金塔县、古浪县和临泽县，绿洲孕育指数分别为$3 . 9 3 \%$ ? $8 . 9 3 \%$ 和 $4 . 1 7 \%$ ，其中古浪县居民点分布多而导致了绿洲孕育指数高，而金塔县与临泽县所在的绿洲分布的居民点较少，绿洲孕育程度强.有利于城乡一体化建设与发展。(4)绿洲规模较大分布的区域，如瓜州县、肃州区、玉门市和山丹县，绿洲孕育指数分别为 $1 . 8 7 \% . 6 . 5 3 \% , 1 . 9 9 \% . 2 . 8 6 \%$ ，均低于 $10 \%$ 。其中瓜州县和玉门市的周围虽被戈壁滩包围，但其分布的人口较少，对绿洲空间的压迫较小，可见这些区域城乡建设与生态环境之间能够协调发展。（5)绿洲大规模分布的凉州区、民勤县和甘州区，绿洲孕育指数分别为9. $57 \%$ ，6. $8 8 \%$ ，$6 . 0 9 \%$ ，虽然这些区域分布的居民点众多，但其绿洲腹地空间宽广，城乡发展对绿洲空间胁迫较小，绿洲孕育生态环境良好，有利于城乡发展。
+
+![](images/e7d301fe7ac4c77035489c7eaab39c7c9c7e6cddce127218a10ffb8f3a73f95c.jpg)  
+图6城乡居民点整体形态结构分布图  
+Fig.6Whole structure distribution map of urban and rural settlements
+
+![](images/ce6af5efbbdf3e5a4fec6b276f2291e09ae8ae9b59ed88538ea69cbf36d4aa8b.jpg)  
+图7绿洲居民点孕育指数 Fig.7“R”index of oasis settlements
+
+# 3.4乡村聚落类型的划分
+
+河西走廊地处西北干旱区，独特的地理位置和气候环境，加之居民点受交通、河流水源等因素影响，区域内居民点类型多样。为了分类引导发展，本文依据居民点空间图谱特征，将城乡居民点的属性数据(斑块数量、斑块面积。平均形状指数、平均分维数、聚集度、斑块大小标准差）导入SPSS，将城乡居民点(聚落)特征分为5个类型(表2）。高密度散点型主要分布在河西走廊西部的敦煌市、瓜州县、玉门市以及肃州区清水镇等区域，该类型居民点密度高,用地规模小,聚落之间的连接性和稳定性较差;高密度小团块型主要分布于甘州区的中部与南部以及凉州区的中部与南部等区域，该类型的居民点受城市“吸引”作用，景观破碎化程度高，多分布于城市核心区周围,呈不规则小块状，且居民点形态比较规整，易形成规模较大的乡村聚落，聚落之间的的连接性和稳定性较好；中密度条带型主要分布于金塔县、高台县骆驼城乡以及肃南县明花乡，该类型居民点多分布于河流和道路两侧,形成狭长条带状格局，聚落用地规模小，呈自然分布态势强；中密度小团块型主要分布于肃州区、临泽县、高台县中部等较为平坦的区域，该类型居民点空间分布稀疏，景观破碎化程度小，居民点斑块面积之间的差异性小，形态结构规整，稳定性强;低密度团簇型主要分布于古浪县、凉州区的黄羊镇等地，该类型的居民点用地规模大，空间分布稀疏，聚落形态稳定，斑块之间的连接性强，较易形成大规模的乡村聚居地。
+
+表2河西走廊居民点地域类型及特征  
+Tab.2Regional types and characteristics of settlements in Hexi Corridor   
+
+<html><body><table><tr><td>类型</td><td>高密度散点型</td><td>高密度小团块型</td><td>中密度条带型</td><td>中密度小团块型</td><td>低密度团簇型</td></tr><tr><td>分布 范围</td><td>主要分布于敦煌市、瓜 州、玉门以及肃州区清</td><td>主要分布于甘州区与凉 州区的中部和南部</td><td>主要分布于金塔县,高 肃南县明花乡</td><td>主要分布于肃州区、临 台县骆驼城乡、新坝乡、泽县、高台县的中部等 绿洲平坦区域</td><td>主要分布于古浪县、凉 州区河东乡、谢河镇和 黄羊镇等区域</td></tr><tr><td>形态 特征</td><td>水镇和西洞镇南部 乡村居民点的密度高， 用地规模小,聚落的连 接性和稳定性较差</td><td>性和稳定性较好</td><td>居民点多呈不规则小块受河流和道路影响，分 状，形态较规整，易形成布于河流和道路两侧， 较大规模居民点，连接多为条带型,规模小呈 自然分布态势强</td><td>居民点空间分布稀疏， 景观破碎化程度小，形 态较规整，稳定性强，斑 块之间的差异性小</td><td>居民点空间分布稀疏， 密度小,用地规模大，聚 落形态稳定，较易形成 大规模的聚居地</td></tr><tr><td>图谱</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 4结论
+
+河西走廊绿洲腹地是城镇、乡村居民点的重要生态空间，绿洲规模与居民点空间分布之间相互联系，相互影响。探究绿洲居民点的空间分异特征以及绿洲空间与居民点集聚程度之间的关系对于改善绿洲生态空间，优化居民点空间布局具有非常重要的意义。因此，本文运用GIS空间分析、景观格局指数和绿洲居民点孕育指数对河西走廊城乡居民点的规模、形态结构及居民点与绿洲生态空间协调发展的关系等方面进行了深入的分析，并运用系统聚类法，对研究区的聚落类型进行了划分，以期通过分类引导城乡居民点的空间发展方向。本文主要得出以下结论：
+
+（1）河西走廊绿洲居民点的用地规模和密度空间分异特征显著。密度呈“西高东低，南多北少”的特征,用地规模则呈现出相反的格局,表明居民点以高密度小规模分布和低密度大规模分布为主，且居民点的密度以城市中心为核心，呈距离衰减规律，居民点用地规模则普遍偏小,平均规模仅为 $0 . 0 5 \ \mathrm { k m } ^ { 2 }$ 。（2）用地规模大于 $9 . 2 1 \ \mathrm { k m } ^ { 2 }$ 居民点，主要集中于凉州区和肃州区等城市核心区，且由于居民点的分布受三大内陆河的影响，其分布呈现出明显的沿河流走向的态势。通过核密度与热点探测发现，城乡居民点的集聚度由城市中心向边缘逐渐递减，且张掖市山丹县以西地区主要是乡村聚落分布的冷点区，山丹县以东地区主要是乡村聚落分布的热点区。（3）居民点自身形态结构分析表明，形状复杂程度和破碎度较高的区域主要位于瓜州县的西部、玉门市、金塔县以及高台县和肃南县的交接处，形状较为规则,破碎度较小的区域主要集中在凉州区南部、民勤县东北部、金川区西北部。绿洲居民点整体形态结构分析表明，居民点斑块结合度变化显著，居民点之间的连接性与稳定性自东向西在逐渐减弱；斑块面积的差异性由内向外呈逐渐递减的态势，且离城市核心区越近，斑块面积之间的差异性越大，离城市核心区越远，斑块面积的差异性就越小，且斑块面积差异性较大的居民点主要分布于城市核心区周围。
+
+（4）绿洲居民点孕育指数分析发现，绿洲孕育指数为 $2 5 . 8 5 \%$ 的嘉峪关市，人地关系矛盾最为突出，绿洲孕育生态环境也最为脆弱，城乡发展受到极大限制。绿洲规模在 $4 3 5 . 7 9 \sim 1 \ 3 4 6 . 8 9 \ \mathrm { k m } ^ { 2 }$ 区间内且受周围戈壁滩影响的敦煌市、瓜州县、玉门市以及金昌市，城市发展都会对绿洲空间有所胁迫和空间挤压，但因各个城市分布的人口数不同，对绿洲空间的挤压程度也会有所不同，其中金昌市对绿洲的胁迫最为突出。绿洲规模在1501.73～2105.85$ { \mathrm { k m } } ^ { 2 }$ 区间内分布的凉州区、民勤县和甘州区所在的绿洲腹地空间宽广，区域生态环境和谐，有利于城乡的发展。最后，通过系统聚类将河西走廊划分为高密度散点型与低密度团簇型等五大类型，从而以此为依据对绿洲城乡居民点进行分类发展引导。
+
+# 参考文献(References）
+
+[1]杨忍,刘彦随,龙花楼,等.基于格网的农村居民点用地时空特 征及空间指向性的地理要素识别一—以环渤海地区为例[J]. 地理研究,2015,34(6）:1077-1087.[YANG Ren,LIU Yansui, LONG Hualou,et al. Spatial-temporal characteristics of rural residential land use change and spatial directivity identification based on grid in the Bohai Rim in China［J].Geographical Research, 2015,34(6) :1077 -1087.]   
+[2]LONG HL.Land consolidation: An indispensable way of spatial restructuring in rural China[J]. Journal of Geographical Sciences, 2014,24(2):211 - 225.   
+[3］金其铭.我国农村聚落地理研究历史及近今趋向[J].地理学 报,1988,43(4）:311-317.[JIN Qiming.The history and current trends of research on rural settlement geography in China[J].Acta Geographica Sinica,1988,43(4）:311 -317.]   
+[4]ZHOU G,YANHUA HE,TANG C,et al.Dynamic mechanism and present situation of rural setlement evolution in China[J]. Journal of Geographical Sciences,2013,23(3）:513 -524.   
+[5]谭雪兰.农村居民点空间布局演变研究：以长沙市为例[D]. 长沙：湖南农业大学,2011.［TAN Xuelan,Study on space distribution evolution of rural setlement;A case study of Changsha [D]. Changsha: Hunan Agriculture University,2011.]   
+[6]杨振,雷军,英成龙.新疆县域城镇化的综合测度及空间分异 格局分析[J].干旱区地理,2017,40（1)：230-237.［YANG Zhen,LEI Jun,YING Chenlong. Comprehensive measurement and spatial differentiation pattern analysis of the county urbanization in Xinjiang[J].Arid Land Geography,2017,40(1）:230 -237.]   
+[7］冯佰香,李加林,何改丽,等.农村居民点时空变化特征及驱动 力分析—以宁波市北仑区为例[J].生态学杂志,2018,37 (2）:523-533.[FENG Baixiang,LI Jialin,HE Gaili,etal.Spatial-temporal changes and driving forces of rural settlements:A case study of Beilun District,Ningbo[J].Journal of Ecology,2018,37 (2):523-533.]   
+[8］马小娥,白永平,纪学朋,等.干旱区内陆河流域农村居民点空 间格局及分异[J].水土保持研究，2018，25（2）：281－287.
+
+[MA Xiaoe,BAI Yongping,JI Xuepeng,et al. Spatial pattern and difference of rural settlements in the inland river basin of arid region[J].Research of Soil And Water Conservation,2O18,25（2）： 281 -287.]
+
+[9] YUZ,XIAO L,CHEN X,et al. Spatial restructuring and land consolidation of urban-rural settlement in mountainous areas based on ecological niche perspective[J]. Journal of Geographical Sciences, 2018,28(2):131-151.
+
+[10]TIAN G,QIAO Z,GAO X.Rural settlement land dynamic modes and policy implications in Beijing metropolitan region,China[J]. Habitat International,2014,44(44）:237-246.
+
+[11］师满江，颌耀文，曹琦.干旱区绿洲农村居民点景观格局演变及机制分析[J].地理研究，2016，35（4）：692-702.［SHIMan-jiang,XIE Yaowen,CAO Qi,The landscape evolution and mecha-nism analysis of rural settlements in the oasis of arid region[J].Geographical Research,2016,35（4） :692-702.]
+
+[12］曲衍波，张凤荣，宋伟，等.农村居民点整理潜力综合修正与测 算：以北京市平谷区为例[J].地理学报，2012，67（4)：490- 503.[QU Yanbo,ZHANG Fengrong,SONGWei,etal.Integrated correction and calculation of rural residential consolidation potential:Acase study of Pinggu District,Beijing[J].Acta Geography Sinica,2012,67(4):490-503.]
+
+[13］龙花楼,李裕瑞,刘彦随.中国空心化村庄演化特征及其动力 机制[J].地理学报,2009,64（10）：1203-1213.[LONGHualou,LIYurui,LIUYanrui.Analysisof evaluative characteristicsand their driving mechanism of hollowing villages in China［J].Acta Geographica Sinica,2009,64（10）:1203-1213.]
+
+[14]CRECENTER,ALVAREZ C,FRA U.Economic,social and environmental impact of land consolidation in Galicia［J].Land Use Policy,2002,19(2) :135-147.
+
+[15］张佰林，张凤荣，周建，等.农村居民点功能演变的微尺度分 析——山东省沂水县核桃园村的实证[J].地理科学，2015,35 （10）：1272-1279.［ZHANG Bailin,ZHANGFenrong,ZHOU Jian,et al.Functional evolution of rural settement based on microperspective:A case study of Hetaoyuan Village in Yishui County, Shandong Province[J].Scientia Geographica Sinica,2015,35 (10):1272-1279.]
+
+[16］王福海，周启刚，陈丹，等.低山丘陵区农村居民点复垦与新建对农村居民点空间分布形态的影响[J].水土保持研究,2016，23（3）:144-149.[WANGFuhai,ZHOUQigang,CHEN Dan,etal.Influences of reclamation and new construction rural settlementspatial distribution pattern in the low mountain hilly area[J].Re-search of Soil andWater Conservation,2016,23(3）:144-149.][17］蒙吉军，吴秀芹.河西走廊中西段肃州区景观空间格局研究[J].干旱区地理，2004，27（2）：179-185.［MENGJijun，WUXiuqin.Research on the landscape spatial pattern of Suzhou in themiddle western Hexi Corridor[J].Arid Land Geography,2004,27(2):179 -185.]
+
+[18］谭雪兰，刘卓，贺艳华，等.江南丘陵区农村居民点地域分异特征及类型划分——以长沙市为例[J].地理研究，2015，34(11）:2144-2154.[TANXuelan,LIUZhuo,HE Yanhua,et al.
+
+Regional differentiation and type division of rural settlements to south of Yangtse River:A case study of Changsha[J].Geographical Research,2015,34(11） :2144-2154.]
+
+[19］吴冲，张雯，向远林，等.分形视角下的陕北黄土高原沟壑区城乡居民点分布特征研究——以无定河流域为例[J].干旱区地理,2017,40（6）：1307-1316.［WU Chong,ZHANGWen,XIANG Yuanlin,et al.Distribution of rural settlements in the LoessPlateau of Northern Province from the perspective of fractal theory :A case of the Wuding River Basin[J].Arid Land Geography,2017,40(6):1307 -1316.]
+
+[20］钟紫玲，王占岐，李伟松.基于Voronoi图与景观指数法的山区 农村居民点空间分布特征及其影响因素[J].水土保持研究， 2014,21(2）:211-216.[ZHONG Ziling,WANG Zhanqi,LI Weisong.Spatial distribution characteristics and affecting factors of rural residential land in the mountainous area based on Voronoi and landscape indices[J].Research of Soil and Water Conservation, 2014,21(2):211-216.]
+
+[21］龙英,舒晓波，李秀娟，等.江西省安福县农村居民点空间分布变化及其环境因素分析[J].水土保持研究，2012，19（5）：171-18O.[LONG Ying,SHU Xiaobo,LI Xiujuan,et al.Analysison spatial distribution and changes of rural residential areas and itsenvironmental factors in Anfu County of Jiangxi Province[J].Re-search of Soil and Water Conservation,2012,19(5）:171-180.][22］李贺颖，王艳慧.贫困县村级居民点空间分布离散度与农村居民纯收入关联格局分析[J].地理研究，2014，33（9）：1617-1628.[LI Heying,WANG Yanhui.Discrete degree on village set-tlement's spatial distribution and its correlation with net income ofruralresidents in poverty county［J].Geographical Research,2014,33(9):1617-1628.]
+
+[23］王成，王利平，李晓庆.农户后顾生计来源及其居民点整合研 究——基于重庆市西部郊区白林村471户农户调查[J].地理 学报,2011,66(8）:1141-1152.[WANG Cheng,WANG Liping, LI Xiaoqing.The source of the forward-security of farmers’livelihood and settlement integration:Based on the survey of 477 farmers in Bailin Village,west suburbs of Chongqing[J].Acta Geographica Sinica,2011,66(8):1141-1152.]
+
+[24］丁文晖,孟宝.绿洲水资源与绿洲城镇化的关系探讨——以西北地区为例[J].内蒙古师范大学学报（自然科学版），2005，34(4）:502-505.[DING Wenhui,MENG Bao.A study on interac-tion between oasis water resource and oasis urbanization：Takingexample of Northwest Region[J]. Journal of Inner Mongolia Nor-mal University（Natural Science Edition）,2Oo5,34（4）:502-505.]
+
+[25］马利邦，田亚亚,郭晓东，等.基于格网的河西绿洲乡村聚落时 空演变及其与水土资源的空间耦合关系［J].自然资源学， 2018,33（5）:775-787.[MA Libang,TIANYaya,GUO Xiaodong,et al. Spatial-temporal change of rural settlements and its spatial coupling relationship with water and soil resources based on grid in the Hexi Oasis[J]. Journal of Natural Resources,2O18,33 (5):775-787.]
+
+[26」聂晓英，石培基，吕蕊，等.河西走廊绿洲型城镇空间相互作用 时空演变[J].经济地理,2016,36(7）:76-83.[NIE Xiaoying, SHI Peiji,LYU Rui,et al.The Spatio-temporal evolvement of spatial interaction among oasis urban of Hexi Corridor[J].Economic Geography,2016,36（7） :76-83.]
+
+[27」张秋菊，傅伯杰，陈利顶.关于景观格局演变研究的几个问题[J].地理科学,2003,23(3）:264-270.[ZHANGQiuju,FUBo-jie，CHENLiding.Several problemsabout landscape patternchange research[J].Scientia Geographica Sinica,2OO3,23（3）：264 -270.]
+
+[28］刘焱序，王仰麟,彭建,等.城郊聚落景观的集聚特征分析方法 选择研究[J].地理科学,2015,35(6）:674-682.[LIUYanxu， WANG Yanglin,PENG Jian,et al.Selection of different clustering algorithms for settlement landscape aggregation in suburb[J].ScientiaGeographica Sinica,2015,35(6）:674-682.]
+
+# Spatial differentiation characteristics and oasis breed degree of urban and rural residents in Hexi Corridor
+
+ZHOU Liang1,²， ZHU Yan-ru’， SUN Dong-qi² (1Faculty of Geomatics，Lanzhou Jiaotong University,Lanzhou 73oo7O,Gansu,China ; 2Institute of Geographic Sciences and Natural Resources Research,CAS,Beijing 1Oo101,China; 3China Institute of Water Resources and Hydropower Research,Beijing lOoo44,China)
+
+Abstract：Oasis and rural settlements are thecore of human production,living and ecology in the arid regions of Northwest China.Exploring the relationship between oasis andsetlements is important for new urbanization constructionand rural revitalization inarid regions.Therefore,the paper takes the Hexi Corrdor asa research area, which is located in Gansu Province,China.Inthis paper,thedataof setlements andoases isderived fromthe visual interpretation of Google earth,and uses the GIS spatial analysis,landscape pattern index and hierarchicalclustering method tosystematicaly analyze the spatial scale,morphological structure and type characteristics of the urban and rural settlements in the Hexi Corridor in 2016.Under the background of ecological environment,the oasis breeding index of settlements inthe arid area was first proposed to analyze theoasis breeding degree.The results are shown as follows:（1）The scale differenceof rural and urban setlements isobvious,showing the larger the pattern scaleof distribution is,thesmalerthe proportionof patches is,andhigh-densitydistributionofsmall patchesand low-densitylarge-scale distributionofdiferent characteristics,andthescaleof residentialland isgenerallysmall,withanaverage size of only $0 . 0 5 \ \mathrm { k m } ^ { 2 }$ ,and the density and agglomeration of settlements are both declining with the core of the city,and Hot spotdetection foundthattheeastof Shandan Countyis the hotspotregionof the spatial distribution of settlements.（2）The analysis of the morphological structure of setlements shows thatthe connectivityand stability of rural settlements gradually weaken from east to west,and the area diferentiation of setlements is gradually reduced from the“center-edge”of the city,the mean shape index and mean patch fractal dimension of the settlements in Guazhou County,Yumen Cityand Jinta County are highly coupled,and the patch shape iscomplex,the natural distribution is strong.（3）Theoasis ecologicalenvironment in Jiayuguan City is themost vulnerable,theurban and rural development is greatly restricted.However,the oasis hinterland ofLiangzhou District,Minqin County and Ganzhou District has a wide space,which is conducive to urban and rural development.
+
+Key words:settlement；spatial scale；morphological structure；oasis breeding index；Hexi Corridor

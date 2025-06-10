@@ -1,0 +1,190 @@
+# 重组Humicolainsolens角质酶的高密度发酵优化
+
+黄燕 $^ { \mathrm { a , b , c } }$ ，孙益荣 $^ { \mathrm { a , b , c } }$ ，吴敬 $^ { \mathrm { a , b , c } }$ ，宿玲恰 $\mathrm { a , b , c ^ { * } }$ a（江南大学，食品科学与技术国家重点实验室，江苏无锡，214122)b（江南大学，生物工程学院工业生物技术教育部重点实验室，江苏无锡，214122）c（江南大学，教育部食品安全国际合作联合实验室，江苏 无锡，214122）
+
+摘要：在采用前期已构建的重组菌 $E . c o l i ~ \mathrm { B L 2 1 ( D E 3 ) / p E T 2 0 b ( + ) }$ -hic 进行高密度发酵制备角质酶时发现，在高诱导强度发酵时，菌体浓度下降明显。同时，通过测定纯化重组角质酶的磷脂水解活性，考察验证了重组酶对宿主细胞的损伤作用。重组酶的磷脂酰乙醇胺活性为 $9 . 8 ~ \mathrm { U \cdot m g ^ { - 1 } }$ （NPB水解比活力为1047.6$\mathrm { U } { \cdot } \mathrm { m g } ^ { - 1 }$ )，在卵黄平板出现了明显的反应圈现象。在此基础上，本研究又尝试了高菌体浓度结合高诱导强度的发酵策略，以进一步提高重组酶在3-L罐中的表达水平。优化后的最佳条件及结果为： $\mathrm { O D } _ { 6 0 0 }$ 为75时，恒速流加 $0 . 8 \ \mathrm { g \cdot L \cdot h ^ { - 1 } }$ 的乳糖溶液，发酵 $2 4 \mathrm { h }$ 后，酶活达到最大值 $4 7 8 8 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，约为摇瓶发酵酶活的28倍，与 $\mathrm { \Gamma _ { O D _ { 6 0 0 } } }$ 为50时、流加 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 进行诱导的发酵策略（酶活 $2 2 3 3 . 0 \mathrm { U } \mathrm { \cdot m L } ^ { - 1 }$ ）相比，提高幅度约为$1 1 4 . 0 \%$ ，发酵时间缩短 $4 0 . 0 \%$ 。
+
+关键词：Humicolainsolens；角质酶；磷脂酶活性；高密度发酵
+
+# Optimization of high density fermentation of recombinant Humicola insolens Cutinase
+
+Huang Yan $\mathbf { a , b , c }$ ,Sun Yi-rong $\cdot ^ { \mathrm { a , b , c } }$ ,Wu Jing $\mathbf { a , b , c }$ , Su Ling-qiaab.c a (State Key Laboratory of food Science and Technology, Jiangnan University,Wuxi,214122);
+
+b (School ofBiotechnology and Key Laboratory of Industrial Biotechnology MinistryofEducation,Jiangnan
+
+University,Wuxi,214122);
+
+c (JointLaboratory for International Cooperation inFood Safetybythe MinistryofEducation,Jiangnan University
+
+Wuxi, 214122)
+
+Abstract: During the high-density fermentation of cutinase using E.coli BL21(DE3)/pET2Ob(+)-hic,it was found that the concentration of bacteria decreased obviously under high induction intensity fermentation.The phospholipid activity of the purified recombinant cutinase was determined in order to verify the effect of recombinant enzyme on $E . c o l i$ .The phosphatidyl ethanolamine activity of the recombinant enzyme was $9 . 8 ~ \mathrm { U { \cdot m g ^ { - 1 } } }$ (the specific activity of NPB hydrolysis was $1 0 4 7 . 6 \mathrm { U } { \cdot } \mathrm { m g } ^ { - 1 }$ ).Then, the strategy of high cell concentration and high induction intensity was used to further improve the expression level of recombinant enzyme in 3-L fermentor.The optimizing fermentation conditions was: the induce phases started when the cell concentration $\mathrm { O D } _ { 6 0 0 }$ reached 75 and the temperature was adjusted to $3 0 \mathrm { ~ \textdegree C }$ ,lactose solution were added with constant flow rate of $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ for $2 4 \mathrm { h }$ .The highest activity of enzyme reached $4 7 8 8 . 0 \ \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ,which is 28 times higher than the enzyme activity in shake flask. Comparing with other fermentation strategy which induced at $\mathrm { O D } _ { 6 0 0 }$ of 50 with $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ lactose solution with enzyme activity $2 2 3 3 . 0 ~ \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，the enzyme activity increased about $1 1 4 . 0 \%$ and the fermentation time was shortened by $4 0 . 0 \%$
+
+Keywords:Humicola insolens; Cutinase;Phospholipase activity; High density fermentation
+
+角质酶(EC3.1.1.74)属于一种多功能水解酶，对短链或长链脂肪酸酯、甘油三酯以及植物来源的多聚体角质都具有水解作用，在纺织品加工领域、食品领域、化工合成领域、洗涤剂领域以及环保和新能源领域等有很大的潜在利用价值[1-3]。目前角质酶的主要来源有花粉和微生物，其中微生物来源常见的又包括致病真菌、部分细菌和少数放线菌等[4]。早期关于角质酶的研究集中在植物病原真菌Fusarium solani pisi[5]、Pyrenopeziza brassicael来源的角质酶上，后续又有报道发现放线菌 Thermobifida fusca[7]、Streptomycesacidiscabies[8]和细菌 Pseudomonas putida[]来源的角质酶。其中，真菌来源的角质酶，一般具有较低的最适温度，约为30-40℃，在高温下热稳定性差；细菌来源的角质酶，最适温度比真菌来源的要高，为 $5 0 – 6 0 \ \mathrm { ~ \textdegree ~ }$ 。此外，T.fusca角质酶是国内外首次被破译的耐热角质酶基因来源，最适温度为 $6 0 \mathrm { ~ \textdegree ~ }$ ，并且能够在此温度下长时间保持稳定[7]，而特异腐质霉（Humicola insolens）角质酶较T.fusca 有更良好的耐热性，在其最适温度80℃时，介于棉纤维表层的蜡质会因高温融化，有利于角质酶与角质的结合。因此，H.insolens 角质酶具有更好的应用前景。
+
+目前，国外对角质酶的研究主要集中在筛选定性、解析晶体结构以及工程菌株构建等方面，对优化发酵条件、提高角质酶产量的研究较少。Calado、Piod、Macedo 等先后在摇瓶发酵水平及3-L 发酵罐水平上对角质酶的表达进行了优化，但是所得角质酶产量仍旧较低[10-1]。国内关于角质酶的制备发酵研究主要集中在T.fusca、F.solani pisi等来源。其中，何刚强等[12]利用短链有机酸作为碳源，发酵生产T.fusca 角质酶，获得的角质酶酶活最高值为 ${ 5 1 . 0 ~ \mathrm { U } { \cdot } \mathrm { m L } ^ { - 1 } }$ ；刘志国等通过基因敲除、共表达伴侣蛋白、TIR简并突变等方式，提高T.fusca 角质酶的胞外表达量，最高胞外酶产量为 $8 0 . 0 ~ \mathrm { U } \cdot \mathrm { m } \mathrm { L } ^ { - 1 }$ 。张瑶、郭森[2]等构建了T.fusca 角质酶纤维素结构域(CBM)融合蛋白，通过培养基优化、更换分泌途径等方法，获得最高酶活 $4 9 2 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ；宿玲恰等[13]对T.fusca 3-L 罐发酵进一步优化，获得的最高酶活为 $2 2 5 8 . 5 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，蛋白表达量可达 ${ 5 . 1 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } }$ 。针对F.solani pisi来源的角质酶，张芙华等[14,15]将其在 Bacillus subtilis WSHB06-07 中重组表达，通过 pH两阶段控制和温度两阶段控制的发酵策略，最高酶活为 $3 1 2 . 5 \ \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ；陈晟等7在上述研究的基础上，探讨了流加补料对发酵生产Fsolanipisi角质酶的影响，酶活最高可达 ${ 5 4 5 . 9 \mathrm { U } { \cdot } \mathrm { m L } ^ { - 1 } }$ 。
+
+本试验拟采用实验室前期已构建的胞外分泌型表达角质酶的重组菌 $E . c o l i ~ { \mathrm { B L 2 1 } } ( { \mathrm { D E 3 } } ) / { \mathrm { p E T 2 0 b } } ( + ) \cdot$ hic在3L发酵罐的水平上进行高密度发酵培养条件优化，为H.insolens 角质酶在工业中的应用及后续的研究提供依据。
+
+# 1 材料与方法
+
+# 1.1材料
+
+# 1.1.1 菌株与培养基
+
+重组菌 E.coli BL21(DE3)/pET20b $( + )$ -hic 由本研究室前期构建。
+
+抗生素 Ampicilln 购自上海捷瑞生物科技有限公司；酵母提取物、胰蛋白脉购自OXOID 公司;工业酵母浸粉购自安琪酵母股份有限公司；工业蛋白陈购自于山东西王集团；甘油、葡萄糖及其他常见试剂均购自国药。
+
+LB培养基（ $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } ,$ ：蛋白脉10.0，酵母粉5.0，NaC110.0。
+
+TB 培养基（ $\cdot \mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } )$ ：甘油5.0，蛋白陈12.0，酵母粉24.0， $\mathrm { K H _ { 2 } P O _ { 4 } } 2 . 3$ ， $\mathrm { K } _ { 2 } \mathrm { H P O } _ { 4 } { \cdot } 3 \mathrm { H } _ { 2 } \mathrm { O }$ 16.4。
+
+微量元素液： $\mathrm { { A l } _ { 2 } ( S O _ { 4 } ) _ { 3 } \cdot 1 8 H _ { 2 } O \ }$ 2.0, CoSO4:7HO 0.75, $\mathrm { H } _ { 3 } \mathrm { B O } _ { 3 } 0 . 5$ ,MnSO4:7H2O 24.0, $\mathrm { N a } _ { 2 } \mathrm { M o O } _ { 4 } \ 3 . 0$ ，$\mathrm { N i S O _ { 4 } } { \bullet } \mathrm { G H _ { 2 } O } \ 3 . 0$ ， $\mathrm { Z n S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 1 . 0 }$ 。
+
+3L 罐发酵培养基（ $\cdot \mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } )$ ：工业蛋白肺 2.4，工业酵母粉4.8， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ 1.4，甘油8.0；微量元素液 $1 0 . 0 \mathrm { m L }$ ，采用氨水调节 $\mathrm { p H } 7 . 0$ 。
+
+3L 罐补料培养基：工业级蛋白陈 2.4，工业级酵母粉4.8， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ 18.4，甘油 600.0。
+
+# 1.2培养方法
+
+种子培养；从甘油管中吸取 $1 0 ~ \mu \mathrm { L }$ 菌液接种于 $1 0 \mathrm { m L }$ 含 $1 0 0 \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ 氨苄青霉素的LB液体培养基，
+
+$3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，转速 $2 0 0 \mathrm { r } \cdot \mathrm { m i n } ^ { - 1 }$ ，培养 $8 \mathrm { - } 1 0 \mathrm { h }$ 。
+
+摇瓶发酵：取 $2 . 5 \mathrm { m L }$ 种子发酵液，接种于 $ { 5 0 }  { \mathrm { m L } }$ 含 $1 0 0 \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ 氨苄青霉素的发酵培养基， $3 3 ^ { \circ } \mathrm { C }$ ，转速 $2 0 0 \mathrm { r . m i n ^ { - 1 } }$ ，培养 $4 8 \mathrm { { h } }$ 。
+
+3-L发酵罐扩大培养方法：将保藏的甘油管，以 $2 \%$ 的接种体积分数转接至 $5 0 ~ \mathrm { m L }$ 工业级LB 培养基中，并添加终浓度为 $0 . 1 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 的氨苄青霉素， $3 7 \mathrm { ~ \textdegree ~ } 2 0 0 \mathrm { { r } \cdot \mathrm { { m i n } ^ { - 1 } } }$ 培养 $^ { 8 \mathrm { ~ h ~ } }$ 。取上述种子以 $10 \%$ 的接种体积分数，转接至3发酵罐中。通过仪器维持生长温度 $3 7 \mathrm { ~ \textdegree C }$ 、溶氧 $30 \%$ ，通过补加氨水的方式维持 $\mathrm { p H } 7 . 0$ 。培养 $5 { \cdot } 7 \mathrm { h }$ 后，上罐培养基中的碳源耗尽，溶氧反弹。此后以指数流加的方式向发酵罐中加入补料培养基至发酵结束，比生长速率控制在 $\mathsf { \Pi } \mathsf { \Pi } \mathsf { \Pi } \mathsf { \Pi } ^ { \mathsf { H } = 0 . 1 8 \mathrm { \ : h } ^ { - 1 } }$ 。补料阶段 $6 { - } 8 \mathrm { h }$ ，在菌体生长至特定菌体浓度 $\left( \mathrm { O D } _ { 6 0 0 } \right)$ 后进入乳糖诱导阶段，恒速流加不同浓度乳糖溶液。诱导后，间隔一定时间取样，测定样品的菌体浓度 $\mathrm { \langle O D _ { 6 0 0 } \rangle }$ 和酶活，当酶活出现下降趋势后结束发酵。
+
+# 1.3分析方法
+
+# 1.3.1蛋白纯化方法
+
+重组菌的发酵液经离心取上清分离得到粗酶液，再经 $40 \%$ 硫酸铵沉淀，透析，最后得到酶液，使用 MonoQ阴离子交换柱进行纯化蛋白，洗脱方式采用线性洗脱，洗脱流速为 $1 . 0 \ \mathrm { m L \cdot m i n ^ { - 1 } }$ ，用 $1 . 5 ~ \mathrm { m L }$ 的收集管进行收集纯化后的样品。本实验使用Bradford法进行测定蛋白含量。
+
+# 1.3.2酶活力测定方法
+
+pNPB水解酶活性：在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下，使用连续分光光度法测定酶活力。反应总体积为 $1 . 5 ~ \mathrm { m L }$ ，包括$3 0 \mu \mathrm { L } 5 0 \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 对硝基苯丁酸酯（pNPB)的底物， $3 0 \mu \mathrm { L }$ 酶液和 $1 4 4 0 \mu \mathrm { L }$ Tris-HC1缓冲液（ $\mathrm { \cdot p H } 8 . 0 \$ 。在 $4 0 5 \mathrm { n m }$ 波长下，记录对硝基酚的增长速率，反应时间 $1 \mathrm { m i n }$ 。
+
+酶活定义： $3 7 \mathrm { ~ \textdegree C }$ 下，每分钟将对硝基苯丁酸酯（pNPB）催化水解生成 $1 \mu \mathrm { m o l }$ 对硝基酚的酶量，即为一个酶活力单位（U)。
+
+# 1.3.3磷脂酶活性测定
+
+硼砂卵黄平板的配方及定性：配制硼砂卵黄平板 $\mathrm { ( N a C l 0 . 6 6 \% }$ ， $\mathrm { H _ { 3 } B O _ { 3 } } 1 . 0 9 \%$ ，卵黄乳液 $2 . 0 \%$ $\mathrm { N a _ { 2 } B _ { 4 } O _ { 7 } { \cdot } 1 0 H _ { 2 } O 0 . 1 9 \% }$ ，琼脂粉 $1 . 5 \%$ ，调 $\mathrm { p H } 7 . 2 – 7 . 4 )$ 。取大小合适的塑料环置于平板上，加入一定量的酶液，尽量避免酶液扩散，并以灭活处理后酶作为对照组。将平板放于 $3 7 \ { ^ { \circ } C }$ 培养箱中静置反应8-12h，取下塑料环，观察卵黄反应圈初步定性磷脂酶活性。
+
+磷脂酰乙醇胺底物溶液配置：称量 $\mathrm { ~ 1 ~ g ~ }$ 磷脂酰乙醇胺为底物，加入 $5 0 \mathrm { m L } 2 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { p H } 8 . 5$ 的磷酸缓冲液，后加入质量浓度比 $0 . 5 \%$ 的表面活性剂Triton X-100，超声溶解。
+
+重组角质酶磷脂水解活性检测：取 $1 0 ~ \mathrm { m L }$ 配置好的底物溶液，加入一定量的重组角质酶酶液，于 $8 0 ^ { \circ } \mathrm { C }$ 下反应 $5 \mathrm { m i n }$ ，加入 $1 5 \mathrm { m L 9 5 \% C _ { 2 } H _ { 5 } O H }$ 终止反应。以包含 $1 0 ~ \mathrm { m L }$ 底物溶液及 $1 5 \mathrm { \ m L 9 5 \% 7 }$ 醇的样品作为空白对照组。加入适量酚酞溶液，用浓度为 $0 . 0 1 \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 的 NaOH溶液滴定生成的脂肪酸量。
+
+酶活定义：在 $8 0 ~ ^ { \circ } \mathrm { C }$ 条件下，每分钟催化磷脂酰乙醇胺分解生成 $1 \mathrm { \ : \mu m o l }$ 脂肪酸所需的酶量为一个酶活力单位。
+
+# 2结果与分析
+
+2.1诱导强度对重组菌高密度发酵的影响
+
+鉴于乳糖诱导强度对表达目的蛋白有重要影响，因此，通过调节诱导剂乳糖的流加速度的方式，对诱导强度进行优化。在菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 达到50后，降温至 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，分别以0.1、0.2和 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 的流加速率，恒速流加乳糖溶液进行诱导，测定发酵各时间段的菌体生物量和酶活。实验结果如图1所示。
+
+当乳糖流速为 $0 . 1 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，重组菌 $E .$ coliBL21(DE3)/pET-20b $( + )$ -hic的菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 达最高值为109。随着乳糖流加速率增加，菌体生物量呈逐渐下降的趋势，当乳糖流速设定 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，重组菌菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 最高值仅为72，是流加速率为 $0 . 1 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的 $66 \%$ 。在一定范围内，随着乳糖流加速率的增加，重组角质酶酶活不断增加，但当乳糖流加速率超过一定值，重组酶的酶活开始下降。当乳糖流加速率为 $0 . 1 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，重组角质酶酶活为 $1 7 3 1 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ 。当乳糖流加速率为0.2$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } { \cdot } \mathbf { h } ^ { - 1 }$ 时，酶活达到最高值 $2 2 3 3 . 0 \mathrm { U } \mathrm { \cdot m L ^ { - 1 } }$ ，约为乳糖流加速率 $0 . 1 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的1.3倍；乳糖流加速率为 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，重组酶酶活在诱导 $^ { 8 \mathrm { { h } } }$ 后就开始下降，最高值仅为 $1 5 6 2 . 0 \ \mathrm { U } { \cdot } \mathrm { m L } ^ { - 1 }$ ，是三种诱导浓度下的最低值。其中，乳糖流加速率为 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的胞外上清液蛋白质电泳分析如图2所示，随着发酵时间的延长，蛋白表达量逐渐增多。
+
+参考吴世雄等[16]对嗜酸热硫化叶菌来源的麦芽糖基海藻糖水解酶(MTHase)和麦芽糖基海藻糖合成酶(MTSase)在大肠杆菌中重组表达并发酵优化后的结果表明，这两种酶在 $0 . 4 ~ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 的诱导强度下，发酵 $3 5 \mathrm { h }$ 后菌体量出现下降，菌体浓度最高点约为 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 诱导强度下的 $80 \%$ ；张悦等[17]对嗜热栖热菌来源的海藻糖合酶的发酵优化结果表明，发酵 $2 2 \mathrm { h }$ 左右菌体量即开始下降，但是菌体浓度最高点仍有 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 诱导强度下的 $7 7 \%$ 。而重组后的 $H .$ insolens角质酶，在 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 诱导强度下，发酵 $2 2 \mathrm { h }$ 后菌体量即开始下降，并且菌体浓度最大值仅为 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 下的 $6 3 . 6 \%$ 。因此，除诱导强度对菌体代谢产生的压力一方面因素外，造成重组菌在 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 诱导强度下的菌体浓度明显较低的原因，还可能与重组角质酶自身的活性有关。
+
+![](images/9f727a79e7ed77c2ba2c1ae97959d4a96f468933ddf74963b351a4f69acffdae.jpg)  
+图1在 $\mathbf { O D _ { 6 0 0 } }$ 为50 条件下诱导强度对重组菌生长(a）和产酶(b)的影响 Fig.1Effectof induced intensityon $\mathbf { O D _ { 6 0 0 } }$ (a)and cutinase production (b) of recombinant bacteria under $\mathbf { O D 6 0 0 5 0 }$ conditions
+
+![](images/b01498c4d0d2cbeb15deac80bfd97f593bc35f9fc2f2fca62495f710e3e951d5.jpg)  
+图2在 $\mathbf { O D _ { 6 0 0 } 5 0 }$ 乳糖流速 $\mathbf { 0 . 2 \ g { \cdot } L ^ { - 1 } { \cdot } h ^ { - 1 } }$ 诱导条件下发酵上清液 SDS-PAGE分析M:蛋白质分子标准(中)；1：发酵 $\mathbf { 1 4 h }$ ；2:发酵18h;3:发酵 $2 2 \textbf { h }$ ·4:发酵 $\pmb { 2 6 } \mathbf { h }$ ：5：发酵 $\mathbf { 3 0 ~ h }$ ；6：发酵 $\mathbf { 3 6 \ h }$ ：箭头所指处为重组表达的角质酶
+
+Fig.2 SDS-PAGE analysis of fermentation supernatant under the condition of lactose flow rate of $\mathbf { 0 . 2 \ g { \cdot } L ^ { - 1 } { \cdot } h ^ { - 1 } }$ at $\mathbf { O D _ { 6 0 0 } }$ 50 M:Marker (meidum);1:Fermentation $\mathbf { 1 4 h }$ ；2:Fermentation $\mathbf { 1 8 \ h }$ ；3:Fermentation $2 2 \mathrm { ~ h ~ }$ 4:Fermentation $\bf { 2 6 } \lambda \mathrm { h }$ ；5:Fermentation $\mathbf { 3 0 h }$ ；6:Fermentation ${ \mathfrak { 3 6 } } \mathbf { h }$ ；The arrowhead refers to recombinant Cutinase
+
+2.2角质酶对重组菌生长产生不良影响的原因分析
+
+# 2.2.1重组角质酶的分离纯化
+
+为探究2.1关于角质酶自身活性对发酵菌体浓度的影响，本研究对重组酶进行了纯化。利用SDS-PAGE 对所得纯酶液的蛋白纯度进行表征，结果如图3所示。纯化后的重组酶蛋白条带单一，蛋白纯度符合后续实验要求。纯化重组角质酶的比活力为 $1 0 4 7 . 6 \mathrm { U } { \cdot } \mathrm { m g } ^ { - 1 }$ 。重组角质酶纯化各阶段的比活力及得率如表1所示。
+
+![](images/272009fbe602cb7ea7690bb63291696a6e30c53d5a9c3f8b66584662bba6d2c4.jpg)  
+图3纯化的重组角质酶SDS-PAGE凝胶电泳分析
+
+M:蛋白质分子标准(中)；1：重组酶蛋白SDS-PAGE分析；箭头所指处为重组表达的角质酶Fig.3 SDS-PAGE analysis of purified enzymesM:Markers (Meidium);1:Recombinant protein SDS-PAGE analysis;The arrowhead refers to recombinant Cutinase
+
+表1重组角质酶的纯化工艺  
+
+<html><body><table><tr><td colspan="6">Table1 Purification process of recombinant cutinase</td></tr><tr><td>纯化步骤</td><td>总蛋白含量 (mg)</td><td>总酶活 (U)</td><td>比活力(Umg1)</td><td>得率 (%)</td><td>纯化倍数 (倍)</td></tr><tr><td>粗酶液</td><td>5.65</td><td>4.42×10^3</td><td>7.83×10^2</td><td>100</td><td>1.00</td></tr><tr><td>硫酸铵沉淀</td><td>2.46</td><td>2.20×10^3</td><td>8.94×10^2</td><td>49.7</td><td>1.14</td></tr><tr><td>MonoQ阴离子交换柱</td><td>0.89</td><td>9.41×10^2</td><td>1.05×10^3</td><td>21.2</td><td>1.33</td></tr></table></body></html>
+
+# 2.2.2重组角质酶的磷脂水解活性测定
+
+大肠杆菌作为革兰氏阴性菌，具有双层细胞膜结构，内膜的主要成分为磷脂和膜蛋白，外膜为非对称膜，内侧主要为磷脂，外侧为脂多糖。角质酶属于酯键水解酶家族，可水解多种酯类底物，包括可溶性酯、不可溶性酯和各类聚酯。依据宿玲恰等[18]的报道，T.fusca来源的角质酶对大肠杆菌细胞膜磷脂有水解活性，在发酵过程中会对宿主菌造成损伤。通过测定重组角质酶的磷脂水解活性，探究引起重组菌发酵过程中生长不良的具体原因。
+
+参照方法1.3.3，以磷脂酰乙醇胺为底物，使用酸碱滴定的方式测得重组角质酶酶液的磷脂乙醇胺活性为 $9 . 7 6 \mathrm { U } { \cdot } \mathrm { m g } ^ { - 1 }$ 。
+
+卵磷脂，即磷脂酰胆碱，是卵黄乳液的主要成分之一。使用由卵黄乳液等原材料配置成的硼砂卵黄平板，可定性检测重组角质酶的磷脂水解活性。以灭活后的重组角质酶酶液为对照组，角质酶的纯酶酶液为样品组。过夜反应后，结果如图4所示。经过样品组重组角质酶酶液处理后的区域，显示出底物水解形成的乳白色晕圈，而对照组及周边未经处理的区域均没有任何区别，表明重组角质酶具有磷脂水解活性。
+
+结合之前实验室发酵过程中菌体浓度较低现象及上述实验的结果表明，由于重组H.insolens 角质酶的磷脂水解活性，其在发酵过程中表达重组蛋白会对宿主菌E.coli造成损伤。因而，在 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 诱导强度下，引起重组菌短时间内即出现菌体量下降，且最大菌体浓度值较低的原因，除诱导强度高这一方面因素外，还与重组酶自身的磷脂水解活性有关。
+
+![](images/0931996176d8e1b4a6baf9076824b52fc339ced61d775f9a71857bce8f5c30db.jpg)  
+图4重组，角质酶的磷脂水解活性检测 (a)灭活后的重组角质酶(b)重组角质酶酶液 Fig.4Thephospholipaseactivityofrecombinantcutinase (a) Inactive recombinant cutinase(b) Recombinant cutinase
+
+2.3 高诱导菌体浓度和高诱导强度的发酵策略对重组菌高密度发酵的影响
+
+由2.1、2.2和2.3的实验结果可知，重组H.insolens 角质酶在发酵表达的过程中，宿主菌 $E$ coli受诱导强度和重组酶磷脂水解活性的影响，随着诱导强度的提高，菌体生长受到明显抑制。但是伴随乳糖流加速率的加快，短期内的相对蛋白表达量显著提高，说明即使在高诱导强度下，重组酶也能够很好的折叠，这种特点为探究新的发酵策略提供了可能。因此，本研究拟选择在高菌体浓度下流加高浓度乳糖溶液进行诱导，以期在一定程度上降低代谢压力和磷脂酶活性对菌体生长的影响，并起到提高重组蛋白表达量、缩短发酵时间的效果。
+
+# 2.3.1菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 为75时的诱导强度优化
+
+在 $\mathrm { O D } _ { 6 0 0 }$ 达到75时，调整诱导温度至 $3 0 \mathrm { ~ \textdegree C }$ ，恒速流加0.4、0.8和 $1 . 2 ~ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 的乳糖溶液进行诱导，测定不同发酵时间点的生物量和重组酶酶活。结果如图5所示。
+
+进入诱导期 $4 { - } 6 \mathrm { h }$ ，各发酵条件下的菌体浓度达到最大值，继续延长诱导时间，菌体浓度出现明显下降。其中，诱导强度为 $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 和 $1 . 2 ~ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，生物量下降尤为明显，诱导 $8 \mathrm { h }$ 后，菌体生物量 $\mathrm { O D } _ { 6 0 0 }$ 降至60以下。
+
+高浓度的乳糖，对重组酶生产有促进作用。乳糖流加速率为 $0 . 8 \ : \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，发酵 $2 6 \mathrm { h }$ ，酶活达到最大值，为 $4 7 7 8 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，约为乳糖流加速率为 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的2.5倍。但是进一步提高诱导强度，即当乳糖流加速率达到 $1 . 2 ~ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，菌体生长受到诱导强度和磷脂酶活性的影响更加明显，发酵周期缩短为 $2 4 \mathrm { h }$ ，最高酶活为 $3 5 8 8 { \mathrm { ~ U } } { \cdot } { \mathrm { m L } } ^ { - 1 }$ ，为乳糖流加速率 $0 . 8 \ : \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的 $7 5 \%$ 。当乳糖流速$0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，胞外上清液 SDS-PAGE 凝胶电泳如图6所示，随发酵时间延长，重组酶酶活提高，角质酶蛋白的特征条带明显变粗，说明正是由于蛋白的积累带来的酶活上升。
+
+当诱导强度较低时，如 $0 . 4 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，虽总发酵时间长达 $2 8 \mathrm { h }$ ，但是酶活很低；而当诱导强度达到 $1 . 2 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \cdot \mathrm { h } ^ { - 1 }$ 时，虽然同发酵时间下的酶活明显增高，但是发酵时间过短。因此，通过平衡诱导强度和发酵时间的关系，确定了当 $\mathrm { O D } _ { 6 0 0 }$ 为75 时进行诱导，最佳诱导强度为 $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 。
+
+![](images/3e4bc14d0d4fab21620b2dbcfc4a54fd86c689ab997e9b30c74a4cd5112864a1.jpg)  
+图5在 $\mathbf { O D _ { 6 0 0 } }$ 为75条件下诱导强度对重组菌生长(a）和产酶(b）的影响Fig.5Effectofinducedtemperatureon $\mathbf { O D _ { 6 0 0 } }$ (a) and cutinase production (b) of recombinant bacteria under $\mathbf { O D _ { 6 0 0 } } ^ { \prime }$ 75
+
+![](images/5298588d7264bf9471d878dc65dc940eafaddcfc6a3173e4fb6ed12bad59f6b0.jpg)  
+图6在 $\mathbf { O D 6 0 0 7 5 }$ ，乳糖流速 $\mathbf { 0 . 8 \ g { \cdot } L ^ { - 1 } { \cdot } h ^ { - 1 } }$ 诱导条件下发酵上清液 SDS-PAGE分析；箭头所指处为重组表达的角质酶M:蛋白质分子标准(中)；1：发酵 $\mathbf { 1 6 \ h }$ ：2：发酵 ${ \bf 2 0 h }$ ；3:发酵24hFig.6 SDS-PAGE analysis of fermentation supernatant under the condition of lactose flow rate of $\mathbf { 0 . 8 \ g { \cdot } L ^ { - 1 } { \cdot } h ^ { - 1 } }$ at OD600 75M:Marker(medium)；1:Fermentation $\mathbf { 1 6 \ h }$ ；2:Fermentation $\bf { 2 0 ~ h }$ ；3:Fermentation $\pmb { 2 4 } \mathbf { h }$ ； The arrowhead refers torecombinant Cutinase
+
+当乳糖流加速率为0.8或 $1 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时，重组酶的酶活力在达到最高点后出现了一定幅度的下降，其原因可能与重组酶蛋白在短时间内大量分泌，而其中部分蛋白没有完全折叠好有关，虽然取样时测得有酶活力，但是一段时间后会自然分解，酶活也会随之下降。为测定发酵液中所得重组蛋白的稳定性，取 $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \mathrm { \cdot h ^ { - 1 } } }$ 诱导强度下，发酵 $2 4 \mathrm { h }$ 的样品，在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下静置 $2 0 \mathrm { d }$ ，测得酶活力为 $4 3 1 3 \ \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，与发酵 $2 6 \mathrm { h }$ 酶活下降后的值相近；对该样品的温度稳定性、 $\mathfrak { p H }$ 稳定性等参数进行测定，测定结果与纯化后的重组酶酶液相近，说明发酵所得重组蛋白结构完整、活性稳定。
+
+# 2.3.2菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 为95诱导时的诱导强度优化
+
+在2.3.1的基础上，进一步提高诱导时的菌体浓度和诱导强度，以期获得更高的重组蛋白表达量、缩短发酵时间。选择在 $\mathrm { O D } _ { 6 0 0 }$ 达到95时，降温至 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，恒速流加0.8、1.2、 $1 . 6 \ : \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } { \cdot } \mathrm { h } ^ { - 1 }$ 的乳糖溶液进行诱导，测定不同发酵时间点的生物量和重组酶酶活。结果如图7所示。
+
+各诱导条件下，在发酵 $2 4 { - } 2 6 \mathrm { h }$ 后，菌体浓度和酶活均最高。其中，诱导强度为 $1 . 2 ~ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 时的酶活最大，为 $2 0 7 7 \mathrm { U } { \cdot } \mathrm { m } \mathrm { L } ^ { - 1 }$ 。
+
+3-L 罐发酵过程中，通过不断流加乳糖溶液和补料培养基的方式，以保持菌体能够长时间处于生长和产酶的状态。当 $\mathrm { O D } _ { 6 0 0 }$ 为95即进行诱导时，重组菌已经进入指数生长的后期，菌体活力不足，菌体浓度的增长速度和异源蛋白的表达能力下降，又受到诱导剂和角质酶磷脂酶活性的影响，发酵时间过短，诱导2h后菌体生物量即开始下降，最终导致重组蛋白积累量较少。故 $\mathrm { O D } _ { 6 0 0 }$ 达到95进行诱导时的酶活，明显低于 $\mathrm { O D } _ { 6 0 0 }$ 为75进行诱导时的酶活。
+
+![](images/cb69cee3201606e686096f97360ba562f39a4d0affd4c1eed88b569c808e349a.jpg)  
+图7在 $\mathbf { O D _ { 6 0 0 } }$ 为95条件下诱导强度对重组菌生长(a)和产酶(b）的影响 Fig.7Effect of induced intensity on $\mathbf { O D _ { 6 0 0 } }$ (a)and cutinase production (b) of recombinant bacteria under $\mathbf { O D _ { 6 0 0 } 9 5 }$
+
+结合高菌体浓度和高诱导强度的发酵策略，对提高重组酶表达量、缩短发酵时间有显著的效果。使用该策略进行发酵，优化后的最佳发酵条件及结果为： $\mathrm { O D } _ { 6 0 0 }$ 为75时，恒速流加 $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 的乳糖溶液，发酵 $2 4 \mathrm { h }$ 后，酶活达到最大值 $4 7 8 8 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ 。与 $\mathrm { O D } _ { 6 0 0 }$ 为50时、流加 $0 . 2 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 进行诱导的发酵策略相比，酶活从 $2 2 3 3 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ 提高至 $4 7 8 8 . 0 \ \mathrm { U \cdot m L ^ { - 1 } }$ ，提高幅度约为 $1 1 4 \%$ ，发酵时间缩短$40 \%$ 。
+
+# 3结论
+
+采取高菌体浓度和高诱导强度的发酵策略，进一步提高了重组酶在3-L罐中的表达水平。最终发酵条件为：在重组菌 $E$ coli BL21(DE3)/pET20b $( + )$ -hic发酵初期，以 $3 7 \mathrm { ~ \textdegree C }$ 培养，菌体浓度 $\mathrm { O D } _ { 6 0 0 }$ 达到75时，降温至 $3 0 \mathrm { ~ \textdegree C }$ ，以流速 $0 . 8 \ \mathrm { g \cdot L ^ { - 1 } \cdot h ^ { - 1 } }$ 恒速流加乳糖溶液进行诱导，诱导 $^ { 8 \mathrm { ~ h ~ } }$ ，总发酵时间 $2 4 \mathrm { h }$ ，发酵全程维持 $\mathrm { p H } 7 . 0$ 。重组酶hic酶活力最高达到 $4 7 7 8 . 0 \mathrm { U } \cdot \mathrm { m L } ^ { - 1 }$ ，约为摇瓶发酵酶活的28倍。
+
+# 参考文献
+
+[1]ChenS,ongX,WoodardWetalentifcatiodharacterzatioofcteralutiase.JoualofologicalC 283(38): 25 854-25 862.   
+[2]李江华，刘龙，陈晟等.角质酶的研究进展，生物工程学报,2009,25(12):1829-1837. LiJH,LLong,Cng,DuGCetaldvacsinutiasereseacheseJoualofotechology,,2(2):-.   
+[3] AndersenBK,BorchK,DamgaadB,etal.Methodoftreating polyesterfabrics.US,WOl99/0604.1999-01-14[2018-0-7]. https://patentscopewi.int/sarch/zdetail.jsfdoId=WO9o64&recNu&maxRec=1&offc&preFl&ortOp tion=&queryString=&tab=PCTBiblio.   
+[4] KolattkudyPE,Maiti IB,PurdyRE.Cutinases from fungi and polln.Methods in Enzymology,1981,71(81): 652-664.   
+[5] Pio TF,Macedo GA.Cutinase productionbyFusarium oxysporum in liquid medium using centralcomposite design.Journalof Industrial Microbiology and Biotechnology,20o8,35(1): 59-67.   
+[6] LiD,AshbyAM,JohnstoneK.Molecular evidence that theextracelular cutinase Pbcl is required for pathogenicityof Pyrenopeziza brassicae on oilseed rape.Molecular plant-microbe interactions $\because$ MPMI,2003,16(6): 545-552.   
+[7] ChenS,TongX,ChenJ,etal.dentificatioandCharacterzationofacterialutinase.JouralofiologicalChemistry8, 283(38): 25854-25862.   
+[8] FettWF,GerardHC,onesLE,etal.CutinaseproductionbyStreptomcsspp.Currenticrobiology992,25(3):6-71.   
+[9] Sebastian J,ChandraAK,KolatukudyPE.Discoveryofacutinase-producing Pseudomonas sp.cohabiting withanapparently nitrogen-fixing Corynebacterium sp.in the phylosphere.Journal of Bacteriology,1987,69(1):131-136.   
+[10] Calado CRC,AlmeidaC,CabralJMS,etal.Developmentofafed-batch cultivation strategyfortheenhanced productionand secretioofcutinase byarecombinant Saccharomyces cerevisiaeSU50strain.Journalofbioscienceandbioengineering,2003,
+
+96(2): 141-148.
+
+[11]FragaLP,CarvaloPO,MacedoGA,ProductionofcutiasebyFusarmoxyspormonBrazilanagriculturalby-productsd enantioselective properties.Food Bioprocess Technol, 2012,5:138-146.   
+[12]何刚强，堵国成，刘立明等．嗜热子囊菌利用短链有机酸生产角质酶，生物工程学报,2008,24(5):821-828. He GQ,Du GC,LiuLM,HeLiu,etal.CutinaseProduction from Short-chainOrganic Acids byThermobifida fusca.Chinese Journal of Biotechnology,2008,24(5): 821-828.   
+[13]SuL,WoodardRW,WuJ,etal.ExtracellarlocatioofermobifidafuscautiaseexpressedinEsherichiacoliD3) without mediationofa signalpeptide[J].Applied and Environmental Microbiology,2013,79(14): 4192-4198.   
+[14]张芙华，陈晟，吴敬等.pH两阶段控制策略发酵生产重组角质酶．中国生物工程杂志,2008,28(5):59-64. ZhangFH,Chen S,Zhang DX,WuJetal.Studies on Two-stagepHControl Strategyof Recombinant CutinaseProduction. China Biotechnology,2008,28(5): 59-64.   
+[15]张芙华，华兆哲，吴敬等．温度两阶段控制策略发酵生产重组角质酶.应用与环境生物学报,2009,15(5):730-733. Zhang FH,Hua ZH,WuJ,etal.EffectofTwo-staged Temperature StrategyonProductionofCutinase with Recombinant Bacills subtilis. Chinese Journal of Applied Environmental Biology,20o9,15(5): 730-733.   
+[16]吴世雄.嗜酸热硫化叶菌 MTSase 和 MTHase 的异源表达及应用.无锡：江南大学,2016. Wu S X.Heterologous expression of Sulfolobus acidocaldarius MTSase and MTHaseand its application.WuXi: Jiangnan University,2016.   
+[17]张悦.嗜热栖热菌海藻糖合酶的表达、分子改造及其应用研究.无锡：江南大学,2015. Zhang YThe studyof expression,molecular modificationand application oftrehalose synthase fromThermus thermophihus. WuXi: Jiangnan University,2015.   
+[18]SuL,XuC,WuJ,etal.AnoveltrategyforeacingextracellarscretioofrecombinantproteisinEscherichaoli.Apl Microbiol Biotechnol, 2013,97(15): 6705-6713.

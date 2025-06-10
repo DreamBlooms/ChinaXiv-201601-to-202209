@@ -1,0 +1,311 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of an AMP-Activated Protein Kinase Inhibitor, Compound C, on Adipogenic Differentiation of 3T3-L1 Cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ye GAO,\" Yi ZHou,ä Aimin Xu,\",b and Donghai Wu\\*,ac aGuangzhou Institute of Biomedicine and Health, Chinese Academyof Sciences，International Business Incubator; Guangzhou SciencePark,Guangzhou510663,China:bDepartmentof Medicine,Universityof Hong Kong;PokFuLam Road,Hong Kong 999o77,China:and‘Department of Biomedicineand Biotechnology，Universityof Scienceand Technology ofChina;Jinzhai Road,Hefei 230026,China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The role of AMP-activated protein kinase (AMPK) in adipocyte differentiation is not completely understood.Here we reported that an AMPK inhibitor,compound C,significantly inhibited adipogenic differentiation of 3T3-L1 cels ina dose dependent manner,and this inhibitoryefect was primarily effective in the initial stage of differentiation. Compound C prevented the mitotic clonal expansion (MCE)of preadipocytes,probably by inhibiting expression of CCAAT/enhancer-binding protein $( \\mathbf { C } / \\mathbf { E } \\mathbf { B } \\mathbf { P } ) \\beta$ and $\\pmb \\delta .$ ,and subsequently blocked the expression ofC/EBP $\\pmb { \\alpha }$ and peroxisome proliferator-activated receptor (PPAR)y and transcriptional activation of genes that produce the adipocyte phenotype.AMPK activity was also suppressed by compound C treatment during the early phase of adipogenic diferentiation,which indicated that suppressed activation of AMPK bycompound C may inhibit the MCE process of preadipocytes.Our results suggest that compound C might serve as a useful molecule in both basic and clinical research on adipogenesis and as apotential lead compound for the treatment of obesity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordscompound C;AMP-activated protein kinase;diferentiation; mitoticclonal expansion; CCAAT/enhancer-binding protein; 3T3-L1 cell ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Obesity is associated with an imbalance between energy intake and expenditure,and develops only when the adipose tissue is overloaded with high-energy nutrients without subsequent expenditure.1） Increases in the number and size of adipocytes,i.e.,enhancedproliferationanddifferentiation of adipocytes,are therefore positively correlated with the gravity of obesity. Differentiation of adipocytes is an apparently orchestrated process that is accompanied by dramatic alteration in the cellular pattern of gene expression and protein synthesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Early in the adipogenic differentiation program preadipocytes undergo mitotic clonal expansion (MCE)，which isa prerequisite for differentiation of preadipocytes into adipocytes.2 MCE is a specific process that differs from proliferation of non-confluent preadipocytes. Treatment with hormonal differentiation inducers causes confluent and growth-arrested 3T3-L1 preadipocytes to reenter the cell cycle synchronously and undergo one or two rounds of cell division and then begin the differentiation program.2 MCE is accompanied by the induction of CCAAT/enhancer-binding protein (C/EBP) $\\beta$ and $\\delta$ .These factors are rapidly expressed upon hormonal induction, however, they only acquire DNAbinding activities after a long lag period as the cells reenter the cell cycle traversing the G1/S checkpoint and initiate MCE.3) As $\\mathrm { C / E B P } \\beta$ and $\\delta$ acquire their DNA binding activities,they transcriptionally activate the $C / E B P \\alpha$ and peroxisome proliferator-activated receptor $( P P A R ) \\gamma$ genes through binding of C/EBP regulatory elements.4.5） The expresson of $\\mathrm { C / E B P } \\alpha$ and $\\mathrm { P P A R } \\gamma$ ，which are both antimitotic,occurs as the cells exit the cell cycle and they are thought to be responsible for terminating MCE.6-8 $r / \\mathrm { E B P } \\alpha$ and $\\mathrm { P P A R } \\gamma$ serve as pleiotropic transcriptional activators that coordinately drive expression of adipocyte-specific genes.Subsequently, in the final stage of differentiation,the differentiated cells express markers characteristic of adipocyte phenotype such as fatty acid synthase (FAS)，acetyl-CoA carboxylase (ACC)，and adipocyte fatty acid binding protein 2 (aP2),along with massive accumulation of triglyceride inside the cells.9) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AMP-activated protein kinase (AMPK） is a key‘fuel gauge’ to maintain the intracellular as well as body energy balance. It stimulates energy-producing processes such as glucose uptake,fatty acid oxidation and glycolysis,and inhibits energy-consuming processes such as lipogenesis, protein synthesis and gluconeogenesis.10—l3） One of the first proteins identified as a target of AMPK was ACC,which is a key enzyme of the lipid biosynthetic pathway.14） In adipocytes,AMPK reversibly phosphorylates and inactivates ACC,and thereby leads to a decreased lipogenic flux and a decreased triglyceride synthesis.15） It has long been suggested that AMPK is involved in the function and development ofadipose tissues,but its exact role on adipocyte differentiation remains to be elucidated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Compound C (6-[4-(2-piperidin-1-yl-etoxy)-phenyl]-3- pyridin-4-yl-pyrrazolo[1,5-a]pyrimidine） isa potent and highly selective inhibitor of AMPK,which did not display significant inhibition of several structurally related kinases including ZAPK,SYK, PKC0, PKA,and JAK3.16 It has been used as an experimental tool to attenuate the effects of an AMPK activator,AICAR (5-aminoimidazole-4-carboxamide 1- $\\beta$ -D-ribofuranoside),such as AICAR-induced ACC phosphorylation and fatty acid oxidation in hepatocytes.16 In addition to inhibiting AMPK activation/phosphorylation, compound C also stimulates the oxidation of long chain fatty acids independently in adipocytes by increasing carnitine palmitoyltransferase-1(CPT1) activity, a rate-limiting step of fatty acid oxidation.17） Here we report a hitherto unrecognized action of compound C,namely,its inhibitory effects on 3T3-L1 adipocyte differentiation. We have examined the effects of compound C on the mitotic clonal expansion of preadipocytes and the expression of some key adipogenic transcription factors,identified the locus of its action in 3T3- L1 differentiation, and explored whether compound C induced inhibition of differentiation was associated with suppression of AMPK activity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell Culture and Differentiation 3T3-L1 preadipocytes were provided by Dr. Chiwai Wong(Guangzhou Institute of Biomedicine and Health,Chinese Academy of Sciences, China),and cultured in Dulbecco's Modified Eagle Medium (DMEM)（GIBCO)with $10 \\%$ fetal bovine serum (FBS) (Hyclone). Two days after reaching confluence (day O),differentiation was induced by incubation of the cells in differentiation medium containing $5 \\mu \\mathrm { g / m l }$ insulin (Sigma), $1 \\mu \\mathrm { u }$ dexamethasone (Sigma),and $0 . 5 \\mathrm { m M }$ isobutylmethylxanthine (Calbiochem).After $\\begin{array} { r } { 2 \\mathrm { d } , } \\end{array}$ the media were replaced with DMEM supplemented with $10 \\%$ FBS and $5 \\mu \\mathrm { g / m l }$ insulin. Cells were subsequently re-fed every $2 \\mathrm { d }$ with DMEM supplemented with $10 \\%$ FBS until day 8. Compound C (Sigma) was dissolved in demethyl sulfoxide(DMSO) for cell culture studies( $2 0 \\mathrm { m M }$ ，stock).For cell proliferation，cells were maintained in differentiation medium with variable concentrations of compound C from day O to day 3 in 6-well plates, and then cell numbers were determined each day. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oil Red O StainingAdipocyte differentiation was monitored by measurement of lipid accumulation through staining of neutral fats and cholesterol esters with Oil Red O (Amresco). Cells were fixed with $10 \\%$ formalin for $5 \\mathrm { { m i n } }$ and incubated in fresh formalin for at least $^ { \\textrm { 1 h } }$ After washing with $60 \\%$ isopropanol, cells were stained for $1 0 \\mathrm { m i n }$ in freshly diluted Oil Red O solution. For quantitative analysis, Oil Red O was eluted by adding isopropanol for $1 0 \\mathrm { m i n }$ . The extracted dye was removed and its optical density was determined at $5 0 0 \\mathrm { n m }$ in a spectrophotometer (Beckman Coulter). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total RNA Extraction, cDNA Synthesis and Quantitative Real-Time Polymerase Chain Reaction (PCR) AnalysisTotal RNA was isolated from 3T3-L1 cells at various times of differentiation using TRIzol Reagent (Invitrogen). First-strand..cDNAsynthesiswasperformedwith SuperscriptTM II Reverse Transcriptase (Invitrogen). Quantification of mRNA levels was measured by using $\\operatorname { S Y B R } ^ { \\mathcal { \\textregistered } }$ Premix Ex TaqTM(TaKaRa) under optimized conditions following the manufacturer'sprotocol. C/EBP $\\alpha _ { \\ast }$ ， $\\mathrm { C / E B P } \\beta$ C/EBPS,PPARγ，preadipocyte factor-1 (Pref-1),FAS and aP2 mRNA levels were estimated, and 18S ribosomal RNA was chosen as the reference gene.All the primers listed in Table 1 were designed from the sequences in the GenBank database utilizing Primer Express 3.0 (Applied Biosystems) and synthesized by Invitrogen in Shanghai. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western Blotting3T3-L1 cells were immediately lysed in ice-cold lysis buffer containing $5 0 \\mathrm { m M }$ Tris, $1 5 0 \\mathrm { m M }$ sodium chloride, $2 \\mathrm { m m }$ ethylene diaminetera acetic acid (EDTA), $1 \\mathrm { m M }$ phenylmethyl sulfonyl fluoride (PMSF), $1 \\%$ NP-40, $1 \\%$ sodium deoxycholate, $0 . 1 \\%$ sodium dodecyl sulfate (SDS), $5 0 \\mathrm { m M }$ sodium fluoride, $1 \\mathrm { m M }$ sodium ortho-vanadate, $1 5 \\mathrm { m M }$ sodium pyrophosphate, $1 0 \\mathrm { m M }$ （ $\\beta$ -glycerophosphate,and a protease inhibitor cocktail tablet (Roche). Samples were resolved on $8 \\%$ SDS-polyacrylamide gel, followed by electrophoretic transfer to a PVDF membrane (Millipore). Primaryantibodies(CellSignaling) againstphospho$\\operatorname { A M P K } \\alpha$ (Thr172), $\\mathbf { A M P K } \\alpha$ ，phospho-ACC (Ser79)，ACC and $\\beta$ -actinwere applied overnight at $4 ^ { \\circ } \\mathrm { C }$ with a dilution of $1 : 1 0 0 0$ . After incubating with the secondary antibody, the membrane was detected using the ECL Western blotting analysis system (Amersham). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5312370e15fe7b3a8c557bdbbbfa6b32c02db06664749408bb172368c2bf8232.jpg",
+        "table_caption": [
+            "Table1.Primers for Quantitative Real-Time PCR Analysis "
+        ],
+        "table_footnote": [
+            "C/EBP:CCAAT/enhancer-binding protein;PPAR:peroxisome proliferator-activated receptor;Pref-1: preadipocyte factor-1; FAS:fatty acid synthase;aP2:adipose P2 protein;18S:18S rRNA;F:forward primer;R:reverse primer.a) Primer sequences are fromK.MacAulay'sarticle[J.Biol.Chem.,280,9509-9518 (2005)]. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene name</td><td>Accession no. (NCBI)</td><td>Primer sequence (5'-3')</td></tr><tr><td>C/EBPα</td><td>BC011118</td><td>F:GTGTGCACGTCTATGCTAAACCA R:GCCGTTAGTGAAGAGTCTCAGTTTG</td></tr><tr><td>C/EBPβ</td><td>NM_009883</td><td>F:GTTTCGGGACTTGATGCAATC R:AACAACCCCGCAGGAACAT</td></tr><tr><td>C/EBPδ</td><td>NM_007679</td><td>F:GATCTGCACGGCCTGTTGTA R:CTCCACTGCCCACCTGTCA</td></tr><tr><td>PPARγ</td><td>NM_011146</td><td>F:CGCTGATGCACTGCCTATGA R:TGCGAGTGGTCTTCCATCAC</td></tr><tr><td>Pref-1</td><td>NM_010052</td><td>F:CTTTCGGCCACAGCACCTAT</td></tr><tr><td>FAS</td><td>NM_007988</td><td>R:TGCACTGCCATGGTTCCTT F:TGGTGGGTTTGGTGAATTGTC</td></tr><tr><td>aP2</td><td>NM_011547</td><td>R:GCTTGTCCTGCTCTAACTGGAAGT F:CCAATGAGCAAGTGGCAAGA</td></tr><tr><td>18sa)</td><td></td><td>R:GATGCCAGGCTCCAGGATAG F:GTAACCCGTTGAACCCCATT R:CCATCCAATCGGTAGTAGCG</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lipid Droplets FormationThe effects of compound C, a known inhibitor of AMPK,on adipogenic differentiation of 3T3-L1 cells were demonstrated by the inhibition of lipid droplets formation in a dose dependent manner. Confluent 3T3-L1 cells were treated with different concentrations of compound C(0.1,1,5,10,15, $2 0 \\mu \\mathrm { M } )$ during the differentiation process.On day8,cells were fixed and stained with Oil Red O. As shown in Fig.1A,accumulation of lipid droplets within the cells was largely reduced by the treatment of compound Ccompared with untreated differentiatedcells and the inhibitory effect was dose dependent. This was also supported by the quantitative spectrophotometric analysis of cellular neutral lipid content,which revealed that cells treated with lower concentrations of compound C (O.1，1，5 μM) showed high levels of lipid staining,whereas cells incubated with $1 0 \\mu \\mathrm { M }$ compound C exhibited markedly reduced staining,and treatment with higher concentrations of compound C such as 15 and $2 0 \\mu \\mathrm { M }$ did not show much staining, suggesting an almost complete inhibition of adipogenesis under these conditions (Fig.1B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Expression of Key Adipogenic Transcription Factors and MarkersThe effects of compound C on the expression of the key adipocyte differentiation markers were then investigated. $\\mathrm { C / E B P } \\alpha$ and PPARγ are two critical markers for early phase of differentiation and are dramatically upregulated within the first two days after induction of adipogenesis,18) while FAS and aP2 are markers for late phase of differentiation and are strongly induced on day 4of differentiation.19) Consistent with the decrease in lipid accumulation, the treatment with compound C markedly reduced the expression ofC/EBP $\\alpha$ ,PPARγ,FAS and aP2 during differentiation(Fig.2A).More specifically, the increase in the expression of these genes during differentiation was greatly inhibited by $1 0 \\mu \\mathrm { u }$ compound C,and treatment using compound C at $1 5 \\mu \\mathrm { M }$ completelyabolished the induction of these marker genes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a5edf37dc5ddbcf6aed6522ae84833aee5e988359047b5a3c57b94ee481bb43.jpg",
+        "img_caption": [
+            "Fig.1．Effect of Compound C on Adipogenic Differentiation in 3T3-L1 Cells (A)Preadipocytes were treated as controls or with different concentrations of compound C $( 0 . 1 { - } 2 0 \\mu \\mathrm { m } )$ during differentiation. On day 8,cells were stained with Oil Red O and photographed.(B) The dye was eluted by adding isopropanol and its optical density was monitored spectrophotometrically at ${ 5 0 0 } \\mathrm { n m }$ Results are the mean $\\pm \\mathrm { S } . \\mathrm { D }$ of four determinations. $^ { * } p { < } 0 . 0 5$ $^ { \\# } p { < } 0 . 0 0 1$ versus differentiated control cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It had been reported that the expression of $\\mathrm { C / E B P } \\alpha$ and PPARγ was mediated by the activity of $\\mathrm { C } / \\mathrm { E B P } \\beta$ and C/EBPδ,5,20) and once activated, $\\mathrm { C / E B P } \\alpha$ and $\\mathrm { P P A R } \\gamma$ crossregulated each other to maintain their levels of gene expression in spite of a reduction in the expression of $\\mathrm { C / E B P } \\beta$ and C/EBP8.21） Whether compound C blocked the induction of $\\mathrm { C / E B P } \\alpha$ and PPARγ by interfering with the expression of $\\mathrm { C / E B P } \\beta$ and $\\mathrm { C / E B P } \\delta$ was therefore examined.3T3-L1 cells were treated with or without $1 5 \\mu \\mathrm { M }$ compound C during the $4 8 \\mathrm { h }$ after initiation of differentiation,and the expression of $\\mathrm { C / E B P } \\beta$ and $\\mathrm { C / E B P } \\delta$ was monitored. It is indicated in Fig. 2B that the level of $\\mathrm { C / E B P } \\beta$ mRNA was detected and peaked as earlyas $2 \\mathrm { h }$ ，and decreased significantlyafter $^ { 8 \\mathrm { h } }$ of differentiation. Compound C inhibited the up-regulation of $\\mathrm { C / E B P } \\beta$ for the initial $^ { 8 \\mathrm { h } }$ of differentiation and thereafter this inhibitory effect disappeared. In contrast, the expression level of $\\mathrm { C / E B P } \\delta$ was constantly lowered by about $50 \\%$ after the first $4 8 \\mathrm { h }$ in cells treated with compound C compared with untreated cells. Therefore,it appears that compound C reduces the expression levels of $\\mathrm { C / E B P } \\beta$ and $\\mathrm { C / E B P } \\delta$ ，subsequently inhibits the induction of C/EBP $\\alpha$ and $\\mathrm { P P A R } \\gamma$ ，and thereby blocks the expression of the adipocyte markers FAS and aP2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mitotic Clonal ExpansionTreatment of growth-arrested 3T3-L1 preadipocytes with differentiation inducers initiates mitotic clonal expansion (MCE） before expression of genes that give rise to the adipocyte phenotype.In order to determine whether compound C affects MCE, the effect of compound C on the hormonal agents induced cell proliferation was investigated.3T3-L1 preadipocytes were induced to differentiate and treated with or without compound C（10 or $1 5 \\mu \\mathrm { M } )$ . Cell numberwas counted on day O through day 3 of differentiation.As seen in Fig.3,the number of untreated preadipocytes increased 3.0-fold from day O to day 3 during differentiation.By contrast, the number of10 or $1 5 \\mu \\mathrm { u }$ compound C treated preadipocytes increased only 2-fold or 1.5- fold by day 3 respectively. These results suggested that compound C dramatically inhibited MCE,which is required for 3T3-L1 preadipocytes to differentiate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Identification of Action Site for Compound CTo examine whether compound C inhibits lipid accumulation during the whole process after triggering adipocyte differentiation, interval treatment experiments were performed next. During differentiation，3T3-L1 cells were incubated with compound C(10 or $1 5 \\mu \\mathrm { M } ,$ )for the duration of days O to 2,2 to 4,or 4 to 8,respectively,and harvested on day 8 for assays.There was no significant inhibitory effect in the cells treated on days 2 to 4 and 4 to 8.Compound C inhibited lipid accumulation most effectively when cells were treated on days O to 2(Fig. 4A). These results indicate that compound C most likely exerts its inhibitory actions in the early stage of adipocyte differentiation,which was further confirmed by the quantitative determination of neutral lipid content.As shown in Fig.4B, cells treated with $1 0 \\mu \\mathrm { M }$ compound C on days O to 2 exhibited a $3 3 . 4 \\%$ decrease in the level of lipid staining as compared to differentiated cells without compound C treatment.The lipid content of cells treated with $1 5 \\mu \\mathrm { M }$ compound C was further reduced to $12 . 4 \\%$ of that in fully differentiatedcells,comparable to that ofundifferentiatedcells.It is noteworthy that cells with compound C added on days O to 2 showed a comparable level of inhibition to the cells with continuous compound C treatment throughout $8 \\mathrm { d }$ period of differentiation process (Fig. 1B).In contrast, there was no significant difference in the absorbance between untreated differentiated cells and cells with compound C treatment on days 2—4 and 4—8 (Fig. 4B).Taken together, our results showed that compound C could effectively inhibit the initial stage of adipocyte differentiation in a dose dependent manner. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the effects of compound C on the initial phase of adipogenic differentiation, the expression pattern of early adipogenic transcription factors and markers includingC/EBP $\\alpha$ ,PPARγ,and preadipocyte factor-1 (Pref-1) was examined.As shown in Fig. 4C,the transcriptions of C/EBP $\\alpha$ and PPARy were dramatically induced within the initial two days after differentiation,and maintained ata high level thereafter. However, for the cells treated with compound C on days O—2，the transcription activations of $\\mathrm { C / E B P } \\alpha$ and PPARy were completely blocked.Pref-1 is a sign of early differentiation and an inhibitor of adipocyte differentiation,which is abundantly expressed in preadipocytes and disappeared in adipocytes.22） As shown in the lower ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8972d832ff7342f4e1a93c83fbee6cc2e4fc92ea648463ef57e702748a697513.jpg",
+        "img_caption": [
+            "'ig.2.Effects of Compound Con the Expression ofKey Adipogenic Markers during Adipocyte Diferentiation (A)3T3-L1 cells were treated with DMSO or compound C(10 or $1 5 \\mu \\mathrm { M }$ during differentiation.Total RNA was isolatedat various times of differentiation,and mRNA levels of key adipogenic markers including $\\mathrm { C / E B P } \\alpha .$ $\\mathrm { P P A R } \\gamma$ ,FASandaP2,wereestimatedbyquantitativereal-timePCR,with18SrRNAas thereferencegene.(B)T3-L1preadipocytes were induced to differentiate and treated with DMSO or $1 5 \\mu \\mathrm { M }$ compound C for 2,8,16,24,36 and $4 8 \\mathrm { h }$ mRNA levels of $\\mathrm { C } / \\mathrm { E B P } \\beta$ and ${ \\mathrm { C / E B P } } \\delta $ were estimated by quantitative real-time PCR,with 18S rRNA as the reference gene.Data are the mean $\\pm \\mathrm { S } . \\mathrm { D }$ .from three independent experiments. $^ { * } p { < } 0 . 0 5$ $^ { \\# } p { < } 0 . 0 0 1$ versus DMSO treated cells on each day or time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2effb70fb13f62a67427756312ed2ac855b23eea2bb9bef58418081854a4f412.jpg",
+        "img_caption": [
+            "Fig.3． Effect of Compound C on Mitotic Clonal Expansion of 3T3-L1 Preadipocytes "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3T3-L1 cells were induced to differentiate with DMSO or in the presence of 10 or $1 5 \\mu \\mathrm { M }$ compound C.On each day from day O to day 3,cells for each treatment were trypsinized and counted for cell number using a hemocytometer. Values are the mean $\\pm \\mathrm { S } . \\mathrm { D }$ .of four determinations. $^ { * } p { < } 0 . 0 5$ $^ { \\# } p { < } 0 . 0 0 1$ versus MSO treated cells on each day. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "panel of Fig. 4C,the expression of Pref-1 was significantly reduced during the period of differentiation,and this downregulation was reversed only when cells were treated with $1 5 \\mu \\mathrm { M }$ compound C on days O—2 period of differentiation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AMPK ActivitySince compound C is a selective inhibitor of AMPK,the inhibition in AMPK activity by compound C during adipogenic differentiation was next investigated. 3T3-L1 cells were treated with various concentrations of compound C(1,10, $2 0 \\mu \\mathrm { u } )$ during differentiation,and on day 8 the levels of expression and phosphorylation of AMPK and its substrate ACC,a well-established cellular indicator of AMPK activation，were examined. As shown in Fig. 5A, treatment with compound C decreased the levels of phosphorylated ACC (p-ACC) and total ACC (t-ACC) dose-dependently,whereas the extent of $\\boldsymbol { \\mathrm { \\tt ~ p } }$ -ACC reductionwasclearly more significant than that of t-ACC,which suggested that the activity of AMPK was inhibited by compound C treatment in a dose dependent manner. However, the levels of phosphorylatedAMPK $\\alpha$ (p-AMPKα) and total AMPK $\\alpha$ (t-AMPK $\\alpha$ ） were not affected by compound C,which is consistent with previous reports that compound C inhibited AMPK kinase activity but not the activity of its upstream kinases,and therefore could only cause a decreased level of phosphorylated ACC but not of AMPK itself.23) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We further examined the effect of compound C on AMPK activity in the early stage of differentiation.As shown in Fig 5B，expression and phosphorylation levels of ACC were gradually increased from day O to day 4 of differentiation, and especially there was a substantial enhancement of pACClevel within the first two days of differentiation when the first round of MCE occurred. However, $1 0 \\mu \\mathrm { u }$ compound C notably inhibited the increase of p-ACC level, which suggested that compound C suppressed AMPK activity during the early phase of adipogenic differentiation. These results indicated that the suppressed activation of AMPK by compound C in the initial phase of differentiation was probably responsible for the inhibitory effect of compound C on adipogenic differentiation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/99da626c54aa696f0693fac228df84472b5c8bd890f2da21a41e60abafdb7953.jpg",
+        "img_caption": [
+            "Fig.4.EffectsfompoundCodipocyeDiretiatiourngtarlytermdatedLteStagsoferetiiooce ",
+            "(A) 3T3-L1 cells were induced to differentiate and compound C (10 or $1 5 \\mu \\mathrm { M } \\mathrm { \\Omega }$ )was added at different intervalsof differentiation,namely,during days Oto2,2to 4,or 4to 8.On da8cellserediddotogadB)Odaseractedstcalsitsdsectrooto ${ 5 0 0 } \\mathrm { n m }$ Results are the mean $\\pm \\mathrm { S } . \\mathrm { D }$ .of four determinations. $^ { * } p { < } 0 . 0 5$ 5 $^ { \\# } p { < } 0 . 0 0 1$ versus untreated differentiated cell of each treatment interval.(C)3T3-L1cells were treated ascontrolor with $1 5 \\mu \\mathrm { M }$ compound C on days 0—2,2—4,or $_ { 4 - 8 }$ ofdiferentiation.ForachtreamentitervaltotalRAasisolatedatarious timesofdiferetiationmRNAlevelsofarlydipogenic markers including $\\mathrm { C / E B P } \\alpha$ ,PPARyand Pref-1were estimatedbyquantitativereal-timePCRwith18SrRNAas thereferencegene.Valuesarethe mean $\\pm \\mathrm { S } . \\mathrm { D }$ from 3 independent experiments. $^ { \\# } p { < } 0 . 0 0 1$ versus control cells on each day. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we investigated the effects of an AMPK inhibitor, compound C,on the differentiation of 3T3- L1 preadipocytes.We observed that compound C significantly inhibited 3T3-L1 differentiation in a dose dependent manner. $\\mathrm { C / E B P } \\alpha$ and $\\mathrm { P P A R } \\gamma$ are two key transcription factors of adipogenesis and lipogenesis,which are active during the early stages of adipocyte differentiation to stimulate the expression of many metabolic genes that produce the adipocyte phenotype.9 We found that compound C significantly inhibited $\\mathrm { C / E B P } \\alpha$ andPPARymRNAlevels induced by differentiation inducers in 3T3-L1 cells,and subsequently led to an attenuated transcription of late adipogenic marker genes such as $F A S$ and $a P 2$ . This could be explained in two ways: compound C inhibited $\\mathrm { C / E B P } \\alpha$ and PPARy directly or suppressed the upstream regulatory molecules. $\\mathrm { C / E B P } \\beta$ and C/EBPδ are the earliest transcription factors induced following exposure of preadipocytes to differentiation medium,24) and activate transcriptionally both $C / E B P \\alpha$ and $P P A R \\gamma$ genes through C/EBP regulatory elements in their proximal promoters.4,5） We showed that compound C reduced the $\\mathrm { C / E B P } \\beta$ and C/EBP& mRNA levels during the first $4 8 \\mathrm { h }$ of 3T3-L1 differentiation,suggesting that the inhibitory effects of compound C on the $\\mathrm { C / E B P } \\alpha$ and PPARy were dependent on the $\\mathrm { C / E B P } \\beta$ and C/EBPδ signal. This mechanism is similar to that of the endogenous adipogenesis inhibitor retinoic acid, which inhibits $\\mathrm { C / E B P } \\beta$ activity.25) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mitotic clonal expansion (MCE) in the immediate early stage of adipogenic differentiation is a prerequisite for terminal differentiation. Tang et al. have shown that $\\mathrm { C / E B P } \\beta$ is required for MCE and adipogenesis.26 When subjected to the same differentiation protocol as 3T3-L1 preadipocytes，a subset of mouse embryo fibroblasts (MEFs) undergoes MCE and adipogenesis;however,MEFs from $\\mathrm { C / E B P } \\beta \\left( - / - \\right)$ mice neither undergo MCE or differentiation into adipocytes when treated with differentiation inducers.26 Although the role of C/EBP& in adipogenesis may be minor compared with $\\mathrm { C / E B P } \\beta$ ，it also stimulates differentiation.27） Therefore,we next investigated the effect of compound C on the MCE process of 3T3-L1 preadipocytes.We found that compound C significantly suppressed cell proliferation of preadipocytes in the early stage of adipogenesis.This result indicated that compound C played an inhibitory role in MCE by regulating the expression of $\\mathrm { C / E B P } \\beta$ and $\\mathrm { C / E B P } \\delta$ in the immediate early stage of differentiation process. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e21ee88ea0345abec6c7b3fdd35c0b2b284bd5b4bb1798a38301c49ab3fc14a8.jpg",
+        "img_caption": [
+            "Fig.5. Effects of Compound C on Expression and Phosphorylation of AMPK $\\alpha$ and ACC ",
+            "(A)3T3-L1 preadipocytes were induced to differentiate as controls or in the presence of compound C with various concentrations(1,10, $2 0 \\mu \\mathrm { M } ,$ ）and proteinswere isolated on day 8.Western blotting analysis for phosphorylated ACC (p-ACC),total ACC (tACC)，AMPK $\\alpha$ phosphorylated on $\\mathrm { T h r } 1 7 2$ (p-AMPKα) and total AMPK $\\alpha$ (t$\\operatorname { A M P K } \\alpha )$ was examined as described in Materials and Methods.(B) 3T3-L1cells were treated with or without $1 0 \\mu \\mathrm { u }$ compound C during differentiation process,and proteins were isolated on day O,day2and day 4of differentiation,respectively.Western blotting analysis for p-ACC and t-ACC was conducted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is possible that the inhibitory effect of compound C on adipogenic differentiation is caused by repression of differentiation,or proliferation,or both.We then investigated whether compound C affected the whole process of adipocyte differentiation. Our results showed that the differentiation of adipocytes was inhibited if compound C was added in the early phase of differentiation (days O—2), but it had no effect on 3T3-L1 differentiation if addedafter day2of differentiation. We also discovered that compound C added during the initial two days of differentiation completely blocked the expression of early adipogenic markers including $\\mathrm { C / E B P } \\alpha$ PPARY,and Pref-1, while it did not influence the expression pattern of these markers if added during days 2—4 or days 4—8.Therefore,we concluded that compound C only inhibited the initial stage of 3T3-L1 differentiation. On the basis of these findings,we speculate that compound C inhibits the initiation of adipogenic differentiation by blocking the MCE process.It has been reported that several compounds inhibit the differentiation of preadipocytes by inhibiting the MCE process.For example,a selective cyclo-oxygenase-2 (COX2） inhibitor limits cell cycle reentry required for terminal adipocyte differentiation28)；Lovastatin exerts its inhibitory effect by blocking the pathway leading to synthesis of isoprenoids,downstream products of mevalonic acid that arrest the cell cycle at the G1 phase.29 Here,compound C arrests the MCE process of preadipocytes probably by suppressing the expression of $\\mathrm { C / E B P } \\beta$ and C/EBPδ. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To gain more insights into the molecular mechanism of this inhibitory effect of compound C on differentiation,the activation of AMPK was next examined. We found that parallel to the effect on adipocyte differentiation, compound C inhibited AMPK activity in a dose dependent fashion,and this inhibitory effect occurred in the early phase of differentiation. These results indicated that the suppression of AMPK activity by compound C in the early phase of differentiation was probably responsible for the inhibitory effect of compound C on adipogenic differentiation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that AMPK activation suppressed cell proliferation in several cell lines which involved different mechanisms.For example,Igata et al. showed that AMPK suppresses vascular smooth muscle cell proliferation via cell cycle regulation by p53 upregulation30； Du et al. reported that AMPK activation with AICAR inhibited growth and proliferation in cardiac fibroblasts,which involved inhibitory interactions between ERK and AMPK31)；Adachi and Brenner have recently shown that activation of AMPK by high molecular weight adiponectin dose-dependently inhibits hepatic stellate cell (HSC) proliferation.32) On the other hand, there is also an evidence suggesting that activation of AMPK could stimulate proliferation in other cell lines.Kanazawa et al. have reported that globular adiponectin stimulates theproliferation, differentiation， and mineralizationof osteoblasts via AMPK signaling pathways. Their results showed that adiponectin and AICAR stimulated the proliferation of MC3T3-E1 cells by activating AMPK.33） Therefore, AMPK may play opposite roles in different cells and its activation can either activate or inhibit proliferation.Our data showed that there was a dramatic increase in the activation of AMPK within two days after 3T3-L1 cells were induced to differentiate,when the first round of MCE took place and was completed, and compound C inhibited the increase of AMPK activity during the initial phase of differentiation. So we hypothesized that AMPK activity stimulates proliferation orMCE of preadipocytes during the early phase of differentiation. Suppression of AMPK activation by compound C during the initial stage of differentiation inhibits the MCE process of preadipocytes probably by down-regulating expression of $\\mathrm { C / E B P } \\beta$ and $\\mathrm { C } / \\mathrm { E B P } \\delta$ ，which subsequently decrease the expression level of early transcription factors including $\\mathrm { C / E B P } \\alpha$ and PPARy and further block the transcriptional activation of adipocyte-specific genes that produce the adipocyte phenotype. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preadipocytes undergoing adipogenic MCE are different from other cell types during proliferation. Tang et al. have reported that although most cell types express cyclin-dependent kinase (cdk) 2 throughout the cell cycle including G1,34) in 3T3-L1 preadipocytes expression of cdk2 occurs as the cells synchronously enter S phase,but not in the G1 phase of MCE.2 Meanwhile, the metabolic function of AMPK in adipocytes has been shown to differ from other cell types. Gaidhu et al. have reported that AMPK activation inhibits fattyacid oxidation in adipocytes in contrast to skeletal muscle and liver where AMPK stimulates fatty acid oxidation.17) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Compound C could also significantly increase long chain fatty acid oxidation in adipocytes.17) Therefore,AMPK activation has opposite effects in different tissues,which may play an important role in regulating whole-body energy distribution.In preadipocytes,it is possible that AMPK activity stimulates MCE within the initial phase of differentiation through regulation of different substrate flux or signaling pathways from those in other cell types. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that treatment of 3T3-L1 preadipocytes with an AMPK activator,AICAR,could inhibit the differentiation process.1,35） In contrast to our results that the inhibitory effect of compound C was only effective during the first two daysafter differentiation,AICAR wasable to inhibit differentiation event either at early stage or late stage of differentiation.1） We therefore propose that an appropriate level of AMPK activation at the right time is essential for the induction of adipocyte differentiation and neither over-activation nor over-suppression of AMPK activity is beneficial for adipogenesis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,our study here showed that compound C treatment significantly inhibited adipogenic differentiation of 3T3-L1 cells in a dose dependent manner,and this inhibitory effect was primarily effective in the initial stage of differentiation. Incubation of 3T3-L1 with compound C during differentiation caused down-regulated expression levels of early adipogenic transcription factors including C/EBPsand $\\mathrm { P P A R } \\gamma$ ，inhibition of mitotic clonal expansion of preadipocytes and suppression of AMPK activity. We believe that compound C inhibits the MCE process of preadipocytes probably by suppressing expression of $\\mathrm { C / E B P } \\beta$ and C/EBPδ, where an appropriate level of AMPK activation is critical at the initial stage of differentiation. These results also suggest that compound C might serve as a useful molecule in both basic and clinical research on adipogenesis and as a potential lead compound for the treatment of obesity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsThis work was supported in part by funds from the National Natural Science Foundation of China (30670457),Guangzhou Administration of Science and Technology (2007Z2-E4021)， Guangzhou Economic and Technological Development District matching funds (2007Ss-P059) and the National 973 program of China (2006CB503908 and 2004CB720102). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1) Giri S.,Rattan R.,Haq E.,Khan M.,YasminR.,WonJ.S.,Key L., SinghA.K., SinghI.,Nutr.Metab.,3,31 (2006).   \n2)Tang Q.Q., Otto T.C.,Lane M.D.,Proc.Natl.Acad. Sci.U.S.A.,100, 44—49 (2003). 3）Tang Q.Q.,Lane M.D., Genes Dev.,13,2231—2241 (1999). 4) TangQ.Q.,JiangM.S.,Lane M.D.,Mol. Cell.Biol.,19,4855—4865 (1999). 5) Clarke S.L.,Robinson C.E.,Gimble J.M.,Biochem. Biophys.Res. Commun.,240,99—103 (1997). 6) Timchenko N.A.,Wilde M.,Nakanishi M., Smith J.R.,Darlington G. J.,Genes Dev.,10,804—815(1996). 7) WangH.,IakovaP.,WildeM.,WelmA.,Goode T.,RoeslerW.J.,Timchenko N.A.,Mol. Cell,8,817—828 (2001).   \n8）Altiok S.,Xu M.,Spiegelman B.M.,Genes Dev.,11,1987—1998 (1997).   \n9）Gregoire F.M., Smas C.M.,Sul H.S.,Physiol.Rev.,78,783—809 (1998).   \n10) Hardie D.G., Scott J.W.,Pan D.A.,Hudson E.R.,FEBS Lett.,546, 113—120 (2003).   \n11) Hardie D.G.,J. Cell Sci.,117,5479—5487 (2004).   \n12) Hardie D.G.,Hawley S.A., ScottJ.W.,J.Physiol.,574,7—15(2006).   \n13) Long Y.C., Zierath J.R.,J. Clin.Invest.,116,1776—1783 (2006).   \n14) Sim A.T.,Hardie D.G.,FEBS Lett,233,294—298 (1988).   \n15) Daval M.,FoufelleF.,FerreP.,J.Physiol.,574,55—62 (2006).   \n16) Zhou G., Myers R.,LiY., Chen Y., Shen X., Fenyk-Melody J.,Wu M., Ventre J.,Doebber T.,FujiiN.,Musi N.,Hirshman M.F.,GoodyearL. J.,Moller D.E.,J. Clin.Invest.,108,1167—1174 (2001).   \n17）Gaidhu M.P.,Fediuc S.,Ceddia R.B.,J.Biol. Chem.,281,25956— 25964 (2006).   \n18) Ntambi J.M., Young-Cheul K.,J. Nutr.,130,3122S—3126S (2000).   \n19) Amri E.Z.,Bertrand B.,Ailhaud G.,Grimaldi P.,J. Lipid Res.,32, 1449—1456 (1991).   \n20） LinF.T.,Lane M.D.,Proc. Natl.Acad. Sci.U.S.A.,91,8757—8761 (1994).   \n21) Shao D.,Lazar M.A.,J. Biol. Chem.,272,21473—21478 (1997).   \n22) Smas C.M.,Sul H. S., Cel,73,725—734 (1993).   \n23) Favero C.B.,MandellJ.W.,Brain Res.,1168,1—10(2007).   \n24) YehW.C., Cao Z., Classon M.,McKnight S.L.,Genes Dev.,9,168— 181 (1995).   \n25）Schwarz E.J.,Reginato M.J., Shao D.,Krakow S.L.,Lazar M.A., Mol. Cell. Biol.,17,1552—1561 (1997).   \n26)Tang Q.Q., Otto T. C.,Lane M.D.,Proc.Natl. Acad. Sci.U.S.A.,100, 850—855 (2003).   \n27） Darlington G.J.,Ross S.E., MacDougald O.A.,J. Biol.Chem.,273, 30057—30060 (1998).   \n28）Fajas L.,Miard S., Briggs M.R.,Auwerx J.,J. Lipid Res.,44,1652— 1659 (2003).   \n29） Nishio E.,TomiyamaK.,NakataH.,WatanabeY.,Eur.J.Pharmacol., 301,203—206 (1996).   \n30） Igata M.,Motoshima H.,Tsuruzoe K.,Kojima K.,Matsumura T., Kondo T., Taguchi T.,Nakamaru K.,Yano M.,Kukidome D.,Matsumoto K.,Toyonaga T.,Asano T.,Nishikawa T.,ArakiE.,Circ.Res., 97,837—844 (2005).   \n31）Du J.,Guan T.,Zhang H., Xia Y.,LiuF., Zhang Y., Biochem.Biophys. Res. Commun.,368,402—407 (2008).   \n32) Adachi M.,Brenner D.A.,Hepatology,47,677—685 (2008).   \n33) Kanazawa I.,Yamaguchi T.,Yano S.,Yamauchi M.,Yamamoto M., Sugimoto T.,BMC Cell Biol.,8,51 (2007).   \n34）Montagnoli A.,Fiore F.,Eytan E.,Carrano A.C.,Draetta G.F.,Hershko A.,Pagano M., Genes Dev.,13,1181—1189 (1999).   \n35） Habinowski S.A.,Witers L.A., Biochem.Biophys.Res. Commun., 286,852—856 (2001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

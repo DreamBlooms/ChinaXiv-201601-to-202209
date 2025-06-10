@@ -1,0 +1,584 @@
+# New ordinal relative fuzzy entropy
+
+Yuanpeng Hea, Yong Denga,\*
+
+a Institute ofFundamental and Frontier Science,Universityof Electronic Science and Technology of China,610054 Chengdu,China.
+
+# Abstract
+
+In real life,occurrences of a series of things are supposed to come in an order. Therefore,it is necessary to regard sequence as a crucial factor in managing different kinds of things in fuzzy environment. However, few related researches have been made to provided a reasonable solution to this demand. Therefore,how to measure degree of uncertainty of ordinal fuzzy sets is still an open issue.To address this issue, a novel ordinal relative fuzzy entropy is proposed in this paper taking orders of propositions into consideration in measuring level of uncertainty in fuzzy environment. Compared with previously proposed entropies, effects on degrees of fuzzy uncertainty brought by sequences of sequential propositions are embodied in values of measurement using proposed method in this article. Moreover, some numerical examples are offered to verify the correctness and validity of the proposed entropy.
+
+Keywords: OrderFuzzy environment Degree of uncertainty Entropy
+
+# 1. Introduction
+
+How to measure degree of uncertainty of uncertain information in a fuzzy environment is a hot topic which attracts lots of attention from researchers globally. Many meaningful and useful theories have been developed to obtain truly useful information from uncertainty, such as Dempster - Shafer evidence theory [1, 2], complex mass function [3-5], $D$ -numbers [6-8], $Z$ -numbers [9-12], soft theory [13-16], fuzzy theory [17-20] and so on [21-24]. Due to the effectiveness of those theories in handling uncertainty, they have been applied into different kinds of fields and applications, like pattern recognition [25-27], decision making [28-32] and so on [33-36]. Proposals of these actual applications contribute to extract important information from a uncertain situation.
+
+However, preparations before processing uncertain information must include a measure on the level of uncertainty of a whole system. At present, the most efficient tool in giving an indicator of the degree of uncertainty of a existing system is to utilize entropies.Lots of relevant works have been made, such as Deng entropy [37], motion entropy [38], interval entropy [39] and non-additive entropy [40]. Nevertheless,all of the proposed entropies do not take orders of propositions contained in a fuzzy system as a factor in affecting the level of uncertainty of given system. There is a lack of relevant researches on measuring degrees of uncertainty of an ordinal fuzzy system. Therefore, in this paper, a new ordinal relative fuzzy entropy is proposed to appropriately give an accurate description on situations of an ordinal fuzzy system,which could be utilized in intuitionistic,pythagorean, fermatean and orthopair environment. Compared with other existing proposed entropies, it could reflect the influences brought by sequences of propositions which fits rules and criterions of actual situations.
+
+This paper is organized as follows. Some basic concepts are introduced in the section of preliminaries. In the next section, the proposed method is elaborately illustrated and details is clearly explained.And in the section of numerical examples, 5 examples in different fuzzy environments are provided to verify the rationality and validity of the proposed entropy. In the last, conclusions are made to summarize the contributions of the proposed method.
+
+# 2.Preliminaries
+
+In this section, some relevant concepts are briefly introduced and explained. Lots of related works have been made to solve a considerable amount of problems involved with different fields of applications [41-45].
+
+# 2.1. Fuzzy sets [46]
+
+Definition 1. Let $P$ bea $F S$ in a finite universe of discourse which is called $H$ .And the mathematics form of a $F S , P ,$ in $H$ can be defined as:
+
+$$
+P = \{ x , \mu ( x ) \}
+$$
+
+$\mu ( x )$ represents the membership degree of $x \in H$
+
+# 2.2. Intuitionistic fuzzy sets [47]
+
+Definition 2. Let $A$ be an $I F S$ in a finite universe of discourse which is called X. And the mathematics form of an $I F S , A ,$ in $X$ can be defined as:
+
+$$
+A = \{ \langle x , \mu _ { A } ( x ) , { v _ { A } ( x ) } | x \in X \}
+$$
+
+Besides, the properties the $I F S$ satisfies can be defined as:
+
+$$
+\mu _ { A } ( x ) : X \to [ 0 , 1 ]
+$$
+
+$\mu _ { A } ( { \boldsymbol { x } } )$ represents the membership degree of $x \in X$
+
+$$
+\upsilon _ { A } ( x ) : X  [ 0 , 1 ]
+$$
+
+$v _ { A }$ represents the non - membership degree of $x \in X$ .Besides,a constraint which the two parameters meet is defined as:
+
+$$
+0 \leq \mu _ { A } ( x ) + v _ { A } ( x ) \leq 1
+$$
+
+For an IFS defined in $X ,$ a degree of hesitance $\pi ( x )$ is defined as:
+
+$$
+\pi ( x ) = 1 - \mu _ { A } ( x ) - v _ { A } ( x )
+$$
+
+The value of $\pi ( x )$ reflects the degree of hesitance of $x \in X$
+
+# 2.3. Pythagorean fuzzy sets [48,49]
+
+Definition 3. Let $B$ bea PFS ina finite universe of discourse whichis called $Z$ . And the mathematics form of a $P F S , B ,$ in $Z$ can be defined as:
+
+$$
+B = \{ \langle x , B _ { Y } ( x ) , B _ { N } ( x ) | x \in Z \}
+$$
+
+Besides,the properties the $P F S$ satisfies can be defined as:
+
+$$
+B _ { Y } ( x ) : Z \to [ 0 , 1 ]
+$$
+
+$B _ { Y } ( x )$ represents the membership degree of $x \in Z$
+
+$$
+B _ { N } ( x ) : Z \to [ 0 , 1 ]
+$$
+
+$B _ { N } ( x )$ represents the non - membership degree of $x \in Z$ .Besides，a constraint which the two parameters meet is defined as:
+
+$$
+0 \leq B _ { Y } ^ { 2 } ( x ) + B _ { N } ^ { 2 } ( x ) \leq 1
+$$
+
+For an $P F S$ defined in $Z ,$ a parameter $K ^ { 2 } ( x ) = B _ { Y } ^ { 2 } ( x ) + B _ { N } ^ { 2 } ( x )$ is given, then the degree of hesitance, $B _ { H } ( x )$ ,is defined as:
+
+$$
+B _ { H } ( x ) = \sqrt { 1 - K ^ { 2 } ( x ) }
+$$
+
+The value of $B _ { H } ( x )$ reflects the degree of hesitance of $x \in Z$
+
+# 2.4. Fermatean fuzzy sets [50]
+
+Definition 4. Let $C$ bea FFS in a finite universe of discourse which is called Q.And the mathematics form of a FFS, $C _ { \cdot }$ ,in $Q$ can be defined as:
+
+$$
+C = \{ \langle x , \alpha _ { F } ( x ) , \beta _ { F } ( x ) \rangle | x \in Q \}
+$$
+
+Besides, the properties the FFS satisfies can be defined as:
+
+$$
+\alpha _ { F } ( x ) : Q  [ 0 , 1 ]
+$$
+
+$\alpha _ { F } ( x )$ represents the membership degree of $x \in Q$
+
+$$
+\beta _ { F } ( x ) : Q  [ 0 , 1 ]
+$$
+
+$\beta _ { F } ( x )$ represents the non - membership degree of $x \in Q$ ，Besides，a
+
+constraint which the two parameters meet is defined as:
+
+$$
+0 \leq \alpha _ { F } ( x ) ^ { 3 } + \beta _ { F } ( x ) ^ { 3 } \leq 1
+$$
+
+For an $F F S$ defined in $Q ,$ a degree of hesitance, $\pi _ { F } ( x )$ , is defined as:
+
+$$
+\pi _ { F } ( x ) = \sqrt [ 3 ] { 1 - \alpha _ { F } ( x ) ^ { 3 } - \beta _ { F } ( x ) ^ { 3 } }
+$$
+
+The value of $\pi _ { F } ( x )$ reflects the degree of hesitance of $x \in Q$
+
+# 2.5.Orthopair Fuzzy Sets [51]
+
+Definition 5. Let $D$ be an OFS in a finite universe of discourse which is called $R$ . And the mathematics form of an $O F S , D ,$ in $R$ can be defined as:
+
+$$
+D = \{ \langle x , D ^ { + } ( x ) , D ^ { - } ( x ) | x \in R \}
+$$
+
+Besides, the properties the OFS satisfies can be defined as:
+
+$$
+D ^ { + } ( x ) : R  [ 0 , 1 ]
+$$
+
+$D ^ { + } ( x )$ represents the membership degree of $x \in R$
+
+$$
+D ^ { - } ( x ) : R  [ 0 , 1 ]
+$$
+
+$D ^ { - } ( x )$ represents the non - membership degree of $x \in R$ . Besides,a constraint which the two parameters meet is defined as:
+
+$$
+0 \leq ( D ^ { + } ( x ) ) ^ { n } + ( D ^ { - } ( x ) ) ^ { n } \leq 1
+$$
+
+For an OFS defined in $R ,$ a degree of hesitance, $\pi _ { O } ( x ) .$ ,is defined as:
+
+$$
+\pi _ { { \cal O } } ( x ) = \sqrt [ n ] { 1 - ( D ^ { + } ( x ) ) ^ { n } - ( D ^ { - } ( x ) ) ^ { n } }
+$$
+
+The value of $\pi _ { O } ( x )$ reflects the degree of hesitance of $x \in R$
+
+# 2.6. Shannon entropy [52]
+
+The Shannon entropy is denoted as $S h$ and it is defined as:
+
+$$
+S h = - \sum _ { i = 1 } ^ { n } p _ { i } l o g _ { b } p _ { i }
+$$
+
+$n$ is the number of targets contained in a system and the icon $p _ { i }$ represents the probability of a certain things to happen. When the base of the logarithm, ${ \mathsf b } ,$ is equal to 2, then the unit of Shannon entropy is bit.
+
+# 2.7. De Luca and Termini's fuzzy set entropy [53]
+
+Definition 6. A fuzzy set $E = \{ x , \mu ( x ) \}$ is given, where $\mu ( x )$ represents the membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+D T ( E ) = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } [ \mu _ { E } ( x _ { i } ) l o g ^ { \mu _ { E } ( x _ { i } ) } + ( 1 - \mu _ { E } ( x _ { i } ) ) l o g ^ { ( 1 - \mu _ { E } ( x _ { i } ) ) } ]
+$$
+
+2.8.Pal Nikhil and Pal Sankar's fuzzy exponential entropy [54]
+
+Definition 7. A fuzzy set $\boldsymbol { F } = \{ x , \mu ( x ) \}$ is given, where $\mu ( x )$ represents the membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+P P ( F ) = \frac { 1 } { n ( \sqrt { e } - 1 ) } \sum _ { i = 1 } ^ { n } [ \mu _ { F } ( x _ { i } ) e ^ { ( 1 - \mu _ { F } ( x _ { i } ) ) } + ( 1 - \mu _ { F } ( x _ { i } ) ) e ^ { \mu _ { F } ( x _ { i } ) } - 1 ]
+$$
+
+# 2.9. Zhang and Jiang's intuitionistic fuzzy entropy [55]
+
+Definition 8.An intuitionistic fuzzy set $G = \{ x , \mu _ { G } ( x ) , \upsilon _ { G } ( x ) \}$ is given, where $\mu _ { G } ( x )$ represents the membership of certain propositions and $v _ { G } ( x )$ represents the non - membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+Z J ( G ) = - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } [ \frac { \mu _ { G } ( x ) + 1 - \upsilon _ { G } ( x ) } { 2 } l o g _ { 2 } ^ { \frac { \mu _ { G } ( x ) + 1 - \upsilon _ { G } ( x ) } { 2 } } + \frac { \upsilon _ { G } ( x ) + 1 - \mu _ { G } ( x ) } { 2 } l o g _ { 2 } ^ { \frac { \upsilon _ { G } ( x ) + 1 - \mu _ { G } ( x ) } { 2 } } + \ldots
+$$
+
+# 2.10. Hung and Yang's intuitionistic fuzzy entropy [56]
+
+Definition 9.An intuitionistic fuzzy set $H = \{ x , \mu _ { H } ( x ) , { v _ { H } ( x ) } \}$ is given, where $\mu _ { H } ( x )$ represents the membership of certain propositions and ${ \upsilon _ { H } ( x ) }$ represents the non - membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+H Y ( x ) = - ( \mu _ { H } ( x ) l o g ^ { \mu _ { H } ( x ) } + v _ { H } ( x ) l o g ^ { v _ { H } ( x ) } + \pi _ { H } ( x ) l o g ^ { \pi _ { H } ( x ) } )
+$$
+
+# 2.11. Xu's pythagorean fuzzy entropy [57]
+
+Definition 10. A pythagorean fuzzy set $I = \{ x , I _ { Y } ( x ) , I _ { N } ( x ) \}$ is given, where $I _ { Y } ( x )$ represents the membership of certain propositions and $I _ { N } ( x )$ represents the non - membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+X ( I ) = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } [ 1 - ( 1 - I _ { H } ( x _ { i } ) ) | I _ { Y } ( x _ { i } ) - I _ { N } ( x _ { i } ) | ]
+$$
+
+# 2.12. Yang's pythagorean fuzzy entropy [58]
+
+Definition 11. A pythagorean fuzzy set $J = \{ x , J _ { Y } ( x ) , J _ { N } ( x ) \}$ is given, where $J _ { Y } ( x )$ represents the membership of certain propositions and $J _ { N } ( x )$ represents the non - membership of certain propositions, then the corresponding entropy is defined as:
+
+$$
+Y ( J ) = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } - ( J _ { Y } ( x ) ^ { 2 } l o g ^ { J _ { Y } ( x ) ^ { 2 } } + J _ { N } ( x ) ^ { 2 } l o g ^ { J _ { N } ( x ) ^ { 2 } } + J _ { H } ( x ) ^ { 2 } l o g ^ { J _ { H } ( x ) ^ { 2 } } )
+$$
+
+# 3.Generalized entropies for Fermatean fuzzy sets and Orthopair fuzzy sets
+
+Due to the lack of proper entropies to measure degree of uncertainty of Fermatean fuzzy sets and Orthopair Fuzzy Sets, some existing entropies are generalized to provide a solution to give a measurement of the two fuzzy sets mentioned before. In this section, Zhang and Jiang's intuitionistic fuzzy entropy [55] and Yang's pythagorean fuzzy entropy [58] are selected to customised as specific entropies for Fermatean fuzzy sets. Besides, Hung and Yang's intuitionistic fuzzy entropy [56] and Xu's pythagorean fuzzy entropy [57] are chosen to offer a solution in measuring level of uncertainty of Orthopair Fuzzy Sets.
+
+# 3.1. Fermatean fuzzy entropies
+
+Definition 11. A fermatean fuzzy set $L = \{ \langle x , \alpha _ { L } ( x ) , \beta _ { L } ( x ) \rangle \}$ is given, where $\alpha _ { L } ( x )$ represents the membership of certain propositions and $\beta _ { L } ( x )$ represents the non - membership of certain propositions,then the corresponding entropies are defined as:
+
+$$
+Z J _ { F e r m a t e a n } ( L ) = - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } [ \frac { \alpha _ { L } ( x ) + 1 - \beta _ { L } ( x ) } { 2 } l o g ^ { \frac { \alpha _ { L } ( x ) + 1 - \beta _ { L } ( x ) } { 2 } } + \frac { \beta _ { L } ( x ) + 1 - \alpha _ { L } ( x ) } { 2 } l o g ^ { \frac { \beta _ { L } ( x ) } { 2 } } ]
+$$
+
+$$
+Y ( L ) = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } - ( \alpha _ { L } ( x ) ^ { 2 } l o g ^ { \alpha _ { L } ( x ) ^ { 2 } } + \beta _ { L } ( x ) ^ { 2 } l o g ^ { \beta _ { L } ( x ) ^ { 2 } } + \pi _ { L } ( x ) ^ { 2 } l o g ^ { \pi _ { L } ( x ) ^ { 2 } } )
+$$
+
+# 3.2. Orthopair fuzzy entropies
+
+Definition 12. An orthopair fuzzy set ${ \cal M } = \{ \langle x , M ^ { + } ( x ) , M ^ { - } ( x ) \rangle \}$ is given，where $M ^ { + } ( x )$ represents the membership of certain propositions and $M ^ { - } ( x )$ represents the non - membership of certain propositions, then the corresponding entropies are defined as:
+
+$$
+H Y _ { O r t h o p a i r } ( M ) = - ( M ^ { + } ( x ) l o g ^ { M ^ { + } ( x ) } + M ^ { - } ( x ) l o g ^ { M ^ { - } ( x ) } + \pi _ { O } ( x ) l o g ^ { \pi _ { O } ( x ) } )
+$$
+
+$$
+X ( M ) = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } [ 1 - ( 1 - \pi _ { O } ( x ) ) | M ^ { + } ( x ) - M ^ { - } ( x ) | ]
+$$
+
+# 4. Proposed new ordinal relative fuzzy entropy
+
+Although entropies have been widely used to measure the degree of uncertainty of a system which contains a sequence of fuzzy sets [59-62], none of the previously proposed entropies take order of propositions into consideration which is an obvious defect in disposing problems related to actual situations. Because every thing comes in an order, one thing happened then the other thing is able to take place. A new entropy is proposed to measure the level of uncertainty of different kinds of fuzzy sets considering effects brought by sequences of propositions.
+
+# 4.1. Sequential fuzzy sets
+
+All of the elements contained in an ordinal system of fuzzy sets come in an order. And the relations among them are determined by their sequences to some extent. For an ordinal system of fuzzy sets, $\Theta _ { O r d i n a l } =$ $\{ P _ { 1 } , P _ { 2 } , P _ { 3 } , P _ { 4 } \} _ { , }$ ，the proposition $P _ { 1 }$ must appear before the occurrences of propositions $P _ { 2 } , P _ { 3 } , P _ { 4 }$ ． On the other side,propositions $P _ { 2 } , P _ { 3 } , P _ { 4 }$ can not take the place of proposition $P _ { 1 }$ also. Then, all of the properties the ordinal system of fuzzy sets are supposed to satisfy are defined as:
+
+For a certain ordinal system of fuzzy sets, the sequence of every propo sition is already confirmed and can not be changed. Once the order is altered, then the system is replaced by a new one.   
+· The only relation among propositions contained in an ordinal system of fuzzy sets is their order. And no other relationship exists among appointed propositions.   
+With the increase of the number of propositions confirmed, the degree of uncertainty of the whole ordinal system of fuzzy sets is further determined.
+
+And a simple case is provided to illustrate all of the properties the ordinal system of fuzzy sets satisfy.
+
+Case 1:Assume there is an ordinal system of fuzzy sets, OOrdinal={P,P2,P3}' three distinctive propositions are contained in this system. Then, the propo sition $P _ { 1 }$ is supposed to happen at first, then the second one to take place is the proposition $P _ { 2 }$ . After confirmation of propositions $P _ { 1 } , P _ { 2 } ,$ only the proposition $P _ { 3 }$ can be added into the whole fuzzy system. If the sequence of all the propositions contained in the system is disturbed, then the conditions of them are supposed to be changed.
+
+# 4.2. Distributed weights for fuzzy sets in proposed entropy
+
+Because every proposition contained in fuzzy system comes in an order, the level of uncertainty of the system is further confirmed. And it is necessary to consider the role of every step of confirming a proposition is different, a confirmation of a proposition is supposed to have a direct and indirect effect on other values of propositions. Besides, assume the number of propositions contained in the system is $a$ and the sequence of a certain proposition is $b$ . Therefore, the whole process of determining the values of weights of different propositions is defined as:
+
+(1） The weights of specific propositions is $a - b + 1 ,$ ，and the process of calculation is defined as:
+
+$$
+W e i g h t _ { P _ { b } } = a - b + 1
+$$
+
+(2)The original values of propositions contained in a fuzzy system is denoted as $\langle x , P r e , A f t \rangle$ ． In fuzzy sets,the element $P r e$ represents $\mu ( x )$ and $A f t$ is considered equal to O. Besides,the element $P r e$ represents $\mu _ { A } ( { \boldsymbol { x } } )$ and $A f t$ represents ${ \mathfrak { v } } _ { A } ( x )$ in intuitionistic environment. More than that, when taking pythagorean fuzzy sets into consideration, the element Pre represents $\alpha _ { B } ( \boldsymbol { x } )$ and $A f t$ represents $\beta _ { B } ( x )$ . In the last, in orthopair environment, the element $P r e$ represents $D ^ { + } ( x )$ and $A f t$ represents $D ^ { - } ( x )$ . Then the process of the calculation of obtaining the
+
+intermediatevaluesisdefinedas:
+
+$$
+M a s s _ { P _ { b } } ^ { P r e } = W e i g h t _ { P _ { b } } * P r e _ { P _ { b } }
+$$
+
+$$
+M a s s _ { P _ { b } } ^ { A f t } = W e i g h t _ { P _ { b } } * A f t _ { P _ { b } }
+$$
+
+(3)A step of normalization of intermediate values is designed,and the calculation of process for elements $P r e$ and $A f t$ are defined as:
+
+$$
+\begin{array} { r l } & { V a l u e _ { P _ { b } } ^ { P r e _ { F i n a l } } = \frac { M a s s ^ { P r e _ { P _ { b } } } } { 2 * \sum _ { t = 1 } ^ { n } M a s s ^ { P r e _ { P _ { t } } } } } \\ & { V a l u e _ { P _ { b } } ^ { A f t _ { F i n a l } } = \frac { M a s s ^ { A f t _ { P _ { b } } } } { 2 * \sum _ { t = 1 } ^ { n } M a s s ^ { A f t _ { P _ { t } } } } } \end{array}
+$$
+
+Note : The cause of carrying the step of normalization is that the degree of importance of a certain proposition decreases with the increase of the number of its sequence,so the index of hesitance of it is exaggerated to reduce its impact in determining the degree of uncertainty of the whole system. And in order to ensure the values after modification still meets properties of kinds of fuzzy sets,both of the modified values are divided by 2.
+
+# 4.3. Relative fuzzy entropy
+
+Obviously, previously proposed entropy can not reflect influences brought by orders of propositions. Because all the entropies regard every fuzzy set as an individual instead of seeking for their underlying relationships and influences to the whole system with every step of confirming a part of it. To remain consistent with the operation of assigning different weights to propositions, it is expected to manifest effects those modified values may lead.In order to solve all of the problems mentioned above,a variable $k$ is restricted range between 1 and $a - 1$ and then a relative fuzzy entropy is defined as:
+
+Table 1: Details of the three fuzzy propositions in Case 2   
+
+<html><body><table><tr><td>PFinal</td><td>PEinal</td></tr><tr><td>{(x1,0.52,0.43)} {<x2,0.34,0.41>}</td><td>{(x3,0.58,0.22)}</td></tr></table></body></html>
+
+$$
+R F E ( P _ { b } , P _ { c } ) = P r e _ { F i n a l _ { P _ { b } } } \times l o g ^ { ( \frac { P r _ { F i n a l _ { P _ { b } } } } { P r _ { F i n a l _ { P _ { c } } } } + e ) } + A f t _ { F i n a l _ { P _ { b } } } \times l o g ^ { ( \frac { A f t _ { F i n a l _ { P _ { b } } } } { A f t _ { F i n a l _ { P _ { c } } } } + e ) } , ~ b > c
+$$
+
+If a denominator of an index of a log function and an addition, e, is cancelled, then the proposed entropy can degenerate into the form of shannon entropy [52],which means this proposed method remains consistent with traditional information entropy.
+
+Case 2 : Assume three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system. And all of them satisfy all of the properties sequen tial fuzzy sets have. Besides the details of the fuzzy sets corresponding to propositions mentioned before are given in Table 1.
+
+Utilizing the values provided in Table 1, for proposition $P _ { 1 } ,$ the mass of its relative fuzzy entropy can be calculated and the process of calculation can be given as:
+
+$$
+\begin{array} { r l } & { \begin{array} { c } { \^ { \cup } } \\ { R F E ( P _ { 1 } , P _ { 2 } ) = P r e _ { F i n a l _ { P _ { 1 } } } \times l o g ^ { ( \frac { P r e _ { F i n a l _ { P _ { 1 } } } } { P r e _ { F i n a l _ { P _ { 2 } } } } + e ) } + A f t _ { F i n a l _ { P _ { 1 } } } \times l o g ^ { ( \frac { A f t _ { F i n a l _ { P _ { 1 } } } } { A f t _ { F i n a l _ { P _ { 2 } } } } + e ) } = } \end{array} } \\ & { \begin{array} { r } { 0 7 8 } \\ { R F E ( P _ { 1 } , P _ { 3 } ) = P r e _ { F i n a l _ { P _ { 1 } } } \times l o g ^ { ( \frac { P r e _ { F i n a l _ { P _ { 1 } } } } { P r e _ { F i n a l _ { P _ { 3 } } } } + e ) } + A f t _ { F i n a l _ { P _ { 1 } } } \times l o g ^ { ( \frac { A f t _ { F i n a l _ { P _ { 1 } } } } { A f t _ { F i n a l _ { P _ { 3 } } } } + e ) } = } \end{array} } \end{array}
+$$
+
+# 4.4. Individual ordinal relative fuzzy entropy
+
+For previously proposed fuzzy entropy including relative fuzzy entropy, their calculation on values of degree of uncertainty of a fuzzy system is non-directional, which dose not conform to actual situations and manifest influences brought by sequences of propositions contained in a fuzzy system. In order to embody the features of an ordinal system, an individual ordinal relative fuzzy entropy is proposed to adapt to this specific situation. For instance,assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ with respect to $P _ { 1 } ,$ its value of individual ordinal relative fuzzy entropy can be only calcu lated through obtaining total mass of $R F E ( P _ { 1 } , P _ { 2 } )$ and $R F E ( P _ { 1 } , P _ { 3 } )$ . Besides, for proposition $P _ { 2 } ,$ only the process $P _ { 2 }  P _ { 3 }$ can be taken into calculation. As for $P _ { 3 , }$ , its value of individual ordinal relative fuzzy entropy is regarded as O. Because before the appearance of the last proposition $P _ { 3 }$ and fuzzy system is ordinal, the whole system has already been confirmed. Then the calculation of individual ordinal relative fuzzy entropy is defined as:
+
+$$
+I O R F E ( P _ { b } , P _ { c } ) = \sum _ { c = b + 1 } ^ { n } R F E ( P _ { b } , P _ { c } )
+$$
+
+Case 3: Assume three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system. And all of them satisfy all of the properties sequential fuzzy sets have. Besides the details of the fuzzy sets corresponding to propositions mentioned before are given in Table 2.
+
+Utilizing the values provided in Table 2, the mass of its individual relative fuzzy entropy can be calculated and the process of calculation can be given as:
+
+$\begin{array} { r } { I O R F E { \big ( } P _ { 1 } , P _ { c } { \big ) } = \sum _ { c = 1 + 1 } ^ { n } R F E { \big ( } P _ { 1 } , P _ { c } { \big ) } = R F E { \big ( } P _ { 1 } , P _ { 2 } { \big ) } + R F E { \big ( } P _ { 1 } , P _ { 3 } { \big ) } = } \end{array}$ $1 . 5 6 8 1 + 1 . 5 2 5 7 = 3 . 0 9 3 8$
+
+Table 2: Details of the three fuzzy propositions in Case 3   
+
+<html><body><table><tr><td>PFinal</td><td>PEinal</td></tr><tr><td>{(x1,0.35,0.44)} {(x2,0.26,0.38)}</td><td>{(x3,0.56,0.29)}</td></tr></table></body></html>
+
+$$
+\begin{array} { r } { I O R F E ( P _ { 2 } , P _ { c } ) = \sum _ { c = 2 + 1 } ^ { n } R F E ( P _ { 2 } , P _ { c } ) = R F E ( P _ { 2 } , P _ { 3 } ) = 1 . 1 9 8 1 } \end{array}
+$$
+
+$$
+I O R F E ( P _ { 3 } , P _ { c } ) = 0
+$$
+
+Because the fuzzy system given is ordinal, the process of calculation is also expected to be directional. With a value of individual ordinal relative fuzzy entropy calculated, the mass manifests the level of uncertainty at this stage of the system. The number of propositions confirmed is more, the degree of uncertainty of the system is further determined which is represented by the obtained values of individual ordinal relative fuzzy entropy. The proposed fuzzy entropy appropriately measures situations of every component in the whole fuzzy system.
+
+# 4.5. Complete ordinal relative fuzzy entropy
+
+The complete ordinal relative fuzzy entropy can be regarded as a synthesis of individual ordinal relative fuzzy entropy which measures conditions of every stage of the fuzzy system. Therefore, the complete ordinal relative fuzzy entropy takes conditions of every phase of the whole system into account. Then the process of calculation of complete ordinal relative fuzzy entropy is defined as:
+
+$$
+C O R F E ( P _ { b } , P _ { c } ) = \sum _ { b = 1 } ^ { n } I O R F E ( P _ { b } , P _ { c } )
+$$
+
+Case 4: Assume three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system. And all of them satisfy all of the properties sequential fuzzy sets have. Besides the details of the fuzzy sets corresponding to propositions mentioned before are given in Table 3.
+
+Table 3: Details of the three fuzzy propositions in Case 4   
+
+<html><body><table><tr><td>PFinal</td><td>PEinal</td><td>PFinal</td></tr><tr><td>{(x1,0.44,0.32)}</td><td>{(x2,0.56,0.33)}</td><td>{(x3,0.43,0.27)}</td></tr></table></body></html>
+
+Utilizing the values provided in Table 3, the mass of its individual relative fuzzy entropy can be calculated and the process of calculation can be given as:
+
+$\begin{array} { r } { C O R F E ( P _ { b } , P _ { c } ) = \sum _ { b = 1 } ^ { n } { I O R F E ( P _ { b } , P _ { c } ) } = R F E ( P _ { 1 } , P _ { 2 } ) + R F E ( P _ { 1 } , P _ { 3 } ) + } \end{array}$ $R F E ( P _ { 2 } , P _ { 3 } ) + R F E ( P _ { 3 } , P _ { c } ) = 1 . 3 9 8 4 + 1 . 4 6 6 3 + 1 . 7 7 7 0 + 0 = 4 . 6 4 1 7$
+
+So, this is a final measurement of the given ordinal fuzzy system.
+
+4.6. Measurement about tradition fuzzy system using ordinal relative fuzzy entropy
+
+In the sections discussed above, they provide a solution on how to measure the condition of the ordinal fuzzy system which takes orders of propo sitions as an important factor in measurement on degree of uncertainty of given system.However, the proposed ordinal entropy can be also utilized to measure the degree of uncertainty of traditional fuzzy systems when considering every kind of sequence of propositions. In other words,if all of the different combinations of sequences are taken into consideration, the level of uncertainty of a unordered fuzzy system can be also calculated in the form of a synthesis of all kinds of situations. Then, the detailed process of calculation is defined as:
+
+· List all kinds of sequences of propositions contained in an ordinal fuzzy system.
+
+Table 4: Details of the three fuzzy propositions in Case 5   
+
+<html><body><table><tr><td>P1 P2 P</td></tr><tr><td>{(x1,0.43,0.45)} {(x2,0.52,0.41>} {(x3,0.24,0.37)}</td></tr></table></body></html>
+
+· Calculate a sum of all values of different ordinal fuzzy system using complete ordinal relative fuzzy entropy.
+
+· Get an average according to the sum obtained above and the number of propositions existing in a fuzzy system, and the final mass is an evaluation of the classic unordered fuzzy system.
+
+Case 5: Assume three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system in an intuitionistic environment. And all of them satisfy all of the properties sequential fuzzy sets have. Besides the details of the fuzzy sets corresponding to propositions mentioned before are given in Table 4. The details of calculation according to defined process are given below.
+
+All possible combinations can be listed as:
+
+$\{ P _ { 1 } , P _ { 2 } , P _ { 3 } \} , \{ P _ { 1 } , P _ { 3 } , P _ { 2 } \} , \{ P _ { 2 } , P _ { 1 } , P _ { 3 } \} , \{ P _ { 2 } , P _ { 3 } , P _ { 1 } \} , \{ P _ { 3 } , P _ { 1 } , P _ { 2 } \} , \{ P _ { 3 } , P _ { 2 } , P _ { 1 } \}$ A different sequence of propositions in an ordinal fuzzy system means completely status of values of propositions. And on the base of definition of complete ordinal relative fuzzy entropy, their values can be obtained and listed as:
+
+$C O R F E _ { { S y s t e m 1 } } ( P _ { b } , P _ { c } ) = 5 . 1 6 7 1 , C O R F E _ { { S y s t e m 2 } } ( P _ { b } , P _ { c } ) = 3 . 6 4 9 3 ,$ $C O R F E _ { S y s t e m 3 } ( P _ { b } , P _ { c } ) = 4 . 9 1 7 7 , C O R F E _ { S y s t e m 4 } ( P _ { b } , P _ { c } ) = 3 . 8 3 2 8 ,$ $C O R F E _ { S y s t e m 5 } ( P _ { b } , P _ { c } ) = 3 . 7 1 0 5 , C O R F E _ { S y s t e m 6 } ( P _ { b } , P _ { c } ) = 4 . 0 3 9 9 .$ （204号
+
+And the number of different systems is 6 and an average of the level of ordinal fuzzy system can be obtained by:
+
+Table 5: Results produced by the three entropies   
+
+<html><body><table><tr><td>Zhang and Jiang's entropy [55]</td><td>Hung and Yang's intuitionistic entropy [56]</td><td>Proposed entropy</td></tr><tr><td>0.1070</td><td>2.1382</td><td>4.2195</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>6 CORFEunordered</td><td>1CORFEsystemi(Pb,Pc)</td><td>5.1671±3.6493+4.9177±3.8328+3.7105+4.0399 6</td></tr></table></body></html>
+
+# 4.2195
+
+Then, this is the final evaluation of the unordered fuzzy system.
+
+Because the system is in an intuitionistic environment, then the degree of uncertainty of the given fuzzy system can be measured by Zhang and Jiang's intuitionistic fuzzy entropy [55] and Hung and Yang's intuitionistic entropy [56]. Then, their values of measurement made the three fuzzy entropies including proposed ordinal entropy are given in Table 5.
+
+It can be easily obtained that the proposed ordinal relative fuzzy entropy can be also used to measure level of uncertainty of a traditional fuzzy system when considering all kinds of combinations of sequences. The effectiveness of proposed entropy in handling different kinds of situations is validated in this section.
+
+# 5.Numerical examples
+
+In this section, 5 examples of fuzzy sets in different kinds of environment are provided to verify the better validity and correctness of proposed ordinal relative fuzzy entropy in measuring degree of uncertainty of ordinal fuzzy system compared with previously proposed entropies.
+
+Example 1: Assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system. Their original values are listed in Table 6 and the detailed process of calculation is given below.
+
+First, obtain the weights corresponding to specific propositions.
+
+Table 6: Original values of given propositions in Example 1   
+
+<html><body><table><tr><td>P1</td><td>P2 P</td></tr><tr><td>{{x1,0.48)} {{x2,0.56)}</td><td>{(x3,0.66)}</td></tr></table></body></html>
+
+Table 7: Values of measurement given by three different values in Example 1   
+
+<html><body><table><tr><td>Sequence</td><td>Proposed entropy</td><td>Pal and Pal's entropy [54]</td><td>De and Termini's entropy [53]</td></tr><tr><td>{P1,P,P3}</td><td>1.3328</td><td>0.3786</td><td>-2.0193</td></tr><tr><td>{P1,P,P}</td><td>1.4055</td><td>0.3786</td><td>-2.0193</td></tr><tr><td>{P,P,P}</td><td>1.4594</td><td>0.3786</td><td>-2.0193</td></tr><tr><td>{P2,P,P1}</td><td>1.5832</td><td>0.3786</td><td>-2.0193</td></tr><tr><td>{P,P,P2}</td><td>1.6811</td><td>0.3786</td><td>-2.0193</td></tr><tr><td>{P,P,P1}</td><td>1.7316</td><td>0.3786</td><td>-2.0193</td></tr></table></body></html>
+
+$W e i g h t _ { P _ { 1 } } = a - b _ { P _ { 1 } } + 1 = 3 , W e i g h t _ { P _ { 2 } } = a - b _ { P _ { 2 } } + 1 = 2 , W e i g h t _ { P _ { 3 } } =$ $a - b _ { P _ { 3 } } + 1 = 1$
+
+Second, get the intermediate values of propositions
+
+$$
+\begin{array} { r l } & { M a s s _ { P _ { 1 } } ^ { P r e } = W e i g h t _ { P _ { 1 } } * P r e _ { P _ { 1 } } = 1 . 4 4 , M a s s _ { P _ { 2 } } ^ { P r e } = W e i g h t _ { P _ { 2 } } * P r e _ { P _ { 2 } } = 1 . 1 2 , } \\ & { M a s s _ { P _ { 3 } } ^ { P r e } = W e i g h t _ { P _ { 3 } } * P r e _ { P _ { 3 } } = 0 . 6 6 } \end{array}
+$$
+
+Third, get a step of normalization according to the definition of normalization.
+
+$\begin{array} { r } { V a l u e _ { P _ { 1 } } ^ { P r _ { e _ { F i n a l } } } = \frac { M a s ^ { P r _ { e _ { P _ { 1 } } } } } { 2 * \sum _ { t = 1 } ^ { n } M a s s ^ { P r _ { P _ { t } } } } = 0 . 2 2 3 6 , V a l u e _ { P _ { 2 } } ^ { P r _ { e _ { F i n a l } } } = \frac { M a s ^ { P r _ { P r _ { P _ { t } } } } } { 2 * \sum _ { t = 1 } ^ { n } M a s s ^ { P r _ { P r _ { t } } } } = } \end{array}$ 0.1739
+
+$$
+\begin{array} { r } { V a l u e _ { P _ { 3 } } ^ { P r e _ { F i n a l } } = \frac { M a s s ^ { P r e _ { P _ { 3 } } } } { 2 * \sum _ { t = 1 } ^ { n } M a s s ^ { P r e _ { P _ { t } } } } = 0 . 1 0 2 4 } \end{array}
+$$
+
+Forth, find out all kinds of combinations of the three propositions and :hey are listed below.
+
+$$
+\{ P _ { 1 } , P _ { 2 } , P _ { 3 } \} , \{ P _ { 1 } , P _ { 3 } , P _ { 2 } \} , \{ P _ { 2 } , P _ { 1 } , P _ { 3 } \} , \{ P _ { 2 } , P _ { 3 } , P _ { 1 } \} , \{ P _ { 3 } , P _ { 1 } , P _ { 2 } \} , \{ P _ { 3 } , P _ { 2 } , P _ { 1 } \}
+$$
+
+Fifth, calculate the values of degree of uncertainty of the ordinal fuzzy system according to definition of ordinal relative fuzzy entropy. And the values of measurement given by three different values are given in Table 7.
+
+It can be easily concluded that these previously proposed entropy can not reflect the influences brought by order of propositions contained in an ordinal fuzzy system. However, the values obtained by proposed entropy fluctuate according to the sequence of propositions, which conforms to actual situations.
+
+Example 2: Assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system in intuitionistic environment. Their orig inal values are listed in Table 8 and the detailed results obtained are shown in Table 9.
+
+Table 8: Original values of given propositions in Example 2   
+
+<html><body><table><tr><td>P1</td><td>P2</td><td>P</td></tr><tr><td>{(x1, 0.47,0.43)}</td><td>{(x2,0.52,0.34)}</td><td>{(x3,0.25,0.65)}</td></tr></table></body></html>
+
+Table 9: Values of measurement given by three diferent values in Example 2   
+
+<html><body><table><tr><td>Sequence</td><td>Proposed entropy</td><td>Zhang and Jiang's entropy [55]</td><td>Hung and Yang's entropy [56]</td></tr><tr><td>{P1,P2,P3}</td><td>4.6529</td><td>0.9522</td><td>2.7869</td></tr><tr><td>{P1,P,P2}</td><td>4.2509</td><td>0.9522</td><td>2.7869</td></tr><tr><td>{P,P,P}</td><td>4.4752</td><td>0.9522</td><td>2.7869</td></tr><tr><td>{P,P,P}</td><td>4.1179</td><td>0.9522</td><td>2.7869</td></tr><tr><td>{P,P,P}</td><td>4.1399</td><td>0.9522</td><td>2.7869</td></tr><tr><td>{P3,P2,P1}</td><td>4.1823</td><td>0.9522</td><td>2.7869</td></tr></table></body></html>
+
+It can be easily obtained that the proposed entropy is able to manifest the effects brought by sequences of propositions and the values obtained by the proposed method fluctuate with the change of orders of propositions. On the contrary, the two previously proposed entropy can not reflect influences orders of propositions may cause.
+
+Example 3: Assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system in pythagorean environment. Their original values are listed in Table10 and the detailed results obtained are shown in Table 11.
+
+Table 10: Original values of given propositions in Example 3   
+
+<html><body><table><tr><td>P1</td><td>P2</td><td>P</td></tr><tr><td>{(x1,0.23,0.56)}</td><td>{(x2,0.45,0.34)}</td><td>{(x3, 0.53,0.32)}</td></tr></table></body></html>
+
+Table11: Values of measurement given by three different values in Example 3   
+
+<html><body><table><tr><td>Sequence</td><td>Proposed entropy</td><td>Xu's fuzzy entropy [57]</td><td>Yang's fuzzy entropy [58]</td></tr><tr><td>{P1,P2,P3}</td><td>3.9817</td><td>0.8622</td><td>0.9240</td></tr><tr><td>{P1,P,P}</td><td>4.3255</td><td>0.8622</td><td>0.9240</td></tr><tr><td>{P2,P1,P3}</td><td>4.0899</td><td>0.8622</td><td>0.9240</td></tr><tr><td>{P2,P,P1}</td><td>4.8144</td><td>0.8622</td><td>0.9240</td></tr><tr><td>{P,P1,P2}</td><td>4.2680</td><td>0.8622</td><td>0.9240</td></tr><tr><td>{P3,P2,P1}</td><td>4.5497</td><td>0.8622</td><td>0.9240</td></tr></table></body></html>
+
+In this example, changes of sequences' influences on level of uncertainty of a given fuzzy system is presented by proposed entropy. The effectiveness of proposed method in handling fuzziness in pythagorean environment has been proven. Besides, the other two previously proposed entropy can not reflect this kind of effects cause by orders of propositions.
+
+Example 4: Assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system in fermatean environment. Their original valuesare listed in Table12 and the detailed results obtained are shown in Table 13.
+
+It can be easily concluded that the proposed method appropriately re flect influences brought by sequences of propositions in a given fuzzy system. On the opposite, obviously, the generalization of the two previously proposed entropy can not properly reflect effects caused by orders of propo
+
+Table 12: Original values of given propositions in Example 4   
+
+<html><body><table><tr><td>P1</td><td>P</td><td>P</td></tr><tr><td>{(x1,0.56,0.32)}</td><td>{(x2,0.43,0.33)}</td><td>{(x3, 0.40,0.37)}</td></tr></table></body></html>
+
+Table 13: Values of measurement given by three different values in Example 4   
+
+<html><body><table><tr><td>Sequence</td><td>Proposed entropy</td><td>Generalized Zhang and Jiang's entropy [55]</td><td>Generalized Yang's entropy [58]</td></tr><tr><td>{P1,P2,P}</td><td>4.1064</td><td>0.9833</td><td>0.9260</td></tr><tr><td>{PL,P,P}</td><td>4.1372</td><td>0.9833</td><td>0.9260</td></tr><tr><td>{P,P,P}</td><td>4.2716</td><td>0.9833</td><td>0.9260</td></tr><tr><td>{P,P,Pi}</td><td>3.8051</td><td>0.9833</td><td>0.9260</td></tr><tr><td>{P,P1,P2}</td><td>4.2934</td><td>0.9833</td><td>0.9260</td></tr><tr><td>{P,P,P1}</td><td>3.8033</td><td>0.9833</td><td>0.9260</td></tr></table></body></html>
+
+sitions.
+
+Example 5: Assume there are three propositions, $P _ { 1 } , P _ { 2 } , P _ { 3 } ,$ are contained in an ordinal fuzzy system in orthopair environment. Their original valuesare listed in Table14 and the detailed results obtained are shown in Table 15.
+
+Table 14: Original values of given propositions in Example 5   
+
+<html><body><table><tr><td>P1</td><td>P</td><td>P</td></tr><tr><td>{(x1, 0.36,0.54)}</td><td>{(x2,0.44,0.37}}</td><td>{(x3,0.65,0.22)}</td></tr></table></body></html>
+
+In this example, the effectiveness of proposed method in considering influences brought by sequences of propositions contained in an ordinal fuzzy system has been proven. However, the two generalization of previously proposed entropy can not reflect this specific phenomenon.
+
+Table 15: Values of measurement given by three different values in Example 5   
+
+<html><body><table><tr><td>Sequence</td><td>Proposed entropy</td><td>Hung and Yang's entropy [56]</td><td>Xu's fuzzy entropy [57]</td></tr><tr><td>{P,P,P}</td><td>4.1591</td><td>2.8537</td><td>0.8983</td></tr><tr><td>{P,P,P2}</td><td>4.5900</td><td>2.8537</td><td>0.8983</td></tr><tr><td>{P,P1,P3}</td><td>4.4464</td><td>2.8537</td><td>0.8983</td></tr><tr><td>{P,P,P1}</td><td>4.4266</td><td>2.8537</td><td>0.8983</td></tr><tr><td>{P,P1,P2}</td><td>4.3313</td><td>2.8537</td><td>0.8983</td></tr><tr><td>{P,P,P1}</td><td>3.9835</td><td>2.8537</td><td>0.8983</td></tr></table></body></html>
+
+# 6. Conclusion
+
+In real life,everything is supposed to take places in an underlying sequence and each of them has certain relations with others and influences on situations of other incidents. The proposed entropy regards orders of propositions contained in an ordinal fuzzy system as a crucial factor in measuring degree of uncertainty of the given fuzzy system, which is the main contribution of this paper. On the contrary, those entropies which are already existed can not properly reflect real world and operation laws of different things. Without doubt, the effectiveness in measuring level of uncertainty of the given ordinal fuzzy system which conforms to actual situations. Numerical examples also provide strong evidences and support in verifying validity and correctness of the proposed entropy.
+
+# Acknowledgment
+
+This research was funded National Natural Science Foundation of China, Grant/Award Number: 61973332.
+
+# References
+
+[1] G.Shafer, A Mathematical Theory of Evidence，Vol. 1，1976. doi:10.2307/j.ctv10vmlqb.
+
+[2] A.P. Dempster, Upper and Lower Probabilities Induced by a MultiValued Mapping, Annals of Mathematical Statistics 38 (2) (1967) 325- 339. doi:10.1214/a0ms/1177698950.   
+[3] F. Xiao，Generalization of Dempster-Shafer theory:A complex mass function, Applied Intelligence (2019) DOI: 10.1007/s10489-019- 01617-y.   
+[4] F. Xiao, CED: A distance for complex mass functions, IEEE Transactions on Neural Networks and Learning Systems (2020) DOI: 10.1109/TNNLS.2020.2984918.   
+[5] F. Xiao, Generalized belief function in complex evidence theory, Journal of Intelligent & Fuzzy Systems 38 (4) (2020) 3665-3673.   
+[6] X. Deng, W. Jiang,A total uncertainty measure for D numbers based on belief intervals, International Journal of Intelligent Systems 34 (12) (2019) 3302-3316. doi:10.1002/int.22195.   
+[7] X. Deng, W. Jiang, Evaluating green supply chain management practices under fuzzy environment: a novel method based on D number theory, International Journal of Fuzzy Systems 21 (5) (2019) 1389-1402. doi:10.1007/s40815-019-00639-5.   
+[8] X.Deng,W. Jiang，D number theory based game-theoretic framework in adversarial decision making under a fuzzy environment, International Journal of Approximate Reasoning 106 (2019) 194-213. doi:10.1016/j.ijar.2019.01.007.   
+[9] L. A. Zadeh,A note on $Z$ -numbers, Information Sciences 181 (14) (2011) 2923-2932.
+
+[10] W. Jiang， Y. Cao，X. Deng,A novel Z-network model based on Bayesian network and $Z$ -number,IEEE Transactions on Fuzzy Sys tems (2019) DOI: 10.1109/TFUZZ.2019.2918999.
+
+[11] Q.Liu， Y. Tian， B. Kang， Derive knowledge of Z-number from the perspective of Dempster-Shafer evidence theory， Engineering Applications of Artificial Intelligence 85 (2019) 754-764. doi:10.1016/j.engappai.2019.08.005.   
+[12] B. Kang, P. Zhang, Z. Gao, G. Chhipi-Shrestha, K. Hewage, R. Sadiq, Environmental assessment under uncertainty using Dempster-Shafer theory and Z-numbers, Journal of Ambient Intelligence and Humanized Computing (2019) DOI: 10.1007/s12652-019-01228-y.   
+[13] Y. Song, Y. Deng, A new soft likelihood function based on power ordered weighted average operator, International Journal of Intelligent Systems 34 (11) (2019) 2988-2999.   
+[14] L. Fei, Y. Feng, L. Liu, Evidence combination using OWA-based soft likelihood functions, International Journal of Intelligent Systems 34 (9) (2019)2269-2290. doi:10.1002/int.22166.   
+[15] F Feng, H. Fujita, M. I. Ali, R. R. Yager, X. Liu, Another view on generalized intuitionistic fuzzy soft sets and related multiattribute decision making methods, IEEE Transactions on Fuzzy Systems 27 (3) (2018) 474-488. doi:10.1109/TFUZZ.2018.2860967.   
+[16] Y. Tian，L. Liu,X. Mi，B. Kang，ZSLF: A new soft likelihood
+
+function based on $Z$ -numbers and its application in expert de
+
+cision system，IEEE Transactions on Fuzzy Systems (2020) DOI: 10.1109/TFUZZ.2020.2997328.   
+[17] Y. Pan，L. Zhang，Z. Li,L. Ding， Improved fuzzy bayesian network-based risk analysis with interval-valued fuzzy sets and dS evidence theory, IEEE Transactions on Fuzzy Systems (2019） 1- 1doi:10.1109/TFUZZ.2019.2929024.   
+[18] F. Xiao， A distance measure for intuitionistic fuzzy sets and itsapplication to pattern classification problems， IEEE Transactions on Systems， Man， and Cybernetics:Systems (2019） 1- 13doi:10.1109/TSMC.2019.2958635.   
+[19] Q. Zhou, H. Mo, Y. Deng, A new divergence measure of Pythagorean fuzzy sets based on belief function and its application in medical diagnosis, Mathematics 8 (1) (2020) DOI: 10.3390/math8010142.   
+[20] F. Feng, M. Liang, H. Fujita, R. R. Yager, X. Liu, Lexicographic orders of intuitionistic fuzzy values and their relationships,Mathematics 7 (2) (2019) 1-26.   
+[21] Y. Deng, Deng entropy, Chaos, Solitons & Fractals 91 (2016) 549-553.   
+[22] B. Kang, Y. Deng, The maximum Deng entropy, IEEE Access 7 (019) 120758-120765.   
+[23] Y.Deng, Information volume of mass function, International Journal of Computers Communications & Control 15(6) (2020) 3983. doi:https://doi.org/10.15837/ijccc.2020.6.3983.   
+[24] H. Zhang, Y. Deng, Entropy Measure for Orderable Sets, Information Sciences (2021) 10.1016/j.ins.2021.01.073.   
+[25] Z. Liu, Y. Liu, J. Dezert, F. Cuzzolin, Evidence combination based on credal belief redistribution for pattern classification,IEEE Transactions on Fuzzy Systems (2019) DOI: 10.1109/TFUZZ.2019.2911915.   
+[26] F. Xiao, A distance measure for intuitionistic fuzzy sets and itsapplication to pattern classification problems， IEEE Transactions on Systems， Man, and Cybernetics:Systems (2019). doi:10.1109/TSMC.2019.2958635.   
+[27] Y. Song, X. Wang, W. Wu, W. Quan, W. Huang, Evidence combination based on credibility and non-specificity, Pattern Analysis and Applications 21 (1) (2018) 167-180. doi:10.1007/s10044-016-0575-6.   
+[28] Y. Han,Y. Deng, Z. Cao, C.-T. Lin, An interval-valued Pythagorean prioritized operator based game theoretical framework with its applications in multicriteria group decision making， Neural Computing and Applications (2019) DOI: 10.1007/s00521-019-04014- 1doi:10.1007/s00521-019-04014-1.   
+[29] L.Fei, Y.Feng,L.Liu, W. Mao, On intuitionistic fuzzy decision-making using soft likelihood functions, International Journal of Intelligent Systems 34 (9) (2019) 2225-2242.   
+[30] F. Xiao,A multiple-criteria decision-making method based on D numbers and belief entropy, International Journal of Fuzzy Systems 21 (4) (2019) 1144-1153.   
+[31] R. R. Yager, Weighted maximum entropy owa aggregation with applications to decision making under risk,IEEE Transactions on Systems,
+
+Man,and Cybernetics-Part A: Systems and Humans 39 (3) (2009) 555- 564.
+
+[32] H. Liao, Z. Ren, R. Fang, A Deng-entropy-based evidential reasoning approach for multi-expert multi-criterion decision-making with uncertainty, International Journal of Computational Intelligence Systems 13 (1) (2020) 1281-1294.   
+[33] F. Xiao, GIQ: A generalized intelligent quality-based approach for fusing multi-source information, IEEE Transactions on Fuzzy Systems (2020) DOI: 10.1109/TFUZZ.2020.2991296.   
+[34] Z. Luo, Y. Deng, A matrix method of basic belief assignment's negation in Dempster-Shafer theory, IEEE Transactions on Fuzzy Systems 27 (2019) 10.1109/TFUZZ.2019.2930027.   
+[35] L. Fan, Y. Deng, Determine the number of unknown targets in Open World based on Elbow method, IEEE Transactions on Fuzzy Systems (2020). doi:10.1109/TFUZZ.2020.2966182.   
+[36] F. Xiao, EFMCDM: Evidential fuzzy multicriteria decision making based on belief entropy, IEEE Transactions on Fuzzy Systems 28 (7) (2020) 1477-1491. doi:10.1109/TFUZZ.2019.2936368.   
+[37] Y. Deng, Uncertainty measure in evidence theory, SCIENCE CHINA Information Sciences 64 (2021). doi:10.1007/s11432-020-3006-9.   
+[38] D. Chakraborty, S. Pal, Journal pre-proofs rough video conceptualization for real-time event precognition with motion entropy, Information Sciences 543 (09 2020). doi:10.1016/j.ins.2020.09.021.   
+[39] R. Yager,Intervalvaluedentropiesfordempster-shafer structures，Knowledge-BasedSystems161 (08 2018). doi:10.1016/j.knosys.2018.08.001.   
+[40] C. Tsallis, Nonadditive entropy: The concept and its use,European Physical Journal A 40 (2008) 257-266. doi:10.1140/epja/i2009-10799- 0.   
+[41] Z. Cao, C.-T. Lin, Inherent fuzzy entropy for the improvement of EEG complexity evaluation, IEEE Transactions on Fuzzy Systems 26 (2) (2018) 1032-1035.   
+[42] J. Zhao, Y. Deng, Complex network modeling of evidence theory, IEEE Transactions on Fuzzy Systems (2020) 10.1109/TFUZZ.2020.3023760.   
+[43] Z. Cao, C.-T. Lin, K.-L. Lai, L.-W. Ko, J.-T. King, K.-K. Liao, J.-L. Fuh, S.-J. Wang, Extraction of SSVEPs-based Inherent fuzzy entropy using a wearable headband EEG in migraine patients, IEEE Transactions on Fuzzy Systems (2019) DOI: 10.1109/TFUZZ.2019.2905823.   
+[44] F. Xiao,EFMCDM: Evidential fuzzy multicriteria decision making based on belief entropy, IEEE Transactions on Fuzzy Systems 28 (7) (2020) 1477-1491. doi:10.1109/TFUZZ.2019.2936368.   
+[45] W. Jiang, K. Huang, J. Geng, X. Deng, Multi-Scale Metric Learning for Few-Shot Learning, IEEE Transactions on Circuits and Systems for Video Technology (2020) DOI: 10.1109/TCSVT.2020.2995754.   
+[46] L.A. Zadeh, Fuzzy sets,Information and control 8 (3) (1965) 338-353.   
+[47] K. T. Atanassov, Intuitionistic fuzzy sets, Springer, 1999, pp. 1-137.   
+[48] R. Yager， A. Abbasov, Pythagorean membership grades， complex numbers,and decision making, International Journal of Intelligent Systems 28 (05 2013). doi:10.1002/int.21584.   
+[49] R. Yager, Pythagorean membership grades in multicriteria decision making,Fuzzy Systems， IEEE Transactions on 22 (2014) 958-965. doi:10.1109/TFUZZ.2013.2278989.   
+[50] T. Senapati, R. Yager, Fermatean fuzzy sets, Journal of Ambient Intelligence and Humanized Computing 11 (02 2020). doi:10.1007/s12652- 019-01377-0.   
+[51] R. Yager, Generalized orthopair fuzzy sets, IEEE Transactions on Fuzzy Systems PP (2016) 1-1. doi:10.1109/TFUZZ.2016.2604005.   
+[52] C. E. Shannon, A mathematical theory of communication, Bell system technical journal 27 (3) (1948) 379-423.   
+[53] C. Shannon, A Mathematical Theory of Communication (1948), 2021, pp.121-134. doi:10.7551/mitpress/12274.003.0014.   
+[54] N. Pal, S. Pal, Object background segmentation using new definition of entropy, Computers and Digital Techniques, IEE Proceedings E 136 (1989) 284 - 295. doi:10.1049/ip-e.1989.0039.   
+[55] Q.-S. Zhang, S. Jiang， A note on information entropy measures for vague sets and its applications, Information Sciences 178 (2008) 4184- 4191. doi:10.1016/j.ins.2008.07.003.   
+[56] W.-L. Hung, M.-S. Yang, Fuzzy entropy on intuitionistic fuzzy sets, Int. J. Intell. Syst. 21 (2006) 443-451. doi:10.1002/int.20131.   
+[57] T.-T. Xu, H. Zhang, B.-Q. Li, Pythagorean fuzzy entropy and its application in multiple-criteria decision-making, International Journal of Fuzzy Systems 22 (06 2020). doi:10.1007/s40815-020-00877-y.   
+[58] M.-S. Yang, Z. Hussain, Fuzzy entropy for pythagorean fuzzy sets with application to multicriterion decision making, Complexity 2018 (2018) 1-14. doi:10.1155/2018/2832839.   
+[59] N. Xuan Thao, F. Smarandache, A new fuzzy entropy of pythagorean fuzzy sets, Journal of Intelligent and Fuzzy Systems 37 (2019) 1065- 1074. doi:10.3233/JIFS-182540.   
+[60] P. Burillo,H. Sola, Entropy on intuitionistic fuzzy sets and on intervalvalued fuzzy sets,Fuzzy Sets and Systems - FSS 78 (1996) 305-316. doi:10.1016/0165-0114(96)84611-2.   
+[61] G. Jumarie, From entropy of fuzzy sets to fuzzy set of entropies: A critical review and new results， Kybernetes 21 (1992) 33-51. doi:10.1108/eb005940.   
+[62] J. Huang, J. Xin, D. Fang, S.-J. Lee, Q. Jiang, S. Yao,New entropy and distance measures of intuitionistic fuzzy sets,2020，pp. 1-8. doi:10.1109/FUZZ48607.2020.9177690.

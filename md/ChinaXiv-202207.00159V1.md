@@ -1,0 +1,198 @@
+# 原发性高血压合并肌少症的临床特点分析
+
+10.12114/j. issn. 1007-9572.2022.0494 杨晨’²，何华娟’²，李建蒲”²，陈军’2
+
+基金项目：云南省老年疾病临床医学研究中心-老年共病治疗及临床转化研究(202102AA310068)；云南省科技计划  
+项目(No.2013FZ176)；云南省卫生科技计划项目(No.2018NS0242)  
+1.650500 云南省昆明市，云南省昆明理工大学医学院  
+2.650032 云南省昆明市，云南省第一人民医院老年医学科 国家老年疾病临床医学研究中心（华西医院）云南分中  
+心 国家老年疾病临床医学研究中心（北京医院）协同创新合作单位云南省老年疾病临床医学研究中心董碧蓉专  
+家工作站  
+\*通信作者：陈军，教授，硕士生导师，主任医师；Email:1093445@qq.com
+
+【摘要】背景 随着全球人口老龄化日益加剧,肌少症的发病率将持续上升，预计到本世纪中叶全球将有 2 亿左右的肌少症病人[]。原发性高血压与肌少症均是老年人的常见疾病。过去，人们认为上述疾病是独立的疾病，彼此之间没有相关性。事实上，上述疾病大多同时存在于老年人群中，原发性高血压患者大多伴有肌肉减少症，而目前国内关于原发性高血压与肌少症相关性的研究相对较少。目的了解中老年原发性高血压患者肌少症的患病率，明确原发性高血压患者发生肌少症的危险因素，为中老年高血压患者肌少症的二级预防和早期干预提供参考依据。方法 收集 2020 年12月-2021年12月在云南省第一人民医院老年科住院的107 例 $\geqslant 5 0$ 岁的原发性高血压患者。收集患者的一般资料、营养状况、肌少症诊断指标、实验室指标，将受试者分为肌少症组和非肌少症组。数据收集录入后用 SPSS 25.0进行统计学分析。定量资料组间比较采用两独立样本t检验或秩和检验，计数资料组间比较采用$\chi 2$ 检验，应用二元logistic 回归探讨原发性高血压患者发生肌少症的危险因素。用 ROC 曲线探讨 BMI对原发性高血压患者肌少症的预测价值。结果107名原发性高血压患者中，肌少症患病率为 $4 9 . 5 \%$ ，男性患病率为 $5 9 . 7 \%$ ，女性为 $3 5 . 6 \%$ ，差异有统计学意义（ $\cdot < 0 . 0 5 )$ 。二元logistic 回归分析显示：女性( $\mathrm { 0 R = 0 . 1 7 5 }$ ， $9 5 \% C \mathrm { I }$ 0.059-0.518,$\textstyle P < 0 . 0 5 { \ ' }$ ）、超重 $\mathrm { ' 0 R { = } 0 . 0 3 9 }$ ， $9 5 \% C \mathrm { I }$ 0. 003-0.513, $\textstyle P { < } 0 . 0 5 { \dot { } }$ ）、肥胖 $\mathrm { ' 0 R = 0 . 0 1 9 }$ ， $9 5 \% C \mathrm { I }$ 0.001-0.459, $\textstyle P { < } 0 . 0 5 { \mathrm { , } }$ 、高水平的 25-羟基维生素 D $\mathrm { ( 0 R { = } 0 . 9 1 4 }$ ， $9 5 \% C \mathrm { I }$ 0.843-0.991， $\mathrm { { } ^ { - } } P { < } 0 . \mathrm { { } 0 } 5 \mathrm { { } ^ { \cdot } }$ ）、较高的营养评分（ $\mathrm { ' 0 R { = } 0 . 8 3 2 }$ ， $9 5 \% C \mathrm { I }$ 0.697-0. 992， $\scriptstyle P < 0 . 0 5 { \ ' }$ 是肌少症的保护因素。高龄( $0 \mathrm { R } { = } 1$ .139,95%CI 1.073-1.209, $\scriptstyle P < 0 . 0 0 1$ ）、较高的收缩压 $\mathrm { ' 0 R { = } 1 } . 0 3 8$ ，$9 5 \% C \mathrm { I }$ 1.001-1.076，P<0.05)、较高的舒张压( $\mathrm { \cdot 0 R = 1 } . 0 9 5$ ， $9 5 \% C \mathrm { I }$ 1. 035-1. 159, $\textstyle P < 0 . 0 5 { \mathrm { , } }$ )是肌少症的危险因素。结论 中老年原发性高血压患者中肌少症的患病率高。男性、高龄、较高的收缩压及舒张压是肌少症的危险因素，超重、肥胖、较高的维生素D、营养良好是肌少症的保护因素。
+
+【关键词】原发性高血压；肌少症；体成分分析；25-羟基维生素D；中老年
+
+# Analysis of clinical characteristics of essential hypertension complicated with sarcopenia
+
+YANG Chen’ ²，HE Huajuan’ ²，LI Jianpu’²，CHEN Jun²
+
+1.School of Medicine， Kunming University ofScience and Technology ， Kunming 65050o， China 2.Department of Geriatrics，Yunnan First People's Hospital/Yunnan Branch of National Clinical Research Center for GeriatricDiseases (West China Hospital）/Collaborative InnovationCooperative UnitofNationalClinical ResearchCenter for Geriatric Diseases (Beijing Hospital） /Yunnan Provincial Clinical Research Center for Geriatric Diseases/Dong Birong Expert Workstation，Kunming 650032， China \*Corresponding author:CHEN Jun， Professor， Master supervisor， Chiefphysician； Email: 1093445@qq.com.
+
+【Abstract】 BackgroundWith the aging of the global population, the incidence of sarcopenia willcontinue to rise, and it is estimatedthatthere willbeabout 20Omilion SAR patients worldwidebythe middeofthecentury[.Essential hypertension and sarcopeniaarecommon diseases inthe elderly.In the past,these diseases were considered to be separate diseases with no corelationbetween them.In fact, mostofthe above-mentioned diseases exist simultaneously inthe elderly population,and most patients with esential hypertensionareaccompanied bysarcopenia.However,tere arerelatively few studies onessentialhypertensionandsarcopeniain Chinaat present. ObejectiveTounderstandthe prevalenceofsarcopenia in middle-agedandelderlypatients with essential hypertension,toclarifytherisk factorsof sarcopenia in patients with essential hypertension.To provide reference for secondary prevention and early intervention of sarcopenia in midle-aged and elderly patients with hypertension. MethodsAtotal of 107 patients with essential hypertension $\geq 5 0$ years old who were admited to the Geriatrics Department of Yunnan First People's Hospital from December 2020 to December 2021 were collected.Generalinformation,nutritionalstatus,sarcopeniascreening indicatorsandlaboratoryindicatorswerecollected, and subjects were divided into sarcopenia group and non-sarcopenia group.Data colection is entered with SPSS 25.0 statistical analysis.Two independentsample Ttestorrank-sum test wasused forcomparison betweenquantitativedata groups, and $\chi 2$ test was used for comparison between counting data groups. Binary logistic regression was used to explore the risk factors of sarcopenia in essential hypertension patients.ROC curve was used to evaluate the predictive value of BMI for sarcopeniainessntialhypertensionpatients.Results Among17essentialhypertensionpatients,the prevalenceofsarcopenia was $49 . 5 \%$ $5 9 . 7 \%$ in males and $3 5 . 6 \%$ in females,and the difference was statistically significant ( $\lceil P < 0 . 0 5 \rceil$ .Binary logistic regression analysis showed that: Female ( $\mathrm { \ O R { = } } 0 . 1 7 5$ ， $9 5 \% C \mathrm { I } 0 . 0 5 9 - 0 . 5 1 8 , P < 0 . 0 5 )$ ,overweight $\mathrm { \ C Q R = } 0 . 0 3 9$ ， $9 5 \% C \mathrm { I }$ 0.003- 0.513, $P < 0 . 0 5$ ),obesity $\scriptstyle ( \mathrm { O R = } 0 . 0 1 9$ ， $9 5 \% \mathrm { C I } 0 . 0 0 1  – 0 . 4 5 9$ $P < 0 . 0 5$ ), high level of 25-hydroxyvitamin $\scriptstyle \mathrm { D ( O R = 0 . 9 1 4 , 9 5 \% C I }$ （204号 $0 . 8 4 3 - 0 . 9 9 1 , P < 0 . 0 5$ and high nutritional score $( \mathrm { O R } { = } 0 . 8 3 2 , 9 5 ^ { \circ } \% \mathrm { C I } 0 . 6 9 7 { - } 0 . 9 9 2 , P { < } 0 . 0 5 )$ were protective factors for sarcosis. Advanced age $\mathrm { \langle O R = 1 . 1 3 9 }$ ， $9 5 \% \mathrm { C I } 1 . 0 7 3 \substack { - 1 . 2 0 9 , P < 0 . 0 0 1 }$ , higher systolic blood pressure ( $\mathrm { \ O R = } 1 . 0 3 8$ $9 5 \% \mathrm { C I } \ 1 . 0 0 1 { - 1 . 0 7 6 } { , P }$ （204号 $< 0 . 0 5 )$ ，higher diastolic blood pressure ( $\mathrm { \langle O R { = } 1 } . 0 9 5$ ， $9 5 \% C \mathrm { I }$ 1.035-1.159, $P { < } ~ 0 . 0 5$ ） were risk factors for sarcopenia. ConclusionThe prevalenceofsarcopeniais highin middle-agedand elderlypatients withessntial hypertension.male,old age,highsystolicanddastolicbloodpressureareriskfactorsforsarcopenia;overweight,oesityighlevelofvitamDand good nutrition are protective factors for sarcopenia.
+
+【Key words】Essential hypertension; Less muscle disease; Bodycomposition analysis; 25-hydroxyvitamin D; The middle-aged and old.
+
+肌少症(Sarcopenia，SAR)是一种与年龄相关的老年综合征,表现为肌肉质量减少、肌力下降、身体机能减退[2]。临床上会表现为肢体纤细无力、步态缓慢、行走不稳,易出现跌倒、骨折,甚至造成残疾、死亡。从40岁以后，肌肉以平均每年 $8 \%$ 的速度流失[3]。欧洲报道在 60-70 岁的人群中,SAR 的患病率为 $1 3 \%$ ,80 岁以后可以达到 $5 0 \%$ 左右。中国的老年人群中,每年有接近4000万人因SAR导致跌倒并出现严重损伤[4]。原发性高血压(Essential Hypertension,EH)是常见的慢性病之一，主要表现为体循环动脉压升高。EH与 SAR 是老年人的常见疾病。SAR 发病机制包括增龄、营养不良、运动减少、维生素D(Vitamin D，VitD)缺乏、胰岛素抵抗、慢性炎症、线粒体功能失调与氧化应激、肾素-血管紧张素-醛固酮系统(Renin-angiotensin Aldosterone System，RAAS)的激活等。这些病理状态也与 EH的发病有关。尽管公众对 EH有了很多认识，但是EH合并 SAR给患者带来的体成分改变及日常生活的影响并没有引起公众足够的认识。本研究目的是了解 SAR 在中老年 EH患者中的患病率，探索二者的相关性，明确 EH患者发生 SAR的危险因素,为中老年 EH 患者 SAR 的二级预防和早期干预提供参考依据。
+
+# 1对象与方法
+
+1.1 研究对象 收集 2020年12月-2021年12月在云南省第一人民医院老年科住院的107例 $\geqslant 5 0$ 岁的原发性高血压患者。受试对象分为肌少症组和非肌少症组。所有参与者都签署了知情同意书，并同意参加此研究项目。这项观察性研究得到了云南省第一人民医院医院伦理委员会的批准，伦理编号KMUST-MEC-151。
+
+1.1.1纳入标准：(1)符合原发性高血压的诊断标准[5]； $\left( 2 \right) \geqslant 5 0$ 岁； (3)能够正确表达自己的感受和意愿； (4)病历资料完整。
+
+1.1.2排除标准： $( 1 ) < 5 0$ 岁；(2)近3个月内使用过影响体成分的药物(如营养制剂、维生素D、钙磷制剂等)；(3)严重肝肾功能不全、恶性肿瘤、慢性消化道疾病、严重感染性疾病；(4)认知功能障碍、生活不能自理；（5)肢体残疾、躯体活动障碍；(6)临床病历资料不完善，依从性差、不愿进行配合的患者或家属。
+
+1.2数据收集
+
+1.2.1一般资料 收集所有受试者的年龄、性别、身高、体重、体质质量指数(BMI)、收缩压(SBP)、舒张压(DBP）（收缩压和舒张压为24小时动态血压平均值)、高血压病程、吸烟史、饮酒史，既往是否有糖尿病、冠心病、慢性阻塞性肺疾病、骨质疏松病史等。
+
+1.2.2 营养状态评估 用简易营养评估量表(MNA-SF)量表对每位受试者进行营养评估。该量表通过询问患者的方式完成。该量表包括18个条目，分别是：近3个月的体重、BMI、有无应激或急性疾病、活动能力、神经精神问题(痴呆症或抑郁症)、能否独立生活、每天是否服用3种以上药物、身体是否有压痛或溃疡、每天用餐次数、摄入蛋白类食物的种数、是否每餐吃水果、每天饮水量、进食情况、自我营养评价、与同龄人相比营养状况如何、上臂围、小腿围。总分 $\geqslant 2 4$ 分为营养良好， $< 2 4$ 分为营养不良。
+
+1.2.3 肌少症的诊断指标 肌量测定：RGZ-120美国GE 公司Lunar Prodigy 公司生产的双能 X线骨密度仪(Dual $\mathrm { X ^ { - } }$ ray Absorptiometry，DXA)测定所有受试者的四肢骨骼肌肉质量，再计算四肢骨骼肌质量指数(ASMI)：四肢肌肉质量 $( \mathrm { k g } )$ /身高² $\left( \mathrm { m } ^ { 2 } \right)$ 。肌力测量：用机械握力计(Jamar? Hydraulic Hand Dynamometer，美国)测量所有受试者的握力。标准化握力测量姿势[：受试者取坐位，曲膝 $9 0 ^ { \circ }$ ，肩内收中立位,肘部弯曲 $9 0 ^ { \circ }$ ，大臂与胸平贴,小臂处于中立位,手腕伸展 $0 ^ { - 3 0 ^ { \circ } }$ ，并保持 $0 ^ { - 1 5 ^ { \circ } }$ 尺偏，左右臂握力连续测量3次，取六次试验的最大握力值为测定结果。以 $\mathrm { k g }$ 为单位，精确到0.1。步速测量：要求受试者以平常步速直线步行6m，步行2次，用秒表记录步行时间,取两次步行时间的平均值，并尽可能不借助拐杖和其它工具，计算步速，以 $\mathrm { m / s }$ 为单位。根据 2019 年亚洲肌少症工作组(Asian Working Group for Sarcopenia，AWGS)的诊断标准[2]，诊断标准为骨骼肌质量减少且握力或肌肉功能降低。如果满足以下三个条件中的(1)(2)或(1)(3)，则可以诊断肌少症。 (1)男性 $\mathrm { A S M I { < } 7 . 0 ~ k g / m ^ { 2 } }$ ；女性 $\mathrm { A S M I } { < } 5 . 4 ~ \mathrm { k g / m } ^ { 2 }$ 认为存在肌肉质量减少； (2)男性握力 ${ < } 2 8 ~ \mathrm { k g }$ ，女性握力 $< 1 8 ~ \mathrm { { k g } }$ ，则认为存在握力低下； $( 3 ) 6 \mathrm { { m } }$ 步行速度 $< 1 . 0 \mathrm { \ m / s }$ 认为存在步速低下。
+
+1.2.4 实验室检查要求患者空腹至少8小时,第二天早上6点选取肘正中静脉抽血,在验血前1天，病人禁止饮酒，并且饮食清淡,利用“湘仪”L1550 自动分析仪，检测相关指标。淋巴细胞计数、血红蛋白(Hemoglobin,HGB)采用仪器法检测，总胆固醇(Total Cholesterol，TC)通过胆固醇氧化酶法检测，甘油三脂(Tricylglycero，TG)采用去游离甘油法检测。通过清除法检测高密度脂蛋白胆固醇(High-densityLipoprotein Cholesterol，HDL-C)及低密度脂蛋白胆固醇(Low-density Lipoprotein,LDL-C)。溴甲酚绿法对血清白蛋白(Albumin，ALB)进行检测，酶法检肌酐(Serum Creatinine，SCR)和 25-羟基维生素 D(25-hydroxyvitaminD, $2 5 \mathrm { - } \left( \mathrm { { ( 0 H ) D } } \right)$ 。
+
+1.2.5统计学方法SPSS 25.0统计软件用于数据分析。在本研究中，凡是满足正态分布的定量资料采用（ $\overline { { \mathrm { X } } } \pm \mathrm { S } )$ （20描述，两组间比较使用t检验;非正态分布的定量资料以M $( \mathsf { Q } _ { 2 5 } { - } \mathsf { Q } _ { 7 5 } )$ 表示,组间比较用秩和检验(Mann-WhitneyU 检验)。计数资料以例或百分比表示，用卡方检验或Fisher精确检验比较各组计数资料的组间差异。采用单因素分析对 EH 患者发生 SAR 的影响因素开展分析,选择与因变量有显著关系的自变量，并将其纳入二元logistic 回归模型，探讨 EH合并 SAR 的危险因素。 $\mathrm { { } ^ { - } } 0 . 0 5$ 有统计学意义。并用 ROC 曲线进行预测分析。
+
+# 2结果
+
+2.1 本研究共纳入107 例EH 患者,其中男性62 例 $( 5 7 . 9 4 \% )$ ，女性45例 $( 4 2 . 0 6 \% )$ 。入组患者的年龄在 50-96 岁之间,平均年龄 $( 7 3 . 4 6 \pm 1 1 . 0 1 )$ ）岁。按年龄分层， ${ < } 6 0$ 岁共13 例 $( 1 2 . 1 5 \% )$ ,60-75岁有46例 $( 4 2 . 9 9 \% )$ ， $\geqslant 7 5$ 岁有48例 $( 4 4 . 8 6 \% )$ 。结果如图1、图2所示。
+
+# C hinaXiv合作期刊
+
+![](images/45c34aa454086d4784bc3328dad0187ca365bbf25c953f2b6d28e5ddf9684fcd.jpg)  
+图1年龄分布  
+Figure 1 Age distribution
+
+![](images/d177d5ebc08dcc7f0e46f196eb4e70dcb6d710f6b4bdd7952ae814ef33092feb.jpg)  
+图2性别分布  
+Figure 2 Gender distribution
+
+2.2 两组患者一般资料比较 肌少症组53 例,其中男性37例,女性 16例。非肌少症组 54例,其中男性 25例,女性29 例。两组的性别分布存在显著差异 $( \chi ^ { 2 } { = } 6 . 0 6 9 , P { = } 0 . 0 1 4 )$ 。肌少症组年龄高于非肌少组 $( 7 8 . 5 0 \pm 1 0 . 1 2 \$ VS$6 8 . 5 2 { \pm } 9 . 5 8 )$ 1 $( \chi ^ { 2 } { = } 1 2 . 9 4 7 , P { = } 0 . 0 0 2 )$ 。肌少症组 BMI 比非肌少症组低 $( \mathrm { t } { = } 4 . 7 7 3 , P { = } 0 . 0 0 1 )$ 。高血压病程在两组中无显著差异 $( \chi ^ { 2 } \mathrm { = } - 1 . 6 3 0$ $\scriptstyle P = 0 . { \mathrm { ~ 1 0 3 } } ,$ ）。肌少症组骨质疏松和慢性阻塞性肺疾病(COPD，Chronic Obstructive Pulmonary Disease)的患病率高于非肌少症组 $( \chi ^ { 2 } = 8 . 0 2 2 / P = 0 . 0 0 5$ $\chi ^ { 2 } { = } 4 . 8 9 6$ ， $P { = } 0 . 0 2 7 ,$ ，吸烟、饮酒及糖尿病和冠心病的患病率在两组中无明显差异 $( \chi ^ { 2 } { = } 0 . 4 8 0 / P { = } 0 . 4 8 9$ ， $\chi ^ { 2 } { = } 1 . ~ 1 8 6 / P { = } 0 . ~ 2 7 6$ ， $\chi ^ { 2 } = 1 . 2 3 5 / P = 0 . 2 6 6$ $\chi ^ { 2 } { = } 0 . 2 6 6 / P { = } 0 . 6 0 6 )$ 。结果如表1、图3、图4所示。
+
+表1两组患者的一般资料比较  
+Tabel 1 Comparison of general data between the two groups   
+
+<html><body><table><tr><td>指标</td><td>分组</td><td>肌少症组 n=53</td><td>非肌少症组 n=54</td><td>统计值</td><td>P值</td></tr><tr><td>性别(n,%)</td><td>男</td><td>37 (59.7%)</td><td>25 (40.3%)</td><td>6.069b</td><td>0.014</td></tr><tr><td rowspan="5">年龄(岁)</td><td>女</td><td>16 (35.6%)</td><td>29 (64.4%)</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td></td><td>78.50±10.12</td><td>68.52±9.58</td></tr><tr><td><60</td><td>2(15.4%)</td><td>11(84.6%)</td><td rowspan="2">12.947b</td><td rowspan="2">0.002</td></tr><tr><td>60-75岁</td><td>19 (41. 3%)</td><td>27(58.7%)</td></tr><tr><td>≥75岁</td><td>32 (66.7%)</td><td>16 (33.3%)</td><td></td><td></td></tr><tr><td rowspan="3">病程(年)</td><td></td><td>10 (3-20)</td><td>7(2-12)</td><td></td><td></td></tr><tr><td><10年</td><td>22 (44.0%)</td><td>28(56.0%)</td><td>-1.630b</td><td>0.103</td></tr><tr><td>≥10年</td><td>31(54.4%)</td><td>26(45.6%)</td><td></td><td></td></tr><tr><td>BMI (kg/m)</td><td></td><td>22.04±3.13</td><td>24.59±2.34</td><td>4.773a</td><td>0.001</td></tr><tr><td rowspan="2">吸烟(n,%)</td><td>有</td><td>18 (54.5%)</td><td>15 (45.5%)</td><td rowspan="2">0.480b</td><td rowspan="2">0.489</td></tr><tr><td>无</td><td>35(47.3%)</td><td>39(52.7%)</td></tr><tr><td rowspan="2">饮酒(n,%)</td><td>有</td><td>10 (40.0%)</td><td>15 (60.0%)</td><td rowspan="2">1.186b</td><td rowspan="2">0.276</td></tr><tr><td>无</td><td>43 (52.4%)</td><td>39 (47.6%)</td></tr><tr><td rowspan="2">糖尿病 (n,%)</td><td>有</td><td>19 (57.6%)</td><td>14(42.4%)</td><td rowspan="2">1.235b</td><td rowspan="2">0.266</td></tr><tr><td>无</td><td>34(45.9%)</td><td>40 (51.4%)</td></tr><tr><td rowspan="2">冠心病(n,%)</td><td>有</td><td>13 (54.2%)</td><td>11(45.8%)</td><td rowspan="2">0.266b</td><td rowspan="2">0.606</td></tr><tr><td>无</td><td>40 (48.2%)</td><td>13 (51.8%)</td></tr><tr><td rowspan="2">COPD (n, %)</td><td>有</td><td>20 (66.7%)</td><td>10 (33.3%)</td><td rowspan="2">4.896b</td><td rowspan="2">0.027</td></tr><tr><td>无</td><td>33 (42.9%)</td><td>44(57.1%)</td></tr><tr><td rowspan="2">骨质疏松(n,%)</td><td>有</td><td>22(71. 0%)</td><td>9 (29.0%)</td><td rowspan="2">8.022b</td><td rowspan="2">0.005</td></tr><tr><td>无</td><td>31(40.8%)</td><td>45(59.2%)</td></tr></table></body></html>
+
+注：‘为t值，为 $\chi ^ { 2 }$ 值。BMI代表体质质量指数，COPD代表慢性阻塞性肺疾病。
+
+# C hinaXiv合作期刊
+
+![](images/4292a520cf8355ac5c3d58484e7ec1629b93d110465e41b4f3bdc734cfaa5f79.jpg)  
+图3两组的性别分布 Figure 3 The sex distribution of the two groups
+
+![](images/351a672a9b5a8029f428714dddf69fa60eda15ca13f4f130e35d5eab34945260.jpg)  
+图4两组的年龄分布 Figure 4 The age distribution of the two groups
+
+2.3 根据高血压患者 BMI不同，将 BMI分为体重正常组 $( 1 8 . 5 \mathrm { - } 2 3 . 9 ~ \mathrm { k g / m ^ { 2 } } )$ 、超重组 $( 2 4 . 0 \mathrm { - } 2 7 . 9 ~ \mathrm { k g / m ^ { 2 } } )$ 、肥胖组( $\geqslant$ $2 8 ~ \mathrm { { k g / m ^ { 2 } } }$ 。体重正常组中肌少症检出率为 $6 6 . 1 \%$ ，超重组中肌少症检出率为 $3 0 . 0 \%$ ，肥胖组中肌少症检出率为 $2 5 . 0 \%$ 。不同 BMI 组肌少症检出率不同，且随着 BMI 等级增加,肌少症检出率降低,差异有统计学意义 $( \chi ^ { 2 } \mathrm { = } 1 4 . 4 3 4$ ， $P { = } 0 . 0 0 0 )$ 。结果见表2。
+
+Table 2 Comparison of the detection rates of sarcopenia in essential hypertension patients with diferent BMI   
+
+<html><body><table><tr><td>BMI</td><td>合计(n)</td><td>肌少症 n(%)</td><td>非肌少症 n(%)</td><td>x2值</td><td>P值</td></tr><tr><td>体重正常组</td><td>59</td><td>39 (66.1%)</td><td>20 (33.9%)</td><td rowspan="2">14. 434</td><td rowspan="2"></td></tr><tr><td>超重组</td><td>40</td><td>12 (30.0%)</td><td>28 (70.0%)</td></tr><tr><td>肥胖组</td><td>8</td><td>2 (25.0%)</td><td>6 (75.0%)</td><td></td><td><0.001</td></tr></table></body></html>
+
+2.4 两组患者血压、营养评分、肌少症诊断指标、实验室指标的比较肌少症患者的 SBP、DBP、SCR高于非肌少症患者 $\left( \mathrm { t } { = } { - } 4 . 7 0 / P { = } 0 . 0 0 0 \right.$ ,t=-5. 718/P=0.000, z=-2.967/ $P { = } 0 . 0 0 3$ ， $\chi ^ { 2 } { = } 0 . 2 6 6 / P { = } 0 . 6 0 6 )$ ，营养评分、握力、小腿围、6m 步速、上肢肌肉含量、下肢肌肉含量、ASMI、TG、ALB、 $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ 低于非肌少症患者 $\mathrm { ( _ { Z } = - } 5 . 0 6 2 / P \mathrm { = } 0 . 0 0$ （2 $0 , \mathrm { z } { = } 2 . 2 4 7 / P { = } 0 . 0 2 7$ ， $\mathrm { z = - 3 . 0 7 5 / } P \mathrm { = } 0 . 0 0 2$ ,z=-2.139/P=0.032, $\mathrm { z } ^ { = - 2 . ~ 7 9 8 / P = 0 . ~ 0 0 5 , ~ z } ^ { = - 3 . ~ 1 7 1 / P = 0 . ~ 0 0 2 , ~ z = 6 . ~ 8 3 1 / P }$ $= 0 . \ 0 0 0 , z = - 2 . \ 1 0 9 / P = 0 . \ 0 3 5 , z = - 3 . \ 1 6 9 / P = 0 . \ 0 0 2 , z = 3 . \ 4 6 4 / P = 0 . \ 0 0 1 ) \ _ { \circ } \quad \widehat { \pm } \widehat { \sharp } \ \widetilde { \mu } \ _ { \mu } \ ,$ 淋巴细胞计数、HGB、TC、HDL-C、LDL-C 在两组间无显著差异 $\left( \mathrm { t } { = } 0 . 5 2 8 / P { = } 0 . 5 9 8 \right.$ ,t=0. 777/P=0.439, $\mathrm { t } { = } 1 . 2 6 4 / P { = } 0 . 2 0 9$ ， $\mathrm { z } = - 1 . 9 5 7 / P { = } 0 . 0 5 0 , \mathrm { z } { = } { - }$ $0 . 1 0 6 / P { = } 0 . 9 1 6$ ， $\mathrm { z } = - 1 . 5 2 0 / P \mathrm { = } 0 . 1 2 8 .$ ， $\mathrm { z } { = } 6 . 8 3 1 / P { = } 0 . 0 0 0 )$ 。结果见表3。
+
+表3两组患者血压、营养评分、肌少症诊断指标、实验室指标的比较注：“为t值，为z值。SBP 代表收缩压，DBP 代表舒张压、ASMI代表四肢骨骼肌质量指数、HGB 是血红蛋白，TC 是总胆固醇，TG 是甘油三酯，HDL-C 是高密度脂蛋白胆固醇，LDL-C 是低密度脂蛋白胆固醇，ALB 是白蛋白，SCR 是肌酐， $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ 代表 25-羟基维生素 D。
+
+表2不同BMI组原发性高血压患者肌少症检出率比较  
+Table 3 Comparison ofblood pressre,nutritional score,diagnostic indexes of sarcopeniaand laboratory indexes between the two groups   
+
+<html><body><table><tr><td>指标</td><td>肌少症组</td><td>非肌少症组</td><td>统计值</td><td>P</td></tr><tr><td>SBP (mm/Hg)</td><td>157.72±16.15</td><td>144. 15±17. 47</td><td>-4.70a</td><td><0.001</td></tr><tr><td>DBP (mm/Hg)</td><td>93.74±10.73</td><td>81.67±11.09</td><td>-5.718a</td><td><0.001</td></tr><tr><td>营养总分</td><td>23.50(19.50-25.75)</td><td>27.00 (25.50-27.50)</td><td>-5.062h</td><td><0.001</td></tr><tr><td>握力(kg)</td><td>33.00(30.75-34.75)</td><td>34.50 (33.00-36.00)</td><td>2.247b</td><td>0. 027</td></tr><tr><td>小腿围(cm)</td><td>32.12±4.03</td><td>34.46±2.51</td><td>-3.075a</td><td>0.002</td></tr><tr><td>步速(m/s)</td><td>0.80 (0.62-1. 10)</td><td>0.94(0. 79-1. 10)</td><td>-2.139h</td><td>0.032</td></tr><tr><td>上肢肌肉含(kg)</td><td>4.26(3.15-4.69)</td><td>4.38(3.81-5.88)</td><td>-2.798b</td><td>0.005</td></tr><tr><td>下肢肌肉含 (kg)</td><td>11.88(9.37-13.59)</td><td>12.78(10.94-15.98)</td><td>-3.171b</td><td>0.002</td></tr><tr><td>全身T值</td><td>0.61±1.53</td><td>0.47±1. 17</td><td>0.528a</td><td>0.598</td></tr><tr><td>ASMI(kg/m²)</td><td>5.77±0.81</td><td>6.93±0.94</td><td>6.831a</td><td>0.000</td></tr></table></body></html>
+
+<html><body><table><tr><td>淋巴细胞计数</td><td>1. 74±0.54</td><td>1.82±0.57</td><td>0. 777a</td><td>0.439</td></tr><tr><td>(*10°/L)</td><td></td><td>143.33±13.80</td><td>1. 264a</td><td>0.209</td></tr><tr><td>HGB(*g/L) TC(mmol/L)</td><td>139.75±15.50 4.12(3.47-4.84)</td><td>4.49(3.87-5. 30</td><td>-1.957b</td><td>0.050</td></tr><tr><td>TG (mmol/L)</td><td>1.17(0.83-1. 58)</td><td>1.38(1. 06-1.88)</td><td>-2.109h</td><td>0.035</td></tr><tr><td>HDL-C (mmol/L)</td><td>1. 17(0.97-1. 36)</td><td>1. 16(0. 98-1. 35)</td><td>-0.106b</td><td>0.916</td></tr><tr><td>LDL-C (mmol/L)</td><td>2.46(1.74-2.91)</td><td>2.64(1. 96-3. 12)</td><td>-1.520b</td><td>0.128</td></tr><tr><td>ALB(g/L)</td><td>38.70(35.35-42.50)</td><td>41.95(39.20-44. 60)</td><td>-3.169b</td><td>0.002</td></tr><tr><td>SCR (umol/L)</td><td>81.00(68.00-93.00)</td><td>70.50 (58.00-82.00)</td><td>-2.967b</td><td>0.003</td></tr><tr><td>25(0H) D(ng/mL)</td><td>20.24±6.18</td><td>24.92±7.69</td><td>3.464a</td><td>0.001</td></tr></table></body></html>
+
+2.5 二元logistic 回归分析 将是否出现肌少症作为因变量,把两组存在显著差异（ $' _ { P < 0 . 0 5 ) }$ 的指标，即性别、年龄和 BMI、COPD、骨质疏松、SBP、DBP、营养评分、TG、ALB、SCR、 $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ ，作为自变量纳入二元logistic回归模型，具体赋值见表4。结果表明：女性 $( 0 \mathrm { R } { = } 0 . 1 7 5 , 9 5 \% C \mathrm { ~ } 0 . 0 5 9 { - } 0 . 5 1 8 , P { < } 0 . 0 5 )$ 、超重 $( \mathrm { O R { = } 0 . \ 0 3 9 , 9 5 \% C I \ 0 . 0 0 3 { - } 0 . 5 1 3 , }$ （20$\textstyle P { < } 0 . 0 5 )$ 、肥胖（ $\mathrm { \cdot 0 R { = } 0 . 0 1 9 }$ ， $9 5 \% C \mathrm { I }$ 0.001-0.459, $\mathrm { { } ^ { - } } P { < } 0 . 0 5 \$ 、较高的25-羟基维生素1 $) ( \mathrm { { 0 R = 0 } } . 9 1 4$ ， $9 5 \% C \mathrm { I }$ 0.843-0.991, $P$ $< 0 . 0 5 )$ 、营养良好 $( 0 \mathrm { R } \mathrm { - } 0 . 8 3 2 , 9 5 \% 0 . 6 9 7 \mathrm { - } 0 . 9 9 2 , P \mathrm { < } 0 . 0 5 ) \frac { \mathrm { H } } { \mathrm { \hbar } \mathrm { E } } )$ 肌少症的保护因素。高龄( $\mathrm { \Delta O R = 1 }$ .139, $9 5 \% C \mathrm { I }$ 1.073-1.209, $\scriptstyle P < 0 . 0 0 1 { \mathrm { , } }$ ）、较高的收缩压( $\mathrm { \cdot 0 R { = } 1 } . 0 3 8$ ， $9 5 \% C \mathrm { I }$ 1. 001-1. 076, $\textstyle P < 0 . 0 5 ,$ ）、较高的舒张压( $\mathrm { \Delta O R = 1 }$ .095, $9 5 \% C \mathrm { I }$ 1.035-1. 159, $\scriptstyle P < 0 . 0 5 )$ 是肌少症的危险因素。结果见表5、表6。
+
+Tabel 4 Table of variable assignment of influencing factors of sarcopenia in patients with essential hypertension
+
+表4原发性高血压患者肌少症影响影响因素的变量赋值情况表  
+表5人口学特征的多因素分析  
+
+<html><body><table><tr><td>自变量</td><td>赋值方式</td></tr><tr><td>性别</td><td>男=1，女=2</td></tr><tr><td>年龄</td><td>实测值</td></tr><tr><td>BMI</td><td><24 kg/m=1，24-28 kg/m²=2，≥28 kg/m²=3</td></tr><tr><td>是否合并COPD</td><td>否=0，是=1</td></tr><tr><td>是否合并骨质疏松</td><td>否=0，是=1</td></tr><tr><td>SBP</td><td>实测值</td></tr><tr><td>DBP</td><td>实测值</td></tr><tr><td>营养评分</td><td>实测值</td></tr><tr><td>TG</td><td>实测值</td></tr><tr><td>ALB</td><td>实测值</td></tr><tr><td>SCR</td><td>实测值</td></tr><tr><td>25-(OH)D</td><td>实测值</td></tr></table></body></html>
+
+Tabel 5 Multivariate analysis of demographic characteristics   
+
+<html><body><table><tr><td>指标</td><td>β</td><td>SE</td><td>Wald x²</td><td>P</td><td>OR</td><td>95%CI</td></tr><tr><td>性别*</td><td>-1. 742</td><td>0.553</td><td>9.906</td><td>0.002</td><td>0. 175</td><td>0.059-0.518</td></tr><tr><td>年龄 (岁)</td><td>0.130</td><td>0.030</td><td>18.188</td><td><0.001</td><td>1. 139</td><td>1. 073-1. 209</td></tr><tr><td>BMI (kg/m) #</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>体型正常组</td><td>-1. 185</td><td>1.248</td><td>0.902</td><td>0.342</td><td>0.306</td><td>0.026-3.528</td></tr><tr><td>超重组</td><td>-3.243</td><td>1. 314</td><td>6.088</td><td>0.014</td><td>0.039</td><td>0.003-0.513</td></tr><tr><td>肥胖组</td><td>-3.971</td><td>1. 629</td><td>5.947</td><td>0.015</td><td>0.019</td><td>0.001-0.459</td></tr></table></body></html>
+
+注：\*代表和男性比，#代表和体型消瘦组比。BMI代表体质质量指数。-代表无此数值。
+
+表6合并慢性病、血压、营养评分、实验室指标的多因素分析
+
+Table 6 Multivariate analysis of chronic diseases,blood pressure, nutrition score and laboratory indicatc   
+
+<html><body><table><tr><td>指标</td><td>模型类型</td><td>β</td><td>SE</td><td>Wald x²</td><td>P</td><td>OR</td><td>95%CI</td></tr><tr><td>COPD</td><td>校正前</td><td>0.981</td><td>0.451</td><td>4.738</td><td>0.029</td><td>2.667</td><td>1. 103-6. 449</td></tr><tr><td rowspan="2">骨质疏松</td><td>校正后</td><td>-0.077</td><td>0.633</td><td>0.015</td><td>0.904</td><td>0.926</td><td>0.268-3.202</td></tr><tr><td>校正前</td><td>1.266</td><td>0.459</td><td>7.600</td><td>0.006</td><td>3.548</td><td>1. 442-8. 731</td></tr><tr><td></td><td>校正后</td><td>0.851</td><td>0.641</td><td>1. 763</td><td>0.184</td><td>2.342</td><td>0.667-8.230</td></tr><tr><td rowspan="2">SBP (mmHg)</td><td>校正前</td><td>0.048</td><td>0.013</td><td>13. 376</td><td><0.001</td><td>1.049</td><td>1. 023-1. 077</td></tr><tr><td>校正后</td><td>0.037</td><td>0.019</td><td>3.955</td><td>0. 047</td><td>1. 038</td><td>1. 001-1. 076</td></tr><tr><td rowspan="2">DBP (mmHg)</td><td>校正前</td><td>0.102</td><td>0.023</td><td>20.156</td><td><0.001</td><td>1. 107</td><td>1. 059-1. 157</td></tr><tr><td>校正后</td><td>0.091</td><td>0.029</td><td>9.844</td><td>0.002</td><td>1.095</td><td>1. 035-1. 159</td></tr><tr><td rowspan="2">营养评分</td><td>校正前</td><td>-0.299</td><td>0.072</td><td>17.192</td><td><0.001</td><td>0. 742</td><td>0.644-0. 854</td></tr><tr><td>校正后</td><td>-0.184</td><td>0.031</td><td>4.200</td><td>0.040</td><td>0.832</td><td>0.697-0.992</td></tr><tr><td rowspan="2">TG (mmol/L)</td><td>校正前</td><td>-0.588</td><td>0.277</td><td>4.510</td><td>0.034</td><td>0.556</td><td>0.323-0.956</td></tr><tr><td>校正后</td><td>-0.028</td><td>0.369</td><td>0.006</td><td>0.940</td><td>0.972</td><td>0.472-2.002</td></tr><tr><td rowspan="2">ALB(g/L)</td><td>校正前</td><td>-0. 116</td><td>0.046</td><td>6. 441</td><td>0.011</td><td>0.891</td><td>0.814-0. 974</td></tr><tr><td>校正后</td><td>-0.005</td><td>0.061</td><td>0.007</td><td>0.934</td><td>0.995</td><td>0.884-1. 120</td></tr><tr><td rowspan="2">SCR(umol/L)</td><td>校正前</td><td>0.030</td><td>0. 011</td><td>7.695</td><td>0.006</td><td>1. 030</td><td>1.009-1. 052</td></tr><tr><td>校正后</td><td>0.017</td><td>0.016</td><td>1.068</td><td>0.301</td><td>1. 017</td><td>0. 985-1. 049</td></tr><tr><td rowspan="2">25-(0H) D(ng/mL)</td><td>校正前</td><td>-0.095</td><td>0.030</td><td>10.108</td><td>0.001</td><td>0.909</td><td>0.857-0.964</td></tr><tr><td>校正后</td><td>-0.090</td><td>0.041</td><td>4. 769</td><td>0.029</td><td>0.914</td><td>0.843-0. 991</td></tr></table></body></html>
+
+注：校正年龄、性别和BMI。COPD 代表慢性阻塞性肺疾病，SBP 代表收缩压，DBP 代表舒张压，TG 代表甘油三酯,ALE代表白蛋白,SCR 代表肌酐， $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ 代表 25-羟基维生素D。
+
+2.6 BMI 对肌少症患者的预测价值ROC 曲线结果显示，BMI 预测原发性高血压患者肌少症的曲线下面积为0.749( $9 5 \% C \mathrm { I }$ 0.656-0.843)，最佳截断值为 $2 2 . 0 5 ~ \mathrm { k g / m ^ { 2 } }$ ，最佳截断值下敏感度为 $5 2 . 8 \%$ ，特异度为 $8 8 . 9 \%$ 。结果见图5。
+
+![](images/1928183cf503557957b104568cdcf0f37657739cab8c8258f511d39c1819d694.jpg)  
+图5BMI诊断EH患者肌少症的ROC曲线图
+
+Figure 5 ROC curve of BMI diagnosis of sarcopenia in EH patients
+
+# 3讨论
+
+3.1 EH 患者肌少症的患病率国外相关研究表明,肌少症在老年人群中的患病率为 $1 0 \% - 2 0 \% ^ { [ 7 ] }$ ，对中国香港65岁以上人群的流行病学研究表明，肌少症的患病率为 $3 . 1 \% ^ { [ 9 ] }$ 。本研究结果显示肌少症检出率为 $4 9 . 5 \%$ ，高于既往大部分统计的相关数据。然而，在一项国内研究[2]中，肌少症在高血压患者中的患病率为 $7 2 \%$ ，明显高于非高血压组的患病率 $( 4 7 . 2 \% )$ ,远高于本研究结果。国内外报道的肌少症患病率差异很大，且本研究患病率也与以往研究的患病率有明显差异，可能与研究所选择的研究人群、诊断标准及测评工具有关。因此，未来还需要对比其他社区高血压患者肌少症的患病率，才能更客观、全面了解原发性高血压患者肌少症的发病情况。本研究指出年龄是导致肌少症发生的独立影响因素。报道指出，年龄增加与高血压患者的肌力下降、活动受限有密切联系[10]。
+
+3.2 年龄对 EH 患者肌少症的影响国外有研究[11]发现60 岁以上人群中，存在肌少症的有 $1 8 \%$ ，80 岁以上人群中，存在肌少症的有 $5 3 \%$ 。在此次研究中，肌少症患者与非肌少症患者在年龄上有显著差异（ $\cdot 7 8 . 5 0 \pm 1 0 . 1 2$ VS$6 8 . 5 2 { \pm } 9 . 5 8 )$ 。进一步按年龄段分为 ${ < } 6 0$ 岁组、60-75 岁组、 $\geqslant 7 5$ 岁组，肌少症在3个年龄段的检出率分别为$1 5 . 4 \%$ 、 $4 1 . 3 \%$ 、 $6 6 . 7 \%$ ，肌少症的检出率在各年龄段有显著差异。高血压也是与增龄相关的疾病。随着年龄的增长，高血压患者发生肌少症的风险越高，这可能与凋亡信号的激活、被囊细胞的基础功能下降、蛋白质的分解代谢增强、线粒体的功能障碍和自噬功能的初期改变有关，这一系列机制会使肌肉细胞微环境的稳定性被破坏，导致肌纤维合成减少[12-14]。
+
+3.3 性别对 EH 患者肌少症的影响本研究结果发现,男性肌少症的患病率为 $5 9 . 7 \%$ ，女性为 $3 5 . 6 \%$ ，肌肉减少症的罹患率男性明显高于女性,这与国内外以往的研究结果一致。这或许与老年男性睾酮水平下降有关，因为雌激素对肌肉含量和功能的影响没有雄激素显著[15]。睾酮通过抑制 IL-1和IL-6 的形成，这两种物质对肌肉有分解代谢作用，当睾酮水平下降后对IL-1和IL-6 的抑制作用减弱，就会加速肌肉分解，导致肌肉力量、强度及功能均下降。Cheng则认为，男性肌肉质量随着年龄增长而减少的更明显的原因可能是女性拥有更多的脂肪组织来保护肌肉。
+
+3.4 BMI对 EH患者肌少症的影响有关文献报道[17，18]提出，BMI 水平低下是肌少症发病的危险因素。本研究发现，体重正常组、超重组、肥胖组中肌少症检出率分别为 $6 6 . 1 \%$ 、 $3 0 . 0 \%$ 、 $2 5 . 0 \%$ ，不同 BMI 组肌少症检出率不同,肌少症的检出率随着BMI等级增加逐渐下降。这可能与中老年高血压患者长期的膳食结构异常导致营养不良有关，尤其是蛋白质食物的摄取量欠缺将会增加肌肉组织的流失，而肌少症发病风险之一就是营养不足[19]。Calvani[20]等人认为老年人每天补充优质蛋白质 $1 . 0 \mathrm { - } 1 . 5 \mathrm { g / k g } .$ ，能够降低肌少症的发病率。但泰国有研究报道[21]，BMI过高也可能是肌少症的危险因素，推测原因可能为BMI越大，肌肉脂肪浸润越严重，肌肉质量越差，使机体处于炎症反应状态，同时性激素、生长激素水平下降，糖皮质激素和儿茶酚胺增加，诱导蛋白分解抑制蛋白合成，从而导致肌肉减少性肥胖的发生。而本次研究未得出上述结果。考虑原因可能为本次所纳入的研究对象中超重及肥胖人群较少，且以低龄老年人为主，这部分老年人大多是因为低体重、营养不良引起的肌少症。本次研究所纳入的肌少症患者上肢及下肢脂肪含量均显著低于非肌少症患者，未见肌少症性肥胖，出现上述差异的原因可能与纳入人群的种族、饮食习惯、体质、身体成分等因素有关。有学者[22提出将 BMI 作为筛查肌少症的指标，并认为可以将 $2 3 . 0 ~ \mathrm { k g / m ^ { 2 } }$ 、 $2 4 . 3 \mathrm { k g / m } ^ { 2 }$ 作为诊断老年男性、女性肌少症的切点值。本研究通过ROC 曲线分析 BMI对EH患者肌少症的预测价值，结果显示BMI预测EH患者肌少症的曲线下面积为0.749,最佳截断值为 $2 2 . 0 5 \mathrm { k g / m ^ { 2 } }$ 最佳截断值下敏感度为 $5 2 . 8 \%$ ，特异度为 $8 8 . 9 \%$ 。因此，我们认为监测老年高血压患者的BMI情况有助于早期发现肌少症患者，当高血压患者 $\mathrm { B M I } { < } 2 2 . 0 5 \mathrm { k g / m } ^ { 2 }$ 时要警惕肌少症的发生。
+
+3.5血压对 EH患者肌少症的影响本研究Logistic 回归结果发现，收缩压（ $\mathrm { \Delta ( 0 R = 1 . 0 3 8 }$ ， $9 5 \% C \mathrm { I }$ 1.001-1.076, $P <$ 0.05)、舒张压 $( \mathrm { 0 R = 1 . 0 9 5 , 9 5 \% C I }$ 1.035-1.159, $\mathrm { \mathit { P } } { < } 0 . 0 5 \mathrm { \mathit { i } }$ )是中老年原发性高血压患者肌肉减少症发生的危险因素 $( P { < } 0 . 0 5 )$ 。线性相关分析表明收缩压与握力、6m步速、上肢肌肉含量、下肢肌肉含量及ASMI值呈负相关，舒张压与 6m 步速、ASMI呈负相关。韩国Han K开展的一项横断面研究表明[2]，ASMI 与收缩压和舒张压呈负相关，本文研究结论与其一致，说明血压水平对肌肉质量产生负面影响。此外，高血压也会对肌肉功能产生影响。在一项为期 2年的纵向研究中[24]，发现高血压与较低的步态有关。同样据报道，高血压与较低的握力有关[25]本研究结果也显示收缩压和舒张压均与6m 步速呈负相关，收缩压与握力呈负相关。肌力和肌肉功能的降低也许与血压升高有关。Haruhito等[2]研究表明，与无肌少症的患者相比，合并有肌少症的心血管疾病患者具有更高的动脉脉搏速度(AVI)。动脉脉搏速度(AVI)是反应主动脉到肌肉动脉的僵硬度和外周阻力的重要指标[27,28]，动脉僵硬度越高，AVI表现越大。主动脉硬化是高血压的危险因素，高血压会引起骨骼肌血管结构变稀疏，从而影响氧气和营养物质的供应，最终引起肌肉力量、功能和强度的快速下降[29]。
+
+3.6 VitD对 EH患者肌少症的影响目前大量研究已经证实血清维生素低下与肌少症的发生密切相关。Liu等人对社区500多名50-70岁人群进行的一项调研发现， $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ 越低，四肢骨骼肌质量流失越多。有研究3指出$2 5 \left( \mathrm { O H } \right) \mathrm { D } { \gtrsim } 2 0 \mathrm { u g / L }$ 组的下肢肌力及活动能力均优于 $2 5 \mathrm { - ( 0 H ) D { < } 2 0 u g / L }$ 组。本次研究发现，肌少症组患者 $2 5 -$ (OH)D水平明显低于非肌少症组患者,logistic回归分析分析表明 $2 5 \mathrm { - } \left( \mathrm { 0 H } \right) \mathrm { D }$ 水平低下是肌少症的一个独立危险因素。随着 $2 5 \mathrm { - } \left( \mathrm { { 0 H } \right) D }$ 水平的降低，肌少症的发病率增加 $( 0 \mathrm { R } = 0 . 9 0 6 , 9 5 \% C \mathrm { I } 0 . 8 2 4 - 0 . 9 9 7 , P < 0 . 0 5 )$ 。活性维生素D 主要通过参与免疫系统功能的调节、骨骼肌细胞增殖分化、肌管调控,从而维持骨骼肌的正常结构和功能 [3。VitD 缺乏将导致钙磷代谢异常，影响骨矿化[33,出现II 型肌纤维萎缩47，最终导致肌肉萎缩。适当补充维生素
+
+D 可改善肌肉组织的线粒体功能，减少氧化应激等对肌肉强度和身体机能的影响[34，35]。
+
+3.7营养状况对 EH患者肌少症的影响MNA-SF作为筛查老年人营养状况常用的方法之一[36]。研究发现[37，营养不良的人群中肌少症患病率高于正常人群 $( 7 1 . 2 \%$ VS $1 2 . 3 \%$ 0 $\mathrm { \Gamma } ^ { { \cal P } < 0 . 0 1 } ,$ )，且营养不良对握力的影响很大。本研究结果显示肌少症组营养得分平均为23.50(19.50-25.75)分，非肌少症组平均分为27.00(25.50-27.50)分，提示肌少症组存在营养不良，且营养不良者中肌少症的检出率为 $7 4 . 3 \%$ ，在营养正常的情况下，肌少症的检出率为$3 7 . 5 \%$ ，差异具有统计学意义。肌少症患者丧失的最重要的骨骼肌成分就是蛋白质，国内有研究表明[8]，老年人蛋白摄取量越大，测得的肌肉相关指标越好。高血压作为一种慢性疾病，疾病在发展过程会不同程度地消耗能量,导致机体蛋白质合成和分解代谢失衡。在亚洲，患有高血压的消瘦老人往往有潜在的营养不良。老年人营养成分摄入不当和蛋白质补充有限将会导致肌肉组织损耗，并导致肌少症的发生。因此应该注重对老年高血压患者进行合理的膳食指导，保证营养摄入均衡。中国营养学会老年营养分会专家共识[3]建议老年人蛋白质摄入量应保持在 $1 . 0 { ^ { - 1 } } . 5 \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 }$ ，其中,优质蛋白的占比应达到 $5 0 \%$ 。优质蛋白具体来讲是指动物蛋白和乳清蛋白。动物蛋白和乳清蛋白富含亮氨酸和谷氨酰胺，亮氨酸能促进蛋白质快速合成，谷氨酰胺能抑制蛋白快速分解，逆转肌少症的发生[3]。肌少症患者的BMI、MNA-SF评分等与营养状态水平有关的指标都显著低于非肌少症患者，因此除了关注血压水平以外，制定一种针对中老年高血压合并肌少症患者营养状况的早期干预策略对于疾病预后尤为重要。
+
+3.8 我们从慢性疾病情况与肌少症的单因素分析研究中，可以发现COPD、骨质疏松与肌少症关系密切，故纳入二元logistic 回归模型中分析作为自变量，通过调整年龄、性别、BMI 等混杂因素后，发现合并COPD 和骨质疏松在肌少症组与非肌少症组间无统计学差异。既往有研究结果表明 COPD 与肌少症相关。但是在本次多因素分析表明 COPD并不是肌少症发生的独立危险因素，虽然在单因素分析中COPD在肌少症与非肌少症组间具有统计学意义，这可能是由于肌少症组年龄高于非肌少症组，因此后期在我们校正了年龄这个混杂因素后，COPD 在组间变得不在有意义。还可能是由于本研究中COPD 患病与否是基于老年人的自我报告，无法真实体现其患病情况所致。越来越多的基础、临床研究表明肌肉和骨骼，肌少症和骨质疏松之间存在较高的相关性，有学者将肌少症和骨质疏松症共同出现统称为活动障碍综合征。本研究结果显示，骨质疏松对肌少症存在影响，但并非肌少症的独立影响因素，可能与性别、年龄、BMI存在共线性有关。
+
+# 4总结
+
+中老年原发性高血压患者肌少症的患病率较高，及早对原发性高血压患者进行肌少症的筛查及干预显得尤为重要。本研究发现血压越高，肌少症的发生风险越高，因此给我们一个启示，未来对于高血压患者我们除了关注其带来的心脑肾的并发症以外，还要关注肌肉的流失情况。同时对于有高血压的中老年患者，我们建议要合理控制体重，当 $\mathrm { B M I } { < } 2 2 . 0 5 \mathrm { k g / m } ^ { 2 }$ 时要警惕肌少症的发生。
+
+# 作者贡献
+
+杨晨：提出研究思路，设计研究方案，主要研究指标的提出、设计，数据分析与结果的解释，撰写论文；  
+陈军：负责研究研究的实施与可行性分析，负责文章的质量控制及审校;  
+何华娟负责数据的收集、资料整理与录入；  
+李建蒲：负责统计学处理、论文的修订。
+
+本研究局限性：1.研究对象较少,且均为住院患者,肌少症在EH患者中的发病率相对较高，结果可能存在一定偏差，计划在后期扩大样本容量,增加对门诊、社区居民的研究，进一步确认本研究的结论。2.本研究只收集了 EH 患者，没有与非 EH的中老年患者对比，不能完全体现正常血压水平与肌少症的关系，今后再增设健康人群组。参考文献
+
+[1]Cruz-JentoftAJ，Baeyens JP，Bauer JM，et al.Sarcopenia:European consensus on definition and diagnosis:Report of the European Working Group on Sarcopenia in Older People [J]. Age and ageing，2010，39(4): 412-423.DOI: 10.1093/ageing/afq034.   
+[2] 姜珊,康琳,刘晓红.2019 亚洲肌少症诊断及治疗共识解读[J].中华老年医学杂志志,2020,(04):373-376.DOI: 10.3760/cma.j.issn.0254-9026.2020.04.002.   
+[3]FoleyRN，Wang C， Ishani A，et al. Kidney functionand sarcopenia in the United States generalpopulation: NHANES III [J].Am JNephrol， 2007，27(3): 279-286.DOI:10.1159/000101827.   
+[4]ZamboniM，MazzaliG，FantinF，etal.Sarcopenic obesity:Anewcategoryofobesity in the elderly[J].Nutrition, Metabolism and Cardiovascular Diseases, 2007，18(5): 388-395. DOI: 10.1016/j.numecd. SarcopeniainHealthyElderlyParticipantsand GeriatricOutpatients[J].Gerontology,2015,61(6),491-496. DOI:10.1159/000377699.   
+[7]桑德春.老年肌少症研究进展[J].华西医学，2018，33(10)：1219-1223.D0I:10.7507/1002-0179.   
+[8]YuR，Wong M，LeungJ，etal.Incidence，reversibility，riskfactorsandthe protectiveeffectofhighbody mass index against sarcopenia in community-dwelling olderChinese adults [J]. Geriatrics & gerontology international，2014, 14 Suppl 1: 15-28. DO1:10.111/ggi.12220.   
+[9]Potes Y，DeLuxan-Delgado B，Rodriguez-Gonzalez S，etal.Overweight in elderly people induces impaired autophagy in skeletal muscle[J]. Freeradical biology& medicine，2017，110:31-41.DOI: 10.1016/j.freeradbiomed.   
+[10]Looker A C，Wang CY，Prevalence of reduced muscle strength in older U.S.adults:United States,2O11-2012[J]. NCHS data brief, 2015， (179):1-8. PMID: 25633238.   
+[11]Marzeti E，Calvani R，BernabeiR，etal.Apoptosis inskeletal myocytes:a potential target for interventionsagainst sarcopenia and physical frailty-a mini-review[J]. Gerontolgy，2012，58(2):99-106.DOI:10.1159/000330064   
+[12]Marzeti E，Calvani R，Cesari M，et al. Mitochondrial dysfunction and sarcopenia of aging: from signaling P athways to clinical trials [J].The international journal of biochemistry&cell biology,2013,45(10):2288-2301. DOI:10.1016/j.biocel.   
+[13]FanJJ，Kou XJ，JiaSH，etal.Autophagy asa PotentialTarget for Sarcopenia[J]. Journal of celular physiology, 2016，231(7): 1450-1459. DOI: 10.1002/jcp.25260.   
+[14]Verschueren S，GielenE，ONeillTW，etal.Sarcopeniaandits relationshipwithbone mineral density in middle-aged andelderly European men [J]. Osteoporosis international:a journal established as result of cooperation between theEuropean Foundation for Osteoporosis andtheNational Osteoporosis FoundationoftheUSA，2013，24(1):87-98. DOI: 10.1007/s00198-012-2057-z.   
+[15]Cheng Q，Zhu XY， Zhang XM，et al.A cross-sectional studyoflossof muscle mass corresponding to sarcopenia in healthy Chinese men and women: reference values,prevalence,and association with bone mass [J].Journal of bone and mineral metabolism，2014，32(1): 78-88.DOI: 10.1007/s00774-013-0468-3 .   
+[16] Goodman MJ，Ghate SR，Mavros P，et al. Development of a practical screening tool to predict low muscle mass using NHANES 1999-2004[J].Jourmal ofcachexia,sarcopenia and muscle,2013,4(3):187-197.DOI:10.1007/s13539- 013-0107-9.   
+[17]RasaeiN，KashavarzSA，YekaninejadMS，et al.The association betweensarcopenic obesity(SO)and majordietary paterns n overweight and obese adult women [J]. Diabetes & metabolic syndrome，2019，13(4):2519-2524. DOI: 10.1016/j.dsx.2019.06.023.   
+[18]Robinson SM,ReginsterJY,RizzoliR,etal.Does nutritionplayarole inthe preventionand managementofsarcopenia? [J]. Clinical Nutrition， 2018, 37(4): 1121-1132.DOI:10.1016/j.clnu.2017.08.016.   
+[19] CalvaniR，Miccheli A，Landi F，et al. Current nutritional recommendations and novel dietary strategies to manage sarcopenia [J]. The Journal of frailty & aging，2013，2(1): 38-53.DOI:10.1111/apt.15571.   
+[20] Pongchaiyakul C，Limpawatana P，Kotruchin P，etal. Prevalence of sarcopenia and associated factors among Thai population [J]. JBone Miner Metab， 2013，31(3): 346-350.DOI:10.1007/s00774-013-0422-4.   
+[21]游杰，薄亚聪，王萌萌，等.BMI 诊断某社区汉族老年人肌肉衰减综合征的价值［J].郑州大学学报(医学版)， 2017，52(02): 201-204.D0I:10.13705/j.issn.1671-6825.   
+[22] HanK，ParkYM，Kwon H S，et al. Sarcopenia as a determinant ofblood presure in older Koreans:findings from the Korea National Health and Nutrition Examination Surveys (KNHANES) 2008-2010[J]. PLoS One.2014，9(1): e86902. DOI: 10.1371/journal.pone.0086902.   
+[23]Fonseca Alves D J,Bartholomeu-Neto J,Junior ER,et al.Walking Speed，Risk Factors，and Cardiovascular Events in Older Adults-Systematic Review[J].J Strength Cond Res.2017,31(1):3235-3244.DOI:10.1519/JSC.00 00000000002182.   
+[24]DumurgierJ，ElbazA，Dufouil C，etal.Hypertensionandlower walking speedin theelderly:theThree-Citystudy[J]. JHypertens.2010，28(7): 1506-1514.DOI:10.1097/HJH.0b013e328338bbec.
+
+# ChinaXiv合作期刊
+
+[25]HaradaH，IkedaH，NishiyamaY，eta.Increasedarterialvelocitypulse indexisanindependentfactorrelatedtoskeletal muscle mas reduction and tissue damage in patients with cardiovascular disease[J]. Hypertens Res， 2O20，43(6); 534-542.DOI: 10.1038/s41440-020-0404-6.   
+[26]Okamoto M，Nakamura F，Musha T，et al.Association between novel arterialstiffess indices and risk factors of cardiovascular disease [J].BMC cardiovascular disorders，2016，16(1): 211.DOI: 10.1186/s12872-016-0389-x.   
+[27]Hitsumoto T.Arterial VelocityPulse Index as a Novel Markerof Atherosclerosis Using Pulse Wave Analysis on High Sensitivity Troponin T in Hypertensive Patients [J].Cardiology research，2017，8(2):36-43.DOI: 10.14740/cr545w.   
+[28] Gueugneau M，Coudy-Gandilhon C，MeunierB，et al.Lower skeletal musclecapilarization in hypertensiveelderly men[J]. Exp Gerontol， 2016，76: 80-88.DOI: 10.1016/j.exger.2016.01.013.   
+[29]Liu G，LuL，Sun Q，et al. Poor Vitamin D Status Is Prospectively Asociated with Greater Muscle MassLoss in Middle-Aged and Elderly Chinese Individuals[J].Journal of theAcademy ofNutrition and Dietetics，2014，114(10): 1544-1551. DOI: 10.1016/j.jand.2014.05.012.   
+[30]Mastaglia SR，Seijo M，Muzio D，et al.Efect of vitamin D nutritional status on muscle functionand strength in healthy womenaged over sixty-five years[J].The journal of nutrition，health &aging，2011，15(5):349-354.DOI: 10.1007/s12603-010-0287-3.   
+[31]Girgis CM.Vitamin Dand Skeletal Muscle:Emerging Roles in Development, Anabolismand Repair[J]. Calcified tissue internati0nal， 2020，106(1): 47-57.DOI: 10.1007/s00223-019-00583-4.   
+[32]MarantesI，Achenbach SJ，AtkinsonEJ，etal.Is vitaminDadeterminant ofmuscle massand strength?[J].Joural ofbone and mineralresearch: the officialjournal ofthe American Society forBoneand Mineral Research,2O11 26(12): 2860-2871.DO1:10.1002/jbmr.510.   
+[33]Bhat M， Ismail A. Vitamin D treatment protects againstand reverses oxidative stressinduced muscle proteolysis [J]. ANNALS OF NUTRITION AND METABOLISM， 2015，67: 171-179.DOI: 10.1016/j.jsbmb.2015.05.012.   
+[34]Al-EisaE S，AlghadirAH，Gabr SA. Corelation between vitamin Dlevels and muscle fatigue risk factors based on physicalactivityinhealthyolderadults[J].Clinical interventions inaging,2016,11:513-522.DOI:10.2147/CIA.S102892.   
+[35]史玉娟.新版微型营养评定简表在老年慢性病住院患者营养状况评估中的应用价值评价[J].世界最新医学信息 文摘，2019，19(64)： 369-370.D0I:10.19613/j.cnki.1671-3141.2019.64.258.   
+[36]LimpawattnaP，InthasuwanP，Putraveephong S，etal.Sarcopenia in chronic obstructive pulmonarydisease: Astudy of prevalenceand associatedfactors inthe Southeast Asianpopulation[J].Chronic Respiratory Disease，2018，15(3): 250-257. DOI: 10.1177/1479972317743759.   
+[37]姚滢秋.中国营养学会发布《中国居民膳食营养素参考摄入量》2013 年修订版[J].营养学报，2014，36(04)： 308.DOI:13325/j.cnki.acta.nutr.sin.2014.05.001.   
+[38]胡世莲，方向，沈干.老年肌少症的营养干预[J].中华老年病研究电子杂志,2017,4(03):9-12. DOI:10.3877/cma. j. issn. 2095-8757.2017.03.003.

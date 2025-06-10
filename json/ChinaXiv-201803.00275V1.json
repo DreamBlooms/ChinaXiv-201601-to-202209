@@ -1,0 +1,454 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201612312723 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋丽丽,白中科,樊翔,孙鹏肠，卫怡.生物土壤结皮对照相法测量植被覆盖度结果的影响.生态学报,2018,38（4)：1272-1283.SongLLillc2018，38(4):1272-1283.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物土壤结皮对照相法测量植被覆盖度结果的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋丽丽},白中科1,2,\\*，樊翔¹,孙鹏旸},卫怡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国地质大学(北京)土地科学技术学院,北京100083  \n2国土资源部土地整治重点实验室，北京100083",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;植被覆盖度测度的准确性很大程度上影响着研究结论是否科学合理。在干旱半干旱退化草原区,尤其是受采矿剧烈扰动的矿区,发育的生物土壤结皮（Biological soil crust,BSC)由于其颜色和光谱同绿色植被具有相似性,导致对植被覆盖度的测量存在一定的影响。以伊敏露天矿区为研究区,在西排土场和内排土场采集了含苔藓结皮、地衣结皮和藻结皮的样方相片各四组（每组中包含样方喷水前和喷水后的相片各一张),并采集了一组不含结皮的样方相片作为对照组,运用数码照相法提取植被覆盖度,通过不同的数据处理方法(最大似然分类法及RGB 阈值法)进行植被覆盖度提取,设立对比试验,分析 BSC 对于植被覆盖度测度是否有影响,其影响大小如何,影响程度是否受 BSC 含水量大小的影响，并对比各常规处理方法的优劣,研究能否通过结合纹理特征与色彩信息剔除 BSC 对植被覆盖度提取值的影响。研究结论：1)基于照相法的常规数据处理方法提取植被覆盖度时,BSC 的存在导致测得的植被覆盖度值偏高,且苔藓结皮、地衣结皮吸水后比吸水前影响更显著,藻结皮相反;2)3个演替阶段的 BSC 中,尤以含苔藓结皮的样方植被覆盖度高估最为明显,其次为地衣,而含藻结皮样方规律不明显;3）样方内BSC 覆盖度越高,植被覆盖度越低,其植被覆盖度测度越不准确,因此在研究草原矿区这类草本植物覆盖度较低、结皮发育的区域时,应当注意 BSC的影响;4)试通过应用纹理信息提出改进的提取方法,发现单纯的纹理分类精度极低,而结合了纹理信息与 RGB色彩信息的分类精度较高;5)对两种常规分类方法的精度进行比较,RGB阈值法较最大似然分类法更为不准确,对植被覆盖度的高估接近最大似然分类法的2倍。对两种改进的提取方法的精度进行比较,二者都可以有效提高测量精度,基于波段合成的纹理分类方法最佳。四种方法精度由高到低的顺序为：纹理结合RGB法>考虑生物土壤结皮的最大似然分类法>普通最大似然分类法 $\\mathrm { > }$ RGB 阈值法。 ）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植被覆盖度；照相法;生物土壤结皮;露天矿区;纹理分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of biological soil crust on photographically measured value of vegetation coverage ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Lili',BAI Zhongke12\\* ,FAN Xiang',SUN Pengyang1, WEI Yi' 1 College of Land Science and Technology，China University of Geosciences，Beijing 1Ooo83，China 2 KeyLaboratoryof Land ConsolidationandRehabilitation，Ministryof LandandResources，Beijing 1o83，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Vegetation coverageisof great significance toregionaland global isues in thefieldof hydrology，meteorology, and ecology，among others.The accuracy of itsestimation can profoundlyafectresearch conclusions.With the popularizationof high-precision digital cameras，photographsarewidelyused fortheestimationof vegetationcoverage in micro-regions inecological research becauseofitsadvantages，suchasobjectivityand high precision.Inaridandsemi-arid degradedsteppe，and especially in severely disturbed mining areas，the development of biological soil crust（BSC）can afectthephotographically measuredvalue ofvegetationcoverage because itsspectral signature is similarto thatof vegetation.In this study，the Yimin open-pit mine area waschosenas theresearch area，andfour groups of photographs (before and after sprinkling water）containing moss crust，lichen crust，algae crust and no BSC（control）were taken as samples.Then，vegetation coverage was extracted using thedigital photographic method and thedata were processed by diferent methods（maximum likelihood clasificationand RGB threshold method）to establishacomparative test.The extracted values werecompared with the truth-value，acquired by manualloutlining the vegetation coverage，toanalyze the efect of BSConthe vegetationcoverage measurement，evaluatethe extentof theeffect，and determinewhethertheeffect was related to BSC water content.Moreover，basedon thecomparisonof conventional methods，a more acurate method that wouldeliminate the efectof BSCon estimatedvegetation coverage was proposed bycombining texture andcolor information. The main conclusions were as follows:1）The existenceof BSC led totheoverestimationof vegetationcoverage when using conventional methods，andthose of mosscrust and lichen crust were more significant after watering，whereas the results for algae crust were opposite.2）Inthethree succesion stages of BSC,thesamplescontaining moss crust led toa substantial overestimation of vegetation coverage（theresults wereupto ten timesthetruth-valueusing theRGB threshold method and upto six times using the maximum likelihood clasification），followed by lichen crust （theresult wereup to four times the truth-value usingtheRGBthreshold methodandup totwo times using the maximum likelihood clasification），butthe algae crust was not significant because the variance was too large.3）When BSC coverage increasedor vegetation coverage decreased，the accuracyofthe estimated vegetationcoverage decreased，which suggested that the effctof BSC cannot be ignoredinlowvegetation coverage mining areas on the steppe.4）In an atempt to improve the estimation method using texture information，theaccuracyof textureclasification wasverylow，whilecombining texture information with RGBcolor informationresulted inhighaccuracy.5）Forthetwoconventional Clasification methods，theRGB threshold method ledto vegetation coverage overestimationas largeas twice thatof themaximum likelihood clasification.Forthe twoproposed methods，both efectively increased accuracy and texture clasification，although the method basedon band stacking was beter. Comparing the four estimation methods，the accuracy was ranked as follows:texture combined with RGB method $>$ maximum likelihood classification considering BSC> maximum likelihood classification $>$ RGB threshold method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: vegetation cover; photographic method; biological soil crust； open-pit mine ; texture analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度在水文、气象、生态等方面的区域或全球性问题研究中起重要的作用,在生态脆弱区,尤其在退化草原矿区,可服务于矿区复垦效果的监测与监管,是表征生态退化与恢复的重要指标,其测度的准确性很大程度上影响着研究结论是否科学合理[1-2]。一般意义上的植被覆盖度是指维管植物的覆盖度。而实际情况中,在生态环境恶劣的干旱半干旱区域[3]、荒漠区、退化草原区、退耕还林地[4]、特别是受采矿剧烈扰动的矿区复垦土地,会产生由隐花植物与土壤固结而形成的“生物土壤结皮\"（Biological soil crust,BSC）,它在生物防沙、固沙和生态小环境的改善[5-7]中发挥着不可替代的作用,强烈影响陆地生态系统[8-9]。以苔藓结皮为例,不少具有极强耐旱性的苔藓在干旱和半干旱地区有分布[10],作为环境演替过程中的先锋植物,它的主要作用是产生大量的假根并将其附着于沙丘上形成 BSC,从而达到固定沙丘的目的。BSC 这一特殊形态与维管植物在颜色、光谱方面具有极大的相似性,在进行植被覆盖度提取时,其提取值可能会受到显著的影响：房世波、冯秀绒等研究得出,湿苔藓结皮光谱曲线与维管植物的光谱曲线相似,苔藓在生命活动期的光谱曲线具有高等植物光谱曲线特征[1-12],房世波等提出苔藓结皮可能造成其盖度分布较大区域的植物指数的不稳定性和该区域植被生产力的过高估计[13];房世波和张新时量化研究了苔藓结皮干、湿变化能在多大程度上影响区域 NDVI值[8];陈晋研究发现藻类 BSC 在 $6 0 0 { - } 7 5 0 \\mathrm { n m }$ 范围内的反射率与干枯植被和裸沙相当接近[14]。虽然BSC 与维管束植物一样可以指示生态恢复,部分高等苔藓也可以进行光合作用,与维管束植物有相似性,但植被覆盖度这一指标应用极为广泛,具有多方面的指示意义,如在土壤圈可以应用到侵蚀模数的计算、土地退化的评价,在大气圈可以应用到地表温度的测量、气候模型的建立,在水圈可以应用到蒸散量的计算、水文模型的建立,在生物圈可以应用到生物量的计算、植被产量模型的建立等诸多方面。在大多方面的应用中,植被覆盖度与 BSC覆盖度二者具有不同的指示意义,不能混为一谈,因此将生物土壤结皮对植被覆盖度提取的影响剔除对于确保以上研究的准确性是有重大意义的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度的测算方法可以分为目测估算法、统计测量法、仪器测量法和遥感模型法等4类[15]。近年来仪器测量法随着数码照相设备的普及、相机精度的提高、价格的降低,应用逐渐广泛,是地面测量中最客观、精度较高的方法。利用数码照相法测量植被覆盖度的基础图像处理方法大体可以分为彩色空间判别法和图像分类法两类,在生态领域,照相法用于提取植被覆盖度的研究已经较多,也取得了较好的成果[16-22]。而受 BSC影响,运用照相法这一主要依据色彩信息的方法进行提取时,植被覆盖度提取值是偏高的,不能准确反映实际情况,为此,要想运用照相法准确提取BSC发育区域的植被覆盖度,除色彩信息外,还需结合其他特征来识别植被与非植被。纹理特征是一种区域特征,可以很好地反映图像或物体本身各元素之间空间分布的特性,纹理特征的运用对于图像分类、信息提取的优化是有极大作用的。1998年,Carr和 Miranda 比较了各纹理方法用于图像分类,得出灰度共生矩阵方法对于光学图像分类效果较好的结论,发展到现在,基于灰度共生矩阵提取纹理特征的方法已经是一个经典的统计分析方法[23]。Ge研究使用天然彩色照片检测8种类型的地面覆盖,他证明了由于颜色的相似性,8个覆盖类型可分性很低,而应用纹理分析后可分性明显改善[24];赵安玖等运用灰度共生矩阵法提取纹理信息,以不同图像处理方式的纹理参数作为辅助变量进行地统计分析估算有效叶面积指数[25];姜青香和刘慧平采用纹理分析方法对高分辨率图像的纹理信息进行分析,通过确定熵的最佳阈值,将菜地和耕地分割开来[26]。但是随着研究的进一步发展,许多学者指出单纯的纹理分类精度要远低于光谱与纹理特征结合得到的分类精度。李智峰等把提取得到的纹理特征作为一个波段参与地物分类,有效提高精度[27];Zhou 等利用数码相片,通过结合光谱和纹理的非监督分类方法提取了草地植被覆盖度,精度大大提高[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前研究BSC对照片法测量植被覆盖度的影响的文章较少,以复垦矿区为研究区的未见公开报道,而且主要以苔藓结皮为研究内容,对地衣结皮、藻结皮的关注度较低。前人运用照相法进行植被覆盖度测量的研究中,无论是采用彩色空间判别法或是图像分类法，一般只将图像所包含信息分类为植被信息、土壤背景信息,都没有考虑到结皮这一特殊存在。因此基于照相法在干旱半干旱退化草原矿区提取草本植被覆盖度时，是否会受到 BSC 影响,影响程度有多大,能否结合相片色彩信息与纹理信息有效剔除 BSC 对植被覆盖度的影响是本研究的重点内容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "伊敏一号露天矿位于内蒙古自治区呼伦贝尔市鄂温克旗境内，东西长度 $7 . 4 0 \\mathrm { k m }$ ,南北宽度 $4 . 1 0 \\mathrm { k m }$ ,面积23.60km²，1976年开采，设计规模为 $1 0 . 0 \\mathrm { M t / a }$ 。矿区所在地年均温 $- 1 . 9 \\mathrm { ^ c }$ ,年均降水量 $3 7 5 . 4 \\mathrm { { m m } }$ ,年均蒸发量$1 1 6 6 . 0 \\mathrm { { \\ m m } }$ ;气温年较差13- $1 6 \\%$ ,无霜期短,光照充足;矿区内土壤主要以人工堆垫土为主,主要植被类型为人工恢复的马蔺（Irisensata）、羊草（Leymus chinensis（Trin.） Tzvel）、蒲公英（Taraxacum mongolicum）、铁杆蒿（Compositae）、沙棘（Hippophae rhamnoides Linn）；由于剧烈的人为开采活动,矿区内地形地貌发生改变,土壤受到污染,植物被拔除,生态环境遭到严重破坏;矿区周围由于放牧、采矿等人类活动土壤盐渍化严重。矿区位置及排土场示意见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矿区内的复垦工作主要在西排土场、内排土场和沿邦排土场开展。由于排土场土壤层次被打乱,再加上自然条件较差,导致排土场植被种植困难、长势较差。在这样的条件下，一些能够适应干旱的隐花植物就充当了复垦的“先锋物种”,形成 BSC,以苔藓结皮（由于研究区处于干旱半干旱区,多数为藓类结皮）、地衣结皮居多，藻结皮较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矿区西排土场复垦年限在30a以上,坡面几乎完全沉降,BSC 发育较好,优势藓种为小牛舌藓;内排土场复垦年限在 $2 5 \\mathrm { a }$ 以上,只有很少一部分有植被恢复,BSC以苔藓结皮和地衣结皮为主。沿邦排土场复垦年限在30a以上,未发生沉降,植被长势较好,结皮不发育。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于水分对结皮活性有影响,进而可影响植被覆盖度,故选择晴朗且拍摄前数日都无降雨的天气,使用佳能相机(Canon EOS 550D)在伊敏矿区西排土场和内排土场拍摄地面干燥情况下样方内缘大小为 $3 0 \\mathrm { c m } \\times 3 0 \\mathrm { c m }$ 的相片,样方内包含草本植被、BSC(苔藓结皮、地衣结皮、藻结皮)及其他土壤背景,其中苔藓结皮、地衣结皮、藻结皮各有四组,每组中包含样方喷水前和喷水后的相片各一张,并采集了一组不含结皮的样方相片作为对照组;每拍摄完一个样方的相片,利用喷水壶对每个样方内都均匀喷洒了 $1 . 0 \\mathrm { m m }$ 的水,等待30s后,水被充分吸收,此时再进行拍照取样,获取喷水润湿后的样方相片。拍照时,两臂稳持相机,将相机至于样方中心点上方，保持垂直向下的角度和约 $ { 1 \\mathrm { m } }$ 的高度，同时利用大遮阳伞对样方范围内进行遮阳以避免局部阴影，进行拍照。为凸显植被覆盖度受 BSC 的影响大小,特选取植被较少、覆盖度极低的区域采样。/",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/17a75534afc510b8817724dca36a6fbb22ba55316ce13aecdc70560964e7b244.jpg",
+        "img_caption": [
+            "图1伊敏露天矿区示意图Fig.1 Yimin open-pit mine"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3数据预处理与植被覆盖度真值获取",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)几何校正。为了缩小边缘几何畸变,减小误差,利用ArcGIS 软件实现对照片的几何校正,选择相片内样方的4个直角顶点以及中心点共5个点作为校正的控制点,分别赋予坐标（0,0）、（1000,0）、（1000,1000）、（0,1000）、（500,500）。（2)相片裁剪。利用ArcGIS软件,沿样方内缘将照片裁剪出来,使所有裁剪后相片的大小都为实际大小即 $3 0 \\mathrm { c m } \\times 3 0 \\mathrm { c m } _ { \\circ } \\ : \\mathrm { ~ } ) ( 3 \\$ )植被覆盖度真值。在ArcGIS 软件环境下,结合人眼目视解译,勾勒描绘出植被范围,求得植被覆盖度。由于用这种方法得到的植被覆盖度精度很高,接近植被覆盖度的准确值，因此将这个值称为“真值”。数据预处理过程示意如图2。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7227fa942bd0ac89d1b713b489351d5e4093e1da400f478dc36b2f3c90a16e2.jpg",
+        "img_caption": [
+            "图2数据预处理示意图Fig.2Data preprocessing"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4主流方法获取植被覆盖度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度的测度是否受到BSC的影响，其影响结果正负、大小如何,需要将植被覆盖度真值与主流处理方法所提取的植被覆盖度值进行对比，因此特选取了彩色空间判别法中最广泛应用的RGB 阈值法和图像分类法中最广泛应用的最大似然分类法（Maximum likelihood classification,ML)进行研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)RGB 阈值法获取植被覆盖度:数码相片反映的植被与非植被地物颜色（Digital number,DN)是由不同组合规律的红(Red,R）、绿(Green,G）、蓝（Blue,B)三基色构成。张学霞等[29]通过研究认为,植被像素红、绿、蓝三基色的信息构成规律可综合描述为： $\\mathrm { D N } _ { \\mathrm { G } } { > } \\mathrm { D N } _ { \\mathrm { R } }$ 同时 $\\mathrm { D N } _ { \\mathrm { G } } { > } \\mathrm { D N } _ { \\mathrm { B } }$ ;其余则为非植被。条件用语句表示为：( $\\mathrm { D N } _ { \\mathrm { G } } { > } \\mathrm { D N } _ { \\mathrm { R } }$ )n $( \\mathrm { D N } _ { \\mathrm { G } } { > } \\mathrm { D N } _ { \\mathrm { B } }$ )fcover $^ { \\cdot = 1 }$ ；Else fcover $= 0$ 。分析相片的DN值信息,统计即可得到植被覆盖度。(2)ML 法获取植被覆盖度;ML法是由人工选取训练样本,由计算机根据训练样本的均值和方差来评价其他像元和训练类别之间的相似性,以此进行分类。利用ENVI软件,模拟通常条件下未考虑 BSC 存在,对每张相片中的每种要素（除 BSC 外),选取20处以上感兴趣区作为训练样本,对整张相片进行分类。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5提出改进方法获取植被覆盖度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为提高照相法提取植被覆盖度的精度,在考虑 BSC 的条件下,探索能够以高精度准确识别出结皮,并将其与植被区分开来的方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)考虑BSC 的最大似然分类法（以下称 $\\mathrm { M L } +$ 法)获取植被覆盖度：利用ML+法提取植被覆盖度值时，将1BSC作为一类训练类别，理论上来说其分类精度会大大提高。 C ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)基于纹理特征获取植被覆盖度：纹理特征能够很好的识别 BSC,不同类型的纹理特征统计量所反映的信息不相同,研究利用 ENVI软件的 co-occurrence texture 模块实现相片纹理特征的提取,包括中值、协方差、同质性、反差、差异性、熵、二阶距、自相关等。对比了8类特征统计量在单纯纹理分类下和融合了纹理信息与RGB信息的波段合成分类下所反映的植被覆盖度与真值的接近程度,初步认为单纯纹理分类精度极低，而波段合成的分类精度较高,其中又以协方差(V)这种特征统计量所提取的纹理特征与RGB 信息合成可以最好的反映样方相片信息（以下称纹理结合RGB法）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1主流方法获取植被覆盖度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选取了彩色空间判别法中最广泛应用的RGB 阈值法和图像分类法中最广泛应用的ML分类法进行植被覆盖度提取。 A",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "处理得到4组数据平均值,如图3所示,分析可以得出在对研究区样方植被覆盖度进行提取时：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)含有苔藓、地衣、藻结皮的样方,运用常规的RGB 阈值法和ML 法所得到的结果都远高于真值（图3)；而从形成的分类图片上来看（图4）,不含结皮的样方结果与真值相差极小，属正常误差范围。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)3种 BSC中,尤以含苔藓样方植被覆盖度高估最为明显,RGB 阈值法高估可达真值的10倍,ML 法可达6倍;其次为地衣结皮,RGB 阈值法高估可达真值的4倍,ML法可达2倍;藻结皮数据方差较大,高估程度不稳定。这是由于苔藓、地衣等结皮呈绿色,在RGB色彩方面与绿色植被混淆、难以区分、规律明显,而藻类颜色虽呈墨绿色,但光谱特征与植被明显相异,规律不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)对比含 BSC 样方在喷水前后的植被覆盖度提取值发现,含苔藓、地衣结皮样方喷水后的提取值要高于喷水前的值,这是由苔藓和地衣结皮的特性所导致的:苔藓、地衣结皮在干燥状态下由于缺水失去活性,吸水后恢复活性,结皮呈绿色部分增加且光谱与绿色植被有相似的变化规律[12],易被混淆,故喷水后的植被覆盖度提取值要高于喷水前的值;而含藻结皮的样方,喷水后的提取值接近或低于喷水前,这是藻类在吸水后反射率变低而导致的,与其他学者研究结果一致[30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4)两种分类方法的精度进行比较,RGB 阈值法较 ML 法更为不准确,对植被覆盖度的高估接近ML 法的2倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/07b0faa5b33d1c5a629f5de38b3dd4201b169a8bbef8d09087187830d115b24e.jpg",
+        "img_caption": [
+            "图3含各类生物土壤结皮的样方植被覆盖度提取",
+            "Fig.3Vegetation coverage measurement of samples containing various biological soil crus "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2改进方法提取植被覆盖度",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运用提出的两种改进提取方法，即 $\\mathrm { M L } +$ 法和纹理结合RGB法(纹理特征统计量选择协方差)来进行植被覆盖度提取。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "处理得到4组数据平均值,如图5所示，可得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)将结皮单独识别为一类可提高精度;运用ML法提取植被覆盖度时将 BSC单独作为一类比不考虑结皮的分类精度要大大提高，同时也说明了BSC 对植被覆盖度测度的影响;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)基于波段合成的纹理分类方法最佳:由于苔藓、地衣、藻类等 BSC 的纹理特征明显,理论上应用纹理信息的分类可以较好的识别并区分BSC。从提取出的植被覆盖度值与真值的对比上来看（图5）,基于纹理与RGB 合成的分类能够最好的贴近真值,相较其他方法,最准确地反映了植被覆盖度;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)两种改进的方法对含地衣结皮样方改进效果最好,尤其能高精度识别喷水后的地衣结皮,而含苔藓结皮样方喷水后的识别值仍高于喷水前；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4)从最后形成的分类图片上来看(图6),辅助验证了1)和2)的结论,同时可以明显看出单纯纹理分类的精度低，不适宜用作区分BSC与草原区植被。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于以上,为了方便准确地提取研究区植被覆盖度,可以利用纹理特征与RGB色彩组合的信息来进行分类提取，能达到较高的精度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3四种方法精度对比分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比四类方法的植被覆盖度提取误差百分比,如图7所显示,可以得出结论：针对有结皮的样方,采用改进方法处理的植被覆盖度提取精度要高于常规的处理方法,精度由高到低的顺序为：纹理结合RGB 法 ${ \\mathrm { > M L + } }$ 法>ML 法 $ { \\mathrm {  ~ \\cdot ~ } } >$ RGB 阈值法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4四种方法对地物识别的准确性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了研究误差来源、查清有多少结皮被错误识别为植被,利用Matlab 软件的遍历比较功能,分别对相片信息（包括植被、BSC、其他土壤背景信息)的实际分类结果（人工手动勾勒）、常规方法处理得到的分类结果、改进方法处理得到的分类结果进行像元对像元比较，以实际分类结果为基准,分别计算出 RGB 阈值法、ML法、 $\\mathrm { M L } +$ 法、纹理结合RGB法这四种方法下,有多少个像元被错误识别,统计计算机自动将结皮像元点错误识别为植被像元点的像元总数及其所占比例（即生物土壤结皮被错误识别为植被的像元数与样方内总像元数的比例）,对比各方法对于植被与BSC 识别的准确性。（图8)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e3752a42f0295a4e11284972a7bb47dc5116d47184418ee2db8210203c41fdb.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "e 4证 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">样方 Sample</td><td rowspan=\"3\">真值/% Truth-value</td><td colspan=\"4\">RGB阈值法 RGB-way/%</td><td colspan=\"4\">最大似然分类法 Maximum likelihood/%</td></tr><tr><td colspan=\"2\">结皮不单独分类</td><td colspan=\"2\">结皮单独分类</td><td colspan=\"2\">结皮不单独分类</td><td colspan=\"2\">结皮单独分类</td></tr><tr><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td></tr><tr><td>含苔藓 Containing moss</td><td>1.9466</td><td>17.5546</td><td>19.7051</td><td></td><td></td><td>9.4873</td><td>12.7202</td><td></td><td></td></tr><tr><td>含地衣 Containing lichen</td><td></td><td></td><td></td><td></td><td></td><td>11.8936</td><td></td><td></td><td></td></tr><tr><td>含藻 Containing algal</td><td>6.0089</td><td>24.1050</td><td>25.3250</td><td></td><td></td><td></td><td>12.6559</td><td></td><td></td></tr><tr><td>无结皮 No crust</td><td>0.9018</td><td>4.3510</td><td>3.0698</td><td></td><td></td><td>1.5940</td><td>1.4083</td><td></td><td></td></tr><tr><td></td><td>0.6255</td><td>0.5733</td><td>0.8801</td><td></td><td></td><td>6.3696</td><td>4.7955</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/157071a3bec7b2b74350610e4a460c30b2a7e823969ca90c0b5a8b85595e61ca.jpg",
+        "img_caption": [
+            "图5含各类生物土壤结皮的样方植被覆盖度提取改进",
+            "Fig.5Improvement of vegetation coverage measurement of samples containing various biological soil crust "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表1所示,利用Matlab软件的函数实现一组图片的像元对像元比较后,得到不同方法下将各类 BSC 被错误识别为植被的像元数及其所占比例。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可以得出验证结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)苔藓、地衣两类结皮对于植被覆盖度的影响比较大,而藻类的影响相对小,这与上述结论一致。(2)针对有结皮的样方,采用改进方法处理的植被覆盖度提取精度要高于常规的处理方法,精度由高到  \n低的顺序为：纹理结合RGB法 $\\mathrm { > }$ ML+法 ${ \\bf \\cdot } { \\bf > } { \\bf M } { \\bf L }$ 法>RGB阈值法。进一步验证了上述结论，说明针对结皮的植被  \n覆盖度提取方法改进是有效的。(3)纹理结合RGB是4种方法中的最优数据处理方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/85972ee1ae0c90d60e7027d5f7d6ecb2b84e1c4f45a3fc383b7f8ee0e3551ed8.jpg",
+        "table_caption": [
+            "表1不同方法对地物识别的准确性分析(结皮错误识别为植被)",
+            "able 1Accuracy analysis of different methods of object recognition(crust misidentifica "
+        ],
+        "table_footnote": [
+            "ML：最大似然分类Maximumlikelihood; $\\mathrm { M L } +$ ：考虑结皮的最大似然分类Maximumlikelihood+"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table vegetatioi) 结皮错误识别为植被 Crust misidentification to vegetation</td></tr><tr><td>处理方法</td><td colspan=\"3\">像素数（个）/百分比 pixel count(individual)/percent/%</td></tr><tr><td>Methods</td><td>苔藓 Moss</td><td>地衣 Lichen</td><td>藻Algal</td></tr><tr><td>RGB阈值法RGB-way</td><td>260749/3.56</td><td>546460/7.88</td><td>40943/0.58</td></tr><tr><td>ML 法 Maximum likelihood</td><td>384510/5.26</td><td>178240/2.57</td><td>9708/0.14</td></tr><tr><td>ML+法 Maximum likelihood +</td><td>59203/0.81</td><td>25601/0.37</td><td>7445/0.11</td></tr><tr><td>纹理结合 RGB 法 RGB combined with texture</td><td>24246/0.33</td><td>16642/0.24</td><td>2393/0.03</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7042dc2002b489c8e88df68b9b62687674c70f7a1b5299429349cc4d921fa08b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "rrerereireeegerererrereeegr nereeerlereerrenele grgeeesenr "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">样方 Sample</td><td rowspan=\"3\">真值 Truth-value/%</td><td colspan=\"4\">考虑结皮的最大似然分类法 Maximum likelihood+/%</td><td colspan=\"3\">纹理分类法Texture/%</td></tr><tr><td colspan=\"2\">结皮不单独分类</td><td colspan=\"2\">结皮单独分类</td><td colspan=\"2\">单纯纹理分类</td><td colspan=\"2\">纹理结合RGB分类</td></tr><tr><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td><td>喷水前</td><td>喷水后</td></tr><tr><td>含苔藓 Containing moss</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">含地衣 Containing lichen</td><td>1.9466</td><td></td><td></td><td>5.4181</td><td>8.1985</td><td>19.9761</td><td>25.1817</td><td>3.1847</td><td>2.8468</td></tr><tr><td>6.0089</td><td></td><td></td><td>11.0755</td><td>6.0624</td><td>33.4758</td><td>42.8968</td><td>9.7342</td><td>4.2913</td></tr><tr><td rowspan=\"2\">含藻 Containing algal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.9018</td><td></td><td></td><td>2.0004</td><td>1.2380</td><td>15.2559</td><td>6.0665</td><td>1.1713</td><td>0.9220</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6824d0654e6c2f85116b5ecb1d0424fdc068267db01f4d7b4b34d85b8eb01dec.jpg",
+        "img_caption": [
+            "Fig.7The percentage error of methods before and after wetting "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ML：最大似然分类 Maximum likelihood; $\\mathrm { M L } +$ ：考虑结皮的最大似然分类Maximumlikelihood+",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/afeabd39c4dbe12550a37b0c5aed97bb606bdaca63c246fb36c1c8bb46c84b94.jpg",
+        "img_caption": [
+            "图7喷水前后各分类方法误差百分比对比",
+            "图8计算机错误识别示意图Fig.8Recognition error sketch"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)基于照相法提取植被覆盖度时,苔藓结皮、地衣结皮的存在导致测得的植被覆盖度明显偏高;藻结皮  \n对植被覆盖度的影响规律不明显。  \n(2)苔藓结皮、地衣结皮吸水后由于颜色变绿、光谱与绿色植被有相似的特征,易被混淆,导致对植被覆  \n盖度的高估更显著，藻结皮吸水后反射率降低,高估程度相应减弱。(3)3个演替阶段的生物土壤结皮中,苔藓结皮对植被覆盖度影响最为明显,其次为地衣,而藻结皮最弱。（4)4种提取方法精度由高到低的顺序为：纹理结合RGB 法 ${ \\mathrm { > M L + } }$ 法 ${ \\mathrm { \\cdot { > M L } } }$ 法 $ { \\mathrm {  ~ \\cdot ~ } } >$ RGB 阈值法，提出的改进方法可以有效提高植被覆盖度测量精度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2讨论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)研究区为干旱半干旱地区的退化草原矿区,该类地区的特征就是环境因子的变化幅度较大,环境条件恶劣,各种环境因子之间作用十分复杂[10],尤其是在初复垦的矿区,生态系统由极度恶劣逐渐恢复,耐旱结皮发育丰富。依据研究的结论,在研究退化草原区、生态恢复矿区等同类型区域的植被覆盖度时,应当考虑使用改进的方法提取植被覆盖度,以剔除 BSC 的影响,为其他以植被覆盖度为基础的研究提供较准确的值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)本研究得出湿润的苔藓结皮、地衣结皮对植被覆盖度的影响要大于干燥的结皮,这是由于结皮吸水导致颜色、光谱特征与绿色植被类似。这一结论从侧面反映了在使用遥感模型法提取地区植被覆盖度时会出现高估严重、测量值忽高忽低不稳定的原因之一，即：如果测量区域的遥感影像是获取于降雨后的一段时间内,由于吸水结皮的影响,植被覆盖度就会出现高估的现象;如果测量区域出现短暂性降雨,那么同一地区不同时相的遥感影像所提取出来的植被覆盖度值之间也会有较大出入，更可能导致研究结果的不正确。因此遥感模型法提取植被覆盖度时也有必要考虑结皮以及降水的影响,如果研究结皮较为发育的区域,应当选择拍摄前后一段时间内都无降水的影像,并考虑结合纹理特征剔除结皮影响。 5",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "此外,不同类型的BSC吸水量能力有差异,例如苔藓植物的水分依种类不同而不同，一般吸水量都很大，从低于植物体干重的 $5 0 \\%$ 到高于干重的 $200 \\%$ 不等[31],尖叶泥炭藓（Sphagnum nemoreum Scop）吸水量可达本身重量的 $9 4 . 3 \\% ^ { [ 3 2 ] }$ 。而吸水量的不同使得颜色变化、光谱特征变化程度不同,势必也导致影响程度的不同、错误识别率的不同，自变量和因变量之间存在的关系成为值得关注的研究内容。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3)在没有使用改进方法提取植被覆盖度时,同种类的BSC,有些会在计算机自动处理的过程中被错误识别为植被,而有些则会被识别为非植被,这可能是由于被错误识别与未被错误识别的 BSC之间存在某些特性上的差异：例如单纯从有苔藓结皮这一类样方的相片上来看,被错误识别的 BSC 颜色类似绿色植被,充满水分,活性较好;而未被错误识别的 BSC 颜色较浅、发白,可能是由于吸水不充分、生态环境太差导致干枯时间过久而永久失去活性。二者之间具体的理化性质分析有待设计室内实验进行。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1］秦伟，朱清科，张学霞，李文华，方斌．植被覆盖度及其测算方法研究进展.西北农林科技大学学报：自然科学版，2006，34（9)：163- 170.  \n［2］任杰，柏延臣，王锦地.从数码照片中快速提取植被覆盖度的方法研究.遥感技术与应用，2010,25(5）：719-724.  \n[3］王一贺，赵允格，李林，高丽倩，胡忠旭.黄土高原不同降雨量带退耕地植被-生物结皮的分布格局.生态学报，2016,36(2)：377-386.  \n[4］杨永胜，邱永利，周小泉，穆兴民，卜崇峰.毛乌素沙地人为干扰苔藓结皮的土壤水分和风蚀效应.水土保持通报,2015,35(1)：20-24.  \n[5］邢旭明,马晓东，张元明.古尔班通古特沙漠生物土壤结皮对土壤种子库多样性与分布特征的影响.生态学杂志，2016，35（3)：612-620.  \n[6］刘翔，周宏飞，刘吴，朱海.不同类型生物土壤结皮覆盖下风沙土的入渗特征及模拟.生态学报，2016,36(18)：5820-5826.  \n[7]Li,XR,TanFaRLagZ,uLC.Dolgicalteevegeatiagiadselicatioartificial vegetation. Hydrological Processes，2010，24(25）:3621-3630.  \n[8］房世波，张新时.苔藓结皮影响干旱半干旱植被指数的稳定性.光谱学与光谱分析，2011,31（3）：780-783.  \n9]VitofohfhscocaedLa88.  \n[10] 张元明，曹同，潘伯荣.干旱与半干旱地区苔藓植物生态学研究综述.生态学报，2002，22（7)：1129-1134.  \n[11］房世波.苔藓结皮光谱的变异性研究.红外与毫米波学报，2010，29(5)：347-350.  \n[12］冯秀绒，卜崇峰，郝红科，杨延征，张广军.基于光谱分析的生物结皮提取研究——以毛乌素沙地为例．自然资源学报，2015，30（6)：1024- 1034.  \n[13] 房世波，刘华杰，张新时，董鸣，刘建栋.干旱、半干旱区生物土壤结皮遥感光谱研究进展.光谱学与光谱分析，2008，28（8）：1842-1845.  \n[14] 陈晋，杨伟，张元明，王雪芹.古尔班通古特沙漠生物土壤结皮反射光谱特征分析.光谱学与光谱分析，2008，28(1)：28-32.  \n[15] 瞿瑛，刘素红，夏江周.照相法测量冬小麦覆盖度的图像处理方法研究.干旱区地理，2010,33(6)：997-1003.  \n[16］路炳军，刘洪鹄，符素华，章文波，袁爱萍.照相法结合数字图像技术计算植被覆盖度精度研究.水土保持通报，2007,27（1）：78-80,85-85.  \n[17］班爱琴，钱育蓉，莫媛淇，杨楠.用植被判定流程图法从数码照片中快速提取植被覆盖度.西北农林科技大学学报：自然科学版，2012，40(8):200-206.  \n［18］顾祝军.植被覆盖度的照相法测算及其与植被指数关系研究[D].南京：南京师范大学，2005.  \n[19］龚大鑫，贠汉伯，窦学诚，吴青柏，刘永智，孙志忠，陈浩，芮鹏飞，李国臣.青藏工程走廊多年冻土段植被覆盖度动态快速测量方法研究.中国沙漠，2013，33(2)：412-418.  \n[20］雷星松，阮智星，刘素红.照相法在植被覆盖度测量中的误差分析.闽江学院学报，2008，29(5）：120-124，132-132.  \n[21］陈祖刚，巴图娜存，徐芝英，胡云锋.基于数码相机的草地植被盖度测量方法对比研究.草业学报，2014,23（6)：20-27.  \n[22]LukinaEVoeMLunW.EstiatigvegetatiocoveageihatusingditaliagesJoaloflantutrio9（):341-350.  \n[23］许建东，栾鹏，樊笑英，林旭东.基于遥感影像光谱与纹理分析的地物分类——以长白山天池火山地区为例.地震地质，2009,31（4)：607-616.  \n[24]GeSK，CauthrsR，og，HraA.extureaalysisformappngrixrvfoausinrialpotogaphngtheCchekCalifornia.Environmental Monitoring and Assessment,2006,114(1/3）：65-83.  \n[25］赵安玖，杨长青，廖成云.基于影像纹理特征的川西南山地常绿阔叶林有效叶面积指数的空间分析.应用生态学报，2014，25（11)：3237-3246.  \n[26］姜青香，刘慧平.利用纹理分析方法提取TM图像信息.遥感学报，2004，8（5)：458-464.  \n[27] 李智峰，朱谷昌，董泰锋.基于灰度共生矩阵的图像纹理特征地物分类应用.地质与勘探，2011,47(3)：456-461.  \n28]ZhouQbotoatedgedveatcodsittiatiioddgialagdaltesInt.J.Remote Sensing International Journal of Remote Sensing，2001,22(17）：3457-3470.  \n[29］张学霞，朱清科，吴根梅，孙丹珠.数码照相法估算植被盖度.北京林业大学学报，2008，30(1)：164-169.  \n［30］徐晓腾.宁夏盐池沙地土壤结皮理化性质对环境的影响及反射光谱的分析[D].北京：北京林业大学，2015.  \n［31］吴鹏程.苔藓植物生物学.北京：科学出版社，1998.138-138.  \n[32］吴玉环，程国栋，高谦．苔藓植物的生态功能及在植被恢复与重建中的作用.中国沙漠，2003，23（3）：215-220.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

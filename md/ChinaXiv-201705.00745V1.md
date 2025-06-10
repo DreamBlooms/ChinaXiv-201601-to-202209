@@ -1,0 +1,219 @@
+# 劫持性期刊现象研究
+
+郭进京陈秀娟1²陈雪飞²黄金霞²（1.中国科学院大学北京100049）（(2.中国科学院文献情报中心北京100190）
+
+摘要：以Mehrdad Jalalian最近更新的劫持性期刊列表及Jeffrey Beall所公布的劫持性期刊为数据源，结合MehrdadJalalian个人主页、期刊网页信息、乌利希国际期刊指南、JCR报告等，对劫持性期刊相关信息进行调研。从期刊网址、影响因子、国别和地区分布、期刊语种和学科分布、期刊类型等方面总结了劫持性期刊的特点，分析了该现象产生原因和带来的危害，总结出识别和应对劫持性期刊的方法。为期刊界、信息服务机构、作者识别和应对劫持性期刊现象提供参考和借鉴。
+
+关键词：欺诈性行为；劫持性期刊；掠夺性期刊；应对方法中图分类号：G255 文献标识码：B DOI:
+
+# Research on the Phenomenon of Hijacked Journals
+
+Abstract: Based on the lists of hijacked journals which were recently developed by Mehrdad Jalalian and provided by Jeffrey Beall,this paper took a survey about hijacked journals with referencing to the information on Mehrdad Jalalian's homepage, the journal's site, Ulrichsweb and Journal Citation Reports.It summarized the characteristics of authentic journals which were hijacked from the aspects of journal's website, impact factor, language and subject distribution, types and so on. Then it analysed the cause of this phenomenon and the harm it caused,and summarized the methods to identify the hijacked journals and deal with this phenomenon. This article provided a reference for the industry of publishing, information service organizations and authors to identify the hijacked journals and deal with this phenomenon.
+
+Keywords: Predatory Behavior; Hijacked Journals; Predatory Journals; Coping Method 1引言
+
+科学出版业经过近400年的缓慢发展之后，进入到一个快节奏、网络化的时代，网络在线出版模式的出现，使得学术论文的出版周期变短，期刊数量急剧增加，学术期刊的质量控制变得日益复杂。2013年3月27日，《自然》（Nature）杂志刊登一组特刊[，对科学出版领域目前的一些变革进行探讨，认为线上发表、由作者支付出版费用的出版模式可以大幅度降低出版成本，但伴随网络在线出版的发展也出现了一些影响学术期刊健康发展的行为，比如近些年备受期刊界关注的期刊欺诈性行为。根据期刊欺诈性行为谋求利益的方式，笔者将学术期刊领域的欺诈性行为（Predatory Behavior）归纳为两种：一种是创建质量低劣的期刊，滥发文章，即掠夺性期刊(Predatory Journals)现象；一种是通过创建虚假网站，假冒正规期刊进行欺诈，即劫持性期刊（Hijacked Jourmals）现象。近几年随着掠夺性期刊名单的不断曝光，掠夺性出版商逐渐停止出版掠夺性期刊，把目标转向管理不善的正规合法期刊网站，劫持性期刊现象越来越引起人们关注。
+
+随着开放获取的发展，出版商们积极利用开放出版模式，不法分子则趁虚而入，通过创建掠夺性期刊或假冒正规合法期刊来牟取利益，这再次引起了国内外学者的关注。如美国科罗拉大学的图书馆员Jeffrey Beall对开放获取领域的掠夺性期刊进行了跟踪揭示，截止到2015年7月15日，其所总结的列表中包含712种掠夺性期刊[2]，840家掠夺性出版商[3]，此外，Beall还提供了劫持性期刊的列表[4]。Lukic Tin等人[5]对最近关于欺诈性期刊和虚假出版商的调查进行了总结，指出欺诈性现象处于上升趋势并面临着全球范围内全面爆发的危险。PaduaRN提出应对开放获取掠夺性期刊出版模式的措施，包括加强国家高等教育科研质量保障体系、创立国家学术期刊认证系统、加强研究人员职业精神和学术诚信。Electronic PhysicianJournal的主编Mehrdad Jalalian通过创建个人网页[7]，对劫持性期刊进行跟踪报道揭示，于2014年6月12日创建了首个劫持性期刊列表8，2015年6月，Jalalian对该列表进行更新并完整阐述了劫持性期刊的发展过程[9]。此外，Jalalian还分析了劫持性期刊对医学研究信效度所造成的危害[10]，提出了识别虚假出版商的简易方法[1]。MehdiDadkhah 对劫持性期刊与虚假会议的结合进行了揭示[12]，并从定性评价[13]、编辑聘请[14]等角度提出了一些识别劫持性期刊的方法。相比于国外，国内的研究则较少，陆彩女等人[15]对开放出版期刊遴选过程中所面临的欺诈性行为进行了研究和论述，并提出了遴选开放出版期刊的建议指南。
+
+综合分析目前国内外研究，主要体现在对期刊欺诈性行为所带来的危害及识别方法的研究以及开放获取环境下的掠夺性期刊现象的研究，专门针对劫持性期刊现象的研究则较少。劫持性期刊现象并不局限于开放获取领域，订阅期刊也面临着被劫持的威胁。作为目前期刊欺诈的主要形式，劫持性期刊严重威胁了学术期刊出版的持续良性发展。因此，本文着眼于劫持性期刊现象，对Mehrdad Jalalian最近更新的劫持性期刊列表和 Jeffrey Beall所公布的劫持性期刊列表进行调研，在Mehrdad Jalalian已有研究的基础上，进行细化、总结，深入分析劫持性期刊的特点、该现象产生原因、所带来的危害，并在此基础上总结出识别和应对劫持性期刊的方法，为期刊界、信息服务机构、作者提供参考和借鉴。
+
+# 2数据来源
+
+本文以Mehrdad Jalalian最近更新的劫持性期刊列表和 Jeffrey Beall所公布的劫持性期刊列表（截止到2015年7月2日）为数据源，对被劫持期刊的相关信息进行统计和汇总，期刊信息的统计主要来自于Mehrdad Jalalian个人主页[1]、期刊网页信息、乌利希国际期刊指南（Ulrich's Periodicals Directory）[17]、2014 年的 JCR 报告（Journal Citation Reports）等。经统计，截止到2015年7月2日，共有97种正规期刊被劫持，基本信息见表1。
+
+表1被劫持正规期刊基本信息表  
+
+<html><body><table><tr><td>序号</td><td>期刊</td><td></td><td>IF值</td><td>序号</td><td>期刊</td><td>IF值</td></tr><tr><td>1</td><td colspan="4" rowspan="3">Academie Royale Des SciencesD Outre-Mer Bulletin Des Seances (ARDSJ)(0001-4176)</td><td rowspan="3">50</td><td rowspan="3">JAMA(0098-7484/1538-3598) Journalof AmericanMedicalsociatio9</td></tr><tr><td></td></tr><tr><td>2</td></tr><tr><td></td><td>Afinidad(0001-9704)</td><td></td><td>0.075</td><td>51</td><td>journal of Balkan Tribological Association(1310-4772) Journal ofscientific research and 0.443</td></tr><tr><td>3</td><td>Agrochimica(0002-1857) Allgemeine Forst</td><td>und</td><td>0.208</td><td>52</td><td>development(1115-7569)</td></tr><tr><td>4</td><td>Jagdzeitung(0002-5852) Ama,Agricultural Mechanization in</td><td></td><td>0.681</td><td>53</td><td>Journal of Technology(1012340-7)</td></tr><tr><td>5</td><td>Asia，Africa & Latin America(0084- 5841) Anaisda Academia Brasileira</td><td>de</td><td>0.009</td><td>54</td><td>Kardiologiia(0022-9040) 0.117</td></tr><tr><td>6</td><td>Ciencias(0001-3765/1678-2690)</td><td></td><td>0.734</td><td>55</td><td>Ludus Vitalis(1133-5165)</td></tr><tr><td>7</td><td>ANARE Research Notes(0729-6533)</td><td></td><td></td><td>56</td><td>M8)tResearcheport89/4</td></tr><tr><td>8</td><td>Archives des sciences(1661-464X)</td><td></td><td></td><td>57</td><td>Martinia(0297-0902) Mexican Journal of international</td></tr><tr><td>9</td><td>Aula Orientalis(0212-5730)</td><td></td><td></td><td>58</td><td>studies(1237-485X) MexicanJournalofmultidisciplinary</td></tr><tr><td>10</td><td>AYER(1134-2277/2255-5838)</td><td></td><td></td><td>59</td><td>science(MJMS）(1667-283X)</td></tr><tr><td>11 12</td><td>Azariana(2075-7271/2075-4191) Baltica(0067-3064/1648-858X)</td><td></td><td>0.579</td><td>60 61</td><td>Mitteilungen Klosterneuburg(Oo07-5922) 0.045 Multitemas(1414-512X)</td></tr><tr><td>13</td><td>Bars(1800-556X)</td><td></td><td></td><td></td><td>Netitz1022-9493sfrshung in der</td></tr><tr><td></td><td></td><td></td><td></td><td>62</td><td></td></tr><tr><td>14</td><td>Beitraege Zum Naturschutz In Der Schweiz(1421-5527)</td><td></td><td></td><td>63</td><td>Nationalpark Berchtesgaden Forschungsberichte(0172-0023)</td></tr><tr><td>15</td><td>Boletim de Ciencias Geodésicas(1413-</td><td></td><td></td><td>64</td><td>Natura(0028-0631)</td></tr></table></body></html>
+
+<html><body><table><tr><td>16</td><td>9284)</td><td>0.386</td><td>65</td><td>Nautilus(0028-1344)</td><td colspan="2"></td><td>0.472</td></tr><tr><td>17</td><td></td><td>0.268</td><td>66</td><td>Akademija</td><td>Odjeljenja Prirodnikh Nauka Crnogorska</td><td></td><td></td></tr><tr><td></td><td>Bradleya(0265-086X) BRI's Journal of Advances in Science</td><td></td><td></td><td>Glasnik(0350-5464) Odonatological</td><td>Nauka I</td><td>Umjetnosti</td><td></td></tr><tr><td>18</td><td>and Technology(0971-9563)</td><td></td><td>67 0269)</td><td>OIE Revue scientifique et technique(0253-</td><td>Abstract</td><td>Service(1438-</td><td></td></tr><tr><td>19</td><td>Cadmo Journal(1122-5165/1972-5019)</td><td></td><td>68</td><td>1933/1608-0637)</td><td></td><td></td><td></td></tr><tr><td>20</td><td>Cahiers De Paiolive(1969-2803) Cahiers Des Sciences Naturelles(1420-</td><td></td><td>69</td><td>Otechstvesrio</td><td></td><td></td><td></td></tr><tr><td>21</td><td>4223) Chemical and processengineering-</td><td></td><td>70</td><td>Pensee journal(0031-4773)</td><td></td><td></td><td></td></tr><tr><td>22</td><td>Inzynieria chemiczna I procesowa(0208-6425/2300-1925)</td><td>0.653</td><td>71</td><td>Philippine Scientist(0079-1466)</td><td></td><td></td><td></td></tr><tr><td>23</td><td>Chemicali Ciencia e tecnica vitivinicola(0254-</td><td></td><td>72</td><td>Poli Reef resources</td><td>assessment</td><td>and</td><td></td></tr><tr><td>24</td><td>0223)</td><td>0.368</td><td>73</td><td>management (1607-7393)</td><td>technicalpaper(RRAMT)</td><td></td><td></td></tr><tr><td>25</td><td>Comptes rendus de 'Académie bulgare des Sciences(1310-1331/2367-5535)</td><td></td><td>74</td><td>Journal(0895-6308/1930-0166) Research-Technology Management (RTM) 1.017</td><td></td><td></td><td></td></tr><tr><td>26</td><td>8113/2165-1868) in Science(0459-</td><td></td><td></td><td></td><td>75Revista Kasmera(0075-5222)</td><td></td><td></td></tr><tr><td>27</td><td>Der PraeParator(0032-6542)</td><td></td><td>76</td><td>Py</td><td></td><td></td><td></td></tr><tr><td>28</td><td>Doriana(0417-9927)</td><td></td><td>77</td><td>Rivista di Biologia(0035-6050)</td><td></td><td></td><td>0.25</td></tr><tr><td>29</td><td>Du(0012-6837)</td><td></td><td>78</td><td>Saussurea(0373-2525)</td><td></td><td></td><td></td></tr><tr><td>30</td><td>Education(0013-1172)</td><td></td><td>79</td><td>Scholarly</td><td>Research</td><td>Exchange(1687-</td><td></td></tr><tr><td>31</td><td>Emergencias(1137-6821)</td><td>2.895</td><td>80</td><td>8302/1687-8299) Science and Nature(0193-3396)</td><td></td><td></td><td></td></tr><tr><td>32</td><td>Entomon(0377-9335)</td><td></td><td>81</td><td></td><td>Science Series data report(0264-5130)</td><td></td><td></td></tr><tr><td>33</td><td>Ephemera(1298-0595)</td><td></td><td>82</td><td></td><td>Scientia Guaianae(0798-1120)</td><td></td><td></td></tr><tr><td>34</td><td>Epistemologia(0392-9760/1825-652X)</td><td></td><td>83</td><td></td><td>Scientific Khyber(1017-3471)</td><td></td><td></td></tr><tr><td>35</td><td>Fabreries Journal(0318-6725)</td><td></td><td>84</td><td>2212/1179-6391)</td><td>SocialBehaviorand Personality(0301-</td><td></td><td></td></tr><tr><td>36</td><td>Ftran(1026-5619) I Sopredel Nykh</td><td></td><td>85</td><td>Su21y</td><td>Methodology(0714-0045/1492-</td><td></td><td></td></tr><tr><td>37</td><td>Fourrages(0429-2766)</td><td></td><td>86</td><td>Sylwan(0039-7660)</td><td></td><td></td><td>0.322</td></tr><tr><td>38</td><td>Frontiers in Life Science(原为 HFSP journal)(2155-3769/2155-3777)</td><td>0.294</td><td>87</td><td></td><td>Systems science journal(0137-1223)</td><td></td><td></td></tr><tr><td>39</td><td>Gaia(1107-311X)</td><td></td><td>88</td><td>Teoriiai Kul'tury(0040-3601)</td><td>Praktika</td><td>Fizicheskoi</td><td></td></tr><tr><td>40</td><td>Gaziltsi(i0-18576) Gazi Egitim</td><td></td><td>89</td><td>5342)</td><td>erapeyticheski(006/0</td><td></td><td></td></tr><tr><td>41 42</td><td>GMP Review(1476-4547) Hermes Journal France(0767-9518)</td><td></td><td>90 91</td><td></td><td>Texas Journal of Science(0040-4403 ) Textile Journal(0492-5882)</td><td></td><td></td></tr><tr><td>43</td><td>Hospital Materials Management(0163-</td><td></td><td>92</td><td></td><td>The Veliger(0042-3211)</td><td></td><td></td></tr><tr><td>44</td><td>1322) Iheringia, Série Botanica(0073-4705)</td><td></td><td></td><td></td><td>VERIFICHE(0391-4186)</td><td></td><td></td></tr><tr><td>45</td><td>Interciencia(0378-1844)</td><td>0.263 0.194</td><td>93 94</td><td></td><td>VieicdQuic</td><td></td><td></td></tr><tr><td>46</td><td>Italianistica:Rivista di Letteratura</td><td></td><td></td><td></td><td>Walia journal(1026-3861)</td><td></td><td></td></tr><tr><td>47</td><td>Italiana(0391-3368/1724-1677) Jamaican Journal of Science and</td><td></td><td>95</td><td></td><td>WIWO report(1385-3287)</td><td></td><td></td></tr><tr><td></td><td>Technology(1016-2054) JNSS:JournalNamibia Scientific</td><td></td><td>96</td><td></td><td></td><td></td><td></td></tr><tr><td>48 49</td><td>Society(1018-7677) Jokull Journal(0449-0576)</td><td>0.765</td><td>97</td><td></td><td>Wulfenia journal(1561-882X)</td><td></td><td>1.312</td></tr></table></body></html>
+
+# 3劫持性期刊发展现状及特点
+
+# 3.1劫持性期刊的产生和发展
+
+通过创建虚假网站来进行网络诈骗的现象很早就已经存在，随着线上发表、由作者支付出版费用的出版模式的发展，从2011年起，出现了一种新的欺诈性行为—一期刊劫持。这种欺诈性行为通过注册失效域名，创建虚假网站来冒充被一些重要索引（如WOS）收录的正规期刊。虚假网站背后的诈骗人员通过四处散发征集论文的垃圾邮件来谋取不正当利益，骗取作者的论文处理费（Article processingcharge，APC），最终将成千上万的未经审核的稿件发布在虚假网站上。
+
+随着诈骗人员所采用技术的升级和改进，越来越多的劫持性期刊快速出现。在2012年，这些诈骗人员还只是为印刷版和电子版的期刊注册一个新域名，到2013年初期，他们把目标转向了只有印刷版、没有网站的期刊。到2013年末，劫持性期刊出现了新的形式[18： $\textcircled{1}$ 购买和更新旧的、但已离线的、不活跃网站域名来冒充正规合法期刊，模仿或克隆正规合法期刊的网站； $\textcircled{2}$ 通过举办虚假科学会议，要求参会人员在被劫持期刊上发表文章来危害学术界。如在2014年2月和6月，诈骗人员通过采用与科学会议相结合的方式分别劫持了Reef Resources Assessment and Management Technical Paper: RRAMT和 Chemical and ProcessEngineering这两种期刊。
+
+# 3.2劫持性期刊的特点
+
+对表1中的信息和统计过程中的字段信息进行综合分析，总结概括出劫持性期刊具有以下特点：
+
+（1）劫持性期刊网址具有混淆性
+
+通过对表1中所列出的期刊的网址信息进行调研，发现劫持性期刊所注册的网址域名中多带有.com 和.org，网址域名中多包含期刊名称等字眼，或是采用期刊名的简称作为域名的一部分，和正规期刊的网址域名相比，劫持期刊的网址更具有迷惑性。如期刊Research-Technology Management(RTM) Journal ，正 规 期 刊的 网址为http://www.iriweb.org/，而劫持期刊将其中的字母“i"变为“I"，采用的期刊网址为http://www.lriinc.org/。再如期刊Afinidad，正规期刊的网址为http://www.aiqs.es/catala/afinidad.asp，劫持期刊的网址为 htp://www.afinidad.org/，相比较来看，劫持期刊的网址具有很高的迷惑性。
+
+（2）影响因子是诈骗人员的一种伪装途径
+
+由期刊网站信息了解到，多数诈骗人员会在虚假网站上标明其所劫持的期刊具有影响因子，但经过查证，情况并不属实。根据表1中的统计数据可知，被劫持的97种正规期刊中，只有25 种期刊具有影响因子。除去Journal of American Medical Association:JAMA 的影响因子高达35.289之外，有21种期刊的影响因子处在0-1之间（如图1所示），影响因子普遍不高。这说明，影响因子成为诈骗人员进行欺诈的一种误导方式，那些具有影响因子、但影响因子普遍不高的期刊劫持性期刊将是诈骗人员主要的侵犯目标。
+
+# 图124种正规期刊影响因子分布图
+
+注：横坐标中的数字代表表1中期刊的序号。
+
+# （3）国别和地区分布广泛
+
+根据所统计到的国别和地区分布数据，对被劫持期刊所属国家和地区分布数据进行汇总，统计结果见表2。从表2中可以看出，这97种被劫持期刊分布在38个不同的国家或地区，其中，分布在美国的有10种期刊，分布在欧洲国家内的占据多数，如意大利（8种）、法国（6种）、瑞士（6种）、英国（6种）、俄罗斯（5种）等，此外，还有一些被劫持期刊分布在拉丁美洲国家，如巴西（4种）、墨西哥（3种）、委内瑞拉（3种）等，其它地区分布的较少。
+
+表2被劫持期刊出版地所在国家和地区分布  
+
+<html><body><table><tr><td>序号</td><td>国别</td><td>被劫持期刊数</td><td>序号</td><td>国别</td><td>被劫持期刊数</td></tr><tr><td>1</td><td>美国</td><td>10</td><td>20</td><td>冰岛</td><td>1</td></tr></table></body></html>
+
+<html><body><table><tr><td>2</td><td>意大利</td><td>8 21</td><td>菲律宾</td><td>1</td></tr><tr><td>3</td><td>法国</td><td>6 22</td><td>哥伦比亚</td><td>1</td></tr><tr><td>4</td><td>瑞士</td><td>6 23</td><td>荷兰</td><td>1</td></tr><tr><td>5</td><td>英国</td><td>6 24</td><td>黑山</td><td>1</td></tr><tr><td>6</td><td>俄罗斯</td><td>5 25</td><td>克罗地亚</td><td>1</td></tr><tr><td>7</td><td>巴西</td><td>4 26</td><td>立陶宛</td><td>1</td></tr><tr><td>8</td><td>西班牙</td><td>4 27</td><td>纳米比亚</td><td>1</td></tr><tr><td>9</td><td>波兰</td><td>3 28</td><td>南非</td><td>1</td></tr><tr><td>10</td><td>德国</td><td>3 29</td><td>尼日利亚</td><td>1</td></tr><tr><td>11</td><td>墨西哥</td><td>3 30</td><td>葡萄牙</td><td>1</td></tr><tr><td>12</td><td>委内瑞拉</td><td>3 31</td><td>日本</td><td>1</td></tr><tr><td>13</td><td>奥地利</td><td>2 32</td><td>土耳其</td><td>1</td></tr><tr><td>14</td><td>澳大利亚</td><td>2 33</td><td>希腊</td><td>1</td></tr><tr><td>15</td><td>保加利亚</td><td>2 34</td><td>新喀里多尼亚</td><td>1</td></tr><tr><td>16</td><td>加拿大</td><td>2 35</td><td>新西兰</td><td>1</td></tr><tr><td>17</td><td>埃塞俄比亚</td><td>1 36</td><td>牙买加</td><td>1</td></tr><tr><td>18</td><td>巴拉圭</td><td>1 37</td><td>印度</td><td>1</td></tr><tr><td>19</td><td>比利时</td><td>1 38</td><td>中国台湾</td><td>1</td></tr></table></body></html>
+
+（4）文章语言倾向于小语种
+
+所调研的这97种被劫持期刊中，有的期刊的出版语种采用多种语言，经过汇总统计之后发现，除了采用世界通用的英语进行文章出版之外，文章出版语种更倾向于小语种，如法语（16种）、德语（13种）、西班牙语（13种）等，97种期刊出版文章语种类型分布见图2。
+
+# 图297种劫持性期刊出版文章语种类型分布图
+
+（5）期刊学科分布以自然科学类居多
+
+被劫持期刊涉及的研究方向或学科多样，涵盖自然科学和社会科学，以自然科学领域研究居多。其中，生物-植物科学、医学、工程学、农林科学等学科涉及较多，还有部分期刊为综合性期刊。这些劫持期刊或是标明自己为综合性期刊，或者所关注的学科多是当前研究比较热门或是应用比较广泛的学科，这些学科领域内的研究人员较多，投稿的需求更为强烈，能为这些劫持期刊带来较多的投稿量，赚取更多的APC。
+
+# （6）期刊类型多为纸质印刷版
+
+对表1中所统计得来的期刊信息进行调研，有73种期刊为印刷版期刊，24种期刊既有纸质印刷型期刊又有电子版，而且印刷版期刊的网站往往管理不完善，许多期刊网站失效或无法打开。这类网站往往成为诈骗人员的主要侵犯目标。同时，一些印刷版期刊如Scientia Guaianae、Miteilungen Klosterneuburg 等并没有网址，这些期刊更易成为诈骗人员劫持的目标。
+
+# （7）开放获取期刊数量较少
+
+在所统计的被劫持期刊中，有24种期刊被标明为开放获取期刊或其文章可提供免费下载，其中有16种期刊明确标明为开放获取期刊，如 Bothalia、Interciencia、PhilippineScientist等；8种期刊出版的文章可提供免费下载，如Afinidad、Cienciaetecnicavitivinicola、Survey Methodology。在这24种期刊中，有9种期刊具有 JCR影响因子。虽然目前被劫持的期刊中开放获取期刊较少，但开放获取期刊发展较为迅速[19]，且存在着巨大的商业利益[20-1]，将会成为欺诈人员未来的主要侵犯目标。
+
+# （8）与掠夺性期刊相比具有明显差别
+
+掠夺性开放获取出版是一种剥削性质的开放出版商业模式，它向作者收取论文处理费用，但不提供与合法期刊相类似的编辑和出版服务。和Beal1列表收录的掠夺性期刊相对比，可以得知：掠夺性期刊本身的编辑、审稿质量、服务存在着一定的问题，这类期刊不进行真实和认真的同行评议，往往事先隐瞒收取APC，在作者投稿后迅速录用并索要APC。编列虚假的编委会和评审专家名单，模仿知名期刊的网站内容结构，许多期刊是近几年刚刚创建的期刊，多数期刊没有影响因子；而被劫持的正规期刊多是具有一定的出版历史，以纸质印刷版的期刊居多。正规期刊本身的编辑、审稿质量较高，部分期刊具有JCR影响因子，而劫持性期刊通过假冒正规期刊的名称或网站，冒充正规期刊进行论文的出版，没有或不认真进行同行评议。
+
+# 3.3案例分析
+
+以被劫持的正规期刊Bothalia为例，对劫持性期刊的网站和正规期刊的网站信息进行对比分析，比较情况见表3。
+
+表3劫持期刊和正规期刊对比表（以期刊Bothalia为例）  
+
+<html><body><table><tr><td>对比角度</td><td>劫持期刊</td><td>正规期刊</td></tr><tr><td>期刊网址</td><td>http://www.bothalia.com/</td><td>http://www.abcjournal.org/index.php/ABC</td></tr><tr><td>网站页面语言</td><td>网站页面美观度页面粗糙，有错排、漏排现象 英语 英语</td><td>页面正规、美观</td></tr><tr><td>期刊简介信息</td><td>基本信息（研究主题、出版频次、出版语 言、出版者、办公地址、影响因子）介绍 较为简略</td><td>包含研究领域和范围、发展历史、编委、开 放获取信息、同行评议政策、出版频次、索 引收录、DoHET认证、影响因子等详细信息</td></tr><tr><td>编委信息</td><td>编委会成员有8人，仅列出主编和编委的 名字（名字信息不全，多为简称）及所在</td><td>介绍 编委会成员有7人，列出编委姓名全称、所 在机构和国家</td></tr><tr><td>联系信息</td><td>国家信息 的问题提交框 留有办公室地址和电话，设置有联系编委号，留有编辑问题和技术及其它问题负责人</td><td>网站页面留有详细的联系地址、电话和传真</td></tr><tr><td>评审过程</td><td>一段话介绍评审过程，没有具体的操作流从在线评审过程、伦理章程、主编的最终反 程和质量控制方式，自称一审会在投稿后馈等方面详细介绍评审过程和需要遵守的规</td><td>员的邮箱</td></tr><tr><td>投稿指南</td><td>的一到两周内完成 对文章的字体、颜色、页面设置、提交格 式、参考文献格式、文章中的图表等作简</td><td>范 对期刊中的文章出版格式、文章研究类型、 出版程序（时长三个月）、版权及使用许可 规定、作者的义务和权益等信息进行详细阐</td></tr><tr><td>论文处理费用</td><td>单的要求 述 未找到相关信息</td><td>不收版面费</td></tr><tr><td>出版频次</td><td>半年刊</td><td>半年刊</td></tr><tr><td>投稿形式</td><td>在线提交电子版</td><td>在线投稿 (需注册)</td></tr><tr><td>期刊内容可获取</td><td></td><td></td></tr><tr><td>需注册登录 性</td><td></td><td>开放获取</td></tr></table></body></html>
+
+从此案例分析及期刊网站调研情况可以看出，劫持性期刊网站中的内容多是直接从正规期刊网站上复制过来，经过简单的删减和整理后放在网站页面中。劫持性期刊网站中，与期刊文章出版相关的期刊简介、编委、联系方式、评审、投稿等信息都是完备的，但和正规期刊相比，劫持性期刊所列出的信息（如编委成员信息、评审过程、投稿指南等）较为简略，正规期刊的信息则较为详尽。
+
+# 4劫持性期刊产生原因及带来的问题
+
+# 4.1劫持性期刊产生的原因
+
+（1）巨大的经济利益驱动
+
+在当前网络环境下，作者更多的是通过在线投稿进行稿件提交，期刊的审稿速度加快，出版周期变短，这为欺诈人员谋取不正当利益提供了便利。通过劫持有声望的、带有 JCR影响因子的正规期刊，利用作者迫切发文的心理，欺骗作者向劫持期刊投稿，可以赚取作
+
+者大量的论文处理费用。
+
+（2）网络的发展为欺诈人员提供了便利
+
+网络的快速发展使得期刊网站的创建变得简单和具有隐蔽性，利用开源的内容管理系统（Content Management Systems）就可以进行网站创建。欺诈人员会匿名注册带有.com和.org 的域名来模仿正规期刊的网站或恶意创建劫持期刊网站，同时回避带有国家名称的域名，以避免域名注册时对域名拥有者进行认证或验证地址的有效性。搜索引擎会优先搜到带有.com的网站，研究人员极易被这些网站蒙骗。网站站点分布在多个地方，维权较为繁琐。如期刊Archives des Sciences 的主编向瑞士网络犯罪协调单位通报了其网站被伪造的情况，但因该期刊网站托管于美国，瑞士的网络犯罪协调单位不能直接对该劫持性期刊背后的欺诈人员直接采取措施[22]。
+
+（3）作者的需求催发欺诈行为
+
+一些作者在知道该期刊为虚假期刊的情况下仍然向其进行投稿，以达到学术晋升的目的，而大学内的评审人员并不知晓该期刊为虚假期刊。这些欺诈人员对学术领域的学位申请、评比、晋升规则都很熟悉，较为了解期刊论文的出版流程。欺诈人员正是迎合了作者迫切想在被诸如 SCI等索引收录的期刊上发表文章的心理，牢牢抓住作者想要快速发文这一需求，欺骗作者。
+
+# 4.2劫持性期刊带来的问题
+
+（1）给作者带来损失
+
+劫持性期刊以骗取作者的论文处理费为目的，在接受作者的投稿后，会向作者索要论文处理费。同时，作者在获取劫持性期刊网站上的文章时，有的期刊会要求读者再次支付相关的获取费用。作者在支付相关费用之后却达不到自己的期望目标，不仅损失了财力，而且也耽误了作者寻求其它投稿机会的时机，浪费了精力，造成物质和精神上的双重损失。
+
+（2）影响学术领域的健康发展$\textcircled{1}$ 对正规（合法）期刊的影响
+
+劫持性期刊的存在，会给正规期刊带来很多负面影响，会影响到正规期刊的投稿率、声望和影响力，使正规期刊流失很多作者和读者。
+
+$\textcircled{2}$ 对科学研究的影响
+
+当劫持性期刊内的文章被发布出去之后，读者在进行检索时，这些质量不高的期刊文章就会出现在检索列表中，被读者所采纳，读者在此基础上开展研究，会影响到已发布研究和潜在研究的可信度和有效性。
+
+$\textcircled{3}$ 对基于引用的科学计量的影响
+
+在经过同行评议的期刊上发表的最新文章，有可能会引用发布在劫持性期刊网站上的论文，这会影响到基于引用的科学计量的可信度和有效性。
+
+$\textcircled{4}$ 对开放获取运动的影响
+
+开放出版的发展改变了传统的期刊出版模式，欺诈人员利用开放出版中的“作者付费出版”这一形式和作者迫切发文的心理需求，骗取作者的论文处理费。虽然被劫持的正规期刊中完全开放获取的期刊较少，但随着开放获取的发展，越来越多的传统期刊会转向开放获取期刊，采用开放出版的模式。欺诈人员会继续假冒这些开放获取期刊，谋取不正当利益。
+
+# 5劫持性期刊的应对方法
+
+现有的应对措施主要是对这些劫持期刊和虚假出版商进行揭示和公开，如MehrdadJalalian 所推出的劫持性期刊列表，一些大学和研究学者也公布了长串的被禁的或黑名单期刊列表[4]。但一些短期措施往往是基于一些肤浅的调查，仍需要让相关各方熟悉鉴别的方
+
+法。在对所统计的97种劫持性期刊进行归纳整理的基础上，结合Mehrdad Jalalian 在文章中的论述[]，发现劫持性期刊最大的特点在于其假冒性，其余特征并不是很明显，但仍可以从以下几个方面来应对劫持性期刊：
+
+# 5.1作者从多角度进行识别和判断
+
+作者可以从以下几个方面来应对劫持性期刊：
+
+（1）对征稿邮件的来历进行识别：不要打开任何来历不明的、告知文章被采纳的邮件，高质量的期刊出版商不会滥发征稿邮件。不要轻信某人声称其能在著名期刊上快速发表文章的言论。
+
+（2）仔细鉴别、核实期刊的收录信息： $\textcircled{1}$ 如果期刊宣称其被某些索引或文摘数据库（如汤森路透、PubMed/Medline、Index Copernicus、Scopus或DOAJ等）收录，要对这些期刊网站进行调查，核实期刊链接是否匹配，必要时可向索引服务商和期刊编辑发邮件以进一步确认。 $\textcircled{2}$ 为防止没有直接的链接从索引门户指向期刊，要从其他索引或文摘数据库对链接进行查证。
+
+（3）核实期刊网站的基本信息： $\textcircled{1}$ 利用一些网址或工具对期刊网站的创建者和创建日期等信息进行查证，如有些劫持期刊网站上的内容是从某个会议中复制过来的，可以通过右键单击Word文档，查看其属性中的“详细信息（details）”看到被复制的文件的原始期刊网站的地址，但该方法要结合其它方法一同使用（有一些纸本期刊也是近期刚上线）。$\textcircled{2}$ 评估网站的整体设计，仔细检查任何隐藏的图片或拼写错误的词语。 $\textcircled{3}$ 核查期刊网站上列出的联系信息和编委信息，核查信息是否详细和完备。 $\textcircled{4}$ 关注期刊出版文章所涉及的学科领域，如果涉及多个学科、或是跨越两个或更多通常不太相关的领域，则要多加注意。
+
+（4）核查期刊的透明度：仔细检查往期内容的获取、同行评议的流程、投稿指南、同一个网站中的其他期刊信息。对于标明有影响因子的期刊，要从正规网站上进行期刊信息的核实，查证期刊是否具有影响因子和期刊的真实信息。
+
+（5）关注期刊内容的可获取性：某些劫持性期刊会提供一个虚假的登陆网关提供往期内容的获取，但这些登陆网关是失效的；某些劫持性期刊标明为开放获取期刊，但获取网站上的文章时，仍需要登陆或订阅。
+
+（6）转变观念：作者应当转变仅关注个别最著名出版商的期刊列表的观念，将更多的目光转向新创建的、高质量的优秀期刊。
+
+# 5.2正规期刊发表声明和警告
+
+正规期刊应在期刊网站上作出声明，指明虚假期刊的域名网址，警告读者、作者和评审人员看清期刊的网址，不要仅凭期刊的ISSN号就轻易向劫持性期刊投稿。如正规期刊Bothalia[23]、JokullJournal[24]、Wulfenia[25]等都在期刊网站上有对虚假期刊网站的声明或警告，图3为Bothalia期刊在网站上发布的针对劫持性期刊域名的声明。
+
+# Alert
+
+A bogus/fake journal website operates on the following domains http://www.bothalia.com, bothalia.org: bothalia.net; bothaliajoumal.com: bothaliajoumal.org: bothaliajoumal.net and bthla-journal.org. Readers, authors and reviewers should be aware that we are not associated with this website. Do not submit your work to this predatory publisher that fraudulently imitates this journal ISSN.
+
+图3Bothalia在其期刊网站上发布的针对劫持性期刊的声明
+
+# 5.3信息服务机构进行宣传和保证信息及时更新
+
+图书馆在对期刊进行资源建设时，要建立科学、规范的期刊遴选评价方法，特别是随着开放获取期刊数量的增多，图书馆更要从多方面（如出版质量、影响力、开放程度、成本与服务）[26-27]来筛选高质量的开放获取期刊。同时对该现象进行宣传和开展相关的培训、教育活动，帮助科研人员和读者识别劫持性期刊。
+
+科研资助机构、图书馆、教育机构应当探索新的与出版社开展合作的方式，可以采用集体付费的方式来支付论文处理费，避免作者个人直接与出版商进行论文处理费方面的交涉。
+
+索引数据库要做好期刊列表信息的更新和核准，保证期刊信息的真实性和有效性，建立可持续的灵活机制，动态监测索引列表中期刊的发展情况，遇到异常情况时，及时进行核查和修订。如汤森路透在劫持性期刊Archives des sciences 被揭露出来后立即移除了劫持性期刊的链接[22]。但仍然存在着一些问题，如被劫持期刊Natura被汤森路透所收录，汤森路透所提供的期刊信息中只提供了出版社的链接而且链接无法打开[26]。有些被劫持的正规期刊被汤森路透收录，但没有提供期刊链接或相关被劫持说明，如Doriana[27]、CahiersDes Sciences Naturelles[28]等。
+
+# 5.4学术界探索改进科研影响力评价的方法
+
+学术界需要改进以往采用的用来评估学术科研产出的方法，将学术科研质量的评估方法由定量评估转为定性和定量相结合评估。除了较为普遍的根据文章的被引次数来计算文章的影响因子的方法之外，还可以借鉴替代计量学方法（Altmetrics）[29-30]、基于文章内容层面的计量方法等，从根本上改变和完善科研评价的方法，为作者发文提供更多的选择。
+
+# 6思考总结
+
+随着网络的发展，期刊文章的出版形式发生了变化，在线出版成为未来学术期刊发展的重要方向。通过假冒正规期刊网站进行欺诈的劫持性期刊现象的出现扰乱了学术期刊在线出版的正常秩序，威胁着学术期刊的健康发展。通过对劫持性期刊相关信息的调研，发现劫持性期刊和掠夺性期刊相比，是“假冒”之于“低劣”的关系，完全以赚取论文处理费为目的。正规期刊出版商、信息服务机构、作者应当重视这一现象，采取揭示和预防等措施，不同地域的出版商和相关法律机构应加强合作，共同追踪劫持性期刊现象背后的欺诈人员，取缔虚假网站。图书馆作为重要的资源建设机构，承担着期刊的遴选、采集、存储和服务等职能，是连接期刊与读者的重要桥梁。图书馆应当做好“把门人”，积极的揭示劫持性期刊现象，开展对读者（作者）的培训教育，采用高标准的遴选原则，保证所建设的期刊资源的质量。与此同时，在取缔这些虚假网站的同时，建议为因被骗而在劫持性期刊上发表文章的作者提供新的出版机会，允许其在合法期刊上再次出版其文章，保证学术研究成果的有效传播[31]。
+
+# 参考文献：
+
+[1]The future of publishing.[EB/OL].[2015-07-05].http://www.nature.com/news/specials/ scipublishing/.index.html   
+[2] LIST OF STANDALONE JOURNALS : Potential, possible,or probable predatory scholarly open-access journals[EB/OL].[2015-07-07].http://scholarlyoa.com/individual-journals/.   
+[3] Beall's List:Potential， possible，or probable predatory scholarly open-access publishers [EB/OL].[2015-07-07].http://scholarlyoa.com/publishers/.   
+[4] Hijacked Journals [EB/OL].[2015-07-20]. http://scholarlyoa.com/other-pages/hijacked-journals/.   
+[5]LukicTin，BlesicIvana， BasarinBiljana, et.al.PredatoryandFakeScientific Journals/Publishers- A Global Outbreak with Rising Trend: A Review[J].Geographica Pannonica,2014,18(3):69-81.   
+[6] Padua R N. Plagiarism and Predatory Publishing[J]. JPAIR Multidisciplinary Research, 2013, 11(1).   
+[7]JalalianMehrdad. AcademicJournalism， PublicationEthics[EB/OL].[2015-07-10]. http://www.MehrdadJalalian.com.   
+[8] Jalalian Mehrdad.Hijacked Journal List: List of Hijacked Journals and Fake Publishers, First Edition[EB/OL].[2015-07-10]. http://mehrdadjalalian.com/1.pdf.   
+[9] Jalalian Mehrdad,Dadkhah Mehdi. The full story of 90 hijacked journals from August 2011 to June 2015[J]. Geographica Pannonica,9(2):73-87.   
+[10] Jalalian Mehrdad. Hijacked journals are atacking the reliability and validity of medical research[J]. Electronic Physician, 2014, 6(4): 925.   
+[11] Jalalian Mehrdad, MAHBOOBI Hamidreza.Hijacked Journals and Predatory Publishers: Is There a Need to Re-Think How to Assess the Quality of Academic Research?[J]. Walailak J Sci & Tech,2014,11(5):389-394.   
+[12] Dadkhah, M., Davarpanah, J.M., Pacukaj, S. Fake Conferences for Earning Real Money. [J].Mediterranean Journal of Social Sciences,2015, 6(2): 11-12.   
+[13] Dadkhah M, Obeidat M M, Jazi M D,et al. How Can We Identify Hijacked Journals?[J]. Bulletin of Electrical Engineering and Informatics, 2015, 4(2): 83-87.   
+[14] Dadkhah M, Tarhini A,Lyashenko V V, et al. Hiring Editorial Member for Receiving Papers from Authors[J]. Mediterranean Journal of Social Sciences, 2015, 6(4): 11.   
+[15]陆彩女,张晓林,李麟.开放出版期刊遴选的挑战与指南[J].中国科技期刊研 究,2014,25(12):1443-1450.(Lu Cainv,Zhang Xiaolin,Li Lin. Challenges and guideline for the selection of open publishing journals[J]. Chinese Journal of Scientific and Technical Periodicals,2014,25(12):1443-1450.)   
+[16]Dr.Mehrdad Jalalian. Academic Journalism， Publication Ethics[EB/OL].[2015-07-10]. http://www.MehrdadJalalian.com.   
+[17] Ulrichsweb[EB/OL].[2015-07-12]. http://ulrichsweb.serialssolutions.com/.   
+[18]JournalhijackerstargetscienceandopenaccessEB/OL].[2015-07-12]. http://www.researchinformation.info/news/news_story.php?news_id $\circleddash$ 1660.   
+[19] Directory of Open Access Journals (DOAJ) [EB/OL].[2015-07-14].htp://doaj.org/.   
+[20] Open Access Journal Publishing 2014-2017[EB/OL].[2015-07-15]. http://www.simbainformation.com/Open-Access-Journal-8346683/.   
+[21] Open-accessjournalrevenuetotripleby2017[EB/OL].[2014-07-15]. http://www.researchinformation.info/news/news_story.php?news_id $\circleddash$ 1683.   
+[22]ButlerD. Sham journalsscamauthors[J]. Nature， 2013， 495(7442): 421. http://www.nature.com/news/sham-journals-scam-authors-1.12681.   
+[23] Bothalia[EB/OL].[2015-07-18].htp://www.abcjournal.org/index.php/ABC.   
+[24] Beware of counterfeit journal websites.[EB/OL].[2015-07-18].http://www.jokuljournal. is/warning.html   
+[25]Wulfenia[EB/OL].[2015-07-18].http://www.landesmuseum.ktn.gv.at/210226w_DE.htm? seite $: = 1 5$   
+[26] Journal Search for natura[EB/OL].[2015-07-20]. htp://science.thomsonreuters.com/cgi-bin/ jrnlst/jlresults.cgi?PC $\varprojlim \varprojlim 2$ MASTER&ISSN $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 0028-0631.   
+[27] Journal Search for Doriana[EB/OL].[2015-07-20]. http://science.thomsonreuters.com/ cgi-bin/jrnlst/jlresults.cgi?PC $\varprojlim .$ MASTER&ISSN $\left\lceil = \right.$ 0417-9927.   
+[28] Jourmal Search for Cahiers Des Sciences Naturelles[EB/OL].[2015-07-20]. http://science .thomsonreuters.com/cgi-bin/jrnlst/jlresults.cgi?PC $\varprojlim .$ MASTER&ISSN $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 1420-4223 .   
+[29] J. Priem, D. Taraborelli,P. Groth, C. Neylon (2010),Altmetrics: A manifesto,v.1.0. [EB/OL]. [2015-07-20].http://altmetrics.org/manifesto.   
+[30] Article-Level Metrics Information [EB/OL].[2015-07-20]. http://www.plosbiology.org/static /almInfo.   
+[31] Mehrdad Jalalian.A second chance for authors of hijacked journals to publish in legitimate journals[J].Electronic Physician,2015,7(2):1017-1018.
+
+作者简介：郭进京（1991-），男，中国科学院大学、中国科学院文献情报中心硕士研究生。陈秀娟（1989-），女，中国科学院大学、中国科学院文献情报中心硕士研究生。陈雪飞（1987-），女，硕士，中国科学院文献情报中心馆员。黄金霞（1972-），女，博士，中国科学院文献情报中心资源建设部副主任，副研究馆员。

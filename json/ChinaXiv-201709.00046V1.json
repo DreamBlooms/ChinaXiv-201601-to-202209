@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "Quark Mass Hierarchy and CP Violation in Low Energy Supersymmetry ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHUN LIU ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCAST（World Laboratory) P.O. Box 8730, Beijing， 100080 and Institute of Theoretical Physics, Academia Sinica P.O. Box 2735, Beijing 100080, China $^ 1$ （20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A pattern of quark mass hierarchy and CP violation within the framework of low energy supersymmetry is described. By assuming some discrete symmetry among the three families, the quarks of the third family obtain masses at tree level. The second family obtains masses radiatively at one-loop level due to the soft breaking of the family symmetry. At this level, the first family remains massless by some degeneracy conditions of the squarks. As a result of R-parity violation, the sneutrino vacuum expectation values are nonvanishing. CP violation occurs through the superweak sneutrino exchange. This picture is consistent with the experiments on the flavor changing neutral current. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The origin of the fermion mass hierarchy as well as the CP violation remains one of the most important problems in the Standard Model. The solution for this problem must lie in some physics beyond the Standard Model. Up to now, the most favorable framework which is beyond the Standard Model is supersymmetry, because it can help to solve the gauge hierarchy problem. Therefore it is natural to study the origin of the fermion mass hierarchy and the CP violation within the framework of supersymmetry. However, there are still two different kinds of ideas on this subject. One is to relate this origin with the ultrahigh energy physics, and another with the low energy physics at the scale of about 1TeV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to supersymmetry, it is important to assume some horizontal symmetry among the three families to understand the pattern of the fermion mass hierarchy. Usually such assumption in the low energy physics is more necessary than that in the high energy physics. This horizontal symmetry has to be violated in order to give the realistic fermion spectra. Different from introducing other new particles,the violation can be made by using the properties of the superpartners of the known particles. Strictly speaking, if the three sneutrinos have different vacuum expectation values (VEVs) after electroweak breaking,which are the particles of Higgs-like except that they carry lepton number, the family symmetry can be broken. Furthermore, this family symmetry breaking can be also introduced explicitly in the soft sector, as in the case of supersymmetry breaking. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of low energy supersymmetry with R-parity violation [1] and family symmetry [2], the lepton mass hierarchy has been studied in Ref. [3]. By assuming a cyclic symmetry among the left-handed doublets of the three families of leptons, the hierarchical pattern can be obtained naturally. The tau lepton gets its mass from the VEV of the Higgs field, the muon gets its mass from the VEVs of the sneutrino fields, whereas the electron is massless at tree level and obtains mass from loop level due to the soft breaking of the family symmetry. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we study the quark mass hierarchy and the CP violation in the framework of low energy supersymmetry, especially in which with R-parity violation. We also assume some discrete family symmetry which breaks softly. The third family of quarks gets masses from the Higgs fields. There are two Higgs doublets, one couples to the up quarks,and another to the down quarks. The large ratio of the top quark mass to the bottom quark mass is partly explained by the different VEVs of the Higgs fields. Because of the family symmetry assumed, the other two families do not obtain mass from the tree level. This is different from the lepton case of Ref. [3]. These two families can obtain their masses from the loop level. The supersymmetric radiative mass generation of quarks and leptons were pointed out in Refs. [4] and [5], respectively. Quark mass gets a large color contribution which is absent for lepton mass. So the quark is generally heavier than the corresponding lepton. Hence the radiative mass generation is viable. We further find out the way to obtain the hierarchy of the second and the first families. Consequently, the quark mixing matrix is discussed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To bring our discussion to completion, the CP violation has to be considered. It is at this stage that the R-parity violation plays its essential role. To keep the proton off rapid decay, the baryon number conservation is adopted. The sneutrinos have the same quantum numbers as one Higgs field except for their lepton number which is not conserved however. Generally they can get nonvanishing complex VEVs. This is similar to the multi-Higgs doublets models. Because of the phenomenological requirements from the lepton universality, the sneutrino VEVs should be much smaller than the Higgs VEVs. In this case, we would like to point out that the CP violation can occur through the sneutrino exchange. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized along the above outline as follows. In Sec. 2,our framework of low energy supersymmetry with R-parity violation and family symmetry is described. In Sec. 3, the quark mass hierarchy and mixing are studied. In Sec. 4, the CP violation is considered. The constraints to the squark masses from the flavor changing neutral currents (FCNC) are analyzed in Sec. 5. We summarize and discuss our results in the final section. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.The Framework ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The low energy supersymmetric models with R-parity violation [1] is one kind of natural, supersymmetric extensions of the Standard Model. R-parity is a multiplicative parity which is defined to be $+ 1$ for the ordinary particles and $- 1$ for superpartners. In addition to the supersymmetric gauge interactions and supersymmetric Yukawa interactions which conserve R-parity, the gauge invariance allows the following R-parity violating interactions in the low energy supersymmetric models, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\Delta L } = \\lambda _ { i j k } L _ { i } E _ { j } ^ { c } L _ { k } + \\lambda _ { i j k } ^ { \\prime } Q _ { i } D _ { j } ^ { c } L _ { k } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\Delta B } = \\lambda _ { i j k } ^ { \\prime \\prime } U _ { i } ^ { c } D _ { j } ^ { c } D _ { k } ^ { c } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $i$ ， $j$ ， $k$ denote the three families, the left-handed chiral superfields $L$ and $Q$ （204号 correspond to the SU $( 2 )$ doublet lepton and quark fields respectively, $E ^ { c }$ ， $U ^ { c }$ and $D ^ { c }$ correspond to the SU(2) singlet antiparticle fields of leptons, up-type quarks and down-type quarks respectively. Eq. (1） breaks lepton number and Eq. (2） breaks baryon number invariance. To keep the proton of rapid decay, some restrictions beyond gauge invariance should be adopted, e.g., the well-known R-parity invariance which, however, has no more natural motivation than some other alternative choices if they are also at experimentally acceptable level. We will adopt the baryon number invariance. For some specific structure of family indices, the R-parity violating interactions with baryon number conservation can be consistent with both the laboratory [1] and the astrophysical experiments [6]. It should be noted that in this case the R-parity (or lepton number） violating interaction (1） does not vanish. However the form of this interaction is still too arbitrary to give some definite predictions. This arbitrariness can be reduced by introducing family symmetry. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is interesting if there is some symmetry among the three families. The idea of family symmetry was used in the attempts to understand the fermion mass hierarchy problem [2]. A discrete $\\mathrm { Z _ { 3 } }$ cyclic family symmetry of the three left-handed lepton doublets was proposed in Ref. [3]. From the general fact that the third family of quarks is much heavier than the other two families, the quark mass matrix of democratic mixing [7] is usually assumed, with which only the third family of quarks is massive. This mixing implies some family symmetry in the quark sector. Of course, such symmetry has to be slightly violated to make the other two families of quarks become massive. This happens if the family symmetry can be broken softly. So that the other two families of quarks get masses radiatively [4]. It should be noted that the choice of the family symmetry corresponding to the democratic mixing is not unique. For simplicity, in addition to the $\\mathrm { Z _ { 3 } }$ cyclic family symmetry among the left-handed doublets of leptons, which is denoted as $\\mathrm { Z _ { 3 L } }$ , we assume another $\\mathrm { Z _ { 3 } }$ cyclic family symmetry which is among the three left-handed doublets of quarks,and is denoted as $\\mathrm { Z _ { 3 Q } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our framework in low energy supersymmetry is based on the above adopted Rparity violation and assumed $\\mathrm { Z _ { 3 L } \\times Z _ { 3 Q } }$ family symmetry. In this paper, we focus on the quark sector. The supersymmetric gauge interactions are uniquely determined and can be found in text books. With the left-chiral lepton superfields and their $\\mathrm { S U } ( 2 ) \\times \\mathrm { U } ( 1 )$ quantum numbers $L _ { i } ( 2 , - 1 )$ and $E _ { i } ^ { c } ( 1 , 2 )$ , the quark superfields $Q _ { i } ( 2 , \\textstyle { \\frac { 1 } { 3 } } )$ ， $U _ { i } ^ { c } ( 1 , - \\textstyle { \\frac { 4 } { 3 } } )$ and $D _ { i } ^ { c } ( 1 , { \\frac { 2 } { 3 } } )$ , the Higgs superfields $H _ { u } ( 2 , 1 )$ and $H _ { d } ( 2 , - 1 )$ , the superpotential relevant to the quark sector of our model which possesses the $\\mathrm { S U } ( 2 ) \\times \\mathrm { U } ( 1 )$ gauge symmetry, the $\\mathrm { Z _ { 3 L } \\times Z _ { 3 Q } }$ discrete family symmetry and baryon number conservation is ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { W } = g _ { k } ^ { u } ( \\sum _ { i } ^ { 3 } Q _ { i } ^ { a } ) H _ { u } ^ { b } U _ { k } ^ { c } \\epsilon _ { a b } + g _ { k } ^ { d } ( \\sum _ { i } ^ { 3 } Q _ { i } ^ { a } ) H _ { d } ^ { b } D _ { k } ^ { c } \\epsilon _ { a b } + \\lambda _ { k } ^ { \\prime } \\sum _ { i , j } ^ { 3 } ( Q _ { i } ^ { a } L _ { j } ^ { b } ) D _ { k } ^ { c } \\epsilon _ { a b } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $a$ and $b$ being the SU(2) indices. The first two terms are the Yukawa interactions, their couplings only depend on the flavor of the SU(2） singlet quarks. In addition, the soft supersymmetric breaking terms which include gaugino and scalar mass terms, as well as the trilinear scalar interactions should be added in the Lagrangian. We assume that the $\\mathrm { Z _ { 3 L } \\times Z _ { 3 Q } }$ discrete symmetry is violated in the soft breaking terms so as to generate the light quark masses radiatively. Therefore, the couplings of the soft breaking terms are still arbitrary in general. The constraints to them will be discussed from the aspects of phenomenological analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The vacuum is determined by the scalar potential of this model in which the Higgs sector has been also included [3]. The S $\\mathrm { U } ( 2 ) \\times \\mathrm { U } ( 1 )$ gauge symmetry breaks down spontaneously. The sneutrinos have the same quantum numbers as the Higgs field $H _ { d }$ except for the lepton number. Because the lepton number is not conserved, the sneutrino fields play the same role as the Higgs field. Therefore both the Higgs fields and the sneutrino fields obtain nonzero VEVs which can be determined by the parameters of the scalar potential. In this paper, instead of being involved in the detailed analysis of the scalar potential, we leave the values of the Higgs and sneutrino VEVs to be fixed from some phenomenological constraints. From the discussion of the lepton sector in Ref. [3], the sneutrino VEVs are much smaller than the Higgs VEVs. This is required not only by the lepton universality， but also by the explanation of the lepton mass hierarchy. The implication of the smallness of the sneutrino VEVs on the CP violation of the quark sector will be analyzed later in this article. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. The quark mass hierarchy and mixing ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The family symmetry gives a hierarchical pattern to quark masses. After the （204号 $\\mathrm { S U } ( 2 ) \\times \\mathrm { U } ( 1 )$ gauge symmetry breaking, the superpotential (3) makes the quarks become massive. By denoting the VEVs of Higgs fields $H _ { u }$ ， $H _ { d }$ and sneutrino fields $L _ { i }$ （ $\\textit { \\textbf { l } }$ =1, 2, 3) as $v _ { u }$ ， $v _ { d }$ and $v _ { i }$ , the tree level mass matrix of the up quarks is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ^ { u } = \\left( \\begin{array} { l l l } { { g _ { 1 } ^ { u } v _ { u } } } & { { g _ { 2 } ^ { u } v _ { u } } } & { { g _ { 3 } ^ { u } v _ { u } } } \\\\ { { } } & { { } } & { { } } \\\\ { { g _ { 1 } ^ { u } v _ { u } } } & { { g _ { 2 } ^ { u } v _ { u } } } & { { g _ { 3 } ^ { u } v _ { u } } } \\\\ { { } } & { { } } & { { } } \\\\ { { g _ { 1 } ^ { u } v _ { u } } } & { { g _ { 2 } ^ { u } v _ { u } } } & { { g _ { 3 } ^ { u } v _ { u } } } \\end{array} \\right) ~ ;\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "the tree level mass matrix of the down quarks is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ^ { d } = \\left( \\begin{array} { c c c } { { g _ { 1 } ^ { d } v _ { d } + \\lambda _ { 1 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 2 } ^ { d } v _ { d } + \\lambda _ { 2 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 3 } ^ { d } v _ { d } + \\lambda _ { 3 } ^ { \\prime } \\sum _ { i } v _ { i } } } \\\\ { { g _ { 1 } ^ { d } v _ { d } + \\lambda _ { 1 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 2 } ^ { d } v _ { d } + \\lambda _ { 2 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 3 } ^ { d } v _ { d } + \\lambda _ { 3 } ^ { \\prime } \\sum _ { i } v _ { i } } } \\\\ { { g _ { 1 } ^ { d } v _ { d } + \\lambda _ { 1 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 2 } ^ { d } v _ { d } + \\lambda _ { 2 } ^ { \\prime } \\sum _ { i } v _ { i } } } & { { g _ { 3 } ^ { d } v _ { d } + \\lambda _ { 3 } ^ { \\prime } \\sum _ { i } v _ { i } } } \\end{array} \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At tree level, the up quark mass matrix originates from the Yukawa interactions only. However the down quark mass matrix involves the contributions of both the Yukawa and the R-parity violating interactions. Although the difference in the values of the sneutrino VEVs breaks the $\\mathrm { { Z } _ { \\mathrm { { 3 L } } } }$ symmetry, it does not affect the $\\mathrm { Z _ { 3 Q } }$ symmetry. Both the up quark and the down quark mass matrices exhibit the Z3Q symmetry explicitly. They are of rank-one and can be regarded as a kind of democratic family mixing [7]. Only one family, the third family, is massive at tree level. Because $v _ { i } \\ll v _ { d }$ ， the value of the bottom quark mass is not affected significantly by the R-parity violating interactions. The large ratio of the top quark mass to the bottom quark mass $m _ { t } / m _ { b }$ （20 is partly explained by the different VEVs of the two Higgs fields. Nevertheless，a hierarchy between the third family and the other two families is resulted in. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is at the loop level that the masses of the other two families of quarks are generated through the soft breaking of the Z3Q symmetry. The generation of the quark masses by supersymmetric radiative corrections has been pointed out in Ref. [4]. Both the light up quark and down quark masses can be induced naturally through the oneloop diagram Fig. 1 in this model, where $\\tilde { g }$ and $q$ stand for the gluinos and the quarks, respectively. The squark mass terms are assumed to be favor diagonal which will be justified through the analysis of FCNC later. The mixings of the scalar quarks associated with different chiralities are due to the trilinear soft breaking terms. The structures of the mixings for the up squarks and the down squarks have the same form as that shown in matrices (4) and (5). These mixings are multiplied by some common supersymmetric mass parameters $\\tilde { m }$ 's. They can be expressed as $\\tilde { m } _ { j } ^ { u } v _ { u }$ and $\\tilde { m } _ { j } ^ { d } v _ { d }$ for the up squarks and the down squarks, respectively, where $j$ is the flavor index of the right-handed squark, and the contribution of the sneutrino VEVs has been neglected. Fig. 1 contributes to the quark mass matrices (4) and (5) the following terms, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\delta M ) _ { i j } = \\frac { \\alpha _ { s } } { \\pi } \\frac { 2 m _ { \\tilde { g } } } { m _ { \\tilde { g } } ^ { 2 } - m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } } ( \\frac { m _ { \\tilde { g } } ^ { 2 } } { m _ { \\tilde { g } } ^ { 2 } - m _ { \\tilde { q } _ { i } } ^ { 2 } } \\ln \\frac { m _ { \\tilde { q } _ { i } } ^ { 2 } } { m _ { \\tilde { g } } ^ { 2 } } + \\frac { m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } } { m _ { \\tilde { q } _ { i } } ^ { 2 } - m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } } \\ln \\frac { m _ { \\tilde { q } _ { i } } ^ { 2 } } { m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } } ) { \\tilde { m } } _ { j } ^ { q } v _ { q } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { q }$ stands for the up squarks to Eq. (4) and the down squarks to Eq. (5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To require that there is a further mass hierarchy between the second and the first family, we assume that the right-handed squarks are degenerate. In general, by including the $\\delta M$ (6)，the quark mass matrix would become rank-three, the two light up quarks or the two light down quarks would have masses with the same order of magnitude. By the assumption of the degeneracy of the right-handed squarks, that is （204 $m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } = m _ { \\tilde { q } ^ { c } } ^ { 2 }$ (for $j$ =1,2,3), the $\\delta M$ matrix (6) can be written as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\delta M ) _ { i j } = f _ { i } \\tilde { m } _ { j } ^ { q } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（204号 $f _ { i }$ is a function of $m _ { \\tilde { g } }$ ， $m _ { \\tilde { q } ^ { c } } ^ { 2 }$ and $m _ { \\tilde { q } _ { i } } ^ { 2 }$ . It is for the left-handed squark masses we assume the $\\mathrm { Z _ { 3 Q } }$ symmetry is broken, that is $m _ { \\tilde { q } _ { i } } ^ { 2 } \\neq m _ { \\tilde { q } _ { j } } ^ { 2 }$ for $i \\neq j$ ,otherwise the light quarks will be still massless. Therefore $f _ { i }$ depends on the flavor of the left-handed quarks. With the above \"factorization”(7), the form of the mass matrix for both the up quarks and the down quarks is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM + \\delta M = \\left( \\begin{array} { l l l } { { a + f _ { 1 } \\tilde { m } _ { 1 } } } & { { b + f _ { 1 } \\tilde { m } _ { 2 } } } & { { c + f _ { 1 } \\tilde { m } _ { 3 } } } \\\\ { { a + f _ { 2 } \\tilde { m } _ { 1 } } } & { { b + f _ { 2 } \\tilde { m } _ { 2 } } } & { { c + f _ { 2 } \\tilde { m } _ { 3 } } } \\\\ { { a + f _ { 3 } \\tilde { m } _ { 1 } } } & { { b + f _ { 3 } \\tilde { m } _ { 2 } } } & { { c + f _ { 3 } \\tilde { m } _ { 3 } } } \\end{array} \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $a$ ， $b$ ， $c$ denote the tree level masses in Eqs. (4) and (5). It is easy to show that the rank of the mass matrix (8) is two. Thus at this stage, only the second family acquires masses. The first family remains massless. A hierarchy between the second family and the first family emerges. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The order of magnitude of the masses of the second family can be understood naturally. From Eq. (6), we see that the charm quark to the strange quark mass ratio $m _ { c } / m _ { s }$ is mainly determined by the ratio $( \\tilde { m } ^ { u } v _ { u } ) / ( \\tilde { m } ^ { d } v _ { d } )$ if there is no significant difference between the masses of the squarks with same chirality. The ratio $( \\tilde { m } ^ { u } v _ { u } ) / ( \\tilde { m } ^ { d } v _ { d } )$ can be $m _ { t } / m _ { b } \\sim O ( 1 0 )$ . Therefore the large ratio of $m _ { c } / m _ { s }$ can be considered as a result of $m _ { t } / m _ { b }$ . It should also be noted that in Eq. (6),we have neglected the other neutral gauginos, photino and Zino, because their effects are rather small compared with that of gluinos for the following two reasons. One is that $\\alpha _ { s }$ is large, $\\alpha _ { s } / \\alpha \\sim O ( 1 0 )$ another is that the number of gluinos is 8 which is also large. Hence the contribution of gluinos is nearly two orders of magnitude larger than that of photino or Zino. The radiative mass generation picture of quarks discussed above can be consistent with that of leptons of Ref. [3] where it is the electron mass that is generated at the one-loop level by exchanging photino and Zino. The fact that the strange quark is two orders of magnitude heavier than the electron is thus explainable. A numerical illustration will be given in Sec. 5. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the mass matrices with the form given by Eq. (8), the quark mixing matrix can be obtained straightforwardly. The mass eigenvalues of the three families are written as follows, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { m _ { 3 } } } & { { \\simeq } } & { { \\sqrt { 3 } ( | a | ^ { 2 } + | b | ^ { 2 } + | c | ^ { 2 } ) ^ { 1 / 2 } ~ , } } \\\\ { { m _ { 2 } } } & { { \\simeq } } & { { \\frac { 1 } { \\sqrt { 3 } } ( | \\alpha \\tilde { m } _ { 2 } - \\beta \\tilde { m } _ { 1 } | ^ { 2 } + | \\beta \\tilde { m } _ { 3 } - \\gamma \\tilde { m } _ { 2 } | ^ { 2 } + | \\gamma \\tilde { m } _ { 1 } - \\alpha \\tilde { m } _ { 3 } | ^ { 2 } ) ^ { 1 / 2 } } } \\\\ { { } } & { { } } & { { \\cdot ( | f _ { 1 } - f _ { 2 } | ^ { 2 } + | f _ { 2 } - f _ { 3 } | ^ { 2 } + | f _ { 3 } - f _ { 1 } | ^ { 2 } ) ^ { 1 / 2 } ~ , } } \\\\ { { } } & { { } } & { { m _ { 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with Va1²+1b12+1c12，β $\\begin{array} { r } { \\beta = \\frac { b } { \\sqrt { | a | ^ { 2 } + | b | ^ { 2 } + | c | ^ { 2 } } } } \\end{array}$ $\\begin{array} { r } { \\gamma = \\frac { c } { \\sqrt { | a | ^ { 2 } + | b | ^ { 2 } + | c | ^ { 2 } } } } \\end{array}$ . Without loss of generality, we simply take $a = b = c$ ， $\\tilde { m } _ { i } = f _ { i } m _ { 0 }$ ，and neglect $m _ { c } / m _ { t }$ in the calculation.In this case,the mixing matrix can be easily obtained, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { m i x i n g } } \\simeq \\left( \\begin{array} { c c c } { { 1 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 1 } } & { { - \\frac { f \\sqrt { m _ { s } m _ { 0 } } } { \\sqrt { 3 } m _ { b } } } } \\\\ { { 0 } } & { { \\frac { f \\sqrt { m _ { s } m _ { 0 } } } { \\sqrt { 3 } m _ { b } } } } & { { 1 } } \\end{array} \\right) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { f = \\sum _ { i } f _ { i } } \\end{array}$ .We note that if $f _ { 1 } = f _ { 2 } = 0$ ， the mass matrices further reduce to the form assumed in Ref. [8],in which the quark mixing matrix element $V _ { c b }$ can be consistent with the experimental value after including the $m _ { c } / m _ { t }$ correction． As for the Cabbibo angle, it is determined by the mass ratio of the first to second family, which is nonzero only when the nonvanishing quark masses of the first family are introduced, and will not be discussed in this paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that all the discussions about the quark mass matrix as well as the quark mixings in this section are actually irrelevant to the R-parity violating interactions, because the Z3Q symmetry has made these interactions have no effects. The R-parity violation is introduced for the consistency in the framework of the quark sector and the lepton sector in Ref. [3]. It will be important in the discussion of CP violation in the next section. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. CP violation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In general, there are several possible origins of CP violation within the framework of supersymmetry. The first one is the complex Yukawa interactions, as in the Standard Model. In this model, the complex Yukawa couplings cannot be the source of CP violation because of the discrete family symmetry introduced, the phases of the Yukawa couplings can all be absorbed by the redefinition of the quark fields. The second possible origin is the phases of the soft breaking terms. Such an origin is a specific feature of supersymmetry theory [9]. These phases would in turn enter the quark mixing matrix through the radiative mass generation mechanism (6). However,the experimental data of the neutron electric dipole moment constrains most of these phases to be very small. Although there is still no complete analysis about the phases of the R-parity violating soft terms, we expect that they are equally small. Therefore, the soft breaking terms are also not the source of the observed CP violation. The third origin of CP violation lies in the complex VEVs of the sneutrino fields. This is a special feature of this model. As we have explained in Sec. 2,the VEVs of the Higgs fields and the sneutrino fields are nonvanishing. At this point,this model is similar to the multi-Higgs doublets models [10,11] in which CP can break spontaneously, the VEVs are complex generally [12]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The CP violation occurs through the sneutrino exchange in our model due to the complex VEVs of the sneutrino fields. The magnitude of these VEVs is very small compared to the Higgs VEVs. From the superpotential (3),it can be seen that, in general, the couplings of the R-parity violating terms are not diagonal in the basis in which the Yukawa couplings are diagonal. They result in FCNC at tree level for the down quarks. To avoid too large FCNC, we assume that these couplings are very small compared with the Yukawa couplings. Therefore our model can be viewed as a kind of minimal supersymmetric standard model but with some small deviations. This case is also very similar to that studied in Ref. [13] in which the favor changing couplings in the two Higgs doublets model are assumed to be small so as to be treated perturbatively. Some conclusions there can be applied here. Now let us consider the （204号 $\\mathrm { K } ^ { 0 } - \\bar { \\mathrm { K } } ^ { 0 }$ system which gives one of the most severe restrictions on the FCNC. By taking the FCNC couplings as expansion parameters, then the lowest order $\\Delta S = 2$ effective Lagrangian induced by the tree level sneutrino exchange is obtained approximately as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } _ { \\Delta S = 2 } ^ { \\mathcal { R } } \\simeq \\frac { \\lambda ^ { \\prime 2 } } { m _ { \\tilde { \\nu } } ^ { 2 } } ( \\bar { d } \\gamma _ { 5 } s ) ^ { 2 } + \\mathrm { h . c . } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { \\tilde { \\nu } }$ is the typical sneutrino mass and $\\lambda ^ { \\prime }$ stands for the FCNC couplings in Eq. (3). To meet the experimental results,the contribution of Eq. (11） to the $\\mathrm { K } _ { \\mathrm { L } } - \\mathrm { K } _ { \\mathrm { S } }$ （204 mass splitting $\\Delta m _ { \\mathrm { K } }$ should be smaller than that of the box diagram through the $W$ exchange. At this stage, CP is still conserving if $\\lambda ^ { \\prime }$ is real. Because of the complex sneutrino VEVs which are also small, CP violation is introduced at the next order of $\\lambda ^ { \\prime }$ [13]. Compared to the Lagrangian (11), the CP violation is suppressed by a factor of $\\lambda ^ { \\prime } \\Sigma _ { i } v _ { i } / m _ { s }$ ， ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } _ { \\Delta S = 2 } ^ { \\mathcal { C } P } \\simeq \\frac { \\lambda ^ { \\prime 2 } } { m _ { \\tilde { \\nu } } ^ { 2 } } \\frac { \\lambda ^ { \\prime } \\sum _ { i } v _ { i } } { m _ { s } } ( \\bar { d } \\gamma _ { 5 } s ) ^ { 2 } + \\mathrm { h . c . } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The effective Lagrangian above explains the CP violation in the $\\mathrm { K } _ { \\mathrm { L } } - \\mathrm { K } _ { \\mathrm { S } }$ mixing. The suppression guarantees that the R-parity violating couplings are not extremely small or the sneutrinos not extremely heavy. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Numerically, we take $\\lambda ^ { \\prime } \\sim 1 0 ^ { - 4 } - 1 0 ^ { - 5 }$ ， $v _ { i } \\sim 1 0$ GeV and $m _ { \\tilde { \\nu } } \\sim ( 3 0 0 - 1 0 0 0 )$ （204号 GeV. This choice of the parameters is consistent with that in the lepton case [3] except that the R-parity violating couplings in the quark sector are two orders of magnitude lower than that in the lepton sector. FCNC is thus small enough to be consistent with experiments. Approximately, Eq. (11） contributes $1 / 1 0 - 1$ of the （204号 $\\mathrm { K } _ { \\mathrm { L } } - \\mathrm { K } _ { \\mathrm { S } }$ mass difference. The above choice also justifies the suppression of CP violation, $\\lambda ^ { \\prime } \\sum _ { i } v _ { i } / m _ { s } \\sim 1 0 ^ { - 2 } - 1 0 ^ { - 3 }$ . Hence the CP violation parameter $\\epsilon$ in the $\\mathrm { K } _ { \\mathrm { L } } - \\mathrm { K } _ { \\mathrm { S } }$ （20 mixing can be in agreement with the observation, $\\epsilon \\sim 1 0 ^ { - 3 }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This mechanism for CP violation is superweak. The other CP violation parameter $\\epsilon ^ { \\prime } / \\epsilon$ is too small to be observable. Because there is no tree level FCNC for the up quarks, （20 $\\mathrm { D } ^ { 0 } - \\bar { \\mathrm { D } } ^ { 0 }$ system has no CP violation in our case. Its implications on the neutron electric dipole moment and the CP violating effects in the $\\mathrm { B } ^ { 0 } - \\mathrm { B } ^ { 0 }$ system need to be studied further. It should be also remarked here that if there is no CP violation in the soft breaking sector, the mechanism proposed here is a spontaneous one for CP violation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. Supersymmetric FCNC ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Last section has considered the tree level FCNC of the R-parity violating interactions. In this section, we briefly discuss the FCNC induced by the superpartners of the ordinary particles in loops. The experimental data on FCNC put severe constraints on the extensions of the Standard Model. It is well-known that the superpartners would result in unacceptable large FCNC through loop graphs [14] unless some degeneracy conditions are imposed on the squarks. Usually these conditions are ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) The squark mass-squared matrix corresponding to the left-handed quarks is proportional to unit matrix. That is $m _ { \\tilde { q } _ { 1 } } ^ { 2 } = m _ { \\tilde { q } _ { 2 } } ^ { 2 } = m _ { \\tilde { q } _ { 3 } } ^ { 2 }$ （204号 (ii) The squark mass-squared matrix corresponding to the right-handed quarks is propotioaltoatitis $m _ { \\tilde { q } _ { 1 } ^ { c } } ^ { 2 } = m _ { \\tilde { q } _ { 2 } ^ { c } } ^ { 2 } = m _ { \\tilde { q } _ { 3 } ^ { c } } ^ { 2 }$ ： (iii) The squark mass-squared matrix corresponding to the mixing associated with different chiralities is proportional to the relevant quark mass matrix. That is $\\tilde { m } ^ { q } v _ { q } =$ （204号 $\\tilde { m } ^ { 0 } M ^ { q }$ ，where $\\tilde { m } ^ { 0 }$ is a common mass parameter. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In our case, it is easy to require that the conditions (ii) and (ii) are satisfied. Actually, they are what have been assumed in Sec. 3 in obtaining the hierarchy between the second and the first family. While this is a good news for us, however, the condition (i) cannot be satisfied, otherwise the second family will be massless. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The radiative generation of the quark masses for the second family requires some violation to the condition (i). Of course, this violation should be small enough to be consistent with experiments. In Sec. 3, the generation mechanism of the masses for the second family has implies that the left-handed squark masses are not universal. Their mass can be expressed as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\tilde { q } _ { i } } ^ { 2 } = m _ { \\tilde { q } } ^ { 2 } + \\delta m _ { \\tilde { q } _ { i } } ^ { 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta m _ { \\tilde { q } _ { i } } ^ { 2 }$ ( $\\textit { \\textbf { l } }$ =1,2,3) denotes the small deviation to the universal mass limit $m _ { \\tilde { q } } ^ { 2 }$ .By choosing that the gluino mass $m _ { \\tilde { g } }$ , the right-handed squark mass $m _ { \\tilde { q } ^ { c } }$ and the universal ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "left-handed squark mass $m _ { \\tilde { q } }$ are equal, Eq. (6) is expressed simply as follows, ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\delta M ) _ { i j } \\simeq \\frac { \\alpha _ { s } } { \\pi } \\frac { \\delta m _ { \\tilde { q } _ { i } } ^ { 2 } } { m _ { \\tilde { q } } ^ { 2 } } \\frac { \\tilde { m } _ { j } ^ { q } v _ { q } } { m _ { \\tilde { q } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Experimentally, with the requirement that the supersymmetric contributions to the （204号 $\\Delta m _ { \\mathrm { K } }$ and $\\Delta m _ { \\mathrm { B } }$ are smaller than the measured values, the analysis of Ref. [14] gives the following upper limit for $\\delta m _ { \\tilde { q } _ { i } } ^ { 2 } / m _ { \\tilde { q } } ^ { 2 }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\delta m _ { \\tilde { q } _ { i } } ^ { 2 } } { m _ { \\tilde { q } } ^ { 2 } } < 0 . 1 \\frac { m _ { \\tilde { q } } } { 1 \\mathrm { T e V } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Without being contrary to the experiments on FCNC, we take $m _ { \\tilde { q } } = m _ { \\tilde { q } ^ { c } } = m _ { \\tilde { g } } = 3 0 0$ （20 GeV, $\\delta m _ { \\tilde { q } _ { i } } ^ { 2 } / m _ { \\tilde { q } } ^ { 2 } \\simeq 0 . 0 1$ as a numerical illustration which is also consistent with the analysis of $b \\to s \\gamma$ [14].In this case, $\\tan \\beta \\simeq 2 . 2$ ， $\\tilde { m } ^ { u } \\simeq 5$ TeV and $\\tilde { m } ^ { d } \\simeq 1$ TeV can result in the realistic values for the masses of the charm quark and the strange quark. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Some remarks should be made in the following. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) Because the CP violation mechanism in our framework,which has been described in Sec. 4, is diferent from the one of Ref. [14], the constraints given in Ref. [14] from the analysis of CP violation are not valid here. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(b) It is possible to imagine that there is also a small violation to the condition (ii). In this model, such violation is severely constrained by the masses of the first family of quarks. By assuming some deviations $\\delta m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 }$ to the condition (ii), it can be seen from Eq. (6) that the quark mass matrix $M + \\delta M$ will then become rank-three.Hence the masses of the first family are produced. By requiring that the produced masses of the first family are smaller than the measured values, it is straightforward to obtain the constraint $\\delta m _ { \\tilde { q } _ { j } ^ { c } } ^ { 2 } / m _ { \\tilde { q } } ^ { 2 } < 1 0 ^ { - 4 }$ whichist given by FCNC [14]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(c) Although in this framework the parameters of the soft breaking terms are arbitrary and just fitted to experiments, some of them are as large as several TeV. This should be explained in some underlying theory which describes the supersymmetry breaking. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6. Summary and discussion ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we have described a pattern of quark mass hierarchy and CP violation within the framework of low energy supersymmetry. By assuming some discrete symmetry among the three families, the quarks of the third family obtain masses at the tree level. The second family obtains masses radiatively at the one-loop level due to the soft breaking of the family symmetry. At this level, the first family remains massless by some degeneracy conditions of the squarks. As a result of R-parity violation, the sneutrino VEVs are nonvanishing. CP violation occurs through the superweak sneutrino exchange. The above picture is consistent with the experiments on FCNC. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It can be seen that the understanding of both the fermion masses and CP violation in this work depends essentially on the supersymmetry. Usually the researches on Rparity violation include two aspects,one is the trilinear interactions; the other is the nonvanishing sneutrino VEVs. These two aspects were discussed separately before [1]. We have combined them so as to discuss the fermion mass and CP violation problems. Its implications on astrophysics should be studied further [15]. The violation to the discrete symmetry has been introduced in the supersymmetric soft breaking sector explicitly. While this needs further explanation, it may avoid the cosmologically domain wall problem. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Although logically the discussions on the quark mass hierarchy, the CP violation mechanism and the lepton mass hierarchy in Ref. [3] could be separate stories, we would like to unite them together. This will give some more definite results. In addition to the prediction of the Marjorana neutrino masses being at the 1 eV range in Ref. [3], the CP violation parameter $\\epsilon ^ { \\prime } / \\epsilon$ is predicted to be too small to be observable. More predictions need further analysis which should include introducing the masses of the first family of quarks and calculating the CP violation in detail. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "There is a hierarchy between the Higgs VEVs and the sneutrino VEVs, despite that this hierarchy is not large numerically. This in turn would give some information about the scalar potential, in which the parameters may also have some hierarchy. In particular, the couplings of the R-parity violating interactions are much more smaller than the Yukawa couplings. All of these need natural explanations from some underlying theory which is under our consideration. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Finally we would like to point out a possible scenario of the mass generation of the first family. In the discussion about the quark sector in Sec. 2, two cyclic discrete symmetry groups $\\mathrm { Z _ { 3 L } \\times Z _ { 3 Q } }$ have been assumed. While they are introduced to avoid some confusion， we can imagine that they are replaced by the diagonal subgroup of them from the begining,which is the cyclic $\\mathrm { Z _ { 3 } }$ symmetry among the left-handed SU(2) doublets of the three families including both the leptons and the quarks. Such a case is practically the same as what we have discussed in this paper, because the quantity $\\lambda ^ { \\prime } v _ { i }$ appeared in Eq. (5) has been taken to be not only much smaller than the masses of the third family, but also smaller than the masses of the second family. However, this quantity will produce a mass to the down quark of the first family in this case, and its value can be several MeV numerically. This scenario also justifies the CP violation mechanism discussed in this paper. In addition, the mass of the up quark of the first family cannot be produced in this way. This gives us an explanation of the fact $m _ { d } > m _ { u }$ ， and even may bring us a solution to the strong CP problem. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowlegement ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank D.S. Du for his encouragements and discussions and Z.Z. Xing for helpful discussions. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[1] C.Aulakh and R. Mohapatra, Phys. Lett. B119 (1982) 136; F. Zwirner, Phys. Lett.B132(1983) 103; L. Hall and M. Suzuki, Nucl. Phys. B231 (1984) 419; I. H. Lee, Phys. Lett.B138(1984) 121; G. Ross and J. Valle, Phys. Lett. B151 (1985) 375; J. Ellis et al., Phys.Lett. B150 (1985) 142; S. Dawson, Nucl. Phys. B261 (1985) 297; R. Barbieri and A. Masiero, Nucl. Phys. B267 (1986) 679; S. Dimopoulos and L. Hall, Phys. Lett. B207(1988) 210; V. Barger, G. Giudice and T.Y. Han, Phys. Rev. D40 (1989) 2987; E. Ma and P. Roy, Phys. Rev. D41 (1990) 988; E. Ma and D. Ng, Phys. Rev. D41 (1990) 1005; S. Dimopoulos et al., Phys. Rev. D41 (1990) 2099.   \n[2] S. Weinberg, Trans. N.Y. Acad. Sci. II (1977) 38; F. Wilczek and A. Zee, Phys. Lett. 70B (1977) 418; H. Fritzsch,Phys. Lett. 70B(1977) 436; S. Pakvasa and H. Sugawara, Phys. Lett. 73B (1978) 61; R. Barbieri, R. Gatto and F. Strocchi, Phys. Lett. 74B (1978) 344; C. Ong, Phys. Rev. D19 (1979) 2738; A. Davidson, M. Koca and K. Wali, Phys. Rev. D20 (1979) 1195; J. Chakrubarti, Phys. Rev. D20 (1979) 2411.   \n[3] D. Du and C. Liu, Mod. Phys. Lett. A8 (1993) 2271; D. Du and C. Liu, preprint hep-ph/9502229,AS-ITP-94-42, BIHEP-TH-94-33.   \n[4] T.Banks, Nucl. Phys. B303(1988) 172. [5] K.Babu and R. Mohapatra, Phys.Rev. Lett. 64 (1990) 1705; R.Barbieri,M.Guzzo,A. Masiero and D. Tommasini，Phys. Lett.B252(1990) 251.   \n[6] W. Fischler et al., Phys. Lett. B258 (1991) 45. [7] H. Harari, H. Haut and J. Weyers, Phys. Lett. 78B (1978) 459; Y. Chikashige, et al., Phys. Lett. 94B (1980) 499; C. Jarlskog， in: Proc. Int. Symp.on Production and Decays of Heavy Flavors (Heidelberg, Germany, 1986); Y. Nambu, in: Proc. XI. Warsaw Symp. on High energy physics (Kazimierz, Poland, 1988); P. Kaus and S. Meshkov, Mod. Phys. Lett. A3 (1988) 1251; Y. Koide, Z. Phys. C45 (1989) 39; H.Fritzsch and J. Plankl, Phys. Lett. B237 (1990) 451.   \n[8] H. Fritzsch and D. Holtmannspotter, Phys. Lett. B338 (1994) 290. [9] For a review, see R. Mohapatra, in CP violation, ed. C. Jarlskog, World Scientific (1989).   \n[10] T.D. Lee, Phys.Rev. D8(1973) 1226; Phys. Rep. 96 (1974) 143; P. Sikivie, Phys. Lett. 65B (1976) 141.   \n[11] S. Weinberg,Phys. Rev. Lett. 31(1976) 657.   \n[12] A. Joshipura and M. Nowakowski, preprint hep-ph/9403349, PRL-TH-94/11.   \n[13] J. Liu and L. Wolfenstein, Nucl. Phys. B289 (1987) 1.   \n[14] J. Hagelin, S. Kelley and T. Tanaka, Nucl. Phys. B415 (1994) 293,and references therein.   \n[15] For a recent review, see A. Masiero, talk at the XVIII John Hopkins Workshop (Florence, 1994). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Figure caption ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1. Supersymmetric generation of the light quark masses, where $\\tilde { g }$ and $\\tilde { q }$ denote the gluino and the squark, respectively. ",
+        "page_idx": 19
+    }
+]

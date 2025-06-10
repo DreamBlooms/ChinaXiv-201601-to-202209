@@ -1,0 +1,239 @@
+熊冰瑶，夏建国，林婉嫔，晏蔚楠，肖欣娟．四川省土地整治项目时空分异格局分析[J].中国生态农业学报，2017,DOI: 10.13930/j.cnki.cjea.170310   
+Xiong BY,XiaJG,LinW,Yan WNXiaoXJ.Researchonspatitempralvriationoflandconsoidatioprojectsinicha province[J]. Chinese Journal of Eco-Agriculture,2017,DOI: 10.13930/j.cnki.cjea.170310
+
+# 四川省土地整治项目时空分异格局分析
+
+熊冰瑶¹，夏建国1.2\*\*，林婉嫔²，晏蔚楠¹，肖欣娟(1．四川农业大学管理学院成都611130;2.四川农业大学资源学院成都611130)
+
+摘要：从不同空间尺度分析特定时期土地整治项目的分布特征，可为制定下一阶段土地整治规划及优化空间布局提供决策参考。基于2011—2015年土地整治项目数据，以县域为评价单元，采用变异系数法、重心模型法和空间自相关模型法，探讨了四川省土地整治项目在不同空间尺度的分布特征，分析了重心转移和空间格局演变特征。研究表明： $\textcircled{1}$ 从时间维度看，四川省土地整治项目总量呈下降趋势，项目绝对规模差异、相对规模差异逐步减小，呈现均衡化趋势。 $\textcircled{2}$ 不同空间尺度下土地整治项目具有不同特征。区域层面上，土地整治项目集中分布在盆地丘陵农用地整治区；市域层面上，项目主要集中在成都市和宜宾市，而甘孜藏族自治州、凉山彝族自治州和攀枝花市分布较少。 $\textcircled{3}$ 重心移动轨迹中所有重心点均落在盆地丘陵农用地整治区内，空间分布具有一定的地域均衡性。 $\textcircled{4}$ 土地整治项目在县域尺度分布存在较为显著的集聚性。高-高集聚区主要集中在盆地丘陵农用地整治区的东北部，低-低集聚区主要分布在川西北高山高原生态整治区。由于受项目区社会经济、人口、地形条件和政策的影响，四川省土地整治项目时空格局均衡性有待进一步提高。该研究明确了四川省土地整治规划重心在盆地丘陵农用地整治区，今后土地整治发展方向在于适时适度地开展川西南山地河谷农用地整治区、川西北高山高原生态整治区土地整治，有利于优化四川省土地空间开发利用格局。
+
+关键词：土地整治；重心移动；时空分异；均衡化趋势；地域均衡性；四川省中图分类号：F301.2 文献标识码：A
+
+# Spatio-temporal variation of land consolidation projects in Sichuan Province
+
+XIONG Bingyao,XIAJiangu2\*,IWanpin²,YAN Weinan',XIAXiuan (1.Collgeofaagement,canAgriculturalUniversityhengdu63,Cina;2Collgeofesouces,icangiculal University, Chengdu 611130, China)
+
+Abstract:Landconsolidationhasdevelopedintoastrategicnationaldeployment.Analysisof tedistributioncharacteristicsfland consolidation projects can provideareferencefordecision-makingondeveloping new plansandoptimizingspatialpatersoffuture landconsolidation.Basedon2O11-2015dataoncounty-scaleland consolidation projects in Sichuan Provincecombined with coefficientofvariationanalysis，gravitycentermodel,andspatialauto-correlationanalysis,thepaperanalyzedspatiotemporal varitionof landconsolidationin Sichuan Province.Thenoveltyofthestudywasintheanalysisforthebalancesinland consolidationactivitiesindierentperiodsatferentspatialscales.Multi-salelandconsolidationasainedconsiderableeti inrecenttime.TherewasanegativetrendintotallandconsolidationprojectsumberinSichuanProvincefortheperiod2011-2015. Bycalculatingstandarddeviationandcoeficientofvariationoflandconsolidationprojects,absolutediferences were foundamong landconsolidationprojects ineachdistrictorcountywithageneral decliningtrend for2Ol-2015.Theabsolutescaleof land consolidationprojectsineachdistrictorcountyandtherelativediferencealsodeclined,whichindicatedabalanceddevelopment trendinthedistrictsorcounties.Remarkablydiferentfeatureswerenotedatdiferentspatialscales.Atregional scale,land consolidation projectswereconcentratedin hillyareasof cultivated basins.Therealizationof themacro-objectivesof land consolidationshouldbebasedonregionalnaturalconditions.Atcityscale,landconsolidationprojects weremainlyconcetratedin ChengduandYibin Cities,withless distributioninGanzi Tibetan Autonomous Prefecture,Liangshan Yi Autonomous Prefectureand Panzhiha.The numberoflandconsolidationprojects waspositivelycorelated withpopulationconcentration.Gravitycentersof landconolidationprojects were mostlyinhillyareaofcultivatedbasin,whichindicatedthatthespatialvariationof theprojects were basically balanced.The gravity center of land consolidation projects was located in the east ( $1 0 2 ^ { \circ } 4 1 ^ { \prime } 2 9 . 9 2 " \mathrm { E }$ $3 0 ^ { \circ } 3 7 ^ { \prime } 4 4 . 8 3 " \mathrm { N } _ { \cdot }$ ） It was foundtatthespatialpatesoflandconsoidatioproectshdstrongspatialutocoelatio.Hghighoncetratioareas weremainlyinthenortheasternregionofconsolidatedagriculturallandshillareasofthebasin.Onthecontrary,low-low concentrationareaswereintheNorthwestPlateauofSichuanProvice.Ingeneral,duetothesocio-economic,demographctrain and policyconditionsoftheprojectarea,thespatialandtemporalpatesoflandconsolidationprojectsneededfurtherimpromen. This studyexplainedthefocusoflandconsolidationplanningonagriculturallandconsolidationinhillyareasofSichuanProvince. Timelyand apropriate executionoflandconsolidationprojects inagricultural landremediation in Southwest Sichuanmountain valley wasalsoexplained.Eologicalrehabilitationregion in Northwest Plateauof Sichuan was thedirectionoffuture land consolidation development.Itwas conducive tooptimize landscape development andutilization paterns in Sichuan Province.
+
+Keywords:Landconsolidation;Gravitymovement;Spatio-temporalvariation;Equilibriumtrend;Geographicalbalance;Sichuan Province
+
+中国土地整治工作始于《中共中央、国务院关于进一步加强土地管理切实保护耕地的通知》（中发[1997]11 号)[1]。2012年3月，国务院批复了《全国土地整治规划(2011—2015 年)》，将土地整治上升为国家层面的战略部署。经过近 20a的发展历程，从土地开发整理到土地整治，内涵上不断深化，由数量管理到质量管理再到生态管护，外延上已经由自然性工程转变为综合性社会工程，成为"保发展、守红线、促转变、惠民生"的重要抓手和基础平台，土地整治对国家粮食安全战略、社会主义新农村建设战略、城乡统筹发展战略和节约优先战略起到重要的支撑作用[2]。当前人地矛盾突出、土地利用地域差异大、土地整体质量不高和土地生态环境亟需改善仍然是四川省土地利用存在的最大问题。归纳总结土地整治成效和存在的问题，可为四川省创新土地整治规划提供重要的借鉴。因此，如何运用科学手段及时明确土地整治未来的发展态势和重点区域，进而科学合理引导投资、有效安排任务和项目布局，构建新时期的土地整治格局，值得深入研究。
+
+近年来国内关于土地整治的研究，主要集中土地整治理论战略[1.3-5]、整治模式[6-7]、效益评价[8-9]、农村土地综合整治[10-1]等方面。从研究尺度方面看，相关研究范围主要集中于小尺度的县域和市域尺度[10,12]、单个或多个项目尺度[13-14]，而从较大尺度分析整治成效的研究较少。管栩等[15]从全国层面，结合土地利用现状和农用地分等定级成果，分析了农用地整理项目安排与耕地资源在时空分布上的协调性。从研究尺度类型分析，行政尺度的研究较多，而从区域尺度和地块尺度研究较少。王军等[1分析了近30a土地整治的文献得出：多尺度土地整治研究仅占所有文献数量的 $1 \%$ 。受基础数据的限制，从时空变化方面对特定时期内行政尺度和区域尺度下的市域和县域土地整治分布特征的研究还较为鲜见。鉴于此，本文基于2011—2015 年四川省土地整治项目数据，从时间和空间维度对项目"投入和产出"进行数理统计分析，在行政尺度、区域尺度下结合重心模型和空间自相关模型，对四川省 2011—2015年土地整治项目进行时空格局分析，探寻其时空分异规律及重心移动轨迹，以期为四川省因地制宜制定下一阶段土地整治规划提供科学依据。
+
+# 1 研究区概况
+
+四川省地处我国西南腹地和长江上游，东连重庆市，南邻云南省、贵州省，西接西藏自治区，北界青海省、甘肃省、陕西省，东西横跨 $1 0 7 5 \ \mathrm { k m }$ ，南北纵横 $9 2 1 ~ \mathrm { k m }$ ，幅员面积48.61万 $\mathrm { k m } ^ { 2 }$ 。地理坐标界于东经$9 7 ^ { \circ } 2 1 ^ { \prime } { \sim } 1 0 8 ^ { \circ } 3 1 ^ { \prime }$ 与北纬 $2 6 ^ { \circ } 0 3 ^ { \prime } { \sim } 3 4 ^ { \circ } 1 9 ^ { \prime }$ 之间。高低悬殊，西高东低特征明显。根据四川省区域地貌、气候、土壤和土地利用特点，全省分为成都平原综合整治区、盆地丘陵农用地整治区、川西南山地河谷农用地整治区、盆周山地生态整治区和川西北高山高原生态整治区共5个整治区域[17]。全省辖21个市(州),182个县(市、区)，是集“人口多、底子薄、不平衡、欠发达"于一体的西南大省。2015年末，常住人口8204万人，比上年末增加63.8万人。其中，城镇人口3912.5万人，农村人口4291.5万人，城镇化率达 $4 7 . 6 9 \%$ 。2015年末全省户籍人口为9132.6万人。城镇居民人均可支配收入26205元，农村居民人均可支配收入10 247元。
+
+2011—2015 年，四川省全力推进全域土地整治，大规模建设高标准农田，抓好以农用地全面整治为重点的土地整治项目，全力推进城乡建设增减挂钩、灾后重建和精准扶贫工作。土地整治项目共补充耕地$1 . 2 8 \times 1 0 ^ { 5 } ~ \mathrm { h m } ^ { 2 }$ ，年均补充耕地 $2 . 5 6 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ，比规划目标多 $5 . 0 4 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ 。其中土地整理补充耕地 $1 . 1 6 \times 1 0 ^ { 5 }$ $\mathrm { h m } ^ { 2 }$ ，占 $9 0 . 6 2 \%$ ；土地开发补充耕地 $1 . 1 4 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ，占 $8 . 9 1 \%$ ；土地复垦补充耕地 $6 . 0 0 \times 1 0 ^ { 2 } \ \mathrm { h m } ^ { 2 }$ ，占 $0 . 4 7 \%$ ，建成高标准农田 $1 . 7 4 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ ，比规划目标 $1 . 6 6 \times 1 0 ^ { 6 } \mathrm { h m } ^ { 2 }$ 多 $1 . 7 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 } \circ$
+
+# 2材料与方法
+
+# 2.1 数据来源与处理
+
+本文属性数据来源于国土资源部农村土地整治监测监管系统中四川省 2011—2015 年全部土地整治项目(包括土地整治、荒地开发、灾毁耕地复垦、宅基地复垦、工矿废弃地复垦、高标改造等国家投资、省投资、县级政府投资、自筹资金的项目)竣工验收后的终期数据，体现了数据的可获取性和准确性。截止 2015年12月31日，共验收土地整治项目2644个。为便于空间运算，以2015年四川省行政区划为标准,182个县(市、区)为研究单元。经整理，以 2011—2015年的182个县(市、区)的统计数据建立属性数据库。其中许多项目属于土地综合整治，较难界定具体整治项目类型。考虑到有些区县土地整理类型相对单一，如果按整治类型进行研究，已有数据难以满足需要。综合考虑数据的获取难易程度和真实性，本文选取能从总体角度全面反映土地整治宏观成效的土地整治的4个指标，分别为投资规模、建设规模、新增耕地规模和项目个数。前3个指标是土地整治项目统计的基本指标参数，项目个数则作为从总体上反映各地区项目频数的指标。所选取的4个指标能直观反映各地区土地整治"投入产出"水平的综合情况，新增耕地规模作为“产出指标”，其余3个指标为"投入指标”。选取这4个分析指标表征四川省土地整治空间分异格局特征，具有一定的意义。
+
+# 2.2 研究方法
+
+本文采用的方法主要包括数理统计法、重心模型法和空间自相关模型法。数理统计法是统计学中的常见方法，文章采用标准差指数 $s$ 和变异系数 $C \nu$ 进行分析，不再赘述。这里只介绍重心模型分析法和空间自相关分析。
+
+# 2.2.1 重心模型法
+
+重心在物理学领域适用于力学研究，其含义是指一个物体各部分所受重力产生的合力的作用点[18]。将其原理应用到地理学研究中，土地整治重心的概念即是指：设一个大项目区有 $n$ 个项目亚区组成，而某一个大项目区的某种属性的重心通过其各项目亚区的这种属性和地理坐标计算而得来，其中某种属性类比于物理学意义上物体的重量 $\circ D ( x _ { i } , y _ { i } )$ 是第 $i$ 项目亚区的重心地理坐标, $A _ { i }$ 是这个项目亚区的某种属性的具体量化值。则大项目区的这种属性的重心点 $G ( X _ { i } , Y _ { i } )$ 的地理坐标计算公式为:
+
+$$
+X _ { i } = \sum _ { i = 1 } ^ { n } \left( A _ { i } \times x _ { i } \right) / \sum _ { i = 1 } ^ { n } A _ { i }
+$$
+
+$$
+Y _ { i } = \sum _ { i = 1 } ^ { n } \left( A _ { i } \times y _ { i } \right) / \sum _ { i = 1 } ^ { n } A _ { i }
+$$
+
+显然，当属性值产生变化时大项目区该属性的重心位置也将随之移动。当区域的几何中心和属性重心重合时，表示区域的该属性均衡发展；当区域属性重心显著区别于区域几何中心，就指示了该项目区此属性的不均衡分布，或称"重心偏离”。偏离方向指示了土地整治项目的发展方向和重点区域，偏离的距离则指示了均衡程度[19]。
+
+为对均衡程度做定量分析，通过空间距离计算公式计算出重心偏移距离为d,表示重心偏移幅度[20]。连续两年 $( T _ { l } , \ T _ { k } )$ 的重心坐标分别为 $\left( { { X } _ { T _ { l } } } , { { Y } _ { T _ { k } } } \right)$ 、 $\left( { { X } _ { T _ { l } } } , { { Y } _ { T _ { k } } } \right)$ ，则有：
+
+$$
+d = c \times \sqrt { \left( X _ { T _ { l } } - X _ { T _ { k } } \right) ^ { 2 } + \left( Y _ { T _ { l } } - Y _ { T _ { k } } \right) ^ { 2 } }
+$$
+
+式中： $\boldsymbol { \mathscr { c } }$ 为常数 $\scriptstyle \left( c = 1 1 1 . 1 1 \right)$ ，是地球表面经纬坐标转为平面距离的转换系数[21]。
+
+# 2.2.2 空间自相关分析
+
+空间自相关是一种空间统计分析方法，常用来衡量区域不同空间位置的经济、城市化水平等指标的扩散效益以及集聚特征[22]。通常将其分为全局空间自相关和局部空间自相关。全局空间自相关系数是用来判断研究区域内某一属性观测值的整体关联程度，可判断空间变量取值是否与相邻空间有关，研究全局空间自相关最常用的指数是Moran's $I ^ { [ 2 1 ] }$ 。局域空间关联性指数是用来研究同一研究区内发生空间聚集的具体位置和判定相邻单元的相似性程度的参数，可用来识别“热点区域"以及数据的异质性检查，常用指标为LocalMoran's I(local indicators of spatial association,LISA)。空间自相关的计算首先是构建空间权重矩阵，紧接着计算其取值，判断其属性的集聚程度。计算公式如下：
+
+$$
+{ \cal I } = \frac { n \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } W _ { i j } ( x _ { i } - \overline { { x } } ) ( x _ { j } - \overline { { x } } ) } { \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } W _ { i j } \sum _ { i = 1 } ^ { n } ( x _ { i } - \overline { { x } } ) ^ { 2 } }
+$$
+
+$$
+I _ { i } = \frac { \displaystyle { n ( x _ { i } - \overline { { x } } ) \sum _ { j } W _ { i j } ( x _ { j } - \overline { { x } } ) ^ { 2 } } } { \displaystyle { \sum _ { j } ( x _ { i } - \overline { { x } } ) ^ { 2 } } }
+$$
+
+式中: $I$ 为Moran s $I$ 指数; $I _ { i }$ 为Local Moran's $I$ 指数; $n$ 为研究单元个数; $x _ { i } , \ x _ { j }$ 分别为空间单元 $i$ 和 $j$ 的属性值； $W _ { i j }$ 为按照邻接标准求得的空间权重矩阵的值，若两空间单元有公共边界，空间权重取1，否则取0。
+
+# 3结果与分析
+
+# 3.1土地整治项目时空分布概况
+
+# 3.1.1基于时间维度的土地整治项目总体分布特征
+
+时间尺度上四川省土地整治项目总量呈下降趋势(表1),这与杨绪红等[20]对我国 2006—2012 年全国土地整治项目数量特征研究得出2010年以后项目数量开始逐年减少的结论基本一致。究其原因，一方面，土地整治项目各环节招投标的分离、项目规划、立项、设计、实施和验收各环节间的不同步性，以及机构管理和相关人员素质的差异性，导致土地整治项目具有时滞性；另一方面，项目规划受区位条件、地形条件、现代农业发展方向、生态文明建设、政策指引等各类因素影响[23]。
+
+表1四川省2011—2015年各年土地整治项目汇总统计  
+.able1Statistics of land consolidation projects for each year from 2011 to 2015 in Sichuan Provinc   
+
+<html><body><table><tr><td>年份 Year</td><td>投资规模 Investment scale (-104¥)</td><td>建设规模 Construction scale (hm²)</td><td>新增耕地规模 Newly-added cultivated land area (hm2)</td><td>项目个数 Number of projects</td></tr><tr><td>2011</td><td>654 175.29</td><td>349 838.64</td><td>40 092.57</td><td>744</td></tr><tr><td>2012</td><td>533 509.58</td><td>290 659.18</td><td>31 122.57</td><td>592</td></tr><tr><td>2013</td><td>470 157.31</td><td>270 037.14</td><td>27 436.13</td><td>571</td></tr><tr><td>2014</td><td>428 314.51</td><td>296 896.73</td><td>19 214.93</td><td>551</td></tr><tr><td>2015</td><td>185 298.18</td><td>115 850.34</td><td>9 955.66</td><td>186</td></tr></table></body></html>
+
+新增耕地规模也逐年下降，体现了当前土地整治不再过多强调新增耕地率，而更重视生态土地整治的政策要求。2014年新增耕地率达到最低，原因在于 $^ { 6 6 } 4 . 2 0 ^ { 3 }$ 芦山地震后土地整治项目以灾毁耕地复垦为主。而平均建设规模在2013年出现小幅度的下降，下降比率为 $3 . 7 5 \%$ ，由农村土地整治监测监管系统统计数据可知 2013年的荒地开发项目占比较大，其建设规模较小。运用标准差指数 $s$ 和变异系数 $C \nu$ 计算公式，分别得出 2011—2015 年各年各县域空间单元土地整治项目的投资规模、建设规模、新增耕地规模和项目个数统计数据的 $s$ 和 $C \nu$ （图1)。
+
+![](images/104795d809462d91c52e1c6438d14e4293ece737998ee6bade0f01b536e5b1aa.jpg)  
+图12011—2015年四川省土地整治项目统计指标的标准差指数和变异系数
+
+Fig.1tandarddeviationandcoeicietofvarationofstatisticsindexesoflandconsolidatonprojectsfromtoOl5Sicuan Province
+
+1)总体上，项目个数、建设规模、新增耕地规模和投资规模的标准差指数S总体呈现波浪式递减趋势，说明各区县土地整治项目的绝对规模差异在逐步减小。项目个数的变异系数 $C \nu$ 呈逐年下降特点，建设规模和投资规模的变异系数 $C \nu$ 呈波浪式下降，新增耕地规模的变异系数 $C \nu$ 呈现出先增加，后下降的特点。这说明各区县相对规模差异呈减小的趋势。
+
+2)对比分析各指标来看，投资规模和建设规模的标准差指数和变异系数的变动规律存在一定的同步性说明投资规模与建设规模二者存在强相关性。其标准差指数波浪式递减特点显著；变异系数则呈波浪式递减的特征，可以看出2014年的波动最激烈，说明 2014年差异变化最大。究其原因，灾后重建工作影响土地整治的任务安排和项目布局。新增耕地规模变化特征也大体相同，但在2014年其变异系数并未下降。项目个数的标准差指数波浪式递减，变异系数逐步降低，但降幅变缓，说明项目个数的绝对规模在下降，且各区县间相对差异变化也在逐年减小。
+
+# 3.1.2基于空间维度的土地整治项目总量分布概况
+
+1)从区域尺度看，2011—2015 年四川省土地整治项目呈现出明显的区域差异，项目集中分布在盆地丘陵农用地整治区，其项目总量占四川省土地整治项目总数的 $4 9 . 4 7 \%$ 。盆周山地生态整治区、成都平原综合整治区项目分布较多且差距较小，分别占到项目总量的 $2 2 . 3 9 \%$ 和 $20 . 3 5 \%$ 。而川西南山地河谷农用地整治区、川西北高山高原生态整治区项目仅占项目总量的 $4 . 1 2 \%$ 、 $3 . 6 7 \%$ (图2a)。四川省 $60 \%$ 以上可利用土地资源集中于盆地丘陵地区，实现土地整治的宏观目标必须以区域自然条件为背景，由此可见四川省可利用土地资源分布现状是形成该空间分布差异的主要原因。盆地丘陵农用地整治区为传统耕地集中区，也是全省重要农产品的主产区和紫色土最集中分布的区域，故土地整治潜力较大、垦殖程度高。虽然川西南山地河谷农用地整治区、川西北高山高原生态整治区人均土地资源较多，由于海拔较高，坡度较大，且是四川省退耕还林的重点区域，开发利用受到限制，因此土地整治项目分布少。
+
+![](images/13549702235df2455b75cfd4d5602ceb6d77a4f326f41ee54943c7da33f14384.jpg)  
+图22011—2015四川省各土地整治区土地整治项目空间分布(a)及各市州土地整治项目空间分布(b) .2Spatialdistributionoflandconsolidationprojects onrehabilitationregionscales (a)andoncitylevel (b)in SichuanProvi
+
+A:川西北高山高原生态整治区;B:川西南山地河谷农用地整治区;C:成都平原综合整治区;D:盆周山地生态整治区;E:盆地丘陵农用地整 治区。A:oloalablaoioirtstatofan;alddatioioioutoutt Sichuan;C:compreesivemproeentgioofCengduPain；Dologicalestoationgioninasinoutainarea；Egiclturalland consolidation region in basin hilly area.
+
+2)从市(州)尺度来看，2011—2015 年土地整治项目主要集中在成都市和宜宾市，而甘孜藏族自治州和凉山彝族自治州、攀枝花市分布较少。成都市、宜宾市、广元市、绵阳市、南充市、遂宁市、泸州市和巴中市8市项目总量皆超135个，项目总数介于 $6 0 { \sim } 1 3 5$ 个之间的共8个市(州)，而总数小于60 个的为甘孜藏族自治州、凉山彝族自治州、自贡市、攀枝花市和资阳市 5市(州)，其中甘孜藏族自治州整治项目总量最少，只有 11 个(图 2b)。这与胡业翠等[24]关于 2003—2008 年市域尺度土地整治项目数量的统计相比，泸州市、成都市仍处于全省高水平状态。成都市人口稠密，人均耕地面积全省最低，人地矛盾尖锐，但其经济发达，单位土地面积的生产总值和单位耕地面积农业产值均处于全省最高，故其土地整治项目分布多。市域尺度土地整治数量较大的区域基本集中在人口集聚区域，表明土地整治对解决人地矛盾具有重要意义。相比之下，甘孜州人均土地资源占有量最高，但受地理条件制约，生态脆弱，自然灾害、地质灾害等频繁，草原沙化退化问题凸显，资源环境约束趋紧。
+
+# 3.2土地整治项目重心移动轨迹
+
+重心模型已广泛应用于地理学领域，近年来也有学者将重心模型运用在土地整治方面，对项目投资进行时空分析[20]。本文研究的属性主要为研究“投入和产出"指标，借助 ArcGIS 10.2 软件研究土地整治项目重心移动轨迹。
+
+# 3.2.1 项目数量重心移动
+
+从 2011—2015年土地整治项目个数重心总体移动的趋势(图3)来看，呈南北方向波动。从重心移动的方向和距离而言，2011—2012 年项目数量重心向西南方向偏移，移动距离为 $5 7 . 7 7 ~ \mathrm { k m }$ ；2012—2013 年和2014—2015年2个阶段，项目投资重心均向西北方向移动，移动距离分别为 $4 2 . 3 3 ~ \mathrm { k m }$ 和 $2 9 . 0 4 ~ \mathrm { k m }$ ，南北方向移动幅度更大；2013—2014年移动距离最大 $( 7 5 . 3 2 ~ \mathrm { k m } )$ ，向东南方向移动。相对于基准点收敛，这表明四川省项目空间分布的整体均衡性有所改善，重点整治区域与方向日渐稳定与明确。
+
+![](images/f91d0886d07feb4ea71f728e684c184cad22018477c0d3f902209ac4e2442d54.jpg)  
+图32011—2015年四川省土地整治项目个数重心移动轨迹 Fig.3Moving locus of quantity gravity centerofland consolidation projects from 2011 to 2015 in Sichuan Province
+
+# 3.2.2项目建设规模重心移动
+
+土地整治项目建设规模重心总体呈东西方向波动趋势(图 4)，说明土地整治项目规模区域差异在东西方向表现更为显著。从重心移动的方向和距离而言,2011—2012年、2014—2015年2个阶段的建设规模重心向西南方向偏移，移动距离分别为 $4 3 . 6 3 \ \mathrm { k m }$ 、 $4 0 . 3 1 \ \mathrm { k m }$ ;2012—2013年重心向东北方向移动，移动距离为$5 9 . 8 1 ~ \mathrm { k m }$ ，2013—2014年向东南方向移动，移动距离为 $2 7 . 9 9 \mathrm { k m }$ ，横向移动幅度大。究其原因，东西方向地势起伏较大，西高东低，建设规模与区位条件、地形条件密切相关。
+
+![](images/2f080932d17244361782f8b35ac4ea7c29b352ec2d5136eabbb8d977ead4ee50.jpg)
+
+# 3.2.3项目投资规模重心移动
+
+土地整治投资规模重心移动主要呈现横向移动(图 5)，土地整治投资规模和建设规模在方向移动上具有一致性。2011—2012年和2014—2015年2个阶段的建设规模重心向西南方向偏移，移动距离分别为40.92km、 $5 5 . 0 9 \mathrm { k m }$ ;2012—2013 年和 2013—2014年，项目投资重心均向东北方向移动，向东横向移动幅度更大,移动距离分别为 $5 1 . 5 8 \mathrm { k m }$ 和 $4 2 . 1 3 \mathrm { k m }$ 。其原因是全省经济社会发展水平东西差异大，而南北差异较小。
+
+![](images/bd7632dbdf00db5f12b99ce34c24f0824d2d515ce95fb2c6294b7bfeb0906011.jpg)  
+图42011—2015年四川省土地整治项目建设规模重心移动轨迹Fig.4Moving locus ofconstructionscale gravitycenteroflandconsolidation projects from 2011 to 2015 in SichuanProvince  
+图52011—2015年四川省土地整治项目投资规模重心移动轨迹
+
+# 3.2.4项目新增耕地规模重心移动
+
+土地整治项目新增耕地规模重心移动轨迹(图6)与投资规模重心移动轨迹趋同，呈现出一定的同步性。新增耕地每个阶段的重心移动表现出的方向特征与建设规模重心的移动一致。2011—2012年、2012—2013年、2013—2014年和2014—2015年的移动距离分别为: $5 2 . 5 0 \mathrm { k m }$ 、 $6 2 . 0 1 \ \mathrm { k m }$ 、 $5 0 . 2 5 \mathrm { k m }$ 和 $6 8 . 2 2 \mathrm { k m }$ 。表明二者存在一定的相关性，在一定程度上证实了危小建等[22关于新增耕地规模和投资规模间关系的论证，新增耕地规模在一定程度上受投资规模的影响。
+
+![](images/6740d0836dc946d79f9639bc1468470ad33314a7181fe1b95cb83d4ea8f40073.jpg)  
+ig.5Moving locus ofinvestment gravitycenterof land consolidation projects from 2011 to 2015 in Sichuan Province   
+图62011—2015年四川省土地整治项目新增耕地规模重心移动轨迹
+
+Fig.6Movinglocusofnewly-addedcultivatedlandarea gravitycenteroflandconsolidationprojects from20llto2015 in Sichuan Province
+
+各指标重心移动轨迹最明显的共同特征是所有重心点均落在盆地丘陵农用地整治区内。所有指标每年的重心均相对于基准重心 $( 1 0 2 ^ { \circ } 4 1 ^ { \prime } 2 9 . 9 2 ^ { \prime \prime } \mathrm { E }$ ， $3 0 ^ { \circ } 3 7 ^ { \prime } 4 4 . 8 3 ^ { \prime \prime } \mathrm { N } )$ 向东移动，移动至川中地区，最东至遂宁市船山区。根据《四川省土地整治规划(2011—2015 年)》，将成都平原综合整治区、盆地丘陵农用地整治区、川西南山地河谷农用地整治区、盆周山地生态整治区划定为省级农用地土地整治重点区域，整治重心相对于基准重心偏东，指示川东依旧是整治的重点地区。2011—2015年四川省土地整治重大项目分布在盆地丘陵区最多，由此看出土地整治项目空间分布受政策因素影响，这与范圭等[23]对重庆市农用地整治研究得出的结论一致，政策是土地整治实施的保障。总的来说4个指标重心经向、纬向变化的一致性较差且呈现波动变化。其中2014年的各指标重心距离地理重心最远，说明该年土地整治项目空间分布差异最为显著。
+
+# 3.3土地整治项目空间关联性分析
+
+# 3.3.1 全局集聚特征
+
+GeoDA 是计算空间自相关系数的常用软件，因此本文运用GeoDA 计算出四川省各县(市、区)5 年总“投入"与"产出"水平的自相关系数MoransI(表2)，计算结果均通过 $Z$ 检验。结果表明县域尺度下土地整治分布存在较为显著的集聚性，这一现象与图2所示的土地整治项目分区、市空间分布相吻合。同时建设规模的正相关效应要高于其他几项指标的正相关效应，投资规模和新增耕地规模双变量的分布也呈现较显著的正相关性。
+
+表2四川省土地整治项目空间自相关系数Moran'sI  
+
+<html><body><table><tr><td>类别 category</td><td>项目个数 Number of</td><td>建设规模 Construction scale</td><td>投资规模 Investment scale</td><td>新增耕地规模 Newly-added cultivated land area</td><td>投资规模&新增耕地规模 Investment scale& Newly-added cultivated land area</td></tr><tr><td>莫兰指数 Moran's I</td><td>projects 0.3238</td><td>0.4021</td><td>0.373 6</td><td>0.395 6</td><td>0.379 7</td></tr><tr><td>P值 P value</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.001</td></tr></table></body></html>
+
+# 3.3.2 空间异质性分析
+
+空间关联性分析最重要的是能找出空间聚集点或子区域的所在。局部自相关分析产生的LISA聚集图(LISAClusterMap)能很好的指示各个区域与周围区域的空间相关程度。运用GeoDA软件和ArcGIS 软件相结合，生成 LISA 聚集图使县域尺度下的土地整治项目"投入"与"产出"水平空间异质性可视化(图7)。图中“高-高"表示县(市、区)和周围县(市、区)的土地整治"投入"与"产出"指标值都较高，相邻县域组成的子区域即为通常所说的热点区；“低-低"则代表盲点区，含义与"高-高"相反，但凡落入这两个区的研究单元均存在较强的空间正相关，即表现为均质性；“高-低"表示该县土地整治"投入"与"产出"指标值都较高，而周围县较低；“低-高"则表示该县土地整治"投入"与"产出"指标值都较低，而周围县较高，落入这两个区的单元表明存在较强的空间负相关，即表现为异质性。分析可知：
+
+![](images/882b9c47b91edf8d73c8471c3c17e9c13b8591dd8d8c1f8a155ff4c68861a4f4.jpg)
+
+![](images/677124e4952b0760a0e0d93d9c8bd2596a0c1b514b8bf2b20aac17f18c5791d1.jpg)  
+图72011—2015年四川省土地整治项目LISA聚集图  
+Fig.7LISA cluster maps of land consolidation projects in Sichuan Province during 2011-201:
+
+1)从总体上看，2011—2015年四川省土地整治项目各指标的LISA聚集图表现出的格局特征与土地整治潜力基本上一致，但与耕地资源分布具有一定差异，这与前人研究得出重庆市[23]和湖北省[22]土地整治格局特征与耕地资源分布一致的结论是有差异的。究其原因，四川省的地形起伏变化大，区位条件差异明显。
+
+2)从聚集发生的区位看，土地整治项目个数的高-高区未呈现明显成片的集聚特征。究其原因，土地整治项目投入类型多样化，各类型项目的投资规模和建设规模有大有小，未能呈现出明显成片分布特征。其他指标高-高区均主要集中在盆地丘陵农用地整治区的东北部。该区域以丘陵地貌为主，有少量的低山和河谷平坝，是中国紫色土的主要分布区，耕地资源丰富，基本农田面积大，是"粮食主产区再造一个都江堰土地整治重大项目(一期)"集中分布的地区，也是四川省农用地整治、土地复垦重点区。该区域在2011—2015年期间加强农业基础设施配套建设，积极改造中低产田，故成为土地整治的热点区域。低-低区均主要分布在川西北高山高原生态整治区，草地面积较大，耕地后备资源丰富，但其地势多为高亢，耕地资源相对较少，自然环境恶劣，生态环境约束大，经济技术条件差，土地的开发利用较为困难。低-高区主要环绕在高-高区周围，除新增耕地规模其余指标的低-高区还分布在部分平原地区，说明低-高区建设用地需求较大，为了解决耕地后备资源不均的问题，探索耕地"异地占补"平衡[25]。4个指标中仅有新增耕地规模和受投资规模影响的新增耕地规模有高-低区，仅出现在仁和区和美姑县。攀枝花市仁和区位于川滇黔资源金三角腹心地带，土地资源丰富，光热充足，且耕地质量等别高，故其耕地后备资源丰富。仁和区通过全面推进生产建设活动损毁土地和自然灾害损毁土地的复垦，改善生态环境，保障土地资源可持续利用，对攀枝花市所辖其他区县土地复垦起了示范作用。
+
+3)从各类型聚集区的县(市、区)个数看，揭示了 2011—2015 年四川省土地整治的热点地市主要为盆地丘陵农用地整治区的巴中市、南充市、绵阳市和广元市，向成都平原综合整治区、盆周山地生态整治区延伸。建设规模的高-高区为19个，低-低区42个。投资规模的高-高区为17个，低-低区35个。新增耕地规模的高-高区为20个，低-低区30个。投资规模影响下新增耕地规模的高-高区为15个，低-低区37个。4个指标均为高-高区的共有13个县，分别是仪陇县、阆中市、巴州区、平昌县、通江县、南江县、苍溪县、剑阁县、梓潼县、盐亭县、西充区、广汉市和射洪县。土地整治热点市均位于川东北区域，是四川省人口和产业的集中分布区，这与川东北区域农村人口-土地-经济系统协调发展度较高[2基本吻合。其中，巴州区、平昌县、仪陇县和射洪县的人口均在 100万以上，再次验证了土地整治的重点区域与人口聚集程度存在一定的正相关性。
+
+# 4结论与建议
+
+# 4.1结论
+
+基于 2011—2015 年土地整治监测监管数据，本文运用重心模型和空间自相关模型，利用 ArcGIS、GeoDa 软件和数理统计方法，对四川省土地整治项目的时空格局分异特征和重心转移进行了研究。研究结果有助于深入判定四川省土地整治的地域性和方向性，有利于统筹安排四川省下一阶段的土地整治工作。具体研究结论如下：
+
+1)从时间维度看，四川省土地整治项目总量呈下降趋势。究其原因，一方面土地整治项目具有时滞性。土地整治应探索建立集项目规划、项目立项、项目设计、项目实施、竣工验收为一体的土地整治实施机制。另一方面，项目规划布局受项目区的区位、地形条件和国家政策(如两次灾后重建)的影响。
+
+2)不同空间尺度下四川省土地整治项目格局表现为不同特征。区域层面上，四川省土地整治项目集中分布在盆地丘陵农用地整治区，土地整治的宏观目标的实现必须以区域自然条件为背景。市域层面上，项目主要集中在成都市和宜宾市，而甘孜藏族自治州、凉山彝族自治州和攀枝花市分布较少，市域尺度土地
+
+整治数量与人口聚集程度呈正相关。
+
+3)各指标重心点均落在盆地丘陵农用地整治区内，整治重心相对于地理重心向东移动，空间分布具有一定的地域均衡性，土地整治项目空间分布受政策因素影响。
+
+4)土地整治项目在县域尺度下土地整治项目分布存在较为显著的集聚性。高-高集聚区均主要集中在盆地丘陵农用地整治区的东北部，低-低集聚区均主要分布在川西北高山高原生态整治区。农村人口集聚、土地整治布局和经济发展水平相互关联、相互作用。
+
+# 4.2 政策建议
+
+1)适度加强川西北高原藏区和大凉山彝区土地整治投入力度，提高土地整治空间分布的均衡性。应坚持尊重自然、顺应自然、保护自然的理念，科学评价生态环境存在的问题和空间分布特征，优化土地整治项目布局，加大生态土地整治投入力度，科学规划、实施生态保护地区土地整治示范项目。
+
+2)将土地整治工作和精准扶贫工作有机结合，同频共振，以发展特色产业经济为主，建设生态屏障，助力精准扶贫精准脱贫。例如巴中市实施土地整治项目与"巴山新居"建设紧密结合、有机融合，从而使项目建设与贫困人口脱贫、改变基础设施条件相衔接，促进项目区经济发展。
+
+3)加强顶层设计，继续推进"全域协同"的全域土地整治和统筹"差别化"的区域土地整治。统筹安排生产生活、生态用地，实现"三生"协调发展，整合城乡土地资源，促进协调可持续发展。根据区域差异、区域联系，充分发挥各地区的比较优势，建立各有侧重的区域分布格局，统筹各区域的土地整治，促进区域经济与土地利用相协调发展。
+
+# 参考文献References
+
+[1] 郧宛琪，朱道林，汤怀志．中国土地整治战略重塑与创新[J]．农业工程学报,2016,32(4):1-8Yun WQ,ZhuDL,Tang HZ.Reshapingand innovationof China landconsolidation strategy[J].Transactions ofthe CSAE,2016,32(4): 1-8  
+[2]贾文涛．土地整治有了新目标——《全国土地整治规划(2011—2015年)》解读[J].中国土地,2012,(4):12-14Jia WT.Landconsolidation hasanew target—Readthe20l1-2O25Land ConsolidationPlanin China[J].ChinaLand,2012,(4): 12-14  
+[3]严金明，夏方舟，李强．中国土地综合整治战略顶层设计[J]．农业工程学报,2012,28(14):1-9  
+YanJM,XiaFZ,LiQ.Topstrategydesignofcomprehensive landconsolidationin China[J].Transactionsof theCSAE,2012,28(14): 1-9  
+[4] 刘彦随．科学推进中国农村土地整治战略[J]．中国土地科学,2011,25(4):3-8  
+LiuYS.Scientificallypromotingthestrategyofrclamationandreadjustmentofrurallandin China[J].ChinaLandScience,2011,25(4): 3-8  
+[5]张川，余建新，郑宏刚，等．基于系统工程和统计学理论的中国土地整治体系框架构建[J].农业工程学报，2015,31(15):255-263Zhang C,YuJX, Zheng HG,etal.System framework of landconsolidation basedonsystematic engineringand statisticstheory in China[J]. Transactions of the CSAE,2015,31(15): 255-263  
+[6] 信桂新，杨朝现，魏朝富，等．人地协调的土地整治模式与实践[J]．农业工程学报,2015,31(19):262-275Xin G X,Yang C X,WeiCF,et al.Mode and practiceof land consolidation basedonhuman-earth harmonization[J].Transactions of the CSAE,2015,31(19): 262-275  
+[7]叶剑平，宋家宁，毕宇珠．土地整治模式创新及其权益分配优化研究[J]．中国土地科学,2012,26(9):48-53Ye JP,Song JN,BiYZ.Reforming landreclamationpatternandtherevenue distributiooptimization[J].ChinaLandScience,2012,26(9):48-53  
+[8] 程文仕，乔强，刘志，等．基于 RAGA-PPC 模型的土地整治综合效益评价——以甘肃省庆阳市15 个土地整治项目为例[J]．水土保持通报,2016,36(4):257-261Cheng W S,Qiao HQ,Liu Z,et al.Assessmentof comprehensive benefits from land remediationbased on RAGA-PPCmodel一Acase studyof 15 projects in Qingyang Cityof Gansu Province[J].Buletin of Soil and Water Conservation,2016,36(4): 257-261  
+[9]项晓敏，金晓斌，杜心栋，等．基于“强度-潜力-难度"综合测度的中国农用地整治实施协调性分析[J].地理研究，2016,35(2): 285-298Xiang XM,Jin XB,Du XD,etal.Thecoordinationoffarmlandconsolidation implementation in Chinabycomprehensivemeasure of "intensity, potential and difficulty"[J]. Geographical Research, 2016,35(2): 285-298  
+[10]赵小风，黄贤金，王小丽，等．基于城乡统筹的农村土地综合整治研究——以南京市靖安街道"万顷良田建设"为例[J].
+
+长江流域资源与环境，2013,22(2):158-163
+
+Zhao XF,Huang X J，Wang XL,et al. Comprehensive rural land readjustment viewing fromurban-rural integration development—Acase studyof“Hectares Farmland Project”in Jing'an District,Nanjing[J].Resources and Environment in the Yangtze Basin,2013,22(2): 158 - 163   
+[11] 乔陆印，刘彦随．新时期中国农村土地综合整治逻辑体系框架[J]．人文地理,2016,31(3):67－73 Qiao LY,Liu YS.The Logical framework of rural land comprehensive consolidation during new period[J].Human Geography,2016,31(3): 67- 73   
+[12] 宁秀红，赵敏．土地整治驱动下土地利用和景观格局变化研究——以上海市合庆镇为例[J].长江流域资源与环境，2016, 25(1): 79-87 Ning XH,Zhao M.Changes in land use and landscape caused byland consolidation—Acase studyof Heqing Town in Shanghai[J]. Resources and Environment in the Yangtze Basin,2016, 25(1): 79-87   
+[13] 马世帅，刘元芳，张长春，等．基于土地整治的项目区耕地资源社会价值评定及变化分析[J]．中国生态农业学报，2013, 21(10): 1293 - 1298 Ma S S,Liu YF, Zhang CC,et al.Social value evaluation ofcultivated land resources inland reclamation project area[J]. Chinese Journal of Eco-Agriculture,2013,21(10): 1293 - 1298   
+[14]徐康，金晓斌，吴定国，等．基于农用地分等修正的土地整治项目耕地质量评价[J].农业工程学报,2015,31(7):247-255 Xu K,Jin XB,WuDG,etal.Cultivated land qualityevaluationof landconsolidation project basedonagricultural land gradation[J]. Transactions of the CSAE,2015,31(7): 247-255   
+[15]管栩，金晓斌，杨绪红，等．中国农用地整理项目安排与耕地资源分布的协调性研究[J]．自然资源学报，2015，30(2): 226-234   
+Guan X,Jin XB,Yang XH,et al.Studyonthecoordination between farmlandconsolidation andcultivatedlandresources in China[J]. Journal of Natural Resources,2015,30(2): 226-234   
+[16] 王军，钟莉娜．中国土地整治文献分析与研究进展[J].中国土地科学,2016,30(4):88-96   
+Wang J,ZhongLN.Literature analysis onlandconsolidationresearch inChina[J].ChinaLandScience,016,30(4):88-96   
+[17] 杜鑫昱，夏建国，章大容．四川省土地整理项目绩效评价[J].中国生态农业学报,2015,23(4):514-524   
+Du XY,XiaJG,ZhangDR.Evauationofperformanceoflndconsolidationprojects inichuanProvince[J].ChinseJoualof Eco-Agriculture,2015,23(4): 514-524   
+[18] 陈志刚，王青,黄贤金，等．长三角城市群重心移动及其驱动因素研究[J]．地理科学,2007,27(4):457-462 Chen Z G, Wang Q, Huang X J,et al. Movement of urbanagglomeration gravityand its driving forces in the Changjiang (Yangtze) Delta of China[J]. Scientia Geographica Sinica,2007,27(4): 457-462   
+[19]李秀彬．地区发展均衡性的可视化测度[J]．地理科学,1999,19(3):254-257 Li X B. Visualizing spatial equality of development[J]. Scientia Geographica Sinica,1999,19(3): 254-257   
+[20]杨绪红，金晓斌，管,等.2006-2012年中国土地整治项目空间特征分析[J]．资源科学,2013,35(8):1535-1541 Yang X H,Jin XB,Guan X,et al.Thespatial distributionof landconsolidation projects in China from 2006 to 2012[J]. Resources Science,2013,35(8): 1535-1541   
+[21]杨绪红，金晓斌，郭贝贝，等.2006-2012年中国土地整治项目投资时空分析[J]．农业工程学报,2014,30(8):227-235 Yang XH,Jin XB,GuoBB,etal.Spatio-temporaldiferentiationof landconsolidation investment inChina from206 to 2012[J]. Transactions of the CSAE,2014,30(8): 227-235   
+[22]危小建，刘耀林，王娜．湖北省土地整治项目空间分异格局[J]．农业工程学报,2014,30(4):195-203 Wei X J,LiuYL,Wang N.Spatial disparitypateroflandconsolidationprojects inHubeiProvince[J]. Transactionsof the CSAE,2014,30(4): 195-203   
+[23]范垚，杨庆媛，马寅华，等．重庆市农用地整治项目时空分异特征研究[J]．长江流域资源与环境,2016,25(9):1347-1357   
+Fan Y,YangQY,MaYH,etal.Researchotemporalandspatialvariationoffarmlandonsolidationprojects inChongqig[J]. Resources and Environment in the Yangtze Basin, 2016,25(9): 1347-1357   
+[24]胡业翠，郑新奇，徐劲原，等．中国土地整治新增耕地面积的区域差异[J].农业工程学报,2012,28(2):1-6   
+HuYC,Zheng XQ,XuJY,etal.Regional difference for newlyincreasedcultivated land area through landconsolidation in China[J]. Transactions of the CSAE,2012, 28(2): 1-6   
+[25] 陈美球，刘桃菊，吴萍．耕地占补平衡政策落实的现实困境与完善对策[J].中州学刊,2016,(5):50-53.   
+Chen MQ,LiuTJ,WuP.Practicaldificultiesandcountermeasures ofimpementationofcultivatedlandrequsitio-compensation balance policy[J]. Academic Journal of Zhongzhou,2016,(5): 50-53.   
+[26] 马历，唐宏，尹奇，等．四川农村人口土地和经济系统的协调发展及时空演变[J]．中国生态农业学报，2017,25(1)：136-
+
+MaL,Tang H,YinQ,etal.Cordinateddevelopmentandits’spatio-temporal evolutionofruralpopulation,landandeconomy system in Sichuan Province[J]. Chinese Journal of Eco-Agriculture,2017,25(1): 136-146

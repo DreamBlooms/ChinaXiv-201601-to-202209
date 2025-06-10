@@ -1,0 +1,405 @@
+# 时变能量网络理论
+
+陈皓勇，葛海麟，邱明（华南理工大学电力学院广州510641)
+
+# 摘要
+
+不同类型的能源系统通过能量转换设备（感应电动机、离心泵等）相互耦合，研究多类型能源系统的动态特性及其仿真方法对多能互补系统优化设计及性能分析具有重要的实际意义。为对时变能量网络进行建模和分析，本文从能量本质的角度出发，通过深入探讨能量传递及转换机理，分别建立时变传递线（管)路和能量转换设备的集中参数模型。在时变能量网络模型的基础上，提出通过构建时变能量网络方程（包括状态方程和输出方程）对多能互补系统的动态特性进行建模仿真的分析方法，最后通过具体算例对本文所提分析方法的有效性及实用性进行验证。本文的研究内容为时变能量网络的建模、分析、优化及规划奠定了基础。
+
+关键词：广延量；能量；烟；时变；能量网络方程中图分类号：TK01；TM13
+
+# Time-varying Energy Network Theory
+
+Chen Haoyong, Ge Hailin, Qiu Ming (School of Electric Power, South China University of Technology, Guangzhou 51O641, China)
+
+ABSTRACT: Diferent types of energy systems are coupled by energy conversion devices (e.g., induction motors, centrifugal pumps,etc.). It is of great practical significance to study the dynamic characteristics and simulation method of multi-type energy system for the optimization design and performance analysis of multi-energy complementary system. In order to model and analyze the time-varying energy network,from the point of view of the essence of energy,lumped parameter models of time-varying transfer line (pipe）and energy conversion equipment are established through in-depth study of the mechanism of energy transfer and conversion. On the basis of the time-varying energy network model,a method of modeling and simulating the dynamic characteristics of the multi-energy complementary system by constructing time-varying energy network equations (including state equations and output equations)is proposed, then the validity and practicability of which are verified by a practical example. The research of this paper lays the foundation for the modeling,analysis,optimization and planning of time-varying energy network.
+
+KEY WORDS: extensive quantity; energy; exergy; time-varying; energy network equations
+
+# 1引言
+
+实现不同形式能源的综合利用，在全球能源及环境危机的背景下，已成为了必然的趋势[-4]。工程中能源的生产、传输及利用，大多采用网络化的方式进行，如电网、热网、燃气管网等。英国和爱尔兰成立的能源网络协会，对电力和燃气输配管网的协调管理展开研究[5]。瑞士联邦理工学院在“未来能源网络远景"项目中，首次提出了 Energy Hub 和 Energy
+
+Interconnector 的概念[6.7]。文献[8]指出由可再生能源、电力系统和信息通信技术组成的能源互联网将成为第三次工业革命的核心。能源互联网不仅实现电能生产者和消费者之间的共享，也实现不同形式能源之间的互联和共享。
+
+不同类型的能源从物质的角度上是不能转化的（如电不能转化为蒸汽等)，然而从能量的角度却是可以相互转换的（如电能转换为热能等)；能量是各种不同形式能源与物理过程实现相互转换的桥梁[9.10]。要实现不同形式能源物理层面上的互联，必须从能量的角度出发，探讨能量的普遍化传递规律。文献[11]在深入探讨能量本质的基础上，建立了能量网络的基本理论。然而，工程上能源系统的状态往往与运行工况有关，系统结构或运行方式的改变，都会使系统参数动态变化，此时系统参数往往与时间相关，因此非常有必要进一步建立时变能量网络的相关理论。
+
+与时不变相比，时变能量网络的传递过程将出现一些新的规律和特点。本文从能量本质的角度出发，对时变传递线（管）路的普遍化传递规律进行深入探讨，引出时变能量网络基本参数的定义及物理意义。结合不同类型能量的具体传递特性，通过严谨的数学推导得到时变传递线（管）路的等效传递方程，建立时变传递线（管）路的集中参数模型。不同类型的能源系统通过能量转换设备（感应电动机、离心泵等）相互耦合，本文进一步建立能量转换设备的集中参数模型。为考察时变能量网络的动态过程，本文在时变能量网络模型的基础上，提出通过构建时变能量网络方程（包括状态方程和输出方程）对多能互补系统的动态特性进行建模仿真的分析方法。本文最后以一个数值算例证明所建立的理论及方法的正确性及实用性，并阐述了其基本应用。
+
+# 2时变能量网络的基本参数
+
+描述热力学体系的状态参量可以分为强度量和广延量两类：强度量是指与物质的量无关，不具有加和性的量（如热力学温度、电势、流体压强)；广延量是指与物质的量有关，具有加和性的量（如热力学熵、电荷量、流体体积)。广延量可分为基本广延量、能量及烟（如电荷量、电能及电烟，又如热力学熵、热能及热烟)，基本广延量是另外两种广延量的传递载体。自然界任何形式的能量和烟都可以表示成一个基本强度量和一个基本广延量的函数，而且这两个基本参量的乘积正好具有能量的量纲（如电能可以表示成电势与电荷量的乘积，热能可以表示成温度与熵的乘积）[11,12]。
+
+为进一步引出时变能量网络基本参数，下文将从基本广延量和能量的空间平衡方程出发，通过严谨的数学推导，对时变传递线（管）路的传递规律进行分析及讨论。
+
+# 2.1时变传递线（管）路的传递规律
+
+能量网络由传递线（管）路组成，因此须准确地把握能量在时变线（管）路中的传递规律。工程中的线（管）路通常是圆柱形状的，如电线、供热管道及天然气管道等，本文将以图1所示的圆柱形传递线（管）路为对象，对时变传递线（管）路的传递规律进行深入探讨。
+
+$$
+\stackrel { J _ { 1 } } { \longrightarrow } \bigcap \qquad \int _ { X _ { 2 } } ^ { J _ { 2 } } \longmapsto \bigwedge _ { X _ { 2 } } ^ { J _ { 2 } }
+$$
+
+图1圆柱形传递线（管）路  
+Fig.1 Cylindrical transfer line (pipe)
+
+基本广延量和能量的空间平衡方程分别为[12]：
+
+$$
+\begin{array} { l } { \displaystyle \rho \frac { d x } { d t } = - \nabla \cdot \pmb { J } _ { x } + g _ { x } } \\ { \displaystyle \rho \frac { X d x } { d t } = - \nabla \cdot ( X \pmb { J } _ { x } ) + g _ { e n } } \end{array}
+$$
+
+其中 $\rho$ 为介质的密度， $x$ 为单位质量介质中的基本广延量， $X$ 为强度量， $J _ { x }$ 为基本广延量的流密度矢量， $g _ { x }$ 为单位体积介质中基本广延量的源强度， $\boldsymbol { g } _ { e n } = \boldsymbol { J } _ { x } \cdot \nabla \boldsymbol { X } + \boldsymbol { X } \boldsymbol { g } _ { x }$ 为单位体积介质中能量的源强度。对上两式分别进行体积积分，则有
+
+$$
+{ \frac { d x ^ { * } } { d t } } = H _ { x 1 } - H _ { x 2 } + \int _ { 0 } ^ { L } x _ { g } d L
+$$
+
+$$
+\frac { d E } { d t } = X _ { 1 } H _ { x 1 } - X _ { 2 } H _ { x 2 } + \int _ { 1 } ^ { 2 } H _ { x } d X + \int _ { 1 } ^ { 2 } X d x _ { g }
+$$
+
+$x ^ { * }$ 为圆柱形传递线（管）内总的基本广延量， $E$ 为圆柱形传递线（管）内的总能量， $\scriptstyle H _ { x } = J _ { x } A$ 为单位时间通过横截面积 $A$ 的基本广延量流， $x _ { g }$ 为单位长度内基本广延量的产生量。
+
+式(3)表明，单位时间内一段圆柱形传递线（管）路中广延量的变化量，等于通过横截面流入该段圆柱形传递线（管）路的广延量与广延量在这段圆柱形传递线（管）路内流动时的产生量之和。
+
+式(4)体现了不同形式能量的传递共性，是研究时变线（管）路传递规律的重要依据。该式中各项的物理意义：左侧是单位时间内圆柱形传递线（管）路内总能量的变化量，右侧第一、第二项是单位时间内经边界流入线（管）路的能量，右侧的第三项代表与强度量下降相联系的能量减少量，右侧第四项代表随着基本广延量的增加而增加的能量。由该式可知，在能量的传递过程中普遍存在着存储或消散效应（左侧项)、阻力及惯性效应(右侧第三项)。
+
+1）能量传递过程的存储或消散效应。在时变能量网络中，圆柱形传递线（管）内的总能量 $E$ 是随时间变化的，或储存或消散，这些能量的存储或消散效应，都是通过传递介质本身来完成的。
+
+2）能量传递的阻力及惯性效应。右侧第三项，代表与强度量下降相联系的能量减少量。强度量下降反映的是能量在传递过程普遍受到的阻力及惯性效应，而与强度量下降相联系的能量减少量，则反映了传递过程中为了克服阻力及惯性而消耗及转换的能量。
+
+# 2.2时变能量网络的基本参数
+
+# （1）传阻 $R$
+
+自然界各种形式的能量，在传递过程中都会普遍受到一种阻碍的作用。这种阻力效应，对于不同形式的能量有着不同的表现形式，例如电力网络中的电阻，流体网络中的流阻与及热力网络中的热阻等[13-15]。能量在线（管）路内传递的过程中，为克服这种普遍存在的阻力效应，将产生一种与强度量下降相联系的能量损耗及转换。
+
+与电阻定义相似，传阻的定义传递线（管）路两端的强度量差 $\Delta X$ 与通过的广延量 $H$ 之比，即：
+
+$$
+R = { \frac { \Delta X } { H } }
+$$
+
+（2）传容 $c$
+
+在传递过程中，时变能量网络线(管)路内广延量和能量是时刻变化的。广延量及能量的存储或消散，均是通过传递介质来实现。这种传递过程中普遍存在的能量存储或消散效应，可以通过一个传容 $c$ 的参数来进行描述。与电容定义相似，传容C的定义为：
+
+$$
+C = H ⁄ ( \frac { \partial X } { \partial t } )
+$$
+
+传容代表了广延量与能量在传递过程中的一种存储或消散效应，其大小与强度量变化的快慢有关。
+
+# （3）传感 $L$
+
+在时变能量网络中，由于惯性的作用，任何发生高速瞬态变化的地方将使广延量加速或减速并引起强度量变化。这种传递过程中普遍存在的惯性效应，可以用一个传感 $L$ 的参数来描述，其定义为：
+
+$$
+L = \Delta X / \frac { d H } { d t }
+$$
+
+传感是能量传递惯性效应的一种反映，其大小与广延量变化的快慢有关。与传阻反映与强度量下降相联系的能量损失不同，传感反映的是与强度量下降相联系的能量转换。电力网络中电感将电场能转化为了磁场能，流体网络流感将势能（压能）转换为了动能。此外，需要特别指出，热运动能瞬间启动，在热能传递过程中不存在惯性效应[16]。
+
+（4）传导 $G$
+
+能量沿较长且密封性不好的线（管）路传递时，有可能会出现泄露，导致线（管）路内能量减少。这些能量传递过程出现的泄露效应，可以由一个传导G的参数来描述。
+
+# 3时变传递线（管）路的集中参数模型
+
+在时变传递线（管）路中，当与能量传递相关的参数（广延量及强度量）波长λ远远大于线（管）路的特征长度 $L _ { \mathrm { { c } } }$ 时，这些参数的波幅仅仅是时间的函数，而与空间的位置无关。这样的处于低频脉动下的传递线（管）路，可以被认为是具有离散特性的，可以通过建立其相应的集中参数的模型来描述。
+
+# 3.1普遍化广延量传递方程
+
+三类广延量（基本广延量、能量和烟）的传递是辩证统一的，是对同一个传递过程不同层次的描述。文献[12]根据这三者的关系，结合传递公理，拓展了能量传递公理及烟传递公理。
+
+为不失一般性，本节将从三类广延量的空间平衡方程出发，通过分析及讨论，最终得到普遍化广延量传递方程。该方程是对传递过程的统一描述，体现了同一个传递过程不同层次（基本广延量流、能流、烟流）的传递共性。
+
+烟的空间平衡方程为[12]：
+
+$$
+\rho \frac { ( \boldsymbol { X } - \boldsymbol { X } _ { 0 } ) d \boldsymbol { x } } { d t } = - \nabla \cdot [ ( \boldsymbol { X } - \boldsymbol { X } _ { 0 } ) \boldsymbol { J } _ { x } ] + g _ { e x }
+$$
+
+其中 $\boldsymbol { \rho }$ 为介质的密度， $x$ 为单位质量介质中的基本广延量， $X$ 为强度量， $X _ { 0 }$ 为强度量的
+
+寂态值， $J _ { x }$ 为基本广延量的流密度矢量， $g _ { e x } = \pmb { J } _ { x } \cdot \nabla X + ( X - X _ { 0 } ) g _ { x }$ 为单位体积介质中烟的源强度。
+
+对上式两端进行体积积分，化简可得：
+
+$$
+\begin{array} { c } { \displaystyle { \frac { d E x } { d t } = ( X _ { 1 } - X _ { 0 } ) H _ { x 1 } - ( X _ { 2 } - X _ { 0 } ) H _ { x 2 } + } } \\ { \displaystyle { { \phantom { \bigg [ } \int _ { 1 } ^ { 2 } H _ { x } d X + \int _ { 1 } ^ { 2 } ( X - X _ { 0 } ) d x _ { g } } } } \end{array}
+$$
+
+定义 $H _ { e n } = X H _ { x }$ ， $H _ { e x } = ( X - X _ { 0 } ) H _ { x }$ 分别为单位时间通过横截面积 $A$ 的能流和烟流，联立式(3)、(4)、(9)，即有：
+
+$$
+\left\{ \begin{array} { l } { \displaystyle { \frac { d x ^ { * } } { d t } = H _ { x 1 } - H _ { x 2 } + H _ { g x } } } \\ { \displaystyle { \frac { d E } { d t } = H _ { e n 1 } - H _ { e n 2 } + H _ { g e n } } } \\ { \displaystyle { \frac { d E x } { d t } = H _ { e x 1 } - H _ { e n c 2 } + H _ { g e x } } } \end{array} \right.
+$$
+
+其中 $H _ { g x } , \ H _ { g e n } , \ H _ { g e x }$ 分别为基本广延量流、能流、烟流的源项：
+
+$$
+\begin{array} { r l } & { \left\{ H _ { g x } = \displaystyle \int _ { \nu } g _ { x } d \nu = \int _ { 0 } ^ { L } x _ { g } d L \right. } \\ & { \left\{ H _ { g e n } = \displaystyle \int _ { \nu } g _ { e n } d \nu = \int _ { 1 } ^ { 2 } H _ { x } d X + \int _ { 1 } ^ { 2 } X d x _ { g } \right. } \\ & { \left. H _ { g e x } = \displaystyle \int _ { \nu } g _ { e x } d \nu = \int _ { 1 } ^ { 2 } H _ { x } d X + \int _ { 1 } ^ { 2 } ( X - X _ { 0 } ) d x _ { g } \right. } \end{array}
+$$
+
+式（10）中三个方程，分别是时变能量递线（管）路的基本广延量、能量、烟传递方程。这三个传递方程的左侧，分别代表单位时间内基本广延量、能量和烟的变化量，令 $C _ { x } \setminus \ C _ { e n } \setminus C _ { e x }$ 分别代表基本广延量流、能流及烟流的传容，根据传容的定义及其物理意义，式(10)可以转化为：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle C _ { x } \frac { d X } { d t } = H _ { x 1 } - H _ { x 2 } + H _ { g x } } \\ { \displaystyle C _ { e n } \frac { d X } { d t } = H _ { e n 1 } - H _ { e n 2 } + H _ { g e n } } \\ { \displaystyle C _ { e x } \frac { d X } { d t } = H _ { e x 1 } - H _ { e x 2 } + H _ { g e x } } \end{array} \right.
+$$
+
+上式中三类广延量传递方程，在形式上是完全一致的，是对同一个传递过程不同层次（基本广延量流、能流、烟流）的不同描述。对一个具体的传递过程，可以从不同的层面来进行研究。在不同的层次上的具体内容存在差别，但其形式始终保持着一致。根据这种传递过程形式的一致性，普遍化广延量传递方程如式(13)所示。
+
+$$
+C { \frac { d X } { d t } } = H _ { 1 } - H _ { 2 } + H _ { g }
+$$
+
+3.2时变传递线（管）路的等效传递方程
+
+普遍化广延量传递方程，实现了对传递过程的统一描述，体现了广延量在时变传递线（管）路内的变化规律，是集中参数模型建立的重要依据。在此基础上，结合不同形式能量的具体传递特性，下文进一步得到具有实用意义的时变传递线（管）路的等效传递方程。
+
+（1）电能的传递过程
+
+与电能传递相关的强度量为电势，基本广延量为电荷。由电荷守恒定律可知，电荷的源强度 $g _ { q } = 0$ ，结合式(11)可知，与电能传递相关的基本广延量(即电荷)的源强度及源项均为0。
+
+# （2）压能的传递过程
+
+与压能传递相关的强度量为压强，基本广延量为体积。压能的传递过程中，流体的体积是不守恒的。由质量守恒定律可知，质量的源强度 $g _ { _ m } = 0$ 。结合关系式 $ { \boldsymbol \nu } =  { \boldsymbol \rho } ^ { - 1 }$ ，即可得随体形式的体积平衡方程[12]：
+
+$$
+\rho { \frac { d { \boldsymbol { \nu } } } { d t } } = { \boldsymbol { \nabla } } \cdot { \boldsymbol { V } }
+$$
+
+式(1)及式(14)对比可知，与压能传递相关的基本广延量（也即体积）的源强度及源项均为0。
+
+（3）热能的传递过程
+
+与热能传递相关的强度量为热力学温度，基本广延量为熵。以非稳态热传导为例，由文献[17]可知，熵的源强度 $g _ { s } \neq 0$ ，在无其他形式能量渗入的条件下，其表达式可以简化为：
+
+$$
+g _ { s } = - \frac { 1 } { T } \pmb { J } _ { s } \cdot \nabla T
+$$
+
+代入能量的源强度定义式可得 $g _ { e n t } = 0$ ，即热能的传递过程中，虽与热能传递相关的基本广延量（熵）的源项不为0，但与其相关的能量（即热量）的源项为0。
+
+综上所述，对于电能、压能的传递过程，其基本广延量的源项（分别是电荷及体积）为0；而对于纯导热的过程，其基本广延量的源项（熵）不为0，但其能量的源项（热能）为0；也即，与这些能量传递线（管）路对应的广延量传递方程，经适当的简化后，均可转化为如式(16)所示的形式。对于电能、压能的传递过程，广延量流为基本广延量流（即电流及体积流量)；对于热能，广延量流为能流（即热流）。
+
+$$
+C \frac { d { X } } { d t } = H _ { 1 } - H _ { 2 }
+$$
+
+能源有许多种类型，实际工程中能量的网络化传递主要依靠电网和流体网络（如热网、燃气管网等)，核能、风能、太阳能、水能等都必须先转化为电能或者热能再传递。因此，本节得到的时变传递线（管）路的等效传递方程，即式(16)，是建立时变能量网络集中参数模型的关键。
+
+此外，文献[12]指出，任何形式的能量都具有质和量两重属性；能量的质是烟，烟是推动目的过程进行的源动力；只要系统的某一个强度量等于寂态值，与该强度量相应的烟就等于0。因此，在时变传递线（管）路的集中参数模型中，强度量的基准值（参考地）应该为与该种形式能量相对应的强度量寂态值 $X _ { 0 }$ 。
+
+时变能量网络中的常见能量（电能、压能、热能）的传递过程，均可以通过时变传递线
+
+（管）路的等效传递方程，即式(16)来进行描述，该方程体现了广延量在时变传递线（管）路内的变化规律。根据式(16)，结合时变能量网络基本参数的定义及其物理意义，即可建立时变传递线（管）路的集中参数模型，该模型如图2所示。
+
+![](images/b2e8205ce9e74cc09596174ecd5d9e479879d0a5f46003fb72a197c8e8986dc2.jpg)  
+图2时变传递线（管）路的集中参数模型
+
+Fig.2 lumped parameter model of time-varying transfer line (pipe)
+
+# 4能量转换设备的集中参数模型
+
+# 4.1感应电动机
+
+感应电动机的工作是建立在电磁感应的基础之上，其可以将电能转化为机械能。施加在感应电动机两端的电压感应出电机磁场线圈的速度流 $\boldsymbol { H } _ { \omega }$ ，而产生的转矩 $\Delta X _ { T }$ 反馈形成电流${ \boldsymbol { H } } _ { i }$ ，其转换关系如式(17)所示。这种转换特性可以用回旋器 $G Y ( k )$ 的能量转换装置来表示，其中 $k _ { { \scriptscriptstyle m } }$ 为电动机转矩转换系数[18-20]。
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \Delta X _ { \varepsilon } / k _ { m } = H _ { \omega } } \\ { H _ { i } \cdot k _ { m } = \Delta X _ { T } } \end{array} \right. } \end{array}
+$$
+
+![](images/81be3d2c3792a77514afc235fc925cc1715d885a82b02e03c27fa41657e04f5b.jpg)  
+图3感应电动机的集中参数模型  
+Fig.3Lumped parameter model of induction motor
+
+在建立感应电动机的动态模型时，通常需要考虑电动机转速差、轴承摩擦及转子摩擦、转子及轴的转动惯量与电机轴的柔度等特性，以上特性可依次由集中参数元件 $R _ { { } _ { m w } }$ 、 $R _ { { \scriptscriptstyle m f } }$ 、 $L _ { m x }$ 与 $C _ { m k }$ 来表示[18]。由此，即可建立感应电动机的集中参数模型，该模型如图3所示。
+
+# 4.2 离心泵
+
+离心泵是流体网络中常见的能量转换设备，其可以将机械能转化为流体压能，其能量转
+
+换特性能用回旋器 $G Y ( r _ { p } )$ 来表示，其能量转换关系见下式。
+
+$$
+\left\{ \begin{array} { l l } { \Delta X _ { _ { T } } / r _ { p } = H _ { _ { q _ { v } } } } \\ { H _ { _ { \omega } } \cdot r _ { p } = \Delta X _ { _ { P } } } \end{array} \right.
+$$
+
+其中 $\Delta X _ { \mathit { T } } \setminus H _ { \mathit { \omega } }$ 分别为转矩与角速度， $X _ { { P } } \ 、 \ H _ { q _ { v } }$ 分别压力与体积流量， $r _ { p }$ 为叶轮回旋器模数[20]。
+
+在建立离心泵的动态模型时，通常需要考虑离心泵转子摩擦特性、转子转动惯量特性、泄露特性与阀门出口压力损失特性等，以上特性可依次由集中参数元件 $R _ { p f } \setminus L _ { p x } \setminus R _ { p \xi }$ 与 $R _ { p r }$ 来表示[18]。综上所述，离心泵的集中参数模型如图4所示。
+
+![](images/b537c23367f5a6359239b7b942046ede7bded63e6681b47fd69e5269ea838314.jpg)  
+图4离心泵的集中参数模型
+
+Fig.4 Lumped parameter model of centrifugal pump
+
+# 5时变能量网络方程的建立
+
+# 5.1典型时变能量网络
+
+在流体网络理论中，与基尔霍夫电压定律(KVL)和基尔霍夫电流定律(KCL)对应的分别是流体节点定律及流体回路定律[13.14]，能量网络理论中广义基尔霍夫定律的提出，使得我们能像电网络理论一样，列出能量网络方程[1]。为考察时变能量网络的动态过程，本文在时变能量网络模型的基础上，提出通过构建时变能量网络方程（包括状态方程和输出方程）对多能互补系统的动态特性进行建模仿真的分析方法，并通过算例分析对所提方法的有效性及实用性进行验证。
+
+为不失一般性，本文以某冷电联供系统（典型的时变能量网络）为研究对象，该系统如图5所示。冷电联供系统存在着多种形式的能量传递（电能、压能、冷能等)；这些能量除了通过传递线（管）路进行传递外，还通过多个能量转换设备耦合在一起（离心泵、水冷机组、换热设备等）。
+
+图5 中实线代表电力网络，传输电能；虚线代表流体网络，主要传输冷能，同时消耗压能；电力网络与流体网络依靠离心泵TM（离心泵通过感应电动机带动）和制冷机（ $P _ { C } = P _ { C h } + P _ { C e }$ ，其中 $P _ { C h }$ 代表水冷机组提供的冷量， $P _ { C e }$ 代表电空调提供的冷量）耦合在一起。
+
+$S _ { e }$ 代表电源， $L$ 代表电力网络中除了离心泵及电空调外的其他负荷，TR为换热器。
+
+在图5所示的时变能量网络中，冷能主要依靠流体网络进行传递。在管道较不长的情况下，流体在管道传递过程中冷量损失很小，可认为流体温度仅在水冷机组及换热设备发生冷量交换时才发生变化。此外，在实际交流电力网络中，其电流与电压通常可表达为正弦或者余弦函数，每时每刻都在发生变化，但其作用在电动机与电空调的电压通常可以认为是恒定的。为分析方便，在本文假定电力网络电压源S为常量。
+
+![](images/abbda5cb39967c3f6925f9391e801dc88d6306afc14f8805451efa709c99bf61.jpg)  
+图5时变能量网络
+
+# 5.2时变能量网络模型
+
+根据以上分析，结合网络相关知识，将图5简化，并将各个支路，节点以及基本回路编号，即可建立时变能量网络简化图。简化图如图6所示，其中子图(a)为电力网络和流体网络简化图，子图(b)为能量转换设备（感应电动机和离心泵）简化图。
+
+![](images/cd81355313808de5050e159eab08a73892eb50d2080d954958cbca27429b7937.jpg)  
+Fig.5 Time-varying energy network   
+(b）能量转换设备简化图   
+图6时变能量网络简化图
+
+# Fig.6Simplified diagram of the energynetwork
+
+在时变能量网络简化图中，选定 $n _ { 1 } \setminus n _ { 7 } \setminus n _ { 8 }$ 为参考节点，即可得到与之对应的关联矩阵 $A$ 及基本回路矩阵 $B _ { f }$ 。
+
+对于图6，其广延量矩阵为：
+
+$$
+\pmb { H } = \left[ \pmb { H } _ { 1 } \quad H _ { 2 } \quad . . . \quad H _ { 1 8 } \quad H _ { 1 9 } \right] ^ { \mathrm { T } }
+$$
+
+支路两端强度量差值矩阵为：
+
+$$
+\begin{array} { r } { \pmb { \mathscr { A } } \pmb { X } = \left[ \Delta \pmb { X } _ { 1 } \quad \Delta \pmb { X } _ { 2 } \quad . . . \quad \Delta \pmb { X } _ { 1 8 } \quad \Delta \pmb { X } _ { 1 9 } \right] ^ { \mathrm { T } } } \end{array}
+$$
+
+即有：
+
+$$
+\left\{ \begin{array} { l l } { { A H = 0 } } \\ { { B _ { f } A X = 0 } } \end{array} \right.
+$$
+
+该方程组中，共有19个方程，有变量38个，因此，还差19个方程才能解此方程组。在电力网络中，电压源 $S _ { e }$ 通常是已知的。在图5所示的时变能量网络中，电力网络及流体网络通过离心泵（感应电动机）和电空调耦合在一起，根据能量守恒定律，离心泵（感应电动机）支路和电空调支路可以再列出6条方程。此外，对于流体网络、感应电动机与离心泵的各个支路，可再建立12 条支路特性方程。流体网络支路对应的传阻 $R _ { l a m }$ （层流状态）与 $R _ { t u r }$ （紊流状态）、传容 $c$ 及传感 $L$ 可由式(20)-(22)求得[14.20]。联立上述方程，即可建立时变能量网络模型。
+
+$$
+\begin{array} { c } { { \displaystyle \left\{ R _ { l a m } = \frac { 1 2 8 \mu L } { \pi D ^ { 4 } } \right. } } \\ { { \displaystyle { \left. R _ { t u r } = \frac { 8 \lambda L \rho } { \pi ^ { 2 } D ^ { 5 } } H _ { q _ { v } } \right. } } } \end{array}
+$$
+
+$$
+C = \frac { A L } { \rho a ^ { 2 } }
+$$
+
+$$
+L = { \frac { \rho L } { A } }
+$$
+
+上3式中， $\mathbf { \Omega } _ { \mu }$ 为动力粘度， $L$ 与 $D$ 为管道长度及直径； $\rho$ 为流体密度， $H _ { \boldsymbol { q } _ { v } }$ 为流过管道的体积流量，λ为紊流状态下的管路沿程阻力系数，其能采用Karman-Nikuradse光滑管公式进行计算[21]； $A$ 为管道横截面积， $\mathbf { \Omega } _ { a }$ 为流体的扰动波传播速度。
+
+# 5.3时变能量网络方程
+
+系统在输入或扰动作用下的运动状态可用一组状态变量来描述，状态变量是借以表征系统内部状态随时间变化的物理变量，而描述状态变量随时间变化的数学表达式即状态空间方程。为考察时变能量网络的动态过程，本文在时变能量网络模型的基础上，进一步构建时变能量网络方程（包括状态方程与输出方程)，并利用数值仿真软件对冷电联产系统进行动态仿真及分析。
+
+（1）控制变量 $u$ 与状态变量 $x$ 的选取
+
+对于如图6所示的时变能量网络，施加在电动机与电空调两端的电压源 $S _ { e }$ 是外加的激励源，因此控制量 $u = \Delta X _ { _ 2 }$ 。
+
+一般来说，状态变量选取的个数通常与系统储能元件的个数一致。但如果系统某些储能元件依赖于其他储能元件时，则状态变量数要少于储能元件数。
+
+对如图6所示的时变能量网络，可分别选取传感支路的广延量值 $H _ { 5 }$ 、 $H _ { 6 }$ 、 $H _ { 7 }$ 、 $H _ { 1 3 }$ 、 $H _ { 1 5 }$ 与传容支路的强度量差 $\Delta X _ { _ 8 }$ 、 $\Delta X _ { 9 }$ 、 $\Delta X _ { 1 0 }$ 、 $\Delta X _ { 1 4 }$ 作为状态变量。
+
+（2）根据 4.2 节建立的时变能量网络方程，进一步推导出如式(23)的时变能量网络状态方程及输出方程。
+
+$$
+\begin{array} { c } { \dot { \mathbf { \sigma } } } \\ { x = f ( x , u , t ) } \\ { \dot { y } = g ( x , u , t ) } \end{array}
+$$
+
+特别地，对于线性系统，方程(23)可进一步写成方程(24)所示的标准形式。
+
+$$
+\begin{array} { c } { \dot { } } \\ { \dot { } } \\ { \dot { } } \end{array}
+$$
+
+对于定常系统，式(24)的系数矩阵的各元素皆为常数；若系统为时变系统，则系数矩阵中某些元素是时间的函数。
+
+# 6数值分析
+
+# 6.1时变能量网络的基本参数
+
+仍以上述冷电联供系统为例，该系统总的冷负荷为 $P _ { C } = 5 0 0 k W$ ，该冷负荷由水冷机组和中央电空调系统共同提供。该系统能量转换设备（异步感应电动机、离心泵及电空调）的基本参数如表1所示。
+
+表1能量转换设备的基本参数  
+Tab.1Parameters   
+
+<html><body><table><tr><td>元件</td><td>运行参数</td><td>单位</td><td>描述</td></tr><tr><td rowspan="5">异步电动机</td><td>Rmw =53</td><td>N·m/(rad /s)</td><td>滑差系数</td></tr><tr><td>KRmf1 = 3.16×10-6</td><td>N ·m/ (rad /s)3</td><td>旋转摩擦系数</td></tr><tr><td>KRmf2 =3.2×10-4</td><td>N·m/ (rad / s)</td><td>轴摩擦系数</td></tr><tr><td>Lmx =1.65×10-2</td><td>kg·m²</td><td>转子惯量</td></tr><tr><td>Cmk =10-3</td><td>rad / (N ·m)</td><td>轴柔度</td></tr><tr><td rowspan="4">离心泵</td><td>Rpf =8×10-2</td><td>N ·m/ (rad / s)</td><td>转子摩擦系数</td></tr><tr><td>Lpx =1.15×10-3</td><td>kg·m²</td><td>转子惯量</td></tr><tr><td>Rp5 =5×1011</td><td>Pa/(m³ 1s)</td><td>泄露系数</td></tr><tr><td>Rpr =15</td><td></td><td>阀门阻力系数</td></tr><tr><td>空调</td><td>COP = 4</td><td></td><td>能效系数</td></tr></table></body></html>
+
+# 6.2仿真分析
+
+根据上一章的研究内容，即可建立时变能量网络的动态模型。本文在上述模型的基础上，对三种不同扰动发生后的能量网络响应进行时域仿真，该三种扰动分别为：（1）电压源 $S _ { e }$ 突变，其电压有效值由220V下降至218V；（2）增大离心泵的出口阀门开度，阀门阻力系数突变为 $R _ { _ { p r } } = 1 0$ ；（3）减小离心泵的出口阀门开度，阀门阻力系数突变为 $R _ { _ { p r } } = 2 0$ 。
+
+本文建立的时变能量网络方程（状态方程和输出方程)，由于考虑了流体网络与能量转换设备的非线性动态特性，实质为一个非线性微分方程组。对于形如式(23)、式(24)的微分方程组，文献[22]与[23]提供了许多行之有效的解法。本文利用变步长的龙格库塔法进行求解，并通过 MATLAB进行仿真，仿真时长为2s。通过把异步感应电动机、离心泵、电空调的基本参数以及初始条件代入后，经过迭代即可求得时变能量网络的动态响应。
+
+三种不同扰动发生后电力网络、流体网络与感应电动机的动态响应分别如图7、图8与图9所示。图7为电力网络离心泵支路电流 $H _ { 1 }$ 与电空调支路电流 $H _ { 3 }$ 的动态响应，图8为流体网络离心泵支路体积流量 $H _ { 4 }$ 与出口压力 $\Delta X _ { 1 8 }$ 的动态响应，图9为感应电动机的转速 $H _ { 1 5 }$ 与转矩$\Delta X _ { 1 4 }$ 的动态响应。
+
+![](images/d4edd6c0402b986948696bccf18f11ca9a4dda2d5f53e9606c3701db378a598e.jpg)  
+图7电力网络动态响应
+
+![](images/27331c3c524505fddad102f87146cbc6bfd2363eec1147d9dd2b4ea0e5cbcb2d.jpg)  
+Fig.7Dynamic response of electric power network   
+图8流体网络动态响应  
+Fig.8Dynamic response of fluidnetwork
+
+![](images/067bf272c07f57da7f142ee272d8355bcae425ec4914f8cb28340ba8c816029f.jpg)  
+图9感应电动机动态响应  
+Fig.9Dynamic response of induction motor
+
+扰动1发生时，在 $t = 0$ 时刻电压源 $S _ { e }$ 从 $2 2 0 V$ 突变为 $2 1 8 V$ ，电压水平下降，导致离心泵支路电流 $H _ { 1 }$ 、离心泵出口压力 $\Delta X _ { 1 8 }$ 、电动机的转矩 $\Delta X _ { 1 4 }$ 与转速 $H _ { 1 5 }$ 及均发生大幅度的脉动。扰动1发生后，电压突变首先冲击感应电动机，其转速 $H _ { 1 5 }$ 由 $1 5 5 . 8 \mathrm { r a d / s }$ 突变至 $1 5 3 . 5 \mathrm { r a d / s }$ ，其输出转矩也由扰动前的 $1 0 . 1 N \cdot m$ 下降至 $8 . 6 N \cdot m$ 。电动机转速与转矩的大幅度下降导致离心泵出口压力 $\Delta X _ { 1 8 }$ 与体积流量 $H _ { 4 }$ 减小，扰动1发生后电动机与离心泵输出功率均变小。供水量的减少导致供冷量大幅下降，在电压下降的情况下，为满足冷负荷需求，电空调支路电流 $H _ { 3 }$ 出现较大幅度增加。
+
+扰动2发生时，离心泵出口阀门开度突然增大，阀门对离心泵产生的阻力减小，离心泵体积流量 $H _ { 4 }$ 增大。根据离心泵的特性曲线可知，通过离心泵的流量增大，离心泵输出的有效扬程将减小，该特性与图8流体网络动态响应相一致[21]。流体网络运行工况的变化，将反过来影响电力网络和感应电动机参数。扰动2发生后，离心泵支路电流 $H _ { 1 }$ 和感应电动机有效转矩 $\Delta X _ { 1 4 }$ 发生持续下降，分别由初始时刻的 $8 . 0 A$ 和 $1 0 . 1 N \cdot m$ 下降至 $7 . 7 A$ 和 $9 . 7 N \cdot m$ 。此外，由于离心泵供水量不断攀升，电制冷需求减少，电空调支路电流 $H _ { 3 }$ 发生持续性下降。
+
+扰动 3发生时离心泵出口阀门开度突然减小，与扰动2相反，阀门对离心泵产生的阻力增加，离心泵体积流量 $H _ { 4 }$ 减小，出口压力 $\Delta X _ { 1 8 }$ 增大。扰动2发生后，离心泵支路电流 $H _ { 1 }$ 和感应电动机有效转矩 $\Delta X _ { 1 4 }$ 持续上升，分别由初始时刻的 $8 . 0 A$ 和 $1 0 . 1 N \cdot m$ 增大至 $8 . 3 A$ 和 $1 0 . 5 N \cdot m$ 。由图9可知，当扰动2、3发生时，由于电压源 $S _ { e }$ 恒定在 $2 2 0 V$ ，流体网络对电动机转速 $H _ { 1 5 }$ 的影响很小，可近似认为转速恒定。此外，由于离心泵供水量变少，电制冷需求增大，电空调
+
+支路电流 $H _ { 3 }$ 发生持续性上升。
+
+由上述的分析可知，基于本文所提方法的仿真结果与冷电联产系统的运行特性是一致的，由此证明了本文所提理论的有效性及实用性。本文提出的时变能量网络动态建模及仿真方法，对多能互补系统的优化设计及性能分析具有重要的实际意义。
+
+# 7结论
+
+在已有能量网络理论基础上，从能量本质的角度出发，对时变传递线（管）路和能量耦合设备的能量传递机理进行深入探讨，建立了时变能量网络模型。为考察时变能量网络的动态过程，本文在时变能量网络模型的基础上，进一步构建时变能量网络方程（包括状态方程和输出方程)。基于本文所提方法对某冷电联产系统在不同扰动发生后的动态响应进行数值仿真，仿真结果与冷电联产系统的动态特性一致，由此证明了本文所提分析方法的有效性及实用性。本文的研究内容为时变能量网络的建模、分析、优化及规划奠定了基础。
+
+# 参考文献：
+
+[1]梁有伟，胡志坚，陈允平．分布式发电及其在电力系统中的应用研究综述[J]．电网技术，2003，12： $7 1 - 7 5 + 8 8$ Liang Youwei，Hu Zhijian，Chen Yunping.Asurveyof distributed generation and its application inpower system[J].PowerSystem Technology，2003，12： $7 1 - 7 5 + 8 8$ (in Chinese).  
+[2]DWWu，RZWang.Combined coling,heating and power: Areview[J].ProgressinEnergy &Combustion Science，2006,32(5): 459-495.  
+[3]胡小坚，王忠平，张雪梅，钟英杰，高顶云．分布式天然气CCHP 系统应用研究现状与前景[J]．煤气与热力，2011,04: 4-9.Hu Xiaojian，Wang Zhongping，Zhang Xuemei， Zhong Yingjie,Gao Dingyun. Appication Research status and prospect ofdistributed natural gas CCHP system[J].Gas & Heat，2011，O4:4-9(in Chinese).  
+[4]Xuezhi Liu，Jianzhong Wu，Nick Jenkins，Audrius Bagdanavicius．Combinedanalysisof electricityand heatnetworks[J]．Applied Energy，2016，162：1238-1250.  
+[5]Energy Networks Association.Guide to the UK and Ireland energy networks [R]. [2O13-03-02].http://www.energynetworks.org/news/publications/guide-to-the-networks.html.  
+[6]SwissFederal Institute of Technology Zurich. Visions of future energy networks[EB/OL].[2014-02-20].http://www.future-energy.ethz.ch/en/navi-row-1/about-us.html.  
+[7]Geidl M，KoeppelG，Favre-PerrodP，etal.Energy hubs for thefuture[J].IEEEPower andEnergy Magazine，207，5(1):24-30.  
+[8]RifkinJ.The thirdindustrialrevolution: howlateralpoweris tansforming energ,theeconomy,andtheworld[M].NewYork:Palgrave Macmillan，2011.  
+[9]HUFuchs．The Dynamics of Heat[M]．New York：Springer-Verlag，1996.  
+[10]HUFuchs.The Dynamics of Heat-A Unified Approach to Thermodynamicsand Heat Transfer[M].New York:Springer-Verlag，2010.  
+[11]陈皓勇，文俊中，王增煜，杨鑫．能量网络的传递规律与网络方程[J]．西安交通大学学报，2014，10：66-76.Chen Haoyong，Wen Junzhong，Wang Zengyu，Yang Xin.Transfer laws and equations of energy networks[J].Journal of Xi'anJiaotong University，2014，10:66-76(in Chinese).[12]韩光泽．寂态热动力学基础理论研究[D]．广州：华南理工大学，2002.  
+[13]邱关源，罗先觉．电路[M]．北京：高等教育出版社，2006：1-136.  
+[14]罗志昌．流体网络理论[M]．北京：机械工业出版社，1988：1-121.  
+[15]杨世铭，陶文钰．传热学[M]．北京：高等教育出版社，2006：1-160.  
+[16] KarlASeler.SystemDynamics: An IntroductionforMechanical Engineers[M].NewYork:Springer-Verlag，2014.  
+[17]曾丹苓．工程非平衡热动力学[M]．北京：科学出版社，1991：1-101.  
+[18]PeterDransfield.HydraulicControlSystems-DesignandAnalysisofTheirDynamics[M].NewYork:Springer-Verlag，1981.  
+[19]DC KarnoppDLMargolis,RCRosenberg.System dynamics: aunified approach[M].NewYork: John Wiley&Sons，1975.  
+[20]吴大转，王乐勤，胡征宇．离心泵快速启动过程瞬态水力特性的数值模拟[J]．浙江大学学报(工学版)，2005，09:$1 5 3 - 1 5 6 + 1 8 0$ [21]关醒凡．泵的理论与设计[M]．北京：机械工业出版社，1987.  
+[22]李荣华，冯果忱．微分方程数值解法（第3版）[M]．北京：高等教育出版社，1996.  
+[23]李庆扬．非线性方程组解法[M]．北京：科学出版社，1987.
+
+(通讯作者：陈皓勇E-mail:eehychen@scut.edu.cn)
+
+# 作者贡献声明
+
+陈皓勇：提出时变能量网络理论及研究思路，论文起草和最终版本修订；  
+葛海麟：时变能量网络的元件集中参数模型建立、公式推导；  
+邱明：时变能量网络的算例验证。

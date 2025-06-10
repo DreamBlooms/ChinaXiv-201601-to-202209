@@ -1,0 +1,304 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术组合应用在石库门建筑改造管理中的牵引力",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Leading Force of the Application of BIM Technology Combinations in Shikumen Building Reconstruction Management ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄月勤(上海现代建筑设计集团工程建设咨询有限公司，上海)Yueqin Huang(Shanghai Xian Dai Architecture, Engineering & Consulting Co., Ltd.)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统既有建筑改造的项目管理模式受制于技术手段的限制导致出现工作效率低下、协同困难等现象。BIM技术的引入改变了传统项目管理的模式,为管理者打开新的思维方式。以上海建业里石库门建筑为案例，通过对 BIM技术在既有建筑改造管理中的应用，结合三维扫描、逆向建模、虚拟现实/增强现实技术,在协同平台上研究了BIM的基础与拓展应用。项目的实践验证了BIM及 $^ { \\omega } \\mathrm { B I M } + ^ { \\prime \\prime }$ 技术的独特优势，这些新技术的组合应用契合信息化、精细化管理发展的时代潮流，能够为智慧城市的建设打下良好的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字：建筑信息模型（BIM)、精细化项目管理、 $^ { \\omega } \\mathrm { B I M } + ^ { \\prime \\prime }$ 技术、协同",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The traditional model of existing building reconstruction project management is subjected to the limitations of technical means, resulting in a phenomenon of low work efciency and difculties in coordination. The introduction of BIM technology has changed the traditional project management model, providing new ways of thinking for managers. Taking the Shikumen building Shanghai Jianyeli as a case study， the application of BIM technology in existing building reconstruction management was combined with 3D scanning, reverse modelling, and virtual reality/augmented reality technology to study the basic and extended application of BIM on a collaborative platform. The project's practice has vertified the unique advantages of BIM and （20 $^ { \\omega } \\mathrm { B I M } + ^ { \\prime \\prime }$ technologies. The combination and application of these new technologies is wel in line with the trend of the development of information and refined management, which lays a good foundation for Smart City. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Building Information Modelling, refined project management. （204号 $^ { \\omega } \\mathrm { B I M } + ^ { \\prime \\prime }$ technology, coordination ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在没有引入BIM技术前，传统石库门改造管理步伐沉重、难点重重。由建业里历史变迁、搭建改建等原因使建筑平面功能混乱，影响了房屋质量，损坏了历史风貌[1]。然而，因为建业里作为历史优秀保护建筑的，项目在改造管理上受到了方方面面的限制。例如：由于时代久远，原有设计图纸资料缺失现象十分严重，施工或装修时的历史变更没有在案记录，导致难以对建筑做出确切诊断。其次，对于设计管理，原有石库门建筑材料不明确，机电管线安装和走向错综复杂，品种繁多，想要增加新设备而发现现有建筑内狭小的空间导致设计管理难度陡然增加。再而，对于施工管理，因为场地条件限制，现场测绘受场地限制，实施困难；对于项目管理，因专业交叉众多，使得管理效率低下。这些管理阻力不仅来自建筑本身的固有特点，还有传统陈旧管理模式本身的因素。因此，应用新技术对原有项目管理方式方法的改造势在必行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，在我国随着政府有力地推广BIM 技术，政府企业、行业协会、科研院校等也开始重视并推广BIM；BIM技术的普及应用已经从最初的1.0时代渐渐进入“BIM+”的2.0时代。城市更新随着时代的发展已然成为社会发展的必然趋势，在新时代中应用新技术不仅能够改善目前既有建筑改造管理的憨态，也对城市更新具有积极重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究目标和方向",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以坐落于上海市徐汇区的石库门典型建筑群落建业里为案例，通过对现有项目管理在既有建筑改造中应用的难点分析，从引入BIM技术角度出发，将云平台、三维扫描技术、虚拟现实技术和增强现实技术等“ $\\mathrm { B I M } + ^ { , , }$ 技术在该项目管理中的组合应用作为研究方向，探索其对项目管理模式和效率的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3BIM技术组合应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1BIM+三维扫描技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三维扫描是获取精准石库门建筑现状的重要方式，是实现三维可视化管理重要的前置步骤。在改造中借助三维激光数字扫描技术，采集记录石库门建筑形态现状的点云数据（如图1)。点云数据是通过三维扫描仪直接获取的空间原始几何信息，但包括很多冗余数据，因此通过三维建模前对数据的去噪预处理，能够精准还原现更正“失真”的原始数据。通过在项目现场布置球形标靶，利用标靶点进行每个扫描测站的数据拼接。图2和图3记录了样板房衣帽间和机电管线的数据。三维扫描的应用有助于对数据的源头精确管理，实现精细化数据采集，为后续各项BIM技术的全过程应用打下了重要的基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/49d6d9aa7018732e9140f40d25982c248be6ab052cfca99e07cad3041eec75a7.jpg",
+        "img_caption": [
+            "图2衣帽间点云数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac00ecc2ddbaa98248ace66e991d7a52eb1fa86a199108ebba4c54015f63bdda.jpg",
+        "img_caption": [
+            "图1样板房点云数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a848d6d03d447d0988dd491b2a31491fc1c00d8175b5cf779d11b8d4dfebddf.jpg",
+        "img_caption": [
+            "图3机电管道点云数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2BIM+逆向建模技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据原有图纸建模是BIM技术的基础应用。在拓展应用中，逆向建模技术与三维扫描技术组合，应用于更正历史错误数据，形成图4样板房BIM模型。在逆向建模与原有图纸比对的过程中发现了诸多图纸与实际情况不匹配之处，例如,在西弄样板房的二层卧室中发现了衣帽间的隐藏梁以及建筑标高与实际不一致的等问题。这些问题给传统项目质量管理增加了一定的难度，但逆向建模技术的应用规避了因图纸错误等历史原因对质量管理产生的不利影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/93d9229d2aebe3ca9ae74eefd9736f7ef71a370694059101cf7045f5a82a70b7.jpg",
+        "img_caption": [
+            "图4样板房BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3BIM+虚拟现实（VR）/增强现实（AR）技术",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "石库门建筑改造的最终目的是为客户带去满意的项目产品，而虚拟现实技术正是达到这一目的的有效手段。在开始施工建设的前期阶段，根据BIM逆向建模的模型通过云端渲染形成真实的样板房效果（见图5)，辅助客户直观地以沉浸式的方式互动体验。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2c0d3ee80401e6a1147cb0b17d7fed91ecd3b768cc93be5137f8774fd861b49.jpg",
+        "img_caption": [
+            "图5渲染效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c362b093e37775bd7d771403eeff3343bfc4f5ed6440a44f7d1e414be373bd1.jpg",
+        "img_caption": [
+            "图6增强现实技术投射虚拟模型至真实场景中"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增强现实技术在该项目中的应用主要依靠Tango（增强现实移动工具）来实现。图6中，模型加载至Tango，提供客户不同的设计方案。VR和AR技术的结合应用能够根据客户的需求调整方案直至最优化，最大程度地使客户满意，同时降低返工建造的成本风险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4改造管理新模式构建",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1数据源标准化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了解决由于建造年代久远，历史性文件技术资料的缺失或错误对管理带来的不便和影响，考虑在石库门建筑改造管理中创造性地引入BIM技术辅助项目管理，完成虚拟设计建造与施工。项目初始时首先需统一BIM实施标准，制定编写BIM 实施手册。BIM实施标准在项目前期的确立为BIM技术在整个既有建筑改造项目管理中的提供了指南与方向。前期工作的标准化、规范化包括分析BIM需求、规划项目管理各阶段的BIM应用、制定项目BIM实施标准、建立各专业统一的样板文件、通过ECVS（元素-构建-视图-图纸）规划出图方式，通过BIM标准化工作确保模型数据源的准确性，去除因数据源不正确产生的繁杂冗余的协调过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2协同管理模式变革",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM 的实施带动各方提前介入项目。BIM协同平台同样也是项目管理中的前置关键性工作。项目中众多参与方的加入很大程度上增加了协调及进度管理的难度。云平台及其移动终端作为基于BIM技术的协同工具，通过上传、存储、共享、下载等方式，在不同地区可以实时更新云端上的同一个模型及其链接数据[3]，实现无纸化管理，节约项目成本。作为各参与方交叉作业的基础平台，云平台促成各参与方之间建立以模型为中心的沟通交流机制。云平台技术的引入不仅根本性地改变了项目管理的协同模式，也是各参与方协同的互联载体，能够在一定程度上减少沟通渠道的数量，提高管理效率，对干系人沟通方式进行了重塑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3数字建筑与实体建筑互联",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新兴 BIM技术的组合应用在“互联网+”的时代背景下，发挥出各项技术在不同场景不同建设阶段的应用优势，促进既有建筑改造形成新的数字-实体互联的管理模式。在设计阶段中，通过模拟不同施工现场场景，控制后期施工变更成本。由于房屋内部现有空间狭小，改造时新增换气设备以及中央空调的设计需精密契合房间现有的构造设施。因此，设计方通过可视化BIM设计协调会比选不同设备安装方案，在模型中精确定位安装的为位置和尺寸，从而掌握精度，避免出现因间距过小导致的震动噪声等后续问题，加快了项目进度，进一步提高设计协作与管理的效率与质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM 技术与VR和AR技术的结合应用是数字建筑与实体建筑之间的结合剂，是实现数字化精益化管理中人机交互的有效管理工具。在建业里改造项目中，增强现实作为辅助设计手段，将数字科技植入施工现场，可视化地比对不同的精装方案。虚拟现实技术为客户提供全新的沉浸式样板房视觉体验，可根据不同用户的需求制定不同的精装方案，不断地调整直到客户满意。虚拟现实技术的应用节约建筑材料以及项目施工成本，减少售后争议，为既有建筑的改造与宣传注入新活力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 BIM技术组合应用的优势一一同向牵引力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1数据驱动力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "协同平台的搭建打破了传统项目管理的工作模式，数据源头的正确性、传递的连续性以及数据标准化在打通信息链的同时能够提高管理沟通效率。通过可视化设计协调会的召开，比选并择优选择不同设备安装方案可加快项目进度。在施工管理阶段，通过BIM可视化施工模拟为现场人员提供解决思路。BIM技术纠正了石库门建筑改造管理中原有错误的输入数据，为全过程项目管理的顺利进行打下了坚实的基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2协同作用力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过云平台传递的信息数据对于缩短项目中各项活动持续时间具有积极作用。在平台上，信息可追溯，版本可控制，角色划分清晰，任务分工明确，各参与方在三维工作模式下共享交流信息，消除“信息孤岛”现象。各参与方之间的交流由相互之间零散、独立、交叉的方式在协同平台上转而变为实时、共享和整合的“可视化”方式，整合零散资源，化无序为有序，给项目管理带来了信息有序、可追溯的便利，体现出BIM技术在既有建筑改造协同中的价值。BIM在既有建筑改造中帮助投资方在应用创新科技手段决策的同时，也探索了一个新的协同工作模式，对历史保护建筑的改造与建设具有重要的价值和意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3动态聚合力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于BIM技术的既有建筑改造管理将管理重心偏向建筑信息模型，通过平台周转模型，集成数据，各参与方围绕以模型为中心建立新模式下的动态交流机制。工程实时过程中各专业产生的数据信息具有独特性、复杂性、易变性和动态性等特点[4]，BIM技术为数据的动态传递提供了良好的技术手段。BIM施工模拟为现场施工人员提供动态解决思路。BIM+VR/AR 技术的应用通过动态的视觉体验满足关键干系人的需求。虚拟现实技术及增强现实技术对于需求的跟踪管理具有极大的科技创新价值，对于识别项目中关键干系人的期望能够进行细致、及时、有效的管理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6挑战与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在该项目BIM技术的实施过程中，也遇到了许多问题与挑战。信息在传递时采用了IFC格式，IFC 标准采用EXPRESS国际标准STEP使用的产品数据表达规范语言[3」。数据通过IFC通用格式进行数据共享时，发现在信息传递过程中出现了材质缺失，偶有构件丢失现象。该问题或可通过修复核心模型的系统数据来提升IFC格式在整个建筑产业链中的适应性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在项目运维阶段，可通过建设数据运营交换标准将电子文档结构化后串联既有建筑改造项目在全生命周期中各阶段的数据信息，使数据的生命力延续至项目后期，以支持运营维护的管理工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］章明．《老弄堂建业里》.上海：上海远东出版社，2008  \n[2］吴育华 胡云岗 张玉敏．《大足石刻大佛湾文物三维扫描及保护应用》.北  \n京：文物出版社，2017  \n[3］姜韶华姚守俨．《BIM基础及施工阶段应用》.北京：中国建筑工业出版社，  \n2017  \n[4]刘照球. 《建筑信息模型BIM概论》.北京：机械工业出版社，2017",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄月勤，1991年12月，毕业于英国伦敦大学学院土木工程系，一直在上海现代建筑设计集团工程建设咨询有限公司现从事BIM及项目管理咨询工作。",
+        "page_idx": 6
+    }
+]

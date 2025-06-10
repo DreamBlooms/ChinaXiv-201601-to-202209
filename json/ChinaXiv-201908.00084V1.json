@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "茂兰喀斯特森林不同地形植物多样性与土壤理化特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑鸾，龙翠玲\\*（贵州师范大学地理与环境科学学院，贵阳550001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：探讨茂兰喀斯特森林不同地形植物多样性与理化性质差异及两者之间关系，为喀斯特森林物种多样性维持机制提供科学依据。结果显示：（1）不同地形木本植物的物种组成存在差异，坡地木本植物有35科65属78种，槽谷木本植物有38科64属89种，漏斗木本植物有35科61属84种。同时，丰富度指数、多样性指数、均匀度指数大小表现为槽谷>漏斗 $>$ 坡地；而优势度指数大小表现为坡地>漏斗 $>$ 槽谷。（2）不同地形土壤物理性质差异性显著（ $P { < } 0 . 0 5 \\$ ），其中土壤容重和非毛管孔隙度表现为坡地 $>$ 槽谷 $\\cdot >$ 漏斗，而自然含水量、田间持水量、总孔隙度、毛管孔隙度等指标均表现为漏斗>槽谷>坡地。（3）除全K外，大多数土壤养分指标表现为漏斗显著高于槽谷、坡地，即漏斗>槽谷>坡地。（4）冗余分析表明，植物多样性与土壤理化性质具有相关性，不同地形植物多样性指数受土壤理化性质的影响明显。研究结果旁证了茂兰喀斯特森林地形条件的复杂性和土壤理化性质的差异性是该区小生境多样，物种组成丰富的原因之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：喀斯特森林，地形条件，植物多样性，土壤理化性质，茂兰中图分类号：Q948.114 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Differences of plant diversity and soil physicochemical properties in Maolan karst forest under different terrain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Luan，LONG Cuiling\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(College ofGeography and Environmental Sciences,Guizhou Normal University,Guiyang 55ooo1,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To explore the difference and relationship between plant diversity and physical and chemical properties in different topography of Maolan karst forest, and to provide scientific basis for the maintenance mechanism of species diversity in Maolan karst forest.The results were as follows: （1)There are diferences in species composition of woody plants in different topography. There are 78 species of woody plants belonging to 65 genera and 35 families in sloping land, 89 species of woody plants belonging to 64 genera and 38 families in trough valley,and 84 species of funnel woody plants belonging to 61 genera and 35 families. Mean while,the magnitude of richness index,diversity index and evenness index was trough $>$ funnel $>$ slope land,while the magnitude of dominance index was slope land $>$ funnel $>$ trough.（2）There were significant differences in soil physical properties between different topography $( P < 0 . 0 5 )$ . Among them, soil bulk density and non-capillary porosity were slope land $>$ trough and Valley $>$ funnel,while natural water content, field water holding capacity,total porosity and capillary porosity were funnel $>$ trough and Valley $>$ slope land.（3）Except for total K,most soil nutrient indicators showed that funnel was significantly higher than trough and slope land, that is funnel $>$ trough $>$ slope land.（4）Redundancy analysis showed that plant diversity was correlated with soil physical and chemical properties,and plant diversity index in different topography was significantly affected by soil physical and chemical properties.The results show that the complexity of topographic conditions and the difference of soil physical and chemical properties in Maolan karst forest are one of the reasons for the diversity of microhabitats and rich species composition in this area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: karst forest， topographic condition， plant diversity， soil physical and chemical properties,Maolan ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤为植物生存提供了重要环境条件，对植物群落结构特征变化具有一定的影响，土壤理化性质的差异引起植物多样性的变化，植物多样性差异又将反过来作用于土壤理化性质（吴彦等，2001）。土壤与植物群落之间关系密切，它们之间的相互作用过程一直是生态学家们研究的热点，是群落生态学及植物多样性维持和管理的基础。目前关于土壤理化性质与植物多样性之间关系的研究较多，如不同植被类型(王长庭，2010）、不同演替阶段（王凯博，2007）、不同恢复阶段(刘洋，2018）、不同退化阶段（刘道锟，2016）、不同石漠化程度（盛茂银，2015）的植物多样性与土壤理化性质及两者关系研究，为研究植物多样性与土壤理化性质的关系奠定了基础，但对喀斯特森林不同地形植物多样性与土壤理化性质变化及关系的研究较少，有关喀斯特森林地形差异对植物多样性的影响有待深入研究，对揭示喀斯特森林物种多样性维持机制具重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "茂兰自然保护区喀斯特森林原生性强、人为干扰少，是研究喀斯特森林生态系统及地貌发育理论的理想场所。与常态地貌上的森林生态系统相比，喀斯特森林在生态环境、群落外貌、组成特征、垂直结构和演替动态以及生境高度异质性对植物的影响等方面都存在明显不同（龙翠玲，2009）。目前，许多学者在喀斯特森林的土壤微生物（龙健，2004）、凋落物（赵畅，2018）、土壤水分（刘金玉，2012）和养分变化（俞月凤，2015），植物多样性（侯满福，2011）、植物群落结构特征（罩弦，2016）、植物群落的空间分布格局（覃弦，2016)等方面取得大量的研究成果，但均集中于其中某单一生态过程的研究，对两者间关系的研究较少。在茂兰喀斯特森林中，主要有落水洞、漏斗、洼地、槽谷、盲谷和盆地等负向地貌，由这些负向地貌与锥峰的空间组合形成峰丛洼地、峰丛漏斗和峰丛盆地等地貌组合类型，这三种地貌是喀斯特森林内分布最多、最广的地貌类型(周政贤，1987）。在成土条件相对一致的情况下，地形地貌的差异可能导致小生境多样性，即光照、温度、水分、养分等条件的差异，从而对土壤和植物的形成和演化过程具有重要的影响。因此，本文以茂兰喀斯特森林为研究对象，研究坡地、槽谷和漏斗三种地形的木本植物与土壤，分析不同地形植物群落物种多样性与土壤理化特征，并探讨植物多样性与土壤理化特征之间的相互关系，为揭示茂兰喀斯特森林植物群落物种多样性维持机制提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "茂兰喀斯特森林自然保护区位于贵州省南部贵州、广西交界处（ $1 0 7 ^ { \\circ } 5 2 ^ { \\prime } - 1 0 8 ^ { \\circ } 0 5 ^ { \\prime } { \\mathrm { E } } .$ $2 5 ^ { \\circ } 0 9 ^ { \\prime } - 2 5 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N } )$ 。保护区内为发育典型的喀斯特峰丛地貌，海拔为 $4 3 0 { \\sim } 1 0 7 8 . 6 \\mathrm { m }$ ，平均海拔在 $8 0 0 \\mathrm { m }$ 左右，年均温为 $1 5 . 3 ^ { \\circ } \\mathrm { C }$ ，积温 $5 7 2 7 . 9 ^ { \\circ } \\mathrm { C }$ 。降水期集中于4一10月，年平均降水量为 $1 3 2 0 . 5 \\mathrm { m m }$ ，全年平均相对湿度可达到 $83 \\%$ 。成土母岩主要由白云岩、石灰岩等碳酸类岩石构成，形成呈弱碱性的石灰土，土壤PH值 $7 . 5 \\sim 8 . 0$ 。保护区内植被类型主要为常绿落叶阔叶混交林，常见的乔木主要以青冈栎（Cyclobalanopsis glauca）、云贵鹅耳析（Carpinuspubescens）、木石楠（Photinia davidsoniae）、轮叶木姜子（Litsea verticillata）等为主;灌木层主要有湖北十大功劳（Mahonia fortunei)、裂果卫矛（Euonymus dielsianus）、皱叶海桐（Pittospoeum crispulum）、南天竹（Nandina domestica）、革叶铁榄（Sinosideroxylonwightianum）等为主的优势种；草本地被层常见的主要有庐山翠云草(Selaginellauncinata)、柳叶蕨(Cyrtogonellum fraxinellum)、楼梯草(Elatostema stewardii)等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区三种不同地形的生境特征如下。(1)坡地：位于坡体中上部，林内岩石裸露率高，且岩石崩塌碎块多。土壤为黑色石灰土，土壤总覆盖率低，仅达到 $40 \\%$ 。林内水分条件很差，光照充足，植被生长困难，大多数植物直接直接生长在岩石裂隙中，根系发达。(2)槽谷：谷底平坦，土壤为黑色石灰土，土壤总覆盖率高，有成片土壤分布，达到 $6 0 \\%$ ，土层厚度约为 $2 { \\sim } 6 \\mathrm { c m }$ 。林内土壤水分条件较好、光照条件适中。(3)漏斗：典型的负地形，林内植物生长茂密，郁闭度高，土壤为黑色石灰土，土壤总覆盖度最高，可达到 $8 5 \\%$ ，土层厚度为 $5 { \\sim } 2 0 \\mathrm { c m }$ 。土壤表层枯枝落叶层较厚，不利于水分的渗透，易积水，光照条件差（秦随涛，2018）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地设置与群落调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2018年5月，在茂兰自然保护区黎明关水族乡境内的缓冲区进行样地调查，研究区内主要地貌类型为坡地、槽谷、漏斗，针对每种地形分别设置10个连续样地，每个样地面积为 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ ，每种地形的样地总面积为 $4 0 0 0 \\mathrm { m } ^ { 2 }$ ，三种地形样地总面积为 $1 . 2 \\mathrm { h a }$ （吴邦利，2018）。采用GPS等工具进行地理坐标定位，并记录各样地的海拔、坡度、坡向等指标。把每个样地划分成 $5 \\mathrm { m } \\times 5 \\mathrm { m }$ 的小样方，记录每个样方中木本植物的种名、株数、胸径、高度、冠幅、郁闭度等指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土样采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在研究区样地调查的基础上，每种地形选择3个标准样地（ $2 0 \\mathrm { m } { \\times } 2 0 \\mathrm { m }$ ），在标准样地内按东南西北及中心五个方向进行五点取样法，每种地形采土样15份，共取得45 份土样。由于研究区土壤浅薄，部分取样点土层厚度小于 $2 0 \\mathrm { c m }$ ，因此采集 $\\boldsymbol { 1 } \\mathrm { m } { \\times } \\boldsymbol { 1 } \\mathrm { m }$ 的表层土，带回实验室去除土壤中的碎石、根系等杂质，风干、研磨、测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3土壤理化性质的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤容重（Bb）、自然含水量（Nc）、田间持水量（Fc）、毛管孔隙度（Cp）的测定采用环刀法；土壤总孔隙度(Tp)用 $\\mathrm { T p } { = } 9 3 . 9 4 7 { - } 3 2 . 9 9 5 { \\times } \\mathrm { B d }$ 公式计算得出，非毛管孔隙度 $( \\mathsf { N p } )$ 用 $\\scriptstyle \\mathrm { N p = T p - C p }$ 计算得出（盛茂银，2015）。 $\\mathsf { p H }$ 值测定采用电位法（ $. 2 . 5 : 1$ 的水土比）；有机质测定采用 $\\mathbf { K } _ { 2 } \\mathbf { C r } _ { 2 } \\mathbf { O } _ { 7 }$ 容量法-外加热法；全 $\\mathbf { N }$ 采用凯氏定氮仪；全P、全K测定采用钼锑抗比色法( $\\mathrm { \\Delta N a O H }$ 熔融)；速效N测定采用碱解扩散法；速效P测定采用 $0 . 5 \\mathrm { m o l } \\bullet \\mathrm { L } ^ { - 1 } \\mathrm { N a H C O } _ { 3 }$ 溶液浸提法；速效K测定采用 $\\mathrm { C H _ { 3 } C O O N H _ { 4 } }$ 浸提法，参照土壤农化分析（鲍士旦，2006）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Excel 进行实验数据预处理，利用 SPSS25.0 进行方差分析、多重比较（LSD 法）；并运用Canoco4.5软件的冗余分析(RDA)。植物多样性指数的计算见参考文献(秦随涛,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1三种地形木本植物区系组成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，三种地形的木本植物区系组成存在一定的差异。坡地的木本植物有35 科65 属78种；而槽谷木本植物有38科64属89种；漏斗木本植物有35科61属84种。坡地的优势种分别为樟科（6属9种）、蔷薇科（5属5种）、山茱萸科（3属4种）、大戟科（3属3种）；槽谷的优势种为樟科（6属9种）、蔷薇科（4属5种）、马鞭草科（3属4种）、芸香科（3属3种）；漏斗的优势种为樟科（6属11种）、蔷薇科（6属7种）、山茱萸科（3属4种）、漆树科（3属3种）。其中，樟科、蔷薇科为三种地形共有的优势种。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三种地形的木本植物共有43 科，其中有30 科的木本植物在坡地、槽谷、漏斗均有分布，占总科数的 $6 9 . 8 \\%$ ，其中，三个地形的优势种主要为樟科、蔷薇科、山茱萸科、大戟科、马鞭草科、芸香科、漆树科等木本植物。通过分析发现，槽谷物种最丰富，组成最复杂，其次为漏斗，而坡地物种最少，组成最简单。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/16277d3363a4d82c0911ae16de85aa99825c17ffb0d5d21df18c81cb4373a3e8.jpg",
+        "table_caption": [
+            "表1三种地形木本植物区系组成",
+            "Table 1 Floristic composition of woody plants in three topographic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">坡地 Hillside</td><td colspan=\"2\">槽谷 Valley</td><td colspan=\"2\">漏斗 Funnel</td></tr><tr><td>科名Family name</td><td>属数</td><td>种数</td><td>属数</td><td>种数</td><td>属数</td><td>种数</td></tr><tr><td></td><td>Genus number</td><td>Species number</td><td>Genus</td><td>Species</td><td>Genus</td><td>Species</td></tr><tr><td></td><td></td><td></td><td>number</td><td>number</td><td>number</td><td>number</td></tr><tr><td>樟科 Lauraceae</td><td>6</td><td>9</td><td>6</td><td>9</td><td>6</td><td>11</td></tr><tr><td>山茱萸科 Cormaceae</td><td>3</td><td>4</td><td>2</td><td>3</td><td>3</td><td>4</td></tr><tr><td>蔷薇科 Rosaceae</td><td>5</td><td>5</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>大戟科 Euphorbiaceae</td><td>3</td><td>3</td><td>2</td><td>4</td><td>2</td><td>2</td></tr><tr><td>马鞭草科 Verbenaceae</td><td>3</td><td>3</td><td>3</td><td>4</td><td>2</td><td>3</td></tr><tr><td>五加科 Araliaceae</td><td>2</td><td>3</td><td>2</td><td>3</td><td>2</td><td>3</td></tr><tr><td>芸香科 Rutaceae</td><td>2</td><td>2</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>无患子科 Sapindaceae</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td></tr><tr><td>金缕梅科 Hamamelidaceae</td><td>2</td><td>2</td><td>2</td><td>4</td><td>1</td><td>1</td></tr><tr><td>漆树科 Anacardiaceae</td><td>2</td><td>2</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>壳斗科 Fagaceae</td><td>3</td><td>3</td><td>2</td><td>3</td><td>2</td><td>3</td></tr><tr><td>榆科Ulmaceae</td><td>3</td><td>5</td><td>1</td><td>2</td><td>2</td><td>3</td></tr><tr><td>槭树科 Aceraceae</td><td>1</td><td>2</td><td>1</td><td>4</td><td>1</td><td>6</td></tr><tr><td>茜草科 Rubiaceae</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>苦木科 Simaroubaceae</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>鼠李科 Rhamnaceae</td><td>2</td><td>2</td><td>3</td><td>4</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cb750a41453b4e132981b8b9ba573b234734f081043196386843ab87715fa4d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>合计 Total</td><td>藤黄科 Guttiferae</td><td>木棉科 Bombacaceae 木兰科 Magnoliaceae</td><td>马尾树科 Rhoipteleaceae</td><td>杜鹃花科 Ericaceae</td><td>清风藤科S 虎耳草科 Sabiaceae 4 Saxifragaceae</td><td>桃金娘科 Myrtaceae</td><td>桑科】 Moraceae</td><td>红豆杉科 Taxaceae</td><td>胡颓子科 英科 Elacegnaceae Elaeocarpaceae</td><td>合科 Liliaceae</td><td>茶茱萸科 Icacinaceae</td><td>豆科 Leguminosae</td><td>荨麻科 Urticaceae</td><td>桦木科 Betulaceae</td><td>Caprifoliaceae</td><td>深 山矾科 冬科 Symplocaceae</td><td></td><td>海桐花科 Pittosporaceae</td><td>山榄科 Sapotaceae</td><td>青科 Aquifoliaceae</td><td>小檗科 Berberidaceae</td><td>柿科1 Ebenaceae</td><td>卫矛科 Celastraceae 梧桐科 Sterculiaceae</td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C</td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>乙</td><td>乙</td><td>乙</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>68</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>乙</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同地形植物多样性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，不同地形的丰富度指数差异不显著，变化范围为5.76\\~6.41；多样性指数差异显著，变化范围为 $2 . 6 9 \\sim 3 . 0 3$ ；均匀度指数差异显著，变化范围为 $0 . 8 1 { \\sim } 0 . 8 8$ ，且这三个指数均表现为槽谷 $\\cdot >$ 漏斗 $\\cdot >$ 坡地；不同地形条件优势度指数差异显著，变化范围为 $0 . 8 7 { \\sim } 0 . 9 3$ 表现为坡地 $>$ 漏斗>槽谷。我们发现，丰富度指数、多样性指数、均匀度指数在三种地形中均表现为槽谷最大，坡地最小，即槽谷>漏斗>坡地；而优势度指数则相反，表现为坡地最大，槽谷最小，即坡地>漏斗>槽谷。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a8887adb037b5df6abe930bcd487ea20c8c8e9856d3ef591d090eaf82378e32.jpg",
+        "table_caption": [
+            "Table 2 Vegetation species diversity indexes at different topographic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地 Plot</td><td>丰富度指数 Richness index</td><td>多样性指数 Shannon-Wiener index</td><td>均匀度指数 Evenness index</td><td>优势度指数 Dominance index</td></tr><tr><td>坡地 Hillside</td><td>5.76±1.97a</td><td>2.69±0.43b</td><td>0.81±0.05b</td><td>0.93±0.02a</td></tr><tr><td>槽谷Valley</td><td>6.41±1.05a</td><td>3.03±0.22a</td><td>0.88±0.04a</td><td>0.87±0.05b</td></tr><tr><td>漏斗 Funnel</td><td>6.28±1.14a</td><td>3.00±0.20a</td><td>0.85±0.04a</td><td>0.92±0.02a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同地形土壤理化性质",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1土壤物理性质",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，土壤容重、自然含水量、田间持水量、总孔隙度、毛管孔隙度、非毛管孔隙度在不同地形的差异显著。坡地（ $1 . 1 2 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { 3 - 1 }$ ）的容重显著大于槽谷（ $\\left( 1 . 0 3 \\mathrm { g } \\cdot \\mathrm { c m } ^ { 3 - 1 } \\right.$ ）和漏斗 $\\left( 0 . 9 9 \\mathrm { g } \\cdot \\mathrm { c m } ^ { 3 - 1 } \\right.$ ）,槽谷显著大于漏斗，大小表现为坡地 $>$ 槽谷 $>$ 漏斗；漏斗（ $5 2 . 3 4 \\%$ ）的自然含水量大于槽谷（ $4 4 . 7 6 \\%$ ）和坡地（ $3 4 . 2 2 \\%$ ），槽谷显著大于坡地，大小表现为漏斗 $>$ 槽谷 $>$ 坡地；漏斗（ $5 2 . 1 5 \\%$ ）的田间持水量大于槽谷（ $4 3 . 5 0 \\%$ ）和坡地（ $3 4 . 5 5 \\%$ ），槽谷显著大于坡地，大小表现为漏斗 $\\cdot >$ 槽谷 $\\cdot >$ 坡地；漏斗（ $6 2 . 6 8 \\%$ ）的总孔隙度大于槽谷（ $6 0 . 9 8 \\%$ ）和坡地 ( $5 7 . 4 9 \\%$ ），槽谷显著大于坡地，大小表现为漏斗 $>$ 槽谷 $\\cdot >$ 坡地；漏斗（ $5 1 . 5 3 \\%$ ）的毛管孔隙度显著大于槽谷（ $4 4 . 9 5 \\%$ ）和坡地（ $3 8 . 9 1 \\%$ ），槽谷显著大于坡地，大小表现为漏斗 $>$ 槽谷 $>$ 坡地；坡地的非毛管孔隙度显著大于槽谷、漏斗，槽谷显著大于坡地，大小表现为坡地 $>$ 槽谷 $\\cdot >$ 漏斗。可见，不同地形土壤物理性质除土壤容重和非毛管孔隙度表现为坡地 $>$ 槽谷 $\\cdot >$ 漏斗外，自然含水量、田间持水量、总孔隙度、毛管孔隙度均表现为漏斗 $>$ 槽谷>坡地。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3232baa27918344869267cbe91858550555b9745babf2e94d743b0c2318daf0a.jpg",
+        "table_caption": [
+            "表2不同地形群落物种多样性指数",
+            "表3不同地形土壤物理性质比较",
+            "Table 3 Soil physical properties under different topographic "
+        ],
+        "table_footnote": [
+            "注：同一行中相同字母表示无显著差异，不同字母表示具有显著差异， $P { < } 0 . 0 5$ 。下同。 Note：The same leters within a row indicate no significant difference and significant difference between different letters at O.05 levels.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>样地 Plot</td><td>容重 Bulk density (g.cm3-1)</td><td>自然含水量 Natural moisture content (%)</td><td>田间持水量 Field moisture content (%)</td><td>总孔隙度 Total porosity (%)</td><td>毛管孔隙度 Capillary porosity (%)</td><td>非毛管孔隙度 Non-capillary porosity (%)</td></tr><tr><td>坡地 Hillside 槽谷</td><td>1.12±0.03a</td><td>34.22±1.35c</td><td>34.55±1.46c</td><td>57.49±0.95c</td><td>38.91±1.76c</td><td>18.58±2.29a</td></tr><tr><td>Valley</td><td>1.03±0.03b</td><td>44.76±0.60b</td><td>43.50±2.17b</td><td>60.98±1.00b</td><td>44.95±1.51b</td><td>16.03±1.48b</td></tr><tr><td>漏斗 Funnel</td><td>0.99±0.03c</td><td>52.34±1.01a</td><td>52.15±2.49a</td><td>62.68±0.98a</td><td>51.53±1.59a</td><td>11.15±1.54c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2土壤化学性质",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，土壤有机质、全N、速效N、全P、速效P、全K、速效K在不同地形差异性显著。坡地、槽谷、漏斗三种地形土壤 $\\mathsf { p H }$ 值差异性不显著（ $\\cdot P { > } 0 . 0 5 \\$ ），均值分别为7.32、7.24、7.23，其中坡地的 $\\mathrm { \\ p H }$ 值最大，大小表现为坡地 $>$ 槽谷 $\\cdot >$ 漏斗。漏斗的有机质（164.14$\\mathbf { m g } \\cdot \\mathbf { k g } ^ { - 1 }$ ）显著大于槽谷 $( 8 4 . 5 2 \\mathrm { m g \\cdot k g ^ { - 1 } } ,$ 和坡地 ( $4 6 . 2 3 \\mathrm { m g \\cdot k g ^ { - 1 } } ,$ ），而槽谷显著大于坡地（ $_ { \\mathrm { { \\tiny ~ P < 0 . 0 5 } ) } }$ ，表现为漏斗 $\\cdot >$ 槽谷 $>$ 坡地。漏斗 $( 8 . 4 0 \\mathrm { g } \\cdot \\mathrm { k g } )$ 全 $\\mathbf { N }$ 含量显著大于槽谷 $( 5 . 3 2 \\mathrm { g \\cdot k g ^ { - 1 } ) }$ 和坡地 $( 5 . 0 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } )$ ），槽谷和坡地的差异不显著，表现为漏斗 $>$ 槽谷 $\\cdot >$ 坡地。漏斗（600.22$\\mathbf { m g } \\cdot \\mathbf { k g } ^ { - 1 }$ ）的速效 $\\mathbf { N }$ 含量显著大于槽谷‘ $( 2 7 2 . 7 1 \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 } )$ ）和坡地（ $2 4 9 . 9 0 \\mathrm { m g \\cdot k g ^ { - 1 } ) }$ ，槽谷显著大于坡地，表现为漏斗 $>$ 槽谷 $>$ 坡地。漏斗 （ $3 . 6 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ）的全 $\\mathrm { ~ \\bf ~ P ~ }$ 含量显著大于坡地（20 $( 1 . 4 4 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 } )$ ），槽谷与漏斗、坡地的差异不显著（ $. P { > } 0 . 0 5 ^ { \\cdot }$ ），表现为漏斗 $\\cdot >$ 槽谷>坡地。漏斗 $( 1 . 4 9 \\mathrm { m g \\cdot k g ^ { - 1 } } )$ 的速效 $\\mathfrak { p }$ 含量显著大于槽谷（ $( 0 . 7 9 \\mathrm { m g \\cdot k g ^ { - 1 } ) }$ 和坡地 $( 0 . 7 9 \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 } )$ ，坡地、槽谷之间差异不显著（ $( P { > } 0 . 0 5 )$ ，含量大小为漏斗 $>$ 槽谷（坡地）。槽谷 $( 1 2 . 1 6 \\mathrm { ~ g ~ } { \\cdot } \\mathrm { k g } ^ { - 1 } )$ （204号的全K含量显著大于漏斗和坡地，漏斗（ $\\mathrm { 6 . 8 5 g \\cdot \\ k g ^ { - 1 } }$ ）与坡地（ $\\cdot 8 . 9 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ）间差异不显著 $( P { > } 0 . 0 5 )$ ，含量大小表现为槽谷 $>$ 坡地 $>$ 漏斗。漏斗( $( 1 3 0 . 7 3 \\mathrm { m g } \\mathrm { \\bf ~ * g } ^ { - 1 } .$ )和槽谷( $1 2 1 . 4 5 \\mathrm { m g \\ ^ { 4 } g ^ { - 1 } } )$ 号的速效K含量显著大于坡地 $( 8 7 . 8 8 \\mathrm { m g \\cdot k g ^ { - 1 } } )$ ，漏斗与槽谷间差异不显著（ $\\scriptstyle \\cdot > 0 . 0 5$ ），含量大小表现为漏斗 $>$ 槽谷 $\\cdot >$ 坡地。由此可知，三种地形土壤 $\\mathsf { p H }$ 值大小表现为坡地 $>$ 槽谷 $\\cdot >$ 漏斗，全K为槽谷 $\\cdot >$ 坡地 $>$ 漏斗，速效K为漏斗 $>$ 槽谷 $\\cdot >$ 坡地。而土壤有机质、全 $\\mathrm { ~ N ~ }$ 、碱解 $\\mathbf { N }$ 、全 $\\mathrm { ~ \\bf ~ P ~ }$ 和速效P等指标均表现为漏斗 $\\cdot >$ 槽谷 $\\cdot >$ 坡地，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7535b0c2155d820757b51236f355cefe1a225d551030961d91bc61a6bc4d0c7.jpg",
+        "table_caption": [
+            "表4不同地形土壤化学性质",
+            "Table 4 Soil chemical properties under different topographic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"13\">样地</td></tr><tr><td>Plot</td><td>pH值 pH value</td><td>Organic matter content （g·kg-1)</td><td>Total nitrogen content （g·kg1）</td><td>Hydrolysis nitrogen content （mg·kg-1）</td><td></td><td>Total phosphorus content （g·kg-1）</td><td>Available phosphorus content (mg·kg-1)</td><td>Total potassium content （g·kg1)</td><td>Available potassium content （mg·kg-1)</td></tr><tr><td>坡地 Hillside</td><td>7.32±0.15 a</td><td>46.23±4.41c</td><td>5.02±1.03b</td><td>249.90±88.53b</td><td>1.44±0.33b</td><td>0.79±0.36b</td><td>8.90±2.62b</td><td></td><td>87.88±23.24b</td></tr><tr><td>槽谷 Valley</td><td>7.24±0.18 a</td><td>84.52±13.95b</td><td>5.32±1.09b</td><td>272.71±105.90b</td><td>2.30±0.85ab</td><td>0.79±0.19b</td><td></td><td>12.16±2.05a</td><td>121.45±20.84a</td></tr><tr><td>漏斗 Funnel </td><td>7.23±0.22 a</td><td>164.14±18.35 a</td><td>8.40±1.59a</td><td>600.22±38.21a</td><td>3.68±1.93a</td><td>1.49±0.36a</td><td></td><td>6.85±1.00b</td><td>130.73±16.03a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4植物与土壤理化性质相关性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由双序图（图1）得出，前4个排序轴的特征值分别为0.084、0.064、0.008、0.003，占总特征值的 $9 0 . 4 \\%$ 。前2轴对物种-土壤关系方差累计贡献率为 $9 8 . 8 \\%$ ，与土壤理化性质的相关性分别达到0.955、0.944，基本上保存了18个指标的信息。在排序图中，物种多样性指数箭头的位置能够反映出它在土壤因子梯度上得到的高值的位置。土壤理化特征的箭头位置代表它与排序轴的正负关系，箭头长度表示土壤理化特征与物种多样性指数之间关系的强弱。由表5和图1可知， $\\mathrm { \\ p H }$ 、容重、非毛管孔隙度、全K与第一排序轴为正相关，有机质、全N、全P、速效P、速效K、毛管孔隙度、总孔隙度、田间含水量与第一排序轴为负相关；pH、容重、非毛管孔隙度与第二排序轴为正相关，有机质、全N、全P、全钾、速效N、速效P、速效K、毛管孔隙度、总孔隙度、田间含水量与第二排序轴为负相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，实线箭头表示土壤理化性质，虚线箭头表示物种多样性，实线箭头和虚线箭头的夹角表示土壤理化性质与物种多样性指数相关性，当夹角小于 $9 0 ^ { \\circ }$ 为正相关，大于$9 0 ^ { \\circ }$ 为负相关，且夹角越小表明相关性越高，反之，则越低。均匀度指数在排序轴的右上方，与土壤有机质、全N、全P、全K、速效P、速效K、总孔隙度、毛管孔隙度、自然含水量、田间持水量为正相关，与土壤 $\\mathsf { p H }$ 、容重、非毛管孔隙度为正相关。丰富度指数位于排序轴的左上方，与土壤有机质、全P、全N、速效P、速效N、田间持水量、自然含水量、毛管孔隙度、总孔隙度为正相关，与土壤 $\\mathrm { \\ p H }$ 、容重、全K、速效K、非毛管孔隙度为负相关。多样性指数和优势度指数均位于排序轴左下方，与土壤有机质、全P、全N、速效P、速效K、毛管孔隙度、总孔隙度、田间持水量、自然含水量等为正相关，与土壤pH、容重、非毛管孔隙度等为负相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/70c5fa81d38504b980808309fc2750fad05f9184cb10a3f47ebef2786fa96d79.jpg",
+        "img_caption": [
+            "图1物种多样性与土壤理化性质关系的RDA双序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：pH.PH;Bb.容重;Cp.毛管孔隙度;Np.非毛管孔隙度;Tp.总孔隙度;Nc.自然含水量;Fc.田间持水量;   \nSOM.有机质;TN.全N;TP.全P;TK.全K;AN.速效N;AP.速效P;AK.速效K;Mar.丰富度指数; Sha. Shannon-Wiener指数;Pie.均匀度指数;Sim.优势度指数。   \nNote：PH.PH value; Bb.Bulk density; Cp. Capillary porosity; Np.Non-capillary porosity; Tp.Total porosity; Nc.   \nNatural moisture content; Fc.Field moisture content; SOM. Organic mater content; TN.Total nitrigen content; TP. Total phosphorus content; TK. Total potassium content; AN. Hydrolysis nitrogen content; AP.Available phosphorus content; AK. Available potassium content; Mar.Richness index; Sha. Shannon-Wiener index; Pie. Evenness index; Sim. Dominance index. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 RNA biplot of the rlationship between plant species diversity and soil physical and chemical ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbdb94f4302a8b235e0a924ed649aafd054c31f8866e08ce8bbf4733934e6e25.jpg",
+        "table_caption": [
+            "表5RDA排序轴与土壤理化性质的相关性",
+            "Table 5 Intra-set correlation of the soil physical and chemical properties with ordination axis of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">RDA</td></tr><tr><td>土壤理化性质</td><td colspan=\"4\">RDA 排序轴 RDA sort axis</td></tr><tr><td>Soil physical-chemical factors</td><td>Axis 1</td><td>Axis 2</td><td>Axis 3</td><td>Axis 4</td></tr><tr><td>PH 值 pHvalue</td><td>0.0628</td><td>0.1896</td><td>0.0201</td><td>-0.1357</td></tr><tr><td>容重 Bulk density(g·cm³-1 )</td><td>0.4249</td><td>0.4445</td><td>0.1988</td><td>0.0455</td></tr><tr><td>毛管孔隙度 Capillary porosity(%)</td><td>-0.2743</td><td>-0.3569</td><td>-0.2261</td><td>-0.3461</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/77a6f110e3cca4fd202fa6feeebb28c3d913d77348704af63e39bdc5289ed86a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>非毛管孔隙度 Non一capillary porosity(%)</td><td>0.1376</td><td>0.2515</td><td>0.2147</td><td>0.5016</td></tr><tr><td>总孔隙度 Total porosity(%)</td><td>-0.4250</td><td>-0.4444</td><td>-0.1988</td><td>-0.0456</td></tr><tr><td>自然含水量 Natural moisture content(%)</td><td>-0.4491</td><td>-0.4509</td><td>-0.1811</td><td>-0.2079</td></tr><tr><td>田间持水量 Field moisture content(%)</td><td>-0.3247</td><td>-0.3628</td><td>-0.2395</td><td>-0.2621</td></tr><tr><td>有机质 Organic matter content(mg·kg-1)</td><td>-0.2598</td><td>-0.3463</td><td>-0.3472</td><td>-0.2467</td></tr><tr><td>全 N Total nitrogen content(g· kg-1)</td><td>-0.1830</td><td>-0.0774</td><td>-0.3794</td><td>-0.2467</td></tr><tr><td>全 P Total phosphorus content(g·kg-1)</td><td>-0.2746</td><td>-0.0706</td><td>-0.1358</td><td>0.0034</td></tr><tr><td>全K Total potassium content(g·kg-1)</td><td>0.1655</td><td>-0.2020</td><td>0.8504</td><td>0.2227</td></tr><tr><td>速效 N Hydrolysis nitrogen content(mg·g-1)</td><td>-0.1943</td><td>-0.0346</td><td>-0.4991</td><td>-0.2985</td></tr><tr><td>速效P Available phosphorus content (mg·kg-1)</td><td>-0.3648</td><td>-0.0254</td><td>-0.4164</td><td>-0.1366</td></tr><tr><td>速效 K Available potassium content(mg · kg-1)</td><td>0.0386</td><td>-0.5737</td><td>-0.2984</td><td>-0.1286</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1不同地形木本植物组成结构及其物种多样性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "茂兰喀斯特自然保护区内景观类型主要分为坡地、槽谷和漏斗，由于小生境的多样性及地形地貌的复杂性，植物群落为更好适应环境变化，不断地改变自身的生理生态特性，从而形成其独特的群落结构和外貌特征（秦随涛，2018）。其中，坡地的地势陡峭，土壤分布少，土壤分布不连续，但岩石表面裂隙十分发育，植物直接在裂隙中生长，水分、养分极度缺乏，因此植物竞争激烈，结构单一，多为耐干旱贫嵴的小乔木，林下灌木较少，优势种明显。槽谷地势平坦，水分、光照条件适中，土壤肥沃，植物获得的营养成分均等，环境条件好，植物生长良好，因此物种丰富度、多样性及均匀度指数高，但其优势种不明显(龙翠玲，2009;秦随涛，2018；吴邦利，2018)。漏斗属于典型的负地形，水分充足、湿度条件较好，生长着较多的耐荫、喜凉树种。绝大多数的漏斗底部生长着茂密的森林，树木高大，物种丰富度指数较高。但漏斗底部光照时间短且强度弱，局部地段有临时性积水，对植物的生长发育造成了一定影响，树木多为耐荫幼苗和幼树，优势种明显，且仅次于坡地。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2不同地形土壤理化性质特征",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "茂兰喀斯特森林的成土母质主要是石灰岩、白云岩等碳酸盐类岩石构成的，经过溶蚀作用发育形成富含Ca、Mg 等元素的黑色石灰土，土壤呈弱碱性。由于成土条件相对一致，因此pH差异不显著。漏斗属于封闭的负地形，四周的枯枝落叶层不断堆积分解，腐殖质层加厚，土质疏松，利于有机质等土壤养分的积累。同时，地表丰富的枯枝落叶层，阻碍了水分的渗透，易积水，且漏斗底部被四面山坡遮蔽，加上植被茂密，林内郁闭度高，太阳辐射时间短且弱，温度低，风力小，水分蒸发缓慢，土壤湿度相对较大，因而林内土壤粘重，结构、透气性差。相反，坡地生境条件差，土层较薄 $2 { \\sim } 6 \\mathrm { c m }$ ，土被发育不连续，岩石裸露，裂隙十分发育，导致水分渗透快，保水保肥能力差，太阳辐射时间长且强，地表温度高，风力大，水分蒸发迅速，土壤湿度小，加上地表的凋落物易被冲刷，不利于有机质等养分的积累，土壤质地很差。相对于坡地、漏斗，槽谷地势平坦开阔，接受的太阳辐射多，水热分布均衡，生境条件较为理想，养分含量较高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3不同地形植物群落物种多样性与土壤理化性质的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤理化性质在一定程度上影响着植物群落的结构特征与物种多样性，植物群落又将反过来作用于土壤（唐铭灿，2016）。研究结果发现，物种多样性与土壤理化性质之间具有一定的相关性，两者相互影响、相互作用。旁证了茂兰喀斯特森林地形条件的复杂性和土壤理化性质的差异性是该区小生境多样，物种组成丰富的原因之一。土壤养分在一定程度上影响着植物丰富度指数、多样性指数，而土壤表层的枯枝落叶和动植物残体在土壤中的积累、矿化和分解，其中一部分养分被植物直接吸收利用，剩余部分留在了土壤中（李胜平，2016）。由于喀斯特森林其独特的地理环境条件，植物群落物种组成、群落类型等受到地形限制，地面的凋落物组成、储量、分解速率等存在一定的差异，导致土壤理化性质分布的地形差异，从而对植物群落产生影响。在三种地形中，漏斗养分含量最高，但物种多样性指数却小于槽谷，这是由于地形的小生境多样性造成的。漏斗底部植物生长较好，物种多样性高，从而堆积了大量的枯枝落叶，腐殖质层较厚，水分充足，有机质分解加快，为植物生长提供了优越的土壤条件，虽森林茂密，但优势种突出，物种多样性指数仅次于槽谷。而槽谷开阔平坦，水热条件较好，有利于地表枯枝落叶的分解，土壤养分分布均匀，植物从获得的营养元素相对均衡，物种丰富度高。坡地作为一类生境较为恶劣的地形，地面土壤和未分解的枯枝落叶易被雨水冲刷，成土缓慢，植物主要依靠岩石裂隙中土壤及枯枝落叶层腐殖质生存，养分含量低，竞争较大，植物生长困难，植物分布相对稀疏，林内植物多为耐干旱贫瘠的树种，因而优势种突出，物种多样性最低。金章利（2019）认为植物多样性受土壤养分含量的影响，其植物多样性随土壤养分含量的增加而增加。曾歆花等（2013）认为在植被恢复阶段，提高土壤养分含量，能够促进植物的生长发育，提高植物多样性，即土壤与植物表现为正向协同效应。而Rosenzweig（1995）认为在小尺度空间内可被利用的土壤养分与植物多样性表现为负相关，与本研究结果相反。但是，土壤养分含量变化影响植物多样性这一点是不可质疑的。研究结果为茂兰保护区保护和管理措施提供了一定的理论基础，对不同地形群落物种多样性保护和退化喀斯特森林恢复和重建具有重要意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BAO SD,2006.Soil agricultural chemistry analysis[M].Beijing :Higher Education Press.[鲍士旦,2006.土壤农 化分析[M]．北京：高等教育出版社.]   \nHOU MF, SHEN QG, QIN HN,2011. Species Diversity Characters of Original Karst Forest Communities in Maolan,Guizhou,China[J].JGuangxi Norm Univ(Nat Sci Ed),29(1) :60-65.[侯满福，沈庆庚，覃海宁, 2011.贵州茂兰喀斯特原生性森林群落物种多样性特征[J].广西师范大学学报（自然科学版)，29(1）： 60-65.]   \nJIN ZL,LIUGP,ZHOU MT,et al.,2019.Elevationcharacteristics of grassland communitydiversityand effectof soil physical and chemical properties in karst mountain grassland [J].Ecol Environ Sci, 28 (4) $\\because$ 661-668.[金 章利，刘高鹏，周明涛，等,2019．喀斯特山地草地群落多样性海拔特征及土壤理化性质特征[J].生态环 境学报,28(4):661-668.]   \nLONG J,LIJ, JIANG XR,et al.,2O04.Soil microblal activities in Maolan karst forest, Guizhou Province[J].Acta Pedol Sin,41(4):597-602.[龙健，李娟，江新荣，等,2004．贵州茂兰喀斯特森林土壤微生物活性的研究 [J]．土壤学报,41(4):597-602.]   \nLONG CL,2009. Study on Dynamic Ptern of Species Diversity in Gaps of Karst Forest in Maolan Natural Reserve,Guizhou Province[J].Mount Res,27(3):278-284.[龙翠玲,2009．茂兰喀斯特森林林隙物种多样 性的动态规律[J]．山地学报,27(3):278-284.]   \nLIU JY,FUPL,WANG YJ, etal.,2012. Different Drought-adaptation Strategies as Characterizedby Hydraulic and Water-relations Traits of Evergreen and DeciduousFigs in a Tropical Karst Forest[J].Plant Sci J,30 (5) : 484-493.[刘金玉，付培立，王玉杰，等，2012.热带喀斯特森林常绿和落叶榕树的水力特征和水分关系 与抗旱策略[J]．植物科学学报,30(5):484-493.]   \nLI SP,WANG KL.2O16.Seasonal distribution of soil nutrients and their response to the plant diversity of karst mountain grasland[J].JWater Conserv,30(4)：199-205.[李胜平，王克林,2016．桂西北喀斯特山地草地 土壤养分季节变化规律及其对植被多样性的响应[J]．水土保持学报,30(4):199-205.] LIU DK, SUN HL, GAN QM,et al.,2016. Soil physicochemical properties and plant species diversity of different vegetation degradation stages in arid sunny-slope of great Xing'an Mountains[J].For Engineer,32(O2) : 1-6. [刘道锟，孙海龙，甘秋妹，等，2016.大兴安岭干旱阳坡不同植被退化阶段土壤理化性质与物种多样 性研究[J]．森林工程,32(02):1-6.] LIU Y, HOU ZS, ZHAO S,etal.,2018.Evolution of plant species diversity and soil characteristicson hilslopes during vegetation restoration in the gneiss region of the Taihang Mountains after reclamation[J]. Ecol J,   \n38(15):5331-5339.[刘洋，侯占山，赵爽，等,2018．太行山片麻岩山区造地边坡植被恢复过程中植物多 样性与土壤特性的演变[J]．生态学报,38(15):5331-5339.] QIN X,LONG CL,2016. Population Structure and Quantitative Dynamics of Dominant Arbor Species at Different Succession Stages in Maolan Karst Forest[J].For Resour Manag,(6): 57-63.[覃弦，龙翠玲,2016.茂兰喀 斯特森林不同演替阶段优势乔木种群结构及数量动态[J]．林业资源管理,(6):57-63.] QIN X,LONG CL,2016.Analysis on structure and distribution pattern of dominant arbor population at diferent succession stages of karst forest in Maolan Natural Reserve[J]. J Guizhou Norm Univ(Nat Sci Ed),34 (6) :   \n33-38.[覃弦，龙翠玲,2016．茂兰喀斯特森林不同演替阶段优势乔木种群结构与分布格局[J]．贵州师范 大学学报(自然科学版),34(6):33-38.] QIN ST, LONG CL, WU BL, 2018. Effects of topographic sites on the community structure and species diversity of karst forest in Maolan, Guizhou Province of southwestern China[J].JBeijing For Univ, $4 0 \\left( 7 \\right) : 1 8 \\AA 2 6 .$ [秦 随涛，龙翠玲，吴邦利,2018.地形部位对贵州茂兰喀斯特森林群落结构及物种多样性的影响[J].北京林 业大学学报,40(7):18-26.] ROSENZWEIG ML,1995. Species diversity in space and time[M]. Cambridge $\\because$ Cambridge University Press. SHENG MY, XIONG KN,CUI GY,et al.,2015. Plant diversityand soil physical-chemical properties in karst rocky desertification ecosystem of Guizhou,China[J].Acta Ecol Sin,35 (2) : 434-448.[盛茂银，熊康宁，崔 高仰，等,2015．贵州喀斯特石漠化地区植物多样性与土壤理化性质[J].生态学报,35(2):434-448.] TANG MC,PAN D,PAN G,2O16.The understory plant diversityand soil properties of three forest types in hilly region of central Hunan Province[J]. Hunan For Sci Technol,43 (1) $\\because$ 38-43.[唐铭灿，潘登，潘高,2016．湘 中丘陵区3种林分林下植物多样性与土壤特性研究[J]．湖南林业科技,43(1):38-43.] WU Y, LIU Q, QIAO YK,et al.， 2O01. Species diversity change in subalpine coniferous forests of diferent restoration stages and their effects on soil properties[J]. Acta Phytoecol Sin,25 (6) : 648-655.[吴彦，刘庆, 乔永康，等，2001．亚高山针叶林不同恢复阶段群落物种多样性变化及其对土壤理化性质的影响[J]．植 物生态学报,25(6): 648-655.] WANG CT, LONG RJ, WANG GX,et al.， 2010 .Relationship between plant communities characters and soil physical and chemical properties,and soil microbiology in alpine meadows[J]. Acta Pratac Sin,19 (06) :   \n25-34.[王长庭，龙瑞军，王根绪，等，2010.高寒草甸群落地表植被特征与土壤理化性状、土壤微生物 之间的相关性研究[J]．草业学报,19(06):25-34.] WANG KB,CHEN ML,QIN J,et al.,2007.Plant Species Diversity and the Relation with Soil Properties in Natural Succession Process in Ziwuling Area[J]. Acta Bot Boreal-Occident Sin,27(10) : 2089-2096.王凯博, 陈美玲，秦娟，等，2007.子午岭植被自然演替中植物多样性变化及其与土壤理化性质的关系[J].西北 植物学报,27(10):2089-2096.] WU BL,LONG CL,QING ST, 2018. Population structure and distribution patern of Cyclobalanopsis glauca at diferent topographic sites in Maolan karst forest[J]. Guihaia,38(1): 48-56.[吴邦利，龙翠玲，秦随涛,2018. 茂兰喀斯特森林不同地形部位青冈种群结构与分布格局研究[J].广西植物,38(1):48-56.] YU YF,HE TG PENG WX,et al.,2015.Dynamicsof nutrient elements indiferent types offorests indepresions between karst hils[J].Acta Ecol Sin,35 (22):7531-7542.[俞月凤，何铁光，彭晚霞，等,2015．喀斯特峰 丛洼地不同类型森林养分循环特征[J]．生态学报,35 (22):7531-7542.]   \nZhou ZX,1987.Acomprehensive report on the survey of Maolan karst fores[C].ZHOU ZX.Scientific survey of the Maolan karst forest. Guiyang $\\because$ Guizhou People's Publishing House,1-23.[周政贤,1987．茂兰喀斯特森 林科学考察综合报告[C]．周政贤．茂兰喀斯特森林科学考察集．贵阳 ：贵州人民出版,1-23.]   \nZENG XH, ZHANG HJ, SONG YG, et al., 2013. Species diversity and soil nutrient dynamics along a chronosequence of vegetation restoration in Taihang Mountains hilly region, Hebei Province of North China[J]. Chin JEcol,32(4) $\\because$ 852-858.[曾歆花，张万军，宋以刚，等,2013．河北太行山低山丘陵区植被 恢复过程中物种多样性与土壤养分变化[J].生态学杂志,32(4):852-858.]   \nZHAO C,LONG J,LI J,et al.，2018.Liter stock and nutrient characteristics of decomposing litter layers in Maolan Karst primary forest in different slope directions[J]. Chin JEcol,37(2) $\\because$ 296-303.[赵畅，龙健，李 娟，等,2018．茂兰喀斯特原生林不同坡向及分解层的调落物现存量和养分特征[J].生态学杂志,37(2)： 296-303.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,173 @@
+# DOI:10.5846/stxb201707101243
+
+陈科屹，张会儒，雷相东.天然次生林蒙古栎种群空间格局.生态学报,2018,38（10）;3462-3470.   
+ChenKY,ZgH,iXaalaofesocuralcoarsctaolcac44.
+
+# 天然次生林蒙古栎种群空间格局
+
+陈科屹，张会儒\*，雷相东中国林业科学研究院资源信息研究所，北京100091
+
+摘要：以蒙古栎天然次生林中的蒙古栎(Quercus mongolica)种群为研究对象,在吉林省汪清林业局塔子沟林场设置了2块 $1 \mathrm { h m } ^ { 2 }$ 群落组成和结构存在差异的样地(样地A、样地B)。采用相邻网格调查法将每块样地划分为 100 个 $\mathrm { 1 0 m \times 1 0 m }$ 的调查单元,精确定位单元内每株林木的空间坐标(X,Y）,调查所有胸径 $( { \mathrm { D B H } } ) \geq 1 { \mathrm { c m } }$ 的林木基本信息。采用径阶替代年龄的方法,将蒙古栎划分为4个不同的生长阶段：I龄级( $1 \mathrm { c m } \leqslant \mathrm { D B H } < 1 0 \mathrm { c m } \$ ）, $\mathbb { I }$ 龄级( $1 0 \mathrm { c m } \leqslant \mathrm { D B H } < 2 0 \mathrm { c m } \$ ，Ⅲ龄级 $( 2 0 \mathrm { c m } ) \leqslant \mathrm { D B H } < 3 0 \mathrm { c m } \$ )， $\mathbb { N }$ 龄级二 $\mathrm { \Delta D B H } \geqslant 3 0 \mathrm { c m } .$ )。运用单变量、双变量成对相关函数、标记相关函数、标记变异函数,分析了不同群落中蒙古栎种群在不同空间尺度上的分布格局。结果显示：(1)两块样地中蒙古栎在大尺度上均呈随机分布,聚集分布主要集中在中小尺度,这主要是由I、Ⅱ龄级的蒙古栎在中小尺度上的强度聚集所致,两块样地均未出现均匀分布的格局;样地A中蒙古栎聚集的尺度和强度均明显大于样地B中蒙古栎的聚集;(2)样地A中I、Ⅱ、Ⅲ龄级的蒙古栎之间在中小尺度上呈正关联,高龄级与低龄级之间则呈负关联,尤其是IV龄级与I、Ⅱ龄级之间;而样地B中几乎未出现负关联的格局,各龄级之间以无关联为主,伴随以小尺度和低强度的正关联;(3)样地A中蒙古栎的空间自相关性较强,尤其体现在林木胸径方面;相比之下,样地B中胸径和树高的空间自相关得以减弱。上述结果表明,研究的空间尺度大小、物种的生长阶段、群落的发育程度均会给蒙古栎种群的空间分布格局造成影响。该研究有助于深人了解蒙古栎及蒙古栎次生林的现状、生长特性和发展趋势,可为东北林区大面积的蒙古栎天然次生林的可持续经营提供参考。
+
+关键词：天然次生林;蒙古栎；分布格局；关联性;空间自相关
+
+# Spatial pattern of Quercus mongolica in natural secondary forest
+
+CHEN Keyi, ZHANG Huiru\*， LEI Xiangdong search Instituteof ForestResources Information Techniques，Chinese AcademyofForestry，Beijing 10o091,Chin
+
+Abstract:Spatial signaturesoftenreveal ecological processes，and spatial patternanalysis isan important method for studying populationcharacteristics，interspeciesrelationships，and therelationshipsbetweenpopulationand the environment.Dueto thedistinctivecharacteristicsandthecurrnt situationof Quercus mongolica in China,itis necessaryto investigatethe ecological proceses in Q.mongolica stands.To realize the status anddevelopment tendency of the Q.mongolica population in the Q.mongolica natural secondary forest，its spatial patterns were studied based on two permanent sample plots(plot Aand plot B）with diffrent compositions and structures(i.e.,diferent coenotypes）overan （20 $\mathrm { a r e a ~ o f ~ 1 h m ^ { 2 } ( ~ 1 0 0 m \times 1 0 0 m ) }$ in Tazigou Forest Farm of Wangqing Forestry Bureau，Jilin province. The essential features, whichinclude species identity，diameteratbreast height（DBH），tree height，clear bole height，crown breadth，and coordinate information of each tree( $\mathrm { D B H } \geqslant 1$ ），of the two plots were surveyed by the adjacent grid method( $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ ） Using the method of diameter class( instead of the age）, $Q$ . mongolica was divided into four different growth stages : stage I 1 $( 1 \mathrm { { c m } \leqslant D B H < 1 0 \mathrm { { c m } , } }$ ，stage II( $1 0 \mathrm { { c m } \leqslant D B H < 2 0 \mathrm { { c m } } }$ ），stage III( $2 0 \mathrm { c m } \leqslant \mathrm { D B H } < 3 0 \mathrm { c m }$ ），stage IV $/ ( \mathrm { \ D B H } \geqslant 3 0 \mathrm { c m }$ ).In accordance with the spatial point pattern theory，univariate pair-correlation function ${ { g } _ { 1 } } \left( \boldsymbol { r } \right)$ ，bivariate pair-correlation function ${ { g } _ { 1 2 } } ( \boldsymbol { r } )$ ，mark correlation function $k _ { \scriptscriptstyle m m } ( r )$ ，and mark variogram function $\gamma ( r )$ were adopted to evaluate the spatial patterns of $Q$ . mongolica in different communities at various scales.The results showed that（1）All Q. mongolica populations in thetwo plots showedrandom spatial distributionat large scales，and theaggregated distribution was mainly concentrated at medium and small scales.The aggregated distribution at stages I and $\mathrm { I I }$ at medium and small scales was the primary cause forthe above phenomenon.Uniform distribution was not observed in thetwoplots atallscales.The agregated distribution of $Q$ . mongolica in plot A is stronger than that in plot B.(2） The spatial associations of $Q$ . mongolica among the stages I,II，and II in plot Aare positiveat medium and small scales.The spatial assciations between older ageand youngerageclasses were negative，especially between the stages IV，I，and II In plot B，however，negative spatial asociation was scarcelyobserved atallscales.Therelationships betweendiferent stageswere mostlyuncorrelatedwith positive spatialasociationatsmallscaleandlowintensity.(（3）The spatialautocorrelationofplotAisstronger thanthatof plot B,andtheconspicuous expresson mainlyappears atDBH.Thespatial autocorelationof plot Bfor DBHand heightis weakened to some extent compared to that of plot A.These results demonstrated that the spatial patterns of $Q$ . mongolica are affected by the space scale ofthe sample plot，the growth stage of species，andthe developmentalstage of thecommunity. This helps us to understand the currnt situation，growth characteristics，and developmental tendency of $Q$ . mongolica populationand its natural secondary forest，andcan providean importantreferencefor sustainable forest managementand ecosystem conservation in the $Q$ . mongolica natural secondary forest area of northeast China.
+
+Key Words: natural secondary forest； Quercus mongolica;；distribution pattern;association；spatial autocorrelation
+
+蒙古栎（Quercus mongolica）属壳斗科(Fagaceae）栎属(Quercus）树种,是我国温带地区落叶阔叶林及针阔混交林的主要树种,在我国属于分布最北的一种落叶栎。在东北地区,以蒙古栎为建群种的天然次生林面积占到有林地面积的 $1 5 \% - 2 0 \%$ ,它是原始阔叶红松林连续遭受自然干扰和人为破坏后旱生演替的结果[1-2]。虽然蒙古栎林在我国东北及华北地区大量存在,但由于现存蒙古栎大多存在林分生长不良、林木干材较差的情况,与我国早期长久以来强调木材生产的经营目的不相匹配。因此,围绕蒙古栎或蒙古栎次生林展开的研究并不丰富,对它的认识还不够深人[3]。但蒙古栎材质坚硬、耐腐蚀性强,是优良的工业及家具用材;而且它根系发达,环境适应性强,在防风防火、涵养水源和水土保持等方面作用显著,随着森林生态效益愈发受到重视,迫切需要对蒙古栎以及蒙古栎次生林展开更为深入的研究。
+
+目前关于蒙古栎的研究主要集中在生理特性[45]、群落结构[6-8]、生态功能特征[9-I]、生长与收获预估模型[12-13]、生境响应及相互作用[14-16]森林经营与模拟[17-18]等方面,而在种群空间分布及关联性方面的研究却鲜有报道。种群的空间格局是指种群个体在水平空间上的配置情况,它是群落内生物和非生物因素共同作用的结果,对种群空间格局进行深入剖析,可以揭示种内、种间关系以及种群对生境的选择和适应机制,推断其生长发育动态特征,更好地了解种群及其所在群落的生物学特性和生态学过程,这对于林地高效利用、森林资源质量提升、生态环境改善等都具有重要的理论意义和现实意义[19-20]。因此,本文将探究蒙古栎种群在不同群落类型中多个尺度上的空间格局,以期为蒙古栎林的生态系统保育与可持续经营提供理论依据。主要研究内容如下:（1)采用单变量成对相关函数(Univariate pair-correlation function,UPCF) ${ { g } _ { 1 } } ( r )$ 研究不同群落类型中蒙古栎的空间分布格局;（2)采用双变量成对相关函数(Bivariate pair-correlation function,BPCF) ${ \boldsymbol { g } } _ { 1 2 } ( { \boldsymbol { r } } )$ 研究不同群落类型中各龄级蒙古栎之间的空间关联性；（3）采用标记相关函数（Mark correlation function,MCF） $k _ { m m }$ （r)和标记变异函数（Markvariogram function,MVF) $\gamma ( r )$ 研究不同群落类型中蒙古栎林木因子(胸径、树高)的空间自相关性。
+
+# 1材料与方法
+
+# 1.1 研究地区
+
+研究地区位于吉林省汪清林业局塔子沟林场 $( 1 2 9 ^ { \circ } 5 6 ^ { \prime } - 1 3 1 ^ { \circ } 0 4 ^ { \prime } \mathrm { E }$ ， $4 3 ^ { \circ } 0 5 ^ { \prime }$ 一 $\cdot 4 3 ^ { \circ } 4 0 ^ { \prime } \mathrm { N }$ ),属山地丘陵地带，温带大陆性季风气候,年平均气温 $3 . 9 \mathrm { ^ { \circ } C }$ ,年平均降水量 $5 4 7 \mathrm { m m }$ 。研究区主要植被包括蒙古栎（Quercusmongolica）、白桦（Betula platyphylla）、大青杨（Populus ussriensis）、紫椴（Tilia amurensis）色木槭（Acer mono）、春榆（Ulmus japonica）红松（Pinus horaiensis）臭冷杉（Abies nephrolepis）、水曲柳（Fraxinus mandschurica）黑桦(Betula dahurica）等。
+
+# 1.2样地设置与调查
+
+在全面踏查的基础上,于2013年在蒙古栎种群分布较为集中且林分良好的地段建立了2块 $1 \mathrm { { h m } } ^ { 2 }$ (100mX$1 0 0 \mathrm { m }$ )的固定样地,2块样地均以蒙古栎为优势种,但主要伴生树种配置差异较大：样地A以蒙古栎-白桦-大青杨为主,样地B以蒙古栎-红松-椴树为主。根据群落结构和演替理论来看,样地B的群落更为稳定,更接近原始顶级群落—阔叶红松林;而样地A 中还存在大量先锋树种,处于相对较早的演替时期。按相邻格子法将样地划分成100 个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的单元格,在每个样方的4个顶点处埋设水泥桩标记,检尺样地内所有 DBH $\geqslant$ lcm 的林木特征值,包括树种、胸径、树高、枝下高、冠幅等因子。同时以西南角为原点,用皮尺测定每株林木的空间位置信息,并进行逐株挂牌。样地统计结果见表1。 \~y
+
+表1样地基本概况  
+Table 1 The condition of sample plots   
+
+<html><body><table><tr><td>样地</td><td>分起源</td><td>E海a拔ton</td><td></td><td></td><td></td><td>Sp组 ompostion</td></tr><tr><td>A</td><td>天然林</td><td>703</td><td>1541</td><td>10.2</td><td>8.6 22.8</td><td>4蒙2桦1杨1色+红+臭 +椴+黑-其他</td></tr><tr><td>B</td><td>天然林</td><td>794</td><td>1280</td><td>12.6</td><td>9.0 25.6</td><td>5蒙其红1椴1色1桦+</td></tr></table></body></html>
+
+蒙为蒙古栎（Quercus mongolica）、桦为白桦（Betula platyphylla）杨为大青杨（Populus usurienss）、色为色木槭（Acer mono）、红为红松（Pinushoraiensis）臭为臭冷杉（Abies nephrolepis）椴为紫椴（Tilia amurensis）黑为黑桦(Betula dahurica)
+
+蒙古栎材质坚硬,干后易裂,不适合采用生长锥法进行年龄测定,且该样地内林木需留作长期观测,不便对林木进行人为干扰破坏。考虑到生境条件相似的区域内,同一物种的径级与龄级变化相对一致,林木胸径大小的差异能间接反映林木在年龄结构和垂直空间层次方面的信息[21-22]。因此,根据蒙古栎的生长特性并结合汪清林业局蒙古栎静态生长过程表，采用径阶替代年龄的方法,将蒙古栎划分为4个不同的生长阶段：I龄阶段( $1 \mathrm { c m } \leqslant \mathrm { D B H } < 1 0 \mathrm { c m } .$ ，Ⅱ龄阶段( $1 0 \mathrm { c m } { \leqslant } \mathrm { D B H } { < } 2 0 \mathrm { c m }$ ），Ⅲ龄阶段( $2 0 \mathrm { c m } \leqslant \mathrm { D B H } < 3 0 \mathrm { c m }$ ）， $\mathrm { \Delta } \mathrm { \mathrm { N } }$ 龄阶段（DBH$\geqslant 3 0 \mathrm { c m }$ )。各龄级蒙古栎的分布情况见图1。
+
+![](images/2addb0047ed6f704f4c83937af64ba08981bd5c4d32161706e44016d25e5cba3.jpg)  
+图1样地A和样地 $\mathbf { B }$ 的蒙古栎空间分布图  
+Fig.1The location map of Quercus mongolica in the plot A and plot B
+
+# 1.3 数据处理
+
+采用单变量成对相关函数 ${ \boldsymbol { g } } _ { 1 } ( { \boldsymbol { r } } )$ 对整体及不同龄级的蒙古栎进行空间点格局分析，它是以任意蒙古栎为圆心,计算半径为 $\boldsymbol { r }$ 、指定宽度的圆环区域内蒙古栎株数的概率密度函数,其计算公式见式（1）[23-25]。采用完全空间随机过程(Complete spatial randomness,CSR)作为均质泊松过程零模型。考虑到样地属于次生林,尤其以适应性极强的蒙古栎这类种群为主的群落在较大尺度上可能存在潜在的生境异质性,这会对空间格局分析产生干扰。因此,采用带宽 $3 0 \mathrm { m }$ 的高斯平滑函数(Gaussian smoothing function,GSF)作为异质性泊松过程零模型以确定密度梯度,再与CSR 的结果作比较分析。最后根据 Monte-Carlo 模拟重复199 次产生 $9 5 \%$ 的置信区间进行结果偏离随机状态的显著性检验。当 ${ \boldsymbol { g } } _ { 1 } ( { \boldsymbol { r } } )$ 值位于置信区间之上,林木呈聚集分布； ${ { g } _ { 1 } } ( r )$ 值位于置信区间之下，林木呈均匀分布； ${ \boldsymbol { g } } _ { 1 } ( { \boldsymbol { r } } )$ 值位于置信区间之内，林木呈随机分布。
+
+$$
+g _ { 1 } ( r ) = ( 2 \pi r ) ^ { - 1 } \cdot d K _ { 1 } ( r ) / d _ { r } , \Re \sharp \sharp K _ { 1 } ( r ) = \frac { A } { n ^ { 2 } } \sum _ { i = 1 } ^ { n } \sum _ { j } ^ { n } w _ { i j } ^ { - 1 } I _ { r } ( u _ { i j } )
+$$
+
+式中,A是样方的面积; $n$ 为个体数; $u _ { i j }$ 为两个点 $i$ 和 $j$ 之间的距离； $I _ { r } ( \ u _ { i j } )$ 为指示函数,当 $\boldsymbol { u } _ { i j }$ ≤r时， $I _ { r } ( \textit { u } _ { i j } ) =$ 1,当 $u _ { i j } > r$ 时， $I _ { r } ( u _ { i j } ) = 0 { : } w _ { i j }$ 为权重值,用于边缘校正； $d K _ { 1 } ( r )$ 代表函数 $\boldsymbol { K } _ { 1 } ( \boldsymbol { r } )$ 的微分； $d _ { r }$ 代表半径 $\boldsymbol { r }$ 的微分。
+
+采用双变量成对相关函数 ${ \boldsymbol { g } } _ { 1 2 } ( { \boldsymbol { r } } )$ 对不同龄级的蒙古栎的空间关联性进行分析。在某一龄级内以任意蒙古栎为圆心,计算半径为 $r$ 、指定宽度的圆环内另一龄级的蒙古栎株数,以此判别两者之间在多个尺度上的空间关联性,其计算公式见式（2)[23-25]。采用前提条件假设(antecedent condition,AC)作为零模型。因为高龄级的林木先于低龄级林木在群落中定植,故假设低龄级林木的空间分布受高龄级林木位置的影响,显著性检验同上。当 $g _ { 1 2 } ( r )$ 值位于置信区间之上,两者呈正相关； $\varrho _ { 1 2 } ( r )$ 值位于置信区间之下,两者呈负相关； ${ \boldsymbol { g } } _ { 1 2 } ( { \boldsymbol { r } } )$ 值位于置信区间之内,两者相互独立。
+
+$$
+g _ { 1 2 } ( r ) = ( 2 \pi r ) ^ { - 1 } \cdot d K _ { 1 2 } ( r ) / d _ { r } , \sharp \colon \mathrm { H } _ { 1 2 } ( r ) = \frac { A } { n _ { 1 } n _ { 2 } } \sum _ { i = 1 } ^ { n } \sum _ { j } ^ { n } w _ { i j } ^ { - 1 } I _ { r } ( u _ { i j } )
+$$
+
+式中， $n _ { 1 }$ 和 $n _ { 2 }$ 分别为不同龄级的蒙古栎林木株数， $\mathbf { \chi } _ { i }$ 和 $j$ 分别代表不同龄级的蒙古栎林木个体， $d _ { 1 2 } K ( r )$ 代表函数 $K _ { 1 2 } ( r )$ 的微分，其余符号与式(1)一致。
+
+采用标记相关函数 $k _ { m m } ( r )$ 和标记变异函数 $\gamma ( r )$ 对不同群落类型的蒙古栎种群的空间自相关性进行分析。 $k _ { m m } ( \boldsymbol { r } )$ 是测试函数 $f ( m _ { 1 } , m _ { 2 } )$ 在 $\boldsymbol { \gamma }$ 尺度上的平均值,运用包含测试函数的归一化标记相关函数 $k _ { m m } ( r )$ 对两个林木间胸径、树高的相似性进行量化分析,表达式见（3）。采用独立标记（Independent marking,IM）作为零模型,显著性检验同上。当 $k _ { m m } ( \boldsymbol { r } )$ 值位于置信区间之上,则林木胸径、树高在 $\boldsymbol { r }$ 尺度上大于样地水平胸径、树高的平均值; $k _ { m m } ( \boldsymbol { r } )$ 值位于置信区间之下,则小于平均值; $k _ { m m } ( r )$ 值位于置信区间之内,则与均值相似。再配合使用标记变异函数 $\gamma ( \boldsymbol { r } )$ 检验其空间自相关性。显著性检验同上,即当 $\gamma ( r )$ 值位于置信区间之上,则具有不同胸径、树高的林木趋于聚集； $\gamma ( r )$ 值位于置信区间之下,则具有相同胸径、树高的林木趋于聚集； $\gamma ( r )$ （20值位于置信区间之内，则无空间自相关性。
+
+$$
+f ( m _ { 1 } , m _ { 2 } ) = m _ { 1 } { \times } m _ { 2 }
+$$
+
+式中， $\overline { { m _ { 1 } } }$ 和 $\overline { { m } } _ { 2 }$ 是两个相邻林木的胸径或树高。
+
+此外,需要特别注意的是,当存在第一类型错误（TypeIerror）时,Monte-Carlo 模拟的置信区间不能准确提供零模型的期望统计值范围,此时需要借助拟合优度检验(Goodness-of-fit test,GoF)进行偏离零模型的显著性检验。GoF检验将基于尺度信息的函数统计量压缩成一个单项指标 $u _ { \mathrm { i } }$ ,表示观测值统计量与期望值统计量在观察尺度上的离差累积。当 $P$ 小于0.05 时,则认为差异显著[25-27]。
+
+# 2结果
+
+# 2.1 林木空间分布格局
+
+根据图1可初步看出,两块样地的蒙古栎种群均存在萌生丛生的分布状况,符合次生林的典型特征,但两者的萌生丛生形式存在较大差异。通过统计分析结果,两块样地的蒙古栎种群的确存在显著的聚集分布,但在聚集的尺度和强度方面存在较大差异，样地A在2一 $4 0 \mathrm { m }$ 尺度上存在显著聚集，而样地B仅在小尺度0—$1 2 \mathrm { m }$ 呈显著聚集，在中尺度 $1 7 . 2 6 \mathrm { m }$ 呈零星弱度聚集。从聚集的强度来看，除了小尺度上极小范围内样地B较样地A的聚集强度稍大以外,在其余尺度上样地A均普遍大于样地B。随着观测尺度的增大,两块样地的蒙古栎种群聚集强度均逐渐减小并最终趋于随机分布,其中样地B的降幅明显更为剧烈。经过GSF 处理后，样地A并没有产生实质性的变化,而样地B则表现出聚集减弱减小的现象,这表明样地B可能存在一定程度的生境异质性（图2）。
+
+![](images/fefc4650fdcca049276efa299dfa1d71177acf037aa1a0c78381848eb204608e.jpg)  
+Fig.2Spatial distribution patterns of Quercus mongolica in plot A and plot B
+
+从各龄级的分布格局来看,随龄级的增大，两块样地蒙古栎种群的分布格局均表现为由聚集向随机分布过渡的趋势。在ⅢI、IV龄级阶段,两块样地均已经呈随机分布,两者的差异主要发生在I、Ⅱ龄级阶段。样地A 在I、Ⅱ龄级阶段均表现出尺度较大、强度较强的聚集分布,尤其是在I龄级;而样地B在I、Ⅱ龄级的聚集分布尺度较小、强度较弱,其中相对较大较强的聚集却出现在2龄级(图3,图4）。
+
+![](images/06880ff393002c1e535d07f39c3b362aaaefd3085b5e96547cc556561fe12724.jpg)  
+图3样地A各龄级蒙古栎空间分布格局  
+Fig.3Spatial distribution patterns of each stage of Quercus mongolica in plot A
+
+![](images/e0157935e02194ff14329062c13518a655d64d6e691ec4ccd4badb47ab105c4a.jpg)  
+图2样地A和样地B的蒙古栎空间分布格局  
+图4样地B各龄级蒙古栎空间分布格局  
+Fig.4Spatial distribution patterns of each stage of Quercus mongolica in plot B
+
+http://www.ecologica.cn
+
+# 2.2林木空间关联性
+
+通过统计结果可知,两块样地蒙古栎在各龄级之间的关联性存在显著差异。在样地A中，I龄级与Ⅱ、Ⅲ龄级之间,Ⅱ龄级与Ⅲ龄级之间在中小尺度上存在显著正关联,其中Ⅰ龄级与Ⅱ龄级之间的关联性尺度较大,强度较强。而I、Ⅱ龄级与V龄级之间在中小尺度上存在一定程度的负关联。Ⅲ龄级与V龄级之间在小尺度上呈现弱度零星分布的负相关,以无关联的格局为主。而在样地B中,除了Ⅱ龄级与Ⅲ龄级之间在大尺度上存在微弱的负关联以外,其余龄级之间几乎不存在负关联的格局,主要以无关联和正关联的格局为主。其中,I龄级与Ⅱ、Ⅲ龄级,Ⅱ龄级与ⅢI、V龄级在中小尺度上存在正关联,I、Ⅲ龄级与V龄级之间未呈现显著的关联性（图5,图6）。 八)
+
+![](images/9cf0adcbe5099763d6298df1eff70b393f456cbcec5fe15df3699bd369c87816.jpg)  
+图5样地A各龄级蒙古栎空间关联性  
+Fig.5Spatial associations of different stages of Quercus mongolica in plot A
+
+# 2.3 林木空间自相关
+
+在两块样地中,蒙古栎的林木胸径和树高均存在一定程度的空间自相关,但在分布格局上有所差异。在胸径方面,样地A在 $1 { - } 1 8 \ 、 2 1 { - } 2 4 \ 、 2 8 \ 、 3 0 \mathrm { m }$ 尺度上相同径阶的蒙古栎聚集在一起,即存在正的空间自相关,且在该尺度上具有正空间自相关性的林木其胸径小于林分平均胸径。样地B中也存在类似样地A的情况,但是其空间自相关仅出现在小尺度上并呈零星分布,且较为接近林分平均胸径。而另一方面,两块样地存在于树高的空间自相关均呈弱度正相关,两者差异不大。无论是存在于胸径还是树高的空间自相关性,均随着尺度的增大而逐渐减弱并趋于消失（图7,图8）。
+
+# 3结论与讨论
+
+本文对不同群落类型的蒙古栎种群在不同尺度上的空间格局进行了研究,探讨了蒙古栎种群在整体及不同生长阶段的空间分布格局,不同生长阶段之间的空间关联性,以及蒙古栎林木胸径、树高的空间自相关情况,这有助于深入了解蒙古栎种群的生存现状、生长机制和发展规律。
+
+(1)在空间分布格局方面,两块样地蒙古栎种群的整体空间分布均表现为随观测尺度的增大,由聚集逐渐转变为随机分布。但样地A较样地B聚集的尺度更大、强度更强,这可能与两块样地不同的群落结构和演替阶段有关。相比之下,样地A处于较早的演替阶段,群落结构不稳定,阳性喜光树种占优,再加上蒙古栎自身有极强的适应性,萌蘖性强,所以在较大尺度和强度上表现出聚集分布格局。另外,聚集分布也能提高种群的竞争力,提升对外界不良环境的抵抗力。通过对不同龄级蒙古栎的分布格局来看,也进一步证实了上述可能性,即蒙古栎在整体上呈现的聚集分布主要是受种群内中小径阶林木的影响。这与樊后保等[28]研究蒙古栎的结果保持一致,与伊力塔等[21]对辽东栎(Quercus liaotungensis)的研究结论也十分相似。两块样地中无论是整体或各龄级的蒙古栎种群分布均未呈现均匀分布格局,这与前人在研究林木分布格局时,认为均匀分布是一种理论状态,很难出现在现实林分,尤其是天然林中的结论一致[29]。此外,在研究中还发现,样地 B存在生境异质性情况,异质性会加剧群落中非对称的竞争格局,从而促进群落加速演替,这可能是导致同一区域内样地B较样地A 演替更快的潜在因素之一。Getzin 等[30]在研究温哥华岛东南部的异叶铁杉（Tsugaheterophylla)次生林时也有类似发现。 1 O
+
+![](images/4b7ef07bf38c4d5639c570b3dad9cd30cd1461f260f16674a836288f7979972d.jpg)  
+Fig.6Spatial associations of different stages of Quercus mongolica in plot B
+
+![](images/0283ce08deab0df4aa2b43da2fc2e547086c56fe04d10669200e191b4c8413dd.jpg)  
+图6样地B各龄级蒙古栎空间关联性  
+图7样地A蒙古栎空间自相关
+
+![](images/0af603455e02dc906b37b29ec3132a99bba97a111cbc08491861e67bdc08da9e.jpg)  
+Fig.7spatial autocorrelation of Quercus mongolica in plot A   
+图8样地B蒙古栎空间自相关  
+Fig.8spatial autocorrelation of Quercus mongolica in plot B
+
+(2)在空间关联性方面,样地B在各龄级之间几乎未呈现负关联性,而样地A 则在V龄级与I、ⅡI、Ⅲ龄级之间的中小尺度上均存在负关联。这主要是由于样地B相对于样地A处于进展演替的更高层次,种群内大部分蒙古栎种群之间度过了密度制约竞争的激烈阶段,而林窗内更新的红松、紫椴等树种又具有较强的耐阴性,且生长十分缓慢,致使样地B中的群落会经历一个时间相对较长稳定期,群落中处于优势地位的蒙古栎各龄级之间也达到一种平衡。而样地A郁闭度更高,林分密度更大,蒙古栎个体之间在养分、光照等方面的竞争也更为激烈,远离高龄个体的蒙古栎幼树受到其树冠和根系的影响较小，因此可能获得更为充足的生长空间。另一方面,两块样地中低龄级的蒙古栎之间均存在正关联空间格局,这与薛文艳等[31的研究结果较为一致。这种现象可能源于以下两种可能;第一,由于蒙古栎的种子扩散机制和生殖特点(极强的萌蘖性)造成的。蒙古栎的种子(橡子)属大粒种子,质量较大,扩散能力差,主要围绕母树就近聚集分布,再加上萌作用,致使更新的蒙古栎无论是实生个体还是萌生个体,均呈强度聚集分布,即使经历了自疏作用和生长分化阶段,在整个群落中仍然呈现较强的聚集性;第二,由于种内非对称性竞争造成的。即当个体大小相近时,二者间关系较为协调[32]。
+
+(3)在空间自相关方面,两块样地中均存在正的空间自相关,但在胸径和树高两项林木因子上的表现则有所差异。样地A的空间自相关主要表现在胸径上,主要体现在小尺度上连续出现的正的空间自相关。而样地B虽然存在空间自相关现象,但其表现并不明显,而该现象主要体现在树高上,呈不连续的离散分布,且偏离程度很低。总体上看,随着群落演替的进一步发展,群落内占绝对地位的蒙古栎种群的空间自相关性有趋于减弱或消失的现象,在这一点上与Fibich等[33]在太平洋赤道地区对热带雨林群落的研究有相似之处,符合种群发展的普遍规律。但是样地B中存在于树高方面的弱度空间自相关显得较为特殊,这可能与群落自身结构和小范围内的环境异质性有关。
+
+(4)从空间尺度来看,两块样地的空间格局均随尺度的改变逐渐发生变化,这表明空间格局对尺度大小具有极强的依赖性。随着尺度的增大,蒙古栎种群均朝着随机分布、无关联性和无空间自相关的稳定状态过渡。物种之间的相互作用主要发生在 $3 0 \mathrm { m }$ 以下的中小尺度,这可能与物种冠幅的大小和根系分布的范围有很大的关系。在大于 $3 0 \mathrm { m }$ 的大尺度上存在的偏离零模型的空间分布可能是由于生境异质性产生的影响,这与Martinez 等[34]研究得出的以 $1 5 \mathrm { m }$ 为分界值的结论有所差异,这可能与物种本身及所处气候类型的不同有关。从时间尺度来看,两块样地之间存在演替序列上的差异,样地B更接近原始顶级群落,更趋于稳定的群落结构,群落内占绝对主导地位的蒙古栎种群的空间格局是群落空间格局的主要体现,其变化趋势将引导群落的发展方向。因此,随着群落演替的进一步发展,蒙古栎种群和蒙古栎次生林群落会向着随机分布、无关联或正关联、无空间自相关的方向进一步发展,最终达到一种顶级的动态平衡,这与 Jacquemyn 等[35]的研究结论相似。
+
+综上所述,分析蒙古栎种群的空间格局能在一定程度上从时间和空间维度反映蒙古栎的生态学功能和过程,但是其生态学功能和过程是一个非常复杂的综合效应，上述研究还不能完全揭示其潜在信息。因此,群落内蒙古栎种群与群落中其他各种群的关系,以及研究区生境因子与蒙古栎种群之间的相互作用关系及变化过程均有待进一步研究,以期为森林可持续经营提供更为全面、更加深入的理论依据和实践参照。
+
+# 参考文献（References）:
+
+[1] 殷晓洁，周广胜，隋兴华，何奇瑾，李荣平.蒙古栎地理分布的主导气候因子及其阈值.生态学报，2013,33（1)：103-109.  
+[2] 王业蓬．阔叶红松林.哈尔滨：东北林业大学出版社，1995：1-22.  
+[3] 许中旗，王义弘.蒙古栎研究进展.河北林果研究，2002，17（4）：365-370.  
+[4] Ueno S,TaguchiY，TsumuraY.Microsatelitemarkersderived from Quercusmongolicavar.crispula(Fagaceae）inerbark epresetags.Genes & Genetic Systems,2008,83(2）:179-187.  
+[5] 赵娟，宋媛，毛子军.蒙古栎幼苗光合作用以及叶绿素荧光对温度和降水交互作用的响应.北京林业大学学报，2013，35（1)：64-7  
+[6] ShinCH，WouHLtucortiuviafalluersoicaakalalfEcology and FieldBiology，2011，34（1）：107-113.  
+[7] 李文英，顾万春.蒙古栎天然群体表型多样性研究.林业科学，2005，41（1)：49-56.  
+[8] HeF,YngBSWangH,YanQLCaoY,HeXH.angesincomposionanddiverstyoffungalcomuitiesalogQuercusmongolicaforests developments in Northeast China.Applied Soil Ecology，2016,100：162-171.  
+[9] 于顺利，马克平，陈灵芝.蒙古栎群落叶型的分析.应用生态学报，2003，14（1)：151-153.  
+[10] 田超，杨新兵，李军，鲁绍伟，刘阳，毕可姣.冀北山地不同海拔蒙古栎林枯落物和土壤水文效应.水土保持学报，2011，25（4)：221-226.  
+[11] JooSJ,ParkSUarkCtiatiooflspatisingoaedbrsak(Quecsmogolic）ttteNam-San site in Seoul,Korea.Science of the Total Environment，2012,416：400-409.  
+[12] 洪玲霞，雷相东，李永慈.蒙古栎林全林整体生长模型及其应用.林业科学研究，2012，25(2)：201-206.  
+[13] 马武，雷相东，徐光，杨英军,王全军.蒙古栎天然林单木生长模型研究一 -I.直径生长量模型.西北农林科技大学学报：自然科学版,2015,43(2):99-105.  
+[14] 程徐冰，吴军，韩士杰，周玉梅，王秀秀，王存国，隋心，闫彩凤.减少降水对长白山蒙古栎叶片生理生态特性的影响.生态学杂志，2011,30(9):1908-1914.  
+[15] 赵娟，宋媛，孙涛，毛子军，刘传照，刘林馨，刘瑞鹏，侯玲玲，李兴欢.红松和蒙古栎种子萌发及幼苗生长对升温与降水综合作用的响应.生态学报，2012，32（24)：7791-7800.  
+[16] YiXF,ZhangZBIueeofisetfestedotldosoarlydliggrowthofglanoak，Querusmoglc.otoseca0,46(1) : 139-142.  
+[17] 王义弘，滕文华，李俊涛，孙慧珍.蒙古栎的更新造林和幼林生长.东北林业大学学报，2000,28（5）：28-30.  
+[18] 尤文忠，赵刚，张慧东，郭元涛，颜廷武，魏文俊，毛沂新.抚育间伐对蒙古栎次生林生长的影响.生态学报，2015,35(1)：56-64.  
+[19] 任珩，赵成章.高寒退化草地狼毒与赖草种群空间格局及竞争关系.生态学报，2013，33（2)：435-442.  
+[20] AkhavanR,SaebalebiKZerEfaviaeshSpaalpaesinderetforestdveloettafaitactodohtalbeech forest in the Caspian region of Iran.European Journal of Forest Research,2012，131(5）:1355-1366.  
+[21] 伊力塔，韩海荣，程小琴，康峰峰，张志杰.灵空山林区辽东栎（Quercus liaotungensis）种群空间分布格局.生态学报，2008，28（7)：3254-3261.  
+[22] Condit R,AshtonPS,BakerP,BuyavechewnS，GunatillkeS,GunatilekeN,HubbellSP,osterR,ItohA,LFrankieJV,eeH,LososE,ManokaranN，SukumarR，YmakuraT.SpatialpaternsithedistributionoftropicaltreespeciesScience，2Ooo，288（5470）：1414- 1418.  
+[23] Ripley BD.Thesecond-orderanalysisof stationarypoint processes.Journal ofApplied Probability，1976,13（2):255-266.  
+[24] WiegandT,MoloneyKA.Rings，circles，andnull-modelsforpointpaternanalysis inecology.Oikos，2004，104（2）：209-29.  
+[25] Wiegand T,Moloney KA.Handbook of Spatial Point-Pattern Analysis in Ecology.BocaRaton:CRC Press,，2O13:76-145.  
+[26] Loosmore N B,Ford E D.Statistical inference using the $G$ or $K$ point pattern spatial statistics.Ecology，2006,87(8）：1925-1931.  
+[27] WiegandT，HuthA，GetzinS,WangX G,HaoZ Q，GunatillkeCVS，GunatilekeIA UN.Testingtheindependentspecies'arrangeentassertionmdebyeosofosticgeometryofidiversityProcdingofteoyalocietyB：ologicalSes，Ol（）：3312-3320.  
+[28] 樊后保，王义弘，臧润国.蒙古栎种群空间分布格局及其动态的研究.福建林学院学报，1994，14（2)：100-103.  
+[29] 张金屯.数量生态学(第二版).北京：科学出版社，2011：288-320.  
+[30] GetzinS,eogsiasiao96(4): 807-820.  
+[31] 薛文艳，杨斌，张文辉，于世川.桥山林区麻栎种群不同发育阶段空间格局及关联性.生态学报，2017,37（10)：3375-3384.  
+[32] 尤海舟，刘兴良，缪宁，何飞，马钦彦.川滇高山栎种群不同海拔空间格局的尺度效应及个体间空间关联.生态学报，2010，30（15）：4004-4011.  
+[33] FibichP,LepJ,voVlite,olK,asK,WeblGSpatialpatesfreesdistrioiprimary and secondary lowland rain forest. Journal of Vegetation Science，2016,27(2）：328-339.  
+[34] MartinezIWdobdsiaoasoesieateftiitSpain.Forest Ecology and Management，2010,260(4）：456-465.  
+[35]Jacqdelsodvatiagtteetisialpuatsfealbrgusing spatio-temporal analyses of point patterns. Journal of Applied Ecology，2010,47(2）：431-440.

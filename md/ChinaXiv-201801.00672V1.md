@@ -1,0 +1,140 @@
+# 基础研究
+
+# 慢性砷暴露对小鼠脑和血清代谢组学的影响
+
+代华',夏茵茵¹,Ting-LiHan²,PhilipN.Baker²,唐旭¹,张瑞源’,杜航³,蔡同建4,程淑群11重庆医科大学公共卫生与管理学院,医学与社会发展研究中心，健康领域社会风险预测治理协同创新中心,重庆 400016;奥克兰大学里金斯研究所,奥克兰新西兰,重庆市职业病防治院理化检验科,重庆 400060;第三军医大学军事预防医学院流行病学教研室,重庆400038
+
+摘要：目的 观察慢性砷暴露对小鼠皮层及血清代谢组学的影响，探讨其神经毒性机制。方法将12只C57BL/6J三周龄雄鼠，按体质量随机分为2组，暴露组饮用含 $5 0 ~ \mathrm { m g / L }$ 亚砷酸钠水12周,对照组饮用蒸馏水。暴露结束后，采用氢化物发生一原子荧光光谱法测定脑砷含量;气相色谱/质谱联用法(GC/MS)对砷暴露组和对照组小鼠皮层和血清进行代谢组学研究,运用主成分分析法(PCA)分析比较两组代谢产物的差异，两样本 $\mathbf { \Psi } _ { t }$ 检验筛选两组间差异性代谢产物，利用代谢途径在线分析工具查找其影响的相关代谢途径。结果 砷暴露组脑砷含量高于对照组,差异具有统计学意义( $P { < } 0 . 0 5 )$ ;砷暴露组大脑皮层中苯丙氨酸、酪氨酸、组氨酸、赖氨酸和柠檬酸含量升高，血清中丝氨酸、甘氨酸、脯氨酸、天门冬氨酸及谷氨酸含量升高，而 $\mathfrak { a }$ -酮戊二酸含量下降。PCA分析显示暴露组与对照组小鼠皮层和血清代谢特征存在差异,差异具有统计学意义( $\scriptstyle \cdot { P < 0 . 0 5 }$ )。结论 慢性砷暴露可通过干扰皮层和血清氨基酸类代谢和三羧酸循环，导致神经递质合成障碍以及干扰能量代谢而影响中枢神经系统功能。
+
+关键词：代谢组学；砷暴露；神经毒性；主成分分析法
+
+# Effect of chronic arsenic exposure on mouse brain tissue and serum metabolomics
+
+DAIHuaXIin,ng-i,ilpker,Gu,HARan,g,jn 1SchoolofPublicHealthndManagementChongqingMedicalUnioersityResearchCenterforMedicineandSocialDeelopment InnoationCenterforSocialiskGoeranceinHealthChongqing6，China;²TheLigginsnstitute,UniersityofAucklad Aucklandcldcllss China;Departdetcndicalsiy
+
+Abstract: Objective To observe the efect ofchronic arsenic exposure oncerebral cortex and serum metabolics of mice and explore the mechanism of arsenic neurotoxicity. Methods Twelve 3-week-old male C57BL/6J mice were randomly assigned into exposure group and control group and exposed to sodium arsenite $( 5 0 ~ \mathrm { m g / L } )$ via drinking water and deionized water for 12 weks，respectively. After the exposure，arsenic level in thecerebrum was determined by hydride generation-atomic fluorescence spectrometry.The metabolites in the cerebralcortex and serum were determined using gas chromatography-mass spectrometry (GC/MS)analysis.Principal component analysis (PCA)wasused to analyze the diference of the metabolites between the exposure and thecontrol groups. Online tolsfor analyzing metabolic pathways were used to identifythe related metabolites pathways.Results Arseniccontentin thebrain of exposure group wassignificantly higher thanthat inthecontrol group $_ { ( P < 0 . 0 5 ) }$ . The mice exposed toarsenic hadahigher levelof citricacid,phenylalanine,tyrosine,histidine and lysine inthe cerebral cortex $_ { ( P < 0 . 0 5 ) }$ . Serum levels of serine, glycine, proline,aspartate and glutamate were significantly higher while $\alpha$ -ketoglutaric acid level was significantly lower in the exposure group than in the control group $_ { ( P < 0 . 0 5 ) }$ . PCA analysis showedasignificant diference in cerebralcortex and serum metabolites between the two groups.Conclusion Chronic arsenic exposure mayafectthe function of thecentral nervous systemby interfering with aminoacid metabolismand tricarboxylic acid cycle, which may be one of the mechanisms of arsenic neurotoxicity.
+
+Key words: metabolomics; arsenic exposure; neurotoxicity; principal component analysis
+
+代谢组学是继基因组学、蛋白质组学和转录组学之后发展起来的一门新兴学科，利用气相色谱/质谱(GC/
+
+MS)、液相色谱/质谱(LC/MS）、核磁共振(NMR)等技术分析体液(如血清、尿液等）细胞和组织提取物的内源性代谢物质变化，其主要识别生物标本中小分子代谢物,能够较好地反映机体各器官功能状态[],GC/MS具有较高灵敏度、分子特异性等特点。随着仪器和分析方法的进一步完善，生物样本中越来越多差异代谢产物被检测出来，为进一步了解各疾病与代谢通路的关系提供一个有利途径。
+
+砷及化合物广泛存在于土壤、地下水、空气和食物等环境介质中，是目前威胁人群健康的主要环境污染物之一。长期饮用高砷地下水可增加患肺癌、膀胱癌、皮肤癌、肝癌等风险，1981年国际癌症研究机构已确认无机砷为人类致癌物2。越来越多的研究表明，中枢神经系统是砷神经毒性的靶目标之一，长期慢性低浓度砷暴露可损害中枢神经系统功能，增加神经退行性疾病患病风险[3、可致学龄儿童学习记忆能力降低[45]，尤其在发育时期砷暴露可能会导致大脑功能发生永久性改变[，但关于砷神经毒性具体作用机制仍不清楚。
+
+慢性砷暴露致机体器官功能紊乱是一慢性过程，受多因素影响导致机体病理生理改变和代谢紊乱，包括代谢中间产物和终产物等改变。目前越来越多的研究将代谢组学方法应用于砷毒性的研究中，有学者利用代谢组学方法筛选职业性砷暴露人群血清或尿液中的生物标志物[7-8；在动物实验研究中，通过代谢组学方法测定血浆或血清、肝脏、肾脏等脏器的代谢产物变化，用于评估砷暴露对氨基酸、脂质、嘌呤等代谢的影响[9-0],但慢性砷暴露与大脑代谢组学的研究尚无相关文献报道。因此，找出慢性砷暴露后大脑代谢产物的变化，探索相关代谢通路与砷神经毒性机制的关系显得尤为重要。皮层是中枢神经系统功能的高级区域，本研究通过建立慢性砷暴露动物模型，采用GC/MS技术对皮层和血清代谢组学的全谱进行分析，以期筛选出慢性砷暴露的差异性代谢物，从代谢组学角度为进一步研究砷神经毒作用机制提供参考。
+
+# 1 材料和方法
+
+# 1.1主要试剂及仪器
+
+主要试剂：亚砷酸钠购于上海化学试剂总厂，氯仿、甲醇、氢氧化钾、碳酸氢钠、氢氧化钠购于德国默克公司；内参标准液D4-丙氨酸、氯甲酸钾(MCF)和吡啶购于美国Sigma公司；本研究中所用化学试剂均为分析纯。
+
+仪器：美国Labconco超低温冷冻干燥系统；德国IKA公司涡旋振荡仪和高速分散机；美国安捷伦GC7890型气相色谱仪和MSD5975型质谱仪系统，上海新仪微波化学科技有限公司ECH-1型电子控温加热板，北京海光仪器有限公司原子荧光光度计。
+
+# 1.2实验动物和分组
+
+取12只清洁级3周龄C57BL/6J雄鼠(重庆医科大学动物实验中心，许可证号：SCXK（渝)2012-0001）。适应性饲养1周，根据体质量随机分为2组，每组各6只。暴露组小鼠饮用浓度为 $5 0 \mathrm { m g / L }$ 的亚砷酸钠水，对照组直接饮用蒸馏水，持续暴露12周。暴露期间小鼠全营养饲料(由重庆医科大学动物中心提供)，自由进食进水，按照自然节律采光( $1 2  { \mathrm { h } } , 1 2  { \mathrm { h } }$ 光照黑暗交替)。控制环境湿度为 $4 0 \% \sim 8 0 \%$ ，温度 $1 8 { } ^ { \circ } \mathrm { C } { \sim } 2 8 { } ^ { \circ } \mathrm { C }$ ，定期更换垫料和饮用水，观察并记录小鼠一般情况。
+
+# 1.3血液标本和脑组织采集
+
+暴露结束，将实验小鼠麻醉后快速摘眼球取血，室温静置2 $\mathrm { : ~ h , 3 0 0 0 ~ r / m i n }$ 离心 $1 0 \ \mathrm { m i n }$ ，取上层血清保存 $- 8 0 ~ \mathrm { { ^ circ C } }$ 备用。取血完成迅速颈椎脱白处死，断头，冰上快速剥离脑组织，置于干净冻存管保存于- $- 8 0 \ \mathrm { { ^ \circ C } }$ 备用。
+
+# 1.4脑砷含量的测定
+
+取脑组织样本常温解冻,准确称取 $5 0 { \pm } 5 ~ \mathrm { m g }$ 脑组织加入 $0 . 9 \%$ NaCl溶液匀浆，经微波消解仪消化后，采用氢化物发生一原子荧光光谱法测定脑砷含量。测定过程中均采用玻璃或聚乙烯制品容器，玻璃仪器经 $12 \%$ 重铬酸钾浸泡过夜后流水反复冲洗，再用去离子水冲洗烘十方可使用;聚乙烯容器用去离子水冲洗晾干后使用。脑砷含量的测定用实验室配制砷标准液进行质量控制，测定的回收率为 $9 1 . 3 \% { \sim } 1 0 7 . 6 \%$ O
+
+# 1.5样品预处理与衍生化
+
+脑组织样本预处理：取脑组织标本常温解冻，准确称质量 $5 0 { \pm } 5 ~ \mathrm { m g }$ 皮层，加入 $7 5 0 ~ \mu \mathrm { L }$ 预冷的甲醇水（1:${ } _ { 1 , v / v } )$ 去除蛋白质，加入 $2 0 ~  { \mu \mathrm { L } }$ D4-丙氨酸内参后匀浆，$1 5 \mathrm { 0 0 0 } \mathrm { r / m i n } , 4 \mathrm { \% }$ 离心 $1 0 \mathrm { m i n }$ ,取上清液于另一干净EP管。沉淀部分加入 ${ 8 0 0 \mu \mathrm { L } }$ 预冷的有机溶剂氯仿和甲醇溶液 $( 3 : 1 ; v / v )$ 作为代谢物提取溶剂，再次匀浆离心，将两次上清液混合，于 $- 1 0 5 ^ { \mathrm { ~ \circ ~ C ~ } }$ 超低温真空干燥系统抽干水分帮助代谢物质浓缩，抽干水分后将样品保存于 $- 8 0 \ \mathrm { { ^ circ C } }$ 门
+
+血清样本预处理：吸取 $1 5 0 ~  { \mu \mathrm { L } }$ 血清加到 $1 . 5 ~ \mathrm { m L }$ 干净的EP管中，加入 $2 0 ~ \mu \mathrm { L }$ D4-丙氨酸内参混匀，加入$5 1 0 ~ \mu \mathrm { L }$ 预冷的甲醇，涡旋振荡 $3 0 ~ \mathrm { s }$ ，置于 $- 2 0 \ \mathrm { { ^ circ C } }$ 保存$3 0 ~ \mathrm { m i n }$ ，于 $4 \mathrm { ^ { \circ } C } , 1 2 0 0 0 \mathrm { \ r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ,吸取 $3 5 0 ~  { \mu \mathrm { L } }$ 上清液转移至另一干净EP管，于低温真空抽干 $^ { 4 \mathrm { h } }$ ，保存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 备用。
+
+衍生化：取出样品加入 $2 0 0 ~ \mu \mathrm { L }$ NaOH,混匀20 s,转移至干净玻璃试管,依次加入 $1 6 7 ~ \mu \mathrm { L }$ 甲醇 ${ . 3 4 \ \mu \mathrm { L } }$ 吡啶涡旋振荡10s,加入 $2 0 ~ \mu \mathrm { L }$ MCF,涡旋振荡 $3 0 ~ \mathrm { s }$ ，再次加入 $2 0 ~ \mu \mathrm { L }$ MCF,涡旋振荡 $3 0 ~ \mathrm { s }$ ，加入 $4 0 0 ~  { \mu \mathrm { L } }$ 氯仿，振荡10s,加入 $4 0 0 ~ \mu \mathrm { L }$ 碳酸氢钠,振荡 $1 0 \mathrm { s } , 1 5 0 0 \mathrm { r / m i n }$ ，离心$5 \mathrm { m i n }$ ,弃去水层，加入少量无水硫酸钠吸收剩余水分，用干净一次性玻璃吸管将样本转移至专用样品管上机待测。
+
+# 1.6GC/MS分析条件
+
+气相条件：GC/MS分析的色谱和质谱的参数设置如下：系统载气及流速为 $9 9 . 9 9 9 9 \%$ 氮气；进样口温度为$2 9 0 \ \mathrm { { ^ circ C } }$ ，不分流，流速为 $1 . 0 \ \mathrm { m L / m i n }$ ;自动进样器每次进样 $1 ~ \mu \mathrm { L }$ ;清洗设置为 $2 5 ~ \mathrm { m L / m i n }$ 注射1分钟;界面温度及四级杆的温度分别为 $2 5 0 ~ \mathrm { { ^ { \circ } C } }$ 和 $2 0 0 \ \mathrm { { ^ \circ C } }$ ;毛细管柱：ZB-1701GC石英毛细管柱 $( 3 0 ~ \mathrm { m } { \times } 2 5 0 ~ \mu \mathrm { m } , 0 . 1 5 ~ \mu \mathrm { m } )$ ;色谱柱升温程序为恒温 $4 5 ~ \mathrm { { ^ \circ C } }$ 保持 $2 ~ \mathrm { m i n }$ ，以 $9 \ : \mathrm { { ‰ } }$ 升至 $1 8 0 ~ \mathrm { { ^ { \circ } C } }$ ,维持 $5 \mathrm { m i n }$ ， $4 0 \ \mathrm { { ^ circ C / m i n } }$ 升至 $2 2 0 \ \mathrm { { ^ \circ C } }$ ,维持$5 ~ \mathrm { m i n }$ $4 0 \ \mathrm { { ^ circ C / m i n } }$ 升至 $2 4 0 ~ \mathrm { { ^ circ C } }$ ,维持 $5 \mathrm { \ m i n } , 4 0 \mathrm { \Phi } ^ { \circ } \mathrm { C } / \mathrm { m i n }$ 升至 $2 8 0 ~ \mathrm { { ^ { \circ } C } }$ ,维持 $2 ~ \mathrm { m i n }$ ，当转移到质谱仪测定时维持在$2 5 0 \ \mathrm { { ^ \circ C } }$ ，离子源和四极杆温度分别为 $2 3 0 \ \mathrm { { ^ circ C } }$ 和 $1 5 0 \ \mathrm { { ^ \circ C } }$ ，仪器延迟 $5 . 5 \ \mathrm { m i n }$ 开始运行。电离方式：EI,电子能量为$7 0 \mathrm { e V }$ ，质谱全扫描范围为 $3 8 { \sim } 5 5 0 ~ \mathrm { m / z }$ ，以计数100个离子为检测阈值;质谱仪在使用前先进行校正，在上机测定后每隔6个样本利用溶剂空白进行校正。测定结果首先利用内参校正，再利用所测定组织重量进行校正。精密度测定：取同一样品溶液连续进样6次，通过计算各相对峰面积的相对标准偏差(RSD)，RSD为 $2 . 5 \% \sim$ $6 . 1 2 \%$ 表示方法具有良好的可重复性。
+
+# 1.7数据处理与统计分析
+
+采用全扫描模型和AMDIS(2.66版本)软件分析GC/MS色谱图，代谢物的鉴定采用实验室内部MCF质谱数据库与结果进行匹配，鉴定内源性标志物，选择匹配度 $5 7 0 \%$ 的内源性标志物作为鉴定结果。将代谢物质谱数据结果导人SIMCA-P11.5软件，运用PCA法分析，采用SPSS20.0统计软件作两样本t检验， $P { < } 0 . 0 5$ 差异有统计学意义。根据筛选出的特异性代谢物，利用代谢途径分析在线工具(http://www.metaboanalyst.ca/)查询相关代谢途径。
+
+# 2结果
+
+# 2.1 动物一般情况
+
+对照组小鼠进食、饮水、活动、大便等正常，被毛光泽,暴露组小鼠饮食正常，未出现动物死亡。与对照组相比,暴露组小鼠出现烦躁、易激惹，被毛出现不同程度的脱落。
+
+# 2.2 脑砷含量变化
+
+经氢化物发生一原子荧光光谱法测定结果显示：暴露组脑砷含量高于对照组(对照组： $0 . 2 1 { \pm } 0 . 0 3 ~ \mu \mathrm { g / g }$ ，暴露组： $2 . 3 2 { \pm } 0 . 1 8 ~ \mu \mathrm { g / g } )$ ,差异有统计学意义 $( P { < } 0 . 0 5 )$ 。
+
+# 2.2代谢组学测定结果
+
+暴露组和对照组皮层、血清样本总离子流图如图1所示。
+
+GC/MS结果根据MCF质谱数据库鉴定皮层、血清样本色谱图，得到匹配度较好的代谢物分别有80和56种，采用SIMCA-P软件PCA法分析二维分布图和载荷图(图2)，如PCA模型图所示，暴露组和对照组可以明显区分开，提示两组样本具有不同代谢特征；载荷图提示组间存在差异性化合物，对差异性化合物进行两样本t检验，结果显示皮层和血清分别有7种和15种代谢物组间差异有统计学意义( $\scriptstyle \cdot < 0 . 0 5$ ,表1),利用代谢途径在线分析工具查询差异性代谢物影响的相关代谢途径(表2)。
+
+# 3讨论
+
+砷是环境中重要的神经毒物，动物实验表明慢性砷暴露可扰乱中枢神经系统功能，降低小鼠的学习记忆能力[]；Rodriguez[12]和 $\mathrm { K i m } ^ { [ 1 3 ] }$ 通过自由饮水方式给C57BL/6J成年雄鼠染毒,暴露剂量为1、10、50和 $1 0 0 ~ \mathrm { { m g / L } }$ 亚砷酸钠，4周后， $5 0 ~ \mathrm { { m g / L } }$ 组表现为神经行为受损，没有明显中毒症状。因此,本实验采用的染毒剂量为 $5 0 \mathrm { m g / L }$ 三周龄雄鼠连续暴露12周，通过测定脑砷含量发现暴露组高于对照组，表明砷能够通过血脑屏障在脑组织蓄积发挥其神经毒性，即慢性砷暴露小鼠模型成功建立，与文献报道一致[14]
+
+![](images/8af62d160d1b9fe4829fde460088900c2b72cebadfae6ec3e2e71efdbd690f93.jpg)  
+图1皮层组织和血清GC/MS总离子流图 Fig.1 GC/MS total ion chromatogram of brain cortex and serum samples.A,B: Total ion chromatogram of the cortex in exposed and control groups,respectively; $c , D$ Total ion chromatogram of the serum in exposed and control groups,respectively.
+
+慢性砷暴露可干扰机体氨基酸代谢[10],氨基酸是蛋白质的基本组成单位，当发生氨基酸代谢紊乱时将影响机体各器官功能。本研究发现砷暴露组大脑皮层中苯丙氨酸、酪氨酸、组氨酸和赖氨酸含量升高，血清中丝氨酸和甘氨酸含量升高，提示慢性砷暴露可引起大脑皮层和血清氨基酸代谢紊乱。苯丙氨酸是合成酪氨酸的前体氨基酸，而酪氨酸通过合成神经递质多巴胺、去甲肾上腺素和肾上腺素等影响中枢和外周神经系统功能，与工作记忆能力密切相关[15-17];多巴胺在大脑许多功能如运动、认知和内分泌调节中扮演重要角色，有报道砷可能通过干扰多巴胺的神经传递发挥神经毒性[13]。组氨酸在机体进行脱羧形成的组胺是体内一种化学传导物质，具有抑制促炎性因子产生和产生抗炎性因子的作用，并同时参与机体睡眠、体温调节和记忆的形成，有研究表明中枢神经系统炎症反应与学习认知功能障碍有关[18-19];此外,赖氨酸合成左旋肉碱的重要功能除促进脂肪酸转化为能量物质外，还与脑功能障碍和海马神经元保护作用息息相关[20-21]。丝氨酸主要是通过甘氨酸进行合成，丝氨酸和甘氨酸在大脑中主要参与神经递质、DNA和蛋白质的合成，与大脑发育和神经系统功能紧密相关[22-23]。目前研究表明,氨基酸类神经递质代谢异常与阿尔兹海默症、抑郁症、学习与记忆能力相关[24-26]。因此，慢性砷暴露可能通过干扰皮层和血清氨基酸类代谢，导致神经递质合成障碍以及干扰能量代谢而影响中枢神经系统功能。
+
+![](images/a85c25d3a20b41e5cdfd9029c7b20f7f30dad8d5eedc73fb2927a7d9b962d633.jpg)  
+图2皮层、血清样本PCA得分图和载荷图 Fig.2PCAscoringdiagramandloaddiagramofbrain cortexandserumsample.A,B: CortexscoringplotsofPCAandloadingplots of exposed group, respectively; $c ,$ D: Serum scoring plots of PCA and loading plots of the control group, respectively.
+
+表1砷暴露组和对照组小鼠皮层、血清差异性代谢物 Tab.1 Difference in cortex and serum metabolites in the exposed and control group:   
+
+<html><body><table><tr><td rowspan="2">Tissue</td><td rowspan="2">Metabolite</td><td rowspan="2">Match percent (%)</td><td rowspan="2">Retention time (min)</td><td colspan="2">Peak value (Mean±SD)</td></tr><tr><td>Control group (n=6)</td><td>Exposed group (n=6)</td></tr><tr><td>Cortex</td><td>Citric acid</td><td>76</td><td>16.599</td><td></td><td>14 496 082.67±427477.9210 259 037.00±382 946.90b</td></tr><tr><td></td><td>Lysine</td><td>82</td><td>26.656</td><td>7 980 448.00±282 324.65</td><td>5 459 786.33±231 046.83b</td></tr><tr><td></td><td>Phenylalanine</td><td>96</td><td>20.300</td><td>3 257 108.67±19 2362.29</td><td>2 202 846.00±183 711.12b</td></tr><tr><td>Serum</td><td>Histidine</td><td>85</td><td>27.538</td><td>439 262.00±39 944.54</td><td>318 852.33±38 844.17a</td></tr><tr><td rowspan="10"></td><td>Tyrosine</td><td>87</td><td>28.962</td><td>3 476 661.33±582 892.89</td><td>1627 937.67±142 333.73b</td></tr><tr><td>Cabamic acid</td><td>88</td><td>5.626</td><td>442 235.66±39 867.61</td><td>991 093.72±257 837.10a</td></tr><tr><td>Itaconic acid</td><td>87</td><td>10.393</td><td>153 580.52±24 004.79</td><td>264 556.00±58 823.36a</td></tr><tr><td>Aspartic acid</td><td>85</td><td>16.587</td><td>84 672.00±10 788.41</td><td>540 375.67±71 145.78b</td></tr><tr><td>Tridecane</td><td>72</td><td>11.380</td><td>23 110.33±4064.03</td><td>38 001.67±4083.49a</td></tr><tr><td>Glutamic acid</td><td>95</td><td>18.465</td><td>92 849.00±27 443.99</td><td>436 752.00±87 819.02b</td></tr><tr><td>2-Hydroxyisobutyric acid</td><td>80</td><td>10.693</td><td>24 950.00±5488.662</td><td>7081.00±3016.17"</td></tr><tr><td>Serine</td><td>71</td><td>17.681</td><td>33 479.00±540.262</td><td>51 557.33±4998.24a</td></tr><tr><td>1,4-Benzenedicarb-oxylic acid</td><td>86</td><td>16.337</td><td>44 544.33±1456.37</td><td>34 100.00±355 260a</td></tr><tr><td>Margaric acid</td><td>83</td><td>22.916</td><td>24 909.33±3797.62</td><td>15 832.00±2440.64a</td></tr><tr><td></td><td>EPA</td><td>86</td><td>27.180</td><td>29 568.00±6508.24</td><td>15 797.67±4421.45a</td></tr><tr><td>Pyroglutamic acid</td><td></td><td>90</td><td>16.694</td><td>49 099.33±8103.90</td><td>117 633.67±29 132.63a</td></tr><tr><td>Proline</td><td></td><td>98</td><td>15.288</td><td>1 170 313.67±54 312.12</td><td>2 207 812.00±415 679.34a</td></tr><tr><td>α-Ketoglutaric acid</td><td></td><td>78</td><td>13.347</td><td>20 996.00±5861.92</td><td></td></tr><tr><td>Hydrazine,(2-methylpropyl)-</td><td></td><td>80</td><td>11.360</td><td>44547.33±6972.17</td><td>8085.33±1611.08a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>98 975.67±26 368.13</td></tr><tr><td></td><td>Glycine</td><td>96</td><td>11.714</td><td>780 663.67±6 900 693</td><td>1 109 000.67±179 025.25a</td></tr><tr><td>3-Methyl-2-oxopentanoic acid</td><td>Cyclodecasiloxane, eicosamethyl-</td><td>80 79</td><td>24.583 8.056</td><td>4962.33±1462.94 45 450.00±16 695.75</td><td>38 594.67±19 312.57a 18 916.00±4523.02a</td></tr></table></body></html>
+
+$^ { \mathrm { a } } P { < } 0 . 0 5$ $^ { \mathrm { { b } } } P { < } 0 . 0 1$ vs control group.
+
+表2皮层、血清差异性代谢物影响的相关代谢途径 lab.2 Cerebral cortex and serum related metabolic pathways of different metabolites   
+
+<html><body><table><tr><td>Metabolite</td><td>Chemical formula</td><td>HMDB ID</td><td>Related metabolic pathway</td></tr><tr><td>Aspartic acid</td><td>C4HNO4</td><td>HMDB06483</td><td>Alanine,aspartic acid,and glutamic acid metabolism</td></tr><tr><td>Serine</td><td>C3HNO3</td><td>HMDB00187</td><td>Glycine,serine,threonine and sphingolipid metabolism; aminoacyl-tRNA biosynthesis</td></tr><tr><td>Pyroglutamic acid</td><td>C5HNO3</td><td>HMDB00267</td><td>Glutathione metabolism</td></tr><tr><td>Proline</td><td>C5H,NO2</td><td>HMDB00162</td><td>Aminoacyl-tRNAbiosynthesis</td></tr><tr><td>Glycine</td><td>C2H5NO2</td><td>HMDB00123</td><td>Glycine,serine,threonine,glutathione and porphyrin metabolism; aminoacyl-tRNA biosynthesis</td></tr><tr><td>Lysine</td><td>C6H14NO2</td><td>HMDB00182</td><td>Aminoacyl-tRNA biosynthesis; biotin metabolism; lysine degradation</td></tr><tr><td>Phenylalanine</td><td>C9H1NO2</td><td>HMDB00159</td><td>Phenylalanine,tyrosine,tryptophan andaminoacyl-tRNA biosynthesis; phenylalanine metabolism</td></tr><tr><td>Histidine</td><td>C6HNO2</td><td>HMDB00177</td><td>Aminoacyl-tRNA biosynthesis;nitrogen and histidine metabolism</td></tr><tr><td>Tyrosine</td><td>C9H1NO3</td><td>HMDB00158</td><td>Phenylalanine,tyrosine and tryptophan biosynthesis; phenylalanine and tyrosine metabolism</td></tr><tr><td>EPA</td><td>C20H30O2</td><td>HMDB01999</td><td>Unsaturated fatty acid biosynthesis</td></tr><tr><td>α-Ketoglutaric acid</td><td>C5HO5</td><td>HMDB00208</td><td>Butyrate metabolism</td></tr><tr><td>Citric acid</td><td>C6H8O7</td><td>HMDB00094</td><td>Lysine biosynthesis; tricarboxylic acid cycle;glyoxylate metabolism</td></tr></table></body></html>
+
+慢性砷暴露也可干扰能量代谢[27]，三羧酸循环是糖类、脂类、氨基酸的最终代谢通路和代谢联系枢纽，是机体获得ATP的主要方式。本研究发现砷暴露组皮层中柠檬酸含量升高，柠檬酸作为三羧酸循环的重要中间代谢产物，其含量升高提示三羧酸循环异常。线粒体是三羧酸循环和有氧呼吸的主要场所，有报道大脑内线粒体功能异常可能会导致神经和认知功能障碍，而慢性砷暴露可抑制有氧呼吸中ATP的产生[28-29]。砷暴露组血清中脯氨酸、天门冬氨酸、谷氨酸含量升高、 $\mathbf { \Omega } _ { \cdot } \mathbf { a }$ -酮戊二酸含量下降,与Garcia和Zheng研究结果一致[9.30]。 $\mathbf {  { a } }$ -酮戊二酸、丙酮酸和天门冬氨酸、谷氨酸等是三羧酸循环的中间代谢产物。 $\mathfrak { a }$ -酮戊二酸经转氨基作用与谷氨酰胺形成谷氨酸，谷氨酸是合成脯氨酸、天门冬氨酸的前体氨基酸，过多的谷氨酸在体内产生神经毒性和转化为丙酮酸[27.31],丙酮酸是一种抗毒性物质与中枢神经系统的神经元保护作用有关[32]。因此本研究结果提示慢性碑暴露可通过影响皮层和血清能量代谢从而造成对神经系统的影响。
+
+综上所述，本研究结果提示利用代谢组学方法可发现慢性砷暴露致血清和大脑皮层与氨基酸类代谢和能量代谢相关指标的差异，且血清代谢组学不能完全反映砷暴露对大脑皮层代谢组学的影响。
+
+# 参考文献：
+
+[1]Wang Y,Guo X,Xie J,et al.A GC-MS based metabonomics study ofrheumatoid arthritis and the interventional effects of the simiaowan in rats[J].Molecules,2015,20(12): 21364-72.   
+[2]Wang C,Feng R,Li Y,et al. The metabolomic profiling of serum in rats exposed to arsenic using UPLC/Q-TOF MS[J]. Toxicol Lett, 2014,229(3): 474-81.   
+[3]Sun BF,Wang QQ，Yu ZJ,et al.Exercise prevents memory impairment induced by arsenic exposure in mice:implication of hippocampal BDNF and CREB[J]．PLoS One,2015,10(9): e0137810.   
+[4]Wasserman GA,Liu X,Parvez F,et al. Child inteligence and reductions in water arsenic and Manganese: a two-year follow-up study in Bangladesh[J].Environ Health Perspect,2015,124(7): 1114-20.   
+[5]Wasserman GA,Liu X,Loiacono NJ, et al. A cross-sectional study of well water arsenic and child IQ in Maine schoolchildren[J]. Environ Health,2014,13(1): 23.   
+[6]Yorifuji T,Kato T,Ohta H,et al.Neurologicaland neuropsychological functionsinadultswith a historyof developmental arsenic poisoning from contaminated milk powder [J]. Neurotoxicol Teratol,2016,53:75-80.   
+[7]Dudka I, Kossowska B,Senhadri H,et al. Metabonomic analysis of serum of workers occupationally exposed to arsenic,cadmium and lead for biomarker research: a preliminary study[J].Environ Int, 2014, 68: 71-81.   
+[8] Zhang J, Shen H,Xu W, et al. Urinary metabolomics revealed arsenic internal dose-related metabolic alterations:a proof-ofconcept study in a Chinese male cohort[J].Environ Sci Technol, 2014, 48(20): 12265-74.   
+[9] Garcia-Sevillano MA, Contreras-Acuna M, Garcia-Barrera T, et al. Metabolomic study in plasma,liver and kidney of mice exposed to inorganic arsenic based on mass spectrometry[J].Anal Bioanal Chem,2014,406(5): 1455-69.   
+[10]Wang X, Mu X, Zhang J, et al. Serum metabolomics reveals that arsenic exposure disrupted lipid and amino acid metabolism in rats: astep forward in understanding chronic arsenic toxicity [J]. Metallomics,2015,7(3): 544-52.   
+[11]Mao G,Zhou Z,Chen Y,et al.Neurological toxicity of individual and mixtures of low dose arsenic,mono and Di(n-butyl) phthalates on sub-chronic exposure to mice[J].Biol Trace Elem Res,2016,170 (1): 183-93.   
+[12]Rodriguez VM,Limón-Pacheco JH,Del Razo LM,et al. Effects of inorganic arsenic exposure on glucose transporters and insulin receptor in the hippocampusof C57BL/6 male mice[J]. Neurotoxicol Teratol, 2016,54: 68-77.   
+[13]Kim M,Seo S, Sung K,et al. Arsenic exposure in drinking water alters the dopamine system in the brains of C57BL/6 mice[J]. Biol Trace Elem Res,2014,162(1/3): 175-80.   
+[14] Guan H,Li S,Guo Y,et al. Subchronic exposure to arsenic represses the TH/TRβ1-CaMK IV signaling pathway in mouse cerebellum[J]. Int JMol Sci,2016,17(2): 157.   
+[15]Monleon D,Garcia-Valles R,Morales JM,et al.Metabolomic analysis of long-term spontaneous exercise in mice suggests increased lipolysis and altered glucose metabolism when animals are at rest[J]. JAppl Physiol (1985),2014,117(10): 1110-9.   
+[16]Van De Rest O,Van Der Zwaluw N L,De Groot L C.Literature review on the role of dietary protein and amino acids in cognitive functioning and cognitive decline [J].Amino acids,2013,45(5): 1035-45.   
+[17]Moreno A，Limon-Pacheco JH,Giordano M，et al. Chronic exposure to arsenic in drinking water causes alterationsin locomotor activity and decreases striatal mRNA for the D2 dopamine receptor in CD1 male mice[J]. JToxicol,2016: 4763434.   
+[18]Thomas CM,Hong T, Van Pijkeren JP,et al.Histamine derived from probiotic Lactobacillus reuteri suppresses TNF via modulation of PKA and ERK signaling[J]. PLoS One,2012,7(2): e31951.   
+[19]Murray C, Sanderson DJ,Barkus C,et al. Systemic inflammation induces acute working memory deficits in the primed brain: relevance for delirium[J].Neurobiol Aging,2012,33(3): 603-16.   
+[20] Trushina E,Dutta T,Persson XM,et al.Identification of altered metabolic pathways in plasma and CSFin mild cognitive impairment and Alzheimer's disease using metabolomics [J]. PLoS One,2013,8(5): e63644.   
+[21] Goo MJ, Choi SM,Kim SH, et al. Protective effects of acetylL-carnitine on neurodegenarative changes in chronic cerebral ischemia models and learning-memory impairment in aged rats[J] Arch Pharm Res,2012,35(1): 145-54.   
+[22]Tabatabaie L,Klomp LW, Berger R,et al.L-serine synthesis in the central nervous system: a review on serine deficiency disorders[J]. Mol Genet Metab,2010,99(3): 256-62.   
+[23]Huang Y, Tian Y,Li G,et al.Discovery of safety biomarkers for realgar in rat urine using UFLC-IT-TOF/MS and 1H NMR based metabolomics[J].Anal Bioanal Chem,2013,405(14): 4811-22.   
+[24]Xiong XJ, Guo XF, Ge XX,et al. Determination of neurotransmiter amino acids in mouse central nervous system by CE-LIF[J]. J Sep Sci,2013,36(19):3264-9.   
+[24] Zhou XJ,Liu M, Yan JJ,et al. Antidepressant-like effect of the extracted ofKai Xin San,a traditional Chinese herbal prescription, isexplained by modulation of the central monoaminergic neurotransmiter system in mouse[J].JEthnopharmacol,2012,139 (2): 422-8.   
+[26]Wu CR,Lin HC, Su MH.Reversal by aqueous extracts of Cistanche tubulosa from behavioral deficits in Alzheimer's disease-like rat model: relevance for amyloid deposition and central neurotransmiter function[J].BMC Complement Altern Med,2014,14: 202.   
+[27]Garcia-Sevillano MA, Garcia-Barrera T, Navarro F, et al. Shotgun metabolomic approach based on mass spectrometry for hepatic mitochondria of mice under arsenic exposure[J]. Biometals,2015, 28(2): 341-51.   
+[28]Prakash C,Soni M,Kumar V. Biochemical and molecular alterationsfollowingarsenic-inducedoxidativestressand mitochondrial dysfunction in rat brain[J].Biol Trace Elem Res, 2015,167(1): 121-9.   
+[29]Paglia G,Stocchero M,Cacciatore S,et al.Unbiased metabolomic investigation of alzheimer's disease brain points to dysregulation of mitochondrial aspartate metabolism[J].JProteome Res,2016,15 (2): 608-18.   
+[30]Zheng P. Neuroactive steroid regulation of neurotransmiter release in the CNS:action,mechanism and possible significance[J].Prog Neurobiol,2009,89(2): 134-52.   
+[31] Wei L,Liao P,Wu H,et al.Metabolic profiling studies on the toxicological effects of realgar inrats by (1)HNMR spectroscopy [J].Toxicol ApplPharmacol,2009,234(3):34-5.   
+[32] Miao Y, Qiu Y,Lin Y,etal.Protection by pyruvateagainst glutamate neurotoxicity ismediated by astrocytes through a glutathione-dependent mechanism[J]. Mol Biol Rep,2011,38(5): 3235-42.
+
+（编辑：吴锦雅）

@@ -1,0 +1,387 @@
+# 基于改进遗传算法的SDN多控制器负载均衡机制研究
+
+徐爱鑫1,²，孙士民1,2†，汪晓凡1,²，徐国威1,²，王美玉1,2(1．天津工业大学 软件学院，天津 300387;2．天津市自主智能技术与系统重点实验室，天津 300387)
+
+摘要：为解决软件定义网络中多控制器负载失衡问题，提出了一种基于非合作博弈降载的主控制器重选模型。首先，利用动态阈值来判别过载控制器。其次，采用基于优先权的迁移交换机决策机制。最后，构建以控制器集群的负载均衡度、平均总时延和交换机迁移成本作为效用函数的优化模型，采用改进的遗传算法求解，加入相似算子提高寻求全局最优解的速度及准确度。实验结果表明，该机制有效地均衡了控制平面的负载并优化了网络性能。
+
+关键词：软件定义网络；非合作博弈；负载均衡；交换机迁移；遗传算法；算子 中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2022.02.0070
+
+SDN multi-controller load balancing mechanism based on improved genetic algorithm
+
+Xu Aixin1,², Sun Shimin1,2t, Wang Xiaofan1,²2, Xu Guowei1,2, Wang Meiyu1, 2 (1.SchoolofSoftware,iangongUniversityanji3387,China;2.TianjinKeyLaboratoryofAutonomousIeligt Technology& System,Tianjin 300387,China)
+
+Abstract:This paper proposed the Non-cooperative Game Theory-basedof load-reduction Master Controler Reselection model in Software Defined Networking to adress the multi-controller load imbalance problem,called GTMCR.To begin with,the discriminating overloadcontrolerutilizedthe Overload Dynamic Thresholds approach (ODT).Next,themigration of switches folowed aPriority Decision Switching Strategy(PDSS).Finally,theconstructed optimization modeltook the loadbalancingdegreeofcontrolerclusters,averagetotaldelayand switch migrationcostas utilityfunctions.To preventthe global optimal solution from slippng into the local optimum,the solution value of optimal deployment used the Genetic Algorithm for Improved Multi-objective Optimization (GAIMO)with the additionofa similarityoperator to boost the algorithm'sconvergence speed and the acuracyofthe global optimal solution.Theexperimental results show that this mechanism efectively balances the control plane load while achieving the goal of optimizing network performance.
+
+Keywords:softwaredefinednetworking(SDN); non-cooperativegame;loadalancing;switchmigration; geneticalgoritm;oator
+
+# 0 引言
+
+软件定义网络[1](software defined networking,SDN)是一种新型的互联网体系架构，不仅实现了控制层与数据层的分离，还通过控制器的集中控制来实现对网络灵活便捷的配置和管理。但是，由于网络规模和流量规模的动态变化，控制器可能会发生负载失衡，从而导致网络无法正常运行，过载控制器还可能因此遭受恶意流量的网络攻击，影响网络的正常通信，这给稳定高效的网络服务带来了新的挑战。因此，研究多控制器间的负载均衡具有重要意义。
+
+目前，多控制器部署大多通过静态部署方式来完成[2.3].在实际通信环境中，网络流量是动态变化的。因此，设计动态的控制器与交换机映射机制，以缩短控制器响应时间并更好地利用控制器资源，对提高SDN控制平面的可扩展性和可靠性具有重要作用。刘毅等人[4]针对SDN 动态流量变化所引起的控制器负载不均衡问题，提出了一种仅以最小迁移代价为目标的阶段式动态负载均衡策略，未考虑其他优化目标。Huang等人[5提出了基于聚类的遗传算法与合作集群(CGA-CC)来解决动态控制器部署问题，采用针对所有控制器上的请求分配概率的调度算法来平衡调度性能和可扩展性之间的权衡，没有在指标权重分配上进行细致描述，其算法实现的负载均衡程度有限。Adekoya等人l采用动态映射交换机迁移决策算法ISMDA(improved switch migration decisionalgorithm)，通过迁移模型来对迁移交换机的流量容量限制选择最优的控制器部署方案，但需要进一步实验来验证算法的可行性和有效性。
+
+综合考虑目前的控制器部署方案[7是通过实施多控制器之间的交换机迁移从而实现负载均衡的目标。面临的主要问题为：从控制器的角度来看，如何判定过载状态以及迁移哪台交换机实现主从控制器重映射达到控制平面的负载均衡；从交换机的角度来看，考虑映射到哪台目标控制器来实现负载均衡以及如何设计动态的控制器和交换机的映射目标。
+
+# 1 相关工作
+
+近年来，对于多控制器中判定过载控制器的研究，Lan等人[8提出一种预先定义负载权重的动态自适应的负载均衡策略，设定控制器的权重系数，大幅度减小了通信的流开销，但在控制器响应时间方面表现不佳。Mokhtar等人[9]提出了多阈值负载均衡切换迁移方案，引入传输负载信息的指示器，通过渐进动态调整阈值来实现控制器之间的持续负载均衡，指示器会增加负载均衡的计算成本且实时性较差。
+
+待迁移交换机的选择大多采用随机原则，传统的方式未考虑迁入域的负载容易导致二次过载。因此，Xiao 等人[0]提出了一种用于SDN 控制平面的交换机迁移决策方案(DMSSM),提出了迁移效益模型来解决迁移决策问题,形成迁出域交换机集合，通过负载均衡率和传输时延衡量迁出的交换机，但是未考虑到迁移时的总时延。Sahoo等人[1设计了最小化控制器间负载差异为目标的负载均衡算法来选取待迁移交换机，但是未考虑到控制器的负载容量，负载容量小的控制器在迁移后导致过载，因此可能会触发错误的交换机迁移。Zhong 等人[12]提出了一种基于预测的 SDN负载均衡双重交换机迁移方案。该方案将过去的流量负载作为历史数据来预测未来的流量负载，并减少了交换机迁移的频率，但预测流量需要一定的时间进行预测处理，无疑增加了计算成本
+
+对于待迁移交换机部署目标控制器的问题，Yuan等人[13]提出一种基于控制器分配方案的遗传算法(GAPA)来解决控制器的配置问题，该方法在降低SDN交换机与控制器之间的平均传播时延方面具有良好的性能，并能实现控制器之间更好的平衡，针对平均传播延迟进行寻最优值从而获得分配结果，但其交叉和变异的遗传算子采用的是传统固定值的方式，从而使得错失最优部署方案，在寻优方面的效果不佳。Mohanty等人[14]提出了一种有效的基于遗传算法的控制器布局求解方法(ProposedGA)，使传播延迟和优化成本最小化，以找到成本最小的控制器的最优位置，但算法的收敛速度慢，从而导致部署时间太长以及映射策略并不高效。Ibrahim等人[15]提出了遗传算法(GA)来确定控制器部署的最佳位置和数量，以最小化时延为优化目标，最大限度地减少迭代次数，并确保控制器之间的负载平衡，但算法中的选择算子使得出的策略并不是十分合理。
+
+针对多目标优化选取目标控制器考虑负载均衡方案对网络性能带来的影响，Schutz等人[16]提出了控制器部署的全面数学形式化，根据传播延迟和控制器的能力确定了交换机与控制器的映射分配关系，同时保持控制器之间的平衡负载分布，但是其只针对平均传播延迟进行寻最优值从而获得分配结果，发送以及处理时延还未考虑进去。Ibrahim等人[17]提出了一种贪婪随机搜索(GRS)算法用来解决节点与控制器的动态分配问题，通过控制器的位置、数量的分配达到最大的资源利用率以实现负载平衡，使用这样的策略要求控制器的位置正确，以提高网络的可靠性和成本效益，但除了资源利用率外未考虑到其他因素。Zhong等人[18]提出了评估预测的收益(APOP)方案，这是一种基于过载状态预测和收益评估的多控制器控制平面的负载均衡策略，但它只考虑了负载均衡程度，没有考虑优化通信延迟等其他网络性能因素。
+
+就目前的文献调查情况，为尽可能地减少计算成本和响应延迟，本文对过载控制器选取遵循动态阈值方法。选择待迁移交换机综合考虑了流量变化、负载容量和迁移距离，采用基于优先权的方式进行选取。对目标控制器的选取采用改进的遗传算法，通过引入相似算子加快收敛速度的同时，调整选择、交叉和变异算子确保达到最佳部署策略。结合待迁移交换机与主控制器的重新选取，考虑迁移前后对网络性能的影响，设计的优化目标综合考虑以下指标：控制器上的负载是均匀的，尽可能提升控制器的资源利用率，减少控制平面与数据平面通信的总时延，并尽可能降低交换机迁移的成本。通过以上的交换机迁移方式进行控制平面负载的分配，进而为多控制器负载均衡策略的研究提供解决方案和建模思路。
+
+# 2 分析与建模
+
+# 2.1 SDN分布式网络模型
+
+网络模型 $G = ( V , E )$ ，节点和链路的集合分别为 $V$ ， $E$ 。网络中的 $n$ 台控制器和 $\mathbf { \nabla } _ { m }$ 台交换机分别表示为 $C = \{ C _ { 1 } , C _ { 2 } . . . C _ { n } \}$ （204号和 $S = \{ S _ { 1 } , S _ { 2 } . . . S _ { m } \}$ 。以映射矩阵(1)来表示网络节点之间的链路情况。按照控制器的管控范围划分成若干子域，其子域包括控制器及其管控的交换机。在多控制器架构下，依据交换机访问权限不同，OpenFlow1.3协议定义了三种不同角色功能的控制器，它们分别是等价控制器、主控制器和从控制器。其中，主控制器和等效控制器负责管理和控制交换机，但是从控制器只能读取交换机状态而不能对交换机进行管理。
+
+$$
+\begin{array} { r } { \begin{array} { c c c c c } { C _ { 1 } } & { C _ { 2 } } & { \cdots } & { C _ { n } } \\ { S _ { 1 } \left( a _ { 1 1 } } & { a _ { 1 2 } } & { \cdots } & { a _ { 1 n } \right) } \\ { S _ { 2 } \left( \begin{array} { c c c c c } { a _ { 2 1 } } & { a _ { 2 2 } } & { \cdots } & { a _ { 2 n } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { a _ { m 1 } } & { a _ { m 2 } } & { \cdots } & { a _ { m n } } \end{array} \right) } \end{array} } \\ { \vdots \qquad \left. \begin{array} { c c c c } { S _ { m } \left( \begin{array} { c c c c c } { \boxed { 1 } } & { \boxed { 2 } } & { \cdots } & { a _ { m } } \end{array} \right) } & & \\ { \vdots \qquad \vdots } & { \ddots } & { \vdots } \\ { S _ { m } \left( \begin{array} { c c c c c } { a _ { m 1 } } & { a _ { m 2 } } & { \cdots } & { a _ { m n } } \end{array} \right) } & & \end{array} \right\} } \end{array}
+$$
+
+J1,控制器Cj是交换机S的主控制器其中，a=0控制器C是交换机s的从控制器或等价控制器
+
+# 2.2基于非合作博弈的纯策略纳什均衡模型
+
+非合作博弈是在利益相互影响的局势中如何决策使自己的收益最大，即策略选择问题。对于如何决策目标控制器的部署策略使效用函数值最大的问题，本文对SDN网络构建非合作博弈模型。博弈模型可用三元组表示为Game $= \{ Q , P , U \}$ ，博弈的三要素如下：
+
+a)参与者 $\varrho$ ：除过载控制器之外，未过载的从控制器作为参与者。式(2)中 $C _ { r }$ 表示过载控制器集合。
+
+$$
+\boldsymbol { Q } = \{ C _ { t } , t \in ( 1 , 2 . . . \mathrm { r } - 1 , r + 1 . . . n ) \}
+$$
+
+b)策略集合 $P$ ：纯策略是指选择某个策略的概率为0或1，即参与者只使用策略集合中的一条策略。过载控制器 $C _ { r }$ 将控制子域下的交换机 ${ \cal S } _ { i } ( i \in ( { \cal I } , m ) )$ 迁移至目标控制器 $C _ { k }$ 。博弈将在控制器集合 $\varrho$ 之间进行，在选定博弈对手 $C _ { t }$ 后，每个参与者具有两个纯策略，可用式(3)表示：
+
+$$
+P _ { k } = \left\{ C _ { k } { \mathrm { ~ a c c e p t } } S _ { j } , C _ { k } { \mathrm { ~ r e j e c t } } S _ { j } \right\}
+$$
+
+c)效用函数 $U$ ：所有参与者在某一组特定策略组合下的效用。它包含控制器的负载、交换机与控制器之间的总时延和交换机的迁移成本。
+
+定义1基于控制器负载均衡度的效用函数。在与控制器通信的交互报文中，来自于各交换机的数据报文占主导，如Packet_In报文。因此，本文采用控制器处理的Packet_In报文数量来计算控制器负载。 $R _ { j }$ 为控制器 $C _ { j }$ 单位时间内最大Packet_In数据报文处理量， $r _ { i }$ 为交换机 $S _ { i }$ 单位时间内产生的Packet_In数据报文的数量， $M$ 为待迁移交换机的个数，则可用式(4)来计算控制器的负载。
+
+$$
+L _ { c _ { j } } = \frac { \displaystyle \sum _ { i = 1 } ^ { M } r _ { i } \times \mathbf { a } _ { i j } } { R _ { j } }
+$$
+
+控制器的平均负载程度可用式(5)来表示。
+
+$$
+\overline { { L _ { c } } } = \frac { \displaystyle \sum _ { j = 1 } ^ { n } L _ { c _ { i } } } { n }
+$$
+
+为反映SDN控制平面的负载均衡分布情况，采用控制器集群负载均衡度 $u _ { I }$ 来衡量，通过标准差得到控制器间的负载差异度，如式(6)。
+
+$$
+\mathbf { u } _ { 1 } = { \sqrt { \frac { \displaystyle \sum _ { j = \infty } ^ { n } \left( L _ { c _ { 1 } } - { \overline { { L _ { c } } } } \right) ^ { 2 } } { n } } }
+$$
+
+定义2基于交换机与控制器之间平均时延的效用函数。交换机与控制器之间的时延决定了决策下发的实时性，关系到网络的整体性能。数据报文在交换机与控制器之间的时延主要包括传播时延和网络拥塞时的排队时延。采用交换机到控制器的平均总时延来作为衡量标准如式(7)，其中 $T _ { i j }$ 为交
+
+换机 $S _ { i }$ 到控制器 $C _ { j }$ 的总时延。
+
+$$
+\mathbf { u } _ { 2 } = { \frac { \displaystyle \sum _ { j = 1 } ^ { m } \sum _ { j = 1 } ^ { n } \mathbf { T } _ { \mathfrak { m } } \times \mathbf { a } _ { i } } { \mathfrak { m } } }
+$$
+
+定义3基于交换机迁移平均成本的效用函数。在交换机迁移过程中，实现交换机的控制权转移要经过复杂的角色转换过程。当确定了待迁移的交换机时，控制器在域内将FlowMod等规则安装到迁移交换机，开销 $P _ { I }$ 如式(8)。
+
+$$
+P _ { j } = \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } \mathbf { a } _ { j } \cdot I _ { j } \cdot \boldsymbol { \tau }
+$$
+
+其中， $\boldsymbol { \tau }$ 表示流表安装数据包(包括Flow_Mod消息数据包等)的平均大小， $l _ { i j }$ 为交换机 $S _ { i }$ 到目标控制器 $C _ { j }$ 的最短可达节点间链路长度。
+
+交换机迁移的通信成本来自于部署流策略产生的代价，它主要受通信需要迁移的消息数目及大小所影响，包括迁移交换机与迁入、迁出控制器之间的通信成本 $P _ { C }$ 如式(9)所示。$\boldsymbol { \varepsilon }$ 表示交换机平均通信消息数据包大小(包括Packet_In数据包等)， $a ^ { 0 } { } _ { i j }$ 和 $a _ { i j }$ 分别表示迁移前后待迁移交换机 $S _ { i }$ 与目标控制器 $C _ { j }$ 之间的映射关系。
+
+$$
+P _ { C } = \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } \bigl [ \bigl ( a _ { i j } ^ { 0 } \cdot l _ { j } \bigr ) + \bigl ( a _ { i j } \cdot l _ { j } \bigr ) \bigr ] \cdot \varepsilon
+$$
+
+当迁移交换机向目标控制器发送流请求时，生成迁移请求成本 $P _ { M }$ 如式(10)所示。其中， $\zeta$ 为交换机 $S _ { i }$ 进行迁移请求消息数据包(包括Role-Request消息数据包等)的平均大小。
+
+$$
+P _ { M } = \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } \mathbf { a } _ { i } \cdot l _ { i } \cdot \boldsymbol { \zeta }
+$$
+
+交换机迁移数可以用式(11)表示为
+
+$$
+\lambda = \frac { 1 } { 2 } \sum _ { i = 1 } ^ { n } \sum _ { i = 1 } ^ { n } \left( a _ { a } ^ { a } - a _ { 4 } \right) ^ { 2 }
+$$
+
+本文综合考虑了迁移规则流表安装成本 $P _ { \mathrm { I } }$ 、通信成本$P _ { C }$ 和迁移请求成本 $P _ { M \circ }$ 式(12)表示平均迁移成本 $u _ { 3 }$ 。
+
+$$
+\mathbf { u } _ { 3 } = \left( P _ { s } + P _ { c } + P _ { M } \right) / \lambda
+$$
+
+若将上述 $u _ { I }$ ， $u _ { 2 }$ ， $u _ { 3 }$ 作为目标函数，则可以将寻找最优控制器-交换机映射矩阵关系问题转换成多目标优化模型。优化模型式(13)是寻找最优解使得 $u _ { i }$ 值最小，即控制器间负载差异、交换机与控制器的总时延和交换机的迁移成本均最小化。
+
+$$
+\operatorname* { m i n } ( u _ { i } ) , i = 1 , 2 , 3
+$$
+
+s.t.
+
+$$
+\begin{array} { r } { \mathbf { a } _ { i j } \in \{ 0 , 1 \} ; \forall i , \forall j , i = 1 , 2 \cdots m , j = 1 , 2 \cdots n } \end{array}
+$$
+
+$$
+\sum _ { j = 1 } ^ { n } \mathbf { a } _ { i j } = 1 ; \forall i , i = 1 , 2 , 3 \cdots , n
+$$
+
+$$
+\sum _ { i = 1 } ^ { m } r _ { i } \mathbf { a } _ { i j } \leq R _ { j } ; \forall j , j = 1 , 2 , 3 \cdots m
+$$
+
+在该模型中，为了减少集群中交换机频繁交换的额外开支，只要当前控制器还没有出现过载的情况，就不会进行重映射操作。每台控制器在不超负载的情况下尽可能处理更多的数据包，因为这对于控制器来说增大了自身的吞吐量的同时，也减少其余控制器负载的增加，符合纳什均衡博弈中每个参与者的策略是对其他参与人策略的最优反应的原则。因此，该博弈存在纯策略纳什均衡。
+
+对此，本文采用 $P _ { i }$ 表示参与者的某一特定的策略， $P _ { - i }$ 代表除参与者以外其余参与者策略的组合，具体表示为$P _ { - i } = ( P _ { 1 } . . . P _ { i - 1 } , P _ { i + 1 } . . . P _ { n } )$ 。因此， $P = \left( P _ { i } , P _ { - i } \right)$ 表示所有参与者某一特定的策略组合。当博弈趋于稳定时，达到的纳什均衡状态用 ${ \mathbf { } } P _ { i } { } ^ { * }$ 表示。对于 $n$ 个参与者的博弈，在其余参与者策略都不变的条件下，对任意一个参与者 $i$ ，其策略都是对其余参与者策略组合的最优策略，可以表示为 $P _ { i } ^ { * } \in \arg \operatorname* { m i n } _ { P _ { i } \in P } u _ { i } \left( P _ { i } , P _ { - i } ^ { * } \right)$
+
+即效用函数值均有不等式 $u _ { i } \left( P _ { i } ^ { * } , P _ { - i } ^ { * } \right) \leq u _ { i } \left( P _ { i } , P _ { - i } ^ { * } \right)$ 成立。
+
+# 3 控制器负载均衡模型
+
+针对负载失衡的控制平面，本章首先通过判定过载控制器ODT方法，进而利用PDSS策略选择过载控制器管控下的交换机进行迁移，迁移至GAIMO算法部署目标控制器下，最终通过一个基于非合作博弈降载的主控制器重选模型GTMCR(game theory-based ofload-reduction master controllerreselection)对控制器集群中过载控制器进行降载处理，从而使控制平面负载均衡。其算法思想如图1所示。
+
+![](images/a651d912186771315ef89572a4eed47b65bca75c3df4a4547781ddd42362f89c.jpg)  
+图1 GTMCR模型Fig. 1 GTMCR model
+
+# 3.1过载控制器判定策略ODT
+
+对于过载控制器的判定，本文设计了过载控制器的动态阈值判定机制ODT(OverloadDynamic Thresholds)，阈值 $L _ { T }$ 根据整体控制平面的负载状况动态调整，定义如式(14)所示。
+
+$$
+L _ { T } = \left\{ \begin{array} { l l } { \displaystyle \varepsilon } & { \exists L c _ { i } \leqslant \varepsilon } \\ { \displaystyle \frac { 1 } { n } \sum _ { i = 1 } ^ { n } L c _ { i } } & { \forall L c _ { i } > \varepsilon } \end{array} \right.
+$$
+
+其中， $\boldsymbol { \varepsilon }$ 为判定过载门限值， $L _ { C i }$ 为控制器 $C _ { j }$ 的负载情况。$M _ { i }$ 为0表示非过载状态，反之处于过载状态，触发GTMCR进行负载均衡。控制器状态标志位字段为式(15)。
+
+$$
+\mathbf { M } _ { i } = \left\{ \begin{array} { l l } { 0 , L _ { c j } \leq L _ { T _ { i } } } \\ { 1 , L _ { c j } > L _ { T _ { i } } } \end{array} \right.
+$$
+
+# 3.2迁移交换机选择策略PDSS
+
+为了尽快地使控制器降载，本文提出一种基于优先权的交换机选择策略PDSS(Priority Decision Switching Strategy)。若在交换机变更主从控制器关系后有新的大量请求来，则要产生新的流表项向新的目的控制器发送更多的Packet_In 请求，从而增加业务处理的负担，所以流量变化小的拥有更高的优先迁移权。此外，负载大的交换机进行一次迁移就可完成负载下降，以防迁移的数量过大而增大迁移成本。另外，为了减少待迁移交换机与过载控制器之间的通信成本，距离目标控制器越近被迁移的优先权也越高。因此，优先迁移流量变化小、负载占比较高且与目标控制器之间距离较近的交换机。
+
+式(16)表示 $S _ { i }$ 在 $C _ { j }$ 上所占用的控制资源 $X _ { i j }$ 。其中， $S _ { i }$ 加入 $C _ { j }$ 的事件数用 $\lambda \left( { { S } _ { i } } \right)$ 表示， $B _ { i j } ( s _ { i } )$ 代表 $S _ { i }$ 的主控制器 $C _ { j }$ 的总事件数。
+
+$$
+\chi _ { i j } = \frac { \lambda \left( s _ { i } \right) } { B _ { i j } \left( \mathbf { s } _ { i } \right) }
+$$
+
+因此，式(17)定义 $S _ { i }$ 迁移到 $C _ { r }$ 的优先权为 $P r _ { i r }$ 。它们之间的跳转数目用 $d _ { i r }$ 表示， $S _ { i }$ 的流变化速率为 $V _ { i }$ 0
+
+$$
+\mathrm { P r } _ { \mathrm { i r } } = \frac { \displaystyle \frac { \chi _ { i r } } { d _ { i r } V _ { i } } } { \displaystyle \sum _ { s _ { k } \in s _ { c _ { r } } } \frac { \chi _ { k r } } { d _ { k r } V _ { k } } }
+$$
+
+式(18)为选取的迁移交换机 $S _ { i }$ 。
+
+$$
+S _ { i } = \operatorname* { m a x } \left\{ \operatorname* { P r } _ { s _ { j } } , S _ { j } \in S \right\}
+$$
+
+# 3.3基于改进遗传算法的控制器决策机制GAIMO
+
+遗传算法[19](Genetic Algorithm，GA)是一种启发式的搜索算法，通常用来解决优化问题。它依靠概率性优化搜索，能够自适应地修正和指导优化的搜索空间。本节提出面向改进多目标优化的遗传算法GAIMO(GeneticAlgorithm forImprovedMulti-objective Optimization)，利用遗传算法对网络负载均衡问题进行全局搜索，然后在全局最优附近区域进一步局部寻优，最终找到网络负载均衡最优解。
+
+# 3.3.1GAIMO算法
+
+GAIMO算法在基础的遗传算法上加入了相似算子的概念，并采用两种方式相结合的选择算子以及自调节的交叉和变异概率。算法的过程包括：个体编码、种群初始化、个体评价、选择、相似度判断、交叉、变异操作以及种群迭代更替，具体设定如下：
+
+整个网络里的交换机和控制器用 $m { \times } n$ 维矩阵表示。采用随机序列初始化使产生的个体具有一定的差异度，保证均匀性的同时提高种群的多样性。个体适应度函数用于区分群体中个体好坏，适应度值越大表示控制器的性能越能得到充分的发挥。针对多目标优化问题采用离差标准化方法(Min-maxNormalization)，通过转换函数对原始数据进行线性变换。适应度函数如式(19)所示。其中 $u _ { i m a x }$ 和 $u _ { i m i n }$ 为个体的最大值和最小值。对于多目标优化适应度函数式(20)，采用的权重因子为 $w _ { I }$ 、 $w _ { 2 }$ 、 $w _ { 3 }$ 。
+
+$$
+f _ { i } ( x ) = \frac { \mathbf { u } _ { i \operatorname* { m a x } } - u _ { i } } { u _ { i \operatorname* { m a x } } - u _ { i \operatorname* { m i n } } } , u _ { i \operatorname* { m i n } } \leq u _ { i } \leq u _ { i \operatorname* { m a x } } , i = 1 , 2 , 3
+$$
+
+$$
+F ( x ) = w _ { 1 } \cdot f _ { 1 } ( x ) + w _ { 2 } \cdot f _ { 2 } ( x ) + w _ { 3 } \cdot f _ { 3 } ( x )
+$$
+
+$$
+w _ { 1 } + w _ { 2 } + w _ { 3 } = 1
+$$
+
+选择算子是为了在种群中选择创造下一代的个体。本文的选择算子采用 $5 \%$ 精英策略，先选出最佳个体遗传到下一代，为了保证亲本的多样性，再结合轮盘赌方法。式(21)表示个体 $x _ { i }$ 被选择的概率。
+
+$$
+P ( x _ { i } ) { = } \frac { f \left( x _ { i } \right) } { \displaystyle \sum _ { i = 1 } ^ { N } f \left( x _ { i } \right) }
+$$
+
+由于近亲交叉繁殖会增加不必要的迭代计算[20]，在传统的遗传算法基础之上，引入了相似算子，用海明距离 $G H _ { i j }$ 衡量两个即将进行交叉个体的相似程度，海明距离是指相同长度的以 $a$ 为基的两个字串 $i$ 和 $j$ 中对应位不相同的数量。因此，先对交叉个体进行相似度评定，低于相似度阈值时，再给予交叉机会。这样可以尽可能地减少迭代次数，实现保证解的准确度的同时从而加快收敛速度。
+
+交叉为了让后代能够继承上一代的优良基因，在固定概率 $P _ { c }$ ‘的基础上设定与进化代数相关的交叉概率，通过交叉概率来加快种群的收敛以便加速寻找优良种群所处的区域。由于 $P _ { c }$ 的取值过大容易使适应问题环境值高的基因串很快被破坏掉，所以 $P _ { c }$ 值随遗传代数的增加而逐渐递减，这样同时也解决了取值过小而使搜索速度缓慢的问题。增加交叉点会降低性能。因此，为保持多样性，本文采用两点交叉算子(式(22))。其中，Gen为最大迭代次数，当前迭代次数为 $i _ { \textup { c } }$
+
+$$
+p _ { c } = { \left\{ \begin{array} { l l } { p _ { c } ^ { \prime } \cdot \left( 1 - { \cfrac { i } { \mathrm { ~ G e n ~ } } } \right) } & { i \geq { \mathrm { ~ G e n ~ } } } \\ { p _ { c } ^ { \prime } } & { i < { \mathrm { ~ G e n ~ } } } \end{array} \right. }
+$$
+
+为保持种群遗传多样性，避免落入局部极大值陷阱，采用择位变异和自适应变异概率 $P _ { m } ( \vec { \tt x } ( 2 3 ) )$ 。这种方法的优势在于增加劣势个体变异概率的同时，减小优秀个体的变异概率。因此，减小原有变异概率 $P _ { m }$ "，在优良种群周围进行小步距大概率变异。这样既避免了算法陷入局部极小又极大地降低再次产生无用的劣质解发生的概率，加快收敛速度。随着进化过程的推进，概率逐渐减小趋于稳定。这避免了对算法后期的稳定性造成冲击而导致算法收敛时间变长，提高了计算的效率。其中， $f ^ { \prime } \cdot f _ { m a x }$ 和 $f _ { a v g }$ 分别为当前、最大和平均适应度值。
+
+$$
+p _ { m } = \left\{ \begin{array} { l l } { p _ { m } ^ { ' } \cdot \left( 1 - \frac { f _ { \mathrm { m a x } } - f ^ { ' } } { f _ { \mathrm { m a x } } - f _ { a r g } } \right) } & { f \geq f _ { a _ { g } } } \\ { p _ { m } ^ { ' } } & { f < f _ { a _ { g } } } \end{array} \right.
+$$
+
+经过不断地种群更替，最终算法收敛到全局最优解。算法的程序流程如图2所示。
+
+![](images/4e0368652e4d15803986f5450f46dc064975436b45177cb8b72b955d2716a03a.jpg)  
+图2GAIMO算法流程图  
+Fig.2GAIMO algorithm flow chart
+
+3.3.2GAIMO算法的实现
+
+本文提出的GAIMO 算法是基于遗传算法对交换机与控制器的映射关系进行寻优。首先确定算法执行所需要的输入参数，然后对种群进行二进制编码设计，对每一个个体进行初始化，并对初始种群中的每一个个体计算适应度函数值(第a\~b行)。接下来开始进行遗传算法的算子操作(第c\~s行)，先进行选择算子操作,采用精英策略与轮盘赌选择相结合的方式(第e-j行)。本文提出加入相似算子进行相似度条件判断，若相似度低于相似度阈值，则进行自适应两点交叉操作(第 $\mathbf { k } { \sim } \mathbf { n }$ 行)。接下来进行自适应变异概率的遗传操作(第 $\mathbf { o } { \sim } \mathbf { p }$ 行)。形成新的种群(第q行)之后，对上述算子不断地迭代进行种群更替，最后得到的最优个体就是对遍历到待迁移交换机 $S _ { i }$ 重选的主控制器(第r行)。算法描述如下：
+
+算法1GAIMO 算法输入：网络参数，最大迭代次数Gen，种群大小N，交叉概率crossover_p 和变异概率mutate_p;输出：负载均衡度、交换机与控制器之间的平均时延和交换机的迁移成本开销；最优个体的适应度函数值，最优个体的交换机与控制器的映射矩阵。
+
+a） pop=initialpop(N,chromlength,len,m) ;//初始化种群   
+b) Functionvalue $\ c =$ objectiveFunction(Population);/\*适应度函数 计算\*/   
+c） for $i { = } 1 ; G e n$   
+d) fitvalue $\ O =$ cal_objective(pop,r,R,popsize,len,m);   
+e) Newpop $\ l =$ selection(pop,fitvalue);//选择算子   
+f) if $\stackrel { . } { i } < = 0 . 0 5 ^ { * } N$   
+g） $E l i t i s t { \big ( } X _ { i } { \big ) } = M a x { \big ( } p o p { \big ) }$ ;//精英策略   
+h) else   
+i) $P ( X _ { i } ) { = } f ( X _ { i } ) / s u m ( f )$ ;//比例选择策略   
+j) end if   
+k) if $G H _ { i j } < 0 . 8$ //相似度判断   
+1) Pc=a $l a p t \_ c r o s s \big ( c r o s s o \nu e r \_ p \big )$ ;//自适应交叉概率   
+m) newpop $\ c =$ crossover(newpop, $p _ { c } , l e n , m )$ ;//交叉   
+n) end if   
+0） $p _ { m } =$ adapt_mutate(mutate $_ - { p }$ );//自适应变异概率   
+p) newpop $\ l =$ mutation(newpop, $p _ { m }$ ,len,m);//变异   
+q） （204号 $p o p = n e w p o p$ ;//种群更替产生新种群   
+r） [bestindividual,bstit] $\mathbf { \Sigma } = \mathbf { \Sigma }$ best(pop,fitvalue）;//择优   
+s) end for
+
+# 3.4基于非合作博弈降载的主控制器重选模型GTMCR
+
+在GTMCR算法的执行过程中，首先遍历所有控制器，对各个控制器的负载进行监测，通过动态负载阈值判定过载控制器，决策出需要迁移交换机的控制器集合，进而建立目标控制器的博弈域(第a\~h行)。然后依据交换机的迁移优先权，选择过载控制器管控下优先权最大的交换机进行迁移(第1\~n 行)。接下来重选待迁移交换机的主控制器，在控制器间的非合作博弈中，寻求目标控制器的纯策略纳什均衡状态，通过上述的GAIMO算法得到所要迁移到的目标控制器将迁移交换机的主从控制器进行角色转换，实现过载控制器降载(第 $\mathbf { o } { \sim } \mathbf { r }$ 行)。最终达到新的负载均衡，得到迁移后控制平面的负载均衡度(第 $\mathrm { ~  ~ u ~ }$ 行)。最终根据迁移情况，构建新的SDN网络拓扑。算法描述如下：
+
+# 算法2 GTMCR算法
+
+输入：网络状况参数，如交换机数量 $m$ 与控制器数量 $\boldsymbol { n }$ 、控制器 $c _ { j }$ 的处理速率 $R _ { j }$ 、交换机 $S _ { i }$ 的请求速率 $\boldsymbol { r } _ { i }$ 、控制器与交换机之间的时延$\tau$ 和距离 $D$ 等相关参数。  
+输出：网络中过载控制器，控制器集群的负载均衡度，网络中需要迁移的交换机。  
+a) for each $c _ { j }$   
+b) $L c _ { i } =$ LoadFunction $\left( c _ { j } \right)$ ;//计算控制器负载  
+c） if $L c _ { j } < L T$ return $\Theta ; / ^ { * }$ 决策是否为过载控制器，是否进  
+行交换机迁移 $^ { * } /$   
+d) else  
+e) $M _ { i } { = } 1$ ；//过载控制器标志位  
+f) $C = O D T { \left( L c _ { j } \right) }$ ;//决策过载控制器集合C  
+g） end if  
+h) end for  
+i) for $c _ { i }$ in $c \ / / \$ 遍历过载控制器  
+j) （204号 $S =$ traversal $\left( C _ { i } , L _ { i j } , X _ { i j } \right)$ ；//控制器管控的交换机集合  
+k) for $S _ { i }$ in $s$   
+1) $P r _ { i r } = P r ( )$ ;//计算 $S _ { i }$ 迁移到 $C _ { r }$ 的优先权  
+m) $S _ { i } = \operatorname* { m a x } \left\{ \operatorname* { P r } _ { s _ { j } } , s _ { j } \in S \right\}$ ;//优先权最大进行迁移  
+n) Migra $t e \big ( s _ { i } \big ) = P D S S ( S )$ ;//决策迁移交换机  
+0） ${ \cal { U } } = { \cal { U } } _ { - } f u n c t i o n ( C _ { i } )$ ；//计算效用函数  
+p) $G a m e = \{ C , P , U \}$ ;//建立博弈模型  
+q) $C _ { r } = G A I M O ( S _ { i } )$ ；//决策目标控制器  
+r) Master $\left( S _ { i } \right) = C _ { r }$ ；//主从控制器角色转换  
+s) end for  
+t) end for  
+u) $\begin{array} { r } { L c = s u m \big ( L _ { \mathrm { c } _ { j } } \big ) / n } \end{array}$ ；//迁移后负载均衡度的计算
+
+# 4 仿真实验
+
+# 4.1实验环境设定
+
+实验环境配置为Inteli5处理器，内存4GB，CPU$3 . 4 0 \mathrm { G H z }$ ，Windows10操作系统，使用仿真工具MATLABR2017b，控制器容量设定为10MB，交换机与控制器间时延和链路距离依据实验拓扑得出。实验仿真参数值参照流量特征数值[2I]，控制器单位时间的处理Packet_In 流请求数据包为10000 个左右。实验采用 theInternet topology zoo[22] 中具有一定规模差异的网络拓扑，具体网络信息如表1所示。
+
+表1不同网络规模的节点链路信息  
+Tab.1Node link information for different network sizes   
+
+<html><body><table><tr><td>网络</td><td>OS3E</td><td>Ntelos</td><td>IRIS</td><td>Interllifiber</td><td>Interoute</td></tr><tr><td>节点数</td><td>34</td><td>48</td><td>51</td><td>73</td><td>110</td></tr><tr><td>链路数</td><td>42</td><td>61</td><td>64</td><td>93</td><td>149</td></tr><tr><td>控制器数</td><td>5</td><td>6</td><td>6</td><td>7</td><td>10</td></tr></table></body></html>
+
+# 4.2 实验与结果分析
+
+为了验证本文提出的GAIMO 算法的有效性与可行性本节将GAIMO 算法与现有解决控制器负载均衡问题的GAPA 算法[13]、Proposed GA 算法[14]以及GA 算法[15]在网络负载均衡度、平均总时延、迁移成本的性能上进行对比。设置固定交叉概率为0.4，变异概率为0.04，迭代次数为200。对于适应度函数值进行归一化，同时为了突出重要因素对于控制平面与数据平面的的影响，选取的权值比重 $w _ { I }$ 、W2、$w _ { 3 }$ 分别为0.5、0.3和0.2。
+
+# 4.2.1控制器负载均衡度对比
+
+在实验开始后，每个交换机发送数据报文到OS3E网络部署的5台控制器，整个网络被划分为五个子域。等待10秒后，所有控制器获得状态初始值。在此时，控制器的负载较为均衡，负载比为2:4:3:2:3(图3)。随后，增加交换机和控制间的交互报文量，使控制器负载逐步上升。从图中可以看出控制器 $C _ { 2 }$ 和 $C _ { 4 }$ 超出阈值线，先后出现了过载现象，在第40秒时负载比达到了10:13:11:14:8，通过式(6)计算得到此时负载均衡度为2.1354。因而，GTMCR机制触发，进行交换机迁移。之后，控制器之间负载差明显收敛。交换机迁移结果是： $C _ { 2 }$ 下的部分交换机迁移到 $C _ { I }$ ， $C _ { 4 }$ 下的部分交换机迁移到 $C _ { 5 }$ ，迁移之后的负载比为23:23:22:22:22，负载均衡度为0.4899，使得控制平面负载达到了新的平衡。
+
+在图4中，本文对GA、GAPA、ProposedGA和GAIMO算法在控制器负载均衡适应度上的表现进行对比。纵坐标表示控制器负载均衡适应度函数值，反映控制器集群的负载均衡的情况。适应度数值越高，表示控制器负载均衡性能越好。为验证四种算法对控制器集群负载的均衡效果，采用了基于OS3E的网络拓扑，上述四种算法的适应度函数都有所提升，说明在负载失衡的情况下均能够通过交换机迁移的方式在一定程度上实现负载均衡。GA和GAPA在200代的进化过程中容易出现大的波动，收敛性差，原因是交叉和变异概率固定不变难以收敛。ProposedGA的负载均衡度的适应度值从0.813提升到0.915。相对而言，GAIMO收敛最快，负载均衡度的适应度值从0.813提升到0.95。可见，GAIMO算法能够更有效地均衡控制平面负载。
+
+![](images/3ff6d035e7e7e65963024a6f297a574805e2b02716b8b8a625916f49ddbfd296.jpg)  
+图3迁移前后控制器负载变化情况
+
+![](images/1968ed7e1a732f9e24e27245100b69b9e00f1b178db41c924e705378e44184f1.jpg)  
+Fig.3Change in controller load before and after migration
+
+为测试拓扑大小对算法性能的影响，本文采用的测试环境为5种不同网络规模的拓扑结构。图5中纵坐标为负载均衡度，值越小表明控制平面负载越均衡。横坐标为不同的网络拓扑。在较小的OS3E网络下，四种算法的负载均衡度差异较大。这是由于在较小的拓扑下，交换机节点较少，控制器间会因为管理交换机的数量不同而导致负载差异大，进而使负载均衡参数值偏大。随着网络规模的增大，GA和GAPA算法负载均衡度相近，均衡效果并不佳。相对而言，GAIMO算法随拓扑的增大负载均衡效果更明显，得到的负载均衡度始终比其他算法小，且变化趋势较为平缓。由于GA、GAPA 和ProposedGA容易收敛到局部最优解，而GAIMO算法收敛到全局最优解，使得负载分配更加合理，网络负载均衡度参数也越来越小。实验结果也证明了GA、GAPA和ProposedGA并不适用于小型网络中，而GAIMO能够在各种规模的网络上保持较好的负载均衡性能。
+
+![](images/554af18d6ed0fb1575f112a65d9f10596c8a43cb0fb90d31130193cfea307b4e.jpg)  
+图4控制器负载均衡对比  
+图5不同网络规模的控制器负载均衡度  
+Fig.5Controllerload balancingdegree for different network sizes 4.2.2交换机到控制器的平均总时延
+
+为对比不同算法下交换机到控制器之间通信总时延的优化效果，实验采用OS3E网络测试时延适应度函数的优化效果。从图6可以看出，ProposedGA、GAPA 和GA 算法中的最高适应度函数值最终只能收敛到0.85，均低于GAIMO算法，说明找到的映射方案并不是最佳的。GAIMO算法不仅收敛速度最快而且找到了最优解，更好地减少了迁移的总时延。在平均时延的控制上，GAIMO算法均优于其他算法且优化效果更加稳定，能够较大幅度地缩短交换机到控制器之间的平均时延，更有效地减小通信开销，保证网络通信质量。
+
+![](images/9730bdc5e3e0c8b1f0679ae44729b1f6d2000eedfdfb1cc7176c9e67c7e79620.jpg)  
+图6交换机到控制器平均时延对比  
+Fig.6Average Switch to ControllerLatency Comparison
+
+4.2.3交换机的迁移成本
+
+在交换机迁移过程中会产生大量的通信消息数据包，为实现控制器平面负载均衡的同时尽可能地减少迁移成本，实验采用OS3E网络测试不同算法下迁移成本的大小。测试结果如图7所示。GA、ProposedGA算法由于选择策略过早收敛从而错失了最优解，而GAPA算法一直都未收敛，原因是交叉和变异算子是固定值，无法根据迭代状况作出相应的调整而难以收敛。GAIMO算法收敛速度更快，更容易找到最优解，目标函数值最终达到了0.9，是因为改进的算子结合迭代次数和适应度函数值的变化动态调整，达到更高效地找到全局最优解的目的。GAIMO算法的迁移策略效果最佳，能够大幅度减少网络中多台交换机迁移的成本代价，证明了用交换机迁移方法提升网络性能的有效性。
+
+![](images/f07f98ca11bd39b55c4b145e0eca586274c07f9092b9076aa3082c1d38d04f6b.jpg)  
+Fig.4Comparison of average switch-to-controller latency   
+图7交换机迁移成本对比  
+Fig.7Switch migration cost comparison
+
+4.2.4多目标性能优化
+
+多目标优化适应度函数值反映控制器负载均衡的情况，适应度数值越高，控制器负载均衡的网络性能越好。如图8所示，GAIMO算法从20代开始，最优解的适应度值相比于其他算法更优且收敛速度最快。这是由于GAIMO算法采用相似算子，尽量避免下一代中出现近亲繁殖，从而减少重复交叉和交叉无效的情况，减少了时间复杂度。GAIMO 算法从50代开始稳定且找到最优部署。这是因为自适应的交叉概率考虑迭代次数以及变异概率考虑适应度函数值的偏好情况，突变的发生随着遗传代数和适应度函数值的增大而随之减少。GAIMO算法最终的收敛值最大，说明GAIMO采用的精英策略防止了最优解丢失从而保证种群向优进化的趋势并趋于稳定达到0.94。因此，GAIMO算法更能对激增的流量负载进行均衡的同时，提升控制平面的鲁棒性。
+
+![](images/f4049234272e5e0861e229d0f08da930a77b904016d0c83b6315133ec2f3c40c.jpg)  
+图8多目标优化对比   
+Fig.8Multi-objective optimization comparison
+
+# 5 结束语
+
+本文构建了多目标优化模型GTMCR，对于判别过载控制器采用动态阈值ODT算法，迁移交换机的决策采用基于优先权的迁移策略PDSS算法，同时设置了相应的约束条件，采用改进的遗传算法GAIMO获得交换机迁移的最佳策略。实验结果表明，GAIMO算法更加有效地提升收敛速度，能最快找到最优部署，合理地平衡控制器集群负载均衡度，提升了全局网络性能。接下来，需要将重映射过程中控制器与交换机以及交换机间通信会出现丢包等容错情况也考虑进来，如果当控制器负载严重过载或出现故障时，除了依靠交换机迁移，还需添加额外的控制器，进一步研究不同情况下的负载均衡。
+
+# 参考文献：
+
+[1]IsongB,MoloseRRS,Abu-mahfouz AM,et al.Comprehensive Review of SDN Controller Placement Strategies [J].IEEE Access,2020,8: 170070-170092.   
+[2]Hamdan M,Hassan E,Abdelaziz A,et al.A comprehensive survey of load balancing techniques in software-defined network [J].Journal of Network and Computer Applications,2021,174:102856.   
+[3]Alowa A,Fevens T,Khamayseh Y. Survival backup strategy for controller placement problem in Software Defined Networking [J]. Computer Communications,2022,185:104-117.   
+[4] 刘毅，李凯心，李国燕，等．基于 SDN 的动态负载均衡策略[J]．计 算机应用研究,2020,37(10):3147-3152.(Liu Yi,LiKaixin,LiGuoyan, et al.Dynamic load balancing strategy based on SDN[J].Application Research of Computers,2020,37(10): 3147-3152.)   
+[5]Huang V, Chen G, Zhang P,et al.A Scalable Approach to SDN Control Plane Management: HighUtilization Comes WithLowLatency[J].IEEE Trans on Network and Service Management,2020,17(2): 682-695.   
+[6]Adekoya O,Aneiba A,Patwary M.An Improved Switch Migration Decision Algorithm for SDN Load Balancing[J]. IEEE Open Journal of the Communications Society,2020,1:1602-1613.   
+[7]Shirmarz A,Ghaffari A.Taxonomy of controller placement problem (CPP) optimization in Software Defined Network (SDN):a survey [J]. Journal of Ambient Intelligence and Humanized Computing,2021,12 (12):10473-10498.   
+[8]Lan W,LiF,Liu X,et al.ADynamic Load Balancing Mechanism for Distributed Controllers in Software-Defined Networking[C]//the 10th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA) .Changsha:IEEE,2018:259-262. 108369.   
+[10] Xiao H,Hu B,Zhou L,et al.DMSSM:A Decision-Making Scheme of Switch Migration for SDN Control Plane [C]//IEEE the 7th Intermational Conference on Computer Science and Network Technology (ICCSNT). Dalian, China: IEEE,2019:348-352.   
+[11] Sahoo K S,Puthal D,Tiwary M,et al.ESMLB: Eficient Switch Migration-Based Load Balancing for Multicontroler SDN in IoT[J]. IEEE Internet of Things Journal,2020,7(7): 5852-5860.   
+[12] Zhong H,Xu J,Cui J,etal.Prediction-based dual-weight switch migration scheme for SDN load balancing [J]. Computer Networks,2022, 205: 108749.   
+[13] Yuan T,Huang X,Ma M,et al.Balance-Based SDN Controller Placement and Assignment with Minimum Weight Matching [C]// IEEE International Conference on Communications (ICC). Kansas City, MO: IEEE,2018:1-6.   
+[14] Mohanty S,Priyadarshini P,Sahoo S,et al.Metaheuristic Techniques for Controller Placement in Software-Defined Networks [C]// TENCONIEEE Region 10 Conference（TENCON).Kochi, India: IEEE,2019: 897-902.   
+[15] Ibrahim AA Z,HashimF, SaliA,et al.A Modified Genetic Algorithm for Controller Placement Problem in SDN Distributed Network [Cl//the 26th IEEE Asia-Pacific Conference on Communications (APCC). 2021: 83-88.   
+[16] Schutz G,Martins JA.A comprehensive approach for optimizing controller placement in Software-Defined Networks [J].Computer Communications,2020,159:198-205.   
+[17] Ibrahim AA Z,Hashim F,Noordin N K,et al.Heuristic Resource Allocation Algorithm for Controller Placement in Multi-Control 5G Based on SDN/NFV Architecture [J].IEEE Access,2021,9:2602-2617.   
+[18] Zhong H,Fan J,Cui J,et al. Assessing Profit of Prediction for SDN controllers load balancing[J]. Computer Networks,2021,191:17991.   
+[19] Katoch S, Chauhan S S, Kumar V.Areview on genetic algorithm: past, present,and future [J]. Multimedia Tools and Applications,2021,80 (5): 8091-8126.   
+[20] Bao L, Zhang L,Sun T.Research on assembly line scheduling based on small population adaptive genetic algorithm [C]// the 6th International Conference on Intelligent Computing and Signal Processing (ICSP) . 2021: 166-170.   
+[21] Isyaku B,Mohd Zahid M S,Bte Kamat M,et al. Software Defined NetworkingFlow TableManagementof OpenFlowSwitches Performance and Security Challenges: A Survey [J]. Future Internet, 2020,12 (9): 147.   
+[22] Knight S,Nguyen HX,Falkner N,et al. The Internet Topology Zoo [J] IEEE Jourmal on Selected Areas in Communications,2011,29 (9):1765- 1775.   
+[23]徐爱鑫天津市西青区宾水西道 399 号天津工业大学 300387 13230847811 13231568733@163.com   
+[24]孙士民天津市西青区宾水西道 399 号天津工业大学 300387 18722128913 sunshimin@tiangong. edu.cn   
+[25]汪晓凡 天津市西青区宾水西道 399 号天津工业大学 300387 15122708693 wxf241382009@163.com   
+[26]徐国威天津市西青区宾水西道 399 号天津工业大学 300387 17519301800 1921994090@qq.om   
+[27]王美玉 天津市西青区宾水西道 399 号天津工业大学 300387 17835204887 1714116205@qq.com

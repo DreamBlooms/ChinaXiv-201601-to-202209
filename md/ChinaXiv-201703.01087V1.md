@@ -1,0 +1,223 @@
+# y-TiAl金属间化合物铣削加工实验与有限元模拟
+
+周丽²崔超¹贾清²马英石
+
+1沈阳理工大学机械工程学院沈阳110159
+
+2中国科学院金属研究所沈阳110016
+
+摘要运用 ABAQUS有限元软件建立了 $\gamma \cdot$ -TiAl 金属间化合物铣削加工的细观模型，分析了不同材料模  
+型的加工表面形貌及边缘断裂形成机理。结果表明，由于片层之间的材料特性不同，加工过程中片层与  
+片层之间更容易出现裂纹或凹坑。同时，由于其较低的延展性，γ-TiAl 金属间化合物加工出口处形成较大  
+的负剪切平面，从而导致边缘断裂。通过与实验结果比较，发现 $\gamma$ -TiAl 金属间化合物铣削加工表面粗糙度  
+和边缘断口尺寸均小于由正六边形片层细观模型所得的模拟值，且略高于由矩形片层细观模型所得的模拟X  
+值。同时，加工表面粗糙度和边缘断口尺寸随切削深度的增加而逐渐增大，而切削速率的影响较小。因此，方  
+为了得到更好的加工表面质量，γ-TiAl 金属化合物加工中应尽可能地采用较高的切削速率，而不是切削  
+深度。 V
+
+W4关键词γ-TiAl金属间化合物，铣加工，细观模型，有限元
+
+中图分类号TG339
+
+参
+
+文章编号 0411961(2017)x-xx-x
+
+# Experimental and Finite Element Simulation of Milling Pocess for y-TiAl Intermetallics
+
+ZHOU Li 1,²,CUI Chao ', JIA Qi², MA Ygshi 1 1 School of Mechanical Engineering, ShenyangLigongUniversity, Shenyang 110159,China 2 Institute ofetal ResearchChineseAteyofiences,Shnyang 106in Correspondent: JIA Qing, associate professor, Tel: (024) 83978843, E-mail: qjia@imr.ac.cn Supported by Foundation of Educational Department of Liaoning Province (No.LG201603) Manuscript received 2016-06-23, in revised form 2016-12-07
+
+ABSTRACT $\gamma$ -TiAlintermetallics are atractive candidates for applications in aircraft turbine engines due to their low density and good mechanical properties at high temperature. However,the low room temperature ductility
+
+makes the machinability of these materials poorer compared to the conventional aloys. In this work，a meso-model of $\gamma$ -TiAl intermetallic was developed using ABAQUS finite element software. The surface morphology and edge fracture mechanism of different material models were analyzed,and the effects of cutting parameters on the surface roughness and size of edge fracture were investigated.The results indicate that the cracks and pits occur between the lamellar and lamelar with different material properties.At the same time, due to the low ductility of $\gamma$ -TiAl intermetallic, the negative shear angle begins to form at the exit of workpiece, then the edge fracture is formed. In addition,for both surface roughness and size of edge fracture,the experimental dataare slightly higher than the simulated data obtainedby the hexagonal lamellar model,and smaler than those obtained by the rectangular lamellar model. With the increasing of cutting depth, the surface roughness and the size of edge fracture increase gradually, on the contrary,t cutting speed has a small effect on them. Therefore, in order to obtain a fine surface quality during machining oTiAl intermetallic,the cuting speed can be adopted as A   
+higher as possible,but not the cutting depth.
+
+KEY WORDS y-TiAl intermetallics,milling pY@ess, meso-model, finite element 信
+
+y-TiAl金属间化合物具有高比度、高比刚度、耐腐蚀、耐高温及优异的抗氧化性能，在航空航天、  
+兵器等领域具有广泛的应前景，特别是飞机发动机的耐热部件，如涡轮叶片等[12]。目前，y-TiAl金属间方  
+化合物的近净成形技术，如精密铸造成形法、定向凝固法得到了很大展。高温锻造、挤压、轧制等热加  
+工工艺参数的优化，也使y-TiAl金属间化合物的热加工成型得到了很友改善，y-TiAl金属间化合物大尺寸务  
+板材的制造也逐渐成为可能[3]。然而，绝大部分结构件为了 到一定的尺寸精度和表面质量，仍需要进行  
+机械加工。与钛合金相比，由于 $\gamma$ -TiAl金属间化合物室温塑性及难变形等特点，是典型的难加工材料[4]。
+
+加工表面质量对于飞机发动机的安全性和耐久性非常重要，因此对 $\gamma$ -TiAl金属间化合物的加工表面提出了更高的要求。国内外学者对 $\gamma$ -TiAl金属间化合物的研究多集中在微观结构与性能之间的关系,研究[5\~12]表明，y-TiAl金属间化合物片层的厚度、分布及晶粒大小是影响其力学性能的主要因素。近年来，对y-TiAl金属间化合物的加工特性已有一些实验研究，例如y-TiAl金属间化合物加工刀具磨损特性[13-17]、切削力变化规律[18]、切削变形机理及切屑形态[14,15]、表面粗糙度及已加工表面形貌等[19.20]，结果表明，切削参数及冷却条件对刀具磨损和表面质量起主要作用。除实验方法之外，有限元法在切削加工中得到了越来越广泛的应用，这是因为有限元法能够分析弹塑性大变形及断裂问题，从而可以更好地了解材料切削机理，优化工艺参数。虽然，国内外许多学者已经采用有限元法对钢、Al、Cu 等金属切削加工过程进行了数值模拟研究，并针对切削加工过程的切屑形成、刀屑分离以及接触和摩擦等现象建立了有效的数值计算方法[21-23],但尚未开展 $\gamma$ -TiAl金属间化合物切削加工过程的数值模拟研究。
+
+本工作运用ABAQUS 有限元软件建立了y-TiAl金属间化合物切削加工的细观模型，分析了切削加工
+
+表面特性，并与实验进行了对比。
+
+# 1实验方法
+
+铣削实验材料为y-TiAl（45XD，Ti-45Al-2Mn-2Nb-0.8B，原子分数， $\%$ 合金，其微观形貌如图1所示。可见， $\gamma \mathrm { . }$ -TiAl金属间化合物微观形貌为全片层组织，平均晶粒尺寸约 $9 0 \mu \mathrm { m }$ 。铣削加工试样尺寸为 $3 0 \mathrm { m m } \times 4 0$ $\mathrm { m m } { \times } 5 \ \mathrm { m m }$ ，刀具为TiCN涂层铣刀。刀具的几何参数为：前角 $7 ^ { \circ }$ ，后角 $1 0 ^ { \circ }$ ，刀尖圆弧半径为 $0 . 0 5 \ \mathrm { m m }$ 。铣削实验在ME650立式加工中心上进行，加工示意图如图2所示。利用KEYENCEVHX-1000光学显微镜(OM)和SSX-550扫描电子显微镜(SEM)对加工表面形貌、边缘缺陷及断口形貌进行观察。
+
+![](images/b0b5def8674d8231605d74afb5df921b28b9fdbefaf36edd987b6ea8c6d0c853.jpg)
+
+Fig.2 Illustration of flat-end milling process ( $\mathrm { i } \mathrm { r }$ —feed rate,@—rotation speed)
+
+# 2有限元方法
+
+# 2.1模型建立
+
+周期性铣削加工过程中，圆柱立铣刀既做旋转运动，又做进给运动，切削厚度是连续变化的。由于铣刀的进给速率远小于切削速率，所以切削厚度变化非常小。因此，可以将三维周期性铣削加工等效为二维正交切削加工，图3所示为单齿切削过程的平面图，其等效切削厚度 $h$ 的计算公式为[23].
+
+$$
+h = r - r \sqrt { \frac { \cos ^ { - 1 } \left( \frac { f _ { z } } { 2 r } \right) - \sin ^ { 2 } \left[ 2 \cos ^ { - 1 } \left( \frac { f _ { z } } { 2 r } \right) \right] } { \pi - \cos ^ { - 1 } \left( \frac { f _ { z } } { 2 r } \right) } }
+$$
+
+式中， $\boldsymbol { r }$ 为铣刀半径； $f _ { \mathrm { z } }$
+
+![](images/75bc3fa16ec7ec1871b20f3a4c3ff4b741ea008cef62734cfa4a7d62df7ebf97.jpg)  
+图3二维单齿铣削模型
+
+W4 Fig.3 2D milling model of single tooth (r—radius Jling cutter, $f _ { \mathrm { z } }$ —feed amount per tooth)
+
+γ-TiAl金属间化合物属于L10型fcc 晶体,图1所示为全片层组织的 $\gamma \cdot$ -TiAl金属间化合物。在切削 $\gamma \mathrm { . }$ -TiAl参金属间化合物时，加工表面材料不同晶体的片层取加工表面夹角不同，片层取向与切削力夹角也不同。因此，为了研究γ-TiAl金属间化合物的铣削加工特性，建立了 $\gamma$ -TiAl金属间化合物的细观有限元模型，如图4所示。y-TiAl金属间化合物具有典型的 PST(polysynthelically twinned crystal)结构，片层取向与外载荷加载方向夹角不同时，晶体表现出不一样的力学特性[22]。通过分别定义不同片层取向的材料属性，建立y-TiAl 金属间化合物有限元切削细观模型，能够更好地研究其在铣削加工过程中材料的变形机理。由图1可以看出，y-TiAl金属间化合物晶体形貌多为不规则多面体，因此，本工作建立了矩形晶体结构和正六边形晶体结构的细观有限元模型，4种不同的片层组织结构表示与切削加工表面夹角不同的晶体，其在工件中均匀分布，如图5所示。
+
+![](images/a962c4f31f9e5f72180f73f675eff58d995b298cde76696fa3f99babee01aeb3.jpg)  
+图 $\textbf { 4 } \gamma \mathrm { . }$ -TiAl金属间化合物二维有限元模型及其局部放大图
+
+Fig.4 Two-dimensional finite element model of $\gamma$ -TiAI termetallics (a) and local zooming of Fig.4a (b) (RP
+
+![](images/d02876559a067692c411380afb4003b7cd4755206f499399e6b4762434257b35.jpg)  
+图5六边形片层结构和矩形片层结构的 $0 ^ { \circ }$ 片层取向、 $4 5 ^ { \circ }$ 片层取向、 $9 0 ^ { \circ }$ 片层取向、全片层组织的有限元模型  
+Fig.5 FEM models of hexagonal (a) and rectangular (b) lamellae, which is composed of $0 ^ { \circ }$ $4 5 ^ { \circ }$ ， $9 0 ^ { \circ }$ and fully lamellar microstructure
+
+本模型是基于Abaqus/Explicit 分析，建立正六边形和矩形晶体的二维切削有限元模型，工件长度为 4mm，宽度为 $3 \ \mathrm { m m }$ 。切削刀具几何参数与实验所用刀具一致，刀具定义为解析刚体，ABAQUS 有限元软件二维仿真模型中，解析刚体默认为线框。模型采用缩减积分、沙漏控制的双线性四节点温度平面应变耦合四边形单元(CPE4RT)。
+
+# 2.2材料本构模型
+
+本模型采用弹-塑性本构方程，材料在外载荷作用下分为2个阶段，即弹性阶段和塑性阶段，本构方程为[25].
+
+$$
+\sigma = \left\{ \begin{array} { l l } { \displaystyle { E \varepsilon } } & { \left( \varepsilon \leq \frac { \sigma _ { y } } { E } \right) } \\ { \displaystyle { \sigma _ { y } + B \left( \varepsilon - \frac { \sigma _ { y } } { E } \right) ^ { n } } } & { \left( \varepsilon > \frac { \sigma _ { y } } { E } \right) } \end{array} \right.
+$$
+
+式中， $\sigma$ 为应力， $\varepsilon$ 为应变， $\sigma _ { \mathrm { y } }$ 为材料的屈服应力， $E$ 为弹性模量， $B$ 为应变硬化系数， $n$ 为应变硬化指数。  
+切削过程中材料变形主要有挤压、剪切和滑移，符合材料的挤压破坏特性。根据文献[5\~12,24]中的实验结K  
+果，片层取向与应力加载轴夹角不同材料表现出不同的特性，y-TiAl金属间化合物不同片层组织的材料参  
+数如表1所示。 方
+
+表 $\textit { 1 } \gamma \cdot$ -TiAl金属间化合物不同片层组织的材料常数[5\~12.24]
+
+<html><body><table><tr><td colspan="6">Table1 ysical properties ofy-TiAlintermetalics[5124]</td></tr><tr><td>Parameter</td><td>0°</td><td>45°</td><td>90°</td><td>Fully lamellar microstructure</td><td></td></tr><tr><td>Young's modulus E P</td><td>220</td><td>170</td><td>300</td><td>K?</td><td>350</td></tr><tr><td>Poisson's ratio v</td><td>0.32</td><td>0.23</td><td>0.1</td><td>X</td><td>0.08</td></tr><tr><td></td><td>1296</td><td>847</td><td>1175</td><td></td><td>1401</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Strain hardening exponent n</td><td>0.45</td><td>0.36</td><td></td><td></td><td></td></tr><tr><td colspan="6">Xy</td></tr></table></body></html>
+
+# 2.3断裂准则
+
+y-TiAl金属间化合物切削中采用剪切失效法准则确定材料切屑分离，此分离准则完全由材料的本构方程决定。剪切失效模型是基于单元积分点上的等效塑性应变。当破坏参数 $D { \geq } 1$ 时，材料失效，也就是说在此时工件材料发生断裂，切屑开始形成。 $D$ 定义为[26]：
+
+$$
+D = \frac { \varepsilon ^ { p } } { \varepsilon ^ { d } }
+$$
+
+式中， $\varepsilon ^ { \mathfrak { p } }$ 为等效塑性应变， $\boldsymbol { \varepsilon } ^ { \mathrm { d } }$ 为失效塑性应变。
+
+# 2.4边界条件及载荷
+
+为了限制工件的的运动，对工件底部和左右两端下部进行了完全约束，对刀具进行刚体约束。不同片层组织之间采用绑定约束，如图4所示。
+
+外载荷为给定的切削深度和切削速率。切削深度通过工件与刀具初始的装配位置确定，切削速率是通过赋予参考点RP 沿 $x$ 轴负方向切入工件，并约束刀具沿其它方向的运动，如图4a所示。
+
+# 3结果分析
+
+# 3.1表面形貌
+
+在相同的铣削加工条件下，2种不同的细观模型获得的 $\gamma$ -TiAl金属间化合物的表面形貌如图6所示。可以看出，由于 $\gamma$ -TiAl金属间化合物较低的延展性，加工过程中形成的切屑为不连续的断屑，且在工件的边缘处形成不规则的断裂形貌。从图6c 和d的局部放大图可以看出，不同取向的片层组织沿着切削力的方向发生弯曲变形。同时，在片层与片层之间容易出现裂纹，尤其是六边形结构的更加明显，还可发现正六边形结构的表面形貌更粗糙。
+
+![](images/ca763c17cd814940115a742a1a71c8969582918d5e345adefcf8e14935eb02dd.jpg)  
+图6正六边形片层结构和矩形片层结构细观模型获得的 $\gamma \mathrm { . }$ -TiAl金属间化合物的表面形貌
+
+Fig.6 Surface morphology of $\gamma$ -TiAl intermetallics obtained from hexagonal meso-model (a),rectangular meso-model (b),locally magnified of (a) (c) and locally magnified of (b) (d)
+
+图7为 $\gamma \mathrm { . }$ -TiAl金属间化合物铣削加工断面和表面形貌的OM像。可以看出，多数片层组织沿着铣削力的方向发生变形，而且表面缺陷容易出现在不同取向的片层界面处，与图6的模拟结果相似。相对较小的片层区域出现的加工表面缺陷略多，这是由于变形中的应力集中导致的。与模拟结果相比还可发现，实验所得的加工表面凹坑略多，这是由于材料内部本身存在许多缺陷，如孔洞、裂纹等。此外，由正六边形组成的细观模型所得的表面(图6c)也比实验更粗糙，矩形结构细观模型的表面形貌(图6d)更接近于实验。从图 7b 可以看出，铣削加工后表面残留了深浅不一的沟痕，且没有裂纹出现。
+
+![](images/2c5f2ee68694d9899cdae6b5aafbb286011b0e13192550174326d1c378b14602.jpg)  
+图 $7 \gamma$ -TiAl金属间化合物铣削加工断面和表面形貌的OM像 Fig.7 Section (a) and surface gOM images of y-TiAlintermetalles after miling
+
+切削参数对表面粗糙度的影响如图8所示。由图8a可知，随着切削深度的增加， $\gamma$ -TiAl金属间化合物Y加工表面粗糙度逐渐增大。这是随着切削深度的增加，较大的切削力将会导致切削过程更加不稳定，从而增大加工表面粗糙度。除切削度之外，切削速率也是一个重要的影响因素，从图8b 可以看出，切削速率对表面粗糙度的影响很小。其原因是本实验所选速率范围较小，y-TiAl金属间化合物熔点也较高，交因此，在加工过程中的热软化效应较小。另外，从图8可以发现，粗度实验值介于矩形片层结构和六边形片层结构之间，且更接近与矩形片层结构的细观模型所得的模拟结果。
+
+![](images/b6c5dca8c5526a244a388d3dc10571df0c610ead149b2228565298ea136be2f7.jpg)  
+图8表面粗糙度与铣削深度和铣削速率的关系  
+Fig.8 Influence of cutting depth (a) and cutting speed (b) on surface roughness
+
+3.2边缘特性
+
+当切削刀具接近工件边缘时，负剪切角开始形成。图9为正六边形片层结构和矩形片层结构细观模型获得的 $\gamma$ -TiAl金属间化合物断裂前后工件出口处的边缘形貌。可以看出，2种细观模型所得的负剪切角大小相近。随着刀具进一步前进，当刀尖处的应变达到材料的失效应变时，裂纹开始萌生，如图9c 和d所示。不论是矩形片层结构还是六边形片层结构，裂纹大多出现在片层内部，很少出现在片层与片层之间的区域。对比图9c 和d可以发现，六边形片层结构的断口形貌比矩形片层结构的断口形貌更粗糙，这是由于六边形片层结构对裂纹的扩展阻力更大。图10所示为γ-TiAl金属间化合物断口形貌的 SEM像。可以看出，断口处主要是片层的脆性断裂，很少有沿片层之间的断裂，与模拟结果吻合，进一步证明本工作所建的细观模型能够很好地模拟 $\gamma$ -TiAl金属间化合物的加工变形。
+
+![](images/30fa436889f761528ccb3458b49f5c54b8cd595efcc47fb225d58550c837923d.jpg)  
+图9正六边形片层结构和矩形片层结构细观模型获得的 $\gamma$ -TiAl金属间化合物断裂前后的工件出口处的边缘形貌
+
+Fig. 9 Edge morphology on the exit surface of $\gamma$ -TiAl intermetallics obtained from hexagonal meso-model before fracture (a),rectangular meso-model before fracture (b), hexagonal meso-model after fracture (c) and rectangular meso-model after fracture (d)
+
+![](images/b7568279bc9a33647148144f644e5277e4fee0d0143bd16c1a0affbd83e01515.jpg)  
+图 $1 0 \gamma$ -TiAl金属间化合物断口形貌的SEM像 Fig.10 SEM fractographs of y-TiAl intermetallics
+
+图11所示为 $\gamma$ -TiAl金属间化合物铣削加工后边缘形貌的OM像。由于 $\gamma$ -TiAl金属间化合物内部片层发大小和取向的随机分布，边缘缺陷裂纹尖端选择阻力较小的路径进行扩展，导致加工边缘断裂形貌不规则。?为了研究切削速率和切削深度对边缘断口尺寸大小的影响，分别量取了不同铣削深度和铣削速率下实验和Y模拟所得的边缘断口尺寸。图12所为实验和模拟的断口尺寸随铣削深度和铣削速率的变化。可以看出，随切削深度的增加，断口尺寸逐渐知，相反，随切削速率的增加，边缘断寸略有下降。同样，实验X 发值介于矩形片层和正六边形片层细观模型模拟值之间。
+
+方
+
+![](images/63cb6aa89b177630a15ededcbccceaa3cdbc94009edfa4867804f84be79e6c03.jpg)  
+图11y-TiAl金属间化合物加工后工件边缘形貌的OM像 Fig.11 Edge OM image of $\gamma$ -TiAl intermetallics after milling
+
+![](images/35e914d3319179da7e2915bfd81c730fb364639d3705b9250b8caed009c5963e.jpg)  
+图12边缘断口尺寸与切削参数的关系
+
+Fig.12 Influence of cutting depth (a) andcuting speed (b) on size of edge fracture W 华
+
+4结论
+
+X(1）本工作建立的细观模型能够很好地我测 $\gamma$ -TiA金属间化合物加工表面形貌及边缘断裂特性。模拟结果表明，由于不同片层力学性能的差异导致加工表面，尤其是片层与片层之间容易形成凹坑等表面缺陷。Y另一方面，由于 $\gamma$ -TiAl金属间化合较低的延展性，在加工边缘处形成了负剪切平面，从而导致铣削加工边缘断裂不规则。 风 茶
+
+(2）实验与模拟结果表明，切削速率对表面粗糙度及边缘断口尺寸的影响较小，而切削深度的影响较发为明显。随着切削深度的增加，表面粗糙度及边缘断口尺寸呈线性增趋势。因此，在y-TiAl金属间化合物精密加工中，应尽可能地选用较高的切削速率，而不是切削深度。
+
+武你 中参考文献
+
+[1] Klocke F,Lung D,Arft M,et al. On high-speed turhing ofa third-generation gamma titanium aluminide [J]. Int. J.Adv.Manuf. Technol., 2013,65: 155
+
+[2] Boyer R R.An overview on the use of titanium in the aerospace industry[J]. Mater. Sci. Eng.,1996,A213: 103   
+[3]Liu R C,Wang Z,Liu D,et al. Microstructure and tensile properties of Ti-45.5Al-2Cr-2Nb-0.15B alloy processed by hot extrusion [J]. Acta Metall. Sin.,2013, 49: 641   
+(刘仁慈，王震，刘 冬等.Ti-45.5Al-2Cr-2Nb-0.15B合金热挤压组织与拉伸性能研究[J]．金属学报,2013,49: 641)   
+[4] Aspinwall D K, Dewes R C, Mantle AL. The machining of $\gamma$ -TiAl intermetallic alloys [J]. CIRP Ann.-Manuf. Technol., 2005, 54: 99   
+[5] Peng YB, Chen F, Wang M Z,et al. Relationship between mechanical properties and lamellar orientation of   
+PST crystals in Ti-45Al-8Nb alloy [J]. Acta Metall. Sin., 2013, 49: 1457   
+(彭英博，陈 锋，王敏智等.Ti-45Al-8Nb 合金PST 晶体片层取向与力学性能的关系[J].金属学报,2013,49:   
+1457)   
+[6] Kad B K, Dao M, Asaro R J. Numerical simulations of stress-strain behavior in two-phase $a _ { 2 } + \gamma$ lamellar TiAl   
+alloys [J]. Mater. Sci. Eng.,1995,A192-193: 97   
+[7] Su JL,Lin G F, Zheng S H. Eects of grain size and lamelar thickness on yield strength offully lamellar   
+γ-TiAl based alloys [J]. J. Aeronaut. Mater., 2009,29(4): 1   
+(苏继龙，林高飞，郑书河．晶粒尺寸和片层厚度对全片层 $\gamma \cdot$ -TiAl基合金屈服强度的影响[J]．航空材料学报,   
+2009, 29(4): 1)   
+[8] Su JL,Hu G K. Micromechanical study on yield Sress and the effects of twinning for $\gamma$ -TiAl-based PST   
+crystals [J]. Acta Metall. Sin., 2005, 41: 1243 学   
+(苏继龙，胡更开.y-TiAl基 PST 晶体的屈服应力及孪晶影响的细观力学研究[J]．金属学报,2005,41:1243) 海   
+[9] Inui H, Oh MH, Nakamura A, et Room-temperature tensile deformation of polysynthetically twinned (PST)   
+crystals of TiAl[J]. Acta Metall Mater1992, 40: 3095 参   
+[10] Li JG, Zhou Y J, Zlg Y G, et al. Microstructure and high-temperature cor ession behavior of Ti-48Al   
+PST crystals [J]. J. Aeronaut. Mater., 1998,18(1): 1 学 方   
+(林建国，周亚建，张永刚等.Ti-48Al合金PST晶体显微组织及高温压缩性能[J]．航空材料学报,1998,18(1):   
+1) 管 海   
+[11] Zheng R T, Zhang Y G, Chen C Q, et al. Influence of n boundary on the fracture toughness of full   
+lamellar y-TiAl alloys [J]. Rare Met. Mater. Eng.,2003 2:1003   
+(郑瑞廷，张永刚，陈昌麒等．晶界对全片层组织 $\gamma$ -TiAl合金断裂韧性的影响[J]．稀有金属材料与工程,2003,   
+32: 1003)   
+[12]FuLF,Lin JG, Cao G X, et al. Relationship between yield strength and microstructure of a fully lamellar   
+TiAl-based alloy[J]. Rare Met. Mater. Eng., 2001,30: 178   
+(付连峰，林建国，曹国鑫等．全片层 TiAl 基合金的屈服强度与显微组织关系[J].稀有金属材料与工程，   
+2001,30: 178)   
+[13] Priarone P C, Rizzuti S,Rotella G,et al. Tool wear and surface quality in milling of a gamma-TiAl   
+intermetalic [J]. Int. J. Adv. Manuf. Technol.,2012, 61: 25   
+[14] Pérez R G V. Wear mechanisms of WC inserts in face miling of gamma titanium aluminides [J]. Wear, 2005,   
+259: 1160 [15] Priarone PC,Rizzuti S,Settineri L,et al. Effects of cutting angle,edge preparation,and nano-structured coating on milling performance ofa gamma titanium aluminide[J]. J. Mater. Process.Technol.,2012, 212: 2619 [16] Kolahdouz S,Hadi M, Arezoo B,et al. Investigation of surface integrity in high speed miling of gamma titanium aluminide under dry and minimum quantity lubricant conditions [J]. Proc. CIRP,2015,26: 367 [17] Klocke F,Settineri L,Lung D,et al. High performance cuting of gamma titanium aluminides: Influence of lubricoolant strategy on tool wear and surface integrity [J]. Wear, 2013, 302: 1136   
+[18] Hood R,Aspinwall D K, Sage C, et al. High speed ball nose end milling of $\gamma$ -TiAl alloys [J]. Intermetallics, 2013,32: 284   
+[19] Mantle AL, Aspinwal D K. Surface integrityof a high speed milled gamma titanium aluminide[J]. J. Mater. Process. Technol.,2001,118:143 茶   
+[20] Hood R,Aspinwall D K, Soo S L, et al.Workpiec Brface ntegrity when slot milling $\gamma$ TiAl intermetallic 沙   
+alloy [J]. CIRP Ann.-Manuf. Technol., 2014, 63: 53   
+W   
+[21] Fu Z T, Yang W Y, Zeng S Q . Identfication of constitutive model parameters for nickel aluminum bronze in machining [J]. Trans. Nonfe rous Met. Soc. China,2016,26: 1105   
+[22] Wu Q, Zhang YD, Zg H W. Corner-milling of thin walled cavities components [J].Chin. J. Aeronaut., 2009, 22: 677 方   
+[23] Dong H Y, Ke Y L. Study on machining deformation of aircraft monolithic component by FEM and experiment [J]. Chin. J. Aeronaut., 2006,19: 247 属 海   
+[24] Gasik M M. Elastic properties of lamellar Ti-Al alloys [J]. p. Mater. Sci., 2009,47: 206   
+[25] Wang S. An optimal method for elastoplastic fin element analysis [J]. Acta Mech. Solida Sin.,1990,11: 272   
+(王 苏．弹塑性有限元的一种最优化方法[J]．固体力学学报,1990,11:272)   
+[26] Zhou L,Wang Y,Ma Z Y,etal.Finite element and experimental studies of the formation mechanism of edge defects during machining of SiCp/Al composites [J]. Int. J. Mach. Tool. Manu., 2014, 84: 9

@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "1 湿热应激对藏绵羊和山羊生长性能、抗氧化能力以及免疫功能的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 张　灿　王之盛\\* 彭全辉邹华围　景小平 蒲启建",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （四川农业大学动物营养研究所，雅安625014）]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1  \n4摘要：本试验旨在研究藏绵羊和山羊在相同营养及湿热应激条件下血清激素、抗氧化和免  \n5 疫指标的变化规律，考察湿热应激对藏绵羊和山羊生长性能、抗氧化能力以及免疫功能影响  \n6 的差异。选取年龄和体重[( $\\underline { { 4 5 . 8 3 } } \\pm 3 . 5 4 ,$ ）kg]相近的藏绵羊与山羊（波尔山羊 $\\times$ 本地黄羊)  \n7 各6只，试验共进行 $1 3 5 { \\mathrm { d } }$ ，其中预试期15d，正试期 $1 2 0 \\mathrm { d }$ 。每日测定温湿度指数（THI)，  \n8 每月测定藏绵羊和山羊的血清相关指标。结果表明：1）5—7月份，羊舍 THI随月份的增加  \n9 显著升高 $( P { < } 0 . 0 5 )$ )，6—8月份羊舍THI均大于72，因此将6一8月份定为湿热应激期。2)7、  \n10 8月份藏绵羊和山羊直肠温度和呼吸频率均显著高于5月份（ $. P { < } 0 . 0 5 \\rangle$ ，且湿热应激期内藏  \n11 绵羊直肠温度和呼吸频率均显著高于山羊（ $P { < } 0 . 0 5$ )。3)正试期内，湿热应激使得藏绵羊和  \n12 山羊的干物质采食量最大降幅分别为 $1 0 . 7 0 \\%$ 和 $1 0 . 4 4 \\%$ ，平均日增重（ADG）最大降幅分别  \n13 为 $5 0 . 0 0 \\%$ 和 $4 7 . 8 2 \\%$ 。4）羊舍THI由71.17（5月份）升高到 76.82（7月份），藏绵羊和山  \n14 羊血清皮质醇和胰岛素浓度显著升高（ $. P { < } 0 . 0 5 )$ ，血清葡萄糖和三碘甲状腺原氨酸浓度显著  \n15 降低（ $P { < } 0 . 0 5 )$ 。湿热应激下，藏绵羊血清中生长激素和甲状腺素浓度的最大降幅均大于山  \n16 羊。5）除藏绵羊7月份和山羊8月份血清总抗氧化能力，藏绵羊和山羊7、8月份的血清超  \n17 氧化物歧化酶、谷胱甘肽过氧化物酶活性和总抗氧化能力均显著低于5月份（ $_ { _ { P < 0 . 0 5 } ) }$ ，血  \n18 清丙二醛浓度均显著高于5月份（ $P { < } 0 . 0 5 \\$ )。湿热应激下，山羊血清超氧化物歧化酶活性、  \n19 总抗氧化能力和丙二醛浓度变化幅度均大于藏绵羊。6）与5月份相比，藏绵羊和山羊8月  \n20 份的血清免疫球蛋白A、免疫球蛋白M、免疫球蛋白G 和白细胞介素-2 浓度显著降低  \n21 （ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，而血清肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度则显著升高（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ )。湿热应激下，藏绵羊血清免  \n22 疫球蛋白、白细胞介素-2 和肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度的变化幅度均大于山羊。综上所述，湿热  \n23 应激状态下藏绵羊和山羊的呼吸频率和直肠温度升高，抗氧化能力和免疫功能降低，从而导  \n24 致生长性能降低。藏绵羊生长性能和免疫功能受湿热应激影响较大，而山羊抗氧化能力受湿  \n25 热应激影响较大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词，混执应激，藏绰羊，山羊，生长桩能，坑氩化能力，免抗T能中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "养羊业是我国畜牧业的重要组成部分，我国肉羊业发展快速，2005—2014年10年间肉羊存栏数同比增长 $1 . 7 5 \\%$ ，羊肉产量增长 $2 2 . 3 1 \\% ^ { 1 }$ 1。藏绵羊（Ovisaries）经长期的进化和选育，具有耐高海拔、低氧和低温的能力，是青藏高原上养殖数量最多的家畜，约3000万头，是我国养羊业重要的组成部分，为高原牧民提供了重要的物料资源。“牧繁农育”是现实生产中反刍动物饲养常采用的一种生产经营方式，而低海拔的西南农区夏季湿热环境往往会导致畜禽产生湿热应激，湿热应激会导致畜禽机体代谢紊乱、免疫力下降、生产性能降低[2]。在热应激状态下，热适应性强的家畜有较低的呼吸频率和直肠温度[3，其通过呼吸和排汗散发的热量增多，代谢水平和水分流失率也比普通家畜低[4。目前国内的研究较多的集中在添加剂缓解热应激效果方面[5-6]，对于不同品种反刍动物在湿热应激状态下机体代谢变化规律的研究尚缺。目前关于藏绵羊从高海拔牧区到低海拔农区后，其对湿热应激的适应性如何未见报道。鉴于此，本试验提过考察藏绵羊和山羊在湿热应激条件下生理生化、机体抗氧化和免疫功能相关指标的变化，旨在比较生活在不同海拔地区的肉羊品种对湿热应激适应性的差异，为我国南方地区夏季肉羊应对湿热应激提供试验依据，并为拓展藏绵羊的饲养区域和实现“牧繁农育”提供指导意见。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物和试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验采用配对试验设计，设藏绵羊组和山羊组2个组。选取1.5岁、体重为（45.83±3.54）kg 的健康藏绵羊和山羊（波尔山羊 $\\times$ 本地黄羊）各6只，羯羊和母羊占1/2。藏绵羊购自四川省阿坝州红原县牧区（海拔 $3 5 0 4 \\mathrm { m }$ )，山羊购自绵阳市三台县（海拔 $6 7 2 \\mathrm { m }$ )",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2015年4月16日至2015年8月30日在四川雅安市四川农业大学动物营养研究所科研基地（海拔 $6 0 1 \\mathrm { ~ m ~ }$ ）开展饲养试验。试验开始前对所有羊只驱虫，参照《肉羊饲养标准》（NY/T816—2004)，按照体重 $5 0 \\mathrm { k g }$ 、日增重 $2 0 0 \\ \\mathrm { g }$ 育肥羊的饲养标准配制饲粮，精粗比为55:45。饲粮组成及营养水平见表1。试验动物圈舍饲养，每天08:00 和15:00各饲喂1次，饲养期间自由饮水。试验共进行 $1 3 5 { \\mathrm { d } }$ ，其中预试期 $1 5 { \\mathrm { d } }$ ，正试期 $1 2 0 \\mathrm { d }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9252dd22c79e68d1f0bc7d4ab7c1bb10f150e8c9e468b0496e46e0f1feb38904.jpg",
+        "table_caption": [
+            "表1饲粮组成及营养水平 (干物质基础)",
+            "Table1 Composition and nutrient levels of the diet (DM basis) $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平Nutrient levels</td><td>含量 Content</td></tr><tr><td>玉米Com</td><td>28.00</td><td>代谢能ME/(MJ/kg)3)</td><td>11.47</td></tr><tr><td>小麦麸Wheat bran</td><td>12.00</td><td>粗蛋白质CP</td><td>15.38</td></tr><tr><td>菜籽饼Rapeseed cake</td><td>10.00</td><td>粗纤维CF</td><td>13.80</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc9d02a5e1beba3bb2fefe1dacc1e290d2bf3f94eeed09c1fd21879b16d5ab40.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>豆粕Soybean meal</td><td>2.90</td><td>中性洗涤纤维 NDF</td><td>32.40</td></tr><tr><td>浓香型酒糟Grain stillage （strength flavor type）1</td><td>20.00</td><td>酸性洗涤纤维 ADF</td><td>21.24</td></tr><tr><td>稻草干草 Straw hay</td><td>25.00</td><td>粗脂肪 EE</td><td>3.54</td></tr><tr><td>预混料Premix2</td><td>0.55</td><td>粗灰分 Ash</td><td>8.98</td></tr><tr><td>食盐 NaCl</td><td>0.55</td><td>钙Ca</td><td>0.61</td></tr><tr><td>小苏打NaHCO3</td><td>1.00</td><td>总磷P</td><td>0.45</td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i5 D浓香型酒糟购自宜宾市五粮液酒厂。Grain stillage（strength flavor type）was purchased from Wuliangye   \ni6 distillery of Yibin city.   \ni7 2)每千克预混料含有 One kilogram of premix contained the following:VA 20o 000 IU， $\\mathrm { V D } _ { 3 } 8 0 0 0 0 \\mathrm { I U }$ ，VE   \ni8 $6 0 0 \\mathrm { I U }$ ，Fe $4 2 { \\mathrm { ~ g ~ } }$ ， $\\mathrm { C u } 5 0 \\mathrm { m g }$ ， $ { \\mathrm { M n } } \\ : 0 . 4 5 \\ : \\mathrm { g }$ ， $\\mathrm { { Z n 0 . 2 4 g } }$ ， $\\mathrm { ~ I ~ } 0 . 1 4 \\mathrm { ~ g ~ }$ ，Se $0 . 1 6 \\mathrm { \\ g }$ ， $\\mathrm { C o 4 0 \\ m g }$ 。 3）代谢能为计算值，其余营养水平为实测值。ME was acalculated value,while the other nutrient levels were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每次饲喂前称取给料量，第2天晨饲前收集料槽中剩余饲料，计算每圈试验羊每日的干物质采食量（DMI)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015 年5一8月，每月的1日晨饲前对所有试验羊空腹称重，计算平均日增重（ADG)。并同时对所有试验羊颈静脉采血 $1 0 ~ \\mathrm { m L }$ ，静置 $3 0 \\mathrm { m i n }$ 后 $4 0 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ 制备血清，分装于 $1 . 5 ~ \\mathrm { m L }$ 灭菌离心管中， $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存，用于后续血清指标的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 环境温、湿度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在羊舍的中部和两端距离地面约 $1 . 5 \\mathrm { m }$ 高处悬挂3只干湿球温度计，避免动物触及。于每日08:00、11:00、14:00 和17:00 记录羊舍的干球温度（ $T _ { \\mathrm { d } }$ ）和湿球温度（ $\\langle T _ { \\mathrm { w } }$ )，并计算每日平均温湿度指数（THI)，THI计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T H I { = } 0 . 7 2 \\times \\ : \\left( \\it { T _ { \\mathrm { d } } { + } } T _ { \\mathrm { w } } \\right) \\ : + } 4 0 . 6 ^ { [ 7 ] } \\ : \\mathrm { _ { \\circ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 直肠温度和呼吸频率 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "直肠温度和呼吸频率的测定参照 Johnson 等[8的方法。正式试验期内每10d利用秒表和计数器测定羊只的呼吸频率，分别于每日08:00和14:00 各测定1次，每次测定 $1 ~ \\mathrm { m i n }$ 内的呼吸次数，连续测定3次求平均值。每次测定呼吸频率之后，用兽用体温计测定试验羊直肠温度，分别于每日08:00 和14:00 各测定1次，取2次测定的平均值。测定直肠温度具体操作步骤为：将兽用体温计汞柱甩至 $3 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以下，随后用医用酒精消毒并涂抹润滑剂(凡士林)，保定待测羊后将体温计插入直肠约 $5 \\mathrm { c m }$ ，5min后取出读数并记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 血清指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血清中葡萄糖（GLU）浓度由四川农业大学兽医院生化实验室采用意大利AMS公司的AUTOLABPM-4000批量式全自动生化分析仪测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清中皮质醇（COR）、胰岛素（INS）、生长激素（GH）、三碘甲状腺原氨酸（T3）、甲状腺素（T4)、白细胞介素-2（IL-2）、肿瘤坏死因子 $\\mathfrak { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）浓度采用酶联免疫吸附试验（ELISA）法测定，超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（GSH-Px）活性、总抗氧化能力（T-AOC）、丙二醛（MDA）浓度采用比色法测定，免疫球蛋白A（IgA）、免疫球蛋白M(IgM)、免疫球蛋白 $\\mathrm { G } ( \\mathrm { I g G } )$ 浓度采用免疫浊度法测定，上述指标测定所用试剂盒均购于南京建成生物工程研究所。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 Excel2016 软件进行基础数据的整理，品种间比较采用 SPSS19.0 软件进行独立样本t检验，品种内比较采用 SPSS19.0软件进行单因素方差分析（one-Way ANOVA)，并采用Duncan 法进行多重比较，设显著性水平为 $P { < } 0 . 0 5$ ，结果采用“平均值±标准差”方式表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1羊舍内 THI变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正试期内羊舍 THI的变化情况如表2和图1所示。正试期内羊舍 THI逐渐升高，6、7、8月份的THI均显著高于5月份（ $. P { < } 0 . 0 5$ ）且在数值上均大于72，据此将整个试验阶段分为非应激期（5月份）和湿热应激期（6一8月份）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/439854bc1b1dae4e57b248ad502e72d81b231c599fed9544834d93a435b46c92.jpg",
+        "table_caption": [
+            "表2正试期内羊舍THI的月变化",
+            "Table 2Monthly change of THI in barn during trial period "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著 （ $_ { _ { P < 0 . 0 5 } ) }$ 。Values in the same row with different small letter superscripts mean significant different $( P { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>干球温 度Td/℃</td><td>21.24±2.45c</td><td>24.11±1.70b</td><td>27.67±1.72a</td><td>26.59±2.05b</td></tr><tr><td>湿球温 度Tw/℃</td><td>20.18±2.33b</td><td>22.25±1.72a</td><td>22.79±1.04a</td><td>23.08 ±1.27a</td></tr><tr><td>温湿度 指数</td><td>71.17±3.10c</td><td>75.41±2.25b</td><td>76.82±1.67a</td><td>76.36±2.26a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e2b1a7d5fa7884457d815bb1893ed28614667336f76183bdc74c97fdcf49438.jpg",
+        "img_caption": [
+            "图1正试期内羊舍THI的日变化",
+            "Fig.1Daily change of THI in barn during trial period "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2THI变化对藏绵羊和山羊直肠温度和呼吸频率的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，藏绵羊和山羊的直肠温度和呼吸频率均随 THI的升高而升高，藏绵羊的直肠温度和呼吸频率均表现为7和8月份显著高于5和6月份（ $. P { < } 0 . 0 5 ^ { \\cdot }$ )，6月份显著高于5月份（ $P { < } 0 . 0 5 )$ ；山羊的直肠温度表现为7月份显著高于5、6和8月份（ $. P { < } 0 . 0 5 \\$ ，8月份显著高于5月份（ $( P { < } 0 . 0 5 )$ ；山羊的呼吸频率表现为6、7和8月份显著高于5月份（ $. P { < } 0 . 0 5 )$ 。湿热应激期内藏绵羊直肠温度和呼吸频率均显著高于山羊（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ )。藏绵羊和山羊的直肠温度最大增幅分别为 $2 . 1 9 \\%$ 和 $0 . 9 7 \\%$ ，呼吸频率最大增幅分别为 $9 8 . 4 9 \\%$ 和 $3 3 . 7 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c47e75b820509e262b5ba45a825106219cacc7096a8c1b49e4286d0c1d18beb.jpg",
+        "table_caption": [
+            "表3不同时期藏绵羊和山羊的生理指标",
+            "Table 3Physiological parameters of Tibetan sheep and goats at different periods "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 ~ { \\cdot }$ ，同列数据肩标不同大写字母表示差异显著中 $( P { < } 0 . 0 5 )$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">品种 Breed</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>直肠温度</td><td>藏绵羊</td><td>39.20±0.18c</td><td>39.58±0.30Ab</td><td>40.06±0.31Aa</td><td>40.03±0.28Aa</td></tr><tr><td>RT/C</td><td>山羊</td><td>39.15±0.13c</td><td>39.26±0.21Bbc</td><td>39.53±0.36Ba</td><td>39.32±0.25Bb</td></tr><tr><td>呼吸频率</td><td>藏绵羊</td><td>75.93±14.35c</td><td>116.95±16.11Ab</td><td>147.67±8.60Aa</td><td>150.71±12.40Aa</td></tr><tr><td>RR/(次/min)</td><td>山羊</td><td>72.14±10.66b</td><td>94.88±15.79Ba</td><td>96.45±19.13Ba</td><td>96.07±15.91Ba</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant different ( $_ { ( P < 0 . 0 5 ) }$ . In the same column,values with different capital superscripts mean significant different $( P { < } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3THI变化对藏绵羊和山羊生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，THI的变化对藏绵羊和山羊的DMI和ADG 均产生了一定的影响。藏绵羊的DMI表现为7和8月份显著低于5和6月份（ $_ { _ { P < 0 . 0 5 } }$ )，山羊的DMI表现为8月份显著低于5月份 $( P { < } 0 . 0 5 )$ ；藏绵羊的ADG表现为8月份显著低于5月份（ $( P { < } 0 . 0 5 )$ ，山羊的ADG表现为7和8月份显著低于5月份（ $_ { _ { P < 0 . 0 5 ) } }$ 。正试期内藏绵羊和山羊的DMI和ADG 差异均不显著 $( P { > } 0 . 0 5 )$ 。藏绵羊和山羊的DMI最大降幅分别为 $1 0 . 7 0 \\%$ 和 $1 0 . 4 4 \\%$ ，ADG最大降幅分别为 $5 0 . 0 0 \\%$ 和 $4 7 . 8 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/171794655242f4e36e210e3252c089d865a081ddf47b0c4627be2268df1e8c5d.jpg",
+        "table_caption": [
+            "Table 4Performance of Tibetan sheep and goats at different periods kg/d "
+        ],
+        "table_footnote": [
+            "；2.4 THI变化对藏绵羊和山羊血清指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">品种 Breed</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>干物质</td><td>藏绵羊</td><td>1.87±0.20a</td><td>1.75±0.30ab</td><td>1.68±0.30b</td><td>1.67±0.29b</td></tr><tr><td>采食量 DMI</td><td>山羊</td><td>1.82±0.17ab</td><td>1.88±0.27a</td><td>1.75±0.19ab</td><td>1.63±0.22b</td></tr><tr><td>平均日</td><td>藏绵羊</td><td>0.24±0.02a</td><td>0.18±0.06ab</td><td>0.18±0.04ab</td><td>0.12±0.02b</td></tr><tr><td>增重 ADG</td><td>山羊</td><td>0.23±0.03a</td><td>0.17±0.07ab</td><td>0.15±0.02b</td><td>0.12±0.01b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5 可知，藏绵羊和山羊血清COR 浓度随 THI的升高而升高，藏绵羊血清COR 浓度除5、6月份间差异不显著（ $. P { > } 0 . 0 5$ ）外，其他月份间均差异显著（ $P { < } 0 . 0 5 )$ ，而山羊血清COR浓度则表现为7、8月份显著高于5、6月份（ $. P { < } 0 . 0 5$ ),5月份显著高于6月份（ $. P { < } 0 . 0 5 )$ 。THI由71.17(5月份)升高到76.82(7月份)使藏绵羊和山羊血清GLU浓度显著降低( $( P { < } 0 . 0 5 )$ ，降幅分别为 $3 6 . 2 5 \\%$ 和 $2 6 . 8 1 \\%$ 。与5月份相比，藏绵羊血清INS 浓度在6、7月份显著升高$P { < } 0 . 0 5 \\$ ，山羊血清INS浓度在6、7、8月份显著升高（ $( P { < } 0 . 0 5 )$ ，藏绵羊和山羊的最大增幅分别为 $2 7 . 5 2 \\%$ 和 $3 0 . 0 4 \\%$ 。与5月份相比，藏绵羊血清T3 浓度在6、7、8月份以及血清T4 和GH浓度在8月份均显著降低（ $. P { < } 0 . 0 5 )$ ，山羊血清T3和T4浓度在7、8月份以及血清GH浓度在8月份均显著降低( $( P { < } 0 . 0 5 )$ )。藏绵羊和山羊血清T4浓度最大降幅分别为 $4 8 . 4 9 \\%$ 和 $3 6 . 5 9 \\%$ ，血清GH浓度最大降幅分别为 $4 5 . 5 0 \\%$ 和 $3 6 . 3 2 \\%$ 。藏绵羊血清COR 浓度在7月份显著低于山羊 （ $. P { < } 0 . 0 5 )$ ，血清INS 浓度在8月份显著低于山羊（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ )，血清T3浓度在6、7、8月份均显著低于山羊（ $_ { . P < 0 . 0 5 ) }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc1aadbc5558e84bf1bab3a245a216be7d54c5b44d37599e97b9ea9fb863c97f.jpg",
+        "table_caption": [
+            "表4不同时期藏绵羊和山羊的生长性能",
+            "表5不同时期藏绵羊和山羊的血清指标",
+            "Table 5Serum indices of Tibetan sheep and goats at different periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">品种 Breed</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>皮质醇 COR/</td><td>藏绵羊</td><td>16.18±1.08c</td><td>20.36±0.71Bc</td><td>28.96±1.26Bb</td><td>39.35±3.83a</td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>17.67±4.40c</td><td>37.46±3.72Ab</td><td>47.06±2.08Aa</td><td>43.84±2.28a</td></tr><tr><td>葡萄糖 GLU/</td><td>藏绵羊</td><td>4.80±0.50a</td><td>3.65±0.44b</td><td>3.06±0.22b</td><td>3.17±0.55b</td></tr><tr><td>(mmol/L)</td><td>山羊</td><td>4.55±0.64a</td><td>3.85±0.56ab</td><td>3.33±0.58b</td><td>3.54±0.51b</td></tr><tr><td>胰岛素 INS/</td><td>藏绵羊</td><td>14.06±1.34c</td><td>17.93±0.38a</td><td>15.92±1.25b</td><td>15.36±0.53Bbc</td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>13.78±1.18b</td><td>16.52±2.16a</td><td>17.34±0.93a</td><td>17.92±1.11Aa</td></tr><tr><td>三碘甲状腺原</td><td>藏绵羊</td><td>4.90±0.17Ba</td><td>4.26±0.27Bb</td><td>4.15±0.27Bb</td><td>2.53±0.61Bc</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd601fe458ae1fba0d6e09719dbafcf1a0757e3911bce9ba8cf82c4c25dbb063.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.5THI变化对藏绵羊和山羊血清抗氧化指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氨酸T3/</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>8.13±0.81Aa</td><td>8.28±0.75Aa</td><td>6.60±0.44Ab</td><td>4.02±0.49Ab</td></tr><tr><td>甲状腺素 T4/</td><td>藏绵羊</td><td>61.93±1.57a</td><td>59.68±1.57a</td><td>55.71±4.45a</td><td>31.90±4.47b</td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>59.86±4.90a</td><td>65.68±4.54a</td><td>49.14±6.68b</td><td>37.96±4.01c</td></tr><tr><td>生长激素 GH/</td><td>藏绵羊</td><td>3.89±0.23a</td><td>3.34±0.17a</td><td>3.49±0.04a</td><td>2.12±0.58b</td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>3.80±0.52a</td><td>3.69±0.03a</td><td>3.18±0.41ab</td><td>2.42±0.20b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，除藏绵羊7月份和山羊8月份血清T-AOC，藏绵羊和山羊7、8月份的血清 SOD、GSH-Px 活性和T-AOC 均显著降低5月份（ $_ { _ { P < 0 . 0 5 } ) }$ ，血清 MDA 浓度均显著高于5月份 $( P { < } 0 . 0 5 )$ )。藏绵羊和山羊血清 SOD活性最大降幅分别为 $2 3 . 4 6 \\%$ 和 $34 . 8 4 \\%$ ，血清T-AOC最大降幅分别为 $2 5 . 8 0 \\%$ 和 $2 8 . 4 6 \\%$ ，血清 MDA 浓度最大增幅分别为 $2 9 . 2 3 \\%$ 和 $4 2 . 0 7 \\%$ 。藏绵羊血清 SOD 活性和 T-AOC 在7月份显著高于山羊（ $_ { _ { P < 0 . 0 5 ) } }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/08c47cd25e0b702d04c78b653377a1a46b57091f1ead7978fc22b6f953170a5c.jpg",
+        "table_caption": [
+            "表6不同时期藏绵羊和山羊血清抗氧化指标",
+            "Table 6Serum antioxidant indices of Tibetan sheep and goats at different periods "
+        ],
+        "table_footnote": [
+            "2.6THI变化对藏绵羊和山羊血清免疫指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">品种 Breed</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>超氧化物歧 化酶 SOD</td><td>藏绵羊</td><td>42.16±6.08a</td><td>40.53±5.69ab</td><td>34.71±4.40Abc</td><td>32.27±5.40c</td></tr><tr><td>(U/L)</td><td>山羊</td><td>41.48±5.36a</td><td>42.29±3.75a</td><td>27.03±4.00Bb</td><td>29.82±2.58b</td></tr><tr><td>谷胱甘肽过 氧化物酶</td><td>藏绵羊</td><td>436.34±42.31a</td><td>400.23±45.62a</td><td>334.44±49.76b</td><td>262.41±41.47c</td></tr><tr><td>GSH-Px/ (U/L)</td><td>山羊</td><td>422.16±37.99a</td><td>411.38±53.27a</td><td>314.21±38.93b</td><td>302.68±76.10b</td></tr><tr><td>总抗氧化能</td><td>藏绵羊</td><td>343.72±22.22a</td><td>322.67±46.71a</td><td>312.97±61.65Aab</td><td>255.05±32.40b</td></tr><tr><td>力T-AOC/ (U/L)</td><td>山羊</td><td>336.70±44.92a</td><td>333.72±40.96a</td><td>240.87±29.62Bb</td><td>287.74±30.90ab</td></tr><tr><td>丙二醛</td><td>藏绵羊</td><td>13.58±1.83b</td><td>12.93±1.17b</td><td>17.55±1.96a</td><td>17.29±2.58a</td></tr><tr><td>MDA/ (pmol/L)</td><td>山羊</td><td>12.29±2.14c</td><td>15.50±2.94b</td><td>17.46±1.53a</td><td>17.10±1.38a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，与5月份相比，藏绵羊和山羊血清IgA、IgM、IgG 浓度在7、8月份均有不同程度的降低，藏绵羊和山羊血清IgA 浓度最大降幅分别为 $4 8 . 9 0 \\%$ 和 $3 4 . 1 4 \\%$ ，血清IgM浓度最大降幅分别为 $4 9 . 2 1 \\%$ 和 $3 6 . 0 2 \\%$ ，血清IgG 浓度最大降幅分别为 $4 0 . 3 3 \\%$ 和 $2 5 . 3 9 \\%$ 。藏绵羊和山羊血清IL-2浓度随THI的升高而降低，且7、8月份显著低于5、6月份( $( P { < } 0 . 0 5 )$ ，藏绵羊和山羊血清 IL-2 浓度最大降幅分别为 $4 8 . 8 4 \\%$ 和 $3 9 . 5 9 \\%$ 。藏绵羊和山羊血清 TNF $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度随THI的升高而升高，且7、8月份显著高于5、6月份（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ ）（ $( P { < } 0 . 0 5 )$ ，藏绵羊和山羊血清TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度最大增幅分别为 $6 3 . 6 4 \\%$ 和 $2 1 . 4 3 \\%$ 。藏绵羊6月份血清IgA、IgM浓度及8月份血清IgA、IgG 浓度均显著低于山羊（ $P { < } 0 . 0 5 )$ ；藏绵羊5月份血清TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度显著低于山羊 （ $. P { < } 0 . 0 5 \\$ )；正试期内藏绵羊血清IL-2 浓度均显著低于山羊（ $. P { > } 0 . 0 5 \\$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/67dd24fa12a5ece14481f762981f5929638763d20dc38ab604989f47812bcdcf.jpg",
+        "table_caption": [
+            "表7不同时期藏绵羊和山羊血清免疫指标",
+            "Table 7Serum immune indices of Tibetan sheep and goats at different periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">品种 Breed</td><td colspan=\"4\">月份Month</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>免疫球蛋白 A IgA/</td><td>藏绵羊</td><td>2.27±0.26a</td><td>1.92±0.04Bb</td><td>2.02±0.05ab</td><td>1.16±0.07Bc</td></tr><tr><td>(mg/mL)</td><td>山羊</td><td>2.49±0.16a</td><td>2.50±0.06Aa</td><td>1.95±0.26b</td><td>1.64±0.25Ab</td></tr><tr><td>免疫球蛋白 M IgM/</td><td>藏绵羊</td><td>2.54±0.40a</td><td>2.42±0.19Ba</td><td>2.45±0.10a</td><td>1.29±0.30b</td></tr><tr><td>(mg/mL)</td><td>山羊</td><td>2.97±0.04b</td><td>3.56±0.31Aa</td><td>2.46±0.13b</td><td>1.90±0.56c</td></tr><tr><td>免疫球蛋白 G IgG/</td><td>藏绵羊</td><td>9.05±0.99a</td><td>8.39±1.48a</td><td>8.97±0.67a</td><td>5.40±0.20Bb</td></tr><tr><td>(mg/mL)</td><td>山羊</td><td>10.99±0.55a</td><td>10.80±0.68a</td><td>8.20±0.74b</td><td>8.39±0.25Ab</td></tr><tr><td>白细胞介素 -2 IL-2/</td><td>藏绵羊</td><td>34.36±3.00Ba</td><td>29.97±3.11Bb</td><td>17.58±2.00Bc</td><td>18.64±2.65Bc</td></tr><tr><td>(ng/L)</td><td>山羊</td><td>38.97±1.78Aa</td><td>36.30±2.67Aa</td><td>23.54±2.83Ab</td><td>23.84±2.08Ab</td></tr><tr><td>肿瘤坏死因 子α TNF-α/</td><td>藏绵羊</td><td>0.22±0.04Bc</td><td>0.26±0.05c</td><td>0.36±0.02a</td><td>0.31±0.01b</td></tr><tr><td>(ng/mL)</td><td>山羊</td><td>0.28±0.03Ab</td><td>0.27±0.05b</td><td>0.34±0.03a</td><td>0.34±0.04a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1THI变化对藏绵羊和山羊直肠温度和呼吸频率的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "直肠温度和呼吸频率是用来衡量动物生理状态的重要指标，热应激使家畜直肠温度和呼吸频率升高，生理状态发生改变[9]。Srikandakumar等[10]研究表明，热应激状态下阿曼绵羊直肠温度与其增幅低于美利奴绵羊，表明阿曼绵羊机体的储热能力较强并且具有较强的热耐受性，从而降低热应激造成的额外的水和能量消耗；而较低的呼吸频率和呼吸频率增幅表明阿曼绵羊维持能量需要量低于美利奴绵羊，受到热应激的影响较小。本研究发现，湿热应激使藏绵羊和山羊呼吸频率和直肠温度升高，藏绵羊直肠温度和直肠温度增幅大于山羊，说明湿热环境下藏绵羊机体储热能力较差，热耐受性能低于山羊。湿热应激状态下藏绵羊呼吸频率和呼吸频率增幅大于山羊，因此其机体维持能量需要量也更高，受到湿热应激的影响更大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2THI变化对藏绵羊和山羊生长性能和血清指标的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，热应激可显著降低动物的DMI[I和 ADG[1I-12]。本研究发现，湿热应激状态下藏绵羊和山羊的DMI和ADG均有不同程度的降低，藏绵羊的DMI于7月份显著降低且降幅大于山羊，藏绵羊的 ADG 降幅大于山羊，表明湿热应激对藏绵羊生长性能的影响较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COR 是应激反应发生的生物标志物，热应激状态下动物血清COR浓度显著升高[13]。本研究发现，随 THI的升高，藏绵羊和山羊进入湿热应激状态，血清COR 含量显著升高，与前人研究一致。热应激状态下动物生长受阻与机体GH 分泌减少有关，Renaville 等[4]认为T4 与GH有协同促生长作用，而热应激状态下动物机体甲状腺功能减退，T3、T4分泌减弱[15]；此外，McGuire 等[16]研究发现，热应激会导致奶牛血液GH浓度降低。因此，热应激通过影响动物血液T3、T4 和GH浓度而影响动物的生长性能。本研究发现，湿热应激使藏绵羊和山羊血清T3、T4与GH浓度降低，与前人研究结果一致，表明在湿热应激状态下，藏绵羊和山羊机体产热降低的同时合成代谢降低，生长速率减慢，这与其ADG 降低的结果一致。此外，本研究还发现藏绵羊血清T4 和GH 浓度的降幅均大于山羊，与其 ADG 降幅较大的结果一致，表明藏绵羊的生长性能受湿热应激影响更大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究发现，热应激可使肉牛[17]和泌乳奶牛[18]血液 INS 浓度显著升高，但热应激对反刍动物血液中GLU 浓度影响的研究结果不尽一致，Mahjoubi等[2]认为这可能是由于泌乳家畜和肉用家畜血液中GLU 代谢速率不同，导致肉用家畜血液中GLU 浓度无显著变化而泌乳奶牛血液中GLU 浓度降低。本研究发现，湿热应激使藏绵羊和山羊血清 INS 浓度升高而血清GLU 浓度降低，可能是由于热应激使羊只维持能量需要量升高，而能量利用效率降低导致血清GLU浓度降低。藏绵羊呼吸频率更高，因而更多的能量用于维持需要，因此其 ADG降幅大于山羊。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3THI变化对藏绵羊和山羊抗氧化能力的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "动物血清中的 SOD、GSH-Px具有清除自由基的能力，是体内重要的抗氧化酶[19]，抗氧化系统受损则导致血液中 SOD、GSH-Px 的活性降低[20]。研究发现，热应激使奶牛血液抗氧化酶的活性降低[21]，受到的氧化应激反应增强，抗氧化系统受损[22]。Megahed 等[23]研究发现，热应激可显著降低水牛血液 SOD 活性和 T-AOC。Yang 等[24]研究表明，热应激状态下动物机体氧化反应加剧，使脂质过氧化物MDA积累，造成细胞膜氧化损伤。本研究发现，湿热应激使藏绵羊和山羊血清 SOD 和GSH-Px 活性及T-AOC 显著降低，MDA含量显著升高，与前人研究结果一致。此外，湿热应激状态下山羊血清 SOD活性、T-AOC 和 MDA 浓度的变化幅度大于藏绵羊，表明在湿热应激状态下，山羊抗氧化能力受到的影响大于藏绵羊。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4THI变化对藏绵羊和山羊免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "免疫球蛋白是体内免疫系统的重要组成部分，其中IgG 是免疫球蛋白的主成分，约占血清中免疫球蛋白总浓度的 $7 5 \\%$ 。热应激对奶牛免疫功能有抑制作用[25]。Tao 等[26]研究发现，热应激使奶牛血清 IgG 浓度显著降低，影响免疫功能；Starkie 等[27]认为，热应激使男性机体血液TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 等细胞因子的浓度升高，机体炎症反应加剧，从而影响机体免疫功能。但目前关于热应激对不同品种动物免疫功能影响的研究未见报道。本研究发现，湿热应激使藏绵羊和山羊血清免疫球蛋白（IgA、IgM、IgG）浓度显著降低，IL-2 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度显著升高，与 Starkie 等[27]和Cheng 等[28]的研究结果一致；此外，藏绵羊血清免疫球蛋白、IL-2 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 浓度的变化幅度大于山羊，表明湿热应激对藏绵羊免疫功能的影响较大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 湿热应激导致藏绵羊和山羊的呼吸频率和直肠温度升高，同时伴随着生长性能、抗氧化能力和免疫功能的下降。$\\textcircled{2}$ 藏绵羊生长性能和免疫功能受湿热应激影响较大，而山羊抗氧化能力受湿热应激影响较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]中华人民共和国国家统计局.中国统计年鉴[M].北京:中国统计出版社,2014. [2]RHOADS M L,RHOADS R P,VANBAALE M J,et al.Effects of heat stress and plane of nutrition on lactating Holstein cows: I .Production,metabolism,and aspects of circulating somatotropin[J].Journal of Dairy Science,2009,92(5):1986-1997. [3]MCMANUS C,PRESCOTT E,PALUDO G R,et al.Heat tolerance in naturalized Brazilian cattle breeds[J].Livestock Science,2009,120(3):256-264. [4]GAUGHAN J,LACETERA N,VALTORTA S E,et al.Response of domestic animals to climate challenges[M]//EBI K L,BURTON I,MCGREGOR G R.Biometeorology for adaptation to climate variability and change.Netherlands:Springer.2Oo9:131-170. [5]杨游,袁志琳,董国忠,等.饲粮中添加脂肪酸钙和烟酸铬对热应激奶牛产奶性能、生 理指标及血清生化指标的影响[J].动物营养学报,2012,24(1):145-151. [6]杨耐德,黄晓亮,高振华,等.烟酸对热应激奶牛营养物质表观消化率及血清生化指标 的影响[J].中国饲料,2010(12):20-23. [7]MAUST L E,MCDOWELL R E,HOOVEN N W.Effect of summer weather on performanceofholsteincowsinthreestagesoflactation[J].JournalofDairy Science,1972,55(8):1133-1139. [8]JOHNSON J S,SCHARF B,WEABER R L,et al.Paterns of heat response and adaptation on summer pasture:a comparison of heat-sensitive (Angus) and-tolerant (Romosinuano) cattle[J].Journal of Thermal Biology,2012,37(1):344-350. [9]SILANIKOVE N.Effects of heat stress on the welfare of extensively managed domestic ruminants[J].Livestock Production Science,200O,67(1/2):1-18. [10]SRIKANDAKUMAR A,JOHNSON E H,MAHGOUB O.Effect of heat stress on respiratory rate,rectal temperature and blood chemistry in omani and australian merino sheep[J].Small Ruminant Research,2003,49(2):193-198. [11]MAHJOUBI E,YAZDI M H,AGHAZIARATI N,et al.The effect of cyclical and severe heat stress on growth performance and metabolism in Afshari lambs[J].Journal of Animal Science,2015,93(4):1632-1640. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12]MAHJOUBI E,AMANLOU H,MIRZAEI-ALAMOUTI H R,et al.The effect of cyclical and mild heat stress on productivity and metabolism in Afshari lambs[J].Journal of Animal Science,2014,92(3):1007-1014. [13]RONCHI B,STRADAIOLI G,SUPPLIZI A V,et al.Influence of heat stress or feed restriction on plasma progesterone,oestradiol-17β,LH,FSH,prolactin and cortisol in Holstein heifers[J].Livestock Production Science,2001,68(2/3):231-241. [14]RENAVILLE R,HAMMADI M,PORTETELLE D.Role of the somatotropic axis in the mammalian metabolism[J].Domestic Animal Endocrinology,2002,23(1/2):351-360. [15]MAGDUB A,JOHNSON H D,BELYEA R L.Effect of environmental heat and dietary fiber on thyroid physiology of lactating cows[J].Journal of Dairy Science,1982,65(12):2323-2331. [16]MCGUIRE M A,BEEDE D K,COLLIER R J,et al.Effects of acute thermal stress and amount of feed intake on concentrations of somatotropin,insulin-like growth factor (IGF)- I and IGF- II ,and thyroid hormones in plasma of lactating Holstein cows[J].Journal of Animal Science,1991,69(5):2050-2056. [17]O'BRIEN M D,RHOADS R P,SANDERS S R,et al.Metabolic adaptations to heat stress in growing catle[J].Domestic Animal Endocrinology,2010,38(2):86-94. [18]WHEELOCK J B,RHOADS R P,VANBAALE M J,et al.Effects of heat stress on energetic metabolism in lactating Holstein cows[J].Journal of Dairy Science,2010,93(2):644-655. [19]KURATA M,SUZUKI M,AGAR N S.Antioxidant systems and erythrocyte life-span in mammals[J].Comparative Biochemistry andPhysiologyPart B:Comparative Biochemistry,1993,106(3):477-487. [20]MILLER J K,BRZEZINSKA-SLEBODZINSKA E,MADSEN F C.Oxidative stress,antioxidants,and animal function[J].Journal of Dairy Science,1993,76(9):2812-2823. [21] HARMON R J,LU M,TRAMMEL D S,et al.Influence of heat stress and calving on antioxidant activity in bovine blood[J].Journal of Dairy Science,1997,80(2):264-272. [22]BERNABUCCI U,RONCHI B,LACETERA N,et al.Markers of oxidative status in plasma and erythrocytes of transition dairy cows during hot season[J].Journal of Dairy Science,2002,85(9):2173-2179. [23] MEGAHED G A,ANWAR M M,WASFY S I,et al.Influence of heat stress on the cortisol and oxidant-antioxidants balance during oestrous phase in buffalo-cows (Bubalus bubalis):thermo-protectiveroleofantioxidanttreatment[J].ReproductioninDomestic Animals,2008,43(6):672-677. [24]YANG L,TAN G Y,FU Y Q,et al.Effects of acute heat stress and subsequent stress removal on function of hepatic mitochondrial respiration,ROS production and lipid peroxidation inbroiler chickens[J].Comparative Biochemistry and Physiology Part C:Toxicology& Pharmacology,2010,151(2):204-208. [25] CAROPRESE M,MARZANO A,ENTRICAN G,et al.Immune response of cows fed polyunsaturatedfattyacidsunderhighambienttemperatures[J].JournalofDairy Science,2009,92(6):2796-2803. [26]TAO S,MONTEIRO A P A,THOMPSON I M,et al.Efect of late-gestation maternal heatstressongrowth andimmune function ofdairy calves[J].Journal ofDairy Science,2012,95(12):7128-7136. [27]STARKIE R,HARGREAVES M,ROLLAND J,et al.Heat stress,cytokines,and the immune response to exercise[J].Brain,Behavior,and Immunity,20o5,19(5):404-412. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28]CHENG J B,ZHENG N,SUN X Z,et al.Feding rumen-protected gamma-aminobutyric acid enhances the immune response and antioxidant status of heat-stressed lactating dairy cows[J].Journal of Thermal Biology,2016,6O:103-108. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effects of Moist-Heat Stress on Growth Performance, Oxidation Resistance and Immunity of Tibetan Sheep and Goats ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "'HANG CanWANG Zhisheng\\*PENG Quanhui ZOU Huawei JING XiaopingPU Qijian (Institute of Animal Nutrition, Sichuan Agricultural University,Ya'an 625O14, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The present study was conducted to investigate the variation regularities of serum hormone，antioxidant and immune indices of Tibetan sheep and goats raised under the same nutritional condition with moist-heat environment,and aimed to reveal the different efects of moist-heat stress on growth performance,oxidation resistance and immunity between Tibetan sheep and goats. Six individuals of Tibetan sheep and goats (Boar goatxlocal yellow goat) were selected based on similar age and body weight $[ ( 4 5 . 8 3 \\pm 3 . 5 4 ) \\mathrm { k g } ]$ . Feeding experiment lasted for 135 days,including a 15-day adaption period and another 12O-day text period. Temperature and humidity of sheep barn was measured daily and temperature-humidity index (THI) was calculated, and serum related indices of Tibetan sheep and goats were monitored monthly.The results showed as follows: 1) the THI of sheep barn was significantly raised in May to July along with month increasing $( P { < } 0 . 0 5 )$ . The THI of sheep barn was above 72 in June to August so that this period was regarded as the moist-heat stress period.2) Respiratory rate and rectal temperature of Tibetan sheep and goats were all significantly increased in July and August compared those in May （2 $( P { < } 0 . 0 5 )$ . Compared with goats, Tibetan sheep presented a significantly higher respiratory rate and rectal temperature during the moist-heat stress period ( $( P { < } 0 . 0 5 )$ .3）During the text period, the maximal decrease of dry matter intake (DMI) of Tibetan sheep and goats was $1 0 . 7 0 \\%$ and $10 . 4 4 \\%$ ， respectively， besides, the maximal decrease of average daily gain was $5 0 . 0 0 \\%$ and $4 7 . 8 2 \\%$ respectively. 4) The THI of sheep barn was raised from 71.17 (May) to 76.82 (July) resulted in a significant rise in serum cortisol and insulin concentrations( $P { < } 0 . 0 5$ ）accompanied with a significant reduction in serum glucose and triiodothyronine concentrations ( $( P { < } 0 . 0 5 )$ . The maximal amplifications in serum growth hormone and thyroxine concentrations of Tibetan sheep were larger than those of goats under moist-heat stress.5） In addition to the serum total antioxidant capacity (T-AOC) of Tibetan sheep (July) and goat (August), the superoxide dismutase (SOD), glutathione peroxidase (GSH- $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ ） activities and T-AOC in July and August were all significantly decreased compared with those in May $( P { < } 0 . 0 5 )$ ，while the serum malondialdehyde (MDA) concentration was significantly increased ( $\\scriptstyle ( P < 0 . 0 5 )$ ). Under moist-heat stress,the variation ranges of serum SOD activity,T-AOC and MDA concentration of goat were larger than those of Tibetan sheep. 6) The serum immunoglobulin A (IgA), immunoglobulin M (IgM),immunoglobulin G (IgG) and interleukin-2 (IL-2) concentrations of Tibetan sheep and goat were all significantly decreased in August compared with May $( P { < } 0 . 0 5 )$ ，while the serum tumor necrosis factor- $\\mathbf { \\nabla } \\cdot \\mathbf { a } _ { } $ (TNF- $\\mathbf { \\alpha } _ { \\mathbf { \\alpha } } \\mathbf { a }$ ） concentration was significantly increased ( $( P { < } 0 . 0 5 )$ ). Under moist-heat stress,the variation ranges of serum immunoglobulin, IL-2 and TNF- $\\mathfrak { a }$ concentrations of Tibetan sheep were larger than those of goat. It is concluded that moist-heat stress increase the respiratory rate and rectal temperature in both Tibetan sheep and goats accompanied with the decrease of growth performance, oxidation resistance and immunity. The Tibetan sheep is affected severer by moist-heat stress on growth performance and immunity，whereas the oxidation resistance of goat is affected severer by moist-heat stress. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: moist-heat stress; Tibetan sheep; goat; growth performance; oxidation resistance; immunity ",
+        "page_idx": 12
+    }
+]

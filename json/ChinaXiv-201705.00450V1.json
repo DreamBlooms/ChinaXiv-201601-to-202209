@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "Multifunctional Antireflection Coatings Based on Novel Hollow Silica-Silica Nanocomposites ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xianpeng Zhang, Pinjun Lan,† Yuehui Lu,\\* Jia Li, Hua Xu, Jing Zhang† YoungPak Lee, Joo Yull Rhee, Kwang-Leong Choy,# and Weijie Song\\*,+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Ningbo Institute of Material Technology and Engineering, Chinese Academyof Sciences,Ningbo 315201, China   \n\\*Department of Physics, Faculty of Science, Ningbo University, Ningbo 315211,China   \n\\$Quantum Photonic Science Research Center and Department of Physics, Hanyang University, Seoul 133-791, South Korea   \n⊥Department of Physics, Sungkyunkwan University, Suwon 440-746, South Korea   \n#Faculty of Enginering, The University of Nottingham, University Park, Notingham NG7 2RD, United Kingdom ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Antireflection (AR) coatings that exhibit multifunctional characteristics， including high transparency， robust resistance to moisture, high hardness, and antifogging properties， were developed based on hollow silica-silica nanocomposites. These novel nanocomposite coatings with a closed-pore structure， consisting of hollow silica nanospheres (HSNs) infiltrated with an acid-catalyzed silica sol (ACSS), ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6638a2e661a248fb1269673044fa84e9567365ae2aa8934aee8a613b328973f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "werefabricatedusingalow-costsol-geldip-coating method.Therefractiveindex ofthenanocompositecoatings was tailored by controlling the amount of ACSS infltrated into the HSNs during synthesis. Photovoltaic transmittance $\\left( T _ { \\mathrm { P V } } \\right)$ values of $9 6 . 8 6 - \\$ $9 7 . 3 4 \\%$ were obtained over a broad range of wavelengths, from 300 to $1 2 0 0 ~ \\mathrm { { n m } }$ ; these values were close to the theoretical limit for a lossy single-layered AR coating $( 9 7 . 7 2 \\% )$ . The nanocomposite coatings displayed a stable $T _ { \\mathrm { P V } } ,$ with degradation values of less than $4 \\%$ and $0 . 1 \\%$ after highly accelerated temperature and humidity stress tests, and abrasion tests, respectively.In addition, the nanocomposite coatings had a hardness of approximately $1 . 6 \\mathrm { \\ G P a } _ { \\mathrm { 3 } }$ ， while the porous silica coatings with an open-pore structure showed more severe degradation and had a lower hardnessThe void fractionand surface roughnessof the nanocompositecoatings could becontrolled, which gave riseto near-superhydrophicand antifogging characteristics.The promising results obtained in this study suggest that the nanocompositecoatings have the potential tobe ofbenefit for the design,fabrication,anddevelopmentof multifunctionalARcoatings withbothomnidirectional broadband transmisioand long-term durabitythat arerequired fordemanding outdoor aplications in energy harvestingand optical instrumentation in extreme climates or humid conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORs: multifunctional, antireflection coatings,hollw silicananocomposites， durabilityntifoging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Various coatings on glass have been developed in order to achieve a variety of functional characteristics，including at properties.For example,Chiang et al.reported that the use of zeolite coatings can provide the antireflective and antiscratch characteristics.³ Laroche et al. developed a polymer-based antifogging coating that was covalently grafted onto glass surfaces using a multistep process.4 Yang et al. reported the use of nanopatterning to create self-cleaning and antireflective surfaces on glass.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conventional dense single-layered antireflection (SLAR) coatings are able to suppress Fresnel reflection arising from the different refractive indices of air and glass,1 thus improving the conversion efficiency of photovoltaic (PV） modules.69 However， such dense coatings with a quarter-wave optical thickness can only eliminate partial reflection at a specific wavelength. Hence，various multilayered,8-10 gradient refractive-index,11-13 and nanopatterned14,15 antireflection (AR) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "coatings have been developed to extend and optimize the low-reflectance regime. In an alternative approach， porous SLAR coatings with a refractive index even lower than the lowest possible refractive index for dense AR coatings (i.e., $n _ { \\mathrm { M g F } _ { 2 } } \\approx 1 . 3 8 )$ are widely used in industry for the encapsulated solar glass in photovoltaic (PV) modules.16,17 Such porous SLAR coatings exhibit high transmittance over a broad range of wavelengths,and they can be manufactured on large-area glass substrates at low cost.18-21 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However， the solar glass used in PV modules often encounters moisture，rain，and high temperatures (typically, constant temperatures of between 21 and $5 3 ^ { \\circ } \\mathrm { C } ,$ and maximum temperatures of 7S and $9 6 ~ ^ { \\circ } \\mathrm { C }$ for rack-mounted and roofmounted modules，respectively）during operation，which can lead to the irreversible corrosion of the glass and the degradation of the transmission； these detrimental processes arise from ion exchange and/or network dissolution.22,23 AR coatings on solar glass must therefore be able to resist external weathering and protect the solar glass as well as suppress reflection over a broad range of wavelengths,3,24-27 because of the nature of the solar irradiance spectrum. Unfortunately, the porous surface of AR coatings is prone to adsorb contaminants, giving rise to the variations in the refractive index and degradation of the transmission，as well as poor mechanical reliability in the porous flms,which are the major bottlenecks preventing the practical use of AR-coated solar glass in PV e $( \\sim 5 0 \\% )$ must be preserved in AR coatings，because it is responsible for the broadband antireflection originating from the low refractive index of ${ \\sim } 1 . 2 2$ However, the high porosity of these AR coatings would bring about the poor durability. These conflicting requirements mean that the practical design and fabrication of AR coatings remains highly challenging.Boilot et al.19 suggested that a possible solution could be to transform the open pores into closed pores with a diameter of $3 0 { - } 1 0 0 ~ \\mathrm { { n m } }$ ,thus avoiding the adsorption of moisture and capillary condensation.Fortunately, there have been the studies to synthesize hollow nanoparticles,30-33 which could be good candidate building blocks for SLAR coatings. Rubner et al.34 demonstrated that AR coatings made from hollow silica nanospheres (HSNs） with closed-pores using a sacrificial template method unambiguously decreased the reflection over the wavelength range from the near-ultraviolet to the visible.He et al.35 fabricated hollow mesoporous silica nanospheres (i.e.,with open and closed pores） using LbL dipcoating, and these materials produced a significant reduction in the reflection from the visible to the near-infrared regions. However, to date,it has proven difficult to control the desired refractive index precisely using the sacrificial template approach. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/69b4c609821ece6f2469fd773822b8bd2275221098099b5fb9dbd48df4665b74.jpg",
+        "img_caption": [
+            "Figure 1.(a) Contour plot of the PV transmittance, $T _ { \\mathrm { P V } } ,$ as a function of the thickness and refractive index of the SLAR coating.(b) Calculated transmittance spectra of an ideal lossless SLAR coating (with a thickness of $1 1 8 ~ \\mathrm { { n m } }$ and arefractive index of1.23）and a bare solar glass,overlaid with the solar spectral irradiance at AM1.5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the optical function and the specified wettability are confined to a simple pairwise integration of two distinct fields.6 For example, Jiang et al. demonstrated that the templated silicon and glass subwavelength pillar arrays could be conferred with antireflective and superhydrophobic characteristics by functionalizing them with fluorosilane via a silane coupling reaction.37 If a multifunctional single-layered coating system could be developed to provide coatings with the desired functional characteristics (i.e.,a combination of antireflective, antiscratch, antifogging, damp-proof, and self-cleaning properties),it would simplify the processing and reduce the cost of coated glass.Such coated glass would be highly desirable for practical engineering applications such as energy harvesting, and for use in optical instrumentation in extreme climates or humid conditions.Although some effort has been dedicated to the realization of multifunctional coatings,38,39 such studies are very limited at present. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To avoid the complexity of sacrificial template removal during the synthesis of HSNs and achieve high transmission (over the range of $\\lambda = 3 0 0 { - } 1 2 0 0 \\ \\mathrm { n m } ,$ ）withsuperior durability and inherent wettability，we developed a facile strategy to prepare novel silica-silica nanocomposite SLAR coatings on solar glass using a sol-gel dip-coating method. These new composite materials,consisting of HSNs synthesized using a poly(acrylic acid)(PAA) template and an acid-catalyzed silica sol(ACSS)infiltrated into the HSNs,which acted as a binder and aregulator of the refractive index,provided more degrees of freedom for the control of the optical and surface wetting properties.By varying the amount of ACSS,the refractive index was tuned to an optimum value that was found from PVtransmittance oriented numerical calculations,which allowed a significant improvement in the antireflection properties of the silica-silica nanocomposite SLAR coatings to be achieved.The durability of the coatings was studied using a highly accelerated temperature and humidity stress test (HAST）and a nanoindenter measurement.The surface wettability was investigated using a time-dependent water contact angle(WCA）measurement,and the antifogging characteristics of the coatings were also demonstrated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THEORETICALDESIGN ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The PV transmittance, $T _ { \\mathrm { P V } } ,$ was introduced to evaluate the transmittance of solar irradiance; $T _ { \\mathrm { P V } }$ isa weighted average transmittance,and can be defined as follows4048 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { { P V } } } = \\frac { \\sum _ { \\lambda _ { \\operatorname* { m i n } } } ^ { \\lambda _ { \\operatorname* { m a x } } } T ( \\lambda ) S _ { \\lambda } \\Delta \\lambda } { \\sum _ { \\lambda _ { \\operatorname* { m i n } } } ^ { \\lambda _ { \\operatorname* { m a x } } } S _ { \\lambda } \\Delta \\lambda }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { \\operatorname * { m i n } } , \\lambda _ { \\operatorname * { m a x } } T ( \\lambda ) , S ( \\lambda ) .$ ，and $\\Delta \\lambda$ are the shortest wavelength, the longest wavelength, the wavelength-dependent transmittance,the solar irradiance intensity,and the wavelength increment, respectively. Similarly,the PV reflectance, $R _ { \\mathrm { P V } } ,$ could be calculated by replacing $T ( \\lambda ) \\dot { }$ in eq 1 with $R ( \\lambda )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Byvarying the thicknessand the refractive index of the SLAR coatings from 10 to $2 0 0 \\ \\mathrm { n m }$ and 1.1 to 1.8，respectively, excluding the dispersion and absorption for simplicity,high $T _ { \\mathrm { P V } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/795cbeb04c14eb8d3e075517b05cb71420a00955dc9e32c4bac31cb7ee0a9596.jpg",
+        "table_caption": [
+            "Table 1. Calculated and Measured $T _ { \\mathbf { P V } }$ and $R _ { \\mathrm { P V } } ;$ Improvements in $T _ { \\mathbf { P V } }$ and $R _ { \\mathbf { P V } }$ Relative to the Values for the Bare Solar Glass (which are shown in parentheses) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>case</td><td>calcd Tpv (%)</td><td>measured Tpv (%)</td><td>calcd Rpv (%)</td><td>measured Rpv (%)</td></tr><tr><td>solar glass</td><td>91.50</td><td>91.21</td><td>8.28</td><td>8.56</td></tr><tr><td>ideala</td><td>98.09 (6.59)</td><td></td><td>0.55 (7.73)</td><td></td></tr><tr><td>ideal with lossh</td><td>97.72 (6.22)</td><td></td><td>0.55 (7.73)</td><td></td></tr><tr><td>T= 450C</td><td>97.50 (6.00)</td><td>97.28 (6.07)</td><td>0.61 (7.67)</td><td>2.27 (6.29)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\"It corresponds to the maximum $T _ { \\mathrm { P V } }$ in Figure la, where therefractive index is 1.23 and the thickness is $1 1 8 ~ \\mathrm { n m }$ bThe parameters (i.e., refractive ndexandicksaretheeaseidealcsecetattheetictioetisssudtoehatofaoomositecotigs ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e031e5137f2bed164242921e20bb3176f48447a15604f04af10edf371161a356.jpg",
+        "img_caption": [
+            "Hollow silica-silica nanocomposite SLAR coating ",
+            "igure 2.Schematic illstration of the preparation of the SLAR coatings,made from HSNs infiltrated by AC "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "values of approximately $9 8 \\%$ could beachieved,if the thickness was in the range of $1 0 8 { - } 1 2 3 ~ \\mathrm { n m }$ and the refractive index was in the range of 1.21-1.26,as shown in Figure la.An ideal SLAR coating with the highest $T _ { \\mathrm { P V } }$ of $9 8 . 0 9 \\%$ should have a thickness of $1 1 8 \\ \\mathrm { n m }$ anda refractive index of 1.23.The transmittance spectrum of the ideal SLAR coating is shown in Figure 1b, overlaid with the solar spectral irradiance at AMl.5.The transmittance of the ideal SLAR coating was much higher than that of the bare solar glass,over the whole wavelength range. This was especially clear in the wavelength range of 400-700 nm;in this wavelength range $T _ { \\mathrm { P V } }$ showed an increase of $6 . 5 9 \\%$ compared with the bare solar glass $\\mathit { \\Delta } ^ { \\prime } T _ { \\mathrm { P V } } \\ = \\ 9 1 . 5 0 \\% )$ ，as summarized in Table 1.This was because most solar irradiance is distributed in this wavelength region.Therefore，SLAR coatings with a thickness and a refractive index in the range of $1 0 8 { \\ - } 1 2 3 \\ \\mathrm { n m }$ and 1.21-1.26,respectively，could be beneficial for light harvesting in PV modules. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSAND METHODS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Torealize SLAR coatings with the previously described desirable properties，we implemented a facile,chemical solution-based,softtemplate route to synthesize silica nanospheres containing the PAA template viaa modified Stober method; ACSS was then infiltrated into the nanosphere matrix,and this was followed by calcination to achieve hollow silica-silica nanocomposites.A schematic illustration of the synthesis is shown in Figure 2.The reasons for the incorporation of ACSS into the silica nanosphere matrix will be explained later in more detail.A control sample of the porous silica SLAR coating with an open-pore structure was fabricated on a glass substrate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Sols.First, $0 . 0 7 5 \\mathrm { ~ g ~ }$ of PAA was dissolved in $3 ~ \\mathrm { m L }$ of ammonium hydroxide,and this solution was subsequently added into $5 0 ~ \\mathrm { \\ m L }$ of anhydrous ethanol $( \\mathrm { C } _ { 2 } \\mathrm { H } _ { 5 } \\mathrm { O H } ,$ ，EtOH)．This was followed by the injection of five aliquots of teraethylorthosilicate $( \\mathrm { S i } ( \\mathrm { O C } _ { 2 } \\mathrm { H } _ { 5 } ) _ { 4 } ,$ TEOS）totaling $0 . 5 \\ \\mathrm { \\ m L } ;$ the aliquots were added at intervals of $^ \\mathrm { ~ 1 ~ h , }$ under vigorous magnetic stirring at room temperature. After $^ { 1 0 \\mathrm { ~ h , ~ } }$ a light blue colloid containing $4 0 \\ \\mathrm { n m }$ silica nanospheres filled with the PAA (with an average molecular weight of 3,000) template were formed.The ACSS was prepared via the hydrolysis of TEOS in the presence of a catalyst, hydrochloric acid (HCl),at room temperature.The molar ratios used in the synthesis were $\\mathrm { { T E O S } { : } H C l { : } H _ { 2 } O { : } E t O H = 1 { : } 1 { . } 7 \\times 1 0 ^ { - 3 } { : } 4 { : } 4 0 }$ After stirring for $^ { 4 \\ \\mathrm { h } , }$ the sol was aged for four days.An alkali-catalyzed silica sol was also synthesized using an ammonia catalyst to prepare a porous silica SLAR coating as a control sample，where the molar ratios of TEOS:N$\\mathrm { H } _ { 3 } \\mathrm { O H }$ :EtOH were 0.25:0.75:45. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fabrication of SLAR Coatings.The SLAR coatings were prepared using a SYDC-2oo dip-coating machine.The $2 \\ \\mathrm { m m }$ -thick solar glass slides( $\\mathrm { 7 5 } \\times 2 5 \\mathrm { m m } ^ { 2 } ,$ from China Southern Glass were used as substrates.Before dip-coating, the glass substrates were washed twice using detergent, followed by ultrasonic cleaning using water and ethanol for $1 0 \\ \\mathrm { m i n }$ each.The silica nanospheres filled with the PAA template were deposited on the glass substrate with a withdrawal speed of $2 . 8 ~ \\mathrm { m m } / \\mathrm { s }$ .After the samples were dried for $1 0 ~ \\mathrm { m i n }$ in air, the ACSS was subsequently coated on the PAA-filled silica nanospheres usinga withdrawal speed of $1 . 2 ~ \\mathrm { m m / s }$ Finally, the PAA templatewas removed via calcination in air (performed at $3 0 0 { - } 4 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 1 h }$ to form the hollow silica-silica nanocomposite SLAR coatings.A control sample of the porous silica SLAR coating was fabricated on a glass substratewithawithdrawal speedof $1 \\mathrm { m m } / \\mathrm { s }$ using the alkali-catalyzed silica sol; the calcination was performed at the same temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Characterization of the Microstructure and Morphology. After being calcined for $^ { \\textrm { 1 h } , }$ the HSNs were characterized usinga field emission transmission electron microscope (FE-TEM,FEI Tecnai F20）to confirm the structure of the hollow nanospheres. The microstructure and surface morphology were investigated using a scanning electron microscope (SEM,Hitachi S-48oo）and an atomic force microscope (AFM, CSPM 55oo,Benyuan Nano). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optical Measurements.The refractive index and the extinction coefficient of the deposited thin films and solar glass substrates were determined via the spectroscopic ellipsometry measurements (M2000- DI,J.A. Woollam Co.）using a Cauchy model.24 The optical transmittance and reflectance spectra were measured using an ultraviolet-visible-near-infrared (UV-vis-NIR） spectrophotometer (Lambda9So,Perkin-Elmer） with an integrating sphere attached and the resolution was $1 \\mathrm { n m }$ for a wavelength range from 300 to $1 2 0 0 ~ \\mathrm { { n m } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optical Simulations.According to the solar spectral irradiance at Air Mass1.5 (AM1.5,ASTM G173-03),42 $T _ { \\mathrm { P V } }$ was calculated as a function of thickness and refractive index for the two-sided coated ideal SLAR coatings on solar glass using a $4 \\times 4$ propagation matrix method43,44 The opticalconstants for the bare solar glass including the refractive index and the extinction coefficient, were determined experimentally via the spectroscopic elipsometry measurements. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HAST Evaluation.The HAST(PC-422R8,Hirayama)was carried outat a temperature of $1 2 1 ^ { \\circ } \\mathrm { C } ,$ a relative humidity (RH) of $9 7 \\% ,$ and a gauge pressure of $0 . 1 ~ \\mathrm { M P a }$ . In this accelerated mode,a test equivalent to a $1 0 0 0 \\mathrm { ~ h ~ }$ damp heat test ( $8 5 ~ ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ RH) could be completed within only tens of hours. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Measurements of the Mechanical Properties.The elastic modulus and hardness of the coatings were determined using a nano indenter (NANO G2oo,MTS).Before performing any indentation, the indenter was stabilized so that the thermal drift rate wasless than $0 . 0 5 \\ \\mathrm { n m } / s$ .Forall indentations,a constant strain rate $( 0 . 0 5 ~ \\mathrm { ~ s ~ } ^ { - 1 } )$ loading was used.For each sample,a $2 \\times 2$ array with a size of $5 0 \\times 5 0$ $\\mu \\mathrm { m } ^ { 2 }$ was scanned and statistically analyzed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The abrasion tests were performed using a wet abrasion scrub tester (JTX-II,Pushen).Before starting the tests,the brush was dipped in washing liquid with a $\\mathrm { \\tt p H }$ value of $9 . 5 \\mathrm { - } 1 1 . 0$ for $2 0 ~ \\mathrm { m i n }$ .The samples were scrubbed by the brush witha scrub rate of 37 times/min.The 1000 scrub cycles were applied to each side.The abrasion resistance was evaluated by comparing the $T _ { \\mathrm { P V } }$ values before and after the tests. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Time-Dependent WCA and Anti-Fogging Measurements. The water contact angle was measured using an optical contact angle system(OCA 20,Dataphysics）with a droplet volume of $2 ~ \\mu \\mathrm { L }$ .The temporal evolution was recorded using a CCD camera with a frame rate of SO frames per second.The antifogging behavior was assessed by keeping the silica-silica nanocomposite SLAR coatings at a temper ature of $- 1 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 3 \\ \\mathrm { h } , }$ and then exposing them to the ambient laboratoryair(RH: $3 0 { - } 5 0 \\%$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACSS Infiltration as a Binder and Regulator.In this synthesis protocol, the PAA,which acted as a template,was first enclosed by silica,and then removed via calcination.The shell of thickness was controlled by varying the amount of TEOS used,and the ratio of PAA to ethanol determined the particle $\\mathsf { s i z e } ^ { 3 \\dot { 3 } , 3 4 }$ (see theSupportingformationigurewich shows the variation in the particle size by varying the amount of PAA).As shown in Figure 3a, the synthesized HSNs had a mean diameter of $4 0 \\ \\mathrm { n m }$ and a shell thickness of $\\textsf { S n m }$ The surface morphology of the HSNs-based thin films is shown in Figure 3b; the HSNs were uniformly distributed with the gaps on the order of tens of nanometers.The refractive index of the film was approximately 1.15 at a wavelength of $5 0 0 ~ \\mathrm { n m }$ (see Supporting Information, Figure S2)，much lower than that of the ideal SLAR coating，n = (nairnglass) $n ~ = ~ \\stackrel {  } { ( \\displaystyle n _ { \\mathrm { a i r } } n _ { \\mathrm { g l a s s } } ) } ^ { 1 / 2 } ~ \\approx ~ 1 . 2 3$ relationship between the refractive index and the porosity can be described as follows45 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2349194ec9a50cd85fc93ef6ee496e0fb92faa9628384696fe87fbe29151540d.jpg",
+        "img_caption": [
+            "Figure 3.(a) TEMimage of the HSNs.(b) SEM image of the surface morphology of a thin film consisting solely of HSNs.(c） SEM image of the silica-silica nanocomposite SLAR coating consisting of HSNs and ACSS,which reveals low porosity.(d) Corresponding 3D AFM image of the nanocomposite SLAR coating. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { \\mathrm { p } } ^ { 2 } = { \\left( n ^ { 2 } - 1 \\right) } { \\left( 1 - \\frac { P } { 1 0 0 } \\right) } + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { \\mathrm { { p } } }$ and $n$ are the refractive indices of porous and nonporous materials，respectively，and $P$ represents the percentage porosity. Considering that $n$ was constant ( ${ \\bf \\dot { \\chi } } _ { n } = 1$ for the pores in the hollow silica nanosphere (HSN) films), eq 2 suggested that the way to increase the refractive index of the HSN films was to reduce the porosity, $P$ ；that is,the gaps between the HSNs should be partially filled. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACSS tends to produce linearly or randomly branched chain molecules.46 This behavior could have been responsible for the formationof the dense films with a high refractive index of 1.46 at a wavelength of $5 0 0 \\ \\mathrm { n m }$ (see the Supporting Information, Figure S2). In our experiments, we chose ACSS to fillthe gaps surrounding the HSNs,resulting in the formation of silica一 silica nanocomposite SLAR coatings.As shown in Figure 3c, the ACSS penetrated the gaps between the HSNs such that the gaps were substantially filled after infiltration with the ACSS,in contrast with those shown in Figure 3b.This bridging of the gaps suggested that the mechanical properties of the nanocomposite SLAR coatings would likely be strengthened. In addition， the nanocomposite SLAR coating showed a rootmean-square roughness of $1 4 . 4 \\ \\mathrm { n m }$ ，as determined from the AFM measurements (see Figure 3d).This surface roughness had the potential to have an impact on the wettability，as suggested by the Wenzel equation.47 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e9831fd2d68b564978c4d3b7b544aa02f9013e15f46316085f4ea929916ea28.jpg",
+        "img_caption": [
+            "Figure4.(a)ExptalletederactiesdbeicotsfteililoieR coatingndasbae.dddsudtesooiibt (e)Calculated and (f) measured reflectance spectra of the nanocomposite SLAR coating and the bare substrate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Besides bridging the gaps between the HSNs,ACSS also played a role in tuning the refractive index. The optical constants of the silica-silica nanocomposite SLAR coatings, determined using the spectroscopic ellipsometry measurements,are plotted with the values for the solar glass substrate in panels a and b in Figure 4.These figures indicated that the refractive index of the nanocomposite SLAR coating had an increased value of 1.21 at a wavelength of ${ 5 0 0 } \\ \\mathrm { n m } ,$ ，compared with that of the HSN film without the infiltration of ACSS, 1.15.This value was very close to that of the ideal SLAR coating,1.23.In contrast, the extinction coefficient decreased, as shown in Figure 4b;this was attributed to the infiltration of ACSS into the HSN film,which resulted in a smoothening of the surface of the flm.Hence，the scattering loss was suppressed. This also suggested that the refractive index of the silica-silica nanocomposite SLAR coatings could be tuned to some extent by controlling the amount of ACSS used (i.e., the withdrawal speed of ACSS during the process of infltrating the ACSS into the HSN flms). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AR Properties.Panels c and d in Figure 4 show the calculated and the measured transmittance spectra of a silicasilica nanocomposite SLAR coating with a thickness of $1 2 5 ~ \\mathrm { { n m } }$ that was calcined at $4 5 0 \\ ^ { \\circ } \\mathrm { C } ,$ compared with the spectra of the bare glass. The reflectance spectra are shown in panels e and f in Figure 4. The measurements were in good agreement with the calculations,especially at wavelengths longer than $6 0 0 ~ \\mathrm { { n m } }$ The discrepancies at short wavelengths were ascribed to the deviation of the extracted optical constants in this wavelength regime.It should be noted that the calculated reflectance was smaller than the measured value for the silica-silica nanocomposite SLAR coatings within the range of wavelengths investigated in this study.We believe that small differences between the numerically extracted and the real refractive indices and small variations in the thickness likely gave rise to the observed disparity，because the reflectance of the nanocomposite SLAR coating itself was rather low.In contrast, the calculated and the measured transmittance of the bare solar glass showed no significant differences in the range of wavelengths investigated，as summarized in Table 1.The calculated and the measured $R _ { \\mathrm { P V } }$ values of the bare solar glass were 8.28 and $8 . 5 6 \\%$ ,respectively,whereas the nanocomposite SLAR coating had a measured $R _ { \\mathrm { P V } }$ of $2 . 2 7 \\%$ ，which was much higher than the calculated value of $0 . 6 1 \\%$ .Although the $R _ { \\mathrm { P V } }$ value was overestimated in the calculations for the nanocomposite SLAR coating, the experimental results showed a significant reduction in the reflectance $( 6 . 2 9 \\% )$ and a significant improvement in the transmittance $( 6 . 0 7 \\% )$ ，compared with the bare solar glass.Furthermore, the antireflective properties were affected less by the variation of the calcination temperature from 300 to $4 5 0 ~ ^ { \\circ } \\mathrm { C } ,$ as illustrated in Figure Sa and in the Supporting Information (see Figure S4 and Table S1).It was found that $T _ { \\mathrm { P V } }$ increased with the increases in the calcination temperature,which facilitated the removal of the PAA template. When the calcination temperature reached $4 0 0 ~ ^ { \\circ } \\mathrm { C } ,$ $T _ { \\mathrm { P V } }$ approached the maximum value,close to the calculated value. No apparent improvement in $T _ { \\mathrm { P V } }$ was observed when the temperature was increased further,because the PAA template had been completely eliminated,as shown in Figure Sb.The cross-sectional SEM image in Figure Sb shows the nanocomposite SLAR coating calcined at $4 5 0 \\ ^ { \\circ } \\mathrm { C } ,$ in which mostly closed-pore shells were observed. When the coating was calcined at a lower temperature (e.g., $3 0 0 ^ { \\circ } \\mathrm { C } \\ '$ ), the HSNs could also be produced (see the Supporting Information, Figure S3a). However， the closed-pore shells containing PAA cores exhibited solid sphere characteristics in the cross-sectional SEM image (see the Supporting Information, Figure S3b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/747402de9597d999a2980f415dd1c0a721e13eb1f44bed53c903cf7b5ff20b55.jpg",
+        "img_caption": [
+            "Figure 5.(a) Variation in $T _ { \\mathrm { P V } }$ under different calcination temperatures from 300 to $4 5 0 ^ { \\circ } \\mathrm { C }$ The ideal cases with and without loss,and the calculated nanocomposite SLAR coatings had $T _ { \\mathrm { P V } }$ values of 97.72,98.09,and $9 7 . 5 0 \\%$ ，respectively.(b）Cross-sectional SEM image of the silica-silica nanocomposite SLAR coating after calcination at $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Durability in Damp Heat Environments.Regarding the practical use of such silica-silica nanocomposite SLAR coatings in PV modules,it is important to establish whether such coatings have high $T _ { \\mathrm { P V } } ,$ and whether they can withstand severe weather, especially high temperatures and humid environments. According to the module test protocol adopted by the International Electrotechnical Commission (IEC)，IEC 61215,48 PV modules must be able to withstand $1 0 0 0 \\mathrm { ~ h ~ }$ of damp heat tests ( $8 5 ~ ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ RH)；this protocol is also typically used to evaluate the durability of AR coatings as well16,49,5Irmtcaedinet, HAST，was performed. The acceleration factor of HAST relative to the damp heat test at $8 5 ~ ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ was estimated using the equation belows1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA F = \\exp { \\left[ { \\frac { E _ { \\mathrm { a } } } { k } } { \\left( { \\frac { 1 } { T _ { \\mathrm { u } } } } - { \\frac { 1 } { T _ { \\mathrm { s } } } } \\right) } + \\left( R H _ { \\mathrm { u } } ^ { n } - R H _ { s } ^ { n } \\right) \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $A F$ is the acceleration factor, $E _ { \\mathrm { a } }$ is the activation energy in eV, $k$ is the Boltzmann constant, $8 . 6 \\times 1 0 ^ { - 5 }$ . The $T _ { \\mathrm { u } }$ and $T _ { s }$ values represent the temperatures of the standard damp heat test and the HAST，respectively. $R H _ { \\mathrm { u } }$ and $R H _ { s }$ denote the humidity in the standard test and the HAST,respectively. $E _ { \\mathrm { a } }$ and $n$ are typically taken to be 1.3 and 2，respectively. According to the relationship in eq 3,a test equivalent to a $1 0 0 0 \\mathrm { ~ h ~ }$ damp heat test can be performed via tens of hours of HAST.52,53Asacontrol experiment,a poroussilica SLAR coating was also optimized and deposited on the solar glass, achieving a $T _ { \\mathrm { P V } }$ of $9 6 . 3 8 \\%$ and a $R _ { \\mathrm { P V } }$ of $3 . 3 9 \\%$ (the optical spectra and the SEM image of the surface micrography are shown in Figure SS in the Supporting Information)；these values were comparable with the values reported in the literature.1720igure6shows thenormalizedvariationin $T _ { \\mathrm { P V } }$ s a function of the HAST time for the silica-silica nanocomposite SLAR and the porous silica SLAR coatings.After a $^ { 1 2 \\mathrm { ~ h ~ } }$ HAST,the normalized $T _ { \\mathrm { P V } }$ values for the porous silica SLAR and the nanocomposite SLAR coatings decreased to 94.59 and $9 7 . 9 2 \\%$ of the initial values，respectively. The degradation was more evident for the porous silica SLAR coatings after experiencing a $2 4 \\mathrm { ~ h ~ }$ HAST. The normalized $T _ { \\mathrm { P V } }$ of the porous silica SLAR coating dropped to $8 7 . 8 6 \\%$ ，whereas that of the nanocomposite SLAR coating was well preserved at $9 6 . 0 8 \\%$ . These results confirmed that the closed-pore SLAR ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/272bb5665cbc7e842c733b8a28599b2b074c4014465a0b56c499e1493dd5bec1.jpg",
+        "img_caption": [
+            "Figure 6.Comparison of the degradation in the normalized $T _ { \\mathrm { P V } }$ asa function of HAST time, shown for the silica-silica nanocomposite and porous silica SLAR coatings. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "100 8 (a) (b) (c) Nanocomposite 100.0 PorousSiO2 (ed) sninpon 80 40 ：： (edg)sspe 1 2 99.0 20 Nanocomposite Porous SiO2 98.5 0 30 60 90 120 0 30 60 90 120 Displacement into surface (nm) Displacement into surface (nm) Before After ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c328c3a74d1bf721b8d453cf0d09a6cd261b16a38151c72312d8973b82ccfdce.jpg",
+        "img_caption": [
+            "Figure7aoetssultllaooioiedid)dtle porousilicaSAcoating(sinicatedinblack).(a)Easticmodulusand(b)ardssfunciofdisplacementintotesufaced(c) degradation of the normalized $T _ { \\mathrm { P V } }$ after looO scrub cycles on each side of the samples. ",
+            "Figure 8. (a) Time-dependent WCA results for a $2 ~ \\mu \\mathrm { L }$ water droplet.(b） Snapshot of a water droplet on the silica-silica nanocomposite SLAR coating surface after $0 . 5 { \\mathrm { ~ s . } }$ (c)Photograph of printed lettersas seen through theuncoated glass part (left）and the silica-silica nanocomposites coated part (right). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "coatings had excellent resistance to moisture at high temperatures;these structures were able to circumvent the infiltration of water more effectively,because of the lower porosity on their surface. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mechanical Performance.Besides the ability to resist moisture, the mechanical durability was also investigated using nanoindenter measurements to provide quantitative information on the elastic modulus, $E ,$ and hardness, $H ,$ based on the conventional Oliver-Pharr method.Although films thicker than $5 0 0 ~ \\mathrm { ~ n m }$ are preferred in nanoindenter measurements, Berasategui et al.54 have demonstrated that the nanoindentation technique can also be applied to AR coatings thinner than 100 nm.Panels a and b in Figure 7 show the elastic modulus and the hardness，respectively，of the nanocomposite and the porous silica SLAR coatings.The significant variations of the modulus and the hardness between O and $1 3 \\mathrm { ~ \\ n m }$ of displacement into the surface were ascribed to the surface roughness5 these results were consistent with the root-meansquare roughness of $1 4 . 4 ~ \\mathrm { n m }$ that was measured using AFM. The hardness versus displacement curve for the silica-silica nanocomposite SLAR coatings showed that a more stable hardnesswasachievedwhen thedisplacement into the surface was larger than $1 5 \\ \\mathrm { n m }$ .Theplateau values,O.6 and $1 . 6 { \\mathrm { ~ G P a } } ,$ （204号 could be considered as the hardness of the porous and nanocomposite SLAR coatings，respectively，where the displacement was approximately $1 5 \\ \\mathrm { n m }$ (around $1 0 \\%$ of the film thickness).The increase in the hardness value for the silica一silica nanocomposite SLAR coatings,compared with the porous SLAR coatings,was attributed to the infiltration of the ACSS into the gaps between the HSNs and the thermal treatment. These processes strengthened the nanocomposite coatings and improved the hardness，which was comparable with that of BEA zeolite³ and even alumina atomic-layerdeposition treated $\\mathrm { T i O } _ { 2 } / \\mathrm { S i O } _ { 2 }$ LbL films.55 In addition， the silica一silica nanocomposite SLAR coatings also demonstrated the advantage of abrasion resistance over the porous SLAR coatings,as shown in Figure $\\mathrm { 7 c } _ { \\mathrm { j } }$ ：the silica-silica nanocomposite SLAR coatings retained a normalized $T _ { \\mathrm { P V } }$ of $9 9 . 9 1 \\%$ ，a degradation less than $0 . 1 \\%$ ，while the normalized $T _ { \\mathrm { P V } }$ of the porous SLAR coatings decreased to $9 9 . 3 6 \\%$ after 1000 scrub cycles on each side. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Surface Wettability.It is known that the volume fraction of voids and the surface roughness would significantly affect the wettability,as a result of 3D capillary effects and the Wenzel state29,56-8hefoereistedintheforof gasinthe samples,and the latter was confirmed by the AFM measurements.The wettability of the silica-silica nanocomposite SLAR coatings was investigated using time-dependent WCA measurements,as shown in Figure 8a.It was observed that the WCA decreased from $1 3 ^ { \\circ }$ to approximately $5 ^ { \\circ }$ after $0 . 5 s ,$ which indicated that the nanocomposite SLAR coatings had nearly superhydrophilic and antifogging characteristics.29,59This meant that the water droplets spread rapidly once they reached the surface,as illustrated in Figure 8b and the movie in the Supporting Information. As shown in Figure 8c, many condensed droplets and strong reflections were observed in the uncoated part (left）of the solar glass，whereas fog was hardly present in the silica-silica nanocomposite SLAR coated part (right). Such robust antifogging properties could facilitate the self-cleaning of solar glass29 because the water droplets would spread and evaporate instantaneously. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we produced novel silica-silica nanocomposite SLAR coatings by infiltrating ACSS into HSNs,using a sol-gel dip-coating method.By infiltrating ACSS into the HSN matrix asa regulator，the refractive index could be experimentally tuned to give values close to PV-transmittance-oriented design values. As a result， the maximum measured $T _ { \\mathrm { P V } }$ reached $9 7 . 3 4 \\%$ ,close to the theoretical limit for lossy SLAR coatings of $9 7 . 7 2 \\%$ . In addition to the excellent antireflective properties, the closed-pore structure in the silica-silica nanocomposite SLAR coatings resulted in a strong resistance to moisture at high temperatures; the $T _ { \\mathrm { P V } }$ value was maintained at $9 6 . 0 8 \\%$ of the initial value even after a severe, $2 4 \\mathrm { h }$ HAST evaluation that was equivalent to a $1 0 0 0 \\mathrm { ~ h ~ }$ damp heat test at $8 5 ~ ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ RH, whereas the normalized $T _ { \\mathrm { P V } }$ of the open-pore porous silica SLAR coating decreased significantly， to $8 7 . 8 6 \\%$ .The nanocomposite SLAR coating had a hardness of approximately 1.6 ${ \\mathrm { G P a } } _ { , }$ ,far superior to the values of $0 . 6 \\mathrm { G P a }$ shown by the openpore silica SLAR coating; this was due to the infiltration of ACSS，which bridged the gaps in the HSN films，thus densifying the coatings. The nanocomposite SLAR coating was hardly affected by abrasion,and the degradation in $T _ { \\mathrm { P V } }$ was less than $0 . 1 \\%$ ，while the open-pore silica SLAR coating had a degradation value of more than $0 . 6 \\%$ .Furthermore,a WCA of approximately $5 ^ { \\circ }$ was observed after $0 . 5 s ,$ because of the appropriate volume fraction of voids and surface roughness, resulting in the desirable antifogging _and self-cleaning characteristics. The ACSS-infiltrated closed-pore nanocomposite SLAR coatings produced in this study showed high transparency，good durability，and nearly superhydrophilic (antifogging） properties，and they were simple to fabricate; these coatings have potential to be applied in energy harvesting and optical instrumentation in extreme climates or humid conditions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATED CONTENT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental details，optical spectra at different calcination temperatures，and results of time-dependent WCA measur",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ements.This material is available free of charge via the Internet at http://pubs.acs.org/. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ -mail: yhlu@nimte.ac.cn. Phone: $+ 8 6$ (0)574 87913375.Fax: $+ 8 6$ (0)574 87913375.   \n$^ { * } \\mathrm { E }$ mail: weijiesong@nimte.ac.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Notes The authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China （11i04290，51102250，11204146, 11211140338） and the Ningbo Key Innovation Team (2011B82005,2009B21005). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）Thelen,A.Design of Optical Interference Coatings; McGraw-Hill: New York, 1988.   \n(2）Macleod,H.A.Thin-Film Optical Filters； Institute of Physics Publishing:Philadelphia, PA,2001.   \n(3) Chen, C.-H.; Li, S.-Y.; Chiang,A. S.T.; Wu,A.T.; Sun,Y. S. Sol. Energy Mater.Sol.Cells 2011,95,1694-1700.   \n(4)Chevallier，P.；Turgeon， S.； Sarra-Bournet，C.；Turcotte，R; Laroche, G. ACS Appl. Mater. Interfaces 2011,3,750-758.   \n(S） Son,J.；Kundu, S.； Verma,L.K.； Sakhuja,M.； Danner,A. J.; Bhatia, C.S.;Yang,H. Sol.Energy Mater. Sol. Cells 2012,98,46-51. (6) Green,M.A. Silicon Solar Cels: Advanced Principles and Practice; Centre for Photovoltaic Devices and Systems: Sydney, 1995.   \n(7)Jorgensen, G.J.; Terwilliger, K M.; Cueto,J.A.D.; Glick, S.H.; Kempe,M.D.; Pankow,J.W.; Pern,F.J.; McMahon,T.J.Sol.Energy Mater. Sol. Cells 2006,90,2739-2775.   \n(8)Willey, R R. Appl. Opt. 1993,32, 5447-5451.   \n(9)Yan,X.;Poson,D.J.;Cho,J.;Welser,RE.;Sood,A.K;Kim,J. K.； Shubert,E.F.Adv.Funct. Mater.2012,23,583-590.   \n(10) Zhang,X.-X.; Cai, S.; You,D.; Yan,L.-H.; Lv,H.-B.; Yuan,X.- D.; Jiang,B. Adv.Funct. Mater.2013,23,4361-4365.   \n(11)Minot, M.J.J. Opt. Soc.Am.1976,66,515-519.   \n(12) Southwell, W.H. Opt. Lett. 1983,8, 584-586.   \n(13) Xi, $J . - \\mathrm { Q } . ;$ Schubert, M.F.; Kim,J.K.; Schubert,E.F.; Chen, M.; Lin, S.-Y.; Liu,W.; Smart,J.A. Nat.Photonics 2007,1,176-179. (14) Choi, K.; Park, S.H.; Song Y.M.; Lee, Y. T.; Hwangbo, C. K.; Yang,H.; Lee,H. S.Adv.Mater.2010,22,3713-3718.   \n(15) Shin,J.-H.; Han,K.-S.; Lee,H.Prog.Photovolt.: Res.Appl.2011, 19,339-344.   \n(16)Ballf,C.Dicker,J.；Borchert,D.；Hofmann，T.Sol.nergy Mater. Sol. Cells 2004,82,331-344.   \n(17)Lu, X.; Wang, Z.; Yang, X.; Xu, X.; Zhang,L.; Zhao,N.; Xu, J. Surf. Coat. Technol.2011,206,1490-1494.   \n(i8) Barranco,A.; Contrino,J.; Yubero,F.; Espinos,J. P.; GonzalezElipe,A.R.J.Vac.Sci. Technol.A 2004,22,1275-1284.   \n(i9) Guillemot, F.；Brunet-Bruneau, A; Bourgeat-Lami, E.； Gacoin, T.；Barthel,E.;Boilot,J.-P.Chem.Mater.2010,22,2822-2828. (20)Karasiski,P.;JglazJ.;ebn,.;oek,E.;uJOt. Mater.2011,33,1989-1994.   \n(21)Moghal,J.; Kobler,J.; Sauer,J.; Best,J.; Gardener,M.; Watt,A. A.R;Wakefield,G.ACS Appl.Mater.Interfaces 2012,4,854-859. (22) Cooper, G.I.; Cox, G.A. Appl. Geochem.1996,11, 511-521. (23)Vilarigues，M.；da ilva，R C.J.Non-Cryst.Solids20065, 5368-5375.   \n(24) Lee,D.; Rubner,M.F.; Cohen,R.E.Nano Lett.2006,6,2305- 2312.   \n(25) Chhajed, S.； Schubert, M.F.； Kim,J.K.； Schubert,E.F.Appl. Phys.Lett.2008,93,251108.   \n(26)Liu, Z.； Zhang,X.；Murakami,T.；Fujishima,A.Sol.Energy Mater. Sol. Cells 2008,92,1434-1438. (27) Willey,R. R. Appl. Opt. 2011, 50, C86-C89.   \n(28） Shimomura,H.; Gemici, Z.; Cohen,R.E.; Rubner,M. F.ACS Appl.Mater. Interfaces 2010,2,813-820.   \n(29)Li, X.; Du, X.; He,J.Langmuir 2010, 26,13528-13534. (30) Yang, Z.H.; Cong,H.L.; Cao,W.X.J. Polym. Sci.,Part A: Pol. Chem. 2004,42,4284-4288.   \n(31)Zoldesi, C.I.; Imhof,A. Adv.Mater. 2005,17, 924-928. (32) Chen,M.; Wu,L.; Zhou, S.; You,B.Adv.Mater. 2006,18,801- 806.   \n(33)Wan, Y.; Yu, S.J. Phys.Chem. C 2008,112,3641-3647. (34) Du,Y.; Luna,L.E.; Tan,W.S.; Rubner, M.F.; Cohen,R.E. ACS Nano 2010,4,4308-4316.   \n(35) Du, X.; He,J. Chem.—Eur. J. 2011,17,8165-8174.   \n(36)Park, K-C.;Choi, H.J; Chang,C.-H;Cohen,R E.; McKinley G.H.; Barbastathis, G. ACS Nano 2012,6,3789-3799.   \n(37）Min,W.-L.;Jiang,B.;Jiang,P.Adv.Mater.2008,20,3914- 3918.   \n(38) Guldin,S.; Kohn,P.; Stefik, M.; Song,J.; Divitini,G.; Ecarla,F.; Ducati, C.; Wiesner,U.; Steiner, U.Nano Lett.203,13,5329-5335. (39) Xu,L.; He,J.; Yao,L.J. Mater. Chem.A 2014,2,402-409. (40)Helsch，G；osA；Deubener,J;Holand,.Sol.Energ Mater. Sol. Cells 2010,94,2191-2196.   \n(41）Li, D.；Huang,F.; Ding, S.Appl. Surf. Sci. 2011,2S7,9752- 9756.   \n(42）ASTM G173-O3,Standard Tables for Reference Solar Spectral Irradiances; ASTM International: West Conshohocken,PA,2005. (43)Abdulhalim, I. J. Opt.A: Pure Appl. Opt. 1999,1, 646-653. (44) Lu, Y.H.; Huang,M.D.; Park, S.Y.; Kim,P.J.; Lee,Y.P.; Rhee, J.Y.;Hwango,C.K.; Chen,L.Y.J.Appl.Phys.2007,101,103103. (45)Yoldas, B. E. Appl. Opt.1980,i9,1425-1429.   \n(46) Ye,H;Zhang,X;Zhang,Y；Ye,LXiaoB.;LvH;Jiang,B. Sol.Energy Mater.Sol. Cells 2011,95,2347-2351.   \n(47) Yu, X.; Wang, Z.; Jiang, Y.; Zhang, X.Langmuir 2006,22,4483- 4486.   \n(48）IEC 61215: Crystalline Silicon Terrestrial Photovoltaic (PV) Modules-Design Qualification and Type Approval； International Electrotechnical Commission (IEC):Geneva, Switzerland, 2005. (49)LiJ; Lan,P.; XuH; Zhang,X; Yang,Y.; Tan,R;Jylha,O.; Lu Y.J. Appl.Phys.2012,112, 093517.   \n(50) Li, J.; Lu, Y.; Lan,P.； Zhang,X.； Xu,W.; Tan,R；Song, W.; Choy,K.-L.Sol.Energy 2013,89,134-142.   \n(51)Manual of the Highly-Accelerated Temperature and Humidity Stress Test (HAST)；Hirayama: Kasukabe-shi, Japan,2010.   \n(52）JESD22-A118,Accelerated Moisture Resistance-Unbiased HAST; JEDEC Solid State Technology Association: Arlington, VA, 2000. (53）JESD22-A110-B,Highly-Accelerated Temperature and Humidity Stress Test (HAST); Electronic Industries Alliance/JEDEC Solid State Technology Association: Arlington, VA,1999.   \n(54）Berasategui,E.； Bull, S.J.；Page,T.F.Thin Solid Films 2004, 447,26-32.   \n(S5) Dafinone,M.I.; Feng, G.; Brugarolas,T.; Tettey,K.E.; Lee,D. ACS Nano 2011,5, 5078-5087.   \n(56) Wenzel, R. N. Ind.Eng. Chem.1936,28,988-994.   \n(57)Bico,J.; Marzolin,C.; Quéré,D.Europhys.Lett.1999,47,220- 226.   \n(S8) Bico,J.; Tordeux, C.; Quére,D.Europhys.Lett 201,S, 214- 220.   \n(59)Li, X.; He,J.ACS Appl.Mater.Interfaces 2012,4,2204-2211. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

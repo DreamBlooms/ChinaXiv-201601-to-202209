@@ -1,0 +1,310 @@
+# 环境光照对情绪的影响及其作用机制
+
+李芸1² 汝涛涛\*2, 李思雨’² 陈涵宇1² 谢舒雅1，²周国富2，3(1华南师范大学心理学院，光与身心健康实验室，广州510631)(2 华南师范大学，国家绿色光电子国际联合研究中心，广州510006)(3 华南师范大学，华南先进光电子研究院，广东省光信息材料与技术重点实验室&彩色动态电子纸显示技术研究所，广州510006)
+
+[摘要］环境光照作为重要的授时因子，对多种生理和心理功能存在广泛影响，其对情绪的非视觉作用尤其引起研究者们的关注。研究发现，环境光照的照度、色温和波长均是影响情绪的重要物理因素；短光周期、夜间人工光以及持续光照/黑暗等异常光照模式则会导致情绪障碍；光照的情绪效应还受到光照时长、时间点、个体特征、主观偏好及基因类型等的调节。光照作用于情绪的路径主要包括两个方面，一方面视网膜中的内在光敏感神经节细胞将光信号投射至情绪调节相关脑区直接影响情绪；另一方面光信号通过同步内部生理节律及其调节下的激素分泌、神经传递和睡眠间接影响情绪。未来研究考察短时光照的视觉功效时需要采用更客观多样化的情绪测量技术，综合非视觉与视觉作用路径深入对比健康与情绪障碍群体的差异性。
+
+[关键词] 环境光照，情绪，物理因素，光照模式，作用机制
+
+[分类号］B849
+
+# 1引言
+
+环境光照作为重要的授时因子，在调节和维持有机体内部生物节律与外部明暗环境同步中扮演着举足轻重的角色；与此同时，光照对个体的自主神经系统活动、认知加工及情绪等多种生理和心理功能均能产生显著的调节，这些统称为环境光照的非视觉效应(non-image forming，NIF)。这一效应的实现主要依赖于人类视网膜上有别于传统视杆细胞与视锥细胞的第三种感光细胞一内在光敏感神经 节 细 胞（intrinsicallyphotosensitiveretinalganglioncells，ipRGCs)。近十年来，光照的非视觉效应研究开展的如火如茶，尤其是环境光照对个体警觉性、认知功能、睡眠以及生物节律的影响已得到较为深入的讨论(Fisk et al.，2018；LeGates et al.，2014；毛天欣 等，2018；汝涛涛等，2019)。此外，研究表明环境光照也是情绪的重要调节器(LeGates et al.,2014)，季节性情感障碍(Seasonal affective disorder，SAD)的症状特征、病理机制均表明光照与情绪之间存在密切关联；异常光照模式对情绪的破坏性影响以及光照疗法的抗抑郁效应也得到了前临床研究和临床研究的证实(Goldenet al.， 2005； Lam et al.， 2016; Lieverse et al.， 2011； Rosenthal etal.，1984；Sit& Haigh，2019)。然而，现有研究对于光照影响情绪的因素缺乏全面和深入的讨论，具体作用机制尚不明晰。因此，本文将重点围绕光照影响情绪的物理特性、光照模式、调节因素、潜在作用机制及光疗在临床中的应用进行介绍与讨论，以期为相关研究提供新的视角和启发。
+
+# 2光照影响情绪的物理因素
+
+情绪是指个体在任何给定时刻的主观状态的一种核心感受，且并不一定是关于任何事物的感受(McCloughanetal.，1999)。目前关于光照对情绪的实验室研究，研究者主要通过操纵环境光的照度、相关色温或波长等物理特性来考察其对个体情绪的影响。其中情绪的测量方法主要包括自评量表、面部表情识别及神经生理活动记录技术(EEG、ERP或fMRI)等。
+
+# 2.1照度对情绪的影响
+
+照度是复合白光重要的物理特性之一，指单位面积内被照射物体所接收到的光通量，单位为勒克斯 $( \mathrm { l x } )$ 。照度越低表明光线越弱，反之越强。已有研究提示，在一段时期内 $( \geqslant \ 1$ 周)，高的环境照度与健康人群的积极情绪显著正相关，亮光能够调节边缘系统加工情绪刺激时的神经活动。如来自田野研究的证据表明个体在亮光下 $( \geqslant 1 0 0 0 \ \mathrm { ~ l ~ x ~ } )$ 暴露的时间越长，情绪相对越积极(Harb et al.,2015；Jean-Louis et al.，2005)。Fisher 等人(2014)采用脑成像技术发现健康被试在接受三周的光疗后，在加工负性情绪刺激时，杏仁核驱动的自下而上的情绪注意网络被亮光所抑制，前额叶皮层(PFC)介导的对杏仁核自上而下的调节则被亮光增强，且这些边缘区域的神经活动表现出照度依赖的变化，即照度越高，这种调节作用越强。此外，来自啮齿动物的研究也表明，4周的日间光照强度减弱会导致小鼠的抑郁和焦虑样行为增加(Deats etal.，2014；Leach etal.，2013)。
+
+在短时光照暴露的实验室研究中，照度对情绪的影响结果则不太一致。已有研究结果大多提示，在模拟日间办公照明中，相比低照度 $( \leqslant ~ 2 0 0 ~ \mathrm { ~ l ~ x ~ } )$ ，高照度$( \geqslant \ 1 0 0 0 \ \mathrm { ~ l ~ x ~ } )$ 光照环境下被试的情绪更积极(Bijleveld& Knufinke，2018;Leichtfried et al.，2015；Ru et al.，2019)。如 Smolders 等人(2014)对被试在1000lx和200lx光照暴露30分钟后的积极和消极情绪(两个5点李克特项目)进行测量发现，被试在高照度条件下比低照度条件下显著更愉悦。新近的另一项研究也发现相比低照度 $( 1 0 0 ~ \mathrm { ~ l ~ x ~ } )$ ，被试在高照度下(1000 1x)暴露50分钟后，其在负性情绪 (PANAS)上的自评得分显著降低(Ru etal.，2019)。此外，有研究发现相比暗光 ${ \big ( } 0 - 1 \ \mathrm { ~ l x } { \big ) }$ ，略高照度 $( 3 6 0 - 4 0 0 ~ \mathrm { ~ l ~ x ~ } )$ 的短时 $( 4 5 \mathrm { \ m i n } )$ 光照暴露即能对个体在夜间的负性情绪产生改善作用(Bijleveld& Knufinke,2018)。不过，也有部分研究并未发现照度对情绪的改善作用(Baron et al.,1992； Huiberts et al.， 2015， 2016； Smolders et al.， 2012)，如Smolders et al． (2012)在较早的一项研究中发现1h 的高照度光照(1000 lx)相比低照度 $( 2 0 0 \ \mathrm { ~ l ~ x ~ } )$ 并未显著改变被试的情绪状态。Huiberts et al． (2016)等人采用更长的曝光时间(90 min）和更高照度(1700lx vs.165lx)发现，被试的情绪状态(两个5点李克特项目测量)并未发生显著变化。
+
+短时强光对情绪影响结果的差异，可能是由于不同研究间采用的光照参数、暴露时长、测量工具和测量方式等不同导致，如Ruet al． (2019)等人采用了正负性情绪量表及中等高照度(1000 lx)，而 Huiberts et al． (2016)和Smoldersetal．(2012)等人的研究均采用两个单一条目“开心”和“难过”对被试的情绪进行测量，且Huiberts等人设置的高照度光照水平更高（1700lx)。与此同时，上述Smolders 等人的两项研究虽采用相同的情绪测量方式，但两者在光照时长上有所不同(90 min vs．60 min)。值得注意的是，上述实验室研究同时聚焦于光照对认知与情绪功能的影响，因此，光照暴露中进行的不同认知任务可能与光照对情绪产生交互影响。此外，有研究发现，电生理指标比主观评分对光照的效应更为敏感，如Yoshiike等人(2018)发现在对恐惧消退和恐惧习得的过程中，短时（ $( 1 5 \mathrm { \ m i n } )$ 强光(90001x)可以通过调节前额叶皮层对恐惧刺激的血流动力学反应，增强对恐惧性刺激自上而下的调节，增强恐惧消退，但强光对个体的主观情绪状态(VAS 测量)却没有显著影响。因此，一些主观情绪测量工具可能并未能探测到强光对个体情绪的微妙影响。
+
+# 2.2色温对情绪的影响
+
+色温是复合白光的另一物理属性，色温的单位是开尔文(K)。色温对情绪的非视觉效应功效主要依赖于光谱中的蓝光成分，色温越高，光谱中短波长蓝光含量相对越多，反之亦然。目前已有关于色温与情绪的研究得出的结论较不一致早前的研究提示高色温对积极情绪有显著地提升效应。例如，对健康人群进行14 周的追踪研究发现，相比低色温荧光灯(2900K)，被试的心理健康程度和活力水平在高色温白光作用下(17000 K)显著更高(Mills et al.，2007)。Hawes等人(2012)比较了四种色温(90 min，3345K，4175K，5448K，6029K)对情绪(POMS 测量)的影响发现，相比低色温，高色温 (6029 K)能显著提高积极情绪并减少疲劳，色温水平与积极情绪水平之间存在正相关。与之相反，Smolders和deKort（2017)发现在高色温白光(6000K vs．2700K，60min）作用下被试表现出更少的愉悦情绪和更多的悲伤情绪(两个题目测量)。与此同时，也有研究并未发现短时光暴露下色温对情绪的显著影响(Baron et al.，1992；Knez,2014)，如Knez (2014)发现被试的情绪(采用48个项目的自编情绪量表测量)在3000 K，4000K和5500K的荧光灯暴露85分钟后并没有显著差异。此外，来自啮齿动物的研究甚至提示高色温水平会增加小鼠的负性情绪，如暴露在冷白光下(4000 K，30 min)的雄性小鼠比暴露在暖白光下(2500 K)的小鼠更焦虑(Kapogiannatou et al.，2016)。Yokoyama 等人(2019)对小鼠的研究也报告 90min 的高色温光照导致小鼠室旁核 (paraventricular nucleus，PVN)内神经活动显著增加，提示高色温引起更多的应激反应。目前单独探究色温对情绪非视觉效应的研究相对比较少，加之不同研究曝光时长、研究对象（日间型人类/夜间型小鼠)、测量指标等差异导致无法得出一致性结论，未来需要更多研究的探讨。
+
+照度与色温作为复合白光的两个不可分割的重要属性，除了考察照度或色温对情绪的独立性影响外，也有研究者对照度与色温对情绪的交互作用进行了探讨，如Ru et al． (2019)等人在模拟办公环境中考察了室内白光的照度(100lx vs．1000lx)和色温(2700 K vs．6500 K)对主观正负情绪的交叉影响。研究结果仅发现高照度或低色温可以显著降低被试的主观负性情绪，但并未发现照度与色温对情绪的交互性作用。这可能与Ru等人的研究中仅采用了两个照度和色温水平较为局限有关。因此，未来研究可以通过设置多参数水平来系统探讨照度与色温对情绪的交互性影响。
+
+# 2.3波长
+
+波长(wavelength)是单色光最重要的光谱特点，一般人眼可见光的波长范围为 $3 8 0 ~ \mathrm { { \ n m } }$ 到 $7 8 0 ~ \mathrm { { \ n m } }$ ，不同色光对应的波长也不同，如红光的波长大约为$6 2 2  { \mathrm { ^ { \sim } } } 7 8 0  { \mathrm { ~ n m } }$ ，绿光的波长大约为 $4 9 2 \widetilde { \textrm { 5 7 7 } } \ \mathrm { n m }$ ，蓝光的波长为 $4 5 5 ^ { \sim } 4 9 2 \ \mathrm { n m }$ 。在生活中，我们越来越频繁地接触到各种各样的有色光源。由于人眼介导光非视觉通路的ipRGCs细胞的最佳敏感波长约为 $4 8 0 ~ \mathrm { \ n m }$ (Berson et al.， 2002;Freedman et al.，1999；Provencio et al.，2000)，因此，相比中波长的绿光和长波长的红光，短波长的蓝光预期能够产生更加明显的非视觉功效(Bersonet al.，2002；Brainard et al.，2001；Hattar et al.，2002)。如 Kim等人(2013)使用情绪照明互动系统对个体的情绪状态进行实时识别(光体积描记法、皮肤温度和皮肤电反应)，发现蓝光作用下个体感到放松，红光则提升了个体的唤醒水平。Smith 和 Spiridon（2018）报告称蓝光对无人机驾驶舱中个体的负性情绪(愤怒)有缓解作用。不过也有研究发现蓝光会导致特殊群体负性情绪的增加，Segal等人(2016)对经历两晚睡眠限制的个体进行3小时的蓝光、绿光或无光照射后，发现蓝光作用下被试产生了更多的敌意。
+
+来自脑成像研究的证据表明，蓝光会对大脑皮层和皮层下部分涉及情绪感知与情绪加工的脑区活性产生即时影响。如相比绿光条件，蓝光条件下愤怒声音引起的双侧颞皮质和海马等声音敏感区域的大脑活动显著增强，且左侧颞上回的语音敏感区与左侧杏仁核、下丘脑之间的功能连接增强(Vandewalle et al.,2010)。此外，Vandewalle等人 (2011)还发现SAD 患者对色光的敏感性与正常被试存在差异，具体表现为蓝光 $\left( 4 8 0 \ \mathrm { n m } \right)$ 增强了SAD患者下丘脑后部(背外侧到乳状体)对负性听觉刺激的反应，而绿光 $( 5 5 0 ~ \mathrm { n m } )$ 则降低了这些反应，但这种影响在正常被试群体中并未发现。最近的一项研究也显示短时(40 min)暴露在蓝光$( 4 6 9 \ \mathrm { n m } )$ 下后，被试在加工奖赏确定预期刺激时前扣带回皮层 (ACC)喙部被显著激活(Alkozei et al.，2016)。Metz等人(2017)利用系统生理学增强功能近红外光谱(SPA\~fNIRS)测定色光对人体大脑生理活动的影响发现，相较于红光（630nm)和绿光 $( 5 1 5 ~ \mathrm { n m } )$ ，蓝光 $( 4 5 0 ~ \mathrm { n m } )$ 照射显著激活了大脑左侧前额叶皮层。综上可知，在非视觉层面，相比长波长的红光和绿光，短波长的蓝光对情绪相关脑区的调节作用更为明显。在视觉上，不同色光由于有着不同的颜色外观，因而可能有着不同的情绪功能。早期的一些研究发现，红光会引起与血、伤、火和危险有关的各种不愉快的联想，而蓝光则与积极的想法(如友好、浪漫的爱情和蓝天)有关。这一点在颜色与情绪的相关研究中也得到验证(Elliot& Maier，2014)，如红色通常与危险等负性情感相联系，蓝色和绿色则与平和、平静等积极情感相联系。已有实验室研究也发现，颜色会影响个体的生理唤醒水平和主观情绪评价，如红色相比黄色和蓝色对皮肤电导率和心率有着更强的刺激作用，即具有更高的唤醒作用(Jacobs & Hustmyer Jr，1974；Wilms & Oberfeld，2018)；与红色和黄色相比，被试在蓝色环境下感到更放松和更平静(Al-Ayash et al.,2016)。此外，颜色的亮度和饱和度也是影响情绪的重要因素(Wilms&Oberfeld，2018)。类似地，相比蓝光和绿光，被试暴露在红光下时，其唤醒水平显著提高(收缩压扩增、皮肤电导、呼吸频率、眨眼频率等增加)，愉悦感则显著更低(Ali，1972；Rajae-Joordens，2010；Wilson，1966)。红光被发现具有唤醒和激活人的能力，而蓝光和绿光则使人感到情绪平静。不过也有研究得出不一致的结论，如一项针对老年人(平均年龄为71岁)的研究发现，相比红光，蓝光让老年人觉得更不愉悦且更具有刺激性(Laufer et al.，2009)，提示色光对个体情绪的影响可能受到年龄的调节。此外，研究者也发现，色光的饱和度和亮度也是调节情绪和唤醒水平的重要因素(Rajae-Joordens，2010)。因此，个体的情绪除了受到短波长蓝光的作用外，可能也受到其他色光的影响，而影响的路径包括视觉和非视觉两个层面。
+
+# 3光照时间模式对情绪的影响：基于特殊人群与动物模型的证据
+
+在人工照明发明以前，人类的光照模式是一个接近于 $1 2 ^ { \sim } 1 2 \mathrm { ~ h ~ }$ 的明暗周期。随着电灯的发明，电子媒体的广泛使用，夜班、轮班工作以及跨时区旅行等变得普遍，人类接受的光照模式也随之改变。不同光照模式对情绪的影响引起了研究者们的广泛关注，其中，短光周期、夜间光照、持续光照/光照剥夺等对情绪的破
+
+坏性影响得到了比较多的讨论。
+
+# 3.1短光周期对情绪的影响
+
+研究者们最初关注到日间光照时间长短对情绪的影响，源于对季节性情绪障碍（seasonaleffective disorder，SAD）患者的研究。SAD最早由Rosenthal(1984)提出，主要表现为抑郁症状反复在每年的秋冬季节出现，在春夏季节则完全缓解或部分转为躁狂。已有研究提示秋冬季节日照时间变短是导致SAD患者冬季抑郁的主要原因。流行病学调查研究结果也发现，相比低纬度地区，在终年太阳辐射相对较少的高纬度地区，SAD的患病率显著更高(Kegel et al.,2009)，其患病率约为 $5 \%$ ，另有 $1 5 \%$ 的人则表现出SAD亚综合征(Magnusson &Boivin，2003；Rosen&Rosenthal，1991)；从低纬度地区搬到高纬度地区的个体在冬季则会经历更严重的抑郁(Kurata et al.，2016；Low＆ Feissner,1998)。来自啮齿动物的研究结果也表明，类似冬季有较短日间光照的短光周期会增加焦虑和抑郁样行为。如Prendergast和Nelson(2005)发现雄性西伯利亚仓鼠在短8L/16D(8 h光照，16 h黑暗)光周期中仅维持了14天，就表现出类似抑郁的行为。Einat等人(2006)将肥胖沙鼠安置在短5L/19D光周期环境中21天后，其在强迫游泳测试中表现出类似抑郁的反应。夜间型西伯利亚仓鼠暴露在类似冬季的白昼较短(8L/16D)的环境中一段时间后，在强迫游泳测试中会产生类似抑郁的反应，而在高架迷宫任务测试中则会产生类似焦虑的反应(Workman etal.，2011)。综上，短光周期会对情绪产生破坏性影响，具体表现为当日间光照时长变短时，会导致抑郁和焦虑症状的发生和加重。
+
+# 3.2夜间光照对情绪的影响
+
+尽管不同纬度地区的人们经历的自然光照模式存在差异，但是世界各个地区的人们暴露在夜间光照下的情况却没有太大不同，最近一项基于卫星数据的研究表明世界上超过 $8 0 \%$ 的人口以及超过 $9 9 \%$ 的美国人和欧洲人生活在夜间光污染下(Falchi et al.，2016)。已有研究提示长期暴露于夜间光照下会增加个体罹患情绪障碍的风险，早期的田野研究发现老年人的抑郁症状与夜间暴露于光照下的强度、时长均存在显著正相关(Obayashi et al.，2013)。近期的一项大样本(265278名韩国人)研究表明暴露于夜间高照度室外灯光下的被试患抑郁症的可能性更高，且抑郁症状、自杀倾向与夜间室外光照强度呈线性相关(Min &
+
+Min，2018)。另一项以美国青少年(10123名青少年)为样本的调查研究也证实，夜间室外人工光照水平与情绪障碍(双相障碍、重度抑郁症以及焦虑症等)的患病率呈显著正相关(Paksarian et al.，2020)。来自啮齿类动物研究的结果也提示夜间暗光光照会导致抑郁样行为增加(Bedrosian et al.，2011；Bedrosian etal.，2013)；且夜间光照对抑郁症状的诱发作用表现出剂量依赖效应，即在夜间光照下暴露的时间越长，抑郁症状越严重(An et al.，2020)。因此，长期暴露于夜间光照下会导致患抑郁症的风险增加；且夜间光照度越高，暴露时间越长，抑郁症状更严重。
+
+# 3.3持续亮-暗光对情绪的影响
+
+极端光照模式如持续光照(constantlight，LL)和持续黑暗(constantdark，DD)在普通人类生活中较为少见，但夜班工作者以及轮班工人则可能会比较频繁地遇到这些情况。已有研究发现，持续光照会导致抑郁样行为(Fonken etal.，2009；Tapia-Osorio et al.，2013)和焦虑样行为(Tapia-0sorio etal.，2013；Zhou et al.，2018)的增加。如 Tapia-0sorio 等人(2013)发现短期 $( 3 ^ { \sim } 4$ 周)和长期 $( 6 ^ { \sim } 7$ 周)暴露于持续光照的雄性Wistar大鼠在蔗糖偏好测试中表现出轻度抑郁样症状，在旷野测试中焦虑行为增加。另一项最近的研究也证实持续光照4周后C57BL/6雄性小鼠的抑郁样和焦虑样行为均增加(Zhou etal.，2018)。光照完全剥夺的持续黑暗也会对啮齿动物的情绪行为产生影响，已有研究表明持续黑暗会导致抑郁样行为增加(Lu et al.，2016；Monje et al.,2011)。如Monje等人(2011)将成年雄性老鼠置于持续黑暗下4周后，老鼠表现出海马细胞增殖的减少和抑郁样行为的增加。另一项较新的研究也发现持续黑暗(3 周)在小鼠中诱导了抑郁行为表型的发生(Lu et al.，2016)。不过，相比抑郁情绪，持续黑暗对焦虑情绪的影响比较微弱，如一些研究发现持续黑暗使得小鼠的抑郁样行为增加，但对焦虑样行为的影响并不显著(Tapia-Osorio etal.，2013；Zhou et al.，2018)。因此，与内部生理节律完全不协同的持续光照和持续黑暗等时间模式会对情绪和情绪行为产生严重的负面影响，诱发抑郁和焦虑等情绪障碍的发生。
+
+值得注意的是上述部分动物模型的研究中采用的小鼠属于夜间型动物或是基于具有情绪障碍的特殊群体，结果可能不能完全适用于日间型人类或正常健康人群。但这些结果可以为我们探究光照作用于情绪的机制提供重要的借鉴与视角。基于动物或特殊群体模型的结果对于人类的适用性如何，以及如果要更加清晰和深入了解光照对人类情绪的影响，在符合伦理的情况下，基于人类被试开展相应的研究是非常必要的。
+
+# 4光照影响情绪的调节因素
+
+在探究环境光照对人类和动物情绪的非视觉作用时，一些潜在的影响因素引起了研究者们的关注，时间因素如光照时长、光照时间点等；个体特征如性别年龄、主观偏好及基因类型等均可能在光照的情绪功能中扮演了一定的角色。
+
+# 4.1时间因素
+
+已有证据均提示，亮光暴露时长以及早晨开始接受亮光照射的时间点都与抑郁情绪呈显著负相关。一段时间内被试接受亮光暴露的时间越长(Esaki etal.，2019；Harb etal.，2015)，早上接受亮光暴露的时间越早(Figueiro etal.，2017；Jean-Louis et al.，2005)，其抑郁情绪评分越低。此外，关于短时亮光暴露的实验室研究也发现了暴露时长可能的调节作用，如 Smolders等人(2014)发现30分钟的亮光(1000 lx)暴露对被试的积极情绪有改善作用，而 50分钟的亮光(10001x)暴露对积极情绪和消极情绪的影响则变得不显著(Smolders et al.，2012)。在这两项研究中，使用的测量工具、光照参数以及实验范式基本一致，因此，长时间高照度光照反而不利于个体主观情绪体验。与之相反，色温对情绪的影响可能依赖于更长的光照作用时间，如研究者们发现，1小时左右的高色温暴露对情绪的影响不太显著，甚至对积极情绪存在轻微负性影响(Smolders& de Kort，2017)，而相对更长(90 min)时间的高色温暴露对个体的积极情绪则有显著的提升作用(Hawes et al.，2012)。不过，值得注意的是这些研究间还存在一些其他的混淆因素，在评估光照对情绪的急性影响时需要综合考虑光照时长与时间点等诸多调节因素。
+
+# 4.2 个体特征
+
+除了时间因素，个体特征(性别和年龄)也会显著调节环境光对情绪的作用效果。已有研究发现不同性别或年龄群体对光照的情绪反应不一致。如早前的两项研究发现女性的负性情绪在低色温(3000 K)下减少，在高色温(4000 K)下增加；而男性的负性情绪在低色温下增加，在高色温下减少(Knez& Enmarker,
+
+1998；McCloughan etal.，1999)。此外，在高照度(约 $8 1 0 \ \mathrm { ~ l x } ,$ 下，女性负性情绪显著减少，男性负性情绪显著增加(Mccloughan et al.，1999)。在异常光照对情绪的负性影响中，高纬度地区女性的 SAD 患病率显著高于男性(Wirz-Justiceetal.，2019)，来自啮齿动物的研究也发现在持续黑暗下饲养3周后，雌性小鼠比雄性小鼠表现更多的抑郁样行为(Lu etal.，2016)，提示女性比男性对异常光照的负性效应更敏感。除了性别，年龄也是调节光照情绪功能的重要因素，如 Knez 和 Kers 等人(2000)发现在光照暴露90分钟后，年轻被试的负性情绪在高色温(4000 K)光照下增加较多，年老被试的负性情绪在低色温(3000K)光照下增加较多。此外，已有研究提示，儿童和青少年对夜间光照暴露更为敏感(Obayashi et al.，2013)，青少年( $\cdot 1 3 ^ { \sim } 1 8$ 岁)对短波长光照的敏感性(褪黑素受抑制水平)显著高于成年人 $( 3 2 ^ { \sim } 5 1 \$ 岁)(Nagare et al.，2019)；这可能与不同年龄个体的褪黑素分泌水平不同有关，人的松果体褪黑素的分泌量随着年龄的增长而递减(Tan et al.，2018)。综上可知，性别和年龄是光照情绪功能的重要调节因素，然而这一调节作用依赖的内在机制仍有待进一步的研究。
+
+# 4.3主观偏好
+
+在短时光照暴露中，个体对光照的主观评价和期望也会调节个体的情绪反应。Maier等人(2016)报告称被试对照明环境的期望水平比实际照明水平对个体心理状态的影响更重要，他们的研究结果显示客观照度水平对被试的情绪影响并不显著，但是个体对灯光环境持有的积极期望程度会影响被试的积极情绪。Kombeiz和Dietl (2018)也发现了类似的结果，相比光照条件本身，个体对光照的满意度更能影响其对他人做出积极评价的程度，光照满意度与被试的积极情感呈显著正相关。值得注意的是，“熟悉效应”可能也会影响个体的情绪反应(Baron etal.，1992)，人们通常更偏爱熟悉的事物；因而，熟悉的光照环境可能也会导向更积极的情绪。因此，在未来的光照研究中，被试对灯光环境的期望水平、视觉体验等因素应纳入综合考量。
+
+# 4.4基因类型
+
+基因类型也是调节光照情绪功能的重要因素。PER3是人类和动物中最强烈的节律性基因之一，PER3 在确定 SCN 以外的外周组织的昼夜节律周期和相位方面发挥着重要作用。PER3中的多态性与昼夜偏好、睡眠内稳态、认知、光敏感性、情绪障碍等均存在相关(Archer et al.，2018)。相比 $\mathrm { P E R 3 ^ { 4 / 4 } }$ 基因型个体，$\mathrm { P E R 3 ^ { 5 / 5 } }$ 基因型光敏感性更强(Chellappa et al.，2012)； $\mathrm { P E R 3 ^ { 5 / 5 } }$ 基因型个体偏向为夜间型昼夜节律； $\mathrm { P E R 3 ^ { 4 / 4 } }$ 基因型个体则倾向于为早间型(Dijk $\&$ Archer,2010)。最新的一项综述研究提出夜间型与抑郁症之间存在高度正相关(Bauduccoet al.，2020)，提示PER3多态性可能在光照与情绪之间起着重要作用。此外，由于 $5 -$ 羟色胺转运体(5-HTT)的表达受到 $5 -$ 羟色胺转运体基因启动子区域 $( 5 -$ HTTLPR)插入(L等位基因)/缺失(S 等位基因)基因多态性的调节，例如与长 (L)等位基因相比，短(S)等位基因与减少的 $5 -$ 羟色胺信号有关(Heilsetal.,1996)，并与罹患 SAD 和非典型抑郁症的风险增加有关(Rosenthal et al.,1998；Willeit et al.，2003)。早前另一项研究也发现5-HTTLPR多态性调节光照对健康被试前额叶区域功能连接的影响，在进行强光干预后， $\mathrm { L _ { G } }$ 或S等位基因携带者前额叶皮层内侧的功能连接增强，但这种影响在 $\mathrm { L _ { A } / L _ { A } }$ 个体中则很小(Fisheretal.，2014)。因此，5-HTTLPR 的基因多态性对光照的情绪效应也存在调节。尽管目前只报告了这两种基因多态性对光照情绪功能的调节，但随着全基因组研究以及靶向基因研究的逐步深入，其他更多基因多态性的调节作用也有可能被提出。
+
+综上，环境光照对情绪的影响会受到时间、个体特征、主观偏好和基因类型等多种主客观因素的调节。新近有研究还发现人格特质与光照会协同影响个体的情绪(Veenstra& Koole，2018)，如特质愤怒个体在阅读完愤怒情景梗概后，状态愤怒水平在亮光下显著更高，在暗光下则相对较低。因此，未来研究在评估和探究光照的情绪功能时，需要综合考量以上调节因素以及其它潜在的影响因素，对这些调节变量的厘清能够为人们认识环境光影响情绪的内在机制提供新的视角。
+
+# 5光照影响情绪的作用机制
+
+环境光照影响情绪的内在作用机制一直是该领域研究的前沿与热点问题。ipRGCs虽然在数量上只占视网膜神经节细胞很小的一部分 $( \langle 5 \% \rangle$ ，但却具有广泛的影响。ipRGCs 的各亚型细胞(M1\~M6)投射至大脑的数十个区域(Schmidt etal.，2011)，其中很多区域在驱动光介导的生理和行为中起着重要作用。ipRGCs对调节抑郁和/或焦虑的细胞核有着直接的投射，如内侧杏仁核 (MA)、外侧缰核(LHb)等，表明光照对情绪可以产生直接的即时性作用。此外，ipRGCs可以将光信号传递至人体内在生物钟-视交叉上核(SCN)，SCN作为生理节律的主起搏器，在内部生理节律与外部明暗环境的同步过程中起着重要作用。与此同时，SCN也负责将光照信息传递至其他脑区，腹侧被盖区(VTA)、中缝核(raphe)，松果体(pineal)等脑区也属于其直接或间接投射的区域 (LeGates et al.，2014)。此外，负责调节睡眠-觉醒的腹外侧视前区(VLPO)和视上核(SC)除了接受ipRGCs的直接投射外，也接受来自 SCN的投射。因此，一方面光照在不改变生理节律的情况下，能直接作用于情绪；另一方面，光照通过对生理节律及其下游生理过程的调节，对情绪产生间接影响。
+
+# 5.1直接激活效应
+
+尽管环境光照最重要的角色是生理节律授时器，并能通过同步内在生理节律进而影响其它生理和行为活动。然而大量研究已证实，在不影响生理节律的情况下，环境光照对情绪有着即时和直接的影响，这主要是依赖于位于视网膜上的ipRGCs将光信号直接传导至情绪调节相关的细胞核，如内侧杏仁核(MA)和外侧缰核(LHb)(Hattar et al.，2006；Hattar et al.，2002； Schmidt et al.,2011)。来自人类被试的脑成像证据证实，大脑皮层和皮层下结构对短时急性光照有直接的神经反应，环境光照对大脑边缘区域如杏仁核和海马(Vandewalleet al.，2009；Vandewalle et al.，2010)、扣带回皮层(Alkozei et al.,2016)、前额叶皮层(Fisher et al.，2014；Yoshiike et al.，2018)等的神经活动均会产生显著影响。此外，当个体在加工负性情绪刺激时，亮光会抑制杏仁核驱动的自下而上的情绪注意网络，并增强前额叶皮层(PFC)介导的对杏仁核自上而下的调节，且这些边缘区域的神经活动表现出照度依赖的变化，即照度越高，这种调节作用越强(Fisher et al.，2014；Yoshiike et al.，2018)。因此，光照对边缘脑区的调节是其直接影响情绪的重要机制；具体而言，光照既通过减弱杏仁核在加工负性情绪刺激的反应，调节对情绪刺激自下而上的自动加工；同时，通过加强前额叶皮层与杏仁核的功能连接，驱动对情绪刺激自上而下的抑制控制。此外，已有研究更多地是在脑区层面而非主观情绪评估以及行为反应层面发现差异，因此提示，光对情绪的影响可能并不是通过单一脑区或有更加复杂的作用路径。
+
+在探究光模式对情绪的影响中，LHb 被发现在其中扮演着重要的角色。Legates 等人(2012)发现小鼠的昼夜节律和睡眠在不受到异常光照模式(T7)影响的情况下，仍会表现出增加的抑郁样行为，而敲除黑视素基因的小鼠对T7循环的致郁效应有保护作用，提示环境光照通过ipRGCs 对情绪存在直接影响。此后，Fernandez 团队(2018)进一步证实异常光照循环(T7)对情绪的影响与 SCN无关，光照通过ipRGCs 对外侧缰核边缘区(pHb)神经元的慢性激活是其调节情绪并导致抑郁的基础。具体而言，光信号通过ipRGCs 直接传输到pHb，并激活 pHb神经元，pHb 神经元再投射到前额叶皮层的前边缘(PL)和边缘下皮层(IL)并接受这两个区域的下行反馈；此外，pHb也投射到背侧纹状体和伏隔核这两个与情绪相关的区域。不过ipRGCs-pHb 这个回路并不广泛参与情绪调节，而是专门跟踪光模式的变化。最近，An等人(2020)也发现夜间光照的致郁效应是由ipRGCs上的黑视素投射至外侧缰核边缘区(dpHb)，并进一步投射到伏隔核(NAc)的神经通路介导的；由于dpHb 还受到昼夜节律系统的调节，在夜间比在白天更容易被激活，因此ipRGCs-dpHb-NAc 通道可能更偏好传导夜间的光信息，从而使夜间光诱导的抑郁样行为增加。Huang et al． (2019)等人也发现光照通过视网膜一腹侧膝状核/膝状叶一外侧缰核通道，对外侧缰核突触后神经元的抑制是光疗产生作用的神经基础，且由于外侧缰核突触后神经元对中缝背核以及腹侧被盖区等调节情绪相关行为(如奖赏、抑郁样和焦虑样行为等)的脑区有着直接的投射，因此这一神经通道可能对焦虑情绪也有缓解作用。综上可知，光照在不影响生理节律和睡眠的情况下，通过ipRGCs 激活或抑制相关脑区的神经活动，直接作用于情绪。
+
+# 5.2生理节律效应
+
+如上文所述 SCN是生理节律的中心振荡器，接受来自视网膜上ipRGCs大量轴突的投射，包括光/暗(LD)循环的信息(Moore et al.，2002)。光信号通过ipRGCs传递到 SCN后，位于SCN的主生物钟与大脑和周围组织中的许多系统和过程相互作用，如参与调节神经传递、激素分泌、神经发生、新陈代谢、免疫功能以及睡眠-觉醒模式等。因此，光信号到达SCN后，作用于情绪的路径是多样化的，在本文中将主要介绍褪黑素、单胺类神经递质以及睡眠在其中可能扮演的角色。
+
+# 5.2.1褪黑素
+
+褪黑素(melatonin，MT)是松果体分泌的一种神经内分泌激素，光信号通过视网膜下丘脑束到达下丘脑SCN后，SCN通过多突触通道将神经信号投射到松果体，调节褪黑素的分泌(Kalsbeek et al.，2006)，褪黑素的分泌水平是内在生理节律的重要指标。褪黑素对光照极为敏感，其合成节律的幅度、相位、周期对光照的响应都非常迅速。早期的研究表明健康被试暴露在 $4 5 \ \mathrm { ~ l x }$ 光照下1小时，血浆褪黑素浓度即降低 $6 0 \%$ (Brainardetal.，1988)。最近的研究发现健康人类被试在平均光照强度为24.61x的夜间光照下，褪黑素浓度降低了 $5 0 \%$ ，且褪黑素分泌延迟的时长随光照强度的增加而增加(Phillips et al.，2019)。褪黑素除了能反向调节 SCN的节律震荡外(Dubocovich，2007)；也广泛影响其它生理过程，如已有研究证实褪黑素对海马细胞增殖有积极作用(Crupietal.,2010；Ramirez-Rodriguez et al.，2009)，并能刺激大脑产生神经营养素(Konget al.，2008)，降低大脑和周围组织的促炎细胞因子水平(Brainard etal.，2001；Panda et al.，2002)，这些生理过程均被证明与抑郁症的病理机制存在高相关。值得一提的是，一些研究者提出环境光照变化导致的褪黑素分泌增加或分泌停止的时间延迟是 SAD 的病理机制之一(Pereira et al.，2017;Wehr，1997)；且褪黑素受体激动剂和5-羟色胺受体拮抗剂阿格美拉汀等褪黑素能药物在临床前和临床研究中均被证明具有良好的抗抑郁作用(Goodwin etal.，2009；Kennedy& Rizvi，2010)。因此，生理节律调控下的褪黑素变化是光照调节情绪功能的可能路径之一。
+
+# 5.2.2单胺传递
+
+单胺类神经递质(如多巴胺、5-羟色胺等)及其受体在浓度、释放和表达方面表现出节律性震荡(Barassin et al.，2002；Khaldy et al.，2002；Malek etal.，2005；Weineretal.，1992)，提示其也受到中央生物钟的调节。已有研究发现，生理节律系统对单胺神经递质的调节主要包括两个方面，一是通过生物钟基因的局部表达(Guilding& Piggins，2007)，其次是 SCN 对包括富含多巴胺能神经元的腹侧背盖区(VTA)、富含5-羟色胺能神经元的中缝背侧和内侧核群的间接投射(McClung，2013)；并进而对抑郁、焦虑和奖赏行为等产生影响。因此，环境光照通过生理节律系统作用于单胺神经传递，可能是情绪和情感障碍
+
+季节性变化的基础。
+
+环境光照对大脑多巴胺(Dopaminergic)能系统的调节已经得到大量研究的证明，如在高日照条件下，健康正常被试脑脊液中多巴胺 (Dopamine，DA)受体可用性更高，纹状体突触前DA合成则更低(Eisenbergetal.，2010；Tsai etal.，2011)；DA 浓度在大鼠纹状体和伏隔核内也以昼夜节律振荡且DA 节律对慢性持续光照有响应(Tamara etal.，2003）。此外，光照对血清素能(Serotonergic)系统也存在显著的调节，大脑产生 $5 -$ 羟色胺 $( 5 -$ hydroxytryptamine，5-HT)的速度与阳光照射的持续时间直接相关，且随着光照强度的增加而迅速增加(Lambert et al.，2002)。研究发现每天的日照量和总体辐射量影响健康个体边缘脑区域的5-HT-1A受体(在5-羟色胺能神经传递中起着关键作用)结合值，在低光照下，5-HT-1A结合值减少 $2 0 \mathrm { - } 3 0 \%$ (Spindeleggeret al.，2012)；在冬季使用强光治疗可以显著增加前扣带皮层以及前额叶皮层的 5-HT 活性(Gupta et al.，2013)。多巴胺系统和5-HT系统被认为是抑郁症病理机制中重要的神经回路，位于腹侧被盖区的DA对边缘区的伏膈核、嗅结节、杏仁核、海马以及内侧前额叶皮层和扣带回等皮层区域进行投射；中缝核的5-羟色胺能轴突也广泛地激活皮质层、海马、内侧杏仁核、终纹床核和下丘脑等脑区(Li&Li，2018)。值得注意的是，血清素能系统还将中脑中缝的投射散布到SCN，为生理节律起搏器提供调节性输入(Nestler& Hyman，2010)。综上，受到生理节律系统调节的单胺类神经递质的传递可能也是光照影响情绪的作用路径之一。
+
+# 5.2.3睡眠
+
+对睡眠的调节也是光照影响情绪的重要作用路径之一。环境光照可以通过两条路径作用于睡眠，一方面环境光信息通过夹带内源性生理节律，进而决定睡眠与觉醒的时间(Prayag，Munch，et al.，2019)；另一方面，在不影响生理节律的情况下，光照通过黑视素将光信号投射至VLPO和SC，对睡眠和觉醒产生即时的影响(Altimus et al.， 2008； Lupi et al.， 2008； Tsai et al.,2009)，且这种短时急性影响在一天中的任何时候都可以观察到(Tsaiet al.,2009)。早期的研究证明光照疗法能有效地提高 SAD 患者的睡眠效率和NREM中的delta 水平，且这种提升效应并不取决照光时间，提示光照对delta频率的影响并不依赖生理节律的驱动，而是由黑视素介导的直接影响(Anderson et al.,1994；Campbell et al.， 1993）。
+
+睡眠对情绪的影响是一个宏大且重要的主题，从睡眠-觉醒周期的角度而言，当内在的昼夜节律(如褪黑素和体温节律)相对于或睡眠/觉醒周期被延迟时，睡眠周期和生理周期之间存在一个引起抑郁的相角(Germain& Kupfer，2008;Lewy et al.，2007)。从睡眠结构的角度而言，快速眼动(REM)睡眠在激活情绪相关脑区(如杏仁核、海马)以及抑制胺能神经递质 (如去甲肾上腺素和5-氢色胺)的传递中起着独特的作用，根据 SFSR（sleep to forget and sleep toremember）模型，REM对于情绪刺激尤其消极刺激的记忆巩固具有促进作用。就睡眠时长而言，睡眠不足会对情绪产生广泛影响，包括基本的情绪加工(如识别、反应、表达)，以及高阶复杂的社会情感功能(如孤独、助人行为、虐待行为等)，其潜在的机制包括前额叶对杏仁核自上而下调节的缺失，突显网络(脑岛、扣带回皮层等)中异常的皮层加工，以及交感迷走神经的改变等 (Ben Simon et al.,2020)。此外，急性睡眠剥夺(SD)被证明具有快速的抗抑郁效果(Boland et al.,2017)，其潜在的作用机制可能在于 SD对细胞因子、皮质醇、脑源性神经营养因子以及神经可塑性的改变(Benedetti et al.，2008；Gorgulu& Caliyurt,2009；Voderholzeretal.，2012)。因此，尽管光照作用于睡眠的神经机制已有比较清晰的结论，然而光照作用下的睡眠又是如何进一步影响情绪的，有待未来更深入的讨论。
+
+总结而言，环境光照可以通过影响生理节律、睡眠等中间变量对情绪产生间接的非视觉影响。然而由于生理节律系统持续影响神经传递、激素分泌、免疫反应睡眠-觉醒周期，由此导致光照对情绪产生影响的作用路径也变得更为复杂和多样。未来的研究可以借助来自动物模型、健康被试以及抑郁症患者病理模型等多样化的研究范式来建构环境光影响情绪的作用路径的综合模型。
+
+# 6光照疗法在临床中的应用
+
+光照情绪功效的最佳证明是光照疗法在季节性情感障碍(SAD)和其他情感障碍治疗中的广泛应用。光照疗法除了对SAD 患者有效外，对其他非季节性情感障碍(重度抑郁症、双相障碍、围产期抑郁症等)以及其他临床疾病伴随的情绪症状的治疗也有一定功效。
+
+# 6.1光照疗法的适用人群
+
+在上个世纪的80 年代，光照疗法最先被用于季节性情感障碍(SeasonalAffective Disorders，SAD)患者的治疗中(Rosenthal et al.，1984)，光照疗法由于其具有的良好抗抑郁作用、低经济成本、便于使用和极小的副作用等优势被广泛地应用于SAD 和其他非季节性情感障碍患者的治疗中。大量研究对光照疗法作为单一疗法或联同其他抗抑郁药物、或与完全睡眠剥夺相结合在情感障碍患者中的治疗效果进行了验证(Chang et al.，2018；D'Agostino et al.，2020;Lam et al.，2016；Lieverse et al.，2011；Zhao et al.，2018)。多项元分析结果表明，光照疗法在改善抑郁症症状方面有小到中度的效果（效应量在$0 . 4 1 \mathrm { \widetilde { \Omega } } 0 . 6 2$ 之间)；且在一些研究中，相比联合药物治疗，单一的光照疗法有更大更显著的抗抑郁效果(Al-Karawi& Jubair，20l6；Dallaspezia&Benedetti，2020；Perera et al.，2016；Tseng et al.，2016)。值得一提的是，光照疗法对帕金森病患者的睡眠、情绪以及运动功能均有积极的影响(Fifel& Videnovic，2018；Videnovic et al.，2017；Willis et al.，2012)。此外,研究表明光照疗法对老年痴呆症患者的认知、情绪和行为也有积极的影响，如减少焦虑、抑郁或激越症状等(Hanford& Figueiro，2013；Mitolo et al.,2018)。
+
+# 6.2光照疗法的使用
+
+在光照疗法中，常用的光源包括灯箱、台灯、护目镜、吸顶灯和LED灯。关于光照强度，系列研究证明，在距离人眼50cm的位置，光照强度从176lx到10000 lx 之间都会产生积极的抗抑郁效应(Benedetti et al.，2003；Jianget al.，2020；Loving et al.，2005；Strong et al.，2009)。对于光照的波长，蓝光、绿光和白光均被证明能显著地改善情绪，其中白光使用最为广泛(Alotaibi et al.，2015)。由于黑视素对蓝色光谱最为敏感，有研究提示蓝光在低照度情况下对于情绪的改善要优于白光(Anderson et al.，2009)。不过，也有研究者发现与白光相比，蓝光在情绪障碍治疗中并没有表现出明显优势(Anderson et al.， 2016; Chang et al.， 2018； Gordijn et al.， 2012;Zhao etal.，2018)，且由于蓝光会影响视杆细胞和视锥细胞的生理机能，如降低感光细胞的反应(Kuse et al.，2014；Stephenson et al.，2012)。因此，在对蓝光的潜在影响缺乏更多了解的情况下，在光疗中使用单色蓝光需要更为谨慎。
+
+关于照光时间点，研究者们认为因根据其治疗对象不同而进行调整，对于季节性情感障碍患者，应根据其病理机制一一生理节律相位提前还是相位推迟来决定，对于相位提前的患者，应选择晚上照光；对于相位推迟的患者，则应该选择早上照光(Choukroun& Geoffroy，2019)。对于双相抑郁障碍患者，在早上或中午进行光照效果更好，每周逐渐增加15分钟，直到第四周的目标剂量60分钟，这样能减少患者在经过光疗后转入躁狂期的几率。每天的光照时长取决于光照强度，如2500lx则对应每天2小时， $5 0 0 0 ~ \mathrm { { 1 x } }$ 对应每天1小时，10000 lx对应每天30分钟。光疗周期在研究中一般为 $2 ^ { \sim } 6$ 周，在临床治疗中，研究者们建议开始光疗的起始时间应该在白天日照时间变短的秋天或冬天，并持续到患者的症状可以自行缓解的春天或夏天。在进行光照时，患者必须保持眼睛睁开，但是不需要直视光线；在治疗期间可以进食或阅读，只需保证光线进入了瞳孔(Maruani & Geoffroy， 2019)。
+
+# 7未来的研究展望
+
+# 7.1短时光照对情绪的作用模式有待明确
+
+关于短时光照对情绪的影响，已有研究得到的结论并不十分一致，这可能是受到很多干扰因素影响的缘故。首先在一天中的不同时间点进行光照，对生理节律的影响不同，比如在晨间进行光照会前置生理节律相位，在夜晚进行光照则会使相位推迟；因而对情绪的影响可能也就不同。其次，尽管都是短时光照，但是不同研究进行光照的时长均不相等，近期的一项研究表明人类ipRGCs上各个亚型细胞对亮光的响应时长各不相同(Mureetal.，2019)。因此，光照对情绪的影响在时间变量上是否存在边界调节尚未可知。此外，一些研究指出在短时光照暴露中，高照度或高色温对积极情绪有提升作用，但另一些研究却发现高照度或高色温会恶化情绪。未来研究可以通过多设置照度水平或色温水平来探究照度和色温影响情绪的规律。另外，新近一项研究提出光照的非视觉效应主要取决于黑视素照度水平(Brown，2020)，相比照度和色温，以黑视素照度作为操作标准是否更有利于探究光照影响情绪的非视觉效应有待进一步研究。
+
+# 7.2情绪测量维度多样化与客观化
+
+已有探究光照影响人类情绪的研究中，大多采用主观自陈量表来评估光照引起的情绪变化。如在情绪障碍患者群体的研究中，常采用用于临床诊断的抑郁评估量表(如汉密顿抑郁量表 (HRSD)等。在探究光照对情绪的即时影响时，采用的主观情绪测量工具则更为多样，如积极消极情绪量表(PANAS)、简明心理状态量表(POMS)、自我评估人体模型(the Self-Assessment Manikin，SAM)以及语义差异量表(一对或多对形容词)等，这些多样化的测量工具一方面会增加不同研究结果横向对比的难度；另一方面容易受到个体主观因素的干扰。已有研究表明光照对皮层区域、皮层下区域、外周系统产生影响所需要的光照暴露时长不尽相同(Prayag，Jost，et al.，2019)，提示光照对情绪的即时性影响在神经层面和行为层面发生响应存在时间差异性。未来的研究可以借助认知神经科学研究技术，尝试同时考察不同环境光照下个体主观情绪体验与客观神经活动的变化特点，通过对光照作用下主观体验、行为记录、生理反应与神经活动等多模态数据进行融合分析来评估环境光照的情绪功效。
+
+# 7.3光照的视觉功能对情绪的诱发作用
+
+当前探讨环境光照对情绪的影响研究中，研究者大多聚焦于ipRGCs细胞所介导的非视觉功效。然而环境光照作为一种物理刺激，本身就会传达特定的情感意义（Quartier et al.，2014)，如有研究发现个体特征对灯光的满意度、期望以及偏好都会显著影响其情绪反应(Kuller et al.，2006；Maier et al.,2016)。此外，在不同的照明环境中，不同照度、不同色温、不同波长、不同照明方式(直接或间接照明)所形成的光环境的视觉感受并不相同，比如低色温光照给人温暖、放松的感觉，高色温光照给人正式、活力的感觉等(Cui etal.，2018;Tantanatewin& Inkarojrit，2016；Wei et al.，2014)。因此，值得关注的一个核心问题是，由视杆细胞和视锥细胞为主对光照形成的视觉感知是否也会对情绪产生影响？如果有影响，它在其中的贡献如何以及如何进行分离？这是未来研究需要探讨的问题。
+
+# 8小结
+
+环境光照对情绪的影响是一个非常重要的话题，目前关于环境光照对情绪的影响主要集中于光疗的抗抑郁效应以及不同光照模式导致的生理节律紊乱;关于短时光照对情绪的影响也有一定程度的探讨，但研究结果存在较大差异。此外，对于环境光照影响情绪的作用通道尚未有明确的共识。事实上，光照的物理参数、作用时间点、作用时长以及不同模式影响情绪的方向可能不一致(改善或恶化)，因而其作用机制也就并不相同。环境光照对人类情绪的影响仍存在很多需要被回答的问题。在外部环境明暗周期越来越模糊的今天，人类暴露在光照下的时间被大大地延长；因生活或工作方式导致的社会节律与正常明暗周期去同步化也越来越普遍，探究这些改变如何影响人们的情绪有助于对客观环境和个体主观生活方式进行合理干预，从而提高人们的生活幸福感和心理健康程度。此外这也可能为光照在临床和非临床的应用中提供更多客观科学的依据。
+
+# [1]参考文献
+
+[2]毛天欣，熊晓，李静华，姚颖，杨健，李笑然，& 周国富．(2018)．光照的警觉性作用．心理科学 进展， $2 6 ( 7 )$ ，1213-1222.   
+[3]汝涛涛，李芸，钱柳，陈庆伟，钟罗金，李静华，& 周国富．(2019)．环境光照的认知功效及其调 节因素与作用机理．心理科学进展，27(10)，1687-1702.   
+[4]Al-Ayash，A.，Kane，R. T.，Smith，D.，& Green-Armytage，P.(2016)．The influence of color on student emotion，heart rate，and performance in learning environments. Color Research& Application，41(2)，196-205.   
+[5]Al-Karawi，D.，& Jubair，L. (2016)． Bright light therapy for nonseasonal depression: Meta-analysis of clinical trials. Journal of Affective Disorders,198,64-71.   
+[6] Ali，M. (1972). Pattern of EEG recovery under photic stimulation by light of different colors.Electroencephalography and Clinical Neurophysiology，33(3)，332-335.   
+[7]Alkozei，A.，Smith，R.，& Killgore，W.D. (2016)．Exposure to blue wavelength light modulates anterior cingulate cortex activation in response to 'uncertain' versus ’certain’ anticipation of positive stimuli. Neuroscience Letters, 6l6, 5-10.   
+[8]Alotaibi，M.，Halaki，M.，& Chow，C.-M. (2015).A systematic review of light therapy on mood scores in major depressive disorder: Light specification， dose， timing and delivery.International Journal of Basic and Applied Sciences, ${ \it 5 ( 1 ) }$ ：   
+[9]Altimus，C. M.，Guler，A.D.，Villa，K.L.，McNeill，D.S.，Legates，T.A.，& Hattar, S.(2008). Rods-cones and melanopsin detect light and dark to modulate sleep independent of image formation.Proceedings of the National Academy of Sciences of the United States of America,105(50)，19998-20003.   
+[10] An，K.，Zhao，H.，Miao，Y.， Xu，Q.，Li，Y.-F.，Ma，Y.-Q.， Xue，T.(2020)．A circadian rhythm-gated subcortical pathway for nighttime-light-induced depressive-like behaviors in mice. Nature Neuroscience,23(7)，869-880.   
+[11] Anderson，J.L.，Glod，C.A.，Dai，J.，Cao，Y.，& Lockley，S.W.(2009)．Lux vs. wavelength in light treatment of Seasonal Affective Disorder. Acta Psychiatrica Scandinavica,120(3)，203- 212.   
+[12] Anderson，J.L.，Hilaire，M. A.，Auger，R.R.，Glod,C.A.，Crow，S.J.，Rivera,A.N., Wolfe,D. J. (20l6)． Are short (blue） wavelengths necessary for light treatment   
+[13] Anderson，J.L.，Rosen，L. N.， Mendelson，W.B.，Jacobsen，F. M.， Skwerer，R.G., Josephvanderpool， J. R.，. .Rosenthal， N. E. (1994)． Sleep in fall/winter seasonal affective disorder: Effects of light and changing seasons. Journal of Psychosomatic Research，38(4)，323 -337.   
+[14]Archer，S.N.，Schmidt，C.，Vandewalle，G.，& Dijk，D.J.(2018)．Phenotyping of PER3 variants reveals widespread effects on circadian preference， sleep regulation, and health. Sleep Medicine Reviews,40,109- 126.   
+[15] Barassin， S.，Raison， S.，Saboureau，M.， Bienvenu,C.，Maitre， M.，Malan，A.，& Pévet, P.(2002). Circadian tryptophan hydroxylase levels and serotonin release in the suprachiasmatic nucleus of the rat. European Journal of Neuroscience,15(5)，833-840.   
+[16] Baron，R. A.，Rea， M.S.，& Daniels， S.G.(1992)．Effects of Indoor Lighting (Illuminance and Spectral Distribution） on the Performance of Cognitive Tasksand Interpersonal Behaviors - the Potential Mediating Role of Positive Affect. Motivation and Emotion, 16(1)，1-33.   
+[17] Bauducco， S.，Richardson，C.，& Gradisar， M. (2020)． Chronotype，circadian rhythms and mood. Current Opinion in Psychology，34，77-83.   
+[18] Bedrosian，T.A.，Fonken，L.K.，Walton，J.C.，Haim，A.，& Nelson，R.J.(2011)．Dim light at night provokes depression-like behaviors and reduces CA1 dendritic spine density in female hamsters. Psychoneuroendocrinology，36(7)，1062-1069.   
+[19] Bedrosian，T.A.，Galan，A.，Vaughn，C.A.，Weil，Z. M.，& Nelson，R.J.(2013)．Light at night alters daily patterns of cortisol and clock proteins in female Siberian hamsters.Journal of Neuroendocrinology，25(6)，590-596.   
+[20] Ben Simon，E.，Vallat，R.，Barnes，C. M.，& Walker，M. P. (2020)． Sleep Loss and the Socio-Emotional Brain. Trends in Cognitive Sciences,24(6)，435-450.   
+[21] Benedetti，F.，Colombo，C.，Pontiggia，A.，Bernasconi，A.，Florita，M.，& Smeraldi，E. (2003). Morning light treatment hastens the antidepressant effect of citalopram: A placebo-controlled trial. Journal of Clinical Psychiatry， 64(6)，648-653.   
+[22] Berson，D. M.，Dunn，F.A.，& Takao，M. (2002)． Phototransduction by retinal ganglion cells that set the circadian clock. Science,295(5557)，1070-1073.   
+[23] Bijleveld，E.，& Knufinke， M. (2018)． Exposure to bright light biases effort-based decisions. Behavioral Neuroscience，132(3)，183-193.   
+[24] Boland，E.M.，Rao，H.，Dinges，D.F.，Smith，R.V.，Goel，N.，Detre，J.A.，．. Gehrman， P. R. (2017). Meta-Analysis of the Antidepressant Effects of Acute Sleep Deprivation. The Journal of Clinical Psychiatry， 78(8)，el020 -e1034.   
+[25] Brainard,G.C.，Hanifin，J.P.，Greeson，J.M.，Byrne，B.，Glickman，G.，Gerner，E.，& Rollag，M. D. (2001). Action spectrum for melatonin regulation in humans:Evidence for a novel circadian photoreceptor. Journal of Neuroscience,21(16)，6405 -6412.   
+[26] Brown， T. M. (2020). Melanopic illuminance defines the magnitude of human circadian light responses under a wide range of conditions. Journal of Pineal Research, 69(1), e12655.   
+[27] Campbell，S. S.，Dawson，D.，& Anderson，M. W.(1993)．Alleviation of Sleep Maintenance Insomia with Timed Exposure to Bright Light. Journal of the American Geriatrics   
+[28] Chang，C. H.，Liu,C.Y.，Chen，S.J.，& Tsai，H. C. (2018)．Efficacy of light therapy on nonseasonal depression among elderly adults: A systematic review and meta-analysis. Neuropsychiatric Disease and Treatment，14, 3091- 3102.   
+[29] Chellappa，S.L.，Viola，A. U.，Schmidt，C.，Bachmann，V.，Gabel，V.，Maire，M., Landolt， H. P. (2012). Human melatonin and alerting response to blue-enriched light depend on a polymorphism in the clock gene PER3.Journal of Clinical Endocrinology and Metabolism, 97(3)，E433.   
+[30] Choukroun，J.，& Geoffroy，P. A. (2019)．Light Therapy in Mood Disorders:A Brief History with Physiological Insights. Chronobiology in Medicine,1(1)，3-8.   
+[31] Crupi，R.，Mazzon，E.， Marino，A.，La Spada，G.，Bramanti，P.，Cuzzocrea，S.，& Spina, E.(2010). Melatonin treatment mimicsthe antidepressant action inchronic corticosterone - treated mice. Journal of Pineal Research, 49(2)，123 -129.   
+[32] Cui，Z.，Hao，L.，& Xu，J. (2018)．A Study on the Emotional and Visual Influence of the CICU Luminous Environment on Patients and Nurses. Journal of Asian Architecture and Building Engineering,16(3)，625-632.   
+[33] D'Agostino， A.，Ferrara，P.， Terzoni， S.，Ostinelli，E.G.，Carrara， C.，Prunas, C.，．．． Destrebecq，A. (2020)． Efficacy of Triple Chronotherapy in unipolar and bipolar depression: A systematic review of the available evidence. Journal of Affective Disorders，276,297-304.   
+[34] Dallaspezia， S.，& Benedetti，F. (2020)．Antidepressant light therapy forbipolar patients: A meta-analyses. Journal of Affective Disorders, 274, 943 - 948.   
+[35] Deats，S.P.，Adidharma，W.，Lonstein， J. S.，& Yan，L. (2014)．Attenuated orexinergic signaling underlies depression-like responses induced by daytime light deficiency. Neuroscience，272，252-260.   
+[36] Dijk，D.-J.，& Archer，S.N.(2010)．PERIOD3，circadian phenotypes，andsleep homeostasis. Sleep Medicine Reviews,14(3)，151-160.   
+[37] Dubocovich, M. L. (2007). Melatonin receptors: Role on sleep and circadian rhythm regulation. Sleep Medicine,8, 34-42.   
+[38] Eisenberg，D. P.，Kohn，P.D.，Baller，E.B.，Bronstein，J.A.， Masdeu，J.C.，& Berman， K. F.(2010). Seasonal effects on human striatal presynaptic dopamine synthesis. Journal of Neuroscience,30(44)，14691-14694.   
+[39] Elliot，A. J.，& Maier，M. A. (2014)． Color psychology:Effects of perceiving color on psychological functioning in humans. Annual Review of Psychology，65, 95-120.   
+[40] Esaki，Y.，Kitajima，T.，Obayashi，K.，Saeki，K.，Fujita，K.，& Iwata，N.(2019). Daytime light exposure in daily life and depressive symptoms in bipolar disorder:A cross-sectional analysis in the APPLE cohort. Journal of Psychiatric Research， 116, 151 - 156.   
+[41] Falchi，F.，Cinzano，P.，Duriscoe，D.，Kyba，C. C. M.，Elvidge，C.D.，Baugh，K.， Furgoni，R. (2016). The new world atlas of artificial night sky brightness. Science Advances，2(6)，e1600377.   
+[42] Fernandez，D. C.，Fogerson，P. M.，Lazzerini Ospri，L.，Thomsen，M. B.，Layne，R. M., Severin，D.，... Hattar， S. (2018). Light Affects Mood and Learning through Distinct Retina-Brain Pathways. Cell， 175(1)，71-84 e18.   
+[43] Fifel，K.，& Videnovic，A. (2018)． Light therapy in Parkinson’s disease:Towards mechanism-based protocols. Trends in Neurosciences，41(5)，252 - 254.   
+[44]Figueiro， M.G.， Steverson，B.， Heerwagen，J.， Kampschroer，K.， Hunter，C.M., Gonzales，K.，... Rea，M. S. (2017)． The impact of daytime light exposures on sleep and mood in office workers. Sleep Health，3(3)，204-215.   
+[45] Fisher，P. M.， Madsen， M. K.，Mc Mahon，B.，Holst，K. K.，Andersen，S.B.，Laursen，H. R.， .Knudsen，G. M. (2014). Three-week bright-light intervention has dose-related effects on threat-related corticolimbic reactivity and functional coupling. Biological Psychiatry， 76(4)，332 -339.   
+[46]Fisk，A. S.，Tam，S.K.E.，Brown，L.A.，Vyazovskiy，V.V.，Bannerman，D.M.，& Peirson， S. N. (2018)． Light and Cognition: Roles for Circadian Rhythms， Sleep， and Arousal. Frontiers in Neurology， 9, 56.   
+[47] Fonken，L.K.，Finy，M.S.，Walton，J.C.，Weil，Z.M.，Workman，J.L.，Ross，J.，& Nelson,R. J. (2009). Influence of light at night on murine anxiety- and depressivelike responses. Behavioural Brain Research,205(2)，349 -354.   
+[48] Freedman，M. S.，Lucas，R.J.，Soni，B.，von Schantz， M.，Munoz，M.，David-Gray，Z.，& Foster， R. (1999). Regulation of mammalian circadian behavior by non-rod， non-cone, ocular photoreceptors. Science，284(5413)，502-504.   
+[49] Golden，R. N.，Gaynes，B. N.，Ekstrom，R. D.，Hamer，R. M.，Jacobsen，F. M.，Suppes, T.，．．. Nemeroff，C. B. (2005). The efficacy of light therapy in the treatment of mood disorders: A review and meta-analysis of the evidence. American Journal of Psychiatry，162(4)，656- 662.   
+[50] Gordijn，M. C. M.，t Mannetje，D.，& Meesters，Y. (2012)． The effects of blue-enriched light treatment compared to standard light treatment in Seasonal Affective Disorder. Journal of Affective Disorders, $\ : I 3 6 ( 1 - 2 ) \ :$ ，72-80.   
+[51] Guilding，C.，&Piggins，H.D.(2007)． Challengingthe omnipotenceofthe suprachiasmatic timekeeper: Are circadian oscillators present throughout the mammalian brain? European Journal of Neuroscience, $2 5 ( 1 1 )$ ，3195-3216.   
+[52] Hanford, N.，& Figueiro,M. (2013). Light therapy and Alzheimer's disease and related dementia: Past， present，and future. Journal of Alzheimer's Disease， 33(4)，913-922.   
+[53] Harb，F.，Hidalgo，M. P.，& Martau,B. (2015)． Lack of exposure to natural light in the workspaceisassociatedwithphysiological，sleepanddepressivesymptoms. Chronobiology International， 32(3)，368 -375.   
+[54] Hatar， S.， Kumar，M.，Park，A.，Tong，P.，Tung，J.，Yau，K. W.，& Berson，D. M. (2006). Central projections of melanopsin-expressing retinal ganglion cells in the mouse. Journal of Comparative Neurology， 497(3)，326 -349.   
+[55] Hattar，S.，Liao，H. W.，Takao，M.，Berson，D. M.，& Yau，K. W.(2002)．Melanopsincontainingretinalganglioncells:Architecture，projections，andintrinsic photosensitivity. Science，295(5557)，1065-1070.   
+[56] Hawes，B.K.，Brunyé，T.T.，Mahoney，C.R.，Sullivan，J.M.，& Aall，C.D.(2012). Effects of four workplace lighting technologies on perception， cognition and affective state.International Journal of Industrial Ergonomics,42(1)，122-128.   
+[57] Heils，A.，Teufel，A.，Petri，S.，Stöber，G.，Riederer，P.，Bengel，D.，& Lesch，K. P. (1996).Allelic variation of human serotonin transporter gene expression. Journal of Neurochemistry，66(6)，2621-2624.   
+[58] Huang，L.， Xi， Y.，Peng，Y.，Yang，Y.，Huang， X.，Fu，Y.， ．Ren，C.(2019)．A Visual Circuit Related to Habenula Underlies the Antidepressive Effects of Light Therapy. Neuron，102(1)，128-142 e128.   
+[59] Huiberts，L. M.，Smolders，K. C.，& de Kort，Y. A.(2015)． Shining light on memory: Effects of bright light on working memory performance. Behavioural Brain Research, 294, 234 - 245.   
+[60] Huiberts，L. M.，Smolders，K. C.，& de Kort，Y.A. (2016)． Non-image forming effectsof illuminance level: Exploring parallel effects on physiological arousal and task performance.Physiology & Behavior，164(Pt A)，129-139.   
+[61] Jacobs，K. W.，& Hustmyer Jr，F. E. (1974)． Effects of four psychological primary colors on GSR， heart rate and respiration rate. Perceptual and Motor Skills, 38(3), 763 -766.   
+[62]Jean-Louis，G.，Kripke，D.，Cohen，C.，Zizi，F.，& Wolintz，A.(2005)．Associations of ambient illumination with mood: Contribution of ophthalmic dysfunctions. Physiology & Behavior,84(3)，479-487.   
+[63] Jiang，L.，Zhang，S.，Wang，Y.，So，K.-F.，Ren，C.，& Tao，Q.(2020)．Efficacy of Light Therapy for a College Student Sample with Non-seasonal Subthreshold Depression: An RCT Study. Journal of Affective Disorders.   
+[64] Kapogiannatou, A.， Paronis，E.， Paschidis, K.， Polissidis,A.，& Kostomitsopoulos， N. G.(2016).Effect of light colour temperature and intensity on Thε behaviour of male C57CL/6J mice.Applied Animal Behaviour Science,184，135-140.   
+[65] Kegel，M.， Dam，H.，Ali，F.，& Bjerregaard，P. (2009)． The prevalence of seasonal affective disorder (SAD) in Greenland is related to latitude. Nordic Journal of Psychiatry，63(4)，331- 335.   
+[66] Khaldy，H.，León，J.，Escames，G.，Bikjdaouene，L.，Garcia，J.J.，& Acuna-Castroviejo, D.(2002). Circadian rhythms of dopamine and dihydroxyphenyl acetic acid in the mouse striatum: Effects of pinealectomy and of melatonin treatment. Neuroendocrinology, 75(3)，201-208.   
+[67] Kim，D.K.，Ahn， S.，Park， S.，& Whang，M.(2013)． Interactive emotional lighting system using physiological signals. IEEE Transactions on Consumer Electronics, 59(4), 765 - 771.   
+[68] Knez，I.(2014)． Affective and cognitive reactions to subliminal flicker from fluorescent lighting. Consciousness and Cognition, 26, 97 -104.   
+[69] Knez，I.，& Enmarker，I. (1998)． Effects of Office Lighting on Mood and Cognitive Performance And A Gender Effect in Work-xRelated Judgment. Environment and Behavior, 30(4)，553 - 567.   
+[70] Knez，I.，& Kers，C. (2000)．Effects of Indoor Lighting，Gender，and Age on Mood and Cognitive Performance. Environment and Behavior, 32(6)，817 - 831.   
+[71] Kombeiz，O.，& Steidle,A. (2018).Facilitation of creative performance by using blue and red accent lighting in work and learning areas. Ergonomics, 61(3)，456 - 463.   
+[72] Kuller，R.，Ballal，S.，Laike，T.，Mikellides，B.，& Tonello，G.(2006)．The impact of light and colour on psychological mood: A cross-cultural study ofindoor work environments. Ergonomics,49(14)，1496-1507.   
+[73] Kurata，Y.， Izawa， S.，& Nomura， S. (2016)． Seasonality in mood and behaviours of Japanese residents in high-latitude regions: Transnational cross-sectional study. BioPsychoSocial Medicine,10(1)，33.   
+[74] Kuse，Y.， Ogawa，K.， Tsuruma，K.， Shimazawa， M.，& Hara，H.(2014)． Damage of photoreceptor-derived cells in culture induced by light emitting diode-derived blue light. Scientific Reports，4, 5223.   
+[75] Lam，R.W.，Levitt，A.J.，Levitan，R.D.，Michalak，E.E.，Cheung，A.H.，Morehouse, R.，. ，Tam，E. M. (20l6)． Efficacy of bright light treatment，fluoxetine，and the combination in patients with nonseasonal major depressive disorder: A randomized clinical trial． JAMA Psychiatry， 73(1)，56 -63.   
+[76] Lambert，G.W.，Reid，C.，Kaye，D.M.，Jennings，G.L.，& Esler，M.D.(2002)．Effect of sunlight and season on serotonin turnover in the brain. The Lancet， 360(9348), 1840 - 1842.   
+[77] Laufer，L.，Lang，E.， Izso，L.，& Nemeth，E. (2009)．Psychophysiological effects of coloured lighting on older adults. Lighting Research & Technology， 41(4)，371-378.   
+[78] Leach，G.， Adidharma， W.，& Yan，L.(2013)． Depression-like responses induced by daytime light deficiency in the diurnal grass rat (Arvicanthis niloticus). PLoS One, （204 $g ( 2 )$ ，e57115.   
+[79] LeGates，T. A.，Fernandez，D. C.，& Hattar， S. (2014). Light as a central modulator of circadian rhythms， sleep and affect. Nature Reviews Neuroscience，15(7)，443-454.   
+[80] Leichtfried, V.， Mair-Raggautz， M.， Schaeffer，V.， Hammerer-Lercher， A.， Mair，G., Bartenbach，C.，．．． Schobersberger，W. (2015)． Intense illumination in the morning hours improved mood and alertness but not mental performance. Applied Ergonomics, 46 Pt A,54-59.   
+[81] Li， X.，& Li， X. (2018)． The Antidepressant Effect of Light Therapy from Retinal Projections. Neuroscience Bulletin, 34(2)，359-368.   
+[82] Lieverse，R.，Van Someren，E.J.W.，Nielen， M. M. A.，Uitdehaag，B. M.J.，Smit，J. H.，& Hoogendijk，W.J.G. (2011)． Bright light treatment in elderly patients with nonseasonal major depressive disorder: A randomized placebo-controlled trial. Archives of General Psychiatry，68(1)，61-70.   
+[83]Loving，R.T.，Kripke，D.F.，Knickerbocker，N.C.，& Grandner，M.A.(2005)．Bright green light treatment of depression for older adults [ISRCTN69400161]． BMC Psychiatry, 5,42.   
+[84] Low，K. G.，& Feissner，J. M. (1998). Seasonal affective disorder in college students: Prevalence and latitude. Journal of American College Health, 47(3)，135-137.   
+[85] Lu，C.，Wang，Y.，& Zhang，Y. (2016)． Light deprivation produces a sexual dimorphic effect on neural excitability and depression-like behavior in mice. Neuroscience Letters，633，69-76.   
+[86] Lupi，D.，Oster，H.，Thompson，S.，& Foster，R.G. (2008)．The acute light-induction of sleep is mediated by OPN4-based photoreception. Nature Neuroscience，11(9)，1068-1073.   
+[87] Magnusson， A.，& Boivin， D. (2003)． Seasonal affective disorder: An overview. Chronobiology International， 20(2)，189 - 207.   
+[88] Maier，J.，Zierke，O.，Hoermann,H.-J.，& Windemut，I.(20l6)．Subjectivity of Lighting Perception and Comfort: The Role of Preferences and Expectations. Environment and Behavior,49(10)，1105-1127.   
+[89] Malek，Z. S.，Dardente，H.，Pevet，P.，& Raison，S. (2005)． Tissue-specific expression of tryptophan hydroxylase mRNAs in the rat midbrain: Anatomical evidence and daily profiles. European Journal of Neuroscience，22(4)，895 -901.   
+[90] Maruani， J.，& Geoffroy， P. A.(2019)． Bright Light as a Personalized Precision Treatment of Mood Disorders.Frontiers in Psychiatry，10,85.   
+[91] McCloughan，C.，Aspinall，P.，& Webb，R.（199)． The impact of lighting on mood. International Journal of Lighting Research and Technology，31(3)，81-88.   
+[92] McClung，C. A. (2013)．. How might circadian rhythms control mood? Let me count the ways. Biological Psychiatry， 74(4)，242 - 249.   
+[93] Metz，A.J.，Klein，S. D.，Scholkmann，F.，& Wolf，U.(2017)．Continuous coloured light altered human brain haemodynamics and oxygenation assessed by systemic physiology augmented functional near-infrared spectroscopy. Scientific Reports，7(1)，10027.   
+[94] Mills，P.R.， Tomkins，S. C.，& Schlangen，L.J. (2007)． The effect of high correlated colour temperature office lighting on employee wellbeing and work performance. The Journal of Circadian Rhythms,5,2.   
+[95] Min，J.-y.，& Min， K.-b. (2018)． Outdoor light at night and the prevalence of depressive symptoms and suicidal behaviors: A cross-sectional study in a nationally representative sample of Korean adults. Journal of Affective Disorders, 227, 199 - 205.   
+[96] Mitolo，M.，Tonon，C.，La Morgia，C.， Testa，C.，Carelli，V.，& Lodi，R.(2018). Effects of Light Treatment on Sleep， Cognition， Mood，and Behavior in Alzheimer's Disease: A Systematic Review. Dementia and Geriatric Cognitive Disorders， 46(5-6), 371 - 384.   
+[97] Monje，F.J.，Cabatic，M.，Divisch，I.，Kim，E.J.，Herkner，K.R.，Binder，B. R.，& Pollak，D. D. (2011). Constant darkness induces IL-6-dependent depression-like behavior through the NF-kappaB signaling pathway. Journal of Neuroscience, 31(25)， 9075-9083.   
+[98] Moore，R. Y.， Speh， J. C.，& Leak，R. K. (2002). Suprachiasmatic nucleus organization. Cell and Tissue Research, 309(1)，89-98.   
+[99] Mure，L. S.，Vinberg，F.，Hanneken，A.，& Panda， S. (2019)．Functional diversity of human intrinsically photosensitive retinal ganglion cells. Science， 366(6470)，1251- 1255.   
+[100] Nagare，R.， Plitnick，B.，& Figueiro， M. G. (2019). Effect of exposure duration and light spectra on nighttime melatonin suppression in adolescents and adults. Lighting Research& Technology，51(4)，530-543.   
+[101] Obayashi，K.，Saeki，K.，Iwamoto，J.，Ikada，Y.，& Kurumatani，N.(2013)．Exposure to light at night and risk of depression in the elderly. Journal of Affective Disorders，151(1)，331-336.   
+[102] Paksarian，D.，Rudolph，K.E.，Stapp，E.K.， Dunster，G.P.，He，J.，Mennitt, D.，. . Merikangas，K. R. (2020)． Association of Outdoor Artificial Light at Night With Mental Disorders and Sleep Patterns Among US Adolescents. JAMA Psychiatry. 77(12), 1266 - 1275.   
+[103] Pereira，J.C.，Jr.，Pradella Hallinan，M.，& Alves，R.C.(2017)． Secondary to excessive melatonin synthesis， the consumption of tryptophan from outside the bloodbrain barrier and melatonin over-signaling in the pars tuberalis may be central to the pathophysiology of winter depression. Medical Hypotheses， 98,69 -75.   
+[104] Perera， S.， Eisen，R.，Bhatt，M.，Bhatnagar， N.，de Souza，R.， Thabane，L.，& Samaan， Z. (20l6). Light therapy for non-seasonal depression: Systematic review and meta-analysis. BJPsych Open，2(2)，116 -126.   
+[105] Prayag，A. S.， Jost， S.， Avouac，P.， Dumortier，D.，& Gronfier，C. (2019). Dynamics of Non-visual Responses in Humans: As Fast as Lightning? Frontiersin Neuroscience，13,126.   
+[106] Prayag，A.S.，Munch，M.，Aeschbach，D.，Chellappa，S.L.，& Gronfier，C.(2019). Light Modulation of Human Clocks，Wake，and Sleep.Clocks Sleep，1(1)，193 - 208.   
+[107] Provencio，I.，Rodriguez，I.R.， Jiang，G.， Hayes，W.P.， Moreira，E.F.，& Rollag，M. D. (200o).A novel human opsin in the inner retina. Journal of Neuroscience, 20(2)，600 -605.   
+[108] Quartier， K.，Vanrie， J.，& Van Cleempoel，K. (2014). As real as it gets:What role does lighting have on consumer' s perception of atmosphere, emotions and behaviour? Journal of Environmental Psychology，39,32-39.   
+[109] Rajae-Joordens，R. J. E. (2010)． The Effects of Colored Light on Valence and Arousal． In Sensing Emotions (pp. 65-84).   
+[110] Ramirez-Rodriguez，G.，Klempin，F.，Babu，H.，Benitez-King，G.，& Kempermann，G. (2009). Melatonin modulates cell survival of new neurons in the hippocampus of adult mice. Neuropsychopharmacology， 34(9)，2180 - 2191.   
+[111] Rosen，L. N.，& Rosenthal，N. E. (1991). Seasonal variations in mood and behavior in the general population: A factor-analytic approach. Psychiatry Research, $3 8 ( 3 )$ ， 271 - 283.   
+[112] Rosenthal，N. E.， Mazzanti，C. M.，Barnett，R. L.，Hardin，T. A.，Turner，E.H., Lam，G.K.，. ．Goldman， D. (1998)． Role of serotonin transporter promoter repeat length polymorphism (5-HTTLPR) in seasonalityand seasonal affective disorder. Molecular Psychiatry，3(2)，175-177.   
+[113] Rosenthal，N.E.， Sack，D. A.，Gillin，J.C.，Lewy，A.J.，Goodwin，F.K., Davenport，Y.，. ：.Wehr，T. A. (1984)． Seasonal affective disorder:A description of thesyndrome and preliminary findingswith light therapy.Archives of General Psychiatry， 41(1)，72-80.   
+[114] Ru，T.，de Kort，Y.A.W.，Smolders，K.C.H.J.，Chen，Q.，& Zhou，G.(2019). Non-image forming effects of illuminance and correlated color temperature of office light on alertness， mood， and performance across cognitive domains. Building and Environment，149，253 -263.   
+[115] Schmidt，T. M.，Chen， S.K.，& Hattar， S.(2011)． Intrinsically photosensitive retinal ganglion cells: Many subtypes， diverse functions. Trends in Neurosciences, 34(11)，572 -580.   
+[116] Segal，A. Y.，Sletten，T. L.，Flynn-Evans，E.E.，Lockley，S. W.，& Rajaratnam，S. M.(2016). Daytime Exposure to Short- and Medium-Wavelength Light Did Not Improve Alertness and Neurobehavioral Performance. Journal of Biological Rhythms，31(5)， 470 - 482.   
+[117] Sit，D.，& Haigh， S.(2019)． Use of "Lights" for Bipolar Depression. Current Psychiatry Reports,21(6)，45.   
+[118] Smith， S.，& Spiridon，E. (2018)． Influence of ambient light and feedback on motivation to carry out a task: Implications for operation of unmanned aircraft. International Journal of Unmanned Systems Engineering,7(1)，12- 23.   
+[119] Smolders，K. C.，de Kort，Y. A.，& Cluitmans，P. J. (2012)．A higher illuminance induces alertness even during office hours: Findings on subjective measures， task performance and heart rate measures. Physiology & Behavior, 107(1)，7-16.   
+[120] Smolders，K. C. H. J.，& de Kort，Y. A. W.(2014)． Bright light and mental fatigue: Effects on alertness， vitality， performance and physiological arousal. Journal of Environmental Psychology， 39， 77 -91.   
+[121] Smolders，K. C. H. J.，& de Kort，Y. A. W. (2017)． Investigating daytime effects of correlated colour temperature on experiences， performance,and arousal. Journal of Environmental Psychology， 50，80-93.   
+[122] Stephenson，K.M.，Schroder，C. M.，Bertschy，G.，& Bourgin，P.(2012)．Complex interaction of circadian and non-circadian effects of light on mood: Shedding new light on an old story. Sleep Medicine Reviews,16(5)，445 -454.   
+[123] Strong，R.E.，Marchant，B.K.，Reimherr，F.W.，Williams，E.，Soni，P.，& Mestas, R.(2009)． Narrow-band blue-light treatment of seasonal affective disorder in adults and the influence of additional nonseasonal symptoms. Depression and Anxiety， $2 6 ( 3 )$ ， 273 - 278.   
+[124] Tamara，R， Casta， xf，eda，Blanca，. .Prieto. (2003)． Circadian rhythms of dopamine， glutamate and GABA in the striatum and nucleus accumbens of the awake rat: Modulation by light. Journal of Pineal Research.   
+[125] Tan，D.X.， Xu，B.， Zhou， X.，& Reiter，R.J.(2018)． Pineal calcification, melatonin production， aging， associated health consequences and rejuvenation of the pineal gland. Molecules，23(2)，301.   
+[126] Tantanatewin,W.，& Inkarojrit，V. (2016)． Effects of color and lighting on retail impression and identity. Journal of Environmental Psychology，46,197 - 205.   
+[127] Tapia-Osorio， A.， Salgado-Delgado， R.， Angeles-Castellanos， M.，& Escobar， C. (2013). Disruption of circadian rhythms due to chronic constant light leads to depressive and anxiety-like behaviors in the rat. Behavioural Brain Research, 252，1- 9.   
+[128] Tsai，H.-Y.，Chen，K.C.，Yang，Y.K.，Chen，P.S.，Yeh，T.L.，Chiu，N.T.，& Lee，I. H.(2011). Sunshine-exposure variation of human striatal dopamine D2/D3 receptor availability in healthy volunteers. Progress in Neuro-Psychopharmacology and Biological Psychiatry，35(1)，107 -110.   
+[129] Tsai，J.W.，Hannibal，J.， Hagiwara，G.，Colas，D.，Ruppert，E.，Ruby，N. F., . Bourgin，P. (2009)． Melanopsin as a sleep modulator: Circadian gating of the direct effects of light on sleep and altered sleep homeostasis in $0 \mathrm { { p n } 4 \left( - / - \right) }$ mice. PLoS Biology，7(6).   
+[130] Tseng，P.T.，Chen，Y.W.，Tu，K.Y.，Chung，W.，Wang，H.Y.，Wu，C.K.，& Lin，P. Y.(2016).Light therapy in the treatment of patients with bipolar depression:A metaanalytic study. European Neuropsychopharmacology, $2 6 ( 6 )$ ，1037-1047.   
+[131] Vandewalle，G.，Hebert，M.，Beaulieu，C.，Richard，L.，Daneault，V.，Garon，M. L., .Carrier，J. (2011)． Abnormal hypothalamic response to light in seasonal affective disorder. Biological Psychiatry，70(10)，954-961.   
+[132] Vandewalle，G.， Maquet，P.，& Dijk，D.J.(2009)．Light as a modulator of cognitive brain function. Trends in Cognitive Sciences,13(10)，429-438.   
+[133] Vandewalle，G.， Schwartz，S.， Grandjean，D.， Wuillaume，C.，Balteau，E., Degueldre，C.，．．. Maquet，P. (2010). Spectral quality of light modulates emotional brain responses in humans. Proceedings of the National Academy of Sciences of the United States of America,107(45)，19549 -19554.   
+[134] Veenstra，L.，& Koole， S. L. (2018)． Disarming darkness: Effects of ambient lighting on approach motivation and state anger among people with varying trait anger. Journal of Environmental Psychology，60， 34-40.   
+[135] Videnovic，A.， Klerman，E.B.， Wang，W.， Marconi，A.，Kuhta，T.，& Zee，P.C. (2017). Timed light therapy for sleep and daytime sleepiness associated with Parkinson disease: A randomized clinical trial. JAMA Neurology, 74(4)，411- 418.   
+[136] Wehr，T. A. (1997)． Melatonin and seasonal rhythms. Journal of biological rhythms, 12(6)，518 - 527.   
+[137] Wei，M.，Houser，K. W.，Orland，B.，Lang，D. H.，Ram，N.， Sliwinski，M.J.，& Bose，M. (2014)． Field study of office worker responses to fluorescent lighting of different CCT and lumen output． Journal of Environmental Psychology，39,62-76.   
+[138] Weiner，N.， Clement，H.W.，Gemsa，D.，& Wesemann，W.(1992)． Circadian and seasonal rhythms of 5-HT receptor subtypes， membrane anisotropy and 5-HT release in hippocampus and cortex of the rat. Neurochemistry international，21(1)，7-14.   
+[139] Willeit， M.， Praschak-Rieder，N.， Neumeister，A.， Zill，P.，Leisch，F.， Stastny, J.，：．. Kasper， S. (2003)．A polymorphism (5-HTTLPR)in the serotonin transporter promoter gene is associated with DSM-IV depression subtypes in seasonal affective disorder. Molecular Psychiatry， 8(11)，942 - 946.   
+[140] Willis，G. L.，Moore，C.，& Armstrong，S. M. (2012)．A historical justification for and retrospective analysis of the systematic application of light therapy in Parkinson’ s disease. Reviews in the Neurosciences， 23(2)，199- 226.   
+[141] Wilms，L.，& Oberfeld, D. (2018). Color and emotion: Effects of hue， saturation, and brightness. Psychological Research, 82(5)，896-914.   
+[142] Wilson，G. D. (1966)．Arousal properties of red versus green. Perceptual and Motor Skills，23(3，PT.1)，947-949.   
+[143] Wirz-Justice， A.， Ajdacic， V.， Rossler， W.， Steinhausen， H.-C.，& Angst，J. (2019). Prevalence of seasonal depression in a prospective cohort study. European Archives of Psychiatry and Clinical Neuroscience，269(7)，833 -839.   
+[144] Yokoyama，M.，Chang，H.，Anzai，H.，& Kato，M.(2019)．Effects of Different Light Sources on Neural Activity of the Paraventricular Nucleus in the Hypothalamus. Medicina,55(11)，732.   
+[145] Yoshiike，T.，Honma， M.，Yamada，N.，Kim，Y.，& Kuriyama，K.(2018)．Effects of bright light exposure on human fear conditioning，extinction， and associated prefrontal activation. Physiology & Behavior，194，268-276.   
+[146] Zhao，X.，Ma，J.，Wu，S.，Chi，I.，& Bai，Z.(2018)．Light therapy for older patients with non-seasonal depression: A systematic review and meta-analysis. Journal of Affective Disorders,232，291- 299.   
+[147] Zhou,Y.，Zhang，H. K.，Liu，F.，Lei，G.，Liu，P.，Jiao，T.，& Dang，Y.H.(2018). Altered Light Conditions Contribute to Abnormalities in Emotion and Cognition Through HINT1 Dysfunction in C57BL/6 Mice.Frontiers in Behavioral Neuroscience,12,110.
+
+# Effects of ambient light on mood and its mechanism
+
+LI Yunl ²，RU Taotao 2,3，LI Siyu,1,² CHEN Hanyul, ²，XIE Shuyal, ²， ZHOU Guofu2, 3
+
+(1 School of Psychology， South China Normal University， Guangzhou 510631, China)   
+(2 Lab of Light and Physio-psychological Health， National Centerfor International Research on Green Optoelectronics， South China Normal University, Guangzhou 510006， China)   
+(3 Guangdong Provincial Key Laboratory of Optical Information Materials and Technology & Institute of Electronic Paper Displays， South China Academy of Advanced Optoelectronics， South China Normal University， Guangzhou 510006, China)
+
+[Abstract] Ambient light broadly modulates individuals’physiological and psychological functions as a zeitgeber， and its non-image-forming (NIF) effects on individuals’ mood attract wide attention recently. Previous studies have demonstrated that illuminance, correlated color temperature, and wavelength are key physical factors influencing mood. Unusual light patterns such as short lighting periods, artificial lighting during the night, and constant lighting or darkness may lead to affective disorders. In addition， the NIF effects of ambient light on mood are also modulated by exposure duration， timing, individual characteristics，subjectivepreferences， and gene types. The potential mechanisms that underlie the modulatory effects of light on mood are discussed from two aspects: on the one hand， the intrinsically photosensitive retinal ganglion cells may project light signals to the brain areas responsible for emotional regulation. On the other hand, ambient light may regulate mood by altering circadian rhythms， hormone secretion， neurotransmission， and sleep. Future efforts are necessary to address the effects of short-term light exposure on mood by introducingmore objective and diverse emotional measurement techniques， integrating visual and non-visual neural pathways, and further exploring the therapeutic effects of light among people with mood disorders.
+
+[Keywords] Ambient light， mood， physical factors， light patterns， underlying mechani sm.

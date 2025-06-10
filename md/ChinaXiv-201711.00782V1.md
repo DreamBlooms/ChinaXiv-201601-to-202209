@@ -1,0 +1,163 @@
+饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔生长性能、屠宰性能及血液指标的影响刘公言」 张　伟²厉　磊高　琴」孙瑛超」李福昌1\*（1.山东农业大学动物科技学院，泰安 271018；2.济宁职业技术学院，济宁 272000；3.临沂市畜牧兽医检测中心，临沂276000)
+
+摘要：本试验旨在研究饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔生长性能、屠宰性能及血液指标的影响。试验选取104只53日龄体重相近新西兰肉兔，随机分成4个组，每组 26个重复，每个重复1只兔。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加50、100、$2 0 0 ~ \mathrm { m g / k g }$ 铁，铁添加形式为七水硫酸亚铁（ $\mathrm { F e S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ ），纯度为 $9 8 \%$ 。预试期 $^ \textrm { \scriptsize 7 d }$ ，正试期 $3 0 \mathrm { ~ d ~ }$ 。结果表明：1）饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔平均日增重(ADG)和料重比（F/G）有影响显著（ $\scriptstyle \cdot < 0 . 0 5$ ），对平均日采食量（ADFI）无显著影响（ $\mathrm { \Phi } _ { \cdot } P { > } 0 . 0 5 \mathrm { \ ' }$ ）。随着饲粮铁添加水平的增加，ADG 先增加后降低，F/G 先降低后增加；当饲粮铁添加水平为 $1 0 0 \mathrm { m g / k g }$ 时，ADG最高，F/G最低。2）饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔全净膛屠宰率和半净膛屠宰率有显著影响（ $\cdot < 0 . 0 5$ ），随着饲粮铁添加水平的增加全净膛屠宰率和半净膛屠宰率先增加后降低，当饲粮铁添加水平为 $5 0 \mathrm { m g / k g }$ 时最高。3）饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔肝脏指数无显著影响（ $\cdot P { > } 0 . 0 5$ ），对肾脏指数和脾脏指数有显著影响 （ $P { < } 0 . 0 5$ ）。饲粮铁添加水平为50、100、 $2 0 0 ~ \mathrm { m g / k g }$ 时，肾脏指数显著高于对照组（ $P { < } 0 . 0 5$ ）；饲粮铁添加水平为100、 $2 0 0 \mathrm { m g / k g }$ 时，脾脏指数显著高于对照组（ $. P { < } 0 . 0 5 \$ ）。4）饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血液中铁、铜、钙、锌、镁含量无显著影响（ $P { > } 0 . 0 5$ ）；饲粮铁添加水平对血小板分布宽度（PDW）、平均血小板体积（MPV）、血小板大细胞比率（P-LCR）有显著影响（ $\cdot < 0 . 0 5$ ）。综合本试验测定指标， $6 0 { \sim } 9 0$ 日龄新西兰肉兔饲粮中适宜的铁添加水平为 $5 0 { \sim } 1 0 0 \mathrm { m g / k g } .$ （2
+
+关键词：铁；新西兰兔；生长性能；屠宰性能；血液指标中图分类号：S829.1
+
+铁属于动物生命活动所必需的微量元素，是生物机体营养代谢、生长发育与繁衍后代所不可缺少的基本元素之一，以多种形式参与生命活动中新陈代谢，包括功能蛋白和含铁酶（细胞色素氧化酶、过氧化氢酶、黄嘌呤氧化酶等），在动物机体的正常生长发育中发挥重要作用[-3]。动物缺铁损害血细胞体积、形态和结构，最终导致营养性贫血，影响机体的生长发育；同样过量的铁主要诱导氧化对机体造成损失[4-5]，达不到促进动物生长的作用，反而造成微量元素添加剂饲料资源的浪费。随着生态环保理念深入人心，减少微量元素对环境排放势在必行，因此对不同动物不同生理阶段微量元素需要量的研究尤为重要。Elvehjem 等[6]报道，家禽饲粮铁水平低于 $1 5 \mathrm { \ m g / k g }$ 时，将产生低血红蛋白细小红细胞贫血，黏膜颜色浅淡，生长缓慢或停滞，食欲下降，严重缺乏将导致贫血症[7]。仔猪缺铁时，不仅引起血色素合成减少，同时能使红细胞内某些酶的活性降低，引起脂类、蛋白质及糖类的合成障碍[8]。在动物体内铁含量过高，铁在组织、细胞内沉积，使细胞产生病理性损伤，进而影响正常的生理功能[9]。Cao 等[10]研究认为高铁饲粮能降低鸡的采食量和生长性能。
+
+如今我国对鸡、猪、牛等都形成了完整的饲养标准，然而家兔研究起步较晚，至今没有制定家兔饲养标准。目前，我国大部分地区依然沿用的是 NRC（1977）[I推荐的营养需要量，由于时间较早，而且我国地域差别以及饲料原料的因素，并不一定适用于我国的家兔生产。因而，我国迫切需要制定符合我国生产现状的家兔饲养标准。本试验以新西兰生长肉兔为研究对象，以硫酸亚铁为铁的添加形式,探讨不同铁添加水平对新西兰生长肉兔生长性能、屠宰性能及血液指标的影响，以探讨 $6 0 { \sim } 9 0$ 日龄新西兰肉兔适宜的铁添加水平，为我国肉兔饲养标准的制定提供合理的依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+选取体重相近的104只53日龄体重[（ $1 1 1 0 \pm 3 5$ ）g]相近的新西兰肉兔(购至于山东省农科院，普通级)，公母各占1/2，按性别和体重一致的原则随机分成4个组，每组26个重复，每个重复1只兔，各组间体重无显著差异（ $\cdot P { > } 0 . 0 5$ ）。基础饲粮参考NRC（1977）[11]和 De Blas 等[12的生长兔饲养标准配制而成，其组成及营养水平见表1。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加 50、100 和 $2 0 0 ~ \mathrm { m g / k g }$ 铁，铁添加形式为七水硫酸亚铁中 $\mathrm { ^ { ' } F e S O _ { 4 } { ' } 7 H _ { 2 } O }$ ，购自济南杰辉化工有限公司，纯度为 $9 8 \%$ ）。饲粮中铁水平的实测值分别为10.65、62.39、115.28、210.71mg/kg。预试期7d，正试期 $3 0 \mathrm { d }$ 。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+
+<html><body><table><tr><td>Table 1</td><td colspan="3">Composition and nutrient levels of the basal diet (air-dry basis) %</td></tr><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米 Corn</td><td>30.0</td><td>消化能 DE/(MJ/kg)</td><td>10.40</td></tr><tr><td>麸皮 Wheat bran</td><td>16.0</td><td>粗蛋白质 CP</td><td>15.85</td></tr><tr><td>花生秧Peanutvine</td><td>37.0</td><td>粗纤维CF</td><td>16.93</td></tr><tr><td>豆粕Soybean meal</td><td>14.5</td><td>粗脂肪 EE</td><td>3.00</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>蛋氨酸+半胱氨酸</td><td>0.47</td></tr><tr><td></td><td></td><td>Met+Cys</td><td></td></tr></table></body></html>
+
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ 1.0 赖氨酸Lys 0.67  
+预混料 Premix1) 1.0 钙Ca 1.04  
+总计 Total 100.0 总磷 TP 0.58
+
+1)预混料为每千克饲粮提供 Premix provided the following per kilogram of the diet：VA 8 000 IU， $\mathrm { V D } _ { 3 } 1 0 0 0 \mathrm { I U }$ ，VE $5 0 \mathrm { m g }$ ，赖氨酸Lys $1 . 5 \mathrm { g }$ ，蛋氨酸Met $1 . 5 \mathrm { m g }$ ， $\mathrm { C u 4 0 ~ m g }$ ， $\mathrm { Z n } 5 0 \mathrm { m g }$ $ { \mathrm { M n } } 3 0  { \mathrm { m g } }$ ， $\mathrm { M g 1 5 0 m g }$ ， $\mathrm { { 1 0 . 1 \ m g } }$
+
+2)消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.3 饲养管理
+
+试验兔单笼饲养，试验期间每天饲喂2次，自由采食和饮水。自然采光和通风，并采用常规饲养管理和免疫程序。
+
+1.4样品采集与制备
+
+试验开始后30d早晨空腹称重，每组选取10只和组内平均体重相近的试验兔，避光心脏采血 $1 0 ~ \mathrm { m L }$ ，置于乙二胺四乙酸（EDTA）抗凝管中，用于血常规指标及铁、铜、钙、锌、镁含量测定。试验兔采血后立即屠宰，称取胴体、肝脏、肾脏和脾脏的重量。
+
+# 1.5 测定指标和方法
+
+# 1.5.1 生长性能指标的测定
+
+称量并记录试验正式开始时试验兔的初始体重（IBW）和试验结束的终末体重（FBW），并统计试验期的喂料量，计算试验期间（不包括预试期）平均日采食量（ADFI）、平均日增重（ADG）和料重比（F/G）。
+
+# 1.5.2 屠宰性能指标的测定
+
+宰前活体重：试验兔屠宰前禁饲12h后的空腹重量。
+
+半净膛胴体重：试验兔放血去皮、去蹄，同时去除气管、食管、胃肠及内容物、脾脏、胰腺、膀胱和生殖器官，保留肺脏、胸腺、心脏、肝脏、肾脏和肾周脂肪的重量。
+
+全净膛胴体重：半净膛重去除肺脏、胸腺、心脏、肝脏及头（第一颈椎处去头），保留肾脏及肾周脂肪的重量。
+
+同时小心剥离肝脏、肾脏和脾脏，称重后并计算其所占宰前活体重的比率。
+
+# 1.5.3 血液指标的测定
+
+血常规的测定：采用 EDTA 抗凝的全血，血常规分析仪（迈瑞三分类血液细胞分析仪BC-2800全自动血球分析仪）检测。
+
+饲粮和血液中铁、铜、钙、锌、镁含量的测定：用原子吸收光谱法（北京博晖创新有限公司；BH5100五通道原子吸收光谱仪）测定。
+
+# 1.6 数据处理
+
+用SAS9.1.3统计软件中的GLM进行数据的方差分析，用Duncan氏法检验进行数据的多重比较，结果以平均值±标准差表示， $P { < } 0 . 0 5$ 为差异显著水平。
+
+2结果
+
+2.1饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔生长性能的影响
+
+由表2可知，在IBW无显著差异的情况下（ $\cdot P { > } 0 . 0 5 \$ ），饲粮铁添加水平对新西兰肉兔FBW、ADG和F/G有显著影响（ $( P { < } 0 . 0 5 )$ ，对ADFI无显著影响（ $\cdot P { > } 0 . 0 5$ ）。各试验组FBW均显著高于对照组（ $P { < } 0 . 0 5$ ）。随着饲粮铁添加水平的增加，ADG 先增加后降低，F/G 先降低后增加，当饲粮铁添加水平为 $1 0 0 \mathrm { m g / k g }$ 时，ADG最高，显著高于对照组（ $P { < } 0 . 0 5 \$ ）；F/G 最低，显著低于对照组（ $P { < } 0 . 0 5$ ）。
+
+表2饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔生长性能的影响
+
+Table 2Effects of dietary iron supplement level on growth performance of 60 to 90-day-old
+
+<html><body><table><tr><td colspan="6">New Zealand meat rabbits (n=26)</td></tr><tr><td>项目</td><td></td><td>饲粮铁添加水平 Dietary iron supplemental level/(mg/kg)</td><td></td><td></td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>50</td><td>100</td><td>200</td><td>P-value</td></tr><tr><td>初始体重 IBW/g</td><td>1564.26±36.84</td><td>1556.02±33.63</td><td>1 552.50±32.37</td><td>1 545.14±34.67</td><td>0.930 6</td></tr><tr><td>终末体重 FBW/g</td><td>2 614.56±56.45b</td><td>2 689.19±51.60a</td><td>2 706.67±57.36a</td><td>2 674.54±52.08a</td><td>0.027 5</td></tr><tr><td>平均日采食量</td><td>140.26±2.78</td><td>145.02±3.63</td><td>146.35±3.97</td><td>141.14±4.67</td><td>0.0692</td></tr><tr><td>ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>35.01±1.56b</td><td>36.10±2.16ab</td><td>38.27±1.89a</td><td>36.18±2.16ab</td><td>0.021 0</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>4.19±0.15a</td><td>4.02±0.26ab</td><td>3.91±0.16b</td><td>4.03±0.22ab</td><td>0.041 4</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。  
+In the same row, values with different small leter superscripts mean significant difference  
+（ $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$   
+The same as below.
+
+2.2饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔屠宰性能的影响
+
+由表3可知，饲粮铁添加水平对新西兰肉兔宰前活体重、全净膛屠宰率和半净膛屠宰率有显著影响 ( $. P { < } 0 . 0 5 \$ ），随着饲粮铁添加水平的增加，宰前活体重、全净膛屠宰率和半净膛屠宰率先增加后降低，当饲粮铁添加水平为 $1 0 0 \mathrm { m g / k g }$ 时，宰前活体重最高，显著高于对照组（ $. P { < } 0 . 0 5 \$ ）；当饲粮铁添加水平为 $5 0 \mathrm { m g / k g }$ 时，全净膛屠宰率和半净膛屠宰率最高，显著高于对照组（ $P { < } 0 . 0 5$ ）。饲粮铁添加水平新西兰肉兔肝脏指数无显著影响（ $\cdot P { > } 0 . 0 5$ ），对肾脏指数和脾脏指数有显著影响（ $. P { < } 0 . 0 5 \$ ），饲粮铁添加水平为50、100、 $2 0 0 \mathrm { m g / k g }$ 时，肾脏指数显著高于对照组（ $. P { < } 0 . 0 5$ ）；饲粮铁添加水平为100、 $2 0 0 \mathrm { m g / k g }$ 时，脾脏指数显著高于对照组（ $P { < } 0 . 0 5 )$ ）。
+
+Table 3Effects of dietary iron supplement level on slaughter performance of 6O to 9O-day-old
+
+表3饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔屠宰性能的影响  
+
+<html><body><table><tr><td colspan="5">New Zealand meat rabbits (n=10)</td></tr><tr><td>项目</td><td colspan="3">饲粮铁添加水平 Dietary iron supplemental level/(mg/kg)</td><td colspan="2">P值</td></tr><tr><td>Items</td><td>0</td><td>50</td><td>100</td><td>200</td><td>P-value</td></tr><tr><td>宰前活体重</td><td>2 626.34±26.54b</td><td>2 694.27±21.05a</td><td>2 726.63±27.54a</td><td>2 685.54±25.41a</td><td>0.012 2</td></tr><tr><td>Pre-slaughter</td><td>body</td><td></td><td></td><td></td><td></td></tr><tr><td>weight/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全净膛屠宰率</td><td>46.32±0.78b</td><td>48.48±0.52a</td><td>47.77±1.03ab</td><td>47.02±0.43ab</td><td>0.043 5</td></tr><tr><td>All eviscerated ratio/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>半净膛屠宰率</td><td>50.62±0.45b</td><td>51.30±0.54a</td><td>51.11±0.73a</td><td>51.02±1.06a</td><td>0.046 7</td></tr><tr><td>Half eviscerated ratio/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏指数</td><td>2.98±0.16</td><td>2.93±0.12</td><td>2.91±0.10</td><td>2.77±0.08</td><td>0.6372</td></tr><tr><td>Liver ratio/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肾脏指数</td><td>0.50±0.03b</td><td>0.63±0.03a</td><td>0.62±0.01a</td><td>0.60±0.04a</td><td>0.014 3</td></tr><tr><td>Kidney ratio/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数</td><td>0.04±0.01b</td><td>0.06±0.01ab</td><td>0.08±0.02a</td><td>0.08±0.01a</td><td>0.0418</td></tr></table></body></html>
+
+2.3饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血液中微量元素含量的影响
+
+由表4可知，饲粮铁添加水平对新西兰肉兔血液中铁、铜、钙、锌、镁含量均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+表4饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血液中铁、铜、钙、锌、镁含量的影
+
+# 响
+
+饲粮铁添加水平 Dietary iron supplemental level/(mg/kg)
+
+Table 4Effects of dietary iron supplement level on the content of Fe, Cu, Zn, Ca and $\mathbf { M g }$ in blood of 6O to 9O-day-old New Zealand meat rabbits $\scriptstyle ( n = 1 0 )$ ）   
+
+<html><body><table><tr><td>Ttems</td><td>0</td><td>50</td><td>100</td><td>200</td><td>P-vaiue</td></tr><tr><td>铁 Fe/(mmol/L)</td><td>6.59±0.73</td><td>7.01±0.82</td><td>7.54±1.20</td><td>7.05±0.93</td><td>0.0678</td></tr></table></body></html>
+
+<html><body><table><tr><td>铜 Cu/(umol/L)</td><td>20.35±2.82</td><td>20.51±2.75</td><td>22.07±4.03</td><td>19.47±3.87</td><td>0.418 0</td></tr><tr><td>锌 Zn/(umol/L)</td><td>82.45±8.18</td><td>81.33±9.21</td><td>86.34±8.78</td><td>88.83±8.49</td><td>0.548 0</td></tr><tr><td>钙 Ca/(mmol/L)</td><td>2.57±0.32</td><td>2.26±0.56</td><td>2.52±0.33</td><td>2.52±0.34</td><td>0.421 0</td></tr><tr><td>镁 Mg/(mmol/L)</td><td>2.26±0.59</td><td>2.64±0.32</td><td>2.63±0.26</td><td>2.24±0.27</td><td>0.432 5</td></tr></table></body></html>
+
+2.4饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血常规指标的影响
+
+由表5可知，饲粮铁添加水平对新西兰肉兔血液中的白细胞计数(WBC)、红细胞计数(RBC)、血红蛋白（HGB）含量、红细胞压积(HCT)、平均红细胞体积（MCV）、平均细胞血红蛋白浓度（MCHC）、平均细胞血红蛋白浓度（MCHC）、血小板(PLT)、小细胞百分比（W-SCR）、小细胞绝对值（W-SCC）、红细胞体积分布宽度（RDW-CV）均无显著影响 ( $\cdot P { > } 0 . 0 5$ ）。饲粮铁添加水平为 $5 0 ~ \mathrm { m g / k g }$ 时，血小板分布宽度（PDW）、平均血小板体积（MPV）、血小板大细胞比率（P-LCR）均显著高于对照组和 $2 0 0 \mathrm { m g / k g }$ 添加组（ $. P { < } 0 . 0 5 )$ ，与 $1 0 0 \mathrm { m g / k g }$ 添加组无显著差异（ $\mathrm { \Phi } \cdot \mathrm { \Lambda } { \cal P } { > } 0 . 0 5 \mathrm { \dot { \mathrm { \Omega } } }$ ）。
+
+表5饲粮不同铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血常规指标的影响  
+Table 5Effects of dietary iron supplement level on blood routine index of 60 to 90-day-old New   
+
+<html><body><table><tr><td colspan="6">Zealand meat rabbits (n=10)</td></tr><tr><td>项目</td><td>饲粮铁添加水平 Dietary iron supplemental level/(mg/kg)</td><td></td><td></td><td></td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>50</td><td>100</td><td>200</td><td>P-value</td></tr><tr><td>白细胞计数 WBC/(×10/L)</td><td>9.76±2.09</td><td>8.18±1.26</td><td>9.17±1.67</td><td>9.57±1.56</td><td>0.631 0</td></tr><tr><td>红细胞计数 RBC/(×1012/L)</td><td>4.76±0.31</td><td>4.53±0.42</td><td>4.75±0.45</td><td>4.63±0.63</td><td>0.854 3</td></tr><tr><td>血红蛋白 HGB/(g/L)</td><td>95.50±6.95</td><td>99.07±6.06</td><td>97.33±5.62</td><td>93.5±6.65</td><td>0.563 6</td></tr><tr><td>红细胞压积 HCT</td><td>0.43±0.02</td><td>0.54±0.01</td><td>0.44±0.03</td><td>0.46±0.04</td><td>0.621 3</td></tr><tr><td>平均红细胞体积MCV/fL</td><td>67.47±0.42</td><td>68.35±0.67</td><td>67.53±0.98</td><td>67.03±0.59</td><td>0.354 1</td></tr><tr><td>平均细胞血红蛋白MCH/Pg</td><td>20.32±0.65</td><td>20.47±0.45</td><td>20.02±0.54</td><td>19.38±0.42</td><td>0.643 2</td></tr><tr><td>平均细胞血红蛋白浓度</td><td>303.17±10.25</td><td>300.20±2.65</td><td>294.83±8.62</td><td>291.50±2.85</td><td>0.465 8</td></tr><tr><td>MCHC/(g/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>血小板 PLT/(×10/L)</td><td>581.53±67.40</td><td>499.65±76.54</td><td>431.67±93.95</td><td>482.83±104.80</td><td>0.437 6</td></tr><tr><td>小细胞百分比W-SCR</td><td>0.54±0.02</td><td>0.68±0.69</td><td>0.59±0.78</td><td>0.61±0.67</td><td>0.309 1</td></tr><tr><td>小细胞绝对值W-SCC/（×</td><td>3.12±0.62</td><td>3.32±0.60</td><td>2.95±0.83</td><td>2.68±0.63</td><td>0.435 4</td></tr><tr><td>109/L)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>红细胞体积分布宽度</td><td>0.14±0.19</td><td>0.11±0.16</td><td>0.13±0.31</td><td>0.12±0.23</td><td>0.510 6</td></tr><tr><td>RDW-CV</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>血小板分布宽度 PDW/fL</td><td>7.83±0.36b</td><td>8.78±0.75a</td><td>8.00±0.53ab</td><td>7.27±0.25b</td><td>0.011 6</td></tr><tr><td>平均血小板体积 MPV/fL</td><td>6.57±0.35b</td><td>7.07±0.64a</td><td>6.48±0.25ab</td><td>6.53±0.19b</td><td>0.032 9</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>血小板大细胞比率 P-LCR</td><td>0.14±0.02b</td><td>0.14±0.02a</td><td>0.17±0.02ab</td><td>0.15±0.02b</td><td>0.049 8</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔生长性能的影响
+
+铁作为动物机体必需矿物元素，在维持动物生长、代谢、繁殖等方面发挥重要作用。动物体铁含量影响细胞中DNA合成，同时通过体内含铁酶调控细胞中线粒体和微粒体，影响蛋白质的合成，进而提高动物生长性能。Vahl 等[13]在玉米-豆粕型饲粮中添加0、20 和 60mg/kg 的硫酸亚铁，发现1\~39 日龄海佩科肉鸡的增重随着饲粮铁添加水平的提高而增加。林映才等[14]报道，基础饲粮中添加复方富力铁，能显著提高生长猪 ADG，显著降低 F/G。王宝维等[15]研究发现，饲粮中适宜铁添加水平显著提高了五龙鹅的体重、ADG，显著降低了F/G。目前，大部分研究结果显示饲粮补铁可以改善动物的生长性能。本试验结果也证实，饲粮中添加适宜水平的铁，有利于新西兰肉兔生长。
+
+# 3.2饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔屠宰性能的影响
+
+畜禽的饲粮营养状况直接关系和影响机体的屠宰性状，屠宰率是衡量畜禽产肉性能的主要指标。新西兰肉兔是家兔中一种典型的肉用品种，而屠宰率是反映肉兔产肉性能的重要指标，全净膛屠宰率和半净膛屠宰率是屠宰率的具体体现，一般认为半净膛屠宰率在 $80 \%$ 以上、全净膛率在 $6 0 \%$ 以上，肉用性能良好[16]。王宝维等[15]研究发现，饲粮中适宜铁添加水平显著提高了五龙鹅的屠宰率、半净膛率和腿肌率。在本研究中，饲粮铁添加水平显著影响了新西兰肉兔宰前活体重，试验兔的全净膛屠宰率和半净膛屠宰率随着饲粮铁添加水平的提高呈现出先增高后降低的趋势，以 $5 0 \ \mathrm { m g / k g }$ 效果最好。饲粮铁添加水平影响试验兔的屠宰率，是由于铁提高了家兔生长性能所致，试验末重数据也证实了这一点。内脏器官是动物机体生命活动的基础“设施”，是其生理功能发挥的重要物质基础。脏器指数一定程度上能够反映了动物的内脏功能，一般认为动物的脏器指数越大表明动物的内脏功能越强。免疫器官是动物机体生命免疫功能的基础，是其生理功能发挥的重要物质基础。免疫指数一定程度上能够反映了动物的免疫功能，一般认为健康动物的免疫指数越大表明动物的免疫力越强，免疫器官重量降低为免疫抑制所致，而免疫器官重量增加则为免疫增强的表现[1]。但是，过量微量元素饲粮的长期使用会导致家兔轻微中毒，导致内脏器官病理性增大。本试验结果表明，饲粮铁添加水平对新西兰肉兔的内脏器官的发育有一定影响，并没有出现中毒所导致的病理性增大，可能是由于生长性能提高导致代谢增强所致，但具体作用机理有待于进一步提高。
+
+3.3饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血液指标的影响
+
+微量元素在动物体代谢、酶的组成及激活等生理功能中发挥重要作用，它们之间存在相互促进、相互制约的复杂关系，铁、铜、锌、镁等金属元素之间存在着明显的竞争性作用。饲粮高锌，会降低铁的吸收。铜蓝蛋白可以使铁从铁蛋白中释放出来，并使二价铁离子 $( \mathrm { F e } ^ { 2 + } )$ 转变为三价铁离子（ $\cdot \mathrm { F e } ^ { 3 + }$ ），因此饲粮铜水平不足，铁吸收受阻。在HGB 合成中，如果缺铜，铁蛋白中的铁就不能释放出来而造成小细胞性贫血。Hill等[18]报道，降低饲粮铁水平或者升高饲粮中钙水平，会加重猪铜中毒。高铜可引起猪条件性缺铁或缺锌，导致血液 HGB含量下降、贫血和生长停滞。但在高铜饲粮中补铁、补锌，能提高铜的促生长效应，可使猪免遭铜中毒的危险。本研究中，饲粮铁添加水平对 $6 0 { \sim } 9 0$ 日龄新西兰肉兔血液中铁、铜、钙、镁、锌含量无显著影响，这可能是由于动物机体体液平衡维持有关。HGB 是动物体内具有生物学功能的铁化合物之一，其主要成分是血红素。血红素是含铁卟啉衍生物，氨基酸络合铁的结构与血红素非常相似。动物血液中 RBC、HGB 和 HCT 是反映动物机体铁代谢状况和营养状况的重要指标。在评估机体对铁的消化利用的生化应答方面，HGB 和 MCV是敏感指标[I9]。本研究结果证明，饲粮铁添加水平对RBC、HGB、HCT 和 MCV 无显著影响，这可能是由于基础饲粮中含有一定量铁，不至于使家兔出现典型缺铁性贫血症状。
+
+4结论
+
+饲粮铁添加水平为 $1 0 0 ~ \mathrm { { m g / k g } }$ 时， $6 0 { \sim } 9 0$ 日龄新西兰肉兔ADG 最高，F/G 最低，生长 性能最好；饲粮铁添加水平为 $5 0 ~ \mathrm { m g / k g }$ 时， $6 0 { \sim } 9 0$ 日龄新西兰肉兔屠宰率最高。综合本试 验测定指标， $6 0 { \sim } 9 0$ 日龄新西兰肉兔饲粮适宜的铁添加水平为 $5 0 { \sim } 1 0 0 \mathrm { m g / k g } ,$   
+参考文献：   
+[1] WANG W,DI X M,D'AGOSTINO R B,Jr,et al.Excess capacity of the iron regulatory protein system[J].Journal of Biological Chemistry,2007,282(34):24650-24659.   
+[2] THEIL E C.Ferritin:structure,gene regulation,and celular function in animals,plants,and microorganisms[J].Animal Review of Biochemistry,1987,56(1):289-315.   
+[3] 陈凤芹,计峰,程茂基,等.不同铁源对断奶仔猪生长性能、免疫功能及铁营养状况的影响[J]. 中国畜牧兽医,2008,35(7):11-14.   
+[4] DU F,QIAN Z M,LUO Q Q,et al.Hepcidin suppresses brain iron accumulation by downregulating iron transport proteins iniron-overloadedrats[J].Molecular Neurobiology,2015,52(1):101-114.   
+[5] ZHENG M Z,DU H J,NI W,et al.Iron-induced necrotic brain cell death in rats with different aerobic capacity[J].Translational Stroke Research,2O15,6(3):215-223.   
+[6]ELVEHJEM C A,HART E B.The relation of iron and copper to hemoglobin synthesis in the chick[J].The Journal of Biological Chemistry,1929,84(1):131.   
+[7]刘秀红,龚书明,陈景元,等.低铁饲料的配制与缺铁性贫血动物模型的建立[J].解放军预防医 学杂志,1995,13(3):198-200.   
+[8]杨志强.微量元素与动物疾病[M].北京:中国农业科技出版社,1998.   
+[9]王以薇,施文艳,胡晓玲.高铁对大鼠主要脏器病理损伤动物模型的建立[J].白求恩医科大学 学报,1997,23(5):494-495.   
+[10]CAO J,LUO X G,HENRY P R,et al.Effect of dietary iron concentration,age,and length of iron feeding on feed intake and tissue iron concentration of broiler chicks for use as a bioassay of supplemental iron sources[J].Poultry Science,1996,75(4):495-504.   
+[11] NRC.Nutrient requirements of rabbits[M].2nd Rev ed.Washington,D.C.:National Academy Press,1977.   
+[12]DE BLAS C,WISEMAN J.Nutrition oftherabbit[M].NewYork,NY,USA:CABI Publishing,1998:297-308.   
+[13] VAHL H A,VAN T KLOOSTER A T.Dietary iron and broiler performance[J].British Poultry Science,1987,28(4):567-576.   
+[14] 林映才,郑黎,蒋宗勇,等.复方富力铁对生长猪的生产性能、肤色和部分血液指标的影响 [J].养猪,2001(2):26-27.   
+[15] 王宝维,马传兴,葛文华,等.铁对 1\~4 周龄五龙鹅生产性能、造血功能和铁代谢的影响[J]. 动物营养学报,2016,28(5):1369-1376.   
+[16] 贾汝敏,姚晶宁,黄毓青,等.海大香鸡不同品系屠宰性能与肉质性状的比较[C]/第十一次 全国家禽学术讨论会论文集.青岛:中国畜牧兽医学会,2003:158-160.   
+[17] 李素芬,冯敏山,阎国红.生化黄腐酸对肉用仔鸡生产性能及免疫器官的影响[J].中国饲 料,2000(14):14-15.   
+[18] HILL G M,MILLER E R,STOWE H D.Effect of dietary zinc levels on health and productivityofgiltsandsowsthroughtwoparities[J].JourmalofAnimal Science,1983,57(1):114-122.   
+[19] AMINE E K,NEFF R,HEGSTED D M.Biological estimation of available iron using chicks or rats[J].Journal of Agricultural and Food Chemistry,1972,20(2):246-251.   
+Effects of Dietary Iron Supplemental Level on Growth Performance, Slaughter Performance and Blood Index of 6O to 9O-Day-Old New Zealand Meat Rabbits LIU Gongyan1ZHANG Wei² LI Lei³GAO Qin’SUN YingchaolLI Fuchang1\*   
+(1. College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018,
+
+China; 2. Jining Polytechnic, Jining 272Oo0, China; 3.Animal Husbandry and Veterinary Inspection Center of Linyi, Linyi 276000, China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary iron supplemental level on growth performance, slaughter performance and blood index of 6O to 9O-day-old New Zealand meat rabbits. One hundred and four 53-day-old New Zealand meat rabbits with similar body weight were randomly divided into four groups with twenty six replicates per group and each replicate contained one rabbit. The control group fed a basic diet, and experimental groups fed experimental diets with 50,100 and $2 0 0 ~ \mathrm { m g / k g }$ iron (the supplemental form was $\mathrm { F e S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ purity $98 \%$ ), respectively. The trial lasted for 7 days for adaption, and 3O days for test. The results showed as folows: 1) dietary iron supplemental level had significant effect on the average daily gain (ADG) and the feed to gain ratio (F/G) ( $\cdot P { < } 0 . 0 5$ ), but had no significant effect on the average daily feed intake (ADFI) of 60 to 90-day-old New Zealand meat rabbits $( P { > } 0 . 0 5 )$ ). With the dietary iron supplemental level increased,the ADG was firstly increased and then decreased,the F/G was firstly decreased and then increased; the highest ADG and lowest F/G when dietary iron supplemental level was $1 0 0 \ \mathrm { m g / k g . } \ 2$ ） Dietary iron supplemental level had significant effect on half eviscerated ratio and all eviscerated ratio of 6O to 9O-day-old New Zealand meat rabbit ( $P <$ 0.05)，with the dietary iron supplemental level increased,the half eviscerated ratio and all eviscerated ratio was firstly increased and then decreased,and got the highest when dietary iron supplemental level was $5 0 ~ \mathrm { m g / k g } . ~ 3$ ） Dietary iron supplemental level had no significant effect on liver ratio $( P { > } 0 . 0 5 )$ ,but had significant effect on spleen ratio and kidney ratio of 6O to 9O-day-old New Zealand meat rabbits $\lceil P { < } 0 . 0 5$ ). When dietary iron supplemental level was 50,100 and 200 （204号 $\mathrm { m g / k g }$ ，the kidney ratio was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ; when dietary iron supplemental level was 100 and $2 0 0 ~ \mathrm { { m g / k g } }$ , the spleen ratio was significantly higher than that in control group ( $\scriptstyle \overbrace { P } { < } 0 . 0 5 )$ . 4)Dietary iron supplemental level had no significant effect on the content of iron, copper, calcium, zinc and magnesium in blood of 6O to 90-day-old New Zealand meat rabbit $( P { > } 0 . 0 5 )$ .Dietary iron supplemental level had significant effect on platelet distribution width (PDW), mean platelet volume (MPV) and platelet-large cel rate (P-LCR) $P <$ 0.05). Considering all indexes of this experiment, the appropriate dietary iron supplemental level is 50 to $1 0 0 \mathrm { m g / k g }$ for 60 to 90-day-old Zealand meat rabbit.
+
+Key words: iron; New Zealand rabbit; growth performance; slaughter performance; blood index

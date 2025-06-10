@@ -1,0 +1,224 @@
+# 中国画审美判断的专业知识效应：一项fNIRS研究
+
+李杨卓1，丁雅娜1，刘梦蝶1，张卫东1，李宏祥²，李先春3,4#
+
+(1华东师范大学心理与认知科学学院，上海，200062）；（2华东师范大学对外汉语学院，上海，200062)；(3华东师范大学附属精神卫生中心，心理与认知科学学院，上海，200062）；（4上海市长宁区精神卫生中心，上海，200235）  
+#通讯作者：李先春，华东师范大学附属精神卫生中心，心理与认知科学学院；上海市长宁区精神卫生中心。E-mail: xcli@psy.ecnu.edu.cn
+
+摘要艺术专业知识如何影响审美判断是实验美学的重要研究课题。本研究比较了专家和外行在中国画审美判断上的差异，同时结合功能近红外成像技术(fNIRS)考察了中国画欣赏过程中的脑活动差异。行为学上，专家和外行在审美评分以及审美一致性上均没有显著区别。然而,fNIRS 结果揭示了专家和外行在中国画审美中的差异。首先，通过计算专家和外行的神经活动相似性(ISC)，发现在欣赏低分国画时专家的 PFC(14 通道)和右侧 TPJ(24 通道)的ISC 显著高于外行；并且，专家在欣赏高分国画时PFC14通道的ISC 显著低于欣赏低分国画时的 ISC，且与专家的好看评分呈显著负相关。相反，外行在欣赏高、低分国画时的ISC 不存在显著差异，也没有发现与审美评分的任何相关。其次，脑内功能连接分析揭示了专家在中国画欣赏时功能连接强度显著高于外行，该效应主要集中在右侧TPJ。综合上述发现，我们揭示了中国画欣赏过程存在明显的专业知识效应，这与前额叶以及颞顶联合区的神经活动密切相关。本研究为美学领域提供了认知神经科学方面的新证据。
+
+关键词中国画；审美判断；专家和外行；被试间相关分析；功能连接分析
+
+# 1引言
+
+专业知识是影响审美判断的一个重要因素。相较于外行，专家具备特定的、结构化的专业领域知识，因而在知识系统中呈现出不同的认知和理解程度，最终导致与外行审美判断的不一致(Jacobsen,2010)。专家和外行在艺术作品欣赏中难以达成共识似乎是不言而喻的。大量研究已经证实，专家和外行在艺术绘画作品、音乐、电影、网页甚至软件代码等各个领域的审美判断是不同的(Hasse & Weber,2012; Kozbelt, Dexter,Dolese,& Seidel,2012; Silvia &Paul, 2013; Bölte, Hosker,Hirschfeld,& Thielsch,2017)。
+
+绘画作为最普遍的审美艺术形式之一，已被广泛用于审美研究中(Xenakis,Armellos,Spyrou,&Darzentas,2012; Seidel&Prinz,2018)。研究发现，专家可以从绘画中提取更高层次的视觉信息，这从专家和外行在观看绘画时的眼睛扫描路径上可以反映出来。未经训练的外行更多地关注单个物体，而接受过艺术训练的专家则更关注画面元素之间的关系(Koide,Kubo,Nishida,Shibata,& Ikeda,2015)。即使绘画中没有具象的物体(即采用抽象画)，艺术家的扫描路径分布也与初学者不同。艺术家比外行表现出更多的全局扫描，更少受到局部显著性刺激的引导。此外，与外行相比，艺术史专家在欣赏具象艺术(文艺复兴时期肖像画)时更能有效地寻找有创造意义的内容，在口头报告中专家也显示出更系统的观察策略，包含更多专业性术语命名和象征性解释的尝试(Bauer& Schwan,2017)。这些研究都支持了艺术家在欣赏绘画作品时会根据自身经验和知识从绘画中感知到更多的信息，达到对艺术作品更高层次的"解读”。
+
+艺术专业知识也可以影响审美判断过程的神经活动。当被要求评价图片中呈现的建筑物的美感时，建筑师的海马体、楔前叶、眼窝前额皮质的激活程度要比外行人高(Kirk,Skov,Christensen,& Nygaard,2009)。Muller等人(2010)也观察到，专家在绘画欣赏时神经元激活程度比外行更高。另外，具备专业知识使得个体特定表征过程的神经元连接比普通人更强，导致了对这些艺术作品的高度理解和可及性(Cheung&Bar,2012; Harel, Gilaie-Dotan,Malach,& Bentin,2010)。但Pang 等(2013)却发现，在绘画自由观看任务中，专家所诱发的事件相关电位(ERPs)成分P3b 以及双侧后晚期正成分(LPC)比外行小。他们认为这种脑活动激活的减少可能与专家审美判断中更高的神经效率有关。虽然目前对审美判断的专业知识效应的脑基础仍不明确，但这与不同研究中视觉或听觉刺激材料的呈现方式、被动观察和外显判断、甚至研究中参考电极的选择的差异可能有关，这些都阻碍了明确结论的得出。
+
+作为绘画艺术的重要组成部分，对传统中国画的审美是否也同样受到专业知识水平的影响？这是本研究探讨的重点问题。相较于西方的写实绘画，中国古代画家通过对自然客体的描绘来抒发个人情感和表达个人意志(Fong,2003;Zhang,2017)。中国画中的很多描绘对象是象征性的。如，齐白石的作品《鲶鱼》(1937)发音上与"年余”上相同，画家用这种隐喻的方式表达了对长寿者的祝福。此外，由于中国画的创作通常具备特定的时代、民俗特征，不同的人对作品的解读也不同。如北宋时期著名的《清明上河图》，其真正含义一直存在争议。有人认为画中的“清明"是古代河南开封附近的一个地名；有人认为"清明”指中国的传统节日；也有人认为"清明"是画家将画作献给第一位收藏家宋徽宗时的赞美之词。这些特点强调了要想更好地理解中国画的精髓，就需要在文化和社会语境中对中国画进行充分的思考(Shu,2014)。Leder 和 Belke 等(2004)的审美欣赏或审美判断假设模型(the model of aestheticappreciationand aesthetic judgments)也指出，对艺术作品欣赏的心理过程需要完成两个步骤。一是审美判断，反映所讨论的艺术对象达到美学规范标准的程度(即，好看或不好看)。这一层通常是艺术专家和外行都能达到的。二是审美过程中的情感体验特征，即审美情感体验或评价。通常也只有艺术专家才能达到情感掌握等审美加工的更高阶段。然而，到目前为止，对不同专业知识水平(即专家和外行)在中国画上的审美判断差异研究仍缺乏。现阶段研究应着力于加强对中国画这类“抒情写意”艺术引发美感的心理机制及其神经基础的探讨，这对了解指导如何提高对中国画的艺术欣赏水平具有潜在的重要意义。同时，采用中国画作为审美材料也进一步拓展了神经美学领域的研究对象，对现有专业知识对审美判断的结论提供了进一步的数据和实证支持。
+
+虽然大量研究已经证实了审美判断能力因人而异，但确定用什么标准来衡量这种能力是困难的。康德(1790)指出，如果审美判断是纯粹的，那么就应该期待共识(或共同的主观性)。一些研究者也提到，涉及到美的标准问题，欣赏者之间是否存在审美共识，即审美一致性(aesthetic consensus)，是衡量审美能力的一项重要指标(Muller-Salo,2018)。换句话说，专家对艺术作品的评价应该更不受主观偏好的影响，也更容易达成共识。相反，外行的判断并不一定基于美学，而更多的是基于个人喜好(Bolte et al.,2017;Lundy,Smith,2017)。这些特征预示了专家相较于外行在对艺术作品审美评价可能具有更高的内部一致性(Muller,Hofel,Brattico,&Jacobsen,2010)。一些研究也证实了专家对创意或艺术作品的评价具有一致性。例如，在对诗歌创造力评级研究中，专家表现出比非专家更高的内部一致性(Kaufman,Baer,Cole,& Sexton,2008)。Lundy 和 Smith (2017)在一项音乐审美评价研究中发现，专家表现出高度一致的评级，整体评分的分布也更接近正态。相比之下，非专业人士的评分差异更大，且彼此之间的相互关联更少。最近一项研究指出，专家对绘画的评价更一致，而外行的审美判断和情感效价评分则容易受到绘画的抽象水平影响(Gartus&Leder,2020)。然而，一些研究者也发现非专家对于美的质量(beauty quality)的评价与专家是一致的(Wanderer,2011)。但这种一致性可能主要来自于作品的社会影响而不是对美学对象本身的共识。即人们会对社会评价高的作品(如《蒙拉丽莎》)做出更高的评价；而当欣赏社会影响力不高或不熟悉的作品时，外行和专家的审美评价则表现出明显差异(Lundy,2010)。
+
+上述探讨揭示了审美一致性可作为审美判断能力的指标(Muller-Salo,2018)。由于审美一致性涉及到不同个体间对艺术作品的一致评价，而传统神经影像学研究中对单个脑激活的分析方法不足以揭示审美一致性的内在神经基础(Lengger,Fischmeister,Leder,& Bauer,2007;Kirk et al.,2009)。对审美一致性神经机制的探讨应当从欣赏者彼此之间神经活动相似性的角度给予解答。被试间相关分析(inter-subject correlation,ISC)通过计算不同个体间在进行特定认知加工时BOLD 信号在时间维度上连续变化规律的一种脑信号分析手段。其基本假设是：在自然情境下，如果多个被试在面对相同的刺激时心理加工过程是相同的，相应功能脑区也应该具有相似的活动模式(Nummenma et al.,2012; Nguyen, Vanderwal,& Hasson,2019；刘梦醒，杨剑峰,& 王小娟,2017)。同时，被试可以根据自己的理解自由的解释刺激物，使得研究者能够根据不同被试在接受完全相同的刺激时，通过神经活动相似程度区分不同人群的认知、情感等特质差异(Finn,Corlett,Chen,Bandettini,& Constable,2018)。更重要的是，相较于传统假定典型的血流动力学响应函数的标准线性模型(GLM)分析,ISC 分析对刺激引起的BOLD 反应的具体时间没有预先假设，属于自发大脑活的过程的监测，因此特别适用于自然语义整合、情感体验等具有情境依赖性且需要对刺激持续加工这类心理过程的探讨(Hasson,Ghazanfar, Galantucci, Garrod,& Keysers, 2O12; Nastase, Gazzola, Hasson,& Keysers, 2019)。
+
+综上，本研究拟探讨专业知识水平如何影响中国画的审美判断。研究要求专家和外行对中国画进行好看(beauty ratings)和喜好(preference ratings)两种维度的评分。这些中国画提前按照好看评程度的不同(一半是更好看的，另一半是不那么好看的)分为高分国画和低分国画。同时，本研究结合近红外光谱成像技术(functional near-infrared spectroscopy,fNIRS)提供了中国画审美判断的神经动力学证据。相较于其他脑功能成像技术(fMRI、MEG、EEG 等),fNIRS在使用便捷性、对头动的容忍度以及生态效度方面具有优势(Cui,Bryant,&Reiss,2012; Tak& Ye,2014)，使其成为未来神经美学领域重要的发展方向。本研究将前额叶(prefrontal cortex)和右侧颞顶联合区(temporoparietal junction,TPJ)作为研究的主要脑区。前额叶在以往的审美研究中被发现与自上而下的认知控制(Cupchik,Vartanian,Crawley,&Mikulis,2009)、以及审美的愉悦体验(Cela-Conde et al.,2004)有关。而颞顶联合区，尤其是右侧颞顶联合区与审美刺激的注意、意义识别等过程相关(Cela-Conde,Agnati, Huston,Mora,& Nadal,2011)。基于审美判断假设模型，我们认为不管是专家还是外行，都应当具备基本的审美判断能力，即对高分国画的审美评价高于低分国画。在神经活动探讨的上，本研究首先使用被试间相关分析(ISC)来检验专家和外行在欣赏中国画时的群体内部神经活动相似性，以提供审美一致性神经层面的证据。其次，研究还分析了专家和外行在中国画欣赏时的脑内功能连接(functionalconnectivity,FC)强度的差异性。相较于被试间相关分析，脑内功能连接提供了个体在执行特定认知、情感任务时脑内不同区域的相互关联强度等信息(Yoshino,Oka,Yamamoto,akahashi,& Kato,2013)。一些研究已经证实特定领域的专业知识会影响个体的功能连接强度，如音乐家在音乐创作时在的运动、视觉以及语言表达等功能区具有比非音乐家人群更强的功能连接(Herholz& Zatorre,2012)。因此，采用功能连接分析可以进一步检验是否存在特定的脑功能网络参与了对中国画的审美评价，并试图对作用的关键脑区以解释专业知识对审美判断影响的神经基础。
+
+# 2方法
+
+# 2.1被试
+
+共招募大学本科生和研究生36名( $\scriptstyle 1 = 2 2 . 3$ ， $S D { = } 2 . 4 6 \$ 。本研究专注于领域特定(有无绘画艺术知识背景)的专长。专家组被试为接受过绘画艺术相关训练(构图、绘画技巧、用色等)三年及以上的本科生或研究生，欣赏和评价绘画作品已成为他们训练的重要组成部分。共17名(女生13人)；外行组为非艺术系且没有接受过相关艺术训练的本科生或研究生，共19 名(女生11人)。所有被试均为右利手，视力或矫正视力正常，无精神病史或神经病史，在年龄和学历上匹配。实验前，所有被试签署了知情同意书。实验后，被试会获得一定的报酬。本研究获得华东师范大学伦理委员会批准(伦理批准号:HR080-2018)。
+
+# 2.2 实验材料
+
+正式实验前，采取自愿报名形式招募了5名被试(不参与正式实验)对59幅中国画进行9点评分。将评分大于平均值一个标准差的画定义为高分组国画，小于平均值一个标准差的定义为低分组国画。同时，根据颜色、布局、内容对高分国画和低分国画进行匹配。最终获得高分和低分中国画各12幅(其中 2幅用于练习,10幅用于正式实验)。为排除熟悉度对审美判断的影响，本研究并未选取大众所熟知的名人大家的画(如齐白石的《牡丹》）。这5名被试没有一人报告之前见过其中任意一幅绘画。在正式实验中也对熟悉度这一指标进行检测。所有中国画均取自“中华数字书苑一图片库一中国美术馆一花鸟画”(http://www.apabi.com/hdsf/?pid $\ c =$ usp.catsearch&db $\circleddash$ picture&cult-CN&dt=Apabi_ArtPic&dbtyp$\scriptstyle \mathrm { e } = 1$ &ct=CAT_ARTMUSEUM%24%24&c0 $\left. = \right.$ CAT_ARTMUSEUM%24%24003&il $^ { = 1 }$ &c $\scriptstyle 1 = 1$ )。宽度固定为476像素，高度根据原图等比例变化，长宽比例均在4：3左右。所有中国画像素相对于白色(白色值为1，黑色值为0)的平均亮度彼此间没有差异，高低分中国画的示例如图1B。
+
+# 2.3实验流程
+
+被试坐在照明柔和适度的实验室计算机屏幕前，双眼与屏幕中心齐平。使用22英寸戴尔 LCD 显示器呈现实验材料，刷新频率为 $6 0 \mathrm { { H z } }$ 。实验前告知被试将完成一系列对中国传统水墨画的欣赏任务，并对呈现的每幅中国画进行喜欢和好看两种维度的评分。实验分为练习阶段和正式实验阶段。每个试次始于 $5 0 0 \mathrm { m s }$ 的注视点，接着呈现一幅中国画8\~12s(呈现时间长短在试次间伪随机排列)，然后依次呈现两个问题：“你认为这幅画的好看程度如何"以及“你对这幅画的喜欢程度如何”。被试针对这两个问题对所有中国画进行5级评分,1级代表非常不好看或非常不喜欢,5级代表非常好看或非常喜欢,3代表不确定。评分界面初始数字为“3”，被试通过按“ $ \$ ”、“→"键切换评分,3分则不需切换分数，最后按“Enter”键进行确认。作答时间限定为2s，目的在于让被试尽可能地基于刚才图片欣赏时的感受做出评价，避免过多思考产生的干扰。一段时间的空屏(4\~6s)后进入下一个试次。被试被告知评分取决于自身的感受即可，并无好坏对错之分，请放心作答。一个完整的试次见图1A。实验结束后询问被试是否之前见过这些图片。最后感谢他们的参与并指导离开实验室。
+
+![](images/ea1c1624a1a2c3b8f6dc45fd2f47987f498cc943e05d6ff209082d0128297bdd.jpg)  
+图1实验流程和中国画示例。(A)一个完整试次刺激呈现示意图;(B)高分国画和低分国画样列
+
+练习阶段共4个试次(高分国画和低分国画各2幅)。正式实验共包含 20个试次，每10个试次为一轮，两轮间的休息时间为3分钟。高分国画和低分国画在实验中以伪随机的方式呈现(在一个完整的任务中高低分国画呈现顺序随机但在所有被试中的呈现的次序保持不变)。
+
+# 2.4数据收集
+
+采用E-prime2.0 软件呈现实验刺激并收集行为学数据。Hitachi（日立，日本)ETG-7100被用于记录被试在任务中的大脑氧合血红蛋白(oxy-hemoglobin,Hbo）和脱氧血红蛋白(deo-hemoglobin,Hbr）浓度的变化。该设备采样频率为 $1 0 \mathrm { H z }$ 。被试进入实验室后会戴上由主试提前做好的近红外帽子，包含一块 $3 \times 5$ 探头板(由8个发射器和7个探测器组成,22个通道)和一块 $4 \times 4$ 探头板(由8个发射器和8个探测器组成,24个通道)，共形成46个通道(如图2)。根据国际标准10-20系统对探头板进行定位： $3 \times 5$ 的探头板位于前额叶脑区，最低一排的中间发射器放置在 $\mathrm { F P z }$ 位置(图2(a)中黄圈所示)，沿着矢状参考曲线对齐。 $4 \times 4$ 探头板置于被试右侧颞顶联合区，将从下往上数的第二排、从后往前数第二列的探头放置在P6 位置(图 2(b)中黄圈所示)，保证探头板横排与矢状参考曲线对齐。所有探头之间间隔约 $3 \mathrm { c m }$ 。在记录之前检测每个通道的信号质量并进行调整(包括探头附近头发拨移)以确保可接受信噪比。fNIRS 记录实验任务结束后，使用3D 定位仪(EZT-DM401)确定通道以及探头的位置，通过虚拟注册方法对 fNIRS 通道位置与 MNI空间坐标进行配准(Reindl,Gerloff,Scharke,&Konrad,2018)，以此获得所有通道与布鲁德曼分区之间的对应关系(见表1)。
+
+![](images/55ca0f0ad77dcae5d3cb5a64b94c3c23e77f89cdbf58437abc87a7766507c3ae.jpg)  
+图2fNIRS探头以及通道头皮空间布局(a)前额叶PFC $3 { \times } 5$ 光极板;(b)右侧颞顶叶TPJ $4 { \times } 4$ 光极板
+
+表1通道布局与布鲁德曼分区的对应关系  
+
+<html><body><table><tr><td>布鲁德曼分区</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="3">PFC</td><td>左侧前额叶(L-PFC)</td><td>CH4,CH8,CH9,CH13,CH17,18,CH22</td></tr><tr><td>中部前额叶(m-PFC)</td><td>CH2,CH3,CH7,CH11,CH12,CH16,CH20,CH21</td></tr><tr><td>右侧前额叶(R-PFC)</td><td>CH1,CH5,CH6,CH10,CH14,CH15,CH19</td></tr><tr><td rowspan="7">r-TPJ</td><td>顶上回(SPG)</td><td>CH17,CH20,CH21,CH24</td></tr><tr><td>中央前回(pre-CG)</td><td>CH18,CH19,CH22,CH23</td></tr><tr><td>中央后回(post-CG)</td><td>CH4,CH8,CH11, CH15</td></tr><tr><td>角回(AG)</td><td>CH10,CH13,CH14</td></tr><tr><td>缘上回(SMG)</td><td>CH12,CH16,CH19</td></tr><tr><td>颞上回(STG)</td><td>CH1, CH5,CH6</td></tr><tr><td>颞中回(MTG)</td><td>CH2,CH3,CH7</td></tr></table></body></html>
+
+# 2.5数据分析
+
+# 2.5.1行为数据
+
+首先采用 2(专业知识：外行 vs.专家) $\times$ 2(中国画类型：高分vs.低分）混合效应方差分析分别对“好看”和“喜欢”上的评分进行检验。其次，本研究重点感兴趣的是不同专业知识群体在审美一致性上是否存在差异。因此，分别计算了专家组和外行组在欣赏高分国画和低分国画时的评分一致性。即对单个被试的评分与剩余所有被试的评分依次进行Pearson 相关分析(相关值 $\boldsymbol { r }$ 在-1到1之间，相关系数值越接近1代表个体间审美判断越一致),对得到Pearson相关系数 $r$ 进行标准化后(Fisher-Z转换,Fisher $\cdot Z = 0 . 5 \mathrm { ~ x ~ I n } ( ( 1 + \mathrm { r } ) / ( 1 - \mathrm { r } ) )$ 将这个被试与其他所以被试的r(Fisher-Z)取平均，得到该被试与所在群体其他所有被试在评分上的一致性程度。最后，对获得的标准化相关系数在组水平上进行混合效应方差分析，并对出现的显著交互作用做简单效应分析，统计检验 $p$ 值进行 Bonferroni 校正。
+
+# 2.5.2fNIRS数据
+
+fNIRS 数据分析使用Matlab R2018a (MathWorks,Natick,MA)，采用 BrainNet Viewer工具箱 (http://www.nitrc.org/projects/bnv/) (Xia,Wang,& He,2013)实现对 fNIRS 结果的可视化。按照以下步骤对信号进行预处理:(1)排除探头与头皮接触不良的通道。具体的说，如果在相应的小波变换图中无法识别心跳或者在视觉检查中通道噪声过多且由过多尖峰，则确定该通道有噪声。对存在噪声通道数量超过受试者通道总数 $5 0 \% ( \mathbb { E } \mathbb { J } > 2 3 )$ ，则整个被试被排除在后续分析之外。(2)采用小波(wavelet-based motion artifact removal)去除信号中的头动伪迹。使用概率阈值α检测异常值，在这项研究中 $\alpha$ 设置为0.4(与 Molavi 和Dumont (2012)使用的相同);(3)采用 $0 . 0 1 { \sim } 0 . 5 \mathrm { H z }$ 的带通滤波消除由于呼吸、心跳引起的生理噪音，低频漂移以及仪器产生的噪声。接下来，基于修正的 Beers-Lambert 定律从光密度信号解算出氧合血红蛋白(oxy-Hb)，脱氧血红蛋白(deoxy-Hb)和总血红蛋白(THb)的浓度变化值(即 $\Delta$ Hbo， $\Delta$ Hbr,以及 $\Delta$ TotalHb)。由于Hbo 对局部脑血流变化敏感(Hoshi,2007;Cui etal.,2012）且具有更高的信噪比(Ding,Fu,& Lee,2014; Sasai, Homae,Watanabe,& Taga,2011)，因此本研究仅将△Hbo 纳入后续数据分析。为排除按键动作对神经活动的影响,fNIRS的分析仅限于欣赏中国画过程而不包括按键判断过程。
+
+对中国画审美脑活动的探讨主要包括被试间神经活动相似性分析以及被试脑内功能连接强度分析，如图3所示：
+
+神经活动相似性分析。采用被试间相关(inter-subject correlation,ISC)分析方法，对预处理之后的 $\Delta$ Hbo 数据以每个通道(channel)为单位计算被试在中国画欣赏过程中时间序列的Pearson 相关(Nastase et al.,2019; Jimenez et al.,2020)。具体来说，每个被试的每个通道都与其他被试在相同通道上得到相关系数 $\boldsymbol { r }$ ，对 $\boldsymbol { r }$ 进行标准化后(Fisher-Z)并在被试水平上取平均,这样就得到了这个被试与其他所有被试在这个通道上神经活动信号平均相似性程度。接着对获得的标准化相关系数进行 2(专业知识：专家 vs.外行) $\times 2$ (中国画类型：高分 vs.低分)组水平统计检验，并对出现显著交互作用的通道做简单效应分析，查看显著交互作用的来源。所有通道统计检验的 $p$ 值进行FD 校正以避免 TypeI错误(Benjamini&Yekutieli,2001;Genovese,Lazar,& Nichols, 2002）。
+
+参与审美一致性的显著通道挑选。由于fNIRS 时间序列中存在长时程自关(autocorrelation)导致的伪相关(Zarahn,Aguirre,&D'Esposito,1997)，本研究采用了置换检验(random permutation test)方法，通过构建随机排列的△Hbo 的 ISC 分布获得显著高于随机水平以上的通道，从而排除对真实审美任务中神经活动相似性的潜在混淆效应，降低虚假发现的风险(Hasson,Furman,Clark,Dudai,& Davachi,2008; Nastase et al.,2019)。对于每个通道，我们采用了绘画内部时间序列打乱(以10个时间点/1s为固定cluster）但保持每幅画彼此之间不打乱，将打乱的时间序列重新连接并与其余被试原始的时间序列重新计算Pearson 相关系数。该过程执行2000 次得到每个通道的ISC 零分布区间，接着计算真实条件下 ISC 在该随机分布区间的显著性程度 $( p { < } 0 . 0 5$ ，单尾检验)。具体的，显著性 $p$ 值通过随机分布中大于真实ISC 值的个数 $\mathfrak { n }$ 除以 2000 计算获得 $( p = { \bf n } / 2 0 0 0 )$ ，如果所有的都小于真实值，则 $\mathfrak { n }$ 取值为1(即 $p = 1 / 2 0 0 0 = 5 { \times } 1 0 ^ { - 4 } )$ 。
+
+功能连接分析。计算个体内的某一通道的时间进程与其他所有通道的时间进程之间的皮尔逊相关系数 $\boldsymbol { r }$ 。这样就构建了基于每个被试的 $4 6 \times 4 6$ 功能连接矩阵，矩阵的每一行或列表示一个通道与其他46 个通道(包括该通道本身)的相关系数。这样可得到4个条件下(专家高分，专家低分，外行高分，外行低分)的连通性矩阵。接着对 $\boldsymbol { r }$ 值进行阈值化处理获得显著连接通道对(本研究以 $\boldsymbol { r }$ 值的中位数作为阈值)。对 $\boldsymbol { r }$ 值进行Fisher-Z转换得到功能连接强度统计值，通过反fisher变换呈现功能连接矩阵热力图。最后，与上述分析类似，对标准化的相关系数r(fisher-Z)进行组水平统计检验(仅对上三角矩阵阈值以上通道对计算)，对出现显著交互作用的通道做简单效应分析，以检验显著交互作用的来源。对所有统计检验的 $p$ 值进行FDR 校正。
+
+![](images/55be96079b9f448f7958cc546c0e3d2d33a7a2a575a804b20d01cba9c18dbdb0.jpg)  
+图3近红外数据分析示意图。(A1)ISC分析示意图。被试X与被试Y在所有通道上的时间进程的Pearson 相关性;(A2）反应了所有通道上的ISC序列的平均程度;(B1）被试X的脑内功能连接示意图;(B2)被试X脑内 $4 6 { \times } 4 6$ 个通道的功能连接矩阵示意图。
+
+# 3结果
+
+将有效反应次数少于 $30 \%$ (即没有在规定2s内做出评分反应)的被试(3外行)和由于近红外数据信号质量问题(1外行,2专家)的数据排除在外。最终专家15人(女生8人)，外行15人(女生10人)数据纳入分析。实验后询问被试参加实验前有没有见过其中的图片，仅有1名被试(专家)汇报说见过其中的2幅，因此在后续分析中将这两幅画(试次)删除。
+
+# 3.1行为结果
+
+所有被试在高低分中国画上的评分如图4A&B所示。虽然个别被试对低分国画的评分高于高分国画，但整体来说，外行组和专家组被试在好看和喜欢两个维度上对高分国画评分都普遍高于低分国画，即觉得高分国画更好看，也更喜欢高分国画。接着，分别对喜欢和好看维度上的评分进行混合效应方差分析，同样发现了中国画类型的主效应。在好看评分上，高分国画的评分显著高于低分国画(好看: $M _ { ( \check { \mathfrak { n } } _ { 1 } ^ { * } , \acute { \gamma } ) } = 3 . 5 5 , S E M = 0 . 1 0 ; M _ { ( \mathfrak { n } _ { 1 } ^ { * } , \acute { \gamma } ) } = 2 . 9 , S E M = 0 . 1 1 ,$ （20$F ( 1 , 2 8 ) = 4 7 . 5 5 , p { < } 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 6 3 , 9 5 ^ { \circ } \% \mathrm { C I } = [ 0 . 4 1 6 , 0 . 7 3 3 ] ) ;$ 在喜欢评分上，被试也表现出对高分国画的喜欢程度显著高于低分国画(喜欢: $M _ { ( \check { \mathfrak { s c } } _ { \mathcal { N } } ) } = 3 . 4 4 , S E M = 0 . 1 1 ; M _ { ( \mathfrak { s c } _ { \mathcal { N } } ) } = 2 . 9 3 , \iota$ SEM$= 0 . 0 9 , F ( 1 , 2 8 ) = 2 5 . 1 3 , p { < } 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 7 , 9 5 \% \mathrm { C I } = [ 0 . 2 3 1 , 0 . 6 1 7 ] ) \circ$ 此外，对不同条件下好看和喜欢评分的相关性进行了计算，发现好看与喜欢评分存在高度相关性 $( r _ { ( \xi \vert \cdot \overleftarrow { 1 } \bar { \cdot } 4 \ell \cdot \zeta ) } = 0 . 8 8$ $\begin{array} { r } { \times 0 . 0 0 1 , 9 5 ^ { \circ } \circ \mathcal { C } \mathrm { I } = [ 0 . 6 6 , 0 . 9 7 ] ; r _ { ( \vartheta + \widehat { \tau } _ { \mathrm { T R } } ^ { \ast } / \vartheta ) } = 0 . 8 6 , p < 0 . 0 0 1 , 9 5 ^ { \circ } \circ \mathcal { C } \mathrm { I } = [ 0 . 6 7 , 0 . 9 7 ] ; r _ { ( \vartheta + \widehat { \tau } _ { \mathrm { T R } } ^ { \ast } / \vartheta ) } = 0 . 8 6 , p < 0 . 0 0 1 , } \end{array}$ $r _ { ( \not \Game \ \ast \langle \mathscr { E } \mathscr { H } \mathscr { H } \rangle ) } = 0 . 9 0$
+
+$p { < } 0 . 0 0 1$ ,95%CI $\ O =$ [0.82, 0.97]; $r _ { ( \ncong \ast \ast \ast \ast \langle s \rangle ) } = 0 . 8 7$ $p { < } 0 . 0 0 1$ ， $9 5 \% C \mathrm { I } = [ 0 . 5 6 , 0 . 9 8 ] ) c$ 采用基于R包的cocor 对四种条件下相关系数进行两两比较，并没有发现显著差异 $( \mathrm { a l l } p s { > } 0 . 1 )$ 。这些结果表明了前期中国画材料分类的有效性；另外，与以往研究类似，我们揭示了在好看和喜欢两个维度上审美标准的高度相关性(Lüdtke,Meyer-Sickendieck,& Jacobs,2014)。但是，在行为学结果中，我们没有发现审美评分上的专业水平主效应，交互效应也不显著(a $1 1 F s { < } 1 , p s { > } 0 . 0 5 )$ 。
+
+分别对专家和外行在喜欢和好看上的评分一致性进行混合效应方差分析。结果发现中国画类型主效应显著：不管是在好看维度还是喜欢维度，对高分国画的评分一致性显著高于低分国画(好看: $M _ { ( \ast , \ast , \ast ) } = 0 . 1 8 , S E M = 0 . 0 2 ; M _ { ( \ast , \ast ) } = 0 . 0 9 , S E M = 0 . 0 3 , F ( 1 , 2 8 ) = 6 . 2 2 , p = 0 . 0 1 9 ,$ （2 $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } =$ 0.38, $9 5 \% C \mathrm { I } = [ 0 . 0 1 7 , 0 . 3 7 1 ]$ ，如图C；喜欢： $M _ { ( \stackrel {  } {  } \gamma ) } = 0 . 1 8 , S E M = 0 . 0 3 ; M _ { ( \scriptscriptstyle { \ P \ r \gg \ r } ) } = 0 . 0 9 , \xi$ SEM$\scriptstyle = 0 . 0 2$ ,F(1,28) = 6.76, $_ { p = 0 . 0 1 5 }$ $\boldsymbol { \eta } _ { \mathrm { p } } ^ { 2 } = 0 . 4 7 , 9 5 \% \mathrm { C I } = [ 0 . 0 2 3 , 0 . 3 8 3 ]$ ，如图E)。与审美评分的结果类似，在评分一致性上也没有发现专业知识效应,专业知识和中国画类型的交互效应也不显著(all $F s { < } 1 , p s { > } 0 . 0 5 )$ 。考虑到本研究中样本量较小的局限性，研究还进一步采用了非参数检验(bootstrap，自举法)对评分一致性的结果进行验证，结果与参数检验一致，即仅存在中国画类型的主效应(见图D& F)。
+
+![](images/a94ea2a202a02106133332c290eec5e974ece2f40cff30799af3e74b755edf74.jpg)  
+图4 审美判断行为学结果。(A&B)喜欢(A)和好看(B)评分上的高低分国画差异;(C&D)专家组和外行组在高低分国画上的评分一致性的组间差异;C"和D'为高低分国画主效应的非参数检验结果。图中误差线表示均值的标准误。
+
+$$
+( ^ { * * * } p < . 0 0 1 \quad ^ { * * } p < . 0 1 \quad ^ { * } p < . 0 5 )
+$$
+
+# 3.2fNIRS结果
+
+3.2.1专家和外行在中国画欣赏时的神经活动相似性结果
+
+通过将真实任务ISC与随机打乱序列下的ISC 零分布区间进行比较以识别与任务显著相关的通道，最后12 个通道(下面简称CH)被保留(PFC:CH01,CH05,CH12,CH14,CH17,CH22;r-TPJ:CH07,CH14,CH16,CH19,CH20,CH24)，如图 5A 黑色方框圈出。对保留的通道进行2(专业知识：外行 vs.专家) $\times 2$ （中国画类型：高分vs.低分）混合效应方差分析，发现前额叶的CH14(大致位于左侧额中回)和右侧TPJ的CH24(位于右侧顶上回)存在显著的交互效应(如图 5B)。CH14: $F ( 1 , 2 8 ) = 9 . 4 2 \$ ， $\begin{array} { r } { p = 0 . 0 3 1 } \end{array}$ $p = 0 . 0 4 5$ (after FDR), $\mathfrak { N } _ { \mathrm { p } } ^ { 2 } = 0 . 5 4$ ; CH46:$F ( 1 , 2 8 ) = 6 . 1 4$ $p = 0 . 0 1 9$ $p = 0 . 0 3 5$ (after FDR), $\mathfrak { N } _ { \mathrm { p } } ^ { 2 } = 0 . 3 6$ 。简单效应分析发现，左侧前额叶CH14 上:在低分国画欣赏时，专家组的神经活动相似性显著高于外行组 $t ( 1 4 ) = 2 . 5 9 , p =$ 0.023, Cohen's $d = 1 . 3 8$ $9 5 \% C \mathrm { I }$ ，， $[ 0 . 0 1 { \sim } 0 . 1 3 ]$ 。此外,专家组在欣赏不同质量中国画时的神经活动相似性之间也存在差异，欣赏高分国画时的神经活动相似性显著低于欣赏低分国画时的神经活动相似性 $( t ( 1 4 ) = - 3 . 4 4 , p < 0 . 0 1$ ,Cohen's $d = 1 . 8 4$ $9 5 \% C \mathrm { I }$ : [0.04\~0.18])；而对于外行，在欣赏高分国画和低分国画时没有差异 $( p { > } 0 . 0 5 )$ 。在右侧 TPJ脑区的CH24上交互效应仅表现为专家在欣赏低分国画时的神经活动相似性显著高于外行 $( t ( 1 4 ) = 3 . 6 2$ $p { < } 0 . 0 1$ , Cohen's $d =$ 1.93, $9 5 \% C \mathrm { I }$ :[0.04,0.15])。此外，研究还发现了一个专业知识的主效应(位于右侧TPJ的CH16,缘上回)，表现为专家的神经活动相似性高于外行 $( F ( 1 , 2 8 ) = 6 . 8 9 , p = 0 . 0 1 4 )$ ，但在 FDR 校正后仅达到边缘显著 $p = 0 . 0 6 3$ 。中国画类型的主效应在FDR校正后所有通道都不显著 $( p { > } 0 . 0 5 )$ 。
+
+最后，我们探讨了神经活动相似性与审美判断行为之间的关系，发现专家组在前额叶CH14 的 ISC与好看评分成显著负相关 $( r { = } { - } 0 . 6 5 , p { < } 0 . 0 0 1 )$ 。该结果表明专家的神经活动相似性越高，越可能对这幅画做出不太好看的评价。在外行组被中没有发现与行为评价的相关性（204号 $( r = - 0 . 1 4 , p { > } 0 . 1 )$ 。研究还进一步检验了CH14 的ISC与其他行为学指标(如喜欢评分，好看一致性，喜欢一致性)的相关性，以及其他显著通道(右侧 TPJ的CH24)与行为的相关，结果都不显著(a $1 1 p s { > } 0 . 0 5 )$ 。
+
+![](images/5ae9a09a0f5f57b4008623708667b5641fe93d447bcc5696ffe5356af9533577.jpg)  
+图5中国画欣赏过程中神经活动相似性分析结果。(A)参与中国画欣赏显著相关的脑区;(B）脑间活动相似性分析交互效应结果(左侧额中回CH14和右侧顶上回CH24存在显著交互效应) $\mathsf { \Pi } _ { \circ } \operatorname { C H } 1 4$ 的ISC与审美评分(好看)的负相关(B左上)揭示了专家组的ISC对中国画质量高低具有识别作用。而外行的ISC 与评分不具有相关性。图中的误差线表示均值的标准误。（ $\ast \ast _ { p } < . 0 1$ $^ { * } p < . 0 5 )$ （20
+
+# 3.2.2专家和外行在中国画欣赏时功能连接结果
+
+Pearson 相关分析得到每个被试脑内通道的功能连接矩阵(图6为每个条件下 $4 6 \times 4 6$ 个通道功能连接矩阵热力图(反fisher- $. Z r$ 值)以及阈值化处理后的相关矩阵)。接着，对功能连接强度进行组水平2(专业知识：外行 vs.专家) $\times \ 2$ （中国画类型：高分vs.低分）混合效应方差分析。由于功能连接通道对数量较大(共 $4 6 { \times } 4 6 / 2 / 2 = 5 2 9$ 个通道)，导致在基于所有通道对的 $p$ 值FDR校正后所有效应都不显著。鉴于此，我们根据通道所在的脑区位置(表1)对每个脑区内的所有通道对的 $p$ 值分别进行 FDR 校正。这种方法下仅有8个通道对的专业知识主效应显著(见表 2)，表现为专家在欣赏中国画时的功能连接强度显著高于外行(all$F s { > } 6 . 3 8$ $p s { < } 0 . 0 5$ after FDR)。包括1个跨脑区的通道对(PFC-rTPJ)和7个位于右侧颞顶联合区的通道对，所在脑区分布示意见图7。
+
+![](images/8161b691cdc1c298a17f592ad91c39011dda12ea04c86e361b9c1830ef57f3c1.jpg)  
+图6A功能连接矩阵图(反fisher-Z的 $\boldsymbol { r }$ 值)和B设置阈值示意图，白色区域：阈值以下(相关系数 ${ < } 0 . 5 6 )$ ；灰色：相关系数在0.56\~0.75；黑色：相关系数在0.75以上
+
+表2专业知识主效应功能连接显著通道  
+
+<html><body><table><tr><td>脑区</td><td>通道对</td><td>F</td><td>P</td><td>p(FDR)</td></tr><tr><td rowspan="4">顶上回-颞中回</td><td>3-17</td><td>11.37</td><td>0.0022</td><td>0.0088</td></tr><tr><td>3-20</td><td>7.79</td><td>0.0094</td><td>0.0187</td></tr><tr><td>3-24</td><td>18.86</td><td>0.0002</td><td>0.0013</td></tr><tr><td>7-24</td><td>10.65</td><td>0.0029</td><td>0.0077</td></tr><tr><td>颞上回-颞上回</td><td>5-6</td><td>6.39</td><td>0.0174</td><td>0.0348</td></tr><tr><td>颞中回-中部前额叶</td><td>16-3</td><td>10.76</td><td>0.0028</td><td>0.0390</td></tr><tr><td>缘上回-中央前回</td><td>9-18</td><td>10.27</td><td>0.0066</td><td>0.0330</td></tr><tr><td>缘上回-中央后回</td><td>9-15</td><td>8.61</td><td>0.0034</td><td>0.0337</td></tr></table></body></html>
+
+注；为区分不同脑区的通道，蓝色数字(16)表示位于前额叶的通道，其余黑色数字表示位于右侧颞顶区通道
+
+![](images/ab38f96aaa4713c38417c3d7355bf99fc17ad4acc089bbd7c8f8bfd1cfd1f293.jpg)  
+图7专业知识主效应显著的通道对脑区分布示意图(左：矢状面；右：横断面)。图中圆点表示通道所在空间位置，不同功能区以不同颜色表示；功能连接强度(通道间连接线条颜色)与专业知识主效应的 $F$ 值colorbar 对应。
+
+# 4讨论
+
+中国画是人类感知中华艺术独特美学的重要载体，但中国画独特的创作方式在一定程度上也增加了对其审美的难度。本研究探讨了专业知识如何影响中国画的审美判断。研究中专家和外行被要求观看一系列中国传统水墨画-花鸟画，并对所给的中国画从好看和喜欢两个维度上进行评分。同时采用fNIRS设备记录了被试在欣赏中国画时的神经活动。
+
+从行为学结果来看，首先，在好看和喜欢两个维度上，专家和外行对高分国画的评分显著高于低分国画。换句话说，人们对具有较高评价的中国画(高分国画)的反应更积极。这与我们的假设也一致，即不管是专家还是外行都具备基本的审美判断能力。并且，研究还发现两种审美判断评分(喜欢 vs．好看)之间存在正相关,这也与以往研究结论一致(Ludtke et al.,2014; Menninghaus,Wagner, Wassiliwizky, Jacobsen,& Knoop,2017; Gartus et al.,2020)，印证了人们往往喜欢自己所认为的更美好的事物这一普遍现象，并且本研究还进一步揭示了这种相关性不太可能受到个体专业知识水平差异的影响。
+
+在行为评分一致性上，专家和外行出乎意料的同质，即在主观评分上没有观察到专家和外行在审美一致性上存在可识别的差异。由于喜欢属于个人偏好问题，不太可能受专业知识水平的影响，因此专家和外行没有表现出显著差异。但在好看判断上也没有发现专家表现出更一致的评价，这与以往西方绘画中发现的专家具有更高的内部一致性审美评价的结果不完全一致(Muller et al.,2010;Lundy et al.,2018)。我们认为该结果与自我报告的局限性分不开。实际上，主观评分报告仅仅利用了与审美判断结果有关的信息，并不能知晓实际审美评价过程的问题。换句话说，即便每个参与者的任务间判断一致性为 $100 \%$ ，导致该相同结论的认知过程仍然可能不同。这从结合我们对神经活动的分析(3.2fNIRS 结果)中也能发现专家和外行在中国画欣赏时确实存在差异。以往一些研究也证实了我们的推论，如 Muller 等(2010)发现专家和外行在音乐审美判断行为方面几乎没有区别，然而在事件相关电位(ERP)参数上却发现了二者的显著差异：专家在音乐审美过程准备阶段投入更多，表现为更强的关联负变化(contingent negative variation,CNV)成分；但外行却在在音乐欣赏的晚期阶段表现出更广泛的积极反应。其他一些研究也同样支持了我们的假设(Koide et al.,2015;Bolte et al.,2017)。此外，据我们所知，本研究是首次考察专家和外行对中国画审美判断一致性的差异，在刺激材料上与以往研究中采用的西方油画或者几何图案差异较大。以往研究也指出刺激材料的不同性质、任务设置以及个体特征差异(如年龄、性别)都可能导致完全不同的审美判断(Tuch,
+
+Bargas-Avila,&Opwis,2010)。因此未来还需要更多的研究佐证，包括增加受试者以及刺激材料数量以获得更稳定的结果。
+
+fNIRS 结果显示，在欣赏低分国画时，与外行相比，专家的神经活动相似性更高。这一结果在左侧额中回(CH14)和右侧顶上回(CH24)都有观察到。这两个脑区在以往研究中已被证实在知觉美的过程中起着非常重要的作用(Babiloni,Cherubino,Graziani,Trettel,&Vecchiato,2013;Chiara et al.,2017；王乃戈，罗跃嘉,& 董奇,2010)。本研究结果在一定程度上支持了专家的审美更具有内部一致性的结论。进一步，我们认为专家仅在欣赏低分国画时表现出更高的内部一致性可能揭示了专家在欣赏相对不那么好看的中国画时，能够一针见血的指出其中的不足，即准确的揭示这幅画成败的关键(如线条流畅度，运墨的浓淡、构图的繁简等)。以往研究也部分支持了这一假设。Ticini 等(2012)研究中发现专家在评价艺术作品“美"或“不美"时，对“不美"的反应更快，对“不美”作品的评价也更不容易受社会或非社会显著属性的影响。
+
+现代审美加工理论(Modern theories of aesthetic processing)认为，感知者和客体之间可能存在互动关系(Leder,& Nadal,2014;Pan et al.,2011)。中国画是一个复杂的系统，它包括中国历史、典故、传说和风俗习惯。作为一个知识渊博的欣赏者，一件好的艺术作品就是一个好的故事，这也是“读中国画"最快乐的部分。然而，由于专家通常以一种他们在与艺术接触经验过程中产生的感性和认知能力的方式来体验它，大多不能完全理解一件艺术作品所包含的全部潜在意义，因此对优秀艺术作品的观点、解读并不完全一致(Kesner,2006)。这一点也从我们的结果中得到证实，我们发现在前额叶14通道上，专家在欣赏高分国画时的神经活动相似性显著低于低分国画。该结果揭示了专家在欣赏高分国画时往往有更大的解读空间，即所谓的“仁者见仁，智者见智”，这与艺术家对绘画的深刻审美洞察能力是分不开的。但专家在高分国画上更低的神经活动相似性似乎与行为学上发现的对高分国画评分一致性显著更高的结果相悖。我们认为这可以解释为，虽然专家对优秀中国画的欣赏角度千差万别，但并不影响最终得出"好看"这一致性的结论。但正如上述所讨论，对于该结论仍需未来通过增强自我报告准确度，以及增加事后口头陈述等进一步提供证据。而我们发现的外行在高分和低分国画上没有显著差异也证明了缺乏艺术相关的专业知识确实会阻碍人们对中国画的审美欣赏。以往研究也发现，外行在绘画作品欣赏时眼睛扫描路径呈现相似性，绘画中的社会(人物)和非社会特征都以类似的方式引导外行的注视路径。(Lu,Gao,Qin,Zhao,&Liu,2008)。因此，我们的发现也进一步解释了为什么在以往研究中，外行在看到中国画作品时，常常认为它们“千篇一律”，很难发现其艺术价值(金边,2004)。最后，对显著通道的 ISC 与审美行为评分进行相关性分析，发现仅在专家前额叶CH14上的ISC与专家的好看评分呈显著负相关，而外行则不存在相关(见图 5B的相关结果图)。该结果进一步支持了专家的神经活动相似性能够较好的区分中国画的质量高低，即专家更高的ISC预测了更低的中国画质量。相反，外行的神经活动相似性则不具备对中国画的辨别力。
+
+功能连接强度被证实可以反映不同特征群体在执行特定认知、情感任务中的差异(Finnet al.,2015)，因此研究进一步采用功能连接分析以检验专业知识对中国画审美判断的影响。我们发现专家组被试在欣赏中国画时的脑内功能连接强度显著高于外行组，这一现象主要发生在右侧颞顶联合区(r-TPJ，如图7)，包括顶上回、颞中回、缘上回以及中央前后回的广泛连接。TPJ被证实与想象他人思想与目的、情感共鸣(Ashar et al.,2017)的关键脑区，读者也运用此区域再现故事中不同人物的想法(Thomas,2014)。广泛的艺术训练和对艺术作品的反思是获得高艺术水平专业知识所必须的，以往研究也发现，相对于欣赏抽象画，被试在欣赏具象画时双侧颞叶会引起更大的激活，因为具象画比抽象画更能引发人们的联想(Lenggeret al.,2007;Cela-Conde et al.,2011)。鉴于此，我们认为，本研究中发现的专家在右侧 TPJ产生的更强的功能连接和中国画审美引发的联想有关，即专家在中国画欣赏时会将美学的概念与情感联想、共情理解各个方面联系地更紧密。移情-系统化理论(Empathizing-Systemizing-Theory)也指出，艺术作品能否改变个人的情感状态是其具备审美能力的一个重要标准(Greenberg,Rentfrow,& Baron-Cohen,2015)，本研究的发现支持了以往研究发现和理论。
+
+总之，本研究是基于近红外功能成像设备来探讨艺术专业知识如何影响中国传统艺术(中国画)审美判断的一次积极尝试，对国内公共艺术教育者需做好知识性普及工作、帮助公众更好地理解并欣赏中华传统艺术具有重要指导意义。但研究仍存在一些不足之处。首先最重要的一点就是本研究中专家组被试的来源相对较为局限、选取标准较为宽松。在我们的样本中由于招募的都是艺术类的本科生或者研究生，因此具有极高艺术专长的人比例可能偏低，这在一定程度上限制了我们的结论。因为我们不知道高级专家的审美判断是否会与仅是中等水平的艺术生也有所不同。其次，本研究的数据来源相对局限(行为 $^ +$ 神经)，未来研究可以在此基础上进一步结合眼动、口头陈述等多种特征数据相互印证，以获得对中国画审美背后的神经-心理基础进行更细致的探讨。
+
+# 5结论
+
+本项研究结合fNIRS 脑功能成像技术揭示了专家相较于外行更具有艺术鉴赏力的神经基础，并首次将该结论拓展到了对中国传统艺术形式-中国画的欣赏中，这从脑间神经活动相似性以及脑内功能连接强度上均提供了支持。(1)专家的神经活动相似性能够较好的区分中国画的质量高低(ISC 越高，对中国画的评分越低)。而外行的神经活动相似性则不具备对中国画的辨别力;(2)专家在中国画欣赏时右侧颞顶联合区更强的功能连接，揭示了专业知识导致专家比外行在中国画审美过程中会更多的将美学概念与情感联想、共情理解等方面联系起来。
+
+# 参考文献
+
+Ashar,Y.K.,Andrews-Hanna,J.R.,Dimidjian,S.,& Wager,T.D. (2o17).Empathic care and distres: predictive brain markers and dissociable brain systems. Neuron, 94 (6),1263-1273.   
+Babiloni,F., Cherubino,P.,Graziani,I.,Trettel,A.,& Vecchiato,G.. (2Ol3).Neuroelectric brain imaging during a real visit of a fine arts gallery: a neuroaesthetic study of xvii century dutch painters. Conference procedings:. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference,2013,6179-6182.   
+Bauer,D.,& Schwan,S.. (20l7).Expertise influences meaning-making with renaissance portraits: evidence from gaze and thinking-aloud. Psychology ofAesthetics Creativity & the Arts,12(2).   
+Benjamini,Y.，& Yekutieli,D.(20o1). The control of the false discoveryrate in multiple testing under dependency.Annals of statistics,1165-1188.   
+Bolte,J.,Hosker,T.M.,Hirschfeld,G.,& Thielsch,M.T.(2017).Electrophysiological correlatesof aesthetic processing of webpages: a comparison of experts and laypersons. PeerJ, 5,e3440.   
+Cela-Conde,C.J.,Agnati,L.,Huston,J.P.,Mora,F.,& Nadal,M.(2011).The neural foundationsof aesthetic appreciation.Progress in neurobiology, 94(1),39-48.   
+Cela-Conde,C.J.,Marty,G.,Maestu,F.,Ortiz,T.,Munar,E.,Fernandez,A.,..&Quesney,F. (204).Activation of the prefrontal cortex in the human visual aesthetic perception. Proceedings of the National Academy of Sciences,101(16),6321-6325.   
+Cheung，O. S.，& Bar,M. (2012). Visual prediction and perceptual expertise. International Journal of Psychophysiology, 83 (2),156-163.   
+Chiara,F.,Marcos,N.,Susanna, S.,Tomaso,V.,Cela-Conde, C.J.,& Zaira,C.. (2017).The dorsomedial prefrontal cortex mediates the interaction between moral and aesthetic valuation: a tms study on the beauty-is-good stereotype. Social Cognitive & Affective Neuroence, (5),707-717.   
+Cui,X.,Bryant,D.M.，& Reiss,A.L.(2O12).NIRS-based hyperscanning reveals increased interpersonal coherence in superior frontal cortex during cooperation. Neuroimage, 59(3),2430-2437.   
+Cupchik,G.C.,Vartanian,O., Crawley,A.,& Mikulis,D.J. (20o9).Viewing artworks: contributions ofcognitive control and perceptual facilitation to aesthetic experience.Brain and cognition,70(1),84-91.   
+Ding,X.P.,Fu, G.,& Lee, K.(2014). Neural correlatesof own-and other-race face recognition in children: a functional near-infrared spectroscopy study. Neuroimage, 85,335-344.   
+Finn,E.S.,Corlett,P.R.,Gang,C.,Bandetini,P.A.,&Todd,C.R.. (2018).Tait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. Nature Communications, 9(1), 2043.   
+Fong,W. C. (2003). Why Chinese painting is history. The Art Bulletin,85(2),258-280.   
+Gartus,A.，& Leder, H.. (2020). What experts appreciate in paterns: art expertise modulates preference for asymmetric and face-like patterns. Symmetry, 12(5), 707.   
+Genovese,C.R.,Lazar,N. A.,& Nichols,T. (2oo2). Thresholding of statistical maps in functional neuroimaging using the false discovery rate. Neuroimage，15 (4),870-878.   
+Greenberg, D. M.，Rentfrow, P.J.，& Baron-Cohen, S.. (2015). Can music increase empathy? interpreting musical experience through the empathizing-systemizing (e-s) theory: implications for autism. Empirical Musicology Review, 10(1),80-95.   
+Harel，A.， Gilaie-Dotan, S.,Malach,R.，& Bentin，S. (2010).Top-down engagement modulates the neural expressions of visual expertise. Cerebral Cortex, 20(10),2304-2318.   
+Hasse, C.,& Weber, R.. (20l2). Eye movements on facades: the subjective perception of balance in architecture and its link to aesthetic judgment. Empirical Studies ofthe Arts,30(1),7-22.   
+Hasson,U.,Furman,O., Clark,D., Dudai, Y.,& Davachi,L.. (2oo8). Enhanced intersubject correlations during movie viewing correlate with successful episodic encoding. Neuron, 57(3), 452-462.   
+Hasson,U., Ghazanfar,A.A.，Galantucci, B.， Garrod,S.，& Keysers，C.(2012). Brain-to-brain coupling:a mechanism for creating and sharing a social world. Trends in cognitive sciences,16(2),114-121.   
+Hoshi,Y. (2oo7).Functional near-infrared spectroscopy: currnt status and future prospects. Journal of biomedical optics,12(6),062106.   
+Jacobsen，T..(2O10). Beautyand the brain: culture，historyand individual diferences inaesthetic appreciation. Journal of Anatomy, 216(2).   
+Jimenez,K.B.,Abdelgabar,A.R.,De Angelis,L., McKay,L. S.,Keysers,C.,& Gazzola,V. (202O). Changes in brain activity following the voluntary control of empathy. NeuroImage,116529.   
+Kaufman, J. C.,Baer,J., Cole,J.C.,& Sextona—,J.D.(2O08). Acomparison of expert and nonexpert raters using the consensual assessment technique. Creativity Research Journal, 20(2),171-178.   
+Kirk,U.,Skov,M.,Christensen,M.S.,&Nygard,N. (2o9).Braincorrelatesofaestheticexpertise: aparametric fMRI study. Brain and cognition, 69(2),306-315.   
+Koide,N.,Kubo,T.,Nishida,S.,Shibata,T.,& Ikeda,K. (2o15).Art expertisereduces influenceof visual salience on fixation in viewing abstract-paintings. PloS one，10(2), e0117696.   
+Kozbelt,A.，Dexter,S.,Dolese,M.，& Seidel,A..(2012).The aesthetics of software code: aquantitative exploration.Psychology ofAesthetics Creativity & the Arts, 6(1),57-65.   
+Leder,H.,& Nadal,M. (2O14).Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode-Developments and chalenges in empirical aesthetics.British Journal of Psychology,105(4), 443-464.   
+Leder,H.，Belke,B., Oeberst,A.，& Augustin, D. (2004).A model of aesthetic appreciation and aesthetic judgments. British Journal of Psychology,95(4),489-508.   
+Lengger,P.G.,Fischmeister,F.P.S.,Leder,H.,&Bauer,H. (2O07).Functional neuroanatomyof the perceptionof modern art: A DC-EEG study on the influence of stylistic information on aesthetic experience. Brain research, 1158,93-102.   
+Liu,MX,Yang,JF, Wang, XJ. (2017).A New Method of Data Analysis for fMRI Studies in Naturalistic Situation: Inter-Subject Correlation and its Application. Journal of Psychological Science, 40(3),728-733.   
+[刘梦醒，杨剑峰,& 王小娟.(2017).适于自然情境脑成像研究的分析方法：被试间相关及其应用.心理科 学,40 (3),728-733.]   
+Long,Z.,Peng,D., Chen,K.,Jin,Z.,& Yao,L. (2o11).Neural substrates in color processing: a comparison between painting majors and non-majors. Neuroscience leters, 487(2),191-195.   
+Lu,G.,Gao,Z.,Qin,D.,Zhao,X.,& Liu,M.. (20o8). Content-Based Identifying and Classifying Traditional Chinese Painting Images. Congress on Image & Signal Processing. IEEE.   
+Ludtke, J., Meyer-Sickendieck,B.,& Jacobs,A. M. (2014). Immersing in the stillnessof an early morning: testing the mood empathy hypothesis of poetry reception. Psychology of Aesthetics, Creativity， and the Arts, 8(3), 363.   
+Lundy,D. E. (2010). A test of consensus in aesthetic evaluation among professional critics of modern music. Empirical Studies ofthe Arts,28(2),243-258.   
+Lundy,D.E.,Stephens,L.A.,Hinners,C.T.,& Whiton,J.R. (2O18).What it means tobe (un)professional: The presence of nonaesthetic bias within difering levels of music and film expertise. Psychology of Aesthetics, Creativity,and theArts,12 (2),205.   
+Menninghaus,W., Wagner,V., Wassiliwizky,E.,Jacobsen,T.,&Knoop,C.A.(20l7).The emotionalandaesthetic powers of parallelistic diction. Poetics, 63, 47-59.   
+Molavi,B.，& Dumont, G.A.(2O12).Wavelet-based motionartifact removal for functional near-infrared spectroscopy.Physiological measurement, 33(2),59.   
+Miller，M.，Hofel，L.，Bratico，E.，& Jacobsen，T. (2010). Aesthetic judgments of music inexpertsand laypersons—An ERP study. International Journal of Psychophysiology, 76(1), 40-51.   
+Muller-Salo,J. (20l8). Informed aesthetic consensusand the creation of urban environments.Polish Journal of Landscape Studies, 1(2-3),117-132.   
+Nastase,S.A., Gazzola, V., Hasson, U.,& Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. 667-685.   
+Nguyen,M., Vanderwal,T.,& Hasson, U. (2019). Shared understandingof narratives is correlated with shared neural responses. Neurolmage,184,161-170.   
+Nummenmaa,L.,Glerean,E.,Vinikainen,M.,Jaaskelainen,I.P.,Hari,R.,&Sams,M. (20l2).Emotions promote social interaction by synchronizing brain activity across individuals.Proceedings of the National Academy of Sciences,109(24), 9599-9604.   
+Pan, Z., Jiang,R.,Liu, G.,& Shen, C. (2011). Animating and interacting with ancient Chinese painting-Qingming festival by the riverside. In 2011 Second International Conference on Culture and Computing (3-6). IEEE.   
+Pang,C.Y.,Nadal,M.,Muller-Paul,J.S.,Rosenberg,R.,&Klein,C.(2Ol3).Electrophysiological correlatesof looking at paintings and its association with art expertise. Biological psychology,93(1),246-254.   
+Reindl, V., Gerloff, C.,Scharke,W.,&Konrad, K. (2018). Brain-to-brain synchronyin parent-child dyads and the relationship with emotion regulation revealed by fNIRS-based hyperscanning. Neurolmage,178, 493-502.   
+Sasai,S.,Homae,F.,Watanabe,H.,& Taga, G.(20l1).Frequency-specific functional connectivity in the brain during resting state revealed by NIRS. Neuroimage, 56(1), 252-257.   
+Shu, W. (2014). Interpretations of Chinese Paintings. World,1(2).   
+Silvia,& Paul， J.. (2O13). Interested experts， confused novices: art expertise and the knowledge emotions.Empirical Studies ofthe Arts,31(1),107-115.   
+Tak,S.,& Ye,J. C. (2O14). Statistical analysis offNIRS data: a comprehensive review. Neuroimage,85,72-91.   
+Ticini,L.F.,Novembre,G.，Waszak,F.，Schuetz-Bosbach,S.,& Keller,P..(2012).Embodied aesthetics: Audiomotor representation of music in experts and laypersons. Cognitive Processing.   
+Tuch,A.N., Bargas-Avila,J.A.,& Opwis,K. (2010). Symmetry and aesthetics in website design: It'sa man's business. Computers in Human Behavior, 26(6),1831-1837.   
+Wanderer,J.J. (2011).When film critics agree: Does film genre mater?.Empirical Studies of the Arts,29(1), 39-50.   
+WANG Nai-Yi; LUO Yue-Jia; DONG Qi. (2010). Neural Correlatesof Aesthetics.Advances in Psychological Science, 18(01), 19-27.   
+[王乃弋，罗跃嘉,& 董奇.(2010).审美的神经机制.心理科学进展,18(01),19-27.]   
+Xia，M.，Wang,J.，& He，Y.(2013).BrainNet Viewer: a network visualization tool for human brain connectomics.PloS one, 8(7),e68910.   
+Yoshino,K.,Oka,N.,Yamamoto,K.,Takahashi,H.,&Kato,T.(2Ol3).Correlationofprefrontalcorticalactiation with changing vehicle speeds in actual driving: a vector-based functional near-infrared spectroscopy study.Frontiers in Human Neuroscience,7, 895.   
+Zarahn,E.,Aguirre,G.K., & D'Esposito,M. (1997). Empirical analyses ofBOLD fMRI statistics. Neurolmage, 5(3), 179-197.   
+Zhang,Y. (2017, May). Aesthetic Analysis on Line Art in Chinese Painting Art. In 2O17 International Conference on Culture,Education and Financial Development of Modern Society (ICCESE 2017) .Atlantis Press.   
+金边.(2004).怎样欣赏中国画.今日中国(中文版),053(006),56-57.
+
+# Art expertise modulates aesthetic processing of Chinese
+
+# paintings: An fNIRS study
+
+Background. Aesthetic judgement ability of art appears to change with artistic training. Previous studies have already been demonstrate some differences between experts and laypersons when it comes to the appreciating of aesthetic stimulus (music,movies，and western oil paintings). However, to date, there has not yet been systematic research on whether art expertise modulates aesthetic processing of traditional Chinese paintings, especially the neural mechanisms is lacking. Method. The current study set out to investigate whether and how aesthetic evaluation of
+
+Chinese paintings are modulated by art expertise. To this end, thirty participants,15 art experts and 15 laypersons (mean $\mathsf { a g e } = 2 2 . 3 \pm 2 . 4 6$ years old) were enrolled in the experiment to assess 20 Chinese paintings with diferent types of aesthetic qualities (10 high-beauty vs. 10 low-beauty ones). Participants were asked to accomplish Chinese paintings for beauty and liking judgment tasks on 5-point scales, as well as oxygenated hemoglobin concentration (Hbo) responses were recorded in prefrontal cortex (PFC） and right temporo-parietal junction (r-TPJ) by functional near-infrared spectroscopy (fNIRS). The inter-subject correlation (ISC) and intra-brain functional connectivity (FC) were calculated in two groups during free viewing of the Chinese paintings. Results.Behaviorally， all participants showed more positive response to high-beauty Chinese paintings than low-beauty paintings and this founding both for beauty and for liking ratings. However, few diferences in ratings were observed between experts and laypersons. Nevertheless, profound differences in fNIRS parameters were observed in aesthetic processing between experts and laypersons. Firstly, a higher ISC in experts than laypersons was observed in appreciating low-beauty paintings, including the left middle frontal cortex (CH14) and right superior parietal gyrus (CH24). This groups discrepancies indicated that experts seem to consistently pungent the fatal flaws of low-beauty paintings than laypersons.Moreover, there was a lower ISC during experts appreciating high-beauty paintings than appreciating low-beauty paintings in the CH14. Importantly, our results detected that the ISC in CH14 was significantly negatively correlated with experts’ beauty ratings. These findings suggested that experts' neural activity allows to distinguish the quality of Chinese paintings. Conversely, laypersons’ ISC was failed to separate the good from the bad on Chinese paintings because we did not find an ISC difference between high-beauty paintings and low-beauty paintings,neither did any correlate with aesthetic rating detected. Secondly， experts showed a stronger functional connectivity in right TPJ compared to the laypersons. Proposed explanation for this is that the experts could conjure up more associative thoughts and try to understanding the intentions of painters during appreciating paintings, which was accompanied by enhanced connectivity in the brain areas related to theory of mind.
+
+Conclusion. Considering the art-related expertise on aesthetic appreciation discussion in aesthetic psychology, the present study achieved to combined traditional Chinese paintings concerning expertise diference with neurophysiological correlates. Our results further extend the evidence of art expertise knowledge help to aesthetic evaluation, with experts significant increased ISC in left middle frontal cortex and intra-brain FC in right-TPJ.
+
+Key words Chinese Painting; Aesthetic judgment; experts and laypersons; inter-subject correlation (ISC); functional connectivity (FC)

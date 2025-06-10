@@ -1,0 +1,822 @@
+# DEED: A general quantization scheme for saving bits in communication
+
+Tian Ye \* Peijun Xiao t Ruoyu Sun ‡
+
+June 15,2020
+
+# Abstract
+
+Quantization is a popular technique to reduce communication in distributed optimization. Motivated by the classical work on inexact gradient descent (GD)[1],we provide a general convergence analysis framework for inexact GD that is tailored for quantization schemes.We also propose a quantization scheme Double Encoding and Error Diminishing (DEED). DEED can achieve smallcommunication complexity in three settings: frequent-communication large-memory,frequent-communication smal-memory,and infrequent-communication (e.g. federated learning).More specificaly,in the frequent-communication large-memory setting,DEED can be easily combined with Nesterov's method,so that the total number of bits required is ${ \tilde { O } } ( \sqrt { \kappa } \log 1 / \epsilon )$ ，where $\tilde { O }$ hides numerical constant and $\log \kappa$ factors.In the frequentcommunication small-memory setting,DEED combined with SGD only requires ${ \tilde { O } } ( \kappa \log 1 / \epsilon )$ number of bits in the interpolation regime.In the infrequent communication setting,DEED combined with Federated averaging requires a smaler total number of bits than Federated Averaging.All these algorithms converge at the same rate as their non-quantized versions,while using a smaller number of bits.
+
+# 1Introduction
+
+There is asurge of interest in distributed learning forlarge-scalecomputation in recent decade[2-9].In the past few years,new application scenarios such as multi-GPU computation [10-14], mobile edge computing [15,16] and federated learning [17,18] have received much attention. These systems are often bandwidth limited,and one important question in distributed learning is how to reduce the communication complexity.
+
+A natural method to reduce the communication complexity is to compress the gradients transmitted between the machines.A host of recent works proposed to quantize the gradients and transfer the quantized gradients to save the communication cost [10-14]. These gradient quantization methods are successfully applied on training large-scale problems,and are shown toachieve similar performance to the original methods using less training time [13,14].Nevertheless,their theoretical properties,especially the relation with their un-quantized versions,are not wellunderstood.A recent work [19] proposed DIANA and proved its linear convergence rate in a large-memory setting. Another work [20l proposed DORE which converges linearly to a bounded region in a small-memory setting. Nevertheless,these works often study a specific distribution optimization problem,and do not directly apply to other settings.For instance,they assume frequent communication,thus do not immediately apply to infrequent-communication due to the additional error caused by the infrequent updates.While it may be possible to further adapt these works to new settings,one might still wonder whether there is a unified and principled method to design quantization methods.
+
+Our work is motivated by the classical work on inexact gradient descent (GD)[1], which provides a unified theorem for inexact GD and covers a number of algorithms (including SGD). We provide a general analysis framework for inexact GD that is tailored for quantization schemes.We also propose a quantization scheme Double Encoding and Error Diminishing (DEED). We summary our contributions below.
+
+· General convergence analysis. We provide a general convergence analysis for inexact gradient descent algorithms using absolute errors in encoding. This can potentially cover a large number of quantized gradient-type methods. · General quantization scheme. We propose a general quantization scheme Double Encoding and Error Diminishing (DEED). This scheme can be easily combined with existing optimization methods, and provably saves bits in communication in three common settings of distributed optimization. · Improved communication complexity. In the most basic setting of large-memory frequentcommunication, our theoretical bound of DEED-GD (apply DEED to GD) is at least $F$ times better than existing works,where $F$ is the number of bits representing a real number.
+
+The motivation and details of our general convergence analysis and general quantization scheme willbe given in Section 2 and Section 3. Discussions of related work are in the appendix.We now summarize the results of our general quantization scheme in three common settings.
+
+Frequent-communication large-memory. We propose an algorithm DEED-GD and show it converges linearly while saves communication in bits.We further combine DEED-GD with Nesterov's momentum to obtain an accelerated version called A-DEED-GD,which achieves the state-of-art convergence rate and save the most total number of bits in communication as shown in Table 1.
+
+Frequent-communication small-memory.We adopt the Weak Growth Condition from [21l and prove that our algorithm DEED-SGD converges to the optimal solution at a linear rate.We compute the total number of bits to achieve a certain accuracy for both our algorithm and other works. The comparison is presented in Table 2.
+
+Infrequent-communication.We propose DEED-Fed and provide the first explicit bound on the number of bits to achieve a certain accuracy in Federate Learning under non-i.i.d assumptions. Our results can be applied to both large-memory and small memory settings and both full-participant and partial-participant settings. To our best knowledge,[22] is the only work that also provide a convergence rate for infrequentcommunication setting under realistic assumptions. However,due to the limitation of their framework, they did not do quantization in broadcasting step,which results in a great waste of communication. Our algorithm could save up to $F d N$ bits per $E$ iterations1.
+
+<html><body><table><tr><td>Algorithm</td><td>Iterations</td><td>Bits per iteration</td><td>Total bits</td></tr><tr><td>DEED-GD</td><td>O(k log¹)</td><td>O(dN)</td><td>O(dNklog1)</td></tr><tr><td>A-DEED-GD</td><td>O(√klog¹)</td><td>O(dN)</td><td>O(dN√klog¹)</td></tr><tr><td>DIANA [19]</td><td>O(κlog1)</td><td>O(dNC)</td><td>O(dNCk log ¹)</td></tr><tr><td>ADIANA [23]</td><td>O(√klog¹)</td><td>O(dNC)</td><td>O(dNC√klog¹)</td></tr><tr><td>DORE [20]</td><td>O(klog1）</td><td>O(dN)</td><td>O(dNklog1)</td></tr><tr><td>DQGD [24]</td><td></td><td>O(dNC)</td><td></td></tr><tr><td>QSVRG [13]</td><td>O(klog¹)</td><td>O(dNC)</td><td>O(dNCκ log 1)</td></tr></table></body></html>
+
+Table 1: Summary of our theoretical results in minimizing a strongly-convex function as (1) in large-memory setting with $N$ computing nodes.We denote the condition number of the problem as $\kappa$ and the problem dimension as $d$ ： ${ \tilde { O } } ( \cdot )$ omits $\log \kappa$ and constant terms. For algorithm DIANA,ADIANA,DQGD and QSVRG,because they didn't do double quantization,they can choose either broadcasting (fully conected network) or transmitting full gradient from center to workers (star network). $C = N$ in the first case,and （20 $C = F$ otherwise, where $F$ is the number of bits representing a real number. DQGD cannot converge to the optimal solution,and is not directly comparable to our result; so we use /in the iteration cell.
+
+<html><body><table><tr><td>Algorithm</td><td>Iterations</td><td>Bits per iteration</td><td>Total bits</td></tr><tr><td>DEED-SGD(WGC)</td><td>O(klog¹)</td><td>O(dN)</td><td>O(dNκ log¹)</td></tr><tr><td>DIANA [19]</td><td>0（）</td><td>O(dNC)</td><td>O(dNC)</td></tr><tr><td>DORE [20]</td><td></td><td>O(dN)</td><td></td></tr><tr><td>QSVRG [13]</td><td>O(klog¹)</td><td>O(dNC)</td><td>O(dNCklog1)</td></tr></table></body></html>
+
+Table 2: Summary of our theoretical results in solving problem 1 in small-memory setting. All notations are the same as table 1.
+
+# 2 General Analysis Framework
+
+# 2.1 Motivation
+
+Our work is inspired by theclassical work by Bertsekasand Tsitsiklis [1] which provides ageneral convergence analysis of inexact gradient descent methods.Since quantization also introduces error to the update direction, a natural idea is to apply the general framework of [1] to design and analyze quantization methods. However, directly applying [l] may not provide the best result,because in quantization methods, we have a rather strong control of the“error”in the algorithm.This situation is different from the worst-caseor random error considered in[1].Our idea is to develop amodified analysis framework thatcanaccomodate the extra freedom of controling the quantization error,so as to obtain stronger results compared to directly applying [1]. We hope that such a general frame work can help us design and analyze quantization algorithms for diffrent settings in a unified manner.
+
+A key element in this analysis is to use absolute error in quantization.Many theoretical works on quantization methods do not explicitly consider absolute error,but focus on relative error $^ 2$ [13,24,25]. These two types of errors are equivalent in one step quantization and only difer by scaling,but not equivalent in a multi-iteration convergence analysis.In our framework,we use absolute eror in quantization so that we can sum up the absolute error over iterates and control the rate.
+
+Overview of our general analysis framework. We first discuss why we use absolute error in quantization,and then we provide a general analysis of convergence rate. Our general analysis is not limited to algorithms that perform quantization on gradient or gradient diference.Algorithms that do quantization on weights or combination of weights and gradients are also covered inour framework.In this general analysis framework,the key component is “effective error” which we define as the error occurred at the weight.For example,in frequent-communication large-memory setting,the effective error is absolute error times the learningrate.We show that analgorithm converges onlyif the efective error diminishes to zero.In addition, we establish the convergence rate in terms of the learning rate and the effctive error.As promised,this is a general framework,so it should be applicable to new settings with similar proofs as we willshow in Section 3.4.
+
+# 2.2 Content oftheFramework
+
+We consider a star-network where there are $N$ computing nodes and one central node. Suppose we want to minimize a function $f : \mathbb { R } ^ { d }  \mathbb { R }$ decomposed as
+
+$$
+f ( w ) = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } f _ { i } ( w ) ,
+$$
+
+where each function $f _ { i }$ is held on the $i$ -th machine (or computing node), $i = 1 , \ldots , N$ . We assume each $f _ { i }$ （204   
+is $L$ -smooth and $f$ is -strongly convex. We define the condition number $\begin{array} { r } { \kappa : = \frac { L } { \mu } } \end{array}$ . The formal definition of $\mu$   
+$L$ -smoothness and strong convexity are standard, so are given in the appendix.
+
+Definition 2.1. Absolute error encoding-decoding procedure. An $\alpha$ -encoding-scheme of a vector $w$ （20 consists of an encoding algorithm $E : S \times \Xi \to \mathbb { Z } ^ { + }$ and a decoding algorithm $D : \mathbb { Z } ^ { + }  \mathbb { R } ^ { d }$ ，where $S$ is the set of vector we need to quantize, $\Xi$ is the set of random seeds, $\mathbb { Z } ^ { + }$ is the set of positive integers, and $\mathbb { R }$ stands for the real domain. We assume:
+
+Unbiased coding, i.e. $\mathbb { E } _ { \xi } [ D \circ E ( w , \xi ) ] = w$ （4号
+
+The absolute error is bounded by $\omega$ ，i.e. $\| D \circ E ( w , \xi ) - w \| \leq \alpha$
+
+Besides, the number of bits of this procedure is $\mathbb { E } _ { \xi } \lceil \log _ { 2 } \mid E ( S , \xi ) \mid \rceil$
+
+The lemma below gives an upper bound and lower bound number of the bits with given precision.
+
+Lemma 2.2. Given a set $S = \left\{ x \in \mathbb { R } ^ { d } | \left\| w \right\| _ { 2 } \leq M \right\}$ ， any (random) quantization algorithm that encoding a vector in $S$ by absolute error $\sigma$ takes at least $\left\lceil d \log _ { 2 } \frac { 1 } { \varepsilon } \right\rceil$ (in expectation) number of bits, where $\textstyle \epsilon = { \frac { \sigma } { M } }$ In addition, there exists a (random) algorithm that takes only $\textstyle { \left\lceil 1 . 0 5 d + d \cdot \log _ { 2 } { \frac { 1 + 2 \varepsilon } { \varepsilon } } \right\rceil }$ bits (in expectation)3.
+
+For convenience,we define $Q ( \cdot , \varepsilon )$ as a coding procedure with maximal precision $\varepsilon$ with corresponding encoding and decoding procedure $E _ { \varepsilon }$ and $D _ { \varepsilon }$ . The output vector $Q ( w , \varepsilon )$ is $D _ { \varepsilon } \circ E _ { \varepsilon } ( w , \xi )$
+
+To derive a general analysis for quantized GD in minimizing the problem (1), we consider a general series of functions $F _ { t } : \mathbb { R } ^ { d }  \mathbb { R } ^ { d }$ ， $t \geq 0$ . The definition of $F$ depends on the specific problems.For example,in frequent-communication, $F _ { t } ( w )$ is defined as the function mapping $w _ { t }$ to $w _ { t + 1 }$ in the $t$ -th iteration.The only assumption on $F _ { t }$ in our framework is $F _ { t }$ is a continuous function with Lipschitz constant $c _ { t } < 1$ with the same fixed point $w ^ { * }$ . In most cases, this can be easily derived by strongly convexity assumption.
+
+Assumption 2.3. For $t = 1 , 2 , \cdots$ ， $F _ { t }$ isa continuous function withLipschitz constant $c _ { t } < 1$ and denote （204 $w ^ { * }$ as the unique fixed point of all $F _ { t }$
+
+Theorem 2.4. Suppose Assumption 2.3 holds and $\{ w _ { t } \}$ is a sequence generated by
+
+$$
+w _ { t + 1 } = F _ { t } ( w _ { t } ) + e _ { t } ,
+$$
+
+for some chosen initial value $w _ { 0 }$ and $e _ { t }$ is a zero-mean random noise depending on the (iteration) history and is bounded by $\alpha _ { t }$ . Define series $C _ { k } ^ { 2 } = \sum _ { i = 0 } ^ { k - 1 } \alpha _ { i } ^ { 2 } \prod _ { j = i + 1 } ^ { k - 1 } c _ { j } ^ { 2 }$ and $D _ { k } ^ { 2 } = \prod _ { i = 0 } ^ { k - 1 } c _ { i } ^ { 2 }$ . Then we have
+
+$$
+\begin{array} { r } { \mathbb { E } \left[ \| w _ { T } - w ^ { * } \| ^ { 2 } \right] \leq D _ { T } ^ { 2 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { T } ^ { 2 } . } \end{array}
+$$
+
+In addition, there exists functions series $\{ F _ { i } \} _ { i \ge 0 }$ and noise $\{ e _ { t } \} _ { t \ge 0 }$ to make the inequality hold. Besides, if we suppose the sequence of the Lipschitz constants $\{ c _ { i } \}$ is non-decreasing, then the right hand side of (7) converges linearly if and only if all $c _ { t }$ 's are always bounded above by a constant $c < 1$ and $\alpha _ { t }$ converges to $\boldsymbol { \mathit { 0 } }$ （20 linearly.
+
+Remark.We leave the deterministic version of Theorem 2.4 in the appendix. It can be useful in proving the convergence of deterministic algorithm.
+
+According to Theorem 2.4, to make $\{ w _ { t } \}$ converge to $w ^ { * }$ ，we need both $D _ { k }$ and $C _ { k }$ converge to 0.In frequent communication setting, the $D _ { k } \to 0$ implies the summation of learning rate diverges. Then $C _ { k } \to 0$ （20 implies the effective error converges to 0.
+
+The last statement of theorem 2.4 implies that for any quantized GD algorithms under our framework, we should take constant learning rate and linearly decreasing absolute error for linear convergence.
+
+# 3Application of DEED in Three Settings
+
+Based on Theorem 2.4, we notice that using diminishing error in each iteration can guarantee fast convergence. However,according to lemma 2.2,the maximal norm of the vector we want to quantize should also be diminishing,otherwise the number of bits may explode.To avoid explosion, we choose to quantize on gradient difference instead of gradient. The intuition is that $\| \nabla f _ { i } ( w _ { t + 1 } ) - \nabla f _ { i } ( w _ { t } ) \| \leq L \| w _ { t + 1 } - w _ { t } \|$ who goes to zero as the iterate sequence converges.Finaly,to save the communication in broadcasting，we perform quantization both on the computation nodes and the center node,i.e.“double encoding".We name our general quantization scheme as Double Encoding and Error Diminishing (DEED).
+
+Based on the general quantization scheme DEED,we introduce algorithms for three common settings in distributed optimization for Problem (1): frequent-communication large-memory,frequent-communication small-memory,and infrequent-communication. Frequent-communication means the every computing node communicates with the center node after every update,while this is not the case in infrequent-communication. In large-memory setting,each local server $f _ { i }$ has enough memory to hold its data and use them to compute the full-batch gradient of $f _ { i }$ . In limited memory setting(e.g. only one GPU is available in computing) that each server is only able to compute the stochastic gradients since the data cannot be fit into one server.
+
+# 3.1 Frequent-communication large-memory setting
+
+We distinguish the large-memory setting and small-memory setting for the following reasons.
+
+First,from a practical side, different system designers have different memory budget.Some big companies can perform computation using 10,000+ GPUs or CPUs (e.g.[26-28l), while most researchers and companies can only use few GPUs or a moderate number of CPUs. The problems they are facing are indeed different, since in large-memory setting we can implement full-batch GD $^ 4$ (or large-batch SGD which are quite close to full-batch GD).Note that “large” is arelative term; if the system designer has only 10 CPUs or even 2 GPUs,but alldatacan be loaded into the memory of these machines,then this is also a large-memory setting. In a smal-memory setting,we can only load a mini-batch of the dataset into one machine at a time.This necessitates the usage of Stochastic Gradient Descent (SGD).
+
+Second,from a theoretical side,quantized gradient methods should be no better than gradient methods that utilize infnite-bandwidth.To judge the performance of quantized gradient methods,one useful metric is the gap between quantized methods and their non-quantized counter-parts. It is impossible to prove linear convergence of quantized SGD in the limited-memory seting without further assumptions,since even with infinite bandwidth SGD cannot achieve linear convergence rate [29]. In contrast,with infinite bandwidth GD can achieve linear convergence rate. Due to diferent upper limits,large-memory and small-memory settings should be treated separately.
+
+The frequent-communication large-memory version of DEED is described in Algorithm 1.
+
+<html><body><table><tr><td>Algorithm 1:Double Encoding and Error Diminishing Gradient Descent (DEED-GD)</td></tr><tr><td>Initialization: Each server i∈[N] holds wo = si_1 = U-1 = 0, server O holds U-1 = 0, k = 0;</td></tr><tr><td>Hyper-parameters: n ∈ (0, ²], c=1- nμ, c′ ∈ (c,1); parameter s ∈ R+;</td></tr><tr><td>while the precision is not enough do</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>fori∈[N] do server i computes gi. = Vfi(wk);</td></tr><tr><td>server i does quantization d = Q(gi-s 2 sc/k+</td></tr><tr><td> server i updates s² = d + s-1;</td></tr><tr><td></td></tr><tr><td>server i send dk to server O;</td></tr><tr><td>end N</td></tr><tr><td>server O computes Sk = N∑ dk + Sk-1; server O does quantization uk = Q(sk - Uk-1, sc'k+1</td></tr></table></body></html>
+
+# 3.2 Frequent-communication small-memory
+
+Now we consider the small-memory setting with frequent-communication.As mentioned earlier, without extra assumptions,it is impossible to prove linear convergence rate of vanilla SGD.
+
+There are two lines of research that can prove linear convergence of SGD-type methods. Along the first line,a few variance-reduction based methods such as SVRG [30],SAGA [31] and SDCA [32] canachieve linear convergence. Along the second line, with extra assumption such as WGC (Weak Growth Condition), vanill SGD with constant stepsize can alreadyachievelinear convergence [21]. This line of research is strongly motivated by the interpolation assumption in machine learning that the learner can fit the data, which is considered a reasonable assumption in recent literature (e.g. [21,33l). Therefore,we focus on designing quantization algorithms along the second line.
+
+$$
+\begin{array} { r l } & { \mathbf { 4 s s u m p t i o n ~ 3 . 1 . ~ } ( W G C ~ A s s u m p t i o n ~ / 2 . 1 / J ) S u p p o s e ~ f : \mathbb { R } ^ { d }  \mathbb { R } , f ( x ) = \frac { 1 } { N } \displaystyle \sum _ { i = 1 } ^ { N } f _ { i } ( w ) ~ i s ~ t h e ~ o b j } \\ & { \mathbf { \hat { \gamma } t o c h a s t i c ~ \hat { \gamma } t u n c t i o n s ^ { \prime } ( a l g o r i t h m s ) ~ \hat {  \mathbb { V } _ { i }  } _ { i \in [ N ] } ~ s a t i s f y ~ W G C ~ i f ~ } t ) \mathbb { E } [ \overline { { \nabla _ { i } } } ( f _ { i } , w ) ] = \nabla f _ { i } ( w ) , \ : \forall i \in [ N ] , } \\ & { \frac { 1 } { N } \displaystyle \sum _ { i = 1 } ^ { N } \mathbb { E } _ { \overline { { \nabla _ { i } } } } [ | | \overline { { \nabla } } _ { i } f _ { i } ( w ) | | ^ { 2 } ] \leq 2 \rho L ( f ( w ) - f ( w ^ { * } ) ) . } \end{array}
+$$
+
+To adapt the frequent-communication smal-memory, we introduce DEED-SGD.The only differences between DEED-GD and DEED-SGD are 1） we use $\nabla _ { i }$ instead of the accurate gradient; 2） we use different quantization level. The full description of DEED-SGD is given in the appendix.
+
+# 3.3 Infrequent-communication
+
+A main area in distributed optimization with infrequent-communication is Federated Learning (FL), which involves training models over remote devices or data centers,such as mobile phones or hospitals,and keeping the data localized due to privacy concern or communication effciency [17,34].In FL,some computation nodes might no have full participation in the updates and the data sets are non-iid.We remark that infrequentcommunication is a generic design choice,and can be used in a data-center seting as well. Although existing works like QSGDdo not explore this degree of freedom,infrequent communication can be combined with QSGD as well. Nevertheless,the theoretical benefit of the combination was not understood before (partially because the total number of bits was not a focus of previous works,and linear convergence rate was derived only recently [19]).
+
+A classical algorithm in FL is Federated Averaging algorithm (FedAvg) which performs local stochastic gradient descent on computation nodes for every $E$ iterations with a server that performs model averaging [15]. Although there have been much eforts developing convergence guarantees for FedAvg, [35-41], there is relatively scarce theoretical results on the combination ofFedAvg and quantization [22,38]. [22,38] either make unrealistic assumptions or only perform quantization on computation nodes,and thus they are not efficient as our double encoding scheme.
+
+We propose an algorithm called DEED-Fed. The difference between DEED-GD and DEED-Fed is that in FEED-Fed, the maximal error at iteration $k$ is proportional to learning rate $\eta _ { k }$ . Due to space limitation, a detailed comparison between the three proposed algorithms are given in the appendix.
+
+# 3.4 Theoretical Analysis
+
+In this section, we give the computational and communication complexity of the algorithms DEED-GD, DEED-SGD and DEED-Fed. Since allof them are in the same framework,their proofs and results are similar.
+
+We put it into one single theorem.
+
+Theorem 3.2. Consider soluing Problem (1) under one of the three settings by the corresponding algorithms (DEED-GD, DEED-SGD or DEED-Fed). Assume $f _ { i }$ is $L$ -smooth and $f$ is $\mu$ convex. Assume all $f _ { i }$ 's are $\mu$ （204号 convex in DEED-Fed.Denote $w _ { t }$ as the iterate at iteration $t$ and $w ^ { * }$ is the optimal solution of Problem (1).
+
+For DEED-GD,wechosetheleaing rate $\begin{array} { r } { \eta _ { t } \equiv \eta = \frac { 2 } { L + \mu } } \end{array}$ ， $c : = 1 - \eta \mu$ ， $c < c ^ { \prime } < 1$ ， and the maximal error at iteration $t$ is $s c ^ { \prime ^ { t + 1 } } / 2$ where $s$ is the quantization level.
+
+For DEED-SGD, we assume (Weakth Growth Condition) WGC is satisfied for approximate gradient $\overline { { \nabla } } _ { i }$ （204号 for every $f _ { i }$ with parameter $\rho$ . We choose the learning rate $\begin{array} { r } { \eta _ { t } \equiv \eta = \frac { 1 } { \rho L } } \end{array}$ ， $c : = 1 - \eta \mu$ ， $c < c ^ { \prime } < 1$ ，and the maximal error at iteration t is $\sqrt { { s { c } ^ { \prime } { } ^ { k + 1 } } } / 2$ and the error is unbiased.
+
+For DEED-Fed, we choose the learning rate $\begin{array} { r } { \eta _ { t } : = \frac { \beta } { t + \gamma } } \end{array}$ for some $\begin{array} { r } { \beta > \frac { 1 } { \mu } } \end{array}$ ， $\gamma > 1$ such that $\begin{array} { r } { \eta _ { 0 } \le \frac { 1 } { 4 L } } \end{array}$ and $\eta _ { t } \leq 2 \eta _ { t + E }$ . Let the maximal error at iteration $t \in \{ 0 , E , 2 E , \cdot \cdot \cdot \}$ be $s \eta _ { t }$ ：
+
+We have the following results:
+
+DEED-GD communicates $\tilde { O } ( N d )$ bits at iteration $t \geq 1$ ，and
+
+$$
+\left. w _ { t } - w ^ { * } \right. \leq ( c ^ { \prime } ) ^ { t } \left( \operatorname* { m a x } \left\{ 0 , \left. w _ { 0 } - w ^ { * } \right. - \frac { c \eta s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta s } { c ^ { \prime } - c } \right) .
+$$
+
+DEED-SGD communicates $\tilde { O } ( N d )$ bits at iteration $t \geq 1$ ，and
+
+$$
+\mathbb { E } \Vert w _ { t } - w ^ { * } \Vert ^ { 2 } \leq ( c ^ { \prime } ) ^ { t } \left( \operatorname* { m a x } \left\{ 0 , \Vert w _ { 0 } - w ^ { * } \Vert ^ { 2 } - \frac { c \eta ^ { 2 } s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta ^ { 2 } s } { c ^ { \prime } - c } \right) .
+$$
+
+DEED-Fed communicates $\tilde { O } ( N d )$ bits at iteration $t \in \{ E , 2 E , \cdot \cdot \cdot \}$ ，and
+
+$$
+\mathbb { E } \Vert \overline { { w } } _ { t } - w ^ { * } \Vert ^ { 2 } \leq \frac { v } { \gamma + t } ,
+$$
+
+where v is some constant dependent on the Federated learning setings (e.g. full participant or not) as well as the the initial error $\| w _ { 0 } - w ^ { * } \| ^ { 2 }$
+
+Remark 1: Based on these results,we can easily compute the total number of bits needed to achieve a ertain accuracy; see Table 1 and Table 2.
+
+Remark 2: Our result allows to trade-off communication time and computation time.By changing the parameters $c ^ { \prime }$ and $s$ , we can find optimal choice of convergence speed and error size.
+
+Theorem 3.2 implies that to achieve $\| w _ { T } - w ^ { * } \| \leq \varepsilon$ ，we need $\begin{array} { r } { \tilde { O } ( \kappa \log \frac { 1 } { \varepsilon } ) } \end{array}$ iterations for DEED-GD and DEED-SGD and $\begin{array} { r } { O ( \frac { 1 } { \varepsilon ^ { 2 } } ) } \end{array}$ iterations for DEED-Fed. These convergence rates match those of the corresponding algorithms with infinite bandwidth.Due to space limitation,we eliminate the detailed definitions of some constants in Theorem 3.2 and we will provide the details in the appendix.
+
+# 4Quantization of Nesterov acceleration
+
+In frequent-communication large-memory seting,we combine Nesterov's acceleration with our quantization scheme DEED.The accelerating algorithm is very similar to Algorithm 1.The only diffrence between Algorithm 1 and this accelerated version is that we add momentum in the final update step. The full description of the algorithm is given in the appendix.
+
+![](images/f88147d07ac3e781e1fd7762e475f237335c8caa2b2929ed236637696cda128d.jpg)  
+Figure 1: Compare our algorithms with other works on Linear Regression Problem.
+
+Theorem 4.1. Consider soluing Problem 1 by Algorithm A-DEED-GD and assume each $f _ { i }$ is $L$ -smooth and $f$ is $\mu$ -strongly convex . Let the learning rate $\begin{array} { r } { \eta = \frac { 1 } { L } } \end{array}$ ， the constant $c : = { \sqrt { 1 - { \sqrt { \frac { \mu } { L } } } } }$ such that $c < c ^ { \prime } < 1$ ， and we do quantization with maximal error $s c ^ { \prime ^ { k + 1 } } / 2$ at every iteration $k$ . Then we have:
+
+$$
+\begin{array} { r l } & { | \| x _ { k } - x ^ { * } \| \leq \sqrt { \frac { 2 } { \mu } } \cdot c ^ { \prime } ^ { k } \cdot \sqrt { \Delta / \gamma ^ { 2 k } + C } , w h e r e \ C = \beta _ { s } ^ { 2 } + \alpha _ { s } + \beta \sqrt { \alpha _ { s } } - \Delta , \alpha _ { s } = \frac { s ^ { 2 } } { L ( \gamma ^ { 2 } - 1 ) } } \\ & { ( \frac { 3 \sqrt { \frac { 2 } { L } } + 5 \sqrt { \frac { 2 } { \mu } } } { c ( \gamma ^ { 2 } - 1 ) } ) s \gamma , \gamma = c / c > 1 . } \end{array}
+$$
+
+(2）The number of bits at iteration $k \geq 1$ is $O \left( N d \right)$
+
+Theorem 4.1 implies that we can improve the linear convergence rate in frequent-communication largememory setting from $O ( \kappa )$ to $O ( { \sqrt { \kappa } } )$ with acceleration trick,where $\kappa$ is the condition number of the objective function. This also provides a fewer total number of bits in communication.
+
+Remark 1: We separate algorithm A-DEED-GD out from previous three algorithms because we cannot directly use theorem 2.4 due to the momentum.But the intuition and technique are very similar.Hence we put it in the DEED series.
+
+Remark 2: We noticed an independent work [23] which also proved an accelerated rate,but difers from our work in the following aspects.First,their encoding scheme is a non-trivial combination of the Nesterov's momentum and DIANA (which is why a separate paper is written),while our combination is rather straightforward. Second,their bound has an extra constant dependent on the communication scheme (can be $N$ or number of encoding bits) while our bound does not.Third,our work aims to develop a general framework,and acceleration is just one case; while their work focused on acceleration in large-memory frequent-communication setting.
+
+# 5 Experiment
+
+Linear regression. We empirically validate our approach on linear regression problem as shown in Figure 1. The solid lines correspond to gradient descent type of algorithms and the dashed lines correspond to the accelerated versions.In the left fgure,the curves ofour method coincide with thecurves of the un-quantized baseline methods (GD and A-GD). QSGD performs the worst since it uses constant error. In the right figure,our accelerated method achieves high-accuracy solution with the fewest number of bits,and another state-of-art algorithm takes more than 6 times of bits than ours to reach the same accuracy. Even without acceleration,our algorithm (DEED-GD) takes fewer bits than A-DIANA. Overal, our algorithms save the most number of bits in communication without scarifying the convergence speed.
+
+Image Classification. We also compare our algorithm with other state-of-art algorithms (e.g. QSGD, TernGrad, DoubleSqueeze, DIANA) on image clasification tasks on MNIST data set [42]. The results still show that our algorithms outperform others both in terms of convergence speed and communication complexity. The details of the two experiments are provided in the appendix.
+
+# 6 Conclusion
+
+In this paper,we provide a general convergence analysis for inexact gradient descent algorithms using absolute errors,that is tailored for quantized gradient methods. Using this general convergence analysis, we derive a quantization scheme named DEED and propose algorithms for three common setings in distributed optimization: frequent-communication large-memory, frequent-communicationsmal-memory,and infrequentcommunication (both large-memory and small-memory included). We also combine DEED with Nesterov's acceleration to provide an accelerated algorithm A-DEED-GD for frequent-communication large-memory, which improves the convergence rate from $O ( \kappa )$ to $O ( \sqrt { \kappa } )$ . Our proposed algorithms converge almost as fast as their non-quantized versions and save communication in terms of bits.We empirically test our algorithms on linear regresson problems and image classification tasks,and find that they use fewer bits than other algorithms.
+
+# AOutline,Definition and Related Work
+
+In the appendix, we first discuss some common definitions and related work. In Section B, we provide the proof appeared in the general convergence analysis in Section 2.In Section C, we give the detailed description of the three algorithms based on our framework DEED.In Section D,we provide the proof of the theorems for DEED in the three settings.In Section F,we illustrate the effciencyofour algorithms in linear regression problem and image classification tasks on MNIST dataest.
+
+Definition A.1. A differentiable function $h : \mathbb { R } ^ { d }  \mathbb { R }$ is $L$ -smooth if $\forall x , y \in \mathbb { R } ^ { d }$
+
+$$
+| h ( y ) - h ( x ) - \langle y - x , \nabla h ( x ) \rangle | \leq \frac { L } { 2 } \| x - y \| ^ { 2 }
+$$
+
+Definition A.2. A differentiable function $f :  { \mathbb { R } ^ { d } } \to  { \mathbb { R } }$ is $\mu$ -strongly-convex if $\forall x , y \in \mathbb { R } ^ { d }$ ，
+
+$$
+f ( y ) - f ( x ) - \langle y - x , \nabla f ( x ) \rangle \geq { \frac { \mu } { 2 } } \| x - y \| ^ { 2 }
+$$
+
+Definition A.3. Suppose $f : \mathbb { R } ^ { d }  \mathbb { R } , f ( w ) : = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } f _ { i } ( w )$ ，where $f _ { i }$ is $L$ -smooth $\forall i \in [ N ]$ and $f$ is $\mu$ -strongly-convex. Then the condition number $\kappa$ of this collection of functions is defined as $\begin{array} { r } { \kappa = \frac { L } { \mu } } \end{array}$ ：
+
+Assumption A.4. Assume that in ( $^ Ḋ \prime 1 Ḍ$ ） $f$ is $\mu$ -strongly-convex and $f _ { i }$ is $L$ -smooth $\forall i \in [ N ]$
+
+Related work. The study of the communication complexity in terms of bits for convex minimization of the problem (1) can be traced back toa classical work [43] in 1987.This work focuses on the two-nodes case for frequent-communication large-memory setting,and proposed a nearly optimal algorithm using quantized gradient differences.For multiple-nodes cases,[19] provides a linear convergence rate also using gradient differences on computing nodes. In frequent-communication smal-memory setting,to save more bits in communication,[24,25] consider double encoding on gradient diferences.In infrequent-communication setting, [22] uses quantized gradient diffrences and proves sublinear convergence rate.Our work is different, as we provide convergence analysis on thre settings for multiple-node cases and use doubling encoding to save more bits.
+
+# BProof of Theorems for General Convergence Analysis
+
+Lemma B.1. Given a set $S = \left\{ x \in \mathbb { R } ^ { d } | \left\| w \right\| _ { 2 } \leq M \right\}$ ， any (random) quantization algorithm that encoding a vector in $S$ by absolute error $\sigma$ takes at least $\left| d \log _ { 2 } { \frac { 1 } { \varepsilon } } \right|$ (in expectation) number of bits, where $\textstyle \epsilon = { \frac { o } { M } }$ .In addition, there exists a (random) algorithm that takes only $\textstyle { \left\lceil 1 . 0 5 d + d \cdot \log _ { 2 } { \frac { 1 + 2 \varepsilon } { \varepsilon } } \right\rceil }$ bits (in expectation).
+
+Proof sketch.For the lower bound, we only need to prove the deterministic version since every random algorithm can be reduced to a deterministic algorithm by fixing $\xi$ . Then it is equivalent to cover $S$ with small balls and proof follows. And we will use constructive method to prove the upper bound.
+
+Proof.We first prove the lower bound. $\forall m \in \mathbf { E } ( S )$ ,construct a ball centered at $\mathbf { D } ( m )$ with radius $\sigma$ . Then all these balls form a cover of $S$ .Otherwise there isa vector $v \in S$ outside the cover and
+
+$$
+\| v - \mathbf { D } ( \mathbf { E } ( v ) ) \| _ { 2 } \geq \operatorname* { m i n } _ { m \in \mathbf { E } ( S ) } \| v - \mathbf { D } ( m ) \| _ { 2 } > \sigma ,
+$$
+
+which contradicts to the assumption
+
+Hence,the sum of the volumes of these small bals is not less than the volume of $S$ . Finally, $\begin{array} { r } { | \mathbf { E } ( S ) | \geq \frac { M ^ { d } } { \sigma ^ { d } } } \end{array}$ follows.
+
+On the other hand, we divide the whole space by cubes with side length $\textstyle { \frac { 2 \sigma } { \sqrt { d } } }$ regularly. Then select the cubes who have non-empty intersection with $S$ . Then every point in $S$ is contained in a cube,which means it can be encoded (unbiasedly） by the vertices of the cube with maximal error $\sigma$ . Then these cubes must be contained in ball $B ( 0 , M + 2 \sigma )$ since the diameter of the cube is $2 \sigma$ . In this case,the number of cubes is at most $\frac { { \frac { \pi ^ { \frac { d } { 2 } } } { \Gamma \left( { \frac { d } { 2 } } + 1 \right) } } \left( M + 2 \sigma \right) ^ { d } } { \left( { \frac { 2 \sigma } { \sqrt { d } } } \right) ^ { d } }$ ,and then the number of bits is at most $\begin{array} { r } { \left\lceil \log _ { 2 } \frac { \pi ^ { \frac { d } { 2 } } } { \Gamma \left( \frac { d } { 2 } + 1 \right) } \left( \frac { ( 1 + 2 \varepsilon ) \sqrt { d } } { 2 \varepsilon } \right) ^ { d } \right\rceil . } \end{array}$
+
+Recall Stirling's formula $\begin{array} { r } { \Gamma ( n + 1 ) \geq \sqrt { 2 \pi n } \left( \frac { n } { e } \right) ^ { n } } \end{array}$ ， we have
+
+$$
+\begin{array} { r c l } { { \log _ { 2 } \displaystyle \frac { \pi ^ { \frac { d } { 2 } } } { \Gamma \left( \frac { d } { 2 } + 1 \right) } \left( \displaystyle \frac { ( 1 + 2 \varepsilon ) \sqrt { d } } { 2 \varepsilon } \right) ^ { d } } } & { { \le } } & { { \log _ { 2 } \displaystyle \frac { \pi ^ { \frac { d } { 2 } } } { \sqrt { \pi d } \left( \frac { d } { 2 \varepsilon } \right) ^ { \frac { d } { 2 } } } \left( \displaystyle \frac { ( 1 + 2 \varepsilon ) \sqrt { d } } { 2 \varepsilon } \right) ^ { \alpha } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { = } } & { { d \cdot \log _ { 2 } \displaystyle \frac { \sqrt { 2 \pi e } } { ( \pi d ) ^ { \frac { 1 } { 2 \alpha ^ { 2 } } } } \displaystyle \frac { 1 + 2 \varepsilon } { 2 \varepsilon } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { \le } } & { { d \cdot \log _ { 2 } \sqrt { \displaystyle \frac { \pi e } { 2 } } \displaystyle \frac { 1 + 2 \varepsilon } { \varepsilon } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { \le } } & { { 1 . 0 5 d + d \cdot \log _ { 2 } \displaystyle \frac { 1 + 2 \varepsilon } { \varepsilon } . } } \end{array}
+$$
+
+Theorem B.2. Suppose Assumption 2.3 holds and $\{ w _ { t } \}$ is a sequence generated by
+
+$$
+w _ { t + 1 } = F _ { t } ( w _ { t } ) + e _ { t } ,
+$$
+
+for some chosen initial value $w _ { 0 }$ and $e _ { t }$ is a zero-mean random noise depending on the (iteration) history and is bounded by $\alpha _ { t }$ . Define series $C _ { k } ^ { 2 } = \sum _ { i = 0 } ^ { k - 1 } \alpha _ { i } ^ { 2 } \prod _ { j = i + 1 } ^ { k - 1 } c _ { j } ^ { 2 }$ and $D _ { k } ^ { 2 } = \prod _ { i = 0 } ^ { k - 1 } c _ { i } ^ { 2 }$ . Then we have
+
+$$
+\begin{array} { r } { \mathbb { E } \left[ \| w _ { T } - w ^ { * } \| ^ { 2 } \right] \leq D _ { T } ^ { 2 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { T } ^ { 2 } . } \end{array}
+$$
+
+In addition, there exists functions series $\{ F _ { i } \} _ { i \ge 0 }$ and noise $\{ e _ { t } \} _ { t \ge 0 }$ to make the inequality hold. Besides, if we suppose the sequence of the Lipschitz constants $\{ c _ { i } \}$ is non-decreasing, then the right hand side of (7) converges linearly if and only if all $c _ { t }$ 's are always bounded above by a constant $c < 1$ and $\alpha _ { t }$ converges to $\boldsymbol { \mathit { 0 } }$ （204号 linearly.
+
+Proof. The inequality(7) is straightforward.
+
+$$
+\begin{array} { r c l } { \mathbb { E } \left[ \| w _ { t + 1 } - w ^ { * } \| ^ { 2 } | w _ { t } \right] } & { = } & { \mathbb { E } \left[ \| F _ { t } ( w _ { t } ) + e _ { t } - w ^ { * } \| ^ { 2 } | w _ { T - 1 } \right] } \\ & { = } & { \mathbb { E } \left[ \| F _ { t } ( w _ { t } ) - w ^ { * } \| ^ { 2 } | w _ { T - 1 } \right] + \alpha _ { t } ^ { 2 } } \\ & { \leq } & { c _ { t } ^ { 2 } \| w _ { t } - w ^ { * } \| ^ { 2 } + \alpha _ { t } ^ { 2 } . } \end{array}
+$$
+
+Then we can prove inequality(7) by mathematical induction. For $T = 0$ ,we have $\lVert w _ { 0 } - w ^ { * } \rVert ^ { 2 } \equiv \lVert w _ { 0 } - w ^ { * } \rVert ^ { 2 }$ （20 Suppose it holds for $T \leq k$ ，we have
+
+$$
+\begin{array} { r c l } { \mathbb { E } \| w _ { k + 1 } - w ^ { * } \| ^ { 2 } } & { \leq } & { c _ { k } ^ { 2 } \mathbb { E } \| w _ { k } - w ^ { * } \| ^ { 2 } + \alpha _ { k } ^ { 2 } } \\ & { \leq } & { c _ { k } ^ { 2 } \left( D _ { k } ^ { 2 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { k } ^ { 2 } \right) + \alpha _ { k } ^ { 2 } } \end{array}
+$$
+
+$$
+\begin{array} { r l } { = } & { { } D _ { k + 1 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { k + 1 } ^ { 2 } . } \end{array}
+$$
+
+The inductions succeed.
+
+Next, we define $F _ { t } ( x ) : = c _ { t } x$ . Given history $\{ w _ { 0 } , w _ { 2 } , \cdot , w _ { t } \}$ , we assign $\overline { { e } } _ { t }$ as an arbitrary vector orthogonal to $F _ { t } ( w _ { t } ) - w ^ { * }$ with length $\alpha _ { t }$ . Define $e _ { t } = { \overline { { e } } } _ { t }$ with probability $\frac { 1 } { 2 }$ ,and $e _ { t } = - \overline { { e } } _ { t }$ otherwise. In this case, we always have
+
+$$
+\| w _ { t + 1 } - w ^ { * } \| ^ { 2 } = c _ { t } ^ { 2 } \| w _ { t } - w ^ { * } \| ^ { 2 } + \alpha _ { t } ^ { 2 } ,
+$$
+
+and
+
+$$
+\| w _ { k + 1 } - w ^ { * } \| ^ { 2 } = D _ { k + 1 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { k + 1 } ^ { 2 }
+$$
+
+follows.
+
+Finally, suppose the sequence of the Lipschitz constants $\left\{ c _ { i } \right\}$ is non-decreasing · Necessity. Suppose there exists constant $C , M > 0$ and $c \in ( 0 , 1 )$ such that $D _ { T } ^ { 2 } \| w _ { 0 } - w ^ { * } \| ^ { 2 } + C _ { T } ^ { 2 } \leq C c ^ { T }$ （204号 $\forall T \geq M$ ： We firstly prove a lemma.
+
+Lemma B.3. The function $g ( x ) : = \frac { \ln \frac { 1 } { 1 - x } } { x }$ is increasing on $( 0 , 1 )$ 车
+
+Proof. ∀x ∈ (0,1), we have g(x)= + $g ^ { \prime } ( x ) = { \frac { { \frac { x } { 1 - x } } + { \frac { \ln { \frac { 1 } { 1 - x } } } { x ^ { 2 } } } } { x ^ { 2 } } } > 0$
+
+Recall $c _ { t } \ \geq \ c _ { 0 }$ ， $\forall t \geq 0$ , we have $\frac { \ln \frac { 1 } { c _ { t } } } { 1 - c _ { t } } \ \leq \ \frac { \ln \frac { 1 } { c _ { 0 } } } { 1 - c _ { 0 } }$ i.e. $\begin{array} { r } { \ln \frac { 1 } { c _ { t } } \le C _ { 0 } ( 1 - c _ { t } ) } \end{array}$ where $\begin{array} { r } { C _ { 0 } : = \frac { \ln \frac { 1 } { c _ { 0 } } } { 1 - c _ { 0 } } } \end{array}$ Because $\begin{array} { r } { D _ { T } ^ { 2 } \leq \frac { C } { \| w _ { 0 } - w ^ { * } \| ^ { 2 } } c ^ { T } } \end{array}$ , we have $\begin{array} { r } { \sum _ { i = 0 } ^ { T - 1 } 2 \ln \frac { 1 } { c _ { i } } \geq \ln \frac { \| w _ { 0 } - w ^ { * } \| ^ { 2 } } { C } + T \ln \frac { 1 } { c } } \end{array}$ . Moreover, $2 C _ { 0 } \sum _ { i = 0 } ^ { T - 1 } ( 1 - c _ { i } ) \geq \ln \frac { \Vert w _ { 0 } - w ^ { * } \Vert ^ { 2 } } { C } +$ （204号 $T \ln { \frac { 1 } { c } }$ . This suggests $\forall k \geq 0 , \operatorname* { l i m } _ { T \to \infty } \frac { \sum _ { i = k } ^ { T - 1 } ( 1 - c _ { i } ) } { T } \geq \frac { \ln \frac { 1 } { c } } { 2 C _ { 0 } }$ ， and $\begin{array} { r } { 1 - c _ { k } \ge \frac { \ln \frac 1 c } { 2 C _ { 0 } } } \end{array}$ n follows. On the other hand, （204号 $C c ^ { T } \geq C _ { T } ^ { 2 } \geq \alpha _ { T - 1 } ^ { 2 }$ . Hence, $c _ { i }$ is bounded by $c : = 1 - \textstyle \frac { \ln { \frac { 1 } { c } } } { 2 C _ { 0 } }$ 2 and αi diminishes exponentially.
+
+· Suffciency. Suppose $c _ { i } \leq c < 1 , \forall i \geq 0$ and $\alpha _ { t } \leq C \alpha ^ { t } , \forall t \geq M$ for constant $C > 0 , M \geq 0$ . Without loss of generality, we assume $M = 0$ . We only need to prove $D _ { k }$ and $C _ { k }$ diminish exponentially separately. It is trivial for $D _ { k }$ .For $C _ { k }$ , we have $C _ { k } ^ { 2 } : = C _ { k } ^ { 2 } = \sum _ { i = 0 } ^ { k - 1 } \alpha _ { i } ^ { 2 } \prod _ { j = i + 1 } ^ { k - 1 } c _ { j } ^ { 2 } \le C k \beta ^ { k }$ where $\beta = \operatorname* { m a x } \{ c , \alpha \}$ . Then （20 $C _ { k }$ diminishes exponentially since $C k \beta ^ { k } \leq \beta ^ { \frac { k } { 2 } }$ for sufficient large $k$
+
+# C Algorithms
+
+# C.1 DEED-GD
+
+The pseudo-code of DEED-GD is given in Algorithm 1.
+
+# C.2 DEED-SGD
+
+The algorithm of DEED-SGD is given below (algorithm 2). As we promised previously, there are only two differences between DEED-GD and DEED-SGD.
+
+· In line 5,we use approximate gradient $\overline { { \nabla } } _ { i }$ instead of gradient $\nabla$ ：   
+· In line 2, line 6 and line 11,we use different $\eta$ ， $c$ and $c ^ { \prime }$ . And the maximal error in quantization is changed.
+
+1:Initialization:Each server $i \in \lfloor N \rfloor$ holds $w _ { 0 } = s _ { - 1 } ^ { \imath } = v _ { - 1 } = 0$ ， server $0$ holds $v _ { - 1 } = 0$ ， $k = 0$   
+2 $\begin{array} { r } { \eta = \frac { 1 } { \rho L } } \end{array}$ ， $\begin{array} { r } { c = 1 - \frac { \mu } { \rho L } } \end{array}$ ， $c < c ^ { \prime } < 1$ and $s \in \mathbb { R } _ { + }$ is the quantization level;   
+3:while the precision is not enough do   
+4: for $i \in [ N ]$ do   
+5: server $i$ computes $g _ { k } ^ { i } = \overline { { \nabla } } _ { i } f _ { i } ( x _ { k } )$ ，   
+6: server $i$ does quantization $d _ { k } ^ { i } = Q ( g _ { k } ^ { i } - s _ { k - 1 } ^ { i } , \sqrt { s c ^ { \prime } { } ^ { k + 1 } } / 2 )$ ，   
+7: server $i$ updates $s _ { k } ^ { i } = d _ { k } ^ { i } + s _ { k - 1 } ^ { i }$ ，   
+8: server $i$ send $d _ { k } ^ { i }$ to server $0$ ，   
+9: end for   
+10: server 0 computes $\boldsymbol s _ { k } = \frac { _ 1 } { N } \sum _ { i = 1 } ^ { N } d _ { k } ^ { i } + \boldsymbol s _ { k - 1 }$   
+11: server 0 does quantization $u _ { k } = Q ( s _ { k } - v _ { k - 1 } , \sqrt { s c ^ { \prime } { } ^ { k + 1 } } / 2 )$   
+12: server O sends $u _ { k }$ to server $i , \forall i \in [ N ]$   
+13: server O updates $v _ { k } = u _ { k } + v _ { k - 1 }$   
+14: for $i \in [ N ]$ do   
+15: server $i$ updates $v _ { k } = u _ { k } + v _ { k - 1 }$   
+16: server $i$ updates $w _ { k + 1 } = w _ { k } - \eta v _ { k }$ ：   
+17: end for   
+18: （20 $k = k + 1$   
+19: end while
+
+# C.3 DEED-Fed
+
+We first introduce the original FedAvg algorithm.Define $F ( w ) : = \sum _ { i = 1 } ^ { N } p _ { i } F _ { i } ( w )$ where $F _ { i }$ 's are $\mu$ -convex and $L$ -smooth functions defined on $\mathbb { R } ^ { d }$ and $p _ { i } \ge 0 , \sum _ { i = 1 } ^ { N } p _ { i } = 1$ . In each round, say round $k \geq 0$ , the center server sends weight $w _ { t E }$ to $N$ slave nodes, and the $k ^ { \mathrm { t h } }$ slave nodes performs $E$ local updates (for $i$ in $\{ 0 , 1 , \cdot , E - 1 \} )$ ：
+
+$$
+\begin{array} { r } { w _ { t E + i + 1 } ^ { k } = w _ { t E + i } ^ { k } - \eta _ { t E + i } \nabla F _ { k } ( w _ { t E + i } ^ { k } , \xi _ { t E + i } ^ { k } ) . } \end{array}
+$$
+
+Finally, in full participant setting,all slave nodes sends their final weights to the center server,and
+
+center server computes
+
+$$
+w _ { ( t + 1 ) E } : = \sum _ { i = 1 } ^ { N } p _ { i } w _ { ( t + 1 ) E } ^ { i } .
+$$
+
+For partial participant setting, not all slave nodes stay active in each round. Here are two more detailed settings.
+
+1）In setting 1,we defined a set $S _ { t + 1 }$ of $K$ indices selected randomly with replacement from $[ N ]$ with probability distribution $( p _ { 1 } , \cdots , p _ { N } )$ . Then the center server updates
+
+$$
+w _ { ( t + 1 ) E } : = \frac { 1 } { K } \sum _ { i \in S _ { t + 1 } } w _ { ( t + 1 ) E } ^ { i } .
+$$
+
+2)In setting 2,we defined a set $S _ { t + 1 }$ of $K$ indices selected evenly and randomly without replacement from $[ N ]$ . Then the center server updates
+
+$$
+w _ { ( t + 1 ) E } : = \frac { N } { K } \sum _ { i \in S _ { t + 1 } } p _ { i } w _ { ( t + 1 ) E } ^ { i } .
+$$
+
+Except the assumption of smoothness and convexity, there are two more assumptions.
+
+Assumption C.1. Let $\xi _ { t } ^ { k }$ be sampled from the $k ^ { t h }$ device's local data uniformly at random. The variance of stochastic gradients in each device is bounded: $\mathbb { E } \| \nabla F _ { k } ( w _ { t } ^ { k } , \xi _ { t } ^ { k } ) - \nabla F _ { k } ( w _ { t } ^ { k } ) \| ^ { 2 } \le \sigma _ { k } ^ { 2 }$
+
+Assumption C.2. The expected squared norm of stochastic gradients is uniformly bounded， i.e. $\mathbb { E } \| \nabla F _ { k } ( w _ { t } ^ { k } , \xi _ { t } ^ { k } ) \| ^ { 2 } \leq G ^ { 2 }$ ：
+
+Based on these two assumptions, their theorems said
+
+Theorem C.3. With the algorithm above, we have
+
+$$
+\begin{array} { r } { \mathbb { E } \| \overline { { w } } _ { t + 1 } - w ^ { * } \| ^ { 2 } \leq ( 1 - \eta _ { t } \mu ) \mathbb { E } \| \overline { { w } } _ { t } - w ^ { * } \| ^ { 2 } + \eta _ { t } ^ { 2 } ( B + C ) , } \end{array}
+$$
+
+where $B = \sum _ { k = 1 } ^ { N } p _ { k } ^ { 2 } \sigma _ { k } ^ { 2 } + 6 L \Gamma + 8 ( E - 1 ) ^ { 2 } G ^ { 2 }$ ，and $C$ is a constant depending on different setting. In full participant setting, $C = 0$ . In partial participant setting 1, $\begin{array} { r } { C = \frac { 4 } { K } E ^ { 2 } G ^ { 2 } } \end{array}$ ， and in partial participant setting 2, $\begin{array} { r } { C = \frac { N - K } { N - 1 } \frac { 4 } { K } E ^ { 2 } G ^ { 2 } } \end{array}$
+
+The algorithm DEED-Fed is a simple combination of DEED-GD and Federated Averaging algorithms Algorithm 3 is the pseudo-code of fully-participant setting.
+
+To change algorithm 3 into partial participant versions,we only need to replace $[ N ]$ by set $S$ in line 9 and change the summation in line 14 into (8) or (9) correspondingly.
+
+# D Theorems for DEED in Three Settings
+
+In this section,we restate the theorem 3.2 separately and give proof separately, too.
+
+1:Initialization:Each server $i \in \lfloor N \rfloor$ holds $w _ { 0 } = s _ { - E } ^ { \imath } = v _ { - E } = 0$ ，server O holds $v _ { - E } = 0$ ， $k = 0$   
+2: Hyper-parameters: $\eta _ { k } \in \mathbb { R } _ { + }$ ， parameter $s \in \mathbb { R } _ { + }$   
+3:while the precision is not enough do   
+4: for $i \in [ N ]$ do   
+5: （20 $w _ { k + 1 } ^ { i } = w _ { k } ^ { i } - \eta _ { k } \nabla f _ { i } ( w _ { k } ^ { i } , \xi _ { k } ^ { i } ) ;$ （20   
+6: k=k+1;   
+7: end for   
+8: if $| E | k$ then   
+9: for $i \in [ N ]$ do   
+10: server $i$ does quantization $\begin{array} { r } { d _ { k } ^ { i } = Q ( w _ { k } ^ { i } - s _ { k - E } ^ { i } , \frac { s \eta _ { k } } { 2 } ) } \end{array}$ ；   
+11: server $i$ updates $s _ { k } ^ { i } = d _ { k } ^ { i } + s _ { k - E } ^ { i }$   
+12: server $i$ send $d _ { k } ^ { i }$ to server 0;   
+13: end for   
+14: server 0 computes $s _ { k } = \sum _ { i = 1 } ^ { N } p _ { i } d _ { k } ^ { i } + s _ { k - E }$   
+15: server O does quantization $\begin{array} { r } { u _ { k } = Q ( s _ { k } - v _ { k - E } , \frac { s \eta _ { k } } { 2 } ) } \end{array}$   
+16: server O sends $u _ { k }$ to server $i , \forall i \in [ N ]$ ，   
+17: server O updates $\boldsymbol { v } _ { k } = \boldsymbol { u } _ { k } + \boldsymbol { v } _ { k - E }$ ，   
+18: for $i \in [ N ]$ do   
+19: server $i$ updates $\boldsymbol { v } _ { k } = \boldsymbol { u } _ { k } + \boldsymbol { v } _ { k - E }$   
+20: server $i$ updates $w _ { k } = v _ { k }$   
+21: end for   
+22: end if   
+23:end while
+
+# D.1 Proof for DEED-GD
+
+Theorem D.1. In algorithm 1,wechoose the learning rate $\begin{array} { r } { \eta _ { t } \equiv \eta = \frac { 2 } { L + \mu } } \end{array}$ ， $c : = 1 - \eta \mu$ ， $c < c ^ { \prime } < 1$ ， and the maximal error at iteration $t$ is $s c ^ { \prime ^ { t + 1 } } / 2$ where s is the quantization level. Then algorithm $\mathit { 1 }$ communicates $\ddot { O } ( N d )$ bits at iteration $t \geq 1$ ，and
+
+$$
+\left. w _ { t } - w ^ { * } \right. \leq ( c ^ { \prime } ) ^ { t } \left( \operatorname* { m a x } \left\{ 0 , \left. w _ { 0 } - w ^ { * } \right. - \frac { c \eta s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta s } { c ^ { \prime } - c } \right) .
+$$
+
+Proof sketch. First of all,according to mathematical induction and triangle inequality, we se that the effective at iteration $t$ is bounded by $\eta \cdot { s c ^ { \prime } } ^ { t + 1 }$ . Besides,consider the function $F _ { t } ( w ) \equiv F ( w ) : = w - \eta \nabla f ( w )$ ： Because $f$ is $L$ -smooth and $\mu$ -convex， we know that $F$ is $( 1 - \eta \mu )$ -Lipschitz with fixed point $w ^ { * }$ . Then, according to our framework, we can prove that $\lVert \boldsymbol { w } _ { t } - \boldsymbol { w } ^ { * } \rVert$ converges at speed $c ^ { \prime }$ . This is exactly (10).
+
+To bound the number of bits produced by each communication, we only need to prove that $\| g _ { t } ^ { i } - s _ { t - 1 } ^ { i } \| =$ （204号 $\Theta ( c ^ { \prime } ^ { t } )$ and $\| s _ { t } - v _ { t - 1 } \| = \Theta ( { c ^ { \prime } } ^ { t } ) \forall i \in [ N ]$ because of lemma 2.2.
+
+Notice that these two norms are all close to $L \| w _ { t } - w _ { t - 1 } \|$ ，and $\lVert \boldsymbol { w } _ { t } - \boldsymbol { w } _ { t - 1 } \rVert$ can be bounded by $\| w _ { t } - w ^ { * } \| + \| w ^ { * } - w _ { t - 1 } \|$ which are also $\Theta ( c ^ { \prime } ^ { t } )$ by(10) and everything's done. In our real proof, we will bound these terms carefully to give a tighter bound.
+
+Proof.First of all, we can give a deterministic version of theorem 2.4 as we promised below theorem 2.4.
+
+Proposition D.2. Suppose $F : \mathbb { R } ^ { d }  \mathbb { R } ^ { d }$ is a continuous function with Lipschitz constant $c < 1$ . Define a sequence $\{ e _ { i } \} _ { i \ge 1 }$ in $\mathbb { R } ^ { d }$ satisfies $\| e _ { i } \| \le \eta s c ^ { \prime } { } ^ { i }$ where $c < c ^ { \prime } < 1$ . Then $\forall x _ { 0 } \in \mathbb { R } ^ { d }$ , the sequence constructed by $x _ { t + 1 } = F ( x _ { t } ) + e _ { t + 1 }$ satisfes $\begin{array} { r } { D ( x _ { t } ) \le c ^ { \prime } { } ^ { t } \left( \operatorname* { m a x } \left\{ 0 , D ( x _ { 0 } ) - \frac { c \eta s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta s } { c ^ { \prime } - c } \right) } \end{array}$ where $D ( w ) : = \| w - w ^ { * } \|$ and $w ^ { * }$ （204号 is the fixed point of $F$ ：
+
+Proof. According to definition, we have the following inequalities.
+
+$$
+\begin{array} { r c l } { D ( x _ { k + 1 } ) } & { = } & { D ( F ( x _ { k } ) + e _ { k + 1 } ) } \\ & { \leq } & { D ( F ( x _ { k } ) ) + \| e _ { k + 1 } \| } \\ & { \leq } & { c \cdot D ( x _ { k } ) + \eta s c ^ { \prime } ^ { k + 1 } . } \end{array}
+$$
+
+Hence,
+
+$$
+\begin{array} { r c l } { \displaystyle \frac { D ( x _ { k } ) } { c ^ { k } } } & { \leq } & { \displaystyle \frac { D ( x _ { k - 1 } ) } { c ^ { k - 1 } } + \eta s \left( \frac { c ^ { \prime } } { c } \right) ^ { k } } \\ & { \leq } & { \displaystyle D ( x _ { 0 } ) + \eta s \sum _ { i = 1 } ^ { k } \left( \frac { c ^ { \prime } } { c } \right) ^ { i } } \\ & { = } & { \displaystyle D ( x _ { 0 } ) + \eta s \frac { \left( \frac { c ^ { \prime } } { c } \right) ^ { k + 1 } - 1 } { \frac { c ^ { \prime } } { c } - 1 } } \end{array}
+$$
+
+Finally, we have D(xk) ≤ ck （D（xo）-=c + which is bounded by max 0,D(xo) c'-c cns c'ns c
+
+Then we can prove the inequality (1O). Notice $\nabla F = I - \eta \nabla ^ { 2 } f$ where $\mu I \preceq \nabla ^ { 2 } f \preceq L I$ ，we see $F$ is $c : = 1 - \eta \mu$ Lipschitz.BypropositionD.2weolyd $\| v _ { k } - g _ { k } \| \leq s c ^ { \prime } { } ^ { k + 1 }$ where $g _ { k } = \nabla f ( x _ { k } )$ By induction, we have $s _ { k } - \frac { 1 } { N } \sum _ { i = 1 } ^ { N } s _ { k } ^ { i } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } d _ { k } ^ { i } + s _ { k - 1 } - \frac { 1 } { N } \sum _ { i = 1 } ^ { N } ( d _ { k } ^ { i } + s _ { k - 1 } ^ { i } ) = s _ { k - 1 } - \frac { 1 } { N } \sum _ { i = 1 } ^ { N } s _ { k - 1 } ^ { i } = s _ { - 1 } - \frac { 1 } { N } \sum _ { i = 1 } ^ { N } s _ { - 1 } ^ { i } =$ Then,
+
+$$
+\begin{array} { r c l } { \displaystyle \| v _ { k } - g _ { k } \| } & { = } & { \displaystyle \| u _ { k } + v _ { k - 1 } - g _ { k } \| } \\ & { \le } & { \displaystyle \| u _ { k } - \left( s _ { k } - v _ { k - 1 } \right) \| + \| s _ { k } - g _ { k } \| } \\ & { \le } & { \displaystyle \| u _ { k } - \left( s _ { k } - v _ { k - 1 } \right) \| + \left\| \frac { 1 } { N } \sum _ { i = 1 } ^ { N } ( d _ { k } ^ { i } + s _ { k - 1 } ^ { i } - g _ { k } ^ { i } ) \right\| } \\ & { \le } & { \displaystyle \| u _ { k } - \left( s _ { k } - v _ { k - 1 } \right) \| + \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \| d _ { k } ^ { i } + s _ { k - 1 } ^ { i } - g _ { k } ^ { i } \| } \\ & { \le } & { \displaystyle s c ^ { \prime ^ { k + 1 } } . } \end{array}
+$$
+
+For convenience, we define constant $\begin{array} { r } { \xi _ { s } = \operatorname* { m a x } \left\{ 0 , \left\| x _ { 0 } - x ^ { * } \right\| - \frac { c \eta s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta s } { c ^ { \prime } - c } } \end{array}$ . The convergence result comes directly from proposition D.2.
+
+To bound the number of bits,we only need to calculate the maximal norm of the vector we need to encode Actually, $\forall i \in [ N ]$ ， $\forall k \geq 1$ we have
+
+$$
+\begin{array} { r c l } { \| g _ { k } ^ { i } - s _ { k - 1 } ^ { i } \| } & { \leq } & { \| g _ { k } ^ { i } - g _ { k - 1 } ^ { i } \| + \left\| g _ { k - 1 } ^ { i } - s _ { k - 1 } ^ { i } \right\| } \end{array}
+$$
+
+$$
+\begin{array} { r l } { \leq } & { L \| x _ { k } - x _ { k - 1 } \| + \frac { s c ^ { k k } } { 2 } } \\ { \leq } & { L \| v _ { k - 1 } \| + \frac { s c ^ { k k } } { 2 } } \\ { \leq } & { L \| g _ { k - 1 } \| _ { \mathcal H ^ { s c } } \| + L \eta g c ^ { k l } + \frac { s c ^ { k l } } { 2 } } \\ { \leq } & { L ^ { 2 } \eta \| x _ { k - 1 } - x ^ { \ast } \| + L \eta s c ^ { k l } + \frac { s c ^ { k l } } { 2 } } \\ { \leq } & { L ^ { 2 } \eta ^ { e k - 1 } \xi _ { s } + L \eta g c ^ { k l } + \frac { s c ^ { k l } } { 2 } } \\ { = } & { \left( \frac { L ^ { 2 } \eta \xi _ { \xi } + L \eta g c ^ { k } + \frac { s c ^ { k l } } { 2 } } { c ^ { k 2 } } \right) c ^ { k + 1 } . } \end{array}
+$$
+
+Similarly, we have
+
+$$
+\begin{array} { r c l } { \| s _ { k } - v _ { k - 1 } \| } & { \le } & { \displaystyle \| s _ { k } - g _ { k } \| + \| g _ { k } - g _ { k - 1 } \| + \| g _ { k - 1 } - v _ { k - 1 } \| } \\ & { \le } & { \displaystyle L \| x _ { k } - x _ { k - 1 } \| + \frac { 3 s c ^ { \prime } { } ^ { k } } { 2 } } \\ & { \le } & { \displaystyle \left( \frac { L ^ { 2 } \eta \xi _ { s } + L \eta s c ^ { \prime } + \frac { 3 s c ^ { \prime } } { 2 } } { { c ^ { \prime } } ^ { 2 } } \right) c ^ { \prime } { } ^ { k + 1 } . } \end{array}
+$$
+
+In this case,the error fraction (length divided by eror,i.e. inverse of relative error) is bounded by Ss := 2L2n+2Lnc+3ce ,and the number of bits is at most $\left( 1 . 0 5 + \log _ { 2 } ( \zeta _ { s } + 2 ) \right) d$ by lemma 2.2. □
+
+# D.2 Prooffor DEED-SGD
+
+Theorem D.3. In algorithm $\boldsymbol { \mathcal { Z } }$ ， we assume (Weak Growth Condition) WGC is satisfied for approximate gradient $\overline { { \nabla } } _ { i }$ for every $f _ { i }$ with parameter $\rho$ . We choose the learning rate $\begin{array} { r } { \eta _ { t } \equiv \eta = \frac { 1 } { \rho L } } \end{array}$ ,c:=1-nμ,c<c<1, and the maximal error at iteration $t$ is $\sqrt { { s { c ^ { \prime } } ^ { k + 1 } } } / { 2 }$ and the error is unbiased.
+
+DEED-SGD communicates $\tilde { O } ( N d )$ bits at iteration $t \geq 1$ ，and
+
+$$
+\mathbb { E } \| w _ { t } - w ^ { * } \| ^ { 2 } \leq ( c ^ { \prime } ) ^ { t } \left( \operatorname* { m a x } \left\{ 0 , \| w _ { 0 } - w ^ { * } \| ^ { 2 } - \frac { c \eta ^ { 2 } s } { c ^ { \prime } - c } \right\} + \frac { c ^ { \prime } \eta ^ { 2 } s } { c ^ { \prime } - c } \right) .
+$$
+
+Proof sketch.First of al, we introduce theorem 5 in [21] to show that with WGC,stochastic gradient descent converges linearly.
+
+Lemma D.4. Suppose $f : \mathbb { R } ^ { d }  \mathbb { R }$ is $\mu$ -strongly-convex. Besides, $\begin{array} { r } { f ( x ) = \frac { 1 } { N } \displaystyle \sum _ { i = 1 } ^ { N } f _ { i } ( x ) } \end{array}$ ， where each $f _ { i }$ is （20 $L$ -smooth. We assume WGC is satisfied for approximate gradient $\overline { { \nabla } } _ { i }$ with parameter $\rho$ . Then series $\{ x _ { i } \} _ { i \ge 0 }$ （20 generated by iteration formula
+
+$$
+x _ { k + 1 } : = x _ { k } - { \frac { 1 } { N } } \sum _ { i = 1 } ^ { N } { \overline { { \nabla } } } _ { i } f _ { i } ( x )
+$$
+
+satisfy
+
+$$
+\mathbb { E } \left[ \| x _ { k + 1 } - x ^ { * } \| ^ { 2 } | x _ { k } \right] \leq \left( 1 - { \frac { \mu } { \rho L } } \right) \| x _ { k } - x ^ { * } \| ^ { 2 } .
+$$
+
+Being similar to the proof in previous section, we can bound the effctive error by $\eta \sqrt { s { c } ^ { \prime } ^ { k + 1 } }$ . Then we have
+
+$$
+\begin{array} { r } { \mathbb { E } \| \boldsymbol { x } _ { k + 1 } - \boldsymbol { x } _ { k } \| ^ { 2 } \leq c \mathbb { E } \| \boldsymbol { x } _ { k } - \boldsymbol { x } ^ { * } \| ^ { 2 } + \eta ^ { 2 } s c ^ { \prime } ^ { k + 1 } . } \end{array}
+$$
+
+Then we can put it in our framework. By using the same technique in proposition D.2, we have inequality (11).Finally,we can bound the number of bits by using lemma 2.2.
+
+Proof. As we showed in sketch, we have proved inequality (11). We only need to prove that $\mathbb { E } \lVert g _ { k } ^ { i } - s _ { k - 1 } ^ { i } \rVert ^ { 2 }$ and $\mathbb { E } \Vert s _ { k } - v _ { k - 1 } \Vert ^ { 2 }$ are $O ( { c ^ { \prime } } ^ { k } )$ ， $\forall i \in [ N ]$ , because $\ln x ^ { 2 } = 2 \ln x$ is a concave function. By triangle inequality and the definition of $L$ -smooth, we only need to prove E|lwp $\mathbf { \varepsilon } _ { : } - w _ { k - 1 } \| ^ { 2 } \leq 2 \mathbb { E } \| w _ { k } - w ^ { * } \| ^ { 2 } + 2 \mathbb { E } \| w ^ { * } - w _ { k - 1 } \| ^ { 2 }$ is $O ( { c ^ { \prime } } ^ { k } )$ ,which is obvious by inequality (11). □
+
+# D.3 Prooffor DEED-Fed
+
+Theorem D.5. In algorithm $\mathcal { B }$ ， we choose the learning rate $\begin{array} { r } { \eta _ { t } : = \frac { \beta } { t + \gamma } } \end{array}$ for some $\begin{array} { r } { \beta > \frac { 1 } { \mu } } \end{array}$ ， $\gamma > 1$ such that $\begin{array} { r } { \eta _ { 0 } \le \frac { 1 } { 4 L } } \end{array}$ and $\eta _ { t } \leq 2 \eta _ { t + E }$ . Let the maximal error at iteration $t \in \{ 0 , E , 2 E , \cdot \cdot \cdot \}$ be $s \eta _ { t }$ . Then DEED-Fed communicates $\tilde { O } ( N d )$ bits at iteration $t \in \{ E , 2 E , \cdot \cdot \cdot \}$ ，and
+
+$$
+\mathbb { E } \Vert \overline { { w } } _ { t } - w ^ { * } \Vert ^ { 2 } \leq \frac { v } { \gamma + t } ,
+$$
+
+where $\begin{array} { r } { v : = \operatorname* { m a x } \left\{ \frac { \beta ^ { 2 } ( B + C + s ^ { 2 } ) } { \beta \mu - 1 } , \gamma \| w _ { 0 } - w ^ { * } \| ^ { 2 } \right\} } \end{array}$ Here, $B = \sum _ { k = 1 } ^ { N } p _ { k } ^ { 2 } \sigma _ { k } ^ { 2 } + 6 L \Gamma + 8 ( E - 1 ) ^ { 2 } G ^ { 2 }$ ,and $C$ is a constant depending on different setting. In full participant setting, $C = 0$ . In partial participant setting $\mathit { 1 }$ ， $\begin{array} { r } { C = \frac { 4 } { K } E ^ { 2 } G ^ { 2 } } \end{array}$ ， and in partial participant setting 1, C = N-KE²G2.
+
+Proof sketch.Recall the theorem with no quantization in [41].
+
+Theorem D.6. Assume assumption C.1 and C.2 hold. For FedAvg, we have
+
+$$
+\begin{array} { r } { \mathbb { E } \| \overline { { w } } _ { t + 1 } - w ^ { * } \| ^ { 2 } \leq ( 1 - \eta _ { t } \mu ) \mathbb { E } \| \overline { { w } } _ { t } - w ^ { * } \| ^ { 2 } + \eta _ { t } ^ { 2 } ( B + C ) , } \end{array}
+$$
+
+where $B = \sum _ { k = 1 } ^ { N } p _ { k } ^ { 2 } \sigma _ { k } ^ { 2 } + 6 L \Gamma + 8 ( E - 1 ) ^ { 2 } G ^ { 2 }$ ，and $C$ is a constant depending on different setting. In full participant setting, $C = 0$ . In partial participant setting 1, $\begin{array} { r } { C = \frac { 4 } { K } E ^ { 2 } G ^ { 2 } } \end{array}$ ， and in partial participant setting $\mathit { 1 }$ ， $\begin{array} { r } { C = \frac { N - K } { N - 1 } \frac { 4 } { K } E ^ { 2 } G ^ { 2 } } \end{array}$ ，.
+
+Merover sih iga $( 1 \llcorner )$ we have $\begin{array} { r } { \mathbb { E } \| \overline { { w } } _ { t } - w ^ { * } \| ^ { 2 } \leq \frac { v } { \gamma + t } } \end{array}$ where $\begin{array} { r } { v : = \operatorname* { m a x } \left\{ \frac { \beta ^ { 2 } ( B + C ) } { \beta \mu - 1 } , \gamma \Vert w _ { 0 } - w ^ { * } \Vert ^ { 2 } \right\} } \end{array}$
+
+Combine this theorem error analysis,we have5
+
+$$
+\begin{array} { r } { \mathbb { E } \| \overline { { w } } _ { t + 1 } - w ^ { * } \| ^ { 2 } \leq ( 1 - \eta _ { t } \mu ) \mathbb { E } \| \overline { { w } } _ { t } - w ^ { * } \| ^ { 2 } + \eta _ { t } ^ { 2 } ( B + C + s ^ { 2 } ) . } \end{array}
+$$
+
+We can already put the map from $\overline { { w } } _ { t }$ to $\overline { { w } } _ { t + 1 }$ into our framework, and prove that it converges sublinearly. Actually, wecan just use theorem 14and conclude that inequality (13) holds.The only dificulty is the bound for communication. We cannot bound $\lVert \overline { { \boldsymbol { w } } } _ { t } - \overline { { \boldsymbol { w } } } _ { t + E } \rVert$ by $\lVert \overline { { \boldsymbol { w } } } _ { t } - \boldsymbol { w } ^ { * } \rVert + \lVert \boldsymbol { w } ^ { * } - \overline { { \boldsymbol { w } } } _ { t + E } \rVert$ since it is $O ( 1 / \sqrt { t } )$ ， while the precision is $O ( 1 / t )$ . Please see this part in the proof below.
+
+Proof. We have proved inequality (13). The only thing left is to prove that $\mathbb { E } \| w _ { ( t + 1 ) E } ^ { k } - w _ { t E } ^ { k } \| ^ { 2 } = O ( 1 / t ^ { 2 } )$ ： Notice that for each larger iteration $t \geq 0$ and slave node $k$ ，we have
+
+$$
+\begin{array} { r c l } { \| w _ { ( t + 1 ) E } ^ { k } - w _ { t E } ^ { k } \| } & { \leq } & { \displaystyle \sum _ { i = 0 } ^ { E - 1 } \| w _ { t E + i + 1 } ^ { k } - w _ { t E + i } ^ { k } \| } \\ & { \leq } & { \displaystyle \sum _ { i = 0 } ^ { E - 1 } \eta _ { t E + i } \| \nabla F _ { k } ( w _ { t E + i } ^ { k } , \xi _ { t E + i } ^ { k } ) \| } \\ & { \leq } & { \displaystyle \eta _ { t E } \sum _ { i = 0 } ^ { E - 1 } \| \nabla F _ { k } ( w _ { t E + i } ^ { k } , \xi _ { t E + i } ^ { k } ) \| . } \end{array}
+$$
+
+Hence,
+
+$$
+\begin{array} { r c l } { \mathbb { E } \| w _ { ( i + 1 ) / B } ^ { k } - w _ { i ( E ) } ^ { k } \| ^ { 2 } } & { \leq } & { \eta _ { i \ell } ^ { 2 } \cdot E \displaystyle - \frac { E - 1 } { i \omega } ( \mathbb { E } \| \nabla F _ { i } ( w _ { i \ell E + \delta } ^ { k } ) \| ^ { 2 } + \sigma _ { \delta } ^ { 2 } ) } \\ & { \leq } & { \eta _ { i \ell } ^ { 2 } \cdot E \displaystyle - \frac { E - 1 } { i \omega } ( L ^ { 2 } \mathbb { E } \| w _ { i \ell E + \delta } ^ { k } - w ^ { * } \| ^ { 2 } + \sigma _ { \kappa } ^ { 2 } ) } \\ & { \leq } & { \eta _ { i \ell } ^ { 2 } \cdot E \displaystyle - \frac { E - 1 } { i \omega } ( 2 L ^ { 2 } \mathbb { E } \| w _ { i \ell E + i } ^ { k } - w _ { i \ell k + \delta } ^ { * } \| ^ { 2 } + 2 L ^ { 2 } \mathbb { E } \| \overline { { w } } _ { i \ell k + \delta } - w ^ { * } \| ^ { 2 } + \sigma _ { \kappa } ^ { 2 } ) } \\ & { \leq } & { \eta _ { i \ell } ^ { 2 } \cdot E \displaystyle - \frac { E - 1 } { i \omega } \Big ( 2 L ^ { 2 } \eta _ { i \ell } ^ { 2 } E ^ { 2 } G ^ { 2 } + 2 L ^ { 2 } \frac { w } { \gamma + i E } + \sigma _ { \kappa } ^ { 2 } \Big ) } \\ & { \leq } & { \eta _ { i \ell } ^ { 2 } \cdot E ^ { 2 } \displaystyle \left( 2 L ^ { 2 } \eta _ { i \ell } ^ { 2 } E ^ { 2 } G ^ { 2 } + 2 L ^ { 2 } \frac { w } { \gamma + i E } + \sigma _ { \kappa } ^ { 2 } \right) } \\ & { = } & { \eta _ { i \ell } ^ { 2 } \cdot E ^ { 2 } \left( 2 L ^ { 2 } \eta _ { i \ell } ^ { 2 } E ^ { 2 } G ^ { 2 } + 2 L ^ { 2 } \frac { w } { \gamma + i E } + \sigma _ { k } ^ { 2 } \right) . } \end{array}
+$$
+
+With the approximation above,all the vectors we need to do quantization are bounded by
+
+$$
+\sqrt { \eta _ { t E } ^ { 2 } s ^ { 2 } + \eta _ { t E } ^ { 2 } \cdot E ^ { 2 } \left( 2 L ^ { 2 } \eta _ { t E } ^ { 2 } E ^ { 2 } G ^ { 2 } + 2 L ^ { 2 } \frac { v } { \gamma + t E } + \sigma _ { k } ^ { 2 } \right) }
+$$
+
+in expectation,and proof follows.
+
+# EAlgorithm A-DEED-GD and its Convergence Analysis
+
+A-DEED-GD is the accelerated version in DEED series. The algorithm and its proof are similar to DEED-GD.The only diffrence between DEED-GD is the update rule.Please see algorithm 4 below for details.
+
+Proof sketch First of all, we can use triangle inequality to prove that the error on $v _ { k }$ is small, i.e. $\| g _ { k } - v _ { k } \| \leq s { c ^ { \prime } } ^ { k + 1 }$ . Then, with diminishing error we are able to prove linear convergence. Finaly, we use lemma 2.2 to show that we communicate $O ( d )$ bits per communication. The first and the third step are exactly the same as DEED-GD. Hence, we only need to prove that the convergence part.
+
+Proof. Suppose $f : \mathbb { R } ^ { d }  \mathbb { R }$ isa -convex and $L$ -smooth function. $\mu$
+
+Choose an arbitrary point $x _ { 0 } = y _ { 0 } = v _ { 0 } \in \mathbb R ^ { d }$ , we can define $\begin{array} { r } { \phi _ { 0 } ( x ) : = \phi _ { 0 } ^ { * } + \frac { \mu } { 2 } \| x - v _ { 0 } \| ^ { 2 } } \end{array}$ where $\phi _ { 0 } ^ { * } : = f ( v _ { 0 } )$ Then by definition we know $\phi ( x ) \leq f ( x )$ and $\phi _ { 0 } ^ { * } \ge f ( x _ { 0 } )$
+
+1:Initialization: Each server $i \in \lfloor N \rfloor$ holds $x _ { 0 } = s _ { - 1 } ^ { i } = v _ { - 1 } = 0$ ， server O holds $v _ { - 1 } = 0 \mathrm { ~ } k = 0$ ，   
+2: Parameter setting: η=,T = +,c=√1-√E;   
+3: while the precision is not enough do   
+4: for $i \in [ N ]$ do   
+5: server $i$ computes $g _ { k } ^ { i } = \nabla f _ { i } ( y _ { k } )$ ，   
+6: server $i$ does quantization $\begin{array} { r } { d _ { k } ^ { i } = Q ( g _ { k } ^ { i } - s _ { k - 1 } ^ { i } , \frac { s c ^ { \prime k + 1 } } { 2 } ) } \end{array}$   
+7: server i updates s² = d + s-1;   
+8: server $i$ send $d _ { k } ^ { i }$ to server $0$ ，   
+9: end for   
+10: server 0 computes $\boldsymbol s _ { k } = \frac { _ 1 } { N } \sum _ { i = 1 } ^ { N } d _ { k } ^ { i } + \boldsymbol s _ { k - 1 }$   
+11: server O does quantization $\begin{array} { r } { u _ { k } = Q ( s _ { k } - v _ { k - 1 } , \frac { s c ^ { \prime k + 1 } } { 2 } ) } \end{array}$   
+12: server O sends $u _ { k }$ to server $i , \forall i \in [ N ]$   
+13: server O updates $\boldsymbol { v } _ { k } = \boldsymbol { u } _ { k } + \boldsymbol { v } _ { k - 1 }$   
+14: for $i \in [ N ]$ do   
+15: server $i$ updates $v _ { k } = u _ { k } + v _ { k - 1 }$   
+16: server i updates Xk+1 = yk - nUk;   
+17: server $i$ updates $y _ { k + 1 } = x _ { k + 1 } + \tau ( x _ { k + 1 } - x _ { k } )$   
+18: end for   
+19: （20 $k = k + 1$   
+20:end while
+
+Next,we inductively define the following quantity. Suppose $\ell : \mathbb { Z } ^ { \geq 0 } \to \mathbb { R } ^ { + }$ is an arbitrary function.
+
+$$
+\begin{array} { r c l } { x _ { k + 1 } } & { = } & { y _ { k } - \displaystyle \frac { 1 } { L } m _ { k } } \\ { \phi _ { k + 1 } ( x ) } & { = } & { \displaystyle ( 1 - \alpha ) \phi _ { k } ( x ) + \alpha \left[ f ( y _ { k } ) + \langle m _ { k } , x - y _ { k } \rangle + \frac { \mu } { 2 } \| x - y _ { k } \| ^ { 2 } \right] } \\ { v _ { k + 1 } } & { = } & { \displaystyle \operatorname* { m g n } _ { v \in \mathbb { R } ^ { n } } \phi _ { k + 1 } ( v ) } \\ { y _ { k + 1 } } & { = } & { \displaystyle \frac { x _ { k + 1 } + \alpha v _ { k + 1 } } { 1 + \alpha } } \\ { \phi _ { k + 1 } ^ { * } } & { = } & { \operatorname* { m i n } \phi _ { k + 1 } } \end{array}
+$$
+
+where $\begin{array} { r } { \alpha = \sqrt { \frac { \mu } { L } } } \end{array}$ and $m _ { k } \in \mathbb { R } ^ { d }$ such that $\| m _ { k } - \nabla f ( y _ { k } ) \| \leq c ^ { k + 1 } \ell ( k )$
+
+Besides, we will construct monotonically increasing functions $h , g : \mathbb { Z } ^ { \geq 0 } \to \mathbb { R }$ inductively such that
+
+$$
+\begin{array} { r c l } { f ( x _ { k } ) } & { \le } & { \phi _ { k } ^ { * } + h ( k ) \cdot c ^ { 2 k } } \\ { \phi _ { k } ( x ^ { * } ) } & { \le } & { ( 1 - c ^ { 2 k } ) f ^ { * } + c ^ { 2 k } \phi _ { 0 } ( x ^ { * } ) + g ( k ) \cdot c ^ { 2 k } . } \end{array}
+$$
+
+Obviously, it is appropriate to set $g ( 0 ) = h ( 0 ) = 0$
+
+Before we go deeper,here is an important lemma.
+
+LemmaE.1.With the definition above,we have
+
+$$
+y _ { k + 1 } = x _ { k + 1 } + \tau ( x _ { k + 1 } - x _ { k } )
+$$
+
+where $\begin{array} { r } { \tau = \frac { \sqrt { L } - \sqrt { \mu } } { \sqrt { L } + \sqrt { \mu } } } \end{array}$ （
+
+Proof. Because $\begin{array} { r } { \phi _ { k } ( x ) = \phi _ { k } ^ { * } + \frac { \mu } { 2 } \| x - v _ { k } \| ^ { 2 } } \end{array}$ , taking derivative $\nabla \phi _ { k + 1 } ( x ) = \mu ( 1 - \alpha ) ( x - v _ { k } ) + \alpha m _ { k } + \alpha \mu ( x - y _ { k } ) .$ And then we get $\begin{array} { r } { v _ { k + 1 } = ( 1 - \alpha ) v _ { k } + \alpha y _ { k } - \frac { \alpha } { \mu } m _ { k } } \end{array}$ ，
+
+Because $\begin{array} { r } { y _ { k } = \frac { x _ { k } + \alpha v _ { k } } { 1 + \alpha } } \end{array}$ , we can substitute $\begin{array} { r } { v _ { k } = \frac { 1 + \alpha } { \alpha } y _ { k } - \frac { 1 } { \alpha } x _ { k } } \end{array}$ and get
+
+$$
+{ \begin{array} { l l l } { { v _ { k + 1 } } } & { = } & { { \cfrac { 1 - \alpha ^ { 2 } } { \alpha } } y _ { k } - { \cfrac { 1 - \alpha } { \alpha } } x _ { k } + \alpha y _ { k } - { \cfrac { \alpha } { \mu } } m _ { k } } \\ & { = } & { { \cfrac { 1 } { \alpha } } \left( y _ { k } - { \cfrac { 1 } { L } } m _ { k } \right) - { \cfrac { 1 - \alpha } { \alpha } } x _ { k } } \\ & { = } & { { \cfrac { x _ { k + 1 } - x _ { k } } { \alpha } } + x _ { k } . } \end{array} }
+$$
+
+Hence
+
+$$
+\begin{array} { l c l } { y _ { k + 1 } } & { = } & { \displaystyle \frac { x _ { k + 1 } + \alpha v _ { k + 1 } } { 1 + \alpha } } \\ & { = } & { \displaystyle x _ { k + 1 } + \tau ( x _ { k + 1 } - x _ { k } ) . } \end{array}
+$$
+
+Then we have
+
+$$
+\begin{array} { r c l } { f ( x _ { k } ) - f ^ { * } } & { \leq } & { \phi _ { k } ^ { * } + h ( k ) \cdot c ^ { 2 k } - f ^ { * } } \\ & { \leq } & { c ^ { 2 k } ( \phi _ { 0 } ( x ^ { * } ) - f ^ { * } + g ( k ) + h ( k ) ) } \\ & { = } & { c ^ { 2 k } ( \Delta + g ( k ) + h ( k ) ) } \end{array}
+$$
+
+where $\begin{array} { r } { \Delta : = \phi _ { 0 } ( x ^ { * } ) - f ^ { * } = f ( v _ { 0 } ) - f ^ { * } + \frac { \mu } { 2 } \| x _ { 0 } - x ^ { * } \| ^ { 2 } } \end{array}$ . Hence,
+
+$$
+\begin{array} { r c l } { \displaystyle \| x _ { k } - x ^ { * } \| } & { \leq } & { \sqrt { \displaystyle \frac { 2 } { \mu } ( f ( x _ { k } - x ^ { * } ) ) } } \\ & { = } & { \sqrt { \displaystyle \frac { 2 } { \mu } } \cdot c ^ { k } \cdot \sqrt { \Delta + g ( k ) + h ( k ) } . } \end{array}
+$$
+
+Furthermore,according to lemma 3 and the monotony of $g$ and $h$ ，we have
+
+$$
+\begin{array} { r c l } { \| y _ { k } - x ^ { * } \| } & { = } & { \displaystyle \left\| \frac { 2 \sqrt { L } } { \sqrt { L } + \sqrt { \mu } } ( x _ { k } - x ^ { * } ) - \frac { \sqrt { L } - \sqrt { \mu } } { \sqrt { L } + \sqrt { \mu } } ( x _ { k - 1 } - x ^ { * } ) \right\| } \\ & { \leq } & { \displaystyle \left( \frac { 2 \sqrt { L } } { \sqrt { L } + \sqrt { \mu } } + \frac { 1 } { c } \frac { \sqrt { L } - \sqrt { \mu } } { \sqrt { L } + \sqrt { \mu } } \right) \sqrt { \frac { 2 } { \mu } } \cdot c ^ { k } \cdot \sqrt { \Delta + g ( k ) + h ( k ) } } \\ & { \leq } & { \displaystyle 3 \sqrt { \frac { 2 } { \mu } } \cdot c ^ { k } \cdot \sqrt { \Delta + g ( k ) + h ( k ) } . } \end{array}
+$$
+
+And then we can give the first upper bound
+
+$$
+\begin{array} { l l l } { \phi _ { k + 1 } ( x ^ { * } ) } & { = } & { ( 1 - \alpha ) \phi _ { k } ( x ^ { * } ) + \alpha \displaystyle \left[ f ( y _ { k } ) + \langle m _ { k } , x ^ { * } - y _ { k } \rangle + \frac { \mu } { 2 } \| x ^ { * } - y _ { k } \| ^ { 2 } \right] } \end{array}
+$$
+
+$$
+\begin{array} { r l } { \leq } & { ( 1 - \alpha ) \phi _ { k } ( x ^ { * } ) + \alpha \left[ f ( y _ { k } ) + \langle \nabla f ( y _ { k } ) , x ^ { * } - y _ { k } \rangle + \frac { \mu } { 2 } \| x ^ { * } - y _ { k } \| ^ { 2 } \right] } \\ & { + \alpha \cdot \ell ( k ) c ^ { k + 1 } \| x ^ { * } - y _ { k } \| } \\ { \leq } & { ( 1 - \alpha ) \phi _ { k } ( x ^ { * } ) + \alpha f ^ { * } + \alpha \cdot \ell ( k ) c ^ { k + 1 } \| x ^ { * } - y _ { k } \| } \\ { \leq } & { c ^ { 2 } \left( ( 1 - c ^ { 2 k } ) f ^ { * } + c ^ { 2 k } \phi _ { 0 } ( x ^ { * } ) + g ( k ) \cdot c ^ { 2 k } \right) + ( 1 - c ^ { 2 } ) f ^ { * } } \\ & { + \alpha \cdot \ell ( k ) c ^ { k + 1 } \| x ^ { * } - y _ { k } \| } \\ { = } & { ( 1 - c ^ { 2 k + 2 } ) f ^ { * } + c ^ { 2 k + 2 } \phi _ { 0 } ( x ^ { * } ) + g ( k ) \cdot c ^ { 2 k + 2 } } \\ & { + 3 \ell ( k ) \sqrt { \frac { 2 } { L } } \cdot c ^ { 2 k + 1 } \cdot \sqrt { \Delta + g ( k ) + h ( k ) } , } \end{array}
+$$
+
+which means we only need to make
+
+$$
+g ( k + 1 ) \geq g ( k ) + \frac { 3 \ell ( k ) \sqrt { \frac { 2 } { L } } \cdot \sqrt { \Delta + g ( k ) + h ( k ) } } { c }
+$$
+
+To make an upper bound of $h ( k + 1 )$ ，we notice that
+
+$$
+\begin{array} { r c l } { \phi _ { k + 1 } ^ { * } } & { = } & { \phi _ { k + 1 } \big ( v _ { k + 1 } \big ) } \\ & { = } & { \displaystyle \left( 1 - \alpha \right) \bigg ( \phi _ { k } ^ { * } + \frac { \mu } { 2 } \| v _ { k + 1 } - v _ { k } \| ^ { 2 } \bigg ) + \alpha f ( y _ { k } ) + \alpha \big \langle m _ { k } , v _ { k + 1 } - y _ { k } \big \rangle } \\ & & { \displaystyle + \frac { \alpha \mu } { 2 } \| v _ { k + 1 } - y _ { k } \| ^ { 2 } . } \end{array}
+$$
+
+Substitute $\begin{array} { r } { v _ { k + 1 } - y _ { k } = ( 1 - \alpha ) ( v _ { k } - y _ { k } ) - \frac { \alpha } { \mu } m _ { k } } \end{array}$ ， we have
+
+$$
+\begin{array} { l l l } { \displaystyle \phi _ { k + 1 } ^ { * } } & { = } & { \displaystyle ( 1 - \alpha ) \phi _ { k } ^ { * } + \alpha f ( y _ { k } ) - \frac { 1 } { 2 L } \| m _ { k } \| ^ { 2 } } \\ & & { \displaystyle + \alpha ( 1 - \alpha ) \left( \frac { \mu } { 2 } \| y _ { k } - v _ { k } \| ^ { 2 } + \langle m _ { k } , v _ { k } - y _ { k } \rangle \right) } \\ & { \geq } & { \displaystyle ( 1 - \alpha ) \left( f ( x _ { k } ) - h ( k ) \cdot c ^ { 2 k } \right) + \alpha f ( y _ { k } ) - \frac { 1 } { 2 L } \| m _ { k } \| ^ { 2 } } \\ & & { \displaystyle + \alpha ( 1 - \alpha ) \left( \frac { \mu } { 2 } \| y _ { k } - v _ { k } \| ^ { 2 } + \langle m _ { k } , v _ { k } - y _ { k } \rangle \right) . } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \qquad \mathrm { B e c a u s e ~ } f ( x _ { k } ) \geq f ( y _ { k } ) + \langle \nabla f ( y _ { k } ) , x _ { k } - y _ { k } \rangle \geq f ( y _ { k } ) + \langle m _ { k } , x _ { k } - y _ { k } \rangle - \ell ( k ) \cdot c ^ { k + 1 } \| x _ { k } - y _ { k } \| \mathrm { ~ a } } \\ & { - \| x _ { k } - x _ { k - 1 } \| \leq c ^ { 2 } \left( \| x _ { k } - x ^ { * } \| + \| x ^ { * } - x _ { k - 1 } \| \right) \leq c ^ { k + 1 } \cdot ( 1 + c ) \sqrt { \frac { 2 } { \mu } } \sqrt { \Delta + g ( k ) + h ( k ) } . } \end{array}
+$$
+
+Hence, we can bound $\phi _ { k + 1 } ^ { * }$ by
+
+$$
+\begin{array} { l } { { f ( y _ { k } ) \displaystyle - \frac { 1 } { 2 L } \| m _ { k } \| ^ { 2 } - h ( k ) \cdot c ^ { 2 k + 2 } } } \\ { { \displaystyle - c ^ { 2 k + 4 } \cdot \ell ( k ) \cdot ( 1 + c ) \sqrt { \frac { 2 } { \mu } } \sqrt { \Delta + g ( k ) + h ( k ) } . } } \end{array}
+$$
+
+Recall that
+
+$$
+\begin{array} { l l l } { \displaystyle f ( x _ { k + 1 } ) - f ( y _ { k } ) + \frac { 1 } { 2 L } \| m _ { k } \| ^ { 2 } } & { \le } & { \displaystyle \frac { 1 } { L } \left. m _ { k } - \nabla f ( y _ { k } ) , m _ { k } \right. } \\ & { \le } & { \displaystyle \frac { 1 } { L } \ell ( k ) \cdot c ^ { k + 1 } \| m _ { k } \| } \\ & { \le } & { \displaystyle c ^ { 2 k + 1 } \cdot \left( \frac { c \ell ^ { 2 } ( k ) } { L } + 3 \sqrt { \frac { 2 } { \mu } } \ell ( k ) \sqrt { \Delta + g ( k ) + h ( k ) } \right) } \end{array}
+$$
+
+we have
+
+$$
+\begin{array} { r l r } { \phi _ { k + 1 } ^ { * } } & { \ge } & { f ( x _ { k + 1 } ) - c ^ { 2 k + 1 } \cdot \left( \frac { c \ell ^ { 2 } ( k ) } { L } + 3 \sqrt { \frac { 2 } { \mu } } \ell ( k ) \sqrt { \Delta + g ( k ) + h ( k ) } \right) } \\ & { } & { - h ( k ) \cdot c ^ { 2 k + 2 } - c ^ { 2 k + 4 } \cdot \ell ( k ) \cdot ( 1 + c ) \sqrt { \frac { 2 } { \mu } } \sqrt { \Delta + g ( k ) + h ( k ) } , } \end{array}
+$$
+
+which means $h ( \cdot )$ only need to satisfy
+
+$$
+h ( k + 1 ) \geq h ( k ) + \frac { 5 } { c } \ell ( k ) \cdot \sqrt { \frac { 2 } { \mu } } \sqrt { \Delta + g ( k ) + h ( k ) } + \frac { \ell ^ { 2 } ( k ) } { L } .
+$$
+
+Finally, we only need to make inequalities (16）and (17） be the iteration formulas for arrays $\{ g ( k ) \} _ { k \geq 0 } , \{ h ( k ) \} _ { k \geq 0 }$ with initialization $g ( 0 ) = h ( 0 ) = 0$ ，and we have
+
+$$
+i ( k + 1 ) \geq i ( k ) + \left( \frac { 3 \sqrt { \frac { 2 } { L } } + 5 \sqrt { \frac { 2 } { \mu } } } { c } \right) \ell ( k ) \sqrt { \Delta + i ( k ) } + \frac { \ell ^ { 2 } ( k ) } { L }
+$$
+
+where $i ( k ) : = g ( k ) + h ( k ) , \forall k \geq 0$ . Now, $\forall c < c ^ { \prime } < 1$ ，define $\begin{array} { r } { \gamma = \frac { c ^ { \prime } } { c } } \end{array}$ and $\ell ( k ) = s \gamma ^ { k + 1 }$ . We will prove that $i ( k ) \leq C \gamma ^ { 2 k } , \forall k \geq 0$ for sufficient large $C$ by mathematical induction.
+
+Obviously, it holds for index O. Suppose it holds for index less or equal to $k$ . Then we only need to prove
+
+$$
+C \gamma ^ { 2 k + 2 } \geq \left( C + \frac { s ^ { 2 } } { L } \right) \gamma ^ { 2 k } + \left( \frac { 3 \sqrt { \frac { 2 } { L } } + 5 \sqrt { \frac { 2 } { \mu } } } { c } \right) s \gamma ^ { k + 1 } \sqrt { \Delta + C \gamma ^ { 2 k } } .
+$$
+
+This can be derived by
+
+$$
+C \left( \gamma ^ { 2 } - 1 \right) \geq \frac { s ^ { 2 } } { L } + \left( \frac { 3 \sqrt { \frac { 2 } { L } } + 5 \sqrt { \frac { 2 } { \mu } } } { c } \right) s \gamma \sqrt { \Delta + C } .
+$$
+
+Hence,if we define $\begin{array} { r } { \alpha _ { s } = \frac { s ^ { 2 } } { L ( \gamma ^ { 2 } - 1 ) } + \Delta } \end{array}$ ， $\begin{array} { r } { \beta _ { s } = \left( \frac { 3 \sqrt { \frac { 2 } { L } } + 5 \sqrt { \frac { 2 } { \mu } } } { c ( \gamma ^ { 2 } - 1 ) } \right) s \gamma } \end{array}$ ，making $C \geq \beta _ { s } ^ { 2 } + \alpha _ { s } + \beta \sqrt { \alpha _ { s } } - \Delta$ is enough.   
+The convergence result follows by inequality (15).
+
+# F Experiments
+
+# F.1 Linear regression
+
+We illustrate the efectiveness of our proposed algorithms (DEED-GD and its accelerated version A-DEED-GD) in frequent-communication large-memory setting on linear regression problem with a 100 by l00 Gaussian generated matrix with condition number equals to l6. We focus on star networks,and there are 10 computing nodes.We perform 80 epochs on non-accelerated algorithms and 200 epochs on accelerated ones. In each update,the stepsize chosen on each computing node $i$ is $\operatorname* { m i n } _ { i } 1 / L _ { i }$ where $\boldsymbol { L } _ { i }$ is the Lipschitz constant for the function corresponds to node $i$ . As required in theorem 3.4 in QSGD's paper [13], we choose another learning rate for QSGD.The experiments are done on a computer with 2 GHz Dual-Core Intel Core i5 processor.
+
+We choose the quantization level to be l0o00 in QSGD[13] as smaller quantization level lead to larger loss values. For DIANA,as suggested by [19], we quantize the weight of each layer separately,and we use either the fullblock size of the weighs or let block size equal to 20.The quantization level in DIANA algorithms is equal to the block size $d _ { i }$ for some vector $i$ and the parameter $\alpha$ in DIANA is chosen to be $\operatorname* { m i n } _ { i } { 1 } / { \sqrt { d _ { i } } }$ For DEED-GD,we choose $s = 0 . 0 1$ and $c = 0 . 9 5$ which is the convergence parameter of the baseline method (GD） using a stepsize $\operatorname* { m i n } _ { i } 1 / L _ { i }$ . Here $s , c$ are parameter controlling the maximal error defined below. For A-DEED-GD,we choose $s = 0 . 1$ and $c = 0 . 8 2$ which is the convergence parameter of the accelerated baseline method (A-GD） using a stepsize $\operatorname* { m i n } _ { i } 1 / L _ { i }$ ：
+
+In our algorithms, to do quantization with maximal error $\varepsilon ( = s \cdot c _ { - } ^ { k + 1 } )$ at iteration $k$ ， we consider the following algorithm.Foravector $w$ , we first compute a vector $\begin{array} { r } { \tilde { w } : = \frac { w \sqrt { d } } { \varepsilon } } \end{array}$ . Next, we encode each coordinate of $\tilde { w }$ ，say $\tilde { w } _ { i }$ into $\lfloor \tilde { w } _ { i } \rfloor$ and $\lfloor \tilde { w } _ { i } \rfloor + 1$ unbiasedly. We call the new vector $\ddot { v }$ . Finally, we compute the quantized vector $\textstyle v : = { \frac { v \varepsilon } { \sqrt { d } } }$ .It isbvious tatuigthisquantizatimetdthrisoudedby $\varepsilon$ ，
+
+To encode the integer vector $\tilde { v }$ into an integer,we use the method introduced in QSGD.We refer Elias encoding,a map from positive integer to non-negative integer.First of all, Weuse Elias to encode the first non-zero element of $\tilde { v }$ (use l bit to encode sign and use other bits to encode absolute value) and its position. Then we literately use Elias to encode the next non-zero element and its distance from the previous position. It works perfectly especially when $\ddot { v }$ is sparse.
+
+As mentioned in table 1, we noticed that there could be two settings for algorithm only does quantization on computing nodes like DIANA.In star network setting,the center node transmits full vector (with no quantization） to computing nodes in broadcasting term. This would cost extra $3 2 d N$ bits.In fully connected network setting, computing nodes broadcast to each other and update information separately. This would lead to an extra $N - 1$ factor on total number of bits since each computing node should broadcast to $N - 1$ other nodes.One another method is to time 2 instead of time $N - 1$ on total number of bits from computing nodes to center node to compare them with DEED series. It is reasonable for the following reasons.1） In DEED series,we have two communications for each computing nodes in each iteration: sending message and receiving messge. So,in this case what we really compare is proportional to number of iterations $\times$ number of bits per communication.2） The“ $\times$ 2" scheme counts less bits than both star network setting and fully connected network setting. If we can beat DIANA and other algorithms in this setting,it means our framework is essentially beter than their framework,i.e.better than them in any settings.Notice that this is only a method of counting bits, not a method of communication.
+
+The performance analysis has already provided in Section 5 and it shows that our algorithms (DEED-GD and its accelerated version A-DEED-GD) save the most number of bits in communication without scarifying the convergence speed.We also run the experiments on 5 diffrent random seeds and the results is shown in Figure 2.In Figure 2,the shaded regions line up with the maximal and minimal lossvalues at each epoch among the 5 different runs,and the regions are too small to visualize due to small variance.
+
+# F.2 Image classification on MNIST
+
+We evaluate the efectiveness of the proposed algorithms via training a neural network on the MNIST dataset [42] for image classification.MNISTconsists of 60,0o0 28 ×28 pixel training images containing a single numerical digit and an additional 10,0o0 test examples.Our neural network consists of one 500-neuron fullyconnected layer folowed bya ten unit softmax layer for clasification,and the layer used reLU activations [44]. The experiments are performed on a using NVIDIA GeForce GTX1080 GPU,and the models are distributed over 6 computing servers, where each of the servers have access to 10,0o0 training images. In large-memory seting,each server uses its own 10,00 images to update the models, while in small-memory seting, each server uses randomly selected 1666 images among its own 10,0o0 training images as a minibatch.We train the models for 200 epochs in large-memory setting and 100 epochs for small-memory setting.The training time is approximately 9 hours for each algorithm in smal-memory seting and 6 hours for large-memory setting.
+
+![](images/aa7018528d16a2e74ca4de40b62faa335cbb0d18a79de7ad050371f8e943f301.jpg)  
+Figure 2: Compare loss values of each algorithms among 5 different runs
+
+We compare our algorithms with QSGD [13], DIANA [19], DoubleSqueeze [25],and Terngrad [14] in frequent communication settings. For allthe algorithms except DIANA,in every update, we vectorize the gradient or the gradient diference of the weight matrices of the neural network,concatenate these vectors as a large vector and do quantization,and reshape the quantized vector into the original shapes of the weight matrices for updating.For DIANA,as suggested by [19], we quantize the weight of each layer separately, and we use two different block sizes in quantization (use the full block sizeof the weighs,or let block size equal to 128).As suggested by [19], the quantization level in DIANA algorithms is equal to the block size $d _ { i }$ for some vector $i$ and the parameter $\alpha$ in DIANA is chosen to be $\operatorname* { m i n } _ { i } 1 / \sqrt { d _ { i } }$ . In large-memory setting,we train our algorithm DEED-GD with the parameters $e = 0 . 1 , s = 2 5$ , and in small-memory setting, we train DEED-SGD with parameters $e = 0 . 2 , s = 2 5$ . Here the maximal error $\begin{array} { r } { \varepsilon : = \frac { s } { ( k + 1 ) ^ { e } } } \end{array}$ .We use the same encoding algorithm as described in linear regression. In both large-memory and small-memory seting, we present the results for choosing 4-bit quantization for QSGD.For DoubleSqueeze,we perform two kinds of quantization as discussed in [25]: top-k compression and 1-bit compression. For fair comparison,we use the same stepsize for all the algorithms,where the stepsize for large-memory setting is 0.25and is1.18 for smal-memory seting. These stepsizes are chosen as the loss curves of the baseline methods (GD and SGD)are smooth and the baseline methods achieve fairly high accuracy in testing.As shown in Figure 3(a) and Figure 3(b),our algorithms as well as QSGD,DIANA and Terngrad achieve the same loss values as the baseline methods (GD and SGD) in both large-memory setting and small-memory setting.
+
+To compare the effciency of each algorithm, we compute the total number of bits throughout the training. As large integers are less frequent in encoded vectors [13],we use Elias integer encoding to save bits in communication [45] for allalgorithms in comparison.Notice that Terngrad, DIANA and QSGD only perform quantization on computing nodes and will typically use 32-bit precision to encode the vectors which are sent from the center node in a star network. To be fair in comparison,we use the scaling technique proposed in [14] and use $\log _ { 2 } ( 1 + 2 * N ) * d$ bits to encode the vectors sent from center node where $N$ is number of computing servers and $d$ is the dimension of the vector. This number is significantly smaller than $3 2 * d$ （204号 unless $N \geq 2 ^ { 3 0 }$ . For DIANA and QSGD, we let computing nodes to share information to each other so they do not need to broadcast via the center node which will cause $3 2 * d$ bits for each update. Under this setting, the bits communicated in each update is $B * ( N - 1 )$ where $B$ is the number of bits to communicated from the computing node and $N - 1$ is the number of other computing nodes that need to communicate to.In most cases,the bits computed in this way is fewer than using 32-bit precision to encode the vectors which are broadcast from the center node.
+
+![](images/5b5d0b44054998724c5673b437e9cf19febeecc9a404d18e08ab8276372cbcbf.jpg)  
+Figure 3: Compare loss values of each algorithms
+
+Results of Effciency.To illustrate the effciency of our proposed algorithms, we plot the number of bits vs the testing accuracy in Figure 4(a) and 4(b)for frequent large-memory setting and frequent small-memory seting. In both figures,the curve that is located on the left-most corresponds to our proposed algorithms, DEED-GD and DEED-SGD.This means that our proposed algorithms use the fewest total number of bits to achieve the accuracy.
+
+To better ilustrate how many bits we can save from other algorithms,we present the total number of bits in Table and Table 4and compute the ratio between the number of bits required by other algorithms and the number of bits required by the proposed algorithms in the fourth column of the Table.For example,in Table 4(a),the number 10.44 means DEED-GD takes 10.44 times fewer the number of bits than QSGD to achieve the accuracy. In theory, DIANA and our proposed algorithm DEED-GD both have linear convergence rate, but our experiments show that we can take l90.28 times fewer the number of bits than DIANA (block size equals to l28) to achieve the similar performance in training.Inaddition,our algorithms achieve the highest testing accuracy in the final epoch as shown in the second column of the table,and the accuracy is comparable or even higher than the ones achieved by the non-quantized baseline algorithms (GD achieves $9 1 . 7 \%$ and SGD achieves $9 7 . 3 7 \%$ ）
+
+To ensure the performance are reproducible,we also train the models under diffrent random seeds and choose diffrent parameters within certain ranges.For example, we train the models by our proposed algorithm using the parameters $e$ is chosen from [0.1,0.3], $s$ is chosen from $\{ 1 6 , 2 5 , 3 2 \}$ . The comparison we discussed above is stillvalid under these changes.We also run experiments for diferent quantization levels (e.g.using 2-bit quantization or 3-bit quantization) for QSGDand DIANA,but they cannot achieve the same testing accuracy with the same number of epochs as using 4-bit quantization,so we do not discuss these results here.
+
+![](images/f87d891e57a3a0ee822ff7620845193284396cc55fcadb0873c6030e3b8414dc.jpg)  
+Figure 4: Total number of bits to reach certain testing accuracy
+
+Table 3: DEED-GD saves bits in communication for large-memory setting   
+
+<html><body><table><tr><td>Algorithm</td><td>Testing accuracy</td><td>Total number of bits</td><td>Ratio</td></tr><tr><td>DEED-GD</td><td>91.86%</td><td>3.34 × 107</td><td>1.00</td></tr><tr><td>QSGD [13]</td><td>91.85%</td><td>3.49 × 108</td><td>10.44</td></tr><tr><td>DIANA (full block) [19]</td><td>91.82%</td><td>4.40 ×108</td><td>13.17</td></tr><tr><td>DIANA (block size = 128) [19]</td><td>91.82%</td><td>6.35 × 109</td><td>190.28</td></tr><tr><td>DoubleSqueeze top-k [25]</td><td>90.47%</td><td>6.21 × 108</td><td>18.59</td></tr><tr><td>DoubleSqueeze 1-bit [25]</td><td>90.31%</td><td>1.11 × 109</td><td>33.34</td></tr><tr><td>TernGrad [14]</td><td>91.84%</td><td>2.72 × 109</td><td>81.44</td></tr></table></body></html>
+
+Table 4: DEED-SGD saves bits in communication for small-memory setting   
+
+<html><body><table><tr><td>Algorithm</td><td>Testing accuracy</td><td>Total number of bits</td><td>Ratio</td></tr><tr><td>DEED-SGD</td><td>97.33%</td><td>1.04 × 108</td><td>1.00</td></tr><tr><td>QSGD [13]</td><td>97.31%</td><td>6.52 × 108</td><td>6.25</td></tr><tr><td>DIANA (full block) [19]</td><td>97.30%</td><td>6.83 × 108</td><td>6.55</td></tr><tr><td>DIANA (block size = 128) [19]</td><td>97.27%</td><td>1.12 × 1010</td><td>106.95</td></tr><tr><td>DoubleSqueeze top-k [25]</td><td>96.67%</td><td>1.81 × 109</td><td>17.31</td></tr><tr><td>DoubleSqueeze 1-bit [25]</td><td>95.96%</td><td>3.34 × 109</td><td>32.01</td></tr><tr><td>TernGrad [14]</td><td>97.44%</td><td>8.16 × 109</td><td>78.20</td></tr></table></body></html>
+
+# References
+
+[1] D. P. Bertsekas and J. N. Tsitsiklis,“Gradient convergence in gradient methods with errors,” SIAM Journal on Optimization, vol. 10, no. 3, pp. 627-642, 2000.   
+[2] B. Recht, C. Re,S. Wright,and F. Niu,“Hogwild: A lock-free approach to parallelizing stochastic gradient descent,” in Aduances in neural information processing systems, pp. 693-7O1, 2011.   
+[3] J. Dean, G. Corrado, R. Monga, K. Chen, M. Devin, M. Mao, M. Ranzato, A. Senior,P. Tucker,K. Yang, et al.,"Large scale distributed deep networks,” in Advances in neural information processing systems, pp.1223-1231,2012.   
+[4] A. Coates, B. Huval, T. Wang, D. Wu, B. Catanzaro, and N. Andrew,“Deep learning with cots hpc systems,” in International conference on machine learning, pp. 1337-1345, 2013. [5] M.Li, D.G. Andersen, J. W. Park,A. J. Smola,A. Ahmed, V. Josifovski, J. Long, E. J. Shekita, and B.-Y. Su,“Scaling distributed machine learning with the parameter server,” in 11th {USENIX} Symposium on Operating Systems Design and Implementation ({OsDI 14), pp. 583-598, 2014. [6] T. Chilimbi, Y. Suzue, J. Apacible,and K. Kalyanaraman,“Project adam: Building an eficient and scalable deep learning training system,” in 11th {USENIX} Symposium on Operating Systems Design and Implementation ({OsDI 14), pp. 571-582, 2014.   
+[7] E. P. Xing, Q. Ho,W. Dai, J. K. Kim, J. Wei, S. Lee, X. Zheng, P. Xie,A. Kumar, and Y. Yu,“Petuum: A new platform for distributed machine learning on big data,” IEEE Transactions on Big Data, vol.1, no. 2, pp.49-67, 2015.   
+[8] T. Chen, M. Li, Y. Li, M. Lin, N. Wang, M. Wang, T. Xiao, B. Xu, C. Zhang,and Z. Zhang,“Mxnet: A fexible and effcient machine learning library for heterogeneous distributed systems,” arXiu preprint arXiu:1512.01274, 2015.   
+[9] M. Abadi, A. Agarwal, P. Barham, E. Brevdo, Z. Chen, C. Citro, G. S. Corrado, A. Davis, J. Dean, M. Devin, et al.,“Tensorflow: Large-scale machine learning on heterogeneous distributed systems,” arXiu preprint arXiv:1603.04467, 2016.   
+[10] Y. Lin, S. Han, H. Mao, Y.Wang，and W. J. Dally,“Deep gradient compression: Reducing the communication bandwidth for distributed training,” arXiu preprint arXiv:1712.01887, 2017.   
+[11] F. Seide, H.Fu, J. Droppo, G.Li,and D.Yu,“1-bit stochastic gradient descent and its application to data-paralel distributed training of speech dnns,” in Fifteenth Annual Conference of the International Speech Communication Association, 2014.   
+[12] S. Gupta, A. Agrawal, K. Gopalakrishnan, and P. Narayanan,“Deep learning with limited numerical precision,” in International Conference on Machine Learning, pp. 1737-1746, 2015.   
+[13] D.Alistarh, D. Grubic, J. Li, R. Tomioka,and M. Vojnovic,“Qsgd: Communication-efficient sgd via gradient quantization and encoding,” in Aduances in Neural Information Processing Systems, pp.1709- 1720, 2017.   
+[14] W. Wen, C. Xu,F. Yan, C. Wu, Y. Wang, Y. Chen, and H. Li,“Terngrad: Ternary gradients to reduce communication in distributed deep learning,” in Aduances in neural information processing systems, pp.1509-1519, 2017.   
+[15] H.B. McMahan, E. Moore, D. Ramage, S. Hampson, et al.,“Communication-effcient learning of deep networks from decentralized data,”arXiv preprint arXiv:1602.05629, 2016.   
+[16] Y. Mao, C. You, J. Zhang, K. Huang, and K. B. Letaief,“A survey on mobile edge computing: The communication perspective” IEEE Communications Surueys  Tutorials, vol.19, no.4, pp. 2322-2358, 2017.   
+[17] T. Li, A. K. Sahu, A. Talwalkar,and V. Smith,“Federated learning: Challnges, methods,and future directions,” arXiv preprint arXiv:1908.07873, 2019.   
+[18] Q.Yang, Y. Liu,T. Chen,and Y. Tong,“Federated machine learning: Concept and applications,”ACM Transactions on Intelligent Systems and Technology (TIST), vol. 10, no. 2, pp.1-19, 2019.   
+[19]K. Mishchenko, E. Gorbunov,M. Takac,and P. Richtarik,“Distributed learning with compressed gradient differences,” arXiv preprint arXiv:1901.09269, 2019.   
+[20] X. Liu, Y. Li, J. Tang,and M. Yan,“A double residual compresson algorithm for effcient distributed learning,” arXiv preprint arXiv:1910.07561, 2019.   
+[21] S. Vaswani,F. Bach, and M. Schmidt,“Fast and faster convergence of sgd for over-parameterized models and an accelerated perceptron,” arXiv preprint arXiv:1810.07288, 2018.   
+[22] A. Reisizadeh,A. Mokhtari, H. Hassni, A. Jadbabaie,and R. Pedarsani,“Fedpaq: A communicationeffcient federated learning method with periodic averaging and quantization,” arXiv preprint arXiv:1909.13014, 2019.   
+[23] Z.Li, D. Kovalev, X. Qian,and P.Richtarik,"Acceleration for compresed gradient descent in distributed and federated optimization,” arXiv preprint arXiv:2002.11364, 2020.   
+[24] S.Khirirat, H.R.Feyzmahdavian,and M. Johansson,“Distributed learning with compressed gradients,"” arXiv preprint arXiv:1806.06573, 2018.   
+[25]H. Tang, X. Lian, C. Yu, T. Zhang,and J. Liu,“Doublesqueeze: Parallel stochastic gradient descent with double-pass error-compensated compresson,” arXiu preprint arXiv:1905.05957, 2019.   
+[26] P.Goyal,P.Dolla,R.Girshick,P.Noordhuis,L. Wesolowski,A. Kyrola,A.Tulloch,Y. Jia,and K.He, "Accurate,large minibatch sgd: Training imagenet in 1 hour,” arXiu preprint arXiv:1706.02677, 2017.   
+[27] Y.You, Z. Zhang, C.-J. Hsieh,J. Demmel,and K. Keutzer,"Imagenet training in minutes,” in Proceedings of the 47th International Conference on Parallel Processing, p. 1, ACM, 2018.   
+[28] M. Yamazaki, A. Kasagi, A. Tabuchi, T. Honda, M. Miwa, N. Fukumoto, T. Tabaru,A. Ike,and K. Nakashima,“Yet another accelerated sgd: Resnet-50 training on imagenet in 74.7 seconds,” arXiv preprint arXiv:1903.12650, 2019.   
+[29] Z.-Q.Luo,“On the convergence of the lms algorithm with adaptive learning rate for linear feedforward networks,” Neural Computation, vol.3, no. 2, pp. 226-245,1991.   
+[30] R. Johnson and T. Zhang,“Accelerating stochastic gradient descent using predictive variance reduction,” in Aduances in neural information processing systems, pp. 315-323, 2013.   
+[31] A.Defazio,F. Bach,and S.Lacoste-Julien,“Saga: A fast incremental gradient method with support for non-strongly convex composite objectives,” in Aduances in neural information processing systems, pp.1646-1654, 2014.   
+[32] S. Shalev-Shwartz and T. Zhang,“Stochastic dual coordinate ascent methods for regularized loss minimization,” Journal of Machine Learning Research, vol.14, no. Feb,pp.567-599, 2013.   
+[33] C.Liu and M. Belkin,“Mass: an accelerated stochastic method for over-parametrized learning,” arXiu preprint arXiv:1810.13395,2018.   
+[34] W. Y. B. Lim, N. C. Luong, D. T. Hoang, Y. Jiao, Y.-C. Liang, Q. Yang, D. Niyato, and C. Miao, "Federated learning in mobile edge networks: A comprehensive survey,” IEEE Communications Surveys Tutorials, 2020.   
+[35] F. Zhou and G. Cong,“On the convergence properties of a $k$ -step averaging stochastic gradient descent algorithm for nonconvex optimization,” arXiu preprint arXiu:1708.01012, 2017.   
+[36] S. U. Stich,“Local sgd converges fast and communicates litle,”arXiv preprint arXiv:1805.09767, 2018.   
+[37] J.Wang and G. Joshi,“Cooperative sgd: A unifed framework for the design and analysis of communication-effcient sgd algorithms,’ arXiu preprint arXiv:1808.07576, 2018.   
+[38] A.Khaled, K. Mishchenko,and P. Richtarik,“First analysis of local gdon heterogeneous data”arXiu preprint arXiv:1909.04715, 2019.   
+[39] H. Yu, S. Yang,and S. Zhu,“Parallel restarted sgd with faster convergence and less communication: Demystifying why model averaging works for deep learning,” in Proceedings of the AAAI Conference on Artificial Intelligence,vol. 33,pp. 5693-5700,2019.   
+[40] B.E.Woodworth, J. Wang,A.Smith,B.McMahan,and N. Srebro,"Graph oracle models,lower bounds, and gaps for parallel stochastic optimization,” in Aduances in neural information processing systems, pp.8496-8506,2018.   
+[41] X.Li, K. Huang, W. Yang, S.Wang, and Z. Zhang,“On the convergence of fedavg on non-iid data," arXiv preprint arXiv:1907.02189, 2019.   
+[42] Y.LeCun，L. Bottou, Y. Bengio,and P. Haffner,“Gradient-based learning applied to document recognition,” Proceedings of the IEEE, vol. 86, no.11, pp. 2278-2324,1998.   
+[43] J.N. Tsitsiklis and Z.-Q.Luo,"Communication complexity of convex optimization,” Journal of Complerity, vol. 3, no.3, pp. 231-243,1987.   
+[44] V.Nair and G.E. Hinton,“Rectifed linear units improve restricted boltzmann machines,” in Proceedings of the 27th international conference on machine learning (ICML-10), pp. 807-814, 2010.   
+[45] P.Elias,“Universal codeword sets and representations of the integers,” IEEE transactions on information theory,vol. 21,no.2,pp.194-203,1975.

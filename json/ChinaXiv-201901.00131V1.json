@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "山竹台风影响下受灾群众心理状态的台风眼效应基于时间与空间维度的微博行为数据分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱致琛1,4 周意勇1,4 王宇宸1,4卢江丰2,4 程羽慧3,4 何婷婷2,4朱廷劭1（」中国科学院心理研究所行为科学重点实验室，北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（²中国科学院心理研究所心理健康重点实验室，北京100101）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院心理研究所，脑与认知科学国家重点实验室，脑科学与智能技术卓越创新中心，北京",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "100101) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（4 中国科学院大学心理学系，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要选取山竹台风典型受灾地区(广东)和非受灾地区(安徽)微博用户的行为数据，使用大数据分析的方法从时间和空间两个维度检验心理台风眼效应。结果发现，在时间维度上，受灾地区对台风的关注存在差异，但并没有表现出\"高-低-高\"的心理台风眼模式，具体来说，受灾地区在台风过境后对其关注程度高于台风过境前，而台风来临前与过境中、来临后与过境中对台风关注程度没有显著差异；在空间维度上，受灾地区和未受灾地区在对台风的关注度上不存在显著差异。本文对研究的局限性进行了分析，以期为未来研究提供相关思考和借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词山竹台风；时间；空间；微博大数据；心理台风眼效应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "山竹台风(Typhoon Mangkhut)作为珠三角地区37 年来最大的台风灾害(国际编号 1822)，于 2018年9月16日在广东泰山海燕镇登陆，短短两天内造成广东、广西、海南、湖南、贵州5省(区)，导致近300万人受灾，160.1万人紧急避险转移和安置，1200余间房屋倒塌，直接经济损失52亿元，给国家和人民造成了严重的生命和财产损失(何畅,2018)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在造成生命财产损失的同时，自然灾害往往也会给受灾地区人民的心理造成巨大的冲击和伤害。如何正确地认识和描述此次台风给受灾群众带来的心理影响，是解决灾后心理援助问题、后续在其他灾难来临前对人民心态进行调整的基础(沈世林，张彩云,& 王玉萍,2014)。本研究致力于次，拟利用大数据分析手段，从时间和空间两个维度出发探究对于台风灾难前后、受灾与非受灾地区人民心理状况的动态变化轨迹。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于台风是可以预测的一种天灾，我们需要了解台风发生前(得知台风消息后到台风登陆前)、台风发生中、台风结束后(台风撤离)的一段时间，相关受灾群众的心理变化过程是怎样的，这可以帮助心理工作人员在不同的时期选择不同的心理干预手段。已经有一些心理学研究，对受灾地区人民心理情况的变化进行了一定的解释。以往研究表明，在灾难发生的时间和空间维度上，存在着一种“心理台风眼效应\"(Psychological typhoon eye effect)，即在时间维度上，越接近高风险时段，心理越平静；在空间维度上，越接近高风险地点，心理越平静(李纾，刘欢，白新文，任孝鹏，郑蕊,李金珍，饶俪琳，汪祚军,2009)。该理论已经在空间维度(李纾等,2009)、以及从灾后的时间维度 (时勘，陈雪峰，胡卫鹏,贾建民，高晶，李文东，范红霞，余俊生，张丽红,2003)上得到了证明。但鉴于灾害发生的特点，先前研究从时间维度上难以覆盖到灾难发生前和发生中受灾地区人民或准受灾地区人民的心理状况，而台风这种天灾具有可预测性的特点，可以满足完整地从灾难发生前、中、后探究受灾群众心理变化的需求。另外，台风的可预测性给台风地区的群众提供了一段准备和等待灾难的时期，灾难发生时受灾人民也是有心理预期的，这与地震、洪水等突发性灾害有所区别，可能使得台风受灾群众的心理状态在时间维度产生有别于先前研究的一些特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在获取台风受灾群众的心理特征的途径上，“微博\"基于其可记录时间地点、数据量大这两个明显的优势，成为本研究很好的数据来源。因此，本研究拟基于台风雷达图，分别从时间和地域两个维度刻画此次山竹台风对受灾地区人民心理特征的影响。具体来说，选取典型受灾区（广东）和非受灾地区（安徽）的人们在台风过境前、中、后三个时间段内的微博行为数据，探究人们对此次台风的关注程度的变化，尝试用心理台风眼效应从时间和空间两个维度来解释人们面对台风这类自然灾害时的心理变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以期为帮助心理健康领域的研究者更好地理解可预期的应激事件前后人们的心理状态变化特点，同时在灾前预警、舆情管控和灾后心理救援工作等方面均有一定的实践启示作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 山竹台风影响下人们的关注程度在时间维度上的台风眼效应",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目的为分别探究台风发生前中后三个时间段内，受台风影响的广东省人民对山竹台风的关注程度随时间的变化特点。选取时间段为自变量，共有发生前，发生中，发生后三个水平；选取台风山竹的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关注程度(以山竹、台风相关关键词的词频表示)为因变量，对广东省用户的微博行为数据进行分析。研究假设，受灾区在台风发生前、发生中、发生后三个时间段中，人们对山竹台风的关注程度呈现高-低-高变化的特点，表现出时间维度的台风眼效应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 山竹风影响下人们的关注程度在空间维度上的台风眼效应",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目的为探究台风发生过程中，受灾地区(广东)与非受灾地区(安徽)对山竹台风的关注程度的差异，因变量与 2.1.1 相同。研究假设，受灾与非受灾地区相比，人们对山竹台风的关注程度存在差异，基于台风眼效应，灾区人民其关注程度反而小于邻近的非灾区人民。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取此次台风的典型受灾地区和对照地区的微博用户数据。被选取的微博数据需要满足以下条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）发布该微博的用户，主页-基本资料-个人信息-所在地为：广东或安徽；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）微博的发布时间介于台风过境中及其过境前后三天：2018年9月1日0:00至2018年9月 30日24:00。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究爬取的数据内容包括：符合上述(1)所在地要求的用户在上述(2)时间段内所发表的所有微博的文字内容，包括\"原创微博”、“转发微博”（转发微博包括转发内容的原文，以及转发者自己写的文字内容)。最终采集到符合条件的微博数据共计30万条左右，形式如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ID 用户名 地区 发布时间 微博内容2 1601518827 卷毛菟 安徽 合肥 1537545600 牛3 1601518827 卷毛菟 安徽 合肥 1537372800 8:21 64 1601518827 卷毛菟 安徽 合肥 1535904000 我在#签到领红包#打卡啦！每日签到令5 1601518827 卷毛菟 安徽 合肥 1536163200 先把耳朵洞钻上。6 1601518827 卷毛菟 安徽 合肥 1537113600 都是好东西，开一个7 1601518827 卷毛菟 安徽 合肥 1536595200 超级帅气！这才是男孩子该有的样子8 1601518827 卷毛菟 安徽 合肥 1537718400 晚一点，早一点都好！不能将就！9 1601518827 卷毛菟 安徽 合肥 1536249600 两岁多....用的挺好不换..10 1601518827 卷毛菟 安徽 合肥 1537459200 恶人终有恶报！11 1601518827 卷毛菟 安徽 合肥 1535904000 不久之后又会有一个女人站出来为自で12 1601518827 卷毛菟 安徽 合肥 1535817600 转发微博13 1601518827 卷毛菟 安徽 合肥 1537459200 从来中过奖，月饼节就靠你了。欧哥14 1601518827 卷毛菟 安徽 合肥 1537286400 大半夜的，想参加个抽奖我容易吗我。15 1883573041 络文梦剧场 广东广州 1536163200 只想与你再一起16 1883573041 络文梦剧场 广东广州 1538236800 拍了一张照片。 网页链接 #一闪on17 1883573041 络文梦剧场 广东广州 1536249600 建设银行白金卡6万8额度什么水平18 1883573041 络文梦剧场 广东广州 1536076800 我在#签到领红包#打卡啦！每日签到令19 1883573041 络文梦剧场 广东广州 1538064000 哈哈哈20 1883573041 络文梦剧场 广东广州 1538064000 美丽",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3数据整理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对所采集符合要求的30万条左右的数据进行整理，以方便后期分析处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）将每个省的数据划分为台风过境前、过境中和过境后三个不同的时间段。以台风过境的时间（9 月  \n16 日—18日）为中心，将时间戳变量的值转换为3个： $\\mathbf { x } < 1 5 3 7 0 8 8 4 0 0$ 赋为1， $1 5 3 7 0 8 8 4 0 0 \\mathrm { < = } \\mathrm { { x } }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "<=1537174800 赋为2， $1 5 3 7 1 7 4 8 0 0 < \\mathrm { x }$ 赋为3，分别存储为3个单独的xlsx文件，如\"广东-过境前”、“广东-过境中”、“广东-过境后”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）以省为单位建立两个单独的文件夹，以广东省为例，每个文件夹包括“广东省”、“广东-过境前”、“广东-过境中”、“广东-过境后\"四个 xlsx 格式的文件，每个文件的首行分别为：用户ID、用户名、地址、时间戳、微博内容。内容结构如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户ID 用户名 地址 时间戳 微博内容  \n2 1694550631安徽论坛 安徽合肥 1537286400 台风余威致多地暴雨 凶悍的\"山竹\"会被除名吗？】17日晚，  \n3 1694550631安徽论坛 安徽合肥 1537286400 【炒面打翻在地服务员称重做不料面中吃出盘子碎片】15  \n4 2521764812走拍旅行 安徽合肥 1538150400|没有领略过坝上的秋色，这旅行的路上多黯然失色。胡守  \n5 2521764812走拍旅行 安徽合肥 1537804800呈坎晒秋，蜀源古村向日葵，这个秋天，皖南美醉了！星  \n6 2521764812走拍旅行 安徽合肥 1537545600【发现青海首屈一指的名胜古迹】青海塔尔寺，十万狮子[  \n7 2521764812走拍旅行 安徽合肥 1537718400庐阳中秋夜。金健平/摄#最美赏月地##走拍旅行#摄影美[  \n8 2521764812走拍旅行 安徽合肥 1537459200#走拍旅行#中国最好玩的地方开封小宋城，好玩好吃的地  \n9 2521764812走拍旅行 安徽合肥 1537372800彼岸花中国花语：优美纯洁朝鲜花语：相互思念日本花语：悲伶  \n10 2521764812走拍旅行 安徽合肥 1538236800一个人，要在内心里给最喜欢的人，给喜欢的地方，喜欢  \n11 2521764812走拍旅行 安徽合肥 1537286400【发现沉睡的百年古镇，比凤凰古镇还淳朴】坐落于福建  \n12 2521764812走拍旅行 安徽合肥 1537372800 找一个喜欢的人，一起去看川西秋色吧！徐旭/摄#走拍旅  \n13 2521764812走拍旅行 安徽合肥 1537977600中国最美滩涂，霞浦。拍摄地：下青山落日，江村s弯，杨  \n14 2521764812走拍旅行 安徽合肥 1537718400今夜月明人尽望，不知秋思落谁家？图/徐国友#最美赏月  \n15 2521764812走拍旅行 安徽合肥 1537286400台风后，今天下午四点，安徽合肥东方的天空出现巨大的\"  \n16 1773263881 qa1ws23 安徽芜湖 1537632000//@午后狂睡:英雄。//@天凶://@庆丰:正能量  \n17 1773263881qa1ws23 安徽芜湖 1537632000//@阴楼孤魂:转发微博  \n18 1773263881 qa1ws23 安徽芜湖 1538064000//@老白喵喵喵://@红麟or阿莹-废材组://@Mia_薛定谔的  \n19 1773263881qa1ws23 安徽芜湖 1538150400//@阴楼孤魂://@孔令旗的地盘://@看看底牌:触目惊心//(  \n20 1773263881 qa1ws23 安徽芜湖 1537459200//@那谁家的兔纸://@Lilys：又蠢又坏//@只谈风月猫 $: / / @ \\bar { \\xi } .$   \n21 1773263881 qa1ws23 安徽芜湖 1537286400//@美食家大雄:每天送孩子上学放学都是早晚高峰，司机  \n22 1773263881qa1ws23 安徽芜湖 1537891200//@饼干姐://@暴雨雷霆:我以后讲课都要提醒民警，梨视  \n23 1773263881 qa1ws23 安徽芜湖 1537977600 //@杭之冯玥均建国后成精:所以还是要背锅啊。//@来去z  \n24 1773263881qa1ws23 安徽芜湖 1538150400//@阴楼孤魂://@宽容公正麦卡锡: $@$ 押沙龙??//@華朱咖;  \n25 1773263881 qa1ws23 安徽芜湖 1537804800 //@泉涸-鱼相与处于陆:恐怖片d(?g??)  \n26 1773263881 qa1ws23 安徽芜湖 1537372800//@天闻角川:DOIT.//@重工组长于彦舒:哈哈哈哈哈//@/  \n27 1773263881qa1ws23 安徽 芜湖 1537977600//@孔令旗的地盘：现在社会给家长、老师教育孩子的权限  \n安徽-过境后 $\\textcircled{+}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于台风词汇库，选取29个与台风相关的词汇，对每条\"微博内容\"的词频数进行统计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）将\"用户ID\"和\"时间戳\"均相同且\"地址\"为\"广东\"的\"微博内容\"的台风相关词频数相加得到若干个频数cnti，每个cnti 只对应一个\"用户 ID”，从而只对应一个\"地址”，每个\"用户 ID\"不一定只对应一个 cnti；计算\"用户 ID\"和\"时间戳\"均相同的\"微博内容\"的总汉字数 ni。用 cnti 除以相应的 ni,得到该用户在该时间段微博内容中台风相关词语的频率pi。将\"时间戳\"为1的pi放入列表 list1;将\"时间戳\"为2的pi放入列表 list2；将\"时间戳\"为3的pi放入列表list3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）将\"用户 ID\"相同的\"微博内容\"的台风相关词频数相加得到若干个频数cnti，每个cnti 只对应一个ID，每个ID 也只对应一个cnti；计算\"用户 ID\"相同的\"微博内容\"的总字数ni。用cnti 除以相应的ni，得到该用户在整个台风时间段微博内容中台风相关词语的频率pi。将\"地址\"为广东的pi放入 listl；将 SPACE 为安徽的 pi放入list2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）对第一步和第二步的list，分别做两两差异检验，结果示意图如图3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究利用大数据分析手段，从时间和空间两个维度出发探究了台风灾难发生前后、受灾与非受灾地区人民心理状况的动态变化轨迹。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在时间维度上，广东省用户微博行为数据表明，台风来临前和台风来临后的\"台风相关词汇\"频率存在显著差异 $( { \\sf t } = - 1 . 9 9 ; { \\sf p } = 0 . 0 5 )$ ，台风来临前的频率显著低于台风来临后，但并没有表现出“高-低-高\"的心理台风眼模式。我们认为有两个可能的原因：一方面，广东地区由于地理位置的特殊性，台风经验和台风隐患较多，故而在发布台风预警时人们对台风的关注并不会显著增加；另一方面，随着对台风的认识和应急措施的不断完善，在台风登陆后，受灾区人们的台风体验和新闻报道等的不断更进，进而人们对其的关注会有所增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在空间维度上，广东省和安徽省的微博行为数据表明，受灾地区和非受灾地区的对台风的关注程度在台风来临前中后整个时段内，都没有显著差异。这可能是因为在微博上，台风的相关推送和报道覆盖性很强，这导致非受灾地区的微博用户也会出现及时更进台风的相关报道，在关注度上差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "pyuvi ( yuivil ivy FileEdit Search Source Run Debug Consoles Projects Tools View Help @ 贝 ：而而? 国 C C:\\Users\\dinistratorDesktop →   \nEditor-C:\\Users\\Adinistrator\\Desktop\\utitledpy XHelp ×   \ntemp.py区 untitledD.py区 Source Console  Object 1#-\\* coding:utf-8 -\\*- > △ 3 Created on Sun Jan 13 15:32:28 2019 Usage 6\"\" 5 @author: Administrator Here you can get help of any object by 8 import pickle 9 with open( r'C:/Users/Administrator/Desktop/广东中关键词频率.pkl','rb') as f: Help can also be shown automatically after 10 temp1 = pickle.load(f) writing a left parenthesis next to an object. 11 list1 = list(temp1.values()) You can activate this behavior in Preferences 12 > Help. 13 import pickle 14ithtr率 New to Spyder? Read our tutorial 16 list2 = list(temp2.values()) 18 import pickle Variable explorerFile explorer Help 19 with open( r'C:/Users/Administrator/Desktop/广东前关键词频率.pkl','rb') as f: IPython console × 2 stse)) Console 1/A区 22 In [2]: runfile('C:/Users/Administrator/Desktop/untitled0.py', A 23 a=[list1,list2,list3] wdir='C:/Users/Administrator/Desktop') 24 1 25 for i in range(0, 3, 1): 非正态   \n272293 tor 31323453678 琴 38 if p1>=0.05 and p2>=0.05: In[3]： V Permissions: RW End-of-lines: CRLF Encoding: UTF-8 Line: 19Column: 47Memory: 70 %   \nSpyder (Python 3.6)   \nFileEdit Search Source RunDebug ConsolesProjects ToolsView Help   \nD日bi@ ? 贝 =a而而→ 国 c1 ? C:\\Users\\Adninistrator\\Desktop →   \nEditor-C:\\Users\\Administrator\\Desktop\\方差分析.py xHelp □×   \ntenp.py区 untitledD. py 区 方差分析.py区 Souree Console Object 18 a=[list1,list2] A 二 19 20 for i in range(0，2,1)： Usage 21 for m in range(i + 1, 2, 1): 23 Fro dystrtet e   \n25262728233234 578 H t2,p2 = kstest(am];or) ai print(i,m) New to Spyder? Read our tutorial if p1>nt(d p2>=0.05: 1 t3,p3=bartlett(a[i],a[m]) VariableexplorerFile explorer Help if pt(t3:\",t3,\"p3=\",p3,\"方差齐\") IPython console × 383940 t0,p0 = ttest_ind(a[i],a[m]) Console 1/A区 elseprint(\"p3=\",p3,\"方差不齐\") In [6]: runfile(C:/Users/Administrator/Desktop/方差分析.py'， →   \n1忆434567849515254 nte ir=C:/User/distratst') 非正态 else: Run wilcox test print(\"非正态\") 最终结果：t0= 0.1477373227453836 p0= 0.882550075531948 if len(a)<20: print('Run wilcox test ...') In [7]: t0,p0 = ranksums(a[i],a[m]) else: t0,p0 = mannwhitneyu(a[i], a[m]) print('Run Mann-Whitney U test...\\*) print(\"最终结果:to=\",to,\"po=\",po) v √ Permissions: RW End-of-lines: CRLF Encoding: UTF-8 Line: 21 Column: 28Memory: 71% ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究通过微博行为数据分析的方法，探究受灾地区及其邻近地区“山竹台风\"的关注度是否在时间和空间上存在台风眼效应，结果并未发现时间和空间上的台风眼效应。除了上述可能的原因外，也可能是研究方法的缺陷，由于本研究反应关注度的方法是计算提及关键词的词频，可能\"台风相关词汇\"的词频并不能很好地反映对某件事物的关注程度，例如用户可能表达了台风相关内容但并未提及相关词汇。在后续研究中，应该考虑使用更丰富的指标反应关注程度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究具有重要的理论和实际意义。在理论上，能够帮助心理健康领域的研究者更好地理解可预期的应激事件前后(如台风、地震、泥石流等自然灾害)，受影响人群的心理状态变化特点。同时在实践上，本研究对灾前预警、舆情管控和灾后心理救援工作等方面均有一定的启示作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同时，本研究也存在一些局限性。首先上文已经提及，可能\"台风相关词汇\"词频并不能很好地反映对某件事物的关注程度，后续研究中，应该考虑使用更丰富的指标反应关注程度，例如\"负性情绪相关词汇\"的词频。其次，本研究没有对受灾经验维度进行控制。本次山竹台风受到波及的地区中也存在着一些有趣的差异点，比如有些省份从前并没有台风(例如湖南)，而有些省份则曾经受到，甚至多次受到台风的打击(例如广东)。是否有过受灾经验，对相关地区的人民面对灾害时的心理特征可能会产生一定的影响(健哉,2008；雷晓敏,2011)。未来研究或可致力于此，剥离开受灾经验的潜在影响，更好地揭示受灾地区人们的心理活动状态。另外，本研究并未囊括菲律宾这一受灾重区。本次山竹台风在国际换日线以东海域形成后，不断西进，先后影响到了毗邻的中国和菲律宾地区，且菲律宾地区遇难人数远超于中国。本研究对于数据的选取囿于微博，而不是更具国际通识性的数据源，如气象局资料或新闻报道等，这使得研究样本局限于中国地区。对比此次台风对菲律宾与中国地区造成影响的差异性，对灾前预警和舆情管控等方面有着重要的启示，比如台风率先登陆广东，可能对毗邻的菲律宾具有警示作用，其民众对台风的关注度和焦虑程度会呈现出\"提前\"的效果，而不是典型的“台风眼”效应。未来研究或可尝试对样本量进行扩大，继续深入分析台风类自然灾害事件对人们心理状态的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "何畅.(2018).强台风\"山竹\"带给我们的反思．深圳商报.  \n雷晓敏.(2011).中国民众抗震自救能力研究——以日本国民消解震灾经验为例．战略决策研究,02(3),51-55.  \n李纾，刘欢，白新文，任孝鹏，郑蕊,& 李金珍等.(2009).汶川“5.12\"地震中的“心理台风眼\"效应．科技导报，27(3), 87-98.  \n沈世林，张彩云,& 王玉萍.(2014).重大自然灾害创伤后心理应激障碍研究现状．卫生职业教育,32(12),158-159.  \n时勘，陈雪峰，胡卫鹏，贾建民，高晶，李文东，范红霞，余俊生，张丽红.(2003).北京市民对 sars 疫情的风险认知特征．人口研究,27(4),44-48.  \n健哉.(2008)．日本的抗震救灾经验．中国减灾,2008(6),50-51.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Typhoon Eye on the Psychological State of the Victims under the Impact of Typhoon Mangosteen: Analysis of Microblog Behavioral Data Based on Time and Spatial Dimensions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zhu Zhichen1,4 Zhou Yiyong1,4 Wang Yuchen $\\cdot ^ { 1 , 4 }$ Lu Jiangfeng2, 4 Cheng Yuhui3,4 He Tingting2, 4 Zhu Tingshaol (1 CAS Key Laboratory of Behavioral Science, Institute of Psychology, Beijing, China) (² CAS Key Laboratory of Mental Health, Institute of Psychology, Beijing 100101, China) ( State Key Laboratory of Brain and Cognitive Science, CAS Center for Excellence in Brain Science and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Intelligence Technology,Institute of Psychology, Chinese Academy of Sciences,Beijing100101, China) (4 Department of Psychology, University of Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Microblog behavioral data of typical disaster-stricken areas under the Impact of Typhoon Mangosten (Guangdong)and non-disaster areas (Anhui) were selected to test the psychological typhoon eye efect from two dimensions of time and space with the method of big data analysis.The results show that there are diferences of atention degree in the time dimension,but there is no \"high-low-high\"psychological typhoon eye pattern in the ffcted areas.Specifically,the attention of the affected areas after the transit of typhoon is higher than that before the transit of typhoon,while there is no significant diference of the attention of typhoon betweenthe time periods before,during and after the transit.There is no significant diffrence between the disaster-strickenareas andthe nondisaster areas in the dimension of spatial. Limitations ofthe study are mainly analyzed in order to provide relevant thinking and reference for future research. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Typhoon Mangosteen; Time; Spatial; Big Data on Microblog; Psychological Eye Effect of Typhoon ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "附录1台风词库（22个）",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "强台风，台风，山竹，应急预案，暴雨，超强台风，气象专家，强风，灾害，防护，危害，降雨，检测，预报，天气，台风眼，风力等级，平均风速，气旋，灾害性天气，气压，路径，亮温，风力，风速，气压梯度，天气图，天气报告，高压",
+        "page_idx": 8
+    }
+]

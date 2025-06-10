@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201704120639 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱敏,谢跟踪,邱彭华.海口市生态用地变化与安全格局构建.生态学报,2018,38(9);3281-3290.  \nZhuM,XieGddoaldi(9):3281-3290.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "海口市生态用地变化与安全格局构建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱敏1,²，谢跟踪²,\\*，邱彭华²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1湖北大学生命科学学院，武汉430062  \n2海南师范大学地理与环境科学学院，海口571158",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：城市化过程中,城市生态用地变化与安全格局构建对于城市生态系统健康、城市居民生活质量和城市可持续发展有着重要意义,生态用地的变化直接影响生态安全格局变化，生态用地安全格局又对生态用地的规划有指导作用。基于GIS 技术，对海口市1991年至2016年生态用地的时空变化过程进行研究,进而分析生态用地演变。选取高度、坡度、水资源安全作为生态安全影响单因子,并分级赋值,构建综合生态用地分布格局。以底线型生态用地为源,基于最小累计阻力模型（MCR）,以阻力阈值作为分级边界,划分不同安全水平的生态用地区域,进而确定源间生态廊道、辐射道与战略点,构建生态用地安全格局。分析结果表明;1991年至2016年,海口市三类生态用地变化最大,其中林地减少 $1 3 . 3 3 \\%$ ,园地增加 $9 . 1 3 6 \\%$ ,坑塘水面增加 $3 . 7 1 \\%$ 。南渡江以西生态用地从以林地为主转为园地与建设用地为主,其余地区变化较少。生态用地安全变化区域集中在海口市西部与东部,其中西部高安全水平区减少,整体安全水平急剧恶化,东部高安全水平区略有提升。故需要制定和实施合理的生态用地保护政策,对生态用地格局进行优化调整,以期构建区域内生态环境协调发展的可行方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态用地;最小阻力模型；安全格局;海口市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ecological land use change and construction of ecological land security pattern in Haikou city ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Min1²， XIE Genzhong2,\\* ， QIU Penghua²   \n1CollegeofLife Sciences，Hubei University，Wuhan43Oo62,China   \n2 School of Geography and Environmental Sciences，HainanNormal University，Haikou 571158，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In the processof urbanization，the change of urban ecological landuseand the construction of asafety pattern areof great significance for theurban ecosystem health，thequalityof life of urbanresidents，and thesustainable developmentofcities.Ecological landusechange afects the ecologicalsecuritypattrn directly.Theecologicallandsecurity pattern has aguidingrolefor the planingof ecologicalland.Basedonthe GIStechnology，thetemporaland spatial changes of ecologicalland in Haikoufrom1991to2O16andtheevolutioof ecologicalland were studied.Selectedheight,slopeand water resourcesecurityassingle factorof ecological safety impact，give them graded amountsto buildacomprehensive ecological land distribution pattrn.Basedonthe minimumcumulativeresistance（MCR）model，theresistance threshold wasusedasthe hierarchicalboundary，theecologicallandareaof diferent safety levelswasdivided，and then the ecological corridors，radiators，and strategicpoints were establishedtobuildasecuritypaternof theecologicalland.The resultsshowed thatfrom1991to2Ol6,thethree typesofecologicallandareasin Haikou Cityhadthebiggestchanges，with the forest land decreasing by $1 3 . 3 3 \\%$ ，the garden area increasing by $9 . 1 3 6 \\%$ ，and the pond water surface increasing by $3 . 7 1 \\%$ .The ecological land tothe west of Nandu River mainly changed fromforest land togarden landandconstruction land，and therestof theareachangedless.Thehigh safetylevelarea in1991 was muchlargerthan in2O16,but thelow safetyareawaslower than in2Ol6.Theoveralltrend graduallydeteriorated.Over two years，the western and southernareas ofthetwo \"source\"asthe center，the high security area，thesafety area，andthe low securityarea formeda circular arrangement，while the Nandu River was the \"source\"，with high，medium，and lowareas localized along theriver.In 2016,thecoridors were arranged in threerings，distributed evenlythroughout thecity，buttherelationship betweenthe sourceswas weakened.Theradiationpath wasstillirregularlydistributed，whilethenumberof strategicpointsdecreased significantlycompared with thosein1991，indicating thattheecological impactand imbalanceofeachpart becomemore and moreserious，the stabilityof ecological safety intheregion has been destroyed.Thearea where ecological land use change occurred isconcentrated tothe westand eastof Haikou City，whilethehigh safetyarea tothe westof Haikou was reducedandtheoverall safety level deterioratedrapidly.The high safetylevelareato theeast slightly improved.Therefore, it is necessaryto formulateand implement areasonable ecological protection policyand landuse patern tooptimize the adjustment，withaviewof buildingacoordinatedenvironmentforcoordinated developmentof theecologicalenvironment within the region. D ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words : ecological land ;minimum cumulative resistance model; security pattern； Haikou",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2000 年,国家发布的《全国生态环境保护纲要(国发[2000]38号)》中提到了“生态用地\"这一词语,虽然没有具体解释其定义,但明确指出了其重要性[1]。众多学者在此基础上发展了生态用地的概念和内涵。一种观点主张从土地类型上来区分,认为提供自然生态系统服务价值的土地都可以被视为生态用地。另一种观点主张从土地的主体功能来区分,对于以经济产出为核心目的的农业生产用地不作为生态用地[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在生态用地安全格局构建方面有很多不同的方法。荣冰凌等通过甄别和提取重要生态源和关键节点,结合水体和交通缓冲区,构建城市生态用地网络空间[3]。曾招兵评价并优化区域的生态用地景观格局,建立了生态用地建设综合评价体系[4]。李晓丽等对长沙市 2007 年生态用地建设的现状进行了综合评价,并利用最小耗费距离模型构建了生态廊道[5]。俞孔坚等运用景观安全格局理论和GIS 技术,构建最低安全标准下的生态景观格局,以此作为城市扩张的生态底线,模拟北京的未来城镇空间扩张格局[6]。由于俞孔坚的研究方法综合考虑了景观单元间的水平联系,能够较好地反映生态安全格局的内在有机联系,具有良好的实用性。近年研究者对海口市土地利用类型变化有详细研究,并对生态源地、生态廊道与生态节点亦做了分析,但鲜有研究者单独对海口市生态用地的安全格局以及相应的时空变化做一个系统科学的分析,且并未考虑综合因素且利用景观安全格局理论划分出高、中、低安全水平区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文进一步分析两年生态用地类型变化与变化驱动原因,利用最小累积阻力模型构建生态用地安全格局,最后分析两年生态用地安全格局的时空变化，是基于最小累计阻力模型的海口市生态用地安全格局的初探,同时也为海口市的生态安全建设提供了科学依据,同时可应用于城市规划,使生态用地的生态效益最大化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海口市地处海南岛北部,北临琼州海峡,东邻文昌市,南面与文昌市、定安县接壤,西面邻接澄迈县,总面积 $2 3 0 4 . 8 4 \\mathrm { k m } ^ { 2 }$ 。属热带海洋性季风气候。地貌上分为北部滨海平原区,中部沿江阶地区,东部、南部台地区,西部熔岩台地区[7]。植被以灌木草丛为主,天然植被为热带地区常见的野生灌木草丛植物种群,城区以人工植被为主[8]。海口市是海南省政治、经济、文化中心和最大的交通枢纽,作为海南省面积最大、城市化速度快的地区,海南省国际旅游岛建设给予其发展契机同时又施加了压力[9」。全市生态环境总体良好,但因经济快速发展和城市迅速扩张,局部地区已遭到不同程度的破坏,研究生态安全的构建对海南生态旅游岛建设具有",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 数据来源与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "海口市具有生态功能的土地类型中,耕地在耕作生产过程中,必须不断的施肥、施药,产生严重的生态负作用;未利用地主要包括荒草地、盐碱地、裸岩等,改造难度大,生态功能小[10]。故本文选取林地、园地、牧草地、坑塘水面这4类用地作为海口市生态用地。基于1991和2016 年海口市土地利用数据,利用 2016 海口市土地利用数据和海口市1:5万核心要素图中的水系、高程点、等值线要素,生成数字高程模型,进行单因子分析,单因子指标体系根据查阅文献后选取制定,通过权重叠加生成综合生态用地布局图。选取综合生态用地中的底线生态用地作为“源”,查阅文献获得土地覆被类型的相对阻力系数表格,利用最小累积阻力模型生成生态用地安全格局水平图。 5",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 两年生态用地变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将1991年与 2016年海口市土地利用数据制成生态用地分布图。分别计算出1991与2016年各类生态用地面积及所占比例,定量分析生态用地。为了进一步研究生态用地的时空变化，依据1991和2016 年土地利用类型图,通过ArcGIS 对两年的生态用地分布图进行叠置分析,运用ArcGIS软件的空间分析功能,进行数据处理,并导出土地利用转移矩阵,结合变化区域图进行定性与定量分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2基于MCR生态用地安全格局构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以底线型生态用地为源,构建了缓冲区,基于最小累积阻力值和面积关系曲线,以阻力阈值作为分级边界，建立了源之间生态廊道及源与外部联系的辐射道，确定了关键的战略点，最终完成景观安全格局的构建获得不同安全水平的用地格局。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1影响单因子和综合因子分析确定“源”",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“源”是事物或事件向外扩散的起点和基地,由于生态用地扩张源为生物多样性较丰富、生态功能性较强的地区,故本文中底线生态用地是生态系统的源,是保护生态安全的关键区域[11]。起着维护生命土地的安全的关键作用，是社会获得可持续发展的基本保障。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态用地安全格局分析要从综合水安全格局、地质灾害安全格局、生物保护安全格局三大类来分析[12]；水安全格局在选取单因子时,考虑到其稳定性与易获得性,选取地表水源安全因子来分析[13];地质灾害主要受植被覆盖、高程、坡度、地形起伏度和人类活动的影响[14],在这些因子中,高程、坡度所占权重最大,故选取这两类因子;生物保护方面,影响程度基本与用地类型相关,在模型中影响不大,故未选取。综合选取了高度、坡度、水资源安全这3类单因子的指标体系,参考前人研究,根据这3类因子的生态敏感性进行赋值。选取2016 海口市数据,由已有的高程点、等值线数据经处理后得到像元大小为 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 的DEM数据[15-16],在DEM数据和已有的水系图的基础上进行坡度、水系、高度的处理,设置分类的级别和方法(表1),最后进行加权叠加[1],计算3类指标的各个级别的面积。这4类级别分别赋予极重要、中等重要、一般重要和不重要的含义,综合叠加各单因子的重要性分析结果,得到底线型、缓冲型、理想型3个级别的生态用地。最后,以底线型生态用地为\"源”,运用最小阻力模型构建海口市高中低3种水平的生态用地安全格局[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e25bfb22460d9f79922cb60501d37271fc3f1ac676daa6ad74d0b7734625a558.jpg",
+        "table_caption": [
+            "表1影响单因子指标体系",
+            "Table 1 Affect the single factor index system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">影响因子 Impact factor</td><td colspan=\"4\">敏感性赋值 Sensitivity values</td><td rowspan=\"2\">权重 Weights</td></tr><tr><td>1</td><td>3</td><td>5</td><td>7</td></tr><tr><td>高度 Height/m</td><td>20</td><td>20—50</td><td>50-80</td><td>80以上</td><td>0.3</td></tr><tr><td>坡度 Slope</td><td>0-5°</td><td>5°—15°</td><td>15°-25°</td><td>25°以上</td><td>0.3</td></tr><tr><td>水安全Water safety/m</td><td>>500</td><td>200- -500</td><td>100- -200</td><td><100</td><td>0.4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 阻力面的建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用最小累积阻力模型(MCR)来建立阻力面[19]。模型考虑3个方面的因素,即源、距离和景观介面特征[20],基本公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M C R } = f \\sum _ { j = n } ^ { i = m } { ( D _ { i j } \\times R _ { i } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathrm { , }$ 是一个未知的正函数,反映空间中任一点的最小阻力与其到所有源的距离和景观基面特征的正相关关系。 $D _ { i j }$ 是物种从源 $j$ 到空间某一点所穿越的某景观的基面 $i$ 的空间距离, $R _ { i }$ 是景观 $i$ 对某物种运动的阻力。（204号 $D _ { i j } \\times R _ { i }$ 之累积值可以被认为是物种从源到空间某一点的某一路径的相对易达性的衡量。其中从所有源到某点阻力的最小值被用来衡量该点的易达性。模型计算利用 ArcGIS 软件的空间分析模块cost distance 功能完成[21]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考前人研究得到的阻力系数（表2）,在用地类型矢量图层中,增加阻力系数列,然后转换成栅格。形成生态\"源\"扩散的成本栅格,栅格value 属性即为阻力系数。 0P",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a7ff2ece387ccbeac4e4ffb48fa1682bb1788dee0a7e32e2e480dcc24494cc8.jpg",
+        "table_caption": [
+            "表2物种空间运动的阻力因子与阻力系数",
+            "Table 2Resistance factor and resistance coefficient of species space motion "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地覆盖类型 Land cover type</td><td>阻力系数 Coefficient of drag</td><td>土地覆盖类型 Land cover type</td><td>阻力系数 Coefficient of drag</td></tr><tr><td>林地 Woodland</td><td>1</td><td>河流、滩涂、水库River，tidal flat，reservoir</td><td>5</td></tr><tr><td>坑塘沟渠Pondditch</td><td>10</td><td>草地 Grassland</td><td>30</td></tr><tr><td>耕地 Arable land</td><td>50</td><td>园地Garden</td><td>100</td></tr><tr><td>村庄建设用地及其他建设用地</td><td></td><td>城镇建设用地,道路</td><td></td></tr><tr><td>Village construction land and other construction land</td><td>400</td><td>Urban Construction land, road</td><td>500</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 辐射道的识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于阻力面还可以识别以“源”为中心向外辐射的低阻力谷线,它们是生态流向外扩散的低阻力通道,通常呈树枝状。可借鉴水文分析工具提取河流网络数据的过程,在生态阻力面上运用水文分析工具提取辐射道。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4“源”间廊道的识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“源\"间廊道就是在 MCR 阻力面图上是相邻两“源”之间的阻力低谷,是相邻两“源”之间最容易联系的低阻力通道。 A",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 战略点的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "指对\"源”间相互联系具有关键意义的生态节点，从MCR阻力面上反映出来的是以相邻“源”为中心的等阻力线的相切点，它对控制生态流等具有至关重要的意义[22-23]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6生态用地安全格局的建立与对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将研究区内的底线生态用地作为生态保护用地的“源”,基于最小阻力模型理论,通过 ArcGIS 空间分析工具中的成本距离方法[24]和标准分类方法的自然断裂法[25],自然断裂法是按栅格的聚类情况进行分类,符合自然的情况。通过对两年生态安全格局水平的栅格数据进行栅格计算器取交集的处理,得到两年的变化区域图,同时计算区域面积,并对比两年生态安全格局水平图分析其变化特征,进而提出针对性的规划方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1两年生态用地分布图表分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别对两年生态用地面积进行统计，计算其所占比例（表3），可看出1991年至2016年间，四类生态用地中，林地减少面积最大,减少了 $3 0 3 . 8 5 \\mathrm { k m } ^ { 2 }$ ,园地增加的面积最大，增加了 $2 0 7 . 4 4 \\mathrm { k m } ^ { 2 }$ ,坑塘水面在土地利用类",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "型面积中的比例有所增加,牧草地则减少。分析图1,海口市西部园地面积由 $4 0 . 7 5 4 \\%$ 增至 $4 9 . 8 9 \\%$ ,年变化率为 $9 . 1 3 6 \\%$ ,原因主要是果园、橡胶林和其他类型园地的增加。林地面积由 $2 2 . 0 6 \\%$ 降至 $8 . 7 4 \\%$ ,年变化率为$1 3 . 3 3 \\%$ ,原因是因为海口市果树与橡胶树大量种植。牧草地比例由 $0 . 1 3 \\%$ 减少至 $0 . 0 4 \\%$ ,年变化率为 $0 . 0 9 \\%$ ，海口市的西部地区牧草地减少,南部地区增加,分别转化为建设用地和耕地。坑塘水面有所增加,面积比例由$0 . 6 3 \\%$ 增加至 $4 . 3 5 \\%$ ,年变化率为 $3 . 7 1 \\%$ ,东部和西北部边界区坑塘水面有所增加，主要是由耕地和未利用地转化而来。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/57fce5d48122e3311a3339dbdd665607f3408456d86995edb076d4cccccea968.jpg",
+        "table_caption": [
+            "表3海口市1991—2016生态用地利用",
+            "Table 3Ecological land use in Haikou from 1991 to 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生态用地类型 Ecological land type</td><td>1991年面积/km² 1991 area</td><td>比例/% Proportion</td><td>2016 年面积/km² 2016 area</td></tr><tr><td>林地Woodland</td><td>503.23</td><td>22.064</td><td>199.38</td></tr><tr><td>园地Garden</td><td>929.53</td><td>40.754</td><td>1136.97</td></tr><tr><td>牧草地Grassland</td><td>2.97</td><td>0.131</td><td>0.85</td></tr><tr><td>坑塘水面 Pond water surface</td><td>14.46</td><td>0.634</td><td>99.16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b9644c15a87f693ddf5dd870fe7951e51d975333bf298027cd0f9f07d8e6e71.jpg",
+        "img_caption": [
+            "图1海口城市生态用地分布",
+            "Fig.1Distribution of ecological land use in Haikou "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2海口市土地利用转移矩阵表及变化区域图分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4中,列为1991年海口市土地利用类型,行是2016 年海口市土地利用类型,数值代表1991年向 2016年的转化面积。1991年园地对各类用地都有转化,主要转变为耕地、建设用地、林地,由图2可分析出牧草地主要分布于海口市的西北部,主要是由于经济开发发生了转换,总体来说,牧草地总面积和转换面积所占比重都很小。林地主要转化为园地与建设用地,且发生转化的地区基本集中在同一区域,主要位于南渡江以西地区,由于环境和市场的需求,农民多开发林地,种植经济效益较高的果树和橡胶树;同时由于城市建设用地的扩展,一部分林业也被建设用地所占据,主要是在北部城区发生这种变化;坑塘水面主要转换为未利用地、建设用地,主要是位于海口市东北部。2016年园地主要分布在了海口市的西部、东部和南部,且所占比例为生态用地中的最高,并以果园为主,除了果园产出效益高外,还与果园旅游的兴盛有密切联系;林地主要是由园地、耕地转化而来，由于林业资源的生物多样性最高,政府出台一系列造林政策,以保障生态安全;海口东部与西北部边界区的坑塘水面面积增加最多,主要用作水产养殖。2016年牧草地主要分布在海口市的南部,主要",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由耕地转化而来。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2174ab5031023368a4c1e8aa6f3d617584bc66b06804dc9c2ca04e6656ab43a0.jpg",
+        "img_caption": [
+            "图21991一2016年海口市土地利用变化类型图",
+            "Fig.2Land use change in Haikou from 1991 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图中：1:不变园地；2：园地—坑塘水面;3：园地—建设用地；4：园地—未利用地;5:园地一林地;6：园地—牧草地;7：园地—耕地;8：坑塘水面—园地;9:不变坑塘水面;10;坑塘水面—建设用地;11:坑塘水面—未利用地;12:坑塘水面—林地;13：坑塘水面—耕地;14：建设用地—园地;15:建设用地—坑塘水面;16:不变建设用地;17:建设用地—未利用地;18:建设用地一林地;19:建设用地—耕地;20:未利用地—园地;21:未利用地—坑塘水面;22:未利用地—建设用地;23:不变未利用地;24;未利用地—林地;25：未利用地—牧草地;26：未利用地—耕地;27:林地—园地;28:林地—坑塘水面;29:林地—建设用地;30:林地—未利用地;31：不变林地;32：林地—耕地;33：牧草地—园地;34:牧草地—坑塘水面;35：牧草地—建设用地;36:牧草地一未利用地;37:牧草地—林地;38:牧草地—耕地;39;耕地—园地;40:耕地—坑塘水面;41;耕地—建设用地;42:耕地—未利用地;43:耕地—林地;4;耕地—牧草地;45:不变耕地",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff4e6d358556324de12273d79beeac274a8050959af2d94daf25a9c9d678a3f7.jpg",
+        "table_caption": [
+            "表41991一2016海口市土地利用转移矩阵",
+            "Table 4 Land use transfer matrix in Haikou from 1991 to 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">建设用 坑塘水</td></tr><tr><td>用地类型 Land type</td><td>耕地/km² Arable land A</td><td>地/km Construction land</td><td>面/km² Pond water surface</td><td>林地/km² Woodland</td><td>牧草地/km² Grassland</td><td>未利用 Unused land</td><td>园地/km² Garden</td><td>总计/km² Total</td></tr><tr><td>耕地 Arable land</td><td>147.62</td><td>86.08</td><td>32.35</td><td>38.51</td><td>0.21</td><td>25.78</td><td>2.78</td><td>608.16</td></tr><tr><td>建设用地 Construction land</td><td>3.57</td><td>43.40</td><td>1.42</td><td>1.79</td><td>0.00</td><td>1.74</td><td>5.30</td><td>57.23</td></tr><tr><td>坑塘水面 Pond water surface</td><td>1.58</td><td>2.19</td><td>5.84</td><td>1.11</td><td>0.00</td><td>3.07</td><td>0.66</td><td>14.46</td></tr><tr><td>林地 Woodland</td><td>33.88</td><td>65.07</td><td>6.20</td><td>91.77</td><td>0.00</td><td>10.66</td><td>295.66</td><td>503.24</td></tr><tr><td>牧草地 Grassland</td><td>0.66</td><td>1.31</td><td>0.05</td><td>0.40</td><td>0.00</td><td>0.09</td><td>0.46</td><td>2.98</td></tr><tr><td>未利用地 Unused land</td><td>11.92</td><td>27.11</td><td>6.88</td><td>8.30</td><td>0.17</td><td>89.48</td><td>21.35</td><td>165.22</td></tr><tr><td>园地Garden</td><td>170.33</td><td>99.23</td><td>46.42</td><td>57.49</td><td>0.47</td><td>19.64</td><td>535.94</td><td>929.53</td></tr><tr><td>总计Total</td><td>369.57</td><td>324.41</td><td>99.16</td><td>199.38</td><td>0.85</td><td>150.47</td><td>1136.98</td><td>2280.83</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3海口市生态用地安全格局构建及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 计算三类指标综合后的各个级别的面积(表5),可知其可优化的空间比例大。由（图3)中可看出底线型生态用地主要由林地、园地组成,这也是不能逾越的底线且需重点保护,缓冲型生态用地分布在底线型生态用地周围的过渡带,为了保障底线型生态用地的安全,该类型用地也是保护的关键[26-27];理想型生态用地距底线型生态用地最远,在实际规划中属于容易被城镇建设所占据的用地。“源”地是生态安全的基本保障,在此提取底线型生态用地作为“源”地（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfbb33ef0b451e54fc9012f68dd6c68e8055e515af74a488bd04d9762f32a9ca.jpg",
+        "img_caption": [
+            "图32016年海口市综合生态用地布局图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/09dd665c98fbb3a9a7ef6f7abae98dbdfe3c2c50a800a78d3a6a6472ac0724f4.jpg",
+        "img_caption": [
+            "图4“源”地 Fig.4“Source” ",
+            "Fig.3Survey of comprehensive ecological land use in Haikou in 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2c7b90583b0f19b8f2016f8f7a58a1ce44c57f48e2576a65922e625fd8bda69.jpg",
+        "table_caption": [
+            "表5综合生态用地布局4类重要性等级",
+            "Table 5The four categories of importance of eco-land use "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>重要性等级 Importance level</td><td>不重要 Unimportant</td><td>一般重要 Generally important</td><td>中等重要 Moderate important</td><td>极重要 Very important</td></tr><tr><td>面积统计 Area statistics/km²</td><td>752.5</td><td>782</td><td>433.5</td><td>320.7</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以“源”为基础,运用1991年和2016年的阻力系数数据(图5)构建缓冲区,并进一步构建辐射道、廊道与战略点（图6),可看出两年不同安全水平的生态用地呈圈层状围绕在“源”的外围，“源”内散发的辐射道，“源”间的众多关联的廊道与战略点共同构成了两年的生态用地安全格局。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“源\"地1991年主要包括林地、园地,2016年主要包括园地、牧草地和坑塘水面,两年皆分布在海口市西北部与南部,大致呈椭圆形状分布。1991年低安全水平生态用地其面积占海口市土地面积的 $1 2 . 4 \\%$ ,主要集中在南渡江以东地区,成环状;中安全水平和高安全水平的生态用地面积占海口市总面积的 $7 7 . 7 \\%$ ,中安全水平区沿江、沿边界分布较多,分布较规律;高安全区基本分布在南渡江以西的“源”地周围。2016年低安全水平生态用地其面积占海口市土地面积的 $1 3 . 5 \\%$ ,主要集中在西部与中部地区呈封闭或半封闭的环形分布，它是生态\"源\"地的缓冲区;中安全水平和高安全水平的生态用地面积之和占海口市总面积的 $7 6 . 2 \\%$ ,中安全区分布呈破碎状,基本上位于南渡江东部地区,高安全区则是在这些区域作为研究区核心保护区的缓冲区,主要分布在东北部边界区、西部和南部\"源\"地附近、南渡江流域附近;其他区域的面积占海口市总面积的 $1 0 . 2 \\%$ ，主要分布在主城区范围内,以建设用地为主。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1991年廊道分布密集，“源\"间关联性程度高,战略点主要集中在中部地区,是各生态势力圈的相切处。2016 年廊道呈三环状排列,在整个城市中分布较均匀但“源\"间联系减弱,辐射道仍呈不规律树枝形散布，战略点数量与1991年对比明显减少,说明城市中各生态组分之间的影响与不平衡日趋强烈,而战略点在城市生态系统中有提高其完整性与连通性的作用,是当前保护的重点。与现有格局相比,生态安全格局明确了“源”廊道与战略点等安全格局组分,确定了保护对象且能进行针对性保护,在城市建设与开发中提供科学的参考。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3f32dad9d4546fa08adf26ce3d74b386ae9a7134313b40141bcb713396ca95f.jpg",
+        "img_caption": [
+            "Fig.5The coefficient of resistance of land use type in Haikou "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/da9aafc167b0400173a2692623388c35dd5d366cc747a5e01d45ebc136fbfad5.jpg",
+        "img_caption": [
+            "图5海口市土地利用类型阻力系数图",
+            "图6海口市生态用地安全格局图",
+            "Fig.6The ecological map of ecological land in Haikou "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 通过对两年生态用地安全格局水平数据的叠加分析得到图7,结合表6可见生态用地安全格局在1991—2016发生改变的区域占总区域的 $4 7 . 6 7 \\%$ ;未变化区域仅占总区域的 $5 2 . 3 3 \\%$ ，总体的趋势是高安全水平用地减少,共减少 $2 0 7 . 2 6 \\mathrm { k m } ^ { 2 }$ ;中安全、低安全水平用地增加,分别增加了 $1 7 3 . 9 6 \\ 、 2 5 . 4 7 \\mathrm { k m } ^ { 2 }$ 。变化区域主要集中在海口西部、中部与东部。西部主要是高安全水平区转换到了其他区域与中、低安全水平区,整体呈急剧恶化趋势,对其应采取大力保护措施。东部高安全水平区略有提高,中部的变化程度很小。形成这种变化的趋势的原因基本上是人为原因主导的。其次地形地貌也有影响,西部熔岩台地区生态较脆弱,大面积林地很难恢复;中部沿江阶地区由于南渡江附近生态系统较稳定,故安全水平变化不大;东部台地区主要是由于位于迎风坡",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "降水充沛以及政策原因，使得安全水平得以提高。南渡江流域总体变化不大，但由于附近生态环境的影响，植被覆盖率减少，水土保持能力相应降低，使流域的安全水平受到了威胁。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)相关研究集中在海口市农用地、建设用地的生态适宜性评价或城市景观格局的整体优化研究，本文选取生态用地为研究核心，通过研究生态用地的变化分析其变化驱动力与方向，构建生态用地格局以保障生态用地的功能发挥，其中生态用地的变化直接影响生态安全格局变化，生态用地安全格局又对生态用地的规划有指导作用。在海口市景观格局研究中，有研究者通过最小累积阻力模型进行景观安全格局的构建，其中不包含辐射道，而是把辐射道替换成生态廊道，进而构造生态节点，其结果是产生多条生态廊道与多个生态节点，对于城市景观安全格局的全局研究有益，但对生态价值最高的生态用地并无侧重研究,故本文在生态用地的着重点基础上研究其安全格局,确立重点保护的生态廊道与战略点，确保高效、精确做到城市生态安全的保护。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c6c17c3bb03e3c52b8c77f6cda8d01bcfdb80a8244f55ff90b081dc3344f6c5.jpg",
+        "img_caption": [
+            "图71991至2016年海口市生态用地安全格局变化区域图Fig.7 Area map of ecological security pattern change in Haikoufrom 1991 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/75f69f6da3b054ad0819cfb1d138f8e4d4e8f583626178909a8b76c5fb0b295e.jpg",
+        "table_caption": [
+            "表61991年及2016年生态安全格局水平统计",
+            "Table 6Statistics of ecological security patterns in 1991 and 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级 Grade</td><td>高安全水平 中安全水平 High safety level Medium security level</td><td>低安全水平 Low safety level</td><td>其他区域 Other area</td></tr><tr><td>1991 年面积统计/km² 1991 area statistics</td><td>1059.53 681.40</td><td>309.53</td><td>234.18</td></tr><tr><td>2016 年面积统计/km² 2016 area statistics</td><td>1266.79 507.44</td><td>284.06</td><td>225.47</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)在利用景观格局优化理论中的最小累积阻力模型构建生态用地安全格局时,由于研究区域的复杂性,大量的研究在单因子的选择方面还存在局限性,在自然单因子选取的同时,也可考虑如社会经济水平、环境污染程度等这些影响生态安全人文因子，故进行多因子综合构建安全格局的研究还需完善。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)在生态用地安全格局构建后,对具体的优化网络与各地的保护方案还需进一步设计。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文主要利用构建最小累积阻力模型方法,基于单因子与阻力系数对海口市生态用地格局安全进行科学分析与构建,也考虑到景观联系与多重叠加效应,得到最后的生态安全格局分布图,得出以下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)从1991年至 2016 年间,4类生态用地中,林地减少面积最大,园地增加的面积最大,坑塘水面在土地利用类型面积中的比例有所增加,牧草地则减少,但这两种用地类型所占比例均不高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)林地园地间互相转化的程度最大,牧草地和坑塘水面由于基数较小,转换成其他类型用地或其他类型用地转入的面积都不多，且从变化区域图中可看出最明显的变化集中在海口市西部,主要原因是由于西部熔岩台地区林地面积辽阔,为了追求经济效益大面积改造成了园地,同时不如北部滨海平原宜居性高,易改造，变化类型为林地变园地。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3)1991年高安全水平区面积远大于2016年,低安全水平区面积低于2016年,总体的趋势是逐渐恶化，两年皆以西部和南部的两个“源”为中心,高安全区、中安全区、低安全区成环绕状排列,同时南渡江也为一个“源”,高、中、低区域沿江依次排列。1991年廊道分布密集，“源\"间关联性程度高,战略点主要集中在中部地区,是各生态势力圈的相切处。2016年廊道呈三环状排列,在整个城市中分布较均匀但“源”间联系减弱,辐射道仍呈不规律树枝形散布,战略点数量明显减少,说明城市中各生态组分之间的影响与不平衡日趋强烈，生态安全的稳定性已经遭到了破坏。其中亟待保护的主要是海口西部的生态用地,应对低安全水平区的增长引起重视，规划对应措施来遏制甚至减少其范围。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "保护与构建生态廊道、战略点，在分析所得廊道与战略点的基础上合理增设其他廊道，主要以绿道、河流为基础架构,加强城市生态组分之间的联系,对战略点附近区域实行禁建政策,同时加强生态建设,使得其生态稳定性增强,这两者是整个生态用地安全的格局的建立的基础。同时低安全水平生态用地应严加管制,禁止建设;中安全水平和高安全水平生态用地应划分限制建设区;其他用地可以在原有的基础上通过建设多元生态空间进行优化,如建设用地对生态过程起着潜在的决定性影响,可在内部进行生态改造,在原有的基础上进行优化,使得其内部的河湖、绿化带科学分布,同时因地制宜,让同样面积的土地发挥出更大的生态效益,建设多元化生态空间,环境与经济才能协调发展。 .（",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］俞孔坚，乔青,李迪华,袁弘，王思思.基于景观安全格局分析的生态用地研究——以北京市东三乡为例.应用生态学报,209,20（8)：1932-1939.  \n[2]KlijnFsU.eraalcosstiooalt,9(2):89-104.  \n[3］荣冰凌，李栋，谢映霞.中小尺度生态用地规划方法.生态学报，2011，31（18）：5351-5357.  \n[4] 曾招兵.城市生态用地景观格局现状分析、评价与优化对策[D].南京：南京农业大学，2008.  \n[5］李晓丽，曾光明，石林，梁婕，蔡青.长沙市城市生态用地的定量分析及优化.应用生态学报,2010,21（2);415-421.  \n[6］俞孔坚，王思思，李迪华，乔青.北京城市扩张的生态底线——基本生态系统服务及其安全格局.城市规划，2010,（2)：19-24.  \n[7] 王婷.“3S\"技术支持下的海口市农村土地利用调查研究[D].重庆：西南大学，2009.  \n[8] VitousekPM,oyHA,bcecoJ,elilJ.doiatioofarth'sossts/aruffJ,lebergerE,dr,AlbertiM,BradeyG,yanC,ioU,ruenCZ,ds.UrbnEologAnIteatioalPerspectiveoteteractioBetweesNature.Boston，MA：Springer,2008：494-499.  \n［9］李燕琴，刘莉萍.夏威夷对海南国际旅游岛可持续发展的启示．旅游学刊，2011，26（3）：16-24.  \n[10] 肖笃宁，陈文波，郭福良.论生态安全的基本概念和研究内容.应用生态学报，2002，13（3):354-358.  \n[11］关文彬，谢春华，马克明，牛健植，赵玉涛，汪西林.景观生态恢复与重建是区域生态安全格局构建的关键途径.生态学报，2003，23(1):64-73.  \n[12] 文博，刘友兆，夏敏.基于景观安全格局的农村居民点用地布局优化.农业工程学报,2016,30(8):181-191.  \n[13] 俞孔坚，王思思，李迪华，李春波.北京市生态安全格局及城增长预景.生态学报，2009,29（3):1189-1204.  \n[14]Aleoti，ChowuryR.Landslideazardasessment：sumayrevieandneperspectivesuletinofEngineeingGeologndtheEnvironment，1999,58(1） :21-44.  \n[15] 颜磊，许学工，谢正磊，李海龙.北京市域生态敏感性综合评价.生态学报，2009，29(6):3117-3125  \n[16] 周朕，蒙吉军，齐杨，彭福利.中国生态用地重要性及其格局优化研究进展.生态学杂志，2016,35(1):218-225.  \n[17]MCoyJ，JohstonK,KoppS，BorupB，WilisonJ，PayneB.UsingArcGISSpatiaAnalystReands，CA，USA:EnviroentalSysteResearch Institute，2001.  \n[18]刘孝富，舒俭民，张林波.最小累积阻力模型在城市土地生态适宜性评价中的应用——以厦门为例.生态学报，2010,20(2):421-428.  \n[19] 郑晓燕，何东进，游巍斌，覃德华，游惠明，巫丽芸等.闽东地区生态安全格局及空间发展模式特征.重庆师范大学学报（自然科学版)，2013，30(02).  \n[20] TheobaldD.oteoeatigbustsistacesufcfoomptigfctioalldapeciviyol&ciety）：.  \n[21]周锐，王新军，苏海龙，娄翼来.平顶山新区生态用地的识别与安全格局构建.生态学报，2015，35(6)：2003-2012.  \n[22] Rapport DJ,CostanzaR,McmichaelAJ.Assesing ecosystem health.Trends inEcology&Evolution,1998，13（10):397-402.  \n[23] YoungRG,aiCDsdC.Onceeddoeabisfucioalicatorsfeighealth.Freshwater Science，2008,27(3）:605-625.  \n[24］曲小康，芮小平，韩莹，李祥琛，伍彬.栅格成本距离计算的改进蚁群算法.地球信息科学学报，2016，18（8)：1052-1059.  \n[25] 黄.遥感与地理信息系统在土地利用动态监测中的应用研究——以天津市主城区为例[D].武汉：中国地质大学，2001.  \n[26] 张笑楠.基于GIS 的潜江市土地生态环境质量评价与农用地分等研究[D].武汉：华中农业大学，2006.  \n[27] 陈建，窦贻俭.地理信息系统支持下的城市生态环境功能区划.城市环境与城市生态，1996,9(1)：24-30.",
+        "page_idx": 9
+    }
+]

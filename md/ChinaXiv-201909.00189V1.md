@@ -1,0 +1,238 @@
+# 日冕物质抛射检测研究进展
+
+郭敏，黎敬涛，尚振宏\*，刘辉，洗祥贵，杨志鹏（昆明理工大学信息工程与自动化学院，云南昆明650500）
+
+摘要：日冕物质抛射（CoronalMass Ejection，CME）是一种规模巨大，程度剧烈的爆发现象，是影响地球的主要太阳爆发活动。由于这种爆发现象会对地球环境造成严重干扰，因此CME的探测对预报灾害性空间天气具有重要意义。为了更清楚地梳理目前存在的CME检测方法，文章将对典型的方法进行分析总结。首先，介绍日冕物质抛射及其特征；然后，从基于手工方法和自动检测方法两方面对CME 检测进行概述和分析；最后，讨论目前算法存在的一些问题，进而提出未来的研究方向。
+
+关键词：太阳爆发活动；日冕物质；CME检测中图分类号： $\mathbf { P } 1 8 2 . 6 \substack { + 2 }$ 文献标识码：A
+
+# 1引言
+
+CME 是将等离子体从太阳的日冕层喷射到行星际空间的一种动态事件。它在20 世纪70年代早期的 Skylab 任务中被首次观测到，是源自太阳的最大和最具活力的爆发现象，并且可以通过白光日冕仪在延伸的日冕中观察到。由于CME 是一种巨大的磁化等离子体喷发，因此它可以以高达每秒数千公里的速度传播[2]。鉴于这种爆发活动引发的太阳高能粒子事件和地磁暴会影响航空安全、卫星运行、通信系统、电力设施等，因此有必要对CME 进行检测来为空间天气预报人员提供预警信号，从而采取相应的措施以避免不必要的损失[3]。此外，有关CME的统计信息对于更好地了解其性质也非常重要。CME的概念一直比较模糊,这种定义的不明确性会导致不同检测方法得到的CME特征和数量有所不同。Hundhausen等人将CME定义为发生在几分钟到几个小时的时间尺度上，在日冕视场中出现的新的，离散的，明亮的白光特征[4]。由于CME 现象与其他太阳活动有相似的特征，为了对CME 的认识更加准确，Schwenn等人将CME的定义修改为：在日冕视场中出现的一种新的，离散的，明亮的白光特征，并具有径向向外的速度。如图1所示是来源于空间环境预报中心（NSSC）中的SOHO/LASCO卫星观测到的一次日冕物质抛射的爆发过程。
+
+![](images/366d1be3e422ace8b141fa5674f9a0b5f6b79576f110a48a9d382ac81a0f18f6.jpg)
+
+随着 SOHO，Wind 和 STEREO等卫星的发射，CME 的检测和识别成为可能。其中1995年发射的 SOHO卫星搭载的LASCO日冕仪可以观测到CME 的发生过程，得到CME 的影像资料，通过这些资料人们可以检测CME 的运动状态，进而得到CME 的描述参数（位置角、角宽度、速度等)。目前国内外关于CME的检测研究已经取得很大进展，形成了许多CME目录，为以后的进一步研究提供了基准和参考。
+
+为了方便读者详细了解目前CME检测的研究进展，并为相应研究提供借鉴，本论文梳理了国内外关于CME检测的一些方法，给出了具有代表性方法的具体识别过程。同时为了便于读者理解，本论文将目前CME 检测方法分成了两大类：基于手工识别的方法和基于自动检测的方法，同时又根据所选取的特征和采用的技术将自动检测方法分为四类：基于灰度特征、基于纹理特征、基于光流法和基于学习的方法来详细概述。
+
+本文总共分为四部分：第一部分为引言，引出CME的定义以及CME检测的重要意义；第二部分介绍CME 的特征，包括速度、张角和发生规律；第三部分分类总结目前现有的CME 检测方法；第四部分总结与展望，总结目前CME 检测存在的挑战，探讨未来的研究趋势。本文的贡献在于：
+
+（1）目前未见有相似文献，可为研究工作者提供该领域的研究现状;（2）可供研究工作者详细了解利用不同方法进行CME 检测的过程;（3）针对目前CME 检测存在的挑战，提出未来的研究趋势，为研究工作者的研究方向起到借鉴作用。
+
+![](images/308f512d311d53f773ec891cd1bc2fce6254a5bd10e8ba612b57d82cec369ad1.jpg)  
+Fig.1ACME observed by SOHO LASCO C2
+
+# 2 CME特征
+
+CME 检测实质上就是利用人工标记或计算机自动识别的方法检测CME 事件从而得到CME特征。常用的CME特征包括：速度、张角、发生规律等。
+
+# 2.1 CME的速度
+
+CME 是一种运动的过程，其速度是一个重要的物理特性。由于目前观测到的CME 通常是其在天空平面的投影，因此一般情况下CME 的速度是指CME 最快前沿的运动速度[5],它是由CME 前沿的"时间-高度"数据经过线性拟合得到的。如图2是来源于协调数据分析研讨会中心（CDAW1）目录中2017年7月2日13时25分42秒发生的一个CME的时间-高度图。CME的速度范围为 $1 0 { - } 3 5 0 0 \mathrm { k m / s }$ ，一般速度 $> 1 0 0 0 \mathrm { k m / s }$ 的为快速CME，速度 ${ < } 1 0 0 \mathrm { k m / s }$ 的为缓慢 CME[]。
+
+# 2.2 CME的张角
+
+CME 的大小一般用张角（角宽度）来衡量，张角是CME区域两个边缘所构成的角度，在数值上等于两边缘的位置角之差。图3是来源于CACTus软件检测到的一个CME，其中a、b 两处为某时刻发生的CME区域的位置角，张角则为图中白色实线中间的角度。CME的张角从几度到360 度，360 度的CME 称为HaloCME，一般宽度>120度的为宽CME，宽度<30 度的为窄CME[]。
+
+![](images/27e7afc5cdaa9e64ddfa9934fa460caa0c176d482e28ec048675551ee59557a7.jpg)  
+图2CDAW目录中2017年7月2号13时25分42秒发生的一个CME的时间—高度图Fig.2 The time-height plot of a CME occurring at13:25:42 on July 2,2017 in the CDAWcatalog  
+图3CME的角宽度  
+Fig.3 The angular width of a CME
+
+# 2.3 CME与太阳黑子数的关系
+
+CME 的发生规律与太阳黑子活动周有关，在太阳活动极小年时为0.5个/天，在太阳活动极大年时为2-6个/天。下图4表示2008年到 2017年间CDAW目录记录的CME数量，图5中的数据是来源于太阳黑子指数和长期太阳观测（SILSO2）中的近13年太阳黑子的数量，我们可以看到在这两个图的重叠时间段（2008年—2017年）CME的发生频率和黑子的基本一致，因此可以说明CME的发生规律与太阳黑子活动周有关。
+
+![](images/cc455deefa80e53aeb496f25c3ea0c20743cf43fd3f27f8733af87cefc33e5aa.jpg)  
+图42008年到2017年间CDAW目录记录的CME数量
+
+![](images/54a0f4d8701519775ed977c8b660c417733d15db3acf93487a387e11af834192.jpg)  
+图5近13年来太阳黑子数量变化情况  
+Fig.5Evolution of sunspot numbersin the past13 years
+
+# 3 CME检测方法
+
+十多年来，研究者们已经利用多种方法检测到CME 事件及其特征（例如速度，角宽度，发生规律等)，并且制成了CME目录来供科研人员学习研究。目前CME 的检测方法主要分为两大类：
+
+（1）基于手工方法标识CME：目前主要有两个著名的目录：CDAW目录和海军研究实验室（NRL）目录，这种方法主要是靠观察者每天手动记录数据来进行CME编目，比较费时；（2）基于自动方法检测CME：由于CME是一种动态变化的过程，通常具有明亮的强度特征和复杂的纹理结构。我们可以依据CME检测选用的特征及技术手段将目前现有的自动检测方法分为以下四类来进行概述和分析，如下表1所示，是对目前CME检测方法的总结。
+
+# 表1CME检测方法总结
+
+Tab.1 Summaryof CME detection methods   
+
+<html><body><table><tr><td colspan="3">CME检测方法</td></tr><tr><td rowspan="2">手工方法识别</td><td colspan="2">NRL</td></tr><tr><td colspan="2">CDAW</td></tr><tr><td rowspan="4">自动检测方法</td><td>基于灰度特征方法</td><td>Qu等人（2006）[11] Berghmans 等人（2002，2004）[7,8] Olmedo等人（2008，2010）[9,10]</td></tr><tr><td></td><td>Gonzalez-Gomez 等人（2010）[14] Boursier等人（2005，2009）[12,13]</td></tr><tr><td rowspan="3">基于纹理特征方法 Morgan 等人（2012）[19]</td><td>Gallagher 等人（2011）[15]</td></tr><tr><td>Goussies等人（2010）[16,17]</td></tr><tr><td>Braga等人（2013）[18]</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>曾昭宪等人（2012）[20]</td></tr><tr><td>基于光流法</td><td>Colaninno 等人（2006）[21]</td></tr><tr><td rowspan="3">基于学习方法</td><td>Gissot 等人（2003）[22]</td></tr><tr><td>Yin等人（2017）[25] Zhang 等人（2016，2017）[23,24]</td></tr><tr><td>姚海等人（2017）[3]</td></tr></table></body></html>
+
+3.1手工识别目录与自动检测目录的比较
+
+CME 与耀斑，太阳高能粒子，地磁风暴等许多现象有关，因此检测CME现象并编制事件目录对于国内外研究工作者理解这些现象并开展相关工作非常重要。CME目录是将检测到的CME 事件特征以数据和图表的形式记录下来，相关参数特征主要包括：速度、角宽度、位置角等。根据上述介绍的CME 检测方法我们可以得到两类CME目录：手工识别目录和自动检测目录，通过以CDAW目录和CACTus目录为代表进行特征（速度和角宽度）的比较，我们得到了这两类目录的特点：
+
+（1）识别狭窄的CME（ $\cdot \mathbf { W } { < } 3 0 ^ { \circ }$ )：研究表明，在同一时期CACTus检测到的窄CME远远多于CDAW，主要原因在于CDAW目录在太阳活动极大年遗漏了许多窄CME。
+
+（2）识别快速的CME（ $\mathrm { \nabla { V } { > } 1 0 0 0 k m / s } \mathrm { \Omega }$ ：在同一时期虽然CACTus检测到的快速CME多于CDAW，但是在检测到的 $32 \%$ 的真正CME中只有 $6 \%$ 是快速CME。
+
+因此可以得出结论：手工目录和自动检测目录各有优缺点，由于手工目录是基于人标记的，因此会不可避免的遗漏许多狭窄的CME；而自动检测目录虽然比手工目录识别的快速CME多，但是准确率不太好。
+
+# 3.2手工方法标识CME
+
+自从1971年发现CME 现象以来，CME已经被多种星载仪器观测到。自1995年SOHO航天器发射以来，CME 观测主要采用LASCO 日冕仪。LASCOCME的识别和编目是一项重要任务，为进一步的科学研究提供基础知识。
+
+NRL目录由LASCO 观察员编制，他们查看LASCO日冕图像的序列并记录每天发生的事件。这是一份初步目录，提供有关CME 时间和大致位置的信息。
+
+CDAW目录是由美国宇航局、美国天主教大学以及海军研究实验室合作，在CDAW数据中心生成和维护。标记的每个CME 由发生的日期和时刻确定，该目录提供了CME 属性的一些测量值，包括速度和角宽度等，同时还提供了确定CME 速度的"时间-高度"图。除了得到的数据和图表之外，该目录还包含由日冕仪得到的CME 图像序列，可供用户下载观看。
+
+由于 NRL目录和CDAW目录都是由观察者手工标识的，即使对于同一观察者，识别能力也不是恒定的。因此，所提供的事件和测量的参数受人类主观因素影响较大，同时编目过程也非常耗时。
+
+# 3.3自动方法检测CME
+
+传统的CME 检测方法是基于人类观察，这种观察方法效率低，容易受到个体主观因素的影响，而随着近年来自动识别技术的迅速发展，出现了很多自动检测CME的算法，为CME 的检测研究提供了新方法。由于CME具有不同的形态，尺度和特征，通常表现为一个明亮的、纹理复杂的增强结构，尾随着一个亮度不足的暗区域[3]，我们可以将目前现有的自动CME 检测方法分为以下四类。
+
+# 3.3.1基于灰度特征的方法
+
+灰度特征是基于像素点表示图像亮度的特征，与背景灰度特征不同，CME 具有更明亮的结构，通常表现出明亮的白光特征，因此通过提取灰度特征检测CME 是一种很直接的思路。目前，基于灰度特征检测CME的方法研究已较成熟，国内外已经有不少人利用该方法进行CME检测并且取得了很好的效果。计算机辅助跟踪软件包（CACTus）和太阳能爆发事件检测系统（SEEDS）是其中具有代表性的两种检测方法。
+
+CACTus方法由Berghmans等人[7,8提出，该方法通过滤波去噪、极坐标变换、帧间差分以及整合LASCOC2和C3图像完成预处理。对不同时刻t的差分图像 $[ \theta , r ]$ 进行整合，得到 $[ t$ 0， $\boldsymbol { r } \boldsymbol { ] }$ 数据立方体，该立方体沿指定角度 $\theta$ 的切片 $\left[ t , \ r \right]$ 中的一条脊线是一个CME沿指定角度 $\theta$ 上的喷射表现。为了能清楚的看到脊线，将切片图颜色进行反转得到倾斜的暗黑脊线，如图6所示。由于霍夫变换[2是一种图像处理技术，它可以从图像中检测出线段，因此霍夫变换被用来检测 $\left[ t , \ r \right]$ 切片中的脊线。同时霍夫变换检测到的脊线是沿一个角度切片的CME，为了得到完整的CME，将图像投影到[v，θ， $t ]$ 数据立方体中，速度v可通过脊线段长度计算得到，此时CME识别便转换为[v，θ， $t ]$ 立方体中点的聚类问题。由于cACTus认为同一个CME，沿不同θ方向的径向速度相似， $\nu$ 方向信息对聚类贡献较小，为了降低计算复杂度，对[v，θ，t沿v方向积分，使得聚类转换到二维空间[θ，t]中进行从而在CME概览图中得到聚类的位置，该位置为CME发生的起始时间和角度，垂直方向上聚类的长度表示CME喷发持续的时间。
+
+![](images/c1ecc7f6636132bab3701bc53fbf207986a41aeadda1aaf5dbdae3b408fccfc5.jpg)  
+图6时间-高度图中检测脊线，图像来源于Berghmans 等（2004）[8]  
+Fig.6 Detected ridges in a time-height diagram,Image from Berghmans et al.（2004）[8]
+
+CACTus 软件是第一个利用自动方法实现CME检测，相比于人工标识，该方法检测速度快，检测准确率也很好，可以检测到CDAW目录中约 $7 5 \%$ 的CME，并且也能够检测到CDAW目录中没有检测到的弱CME。目前，CACTus 软件编制了一个从1996年到现在的在线目录。
+
+SEEDS方法由Olmedo等人[9,10提出,检测过程使用基于区域增长算法的图像分割技术。与CACTus类似，该方法通过归一化输入图像、滤波去噪、极坐标变换完成预处理。然后将极坐标变换得到的 $[ \theta , r ]$ 图像序列沿 $\theta$ 方向进行投影得到信号强度曲线，如图7(a)所示。接着通过阈值处理得到CME的中心和最亮的部分，即核心角度，同时对核心角度利用区域增长算法得到整个CME的角宽度。CME前沿的确定是通过将图像沿 $\boldsymbol { r }$ 方向进行投影得到信号强度曲线，如图7(b)所示，曲线峰值对应于Max-Height 处，曲线峰值的一半在Half-Max-Lead（前沿）和Half-Max-Follow（后继）处。通过对比连续两帧图像，如果后张图像的前沿和后继以及两者之差高于前张图像时，表示CME 是扩张的，同时若前沿溢出视场或者CME太暗识别不出时，就会停止追踪，寻找下一个CME。
+
+6.22002/09/12 21:55:38   
+5.4 + Holf-Mox-Leod   
+3.8 +Mox-Height   
+3.0 +Holf-Max-Follow   
+2.2 +Trailing Box（C） 0 90 180270360 0 Position Angle [deg] Intensity
+
+![](images/2a441e2df88d4bf469bf4e5627d334f9c64b8f6c5fbf0a787de6045c549f3fba.jpg)  
+图7(a)沿θ轴的一维投影强度分布图，图像来源于Olmedo等（2008）[9]  
+图7(b)沿r轴的一维投影强度分布图，图像来源于Olmedo 等（2008）[9]  
+Fig.7(a) The intensity profile of the 1D projection along the θ axis,Image from Olmedo et al.（2008）[9]   
+Fig.7(b) The intensity profile of the 1D projection along the $r$ axis,Image from Olmedo et al.（2008）[9]
+
+在检测准确率上，与CACTus 类似，SEEDS 能检测到CDAW目录约 $7 5 \%$ 的CME。但在检测到的CME 总数量上，通过CACTus 和 SEEDS方法检测得到的CME 数量是CDAW目录的两倍多。同时 SEEDS 方法还可以得到CME的运动前沿轮廓，这可以在 SEEDS 目录4看到。
+
+除了上述详细介绍的两种方法之外，还有许多基于灰度特征检测CME 的方法。例如Qu 等人[]提出了一种基于支持向量机（Support Vector Machine，SVM）的CME 检测方法，为了将CME与其他结构区分开来，该算法通过预处理产生差分图像和分割图像，然后再次利用阈值方法来分割预处理得到的差分图像和分割图像，最终的分割结果是来自两个分割结果的总和。接着将所有分割区域视为CME候选区域，通过设定阈值将候选区域分类为CME区域和背景，最后在CME区域利用 SVM分类器来区分强CME 和弱CME。与其他方法相比，该方法的最大优点是能够对强CME和大多数弱CME进行准确而快速的检测。
+
+与上述三种方法将LASCO 图像转换为差分处理的极坐标图不同，Boursier等人提出的ARTEMIS方法[12,13]将LASCOC2图转换为天气图。如图8所示，天气图的横坐标为时间,表示CME的流出时间，纵坐标为纬度，表示CME的角度宽度。该算法利用中值滤波器去除噪声，然后对天气图进行阈值处理返回一个二维掩码，该掩码定义了图像的感兴趣区域。最后通过引入CME 特性的先验知识正确识别CME。算法最终得到一个ARTEMIS 目录，列出了每个检测到的CME 事件以及它们的主要参数。与CDAW目录进行比较可以发现，该方法的优点是能够检测到一些小的，微弱的CME，与CACTus、SEEDS一样，检测到的CME事件多于CDAW目录。
+
+![](images/d0c6a766a2bdc1441b571aa9adece9312df4e95cffa348cf8610e3a82a206d5d.jpg)  
+图8将CME图转换为天气图，图像来源于Boursier等（2009）[13]
+
+基于灰度特征的四种方法先对LASCO图像预处理得到极坐标图或天气图，再进行阈值处理和形态学处理提取CME特征，最后通过对CME特征的识别或跟踪计算出CME的各种属性。我们可以发现这些方法有一个共同点，那就是都采用了亮度增强的方式突出日冕图像中的感兴趣区域即CME区域。同时上述几种方法在同一时期的LASCO图像上检测出的CME数量都比CDAW目录多，但也都不能完全检测出CDAW中 $100 \%$ 的CME，这与自动检测方法使用的图像预处理技术和检测规则、阈值的选取以及CME的不明确定义都有关系。
+
+# 3.3.2基于纹理特征的方法
+
+CME不仅具有明显的亮度结构，而且还有复杂的纹理结构。对于一些比较暗但具有明显纹理结构的CME区域来说，利用纹理特征检测是一个不错的选择。纹理特征的提取一般需要设定一定大小的，包含多个像素点的窗口区域，然后从中取得纹理特征，尤其在检索具有明显粗细，疏密等图像时有良好的表现。
+
+![](images/d5a8f79200d1e794795d429b09c958f233d50c6155b843a26b7852641a414336.jpg)  
+Fig.8 Converting a CME image to a synoptic map,Image from Boursier et al.（2009）[1:
+
+Gonzalez-Gomez 等人使用小波分析方法[14]对CME 进行分类,该算法是一种基于频域分析的方法。通过在LASCOC2图像上放置固定像素的窗口（实验数据表明，窗口可以放置在图像的任何位置)，使用标准快速傅里叶变换算法在窗口上执行卷积，同时使用墨西哥帽作为基函数来获得窗口区域的小波谱，得到的小波谱图横坐标为尺度，纵坐标为通量。窗口区域表示的曲线都有一个拐点，该点区分了通量随尺度变化的速度，通过计算每条曲线的二阶导数获得拐点的尺度 $( \mathbf { a } _ { \mathrm { c } }$ ）和通量 $( \mathrm { f _ { c } } )$ 。如图9所示，在 $\mathbf { a } _ { \mathrm { c } } \mathbf { - } \mathbf { f } _ { \mathrm { c } }$ 图中可以看到小波谱明显被分为两组：低通量、小空间尺度组（Homogeneous Group）和高通量、大空间尺度组（CollimatedGroup)，其中box1和box2表示图像上的两个窗口。将该方法应用到更大的CME 图像样本中，通过在 $\mathrm { a _ { c } - f _ { c } }$ 图中绘制拐点的尺度和通量值，将这些点进行线性最小二乘拟合，就可以分类出CME 图像属于哪一组。该方法是一种图像滤波的分析方法，利用频域的高通和低通特征来分类CME 图像，可以对由不同卫星获得的日冕物质抛射进行直接分类。
+
+CME 图像特征有多尺度特性，多尺度图像处理技术对增强CME前沿的可见性和抑制噪声有很大作用。由于线段更能反应出图像信息，而小波更适合识别点状特征，如噪声或背景恒星，不适合检测CME 特征的线结构，为此Gallagher等人[15研究了高阶多尺度技术，如脊波和曲线波。与小波变换不同，脊波变换首先进行Randon变换，用线参数取代点参数，之后进行小波变换。该变换能够有效的表示直线奇异性特征，但是不能很好的表示图像边缘曲线。而曲线波变换弥补了脊波变换的不足，该方法能够最优的表示图像的曲线奇异性特征。小波、脊波和曲线波类似，都采用基函数与信号的内积实现信号的稀疏表示，不同的是脊波和曲线波变换的去噪效果好，同时能够较好的表达图像边缘信息。该论文分别利用小波变换和曲线波变换过滤原始图像，对比实验结果表明，与小波相比，曲线波变换能够获得较好的去噪效果，有效地增强了CME 图像的前沿结构。
+
+![](images/7251508bff2d4e178f76be19e3f702f27202ea08f6485b59a63cbe2221b3f907.jpg)  
+图9CME 图像分类结果，图像来源于Gonzalez-Gomez等（2010）[14]  
+Fig.9 Classification results of CMEs images,Image from Gonzalez-Gomez et al.（2010）[14]   
+图11没有CME 时的轮廓演变， 图像来源于Goussies 等（2010）[17] Fig.11 Contour evolution without CMEs, Image from Goussies et al.（2010）[17]
+
+图像纹理可以表示为像素灰度值的空间变化的函数，纹理特征的提取除了利用信号处理领域的线性多尺度变换方法增强图像的边缘信息来检测CME前沿结构之外，另一种有效的方法是利用灰度共生矩阵[2捕获并表征不同区域的纹理信息。Goussies 等人提出了一种基于灰度共生矩阵的非参数监督的 CME 分割方法[16,17]，称之为 CORSET 算法（CORonalSegmentation Technique)，该方法是在有监督的区域竞争模型分割方法上的改进。区域竞争的目标是将图像分割成多个区域，使得每个区域中的点具有相似的图像特征。而将图像每个像素的灰度值用作区域竞争方法中的特征向量时，有监督的区域竞争模型分割CME会存在两个问题：一是CME区域和背景的灰度直方图有重叠；二是CME 事件和背景的灰度直方图不遵循正态分布，即统计模型未知，这两个问题将会导致CME 分类错误。针对问题一，为了解决直方图重叠，新算法利用灰度共生矩阵描述CME 纹理信息；针对问题二，使用非参数模型中的卡方统计检验，它可以评估观察到的事件是否遵循某个特定分布。通过修改区域竞争运动方程，将卡方检验和纹理信息引入方程中，同时在图像分割中，使用快速水平集算法来实现分割曲线的演变。该分割算法首先围绕C2遮挡盘形成环状区域，如图10(a)所示，如果存在CME，曲线演变为CME 轮廓，如图10(b-d)所示；如果不存在CME，轮廓就会消失如图11所示。为了跟踪CME，使用当前图像的分割结果作为下一图像的初始轮廓，并根据修改的区域竞争运动方程演变轮廓，如果轮廓消失意味着某个CME 事件结束。该算法使用卡方检验和灰度共生矩阵，以便正确捕获在差分图像中观察到的CME 纹理信息，可以检测和跟踪具有不同形状和强度的CME,同时得到了一个类似CACTus 的CME 概览图。
+
+图10CME 出现时的轮廓演变， 图像来源于Goussies 等（2010）[17] Fig.10 Contour evolution with a CME, Image from Goussies et al. （2010）[17]
+
+虽然CORSET 算法提供了CME 事件的边界信息，但是没有对CME 参数进行明确的定量评估，为此在Goussies 等人的工作基础上，Braga 等人[8]通过添加几个新的功能，即自动计算不同的形态学和运动学参数扩展CORSET，增强了算法的功能，并将获得的参数（中心位置角，角宽度和速度）与现有的手工目录和自动检测目录进行比较。
+
+由于CME是一种不断运动的状态，因此可以通过将CME 结构与背景区分开来进行CME 检测，目前大多数研究采用基于差分的方法来检测图像的运动区域，但是这种数值差分会将噪声增强到与目标相当的水平，虽然利用中值滤波器会抑制噪声，但也会平滑小型CME 特征，同时差分方法还会引入时空串扰的问题。为此Morgan 等人[19提出了一种反卷积方法，该算法利用归一化径向渐变滤波器（NRGF）[28]将CME 图像分离成静态的背景结构和动态的CME 运动结构，实验结果表明，该方法能够很好的检测出弱CME。
+
+CME区域与背景以及其他太阳结构如冕流等在形态、纹理等特征上有明显差异，在视觉上，冕流的频谱分布相对均匀，而CME 区域的频谱会发生频繁突变，为此曾昭宪等人[20]提出了一种基于频谱突变分析的CME 识别方法。该算法与上述多尺度变换方法一样，也是一种基于频域分析的方法，算法利用傅里叶变换得到预处理后的日冕图像的频谱图，分离出非突变和突变信息后，通过傅里叶反变换得到突变结构在原图中的对应信息来确定CME 的初步分离，最后利用局部稳定极值区域检测方法确定CME区域的轮廓。由于CME区域轮廓不规则，因此提出基于区域协方差的外接椭圆方法得到角宽度、速度等参数。由于该方法分析的是图像的频谱，因此在识别多重和晦暗CME时具有良好的效果。
+
+上述CME 检测方法是建立在时域、频域以及多尺度分析的基础上，通过信号处理中的小波、脊波和曲波等线性多尺度变换方法、研究图像的频谱信息以及利用统计中的灰度共生矩阵描述纹理特征，该类方法尤其在检测弱CME以及暗CME上表现良好。
+
+# 3.3.3基于光流法
+
+光流是测量数字图像运动的一种强大的图像处理工具，它包含图像中目标运动的信息。光流算法可以从连续图像序列中估计出每个像素的速度矢量，从而形成该图像的运动场，可被用来确定目标的运动情况。
+
+Colaninno 等人[21]提出了一种基于光流法的CME 检测和跟踪算法，对光流约束方程（OFCE）添加平滑正则化项马尔科夫随机场。然后将光流的估计表示为全局优化问题，为了找到全局最小值，采用多重网格松弛法[2进行求解。将该光流估计方法应用于LASCO C2图像，观察到1999 年到 2004年间大约330个CME 并对其进行编目，最终对10个具有明显结构的CME 进行分析，推导出它们的速度场。结果如图12所示，上面一行表示输入图像，下面一行表示光流结果，阴影颜色表示速度大小，箭头方向表示在 $8 { \times } 8$ 网格上采样的速度方向。得到的速度测量结果能够可视化CME 等离子体的演化。该算法速度非常快，可以很容易地应用于所有可用的CME 图像，同时基于光流算法检测到的图像可以很容易地看到CME 的扩展。
+
+![](images/41a1c702f62c70d5052e14dee3763f837ee323e0199aedf101bf4e0dd8a54c2c.jpg)  
+图12光流法检测CME 的结果，图像来源于Colaninno等（2006）[21]
+
+与Colaninno 等人应用全局优化的光流算法不同，Gissot 等人[22提出了一种利用梯度估计的局部参数化光流方法检测CME，通过Lucas-Kanade 算法计算相邻两帧图像在某一时间段每个像素点位置的移动，即速度矢量。而该光流算法有一定的约束条件，仅适应于小的目标运动，当目标运动速度较大时，即帧间运动较大，算法误差会比较大，因此在运动分析中引入基于金字塔的多分辨率约束，即通过二次采样缩小图像的尺寸，同时在二次采样前对图像应用低通滤波器以减小强度变化对运动估计的影响，提高算法的鲁棒性。该方法通过提出一种可靠运动区域的提取策略，得到一个密集的速度场，并在一系列连续日冕图像上进行测试来检测和跟踪相邻两帧图像之间的运动信息。
+
+利用光流法检测CME运动目标的基本思想在于给图像中的每个像素点赋予一个速度矢量，形成一个矢量场，根据各个像素点的速度矢量特征对图像进行动态分析。如果图像中没有运动目标，则光流矢量在整个图像区域是连续变化的；当图像中有运动物体时，目标和背景存在着相对运动，两者形成的速度矢量必然不一样，如此便可以计算出图像中CME 的位置。
+
+# 3.3.4基于学习的方法
+
+传统的检测方法主要通过人为定义特征或利用设定简单阈值进行处理，并不能很准确地检测出CME 现象，而且CME 通常具有明亮的结构和丰富的纹理特征，仅使用单一特征识别CME区域也不够准确。随着近年来机器学习与深度学习技术在计算机视觉与图像处理中的应用越来越广泛[30,31]，机器学习中有很多效果良好的分类器被用来解决各种分类和检测问题。同时CME 检测是一个二分类问题，即识别图像中是否存在CME，因此基于学习的方法可应用于CME 检测。
+
+由于CME在形状和空间尺度上变化很大，因此仅使用单一分类器是不够的。在机器学习领域,Yoav Freund 和 Schapire 提出的 AdaBoost 算法[32l能够集成同一个训练集训练的不同弱分类器，构成一个强分类器，该强分类器的性能超过集成的任一弱分类器。基于AdaBoost，Zhang 等人[23]就提出了一种CME 图像分类算法，与上述大多数方法在极坐标变换下的图像中检测CME不同，该方法直接将扇形区域的差分图像分割成块，并分析图像中最亮块的灰度。通过实验表明：切片大小、灰度阈值和亮点分数阈值都会影响检测结果，因此该方法通过获得学习样本并为其设计分类模型以得到这三种影响因子的最佳参数组来设计弱分类器。最后使用AdaBoost组合这些弱分类器，得到最终的强分类器来分类CME。
+
+与 Zhang 等人类似，Yin等人[25]也认为CME 对应图像中的最亮块，因此将CME 的检测建模为差分图像中最亮块的分类问题，同样提出了一种基于AdaBoost分类CME图像的算法。不同的是该算法将差分图像进行了极坐标变换，提取变换后图像最亮块的灰度，纹理和HOG特征，采用多特征融合的方式构造分类器。由于CME具有不同的外观，灰度和纹理特征，因此选择合适特征和分类器非常重要，而决策树可以自动实现特征选择和分类，因而将其设计为弱分类器，同时AdaBoost作为集成分类器可以提高单个分类器的分类能力。由于集成学习的群体智慧和决策树的特征选择能力，所提出的基于多特征的检测算法的集成可以获得更好的检测效果。由于该方法主要考虑最亮块区域，而忽略了暗腔区域及其他类似CME的太阳结构体，容易漏掉比较微弱的CME事件。
+
+针对分类器收敛速度慢的问题，Zhang 等人[24还提出了一种基于极限学习机（ELM）[33]的新检测算法，该方法通过帧间差分、极坐标变换、滤波去噪完成预处理。与上述他们提出的方法类似，同样基于块分割图像的方法，不同的是之前提出的方法是将最亮的部分分割成块，而该算法是利用固定大小的块遍历预处理后的整个图像。块尺寸的选择如下：若块中包含的所有像素的平均灰度值高于指定阈值，该块被视为亮块，通过计算每个块大小下的分类准确率（正确检测样本与所有样本之比）选择最高准确率的块尺寸分割图像。同时使用块中灰度和纹理特征组成特征向量并构建基于ELM的分类器。该方法的优点是基于ELM的检测方法可以选择合适的特征，收敛速度快，同时通过使用时空连续性的决策规则，可以去除大多数具有类似CME 的太阳结构体，提高了分类效果。
+
+上述几种基于机器学习的方法都将图像中的最亮块视为CME，因此都是对最亮块进行检测和分类，同时选择的分类器也各有特点。但是这些方法都是通过人为定义特征的提取，由于CME 具有多种特征，人工选择的特征不一定能得到好的检测效果。而深度学习具有强大的学习能力和特征表达能力，会自动提取特征进行分类。姚海等人3就提出了一种基于卷积神经网络(Convolutional Neural Networks，CNN)的CME 检测方法，CNN采用有监督的学习方式，使用海量具有标签的训练样本，结合反向传播算法来更新权重，训练出一个具有分类能力的网络。该方法自动提取适应于CME检测的图像特征并建立检测模型，网络结构采用包含卷积层，池化层和全连接层的六层卷积神经网络。为了网络模型能够在训练阶段学习到较好的参数进行分类任务，训练采用明显的CME图像数据集；同时以此参数为基准在微调阶段采用微弱的CME 数据集进行参数调优，使得网络模型能获得较好的分类效果。相较于以往的检测方法，基于卷积神经网络的分类方法在GPU模式下处理图像效率更是远胜于其他算法，实时性好。
+
+目前基于学习方法检测CME的研究还不太多，文献也很少，与上述传统方法相比，该类方法分类效果好，检测准确率高，因此可以将此方法作为未来CME 检测的一个重要研究方向。
+
+# 4总结与展望
+
+CME 是一种剧烈的太阳爆发活动，喷发出的物质会携带巨大的能量，从而引起地球空间环境的强烈扰动，对通讯、导航、航天器等高技术系统可能造成灾害性影响，因此CME的检测对于预防这些空间灾害性空间天气具有非常重要的作用。
+
+目前虽然已经有很多方法应用到CME的检测上，使得CME的检测研究取得了很大进展，但这仍然是一个具有挑战性的问题。一是CME 具有不同的尺度，大小和形状，这使得难以选择适当的特征来检测所有CME；二是CME 在喷射过程中会伴随一些与其结构非常相似的干扰源，因此很难将CME与这些结构区分开来；三是对于一些小的，弱的CME，通常会发生误检与漏检。
+
+而随着近年来机器学习技术在图像处理与机器视觉领域获得的巨大成功，可以利用机器学习技术替代简单的阈值分割技术来提高CME检测效果。同时深度神经网络可以自动地提取合适的特征，在语音识别、图像处理等方面都取得了良好的效果。另外，现阶段大数据和高性能计算设备都已完全具备，为深度学习在CME检测中的应用提供了条件。后续CME检测的主要研究方向可以从以下几个方面开展：
+
+（1）继续利用机器学习的方法选择合适的特征以及分类器，进一步提高CME的分类效果;（2）由于CME的爆发过程是一个动态过程，因此可以将基于深度学习的运动目标检测方法应用于该检测;（3）可以认为CME的检测是分离日冕图像中前景运动目标的过程，因此可以将基于深度学习的前景检测与背景减除方法应用于该检测。而利用基于深度学习方法的一个难点和重点在于数据集的制作，手工标记需要大量的人力与时间，同时对一些弱的，小的CME 标记时可能会有误差和歧义，因此还需要不断地深入研究。
+
+总而言之，随着人工智能技术的发展和进步，面向大数据分析和挖掘的各类基于学习的技术在太阳物理学研究和应用中，将会有更为广泛的应用空间和应用前景。因此基于机器学习和深度学习等技术可以很好地应用到CME 的检测上，有望得到更快速，更准确的检测结果。
+
+# 参考文献：
+
+[1]WEBB DF,HOWARDTA. Coronal mass ejections: observations [J]. Living Reviews in Solar Physics,2012,9(1): 3.   
+[2] YASHIRO S,GOPALSWAMYN,MICHALEKG,et al. Acatalog of white light coronal massejections observed by the SOHO spacecraft [J]. Journal of Geophysical Research: Space Physics,2004,109(A7):   
+[3] 姚海，尹建芹，林佳本,etal.一种端到端的日冕物质现象检测新方法[J].科学通报,2017,62(23):2680-90. Yao Hai,YinJianqin,LinJiaben,etal.Anewend-to-enddetectionmethodforcorona materialphenomena[J].ChineseScience Bulletin,2017,62(23): 2680-90.   
+[4] HUNDHAUSENAJ, SAWYER CB,HOUSEL,et al. Coronal mass ejections observed during the Solar Maximum Mission: Latitude distributionandrate ofoccurrence[J].Journalof Geophysical Research: Space Physics,1984,89(A5):2639-46.   
+[5] 高朋鑫，李可军．日冕物质抛射基本物理参数的统计特征[J].天文学进展,2008,26(2):117-28. Gao Pengxin,LiKejun.StatisticalCharacteristicsof BasicPhysicalParametersofCoronal Mass Ejection[J].Advances in Astronomy,2008,26(2): 117-28.   
+[6] YASHIRO S,MICHALEK G, GOPALSWAMYN.Acomparisonof coronal massejections identifiedbymanualandautomatic methods; proceedings of the Annales geophysicae: atmospheres, hydrospheres and space sciences,F,2008 [C].   
+[7] BERGHMANS D,FOING B,FLECK B.Automated detection of CMEsin LASCO data; proceedings of the From solar min to max: Half a solar cycle with SOHO,F, 2002 [C].   
+[8]ROBBRECHTE, BERGHMANS D.Automated recognition of coronal mass ejections (CMEs)in near-real-time data [J]. Astronomy & Astrophysics,2004,425(3): 1097-106.   
+[9] OLMEDOO,ZHANGJ, WECHSLER H, et al. Automatic detection and tracking ofcoronal massejections incoronagraph time series [M]. Solar Image Analysis and Visualization. Springer. 2Oo8: 275-89.   
+[10]OLMEDOO,ZHANGJ.Partial torus instability[J].TheAstrophysicalJoumal,010,718(1): 433.   
+[11]QUJtatoticiodatioolecs[J]ari,() 419-31.   
+[12]BOURSIERY,LEBARIAA, GOUDAILF,et al.Automatic detectionofcoronal massejections onLASCO-C2 synoptic maps[J]. Proceedings of SPIE - The International Society for Optical Engineering,2005,   
+[13]BOURSIERY,LAMYP,LLEBARIAA,etal.The ARTEMIScatalogofLASCOcoronalmass ejections [J].SolarPhyics,09, 257(1): 125-47.   
+[14]GONZLEZ-G MEZD,BLANCO-CANOX,RAGAA. CME clasificationbased on wavelet spectra[J].Solar Physics,2010, 266(2): 337-47.   
+[15]GALLAGHERPT,YOUNGCA,BYRNEJP,et al.Coronal mass ejection detection using wavelets,curveletsanddgelets: applications for space weather monitoring [J]. Advances in space research,2011,47(12): 2118-26.   
+[16]GOUSSIESN,STENBORGG,VOURIDAA,etal.Trackingofcoronal white-lghteventsbytexture[J].olarPhsics,010, 262(2): 481-94.   
+[17]GOUSSIES NA,MEJAILME,JACOBOJ,et al.Detectionand tracking ofcoronal mass ejectionsbasedonsupervised segmentation and level set [J]. Pattern Recognition Letters,2O10,31(6): 496-501.   
+[18]BRAGA CR,DALLAGOA,STENBORGG.Pseudo-automaticcharacterizationofthemorphologicaland kinematicalproperties of coronal mass ejections using a texture-based technique[J].Advances in SpaceResearch,20l3,51(10):1949-65.   
+[19]MORGANH, BYRNEJP,HABBALSR.Automaticallydetecting and tracking coronal massejections.I.Separationof dyamic and quiescent components in coronagraph images [J]. The Astrophysical Journal, 2Ol2,752(2): 144.   
+[20]曾昭宪、刘毅、魏雅利．基于频谱突变分析的日冕物质抛射识别方法 [J].2012. Zeng Zhaoxian,Liu Yi,WeiYali.Identification methodofcorona materialprojection basedonspectrum mutationanalysis [J].2012   
+[21]COLANINNORC,VOURLIDASA.Analysis of thevelocityfieldofCMEs using opticalflow methods[J].The Astrophysical Jourmal,2006,652(2): 1747.   
+[22]GISSOTSFHOCHEDEZJ-FOS,etal.ExtractingtheapparentmotiofrotwosuesiveEITmages;procedingsof the Solar Variability as an Input to the Earth's Environment,F,2O03 [C].   
+[23]ZHANGL,YJ-Q,INJ-B,etal.DetectionofcoronalmassejectionsusingAdaBoostongrayscale statisticfeatures[J].New Astronomy,2016,48(49-57.   
+[24]ZHANGL,YINJ-Q,LINJ-B,etal. Detectioofcoronal massejectionsusing multiple featuresandspacetimecontinuity[J]. Solar Physics,2017,292(7): 91.   
+[25]YIN J,YAOH,LINJ,et al. Coronal Mass Ejections detection using multiple features based ensemble learning[J]. Neurocomputing,2017,244(123-30.   
+[26]JHNEB.Digital image processing:concepts,lgorithms,and scientificapplications [M].SpringerHeidelberg,1997.   
+[27]HARALICKRM,SHANMUGAMK.Textural features forimage classfication[J].IEEETransactionsonsystems,man,and cybernetics,1973,6): 610-21.   
+[28]MORGAH,HABBALSR,WOOR.Thedepictionofcoronalstructureiite-lightimages[J].SolarPhysics,06,6(2): 263-72.   
+[29]HEITZF,REZP,BOUTHEMYP.Multiscale minimizationof global energyfunctions insome visualrecoveryproblems[J]. CVGIP: image understanding,1994,59(1): 125-34.   
+[30]LIZLUTNGJ,ealRobuststructuredsbspacelaingfordataepresetatio[J].EEtrasactiosopatealis and machine intelligence,2015,37(10): 2085-98.   
+[31]TANGJ,LIZ,WANGM,etal.Nighborhooddiscriminanthashingforarge-scaleimageretrieval[J].IEEETransactioson Image Processing,2015,24(9): 2827-40.   
+[32]SCHAPIRERE,FREUNDY,BARTLETTP,etal. Boosting the margin: Anew explanationforthe effctiveness of voting methods [J]. The annals of statistics,1998,26(5):1651-86.   
+[33]HUANGG-B,ZHUQ-Y,EWC-K.Extreme learing machine:theoryandappications [J].Neurocomputing,2006,(1-3): 489-501.
+
+# Research Progress On Detection Of Coronal Mass Ejection
+
+Guo Min, Li Jingtao, Shang Zhenhong,Liu Hui ， Xian Xianggui ， Yang Zhipeng（KunmingUniversityofcienceandTechnology，cholofInformatioEngineringandAutomation，Kuming，65o5Cha）
+
+Abstract: A Coronal Mass Ejection (CME) is a large-scale, severely explosive phenomenon that is the main solar outburst affecting the Earth.As this kind of explosion willcause serious interference to the terrestrial environment, detecting CMEs is of great significance for forecasting severe space weather. In order to more clearly sort out the existing CME detection methods, this paper analyzes and summarizes the typical methods.Firstly,CMEs and their characteristics are introduced. Then, CMEs detection methods are summarized and analyzed from two aspects: manual methods and automatic methods. Finally, problems of the current algorithms are discussed and the future research direction is proposed.
+
+Keywords:solar burst activity; corona material; CME detection

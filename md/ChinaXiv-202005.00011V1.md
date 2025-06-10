@@ -1,0 +1,171 @@
+# 不同林龄人工梭梭林对降雨的滞后响应
+
+季树新，王理想，白雪莲，乔荣荣，常学礼(鲁东大学资源与环境工程学院，山东 烟台 264025)
+
+摘要：降雨波动是荒漠植被生长发育最主要制约因子,直接影响到植被组成、结构和功能的变化。梭梭作为干旱区植被的优势种之一，在防风固沙、涵养水源方面扮演重要角色，本文的目的是理解不同林龄人工梭梭林植被生产力对降雨事件的响应过程。本文以黑河中游荒漠－绿洲过渡带不同林龄人工梭梭为研究对象,以2017—2018 年5月1日至9月31日时序 MODIS-NDVI（近似于年生产力)日数据和对应日降雨数据为基础,采用阀值模型和统计学方法分析了其NDVI对不同降雨等级的滞后响应过程。结果表明： $\textcircled{1}$ 降雨小于 $2 ~ \mathrm { m m }$ 时，不同林龄梭梭NDVI增长率均在 $5 \%$ 以上，大于 $4 0 \mathrm { ~ a ~ }$ 生的反应最迅速，增长率为 $1 0 \% \sim 5 6 \%$ · $2 \sim 5 ~ \mathrm { m m }$ 时， $1 0 \sim 2 0$ a生的变幅最大,增长率为$1 1 \% \sim 8 3 \%$ $5 \sim 1 0 \ \mathrm { m m }$ 时， $2 0 \sim 4 0 \$ a 的最为敏感,增长幅度最高达到 $1 7 0 \%$ ；大于 $2 0 ~ \mathrm { m m }$ 时，大于40a的NDVI增长率大于其他3个林龄，增幅最高达 $7 6 \%$ 。 $\textcircled{2}$ 降雨后，不同林龄人工梭梭NDVI响应时间不同， $0 \sim 1 0$ a的为7.4$( \ \pm 2 . 8 ) \mathrm { d } , 1 0 \sim 2 0 \$ a的为 $8 . 3 \left( \ \pm 3 . 1 \right) \mathrm { d } , 2 0 \sim 4 0$ a的为 $8 . 1 \big ( \ \pm 2 . 7 \big ) \mathrm { d }$ ，大于40a的为 $8 . 2 ( \ \pm 3 . 2 ) \mathrm { d } _ { \circ }$ $\textcircled{3}$ 降雨脉动是促成荒漠－绿洲过渡带植被生产力迅速变化的关键因素。不同林龄梭梭对不同级别降雨响应模式不同， $. 2 \sim 1 0 ~ \mathrm { m m }$ 降雨条件下，人工梭梭林 NDVI增加幅度最大，高于其他2个降雨量量级NDVI响应变化幅度。依据上述分析可以推断,在荒漠-绿洲过渡带以 $1 0 \ \mathrm { m m }$ 以下降雨为主导的条件下， $1 0 \sim 2 0$ a生及 $2 0 \sim 4 0 \$ a生人工梭梭林在防护体系的作用是最重要的。
+
+关键词：林龄；人工梭梭林；降雨；NDVI；阈值模型；滞后响应；临泽
+
+在全球气候变化背景下，中国西部干旱区主要以气温和降水量增加为主要响应方式[1],其中依赖冰雪融水和降水维持的干旱区绿洲和荒漠生态系统是响应变化最敏感的生态系统[2]。特别是对于荒漠－绿洲交错区的旱生型植被，由于水分来源主要依赖降水，所以该地区的植被水分生理代谢、生长发育和系统生产力等不同尺度生态过程都受生长期降水大小和频率的影响[3]。梭梭作为干旱区最主要的固沙灌木被广泛应用于荒漠-绿洲过渡带的人工植被防护体系建设，因此，研究不同林龄梭梭对降水响应模式是对干旱区人工梭梭林水分适应机制的深入了解，也是干旱区生态水文学研究重要方向之一。
+
+有关干旱区植被与水分关系，Huang 等[4]在西北温带荒漠生态系统通过生长季典型灌木林地添加氮实验，评估了降雨对该生态系统净交换量（nete-cosystemcarbonexchange，NEE）的影响，结果发现NEE对降雨的响应程度主要依赖于降雨时间和植物生长节律的耦合关系。Liu等5 在荒漠生态系统的研究表明，生长季前期足够的降水导致更多一年生浅根植物的萌发，生长季降雨量与频率都显著影响生态系统碳储量的年际变化。从与梭梭相关研究来看，梭梭幼苗在不同梯度供水处理下抗旱性存在明显差异，供水越多越有利于梭梭幼苗存活与生长，随供水量增加梭梭根长、干重、地上生物量均迅速增长[6-7]。Liu等[8]在准噶尔盆地通过同位素方法测定了梭梭水分来源和水分利用策略，发现地下水、地表融雪形成的浅层土壤水及生长季降雨是梭梭水分的直接来源，在单次降雨后4d对植物枝条水分样本进行测定显示，木质部的 $\delta ^ { 1 8 } \mathrm { O }$ 值急剧增加，表明梭梭对降雨利用具有滞后性，降雨是梭梭的水分来源之一。从梭梭林地水分利用供给关系转换来看，在一些沙漠和绿洲过渡地区，由于地下水过度开采导致地下水位显著下降，以梭梭为主的固沙植物由主要利用地下水生长逐渐转变为雨养植物[9-10] O这些研究表明，梭梭水分利用策略在不同生育期、不同时间随水分供给关系变化不断进行权衡调整，其中对有效降雨的依赖是其主要调整策略。此外，一些研究发现在空气湿度相对丰沛的6一8月，凝结水对植物水分生理代谢有一定影响，但对生产力的影响尚不明确[11]。最后，从大尺度气候变化趋势来看,在过去 50 a中亚干旱区降雨呈增加趋势[1,12] O因此，可以推断在地下水位持续下降、凝结水供给意义不大的前提下，降水量变化是影响不同林龄人工（或自然)梭梭林生长发育的关键，其对降水的响应模式研究是人工梭梭林更新管理与荒漠-绿洲过渡带人工植被稳定性维持的重要保障。
+
+据此，本文以2017—2018年5月1日至9月31日时序MODIS-NDVI日数据为基础，以不同林龄人工梭梭林 $( 0 \sim 1 0 \mathrm { ~ a } , 1 0 \sim 2 0 \mathrm { ~ a } , 2 0 \sim 4 0 \mathrm { ~ a }$ ，大于 $4 0 \mathrm { ~ a ~ }$ ）为研究对象，分析不同林龄人工梭梭对降雨脉动事件的响应模式，以期为荒漠-绿洲过渡带人工防护体系的栽植与维护提供科学依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于中国科学院临泽内陆河流域综合研究站东部 $5 ~ \mathrm { k m }$ 张掖临泽高台绿洲与巴丹吉林沙漠的荒漠-绿洲过渡带。该区属温带大陆性气候，年平均气温 $7 . 6 ~ \mathrm { ^ { \circ } C }$ ,年平均降水量 $1 1 7 \ \mathrm { m m }$ ,其中 $70 \%$ 左右集中在5—9月。该区自然植被组成主要有油蒿（Artemisia ordosica）红砂（Reaumuria songarica）珍珠柴（Salsola passerine）、画眉草（Eragrostis pilo-sa）雾冰藜（Bassiadasyphylla）和泡泡刺（Nitrariasphaerocarpa）等，人工固沙植被主要是梭梭林（Haloxylonammodendron）。经查阅临泽站日志和当年参与造林人员现场确认，本研究梭梭林林龄划分4 组,分别为小于10 $^ { \cdot } \mathrm { ~ a ~ } , 1 0 \sim 2 0$ a ${ \sqrt { 2 0 \sim 4 0 } }$ a 和大于40a(图1,表1）。
+
+# 1.2 数据源及处理
+
+1.2.1NDVI数据本研究基于NASA 数据中心(https://ladsweb.modaps.eosdis.nasa.gov/search/order/1,轨道号为 $\mathrm { h } 2 5 \mathrm { v } 0 5$ )从可见光到短波红外前7个波段的 $2 5 0 \mathrm { ~ m ~ }$ 地表反射率数据，选取2017、2018年5月1日至9月30日的MODIS日地表反射率产品（Terra：MOD09GQ），数据处理先用MODIS投影转换软件MRT（MODISReprojection Tools）进行重采样和投影变换，重采样分辨率为 $2 5 0 \mathrm { ~ m ~ }$ ,最终输出为WGS-1984坐标系下的GeoTiff格式文件。通过
+
+![](images/15ab51e6c49017a399055af567ef246a9410409c55b7c3e83c2e1e05c79c7b5e.jpg)  
+图1研究区位置示意图Fig.1Location of the study area
+
+# 表1不同林龄梭梭形态特征
+
+Tab.1Morphological characteristics of Haloxylon ammodendron in different stand ages   
+
+<html><body><table><tr><td>林龄/a</td><td>密度</td><td>高度/m 基径/cm</td><td>冠幅/m²</td></tr><tr><td>2</td><td>2 m×2 m 0.59±0.04d</td><td>0.97 ±0.08d</td><td>0.08 ±0.05e</td></tr><tr><td>5</td><td>1m×2m 2.02 ±0.10c</td><td>5.10±0.37c</td><td>3.02 ±0.35d</td></tr><tr><td>9</td><td>1 m×2m 3.19 ±0.15b</td><td>8.45 ±0.58b</td><td>6.78 ±1.11c</td></tr><tr><td>13</td><td>1m×2m 3.41 ±0.17b</td><td>9.85 ±0.69ab</td><td>10.48±2.41bc</td></tr><tr><td>16</td><td>1 m×2m 3.75 ±0.15b</td><td></td><td>9.93±0.79ab 11.31 ±1.09abc</td></tr><tr><td>31</td><td>1m×2m 3.93±0.17ab</td><td>10.17±0.58ab</td><td>12.02±0.96ab</td></tr><tr><td>41</td><td>1m×2m</td><td>4.78 ±0.24a 12.99 ±1.21a</td><td>20.20 ±2.93a</td></tr></table></body></html>
+
+注：数据来自文献[13]（引用张珂的文献作为梭梭林植被背景）。
+
+对Red和NIR波段进行线性变换（NIR-Red)/1 $\mathbf { N I R } + \mathbf { R e d } ,$ ，获取2017、2018年5月1日至9月30日的 NDVI日数据集。
+
+1.2.2气象数据日降雨数据来自于中国科学院临泽内陆河流域综合研究站，2017—2018年5—9月降雨共29 次,参照李芳等[14]的分类标准,将降雨量大小分为5个等级： $0 \sim 2 \ \mathrm { m m } \ . 2 \sim 5 \ \mathrm { m m } \ . 5 \sim 1 0$ $\mathrm { m m } _ { \mathrm { \Omega } } 1 0 \sim 2 0 ~ \mathrm { m m } _ { \mathrm { \Omega } } > 2 0 ~ \mathrm { m m }$ 。独立降雨事件选择：经历降雨过程后，NDVI值平均增加 $10 \%$ 以上则视为有效降雨。
+
+# 1.3 分析方法
+
+阈值延迟模型[15]。模型存在的假设前提是对降雨产生响应的量级有上限，该模型可用来描述植物生长对降雨等的延迟响应，模型表达式为：
+
+$$
+\boldsymbol { y } _ { t } = \boldsymbol { k } \cdot \boldsymbol { y } _ { t - 1 } + \boldsymbol { \delta } _ { t }
+$$
+
+式中： $\boldsymbol { y } _ { t }$ 是在 $\mathbf { \chi } _ { t }$ 时的NDVI; $k$ 表示NDVI变化速率;
+
+$\boldsymbol { y } _ { t - 1 }$ 为 $t - 1$ 时的 $\mathrm { N D V I } ; \delta _ { t }$ 表示 NDVI在降雨后的增量;
+
+$$
+\delta _ { t } = \mathrm { M i n } \left[ y _ { \mathrm { m a x } } \times \left( 1 - k \right) , \delta _ { t } ^ { * } \times \left( 1 - \frac { y _ { t - 1 } } { y _ { t + 1 } } \right) \right]
+$$
+
+式中： $y _ { \mathrm { m a x } }$ 是响应变化中的最大值; ${ \delta } _ { t } ^ { * }$ 为在 $\mathbf { \chi } _ { t }$ 时的最大增量。
+
+$$
+\begin{array} { c c } { { } } & { { \displaystyle \frac { \delta _ { \mathrm { m a x } } } { R ^ { U } - R ^ { L } } \cdot \left( R _ { t - \tau } - R ^ { L } \right) , ~ R ^ { L } < R _ { t - \tau } < R ^ { U } } } \\ { { \delta _ { t } ^ { * } ~ = ~ } } & { { 0 ~ , ~ } } \\ { { } } & { { ~ R _ { t - \tau } \leqslant R ^ { L } } } \\ { { } } & { { \delta _ { \mathrm { m a x } } ~ , ~ } } & { { R _ { t - \tau } > R ^ { U } } } \end{array}
+$$
+
+式中： $\delta _ { \mathrm { m a x } }$ 是最大潜在响应增加值; $R ^ { U }$ 和 $R ^ { L }$ 分别为降雨量的上限值和下限值； $\tau$ 是某次降雨事件后NDVI发生响应的时间间隔; $R _ { { \scriptscriptstyle t } - { \tau } }$ 是有效降雨事件。在阀值模型中，各项参数由降雨事件导致的ANPP大于 $10 \%$ 的降雨事件求算。
+
+利用SPSS22进行单因素方差分析（ANOVA），比较不同等级降雨条件对不同林龄人工梭梭林植被生产力影响的显著性。
+
+# 2 结果与分析
+
+# 2.1 降雨格局
+
+从研究期降雨量分布格局来看，大部分降雨以$< 5 \ \mathrm { m m }$ 为主，约占整个生长季(5一9月)内降雨事件的 $5 1 . 7 \%$ （图2），平均单次降雨量为 $1 \ \mathrm { m m } ; 5 \sim 1 0$ $\mathbf { m } \mathbf { m }$ 降雨约占 $2 0 . 7 \%$ ，平均单次降雨量为 $7 . 8 \ \mathrm { m m }$ 大于 $1 0 \ \mathrm { m m }$ 的降雨发生频率最低,约占 $1 3 . 8 \%$ ，平均单次降雨量为 $2 8 . 5 \ \mathrm { m m }$ 。其中2018年8月31日至9月1日单次降雨量达到 $3 4 . 6 ~ \mathrm { m m }$ 。
+
+2017年和2018年5—9月累积降雨量分别为$1 0 5 . 6 \mathrm { m m }$ 和 $8 6 . 5 \mathrm { m m }$ （图3），2017年生长季5个等级降雨所占比例分别为 $2 7 \%$ ！ $1 8 \%$ ） $2 7 \%$ 、 $9 \%$ 和$1 8 \%$ ;2018年的单次降雨量大多较小，小于 $2 \ \mathrm { m m }$ 降雨等级所占比例为 $6 6 . 7 \%$ ,但降雨量只占生长季降雨量的 $1 4 . 2 \%$ 。生长季总降雨量中，大部分来自$> 1 0 \ \mathrm { m m }$ 降雨。所有这些特征都符合干旱区降雨在时间和等级上的分布特征。
+
+![](images/8d85462a19bf914b38bfa3960c77276f49b64122cc40a65cc5af87d45f6b0ecf.jpg)  
+图2降雨等级与降雨频率的关系
+
+# 2.2不同林龄梭梭NDVI对降雨的响应
+
+从阈值延迟模型分析结果来看（表2），不同林龄人工梭梭林NDVI变化速率( $k$ 值）分别为0.384（林龄小于 $1 0 \mathrm { ~ a ~ }$ ）、0.836（林龄 $1 0 \sim 2 0$ a）、1.706（林龄 $2 0 \sim 4 0 \mathrm { ~ a ~ } ,$ 和0.892（林龄大于 $4 0 \mathrm { ~ a ~ }$ ）,NDVI的变化速率和最大增长量( $\mathit { \Omega } \left( \delta _ { \operatorname* { m a x } } \right.$ )分别在 $2 0 \sim 4 0 \$ a和 $1 0 \sim$ 20a达到最大，二者变异系数分别为 $4 2 . 5 \%$ 和$3 9 . 7 \%$ ;而不同林龄NDVI的最大响应量( $\cdot y _ { \mathrm { { m a x } } }$ )和降雨响应时间 $( \tau )$ 相差不大，变异系数分别为 $1 0 . 6 \%$ 和 $5 . 1 \%$ 。说明不同林龄梯度对模型4个参数中的$k$ 和 $\delta _ { \mathrm { m a x } }$ 影响较大，而 $y _ { \mathrm { { m a x } } }$ 和 $\cdot$ 受影响较小。
+
+从NDVI对降雨事件的响应速率来看，降雨事件后不同降雨等级和不同林龄人工梭梭林对应的NDVI增长率也明显不同。当降雨量小于 $2 ~ \mathrm { m m }$ 时
+
+![](images/e307d0dd45513b155040f9862f8475cdf0bff0d30a2a9a5517ed7af0210c7ac2.jpg)  
+Fig.2Relationship between rainfall level and rainfall frequency   
+图3生长季降雨分布  
+Fig.3Rainfall seasonal distribution in growing season in 2O17 and 2018
+
+# 表2模型参数
+
+Tab.2The parameters of the threshold-delay model   
+
+<html><body><table><tr><td>林龄/a</td><td>k</td><td>ymax</td><td>T/d</td><td>R</td><td>Smax</td></tr><tr><td>0~10</td><td>0.384</td><td>0.312</td><td>7.4 ±2.8</td><td>0.2</td><td>0.107</td></tr><tr><td>10~20</td><td>0.836</td><td>0.403</td><td>8.3±3.1</td><td>0.2</td><td>0.236</td></tr><tr><td>20~40</td><td>1.706</td><td>0.351</td><td>8.1±2.7</td><td>0.2</td><td>0.221</td></tr><tr><td>>40</td><td>0.892</td><td>0.349</td><td>8.2±3.2</td><td>0.2</td><td>0.117</td></tr></table></body></html>
+
+（图4a）,4种林龄梭梭NDVI响应速度呈递增态势，其中林龄 $> 4 0$ a的NDVI增长率变幅最大( $10 \%$ \~$56 \%$ ）,均值为 $30 \%$ ,反应最为迅速； $0 \sim 1 0$ a林龄增长率变幅最小 $( 0 . 1 \% \sim 2 4 \%$ ),均值为 $12 \%$ ，反应相对迟缓；当降雨量为 $2 \sim 5 \ \mathrm { m m }$ 时（图4b）， $1 0 \sim 2 0$ a的变幅最大( $1 1 \% \sim 8 3 \%$ ),均值为 $3 7 \%$ ， $0 \sim 1 0$ a的变幅最小( $12 \% \sim 2 4 \%$ ),均值为 $2 1 \%$ ， $1 0 \sim 2 0$ a组NDVI增长率明显快于0～10a组;当降雨量为 $5 \sim$ $1 0 \ \mathrm { m m }$ 时（图4c）,20\~40a 组最为敏感,增长幅度最高达到 $1 7 0 \%$ ,均值为 $49 \%$ ， $0 \sim 1 0$ a 林龄变化幅度最小 $( 2 \% \sim 3 7 \%$ ),均值为 $14 \%$ ;当降雨量大于$2 0 \ \mathrm { m m }$ 时（图4d）， $> 4 0$ a的NDVI变幅最大（204号 $( 2 4 \% \sim 7 6 \%$ )，均值为 $57 \%$ ， $1 0 \sim 2 0$ a的次之$( 1 7 \% \sim 6 6 \%$ )，均值为 $3 6 \%$ ,20\~40a的增幅最小$( 1 6 \% \sim 2 3 \%$ ),均值为 $1 8 \%$ 。从增长率变幅来看，在由小至大降雨级别梯度上，NDVI最大变幅分别为 $2 0 \sim 4 0 \$ a $, 1 0 \sim 2 0$ a $, 2 0 \sim 4 0$ a和 $> 4 0$ a人工梭梭林；根据均值则分别以 $> 4 0$ a $, 1 0 \sim 2 0$ a $, 2 0 \sim 4 0$ a和$> 4 0$ a为最大。这表明随降雨等级的增加，NDVI增长率变化最大的林分不尽相同，其中 $5 \sim 1 0 \ \mathrm { m m }$ 降雨对 $2 0 \sim 4 0 \$ a 生人工梭梭林的生长发育影响最为明显， $0 \sim 2 \ \mathrm { m m }$ 降雨对 $0 \sim 1 0$ a 生梭梭影响最弱，而林龄在 $2 0 \mathrm { ~ a ~ }$ 以上的人工梭梭林对降雨利用能力更强，因为在变幅和均值条件下20a林龄以上级别出现频率达到6次。
+
+从不同林龄人工梭梭林对降雨响应时间来看（表3、图5），降雨发生后植被响应不是立即发生，而是在降雨发生后出现延迟（时间滞后） $3 ~ \sim$ $1 5 \mathrm { ~ d ~ }$ 。当降雨量小于 $2 \ \mathrm { m m }$ 时，大于 $4 0 \mathrm { ~ a ~ }$ 的林分响应滞后时间最短，平均为 $7 . 2 ( \ \pm 4 . 2 ) \mathrm { d } ; 1 0 \sim 2 0$ a林龄对降雨响应时间最长，响应时间平均为9.3$( \pm 4 . 5 )$ d。当降雨量介于 $2 \sim 5 \ \mathrm { m m }$ 时，不同林龄人工梭梭林响应时间呈递增态势， $0 \sim 1 0$ a组响应时间平均为 $6 . 3 ( \pm 1 . 3 ) \mathrm { d } , 1 0 \sim 2 0 \$ a 组响应时间平均为 $8 . 1 ( \ \pm 2 . 1 ) \mathrm { d } , 2 0 \sim 4 0 \$ a 组响应时间平均为10.3$( \pm 3 . 3 ) \mathrm { d }$ ， $> 4 0$ a 组响应时间平均为 $1 0 . 9 \left( \ \pm 3 . 9 \right)$ （24d。当降雨量介于 $5 \sim 1 0 \ \mathrm { m m }$ 时， $2 0 \sim 4 0$ a组响应最快，响应时间平均为 $6 . 8 (  \pm 1 . 7 ) \mathrm { d } ; 1 0 \sim 2 0$ a组响应最慢，响应时间平均为 $8 . 3 \left( \ \pm 2 . 8 \right) \mathrm { d } ,$ 。当降雨量大于 $2 0 ~ \mathrm { m m }$ 时， $1 0 \sim 2 0 \mathrm { ~ a ~ }$ 组响应最快,响应时间平均为 $5 . 5 ~ \mathrm { d } ; 0 \sim 1 0$ a 组响应最慢,响应时间平均为 $8 \mathrm { ~ d ~ }$ ，其中最大响应时长为 $1 6 \mathrm { ~ d ~ }$ ,出现在2018年5月25日降雨之后。比较4种林龄人工梭梭林NDVI对降雨事件的响应过程可以看出（图6），2017年6月20日发生 $8 . 4 \ \mathrm { m m }$ 降雨，不同林龄人工梭梭林响应时间分别为 $8 \mathrm { ~ d } ( 0 \sim 1 0 \mathrm { ~ a ~ } )$ $. 1 0 \textrm { d } ( 1 0 \sim 2 0 \$ a)、8 d(20\~$4 0 \textrm { a } ,$ 和6d(大于 $4 0 \mathrm { ~ a ~ } ,$ ）， $0 \sim 1 0$ a组和 $1 0 \sim 2 0$ a组响应方式为逐渐增加型， $2 0 \sim 4 0 \$ a 组和大于 $4 0 \mathrm { ~ a ~ }$ 组响应方式为波动增加型。
+
+![](images/c9bdc620ce610223407779796d7af2cf858909036e25c35497dd7c09e6478af2.jpg)  
+图4不同降雨等级下NDVI增长率随林龄的变化特征  
+Fig.4Characteristics of NDVI growth rate with stand age under different rainfall level
+
+表3降雨事件的选择及相应的响应时间  
+Tab.3 Selected rainfall events and the corresponding response duration   
+
+<html><body><table><tr><td rowspan="2">开始时间</td><td rowspan="2">结束时间</td><td rowspan="2">降雨量/mm</td><td colspan="4">响应时间/d</td></tr><tr><td>0~10a</td><td>10~20 a</td><td>20~40 a</td><td>>40a</td></tr><tr><td>2017-05-13</td><td>2017-05-14</td><td>4.9</td><td>7</td><td>10</td><td>13</td><td>14</td></tr><tr><td>2017 -06 -04</td><td>2017 -06-06</td><td>27.1</td><td>8</td><td>5</td><td>7</td><td>6</td></tr><tr><td>2017 -06-20</td><td>2017-06-21</td><td>8.4</td><td>8</td><td>10</td><td>8</td><td>6</td></tr><tr><td>2017-07-02</td><td>2017-07-03</td><td>9.2</td><td>12</td><td>11</td><td>8</td><td>11</td></tr><tr><td>2017-08-01</td><td>2017 -08-02</td><td>0.5</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>2017 -08-08</td><td>2017 -08-09</td><td>3.8</td><td>5</td><td>6</td><td>7</td><td>7</td></tr><tr><td>2017 -09 -12</td><td>2017 -09 -14</td><td>7.3</td><td>2</td><td>2</td><td>6</td><td>5</td></tr><tr><td>2018-05-25</td><td>2018-05-26</td><td>1.2</td><td>15</td><td>16</td><td>15</td><td>13</td></tr><tr><td>2018-09-04</td><td>2018-09-05</td><td>0.2</td><td>6</td><td>8</td><td>6</td><td>4</td></tr><tr><td>2018-09 -17</td><td>2018 -09 -18</td><td>6.1</td><td>5</td><td>8</td><td>4</td><td>8</td></tr></table></body></html>
+
+注：响应时长是从降雨日起至NDVI达到最大值的天数。
+
+![](images/dad93292c7c52cff7ecc9d677cc26994caaea1e0938402023ee06d04bb13f09c.jpg)  
+图5降雨量与响应时间关系 Fig.5Relationship between RD of vegetation and rainfall events sizes
+
+![](images/88292f02430b9ab5554feea14d4af3a45dbde8016ff7cbfc21b3a5e97d92d27b.jpg)  
+图62017年6月20日降雨后不同林龄梭梭NDVI最大值变化  
+Fig.6Maximum NDVI variation map of different ages' Haloxylon ammodendron after the rainfall on June 20,2017
+
+# 3讨论
+
+从研究时段代表性来看，研究区内1981—2010年多年平均降雨量为 $1 0 9 . 7 ~ \mathrm { m m } ^ { [ 1 4 ] }$ ,而本研究选取时段是2017—2018年，年平均降雨量为111.95$\mathbf { m } \mathbf { m }$ ,就降雨因素而言，本研究时段仍处在平均水平，具有代表性。
+
+从降雨量在主要影响梭梭NDVI的环境因子中的地位来看，不同林龄人工梭梭林的NDVI增长率与降雨量、气温、干旱间隔期（降雨事件前无雨天数)的Person相关性分析表明（表4），NDVI与降雨量相关系数分别为0.546、0.313、0.345和0.338，说明干旱区人工梭梭林的NDVI增长率与降雨量相关性较好。因为一次较大的降雨后土壤含水量增加，植物光合作用增强，NDVI增加迅速。相反，气温与NDVI增长率之间相关性差，其诱发原因与气温升高导致植被叶片气孔关闭、光合作用能力降低并最终导致NDVI下降有关[16]。干旱间隔期与NDVI增长率相关性较差，虽然干旱区土壤有一定的“降雨记忆”，但生长季中的单次降雨还是能促使植被生产力在较短时间内快速增加，其中 $0 \sim 1 0$ a组NDVI增长率与降雨量和干旱间隔期相关性较强，这是因为梭梭在幼林期间，对大气降雨及土壤水的响应更加敏感,土壤水含量越高,生长越迅速[17]
+
+表4NDVI增长率与影响因子相关关系  
+Tab.4Correlation between NDVI growth rate and its drivers at different habitats   
+
+<html><body><table><tr><td></td><td>0~10a</td><td>10~20 a</td><td>20~40 a</td><td>>40 a</td></tr><tr><td>降雨量</td><td>0.546(P=0.102)</td><td>0.313(P=0.378)</td><td>0.345(P=0.304)</td><td>0.338(P=0.340)</td></tr><tr><td>干旱间隔</td><td>0.347(P=0.326)</td><td>0.175(P=0.630)</td><td>0.023(P=0.949)</td><td>0.187(P=0.604)</td></tr><tr><td>气温</td><td>-0.098(P=0.768)</td><td>-0.087(P=0.810)</td><td>0.334(P=0.345)</td><td>0.020(P=0.956)</td></tr></table></body></html>
+
+从梭梭林对降雨响应期来看，不同林龄人工梭梭林对降雨的响应时间在8d左右（图5），而在2018年5月25日，降雨量为 $1 . 2 \ \mathrm { m m } , 4$ 组梭梭的响应时间分别为 $1 5 \mathrm { ~ d ~ } , 1 6 \mathrm { ~ d ~ } , 1 5 \mathrm { ~ d ~ } , 1 3 \mathrm { ~ d ~ }$ ，说明在生长季早期干旱区植物生长对大气降雨响应并不敏感，这个结果与戴岳等[18]在古尔班通古特沙漠通过主要建群种梭梭生长季水分动态研究及对不同时期相似量级 $( 6 . 7 ~ \mathrm { m m } \cdot 7 ~ \mathrm { m m }$ 降雨)降雨脉冲的响应研究观点一致。产生这种现象的原因是梭梭在生长季初期(6月之前），水分需求主要依赖于土壤中冬季的解冻水，此时由于气温和地温较低，导致梭梭在生长季前期生长较慢。Li等[19]采用时间分辨率为8d的MODIS 数据，探究西北干旱区沙地生境和荒漠生境NDVI对单次降雨的响应过程,响应时间为 $1 0 \sim 2 0$ d,本文采用时间分别率为1d的MODIS数据，较之研究结果在时间分辨率上有明显提高。降雨发生时间的不确定性，使得梭梭对降雨引起的土壤含水量变化的响应也具有不确定性，进而使得植被NDVI的响应产生不同的变化。
+
+从不同林龄人工梭梭林在降雨事件后的响应特点来看，在经历 $2 \sim 5 \ \mathrm { m m }$ 和 $5 \sim 1 0 \ \mathrm { m m }$ 等级的降雨后，不同林龄人工梭梭林NDVI增加的波动范围明显高于 $0 \sim 2 \ \mathrm { m m }$ 和大于 $2 0 ~ \mathrm { m m }$ 降雨等级（图4），由此可以推断 $2 \sim 5 ~ \mathrm { m m }$ 和 $5 \sim 1 0 \ \mathrm { m m }$ 降雨对人工梭梭林的生长发育十分重要。Sala 等[20]提出,在半干旱地区 $< 5 \ \mathrm { m m }$ 降雨对植物生存和生长至关重要，本文认为 $2 \sim 1 0 ~ \mathrm { m m }$ 降雨能促使梭梭在短期内迅速萌发,促进其生长和NDVI的增加。不同林龄人工梭梭随林龄增加高度、冠幅都呈增加趋势[21],虽然梭梭的栽植可以使土壤理化性质发生一定程度的改变，但随林龄增加土壤有机质含量也呈下降趋势。本文中 $0 \sim 1 0$ a和 $1 0 \sim 2 0$ a 梭梭对单次降雨过程响应时间相较于其他2组更短，可能与土壤有机质速效磷等含量高于高龄梭梭下的土壤有机质含量有关，且0\~10a和 $1 0 \sim 2 0$ a 梭梭根系埋藏深度较其他2组更浅，对降雨的吸收利用更早。
+
+从本文的局限性来看： $\textcircled{1}$ 在较短时间尺度内(2a)缺乏足够的有效降雨，导致增幅在 $10 \%$ 以下的NDVI动态变化过程往往容易被忽略，且研究区4种林龄人工梭梭林之间在植被盖度、密度及存活率等方面存在差异，这种差异在现有的研究中都没有很好的解决。 $\textcircled{2}$ 本文研究时段内缺少使植被NDVI增幅明显的 $1 0 \sim 2 0 ~ \mathrm { m m }$ 及大于 $3 0 ~ \mathrm { m m }$ 的降雨，所以对这两种级别降雨响应过程没有体现。 $\textcircled{3}$ 由于天气原因，选取独立降雨后的NDVI连续变化过程中存在有云和云影的情况（出现无效数据），导致响应天数出现一定滞后。
+
+# 4结论
+
+在不同等级的降水条件下，不同林龄人工梭梭林表现出不同的响应特征。 $2 \sim 5 \ \mathrm { m m }$ 和 $5 \sim 1 0 ~ \mathrm { m m }$ 降雨是影响干旱区荒漠－绿洲过渡带不同林龄梭梭生存生长的两个重要阈值范围，NDVI对降雨脉动的响应始于 $2 \ \mathrm { m m }$ 左右，当降雨量处在 $5 \sim 1 0 \ \mathrm { m m }$ 时,NDVI迅速增加 $2 \% \sim 7 4 \%$ 。降雨发生后，不同林龄人工梭梭林的植被生产力响应时间不同， $0 \sim$ $1 0 \mathrm { ~ a ~ }$ 组为 $7 . 4 ( \pm 2 . 8 ) \mathrm { d } , 1 0 \sim 2 0 \$ a组为 $( 8 . 3 \pm 3 . 1 \cdot$ ，$\mathrm { ~ d ~ } , 2 0 \sim 4 0 \mathrm { ~ a ~ }$ 组为 $( 8 . 1 \pm 2 . 7 ) \$ ）d,大于40a组为(8.2$\pm 3 . 2 ) \mathrm { d }$ 。独立降雨是引发干旱区植被生产力迅速变化的重要因素。
+
+# 参考文献(References）:
+
+[1］陈亚宁,王怀军,王志成,等.西北干旱区极端气候水文事件特 征分析[J].干旱区地理,2017,40（1）：1-9.［Chen Yaning, WangHuaijun,Wang Zhicheng,et al.Characteristicsof extreme climatic/hydrological eventsin the arid region of northwestern Chi
+
+na[J].Arid Land Geography,2017,40(1）:1 -9.]   
+[2]许皓,李彦,邹婷,等.梭梭(Haloxylon ammodendron)生理与个 体用水策略对降水改变的响应[J].生态学报,2007,27（12）： 5019-5028.[Xu Hao,Li Yan,Zou Ting,et al. Ecophysiological response and morphological adjustment of Haloxylon ammodendron towards variation in summer precipitation[J].Acta Ecologica Sinica,2007,27(12):5019 -5028.]   
+[3］孙岩,何明珠,王立.降水控制对荒漠植物群落物种多样性和 生物量的影响[J].生态学报,2018,38（7）:2425-2433.[Sun Yan,He Mingzhu,Wand Li.Effects of precipitation control on plant diversity and biomass ina desert region[J].Acta Ecologica Sinica,2018,38(7) :2425-2433.]   
+[4]Huang G,Li Y,Francisco M Padilla.Ephemeral plants mediate responses of ecosystem carbon exchange to increased precipitation in a temperate desert[J].Agricultural and Forest Meteorology,2015, 201:141 -152.   
+[5]Liu R,Ellen Cieraad,Li Y,et al.Precipitation patten determines the inter-annual variation of herbaceous layer and carbon fluxes in a phreatophyte-dominated desert ecosystem[J].Ecosystems,2016, 19:601 -614.   
+[6]邹婷,李彦,许皓,等.不同生境梭梭对降水变化的生理响应及 形态调节[J].中国沙漠,2011,31(2）:428-435.[Zou Ting,Li Yan,Xu Hao,et al.Physiological response and morphological adjustment of Haloxylon ammodendron in diferent habitats against precipitation variation[J].Journal of Desert Research,2011,31 (2):428 -435.]   
+[7］刘国军,张希明,吕朝燕,等.不同供水条件下梭梭幼苗生长动 态的研究[J].中国沙漠,2012,32（2）:388-394.[Liu Guojun, Zhang Ximing,Lyu Chaoyan,et al. Seeding growth dynamic of Haloxylon ammodendron under different water supply[J]. Journal of Desert Research,2012,32(2）:388-394.]   
+[8]Liu G,Lyu J,Zhang X.Preliminary study of water sources for maintenance and water utilization strategies of Haloxylon ammodendron in the arid desert area of northwestern China[J].Peer JPreprints, 2016,4:e1905v1.   
+[9］徐先英,严平,郭树江,等.干旱荒漠区绿洲边缘典型固沙灌木 的降水截留特征[J].中国沙漠,2013,33（1）:141－145.[Xu Xianying,Yan Ping,Guo Shujiang,et al. The interception loss of rainfall by three sand-fixing shrubs at the fringe of Minqin oasis [J].Journal of Desert Research,2013,33(1）:141-145.]   
+[10］张晓艳,褚建民,孟平,等.民勤绿洲荒漠梭梭(Haloxylon ammodendron)土壤水分特征[J].中国沙漠,2015,35（5）：1206- 1216.[Zhang Xiaoyan,Chu Jianmin,Meng Ping,et al.Characteristics of soil moisture in the area growing Haloxylon ammodendron in the Minqin desert-oasis ecotone[J]. Journal of Desert Research,
+
+2015,35(5):1206-1216.]
+
+[11]Zhuang YL,Zhao W Z.Dew formation and its variation in Haloxylon ammodendron plantations at the edge of a desert oasis,northwestern China[J]．Agricultural and Forest Meteorology,2017, 247 :541 - 550.   
+[12]Xu H,Li Y. Water-use strategy of three central Asian desert shrubs and their responses to rain pulse events[J]. Plant and Soil,2016, 285:5-17.   
+[13］张珂,苏永中,王婷,等.荒漠绿洲区不同种植年限人工梭梭林 土壤化学计量特征[J].生态学报,2016,36(11）:3235－3243. [Zhang Ke,Su Yongzhong,Wang Ting,et al. Soil stoichiometry characteristics of Haloxylon ammodendron with different plantation age in the desert-oasis ecotone,North China[J].Acta Ecologica Sinica,2016,36(11) :3235 -3243.]   
+［14］李芳,赵文智.黑河中游荒漠生态系统归一化植被指数对降水 的响应[J].植物生态学报,2016,40（12)：1245－1256.［Li Fang,Zhao Wenzhi. Changes in normalized difference vegetation index of deserts and dunes with precipitation in the middle Heihe River Basin[J].Chinese Journal of Plant Ecology,2016,40（12）: 1245 -1256.]   
+[15]Ogle K,Reynolds JF.Plant responses to precipitation in desert ecosystems;integrating functional types,pulses,thresholds,and delays[J].Oecologia,2004,141(2）:282 -294.   
+[16］蒋冲,王文丽,陈爱芳,等.近52 年渭河流域气候变化对植被净 第一性生产力的影响[J].中国沙漠,2013,33（3)：952-957. [Jiang Chong,Wang Wenli,Chen Aifang,et al.Effect of climate change on net primary production of vegetation in the Weihe river basin[J].Journal of Desert Research,2013,33(3）:952-957.]   
+[17］朱雅娟,贾志清,刘丽颖,等.民勤绿洲外围不同林龄人工梭梭 林的土壤水分特征[J].中国沙漠,2011,31（2)：442－446. [ Zhu Yajuan,Jia Zhiqing,Liu Liying,etal. Soil water in planted Haloxylon ammodendron shrubland of different age outside Minqin oasis[J].Journal of Desert Research,2011,31(2）:442-446.]   
+[18］戴岳,郑新军,唐立松,等.古尔班通古特沙漠南缘梭梭水分利 用动态［J].植物生态学报,2014,38（11）：1214-1225.［Dai Yue,Zheng Xinjun,Tang Lisong,et al. Dynamics of water usage in Haloxylon ammodendron in the southern edge of the Gurbantingguit Desert[J].Chinese Journal of Plant Ecology,2014,38（11）： 1214 -1225.]   
+[19]LiF,Zhao W Z,Liu H. The response of aboveground net primary productivity of desert vegetation to rainfall pulse in the temperate desert region of Northwest China[J].Plos One,2013,8（9）： e73003.   
+[20]Sala O E,Lauenroth W K.Small rainfall events:an ecological role in semiarid regions[J].Oecologia,1982,53(3）:301-304.
+
+# Lag response of artificial Haloxylon ammodendron forests at different ages to rainfall
+
+JI Shu-xin， WANG Li-xiang， BAI Xue-lian， QIAO Rong-rong， CHANG Xue-liDepartment of resources and environmental enginering,Ludong University,Yantai 264O25,Shandong,China
+
+Abstract：Rainfall pulses are the most importantconstraints forthe growth and succession ofdesert vegetation and directly afect the changes in vegetation composition,structure,and function.Asoneof thedominant species of artificial vegetation inthe arid zones,Haloxylonammodendron isa crucial factor in windbreaking,sandfixation,and waterconservation.Theobjectiveof this study is tounderstandtheresponse of the vegetation productivityof the artificial Haloxylonammodendron woodlands to rainfallevents at different stand ages.We studied the Haloxylon ammodendron woodlands exhibiting different standages ina desert-oasis transition zone in the middlereaches of the Heihe River using the MODIS-NDVI(the approximate annual productivity）time series from May 1,2017 to September 31,2O17.Basedon thecorrespondingdaily rainfall data,athreshold modeland statistical methods wereused to analyze the lag response processof the NDVIto diferent rainfall levels.Theresults showed that（1）When the rainfall was less than $2 ~ \mathrm { m m }$ ,the NDVI growth rates in case of different stand ages were more than $5 \%$ and stands with ages of more than 4O year reacted the fastest； the growth rates fluctuated from $10 \%$ to $56 \%$ .When the rainfall was $2 - 5 ~ \mathrm { m m }$ ,the stands that exhibited ages of 1O -2O year showed the largest growth rate,i. e.,from approximately $11 \%$ to $83 \%$ .When the rainfall was $5 - 1 0 ~ \mathrm { m m }$ ,the most sensitive group had stand ages of 2O -4O year,with the highest growth rate being $1 7 0 \%$ .When the rainfall was more than $2 0 ~ \mathrm { m m }$ ,the NDVI growth rate was greater for stand ages greater than 4O year than those for the remaining three stand ages,with an increase of up to $76 \%$ .(2) After the rainfall,the NDVI response time was observed to be different for different stand ages : $7 . 4 \AA \left( \mathbf { \Omega } \pm 2 . 8 \right)$ days for the O -10 year group, $8 . 3 \AA \pm 3 . 1 \AA$ days for the 10 -20 year group, $8 . 1 \left( \ \pm 2 . 7 \right)$ days for the 20 -40 year group,and $8 . 2 ( \pm 3 . 2 ) \$ days for the $> 4 0$ year group.(3） Rainfall pulses contribute to rapid changes in vegetation productivity in the desert-oasis transition zone.Different stand age groups showed diferent responsepatterns to differentrainfall levels,and the NDVI increasefor theartificial Haloxylonammodendron woodland was the largest when the rainfall was $2 - 1 0 \ \mathrm { m m }$ . According to these results,when the desert-oasis transition zone is dominated by less than $1 0 ~ \mathrm { m m }$ of rainfall,the roles of 10-20 year and 20 -40 year artificial Haloxylon ammodendron woodlands in the protection system are likely to be the most important factors.
+
+Key words:stand age；artificial Haloxylonammodendron woodland；rainfall；NDVI； Threshold-delay model;lag response； Linze oasis

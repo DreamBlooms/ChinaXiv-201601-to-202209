@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "Dynamic Phosphorylation of CENP-A at Ser68 Orchestrates Its Cell-Cycle-Dependent Deposition at Centromeres ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhouliang $\\forall \\mathbf { u } , \\mathsf { \\mathsf { 1 } } , \\mathsf { 2 } , \\mathsf { 9 }$ Xiang Zhou,1,9 Wenjing Wang,1 Wenqiang Deng,1,2 Junnan Fang,1,2 Hao Hu,1.2 Zichen Wang,1   \nShangze Li3LeiCui,4JingShen,1Linhui Zhai,5ShengyiPeng,26JieminWong,7ShuoDong,ZengqiangYuan6   \nGuangshuo Ou,1 Xiaodong Zhang,3 Ping Xu,5 Jizhong Lou,4NaYang,1 Ping Chen,1 Rui-Ming Xu,1and Guohong Li1\\*   \n1NationalLaboratoryof Biomacromolecules,Instituteof Biophysics,ChineseAcademyofSciences,Beijing10001China   \n2University of Chinese Academy of Sciences, Beijing 100049,China   \n3College of Life Sciences, Wuhan University,Wuhan, Hubei 430072,China   \n4Laboratory of Noncoding RNAs,Institute of Biophysics,Chinese Academyof Sciences,Beijing 100101,China   \n5StateKeyabortoryofoteicsejireoeesearchenterejistituteofdtdicineinga   \n6State KeyLaboratoryofrainandCognitiveSciences,IstituteofBiophysics,ChineseAcademyofSciences,Beijing0Cina   \n7Instituteof Biomedical Sciencesand Schoolof Life Sciences,East China Normal University,Shanghai 200241,China   \n8Department of Medicine,Baylor College of Medicine,Houston,TX 77030, USA   \n$^ { 9 } { \\sf C } \\sf { o }$ -first author   \n\\*Correspondence: liguohong@sun5.ibp.ac.cn   \nhttp://dx.doi.org/10.1016/j.devcel.2014.11.030 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The H3 histone variant CENP-A is an epigenetic marker critical for the centromere identityand function.However, the precise regulation of the spatiotemporal deposition and propagation of CENP-A at centromeres during the cell cycle is still poorly understood. Here，we show that CENP-A is phosphorylated at Ser68 during early mitosis by Cdk1. Our results demonstrate that phosphorylation of Ser68 eliminates the binding of CENP-A to the assembly factor HJURP, thus preventing the premature loading of CENP-A to the centromere prior to mitotic exit.Because Cdk1 activity is at its minimum at the mitotic exit, the ratio of Cdk1/PP1 $\\alpha$ activity changes in favor of Ser68 dephosphorylation, thus making CENP-A available for centromeric deposition by HJURP.Thus,we reveal that dynamic phosphorylation of CENP-A Ser68 orchestrates the spatiotemporal assembly of newly synthesized CENP-A at active centromeres during the cell cycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "sisand deposition of canonical histones to DNA replication (Marzluff et al.，2008)， the processes of CENP-A synthesis and assembly into chromatin are uncoupled from centromeric DNA replication in most species studied to date (Jansen et al., 2007; Schuh etal., 2007;Shelbyetal.,200O). Centromeric DNA is replicated in the mid-to-late S phase (Ten Hagen etal.,199O),while mRNA and protein levels of CENP-A peak during the late $\\mathsf { G } _ { 2 }$ and mitotic phases (Shelby etal.,1997,2000). After DNA replication in the S phase,each newly synthesized centromere inherits about half of the parental CENP-A,which must then be complementedbefore the next round of DNA replication (Allshire and Karpen，2008； Nechemia-Arbely et al.，2012). Surprisingly, CENP-A replenishment occurs at distinct time points in the different eukaryotic systems studied.In human cells,chicken DT40 cells,and Xenopus egg extracts,the assembly of newly synthesized CENP-A occursduring late telophaseand early $\\mathsf { G } _ { 1 }$ phase，a short time window following mitotic exit (Jansen et al.,2007; Moree etal., 2011; Silva et al., 2012). In Drosophila, the newly synthesized CENP-A assembles into centromeric chromatin at telophase/early $\\mathsf { G } _ { 1 }$ in somatic tissues (Dunleavy etal.,2012),atmetaphase incultured Drosophila cell lines (Mellone et al., 2011),and at anaphase during embryonic syncytial divisions (Schuh et al.，20o7)． In contrast to the species describedabove, theassemblyof CENP-Ainyeastand Arabidopsis thaliana has been reported to occur during the S phase or late $\\mathsf { G } _ { 2 }$ phase (Dunleavy et al., 20o7; Lermontova etal., 2006). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The centromere is essential for dividing cells to faithfully propagate their genetic material in equal parts to theirdaughter cells (Allshire and Karpen， 20o8). In most eukaryotes，centromeric DNA sequences seem neither necessary nor sufficient for the identity and function of centromeres (Allshire and Karpen, 2008).Therefore,centromeres are now defined epigenetically, namely,by the presence of CENP-A (also known by its generic name CenH3),a centromere-specific variant of histone H3 (Allshireand Karpen, 20o8; Cheesemanand Desai, 20o8; Earnshaw and Rothfield, 1985). In contrast to the tight linking of the synthe",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently，a number of studies demonstrated that the assembly of CENP-A chromatin is temporally coupled to cellcycle-related events,including the activation of the anaphasepromoting complex/cyclosome, the degradation of cyclin A in flies (Erhardt et al.,2008; Mellone et al., 2011), the centromeric loading of chromatin licensing factors，and the inhibition of cyclin-dependent kinase (Cdk) activities in mammalian cells (McKinley and Cheeseman，2014; Muller et al.， 2014; Silva et al.,2012).Prior to deposition,specific factors,including the centromere-licensing factorMis18 complex as well as RbAp46 and RbAp48 (RbAp46/48)，are recruited for the priming of ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/da3cfb82b490a0c77596d7390bcd87d87fea35112e46f0695e3740598d62446e.jpg",
+        "img_caption": [
+            "Figure 1. Ser68 Phosphorylation ls Critical for the Functions of CENP-A "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A)Aminoacideeigetflimlieraecimbsacettocsate residue,counted from the N terminus of each protein. Conserved residues are in red (S or Ain CENP-A).   \n(B) Schematic diagram illustrating the Lacl-LacO targeting assay used in this study.   \n(C)Representaialsditad-utantscdd stained with DAPl,(for DNA,blue). Cells transfected with EGFP $\\cdot { \\mathsf { H } } 3 . 1$ were set as controls.BG,background. Scale bar, $1 0 ~ \\mu \\mathrm { m }$   \n(D)QuantificatiofellexpessigF-gdproteisspeifallyrdarinC).ntisiti $( \\% )$ of the signal on the array to background signal (nucleus). Data are presented as the mean $\\pm \\mathsf { S D }$ of three independent experiments.   \n(E)RepresentatiiasfaitiotoE-AndQutantelCellsweadiB (for centromeres,red) and DAPl (blue) as indicated. Scale bar, $5 \\mu \\mathrm { m }$ .Expression of the transfected proteins was analyzed by western blot shown in (G). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(legend continued on next page) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Developmental Cell 32,1-14,January12,2015 $\\circledcirc$ 2015 Elsevier Inc. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "centromeric regions allowing the loading of CENP-A (Fujita et al., 2007; Hayashi et al., 2004; Maddox et al., 2007). In human cells, the deposition of CENP-A is mediated by the specific chaperone and assembly factor HJURP (Dunleavy et al., 20o9; Foltz et al., 2009),which itself is recruited there by the Mis18 complex (Barnhart et al., 2011; Fujita et al., 2007). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The centromere-targeting domain (CATD) of CENP-A is required for the binding of HJURP,suggestinga potential role of CATD for centromeric recruitment of CENP-A (Dunleavy et al.,2009; Foltz et al., 2009). Recently, we and other groups revealed the structural basis for the recognition of CenH3CENP-A/ CenH3Cse4 by HJURP/Scm3 (the HJURP yeast homolog) (Cho and Harrison, 2011; Hu et al., 2011; Zhou et al., 2011). Intriguingly,unlike previous studies that identified CATDas the exclusive region responsible for HJURP binding (Bassett et al., 2012; Black et al.,2oo4), our structural and biochemical analysis showed that the region outside CATD contains an essential residue for HJURP binding，with the residue being identified as Ser68 (Hu etal.,2011). In order to identify the potential functional significance of Ser68 in vivo,as well as to investigate how CATD andSer68 cooperate with each other in CENP-A centromeric recruitment,we analyzed the capabilityof CENP-A Ser68 mutation both for HJURP binding and centromere targeting using biochemical and cellular biology techniques.Furthermore，we generatedaphosphorylation-specific antibody directed against Ser68-P，allowingus to identifythis residue asa cell-cycledependent phosphorylation site，thus revealing its essential physiological role in CENP-A deposition at centromeres. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ser68lsNecessary,butNotSufficient, fortheFunction of CENP-A In Vivo ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CENP-A Ser68 is evolutionarily conserved in most eukaryotes, with the exception of budding yeast,C.elegans,and chicken. In contrast, the canonical histone H3.1 carries a glutamine at thissite,indicating that this residue representsa potential functional marker for the CENP-A variant form (Figure 1A).To investigate the physiological relevance of this conserved residue in vivo，we generated an S68Q mutation of CENP-A (CENP$\\mathsf { A } ^ { \\mathsf { S 6 8 Q } } )$ that was predicted toproduce asteric clash with ahydro phobic notch present in HJURP (Hu et al.，2011).Using this mutant form，we performed in vivo Lacl (Lac repressor)-LacO (Lac operon) targeting (Robinett etal.,1996) and coimmunoprecipitation (co-IP) experiments. It has been reported that Laclfused HJURP could drive the recruitment of CENP-A to the LacO arrays at a noncentromeric locus (Figure 1B) (Barnhart et al.,2011). In our system,multiple LacO arrays were integrated into asingle noncentromeric chromatin locus in Ao3_1 Chinese hamster ovary DG44 cells (Qiu et al., 2011).We found that the EGFP-tagged wild-type CENP-A， but not the CENP-AS68Q mutant,was recruited to the LacO arrays by an ectopically expressed mCherry-Lacl-HJURP fusion protein (Figures 1C and 1D), indicating that the S68Q mutation resulted in impaired binding of CENP-A to HJURP.In addition, the colP experiments showed that the interaction between CENP-A and HJURPwas greatly impaired in S68Q (Figure S1A available online).Using a colorectal cancer cell line HCT-116 carrying knocked-in FLAGtagged HJURP,we confirmed that the S68Q mutation impaired the binding activity of CENP-A to endogenous HJURP (Figure S1B).To confirm our assumption that Ser68 is essential for HJURP binding，we separated soluble (chromatin-unbound) CENP-A from the chromatin-bound CENP-A using a biochemical fractionation approach.Our results clearly showed that significantly more CENP $\\cdot A ^ { \\mathsf { S 6 8 Q } }$ proteins were observed in the soluble fraction than wild-type CENP-A (Figures S1C and S1D). Thus,our data strongly suggest that,in the CENP- $\\cdot A ^ { \\mathsf { S 6 8 Q } }$ mutant form,the binding of CENP-A to HJURP is severely reduced, which directly impairs the recruitment of CENP-A to chromatin. ${ \\mathsf { H } } 3 . 1 ^ { \\mathsf { C A T D } }$ is an artificial chimeric histone in which the CATD domain of $\\mathsf { H } 3 . 1$ was substituted with the corresponding region of CENP-A,and it has been reported to incorporate into centromere and specify the location for kinetochore as CENP-A (Black et al., 2007; Foltz et al., 2009). This chimera protein exhibited a weak interaction with HJURP in our Lacl-LacO targeting and colP experiments (Figures 1J, 1K, S2A,and S2B). Interestingly, we found that the single-point mutation of Q68S in ${ \\mathsf { H } } 3 . 1 ^ { \\mathsf { C A T D } }$ $( 1 1 3 . 1 ^ { \\mathsf { C A T D - Q 6 8 9 } } )$ significantlyincreasedbinding_capacityto HJURP(Figures1J,1K,and S2B), suggesting that Ser68 confers an extra CENP-A attribute to ${ \\mathsf { H } } 3 ^ { \\mathsf { C A T D } }$ However,canonical H3.1 carrying the Q68S mutation $( 1 1 3 . 1 ^ { \\mathsf { Q 6 8 S } } )$ did not exhibit any binding capacity for HJURP,similar to wild-type H3.1 (Figures S2A and S2B), indicating that Ser68 alone is not sufficient for HJURP binding.Together, these results indicate that CATD and Ser68 are structural elements,both of which are essential for centromere recruitment of CENP-A. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the role of Ser68 in CENP-A function in vivo,we tested the effects of Ser68 mutation on the centromeric localization of CENP-A using immunofluorescent imaging.In contrast to the centromere-specific localization of wild-type CENP-A and H3.1CATD-Q68S,the CENP $\\mathsf { A } ^ { \\mathsf { S 6 8 } \\mathsf { Q } }$ and ${ \\mathsf { H } } 3 . 1 ^ { \\mathsf { C A T D } }$ mutants showed genome-wide distributions in the interphase nucleus of HeLa cells (Figures 1E-1G and S2C). The mislocalization of CENP-A mutants resulted in the merging of CENP-A signal with that ofthe condensed chromosomes in mitotic cells and was associated with various mitotic chromosomal defects， suchas aneuploidy，chromosome bridges，and formation of polypolar spindles during the mitotic phase (Figures 1H and S2E). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/71ca95855493c2a7a3bd777c5e304b84787aaee9d729dc96226ff8bcd8589d3f.jpg",
+        "img_caption": [
+            "Figure 2. Ser68 Phosphorylation of CENP-A Occurs at the Early Mitotic Phase "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(A)FLG-taged-spepaitirlditagdE-dd treatedwithlabalodtotalstibosatedAdicasspoaedo (B)HKici FLAGagaroseandanalyzedbywesternblotting using antibodies as indicated.Arrow indicates pSer68 CENP-A.WT,wild-type.   \n(C) HA-tagged CENP-A dwith m HEK293T celstransfected with HA-tagged CENP-Aor CENP $\\cdot A ^ { \\mathsf { S 6 8 A } }$ and was either mocktreatedortreatedwithcalf intestinalalkalin ase (ClP),followed by western blot analysis using antibodies as indicated.   \n(D) Western blot analysis ot293 HA- d CENP-A in different cell-cycle stages;cyclin A,cyclin E,and H3pS10 immunoblots indicated specific stages,while $\\alpha$ ubu loadingcontrol   \n(E) Western blot analysis( aggedCENP-AorCENP $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 A } }$ released from nocodazole (Noc) treatment for the indicated times; CENP-ApS7 and H3pS $\\alpha$ Tubulin served as a loading control.   \n(F) Representative images of CENP ASer68phosphorylationatmitotic phase.HeLacels were stained withaphosphor-specificantibodyagainst either Ser68or Ser7of CENP-AorSer10ofH3(pS68/pS7/H3pS10,green),togetherwithACA(forcentromeres,red)andDAPI(forDNA,bue).Scalebar $5 \\mu \\mathrm { m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,our results indicate that the Q68S mutation in ${ \\mathsf { H } } 3 . 1 ^ { \\mathsf { C A T D } }$ not only facilitates binding tothechaperone HJURP (Figures 1J,1K,and S2B-S2D) but also rescues the full spectrum of kinetochore-related functions of CENP-A in vivo (Figures S2E and S2F).Taken together,our results suggest that,apart from the essential role of CATD,CENP-A Ser68 is also absolutely required for the recognition of CENP-Aby HJURP (Black etal., 2007； Cho and Harrison， 2011； Foltz et al.， 2009; Hu et al., 2011; Zhou et al., 2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CENP-ASer68 Is Phosphorylated intheEarlyStagesof Mitotic Phase ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inlight of the critical role of Ser68 for the function of CENP-A,we sought to investigate whether this site undergoes posttranslational modifications.Previous studies have demonstrated that CENP-A can be phosphorylated at Ser7，Ser17，and Ser19 (Bailey etal., 2013). Indeed,a slowermigrating band of FLAGCENP-A was observed when using the lysates of cells that overexpressed FLAG-CENP-A,and the band disappeared when the lysateswere pretreatedwith lambda protein phosphatase (PP) (Figure 2A). To examine whether the Ser68 of CENP-A can be phosphorylated in vivo,we generated a CENP-A mutant in which the Ser68 residue was mutated to alanine $( C E N P - A ^ { \\mathsf { S 6 8 A } } )$ to render this site completelydevoid of phosphorylation.Interestingly，a clear and specific shift-up of the CENP-A band was observed in the lysates of cells expressing wild-type CENP-A relative to the CENP-A band from cells expressing the CENP$\\mathsf { A } ^ { \\mathsf { S 6 8 A } }$ mutant (Figure 2B), suggesting that Ser68 is phosphorylatedinvivo.To further identifyand characterize the roleof Ser68 phosphorylation in CENP-A,we generated a site-specific anti-pSer68 antibody，which exhibited high specificity to the phosphorylated Ser68 (pSer68) in CENP-A in dot blot,western blot,and immunofluorescent assays (Figures S3A-S3C). Using this antibody,we confirmed that the overexpressed CENP-A in 293T cells was phosphorylated at Ser68 (Figure 2C).Mutations of Ser68 to either alanine (S68A) or glutamate (S68E) not only eliminated the phosphorylation of this site but also resulted in the mislocalization of CENP-A into noncentromeric regions, indicating that phosphorylation of Ser68 is essential for the specific deposition of CENP-A into centromeres (Figure S3C). Interestingly,by using synchronized 293T cells,we also found that the phosphorylation of CENP-A at Ser68 primarily occurred during the mitotic phase of the cell cycle (Figure 2D). Notably, this phosphorylation could only be detected within a short time window after the entry into mitosis (most likely from prophase to metaphase) and became undetectable 90 min after the release from $\\mathsf { G } _ { 2 }$ -M arrest induced by nocodazole，just prior to exit from mitosis (Figure 2E).To accurately characterize the timing of Ser68 phosphorylation,we performed immunofluorescent staining experiments using our newly generated anti-pSer68 antibody.Our results showed that phosphorylation of Ser68 started in prophase,reached its maximal levels during prometaphase, and decreased during anaphase and telophase (Figure 2F). While this pattern occurred concurrently with the phosphorylation of CENP-A Ser7 (Figure 2F) (Kunitoku et al.， 2003; Zeitlin et al.,2001), CENP-ApSer68 displayed a localization pattern that was very diferent from that of CENP-ApSer7. At early mitosis, CENP-ApSer7 was localized specificall at centromeres, whereas CENP-APSer68 was dispersed throughout the whole nuclear re gion in mitotic cels. Furthermore,the dispersed CENP-ApSer68 signal was found to merge neither with DAPl-stained chromatin nor with ACA-stained centromeres (Figure 2F). These results suggest that the phosphorylation of Ser68 occurs exclusively in prenucleosomal CENP-A and may prevent the deposition of CENP-A into centromeric regions.To verify this hypothesis,we performed cell fractionation experiments to separate the soluble CENP-A from the chromatin-bound CENP-A.The results clearly showed that phosphorylated Ser68 was only detected in free, prenucleosomal CENP-A but not in the chromatin-bound CENP-A (Figure S3D).In summary，our results reveal that CENP-A is phosphorylated at Ser68 during early mitosis before its recruitment to the centromere,which starts in the late mitotic phase. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PhosphorylationatSer68RegulatestheRecognitionof CENP-AbyHJURP,a Vital ProcessforCentromere IntegrityIn Vivo ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on our previous structural and biochemical results,we speculated that the Ser68 phosphogroup of CENP-A disrupts the recognition surface of CENP-A and HJURP due to steric hindrance issues (Figure 3A).We analyzed whether the phosphorylation of Ser68 or its phosphomimic mutation (S68E) affects the binding of CENP-A to HJURP using a molecular dynamics (MD)simulation study,amethod that computationallysimulates the physical interaction between molecules.Interestingly，as illustrated in Figure 3B,our simulation analysis revealed that both Ser68 phosphorylation and its phosphomimic mutant form significantly disrupt the recognition pocket interacting with HJURP (Figure 3B;Movie S1). Together with the results of ourcolP experiments with HJURP and CENP-A mutants (shown in Figure S1)，we speculated that the binding of CENP-A to ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HJURP might be inhibited by phosphorylation of Ser68 occurring during the early phase of mitosis.To experimentally verify this hypothesis,we examined the binding of endogenous CENP-A to HJURP at different phases of the cell cycle using synchronized cell populations.As predicted,significantly decreased binding of CENP-A to HJURP was observed in mitotic cells compared with cells in other phases (Figures 2D-2F and 3C).We used synchronized cells to compare the binding of ectopically expressed wildtype CENP-A to HJURP with that of the CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 A } }$ mutant. Our results for samples of synchronized cells in the mitotic phase showed a significant decrease in HJURP binding of wild-type CENP-A at this cell-cycle stage but not for CENP $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 A } }$ mutant (Figure 3D). These results indicate that the phosphorylation of Ser68 indeed prevents the binding of CENP-A to HJURP.To further study the effect of Ser68 phosphorylation on the binding of CENP-A to HJURP，we used a phosphomimic mutant of CENP-A，S68E $( C E N P - A ^ { \\mathsf { S 6 8 E } } )$ .Using colP experiments，we showed that,similar to the CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 0 } }$ mutant, the phosphomimic form CENP $\\cdot \\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ exhibited greatly impaired binding to HJURP (Figure 3E)，confirming the inhibitory effect of Ser68 phosphorylation on CENP-A binding to HJURP. In contrast, replacement of serine with alanine in the CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 A } }$ mutant resulted in HJURP binding affinity higher than that of wild-type (Figures 3D and 3E),indicating that the both charge and size of residue 68 are critical for the recognition of CENP-A by HJURP. Using Lacl-LacO targeting assays,we found that the CENP$\\mathsf { A } ^ { \\mathsf { s 6 8 } \\bar { \\mathsf { E } } }$ mutationimpaired thetetheringof CENP-Ato HJURP but not，however，to the histone H4-interacting chaperone RbAp46 (Figures 3G and 3H).RbAp46 was previously observed in the prenucleosomal CENP-A complexes in Drosophila (Furuyama et al., 20o6) and human cells (Dunleavy et al., 20o9; Hayashi et al., 20o4). Intriguingly,in our colP experiments,we found that HJURP only bound to unmodified CENP-A,while RbAp46 bound to both unmodified and pSer68 CENP-As (Figure 3F). Our in vitro supercoiling assays confirmed that RbAp46 equally assembled unmodified wild-type CENP-A and CENP-AS68Q into a chromatin array，indicating that RbAp46 binds to phosphorylated CENP-A complexed with histone H4 during the mitotic phase (Figure S4A).Thus，inhibition of binding of CENP-A to HJURP by Ser68 phosphorylation might allow CENP-A to bind to chaperones RbAp46/48 along with H4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar to the CENP-AS68Q mutant, overexpression of CENP$\\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ in HeLa cels resulted in the mislocalization of CENP-A and various mitotic chromosomal defects (Figures S4B and S4C). Because CENP-ApSer68 was found to bind to RbAp46 but not to HJURP,we hypothesized that RbAp46 might be the chaperone that mediates the mislocalization of CENP-AS68E into noncentromeric regions.Indeed,through knockdown experiments using HJURP- and RbAp46/48-specific small hairpin RNAs (shRNAs)，we found that HJURPwas primarily responsible for the centromere-specific loading of CENP-A and dispensable for the deposition of CENP- $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 E } }$ to noncentromeric regions (Figures 3l and 3J).By contrast,we noticed that the noncentromeric localization of CENP- $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 E } }$ disappeared, while the centromeric CENP-A was not affected when RbAp46 and RbAp48 were silenced simultaneously (Figures 3l and 3J)，suggesting that RbAp46/48 are responsible for the noncentromeric localization of CENP-A.A recent study reported that the noncentromeric localization of CENP-A is also mediated by the ${ \\sf H } 3 . 3$ chaperone ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4d9c1291dd7effc3f159c796e121ea59e33f2ee38ee4b211b5c21e624070cff.jpg",
+        "img_caption": [
+            "Figure3.Phosphorylationof Ser68 Regulates the Recognitionof CENP-Aand Centromere Integrity (A)StructureofHJURP/CENP-A(ProteinDataBankDBIR45)ndproposedmodelforHURP/pSer68CENP-Ainteraction.HJURPisshonasa emitrs asgrensticksuperpdoeprsetatifthliabeeddsti "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(legend continued on next page) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DAXX (Lacoste et al., 2014). However,we found that DAXX was not the primary factor responsible for the mislocalization of CENP-AS68E mutant (Figure 3J). Given the aforementioned results,we conclude that the phosphorylation of Ser68 plays an important role in regulating the recognition of CENP-A by the chaperone HJURP during the cell cycle and that HJURPunbound CENP-A might be associated with other chaperones such as RbAp46/48 during mitotic phases of the cell cycle. Like DAXX，RbAp46/48 may be a noncentromeric assembly factor of CENP-A that contributes to the deposition of CENP-A inregions outside the centromere (Bodor et al., 2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inagreement with the effect of Ser68 phosphorylation on the recognition of CENP-A by chaperones,massive chromosomal defects were observed in cells overexpressing the Ser68 phosphomimic CENP-A mutants.In addition to centromeric deposition, CENPAS68E displayed a promiscuous chromatic spreading during interphase and throughout mitosis (Figure 3J; Figure S3C), which was accompanied by the various mitotic chromosomal defects (Figures S4B and S4C).Taken together，our results strongly demonstrate that the phosphorylation of Ser68 plays an important role in regulating the recognition of CENP-A by chaperones and centromere integrityduring cell cycle. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cdk1/Cyclin B IsRequired forPhosphorylationof CENP-AatSer68 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To identify potential kinases responsible for the phosphorylation of CENP-Aat Ser68,we isolated CENP-A-associated proteins using a combination of affinity purification and mass spectrometry (Foltz et al.，20O9). In addition to HJURP，we identified RbAp46/48,nucleophosmin 1，histone H4，and a number of kinases，including Cdk1 and Cdk2，in the prenucleosomal CENP-A complex (Figure S5A). Importantly, the interaction between Cdk1 and CENP-A was detected by colP experiments (Figure S5B).Additionally,we performed a screeningof known mitotic kinases by overexpressing various kinases,along with hemagglutinin (HA)-tagged CENP-A, in 293T cells. Of all kinases tested, only Cdk1 was found to induce a detectable increase of Ser68 phosphorylation of CENP-A (Figure 4A).Moreover，we found that roscovitine，a specific inhibitor of Cdk1 and Cdk2 activity，significantlyreduced the phosphorylation of Ser68 in wild-type CENP-A-expressing 293T cells (Figure 4B).Together, our results suggest that Cdk1 might be responsible for the phosphorylation of Ser68 during the early mitotic phase,the exact time when Cdk1 is known to be activated.In support of Cdk1 asabona fide kinase for Ser68,we observed that the phosphorylationof Ser68 was severely reduced after knockdown of Cdk1 by its specific shRNA (Figures 4C and 4E). In comparison, phosphorylation was not affected upon knockdown of Aurora A,a kinase responsible for CENP-A Ser7 phosphorylation (Kunitoku et al.,20o3). Furthermore,a similar reduction of the phosphorylation of Ser68 was observed upon knockdown of cyclin B1,an essential component of the Cdk1 kinase complex (Figure 4D). More important,similar to exogenouslyoverexpressed CENP-A, endogenous CENP-Awasalso phosphorylated by Cdk1/cyclin B in mitotic cells,as shown by both western blot (Figure 4E) and immunofluorescent staining assays (Figure 4F).Finally，Ser68 of CENP-A was specifically phosphorylated by Cdk1/cyclin B in an in vitro kinase assay (Figures 4G and S5C). Together, we concluded that Cdk1/cyclin B is responsible for the phosphorylation of Ser68,which occurs during early mitosis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ser68PhosphorylationlsNecessaryforthe Regulation ofCENP-ALoading onto Centromeric Chromatin ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After establishingthat HJURPbindingof CENP-Ais regulated byits Ser68，we reasoned that this specific phosphorylation event might playadditional roles in controlling the deposition ofnewly imported CENP-A following DNA replication in order to complete the duplication of centromeres.To examine whether the phosphorylation of Ser68 perturbs the timing of newly synthesized CENP-A loadingat defined phases of the cell cycle, quench-chase-pulse assays based on SNAP-tagging were performed (Jansen et al.， 2007) (Figure 5A; Figure S6A).The SNAP-tagged wild-type CENP-A exhibited exclusive centromere-specific localization,comparable to thatof EGFP-tagged wild-type CENP-A (Figures 1E and 1H; Figure S6B). In contrast, the SNAP-tagged mutant form CENP $\\cdot \\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ displayed severe mislocalization across all chromosome regions,at both interphase and mitosis (Figure S6C).Although the S68A mutant does not have any significant effect on the binding of CENP-A to HJURP (Figures 3D and 3E), SNAP-CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 A } }$ exhibited a different localization pattern compared with SNAP-tagged wild-type CENP-A. A portion of SNAP-tagged CENP-AS68A was also shown to mislocalize at noncentromeric regions at interphase and the mitotic phase to a lesser extent compared to SNAP-tagged CENP-AS68E (Figure S6C)， suggesting that phosphorylation of CENP-A Ser68 might have another function in CENP-A dynamics in addition to its inhibitory effect on HJURP recognition.To analyze the role of Ser68 phosphorylation in regulating CENP-A assembly during the cell cycle，we used HeLa cells stably expressing SNAP-tagged wild-type CENP-A or its mutants $( C E N P - A ^ { \\mathsf { S 6 8 E } }$ and CENP- $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 A } }$ ). In these cells, exogenous CENP-A was expressed at levels similar to those of endogenous CENP-A,as shown by western blot (Figure 5B). HeLa cells were synchronized at the $\\mathsf { G } _ { 1 }$ -S boundary by double-thymidine block，and the preexisting SNAP-tagged CENP-A was quenched with nonfluorescent bromothenylpteridine blocking agent.The cells were then released into S phase and cultured for $7 \\ : \\mathsf { h r }$ ，andnewly synthesized SNAP-tagged CENP-A was pulse-labeled for30 min with TMR-Star prior to fixation and assaying by immunofluorescent microscopy. SNAPtagged CENP-A started to appearat centromeres ${ \\sim } 1 1$ hrafter release from the double-thymidine block,which is concomitant with the exit of mitosis and entry into $\\mathsf { G } _ { 1 }$ phase (Jansen et al., 2007). The expression of SNAP-tagged wild-type CENP-A was ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6eae66cf6e87d7bdf9c55a40ce3c7a79b74817b9de240f3a1757d1ec3f983a67.jpg",
+        "img_caption": [
+            "Figure 4.The Cdk1/Cyclin B Complex Is Required for the Phosphorylation of CENP-A Ser68 ",
+            "(A)Ainasettetspsiboseedi CENP-AandFLAG-taggedinases,followedbywestemblotusingantibodiesasindicated.B,immunoblot.Plk1,polo-likeiase1. (B)Westerie CENP-A wild-type (WT) or the S68A mutant, treated with or without roscovitine. (CandD)HE2elresectditosepriagdotesdpasdsfodstoasin antibodiesas indicated. (EandF)Westenblot(E)andimmunofluoresceceanalysis(ofSr68posporylatioofedogenousCENP-AhenCdk1asokeddow. (GIitr cyclin B in the presence of [γ $^ { 3 2 } { \\mathsf { P l A T P } }$ ,followed by SDS-PAGE and autoradiography. Error bars indicate mean $\\pm \\mathsf { S D }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/93623709f7d28ecbced3ee3b4135ecf1d9ce9ab08cec3367cff490cb6346cb86.jpg",
+        "img_caption": [
+            "Figure 5.Ser68 Phosphorylation Regulates the Temporal Loading of Newly Synthesized CENP-A "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(A)eldingdr6atlppeatai outineli typeCNP-Aotantsreddspicddit-troende Quantification data (ratio) of SNAP-CENP-A loading in G1 are listed next to the images.Scale bar, $5 \\mu \\mathrm { m }$   \n(B)Western blot showed protein expressions of endogenous and SNAP-tagged CENP-A in (A).   \n(C)QuantificationofcellwithcentromericSNAP-CENP-Alocalizationin(A).TeSNAP-CENP-A-positivecellsweredefinedbteatio $( \\% )$ of SNAP-TMR-Star signalsat centromere to background signal (nucleus)as indicated. Data are presented as mean $\\pm$ SD of three independent experiments. $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ (Student's t test).   \n(D) The premature loading of SNAP-CENP-Awild-type or Ser68 mutants in $\\mathsf { G } _ { 2 }$ phase by treatment with roscovitine. Upper panel: schematic diagram illustrating theutifroeiil (red) were synchronized and labeled as depicted and stained with anti-Cyclin B (for marker of $\\mathsf { G } _ { 2 }$ phase,green) and DAPI (for DNA,blue).   \n(EQtiaD)seae mean $\\pm \\mathsf { S D }$ of three independent experiments. $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ (Student's t test),n.s.: no significant difference. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "detectable at low levels at the $\\mathsf { G } _ { 2 }$ phase,and very low levels of SNAP-tagged wild-type CENP-A were widely dispersed throughout the nuclear region throughout the M phase (Figure 5A)．By contrast，significant levels of the SNAP-tagged ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ mutant started to accumulate and disperse in the nucleishortly after pulse-labeling (at the $\\mathsf { G } _ { 2 }$ phase),and they persisted throughout the entire time course of the assay (Figure 5A). Interestingly, none of the SNAP-tagged CENP $\\cdot \\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ mutant was ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f53825f0765314532478f338570523a05ea7d1e21f8b333f08c9bf6355b38aeb.jpg",
+        "img_caption": [
+            "Figure 6. CENP-A Ser68 Is Dephosphorylatedby PP1α during Late Mitosis "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(A)WesterblotanalysisofCENP-ASer68phosporylationbytreatmentwithOA,aPP1/PP2Ainibitor.HEK293Tcelseresynchronzedat $\\mathsf { G } _ { 2 }$ -M phase by nocodazole (Noc)and then released in the presence of OA.IB,immunoblot; Con,control.   \n(B) Western blot analysis of FLAG-immunoprecipitates $( | \\mathsf { P s } )$ from HEK293T cells transfected with FLAG-tagged PP1/PP2A isoforms along with HA-tagged CENP-A. Asterisk indicates a nonspecific band.   \n(C)Represettilraspfsdidaod PP-kdoo red) and DAPI (for DNA,blue). M, mitosis. Scale bar, $5 \\mu \\mathrm { m }$   \n(D)Western blot analysis showing $\\mathsf { P P 1 } \\alpha$ expression and Ser68 phosphorylation in (C) using antibodies as indicated.   \n(E) Quantification of late mitotic cells of pSer68 CENP-A in (C). $^ { \\star } \\mathsf { p } < 0 . 0 5$ (Student's t test). Error bars indicate mean $\\pm$ SD. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(legend continued on next page) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "shown to exhibit centromere-specific localization throughout the time course of the assay,indicating that this Ser68 phosphomimic mutant impairs HJURP binding of CENP-A and thus prevents the assembly of new CENP-A into the centromere.Similar to the SNAP-tagged CENP- $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 E } }$ mutant, the SNAP-tagged CENP- $\\mathsf { A } ^ { \\mathsf { S 6 8 A } }$ mutant also started to accumulate and disperse in nuclei of $\\mathsf { G } _ { 2 }$ cells or nuclear regions during the M phase (Figure 5A).This observed accumulation beyond wild-type levels suggests that phosphorylationat Ser68also playsan important role in controlling CENP-A protein stability during the cell cycle. In addition,portions of SNAP-tagged CENP- $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 A } }$ were assembled into centromeres during mitotic exit and early $\\mathsf { G } _ { 1 }$ phase, similar to wild-type SNAP-tagged CENP-A (Figure 5A).As mentioned earlier，we also found that small portions of newly synthesized SNAP-tagged CENP $\\mathsf { \\cdot A } ^ { \\mathsf { S 6 8 A } }$ were assembled into noncentromeric regions during the cell cycle in our quenchchase-pulse assays.We also investigated the different mutants and their impact on premature CENP-A loading at $\\mathsf { G } _ { 2 }$ phase by addition of roscovitine (Silva et al., 2012). As shown in Figures 5D and_5E， the newly synthesized wild-type CENP-A and CENP-AS68A mutant forms,but not CENP $\\mathsf { A } ^ { \\mathsf { S 6 8 E } }$ mutant, could beprematurely loaded at the centromere by inhibition of Cdk1/2.These results indicate that only the unmodified CENP-A could be loaded into centromeres by HJURP upon release of centromeric chromatin licensing factors and chaperones, such as Mis18 complex and HJURP，by Cdk inhibition.Taken together,our results reveal that CENP-A Ser68 phosphorylation is critical for regulating the spatiotemporal deposition of CENP-A during cell division. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DephosphorylationofSer68byPP1αEnsuresPrecise CENP-A Deposition during the Cell Cycle ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asrevealed here,the binding of CENP-A to HJURP is inhibited by the phosphorylation of Ser68.In order for HJURP to load the newly synthesized CENP-A into centromeric chromatin, the inhibitory phosphorylation of Ser68 must be removed prior to CENP-A deposition at the telophase/early $\\mathsf { G } _ { 1 }$ phase transition. Therefore，we set out to identify the phosphatases that are responsible for the dephosphorylation of CENP-A Ser68.We found that the phosphorylation of Ser68 was increased by the treatment of HeLa cells with okadaic acid (OA),a Ser/Thr-PPs inhibitor that specifically inhibits the activity of PP1/PP2A family phosphatases (Cohen, 1989),suggesting that PP1/PP2A might beresponsible for thedephosphorylationof Ser68 (Figure 6A). Indeed,a number of Ser/Thr PPs,including $\\mathsf { P P 1 } \\alpha$ $\\mathsf { P P 1 } \\beta$ and PP2Aα, have been found in prenucleosomal CENP-A complexes (Figure S5A).To support this notion,we performed colP experiments to verify the interactions between phosphatases and CENP-A using 293T cells transfected with plasmids expressing FLAG-tagged PP1/2A isoformsand HA-tagged CENP-A. Interestingly,our results showed thatonly $\\mathsf { P P 1 } \\alpha$ ,butnone of the other phosphatases interacted with CENP-A,suggesting that CENP-A isa potential substrate of $\\mathsf { P P 1 } \\alpha$ (Figure 6B). To investigate whether $\\mathsf { P P 1 } \\alpha$ isresponsible for the dephosphorylation of CENP-A at Ser68 during CENP-A deposition，we performed immunofluorescence assays.Knockdown of PP1α significantly increased the phosphorylation level of Ser68 during late mitosis, while in the control knockdown with scrambled shRNA,phosphorylation decreased greatlyat telophase (Figures 6C-6E), indicating that $\\mathsf { P P 1 } \\alpha$ dephosphorylates Ser68and renders CENP-A available fordeposition by HJURPatmitotic exit.Inaddition,as shown in quench-chase-pulse assays，knockdown of $\\mathsf { P P 1 } \\alpha$ significantly impaired the centromeric deposition of wild-type CENP-A during $G _ { 1 }$ phase,whereas the deposition of the S68A mutantwasnotaffected (Figures 6F-6H).Taken together, the results provide strong support for the notion that $\\mathsf { P P 1 } \\alpha$ is the phosphatase responsible for the dephosphorylation of CENP-Aat Ser68 and is required for the temporal deposition of CENP-A during the cell cycle. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Proper spatiotemporal assembly of CENP-A into active centromeres must be tightly controlled during the cell cycle in order to ensure faithful chromosome segregation and the maintenance of genome integrity (Black and Cleveland, 2011). In summary,as illustrated in Figure 7,our present study demonstrates that newly synthesized CENP-A is immediately phosphorylated at Ser68 by Cdk1/cyclin B at $\\mathsf { G } _ { 2 }$ and the early mitotic phases and that this particular phosphorylation impairs the binding to HJURP,thus preventing the premature incorporation of CENP-A into centromeres.As CENP-A deposition occurs,the phosphorylation at Ser68 is removed by $\\mathsf { P P 1 } \\alpha$ to ensure that CENP-A is available for deposition by HJURP. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ser68lsa PhosphorylationSwitchSiteEssential forthe Recognition ofCENP-A by HJURP ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CENP-A deposition is a chaperone-based chromatin assembly event that specifically occurs at centromeres (Gurard-Levin et al.,2014). In this study,using biochemical and cell-based assays,we demonstrated that,apart from the CATD of CENP-A, Ser68 servesasan important regulatorysite forthe recognition of CENP-A by HJURP through cell-cycle-dependent reversible phosphorylation,which is consistent with our previous structural results (Hu et al.,2011). In direct contradiction to our results, Black and colleagues，using a similar cell-based Lacl-LacO chromosome-targeting approach,showed that the S68Q mutation has no detectable effect on the binding of CENP-A to HJURP (Bassett et al.,2012).At the same time,however, their hydrogendeuterium exchange analysisvalidated the interaction between the C-terminal $\\beta$ sheet region of the HJURP histone binding domain and the $\\boldsymbol { \\mathfrak { a } } \\boldsymbol { 1 }$ -helix of CENP-A，which is in agreement (A)A simplified cartoon illustrating that the binding activities of CENP-A to different chaperones are regulated by CENP-A Ser68 phosphorylation. (B)Schematic diagram depicting regulation of CENP-A deposition through Ser68 phosphorylation during the cell cycle. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a78d98cc7a99c22e6bcdbb878e90c6c08a67b1f79e92a9008c51ed0940b6f247.jpg",
+        "img_caption": [
+            "Figure 7. Proposed Modelforthe Spatiotemporal RegulationofCENP-ADeposition through the Equilibriumbetween PhosphorylationandDephosphorylationatSer68by Cdk1/Cyclin B and PP1α during the Cell Cycle "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "with our present and previous studies (Bassett et al., 2012;Hu et al.,2011).The different results from the two very similar cellbased Lacl-LacO targeting assays might be due to the different systems used to visualize the overexpressed CENP-A. In our study,we directly visualized the EGFP-tagged CENP-A in living cells under relatively natural conditions,whereas the other study performed indirect immunofluorescence under relatively harsh conditions for preparing their samples.Thus,the chromatinunbound CENP-A(s) (especially the S68Q mutant) was possibly washed outand may,therefore,have becomeundetectable in their indirect immunofluorescence experiments.Only CENP-A targeted to either chromatin or HJURP-bound LacO arrays can be detected in their cell-based approach,which may be the primary reasonwhyno effectwasobserved for the S68Q mutant form on the binding of HJURP in their Lacl-LacO targeting assays.Indeed,similar to our previous study,the phenomenon of mistargeting observed for the S68Q mutant was visibly alleviated when we used an indirect immunofluorescence approach to visualize either HA- or EGFP-tagged CENP-A and its S68Q mutant in the Lacl-LacO targeting assays (Figure S7).Thus,a two-site mechanism is proposed for the recognition of CENP-A by HJURP,with CATD providing the main binding region and with the reversible phosphorylationat Ser68 providinganadditional regulatorysite essential for HJURP recognition. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "TheDynamic PhosphoregulationofSer68Regulates the Spatiotemporal Deposition ofCENP-A into Centromeric Chromatin by Regulating CENP-A Interaction with HJURP ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recently, Silva et al. (2012) demonstrated that the machinery for CENP-A assembly is present and poised by Cdks prior to mitosis.Furthermore，inhibition of Cdks activities resulted in rapid premature centromeric CENP-A assembly in a manner thatis dependent on the CENP-A assembly machinery that assembles CENP-A into centromeric chromatin，whichis accompaniedby rapid recruitment of Mis1 $8 a$ and M18BP1 to the centromeres (Silva et al., 2012). Strikingly, they found that the unscheduled targeting of the phosphorylation-dead mutant of Mis18BP1HsKNL2 (Mis18BP1HsKNL2-Ala24)did not result in premature centromeric CENP-Aassembly(Silvaetal.,2012).These results indicate that the Cdk-dependent phosphorylation-mediated inhibition of CENP-A assembly is likely exerted through controlling the centromeric localization of key factors or the machinery for CENP-A assembly.Moreover，several recent studies have demonstrated that the centromeric chromatin licensing via phosphorylation of the Mis18 complex by pololike kinase1,as well as the inhibition of premature centromeric localization of HJURP and Mis18 complex through phosphorylation by Cdk1,also contribute to the temporal control of CENP-A deposition (McKinley and Cheeseman, 2014; Muller et al., 2014; Wang et al., 2014).Thus,a sophisticated regulatory phosphorylation network appears to play a paramount role in the CENP-A deposition pathway. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In summary,our results showed that Cdk1 mediates the phosphorylation of CENP-A at Ser68 and inhibits the binding of CENP-A to HJURP to prevent premature targeting of CENP-A to the centromeres during early mitosis.Thus we propose that inaddition to the scheduled “priming of CENP-A deposition\" by the Mis18 complex and HJURP, the dynamic phosphorylation/dephosphorylation of Ser68 in CENP-A,which is mediated by the Cdk1/cyclin B and PP1α complex,is another important mechanism that temporally controls the HJURP-mediated assembly of CENP-A into centromeric regions.Together with previous studies,our results presented here strongly support the idea that the dynamic phosphorylation/dephosphorylation of CENP-A Ser68 by Cdk1 and PP1α, together with specific chaperones (Gurard-Levin et al., 2014; Muller et al., 2014) and the“priming” factors (McKinley and Cheeseman,2014; Muller and Almouzni， 2014)，may provide an on/off-switch mode that orchestrates the spatiotemporal assemblyofCENP-Aat centromeres.Therefore，for faithful delivery of genetic information across generations,CENP-A propagation,as partof centromere inheritance，has evolved underthe tight control of cell-cycledependent phosphoregulatory networks,which represent the primary regulatory force that ensures the proper progress through the cell cycle. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Plasmid Constructionand Protein Preparation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "All plasmids used in this studywere constructed following standard molecular biology techniques.The expression and purification of proteins are described indetail in the Supplemental Experimental Procedures. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CellCultureand Synchronization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Human embryonic kidney 293T(HEK293T) and HeLa cells were cultured under standard conditions.For cell-cycle-dependent analysis,cells were blocked by ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "eitherdouble-thymidine or nocodazole treatment for $\\mathsf { G } _ { 1 }$ -S and $\\mathsf { G } _ { 2 } \\mathsf { - } \\mathsf { M }$ arrest, respectively. See Supplemental Experimental Procedures for details. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SNAP-Pulse Labeling ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "HeLa cells stably expressing SNAP-tagged CENP-A wild-type or mutants were synchronized at the G1-S boundary.SNAP-tag was quenched with SNAP-Cell Block (New England Biolabs,S9106S)，afterwhich cellswere released into S phase.Newly synthesized CENP-A-SNAP was labeled 7 hr after release with SNAP-Cell TMR-Star (NEB,S9105S).Cells were fixed at the indicated time courses and processed for CENP-A assembly by microscopy. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Immunoprecipitation and Immunofluorescence ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Stable cellines of HEK293T and HeLa cells transfected with plasmids as indicated were treated and harvested at various cell stages.Protein-protein interactionand protein localization were analyzed by immunoprecipitationand immunofluorescence，respectively.For fluorescent microscopy，cells were seeded on glass coverslips,washed in PBS,and fixed in PBS with $0 . 0 5 \\%$ Tween 20 (PBST) containing $4 \\%$ paraformaldehyde for $1 5 \\mathrm { { m i n } }$ at room temperature.After three washes in PBST,cells were permeabilized in PBST- $0 . 1 \\%$ Triton $x - 1 0 0$ buffer for $1 5 \\mathrm { \\ m i n }$ ，blocked in PBST containing $5 \\%$ BSA for $3 0 ~ \\mathrm { { m i n } }$ ，and then incubated with primary antibodies overnight at $4 ^ { \\circ } \\mathsf { C }$ Cells were washed with PBST and incubated with fluorescence-conjugated secondaryantibodiesat $3 7 ^ { \\circ } \\mathsf { C }$ for1 hr.Cells were stained for DNA with $1 0 \\mathrm { \\mu g / m l }$ DAPI (Sigma,D9542) in PBST for 15 min before mounting with SlowFade Gold antifading reagent (Invitrogen,P36939).As shown in Figure S7,immunofluorescence was performed as previously reported (Bassett et al.,2012).See Supplemental Experimental Procedures fordetails. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Western Blotting and Microscopy ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Western blotting was performed following standard procedures.Immunofluorescent images were collected ona Zeiss Axio Observer Z1 microscope (Carl Zeiss Microlmaging)．Antibodies (See Supplemental Experimental Procedures) suitable for western blotting or immunofluorescence were used as indicated. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chromatin Fractionation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Chromatin fractionation was performed as described previously (Kang et al., 2011).ForthefractionationofHA-taggedCENP-AorCENP $\\mathsf { A } ^ { \\mathsf { S 6 8 0 } }$ expressing HEK293T cels,equal volumes of each fraction were analyzed by western blotting.For the investigation of the phosphorylation of CENP-A Ser68,the loading volumes of all samples were adjusted to keep the total amount of CENP-A identical for each lane.Fordetailed information,see Supplemental Experimental Procedures. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Chromatin Assembly Assays ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The in vitro chromatin assembly assay was performed as described previously (Barnhart et al., 2011). See Supplemental Experimental Procedures for details. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Kinase Assays ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the in vitro kinase assay, $2 \\mu \\ g$ of the wild-type or S68A mutant CENP-A-H4 tetramer was mixed with 0.01-1U Cdk1/cyclin B (NEB,P6020) in $1 \\times \\mathsf { P K }$ buffer. Reaction was initiated by the addition of ATP to a final concentration of $5 0 0 \\mu \\mu \\mu$ with $1 ~ \\mu \\mu$ [γ-32P]ATP (PerkinElmer,NEG002,10 Ci/mmol).After1 hrof incubationat $3 0 ^ { \\circ } \\mathsf { C }$ ,the reaction was terminated byadditionof SDS loading buffer, prior to analysis by SDS-PAGE and autoradiography. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes Supplemental Experimental Procedures, seven figures,and one movie and can be found with this article online at http://dx.doi.org/10.1016/j.devcel.2014.11.030. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Z.Yu and X.Zhou carried out the experiments,analyzed the data,and composed the figures.W.W.instigated the project and assisted with the construction of plasmids and the generation of stable cel lines.W.D.performed the TAP purification of CENP-A-associated proteins and validated the phosphor-antibody by peptides.J.F.and H.H.assisted with the expression of recombinant proteins and the construction of plasmids.Z.W.performed the in vitro chromatin assembly assays.S.L.and X.Zhang constructed the FLAG-HJURP knockin cell line.L.C.and J.L. performed the MD simulation. J.S.assisted with the western blot analysis.L.Z.and P.X.performed the mass spectrometric analysis.J.W.and S.D.constructed the Ao3_1 cell line that containing tandem LacO repeats.S.P.and Z.Yuan assisted with the knockdown experiments.G.O.assisted with the fluorescent microscopy experiments.N.Y.and P.C.assisted with helpful discussions and revised the manuscript. G.L.and R.-M.X.conceived of and supervised the project. G.L. designed and supervised the experiments,analyzed the data,and wrote the manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Dr. Hong Zhang and Dr. Bing Zhu for critical reading and discussion of our manuscript.We thank Dr.T.Juelich for linguistic assistance and discussions during the preparation of this manuscript.This work was supported by grants from the Ministry of Science and Technology(2011CB966300 to G.L.),the National Natural Science Foundation of China (91219202 and 91019007 to G.L., 31210103914 to R.-M.X.,and 31000566 to P.C.),and the Chinese Academy of Sciences Strategic Priority Research Program (XDA01010304 to G.L.） and Key Research Program (KSZD-EW-Z-009 to P.C.and N.Y.).Allfluorescence imaging data were collected and processed at the Center for Bio-imaging,Core Facility for Protein Sciences,Institute of Biophysics,Chinese Academy of Sciences.The computational resources for the MD simulations were provided by the Supercomputing Center of the Chinese Academy of Sciences and the National Supercomputing Center Tianjin Center.The mass spectrometry analysis was performed at the Core Facility for Protein Sciences,Institute of Biophysics, Chinese Academy of Sciences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Received:March29,2014   \nRevised: October 14,2014   \nAccepted:November19,2014   \nPublished:December 31,2014 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Allshire,R.C.,and Karpen,G.H. (20o8).Epigenetic regulation of centromeric chromatin: old dogs,new tricks? Nat. Rev. Genet. 9, 923-937.   \nBailey,A.O.,Panchenko,T.,Sathyan,K.M.,Petkowski, J.J.,Pai,P.J.,Bai, D.L.,Russell,D.H.,Macara,I.G., Shabanowitz,J.,Hunt, D.F.,et al. (2013). Posttranslational modification of CENP-A influences the conformation of centromeric chromatin.Proc.Natl. Acad.Sci.USA110,11827-11832. Barnhart,M.C.,Kuich,P.H., Stellfox,M.E.,Ward,J.A.,Bassett, E.A.,Black, B.E.,and Foltz, D.R. (2011).HJURP is a CENP-A chromatin assembly factor sufficient to form a functional de novo kinetochore.J. Cell Biol.194,229-243. Bassett,E.A.,DeNizio,J.,Barnhart-Dailey,M.C.,Panchenko,T., Sekulic,N., Rogers，D.J.，Foltz，D.R.，and Black,B.E.(2012)．HJURP uses distinct CENP-A surfaces to recognize and to stabilize CENP-A/histone H4 for centromere assembly.Dev.Cell22,749-762.   \nBlack,B.E.,and Cleveland, D.W. (2011).Epigenetic centromere propagation and the nature of CENP-a nucleosomes.Cell 144,471-479.   \nBlack,B.E.,Foltz,D.R.,Chakravarthy,S.,Luger,K.,Woods,V.L., Jr.,and Cleveland,D.W. (2oo4).Structural determinants for generating centromeric chromatin.Nature 430,578-582.   \nBlack, B.E., Jansen,L.E.,Maddox,P.S.,Foltz, D.R.,Desai,A.B.,Shah,J.V., and Cleveland,D.W. (2oo7). Centromere identity maintained by nucleosomes assembled with histone H3 containing the CENP-A targeting domain.Mol. Cell 25,309-322.   \nBodor,D.L.,Mata,J.F., Sergeev,M.,David,A.F., Salimian,K.J.,Panchenko, T., Cleveland,D.W.,Black,B.E.,Shah,J.V.,and Jansen,L.E.(2014).The quantitativearchitecture of centromeric chromatin.eLife3,e02137.   \nCheeseman,I.M.,and Desai,A.(2oo8).Molecular architecture of the kinetochore-microtubule interface.Nat.Rev.Mol. Cell Biol.9,33-46. Cho,U.S.,and Harrison, S.C.(2011). Recognition of the centromere-specific histone Cse4 by the chaperone Scm3.Proc.Natl.Acad.Sci.USA 108, 9367-9371.   \nCohen, P.(1989).The structure and regulation of protein phosphatases. Annu. Rev.Biochem.58,453-508.   \nDunleavy，E.M.，Pidoux，A.L.，Monet，M.，Bonilla，C.，Richardson，W., Hamilton,G.L.，Ekwall，K.，McLaughlin，P.J.，and Allshire,R.C.(2007)．A NASP (N1/N2)-related protein,Sim3,binds CENP-A and is required for its deposition at fission yeast centromeres.Mol. Cell 28,1029-1044.   \nDunleavy,E.M.,Roche,D.,Tagami, H.,Lacoste,N.,Ray-Gallet,D.,Nakamura, Y, Daigo,Y., Nakatani,Y.,and AImouzni-Petinoti, G. (20o9). HJURP is acellcycle-dependent maintenance and deposition factor of CENP-A at centromeres. Cell 137,485-497.   \nDunleavy,E.M.,Beier,N.L, Gorgescu,W.,Tang,J.,Costes,S.V.,and Karpen, G.H.(2012).The cell cycle timing of centromeric chromatin assembly in Drosophila meiosis is distinct from mitosis yet requires CAL1 and CENP-C. PLoS Biol.10,e1001460.   \nEarnshaw,W.C.,and Rothfield,N.(1985). Identification of a family of human centromere proteins using autoimmune sera from patients with scleroderma. Chromos0ma 91,313-321.   \nErhardt,S.,Mellone,B.G.,Betts,C.M.,Zhang,W.,Karpen,G.H.,and Straight, A.F.(20o8).Genome-wide analysis reveals a cell cycle-dependent mechanism controling centromere propagation. J. Cell Biol.183,805-818.   \nFoltz,D.R.,Jansen,L.E.,Bailey,A.O.,Yates,J.R.,3rd,Bassett,E.A.,Wood,S., Black,B.E.,and Cleveland,D.W. (2oo9).Centromere-specific assemblyof CENP-a nucleosomes is mediated by HJURP.Cell 137,472-484.   \nFujita,Y.,Hayashi,T.,Kiyomitsu,T.,Toyoda,Y., Kokubu,A.,Obuse,C.,and Yanagida,M.(2007).Priming of centromere for CENP-A recruitment by human hMis18alpha, hMis18beta,and M18BP1. Dev. Cell 12,17-30.   \nFuruyama,T., Dalal, Y.,and Henikoff, S.(20o6). Chaperone-mediated assembly of centromeric chromatin in vitro.Proc.Natl. Acad. Sci. USA 103,6172- 6177.   \nGurard-Levin,Z.A., Quivy, J.P.,and Almouzni, G. (2014). Histone chaperones: assisting histone traffic and nucleosome dynamics.Annu. Rev. Biochem.83, 487-517.   \nHayashi,T.,Fujita,Y.,lwasaki,O.,Adachi, Y.,Takahashi, K.,and Yanagida,M. (2004).Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres.Cell 118,715-729.   \nHu, H.,Liu,Y., Wang,M.,Fang,J., Huang, H., Yang,N.,Li,Y.,Wang,J.,Yao, X. Shi,Y.,et al. (2011).Structure of a CENP-A-histone H4 heterodimer in complex with chaperone HJURP.Genes Dev.25,901-906.   \nJansen,L.E., Black, B.E.,Foltz, D.R.,and Cleveland,D.W.(2oo7).Propagation of centromeric chromatin requires exit from mitosis.J.Cel Biol.176,795-805. Kang,B.,Pu,M., Hu,G., Wen,W.,Dong,Z.,Zhao,K., Stillman,B.,and Zhang, Z.(2011). Phosphorylation of H4 Ser 47 promotes HIRA-mediated nucleosome assembly.Genes Dev.25,1359-1364.   \nKunitoku, N.,Sasayama,T.,Marumoto,T.,Zhang,D., Honda, S., Kobayashi, O., Hatakeyama, K., Ushio,Y., Saya,H.,and Hirota,T. (2003). CENP-A phosphorylation by Aurora-A in prophase is required for enrichment of Aurora-B at inner centromeres and for kinetochore function. Dev.Cell 5,853-864. Lacoste,N.,Woolfe,A.,Tachiwana, H., Garea,A.V., Barth,T., Cantaloube,S., Kurumizaka,H., Imhof,A.,and Almouzni,G. (2014).Mislocalization of the centromeric histone variant CenH3/CENP-A in human cells depends on the chaperone DAXX. Mol. Cell 53,631-644.   \nLermontova,I., Schubert, V.,Fuchs,J., Klatte,S., Macas,J.,and Schubert,I. (2006).Loading of Arabidopsis centromeric histone CENH3 occurs mainly during G2 and requires the presence of the histone fold domain. Plant Cell 18, 2443-2451. Maddox,P.S.,Hyndman,F.,Monen,J., Oegema,K.,and Desai, A. (2007). Functional genomics identifies a Myb domain-containing protein family required forassembly of CENP-A chromatin.J.Cell Biol.176,757-763. Marzluff,W.F.,Wagner,E.J.,and Duronio,R.J.(20o8).Metabolism and regulation of canonical histone mRNAs: ife without a poly(A) tail. Nat. Rev. Genet. 9,843-854.   \nMcKinley，K.L.，and Cheeseman，I.M. (2014).Polo-like kinase 1 licenses CENP-A deposition at centromeres.Cell 158,397-411.   \nMellone,B.G., Grive,K.J., Shteyn,V., Bowers, S.R.,Oderberg,I.,and Karpen, G.H.(2011).Assembly of Drosophila centromeric chromatin proteins during mitosis. PLoS Genet.7,e1002068.   \nMoree,B.,Meyer, C.B.,Fuller, C.J.,and Straight,A.F.(2011).CENP-C recruits M18BP1 to centromeres to promote CENP-A chromatin assembly.J.Cell Biol. 194,855-871.   \nMuller,S.,and Almouzni,G.(2014).Anetwork of players in H3 histone variant deposition and maintenance at centromeres. Biochim. Biophys.Acta 1839, 241-250.   \nMuller,S.,Montes de Oca,R.,Lacoste,N., Dingli,F.,Loew, D.,and Almouzni, G.(2014).Phosphorylation and DNA binding of HJURP determine its centromeric recruitment and function in CenH3(CENP-A) loading. Cell Reports 8, 190-203.   \nNechemia-Arbely,Y., Fachineti, D.,and Cleveland,D.W.(2012). Replicating centromeric chromatin: spatial and temporal control of CENP-A assembly. Exp.Cell Res.318,1353-1360.   \nQiu,J.J., Chu,H.,Lu,X., Jiang,X.,and Dong,S.(2011). The reduced and altered activities of PAX5 are linked to the protein-protein interaction motif (coiled-coil domain) of the PAX5-PML fusion protein in t(9;15)-associated acute lymphocytic leukemia. Oncogene 30,967-977.   \nRobinett, C.C., Straight, A.,Li, G., Willhelm,C., Sudlow,G., Murray,A.,and Belmont, A.S.(1996). In vivo localization of DNA sequences and visualization of large-scale chromatin organization using lac operator/repressor recognition.J. Cell Biol.135,1685-1700.   \nSchuh,M.,Lehner, C.F.,and Heidmann,S.(2oo7).Incorporation of Drosophila CID/CENP-A and CENP-C into centromeres during early embryonic anaphase. Curr. Biol.17,237-243.   \nShelby,R.D., Vafa, O.,and Sulivan,K.F.(1997).Assembly of CENP-A into centromeric chromatin requires a cooperative array of nucleosomal DNA contact sites. J. Cell Biol.136,501-513.   \nShelby, R.D., Monier, K.,and Sulivan, K.F. (20oO). Chromatin assembly at kinetochores is uncoupled from DNA replication.J. Cell Biol.151,1113-1118. Silva,M.C., Bodor,D.L.,Stelfox,M.E.,Martins,N.M.,Hochegger,H.,Foltz, D.R.,and Jansen,L.E.(2012). Cdk activity couples epigenetic centromere inheritance to cell cycle progression. Dev. Cell 22,52-63.   \nTen Hagen，K.G.，Gilbert,D.M.，Willard，H.F.，and Cohen，S.N. (1990). Replication timing of DNA sequences associated with human centromeres and telomeres. Mol. Cell. Biol.10,6348-6355.   \nWang,J.,Liu,X.,Dou,Z.,Chen,L.,Jiang, H.,Fu,C.,Fu,G.,Liu, D.,Zhang,J., Zhu,T.,et al. (2014). Mitotic regulator Mis18β interacts with and specifies the centromeric assembly of molecular chaperone holliday junction recognition protein (HJURP).J. Biol. Chem.289,8326-8336.   \nZeitlin,S.G.,Shelby,R.D.,and Sulivan,K.F. (2001). CENP-A is phosphorylated by Aurora B kinase and plays an unexpected role in completion of cytokinesis.J. Cell Biol.155,1147-1157.   \nZhou,Z.,Feng, H.,Zhou, B.R.,Ghirlando,R., Hu,K.,Zwolak,A., Miller Jenkins, L.M.,Xiao,H., Tjandra,N.,Wu,C.,and Bai,Y. (2011). Structural basis for recognition of centromere histone variant CenH3 by the chaperone Scm3. Nature 472,234-237. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

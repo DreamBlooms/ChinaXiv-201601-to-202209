@@ -1,0 +1,508 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/a5991f42e1bbd9ee99545b591051e0aec6c3061bff26695a907aba5518089374.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Discovery of potent dipeptidyl peptidase IV inhibitors through pharmacophore hybridization and hit-to-lead optimization Shaogao Zeng,Hui Xie,Lili Zeng, XinLu, Xin Zhao,Guicheng Zhang, Zhengchao Tu, Hongjiang Xu,Ling Yang, Xiquan Zhang, and Wenhui Hu aGuangzhou Institutes of Biomedicine and Health, Chinese Academy of Science, 190 Kaiyuan Avenue, Guangzhou Science Park,Guangzhou,510530, China bJiangsu Chia-Tai Tianqing Pharmaceutical Co. Ltd, No. 8 Julong North Rd. Xinpu Lianyungang Jiangsu,</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Discovery of potent dipeptidyl peptidase IV inhibitors through pharmacophore hybridization and hit-to-lead optimization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shao-gao Zeng 1al, Hui Xie 1al, Li-li Zeng 2ä, Xin Lu 3äa, Xin Zhao $\\mathrm { ~ \\bf ~ a ~ }$ , Gui-cheng Zhang $5 ^ { \\mathrm { ~ a ~ } }$ , Zheng-cha $\\mathrm { T u } 6 ^ { \\mathrm { a } }$ ,Hong-jiang ${ \\bf b }$ , Ling Yang $\\mathrm { ~ \\bf ~ b ~ }$ , Xi-quan Zhang $\\mathrm { ~ \\bf ~ b ~ }$ , Wen-hui Hu 10 a, c \\* ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Guangzhutfoa bJiangsuChia-TaiTianqingPharmaceuticalCo.Ltd,No.8JulongNorthRd.XinpuLianyungangJangsu,06,China.   \nStateKeyLaboratoryofRespiratoryDisease,Guangzhou,5lol20,China.   \nlJoint first authors: these two authors contribute equally to this work ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A novel dipeptidyl peptidase IV inhibitor hit (5, $\\mathrm { I C } _ { 5 0 } { = } 0 . 8 6 ~ \\mu \\mathrm { M } )$ was structurally derived from ourrecently disclosed preclinical candidate 4 by replacing the cyanobenzyl with a butynyl based on pharmacophore hybridization.A hit-to-lead optimization effort was then initiated to improve its potency.Most N-substituted analogs exhibited good in vitro activity，and compound 18o $( \\mathrm { I C } _ { 5 0 } { = } ~ 1 . 5 5 ~ \\mathrm { n M } )$ ）was identified to be a potent,selective,and orally bioavailable dipeptidyl peptidase IV inhibitor. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nDPP-IV inhibitor   \nType 2 diabetes   \nLinagliptin   \nPharmacophore hybridization   \nHit-to-lead optimization ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Type 2 diabetes(T2D） formerlyreferred to as non-insulindependent or adult-onset diabetes,results from the body's ineffective use of insulin and comprises over $90 \\%$ of diabetes patients.With more than 220 million people affected worldwide, diabetes has emerged as an epidemic,reflecting insufficient glycemic control and the urgency of more treatments1.Glucose likepeptidase-1(GLP-1） is an important incretin which contributes to the increase of insulin secretion and sensitivity, beta cell mass,and satiety, as well as the reduction of glucagon secretion and gastric emptying，which is helpful for glucose control for type 2 diabetics. However in the normal physical condition, GLP-1 is rapid truncated by dipeptidyl peptidase IV (DPP-IV) and lose function². Thus inhibition of DPP-IV could effectively maintain the GLP-1 function and control glucose level Compared to conventional anti-diabetic drugs， dipeptidyl peptidase IV (DPP-IV) inhibitors have good patient compliance, reduced risks of hypoglycemia,and less side effect.As a result, first DPP-IV inhibitor occurred in the market in 2OO6 and gradually became the major intervention for type 2 diabetics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Traditional medicinal strategies for protease inhibitors mostly rely on direct tight binding to the target,which leads to covalent compounds4.However, the emergence of non-covalent compounds to achieve satisfactory binding affinity with lower risk of selectivity issues has been witnessed in recent years5. Among the DPP-IV inhibitor，the first non-covalent DPP-IV inhibitor with good selectivity against DPP-8 and DPP- $\\cdot 9 ^ { 6 }$ Sitagliptin (1 Figure 1), was marketed in 2OO6.Alogliptin (2 Figure 1） was the second non-covalent DPP-IV inhibitor approved by the EMA，and it exhibited better efficacy than sitagliptin8.The most potent and long lasting drug is Linagliptin (3 Figure 1) 9. Other DPP-IV inhibitors include Vildagliptin10, and Saxagliptin\" . ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3995910ff06aaa84b023afeed84cb885ddbeebccf39afa6494d49c50d9b1d794.jpg",
+        "img_caption": [
+            "Figure1.Marketed non-covalentDPP-IV inhibitors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our recently disclosed compound 4 was derived from Alogliptin by keeping its pharmacophore (3-aminopypiperidinyl region，red box,Figure 2）while modifying the scaffoldl².4 displayed a better in vivo efficacy than Alogliptin in lean mice and dose-dependent glucose reduction in T2D model ob/ob mice. Although 4 had a similar pharmacokinetic profile with Alogliptin in rat, yet $40 \\%$ bioavailability and 2 hours half life are still not close to the requirements for an oral therapeutic candidate of a chronic disease. In our followed medicinal chemistry effort on 4. we conducted several optimizations on it. Herein, we present our results about adoption of pharmacophore hybridization strategy in this process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Close comparison of the pharmacophore of Linagliptin and compound 4 revealed that the cyanobenzyl should be freely changeable with butynyl if the 3-(R)-aminopiperidinyl group was still present.Thus,compound5was immediately generated based onpharmacophore hybridization.Though its activity was still in the micro molar range $( \\mathrm { I C } _ { 5 0 } { = } 0 . 8 6 ~ \\mu \\mathrm { M } )$ ,it could act as a starting point for further optimization. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The modification of compound 5 through N-substitution led to a series of novel DPP-IV inhibitors with significantly increased activity. The most active compound,180 $( \\mathrm { I C } _ { 5 0 } { = } ~ 1 . 5 5 ~ \\mathrm { n M } )$ ，was proved to be with much better pharmacokinetic profile than compound 4,which implies potential better and competent in vivo efficacy for glucose control. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b006a36bca2071e6b6a9cb523abe8414b3f9c2e23d55e377a02f86faa1dffb5.jpg",
+        "img_caption": [
+            "Figure 2. Generation of hit 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. chemistry ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The synthesis of compounds 5,6 and 18a-o is outlined in Scheme 1.Synthesis of compound 13 from 7 was described in our recent report9.Alkylation of 13 with 1-bromo-2-butyne provided precursorl4，which was de-protected to give key intermediate 15. The bromination of compound 15 with Nbromosuccinimide(NBS）provided compoundl6，which was converted to 5 by amination.The direct amination of 15 with3- (R)-aminopiperidine afforded compound 6.Compounds 18a-0 were obtained by the N-alkylation of 15 followed by the replacement of the chloro group with a 3-(R)-aminopiperidinyl group. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1180b1199ed0d70aa008b7c0c565b306bf298ab31855269b15cd08d277922dde.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Scheme 1. Synthesis of compounds 5,6 and 18a-o. Reagents: (a) sulfuric acid, fuming nitric acid,rt; (b) dimethylfomamidedimethyl acetal,DMF, $8 0 ~ ^ { \\circ } \\mathrm { C }$ then $1 4 0 ^ { \\circ } \\mathrm { C }$ ；(c)AcOH,Zn, $8 0 ~ ^ { \\circ } \\mathrm { C }$ (d) $\\mathrm { P O C l } _ { 3 }$ ,DIEA, toluene, $7 0 – 8 0 \\ ^ { \\circ } \\mathrm { C }$ ；(e) $1 \\mathrm { N }$ NaOH/H2O, $1 0 0 ^ { \\circ } \\mathrm { C }$ (f) $( \\mathrm { B o c } ) _ { 2 } \\mathrm { O }$ ,DMAP, $\\mathrm { E t } _ { 3 } \\mathrm { N }$ ,THF,rt; (g) 1-bromo-2-butyne,DIEA,DMF,rt; (h) $\\mathrm { H C l / H _ { 2 } O }$ ,MeOH, rt; (i) NBS,DCM, rt; (j)RX,NaH,DMF,rt; (k) 3-(R)- aminopiperidine, ${ \\mathrm { N a H C O } } _ { 3 }$ ， $1 2 0 ^ { \\circ } \\mathrm { C }$ ,ethanol. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Resultsanddiscussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Hitidentificationthrough pharmacophore hybridization. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The similarity of the pharmacophore between Alogliptin, compound 4 and Linagliptin reminded us that the cyanobenzyl group of 4 could be replaced with a butynyl group without sacrificing in vitro activity (Figure 2).Because Linagliptin is the most potent and longest-lasting DPP-IV inhibitor on the market, we decided to test our hypothesis with a pharmacophore hybridization approach'o.However, to our disappointment, compound 5 lost significant activity $( \\mathrm { I C } _ { 5 0 } = 0 . 8 6 \\mu \\mathrm { M } )$ .Though this compound did not achieve the desired inhibition against DPP-IV,it might bea hit worthy of further optimization. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Hit-to-lead optimization on compound 5 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With compound 5 in hand,we immediately initiated a hit-to lead optimization effort. First， compound 6, without any substituent on the pyrolyl ring，was synthesized and found to have better activity with an $\\mathrm { I C } _ { 5 0 }$ of $0 . 4 6 ~ \\mu \\mathrm { M }$ Bysimplyadding a methyl group on the nitrogen (compound 18a),the activity was further increased.This trend suggested that N-substitution might a powerful way to increase inhibition.Thus,we decided to make a series of N-substituted analogs (18b-18o). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e00e1a6235697d6d11177d4b69e3a8562894dd96caacd6083e34c46ed77d472.jpg",
+        "img_caption": [
+            "Figure 3.Hit-to-lead optimization strategy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Though the first N-heterocyclic compound (18b） afforded further increased activity,it was still relatively inactive compared to parent compound 4 $( \\mathrm { I C } _ { 5 0 } { = } 4 4 . 0 \\mathrm { n M } )$ .Inspired by the discovery ofLinagliptin,where it was found that the N-5 position could hold larger steric substituents，a series of compounds with bicyclic rings at the N-position were made (18c-o).A few of these compounds displayed activity in the nM range,such as18f, 18l, and $\\mathbf { 1 8 m }$ （ $\\mathbf { \\tilde { \\beta } } ^ { \\prime } { < } 1 0 \\ \\mathbf { n M } )$ .Surprisingly, the best compound (180, $\\mathrm { I C } _ { 5 0 } { = } 1 . 5 5 \\ \\mathrm { n M }$ )contained the same N-substituent asLinagliptin.. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1.Modifications at the N-5 position. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/142b4a89fff0954565d2dab4a2d36111d1e9a6d0dd698ecf55103eb6645769ec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d2513f18ba2bab69e7e955c5a5db0aeb9677e8fdb4f7278b1fb1e30c6fe36b9.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "$\\overline { { ^ \\mathrm { a } _ { \\mathrm { n M } } } }$ Data represent the mean of at least three independent measurements. "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>R</td><td>DPP-IVa</td><td>No</td><td>R</td><td>DPP-IVa</td></tr><tr><td>18b</td><td></td><td>44.0</td><td>18i</td><td></td><td>14.5</td></tr><tr><td>18c</td><td>Y</td><td>44.1</td><td>18j</td><td></td><td>52.6</td></tr><tr><td>18d</td><td>N</td><td>27.6</td><td>18k</td><td>Y</td><td>11.4</td></tr><tr><td>18e</td><td></td><td>48.2</td><td>181</td><td></td><td>4.67</td></tr><tr><td>18f</td><td></td><td>7.05</td><td>18m</td><td></td><td>5.93</td></tr><tr><td>18g</td><td>Y</td><td>139.2</td><td>18n</td><td></td><td>15.5</td></tr><tr><td>18h</td><td></td><td>60.1</td><td>180</td><td>）</td><td>1.55</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7871f313f5b0b56b01a7dd7e2bb76e3152d0558e4ba7c68407454718ae6d2856.jpg",
+        "img_caption": [
+            "3.3.Biological evaluation ofcompound 180 ",
+            "Figure 4.Concentration-time curve of 18o in rat. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Compound 18o was picked for preliminary evaluation for its high DPP-IV inhibitory activity. It had no inhibition against DPP-8 or 9 up to $1 0 ~ \\mu \\mathrm { M }$ .Compound 18o had no CYP 3A inhibition up to $3 0 ~ \\mu \\mathrm { M }$ ，whichis likely to decrease the risk of drug-drug interactions.The pharmacokinetic study of 18o also displayed a good drug-like profile and successfully overcame the insufficiency in the starting compound 4 (Table 2 and Figure 4). Compared to its parent compound 4,it had a longer half life in rats(approximately 5 hours）and a better oral bioavailability $( 8 2 . 9 \\% )$ that was comparable with marketed DPP-IV inhibitors (Alogliptin, $45 \\%$ ; Linagliptin, $5 0 . 7 \\%$ ）9, 12-13. Combined with the published data and current research progress of compound 4, we believe that 18o is highly possible to have a better in vivo efficacy than compound 4 and Alogliptin with doubled half life and bioavailability. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fa696236e7cdd5a401874db8c617a610a0adb7d05978c5a5922ce64fb88d31d.jpg",
+        "table_caption": [
+            "Table 2.pharmacokinetic parameters of18o in rat. "
+        ],
+        "table_footnote": [
+            "po: oral administration.iv: intravenous injection. "
+        ],
+        "table_body": "<html><body><table><tr><td>Dose iv/po</td><td>mg/kg</td><td>10/30</td></tr><tr><td>AUC0-0o PO</td><td>μg·h·mL-1</td><td>25.3 ± 2.6</td></tr><tr><td>T1/2 p0</td><td>hour</td><td>4.9± 2.5v</td></tr><tr><td>Clz iv</td><td>L·h1·kg1</td><td>1.0± 0.1</td></tr><tr><td>Vz iv</td><td>L·kg1</td><td>4.0±1.3</td></tr><tr><td>MRTo-co Po</td><td>hour</td><td>8.3±1.6</td></tr><tr><td>F</td><td>%</td><td>82.9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our followed medicinal chemistry effort of potent DPP-IV inhibitors based on our previously published compound 4,we attempted several ways to explore the optimize space. Although compound 4 had a better in vivo efficacy than Alogliptin, its $40 \\%$ bioavailability and 2 hours half life still unmet the requirements for oral chronic disease intervention. Among this process, inspired by the similarity in pharmacophores between Alogliptin, compound 4 and Linagliptin，we identified a novel DPP-IV inhibitor (5)by utilizing a pharmacophore hybridization strategy. Though the in vitro activity was still low,compound 5 $( \\mathrm { I C } _ { 5 0 } =$ $0 . 8 6 \\mu \\mathrm { M } )$ was a logical hit for optimization and generated a series ofDPP-IV inhibitorswith significantly improved activity. Compound 18o was finally obtained with the desired in vitro activity $( \\mathbf { I C _ { 5 0 } } = 1 . 5 5 ~ \\mathrm { n M } )$ ） and much improved pharmacokinetic profile (bioavailability: $8 2 . 9 \\%$ ; half life: 4.9 hours). Thus 18o had a high possibility of competent in vivo efficacy. Reviewed this part of work,we found the similarity between peer's work and ours14. Yet 18o demonstrated a successful optimization course by adopting classical pharmacophore hybridization strategy. As one part of our followed optimization on compound 4， more evaluations will be carried out on 18o and other part of works will be prepared in due course. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.Experimental section ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1. Chemistry ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All commercially available compounds and solvents were of reagent grade and used without further treatment unless otherwise noted.Reactions were monitored by TLC using Qing Dao Hai Yang GF254 silica gel plates $( 5 \\mathrm { ~ x ~ } 1 0 \\ \\mathrm { c m } )$ )； zoneswere detected visually under ultraviolet irradiation $( 2 5 4 ~ \\mathrm { n m } )$ andby spraying with an ethanol solution of 2,4-DNP or ninhydrin,or by fuming with iodine steam. Silica gel column chromatography was performed on silica gel (2OO-30O mesh) from Qing Dao Hai Yang.NMR spectra were recorded ona BrukerNMR AVANCE 400 $( 4 0 0 ~ \\mathrm { M H z } )$ ）oraBruker NMR AVANCE 500 $( 5 0 0 ~ \\mathrm { M H z } )$ 1 Chemical shifts (δ) were recorded in ppm and coupling constants (J)inhertz $\\left( \\mathrm { H z } \\right)$ .Splitingpatternsdescribeapparent multiplicities and are designated as s (singlet)，d (doublet)，t (triplet),q (quartet),m (multiplet) or br (broad).MS data were measured on an Agilent MSD-120O ESI-MS system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1.1. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn-1- yl)-3H-pyrrolo[3,2-dlpyrimidin-4(5H)-one (5) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A mixture of 16 ( $\\mathrm { 3 0 1 ~ m g }$ ， $1 . 0 \\ \\mathrm { m m o l }$ ),3-(R)-aminopiperidine dihydrochloride $( 2 0 7 \\mathrm { m g } , ~ 1 . 2 ~ \\mathrm { m m o l } )$ and ${ \\mathrm { N a H C O } } _ { 3 }$ ( $3 3 6 \\mathrm { m g }$ 4.0 mmol) in a sealed tube containing $1 5 ~ \\mathrm { m L }$ of ethanol was heated at $1 2 0 ^ { \\circ } \\mathrm { C }$ and stirred overnight. The reaction mixture was subsequently cooled to room temperature and filtered.The resulting filtrate was concentrated in vacuo and then purified by flash chromatography to yield compound5.Yield: $8 1 . 8 \\%$ .1HNMR (400MHz,MeOD) δ ppm: 7.37 (1H, s),4.84-4.82 (2H,m),3.53- 3.50(1H,m),3.47-3.43(1H,m),3.06(1H,s),2.92-2.98(1H,m), 2.03-2.00 (1H,m),1.98-1.96 (1H,m),1.89-1.87 (1H,m),1.81 (3H,s),1.79-1.73 (1H,m),1.33-1.27 (1H,m);1³CNMR( ${ 5 0 0 } \\mathrm { M H z }$ MeOD) δ ppm: 24.92 (1C),28.68 (1C),34.07 (1C),35.63 (1C), 52.68(1C), 58.99 (1C)，75.29 (1C),80.54 (1C),81.04 (1C), 91.44(1C),116.26 (1C),129.02 (1C),142.13(1C),155.80 (1C), 156.49 (1C);ESI-MS calculated for $( \\mathbf { C } _ { 1 5 } \\mathbf { H } _ { 1 9 } \\mathbf { N } _ { 5 } \\mathbf { O } )$ $\\left[ \\mathrm { M + H } \\right] ^ { + } , 3 6 3 . 0 7$ 365.07,found 364.0,366.0. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Compounds 6 and 18a-o were prepared in a manner identical to that described for5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1.2. 5.1.2 (R)-2-(3-aminopiperidin-1-yl)-3-(but-2- yn-l-yl)-3H-pyrrolo[3,2-d]pyrimidin- $4 ( 5 H )$ -one (6) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Yield: $6 7 . 8 \\%$ .1HNMR( $\\mathrm { \\ 4 0 0 M H z }$ ,CDCl3) δ ppm:10.87（1H, s),7.23 (1H, d, $\\mathrm { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),6.36 (1H,d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),4.85 (2H,s), 3.49-3.46 (1H,m),3.36-3.33 (1H,m),3.11 (1H, m),2.92 (1H, m), 2.80-2.78 (1H,m),2.27 (2H, s),1.99-1.97 (1H,m),1.88-1.86 (1H, m),1.79 (3H,s),1.73-1.70(1H,m)，1.37-1.32(1H,m);ESI-MS calculated for $( \\mathbf { C } _ { 1 5 } \\mathbf { H } _ { 1 9 } \\mathbf { N } _ { 5 } \\mathbf { O } )$ $\\mathrm { [ M + H ] } ^ { + }$ ,286.16,found 286.1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1.3.(R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn-1- yl)-5-methyl-3H-pyrrolo[3,2-d]pyrimidin-4(5H)-one （204号 $( I \\delta \\boldsymbol { a } )$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 2 . 6 \\%$ .1HNMR (400MHz, CDCl3) δ ppm: 6.87 (1H,d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ,6.17 (1H,d, $\\mathrm { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),5.19(2H,s),4.77-4.63(2H, AB q, $\\mathrm { J } { = } 3 4 . 8 \\ \\mathrm { H z }$ ， $1 6 . 4 \\ : \\mathrm { H z }$ ),3.96 (1H,s),3.50-3.47(1H,m),3.32 (2H,m),3.03-2.98 (1H,m),2.90 (1H,m),2.05 (1H,m),1.84(1H, m),1.75 (3H, s),1.65-1.63 (2H, m);³CNMR (500 MHz,CDCl3) δppm:22.64 (1C)，28.34 (1C),30.38 (1C),34.41 (1C),35.57 (1C),47.69 (1C)，51.55(1C)，55.40 (1C)，74.46 (1C)，79.35 (1C),101.61(1C),115.10 (1C),131.69(1C),142.73(1C),153.49 (1C)，155.42 (1C)； ESI-MS calculated for (C16H21N5O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,300.17,found 300.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.4.(R)-2-(2-(3-aminopiperidin-1-yl)-3-(but-2- yn-1-yl)-4-oxo-3H-pyrrolo[3,2-dlpyrimidin-5(4H)- yl)acetonitrile(18b) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 4 . 2 \\%$ .1HNMR (400MHz, CDCl3) δ ppm: 7.14（1H, d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),6.39 (1H,d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),5.46 (2H,s),4.76 (2H,s), 3.49-3.47 (1H,m), 3.38-3.35 (1H,m),3.15 (1H,m),2.96-2.91 (1H,m),2.80 (2H,s),2.00-2.96 (1H,m),1.88-1.84(1H,m),1.80 (3H,s),1.75-1.65 (2H,m),1.42 (1H,m);13CNMR (500 MHz, CDCI3) δ ppm: 22.95 (1C), 28.35 (1C), 32.54 (1C),34.80(1C), 35.47 (1C),47.58 (1C),50.39 (1C),51.26 (1C),58.04 (1C),73.97 (1C),79.86 (1C),104.73(1C),114.60(1C),130.28(1C),143.98 (1C)，154.66 (1C)，155.57(1C)； ES1-MS calculated for (C17H20N6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,325.17, found 325.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.5.(R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn-1- yl)-5-(pyrimidin-2-ylmethyl)-3H-pyrrolo[3,2- dlpyrimidin-4(5H)-one (18b) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 4 . 5 \\%$ .1HNMR(400MHz,MeOD) δ ppm:8.65-8.63 (2H, d, $\\mathrm { J } { = } 4 . 8 ~ \\mathrm { H z }$ ,7.32(1H，d, $\\mathrm { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),7.31-7.28(1H,t,J= $4 . 8 ~ \\mathrm { H z } )$ , 6.31 (1H, d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ), 5.81 (2H, s), 4.76-4.67 (2H,q, $\\mathrm { J } = 1 8 . 8 \\mathrm { H z }$ ),3.46-3.43(1H,m),3.36-3.29 (1H,m),3.12-3.08(1H, m),2.90(1H,m),2.81(1H,m),2.78-2.76(1H,m),2.01-1.98(1H, m),1.88-1.86 (1H,m),1.85-1.75 (1H,m), 1.72 (3H, s),1.43-1.39 (1H,m);13CNMR ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD) δ ppm: 22.34 (1C), 28.87 (1C)，32.60 (1C),35.16 (1C)，49.51 (1C),50.51 (1C)，52.77 (1C),54.39 (1C),58.06 (1C),75.36 (1C),80.41 (1C),103.23(1C), 116.32 (1C),121.15 (1C),134.41 (1C),145.10 (1C),155.54 (1C), 156.79(1C)，158.70(1C)，167.68(1C);ESI-MS calculated for (C20H23N7O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,378.20, found 378.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.6.(R)-5-((1H-indol-3-yl)methyl)-2-(3- aminopiperidin-1-yl)-3-(but-2-yn-1-yl)-3Hpyrrolo[3,2-dlpyrimidin-4(5H)-one(18c) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 1 . 7 \\%$ .1HNMR(400MHz,MeOD) δ ppm: 7.46-7.44 (1H, d, $\\mathrm { J } { = } ~ 8 . 0 ~ \\mathrm { H z }$ ),7.30(1H,s),7.28(1H,s),7.28(1H,d,J=2.8 Hz),7.04-7.00 (1H,m),6.92-6.88(1H,m),6.13(1H,d, $J = 2 . 8$ Hz),5.73 (2H, s),4.81 (2H,s), 3.57 (1H, m),3.47-3.44 (1H, m), 3.26-3.25 (1H,m),3.07-3.01 (1H,m),2.05 (1H,m),1.89-1.87 (1H,m),1.78 (1H,m),1.77 (3H,s),1.63-1.61 (1H,m),1.22(1H, m);13CNMR (500 MHz,MeOD) δ ppm:22.47 (1C),28.92 (1C), 35.44(1C), 44.25 (1C), 48.49 (1C),49.51 (1C), 52.92 (1C),53.85 (1C),58.06 (1C),61.44(1C),75.36 (1C),80.41(1C),102.73 (1C). 112.44(1C),115.73(1C),119.23 (1C),120.29 (1C),122.77(1C), 125.81 (1C)，127.80 (1C)，133.07 (1C)，138.14 (1C),144.66 (1C),154.56(1C)， 156.82(1C)； ESI-MS calculated for (C24H26N6O) $\\mathrm { [ M + H ] } ^ { + }$ ,415.22, found 415.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.7. (R)-5-((1H-benzo[d]imidazol-2-yl)methyl)-2- (3-aminopiperidin-1-yl)-3-(but-2-yn-1-yl)-3Hpyrrolo[3,2-d]pyrimidin-4(5H)-one (18d) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $7 7 . 1 \\%$ .1HNMR(400MHz,MeOD) δ ppm: 7.47 (2H, m),7.39 (1H, d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),7.18-7.15 (2H,m),6.32 (1H,d,J= $2 . 8 ~ \\mathrm { H z }$ ),5.84 (1H,s),4.78 (2H, s),3.46-3.44 (1H,m),3.43-3.42 (1H,m),3.41-3.40 (1H,m),3.03-2.98(1H,m),2.08-2.05(1H, m), 1.91-1.88(1H,m),1.82-1.79(1H,m),1.77-1.75 (1H,m),1.73 (3H,s),1.60-1.57 (1H,m);ESI-MS calculated for (C23H25N7O) $\\mathrm { [ M + H ] } ^ { + }$ ,416.21, found 416.2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.8. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn-1- yl)-5-(quinolin-4-ylmethyl)-3H-pyrrolo[3,2- dlpyrimidin-4(5H)-one (18e) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 1 . 6 \\%$ .1HNMR (400MHz,MeOD) δ ppm: 8.67 (1H,d, $\\mathrm { J } { = } 8 . 0 \\mathrm { H z } \\$ ,8.25-8.23(1H，d, $\\mathbf { J } { = } 8 . 0 \\mathrm { H z }$ ),8.08-8.06(1H,d, $\\mathrm { J } = 8 . 0$ Hz),7.85-7.81 (1H,m),7.73-7.69(1H,m),7.40(1H,d, $J = 2 . 8$ Hz),6.62 (1H,d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),6.43-6.42 (1H,m),6.24 (2H,s), 4.79-4.70 (2H, t, $\\mathbf { J } = 1 9 . 2 ~ \\mathrm { H z }$ ),3.48-3.45 (1H,m),3.41-3.38(1H, m),3.03-2.98 (1H,m),2.93-2.87 (1H,m),2.76-2.70 (1H,m), 2.01-1.98 (1H,m),1.90-1.87 (1H,m)，1.79-1.76(1H,m),1.74 (3H,s),1.40-1.30 (1H,m);13CNMR (500 MHz,MeOD) δ ppm: 24.52 (1C)，33.74 (1C)，35.42 (1C)，48.53 (1C)，49.55 (1C), 49.58 (1C)，52.76 (1C),59.35 (1C)，75.28 (1C)，80.52 (1C), 103.96 (1C),116.09 (1C),119.10 (1C),124.29 (1C),127.06 (1C), 128.60 (1C),129.89 (1C),131.22(1C),134.10 (1C),145.54 (1C), 147.43 (1C),148.48 (1C),151.30 (1C),156.14 (1C), 156.94 (1C); ESI-MS calculated for (C25H26N6O) $\\mathrm { [ M + H ] } ^ { + }$ ，427.22，found 427.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.9. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn-1- yl)-5-(quinolin-2-ylmethyl)- $3 H$ -pyrrolo[3,2- dlpyrimidin-4(5H)-one $( I \\delta f )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 4 . 8 \\%$ .1HNMR(400MHz,CDCl3) δ ppm: 8.20-8.18 (1H, d, $\\mathbf { J } { = } 8 . 0 \\mathrm { H z }$ ),7.98-7.96 (1H,d, $\\mathrm { J } { = } 8 . 8 \\ \\mathrm { H z }$ ),7.83-7.81 (1H,d, $\\mathrm { J } { = } 8 . 0 \\mathrm { H z } \\mathrm { \\backslash }$ ,7.85-7.81(1H,m),7.73-7.70(1H,m),7.54-7.51(1H, m), 7.40 (1H, d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),6.35 (1H,d, $\\mathrm { J } { = } 2 . 8 \\ \\mathrm { H z }$ ),5.87 (2H, s), 4.79-4.69 (2H, t, ${ \\bf J } = 2 1 . 6 ~ \\mathrm { H z }$ ),3.44-3.41(1H,m),3.36-3.29(1H, m),2.99-2.94 (1H,m),2.88-2.85 (1H,m),2.71-2.63 (1H,m), 1.99-1.95 (1H,m),1.86-1.83 (1H,m),1.73 (1H,m),1.73 (3H,s), 1.38-1.26(1H,m);13CNMR（ ${ 5 0 0 } ~ \\mathrm { M H z }$ ，MeOD) δ ppm: 24.48 (1C),33.69 (1C),35.32 (1C),48.48 (1C),49.51(1C), 52.69 (1C), 54.44(1C),59.33 (1C)，75.36 (1C)，80.43 (1C)，103.79 (1C), 115.92 (1C),120.19 (1C),127.82 (1C),128.85 (1C), 128.94 (1C), 129.19 (1C),131.24(1C),133.92 (1C),139.13 (1C),145.41(1C), 148.50 (1C),155.96(1C)，156.92 (1C)，159.53 (1C)；ESI-MS calculated for (C25H26N6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,427.22, found 427.1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.10. (R)-2-(3-aminopiperidin-1-yl)-5-((6- bromoquinolin-2-yl)methyl)-3-(but-2-yn-1-yl)-3Hpyrrolo[3,2-d]pyrimidin-4(5H)-one $( I \\ 8 g )$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yield: $4 3 . 8 \\%$ .1HNMR（ $\\boldsymbol { 4 0 0 } \\mathbf { M H z }$ ，MeOD) δ ppm: 8.14-8.11 (1H, d, $\\mathbf { J } { = } 8 . 8 ~ \\mathrm { H z }$ ,8.00-7.99 (1H,d, $\\mathbf { J } { = } 2 . 0 \\ \\mathrm { H z }$ ),7.90-7.87(1H， m),7.80-7.77 (1H,m),7.44(1H,d, $\\mathrm { J } { = } 2 . 8 \\ \\mathrm { H z }$ ,7.23-7.21(1H，d, $\\mathrm { J } { = } 8 . 8 ~ \\mathrm { H z }$ ),6.42(1H,d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),5.91 (2H,s),4.83-4.81 (2H, m),3.53-3.50 (1H,m),3.45-3.42 (1H,m),3.10-3.04 (1H,m), ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.96-2.91 (1H,m),2.80-2.75(1H,m),2.07-2.03 (1H,m),1.95- 1.90 (1H,m),1.84(3H,s),1.83-1.75 (1H,m),1.45-1.33(1H, m);13CNMR(500 MHz,CDCl3 $+$ MeOD)δ ppm:24.27 (1C), 33.45(1C)，35.29 (1C)，48.48 (1C)，49.50 (1C)，49.98 (1C), 52.50 (1C)，54.29 (1C),59.07 (1C)，75.14 (1C)，80.40 (1C), 103.70 (1C),115.68 (1C),121.17 (1C),129.63 (1C),130.72 (1C), 131.04 (1C), 133.61 (1C),134.19 (1C),137.85 (1C),145.06 (1C), 146.83(1C)，155.63 (1C)，156.67 (1C)，159.63(1C);ESI-MS calculated for (C25H25BrN6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,505.13, found 505.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.11. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((6-chloroquinolin-2-yl)methyl)-3Hpyrrolo[3,2-dlpyrimidin-4(5H)-one (18h) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $6 7 . 8 \\%$ .1HNMR（ $\\boldsymbol { \\cdot } 4 0 0 \\mathbf { M H z }$ ,CDCl3) δ ppm: 7.96-7.93 (1H,m),7.71 (1H, d, $\\mathbf { J } { = } 2 . 4 ~ \\mathrm { H z }$ ),7.60-7.57(1H,dd, $\\mathrm { J } { = } 2 . 4 ~ \\mathrm { H z }$ $\\mathbf { J } { = } 9 . 2 ~ \\mathrm { H z } ,$ ),7.30-7.26 (1H,m),7.20 (1H,d, $\\mathrm { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),6.34 (1H, d, ${ \\bf J } = 2 . 8 ~ \\mathrm { H z }$ ),5.88 (2H,s),4.79 (2H,d, $\\mathrm { J } { = 2 . 0 \\ \\mathrm { H z } }$ ,3.48-3.43 (1H,m),3.06-3.00 (1H,m),2.90-2.85 (1H,m), 2.72-2.67 (1H, m),1.98-1.93 (1H,m),1.89 (2H, s),1.85-1.82 (1H,m),1.80 (3H, s)，1.74-1.65 (1H,m)，1.32-1.24 (1H,m);13CNMR（ ${ 5 0 0 } ~ \\mathrm { M H z }$ 中 CDCI3) δ ppm: 23.41 (1C),33.45 (1C), 34.49 (1C), 47.83 (1C), 51.36(1C)，53.67 (1C)，59.26 (1C)，74.47 (1C)，77.00 (1C), 79.34(1C)，103.12 (1C)，114.75 (1C),120.82 (1C)，126.14 (1C),127.93(1C),130.52 (1C),130.74(1C),131.49 (1C),132.14 (1C)，136.21 (1C)，143.72 (1C)，145.95 (1C)，154.24 (1C), 155.72 (1C)，158.00(1C)；ESI-MS calculated for (C25H25CIN6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,461.18, found 461.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.12. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((6-fluoroquinolin-2-yl)methyl)-3Hpyrrolo[3,2-dlpyrimidin-4(5H)-one (18i) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $6 2 . 5 \\%$ .1HNMR(400MHz,CDCl3) δ ppm: 8.02-7.97 (2H,m),7.46-7.41 (1H,m),7.36-7.33(1H,m),7.31-7.29 (1H,d, $\\mathrm { J } { = } 8 . 4 \\ \\mathrm { H z } \\$ ,7.20 (1H,d, $\\mathbf { J } { = } 2 . 8 \\ \\mathrm { H z }$ ),6.33(1H,d, $\\mathrm { J } { = } 2 . 8 ~ \\mathrm { H z }$ ,5.89 (2H,s),4.79 (2H,d,J= 2.0 Hz),3.48-3.43 (1H,m),3.37-3.34 (1H,m),3.06-3.00 (1H,m),2.90-2.85 (1H,m),1.98-1.93(1H, m),1.87-1.84(1H,m),1.83 (2H,s),1.79(3H,s),1.74-1.66(1H, m)，1.32-1.24 (1H,m);13CNMR $\\mathrm { 5 0 0 ~ M H z }$ ，CDCl3）δppm: 23.40 (1C)，33.45 (1C)，34.45 (1C)，47.81 (1C)，51.34 (1C), 53.63(1C)，59.26 (1C)，74.48 (1C)，77.00 (1C)，79.31 (1C), 103.06 (1C),110.37 (1C),114.73 (1C),119.68 (1C),120.72 (1C), 127.90 (1C),131.53 (1C),136.45 (1C),143.70 (1C),144.63 (1C), 154.21 (1C),155.70 (1C),157.00 (1C),159.34 (1C),161.31(1C); ESI-MS calculated for (C25H25FN6O) $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ，445.21，found 445.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.13. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((6-methylquinolin-2-yl)methyl)-3Hpyrrolo[3,2-d]pyrimidin-4(5H)-one(18j) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $6 9 . 4 \\%$ .1HNMR(400MHz,MeOD) δ ppm:8.06-8.04 (1H, d, $\\mathrm { J } = 8 . 4 ~ \\mathrm { H z }$ ),7.86-7.84 (1H,d, $\\mathrm { J } = 8 . 4 ~ \\mathrm { H z }$ ),7.62 (1H，s), 7.61-7.59 (1H, dd, $\\mathrm { J } { = } 8 . 8 \\ \\mathrm { H z }$ $\\mathrm { J } { = } 1 . 6 \\mathrm { H z }$ ),7.39 (1H,d, $\\mathrm { J } { = } 2 . 8 \\ \\mathrm { H z }$ ), 7.30-7.28 (1H, d, $\\mathrm { J } { = } 8 . 4 \\mathrm { H z }$ ),6.34 (1H,d, $\\mathrm { J } { = } 2 . 8 \\ \\mathrm { H z }$ ),5.73 (2H,s), 4.80-4.74 (2H,m), 3.45-3.43 (1H,m),3.35-3.34 (1H,m),3.01- 2.95 (1H,m),2.87-2.67 (1H,m),2.65 (3H,s),2.00-1.96 (1H, m), 1.88-1.84 (1H,m)，1.77 (3H,s),1.74-1.66 (1H,m),1.38-1.35 (1H,m);13CNMR( ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD) δ ppm: 24.63(1C), 33.73 (1C),35.33 (1C),48.49 (1C),49.51 (1C), 52.19 (1C), 52.26 (1C), 55.50 (1C),59.40 (1C)，75.49 (1C),80.41 (1C),103.56 (1C), ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "115.64(1C),123.60(1C),127.07(1C),127.79 (1C),128.74(1C), 130.34(1C),133.41 (1C),137.70(1C),138.21(1C),145.28(1C), 147.72 (1C),155.81(1C)，156.77 (1C),160.52 (1C);ESI-MS calculated for (C26H28N6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,441.23, found 441.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.14. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((7-chloroquinolin-2-yl)methyl)- $3 H$ ， pyrrolo[3,2-d]pyrimidin-4(5H)-one(18k) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $4 3 . 4 \\%$ .1HNMR( $\\mathsf { 4 0 0 M H z }$ ,CDCl3) δ ppm: 8.03 (1H, d, $\\mathrm { J } = 1 . 6 ~ \\mathrm { H z }$ ),8.01(1H,s),7.69-7.67(1H,d, $\\mathrm { J } { = } 8 . 8 ~ \\mathrm { H z }$ ,7.45-7.43 (1H, dd, $\\mathrm { J } { = } 8 . 8 \\ \\mathrm { H z }$ $\\mathbf { J } { = } 2 . 0 \\mathrm { H z }$ ),7.30-7.28(1H,d, $\\mathrm { J } { = } 8 . 8 \\ \\mathrm { H z }$ ),7.22 (1H, d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),6.35(1H,d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),5.90 (2H,s),4.84- 4.75 (2H,m),3.50-3.47 (1H,m),3.37-3.34 (1H,m),3.16-3.12 (1H,m),2.97-2.92(1H,m),2.84-2.80(1H,m),2.43(2H,s),1.99- 1.96(1H,m),1.89-1.85 (1H,m),1.80 (3H,t, ${ \\bf J } = 2 . 4 ~ \\mathrm { H z }$ ，1.76- 1.66(1H,m),1.42-1.40(1H,m);13CNMR( ${ 5 0 0 } \\mathrm { M H z }$ ,MeOD)δ ppm: 23.07 (1C),29.65 (1C),32.65 (1C),34.53 (1C),47.70 (1C), 51.40(1C)，53.67 (1C)，58.27 (1C)，74.45 (1C)，79.46 (1C), 103.11(1C)，114.78(1C)，120.14(1C),125.74(1C)，127.53 (1C),128.21(1C),128.71 (1C),131.64 (1C),135.49 (1C),136.98 (1C)，143.59(1C)，147.96 (1C)，154.12 (1C)，155.67 (1C), 158.74 (1C);ESI-MS calculated for (C25H25CIN6O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ 461.18, found 461.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.15. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((7-fluoroquinolin-2-yl)methyl)-3Hpyrrolo[3,2-dlpyrimidin-4(5H)-one (18l) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $4 5 . 9 \\%$ .1HNMR(400MHz,CDCl3) δ ppm: 8.04-8.02 (1H, d, $\\mathrm { J } { = } 8 . 4 ~ \\mathrm { H z }$ ),7.75-7.64 (1H,m),7.67-7.64 (1H,dd, ${ \\mathrm { J } } \\mathrm { = } 5 . 2$ Hz, $\\mathbf { J } { = } 2 . 0 \\ \\mathrm { H z }$ ),7.30-7.28(1H,m),7.24 (1H,s),7.22(1H,d,J= $2 . 8 \\ : \\mathrm { H z }$ ,6.35 (1H,d, $\\mathbf { J } { = } 2 . 8 \\ \\mathrm { H z }$ ),5.90 (2H,s),4.80 (2H,d,J= 2.0 Hz),3.49-3.47 (1H,m),3.38-3.35 (1H, m),3.07 (1H,m), 2.93- 2.88 (1H,m),2.76-2.71 (1H,m),1.98-1.95 (1H,m), 1.88 (1H, m), 1.85 (2H,s),1.80 (3H,s)，1.76-1.66 (1H,m),1.33-1.31 (1H, m);13CNMR ( ${ 5 0 0 } \\mathrm { M H z }$ ,CDCI3) δ ppm: 23.17 (1C),33.51 (1C), 34.49 (1C),47.03 (1C)，51.37 (1C)，53.71 (1C)，74.51 (1C), 79.34(1C),103.12 (1C),112.76 (1C),114.80 (1C),116.87 (1C), 119.24 (1C),124.38 (1C),129.45 (1C),131.53 (1C),137.02 (1C), 143.70 (1C), 148.55 (1C),154.22 (1C), 155.73 (1C),158.81 (1C), 162.13(1C),164.12(1C);ESI-MS calculated for (C25H25FN6O) $\\mathrm { [ M + H ] } ^ { + }$ ,445.21,found445.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.16.(R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-(quinoxalin-2-ylmethyl)-3H-pyrrolo[3,2- dlpyrimidin-4(5H)-one(18m) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yield: $6 1 . 5 \\%$ . 1HNMR (400MHz, MeOD) δ ppm: 8.67 (1H, s), 7.97-7.90(2H,m),7.74-7.69 (2H,m),7.45 (1H,d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ）， 6.35 (1H, d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),5.90 (2H,s),4.78-4.71 (2H,m),3.44- 3.41 (1H,m),3.36-3.32 (1H,m),2.99-2.95 (1H,m),2.86-2.84 (1H,m),2.71-2.66 (1H,m),1.99-1.94 (1H,m),1.85-1.82(1H, m),1.73(3H,s),1.69-1.68(1H,m),1.37-1.26 (1H,m);13CNMR (500 MHz,MeOD) δ ppm: 24.46 (1C), 33.68 (1C),35.33 (1C), 48.48(1C)，49.98 (1C)，52.64 (1C)，54.40 (1C)，59.33 (1C), 75.35 (1C),80.43 (1C), 103.71 (1C),115.75 (1C),129.67 (1C), 129.98 (1C),131.16(1C),131.58 (1C),134.10 (1C),142.64 (1C), 142.93 (1C), 145.16 (1C),145.45 (1C), 154.23 (1C),155.90 (1C), 156.81 (1C)；ESI-MS calculated for (C24H25N7O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ 428.21, found428.1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1.17. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((3-methylquinoxalin-2-yl)methyl)-3Hpyrrolo[3,2-d]pyrimidin-4(5H)-one (18n) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 3 . 4 \\%$ .1HNMR(400MHz,CDCl3) δ ppm: 7.98-7.92 (2H, m),7.69-7.61 (2H,m),7.07 (1H, d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ), 6.34 (1H, d, $\\mathbf { J } { = } 2 . 8 ~ \\mathrm { H z }$ ),6.04 (2H, s),4.78 (2H,d,J= 2.0 Hz),3.49-3.46 (1H, m),3.38-3.35 (1H,m),3.06-3.01 (1H,m),2.91-2.86 (1H,m), 2.72 (3H, s),2.72 (1H, m),1.98-1.94 (1H, m),1.87-1.81 (1H, m), 1.77 (2H,s),1.77 (3H,s)，1.72-1.68 (1H,m)，1.29-1.27 (1H, m);13CNMR( ${ 5 0 0 } \\mathrm { M H z }$ ,CDCI3) δ ppm: 22.13 (1C),23.44 (1C), 29.63 (1C)，33.46 (1C)，34.48 (1C),47.84 (1C)， 50.93 (1C), 51.37 (1C)，59.32 (1C)，74.46 (1C)，76.78 (1C)，79.35 (1C), 103.08 (1C)，115.00 (1C)，128.29(1C)，128.98 (1C)，129.81 (1C),131.41 (1C), 140.66 (1C),141.61 (1C), 143.54 (1C), 150.83 (1C),152.80 (1C),154.17 (1C),155.84(1C);ESI-MS calculated for (C25H27N7O) $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ,442.23,found442.2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1.18. (R)-2-(3-aminopiperidin-1-yl)-3-(but-2-yn1-yl)-5-((4-methylquinazolin-2-yl)methyl)-3Hpyrrolo[3,2-d]pyrimidin-4(5H)-one(180) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yield: $5 9 . 0 \\%$ .1HNMR(400MHz,CDCl3) δ ppm: 7.97-7.95 (2H, d, $\\mathrm { J } { = } ~ 8 . 4 ~ \\mathrm { H z }$ ),7.77-7.70 (2H,m),7.51-7.47 (1H,m), 7.13 (1H, d, $\\mathbf { J } { = 2 . 8 ~ \\mathrm { H z } }$ ),6.28 (1H,d, $\\mathrm { J } = 2 . 8 ~ \\mathrm { H z }$ ),5.86 (2H,s),4.68- 4.58(2H, dd, ${ \\bf J } = 3 3 . 6 \\mathrm { H z }$ $\\mathbf { J } { = } 4 . 0 \\mathrm { H z }$ ),3.85(2H,s),3.39-3.37(1H， m), 3.27-3.24 (1H, m),3.06 (1H, m), 2.85 (1H, m),2.79 (3H,s), 2.75-2.73(1H,m),1.93-1.90 (1H,m),1.80-1.76(1H,m),1.64 (3H,s),1.64 (1H,m),1.36-1.34 (1H,m);13CNMR (500 MHz, $\\mathrm { C D C l 3 + M e O D }$ ）δ ppm:21.24 (1C),22.30 (1C),31.24 (1C), 34.09(1C)，47.11 (1C)，49.02 (1C)，51.32 (1C)，53.40 (1C), 56.65 (1C),74.01 (1C),79.28(1C)，102.17 (1C)，115.14(1C), 122.87(1C)，124.82(1C)，127.31 (1C),128.35(1C)，132.27 (1C),133.72(1C),142.95 (1C),149.42(1C),153.76 (1C),155.34 (1C),160.96 (1C),169.08(1C);ESI-MS calculated for (C25H27N7O) $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ,442.23,found442.2 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.In vitro inhibitionofDPP-IV,DPP-8 and DPP-9 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Solutions of test compounds at varying concentrations‘ $( \\leq 1 0$ mM final concentration） were prepared in dimethyl sulfoxide (DMSO）and diluted into assay buffer containing $2 0 ~ \\mathrm { m M }$ Tris $\\mathrm { ( p H } 7 . 4 )$ ,20 mMKCl, and $0 . 1 \\mathrm { m g / m L }$ BSA.Human DPP-IV(0.1 nM final concentration） was added to the dilutions and preincubated for 1O minutes at ambient temperature before the reaction was initiated by the addition of Gly-Pro-AMC (Hglycyl-prolyl-7-amino-4-methylcoumarin,Sigma-Aldrich, $1 0 \\mu \\mathrm { M }$ final concentration).The total volume of the reaction mixture was $1 0 0 ~ \\mu \\mathrm { L }$ ．The kinetics of the reaction was monitored (excitation at $4 0 0 ~ \\mathrm { n m }$ ,emission at $5 0 5 ~ \\mathrm { n m }$ for5-10 minutes,or an endpoint was measured after 1O minutes.Inhibition constants $( \\mathrm { I C } _ { 5 0 } )$ were calculated from enzyme progress curves using standardmathematical models ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3.In vivo pharmacokinetic study ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Adult male SD rats $\\mathrm { ( n = 4 / g r o u p ) }$ were administered the test compounds dissolved in distilled water at a single dose of 20 $\\mathrm { m g / k g }$ or $2 5 \\mathrm { \\ m g / k g }$ for oral administration and $5 \\ \\mathrm { \\ m g / m L }$ by injection.Blood samples of $1 0 0 { - } 2 0 0 ~ \\mu \\mathrm { L }$ were collected from the orbit at 11 time points within 24 hours.The blood concentration of test compounds was determined by LC-MS/MS.The PK parameters were obtained from the pharmacokinetic software DAS. 2.0. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by Grant No.2O09Z1-E871 from the Bureau ofScience and Technology of Guangzhou Municipality and the Natural Science Foundation of China (NSFC 21102145). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Reference and notes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Hollander,P.A.;Kushner,P.,Type 2 diabetes comorbidities and treatment challenges: rationale for DPP-4 inhibitors.Postgrad Med 2010,122 (3),71-80.   \n2. Ahren,B.，DPP-4 inhibitors.Best Pract Res Clin Endocrinol Metab 2007,21 (4),517-33.   \n3． (a)Abel,T.;Feher,J.,[A new therapeutic possibility for type 2 diabetes: DPP-4 inhibitors (sitagliptin)].Orv Hetil20i0,151 (25), 1012-6; (b) Deacon,C.F.; Holst,J.J.; Carr,R.D.,Glucagon-like peptide-1:a basis for new approaches to the management of diabetes.Drugs Today (Barc) 1999,35 (3),159-70;(c) Gallwitz, B.,[Diabetes therapy--novel drugs_to come_(DPP-4 inhibitors, GLP-1 agonists,SGLT-2 inhibitors)].MMW Fortschr Med 2010, 152 (20), 43-4.   \n4. (a) Babine,R.E.; Bender,S.L., Molecular recognition of proteinligand complexes:Applications to drug design. Chem Rev 1997, 97 (5),1359-1472; (b) Thomson,J. A.;Perni,R.B.,HepatitisC virus NS3-4A protease inhibitors:Countering viral subversion in vitro and showing promise in the clinic.Curr Opin Drug Disc 2006,9 (5),606-617;(c) Leung,D.; Abbenante,G.; Fairlie,D.P., Protease inhibitors: Current status and future prospects. Journal of Medicinal Chemistry 2000,43 (3),305-341.   \n5. (a)Sheehan, S.M.; Mest,H.J.;Watson,B.M.; Klimkowski,V.J.; Timm,D.E.; Cauvin,A.; Parsons,S.H.; Shi,Q.;Canada,E. J.; Wiley,M.R.; Ruehter, G.; Evers,B.;Petersen,S.; Blaszczak,L. C.；Pulley，S.R.； Margolis,B.J.；Wishart,G. N.；Renson,B.; Hankotius,D.；Mohr,M.；Zechel,J.C.；Kalbfleisch,J.M.; Dingess-Hammond,E.A.; Boelke,A.; Weichert, A.G.,Discovery of non-covalent dipeptidyl peptidase IV inhibitors which induce a conformational change in the active site.Bioorganic & Medicinal ChemistryLetters2007，17(6)，1765-1768；(b）Turk，B., Targeting proteases: successes,failures and future prospects. Nat Rev Drug Discov 2006,5 (9),785-799.   \n6. Cho,T.P.; Long,Y.F.; Gang,L. Z.; Yang,W.; Jun,L.H.; Yuan, S. G.; Hong,F.J.; Lin,W.; Liang, G.D.; Lei,Z.; Jing,L. J.; Shen, G. A.; Hong,S.G.; Dan,W.; Ying,F.; Ke, Y.P.; Ying,L.; Jun,F.; Tai,M.X.， Synthesisandbiologicalevaluationof azobicyclo[3.3.O] octane derivatives as dipeptidyl peptidase 4 inhibitors for the treatment of type 2 diabetes.Bioorg Med Chem Lett 2010,20 (12),3565-8.   \n7. (a) Kim,D.; Wang,L.; Beconi,M.; Eiermann,G.J.; Fisher, M. H.; He,H.; Hickey,G.J.; Kowalchick,J.E.; Leiting,B.;Lyons,K.; Marsilio,F.; McCann,M.E.; Patel,R.A.; Petrov,A.; Scapin,G.; Patel,S.B.; Roy,R.S.;Wu,J.K.; Wyvratt,M.J.; Zhang,B.B.; Zhu,L.；Thornberry，N. A.；Weber,A.E.，(2R)-4-oxo-4-[3- (trifluoromethyl)-5,6-dihydro[1,2,4]triazolo[4,3-a]pyrazin-7(8H)- yl]-1-(2,4,5-trifluorophenyl)butan-2-amine: a potent,orally active dipeptidyl_peptidase IV inhibitor for the treatment of type_2 diabetes.J Med Chem 2005,48(1)，141-51;(b)Kim，D.; Kowalchick,J.E.; Brockunier,L.L.; Parmee,E.R.; Eiermann,G. J.; Fisher,M.H.; He,H.; Leiting,B.; Lyons,K.; Scapin,G.; Patel, S. B.;Petrov,A.; Pryor,K.D.; Roy,R. S.;Wu,J.K.; Zhang,X; Wyvratt,M.J.; Zhang,B.B.; Zhu,L.; Thornberry,N.A.;Weber, A.E.,Discovery of potent and selective dipeptidyl peptidase IV inhibitors derived from beta-aminoamides bearing subsituted triazolopiperazines.JMed Chem 2008,51(3),589-602.   \n8. Feng,J.; Zhang,Z.; Wallace,M.B.; Stafford,J.A.; Kaldor, S.W.; Kassel,D. B.; Navre, M.； Shi, L.; Skene,R. J.； Asakawa, T.; Takeuchi,K.；Xu,R.；Webb,D.R.；Gwaltney，S.L.，2nd, Discovery of alogliptin:a potent,selective,bioavailable,and efficacious inhibitor of dipeptidyl peptidase IV.JMed Chem 2007, 50 (10),2297-300.   \n9. Eckhardt,M.; Langkop,E.; Mark,M.; Tadayyon,M.; Thomas,L; Nar,H;Pfrengle,W.； Guth,B.;Lotz,R.；Sieger,P.；Fuchs,H.; Himmelsbach,F.，8-(3-(R)-aminopiperidin-1-yl)-7-but-2-ynyl-3- methyl-1-(4-methyl-quinazolin-2-ylmethyl)-3,7-dihydropurine2,6-dione (BI 1356),a highly potent,selective,long-acting,and orally bioavailable DPP-4 inhibitor for the treatment of type 2 diabetes.Journal of Medicinal Chemistry 20O7,50 (26),6450- 6453.   \n10. Lauster,C.D.;McKaveney,T.P.;Muench,S.V.,Vildagliptin:a novel oral therapy fortype 2 diabetes mellitus.AmJHealth Syst Pharm 2007,64(12),1265-73.   \n11. Gallwitz,B.,Saxagliptin,a dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes.IDrugs 2008,11(12),906-17.   \n12. Xie,H.; Zeng,L.; Zeng,S.;Lu,X.; Zhang,G.; Zhao,X.; Cheng, N.; Tu, Z.; Li, Z.; Xu,H.; Yang,L.; Zhang, X.; Huang,M.; Zhao, J.；Hu，W.，Novel pyrrolopyrimidine analoguesaspotent dipeptidyl peptidase IV inhibitors based on pharmacokinetic property-driven optimization.EurJMed Chem 2012,52,205-12.   \n13. Lee,B.；Shi,L.;Kassel,D.B.；Asakawa,T.；Takeuchi,K.; Christopher，R．J.，Pharmacokinetic，pharmacodynamic，and efficacy profiles of alogliptin,a novel inhibitor of dipeptidyl peptidase-4,in rats,dogs,and monkeys.Eur JPharmacol 2008, 589 (1-3),306-14.   \n14. (a）Sutton,J.M.；Clark,D.E.；Dunsdon,S.J.；Fenton,G.; Fillmore,A.; Harris,N.V.; Higgs,C.; Hurley, C.A.; Krintel,S.L.; MacKenzie,R.E.; Duttaroy,A.; Gangl,E.;Maniara,W.; Sedrani, R.; Namoto,K.; Ostermann,N.; Gerhartz,B.; Sirockin,F.; Trappe, J.；Hassiepen，U.;Baeschlin,D.K.，Novel heterocyclic DPP-4 inhibitors for the treatment of type 2 diabetes.Bioorg Med Chem Lett 2012，22 (3)，1464-8；(b)Eckhardt，M.;Hauel，N.; Himmelsbach,F.; Langkopf,E.; Nar,H.; Mark,M.; Tadayyon,M.: Thomas，L.；Guth，B.；Lotz，R.，3,5-Dihydro-imidazo[4,5- dlpyridazin-4-ones:a class of potent DPP-4 inhibitors.Bioorg Med Chem Lett 2008,18 (11),3158-62. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

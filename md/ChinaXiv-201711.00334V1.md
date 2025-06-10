@@ -1,0 +1,171 @@
+# 氮肥对不同耐低氮性玉米品种花后物质生产及叶片功能特性的影响
+
+李　强}马晓君}程秋博」豆　攀」余东海²　罗延宏³袁继超」孔凡磊l\*(1．农业部西南作物生理生态与耕作重点实验室/四川农业大学农学院成都61130;2.眉山市东坡区农业技术推广站眉山620032;3．四川省烟草公司宜宾市公司烟叶生产技术推广应用中心 宜宾644002)
+
+摘要为明确不同耐低氮性玉米品种花后物质生产及叶片功能特性，采用大田试验，以玉米耐低氮品种‘正红311'和低氮敏感品种‘先玉508'为试验材料，在6个氮水平下研究花后物质生产及叶片功能特性。结果表明：施氮可显著提高玉米干物质积累、叶面积指数和叶片光合速率，延缓花后叶片叶绿素含量和全氮含量的下降，抑制生育后期叶片C/N值的增加，从而提高玉米的最终产量。耐低氮品种‘正红311'花后干物质积累、叶片光合速率、叶面积指数和产量均显著高于低氮敏感品种‘先玉508’，‘正红311'较‘先玉508'平均提高 $3 0 . 5 \% . 9 . 2 \%$ 、$3 5 . 0 \%$ 和 $8 . 8 \%$ 。两品种吐丝后叶片叶绿素含量差异显著，耐低氮品种‘正红311'平均较低氮敏感品种‘先玉 508”提高 $4 . 8 5 \%$ 。两品种吐丝后叶片氮含量差异不大，但‘正红311'和‘先玉508'吐丝-成熟期叶片全氮含量分别下降 $3 1 . 5 \%$ 和 $34 . 9 \%$ ，‘正红311'降幅低于‘先玉508’。两品种花后叶片C/N值差异显著，‘先玉 508'较‘正红 311'平均提高 $5 . 9 5 \%$ 。与低氮敏感品种‘先玉508'相比，耐低氮品种‘正红311'花后叶片光合速率更高、叶面积指数更大，而叶片叶绿素含量和全氮含量降幅与C/N 值增幅更低，延缓了生育后期叶片的衰老，延长了叶片的功能期，增加干物质积累和产量。施用氮肥可有效提高‘正红311'干物质积累、叶面积指数和产量，延缓其生育后期叶片C/N值升高，而‘先玉 508'需要较高的施氮水平才能维持其花后叶片光合速率和全氮含量。
+
+关键词氮肥　玉米　耐低氮性　花后　干物质积累　碳氮比　光合速率中图分类号：S513.01 文献标识码：A 文章编号：1671-3990(2016)01-0017-10
+
+# Effects of nitrogen fertilizer on post-silking dry matter production and leaves function characteristics of low-nitrogen tolerance maize
+
+LI Qiang1, MA Xiaojun1, CHENG Qiubo1, DOU Pan1, YU Donghai², LUO Yanhong³,YUAN Jichao1, KONG Fanlei1\* (1.KeyLaboratoryof Crop EcophysiologyandFarming Systems in Southwest China,Ministryof Agriculture/College of Agronomy,Sichuan AgriculturalUniversityChengdu 61130,China;2.DongpoAgriculturalTechnologyExtension Station, Meishan 620o32,China;3.Center forTobaccoProduction Technology DisseminationandApplyofYibinTobacco Corporationin Sichuan,Yibin 644002,China)
+
+AbstractInorder to clarifythefeatures of dry mater production and leaf function during post-silking stage in maize varieties with diferent low-nitrogen tolerance,a field experiment with 6 levels of nitrogen application rates $[ 0 \mathrm { \ k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 }$ （204号 (B1)、 $9 0 \mathrm { ~ k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (B2)、 $1 8 0 \ \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (B3)、 $2 7 0 \mathrm { \ k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (B4)、 $3 6 0 \ \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 }$ (B5), $4 5 0 \mathrm { ~ k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ (B6)] was conducted using low-nitrogen tolerant maize cultivar‘Zhenghong 3ll'and low-nitrogen sensitive maizecultivar‘Xianyu 508 as experimental materials.Theresults showed that nitrogen applicationsignificantly increased dry materaccumulation,leaf areaindexandleafphotosyntheticrate.Italsoalleviatedthereductionsofbothchlorophyllandnitrogencontentsofmaizeleaf at post-silking stage dueto nitrogendeficiencywhich wasin turnreduced leafC/Nratioat late growth stage,and increased maize yield.Dry matter accumulation,photosyntheticrate and leaf area index at post-silking stage and yieldoflow-nitrogen tolerant cultivar‘Zhenghong 31l’ increased by $30 . 5 \%$ ， $9 . 2 \%$ ， $3 5 . 0 \%$ and $8 . 8 \%$ ，respectively, compared with those of low-nitrogen sensitive cultivar‘Xianyu $5 0 8 ^ { \circ }$ . Chlorophyll content in leaves of ‘Zhenghong 311' enhanced by $4 . 8 5 \%$ compared to thatof‘Xianyu508’at post-silking stage.Low-nitrogen tolerant maize cultivar‘Zhenghong 31l’maintained high chlorophyllcontentto ensurehighdry matter production.There was nosignificant diference in leaf nitrogencontentbetween two maize cultivars after silking stage.Compared with silking stage,however,leaf nitrogen content decreased by $3 1 . 5 \%$ for ‘Zhenghong 311'and by $34 . 9 \%$ for‘Xianyu $5 0 8 ^ { \circ }$ at maturity stage.C/N ratio in leaf of‘Xianyu ${ 5 0 8 } ^ { \cdot }$ was higher than that of ‘Zhenghong 311’ by $5 . 9 5 \%$ at post-silking stage. Compared with low-nitrogen sensitive cultivar ‘Xianyu ${ 5 0 8 } ^ { \circ }$ , low-nitrogen tolerantcultivar‘Zhenghong311'kepthigherphotosyntheticrateandleafarea indexduring post-silkingperiod,theamplitude of decline in both chlorophyl and nitrogen contents was alleviated, and $\mathrm { C } / \mathrm { N }$ ratio in leaf kept lower level at later growth stage, all which were beneficial for prolonging leaf functional period，delaying leaf senescence,and increasing drymater accumulationandyieldof‘Zhenghong 31'.Insummary,nitrogenfertilizereffectivelyincreaseddrymattraccumulation,leaf areaindexandgrainyield.Itreducedthe increaseofC/Nratio in leafof‘Zhenghong311'.However,‘Xianyu508’needed high nitrogen fertilization application to maintain effective leaf photosynthetic rate and nitrogen content.
+
+KeywordsNitrogen fertilizer;Maize;Low-nitrogen tolerance；Post-silking stage;Drymatter accumulaiton;C/Nratio; Photosynthetic rate
+
+氮素是植物必需的主要营养元素之一，影响植物的生长发育[1]。玉米(Zea mays)、小麦(Triticumaestivum)和水稻(Oryzasativa)等高产作物需要大量的氮肥投入才能获得最高产量[2-4]。玉米是我国种植面积最大、“粮、经、饲"多用途的粮食作物[5。四川作为我国玉米的主产区，玉米大都种植在土层瘠薄、保水保肥能力差的川中丘陵区，生产者为了获得高产在玉米生产过程中常常过量施用氮肥[6-7]。据统计,2005—2010 年川中丘陵区氮肥施用量达 $2 2 5 . 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 较成都平原高 $5 2 . 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，且川中丘陵区肥料效率在各生产区中最低，仅 $1 7 . 9 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 [ 8 ] }$ 。过量施用氮肥不仅浪费资源增加生产成本，还使氮肥利用效率显著下降造成环境污染[9-11]，因此合理施用氮肥对于川中丘陵区玉米生产显得尤为重要。不同玉米品种对氮肥的需求规律差异显著[12-14]，且同一品种在不同生态条件下需肥规律也有明显差异[15-17]，因此要做到合理施肥必需充分了解品种在特定生态条件下的需肥特性。
+
+玉米吐丝后叶片光合同化产物是玉米产量的主要来源，吐丝前同化物对籽粒产量的贡献率小于$1 0 \% ^ { [ 1 8 ] }$ 。前人研究[19-21]表明不同耐低氮性玉米品种干物质和氮素积累差异主要来自于吐丝后。吐丝后叶片光合速率决定着玉米最终产量的高低，而花后功能叶中碳氮代谢的协调不仅是库源代谢协调的基础，还对最终产量也有重要的调节作用[22-24]。前人对不同耐低氮性玉米品种的研究集中在主要生育时期干物质和氮素积累及产量的差异上，对不同耐低氮性玉米品种生育后期物质生产特性及功能叶碳氮代谢差异研究较少，且多集中在北方玉米主产区[25-27]，而在川中丘陵区特殊的生态条件下研究氮肥对不同耐低氮性玉米品种生育后期物质生产特性及叶片功能特性影响的差异还鲜有报道。本文通过开展田间试验，研究不同耐低氮性玉米品种花前、花后物质生产及产量的差异，结合花后光合速率、叶绿素含量、C/N值等生理指标的分析，阐明6个施氮水平下不同耐低氮性玉米品种花后物质生产及叶片功能特性的差异，拟为川中丘陵区针对不同耐低氮性玉米品种花后衰老差异进行合理施氮提供理论指导。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验于 2013 年在四川省简阳市芦葭镇进行(北纬 $3 0 ^ { \circ } 3 8 ^ { \prime }$ ，东经 $1 0 4 ^ { \circ } 5 3 ^ { \prime }$ )。从玉米播种到收获 $\geqslant 1 0 ~ \mathrm { ~ \overline { ~ } { ~ C ~ } ~ }$ 年积温 $2 ~ 9 1 3 . 6 ~ \mathrm { ~ \textdegree C }$ ，生育期降雨量 $7 4 3 . 0 ~ \mathrm { m m }$ 左右。试验地土壤为紫色黏土，表层 $2 0 \ \mathrm { c m }$ 土壤有机质$1 6 . 6 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全氮 $1 . 2 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全磷 $0 . 7 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全钾$1 2 . 5 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮 $2 5 . 2 2 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ，速效磷 $1 3 . 5 4 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 速效钾 $1 3 8 . 7 5 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ $\mathsf { p H } 8 . 6 3$ 。
+
+# 1.2 试验材料
+
+前期筛选的耐低氮玉米品种‘正红311(A1)和低氮敏感品种先玉 $5 0 8 ^ { \circ } ( \mathrm { A } 2 ) ^ { [ 2 8 - 2 9 ] }$ 。‘正红 311'为耐低氮品种，该品种在低氮胁迫下通过保持较高的可溶性蛋白、可溶性糖和脯氨酸等有机渗透调节物质和较强的POD活性来降低膜脂过氧化伤害，进而能够保持较高的叶绿素含量和较大叶面积来维持物质生产，提高对低氮胁迫的适应。‘先玉508'为低氮敏感品种，该品种在低氮胁迫下物质生产和产量下降显著，在氮素供应充足的条件下产量优势才能得到发挥。
+
+# 1.3 试验设计
+
+采用裂区试验设计，主区为品种(A)，耐低氮品种‘正红 311'(A1)和低氮敏感品种'先玉 $5 0 8 ^ { \circ } ( \mathrm { A } 2 )$ 两个品种；副区为施肥(纯氮)水平，设 $0 \mathrm { k g \cdot h m } ^ { - 2 } ( \mathrm { B } 1 )$ ，$9 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { B } 2 )$ 、 $1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { B } 3 ) .$ 、 $2 7 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ( \mathrm { B } 4 ) .$ $3 6 0 \ \mathrm { k g \cdot h m ^ { - 2 } ( B 5 ) }$ 和 $4 5 0 \ \mathrm { k g \cdot h m ^ { - 2 } ( B 6 ) }$ 共6个水平，其中B1和B2处理为低氮胁迫，B5和B6处理为充分供氮,3次重复，共36个小区，小区面积 $2 0 \mathrm { m } ^ { 2 }$ （长 $5 \mathrm { m }$ 宽 $4 \mathrm { ~ m } _ { , }$ 。玉米直播(穴播3粒再定苗)，单株栽培，行穴距为 $( 1 . 5 \ \mathrm { m } \mathrm { + } 0 . 5 \ \mathrm { m } ) { \times } 0 . 2 \ \mathrm { m } ,$ ，种植密度为50000株 $\cdot \mathrm { h m } ^ { - 2 }$ 。氮肥(尿素， $4 6 \%$ 用量按底肥：穗肥(攻苞肥) ${ \bf \nabla } \cdot { \bf \nabla } 1 : { \bf \nabla } 1$ 施用，另施过磷酸钙 $6 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、氯化钾 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ （204号作底肥；其他栽管措施按当地高产要求进行，小区间保持一致。
+
+# 1.4取样、测定指标及方法
+
+# 1.4.1 叶面积及叶面积指数
+
+在玉米主要生育时期大喇叭口期、吐丝期、灌浆期，每小区取长势一致的植株4株，用长宽系数法测定绿叶面积。单叶面积 $\underline { { \underline { { \mathbf { \Pi } } } } } =$ 长 $\times$ 宽 $\cdot \times 0 . 7 5$ （式中0.75为矫正系数)。叶面积指数 $( \mathrm { L A I } ) =$ 单位土地面积上的叶面积。
+
+# 1.4.2 干物质测定
+
+测定叶面积后，按茎鞘、叶片、穗分样，于 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下杀青30min,80℃下烘干至恒重称重。
+
+# 1.4.3 叶绿素含量和光合参数的测定
+
+分别于吐丝期、吐丝后 $1 0 \mathrm { d }$ 、吐丝后20d和吐丝后30d，每小区取4株长势一致的植株穗位叶，用于叶绿素含量的测定，并参照邹琦[30的方法测定叶绿素含量(Chl)。于吐丝期使用LI-6400 便携式光合仪测定穗位叶光合参数，每小区测定5株长势一致的植株。
+
+# 1.4.4 全碳全氮含量的测定
+
+参照鲍士旦[31]的方法测定吐丝期、吐丝后 $1 0 { \mathrm { d } } .$ 吐丝后20d和吐丝后30d穗位叶全碳含量。用凯氏定氮仪测定吐丝期、吐丝后 $1 0 \mathrm { d }$ 、吐丝后 $2 0 \mathrm { d }$ 和吐丝后30d穗位叶全氮含量，碳氮比 $\underline { { \underline { { \mathbf { \Pi } } } } } =$ 全碳/全氮。
+
+# 1.4.5 产量
+
+统计收获前每小区有效穗数、空秆率和双苞率，
+
+各小区选取连续20株进行考种，考察穗长、穗粗、秃尖长、穗行数、行粒数、单穗重、穗粒数、千粒重等，然后分小区实收计产。
+
+# 1.5 数据分析
+
+采用MicrosoftExcel2007和DPS7.05统计分析软件进行数据处理和统计分析，并用LSD法进行差异显著性检验，显著水平设为 $\textstyle P { < } 0 . 0 5 ,$ 0
+
+# 2 结果与分析
+
+# 2.1 不同耐低氮性玉米品种干物质积累差异
+
+物质生产是玉米产量形成的基础，从图1可见耐低氮品种‘正红311'花前、花后和总干物质积累均明显高于低氮敏感品种‘先玉 $5 0 8 _ { \circ } ^ { \prime } \ 6$ 个氮水平下正红 311'平均花前、花后和总干物质积累量较‘先玉508'分别高 $2 1 . 3 \%$ 、 $30 . 5 \%$ 和 $2 6 . 4 \%$ ，表明两品种干物质积累差异主要来自于吐丝后。施氮显著提高了玉米花前、花后和总干物质积累量。与B1相比，‘正红311'施氮处理花前、花后和总干物质积累平均分别升高了 $1 5 . 1 \%$ 、 $4 4 . 2 \%$ 和 $3 0 . 3 \%$ ，‘先玉508'分别升高了 $20 . 9 \%$ ！ $2 5 . 3 \%$ 和 $2 3 . 3 \%$ ，表明吐丝前氮肥对‘先玉508'干物质积累的促进作用较大，而吐丝后‘正红311'干物质积累的增幅更高，且氮肥对‘正红311'干物质积累的促进作用更大。‘正红311'和‘先玉 $5 0 8 ^ { \circ }$ 花后物质生产分别占全生育期的 $5 7 . 0 \%$ 和 $5 5 . 2 \%$ ，可见花后干物质生产比例对玉米产量有重要影响，而花后/花前干物质积累比例'正红311'较'先玉508'高$7 . 1 \text{‰}$ （20
+
+# 2.2 氮肥对不同耐低氮性玉米品种花后光合生产能力的影响
+
+施氮显著提高了玉米吐丝期叶片的净光合速率$( P _ { \mathrm { { n } } } )$ 、气孔导度 $( G _ { \mathrm { s } } )$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \mathrm { i } } )$ 和蒸腾速率$( T _ { \mathrm { r } } )$ 。表1结果表明，不同耐低氮性玉米品种吐丝期叶片光合参数差异显著。B1处理下，耐低氮品种‘正红311'较低氮敏感品种'先玉 $5 0 8 ^ { \circ } P _ { \mathrm { n } } .$ 、 $G _ { \mathrm { s } }$ 和 $T _ { \mathrm { r } }$ 分别高 $9 . 2 \%$ 、 $12 . 5 \%$ 和 $2 8 . 2 \%$ ，而 $G _ { \mathrm { i } }$ 低 $1 9 . 9 \%$ ，表明正红311'在低氮条件下仍能保持较高的光合速率，保证了其低氮条件下的物质生产。与B1相比，耐低氮品种‘正红311'施氮处理 $P _ { \mathrm { n \cdot } }$ 银 $G _ { \mathrm { s } } { \mathrm { . } }$ $G _ { \mathrm { i } }$ 和 $T _ { \mathrm { r } }$ 平均分别升高 $1 1 . 0 \%$ 、 $4 2 . 2 \%$ 、 $4 8 . 2 \%$ 和 $2 9 . 7 \%$ ，而低氮敏感品种‘先玉508'分别升高 $1 7 . 5 \% . 7 3 . 9 \% . 6 7 . 6 \%$ 和 $6 9 . 2 \%$ 表明氮肥对‘先玉 $5 0 8 ^ { \circ }$ 吐丝期叶片光合参数的促进作用大于‘正红311'。
+
+玉米生育期内叶面积指数(LAI)的大小和功能期的长短关系着叶片光合能力的强弱，影响其物质
+
+![](images/de1ef28b247f763d13d230314003f4dca0f2420490fe83c9109e352657ce0d20.jpg)  
+图1不同氮水平下耐低氮玉米品种·正红311'和低氮敏感玉米品种‘先玉 508花前(A)、花后(B)、全生育期(C)干物质积累和花前花后干物质积累比值(D)
+
+Fig.1Pre-silking(A),post-silking (B)and whole growth period(C)biomassaccumulationand its ratioof pre-silking to post-silking (D)of low-nitrogen tolerantand sensitive maize cultivars under different nitrogen fertilization levels B1:施氮量为 $0 \ \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ；B2:施氮量为 $9 0 ~ \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ；B3:施氮量为 $1 8 0 \ \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 }$ ；B4:施氮量为 $2 7 0  { \mathrm { \ k g } } (  { \mathrm { N } } ) \cdot  { \mathrm { h m } } ^ { - 2 }$ ；B5:施氮量为   
+$3 6 0 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ;B6:施氮量为 $4 5 0 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ 。数据为3次重复的平均值 $\cdot \pm$ 标准误，不同小写字母表示在0.05水平上差异显著。下同。 1: nitrogen fertilization level of $0 \mathrm { \ k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ; B2:nitrogen fertilization level of $9 0  { ~ \mathrm { k g } _ { } } (  { \mathrm { N } } ) \cdot  { \mathrm { h m } } ^ { - 2 }$ ; B3:nitrogen fertilization level of   
+$1 8 0  { ~ \mathrm { \ k g } _ { \mathrm { ( N ) \cdot h m } } } ^ { - 2 }$ ； B4: nitrogen fertilization level of $2 7 0  { \mathrm { \ k g } } (  { \mathrm { N } } ) { \cdot }  { \mathrm { h m } } ^ { - 2 }$ ； B5: nitrogen fertilization level of $3 6 0 \ \mathrm { k g ( N ) } { \cdot } \mathrm { h m } ^ { - 2 }$ ； B6: nitrogen ertilization level of $4 5 0 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ . Values are means±S.E. $\scriptstyle ( n = 3$ ).Bars with different letters are significantly different ( $\left( P < 0 . 0 5 \right)$ ). The same elow.
+
+表1不同氮水平下不同耐低氮性玉米品种吐丝期光合参数 Table1Photosynthetic parametersat silkingstageoflow-nitrogen tolerantandsensitive maizecultivars under diferent nitrogen fertilizationlevels   
+
+<html><body><table><tr><td>品种(耐低氮性) Cultivar (low-ntrgen</td><td>氮水平 Nitrogenfertliation</td><td>净光合速率 Pn(μmol·m-2-s-1)</td><td>气孔导度 Gs(mol·m-2.s-1)</td><td>胞间CO浓度 Ci(μmol·mol-1)</td><td>蒸腾速率 Tr(mmol·m-2.s-1)</td></tr><tr><td>正红311</td><td>B1</td><td>26.80±0.62d</td><td>0.18±0.01g</td><td>59.19±2.06h</td><td>5.23±0.16f</td></tr><tr><td>(耐低氮品种) Zhenghong 311</td><td>B2</td><td>29.00±0.56c</td><td>0.25±0.00ef</td><td>82.26±3.13f</td><td>6.27±0.27de</td></tr><tr><td>(low-nitrogen tolerant cultivar)</td><td>B3</td><td>28.93±0.49c</td><td>0.26±0.01d</td><td>82.27±3.15f</td><td>6.63±0.42cd</td></tr><tr><td>先玉508</td><td>B4</td><td>30.76±0.62a</td><td>0.28±0.01c</td><td>109.64±3.22d</td><td>7.88±0.26a</td></tr><tr><td rowspan="12">(低氮敏感品种) Xianyu 508 (low-nitrogen sensitive cultvar)</td><td>B5</td><td>31.12±0.31a</td><td>0.25±0.01de</td><td>93.75±2.42e</td><td>6.63±0.46cd</td></tr><tr><td>B6</td><td>28.91±0.70c</td><td>0.25±0.01de</td><td>70.69±1.65g</td><td>6.51±0.24cd</td></tr><tr><td>平均值 Average</td><td>29.25</td><td>0.25</td><td>82.97</td><td>6.53</td></tr><tr><td>B1</td><td>24.54±0.59e</td><td>0.16±0.01h</td><td>73.88±3.98g</td><td>4.08±0.30g</td></tr><tr><td>B2</td><td>27.19±0.92d</td><td>0.25±0.01def</td><td>123.55±7.46c</td><td>5.70±0.20ef</td></tr><tr><td>B3</td><td>27.30±0.33d</td><td>0.31±0.01b</td><td>157.53±6.19a</td><td>6.49±0.36cd</td></tr><tr><td>B4</td><td>29.91±0.02abc</td><td>0.32±0.01ab</td><td>136.80±5.83b</td><td>7.42±0.37ab</td></tr><tr><td>B5</td><td>30.52±1.54ab</td><td>0.33±0.02a</td><td>107.64±5.44d</td><td>7.84±0.13a</td></tr><tr><td>B6</td><td>29.21±1.67bc</td><td>0.23±0.00f</td><td>93.66±3.62e</td><td>7.04±0.68bc</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Average</td><td>28.11</td><td>0.27</td><td>115.51</td><td>6.43</td></tr></table></body></html>
+
+数据为3次重复的平均值±标准误，同列不同小写字母表示在0.05水平上不同品种 $^ { 1 } \times$ 不同氮水平间差异显著。Values are means $\pm$ S.E. $\scriptstyle ( n = 3$ ）Valuesofdituiadtrofertlolsoufdftsiatlt $P <$ 0.05).The same below.
+
+生产能力。由图2可见，耐低氮品种‘正红311'花前、开花和花后LAI均显著高于低氮敏感品种‘先玉 $5 0 8 ^ { \circ }$ 且随生育进程推进两品种LAI的差异程度加大。施氮显著提高了玉米花前、开花和花后的LAI，与B1相比，耐低氮品种‘正红311'施氮处理平均分别提高$1 6 . 9 \%$ 、 $2 7 . 0 \%$ 和 $3 0 . 8 \%$ ，低氮敏感品种分别提高$1 1 . 5 \%$ 、 $3 9 . 9 \%$ 和 $3 1 . 6 \%$ ，表明氮肥对‘正红311'花前
+
+LAI的促进作用大于‘先玉 $5 0 8 ^ { \circ }$ ，氮肥促使‘正红311在花前就达到较高的LAI，延长其高LAI持续时间。耐低氮品种‘正红311'各氮水平下花后、花前 LAI均显著高于低氮敏感品种，各处理平均‘正红311'较‘先玉 508'高 $3 5 . 0 \%$ ，表明与‘先玉508'相比，‘正红311'生育中后期仍能保持较高的LAI，保证了其花后较高的干物质生产能力。
+
+![](images/1eb5aad4b8e898c4cd0f611e2076564a83bf0b53c672522cfde68b62201d5d08.jpg)  
+图2不同氮水平下耐低氮玉米品种‘正红311'和低氮敏感玉米品种先玉 508'花前(A)、花后(B)、全生育期(C) 叶面积指数和花前花后叶面积比(D) Fig.2Pre-ilking(A),post-silking(B)andwhole growth perd(C)leafareaindexanditsratioofpre-silkingtopost-siling(D)of low-nitrogen tolerant and sensitive maize cultivars under different nitrogen fertilization levels
+
+植物叶片叶绿素含量变化可有效反映叶片生理状态和衰老进程。表2结果表明，随施氮量增加玉米叶片叶绿素含量总体上呈增加的趋势，在时间上玉米花后叶片叶绿素含量表现出先减后增再减的变化规律，且在吐丝后 $2 0 ~ \mathrm { d }$ 达到最高。耐低氮品种‘正红311'吐丝后叶片叶绿素含量在吐丝、吐丝后 $1 0 { \mathrm { d } } .$ $2 0 ~ \mathrm { d }$ 和 $3 0 \mathrm { ~ d ~ }$ 较‘先玉508'平均高 $2 . 3 \%$ 、 $7 . 1 \%$ 、 $1 . 7 \%$ 和 $8 . 3 \%$ ，平均提高 $4 . 8 5 \%$ ，表明在叶绿素含量下降的时期两品种差异加大，‘正红311'在该时期能够更好地维持叶片叶绿素含量，保证较高的干物质生产。施氮显著提高吐丝后各时期玉米叶片的叶绿素含量，与B1相比，各时期‘正红311'和‘先玉508'叶绿素含量施氮处理平均分别提高 $2 4 . 5 \%$ 和 $23 . 8 \%$ ，表明氮肥对两类品种吐丝后叶片叶绿素含量的促进作
+
+用差异不明显。
+
+# 2.3不同耐低氮性玉米品种花后叶片生理特性变化
+
+表3结果表明，两玉米品种花后功能叶全氮含量随着生育进程而不断下降，但两品种的降幅差异较大。‘正红311'和‘先玉508'花后叶片平均氮含量分别为 $2 5 . 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $2 5 . 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，差异不显著；但是吐丝一成熟期叶片全氮含量分别下降 $3 1 . 5 \%$ 和$34 . 9 \%$ ，‘正红311'降幅低于‘先玉 ${ 5 0 8 } ^ { \cdot }$ ，可见‘正红311'叶片在生育后期仍能保持较高的氮含量，氮代谢旺盛。施氮显著升高了玉米吐丝后叶片氮含量，与B1相比，‘正红311'施氮处理花后叶片氮含量平均升高 $2 5 . 3 \%$ ，‘先玉508'升高 $2 7 . 8 \%$ ，氮肥对‘先玉508'花后叶片氮含量的促进作用大于‘正红311'。这表明较高的施氮量有利于‘先玉508'维持花后叶片的全氮含量，低氮条件下‘先玉 $5 0 8 ^ { \circ }$ 会由于叶片氮含量大幅下降，使其叶片光合能力下降而早衰，影响最终产量的形成。
+
+表2不同氮水平下不同耐低氮性玉米品种花后叶绿素含量 TableChlorophyllcontent after silking of low-nitrogen tolerant and sensitive maizecultivars under different nitrogen fertilization levels mg:g   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="4"></td><td rowspan="2">平均值</td></tr><tr><td>旺g</td><td></td><td></td><td>30d丝后-30kng</td></tr><tr><td>正红311</td><td>B1</td><td>2.18±0.05h</td><td>2.02±0.02g</td><td>2.63±0.02g</td><td>2.02±0.04h</td><td>2.21</td></tr><tr><td>(耐低氮品种) Zhenghong 311</td><td>B2</td><td>2.70±0.04f</td><td>2.40±0.07e</td><td>2.83±0.02f</td><td>2.33±0.03e</td><td>2.57</td></tr><tr><td>(low-nitrogen tolerant cultivar)</td><td>B3</td><td>2.99±0.02e</td><td>2.52±0.04d</td><td>2.92±0.02e</td><td>2.66±0.04bc</td><td>2.77</td></tr><tr><td rowspan="9">先玉508</td><td>B4</td><td>3.23±0.05b</td><td>2.66±0.04c</td><td>3.04±0.04d</td><td>2.70±0.03b</td><td>2.90</td></tr><tr><td>B5</td><td>3.34±0.01a</td><td>2.75±0.01b</td><td>3.30±0.01a</td><td>2.76±0.03a</td><td>3.04</td></tr><tr><td>B6</td><td>3.34±0.01a</td><td>2.90±0.02a</td><td>3.24±0.06b</td><td>2.63±0.01c</td><td>3.03</td></tr><tr><td>平均值 Average</td><td>2.96</td><td>2.54</td><td>2.99</td><td>2.52</td><td>2.75</td></tr><tr><td>B1</td><td>2.25±0.05g</td><td>1.91±0.04h</td><td>2.41±0.03h</td><td>1.94±0.01i</td><td>2.13</td></tr><tr><td>B2</td><td>2.66±0.02f</td><td>2.10±0.03f</td><td>2.91±0.03e</td><td>2.07±0.02g</td><td>2.44</td></tr><tr><td>B3</td><td>3.02±0.01e</td><td>2.51±0.03d</td><td>3.09±0.06cd</td><td>2.20±0.04f</td><td>2.70</td></tr><tr><td>B4</td><td>3.08±0.04d</td><td>2.54±0.05d</td><td>3.06±0.02cd</td><td>2.57±0.01d</td><td>2.81</td></tr><tr><td>B5</td><td>3.17±0.02c</td><td>2.56±0.02d</td><td>3.09±0.01cd</td><td>2.57±0.05d</td><td>2.85</td></tr><tr><td></td><td>B6</td><td>3.20±0.01bc</td><td>2.62±0.02c</td><td>3.10±0.02c</td><td>2.58±0.04d</td><td>2.87</td></tr><tr><td></td><td>平均值 Average</td><td>2.90</td><td>2.37</td><td>2.94</td><td>2.32</td><td>2.63</td></tr></table></body></html>
+
+表3不同氮水平下不同耐低氮性玉米品种花后叶片氮含量变化 Table 3Changes ofnitrogen concentrationsinleaves atpost-silking stageoflow-nitrogen tolerantandsensitive maizecultivars under different nitrogen fertilization levels g:kg-1   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="4"></td><td rowspan="2">平均值</td></tr><tr><td>吐丝 Silking</td><td></td><td></td><td>30dp后30dng</td></tr><tr><td>正红311</td><td>B1</td><td>22.5±1.1e</td><td>22.5±0.2d</td><td>21.5±0.5f</td><td>17.0±0.3g</td><td>20.9</td></tr><tr><td>(耐低氮品种) Zhenghong 311</td><td>B2</td><td>27.5±0.4c</td><td>26.8±0.1c</td><td>24.8±0.2bcd</td><td>18.9±0.1f</td><td>24.5</td></tr><tr><td>(low-nitrogen tolerant cultivar)</td><td>B3</td><td>30.6±0.2b</td><td>28.6±0.4b</td><td>26.3±0.8a</td><td>20.9±0.2ab</td><td>26.6</td></tr><tr><td rowspan="8">先玉508</td><td>B4</td><td>30.4±0.3b</td><td>28.6±0.6b</td><td>26.7±0.4a</td><td>20.8±0.4ab</td><td>26.6</td></tr><tr><td>B5</td><td>32.2±0.7a</td><td>29.0±0.2b</td><td>25.4±0.9b</td><td>21.1±0.0a</td><td>26.9</td></tr><tr><td>B6</td><td>30.2±0.7b</td><td>30.8±0.6a</td><td>23.3±0.2e</td><td>20.4±0.1bc</td><td>26.2</td></tr><tr><td>平均值 Average</td><td>28.9</td><td>27.7</td><td>24.7</td><td>19.8</td><td>25.3</td></tr><tr><td>B1</td><td>22.3±0.1e</td><td>22.0±0.2d</td><td>20.7±0.4f</td><td>16.4±0.4h</td><td>20.3</td></tr><tr><td>B2</td><td>26.6±0.5d</td><td>26.2±0.1c</td><td>24.1±0.1de</td><td>18.5±0.2f</td><td>23.8</td></tr><tr><td>B3</td><td>31.0±0.2b</td><td>28.8±0.7b</td><td>24.4±0.2d</td><td>19.4±0.5e</td><td>25.9</td></tr><tr><td>B4</td><td>32.5±0.6a</td><td>28.9±0.4b</td><td>25.4±0.5bc</td><td>19.6±0.2de</td><td>26.6</td></tr><tr><td>cultiviar)</td><td>B5</td><td>32.3±0.5a</td><td>30.0±0.4a</td><td>24.3±0.2d</td><td>20.1±0.3c</td><td>26.7</td></tr><tr><td></td><td>B6</td><td>30.4±0.1b</td><td>30.8±0.3a</td><td>24.6±0.9cd</td><td>20.0±0.4cd</td><td>26.5</td></tr><tr><td></td><td>平均值 Average</td><td>29.2</td><td>27.8</td><td>23.9</td><td>19.0</td><td>25.0</td></tr></table></body></html>
+
+植物光合作用和植物生长的调控依赖于植物本身的C/N值，而不是单独的碳水化合物。表4结果表明，随生育进程推进，两供试玉米品种花后叶片C/N值升高，在成熟期达到最大值。两品种花后叶片C/N值差异显著，‘先玉508'较‘正红311'各时期分别高 $7 . 4 \%$ 、 $2 . 1 \%$ 、 $7 . 1 \%$ 和 $7 . 2 \%$ ，平均提高 $5 . 9 5 \% _ { \textmd c }$ ，施氮显著降低了玉米叶片花后C/N值，与B1相比，‘正红 311'和‘先玉 ${ 5 0 8 } ^ { \cdot }$ 各时期施氮处理平均分别降低$20 . 7 \%$ 和 $1 9 . 6 \%$ ，表明施氮更有利于‘正红311'花后叶片C/N值维持在较低水平，延缓其花后叶片的衰老，保持较高的光合能力。
+
+2.4不同氮水平下玉米产量变化图3结果表明，施氮显著提高了玉米的产量，不同耐低氮性玉米品种产量差异显著。耐低氮性品种‘正红311'在各施氮水平下产量均高于低氮敏感品种先玉 $5 0 8 ^ { \circ }$ ，‘正红311'产量较‘先玉508'平均高$8 . 8 \%$ 。与B1相比，‘正红311'和‘先玉 ${ 5 0 8 } ^ { \cdot }$ 各施氮处理平均产量分别升高 $12 . 0 \%$ 和 $1 3 . 3 \text{‰}$ 低氮敏感品种先玉508'产量增幅高于耐低氮品种‘正红311'，表明施用氮肥更有利于低氮敏感品种‘先玉508'产量的提高。
+
+表4不同氮水平下不同耐低氮性玉米品种花后叶片C/N变化 Table4ChangesofC/Nratioinleaves atpost-silking stageoflow-nitrogen tolerantandsensitive maizecultivars underdierent nitrogen fertilization levels %   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="4"></td><td rowspan="2">平均值 Average</td></tr><tr><td>g</td><td></td><td></td><td>30ds后-3idng</td></tr><tr><td>正红311</td><td>B1</td><td>17.06±0.54b</td><td>18.07±0.29a</td><td>17.55±0.12b</td><td>22.77±0.39b</td><td>18.86</td></tr><tr><td>(耐低氮品种) Zhenghong 311 (low-nitrogen</td><td>B2</td><td>14.32±0.18d</td><td>15.09±0.26b</td><td>16.25±0.40c</td><td>20.61±0.12d</td><td>16.57</td></tr><tr><td>tolerant cultivar)</td><td>B3</td><td>11.45±0.18g</td><td>13.43±0.25d</td><td>15.28±0.15de</td><td>18.13±0.38g</td><td>14.57</td></tr><tr><td></td><td>B4</td><td>11.39±0.30g</td><td>13.91±0.21c</td><td>14.43±0.11f</td><td>18.93±0.28f</td><td>14.66</td></tr><tr><td rowspan="8">先玉508 (低氮敏感品种) Xianyu 508</td><td>B5</td><td>10.77±0.23h</td><td>12.86±0.20e</td><td>14.78±0.20ef</td><td>17.79±0.45g</td><td>14.05</td></tr><tr><td>B6</td><td>12.48±0.14f</td><td>12.71±0.07e</td><td>16.30±0.30c</td><td>18.01±0.37g</td><td>14.87</td></tr><tr><td>平均值 Average</td><td>12.91</td><td>14.35</td><td>15.76</td><td>19.37</td><td>15.60</td></tr><tr><td>B1</td><td>17.53±0.13a</td><td>18.08±0.03a</td><td>19.16±0.19a</td><td>24.27±0.07a</td><td>19.76</td></tr><tr><td>B2</td><td>15.13±0.14c</td><td>15.29±0.20b</td><td>16.63±0.63c</td><td>21.58±0.27c</td><td>17.16</td></tr><tr><td>B3</td><td>12.53±0.19f</td><td>14.00±0.17c</td><td>16.52±0.07c</td><td>20.88±0.12d</td><td>15.98</td></tr><tr><td>B4</td><td>12.38±0.02f</td><td>13.76±0.06c</td><td>15.66±0.05d</td><td>19.09±0.48ef</td><td>15.22</td></tr><tr><td>B5</td><td>12.33±0.17f</td><td>13.41±0.28d</td><td>16.60±0.41c</td><td>19.26±0.17ef</td><td>15.40</td></tr><tr><td></td><td>B6</td><td>13.29±0.10e</td><td>13.32±0.05d</td><td>16.70±0.46c</td><td>19.47±0.14e</td><td>15.69</td></tr><tr><td></td><td>平均值 Average</td><td>13.86</td><td>14.64</td><td>16.88</td><td>20.76</td><td>16.54</td></tr></table></body></html>
+
+![](images/4b17227269543f7fd7ec68ae984b5720c20a5da62eb7c528ea5a685af26255e1.jpg)  
+图3不同氮水平下不同耐低氮性玉米品种玉米产量 Fig.3Yields of low-nitrogen tolerant (Zhenghong 31l) and sensitive(Xianyu 5o8) maize cultivars under different nitrogen fertilization levels
+
+# 3讨论
+
+干物质积累和分配是作物产量形成的基础，而花后群体物质生产能力直接决定着玉米最终产量的高低[32]。花前干物质积累主要用于茎叶等营养器官的建成，为产量形成奠定基础，而花后光合产物的积累才是产量形成的关键[18]。孙雪芳等[22]研究指出不同玉米品种花后与花前物质生产比例及最终产量水平高低不同。本试验结果表明耐低氮品种‘正红311'花前、花后和总干物质积累量均显著高于低氮敏感品种‘先玉508'，且两类品种花后干物质积累差异显著高于花前。‘先玉508'花前干物质积累较多，花后与花前干物质积累比例较低，且产量较低；而\*正红311'花后干物质积累较多，花后与花前干物质积累比例较高，且有较高产量，其花后与花前干物质积累比例和产量较‘先玉508'分别高 $7 . 1 \%$ 和 $7 . 7 \text{‰}$ 施用氮肥可显著提高玉米花前、花后和总干物质积累量，并且花后与花前干物质积累比例增加，最终提高籽粒产量。但施氮对耐低氮品种‘正红311'的促进作用显著大于低氮敏感品种‘先玉508'，本研究结果表明‘正红311'能更有效地利用氮素来提高干物质生产能力增加花后干物质的积累，为更高的籽粒产量奠定物质基础。
+
+玉米花后物质生产能力高低决定最终产量的高低，而花后物质生产能力则由花后叶片光合速率、有效绿叶面积共同决定[22-23]。花后物质生产较多及产量较高的玉米品种其后期叶片叶绿素含量和 $P _ { \mathrm { { n } } }$ 下降较缓慢，高光合时间延长为籽粒灌浆保证了充足的碳水化合物供应[22.32-33]。耐低氮品种‘正红311'吐丝期 $P _ { \mathrm { { n } } }$ 和蒸腾速率均高于低氮敏感品种‘先玉 $5 0 8 ^ { \circ }$ 5而 $G _ { \mathrm { i } }$ 则低于先玉 ${ 5 0 8 } ^ { \cdot }$ 。施氮显著提高了玉米吐丝期各项光合参数，但对‘先玉508'的促进作用大于‘正红311'，这表明‘先玉508'需要较高的施氮水平才能维持其高光合速率。‘正红311'花前、开花和花后LAI均显著高于‘先玉508'，且在花后两品种差异达最大，施氮对‘正红311'花前促进作用较大，对‘先玉508'花后促进作用较大。表明‘正红311'在生育前期就能利用氮素供应大幅提高叶面积并延长其高LAI时间，而‘先玉508'生育后期需要充足的氮肥供应才能防止叶片早衰，维持一定的LAI。综上所述，耐低氮品种正红311'吐丝期更高的光合速率、更大的光合叶面积以及缓解后期叶片中叶绿素的降解、延缓叶片衰老等因素保证了‘正红311'花后较高的物质生产和较高的产量；而低氮敏感品种‘先玉508'需要较高的施氮量来维持花后光合速率和光合面积，花后叶片中叶绿素含量大幅下降，缩短了叶片维持高光合速率的功能期，导致‘先玉508'花后干物质积累和产量均较低。
+
+C/N值作为营养诊断的指标，可以反映碳氮代谢的协调程度，确定玉米叶片不同时期的C/N值可以了解叶片的碳氮平衡，明确叶片的光合状态[23]。玉米生育后期籽粒灌浆速率逐渐下降，库容能力降低使叶片碳同化产物大量积累，且叶片衰老，氮代谢能力逐渐降低，使叶片C/N值升高[23]。本试验结果表明玉米花后叶片全氮含量随生育进程降低，而C/N值随生育进程升高，与前人[22-23]研究结果一致。两供试品种花后早期叶片全氮含量差异不大，但后期耐低氮品种‘正红311'叶片全氮含量降幅比低氮敏感品种‘先玉508'低，使'正红311'生育后期叶片氮含量较‘先玉508'高。施氮显著提高了花后叶片氮含量对‘先玉508'的促进作用大于‘正红311'，表明‘先玉508'在生育后期需要较高的施氮量来维持其叶片氮含量，以延缓叶片的衰老，延长功能期。C/N值可以反映碳同化物的转运情况，C/N值过高营养体过度积累、氮素流失将导致叶片早衰，光合能力下降[22]。花后各时期叶片C/N值'正红311'较‘先玉508'均更低，且施氮更有利于‘正红311'叶片C/N值维持在较低水平，较低的C/N值可以延缓‘正红311'叶片的衰老，延长叶片光合时间。
+
+# 4结论
+
+施氮可以显著提高玉米干物质积累、叶面积指数和吐丝期叶片光合速率，延缓花后叶片叶绿素含量和全氮含量的下降，抑制生育后期叶片C/N值的增加，从而提高玉米产量。不同耐低氮性玉米品种干物质积累和产量的差异主要来自于花后叶片功能特性差异。与低氮敏感品种‘先玉508'相比，耐低氮品种‘正红311'花后叶片光合速率较高、叶面积指数较大，同时叶片叶绿素含量和全氮含量降幅与C/N值增幅更低，延缓了‘正红311'生育后期叶片的衰老，延长了叶片的功能期，最终增加干物质积累和产量。施用氮肥可以有效提高‘正红311'干物质积累、叶面积指数和产量，延缓其生育后期叶片C/N值升高，而低氮敏感品种‘先玉508'需要较高的施氮水平才能维持其花后叶片光合速率和全氮含量。
+
+# 参考文献 References
+
+[1]Jia X C,Shao LJ,Liu P,etal.Effect of different nitrogen and irrigation treatments on yield and nitrate leaching of summer maize(Zea mays L.） under lysimeter conditions[J]. Agricultural Water Management, 2014,137: 92-103 [2]Guo ZJ,Zhang YL,Zhao JY,et al. Nitrogen use by winter wheat and changes in soil nitrate nitrogen levels with supplemental irrigation based on measurement of moisture content in various soil layers[J]. Field Crops Research,2014, 164: 117-125 [3] Caviglia O P,Melchiori R J M,Sadras V O. Nitrogen utilization efficiency in maize as affected by hybrid and N rate in late-sown crops[J]. Field Crops Research,2014,168: 27-37   
+[4] Tran T T,Kano-Nakata M,Takeda M,et al. Nitrogen application enhanced the expression of developmental plasticity of root systems triggered by mild drought stress in rice[J]. Plant and Soil,2014,378(1/2): 139-152   
+[5] Wang Z,LiJS,LiYF.Effects of drip system uniformity and nitrogen application rate on yield and nitrogen balance of spring maize in the North China Plain[J].Field Crops Research,2014,159:10-20   
+[6] 隽英华，汪仁，孙文涛，等．春玉米产量、氮素利用及矿质 氮平衡对施氮的响应[J].土壤学报,2012,49(3):544-551 Juan Y H,Wang R,Sun W T,et al.Response of spring maize to nitrogen application in grain yield, nitrogen utilization and mineral nitrogen balance[J].Acta Pedologica Sinica,2012, 49(3): 544-551   
+[7] 刘忠，黄峰，李保国．2003一2011 年中国粮食增产的贡献 因素分析[J]．农业工程学报,2013,29(23):1-8 Liu Z,Huang F,Li B G.Investigating contribution factors to China's grain output increase in period of 2003 to 2011[J]. Transactions of the CSAE,2013,29(23):1-8 [8] 张文婧，王昌全，袁大刚，等．四川省主要作物施肥现状、 问题与对策[J]．土壤通报,2014,45(3):697-703 Zhang WJ,Wang C Q,Yuan D G, et al. Status,problems and countermeasures of main crops’fertilizer application in Sichuan Province[J]. Chinese Journal of Soil Science,2014, 45(3): 697-703 [9] Ciampitti I A,Vyn TJ.Physiological perspectives of changes over time in maize yield dependency on nitrogen uptake and associated nitrogen efficiencies:A review[J].Field Crops Research,2012,133:48-67   
+[10] Abdel-Ghani A H,Kumar B,Reyes-Matamoros J,et al.
+
+Genotypic variation and relationships between seedling and adult plant traits in maize(Zea mays L.) inbred lines grown under contrasting nitrogen levels[J].Euphytica,2013,189(1): 123-133
+
+[11]巨晓棠．氮肥有效率的概念及意义—兼论对传统氮肥利 用率的理解误区[J]．土壤学报,2014,51(5):921-933 Ju X T. The concept and meanings of nitrogen fertilizer availability ratio-discussing misunderstanding of traditional nitrogen use efficiency[J]. Acta Pedologica Sinica,2014, 51(5): 921-933   
+[12]甄新爱，黄亚群，陈景堂，等．不同氮效率玉米基因型苗期 对光和氮响应的研究[J]．中国农学通报，2009，25(10): 89-95 Zhen X A,Huang Y Q,Chen JT,et al. The response of three maize inbred seedling with the different nitrogen use efficiency to light and nitrogen[J].Chinese Agricultural Science Bulletin,2009,25(10): 89-95   
+[13]王玲敏，叶优良，陈范骏，等．施氮对不同品种玉米产量、 氮效率的影响[J].中国生态农业学报,2012,20(5):529-535 Wang L M,Ye Y L,Chen F J,et al.Effect of nitrogen fertilization on maize yield and nitrogen eficiency of different maize varieties[J]. Chinese Journal of Eco-Agriculture,2012,20(5): 529-535   
+[14]陈范骏，房增国，高强，等．中国东华北部分地区玉米主推 品种高产氮高效潜力分析[J]．中国科学：生命科学，2013, 43(4): 342-350 Chen F J,Fang Z G, Gao Q,et al. Evaluation of the yield and nitrogen use efficiency of the dominant maize hybrids grown in North and Northeast China[J]. Science China Life Sciences, 2013,56(6): 552-560   
+[15] 宋振伟，齐华，张振平，等．春玉米中单 909 农艺性状和产 量对密植的响应及其在东北不同区域的差异[J]．作物学报, 2012,38(12): 2267-2277 Song Z W, Qi H, Zhang Z P,et al. Efects of plant density on agronomic traits and yield in spring maize Zhongdan 909 and their regional differencesin northeast China[J]．Acta Agronomica Sinica,2012,38(12): 2267-2277   
+[16]王永宏，王克如，赵如浪，等．高产春玉米源库特征及其关 系[J]．中国农业科学,2013,46(2):257-269 Wang Y H,Wang KR, Zhao RL,et al.Relationship between the source and sink of spring maize with high yield[J]. Scientia Agricultura Sinica,2013,46(2): 257-269   
+[17]王存凯，陈鹏飞，陶洪斌，等．玉米产量潜力及超高产物质 积累途径优化分析方法[J]．中国生态农业学报，2014, 22(12): 1414-1423 Wang C K, Chen PF, Tao HB,et al. Optimized FAO-AEZ model for estimation of maize yield potential and dry matter accumulation for super-high yield cultivation[J]. Chinese Journal of Eco-Agriculture,2014,22(12): 1414-1423   
+[18] Hashemi A M,Herbert S J,Putnam D H. Yield response of corn to crowding stress[J].Agronomy Journal, 20o5,97(3): 839-846   
+[19] 陈范骏，春亮，鲍娟，等．不同氮效率玉米杂交种的营养生 长及光合特征[J]．玉米科学,2006,14(6):127-130 Chen F J,Chun L，Bao J,et al. Vegetative growth and
+
+photosynthetic characteristics of maize hybrids differing in nitrogen use efficiency[J].Journal of Maize Sciences,2006, 14(6): 127-130
+
+[20]崔超，高聚林，于晓芳，等．不同氮效率基因型高产春玉米花粒期干物质与氮素运移特性的研究[J].植物营养与肥料学报,2013,19(6): 1337-1345
+
+Cui C,Gao JL,Yu X F,et al. Dry matter accumulation and nitrogen migration of high-yielding spring maize for diferent nitrogen eficiency in the flowering and milking stages[J]. Journal of Plant Nutrition and Fertilizer,2013,19(6): 1337-1345   
+[21]李文娟，何萍，高强，等．不同氮效率玉米干物质形成及氮 素营养特性差异研究[J]．植物营养与肥料学报,2010,16(1): 51-57 Li W J, He P, Gao Q,et al. Dry matter formation and nitrogen uptake in two maize cultivars differing in nitrogen use efficiency[J].Plant Nutrition and Fertilizer Science,2010, 16(1): 51-57   
+[22] 孙雪芳，丁在松，侯海鹏，等．不同春玉米品种花后光合物 质生产特点及碳氮含量变化[J]．作物学报，2013，39(7): 1284-1292 Sun X F,Ding Z S,Hou H P,et al． Post-anthesis photosynthetic assimilation and the changes of carbon and nitrogen in different varieties of spring maize[J].Acta Agronomica Sinica,2013,39(7):1284-1292   
+[23] 陈传永，侯海鹏，李强，等．种植密度对不同玉米品种叶片 光合特性与碳、氮变化的影响[J]．作物学报，2010,36(5): 871-878 Chen C Y,Hou HP,Li Q,et al. Effects of planting density on photosynthetic characteristics and changes of carbon and nitrogen in leaf of different corn hybrids[J].Acta Agronomica Sinica,2010,36(5): 871-878   
+[24]戴明宏，赵久然，杨国航，等．不同生态区和不同品种玉米 的源库关系及碳氮代谢[J]．中国农业科学，2011，44(8): 1585-1595 Dai M H, Zhao JR,Yang G H, et al. Source-sink relationship and carbon-nitrogen metabolism of maize in different ecological regions and varieties[J]. Scientia Agricultura Sinica,2011,44(8): 1585-1595   
+[25]春亮，陈范骏，张福锁，等．不同氮效率玉米杂交种的根系 生长、氮素吸收与产量形成[J]．植物营养与肥料学报,2005, 11(5): 615-619 Chun L,Chen F J, Zhang F S,et al.Root growth,nitrogen uptake and yield formation of hybrid maize with different N efficiency[J].Plant Nutrition and Fertilizer Science,2005, 11(5): 615-619   
+[26] 崔文芳，高聚林，孙继颖，等．不同氮效率的玉米自交系氮 素生产效率分析[J]．中国土壤与肥料,2014(4):61-66 Cui W F,Gao JL,Sun JY,et al.The analysis of different nitrogen efficient of maize inbred line in different nitrogen application level[J]. Soils and Fertilizer Sciences in China, 2014(4): 61-66   
+[27]马存金，刘鹏，赵秉强，等．施氮量对不同氮效率玉米品种 根系时空分布及氮素吸收的调控[J]．植物营养与肥料学报, 2014,20(4): 845-859 Ma C J,Liu P,Zhao B Q,et al.Regulation of nitrogen application rate on temporal and spatial distribution of roots and nitrogen uptake in different N use efficiency maize cultivars[J]. Journal of Plant Nutrition and Fertilizer,2014, 20(4):845-859   
+[28]李强，罗延宏，龙文靖，等．低氮胁迫对不同耐低氮性玉米 品种苗期生长和生理特性的影响[J]．草业学报,2014,23(4): 204-212 LiQ,Luo YH,Long WJ,et al.Effect of low nitrogen stress on different low nitrogen tolerance maize cultivars seedling stage growth and physiological characteristics[J]. Acta Prataculturae Sinica,2014,23(4):204-212   
+[29]李强，罗延宏，谭杰，等．玉米杂交种苗期耐低氮指标 的筛选与综合评价[J]．中国生态农业学报，2014，22(10): 1190-1199 Li Q，Luo Y H,Tan J,et al.Indexes screening and comprehensive evaluation of low nitrogen tolerance of hybrid maize cultivars at seedling stage[J].Chinese Journal of Eco-Agriculture,2014,22(10):1190-1199 [30]邹琦．植物生理学实验指导[M]．北京：中国农业出版社,   
+2003:72-75 Zou Q.Experimental Guide of Physiology of Plant[M]. Beijing:Chinese Agricultural Press,20o3:72-75 [31]鲍士旦．土壤农化分析[M]．北京：中国农业出版社，2005:   
+30-35 Bao S D.Soil and Agricultural Chemistry Analysis[M]. Beijing:Chinese Agricultural Press,20o5:30-35 [32]Ning P,Li S,Yu P,et al. Post-silking accumulation and partitioning of dry matter,nitrogen， phosphorus and potassium in maize varieties differing in leaf longevity[J]. Field Crops Research,2013,144:19-27 [33]张玉芹，杨恒山，毕文波，等．不同栽培模式下春玉米生育 后期冠层生理特性研究[J]．华北农学报，2012，27(1):   
+145-150 Zhang Y Q,Yang H S,Bi W B,et al.Study of canopy structure and physiological characteristics of spring maize at late-growth stage under different cultivation patterns[J].Acta Agriculturae Boreali-sinica,2012,27(1):145-150

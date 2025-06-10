@@ -1,0 +1,610 @@
+[
+    {
+        "type": "text",
+        "text": "基于概率软逻辑的多层次识别和推理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张嘉la，张晖lb∗，杨春明la，赵旭剑la，李波la,2(1．西南科技大学a.计算机科学与技术学院,b.理学院，四川 绵阳 621010;3．中国科学技术大学 计算机科学与技术学院，合肥 230027)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着全球老龄化人口增长，老年人的日常行为监管和护理也成为极具挑战性的社会问题。为了应对这种不断增长的社会需求，提出了一种由数据和知识共同驱动、使用概率软逻辑（Probabilistic Soft Logic）和多层次分析对老年人的日常活动进行建模的方法，来解决老年人护理中的活动识别问题。实验表明，该方法在活动识别和异常活动检测上，比隐马尔可夫模型能产生更高的精度，并且，该方法比非层次识别方法具有更快的响应速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：概率软逻辑；老年人护理；多层次识别方法；机器学习 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.07.0706 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-level recognition and reasoning using probabilistic soft logic ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Jiala, Zhang Hui1bt, Yang Chunmingla, Zhao Xujianla, Li Bola,2 (1.a.School of Computer Science & Technology;b.School of Science，Southwest University of Science & Technology, Mianyang 621o10,China;2.SchoolofComputer&Technology,UniversityofScience&TechnologyofChina,Hefei230027, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Withthe globalaging population increasing,thedailybehaviorregulationandcareoftheold people have become a challnging socialproblem.Iordertodealwiththegrowingdemandofsociety,this paperproposesamethod thatisdrivenby datandknowledge,andusesPSL(probabilisticsoftlogic)andmult-levelanalysisformodelingtheoldpeople'sdailyactivities to solvete problemof nursing activityrecognition.Experiments showthatthe method has higher accuracy than HMM nthe eventidentificationandabnormalactivitydetection,andhasfasterresponsespeedthanthenon-hierarchicalrecognitionethod. Key Words: probabilistic soft logic; care for the old people; multi-level recognition method; machine learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据《中国老龄事业的发展》[1白皮书统计，65岁以上老人在2020年将达到2.4亿，占全国总人口的 $1 7 . 1 7 \\%$ ，预计到2050年将再增长一倍，老年人的日常行为监管和护理也成为极具挑战性的社会问题。为了应对这种不断增长的社会需求，需要设计一种能随时随地检测老年人异常活动的护理系统。日常行为的识别和推理是该系统的关键，通过日常行为来设计老年人护理系统是一项较大的挑战[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "要设计可以有效分类正常活动和异常活动的老年人护理系统需要进行如下步骤，一是部署在起居环境中的传感器要收集实时数据，为具体活动的判断提供依据；二是根据数据判断人物对象正在进行的活动以识别异常活动。在第二个步骤中，判断异常活动的模型要具有处理不完整的行为记录和时间记录等不确定性因素和执行前后事件推理的能力，将数据和知识相结合，引入概率推理模型来解决这个问题。基于知识的推理在整个护理系统中尤其重要，它需要领域专家或医生为其提供基础知识，将其称为常识，将这些常识集成到本文的模型中，有助于系统更好地完成推理。由于概率软逻辑（Probabilistic SoftLogic）能够使用基于一阶逻辑的语法来很好的表达推理过程，因此它是建模老年人护理系统的合适方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时，本文通过多层次分析，对诸如活动对象，时间，位置，持续时间等进行建模来判断异常活动。多层次分析的优点在于：分布式决策，速度快，只有在前一层判断为正常活动时才执行下一层；结合知识，有效提高推理能力；能基于不确定性因素和前后事件进行推理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文组织结构如下：第二部分为本文提出的基于概率软逻辑的多层次活动识别方法；第三部分为实验和分析；第四部分是总结和未来工作方向介绍。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 基于概率软逻辑的多层次活动识别",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1活动识别相关研究工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活动识别是一项较为复杂的工作，因为它涉及到监测，建模，判断等一系列繁琐的过程。目前关于活动识别的研究主要集中在数据驱动和知识驱动相关的方法上[2]，基于数据驱动的方法是通过传感器从环境中收集数据，使用概率统计方法进行分析和建模；基于知识驱动的方法主要是应用知识工程和管理技术在现有数据上进行系统构建。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于数据驱动的常用方法主要有朴素贝叶斯分类器（NBC）[18]，隐马尔科夫模型（HMM）[7]、动态贝叶斯网络（DBN）[19]和支持向量机（SVM）[I7]等。朴素贝叶斯分类器用于将依赖性建模为概率函数，并将其映射到活动标签，以得出最有可能的活动，但是它只有在大量的训练数据可用的情况下才能获得良好的效果，并且不能对智能家居应用重要的时间信息建模[2]，KhanZA等人[使用图像数据进行异常活动识别，对于类型相差较大的活动识别度较好，但是当活动相似度较高时识别效果不太理想。隐马尔科夫模型比较适合于智能家居应用，它可以对传感器数据中的时间信息建模分析并轻松地模拟时间关系，它是智能家居中建模人物活动最常用的方法，AssamR等人[7]提出的基于隐马尔科夫模型和小波变化的方法，能有效识别相似性较高的活动，然而对于复杂度较高、前后相关性较强的活动识别效果并不理想。HMM也可被视为动态贝叶斯网络的一个例子。SVM作为机器学习领域最常用的活动识别技术[2]，拥有强大的泛化能力，能从小样本的训练数据上进行分析，得到比其他算法优秀的结果，HeZ等人[17利用SVM、离散余弦变换（DCT）和主成分分析（PCA）对人类不同的活动进行分类，得到了较高的精度，然而它几乎不能表达事件的前后因果关系。这些方法的本质都是试图将活动分类，然而空间、时间或者不确定性因素之间的关系却不能在这些方法中得到很好的表示，并且，复用性也存在很大问题，即对另一个识别对象需要再次进行数据收集和分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "知识驱动的方法可以将人类行为和活动对象、空间、时间等因素关联起来，并且知识可以从领域专家和网络中获取[10]。因为大多数类似对象所涉及的知识都是相似的，所以知识驱动方法的复用效率显而易见。知识驱动的方法可以通过逻辑和本体进行构建并被表达为一系列的规则进行推理[2]，很大程度上考虑了各种因素之间的关系，但是在处理不确定性因素和时间输入上依然存在局限性[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，单纯的数据驱动和知识驱动的方法在时间、空间、逻辑关系和不确定因素的处理上都存在较多不足，因此，本文提出一种基于数据和知识共同驱动、使用概率软逻辑的多层次活动识别的方法来避免以上问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2概率软逻辑 (PSL) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "概率软逻辑（PSL）是由SHBach等人提出并开发的一种用于构造概率模型的机器学习框架[3]。PSL 使用基于一阶逻辑的语法来定义逻辑结构和关系特征等相关的规则。像MLNs和其他统计关系学习方法一样，PSL也使用加权规则来对问题中的依赖性进行建模[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是，与MLNs 和其他方法不同的是，PSL表示的逻辑关系是用概率的形式在区间[0,1]中使用软真值，而不是用布尔值0或1来代表域中的原子，这使得PSL的推理成为连续的优化问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1PSL语法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSL中的规则组成如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { P 1 } ( \\mathrm { X } , \\mathrm { Y } ) \\ \\wedge \\ \\operatorname { P 2 } ( \\mathrm { X } , \\mathrm { Y } ) > > \\operatorname { P 2 } ( \\mathrm { X } , Z ) : \\operatorname { w e i g h t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "P1和P2被称为谓词[3]，用于定义随机变量X，Y和Z之间的关系，weight表示权重，代表每条规则在推理中的重要程度。例如，在本文中，obj(S,O)表示第 S条记录的使用对象是O,isactivity(O,A）表示使用对象O所对应的活动状态是A，那么，根据obj和isactivity两个谓词的；组合就可以将第S条记录是活动A的概率表示出来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3基于概率软逻辑的多层次活动识别和异常活动检测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活动识别是通过对测试对象的个体行为和环境条件进行一系列的观察来分析个体活动状态[4]，达到所需的研究目标。在本文中，本文的研究目的是结合时间、空间位置等多因素对老年人的活动进行识别进而分析出其中的异常活动，为老年人的护理提供帮助。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文根据领域知识，活动空间，时间，活动持续时间等因素建立PSL规则，并将PSL规则分为五层，每一层只有在识别为正常活动的情况下才能执行下一层，流程如图1所示。以下是各层的具体职能：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一层：使用传感器识别异常活动；  \n第二层：根据活动开始时间识别异常活动；  \n第三层：根据活动的同时性识别异常活动；  \n第四层：根据活动位置识别异常活动;  \n第五层：根据活动的持续时间识别异常活动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每一层的规则数量可以不同，部分逻辑规则基于领域知识建立，以下几个小节用于解释每层规则的建立理由。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/15b9c246976dbe29d3b3879067576be8137805c3bb3397b4fa90006cca6c30cb.jpg",
+        "img_caption": [
+            "图1多层次活动识别流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1第一层：使用传感器识别异常活动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "规则1-1和规则1-2的作用是将使用对象映射到活动[9]，推测出可能的活动概率，如果概率很低，那么在作用对象上，判断为可能有异常活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e4e3342bd082407509d5869f0e6027666ff50cc0efd761a6ea3579427505d63.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">表1简单活动识别</td></tr><tr><td>规则1-1</td><td>Segment(S)^ obj(S,O)^ isactivity(O,A)= activity(S,A)</td></tr><tr><td rowspan=\"3\">规则1-2</td><td>Segment(S)^ obj(S,O)^ obj(S1,O1）^</td></tr><tr><td>addone(S,M) ^ notequal(O,O1) ^ isactivity(O,A)</td></tr><tr><td>⇒activity(S,A)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2第二层：根据活动开始时间识别异常活动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "规则2-1和规则2-2的作用是将对象使用开始时间映射到活动上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一层是使用对象对活动的映射，第二层加入了对开始时间的扩展。每条规则的权重可以通过已知数据进行学习。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "场景举例1A老人在凌晨2点使用灶具和锅碗等对象进行烹饪活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一层识别活动“烹饪”为正常活动，第二层开始识别，第二层将“凌晨2点开始烹饪”输出低概率，并识别为异常活动，并进行反馈。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/db6f7b912243b43aa1315740519d976b9ab77ac8bc621e0e1e057dc5455a5425.jpg",
+        "table_caption": [
+            "表2和开始时间相关联的活动识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规则2-1</td><td>Segment(S)^ objt(S,O,T)^ isactivity(O,A)= activityt(T,A)</td></tr><tr><td>规则2-2</td><td>Segment(S)^ objt(S.O,T)^ objt(S1,O1,T1)^ notequal(O,O1)^ timeadd(T,T1)^ addone(S,M)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3第三层：根据活动的同时性识别异常活动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第三层，规则3-1是将领域知识加入到规则里。forbiddenactivity表示的是知识里给出的不应该同时发生的活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "场景举例2A老人在早上8点开始进行烹饪活动，突然离开了厨房，没有关掉灶具，就去卧室睡觉。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "厨房和卧室发生的事件通过层1识别为烹饪和睡眠活动。这些活动在第2层被识别为正常活动，因为它们在早上8点发生都属于高概率事件。烹饪和睡眠是一对被禁止同时发生的活动，将在层3被识别为异常活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/099f583fe8d412ad776f9744b5bacfa3f37d3039a2c1d9a3feef945df33d6c62.jpg",
+        "table_caption": [
+            "表3并发活动识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规则3-1</td><td>activityt(T,A)/ forbiddenactivity(A,B)=</td></tr><tr><td></td><td>~activityt(T,B)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4第四层：根据活动位置识别异常活动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第四层的作用是关联位置信息以识别活动，并能够检测同",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时发生的活动。规则4-1和4-2是将位置和活动识别相关联，规则4-3来自于常识知识，作用是根据禁止的矛盾信息推理返回一个低概率来识别异常活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "场景举例3A老人在下午1点进入厨房，躺在地上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一层和第二层把“躺”识别为“睡眠”，属于正常活动。第三层识别没有并发活动，第四层识别在“厨房”这个位置产生“睡眠”这个活动是异常的。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/63283045a4f02af2cf86816e9689957f53463355a9f777e1265a28548f1d9367.jpg",
+        "table_caption": [
+            "表4和空间位置相关联的活动识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规则4-1</td><td>Segment(S)^ objtl(S,O,T,L）∧ isactivity(O,A)= activitytl(T,L,A)</td></tr><tr><td>规则4-2</td><td>Segment(S)^ objtl(S,O,T,L)^ objtl(S1,O1,T1,L1) ∧ notequal(O,O1)^ timeadd(T,T1)^ addone(S,M)</td></tr><tr><td></td><td>∧isactivity(O,A)⇒activitytl(T,L,A) objtl(S,O,T,L）∧ isactivity(O,A）^</td></tr><tr><td>规则4-3</td><td></td></tr><tr><td></td><td>forbiddenactivityl(A,L)= ~activityt(T,L,A)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5第五层：根据活动的持续时间识别异常活动",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第五层是将使用对象的持续时间关联到活动识别，根据领域知识，当使用某对象所持续时间超过平均标准时，反馈为异常活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "场景举例4A老人在早上8点10分进入卫生间开始沐浴，在8点50分时传感器仍然能感应水在流动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一层和第二层识别为“沐浴”，是正常活动；第三层识别没有禁止同时发生的活动，反馈为正常；第四层识别沐浴的位置信息也是合理的，反馈为正常；第五层识别到持续时间高于平均沐浴时间，反馈为异常。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本部分，阐述了数据和知识共同驱动、使用PSL、采用多层次分析方法的活动识别和异常活动检测系统的设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d509eaf9f05b4a1106f617f143b81967852fe7f8b640d86fd59815b878fad13c.jpg",
+        "table_caption": [
+            "表5和持续时间相关联的活动识别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规则5-1</td><td>Segment(S) ^ duration(S,O,D)^</td></tr><tr><td></td><td>isactivity(O,A) = activityt(D,A)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1实验数据 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所使用的数据集为UCI机器学习库所提供的日常活动数据集。该数据集包含两位用户一共35天内的日常活动数据，数据信息通过12种传感器收集得来。数据集具体描述在表6中可见。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据样例如表7所示，通过数据集已经给出的活动开始时间和结束时间，可以很容易的到活动的持续时间；对于空间位置，活动使用对象，开始时间等信息可以从数据中直接读取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进行评估，本文对每一层进行十次实验，每次实验中，随机选择 $70 \\%$ 的数据作为规则权重学习的训练数据，剩下 $30 \\%$ 作为测试数据，对于老年人所对应的异常活动，在位置、活动使用对象、开始时间和持续时间里引入异常因子，使其能为每一层产生异常活动测试用例，达到模拟老年人异常活动的目的。方法的准确度通过式2、3、4所示的精确率（Precision）、召回率(Recall)和F1值在十次实验中的平均值来度量。在本文里，式2和式3中的TP表示每次实验识别出异常活动的数量，FP表示正常活动被识别为异常活动的数量，FN表示异常活动被识别为正常的数量；Precision即正确判断的数量占识别出异常活动总数的比例，Recall为正确判断的数量占应识别出异常活动总量的比例，F1为准确率和召回率的调和平均数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab2a7bf1a586bd0e7c3fe083299be5060c61e7e3ba28964d41d9c6f1eb983724.jpg",
+        "table_caption": [
+            "表6实验数据集描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户</td><td>A</td><td>B</td></tr><tr><td>活动范围</td><td>4间屋子</td><td>5间屋子</td></tr><tr><td>时间跨度</td><td>14天</td><td>21天</td></tr><tr><td>日常活动</td><td colspan=\"2\">Leaving,Toileting,Showering,Sleeping,Breakfast,Lunch,Dinner, Snack,Spare_Time/TV，Grooming</td></tr><tr><td>传感器数量</td><td></td><td>12</td></tr><tr><td rowspan=\"10\"></td><td>PIR:</td><td></td></tr><tr><td>Shower，Basin，Cooktop</td><td>PIR:</td></tr><tr><td>Magnetic:</td><td>Shower,Basin,DoorKitchen,Door Bathroom,Door Bedroom</td></tr><tr><td>Maindoor,Fridge,Cabinet, Cupboard</td><td>Magnetic:</td></tr><tr><td>Flush:</td><td>Maindoor, Fridge, Cupboard</td></tr><tr><td>传感器类型 Toilet</td><td>Flush:</td></tr><tr><td>Pressure:</td><td>Toilet</td></tr><tr><td>Seat, Bed</td><td>Pressure:</td></tr><tr><td>Electric:</td><td>Seat,Bed</td></tr><tr><td>Microwave,</td><td>Electric: Microwave</td></tr><tr><td>Toaster</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/17d81931555073e5241432b7080789773794db1812d494a9b73d3607b10fa867.jpg",
+        "table_caption": [
+            "表7数据样例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Start time</td><td>End time</td><td>Location</td><td>Type</td><td>Place</td><td>Activity</td></tr><tr><td>2012-11-12 00:25:35</td><td>2012-11-12 00:42:56</td><td>Seat</td><td>Pressure</td><td>Living</td><td>Spare_Time/TV</td></tr><tr><td>2012-11-12 00:43:46</td><td>2012-11-12 00:43:49</td><td>Door</td><td>PIR</td><td>Living</td><td>Spare_Time/TV</td></tr><tr><td>2012-11-12 00:50:29</td><td>2012-11-12 00:50:32</td><td>Door</td><td>PIR</td><td>Living</td><td>Spare_Time/TV</td></tr><tr><td>2012-11-12 01:53:19</td><td>2012-11-12 01:53:22</td><td>Door</td><td>PIR</td><td>Living</td><td>Toileting</td></tr><tr><td>2012-11-12 01:53:27</td><td>2012-11-12 01:53:35</td><td>Basin</td><td>PIR</td><td>Bathroom</td><td>Toileting</td></tr><tr><td>2012-11-12 01:53:53</td><td>2012-11-12 01:53:57</td><td>Door</td><td>PIR</td><td>Bedroom</td><td>Toileting</td></tr><tr><td>2012-11-12 01:55:09</td><td>2012-11-12 09:30:35</td><td>Bed</td><td>Pressure</td><td>Bedroom</td><td>Sleeping</td></tr><tr><td>2012-11-12 09:31:16</td><td>2012-11-12 09:31:19</td><td>Door</td><td>PIR</td><td>Bedroom</td><td>Sleeping</td></tr><tr><td>2012-11-12 09:37:28</td><td>2012-11-12 09:38:45</td><td>Toilet</td><td>Flush</td><td>Bathroom</td><td>Toileting</td></tr><tr><td>2012-11-12 09:42:02</td><td>2012-11-12 09:42:05</td><td>Door</td><td>PIR</td><td>Kitchen</td><td>Breakfast</td></tr><tr><td>2012-11-12 09:47:57</td><td>2012-11-12 09:48:12</td><td>Fridge</td><td>Magnetic</td><td>Kitchen</td><td>Breakfast</td></tr><tr><td>2012-11-12 09:48:21</td><td>2012-11-12 09:50:02</td><td>Microwave</td><td>Electric</td><td>Kitchen</td><td>Breakfast</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r e c i s i o n } = { \\frac { \\mathrm { T P } } { \\mathrm { T P } { \\mathrm { 4 } } { \\mathrm { ~ F P } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R e c a l l } } = { \\frac { T P } { T P + F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F l } = 2 { \\frac { \\mathrm { P r e c i s i o n } \\mathrm { R e c a l l } } { \\mathrm { P r e c i s i o n } + \\mathrm { R e c a l l } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2使用隐马尔可夫模型（HMM）进行活动识别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所使用的PSL多层次识别方法的性能，本文",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "先使用隐马尔可夫模型（HMM）对活动识别系统进行建模，因为HMM不提供对常识知识的建模方法，所以对于第三层和第四层，用HMM不能完全建模。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2显示HMM在第一层进行活动识别的F1值，表8显示在使用HMM方法下的各层的异常活动检测的平均F1值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三层无结果是因为领域常识知识不能被HMM建模，并且根据表中数据可以看出，缺少领域常识知参与的情况下所得到的F1值并不高，所以本文试图利用PSL来改善上述缺陷。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/856edea03c48c77ceb20bc4e7019f3985ef44119cadab73e4d92235f88042f27.jpg",
+        "img_caption": [
+            "图2HMM在第一层的F1值"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe44b8d81bbc45e461a15461c489f4bcbef21eb38fac6039aaf976e5f11a576a.jpg",
+        "table_caption": [
+            "表8HMM方法下各层识别结果所对应的F1值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>层数</td><td>F1</td></tr><tr><td>第一层</td><td>0.83±0.010</td></tr><tr><td>第二层</td><td>0.82±0.013</td></tr><tr><td>第三层</td><td></td></tr><tr><td>第四层</td><td>0.62±0.017</td></tr><tr><td>第五层</td><td>0.75±0.014</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3使用概率软逻辑（PSL）的多层次识别方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在PSL中，对于每一层，每一条规则按照表1，2，3，4，5所给出的形式被写入，并且可以使用PSL自带的权重学习命令进行每条规则的权重学习。本文根据其异常活动检测能力进行性能评估。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d89e4b5e287b4bf35e23a45103dd8923a0fc53be48a405b99b75755af8c7871a.jpg",
+        "img_caption": [
+            "图4使用PSl在第一、二、五层的平均F1值"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45c268460b36b49a881035ec8ee9c703edb8027dd29c17856cb02e21979cfc4c.jpg",
+        "img_caption": [
+            "图3PSI和HMM在第一层的F1值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3、图4以及表9和表10显示了使用PSL的多层次分析方法在各层上的识别效果，从图5数据可以看出PSL和HMM稳定性相当，表11是HMM和PSL运用多层次方法识别活动时的平均F1值对比，从F1值对比表明，使用PSL建模老年人护理系统的识别精度比HMM表现更好。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eeb5abbaa820ad4c7549e8fcd670be8fc25ea0a4edb6aca941d17e1b11df4371.jpg",
+        "table_caption": [
+            "表9使用PSL在第三层上的F1值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>活动</td><td>F1</td></tr><tr><td>并发活动</td><td>0.93±0.011</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0975ca781d9091176c65df4d25a653fb36562d82c9a62381c4c41fcc525ccccf.jpg",
+        "table_caption": [
+            "表10使用PSL在第四层上的F1值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>F1</td></tr><tr><td>Bathroom</td><td>0.93±0.009</td></tr><tr><td>Bedroom</td><td>0.94±0.014</td></tr><tr><td>Living</td><td>0.92±0.011</td></tr><tr><td>Kitchen</td><td>0.93±0.010</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60bbc10cf617ed63ca1e17f8cd33a3f90028e90fe5961f42c928c4269869511.jpg",
+        "img_caption": [
+            "图5PS1和HMM在十次实验里每一层的F1值标准差对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f69f99ee66b6586a9f3e591b21a95a14042e565eef5d1965fb5de6acbe5d71c8.jpg",
+        "table_caption": [
+            "表11HMM方法和本文所使用的",
+            "PSL多层次分析方法在各层的平均F1值对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实验编号</td><td>第一层</td><td>第二层</td><td>第三层 HMMPSL HMMPSL HMMPSLHMMPSL HMMPSL</td><td>第四层</td><td></td><td>第五层</td></tr><tr><td>1</td><td>0.84</td><td>0.91 0.81</td><td>0.92</td><td>0.94 0.62</td><td>0.93</td><td>0.81 0.90</td></tr><tr><td>2</td><td>0.83</td><td>0.93 0.80</td><td>0.94</td><td>0.93 0.63</td><td>0.94 0.84</td><td>0.88</td></tr><tr><td>3</td><td>0.84</td><td>0.92 0.82</td><td>0.92</td><td>0.92 0.63</td><td>0.94</td><td>0.83 0.91</td></tr><tr><td>4</td><td>0.85</td><td>0.91 0.81</td><td>0.91 1</td><td>0.90 0.66</td><td>0.91 0.85</td><td>0.89</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4使用概率软逻辑（PSL）的多层次和非层次识别方法对比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文把多层次识别模型里的3-1和4-3两条需要领域知识支撑的规则去掉，将其余规则用PSL组合在一起来组成非层次识别模型，将实验测试样例数依次增加，每组样例进行多次实验，将每次实验所需平均时间记录下来，形成表12.",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9889a080bcd4d46d81836d05cfe91c6e4d6c1a3ba440f4909baa7c27550f8a09.jpg",
+        "table_caption": [
+            "表12多层次和非层次识别方法花费时间对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试样例数</td><td>花费时间（ms） 多层次</td><td>非层次</td></tr><tr><td>30</td><td>2.3</td><td>4.0</td></tr><tr><td>60</td><td>4.7</td><td>10.0</td></tr><tr><td>90</td><td>10.0</td><td>14.6</td></tr><tr><td>120</td><td>14.8</td><td>19.6</td></tr><tr><td>150</td><td>21.4</td><td>25.2</td></tr><tr><td>180</td><td>26.1</td><td>32.8</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表12可知，多层次方法比非层次方法花费更少的时间来识别异常活动。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于PSL的多层次识别方法，并使用数据和知识共同驱动的模式将此方法运用到老年人日常活动的识别中去，领域知识的引入给异常活动识别的关键影响因素赋予了更高的优先级。通过对标准数据集进行的实验表明，与HMM方法相比，使用PSL的多层次识别方法在活动识别和异常活动检测时能产生更高的精度，同时，多层次的识别方法由于在系统内建模了高优先级异常活动检测规则，在识别上能带来更高的检测效率和更短的响应时间。所以，基于PSL的多层次识别方法对于老年人的日常活动识别和异常活动检测是可行而有效的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在后续工作中，本文将加入更多的领域知识和更有效的时间关系，从知识结构和模型层次上进一步提高活动识别和异常活动检测的精确度，同时可探索本文方法在病患者护理和儿童看护等领域的适用性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]中华人民共和国国务院新闻办公室发布．中国老龄事业的发展[M]. 外文出版社,2006.   \n[2]Chen L, Hoey J, Nugent C D,et al. Sensor-Based Activity Recognition [J]. IEEE Transactions on Systems Man & Cybernetics Part C,2012,42(6): 790-808.   \n[3]KimmigA,Bach S,BroechelerM,et al.A short introduction to probabilistic soft logic [C]// Proceedings of the NIPS Workshop on Probabilistic Programming: Foundations and Applications.2012: 1-4.   \n[4]Javier O F,Paula D T,Araceli S.Activity Recognition Using Hybrid Generative//Discriminative Models on Home Environments Using Binary Sensors [J]. Sensors,2013,13 (5): 5460. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]Bach S,Huang B,London B,et al.Hinge-loss Markov Random Fields: Convex Inference for Structured Prediction [J].Computer Science,2013,13 (4): 566-571. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]Khan Z A,Sohn W.Abnormal human activity recognition system based on R-transform and kernel discriminant technique for elderly home care [J]. IEEE Transactions on Consumer Electronics,2012,57 (4): 1843-1850.   \n[7]Assam R,Seidl T.Activity recognition from sensors using dyadic wavelets and Hidden Markov Model [C]// IEEE,International Conferenceon Wireless and Mobile Computing, NETWORKING and Communications. IEEE,2014: 442-448.   \n[8]Augusto JC,Nakashima H,Aghajan H.Ambient Intelligence and Smart Environments: A State of the Art [M]// Handbook of Ambient Intelligence and Smart Environments.2010: 3-31.   \n[9]Riboni D,Betini C.COSAR: hybrid reasoning for context-aware activity recognition[J].Personal& Ubiquitous Computing,2011,15 (3): 271-289.   \n[10] Chen L, Nugent C D, Wang H.A Knowledge-Driven Approach to Activity Recognition in Smart Homes [J]. IEEE Transactions on Knowledge & Data Engineering,2012,24(6): 961-974.   \n[11] Javier O F,Paula D T,Araceli S.Activity Recognition Using Hybrid Generative//Discriminative Models on Home Environments Using Binary Sensors [J].Sensors,2013,13 (5): 5460.   \n[12] Huang B,Bach S H,Norris E,et al. Social Group Modeling with Probabilistic Soft Logic[J].2012.   \n[13] Bach S H, Broecheler M,Llc A,et al． Scaling MPE Inference for Constrained Continuous MarkovRandom Fieldswith Consensus Optimization [J].Advances in Neural Information Processing Systems,2012: 2654-2662.   \n[14] Alam MR,Reaz MB I, Ali MA M.A Review of Smart Homes—Past, Present,and Future [J]. IEEE Transactions on Systems Man & Cybernetics Part C Applications & Reviews,2012,42 (6): 1190-1203.   \n[15] Gayathri K S,Easwarakumar K S,Elias S.Probabilistic ontology based activity recognition in smart homes using Markov Logic Network [J]. Knowledge-Based Systems,2017,121: 173-184.   \n[16] Tran S D, Davis L S.Event Modeling and Recognition Using Markov Logic Networks [C] European Conference on Computer Vision.Springer-Verlag, 2008: 610-623.   \n[17] He Z,Jin L.Activity recognition from acceleration data basedon discrete consine transform and SVM [C]/ IEEE International Conference on Systems,Man and Cybernetics. IEEE,2009: 5041-5044.   \n[18] SarkarA MJ,Lee Y K,Lee S.A Smoothed Naive Bayes-Based Classifier for ActivityRecognition [J].Iete Technical Review,2010,27(2):107-119.   \n[19] TolstikovA, Hong X,Biswas J,et al.Comparison of fusion methods based on DST and DBN in human activity recognition [J].Journal of Control Theory& Applications,2011,09 (1): 18-27.   \n[20]Tomkins S，GetoorL.Poster Abstract: Contextual Air Conditioning Disaggregationwith Probabilistic Soft Logic [J].2015:117-118.   \n[21] Gayathri K S,Elias S,Ravindran B.Hierarchical activity recognition for dementia care using Markov Logic Network[J].Personal & Ubiquitous Computing,2015,19 (2): 271-285.   \n[22] akhraei S,Huang B,Raschid L，et al. Network-Based Drug-Target Interaction Prediction with Probabilistic Soft Logic [J].IEEE//ACM Transactions on Computational Biology & Bioinformatics,2014,11 (5): 775-787.   \n[23] Chekol MW,Pirro G,Schoenfisch J,etal.Marrying Uncertainty and Time in Knowledge Graphs [C]//AAAI. 2017: 88-94.   \n[24] Desjardins-ProulxP,Poisot T,Gravel D.Scientific Theories and Artificial Intelligence [J].bioRxiv,2017: 161125.   \n[25]AlshukailiD,FernandesAAA,PatonNW.StructuringLinked Data Search Results Using Probabilistic Soft Logic [C]// International Semantic Web Conference. Springer International Publishing,2016: 3-19.   \n[26] Getoor L.Statistical Relational Learning:Unifying AI& DB Perspectives on Structured Probabilistic Models [C]// Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems. ACM,2017: 183-183.   \n[27]李薇，肖仰华，汪卫．基于中文知识图谱的人物实体识别[J].计算机 工程,2017,43(3):225-231.   \n[28]张峰，朱艳琴．一种基于多层次识别的免疫算法及其改进[J].信息安 全与通信保密,2007(5):112-114. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

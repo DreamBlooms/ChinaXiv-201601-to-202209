@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "贬损型幽默：笑声能化解敌意吗？",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李龙骄，王芳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京师范大学心理学部，应用实验心理北京市重点实验室，心理学国家级实验教学示范中心（北京师范大学）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 贬损型幽默指包含贬损意味同时令人发笑的信息。释放论、优越论、失谐-解决理论与良性进犯理论尝试解释了其心理机制。贬损不一定好笑，群体身份和态度、接收者与贬损对象的心理距离以及人格、文化差异等均会影响幽默效果。贬损型幽默可以起到释放偏见与表达社会支配倾向的作用，对人际交往的作用则不一致。贬损型幽默的整合性过程模型串联描述了贬损型幽默的机制、前因和后效，可作为未来研究的框架。未来亦可继续探讨贬损型幽默的消极影响，以及其对群际关系和社会公平的潜在积极作用，并关注到中国社会文化背景下的贬损型幽默。  \n关键词贬损型幽默，良性进犯理论，偏见，社会支配理论",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默(disparagement humor)是指对某一对象进行贬低或诋毁，然而却能使人发笑的信息(Ford&Ferguson,2004)。常见的贬损型幽默如对个体外在特征的攻击（比如“小明走起路来像企鹅\")、对性别的攻击（比如一些涉及性别贬低的黄色笑话）、对种族的攻击（比如把黑人的形象和猩猩放在一起）以及对职业、阶级、政治倾向的攻击等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着脱口秀等喜剧形式的兴起以及《吐槽大会》等节目的流行，贬损型幽默大规模地进入了公众视野并引发了大量的社会讨论。在西方语境及研究中，幽默(humor)泛指把刺激评价为好笑的、感到积极情绪被唤起并觉得想笑的心理现象(McGraw etal.,2012)，这也就包括了能使人发笑的讽刺和攻击性信息。而在《现代汉语词典》中(2016)，幽默的释义为“有趣或可笑而意味深长的”，林语堂先生(2004)也指出“在狭义上，幽默是与郁剔、讥讽、挪揄区别的，这三四种风调，都含有笑的成分各种风调之中，幽默最富于感情”，可见中文定义中的“幽默”不仅仅需要引人发笑，还需要一定的意义或积极性。这或许可以解释为什么国内关于幽默的研究和综述多聚焦于幽默有益情绪健康和人际交往的一面（e.g.，陈世民 等,2012；彭坤霞丽，李英武,2017；彭小倩,2020；王婷，杨付,2019；张灵聪 等,2011;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张莹瑞，佐斌,2008；朱华伟 等,2017）。但是，由于有时并不意味深长的甚至纯粹的攻击和贬低在中文语境中也能引人发笑（如朋友之间把互损作为玩笑、小品和影视作品中以对身体缺陷的模仿和贬损作为笑料),其中的原因及后果值得探究，因此本文讨论的幽默更为广义，即将能逗人发笑的信息均视作幽默的范畴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "幽默在社交、谈判、情绪健康等领域都发挥着积极的作用(Fritz etal.,2017; Gockel,2017)，幽默感也一直是备受社会赞许甚至推崇的特质(Lippa,2007)。然而，与幽默相反，贬损他人是带有敌意并为社会常规所不容许的行为。而贬损型幽默融合了贬损与幽默，这一明显的矛盾引发了许多研究者的关注。其中的核心问题包括：第一，是何种心理机制使幽默得以从贬损他人中产生；第二，贬损型幽默可能引发笑声，也可能被认为是一种冒犯，有哪些因素在影响幽默的效果；第三，一般而言，幽默的社会影响是积极的，而贬损的社会影响是消极的，那么二者融合将产生怎样的社会结果。本文即围绕这三个问题，对相关理论与研究进行梳理，并在此基础上提出贬损型幽默的整合性过程模型及未来的研究方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 贬损型幽默产生的心理机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为什么幽默会从贬损中产生呢？精神分析视角下的释放论(Relief Theory)、社会视角下的优越论(Superiority Theory)、认知视角下的失谐-解决理论(Incongruity-Resolution Theory)和良性进犯理论(Benign Violation Theory)分别提出了四种不同的心理机制来回答这一问题。其中，释放论和优越论强调了动机和情境的作用，而失谐-解决理论和良性进犯理论则主要从认知角度探讨了具有何种特征的贬损内容才能引发幽默。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1精神分析视角下的释放论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在精神分析理论中，从贬损中产生的幽默感来自于敌意的宣泄(catharsis)，这种宣泄使得用于压抑敌意的心理能量释放，且满足了个体攻击的需要(Freud,1905)。值得注意的是,Freud(1905)还指出，如果贬损的发出者和接收者注意到了贬损中所包含的攻击意图，他们的压抑功能就会启动，心理能量无法释放，贬损也就不能引发幽默效果了。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据释放论的观点，贬损型幽默将有助于释放被压抑的攻击性能量并由此减弱现实中的攻击动机。的确，有研究发现，在阅读针对非裔美国人的贬损性笑话之后，越欣赏这些笑话的白人被试表现出越低的对于非裔美国人的攻击动机(Singer,1968)。然而，也有研究结果与释放论的预测相反，如发现暴露于贬损型幽默会导致个体更多的敌意表达(Ford et al.,2008;Ford&Ferguson,2004)。释放论的支持者将其解释为贬损型幽默的压抑释放作用只是使攻击的心理动机减弱，而敌意行为反而因为不再受到压抑而变得更多(Singer,1968)，但显然这样的解释难以证伪。再者，攻击性行为通过心理能量的释放产生幽默效果，如何测量和检测释放这一心理过程缺乏可操作性。此外，该理论没有解释决定攻击动机是否进入意识层面的因素是什么，也就是说，该理论无法甄别具体符合何种条件的贬损才能够引发幽默。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2社会视角下的优越论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "优越论的核心观点是贬损型幽默的娱乐性来自于贬低他人所产生的优越感或胜利感(Zillmann&Cantor,1996)。优越论认为个体拥有维持支配地位的需要，这与社会认同理论、社会比较理论等当代群际关系理论是一脉相承的(e.g., Gerber et al.,2018; Tajfel& Turner,1986)。由于个体具有群体身份，因而也具有保持群体优势的动机，于是贬损其他群体或群体成员的幽默就可以带来愉悦。例如，某一群体成员会觉得贬损外群体的笑话更好笑，而不觉得贬损内群体的笑话好笑(Middleton,1959;Wolff et al.,1934)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "优越论与释放论的相似之处在于，它们都认为贬损他人通过满足某种心理需要而产生娱乐感，从而成为幽默。然而，从生活经验看，许多贬损型幽默的笑点并不完全来源于攻击性或地位维持动机，而常常源于表达贬损时使用的谐音、双关、语调等。事实上，有研究者认为，当缺乏谐音、双关、语调、表情、引导性笑声等制造幽默气氛的因素时，对他人的贬损往往不会被认为是好笑的，反而还可能被感知为有违社会常规或恶意的(Ford&Ferguson2004)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3认知视角下的失谐-解决理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "失谐-解决理论(Suls,1983)认为幽默通过两个阶段的认知加工产生：（1）探测失谐，即发现信息中有违常规的地方；（2）解决失谐，即根据情境和经验对失谐进行合理化。比如在谐音笑话“我更喜欢李白的诗，陆游气坏了，结果我家就没法上网了”中，失谐在于“陆游气坏了”与“没法上网”之间缺乏逻辑联系，但当意识到“陆游气坏了”与“路由器坏了”同音时，失谐被解决，幽默也就产生了。该理论是普适性的幽默理论，它致力于解释包括贬损型幽默在内的各类型幽默，且得到了认知神经研究的支持。Vrticka等(2013)通过元分析将有关探测和解决失谐的脑区归纳为颞顶联合区、颞顶枕叶的交界处以及额顶叶腹侧通道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "失谐-解决理论认为，在贬损型幽默中，解决失谐的关键在于对某一对象的歧视，因此仅有本身持歧视态度或者对相关偏见有所了解的个体才能够感受到幽默(Chapman& Foot,2013)。比如，“问：‘如果你的儿子天生反社会还辍了学，他将来最有可能的职业是什么？‘答：‘美国警察。”，若听众毫不了解针对美国警察的这一偏见，便只能探测到失谐而不能解决它，进而也无法领会到幽默所在。也就是说，失谐-解决理论认为先验的敌对态度会让解决失谐的过程更为容易，而当失谐的解决方案与原有态度存在冲突时，失谐的解决就不再合理(Uekermannetal.,2007)。的确，研究表明既有偏见和对贬损型幽默的欣赏呈正相关(Parrott2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "失谐-解决理论可以解释人们理解幽默的普遍认知过程，但对贬损型幽默发挥效用的独特性动机缺乏关注。而且由于限定了“失谐-解决”这一特定过程，更适用于解释一些需要一定思考的笑话和故事引发的幽默，但难以解释那些滑稽、带有贬损意味却无甚意义的图片和视频是如何引起幽默的(Warren&McGraw,2016)，比如，夸大人物外貌缺陷的漫画常被认为是好笑的，突出体重超重的个体笨拙动作的视频常被标记为搞笑的且广为流传(Burmeister& Carels, 2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4认知视角下的良性进犯理论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "良性进犯理论(Warren&McGraw,2016)也从认知视角来解释幽默，但与失谐-解决理论不同的是，该理论认为当一个刺激被评价为包含进犯(violation)，同时该进犯又被评价为良性(benign)时，幽默就产生了。所谓“进犯”是指让人感到威胁性的、错误的、或者消极的刺激，而“良性”则是指这些进犯并不会带来实质性的害处。常见的良性进犯包括实质无害或没有恶意的物理威胁（如嬉戏打闹）和身份攻击（如性别笑话)，以及可以接受的对社会常规的违反（如奇装异服)、不影响理解的对语言规则的违反（如谐音）及对逻辑的违反（如答非所问）等(McGraw & Warren,2010; Warren & McGraw,2016; McGraw et al.,2012,2014)。在这一理论框架下，贬损是否能被评价为良性直接决定了贬损是否可以引发幽默，而良性贬损评价的达成可能经由以下两条通路：（1）由于社会规范相对宽松，或基于个体自己的道德和价值评判标准，贬损被感知为可接受的，因此产生幽默效果，如夸大人物身体缺陷的图片和视频就经常通过此路径引发幽默；（2）在传达贬损信息时，发出者运用对语法、逻辑的违反或者引导性的笑声来表明自己的幽默目的或转移观众的注意力，从而使进犯被感知为良性的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，由于性别不平等的社会现实，对女性的贬损更具威胁性和攻击性，因此贬损女性的笑话被认为是更具冒犯性的，而贬损男性的笑话则被认为是更好笑的(Lawless et al,2020)。就情境而言，包含贬损内容的笑话在严肃场合中会显得冒犯性过强，因此常被认为是不合时宜的，达不到幽默效果(Bitterly et al.,2017)。此外道德认同感高的个体更容易被道德笑话冒犯，被逗笑的可能性更低(Yam etal.,2019)。这些都与良性进犯理论的预测一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相比于其他幽默理论，良性进犯理论是一种更为普适和全面的理论。一方面，它可以囊括失谐-解决理论的观点，因为失谐本身就是一种对常理的进犯，而失谐的解决则使该进犯得以被评价为良性。另一方面，相比优越论和释放论，良性进犯理论可以解释为何缺乏谐音、双关、语调、表情、引导性笑声等因素的贬损难以达成幽默效果，因为上述因素可以暗示贬损并非出于攻击目的或者转移接收者的注意力，从而使得良性进犯的评价更容易达成。而且此时辅助因素和贬损本身都包含良性进犯，于是笑点是双重的。总而言之，良性进犯理论适用于解释各类型的幽默，突破了失谐-解决理论的局限性(Warren& McGraw,2016)，且在贬损型幽默领域可以解释一些仅用优越论与释放论难以解释的现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3贬损型幽默效果的影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默的使用并不总能成功引发笑声，有时反而会被感知为冒犯的或不道德的(Lawless et al.,2020;McGraw&Warren,2010)。鉴于失败的幽默尝试将带来负面结果，如降低幽默发出者在人际互动中的地位(Bitterly et al.,2017)，有必要探讨影响贬损型幽默效果的因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1群体身份和群体态度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在优越论的启示下，早期研究者把影响贬损型幽默效果的因素归结于幽默接收者的群体身份，如发现贬损犹太人的幽默更容易逗笑非犹太人(Wolffetal.,1934)，民主党成员更容易被关于共和党而不是民主党成员的笑话逗乐(Priest,1966)等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，简单的内群体和外群体区分所不能解释的是，即便是贬损苏格兰人的笑话，犹太人也比非犹太人更难以被逗乐(Wolffetal.,1934)。还有研究显示，低社会阶层的非裔美国人不认为贬损非裔的笑话好笑，然而中产阶级的非裔美国人则对此类笑话表现出了与白人无异的欣赏(Middleton,1959)。于是，Zillmann 和 Cantor(1996)提出，决定听众是否欣赏贬损型幽默的主要因素是听众对于某一群体的情感态度，当听众对发出贬损者持积极态度，或者对被贬损者持消极态度时，贬损型幽默就能产生良好的幽默效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除接收者的群体身份外，贬损发出者的群体身份也对幽默效果有所影响。研究发现，同性恋者在社交媒体上发布有关同性恋刻板印象的笑话时会被认为是幽默的，而异性恋者发布同样的笑话则被认为是具有冒犯性的，关于种族的笑话也是如此(Thai et al.,2019)。良性进犯理论将其解释为笑话发出者的身份提供了关于其意图是否友好的信息，来自群体内成员的贬损更容易被评价为没有恶意的。事实上，当贬损型幽默的发出者是外群体成员时，这样的幽默可能会威胁到被贬损群体成员的社会身份，使他们形成更消极的自我概念并感受到社会排斥(Ford etal.,2020)，而当贬损型幽默的使用者是群体内成员时，反而有提高群体凝聚力的作用(Terrion＆Ashforth,2002)，这可能是因为当弱势群体主动去使用偏见相关的词汇时，群体的控制感和权力感因此而增强了(Galinsky et al.,2013)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2心理距离 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "空间距离、时间距离、社会距离和假设性造成的距离是四种广为接受的心理距离的形式(Liberman&Trope,2008)。根据良性进犯理论，鉴于大的心理距离可以削弱进犯带来的威胁感，因此拉远接收者与贬损对象之间的心理距离应该可以带来更大的幽默效果(McGraw et al,2012)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是目前尚没有专门研究探讨心理距离对贬损型幽默效果的影响，一些有关的研究结果显示，当心理距离较远时，人们的确会觉得较为严重的进犯是好笑的，而当心理距离较近时，人们则会觉得轻度的进犯比较好笑(McGraw etal.,2012,2014; Kant&Norman,2019)。基于此可以推测，若贬损发生在较远的空间、时间或社会距离上，抑或贬损对象不是真实的人类，即便是较为严重的贬损也可能引发幽默反应。从生活经验来看，当遭遇贬损的对象是真实的人时，一般仅有轻度的（如言语或姿势上）贬损才能引发幽默，而在动漫作品中，人物遭到严重的暴力似乎也能引发幽默。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3人格及文化差异",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据个体对于不同类型幽默的偏好以及使用幽默的方式，Martin 等(2003)将个体的幽默风格分为了四种类型，分别是亲和型、自我增强型、攻击型以及自贬型，其中攻击型的幽默风格指对他人进行讽刺、嘲弄和挖苦来达成幽默的倾向。研究发现，攻击型幽默风格与大五人格中的宜人性、尽责性存在负相关，与神经质存在正相关，与开放性、外倾性之间无显著相关(Mendiburo-Seguel et al.,2015)；与暗黑人格中的马基雅维利主义以及精神病态正相关，但与自恋无显著相关(Veselka et al.,2010)；与病态人格中的去抑制性以及敌意性正相关(Zeigler-Hillet al.,2016)；与特质共情的观点采择、共情性关心及个人痛苦维度均呈负相关(Hampes,2010)。鉴于攻击型幽默风格的个体倾向于使用和欣赏贬损型幽默，可以推测贬损型幽默的效果在上述人格因素上存在个体差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "听众的社会态度也影响着贬损型幽默的效果。例如，高社会支配倾向的个体更容易被贬损型幽默逗乐(Hodson et al.,2010)，而对公平与关怀的重视则阻碍着对贬损型幽默的欣赏(Koszalkowska&Wrobel,2019)，对偏见有高度敏感性的听众也更不容易被贬损型幽默逗乐(Miller et al., 2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，文化背景也影响着人们对贬损型幽默的欣赏。比如，讽刺在美国文化中被看作一种幽默，但伊朗文化却不这么认为(Tosun etal.,2018)；相比于希腊的商业广告，英国的广告中会使用更多的贬损型幽默(Hatzithomas et al.,2011)；中国大学生群体在攻击型幽默风格量表上的得分也显著低于加拿大大学生群体(陈国海& Martin,2007)。有研究者认为这与集体主义与个体主义倾向有关，对于涉及政治、成瘾、性别与健康的主题，来自集体主义文化的被试会感受到比来自个体主义文化的被试更强的冒犯性(Fam&Waller,2003)，因此也更难被贬损型幽默逗乐(Hatzithomas et al.,2011)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4贬损型幽默的社会结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现代社会的道德规范通常不允许公然贬损他人，但对于贬损型幽默却接受度颇高，例如美式脱口秀的流行以及我国《吐槽大会》等节目的大受欢迎。那么，贬损型幽默的使用可能给个体或群体带来怎样的社会结果？以下将介绍贬损与幽默的结合对偏见表达、社会等级以及人际交往所产生的独特作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1偏见释放器的作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默常常是基于偏见的，如性别笑话、政治笑话、职业笑话和种族笑话等(Ford&Ferguson,2004)，许多研究探讨了贬损型幽默对于偏见的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有研究者认为贬损型幽默会引发对于被贬损群体的偏见(Hobden& Olson,1994;Maio etal.,1997)。例如，强制被试复述一些贬损律师群体的笑话之后，相比于自由选择是否复述组，这些被试对律师群体的态度更加消极(Hobden&Olson,1994)。相似的研究也发现，针对国籍的笑话会增强被试报告的对于该国人的刻板印象(Maio et al.,1997)。Hobden 和 Olson (1994)用认知失调理论解释以上现象，即如果个体复述的贬损内容和内在态度存在不协调，则个体通过改变内在态度来缓解这种不协调造成的心理紧张感，结果就表现为对偏见的认同加深。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不过，也有研究表明，即便不强制被试复述贬损女性的笑话，仅仅阅读该笑话同样会加强被试对女性的轻视和客体化，这是认知失调理论难以解释的。进一步的分析表明，这种效应仅出现在本身就对女性抱有敌意的被试身上(Ford,2000)。为解释这一矛盾，Ford 和Ferguson(2004)提出了贬损型幽默的偏见规范理论(Prejudice Norm Theory)，认为贬损型幽默创造了一种允许偏见表达的社会常规，它并没有从根本上改变被试的态度，而是起到了偏见释放器的作用。偏见的规范化可以拆分为三个步骤：（1）情境中诸如表情、笑声、语调一类的线索或是对话中已有的幽默信息被接收者察觉到；（2）幽默线索和信息成为了交流中的一种元信息，它激活了一种非严肃的思维方式，放松了交流中应该遵循的社会规范；（3）贬损型幽默的接收者在放松的规范中不再需要压抑偏见，但若接收者本来没有偏见，也就不会受影响了。与偏见规范理论的预测一致，暴露于贬损型幽默之中的确使被试对偏见的容忍度提高了，而感知到的社会规范正是这一效应的调节变量(Ford et al.,2014)。还有研究表明，由于个体有时迫于规范需要压抑偏见，就会在压抑后出现更多的关于偏见的想法，即反弹效应，而贬损型幽默由于创造了不需要压抑的常规，因而会减小反弹效应(Ford et al.,2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于性别笑话的研究构成了偏见规范理论研究中的重要内容。基于女性刻板印象的笑话在今天的职场、喜剧等情境中常常出现(National Academies of Sciences,2018；方萌萌,2020;卢宁,2008)，许多研究表明，这类幽默的广泛使用可能增加歧视女性的行为，降低对于女权主义的支持，使个体更加容忍针对女性的性骚扰行为(Ford,2000;Ford et al.,2008；2013;Woodzicka&Ford,2010),甚至增加人们对于强奸女性等严重犯罪行为的容忍(Thomae& Viki,2013;Romero-Sanchez etal.,2010)，这些都将最终加剧当代女性的生存困境",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2巩固和逆转社会支配地位的作用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "幽默作为一种引起笑声并制造轻松氛围的交流元素，长久以来被认为和真正的严肃社会议题无关(Carty&Musharbash,2008)。然而，偏见规范化理论已经提示了，正是幽默的非严肃性创设了一种宽松的社会规范，使得偏见表达可以通行。此外，幽默还具有亲社会和受社会赞许的特征，这些均为贬损的表达提供了正当性，也为巩固或逆转社会支配地位提供了可能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默必然伴随着相对地位的变化，即被贬损方的地位降低而贬损者的地位升高，并且优越论认为贬损型幽默娱乐感的来源正是这种相对地位的变化(Zillmann&Cantor 1996)，甚至发出贬损的动机也是保持自我以及内群体的资源优势(Ruscher,2001)。在社会支配理论(Social Dominance Theory; Sidanius&Prat,2001)中，这种期望内群体优于和支配外群体的倾向被称为社会支配倾向(SocialDominance Orientation)。随着社会文化越来越强调平等，打击他人社会地位的行为受到越来越严格的禁止和遣责，在这样的约束下，保持内群体优势的动机需要以更微妙的方式存在（如由外显转为内隐）和被表达（如由公然的歧视转向微妙的歧视）(Marchiondo etal.,2018)。合法化神话(Legitimizing Myths)是社会支配理论中的一个重要概念，指的是可以在道德和智识上为传播和实践社会支配倾向提供正当性的信念、态度、价值观(Sidanius& Pratto,2001)。有研究者提出，幽默就可以作为一种维持支配地位的合法性神话(Hodson＆ MacInnis,2016)。具体而言，幽默可以创设出一种玩笑性的语境、一种从严肃中的解放(Ford&Ferguson,2004)，它也在一定程度上规定了通过幽默的方式所表达的内容应该仅被一笑置之，而不应该上纲上线。此外，对幽默的推崇还规定了不能欣赏幽默的人是缺乏才智的、过于严肃死板的，这绑架了被幽默冒犯的人，导致他们即便感到不适，也难以直接表达不满(Hodson etal.,2010)。研究发现，个体的社会支配倾向与攻击型的幽默风格成正相关(Hodson etal.,2010)，而贬损型幽默中的贬损也可以视为某种程度的攻击。此外，研究者还提出了所谓“漫不经心的幽默信念(Cavalier Humor Belief)”，持有这种信念的个体相信“笑话就只是笑话而已”，贬损型幽默的目的是创造愉快，因而不应该以认真的态度去看待其中的冒犯性(Hodson et al.,2010)。漫不经心的幽默信念很好地合法化了贬损型幽默中的不正当意图，可在社会支配倾向与对贬损型幽默的欣赏之间起到中介作用(Hodson et al.,2010)。与这一理论相一致，社会调查发现美国本科生中男性比女性更赞同性别笑话是无害的，男性霸权主义的倾向起到中介作用(Lowe et al.,2021)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来，也有研究者注意到贬损型幽默不仅可以用于巩固社会等级，还可以用于反抗已有的社会等级。当幽默被用于对社会不公平提出质疑、对处于社会支配地位的强势群体提出挑战时，称为“逆转型幽默(Subversive Humor)”(Miller et al.,2019)，比如脱口秀演员 LouisCK利用笑话表达“白人并没有更优越，但拥有白人的身份的确可以生活得更优越”的观点(Szekely,2008)。挑战现有的偏见和社会等级秩序需要勇气，挑战者很可能遭到厌恶或受到打压(Czopp etal.,2006)，此时如果将抗议与幽默相结合，幽默所规定的玩笑性可以令抗议者在表达意见的同时在一定程度上规避代价(Saucier et al.,2016)。正因为如此，许多表达抗议的社会运动中都可见逆转型幽默的踪影(Kaptan,2016; Strain et al.,2016; Tekinalp,2016)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3对人际关系的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "贬损和幽默对于人际交往具有相对立的作用，而贬损型幽默也可能同时带来积极和消极的人际影响。比如，人们在求职面试时使用贬损型幽默可以给观者留下更自信的印象，但并不会提升观者所感知到的社会地位(Bitterly etal.,2017)；在公共演讲中，相比于不使用幽默的演讲者，观众对使用贬损型幽默的演讲者会给出更高的幽默感评分，但同时也会对演讲者的品格给出更低的评价(Peifer&Holbert,2013)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有研究者尤其关注到了贬损型幽默在亲密关系中的使用，因为当亲密关系产生冲突时，人们常常既有维系关系的动机，又有表达不满情绪的动机，而贬损型幽默可以同时服务于这两个目标(Anderson&DiTunnariello,2016)。然而，研究表明，贬损型幽默的使用与情侣间的关系满意度负相关，并且预测着更糟糕的冲突解决(Campbell et al.,2008)；还有研究发现贬损型幽默在婚姻中的使用对离婚有预测作用，尤其当使用者为男性时(Saroglouet al.,2010)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，在职场环境下，由于领导者地位较高，更可能是贬损型幽默的发出者，一些研究关注了领导使用贬损型幽默的影响。一方面，员工欢迎幽默的领导，不喜欢那些道德认同过高的领导，认为他们缺乏幽默感(Yam et al.,2019)；然而另一方面，尽管领导者的贬损型幽默可以增进他们和员工之间的交流，但他们在使用贬损型幽默时对于社会常规的公然违反也会向员工传递出一种“违规可接受”的信念，进而引发员工做出更多违背指令的行为(Yam etal.,",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2018)。还有研究发现，员工会将领导者的攻击型幽默视为不尊重，这与员工的心理契约相违背，因而做出更多的偏差行为(韦慧民，农梅兰,2020)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总体而言，贬损型幽默的使用虽然具有两面性，但相对而言消极的人际影响占多数(Cann& Matson,2014)。不过从方法学上来说，以上研究多为将贬损型幽默与友好的幽默形式进行比较，而没有比较其相对于不使用幽默是否具有积极作用，因而尚不能完全下结论说贬损型幽默的使用主要损害人际关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 总结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "围绕贬损与幽默的融合矛盾体—一贬损型幽默，本文首先通过四种理论解释了幽默从贬损中产生的心理机制；进而整理了影响贬损型幽默效果的因素，从不同角度辨析了贬损型幽默被知觉为幽默抑或冒犯的边界条件；最后分析了使用贬损型幽默的社会结果，主要关注当贬损承载于幽默这一积极媒介时所产生的后效。最后，将在现有研究基础上以良性进犯理论为框架提出解释贬损型幽默心理机制的整合性过程模型，并提出未来研究应该关注的方向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1解释贬损型幽默心理机制的整合性过程模型",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在解释贬损型幽默心理机制的主要理论中，释放论和优越论从心理动力的角度出发，分别认为贬损所产生的幽默源于攻击性能量的释放和优越感的产生，而失谐-解决理论和良性进犯理论则从认知的视角出发，从幽默产生的认知过程来理解幽默。在这四种理论中，按照释放论和优越论，只要成功地贬低了目标人物就能达成幽默效果，然而，并不是所有贬损都是幽默的；失谐-解决理论虽然有来自神经基础的证据，但并不能描述所有类型的幽默；而在良性进犯理论中，幽默产生的充要条件是良性进犯，失谐-解决只是良性进犯的一种，该理论普适于各种类型的幽默，也指明了只有当贬损被评价为实质无害时才会产生幽默效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总的来说，良性进犯理论作为一个统领性的幽默理论，不仅界定了幽默产生的认知过程，也解释了幽默产生的原因和意义，是一个具有综合性、简约性和实证效度的理论(McGraw&Warren,2010;Warren&McGraw,2016)。对于贬损型幽默，它既能解释完全由贬损本身产生的幽默效果，也能解释贬损性内容在双关、谐音等元素的伴随下产生幽默效果。因此，良性进犯理论有资格成为未来关于贬损型幽默研究的理论框架。并且，以良性进犯理论为框架可以避免贬损型幽默的研究与对其他类型的幽默研究脱节，有利于小领域之间建立联系、扩展研究主题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实际上，良性进犯理论与释放论、优越论之间并不冲突。良性进犯理论的核心在于界定和解释幽默的产生，而释放论、优越论的核心则在描述发出贬损型幽默的动机，它们可以在不同环节和层面上解释贬损型幽默的产生过程。比如，优越论关注到了个体通过贬损他人来占领优势地位的动机，以优越论为背景的研究便致力于回答怎样的贬损对象可以满足这一动机，并提出了群体身份和态度这些社会认知因素的影响 (杨洋,2008)，而这些社会认知因素可以被整合进入良性进犯理论中影响良性评价达成的因素中，形成更为完整的贬损型幽默理论。此外，关注贬损型幽默社会结果的偏见规范化理论还提示了贬损型幽默的成功使用可以作为一种交流中的“元信息”，起到放松社会规范的作用，这或许又使得人们更可能将贬损评价为良性，进而促进了贬损型幽默的接收和使用，这一动态过程也值得关注。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基于此，以良性进犯理论为基本框架，结合幽默的主体（发出者、接收者）、发生的过程、语境、影响因素，综合释放论、优越论和失谐-解决理论的观点，本文提出贬损型幽默的整合性过程模型（图1)。首先，贬损的发出者既受到攻击倾向和社会支配倾向的驱使，又受到社会规范和超我的限制，当个体感知到的限制较弱时，可能会直接地发出贬损，而当个体感知到较强的限制时，可能通过使用谐音、双关、引导性笑声、提前声明幽默意图等方式来制造幽默语境，暗示贬损内容不应该被严肃对待，然后再发出贬损；然后，如果贬损接收者将该贬损评价为良性的，将会产生被逗乐的感觉，而评价过程受到接收者的群体身份及态度、接收者与贬损对象的心理距离、接收者的人格特点及文化背景等因素的影响，此外，如果交流时的语境是幽默的，接收者也更容易将贬损感知为良性的；最后，成功的贬损型幽默尝试使得攻击和社会支配动机得以满足，发出者和接收者产生的优越感和释放感可以进一步增强娱乐感，而娱乐感又可以进一步加强幽默语境，减弱道德和规范的限制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "未来的幽默研究可以参考这一整合性过程模型，从模型中的各个环节切入围绕贬损型幽默展开更为全面、细致的研究。比如，现有研究已经发现贬损型幽默在个体主义文化中更为盛行(陈国海 & Martin,2007; Hatzithomas et al.,2011; Tosun et al.,2018)，未来研究可以从“贬损发出者感知到的社会规范”切入，探究贬损型幽默的文化差异是否部分源于集体主义文化中社会规范对于贬损他人的约束更加严格。此外，在中国文化背景下，如果外在或内化的社会规范对于贬损的禁止比西方更为强烈，此时幽默语境是否仍然能够减弱社会规范的禁止作用，贬损的幽默效果是否将伴随其他重要的人际代价，以及人们将如何在这些人际代价与使用贬损型幽默的动机之间进行平衡和选择，都是这一普遍过程性模型中值得探究的文化独特性问题。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b4146a53339937c3ea8d700c849140e74ef7a3c2e348f4c0cb6f10fdb608d75.jpg",
+        "img_caption": [
+            "图1贬损型幽默的整合性过程模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.2预防与干预贬损型幽默的消极影响 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "贬损他人并非社会规范所允许的行为，幽默的外衣可能掩藏了恶意及其消极后果。当个体为了获得某一群体的认可或营造某种印象而主动使用贬损型幽默时(O'Connoret al.,2017;Terrion& Ashforth,2002)，很可能带来偏见的固化和敌意的增强(Hobden& Olson,1994; Maioet al.,1997;Ford et al.,2008)。在职场中使用贬损女性的幽默会降低员工之间的凝聚力(Fordetal.,2008)、增大员工对上司性骚扰行为的容忍度(Ford,2000)。尽管西方研究充分支持了贬损型幽默的消极社会影响，目前的本土研究却对于贬损型幽默的特殊性有所忽视，笼统地认为幽默具有较为普遍的积极社会意义(e.g．王婷，杨付,2019；张灵聪 等,2011；朱华伟 等，2017)。例如，有本土研究表明幽默可以降低女性在进行认知任务时的刻板印象焦虑(隋玲 等，2018)，但西方研究则支持贬损型幽默对于刻板印象具有固化作用(Argiello Gutierrez et al.,2018;Maio etal.,1997)，这一差异既可能源于本土研究未在幽默材料的选取上将贬损型幽默与其他幽默形式区别开来，也可能提示着贬损型幽默的效应受到文化因素的调节。不管是哪一种可能，均启示着未来研究可以在细分不同类型幽默的基础上特别关注贬损型幽默的潜在消极影响及其边界条件。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默具有消极后效，然而由于多数实验研究所测量的是被试暴露于贬损型幽默后短时的态度改变，因此其后效能够持续多久、是否存在长远效果尚不明确。有研究发现，当被试暴露在攻击某一政客的贬损型幽默后，短时间内对该政客的信任程度降低了，但在一周后这一效应就消失了(Mendiburo-Seguel etal.,2017)。当然这一政治领域的结果难以推广到其他领域的贬损型幽默上，但贬损型幽默消极后效的稳定性和延续性问题值得研究，例如看其是否与贬损内容背后的社会矛盾以及个体对于矛盾的原初态度有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "未来研究还可以继续探究如何干预贬损型幽默的消极社会影响。幽默感是人们在社会交往时极其欣赏的特质(Lippa,2007)，因而很可能忽视其潜在的鼓励偏见和社会支配倾向表达的作用，因此，对幽默的更全面了解可以使人们对它的潜在负面影响更为警醒，进而防止偏见的进一步合法化和常规化。本文梳理了群体身份和态度、心理距离、人格特征以及文化这四个因素对贬损型幽默效果的影响。从群体态度以及人格特征上看，警惕“漫不经心的幽默信念”蔓延或许可以在一定程度上遏制偏见在幽默语境中的常规化；从心理距离上看，拉近贬损型幽默接收者与贬损受害者的心理距离可能是有效的干预手段。此外，社交媒体对于贬损型幽默的传播作用也不可忽视。由于贬损型幽默所带来的娱乐感，这些贬损内容常常作为“爆梗”在互联网上得到广泛传播和关注，对这类幽默内容的点赞和转发是否会加深人们对于贬损内容的认同，这些潜在消极影响又该如何制止，值得研究。已有少量研究关注这一点，如发现社交媒体评论区中反对贬损型幽默的评论可以显著降低浏览者点赞和转发的意愿，并抑制其偏见表达(Thomas et al.,2020)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "还需要注意的是，在很多关注贬损型幽默社会结果的实验中，与贬损型幽默构成对照的材料仅有良性幽默而没有非幽默的贬损(e.g.,Koszalkowska&Wrobel,2019;Maio et al.,1997;Weston&Thomsen,1993)，于是研究结果的差异可能仅由是否包含贬损所引起，而不能体现出相对于单纯的贬损表达，以幽默为媒介的贬损表达会有什么独特的作用。此外，目前的研究主要关注贬损型幽默对于幽默接收者的影响，而相对忽视贬损的发出者以及被贬损的对象。有少数研究表明，贬损型幽默可能会威胁到被贬损对象的自我概念(Ford etal.,2020)并加强被贬损对象对内群体的刻板印象(Arguiello Gutiérrez et al.,2018)。但是尽管如此，人们仍会在一些情境下主动使用贬损自己的幽默来制造社交优势(Betz&DiDonato,2020;Dobai &Hopkins,2020)，这些尝试能否真的能够满足制造社交优势的需要，对于使用者的自尊和旁观者感知到的他们的社会地位又有怎样的影响，值得未来研究探讨。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3关注贬损型幽默的积极影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "贬损型幽默的作用并不总是消极的。当前大部分研究关注的是以弱势群体为攻击对象的贬损型幽默，这时贬损型幽默起到偏见释放器的作用，并成为维护社会等级的合法性谎言。但当弱势群体使用贬损型幽默来对社会不公平表达抗议时，则可能对促进社会公平和保护弱势群体成员的心理健康起到积极的作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "首先，由于幽默规定了人们不应该用严肃的态度对待其内容，所以贬损型幽默可以用于安全地表达对于不公平的反抗，这一类型的贬损型幽默被称为“逆转型幽默”(Miller et al.,2019)。理论上逆转型幽默可以起到鼓励弱势群体发声的作用，然而也有研究发现，一些逆转型幽默通过聚焦性地描述生活中的不平等现象来让人们意识到这些习以为常的现象实际上是荒谬的，这些笑话结果反而会被感知为是支持不平等的，并进而起到了偏见释放器的作用(Saucier et al.,2018)。对于逆转型幽默的理解也存在个体差异，如对偏见更为敏感、更主动抑制偏见的个体更容易理解和欣赏逆转型幽默(Miller etal.,2019)。近年来，中国的大众传媒中也出现了一些典型的逆转型幽默，不过尽管有幽默作为保护，这些逆转型言论仍然触怒了贬损对象，引发了热烈的社会讨论(戴桃疆,2021)。鉴于此种复杂现象，应有更多研究关注到逆转型幽默区别于其他贬损型幽默的独特性，并探究是哪些因素在影响逆转型幽默的成功传达，以及其与更宏大的背景（如特定社会的典型问题、公众讨论的氛围及方式）的关联。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，贬损型幽默可能成为弱势群体面对歧视时的应对方式。语言学研究发现，广受歧视的群体会把针对自己群体的贬损型幽默作为一种“疫苗”进行主动传播，以避免在遭到更严重歧视时受到更深的情感伤害(Rappoport,2005)。还有质性研究表明，当少数族裔群体在与多数群体进行社交时，可能使用贬损自己民族的笑话来缓和紧张气氛，并通过观察对方对于这类笑话的反应来探测对方所持的群体态度(Dobai&Hopkins,2020)。这些研究结果暗示着贬损型幽默对于弱势群体的独特心理功能，但是一方面这类研究还非常少量并初步，另一方面它们仅关注了使用贬损型幽默的动机，而在使用之后是否真的能达到相应的效果，其他群体又会否因此而改变对该群体的态度和行为，需要未来研究继续探讨。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4关注中国社会文化背景下的贬损型幽默",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "尽管贬损型幽默在国内尚不是一个受到充分关注的研究主题，但它在社会生活及流行文化中并不罕见，例如以嘲弄他人与调侃社会现实为主要特征的“吐槽文化”在社交媒体和影视作品以及年轻人群体中广受追捧(张胜利，李林澧,2019)。吐槽文化的兴盛本身和大众在其中所表达的内容可能承载着丰富的社会文化意涵，值得研究者关注与研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "首先，未来研究可以关注吐槽何以成为一种流行文化，即贬损型幽默缘何得以在中国社会文化背景下盛行。虽然幽默被西方积极心理学家列为 24 种性格优势之一(Peterson et al.,2005)，幽默感是美国被试在择偶时重视程度仅小于才智的特质(Lippa,2007)，但幽默感在儒家传统的理想人格模型中并不占有一席之地(葛枭语，侯玉波,2021)，研究也发现中国大学生对于幽默的欣赏程度和重要性感知要低于加拿大大学生，且对中国被试进行西方文化启动后被试对于幽默感积极性的评分显著高于中国文化启动后(Yue etal.,2016)。那么贬损性幽默在时下中国社会的流行也许暗示着它具有超越个人收益(如提升个体吸引力)的其他生长土壤，例如吐槽文化是否作为某些普遍性社会心态的表达方式因而获到大众的共鸣？是否可以在一定程度上将其作为捕捉特定社会心态及其变化趋势的指标？与此同时也可以检验这种流行是否反过来提升了幽默感在中国人人际交往与吸引中的重要性。此外，“吐槽”一词同“幽默”一样也是外来语，它源于日语中的“漫才”，即一种以双方抬杠、拆台等为主要内容的喜剧形式。那么贬损型幽默在中国的流行是否是受到文化交流的影响、幽默对于贬损的掩蔽效果是否与不同人群在外来文化中的暴露程度存在正相关、不同群体对于贬损型幽默认可度的差异是否造成沟通的受阻甚至成为网络群体唇枪舌战的原因之一，都是值得探究的问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "其次，贬损型幽默的商业化与娱乐化趋势也值得关注。贬损型幽默出现在早期电视节目中时主要被用于针砭一些社会热点与文化事件，而近年的脱口秀节目则更常直接用贬损型幽默针对以高流量明星为代表的吐槽对象，甚至直接将吐槽对象置于在场状态作为噱头(薛文雅,2019)，那么这种商业化与娱乐化处理是否可能消解贬损型幽默潜在的逆转作用？此外，在严肃的社会事件中，如果关于这一事件的贬损型幽默被热烈营销和传播（例如某男星涉嫌性侵害，而公共讨论的热点落于与其性能力相关的贬损型幽默)，此时幽默的非严肃性是否会淡化人们对事件本身的警醒与反思？这些问题均值得未来研究探讨。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "最后，关注人们通过贬损型幽默所表达的具体内容也是有价值的。根据优越论和关于逆转型幽默的研究，贬损型幽默的流行可能还因为它满足了人们对于自尊的需要以及对于公平的需求，幽默的掩护使得在其他情境中所不能够表达的矛盾和诉求得以通行。因此，正在传播的贬损型幽默的内容或许可以成为研究者寻找有现实意义的社会心理学问题的一扇窗口。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "陈国海，Martin,R.A.(2007).大学生幽默风格与精神健康关系的初步研究.心理科学,30(01),219-223.陈世民，方杰，孙配贞，张进辅，郑雪.(2012).幽默的社会理论及其应用研究．心理科学,35(03),687-693.戴桃疆.(2021).杨笠“冒犯”了吗？单口喜剧、厌女文化与\"大家保护的人”．澎湃新闻.2021-07-05 取自https://m.thepaper.cn/newsDetail_forward_10625178",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "方萌萌.(2020).浅析领导幽默中的性别刻板印象．长江丛刊,07,102-104.   \n林语堂.(2004)．幽默人生.陕西师范大学出版社.   \n葛枭语，侯玉波.(2021).君子不忧不惧：君子人格与心理健康—一自我控制与真实性的链式中介.心理学报， 53(04),374-386. 卢宁.(2008).性别差异：浅析《老友记》中的涉性幽默(英文).语文学刊,03,58-62.   \n彭坤霞丽，李英武.(2017).组织幽默感研究综述．应用心理学,23(4),376-384.   \n彭小倩.(2020)．幽默与幸福感的研究综述．文化创新比较研究,29(4),1-3.   \n隋玲，刘赛芳，柴亚星，张潮.(2018)．幽默对性别刻板印象威胁效应的影响．第二十一届全国心理学学术会 议摘要集 (pp.667-668).   \n韦慧民，农梅兰.(2020)．领导者攻击型幽默对员工偏差行为的影响．中国人力资源开发,37(1),68-83.   \n王婷，杨付.(2019).领导幽默的影响效果及其理论解释．心理科学进展,27(9),1631-1642.   \n薛文雅.(2019).戈夫曼戏剧理论视域下的脱口秀节目分析——以《吐槽大会》为例.新媒体研究,5(12),132- 133.doi:10.16604/j.cnki.issn2096-0360.2019.12.050.   \n杨洋.(2008).贬损幽默的认知理论述评．法制与社会,31,370-374.doi:10.19387/j.cnki.1009-0592.2008.31.239.   \n张灵聪，田伟翠，黄发杰，刘华强.(2011).大学新生幽默感水平、适应性与心理健康的关系．中国健康心理 学杂志,19(11),1366-1370.   \n张莹瑞，佐斌.(2008)．幽默的心理学研究．中国临床心理学杂志,04,409-412   \n张胜利，李林澧.(2019).吐槽文化的狂欢化表征及反思.中外文论,02,23-30.doi:CNKI:SUN:ZWWY.0.2019- 02-003.   \n朱华伟，张艳艳，龚璇.(2017).企业幽默能否化解消费者抱怨：幽默类型与关系范式的匹配．心理学报， 49(4), 526-538.   \nAnderson, W.,& DiTunnariello,N. (2016).Aggressive humor as a negative relational maintenance behavior during times of conflict.The Qualitative Report,21(8),1513-1530. htps://nsuworks.nova.edu/tqr/vol21/iss8/13   \nArguello Gutierrez, C., Carretero-Dios,H.,Wills,G.B.,& Moya,M. (2018). Joking about ourselves: Effctsof disparaging humor on ingroup stereotyping. Group Processes & Intergroup Relations， 21(4), 568-583. https://doi.0rg/10.1177/1368430216674339   \nBetz,D.E.,& DiDonato,T.E. (2020).Is itsexy tobe sexist? How stereotyped humor affects romanticatraction. Personal Relationships,27(4),732-759. https://oi.org/10.1111/pere.12346   \nBiterly,T. B., Brooks,A. W.,& Schweitzer, M.E. (2017). Risky busines: When humor increases and decreases status. Journal of Personality and Social Psychology,112(3),431-455. htps://doi.org/10.1037/pspi0000079   \nBurmeister, J. M.,& Carels,R.A. (2014). Weight-related humor in the media: Appreciation, distaste,and anti-fat atitudes. Psychology of Popular Media Culture,3(4),223-238. https://doi.org/10.1037/ppm0000029   \nCampbell,L.,Martin,R.A.,& Ward,J.R. (2008). Anobservational studyofhumor use while resolving conflictin dating couples.Personal Relationships,15(1),41-55. htps:/doi.org/10.111/j.1475-6811.2007.00183.x   \nCann, A.,& Matson, C. (2014).Sense of humor and social desirability: Understanding how humor styles are perceived. Personality and Individual Diferences,66,176-180. htps://doi.org/10.1016/j.paid.2014.03.029 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Carty, J.,&Musharbash,Y.(2Oo8).You've got tobe joking:Aserting theanalytical valueofhumour and laughter in contemporary anthropology.Anthropological Forum,18,209-217.https://doi.org/10.1080/0066467080 2429347 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Chapman,A.J.,& Foot,H.C.(1977).It's a funny thing, Humour.Netherland: Elsevier Science. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Czopp,A.M.,Monteith,M.J.,&Mark,A.Y. (2006).Standingup forachange: Reducing bias through interpersonal confrontation. Journal of Personality and Social Psychology,90(5),784-803.htps://doi.org/10.1037/0022- 3514.90.5.784 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Dobai,A.,& Hopkins,N. (2O20).Humour is serious: Minority group members’useof humour in their encounters withmajoritygroup members. European Journal of Social Psychology， 50(2)， 448-462. https://doi.org/10.1002/ejsp.2612 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fritz,H.L.,Russek,L.N.,& Dillon,M.M.(2O17).Humor use moderates the relationof stressfulife events with psychological distress. Personality and Social Psychology Bulletin, 43(6), 845-859. https://doi.0rg/10.1177/0146167217699583 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.(2oo0).Efects ofsexist humoron tolerance ofsexist events.Personalityand Social Psychology Buletin, 26(9),1094-1107. https://doi.0rg/10.1177/01461672002611006 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.& Ferguson M.A. (2oo4). Social consequences of disparagement humor: A prejudiced norm theory. Personality and Social Psychology Review,8(1).79-94. https://doi.0rg/10.1207/S15327957PSPR0801_4 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,Boxer, C.F.,Armstrong, J.,& Edel,J.R. (2008). More than“justa joke\": The prejudice-releasing functionofsexisthumor. PersonalityandSocial PsychologyBulletin， 34(2), 159-170. https://doi.0rg/10.1177/0146167207310022 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,Buie,H.S.,Mason,S.D.,Olah,A.R.,Breeden,C.J.,&Ferguson,M.A.(2020).Diminished selfconcept and social exclusion: Disparagement humor from the target's perspective. Self and Identity,19(6), 698-718. https://doi.org/10.1080/15298868.2019.1653960 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,ErinR.W.&JoliL.(2Ool).Effects of exposure to sexist humoron perceptions ofnormative tolerance of sexism. European Journal of Social Psychology,31(6). 677-691. https://doi/abs/10.1002/ejsp.56 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,Teter,S.R.,Richardson,K.,&Woodicka,J.A.(O17).Putting thebrakesonprejudicereboundefects: An ironic effct of disparagement humor. The Journal of Social Psychology，157(4)，458-473. https://doi.0rg/10.1080/00224545.2016.1229254 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,Woodzicka,J.A.,TriplettS.R.,&Kochersberger,A.O.(20l3).Sexisthumorandbeliefs thatjustify societal sexism. Current Research in Social Psychology, 21, 64-81. http://citeseerx.ist.psu.edu/viewdoc/summary?doi $_ { . = 1 }$ 0.1.1,390.6256 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ford,T.E.,Woodicka,J.A.,riplet,S.R.,Kochersberger,A.O.,&Holden,C.J. (14).Notallgroupsarequal: Diferential vulnerability of social groups to the prejudice-releasing effects of disparagement humor. Group Processes & Intergroup Relations,17(2),178-199. https://doi.0rg/10.1177/1368430213502558 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Freud,S.(19o5).Jokes and their Relation to the Unconscious.New York:Norton. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Galinsky,A.D.,Wang,C.S.,Whitson,J.A.,Anicich,E.M.,Hugenberg,K.,&Bodenhausen,G.V.(2013).The reappropriation of stigmatizing labels:The reciprocal relationship between power and self-labeling. Psychological Science,24(10),2020-2029. https://doi.org/10.117/0956797613482943 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Gerber, J. P., Wheeler, L.,& Suls,J. (2018).A social comparison theory meta-analysis $6 0 +$ years on. Psychological Bulletin,144(2),177-197. https://doi.org/10.1037/bul0000127 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Gockel,C. (20l7).Humor in teams: Interpersonal functions of humor.InT.Scheel & C.Gockel (Eds.),Humorat Work in Teams,Leadership,Negotiations,Learning and Health (pp.31-46).Springer International Publishing. https://doi.0rg/10.1007/978-3-319-65691-5_3 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hampes,W.P. (2010).The relationbetween humor styles and empathy.Europe's JournalofPsychology,6(3),34- 45.https://doi.org/10.5964/ejop.v6i3.207 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hatzithomas,L., Zotos,Y.,& Boutsouki, C.(2O11). Humorand cultural values in print advertising: Acros-cultural study. International Marketing Review,28(1),57-80.https://doi.org/10.1108/02651331111107107 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hobden,K.L.,& Olson,J.M.(1994).From jest to antipathy: Disparagement humor as a source of dissonancemotivated attitude change. Basic and Applied Social Psychology, 15(3), 239-249. https://doi.org/10.1207/s15324834basp1503_2 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hodson, G.,& MacInnis,C. C.(2016). Derogating humor as a delegitimization strategy in intergroup contexts Translational Issues in Psychological Science,2(1),63-74. https://doi.org/10.1037/tps0000052 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hodson, G., MacInnis, C.C.,& Rush,J. (2010).Prejudice-relevant correlates of humor temperaments and humor styles.Personality and Individual Differences,49(5),546-549.https://oi.org/10.1016/j.paid.2010.05.016 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hodson,G.,Rush,J.,& MacInnis,C.C. (2010).A jokeis justa joke (except when itisn't): Cavalier humor beliefs facilitate the expression of group dominance motives.Journal of Personality and Social Psychology, 99(4), 660-682.https://doi.org/10.1037/a0019627 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Kant,L.,& Norman,E.(2019).You mustbe joking! Benignviolations,powerasymmetry,and humor inabroader social context.Frontiers in Psychology,10,1380. htps:/doi.org/10.3389/fpsyg.2019.01380   \nKaptan,Y. (20l6).Laugh and resist! Humor and satire use in the Gezi resistance movement. Perspectives on Global Development and Technology,15(5),567-587. htps://doi.0rg/10.1163/15691497-12341407   \nKoszalkowska, K.,& Wrobel, M. (2019). Moral judgment of disparagement humor. HUMOR,32(4),619-641. https://doi.org/10.1515/humor-2018-0023   \nLawless,T.J., O'Dea,C.J.,Miler,S.S.,& Saucier, D.A. (202O). Is it realy just a joke? Gender difrences in perceptions of sexist humor. HUMOR,33(2),291-315. https://doi.org/10.1515/humor-2019-0033   \nLiberman,N.,& Trope, Y. (2008).The psychology of transcending the here and now. Science,322(5905),1201- 1205. https://doi.org/10.1126/science.1161958   \nLippa,R.A. (2o07). The preferred traits of mates ina cross-national study ofheterosexual and homosexual men and women: An examination of biological and cultural influences.Archives of Sexual Behavior,36,193-208. http://dx.doi.0rg/10.1007/ s10508-006-9151-2   \nLowe,M.R., Byron,R.A., O'Hara,H.,& Cortez, D. (2O21). Neutralized hegemonic banter: The persistenceof sexistand racist joking among undergraduate students. Sociological Inquiry， 91(1)， 181-206. https://doi.org/10.1111/soin.12362   \nMaio,G.R., James M. Olson & Jacqueline Bush.(1997).Telling jokes that disparage social groups: Efects on the joke-teler'sstereotypes.JournalofAppliedSocialPsychology，27.1986-2000. https://doi.0rg/10.1111/j.1559-1816.1997.tb01636.x   \nMarchiondo,L. A., Ran,S.,& Cortina,L. M. (2018). Modern discrimination. In A.J. Colela,& E.B. King (Eds.), The Oxford handbook of workplace discrimination (pp. 217-236). Oxford University Press.   \nMartin,R.A.,Puhlik-Doris,P.,Larsen,G., Gray,J.,&Weir,K. (2oo3).Individual differences inusesof humorand their relation to psychological well-being: Development of the Humor Styles Questionnaire.Journal of Research in Personality,37(1),48-75. https://doi.org/10.1016/S0092-6566(02)00534-2   \nMcGraw,A.P.,& Warren, C. (2010). Benign violations: Making immoral behavior funny.Psychological Science, 21(8),1141-1149. https://doi.0rg/10.1177/0956797610376073   \nMcGraw,A.P., Warren,C.,Willams,L.E.,&Leonard,B. (2012).Too closeforcomfort,or too far tocare?Finding humor in distant tragediesand close mishaps. Psychological Science, 23(10)， 1215-1223. https://doi.0rg/10.1177/0956797612443831 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "McGraw,A.P., Williams,L.E.,& Warren, C. (2014).The rise and fallof humor: Psychological distance modulates humorous responses to tragedy. Social Psychological and Personality Science， 5(5)， 566-572. https://doi.0rg/10.1177/1948550613515006 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Mendiburo-Seguel,A.,Paez,D.,&Martinez-Sanchez,F. (20l5).Humor styles and personality: A meta-analysisof the relation between humor styles and the Big Five personality traits. Scandinavian Journal of Psychology, 56(3),335-340.https://doi.org/10.1111/sjop.12209 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Mendiburo-Seguel,A.,Vargas,S.,&Rubio,A. (2017).Exposure to political disparagement humor and its impact on trust in politicians: How long does it last? Frontiers in Psychology, 8. https://doi.0rg/10.3389/fpsyg.2017.02236 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Middleton，R. (1959). Negro and White reactions to racial humor.Sociometry，22(2)，175-183.https://doi.0rg/10.2307/2786021",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Miler,S.S.,O'Dea,C.J.,LawlessT.J.,& Saucier,D.A.(2019). Savage or satire: Individual differences in perceptions of disparaging and subversive racial humor. Personality and Individual Differences,142,28-41. https://doi.org/10.1016/j.paid.2019.01.029 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "National Academies of Sciences,E.(2O18).Sexual harassment of women: climate,culture,and consequences in Academic Sciences，Engineering，and Medicine.Washington，DC:The National Academies Press. https://doi.org/10.17226/24994 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "O'Connor,E.C.,Ford,T.E.,& Banos,N.C.(2O17).Restoring threatened masculinity: The appeal of sexist and anti-gay humor. Sex Roles,77(9-10),567-580.htps://doi.org/10.1007/s11199-017-0761-z ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Parrott,S.(2016). When everyone is laughing:The presence,characteristics,and enjoyment ofdisparagement humor in on.Mass Communication and Society,19(1),49-73.htps://doi.org/10.1080/15205436.2015.1072724 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Peifer, J.& Holbert,R.(2013).Developinga systematic asessmentofhumorin the context ofthe2012 U.S.general election debates. Argumentation and Advocacy. 49, 286-300. https://doi.0rg/10.1080/00028533.2013.11821803 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Peterson,C.,Park,N.,Seligman,M.E.P. (20o5). Assessmentofcharacterstrengths.IG.P.Koocher,J.C.Norcos, & S.S.Hill I, (Eds).,Psychologists'desk reference (2nd ed., p.93-98).New York: Oxford University Press. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Priest,R.F.(1966).Election jokes:The effects of reference group membership.Psychological Reports,18,600 602.https://doi.org/10.2466/pr0.1966.18.2.600 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Rappoport,L.(2Oo5).Punchlines:TheCaseforRacial,Ethnic,andGenderHumor.Westport,Connecticut:Praeger. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Romero-Sanchez,Monica,Duran,M., Carretero-Dios,H.,MegiasJ.L.& Moya.M. (20l0).Exposure to sexist humor and rape proclivity: The moderator effect of aversiveness ratings. Journal of Interpersonal Violence, 25(12). 2339-2350. https://doi.0rg/10.1177%2F0886260509354884   \nRuscher,J.B.(20o1).Prejudiced Communication:ASocialPsychological Perspective.New York,NY:Guilford Press.   \nSaroglou, V.,Lacour, C.,&Demeure,M.-E. (2Ol0). Bad humor,bad marriage: Humor styles in divorced and married couples. Europe's Journal of Psychology,6(3), 94-121. htps://doi.org/10.5964/ejop.v6i3.210   \nSaucier,D.A., O'Dea,C.J.,& Strain,M.L. (2016).The bad,the good,the misunderstood: The social efects of racialhumor.Translational Issues inPsychological Science,2(1),75-85.https:/doi.org/10.1037/tps0000059   \nSaucier,D.A.,Strain,M.L.,Miler,S.S.,ODea, C.J.,& Til,D.F. (2018).“What do you calla Black guy who flies a plane?\": The effects and understanding of disparagement and confrontational racial humor. Humor, 31(1),105-128. htps:/doi.org/10.1515/humor-2017-0107   \nSidanius,J.,&Pratto,F.(201).Social Dominance:An Intergroup TheoryofSocial Hierarchy and Oppression. Cambridge University Press.   \nSinger,D.L. (1968).Aggresson arousal, hostile humor,catharsis. Journal of Personality and Social Psychology Monograph Supplement, 8,1-14. htps://psycnet.apa.org/doi/10.1037/h0021361   \nStrain,M.L., Martens,A.L.,& Saucier,D.A. (2016).“Rape is the new black\": Humor's potential for reinforcing andsubverting rape culture. Translational Issuesin PsychologicalScience, 2(1)， 86-95. https://doi.org/10.1037/tps0000057   \nSuls,J.(1983). Cognitive processes in humor appreciation.InP.E.McGhe&J. H. Goldstein (Eds.),Handbook of humor research (pp.39-57).Springer NewYork. https://oi.org/10.1007/978-1-4612-5572-7_3   \nSzekely,L. [C.K.Louis](Writer). (2008).Ienjoy being white. On Chewed up[CD,DVD]. Image Entertainment.   \nTajfel,H.& Turmer, J.C. (1986).The social identity theoryof intergroup behavior.InAustin, William G.,Stephen Worcheland (eds.), Psychology of Intergroup Relations. Chicago: Nelson-Hal,7-24.   \nTekinalp, S. (2016). Value priority and humor as a defense to cultural schism: Analysis of Istanbul Gezi Park Protest. International Journal of Communication,10,2346-2376.htps:/ijoc.org/index.php/ijoc/article/view/5020   \nTerrion,J.L.,&Ashforth,B.E.(2002).From T'to‘We': The roleofputdown humorand identity inthe development of a temporary group. Human Relations,55(1),55-88. https://doi.org/10.1177/0018726702055001606 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Thai,M.,Borgela,A.M.,& Sanchez,M.S. (2019).It's only funny if we say it: Disparagement humor is beter received if it originates from a member of the group being disparaged. Journal of Experimental Social Psychology,85,103838. https://doi.org/10.1016/j.jesp.2019.103838 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Thomae,M.& Viki,T. G. (2013). Why did the woman cross the road? The efect of sexist humor on men's rape proclivity.JournalofSocial,Evolutionary,andCulturalPsychology，7(3). 250-269. http://dx.doi.0rg/10.1037/h0099198   \nThomas,E.F.,McGarty, C.,Spears,R.,Livingstone,A. G.,Platow,M.J.,Lala,G.,& Mavor, K. (202O). ‘That’sot funny!' Standing up against disparaging humor. Journal of Experimental Social Psychology, 86, Article 103901. htps://doi.org/10.1016/j.jesp.2019.103901   \nTosun,S.,Faghihi,N.,& Vaid,J. (20l8).Isanidealsenseofhumor gendered?Acro-national study.Frontiers in Psychology,9,199. htps://doi.org/10.3389/fpsyg.2018.00199   \nUekermann, J.,Daum, I.,& Channon, S.(2oo7).Towarda cognitive and social neuroscience ofhumor processing. Social Cognition, 25(4), 553-572. https://doi.0rg/10.1521/soco.2007.25.4.553   \nVeselka,L.,Schermer,J.A., Martin,R.A.,& Vernon,P.A. (2010).Relations between humor stylesand the Dark Triadtraitsofpersonality.PersonalityandIndividualDifferences, 48(6)， 772-774. https://doi.org/10.1016/j.paid.2010.01.017   \nVrticka,P.,Black,J.M.,&Reiss,A.L.(2013).The neural basis ofhumour processng. Nature Reviews Neuroscience, 14(12), 860-868. https://doi.org/10.1038/nrn3566   \nWarren, C., & McGraw,A.P. (2016). Diferentiating what is humorous from what is not. Journal of Personality and Social Psychology,110(3),407-430. htps://doi.org/10.1037/pspi0000041   \nWolff H. A., Smith, C.E. & Murray, H.A. (1934). The psychology of humor: A study of responses to racedisparagementjokes.JournalofAbnormalandSocialPsychology， 28, 341-365. https://doi.0rg/10.1037/h0075400   \nYue, X.,Jiang,F.,Lu,S.,& Hiranandani,N. (016).To be or not to be humorous? Cross cultural perspectives on humor. Frontiers in Psychology,7,1495. htps://doi.org/10.3389/fpsyg.2016.01495   \nYam, K.C.,Barnes,C.M.,Leavit, K.,Wei,W.,Lau,J.,& Uhlmann,E.L. (2019). Why so serious?Alaboratory and field investigation ofthe link between morality and humor.Journal ofPersonalityand Social Psychology, 117(4),758-772. https://doi.0rg/10.1037/pspi0000171   \nYam,K.C.,Christian,M.S.,Wei,W.,Liao,Z.,&Nai,J. (2o18).The mixedblessngof leadersenseof humor: Examining costs and benefits.AcademyofManagementJournal, 61(1), 348-369. https://doi.0rg/10.5465/amj.2015.1088   \nZeigler-Hill V., McCabe, G.A.,& Vrabel,J. K. (2016).The dark sideof humor: DSM-5 pathological personality traits and humor styles. Europe's Journal of Psychology, 12(3), 363-376. https://doi.org/10.5964/ejop.v12i3.1109   \nZillmann,D.& Cantor,JR.(1996).Adisposition theory ofhumor and mirth.InA.J.Chapman,&C.F.Hugh (Eds.), Humor and Laughter: Theory, Research and Applications (pp.93-116). New Jersey: Wiley and Sons. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Disparagement humor: Could laughter dissolve hostility? ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Longjiao LI, Fang WANG ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Beijing Key Laboratory of Applied Experimental Psychology,National Demonstration Center for Experimental Psychology Education (Beijing Normal University), Faculty of Psychology, Beijing Normal University ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Disparagement humor refers to communication that contains denigration but elicits amusement. Relief theory, superiority theory, incongruity-resolution theory, and benign violation theory attempt to explain the psychological mechanism. Humor does not always arise from disparagement. The humorous effect is influenced by the group identity and atitude of the receiver, the psychological distance between the receiver and the target of disparagement, and the receiver's personality and cultural background. Disparagement humor could contribute to the release of prejudice and the legitimation of social dominance orientation, but has inconsistent effect on interpersonal relations. The proposed Integrative Process Model of Disparagement Humor describes the mechanisms, precursors,and consequences of disparagement humor in tandem and could serve as a scaffold for future research. Future research should also devote more attention to the negative social impacts of disparagement humor and the corresponding interventions, the potential positive effects of disparagement humor on intergroup relations and social equity, as well as the disparagement humor emerging from Chinese socio-cultural background. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Keyword: Disparagement humor, Benign Violation Theory, Prejudice, Social Dominance Theory ",
+        "page_idx": 23
+    }
+]

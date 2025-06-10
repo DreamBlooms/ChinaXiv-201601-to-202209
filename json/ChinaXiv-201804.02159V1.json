@@ -1,0 +1,503 @@
+[
+    {
+        "type": "text",
+        "text": "基于有效上下文信息的变体词还原方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "游绩榕1²，沙瀛1,²，梁棋1,²，王斌1,2(1．中国科学院信息工程研究所 第二研究室，北京 100093;2.中国科学院大学 网络空间安全学院，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在社交网络上，用户常创造一些变体词来替代部分实体名词，将这些变体词还原为原目标词是自然语言处理中的一项重要工作。针对现有变体词还原方法准确率不够高的问题，提出了基于有效上下文信息的变体词还原方法。该方法利用点互信息抽取出变体词和候选目标词的有效上下文信息，并将其融合进自编码器模型中，获得变体词和候选目标词更准确的编码，并依据此计算相似度进行候选目标词排序，更准确的实现了变体词还原任务。实验表明，该方法较当前主流的几种方法相比效果有显著提升，提高了变体词还原的准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：变体词；变体词还原；自编码器；有效上下文信息；词嵌入；神经网络 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.01.0033 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Morph resolution based on effective context information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "You Jirong1,², Sha Ying1,2,Liang Qi1,2, Wang Bin1, 2 (1.InstituteofInformation Enginering,ChineseAcademyofSciences,Beijing13,China;2.SchoolofCyber Security University of Chinese Academy of Sciences,Beijing 10oo49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In social networks,people oftencreates morphs toreplace some entity names.Howto resolve these morphs totheir realtarget entitiesisavery important task fornaturallanguageprocessing.Inorder toovercometheshortcomingsthatexisting methods cannot resolve morphs accurately,this paper proposed a morph resolution method based on effective context information.Thismethod extracted theeffectivecontext informationof morphsandtargetcandidates，and integrated the efectivecontextinformation intoautoencoders inorder togetmoreaccurate embeddingofmorphsand theirtargetcandidates. This methodthen calculate the similarity between morphs and target candidates based onthe accurate embeddings,andranked thetargetcandidatesaccordingtothesimilarity.Theexperiments showthatthisapproachsignificantoutperforms thestate-ofthe-art methods and improves the accuracy of morph resolution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: morph; morph resolution; autoencoder; effective context information; word embedding; neural network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "变体词在互联网中广泛存在。在互联网上，人们常常把一些规范的专有名词，如人名地名，通过各种方式改造，创造一些不规范的词汇来替代原来的词，来规避审查、或表达讽刺、娱乐等情感，这就是变体词现象。这些创造出来的新词就叫做变体词，与之对应的是原来的词，即目标词。例如图1中的这条微博：“勇士创造了属于自己的时代潮流，大势所趋连规则也跟着改变，其他球队也跟着效仿。詹皇自带的体系，跟潮流不同，他也不愿苟同。小球时代其实是算术题，没了血性，没了对抗，没意思了。”这条微博中，“詹皇”就是一个变体词，它指代的是球员“詹姆斯”“詹姆斯”就是它的原目标词。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "勇士创造了属于自己的时代潮流，大势所趋连规则也跟着改变，其他球队也跟着效仿。詹皇自带的体系，跟潮流不同，他也不愿苟同。小球时代其实是算术题，没了血性，没了对抗，没意思了。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对变体词的研究在自然语言处理中具有实际的意义。自然语言处理的基础就是正确的对词语的分析和理解，传统分析方法有赖于人工整理的词典、词林等资源，但是在面对语言灵活、变化快速的社交媒体语言时，传统方法会遇到很多困难。互联网创造新词汇的速度很快，变体词就是其中一类，它们通常不会出现在词典中，也缺乏释义和理解，在词法分析时会产生干扰。如果能够将变体词都还原成它们的目标词，能够增加词法分析的准确性，为下游其他的自然语言处理任务提供支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了还原变体词，目前有几类主流的解决的思路。一类是基于建立规则实现，包括语音替换、汉字拆分等等[I][2][3]。这类方法的优点是简单直接，但是变体词变化方式繁多且不断变化，规则的适用性很有限。另一类是基于统计和规则的方法，将统计的方法与规则相结合，通过提取一些特征使用统计学习的方法进行变体词还原[4-]。这类方法相比直接建立规则要更加灵活，但是统计学习的方法是重度依赖特征的，仍需要大量的特征工程。此外，还有一种是基于语义表示的方法。语义表示的方法是建立在分布假说[上的，利用分布假说可以通过上下文对变体词进行建模，从而实现变体词的还原。语义表示的方法需要建立较为复杂的模型，但能达到比较好的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文沿用了语义表示的思路来解决变体词还原问题。目前基于语义表示进行变体词还原的研究都只是简单的利用临近的上下文词项，然后直接套用通用的词向量模型，缺乏对上下文信息进行有效的筛选。本文提出一种基于有效上下文信息的变体词还原方法，通过计算上下文与词项间的互信息来筛选出有效上下文信息，然后使用自编码器模型将词项和它的有效上下文信息进行融合，得到联合编码。得到的编码即可用于计算变体词与其他词的相似度，根据相似度排序即可实现变体词还原的任务。本文对此方法进行了实验验证，对比了当前效果最好的几种变体词还原方法。实验结果表明本文的方法是有效的，相比当前最好的方法精确率得到有效提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的主要贡献有：a)提出了基于有效上下文信息的变体词还原方法，有效提升了变体词还原的准确性；b）利用词语和上下文词项间的互信息来筛选有效上下文信息；c)利用联合上下文的自编码器对词语及其有效上下文信息进行联合编码，使之更好的表示词语之间相似性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于变体词的研究最早出现在一些关于不规范文本或网络语言的规范化的工作中。例如Wong[1的工作中研究了中文网络聊天中由语音变化产生的字词替换现象，例如将“我”替换为“偶”，这与变体词现象很类似。早期的不规范文本规范化主要使用基于规则的方法，例如Wong[1]、Xia[2]、Sood[3]等人的工作。后来一些研究提出可以结合统计和规则进行还原，如文献[4\\~6]的工作。典型的方法如Wang[4的工作，Wang 基于拼音、缩写、替换等典型特征，建立一个概率模型，用概率模型进行监督训练实现不规范文本的还原。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在Huang等人[8的研究中，变体词的概念首次明确出现。Huang等人[8研究了变体词的基本特征，包括表面特征、语义特征和社交特征，根据这些特征设计了简单的分类模型进行变体词的还原，并验证了效果。在这之后，Zhang等人提出了一个端到端的变体词解码方案，它同时进行变体词发现和变体词还原两个任务，先按照一定标准在大量语料中找到其中的变体词，然后再将它们还原为目标词。还原的过程利用了神经语言模型和词嵌入方法，将文本中的词项，包括变体词和目标词，都编码为词向量，然后比较计算它们的相似度，再按照候选词与变体词的相似度进行排序来得到变体词还原的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除此之外，还有一些关于变体词自动生成的研究。Hiruncharoenvate等人[o]通过新浪微博的语料研究了用户如何通过使用同音异形异义的变体词来规避审查，并尝试使用非确定性算法生成大量新的变体词。Zhang 等人[1]更进一步的研究了变体词的特征，并尝试自动生成变体词的样本，从另一个角度来解决变体词还原的问题。研究总结了八大类变体词产生的模式，包括拼音、拆字、昵称、翻译等等模式。Sha 等人[12]提出了基于字词联合的变体词还原方法，在将词语进行编码的同时还对字进行了编码，联合两种编码解决变体词还原问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用了联合上下文的自编码器。自编码器是一种无监督的神经网络，它能够对输入向量进行编码，然后进行解码重建，从而获取输入向量有用的特征融入编码之中。自编码器有许多变种。联合上下文的自编码器[13]将词语的上下文连同词语一起输入自编码器中，得到它们的联合编码。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于有效上下文信息的变体词还原方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在阐述本文的变体词还原方法前，本文先形式化定义变体词还原问题：变体词还原指的是给定一组变体词，找到每个变体词可能的候选目标词列表，并根据可能性进行排序。给定文档集合 $D = \\{ d _ { 1 } , d _ { 2 } , . . . , d _ { | D | } \\}$ 与变体词集合 $M = \\{ m _ { 1 } , m _ { 2 } , . . . , m _ { | M | } \\}$ 。在 $D$ 中找出每个 $m _ { i }$ 可能的候选词，并进行排序，得到 $m _ { i }$ 对应的候选目标词列表 $\\hat { T } _ { m i } = \\{ t _ { 1 } , t _ { 2 } , . . . . , t _ { | T | } \\}$ ，其中排名越前的候选目标词越可能是$m _ { i }$ 真正的目标词，即完成了变体词的还原。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以图1中的例子为例，变体词为“詹皇”，本文首先需要在微博中找到这个变体词的候选目标词，然后进行排序得到目标词列表。而“詹皇”真正的目标词“詹姆斯”应该在目标词列表中越靠前越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出的基于有效上下文信息的变体词还原方法是一种基于语义表示的算法。本文将变体词和它的候选目标词进行编码，利用编码进行排序。与其他方法所不同的是，本文的算法筛选出了有效上下文信息，而不是简单的使用临近的上下文词项。这能够帮助本文更好的找到与变体词含义相同的目标词。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整个算法大致分为四个过程。如图2所示，首先，从文档集合中先进行初步筛选，找到变体词的候选目标词列表；其次，抽取出这些词语的有效上下文信息，包括变体词以及它们的候选目标词；然后，使用联合有效上下文信息的自编码器将各个词语和它们的有效上下文信息进行联合编码，得到变体词和各个候选目标词的编码表示；最后，计算变体词的编码和候选目标词的编码的相似度，并按照相似度对候选目标词进行排序，从而完成变体词还原的任务。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e5c8657d5d3d4352141e05af007d155bbfeb50dfa7863f86fdc294cc351a253.jpg",
+        "img_caption": [
+            "图2基于有效上下文信息的变体词还原方法的流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1候选目标词的初步筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变体词还原的第一步是候选目标词的初步筛选。本文主要利用两条标准来实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)利用时间共现性筛选。统计表明，变体词与其目标词通常都会同时在一个较短的时间段内多次出现[12]。因此本文可以分析变体词出现的时间，然后只需要在附近的时间段里的词语中寻找目标词，即可减小候选词集合大小。具体过程是：对于给定的变体词，本文可以找到含有变体词的文档（例如微博)，根据这些文档的发布时间可以设定一个时间窗口，本文寻找这个时间窗口内的文档，在这些文档中寻找候选目标词。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)根据词性筛选。由于变体词所指代的往往都是人名、地名和组织名等专有名词，所以候选目标词也只需要在专有名词中寻找。专有名词的筛选可以通过词性标注和命名实体识别即可得到，有许多成熟的工具，包括NLPIR[14]、Stanford NER[15]等，均可完成这个任务。联合时间共现性的筛选结果即可得到候选目标词。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2抽取有效上下文信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变体词还原的第二步是抽取变体词和各候选目标词的有效上下文信息。上下文信息在各种基于词嵌入的方法中被广泛使用，但是这些方法中只是简单的使用某词语临近的上下文词项并套用词嵌入模型，而没有对上下文词项进行筛选。实际上，并非某个词语所有的上下文词项都与它有密切的语义联系。而抽取出与词语有较强语义联系的上下文词项可以帮助本文更好的进行变体词与候选词之间的相似度判断。本文称这种上下文词项构成的集合有词语的有效上下文信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本方法中判断有效上下文信息的标准是词语与上下文词项间的点互信息 (PMI)。点互信息描述了词语之间的共现关系，如果点互信息越高，那么两个词共现频率越高，语义联系越大；反之则语义联系越小。点互信息的计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP M I ( x ; y ) = l o g { \\frac { p ( x , y ) } { p ( x ) p ( y ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $x$ 和 $y$ 是指代两个词语， $p ( x )$ 和 $p ( y )$ 分别表示 $x$ 和 $y$ 在语料中出现的概率， $p ( x , y )$ 为 $x$ 和 $y$ 在语料中共现的概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用点互信息可以很好的判断词语与其上下文词项的语义联系。举个例子，有“韦德”“闪电侠”和“贝克汉姆”三个词项，其中，“韦德l”是变体词“闪电侠”的目标词，而“贝克汉姆2”与“闪电侠”无关，不是它的目标词。本文挑选出三个它们的上下文词项：“波什”、“詹姆斯”、“体育”进行比较。其中“波什”、“詹姆斯”均与“闪电侠”、“韦德”有较强语义联系，与“贝克汉姆”语义联系较低。表1展示了不同的上下文词项的PMI值，可以看出，“波什”“詹姆斯”与“闪电侠”、“韦德”的点互信息都比较高，与“贝克汉姆”的点互信息较低。点互信息可以很好的表示词项之间的语义联系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外可以发现，“波什”“詹姆斯”与“闪电侠”、韦德”的点互信息较高，与“贝克汉姆”的点互信息较低，有较强的区分性；而词项“体育”与这三个词的点互信息相差不大，区分性较低。因此本文可以看出通过点互信息筛选出的有效上下文词项相对于其他的词项，能够更好的区分出意义不同的词语，找到意义相同的词语。这个性质能够很好的帮助本文找到变体词真正的目标词。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a491b7723e20b33b4d2be19bbdccecfd5c2f697dc79cc6de2d14b1019065c6b.jpg",
+        "table_caption": [
+            "表1有效上下文词项与其他词项的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">有效上下文词项</td><td>其他词项</td></tr><tr><td>PMI</td><td>波什</td><td>詹姆斯</td><td>体育</td></tr><tr><td>闪电侠</td><td>3.12</td><td>2.46</td><td>0.12</td></tr><tr><td>韦德</td><td>9.79</td><td>9.27</td><td>0.37</td></tr><tr><td>贝克汉姆</td><td>0.34</td><td>0.63</td><td>0.49</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用点互信息上下文过滤器对词项的上下文进行过滤来生成词项的有效上下文信息。对于词项 $w$ ，先在全局范围内取窗口wd内的词项。注意到先去掉助词、介词等类型的词项，这些词项显然不会是有效上下文词项。得到的上下文词项形成集合 $C = \\{ c _ { 1 } , c _ { 2 } , . . . , c _ { | C | } \\}$ ，计算每个词项 $c _ { i }$ 与 $w$ 的点互信息 $P M I ( w , c _ { i } )$ ：;然后，取集合中最大的前K个，作为有效上下文词项集合 $F C _ { _ w }$ ，从而得到有效上下文信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3对变体词和候选目标词进行编码 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在抽取有效上下文信息之后，需要融合词语和它的有效上下文信息特征，得到一个联合编码。使用联合有效上下文信息的自编码器来进行编码。图3展示了自编码器的结构和编码流程。联合有效上下文信息的自编码器也是由多个基本自编码器构成。图3(a)为基本自编码器结构。自编码器的输入 $x$ 经过编码后得到编码表示 $h$ ，然后再进行解码得到输入 $x$ 的精确重建$\\hat { x }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { h = g ( W x + b ) } } \\\\ { { } } \\\\ { { \\hat { x } = g ( W \\hbar + b ^ { \\prime } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中式（2）是自编码器的编码过程，式（3）是自编码器的解码过程 $W \\in R ^ { d \\times d ^ { \\prime } }$ 和 $b \\in { \\boldsymbol { R } } ^ { d ^ { \\prime } }$ 为编码器的学习参数， $W ^ { \\prime } \\in R ^ { d ^ { \\prime } \\times d }$ 和 $b ^ { \\prime } \\in {  R } ^ { d }$ 为解码器的学习参数， $g$ 为激活函数。 $\\textit { d }$ 和 $\\vert d ^ { \\prime }$ 分别表示输入的维度和编码之后的维度，通常 $d ^ { \\prime } < d$ ，以达到压缩和降维的目的。自编码器的优化目标是使得 $x$ 和 $\\hat { x }$ 的差异尽量的小，这样编码表示 $h$ 就可以准确有效表示 $x$ 。通常会使用平方损失函数作为优化目标，即",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl ( x ) = \\parallel x - \\hat { x } \\parallel ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "优化目标为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\Theta } \\sum _ { i = 1 } ^ { n } l ( x ^ { ( i ) } ) , \\Theta = \\{ W , W ^ { \\prime } , b , b ^ { \\prime } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/250509ba059e0733ec78147daaa4cf5f214de416c9070e9fc1595be28486eadf.jpg",
+        "img_caption": [
+            "(a)基本自编码器（b)联合有效上下文信息的自编码器图3联合有效上下文信息的自编码器结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基本的自编码器只能输入单个向量 $x$ 。因此本文对基本自编码器进行了拓展，并使用了多层的层叠式自编码器结构，来融合输入词语与其有效上下文信息。如图3(b)，首先，本文使用词嵌入的方法进行初始向量化，得到输入词项 $w$ 与其有效上下文信息初始向量。 $w$ 的初始向量为 $x$ ，而对于有效上下文信息，对其中有效上下文词项分别进行初始向量化，然后取这些向量的平均值作为有效上下文信息的初始向量，记作 $c _ { x }$ 。使用经典的词嵌入方法进行初始向量化，例如Word2Vec[16]、GloVe[17]等，这也是很普遍的一种做法。初始向量化之后，用 $c _ { x }$ 学习出上下文向量的初级隐层表示 $h _ { { _ c } }$ ，这一步可由基本自编码器来生成；然后将 $h _ { { _ c } }$ 和 $c _ { x }$ 输入到拓展的层叠式多层自编码器中进行编码和重建。编码阶段，第 $\\mathbf { k }$ 层的自编码器单元的输入为上一个自编码器单元的编码结果 $h _ { k - 1 }$ （如果 $\\mathbf { k } { = } 1$ ，则输入为 $\\mathbf { x }$ ）和上下文向量的初级隐层 $h _ { c }$ ，输出为本层的隐层 $h _ { k }$ ，一个 $d$ 维的编码表示，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { k } = g ( W _ { k } h _ { k - 1 } + V _ { k } h _ { c } + b _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $W _ { k } , V _ { k } , b _ { k }$ 表示将 $h _ { k - 1 }$ 和 $h _ { { _ c } }$ 编码成 $h _ { k }$ 的参数；解码阶段，每个隐层将其编码结果 $h _ { k }$ 分别重建，得到对应输出两个重建结果：上一层的隐层的编码 $h _ { k - 1 }$ 和上下文向量的初级隐层 $h _ { c }$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\hat { h } _ { { k - 1 } } = g ( W _ { k } ^ { \\prime } h _ { k } + b _ { x k } ^ { \\prime } ) } \\\\ { \\hat { h } _ { { c } } = g ( V _ { k } ^ { \\prime } h _ { k } + b _ { c k } ^ { \\prime } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { W } _ { k } ^ { \\prime }$ 和 $b _ { x k } ^ { \\prime }$ 表示将 $h _ { k }$ 重建为 $h _ { k - 1 }$ 的参数， $\\boldsymbol { V } _ { k } ^ { \\prime }$ 和 $b _ { c k } ^ { \\prime }$ 表示将 $h _ { k }$ 重建为 $h _ { { } _ { c } }$ 的参数。最后由 $h _ { 1 }$ 和分别得到最后的重建结果 $\\hat { x }$ 和 $\\hat { c } _ { x }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自编码器融合了输入词项和它的有效上下文信息，其优化目标需要让 $\\hat { x }$ 和 $\\hat { c } _ { x }$ 的重建误差都比较小。因此设置自编码器的损失函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { l o s s } ( x , c _ { x } ) = \\left\\| x - \\hat { x } \\right\\| ^ { 2 } + \\lambda \\left\\| c _ { x } - \\hat { c } _ { x } \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\lambda \\in [ 0 , 1 ]$ 是调节上下文信息在编码中影响的权值。则优化目标为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\operatorname* { m i n } _ { \\Theta } \\sum _ { i = 1 } ^ { n } l o s s ( x ^ { ( i ) } , c _ { x } ^ { ( i ) } ) , } } \\\\ { { \\Theta = \\{ W _ { k } , W _ { k ^ { \\prime } } , V _ { k } , V _ { k ^ { \\prime } } , b _ { k } , b _ { x k } ^ { \\prime } , b _ { c k } ^ { \\prime } \\} , } } \\\\ { { k \\in 1 , 2 , . . . , d e p t h } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据优化目标，利用神经网络通用的训练方法如随即梯度下降法等，可以对联合有效上下文信息的自编码器进行训练。自编码器是个无监督的模型，因此只需要将大量语料中的词项作为样本依次输入模型中，即可完成训练。该自编码器的输出为编码阶段最后一个隐层的编码表示 $h _ { d e p t h }$ 。 $h _ { \\mathit { d e p t h } }$ 是个联合编码，融合了输入词项和它的有效上下文信息的特征，可以更好的表示词项之间含义的相似度，帮助本文更准确的找到变体词真正的目标词。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4对候选目标词进行排序",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到变体词和候选目标词的编码表示之后，就可以对候选目标词进行排序。自编码器将词语映射到一个向量空间中，用向量的余弦相似度大小来判断词语的相似性。相似度越大，词语越相似。对于每一个变体词 $m _ { i }$ ，计算它的每个候选目标词 $t _ { i }$ 与它的余弦相似度，然后按照相似度排序，即可得到 $m _ { i }$ 候选目标词的排序结果 $\\hat { T } _ { m i } = \\{ t _ { 1 } , t _ { 2 } , . . . , t _ { | T | } \\}$ ，从而完成了变体词还原的过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在Huang等人研究所用的数据集[8的基础上进行了筛选，删去了一些对应关系错误的或出现次数太少的变体词，新增加了一些变体词，并采集了与这些变体词相关的微博，形成一份新的数据集。这份数据集中，共包含1,597,416条新浪微博消息，25,003条Twitter消息。数据集中共含有593对变体词。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于模型中的参数选取，一部分沿用了比较经典的工作中的选择，另一部分通过验证集来选取效果最佳的参数。在候选目标词初步筛选时，参考 Sha 的工作[12]，取微博的时间窗口为1天，Twitter的时间窗口为3天，获取各个变体词的候选词项集合。在使用自编码器进行编码时，本文使用Word2Vec方法来进行初始向量化，初始向量的维度为100维。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其余的各个参数通过验证集进行选取。随机选取了50000条微博作为验证集来调整参数。经过在验证集上测试，在抽取有效上下文信息时，取窗口 $w d = 2 0$ ，向量数 $K = 1 0$ 。在使用自编码器进行编码时，编码器的深度depth $= 3$ ， $h _ { { } _ { c } }$ 编码表示的维数$d = 1 0 0$ ，取 $\\lambda { = } 0 . 5$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于得到的还原结果是一个排序，因此使用precise ${ \\textcircled { a } } k$ 这个指标来评价变体词还原的效果。本文中precise ${ \\mathcal { Q } } k = N _ { k } / Q$ ，对于每个变体词 $m _ { i }$ ，将它对应的目标词 $\\mathbf { e } _ { m _ { i } }$ 在本文给出的排序序列出现的位置记作 $p _ { i }$ 。 ${ N } _ { k }$ 在所有的变体词测试样本中， $p _ { i } \\leq k$ 的变体词样本数量，Q为所有变体词测试样本数量。若 $p = 1$ 则说明得到的候选目标词排序列表的第一位即是真正的目标词，即准确还原了这个变体词。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验与目前效果最好的几种方法进行了比较，包括文献【8，9，12】的方法。本文中的方法记做AE-ECI。图4和表2 展示了几种方法在数据集上还原效果。从结果中可以看出，相比之前的方法，本文的方法在精确率上有一定的提升。对于pre $@ 1$ ，本方法相比效果最好的Zhang的方法提升 $3 . 4 1 \\%$ ，而对于pre@10，本文的方法较最好的 Sha 的方法提升了$6 . 4 3 \\%$ ，显著提高了变体词还原效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/99edcb286b3c0222c88c4c712e8e011845b53e2893a112e9a8825f4605fc68a5.jpg",
+        "table_caption": [
+            "表2不同方法的变体词还原效果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Pre@k</td><td>pre@1</td><td>pre@5</td><td>pre@10</td><td>pre@20</td></tr><tr><td>Huang et al. (2013)</td><td>37.09</td><td>59.40</td><td>65.95</td><td>70.22</td></tr><tr><td>Zhang et al. (2015)</td><td>38.17</td><td>66.38</td><td>73.07</td><td>78.06</td></tr><tr><td>Sha et. al. (2017)</td><td>36.50</td><td>62.50</td><td>75.90</td><td>84.70</td></tr><tr><td>AE-ECI</td><td>41.88</td><td>72.07</td><td>82.33</td><td>88.89</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a50a2e00b28b8e0d3081b4210c6b171b5c27466c4c4d356571385381ff967aea.jpg",
+        "img_caption": [
+            "图4不同方法的变体词还原效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4参数讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 ) \\lambda$ 。 $\\lambda$ 是调节上下文在编码中影响的权值。本文取不同的$\\lambda$ 进行实验，测试不同数值下变体词还原结果的pre $@ 1$ 值。由于首位还原结果若正确则意味着系统完全准确的还原了该变体词，因此pre $@ 1$ 指标最为重要，也最为代表性。因此此处本文仅测试最pre $@ 1$ 指标。其中 $\\scriptstyle \\lambda = 0$ 表示不添加有效上下文信息。如表3所示，本文可以发现添加有效上下文信息对于变体词还原任务是有提升的，但λ过大也会影响效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/99a53e38fdb071d17e504f6f88b30d6c819cdbe3f22a21e7cd61ca3fa760f101.jpg",
+        "table_caption": [
+            "表3入对变体词还原效果的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>0.0</td><td>0.1</td><td>0.5</td><td>1.0</td></tr><tr><td>pre@1</td><td>39.88</td><td>41.31</td><td>41.88</td><td>40.31</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)自编码器深度和编码维数。自编码器隐层的维数 $\\textit { d }$ 即编码表示的维数，深度即自编码器隐层的层数。本文取不同的深度和维度组合进行实验验证，结果如表4所示。可以看出维度过小或过大都会影响效果。可能的原因是维数过小不足以抽象输入的特征，维数过大导致神经网络参数过多，难以训练到好的效果。深度的取值也类似，可以发现深度较小时对效果影响不大，但网络过深也同样影响最终效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5951843015efde2ef0b1c4773d7ab666951ab3428060f1ffd4e25654eba0f85d.jpg",
+        "table_caption": [
+            "表4自编码器深度和维数对变体词还原效果的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维数</td><td>50</td><td>100</td><td>200</td><td>100</td><td>100</td></tr><tr><td>深度</td><td>3</td><td>3</td><td>3</td><td>2</td><td>5</td></tr><tr><td>pre@1</td><td>39.60</td><td>41.88</td><td>41.59</td><td>41.31</td><td>41.45</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)窗口大小和有效上下文词项数量。在抽取有效上下文信息时，选择不同的窗口大小wd 和上下文词项数量K的组合来观察效果，结果如表5所示。可以看出，在正常的取值范围内，窗口大小和词项数量对变体词还原的结果影响不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a71a6bfd97b799b6a8a1c768f0bea9d50b10a306356dbcca45a68008a925cc35.jpg",
+        "table_caption": [
+            "表5窗口大小和有效上下文词项数量对变体词还原效果的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>wd</td><td>5</td><td>10</td><td>20</td><td>50</td></tr><tr><td>K</td><td>10</td><td>20</td><td>10</td><td>20</td></tr><tr><td>pre@1</td><td>40.31</td><td>41.88</td><td>41.88</td><td>41.59</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文利用词项间点互信息来筛选有效上下文信息，并使用联合上下文的自编码器模型来融合词项及其有效上下文信息，生成联合编码，来完成变体词还原任务。自编码器是无监督模型，可以很好地对大量未标注数据进行训练，减少了人工标注的过程。根据点互信息筛选出的有效上下文信息可以更准确的发现变体词与目标词之间共有的、有特点的上下文，从而提高了变体词还原的准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Wong K F,Xia Y.Normalization of Chinese chat language [J].Language Resources and Evaluation,2008,42 (2): 219-242.   \n[2]Xia Y,Wong KF,Li W.A phonetic-based approach to Chinese chat text normalization [C]// Proc of the 2lst International Conferenceon Computational Linguistics and the 44th annual meeting of the Association for Computational Linguistics.【S.1.】:Association for Computational Linguistics,2006: 993-1000.   \n[3]Sood S O,Antin J,Churchill E F. Using crowdsourcing to improve profanity detection [C]//Proc ofAAAI Spring Symposium:Wisdom of the Crowd. 2012:06.   \n[4]Wang A,Kan MY.Mining informal language from chinese microtext: joint word recognition and segmentation [C]// Proc of the 41th Annual Meeting of the Association for Computational Linguistics.2013:731-741.   \n[5]Han B,Cook P,Baldwin T.Automatically constructing a normalisation dictionary for microblogs [C]// Proc of Joint Conference on Empirical Methods in Natural Language Processing And Computational Natural Language Learning.Association for Computational Linguistics,2O12:421- 432.   \n[6]Li Z,Yarowsky D.Mining and modeling relations between formal and informal Chinese phrases from web corpora [C]//Proc of Conference on Empirical Methods in Natural Language Processing.Association for Computational Linguistics,2008:1031-1040.   \n[7]Sha Y, Shi Z,LiR,et al.Resolving entity morphs based on character-word embedding[J].Procedia Computer Science,2017,108:48-57.   \n[8]Huang H,Wen Z,Yu D,et al.Resolving Entity Morphs in Censored Data [C]//Proc of the 41th Annual Meeting of the Association for Computational Linguistics.2013:1083-1093.   \n[9]Zhang B,Huang H,Pan X,et al. Context-aware Entity Morph Decoding [C]//Proc of the 43th Annual Meeting of the Association for Computational Linguistics. 2015: 586-595.   \n[10] Hiruncharoenvate C,Lin Z,Gilbert E.Algorithmically bypassing censorship on sina weibo with nondeterministic homophone substitutions [C]//Proc of the 9th International AAAI Conference on Web and Social Media.2015: 150-158.   \n[11] Zhang B,Huang H,Pan X,et al.Be Appropriate and Funny:Automatic Entity Morph Encoding [C]// Proc of the 42th Annual Meeting of the Association for Computational Linguistics.2014:706-711. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[12] ShaY,Shi Z,LiR,etal.Resolving EntityMorphs based on Character-Word ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Embedding[J].Procedia Computer Science,2017,108:48-57.   \n[13] Amiri H,Resnik P,Boyd-Graber J,et al.Learning text pair similarity with context-sensitive autoencoders [C]//Proc of the 54th Annual Meeting of the Association for Computational Linguistics.2016:1882-1892.   \n[14] Zhou L,Zhang D.NLPIR:A theoretical framework for applying natural language processing to information retrieval [J]. Journal of the Association for Information Science and Technology,2003,54 (2):115-123.   \n[15] Manning C D,Surdeanu M,Bauer J,et al.The Stanford corenlp natural languageprocessingtoolkit[EB/OL].htps://nlp.stanford. edu/pubs/StanfordCoreNlp2014. pdf.2014:55-60.   \n[16]Mikolov T, SutskeverI, Chen K,et al.Distributed representations of words and phrases and their compositionality[C]//Advances in Neural Information Processing Systems.2013:3111-3119.   \n[17] Pennington J,Socher R,Manning C.Glove:Global vectors for word representation [C]//Proc of Conference on Empirical Methods in Natural Language Processing.2014:1532-1543. ",
+        "page_idx": 5
+    }
+]

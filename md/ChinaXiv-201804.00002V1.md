@@ -1,0 +1,99 @@
+# 大数据时代的脑功能成像：走向精神疾病诊疗应用
+
+# 严超赣 $^ { 1 , 2 , 3 } *$
+
+1中国科学院心理研究所行为科学重点实验室，北京，100101;  
+²中国科学院大学心理学系，北京，100049;  
+3中国科学院心理研究所磁共振成像研究中心，北京，100101;
+
+\*E-mail: yancg@psych.ac.cn
+
+国家重点研发计划（2017YFC1309902）、国家自然科学基金（81671774，81630031）、北京市科学技术委员会（Z161100000216152）和中国科学院百人计划项目基金资助
+
+摘要：脑功能成像包含有多种研究模态，其中功能磁共振成像（functionalmagneticresonance imaging,fMRI）技术，特别是静息态 fMRI技术由于其所具有的安全无创、兼具较高的空间/时间分辨率、临床易实施、便于积累大数据等独特优势在精神疾病研究中得到了广泛应用。然而，效应量过小、可重复性不高等问题也困扰着该技术在精神疾病诊断治疗中的进一步临床转化应用。笔者认为，对静息态自发思维进行精细化以改进静息态 fMRI研究范式，阐明静息态 fMRI指标生理意义并开发更具神经意义的新指标，积累大数据并训练深度学习分类器辅助临床诊断，以及精心设计纵向研究探讨精神疾病治疗方案的改进，是推动静息态fMRI技术进一步向临床诊疗转化的可行途径。
+
+关键词：功能磁共振成像；静息态；大数据；精神疾病
+
+脑功能成像是对大脑神经功能活动进行测量的技术，涵盖颅内皮层脑电图（ElectroCorticoGraphy，ECoG）、头皮脑电图（electroencephalography，EEG）、脑磁图（magnetoencephalography，MEG）、正电子发射计算机断层扫描（positronemissiontomography，PET）、单光子发射计算机断层扫描（single-photon emissioncomputedtomography,SPECT）、功能近红外光谱技术(functional near infrared spectroscopy,fNIRS)和功能磁共振成像（functional magnetic resonance imaging,fMRI）等[1]。其中，fMRI技术由于其安全无创、兼具较高的空间/时间分辨率以及设备得到广泛普及等特点[2,3],在临床研究中被寄予厚望，期待能够找到临床实践中可用的疾病影像学生物标记物。
+
+fMRI技术又分任务态 fMRI技术和静息态 fMRI技术。在临床应用上，任务态 fMRI目前在术前功能区定位方面取得了一定的成功[4]。然而，由于任务态 fMRI需要比较复杂的实验设计，需要病人能够非常主动的配合，对于磁共振兼容反应刺激仪也有较高要求，在某种程度上限制了它的使用。而静息态 fMRI只需要被试在磁共振成像扫描仪中安静平躺 ${ 5 } \sim 1 0$ 分钟，具有设计简单、便于积累大数据、临床易实施、病人易配合等独特优势[5]，是fMRI技术在临床诊疗应用研究中的一大热点。
+
+另一方面，精神疾病虽然是21世纪人类最大的健康威胁之一，但其诊断缺乏生物学客观指标，主要是基于症状学的临床观察，亟需针对其异常脑机制异常建立高敏感性和特异性的客观标记物[6]。由于精神疾病不宜采取有创的方式进行研究，因此，静息态 fMRI由于其独特的安全无创、高时空分辨率和简便易行等特点，成为当前刻画精神疾病脑自发活动紊乱及建立影像学标记物的首选技术手段。并且，可以预见的是，在新的革命性无创脑成像技术出现之前，相当长的一段时间内静息态 fMRI仍是精神疾病脑机制研究中不可替代的主要手段之一。
+
+然而，虽然已经有众多静息态fMRI在精神疾病中的病理生理机制的临床前研究[5,7,8]，但至今仍然未能走向临床诊疗实践。值得指出的是，继往的大部分静息态 fMRI精神疾病研究都存在小样本统计力弱的问题，结论之间往往很不一致。而有研究者指出，小样本研究结果各异，其本身并不容易发现显著结果（统计力度power太小），即使发现显著结果，其真实性也不高（阳性预测值 positive predictive value 低）[9]。因此，要想建立有推广性的临床生物学指标，需要积累临床大数据，采用当前方兴未艾的大数据深度学习模式，方有可能达成。
+
+当然，除了大数据层面之外，静息态 fMRI还存在着一些其他方面的缺点，阻碍了它在临床诊断中的转化应用。最近，解放军南京总医院卢光明教授和张志强教授对此也进行了述评[10]，提出推进 fMRI临床应用需要进行基于个体分析模式的转化应用，精练有效的指标和简洁直接的分析过程，以及对数据采集分析进行规范化。在这些方向上，笔者和合作者们也完成了一些研究工作。我们针对一系列困扰静息态fMRI的方法学问题，如头动[11]、标准化[12]和多重比较校正[13]等，提出了广受领域认可和引用的解决方案。针对静息态fMRI数据处理步骤繁琐，参数设置多样的问题，我们对其进行了规范化，建立了目前已被引用上千次的脑成像流水线式计算平台DPARSF[14]。不过，在这些工作之外，我们认为还有以下几点值得进一步探索，以期实现静息态 fMRI在精神疾病诊疗中的应用。
+
+# 一、将复杂多样的静息态自发思维精细化，研究对精神疾病有特异性的自发思维
+
+当前静息态 fMRI的可靠性不是特别理想，其中的一个重要原因是静息态下心理活动本身的复杂性[15]。经典的静息态 fMRI设计中对被试的要求非常简单（"注视‘ $\cdot _ { + } ,$ 字注视点，保持清醒"或者“闭眼休息”），因此很难控制和确定被试在扫描过程中的心理状态[16]。这种情况下，被试可能会进入诸如走神（mind wandering）、忧虑（worry）、反刍思维（rumination）等等不同种类的自发思维（spontaneous thought）。这些自发思维混杂在一起，共同形成了静息态这样一种心理状态[17-19]。自发思维具有多变的特点[5]，同一个体在两次静息态扫描过程中可能产生不同类型的自发思维，这会显著降低同一个体在多次静息态测量间的一致性，从而影响静息态fMRI的信度。另一方面，对于群体间比较研究，如果组间存在自发思维倾向差异，那么他们在静息态下的自发思维活动很可能存在组间系统差异，进而体现在其静息态的神经活动模式上。许多精神疾病与自发思维的异常有联系，即精神病人的自发思维倾向与健康人不同[7]。例如，相比于健康人，注意缺陷多动障碍患者自发思维的频率更高，并且具有更大的变异性；焦虑症患者的自发思维过于夸大事件的个人伤害性，并伴有强烈的担忧；而抑郁症患者大多具有反刍思维特质，他们的自发思维内容更多是负性的、指向过去的[8,9]。如果没有排除静息态自发思维的影响，那么精神疾病患者与健康人的静息态测量指标的组间差异，就会受到这些不同的自发思维倾向的影响，不能真实反映该精神疾病的神经基础。因此，引导被试进入某种特定的自发思维状态，特别是针对特定精神疾病有特异性的自发思维，对于提高静息态fMRI可靠性进而找到稳定的精神疾病生物标记非常有帮助。
+
+二、阐明静息态fMRI指标的生理意义，推动理解精神疾病神经机制
+
+静息态 fMRI已经提出了各种各样的脑成像指标，包括但不限于低频振幅(amplitudeof low-frequency fluctuations,ALFF）[20]、比例低频振幅（fractional ALFF,fALFF）[21]、局部一致性（regional homogeneity,ReHo）[22]、度中心性（degree centrality,DC）[23]和镜像体素同伦连接（voxel-mirrored homotopic connectivity,VMHC）[24]等。然而这些指标的生理意义仍然不明确，甚至这些指标的基础——血氧水平依赖(blood oxygenationlevel dependent,BLOD）信号的神经生理机制依然不明确。BOLD 信号本身反映的是脱氧血红蛋白浓度的变化，而不是对神经活动的直接测量。因此，理解 BOLD 信号以及基于BOLD信号的静息态 fMRI指标的神经机制，是进一步采用其解释精神疾病脑机制的基础。已有动物相关研究表明，BOLD信号与局部场电位（local field potential,LFP）有关联，尤其是 $\gamma$ 节律（ $3 0 { \cdot } 1 0 0 \mathrm { H z }$ ）[7-9]。使用人类被试的任务态非同步记录的ECoG与 fMRI的相关研究也提示， $\gamma$ 节律与高 $\gamma$ 节律的低频震荡与 BOLD 信号的变化有关[10-12]，但该证据是间接的，尚未得到同步fMRI电生理实验的证明。Mantini等人[13]采用同步头皮EEG-fMRI技术，发现静息态下不同的功能网络与脑电的不同节律存在不同的组合关系。然而，目前仍未有研究能有效建立静息态fMRI指标与神经电活动之间的对应关系。因此，采用同步EEG-fMRI技术，甚至同步颅内电极ECoG-fMRI技术，从电生理的角度阐明静息态fMRI指标的生理意义，并开发更能代表神经活动的新 fMRI算法和指标，是推动理解精神疾病神经机制的一个重要方向。
+
+三、积累精神疾病脑成像大数据，训练深度学习分类器实现人工智能辅助诊断
+
+在前两点实验范式和更能代表神经活动的新 fMRI 指标开发的基础上，将静息态fMRI 推向临床应用的最有潜力的方向无疑是大数据与深度学习。在大数据积累上，已有多个数据共享计划（如FCP/INDI、CORR、ABIDE、HCP、ADNI、FBIRN、UKBiobank等）成功实施，并成功地应用于正常人[25]、注意缺陷多动障碍[26]、孤独症[27]和精神分裂症[28]的研究。该模式累积多站点的原始数据，然后进行统一分析建模，故对数据的整理、传输和存储要求极高，且原始数据维度巨大，亦有泄漏被试隐私的忧虑[29]。这些因素之外，研究者们共享原始数据的意愿程度也不同，限制了更大规模的原始数据共享。在结构成像领域，出现了荟萃分析模式ENIGMA[30]，即各参与站点按照统一的模型对脑结构数据进行标准化数据处理和回归分析，然后将p值和回归系数共享出来进行荟萃分析，已经在抑郁症[31]、精神分裂症[32]和孤独症[33]等疾病的结构异常上有了大数据应用。但遗憾的是，由于静息态 fMRI尚存在诸多方法学和标准化问题，
+
+ENIGMA模式还未能应用于静息态 fMRI研究中。笔者和合作者们结合在静息态 fMRI方法学研究上的优势，对数据处理过程进行了规范化，并建立了引用上千次的流水线式计算平台DPARSF。在DPARSF 基础上，笔者和合作者们建设了静息态脑成像大数据共享平台（The R-fMRI Maps Project, http://fmri.org/maps)，参照 ENIGMA 模式，由各站点统一按照建立的标准化流程对数据进行处理，然后将得到的静息态fMRI指标汇聚成大数据，目前已经共享了4770 名被试的静息态影像数据。最近，基于该大数据共享平台，笔者联合杭州师范大学臧玉峰教授、中南大学湘雅二医院赵靖平教授和中国科学院心理研究所左西年研究员，邀请全国精神科专家，启动了抑郁症静息态fMRI多中心数据荟萃分析（REST-meta-MDD）计划。该计划旨在解决抑郁症小样本研究的结论不可靠问题，建立多中心大样本数据库，对已有的抑郁症静息态fMRI数据进行重新分析和再挖掘，努力建立一套中国人的抑郁症全脑静息态活动异常概率图谱，把静息态 fMRI进一步推向抑郁症临床应用。通过联合国内17家医院的25个抑郁症研究组，成功汇聚了1300 例抑郁症患者和1128例正常对照的脑成像数据，建成了目前世界上最大的抑郁症静息态 fMRI数据库。未来笔者和合作者们将进一步扩建抑郁症数据库，并累积包含多种精神疾病（如双相情感障碍、精神分裂症、强迫症等）的静息态大数据，以考察脑成像生物学指标的特异性。在建成的大数据上，采用深度学习训练深度神经网络，可以寻找具有诊断特异性的生物学指标。最近，深度学习在人工智能领域掀起了一场革命，该方法利用大规模多层人工神经网络、海量训练数据、和强大的并行计算工具，获得了无与伦比的识别能力[34]。但是深度学习需要大量的训练数据，在小样本上训练效果甚至不如传统的浅层网络算法，故在脑成像中应用甚少。未来基于深度卷积网络、堆叠自编码器、迁移学习等深度学习算法，在多种精神疾病静息态大数据上训练具有临床特异性的分类器，是实现人工智能辅助精神疾病诊断的重要方向。
+
+四、大数据时代的小样本精神疾病脑成像研究：被试内纵向设计
+
+虽然神经成像领域在大力推动多中心大数据研究模式，但并不是所有的研究者都能从事大数据研究，也不是所有的科学问题都适用于大数据模式。笔者认为，在大数据时代，精心设计的小样本研究仍然非常有必要。在笔者研究组之前的研究[13]中发现，脑功能成像领域中流行的被试间设计小样本研究 $( \mathrm { N } < 8 0$ ）的可重复性和统计检验力都不能令人满意，发现的显著结果为真的可能性也很低。然而，一旦采用被试内设计（比如探讨被试睁眼与闭眼的差别)，由于其远高于被试间设计的效应量（effect size）和统计力（power)，即使 $\Nu = 3 0$ 的小样本数据，其可重复性也远高于被试间设计（比如男女差异）的大样本数据。因此，即使在大数据时代，精心设计的小样本纵向研究仍然有非常大的价值。在精神疾病研究中，可以对被试进行纵向追踪研究，考察疾病发展对大脑活动的影响[35]。更重要的是，可以考察治疗手段（如精神药物，认知行为疗法和脑刺激疗法等）对大脑活动的影响[36,37]，阐明精神疾病治疗起效的神经机制，以期帮助进一步改进精神疾病的治疗。
+
+当然，以上四点只是笔者的粗浅看法，可能还有很多别的方向值得探讨。但总的说来，改进静息态 fMRI研究范式，阐明静息态 fMRI指标生理意义并开发更具神经意义新指标，利用大数据深度学习辅助临床诊断，以及采用纵向研究探讨精神疾病治疗方案的改进，是静息态 fMRI能够比较有效地在精神疾病诊断治疗中发挥作用的重要途径。
+
+致谢：中国科学院心理研究所TheR-fMRILab 成员陈骁、李乐、鲁彬、陈宁轩和李慧娴等对本文亦有贡献。
+
+# 参考文献
+
+1. Raichle ME (2O03) Functional Brain Imaging and Human Brain Function. The Journal of Neuroscience 23: 3959.   
+2. Ogawa S, Lee TM, Nayak AS, Glynn P (1990) Oxygenation-sensitive contrast in magnetic resonance image of rodent brain at high magnetic fields. Magn Reson Med 14: 68-78.   
+3.Logothetis NK (2008) What we can do and what we cannot do with fMRI. Nature 453: 869-878.   
+4. Smith K (2012) Brain imaging: fMRI 2.0. Nature 484: 24-26.   
+5.Lee MH, Smyser CD, Shimony JS (2013) Resting state fMRI: A review of methods and clinical applications. AJNR American journal of neuroradiology 34: 1866-1872.   
+6.Holtzheimer PE,Mayberg HS (2011） Stuck in a rut: rethinking depression and its treatment. Trends Neurosci 34: 1-9.   
+7. Greicius MD,Flores BH, Menon V, Glover GH, Solvason HB, et al. (2007) Resting-state functional connectivity in major depression: abnormally increased contributions from subgenual cingulate cortex and thalamus. Biol Psychiatry 62: 429-437.   
+8. Abbott AE, Nair A, Keown CL, Datko M, Jahedi A, et al. (2016) Patterns of Atypical Functional Connectivity and Behavioral Links in Autism Differ Between Default, Salience, and Executive Networks. Cereb Cortex 26: 4034-4045.   
+9.Button KS, Ioannidis JP,Mokrysz C, Nosek BA,Flint J, et al. (2013) Power failure: why small sample size undermines the reliability of neuroscience. Nat Rev Neurosci.   
+10．卢光明，张志强（2018）功能磁共振成像临床诊断的转化应用之路:挑战与突破．中 国现代神经疾病杂志 18:153-155.   
+11. Yan CG, Cheung B, Kelly C, Colcombe S, Craddock RC, et al. (2013) A comprehensive assessment of regional variation in the impact of head micromovements on functional connectomics. Neuroimage 76: 183-201.   
+12. Yan CG,Craddock RC， Zuo XN, Zang YF，Milham MP (2013） Standardizing the intrinsic brain: towards robust measurement of inter-individual variation in 1000 functional connectomes. Neuroimage 80: 246-262.   
+13. Chen X, Lu B, Yan CG (2018) Reproducibility of R-fMRI metrics on the impact of different strategies for multiple comparison correction and sample sizes.Hum Brain Mapp 39: 300-318.   
+14. Yan CG, Zang YF (2010) DPARSF: A MATLAB Toolbox for "Pipeline" Data Analysis of Resting-State fMRI. Front Syst Neurosci 4: 13.   
+15. Morcom AM, Fletcher PC (2O07) Does the brain have a baseline? Why we should be resisting a rest. Neuroimage 37: 1073-1082.   
+16. Power JD， Schlaggar BL， Petersen SE (2014） Studying brain organization via spontaneous fMRI signal. Neuron 84: 681-696.   
+17. Smallwood J， Schooler JW (2006) The restless mind. Psychological Bulletin 132: 946-958.   
+18. Smallwood J， Schooler JW (2015） The science of mind wandering: empirically navigating the stream of consciousness. Annu Rev Psychol 66: 487-518.   
+19. Christoff K, Irving ZC, Fox KC, Spreng RN, Andrews-Hanna JR (2016) Mind-wandering as spontaneous thought: a dynamic framework. Nat Rev Neurosci 17: 718-731.   
+20. Zang YF, He Y, Zhu CZ, Cao QJ, Sui MQ, et al. (2007) Altered baseline brain activity in children with ADHD revealed by resting-state functional MRI. Brain Dev 29: 83-91.   
+21. Zou QH, Zhu CZ, Yang Y, Zuo XN, Long XY, et al. (2008) An improved approach to detection of amplitude of low-frequency fluctuation (ALFF） for resting-state fMRI: fractional ALFF. J Neurosci Methods 172: 137-141.   
+22. Zang YF, Jiang TZ, Lu YL, He Y, Tian LX (2004) Regional homogeneity approach to fMRI data analysis. NeuroImage 22: 394-400.   
+23.Buckner RL, Sepulcre J, Talukdar T, Krienen FM, Liu H, et al. (2009) Cortical hubs revealed by intrinsic functional connectivity: mapping,assessment of stability,and relation to Alzheimer's disease. J Neurosci 29: 1860-1873.   
+24. Zuo XN, Kelly C, Di Martino A, Mennes M, Margulies DS,et al. (2010) Growing together and growing apart: regional and sex differences in the lifespan developmental trajectories of functional homotopy. JNeurosci 30: 15034-15043.   
+25. Biswal BB,Mennes M, Zuo XN,Gohel S, Kelly C, et al. (2010) Toward discovery science of human brain function. Proc Natl Acad Sci U S A 107: 4734-4739.   
+26.ADHD-200-Consortium (2012) The ADHD-200 Consortium: A Model to Advance the Translational Potential of Neuroimaging in Clinical Neuroscience. Front Syst Neurosci 6: 62.   
+27. Di Martino A, Yan CG, Li Q, Denio E, Castellanos FX, et al. (2014) The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism. Mol Psychiatry 19: 659-667.   
+28. Turner JA, Damaraju E, van Erp TG, Mathalon DH, Ford JM, et al. (2013) A multi-site resting state fMRI study on the amplitude of low frequency fluctuations in schizophrenia. Frontiers in neuroscience 7: 137.   
+29.Milham MP (2012) Open neuroscience solutions for the connectome-wide association era. Neuron 73: 214-218.   
+30. Thompson PM，Stein JL，Medland SE，Hibar DP,Vasquez AA，et al.(2014） The ENIGMA Consortium: large-scale collaborative analyses of neuroimaging and genetic data. Brain Imaging Behav 8: 153-182.   
+31. Schmaal L，Hibar DP，Samann PG，Hall GB，Baune BT，et al. (2O17） Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA Major Depressive Disorder Working Group.Mol Psychiatry 22: 900-909.   
+32. Kelly S, Jahanshad N, Zalesky A, Kochunov P, Agartz I, et al. (2017) Widespread white matter microstructural differences in schizophrenia across 4322 individuals: results from the ENIGMA Schizophrenia DTI Working Group.Mol Psychiatry.   
+33.van Rooij D, Anagnostou E, Arango C, Auzias G, Behrmann M, et al. (2017) Cortical and Subcortical Brain Morphometry Differences Between Patients With Autism Spectrum Disorder and Healthy Individuals Across the Lifespan: Results From the ENIGMA ASD Working Group. Am JPsychiatry: appiajp201717010100.   
+34. Schmidhuber J(2015) Deep learning in neural networks: an overview. Neural Netw 61: 85-117.   
+35.Admon R,Kaiser RH, Dillon DG, Beltzer M, Goer F,et al. (2017） Dopaminergic Enhancement of Striatal Response to Reward in Major Depression. Am J Psychiatry 174: 378-386.   
+36. Godlewska BR, Norbury R, Selvaraj S, Cowen PJ, Harmer CJ (2O12) Short-term SSRI treatment normalises amygdala hyperactivity in depressed patients. Psychol Med 42: 2609-2617.   
+37. Heller AS, Johnstone T, Peterson MJ,Kolden GG,Kalin NH, et al. (2013) Increased prefrontal cortex activity during negative emotion regulation as a predictor of depression symptom severity trajectory over 6 months. JAMA psychiatry 70: 1181-1189.
+
+# Functional Brain Imaging in the Big Data Era: towards Applications in Diagnosis and Treatment of Mental Disorders
+
+YAN Chao-Gan1,2.3 \*
+
+1CAS Key Laboratory of Behavioral Science, Institute of Psychology,Beijing, 100101; ²Department of Psychology, University of Chinese Academy of Sciences, Beijing,100101; 3Magnetic Resonance Imaging Research Center, Institute of Psychology, Chinese Academy of Sciences, Beijing, 100101
+
+\*Email: yancg@psych.ac.cn
+
+Abstract: Resting-state functional magnetic resonance imaging (fMRI) is a mainstream functional brain imaging modality with myriad applications in mental disorder studies, due to its non-invasiveness,high spatial-temporal resolution，ease of use，and amenability to aggregate big data across studies and sites. However， the small effect size and low reproducibility of resting-state fMRI restricted its clinical applications in diagnosis and treatment of mental disorders. In my opinion， there were several ways to advance resting-state fMRI towards aiding clinical practice: refining resting-state spontaneous thoughts and improving the paradigm of resting-state fMRI， clarifying the physiological mechanism of resting-state fMRI measures and developing new measures which reflect neuronal signals better, accumulating big imaging data and training deep learning classifiers for clinical diagnosis,as well as designing longitudinal studies to improve the treatment of mental disorders.
+
+Keywords: functional magnetic resonance imaging; resting-state; big data; mental disorders

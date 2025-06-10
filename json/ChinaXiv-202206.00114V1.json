@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "胡麻生理生化代谢指标对干旱胁迫的响应及其模拟模型的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "康佳，李玥，康亮河(甘肃农业大学信息科学技术学院,甘肃 兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为进一步研究胡麻生理生化代谢指标响应干旱胁迫时对胡麻产量的影响，采用盆栽控水法模拟胡麻干旱胁迫，依据2013—2014年甘肃省定西市西巩驿镇胡麻试验数据，建立并检验胡麻干旱胁迫模型,模拟干旱胁迫时对胡麻生理生化指标及产量影响,利用均方根误差(RMSE)和决定系数 $\\left( R ^ { 2 } \\right)$ 描述模型拟合度。结果表明：(1)模型产量模拟值的RMSE为 $4 1 . 3 1 5 9 { \\sim } 1 5 5 . 6 6 8 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 平均值为 $8 0 . 1 8 3 7 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } ; F$ $R ^ { 2 }$ 为 $0 . 8 9 2 9 { \\sim } 0 . 9 8 9 4$ ,平均值为0.9387,该模型具有较好的拟合度、可行性也较强。（2）在重度干旱胁迫下，抗氧化代谢指标——超氧化物歧化酶(SOD)、过氧化物酶(POD）、过氧化氢酶(CAT)中，CAT活性表现趋势为下降，终花期POD活性增幅 $( 2 6 . 0 9 \\% \\sim 2 8 . 0 0 \\%$ )最大；渗透调节的3种物质含量均显著上升，其中脯氨酸增幅最大，达 $2 3 6 . 2 2 \\%$ 。（3）呈现出极显著相关性的各指标有3组，分别是脯氨酸与叶绿素、丙二醛和CAT活性；可溶性蛋白与丙二醛和CAT活性；POD活性与SOD活性。胡麻生理生化指标响应不同程度干旱胁迫与胡麻的产量有极强的关联，此模型的建立是对胡麻生理生化指标响应干旱胁迫的科学补充,进一步为胡麻的高效生产管理及农业生产系统提供理论依据和支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胡麻；农业生产系统模拟器(APSIM)；干旱胁迫；生理生化；模拟模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡麻是一种具有抗寒、抗旱、耐瘠薄强的作物，又名油用亚麻[1]。在我国,甘肃省种植胡麻面积最大，约 $1 0 . 0 9 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 [ 2 ] }$ 。水资源不足一直是环境和资源的主要问题,影响作物生长，限制农业生产[3]。国内外就大豆、花生、小麦、油橄榄等[4-7多种农作物的生理生化代谢指标对干旱胁迫的响应机制已经进行了大量研究。研究表明，由于作物类型多样、自身遗传基础等各种因素，作物适应干旱胁迫的反应在生理变化上存在着明显差异[8]。面对程度不同的干旱胁迫，作物所表现出第一反应特征为植株低矮、叶片数减低、叶面积指数降低和作物产量下降;其中，渗透代谢指标脯氨酸(Pro)含量、可溶性蛋白含量、丙二醛含量均增加;抗氧化代谢指标中的过氧化物酶(POD）、超氧化物歧化酶(SOD)活性增大。王利琴等研究了胡麻不同品种生理特性受干旱的影响，赵利等[研究了受水分胁迫影响不同抗旱类型胡麻苗期的生理生化指标变化，他们的研究结果与上述油料作物研究结果基本一致。但以上研究均未与科学的模型相结合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在我国，研究农业生产系统模拟器(APSIM)的学者，科研方向主要集中在：李广等[1I-12]基于APSIM模型旱地春小麦的降水量、 $\\mathrm { C O } _ { 2 }$ 、温度对产量的影响;王亚许等[13利用APSIM模型对春玉米生育期旱灾损失敏感性进行了定量分析研究；沈禹颖[4、古丽娜扎尔·艾力等[15基于APSIM模型对黄土旱塬区首蓿-小麦轮作系统进行了研究。然而，目前国内外对于胡麻作物产量与模型相结合的研究报道极少，有待继续深入。因此，本文以胡麻为研究对象，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用APSIM模型，建立胡麻干旱胁迫模型，利用大田试验数据检验模型；揭示胡麻生理生化代谢指标对干旱胁迫的响应，为应用模型分析胡麻干旱胁迫提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验长期在黄土高原的甘肃省定西市西巩驿镇 $\\left( 1 0 4 ^ { \\circ } 3 7 ^ { \\prime } 1 2 ^ { \\prime \\prime } \\mathrm { E } , 3 5 ^ { \\circ } 3 4 ^ { \\prime } 4 8 ^ { \\prime \\prime } \\mathrm { N } \\right)$ 进行，试验地区为旱地,海拔高度 $1 7 9 3 \\mathrm { ~ m ~ }$ ,年日照时数 $2 5 0 0 \\mathrm { h }$ ,年均降水量小于 $4 0 0 \\mathrm { m m }$ ,无霜期 $1 4 6 \\mathrm { d }$ ，年均气温 $7 \\%$ ,年均蒸发量 $1 5 2 4 . 8 ~ \\mathrm { m m }$ 。试验土壤从大田间采取，为黑泸土。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试材料选用陇亚10号(LY10)、陇亚11号(LY11）、陇亚杂1号(LYZ1),将胡麻种子播种于直径 $2 3 \\ \\mathrm { c m }$ ，深 $3 0 \\ \\mathrm { c m }$ 的塑料盆中。盆内装有大田供试土壤(黑泸土)与细土按1:2比例混合，并提前对基质进行灭虫，配 $2 6 0 ~ \\mathrm { g }$ 磷肥，混合搅拌均匀。试验设置4个干旱时期，分别为苗期、枞形期、现蕾期、终花期。试验处理分为3组：试验土壤相对含水量设置为田间最大持水量的 $7 0 \\% { \\sim } 7 5 \\%$ ,即为对照组（CK);田间最大持水量的 $5 0 \\% { \\sim } 5 5 \\%$ ,即为中度胁迫组(MD)；田间最大持水量的 $3 5 \\% { \\sim } 4 0 \\%$ ,即为重度胁迫(SD)。采用称重法进行控制水分。为防止系统误差，随机区组排列，并在每盆上用标签纸进行标记。栽培管理同大田生产。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1气体交换测定气孔导度、蒸腾速率均采用美国公司Li-cor便携式光合作用测定系统测定（型号为Li-6400型)[16-17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2渗透调节、抗氧化代谢物质测定脯氨酸(Pro)含量测定采用\"芘三酮法”17],丙二醛含量测定采用的\"硫代巴比妥酸法”[18],可溶性蛋白含量测定采用\"考马斯亮蓝G-250染色法”[17],CAT活性测定采用紫外分光光度法[18],SOD活性测定参照氮蓝四唑法[18],POD活性测定参照愈创木酚法[18]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4模型构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在建模过程中，本模型以胡麻生长特点为依据，综合考虑辐射利用率，辐射截获对胡麻光合速率的影响，同时还添加了 $\\mathrm { C O } _ { 2 }$ 因子、光合作用水分胁迫因子、蒸腾效率系数。参数中的相关系数均跟生物学相关，在模型中都具有一定的意义，在描述胡麻生理生化指标响应干旱胁迫的反应机理方面也能够更准确，使模型更具有普适性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农作物模拟模型（APSIM)，即农业生产系统模拟器，是一种农业系统建模框架，由澳大利亚科学家研制[19]。通过内含的各个模块（土壤、作物、肥料、水、牧场等)模拟农业生产系统中各环节[20]。作物在干旱地区会受到土壤、降水、光照、季节等条件不同程度的影响，其中光照强度、昼夜温差和季节变化都会对实际的光合作用产生关键性作用[21]在20世纪80年代,SUCROS[22]、MACROS[23]和ORY-$\\mathrm { Z A } ^ { [ 2 4 - 2 5 ] }$ 模型的出现,因它们较强的机理性,使得光合生产模型研究得到飞速发展。随后出现的CE-$\\mathrm { R E S } ^ { [ 2 6 - 2 7 ] }$ 系列模型和GOSSYM[28]模型因搭建结构和参数的复杂繁多，忽略了实际的生产管理。现有相关的油料作物模型，如油菜作物模型通过模拟光合作用及光辐射，较为成熟的有APSIM-Canola[29-30]、CERES-Rape[31-32]和LINTUL-BRASNAP[3-34]等,其中生物量的累计通过辐射利用率计算生物量来进行[16]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本模型所需要的试验区2013—2014年气象数据由甘肃省气象局气象中心提供。胡麻生理生化对干旱胁迫的响应中，光合作用进程对干旱尤为敏感。光合作用、生物量累计干旱胁迫因子计算如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathrm { { W , p h o t o } } } = \\frac { W _ { \\mathrm { { u } } } } { W _ { \\mathrm { { d } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { u } } = \\operatorname* { m i n } \\bigl ( W _ { \\mathrm { d } } , W _ { \\mathrm { s } } \\bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { d } } = \\frac { \\Delta Q _ { \\mathrm { r } } - R } { \\mathrm { T E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { s } } = \\mathrm { K L } ( \\mathrm { S W - L L } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T E } = f _ { \\mathrm { c , T E } } \\frac { f _ { \\mathrm { T E } } } { \\mathrm { V P D } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Q _ { \\mathrm { r } } = I { \\times } \\mathrm { R U E } \\times f _ { \\mathrm { d } } { \\times } f _ { \\mathrm { s } } { \\times } f _ { \\mathrm { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { V P D } = f _ { \\mathrm { v } } { [ 6 . 1 0 7 8 \\times \\exp ( \\frac { 1 7 . 2 6 9 \\times T _ { \\mathrm { m a x } } } { 2 3 7 . 3 + T _ { \\mathrm { m a x } } } ) - }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n6 . 1 0 7 8 \\times \\exp { \\left( \\frac { 1 7 . 2 6 9 \\times T _ { \\mathrm { m i n } } } { 2 3 7 . 3 + T _ { \\mathrm { m i n } } } \\right) } \\Biggr ] \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $f _ { \\mathrm { { W , p h o t o } } }$ 为水分胁迫反应函数； $\\mathbb { W } _ { \\mathrm { u } }$ 为实际水分吸收量( $\\mathbf { \\chi } _ { \\mathrm { m m } } ^ { \\prime } ,$ ； $W _ { \\mathrm { d } }$ 为土壤水分需求量( $\\bf \\Pi _ { \\mathrm { m m } } )$ ； $\\textstyle \\ W _ { \\mathrm { s } }$ 为潜在土壤水分供应量 $\\bf \\Pi _ { \\mathrm { m m } }$ ； $\\Delta Q _ { \\mathrm { r } }$ 为由辐射截获决定的潜在生物累积量( $\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ； $R$ 为呼吸率;TE为蒸腾效率，与平均日蒸汽压差 $\\mathrm { { V P D } ( k P a ) }$ 和 $\\mathrm { C O } _ { 2 }$ 因子的倍数有关；KL为根吸水值( $\\bf \\Pi _ { \\mathrm { m m } } ^ { \\prime } ,$ )；SW为土壤含水量$\\bf \\Pi _ { \\mathrm { m m } } ^ { ' }$ )；LL为凋萎系数 $\\left( \\mathrm { m m } \\cdot \\mathrm { m m } ^ { - 1 } \\right)$ ； $\\boldsymbol { f } _ { \\mathrm { c , T E } }$ 为用于蒸腾效率的 $\\mathrm { C O } _ { 2 }$ 因子，是 $\\mathrm { C O } _ { 2 }$ 浓度函数，当 $\\mathrm { C O } _ { 2 }$ 浓度从350增加到700时 $\\left( \\mu \\mathrm { L } \\cdot \\mathrm { L } ^ { - 1 } \\right)$ ， $\\boldsymbol { f } _ { \\mathrm { c , T E } }$ 从1线性增加到1.37;$f _ { \\mathrm { T E } }$ 为蒸腾效率系数;VPD为蒸汽压差； $I$ 为辐射截获量 $( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } )$ );RUE为辐射利用率 $\\left( \\mathbf { g } \\cdot \\mathbf { M } \\mathbf { J } ^ { - 1 } \\cdot \\mathbf { m } ^ { - 2 } \\right) ; f _ { \\mathrm { d } } , f _ { \\mathrm { s } } , f _ { \\mathrm { c } }$ 分别为散射因子、胁迫因子和 $\\mathrm { C O } _ { 2 }$ 因子; $f _ { \\mathrm { v } }$ 为春化因子； $T _ { \\mathrm { m a x } } \\mathrm { , } T _ { \\mathrm { m i n } }$ 分别为日最高气温、日最低气温 $( \\mathcal { C } )$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { _ W } } = F _ { \\mathrm { _ p } } \\frac { E _ { \\mathrm { _ t } } + E _ { \\mathrm { i } } } { E _ { \\mathrm { _ t , p } } + E _ { \\mathrm { i , p } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { \\mathrm { { W } } }$ 为水分胁迫光合作用; $F _ { \\mathrm { p } }$ 为潜在光合作用;$E _ { \\mathrm { t } }$ 和 $E _ { \\mathrm { t , p } }$ 分别为实际蒸腾和潜在蒸腾作用( $\\bf \\Pi _ { \\mathrm { m m } } ^ { ' }$ ; $E _ { \\mathrm { i } }$ 和$E _ { \\mathrm { i , p } }$ 分别为截获水的实际和潜在蒸发量（ $( \\mathrm { m m } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水分供给(水分需求)和水分胁迫因子如图1所示。一般来说，在现有的模型中，都会计算一个应力因子即水分胁迫，在0和1之间变化(0代表受到完全胁迫，1代表没有受到胁迫），而干旱胁迫可能会降低植物的发育速率[35-36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5模型参数校正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APSIM模型对作物种植的影响因素、生理生态机理等方面具有比较好的模拟能力，应用广，精度高。但由于APSIM模型本身以南半球的各地理环境因素为主要研究依据，与北半球的研究区存在着显著差异，模型在进行模拟前需要进行本地化参数输入，用科学的方法对模型模拟参数进行不断校准、调整、优化[37]。本研究通过运行本地化APSIM模型参数模拟胡麻光合作用和干旱胁迫，模型所需要的水量来源于本课题组研究成果《胡麻目标产量指标化调控技术规程》,并结合2013—2014年实测大田试验数据验证构建模型。胡麻模型参数分为2种，一种是胡麻物种参数,数据来源于前人研究[38-39],另外一种是可以调整的遗传参数(表1)，通过编程运行BPPPAR投影寻踪自回归模型[40],并使用RAGA优化投影指标函数的方法40调整表1参数，使得模型的模拟数据尽可能的接近实测数据",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58a659416b3cb562f802f548cb6748dfe6d94883615b330414f959b3d59d3611.jpg",
+        "img_caption": [
+            "图1APSIM模型中水分供给(水分需求）和水分胁迫因子的关系",
+            "Fig.1 Relationship between water supply (water demand) and water stress factors in APSIM model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6模型评价方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型本地化的关键在于使用试验站定西地区2013一2014年的气象数据，供试土壤黑鲈土的土壤资料，以及在该环境中种植本地供试品种的作物管理数据来运行模型，通过调整模型参数使得模型模拟数据与实际数据之间的差距逐渐变小，从而实现模型的校准与调整;然后使用另外一年的数据检验模型模拟数据与实测数据的差异。差异越小，模型精确度越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究针对模型的可行性检验，是通过与研究区大田数据的实际产量值进行对比。检验方法采用2种指标进行检验，分别为利用均方根误差(RMSE)和决定系数 $\\left( R ^ { 2 } \\right) ^ { [ 4 1 ] }$ 。一般认为,模拟结果与实际测量值之间的差距，即模拟精度。其中RMSE数值越小，精度越高； $R ^ { 2 }$ 的值越趋近于1,模拟效果就越理想。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } = { \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( M _ { i } - S _ { i } \\right) ^ { 2 } } { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7acbe2205336ad48fa224b729ad217175f739390bba367d8a2d843c3a937a1ac.jpg",
+        "table_caption": [
+            "表1胡麻生理生化代谢指标对干旱胁迫响应的模型参数",
+            "Tab.1Model parameters of response offlaxphysiological and biochemical metabolic indices to drought stress "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>描述</td><td>数值</td></tr><tr><td>辐射截获/MJ·m²</td><td>作物冠层内各器官单位时间内所截获的辐射量</td><td>19.500</td></tr><tr><td>辐射利用率/g·MJ-1·m2</td><td>单位土地面积上一定时间内植物光合作用积累的有机物所含能量与同期照射到该地面上的太 阳辐射量的比率</td><td>1.400</td></tr><tr><td>CO因子</td><td>环境因素之一，浓度高低影响光合作用速率</td><td>0.050</td></tr><tr><td>光合作用水分胁迫因子</td><td>影响光合作用的限制因子</td><td>0.600</td></tr><tr><td>蒸腾效率系数</td><td>植物对水分的利用效率</td><td>0.005</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { i }$ 为实测值; $S _ { i }$ 为模拟值; $n$ 为观察值数目；  \nM为 $M _ { i }$ 的平均值; $\\mathit { \\Pi } _ { \\overline { { S } } }$ 为 $S _ { i }$ 的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所有数据均采用软件ExcelforMac和SPSS26.0进行分析处理。建模语言使用C#编程语言。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1模型检验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用定西市西巩驿镇研究区2013—2014年试验中的实际产量，验证模型模拟胡麻生理生指标响应干旱胁迫时，其中光合指标对产量影响的有效性。结果表明（图2），产量模拟值的RMSE为$4 1 . 3 1 5 9 { \\sim } 1 5 5 . 6 6 8 5 \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,平均值为 $8 0 . 1 8 3 7 ~ \\mathrm { k g }$ ·$\\mathrm { h m } ^ { - 2 }$ 。产量的实测值与模拟值 $R ^ { 2 }$ 为 $0 . 8 9 2 9 \\mathrm { \\sim } 0 . 9 8 9 4$ ，平均值为 $0 . 9 3 8 7$ 。可见，模型能够较好地模拟胡麻生理生化指标响应干旱胁迫的胡麻产量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3b5d9cb219314388e096b9b7418acdf01ae85ad4d8122ff39168197804ba6a0.jpg",
+        "img_caption": [
+            "图2胡麻产量的实测值与模拟值",
+            "Fig.2Measured and simulated values of flax yield "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2胡麻生理生化指标对干旱胁迫的响应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 干旱胁迫下气体交换的变化蒸腾速率(Tr)是用来调整各类的作物机制,还能应对环境变化[42]。由图3a可知，胡麻受到干旱胁迫的程度越大，Tr受到的抑制尤为明显，3个胡麻品种的Tr也均为下降趋势。其中，LYZ1和LY10面对干旱胁迫表现更为敏感。在中度胁迫处理下，LY11的Tr平均降幅最小，较对照组降低 $2 5 . 0 0 \\%$ ;重度胁迫处理下，LY10的Tr平均降幅最大,较对照组下降 $8 6 . 6 7 \\%$ 。因此,干旱胁迫的加深给胡麻Tr带来了不利影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b561423940459ee3f4ce8da4ab1a25572e7d665dbbdd1f588cdc3c93258ea552.jpg",
+        "img_caption": [
+            "图3干旱胁迫对气体交换的影响",
+            "Fig.3Effects of drought stress on gas exchange ",
+            "注：T1、T2、T3、T4分别为苗期、枞形期、现蕾期、终花期。下同。 图4干旱胁迫下渗透可调节物质含量变化特征 Fig.4 Variation characteristics of osmotic adjustable substance content under drought stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气孔导度(Gs)可以反映作物遭受外部不利影响受损的程度[43]。由图3b可知，干旱胁迫程度越大，3个胡麻品种的Gs差异越显著，都呈现下降趋势。在中度和重度胁迫处理下，LYZ1的Gs较对照组平均降幅最为明显，分别为 $7 0 . 9 7 \\%$ 和 $8 7 . 1 0 \\%$ 。由此表明，干旱胁迫的加重会使胡麻叶片的Gs降低，蒸腾失水也同时下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2渗透调节代谢指标对干旱胁迫的响应在不同干旱胁迫下渗透调节物质(脯氨酸、可溶性蛋白和丙二醛)会从叶片内产出，而大量脯氨酸的积累有助于保护植物细胞结构和功能，维持植株渗透势（图4a)。在胡麻的不同生育时期干旱胁迫均使胡",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.0 (a)脯氨酸 CK工 MDLYZ1 LY11 SD403020 H8 LY10电1.0 E阳 P0.0T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4生育时期(b)可溶性蛋白 CK：： MDLY11图SD? H LY10LYZ1 丙工 一明： 形 1E ET1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4生育时期1.9 (c)叶绿素 CKLYZ1, LY11 LY10I MDSD1.31.10.90.7 0.5 用T1 T2 T3T4 T1T2T3T4 T1 T2 T3T4生育时期8om/ 1.8 (d)丙二醛 CK1.4 LYZ1 LY11 LY10 8 D1.00.60.2T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4生育时期",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "麻叶片脯氨酸含量有较大幅度增加，在重度胁迫处理下，LYZ1、LY11和LY10现蕾期叶片脯氨酸含量最高且增长幅度较大，分别为 $1 1 6 . 8 5 \\% \\cdot 2 3 6 . 2 2 \\%$ 、$8 1 . 2 2 \\%$ 。由此可证明，胡麻不同品种脯氨酸含量的增加会使其表现出较强的干旱适应能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3个胡麻品种的可溶性蛋白含量在干旱胁迫下的不同生育时期有明显增加，且增加幅度由大到小为：现蕾期 $>$ 终花期 $>$ 枞形期 $\\mathrm { \\dot { > } }$ 苗期(图4b)。在重度胁迫处理下，LYZ1、LY11和LY10现蕾期可溶性蛋白增幅最大，分别为 $1 0 7 . 1 7 \\% . 1 5 4 . 3 3 \\% . 9 1 . 1 2 \\%$ ；而苗期可溶性蛋白含量较对照组增幅最小，分别为$1 2 . 7 8 \\% . 9 . 3 1 \\% . 2 2 . 9 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胡麻响应干旱胁迫时，不同生育期叶绿素的含量增加明显。在重度胁迫处理下，LYZ1、LY11和LY10苗期叶绿素含量较对照组升高，增幅分别为$1 . 3 9 \\% . 1 . 9 4 \\% . 1 . 7 5 \\%$ ，但差异不明显；而较对照组显著增加的3个时期是现蕾期、枞形期和终花期;其中，在重度胁迫处理下叶绿素含量变化最高值出现在现蕾期，LYZ1叶绿素含量较对照组升高了$1 8 . 1 1 \\%$ (图4c)。植株叶片由于受到干旱胁迫的影响，叶片叶绿素含量增加，叶片相对含水量降低，导致叶绿素浓度的增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物响应干旱胁迫时发生膜质过氧化，其器官的主要产物为丙二醛。在不同干旱胁迫下，使胡麻叶片在不同生育时期的丙二醛含量增加(图4d)。在重度胁迫处理下，LYZ1、LY11和LY10现蕾期叶片丙二醛含量都呈大幅度增长，分别为 $8 4 . 0 0 \\%$ 、$8 0 . 0 0 \\% . 8 3 . 5 4 \\%$ 。干旱胁迫程度较低时，3个胡麻品种体内的丙二醛含量也较低，但超过植物的生理极限，会导致丙二醛的大量产生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3抗氧化代谢指标对干旱胁迫的响应CAT可以将 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 转变为活性较低的物质，从而使膜质不发生过氧化作用而起到保护作用。在不同干旱胁迫下的胡麻生育时期，叶片CAT活性有所下降（图5a)。其中，在重度胁迫处理下，LYZ1、LY11和LY10苗期胡麻叶片CAT活性比对照组降幅最少，分别为$1 3 . 2 8 \\%$ 、 $1 2 . 4 3 \\%$ 、 $1 5 . 3 8 \\%$ ;现蕾期比对照组降幅最大，分别为 $2 8 . 0 9 \\% . 2 0 . 4 4 \\% . 2 7 . 0 0 \\%$ ，低于对照组明显。植株CAT活性的降幅越小，抗氧化能力就越强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SOD通过催化反应并与POD协同组织脂质过氧化物的积累,主要作用是维持植物体内代谢平衡[44]。在重度胁迫处理下，LYZ1、LY11和LY10枞形期、现蕾期增幅较大分别为 $1 4 . 0 8 \\% , 2 1 . 3 3 \\% , 1 1 . 7 6 \\%$ 和$2 1 . 3 3 \\% . 2 4 . 6 1 \\% . 1 9 . 4 6 \\%$ ;苗期和终花期在同样处理下CAT活性也显著增加(图5b）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "POD是保护性酶,对环境变化最为敏感[45]。不同生育时期在干旱影响下均显著增加了3个胡麻品种叶片的POD活性。在重度胁迫处理下，LYZ1、LY11和LY10终花期叶片POD活性较对照增幅最大，分别为 $2 8 . 0 0 \\% . 2 6 . 9 0 \\% . 2 6 . 0 9 \\%$ ;现蕾期次之；苗期POD活性增幅最小，分别为 $1 2 . 5 0 \\%$ 、 $2 7 . 9 1 \\%$ 、$1 3 . 4 2 \\%$ （图5c）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4干旱胁迫对胡麻生理指标的相关性分析作物的各类生理指标受到干旱胁迫时，会产生一个复",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) CAT活性 CK  \n./ 1.0 1.1 LY11 MD0.9 LYZ1 SD0.8 LY100.70.60.5040.30.2 2 F小T1T2T3 T4 T1 T2 T3 T4 T1 T2 T3 T4生育时期(b) SOD活性470  \nun/m 420 山 \\* LY1 M8 SD320270 LT 福 西南220T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4生育时期(c)POD活性460工 LY LY10 D青310专 12601 1210 1 8 1 佳T1 T2 T3 T4 T1 T2 T3 T4 11 T2 3 T4生育时期注：CAT、SOD、POD分别为过氧化氢酶、超氧化物歧化酶、过氧化物酶。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "杂的生理生化过程，它们在此反应过程中，呈现不同的相关性、相互作用和影响(表2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "李玥等4以胡麻为研究对象，通过不同肥料、不同播种方式以及不同种植密度等初步检验，构建其光合生产与干物质积累模拟模型有初步成效。王钧等47利用APSIM模型对旱地春小麦的不同生育期、不同干旱程度胁迫对小麦生育期、籽粒数、千粒重及产量进行了模拟,适宜性较好。汤亮等[3]构建油菜地上部器官干物质分配动态模拟模型,结合品种遗传特性和播期试验资料，检验结果发现具有较好预测性。本研究在APSIM模型的基础上，模型模拟产量值的 $R ^ { 2 }$ 为 $0 . 8 9 2 9 { \\sim } 0 . 9 8 9 4$ ,表明模拟胡麻生理生化在不同生育时期、不同程度干旱胁迫条件下的产量有较高精度，且具有一定的适宜性。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d38477d53ea09e4357222a1babdaa4331a9294b97b94ad12d4fd9ca771a2253e.jpg",
+        "table_caption": [
+            "表2干旱胁迫下胡麻生理生化代谢指标的相关性分析",
+            "Tab.2 Correlation analysis of physiologicaland biochemical metabolism indices offlax under drought stress "
+        ],
+        "table_footnote": [
+            "注：\\*\\*\\*分别表示在0.05水平(单侧)上和0.01水平(单侧)上显著、极显著相关;Pro、SP、Chl、MDA、CAT、POD、SOD分别为脯氨酸、可溶性蛋白、叶绿素、丙二醛、过氧化氢酶、过氧化物酶、超氧化物歧化酶。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>Pro</td><td>SP</td><td>Chl</td><td>MDA</td><td>CAT</td><td>POD</td><td>SOD</td></tr><tr><td>Pro</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SP</td><td>0.611*</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chl</td><td>0.767**</td><td>0.458</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>MDA</td><td>0.724**</td><td>0.763**</td><td>0.709**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>CAT</td><td>0.872**</td><td>0.750**</td><td>0.522</td><td>0.579*</td><td>1.000</td><td></td><td></td></tr><tr><td>POD</td><td>0.099</td><td>-0.287</td><td>0.069</td><td>-0.499</td><td>0.204</td><td>1.000</td><td></td></tr><tr><td>SOD</td><td>-0.042</td><td>-0.392</td><td>0.029</td><td>-0.521</td><td>0.058</td><td>0.912**</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，3个胡麻品种在干旱胁迫下株高、茎粗和根系生长受到抑制，品种不同在不同的胁迫时期受到抑制程度也不同。叶绿素的多少直接反应作物光合能力的强弱[48]。一般研究认为,干旱所造成的植株叶片失水，相对含水量降低会抑制叶绿素的合成，还会造成其分解加速，最终使植物叶片内的叶绿素含量降低[49]。同时，部分研究表示植物在响应干旱胁迫时，叶绿素含量会增加显著[50-51]。本研究结果表明，胡麻在响应干旱胁迫时，不同生育时期胡麻叶片叶绿素含量上升，其中在重度胁迫处理下，LYZ1、LY11和LY10都在现蕾期上升幅度最大。这可能是因为胡麻叶片在受到干旱胁迫时，叶片相对含水量降低，使其中的叶绿素无法分解或分解的少部分产生浓缩，导致叶绿素含量逐步上升[52]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "渗透调节物质(脯氨酸、丙二醛、可溶性蛋白)是调节生理机制和响应干旱最直接、最重要的方式之一[53]。本研究发现,在重度胁迫处理下,这3种物质的含量均显著上升，LYZ1、LY11和LY10现蕾期和终花期脯氨酸和可溶性糖增幅最大，反映了胡麻通过以上指标在不断适应不同干旱情况。由于这些指标对干旱胁迫响应机制有所不同，研究还发现脯氨酸含量增幅高于可溶性糖含量，且水平显著。胡麻在响应干旱胁迫时，丙二醛含量增加;其中，苗期和枞形期积累相对较少，现蕾期和终花期含量增加明显，说明受到干旱胁迫时，胡麻苗期有一定程度的耐受性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抗氧化代谢指标(SOP、POD、CAT)作为活性氧的清除者，可衡量作物的抗逆性的强弱[54]。本研究发现，将POD活性维持在较高水平，胡麻能更好适应胁迫和带来的危害，在重度胁迫处理下，LYZ1、LY11和LY10终花期POD活性增幅最大，SOD、POD活性提高显著，CAT活性下降，说明胡麻抵御干旱时，可以调动抗氧化保护酶，提高抵御能力，这也是作物在遇到干旱胁迫时所做出的一种生理反应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究以陇亚10号(LY10）陇亚11号(LY11）、陇亚杂1号(LYZ1)为主要试验材料，基于APSIM模型建立胡麻干旱胁迫模型，研究了胡麻不同生育时期生理生化代谢指标对干旱胁迫的响应。主要结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）基于APSIM模型，利用2013—2014年甘肃省定西市西巩驿镇试验数据，建立胡麻干旱胁迫模型，模型检验结果表明模型能够模拟不同胁迫下胡麻生理生化指标的变化，具有较好的拟合度，可靠性较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）重度干旱胁迫下，生理生化指标脯氨酸、可溶性蛋白、丙二醛受影响最大。渗透调节代谢指标均呈增长趋势，且在现蕾期增幅最大;抗氧化代谢指标CAT活性呈现下降，且现蕾期降幅最大，SOD和POD活性有所增加，且终花期增幅最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）3个胡麻品种LYZ1、LY11和LY10中，生理生化指标受干旱胁迫影响最大的是LY11，受影响最小的是LY10。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]郭娜,李爱荣,马建富,等.施磷水平对胡麻干物质积累与产量",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的影响[J].河北农业科学,2015,19(1):14-17.[Guo Na, Li Airong,Ma Jianfu,et al.Effects of different phosphorus application levels on dry matter accumulation and yield of flax[J]. Journal of Hebei Agricultural Sciences,2015,19(1): 14-17.]   \n[2]任果香,文飞,吕伟,等.我国胡麻栽培技术综述[J].农业科技通 讯,2015(7): 7-9.[Ren Guoxiang,WenFei,Lu Wei,et al.A summary of the cultivation techniques of flax in China[J].Bulletin of Agricultural Science and Technology,2015(7): 7-9.]   \n[3]赵利,王斌,赵玮,等.胡麻品种苗期抗旱性综合鉴定与评价[J] 干旱区资源与环境,2019,33(12):179-185.[Zhao Li,Wang Bin, Zhao Wei,et al. Comprehensive evaluation and identification of drought resistance of 16 oil flax cultivarsat seedling stage[J]. Journal of Arid Land Resources and Environment, 2019,33(12): 179- 185.]   \n[4]Hugh G,Gauch J.A simple protocol for AMMIanalysis of yield trials[J]. Crop Science,2013, 53(5): 1860-1869.   \n[5]赵阳,赵曼利,焦润安,等.陇南油橄榄主栽品种对干旱胁迫的 生理响应及抗性综合评价[J].热带作物学报,2017,38(9): 1620-1627.[Zhao Yang, Zhao Manli, Jiao Run'an, et al. The physiological response and comprehensive evaluation of drought hardiness under drought stress of Longnan olive main varieties[J]. Chinese Journal of Tropical Crops,2017,38(9): 1620-1627.]   \n[6]张俊,刘娟,臧秀旺,等.不同生育时期干旱胁迫对花生产量及 代谢调节的影响[J].核农学报,2015,29(6):1190-1197.[Zhang Jun, Liu Juan, Zang Xiuwang,et al. Effects of drought stress on the yield and metabolic regulation at different growth stages in peanut[J]. Journal of Nuclear Agricultural Sciences,2O15,29(6): 1190-1197. ]   \n[7]姚宁,宋利兵,刘健,等.不同生长阶段水分胁迫对旱区冬小麦 生长发育和产量的影响[J].中国农业科学,2015,48(12):2379- 2389.[Yao Ning,Song Libing,Liu Jian,etal.Effects of water stress at different growth stages on the development and yields of winter wheat in arid region[J]. Scientia Agricultura Sinica,2015, 48(12): 2379-2389.]   \n[8]吴瑞香,杨建春,王利琴,等.不同抗旱类型胡麻幼苗对干旱胁 迫的生理响应[J].华北农学报,2019,34(2):145-153.[Wu Ruixiang,Yang Jianchun,Wang Liqin,et al. Physiological response of flax seedlings with different drought-resistances to drought stress [J].Acta Agriculturae Boreali-Sinica,2019,34(2): 145-153.]   \n[9]王利琴,杨建春,张永福,等.干旱胁迫对不同品种胡麻生理特 性和种子萌发的影响[J].种子,2021,40(6):107-111,115. [Wang Liqin, Yang Jianchun, Zhang Yongfu,et al. Effects of drought stress on physiological characteristics and seed germinationof diferent varieties of Linumusitatissimum[J]. Seed,201,40 (6): 107-111, 115.]   \n[10] 赵利,党占海,牛俊义,等.水分胁迫下不同抗旱类型胡麻苗期 生理生化指标变化[J].干旱地区农业研究,2015,33(4):206- 211.[Zhao Li,Dang Zhanhai,Niu Junyi,et al.Physiological and biochemical characteristicsof drought resistance for oil flax at seedling stage under water stressJ].Agricultural Research in the Arid Areas, 2015,33(4): 206-211.]   \n[11] 李广,黄高宝.基于APSIM模型的降水量分配对旱地小麦和豌 豆产量影响的研究[J].中国生态农业学报,2010,18(2):342- 347.[Li Guang,Huang Gaobao.Determination of the efect of precipitation distribution on yield of wheat and pea in dryland using APSIM[J]. Chinese Journal of Eco-Agriculture,2010,18(2): 342- 347.]   \n[12] 李广,李玥,黄高宝,等.基于APSIM模型旱地春小麦产量对温 度和 $\\mathrm { C O } _ { 2 }$ 浓度升高的响应[J].中国生态农业学报,2012,20(8): 1088-1095.[Li Guang,Li Yue,Huang Gaobao, et al. Response of dryland spring wheat yield to elevated $\\mathrm { C O } _ { 2 }$ concentration and temperature by APSIM model[J]. Chinese Journal of Eco-Agriculture, 2012,20(8): 1088-1095.]   \n[13] 王亚许,孙洪泉,吕娟,等.基于APSIM模型的春玉米生育期旱 灾损失敏感性定量分析[J].灾害学,2021,36(2):30-36.[Wang Yaxu,Sun Hongquan,Lu Juan,et al. Quantitative analysis of the sensitivity of spring maize to drought in the growth period based on APSIM model[J]. Journal of Catastrophology,2021,36(2): 30-36.]   \n[14] 沈禹颖.黄土高原苜蓿-小麦轮作系统土壤与作物的组分动态 [D].广州:中山大学,2004. [Shen Yuying.Soil and crop composition dynamics of alfalfa-wheat rotation system on the Loess Plateau [D]. Guangzhou: Sun Yat-sen University,2004.]   \n[15] 古丽娜扎尔·艾力,陶海宁,王自奎,等.基于APSIM模型的黄 土旱塬区苜蓿——小麦轮作系统深层土壤水分及水分利用效 率研究[J].草业学报,2021,30(7):22-33.[Ali Gulnazar,Tao Haining,Wang Zikui,et al.Evaluating the deep-horizon soil water content and water use efficiency in the alfalfa-wheat rotation system on the dryland of Loess Plateau using APSIM[J]. Acta Prataculturae Sinica,2021,30(7): 22-33.]   \n[16] 徐晨,张鹏,徐克章,等.干旱胁迫对不同大豆品种叶片光合及 生理特性的影响[J].中国油料作物学报,2013,35(6):674-679. [Xu Chen,Zhang Peng,Xu Kezhang,et al.Effects of drought stress on leaf photosynthesis and some physiological traits in different soybean cultivars[J]. Chinese Journal of Oil Crop Sciences, 2013, 35(6): 674-679.]   \n[17]邹琦.植物生理学实验指导[M].北京:中国农业出版社,2000. [Zou Qi. Plant physiology experiment guidance[M]. Beijing: China Agriculture Press,2000.]   \n[18] 李合生.植物生理生化实验原理和技术[M].北京:高等教育出 版社,2000:134-137.[Li Hesheng.Principles and techniques of plant physiology and biochemistry experiments[M]. Beijing: Higher Education Press, 2000: 134-137.]   \n[19]李玥,牛俊义,谢亚萍,等.基于APSIM的油用亚麻叶面积指数 模型构建[J].中国油料作物学报,2015,37(3):329-335.[Li Yue,Niu Junyi, Xie Yaping,et al. Simulation of oilseed flax leaf area index based on APSIM[J]. Chinese Journal of Oil Crop Sciences,2015,37(3): 329-335.]   \n[20] 李玥,牛俊义,郭丽琢,等.AquaCrop模型在西北胡麻生物量及 产量模拟中的应用和验证[J].中国生态农业学报,2014,22(1): 93-103.[Li Yue,Niu Junyi, Guo Lizhuo,et al.Application and validation of AquaCrop model in simulating biomass and yield of oil flax in northwest China[J]. Chinese Journal of Eco-Agriculture, 2014,22(1): 93-103.]   \n[21]Pachepsky L B, Haskett JD,Acock B.An adequate model of photosynthesis: IParameterization,validation and comparison of models[J]. Agricultural Systems,1996, 50(2): 209-225.   \n[22] Arora V K,Gajri PR.Assessment of a crop growth-water balance model for predicting maize growth and yield in a subtropical environment[J]. Agricultural Water Management,200o,46(2):157- 166.   \n[23] Svirezhev Y M. Simulation of ecophysiological process of growth in several annual crops[J]. Field Crops Research,1992,28(3): 268- 269.   \n[24] 薛昌颖,杨晓光,Bouman B AM,et al.ORYZA200O模型模拟北 京地区旱稻的适应性初探[J].作物学报,2005,31(12):1567- 1571. [Xue Changying,Yang Xiaoguang,Bouman B A M,et al. Preliminary approach on adaptability of ORYZA2O model for aerobic rice in Beijing region[J].Acta Agronomica Sinica,2005,31 (12): 1567-1571.]   \n[25]Boling A A, Bouman B, Tuong TP,et al. Modelling the effect of groundwater depth on yield-increasing interventions in rainfed lowlandrice incentral Java,Indonesia[J].Agricultural Systems,007, 92(1-3): 115-139.   \n[26] Carberry P S,Muchow R C,Mccown R L. Testing the CERESMaize simulation model in a semi-arid tropical environment[J]. Field Crops Research,1989,20(4): 297-315.   \n[27]Ma L,Hoogenboom G,Ahuja L R,et al.Evaluation of the RZWQM-CERES-Maize hybrid model for maize production[J].Agricultural Systems,2006,87(3): 274-295.   \n[28] Marcelis L,Heuvelink E, Goudriaan J. Modeling biomass production and yield of horticultural crops: A review[J]. Hortic,1998,74 (1-2): 83-111.   \n[29]Bttcher U,Weymann W,Pullens J,et al.Development and evaluation of HUME-OSR:A dynamic crop growth model for winter oilseed rape[J]. Field Crops Research,2020,246:107679,doi: 10. 1016/j.fcr.2019.107679.   \n[30] 汤亮,朱艳,鞠昌华,等.油菜地上部干物质分配与产量形成模 拟模型[J].应用生态学报,2007,18(3):526-530.[Tang Liang Zhu Yan,Ju Changhua,et al. Dynamic simulation on shoot dry mater partitioning and yield formation of rapeseed[J]. Chinese Journal of Applied Ecology,2007,18(3): 526-530.]   \n[31]Habekotte B.A model of the phenological development of winter oilseed rape (Brassica napus L.)[J]. Field Crops Research,1997,54 (2-3): 127-136.   \n[32]Habekote B.Description，parameterization and user guide of LINTUL-BRASNAP 1.1: A crop growth model of winter oilseed rape (Brassica napus L.)[J].African Journal of Biotechnology, 1997, 4(2): 157-159.   \n[33]Keating BA,CarberryPS,Hammer GL,etal.An overview of APSIM,a model designed for farming systems simulation[J]. European Journal of Agronomy,2003,18(3): 267-288.   \n[34] Turpin JE, Robertson MJ, Haire C,et al. Simulating fababean development, growth,and yield in Australia[J]. Crop and Pasture Science,2003,54(1): 39-52.   \n[35] Anwar MR, Mckenzie BA,HillG D.Water-use efficiency and the effect of water deficits on crop growth and yield of Kabuli chickpea (Cicer arietinum L.) in a cool-temperate subhumid climate[J]. The Journal of Agricultural Science,2003,141(3): doi: 10.1017/ S0021859603003630.   \n[36]姚宁,周元刚,宋利兵,等.不同水分胁迫条件下DSSAT-CERES-Wheat模型的调参与验证[J].农业工程学报,2015,31(12): 138-150.[Yao Ning, Zhou Yuangang,Song Libing,et al.Parameter estimation and verification of DSSAT-CERES-Wheat model for simulation of growth and development of winter wheat under water stresses at different growth stages[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(12): 138-150.]   \n[37] 陈娇,谢小玉,张小短,等.甘蓝型油菜苗期抗旱性鉴定及综合 抗旱指标筛选[J].中国油料作物学报,2019,41(5):713-722. [Chen Jiao, Xie Xiaoyu, Zhang Xiaoduan,et al. Seedling drought resistance and parameter screening of rapeseed[J]. Chinese Journal of Oil Crop Sciences,2019,41(5): 713-722.]   \n[38]Hall L M,Booker H,SilotoR MP,et al.Flax (Linum usitatisimum L.)[M]. Urbana: AOCS Press,2016: 157-194.   \n[39] Dillman A C, Brinsmade JC.Eect of spacing on the development of the flax plant1[J].Agronomy Journal,1938,30(4): 267,doi: 10. 2134/agronj1938.00021962003000040001x.   \n[40] 付强.数据处理方法及其农业应用[M].北京:科学出版社, 2006.[Fu Qiang.Data processing method and its agricultural application[M]. Beijing: Science Press,2006.]   \n[41] Krause G H, Weis E. Chlorophyl fluorescence and photosynthesis: The basics[J].Annual Review of Plant Physiology and Plant Molecular Biology,1991,42: 313-349.   \n[42] 魏磊,崔世茂.干旱处理对山杏光合特性的影响[J].华北农学 报,2008,23(5): 194-197.[Wei Lei, Cui Shimao.The effect of soil drought stress on photosynthetic character of Prunus armeniaca[J]. Acta Agriculturae Boreali-Sinica,2008,23(5): 194-197.]   \n[43] 牛小霞,谢亚萍,王斌,等.磷对胡麻叶和蒴果皮中叶绿素质量 分数、籽粒产量和品质的影响[J].西北农业学报,2017,26(8): 1189-1196.[Niu Xiaoxia,Xie Yaping,Wang Bin,et al.Effect of phosphorus on chlorophyll mass fraction in leaves and capsule pericarps,seed yieldand quality of oilseed flax[J]. Acta Agriculturae Boreali-occidentalis Sinica,2017,26(8): 1189-1196.]   \n[44] Asada K. The water-water cycle in chloroplasts: Scavenging of active oxygens and dissipation of excess photons[J].Annual Review of Plant Biology,1999,50: 601-639.   \n[45] Sminoff N, Cumbes Q J. Hydroxy radical scavenging activityof ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "compatible solutes[J].Phytochem,1989,28(4):1057-1060.   \n[46] 李玥,武凌,高珍妮,等.基于APSIM的胡麻光合生产与干物质 积累模拟模型[J].草业学报,2018,27(3):57-66.[LiYue,Wu Ling,Gao Zhenni,et al. Simulation model of photosynthesis and dry matter accumulation in oilseed flax based on APSIM[J].Acta Prataculturae Sinica,2018,27(3):57-66.]   \n[47] 王钧,李广,聂志刚,等.陇中黄土高原区旱地春小麦产量对干 旱胁迫响应的模拟研究[J].干旱区地理,2021,44(2):494-506. [Wang Jun,Li Guang,Nie Zhigang,et al. Simulation study of response of spring wheat yield to drought stress in the Loess Plateau of central Gansu[J]. Arid Land Geography,2O21,44(2): 494-506.]   \n[48]Patel P K,Heman T A.Salicylic acid induced alteration in dry matter patting antioxidant defence system and yield in Chickpea (Cicer arietinum L.) under drought stress[J].Asian Journal of Crop Science,2012,4(3): 386-392.   \n[49] 李少昆,肖璐,黄文华.不同时期干旱胁迫对棉花生长和产量的 影响Ⅱ棉花生长发育及生理特性的变化[J].石河子大学学报 （自然科学版),1999,3(4): 259-264.[Li Shaokun, Xiao Lu,Huang Wenhua.Effect of drought stress on cotton growth and lint yield at different growing stage II: The change of cotton growth and physio logical characteristicsto water stress[J]. Journal of Shihezi University (Natural Science Edition),1999,3(4): 259-264.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[50] 葛体达,隋方功,白莉萍,等.不同土壤水分对玉米光合特性和",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "产量的影响[J].上海交通大学学报(农业科学版),2005,23(2):   \n143-147.[Ge Tida, Sui Fanggong,Bai Liping,et al. Effects of different soil water content on the photosynthetic character and pod yields of summer marize[J]. Journal of Shanghai Jiaotong University (Agricultural Science Edition),2005,23(2): 143-147.] [51] 李芳兰,包维楷,吴宁.白刺花幼苗对不同强度干旱胁迫的形态 与生理响应[J].生态学报,2009,29(10):5406-5416.[Li Fanglan,Bao Weikai,Wu Ning. Morphological and physiological responses of current Sophora davidii seedlings to drought stress[J]. Acta Ecologica Sinica,2009,29(10): 5406-5416.] [52]Rigoberto RS,Josué K S,Jorge AAG,et al.Biomass distribution, maturity acceleration and yield in drought stressed common bean cultivars[J]. Field Crops Research,2004,85(2-3): 203-211. [53]刘丽,欧阳竹,武兰芳,等.阶段性干旱及复水对小麦光合特性 和产量的影响[J].生态学杂志,2012,31(11):2797-2803.[Liu Li, Ouyang Zhu,Wu Lanfang,et al.Effects of phased drought and re-watering on the photosynthetic characteristics and grain yield of winter wheat[J]. Chinese Journal of Ecology,2012,31(11):2797-   \n2803.] [54] 王建伟,周凌云.土壤水分变化对金银花叶片生理生态特征的 影响[J].土壤,2007,39(3): 479-482.[Wang Jianwei, Zhou Lingyun. Effects of soil moisture content on physio-ecological characteristics of Lonicera japonica thunb leaves[J]. Soils,2OO7,39(3): 479-   \n482.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Response of physiological and biochemical metabolism indices of flax to drought stress and its simulation model ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "KANG Jia, LI Yue， KANG Lianghe (College of Information Scienceand Technology,Gansu Agricultural University,Lanzhou 73O70,Gansu,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Drought has been determined to bea stress factor that affects plant growth and development.In this study,we examined how drought stresshas damaged agricultural production in northwestern China.Plants use photosynthesis，osmotic metabolism，and antioxidant metabolism indicators to cope with water deficit.To determine the efect of physiological and biochemical metabolic indices offlax on yield in response to drought stress,the pot-water control experiment was used to simulate the flax drought stressThe physiological and biochemical metabolic indices of flax response to drought stress model were constructed，calibrated，and evaluated according to the measured flax yield in Xigongyi Town, Dingxi City, Gansu Province, China,from 2013 to 2014.The fiting degree of the model was determined using root mean square eror (RMSE) and the determination of coefficient $( R ^ { 2 } )$ . The results showed that(1） the RMSE of the simulated yield was 41.3159- $1 5 5 . 6 6 8 5 ~ \\mathrm { k g \\cdot h m ^ { - 2 } }$ ， with the average value being $8 0 . 1 8 3 7 ~ \\mathrm { k g \\cdot h m ^ { - 2 } }$ $R ^ { 2 }$ ranges from 0.8929 to 0.9894, with an average value of 0.9387.The model has a good fiting degreeand strong feasibility. (2) Under severe drought stress, the increase in peroxidase (POD) at the final flowering stage ( $2 6 . 0 9 \\% - 2 8 . 0 0 \\%$ ） was deemed to be the largest, and the catalase (CAT） was noted to decrease among the antioxidant metabolic indices (SOD,POD,and CAT). The content of osmoregulation substances increased, with proline increasing the most, as it reached $23 6 . 2 2 \\%$ . (3) Proline content was positively correlated with chlorophyllcontent, malondialdehyde content,and CAT.Soluble protein content was positively correlated with malondialdehyde content and CAT.A positive corelation exists between POD and superoxide dismutase (SOD).The physiological and biochemical indices of flax respond to drought stress,and the degree of stress is related to the yield offlax.This model is a scientific supplement to the physiological and biochemical indices of flax response to drought stress and provides a theoretical basis and support for the eficient production management of flax and in the agricultural production system. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: flax; agricultural production systems simulator (APSIM)； drought stress； physiology and biochem-istry；simulation model",
+        "page_idx": 10
+    }
+]

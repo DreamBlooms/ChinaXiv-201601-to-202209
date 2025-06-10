@@ -1,0 +1,253 @@
+[
+    {
+        "type": "text",
+        "text": "基于MR+BIM 技术的信息化建筑工程应用探讨",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "初毅邵兆通 武涛（上海宝冶集团有限公司，上海200941)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】混合现实(MR)技术相比于虚拟现实(VR)技术和增强现实(AR)技术具有灵活性、交互性、实时性等优势,因此MR技术逐步成为各行各业实现智能化、信息化的重要方式。建筑信息模型(BIM)技术的应用推动了建筑工程行业的信息化建设, $\\mathrm { M R } + \\mathrm { B I M }$ 结合应用成为了建筑工程行业新的研究方向,本文将基于微软开发的MR设备Hololens,结合BIM技术对建筑工程的技术应用进行探讨,提升建筑工程行业的可视化、实时化、高效化，并为建筑工程的智能化、信息化提供新的思路，开拓新的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】混合现实；Hololens；BIM；建筑工程；信息化  \n【中图分类号】TU17;P642 【文献标识码】A 【文章编号】1674-7461(2017)05-0094-04  \n【DO1】10.16670/j.cnki.cn11-5823/tu.2017.05.17",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2混合现实(Mixed Reality,简称 MR)技术指的是现实世界和虚拟世界相融合的可视化环境，通过计算机的处理，将所需要的虚拟数字信息叠加在现实环境中,实现真实世界和虚拟世界的\"无缝”结合。通过空间定位技术、全息投影技术、人机交互技术、传感技术，混合现实为用户提供了“实中有虚”的半沉浸式环境体验，MR技术使用户不仅能感知到真实环境中实际对象，还能获取该对象在虚拟环境中的数字信息，并允许用户对虚拟数字信息进行实时的交互，极大的增强了用户的信息获取能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建筑信息模型（Building Information Modeling,BIM)技术的应用将建筑工程行业从传统2D设计转向多维设计，使建筑工程中所包含的信息更加直观地展现出来，极大的提高了设计、施工、管理人员的工作效率。而MR技术将BIM技术中的数字信息实时的叠加在用户的现实世界中，并允许用户与BIM中的模型数据进行交互，成为BIM技术可视化的全新实现手段。国内外学者对MR技术的实际工程应用展开广泛的研究：汤卓慧[1对 MR中关键技术进行分析并对MR在轨道交通行业中的应用进行了探讨；刘建明通过研究指出MR技术应用是AR、VR技术在电力系统中发展的最终形态；在飞机装配行业中,张秋月[3]认为基于 MR的虚拟装配系统可以高效的对飞机装配的大量信息进行统一、集中的管理。在建筑工程行业，关于MR的实际工程应用研究并不充分，大多只是基于 $\\mathrm { A R } + \\mathrm { B I M }$ 在建筑工程应用进行探讨，MR相对于AR具有可视性、交互性、实时性等优势，能更大挖掘BIM的应用潜力,故本文主要基于 $\\mathrm { M R } + \\mathrm { B I M }$ 技术在建筑工程中的应用进行初步的探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2混合现实技术及优势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同于VR技术提供的沉浸式虚拟环境，MR技术提供则是现实物理世界和虚拟数字世界融合的新可视化环境，让用户在触摸感受到真实世界的物体的同时还能接收到该物体在虚拟环境中的数字信息，并且MR技术将微型计算机集成到移动设备中，使得用户的活动范围无限的扩大。AR技术和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MR 技术在虚拟数字信息呈现的方式是相似的，但是而MR技术不仅将虚拟数字信息叠加在现实世界之上，虚拟数字信息还能与用户进行实时的交互反馈，极大的增强了体验的真实感。换而言之，MR技术是VR技术和AR技术的优点集成，同时弥补了后者的不足，在实时性、交互性、灵活性上有着明显的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年,微软公司发布其研发的MR设备Ho-lolens 眼镜，本文将借助Hololens结合BIM技术对$\\mathrm { M R } + \\mathrm { B I M }$ 技术在建筑工程中的实际应用进行探讨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 $\\mathbf { M R } + \\mathbf { B I M }$ 在建筑工程中应用探讨",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1协同化模型设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在建筑工程中，常规的设计流程均是通过计算机图纸来实现的，设计中问题的交流也仅仅是通过于 图像来传达，信息传递的非实时、不直观，成为制约建筑工程行业高效化的一大障碍，随着BIM技术的应用，使得设计领域的工作效率大幅度提升，所有的信息通过统一的三维模型传递，问题直观通过三维数据模型呈现，各个专业的设计师基于同一BIM模型数据库，在该数据库中完成一系列的操作，基本达到了协同设计的效果。但是BIM技术设计和CAD技术设计存在相同的问题,虽然BIM技术支持下的设计提供了三维数据模型，但是其显示手段仍然停留在二维显示屏技术，如图1所示。随着工程项目的规模的增大,项目所包含的信息也大幅度增加，传统的二维显示技术所呈现的问题往往不够直观，严重制约了设计阶段的工作效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同于传统的BIM设计中，设计人员只能分散在各自办公地点对显示屏中的BIM模型进行创建修改等操作，Hololens的工程应用为项目信息的呈现提供了一个三维显示平台，Hololens 使得不同专业的设计人员能在不同地点处于同一虚拟空间对项目模型进行在线协同设计[4]，所有设计人员通过Hololens所能看到项目的全息三维投影模型，与此同时设计人员还能与Hololens所呈现三维数据模型进行交互，实现在线修改，删除，添加等一系列操作且能实时反映至模型上，其他专业的设计人员也能实时的接收到该修改信息，并做出相应的修改，在Hololens支持下的BIM设计实现了模型的三维呈现，交流的实时传递，极大的提高了设计效率，如图",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 所示，设计师利用Hololens 进行协同设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/666b896d32ea9f0fe2191fb8b5d98cf4d40743ee64e123f87ce2e81b2d191698.jpg",
+        "img_caption": [
+            "图1传统BIM设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a13fe5973f0f08fc15b1410c1dcddc727abb1d16c41a0e1f1b539adc0d19e98a.jpg",
+        "img_caption": [
+            "图2Hololens全息三维协同设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hololens一方面实现了虚拟数据模型与现实世界的交互，另一方面使得BIM技术的核心-数据信息的呈现方式由二维变成了全息三维投影使得大型项目的问题呈现更加的直观。与此同时，甲方与施工方借助Hololens平台实时加入项目的设计流程，甲方在线对模型设计效果进行实时的评估评价，施工方对项目的施工难疑点实时同设计人员交流，项目所有参与方利用Hololens平台能及时且直观的表达各方的意图与需求，简化了设计流程，提高了工作效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 信息化现场施工",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胡攀辉[5]通过对施工环境的实地调查研究,基于AR结合BIM技术提出了一套完整的现场施工指导模块，然而AR技术仅仅是将虚拟信息简单的叠加在真实环境中，不能实现虚拟信息与人之间的交互,并不适用于复杂多变的施工环境，对于MR设备Hololens，既能在真实环境中呈现虚拟数字信息，还能实现人与虚拟信息的交互。在施工现场中，每位佩戴Hololens的技术人员相当于分散的小型移动BIM数据库,技术人员可以随时随地调用BIM数据库中的虚拟信息同实际现场进行对比校验，同时技术人员还能根据现场的实际情况，对BIM数据库中的虚拟信息进行修改、删除、更新等交互行为，并且同步在服务器中的BIM云数据库。服务器BIM云数据库指导现场施工，现场移动端反馈数据更新服务器BIM数据库，形成良性循环，如图3所示，工作人员利用Hololens进行钢筋绑扎指导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/836ebe5521f26cdf11e785a5f281953f88077df5f510e71cf417c7c2a104b386.jpg",
+        "img_caption": [
+            "图3Hololens 钢筋绑扎指导"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "凭借着Hololens 强大的虚拟与真实的交互能力，Hololens不仅是数据信息的显示接收端，还是数据的反馈采集端。信息化施工的核心目标是建立关于项目的所有重要信息的存储库，Hololens $^ +$ BIM的结合为信息化施工提供了强有力的工具，满足了信息化施工对数据库建立、数据采集、数据更新等要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 高效化运营维护 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在项目的运营维护阶段中，BIM技术使得管理人员脱离了繁乱的数据手册，使得数据信息直观的通过模型展现，极大的提高了运营维护的工作效率。但是大量的虚拟数据无法做到与现实进行交互,数据展现出来的问题也不够直观明确[，使得BIM技术在运营管理深层次的应用受到制约，而",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MR设备则可为运营维护在BIM模型数据和真实世界交互提供一个实时通道。例如在实际的维修过程中，管道维修人员利用Hololens调用BIM云数据库中的模型数据，查看相关隐蔽工程信息，并可将该信息模型1:1放置在实体空间中，让维修人员更加直观的感受隐蔽管道真实的相对空间位置，方便维修人员制定合理的维修方式；与此同时，维修人员还能通过蓝牙等近距离通信技术实时呈现传感器采集的设备运行状态数据，实时跟踪设备运行状态，极大的扩展了维修人员数据获取能力，在整个过程中，维修人员只需一台Hololens设备即可完成，脱离了图纸和技术手册，解放了维修人员的双手，进一步提高了工作效率。如图4所示，维修人员对电梯设备运行信息查看。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/21be930e2056e2c19bc22e87598d6a88edad5175e2c78a81ebbd709810628999.jpg",
+        "img_caption": [
+            "图4设备运行信息呈现"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信息化、智慧化施工不仅仅是软件层面的建设，更需要强有力的硬件平台作为实现手段，MR设备相比较于VR、AR设备在可视性、实时性、交互性具有明显的优势，强大的可视化能力和交互能力使得MR技术在建筑工程领域更具有应用性，主要的应用点可分为以下三点：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)MR的可视化使得虚拟数据的呈现方式更加直观，从二维显示屏显示迈向全息三维投影，为工程项目的各个参与方的信息呈现提供了新的高效的实现方法；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)MR的协同工作方式为设计工作提供了一种全新高效的设计方式，设计效果实时呈现、设计信息实时沟通，简化了设计流程，提高了设计阶段",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的工作效率;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)MR的计算能力为工程现场提供了强有力的生产工具，脱离图纸和技术手册，Hololens实时对采集数据进行处理并反馈，为工程项目信息管理模式提供了新的实现手段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM技术为MR设备在工程建设领域的应用奠定了基础，MR设备为深层次挖掘BIM应用潜力提供了高效实现平台， $\\mathrm { B I M } + \\mathrm { M R }$ 结合应用将为建筑工程行业带来无限的可能，推动工程建设领域迈向信息化、智慧化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］汤卓慧，朱培毅.虚拟现实、增强现实和混合现实及其",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在轨道交通行业的应用[J].铁路通信信号工程技术，2016，13(5):79-82.  \n［2］刘建明，施明泰，庄玉琳，等.增强现实、虚拟现实和混合现实技术在电力系统中的应用研究[J].电力信息与通信技术，2017，15(4)：4-10.  \n「3］张秋月，安鲁陵.虚拟现实和增强现实在飞机装配中的应用[J」.航空制造技术，2017，40（11)：40-45，  \n[4］邵兆通，何兵，初毅.混合现实技术在建筑工程中的应用研究[J].土木建筑工程信息技术，2017，9（3）：43-46.  \n［5］胡攀辉.基于BIM与AR的施工现场应用模块集成研究［D].重庆：重庆大学建设管理与房地产学院，2015.  \n［6］马跃春.BIM与AR技术结合在施工现场的应用[J].工程建设，2017，49(5）：101-104.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion on Application of Informationized Building Engineering based on $\\mathbf { M R } + \\mathbf { B I M }$ Technology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chu Yi，Shao Zhaotong，Wu Tao (Shanghai Baoye Group Corp.，Ltd.，Shanghai 200941，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Compared with the virtual reality（VR） technology and augmented reality（AR）technology，the mixed reality（MR）technologyowns the advantages offlexibility，interactivityand real-time performance.Therefore,the MR technology has gradually become an important way torealize inteligence and informationization in different industries.Theapplication of building information model（BIM）technology has promotedthe informatization of the construction industry，while the combination of MR $^ +$ BIM becomes a new research direction in our construction industry.Through using the Hololens developed by Microsoft，this paper explores the application of BIM technology inconstruction，which isable toenhance the visualization,real-timeand high-eficiencyconstruction industry，which provide new ideas and new methods for building engineering intelligent and informatization. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words：Mixed Reality；Hololens；BIM；Constrution Engineering；Informatization ",
+        "page_idx": 3
+    }
+]

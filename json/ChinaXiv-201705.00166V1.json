@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "High thermoelectric performance in two-dimensional graphyne sheets predicted by first-principles calculations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaojian Tan,Hezhu Shao,Tianqi Hu, Guoqiang Liu,\\* Jun Jiang and Haochuan Jiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The thermoelectric properties of two-dimensional graphyne sheets are investigated by using firstprinciples calculations and the Boltzmann transport equation method.The electronic structure indicates a semiconducting phase for graphyne,compared with the metallc phase of graphene. Consequently， the obtained Seebeck coeffcient and the power factor of graphyne are much higher than those of graphene.The calculated phonon mean free path for graphene is $8 6 6 ~ \\mathsf { n m }$ ，which is in good agreement with the experimental value of 775 nm.Meanwhile the phonon mean free path of graphyne is only $6 0 ~ \\mathsf { n m }$ ,leading to two order lower thermal conductivity than graphene.We show that the low thermal conductivity of graphyne is due to its mixed $\\mathsf { s p } / \\mathsf { s p } ^ { 2 }$ bonding.Our calculations show that the optimized ZT values of graphyne sheets can reach 5.3 at intermediate temperature by appropriate doping. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As thermoelectric materials can directly convert heat to elec tricity and vice versa,1 they have been attracting increasing attention fromboth theoretical and technical sides.The conversion efficiency is governed by the dimensionless figure of merit $Z T = S ^ { 2 } \\sigma T / \\kappa$ ，where $s , \\sigma$ ,and $T$ are,respectively,the Seebeck coefficient, the electrical conductivity,and the absolute temperature. The thermal conductivity $\\kappa$ includes electronic $\\left( \\kappa _ { \\mathrm { e } } \\right)$ and phonon contributions $\\left( \\kappa _ { \\mathrm { p h } } \\right)$ .² To get high $Z T$ values is usually difficult since the transport coefficients $s , \\sigma$ ,and $\\kappa$ are coupled with each other.However,it was predicted that these factors could be decoupled in low dimensional systems. As a representative of low-dimensional carbon materials,graphene has drawn widespread interestinmany fields.The electronmobility of graphene is up to $1 5 0 0 0 \\ \\mathrm { c m } ^ { 2 } \\ \\mathrm { V } ^ { - 1 } \\ \\mathrm { s } ^ { - 1 }$ ， which is a great advantage to thermoelectric applications.4,5 Unfortunately，graphene has a very high thermal conductivity of 2500-5000 W $\\mathbf { m } ^ { - 1 } \\textbf { K } ^ { - 1 } ;$ 6-8 leading to a low $Z T$ value of 0.02.9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphyne is a new type of two-dimensional carbon allotrope. Unlike the $\\displaystyle \\boldsymbol { \\mathsf { s p } } ^ { 2 }$ bonded graphene,graphyne contains two kinds of bonds, namely sp and $\\mathsf { s p } ^ { 2 }$ . Recently, large graphyne film has been successfully prepared and it exhibits excellent semicon ducting properties.1° It is conceivable that graphyne may be more suitable for thermoelectric applications than metallic graphene.Indeed,more and more attention has been paid to the electronic, thermal and thermoelectric properties of graphyne. With respect to its electronic properties,density functional theory calculations indicated that a band gap is opened in graphyne by the presence of the sp bonding.11-13 Shuai et al. calculated the intrinsic mobility in graphyne using firstprinciples calculations,and it was found that the carrier mobility in graphyne is even larger than that in graphene.14-17 In the aspect of thermal conductivity, Zhang et al.18 have shown,based on their molecular dynamics (MD) simulations,that the thermal conductivity of graphyne is one order of magnitude lower than that of graphene at room temperature. Lu et al.9,19 applied the nonequilibrium Green's function (NEGF) approach to graphyne, and it was found that the thermal conductance of graphyne is $4 0 \\%$ of that of graphene.By using a similar method, Ouyang et al.20,21 have shown that the thermal conductance of $\\beta -$ and γ-graphyne nanoribbons is $2 6 \\%$ and $4 0 \\%$ of that of graphene nanoribbons,respectively.In the aspect of thermoelectric properties, Wang, Ouyang,21,22 and Sevincli23 predicted that the optimized ZT values of graphyne sheets can be one order higher than that of graphene,mainly owing to the increase of the power factors. Sun et al.24 carried out MD simulations and showed that the lattice thermal conductivity of graphdiyne is $7 . 3 \\mathrm { ~ W ~ m ~ } ^ { - 1 } \\mathrm { ~ K ~ } ^ { - 1 }$ at room temperature,resulting in a ZT value of 4.8. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In previous studies, the NEGF method at the ballistic limit is employed to investigate the electron and phonon transport properties. It is known that electron-phonon and phononphonon interactions are not well treated in the NEGF method.25 Some important information,such as the electron or phonon mean free path,can neither be extracted from the calculations. The Boltzmann transport equation (BTE) coupled with deformation potential theory (DPT） was applied to calculate the carrier mobility of some carbon materials14-17,26,27 and this method was proved to be suitable for describing the electron-phonon coupling of graphyne.Meanwhile,an exact numerical solution of the phonon BTE has been developed to study the thermal conductivity.This method has been successfully applied in the phonon transport study for two-dimensional materials such as graphene6,28 and $\\mathrm { W S } _ { 2 }$ .29 In this work, we use the BTE method based on first-principles calculations to investigate the electronic, phonon and thermoelectric properties of graphyne.By considering the phonon-phonon scattering，our theoretical calculations find that the thermal conductivity of graphyne is two orders lower than that of graphene,leading to the much higher thermoelectric performance than the previous predictions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rest of this paper is organized as follows.Section 2 gives the computational details of our theoretical methods.In Section 3, we discuss the electronic,phonon,and thermoelectric transport properties of $\\gamma$ graphyne and graphdiyne.A summary of our work is given in Section 4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Computational details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The calculations of graphyne are performed using a plane-wave pseudopotential formulation30-32 within the framework of density functional theory (DFT).The generalized gradient approximation (GGA) of Perdew-Burke-Ernzerhof $\\left( \\mathrm { P B E } \\right) ^ { 3 3 }$ is adopted for exchange-correlation energy. Projector-augmented wave (PAW) potentials are used for the carbon atoms and the cutoff energy is set to $4 0 0 \\mathrm { e V }$ .The Brillouin zone is sampled with $2 0 \\times 2 0 \\times 1$ $1 4 \\times$ $1 4 \\times 1$ ,and $1 2 \\times 1 2 \\times 1$ Monkhorst-Pack $k$ -meshes including the $\\boldsymbol { { \\cal T } }$ point for graphene,γ-graphyne and graphdiyne,respectively.A vacuum layer of $1 0 \\mathrm { ~ \\AA ~ }$ is added along the $z$ axis for the two dimensional structures.During the structure optimizations, both the atom positions and lattice constants are fully relaxed until the magnitude of the force acting on the atoms is less than $0 . 0 0 1 \\ \\mathrm { e V } \\mathring { \\mathbf { A } } ^ { - 1 }$ ,which also converges the total energy within 1 meV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electronic transport coefficients are obtained from the analysis of band structure calculations by using the $\\mathbf { B T E } ^ { 3 4 }$ method within the rigid band approximation.35 This semiclassical approach has been successfully applied to a wide range of thermoelectric materials.36 The kernel is to find the conductivity tensor ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\alpha \\beta } ( \\varepsilon ) = \\frac { 1 } { N } \\sum _ { i k } \\sigma _ { \\alpha \\beta } ( i k ) \\frac { \\delta ( \\varepsilon - \\varepsilon _ { i k } ) } { \\mathrm { d } \\varepsilon } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the number of $k$ points sampled.To get reliable results,a very dense $k$ mesh up to 40oo points for graphyne is used in BTE calculations. The $k$ dependent conductivity tensor $\\sigma _ { \\propto \\beta } ( i k )$ is given as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\propto \\beta } ( i k ) = e ^ { 2 } \\tau _ { i k } \\nu _ { \\propto } ( i k ) \\nu _ { \\beta } ( i k ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau ( i k )$ is the carrier relaxation time and the group velocity is $\\nu ( i k ) = ( \\widehat { \\sf { O } } \\varepsilon _ { i k } / \\widehat { \\sf { O } } k ) / \\hbar$ ，The electrical conductivity $\\sigma$ ，the Seebeck ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "coefficient $s$ ,and the electronic thermal conductance $\\kappa _ { \\mathrm { e } }$ can be calculated by integrating the conductivity tensor34 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( T , \\mu ) = \\frac { 1 } { \\Omega } \\bigg [ \\sigma ( \\varepsilon ) \\left[ - \\frac { \\partial f _ { \\mu } ( T , \\varepsilon ) } { \\partial \\varepsilon } \\right] \\mathrm { d } \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( T , \\mu ) = \\frac { 1 } { e T \\sigma \\varOmega } \\int \\sigma ( \\varepsilon ) ( \\varepsilon - \\mu ) \\left[ - \\frac { \\partial f _ { \\mu } ( T , \\varepsilon ) } { \\partial \\varepsilon } \\right] \\mathrm { d } \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa _ { \\mathrm { e } } ( T , \\mu ) = \\frac { 1 } { e ^ { 2 } T \\Omega } \\bigg [ \\sigma ( \\varepsilon ) ( \\varepsilon - \\mu ) ^ { 2 } \\left[ - \\frac { \\partial f _ { \\mu } ( T , \\varepsilon ) } { \\partial \\varepsilon } \\right] \\mathrm { d } \\varepsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu$ is the chemical potential, $f _ { \\mu } ( T , \\varepsilon )$ is the equilibrium Fermi-Dirac distribution,and $\\varOmega$ is the volume of the unit cell. Usually, $\\varOmega$ isdefined for three-dimensional systems.As to twodimensional graphene and graphyne sheets,a layer thickness is required to define the electrical and thermal conductivity.In order to connect to the previous studies,this value is conventionally chosen to be $\\delta = 3 . 4 \\mathring { \\mathbf { A } }$ ,which is the separation between graphene layers in graphite. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The carrier relaxation time $\\tau$ in eqn (2） measures how quickly the carrier can restore the equilibrium state after scattered by phonons.The DPT method proposed by Bardeen and Shockley³7 can be used to describe the electron-phonon scattering in the long-wave limit.In two-dimensional systems like graphyne, the relaxation time is given by15,38 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\frac { 2 \\hbar ^ { 3 } C } { 3 k _ { \\mathrm { B } } T m ^ { * } E _ { \\mathrm { D P } } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the parameters $\\hbar$ and $k _ { \\mathrm { B } }$ are the Planck constant and the Boltzmann constant,respectively.In addition, $m ^ { * }$ is the density of state effective mass, $C$ is the elastic constant,and $E _ { \\mathrm { D P } }$ is the deformation potential constant.These three parameters can be readilyobtained from first-principles calculations.Note here $m ^ { * }$ contains contributions from $k _ { x }$ and $k _ { y }$ directions,and the degeneracy of light and heavy bands needs to be taken into account. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We calculate the phonon thermal conductivity of graphene, $\\gamma$ -graphyne and graphdiyne by solving the linearized BTE numerically as implemented in the ShengBTE code.39 A temperature gradient acrossa material results ina heat flowbecause of the phonon diffusion from hot to cold.However, these phonons undergo scattering in the diffusion process and the phonon distribution $f _ { q s }$ is changed, where $s$ is the branch index and $q$ is the wave vector. The phonon distribution is affected by two factors:diffusion from the temperature gradient and scattering due to the allowed processes.In the steady state,the rate of change in the phonon distribution is vanished and it can be expressed by the BTE:39 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } f _ { q s } } { \\mathrm { d } t } = \\frac { \\partial f _ { q s } } { \\partial t } \\bigg \\vert _ { \\mathrm { d i f f u s i o n } } + \\frac { \\partial f _ { q s } } { \\partial t } \\bigg \\vert _ { \\mathrm { s c a t t e r i n g } } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\left. \\frac { \\partial f _ { q s } } { \\partial t } \\right| _ { \\mathrm { d i f f u s i o n } } = - \\nabla T \\cdot \\nu _ { q s } \\frac { \\partial f _ { q s } } { \\partial T } \\mathrm { ; }$ and $\\left. \\frac { \\partial f _ { q s } } { \\partial t } \\right|$ depend on the lscattering specific scattering processes,including phonon-phonon scattering,impurity scattering,defect scattering,and so on.Practically, when the only scattering sources are the two- and three-phonon scattering processes,a linear version of the BTE is adopted and ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "solved for scattering time $\\tau _ { q s }$ by using an iterative method.39   \nFinally,the phonon thermal conductivity is given by the formula:6 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa _ { \\mathrm { p h } } = \\frac { 1 } { 4 \\pi ^ { 2 } \\delta k _ { \\mathrm { B } } T ^ { 2 } } \\bigg [ \\left( \\hbar \\omega _ { q s } \\right) ^ { 2 } f _ { q s } \\left( f _ { q s } + 1 \\right) { \\nu _ { q s } } ^ { 2 } \\tau _ { q s } \\mathrm { d } q .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, $\\omega _ { q s }$ and $\\nu _ { q s } = \\gtrsim \\gtrsim \\omega _ { q s } / \\gtrsim q$ are the phonon frequency and the group velocity，respectively. $\\delta \\ : = \\ : 3 . 4 \\mathrm { ~ \\AA ~ }$ is the layer thickness of graphene and graphyne sheets as mentioned before. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the second- and third-order interatomic force constants (IFCs) calculated using first-principles calculations, the phonon dispersions and scattering properties are determined. The results of phonon thermal conductivity are carefully tested with respect to the size of the supercell, the nearest neighboring range,and the $q$ -point mesh.In the calculation of second-and third-order IFCs,we use $1 0 \\times 1 0 \\times 1$ and $3 \\times 3 \\times 1$ supercells for graphene and graphyne sheets,respectively.The interactions up to the fourth nearest neighbors are considered when dealingwith the anharmonic one.The $q$ point meshis set to $1 0 0 \\times 1 0 0 \\times 1$ ， $4 0 \\times 4 0 \\times 1$ and $3 0 \\times 3 0 \\times 1$ for graphene, $\\gamma$ -graphyne and graphdiyne,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Crystal and band structures ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structures of two-dimensional $\\gamma$ -graphyne and graphdiyne are illustrated in Fig.1.These two kinds of graphyne sheets could be considered as benzene rings connected by carbon triplet bonds. The structural symmetry of $\\gamma$ graphyne and graphdiyne is $P 6 / m m m$ ，the same as graphene.As shown in ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(b), graphdiyne contains one more acetylenic linkage between the nearest neighboring carbon hexagons than $\\gamma$ graphyne (Fig.1(a)). The optimized lattice constants $a _ { 0 }$ are 6.890 and $9 . 4 6 0 \\ { \\mathring { \\mathbf { A } } } .$ The bond lengths depicted in Fig.1 are as follows: for $\\gamma$ graphyne, $l _ { 1 } = 1 . 4 2 6$ A $( \\mathsf { s p } ^ { 2 } - \\mathsf { s p } ^ { 2 } )$ ， $l _ { 2 } = 1 . 4 0 8 \\mathrm { ~ \\mathring { A } ~ } \\left( \\mathrm { s p - s p } ^ { 2 } \\right)$ ，and $l _ { 3 } = 1 . 2 2 3 \\stackrel { \\circ } { \\mathrm { \\bf A } }$ (sp-sp),and for graphdiyne, $l _ { 1 } = 1 . 4 3 2 \\ \\mathring { \\mathrm { A } } \\ ( \\mathrm { s p } ^ { 2 } - \\mathrm { s p } ^ { 2 } )$ $l _ { 2 } = 1 . 3 9 6 \\mathring { \\mathrm { A } } \\big ( s \\mathrm { p } \\mathrm { - } s \\mathrm { p } ^ { 2 } \\big )$ and $l _ { 3 } = 1 . 2 3 3 \\mathring { \\mathrm { ~ A ~ } }$ (sp-sp),and $l _ { 4 } = 1 . 3 3 9 \\mathrm { ~ \\AA ~ }$ (sp-sp). The obtained structural parameters are in good agreement with previous LDA11 and GGA calculations.12,13,40 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. $2 { \\big ( } \\mathsf { a - c } { \\big ) }$ presents the calculated energy band structures of graphene, $\\gamma$ graphyne and graphdiyne.Asis known, the electronic structure of graphene is characterized by the Dirac cone,where the conduction and valence bands meet at the Dirac point.In $\\gamma$ graphyne and graphdiyne,the band crossing at the Dirac point is broken due to the presence of sp bonding,showing a semiconducting behavior.As shown in Fig.2b and c, $\\gamma$ graphyne has a direct band gap of 0.46 at the $M$ point,and graphdiyne has a direct band gap of $0 . 4 8 \\mathrm { e V }$ at the $\\boldsymbol { { \\cal T } }$ point. The conduction band maximum (CBM) and valence band minimum (VBM) of $\\gamma$ graphyne are singly degenerate,while those of graphdiyne are both doubly degenerate.The band structures presented in Fig.2 are consistent with the previous studies.9,41,42 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using the formula $m ^ { * } = \\hbar ^ { 2 } / \\big ( \\hat { \\textmd o } ^ { 2 } E / \\hat { \\textmd o } k ^ { 2 } \\big )$ ,the effective masses at CBM and VBM can be calculated.As listed in Table 1, the effective masses in $\\gamma$ -graphyne are anisotropic - the effective masses along the $T \\to M$ direction are much larger than those along the $K  M$ direction.In contrast, the effective masses in graphdiyne are rather isotropic.For both $\\gamma$ graphyne and graphdiyne,there is no significant difference between the effective masses of holes and electrons. Narita et al.1 and Kang et al.43 investigated the band structures and effective masses of γ-graphyne and graphdiyne using local density approximation (LDA) and GGA methods.Our calculated results are consistent with their results,as summarized in Table 1.Except for the slight difference in numerical values,GGA and LDA present similar band gaps and similar effective masses. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1a216b4422c88a7eefbeb4b4d9fa9ba77b2b9b9bba23ef3cd6741d3854fb366.jpg",
+        "img_caption": [
+            "Fig.1Structures of (a) $\\gamma$ -graphyne and (b) graphdiyne.The rhombus drawn with a solid line represents a unit cell. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/68787851b2f25f3252a6eb71210023406840fdb224de1cec2dcc2081d20ed1de.jpg",
+        "img_caption": [
+            "Fig.2Calculated band structures of (a) graphene, (b) $\\gamma$ -graphyne,and (c) graphdiyne.The Fermi level is at $0 ~ \\mathrm { e V }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ae97ca64950f2ba9e1ffc146144c0c8436af5499e500de16aaf6529b9f8a867.jpg",
+        "table_caption": [
+            "Table1 Band gap $E _ { \\mathfrak { g } }$ and effective mass in the conduction band $( m _ { \\mathrm { { c } } } { } ^ { \\star } )$ and the valence band $( \\boldsymbol { m _ { \\mathrm { v } } } ^ { \\star } )$ for $\\gamma$ -graphyne and graphdiyne "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Structure</td><td>Eg (ev)</td><td>mc*/mo</td><td colspan=\"3\">mv*/mo</td></tr><tr><td>γ-Graphyne</td><td>0.46 at M</td><td>0.197 (T→M)</td><td>0.082 (M←K)</td><td>0.215 (T→M)</td><td>0.085 (M←K)</td></tr><tr><td>Ref. 11</td><td>0.52 at M</td><td>0.15</td><td>0.063</td><td>0.17</td><td>0.066</td></tr><tr><td>Ref. 43</td><td>0.46 at M</td><td>0.20</td><td>0.080</td><td>0.21</td><td>0.083</td></tr><tr><td>Graphdiyne</td><td>0.48 at Γ</td><td>0.088 (M→T)</td><td>0.090 (Γ←K)</td><td>0.089 (M→T)</td><td>0.097 (T←K)</td></tr><tr><td>Ref. 11</td><td>0.53 at Γ</td><td>0.073</td><td></td><td>0.075</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Electronic transport coefficient ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the calculated band energies in the first Brillouin zone,the electronic transport coeffcients of graphyne can be evaluated by using the semi-empirical BTE approach with the rigid band approximation.Within the BTE method,the electrical conductivity $\\sigma$ ,the electronic thermal conductivity $\\kappa _ { \\mathrm { e } }$ and the power factor $S ^ { 2 } \\sigma$ are calculated with respect to $\\tau$ ,thatis to say,the obtained electronic transport coefficients are $\\sigma / \\tau$ $\\kappa _ { \\mathrm { e } } / \\tau$ and $S ^ { 2 } \\sigma / \\tau$ ,respectively. The realistic relaxation time $\\tau$ is energy dependent.However,it is often reasonable to assume a constant $\\tau$ since the electrical conductivity determined by $\\tau$ does not change very much within the energy scale of $k _ { \\mathrm { B } } T .$ In this work, the relaxation time is calculated by applying the DPT method with the effective mass approximation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides carrier effective mass,the two other parameters in eqn (6), the elastic constant $C$ and the deformation potential constant $E _ { \\mathrm { D P } }$ ,canalso be readily obtained from first-principles calculations.Specifically，we change the lattice constants of graphyne by $\\pm 0 . 5 \\%$ ， $\\pm 1 . 0 \\%$ and $\\pm 1 . 5 \\%$ along the $a$ and $b$ axes, and then measure the variation of the total energy and the shift of the VBMand the CBM.The two-dimensional elastic constant $C$ is obtained by fitting the total energy $E$ with respect to the dilation $\\Delta l / l _ { 0 } ,$ as $( E - E _ { 0 } ) / S _ { 0 } = ( C / 2 ) ( \\Delta l / l _ { 0 } ) ^ { 2 }$ ,where $S _ { 0 }$ is the area of the cell in the plane and $E _ { 0 }$ is the total energy in the equilibrium state.The deformation potential constants $E _ { \\mathrm { D P } }$ for electrons and holes are obtained by fitting the shift CBM and VBM $\\Delta E$ with respect to the dilation,as $E _ { \\mathrm { D P } } = \\Delta E / \\big ( \\Delta l / l _ { 0 } \\big )$ Using the obtained effective masses,elastic constants and deformation potential constants,the relaxation times can be calculated according to eqn (6). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The calculated relaxation times at room temperature as well as two-dimensional elastic constants and deformation potential constants for $\\gamma$ -graphyne and graphdiyne are summarized in Table 2.Shuai's group investigated the carrier relaxation time in carbon nanomaterials including graphyne.14-17 Our calculated results are very much consistent with their calculations,as shown in Table 2.It is found that the relaxation times for electrons are longer than those for holes in both $\\gamma$ graphyne and graphdiyne.As is known,the deformation potential constant characterizes the strength of charge-phonon coupling，and weaker charge-phonon coupling leads to longer carrier relaxation times. The calculated $E _ { \\mathrm { D P } }$ and t suggest that n-type doping may bring better thermoelectric performance than p-type doping in the two kinds of graphyne sheets. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6cb336bd03cc337188542a6d47378453d4d54a79d4d8b6c92427ac16be2e9dc.jpg",
+        "table_caption": [
+            "Table 2 Elastic constants $C ,$ deformation potential constants $E _ { \\mathsf { D P } } ,$ and carrier relaxation times $\\tau$ for $\\gamma$ -graphyne and graphdiyne at $3 0 0 ~ \\mathsf { K }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Structure</td><td></td><td>Axes</td><td>C (Jm-²)</td><td>E (ev)</td><td>EDP (ev)</td><td>th (ps)</td><td>te (ps)</td></tr><tr><td>γ-Graphyne</td><td>Present work</td><td>a</td><td>220.35</td><td>4.56</td><td>2.81</td><td>0.49</td><td>1.41</td></tr><tr><td></td><td>Ref. 17</td><td>b</td><td>220.38</td><td>4.57</td><td>2.79</td><td>0.49 0.56</td><td>1.43</td></tr><tr><td>Graphdiyne</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.25</td></tr><tr><td></td><td>Present work</td><td>a b</td><td>167.26</td><td>6.99</td><td>2.37</td><td>0.21</td><td>1.79</td></tr><tr><td></td><td></td><td></td><td>167.25</td><td>7.03</td><td>2.37</td><td>0.22</td><td>1.92</td></tr><tr><td></td><td>Ref. 14-16</td><td>a</td><td>158.57</td><td>6.30</td><td>2.09</td><td></td><td></td></tr><tr><td></td><td></td><td>b</td><td>144.90</td><td>6.11</td><td>2.19</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to eqn (2)-(5),the electrical conductivity $\\sigma$ ，the electronic thermal conductivity $\\kappa _ { \\mathrm { e } }$ and the power factor $S ^ { 2 } \\sigma$ are calculated with respect to the electron relaxation time $\\tau$ .As shown in eqn (6),carrier relaxation times of two-dimensional sheets are inversely proportional to temperature.Within this relationship,the temperature-dependent relaxation times are determined based on the room temperature values,as summarized in Table 2.Fig. 3 plots the electronic transport coefficient map as a function of temperature $T$ and carrier concentration $n$ for $\\gamma$ graphyne (the upper panels) and graphdiyne (the lower panels).In Fig.3 the positive carrier concentration corresponds to n-type doping while the negative one corresponds to p-type doping ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Fig.3(a) that the Seebeck coefficient $s$ exhibits two obvious peaks near the Fermi level $\\left( n = 0 \\right)$ ,and the peaks of graphdiyne are higher than those of $\\gamma$ graphyne owing to the slightly larger band gap and doubly-degenerate bands.As to the electrical conductivity $\\sigma$ shown in Fig. 3(b),there is a sharp increase with increasing doping concentration when temperature is considered as constant. The electrical conductivity $\\sigma$ of $\\gamma \\cdot$ graphyneishigher than thatof graphdiyne.The obtained $\\sigma$ for n-type doping is much larger than that for p-type doping, which is consistent with the above discussions about carrier relaxation times.As is known,higher $\\sigma$ requires higher carrier concentrationwhereas higher $s$ requires lower carrier concentration. Thus an optimized power factor $S ^ { 2 } \\sigma$ requires a certain compromise between $s$ and $\\sigma .$ As shown in Fig.3(c),the maximum $S ^ { 2 } \\sigma$ appears at amoderate doping level where neither $s$ nor $\\sigma$ reaches its maximum. The calculated electronic thermal conductivity (Fig.3(d)) shows a similar behavior to that of electrical conductivity because of the Wiedemann-Franz law.44 With higher Seebeck coefficient and lower electrical conductivity,graphdiyne exhibits higher power factor $S ^ { 2 } \\sigma$ and lower $\\kappa _ { \\mathrm { e } }$ than $\\gamma$ graphyne at same doping levels. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If we focus on the high temperature areas $\\left( > 4 5 0 ~ \\mathrm { ~ K ~ } \\right)$ of Fig.3(c),we may find that the optimized power factor decreases with the increase of temperature when the carrier concentration is considered as constant.In contrast，the electronic thermal conductivity slightly increases with the increase of temperature,as shown in Fig. 3(d). Thus the $Z T$ values of these two graphyne sheets will reach their maximum near moderate temperature (4oo-900 K). Inaddition,compared with the power factor, the electronic thermal conductivity of graphyne increases faster with increasing carrier concentration, ranging $1 0 ^ { 1 9 } – 1 0 ^ { 2 0 } ~ \\mathrm { c m } ^ { - 3 }$ . Such a trend indicates that $\\gamma$ graphyne and graphdiyne could be optimized to exhibit the highest $Z T$ valuesatarelativelylow carrier concentration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f938fa349d14ec60598eb989c479587ce4f421f4e5016749f31e1db59f9fc1f.jpg",
+        "img_caption": [
+            "Fig.3Calculated electronic transport coefficient map as a function of temperature $\\tau$ and carrier concentration $n$ for $\\gamma$ -graphyne (top) and graphdiyne (bottom) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Phonon dispersion relations and density of states ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 displays the calculated phonon dispersions for graphene, $\\gamma$ -graphyne and graphdiyne.The gradually changed colors are determined by the group velocity,and the red and blue color stand for large and small group velocity, respectively.In general, our calculated phonon spectrum of graphene is consistent with the previous experimental measurements and theoretical calculations.4546Asshown inFig.4(a),thelargestacoustic frequencies of graphene are almost as high as $1 2 0 0 ~ \\mathrm { c m } ^ { - 1 }$ ，and the acoustic branches disperse with very high group velocity. Compared with graphene,two kinds of graphyne sheets exhibit much lower acoustic branches $\\left( < 3 0 0 ~ \\mathrm { c m } ^ { - 1 } \\right)$ and introduce some new optical branches at around $2 2 0 0 ~ \\mathrm { c m } ^ { - 1 }$ .The optical branches between 200 and $1 5 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ are fairly flat. Both $\\gamma$ graphyne and graphdiyne exhibit lower acoustic group velocity than graphene. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The obtained phonon spectrum of $\\gamma$ graphyne is consistent with the previous DFT calculations.9,20,41 In the case of graphdiyne, the Raman spectra were recorded byLi et al. They found that the Raman peak at $1 3 8 2 . 2 ~ \\mathrm { c m } ^ { - 1 }$ is attributed to the breathing vibration of the $\\displaystyle \\mathbf { s p } ^ { 2 }$ carbon in aromatic rings while the one at $2 1 8 9 . 8 ~ \\mathrm { c m } ^ { - 1 }$ is attributed to the vibration of the sp carbon in acetylenic linkages.1° Our calculated phonon spectrum of graphdiyne confirms the observed two phonon branches at $1 3 3 9 . 8 ~ \\mathrm { c m } ^ { - 1 }$ and $2 2 1 6 . 5 ~ \\mathrm { c m } ^ { - 1 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/957bf40646bbb98f97927eeb162af7d18bf015c4c96c1ba6cab5c5d95437d591.jpg",
+        "img_caption": [
+            "Fig.4Calculated phonon dispersion relations for (a) graphene,(b) $\\gamma$ -graphyne and (c) graphdiyne.The gradual change of colors from blue to red indicates the group velocity of the corresponding phonon branches $( 0 { - } 2 0 ~ \\mathsf { k m } ~ \\mathsf { s } ^ { - 1 } )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5cc0a69f74cff9a1d82ab57bf7644c6b2b09c4103e9a3a2230a58201766831f.jpg",
+        "img_caption": [
+            "Fig.5Calculated phonon density of states (DOS) for graphene，γ- graphyne and graphdiyne (a) and sp-, $\\mathsf { s p } ^ { 2 }$ -carbon partial density of states (PDOS) for (b) $\\gamma$ -graphyne and (c) graphdiyne. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5(a) presents the phonon density of states (DOs) for graphene, $\\gamma$ graphyne and graphdiyne.In graphene, the low-frequency $( < 9 0 0 ~ \\mathrm { c m } ^ { - 1 } )$ portion of the phonon DOs is mainly contributed by the acoustic phonon.In graphyne,the contribution of the acoustic phonon shrinks to a narrow frequency range $\\left( < 3 0 0 ~ \\mathrm { c m } ^ { - 1 } \\right)$ . The phonon DOS of graphyne sheets presents several peaks at low frequency,showing the decreasing group velocity of the acoustic phonon. The intermediate-frequency portion of the phonon DOs is also split into some neighboring peaks,which is consistent with the flat optical branches.The isolated high-frequency DOS around $2 2 0 0 ~ \\mathrm { c m } ^ { - 1 }$ is consistent with the isolated optical branches. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As mentioned before,graphyne contains sp and $\\displaystyle \\mathbf { s p } ^ { 2 }$ hybridized bonds while graphene is all- $\\mathsf { s p } ^ { 2 }$ bonded. The sp and $\\displaystyle \\boldsymbol { \\mathsf { s p } } ^ { 2 }$ carbon partial densities of states (PDOSs) for $\\gamma \\cdot$ graphyne and graphdiyne are separated and shown in Fig.5(b) and (c).Itcan be seen that the isolated high-frequency phonons $\\left( 2 1 0 0 { - } 2 3 0 0 \\ \\mathrm { c m } ^ { - 1 } \\right) ^ { } .$ are completely contributed by sp carbon atoms,which is very much consistent with the previous experimental conclusion.10 The low-frequency phonons $\\left( < 6 0 0 \\mathrm { c m } ^ { - 1 } \\right)$ aremainly contributed by sp carbon atoms while the intermediate-frequency branches $\\left( 6 0 0 { - } 1 5 0 0 \\ \\mathrm { c m } ^ { - 1 } \\right) ^ { } ,$ are mainly contributed by $\\displaystyle \\mathbf { s p } ^ { 2 }$ carbon atoms.As is shown, the phonon DOS of $\\displaystyle \\mathbf { s p } ^ { 2 }$ -hybridized aromatic rings in graphyne has almost the same shape as that in graphene.Along the series of graphene, $\\gamma$ graphyne，and graphdiyne，the $\\displaystyle \\boldsymbol { \\mathsf { s p } } ^ { 2 }$ component in lower-frequency phonons is gradually replaced by the sp one.The phonon DOS shows that the presence of the sp bonding decreases the group velocity of acoustic branches and introduces some new optical branches,implying much lower phonon thermal conductivity in graphyne than in graphene. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Phonon thermal conductivity ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asdiscussed in Introduction, the phonon thermal conductivity of graphene and graphyne has been investigated by using the NEGF method within the ballstic limit.9,19-21,23 The NEGF results show a monotonously increase of phonon thermal conductance with increasing temperature.In the NEGF method, the phonon transport is treated as ballistic transport,and the phonon-phonon interaction is neglected. This approximation is applicable at just low temperature when phonon scattering is weak.From the room temperature to intermediate temperature range，phonon-phonon scattering processes dominate the phonon transport and should be reasonably treated.In this work, the adopted phonon BTE method is applied to handle the phonon scattering efect and describe the relationship between phonon thermal conductivity and temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e67970cd9231e29b31f50ad40e97f1a133a9d4303101d97161d8b7ebb2bceba.jpg",
+        "img_caption": [
+            "Fig.6Calculated phonon thermal conductivity as a function of temperature for graphene, $\\gamma$ -graphyne and graphdiyne.The fitting curves of $\\kappa _ { \\mathsf { p h } }$ \\~ $1 / T ^ { \\alpha }$ are also shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 displays the calculated phonon thermal conductivity as a function of temperature for graphene, $\\gamma$ graphyne and graphdiyne. The $\\kappa _ { \\mathrm { p h } }$ of graphene at room temperature is 3845 W $\\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ which is consistent with the experimental measurement ( $2 5 0 0 -$ 5000 W $\\mathbf { m } ^ { - 1 } \\mathbf { K } ^ { - 1 7 , 8 } )$ and close to the previous theoretical calculations $( 3 4 3 5 - 3 8 0 0 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 6 , 4 7 } )$ . As shown in Fig. 6,our results are roughly scaled by $\\kappa _ { \\mathrm { p h } } 1 / T ^ { \\alpha }$ 1 $\\ \\stackrel { \\cdot } { \\alpha } = 1 . 6 6$ ，0.93,and o.75 for graphene, Y-graphyne and graphdiyne,respectively).The decreased thermal conductivity at high temperature can be owed to the more frequent phonon-phonon scattering.The calculated values for these two graphyne sheets are much lower than that for gra phene in the whole temperature range.At room temperature, the thermal conductivities are 82.3 and $2 2 . 3 \\textrm { W } \\mathrm { m } ^ { - 1 } \\textrm { K } ^ { - 1 }$ for $\\gamma$ graphyne and graphdiyne,respectively.These results are consistent with the above analysis of phonon dispersion and DOs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In a quantitative comparison, the phonon thermal conductivity of $\\gamma \\cdot$ graphyne and graphdiyne is only $3 \\%$ and $1 \\%$ of that of their allotrope graphene,respectively. It is meaningful to understand the huge difference in the phonon transport properties between these similar two-dimensional materials.As is known,phonon thermal conductivity of two-dimensional sheets can be written as: $\\kappa _ { \\mathrm { p h } } = C \\mathrm { v } \\bar { \\nu } _ { \\mathrm { g } } \\bar { l } / 2$ ，where $C _ { \\mathrm { V } } , \\bar { \\nu } _ { \\mathrm { g } } ,$ and l are the specific heat, the group velocity,and the phonon mean free path (MFP). In this work, the phonon mean free path lis calculated as the the average of free path over all the phonon modes: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { l } = \\frac { 1 } { N _ { q s } } \\sum _ { q s } \\nu _ { q s } \\tau _ { q s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { q s }$ is the number of $q$ pointssampled. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/547255189466d1016c7d528199bfe606c0728caa942879ee7461a8f993526389.jpg",
+        "table_caption": [
+            "Table 3Calculated specific heat $C _ { \\mathsf { V } } ,$ mean values of group velocity ${ \\bar { v } } _ { { \\mathfrak { g } } } ,$ phonon mean free path I,and thermal conductivity $\\kappa _ { \\mathsf { p h } }$ for graphene, $\\gamma \\cdot$ graphyne and graphdiyne at $3 0 0 ~ \\mathsf { K }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Structure</td><td>Cv(Jcm-³K-1) vg (kms-1) 𝑖 (nm)</td><td></td><td>Kph (W m-1 K-1)</td></tr><tr><td>Graphene</td><td>1.64</td><td>866 (77548) 3845</td><td></td></tr><tr><td>y-Graphyne 1.68</td><td></td><td>5.42 1.65 59.5</td><td>82.3</td></tr><tr><td>Graphdiyne 1.47</td><td></td><td>18.3</td><td>22.3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The calculated $C _ { \\mathrm { V } } , \\bar { \\nu } _ { \\mathrm { g } } ,$ and at $3 0 0 ~ \\mathrm { ~ K ~ }$ for graphene, $\\gamma$ -graphyne and graphdiyne are summarized in Table 3.As is shown,there isno obvious difference between the specific heat values while the mean group velocity of graphene is almost triple of that of graphyne.Our calculated phonon MFP for graphene is $8 6 6 ~ \\mathrm { n m }$ ,which is very close to the experimentally measured value of $7 7 5 ~ \\mathrm { n m }$ .48 The phonon MFPs of $\\gamma$ graphyne and graphdiyne are nearly one or two orders shorter than that of graphene.Considering the shorter phonon MFP,the much lower phonon thermal conductivity of graphyne can be understood.The previous NEGF calculations assumed that graphyne and graphene have the same MFP of $7 7 5 ~ \\mathrm { { \\ n m } }$ ，and their obtained phonon thermal conductance $\\sigma _ { \\mathrm { { p h } } }$ of graphyne is $6 0 \\%$ lower than that of graphene.9,19-23 Our studies show that the mixed $\\mathsf { s p } / \\mathsf { s p } ^ { 2 }$ bonds in graphyne sheets increase phononphonon scattering,and the calculated phononMFP of graphyne is much shorter than that of graphene,resulting in the two orders lower thermal conductivity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to examine the distribution of phonon free paths in graphene, $\\gamma$ graphyne and graphdiyne.Fig.7 presents the normalized cumulative phonon thermal conductivity as a function of the free path at $3 0 0 \\mathrm { ~ K ~ }$ ，Their phonon thermal conductivity distribution curves look very similar，except for the different scales of phonon free paths.Usually,low-frequency phonon modes with large free paths dominate in the anharmonic scattering processes,and high-frequency modes with small free paths contribute a litle to the thermal conductivity.49,50 As shown inFig.7, the thermal conductivity of graphene is mostly contributed from long free path phonons,and the fraction of heat transport carried by phonons with free paths longer or equal to $1 0 0 0 \\mathrm { n m }$ is $\\sim 5 5 \\%$ . The phonon free paths of $\\gamma$ graphyne are distributed in the range of $1 { - } 5 0 0 0 \\ \\mathrm { n m }$ ，and the longer free path phonons （20 $\\left( > 1 0 0 \\ \\mathrm { n m } \\right)$ nearly contribute half of the thermal conductivity. The free paths of graphdiyne are almost shorter than $1 0 0 0 \\ \\mathrm { n m }$ Its thermal conductivity is mostly contributed by short free path phonons,and the fraction of heat carried by a phonon with the free path shorter or equal to $2 0 ~ \\mathrm { { n m } }$ is $\\sim 5 5 \\%$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5Optimized ZT values ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the obtained transport coefficients,we are now able to evaluate the thermoelectric performance of graphyne according to $Z T = S ^ { 2 } \\sigma T / \\big ( \\kappa _ { \\mathrm { e } } + \\kappa _ { \\mathrm { p h } } \\big )$ .Fig.8(a) and (b) presents the ZTvalue as a function of temperature $T$ and carrier concentration $n$ for $\\gamma$ -graphyne and graphdiyne,respectively.The red and blue colors stand for large and small $Z T$ values，respectively，as shown in the color scale.As can be seen from Fig.8,the calculated ZT values exhibit highlighted areas in a wide temperature range. This observation suggests that one can always obtain high thermoelectric performance of graphyne by appropriate doping. The n-type graphyne sheets exhibit larger ZT values than the p-type systems,which ismainly caused by the relatively high electrical conductivity and the power factor of n-type doping (see Fig. 3(b) and (c)).In addition，due to the higher power factor (see Fig. 3(c)), lower electronic thermal conductivity (see Fig. 3(d)) and lower phonon thermal conductivity (see Fig. 6),graphdiyne can be doped to exhibit larger $Z T$ values than $\\gamma$ graphyne. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The optimized ZT values of $\\gamma$ graphyne and graphdiyne at $3 0 0 \\mathrm { ~ K ~ }$ are summarized in Table 4,where the corresponding carrier concentration $n$ and transport coefficients $S , \\sigma , S ^ { 2 } \\sigma ,$ $\\kappa _ { \\mathrm { e } } ,$ and $\\kappa _ { \\mathrm { p h } }$ are also given.Wang et al. reported that the optimized ZT of graphene at room temperature is 0.oo94. The corresponding transport coefficients are extracted from their studies and listed in Table 4 for comparison.Itis found that graphyne could exhibit a higher power factor than graphene by light doping $( \\sim 1 0 ^ { 1 9 } \\mathrm { c m } ^ { - 3 } )$ As shown in the previous reports,the mixed $\\operatorname { s p } / \\operatorname { s p } ^ { 2 }$ bonds open a band gap in graphyne sheets.11-13 The low electronic thermal conductivity, the high Seebeck coeficient and the improved power factor in graphyne can be owing to the presence of sp bonding.On the other hand,sp bonding in graphyne sheets leads to low thermal conductivity.Reasonably,high $Z T$ values are obtained forgraphyne sheets.Compared with $\\gamma \\cdot$ graphyne，graphdiyne contains more sp bonding,and it exhibits lower thermal conductivity and higher ZT value. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/092e003479f6670c799ffce6d58f96375c9078f528f257debd2864b6b305c401.jpg",
+        "img_caption": [
+            "Fig.7Normalized cumulative phonon thermal conductivity as a function of the mean free path at $3 0 0 ~ \\mathsf { K }$ for (a) graphene,(b) $\\gamma$ -graphyne and (c) graphdiyne. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a417c38f87e5b426af7dc7847f96b3a3bd8d579a208be30e970d79000e5efb7.jpg",
+        "img_caption": [
+            "Fig.8Calculated ZT value map as a function of temperature $\\tau$ and carrier concentration $n$ for (a) $\\gamma$ -graphyneand (b) graphdiyne "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac22412b8da56eb834e8bc87cee7c9cdda63b3d626d854dac5d2ce1902154266.jpg",
+        "table_caption": [
+            "Table 4Optimized ZTvalues of $\\gamma$ -graphyne and graphdiyneat $3 0 0 ~ \\mathsf { K }$ as well as the optimal operating temperature.The corresponding optimal carrier concentration $n ,$ the Seebeck coefficient S,the electrical conductivity $\\sigma .$ the power factor $S ^ { 2 } \\sigma$ ,and the electronic and phonon thermal conductivity $\\kappa _ { \\mathrm { e } }$ and （202 $\\kappa _ { \\mathsf { p h } }$ are also indicated "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> Structure</td><td>n (1019 cm-3)</td><td>S (μV K-1)</td><td>σ (10 S m-1)</td><td>s²σ (W m-1 K-2)</td><td>Ke (W m-1 K-1)</td><td>Kph (W m-1 K-1)</td><td>ZT</td></tr><tr><td>Graphene9</td><td>@300 K</td><td>~77</td><td>~16.4</td><td>~0.097</td><td>~130</td><td>~2960</td><td>0.0094</td></tr><tr><td>y-Graphyne</td><td>-4.0@300 K</td><td>260</td><td>5.55</td><td>0.38</td><td>40.8</td><td>82.3</td><td>0.91</td></tr><tr><td></td><td>2.1@300 K</td><td>-316</td><td>8.96</td><td>0.89</td><td>65.9</td><td>82.3</td><td>1.81</td></tr><tr><td></td><td>-5.5@780 K</td><td>286</td><td>2.78</td><td>0.23</td><td>53.0</td><td>34.4</td><td>2.02</td></tr><tr><td></td><td>3.3@760 K</td><td>-307</td><td>5.76</td><td>0.55</td><td>107.2</td><td>35.2</td><td>2.92</td></tr><tr><td>Graphdiyne</td><td>-4.8@300 K</td><td>248</td><td>1.91</td><td>0.12</td><td>14.0</td><td>22.3</td><td>0.99</td></tr><tr><td></td><td>1.1@300 K</td><td>-372</td><td>4.09</td><td>0.57</td><td>30.1</td><td>22.3</td><td>3.26</td></tr><tr><td></td><td>-7.0@800 K</td><td>315</td><td>0.95</td><td>0.09</td><td>18.7</td><td>10.8</td><td>2.56</td></tr><tr><td></td><td>1.2@580 K</td><td>-429</td><td>2.34</td><td>0.43</td><td>33.2</td><td>13.8</td><td>5.30</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 4,our calculations indicate that the two orders lower phonon thermal conductivity in graphyne sheets significantly increases the ZTvalues.The optimized ZTvalue of graphdiyne at room temperature is 0.99 and 3.26 by p-type and n-type doping,respectively.These values mostly exceed the previous reports and make graphyne a very promising candidate for thermoelectric applications.In the previous studies, Wang et al. and Sevincli et al.independently studied the thermoelectric properties of $\\gamma$ graphyne sheets by using the NEGF method within the ballistic approach.They obtained similar results and the optimized $Z T$ value for $\\gamma$ graphyne is only about 0.16 at 300 K.9,23 They attributed the relatively large ZT values of graphyne to larger Seebeck coefficients. The huge difference in the phonon mean free path between graphene and graphyne is neglected by the NEGF method,which leads to overestimated thermal conductivity and underestimated $Z T$ value for graphyne sheets.9,23 Sun et al. investigated the thermoelectric properties of graphdiyne by a combination of the BTE method and MD simulations,and the optimized $Z T$ value for graphdiyne is 4.8 at $3 0 0 ~ \\mathrm { K } ^ { 2 4 }$ As is known，MD results strongly depend on the empirical potential coefficients.It seems that the thermal conductivity of graphene and graphyne obtained by the MD method isunderestimated compared with experimental values.For example,the MD results show that the lattice thermal conductivity of graphene at $3 0 0 ~ \\mathrm { K }$ is only $1 0 0 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ 18 which is much smaller than the experimental measurements $\\left( 2 5 0 0 { - } 5 0 0 0 \\ \\mathrm { W ~ m } ^ { - 1 } \\ \\mathrm { K } ^ { - 1 } \\right)$ .6,7 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The high ZT value of 4.8 for graphdiyne reported by Sun may result from the underestimated thermal conductivity (7.3 W $\\mathrm { ~ m ~ } ^ { - 1 } \\mathrm { ~ K ~ } ^ { - 1 }$ at 300 K). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Fig.8 that $\\gamma$ graphyne and graphdiyne exhibit very high $Z T$ values in a wide operating temperature range around $8 0 0 ~ \\mathrm { ~ K ~ }$ and $6 0 0 ~ \\mathrm { ~ K ~ }$ ，respectively.The highest ZT values and the corresponding transport coeffcients are summarized in Table 4.Compared with the results at room temperature,the optimized ZT values increase from 1.81 and 3.26 to 2.92 and 5.30 for n-type $\\gamma$ -graphyne and graphdiyne, respectively.The increased $Z T$ values result from the exponential decline of phonon thermal conductivity and the mild decrease of the power factor.As shown in Table 4,the electronic thermal conductivity is comparable and even in excess of the phonon contribution,which is not uncommon in doped systems. We note that the $Z T$ value of graphdiyne is higher than 3.O in a very wide temperature range (almost $3 0 0 { - } 9 0 0 ~ \\mathrm { K } )$ and a wide doping range $( n ~ = ~ 0 . 2 – 8 . 0 ~ \\times ~ 1 0 ^ { 1 9 } ~ \\mathrm { c m } ^ { - 3 } )$ ，which implies that this graphdiyne is particularly suitable for fabrication of the thermoelectric modules. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Summary ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary,the electronic,thermal,and thermoelectric transport properties of $\\gamma$ graphyne and graphdiyne are investigated by using first-principles calculations and the Boltzmann transport equation method.Graphyne exhibits much higher Seebeck coefficients than graphene,which is consistent with its semiconducting band structure.The deformation theory is adopted to describe the electron-phonon interaction and our results predict that the carrier relaxation times of electrons are larger than those of holes,implying better thermoelectric performance of n-type graphyne.Contrary to the previous NEGF calculations,our calculated lattice thermal conductivity of graphyne is found to be two orders lower than graphene.The phonon spectra and DOSs indicate that the lowlattice thermal conductivity originates from the decrease of the group velocity and the appearance of new phonon branches.The calculated phonon MFPs for graphene, $\\gamma$ graphyne,and graphdiyne are 866,60,and $1 8 \\mathrm { n m }$ ,respectively.We argue that the overestimation of lattice thermal conductivity in previous studies is due to the rough description of phonon-phonon scattering.With the high power factor and relatively low thermal conductivity，graphdiyne possesses superior thermoelectric performance with a maximum $Z T$ value of 5.3 at $5 8 0 ~ \\mathrm { K } .$ Our study suggests that major effort should be paid to the realization of these high-performance and environmentally-friendly thermoelectricmaterials. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (No.11404350,11404348 and 11234012) and Ningbo Science and Technology Innovation Team (No. 2014B82oo4).All calculations were performed in the PC Cluster from Sugon Company of China. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "13 L. D. Pan, L. Z. Zhang, B. Q. Song, S. X. Du and H. J. Gao, Appl.Phys.Lett.,2011,98,173102.   \n14 M. Q. Long, L. Tang, D. Wang, Y. L. Li and Z. G. Shuai, ACS Nano,2011,5, 2593.   \n15 J. Y. Xi, M. Q. Long, L. Tang, D. Wang and Z. G. Shuai, Nanoscale,2012,4,4348.   \n16 J. M. Chen, J. Y. Xi, D. Wang and Z. G. Shuai,J. Phys. Chem. Lett.,2013,4, 1443.   \n17 J. Y. Xi, D. Wang, Y. P. Yi and Z. G. Shuai,J. Chem. Phys.,   \n2014,141, 034704.   \n18 Y. Y. Zhang, Q. X. Pei and C. M. Wang, Comput. Mater. Sci.,   \n2012,65,406.   \n19 X. M. Wang and S.S. Lu,J. Phys. Chem. C,2013,117,19740.   \n20 T. Ouyang, Y. P. Chen, L. M. Liu, Y. E. Xie, X. L. Wei and J. X. Zhong,Phys.Rev.B: Condens.Matter Mater.Phys.,2012,   \n85, 235436.   \n21 T.Ouyang and M. Hu, Nanotechnology,2014, 25,245401.   \n22 T. Ouyang, H. P. Xiao, Y. E. Xie, X. L. Wei, Y. P. Chen and J. X. Zhong,J. Appl. Phys.,2013,114, 073710.   \n23H.Sevincli and C.Sevik,Appl. Phys. Let.,2014,105,223108.   \n24 L. Sun, P.H. Jiang, H. J. Liu, D. D. Fan, J. H. Liang, J. Wei, L. Cheng, J. Zhang and J. Shi, Carbon,2015,90, 255.   \n25 J.-S.Wang, J. Wang and N. Zeng,Phys. Rev. B: Condens. Matter Mater.Phys.,2006,74,033408.   \n26 D. Wang, W. Shi, J. M. Chen, J. Y. Xi and Z. G. Shuai, Phys. Chem. Chem. Phys.,2012,14,16505.   \n27 J. M. Chen, D. Wang and Z. G. Shuai, J. Chem. Theory Comput.,2012,8, 3338.   \n28 A. Cepellotti,G.Fugallo,L. Paulatto,M. Lazzeri, F.Mauri and N. Marzari, Nat. Commun., 2015,6, 6400.   \n29 A. N. Gandi and U. Schwingenschlogl, Chem. Mater., 2014,   \n26, 6628.   \n30 G.Kresse and J.Hafner,Phys.Rev.B: Condens. Matter Mater. Phys., 1993,47, R558.   \n31 G.Kresse and J. Hafner,Phys. Rev. B: Condens. Matter Mater. Phys., 1994, 49, 14251.   \n32 G. Kresse and J. Furthmuller, Comput. Mater. Sci.,1996,6,15.   \n33 J.P.Perdew,K. Burke and M.Ernzerhof,Phys. Rev. Lett.,   \n1996,77,3865.   \n34 G.K. H. Madsen and D. J. Singh, Comput. Phys. Commun.,   \n2006, 175,67.   \n35 M.G. Holland,Phys.Rev.,1963,132,2461.   \n36 D.J. Singh, Sci. Adv. Mater.,2011,3, 561.   \n37 J. Bardeen and W. Shockley, Phys. Rev.,1950,80,72.   \n38 P. J. Price,Ann. Phys.,1981,133, 217.   \n39 W. Li, J. Carrete, N. A. Katcho and N. Mingo, Comput. Phys. Commun., 2014,185,1747.   \n40 Q.Peng,W. Ji and S.De,Phys.Chem.Chem.Phys.，2012,   \n14, 13385.   \n41 N.K. Perkgoz and C.Sevik,Nanotechnology,2014,25,185701.   \n42 Y. Jiao,A. J. Du,M. Hankel, Z. H. Zhu,V. Rudolph and S. C. Smith, Chem. Commun., 2011,47,11843.   \n43 J. Kang,J. B.Li,F.M.Wu, S.S. Li and J. B. Xia,J. Phys. Chem. C,2011,115,20466.   \n44 A. Bejan and A. D. Allan, Heat Transfer Handbook,Wiley, New York, 2003,p. 1338. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 L.Bell, Science,2008,321,1457.   \n2G．A.Slack，in CRC Handbook of Thermoelectrics，ed. D.M.Rowe,CRC Press,Boca Raton FL,1995,p.407.   \n3L.D.Hicks and M.S.Dresselhaus,Phys.Rev.B:Condens. MatterMater.Phys.,1993,47,12727.   \n4 S.V.Morozov,K. S.Novoselov,M.I. Katsnelson,F. Schedin, D.C.Elias,J.A. Jaszczak and A.K. Geim,Phys. Rev. Lett, 2008,100,016602.   \n5A.H.Castro Neto,F.Guinea,N.M.R.Peres,K.S.Novoselov and A.K.Geim,Rev. Mod.Phys.,2009,81,109.   \n6L.Lindsay,D.A.Broido andN.Mingo,Phys.Rev.B:Condens. Matter Mater.Phys.,2010,82,115427.   \n7 A.A.Balandin,Nat.Mater.,2011,10,569.   \n8D.L.Nika and A.A.Balandin,J.Phys.:Condens.Matter, 2012，24,233203.   \n9 X.M.Wang,D.C.Mo and S. S.Lu,J.Chem. Phys.,2013, 138,204704.   \nlO G.X.Li,Y.L. Li,H.B. Liu, Y.B. Guo, Y. J. Li and D.B. Zhu, Chem. Commun.,2010,46,3256.   \nl1N.Narita,S.Nagai,S.Suzuki and K.Nakao,Phys.Rev.B: Condens.MatterMater.Phys.,1998,58,11009.   \nl2 J.Zhou,K.Lv,Q. Wang,X. S.Chen,Q.Sun and P. Jena, J.Chem.Phys.,2011,134,174701.   \n45 S.Siebentritt,R.Pues，K.-H. Rieder and A. M. Shikin, Phys.Rev. B:Condens. Matter Mater. Phys.，1997，55,   \n7927.   \n46J.-A.Yan,W.Y.Ruan and M.Y.Chou,Phys. Rev.B: Condens. MatterMater.Phys.,2008,77,125401.   \n47D.L.Nika,S.Ghosh,E.P.Pokatilov and A.A.Balandin, Appl.Phys.Lett.,2009,94,203103.   \n48 S.Ghosh，I.Calizo，D.Teweldebrhan，E.P.Pokatilov, D.L.Nika,A.A. Balandin,W.Bao,F.Miao and C.N. Lau, Appl.Phys.Lett.,2008,92,151911.   \n49K.Esfarjani and G.Chen，Phys.Rev.B:Condens.Matter Mater.Phys.,2011,84,085204.   \n50J.Shiomi,K.Esfarjani and G.Chen,Phys.Rev.B:Condens. MatterMater.Phys.,2011,84,104302. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

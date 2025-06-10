@@ -1,0 +1,298 @@
+# 基于特征选择与集成学习的钓鱼网站检测方法
+
+周传华1,²，柳智才1，丁敬安1，周家亿
+
+(1.安徽工业大学 管理科学与工程学院，安徽 马鞍山 243002;2.中国科学技术大学 计算机科学与技术学院，合肥230026;3．早稻田大学IPS学院，日本东京)
+
+摘要：针对目前大部分钓鱼网站检测方法存在检测准确率低、误判率高等问题，提出了一种基于特征选择与集成学习的钓鱼网站检测方法。首先使用FSIGR算法进行特征选择，该算法结合过滤和封装模式的优点，从信息相关性和分类能力两个方面对特征进行综合度量，并采用前向递增后向递归剔除策略对特征进行选择，以分类精度作为评价指标对特征子集进行评价与选择，从而获取最优特征子集；然后使用选择后的最优特征子集基于随机森林集成学习分类算法进行训练。在UCI数据集上的实验表明，所提方法能够有效提高钓鱼网站检测的正确率，降低误判率，具有实际应用意义。
+
+关键词：钓鱼网站；随机森林；信息增益率；特征选择 中图分类号：TP393.08 doi: 10.3969/j.issn.1001-3695.2017.10.0998
+
+# Method of phishing website detection based on feature selection and integrated learning
+
+Zhou Chuanhual,², Liu Zhicail†, Ding Jing'an], Zhou Jiayi³ (1.SchoolofManagementScience&EngineringAnui UniversityfTchnologyMaanshanAnui24302,China;2.chool ofComputerScience&Technology,UniversityofScience&TechnologyofChina,Hefei230026,China;3.Gaduatehoolof Information,Production and SystemsWaseda University,Tokyo,Japan)
+
+Abstract:In viewof the factthat most phishing websites detection methods have the problems oflowdetectionaccuracyand high false positiverate andotherissues,thispaper proposedaphishing website detectionmethodbasedon feature selectionand integratedlearning.Firstly,theFSIGRalgorithm wasused toselectfeature.TheFSIGRalgorithmcombinedwith theadvantages of filter and wrapper modes.First,itcarriedout a comprehensive measurement offeatures from two aspects of information corelationandlasificationabilitySecond,itusedrecursieelmnationaftercreasingforwardstrategytoselecttefeatures, andused theclassificationaccuracyas the evaluation index to measureandselect the feature subset.Finally,itobtained the optimal featuresubset.Then,basedonandom forest integratedlearingclasificationalgorithm,ittainedtheselectedoptimal feature subset.Experiments on the UCIdatasetshowthatthis methodcan improve theaccuracyofphishing websitesdetection and reduce the false positive rate.
+
+Key Words: phishing website; random forest; information gain ratio; feature selection
+
+# 0 引言
+
+随着互联网的不断发展、普及和用户数量的增加，特别是电子商务的快速发展，互联网安全问题变的尤其重要。钓鱼网站（phishing）就是互联网安全威胁之一，它是模仿合法网站恶意创造出来的一个假网页，并使用社会工程技术对网络用户进行恶意攻击，从而获取利益和用户名、密码等私密信息[1,2]。根据反钓鱼网站工作组（APWG）的报告显示，在2016年第四季度，APWG每月平均发现网络钓鱼袭击92564次，与2004年相比12年间增加 $5 7 5 3 \%$ ；2016年网络诈骗攻击总数为1220
+
+523次，比2015年增加 $65 \%$ 。其中，受钓鱼网站影响最严重的国家是中国， $47 . 0 9 \%$ 的机器受到感染[3]。
+
+虽然攻击者使用不同的技术创建钓鱼网站来欺骗用户，但他们都使用一组常见特征来设计钓鱼网站。因此，这也给反恶意网站工作者提供了解决问题的方法与思路。目前钓鱼网站检测方法主要有用户教育[4-6]、黑名单技术[7,8]和启发式技术[9\~16]等。其中，启发式技术的研究和使用较为广泛，它主要是通过提取网站的相关特征，然后应用启发式规则或者机器学习算法对特征进行处理，以达到对网页进行分类(合法/钓鱼)的目的。文献[11]通过对网页标题、关键字等进行特征提取，并采用NBC和 SVM分类算法作为基分类器，采用分类集成方法综合基分类器的检测结果，提出了一种有效的钓鱼网站智能检测系统。文献[12]基于SVM分类算法提出了一个针对URL进行匹配过滤和分类识别的网络钓鱼检测系统，该系统虽然能够提高钓鱼网站预测的准确率，但仅适用于低维小样本数据。文献[13]使用K-means算法对URL特征或者页面特征进行处理，以达到预测钓鱼网站的目的。该方法虽然在一定程度上能提高预测模型的分类精度，但分类分性能有限。文献[14]通过对比多元感知器、决策树和贝叶斯分类算法对钓鱼网站的预测性能发现相对于其他两种分类算法，决策树分类模型具有较优的分类性能。通过以上文献分析可知：a）通常主要从HTML标签、URL地址、编码、页面图片等方面对网页进行特征提取[15,16]，特征维数较高，存在大量冗余特征，影响分类模型的准确率；b)单分类器模型分类性能有限，存在泛化能力和容错性较差等问题。
+
+针对以上问题，本文提出一种基于特征选择和集成学习算法的钓鱼网站检测方法。其中，特征选择能有效减少大量冗余特征，从而提高钓鱼网站预测的准确率[17\~20]、降低时间开销；使用集成学习算法综合各基分类器的分类结果构建分类模型，能有效提高分类模型的容错性和泛化能力，从而降低钓鱼网站预测的误判率。在特征选择阶段，本文提出了基于信息增益率和随机森林的特征选择算法（feature selection based onimportance and gainrate,FSIGR)。FSIGR 特征选择算法分为过滤和封装两个阶段。在过滤阶段，以特征与类别的信息相关性为依据对特征进行选择；在封装阶段，对选择后的特征从信息相关性和分类能力两个维度计算特征权重向量和综合权重并排序，使用前项递增后向递归删除策略进行选择，并以分类精度为依据对特征子集进行评估，从而选出相关性强、冗余度低的最优特征子集，提高钓鱼网站预测的准确率。在分类阶段，使用随机森林集成学习分类算法对数据进行训练得到最终的分类模型，降低钓鱼网站预测的误判率。实验结果表明，本文提出的钓鱼网站检测方法能有效提高钓鱼网站预测的准确率，降低误判率。
+
+# 1 基础理论
+
+# 1.1熵与信息增益率
+
+香农熵作为信息论中的基本概念，是用于度量随机变量不确定性的一种数学表达，也是对变量本身或变量集合所含有的平均信息量的一种度量，通常用 $H ( X )$ 表示。设 $X =$ $\{ x _ { 1 } , x _ { 2 } , \dots , x _ { m } \}$ 与 $Y = \{ y _ { 1 } , y _ { 2 } , \dots , y _ { m } \}$ 是两个随机变量， $p ( x _ { i } )$ 和$p ( y _ { i } )$ 为概率密度函数，则随机变量X的熵 $H ( X )$ 定义为
+
+$$
+\begin{array} { r } { H ( X ) = - \sum _ { i = 1 } ^ { m } p ( x _ { i } ) l o g _ { 2 } p ( x _ { i } ) } \end{array}
+$$
+
+随机变量 $X$ 和Y的条件熵定义为
+
+$$
+\begin{array} { r } { H ( X | Y ) = \sum _ { i = 1 } ^ { m } p ( y _ { i } ) H ( X | Y = y _ { i } ) } \end{array}
+$$
+
+条件熵 $H ( X | Y ) \leq H ( X )$ 用来衡量变量X和Y的相关性。若变 量 $X$ 与Y不相关，则 $H ( X | Y ) = \ H ( X )$ ；若变量 $X$ 与Y相关，则 $H ( X | Y ) < H ( X )$ ，且 $H ( X ) - H ( X | Y )$ 值越大，变量X和Y相关性越
+
+强。
+
+信息增益（informationgain,IG）是对一个随机变量在另一个随机变量确定的情况下相关信息量的度量。信息增益具有非对称性，是一种无量纲的度量标准，值越大，说明变量之间的相关性越强。信息增益与熵、条件熵的关系为
+
+$$
+I G ( X | Y ) = H ( X ) - H ( X | Y )
+$$
+
+由式（3）可以看出， $I G ( X | Y )$ 值越大，说明变量X与Y相关性越强。其中 $I G ( X | Y )$ 表示变量Y的信息增益。
+
+在信息系统中，经常使用信息增益来衡量某个特征对信息系统分类的贡献，以降低样例中噪声的敏感度。但由于信息增益存在偏好选择分支较多的特征，导致过拟合的发生。因此，在使用时经常引入惩罚因子，以对分支较多的特征进行惩罚，即信息增益率（Gain Ratio,GR）。
+
+$$
+\begin{array} { r } { G R ( X | Y ) = \frac { I G ( X | Y ) } { H ( Y ) } } \end{array}
+$$
+
+由式（4）可以看出，随机变量Y的信息增益率与其信息增益成正比，与其信息熵成反比。因此，当随机变量Y取值较多时，$G R ( X | Y )$ 会随着 $H ( Y )$ 的增大而减小，在一定程度上降低了选择偏好的发生。
+
+# 1.2随机森林与重要度测评
+
+随机森林（randomforest,RF）是一种集成学习算法，它使用随机重采样技术和节点随机分裂技术构建多棵决策树，并根据投票机制产生最后的结果。由于RF对于噪声数据和存在缺失值的数据具有很好的鲁棒性，并且具有较快的学习速度，其变量重要性度量可以作为高维数据的特征选择工具，所以近年来已经被广泛应用于各种分类、预测、特征选择以及异常点检测问题中[21,22]。
+
+基于随机森林的重要度测评，是通过袋外数据（outofbag,OOB）检测和添加随机噪声的操作来判断特征属性对输出变量的影响，影响越大，则说明该特征越重要[23\~25]。
+
+主要步骤如下：
+
+设随机森林包括M棵分类回归树。为测度第j个特征属性对输出变量的重要性，对随机森林中的每棵分类树进行处理。对第 $i ( \mathrm { i } = 1 , 2 , \dots , M )$ 棵分类回归树：
+
+a)计算第i棵分类回归树基于袋外观测的预测误差率，记为 $e _ { i }$ 。
+
+b）随机打乱袋外观测在第i个特征属性上的取值顺序，重新建立第i棵分类回归树并袋外观测进行预测。
+
+c)重新计算第i棵分类回归树的预测误差,记为 $e _ { i } ^ { j } \circ \varepsilon _ { i } ^ { j } = e _ { i } -$ $e _ { i } ^ { j }$ 为第 $j$ 个特征属性添加噪声导致的第i棵分类回归树预测误差 的变化。
+
+重复上述步骤，最终得到 $M$ 个预测误差的变化。 $\varepsilon ^ { j } =$ $\begin{array} { r } { \frac { 1 } { M } \sum _ { i = 1 } ^ { m } \varepsilon _ { i } ^ { j } } \end{array}$ 即为第j个输人变量加噪声导致的随机森林总体预测误差的平均变化,它测度了第 $j$ 个输人变量的重要性。
+
+# 2 钓鱼网站检测模型
+
+# 2.1FSIGR 特征选择方法
+
+特征选择是指在保证特征集合分类性能的前提下，从一组原始特征集合中选出具有代表性的特征子集，以达到降低特征空间维数的过程[26]。根据是否依赖机器学习算法，特征选择算法可以分为过滤式（filter）和封装式（wrapper）两种。过滤式特征选择算法利用数据的内在特性对选取的特征子集进行评价和选择，独立于机器学习算法，该类算法通常运行效率较高，但分类性能较差；而封装式特征选择算法则依赖于机器学习算法的分类精度作为特征子集选择的评价准则，该类算法选择的特征集合分类性能较优，但效率较低。以信息增益率和重要度测评为基础，综合过滤式和封装式特征选择算法的优点，本文提出FSIGR特征选择算法。
+
+FSIGR算法包括过滤和封装两个阶段，关键步骤如下：
+
+a）过滤无关特征并对相关特征进行综合度量。
+
+首先计算每个特征关于类别特征的GR，若其 $\scriptstyle \mathrm { G R = 0 }$ ，则表示该特征和类别特征不相关，并从特征集合中删除该特征。对剩余特征子集中的每个特征计算综合度量值。
+
+设数据集为D，特征属性集为F $\mathbf { \dot { \theta } } = \{ f _ { i } | i = 1 , \dots , v \}$ ，首先对数据集中的特征分别使用GR和RF两种方法计算特征的信息相关性和分类能力，然后对计算结果分别进行标准化处理。具体公式如下：
+
+$$
+\begin{array} { r } { \widetilde { m } _ { i } = \frac { m _ { i } } { \sum _ { i = 1 } ^ { v } \mathbf { m } _ { i } } } \end{array}
+$$
+
+$$
+\begin{array} { r } { \widetilde { g } _ { l } = \frac { g _ { i } } { \sum _ { i = 1 } ^ { v } \mathbf { g } _ { i } } } \end{array}
+$$
+
+其中： ${ \bf m } _ { i }$ 和 $\mathbf { g } _ { i }$ 分别表示RF 和GR 算法对特征 $f _ { i } ( i = 1 , \ldots , v )$ 的权重； $\widetilde { m } _ { i }$ 和 $\widetilde { g } _ { \iota }$ 则分别表示其标准化后的值。并映射成权重向量$\overrightarrow { c _ { \imath } } = ( \widetilde { m } _ { i } , \widetilde { g _ { \imath } } )$ ，其中 $\widetilde { \ b { m } } _ { i }$ 和 $\widetilde { g } _ { \iota }$ 表示向量 $\cdot { \overrightarrow { c _ { \imath } } }$ 的坐标值。向量 $\overrightarrow { c _ { \imath } }$ 的长度则表示特征fi的重要度。
+
+计算特征 $\mathbf { f } _ { i }$ 的综合评估值 $c _ { i }$
+
+$$
+c _ { i } = \sqrt { \widetilde { m } _ { i } ^ { ~ 2 } + \widetilde { g } _ { \iota } ^ { ~ 2 } }
+$$
+
+式（7）中，通过将 $\widetilde { \ b { m } } _ { i }$ 和 $\widetilde { g } _ { \iota }$ 的值进行向量化并求出 $c _ { i }$ 的值对特征 $f _ { i }$ 进行综合度量，既考虑了特征 $f _ { i }$ 与类别特征之间相关性，又考虑到了特征fi的分类能力，增强了对特征的度量，降低了特征的波动性。从而选择出最大相关和最大分类能力的特征。与文献[19]中的IG相比，本文使用GR计算特征的信息相关性降低了IG 的选择偏好问题；与文献[23]中 $\mathrm { { M D A + M D G } }$ 的方法相比，本文从特征信息相关性和分类能力两种不同的维度对特征进行度量，并使用向量化映射关系求解特征综合度量值 $c _ { i }$ ，降低了特征的波动性。
+
+b）采用前向递增后向递归剔除的策略进行特征选择。
+
+根据 $c _ { i }$ 对特征进行降序排序，使用前向递增策略遍历特征空间，每次增加一个特征得到相应的特征集合 $\mathrm { F } _ { 1 } , \mathrm { F } _ { 2 } , \ldots , \mathrm { F } _ { v }$ （v表示特征子集的大小)，并使用分类器对该特征集合进行评估,记为 $a _ { i }$ 。若 $a _ { i } < a _ { i - 1 }$ ，则从集合F中删除fi元素，直至循环结束。
+
+该选择策略的优点是：在综合评估的基础上，使用分类精度来再次评估每个特征对整体的分类贡献，可以在不牺牲算法精度的情况下降低特征的波动性，并删除重要度较小的冗余属性。每次删除特征元素后，都会重新遍历特征集合，以产生新的特征组合，扩大特征子集搜索空间的覆盖范围，从而选出最小冗余、性能最优的特征集合。
+
+与前向、后向搜索策略相比，本文搜索策略在排序的基础上以特征子集的整体分类性能为评价指标，递归剔除冗余且 $c _ { i }$ 最小的特征，可以在不牺牲算法精度的情况下降低特征的波动性。与文献[19,23]中的过滤式方法相比，本文采用过滤 $^ +$ 封装的模式，提高了特征子集的分类性能。
+
+FSIGR算法描述如下：输入：数据集 $\pmb { D }$ ，特征集合 $\langle F { = } \{ f _ { i } | i = 1 \ldots v \}$ . $\mathtt { a } _ { m a x } = 0$ ， $F _ { b e s t } = \varnothing$ ：过程：分别计算特征 $f _ { i }$ 关于类别特征的GR 值 $g _ { i }$ ，若 $g _ { i } = 0$ ，则删除特征 $f _ { i }$ $F = F - \{ f _ { i } \}$ 使用随机森林计算特征fi重要度值，并记为 $m _ { i }$ 运用式（5）（6）分别对 $\cdot _ { m _ { i } }$ ， $g _ { i }$ 进行标准化，得到 $\widetilde { m _ { \iota } }$ ， $\widetilde { g } _ { \iota }$ 根据式（7）计算特征 $f _ { i }$ 的综合评估值 $c _ { i }$ 根据特征 $f _ { i }$ 的综合测评度 $c _ { i }$ ，对特征进行降序排序；
+
+# Repeat
+
+使用分类器进行评估，对排序后的特征子集采用前项选择策略遍历特征空间，分别计算分类器在该特征子集 ${ \mathbf { \nabla } } _ { \cdot } F _ { i }$ 上的精确度 $\cdot a _ { i }$ ，其中i表示特征子集中元素的个数；flag $\mathbf { \Sigma } = \mathbf { \Sigma }$ falsefor $a _ { i }$ （ $i = 1 \ldots v$ doif $a _ { i } < a _ { i - 1 }$ then$\mathrm { f l a g = t r u e }$ 从集合 $\mathrm { ~ F ~ }$ 中删除特征 $f _ { i }$ ，并记录删除特征fi后分类器的精度为atemp;if $\mathsf { a } _ { m a x } < a _ { t e m p }$ then$\mathsf { a } _ { m a x } = a _ { t e m p } , \ F _ { b e s t } = F$ end ifbreakend ifend foruntil flag $\scriptstyle = =$ false 达到终止条件
+
+输出：最优特征子集Fbest·
+
+# 2.2FSIGR算法复杂度分析
+
+算法的时间开销主要两个部分：
+
+a)过滤阶段。根据每个特征的信息相关性对特征进行过滤，并结合特征的分类能力对特征进行综合度量。
+
+b)封装阶段。根据特征的综合度量对特征进行排序，采用前向递增后向递归剔除搜索策略选择特征子集，并使用分类器
+
+对特征子集进行评估。
+
+算法时间开销主要体现在封装阶段。根据文献[22]可知，若训练数据集的特征维数为 $\cdot _ { m }$ ，训练样本个数为 $n$ ，假设随机森林中基分类器的个数为 $k$ ，则随机森林算法的时间复杂度近似为$O ( k m n ( l o g n ) ^ { 2 } )$ ，快速排序平均时间复杂度为 $0 ( m ( l o g m ) )$ L。
+
+因此，在本文算法中过滤阶段时间复杂度为 $0 ( m +$ $k m n ( l o g n ) ^ { 2 } \rangle$ ，封装阶段外层循环最多运行 $m$ 次，每次循环采用前向增加策略进行特征选择时分别进行 $( m , \ m - 1 , \ m -$ $^ { 2 , \ldots , 1 ) }$ 次，采用后向递归剔除策略时，平均运行 $m / 2$ 次，最多运行 $m - 1$ 次。因此，FSIGR算法最大时间复杂度可以近似表示为
+
+$$
+0 ( m + ~ k m n ( l o g n ) ^ { 2 } ) ~ + 0 { \bigl ( } m ( \log m ) { \bigr ) }
+$$
+
+$$
++ 0 \big ( m + 1 / 2 * m ( m - 1 ) \big ) + { \cal O } ( m - 1 )
+$$
+
+$$
+= ~ 0 ( m ( 1 / 2 * ( m + 5 ) + k n ( l o g n ) ^ { 2 } + l o g m )
+$$
+
+$$
+T ( n ) = { 0 } ( m ^ { 2 } )
+$$
+
+由于本文算法在运行过程中临时占用存储空间大小与特征个数成线性正比关系，所以空间复杂度可以表示为
+
+$$
+S ( n ) = 0 ( m )
+$$
+
+由式(9)和(10)可以看出，FSIGR算法的最大时间复杂度与特征维数近似平方，空间复杂度与特征维数成线性关系，因此，FSIGR算法对高维数据具有较好的处理能力，且具有很好的扩展性。
+
+# 2.3钓鱼网站检测模型
+
+图1为本文钓鱼网站检测模型。其主要包含三个部分：
+
+a)特征提取。对网页内容进行解析，并提取相关特征；（本文实验部分数据集)。b）特征选择。采用本文FSIGR特征选择算法从单个特征和特征子集两个方面对特征进行评估和选择，从而选择出相关性高，冗余度低的最优特征子集。c）分类决策模型。使用RF集成学习算法构建分类决策模型，有效提高钓鱼网站检测模型的分类精度。
+
+该模型的主要执行流程如下：首先从HTML标签、URL地址、编码、页面图片等方面对网页进行特征提取，并转换成训练和预测数据；然后对提取后的特征数据使用FSIGR算法进行特征选择，并找出最优特征子集；最后基于选择后的最优特征子集数据对RF分类决策模型进行训练与结果预测。
+
+![](images/a80fed7818b96ecbad8a275c29e2584bb9434410f2e1e07fafd745ee1687aa4e.jpg)  
+图1钓鱼网站检测模型
+
+# 3 实验及结果分析
+
+# 3.1实验数据
+
+本文使用UCI数据库中phishing数据集[27]进行实验。该数据集共包括11055个网站实例，其中4898个（ $44 \%$ ）被标记为钓鱼网页，用-1表示；6157个（ $56 \%$ ）被标记为合法网页，用1表示。每个实例共包含30个特征，分别基于地址栏、反常标志、HTML 和 Javascript 以及域名进行提取。特征的取值是为二元（-1，1）或三元（0，1，-1）关系，更多详细信息见文献[27]。
+
+# 3.2实验说明
+
+为了充分验证本文钓鱼网站检测方法的有效性，实验由两部分组成。
+
+实验1：验证FSIGR算法的有效性
+
+本实验中选用 CFS（correlation-based feature selection）、WFS（wrapperfeature selection）算法以及文献[19]中的算法与FSIGR算法进行实验对比。使用RF集成学习分类算法对不同特征选择算法的实验结果进行验证，并采用10折交叉验证的方法计算分类模型的分类精度。对比、分析实验结果，验证本文特征选择方法的有效性。
+
+实验2：验证本文钓鱼检测方法的有效性
+
+在phishing数据集上首先使用FSIGR特征选择算法选出最优特征子集（以相应的分类算法作为特征子集的评估器)，然后分别使用C4.5、KNN、NaiveBayes、REPTree和RF算法进行分类模型训练，并采用10折交叉的方法计算分类模型的精度。对比实验结果，验证本文钓鱼检测方法的有效性。
+
+实验软硬件环境如下：操作系统为Windows10，CPU为Intel?CoreTM i5-6300HQ $\textcircled { a } 2 . 3 \mathrm { G H z }$ ，实验内存为8GB，主要实验平台为WEKA，语言为Java。
+
+# 3.3 评判指标
+
+一般采用精确度和召回率两个指标对分类算法性能进行评判。
+
+1）精确度（accuracy)：又叫查准率，计算公式为
+
+$$
+\begin{array} { r } { a c c u r a c y = \frac { T P + T N } { T P + T N + F P + F N } } \end{array}
+$$
+
+2）召回率(recall)：又叫查全率，计算公式为
+
+$$
+\begin{array} { r } { r e c a l l = \frac { T P } { T P + F N } } \end{array}
+$$
+
+其中：TP（true positive）为被正确分类为正例的样本数；FP（falsepositive）为被错误分类为正例的样本数；TN（true negative）为被正确分类为反例的样本数；FN（falsenegative）为被错误分类为反例的样本数。
+
+# 3.4结果分析
+
+实验中，CFS 和WFS 算法分别采用BF(best first)和GS(greedy stepwise)两种搜索算法对特征进行选择；FSIGR算法则采用前向递增后向递归剔除策略对特征进行选择。具体实验结果如下：
+
+表2中列出了在phishing 数据集上使用不同特征选择算法进行特征选择，并使用RF集成学习分类算法对特征子集进行训练，10折交叉验证的实验结果。其中，根据文献[19]以阈值0.01对GR和RF重要度排序后的特征进行选择，SF表示特征的个数，Acc表示分类精度，M-error表示平均绝对误差。AUC表示ROC曲线的面积。
+
+表2基于不同特征选择算法构建RF分类预测模型实验结果 $\%$   
+
+<html><body><table><tr><td>特征选择算法</td><td>SF</td><td>Acc</td><td>recall</td><td>M-error</td><td>AUC</td></tr><tr><td>GR</td><td>11</td><td>95.215±3.448</td><td>95.2</td><td>6.50</td><td>99.1</td></tr><tr><td>RF</td><td>13</td><td>96.002±2.769</td><td>96.0</td><td>5.44</td><td>99.3</td></tr><tr><td>WFS(BF)</td><td>28</td><td>97.205±2.056</td><td>97.2</td><td>5.01</td><td>99.6</td></tr><tr><td>WFS(GS)</td><td>29</td><td>97.286±2.048</td><td>97.3</td><td>5.09</td><td>99.6</td></tr><tr><td>CFS(BF/GS)</td><td>9</td><td>94.772±3.873</td><td>94.8</td><td>7.46</td><td>98.8</td></tr><tr><td>文献[21]算法</td><td>17</td><td>96.834±2.292</td><td>96.8</td><td>4.87</td><td>99.5</td></tr><tr><td>FSIGR</td><td>23</td><td>97.341±2.053</td><td>97.3</td><td>4.80</td><td>99.6</td></tr></table></body></html>
+
+注：表中±前面和后面的数据分别表示10次测试结果的平均分类精度和方差。
+
+由表2可以看出，本文FSIGR特征选择方法分类精度为$9 7 . 3 4 1 \%$ ，召回率为 $9 7 . 3 \%$ ，平均绝对误差为0.048，均优于其他特征选择方法。其中，文献[21]算法的分类精度为 $9 6 . 8 3 4 \%$ 召回率为 $9 6 . 8 \%$ ，平均绝对误差为0.0487，分类模型性能明显低于FSIGR方法的分类模型。CFS、GR和RF特征选择方法在特征降维方面表现较优，选择后的特征子集大小分别为9、11和13，但分类精度较低。WFS特征选择方法两种搜索策略选择的特征子集大小分别为28和29，在特征降维方面性能低于其他方法，分类精度分别为 $9 7 . 2 0 5 \%$ 和 $9 7 . 2 8 6 \%$ ，优于CFS等方法，但与本文方法相比综合性能较差且时间代价较大。实验结果表明，本文FSIGR特征选择方法能够选出特征维度较低，分类性能最优的特征子集，满足实际应用需求，证明了其方法的有效性。
+
+表3中列出了在phishing数据集上基于FSIGR特征选择方法使用不同分类算法与本文方法实验结果对比。实验结果均采用10折交叉验证产生。
+
+表3不同分类算法基于FSIGR 特征选择算法  
+
+<html><body><table><tr><td colspan="6">构建分类预测模型实验结果/%</td></tr><tr><td>分类算法</td><td>SF</td><td>Acc</td><td>recall</td><td>M-error</td><td>AUC</td></tr><tr><td>C4.5</td><td>25</td><td>96.056±3.312</td><td>96.1</td><td>5.68</td><td>98.5</td></tr><tr><td>KNN</td><td>25</td><td>97.205 ±2.091</td><td>97.2</td><td>3.28</td><td>99.0</td></tr><tr><td>REP Tree</td><td>28</td><td>95.432±3.602</td><td>95.4</td><td>6.39</td><td>98.5</td></tr><tr><td>Naive Bayes</td><td>28</td><td>92.999±5.308</td><td>93.0</td><td>8.94</td><td>98.1</td></tr><tr><td>RF</td><td>23</td><td>97.341±2.053</td><td>97.3</td><td>4.80</td><td>99.6</td></tr></table></body></html>
+
+注：表中±前面和后面的数据分别表示10次测试结果的平均分类精度和方差。
+
+由表3可知，本文方法的分类精度为 $9 7 . 3 4 1 \%$ ，分类召回率为 $9 7 . 3 \%$ ，平均绝对误差为0.048，特征子集维数为23，综合分类性能明显优于C4.5、REPTree和NaiveBayes 算法。与KNN算法相比，虽然平均绝对误差高于KNN的0.328，但其综合性能优于KNN 算法。由实验结果可知，本文提出的钓鱼网站检测方法分类性能明显优于C4.5、KNN、REPTree、NaiveBayes算法的分类性能，验证了本文方法的有效性。
+
+受试者工作特征(receiver operatingcharacteristic,ROC)曲线体现了综合考虑分类模型在不同任务下的泛化性能，ROC曲线下的面积，即AUC（areaunderROCcurve）越大，则表示该分类模型的泛化能力越强。由表2可以看出，在同种分类器下本文提出的FSIGR 算法的AUC值为0.996，优于其他特征选择算法，证明了本文FSIGR算法的适用性。由表3可以看出，在同种特征选择算法下，RF分类模型的AUC值为0.996，优于其他分类模型，证明了RF集成学习模型具有较强的容错性。因此，本文提出的钓鱼网站检测模型具有较强的泛化能力。
+
+![](images/7ad3079013a7066b11abd9fe0f533ec6c235095da1566631e38a727e663d4848.jpg)  
+图2基于FSIGR算法RF分类决策模型ROC曲线图
+
+图3、4中描述了C4.5算法在phishing 数据集和最优特征子集上不同特征维度的分类精度变化折线图。图3中，蓝色三角代表特征子集中加入当前特征后分类精度不变，红色三角代表特征子集中加入当前特征后分类精度下降（见电子版)。图5中描述了RF集成学习算法在最优特征子集上不同特征维度的分类精度变化折线图。
+
+![](images/fca27d36457de1ea6025ffd844f03c4a0ae0fb1693524b639e1195745a414c52.jpg)  
+图3在phishing数据集上不同特征维度C4.5分类精度变化折线图
+
+![](images/51762ff5a159a48f4d1db0795100e01d14e39d4e2c945385cb36ec7ab00fcabc.jpg)  
+图4在FSIGR选择的最优特征子集上不同特征维度C4.5分类精度折线图
+
+![](images/fff1c7e9f333766373c3981be23cc9de77081fe7b70e2ed010dd7a214c83b46d.jpg)  
+图5在FSIGR选择的最优特征子集上不同特征维度RF分类精度折线图
+
+由图3、4对比可以看出，在原始数据中随着特征个数的增加会出现分类精度不变（图3中的特征18）甚至下降（图3中的特征2、21、22、23、28和30）的情况。而在图4中，随着特征维数的增加分类精度则不断提高，且最大分类精度为$9 6 . 0 5 6 \%$ ，特征维度为25，优于原数据集的 $9 5 . 9 2 0 \%$ 和30。时间开销从0.17s降低到0.1s。这是因为在原数据集中存在部分无关特征和冗余特征，导致了分类器分类性能的下降，使用
+
+FSIGR方法能够从信息相关性和分类能力两个方面对特征进行综合度量，从而选出相关性强、冗余度低的最优特征子集，提高了分类器的分类精度。本实验证明了FSIGR特征算法能有效降低特征子集的维度选出关键特征，从而提高分类模型的准确率。
+
+由图4、5可以看出，RF集成学习算法分类精度为 $9 7 . 3 4 1 \%$ ，特征维度为23明显优于C4.5单分类器的 $9 6 . 0 5 6 \%$ 和25。这是因为集成学习算法能够通过综合不同基分类器模型的分类结果增强集成学习算法的容错性和泛化能力，从而达到提高分类精度，分类召回率降低分类误差的目的。本文实验证通过明了集成学习算法对钓鱼网站检测的有效性，从而证明力本文钓鱼网站检测方法的有效性。
+
+# 4 结束语
+
+本文提出来了一种基于特征选择和集成学习的钓鱼网站检测方法。该方法首先运用FSIGR算法选择出相关性强、冗余度低的最优特征子集，然后使用最优特征子集数据集基于RF 集成学习分类算法进行分类模型训练来提高分类预测模型的准确率。通过FSIGR 算法和CFS、WFS以及文献[19]算法在 phishing数据集上的实验结果表明FSIGR 算法在特征降维和提高分类精度方面均有很好的表现，证明了FSIGR算法的有效性。通过对FSIGR算法进行时间复杂都分析发现，FSIGR算法对高维数据有较好的处理能力，具有较好的扩展性。通过RF集成学习算法和C4.5、KNN、REPTree以及NaiveBayes 算法在 phishing数据集上的实验表明RF集成学习算法分能性能明显优于其他单分类器模型，具有分类准确率高、分类误差率低和召回率高等优点。基于以上叙述，证明了本文钓鱼网站检测方法的有效性和实际应用性。
+
+利用关联信息熵对组合特征相关性进行排序，选择最优特征子集，构建钓鱼网站的检测模型，提高模型预测的准确率是笔者下一步工作的重点。
+
+# 参考文献：
+
+[1]Almomani A,Gupta B B,Atawneh S,et al.A survey of phishing email filtering techniques [J].IEEE Communications Surveys& Tutorials,2013, 15 (4): 2070-2090.   
+[2]Mishra A,Gupta B B.Hybrid solution to detect and filter zero-day phishing attacks [C]//Proc ofthe 2nd International Conference on Emerging Research in Computing,Information, Communication and Applications.2014:373- 379.   
+[3]Anti-Phishing Working Group.Phishing activity trends report of 4th quarter of 2016 [R].2016.   
+[4]Sheng S,Holbrook M,Kumaraguru P,et al.Who falls for phish?:a demographic analysis of phishing susceptibility and effectiveness of interventions [C]// Proc of Sigchi Conference on Human Factors in Computing Systems.2010:373-382.   
+[5]Arachchilage N A G,Love S.A game design framework for avoiding phishing attacks [J].Computers in Human Behavior,2013,29 (3): 706-714.   
+[6]Zhuang W, Jiang Q. Intelligent anti-phishing framework using multiple classifiers combination [J]. Journal of Computational Information Systems, 2012,8 (17): 7267-7281.   
+[7]Zhang J,Porras P, Ulrich J. Highly predictive blacklisting [C]// Proc of Conference on Security Symposium.USENIX Association.20o8:107-122.   
+[8]Sharifi M, Siadati S H.A phishing sites blacklist generator [C]// Proc of IEEE//ACS International Conference on ComputerSystemsand Applications.2008: 840-843.   
+[9] Zhang Y, Hong J I, Cranor L F. CANTINA: a content-based approach to detecting phishing web sites [C]// Proc of International Conference on World Wide Web.2007: 639-648.   
+[10] Xiang G,Hong J,Rose C P,et al. CANTINA+:a feature-rich machine learning framework for detecting phishing web sites [J].ACM Trans on Information & System Security,2011,14 (2): 21   
+[11]庄蔚蔚，叶艳芳，李涛，等．基于分类集成的钓鱼网站智能检测系统 [J]．系统工程理论与实践,2011,31(10):2008-2020.   
+[12]何高辉，邹福泰，谭大礼，等．基于 SVM 主动学习算法的网络钓鱼检 测系统[J].计算机工程,2011,37(19):126-128.   
+[13] Sahu K K. Shrivastava S. Kernel K-means clustering for phishing website and malware categorization [J].International Journal of Computer Applications,2015,111 (9):20-25.   
+[14] Lakshmi V S, Vijaya M S.Eficient prediction of phishing websites using supervised learning algorithms [J].Procedia Engineering,2012,30(9): 798- 805.   
+[15]Pan Y,Ding X.Anomaly based Web phishing page detection [C]//Proc of the 22nd Computer Security Applications Conference.2006:381-392.   
+[16] Basnet R B, Sung A H,Liu Q.Rule-based phishing attack detection [C]// Proc of International Conference on Security and Management. 2011.   
+[17] Zuhair H, Selmat A, Salleh M. The effect of feature selection on phish website detection [J]. International Journal of Advanced Computer Science & Applications,2015,6(10): 221-232.   
+[18] Zhang W,Ren H, Jiang Q.Application of feature engineering for phishing detection [J].IEICE Trans on Information & Systems,2016,99 (4):1062- 1070.   
+[19]Rajab KD.New hybrid features selection method: a case study on websites phishing [J]. Security & Communication Networks,2017,2017(2): 1-10.   
+[20] Basnet R B,Sung A H, Liu Q. Feature selection for improved phishing detection [C]// Proc of the 25th International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems.2012, 7345: 252-261.   
+[21] Hideko K,Hiroaki Y.Rapid feature selection based on random forests for high-dimensional data [J]. Ipsj Sig Notes,2012,2012:1-7.   
+[22]姚登举，杨静，詹晓娟．基于随机森林的特征选择算法[J]．吉林大学 学报：工学版,2014,44(1):137-141.   
+[23] Han H, Guo X,Yu H. Variable selection using mean decrease accuracy and mean decrease gini based on random forest [C]//Proc of IEEE Internatinal Conference on Software Engineering and Service Science.2017: 219-224.   
+[24] Wang H,Lin C,Peng Y,et al.Application of improved random forest variables importance measure to traditional Chinese chronic gastritis diagnosis [C]//Proc of IEEE International Symposium on It in Medicine and Education. 2008:84-89.   
+[25] Nicodemus K K.Letter to the editor:on the stability and ranking of predictors from random forest variable importance measures [J]. Briefings in Bioinformatics,2011,12 (4): 369-373.   
+[26] Guyon,Isabelle,Elisseeff, et al.An introduction to variable and feature selection [J].Journal of Machine Learning Research,20o3,3(6): 1157-1182.   
+[27] Mohammad R M, Thabtah F,McCluskey L.Phishing websites features [EB/OL]. (2015) http://eprints. hud. ac. uk/24330/6/RamiPhishing_Websites_Features.pdf.

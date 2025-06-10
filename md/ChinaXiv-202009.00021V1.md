@@ -1,0 +1,142 @@
+# 物质成瘾领域延迟折扣研究中的外部效度问题
+
+杨玲 刘文鑫 张炀 张建勋 牛禄霖（甘肃省行为与心理健康重点实验室；西北师范大学心理学院物质成瘾与康复研究所，兰州，730070)
+
+摘要物质成瘾者的跨期决策缺陷已被大量使用金钱延迟折扣任务的研究所证实。然而近年来，来自金钱延迟折扣任务变式(成瘾物质延迟折扣任务、性延迟折扣任务和跨类别延迟折扣任务)的发现表明，在物质成瘾领域的延迟折扣研究中单一使用金钱延迟折扣任务存在一定的局限性。首先，物质成瘾者对金钱的延迟折扣水平可能并不能完全代表其对成瘾物质、性和其它自然奖赏的延迟折扣水平；其次，仅使用单一延迟折扣任务可能存在对物质成瘾者跨期决策过程的过度简化；最后，金钱延迟折扣任务较其变式对物质成瘾者的一些临床特征不够敏感。未来研究应进一步丰富、拓展物质成瘾领域的跨类别延迟折扣研究，并对可能影响跨期决策的时间因素进行深入探索。
+
+关键词 物质成瘾；延迟折扣；跨期决策；外部效度
+
+# 1引言
+
+延迟折扣(delay discounting)是行为经济学(behavioral economics)中的经典概念，它指的是当个体在低额度的即时奖赏与高额度的延迟奖赏之间做出跨期决策时，延迟奖赏的主观价值会随着延迟时间的增长而出现衰减的一种现象(Bickel,Johnson etal.,2014；Bickel,Koffarnus etal.,2014)。奖赏的主观价值与延迟时间之间的函数关系符合双曲线(Mazur,1987)或类双曲线模型(佟月华，韩颖,2011;Myerson＆Green,1995)，越陡峭的曲线代表着越高的延迟折扣水平，反映了个体对延迟奖赏的主观价值存在更大程度的贬值。由于物质成瘾者通常存在一种短视(myopia)倾向，即表现出对即时奖赏的偏好(如使用毒品所带来的即时快感，使用药物迅速消除戒断症状等)和对延迟奖赏的不敏感(如健康的生活方式带来的收益、稳定的工作与收入、良好的人际关系等)，越来越多的研究者开始将延迟折扣这一视角引入到对物质成瘾问题的研究当中，试图借此来理解物质成瘾者在跨期决策中表现出的异常行为(Bickel & Marsch, 2001; Heinz et al., 2012)。
+
+以往对物质成瘾者跨期决策的研究多采用金钱延迟折扣任务(monetary delay discountingtask,MDDT)或其自评问卷形式——金钱选择问卷(monetary choice questionnaire,MCQ)(MDDT与MCQ的具体内容及计算方式可参考Koffarmus和Kaplan(2018)的综述)。一项关于成瘾领域MDDT及MCQ研究的元分析发现，物质成瘾者的延迟折扣水平显著高于健康对照组，并且这一结果在不同成瘾物质类型(如香烟、酒精、阿片、可卡因等)的研究之间表现出了一致性(Amlung etal.,2017)。然而近年来物质成瘾领域中一些来自MDDT变式的研究结果却表明，MDDT及MCQ在该领域的研究中可能存在一定的局限性，这些局限性主要集中在实验室研究的外部效度问题上。其一，物质成瘾者对金钱的延迟折扣水平与其对成瘾物质(Giordano etal.,2002)、性(Jarmolowicz et al.,2013)、健康(Friedel et al.,2016)和自由(Petry,2003)等非金钱奖赏的延迟折扣水平之间存在显著差异，这提示我们物质成瘾者在金钱延迟折扣任务上的表现可能无法代表其对其它奖赏(尤其是对成瘾物质)的延迟折扣水平；其二，即时选项与延迟选项均相同的MDDT以及成瘾物质延迟折扣任务均忽略了物质成瘾者真实生活中决策过程的复杂性，而在原有MDDT的基础上加入对不同种类奖赏的选择(使物质成瘾者面对的即时选项与延迟选项种类不同)可以更加全面、细致地反映出物质成瘾者跨期决策的特点(Bickeletal.,2011;Moody et al.,2017)。MDDT的上述两个局限性理应受到研究者的重视。目前，延迟折扣任务已被应用到对物质成瘾者跨期决策能力的恢复(Lietal.,2013)、干预(Bickel,Landes etal.,2014)以及复吸预测(McCarthy et al.,2016)的研究之中。然而已有证据表明MDDT对物质成瘾者的一些临床特征并不如它的某些变式敏感(Johnson& Bruner,2012;Moodyetal.,2017)。那么我们不得不思考一个问题：单一使用MDDT是否能够对物质成瘾者的跨期决策能力(尤其是与成瘾物质使用相关的跨期决策能力)及其动态变化进行有效地描述和探测？
+
+基于对成瘾领域延迟折扣研究外部效度的考虑，本文通过将MDDT与其近年来在物质成瘾领域内主要变式——成瘾物质延迟折扣任务、性延迟折扣任务(sexualdiscounting task, SDT)和跨类别延迟折扣(cross-commodity delay discounting,CCD)任务———的研究结果进行比较，提出延迟折扣存在领域特殊性以及单一延迟折扣任务存在对物质成瘾者跨期决策过程的过度简化两个问题，并对表明MDDT由于自身局限性而对物质成瘾者一些临床特征不敏感的研究证据进行了回顾。在回顾中，本文以成瘾物质、性等非金钱奖赏与金钱奖赏对物质成瘾者不同的心理意义为视角，对不同延迟折扣任务结果之间的差异进行了分析。最后，本文也对成瘾领域延迟折扣的未来研究方向进行了展望。
+
+# 2物质成瘾研究中延迟折扣的领域特殊性问题
+
+大量物质成瘾领域的延迟折扣研究均采用MDDT(Bickel,Landes etal.,2014;Li et al.,2013)或其问卷形式MCQ(Karakula etal.,2016)作为研究工具，这固然是因为金钱延迟折扣任务及其问卷具有操作上的便利性。然而随着成瘾领域延迟折扣研究的不断深入，一些研究者出于对物质成瘾领域特殊性的考虑，在以物质成瘾者为被试的研究中引入了成瘾物质延迟折扣任务。成瘾物质延迟折扣任务对原有的MDDT进行了修改，用香烟(Bickeletal.,1999)、酒精(Petry,2001)、海洛因(Madden et al.,1997)、可卡因(Coffey et al.,2003)、大麻(Johnson et al.,2010)等虚拟成瘾物质奖赏替换了虚拟金钱奖赏，被试需要在即时与延迟的成瘾物质奖赏之间做出跨期决策(如即时的海洛因奖赏VS.延迟的海洛因奖赏)。研究者通过主观等值(由每个被试自行评估成瘾物质与一定额度金钱等值的数量)(Giordano et al.,2002)或客观等值(由研究者根据市价对与一定额度金钱等值的成瘾物质数量进行估计)(Madden et al.,1997)的方式，使成瘾物质延迟折扣任务中的延迟奖赏与MDDT中的金钱奖赏在价值上保持相等，以便进一步考察物质成瘾者对成瘾物质与对金钱的延迟折扣中可能存在的差异。
+
+对不同类型物质成瘾者的研究一致发现，物质成瘾者对相应成瘾物质的延迟折扣水平显著高于其对金钱的延迟折扣水平(张锋 等，2009;Bickel et al.，1999;Coffeyet al.,2003;Giordano et al.,2002; Johnson et al.,2010; Johnson et al.,2007; Johnson et al.,2015; Madden etal.,1997;Petry,2001)，而这种差异可能并不是物质滥用导致的结果。Weatherly等人(2010)考察了健康大学生对金钱与香烟的延迟折扣发现，这些健康被试对香烟的延迟折扣水平同样显著高于对金钱的延迟折扣水平。在Odum和Rainaud(2003)的研究中，无物质滥用史的健康被试对酒精及食物的延迟折扣水平显著高于其对相同价值金钱的延迟折扣水平。有趣的是，这些被试对酒精及食物的延迟折扣水平并不存在显著差异。有必要指出，尽管在Johnson等人(2010)的研究中发现了大麻成瘾者对大麻的延迟折扣水平显著高于其对金钱的延迟折扣水平，然而当研究者将成瘾者的大麻使用频率作为协变量再次进行分析之后，大麻成瘾者对大麻的延迟折扣水平与其对金钱的延迟折扣水平之间的差异消失了。上述研究结果提示我们，物质成瘾者在成瘾物质延迟折扣任务与MDDT之间表现出的差异可能源于成瘾物质具有“可消耗性"的特点(Johnson et al.,2010; Johnson et al.,2015; Odum& Rainaud,2003)。而金钱作为一种用于交易的一般等价物，并不存在随时间推移而发生腐烂、变质等问题。同时，就物质成瘾行为而言,成瘾物质是初级强化物，而金钱是次级强化物(张锋 等,2009;Odum etal.,2020;Odum&Rainaud,2003)。金钱相比成瘾物质具有更高的可交易性(可用于购买包括成瘾物质在内的其它物品)，因而也更易在延迟后保持价值(Holt et al.,2016)。物质成瘾者可能并非直接需要金钱奖赏，而是期望用金钱奖赏来间接地换取相应数量的成瘾物质。由此可见，金钱奖赏与成瘾物质奖赏对物质成瘾者而言具有完全不同的心理意义，因此直接使用物质成瘾者在MDDT中的表现来描述其跨期决策特征可能是不全面的。尽管有研究者基于一项元分析提出，不同种类的延迟折扣之间存在一定的相关性，并基于此认为延迟折扣是个体的一种普遍特质(Odum etal.,2020)。然而考虑到成瘾领域的特殊性，成瘾物质延迟折扣任务或其它MDDT的变式或许可以更好地反映物质成瘾者的跨期决策过程。已有研究者指出，被试的金钱延迟折扣水平及其数量变异范围低于其对其他奖赏(如成瘾物质)的延迟折扣水平，这有可能造成某些因素(如神经刺激)对延迟折扣的影响无法被有效检出(Steenbergen etal.,2020)。因此，我们对MDDT在物质成瘾人群研究中得出的结果进行解释时需十分谨慎，而在研究中加入成瘾物质延迟折扣任务可以提高物质成瘾者延迟折扣研究的外部效度。
+
+另一方面，物质成瘾群体除成瘾行为之外在生活中还同时面对许多其它方面的问题，危险性行为(sexual risk behavior)以及可能由其导致的HIV感染就是其中的一个典型方面(雷红涛 等,2019; Ekhtiari et al.,2017; Thamotharan et al., 2015; Villalobos-Gallegos et al., 2019)。SDT正是从跨期决策视角来研究成瘾人群危险性行为的任务，它非常适用于对成瘾者的危险性行为进行实验室研究(Leeman etal.,2019)。根据该任务，实验开始前每个被试须首先从照片库里挑选出自己的假想性交对象，实验开始后被试需要在即时的危险性行为(不使用安全套)与延迟的安全性行为(使用安全套)之间做出跨期决策(Koffarnus et al.,2016; Strickland etal.,2017)。已有来自不同类型物质成瘾者的研究发现，物质成瘾者对金钱的延迟折扣水平与其对安全性行为的延迟折扣水平相关并不显著(Herrmann et al.,2014; Johnson& Bruner,2012;Johnson &Bruner,2013; Johnson et al.,2015)。上述SDT研究结果进一步支持了延迟折扣存在领域特殊性的假设，即可能并不存在一般意义上的延迟折扣水平(Green& Myerson,2013;Jarmolowicz et al., 2013; Lawyer & Schoepflin, 2013; Meja-Cruz et al.,2016; Weatherly et al.,2010)。个体对金钱的延迟折扣与其对其他奖赏(如成瘾物质、安全性行为)的延迟折扣是相互独立的不同方面(Mahoney & Lawyer, 2018; Stoltman,2019)。
+
+# 3单一延迟折扣任务存在对物质成瘾者跨期决策过程的过度简化
+
+从延迟折扣任务中即时奖赏与延迟奖赏是否属于同一种类这一角度对其进行划分，无论是金钱延迟折扣任务、成瘾物质延迟折扣任务还是性延迟折扣任务均属于 SCD任务。按照SCD 任务模拟的决策情境，被试需要在即时与延迟条件下对同一种类奖赏(如金钱、毒品、健康及性等)做出选择(Giordano et al.,2002; Karakula et al.,2016; Madden et al.,1997)。然而物质成瘾者在真实生活中面对的不仅仅是对同一种类奖赏的跨期决策，更多时候他们需要对不同种类奖赏进行跨期决策(如使用毒品的即时奖赏VS.维持戒断而获得稳定工作和收入的延迟奖赏)。为了更好模拟上述跨期决策情境，一些研究者提出了包含不同类别奖赏组合的延迟折扣任务(如即时的海洛因奖赏VS.延迟的金钱奖赏，即时的金钱奖赏VS.延迟的海洛因奖赏)，即CCD 任务。在该任务中，非金钱奖赏(主要是成瘾物质奖赏)的相应数量主要根据每个被试对其金钱价值的主观评估进行等值换算得出(Wesley et al.,2014;Yoon et al.,2018)，这也方便了对不同延迟折扣任务之间结果的比较。通过对CCD 任务与 SCD 任务的实验室研究结果进行比较加深了我们对物质成瘾者跨期决策过程复杂性的认识。
+
+尽管已有采用 SCD任务的研究发现，相比于金钱奖赏，成瘾者对成瘾物质奖赏的延迟折扣水平更高(Giordano et al.,2002;Madden et al.,1997)，然而对比物质成瘾人群 SCD 任务与 CCD任务的研究进一步发现，在金钱作为即时奖赏VS.成瘾物质作为延迟奖赏的CCD 任务中，物质成瘾者的延迟折扣水平高于即时奖赏与延迟奖赏均为成瘾物质的 SCD 任务中的延迟折扣水平；与此同时，在成瘾物质作为即时奖赏VS.金钱作为延迟奖赏的CCD任务中，成瘾者的延迟折扣水平低于即时奖赏与延迟奖赏均为成瘾物质的 SCD 任务中的延迟折扣水平(Bickel et al.,2011;Moody etal.,2017)。从成瘾物质在跨期决策中所处位置的角度来看，物质成瘾者的延迟折扣水平总是在成瘾物质作为延迟奖赏时较成瘾物质作为即时奖赏时更高，无论另一个选项是金钱还是成瘾物质。也就是说，当成瘾物质在延迟一段时间之后才可以得到而非立即就可以得到时，物质成瘾者对成瘾物质的选择偏好减少了(Bickeletal.,2011)。该结果可能与成瘾物质具有可消耗性有关。根据 Odum 等人(2020)提出的减少未来偏好假说(decreasing future preference hypothesis)，消耗品(如毒品、香烟等成瘾物质)在未来时刻比现在时刻对个体具有更低的吸引力。当成瘾物质在延迟一段时间后才可得时其对物质成瘾者的价值较金钱更易出现贬值。这一发现似乎可以为临床工作中针对成瘾者延迟满足能力的干预——权变管理(contingency management)的起效机制提供部分解释。权变管理规定参与治疗的成瘾者在一段时期内如果提供阴性尿检结果则可立即获得一定数量金钱奖赏，而连续提供阴性结果则会使每次立即获得的奖赏金额相应增加。即成瘾者保持戒断的时间越长，其每次能够立即获得的金钱奖赏就会越多，反之，一次阳性的尿检结果将会使再次提供阴性尿检结果所获得的金钱奖赏降低到初始水平(Landes et al.,2012)。由维持戒断所带来的逐渐增加的即时金钱奖赏有可能会在与被延迟的药物使用之间的"竞争"中胜出(Bickeletal.,2011)，而促使物质成瘾者继续维持戒断。我们或许可以利用物质成瘾者在CCD任务中所表现出的对延迟成瘾物质奖赏更高的贬值倾向来帮助其维持戒断。
+
+相对使用 SCD 任务的研究而言，现有使用CCD 任务在物质成瘾领域中开展的延迟折扣研究数量毕竟还较少。但基于现有研究结果，从外部效度角度来看，SCD任务可能存在对物质成瘾者跨期决策过程的过度简化。该群体在实际生活中面对的跨期决策过程可能要比
+
+SCD 任务所模拟的更为复杂。而根据奖赏在跨期决策中所处的具体位置，成瘾物质与金钱的相对价值可能会发生变化。继续采用CCD任务对不同成瘾类型的物质成瘾者进行研究对于其跨期决策的描述、解释、预测以及干预而言都具有重要意义。
+
+# 4金钱延迟折扣任务对物质成瘾者的一些临床特征不敏感
+
+目前MDDT已被广泛用于对物质成瘾者跨期决策能力的恢复、干预及复吸预测研究当中。考虑到上述物质成延迟折扣的领域特殊性以及单一延迟折扣任务对物质成瘾者跨期决策过程过度简化两个问题，我们有理由推测在研究中单一使用MDDT可能会进一步影响到物质成瘾领域延迟折扣的应用或临床研究的效度，即MDDT是否是捕捉物质成瘾者跨期决策能力在戒断以及接受干预后发生动态变化最为理想的任务有待商榷。而近年来一些对比MDDT与其变式的研究发现，其变式较MDDT本身对物质成瘾者的一些临床特征更加敏感，这些发现进一步印证了我们的推测。
+
+对物质成瘾者在MDDT及CCD任务中结果的比较提示我们，单一类别的MDDT对成瘾者的戒断状态与成瘾严重程度可能不敏感。Mitchell(2004)在研究中同时使用MDDT以及香烟作为即时奖赏VS.金钱作为延迟奖赏的CCD任务两种延迟折扣任务，来考察同一组香烟成瘾者在戒断与非戒断状态卜的延迟折扣水平。结果发现在CCD任务中，尽管香烟成瘾者在香烟戒断条件下没有表现出较非戒断条件下更高的延迟折扣水平，但其在香烟戒断条件下选择即时香烟奖赏的次数显著多于非戒断条件下的次数。并且香烟成瘾者在戒断状态下主观相等点对应的价值显著低于非戒断状态下的价值(主观相等点对应的价值越低，间接表明延迟奖赏贬值的程度越高)，表现出了更多的冲动决策。然而在单一类别的MDDT中，成瘾者在两种状态下对即时金钱奖赏的选择次数及主观相等点对应价值间的差异并不显著。该研究中戒断后的香烟成瘾者对即时香烟奖赏而非即时金钱奖赏的趋近变化表明，香烟与金钱对其具有不同的心理意义。对某种特定物质(如香烟)的成瘾可能会使成瘾者对该成瘾物质具有更高的延迟折扣水平(Odum& Baumann,2007; Odum etal.,2020)，而香烟戒断也可能使这些香烟成瘾者更加偏好于即时的香烟奖赏以缓解出现的戒断症状。香烟对戒断后的成瘾者而言是用以消除戒断症状的直接负强化物，但金钱对于消除戒断症状的作用只能是间接的(通过金钱购买一定数量的香烟)。这提示我们，相比单一类别的MDDT，CCD任务对香烟戒断状态更加敏感。Yoon等人(2009)对香烟成瘾者的戒断研究也进一步支持了这一观点。已往研究没有发现戒断时长引起成瘾者延迟折扣的变化可能与研究者所使用的研究任务有关(Heiletal.,2006;Lietal.,2013)，未来研究可以使用CCD任务对该问题进行进一步验证。另一方面，Moody等人(2017)同时使用SCD及CCD任务(共四组任务)来考察不同成瘾程度酒精成瘾者的延迟折扣水平，结果发现成瘾者的成瘾严重程度与CCD任务中的延迟折扣水平显著相关，但与SCD任务中延迟折扣水平的相关却并不显著。有必要指出，在该研究中即便排除MDDT，将即时与延迟奖赏同为成瘾物质的SCD任务与CCD任务进行比较，单一的成瘾物质延迟折扣任务中的延迟折扣水平与成瘾严重程度的相关同样不显著。可见CCD任务对成瘾程度更加敏感并非是由于戒断期的物质成瘾者暴露在实验任务中的成瘾物质刺激下所引起的药物渴求状态造成的。并且重度成瘾者较轻度成瘾者在四组任务中的延迟折扣水平变化更小，表现出一种趋同趋势。在该研究中，CCD任务与SCD任务的关键区别在于CCD任务涉及酒精与金钱之间相对价值的比较。考虑到成瘾物质具有可消耗性因而较易随时间流逝发生贬值，同时金钱具有可交易性且价值相对较为稳定，现在与未来时刻下，跨类别奖赏间的比较相对同类别奖赏内的比较包含更为复杂的心理过程。综上，CCD任务通过更为复杂的任务设置，更生态化地模拟了现实生活中物质成瘾者所面对的跨期决策情境，这可能是其较SCD任务对不同状态及成瘾程度的物质成瘾者决策模式的探测更为敏感的原因。
+
+即便不考虑CCD任务的研究结果，仅在使用SCD任务的研究中，MDDT对物质成瘾者与危险性行为相关的一些临床特征也不敏感。这一发现来自对物质成瘾者MDDT与SDT研究结果进行的比较。首先，在Johnson和Bruner(2012)的研究中，可卡因成瘾者对金钱的延迟折扣水平与其在HIV危险行为量表(HIVRisk-Taking Behavior Scale,HRBS)中性风险分量表(sexualrisk subscale)上的得分并不相关，而可卡因成瘾者对安全性行为的延迟折扣水平却与其性风险量表得分显著正相关。即在SDT中表现出较高延迟折扣水平的可卡因成瘾者在真实生活中的确有更多的危险性行为，而可卡因成瘾者在MDDT中的延迟折扣水平却与其真实生活中的危险性行为不存在关联。还有研究发现酒精成瘾者对金钱的延迟折扣水平虽然与他们在摄入酒精的状态下发生危险性行为的频率显著相关，但与其在生活中总体的危险性行为相关并不显著(Celio et al.,2016; MacKillop et al.,2015)。这提示我们使用成瘾者在MDDT中的结果不能有效预测和解释其在生活中表现出的危险性行为。其次，MDDT与SDT在急性给药研究中表现出了实验性分离。摄入酒精可以增加个体对安全性行为的延迟折扣水平，而个体对金钱的延迟折扣水平则没有显著变化(Johnson etal.,2016)。可卡因成瘾者的急性给药研究发现了同样的结果(Johnson etal.,2017)。最后，有研究发现不同成瘾程度的大麻与香烟青年成瘾者对安全性行为的延迟折扣水平存在显著差异，但对金钱的延迟折扣水平并不存在显著差异(Thamotharan et al.,2017)，说明SDT较MDDT对成瘾程度更加敏感。这些结果进一步表明个体对安全性行为与对金钱的延迟折扣是两个不同的心理过程(Johnson etal.,2015)。对个体而言，性行为与金钱二者之间不仅是初级强化物(与生存繁衍相关的性)与次级强化物(用于商品交换的金钱)之间的差别。一方面，性行为对个体的价值具有很强的时效性，而金钱的价值则相对稳定。更重要的是，安全性行为对个体的价值还会受到性交对象吸引力、性交感染疾病风险以及怀孕风险等因素的影响(Stoltman,2019)，而金钱对个体的价值则不会受到这些因素的影响(事实上MDDT也无法模拟出上述影响因素)。考虑到上述性行为与金钱对个体心理意义的差别，可能正是由于SDT更真实地模拟了个体与性行为相关的跨期决策过程，使其较MDDT对物质成瘾者与危险性行为相关临床特征的探测更为敏感。
+
+# 5 总结与展望
+
+本文从外部效度角度出发回顾了成瘾领域使用MDDT及其主要变式的延迟折扣研究。越来越多的研究表明，延迟折扣可能存在领域特殊性(Lawyer&Schoepflin,2013;Mejia-Cruz etal.,2016)，不同种类的延迟折扣对物质成瘾者而言可能具有不同的心理意义(Odum&Rainaud,2003)。同时，单一延迟折扣任务可能存在对物质成瘾者跨期决策过程的过度简化。此外，MDDT较其变式对物质成瘾者的一些临床特征不够敏感。根据具体的研究问题引入适当的任务可以弥补这一不足。而考察物质成瘾者在跨类别任务中的延迟折扣水平可以有效拓展我们对真实生活中物质成瘾者跨期决策的理解(Moody et al.,2017)。对物质成瘾者的跨期决策开展研究不仅可以帮助我们从行为经济学视角对其成瘾行为进行解释并实施有效干预，还可以为临床及社会工作者对物质成瘾群体生活中存在的其它问题(如高HIV感染率)的改善提供指导和启发(Johnson& Bruner,2012)。在回顾的基础上，我们还提出以下几点对未来成瘾领域延迟折扣研究的展望：
+
+其一，从外部效度角度出发，跨类别延迟折扣任务较单一延迟折扣任务而言，不仅涉及跨期决策，同时还包括了对不同类型奖赏的选择。这使其与物质成瘾者真实生活中的跨期决策场景更为相近。然而现有采用CCD任务对物质成瘾者展开的研究中所使用的跨类别组合过于单一，涉及的奖赏类型多局限于成瘾物质与金钱。现实生活中，成瘾者往往面临着更多的跨期决策组合，如即时的成瘾物质VS.延迟的健康、良好人际关系、稳定的工作等等。未来研究应进一步丰富、拓展跨类别延迟折扣任务，使其与物质成瘾者的真实生活更加拟合，在进一步增加其外部效度的同时加深人们对物质成瘾者跨期决策过程的认识。
+
+其二，随着延迟折扣研究在物质成瘾领域的不断展开，除了对延迟折扣任务中奖赏类型(金钱、成瘾物质、安全性行为、健康与自由等)的关注，延迟时间的真实性也成为了一些研究者关注的对象。有研究发现，在延迟折扣任务中通过对延迟时间长度的想象与实际经历延迟时间所得出的延迟折扣水平并不相关(Johnson,2012)，而且在延迟时间内是否对个体的其它活动进行限制构成了一种机会成本(opportunity cost)，进而导致物质成瘾者对同一奖赏表现出不同的延迟折扣水平和不同的跨期决策模式(Johnson et al.,2015)。此外，已有研究者指出个体对时间的主观知觉可能是影响其跨期决策的一个重要因素(Paasche et al.,2019;Wittmann&Paulus,2008; Zauberman et al.,2009)。未来研究应进一步关注延迟时间对物质成瘾者跨期决策的影响机制，探明可能影响物质成瘾者跨期决策的时间因素。对延迟时间作用机制的研究一方面可以丰富我们对物质成瘾人群跨期决策的理解，另一方面也可能进一步改善跨期决策研究的外部效度。
+
+其三，一些成瘾领域延迟折扣的任务采用非金钱奖赏(如成瘾物质、健康、性行为)作为延迟奖赏，并采用主观估计的方法来确定延迟奖赏的数量(Jarmolowicz etal.,2014;Johnson etal.,2007)。这在一方面固然提高了延迟折扣研究的外部效度，但与此同时也无疑增加了研究者的工作量，因为研究者必须为每个被试"量身定做"实验程序。此外，对于像健康和性这样的抽象概念其价值是否能够用金钱来衡量尚有疑问。未来研究应考虑到这些问题，以便由此展开的延迟折扣研究在拥有较好外部效度的同时也具有更多可操作性。
+
+其四，考虑到物质成瘾群体的特殊性，在现实生活中金钱对其而言可能会充当换取毒品的工具。使用金钱换取相应数量毒品的过程可能受到诸如通货膨胀等不确定因素的影响，继而构成一种“隐性成本"，使金钱对物质成瘾者的吸引力发生波动。未来的延迟折扣研究中可以引入调查问卷或访谈法，在实验结束后对物质成瘾者获取金钱奖赏背后的真实动机进行探究。一方面可以进一步厘清和排除金钱延迟折扣任务可能存在的局限性，另一方面也可以为探索动机对物质成瘾者延迟折扣影响的研究提供启发。
+
+# 参考文献
+
+Amlung,M.,Vedelago,L.,Acker,J.,Balodis,I.,& MacKillop,J.(2O17).Steepdelay discounting andaddictive behavior:A meta-analysis of continuous associations.Addiction,112(1),51-62.   
+Bickel,W. K.,& Marsch,L.A. (2Oo1).Toward a behavioral economic understanding of drug dependence: Delay discounting processes. Addiction,96(1),73-86.   
+Bickel,W.K.,Johnson,M.W.,Koffarnus,M.N.,MacKillop,J.,&Murphy,J.G.(2O14).The behavioraleconomics of substance use disorders: Reinforcement pathologies and their repair. Annual Review of Clinical Psychology, 10,641-677.   
+Bickel,W.K.,Kofarnus,M.N.,Moody,L.,& Wilson,A.G. (2014).The behavioral-and neuro-economic process of temporal discounting: A candidate behavioral marker of addiction. Neuropharmacology,76,518-527.   
+Bickel, W. K.,Landes,R.D., Christensen,D.R.,Jackson,L.,Jones,B.A.,Kurth-Nelson,Z.,&Redish,A.D. (2011). Single-and cross-commodity discounting among cocaine addicts: The commodity and its temporal location determine discounting rate. Psychopharmacology,217(2),177-187.   
+Bickel, W.K.,Landes,R.D., Kurthnelson,.,&Redish,A.D. (2O14). Aquantitativesignature of self-controlrepair rate-dependent efects of successful addiction treatment. Clinical Psychological Science,2(6), 685-695.   
+Bickel,W. K., Odum,A.L.,& Madden, G. J. (1999). Impulsivity and cigarete smoking: Delay discounting in current, never,and ex-smokers. Psychopharmacology,146(4),447-454.   
+Celio,M. A.,MacKillop,J.,Caswel,A.J.,Mastroleo,N.R.,Kahler,C.W.,arnet,N.P.,..Monti,P.M. (2016) Interactive relationships between sex-related alcohol expectancies and delay discounting on risky sex. Alcoholism: Clinical and Experimental Research,40(3), 638-646.   
+Coffey,S.F.,Gudleski,G.D.,Saladin,M.E.,& Brady,K.T. (2O03). Impulsivityand rapid discounting of delayed hypothetical rewards in cocaine-dependent individuals. Experimental and clinical psychopharmacology, $\boldsymbol { I I } ( 1 )$ 18-25.   
+Ekhtiari,H.,Victor,T.A.,& Paulus,M.P.(2O17). Aberrant decision-making and drug addiction—how strong is theevidence?CurrentOpinioninBehavioralSciences,13,25-33.   
+Friedel,J.E.,DeHart,W.B.,Frye,C.C.J.,Rung,J.M.,&Odum,A.L.(2O16).Discountingofqualitativelydierent delayed health outcomes incurrent and never smokers.Experimental and Clinical Psychopharmacology,24(1), 18-29.   
+Giordano,L.A.,Bickel,W.K.,Loewenstein,G.,Jacobs,E.A.,Marsch,L.,&Badger,G.J.(2002).Mild opioid deprivation increases the degree that opioid-dependent outpatients discount delayed heroin and money. Psychopharmacology,163(2),174-182.   
+Green,L.,& Myerson,J.(2013). How many impulsivities? A discounting perspective. Journal ofthe Experimental Analysis of Behavior,99(1),3-13.   
+Heil,S.H.,Johnson,M.W., Higgins,S.T.,& Bickel, W. K. (2006). Delay discounting in currently using and currently abstinent cocaine-dependent outpatients and non-drug-using matched controls. Addictive Behaviors, 31(7),1290-1294.   
+Heinz,A.J.,Lilje,T.C.,Kassel,J.D.,&de Wit,H. (2O12). Quantifying reinforcement value and demand for psychoactive substances in humans. Current Drug Abuse Reviews,5(4),257-272.   
+Herrmann,E.S.,Hand,D.J.,Johnson,M.W.,Badger,G.J.,&Heil,S.H.(2O14).Examiningdelaydiscountingof
+
+condom-protected sex among opioid-dependent women and non-drug-using control women. Drug and Alcohol Dependence,144, 53-60.
+
+Holt, D.D., Glodowski, K., Smits-Seemann,R.R.,& Tiry,A. M. (2016). The domain effect in delay discounting: The roles of fungibility and perishability. Behavioural Processes,131, 47-52.   
+Jarmolowicz,D.P.,Bickel,W.K.,& Gatchalian,K.M. (2O13).Alcohol-dependent individuals discount sexat higherrates than controls. Drug and Alcohol Dependence,131(3),320-323.   
+Jarmolowicz,D.P.,Landes,R.D.,Christensen,D.R.,Jones,B.A.,Jackson,.,Yi,R.,&Bickel,W.K.(2014). Discounting of money and sex: Effects of commodity and temporal position in stimulant-dependent men and women. Addictive Behaviors,39(11),1652-1657.   
+Johnson,M. W. (2O12). An efficient operant choice procedure for assessing delay discounting in humans: Initial validation in cocaine-dependent and control individuals. Experimental and Clinical Psychopharmacology, 20(3),191-204.   
+Johnson,M.W.,& Bruner,N.R.(2O12).The sexual discounting task: HIV risk behaviorand the discounting of delayed sexual rewards in cocaine dependence. Drug and Alcohol Dependence,123(1-3),15-21.   
+Johnson,M. W.,& Bruner,N.R. (2O13).Test-retestreliabilityand gender diffrences in the sexual discounting task among cocaine-dependent individuals. Experimental and Clinical Psychopharmacology,21(4),277-286.   
+Johnson,M. W., Bickel, W. K.,& Baker,F. (2007). Moderate drug use and delay discounting: A comparison of heavy, light, and never smokers. Experimental and Clinical Psychopharmacology,15(2),187-194.   
+Johnson,M. W.,Bickel, W. K.,Baker,F., Moore,B.A,Badger,G. J.,& Budney,A.J. (2010). Delay discounting in current and former marijuana-dependent individuals.Experimental and Clinical Psychopharmacology,18(1), 99-107.   
+Johnson,M. W.,Herrmann,E.S.,Sweeney,M.M.,LeComte,R.S.,&Johnson,P.S.(2017).Cocaine administration dose-dependently increases sexual desire and decreases condom use likelihood:The role of delay and probability discounting in connecting cocaine with HIV. Psychopharmacology,234(4),599-612.   
+Johnson,M. W.,Johnson,P.S.,Herrmann,E.S.,& Sweeney,M.M. (2015). Delay and probability discounting of sexual and monetary outcomes in individuals with cocaine use disorders and matched controls. PloS One,10(5). Article e0128641. htps://doi.org/10.1371/journal.pone.0128641   
+Johnson,P.S.,Herrmann,E.S.,&Johnson,M. W. (2015). Opportunitycosts of reward delays and the discounting of hypothetical moneyand cigarettes.Journal of the Experimental Analysis ofBehavior,1O3(1),87-107.   
+Johnson,P.S.,Sweeney,M.M.,Hermann,E.S.,&Johnson,M.W. (2O16).Alcoholincreases delayandprobability discounting of condom-protected sex: A novel vector for alcohol-related HIV transmission. Alcoholism: Clinical and Experimental Research,40(6),1339-1350.   
+Karakula,S.L.,Weiss,R.D.,Griffin,M.L.,Borges,A.M.,Bailey,A.J.,& McHugh,R.K. (2016). Delay discounting in opioid use disorder: Differences between heroin and prescription opioid users. Drug and Alcohol Dependence,169,68-72.   
+Koffarnus，M. N.，& Kaplan,B.A. (2018). Clinical models of decision making in addiction. Pharmacology Biochemistry and Behavior,164,71-83.   
+Koffarnus,M.N.,Johnson,M.W.,Thompson-Lake,D.G., Wesley,M.J.,Lohrenz,T.,Montague,P.R.,&Bickel, W.K. (2016). Cocaine-dependent adults and recreational cocaine users are more likely than controls to choose immediate unsafe sex over delayed safer sex. Experimental and Clinical Psychopharmacology,24(4), 297- 304.   
+Landes,R.D., Christensen,D.R.，& Bickel, W.K. (2012). Delay discounting decreases in those completing treatment for opioid dependence. Experimental and Clinical Psychopharmacology,20(4),302-309.   
+Lawyer,S.R.，& Schoepflin,F.J.(2013).Predicting domain-specific outcomes using delayand probability discounting for sexual versus monetary outcomes. Behavioural Processes,96,71-78.   
+Leman,R.F.,Rowland,B.H., Gebru,N.M.,&Potenza,M.N. (2O19). Relationships among impulsive,addictive and sexual tendencies and behaviours: A systematic review of experimental and prospective studies in humans. PhilosophicalTransactionsoftheRoyalSocietyB, 374(1766).Article20180129. https://doi.0rg/10.1098/rstb.2018.0129   
+Lei,H,T.,Gan,Y.,Bi,Y.,Zhou,Q.,&Tang,S.Y.(2O19). Influence factors on high-risk sexualbehaviors of drug addicts with methadone maintenance treatment in Yunnan province. Chinese Journal of AIDS & STD,25(4), 375-379.   
+[雷红涛，甘源，毕艳，周倩，唐松源.(2019).云南美沙酮维持治疗人群高危性行为及其影响因素．中国艾滋 病性病,25(4),375-379.]   
+Li, X.,Zhang,F.,Zhou,Y.,Zhang,M., Wang,X.,& Shen,M. (2013). Decision-making deficitsare stillpresent in heroin abusersafter short-to long-term abstinence.Drug and Alcohol Dependence,130(1-3),61-67.   
+MacKillop,J., Celio,M.A.,Mastroleo,N.R.,Kahler,C.W.,Operario,D., Colby,S.M.,.. Monti,P.M.(2015). Behavioral economic decision making and alcohol-related sexual risk behavior. AIDS and Behavior,19(3), 450-458.   
+Madden.G.J.. Petrv.N.M.. Badger. G.I..& Bickel. W.K.（1997). Impulsive and self-controlchoices inonioid
+
+dependent patients and non-drug-using control patients: Drug and monetary rewards. Experimental and Clinical Psychopharmacology,5(3),256-262.
+
+Mahoney,C.T.,&Lawyer,S.R. (2O18).Domain-specific relationships insexual measures of impulsive behavior. Archives of Sexual Behavior,47(6),1591-1599.   
+Mazur,J.E. (1987). An adjusting procedure for studying delayed reinforcement.In M.L.Commons,J.E.Mazur,J. A. Nevin & H. Rachlin (Eds.),The efect of delay and of intervening events on reinforcement value (pp. 55- 73). NJ: Erlbaum: Hillsdale.   
+McCarthy,D.E.,Bold, K.W., Minami,H., Yeh, V. M.,Ruten,E., Nadkarni,S. G.,& Chapman, G.B. (2016). Reliability and validity of measures of impulsive choice and impulsive action in smokers trying to quit. Experimental and Clinical Psychopharmacology,24(2),120-130.   
+Mejia-Cruz,D., Green,L.,Myerson,J.,Morales-Chainé,S.,& Nieto,J. (2016).Delayand probabilitydiscounting by drug-dependent cocaine and marijuana users. Psychopharmacology, 233(14),2705-2714.   
+Mitchell,S.H.(2Oo4).Effects ofshort-term nicotine deprivation on decision-making: Delay,uncertainty and effort discounting. Nicotine & Tobacco Research, 6(5), 819-828.   
+Moody,L. N.,Tegge,A.N.,& Bickel, W. K. (2017). Cross-commodity delay discounting of alcohol and money in alcohol users. The Psychological Record, 67(2),285-292.   
+Myerson,J.,& Green,L.(1995). Discounting of delayed rewards: Models of individual choice. Journal of the Experimental Analysis of Behavior, 64(3),263-276.   
+Odum,A.L.,& Baumann,A. A. (20o7). Cigarette smokers show steeper discounting of both food and cigaretes than money. Drug and Alcohol Dependence,91(2-3),293-296.   
+Odum,A. L.,Becker,R.J.,Haynes,J. M., Galizio,A.,Frye, C.C.,Downey,H.,.. Perez,D.M. (2020). Delay discounting of different outcomes: Review and theory. Journal of the Experimental Analysis of Behavior, 113(3), 657-679.   
+Odum, A.L.,&Rainaud,C.P.(2oo3).Discountingof delayed hypothetical money,alcohol,and food.Behavioural Processes,64(3),305-313.   
+Paasche,C.， Weibel, S.， Witmann, M.,& Lalanne,L. (2019). Time perception and impulsivity: A proposed relationship in addictive disorders.Neuroscience & Biobehavioral Reviews,1O6,182-201.   
+Petry,N.M.(2Oo1).Delaydiscounting of money and alcohol in actively using alcoholics,currentlyabstinent alcoholics,and controls.Psychopharmacology,154(3),243-250.   
+Petry,N.M. (2Oo3).Discounting of money,health,andfreedomin substance abusers and controls. Drug and Alcohol
+
+Dependence,71(2),133-141.
+
+Stenbergen,L., Colzato,L.S.,& Maraver,M.J. (2O2O).Vagal signaling and the somatic marker hypothesis: The effect of transcutaneous vagal nerve stimulation on delay discounting is modulated by positive mood. International Journal of Psychophysiology,148,84-92.   
+Stoltman, J. J. (2O19). Diffrences in sexual delay discountingamong in-treatment adults with opioid usedisorder (Unpublished doctorial dissertation). West Virginia University.   
+Strickland,J.C.,Bolin,B.L.,Romaneli,M.R.,Rush, C.R.,&Stoops,W.W.(2o17).Efects ofacute buspirone administration on inhibitory control and sexual discounting in cocaine users.Human Psychopharmacology. Clinical and Experimental, 32(1). Article e2567. https://doi.org/10.1002/hup.2567   
+Thamotharan,S.,Grabowski,K.,Stefano,E.,& Fields,S.(2O15).An examinationof sexual risk behaviors in adolescent substance users. International Journal of Sexual Health,27(2),106-124.   
+Thamotharan,S.,Hahn,H.,&Fields,S. (2O17). Drug use status in youth: The role of gender and delay discounting. Substance Use & Misuse,52(10),1338-1347.   
+Tong,Y.H.,& Han,Y. (2O11).Task presenting modes,mathematical models,and measures in delay discounting Chinese Journal of Clinical Psychology,19(5),585-588.   
+[佟月华，韩颖.(2011)．延迟折扣的任务呈现方式，数学模型与测量指标．中国临床心理学杂志,19(5),585- 588.]   
+Villalobos-Gallegos,L.，Medina-Mora,M.E.，Benjet,C.，Ruiz-Velasco，S.，Magis-Rodriguez,C.，& MarinNavarrete,R. (2O19). Multidimensional patterns of sexual risk behavior and psychiatric disorders in men with substance use disorders. Archives of Sexual Behavior,48(2), 599-607.   
+Weatherly,J. N.,Terrell, H.K.,& Derenne,A. (2Ol0). Delaydisounting of diferent commodities.The Journalof General Psychology: Experimental, Psychological, and Comparative Psychology,137(3),273-286.   
+Wesley,M.J.,Lohrenz,T., Koffarnus,M.N.,McClure,S.M.,De La Garza,R., Salas,R,..Montague,P.R.(2014). Choosing money over drugs: The neural underpinnings of dificult choice in chronic cocaine users. Journal of Addiction, 2014. Retrieved January 14, 2014, from http://dx.doi.org/10.1155/2014/189853   
+Witmann, M.,& Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences,12(1), 7-12.   
+Yoon, J. H., Higgins,S.T.,Bradstret,M.P., Badger,G.J.，& Thomas,C.S. (209).Changes in therelative reinforcing efects of cigarete smoking as a function of initial abstinence.Psychopharmacology,205(2),305- 318.   
+Yoon,J.H.,Weaver,M.T.,De La Garza,R.,Suchting,R.,Nerumalla,C.S.,Omar,Y.,..Newton,T.F.(2018) Comparison of three measurement models of discounting among individuals with methamphetamine use disorder. The American Journal on Addictions,27(5),425-432.   
+Zauberman,G., Kim,B.K.,Malkoc,S.A.,& Betman,J.R.(2009).Discounting time and time discounting: Subjective time perception and intertemporal preferences. Journal of Marketing Research,46(4),543-556.   
+Zhang,F.,Shui,R.D.,Zhou,Y.Y.,Liang,J.Y.,& Shen,M. W.(20o9).Psychological mechanisms of the tendency of super-quick decay for delayed heroin reinforcement in heroin abstainers.Acta Psychologica Sinica,41(08), 763-772.
+
+[张锋，水仁德，周艳艳，梁君英，沈模卫.(2009).海洛因延迟强化物超快速折扣倾向的心理机制．心理学报， 41(08), 763-772.]
+
+# The external validity of delay discounting in the field of substance addiction
+
+YANG Ling; LIU Wenxin; ZHANG Yang; ZHANG Jianxun; NIU Lulin (KeyLaboratoryofBehavioralandMentalHealthofGansuProvince;InstituteofSubstanceAddictionandRehabilitation,Scoolof Psychology,Northwest Normal University,Lanzhou,73oo7o,China)
+
+Abstract: Deficiency in inter-temporal decision making of substance addicts has been consistently confirmed by a lot of studies using monetary Delay Discounting Task. However, the recently emerging evidence from new variants of the monetary Delay Discounting Task (the addictive substance Delay Discounting Task, the Sexual Delay Discounting Task, and the Cross-Commodity Delay Discounting Task) highlighted some limitations in the single use of this paradigm in the delay discounting study of substance addiction, which need to be considered in terms of external validity. In the first place,delay discounting may be a domain-specific concept and the degree of delay discounting towards money may not equal to delay discounting in other aspects of addicts' real life, as a drug, sex, and other natural rewards. Besides this, using Single-Commodity Delay Discounting Tasks may oversimplify the complicated process of inter-temporal decision making, while using paradigms like Cross-Commodity Delay Discounting Tasks may ecologically simulate dilemmas in addicts' daily life.Last but not least,the monetary Delay Discounting Task is less sensitive to some clinical traits of addicts than its variant paradigms, it seems that specific tasks definitely have a better predictive effect on specific facets of inter-temporal decision making cared by different researchers from multiple perspectives.Future studies should further enrich and expand the research of Cross-Commodity Delay Discounting Task in the field of substance addiction to improve external validity,and further, explore the time factors that may affect the process of inter-temporal decision making.
+
+Key words substance addiction； delay discounting;inter-temporal decision making； externalvalidity

@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "克唑替尼治疗EML4-ALK重排阳性患者的临床疗效",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴璇,李建雄",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国人民解放军总医院放射治疗科，北京100853",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨EML4-ALK融合基因阳性与阴性非小细胞肺癌患者在应用不同治疗方案后的临床疗效。方法对有自主意愿进行EML4-ALK基因检测的21例ALK阳性、50例ALK阴性与75例未行ALK检测的非小细胞肺癌患者，对3组患者给予不同的治疗方法，并对疗效、无疾病生存期及不良反应做出统计学分析。结果对于EML4-ALK阳性患者，应用克唑替尼后的PFS明显延长，其客观缓解率为 $6 1 . 9 \\%$ ,明显高于应用化疗药物之后的客观缓解率。对比与EML4-ALK阴性及未测组的二线治疗方案,其客观缓解率及疾病控制率也有显著统计学差异。结论克唑替尼对EML4-ALK阳性患者具有更好的疗效,EML4-ALK基因重排与否对化疗药物并无影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：非小细胞肺癌;克唑替尼;EML4-ALK重排;化疗 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Therapeutic effects of crizotinib in EML4-ALK-positive patients with non-small-cell lung cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Xuan, LI Jianxiong DepartmentofRadiationOncology,General Hospital ofPLA,Beijing 1Oo853,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo evaluate the therapeuticefectsof diferent therapeuticregimens for non-smal-cell lungcancer (NSCLC) with or without EML4-ALK rearrangement. Methods Twenty-one ALK-positive and 50 ALK-negative NSCLC patients who received voluntarilyEML4-ALK testing and 75 NSCLC patients without AL testing were enroled in this study. The 3 groups of patients received diferent treatments，and the therapeutic efects, progresson-freesurvival (PFS)，and treatment-relatedadverse eventswere analyzed.Result Crizotinib treatment obviously prolongedthe PFSin EML4-ALK-positive patients with an objective response rate (OOR) of $6 1 . 9 \\%$ and a median response duration of 16 months, which were significantly better than those in with ALK-negative patientsand patients without ALK testing who received diferentsecond-line therapies.Conclusion Crizotinib is superior to platinum-based chemotherapy inNSCLC patients with ALK rearangement. ALK rearrangement id not a modifier of the effect of chemotherapy regimens in NSCLC patients. Key words: non-small cell lung carcinoma; crizotinib; ALK-rearrangement; chemotherapy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年来，非小细胞肺癌患者的发病率持续增加，在化疗药物进入平台期的同时，靶向药物的发展突飞猛进。靶向药物通过与某些基因突变位点结合而发挥作用，这些位点包括KRAS突变（ $2 2 \\%$ ）、EGFR突变( $1 7 \\% )$ 以及ALK重排 $( 7 \\% ) ^ { [ 1 ] }$ 。阿法替尼、厄洛替尼等EGFR酪氨酸激酶抑制剂(EGFR-TKI)现已广泛应用于临床，相比于化疗药物，它们表现出了更长的生存期以及更小的副作用2。在非小细胞肺癌中，ALK融合基因主要包括EML4-ALK、KIF5B-ALK以及TFG-ALK等融合基因，其中以EML4-ALK在非小细胞肺癌中检出率最高[3]。EML4-ALK(棘皮动物微管结合蛋白样4-间变性淋巴瘤激酶)融合基因是一种新兴的基因突变位点，它与肿瘤细胞的生长、增殖有有密切关系4，在大细胞间变性淋巴瘤[5]、炎性肌纤维母细胞瘤[非小细胞肺癌、乳腺癌、结肠癌8、肾细胞癌9]以及儿童神经母细胞瘤[10]中均有表达。克唑替尼作为EML4-ALK抑制剂通过抑制细胞G1-S期转换而发挥作用，已有研究表明其客观缓解率(ORR)大约为 $6 0 \\%$ ,中位无疾病生存期(PFS)为7.7\\~9.7个月[12]。王焱等[13]仅仅对克唑替尼和多西他赛二线治疗晚期非小细胞肺癌的临床疗效进行了比较观察，但没有检测EML4-ALK基因，从而去探讨EML4-ALK阳性与否对克唑替尼和化疗疗效的影响。为此，我们对71名非小细胞肺癌患者，进行EML4-ALK基因检测，同时对75例未行基因检测的患者，探讨不同EML4-ALK表型与不同治疗方案之间的关系，旨在判断区分EML4-ALK表型对于临床工作的价值，为临床工作提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对解放军总医院2010年6月\\~2014年11月的71例有自主检测意愿的非小细胞肺癌患者，仅进行EML-ALK重排检测，将EML4-ALK突变定义为EML4-ALK阳性(本文中缩写为ALK阳性)，并与随机抽取的75例未行EML4-ALK检测的非小细胞肺癌患者做如下资料统计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ALK阳性患者21例,年龄34\\~80岁，中位年龄为51岁，病理类型均为腺癌;ALK阴性患者50例，年龄 $3 0 \\sim$ 82岁，中位年龄为57.5岁，其中包括4例鳞癌，46例腺癌；ALK未检测患者75例，年龄30\\~77岁，中位年龄为57岁，其中包括22例鳞癌，53例腺癌。3组在性别、年龄分化程度及临床分期上表达无明显差异，具有可比性。而在吸烟史、病理类型以及EGFR的表达中具有统计学意义，可以推断，不吸烟、EGFR表达阴性的肺腺癌患者更有可能检测出ALK重排阳性(表1)。在26例EGFR阳性患者中，5例ALK阴性患者及15例ALK未测患者曾行EGFR-TKI治疗，应用EGFR-TKI期间，2例ALK阴性患者及5例ALK未测患者为化疗联合用药，其余患者行EGFR-TKI单药治疗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 治疗方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "90例患者采用培美曲塞联合铂类方案，28例患者采用多西他赛联合铂类方案，20例患者采用吉西他滨联合铂类方案，6例患者采用紫杉醇联合铂类方案，21例ALK阳性患者应用克唑替尼进行治疗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有患者一线治疗均给予含铂化疗方案，对疗效进展的患者进行二线治疗，根据ALK重组类型不同，对ALK阳性患者给予克唑替尼治疗，ALK阴性及ALK未测患者给予二线化疗方案。各药物剂量如下所示：顺铂$1 1 0 ~ \\mathrm { m g }$ ,静滴,qd,d1;卡铂 $3 0 0 ~ \\mathrm { { m g } }$ ,静滴,qd,d1;培美曲塞 $8 0 0 ~ \\mathrm { { m g } }$ ,静滴,qd,d1;多西他赛 $1 2 0 ~ \\mathrm { m g }$ ,静滴,qd,d1;克唑替尼 $2 5 0 ~ \\mathrm { m g }$ ，口服， $2 / \\mathrm { d } _ { \\odot }$ ，EGFR-TKI药物主要为埃克替尼 $1 2 5 ~ \\mathrm { m g }$ ，口服， $3 / \\mathrm { d }$ 及吉非替尼 $2 5 0 \\mathrm { m g }$ ，口服， $1 /  { \\mathrm { d } _ { \\circ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3疗效评价标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用WHO实体瘤疗效评价标准(RECIST)，治疗2个周期后，通过对患者实体瘤大小进行影像学检查及评价，分为完全缓解(CR)，部分缓解(PR)，疾病稳定(SD)以及疾病进展(PD)。采用美国国立癌症研究所(NCI)制定的毒性评价标准(CTCAE)对不良反应进行分级。客观缓解率(ORR） $\\vDash$ 中 $\\mathrm { C R + P R }$ 0/总例数 $\\mathrm { \\Phi } _ { \\cdot } \\mathrm { \\times } 1 0 0 \\%$ ,疾病控制率(DCR)=( $\\mathrm { C R + P R + S D }$ 0/总例数 $\\mathrm { \\Phi } _ { \\mathrm { \\cdot } } \\mathrm { \\times } 1 0 0 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4546069015d7d194614534879529ed8338c46c2c8cade38fbfdf24ea2cad9d6.jpg",
+        "table_caption": [
+            "表1患者的一般特征Tab.1 Clinical data of patients with different ALK phenotypes"
+        ],
+        "table_footnote": [
+            "Compared with ALK-untested group, $^ { * } P { < } 0 . 0 5$ 业 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>ALK-positive</td><td>ALK-negative</td><td>ALK-untested</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td>0.8273</td></tr><tr><td>Male</td><td>13</td><td>30</td><td>49</td><td></td></tr><tr><td>Female</td><td>8</td><td>20</td><td>26</td><td></td></tr><tr><td>Age</td><td></td><td></td><td></td><td>0.1615</td></tr><tr><td><60</td><td>17</td><td>30</td><td>44</td><td></td></tr><tr><td>≥60</td><td>4</td><td>20</td><td>31</td><td></td></tr><tr><td>Smoking History</td><td></td><td></td><td></td><td>0.0023*</td></tr><tr><td>Smoker</td><td>3</td><td>19</td><td>41</td><td></td></tr><tr><td>Non-smoker</td><td>18</td><td>31</td><td>33</td><td></td></tr><tr><td>Histology</td><td></td><td></td><td></td><td>0.0007*</td></tr><tr><td>Squamous cell carcinoma</td><td>0</td><td>4</td><td>22</td><td></td></tr><tr><td>Adenocarcinoma</td><td>21</td><td>45</td><td>53</td><td></td></tr><tr><td>Differentiation</td><td></td><td></td><td></td><td>0.6662</td></tr><tr><td>Well</td><td>0</td><td>0</td><td>1</td><td></td></tr><tr><td>Moderate</td><td>6</td><td>19</td><td>23</td><td></td></tr><tr><td>Poor</td><td>12</td><td>23</td><td>44</td><td></td></tr><tr><td>Clincal Stage</td><td></td><td></td><td></td><td>0.4090</td></tr><tr><td>I</td><td>0</td><td>2</td><td>4</td><td></td></tr><tr><td>Ⅱ</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td>IⅢI</td><td>1</td><td>6</td><td>16</td><td></td></tr><tr><td>IV</td><td>19</td><td>38</td><td>54</td><td></td></tr><tr><td>EGFR</td><td></td><td></td><td></td><td>0.0000*</td></tr><tr><td>+</td><td>1</td><td>8</td><td>17</td><td></td></tr><tr><td>-</td><td>16</td><td>39</td><td>16</td><td></td></tr><tr><td>Untested</td><td>4</td><td>3</td><td>42</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS21.0软件进行统计学分析，患者一般临床资料采用基本的统计描述分析，计数资料采用x检验,无疾病生存期(PFS)采用Kalpan-meier法分析， $P <$ 0.05具有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1一线治疗中，ALK重排阳性与阴性患者间不同化疗方案的临床疗效",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "培美曲塞联合铂类的一线化疗方案中，ALK阳性组、ALK阴性组及ALK未测组的有效率分别为 $3 8 \\%$ ，$4 4 . 4 \\%$ 以及 $3 8 . 9 \\%$ ,控制率分别为 $9 3 . 7 5 \\%$ ， $8 6 . 1 \\%$ 以及$8 8 . 9 \\%$ 。多西他赛联合铂类的一线化疗方案中，ALK阳性组、ALK阴性组及ALK未测组的有效率分别为 $0 \\%$ ）$4 0 \\% . 4 7 . 4 \\%$ ，控制率分别为 $6 0 \\% . 8 0 \\% . 9 2 . 1 \\%$ 。3组间有效率及控制率均无统计学差异 $( P { > } 0 . 0 5 )$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2一线治疗中，ALK重排阳性与阴性患者间不同化疗方案的PFS的对比",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ALK阳性患者的中位生存期为16个月，ALK阴性患者的中位生存期为6个月，此两项结果与ALK未测患者的中位生存期7个月相比，并无统计学差异( $scriptstyle \\scriptstyle \\cdot = 0 . 0 6 5$ 图1),证明ALK分型对于一线化疗的疗效无明显影响。2.3一线化学治疗后对不同ALK重排类型患者不良反应的比较",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "含铂化疗方案的主要毒副反应为骨髓抑制、肝损伤、恶心呕吐以及脱发，ALK阳性与ALK阴性组间并无明显差异，与ALK未测的大众人群相比亦无差异(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee3eb71233b8c714bb043cdee267b6debc3c927bbaf8ee1fdc44352d943d19d8.jpg",
+        "img_caption": [
+            "图1应用不同一线化疗方案后PFS的对比 Fig.1 Comparison of PFS in patients with different ALK phenotypes receiving first-line chemotherapy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4ALK阳性患者一线治疗(含铂化疗方案)与二线治疗(克唑替尼)疗效的对比",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ALK阳性患者中，应用克唑替尼后的客观缓解率显著高于应用化疗药物之后的客观缓解率为 $6 1 . 9 \\% ( P =$ 0.0300)，两组对比之后具有统计学意义。一线治疗与二线治疗间的控制率并无明显差异(表3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5针对不同ALK重排类型，给予不同二线治疗方法后的疗效评价",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/46e4c471de5d71fa65838ee74880b6a57dbafc61629e2f15ff0b0889b0345e41.jpg",
+        "table_caption": [
+            "表2含铂化疗方案作为一线治疗的不良反应 Tab.2 Comparison of adverse events in patients with diferent ALK phenotypes receiving first-line chemotherapy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">ALK+(n=21)</td><td colspan=\"2\">ALK-(n=50)</td><td colspan=\"2\">ALK-untested (n=75)</td><td rowspan=\"2\">x</td><td rowspan=\"2\">P</td></tr><tr><td>n</td><td>%</td><td>n</td><td>%</td><td>n</td><td>%</td></tr><tr><td>Myelosuppression</td><td>6</td><td>28.6</td><td>23</td><td>46.0</td><td>31</td><td>41.3</td><td>1.8593</td><td>0.3947</td></tr><tr><td>Hepatic injury</td><td>3</td><td>14.3</td><td>2</td><td>4.0</td><td>5</td><td>6.7</td><td>2.4603</td><td>0.2922</td></tr><tr><td>Nausea and vomiting</td><td>14</td><td>66.7</td><td>29</td><td>58.0</td><td>47</td><td>62.7</td><td>0.538</td><td>0.7641</td></tr><tr><td>Alopecia</td><td>1</td><td>4.8</td><td>8</td><td>16.0</td><td>13</td><td>17.3</td><td>2.0776</td><td>0.3539</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a6a6d7c0b216f7b919bf7932eb46be3f34406a35bb70265af2900eef10b23bf.jpg",
+        "table_caption": [
+            "表3应用克唑替尼与应用化疗药物疗效对比",
+            "Tab.3 Comparison of curative effects in ALK-positive patients treated with platinum chemotherapy or crizotinib "
+        ],
+        "table_footnote": [
+            "Compared with patients treated with chemotherapy regimens, $^ { * } P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">n</td><td colspan=\"4\">Curative effect</td><td rowspan=\"2\">ORR</td><td rowspan=\"2\">DCR</td></tr><tr><td>CR</td><td>PR</td><td>SD</td><td>PD</td></tr><tr><td>Chemotherapy</td><td>21</td><td>0</td><td>6</td><td>12</td><td>3</td><td>28.6</td><td>85.7</td></tr><tr><td>Crizotinib</td><td>21</td><td>0</td><td>13</td><td>7</td><td>1</td><td>61.9*</td><td>95.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对一线化疗失败的患者给予二线治疗，21例ALK阳性患者给予克唑替尼治疗，16例ALK阴性患者及33例ALK未测给予二线化疗，3组对比分析后可知，ORR及DCR均具有统计学意义，分别为 $P { = } 0 . 0 0 0 3$ 及 $P =$ 0.0068。给予克唑替尼的ALK阳性患者较给予二线化疗的患者相比，克唑替尼的治疗疗效有显著提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6针对不同ALK重排类型，给予不同二线治疗方法后的PFS对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据ALK分型不同，我们给予患者不同的治疗方案，ALK阳性患者应用克唑替尼后的中位PFS大约为8个月，ALK阴性患者应用化疗药物后的中位PFS为4个月，ALK未测患者应用化疗方案后的中位PFS为4.5个月。3组PFS曲线如图2所示，结果具有统计学差异( $\\scriptstyle ( P <$ 0.01)，克唑替尼对于ALK阳性患者的疗效显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c9fe8cbc3a87edd0485a32f8182bfefd75cfbfe96e77d8a1e085c42ffd1f07a.jpg",
+        "img_caption": [
+            "图2应用不同二线治疗方案后PFS的对比 Fig.2 Comparison of PFS in patients with different ALK phenotypes receiving second-line chemotherapy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应大大增加。结果显示，ALK分型对于化疗方案并无指导意义，即在铂类为基础的一线化疗方案中，不同方案的客观缓解率与控制率相仿，毒副反应间也无明显差异。也就是说，在未进行基因检测时，铂类为基础的化疗药物应作为治疗的首选，有效率在 $4 0 \\%$ 左右，而具体的化疗方案则应根据患者的个体情况进行选择。ALK分型对于单独应用培美曲塞或非铂类药物及培美曲塞联合化疗方案的疗效及PFS均无影响，但是在不吸烟或少量吸烟的患者中，其中位生存期会有所增加[18]。然而,Camidge等[19]在2011年对38例患者的研究中认为，ALK培美曲塞对于ALK阳性的患者来说更加有效，无疾病生存期更长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "靶向药物是目前最先进的肿瘤治疗药物，其通过与肿瘤细胞特有的基因结合，抑制影响细胞增殖的信号通路，进而达到治疗肿瘤的目的。其中，针对EGFR突变的EGFR-TKI以及新近针对EML4-ALK融合基因的克唑替尼等受到了医疗界强烈关注。对于ALK阳性的患者来说，克唑替尼的疗效明显优于化疗药物的疗效，无论是与自身的一线化疗疗效相比还是与ALK阴性的化疗疗效以及在未测定ALK阴性时的二线化疗疗效相比，克唑替尼的疗效都是显著的( $P { < } 0 . 0 5 )$ ,其客观有效率为 $6 1 . 9 \\%$ ，无疾病生存期大约为8个月。因此，可以初步推断，对于ALK阳性的非小细胞肺癌患者来说，克唑替尼对于延长患者无疾病生存期，提高客观有效率是有意义的。Solomon等2曾进行过相同化疗方案的研究，结果显示，对于初次进行治疗的患者来说，克唑替尼较铂类联合培美曲塞化疗方案来说更值得优先考虑。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，克唑替尼对正常细胞的杀伤作用较小，相比于化疗来说，克唑替尼停药的几率大约为 $5 \\%$ ，而化疗停药的几率大约为 $8 \\% ^ { [ 2 0 ] }$ 。其副作用主要表现在胃肠道反应(例如恶心、腹泻、呕吐、便秘）水肿、疲乏无力，肝毒性及肺毒性相对较大，还有一些特有的副反应例如视觉障碍等。食管溃疡可能是应用克唑替尼之后的新发副反应[21]。另外,某些研究也指出,转氨酶升高、间质性肺病以及严重肺炎都应引起重视，减量或停药对减少上述副作用具有指导意义[20]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015年美国的最新统计数据显示，肺癌的发病率居于所有肿瘤发病率的第2位，而死亡率已上升至第1位,高达 $2 6 \\% { \\sim } 2 8 \\%$ 。近几年来,雾霾天气持续存在，已有专家证实PM2.5可以引起DNA损伤，与肺癌有直接关系[15-16],因此肺癌治疗的发展体现出至关重要的作用。非小细胞肺癌的患者居多，NCCN指南推荐以铂类药物(例如顺铂和卡铂)为基础,辅以其他药物进行新辅助化疗或辅助化疗[17]。在本研究中,给予患者的化疗药物多为多西他赛、培美曲塞、顺铂以及卡铂，这些药物的主要抑制细胞复制或破坏DNA,尽管疗效显著，但是对于肿瘤细胞与正常细胞并无明确的界定，因此其不良反",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EML4-ALK的阳性率很低，大约为 $3 \\% \\sim 5 \\% ^ { [ 2 2 ] }$ ,故临床上并不将其作为常规检测指标。从我们的临床研究中可以看出，ALK重排阳性与不吸烟、EGFR野生型[23-24的腺癌有很大关系，这与其他学者的研究结果是一致的[25-26]。因此根据患者的一般情况,我们可以初步推断该患者是否有必要进行ALK基因检测。另外，5例ALK阴性患者及15例ALK未测患者在治疗中曾给予EGFR-TKI治疗，主要为EGFR-TKI单药治疗。因此可认为在本研究中EGFR-TKI对于克唑替尼影响不大，克唑替尼的疗效优于普通化疗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Roberts PJ,Stinchcombe TE.KRAS mutation: should we test for it, and does it matter[J].JClin Oncol,2013,31(8): 1112-21.   \n[2]Jang SH, Long T. Therapeutic plan for patients with Non-Small cell lung Cancer harboring EGFR mutation [J].Tuberc Respir Dis (Seoul),2014,76(8): 8-14.   \n[3］杨彦卓,潘乐康,安广宇.非小细胞肺癌中EML4-ALK融合基因的生 物学特性及其治疗[J].肿瘤,2012,32(6):466-70.   \n[4]Solomon B, Wilner KD,Shaw AT. Current status of targeted therapy for anaplastic lymphoma Kinase-Rearranged Non-Small cell lung cancer[J].Clin Pharmacol Ther,2014,95(1): 15-23.   \n[5]Gascoyne RD,Lamant L,Martin-Subero JI,et al.ALK-positive diffuse large B-cell lymphoma is associated with Clathrin-ALK rearrangements: report of 6 cases[J].Blood,2003,102(7): 2568-73.   \n[6]Lawrence B,Perez-Atayde A,Hibbard MK,et al. TPM3-ALK and TPM4-ALK oncogenes in inflammatory myofibroblastic tumors[J]. Am JPathol,2000,157(2): 377-84.   \n[7]Soda M,Choi YL，Enomoto M,et al.Identification of the transforming EML4-ALK fusion gene in non-small-cell lung cancer [J]. Nature,2007,448(7153): 561-6.   \n[8] Lin E,LiL,Guan Y,et al. Exon array profiling detects EML4-ALK fusion in breast,colorectal,and non-small cell lung cancers[J].Mol Cancer Res,2009,7(9):1466-76.   \n[9]Sukov WR,Hodge JC,Lohse CM, et al. ALK alterations in adult renal cell carcinoma: frequency，clinicopathologic features and outcome in a large series of consecutively treated patients[J]. Mod Pathol,2012,25(11): 1516-25.   \n[10]Chen YY,Takita J,Choi YL,et al.Oncogenic mutations of ALK kinase in neuroblastoma[J]. Nature,2008,455(7215): U56-971.   \n[11] Rothenstein JM,Letarte N. Managing treatment-related adverse events associated with Alk inhibitors [J]. Curr Oncol,2014,21(1): 19-26.   \n[12] Shaw AT,Kim DW,Nakagawa K,et al.Crizotinib versus chemotherapy in advanced ALK-positive lung cancer[J].N Engl J Med, 2013,368(25): 2385-94.   \n[13]王 焱,乔 蕾,孟 春,等.克唑替尼治疗EML4-ALK阳性晚期非小细 胞肺癌的临床疗效观察[J].中国实用医药,2014,9(24):157-8.   \n[14] Siegel RL,Miller KD,Jemal A.Cancer statistics,2O15[J].CA Cancer JClin,2015,65(1): 5-29.   \n[15]Longhin E,Holme JA,Gutzkow KB,et al.Cell cycle alterations inducedbyurbanPM2.5inbronchialepithelialcells: characterization of the process and possble mechanisms involved [J].Part Fibre Toxicol,2013,10(7): 63.   \n[16]Traversi D,Cervella P,GilliG.Evaluating the genotoxicity of urban PM2.5 using PCR-based methods in human lung cells and the Salmonella TA98 reverse test[J].Environ Sci Pollut Res Int,2015, 22(2): 1279-89.   \n[17] Ettinger DS,Wood DE,Akerley W,et al. Non-small cell lung cancer,version 1.2015[J].J Natl Compr Canc Netw,2014,12(12): 1738-61.   \n[18] Shaw AT, Varghese AM, Solomon BJ,et al. Pemetrexed-based chemotherapy in patients with advanced,ALK-positive non-small cell lung cancer[J].Ann Oncol,2013,24(1): 59-66.   \n[19]Camidge DR, Kono SA, Lu X, et al. Anaplastic lymphoma kinase gene rearrangements in non-small cell lung cancer are associated with prolonged progression-free survival on pemetrexed [J].J Thorac Oncol,2011,6(4): 774-80.   \n[20] Solomon BJ,Mok T,Kim DW,et al.First-line crizotinib versus chemotherapy in ALK-positive lung cancer[J].N Engl J Med, 2014,371(23): 2167-77.   \n[21]Park J, Yoshida K,Kondo C,et al. Crizotinib-induced esophageal ulceration:A novel adverse event of crizotinib[J].Lung Cancer, 2013,81(3): 495-6.   \n[22]Solomon B,Wilner KD,Shaw AT. Current status of targeted therapy for anaplastic lymphoma Kinase-Rearranged Non-Small cell lung cancer[J].Clin Pharmacol Ther,2014,95(1):15-23.   \n[23]张 楚,王 琳,赵建华,等.13例EML4-ALK融合基因阳性非小细胞 肺癌的临床病理分析[J].临床肿瘤学杂志,2013,18(5):438-41.   \n[24]王丽杰,郭其森.EML4-ALK融合基因—晚期非小细胞肺癌临床 治疗新靶标[J].中华肺部疾病杂志:电子版,2014,7(1):94-7.   \n[25]Kumarakulasinghe NB,van Zanwijk N, Soo RA. Molecular targeted therapy in the treatment of advanced stage non-small cell lung Cancer (NSCLC)[J].Respirology,2015,20(3): 370-8.   \n[26]Ulivi P, Zoli W,Capelli L,et al. Target therapy in NSCLC patients: Relevant clinical agents and tumour molecular characterisation[J]. Mol Clin Oncol, 2013,1(4): 575-81. （日日） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

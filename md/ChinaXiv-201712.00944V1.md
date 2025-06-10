@@ -1,0 +1,108 @@
+# 基础研究
+
+# siRNA干扰相互作用蛋白1表达抑制胶质瘤细胞的侵袭和迁移
+
+向 伟},漆松涛',刘亚伟',李和珍²,周 强¹，易国仲',陈子阳',严乐1  
+1南方医科大学南方医院神经外科,广东广州 510515;2南方医科大学第五附属医院神经外科,广东广州  
+510900
+
+摘要：目的探讨小干扰RNA(siRNA)干扰降低PC4和SFRS1相互作用蛋白1(PSIP1)的表达对人胶质瘤U87细胞侵袭和迁移的影响并初步探讨其机制。方法 采用化学合成靶向PSIP1的siRNA,脂质体法转染U87细胞,用Real-time PCR检测RNA干扰效率;Transwell侵袭实验测细胞侵袭能力;划痕实验检测其迁移能力;干扰PSIP1表达后，Westem blot检测间质细胞来源的N-cadherin $. { \beta }$ -catenin蛋白和转录因子Slug的表达。结果 PSIP1-siRNA转染胶质瘤U87细胞后,PSIP1的mRNA水平及蛋白水平明显下降 $( P { < } 0 . 0 0 1 \$ ),U87细胞侵袭和迁移能力下降，与阴性转染组及未转染组相比差异有统计学意义！ $\left( P { < } 0 . 0 0 1 , P { < } \right.$ 0.001),Westernblot显示，间质细胞来源的N-cadherin $. { \beta }$ -catenin蛋白表达量降低，同时与上皮间质转化(EMT)相关的转录因子 Slug 的表达降低。结论 在胶质瘤中,抑制 PSIP1的表达可抑制肿瘤细胞的侵袭和迁移，N-cadherin、 $\beta$ -catenin蛋白和转录因子 Slug的表达量降低,提示 PSIP1可通过调控经典 $\mathrm { { W n t / \beta } } .$ -catenin 信号通路来调节 Slug 的表达,进而调控EMT,从而参与胶质瘤U87细胞的侵袭及迁移。
+
+关键词：U87;siRNA干扰；相互作用蛋白1;侵袭；间质转化
+
+# RNA interference of PC4 and SFRS1 interacting protein 1 inhibits invasion and migration of U87 glioma cells
+
+XIANG Wei’,QISongtao’,LIUYawei’,LIHezhen,ZHOu Qiang',YIGuozhong',CHENZiyang,YN $L e ^ { \imath }$ Deprtetfaci;t FifthAfiliated Hospital of Southern Medical University,Guangzhou 51o9oo, China
+
+Abstract: Objective To investigate the efect of smallinterfering RNA (siRNA)-mediated silencingof PC4and SFRS1 interacting protein1 (PSIP1)on invasion and migration of human glioma U87cells.Methods Chemically synthesized siRNA targeting PSIP1 gene was transfected into U87cels via lipofectamine,and the gene silencing effect was determined using real-timePCR.Thechanges inthe invasionand migrationabilitiesofthe transfected cels were assessed with Transwellassay and wound healing assay, respectively. Western bloting was used to analyze the expression of N-cadherin, $\beta$ catenin and the transcription factor Slug.Results ThemRNA and protein levelof PSIP1 was significantly reduced in U87cels after transfection with PSIP1 siRNA $( P { < } 0 . 0 0 0 1 )$ . PSIP1 knockdown in U87 cells resulted in significant suppression of cell invasion and migration abilities $( P { < } 0 . 0 1 )$ and also reduced N-cadherin, $\beta$ catenin and Slug expressions. Conclusions Silencing of PSIP1 impairs the invasion and migration abilities of glioma cells and lowers the expressions of N-cadherin, $\beta$ catenin and Slug, suggesting that PSIP1 may regulate Slug by classical $W \mathrm { n t } / \beta$ catenin signaling pathway to modulate epithelial-mesenchymal transition and promote the invasion and migration of glioma cells.
+
+Key words: U87; RNA interference; PC4 and SFRS1 interacting protein 1; epithelial-mesenchymal transition; invasion
+
+PC4和SFRS1相互作用蛋白1(PSIP1)，也被称为晶状体上皮源性生长因子(LEDGF)是肝癌衍生生长因子家族成员之一,主要在脑、心脏和睾丸等人体组织内表达，还可参与肿瘤细胞的生长、增殖、分化及血管生成等诸多肿瘤病理生理过程[2-3]。在胶质瘤中,其对肿瘤的侵袭、迁移作用尚未见报道。因此，本研究用siRNA干扰技术使PSIP1蛋白表达降低，通过体外侵袭、迁移实验检测U87细胞侵袭迁移能力，探讨PSIP1在胶质瘤发生侵袭转移中的作用，为胶质瘤的靶向治疗提供新的理论依据。
+
+# 1 材料和方法
+
+1.1 材料
+
+人脑胶质瘤U87细胞购置中国科学院上海细胞库；siRNA由上海吉玛制药技术有限公司设计和合成。
+
+Lipofectamine2oooReagent 购自Invitrogen; Transwell小室为Corning产品;PSIP1(1:50O）、Slug、N-cadherin、$\beta \mathrm { . }$ -catenin及 $\beta$ -Actin(1:1000)兔单抗和羊抗兔二抗均购自Sigmao
+
+# 1.2 方法
+
+1.2.1 siRNA设计合成靶向PSIP1基因的特异性siRNA序列为：正义链5'-AGACAGCAUGAGGAAGCGdTdT-3'，反义链3'-dTdTUCUGUCGUACUCCUUCGC-5'。合成的siRNA粉末溶解在RNaseFree $\mathrm { \ d H _ { 2 } O }$ 中，配制成 $2 0 \mathrm { m m o l / L }$ 储存液分装保存，按照转染试剂说明书进行转染）。
+
+1.2.2细胞培养及转染U87细胞使用含 $10 \%$ 胎牛血清及 $1 \%$ 青霉素和链霉素的DMEM置于 $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 湿度充分的恒温培养箱中培养。转染前1d,将U87细胞传代于6孔板中培养，细胞密度应能在 $2 4 \mathrm { h }$ 内使细胞汇合达到 $70 \% { \sim } 9 0 \%$ 。按Lipofectamine2Ooo Reagent说明书进行转染。转染后 $6 { \sim } 8 \mathrm { ~ h ~ }$ 更换含血清的完全培养液培养。
+
+1.2.3Real-timePCR检测将实验分为3组，PSIP1-siRNA转染组、Negtive control-siRNA(NC-siRNA)转染组及未转染组。每组至少3个重复。各组同时检测目标基因和管家基因(GAPDH)的Ct值。分别提取各组转染后 $2 4 \mathrm { ~ h ~ }$ 细胞总RNA，总RNA进行反转录成cDNA，通过实时定量PCR扩增目的基因。反应体系为$2 0 \mathrm { m L }$ ,其中 SYBR Ex Taq $1 0 \mathrm { m L }$ ,上、下游引物各 $0 . 4 \mathrm { m L }$ ，cDNA $2 { \mathrm { ~ m L } }$ $\mathrm { d d H } _ { 2 } \mathrm { O } 7 , 2 \mathrm { m L }$ 。反应条件为： $9 5 ~ \mathrm { ^ { \circ } C }$ 预变性$3 0 \ \mathrm { s } , 9 5 \ \mathrm { ^ c }$ 变性 $5 \ \mathrm { s } , 6 0 \ \mathrm { { ^ { c } C } }$ 退火、延伸 $2 0 ~ \mathrm { s }$ ，反应40个循环。采用 $2 ^ { - \triangle \triangle \mathrm { { c t } } }$ 法分析目的基因mRNA的相对表达水平。扩增基因的特异性引物序列为：GAPDH:5'-ATCATCAGCAATGCCTCCTG-3' (forWard），5'-ATGGACTGTGGTCATGAGTC-3'(reverse);PSIP1:5'-TGTAAAGCCACCCACAAACA-3(forward)，5'-GTTGCTGCCTGTTGACTTGA-3'(reverse)。
+
+1.2.4Westernblotting检测实验分组同1.2.3,转染 $2 4 \mathrm { h }$ 后，提取各组蛋白，测定蛋白浓度。取各组等量的总蛋白进行SDS-PAGE电泳,转膜,封闭,一抗、二抗孵育后显影。所加一抗分别为：PSIP1( $( 1 : 5 0 0 )$ 、Slug、N-cadherin、b-Catenin及 $\mathtt { b { - A c t i n } } ( 1 : 1 0 0 0 )$ 。将所得结果分别进行分析。
+
+1.2.5 细胞侵袭实验实验分组同1.2.3。应用 $8 ~ \mathrm { m m }$ 滤膜Transwell小室，分别收取各组转染 $2 4 \mathrm { h }$ 后PSIP1表达下降的胶质瘤U87细胞和对照细胞采用DMEM重悬，取 $2 0 0 ~ \mathrm { m L }$ 细胞悬液 $\mathrm { 8 { \times } 1 0 ^ { 4 } / m L }$ 加入上室，下室加入$5 0 0 ~ \mathrm { m L }$ 含 $10 \%$ 胎牛血清的DMEM置于 $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 孵箱培养8h后取出。甲醇固定后DAPI染色，置200倍倒置显微镜下观察，随机取10个视野，计数小室下面的
+
+细胞数。实验重复3次。
+
+1.2.6细胞迁移实验实验分组同1.2.3,转染 $2 4 \mathrm { h }$ 后，收取各组细胞，采用无血清培养基传代于新的6孔板中培养，细胞密度以贴壁后细胞汇合达 $90 \%$ 以上为宜，培养过夜， $2 0 0 ~ \mathrm { m L }$ 枪头用于划痕，分别于 $0 . 2 4 . 4 8 \mathrm { h }$ 观察细胞并拍照。计算不同时间段细胞迁移面积。实验重复3次。
+
+# 1.3统计学方法
+
+各组实验数据以均数 $\stackrel { \cdot } { \bf \pm }$ 标准差表示，统计处理采用SPSS20.0和Graphpad6.0软件进行单因素方差分析，$P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1转染 siRNA后U87细胞中PSIP1mRNA水平和蛋白水平的变化
+
+转染 $2 4 \mathrm { h }$ 后，分别提取各组U87细胞的RNA进行检测,验证其干扰效果,PSIP1-siRNA转染组 $0 . 6 8 { \pm } 0 . 0 1$ 较NC-siRNA组 $0 . 9 9 { \scriptstyle \pm 0 . 0 2 }$ 及未转染组 $1 . 1 3 { \pm } 0 . 0 1 \$ U87细胞中PSIP1在mRNA水平明显下降,差异具有统计学意义 $( P { < } 0 . 0 0 1 )$ 。转染 $2 4 \mathrm { h }$ 后，提取各组细胞的蛋白进行Westernblot检测，PSIP1蛋白相对表达强度各组分别为：PSIP1-siRNA转染组 $0 . 2 7 \pm 0 . 0 3$ ,NC-siRNA组$0 . 5 9 { \scriptstyle \pm 0 . 0 4 }$ ，未转染组 $0 . 6 0 { \scriptstyle \pm 0 . 0 5 }$ ;与NC-siRNA组及未转染组比较PSIP1-siRNA转染组细胞中PSIP1蛋白水平下降(图1)。说明siRNA能有效降低U87细胞中PSIP1表达，保证后续实验顺利进行。
+
+# 2.2转染后U87细胞侵袭能力的变化
+
+转染成功后进行侵袭实验，PSIP1-siRNA转染组 $8 \mathrm { ~ h ~ }$ 穿过Transwell小室基底膜的细胞 $8 6 . 7 0 { \scriptstyle \pm 4 . 7 1 }$ 相对于NC-siRNA转染组 $1 4 3 . 4 0 \pm 7 . 4 2$ 和未转染组 $1 5 0 . 3 0 \pm$ 5.27明显减少，差异具有统计学意义 $\left( P { < } 0 . 0 0 1 \right)$ ，NC-siRNA转染组与未转染组之间差异无统计学意义中 $\mathrm { \ P { > } 0 . 0 5 }$ ，图2)。
+
+# 2.3转染后U87细胞迁移能力的变化
+
+转染成功后，PSIP1-siRNA转染组 $2 4 . 4 8 \mathrm { h }$ 细胞迁移面积 $1 0 . 1 1 \pm 0 . 2 5$ 相对于NC-siRNA转染组 $1 7 . 2 8 \pm$ 0.35和未转染组 $1 8 . 1 7 { \scriptstyle \pm 0 . 1 8 }$ 明显减小,差异具有统计学意义 $( P { < } 0 . 0 0 1 )$ ,而NC-siRNA转染组和未转染组之间差异无统计学意义( $P { > } 0 . 0 5$ ，图3）。
+
+# 2.4转染后U87细胞Slug、N-cadherin $\mathrm { . \beta }$ -catenin蛋白的表达
+
+Western blot检测了Slug、N-cadherin $\cdot \beta$ -catenin,结果如图4示,PSIP1-siRNA转染组U87 细胞中,Slug、N-cadherin $\boldsymbol { \mathrm { . } } \boldsymbol { \beta }$ -catenin蛋白表达下调。
+
+# 3讨论
+
+胶质瘤是颅内最常见的恶性肿瘤，目前胶质瘤的治疗以手术切除为主，辅以放疗/化疗等综合治疗，但总体疗效仍不满意,复发率高，预后差[45]。胶质瘤的一个重要特征是高度侵袭性，这种特性使得其与正常脑组织分界不明显而不能用手术方法完全切除。而上皮细胞间质化(EMT)作为肿瘤发展过程中的重要现象，可促进肿瘤细胞的侵袭[7-8]。因此,研究胶质瘤的侵袭浸润对指导胶质瘤的治疗具有重要意义。目前PSIP1/LEDGF在抗艾滋病研究方面取得较大进展[910],同时也参与肿瘤细胞的生长、增殖、分化及血管生成等诸多肿瘤病理生理过程2-3]。但关于PSIP1表达对胶质瘤侵袭、迁移能力的影响及其是否与EMT有关的相关研究尚未见报道。
+
+![](images/e51191d7f03107c6e20942084f41c56722ba878c0888e215268c828a5d255a4f.jpg)  
+图1转染后各组U87细胞PSIP1蛋白(A)和mRNA $( B )$ 的表达 Fig.1 Expression of PSIP1 protein (A） and PSIP1 mRNA (B) in U87 cells transfected with siRNA. $^ { * * * } P { < } 0 . 0 0 1$ vs non-transfected or NC siRNA groups.
+
+![](images/250138796d93e5e7e03f39441f6bb7b59fa7b497317da577c2fc4743aa0b89de.jpg)
+
+本研究通过小RNA干扰技术，下调胶质瘤U87细胞中PSIP1表达，观察了PSIP1水平降低对胶质瘤细胞侵袭、迁移能力的影响。转染培养 $2 4 \mathrm { ~ h ~ }$ 后采用Real-timePCR检测转染效率，结果显示，PSIP1表达明显下降，U87细胞侵袭、迁移能力均显著下降，差异具有统计学意义。表明抑制PSIP1表达可明显降低胶质瘤U87细胞侵袭和迁移能力。以上研究结果表明PSIP1在胶质瘤细胞侵袭中起重要作用。为了初步探讨干扰PSIP1表达对胶质瘤U87细胞侵袭和迁移能力影响机制,结合文献报道[1I-13],肿瘤EMT的发生通常伴随间质细胞来源的N-cadherin $\mathrm { . \beta }$ -catenin、Vimentin及FibroneCtin表达增加。本实验中，通过siRNA干扰降低PSIP1表达后，间质细胞来源的N-cadherin和 $\beta$ -catenin蛋白表达降低，说明PSIP1可通过调节N-cadherin和 $| \beta \rrangle$ -catenin蛋白的表达影响胶质瘤U87细胞的侵袭、迁移能力，从而推断PSIP1可通过EMT影响胶质瘤U87细胞的侵袭、迁移能力。为进一步研究siRNA干扰降低PSIP1表达对U87细胞侵袭及迁移能力的分子机制，本实验检测了EMT密切相关的转录因子Slug在U87细胞中的表达。结果显示,干扰PSIP1表达后,Slug蛋白表达明显下降，说明PSIP1可通过Slug诱导U87细胞发生EMT。Slug属于Snail锌指转录因子超家族成员之一，具有高度保守的锌指结构(C2H2-型)区域，可以通过与靶基因的E-box结构域结合从而抑制其转录，在胚胎发育，肿瘤转移及组织纤维化过程起重要作用[14-15]。在EMT过程中,Slug基因通过抑制E-cadherin的转录与表达，使上皮细胞间紧密连接丢失，失去粘附特性，从而促进上皮细胞向间质细胞转化,参与恶性肿瘤的侵袭与转移[16-17]。此外，目前研究表明，经典Wnt信号通路( $\mathrm { { W n t / \beta } }$ -catenin信号通路)是诱导上皮组织EMT的重要信号通路，Wnt信号通路激活后可使Slug表达增加，从而诱导EMT[8；本实验结果显示干扰PSIP1表达后，调控经典Wnt通路的$\beta \mathrm { . }$ -catenin蛋白表达明显下调，说明PSIP1可通过调控$\mathrm { { W n t / \beta } }$ -catenin信号通路参与胶质瘤的侵袭、迁移。因此，我们推测PSIP1可通过调节 $\mathrm { { W n t / \beta } }$ -catenin信号通路来调节Slug的表达，进而诱导EMT的发生，参与胶质瘤U87细胞的侵袭、迁移。
+
+![](images/8ab59b6905043eac2ba8dc8812cd916140ea81e04047bf12272834f33560887f.jpg)
+
+![](images/ff2b71dbba94212223eca3540f8b954dbd763991fb3804b17b06ac02700c247f.jpg)  
+图4转染后U87细胞N-Cadherin、Slug $\beta$ -Catenin蛋白的表达 Fig.4 Protein expression of N-cadherin, Slug and $\beta$ -catenin in U87 cells after transfection.A: Western blotting results of the protein levels of N-cadherin, Slug and $\beta$ catenin in each group; B: Quantitative protein expression of N-cadherin, Slug and $\beta$ catenin relative to $\beta$ -actin. $* * * P { \ < } 0 . 0 0 1$ $^ { * * } P { < } 0 . 0 1$ us non-transfected or NC siRNA groups.
+
+综合上述,siRNA干扰降低PSIP1表达后，可通过抑制经典 $\mathrm { { W n t / \beta } }$ -catenin信号通路来调节Slug的表达进而调控EMT，从而参与调控U87细胞的侵袭及迁移，这对指导胶质瘤的靶向治疗有重要意义。
+
+# 参考文献：
+
+[1]Dietz F,Franken S,Yoshida K,et al.The family of hepatomaderived growth factor proteins:characterization of a new member HRP-4 and classification of its subfamilies[J].BiochemJ,2OO2,366 (Pt 2): 491-500.   
+[2]Guo S,Liu HD,Liu YF,et al. Hepatoma-derived growth factor:a novel prognostic biomarker in intrahepatic cholangiocarcinoma[J]. Tumour Biol,2015,36(1): 353-64.   
+[3]Ishihara K,Fatma N,Bhargavan B,et al.Lens epithelium-derived growth factor deSumoylation bySumo-specificprotease-1 regulates its transcriptional activation of small heat shock protein and the cellular response[J].FEBS J,2012,279(17): 3048-70.   
+[4]Hegi ME,Diserens AC,Godard S,et al. Clinical trial substantiates the predictive value of O-6-methylguanine-DNA methyltransferase promotermetnyiation in giobiastoma patientstreateaWin temozolomide[J]. Clin Cancer Res,2004,10(6): 1871-4.   
+[5]Stupp R,Mason WP,Van Den Bent MJ,et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma[J].N Engl J Med,2005,352(10): 987-96.   
+[6]Paw I,Carpenter RC,Watabe K,et al. Mechanisms regulating glioma invasion[J]. Cancer Lett,2015,362(1): 1-7.   
+[7]Micalizzi DS,Ford HL.Epithelial-mesenchymal transition in development and cancer[J].Future Oncol,20o9,5(8): 1129-43.   
+[8]Huangyang P, Shang Y. Epigenetic regulation of epithelial to mesenchymal transition[J]. Curr Cancer Drug Targets,2O13,13(9): 973-85.   
+[9]Basu A,Woods-Burnham L, Ortiz G, et al. Specificity of antinuclear autoantibodies recognizing the dense fine speckled nuclear pattern: Preferential targeting of DFS7O/LEDGFp75 over its interacting partner MeCP2[J]. Clin Immunol, 2015,161(2): 241-50.   
+[10]Desimmie BA, Weydert C, Schrijvers R,et al. HIV-1 IN/pol recruits LEDGF/p75 into viral particles[J]. Retrovirology,2015,12(1): 16.   
+[11]Kahlert UD,Nikkhah G,Maciaczyk J.Epithelial-to-mesenchymal (-like) transition as a relevant molecular event in malignant gliomas [J]. Cancer Lett,2013,331(2): 131-8.   
+[12]Zhang X,Liu G,Kang Y,et al. N-cadherin expression is associated with acquisition of EMT phenotype and with enhanced invasion in erlotinib-resistant lung cancer cell lines[J]. PLoS One,2013,8(3): e57692.   
+[13]Rizvi I,Gurkan UA,Tasoglu S,et al. Flow induces epithelialmesenchymal transition,cellular heterogeneity and biomarker modulation in 3D ovarian cancer nodules[J].Proc Natl Acad Sci USA,2013,110(22): E1974-83.   
+[14]陈立芬,杨智宇.Slug转录因子在肿瘤侵袭转移中的研究进展[J].中 国临床保健杂志,2011,14(5):556-9.   
+[15]Wang Y,Shi J,Chai K,et al.The role of snail in EMT and tumorigenesis[J].Curr Cancer Drug Targets,2013,13(9): 963-72.   
+[16]Morita T, Mayanagi T, Sobue K. Dual roles of myocardin-related transcription factors in epithelial mesenchymal transition via slug induction and actin remodeling[J].J Cell Biol,2007,179(5): 1027-42.   
+[17]Yang AD,Camp ER,Fan F,et al. Vascular endothelial growth factor receptor-1 activation mediates epithelial to mesenchymal transition in human pancreatic carcinoma cells[J].Cancer Res,2Oo6,66(1): 46-51.   
+[18]Prasad CP,Rath G,Mathur S,et al. Expression analysis of E-cadherin,Slug and GSK3beta in invasive ductal carcinoma of breast[J].BMC Cancer,2009,9(6): 325.
+
+(编辑：孙昌朋)

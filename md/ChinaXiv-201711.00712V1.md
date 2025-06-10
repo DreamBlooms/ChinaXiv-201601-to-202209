@@ -1,0 +1,159 @@
+# 交替灌溉对小麦/蚕豆间作系统作物生理生态特性的影响
+
+杨彩红1 柴强2\*\*
+
+(1.甘肃农业大学林学院兰州730070;2.甘肃省干旱生境作物学重点实验室/甘肃农业大学农学院兰州730070)
+
+摘要为探明交替灌溉对小麦/蚕豆间作系统作物生理状况和生长发育的影响，揭示交替灌溉的节水机理，以小麦、蚕豆为材料，采用根箱试验，设置交替灌溉(A)、传统灌溉(T)2种灌溉方式和单作小麦(SW)、单作蚕豆(SF)、小麦间作蚕豆(IWF)3种种植模式，于2008年3—11月在甘肃农业大学网室系统研究了交替灌溉对小麦/蚕豆间作作物叶片水分生理和生物量分配的影响。结果表明：1)与传统灌溉相比，交替灌溉条件下间作小麦、间作蚕豆叶片的叶绿素含量增加，叶片相对含水量、叶水势等水分生理指标减小；不同灌溉方式间小麦间作蚕豆生理特性差异不显著。不同种植模式之间，间作显著增加了小麦和蚕豆叶片的叶绿素含量、叶片相对含水量和叶水势。2)交替灌溉小麦间作蚕豆在保持光合速率基本不变的情况下，蒸腾速率、气孔导度降低，与传统灌溉相比，交替灌溉间作小麦蒸腾速率、气孔导度分别降低了 $1 0 . 9 9 \% \cdot 2 0 . 9 9 \%$ ，间作蚕豆分别降低 $6 . 6 6 \%$ 、$1 1 . 6 3 \%$ 。3)与传统灌溉相比，交替灌溉降低了作物的地上部干物质量，增加了根冠比，其中交替灌溉间作小麦和间作蚕豆的根冠比分别较传统灌溉提高 $1 4 . 4 7 \%$ 和 $1 8 . 1 8 \%$ 。4)间作有利于作物产量的提高，交替灌溉和常规灌溉间作小麦的收获指数分别较相应单作增加 $8 . 6 8 \%$ 和 $2 . 7 2 \%$ ，间作蚕豆分别较相应单作处理增加 $4 . 7 8 \%$ 和$5 . 2 3 \%$ 。可见，对小麦间作蚕豆实行交替灌溉，可以调节光合产物在根冠间的分配，优化根冠比，是一种切实可行的灌溉方式。
+
+关键词交替灌溉小麦/蚕豆间作水分利用效率生物量产量收获指数中图分类号：S275 文献标识码：A 文章编号:1671-3990(2016)07-0883-10
+
+# Effects of alternative irrigation on eco-physiological characteristics of wheat/faba-bean intercropping
+
+YANG Caihong', CHAI Qiang2\*\* (1.CollegeofForestryGansuAgriculturalUniversity,Lanzhou73o7o,China;2.GansuProvincialKeyLaboratoryofAridLand Crop Science /Collge of Agronomy,Gansu Agricultural University,Lanzhou 73oo70, China)
+
+AbstractWheat/faba-beanstrip intercroppingisacommon intereropping system inNorthwestChina,whichhassignificantly contributedtofoodscurityandpovertyallviationHowever,traditionalnet irigationquotaforheat/faba-beanintercopngis relative higher,depeningtheconflictbetween waterresourcessuplyanddemand inagriculture.Thealternating iigationisa biological water-savingtechiquethatisextensivelyused inagricultural productioninaridandsem-aridareas,whichisassumedto increaseWUEandmaintain high yieldin wheat/faba-beanintercroppingsystem.Inorder todeterminetheeffectsof alternating irrigatioon physiologyresponseand yieldof wheat/faba-bean intercroppng，arootboxexperiment wasconducted inglass greenhouseconditioninGansu Agricultural Universityin2o8.Theexperimenthadtwoiigationmethods [alternatingiigation(A) andconventionaliigation()]andtreeplantingpates[soleeat (SW),solefaba-bean(SF）andintercroppedweat/fba-bean (IWF).Theresultsshowedthatleafchlorophyllcontentofintercroppedwheatandfaba-beanicreasedunderalteratingiigation condition.Onthecontrary,leafrelativewatercontentandleafwaterpotentialdecreasedcomparedwithonventionaliigation treatment.However,there werenosignificantdiferencesbetweenthetworigatiomethodsforwheat intercroppedwithfaba-bean. Leafchlorophyllcontentandleafwaterpotentialofintercroppedheat were higherthanthoseofsolecroping.Alsoleafchlorophyl content,leafrelative watercontentandleafwaterpotentialof intercroppedfaba-beanweresignificantlyigherthanthoseofsole faba-bean. Compared with conventional irigation treatment,transpiration rate and stomatal conductance reduced by $10 . 9 9 \%$ and $6 . 6 6 \%$ ,respectively,in intercropped wheat leaves,and by $6 . 7 8 \%$ and $5 . 3 2 \%$ ,respectively, in intercropped faba-bean leaves under alternating irigationconditions.Thusleaf wateruseefciencyofwheat/faba-beanintercroppingunderalternatingirrigation improved.Comparedwithconventional irigation，shot dryweightof sole wheat，sole faba-bean，intercroppedwheatand intercroppedfaba-beandecreased,whileot/shootatiosigificantlyincreasduderalteratingirigation.Therot/sootatioof sole wheat,sole faba-bean,intercropped wheat and intercropped faba-bean in alternating irrigation treatments were $14 . 4 7 \%$ $7 . 5 6 \%$ ， $3 6 . 3 6 \%$ and $1 9 . 6 3 \%$ higher than those of conventional irrigation,respectively. Compared with sole cropping, yield of intercropping treatments generallyincreased.Thearvest indexesofinterroppedheatunderalteratingandconventionalirrgationincreasedby $8 . 6 8 \%$ and $2 . 7 2 \%$ over those of corresponding sole wheat treatment,respectively.Also harvest index ofintercropped faba-bean under alternating and conventional irrigation increased by $4 . 7 8 \%$ and $5 . 2 3 \%$ over those of the corresponding sole faba-bean treatment, respectively.Inconclusion,wheat/faba-beanintercropingunderalteratingirrgation maintained highleaf wateruseeffciencyof wheatand faba-bean by increasingroot growthandroot/shootratio.It significantlyreduced excesive transpiration withoutmuch reductioninpotosyntheticrate.Theresearchsuggestedthatwheat/faba-bean intercroppingunderaltermating irigationhadthe potential for the realization of high-quality and efficient irrigation.
+
+KeywordsAlternatingirrigation;Wheat/faba-beanstrip intercropping; Wateruseeficiency;Biomas; Yield; Harvestindex
+
+水土资源短缺对农业生产的制约程度日益加剧研究农田高效灌溉技术，对提高资源利用效率及促进农业生产发展都具有积极意义。根系作为作物地上与地下部分物质及信息交换的重要系统，对作物生长发育和产量形成具有重要影响。根系分区交替灌溉通过主动控制植物根区的交替湿润和干燥，使部分根系经受一定程度的水分胁迫，刺激根系吸收补偿功能[1]。植物部分根系处于水分胁迫时，产生的根源信号脱落酸传输到叶片，可以调节气孔保持最适开度，达到不损耗光合产物积累、减少奢侈蒸腾而节水优产的目的[2],其节水机理是根据作物光合作用、蒸腾作用与叶片气孔开度关系以及由土壤水分亏缺产生的作物水分胁迫信号调节气孔开度[3]。大量研究表明，根系分区交替灌溉技术可有效控制作物生长冗余，调节光合产物在根冠间的比例和分配优化根冠比，在保持相同光合速率水平下大大降低叶片蒸腾损失，提高叶片水分利用效率[1,4-8]。
+
+间作套种是我国传统精耕细作农业的重要组成部分，对促进农业可持续发展具有重要作用。目前对间作的研究多集中在复合群体作物组合[9]、病虫害防治[10]、养分利用[11-13]和光能利用[14]等领域，对复合群体水分高效管理及其高效利用机理研究仍比较薄弱，加之以往复合群体水分利用领域的研究多建立在相对较高的供水水平下，难以作为供水有限区复合群体水分高效管理的技术依据。由两种或两种以上作物组成的间作群体中，不同作物的需水特性不同，但传统间作灌溉制度只按某一作物的需水特性制定，容易造成配对作物水分的供需错位，使水分无效损耗增大。因此，设计间作灌溉制度时，若能同时考虑不同作物的需水特性和种间互补高效用水机制，并对不同作物分带供水，则可以提高供水与间作群体作物需水的吻合度，并创造不同作物间的交替供水，形成类似于交替灌溉技术的模式。笔者于2006—2009年在甘肃省石羊河流域干旱荒漠绿洲区研究了小麦(Triticumaestivum)间作玉米(Zeamays)实行根系分区交替灌溉后的节水效应，证实了干旱荒漠绿洲区在小麦间作玉米上应用根系分区交替灌溉具有较大的节水增产潜力。由于大田试验条件的限制，对根系分区灌溉模式下小麦/蚕豆(Viciafaba)间作作物生长和生理生态调节机制缺乏系统深入的研究。为此，本研究采用交替灌溉小麦间作蚕豆的根箱控水试验，探讨交替灌溉对小麦间作蚕豆的生长调节与水分生理的影响，为构建基于交替灌溉理论的间作节水技术提供理论和实践支撑。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+试验于2008年3—11月在甘肃农业大学网室内进行。供试土壤为碱性灌淤土，取自甘肃农业大学校内实习基地，田间持水量为 $2 4 . 2 4 \%$ ，全氮、全磷含量分别为 $1 . 7 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ $0 . 7 5 \ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，有效氮 $1 9 0 . 6 ~ \mathrm { m g ^ { - 1 } { k g } ^ { - 1 } }$ ，速效磷 $3 0 . 1 8 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ， $\mathrm { p H } 7 . 9 5$ 。供试春小麦为‘永良
+
+4号'，由甘肃省农业科学院提供；蚕豆为临夏农业科学研究所提供的'临蚕五号'。试验根箱用PVC(聚氯乙烯)材料制作，规格为 $9 0 ~ \mathrm { c m } { \times } 3 0 ~ \mathrm { c m } { \times } 6 0 ~ \mathrm { c m }$ ，箱体周围用木板封住。其中单作处理由聚氯乙烯板把1室分为2室，从而使小麦、蚕豆根系的生长区相隔离，间作处理不使用隔板，两种作物的根系可自由交叉生长。
+
+# 1.2 设计与管理
+
+试验设传统灌溉(T，每次对全箱土壤均匀灌水)、交替灌溉(A，每条沟在两次灌水之间实行干湿交替，首次灌水沟下次不灌水，反复交替进行)2种供水方式，单作小麦(SW)、单作蚕豆(SF)、小麦间作蚕豆(W/F)3种种植模式，组成6个处理，每处理重复3次。小麦/蚕豆间作、小麦单作和蚕豆单作田间结构如图1所示，单作小麦和单作蚕豆均为每箱种3行，行距 $1 5 \ \mathrm { c m }$ ；小麦间作蚕豆单行种植，行距 $1 5 \ \mathrm { c m }$ 小麦蚕豆占地比例 $1 : 1$ 。每个根箱的播前施肥水平一致，分别为氮肥(纯 $\mathrm { N ) 2 0 0 ~ m g ^ { . } k g ^ { - 1 } ( \pm ) }$ ，磷肥(纯 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ,$ 门$2 0 0 ~ \mathrm { { m g } { \cdot k g } ^ { - 1 } ( \pm ) }$ 。供试土壤风干后过 $2 ~ \mathrm { m m }$ 筛，与肥料混合均匀后装入根箱，浇水至田间持水量的 $60 \%$ 保证各处理的含水量均匀一致，待表土稍干后播种。播前种子进行催芽处理，苗齐后间苗。根箱置于室外，空中搭塑料棚以排除雨水干扰，箱內壁覆塑料膜后装与肥料混匀土 $1 5 0 ~ \mathrm { k g _ { \circ } }$ ，装土时分别在两行中央插2根直径 $2 . 5 \mathrm { c m }$ 的PVC管用于灌水，管上交错打3行直径 $5 \mathrm { m m }$ 的小孔用于渗水，每行15个，孔间距 $2 . 5 \ \mathrm { c m }$ ，管中装上石子，管四周和底部用两层纱网包裹，以防土壤因灌水而引起的土壤板结。顺箱宽度方向起微垄用于播种作物，垄间形成 $1 0 \ \mathrm { c m }$ 的灌水沟；小麦、蚕豆苗齐时，分别以单作小麦、单作蚕豆为对照，采用称重法确定灌水量，生育期内保持土壤水分水平为田间持水量的 $60 \%$ ，每5d灌水一次。传统灌为各沟内平均分配灌水量，交替灌为一沟灌、相邻沟不灌干湿交替。小麦3月15日播种，蚕豆3月25日播种，待小麦、蚕豆苗齐后，定苗至小麦每行15株、蚕豆每行3株；7月8日收获小麦，7月10日收获蚕豆。试验各处理其余田间管理措施均保持一致。
+
+美大事主 美美主建美美小麦t ▲0.15m→ Faa-bean 小麦t 0.15m 聚氯乙板 0.15m Faa-ean+++ ++ +++ +++1 ★ ++++
+
+# 1.3 测定项目与方法
+
+叶绿素含量：分别在小麦的拔节期、抽穗期和灌浆期，采集小麦、蚕豆鲜叶带回实验室后，用去离子水清洗干净，擦干混合称取鲜叶 $0 . 0 5 \mathrm { ~ g ~ }$ ，采用丙酮-无水乙醇混合提取法测定。
+
+光合日变化：选取长势较均匀一致的健壮小麦和蚕豆植株，蚕豆选择从上到下第3片完全展开的成熟叶片，小麦选择旗叶进行测定。利用美国CID公司生产的CI-301便携式光合作用测定仪测定叶片的光合速率、蒸腾速率和气孔导度等指标，测定时间为2008年6月10日6:00—18:00，每2h测定一次，每次测定3个重复。
+
+叶片相对含水量：在小麦拔节期、抽穗期和灌浆期，每箱取相同的功能叶片6片，将叶片剪成1cm左右的小段，混匀后分成3份，称重后分别放入盛有蒸馏水的培养血中使其吸水饱和24h，再称重，烘箱中杀青后 $8 0 \mathrm { ~ ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘至恒重。
+
+叶片相对含水量(RWC, $\% = 1$ [(鲜重-干重)/(吸胀后饱和重-干重) $1 \times 1 0 0 \%$ (1)
+
+叶水势：采用美国产WP4露点土壤/植物水势仪测定。其原理是采用非热电偶方式，根据物体具有的水势与物体在空间中达到平衡时的水气压具有一定的函数关系，在保持温度平衡状态下，WP4通过测量封闭样品室的相对湿度，然后根据内部函数计算出物件水势；此装置可实现 $1 5 { \sim } 4 0 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的内部控温，精度为 $\pm 0 . 2 \mathrm { ~ \ ^ ~ { \circ ~ } C ~ }$ 。分别在小麦拔节期、抽穗期和灌浆期，于上午9:00—11:00时随机采取小麦、蚕豆新鲜叶片，放入样品室测定叶水势。
+
+根冠比测定：作物收获后，采集各处理根系及地上部分，然后在 $1 0 5 ^ { \circ } \mathrm { ~ \mathcal ~ { ~ C ~ } ~ }$ 杀青 $ { \mathrm { \cdot } } 3 0  { \mathrm { ~ m i n } }$ 后于 $6 0 \mathrm { ~ \textdegree ~ }$ 烘至恒重，计算根冠比。
+
+根冠比 $( \% ) { = }$ （根干重/地上部干重） $1 \times 1 0 0 \%$
+
+产量：小麦收获后取样20株，蚕豆成熟后取样5株，测定其风干质量，计算产量。
+
+# 1.4 数据处理
+
+采用MicrosoftExcel2007统计分析软件进行数据处理和制图，方差分析和多重比较分别采用SPSS16.0统计软件中的one-wayANOVA和LSD( $( a { = } 0 . 0 5 )$ 方法完成，试验数据均表示为平均值 $\cdot \pm$ 标准误差。
+
+# 2 结果与分析
+
+# 2.1不同灌水方式下小麦/蚕豆间作系统作物叶片光合生理特性的变化
+
+# 2.1.1 叶绿素含量的变化
+
+交替灌溉条件下小麦、蚕豆不同生育期叶片叶绿素含量测定结果(表1)显示，各处理表现趋势基本相同，小麦叶绿素含量乳熟期明显低于抽穗期，蚕豆叶绿素含量结荚期明显低于开花现蕾期，差异均达到显著。与单作小麦相比，间作小麦的叶绿素含量增加$1 . 8 9 \% { \sim } 2 6 . 6 6 \%$ ，且交替灌溉处理在乳熟期的差异存在显著性；与单作蚕豆相比，间作蚕豆的叶绿素含量增加 $1 3 . 9 3 \% { \sim } 2 9 . 7 9 \%$ ，差异均达到显著。交替灌溉能够提高小麦间作蚕豆上位叶片叶绿素含量，尤其在小麦乳熟期和蚕豆结荚期，交替灌溉间作小麦叶片的叶绿素含量较常规灌溉提高 $1 . 5 6 \% { \sim } 8 . 1 4 \%$ ，交替灌溉间作蚕豆叶片的叶绿素含量分别比常规灌溉提高$6 . 4 7 \% { \sim } 1 0 . 0 3 \%$ ，差异均不显著。交替灌溉单作小麦和单作蚕豆的叶绿素含量分别较常规灌溉有所降低，但降低的幅度较小，差异均不显著；其中，交替灌溉单作小麦叶片的叶绿素含量比常规灌溉处理降低$0 . 1 5 \% { \sim } 5 . 0 9 \%$ ，交替灌溉单作蚕豆叶片的叶绿素含量比常规灌溉处理降低 $0 . 2 8 \% { \sim } 1 . 8 8 \% _ { \circ _ { 0 } }$ 方差分析结果表明，不同种植模式对除小麦抽穗期外小麦、蚕豆其他各生育期叶片叶绿素含量的影响均达到显著水平（204号 $( P { < } 0 . 0 5 )$ ，灌溉方式对各处理作物叶片叶绿素含量的影响均不显著 $( P { > } 0 . 0 5 )$ 。因此，交替灌溉并未降低作物对干旱环境的适应能力，叶绿素受逆境而破坏的敏感程度也未受影响。
+
+表1不同灌溉方式下小麦和蚕豆不同生育期叶片叶绿素含量的变化Table1Chlorophyll contents in leaves of wheatandfaba-bean at different growth stages indiferent irrigation treatments $\mathbf { m g \cdot g ^ { - 1 } }$ （204  
+
+<html><body><table><tr><td colspan="2">处理</td><td colspan="3">小麦Wheat</td><td colspan="3">蚕豆Faba bean</td></tr><tr><td colspan="2">Treatment</td><td>拔节期 Jointing</td><td>抽穗期 Heading</td><td>乳熟期 Milky</td><td>拔节期 Jointing</td><td>现蕾期 Squaring</td><td>结英期 Pod-setting</td></tr><tr><td rowspan="3">交替灌溉 Alternative irrigation 传统灌溉</td><td>单作 Sole cropping</td><td>1.354±0.105a</td><td>4.506±0.312a</td><td>2.902±0.197b</td><td>1.511±0.118b</td><td>4.261±0.361b</td><td>2.138±0.204b</td></tr><tr><td>间作 Intercropping</td><td>1.715±0.183a</td><td>4.701±0.410a</td><td>3.267±0.211a</td><td>1.881±0.125a</td><td>5.363±0.403a</td><td>2.775±0.216a</td></tr><tr><td>单作 Sole cropping</td><td>1.423±0.121a</td><td>4.513±0.395a</td><td>2.965±0.237b</td><td>1.536±0.120b</td><td>4.341±0.372b</td><td>2.144±0.199b</td></tr><tr><td>Conventional irrigation</td><td>间作 Intercropping</td><td>1.644±0.148a</td><td>4.629±0.411a</td><td>3.021±0.219a</td><td>1.750±0.181a</td><td>5.037±0.398a</td><td>2.522±0.213a</td></tr><tr><td colspan="2">灌溉方式 Irrigation method (I)</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td colspan="2">种植模式 Planting pattern (P)</td><td>*</td><td>NS</td><td>*</td><td>*</td><td>*</td><td>*</td></tr><tr><td colspan="2">灌溉方式×种植模式I×P</td><td>NS</td><td>*</td><td>NS</td><td>NS</td><td>*</td><td>NS</td></tr></table></body></html>
+
+表中数据为各处理3个重复的平均值，同列数值间不同字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 。 $^ { * * }$ 和 $^ *$ 分别表示差异达 $1 \%$ 和 $5 \%$ 显著水平,NS表示差 异不显著，下同。Eachvalueisthemeanof3replicatesofthetreatment;measwitiacolumnfolloedbydierentletersaresignificantly different at $P < 0 . 0 5$ $^ { * * }$ and \* indicate significant difference at $1 \%$ and $5 \%$ levels,respectively,and NS means no significant diference.The same below.
+
+# 2.1.2 光合日变化
+
+图2为6月份不同灌溉条件下作物关键生育期(小麦灌浆期、蚕豆结英期)全天光合特性差异性比较(测定时的天气情况：日最高气温为 $3 1 . 7 \mathrm { ~ \ ^ { \circ } C }$ ，最低气温为 $1 3 . 9 ~ \mathrm { ~ \textdegree ~ }$ ，空气湿度日均值为 $3 2 . 6 \%$ ，天气晴朗)。可以看出，不同处理作物叶片的净光合速率 $( P _ { \mathrm { { n } } } )$ 日变化均呈同步“双峰"曲线，第1峰值均出现在12:00左右，第2峰值推后到16:00左右，在14:00有较为明显的光合“午休"现象。不同灌溉方式之间比较，传统灌溉处理小麦和蚕豆叶片 $P _ { \mathrm { { n } } }$ 峰值均高于交替灌溉处理，上午的差异不明显，下午的差异显著。与传统灌溉相比，交替灌溉单作小麦、单作蚕豆、间作小麦和间作蚕豆的 $P _ { \mathrm { { n } } }$ 分别平均降低 $8 . 0 0 \%$ 、 $1 . 5 9 \%$ $9 . 9 1 \%$ 和 $1 . 4 8 \%$ ，2种灌溉方式下小麦和蚕豆叶片 $P _ { \mathrm { { n } } }$ 的差异未达到显著水平 $( P { > } 0 . 0 5 )$ 。不同种植模式之间，交替灌溉处理小麦间作蚕豆的 $P _ { \mathrm { { n } } }$ 分别较单作小麦、单作蚕豆提高 $1 . 1 0 \% { \sim } 2 5 . 6 9 \%$ 和 $1 . 6 0 \% { \sim } 1 9 . 7 9 \%$
+
+灌溉方式对不同种植模式作物蒸腾速率 $( T _ { \mathrm { r } } )$ 的影响不同。传统灌溉处理单作小麦、单作蚕豆、间作小麦和间作蚕豆作物叶片的 $T _ { \mathrm { r } }$ 日变化与其光合日变化趋势基本一致，均呈“双峰"型曲线，峰值分别出现于12:00和16:00。交替灌溉处理作物叶片的 $T _ { \mathrm { r } }$ 日变化呈单峰曲线，各时间段值较传统灌溉有所下降，其峰值均出现在午后的14:00，相对于其光合具有相对滞后的现象，这是由于交替灌溉条件下，叶片水分亏缺，叶肉细胞间隙的水气饱和程度降低，作物蒸腾始终处于相对较低的水平。与传统灌溉处理相比，交替灌溉处理的单作小麦、单作蚕豆、间作小麦和间作蚕豆叶片的 $T _ { \mathrm { r } }$ 分别平均降低 $6 . 4 5 \%$ 、 $1 3 . 1 6 \%$ /$10 . 9 9 \%$ 和 $6 . 6 6 \%$ 。不同种植模式之间，间作小麦和间作蚕豆的叶片 $T _ { \mathrm { r } }$ 分别平均较相应单作增加 $9 . 1 7 \%$ 和 $7 . 6 6 \text{‰}$ 方差分析结果表明，种植模式对各处理作物叶片 $T _ { \mathrm { r } }$ 的影响差异显著 $( P { < } 0 . 0 5 )$ ，灌水方式对间作小麦和单作蚕豆处理的 $T _ { \mathrm { r } }$ 影响达到显著水平$( P { < } 0 . 0 5 )$ 。
+
+气孔导度 $( G _ { \mathrm { s } } )$ 较大时有利于植物进行水气交换，而 $G _ { \mathrm { s } }$ 较小时则能抑制水分的流失。图2表明，传统灌溉条件下，单作小麦、单作蚕豆和小麦间作蚕豆的 $G _ { \mathrm { s } }$ 日变化呈“双峰"型曲线；而在交替灌溉条件下，无“双峰"特征，不同种植模式在各时段的 $G _ { \mathrm { s } }$ 值均有所下降，交替灌溉处理的单作小麦、单作蚕豆、间作小麦和间作蚕豆叶片的 $G _ { \mathrm { s } }$ 分别较传统灌溉降低
+
+$1 9 . 3 2 \%$ 、 $1 8 . 7 1 \%$ 、 $20 . 9 9 \%$ 和 $1 1 . 6 3 \%$ 。与相应单作相比，交替灌溉间作小麦和间作蚕豆 $G _ { \mathrm { s } }$ 值的降幅分别为 $2 . 0 1 \%$ 和 $- 0 . 2 9 \%$ ，传统灌溉间作小麦和间作蚕豆$G _ { \mathrm { s } }$ 值的降幅分别为 $- 0 . 0 6 \%$ 和 $7 . 7 5 \% _ { \textmd c }$
+
+从单叶水平的水分利用效率(WUE)来看，交替灌溉单作小麦、单作蚕豆、间作小麦和间作蚕豆的WUE分别较传统灌溉的增幅为 $- 0 . 4 0 \%$ 、 $3 . 8 4 \%$ 、$8 . 8 8 \%$ 和 $1 0 . 7 6 \%$ ，方差分析结果表明，种植模式对各处理作物叶片水分利用效率的影响差异不显著$( P { > } 0 . 0 5 )$ ，灌水方式对单作和间作蚕豆处理的叶片水分利用效率影响达到显著水平 $( P { < } 0 . 0 5 )$ 。说明在光合速率基本保持不变的情况下，交替灌溉处理可以降低其蒸腾速率和气孔导度，从而提高作物的水分利用效率，其原因可能是交替灌溉小麦间作蚕豆可以使小麦、蚕豆处于适度的干旱胁迫，诱导根系合成更多的脱落酸(ABA)，调节地上部叶片的气孔开度，降低作物的奢侈蒸腾量，从而提高作物单叶的水分利用效率(WUE)。因此，从提高单叶的水分利用效率来看，对小麦间作蚕豆实行交替灌溉是可行的。
+
+![](images/b980ecbbaac1b0719953f0e0961f55c29d6858d768e187e7b2e5cbb17a43c840.jpg)  
+图2不同灌溉方式对小麦和蚕豆光合特性的影响 Fig.2Leaf photosynthetic characteristics of wheat and faba-bean in different irigation treatments SWA:交替灌溉单作小麦；SFA:交替灌溉单作蚕豆；IWA:交替灌溉间作小麦；IFA:交替灌溉间作蚕豆；SWT:传统灌溉单作小 麦；SFT:传统灌溉单作蚕豆;IWT:传统灌溉间作小麦；IFT:传统灌溉间作蚕豆。SWA:sole cropped wheat with alternative irigation; SFA:solecroppedfab-banithalteativeiigatioIWA:interoedatwithleativeigation;IFintereopedfab-ban withalteratiegatiooleodatihetioalgatio;oleodbeioealtio; IWT: intercropped wheat with conventional irrigation; IFT: intercropped faba-bean with conventional irrigation.
+
+# 2.2 不同灌水方式下小麦/蚕豆间作系统作物水分特征的变化
+
+# 2.2.1 叶片相对含水量
+
+叶片相对含水量是准确评价叶片水分状况的指标之一，可反映组织的抗脱水能力。本试验结果表明(表2)，小麦、蚕豆的叶片相对含水量对种植模式的反应不同，交替灌溉间作小麦的叶片相对含水量在拔节期、抽穗期、灌浆期分别平均较相应单作降低$0 . 5 1 \%$ 、 $3 . 2 2 \%$ 和 $1 . 6 6 \%$ ，传统灌溉间作小麦的叶片相对含水量在拔节期、抽穗期和灌浆期分别平均较相应单作降低 $3 . 9 6 \% . 2 . 6 4 \%$ 和 $1 . 6 4 \%$ ，而交替灌溉间作蚕豆的叶片相对含水量在拔节期、现蕾期和结英期期分别平均较单作蚕豆增加 $0 . 6 6 \%$ $2 . 2 2 \%$ 和 $2 . 5 4 \%$ ，传统灌溉间作蚕豆的叶片相对含水量在拔节期、现蕾期和结荚期分别平均较单作相应增加 $2 . 8 4 \%$ 、 $3 . 1 3 \%$ 和$2 . 8 7 \text{‰}$ 不同灌溉方式之间，经交替灌溉处理后，作物的叶片相对含水量均有不同程度的减少，降幅为$0 . 2 6 \% { \sim } 4 . 2 9 \%$ ，交替灌溉单作小麦和间作小麦的叶片相对含水量分别比传统灌溉平均降低 $2 . 3 5 \%$ 和 $1 . 3 5 \%$ 其中，单作小麦在拔节期达到显著性差异；交替灌溉间作蚕豆和单作蚕豆分别比传统灌溉降低 $0 . 8 7 \%$ 和$2 . 0 6 \%$ ，差异均不显著 $( P { > } 0 . 0 5 )$ 。可见，无论是间作还是单作，交替灌溉处理并未显著影响作物叶片的相对含水量。但在试验过程中发现，交替灌溉处理的小麦、蚕豆在成熟期叶片明显脱落，表现出一定的缺水症状，由于生育后期植株上部叶片较下部吸收水分能力强，因此下部叶片缺水造成脱落，而测定叶片相对含水量时一般取植株中部新生叶片，因此造成不同灌溉处理的叶片相对含水量差异不显著。随着作物生育进程的推进，叶片相对含水量的变化趋势基本不变，但在作物生育后期叶片相对含水量逐渐变小，反映了小麦、蚕豆生育进程中叶片老化的规律。
+
+表2不同灌溉方式对小麦和蚕豆不同生育期叶片相对含水量的影响ble 2Leaf relative water contents of wheat andfaba-bean at different growth stages in diferent irigation treatments  
+
+<html><body><table><tr><td rowspan="3" colspan="2">处理 Treatment</td><td colspan="3">小麦Wheat</td><td colspan="3">蚕豆Faba-bean</td></tr><tr><td>拔节期 Jointing</td><td>抽穗期 Heading</td><td>灌浆期 Filling</td><td>拔节期 Jointing</td><td>现蕾期 Squaring</td><td>结英期 Pod-setting</td></tr><tr><td>交替灌溉 Alternative</td><td>单作 Sole cropping</td><td>70.24±0.326b</td><td>71.54±0.314ab</td><td>68.25±0.261b</td><td>69.68±0.187b</td><td>68.16±0.190b</td><td>66.12±0.200b</td></tr><tr><td>irrigation</td><td>Interpging</td><td>69.88±0.227b</td><td>69.24±0.305c</td><td>67.12±0.238c</td><td>70.14±0.275b</td><td>69.71±0.213b</td><td>67.84±0.197a</td></tr><tr><td>C传al</td><td>Sole crping</td><td>73.25±0.315a</td><td>72.35±0.268a</td><td>69.36±0.207a</td><td>70.12±0.283b</td><td>69.34±0.228b</td><td>66.29±0.189b</td></tr><tr><td>irrigation</td><td>间作 Intercropping</td><td>70.35±0.320b</td><td>70.44±0.249b</td><td>68.22±0.197b</td><td>72.17±0.212a</td><td>71.58±0.231a</td><td>68.25±0.227a</td></tr><tr><td colspan="2">灌溉方式 Irrigation method (I)</td><td>*</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td colspan="2">种植模式 Planting pattern (P)</td><td>*</td><td>*</td><td>NS</td><td>*</td><td>NS</td><td>*</td></tr><tr><td colspan="2">灌溉方式×种植模式I×P</td><td>*</td><td>NS</td><td>NS</td><td>*</td><td>NS</td><td>NS</td></tr></table></body></html>
+
+# 2.2.2 叶水势
+
+叶水势是反映植物体内水分亏缺的重要生理指标。由表3可以看出，整个试验期间，间作小麦处理叶水势基本高于单作小麦处理，在拔节期、抽穗期和灌浆期分别比单作平均提高 $4 . 7 1 \%$ 、 $1 . 6 1 \%$ 和$0 . 7 2 \%$ ，差异未达到显著水平 $( P { > } 0 . 0 5 )$ ；间作蚕豆叶水势均高于单作蚕豆处理，在拔节期、现蕾期和结英期分别比单作提高 $7 . 6 3 \%$ 、 $4 . 9 3 \%$ 和 $4 . 3 8 \%$ ，其中在拔节期达到显著性差异 $( P { < } 0 . 0 5 )$ 。不同灌溉方式之间，交替灌溉处理的水势有所下降，其中，交替灌溉处理间作小麦和单作小麦的水势分别平均较传统灌溉降低 $7 . 7 9 \%$ 和 $8 . 5 4 \%$ ，间作蚕豆和单作蚕豆分别较传统灌溉处理降低 $9 . 7 8 \%$ 和 $9 . 1 0 \%$ ，除小麦和蚕豆拔节期外均不存在显著差异 $( P { > } 0 . 0 5 )$ 。说明交替灌溉小麦间作蚕豆在减少灌水量的情况下能满足作物不同生育阶段正常生长的需要。
+
+表3不同灌溉方式对小麦和蚕豆不同生育期叶水势的影响  
+Table 3Leaf water potentials of wheat and faba-bean at diffrent growth stages in different irigation treatments M   
+
+<html><body><table><tr><td rowspan="3" colspan="2">处理 Treatment</td><td colspan="3">小麦Wheat</td><td colspan="3">蚕豆Faba-bean</td></tr><tr><td>拔节期 Jointing</td><td>抽穗期 Heading</td><td>灌浆期 Filling</td><td>拔节期 Jointing</td><td>现蕾期 Squaring</td><td>结英期 Pod-setting</td></tr><tr><td rowspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-0.710.011</td><td>−1.3200436</td><td>−1.30.356</td><td>-0.90.06</td><td>−1.3400)</td><td>−1.4240400</td></tr><tr><td>单作 Sole cropping</td><td>-0.61±0.009b</td><td>-1.28±0.033a</td><td>-1.28±0.029a</td><td>-0.65±0.016a</td><td>-1.39±0.051b</td><td>-1.50±0.038b</td></tr><tr><td rowspan="2">Conventional</td><td>间作</td><td>-0.58±0.008a</td><td>-1.26±0.037a</td><td>-1.27±0.031a</td><td>-0.60±0.015a</td><td>-1.33±0.045a</td><td>-1.42±0.044a</td></tr><tr><td>Intercropping 灌溉方式 Irrigation method (I)</td><td>NS</td><td>NS</td><td>NS</td><td>*</td><td></td><td></td></tr><tr><td colspan="2">种植模式 Planting pattern (P)</td><td>NS</td><td>*</td><td></td><td></td><td>NS</td><td>NS</td></tr><tr><td colspan="2">灌溉方式×种植模式I×P</td><td>NS</td><td>*</td><td>NS NS</td><td>NS *</td><td>NS NS</td><td>NS</td></tr></table></body></html>
+
+# 2.3 不同灌水方式对小麦/蚕豆间作系统作物生物量分配的影响
+
+由表4可以看出，小麦/蚕豆间作可明显促进小麦根系的生长，交替灌溉和传统灌溉间作小麦根系干重分别平均较相应的单作小麦增加 $20 . 9 5 \%$ 和$3 6 . 9 7 \%$ ，处理间差异显著 $( P { < } 0 . 0 1 )$ 。与传统灌溉相比，交替灌溉处理的根系干重较大，交替灌溉单作小麦和间作小麦的根系干重分别较传统灌溉提高 $2 7 . 2 7 \%$ 和 $12 . 3 9 \%$ ，交替灌溉单作蚕豆和间作蚕豆的根系干重分别较传统灌溉提高 $1 9 . 6 3 \%$ 和 $7 . 5 6 \%$ 、小麦间作蚕豆的地上干物重高于单作处理，传统灌溉处理地上部分干物重较交替灌溉处理高，但均不存在差异显著性 $( P { > } 0 . 0 5 )$ 。不同种植模式之间除传统灌溉处理间作小麦的根冠比显著高于单作小麦外，其余各处理间差异均不显著；与传统灌溉相比，交替灌溉单作小麦和间作小麦的根冠比分别较传统灌溉提高$3 6 . 3 6 \%$ 和 $14 . 4 7 \%$ ，交替灌溉单作蚕豆和间作蚕豆的根冠比分别较传统灌溉提高 $1 6 . 6 7 \%$ 和 $1 8 . 1 8 \text{‰}$ 出现该结果的原因可能是：交替灌溉条件下，小麦与蚕豆间作为了适应土壤水分胁迫，通过自我调节光合产物的分配方向，加强根系发育，增加根系的吸收能力，使得光合产物优先分配给根系，维持其功能的发挥，但同时这种增加受地上部的约束。根冠比是反映地下部和地上部生长的重要指标，光合产物向根系供给的增加，会影响地上部的生长，使根冠比增大。
+
+表4不同灌溉方式对小麦和蚕豆收获期生物量分配的影响  
+Table 4Biomass distribution of wheat and faba-bean at harvest stage in different irrigation treatments   
+
+<html><body><table><tr><td rowspan="2" colspan="2">处理 Treatment</td><td colspan="4">小麦Wheat</td><td colspan="4">蚕豆Faba-bean</td></tr><tr><td>地上部干重 Shoot dry weight (g:plant-1)</td><td>根系干重 Root dry weight (g:plant-1)</td><td>根冠比 Root/shoot</td><td>总干重 Total dry weight (g·plant-1)</td><td>地上部干重 Shoot dry weight (g:plant-1)</td><td>根系干重 Root dry weight (g·plant-1)</td><td>根冠比 Root/shoot</td><td>总干重 Total dry weight (g:plant-1)</td></tr><tr><td colspan="2">交替灌溉 Alternative</td><td></td><td></td><td>12.75±0.122c 2.10±0.019a 0.165±0.005a 14.85±0.121b 13.99±0.117c 3.23±0.038a 0.231±0.007a 17.2±0.164b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">irrigation</td><td>14.61±0.130</td><td></td><td>2.54±0.040a 0.174±0.006a 17.15±0.139a 14.15±0.126b 3.13±0.041a 0.221±0.008a 17.28±0.181b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">传统灌溉 Conventional</td><td>13.61±0.127</td><td></td><td>1.65±0.031b 0.121±0.006b15.26±0.117b</td><td></td><td>13.66±0.131c 2.70±0.052b 0.198±0.009b 16.36±0.164c</td><td></td><td></td><td></td></tr><tr><td colspan="2">Sole cropping irrigation</td><td>14.88±0.134</td><td>2.26±0.027a 0.152±0.00a417.14±0.124a</td><td></td><td></td><td>15.58±0.127a</td><td>2.91±0.021b 0.187±0.008b 18.49±0.190a</td><td></td><td></td></tr><tr><td colspan="2">Intercropping 灌溉方式 Irrigation method (I)</td><td>*</td><td>**</td><td>*</td><td>NS</td><td>NS</td><td>**</td><td>*</td><td></td></tr><tr><td colspan="2">种植模式 Planting pattern (P)</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>NS</td><td>*</td><td>NS</td></tr><tr><td colspan="2">灌溉方式×种植模式I×P</td><td>*</td><td>**</td><td>*</td><td>NS</td><td>NS</td><td>*</td><td>*</td><td>NS NS</td></tr></table></body></html>
+
+# 2.4 不同灌水方式对小麦/蚕豆间作系统作物产量的影响
+
+种植模式及灌溉方式对小麦、蚕豆产量的影响不同。间作有利于植株的生长和产量的提高，与单作小麦相比，间作小麦的经济产量、生物产量、收获指数平均分别增加 $1 5 . 6 4 \%$ 、 $1 0 . 6 1 \%$ 和 $5 . 7 1 \%$ ；间作蚕豆的经济产量、生物产量、收获指数分别较单作蚕豆平均增加 $6 . 7 1 \%$ 、 $1 . 7 7 \%$ 和 $5 . 0 1 \%$ 。不同灌溉方式之间，单作条件下，交替灌溉小麦的经济产量、生物产量、收获指数分别较常规灌溉降低 $1 1 . 2 2 \%$ $6 . 3 2 \%$ 和 $5 . 2 4 \%$ ，经济产量在不同灌溉方式间的差异显著，生物产量和收获指数在不同处理间的差异不显著；交替灌溉蚕豆的经济产量、收获指数分别较常规灌溉降低 $0 . 4 2 \%$ 和 $2 . 6 6 \%$ ，而生物产量较常规灌溉增加 $2 . 3 1 \%$ ，经济产量、生物产量、收获指数在不同灌溉方式间的差异均不显著。对间作而言，交替灌溉小麦的经济产量、生物产量分别较常规灌溉降低 $0 . 8 6 \%$ 和 $1 . 8 2 \%$ ，而收获指数较常规灌溉增加$0 . 9 5 \%$ ；交替灌溉蚕豆的经济产量、生物产量、收获指数分别较常规灌溉降低 $3 . 4 5 \%$ 、 $0 . 3 5 \%$ 和 $3 . 1 2 \%$ 各指标在不同灌溉方式间的差异均不显著(表5)。
+
+方差分析结果表明，种植模式对小麦经济产量、生物产量、收获指数的效应 $F$ 值分别为6.043、6.798和5.774，对3项指标的效应显著；种植模式对蚕豆经济产量、生物产量、收获指数的效应 $F$ 值分别为6.943、6.051和3.774，对经济产量和生物产量的效应显著，对收获指数的效应不显著；灌溉方式对3项指标的产量效应均不显著，灌溉方式和种植模式互作效应对小麦生物产量和蚕豆经济产量效应显著，其他指标的效应均不显著。
+
+表5不同灌溉方式的对小麦和蚕豆产量的影响Table 5Yield of wheat and faba-bean in different irrigation treatments  
+
+<html><body><table><tr><td rowspan="3" colspan="2">处理</td><td colspan="3">小麦Wheat</td><td colspan="3">蚕豆Faba-bean</td></tr><tr><td>经济产量 Economic yield (g:plant-1)</td><td>生物产量 Biomass yield (g:plant-1)</td><td>收获指数 Harvest index</td><td>经济产量 Economic yield (g:plant-1)</td><td>生物产量 Biomass yield (g:plant-1)</td><td>收获指数 Harvest index</td></tr><tr><td>交替灌溉 Alternative</td><td>单作 Sole cropping</td><td>4.59±0.027b</td><td>12.75±0.124c</td><td>0.360±0.004b</td><td>16.44±0.167b</td><td>66.13±0.233b</td><td>0.249±0.005b</td></tr><tr><td>irrigation 传统灌溉</td><td>Intererping</td><td>5.76±0.018a</td><td>14.61±0.131a</td><td>0.394±0.006a</td><td>17.35±0.174a</td><td>66.45±0.251a</td><td>0.261±0.004a</td></tr><tr><td>Conventional</td><td>单作 Sole cropping</td><td>5.17±0.015b</td><td>13.61±0.127b</td><td>0.380±0.007b</td><td>16.51±0.183b</td><td>64.64±0.247a</td><td>0.255±0.004b</td></tr><tr><td>irrigation</td><td>间作 Intercropping</td><td>5.81±0.011a</td><td>14.88±0.118a</td><td>0.391±0.008a</td><td>17.97±0.201a</td><td>66.68±0.304a</td><td>0.270±0.005a</td></tr><tr><td>灌溉方式 Irrigation method (I)</td><td></td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td>种植模式 Planting pattern (P)</td><td></td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>NS</td></tr><tr><td>灌溉方式×种植模式I×P</td><td></td><td>NS</td><td>*</td><td>NS</td><td>*</td><td>NS</td><td>NS</td></tr></table></body></html>
+
+# 3 讨论和结论
+
+叶绿素作为光合色素参与光合作用中光能的吸收、传递和转化，其含量的高低决定了叶片光合速率的大小，也是叶片衰老的重要生理指标。虽然间作提高作物功能叶片叶绿素含量已得到一些试验验证[15-16]，但不合理的作物搭配、水分管理制度均可能导致叶绿素含量降低。前人研究表明，作物遭受轻度或中度干旱胁迫时，作物叶绿素和光合速率降低[17；同时，水分胁迫产生的非水力信号ABA传递到叶片诱导气孔开度减少或部分关闭[18]，蒸腾速率减少，以减少植株体内水分蒸发；当光合速率 $( P _ { \mathrm { { n } } } )$ 降低幅度较小时，则表现瞬时水分利用效率 $( P _ { \mathrm { n } } / T _ { \mathrm { r } } )$ 提高。本试验研究表明，交替灌溉处理的间作小麦和间作蚕豆叶片的叶绿素含量较高。不同处理小麦和蚕豆的净光合速率、蒸腾速率日变化曲线均为“双峰"型，存在光合“午休"现象，传统灌溉处理气孔导度日变化呈“双峰"型曲线，而交替灌溉处理作物的气孔导度无“双峰"特征。在不同处理下，交替灌溉处理净光合速率日均值较传统灌溉并未发生显著变化，而蒸腾速率、气孔导度日均值明显下降，可能通过主动降低气孔开度，抑制蒸腾作用，平衡植物的水分利用，以实现作物水分在非充分灌溉条件下的优化分配[19-20]。与单作相比，小麦间作蚕豆具有一定的光合优势，交替灌溉条件下通过吸收补偿水分反而使间作小麦和间作蚕豆叶片的叶绿素含量升高，进而使净光合速率提高，表明对小麦间作蚕豆采用交替灌溉处理可以调控作物的气孔运动，使作物始终有一部分根系生长在较干燥的区域，减少蒸腾无效损失，使水分利用效率大大提高。
+
+植物的水分特征是植物在结构上对环境的响应[21],叶水势的降低有利于作物从土壤中吸收水分，减少向大气中散失水分，维持植物在水分逆境中生长[22]。本试验中，作物叶水势随着生育进程而下降，这与以前学者的研究结果基本一致[23]。与传统灌溉相比,交替灌溉使作物的叶片相对含水量、叶水势呈降低趋势，但不存在显著差异，这表明交替灌溉作物随土壤水分的减小其耐旱和抗旱性有所增加，与前人的研究结论一致[24]。在小麦间作蚕豆体系中，整个生育期小麦与蚕豆之间都存在对土壤水分的竞争，但只有小麦抽穗期差异显著，其他生育期间的差异均不明显，说明交替灌溉小麦间作蚕豆在减少灌水量的情况下能满足作物不同生育阶段正常生长的需要。尽管作物的叶片相对含水量、叶水势是水分状况的最佳度量，但是水分在作物体内的运输受土壤、大气及不同部位水势高低等的影响，因此，应从不同方面着手，分析不同因素对作物水分生理的影响，以便全面系统地掌握交替灌溉条件下小麦间作蚕豆系统中水分的运输与存储机理。
+
+作物生物量的产生和分配与外界环境密切相关。从不同处理生物量的分配看，小麦/蚕豆间作可显著提高小麦的根干重，交替灌溉也显著影响作物光合产物分配模式，有利于增大光合产物向根系分配份额，这与以前学者的研究结果基本一致[25-26]。作物根冠比是衡量作物对环境适应状况的重要指标，根冠比的增大有利于增强作物抵御干旱的能力，为加强后期调节和补偿生长能力创造了条件。本研究结果表明，交替灌溉条件下，小麦间作蚕豆叶片水分利用效率与气孔限制保持相对的稳定，将生物量更多地分配至间作小麦和间作蚕豆的根系中，使其根冠比显著增大，从而获得更多水分和养分资源。可见，小麦间作蚕豆中，小麦、蚕豆的生物量分配格局对交替灌溉具有很强的适应能力。
+
+综上所述，交替灌溉这种灌水方式可以诱发小麦间作蚕豆叶片的水分保护机制，提高作物叶片叶绿素含量，延缓叶片衰老，在保持光合速率基本不变的情况下降低植物叶片的奢侈蒸腾耗水，提高作物叶片水平的水分利用效率。与此同时，交替灌溉处理可以减少间作小麦、间作蚕豆的冗余生长，有利于作物根系生长发育，在干旱半干旱区间作作物种植上，可以使用分区交替灌溉刺激根系的补偿功能来维持作物的生长发育需求，为小麦间作蚕豆在大田试验的推广提供参考依据。
+
+# 参考文献References
+
+[1]李翠红，安贵阳．根系分区交替灌溉对苹果叶片光合作用 的影响[J]．西北农业学报,2009,18(3):172-176 Li C H,An G Y.The effects of partial root-zone irrigation on the photosynthesis in apple trees[J].Acta Agriculturae Boreali-occidentalis Sinica,2009,18(3):172-176 [2]杜太生，康绍忠，胡笑涛，等．根系分区交替滴灌对棉花产 量和水分利用效率的影响[J]．中国农业科学,2005,38(10):   
+2061-2068 DuT S,Kang SZ,Hu X T,et al.Effect of alternate partial root-zone drip irrigation on yield and water use efficiency of cotton[J]. Scientia Agricultura Sinica,2005,38(10): 2061-2068 [3]康绍忠，杜太生，孙景生，等．基于生命需水信息的作物高 效节水调控理论与技术[J]．水利学报,2007,38(6):661-667 Kang S Z,Du T S,SunJS,et al. Theory and technology of improving irrigation water use efficiency based on crop growing water demand information[J]. Journal of Hydraulic Engineering,2007,38(6): 661-667 [4]胡田田，康绍忠，原丽娜，等．不同灌溉方式对玉米根毛生 长发育的影响[J]．应用生态学报,2008,19(6):1289-1295 Hu TT,Kang S Z,Yuan L N,et al.Effects of different irrigation patterns on the growth of maize root hair[J]. Chinese Journal of Applied Ecology,2008,19(6): 1289-1295 [5]张利东，高丽红，张柳霞，等．交替隔沟灌溉与施氮量对日 光温室黄瓜光合作用、生长及产量的影响[J].应用生态学 报,2011,22(9):2348-2354 Zhang L D,Gao L H, Zhang L X,et al. Effects of alternative furrow irrigation and nitrogen application rate on photosynthesis,growth,and yield of cucumber in solar greenhouse[J]. Chinese Journal of Applied Ecology,2011,22(9): 2348-2354 [6]杜太生，康绍忠，张雾，等．不同沟灌模式对沙漠绿洲区葡 萄生长和水分利用的效应[J]．应用生态学报，2006，17(5):   
+805-810 [7] 张自常，李永丰，杨霞，等．干湿交替灌溉条件下不同种稗 草对水稻光合特性和产量的影响[J]．作物学报，2015, 41(11): 1748-1757 Zhang Z C,Li YF,Yang X,et al. Effects of different species in Echinochloa on photosynthetic characteristics and grain yield in rice under alternate weting and moderate drying condition[J]. Acta Agronomica Sinica,2015,41(11): 1748-1757   
+[8] Miao Y Y, Zhu Z B,Guo Q S,et al. Alternate wetting and drying irrigation-mediated changes in the growth,photosynthesis and yield of the medicinal plant Tulipa edulis[J]. Industrial Crops and Products,2015,66: 81-88   
+[9]Mahallati MN,Koocheki A,Mondani F,et al. Determination of optimal strip width in strip intercropping of maize (Zea mays L.） and bean (Phaseolus vulgaris L.） in Northeast Iran[J]. Journal of Cleaner Production,2015,106: 343-350   
+[10] 曹云，马艳．间套作防治作物土传枯萎病的研究进展[J]. 土壤,2015,47(3): 466-473 Cao Y,Ma Y. Advances in fusarium wilt disease suppression by intercropping[J]. Soils,2015,47(3): 466-473   
+[11] Latati M,Bargaz A,Belarbi B,et al. The intercropping common bean with maize improves the rhizobial eficiency, resource use and grain yield under low phosphorus availability[J]. European Journal of Agronomy,2016，72: 80-90   
+[12] 谭国湛，王甜，韩国君，等．间作及伴随阴离子肥料对油菜 吸收积累镉的影响[J]．中国生态农业学报，2013，21(10): 1264-1270 Tan G Z,Wang T,Han G J, et al. Effects of intercropping and accompanying anion fertilizer on Cd uptake by Brassica campestris L.[J]. Chinese Journal of Eco-Agriculture,2013, 21(10): 1264-1270   
+[13] 刘斌，谢飞，凌一波，等．不同间作播期和密度对甜瓜/向 日葵间作系统氮素利用效率的影响[J]．中国生态农业学报, 2016,24(1): 36-46 Liu B,Xie F,Ling Y B,et al. Effects of intercropping time and planting density on nitrogen use eficiency of melonsunflower intercropping system[J]. Chinese Journal of EcoAgriculture,2016,24(1): 36-46   
+[14] Wang Z K, Zhao X N,Wu P T,et al. Radiation interception and utilization by wheat/maize strip intercropping systems[J]. Agricultural and Forest Meteorology,2015,204: 58-66   
+[15]焦念元，宁堂原，杨萌珂，等．玉米花生间作对玉米光 合特性及产量形成的影响[J]．生态学报，2013，33(14): 4324-4330 Jiao NY,Ning TY,YangMK,et al.Effects of maize/peanut intercropping on photosynthetic characters and yield forming of intercropped maize[J]. Acta Ecologica Sinica,2013,33(14): 4324-4330   
+[16]李植，秦向阳，王晓光，等．大豆/玉米间作对大豆叶片光 合特性和叶绿素荧光动力学参数的影响[J]．大豆科学, 2010,29(5): 808-811 Li Z,Qin X Y,Wang XG,et al. Effect of intercropping with maize on photosynthesis and chlorophyll fluorescence parameters of soybean[J]. Soybean Science,2010,29(5): 808-811   
+[17]汪本福，黄金鹏，杨晓龙，等．干旱胁迫抑制作物光合作用 机理研究进展[J]．湖北农业科学,2014,53(23):5628-5632 Wang B F,Huang JP,Yang X L,et al.Advances on inhibition mechanism of crop photosynthesis by drought stress[J]. Hubei Agricultural Sciences, 2014, 53(23): 5628-5632   
+[18]许大全．气孔的不均匀关闭与光合作用的非气孔限制[J]. 植物生理学通讯,1995,31(4):246-252 Xu D Q. Non-uniform stomatal closure and non-stomatal limitation of photosynthesis[J]. Plant Physiology Communications,1995,31(4): 246-252   
+[19]Blackman P G,Davies W J.Root to shoot communication in maize plants of the effects of soil drying[J].Journal of Experimental Botany,1985,36(1):39-48   
+[20]Davies W J,Zhang J.Root signals and the regulation of growth and development of plants in drying soil[J].Annual Review of Plant Physiology and Plant Molecular Biology, 1991,42(1): 55-76   
+[21]朱维琴，吴良欢，陶勤南．作物根系对干旱胁迫逆境的适 应性研究进展[J]．土壤与环境,2002,11(4):430-433 Zhu W Q,Wu L H, Tao Q N.Advances in the studies on crop root against drought stress[J]. Soil and Environmental Sciences,2002,11(4):430-433   
+[22]罗永忠，成自勇．水分胁迫对紫花苜蓿叶水势、蒸腾速率和 气孔导度的影响[J].草地学报,2011,19(2):215-221 Luo Y Z,Cheng Z Y.Impact of water stress on leaf water potential, transpiration rate $( T _ { \mathrm { r } } )$ and stomatal conductance $( G _ { s } )$ of alfalfa[J].Acta Agrectir Sinica,2011,19(2):215-221   
+[23]王克鹏，张仁陟，董博，等．长期保护性耕作对黄土高原旱 地土壤水分及作物叶水势的影响[J]．生态学报，2014, 34(13):3752-3761 Wang KP,ZhangR Z,Dong B,et al.Effect of long-term conservation tillage on soil water regimes and leaf water potential of crops in rainfed areas of the Loess Plateau[J]. ActaEcologica Sinica,2014,34(13):3752-3761   
+[24]王磊，曹福亮，吴家胜．分根区交替渗灌对银杏苗木生长 及生理的影响[J]．林业科学,2013,49(6):52-59 WangL,Cao FL,WuJS.Effectsofalternative partial rootzone irrigation on growth and physiology of Ginkgo biloba seedlings[J]. Scientia Silvae Sinicae,2013,49(6):52-59   
+[25]XiaoY,Zhang J,Jia T T,et al.Effects of alternate furrow irrigation on the biomass and quality of alfalfa (Medicago sativa)[J]. Agricultural Water Management,2015,161: 147-154   
+[26]周青云，王仰仁，孙书洪．根系分区交替滴灌条件下葡萄 根系分布特征及生长动态[J]．农业机械学报，2011，42(9): 59-63 Zhou QY,WangYR,Sun SH.Distribution characteristic and growing dynamic of grape vine roots under alternate partial root zone drip irrigation[J].Transactions of the Chinese Society for Agricultural Machinery,2011,42(9): 59-63

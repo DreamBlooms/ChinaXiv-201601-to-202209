@@ -1,0 +1,244 @@
+海藻的营养功能及其在猪和鸡生产中的应用龙沈飞康 晟 朴香淑\*（中国农业大学动物科学技术学院，动物营养学国家重点实验室，北京100193）
+
+摘要：海藻富含蛋白质、维生素、矿物质、多糖和ω-3多不饱和脂肪酸（PUFA)，作为饲料添加剂可为人类提供优质的畜禽产品，因而有关海藻的营养功能和应用成为研究热点。本文就海藻的分类、营养功能及其在猪和鸡生产中的应用做一综述。
+
+关键词：海藻；ω-3多不饱和脂肪酸；猪；鸡；应用
+
+中图分类号：S816
+
+海藻是海洋中能进行光合作用的低等自养植物，富含蛋白质、维生素、矿物质、多糖和ω-3多不饱和脂肪酸（PUFA），尤其是二十二碳六烯酸（DHA）和二十碳五烯酸（EPA）[],可作为猪和鸡的优良饲料添加剂[2]。海藻不仅能满足猪和鸡对蛋白质和能量的需求，还能增强其免疫功能，提高经济效益[3]。因此，海藻在动物营养学领域具有广阔的应用前景。据统计，全球海藻年产量多达 ${ 5 } { \times } { 1 0 } ^ { 5 }$ t，添加到猪和鸡饲粮中的海藻数量以每年 $8 \%$ 递增，然而海藻在猪和鸡饲粮中的应用效果差异较大（与海藻的种类和添加量有关），因而对其营养功能及其在猪和鸡生产中的应用进行深入研究显得十分必要。本文就海藻的分类、营养功能及其在猪和鸡生产中的应用作一综述，为其在实际生产中的应用提供理论参考。
+
+# 1海藻的分类
+
+海藻是大型藻类，其形状、大小、颜色和组成不同，主要包括褐藻（Phaeophyceae）、红藻（Rhodophyceae）和绿藻（Chlorophyceae）[4-5]。褐藻是最大的海藻，可广泛应用于猪和鸡饲粮中[6]。红藻富含蛋白质，可分泌碳酸钙，常应用于反刍动物饲粮中[7]。绿藻的生长速度较快，富含β-胡萝卜素和叶黄素，可大量应用于猪和鸡饲粮中[1]。最小的单细胞海藻是微藻，主要包括小球藻属（Chlorella spp.）、杜氏藻属（Dunaliella spp.）、栅列藻属（Scenedesmusspp.）、蓝藻螺旋藻属(Cyanobacteria Spirulina spp.)和水华束丝藻(Aphanizomenon flos-aquae)
+
+收稿日期：2017-08-29  
+作者简介：龙沈飞（1993—),男,浙江嘉兴人,博士研究生,研究方向为猪营养。E-mail:longshenfei@cau.edu.cn  
+\*通信作者：朴香淑，教授，博士生导师，E-mail: piaoxsh@cau.edu.cn  
+[8]。它们富含脂质、蛋白质、叶绿素、类胡萝卜素、维生素和矿物质，具有很高的应用价值。  
+2海藻的营养功能海藻能将无机物转化为蛋白质、脂类、糖类、维生素及矿物质等营养物质。这些营养物  
+质均具有重要的营养功能，可提高畜禽产品的品质。
+
+# 2.1海藻中蛋白质和氨基酸的营养功能
+
+红藻的粗蛋白质含量高达 $50 \%$ ，绿藻的粗蛋白质含量为 $30 \%$ 左右，而褐藻的粗蛋白质含量约为 $1 4 \% ^ { [ 1 ] }$ 。小球藻属的粗蛋白质含量高达 $60 \%$ （干物质基础），且其必需氨基酸组成与动物蛋白质非常相似，常作为营养物质为人类和动物提供蛋白质，相比于其他常规植物蛋白质，海藻蛋白质的质量更优[9]。
+
+海藻含有动物机体所需的全部必需氨基酸，尤其富含谷物缺乏的赖氨酸和苏氨酸，作为饲料添加剂可大幅提高饲料的营养价值[10]；海藻蛋白质富含的亮氨酸和赖氨酸可作为家禽饲粮氨基酸的来源。褐藻和红藻含有人体所需的氨基酸，其必需氨基酸指数接近人体标准蛋白质指数；红藻中掌形藻和褐藻中裙带菜的必需氨基酸指数分别为 $103 . 7 \%$ 和 $9 5 . 9 \%$ ，这2种海藻所含的必需氨基酸，尤其是含硫氨基酸对人体有较高的营养价值[]。巨藻和绿藻中石莼的蛋氨酸和半胱氨酸总量高于豆粕，其提供的含硫氨基酸可作为甲基供体为被毛动物的肝脏解毒，因此常作为被毛动物的饲料添加剂。海藻的组氨酸、蛋氨酸、丙氨酸等均有促进食欲的作用，如饲粮中添加 $5 \%$ 海藻可显著提高肉鸡的平均日采食量（ADFI）[12]。
+
+# 2.2海藻中脂质的营养功能
+
+海藻的平均脂质含量为 $1 \% \sim 7 0 \%$ ，在某些条件下可达干物质重的 $9 0 \% [ 1 ]$ 。海藻的脂肪酸总量和相对比例可能受营养和环境因素的影响，如氮含量的限制。通常海藻的脂质由饱和脂肪酸（SFA）或不饱和脂肪酸（UFA）（ $1 2 { \sim } 2 2$ 个碳原子）酯化的甘油、糖或碱组成。在海藻的所有脂肪酸中，@-3PUFA对动物体意义重大，尤其是EPA和DHA[13]。褐藻和红藻的EPA和花生四烯酸含量丰富。褐藻中海茸和绿藻中石莼的PUFA含量占总脂肪酸含量的比例分别为 $73 \%$ 和 $5 2 \% ^ { [ 1 4 ] }$ ，红藻的PUFA含量占总脂肪酸含量的比例达 $7 5 \%$ ，棕榈酸含量占SFA含量的（204号 $2 6 \% ^ { [ 1 5 ] }$ 。
+
+饲粮中添加海藻可显著提高畜禽产品（肉、蛋、奶）的PUFA含量。海藻富含DHA，而DHA和EPA能抑制一些疾病的发生[16]。在动物组织中，DHA可转化为EPA[17-19]。海藻能提供类似于鱼油中的脂肪酸并改善畜禽产品的氧化稳定性，这是由于其本身稳定性高、可有效储存、可提供大量稳定的ω-3 PUFA[20-21]。海藻能显著增加鱼组织中的DHA沉积[22]。高DHA含量的发酵海藻是家禽饲粮中最佳的α-3PUFA来源[15]，作为家禽饲料添加剂，能显著提高鸡蛋蛋黄中α-3PUFA的含量，且其含量随着蛋黄中o-6PUFA含量的减少而显著增加。蛋鸡饲粮中添加 $1 . 5 \%$ 鲱鱼油和 $2 . 4 \%$ 海藻均可显著提高蛋黄中DHA的沉积量；而当海藻的添加量为$4 . 8 \%$ 时，蛋黄的DHA含量达到最高[23]。饲粮中添加 $0 . 1 \%$ 和 $0 . 2 \%$ 富含@-3PUFA的海藻，均可显著降低肉鸡肌肉组织中SFA和单不饱和脂肪酸（MUFA）的含量，增加PUFA的含量[24]。此外，海藻中的PUFA具有健康促进作用，如缓解高脂血症、抑制高血压、保护肾衰竭等[25]。
+
+# 2.3海藻中维生素和矿物质的营养功能
+
+海藻中几乎含有所有必需维生素（如维生素A、维生素 $\mathbf { \cdot B } _ { 1 }$ 、维生素 ${ \bf B } _ { 2 }$ 、维生素 ${ \bf B } _ { 6 }$ 、维生素Bi2、维生素C、维生素E、烟酸、生物素、叶酸和泛酸），这些维生素提高了海藻的营养价值。海藻中还含有丰富的叶绿素（ $0 . 5 \% \sim 1 \%$ ）、天然胡萝卜素（角黄素和 $\beta -$ 胡萝卜素）、虾青素、叶黄素和藻胆蛋白[26]。其中，天然胡萝卜素、虾青素和叶黄素均可提高畜禽产品的抗氧化活性，增强肉鸡组织的氧化稳定性、免疫功能、抗应激能力，提高副产品品质，为人类提供大量有益于健康的PUFA[27-28]。海藻中富含的维生素E和维生素A能显著提高母畜（如母猪）的受孕率和产仔数[29]。
+
+海藻可从海水中浓缩铁、锰、铜、碘、锌等矿物质，其矿物质含量是陆地植物的 $1 0 { \sim } 2 0$ 倍，可补充家禽对矿物质的需要[14]。褐藻中的碘富集较多，红藻中石枝藻属死亡后能形成碳酸钙。另外，海藻中的维生素和微量元素均以有机态形式存在，可调节饲料营养平衡，特别是碘元素，易被畜禽吸收，可促进畜禽生长。红藻中钙板藻能分泌碳酸钙。研究表明，肉鸡饲粮中添加适量的钙板藻能给肉鸡补充低浓度钙，有利于骨骼中钙质的沉积，避免肉鸡腿部无力[30]。
+
+# 2.4海藻中多糖的营养功能
+
+海藻中的碳水化合物以淀粉、葡萄糖和多糖的形式存在，其总体消化率很高，可在食品或饲料中大量使用。褐藻含岩藻多糖，红藻含琼脂、角叉菜胶、木聚糖、硫酸化半乳糖和吓啉，绿藻含木聚糖和硫酸化半乳聚糖[1]。海藻所含的海藻多糖可显著提高畜禽的生长性能和免疫功能，抑制弹状病毒、黄病毒、囊膜病毒等有荚膜病毒的复制[31]。海藻多糖硫酸化程度越高，其抗病毒活性越强[32]。研究表明，饲粮中添加 $2 . 0 \%$ 的海藻多糖能促进肉鸡免疫器官的发育，显著提高血清抗体水平和白细胞数量[33]。海藻多糖还能刺激各种免疫活性细胞（如巨噬细胞、T淋巴细胞、B淋巴细胞等）的增殖、分化和成熟，使机体的免疫系统得到恢复和加强，间接杀死肿瘤细胞，防止细胞癌变[34]。
+
+# 2.5海藻中其他活性成分的抗菌抗病毒功能
+
+海藻中含有多种抗病毒、抗菌活性物质，如萜烯、脂肪酸、单宁酸等，饲粮中添加可降低家禽死亡率，提高其平均日增重（ADG）和免疫功能[35]。马尾藻有降低大肠杆菌和金色葡萄球菌活性的作用，而石莼含有的萜烯类、溴酚化合物等物质可抑制沙门氏菌、枯草杆菌等细菌的生长，适量微藻可促进肉鸡肠道乳酸杆菌的生长[35-36]。
+
+3海藻在猪和鸡生产中的应用
+
+海藻富含蛋白质、矿物质、维生素、多糖、 $\left( 0 ^ { - 3 } \right.$ PUFA和微量促生长因子，营养功能良好，有促进畜禽生长的作用，因此在猪和鸡养殖中有非常高的应用价值。
+
+# 3.1海藻在养猪生产中的应用
+
+海藻在猪饲粮中的适宜添加量为 $0 . 5 \% \sim 5 \% ^ { [ 1 ] }$ ，对仔猪和生长肥育猪有重要的作用和饲用价值。适宜添加量的海藻可作为猪的碘源，并能增强猪的免疫功能和抗菌、抗病毒能力，改善猪肉品质，从而提高其生长性能。
+
+# 3.1.1海藻对仔猪和生长肥育猪生长性能的影响
+
+仔猪断奶时容易产生断奶应激，海藻中的海藻多糖可作为抗生素替代物添加到饲粮中，减少断奶应激带来的危害，如石莼聚糖可通过改善盲肠微生物区系（乳酸杆菌数显著增加，大肠杆菌数显著减少），增加回肠绒毛高度，促进肠道中黏蛋白的分泌，抑制不同致病菌在肠壁上的黏结，最终提高断奶仔猪的ADG[37]。表1列出了部分海藻对断奶仔猪生长性能的影响，饲粮中添加适宜剂量的螺旋藻、小球藻等时，断奶仔猪的ADG和ADFI可显著增加，增加幅度与海藻的种类和添加量有关。海藻还有改善生长肥育猪生长性能的作用，且生长促进作用可能与添加量有关。由表1可知，饲粮中添加适宜剂量的海藻有促进生长肥育猪ADG和饲料转化率（FCR）的作用，而过量添加则会抑制猪的健康生长，可能是由于部分海藻会大量积累砷和碘等矿物质，过量添加会导致中毒或发生其他不良情况[1]。部分海藻在降低ADFI的同时提高了ADG，在生长肥育猪饲粮中添加有助于降低成本，增加经济效益。
+
+Table 1Effects of seaweads on growth performance of weaned and growing-finishing pigs   
+
+<html><body><table><tr><td>项目</td><td>添加量 Additive</td><td>平均日增重</td><td>平均日采食量</td><td>饲料转化率</td><td>参考文献</td></tr><tr><td>Items</td><td>amount/%</td><td>ADG/%</td><td>ADFI/%</td><td>FCR/%</td><td>Reference</td></tr><tr><td>断奶仔猪 Weaned piglets</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>螺旋藻Spirulina</td><td>1.0</td><td>+15.41</td><td>+3.93</td><td>+9.95</td><td>韦启鹏等[38]</td></tr><tr><td>小球藻Chlorella</td><td>0.5</td><td>+2.71</td><td>+14.93</td><td>-11.92</td><td>周蔚等[39]</td></tr><tr><td></td><td>1.0</td><td>+3.16</td><td>+18.91</td><td>-15.23</td><td></td></tr><tr><td>复方螺旋 Compound</td><td>0.10</td><td>+9.52</td><td>+5.45</td><td>+3.50</td><td>何英俊等[40]</td></tr><tr><td>Spirulina</td><td>0.15</td><td>+13.33</td><td>+7.65</td><td>+5.10</td><td></td></tr><tr><td>螺旋藻Spirulina</td><td>0.5</td><td>+11.11</td><td>+4.92</td><td>+5.88</td><td>盛清凯等[41]</td></tr><tr><td colspan="2">生长肥育猪 Growing-finishing pigs</td><td></td><td></td><td></td><td></td></tr><tr><td>海藻 Seaweed</td><td>4.0</td><td>+9.39</td><td>-7.70</td><td>+14.09</td><td>高和坤等[42]</td></tr><tr><td></td><td>6.0</td><td>+11.82</td><td>-6.60</td><td>+13.90</td><td></td></tr><tr><td></td><td>1.0</td><td>+0.13</td><td>-2.04</td><td>+1.67</td><td></td></tr><tr><td>海藻 Seaweed</td><td>2.0</td><td>+2.10</td><td>+0.37</td><td>+1.67</td><td>吕子君等[43]</td></tr><tr><td></td><td>3.0</td><td>+7.09</td><td>+4.55</td><td>+2.50</td><td></td></tr></table></body></html>
+
+4 $^ { \circ } +$ ”表示增加，“-"表示减少。下表同。 $" + "$ represents an increase,and "-" represents a decrease. The same as below.
+
+# 3.1.2海藻作为猪饲粮的碘源
+
+海藻中含有的有机碘有利于增强猪体内的物质代谢，提高碘在肌肉中的沉积量，而无机碘不会产生该作用[4 。海藻中的碘以有机态存在，不易氧化变质，且容易吸收，猪食后吸收率高于无机矿物质。猪肉中碘含量的增加能有效满足人体对碘的需要，有利于人体健康[45]。
+
+# 3.1.3 海藻促进猪的免疫功能
+
+海藻中的多糖能改善猪的免疫功能和肠道健康，提高其生长性能[4]。其中硫酸多糖能促进仔猪肠道中黏蛋白的分泌，增加对病毒和致病菌的抑制作用，预防消化道疾病，可作为益生元替代抗生素，增强猪的免疫功能[32]。76日龄仔猪饲粮中添加海藻，仔猪唾液中免疫
+
+球蛋白A(IgA)含量显著增加[47]。母猪饲粮中添加海藻，可使其仔猪血清免疫球蛋白G（IgG)含量显著增加[48]。
+
+# 3.1.4海藻改善猪肉品质
+
+猪饲粮中添加海藻提取物（海带多糖和岩藻多糖）对猪肉品质和货架期无显著影响，但可显著降低猪肉的脂质氧化[49]。在体重为 $1 5 \mathrm { k g }$ 的金华猪饲粮中添加 $0 . 1 0 \%$ 和 $0 . 1 5 \%$ 的复方螺旋藻提取物，其瘦肉率均显著提高 $1 . 6 \%$ ，背膘厚降低 $7 . 2 6 \%$ 和 $9 . 4 6 \%$ ，复方螺旋藻提取物能显著提高金华猪的胴体品质，但对眼肌面积和脂肪率无显著影响[40]。
+
+# 3.2海藻在养鸡生产中的应用
+
+海藻能提高鸡的生长性能，改善免疫机能，降低肠道中有害微生物含量，提高禽肉和禽蛋的品质，在家禽中的添加量以 $1 \% \sim 5 \%$ 为宜，因为其中的重金属和过量碘可能危害家禽和人类健康[1]。
+
+# 3.2.1 海藻在肉鸡生产中的应用
+
+# 3.2.1.1 海藻对肉鸡生长性能的影响
+
+饲粮中添加海藻对肉鸡 ADG、ADFI和FCR的影响如表2所示。由表可知，海藻的作用效果与其类型和添加量有关。在一定范围内，饲粮中添加马尾藻、螺旋藻或混合海藻等，肉鸡的 ADG、ADFI、FCR 均显著增加，且增加幅度随添加量的增加而增加[50-52]；当海藻添加量过大时，肉鸡的ADG、ADFI、FCR均显著降低，这可能与海藻从海水中浓缩而大量积累的核酸、毒素和砷等重金属产生的副作用（危害动物和人类生命）有关。因此，海藻作为动物饲料须遵守有关毒素和砷等含量的国家和国际法规，在肉鸡饲粮中添加水平最高可达$5 \% { \sim } 6 \%$ ，通常低于 $1 0 \% ^ { [ 1 ] }$ 。研究表明，饲粮中添加 $2 \% \sim 4 \%$ 的绿藻能促进肉鸡生长，减少腹脂厚，提高营养物质利用率和胸肌品质[53]；但当绿藻的添加水平高于 $10 \%$ 时，会导致肉鸡的ADFI下降[54]。海藻对肉鸡生长性能的改善作用可能是由于其能显著提高营养物质消化率，促进矿物质的吸收，改善肠道菌群结构（促进乳酸杆菌和双歧杆菌的生长，抑制大肠杆菌和白色念珠菌的繁殖），防止腹泻[5]。表3列出了海藻对肉鸡的综合作用效果，表明适量海藻的促生长作用可能还与其对肉鸡的脏器指数、免疫功能、血液生化指标和PUFA组成的作用效果有关。
+
+# 表2海藻对肉鸡的生长性能的影响
+
+Table 2Effects of seaweads on growth performance of broilers   
+
+<html><body><table><tr><td>项目</td><td>添加量</td><td>平均日增重</td><td>平均日采食量</td><td>饲料转化率</td><td>参考文献</td></tr><tr><td>Items</td><td>Additive amount/%</td><td>ADG/%</td><td>ADFI/%</td><td>FCR/%</td><td>Reference</td></tr><tr><td>小球藻</td><td>7.5</td><td>+0.21</td><td>+2.32</td><td>-2.50</td><td></td></tr><tr><td>Chlorella</td><td>15.0</td><td>-2.07</td><td>-0.51</td><td>-1.87</td><td>Lipstein 等[56]</td></tr><tr><td>Se-小球藻1)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Se-Chlorella</td><td>0.3 mg/kg</td><td>+4.67</td><td>+4.68</td><td>+8.94</td><td>Sevcikova等[57]</td></tr><tr><td>海带和马尾藻</td><td>1.0</td><td>+6.00</td><td>-3.20</td><td>+2.50</td><td></td></tr><tr><td>Kelp and</td><td>2.0</td><td>+12.00</td><td>-7.20</td><td>+5.50</td><td>靳玲品等[58]</td></tr><tr><td>Sargassum</td><td>4.0</td><td>+18.00</td><td>-4.30</td><td>+2.90</td><td></td></tr><tr><td></td><td>0.5</td><td>-3.56</td><td>+1.39</td><td>+5.16</td><td></td></tr><tr><td>裂殖壶藻</td><td>1.0</td><td>+4.20</td><td>+11.35</td><td>+6.72</td><td></td></tr><tr><td>Schizochytrium</td><td>1.5</td><td>+3.88</td><td>+12.35</td><td>+7.97</td><td>Li等[59]</td></tr><tr><td></td><td>2.0</td><td>-0.57</td><td>+7.27</td><td>-8.28</td><td></td></tr><tr><td>海藻</td><td>0.5</td><td>+6.58</td><td>-4.43</td><td>+6.58</td><td></td></tr><tr><td> Seaweed</td><td>0.75</td><td>-5.06</td><td>-2.49</td><td>-5.06</td><td>Rymer 等[60]</td></tr><tr><td>Se-海藻1)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Se-seaweed</td><td>0.3 mg/kg</td><td>+0.13</td><td>+1.22</td><td>-1.08</td><td>Skrivan 等[61]</td></tr><tr><td></td><td>1.0%干粉 2)</td><td></td><td></td><td></td><td></td></tr><tr><td>小球藻</td><td>1.0%生长因子 2)</td><td>+3.49</td><td>-4.94</td><td>+8.43</td><td>Kang 等[62]</td></tr><tr><td>Chlorella</td><td></td><td>+3.81</td><td>-2.18</td><td>+6.02</td><td></td></tr><tr><td>海藻</td><td>1.0%液体 2)</td><td>+6.33</td><td>-2.06</td><td>+7.83</td><td></td></tr><tr><td>Seaweed</td><td>7.4</td><td>+22.11</td><td>+6.90</td><td>+14.89</td><td>Ribeiro 等[63]</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>海藻</td><td>7.5</td><td>-7.27</td><td>+3.41</td><td>-10.08</td><td>Austic 等[64]</td></tr><tr><td>Seaweed</td><td>15.0</td><td>-16.16</td><td>+1.08</td><td>-16.97</td><td></td></tr><tr><td>海藻</td><td>1.0</td><td>+1.78</td><td>+12.86</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Seaweed</td><td>3.0</td><td>+2.11</td><td>+15.20</td><td></td><td>白建[12]</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>5.0</td><td>+2.97</td><td>+20.30</td><td></td><td></td></tr><tr><td>螺旋藻</td><td>0.1</td><td>+6.01</td><td>+0.08</td><td>+4.55</td><td></td></tr><tr><td>Spirulina</td><td>0.2</td><td>+10.34</td><td>+0.48</td><td>+9.09</td><td>Mariey 等[65]</td></tr><tr><td></td><td>0.3</td><td>+13.87</td><td>+1.10</td><td>+11.36</td><td></td></tr><tr><td>海藻+鱼粉1)</td><td>5.0</td><td>-34.85</td><td>-23.06</td><td>-17.83</td><td></td></tr><tr><td>Seaweed + fish</td><td></td><td></td><td></td><td></td><td>Armin 等[66]</td></tr><tr><td>meal</td><td>10.0</td><td>-41.30</td><td>-23.83</td><td>-29.57</td><td></td></tr><tr><td></td><td>6.0</td><td>+1.36</td><td>+3.31</td><td>-2.11</td><td></td></tr><tr><td>螺旋藻</td><td>11.0</td><td>+1.81</td><td>-0.34</td><td>+0.70</td><td>Evans 等[67]</td></tr><tr><td>Spirulina</td><td>16.0</td><td>+2.71</td><td>-0.46</td><td>+1.41</td><td></td></tr><tr><td></td><td>21.0</td><td>-2.86</td><td>-5.82</td><td>+2.82</td><td></td></tr><tr><td>海藻</td><td>1.0</td><td>+3.28</td><td>+0.84</td><td>+0.00</td><td></td></tr><tr><td>Seaweed</td><td>1.5</td><td>+11.14</td><td>+14.34</td><td>+5.56</td><td>Kessi[68]</td></tr><tr><td></td><td>2.0</td><td>+6.55</td><td>+6.45</td><td>+0.00</td><td></td></tr><tr><td>绿藻 (石莼)</td><td>1.0</td><td>+2.09</td><td>-0.95</td><td>+0.43</td><td></td></tr><tr><td>Green seaweed</td><td></td><td></td><td></td><td></td><td>Abudabos 等[69]</td></tr><tr><td>(Ulva lactuca)</td><td>3.0</td><td>+4.84</td><td>+2.73</td><td>-0.57</td><td></td></tr><tr><td>隐甲藻</td><td>0.1</td><td>-4.46</td><td>+4.62</td><td>+9.18</td><td></td></tr><tr><td>Crypthecodinium</td><td></td><td></td><td></td><td></td><td>敖翔等[24]</td></tr><tr><td>cohnii</td><td>0.2</td><td>+4.80</td><td>+3.33</td><td>+1.40</td><td></td></tr><tr><td></td><td>2.0</td><td>+0.84</td><td>-1.67</td><td>-1.54</td><td></td></tr><tr><td>脱脂绿色微藻</td><td>4.0</td><td>-2.39</td><td>+0.83</td><td>+3.08</td><td></td></tr><tr><td>Defatted green</td><td>6.0</td><td>+1.97</td><td>+3.33</td><td>+0.00</td><td>Gatrell 等[70]</td></tr><tr><td> microalgae</td><td></td><td>-10.39</td><td></td><td></td><td></td></tr><tr><td></td><td>8.0</td><td></td><td>-3.33</td><td>+6.15</td><td></td></tr></table></body></html>
+
+145 $^ { 1 ) } \mathrm { S e }$ -海藻、Se-小球藻：Se与海藻、Se与小球藻的混合物，单位为 $\mathrm { \ m g / k g }$ ；海藻 $^ +$ 鱼粉：海藻和鱼粉的
+
+and Chlorella, $\mathrm { m g / k g } ;$ seaweed+fish meal: a mixture of seaweed and fish meal,the additive amounts are $5 \%$ and   
+$10 \%$ ,respectively. （204号 $^ { 2 ) } \mathrm { 1 } . 0 \%$ 干粉： $1 \%$ 的干粉小球藻； $1 . 0 \%$ 生长因子： $1 \%$ 的小球藻生长因子； $1 . 0 \%$ 液体： $1 \%$ 液体小球藻。   
+$1 . 0 \%$ dry powder: $1 \%$ dry Chlorella; $1 . 0 \%$ growth factor: $1 \%$ Chlorella growth factor; $1 . 0 \%$ liquid: $1 \%$ liquid   
+Chlorella.
+
+表3海藻对肉鸡的综合作用效果  
+Table 3Comprehensive effects of seaweeds on broilers   
+
+<html><body><table><tr><td>项目</td><td>添加量</td><td>作用效果</td><td>参考文献</td></tr><tr><td>Se-小球藻1)</td><td>0.3 mg/kg</td><td>小球藻中补充硒可显著增加肌肉中的微量元</td><td>Sevcikova 等[57]</td></tr><tr><td>Se-Chlorella</td><td></td><td>素含量</td><td></td></tr><tr><td>裂殖壶藻</td><td>1.0</td><td>饲粮中添加2%的裂壶干藻可显著提高肌肉</td><td>Li等[59]</td></tr><tr><td>Schizochytrium</td><td>1.5</td><td>DHA和总ω-3 长链-PUFA的含量</td><td></td></tr><tr><td></td><td>2.0</td><td></td><td></td></tr><tr><td>海藻</td><td>0.5</td><td>藻类可维持肌肉组织的氧化稳定性</td><td>Rymer 等[60]</td></tr><tr><td>Seaweed</td><td>0.75</td><td></td><td></td></tr><tr><td>小球藻</td><td>1.0干粉2) 1.0 生长因子2</td><td>1.0%新鲜液体小球藻显著改善肠道微生物菌</td><td>Kang等[62]</td></tr><tr><td>Chlorella</td><td>1.0 液体 2)</td><td>群，增加乳酸杆菌数，提高免疫力</td><td></td></tr><tr><td>海藻</td><td>7.5</td><td></td><td></td></tr><tr><td>Seaweed</td><td>15.0</td><td>用海藻替代7.5%的豆粕作用显著</td><td>Austic 等[64]</td></tr><tr><td>绿藻 (石莼)</td><td>1.0</td><td></td><td></td></tr><tr><td>Green seaweed</td><td></td><td>3%的石莼显著提高胸肌率，1%和3%石莼显著</td><td>Abudabos 等[69]</td></tr><tr><td>(Ulva lactuca)</td><td>3.0</td><td>降低血清中脂肪、胆固醇、尿酸含量</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>海藻</td><td>1.0</td><td>1%、3%和5%海藻均能显著提高生长性能和</td><td>白建[12]</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>5.0</td><td colspan="3"></td></tr><tr><td></td><td>0.01</td><td></td><td></td></tr><tr><td>螺旋藻</td><td></td><td></td><td>Mariey等[65]</td></tr><tr><td></td><td>0.02</td><td>0.02%的螺旋藻对生长性能的改善效果最佳</td><td></td></tr><tr><td>Spirulina</td><td>0.03</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>海藻+鱼粉1)</td><td>5.0</td><td>5%和10%的海藻显著减少血清胆固醇和甘油</td><td></td></tr><tr><td>Seaweed+fish</td><td></td><td></td><td>Armin 等[66]</td></tr><tr><td></td><td>10.0</td><td>三酯含量</td><td></td></tr><tr><td>meal</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>海藻</td><td>1.0</td><td></td><td></td></tr><tr><td></td><td>1.5</td><td>1.5%的海藻显著增加生长速度和体重</td><td>Kessi[68]</td></tr><tr><td>Seaweed</td><td></td><td></td><td></td></tr><tr><td></td><td>2.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>隐甲藻</td><td>0.1</td><td>显著增加腿肌PUFA含量，显著减少腿肌SFA</td><td></td></tr><tr><td>Crypthecodinium</td><td></td><td></td><td>敖翔等[24]</td></tr><tr><td></td><td>0.2</td><td>和 MUFA含量</td><td></td></tr><tr><td>cohnii</td><td></td><td></td><td></td></tr><tr><td></td><td>2.0</td><td></td><td></td></tr><tr><td>脱脂绿色微藻</td><td></td><td></td><td></td></tr><tr><td></td><td>4.0</td><td></td><td></td></tr><tr><td>Defatted green</td><td>6.0</td><td>饲粮补充8%的微藻显著促进生长</td><td>Gatrell等[70]</td></tr><tr><td>microalgae</td><td>8.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>16.0</td><td></td><td></td></tr></table></body></html>
+
+$^ { 1 ) } \mathrm { S e } -$ 小球藻：Se与小球藻的混合物，单位为 $\mathrm { \ m g / k g }$ ；海藻 $+$ 鱼粉：海藻和鱼粉的混合物，海藻添加量分 别为 $5 \%$ 和 $10 \%$ 。 Se-Chlorella: a mixture of Se and Chlorella, mg/kg; seaweed+fish meal: a mixture of seaweed and fish meal, the additive amounts are $5 \%$ and $10 \%$ ,respectively. $^ { 2 ) } \mathrm { l } . 0 \%$ 干粉： $1 \%$ 的干粉小球藻； $1 . 0 \%$ 生长因子： $1 \%$ 的小球藻生长因子； $1 . 0 \%$ 液体： $1 \%$ 液体小球藻。 $1 . 0 \%$ dry powder: $1 \%$ dry Chlorella; $1 . 0 \%$ growth factor: $1 \%$ Chlorella growth factor; $1 . 0 \%$ liquid: $1 \%$ liquid Chlorella.
+
+# 3.2.1.2 海藻对肉鸡器官指数的影响
+
+海藻中含有生长促进因子，可对肉鸡器官指数产生影响。饲粮中添加 $0 . 0 2 \%$ 螺旋藻，肉鸡胴体重、淋巴器官（如胸腺、脾脏）的绝对和相对重量显著增加，腹部脂肪显著减少，机体免疫力增强[71]。但也有研究表明， $0 . 1 0 \%$ 和 $0 . 2 0 \%$ 的海藻对肉鸡的胸腺、脾脏和腹脂指数无显著影响，原因可能是海藻的类型和添加量不同。螺旋藻可通过调节脂质和碳水化合物代谢，显著减少血浆总脂质和胆固醇含量，从而减少腹部脂肪。螺旋藻多糖可显著增加胸腺的重量，从而增加T细胞数量[72]。
+
+# 3.2.1.3 海藻对肉鸡组织脂肪酸组成的影响
+
+海藻中富含@-3PUFA，饲粮中添加可能会对动物机体组织的脂肪酸组成产生影响。肉鸡组织中的脂肪酸组成主要取决于其所采食的饲粮的脂肪酸组成、氧化率及在肝脏中的合成情况。研究表明，马尾藻作为肉鸡饲粮添加剂能显著提高肉鸡肌肉组织中o-3PUFA含量，进而改善禽肉品质[73]。饲粮中添加富含ω-3 PUFA的海藻，肉鸡腿肌中 SFA和MUFA含量显著降低，而@-3 PUFA、EPA、DHA 含量和 PUFA/SFA显著升高[24]。MUFA（如油酸）含量下降可能与PUFA抑制△9-去饱和酶活性，从而阻止MUFA的形成有关。 $\Delta 9$ -去饱和酶是硬脂酸转变成油酸所需的关键酶[74]。
+
+# 3.2.1.4海藻对肉鸡血液生化指标的影响
+
+肉鸡饲粮中添加 $4 \%$ 的裙带菜能改善血浆蛋白质含量，进而缓解肉鸡急性炎症，尤其是减少蛋白质的破坏[75]。饲粮中添加 $0 . 0 2 \%$ 和 $0 . 0 3 \%$ 螺旋藻，肉鸡血浆胆固醇、甘油三酯和总脂质含量显著降低，总蛋白、白蛋白和球蛋白含量显著增加，血液红细胞和白细胞数量也显著增加[65]。而血液中红细胞和白细胞的增加可能与螺旋藻中丰富的矿物质含量（铁、铜和锌）有关。铁在血红蛋白和红细胞的生物合成中起预防贫血的作用，并且是生物合成超氧化物歧化酶和谷胱甘肽还原酶所必需的矿物质元素[76]。海藻中的锌可影响体液和细胞免疫，是胸腺发育的重要因素，负责淋巴细胞的分裂、成熟和分化，参与禽类的细胞免疫[77]。
+
+# 3.2.2 海藻在蛋鸡生产中的应用
+
+表4列出了部分海藻在蛋鸡饲粮中的添加效果，蛋鸡饲粮中添加适量海藻（ $1 \% \sim 5 \%$ ）能显著提高蛋鸡的生产性能，增加鸡蛋品质，改善蛋黄中固醇和脂肪酸含量。海藻在蛋鸡饲粮中的最适添加量为 $4 . 8 \%$ ，但添加过量海藻会使蛋黄重、蛋重和产蛋量显著下降，可能是海藻中大量累积的重金属和其他矿物质等导致的，这些物质可能导致奥克尼绵羊牙垢沉积和肾髓质的矿化沉淀[78]。褐藻含有大量的碘，过量添加也可能导致家禽（如蛋鸡）碘中毒[1]。一定范围内，随海藻添加量的增加，蛋鸡蛋黄中的花生四烯酸、EPA、DHA含量线性增加，胡萝卜素、叶黄素和碘含量显著增加，而胆固醇、甘油三酯和ω-6PUFA含量显著降低。
+
+表4海藻对蛋鸡的综合作用效果  
+Table 4Comprehensive effects of seaweeds on laying hens   
+
+<html><body><table><tr><td>项目</td><td>添加量</td><td>综合作用效果</td><td>参考文献</td></tr><tr><td>Items</td><td>Additive amounts/%</td><td>Comprehensive effects</td><td>Reference</td></tr><tr><td>海带粉</td><td>2.0</td><td></td><td>孟昭聚[79]</td></tr><tr><td>Kelp</td><td>4.0</td><td>显著提高产蛋率和鸡蛋含碘量，降低料蛋比</td><td></td></tr><tr><td>powder</td><td>6.0</td><td>和淘汰死亡率</td><td></td></tr><tr><td>海藻</td><td>2.4</td><td>显著提高蛋黄重、蛋重和产蛋量，添加量应</td><td>Herber等[23]</td></tr><tr><td>Seaweed</td><td></td><td>控制在4.8%以下</td><td></td></tr><tr><td></td><td>4.8</td><td></td><td>魏尊等[80]</td></tr><tr><td>海藻</td><td>1.0</td><td>显著降低料蛋比和蛋黄胆固醇含量，蛋黄颜</td><td></td></tr><tr><td>Seaweed</td><td>2.0</td><td>色得到改善，蛋黄中脂肪、蛋白质、碘和磷</td><td></td></tr><tr><td></td><td>3.0</td><td>脂含量显著增加</td><td>Carvalho等[81]</td></tr><tr><td></td><td>120 mg/kg1)</td><td></td><td></td></tr><tr><td>海藻</td><td>180 mg/kg1)</td><td>DHA沉积效率随海藻添加量的增加而呈线性</td><td></td></tr><tr><td>Seaweed</td><td>240 mg/kg1)</td><td>下降，而DHA和ω-3PUFA的含量显著增加</td><td></td></tr><tr><td></td><td>300 mg/kg1)</td><td></td><td></td></tr><tr><td></td><td>360 mg/kg1</td><td></td><td></td></tr><tr><td>海藻(蒸煮、</td><td>3.0</td><td></td><td>E1-Deek等[75]</td></tr><tr><td>热压处理)</td><td></td><td>显著降低蛋黄中胆固醇、甘油三酯和ω-6</td><td></td></tr><tr><td>Seaweed</td><td></td><td>PUFA含量，增加胡萝卜素、叶黄素和碘的含</td><td></td></tr><tr><td>(Cooking or</td><td>6.0</td><td>量</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+93 1)添加海藻后满足DHA含量分别为120、180、240、300和 $3 6 0 ~ \mathrm { { m g / k g } } ,$ 。The content of DHA are 120,180,240,9495 4小结
+
+海藻种类繁多，含有丰富的蛋白质、氨基酸、脂质（α-3PUFA）、维生素、矿物质、多糖及抗菌、抗病毒的功能性物质，有较高的营养价值和特殊的益生功能。适量的海藻 $( 1 \% \sim$ $5 \%$ ）可增加断奶仔猪、生长肥育猪、肉鸡和蛋鸡的生长性能，改善其免疫功能和脂肪酸组成。但海藻不宜过量添加，因其含有砷等重金属且目前有关分离这些有毒矿物质的研究匮乏。综上，海藻有作为饲料原料和饲料添加剂的潜力，对猪和鸡生产作用巨大。
+
+参考文献：   
+[1] MAKKAR H P S,TRAN G,HEUZE V,et al.Seaweeds for livestock diets:a review[J].Animal Feed Science and Technology,2016,212:1-17.   
+[2]陈殊贤,郑晓辉.微藻油和鱼油中DHA的特性及应用研究进展[J].食品科 学,2013,34(21):439-444.   
+[3]方圆,王冬梅,方希修.海藻饲料的营养生理功能与应用[J].中国动物保健,2013,15(2):49-52.   
+[4] REISE K,GOLLASCH S,WOLFF W J.Introduced marine species of the North Sea coasts[J].Helgolander Meeresuntersuchungen,1998,52(3/4):219-234.   
+[5]EL GAMAL A A.Biological importance of marine algae[J].Saudi Pharmaceutical Journal,2010,18(1):1-25.   
+[6] MURTY U S,BANERJEE A K.Seaweeds:the wealth of oceans[M]//KIM S K.Handbook of marine macroalgae:biotechnology and applied phycology.Chichester,UK:John Wiley & Sons,2011:36-44.   
+[7]EDWARDS M,HANNIFFY D,HEESCH S,et al.Macroalgae fact-sheets[M].Galway:Irish Seaweed Research Group,Ryan Institute,NUI,2012:40.   
+[8]KAY R A,BARTON L L.Microalgaeas food and supplement[J].Critical Reviews in Food Science and Nutrition,1991,30(6):555-573.   
+[9]张立彬,甄二英,李振永.螺旋藻的营养价值及培养[J].饲料研究,2006(1):31-32.   
+[10] 闫海,尹春华.微藻作为饲料添加剂的前景[J].饲料与畜牧,2013(2):1.   
+[11] DAWCZYNSKI C,SCHUBERT R,JAHREIS G.Amino acids,fatty acids,and dietary fibre in edible seaweed products[J].Food Chemistry,2007,103(3):891-899.   
+[12]白建.海藻粉对肉仔鸡生长发育和免疫机能的影响[J].当代畜牧,2014(21):30-31.
+
+[13] 黄俊辉,曾庆孝,佘纲哲.南海海域数种海藻总脂质及脂肪酸含量的比较[J]J.湛江海洋大学学报,2001,21(2):23-29.
+
+[14] MISURCOVA L.Chemical composition of seaweeds[C]//KIM S K.Handbook of marine macroalgae:biotechnologyandappliedphycology.Chichester， UK:JohnWiley & Sons,2011:567.   
+[15] NORZIAH M H,CHING C Y.Nutritional composition of edible seaweed Gracilaria changgi[J].Food Chemistry,2000,68(1):69-76.   
+[16] GAUDETTE D C,HOLUB B J.Docosahexaenoic acid (DHA） and human platelet reactivity[J].The Journal of Nutritional Biochemistry,1991,2(3):116-121.   
+[17] FISCHER S,VISCHER A,PREAC-MURSIC V,et al.Dietary docosahexaenoic acid is retroconverted in man to eicosapentaenoic acid,which can be quickly transformed to prostaglandin I3[J].Prostaglandins,1987,34(3):367-375.   
+[18] GRONN M,CHRISTENSEN E,HAGVE T A,et al.Peroxisomal retroconversion of docosahexaenoic acid $( 2 2 { : } 6 ( n { - } 3 ) )$ to eicosapentaenoic acid $( 2 0 { : } 5 ( n { - } 3 ) )$ studied in isolated rat livercels[J].BiochimicaetBiophysica Acta (BBA):Lipids and Lipid Metabolism,1991,1081(1):85-91.   
+[19] ROSENTHAL M D,GARCIA M C,JONES M R,et al.Retroconversion and $\delta ^ { 4 }$ desaturation of docosatetraenoate (22:4(n-6)) and docosapentaenoate (22:5(n-3)) by human cellsin culture[J].Biochimica et Biophysica Acta:Lipids and Lipid Metabolism,1991,1083(1):29-36.   
+[20] GRIMA E M,PEREZ J A S,CAMACHO F G,et al.Preservation of the marine microalga,Isochrysis galbana:influence on the fatty acid profile[J].Aquaculture,1994,123(3/4):377-385.   
+[21] BARZANTI V,BATTINO M,BARACCA A,et al.The efect of dietary lipid changes on the fatty acid composition and function of liver,heart and brain mitochondria in the rat at different ages[J].British Journal of Nutrition,1994,71(2):193-202.   
+[22] REITAN K I,RAINUZZO JR,OIE G,et al.Nutritional effects of algal addition in first-feeding of turbot (Scophthalmus maximus L)[J].Aquaculture,1993,118(3/4):257-275.   
+[23] HERBER S M,VAN ELSWYK M E.Dietary marine algae promotes efficient deposition of @-3fattyacidsfortheproductionofenrichedshelleggs[J].Poultry Science,1996,75(12):1501-1507.   
+[24]敖翔,冯光德,何健,等.n-3脂肪酸对肉鸡生产性能、器官指数及腿肌脂肪酸含量的影响[J]. 饲料广角,2017(1):36-39.   
+[25] 阮积惠.海藻主要药用成分的研究和展望[J].海洋学研究,2001,19(2):1-9.   
+[26] 张玲清,田宗祥.海藻饲料在猪生产中的应用研究[J].国外畜牧学(猪与禽),2015(1):46-48.   
+[27] BENDICH A.Symposium conclusions:biological actions of carotenoids[J].Journal of Nutrition,1989,119(1):135-136.   
+[28] BURTONGW.Antioxidant actionofcarotenoids[J].Journal of Nutrition,1989,119(1):109-111.   
+[29]吕进宏,马立保.海藻饲料资源及其在动物生产中的应用[J].中国畜牧兽医,2004(2):32-35.   
+[30] JONES R T,BLUNDEN G,PROBERT A J.Effects of dietary Ascophylum nodosum on blood parameters of rats and pigs[J].Botanica Marina,1979,22:393-402.   
+[31] WITVROUW M,De CLERCQ E.Sulfated polysaccharides extracted from sea algae as potential antiviral drugs[J].General Pharmacology:The Vascular System,1997,29(4):497-511.   
+[32] HUHEIHEL M,ISHANU V,TAL J,et al.Activity of Porphyridium sp. polysaccharide against herpes simplex viruses in vitro and in vivo[J].Journal of Biochemical and Biophysical Methods,2002,50(2/3):189-200.   
+[33]王烨,胡中泽.海藻多糖对肉杂鸡免疫功能的影响[J].安徽农学通报,2010,16(17):59-62,70.   
+[34]王剑.海藻多糖抗肿瘤作用机制的研究进展[J]．实用医药杂志,2012,29(7):655-656.   
+[35]韩丽君,符瑞文,李东生,等.海藻作为饲料添加剂在家禽饲养中的效果[J].海洋科 学,1998,22(4):3-6.   
+[36] 王怀禹.海藻在畜禽养殖业中的应用[J].养殖与饲料,2009(4):63-66.   
+[37] 徐秀容,龚月生.低聚糖对早期断奶仔猪消化道微生物区系的调节作用[J].饲料工 业,1999(6):31-32.   
+[38]韦启鹏,谢金防.螺旋藻对断奶仔猪生产性能的影响研究[J].江西畜牧兽医杂 志,2000(6):36.   
+[39] 周蔚,樊磊,韦金河,等.小球藻在猪饲料中应用的研究[J].江苏农业科学,2005(4):95-96.   
+[40] 何英俊,汪志平,严晗光.复方螺旋藻提取物对金华猪生产性能和胴体品质的影响[J].中国 畜牧杂志,2006,42(7):36-38.   
+[41] 盛清凯,刘雪,韩红,等.螺旋藻对仔猪生长性能、免疫性能及粪便菌群的影响[J].动物营养 学报,2017， 29(3):843-849.   
+[42]高和坤,姜锦鹏,柳丽.野生海藻在猪鸡饲料中的应用[J].饲料研究,2000(4):25.   
+[43]吕子君,姚东林,王超,等.螺旋藻添加剂对猪生长、腹泻率及肌肉营养的影响[J].江苏农业科 学,2015,43(7):206-209.   
+[44]BANOCH T,FAJT Z,DRABEK J,et al.Iodine and itsimportance in human and pigs[J].Veterinarstvi,2010,60(12):690-694.   
+[45] DIERICK N,OVYN A,SMET S D.Effect of feeding intact brown seaweed Ascophyllum nodosum on some digestive parameters and on iodine content in edible tissues in pigs[J].Journal of the Science of Food and Agriculture,2009,89(4):584-594.   
+[46] GAHAN D A,LYNCH M B,CALLAN J J,et al.Performance of weanling piglets offered low-,medium- or high-lactose diets supplemented with a seaweed extract from Laminaria spp[J].Animal,2009,3(1):24-31.   
+[47] KATAYAMA M,FUKUDA T,OKAMURA T,et al.Effect of dietary addition of seaweed and licorice on the immune performance of pigs[J].Animal Science Journal,2011,82(2):274-281.   
+[48] LEONARD SG,SWEENEY T,BAHARB,等.母猪日粮中添加海藻提取物和鱼油对哺乳仔 猪体液免疫反应和生长性能的影响[J].饲料博览,2010(12):50.   
+[49]研究发现饲喂海藻提取物可降低猪排脂质氧化[J].中国家禽,2012,34(19):63.   
+[50] 王永忠,周维仁,周蔚,等.海藻粉对肉仔鸡生产性能的影响[J].中国饲料,1998(7):12-13.   
+[51] 赵福山.海藻对肉鸡的影响[J].饲料广角,1990(2):45.   
+[52]刘开容,杨祖伟.螺旋藻添加剂饲喂肉鸡的研究[J].饲料研究,1995(2):4-6.   
+[53]王述柏,史雪萍,周传凤,等.浒苔添加水平对肉鸡生产性能、胴体品质及小肠消化酶活性的影
+
+响[J].动物营养学报,2013,25(6):1332-1337.
+
+[54] VENTURA M R,CASTANON J I R,MCNAB JM.Nutritional value of seaweed (Ulva rigida) for poultry[J].Animal Feed Science and Technology,1994,49(1/2):87-92.
+
+[55] 梁冰,于学军,吴力克,等.螺旋藻在体外对双歧杆菌及乳杆菌增殖的促进作用[J].中国微生态学杂志,1999,11(4):208-210.
+
+[56] LIPSTEIN B,HURWITZ S.The nutritional value of algae for poultry.Dried chlorella in broiler diets[J].British Poultry Science,1980,21(1):9-21.
+
+[57] SEVCIKOVA S,SKRIVAN M,DLOUHA G,et al.The effect of selenium source on the performance and meat quality of broiler chickens[J].Czech Journal of Animal Science,2006,51(10):449-457.
+
+[58] 靳玲品,李双群,李秀花.海藻饲料的营养及其在养殖业中的应用[J].畜牧与兽医,2008,40(1):55-56.
+
+[59] LI M H,ROBINSON E H,TUCKER C S,et al.Effects of dried algae Schizochytrium sp,a rich source of docosahexaenoic acid,on growth,fatty acid composition,and sensory quality of channel catfish Ictalurus punctatus[J].Aquaculture,2009,292(3/4):232-236.
+
+[60] RYMER C,GIBBS R A,GIVENS D I.Comparison of algal and fish sources on the oxidative stability of poultry meat and itsenrichment with omega-3 polyunsaturated fatty acids[J].Poultry Science,2010,89(1):150-159.
+
+[61] SKRIVAN M,SKRIVANOVA V,DLOUHA G,et al.The use of selenium-enriched alga Scenedesmusquadricauda inachicken diet[J].Czech Journal of Animal Science,2010,55(12):565-571.
+
+[62] KANG H K,SALIM H M,AKTER N,et al.Efect of various forms of dietary Chlorella supplementation on growth performance,immune characteristics,and intestinal microflora population of broiler chickens[J].The Journal of Applied Poultry Research,2013,22(1):100-108.
+
+[63] RIBEIRO T,LORDELO M M,ALVES S P,et al.Direct supplementation of diet is the most efficient way of enriching broiler meat with n-3 long-chain polyunsaturated fatty
+
+acids[J].British Poultry Science,2U13,54(6): /53- /65.   
+[64] AUSTIC R E,MUSTAFA A,JUNG B,et al.Potential and limitation of a new defatted diatom microalgal biomassin replacing soybean meal and corn in dietsforbroiler chickens[J].Journal of Agricultural and Food Chemistry,2013,61(30):7341-7348.   
+[65] MARIEY Y A,SAMAK H R,ABOU-KHASHBA H A,et al.Effect of using Spirulina platensis algae as a feed additive for poultry diets:2-productive performance of broiler[J].Egypt Poultry Science,2014,34(1):245-258.   
+[66] ARMIN F,RAHIMI S,ABKENAR A M,et al.Effect of Sargassum sp. and vitamin E on stability of fish oil enriched meat in broiler chickens[J].Iranian Journal of Applied Animal Science,2015,5(2):385-392.   
+[67] EVANS A M,SMITH D L,MORITZ J S.Effects of algae incorporation into broiler starter diet formulations on nutrient digestibility and 3 to 21 d bird performance[J].The Journal of Applied Poultry Research,2015,24(2):206-214.   
+[68] KESSI F A.Evaluation of seaweeds asmineral source in broiler diets[D].Ph.D. Thesis.Morogoro:Sokoine University of Agriculture,2016:32-40.   
+[69] ABUDABOS A M,OKAB A B,ALJUMAAH R S,et al.Nutritional value of green seaweed (Ulva lactuca) for broiler chickens[J].Italian Journal of Animal Science,2013,12(2):612-620.   
+[70] GATRELL S K,DERKSEN T J,O'NEIL E V,et al.A new type of defated green microalgae exertsdose-dependentnutritional,metabolic,and environmental impactsinbroiler chicks[J].The Journal of Applied Poultry Research,2017,26(3):358-366.   
+[71]刘华忠,黄银燕,陈绍红,等.螺旋藻对鸡免疫机能的影响[J].饲料研究,2005(4):36-38.   
+[72]包国良,王茵.螺旋藻中营养成分检测及其生物学活性研究[J].中国卫生检验杂 志,2012,22(5):1034-1036.   
+[73] EL-DEEK A A,AL-HARTHI M A,ABDALLA A A,et al.The use of broWn algae meal in finisher broiler diets[J].Poultry Science,2011,31:767-781   
+[74] 刘冬梅.三角褐指藻 AA 和 EPA 合成的△5 脂肪酸去饱和酶研究[D].博士学位论文.青岛: 中国海洋大学,2011,2-15.
+
+[75] KOH T S,LEE H G,IM JT,et al.Effect of dietary brown seaweed levels on the protein and energy metabolism in broiler chicks activated acute phase response[J].Journal of Animal Science and Technology,2005,47(3):379-390.
+
+[76] BABADZHANOV A S,ABDUSAMATOVA N,YUSUPOVA F M,et al.Chemical composition of Splatensisplatensis cultivated in Uzbekistan[J].Chemistry of Natural Compounds,2004,40(3):276-279.   
+[77] 李雪竹.锌对动物免疫器官发育和免疫功能的影响[J].中国饲料,2005(11):24-25.   
+[78] BRITT D P,BAKER J R.Causes of death and illness in the native sheep of North Ronaldsay,Orkney.I adult sheep[J].British Veterinary Journal,1990,146(2):129-142.   
+[79]孟昭聚.海带粉蛋鸡饲料添加剂试验观察[J].中兽医学杂志,1993(4):6-7.   
+[80]魏尊,谷子林,赵超,等.海藻粉对蛋鸡生产性能及蛋品质的影响[J].中国饲 料,2006(23):37-38.   
+[81] CARVALHO PR,PITA MC G,PIBER NETO E,et al.Effect of PUFA-rich supplements from marine sources in the feed of laying hens on lipid composition and the percentage of incorporation of n-6 PUFAs in egg yolk[J].Arquivos do Instituto Biol6gico,2009,17:27-39.
+
+Nutrient Function and Application of Seaweed in Pig and Chicken Productionl LONG Shenfei KANG Sheng PIAO Xiangshu\* (State Key Laboratory of Animal Nutrition, Collge of Animal Science and Technology, China Agricultural University, Beijing 100193, China) Abstract: Seaweed is rich in proteins, vitamins, minerals, polysaccharides and ω-3 polyunsaturated fatty acids (PUFA),which can provide high quality animal products for human beings as feed additives.Therefore,the research on seaweed nutrition function and application has become a hot spot. This paper reviewed the classification, nutritional function and application of seaweed in pig and chicken production.
+
+Key words: seaweed; @-3 PUFA; pig; chicken; application

@@ -1,0 +1,277 @@
+# 基于SPEI的锡林河流域干旱演化特征分析张璐1，朱仲元‘，席小康²，王慧敏1，王飞」
+
+（1.内蒙古农业大学水利与土木建筑工程学院，内蒙古呼和浩特010018
+
+2.陕西省水文水资源勘测局，陕西西安710068）
+
+摘要：以锡林河流域内及周边13个国家气象站逐日气象观测数据为基础，采用标准化降水蒸散指数（SPEI)，借助 Mann-Kendall与Mann Whitney Petitt突变检验、非参数统计检验以及重标极差R/S分析法，深入剖析锡林河地区多年干旱演变趋势及未来干旱预测。结果表明；锡林河地区干旱突变开始于20世纪90年代；近60a来，SPEI表现出显著减小趋势，上游减小趋势较中下游段小，中下游段为旱情多发带，下游西北端是干旱存在的危险区域。在未来，流域旱情将有所缓解，但冬季旱情有持续加重的可能，应加强干旱监测。
+
+关键词：SPEI；SPI；干旱变化；Mann-Kendall；锡林河流域
+
+# Analysis of drought evolution of Xilin River basin Based on SPEI
+
+ZHANG Lu1, ZHU Zhong-yuan1, XI Xiao-kang², WANG Hui-min1,WANG Fei1 .CollegefWatersousdCivilEngieing,erogoliicultualUvesityotl8,neroln
+
+2.Shaanxi Provincial Bureau of Hydrology and Water Resources Survey,Xi'an,71oo68,Shannxi,China)
+
+Abstract:In order to analysis of the evolution trend of the drought for many years and the prediction of future drought wasanalyzed by using the Standardized Precipitation Evapotranspiration Index (SPEI),as well as Mann-Kendall test, Mann Whitney Pettitt mutation test,nonparametric statistical test，and rescaled range R/S analysis method based on daily meteorological observation data from 13 national meteorological stations around the Xilin River Basin.The results indicated that the sudden change of drought began in the 199Os.In the past 60 years,SPEI has shown a significant decrease trend,and the decreasing trend in the upstream is smaller than that in the middle and lower reaches.The middle and lower reaches were drought-prone, and the northwest end of the downstream is a dangerous area where drought exists. In the future,the drought will be aleviated, but the drought in winter may continue to increase, and drought monitoring should be strengthened.
+
+Key words: SPEI; SPI; Drought changes; Mann-Kendall; Xilin River Basin
+
+在全球暖干化的背景下，干旱、洪涝等极端气候事件的发生已趋于常态化，且发生频率与强度不断增大[1-2]。近年来，由于气候变化及不合理放牧，干旱半干旱草原型流域生态环境遭到严重破坏，牧草产量降低、土地沙化不断加剧、干旱事件频发，导致牧区经济社会的可持续发展面临巨大挑战[3-6]。
+
+干旱监测是应对旱情变化的重要手段，由于干旱事件影响的广泛性，利用干旱指数在特定时间尺度对区域旱情进行有效监测评估，可减少自然灾害对人类生活的影响[7]。气候变化可能会引发降水模式的改变，气温、降水以及潜在蒸散发是影响干旱半干旱草原地区的主要气候因子，也是表征干旱的直接因素[8。干旱指标发展初期使用单一降水要素表征干旱[9],适用性广泛，却忽略了其他因子对干旱的影响。经过不断探索，学者们将降水与温度相结合进行干旱表征，且随着潜在蒸散发在计算方法上的逐步优化，标准化的干旱指数被越来越多的学者所使用[3.10]，例如可以准确表征干旱特征，且具有较强适用性的 SPE[11]。应用 SPEI对我国东北、西南等地区干旱演变特征进行研究，研究结果与实际情况高度符合[12-14]，且有研究表明综合应用不同时间尺度的 SPEI和 SPI，可实现对气候变化的综合评估[8.11,5]。利用
+
+SPI对锡林河流域进行干旱评价，分析不同季节旱涝灾害的发生频次，可划分旱涝发生的时间及强度[1]，但对空间及长时间序列的干旱演变趋势分析较为缺乏。基于以上分析，为提高对旱情监测及评价的精度，本研究选用 SPEI与SPI进行流域干旱时空演变趋势分析，并对比2种指标的区域适用性，以期为流域生态环境保护、干旱演化特征评估及未来干旱灾害预防提供帮助与借鉴。
+
+# 1研究区概况和数据来源
+
+# 1.1研究区概况
+
+锡林河发源于赤峰市克什克腾旗境内，属内陆河（ $4 3 ^ { \mathrm { o } } 2 6 ^ { \prime } { \sim } 4 4 ^ { \mathrm { o } } 3 9 \mathrm { N }$ ， $1 1 5 ^ { \circ } 3 2 ^ { \prime } { \sim } 1 1 7 ^ { \circ } 1 2 ^ { \prime } \mathrm { E } )$ ，全长 $1 9 8 \mathrm { k m }$ ，流域面积 $6 2 6 3 \mathrm { k m } ^ { 2 }$ 。锡林河以库尼苏曼为分界，库尼苏曼以上为上游，流经丘陵地带，河道异常弯曲，间或有沼泽地。该地区是典型的温带干旱半干旱大陆气候，季节变化明显，多年平均降水量为 $2 7 6 . 3 \ : \mathrm { m m }$ ，最小降水量为 $1 2 1 . 1 \mathrm { m m }$ ,最大降水量为 $5 1 1 . 7 \mathrm { m m }$ 干燥且多风。利用联合国粮农组织（FAO）推荐的Penman-Monteith 公式[17]计算锡林河流域潜在蒸散发，多年平均潜在蒸散发量为 $1 ~ 1 0 5 . 6 ~ \mathrm { m m }$ ，最小潜在蒸散发量为 $9 7 8 . 2 \mathrm { m m }$ ，最大潜在蒸散发量为 $1 2 4 3 . 5 \mathrm { m m }$ 。
+
+![](images/1b078dac1aa5f64675f1fba92b68b76310ce05122f3d3fdb5d68641ddbb3d25c.jpg)  
+图1气象站点分布示意图  
+Fig.1Distribution map of the weather station
+
+# 1.2数据来源
+
+由于锡林河流域内仅有锡林浩特唯一一个国家气象站点，故本文下载并整理了锡林河流域内及周边13个国家气象站 1960—2018年逐日降雨量、平均气温、最高气温、最低气温、平均相对湿度、日照时数、平均风速等数据（见图1)。气象数据资料来源于中国气象数据共享服务网(http://data.cma.cn)中国地面气候资料日值数据集(V3.0）（缺测率小于等于 $10 \%$ ）[8-19]。为保证时间序列完整性，采用偏最小二乘回归插值法对各站1960—2018年缺测数据进行插补延展，并对数据的可靠性、一致性和代表性进行了检验校正。
+
+# 2 研究方法
+
+# 2.1SPEI与SPI
+
+SPI的计算仅考虑降水因素，简单易行，且具有多时间尺度，被广泛应用于气象干旱监测[14,20] SPEI是基于 SPI未能充分表达气温指标的不足，在 2010 年被 Vicente-Serrano 提出[21]。SPEI通过计算潜在蒸散发和降水的差额，并进行正态标准化得到 SPEI，既考虑了温度对干旱的影响，且更加客观地描述地表干湿变化，适用于气候变暖背景下干旱特征的分析[22]。
+
+本文基于Penman-Monteith 公式计算潜在蒸散发（PET)，并计算气候水分平衡（BAL），即：
+
+$$
+D _ { _ i } \ = P _ { _ i } - P E T _ { _ i }
+$$
+
+式中： $D _ { _ i }$ 为降水量与蒸散量的差， $\mathbf { m } \mathbf { m }$ ； $P _ { _ i }$ 为降水量， $\mathbf { m } \mathbf { m }$ ； ${ P E T } _ { i }$ 为潜在蒸散量， $\mathbf { m } \mathbf { m }$ 。
+
+对 $D _ { _ { i } }$ 数据序列进行正态化。由于原始数据序列 $D _ { _ { i } }$ 中可能存在负值，所以 SPEI指数采用3参数的log-logistic 概率分布，得到概率分布函数为：
+
+$$
+F \left( x \right) = I + \left[ \left( { \frac { \alpha } { x - \gamma } } \right) ^ { \beta } \right] ^ { - 1 }
+$$
+
+式中：参数 $\alpha$ 、 ${ \beta , \gamma }$ 分别采用线性矩估计方法拟合获得：
+
+$$
+\alpha = \frac { \left( \omega _ { \circ } - 2 \omega _ { \mathrm { l } } \right) \beta } { \Gamma \left( 1 + 1 / \beta \right) \Gamma \left( 1 - 1 / \beta \right) }
+$$
+
+$$
+\beta = \frac { 2 \omega _ { \mathrm { l } } - \omega _ { \mathrm { 0 } } } { 6 \omega _ { \mathrm { l } } - \omega _ { \mathrm { 0 } } - 6 \omega _ { \mathrm { 2 } } }
+$$
+
+$$
+\gamma = \omega _ { 0 } - \alpha \bullet \Gamma \left( 1 + 1 / \beta \right) \Gamma \left( 1 - 1 / \beta \right)
+$$
+
+式中： $\Gamma$ 为阶乘函数； $\omega _ { \scriptscriptstyle 0 } , \ \omega _ { \scriptscriptstyle 1 } , \ \omega _ { \scriptscriptstyle 2 }$ 为原始数据序列 $D _ { _ i }$ 的概率加权矩。计算方法如下：
+
+$$
+\omega _ { s } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \left( 1 - F _ { i } \right) ^ { s } D _ { i }
+$$
+
+$$
+F _ { _ i } \ = \ \frac { i \ - \ 0 . 3 5 } { N }
+$$
+
+式中： $N$ 为参与计算的月份数。
+
+$$
+P = 1 - F \left( { \boldsymbol { x } } \right)
+$$
+
+对累积概分布 $F \left( { \boldsymbol { x } } \right)$ 进行标准正态化，当累积概率 $P \leqslant 0 . 5$ 时：
+
+$$
+S P E I = \omega - \frac { c _ { 0 } + c _ { 1 } \omega + c _ { 2 } \omega ^ { 2 } } { 1 + d _ { 1 } \omega + d _ { 2 } \omega ^ { 2 } + d _ { 3 } \omega ^ { 3 } } , \omega = \sqrt { - 2 \ln \left( P \right) }
+$$
+
+当 $P { > } 0 . 5$ 时：
+
+$$
+S P E I = - \left( \omega - \frac { c _ { 0 } + c _ { 1 } \omega + c _ { 2 } \omega ^ { 2 } } { 1 + d _ { 1 } \omega + d _ { 2 } \omega ^ { 2 } + d _ { 3 } \omega ^ { 3 } } \right) , \omega = \sqrt { 2 \ln \left( P \right) }
+$$
+
+# 2.2趋势检验
+
+2.2.1突变检验
+
+Mann-Kendall突变检验是一种对长序列变化进行突变检验的方法，近些年在水文气象学方面的研究中被经常使用，其具有操作简单，结果精确的优点[23]。对于一个长度为 $n$ 的时间序列 $X = \left\{ x _ { 1 } , x _ { 2 } , \cdots x _ { n - 1 } , x _ { n } \right\}$ ，假设该时间序列无趋势性，运用统计思维原理设立一
+
+个变量dk。
+
+$$
+\begin{array} { r } { d _ { { \boldsymbol { k } } } \ = \ \sum _ { i = 1 } ^ { n - 1 } \sum _ { j = i + 1 } ^ { n } r _ { i } } \end{array}
+$$
+
+$$
+r _ { i } \ = \ \left\{ \begin{array} { l l } { { 1 } } & { { , \quad x _ { j } \ > \ X _ { i } } } \\ { { 0 } } & { { , \quad x _ { j } \leqslant x _ { i } } } \end{array} \right.
+$$
+
+计算所得序列 $d _ { \scriptscriptstyle k }$ 是一个随机秩序列，服从正态分布，由此可计算其期望值 $E \left( d _ { k } \right)$ 和方差 ${ \mathit { V a r } } \left( { \mathit { d } } _ { \mathit { k } } \right)$
+
+$$
+\begin{array} { l } { \{ E ( d _ { _ k } ) = n ( n + 1 ) / 4  } \\ {  V a r ( d _ { _ k } ) = n ( n - 1 ) ( 2 n + 5 ) / 7 2 } \end{array}
+$$
+
+据此得变量 $U F \left( d _ { k } \right)$
+
+$$
+\mathit { l f F } \left( d _ { k } \right) = \frac { \left[ { d _ { k } - E \left( d _ { k } \right) } \right] } { \sqrt { \mathit { V a r } \left( d _ { k } \right) } }
+$$
+
+定义时间序列 $X$ 的逆序列 $X ^ { \prime } = \left\{ X _ { n } , X _ { n - 1 } , \cdots , X _ { 1 } \right\}$ ，重复上述计算过程，即可得到 $X$ 的逆序列的趋势数列 $U F ^ { \prime } \left( d _ { k } ^ { } \right)$ ，计算 $U B \left( d _ { k } \right)$ ：
+
+$$
+\begin{array} { r } { U B \left( d _ { k } \right) = - U F ^ { \prime } \left( d _ { k } \right) } \end{array}
+$$
+
+根据计算所得的 $U F \left( d _ { k } \right)$ 与 $U B \left( d _ { k } \right)$ 数列，绘制其对应的趋势变化曲线。观察曲线变化范围，若两条曲线变化在置信区间之外且在时间序列内并无相交，可知该序列的变化存在向上或向下的趋势。若曲线在置信区间内有交点，则认为交点就是时间序列的突变点[24-26]。
+
+# 2.2.2Mann-Kendall非参数统计检验法
+
+世界气象组织推荐并已广泛应用的 Mann-Kendall非参数统计方法，能有效区分某一自然过程是处于自然波动还是存在确定的变化趋势，因其受异常值的干扰较小，同时不受数据分布特征的影响，而被广泛应用于气候变化影响下的降水、干旱频次趋势检测。
+
+对长度为 $n$ 的时间序列 $X = \left\{ \ b { X } _ { 1 } , \ b { X } _ { 2 } , \cdots \ b { X } _ { n - 1 } , \ b { X } _ { n } \right\}$ ，原假设 $H _ { 0 }$ ： $X$ 是一个由 $n$ 个元素组成的独立的具有相同分布的随机变量；备择假设 $H _ { 1 }$ 为双边检验：对于所有的 $i { \leqslant } n$ 和 $j { \leqslant } n$ ，且 $\textit { i } \neq \textit { j }$ ， $X _ { _ { j } }$ 和 $X _ { j }$ 的分布不同，统计变量s的计算公式为：
+
+$$
+s = \sum _ { i = 1 } ^ { n - 1 } \sum _ { j = i + 1 } ^ { n } s g n \left( x _ { j } - x _ { i } \right)
+$$
+
+$$
+s g n \left( { x } _ { j } \mathrm { \Delta } - { x } _ { i } \right) \left\{ 0 \mathrm { \Delta } , \mathrm { \Delta } { x } _ { j } \mathrm { \Delta } = { x } _ { i } \right.
+$$
+
+当 $\scriptstyle n \geqslant 8$ 时，随机序列 $\boldsymbol { s } _ { i } ( \mathrm { i } { = } 1 , 2 , . . . , n )$ 近似服从正态分布， $s$ 的期望 $E \left( s \right)$ 和方差 $V a r \left( s \right)$ 为：
+
+$$
+E \left( s \right) = 0
+$$
+
+$$
+V a r \left( s \right) = \frac { \left[ n \left( n - 1 \right) \left( 2 n + 5 \right) \right] } { 1 8 }
+$$
+
+而得到 Mann-Kendall统计检验值 $Z _ { \mathit { m k } }$
+
+$$
+Z _ { \boldsymbol { \mathrm { m } } k } \left\{ \begin{array} { l l } { \displaystyle s - 1 / \sqrt { V a r \left( s \right) } \mathrm { ~ , ~ s ~ > ~ 0 ~ } } \\ { \displaystyle ~ 0 \mathrm { ~ , ~ s ~ = ~ 0 ~ } } \\ { \displaystyle s + 1 / \sqrt { V a r \left( s \right) } \mathrm { ~ , ~ s ~ < ~ 0 ~ } } \end{array} \right.
+$$
+
+在显著水平 $\alpha = 0 . 0 5$ 时， $\left| \zeta \right| \geqslant 1 . 9 6$ ；显著水平 $\alpha = 0 . 0 1$ 时， $| Z | \geqslant 2 . 5 8$ 。基于此，检测到的趋势可以分为6个区域：（1） $s < - 0 . 0 2$ ，显著减少；（2）$s = \left[ - 0 . 0 2 , - 0 . 0 1 \right)$ ，减少；（3） $s = \left[ - 0 . 0 1 , - 0 . 0 0 4 \right)$ ，不显著减少；（4）$s = \left[ - 0 . 0 0 4 , 0 . 0 1 \right)$ ，没有显著增加；（5） $s = \left[ 0 . 0 1 , 0 . 0 2 \right)$ 弱势增长；(6) $\mathrm { { } _ { 5 \geqslant 0 . 0 2 } }$ ，显著增加。
+
+通过检查不同时间尺度的SPEI和SPI时间序列，发现自相关可以忽略不计。用于SPEI和 SPI时间序列计算得到的Mann-Kendall趋势测试的 Kendall'st，采用距离反比法进行空间插值，分析锡林河流域干旱时空演变特征。
+
+# 2.2.3MannWhitneyPettitt突变检验法
+
+Mann Whitney Pettitt 突变检验法（简称Pettitt法)，该方法也是一种非参数检验方法，最初由Pettitt 用于检验突变点，故取名为Pettitt 法[27]。Pettitt 检测法的原理是：对于样本容量为 $n$ 的气候序列，给出其对应的秩序列，构建统计量。如果在某年出现突变，则将该年作为分割点，将气候序列分为该年前与后两部分。
+
+# 2.2.4重标极差R/S分析法
+
+R/S 分析法（又称Hurst系数法）通常用来分析时间序列的分形特征和长期记忆过程，以英国水文学家哈罗德·赫斯特命名，被广泛用于水文气象要素的变化分析。
+
+# 3结果分析
+
+3.1气温与降水特征
+
+本文采用多项式和线性回归法对历年降水与气温进行分析。结果表明（图 $2 \mathrm { a } _ { 1 } { - } 2 \mathrm { b } _ { 5 } \cdot$ ，近$6 0 \mathrm { a }$ 来，锡林河流域年均气温呈上升趋势，增长率为 $0 . 3 9 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ： $\mathrm { \Omega } ( 1 0 \mathrm { a } ^ { - 1 } )$ )，Daniel检验结果显示， $\scriptstyle 1 = 0 . 6 8 6$ ， $p { < } 0 . 0 5$ ，表明年均气温呈现明显上升趋势。由季节变化可以看出，春季、夏季、秋季和冬季的气温增长率分别为 $0 . 4 8 3 ~ \mathrm { ^ \circ C }$ ： $\mathrm { \Omega ( 1 0 a ^ { - 1 } }$ ）、 $0 . 3 8 3 ~ \mathrm { ^ \circ C }$ ： $\mathrm { \left( 1 0 a ^ { - 1 } \right. }$ ）、 $0 . 3 4 4 ^ { \circ } \mathrm { C }$ ： $\mathrm { \cdot 1 0 a ^ { - 1 } }$ ）、$0 . 3 4 8 \ { ^ \circ } \mathrm { C }$ （ $\mathrm { \cdot 1 0 a ^ { - 1 } }$ ），经Daniel检验， $\boldsymbol { r }$ 值均在0.50 附近，检验显著水平 $p { < } 0 . 0 5$ ，表明气温的季节性变化差异显著。对比四季气温变化可发现，春季和夏季气温上升率较大，表明春、夏两季气温的升高对全流域气温上升具有较大的贡献。
+
+1960一2018年，锡林河流域年均降水呈线性下降趋势（图 $2 { \bf b } _ { 1 } – 2 { \bf b } _ { 5 } )$ )，减小趋势为1.811mm: $\mathrm { { ( 1 0 a ^ { - 1 } ) } }$ ，经Daniel检验， $_ { r = - 0 . 0 7 9 }$ ， $p { > } 0 . 0 5$ ，表明年均降水呈不明显的减少趋势。季节性降水变化不唯一，春、秋、冬三季呈现增加趋势，线性增加趋势分别为 $0 . 3 6 8 \mathrm { { m m } \cdot ( 1 0 a ^ { - 1 } ) }$ 、$0 . 5 3 7 \mathrm { m m }$ $\mathrm { \Omega ( 1 0 a ^ { - 1 } }$ ）、 $0 . 3 2 7 \mathrm { m m }$ ： $\mathrm { ( 1 0 a ^ { - 1 } ) }$ ，而夏季呈现下降趋势，减少趋势为 $1 . 8 6 0 \ \mathrm { m m \cdot 1 0 a } ^ { - 1 }$ ，经Daniel检验显著水平 $p { > } 0 . 0 5$ ，季节性降水变化并不显著。由于历年夏季的降水占全年总降水的 $6 6 . 9 7 \%$ ，故夏季降水的减少，导致流域全年降水量产生递减趋势，春、秋、冬三季降水对全年降水的贡献较小。气温与降水的历年6阶多项式曲线均表明,20世纪90年代后，降水与气温的变化幅度较之前大，并且出现明显的周期性变化。
+
+![](images/8423690a70f1967a2f0407f89aa9b9b75c5b868422d5ad994e2d365dc0736c4c.jpg)  
+图21960一2018年气温与降水变化趋势  
+Fig.2 Trends of temperature and precipitation in 196O-2018
+
+# 3.2SPEI与 SPI分析
+
+# 3.2.1SPEI与SPI变化趋势
+
+不同时间尺度 SPEI和 SPI的波动规律明显不同（图3)。干旱指数的波动频率随着时间尺度的增大，干湿变化随之变平缓；反之，时间尺度越小，干湿变化越剧烈。其中月尺度能够反映短期内降水不足引起的气象干旱，变化最为剧烈；季节尺度可以反映农业干旱状况，波动频率减弱；年际变化可以反映出包括地下水、河流等在内的水文干旱情况。SPEI 呈现出持续减小趋势，21世纪00一10年代出现最低值，2010年附近有所回升，但近几年又呈现减小迹象。与 SPEI的变化不同，SPI的变化呈现出低一高—低与高一低一高交替变换的现象。20 世纪60—70年代、80—90年代和21世纪00—10年代 SPI值有明显的减小趋势。
+
+![](images/4c8c6d50c1f4a7cefe57888f036f1e86138781fe3364cf0c25dab10ebf9cd0a1.jpg)  
+图31960—2018年不同时间尺度 SPEI与 SPI变化趋势图Fig.3 Trends of SPEI and SPI at different time scales from 196O to 2018
+
+3.2.2SPEI与SPI表征干旱等级的对比分析
+
+为进一步探究 SPEI与 SPI在描述干旱等级上的差别，统计了1960—2018年月尺度下不同程度干旱发生次数（图4)。可以看出近60a来，SPEI统计轻、中、重、特旱的次数分别为123、76、33、14次，总计 246次。SPI统计轻、中、重、特旱的次数分别为109、65、31、7次，总计212次。SPEI对轻旱和重旱的描述较SPI更精细，识别干旱的能力较强。在年代变化中，20 世纪80年代和21世纪00年代发生干旱的次数在 40-60 次，90年代为 30次左右，其余年代均在26\~38次。从图4可以明显地看到，20世纪90到21世纪00 年代，锡林河流域干旱发生次数呈显著增加趋势，且00年代达到历年变化的峰值，10年代后回归平稳状态。
+
+![](images/0f445ef2f354d959ac8a6474fbc98a8385f2a2a6a3f2d912c598923eb2dbf477.jpg)  
+图4不同干旱等级 SPI与 SPEI干旱发生次数统计
+
+Fig.4 Statistical diagram of the number of drought occurrences of SPEI and SPI in different drought levels
+
+3.2.3SPEI与 SPI的Mann-Kendall突变检验
+
+用 Mann-Kendall突变检验法对锡林河流域不同站点1960—2018年 SPI-12进行突变检验（图5)，结果表明：近59a来只存在1999年一个突变点，且在置信区间内。Pettitt 突变点检测结果与Mann-Kendall突变检验结果一致，且检验结果显著。关于SPI的UF与UB存在多个交汇点，分别为1962、1996、1998、1999年，由于突变点均在置信区间内，为进一步验证其突变年份，故采用Petitt突变点检测进行验证，检验结果显示 SPI突变年份为1998年，检验结果为不显著，说明近60a来，SPI受降水波动影响较大，突变点不易被检测到。通过 Mann-Kendall 突变检验结果可知，由干旱指数表征的干旱情况在锡林河流域发生具有代表性的突变开始于90年代。
+
+![](images/8d1bf46bbe82c7af8b77e39974b05ea50bf7345ae3d37e8aff5d2c3f039db3b1.jpg)  
+图51960—2018 年锡林河流域 SPEI与 SPI的Mann-Kendall突变检验Fig.5 Mann-Kendall mutation test of SPEI and SPI in the Xilin River Basin from 1960 to 20183.3SPEI与SPI趋势变化时空对比分析
+
+# 3.3.1逐月趋势变化
+
+锡林河流域历年SPEI逐月空间变化（图6）表明，锡林河流域1月份SPEI没有显著增长，在上游与下游西北端呈现出比中下游其余区域弱的增长趋势；锡林河流域2月份 SPEI在流域下游西北部呈现出下降趋势，但下降趋势不明显；3月份锡林河流域上游与下游西北部 SPEI有不显著的下降趋势,4月份锡林河流域中下游SPEI减小，直到5月份才有所缓和，这与春季为全年气温增加态势最明显季节有很大关系，随着月份的向后推移，变化程度从下游西北端—上游东南端—中游逐渐减弱；6—8月份锡林河流域 SPEI呈现出夏季气温与降水的综合变化态势，从6—7月份的减小一直到8月份的显著减小，表明 SPEI值能够综合捕捉气温与降水对干旱的影响；9—10月份的 SPEI依旧存在减小趋势，下游尤其明显，直到11—12月份SPEI才开始有所增长，流域下游与中游增加态势较上游强。由于锡林河流域从10月份气温就开始大幅度下降，故SPEI对气温与降水变化的敏感程度较高。
+
+![](images/d1d22c708ec12dd46c7cba65db1a6362bd5be7a9bbb8fb6cacbf30cd4da97f4a.jpg)  
+图6锡林河流域 SPEI月值的Kendall't空间分布
+
+1ig.uiuespauai aom利用距离反比法对1960—2018年 SPI进行Mann-Kendall非参数统计检验，并进行空间插值分析（图7)。结果表明，1月份的 SPI在锡林河上游有微弱的增大趋势，中游到下游上段增大趋势较明显，下游末端的增加速度趋于整个月的均值；2月份整个流域大部分区域SPI呈上升趋势，只有下游段西部部分地区有微弱的下降趋势；3月份流域上游与下游游 SPI呈现下降趋势，中游 SPI值有微弱的上升趋势；4月份锡林河流域总体呈现出比前3个月稍强烈的上升趋势，这与春季降水增加有极大的关系；由于气温逐渐升高，导致蒸发增加，5月份 SPI的上升趋势减弱不少，6月份 SPI弱势增长；7—8月份锡林河流域的 SPI值一直处于明显减小趋势，这与夏季降水逐年减少、气温逐年上升有显著关系，减小程度最大区域由上游一中游—下游，随着月份依次变化，这与流域径流量变化有着密切关系；9—11月份的SPI值一直有增大的趋势，下游先增大，中、下游随之增大，11月全流域有显著的增大趋势，
+
+这与秋季降水有所回升，气温降低有关系；12月份SPI增加趋势随着气温的下降开始逐渐减小，一直持续到2月份。
+
+![](images/6225a1319deab75f5c1e278caf810c5de538608ccfd6684ffdc7d54a4fb3102f.jpg)  
+图7锡林河流域 SPI月值的Kendall't空间分布
+
+Fig.7 The spatial distribution of Kendal't in the SPI monthly value of the Xilin River Basin 3.3.2 年际趋势变化
+
+锡林河流域 SPEI表征的干旱变化趋势（图8左）表明，全流域SPEI总体呈现减小趋势，其中在流域中下游段，尤其是流域西北端的干旱化较严重；锡林河流域SPI表征的干旱变化趋势（图8右）表明，流域总体呈现不显著的增加趋势，并且仅在流域中游干旱化较为严重，并没有识别出更严重的干旱化趋势以及下游段其他区域的干旱化现象。杜波波等[28]研究认为，在锡林郭勒盟西南，中部及中间北部地区存在干旱现象，并且出现严重干旱的频率也较高。SPEI与 SPI的空间演化趋势显示，SPEI能够较 SPI更好、更早的预测旱灾，涵盖SPI所识别的干旱化现象，在锡林河流域适用性较好。
+
+![](images/be7b787bbc25071cb8d7e2e8a751fcca71b7205f14fce1c6707b40b73e23d393.jpg)  
+  
+图8锡林河流域SPEI与SPI年值的Kendall't空间分布 Fig.8 The spatial distribution of Kendal't in the SPEI and SPI annual values of the Xilin River Basin
+
+# 3.4未来旱情预测
+
+根据 R/S 分析原理，利用最小二乘法计算近59a锡林河流域 SPEI序列的Hurst指数，若 $H$ 大于0.50时，表明该序列零时刻过去增量与零时刻未来增量的相关函数值大于0，产生正持续效应，反之产生反持续效应。由表2可知，年尺度的Hurst指数为0.4178，表明 SPEI未来将会有减缓的可能，但可能性较小；春季、夏季和秋季的 SPEI将会呈现较大可能的减缓现象；冬季 SPEI的Hurst指数大于0.50，表明锡林河流域冬季旱情将会有持续加重的可能，需要重点关注冬季旱情的变化，尤其是流域中下游段。
+
+表2R/S分析结果统计  
+Table 2 Statistics of R/S analysis results   
+
+<html><body><table><tr><td>时间</td><td>SPEI</td></tr><tr><td>全年</td><td>0.4178</td></tr><tr><td>春季</td><td>0.2171</td></tr><tr><td>夏季</td><td>0.3068</td></tr><tr><td>秋季</td><td>0.3794</td></tr><tr><td>冬季</td><td>0.5321</td></tr></table></body></html>
+
+# 4结论与讨论
+
+（1)对比分析SPEI和SPI之间的差异发现，SPEI可以较好地捕获1960—2018年特旱、重旱和中旱事件。SPEI表征的干旱持续时间较 SPI长，且频次较多；降水的历年变化不显著，但气温的年、季节性变化差异显著。因此，气温对锡林河流域干旱的作用较明显，故SPEI能够较SPI更好、更早的预测旱灾，在锡林河流域适用性较好。
+
+（2）锡林河流域 SPEI总体呈现减小趋势，旱情突变开始于20 世纪90 年代；月尺度SPEI的Kendall't变化表明，流域下游西北端是干旱化较为严重的区域，应加强对旱情的监测。在未来，锡林河流域的旱情将逐渐有所缓解，但冬季旱情有持续加重的可能。
+
+（3）气象干旱为区域旱情提供最早的预警信息，且某一年的干旱是由多种陆面和大气因素耦合所致。其中有关草原型流域干旱成灾机理方面的研究，尤其在牧草不同生育期多种致灾因子叠加组合形成的干旱灾害还有待进一步研究。多个单点上的气温、降水及潜在蒸散量只能粗略的估计区域面上的干旱趋势变化，未来有待优化干旱指数的区域适用性与综合使用性。
+
+参考文献： [1]唐敏,张勃,张耀宗,等.基于 SPEI和 SPI指数的青海省东部农业区春夏气象干旱特征的评 估[J].自然资源学报，2017，32(6)：1029-1042.[Tang Min,Zhang Bo,ZhangYaozong，et al.Evaluation of meteorological drought characteristics in spring and summer in eastern agricultural region of Qinghai Province based on SPEI and SPI index[J].Journal of Natural Resources,2017,32(6):1029-1042.] [2] Touma D,Ashfaq M,Nayak M A,et al. A multi-model and multi-index evaluation of drought characteristics in the 21st century[J]. Journal of Hydrology,2015,526: 196-207. [3] 张立杰,李健.基于 SPEI和 SPI指数的西江流域干旱多时间尺度变化特征[J].高原气象，   
+2018，37(2): 560-567.[Zhang Lijie,Li Jian.Characteristics of drought multi-time scale changesin XijiangRiverBasinbasedonSPEI andSPI index[J].Plateau Meteorology,2018,37(2):560-567.] [4] 马柱国．1951-2004 年我国北方干旱化的基本事实[C]/ 中国水利技术信息中心.全国旱 情监测技术与抗旱减灾措施论文集，2009：12.[Ma Zhuguo.Basic Facts of Aridification in Northern China from 1951 to 2O04[C]// China Water Conservancy Technology Information Center. Proceedings of National Drought Monitoring Technology and Drought and Disaster Mitigation Measures,2009:12.] [5] 宋小园,朱仲元,焦玮,等.数字滤波法在锡林河基流分割中的比较与应用[J].干旱区地 理,2016,39(6):1319-1326.[Song Xiaoyuan, Zhu Zhongyuan, Jiao Wei, et al.Comparison and application of digital filtering method in the division of Xilin River base flow[J].Arid Land Geography,2016,39(6):1319-1326.] [6] 宋小园．气候变化和人类活动影响下锡林河流域水文过程响应研究[D].呼和浩特：内蒙 古农业大学，2016.[Song Xiaoyuan. Study on Hydrological Process Response of Xilin River basin under the Influence of Climate Change and Human Activities[D]. Hohhot: Inner Mongolia Agricultural University, 2016.] [7] 王素萍，王劲松，张强，等.多种干旱指数在中国北方的适用性及其差异原因初探[J].高 原气象，2020，39(3)： 628-640.[Wang Suping，Wang Jinsong， Zhang Qiang，et al. Applicability evaluation of drought indices in northern China and the reasons for their differences[J]. Plateau Meteorology, 2020, 39 (3): 628-640.] [8] 赵兴凯，李增尧，朱清科.基于 SPI 和 SPEI 陕北黄土区土壤水分对气候特征的响应[J]. 农业机械学报，2016，47(8)：155-163.[Zhao Xingkai,Li Zengyao, Zhu Qingke.Response of soil moisture to climate characteristics based on SPI and SPEI in the Loess Region of Northern Shaanxi [J]. Journal of Agricultural Machinery, 2016, 47(8): 155-163.] [9] 张强，张良，崔显成，等.干旱监测与评价技术的发展及其科学挑战[J].地球科学进展，   
+2011， 26(7): 763-778.[Zhang Qiang,Zhang Liang,Cui Xiancheng, et al.Development and scientific challenges of drought monitoring and evaluation technology[J].Advance in Earth Sciences,2011,26(7):763-778.] [10] 周丹，张勃，任培贵，等.基于标准化降水蒸散指数的陕西省近 50a干旱特征分析[J].自 然资源学报，2014，29(4): 677-688.[Zhou Dan, Zhang Bo,Ren Peigui, et al. Analysis of drought characteristics of Shaanxi Province in the past 5O years based on standardized precipitation evapotranspiration index[J]. Journal of Natural Resources, 2O14, 29(4):   
+677-688.] [11] 刘小刚，冷险险，孙光照，等.基于1961—2100 年 SPI和 SPEI的云南省干旱特征评估 [J].农业机械学报，2018，49(12): 236-299.[Liu Xiaogang,Leng Xianxian, Sun Guangzhao, et al. Evaluation of drought characteristics in Yunnan Province based on SPI and SPEI from 1961 to 2100[J]. Journal of Agricultural Machinery,2018,49(12): 236-299.]   
+[12]秦鹏程，姚凤梅，张佳华，等．基于 SPEI指数的近50 年东北玉米生长季干旱演变特征 [C]// 中国气象学会.第 28 届中国气象学会年会:S11 气象与现代农业，2011.[Qin Pengcheng, Yao Fengmei, Zhang Jiahua, et al. Drought Evolution Characteristics of Corn Growing Season in Northeast China in the Past 5O Years based on SPEI Index[C]//Chinese, Meteorological Society. The 28th Annual Meeting of Chinese Meteorological Society:S11 Meteorology and Modern Agriculture, 2011.]   
+[13]王东，张勃，安美玲，等.基于 SPEI的西南地区近 53a干旱时空特征分析[J].自然资源 学报，2014， 29(6):1003-1016.[Wang Dong, Zhang Bo,An Meiling,et al. Analysis of SPEI-based spatial and temporal characteristics of drought in recent 53 years in Southwest China[J]. Journal of Natural Resources, 2014, 29(6): 1003-1016.]   
+[14] 张玉静，王春乙，张继权.基于 SPEI 指数的华北冬麦区干旱时空分布特征分析[J].生态 学报,2015,35(21): 7097-7107. [Zhang Yujing, Wang Chunyi, Zhang Jiquan. Analysis on the spatial and temporal distribution characteristics of drought in winter wheat area in North China based on SPEI index[J]. Journal of Ecology, 2015, 35(21): 7097-7107.]   
+[15]徐一丹，任传友，马熙达，等.基于 SPI/SPEI指数的东北地区多时间尺度干旱变化特征 对比分析[J].干旱区研究，2017，34(6)：1250-1262.[XuYidan,RenChuanyou,Ma Xida，et al.Comparative analysis of multi-time scale drought variation characteristics in northeast China based on SPI/SPEI index[J].Arid Zone Research,2017,34(6):1250-1262.]   
+[16] 王慧敏，郝祥云，朱仲元.基于干旱指数与主成分分析的干旱评价—一以锡林河流域为 例[J].干旱区研究，2019，36(1）：95-103．[WangHuimin,HaoXiangyun,Zhu Zhongyuan.Drought evaluation based on drought index and principal component analysis: taking Xilin River Basin as an example[J].Arid Zone Research,2019,36(1):95-103.]   
+[17] Allen R G, Pereira L S,Raes D,et al. Crop evapotranspiration: Guidelines for computing crop water requirements, irrigation and drainage paper NO.56[M]. Rome, Italy Allen: Food and Agriculture Organization of the United Nations (FAO), 1998.   
+[18]郝祥云，朱仲元，宋小园，等.近50a 锡林河流域极端天气事件及其与气候变化的联系[J]. 干旱区资源与环境，2017，31(7)：114-120.[HaoXiangyun,Zhu Zhongyuan,Song Xiaoyuan, et al.Extreme weather events in the Xilin River Basin in the past 5O years and their relationshipwithclimatechange[J].JournalofAridLandResourcesand Environment,2017,31(7):114-120.]   
+[19]王莺，李耀辉，姚玉璧，等.石羊河流域地表干湿变化的时空分布特征[J]).资源科学，2013, 35(10):2112-2120.[Wang Ying,LI Yaohui,Yao Yubi, et al.Spatiotemporal distribution of surface dry-wet changes in Shiyang River Basin[J].Resources Science,2013,35(10):2112-2120.]   
+[20] Zarch M A A, Sivakumar B, Sharma A. Droughts in a warming climate: A global assessment of Standardized precipitation index (SPI） and Reconnaissance drought index (RDI)[J]. Journal of Hydrology, 2015, 526: 183-195.   
+[21] Vicente-Serrano S M, Begueria S,Lopez-Moreno JI. A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index[J]. Journal of Climate, 2010,23(7): 1696-1718.   
+[22] 张煦庭，潘学标，徐琳，等.基于降水蒸发指数的1960—2015 年内蒙古干旱时空特征[J]. 农业工程学报,2017,33(15):190-199.[Zhang Xuting,Pan Xuebiao,Xu Lin,et al.The spatial and temporal characteristics of drought in Inner Mongolia from 196O to 2O15 based on precipitation evaporation index[J]. Transactions of the Chinese Society of Agricultural Engineering,2017,33(15):190-199.]   
+[23]王淑红．渭河支流葫芦河干流径流变化特征及其影响因素分析研究[D].兰州：兰州大学， 2018.[Wang Shuhong. Analysis of runoff variation characteristics and influencing factors of the main stream of Hulu River in the WeiheRiver[D]. Lanzhou: Lanzhou University, 2018.]   
+[24] 仲露，夏杰，赵良娟，等.基于Mann-Kendall突变检验与 ARIMA 模型的臭氧水平预测 [J].河北北方学院学报（自然科学版)，2017，33(11)：15-21.[ZhongLu,XiaJie,Zhao Liang-juan,et al.Ozone level prediction based on Mann-Kendall mutation test and ARIMA model[J].Journal of Hebei North University(Natural Science Edition),2O17,33(11):15-21.]   
+[25]王念,田庆春.基于Mann-Kendall方法的1954—2015年临汾市气候变化特征分析[J].现代 农业科技，2019(13)：175-178.[Wang Nian,TianQingchun.Analysis of climate change characteristics of Linyicity from 1954 to 2015 based on Mann-Kendall method[J].Modern Agricultural Technology,2019(13):175-178.]   
+[26]金成浩，韩京龙.基于Mann-Kendall检验的嘎呀河流域降水变化趋势及突变分析[J].吉林 水利,2013(12): 62-66.[Jin Chenghao,Han Jinglong.Analysis of Precipitation Change Trend and Mutation in the Oama River Basin Based on Mann-Kendall Test[J].Jilin Water Resources,2013(12):62-66.]   
+[27] PettittA N.A non-parametric approach to the change-pointproblem[J].Applied Statistics,1979,28(2):126-135.   
+[28] 杜波波，阿拉腾图娅，包刚.2002—2016 年锡林郭勒草原干旱时空特征[J].水土保持研究， 2019，26(4): 190-202.[Du Bobo,AlaTengTuya, Bao Gang. Characteristics of drought time and space in XilinGolgrassland from 2OO2 to 2O16[J]. Soil and Water Conservation Research, 2019, 26(4): 190-202.]

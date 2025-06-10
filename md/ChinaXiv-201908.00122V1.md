@@ -1,0 +1,193 @@
+# 多目标追踪的神经机制\*
+
+魏柳青1,2；张学民2,3
+
+(1湖北大学教育学院，武汉 430062)(2北京师范大学心理学部，应用实验心理北京市重点实验室，心理学国家级实验教学示范中心(北京师范大学)，北京 100875)(北京师范大学认知神经科学与学习国家重点实验室，北京100875)
+
+摘要多目标追踪任务是研究动态场景中视觉注意加工机制常用的范式。自1998年开始对多目标追踪神经机制的影像学研究以来，研究者采用ERP和fMRI等技术对多目标注意追踪所涉及的神经电生理活动和脑功能区激活方面开展了大量研究。ERP研究发现，追踪过程持续的ERP脑电成分如N2pc、CDA的波幅与注意追踪负荷有关，并且出现在目标与非目标上的探测刺激诱发的脑电成分如 N1、P1波幅的差异可反映注意资源的分配，具体为目标在追踪过程中得到了激活，而非目标受到了抑制。fMRI研究比较一致地发现了顶叶(包括前顶内沟、后顶内沟、顶上小叶)、背外侧额叶皮层等在注意追踪中的强烈激活。其中顶内沟主要与注意负荷有关，顶内沟的活动水平直接决定了观察者注意追踪的行为表现。而顶上小叶可能更多的负责注意转移。背外侧额叶皮层可能负责追踪时的感觉运动预测过程。
+
+关键词多目标追踪；注意分配；事件相关电位；功能磁共振成像；顶内沟
+
+# 1引言
+
+以往研究多在静态场景下进行视觉信息的知觉和注意加工研究。而在现实生活中，人们的视觉注意与知觉系统经常需要处理很多运动变化的视觉对象。为了进行正确的判断和决策，视觉信息加工系统通常要同时对多个对象进行持续的注意追踪，并对视觉对象的特征进行识别和加工。Pylyshyn和Storm(1988)提出的多目标追踪(Multiple Object Tracking,MOT)范式是研究动态场景中基于客体的(Object-based)视觉注意机制常用的范式。在该范式中，首先给观察者呈现数个表面特征相同的对象(典型的如圆环)，其中一些被标记为目标，其余为非目标(该阶段为线索阶段或目标标记阶段)；要求观察者在对象随后的独立、随机运动阶段追踪目标并在运动停止后报告目标。早期的多目标追踪任务多采用表面特征完全相同的客体，如八个相同的圆环作为追踪对象。基于现实生活中的物体都具有特定的身份信息或独特的表面特征，后来的研究者也采用具有独特表面特征的客体作为追踪对象来探讨表面特征对注意追踪的影响(Liu,Chen,Liu,&Fu,2012;Makovski& Jiang,2009a,2009b)。不管追踪对象的表面特征是完全相同还是具有独特性，多目标追踪任务不需要观察者对目标身份进行识别，只要求观察者在对象运动过程中追踪目标的方位变化，并在运动停止后，根据目标运动过程中位置信息(Where)的变化从对象里选出目标，而不需要报告目标的身份(Makovski& Jiang，2009a,2009b)；也即观察者在追踪过程中不需要将目标的方位与其特定的身份进行绑定，而只需要通过监测目标运动轨迹的变化就可以完成任务。
+
+多目标追踪范式自提出以来就引起了研究者极大的兴趣。围绕多目标追踪的研究主要从以下五个方面展开：(1)探讨影响追踪表现的因素，如目标和非目标的数量(Oksama＆Hyona,2004; Pylyshyn,2000,2001)、对象运动的速度(Liu et al.,2005; Tombu& Seiffert,2011)、运动过程中对象间距的大小(Alvarez & Franconeri,20o7;Franconeri, Jonathan,& Scimeca, 2010)、运动所参考的框架(Liu etal.,2005)等都会对追踪表现产生影响；(2)采用认知行为实验和事件相关电位技术(Event-Related Potentials,ERP)探讨多目标追踪中的注意加工机制(Cavanagh &Alvarez,2005; St.Clair,Huff,& Seiffert,2010; Tombu & Seiffert,2008; Thomas & Seiffert,2010;魏柳青，张学民，李永娜，马玉，2014；张滨熠，丁锦红，2010)和注意分配机制，如研究者发现在追踪过程中存在对目标的激活和对非目标的抑制(Doran & Hoffman，2010；Drew,McCollough, Horowitz,& Vogel, 2009; Pylyshyn,2006; Pylyshyn, Haladjian, King，& Reilly,2008；Sternshein,Agam,& Sekuler,2011；张学民,刘冰,鲁学明,2009；张学民,鲁学明,魏柳青，2011)；(3)探讨对象的独特表面特征对注意追踪的影响(Howe& Holcombe,2012;Liu et al.,2012;Makovski & Jiang,2009a,2009b; Ren,Chen,Liu,&Fu,2009)；(4)探讨多目标追踪过程中基于空间的分组(Yantis,1992; Ogawa & Yagi,2002; Suganuma & Yokosawa,2006)、基于特征的分组(Erlikhman, Keane,Mettler,Horowitz,& Kellman,2013;Wang,Zhang,Li,& Lyu,2016)和基于语义范畴的分组(Wei, Zhang,Lyu,& Li,2016;Wei, Zhang,Li,& Liu,2018; Wei,Zhang,Lyu,Hu,&Li,2017；魏柳青,张学民,2014)；(5)因为在多目标追踪任务中，观察者的注意追踪是基于客体的(Object-based; Pylyshyn,2000,2001,2006)，所以后来的研究者把多目标追踪范式作为一个有用的工具，来探讨什么类型的特征集合可以算作视觉客体(Scholl,Pylyshyn,&Feldman,2001; vanMarle& Scholl,2003)。如研究者发现，在追踪过程中，只要客体的拓扑特征保持不变，也即具有拓扑恒常性，客体的其他大量特征变化不会影响追踪表现。而拓扑特征的改变导致客体表征(Object Representation)的变化会显著干扰追踪表现(Zhou,Luo,Zhou,Zhuo,&Chen;2010)。(6)特殊群体包括儿童、老年人、运动员、电子游戏玩家、自闭症儿童等在多目标追踪任务上的表现差异及训练研究(Allen，McGeorge，Pearson，&Milne; 2004; Green & Bavelier; 2006; Trick, Hollinsworth,& Brodeur, 2009; Zhang, Yan,& Liao,2009；廖彦罡，张学民，葛春林，2006；马玉，张学民，张盈利，魏柳青，2013；张学民，廖彦罡，葛春林,2008)。
+
+除了以上五个方面的研究，研究者也采用ERP技术探明多目标追踪过程中注意分配的机制、注意加工的时间进程及与追踪容量和观察者追踪表现密切相关的神经电生理指标；同时采用功能磁共振成像(Functional Magnetic Resonance Imaging，fMRI)、经颅磁刺激(Transcranial Magnetic Stimulation)和经颅直流电刺激(Transcranial Direct Current Stimulation,tDCS)等技术探讨与多目标追踪和追踪负荷相关的脑功能区和神经机制。以上两方面研究从不同角度深入揭示了观察者同时对多个运动物体进行追踪时注意加工的神经基础，有助于加深我们对“Where”信息加工神经通路的了解，以及在注意追踪基础上对多目标的知觉以及更高层面加工的相关脑区及其神经通路(如What通路)的认识。本文在总结已有研究所发现的多目标追踪的神经机制基础上，对已有存在问题进行了分析，并提出了未来对多目标追踪神经机制研究的展望。
+
+# 2多目标追踪中注意分配机制ERP研究
+
+# 2.1多目标追踪中注意资源分配机制的ERP研究：早期追踪过程的脑电活动规律
+
+研究者采用ERP技术探讨了多目标追踪中注意分配的神经机制。行为研究表明，被试在多目标追踪中存在对非目标的基于客体的(Object-based)抑制(Pylyshyn,2006;Pylyshyn et al,2008)。Pylyshyn(2006)采用多目标追踪与点探测刺激觉察任务相结合的实验范式发现，相对于目标和空白区域，被试在非目标上的点探测成绩最差，并且非目标上的点探测成绩不仅要显著低于目标和空白区域，而且也低于目标附近区域和非目标附近区域。这说明抑制机制严格限定在非目标客体上。Pylyshyn等(2008)进一步研究发现这种对于非目标的抑制机制具有选择性：与目标容易区分的非目标(如静止非目标)因为对追踪任务干扰较小，所以不受抑制;而与目标容易混淆的非目标因为对追踪任务干扰较大，只有对其进行有效抑制，视觉认知系统才能顺利完成追踪任务。
+
+但研究者根据行为实验结果并不能说明追踪过程中是否存在对目标的激活作用。Drew等 (2009)采用ERP技术考察了注意在多目标追踪中的作用。研究同样采用多目标追踪与点探测刺激觉察任务相结合的范式，被试在10个对象中追踪2个目标，8个非目标中4个为静止非目标，4个为运动非目标。被试只需要追踪目标，不需要对探测刺激进行反应。探测刺激随机出现在目标、静止非目标、运动非目标与空白区域上。结果发现呈现在目标上的探测刺激所诱发的P1、N1成分显著大于非目标与空白区域，追踪表现较好的被试与表现较差的被试相比，目标与非目标所诱发的N1波幅间的差异要更大。这说明存在对目标的早期注意增强效应(Early Attentional Enhancement)，即对目标的激活效应。Sternshein等 (2011)认为，Drew等(2009)并没有考察追踪负荷的影响，在Drew等(2009)的研究中，被试只需要追踪两个目标，并且对象的运动速度很慢，仅为1‘/s。Stermshein等(2011)认为如此低的追踪负荷加上如此低的运动速度，有可能导致被试只是在两个目标间进行注意切换，而不是同时追踪多个目标。因此，他们考察了被试在正常速度 $( 1 0 ~ ^ { \circ } / \mathrm { s } )$ 下追踪2、3和4个目标时，出现在目标或非目标上的无关探测刺激所诱发的ERP波幅(刺激出现后 $0 \mathrm { \sim } 2 5 0 \mathrm { m s }$ )的差异。结果发现出现在目标上的探测刺激诱发了更大的ERP波幅，说明目标与非目标同时呈现时，观察者对目标投入了更多的注意资源。目标与非目标的ERP波幅随着追踪负荷的增加都出现了下降，与非目标相比，目标上的下降速度更快；说明随着追踪负荷的增加，分配到目标上的注意资源减少。更重要的是，随着追踪负荷的增加，目标与非目标上的探测刺激所诱发的ERP波幅差异变小，这一趋势与被试的行为表现一致，表明成功的追踪依赖于与注意和非注意对象相联系的神经信号的关系。
+
+Doran和Hoffman (2010)通过三个实验比较了追踪过程中目标、非目标、空白区域上的探测刺激所诱发的ERP成分的差异。实验一和二均有两个目标和两个非目标，实验三有三个目标和三个非目标。其中实验一不要求被试对探测刺激进行反应，实验二和三要求被试对其中$2 5 \%$ 的目标探测刺激进行按键反应。感兴趣的ERP成分是Posterior N1和Anterior N1。实验一发现目标与空白区域的Posterior N1波幅无显著差异，但都大于非目标。目标上的探测刺激所诱发的AnteriorN1波幅大于空白区域，而空白区域又显著大于非目标，说明追踪过程中存在对非目标的抑制及对目标的激活作用。实验二在要求被试对部分探测刺激进行反应的条件下，目标、空白区域、非目标上的探测刺激所诱发的AnteriorN1和PosteriorN1均不显著。研究者认为当追踪负荷较低，探测刺激为任务相关时，被试可以把注意广泛分布到追踪区域而不影响追踪正确率，目标追踪可能不需要视觉注意，而依赖于“视觉索引”(VisualIndexing,Pylyshyn，2003)机制。实验三增加追踪任务的难度使视觉注意效应重新出现，即目标上的Anterior N1和PosteriorN1波幅显著大于空白区域和非目标，而空白区域与非目标间无显著差异。这一结果表明：多目标追踪过程中存在注意对目标的激活作用，注意资源可能更多地分配到了目标上。
+
+综合以上研究可以看出，研究者在行为实验的基础上，采用以往多目标追踪加点探测刺激觉察任务的范式(Pylyshyn et al.，2008)，关注分布在不同区域的点探测刺激所诱发的与视觉注意密切相关的P1、N1等早期ERP成分，利用ERP波幅这一更为敏感的指标，为追踪过程中目标的注意激活和非目标的抑制提供了明确的证据，同时通过注意追踪的时间进程及相关的脑电成分，进一步阐述了多目标追踪的注意资源分配机制：即相较于非目标和空白区域，
+
+注意资源更多地分配到了目标上。
+
+# 2.2多目标追踪中与注意负荷和追踪表现有关的 ERP研究：N2pc和CDA与任务难度和追踪的关系
+
+行为研究表明目标和非目标的数量、运动速度等诸多因素会影响多目标追踪的成绩。在行为研究基础上，研究者采用多目标追踪任务和ERP技术，通过变化目标数量(追踪负荷)、运动速度等影响观察者追踪表现的参数，记录晚期的ERP成分(如与注意选择有关的N2pc成分以及持续注意相关的CDA成分等)，探讨不同注意负荷或观察者不同追踪表现下的神经电生理活动规律，为利用观察者的神经电生理指标预测其追踪表现提供了可能。
+
+研究者(Drew&Vogel,2008)认为，多目标追踪任务至少涉及到视觉注意的两种成分：短暂选择过程(Transient Selection Process)和注意持续过程(Sustained Process)。短暂选择过程发生在目标标记阶段，首先决定了哪些客体要被追踪；而注意持续过程发生在追踪阶段，目的是当目标在相同的非目标中运动时保持表征的更新。而多目标追踪的研究发现，注意追踪是有容量限制(Capacity Limitation)的，大多数个体只能同时追踪大约4个客体(Pylyshyn & Storm,1988;Cavanagh＆ Alvarez,2005)，但这一容量限制背后的神经生理机制尚不清楚。Drew和Vogel(2008)对追踪任务的最初选择过程和注意持续过程进行了独立的神经电生理学测量，以探究影响追踪表现的决定因素。Drew和Vogel(2008)主要关注了两种ERP成分，一是N2pc(Posterior Contralateral N2)成分，是短时的对侧负波，在刺激呈现后约 $2 0 0 { \sim } 3 0 0 \mathrm { m s }$ 之间出现在目标刺激的对侧脑后区域，在视觉搜索任务中反映了从分心物中选择目标的过程，其波幅反映了对目标刺激的注意分配量(Luck,2005)。二是对侧延迟活动(Contralateral Delay Activity,CDA)，可反映追踪过程中对目标的持续注意，因为它对目前保持在视觉工作记忆中的客体数量较为敏感，而且对视觉工作记忆的容量限制也较敏感。研究者让被试在半侧视野追踪1、2或3个目标，结果发现N2pc和CDA波幅随着目标数量的增加而持续增大，并且N2pc和CDA波幅的增加并不是由于目标区域空间范围的增加导致的。研究者让被试在半侧视野的大区域或小区域内追踪2个或3个目标，尽管在行为表现上，被试在小区域内的追踪表现显著低于大区域，但仍发现了N2pc和CDA波幅随着目标数量增加而显著增大，区域大小对两成分的波幅没有显著影响。研究者同时考察了在超出追踪容量的条件下，两成分是否对注意追踪的行为表现敏感。研究者让被试追踪1、3或5个目标，根据被试追踪表现将其分为高容量组(High-capacity Group)和低容量组(Low-capacity Group)，结果发现两组被试的N2pc和CDA波幅均随着目标数量从1到3的增加而增强，但在追踪5个目标时，高容量组两成分的波幅与追踪3个目标时无显著差异，而低容量组两成分的波幅降低至1个目标的水平。在此基础上，研究者考察了追踪容量的个体差异的预测因素，发现从追踪1个目标到追踪3个目标时ERP波幅的增加程度与个体追踪容量密切相关，对追踪容量具有较好的预测性。进一步研究发现，当注意选择较难(目标和非目标分布在半侧视野)但追踪时间较短(对持续注意要求较低)时，N2pc波幅的增加程度对追踪表现具有较好的预测性；而当选择难度降低(目标和非目标分布在全视野)但需要长时间追踪时，CDA波幅的增强与个体追踪表现具有更高的相关性，能够更好地预测追踪表现。
+
+以往研究发现，对象运动速度增加和非目标数量增加都可以导致观察者追踪表现下降，即能够正确追踪的目标数量减少。那么，是什么因素导致了这种变化？Drew，Horowitz和Vogel(2013)认为有两种可能性，一是被试丢失了追踪的目标(Dropping)，二是被试混淆了目标与非目标(Swapping)。Drew等(2013)通过CDA波幅区分了这两种因素。CDA波幅主要反映了追踪目标的数量,而与任务难度无关。之前研究(Drew&Vogel,2008;Drew,Horowitz,Wolfe,& Vogel,2011)发现，CDA波幅与对侧视野的追踪目标数量成正比，即CDA波幅随着追踪目标负荷的增加而增加，当目标数量超出追踪容量(TrackingCapacity)时接近渐近线(Asymptotes)，但并不随着其他难度操作的增加而增加。Drew等(2013)的ERP与行为实验发现，对象运动速度增加导致追踪表现下降是由于目标的丢失，而非目标数量增加导致的追踪表现下降是由于目标与非目标间的混淆。
+
+# 2.3多目标追踪任务中高低表现个体的ERP研究
+
+以往多目标追踪任务的报告方式多是让被试在客体运动停止后选出所有目标或报告某一指定客体是否为目标。Merkel等人(2014)采用了不同于以往的目标报告方式，他们让被试在8个客体中追踪4个目标，运动停止后，4个客体被选定，选定的4个客体中可能有0个(也即均为非目标)、1个、2个、3个和4个为目标。要求被试在4个客体都为目标时按一个键，只要有1个客体不是目标(即为非目标)就按另一个键。值得注意的是，每次运动停止时，8个客体的方位及选定的4个客体都是相同的。研究者发现：随着选定客体与目标一致程度的提高(从选定客体有0个目标到3个目标，完全一致即选定的4个客体均为目标除外)，被试的反应错误率增加，反应时间也相应延长。完全一致条件下被试的错误率相对于3个目标一致条件要更低，反应时也更短。该研究的重点是研究者根据被试在完全一致条件下的反应将其分为两组，一组人（高表现组）在该条件下的错误率显著下降并且反应时也更短，而另一组人（低表现组）则表现出了较高的错误率和更长的反应时。两组人的不同行为反应在ERP成分上也存在差异，高表现组在 $1 7 0 { \sim } 2 1 0 \mathrm { m s }$ 的时间窗口内位于枕叶皮层外侧(Lateral Occipital Cortex)的负波出现了显著的增强。这表明高表现组的追踪策略是在追踪过程中构建以目标为顶点的整体形状表征，类似于Yantis(1992)的分组假设(Grouping Hypothesis)，所以其在完全一致条件下的反应更快，错误率也更低。两组人在 $2 7 0 { \sim } 3 1 0 \mathrm { m s }$ 位于上顶叶皮层(Superior Parietal Cortex)的负波波幅都随着选定客体与目标一致程度的增加而降低。这是由于单个目标的方位被储存在视觉短时记忆中，该负波波幅反映了选定客体与视觉短时记忆表征的不匹配程度。研究者根据两组人的以上表现推测，在多目标追踪过程中可能存在两种策略：一是对追踪目标的整体形状或构造进行监测；二是对单个目标的时空特性进行监测。
+
+Merkel,Hopf，Heinze和Schoenfeld(2015)在以上实验基础上进一步探讨了两组人不同行为反应的神经表现(Neural Representation)。他们采用多变量模式分析(Multivariate PattermAnalysis,MVPA)方法对该实验的fMRI数据分析发现，高表现组也即在完全一致条件下反应更快且更准确的人在该条件下表现出了与其他条件非常不同的功能模式，这一“偏差”模式出现在额叶、顶叶和纹外视觉区域。而低表现组在这些脑区则呈现出线性变化的神经激活模式。对所有被试来说，早期初级视觉区呈现出线性分类模式，而枕叶皮层外侧和初级运动皮层则呈现出了偏差模式。两种网络的共存为被试行为表现可随追踪策略的调整而改变提供了神经基础。
+
+# 2.4ERP研究的思考与小结
+
+总结以上两部分的研究发现，采用ERP技术研究多目标追踪发现了视觉追踪中的注意分配、注意选择与持续注意的脑电成分，根据脑电成分及其变化规律进一步分析和解释了多目标追踪的认知神经机制。这些脑电成分指标的发现，使研究者可通过脑电成分及其变化对观察者外显的追踪表现进行预测。同时，多目标追踪的ERP研究有助于区分并验证以往研究者所提出的众多理论假设，如Pylyshyn(2003)的“视觉索引"(Visual Indexing)理论和Yantis(1992)的分组假设(Grouping Hypothesis)等。Pylyshyn(2003)认为视觉索引仅发生在前注意阶段，追踪过程中不需要视觉注意的参与，根据以上研究，这一机制可能在非常限定的条件下存在其合理性(Doran&Hoffman,2010)；大多数情况下，追踪过程需要视觉注意的持续参与。分组假设认为多目标追踪是构建以目标为顶点的假想的多边形，并在追踪过程中持续处理和更新这一不断变化的整体形状，观察者在高容量追踪任务中可能更倾向于使用这一分组追踪策略(Yantis,1992; Merkel, et al., 2014; Merkel, et al.,2015)。
+
+采用ERP技术研究多目标追踪任务也遇到了一些限制和瓶颈。一是多目标追踪任务是一个复杂的动态视觉信息追踪任务，涉及到目标选择、运动追踪和保持等一系列认知过程，采用ERP技术研究多目标追踪需要对任务进行严格控制，这在某种程度上限制了研究者设计更深入的ERP实验对其神经电生理机制进行探讨；二是ERP的空间分辨率不高，无法精确定位脑电成分所在的脑区，这也限制了对多目标追踪认知神经机制的深入探索。在未来的研究中，可以尝试采用ERP技术与近红外(Functional Near Infrared Spectroscopy,fNIRS)技术结合的方法探讨多目标视觉注意加工的神经机制，这点将在展望部分进行详细论述。除采用ERP技术外，更多研究者采用fMRI技术对多目标追踪进行了一系列研究，具体研究阐述如下。
+
+# 3多目标追踪的脑功能成像研究
+
+# 3.1区分多目标追踪中与注意追踪和注意负荷相关脑区的fMRI研究
+
+Culham 等 (1998)最早采用 fMRI技术考察了参与动态注意追踪(Attentive Tracking)的脑区。被试在9个绿色圆球中追踪数个目标(根据被试的追踪能力有所差异，可能为3、4或5个)，追踪过程中对被试的眼动进行控制，要求注视点始终保持在屏幕中央。注意追踪与被动观察(Passive Viewing)相比发现了以下区域的激活，且均为双侧：顶叶皮层(Parietal Cortex)包括顶内沟(Intraparietal Sulcus, IPS)、中央后沟(Postcentral Sulcus)、顶上小叶(Superior ParietalLobule，SPL)和楔前叶(Precuneus)，额叶皮层(Frontal Cortex)包括额叶眼动区(Frontal EyeFields，FEF)和中央前沟(Precentral Sulcus)，颞叶内侧(Middle Temporal complex，包括颞中区,Middle Temporal, MT；和颞上皮层区,Medial Superior Temporal, MST)。Culham,Cavanagh 和Kanwisher (2001)在以上研究基础上采用参数设计(Parametric Design)得到 fMRI 激活的注意响应函数(Attention Response Function)。这些函数把任务的注意需求函数(AttentionDemanding Function)区分为两种类型：任务函数——负责总体表现(如眼动的抑制)但并不反映负荷水平；负荷函数——直接参与增加负荷的处理。其中与任务相关的区域(注意追踪与被动观察相比)包括额叶眼动区、顶上小叶、相邻的楔前叶和颞中区的大部。与负荷相关的区域(Load-dependent Regions，追踪负荷与激活水平的函数)包括额上沟(Superior FrontalSulcus，SFS)、中央前沟、顶内沟。其中顶内沟直接参与了追踪任务的认知成分，尤其是空间注意和工作记忆。
+
+Jovicich等人(2001)的研究首先比较了对 $2 { \sim } 5$ 个目标进行注意追踪与被动观察时激活脑区的差异。因为两种条件下物理刺激基本相同，所以在没有明显眼动的情况下，激活的差异反映了与任务表现相关的所有过程，包括警觉、注意、任务定式(Task Set)和反应准备。这种对比显示了两侧颞中区(V5/Human Motion Area, $\mathbf { M T + }$ 的强烈激活，还有明显的初级视觉皮层(V1)、顶上小叶、后顶内沟(Posterior Intraparietal Sulcus,PostIPS)和额叶眼动区的激活，以上激活区域均为双侧。其次，Jovicich 等(2001)主要考察了激活水平随注意负荷也即追踪目标数量变化的脑区，结果在双侧后顶叶皮层(Posterior Parietal Cortex，PPC)（包括 SPL,AntIPS 和 TranPS)发现了强烈的线性效应。说明后顶叶区域在视觉注意资源的分配中起着一般性的作用。Alnaes 等人 (2014)在采用多目标追踪任务探讨瞳孔大小与心理努力(MentalEffort)及其相应脑区活动关系的研究中也发现：相较于被动观察，注意追踪激活了与以上三个研究(Culham et al.,1998; Culham et al.,2001; Jovicich et al.,2001)相似的脑区。其中中央前沟(Precentral Sulcus)包括额叶眼动区、顶内沟和顶上小叶是背侧额顶注意网络(DorsalFrontoparietal Attention Network)的核心区域。而背侧注意网络负责调节自上而下或目标驱动的注意，根据当前目标或任务定式偏置注意资源的分配(Corbetta,Patel,& Shulman,2008)。
+
+# 3.2区分相关脑区在多目标追踪中具体作用的脑成像研究
+
+# 3.2.1IPS与 $\mathbf { M T } +$ 在多目标追踪中的不同作用
+
+以上研究发现，顶叶(Parietal Lobe)内的顶内沟(IPS)在注意追踪中起着非常重要的作用。fMRI 研究显示顶内沟在视觉追踪中得到了激活(Culham et al.，1998；Culham et al.，2001;Alnes et al.,2014)。并且IPS(包含在其他区域中)的激活或活动水平随着注意负荷的变化而变化(当目标数量增加时活动水平增强，Culham et al.,2001; Jovicich et al.,2001)。比较而言，非顶叶区域的颞中区 $( \mathbf { M T } + )$ ，尽管在视觉追踪中也表现出了强烈激活，但并不随着注意负荷的变化而产生激活水平的变化，表明 $\mathbf { M T } +$ 不是被注意分配所激活的，而是被运动本身所激活的(Culham et al.,2001)。Batteli,Alvarez, Carlson 和 Pascual-Leone(2009)采用经颅磁刺激技术，验证了顶叶在注意追踪中的重要作用，并且发现两半球在追踪中会竞争注意资源。实验一让被试在半侧视野(左半侧或右半侧)中追踪两个目标或在两侧视野(全视野)中追踪四个目标(左侧与右侧视野各 2 个)，分别刺激被试的左右 IPS 和 $\mathbf { M T } +$ 区域，造成暂时性的失活(Inactivation)，结果显示刺激 $\mathbf { M T } +$ 区域对被试的追踪表现并无影响；在刺激 IPS 时，被试在全视野条件下的注意追踪受到破坏，而半视野条件下的追踪不受影响。说明当注意被分配到两侧视野时，两半球会相互竞争资源。实验二让被试在半侧视野追踪4个目标，只刺激左侧IPS。结果发现追踪并未受到影响，说明实验一的结果与追踪目标数量无关。Blumberg，Peterson 和 Parasuraman (2015)采用经颅直流电刺激技术从与 Battelli 等(2009)相反的角度探讨了前顶内沟(Anterior Intraparietal Sulcus，AIPS)在注意追踪中的作用。他们对被试的右侧AIPS 给予阳极刺激(Anodal Stimulation)，与对左侧背外侧前额叶皮层(Dorsolateral PrefrontalCortex，DLPFC)给予阳性刺激和假刺激两种条件相比，对右侧 AIPS 的阳性刺激使被试在高负荷(4个目标)下的追踪表现得到了显著提升，而低负荷(2个目标)下则无显著差异。说明右侧AIPS 在多目标追踪任务中起着主动作用。tDCS 引发的右侧AIPS 的调节可直接导致多目标追踪表现的变化，说明AIPS与多目标追踪表现的个体间差异有着因果联系(Blumberg et al.,2015)。
+
+# 3.2.2与空间方位更新有关的脑区
+
+Howe,Horowitz,Akos Morocz,Wolfe 和 Livingstone (2009)采用 fMRI 技术，对比追踪任务与被动观察任务区分了追踪所激活的脑区，包括额叶眼动区、前顶内沟、顶上小叶、后顶内沟和颞中区。研究者同时用注意两个静止目标条件减去被动观察条件，得出静态注意所激活的脑区，结果仅发现了后顶内沟的激活。在该研究基础上，Howe 等(2009)提出多目标追踪可能是由以下架构实现的：颞中区对视野内所有客体的方位进行表征，后顶内沟标记哪些物体是目标，运动与否，也即建立目标的索引。这两个区域间的交互把索引与方位绑定起来。追踪运动目标也需要前顶内沟的参与，前顶内沟表征了目标及其方位的信息。前顶内沟转而与顶上小叶和额叶眼动区相连以抑制眼动，并且可能在更自然的条件下协调眼动(CoordinateEye Movements)。Jahn,Wendt,Lotze,Papenmeier 和 Huff (2012)采用 3D 情境中的多目标追踪任务，通过连续的旋转视角变换研究注意追踪和空间更新(Spatial Updating)的神经关联性。研究设置了被动观察和追踪任务，追踪任务又包括两个变量：一是追踪负荷(目标数量为 2、3、4，共12 个客体)；二是在连续视角变化(Continuous Viewpoint Changes)中目标和非目标是否可见。通过追踪任务与被动观察任务的对比来考察追踪任务所激活的脑区；通过目标数量的对比来考察追踪负荷所激活的脑区；并考察视角变化时客体不可见条件下空间更新所激活的脑区。结果发现，与被动观察相比，追踪任务与双侧顶叶、额叶和枕叶皮层的强烈激活有关。后顶叶皮层的激活包含顶上小叶和楔前叶的中间部分。后顶叶皮层扩展到顶内沟并进一步到枕叶和枕颞皮层(MT+和枕叶皮层外侧，Lateral Occipital Cortex)。额叶中央前皮层(Precentral Frontal Cortex)也被激活，激活的强烈中心点在前运动皮层(Premotor Cortex)；辅助运动区(Supplementary Motor Cortex,SEF)也被中等激活。在追踪任务中，追踪负荷的参数变化验证了顶内沟、顶上小叶和枕叶皮层外侧(Lateral Occipital Cortex)的激活与追踪负荷有关。视角变换时客体不可见或消失需要空间方位的保持和更新，这仅在楔前叶(Precuneus，可能与情景信息加工相关)产生了与追踪负荷有关的激活，因此推测楔前叶可能参与了空间认知过程。
+
+# 3.2.3与感觉运动预测有关的脑区
+
+之前采用注意追踪与被动观察对比的脑成像研究都发现了背外侧额叶皮层(DorsolateralFrontalCortex,DLFC)的激活。研究者认为DLFC 的激活来源于FEF，而FEF主要参与了眼动控制和空间注意的加工(Culham et al.,1998; Culham et al.,2001; Howe et al.,2009)。Atmaca等(2013)认为在多目标追踪中存在对运动轨迹的预测过程(Franconeri，Pylyshyn，& Scholl,2006)，而DLFC就参与了这一预测过程。他们比较了被试在完成多目标追踪与亮度变化计数任务(除任务要求不同，两任务在视觉刺激呈现、实验流程上完全一致)时激活脑区的差异，除发现了与上述研究相似的颞叶和顶叶的激活外，研究者发现额叶的激活涉及背侧前运动皮层(Dorsal Premotor Cortex，PMd)，包括双侧中央前回(Precentral Gyrus)，双侧中央前沟(Precentral Sulcus)和左额上回(Superior Frontal Gyrus)；腹侧前运动皮层(Ventral PremotorCortex,PMv)主要是额下回(Inferior Frontal Gyrus,IFG)的岛盖部。研究者认为这些区域参与了追踪时的感觉运动预测(SensorimotorPrediction)过程。
+
+Alnaes 等(2015)采用让被试持续追踪较长一段时间(平均 32 秒)的多目标追踪任务的变式，并对追踪过程中的脑成像数据采用特征向量中心映射(Eigenvector Centrality Mapping,ECM)的分析方法，进一步探讨了顶内沟(IPS)和顶上小叶(SPL)在注意追踪中的不同作用。特征向量中心映射的方法可对单个体素与功能网络的中心部分的关联度进行估计。Alnaes 等(2015)认为持续的追踪需要保持对客体的索引，以便注意能够始终集中在目标上，而不需要注意转移。所以追踪过程中中心性增加的区域与视觉客体索引有关，中心性降低的区域则与注意转移有关。中心性增加意味着通过该脑区的信息流增加。结果发现IPS 在持续追踪中中心性增加，并且与前额叶和视觉知觉脑区的功能连接增加，支持了IPS 在客体索引中的作用。与之相反，SPL在追踪过程中则呈现出中心性降低，与视觉和额部脑区的功能连接下降的模式。这与 SPL 负责注意转移的假设相符。IPS 和 SPL 在多目标追踪中起着不同的功能作用，但都高度参与了追踪过程中的血氧依赖水平(Blood Oxygen Level-dependent,BOLD)的信号变化。
+
+# 3.2.4相关脑区在多目标追踪中的作用小结
+
+有关多目标追踪的脑成像研究已经确认了一些与注意追踪尤其是注意负荷紧密相关的脑区，如顶叶(包括前顶内沟、后顶内沟、顶上小叶)在注意追踪中的作用(Jovicich et al.,2001;Battelli et al.,2009; Blumberg et al.,2015; Howe et al.,2009; Alnaes et al.,2015)。这些参与注意追踪脑区的发现为未来建构视觉动态信息加工的神经网络奠定了基础。在新近的研究中，研究者致力于采用更精细的分析方法确定与注意追踪高度相关脑区如IPS、SPL、DLFC在追踪过程中的具体功能和作用(Jahn et al.,2012; Alnaes et al.,2015; Atmaca et al.,2013; Blumberget al.,2015;Merkel et al.,2015)。研究者确认了IPS与注意负荷有关，可能主要负责目标客体上索引的保持；IPS的激活程度直接影响观察者的追踪表现(Batelli et al.，2009;Blumberg etal.，2015)。SPL与注意转移有关，DLFC与对运动轨迹的感觉预测有关(见表1)。这些研究有利于进一步细化视觉追踪的神经模型包括各脑区的协作机制。
+
+表1多目标追踪涉及的相关脑区及其功能  
+
+<html><body><table><tr><td>脑区</td><td>功能</td><td>相关研究文献</td></tr><tr><td>顶内沟(IPS)、顶上小叶(SPL)、</td><td></td><td>Alnaes etal.,2014; Culham etal.,1998;</td></tr><tr><td>楔前叶(Precuneus)、额叶眼动区</td><td>注意追踪激活的相关脑区</td><td>Culham et al.,2001; Howe et al.,2009; Jahn</td></tr><tr><td>(FEF)、颞中区(MT)</td><td></td><td>et al.,2012;Jovicich etal.,2001;</td></tr><tr><td>顶内沟(IPS)</td><td>与注意负荷密切相关；可能负责目标客体上索引的</td><td>Battelli etal., 2009; Blumberg etal., 2015;</td></tr><tr><td>顶上小叶(SPL)</td><td>保持</td><td>Jahn etal.,2012;Alnaes etal.,2015</td></tr><tr><td></td><td>可能负责注意转移</td><td>Alnaes et al., 2015</td></tr><tr><td>楔前叶(Precuneus)</td><td>可能负责空间方位的保持和更新</td><td>Jahn et al.,2012</td></tr><tr><td>背外侧额叶皮层(DLFC)</td><td>可能负责追踪时的感觉运动预测过程</td><td>Atmaca et al.,2013</td></tr></table></body></html>
+
+多目标追踪的脑成像研究也存在一些限制：一是由于多目标追踪任务的复杂性，不同研究者之间追踪任务的设置、眼动控制、被试追踪策略的差异都有可能对数据结果产生影响。如Alnaes等(2015)的研究发现IPS在追踪中表现出中心性增加，功能连接增加，这与其主要负责视觉客体索引有关；而SPL表现出中心性降低，功能连接下降，这是因为其主要负责注意转移。研究者认为在持续的注意追踪中，不需要注意转移过程。但在该研究中，被试的追踪负荷较小，仅需要追踪1个或2个目标；当被试需要对4个目标或超出追踪容量的4个以上目标进行追踪时，有可能会涉及到注意转移过程。此时参与脑区的变化情况还有待探讨。二是虽然研究者都要求被试在追踪过程中把视线保持在注视点，但并没有对其眼动情况进行监控；三是被试在追踪过程中可能采用了不同的追踪策略。这些都会对脑成像数据产生影响。
+
+# 3总结与展望
+
+在未来研究中，可以针对上述有待研究的问题，从如下几个方面开展进一步的研究，探讨多目标追踪过程中的认知神经机制：
+
+# 3.1采用ERP一fNIRS结合的方法探讨多目标追踪过程的神经机制
+
+总结以上有关多目标注意追踪的 ERP研究可以发现，采用ERP技术可以更深入地探讨视觉追踪中注意资源的分配情况，被试所采用的追踪策略，以及与注意负荷密切相关的神经电生理活动规律，并在此基础上根据个体电生理活动的特异性对其追踪表现进行预测。但由于多目标追踪任务本身及ERP 技术的一些限制，在未来的研究中，可以尝试采用ERP 与fNIRS 同步记录的方法进一步探讨视觉注意追踪的神经机制。fNIRS技术空间分辨率合理，而 ERP 技术具有高时间分辨率。两种技术的结合可以研究动态注意追踪中血液动力学信号和电生理信号之间的联系，两者的关联分析不仅有助于理解脑区参与信息处理的哪个阶段，而且能够结合脑激活来区分 ERP 响应中可能包含的不同的处理阶段(孙金燕,2013)。更重要的是，两种信号之间不存在相互干扰。目前 fNIRS一EEG 同步记录主要用于癫痫领域，在认知神经科学领域也出现了 fNIRS一ERP 同步记录研究持续视觉空间注意的尝试(Huang etal.,2015)。利用 fNIRS一ERP技术的结合可以进一步深入探索多目标追踪的神经机制。
+
+# 3.2采用fMRI技术对多目标追踪中Where和What神经网络的关系进行深入研究
+
+以往有关多目标追踪的神经机制研究探讨的主要是与多目标视觉追踪的知觉、注意和运动协调相关的脑区，研究者也不断明确了特定脑区如 IPS、SPL、DLFC 在注意追踪中的功能和作用，并尝试建立了注意追踪的神经网络模型，这有助于增进我们对大脑“Where”信息加工神经通路的认识。在未来的研究中，一方面，可以充分利用多目标追踪范式有效操纵运动信息加工和注意负荷的优势，探讨“Where”通路的特性；另一方面，可以设置多目标追踪中的运动客体带有独特的表面特征或身份特征，探讨注意追踪过程中“Where"和“What”信息相互作用的神经机制。以往有关客体表面特征对注意追踪的影响的行为研究发现，尽管在追踪过程中不需要观察者对客体的表面或身份特征进行加工，但客体独特的表面特征仍然会对追踪表现产生影响(Howe & Holcombe,2012; Liu et al.,2012;Makovski& Jiang,2009a,2009b;Ren etal.,2009)；这说明在追踪过程中既存在对运动信息的加工，也存在对客体身份信息的加工。因此，探讨客体带有独特表面特征的多目标追踪的神经机制，既涉及到“Where”信息的加工，也涉及到“What”信息的加工，可以探究两者相互作用的神经机制。
+
+# 3.3采用fMRI技术对多目标追踪过程的语义分组效应及其神经基础进行研究
+
+有关多目标追踪中分组机制的研究发现，多目标追踪中既存在基于特征的分组(Erlikhman et al.,2013;Wang et al.,2016)，也存在基于语义范畴的分组(Wei et al.,2016; Wei etal.,2018;Wei et al.,2017);Wang,Hu,Hu,Xu 和 Zhang (2018)的研究就利用这一分组效应探讨了多目标追踪中基于对称性的分组与基于特征的分组各自所涉及的脑功能区及其神经机制。这为利用多目标追踪任务探讨动态场景中不同知觉分组的神经特异性做了有益的尝试。在未来的研究中，我们同样可以利用多目标追踪中存在的语义范畴分组效应，探讨动态追踪场景中语义加工和范畴分类加工所涉及的神经机制，以及两类加工与运动信息加工相互作用的神经机制。
+
+# 3.4采用真实的动态情境探讨生态化视觉追踪的神经机制
+
+未来研究还可尝试采用真实场景或虚拟现实场景中的物体作为追踪对象，研究视觉信息的分类组织加工机制以及基于概念范畴的更高级的视觉信息加工机制。对于概念范畴层面的视觉信息分类加工机制的研究，可以深入探讨视觉信息在大脑功能的不同区域的精细分类和分工机制及其可能的神经网络，这也有助于人们深入认识人脑对概念的分类加工、存储与提取的机制。
+
+另外，实验室采用的多目标追踪范式在反映现实生活中人们对多个运动物体进行视觉注意追踪时存在局限性，为了提高研究的生态效度，在未来的研究中，可以采用真实场景中的视觉追踪任务，如观看足球比赛、车辆驾驶等，探讨人们在完成日常生活中常见的视觉追踪任务时所涉及的脑功能区和神经网络。也可以在提高多目标追踪任务生态效度的基础上，充分发挥多目标追踪任务作为一个有用的研究范式的优势，探讨人类的运动适应、动态场景中的客体表征等具有重要意义的研究课题。
+
+# 参考文献
+
+廖彦罡，张学民，葛春林.(2006)．运动员在多目标视觉追踪任务中表现的研究．西安体育学院学报,23,124-127.   
+马玉，张学民，张盈利，魏柳青.(2013).自闭症儿童视觉动态信息的注意加工特点——来自多目标追踪任务的证据．心理发展与   
+教育，29,571-577.   
+孙金燕.(2013)．利用脑电及光电联合检测分别研究注意中的定向和执行控制(博士学位论文).华中科技大学，武汉.   
+魏柳青，张学民，李永娜，马玉.(2014).视听通道双任务对多目标追踪的影响：干扰还是促进？心理学报,46,727-739.   
+魏柳青，张学民.(2014).多身份追踪中基于范畴的分组效应.心理科学进展,22,1383-1392.   
+张滨熠，丁锦红.(2010).多目标视觉追踪的注意策略及其眼动模式．心理学探新,30,50-53.   
+张学民，刘冰，鲁学明.(2009).多目标追踪任务中不同运动方式非目标的抑制机制．心理学报,41,922-931.   
+张学民，鲁学明，魏柳青.(2011).目标与非目标数量变化对多目标追踪的选择性抑制效应．心理科学,34,1295-1301.   
+张学民，廖彦罡，葛春林.(2008).运动员与普通大学生在多目标追踪任务中的表现．北京体育大学学报,31,504-507.   
+Alvarez,GA，&Franconeri,S.L.(2oo7).Howmanyobjectscanyoutrack?Evidenceforaresource-limitedatentivetracking mechanism.Journal of Vision,7,1-10.   
+Allen,R.,McGeoge,Pearson,D,&,.B.(O4).Aentionadxpertiseinultipleargettracking.AppliedCgiie Psychology，18,337-347.   
+Alnaes,D.,Sneve,M.H,Espeset,T.Endestad,T.ndeavert,S..P.,&Leng,B.(2O14).Pupilsizesignalsmentalor deployedduring multipleobjecttrackingand predicts brainactivityinthedorsalatention networkandthelocuscoeruleus.Journal of Vision,14,1-20.   
+Alnes,D,Snve,hard,GatunKKufma,ordvik,J..Westly,L.()ucioaloecividcat diferentialrolesfortheintraparietalsulcusadthsuperiorparietallobuleinmultiplebecttrackng.Neuroimage,29137.   
+Atmaca,S.,deWitel,.ieJ,,.3).ictiresugulia (MOT):Involvement of dorsal and ventral premotor cortices.Brain Behavior,3,683-700.   
+Batteli,L,Alvare,GA.Carlson,T.,&ascal-Leone,A.(o).Teroleofteparietallobeinvisualextinctionstudiedwith   
+Blumberg,E.,eterson,,&asuraan,.(O5).EancingultiplebectrackingiovasiveraintiulatioAaal role for theanterior intraparietal sulcus.Frontiers in Systems Neuroscience,9:3,1-9.   
+Cavanagh,P.,&arz,G.A.(o).Tracingmultipletgetsithulfocaatetionrendsinognitiveience,4954.   
+Corbeta,M.,Patel,G.&Shulman,G.L(oo8).Thereorientingsystemofthehumanbrain:Fromenvironmenttotheoryof mind. Neuron, 58,306-324.   
+Culham,J.Cd,,Cagh,PKashrN.G,le,.,otel,...(998).Corticacioodcd by atentive tracking of moving targets.Journal of Neurophysiology,80,2657-2670.   
+Culham,J.C.Cavanagh,P.,&Kanwisher,N.G.(oo).Atentionresponsefunctions:CharacteringbainareasusingfMactitio during parametric variations of attentional load. Neuron,32,737-745.   
+Doran,M.M.,&Hoffman,J.E.(2Ol0).TheRoleofVisualAttentioninMultipleObjectTracking:EvidencefromERPs.Attetion Perception,&Psychophysics,72,33-52.   
+Drew,T.,Horowitz,T,&Vogel,E.(13).Swaingoroping?Electrosiologcalmeasuresfdiicultyuringulipleect tracking. Cognition,126,213-223.   
+Drew,T.,Hroitz,T..Wolfe,J.M.,&Vogel,E.K.(l1).Delineatingthneuaignaturesfrckingsatialosiiadoking memory during attentive tracking.Journal of Neuroscience,31,659-668.   
+Drew,T.,McCollouhA,oit,TVogel,E.).iolaentinuliplbctcing Bulletin&Review,16,411-417.   
+Drew,T.,&Vogel,E.K.(o8).euralmeasresofndiidalerencesinelectingadtrackingultiplovingects.Joulf Neuroscience,28,4183-4191.   
+Erlikhman,G,Keane,B,Metler,E,orowitz,T,&ellman,P.(3)Automaticfeaturebasedgrouingurigmulilplect tracking.Journalof ExperimentalPsychology:HumanPerception&Performance.39,1625-1637.   
+Franconeri,S.Lotha,S.,ieca,J..).ackingmultipejectisitedolybectsacingntsd capacity. Psychological Science,21,920-925.   
+Franconeri,S.L,ylyshn,ZW.,&chol,B.J.(6).SpatiotemporaluefortrackingmulebectstroughoccsioVisual Cognition,14,100-103   
+Green,C.S.,&avelier,D.(o6).Enumerationversusojecttracking:sightsfomvideogameplayers.Cognition,,245   
+Howe,P.D.,& Holcombe,A.O. (2O12).Theefectof visualdistinctivenessonmultipleobjecttracking performance.Frontiersin PerceptionScience,3,307.   
+Howe,P.D.,Horowitz,T.S.,AkosMorocz,I,Wolfe,J.,&Livingstone,.S.O9).UsingfMRItdistinguishcomponentsfthe multipleobject tracking task.Journal of Vision,9,1-11.   
+Huang,J.,Wang,F.,DingY.LuH.J,an,F.H.Liu,H.L,&ong,Y.(25)PredictingN2pcfromanticipatoryOctiity during sustained visuospatial attention: A concurrent fNIRS-ERP study.Neurolmage,113,225-234.   
+Jovicich,Jete,chJag,stT.().ieassioreaodiai task. Journal of Cognitive Neuroscience,13,1048-1058.   
+Jahn,G,Wendt,J,Lotze,M,apenmeier,F,&Huff,.(O2).Brainactivatiodingpatialupdatingandtentivetrackingof moving targets.Brain &Cognition,78,105-113.   
+Liu,GAustnt..el,.s..lectac scene,notretinal,coordinates.JournalofExperimentalPsychology:HumanPerception&Performance,3,5-247.   
+Liu,T.W.,Chen,W.F,Liu,C.H,&FuX.L.(l2).Beefisandcostsfunqueessinmultipleobjecttracking:eolfect complexity. Vision Research, 66,31-38.   
+Luck,S.J. (20o5).An introduction to the event-related potential technique. Cambridge,MA: MIT Press.   
+Makovski,T.,&Jiang,Y.V.(oa).Theoleofvisualworkingmemoryinatentivetrackingofuniqueojects.JournalofExpriental Psychology:HumanPerception&Performance,35,1687-1697.   
+Makovski,T.,&Jiang,Y.V.(2ob).Featurebindinginatentivetrackingofdistinctobjects.isualcognition,17,8194.   
+Merkel,C.,topel,C.,rd,.,eze,H.Jo,Joeeld.).Sralpas activitydistinguish strategiesof multiple-objecttracking.Journal of Cognitive Neuroscience,26,28-40.   
+Merkel,C.,Hof,J.,ze,H.,&heeld,.A.).uraelatesolileecttacgrates.ge 118, 63-73.   
+Oksama,L.,&Hyon,J.(O4).Isultiplejecttrackingcarriedoututomaticallybyanarlyisionmechanismindepedentof higher-order cognition?An individual difference approach. Visual Cognition,I1,631-671.   
+Ogawa,H.,&Yagi,A.(OO2).Theectsoftheinformationofuntrackedobjectsonmultipleobjecttracking.JapaneseJouralof Psychonomic Science,21,49-50   
+Pylyshyn,Z.W.(20oO).Situating vision inthe world.Trends in Cognitive Sciences,4,197-207.   
+Pylyshyn,Z.W.(Ool).Visual indexes,Preconceptualobjects,and situatedvision.Cognition,8O,127-158.   
+Pylyshyn,Z.W. (20o3).Seeing and visualizing: It's not what you think.Cambridge,MA: MITPress,Bradford Books.   
+Pylyshyn,ZW. (O6).Somepulingfdingsinultipebecttacking:IIibitionofmovingnontargets.ViualCogiio4 175-198.   
+Pylshn,Z.WaanH,igC,illJ).etieotarettioinltipleectracing(ial Cognition,16,1011-1021.   
+Pylyshyn,Z.W.,&Som,R.W.(1988).Tracking multipleindependenttargets:EvidenceforaparaleltrackingmechanismSpatial Vision, 3,179–197.   
+Ren,D.,Chen,W.,Liu,C.H.,&Fu,X.(2oo9).Identityprocessing inmultiple-face tracking.JournalofVision,9,-15.   
+Sternshein,H.,Agam,Y.,&Skuer,R.(211).EEGcorrelatesofattentionaloaduringmultiplebject racking.oNE,6(): e22660.   
+St.Clair,R,H,t,.).ftotoasiletioo   
+Scholl,B.,ylysh,ZW&Fldman,J.(o).atisvisualbje?Eidencefrorgetmergingiultiplejeracing Cognition,80,159-177.   
+Suganuma,M.,&Yokosawa,K.(O6).Groupingandtrajectorystorageinmultiplebjecttracking:Impairmentsduetoomonitem motions. Perception,35,483-495.   
+Thomas,L.,& Seiffert,A.(20lo).Self-motion impairs multiple object tracking. Cognition,I17,80-86.   
+Trick,L.,Holinsworth,H，&Brodeur,D.(9).Multiple-bjecttrackingcrostheifespan:Dodierentfactorsontribtet diminished performanceindiferentagegroups?InDonDedrickandLanaTrick(Eds).Computation,Cognition,andPylyshyMI press.   
+Tombu,M.,&ert,A.(O).ackingplanetsdoons:ecasmsofecttracingvealedithearaigetio Perception,&Psychophysics,73,738-750.   
+Tombu,M.,& Seiffert,A.(20o8).Atentionalcosts in multiple objecttracking.Cognition,I08,1-25.   
+vanMarle,K.,&Schol,B.J.(2Oo3).AtentivetrackingofobjectsVs.substances.PsychologicalSience,14,498-504.   
+Wang,C.,Hu,L.,Hu,S.,Xu,Y,&Zhang,X. (2o18).Functionalspecializationforfeature-basedandsymmetry-basedgroupigsin multiple object tracking. Cortex,108,265-275.   
+Wang,C.,Zhang,X,Li,Y，&Lyu,C.(016).Aditivityoffeature-basedandsymmetrbased groupingefectsinMultipleObject Tracking.Frontiers inPsychology,7:657.   
+Wei,L.,Zhag,X,Lyu,CHu,.,&LiZ.().ractiatinofemanticategorbasedgoupginutiledentityacing task.PLoS ONE,12(5): e0177709.   
+Wei,L.,ZangX,y,CL,Z.(6).ategcaldisticbtwgesdstractorfiatetrainie IdentityTracking task.Frontiers inPsychology,7:589.   
+Wei,L.,Zhang,X,LiZ,&Liu,J.(8)eemanticcategorbaedgroupinginteultipleIdentityackingtask.etio Perception,&Psychophysics,80,118-133.   
+Yantis,S.(1992).ultielementviualracking:Aetionandpereptualorgazation.CognitivePsychology,49340.   
+Zhou,K.,Luo,ouo,,,L.).iabtoitci.
+
+Zhang,X.MYan,M.,&LiaoYG().Diertialpefoaneofeseatetesdoathletesouleobectacing
+
+# The neural mechanism of multiple object tracking
+
+WEI Liuqing1,2; ZHANG Xuemin2.3 （lDepartment of Psychology,Faculty of Education,Hubei University,Wuhan 43o062,China）
+
+( Beijing Key Laboratoryof Applied Experimental Psychology; National Demonstration Center for Experimental sychologyEducation(BeijingNormal University);FacultyofPsychology,BeijingNormal University,Beijing10087:
+
+China)
+
+( State KeyLaboratoryofCognitive Neuroscience andLearming,Beijing Normal UniversityBeijinglOo875,China)
+
+Abstract: Researchers have used the Multiple Object Tracking (MOT) task to study how people distribute visual attntion in when they view dynamic scenes. Studies have used event-related potential (ERP） to investigate neural electrophysiological activity and functional magnetic resonance imaging (fMRI) to measure functional localization in the human brain while people process dynamic visual information. Studies found that ERP amplitudes changed with tracking load.The difference between ERP amplitudes elicited by the probes on the targets versus distractors reflected how people were distributing atention between the targets and distractors. In other words,the ERP amplitudes reflected people's increased attntion to the targets and inhibited attention to the distractors during tracking. The fMRI studies consistently found strong activation in the dorsolateral frontal cortex (DLFC)and the parietal lobe,including the anterior intraparietal sulcus (AIPS), posterior intraparietal sulcus (PostIPS),and superior parietal lobule (SPL). The IPS had a particularly strong relationship with attentional load.The level of activation in the IPS was directly related to observers’ attntional tracking performance. The evidence also suggests that the SPL might be responsible for attentional shifts and that the DLFC might be related to the sensorimotor prediction during tracking.
+
+Keywords: Multiple Object Tracking；attntion distribution; event-related potentials (ERP); functional magnetic resonance imaging (fMRI); intraparietal sulcus (IPS)

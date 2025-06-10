@@ -1,0 +1,239 @@
+# Syn-subduction intra-continental shearing during Oligocene in Indochina, SE Asia
+
+Ji'en ZHANG1 \*, Wenjiao XIAO1,2, Bo ZHANG³, John WAKABAYASHI4, Fulong CAI & Kyaing SEIN 6
+
+1State KeyLaboratory ofLithospheric Evolution,InstituteofGeologyand Geophysics,Chinese Academyof Sciences,   
+Beijing 100029 China   
+2 Xinjiang Research Center for Mineral Resources,Xinjiang Institute of Ecologyand Geography,Chinese Academy of   
+Sciences, Urumqi 830011 China   
+3 Key Laboratoryof Orogenic Belts and Crustal Evolution,School ofEarth and Space Sciences,Peking University,   
+Beijing,100871 China   
+4 Department of Earth and Environmental Sciences,California State University,Fresno,CA 93740 USA   
+5 Institute of Tibetan Plateau Research, Chinese Academy of Sciences,Beijing,1Ooo85 China   
+6 Myanmar Geosciences Society, Yangon,Myanmar
+
+J.E.Z. designed the project, collected and interpreted data and wrote the paper. W.J.X. designed the project and interpreted data. B.Z. collected and interpreted data. J.W. interpreted data and wrote the paper. F.L.C. interpreted data. S.K.attended the field work and collected data.
+
+# Abstract
+
+Indochina developed continental-scale shear zones thatrecord Cenozoic tectonic processes in SEAsia.Previous extrusion models thatlinked these shear zones with the northward indentationofthe Idian continent,conflict with distributed conjugate strike-slip pairs and post-Oligocene rotation in Indochina.This paper presents evidence of coeval shearing along the Mogok-Shan Scarp fault in Myanmar,the western boundaryofthe Indochina block,previously proposed as a product of northward indentation of Indian Plate.The Kyanigan quarry along the northern Mogok-Shan Scarp fault exposes paragneiss, marble and quartzite schist.‘ostructures,cored with garnet, in paragneiss record right-lateral shear sense, consistent with $\cdot _ { \sigma } ,$ and $\because \delta ^ { \prime }$ structures in L-tectonites in the Moulmein granitic mylonite to the south. U-Pb ages of metamorphic zircons of paragneissandabiotite39Ar-40Ar age of quartzite schist constraindeformation intheKyanigan quarry to $3 3 { - } 2 1 \mathrm { M a }$ ; a biotite 39Ar-40Ar age of mylonite at Moulmein is $2 6 \mathrm { M a }$ .These ages demonstrate Oligocene rightlateral shearing along the Mogok-Shan Scarp fault,coeval with other shear zones in Indochina.These Oligocene shear Zones andstrike-slipfaults areconjugate structures recording left-lateral shear senseon NW-striking and right-lateral shear sense on N-S to NE-striking features.After restoration of ${ \sim } 8 0 ^ { \circ }$ clockwise rotation, the Oligocene conjugate strike-slip pairs n Indochinareflect approximate N-S-directed shortening,corresponding to northward subductionof the Indian ocean.This suggests that continental-scale intra-continental shearing may have been triggered by syn-subduction compression in SE Asia.
+
+Keywords:Indochina; Oligocene; shear zone; intra-continental; syn-subduction
+
+# 1．Introduction
+
+Indochina, between the Tibet-Himalaya collisional orogen to the west and the active MyanmarIndonesia subduction zone to the east, exposes continental-scale shear zones that record Cenozoic tectonic processes in SE Asia (Fig. la) (Leloup et al., 1995; Liu et al., 2006; Morley,2001; Tapponnier et al.,1982; Tong et al.,2021; Xu et al.,2015; Zhang et al.,2017). These shear zones have been connected to an extrusion model, which proposed that Paleocene-Eocene Indian-Asian collision triggered SE-ward escape of Indochina,accompanied by clockwise rotation along boundaries of Oligocene Ailao Shan-Red River left-lateral shear Zone to the east and right-lateral shearig Sagaing fault to the west (Fig. la) (Tapponnier et al., 1982).
+
+Recent studies, however, challenged the extrusion model, by pointing out the following weaknesses:
+
+(1）The extrusion model considered only the bounding faults of the Indochina region, such as the Ailao Shan-Red River shear zone and the Sagaing fault (Fig.la)(Tapponnier et al.,1982). However, coeval Oligocene strike-slip faults,including the bounding faults,are distributed throughout Indochina (Fig. lb),and arranged in a conjugate patern that may reflect E-W-directed compression,rather than SE-ward extrusion.
+
+(2) The shear sense of some faults predicted by the extrusion model is contradicted by specific examples,such as the Jiali fault, Chongshan shear zone and Wangchao fault-Mae Ping shear zone (Fig. 1b). The Jiali fault is located close to Eastern Himalaya Syntaxis and was predicted to have rightlateral shear sense (Tapponnier et al.,1982),in contrast to the left-lateral shear sense observed in field studies (Lin et al.,2OO9; Zhang et al.,2O2O). The Chongshan shear zone was predicted to have a rightlateral shear sense along entire length (Tapponnier et al.,1982); however, detailed studies show that its north-middle segment records right-lateral shear sense,whereas south segment records left-lateral shearing (Fig.1b)(Zhang et al.,2OlO).The Wangchao fault-Mae Ping shear zone has left-lateral shear sense (Lacassin et al.,1997; Osterle et al.,2019), conflicting with the predicted right-lateral shearing as a“P” fracture (Tapponnier et al., 1982).
+
+(3) The extrusion model predicted ${ > } 7 0 0 \mathrm { k m }$ of escape of the Indochina block along the Ailao Shan-Red River shear zone (Leloup et al.,1995). However,based on reconstruction of extension in the Tonkin Gulf, Vietnam,Rangin et al. (1995) argued its left-lateral offset did not exceed $1 0 0 \mathrm { k m }$ (Fig. 1b).
+
+(4) The extrusion model proposed that the Indochina block escaped SE-ward accompanied by Oligocene clockwise rotation (Tapponnier et al.,1982).However,recent paleomagnetic studies show that the ${ \sim } 8 0 ^ { \circ }$ clockwise rotation commenced at 25.7-17.3 Ma (Tong et al., 2016,2021), younger than the predicted rotation age.Furthermore, some recent tectonic models argued that the terminal IndianAsian collision happened at Miocene (25-20 Ma or $1 4 \mathrm { M a }$ )(van Hinsbergen et al., 2012; Xiao et al.,
+
+2017),which are younger than the early stage of the Oligocene shear zones in Indochina. These models challenged the traditional extrusion model that assumed collision commenced in PaleoceneEocene time (Tapponnier et al.,1982). These issues reflect uncertainty in the age of Indian-Asian collision and suggest the need to reexamine the geodynamic significance of Oligocene shearing in Indochina.
+
+Conflicts between data and predictions of the extrusion model suggest the need for an alternative model to explain Oligocene tectonism in Indochina.The extrusion model assumed that the Sagaing fault marked the western boundary of the Indochina block (Fig.la)(Tapponnier et al.,1982), whereas this fault began activity at ca.20 Ma as a transform fault of the Andaman Sea (Curray,2Oo5),younger than other Oligocene shear zones, suggesting that they are not products of the same tectonic event. The Mogok-Shan Scarp fault, east of the Sagaing fault, records ductile deformation in metamorphic rocks,and had been proposed as consequence of diachronous northward migration of Indian indentation (Fig.1b) (Bertrand et al.,2Oo1). In this paper, we will present evidence for coeval deformation along the Mogok-Shan Scarp fault, and review data on other Oligocene faults to propose an alternative model of syn-subduction intra-continental shearing in Indochina.
+
+# 2． Regional Geology
+
+SE Asia records the Tibet-Himalaya collisional orogen to the west and active subduction in the Indo-Burma-Indonesia belt to the east, between which is situated the Indochina block (Fig.la) (Tapponnier et al.,1982).The Indochina block exhibits distributed strike-slip faults,which are oblique to the paleo-suture Zones of the Paleo-Tethys and Neo-Tethys oceans (Fig.1b) (Lacassin et al.,1997; Leloup et al.,1995; Wang et al., 2006; Xu et al., 2012; Zhang et al., 2010, 2018,2020).
+
+The strike-slip faults from northwest to southeast can be divided into two groups (Fig.1b). The first group of faults has left-lateral shear sense,and includes the Jiali fault (Lin et al.,2Oo9; Zhang et al., 2020), Dongjiu-Milin fault (Xu et al.,20l2), the southern segment of the Chongshan fault (Akciz et al.,2008; Zhang et al.,2010), the Ailao Shan-Red River Shear Zone (Leloup et al.,1995), the Wangchao Fault-Mae Ping Shear Zone (Lacassn et al.,1997; Osterle et al., 2019) and the Klaeng Fault-Three Pagoda fault (Kanjanapayont et al.,2O13; Nantasin et al.,2012). Another group has rightlateral shear sense,and includes the Medog shear zone (Dong and Xu,2O16),the Nabang fault (Wang et al.,2006; Xu et al.,2015),the Gaoligong fault (Wang et al.,2006; Xu et al.,2015),the northern segment of the Chongshan fault (Akciz et al.,2008; Zhang et al.,2010),the Mogok-Shan Scarp fault (Bertrand et al.,2001; Lamont et al.,2021; Searle et al.,2020,and this study), the Ranong fault (Watkinson et al.,2008,2011),the Khlong Marui fault (Kanjanapayont et al.,2012b; Watkinson et al., 2008,2011) and the Dien Bien Phu fault (Hung and Vinh,2001; Tang et al.,2009). Movement along these faults have dated by zircon U-Pb,biotite and hornblende 39Ar-40Ar,K-Ar and Rb-Sr ages of
+
+44.9-17.2 Ma from ductile shear zones,recording main stage movement of 31-23 Ma (Table 1), indicating Oligocene strike-slip movement.
+
+41-23 Ma magmatic arcs occur along central Myanmar and Sumatra (Fig. 1), suggesting continuous oceanic subduction at that time in SE Asia (Bellon et al.,2004; Li et al.,2013,2019; Mitchell, 1993; Searle et al., 2007; Xu, 2011). The Andaman Sea opened at $2 0 \mathrm { M a }$ (Fig. 1b) (Curray, 2005),and one of its transform faults continues northward on-land as the Sagaing Fault in Myanmar, which has $\sim 4 0 0 \mathrm { k m }$ of right-lateral offset (Curray, 2Oo5 and references therein).Paleomagnetic studies show that the Eocene-Late Oligocene strata in the Baoshan-Lanping-Simao basins have rotated ca. $8 0 ^ { \circ }$ clockwise,Middle Miocene (ca. $1 7 . 3 \mathrm { M a }$ )strata in the Baoshan basin have rotated $5 4 ^ { \circ }$ clockwise, whereas Late Miocene and Pleistocene strata in the Baoshan Basin have rotated only ${ \sim } 1 0 ^ { \circ }$ clockwise (Fig.1b)(Tong et al.,2016,2021).These data suggest that the Indochina block commenced crustal rotation during 25.7-17.3 Ma (Tong et al.,2021), younger than the early stage of Oligocene shearing.
+
+# 3.Structural Geology
+
+The Mogok-Shan Scarp fault along the western margin of the Indochina block preserves ductile deformation, east of the brittle Sagaing fault (Fig. 1b).
+
+3.1 Structures along the Mogok-Shan Scarp fault
+
+The Mogok-Shan Scarp fault records primarily ductile deformation (Bertrand et al., 2Oo1; Searle et al., 202O), including structures preserved in the Kyanigan quarry to the north and in Moulmein to the south (Fig. 1b).
+
+The Kyanigan quarry exposures paragneiss, biotite quartzite, marble and leucogranitic dikes (Fig. 2a); paragneiss has fine-grained quartz-feldspar groundmass,and mm-cm-sized garnets (Fig. 3a-b). The foliation strikes $8 5 \textmd { - } 1 3 7 \textdegree$ and dips northward (Fig. 2c). Thrusts are widespread, with paragneiss thrust over lower-grade marble (Fig. 2a), and shallow dipping $( 2 9 ^ { \circ } )$ biotite quartzite thrust over more steeply dipping $( 4 2 ^ { \circ } )$ rocks of the same lithology (Fig. 3c). Pressure shadows around cored garnet in paragneiss locally record right-lateral shear ‘o' structures (Fig. 3b). A lineation in the paragneiss directs to E (Fig. 2c).
+
+In Moulmein, mylonitic granites display horizontal N-S trending “L” tectonite (Fig. 4a), associated welldeveloped ‘S-C' fabrics,‘o’ structures (Fig. 4b-c), micro-shear structures (Fig. 4b), and $\cdot \delta ^ { \cdot }$ structures (Fig. 4d).Micro-tectonics of a‘o’ structure in mylonite show that feldspar underwent brittle fracturing and quartz recrystallized with development of $1 2 0 ^ { \circ }$ grain boundary intersections (Fig. 4e). Biotite grew paralel to foliation defined by oriented quartz (Fig. 4e). The stretching lineations trend $1 8 0 - 1 6 0 ^ { \circ }$ with a sub-horizontal plunge (Fig. 2c). Asymmetric structures at multiple scales record right-lateral shear sense (Fig. 4).
+
+In summary, lineations demonstrate the maximum stretch is subparallel to parallel to the direction of shearing,and structures along the Mogok-Shan Scarp fault were generated by right-lateral shearing (Figs. 3b, 4).
+
+# 3.2 Structures along the Sagaing fault
+
+The Sagaing fault is a britle fault, an on-land continuation of a transform fault of the Andaman Sea to the south (Curray,2Oo5),and outcrops along its northern near the Yekha Lake include biotite quartzite and marble, similar to those in the Kyanigan quarry (Figs.2a), granitic and dioritic dikes, and serpentinite (Figs.1b,2b).
+
+Strikes of foliation of the quartzite and marble range from $8 0 ^ { \circ }$ to $1 8 7 ^ { \circ }$ (Fig. 2b-c), with most striking $8 0 - 1 5 3 ^ { \circ }$ , similar to those in the Kyanigan quarry (Fig. 2a, c). Some small-scale and short extended folds have E-W-trending hinges (Fig. 2b), which have been cut by the N-S-striking rightlateral Sagaing fault (Fig. 3d).
+
+# 4. Ages of deformation
+
+Garnet-biotite geothermometry and garnet-biotite-plagioclase-quartz geobarometry of paragneiss from the Kyanigan quarry constrained its pressures and temperatures of metamorphism to 0.77-0.84 GPa and $7 8 0 { - } 8 5 0 ^ { \circ } \mathrm { C }$ ,respectively (Lamont et al., 2021; Ye Kyaw et al., 2016). We collected samples of a leucogranitic dike (14M88) and low-grade biotite quartzite (14M85) from the paragneiss. Zircons in sample 14M88 are larger than $1 0 0 \mu \mathrm { m }$ ,and have euhedral shapes with uniform internal textures (Fig. S1), suggesting their metamorphic features. They have been dated a zircon U-Pb age of $3 3 . 1 \pm$ $0 . 8 \mathrm { M a }$ $( \mathrm { M S W D } = 9 . 4 \$ , total 20 grains) (Fig. 5a), consistent with the metamorphic ages of garnet migmatites studied by Lamont et al. (2021).Low-grade biotite quartzite (sample 14M85) grew new metamorphic biotite and yielded a biotite 39Ar-40Ar age of $2 0 . 9 \pm 0 . 8 \mathrm { M a }$ （2号 $( \mathrm { M S W D } = 2 . 3 5$ )(Fig. 5b).
+
+Micro-structure of the mylonite in Moulmein with britle fracturing of feldspar and recrystallized quartz (Fig. 4e) suggests deformation temperature of $5 0 0 { - } 4 0 0 ^ { \circ } \mathrm { C } _ { ; }$ ,above Ar closure in biotite.This rock has yieldeda biotite $4 0 \mathrm { A r } / 3 9 \mathrm { A r }$ age of $2 5 . 6 \pm 0 . 2$ Ma $( \mathrm { M S W D } = 1 . 5 0 ) \$ (Fig.5c) indicating Oligocene N-S directed right-lateral shearing.
+
+# 5.Discussion
+
+# 5.1 Deformation stages in Myanmar
+
+The Mogok-Shan Scarp fault has been cut by britte Sagaing fault (Figs.1b,2b, 3d), demonstrating that the Sagaing fault formed after metamorphism of the quartz schist at 20.9 Ma (Fig. 5b), younger than the proposed age of the Paleogene “Sagaing fault" in the extrusion model (Tapponnier et al., 1982).
+
+The‘o' structures, cored by garnet in paragneiss in the Kyanigan quarry (Fig. 3b), suggests that shearing occurred between the formation of garnet paragneiss/leucogranite and biotite schist at 33.1 - 20.9 Ma (Figs. 5a-b) (Lamont et al.,2O21,and this study). Right-lateral movement can drag and rotate earlier foliation.Therefore, we infer that the E-W and WNW-ESE-striking foliations and minor folds in schists (Fig. 2a-b) are products dragged from N-S trending structures by right-lateral shearing of the Sagaing fault (Swe,2012; Zhang et al.,2018). Their original orientation would be consistent with that of the granitic mylonite in Moulmein (Fig. 4).
+
+The deformation ages from shear zone rocks indicate that the Oligocene N-S trending ductile shear zone was contemporaneous from Mogok-Kyanigan in north to Moulmein in south (Fig. 1b, 5), rather than diachronous as a consequence of northward migration of the Indian indentation (Bertrand et al., 2001).
+
+# 5.2 Oligocene faulting pattern in Indochina
+
+From the Jiali fault in north to the Khlong Marui fault in south,and the Mogok-Shan Scarp fault in the west to the Ailao Shan-Red River fault in east, coeval Oligocene left- and right-lateral faults are distributed across Indochina (Fig. 1b, 6a).
+
+Whereas some researchers assumed that the Jiali fault connected with the Ailao Shan-Red River shear zone (Leloup et al.,1995; Tapponnier et al.,1982),paleogeographic reconstructions show that they were separated by paleo-suture zones of the Paleo-Tethys Ocean and the Chongshan fault (Fig. 1b) (Zhang et al., 2020; Zhong,1998). Zhang et al. (2020) suggested that the sinistral Jiali fault intersected the dextral Gaoligong fault,and they formed a conjugate strike-slip pair at the corer of the Eastern Himalaya Syntaxis.
+
+The Chongshan shear zone has a similar conjugate patern, with a N-S-striking northern segment exhibiting dextral shear sense, and the NW-SE-striking middle-southern segments showing sinistral shear sense (Fig.1b,6a) (Akciz et al.,2008; Tang et al.,2013; Wang et al.,2006; Zhang et al.,2010). This geometry reflected transpression-related shortening (Zhang et al., 2010),and conflicted with the extrusion model proposed identical shear sense along the entire shear zone at the early stage (Tapponnier et al.,1982). However, there was no documentation of dextral shearing in the middlesouthern segments prior to sinistral shearing (Akciz et al.,2008; Tang et al.,2013; Wang et al., 2006; Zhang et al., 2010).
+
+The left-lateral Ailao Shan-Red River shear zone is coupled with the right-lateral Dien Bien Phu fault at the eastern margin of the Indochina block (Fig.1b) (Hung and Vinh,20o1; Tang et al.,2009). Similarly,faults along the western margin of the Indochina block demonstrate different shear sense on different segments (Fig.1b),such as the dextral Mogok-Shan Scarp fault in north, transitioning to the sinistral Wangchao Fault-Mae Ping shear zone and Klaeng fault-Three Pagoda fault in middle,and to then dextral movement in south along the Ranong and Khlong Marui faults (Fig. 6a). Bertrand et al. (2001) accepted the extrusion model and assumed these faults recorded simple shear-related transpression during northward passage of the eastern Indian syntaxis. In their model the Wangchao fault-Mae Ping shear zone and Klaeng fault-Three Pagoda fault were be“P” fractures linked to the major Mogok-Shan Scarp fault (Bertrand et al., 2001; Tapponnier et al.,1982). This assumption, however,conflicts with the left-lateral shear sense recorded along these faults (Fig.1b)(Ahrendt et al., 1993; Kanjanapayont et al.,2013; Lacassin et al.,1997; Morley, 2001; Osterle et al.,2019).
+
+Accordingly, some Oligocene faults in Indochina conflict with predicted shear sense of the extrusion model (Tapponnier et al.,1982), suggesting that they did not accommodate SE-directed escape.The sinistral faults mainly strike NE,whereas dextral faults strike N-S to NE (Fig.1b,Table 1); they constitute huge conjugate strike-slip pairs (Fig. 6b) that accommodate N-S shortening (Zhang et al.,2014). This compression thickens continental crust to generate a 33-26 Ma gneiss dome with EW vergence of asymmetric folds near Dali, northern Ailao Shan-Red River shear zone (Fig.1b,7b) (Zhang et al., 2014).
+
+# 5.3 Syn-subduction intra-continental shearing at Oligocene
+
+Extrusion-related models proposed that the Indian-Asian collision occurred in Paleocene-Eocene time (Leloup et al.,1995; Tapponnier et al.,1982). However, some alternative models proposed that the continental collisional age was as young as 25-14 Ma,based on evidence of paleomagnetic data and the youngest metamorphic ages of high-pressure metabasite (van Hinsbergen et al.,2012; Xiao et al., 2017). At 40-35 Ma the northern margin of the Indian continent (not the Great Indian Basin) located at ca. $1 0 ^ { \circ } \mathrm { N }$ (Westerweel, 202O),and the Indochina block situated at ca. $2 2 . 6 \pm 1 0 . 9 ^ { \circ } \mathrm { N }$ (Sato et al., 2001), suggesting they were separated by ${ \sim } 1 0 ^ { \circ }$ at that time (Fig. 7a). These facts and associated model challenged the extrusion model, calling into question the relationship between Oligocene shearing and collision.
+
+Paleomagnetic studies show that pre-Late Oligocene (ca. 25.7 Ma) strata in the Baoshan and Lanping-Simao basins underwent ${ \sim } 8 0 ^ { \circ }$ clockwise rotation, and Middle Miocene (ca.17.3 Ma) strata in the Baoshan basin rotated $5 4 ^ { \circ }$ clockwise (Fig.1b) (Tong et al., 2016,2021). These data suggest that the Indochina block commenced crustal clockwise rotation no earlier than 25.7 Ma, which is younger than the main stage of movement $( 3 1 - 2 3 \ \mathrm { M a } )$ of shear zones (Fig. 6a, Table 1).
+
+We restored ${ \sim } 8 0 ^ { \circ }$ clockwise rotation, paleo-latitude of tectonic units and the $2 0 \mathrm { M a }$ -opening of the Andaman Sea to obtain an Oligocene palinspastic map (Fig.7a) that show long conjugate strikeslip pairs of ENE striking left-lateral shear zones coupled with WNW-striking right-lateral shear zones, and gneiss dome near Dali (Figs. 6b, 7b). This Oligocene faulting pattern appears to reflect approximate N-S-directed shortening (Fig. 7b). This new model is more compatible with the timing and shear sense of fault movement than Oligocene northward Indian indentation of the extrusion model, which accommodated the N-S shortening at the corner of the Eastern Himalaya Syntaxis (Dong and Xu,2016; Xu et al.,2012; Zhang et al.,2014,2020)and simple shear-related transpression to trigger southeastward escape of the main Indochina block (Leloup et al.,1995; Liu et al., 2006; Morley, 2001; Tapponnier et al.,1982; Zhang et al., 2010).
+
+During the Oligocene,the Indian ocean subducted northward in SE Asia,and generated magmatic arcs along central Myanmar and western Sumatra (Fig.1,7a)(Bellon et al., 2Oo4; Li et al., 2013,2019; Mitchell,1993; Searle et al.,2007; Xu,2011),and folds and thrusts in the Indo-Burma Range and a gneiss dome near Dali that represents a compressional setting (Fig.1b) (Hall, 2002; Zhang et al.,2014,2018). We propose that syn-subduction compression affected the Indochina block of the upper plate to generate conjugate strike-slip faults with WNW-striking right-lateral and ENEstriking left-lateral shearing (Fig.7b). Some strike-slip faults have relatively small offsets, such as that of the Ailao Shan-Red River shear zone, whose displacement is no more than a few tens of kilometers (Fig. 1b) (Rangin et al., 1995).
+
+This new model explains not only the key features of previous models, but also features, such as different shear sense of different segments of the giant Chongshan shear zone. It further helps us to constrain Cenozoic tectonic evolution of SE Asia,and demonstrates that upper plate intra-continental shearing can be generated in a syn-subduction setting,comparable to modern western South America.
+
+# 6. Conclusion
+
+Based on our field mapping, structural and geochronological analyses, integrated with published data,we draw the following conclusions:
+
+(1) The 26 Ma asymmetric structures in L-tectonites in the Moulmein granitic mylonite are consistent with those in the Kyanigan paragneiss, formed at 33-21 Ma, indicating coeval right-lateral shearing along the Mogok-Shan Scarp fault in Myanmar.
+
+(2) Oligocene shear zones and strike-slip faults are distributed across the Indochina block. These faults exhibit sinistral shear sense on NW-striking faults and dextral shear sense on N-S to NE-striking, constituting conjugate strike-slip pairs.
+
+(3) After post-Late Oligocene restoration of clockwise rotation, paleomagnetic data and opening of the Andaman Sea, the Oligocene conjugate faulting patern in Indochina demonstrates an approximate N-S-directed compression, corresponding to northward subduction of the Indian ocean. The syn-subduction compression triggered intra-continental shearing in SE Asia.
+
+# ACKNOWLEDGEMENTS
+
+This paper is dedicated to Prof. Jiliang Li in memory of his contribution to orogenic processes. Shuaihua Song and Soe Naing are thanked for field assistance. This work has been supported by the NSFC (41888101, 42172247),and the Strategic Priority Research Program (B) of CAS (XDB18030103).
+
+# References
+
+Ahrendt,H., Chonglakmani, C.,Hansen,B.T.,Helmcke,D.,1993.Geochronological cross section through northern Thailand. Journal of Southeast Asian Earth Sciences 8, 207-217.   
+Akciz,S., Burchfiel, B.C., Crowley,J.L., Jiyun, Y.,Liangzhong, C.,20o8. Geometry,kinematics,and regional significance of the Chong Shan shear Zone,Eastern Himalayan Syntaxis, Yunnan, China. Geosphere 4, 292-314.   
+Bellon, H., Maury,R.C., Sutanto, Soeria-Atmadja, R., Coton, J., Polve,M., 2004. 65 m.y.-long magmatic activity in Sumatra (Indonesia), from Paleocene to Present. Bulletin de la Société Geologique de France 175, 61-72.   
+Bertrand, G., Rangin, C., Maluski, H., Bellon, H., 2001. Diachronous cooling along the Mogok Metamorphic Belt (Shan scarp, Myanmar): the trace of the northward migration of the Indian syntaxis. Journal of Asian Earth Sciences 19, 649-659.   
+Cao, S.,Liu, J.,Leiss,B., Neubauer,F., Genser, J., Zhao, C., 2011. Oligo-Miocene shearing along the Ailao Shan-Red River shear zone: Constraints from structural analysis and zircon U/Pb geochronology of magmatic rocks in the Diancang Shan massif, SE Tibet, China. Gondwana Research 19, 975-993.   
+Curray,J.R.,2Oo5.Tectonics and history of the Andaman Sea region. Journal of Asian Earth Sciences 25, 187-232.   
+Dong,H., Xu, Z.,2016. Kinematics, fabrics and geochronology analysis in the Medog shear zone, Eastern Himalayan Syntaxis. Tectonophysics 667, 108-123.   
+Hall,R., 20o2. Cenozoic geological and plate tectonic evolution of SE Asia and the SW Pacific: computer-based reconstructions, model and animations. Journal of Asian Earth Sciences 20, 353-431.   
+Hung,N.V., Vinh, H.Q.,2O01. Moving characteristics of the Lai Chau Dien Bien fault zone during Cenozoic. Journal of Geology (Hanoi)(Series B) 17-18, 65-77.   
+Kanjanapayont,P., Grasemann, B., Edwards, M.A., Fritz, H.,2012a. Quantitative kinematic analysis within the Khlong Marui shear Zone, southern Thailand. Journal of Structural Geology 35,17- 27.   
+Kanjanapayont,P., Kieduppatum, P., Klotzli, U., Klotzli, E., Charusiri,P.,2013. Deformation history and U-Pb zircon geochronology of the high grade metamorphic rocks within the Klaeng fault Zone, eastern Thailand. Journal of Asian Earth Sciences 77, 224-233.   
+Kanjanapayont, P., Klotzli, U., Thoni, M., Grasemann, B., Edwards, M.A.,2012b. Rb-Sr,Sm-Nd, and U-Pb geochronology of the rocks within the Khlong Marui shear Zone, southern Thailand. Journal of Asian Earth Sciences 56,263-275.   
+Lacassin,R., Maluski, H., Leloup,P.H.,Tapponnier,P., Hinthong, C., Siribhakdi, K., Chuaviroj,S., Charoenravat, A.,1997. Tertiary diachronic extrusion and deformation of western Indochina: Structural and 40Ar/39Ar evidence from NW Thailand. Journal of Geophysical Research: Solid Earth 102,10013-10037.   
+Lamont, T.N., Searle, M.P., Hacker, B.R., Htun, K., Htun, K.M., Morley, C.K., Waters,D.J., White, R.W., 2021. Late Eocene-Oligocene granulite facies garnet-sillimanite migmatites from the Mogok Metamorphic belt, Myanmar, and implications for timing of slip along the Sagaing Fault. Lithos 386-387,106027.   
+Leloup,P.H., Arnaud,N.,Lacasin, R., Kienast, J.R.,Harrison, T.M.,Trong, T.T.P., Replumaz, A., Tapponnier, P., 20o1. New constraints on the structure, thermochronology, and timing of the Ailao Shan-Red River shear Zone, SE Asia. Journal of Geophysical Research: Solid Earth 106, 6683-6732.   
+Leloup, P.H.,Lacassin,R., Tapponnier,P., Schärer, U., Zhong,D.,Liu, X., Zhang,L., Ji, S., Trinh, P.T.,1995. The Ailao Shan-Red River shear zone (Yunnan, China),Tertiary transform boundary of Indochina. Tectonophysics 251, 3-84.   
+Li, J.-X.,Fan, W.-M., Zhang,L.-Y.,Ding,L., Sun, Y.-L.,Peng, T.-P., Cai,F.-L., Guan, Q.-Y, Sein, K., 2019.Subduction of Indian continental lithosphere constrained by Eocene-Oligocene magmatism in northern Myanmar. Lithos 348-349,105211.   
+Li, R.Y., Mei, L.F., Zhu, G.H., Zhao, R.M., Xu, X.M., Zhao, H.X., Zhang,P., Yin, Y.P., Ma, Y.X., 2013.Late Mesozoic to Cenozoic Tectonic Events in Volcanic Arc, West Burma Block: Evidences from U-Pb Zircon Dating and Apatite Fission Track Data of Granitoids. Journal of Earth Science 24, 553-568.   
+Lin,T.-H.,Lo, C.-H., Chung,S.-L.,Hsu,F.-J., Yeh,M.-W.,Lee,T.-Y., Ji,J.-Q., Wang, Y.-Z.,Liu,D, 2009. 40Ar/39Ar dating of the Jiali and Gaoligong shear Zones: Implications for crustal deformation around the Eastern Himalayan Syntaxis. Journal of Asian Earth Sciences 34, 674-685.   
+Liu, J.L., Song, Z.J., Cao, S.Y., Zhai, Y.F., Wang, A.J., Gao,L., Xiu, Q.Y., Cao, D.H., 2006. The dynamic setting and processes of tectonic and magmatic evolution of the oblique collision Zone between Indian and Eurasian plates: Exemplified by the tectonic evolution of the Three River region, eastern Tibet. Acta Petrologica Sinica 22, 775-786 (in Chinese with English abstract).   
+Mitchell, A.H.G., 1993. Cretaceous-Cenozoic tectonic events in the western Myanmar (Burma)- Assam region. Journal of the Geological Society,London 150,1089-1102.   
+Morley, C.K., 2oo1. Combined escape tectonics and subduction rolback-back arc extension: a model for the evolution of Tertiary rift basins in Thailand, Malaysia and Laos. Journal of the Geological Society 158, 461-474.   
+Morley, C.K., Woganan, N., Sankumarn, N., Hoon, T.B., Alief, A., Simmons, M., 2001. Late Oligocene-Recent stress evolution in rift basins of northern and central Thailand: implications for escape tectonics. Tectonophysics 334,115-150.   
+Nantasin,P., Hauzenberger, C.,Liu, X., Krenn, K., Dong, Y.,Thoni, M., Wathanakul,P., 2012. Occurrence of the high grade Thabsila metamorphic complex within the low grade Three Pagodas shear Zone, Kanchanaburi Province, western Thailand: Petrology and geochronology. Journal of Asian Earth Sciences 60, 68-87.   
+Osterle, J.E.,Klotzli, U. Stockli, D.F., Palzer-Khomenko, M., Kanjanapayont,P.,2019.New age constraints on the Lan Sang gneiss complex, Thailand, and the timing of activity of the Mae Ping shear zone from in-situ and depth-profile zircon and monazite U-Th-Pb geochronology. Journal of Asian Earth Sciences 181,103886.   
+Otofuji, Y.-i., Tung, V.D., Fujihara, M., Tanaka,M., Yokoyama, M., Kitada, K., Zaman, H., 2012. Tectonic deformation of the southeastern tip of the Indochina Peninsula during its southward displacement in the Cenozoic time. Gondwana Research 22, 615-627.   
+Rangin, C., Klein, M., Roques,D.,Le Pichon, X.,Le Van, T.,1995. The Red River fault system in the Tonkin Gulf, Vietnam. Tectonophysics 243,209-222.   
+Sato, K., Liu, Y., Zhu, Z., Yang, Z., Otofuji, Y.-i., 20o1. Tertiary paleomagnetic data from northwestern Yunnan, China: further evidence for large clockwise rotation of the Indochina block and its tectonic implications. Earth and Planetary Science Letters 185,185-198.   
+Searle,M.P., Garber, J.M., Hacker,B.R., Htun, K., Gardiner, N.J., Waters,D.J.,Robb,L.J., 2020. Timing of Syenite-Charnockite Magmatism and Ruby and Sapphire Metamorphism in the Mogok Valley Region, Myanmar. Tectonics 39, e2019TC005998.   
+Searle,M.P., Noble,S.R., Cotle, J.M., Waters, D.J.,Mitchel, A.H.G.,Hlaing,T., Horstwood,M.S.A., 2007. Tectonic evolution of the Mogok metamorphic belt, Burma (Myanmar) constrained by U-Th-Pb dating of metamorphic and magmatic rocks. Tectonics 26, TC3014.   
+Swe, W.,2012. Outline geology and economic mineral occurrences of the union of Myanmar. Journal of the Myanmar Geosciences Society 1, 1-215.   
+Tang,Y.,Liu,J., Tran, M.D., Song, Z.,2O09. Structural characteristics of the Dien Bien Phu strike slip fault zone and its regional tectonic implication. Acta Geologica Sinica 83,1401-1414 (in Chinese with English abstract).   
+Tang, Y., Yin, F.G., Wang, L.Q., Wang, D.B.,Liao, S.Y., Sun, Z.M., Sun, J., 2013. Structural characterization of and geochronological constraints on sinistral strike-slip shearing along the southern segment of Chongshan shear Zone, western Yunnan. Acta Petrologica Sinica 29, 1311-1324 (in Chinese with English abstract).
+
+Tapponnier,P., Peltzer, G.,Le Dain, A.Y., Armijo, R., Cobbold,P.,1982. Propagating extrusion tectonics in Asia: New insights from simple experiments with plasticine. Geology 10, 611- 616.
+
+Tong, Y., Yang, Z., Jing, X., Zhao, Y.,Li, C., Huang, D., Zhang, X., 2016. New insights into the Cenozoic lateral extrusion of crustal blocks on the southeastern edge of Tibetan Plateau: Evidence from paleomagnetic results from Paleogene sedimentary strata of the Baoshan Terrane. Tectonics 35, 2494-2514.   
+Tong, Y., Yang, Z., Pei, J., Wang, H., Wu, Z.,Li, J., 2021. Crustal Clockwise Rotation of the Southeastern Edge of the Tibetan Plateau Since the Late Oligocene. Journal of Geophysical Research: Solid Earth 126, e2020JB020153.   
+van Hinsbergen, D.J.J., Lippert, P.C., Dupont-Nivet, G., McQuarre, N.,Doubrovine, P.V., Spakman, W., Torsvik, T.H., 2O12. Greater India Basin hypothesis and a two-stage Cenozoic collision between India and Asia. Proceedings of the National Academy of Sciences 109, 7659-7664.   
+Wang,Y., Fan, W., Zhang, Y., Peng, T., Chen, X., Xu, Y., 2006. Kinematics and 40Ar/39Ar geochronology of the Gaoligong and Chongshan shear systems, western Yunnan, China: Implications for early Oligocene tectonic extrusion of SE Asia. Tectonophysics 418, 235-254.   
+Watkinson,I., Elders, C.,Batt, G., Jourdan,F.,Hall, R., McNaughton,N.J.,2011. The timing of strike-slip shear along the Ranong and Khlong Marui faults, Thailand. Journal of Geophysical Research: Solid Earth 116.   
+Watkinson,I.,Elders,C., Hall,R.,2O08.The kinematic historyof the Khlong Marui and Ranong Faults, southern Thailand. Journal of Structural Geology 30,1554-1571.   
+Westerweel, J.,2020.The India-Asia Collision from the Perspective of Myanmar: Insights from Paleomagnetism and Paleogeographic Reconstructions. University of Rennes, p. 287.   
+Xiao, W.J., Ao, S.J., Yang, L.,Han, C.M., Wan, B., Zhang, J.E., Zhang, Z.Y.,Li, R., Chen, Z.Y., Song, S.H., 2017. Anatomy of composition and nature of plate convergence: Insights for alternative thoughts for terminal India-Eurasia collision. Science China Earth Sciences 60, 1015-1039.   
+Xu, Q., 2011. Metallogenic characteristics of MTT Au-Cu deposit in Union of Burma. Journal of Geology 35, 375-378 (in Chinese with English abstract).   
+Xu, Z., Ji, S., Cai, Z., Zeng,L., Geng, Q., Cao, H.,2012. Kinematics and dynamics ofthe Namche Barwa Syntaxis, eastern Himalaya: Constraints from deformation,fabrics and geochronology. Gondwana Research 21, 19-36.   
+Xu, Z., Wang, Q., Cai, Z.,Dong, H.,Li,H., Chen, X., Duan, X., Cao,H.,Li, J., Burg, J.-P., 2015. Kinematics of the Tengchong Terrane in SE Tibet from the late Eocene to early Miocene: Insights from coeval mid-crustal detachments and strike-slip shear zones. Tectonophysics 665, 127-148.   
+Ye Kyaw,T.,Maw Maw, W., Enami, M., Tsuboi, M.,2016. Ti-rich biotite in spinel and quartzbearing paragneiss and related rocks from the Mogok metamorphic belt, central Myanmar. Journal of Mineralogical and Petrological Sciences 111, 270-282.   
+Zhang,B., Cai,F., Chen, S.,Li, X., Zhang,L.,2020. Sinistral strike-slip shearing along the Jiali shear Zone around the Eastern Himalaya syntaxis region: Evidences for oligocene eastward limited translation of Tibet. Journal of Structural Geology 139,104136.   
+Zhang,B., Chai, Z., Yin, C.Y., Huang, W.T., Wang, Y., Zhang, J.J., Wang, X.X., Cao, K., 2017. Intra-continental transpression and gneiss doming in an obliquely convergent regime in SE Asia. Journal of Structural Geology 97, 48-70.   
+Zhang, B., Zhang, J., Liu, J., Wang, Y., Yin, C., Guo,L., Zhong, D.,Lai, Q., Yue, Y., 2014. The Xuelongshan high strain zone: Cenozoic structural evolution and implications for fault linkages and deformation along the Ailao Shan-Red River shear zone. Journal of Structural Geology 69,209-233.   
+Zhang,B., Zhang, J., Zhong,D.,2010. Structure, kinematics and ages of transpression during strainpartitioning in the Chongshan shear Zone, western Yunnan, China. Journal of Structural Geology 32, 445-463.   
+Zhang, J.E., Xiao, W., Windley,B.F., Wakabayashi, J., Cai,F., Sein, K., Wu,H., Naing,S.,2018. Multiple alternating forearc- and backarc-ward migration of magmatism in the Indo-Myanmar
+
+Orogenic Belt since the Jurassic: Documentation of the orogenic architecture of eastern Neotethys in SE Asia.Earth-Science Reviews185,704-731.
+
+Zhong,D.L.,1998. The Paleotethys orogenic belt in west of Sichuan and Yunnan. Science Publishing House, Beijing, pp230 (in Chinese).
+
+# SUPPORTINGINFORMASTION
+
+张继恩  
+中国科学院地质与地球物理研究所http://www.igg.cas.cn/  
+邮编：100029  
+ORCID: 0000-0002-0025-5025  
+ResearchGate: https://www.researchgate.net/profile/Jien-Zhang
+
+# Figure Legends
+
+Figure 1 (a) Simplified structural map of southeast Asia showing shear zones in Indochina, which had been proposed as boundary faults accommodating SE-ward escape driven by Indian-Asian collision in the extrusion model (Modified after Tapponnier et al. (1982)). (b) Shaded relief map showing Oligocene strike-slip faults,shear zones and magmatic arcs in Indochina, paleo-suture zones and active subduction zone/thrust zones.Magmatic arcs are based on Bellon et al. (2o04),Li et al. (2013, 2019),Mitchell (1993), Searle et al. (2007) and $\mathrm { X u }$ (2011). Paleo-suture zones and active subduction Zone are based on Zhang et al. (2O18). Paleomagnetic data in the Baoshan-Lanping-Simao basins are from Tong et al. (2016) and Tong et al. (2021). Age of the Andaman Sea ( $2 0 \mathrm { M a } )$ is marked (Curray, 2005).33-26 Ma dome-related lineation is based on Zhang et al. (2014).Locations ofFig.2a-b,4,and dated sample 14MO7 have been marked.
+
+Figure 2 Geological maps of(a) the Mogok-Shan Scarp fault in the Kyanigan quarry, showing E-Wstriking paragneiss thrust over lower grade metasediments, and (b) the britle Sagaing fault near Yekha Lake, cuting E-W/WNW-ESE-striking metasediments and minor folds with E-W-trending hinges. Locations of Fig. 3a, c-d and samples 14M85 and 14M88 are marked. (c) Stereonet diagrams plotting attitude of foliations of metasediments and paragneiss,and orientation of the Sagaing fault. The stretching lineations from the Kyanigan quarry and Moulmein have been plotted.
+
+Figure 3 Photos showing (a) ESE-WNW striking paragneiss in the Kyanigan quarry and (b) rightlateral shear sense associated with ‘o' structure cored by garnet. (c) A thrust in biotite quartzite schists. Locations of dated samples 14M85 and 14M88 are marked. (d) Photo showing the N-striking brittle Sagaing fault cuting E-striking metasediment near Yekha Lake, suggesting the brittle fault was younger than deformation of the schist.
+
+Figure 4 Photos of the N-S trending granitic mylonite in Moulmein,showing (a) horizontal L-tectonite, (b) minor ductile shear fault,(c)‘o’ structure and (d) ${ \bf \nabla } ^ { \bullet } \delta ^ { \bullet }$ structure.These structures consistently show right-lateral shearing. (e) Microstructure of granitic mylonite in Moulmein showing ‘o' structure with right-lateral shear sense.The feldspar underwent britle fracturing,and quartz developed recrystallized sub-grains, suggesting their deformation temperature at ca. $4 0 0 { - } 5 0 0 ^ { \circ } \mathrm { C }$ . The oriented biotites are syntectonic products that are used to constrain the deformation age of mylonite.
+
+Figure 5 (a) Metamorphic zircon U-Pb age of a leucogranitic dike in the paragneiss and (b) biotite 39Ar-40Ar age of low-grade quartzite in the Kyanigan quarry, representing the ductile deformation ages of 33.1-20.9 Ma. (c) biotite 39Ar-40Ar age of granitic mylonite in Moulmein, demonstrating granite underwent right-lateral shearing in the Oligocene.
+
+Figure 6 (a) Ages of strike-slip faults in Indochina showing their main occurrence at 31-23 Ma. Detailed deformation ages, shear sense and references are presented in Table 1.The main stage of shearing is coeval with magmatic arcs,and prior to those of the large-scale clockwise rotation of Indochina and Andaman Sea. (b) Rose diagram showing Oligocene WNW-ESE-striking left-lateral faults and N-S/NNE-SSW-striking right-lateral faults in Indochina; they constitute conjugate strikeslip pairs.‘o1' represents the maximum principal stress.
+
+Figure 7 (a) Palinspastic map of Oligocene paleo-locations of units in SE Asia after restoration of post-Oligocene $8 8 - 5 4 ^ { \circ }$ clockwise rotation (Tong et al., 2016,2021) and the Andaman Sea ( $( 2 0 \mathrm { M a } )$ （204号 (Curray, 2Oo5), showing that magmatic arcs and the Indochina block located to ${ \sim } 1 0 ^ { \circ }$ north of the northern margin of the Indian continent (not the Great Indian Basin) at $4 0 { - } 3 5 \mathrm { M a }$ (Sato et al., 2001; Westerweel, 2020),and the Indochina block extended to E-W or WNW-ESE. (b) Schematic map showing Oligocene conjugate strike-slip shear zones in Indochina and a gneiss dome near Dali that were generated by N-S compression. The faulting patern is different from that of the extrusion model, in which transpression generated simple shear-related SE extrusion of the Indochina block accompanying clockwise rotation in the Oligocene as shown in Figure la. Acronyms of faults are: ARSZ: Ailao Shan-Red River shear Zone; CSF: Chongshan fault; DBPF: Dien Bien Phu fault; GLF:
+
+Gaoligong fault; JLF: Jiali fault; KMF: Khlong Marui fault; MPSZ: Wangchao fault-Mae Ping shear zone; SSF: Mogok-Shan Scarp fault; TPF: Klaeng fault-Three Pagoda fault.
+
+![](images/3ffccebc8cad2d7feea92773783e7605ec2a10f6e2eb0234b14e716d92f1114f.jpg)  
+Figures   
+Figure 1 Zhang et al., 2021
+
+![](images/fc2d23db80fc7b3a65c4fafca28f7abe15b52dc7f86dc55ea3dc5642c2237a3a.jpg)  
+Figure 2Zhang et al., 2021
+
+![](images/7bb10fa04c88dfcf9f17b70571694264ea43f16e217c663e7d6d212f888132a6.jpg)  
+Figure 3 Zhang etal.,2021
+
+![](images/09a133621569331bf095f2cff461627525e81f97f73c4f8b6e42ebec9cc43846.jpg)  
+Figure 4 Zhang etal.,2021
+
+![](images/f09938a36112609780ccf896b2e149cbf14d3104cf01946481920a1705f51069.jpg)  
+Figure5Zhang etal.,2021
+
+![](images/02e7d56a9e1d9189941eeb9ed3e01f73761e35baa8988cc2cfb6c5a02b4a7df1.jpg)  
+Figure 6 Zhang et al., 2021
+
+![](images/634db66e3bf15bccf888554d66565b2e59080a1bbb62a046521d137bc591b31e.jpg)  
+Figure 7Zhang et al., 2021
+
+# Tables
+
+Table1Propertiesof Oligocene shear zones in Indochina   
+
+<html><body><table><tr><td>Fault name</td><td>Strike</td><td>Shear sense</td><td>Ages (Ma)</td><td>References</td></tr><tr><td> Jiali fault</td><td>WNW</td><td>L</td><td>31.4-19^</td><td>Zhang et al., 2020</td></tr><tr><td>Dongjiu-Milin fault</td><td>NE</td><td>L</td><td>31.3-18.7 </td><td>Xu et al., 2012</td></tr><tr><td>Medog shear zone</td><td>SSw</td><td>R</td><td>29.3-23.4</td><td>Dong and Xu, 2016</td></tr><tr><td>Nabang fault</td><td>Ssw</td><td>R</td><td>32.8-19.5 </td><td>Wang et al., 2006; Xu et al., 2015</td></tr><tr><td>Gaoligong fault</td><td>N-S</td><td>R</td><td>32.1-19.3</td><td>Wang et al., 2006; Xu et al., 2015</td></tr><tr><td>Chongshan fault-north</td><td>N-S</td><td>R</td><td>32-14</td><td>Akciz et al., 2008; Zhang et al., 2010</td></tr><tr><td>Chongshan fault- south/middle</td><td>NNW</td><td>L</td><td>34-17.2  </td><td>Akciz et al., 2008; Tang et al., 2013; Wang et al., 2006; Zhang et al., 2010</td></tr><tr><td>Ailao Shan- Red River shear zone</td><td>NW</td><td>L</td><td>34-20</td><td>Cao et al., 2011; Leloup et al., 2001; Leloup et al., 1995</td></tr><tr><td>Sagaing fault</td><td>N-S</td><td>R</td><td><20.9</td><td>This study</td></tr><tr><td>Mogok-Shan Scarp fault</td><td>NNW</td><td>R</td><td>39-20.9 </td><td>This study, Bertrand et al., 2001; Searle et al., 2020</td></tr><tr><td>Wangchao fault-Mae Ping shear zone</td><td>NW</td><td>L</td><td>35-22</td><td>Ahrendt et al., 1993; Lacassin et al., 1997; Morley et al., 2001; Otofuji et al., 2012</td></tr><tr><td>Klaeng fault- Three Pagoda</td><td>NW</td><td>L</td><td>42.5-32*</td><td>Kanjanapayont et al., 2012b; Nantasin et al., 2012</td></tr><tr><td>fault Ranong fault</td><td>NE</td><td>R</td><td>44.9-23</td><td>Watkinson et al., 2008,2011</td></tr><tr><td>Khlong Marui fault</td><td>NE</td><td>R</td><td>43.6-23,</td><td>Kanjanapayont et al., 2012a; Watkinson et al., 2008, 2011</td></tr><tr><td>Dien Bien Phu fault</td><td>NE</td><td>R</td><td>Mid-Late Paleogene - 5.80</td><td>Hung and Vinh, 2001; Tang et al., 2009</td></tr></table></body></html>
+
+Note: Shear sense: L: left-lateral shear sense; R: right-lateral shear sense. Dating method: biotite-mica-hornblende $^ { 3 9 } { \mathrm { A r } } { \cdot } ^ { 4 0 } { \mathrm { A r } }$ $0$ zircon U-Pb, "biotite-feldspar K-Ar, Rb-Sr, $\scriptscriptstyle \mathrm { ~ O ~ }$ sediments. More details see the Table S5.

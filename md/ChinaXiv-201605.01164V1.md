@@ -1,0 +1,251 @@
+# Wilson Line Response of Holographic Superconductors in Gauss-Bonnet Gravity
+
+Rong-Gen Cai $^ *$ , Li Li†, Li-Fang Li $\ddag$ ， Hai-Qing Zhang $\mathrm { \AA }$ ， and Yun-Long Zhang State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190， China
+
+Abstract
+
+We study the Wilson line response in the holographic superconducting phase transitions in GaussBonnet gravity. In the black brane background case,the Little-Parks periodicity is independent of the Gaus-Bonnet parameter, while in the AdS soliton case, there is no evidence for the LittleParks periodicity. We further study the impact of the Gaus-Bonnet term on the holographic phase transitions quantitatively. The results show that such quantum corrections can effectively affect the occurrence of the phase transitions and the response to the Wilson line.
+
+PACS numbers: 11.25.Tq, 04.70.Bw, 74.20.-z
+
+# I. INTRODUCTION
+
+The AdS/CFT correspondence [1-3] provides us a novel method to study the strongly coupled field theories through a weakly coupled gravitational system in one higher dimension. In recent years, the AdS/CFT correspondence has been used to mimic many basic phenomena in condensed matter physics, such as Nernst effect [4, 5], superconductivity [6- 8] and non-fermi liquid [9-11]. Among these works, the holographic superconductivity is the most studied subject, and various aspects of the holographic superconductors have been intensively discussed， such as the response to the magnetic field [12-15], the Meissner effect [16,17], the behavior of the entanglement entropy [18-21] and the Josephson junction [22-25]. For more details,please refer to [26-28] and references therein.
+
+The Little-Parks (LP) effect was discovered in experiments with empty and thin-walled superconducting cylinders subjected to a paralll magnetic field [29]. It states that certain thermodynamic quantities such as the critical temperature $T _ { c }$ are periodic functions of the enclosed magnetic flux with period $h c / 2 e$ where $e$ is the fundamental charge of carriers. While recently it was shown in the condensed matter literatures [30-34] that the LP period would be broken for small enough cylinder, the LP degeneracy and its uplifting have been realized holographically in [35]，where the Wilson line $W$ along the compact direction is identified as a quantum hair. They found that the boundary field theory in a deconfined state dual to black brane is insensitive to the quantum hair,thus the Aharonov-Bohm (AB) effect is suppressed and the LP period appears. In contrast, the theory in the confining vacuum dual to the soliton is sensitive to the quantum hair, thus the AB effect is unsuppressed and there is no trace of the LP effect.
+
+This encouraging discovery motivates us to study the responses to a Wilson line on a circle in the frame of Gauss-Bonnet gravity. In [35,36], the effect of the Wilson line has been studied in the Einstein gravity background. It would be interesting to see how the modification of the bulk gravity may influence the response to the Wilson line. The higher curvature corrections originated from the string theory can effectively describe quantum corrections in the bulk. According to the AdS/CFT correspondence, such effects on the gravity side map to $1 / \mathcal { N }$ suppressed corrections in the large $\mathcal { N }$ expansion of the boundary field theory. The studies of holographic superconductor with higher curvature corrections [37-42] indicate that such terms can quantitatively affect many properties of the boundary system. In particular, the ratio of the frequency gap over the critical temperature, i.e., $\omega _ { g } / T _ { c }$ which was found to be universal in Einstein gravity, breaks down. Therefore, in this paper, we are interested in how the Gauss-Bonnet term changes the response to the Wilson line. We study the responses in both AdS black brane background which can mimic the holographic conductor/superconductor transition,and AdS soliton background which can model the holographic insulator/superconductor transition. We work in the probe limit. Our results show that the responses to Wilson line are dramatically different between holographic conductor/superconductor phase transition and holographic insulator/superconductor phase transition.Explicitly,for black brane, the LP periodicity still holds in the Gauss-Bonnet gravity and is independent of the Gauss-Bonnet parameter, while there is no evidence for the LP periodicity in the AdS soliton case. These phenomena are similar to those in the Einstein theory. Furthermore, we analyze the impact of the Gauss-Bonnet term to the systems in detail. We find that with the change of the Gauss-Bonnet parameter, the corresponding physical quantities,such as the condensation and the current, display regular behaviors. In particular,at fixed chemical potential, the behaviors of condensation and current with respect to $a _ { \chi }$ （or equivalently Wilson line $W$ ）are much more different in the two systems with the change of the Gauss-Bonnet parameter.
+
+Our paper is organized as follows. First, we construct the holographic model in Section. II. We study the responses to the Wilson line in the holographic conductor/superconductor model and the insulator/superconductor model in Section. III and Section.IV, respectively. In the last Section. V, we give some conclusions and discussions.
+
+# II. THEHOLOGRAPHICMODEL
+
+Let us start from the Einstein-Gauss-Bonnet gravity with a negative cosmological constant coupled to a $U ( 1 )$ gauge field $A _ { \mu }$ and a charged scalar field $\Psi$ in 5-dimensional spacetime.The action reads
+
+$$
+\int d ^ { 5 } x \sqrt { - g } \Bigl [ \frac { 1 } { 2 \kappa _ { 5 } ^ { 2 } } \Bigl ( R + \frac { 1 2 } { L ^ { 2 } } + \frac { \alpha } { 2 } \bigl ( R ^ { 2 } - 4 R ^ { \mu \nu } R _ { \mu \nu } + R ^ { \mu \nu \rho \sigma } R _ { \mu \nu \rho \sigma } \bigr ) \Bigr ) + \frac { 1 } { \hat { g } ^ { 2 } } \Bigl ( - \frac { 1 } { 4 } F _ { \mu \nu } ^ { 2 } - \frac { 1 } { L ^ { 2 } } \vert D _ { \mu \nu } \vert ^ { 2 } \Bigr ) \Bigr ] ,
+$$
+
+with $\kappa _ { 5 }$ the gravitational constant, $L$ the radius of the AdS spacetime, $F _ { \mu \nu } = \partial _ { \mu } A _ { \nu } - \partial _ { \nu } A _ { \mu }$ and $D _ { \mu } = \partial _ { \mu } - i A _ { \mu }$ . The quadratic curvature term is the Gauss-Bonnet term with $\alpha$ the Gauss-Bonnet parameter. In order to compare with the results in [35, 36],we only consider the case with a massless scalar field. To mimic a boundary system compactified on a circle, we are interested in the geometry with one compact spatial direction labeled as $\chi$ with （204号 $0 \leq \chi < 2 \pi R$ .In this paper, we will work at finite temperature $T$ ，corresponding to a compact Euclidean time direction with radius $\beta = 1 / T$
+
+The control parameter that we will consider in the holographic superconductor is a Wilson line along the compact direction $\chi$ , with a constant non-trivial gauge vector potential $a _ { \chi }$
+
+$$
+W = \exp \left( e i \oint d x ^ { \mu } a _ { \mu } \right) = \exp \left( i e 2 \pi R a _ { \chi } \right) ,
+$$
+
+where the integral is calculated along the compact direction and $e$ is the fundamental charge. The Wilson line on the material can be thought to be generated by the axial magnetic flux since the circulation of the gauge potential equals the magnetic flux enclosed by the path. One parameter that can characterize the response of $W$ is the fluxoid number
+
+$$
+m \equiv \frac { 1 } { 2 \pi } \oint d x ^ { \mu } \partial _ { \mu } \theta = \mathrm { i n t e g e r } ,
+$$
+
+where the integral is done along the compact direction and $\theta$ is the phase of the order parameter.
+
+In general, we should solve the full coupled equations of motion, which are more complicated in the case with the Gauss-Bonnet term. However, we can get some qualitative features in the so-caled probe limit. Indeed, we can see from the action that in the limit $\kappa _ { 5 } ^ { 2 } / \hat { g } ^ { 2 } \ll 1$ , the back reaction of the gauge field and the complex scalar field can be neglected safely. For our case, the simplest ansatz are as follows
+
+$$
+\psi = \psi ( z ) e ^ { i m \chi / R } , \quad A _ { t } = A _ { t } ( z ) , \quad A _ { \chi } = A _ { \chi } ( z ) .
+$$
+
+Near the AdS boundary $z  0$ , the scalar field and the Maxwell field behave as
+
+$$
+\begin{array} { r } { \psi = s + \langle O \rangle z ^ { 4 } / 4 + \cdots , } \\ { A _ { t } = \mu - \rho z ^ { 2 } / 2 + \cdots , } \\ { A _ { \chi } = a _ { \chi } + J _ { \chi } z ^ { 2 } / 2 + \cdots . } \end{array}
+$$
+
+From the AdS/CFT dictionary, the coefficients above can be related to physical quantities in the boundary field theory. $\langle O \rangle$ is the vacuum expectation value (VEV) of the dual operator with $s$ the source which is set to be zero to accomplish the spontaneous symmetry breaking of the gauge symmetry. $\mu$ and $\rho$ are chemical potential and charge density, respectively. $J _ { \chi }$ is the VEV of the $U ( 1 )$ current and $a _ { \chi }$ plays the role of a gauge potential along the compact direction of the boundary material. The free energy $F ^ { \prime } = \boldsymbol { \cal I } ^ { \prime } \boldsymbol { S } _ { E }$ can be obtained from the AdS Euclidean action $S _ { E }$ evaluated with all the bulk fields on shell,which is used to determine which configuration is thermodynamically favorable.
+
+In the next two sections,we will study the response to the Wilson line in both five dimensional Gauss-Bonnet-AdS black brane and Gauss-Bonnet-AdS soliton backgrounds. Especially， we concentrate on the quantitative changes of boundary systems after turning on such quadratic curvature corrections in the bulk.
+
+# III.HOLOGRAPHIC CONDUCTOR/SUPERCONDUCTOR TRANSITION
+
+The 5-dimensional Gauss-Bonnet-AdS black brane with a Ricci flat horizon is described by [43]
+
+$$
+\begin{array} { l } { { d s _ { B B } ^ { 2 } = \displaystyle \frac { L ^ { 2 } } { z ^ { 2 } } \Big [ - f ( z ) d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + d \chi ^ { 2 } + \displaystyle \frac { d z ^ { 2 } } { f ( z ) } \Big ] , } } \\ { { f ( z ) = \displaystyle \frac { L ^ { 2 } } { 2 \alpha } \bigg ( 1 - \sqrt { 1 - \displaystyle \frac { 4 \alpha } { L ^ { 2 } } \big ( 1 - \displaystyle \frac { z ^ { 4 } } { z _ { h } ^ { 4 } } \big ) } \bigg ) , } } \end{array}
+$$
+
+where the horizon is located at $z _ { h }$ . The temperature of the black brane is $\begin{array} { r } { T \ : = \ : \frac { 1 } { \pi z _ { h } } } \end{array}$ In order to have a well-defined vacuum for the gravity theory, one has to have $\alpha \leq L ^ { 2 } / 4$ . The upper bound $\alpha = L ^ { 2 } / 4$ is calld the Chern-Simons limit. If we further consider the causality constraint from the boundary CFT, there is an additional constraint on the Gauss-Bonnet parameter with $- 7 L ^ { 2 } / 3 6 \leq \alpha \leq 9 L ^ { 2 } / 1 0 0$ [44-47]. In the AdS/CFT correspondence, the temperature of the black hole is just the one of the dual field theory. In the following numerical calculations we will set $L = 1$ ：
+
+Assuming the matter field in the form of Eq.(4), we can obtain the equations of motion
+
+$$
+\begin{array} { r } { z ^ { 3 } \partial _ { z } \Big ( \frac { f } { z ^ { 3 } } \partial _ { z } \psi \Big ) + \Big [ \frac { A _ { t } ^ { 2 } } { f } - \Big ( A _ { x } - m / R \Big ) ^ { 2 } \Big ] \psi = 0 , } \\ { z \partial _ { z } \Big ( \frac { \partial _ { z } A _ { t } } { z } \Big ) - \frac { 2 A _ { t } } { z ^ { 2 } f } \psi ^ { 2 } = 0 , } \\ { z \partial _ { z } \Big ( \frac { f \partial _ { z } A _ { x } } { z } \Big ) - \frac { 2 \Big ( A _ { x } - m / R \Big ) } { z ^ { 2 } } \psi ^ { 2 } = 0 . } \end{array}
+$$
+
+To solve the above equations of motion, we impose the regularity conditions at the horizon
+
+z=2h
+
+$$
+\begin{array} { r } { \frac { 4 } { z _ { h } } \partial _ { z } \psi + ( A _ { \chi } - m / R ) ^ { 2 } \psi = 0 , } \\ { A _ { t } = 0 , } \\ { \partial _ { z } A _ { \chi } + \cfrac { 1 } { 2 z _ { h } } ( A _ { \chi } - m / R ) \psi ^ { 2 } = 0 . } \end{array}
+$$
+
+From the bulk equations of motion Eq.(7) and the boundary conditions Eq.(8)，we see that $A _ { \chi }$ equivalently appears in the combination $( m / R - A _ { \chi } )$ which comes from the local covariant quantity $D _ { \chi } \psi = i ( m / R - A _ { \chi } ) \psi e ^ { i m \chi / R }$ . This implies that the effective action of the boundary system will only depend on local gauge invariant quantities,and thus will display LP periodicity. This observation is confirmed by our subsequent numerical calculations.
+
+Considering the scaling symmetry
+
+$$
+( z , t , x , y , \chi )  \lambda ( z , t , x , y , \chi ) , R  \lambda R , A _ { \chi }  A _ { \chi } / \lambda , A _ { t }  A _ { t } / \lambda ,
+$$
+
+we can adjust the solutions to satisfy $z _ { h } ~ = ~ 1$ .And the corresponding scaling invariant variables are $a _ { \chi } R$ ， $\langle O \rangle R ^ { 4 }$ ， $J _ { \chi } R ^ { 3 }$ and so on. The free energy of the system is
+
+$$
+F / V _ { 3 } = - \frac { 1 } { 2 } ( \rho \mu + a _ { \chi } J _ { \chi } ) - \int _ { 0 } ^ { z _ { h } } d z \frac { \psi ^ { 2 } } { z ^ { 3 } } \Big [ - \frac { A _ { t } ^ { 2 } } { f ( z ) } + A _ { \chi } \big ( A _ { \chi } - \frac { m } { R } \big ) \Big ] ,
+$$
+
+which is used to determine which configuration is thermodynamically favored, where $V _ { 3 }$ is the spatial volume of the black hole spanned by $x$ ， $y$ and $\chi$
+
+Fig.1 shows the phase diagrams for the occurrence of superconductivity in the GaussBonnet-AdS black brane case. Here we choose the Gauss-Bonnet parameter as $\alpha = 0 . 0 9$ ， $\alpha = 0 . 0 3$ ， $\alpha = 0 . 0 0 0 1$ ，and $\alpha = - 0 . 1$ in turn. Although we introduce some kind of quantum corrections effectively described by Gauss-Bonnet term in the bulk,we can see from Fig.1 that the phase diagram displays a precise periodicity with period $\Delta a _ { \chi } R = 1$ no matter the choice of the Gauss-Bonnet parameter $\alpha$ . When the parameter $\alpha$ vanishes, the system returns to the one in Einstein theory. Following the terminology in [35],we conclude that the AB effects are suppressed for black brane background. However,the introduction of Gauss-Bonnet term can quantitatively affect other physical observables. For different $\alpha$ ， $\mu _ { c }$ （20 is different accordingly, where $\mu _ { c }$ is the critical chemical potential denoting the occurrence of phase transition when $a _ { \chi } = 0$ (without Wilson line). For $\alpha = 0 . 0 9$ ， $\alpha = 0 . 0 3$ ， $\alpha = 0 . 0 0 0 1$ ， and $\alpha = - 0 . 1$ ， the corresponding critical chemical potentials are $\mu _ { c } R \approx 7 . 1 3$ ， $\mu _ { c } R \approx 6 . 6 9$ ， （20 $\mu _ { c } R \approx 6 . 5 0$ ,and $\mu _ { c } R \approx 6 . 0 2$ , respectively. It is clear that as one increases the Gauss-Bonnet
+
+![](images/63cd90b7b9fd4d4e7a6956ea4449278b49c114f8593183c753f23d3e3a5e7232.jpg)
+
+FIG.1: (Color Online) Phase diagrams for the conductor/superconductor transition at $T = 1 / \pi R$ （204 for different Gauss-Bonnet parameter $\alpha$ . Thick solid lines represent the phase boundary between superconducting and normal phase. Thin solid lines label the existence of the m-fluxoid condensates.Dashed lines separate different fluxoid domains.Here $\mu _ { c }$ is the critical chemical potential when $a _ { \chi } R = 0$ (without Wilson line),which is different for different $\alpha$
+
+parameter $\alpha$ ， $\mu _ { c }$ increases accordingly, which makes the condensation more difficult to form for vanishing magnetic flux.
+
+TABLE I: The coefficients $k _ { \alpha }$ for different Gauss-Bonnet parameters $\alpha$   
+
+<html><body><table><tr><td></td><td>α = 0.09</td><td>α = 0.03</td><td>α = 0.0001</td><td>α=0</td><td>α=-0.1</td></tr><tr><td>k（a）</td><td>0.1727</td><td>0.1771</td><td>0.1790</td><td>0.1791</td><td>0.1850</td></tr><tr><td>k(α)/k(a=0)</td><td>0.9642</td><td>0.9888</td><td>0.9999</td><td>1.0000</td><td>1.0334</td></tr></table></body></html>
+
+Comparing with the above four phase diagrams,we can see that, for a given $a _ { \chi } R$ ，the smaller the Gauss-Bonnet parameter $\alpha$ is chosen, the bigger $\mu / \mu _ { c }$ is required to trigger the phase transition. The variation of the critical chemical potential to the gauge potential and fluxoid number $m$ is found to perfectly behave as
+
+![](images/e1591f61a60979b595d3fa32ea362d1784c0fc024149c6f6ddd94dfc587f7330.jpg)  
+FIG. 2: (Color Online). The modulus of the condensate $\langle O \rangle$ as a function of $a _ { \chi }$ at $\mu = 1 . 0 3 \mu _ { c }$ Different color curves with period represent the value of condensation for different $\alpha$ . From the top to the bottom, the curves with different colors correspond to $\alpha = - 0 . 1$ ， $\alpha = 0 . 0 0 0 1$ ， $\alpha = 0 . 0 3$ ， and $\alpha = 0 . 0 9$ ，respectively.
+
+$$
+1 - ( \mu / \mu _ { c } ) ^ { - 1 } = k _ { ( \alpha ) } ^ { 2 } ( a _ { \chi } R - m ) ^ { 2 } ,
+$$
+
+where $\mu$ is the critical chemical potential for non-vanishing $a _ { \chi } R$ . The coefficients $k _ { ( \alpha ) }$ corresponding to different $\alpha$ are listed in Table. I.
+
+According to [29,33], the coefficient $k _ { ( \alpha ) }$ would reflect the ratio of the coherence length to the cylinder radius, i.e. $k _ { ( \alpha ) } \sim \xi _ { 0 } / R$ . 1 Thus, from Table. I, we may conclude that compared to the Einstein case, the positive Gauss-Bonnet corrections would decrease the coherence length $\xi _ { 0 }$ of the Cooper-pair, while the negative corrections increase the coherence length $\xi _ { 0 }$ Since $\xi _ { 0 }$ plays the role of the inverse of the mass of the pair,we can find that the quantum corrections described by Gauss-Bonnet term can change the effective mass of the charge carriers.
+
+![](images/f730b818c858d86c5c4a6f73d3f02b04e1fa0bc3f60abb8da81ce9cc3d005695.jpg)  
+FIG.3: (Color Online). The modulus of the current $J _ { \chi }$ as a function of $a _ { \chi }$ at $\mu = 1 . 0 3 \mu _ { c }$ For the first half period, from the top to the bottom,the values of $\alpha$ are $\alpha = 0 . 0 9$ (blue solid line), （204号 $\alpha = 0 . 0 3$ (red dot-dashed line), $\alpha = 0 . 0 0 0 1$ (black dotted line), $\alpha = - 0 . 1$ (purple dashed line), respectively. Details can be seen in the context.
+
+Fig.2 shows the condensation via changing $a _ { \chi } \sim \ln ( W )$ for fixed chemical potential $\mu =$ （204号 $1 . 0 3 \mu _ { c }$ . From the top to the bottom， $\alpha$ increases. This implies that with the decrease of the Gauss-Bonnet parameter $\alpha$ ，the condensation $\langle O \rangle$ becomes bigger.Fig. 3 shows us the change of the current $J _ { \chi }$ as a function of $a _ { \chi }$ at fixed chemical potential $\mu = 1 . 0 3 \mu _ { c }$ The behavior of the current is slightly different for different $\alpha$ . When $\alpha$ decreases, the line becomes more inclined. That is to say, for a given $a _ { \chi }$ , the magnitude of the current increases with the decrease of $\alpha$ . This phenomenon reflects that smaller $\alpha$ is more sensitive to the response to Wilson line.
+
+Therefore, from the above diagrams,we clearly see that the LP period $\Delta a _ { \chi } = 1 / R$ still holds in Gauss-Bonnet gravity no matter the choice of the Gauss-Bonnet parameter, and also the period is the same as that in Einstein theory [36]. In the same spirit of [36], the existence of LP period would be understood by that the effective action of the boundary system has no direct dependence on non-local gauge invariants such as the Wilson line $W$ and fluxoid number $m$ . As argued in [36], the existence of LP period implies that the AB effects are also somehow suppressed in our case in the limit $\mathcal { N }  \infty$ with $\mathcal { N }$ the number of colors. Although including the Gauss-Bonnet term can not break LP period, this kind of quantum correction does impose its efect on many physical quantities of the dual boundary system. We focus our attention on the impact of different Gauss-Bonnet parameters. Our results show that the Gauss-Bonnet parameter can quantitatively affect the occurrence of phase transition and the response to the Wilson line.
+
+# IV.HOLOGRAPHIC INSULATOR/SUPERCONDUCTOR TRANSITION
+
+The AdS soliton metric in the Gauss-Bonnet gravity reads [48]
+
+$$
+\begin{array} { l } { { d s _ { S L } ^ { 2 } = \displaystyle \frac { L ^ { 2 } } { z ^ { 2 } } \Big [ - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + f ( z ) d \chi ^ { 2 } + \displaystyle \frac { 1 } { f ( z ) } d z ^ { 2 } \Big ] , } } \\ { { f ( z ) = \displaystyle \frac { L ^ { 2 } } { 2 \alpha } \bigg ( 1 - \sqrt { 1 - \displaystyle \frac { 4 \alpha } { L ^ { 2 } } ( 1 - \displaystyle \frac { z ^ { 4 } } { z _ { 0 } ^ { 4 } } ) } \bigg ) . } } \end{array}
+$$
+
+Obviously there does not exist any horizon in this soliton solution, but a conical singularity at the tip $z = z _ { 0 }$ ，which obeys $f ( z _ { 0 } ) = 0$ . To remove this singularity, the coordinate $\chi$ must have a period $\pi z _ { 0 }$ . This asymptotical AdS solution is dual to a boundary theory in the confining vacuum, which is reminiscent of the insulator phase in condensed matter physics.
+
+The equations of motion for this system are
+
+$$
+\begin{array} { r } { z ^ { 3 } \partial _ { z } \Big ( \frac { f } { z ^ { 3 } } \partial _ { z } \psi \Big ) + \Big [ A _ { t } ^ { 2 } - \frac { ( A _ { x } - m / R ) ^ { 2 } } { f } \Big ] \psi = 0 , } \\ { z \partial _ { z } \Big ( \frac { f \partial _ { z } A _ { t } } { z } \Big ) - \frac { 2 A _ { t } } { z ^ { 2 } } \psi ^ { 2 } = 0 , } \\ { z \partial _ { z } \Big ( \frac { \partial _ { z } A _ { x } } { z } \Big ) - \frac { 2 \Big ( A _ { x } - m / R \Big ) } { z ^ { 2 } f } \psi = 0 . } \end{array}
+$$
+
+At the tip $z = z _ { 0 }$ ， the requirement of regularity on the above set of equations implies the following boundary conditions
+
+$$
+\begin{array} { c } { { \displaystyle - \frac { 4 } { z _ { 0 } } \partial _ { z } \psi + A _ { t } ^ { 2 } \psi = 0 \quad \mathrm { f o r } m = 0 , \quad \psi = 0 \mathrm { f o r } m \neq 0 , } } \\ { { \partial _ { z } A _ { t } + \frac { A _ { t } } { 2 z _ { 0 } } \psi ^ { 2 } = 0 , } } \\ { { A _ { \chi } = 0 . } } \end{array}
+$$
+
+Different from the Gauss-Bonnet black brane case, in the soliton case, the boundary conditions now depend directly on $A _ { \chi }$ at $z _ { 0 }$ . Since we demand a Wilson line in the external gauge field $a _ { \chi } \sim \ln ( W )$ ， $A _ { \chi } ( z )$ acquires a nontrivial profile which generates a magnetic field $F _ { z \chi } ^ { \prime }$ in the bulk. Furthermore,the requirement $A _ { \chi } ( z _ { 0 } ) = 0$ breaks down the gauge equivalence among different fluxoid sectors. In addition， we can see that the boundary conditions are also sensitive to $m$ . These differences between the black brane and soliton geometry may lead to several distortions of the dual system. Similar to black brane case, we can solve the equations of motion numerically and obtain our simulation results. The free energy of such a system is
+
+$$
+F / V _ { 3 } = - \frac { 1 } { 2 } ( \rho \mu + a _ { \chi } J _ { \chi } ) - \int _ { 0 } ^ { z _ { 0 } } d z \frac { \psi ^ { 2 } } { z ^ { 3 } } \Big [ - A _ { t } ^ { 2 } + \frac { A _ { \chi } } { f ( z ) } ( A _ { \chi } - \frac { m } { R } ) \Big ] ,
+$$
+
+which is used to find the thermodynamically favored fluxoid sector.
+
+Fig. 4 shows us the phase diagrams for the soliton case. Each subgraph corresponds to different $\alpha$ . Our results show that the LP period is destroyed in the Gauss-Bonnet-AdS soliton case. In the rest of this section， we study how physical observables are affected as one tunes the strength of the quantum corrections measured by the Gauss-Bonnet parameter （204号 $\alpha$ .Here $\mu _ { c }$ is the critical chemical potential when $a _ { \chi }$ vanishes. For $\alpha = 0 . 0 9$ ， $\alpha = 0 . 0 0 0 1$ （204号 and $\alpha = - 0 . 1 9$ ， the corresponding critical chemical potential is $\mu _ { c } R \approx 1 . 7 7$ ， $\mu _ { c } R \approx 1 . 7 0$ （204号 and $\mu _ { c } R \approx 1 . 6 0$ , respectively. We can see that $\mu _ { c }$ increases with the increase of the GaussBonnet parameter, which makes the phase transition from insulator to superconductor more difficult to happen for $a _ { \chi } = 0$ . Compared with each phase diagram for different $\alpha$ , it is easy to see that the boundary of the phase diagram gradually drops down as one decreases the Gauss-Bonnet parameter $\alpha$ . This implies that at given $\mu / \mu _ { c } > 1$ , the superconducting phase can be more easily destroyed by the applied $a _ { \chi }$ for smaller $\alpha$
+
+Fig. 5 shows the evolution of the condensation $\langle O \rangle$ as a function of $a _ { \chi }$ at $\mu = 1 . 5 \mu _ { c }$ for different $\alpha$ . The first jump appears when the $m = 1$ sector becomes thermodynamically favorable. The second jump occurs when the $m = 2$ sector becomes the ground state for every $\alpha$ . The jumps here indicate that the effective Lagrangian of the boundary theory gets the non-trivial dependence on fluxoid number $m$ . The position for the jumps between different fluxoid domains of different $\alpha$ is listed in Table.II. From this table,we can find that with the increase of $\alpha$ ， the occurrence of the jumps move to the right. Further, if we fix $a _ { \chi } R$ in Fig. 5,we see that the condensation $\langle O \rangle$ is larger for larger $\alpha$ .This property implies that with the increase of $\alpha$ , the condensation gap becomes higher. This behavior is opposite to the black brane case discussed in the last section.
+
+![](images/0e5b2b8ca3e39c78607ea3e467d5e4d7c0fa3b7798de2c3abbfc168257ba046b.jpg)
+
+FIG. 4: (Color Online). Phase diagrams for the soliton background. Each subgraph shows the phase diagram for different Gauss-Bonnet parameter $\alpha$ .Thick solid lines represent the phase transition between the superconducting and insulating phases. Thin solid lines denote the existence of m-fuxoid condensates. Dashed lines separate different fluxoid domains. Here $\mu _ { c }$ is the critical chemical potential with $a _ { \chi } = 0$ and it varies for different $\alpha$ ：
+
+TABLE II: The position of the jumps for different Gauss-Bonnet parameters   
+
+<html><body><table><tr><td></td><td>α = 0.09</td><td>α = 0.0001</td><td>α = -0.19</td></tr><tr><td>axR (1st jump)</td><td>3.29</td><td>2.76</td><td>2.46</td></tr><tr><td>axR (2nd jump)</td><td>5.41</td><td>4.92</td><td>4.36</td></tr></table></body></html>
+
+The behavior of the current $J _ { \chi } ^ { \langle O \rangle } \equiv J _ { \chi } - J _ { \chi } ^ { v a c }$ as a function of $a _ { \chi }$ at fixed $\mu / \mu _ { c }$ is shown in Fig. 6. $J _ { \chi }$ is the total current in superconducting phase. $J _ { \chi } ^ { v a c }$ is a normal-phase persistentcurrent presenting in the soliton (superconductor or not)，which can be read from normal
+
+![](images/07dc3e93db19b7a0066d21f5c34f512864c9fa4dbf480bb8ec82012f7ab7b839.jpg)
+
+FIG.5: (Color Online). The modulus of the condensate $\langle O \rangle$ as a function of $a _ { \chi }$ for fixed chemical potential $\mu = 1 . 5 \mu _ { c }$ . The first jump exists when the $m = 1$ solution becomes energetically favorable for every $\alpha$ . The second jump occurs when the $m = 2$ solution becomes the grand state for every （20 $\alpha$ ．From the top to the bottom, $\alpha = 0 . 0 9$ (blue solid line), $\alpha = 0 . 0 0 0 1$ （black dotted line） and $\alpha = - 0 . 1 9$ (purple dashed line) in turn. With the increase of $\alpha$ , the occurrence of the jump moves to the right.
+
+phase for vanishing $\psi$ . Thus, $J _ { \chi } ^ { \langle O \rangle }$ is the contribution due to the $U ( 1 )$ breaking condensation. The position for every jump is the same as Fig. 5. Apart from a small range near $a _ { \chi } = 0$ ,for a given $a _ { \chi }$ , the magnitude of the current increases with the increase of $\alpha$ ,which means that the boundary system corresponding to large $\alpha$ is more sensitive to the response to Wilson line.
+
+# V. CONCLUSIONS AND DISCUSSIONS
+
+In this paper, we have studied the magnetic response of holographic superconductor in the Gauss-Bonnet gravity. Concretely we have studied the response to a Wilson line along the compact spatial direction of dual systems. As we know, the Gauss-Bonnet term effectively describes some kind of quantum correction in the bulk. According to AdS/CFT correspondence， such quantum correction maps to the $1 / \mathcal { N }$ corrections in the boundary
+
+![](images/f0634ecf78805294776084efa8ddbe660d3a08609a6c924c248ecd12f7b08535.jpg)
+
+FIG. 6: (Color Online). The modulus of the current $J _ { \chi } ^ { \langle O \rangle }$ as a function of $a _ { \chi }$ for a fixed chemical potential $\mu = 1 . 5 \mu _ { c }$ . The first jump exists when the $m = 1$ solution becomes energetically favorable for every $\alpha$ . The second jump occurs when the $m = 2$ solution becomes the grand state for every （20 $\alpha$ . From the top to the bottom, $\alpha = - 0 . 1 9$ (purple dashed line), $\alpha = 0 . 0 0 0 1$ (black dotted line) and $\alpha = 0 . 0 9$ (blue solid line) in turn. With the increase of $\alpha$ , the occurrence of the jump moves to the right.
+
+theory. It is interesting to investigate how much such quantum corrections change the whole picture. Our calculation shows that for a particular Gauss-Bonnet parameter, in the black brane background, the phase diagram and physical quantities ，such as condensation and current,with different $( W , m )$ but equal $a _ { \chi } - m / R$ , are degenerate, while in the soliton phase such degeneracy is uplifted. Thus,we find that including the Gauss-Bonnet term does not modify the qualitative features observed in Einstein theory.
+
+Although the Gauss-Bonnet term can not break the LP periodicity in black brane background, other physical quantities in the two holographic systems are undoubtedly modified or affected with the change of the Gauss-Bonnet parameter $\alpha$ , which is equivalent to tuning the strength of quantum corrections. We have analyzed the impact of the Gauss-Bonnet parameter $\alpha$ on the response of Wilson line in detail. More specifically, different Gauss-Bonnet parameters affect the involved physical quantities with the following fashion.
+
+The critical chemical potential $\mu _ { c }$ defined by transition point for vanishing $a _ { \chi }$ increases as one increases the Gauss-Bonnet parameter, which makes the condensation more difficult for vanishing magnetic flux. For a given $a _ { \chi } R$ , the smaller the Gauss-Bonnet parameter $\alpha$ is chosen, the bigger $\mu / \mu _ { c }$ is required to trigger the phase transition. For the black brane case, the coherence length $\xi _ { 0 }$ increases as we lower $\alpha$
+
+At fixed chemical potential compared to $\mu _ { c }$ corresponding to each $\alpha$ ， the behaviors of condensation and current with respect to $a _ { \chi }$ (or equivalently to Wilson line $W$ ）are much more different in the two systems with the change of the Gauss-Bonnet parameter $\alpha$ In the black brane case, we have found that the magnitudes of the condensation and current increase as one lowers the parameter $\alpha$ ，which means they are more sensitive to response to Wilson line for smaller $\alpha$ . On the other hand, in the soliton background case, the magnitude of such two physical quantities increases with the increase of $\alpha$ , indicating that the response to Wilson line is more insensitive for smaller $\alpha$ . Unlike the black brane case, there are jumps existing in the evolution of $\langle O \rangle$ and $J _ { \chi } ^ { \langle O \rangle }$ , which aredue to the fact that the topological sectors labeled by $( W , m )$ enter the effective field theory of the boundary theory. And the position of the jumps moves to larger chemical potential with the increase of the Gauss-Bonnet parameter $\alpha$ . Finally we point out that this work is done in the probe limit, the most direct improvement of the present analysis is to include the back reaction of the matter sector on the background geometry, but we expect the qualitative picture will not be changed.
+
+# Acknowledgments
+
+We thank Song He and Shingo Takeuchi for helpful discussions, LFL would like to thank A.Salvio for quick correspondence. This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.10975168 and No.11035008),and in part by the Ministry of Science and Technology of China under Grant No. 2010CB833004. LFL was supported by the National Natural Science Foundation of China with grant No.11205226 and China Postdoctoral Science Foundation with grant No. 2O12M510563.
+
+[1] J. M. Maldacena,“The large N limit of superconformal field theories and supergravity,” Adv. Theor. Math.Phys. 2,231 (1998)[Int.J. Theor.Phys.38,1113 (1999)][arXiv:hep-th/9711200].
+
+[2] S. S. Gubser,I. R. Klebanov and A. M. Polyakov,"Gauge theory correlators from non-critical string theory,"Phys. Lett.B 428,105 (1998) [arXiv:hep-th/9802109].   
+[3] E.Witen,“Anti-de Sitter space and holography,” Adv. Theor. Math. Phys. 2, 253 (1998) [hep-th/9802150].   
+[4] S. A. Hartnoll P. K. Kovtun, M. Muller and S. Sachdev,“Theory of the Nernst effect near quantum phase transitions in condensed matter, and in dyonic black holes,” Phys. Rev. B 76, 144502(2007） [arXiv:0706.3215 [cond-mat.str-el].   
+[5] S. A. Hartnoll and C.P. Herzog,“Impure AdS/CFT correspondence,” Phys. Rev. D 77, 106009 (2008）[arXiv:0801.1693 [hep-th].   
+[6] S. A. Hartnoll， C. P. Herzog and G. T. Horowitz,"Building a Holographic Superconductor,"Phys.Rev.Lett.101,031601 (2008)[arXiv:0803.3295 [hep-th].   
+[7] S. S. Gubser and S. S. Pufu,“The Gravity dual of a p-wave superconductor,” JHEP 0811, 033 （2008） [arXiv:0805.2960 [hep-th].   
+[8] T. Nishioka, S. Ryu and T. Takayanagi,“Holographic Superconductor/Insulator Transition at Zero Temperature,” JHEP 1003,131 (2010）[arXiv:0911.0962[hep-th].   
+[9] S.-S. Lee,"A Non-Fermi Liquid from a Charged Black Hole: A Critical Fermi Ball"Phys. Rev.D 79, 086006 (2009)[arXiv:0809.3402 [hep-th];   
+[10] H. Liu, J. McGreevy and D. Vegh,“Non-Fermi liquids from holography,” Phys. Rev. D 83 (2011） 065029 [arXiv:0903.2477[hep-th]];   
+[11] M. Cubrovic,J. Zaanen and K. Schalm,“String Theory, Quantum Phase Transitions and the Emergent Fermi-Liquid,"Science 325, 439 (2009)[arXiv:0904.1993 [hep-th]].   
+[12] E. Nakano and W. -Y. Wen,"Critical magnetic field in a holographic superconductor,"Phys. Rev.D 78, 046004 (2008) [arXiv:0804.3180 [hep-th]].   
+[13] K. Maeda and T. Okamura,“Characteristic length of an AdS/CFT superconductor,” Phys. Rev.D 78,106006 （2008) [arXiv:0809.3079 [hep-th].   
+[14] M. Montull， A. Pomarol and P. J. Silva,“The Holographic Superconductor Vortex,” Phys. Rev.Lett.103,091601 （2009）[arXiv:0906.2396 [hep-th].   
+[15] R. -G. Cai, L. Li, H. -Q. Zhang and Y. -L. Zhang,“Magnetic Field Effect on the Phase Transition in AdS Soliton Spacetime,” Phys. Rev.D 84,126008 (2011) [arXiv:1109.5885 [hepth]].   
+[16] M. Ammon, J. Erdmenger， M. Kaminski and P. Kerner,“Flavor Superconductivity from Gauge/Gravity Duality,” JHEP 0910, 067(2009) [arXiv:0903.1864 [hep-th]].   
+[17] M. Ammon， J. Erdmenger， M. Kaminski and P. Kerner， “Superconductivity from gauge/gravity duality with flavor,” Phys.Lett. B 680, 516 (2009) [arXiv:0810.2316 [hep-th]].   
+[18] T. Albash and C.V. Johnson,“Holographic Studies of Entanglement Entropy in Superconductors,"JHEP 1205, 079 （2012) [arXiv:1202.2605 [hep-th].   
+[19] R. -G. Cai, S. He,L. Li and Y. -L. Zhang,“Holographic Entanglement Entropy in Insulator/Superconductor Transition,"JHEP 1207,088 (2012） [arXiv:1203.6620 [hep-th].   
+[20] R.-G. Cai, S. He,L. Li and Y. -L. Zhang,“Holographic Entanglement Entropy on P-wave Superconductor Phase Transition,” JHEP 1207, 027 (2012） [arXiv:1204.5962 [hep-th].   
+[21] R. -G. Cai, S. He,L.Li and L.-F.Li,"Entanglement Entropy and Wilson Loop in Stuckelberg Holographic Insulator/Superconductor Model,” arXiv:1209.1019 [hep-th].   
+[22] G. T. Horowitz, J. E. Santos and B. Way,"A Holographic Josephson Junction,"Phys. Rev. Lett.106,221601 (2011） [arXiv:1101.3326 [hep-th].   
+[23] Y.-Q. Wang, Y.-X.Liu and Z.-H. Zhao,"Holographic Josephson Junction in 3+1 dimensions,” arXiv:1104.4303 [hep-th].   
+[24] E. Kiritsis and V. Niarchos,“Josephson Junctions and AdS/CFT Networks,” JHEP 1107, 112 (2011）[Erratum-ibid.1110,095 (2011)] [arXiv:1105.6100 [hep-th].   
+[25] Y.-Q. Wang, Y.-X. Liu, R.-G. Cai, S. Takeuchi and H.-Q. Zhang,“Holographic SIS Josephson Junction,” arXiv:1205.4406 [hep-th].   
+[26] S.A. Hartnol, “Lectures on holographic methods for condensed matter physics,” Class. Quant. Grav.26, 224002 （2009) [arXiv:0903.3246 [hep-th]].   
+[27] J.McGreevy,“Holographic duality with a view toward many-body physics,” Adv. High Energy Phys.2010,723105 (2010) [arXiv:0909.0518 [hep-th].   
+[28] S. Sachdev,“The Quantum phases of matter,” arXiv:1203.4565 [hep-th].   
+[29] W. A. Little, R. D.Parks,“Observation of Quantum Periodicity in the Transition Temperature of a Superconducting Cylinder,” Phys. Rev. Lett. 9, 9 (1962).   
+[30] V. Juricic, I. F. Herbut, and Z. Tesanovic,“Restoration of the Magnetic hc=e-Periodicity in Unconventional Superconductors” Phys. Rev. Lett. 100,187006 (2008).   
+[31] V. Vakaryuk,“Universal Mechanism for Breaking the hc/2e Periodicity of Flux-Induced Oscillations in Smal Superconducting Rings ,” Phys. Rev. Lett. 101, 167002 (2008).   
+[32] F.Loder,A. P. Kampf, T. Kopp, J. Mannhart, C. W. Schneider, Yu. S. Barash ，“h/ePeriodicity in Superconducting Loops,” Nat. Phys. 4, 112 (2008).   
+[33] T. C. Wei, P. M. Goldbart,“Emergence of $h / e$ -period oscillations in the critical temperature of small superconducting rings threaded by magnetic flux,” Phys. Rev. B 77, 224512(2008).   
+[34] Y. S. Barash,“Low-energy subgap states and the magnetic flux periodicity in d-wave superconducting rings,” Phys. Rev. Lett 100,177003 (2008) [arXiv:0711.4338 [cond-mat.supr-con].   
+[35] M. Montull, O. Pujolas,A. Salvio and P. J. Silva,“Flux Periodicities and Quantum Hair on Holographic Superconductors,” Phys.Rev. Lett.107,181601 (2011） [arXiv:105.5392 [hepth]].   
+[36] M. Montull, O.Pujolas,A. Salvio and P. J. Silva,“Magnetic Response in the Holographic Insulator/Superconductor Transition,” JHEP 1204,135 (2012) [arXiv:1202.0006 [hep-th]].   
+[37] R. Gregory, S. Kanno and J. Soda,“Holographic Superconductors with Higher Curvature Corrections,” JHEP 0910,010 （2009）[arXiv:0907.3203 [hep-th].   
+[38] Q. Pan, B. Wang, E. Papantonopoulos, J. Oliveira and A. B. Pavan,“Holographic Superconductors with various condensates in Einstein-Gauss-Bonnet gravity,” Phys. Rev. D 81,106007 (2010）[arXiv:0912.2475 [hep-th].   
+[39] R. -G. Cai, Z. -Y. Nie and H. -Q. Zhang,“Holographic Phase Transitions of P-wave Superconductors in Gauss-Bonnet Gravity with Back-reaction,” Phys.Rev. D 83, O66013 (2011) [arXiv:1012.5559 [hep-th]].   
+[40] X. -M. Kuang, W. -J. Li and Y. Ling,“Holographic Superconductors in Quasi-topological Gravity,” JHEP 1012,069 （2010)[arXiv:1008.4066 [hep-th].   
+[41] M. Siani,“Holographic Superconductors and Higher Curvature Corrections,” JHEP 1012, 035 (2010）[arXiv:1010.0700 [hep-th].   
+[42] J. -P. Wu, Y. Cao, X. -M. Kuang and W. -J. Li,"The 3+1 holographic superconductor with Weyl corrections,” Phys.Lett.B 697,153 (2011） [arXiv:1010.1929 [hep-th].   
+[43] R.-G. Cai，“Gaus-Bonnet black holes in AdS spaces,” Phys.Rev. D 65,084014 (2002) [hep-th/0109133].   
+[44] M. Brigante, H. Liu, R. C. Myers, S. Shenker and S. Yaida,“Viscosity Bound Violation in Higher Derivative Gravity,” Phys.Rev.D 77,126006 (2008) [arXiv:0712.0805 [hep-thl].   
+[45] M. Brigante,H. Liu,R. C. Myers, S. Shenker and S. Yaida,“The Viscosity Bound and Causality Violation,” Phys. Rev. Lett.100,191601 (2008） [arXiv:0802.3318 [hep-th].   
+[46] A.Buchel and R. C. Myers,“Causality of Holographic Hydrodynamics,” JHEP O908, 016 (2009）[arXiv:0906.2922 [hep-th]].   
+[47] D.M. Hofman,“Higher Derivative Gravity, Causality and Positivity of Energy in a UV complete QFT,” Nucl. Phys.B 823,174 (2009) [arXiv:0907.1625 [hep-th]].   
+[48] R. -G. Cai, S. P. Kim and B. Wang，“Ricci flat black holes and Hawking-Page phase transition in Gauss-Bonnet gravity and dilaton gravity,” Phys.Rev. D 76, O24011 (2007) [arXiv:0705.2469 [hep-th]].

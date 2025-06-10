@@ -1,0 +1,214 @@
+孙玲玲」马露」卜登攀1,2.3\*许建初4刘士杰何美莹6
+
+3 （1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.中  
+4 国农业科学院与世界农用林业中心，农用林业与可持续畜牧业联合实验室，北京100193;  
+5 3．湖南畜产品质量安全协同创新中心，长沙 410128；4．中国科学院昆明植物研究所，昆  
+6 明 650201;5.中国饲料工业协会,北京 100125;6.云南省热带作物科学研究所,景洪 666100)  
+7 摘要：本研究利用体外产气法，探究饲粮中分别添加 $1 \%$ 、 $2 \%$ 、 $3 \%$ 及 $4 \%$ (干物质基础)  
+8 的硬核油对瘤胃体外发酵 $2 4 \mathrm { ~ h ~ }$ 产气参数、发酵参数及脂肪酸组成的影响，旨在确定硬核油  
+9 在瘤胃发酵中的最适添加水平。结果表明：1）饲粮中添加硬核油对 $2 4 \mathrm { h }$ 产气量、理论最大  
+0 产气量及产气速率无显著影响（ $. P { > } 0 . 0 5$ )。2)氨氮（ $\scriptstyle { \cdot } { P = 0 . 0 4 4 } )$ 、总挥发性脂肪酸（ $( P { < } 0 . 0 0 1 )$ ）  
+1 乙酸（P<0.001）、丙酸（ $\scriptstyle P = 0 . 0 4 7$ ）及丁酸浓度（ $_ { \cdot } P { = } 0 . 0 1 7$ ）随硬核油添加水平的增加呈二次  
+2 曲线升高，且总挥发性脂肪酸及乙酸浓度在 $1 \%$ 、 $2 \%$ 及 $3 \%$ 组显著高于对照组及 $4 \%$ 组  
+3 （ $P { < } 0 . 0 5 )$ ； $\mathrm { \ p H }$ 、微生物蛋白浓度、干物质降解率、中性洗涤纤维降解率及酸性洗涤纤维降  
+4 解率（ADFD）未受硬核油添加的影响（ $P { > } 0 . 0 5$ )。3）饱和脂肪酸的含量随硬核油添加水平  
+5 的增加呈线性( $\scriptstyle P = 0 . 0 0 8$ 及二次( $\scriptstyle { \cdot } { P = 0 . 0 2 8 } )$ 降低，其中C18:0的含量也呈线性降低( $\scriptstyle P = 0 . 0 3 0 )$   
+6 不饱和脂肪酸的含量随硬核油添加水平的增加呈线性（ $_ { P = 0 . 0 0 8 }$ ）及二次（ $\scriptstyle P = 0 . 0 2 8$ ）升高，  
+7 其中t9-C18:1含量呈线性（ $\scriptstyle P = 0 . 0 0 2 .$ ）、t11-C18:1含量呈二次（ $\scriptstyle P < 0 . 0 0 1 .$ ）、 $^ { c 9 }$ C18:1含量呈  
+8 线性（ $\scriptstyle P = 0 . 0 2 8$ ）和二次（ ${ \it P } { = } 0 . 0 0 5$ ）升高，且 $t 9$ -C18:1及 $^ { c 9 }$ -C18:1含量均在 $3 \%$ 添加水平下  
+9 出现极大值。在本试验条件下， $1 \%$ 、 $2 \%$ 及 $3 \%$ 添加水平的硬核油可提高瘤胃体外发酵不饱  
+0 和脂肪酸含量，同时增加挥发性脂肪酸的浓度， $3 \%$ 添加水平效果最佳。
+
+关键词：硬核油；产气参数；发酵参数；脂肪酸组成
+
+中图分类号：S816.7
+
+3 瘤胃是一个天然的厌氧发酵罐，在其发酵过程中伴随着能量的损失[1]，为提高饲料的利  
+4用效率及反刍动物生产性能，一些研究致力于开发调控剂来调控反刍动物的瘤胃发酵过程。
+
+植物油含有调控瘤胃发酵的活性成分且天然无毒副作用，近年来已被广泛应用在调控瘤胃发酵的过程中。植物油种类繁多且添加水平不同，具调控瘤胃发酵的作用效果小不同，因此确定不同种类植物油调控瘤胃发酵的最适添加水平对其在反刍动物生产中的应用具有重要意义。
+
+关于植物油对瘤胃发酵调控效果的研究报道主要集中在产气、瘤胃发酵参数及瘤胃液脂肪酸组成等几方面。郑会超等[2利用体外产气法研究表明，在饲粮干物质（DM）基础上添加 $2 \%$ 和 $4 \%$ 的棉籽油、豆油、菜籽油、玉米油及葵花油，显著降低了瘤胃体外发酵过程中的产气量；Nanon 等[3]利用批次培养法研究发现，向精粗比为1:1的饲粮中添加桂皮油、丁香油、大蒜油、生姜油及香茅油（ $\mathrm { 2 0 0 \ m g , D M }$ 基础）提高了总挥发性脂肪酸（TVFA）浓度，对乙酸/丙酸没有显著影响；史浩亭等[4利用人工瘤胃技术探究 $1 \%$ 、 $2 \%$ 、 $3 \%$ 及 $4 \%$ (DM基础）添加水平的苏子油对瘤胃体外发酵参数等的影响，结果表明，添加苏子油对 $\mathrm { \ p H }$ 和氨氮（NH3-N）浓度没有显著影响，但显著降低了饲粮干物质降解率（DMD）、中性洗涤纤维降解率（NDFD）及酸性洗涤纤维降解率（ADFD)；王喜乐[5]、梁贤威[及 Zhu 等[7]研究发现，向饲粮中分别添加葵花籽油（7mL/d)、茶油（ $4 \%$ ，DM基础）及大蒜油（ $0 . 8 ~ \mathrm { g / d } ^ { \cdot }$ ）均提高了瘤胃液中C18:1及C18:2等不饱和脂肪酸的含量。硬核（Scleropyrum wallichianum）为檀香科（Santalaceae）硬核属（Scleropyrum）的一种带刺小乔木，是云南西双版纳地区的本土野生植物，其种仁含油率 $67 \%$ 左右[8]，包括C16:0、C12:0、C10:0、C20:0、C18:1、C18:2等11 种脂肪酸及植物中非常见的炔酸成分，有研究证明其含有的炔酸成分具有抗分枝杆菌和抗疟原虫的作用[9]。硬核的生长适应力强，在西双版纳地区分布较广，资源量大，硬核油的生产成本相对低廉，具有良好的开发价值和应用前景。本研究利用体外产气法，探究不同添加水平的硬核油对瘤胃产气参数、发酵参数及脂肪酸组成的影响，初步确定硬核油在饲粮中的最适添加水平，为硬核油在反刍动物生产中的实际应用提供理论依据。
+
+1材料与方法  
+1.1试验材料  
+1.1.1硬核油及饲粮样品试验所用硬核油由云南省热带作物科学研究所提供，由硬核种仁经冷链压榨工艺制得，
+
+呈金黄色，澄清透明，纯度为 $9 9 . 8 \%$ 。利用有机溶剂提取粗脂肪后定量测定硬核油的脂肪酸组成比例，结果见下表1。体外发酵所用饲粮与供体动物日常饲喂饲粮完全一致，饲粮风干后粉碎过 $2 \mathrm { m m }$ 筛作为发酵底物待用。饲粮组成及营养水平见表2。
+
+Table1Main fatty acid composition percentages of Scleropyrum wallichianum oil %   
+表2饲粮组成及营养水平(干物质基础)  
+
+<html><body><table><tr><td>项目Item</td><td>C16:0</td><td>C18:0</td><td>C18:1</td><td>C18:2</td><td>C18:3</td></tr><tr><td>比例 Percentage</td><td>2.50</td><td>1.11</td><td>26.15</td><td>53.42</td><td>4.21</td></tr></table></body></html>
+
+表1硬核油主要脂肪酸组成比例  
+Table 2 Composition and nutrient levels of the diet(DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>8.19</td></tr><tr><td>苜蓿Alfalfa</td><td>23.98</td></tr><tr><td>玉米青贮 Corn silage</td><td>26.02</td></tr><tr><td>豆粕Soybean meal</td><td>11.38</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>4.22</td></tr><tr><td>膨化大豆 Extruded soybean</td><td>2.08</td></tr><tr><td>蒸汽压片玉米 Steam-flaked corn</td><td>21.99</td></tr><tr><td>食盐 NaCl</td><td>0.38</td></tr><tr><td>石粉Limestone</td><td>1.19</td></tr><tr><td>预混剂 Premix1)</td><td>0.57</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>干物质 DM</td><td>96.97</td></tr><tr><td>粗蛋白质 CP</td><td>15.64</td></tr><tr><td>粗脂肪 EE</td><td>2.24</td></tr><tr><td>粗灰分 Ash</td><td>6.79</td></tr><tr><td>中性洗涤纤维 NDF</td><td>43.34</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>23.28</td></tr><tr><td>泌乳净能 NEL/(MJ/kg)</td><td>3.43</td></tr></table></body></html>
+
+%
+
+1)每千克预混料含 One kilogram of premix contained the following：VA 250 000 IU，VD 65 000 IU，VE 2 100 IU，Fe $4 0 0 \ \mathrm { m g } ,$ ， $\mathrm { C u } 5 4 0 \mathrm { m g }$ ， $\mathrm { Z n 2 1 0 0 m g }$ ， $\mathrm { M n } 5 6 0 \mathrm { m g }$ ，Se $1 5 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 3 5 \mathrm { m g }$ ， $\mathrm { C o } 6 8 \ : \mathrm { m g }$ 。
+
+2泌乳净能为计算值，由CPM-Dairy 3.8.0.1（美国康奈尔大学、宾夕法尼亚大学、迈纳农业研究所共同 研发）计算得出，其他为实测值。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated value,and was calculated by CPM-Dairy 3.8.0.1 researched and developed by Cornell University，University of Pennsylvania，Wiliam H. Miner Agricultural Research Institute,while the otherswere measured values.
+
+# 1.1.2 瘤胃液的采集及缓冲液的配制
+
+试验所用缓冲液按照Menke 等[10]的方法配制而成，配制后持续通入 $\mathrm { C O } _ { 2 }$ 并于 $3 9 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴中保存备用。
+
+在中国农业科学院北京畜牧兽医研究所昌平基地选取3头体重（ $5 5 0 { \pm } 5 0 \$ ）kg、泌乳日龄（ $1 3 6 \pm 3 7$ ）d、产奶量（ $2 5 . 3 { \pm } 2 . 7 9$ ）kg且装有永久瘘管的3胎健康荷斯坦奶牛。试验当天于晨饲前1h通过瘤胃瘘管采集瘤胃液并装于事先预热 $( 3 9 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ )且充满 $\mathrm { C O } _ { 2 }$ 的保温瓶，迅速带回实验室，经4层医用纱布过滤后（过滤同时持续通入 $\mathrm { C O } _ { 2 }$ ）马上用于试验。
+
+# 1.2 试验设计
+
+采用完全随机试验设计，设无添加对照组和试验组，试验组硬核油的添加水平分别为底物DM的 $1 \%$ 、 $2 \%$ 、 $3 \%$ 及 $4 \%$ ，每个处理5个重复，发酵 $2 4 \mathrm { ~ h ~ }$ 后终止，收集发酵液及剩余发酵底物用以测定 $\mathsf { p H }$ 、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度、微生物蛋白（MCP）浓度、挥发性脂肪酸（VFA）浓度、干物质降解率（DMD）、NDFD、ADFD 及脂肪酸含量。
+
+# 1.3 试验方法
+
+采用中国农业大学研制的AGRS-I型64通路微生物发酵微量产气全自动记录装置与软件系统作为体外发酵装置。用天平称取约 $\boldsymbol { 0 . 5 \mathrm { ~ g ~ } }$ 发酵底物于 $1 5 0 ~ \mathrm { m L }$ 厌氧发酵瓶中。由于油具有黏附性且添加水平很少，若直接称取相应质量的硬核油易导致较大的试验误差，故将要添加的比例换算成体积并用移液枪吸取，加入发酵瓶中。每个装有 $5 0 ~ \mathrm { m L }$ 缓冲液的发酵瓶中迅速加入经过滤的瘤胃液 $2 5 ~ \mathrm { m L }$ ，并持续向瓶中通入5s $\mathrm { C O } _ { 2 }$ ，盖好瓶塞，将每个发酵瓶与产气装置的传感器相连接，于 $3 9 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下持续发酵 $2 4 \mathrm { h }$ 。
+
+# 1.4样品收集及制备
+
+培养 $2 4 \mathrm { h }$ 后终正发酵，立即从发酵瓶中收集发酵液。用2个 $1 0 ~ \mathrm { m L }$ 离心管中各收集 $5 \mathrm { m L }$ 发酵液后分别加入 $1 \mathrm { m L }$ 偏磷酸溶液，用于测定VFA及 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度。另取2个 $1 0 ~ \mathrm { m L }$ 离心管各收集 $8 ~ \mathrm { m L }$ 发酵液， $1 5 0 \times g$ 离心 $1 5 \ \mathrm { m i n }$ ，取上清，用于测定MCP 浓度及脂肪酸含量。所有发酵液样品于 ${ } _ { - 2 0 \mathrm { ~ } ^ { \circ } C }$ 下冷冻保存。充分混匀剩余发酵液的液相和固相， $4 \ : 0 0 0 \times g$ 离心10min，弃上清，收集全部固相残渣，用于测定DMD、NDFD及ADFD。
+
+# 1.5样品分析及计算
+
+发酵结束后立即用Seven $\mathrm { G o } ^ { \mathrm { T M } }$ 型精密pH计测定发酵液的 $\mathrm { \ p H }$ ；发酵液中 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度采用靛酚比色法[1测定，取已添加偏磷酸的发酵液 $5 ~ \mathrm { m L }$ ， $3 \ 0 0 0 \times g$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上清液进行前处理，用氯化铵作为标准品配制标准液，使用酶标仪（Thermo Electron Varioskan Flash，美国Thermo）在 $7 0 0 \mathrm { n m }$ 条件下测定标准液及发酵液的吸光度值，并根据标准曲线和吸光度值计算出 $\mathrm { N H } _ { 3 }$ -N 浓度;MCP浓度采用嘌呤法[1]测定，利用酵母RNA制作标准曲线，取 $8 ~ \mathrm { m L }$ 发酵液在 $2 0 0 0 0 \times g$ 条件下离心 $2 0 \mathrm { m i n }$ ，进行前处理后利用酶标仪在 $2 6 0 \mathrm { n m }$ 波长下进行比色，根据吸光度值和标准曲线计算RNA测定值，按以下公式计算MCP浓度：
+
+微生物蛋白氮 $\scriptstyle \mathrm { { ' } m g / m L ) = R N A }$ 测定值 $\mathbf { \times R N A }$ 含氮量( $1 7 . 8 3 \%$ )/细菌氮中RNA含氮量( $10 \%$ ）
+
+$\times$ 稀释倍数;
+
+MCP（mg） $\ O =$ 微生物蛋白氮（ $\mathrm { m g / m L }$ ） $\times 6 . 2 5 \times$ 发酵液体积（mL）。
+
+VFA浓度及脂肪酸含量利用气相色谱法测定，取发酵液 $2 { \mathrm { m L } }$ ， $1 5 0 0 0 0 \times g$ 离心 $1 0 \mathrm { m i n }$ 业用微量注射器取上清液1μL，注入气相色谱仪（Agilent 6890NGC system,美国 Agilent），得到气相色谱图，采用峰面积外标法计算发酵液中VFA及脂肪酸含量。底物和发酵残渣中DM、NDF及ADF含量分别参照GB6435-86、GB/T20806-2006及NY/T1459-2007测定，再根据发酵前后的质量关系计算其相应的降解率。
+
+# 1.6 统计分析
+
+根据以下动态发酵模型，采用SAS9.3软件NON-LINEAR方法计算动态发酵参数。
+
+$$
+\scriptstyle G P _ { t } = B \times \ ( \ 1 - \mathbf { e } ^ { - c t } ) _ { \circ }
+$$
+
+式中： $G P$ 为 $t$ 时间点 $0 . 5 \mathrm { ~ g ~ }$ 发酵底物的产气量（ $\scriptstyle \cdot \mathrm { m L }$ ； $B$ 为 $0 . 5 \mathrm { ~ g ~ }$ 发酵底物 $2 4 \mathrm { ~ h ~ }$ 理论最大产气量（mL）； $\mathbf { \Psi } _ { c }$ 为产气速率 $( \mathsf { h } ^ { - 1 }$ )； $t$ 为体外发酵时间（h)。
+
+采用 SAS9.3软件MIXED 模块进行统计学检验，统计模型中包含发酵瓶的随机因素和试验处理的固定因素。对处理用多项式矩阵（polynomialcontrast）检验了线性、二次区间的显著性。变量的统计结果均以最小二乘平均值形式列表，显著水平为 $P { < } 0 . 0 5$ ，有显著趋势水平为 $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 。
+
+2结果与分析
+
+2.1硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 产气参数的影响
+
+饲粮中添加不同水平的硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 产气参数的影响见表3。产气量、理论最大产气量及产气速率均未受硬核油添加的影响（ $P { > } 0 . 0 5 \$ )，且不呈线性和二次变化
+
+119 （ $( P { > } 0 . 0 5 )$ 。 $1 \%$ 、 $2 \%$ 及 $3 \%$ 组产气量及理论最大产气量有高于对照组及 $4 \%$ 组的趋势（0.05  
+120 ${ \leqslant } P { < } 0 . 1 0 )$ 。
+
+Table 3Effects of Scleropyrum wallichianum oil on GP parameters after $2 4 \mathrm { h }$ rumen fermentation in vitro   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">添加水平 Supplemental level/%</td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>处理 Treatment</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>产气量GP/mL</td><td>102.89</td><td>127.51</td><td>108.83</td><td>115.95</td><td>89.82</td><td>6.310</td><td>0.058</td><td>0.696</td><td>0.936</td></tr><tr><td>理论最大产气量 Theoretical maximum GP/mL</td><td>127.15</td><td>158.98</td><td>139.07</td><td>150.86</td><td>117.09</td><td>7.615</td><td>0.056</td><td>0.874</td><td>0.963</td></tr><tr><td>产气速率Rate of GP/h-1</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.001</td><td>0.761</td><td>0.605</td><td>0.428</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5$ )，相同或无字母表示差异不显著（ $P { > } 0 . 0 5 \$ )。卜表同。 In the same row,values with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.2硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 发酵参数的影响
+
+饲粮中添加不同水平的硬核油对瘤胃体外发酵 $2 4 \mathrm { ~ h ~ }$ 发酵参数的影响见表4。发酵液的pH未受硬核油添加的影响（ $( P { > } 0 . 0 5 )$ ； $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度随硬核油添加水平的增加呈二次曲线升高（ $\scriptstyle P = 0 . 0 4 4 { \mathrm { , } }$ ；TVFA（ $_ { . } { \cal P } { < } 0 . 0 0 1$ ）、乙酸（ $\cdot P { < } 0 . 0 0 1 \cdot$ ）、丙酸（ $\scriptstyle P = 0 . 0 4 7$ ）及丁酸浓度（ $_ { \cdot } P { = } 0 . 0 1 7$ ）随硬核油添加水平的增加均呈二次曲线升高，各试验组TVFA、乙酸及丙酸浓度均显著高于对照组( $( P { < } 0 . 0 5 )$ ，且 $1 \% . 2 \%$ 及 $3 \%$ 组TVFA、乙酸浓度均显著高于 $4 \%$ 组;MCP 浓度、DMD、NDFD及ADFD均未受硬核油添加的影响（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ）
+
+# 表4硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 发酵参数的影响
+
+表3硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 产气参数的影响  
+Table 4Effects of Scleropyrum wallichianum oil on fermentation parameters after $2 4 \mathrm { h }$ rumen   
+fermentation in vitro   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">添加水平 Supplemental level/%</td><td rowspan="2">SEM</td><td colspan="3">P值 P-value</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>处理 Treatment</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>pH</td><td>6.78</td><td>6.77</td><td>6.78</td><td>6.78</td><td>6.77</td><td>0.002</td><td>0.990</td><td>0.739</td><td>0.975</td></tr><tr><td>氨氮 NH3-N/(mg/dL)</td><td>34.89</td><td>37.88</td><td>42.55</td><td>36.14</td><td>35.09</td><td>1.413</td><td>0.094</td><td>0.869</td><td>0.044</td></tr><tr><td>微生物蛋白 MCP/(mg/mL)</td><td>0.58</td><td>0.54</td><td>0.55</td><td>0.56</td><td>0.55</td><td>0.007</td><td>0.928</td><td>0.673</td><td>0.730</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>86.78c</td><td>125.35a</td><td>125.03a</td><td>123.29a</td><td>113.89b</td><td>7.328</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>乙酸 Acetate/(mmol/L)</td><td>64.44c</td><td>93.00a</td><td>92.76a</td><td>91.05a</td><td>84.41b</td><td>5.404</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>丙酸Propionate/(mmol /L)</td><td>18.53b</td><td>24.28a</td><td>24.21a</td><td>24.47a</td><td>22.22a</td><td>1.129</td><td>0.004</td><td>0.014</td><td>0.047</td></tr><tr><td>丁酸 Butyrate/(mmol /L)</td><td>4.19</td><td>5.78</td><td>5.78</td><td>5.29</td><td>4.99</td><td>0.296</td><td>0.111</td><td>0.432</td><td>0.017</td></tr><tr><td>乙酸/丙酸 Acetate /propionate</td><td>3.82</td><td>3.85</td><td>3.83</td><td>3.82</td><td>3.76</td><td>0.014</td><td>0.512</td><td>0.214</td><td>0.235</td></tr></table></body></html>
+
+<html><body><table><tr><td>干物质降解率 DMD</td><td>0.68</td><td>0.70</td><td>0.68</td><td>0.70</td><td>0.67</td><td>0.005</td><td>0.390</td><td>0.378</td><td>0.437</td></tr><tr><td>中性洗涤纤维降解率 NDFD</td><td>0.36</td><td>0.35</td><td>0.37</td><td>0.41</td><td>0.41</td><td>0.013</td><td>0.320</td><td>0.082</td><td>0.852</td></tr><tr><td>酸性洗涤纤维降解率 ADFD</td><td>0.37</td><td>0.37</td><td>0.39</td><td>0.43</td><td>0.43</td><td>0.013</td><td>0.271</td><td>0.060</td><td>0.779</td></tr></table></body></html>
+
+2.3硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 脂肪酸含量的影响
+
+饲粮中添加不同水平的硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 脂肪酸含量的影响见表5。中长链饱和脂肪酸 ${ \bf C } 1 2 { \cdot } 0 { \sim } { \bf C } 1 7 { \cdot } 0$ 及长链饱和脂肪酸，包括C20:0、C22:0及C24:0的含量未受硬核油添加的影响 ( $. P { > } 0 . 0 5 \$ )。饱和脂肪酸含量随硬核油添加水平的增加呈线性（ $_ { \cdot \cdot P = 0 . 0 0 8 }$ ）及二次（ $\scriptstyle P = 0 . 0 2 8$ ）降低， $3 \%$ 、 $4 \%$ 组显著低于对照组及 $1 \%$ 、 $2 \%$ 组( $. P { < } 0 . 0 5 )$ ；其中长链饱和脂肪酸C18:0的含量呈线性降低（ $\scriptstyle P = 0 . 0 3 0 { \mathrm { . } }$ ， $3 \%$ 组显著低于其他各组（ $. P { < } 0 . 0 5 ^ { \cdot }$ )。不饱和脂肪酸含量随硬核油添加水平的增加呈线性（ $\scriptstyle P = 0 . 0 0 8$ ）及二次（ $\scriptstyle P = 0 . 0 2 8$ ）增加， $3 \%$ 组显著高于其他各组 $( P { < } 0 . 0 5 )$ ；其中 $t 9$ -C18:1含量呈线性（ $scriptstyle \cdot P = 0 . 0 0 2$ ） $t 1 1$ -C18:1含量呈二次（ $( P { < } 0 . 0 0 1 )$ 、c9-C18:1含量呈线性（ $\scriptstyle P = 0 . 0 2 8$ ）和二次（ ${ \cdot } P { = } 0 . 0 0 5$ ）升高，且 $t 9 .$ C18:1及 $c 9 .$ C18:1含量均在 $3 \%$ 添加水平下出现极大值。多不饱和脂肪酸C18:2的含量未受硬核油添加的影响（20 $( P { > } 0 . 0 5 )$ 。
+
+表5硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 脂肪酸含量的影响  
+Table 5Effects of Scleropyrum wallichianum oil on fatty acid contents after $2 4 \mathrm { h }$ rumen fermentation in   
+vitro %   
+
+<html><body><table><tr><td rowspan="3">项目</td><td colspan="5">添加水平 Supplemental level/%</td><td rowspan="2"></td><td colspan="3">P值 P-value</td></tr><tr><td rowspan="2">0</td><td rowspan="2">1</td><td rowspan="2">2</td><td rowspan="2">3</td><td rowspan="2">4</td><td rowspan="2">SEM</td><td rowspan="2">线性</td><td rowspan="2">二次 Quadratic</td></tr><tr><td>处理 Treatment</td></tr><tr><td>C12:0</td><td>0.93</td><td>0.38</td><td>0.37</td><td>0.49</td><td>0.44</td><td>0.001</td><td>0.511</td><td>Linear 0.306</td><td>0.263</td></tr><tr><td>C13:0</td><td>0.06</td><td>0.05</td><td>0.05</td><td>0.07</td><td>0.05</td><td>0.029</td><td>0.206</td><td>0.911</td><td>0.801</td></tr><tr><td>C14:0</td><td>1.26</td><td>1.46</td><td>1.31</td><td>1.46</td><td>1.33</td><td>0.001</td><td>0.305</td><td>0.268</td><td>0.259</td></tr><tr><td>C15:0</td><td>0.73</td><td>0.76</td><td>0.69</td><td>0.89</td><td>0.71</td><td>0.001</td><td>0.211</td><td>0.635</td><td>0.525</td></tr><tr><td>C16:0</td><td>0.45</td><td>0.46</td><td>0.46</td><td>0.44</td><td>0.46</td><td>0.003</td><td>0.184</td><td>0.800</td><td>0.592</td></tr><tr><td>C17:0</td><td>0.65</td><td>0.81</td><td>0.58</td><td>0.69</td><td>0.56</td><td>0.001</td><td>0.674</td><td>0.487</td><td>0.627</td></tr><tr><td>C18:0</td><td>42.22a</td><td>40.52a</td><td>40.30a</td><td>37.82b</td><td>40.13a</td><td>0.007</td><td>0.036</td><td>0.030</td><td>0.107</td></tr><tr><td>t9-C18:1</td><td>1.76c</td><td>2.95bc</td><td>3.64bc</td><td>6.34a</td><td>4.00b</td><td>0.007</td><td>0.001</td><td>0.002</td><td>0.050</td></tr><tr><td>t11-C18:1</td><td>0.27b</td><td>0.84a</td><td>0.89a</td><td>0.76a</td><td>0.35b</td><td>0.029</td><td><0.001</td><td>0.729</td><td><0.001</td></tr><tr><td>c9-C18:1</td><td>3.33c</td><td>3.89bc</td><td>4.10b</td><td>5.02a</td><td>3.73bc</td><td>0.003</td><td>0.002</td><td>0.028</td><td>0.005</td></tr><tr><td>C18:2</td><td>0.74</td><td>1.22</td><td>0.87</td><td>0.89</td><td>0.90</td><td>0.001</td><td>0.417</td><td>0.989</td><td>0.535</td></tr><tr><td>C20:0</td><td>0.46</td><td>0.47</td><td>0.48</td><td>0.45</td><td>0.44</td><td>0.043</td><td>0.457</td><td>0.309</td><td>0.217</td></tr><tr><td>C22:0</td><td>0.15</td><td>0.14</td><td>0.15</td><td>0.14</td><td>0.13</td><td>0.031</td><td>0.611</td><td>0.312</td><td>0.521</td></tr><tr><td>C22:2</td><td>0.82</td><td>0.69</td><td>0.38</td><td>0.45</td><td>0.93</td><td>0.001</td><td>0.060</td><td>0.977</td><td>0.100</td></tr><tr><td>C24:0</td><td>0.13</td><td>0.12</td><td>0.15</td><td>0.15</td><td>0.12</td><td>0.043</td><td>0.606</td><td>0.915</td><td>0.269</td></tr><tr><td>饱和脂肪酸 SFA</td><td>92.31a</td><td>90.02a</td><td>90.00a</td><td>89.86b</td><td>86.35a</td><td>0.010</td><td>0.003</td><td>0.008</td><td>0.028</td></tr></table></body></html>
+
+<html><body><table><tr><td>不饱和脂肪酸USFA</td><td>7.69b</td><td>9.98b</td><td>10.03b</td><td>13.65a</td><td>10.14b</td><td>0.010</td><td>0.003</td><td>0.008</td><td>0.028</td></tr></table></body></html>
+
+3讨论
+
+3.1硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 产气参数的影响
+
+本研究中，添加不同水平的硬核油对瘤胃体外发酵 $2 4 \mathrm { h }$ 产气量、理论最大产气量及产气速率均无显著影响。当添加水平分别为 $1 \%$ 、 $2 \%$ 及 $3 \%$ 时， $2 4 \mathrm { ~ h ~ }$ 产气量、理论最大产气量在数值上逐渐升高，且均高于对照组，而添加水平增加到 $4 \%$ 时，则出现了降低的趋势且低于对照组。产气量作为综合反映饲粮可降解程度的指标，不仅能够表现瘤胃微生物活动的总体情况，还可以反映饲粮可消化性的大小。瘤胃微生物的活性越强，饲粮可降解程度越高，产气量就越高。本研究中产气量的变化与DMD 的变化体现了这种相关性。这种变化趋势可能与添加硬核油影响瘤胃微生物的活性有关。
+
+# 3.2硬核油对瘤胃体外发酵24h发酵参数的影响
+
+瘤胃液pH是反映瘤胃发酵程度及模式的重要指标[13]，受唾液分泌及VFA组成等多种因素的影响[14]，一般情况下，瘤胃液pH为6.0\~7.0。本研究中，所有添加水平下的pH均在正常范围内且没有显著差异，表明本研究中的硬核油添加水平未引起发酵液pH失衡。瘤胃液NH3-N浓度是反映瘤胃氮代谢的重要指标，主要受瘤胃微生物对饲粮粗蛋白质的降解情况及MCP合成的综合影响[15]，且其浓度的最适范围为 $8 . 5 { \sim } 3 0 . 0 \mathrm { m g / d L }$ 。本研究中，对照组和试验组的 $\mathrm { N H } _ { 3 }$ -N浓度均超过该范围，可能是由于体外培养体系不能真正模拟活体瘤胃发酵，不具备吸收和外排的功能，导致发酵产生的一部分 $\mathrm { \cdot N H } _ { 3 }$ -N直接溶于发酵液中，从而使得 $\mathrm { N H } _ { 3 }$ -N浓度高于正常值[16]。随硬核油添加水平的增加， $\mathrm { N H } _ { 3 }$ -N浓度呈二次曲线变化，这可能是由于添加脂肪为瘤胃细菌提供了一定的能量而导致其活性增强[17]，从而提高了其对粗蛋白质等成分的降解能力。然而White[18]及Orskov等[19]的研究指出，饲粮中添加过多的脂肪会抑制瘤胃微生物的代谢活力；且有研究表明，这种抑制作用与脂肪酸的不饱和度以及浓度呈正相关[17]。硬核油含有较高的C18:2（ $5 3 . 4 2 \%$ ），可能当硬核油添加水平达到 $4 \%$ 时，对瘤胃微生物起到了抑制作用。以上原因可能导致了随着硬核油添加水平的增加， $\mathrm { N H } _ { 3 }$ -N浓度呈现先升高后降低的变化趋势。但在此基础上MCP的浓度却没有发生显著变化，可能是因为在原有 $\mathrm { N H } _ { 3 }$ -N浓度的基础上MCP的合成可能已达到饱和，因而MCP的浓度没有发生显著变化。
+
+VFA是饲粮中碳水化合物在瘤胃中发酵的主要产物，是反刍动物能量的主要来源，其浓度和组成反映了瘤胃的消化代谢情况[4]。饲粮中添加植物油对瘤胃发酵产生VFA浓度的影响比较复杂，与植物油的种类和添加水平等有关。Clinquart等[20]研究指出，当饲粮中的脂肪添加水平低于 $3 . 3 \%$ （DM基础)时，瘤胃发酵产生的VFA的浓度会增加，但当添加水平高于 $5 . 0 \%$ （DM基础）时将会降低VFA的浓度。本研究中，硬核油的添加水平低于 $3 \%$ 时，VFA的浓度增加，当添加水平增至 $4 \%$ 时，其浓度有降低的趋势，与上述报道的结果基本一致。有研究表明，饲粮中添加植物油会降低乙酸和丁酸的浓度而增加丙酸的浓度，使乙酸/丙酸下降。Uedal等[21]向不同精粗比的饲粮中添加 $3 \%$ （DM基础）的亚麻油，结果表明，乙酸和丁酸的浓度显著降低，而丙酸的浓度显著升高；Jenkins[22]研究表明，在阉羊饲粮中添加 $10 \%$ 的豆油可使乙酸浓度降低，丙酸浓度升高。本研究中，丙酸的浓度显著升高，与上述报道一致，一般认为丙酸浓度升高是由于补充的脂肪经脂肪酶分解为长链脂肪酸和甘油，甘油进一步转化为丙酸[23]。本研究中乙酸和丁酸的变化与上述报道不一致，这可能与不同植物油含有不同含量的不饱和脂肪酸有关。
+
+# 3.3硬核油对瘤胃体外发酵24h脂肪酸含量的影响
+
+瘤胃是一个高度还原的环境，饲粮中的脂肪在被瘤胃微生物降解为甘油和脂肪酸的同时，其中的不饱和脂肪酸（C18:1、C18:2及C18:3）会发生生物氢化反应，且氢化过程会生成一些中间产物如C18:1及共轭亚油酸（CLA）等[24]。吴端钦等[25]利用体外产气法研究发现，向饲粮中添加底物DM $5 \%$ 及 $10 \%$ 的亚麻籽油提高了发酵液中CLA及其他不饱和脂肪酸的含量。Gunal等[24]利用批次培养法研究发现，向发酵液中添加125、250及 $5 0 0 \mathrm { m g / L }$ 的桉树油提高了不饱和脂肪酸的含量，降低了氢化产物C18:0的含量。本研究中，随硬核油添加水平的增加，所有单不饱和脂肪酸（ $c 9$ -C18:1、t11-C18:1及t9-C18:1）的含量呈二次曲线升高，可能因为硬核油含有大量的不饱和脂肪酸，不饱和脂肪酸氢化产生c9-C18:1、t11-C18:1及t9-C18:1等中间产物，从而导致它们的含量增加。杨舒黎[17在奶牛饲粮中分别添加 $4 \%$ 豆油和胡麻油，并利用荧光定量PCR技术测定其对瘤胃微生物氢化菌的影响，结果发现添加植物油显著降低了溶纤维丁酸弧菌（B.fibrisolven）及瘤胃白色球菌（R.albus）的数量。本研究中 $c 9$ -C18:1及t9-C18:1的含量在 $3 \%$ 添加水平时出现极大值，当添加水平增至 $4 \%$ 时其含量有所下降，可能是过高的脂肪减少了氢化菌的数量，导致不饱和脂肪酸的氢化程度降低，氢化的中间产物减少，从而c9-C18:1、t11-C18:1及t9-C18:1的含量相应降低。C18:0的含量随硬核油添加水平的增加呈线性降低，可能是由于饲粮中较高含量的C18:2抑制了t11-C18:1向C18:0的氢化过程
+
+[26]，导致含量降低。
+
+4结论
+
+$\textcircled{1}$ 添加适当水平的硬核油可提高瘤胃体外发酵24h瘤胃液中NH3-N、TVFA、乙酸、丙  
+酸、丁酸的浓度及不饱和脂肪酸c9-C18:1、t11-C18:1及t9-C18:1的含量，降低饱和脂肪酸C18:0  
+的含量。$\textcircled{2}$ 在本试验条件下，硬核油的适宜添加水平为 $3 \%$ 。  
+参考文献：  
+[1]赵洪波,王志博,张永根.植物提取物对瘤胃发酵调控的研究进展[J].饲料工业,2012,33(23):53-57.  
+[2]郑会超,姚建红,吴跃明,等.体外产气法评价添加植物油对瘤胃发酵的影响[J].中国奶牛,2004(6):21-23.  
+[3]NANON A,SUKSOMBAT W,YANG W Z.Use of essential oils for manipulation of rumenmicrobialfermentationusingbatchculture[J].ThaiJournalofVeterinaryMedicine,2015,45(2):167-180.  
+[4]史浩亭,王加启,卜登攀,等.苏子油对瘤胃体外发酵模式、脂肪酸组成及甲烷生成的影响[J].甘肃农业大学学报,2015,50(3):23-28.  
+[5] 王喜乐,沈向真,杨俊花,等.添喂葵花籽油对山羊瘤胃消化代谢与瘤胃液脂肪酸组成的影响[J].畜牧兽医学报,2007,38(4):356-361.  
+[6]梁贤威,张双双,韦升菊,等.葵花籽油和茶油对奶水牛瘤胃发酵参数及瘤胃液脂肪酸组成的影响[J].畜牧与兽医,2015,47(5):50-54.  
+[7]ZHU Z,MAO S Y,ZHU W Y.Effects of ruminal infusion of garlic oil on fermentationdynamics,faty acid profile and abundance of bacteria involved in biohydrogenation in rumenof goats[J].Asian-Australasian Journal of Animal Sciences,2012,25(7):962-970.  
+[8]何美莹,朱义鑫.西双版纳本土木本油料植物硬核研究初报[J]).热带农业科技,2014,37(1):36-39.  
+[9]SUKSAMRARN A,BUAPROM M,UDTIP S,et al.Antimycobacterial and antiplasmodialunsaturated carboxylic acid from thetwigsofscleropyrum
+
+wallichianum[J].ChemInform,2006,37(12):1327-1329 [10]MENKE K H,STEINGASS H.Estimation of the energetic feed value obtained from chemical analysis and in vitro gas production using rumen fluid[J].Animal Research Development,1988,28(1):7-55.
+
+[11]BRODERICK G A,KANG J H.Automated simultaneous determination of ammonia and total aminoacidsin ruminal fluidand invitroMedia[J].Journal ofDairy Science,1980,63(1):64-75.
+
+[12]刘晶.饲料果胶对瘤胃微生物菌群结构和微生物蛋白合成影响的研究[D].博士学位论文.杭州:浙江大学,2014:81-82.
+
+[13]REDDY K J,REDDY M R.Effect of feeding complete feeds on various nitrogen fractions and total VFA concentrations in the rumen fluid of sheep[J].Indian Journal of Animal Sciences,1985,55(9):819-823.
+
+[14]NOCEK JE.Feeding sequence and strategy effects on ruminal environment and production performance in first lactation cows[J].Journal of Dairy Science,1992,75(11):3100-3108.
+
+[15] BENCHAAR C,CALSAMIGLIA S,CHAVES A V,et al.A review of plant-derived essential oils in ruminant nutrition and production[J].Animal Feed Science and Technol0gy,2008,145(1/2/3/4):209-228.
+
+[16]李袁飞,郝建祥,马艳艳,等.体外瘤胃发酵法评定不同类型饲料的营养价值[J].动物营养学报,2013,25(10):2403-2413.
+
+[17]杨舒黎.日粮添加豆油和胡麻油对奶牛瘤胃细菌及发酵参数的影响[D].博士学位论文.北京：中国农业科学院,2007:3-10.
+
+[18]WHITE T W,GRAINGER R B,BAKER F H,et al.Effect of supplemental fat on digestion and the ruminal calcium requirement of sheep[J].Journal of Animal Science,1958,17(3):797- 803.
+
+[19]ORSKOV E R,HINE R S,GRUBB D A.The effect of urea on digestion and voluntary intake by sheep of diets supplemented with fat[J].Animal Production,1978,27(3):241-245.
+
+[20] CLINQUART A,VAN EENAEME C,DUFRASNE I,et al.Soya oil in the diet of growing-fattning bulls.II .Effects on metabolism in the rumen,apparent digestibility,plasma hormones and metabolites[J].Journal of Animal Physiology and Animal Nutrition,1995,74(1/2/3/4/5):15-23.
+
+[21]UEDA K,FERLAY A,CHABROT J,et al.Effect of linseed oil supplementation on ruminal digestion in dairy cows fed diets with different forage:concentrate ratios[J].Journal of Dairy Science,2003,86(12):3999-4007.
+
+[22]JENKINS T C.Butylsoyamide protects soybean oil from ruminal biohydrogenation:effects of butylsoyamide on plasma fatty acids and nutrient digestion in sheep[J].Journal of Animal Science,1995,73(3):818-823.
+
+[23]刘大森,曹秀青,刘立成.不同亚油酸来源的日粮以绵羊瘤胃发酵和营养物质表观消化率的影响[J].饲料工业,2010(增刊2):37-41.
+
+[24]GUNAL M,ISHLAK A,ABUGHAZALEH A A,et al.Essential oils effect on rumen fermentation and biohydrogenation under in vitro conditions[J].Czech Journal of Animal Science,2014,59(10):450-459.
+
+[25]吴端钦,贺志雄,汤少勋,等.体外添加不同水平的亚麻籽油对气体产量、瘤胃发酵及脂肪酸组分的影响[J].天然产物研究与开发，2014,26(2):273-277.
+
+[26]LOOR J J,UEDA K,FERLAY A,et al.Biohydrogenation,duodenal flow,and intestinal digestibility of Trans fatty acids and conjugated linoleic acids in response to dietary forage:concentrateratioandlinseedoil in dairycows[J].JournalofDairy Science,2004,87(8):2472-2485.
+
+Effects of Scleropyrum wallichianum Oil on in Vitro Rumen Fermentation Characteristics and Fatty Acid Composition
+
+SUN Lingling1 MA Lu1BU Dengpan1,2.3\*XU Jianchu4LIU Shijie5 HE Meiying6 (1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. CAAS-ICRAF Joint Lab on Agroforestry and Sustainable Animal Husbandry, Beijing 1OO193, China; 3. Hunan Co-Innovation Center of Animal Production Safety, Changsha 410128, China; 4. Kunming Institute of Botany, Chinese Academy of
+
+Sciences, Kunming 6502O1, China; 5. China Feed Industry Association, Beijing 100125,China; 6. Yunnan Institute of Tropical Crops,Jinghong 6661Oo, China)
+
+Abstract: In order to find the optimal supplemental level of Scleropyrum wallichianum oil, the effects of adding $1 \%$ ， $2 \%$ ， $3 \%$ and $4 \%$ (dry matter basis) of Scleropyrum wallichianum oil in diet on $2 4 \mathrm { h }$ rumen fermentation parameters, gas production parameters and composition of fatty acids were investigated using in vitro gas production method. The aim is to determine suitable addition level. The results showed as follows: 1) there were no significant effects of adding Scleropyrum wallichianum oil in diet on $2 4 \mathrm { h }$ gas production, theoretical maximum gas production and the rate of gas production ( $\scriptstyle ( P > 0 . 0 5 )$ . 2) The concentrations of ammonia nitrogen ( $P { = } 0 . 0 4 4 \rangle$ ，total volatile fatty acid $( P { < } 0 . 0 0 1 )$ ，acetate $( P { < } 0 . 0 0 1 \dot { }$ ），propionate $\scriptstyle { \langle P = 0 . 0 4 7 }$ ）and butyrate $_ { \scriptstyle ( P = 0 . 0 1 7 }$ ） quadratically increased as the level of Scleropyrum wallichianum oil increased, besides，the concentrations of total volatile fatty acid and acetate of $1 \%$ $2 \%$ and $3 \%$ groups were significantly higher than those in control group and $4 \%$ group（ $\scriptstyle P < 0 . 0 5 .$ ）; there were no significant effects of adding Scleropyrum wallichianum oil on $\mathrm { \ p H }$ ，microbe protein concentration， dry matter degradation rate, neutral detergent fiber degradation rate and acid detergent fiber degradation rate （2 $( P { > } 0 . 0 5 )$ . 3）The content of saturated fatty acid was linearly $\scriptstyle ( P = 0 . 0 0 8$ ）and quadratically decreased ( $\scriptstyle \cdot \begin{array} { r l } { P = 0 . 0 2 8 } \end{array}$ ）as the level of Scleropyrum walichianum oil increased, and C18:0 content was linearly decreased（ $\scriptstyle P = 0 . 0 3 0 { \mathrm { , } }$ ），too; the content of unsaturated fatty acid was linearly $scriptstyle \overbrace { P = 0 . 0 0 8 } )$ and quadratically increased（ $\scriptstyle P = 0 . 0 2 8$ ）as the level of Scleropyrum wallchianum oil increased, $t 9$ C18:1 content was linearly( $P { = } 0 . 0 0 2 { \mathrm { ~ } }$ ），tl1-C18:1 content was quadratically （2号 $( P { < } 0 . 0 0 1 )$ and $^ { c 9 }$ C18:1 was linearly( $\scriptstyle { \cal P = 0 . 0 2 8 }$ ）and quadratically increased（ $P { = } 0 . 0 0 5$ ），and t9-C18:1and $^ { c 9 }$ -C18:1 reached maximum values under the adding level of $3 \%$ . Under the conditions of the present study, the levels of $1 \%$ ， $2 \%$ and $3 \%$ Scleropyrum wallichianum oil can increase the contents of unsaturated fatty acids and the concentrations of volatile fatty acids, and the level of $3 \%$ has the best effect. Key words: Scleropyrum wallchianum oil; gas production parameters; fermentation parameters;
+
+composition of fatty acids

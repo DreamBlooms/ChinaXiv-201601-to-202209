@@ -1,0 +1,150 @@
+# DOI: 10.5846/stxb201512312615
+
+刘垚,包云轩,陆明红,刘万才.基于WRF-Flexpart 的一次褐飞虱回迁过程模拟研究.生态学报,2017,37（13）:4466-4475.LiuY,BaoYXuAdeligdofatgeseugatoigexpttocaa(13)：4466-4475.
+
+# 基于WRF-Flexpart的一次褐飞虱回迁过程模拟研究
+
+刘垚1,2,3，包云轩1,2，\*，陆明红4，刘万才4
+
+1南京信息工程大学江苏省农业气象重点实验室，南京210044  
+2南京信息工程大学，气象灾害预报预警与评估协同创新中心，南京210044  
+3中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室，银川750002  
+4农业部全国农业技术推广服务中心，北京100125
+
+摘要;褐飞虱是影响亚洲地区水稻生产的迁飞性害虫,其远距离迁飞与种群分布会受到大气环流和局地天气条件的影响。采用WRF-Flexpart耦合模式、GIS空间分析和Vincenty方位角/距离估计等方法,选取 2009年9月30日—10月7日发生在中国15个植保站的褐飞虱迁入过程,并根据模式输出、GIS 分析和轨迹计算结果探讨了多种大气物理胁迫共存下大气动力场、降水、温度场和湿度场对褐飞虱秋季回迁过程及其降落虫量分布的影响。研究结果表明：(1)此次重大迁飞过程中,大气动力场、降水、温度场和湿度场在不同地区、不同时间段对褐飞虱种群的迁入和降落起了不同的作用,因而造成了迁入虫量分布的时空差异。(2)从各虫源地迁出的褐飞虱种群是向着温暖而湿润的地方迁飞的,迁飞方向主要受所经区域盛行风向的影响,迁飞距离由途径区的风速所决定。（3)当迁飞种群途径局地降水较多的区域时,初期迁入量并不多,经过短暂的一段时间后降虫量会突然增加。(4)在一定的温度范围内,大气湿度条件会影响褐飞虱的迁入虫量:褐飞虱迁入虫量在近地面温度高于 $2 6 ^ { \circ } \mathrm { C }$ 、相对湿度（ $9 2 5 ~ \mathrm { h P a }$ 大于 $7 0 \%$ 且下沉气流较强的地区分布最多，而在近地面温度低于 $2 4 ^ { \circ } \mathrm { C }$ 、相对湿度( $9 2 5 ~ \mathrm { { h P a } }$ )小于 $5 0 \%$ 、无明显下沉气流的地区未发现有褐飞虱的迁入。 ?
+
+关键词：褐飞虱;天气条件;WRF-Flexpart模式;迁飞轨迹;迁入虫量分布
+
+# A modeling study of Nilaparvata lugens' return migration by using WRF-Flexpart
+
+LIU Yao1,2.3，BAO Yunxuan1,2,\*,LU Minghong4，LIU Wancai4
+
+1KeyLboacalercUesitfaeed   
+2Cllbi 210044，China   
+3KeyLaboratofacerooclondrdisgetiArdgo， 750002，China   
+4National Agricultural Technology Extensionand ServiceCenter，MinistryofAgricultural，Beijing 1Oo125，China
+
+Abstract:Nilaparvata lugens （N.Lugens）isone of the pests which havealarge detrimental impactonrice production in Asia.Long-distance migration and populationdistribution are highlydependent on large-scale atmospheric circulation and local weathercondition.Theobservational dataoflight-trapped pestsfrom1979 to2O15wereanalyzed toquantifythe impact of large-scale atmospheric circulation on southward migration of $N _ { \ast }$ ，Lugens.A typical heavy event of southward migration occurring inthemajor rice-growing regionsof the southern China from September 3OthtoOctober7th,2009 was presented to discuss the impact of different weather conditions on immigration population of $N _ { \ast }$ ，Lugens in different rice-growing areas in
+
+South or Southeast China.Theevent was characterized by large-range precipitation in South China.Alargeamountof precipitationand high temperature wereobserved in thecoastal regions ofFujianProvince，South JiangxiProvince，and Southwest Hunan Province.In contrast,therainfall was much lessand temperature was relativelylower in the middleand northparts of Jiangxi Province compared tootherregionsand therainfall was sporadicandthe temperature was high in Hubei Province.As a result，the amount of light-trapped $N$ .Lugens was the largest in the coastal regions of Fujian Province,South Jiangxi Province,and Southwest Hunan Province,and the leastin themiddleand north partsof Jiangxi Province.The trapped amount in Hubei Province lied in between the two previousgroupregions.Inthis study，anonlinecoupling system of the Weather Research and Forecast Model（WRF）with FLEXible PARTicle dispersion model (FLEXPART）was utilized to simulate the meteorological conditions and to calculate the trajectoriesandthe parameters associated with $N$ ，lugens’migration. ArcGIS（a geographic information system software）was used to perform detailed spatialanalysisandthe Vincenty's formula wasappliedto thecalculationof azimuthand distanceof migration.Several importantresultswere identifiedfrom the study.First，meteorological factors including wind fields，ainfall，temperature, humidityconditions playedvitaland diferentroles intheimmigrationandland-fallingof N.lugens indiferentareas during diferentperiodsandcontributedthediscrepancyof temporalandspatial distributionsofN.lugens‘migrationpopulation. Second, $N .$ lugens tended to immigrate toward the warm and humid areas.Migrating direction and migrating distance were determinedbywinddirectionand wind speedof prevailing winds，respectively.Third,theimmigratingamountof N.lugens wassmallat thebeginning butcanbeaccumulatedtoasignificantlevelinashort time period.Fourth，withinthecertain range of air temperature，air humidityisthe key parameters in determining migration populationand temporal-spatial distribution. Immigrating N.lugens were concentrated in the regions with 2 m temperature higher than $2 6 \mathrm { { ^ circ C } }$ and the relative humidity higher than $70 \%$ at the $9 2 5 \ \mathrm { h P a }$ level whereas very few immigrating N. lugens can be observed in the region with $2 \mathrm { ~ m ~ }$ temperature lower than $2 4 \mathrm { { ^ circ C } }$ and the relative humidity less than $5 0 \%$ at $9 2 5 ~ \mathrm { h P a }$ level.
+
+Key Words:Nilaparvata lugens(Stal）；weather condition；WRF-FLEXPART model；migration trajectory；distributionof immigrating heads
+
+褐飞虱,Nilaparuata lugens（Stal),具有远距离迁飞的习性,是我国主要的水稻害虫之一[1],其迁飞过程和迁入量与大气环流形势、天气系统密切相关。通常,大尺度天气形势的变化为褐飞虱远距离迁飞提供了一定的物理条件;中小尺度天气系统的演变则决定了种群动态和分布特征[2]。
+
+国内外对褐飞虱北迁过程已有大量的研究成果。当温度在 $2 0 \%$ 左右时起飞频繁，低于 $1 7 \%$ 时起飞受到抑制,小于 $1 0 \%$ 极少发生起飞现象[3]。褐飞虱最佳成层飞行的温度在 $1 7 \%$ 左右， $1 5 \mathrm { ^ { \circ } C }$ 等温线限定了褐飞虱成层远距离迁飞的上限高度,随着空中温度的升降,褐飞虱迁飞的高度也随之升降[4]。气流场对褐飞虱的起飞与降落有影响,决定着褐飞虱的远距离迁飞特征[5-7]。在我国,低空急流多盛行偏南风,对于主降区的褐飞虱有输送作用,急流内存在适宜褐飞虱北迁的温湿环境,并且其气流内的下沉气流决定了降虫区的分布[4,8-9]。沈慧梅等[10]对云南稻飞虱北迁过程分析发现,低温胁迫是影响稻飞虱集中降落的外在条件,温度是稻飞虱迁人的重要因子。吴秋琳等[11]通过研究湖南白背飞虱前期迁入过程,得出降雨、低温和下沉气流是导致白背飞虱集中降落的直接原因。Tumer[12]和 Zhu等[13]采用 BLAYER 模型模拟褐飞虱从我国迁飞至韩国的迁飞轨迹,并分析了褐飞虱起飞、降落和飞行高度等参数以及不同飞行高度种群密度分布的状况。Furuno 等[14]利用GEARN 模型对日本10个站的褐飞虱虫情数据做后向模拟,分析了从中国迁飞至日本西部的褐飞虱的可能虫源地及其与气象因子的关系。
+
+目前,对褐飞虱南向回迁过程的研究还较少,对气象条件影响褐飞虱南迁的定量化研究还相对缺乏。秋季冷空气南下,偏北风使得褐飞虱向着温暖且湿润的南方地区迁飞[15]。而冷锋南下时,局部地区降温或降水会促使褐飞虱向南回迁并且大量降落;地面冷锋前温度会降低 3— $\mathbf { \nabla } \cdot 4 ^ { \circ } \mathrm { C }$ ,迫使褐飞虱降低迁飞高度,且褐飞虱分布带平行于冷锋[16-17]。在褐飞虱秋季回迁的雷达观测实验中,观测到了褐飞虱起飞大多在傍晚到黄昏之间,起飞后在近地层逆温层顶以上,大气边界层顶以下的高度水平飞行,平均迁飞层顶高度为 800一 $1 1 0 0 \mathrm { ~ m ~ }$ ，很少到 $1 5 0 0 \mathrm { ~ m ~ }$ ,并且褐飞虱密度的垂直分布出现明显的成层现象[18-19]。
+
+褐飞虱迁飞并不是由单一的因素所决定,是由多个因素共同影响的,其中一种或两种因素起主要作用,造成褐飞虱远距离的迁飞、不同种群动态的变化和分布特征。由于风媒昆虫与气溶胶粒子具有相似的性质,本文将利用WRF-Flexpart耦合模式,采用Pender[20]归纳的褐飞虱迁飞参数（起飞时间、飞行温度阈值、飞行高度和飞行持续时间等)来研究褐飞虱南迁过程中,复杂大气物理胁迫条件对褐飞虱南迁的影响,以期该研究能对中国褐飞虱的测报与防治、农业防灾减灾及粮食安全具有重要的参考价值。
+
+# 1资料与方法
+
+# 1.1 研究数据及个例概况
+
+褐飞虱虫情资料选自我国南方稻区植保站的逐日褐飞虱灯诱数据汇总表,由农业部全国农业技术推广服务中心提供。褐飞虱灯诱数据的当日记录为前一日08:00时至当日08:00时(北京时间,下同)的实际迁入虫量,模拟时间应从前一日开始。
+
+2009年9月30日—10月7日,在我国南方地区出现了大范围降水过程,期间,福建省沿海地区、江西南部和湖南省西南部地区降水较多且温度较高,江西省中、北部降水量较少且温度较低,而湖北省只有零星降水却温度较高。本文选取此次天气过程对褐飞虱迁飞有明显影响的重大迁飞事件,分析大气动力场、降水、温度场和湿度场对褐飞虱迁飞轨迹和降落虫量分布的影响,旨在对比分析褐飞虱南迁过程中不同时间段、不同区域复杂大气物理背景对褐飞虱迁飞和降落的影响。
+
+# 1.2方法
+
+# 1.2.1 WRF模式及参数化方案
+
+使用WRF 3.6双向三重嵌套,模式初始场所用气象资料来自美国国家环境预测中心（NCEP,NationalCenters forEnvironmentalPrediction）的FNL气象再分析资料,空间分辨率为 $1 ^ { \circ } \times 1 ^ { \circ }$ ,时间间隔为 $6 \textup { h }$ 。模拟以$( 3 4 . 0 1 ^ { \circ } \mathrm { N } , 1 1 7 . 2 2 ^ { \circ } \mathrm { E } )$ 为中心点,垂直方向分27层,积分初始时间为2009年9月30日08:00,终止时间为10月8日07:00,积分时间步长是180s,模式参数化方案见表1,每小时输出1次模拟结果。
+
+表1WRF模式参数化方案  
+Table 1 Parameterization schemes of WRF model   
+
+<html><body><table><tr><td>参数化方案 Parameterization scheme</td><td>第一层 First layer</td><td>第二层 Second layer</td><td>第三层 Third layer</td></tr><tr><td>陆面过程 Continental process</td><td>Noah</td><td>Noah</td><td>Noah</td></tr><tr><td>近地面层 Near-surface layer</td><td>Monin-Obukhov</td><td>Monin-Obukhov</td><td>Monin-Obukhov</td></tr><tr><td>边界层方案 Boundary layer scheme</td><td>YSU</td><td>YSU</td><td>YSU</td></tr><tr><td>微物理过程 Microphysical process</td><td>WSM3</td><td>WSM3</td><td>WSM3</td></tr><tr><td>积云对流 Cumulus convection</td><td>Kain-Fritsch</td><td>Kain-Fritsch</td><td>1</td></tr><tr><td>短波辐射 Short-wave radiation</td><td>Dudhia</td><td>Dudhia</td><td>Dudhia</td></tr><tr><td>长波辐射 Long-wave radiation</td><td>RRTM</td><td>RRTM</td><td>RRTM</td></tr></table></body></html>
+
+# 1.2.2Flexpart模式及参数设置
+
+Flexpart模式是挪威大气研究所（Norwegian Institute for Air Research）研究开发的大气扩散模式,该模式基于拉格朗日算法,适用于大范围的大气传输和扩散过程。通过后向算法,Flexpart模式可以用来分析诸如温室气体和颗粒灰尘等的潜在影响区域[21]。
+
+采用WRF输出的气象场来驱动Flexpart模式计算褐飞虱迁飞轨迹，采用后向模拟分析大气物理胁迫对褐飞虱迁飞及其密度分布的影响。模拟设置15个植保站作为释放点源（即降虫地),采样率为1200 s,同步间隔 $6 0 0 \mathrm { ~ s ~ }$ 。褐飞虱起飞大多发生在傍晚的日落前后,晚秋温度较低时,褐飞虱迁出高峰多出现在下午温度较高时刻[22],，且褐飞虱夜间降落的情况多于白天。故本文的后向模拟设置以降虫地为起点,释放开始时间为每日18:30,释放结束时间为前一日07:30,即假设当日18:30至前一日7:30之间均有褐飞虱降落。由于秋季褐飞虱迁飞的最长时长约为 $3 5 \mathrm { ~ h ~ }$ 左右，故本文设置的模拟最大时长为 $3 5 \mathrm { ~ h ~ }$ （即后推 $3 5 \mathrm { ~ h ~ }$ 后褐飞虱的落点位置为轨迹的最远起点），如18：30释放的轨迹群，最长后推 $3 5 \mathrm { ~ h ~ }$ ,则褐飞虱种群应当是前一日7：30起飞的；而该轨迹群中包括了迁飞历时分别为1一 $^ { . 3 5 \mathrm { ~ h ~ } }$ 不等的各种轨迹;以此类推,可通过释放不同时间间隔的设置（如每隔3$\ln _ { \cdot } 1 . 5 \mathrm { ~ h ~ . ~ 1 ~ h ~ . ~ 0 . 5 ~ h ~ . 1 0 ~ m i n ~ . ~ } 5 \mathrm { ~ m i n ~ }$ 甚至 $\mathrm { ~ 1 ~ s ~ }$ ,本文中以 $1 . 5 \mathrm { ~ h ~ }$ 为间隔)计算出当日18：30 至前一日7：30之间后推最大时长 $3 5 \mathrm { ~ h ~ }$ 或1- $3 5 \mathrm { ~ h ~ }$ 不同时长的褐飞虱迁飞轨迹群,将这些轨迹群的后推终点位置导人ArcGIS 中制成空间分布图。分别对 2009年10月2—7日中每日褐飞虱的迁入进行一次后向模拟,则得到迁飞过程 No.1一No.6,将这些过程的轨迹群落点分布图连续排列则得到如图3所示的迁入虫量模拟分布图。！
+
+# 1.2.3迁飞轨迹和虫量分布的计算方法
+
+由 WRF-Flexpart模式得到褐飞虱迁飞的相关数据(经度、纬度、高度和该位置的气象要素等)。有效数据判定：后向模拟释放点(起点)为植保站测点,终止点为褐飞虱的可能虫源地且有水稻生长的地区;空中飞行期间,其飞行高度不低于 $1 6 ^ { \circ } \mathrm { C }$ 温度层的高度;褐飞虱迁飞过程中不能通过强降水区域或大范围降水区域。
+
+首先,分别统计不同释放地点、不同时刻的褐飞虱位置数据,利用 ArcGIS10.0空间分析法[23]分别对各后向逆推时间段褐飞虱迁飞位置和路径数据进行曲线拟合,即可得到不同时间段褐飞虱的迁飞轨迹（回推轨迹)。其次，把褐飞虱的位置数据转化为点图层,并且将模拟区域划分成 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 网格，通过把褐飞虱点图层与模拟区域的网格关联来统计每个网格单元内的褐飞虱数量，从而得出模拟的褐飞虱虫量密度分布。
+
+# 1.2.4迁飞方位角及迁飞距离计算方法
+
+Thaddeus Vincenty 基于地球是一个椭球体的假设,根据迭代算法计算已知的两个球体表面点之间的方位角和椭球面距离（纬度以正北方向为正;经度以正东方向为正）[24-25]。这种算法比基于地球是球形的假设计算得到的大圆距离更加精确。本文中,褐飞虱迁飞方位角和迁飞距离度量的起点为后推模拟的褐飞虱起飞点的位置,终点为模拟的释放点,即降虫站的位置。
+
+# 2结果与分析
+
+# 2.1褐飞虱灯诱虫量的分布特征
+
+2009年10月1日—6日各植保站的褐飞虱灯诱虫量分布图(图1),褐飞虱向西南方向迁入各地稻区,南方地区各站虫量均有增减。期间,褐飞虱主要分布于福建东部沿海地区、江西南部和湖南西南部稻区,而10月1日—6日湖北东部、江西中部和北部各站褐飞虱迁入零星出现。2009年10月1日,江西南部(信丰县)最多达到15000头,福建褐飞虱迁入虫量也较多,其东部沿海地区单站日迁入量可达到千头以上,湖南省西南部地区迁入量仅次于福建稻区,单站日迁入量也达千头以上。2日,福建各站褐飞虱迁人虫量有所减少,均低于1000 头,浙江各站褐飞虱迁入虫量增加。3日,浙江和福建中部褐飞虱虫量开始减少,福建沿海地区虫量较多。湖南西南部稻区褐飞虱虫量增加。4—5日,福建、浙江和湖南各站褐飞虱虫量均有不同程度的减少,福建沿海地区褐飞虱虫量仍较多。6日,除湖南西南部站点的褐飞虱虫量有所增加外,福建、浙江和湖南其他地区各站褐飞虱虫量均继续减少。
+
+# $2 . 2 ^ { \overset { \underset {  } { } } { } }$ 气象要素场对褐飞虱迁飞距离和方位角的影响
+
+褐飞虱的空中迁飞因其主动迁飞速度远小于空中水平气流的速度而只能顺风迁飞,当风速较大时有利于褐飞虱的远距离迁飞,当风速达到3— $8 ~ \mathrm { m / s }$ 时,褐飞虱顺风迁飞很明显,迁飞方向与风向一致[4]。迁飞过程No.1期间(9月30日—10月2日,图2),冷空气由我国东北地区和朝鲜半岛侵入我国山东省境内。受冷空气影响,浙江地区以东北风为主,江苏及其附近地区地面气温较低约在 $2 1 ^ { \circ } \mathrm { C }$ 左右。河南、湖北和湖南地面气温约 $2 4 ^ { \circ } \mathrm { C }$ 左右,湖南地区风向以北风和东北风为主。福建、广西和广东地区以东北风为主,气温均高于 $2 4 ^ { \circ } \mathrm { C }$ 。
+
+![](images/feae261ca61587fcd1997a24f75d9b15ba88bdee678924579db621522f02acd5.jpg)  
+图12009年10月1日—10月6日中国南方水稻主产区各植保站褐飞虱灯诱虫量分布  
+Fig.1DistributionofN.lugens'light trapcatches inthe main rice-growingregions of south Chinaduring1st—6thOct.n200
+
+随着冷空气继续向西南方向推进,南方各地区气温继续下降。此时,浙江南部比北部褐飞虱迁入虫量多（图1)。福建沿海地区风速较小,大量褐飞虱由江苏和浙江北部向福建沿海地区迁入。湖南西部风速较大,以东北风为主,褐飞虱种群取东北一西南方向迁入湘西南。各站点褐飞虱迁飞距离和方向见表2,褐飞虱迁飞轨迹以偏北至偏南方向居多。
+
+同样,迁飞过程No.2—No.6期间(10月1日—7日）,随着冷空气的南下,我国中部和南部地区大范围降温，福建和广东以西北风-东北风为主，地面气温约在20— $2 4 ^ { \circ } \mathrm { C }$ （图2)。褐飞虱种群主要从东北方向迁入且迁飞距离较远，最远可达 $6 0 0 ~ \mathrm { k m }$ 以上(表2)。而安徽、江苏、浙江和江西东北部地面气温均低于 $2 2 \%$ ,浙江地区以西北风-东风为主,褐飞虱的主要迁入方向以偏西至偏南为主。湖南和湖北气温持续降低,约在 $2 2 \%$ 左右,以东北风为主(图2)。迁入湖南湘阴、洪江和东安的褐飞虱种群的迁飞距离大于 $2 0 0 . 0 \ \mathrm { k m }$ ,而湖南龙山因受山地地形阻挡,风速较小,褐飞虱迁飞距离较短,约为 $3 4 . 0 { \mathrm { - } } 1 9 8 . 5 ~ { \mathrm { k m } }$ （表2）。
+
+2.3、气象要素场对褐飞虱迁入虫量分布的影响
+
+2009年9月30日至10月7日褐飞虱历次迁飞过程中的迁入虫量密度分布如图3。9月30日至10月3日,随着冷锋的推进,冷空气影响我国长江下游地区,华东地区普遍开始降温。长江下游地区盛行东北风-东风,盛行风促使褐飞虱种群从长江中下游地区逐渐向西南至东南方向迁人湖南、浙江和福建等稻区。湖南省的虫源主要来自两湖交界区,最远可至湖北省东南部。浙江的虫源主要来自江苏和上海稻区。降落在福建稻区的褐飞虱种群主要来自浙江北部稻区。10月4日冷锋后的冷高压主体南下且逐渐减弱,我国南方地区降温持续但降温幅度逐渐减小,东南沿海地区以北到东北风为主且风速较大。因此,福建和浙江地区的褐飞虱迁入量有所增加。10月6日,又一股弱冷空气从西北方向侵入我国东南部地区,该地区气温继续降低,弱冷空气对相对偏向西南的湖南等地的气温影响相对较小,但对东南部地区影响较大。东南沿海部分地区依旧盛行东南风,但湖南(因盛行风向转变）福建和浙江各地褐飞虱迁入量明显减少。
+
+http://www.ecologica.cn
+
+![](images/8093cfca6cee421615def70b612584db74e03e4358a44806334968a7ebc74b54.jpg)  
+图2地面气温场和925hPa风场  
+Fig.2Temperature field on the surface and wind field on $\mathbf { 9 2 5 \ h P a }$
+
+表2褐飞虱迁飞距离4和方向  
+Table 2\Distance（km）and direction（Dir.）of N. lugens‘migration   
+
+<html><body><table><tr><td rowspan="2">站点 Station</td><td colspan="4">No.1</td><td colspan="2">No.3</td><td colspan="2">No.4</td><td colspan="2">No.5</td><td colspan="2">No.6</td></tr><tr><td>距离Dis.</td><td>方向Dir.</td><td>距离Dis.</td><td>方向Dir.</td><td>距离Dis.</td><td>方向Dir.</td><td>距离Dis.</td><td>方向Dir.</td><td>距离Dis.</td><td>方向 Dir.</td><td>距离 Dis.</td><td>方向Dir.</td></tr><tr><td>福清</td><td>75.8</td><td>s</td><td>79.3</td><td>S</td><td>479.4</td><td>SSW</td><td>518.1</td><td>SW</td><td>555.1</td><td>SW</td><td>531.4</td><td>SSW</td></tr><tr><td>同安</td><td>74.2 </td><td>S</td><td>107.8</td><td>SW</td><td>492.3</td><td>SW</td><td>577.8</td><td>WSW</td><td>524.5</td><td>SW</td><td>618.5</td><td>SW</td></tr><tr><td>霞浦</td><td>61.1</td><td>ESE</td><td>74.9</td><td>SE</td><td>323.6</td><td>SSW</td><td>331.7</td><td>WSW</td><td>264.7</td><td>SW</td><td>419.5</td><td>SW</td></tr><tr><td>龙海</td><td>49.0</td><td>SW</td><td>28.5</td><td>SSE</td><td>463.3</td><td>SSW</td><td>527.8</td><td>SW</td><td>384.7</td><td>SW</td><td>400.1</td><td>SW</td></tr><tr><td>新罗</td><td>74.7</td><td>SSE</td><td>113.3</td><td>SSW</td><td>294.3</td><td>SW</td><td>396.7</td><td>SW</td><td>476.3</td><td>SW</td><td>451.9</td><td>SW</td></tr><tr><td>永安</td><td>68.4</td><td>SSE</td><td>44.2</td><td>SE</td><td>216.1</td><td>SW</td><td>259.6</td><td>WSW</td><td>508.1</td><td>SW</td><td>374.2</td><td>SW</td></tr><tr><td>仙游</td><td>73.7</td><td>SW</td><td>92.2</td><td>SW</td><td>104.3</td><td>SSW</td><td>479.6</td><td>WSW</td><td>402.9</td><td>WSW</td><td>571.7</td><td>SW</td></tr><tr><td>湘阴</td><td>217.2</td><td>SW</td><td>237.8</td><td>SW</td><td>231.6</td><td>SW</td><td>198.0</td><td>SW</td><td>277.0</td><td>SW</td><td>225.7</td><td>SW</td></tr><tr><td>龙山</td><td>87.8</td><td>S</td><td>198.5</td><td>SW</td><td>111.1</td><td>SSW</td><td>34.0</td><td>SSW</td><td>139.8</td><td>S</td><td>50.4</td><td>WSW</td></tr><tr><td>洪江</td><td>220.0</td><td>SW</td><td>256.3</td><td>SW</td><td>249.3</td><td>SW</td><td>238.3</td><td>SW</td><td>344.0</td><td>SW</td><td>231.6</td><td>WSW</td></tr><tr><td>东安</td><td>243.6</td><td>WSW</td><td>281.8</td><td>SW</td><td>295.8</td><td>SW</td><td>248.6</td><td>SW</td><td>383.3</td><td>SW</td><td>301.3</td><td>WSW</td></tr><tr><td>萧山</td><td>460.3</td><td>SE</td><td>303.2</td><td>SSW</td><td>303.0</td><td>SSW</td><td>213.8</td><td>WSW</td><td>246.0</td><td>WSW</td><td>241.6</td><td>SW</td></tr><tr><td>温州</td><td>124.8</td><td>SSE</td><td>274.8</td><td>S</td><td>390.4</td><td>SSW</td><td>389.6</td><td>SW</td><td>415.1</td><td>SW</td><td>397.5</td><td>SW</td></tr><tr><td>龙游</td><td>387.4</td><td>WSW</td><td>274.0</td><td>S</td><td>324.2</td><td>SSW</td><td>242.9</td><td>WSW</td><td>352.0</td><td>SW</td><td>1</td><td>1</td></tr><tr><td>宣州</td><td>373.0</td><td>WSW</td><td>250.2</td><td>SSW</td><td>220.1</td><td>SSW</td><td>196.3</td><td>SW</td><td>176.9</td><td>SW</td><td>118.9</td><td>WSW</td></tr></table></body></html>
+
+![](images/73d20b24ced9e9c6382281338d66578dda92edf563176fc699ce5687bc939fc5.jpg)  
+图3不同迁飞期褐飞虱迁入虫量的模拟分布  
+Fig.3Spatial distribution of N.lugens'simulated immigrating populations in different migration periods
+
+对褐飞虱迁飞过程No.1（9月30日—10 月 $2$ 日,如图3)进行了详细分析,从沿Line01方向的温度、垂直速度和相对湿度剖面图(图4,图5)上可以看出，福建沿海地区近地面至 $9 2 5 ~ \mathrm { { h P a } }$ 气温约在 $2 2 \%$ 以上， $8 5 0 ~ \mathrm { h P a }$ 气温约在16- $1 8 \mathrm { { ^ circ C } }$ 。该地区有较适宜的温度和相对湿度条件，尤其在高空 $9 2 5 \ \mathrm { h P a }$ 高度上相对湿度大于$70 \%$ ,更宜于褐飞虱向该地区的迁入。在( $\mathrm { 1 1 7 } . 5 ^ { \circ } \mathrm { E } , 2 4 . 0 ^ { \circ } \mathrm { N } )$ 至 $\langle 1 1 9 . 5 ^ { \circ } \mathrm { E } , 2 6 . 3 ^ { \circ } \mathrm { N } \rangle$ 剖面附近，有较强的下沉气流,非常有利于褐飞虱的降落,且福建沿海地区降水明显,降水胁迫的动力拖电作用也是此次福建地区褐飞虱集中降落的主要原因。而实际上这一时段福建沿海地区各植保站均有较多的褐飞虱降落。从沿Line02方向的温度、垂直速度和相对湿度剖面图(图4,图5)上可以看出,江西中部和北部稻区近地面气温低于 $2 4 ^ { \circ } \mathrm { C }$ ,925hPa 温度低于 $2 0 ^ { \circ } \mathrm { C }$ 。该地区相对湿度较小,除中部略偏南的小范围区域 $9 2 5 \ \mathrm { h P a }$ 相对湿度大于 $60 \%$ 以外,其它区域均小于 $5 0 \%$ ,温度和相对湿度条件都不是很好,不适宜于褐飞虱的迁入。虽然江西中部 $1 6 ^ { \circ } \mathrm { C }$ 层(迁飞层顶)可达 $1 7 5 0 \ \mathrm { m }$ （即 $8 2 5 \ \mathrm { h P a }$ ),并有一片弱下沉气流区,但由于其温度和下沉气流条件均不如Line01、Line03 所经地区,因此,褐飞虱降落的热力和动力条件不如福建沿海稻区和湘西南地区。从沿 Line03 的温度、垂直速度和相对湿度剖面图(图4,图5)上可以看出,湖南西南部稻区近地面至 $9 2 5 ~ \mathrm { { h P a } }$ 气温均在 $2 0 \%$ 以上， $9 2 5 \mathrm { { \ h P a } }$ (最适迁飞层)气温约在20一 $2 2 \%$ ,且相对湿度约为 $5 0 \% - 7 0 \%$ ,温湿条件非常适宜于褐飞虱的迁入； $\left( 1 1 1 . 0 ^ { \circ } \mathrm { E } , 2 6 . 1 ^ { \circ } \mathrm { N } \right)$ 附近剖面有较强的下沉气流区。较之湖南东部地区,湖南西部近地面和 $9 2 5 \ \mathrm { h P a }$ 的气温更适宜,下沉气流更强,更适宜于褐飞虱的降落。其它迁飞过程也能得到类似的结论(其温度、垂直速度和相对湿度的剖面图略）。
+
+研究发现,褐飞虱迁入虫量在近地面温度高于 $2 6 ^ { \circ } \mathrm { C }$ 、相对湿度( $9 2 5 \ \mathrm { h P a } ,$ 大于 $70 \%$ 且下沉气流较强的地区分布最多，其次是近地面温度为 $2 4 - 2 6 ^ { \circ } \mathrm { C }$ 、相对湿度( $9 2 5 ~ \mathrm { h P a } \$ 介于 $70 \%$ 和 $5 0 \%$ 之间且下沉气流较强的地区。而在近地面温度低于 $2 4 ^ { \circ } \mathrm { C }$ 、相对湿度( $9 2 5 ~ \mathrm { h P a }$ )小于 $5 0 \%$ 、无明显下沉气流的地区未发现有褐飞虱种群的迁入。通过模拟2009年9月30日至10月7日的褐飞虱南迁过程,发现迁飞轨迹和迁入虫量的模拟结果与同期实际褐飞虱灯诱虫量的变化有较好的一致性（表3）。
+
+![](images/4e60e1f4e90f5756c1543cbb8e0e6352222b1f1df00ee65141f60284df2ff970.jpg)  
+图4迁飞过程No.1的温度和垂直速度剖面图(9月30日—10月2日，剖线如图3所示)
+
+![](images/ffd2ae2c71abcf8cc5db1d633a5f419fbf7acc0b5f95579aab07d597a9e7ca4d.jpg)  
+Fig.4Paterns of temperature and vertical velocity during 30th Sep.-2nd Oct.(Section line as shown in Fig.3)   
+图5迁飞过程No.1的相对湿度剖面图(9月30日—10月2日，剖线如图3所示)  
+Fig.5Pattern of relative humidity during 30th Sep.- 2nd Oct.(Section line as shown in Fig.3)
+
+表3不同区域褐飞虱迁飞环境参数的对比  
+Table 3Comparison on the environmental parameters of N. lugens’migration in different areas   
+
+<html><body><table><tr><td>参数 Parameters</td><td>福建 Fujian</td><td>江西中部和北部 Middle and north part of Jiangxi</td><td>湖北 Hubei</td></tr><tr><td>褐飞虱总迁人量 Total lighting catches of N.lugens</td><td>多(2000—15000头)</td><td>少(0—500头)</td><td>中(500—2000头)</td></tr><tr><td>降水量Precipitation</td><td>多(>30 mm)</td><td>中(3-5mm)</td><td>少(0-3 mm)</td></tr><tr><td>垂直速度(近地层)W-wind speed(Surface layer)</td><td>-3—-12cm/s</td><td>-2—-5cm/s</td><td>-2—-10cm/s</td></tr><tr><td>近地面气温Temperature</td><td>>26℃</td><td><24℃</td><td>24—26℃</td></tr><tr><td>相对湿度(925hPa)Relative humidity（925 hPa)</td><td>>70%</td><td><50%</td><td>70%-50%</td></tr><tr><td>气温（925 hPa) Temperature（925 hPa)</td><td>>22℃</td><td>18-20℃</td><td>21℃</td></tr></table></body></html>
+
+# 3结论与讨论
+
+本研究选取2009年9月30日—10月7日在中国南方地区出现大范围降水的一次褐飞虱重大南迁过程来研究气象要素场对迁飞的影响。期间,福建省沿海地区、江西南部、湖南西南部降水较多且温度较高,江西省中部和北部降水量较少且温度较低,而湖北省只有零星降水却温度较高。利用WRF-Flexpart耦合模式模拟了此次天气过程中褐飞虱迁飞轨迹及其迁人虫量的空间分布。在褐飞虱迁飞过程No.1—No.6（9月 30日—10月7日),湖北地区主要受大气动力胁迫(无降水)和大气热力胁迫的共同作用,有一定量的褐飞虱种群向该地区迁飞和降落。福建沿海地区、江西南部地区和湖南西南部地区受大气动力胁迫（包括降水）大气热力胁迫和大气水分胁迫(相对湿度)的共同作用,有大量的褐飞虱种群向这些地区迁飞和降落。而整个迁飞过程中,江西中部和北部地区有利于褐飞虱种群迁入和降落的大气动力、大气热力和大气水分条件均不是很适宜,虽然在迁飞过程No.1—No.2（9月30日—10月3日)中该地区有少量的降水,但在迁飞过程No.3—No.6(10月2日—10月7日)中该地区却无降水,该地区的地面及低空(常规迁飞层)温度一直较低、相对湿度一直较小,不利于褐飞虱种群向该地区的迁飞和降落。
+
+研究结果表明,风和垂直气流为此次褐飞虱迁飞过程提供了必要的动力条件，是褐飞虱南迁的主要动力因素,风的盛行方向决定了中国褐飞虱秋季回迁的方向，下沉气流是秋季南迁降虫的关键动力因素。其次是湿度条件,由于福建、江西中北部和湖北三地纬度相近，一般无降水情况下低空和近地气层相对湿度相差不大,而此次降水过程却使得3个地区大气湿度分布相差明显,导致降虫分布差异明显,表明大气水分对褐飞虱南迁和降落有着重要的胁迫作用。温度是在春秋过渡季影响褐飞虱迁人和降落的重要条件之一，无论是低空适宜迁飞层还是近地气层,温度在秋季回迁过程中的热力胁迫作用不可忽视,本文的研究还表明：褐飞虱的秋季回迁总是向着温暖而湿润的地方迁飞的,温湿条件共同制约或影响着褐飞虱的迁飞行为,这与江广恒等[17]、程极益等[26]、胡高等[27]和程遐年等[28]的研究结论一致。本文只选取了一个典型的秋季回迁个例,分析了大气物理胁迫对褐飞虱迁飞和降落的影响,普遍的规律、可业务化的气象预警预报指标需要通过大量个例的综合分析、实验观测的验证等来总结、提取、归纳和推广试用。
+
+# 参考文献（References）:
+
+[1］巫国瑞，黄次伟，陶林勇，冯炳灿，陈福云，刘少华，叶志长，陆利全，赵有良.影响褐飞虱猖獗和为害的因素.生态学报，1984,4（2)：157- 166.  
+[2]DrakeVAFaroR.eifuenceoftmoshricstructurandotiosoinsectmigratioAualReviefEntomolog988，3：183-210.  
+［3］李金建.大气背景对褐飞虱灾变性迁入影响的个例研究.南京：南京信息工程大学，2008.  
+[4]RoseegLagoJredictingodisplactsofoatoppr，paatlsfticattadistance displacements in the north-east monsoon. Journal of Animal Ecology，1987,56(1）: 39-51.  
+[5］包云轩，翟保平，程遐年.褐飞虱迁飞参数的数值模拟.生态学报，2005，25(5）：1107-1114.  
+[6］包云轩，程极益，程遐年，储长树，沈桐立.中国盛夏褐飞虱北迁过程的动态数值模拟.昆虫学报，2000,43（2）：176-183./ 包云轩，程极益，程遐年.盛夏褐飞虱北迁大发生的气象背景：个例分析.南京农业大学学报，1999,22(4)：35-40.封传红，翟保平，张孝羲，汤金仪.我国低空急流的时空分布与稻飞虱北迁.生态学报，2002，22(4)：559-565.  
+[9] 包云轩，谢杰，向勇，徐希燕，刘宇.低空急流对中国褐飞虱重大北迁过程的影响.生态学报，2009,29(11)：5773-5782.  
+[10] 沈慧梅，陈晓，胡高，程遐年，张孝羲，翟保平.2008年广西北部湾稻区稻飞虱初迁入过程分析.应用昆虫学报，2011,48（5）：1268-1277.  
+[11]吴秋琳，胡高，陆明红，王标，朱秀秀，粟芳，张仲刚，翟保平.湖南白背飞虱前期迁入种群中小尺度虫源地及降落机制.生态学报，2015，35(22): 7397-7417.  
+[12]TuerR,ongYH,UKBumericalodelulatiosofroplanthoerNlparatalgesdite-backedplantoeaelfurcifera（Hemiptera：Delphacidae）migration.Bulltin of Entomological Research，199,89(6）：557-568.  
+[13]ZhuM,SngYH,UhmKB,TuerRW,LeJH,RoderckGK.Simulatoofthelogngemgationofbroplantoper，prat
+
+lugens（Stal），yusingboudarylaetmosphricodelandtegeogaphicifoationstem.Joualofsia-acificEntomolg(1):25-32.[14]FurunoA,ChinoM,OtukaA,WatanabeT,MatsuuraM,uzukiYDevelopmentofmericalsiulatioodelforlog-rangemigatiofrice planthoppers.Agricultural and Forest Meteorology，2005,133(1/4）：197-209.[15]CengJ,roGltJtesachtoplatotloiZejgrvaItiocontrol strategies.Journal of Applied Ecology，1990,27(1）:100-112.[6]CrumFAtBsicorhfpeald1997,88(1/4):181-197.[17］江广恒，谈涵秋，沈婉贞，程遐年，陈若篪.褐飞虱远距离向南迁飞的气象条件.昆虫学报，1982，25(2)：147-155.[18] 程遐年，张孝羲，程极益.褐飞虱在中国东部秋季回迁的雷达观察.南京农业大学学报，1994，17(3)：24-32.[19] 翟保平.追踪天使—雷达昆虫学30年.昆虫学报，1999，42(3)：315-326.[20] PenderJ.Migratiooftoplatoppr，lratalgs（Stal.）withecialeferecetopticeteoologGra94（）：112-115.[21]StohlA，ForsterC，rankA，SeibertP，WotawaGTechnicalote：TheLagrangianparticledispersionmodelFLEXPARversio6.2.Atmospheric Chemistry and Physics，2005，5：2461-2474.[22] 陈若篪，程遐年.褐飞虱起飞行为与自身生物学节律、环境因素同步关系的初步研究.南京农学院学报/1980，（2）：42-49.[23] 汤国安，杨昕.ArcGIS 地理信息系统空间分析实验教程（第二版).北京：科学出版社，2012.[24] VincentyT.DirectandiversesutiosofgeodesicsoteelipsoidithapicatiofestedquatiosSureyRevie,97,：88-93.[25] Vincenty T.Geodetic Inverse Solution BetweenAntipodalPoints（Technical Report).DMAAC Geodetic Survey Squadron，1975.[26] 程极益，包云轩，樊多琦，王海扣，程遐年.褐飞虱迁飞轨迹研究.南京农业大学学报，1995，18（3)：60-67.[27] 胡高，包云轩，王建强，翟保平.褐飞虱的降落机制.生态学报，2007，27（12）：5068-5075.[28] 程遐年，陈若篪，习学，杨联民，朱子龙，吴进才，钱仁贵，杨金生.稻褐飞虱迁飞规律的研究.昆虫学报，1979,22（1)：1-21.

@@ -1,0 +1,150 @@
+动物外泌体的生物学功能研究进展1
+
+（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193;2.北京农学院，奶牛营养学北京市重点实验室，北京102206)
+
+摘要：外泌体是指不同类型细胞分泌的由磷脂双分子层膜包裹蛋白质、脂质和核酸形成的囊泡结构，能够在细胞间转运蛋白质、脂质和核酸，是介导细胞间通讯的有力载体。外泌体天然存在于各种体液中，如血液、尿液、唾液、脑脊液和乳汁，为其广泛调控机体生理病理过程提供了基础。目前，外泌体在人类恶性肿瘤、自身免疫疾病等方面的研究已非常广泛，但其对动物生理病理调控方面的研究报道较少。近期研究表明，外泌体大量存在于各种哺乳动物的乳中，通过其内含 miRNAs为幼畜提供免疫保护。因此，本文综述了外泌体的生成和来源、生物学功能及分离鉴定的方法，以期为其在畜牧学方面的研究提供参考依据。
+
+关键词：外泌体；生物生成；功能；分离鉴定中图分类号： 文献标识码： 文章编号：
+
+随着生物进化过程，原核生物和真核生物均已进化出简洁而高效的细胞间通讯策略。经典的细胞生物学认为，细胞间通讯有以下2种方式：通过直接接触相互作用或者分泌可溶性因子如激素、生长因子、细胞因子等间接作用。近十多年的研究发现，细胞外囊泡，尤其是外泌体，作为第3种新发现的重要的细胞间通讯载体，能够介导细胞之间蛋白质、脂质和核酸等生物大分子的转运，广泛影响机体的生理病理过程[1]。目前，畜牧学方面外泌体为数不多的研究集中于乳中，林德麟等[2]综述了猪乳、人乳和牛乳中外泌体miRNAs 的异同。miDN^。旦外泌休重画的片物汗性成分被外泌休句重以巨可抵培幼玄胃肠道的消化及血液
+
+1收稿日期：2018-05-07
+
+基金项目：国家自然科学基金项目（31572435，31402107）；国家“十三五”重点研发计划(2016YFD0700205，2016YFD0700201)
+
+作者简介：权素玉（1989-），女，河北平山人，博士研究生，从事反刍动物营养与饲料科学研究。E-mail: quansuyu@163.com
+
+\*同等贡献作者
+
+\*\*通信作者：熊本海，研究员，博士生导师，E-mail：xiongbenhai@caas.cn中 RNase 的分解，通过血液循环运送至免疫器官调控其基因表达，为幼畜提供重要的免疫保护机制[1]。
+
+# 1外泌体的来源及发现
+
+1983年，Pan 等[3]首次发现体外培养的未成熟绵羊网织红细胞在分化过程中可释放由内吞作用产生的多囊泡聚集体，该小囊泡里含有细胞膜转铁蛋白受体，随后，这些多囊泡聚集体被命名为外泌体。最初，研究者认为外泌体是清除细胞膜碎片和淘汰细胞膜表面分子的细胞组分，将被溶酶体彻底降解，不再回到细胞外环境循环利用。也有人认为外泌体是培养基中死细胞膜碎片被分离纯化后的产物。10 年后,Raposo 等[4阐明这些囊泡也可从Epstein Barr病毒侵染的B淋巴细胞分离出来，并具有递呈抗原和诱导T细胞应答的功能。2007年，外泌体内含物RNAs和miRNAs被发现，其作为新的细胞间通讯介质引起了研究者们极大的兴趣[1]。伴随着这些开创性研究的推进，研究者发现包括内皮细胞、平滑肌细胞、免疫细胞在内的多种细胞可分泌外泌体，且外泌体天然存在于各种体液，如血液、尿液、唾液、脑脊液、乳汁等，至此，人们逐渐认识到其在保障动物机体健康成长过程中发挥了重要作用，外泌体在癌症、自身免疫疾病、生理调控等方面的研究如雨后春笋般涌现出来。
+
+# 2外泌体生物生成
+
+细胞外囊泡指的是以进化保守的方式分泌出细胞的含有细胞膜的囊泡，根据其大小、生成方式及组分主要分为3类：1）外泌体，细胞膜逆出芽后在核内体产生，形成多囊泡聚合体后由细胞膜释放，直径 $3 0 { \sim } 1 5 0 ~ \mathrm { n m }$ 。2）细胞微泡，又称细胞膜微粒或者核外颗粒体，以外向出芽的方式由细胞膜裂变产生，直径 $1 0 0 { \sim } 3 5 0 \mathrm { n m }$ 。3）凋亡小体，在细胞凋亡过程中由细胞膜出泡产生，直径 $5 0 0 { \sim } 1 0 0 0 \mathrm { n m } ^ { \left[ 5 \right] }$ 。外泌体的生成起始于含有表面蛋白的细胞膜内向出芽(即内吞作用)形成的早期外泌体。早期外泌体在囊泡分拣蛋白如转运必需核内体复合物（endosomal complex required fortransport，ESCRT）的作用下识别、分类、挑选外泌体内含蛋白生成多囊泡体，或者在神经酰胺的协助下生成多囊泡体，该过程根据是否需要 ESCRT的参与分为ESCRT依赖途径及ESCRT非依赖途径。目前，miRNAs进入外泌体的分选机制尚不明确。生成的多囊泡体一部分被溶酶体降解，一部分与细胞膜融合，释放外泌体。图1为外泌体的生物生成及释放示意图[6-7]。
+
+endocytosis：内吞作用；early endosome：早期外泌体；multivesicular body：多囊泡体;membrane fusion：膜融合；original cell：来源细胞；recipient cell:受体细胞；surface protein:膜表面蛋白；exosome：外泌体。
+
+![](images/b02d5fe452ce3087f53cb0d051ec29e3c14457250af02d9928619b89fb519424.jpg)  
+图1外泌体的生物生成及释放  
+Fig.1The biogenesis and release of exosome
+
+3外泌体主要组分及功能
+
+# 3.1 蛋白质及相关功能
+
+分析外泌体的生物组成时，人们惊奇地发现其内含蛋白的变化范围非常有限，它不含核蛋白、线粒体蛋白、内质网蛋白及高尔基体蛋白。所有已发现的外泌体蛋白均来源于细胞溶质、内吞小泡或细胞膜。与其来源细胞相比，外泌体不仅仅是细胞膜碎片，因为其内蛋白不含一些在膜表面表达丰富的蛋白，如树突状细胞Fc 受体[]、T细胞CD28[9]、CD40L、CD45、B 细胞转铁蛋白受体[10]。无论其分泌细胞是什么，多数外泌体的内含蛋白种类相似，只有小部分蛋白是细胞特异性的，这部分特异蛋白可反映出其分泌细胞的生理病理状态[1]。典型的外泌体蛋白包括血小板来源生长因子受体、乳凝集素、跨膜蛋白、溶酶体相关膜蛋白-2B、膜转运及融合蛋白如泛素、GTPases、热休克蛋白、脂相关蛋白、磷脂酶等[12]。外泌体中一
+
+些富含的蛋白通常作为其标志物，包括四分子交联体家族成员9（CD9、CD63、CD81和CD82），14-3-3 蛋白，MHC 分子细胞质蛋白如热休克蛋白（HSPs）、Tsg101及ESCRT-3 结合蛋白Alix)。D9、CD63 和CD81最初被认为是外泌体特有标记物，但现已发现其也存在于凋亡小体和细胞微泡[13]。  
+由于外泌体携带大量可变的特殊蛋白，其所携带的蛋白可决定其在不同通路中的功能，因此外泌体被视为矢量信号小泡。外泌体膜外暴露的受体或配体负责使其定位到特定的细胞或细胞外区域。随后，外泌体可通过与靶细胞膜表面受体或配体结合或内化激活胞内信号通路或改变其细胞表型[14]。特殊的外泌体蛋白如 MHCI分子、MHC ⅡI分子、转铁蛋白受体在一些信号通路下游非常活跃，如整合蛋白及Ca+信号通路[15]、丝裂原活化蛋白激酶(MAPK)信号通路及自然杀伤细胞群 2D（NKG2D)信号通路[16]。诸如HSP60、HSP70 这样的 HSPs及主要存在于免疫细胞膜的表面受体 CD14、CD91、Toll 样受体(TLR)-2、TLR-4 和氧化低密度脂蛋白受体-1(LOX-1)，CD94/CD56 就是经典的配体-受体相结合的模型[17]。  
+除了通过膜表面蛋白介导细胞间通讯作用外，外泌体还携带一些重要的可溶性蛋白介质，如细胞因子。外泌体相关细胞因子转运最为熟知的例子是白细胞介素(IL)-1β，IL-1β不仅可在分泌性溶酶体与细胞膜融合后释放，也可由外泌体产生[18]。与IL-1β相似，IL-18 也属于无 N-末端信号肽，在受到炎症复合物的激活后被外泌体携带由巨噬细胞表面分泌出来[19]。趋化因子是一类非常重要的独特的细胞因子，研究发现趋化因子IL-8(CXCL8)和CX3CL1可由凋亡的淋巴细胞外泌体分泌[20]。
+
+# 3.2 RNA及相关功能
+
+2007年，首次发现小鼠和人肥大细胞外泌体均含有mRNAs和miRNAs，并且可转移到受体细胞，在受体细胞发挥生理功能。外泌体的来源和不同的检测方法都会引起最终得到的RNA 的种类和含量的差异。测序分析表明，在人类血浆外泌体RNA中，miRNAs的含量是最丰富的，约 593 种，5 种最常见的 miRNAs:miR-99a-5p、miR-128、miR-124-3p、miR-22-3p和 miR-99b-5p占了总量的 $4 8 . 9 9 \%$ ，核糖体RNA占 $9 . 1 6 \%$ ，长链非编码RNA 占 $3 . 3 6 \%$ ，piwi蛋白互作 RNA 占 $1 . 3 1 \%$ ，转运RNA占 $1 . 2 4 \%$ ，核小RNA占 $0 . 1 8 \%$ ，核仁小RNA 占 $0 . 0 1 \% ^ { [ 2 1 ] }$ 。HeLa 细胞培养基来源外泌体含有多种 RNA：miRNAs、mRNAs、rRNA、tRNA、piRNA、RefSeq 和 ncRNA[22]。
+
+外泌体为其内含脂质、蛋白质、RNA（尤其是mRNAs和miRNAs）提供了保护，使其免受酶类降解，并通过内吞作用为其内含成分提供了进入细胞的途径。人间充质干细胞来源的外泌体约含有 239 种 mRNAs，多数与细胞增殖分化和免疫调节密切相关，其中的 2个mRNA可在鼠体内外肾上皮细转胞翻译为完整的蛋白质，表明外泌体可转移有活性的mRNAs[23]。肥大细胞在氧化应激状态和正常状态下外泌体所携带的mRANs 含量差异显著，表明外泌体所摄取的mRANs受到细胞的生理状态和应激的调节，可能在维持组织内稳态方面发挥重要作用[24]。同样，心肌细胞外泌体所携带的mRANs 受到了生长因子的调控[25]，神经胶质细胞在低氧环境下外泌体携带的mRANs 和蛋白均受到影响[26]，表明外泌体转运mRANs的功能与动物细胞的生理状态密切相关。
+
+外泌体中的miRNAs 可通过血液循环运输而不被血液中的RNA 酶降解，是外泌体介导细胞间通讯的基础。miRNAs 长度为 $1 8 { \sim } 2 5 ~ \mathrm { n t }$ ，最初转录产物为带发卡结构的pri-miRNAs，Drosha 释放出 pri-miRNAs 的发卡结构形成 pre-miRNAs,Dicer负责清除 pre-miRNAs上3'和5'臂上的环状结构形成 miRNAs 双链，miRNAs 双链与Ago 蛋白结合，丢弃随从链，向导链与 miRNAs诱导沉默复合体（miRISC）互补，最终形成成熟的miRNAs以调控目标mRNA的表达[27]。选择性降解外泌体中部分miRNAs 是一种潜在的快速调节基因表达的方式，也是一种抑制癌细胞扩散可能的手段。
+
+外泌体介导的miRNAs 转运与细胞的免疫功能相关。在免疫细胞突触形成过程中，T细胞来源的外泌体携带的miRNAs,如miR-335单向转移进入抗原递呈细胞调节其基因表达[28]。乳源外泌体能够抑制 Anti-CD3 和Anti-PHA 诱导的细胞因子的产生，增加调节性T细胞特异性群组的数量[29]。免疫相关miRNAs（miR181a 和miR-17）在人分娩后最初的6个月乳外泌体中高表达，表明外泌体可介导miRNAs在母体和婴儿之间的传递，对婴儿免疫系统的发育可能有重要影响[30]。
+
+# 3.3 脂质及相关功能
+
+外泌体脂质对于囊泡发挥其生理功能有重要作用。尽管不同来源的外泌体脂质组成成分不同，但与其来源细胞相比，都含有丰富的鞘磷脂、胆固醇和鞘糖脂。大量的鞘磷脂和胆固醇能够巩固外泌体结构，提高其对不良理化环境的抗性[31]。另外，外泌体膜双分子层结构也有利于其在不同的细胞外环境中保持稳定性。外泌体稳定性的研究对外泌体载体药物的开发
+
+有重要意义。
+
+4 外泌体分离鉴定
+
+目前已鉴定出各类细胞外囊泡的一些特点，但仍缺乏一种被广泛接受的分类标准。典型的分离方法并不能准确区分开或者纯化各种囊泡，只能得到多囊泡复合体，因此，多种技术联合使用，如差速离心、密度梯度离心、过滤、排阻色谱等能够得到相对单一的囊泡[32]。目前主要存在以下几种外泌体分离纯化技术：超速离心法、基于大小分离法、免疫亲和性捕捉法、外泌体沉淀法[33]。
+
+超速离心法是分离外泌体的标准方法，该方法操作简单，技术难度低，耗时不长，样品无需预处理，但由于外泌体的不均一性及大小与其他细胞外囊泡重合，该方法分离得到的外泌体会含有其他的细胞外囊泡[34]。Thery 等[35]详细介绍了提取细胞培养基上清液及各种生物体液如尿液、血浆、血清、腹水等外泌体的步骤，是目前分离外泌体最经典的方法。超滤法是基于大小分离外泌体较为常用和成熟的技术，其原理是利用限制特定分子重量和大小的超滤膜将其分离。超滤比超速离线节约时间，也不需要特殊的仪器设备，但超滤时施加的压力比较大，导致体积大的囊泡变形和破裂，可能影响后续的分析结果[36]。外泌体膜表面存在大量的蛋白质和受体，可通过这些蛋白质与抗体的特异性结合开发免疫亲和性分离技术[34]，诸如CD63这样存在于外泌体表面的特异性蛋白分子为复杂样品分离外泌体提供了策略。外泌体的鉴定需要通过电子显微镜来进行形态学观察。对于组织细胞来说，标准的电子显微镜制片过程包括固定、脱水、包埋、切片，而这一过程不适用于外泌体，因为在脱水及包埋过程中会损坏外泌体膜，因此，外泌体的制片需要特殊的方法[28]。当在电子显微镜下观察时，外泌体呈典型的杯状形态，直径为 $3 0 { \sim } 1 5 0 ~ \mathrm { n m }$ ，扁平球状[37]。外泌体进一步鉴定需要蛋白质组学分析、Western Blot、FACS等手段的辅助。
+
+# 5小结
+
+外泌体于1983 年首次被发现，其后十多年里一直被当做细胞废弃物从而忽略了这方面的研究。近年来，人们逐渐认识到了外泌体不仅可介导细胞间通讯，而且对机体生理病理过程有重要影响。鉴于外泌体在维持动物内稳态平衡中的重要作用，其在动物疾病发生发展过程中的作用不言而喻，目前尚需这方面的研究。
+
+参考文献：
+
+[1]VALADI H,EKSTR M K,BOSSIOS A,et al.Exosome-mediated transfer of mRNAs and microRNAs is a novel mechanism of genetic exchange between cells[J].Nature Cell Biology,2007,9(6):654-659.
+
+[2]林德麟,陈婷,黎梦,等.乳中miRNA 的研究进展[J].畜牧兽医学报,2016,47(9):1739-1748.
+
+[3]PAN B T,JOHNSTONE R M.Fate of the transferrin receptor during maturation of sheep reticulocytes in vitro:selective externalization of the receptor[J].Cell1983,33(3):967-978 [4]RAPOSO G,NIJMAN H W,STOORVOGEL W,et al.B lymphocytes secrete antigen-presenting vesicles[J].Journal of Experimental Medicine,1996,183(3):1161-1172.
+
+[5]COCUCCI E,MELDOLESI J.Ectosomes and exosomes:shedding the confusion between extracellular vesicles[J].Trends in Cell Biology,2015,25(6):364-372.
+
+[6] ZEMPLENI J,AGUILAR-LOZANO A,SADRI M,et al.Biological activities of extracellular vesicles and their cargos from bovine and human milk in humans and implications for infants[J].The Journal of Nutrition,2016,147(1):3-10.
+
+[7]FUJITA Y,KOSAKA N,ARAYA J,et al.Extracellular vesicles in lung microenvironment and pathogenesis[J].Trends in Molecular Medicine,2015,21(9):533-542.
+
+[8] TH RY C,BOUSSAC M,V RON P,et al.Proteomic analysis of dendritic cell-derived exosomes:a secreted subcellular compartment distinct from apoptotic vesicles[J].The Journal of Immunology,2001,166(12):7309-7318.
+
+[9]BLANCHARD N,LANKAR D,FAURE F,et al.TCR activation of human T cells induces the production of exosomes bearing the TCR/CD3/§ complex[J].The Journal of Immunol0gy,2002,168(7):3235-3241.
+
+[10]CLAYTON A,COURT J,NAVABI H,et al.Analysis of antigen presenting cell derived exosomes,based on immuno-magnetic isolation and flow cytometry[J].Journal of Immunological Methods,2001,247(1/2):163-174.
+
+[11]KELLER S,SANDERSON M P,STOECK A,et al.Exosomes:from biogenesis and secretion to biological function[J].Immunology Letters,2006,107(2):102-108.
+
+[12]SUBRA C,GRAND D,LAULAGNIER K,et al.Exosomes account for vesicle-mediated transcellular transport of activatable phospholipases and prostaglandins[J].Journal of Lipid Research,2010,51(8):2105-2120.
+
+[13] WITWER K W,BUZ S E I,BEMIS L T,et al.Standardization of sample collection,isolation and analysis methods in extracellular vesicle research[J].Journal of Extracellular Vesicles,2013,2(1):20360.
+
+[14]MATHIVANAN S,FAHNER C J,REID G E,et al.ExoCarta 2012:database of exosomal proteins,RNA and lipids[J].Nucleic Acids Research,2011,40(D1):D1241-D1244.
+
+[15]CLAYTONA,TURKES A,DEWITT S,et al.Adhesion and signaling by B cell-derived exosomes:the role of integrins[J].The FASEB Journal,2004,18(9):977-979.
+
+[16]VIAUD S,TERME M,FLAMENT C,et al.Dendritic cell-derived exosomes promote natural killer cel activation and proliferation:a role for NKG2D ligands and IL-15Rα[J].PLoS One,2009,4(3):e4942.
+
+[17]MACARIO A JL,CAPPELLO F,ZUMMO G,et al.Chaperonopathies of senescence and the scrambling of interactions between the chaperoning and the immune systems[J].Annals of the New York Academy of Sciences,2010,1197(1):85-93.
+
+[18]QU Y,FRANCHI L,NUNEZ G,et al.Nonclassical IL- $1 \beta$ secretion stimulated by P2X7 receptors is dependent on inflammasome activation and correlated with exosome release in murine macrophages[J].The Journal of Immunology,2007,179(3):1913-1925.
+
+[19] GULINELLI S,SALARO E,VUERICH M,et al.IL-18 associates to microvesicles shed from human macrophages by a LPS/TLR-4 independent mechanism in response to P2X receptor stimulation[J].European Journal of Immunology,2012,42(12):3334-3345.
+
+[20]TRUMAN L A,FORD C A,PASIKOWSKA M,et al.CX3CL1/fractalkine is released from apoptotic lymphocytes to stimulate macrophage chemotaxis[J].Blood,2008,112(13):5026-5036.
+
+[21]HUANG X Y,YUAN T Z,TSCHANNEN M,et al.Characterization of human plasma-derived exosomal RNAs by deep sequencing[J].BMC Genomics,2013,14:319.
+
+[22] SCHAGEMAN J,ZERINGER E,LI M,et al.The complete exosome workflow solution:from isolation to characterization of RNA cargo[J].BioMed Research International,2013,2013:253957.
+
+[23] BRUNO S,GRANGE C,DEREGIBUS MC,et al.Mesenchymal stem cell-derived microvesicles protect against acute tubular injury[J].Journal of the American Society of Nephrol0gy,2009,20(5):1053-1067.
+
+[24]ELDH M,EKSTR M K,VALADI H,et al.Exosomes communicate protective messages during oxidative stress;possible role of exosomal shuttle RNA[J].PLoS One,2010,5(12):e15353.
+
+[25]GENNEB CK N,HELLMAN U,MALM L,et al.Growth factor stimulation of cardiomyocytes induces changes in the transcriptional contents of secreted exosomes[J].Journal ofExtracellular Vesicles,2013,2(1):20167.
+
+[26]KUCHARZEWSKA P,CHRISTIANSON H C,WELCH J E,et al.Exosomes reflect the hypoxic status of glioma cells and mediate hypoxia-dependent activation of vascular cells during tumor development[J].Proceedings of the National Academy of Sciences of the United States of America,2013,110(18):7312-7317.
+
+[27]SCHIRLE N T,SHEU-GRUTTADAURIA J,MACRAE I J.Structural basis for microRNA targeting[J].Science,2014,346(6209):608-613.
+
+[28]MITTELBRUNN M,GUTI RREZ-V ZQUEZ C,VILLARROYA-BELTRI C,et al.Unidirectional transfer of microRNA-loaded exosomes from T cells to antigen-presenting cells[J].Nature Communications,2011,2:282.
+
+[29]TAYLOR D D,AKYOL S,GERCEL-TAYLOR C.Pregnancy-associated exosomes and their modulation of T cell signaling[J].The Journal of Immunology,2006,176(3):1534-1542.
+
+[30]KOSAKA N,IZUMI H,SEKINE K,et al.microRNA as a new immune-regulatory agent in breast milk[J].Silence,2010,1(1):7
+
+[31]RECORD M,CARAYON K,POIROT M,et al.Exosomes as new vesicular lipid transporters involved in cell-cell communication and various pathophysiologies[J].Biochimica et Biophysica Acta (BBA)-Molecular and Cell Biology of Lipids,2014,1841(1):108-120.
+
+[32] KALRA H,ADDA C G,LIEM M,et al.Comparative proteomics evaluation of plasma exosome isolation techniques and assessment of the stability of exosomes in normal human blood plasma[J].Proteomics,2013,13(22):3354-3364.
+
+[33]SHARMA A,KHATUN Z,SHIRAS A.Tumor exosomes:cellular postmen of cancer diagnosis and personalized therapy[J].Nanomedicine,2016,11(4):421-437.
+
+[34]ZAROVNI N,CORRADO A,GUAZZI P,et al.Integrated isolation and quantitative analysis of exosome shuttled proteins and nucleic acids using immunocapture
+
+approaches[J].Methods,2015,87:46-58.
+
+[35]TH RY C,AMIGORENA S,RAPOSO G,et al.Isolation and characterization of exosomes from cel culture supernatants and biological fluids[J].Current Protocols in Cell Biology,2006,30(1):3.22.1-3.22.29.
+
+[36]BATRAKOVA E V,KIM M S.Using exosomes,naturally-equipped nanocarriers,for drug delivery[J].Journal of Controlled Release,2015,219:396-405.
+
+[37]LOBB R J,BECKER M,SHU W W,et al.Optimized exosome isolation protocol for cell culture supernatant and human plasma[J].Journal of Extracellular Vesicles,2015,4(1):27031.
+
+Advances in Biological Functions ofAnimal Exosomes QUAN Suyu1NAN Xuemeil\* JIANG Linshu²XIONG Benhail\*\* (1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agriculture Sciences,Beijing 100193, China; 2. Beijing Key Laboratory for Dairy Cow Nutrition, Beijing University of Agriculture, Beijing 102206, China)
+
+Abstract: Exosomes, internal proteins, lipids,and nucleic acids coated by phospholipid bilayer membranes， are one type of small extracellular vesicles， which can mediate cell-cell communication. Exosomes are naturally present in many kinds of body fluids, such as blood, urine, saliva,cerebrospinal fluid and milk, which can provide a basis for their extensive regulation of physiological and pathological processes. Currently, exosomes have been extensively studied in human malignant tumor and autoimmune diseases, but the researches on animal physiology and pathology are less. Recent studies have shown that exosomes are abundant in the milk of various mammals and they provide immunological protection for infants through miRNAs. The origin, biological functions and methods of isolation and identification of exosomes were reviewed, hoping to provide reference for its researches on animal husbandry.   
+Key words: exosomes; biogenesis; function; separation and identification

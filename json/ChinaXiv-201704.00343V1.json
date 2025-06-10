@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201511162320 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴浩浩,徐星凯,段存涛,李团胜,CHENG WeiGuo.森林土壤融化期异养呼吸和微生物碳变化特征.生态学报,2017,37（8):2729-2742. WuHH,XuX,DanCT,LiTengWagsieterorocespiriodcobialoasboofforestlcta Ecologica Sinica,2017,37(8) :2729-2742. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林土壤融化期异养呼吸和微生物碳变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴浩浩1,²，徐星凯1,2，\\*,段存涛1，李团胜³,CHENGWeiGuo ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院大气物理研究所大气边界层物理和大气化学国家重点实验室，北京100029  \n2中国科学院大学地球科学学院大气化学与环境科学系，北京100049  \n3长安大学地球科学与资源学院，西安710054  \n4Faculty of Agriculture，Yamagata University，Tsuruoka 997-8555，Japan",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;采用室内土柱培养的方法,研究在不同湿度( $5 5 \\%$ 和 $8 0 \\%$ WFPS,土壤充水孔隙度)和不同氮素供给( $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 和 $\\mathrm { K N O } _ { 3 }$ $4 . 5 \\mathrm { ~ g ~ }$ （204号$\\mathrm { N } / \\mathrm { m } ^ { 2 }$ )条件下，外源碳添加（葡萄糖， $6 . 4 \\mathrm { \\ g } \\mathrm { \\ C } / \\mathrm { m } ^ { 2 }$ )对温带成熟阔叶红松混交林和次生白桦林土壤融化过程微生物呼吸和微生物碳的激发效应。结果表明：在整个融化培养期间,次生白桦林土壤对照 $\\mathrm { C O } _ { 2 }$ 累积排放量显著高于阔叶红松混交林土壤。随着土壤湿度的增加,次生白桦林土壤对照 $\\mathrm { C O } _ { 2 }$ 累积排放量和微生物代谢熵( $\\left( { { q } _ { \\mathrm { { C O } } _ { 2 } } } \\right)$ )显著降低,而阔叶红松混交林土壤两者显著地增加（ $P { < } 0 . 0 5 )$ 。两种林分土壤由葡萄糖(Glu)引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量 $( 9 . 6 1 { - } 1 3 . 4 9 \\ \\mathrm { g \\ C / m ^ { 2 } } )$ 显著大于实验施加的葡萄糖含碳量(6.4$\\mathrm { ~ g ~ C ~ } / \\mathrm { m } ^ { 2 }$ ),同时由Glu 引起的土壤微生物碳增量为 $3 . 6 5 { - } 2 7 . 1 8 \\ \\mathrm { g \\ C / m } ^ { 2 }$ ,而施加Glu 对土壤DOC 含量影响较小。因此,这种由施加Glu引起的额外碳释放可能来源于土壤固有有机碳分解。融化培养结束时,阔叶红松混交林土壤未施氮处理由Glu引起的$\\mathrm { C O } _ { 2 }$ 累积排放量在两种湿度条件下均显著大于次生白桦林土壤( $\\scriptstyle P < 0 . 0 0 1$ );随着湿度的增加，两种林分土壤Glu引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量显著增大( $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { ~ . ~ } }$ )。单施 ${ \\mathrm { K N O } } _ { 3 }$ 显著地增加两种湿度的次生白桦林土壤 $\\mathrm { \\ G l u }$ 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量( $_ { \\tiny { P < 0 . 0 1 } \\rangle }$ 。单施 $\\mathrm { K N O } _ { 3 }$ 显著地增加了两种湿度次生白桦林土壤Glu引起的微生物碳( $P { < } 0 . 0 0 1 \\rangle$ ，单施 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 显著地增加低湿度阔叶红松混交林土壤Glu引起的微生物碳( $\\scriptstyle P < 0 . 0 0 1$ )。结合前期报道的未冻结实验结果,发现冻结过程显著地影响外源Glu对温带森林土壤微生物呼吸和微生物碳的刺激效应( $P { < } 0 . 0 5 )$ ,并且无论冻结与否,温带森林土壤微生物呼吸和微生物碳对外源Glu的响应均与植被类型、土壤湿度、外源氮供给及其形态存在显著的相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微生物呼吸;微生物碳;葡萄糖;外源氮;溶解性有机碳;激发效应;冻土融化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changes in heterotrophic respiration and microbial biomass carbon of forest soils during thaw ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Haohao1,²，XU Xingkai $^ { 1 , 2 , * }$ ，DUAN Cuntao’，LI Tuansheng³，CHENG Weiguo ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKybtftsoericstrstiosci，edeec， Beijing 100029,China   \n2DepartmentoftmospcChemistdEiromentalScience，CollgofartheeUniversitofCineseAcademyofSciencsen 100049，China   \n3 College of Earth Science and Resources，Chang'an University，Xi'an 710o54，China   \n4Faculty of Agriculture， Yamagata University， Tsuruoka 997-855，Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Packed soil core incubation experiment was made to studythe effects of external carbon（C）（glucose, $6 . 4 \\mathrm { ~ g ~ C ~ }$ $\\mathbf { m } ^ { 2 }$ ）aditionon microbial respirationand microbial biomassC（MBC）in soilsof a mature broadleaf and Korean pine mixed forest（BKPF）and an adjacent white birch forest（WBF）during thaw under different soil moisture levels ( $5 5 \\%$ and $80 \\%$ （204号 water-filled pore space）and nitrogen（N） supply（ $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ and $\\mathrm { K N O } _ { 3 }$ ， $4 . 5 \\mathrm { ~ g ~ N ~ } / \\mathrm { m } ^ { 2 }$ ). The results showed that，without C and N addition，cumulative $\\mathrm { C O } _ { 2 }$ flux from the WBF soil was significantly higher than that from the BKPF soil during the incubation period. With increasing soil moisture,the cumulative $\\mathrm { C O } _ { 2 }$ flux and microbial metabolic quotient $\\left( q _ { \\mathrm { C O _ { 2 } } } \\right)$ decreased in the WBF soil but increased in the BKPF soil without C and N addition( $P < 0 . 0 5 )$ .The glucose-induced cumulative $\\mathrm { C O } _ { 2 }$ fluxes from the two forest soils ranged from 9.61 to $1 3 . 4 9 \\mathrm { ~ g ~ C O } _ { 2 } – \\mathrm { C } / \\mathrm { m } ^ { 2 }$ ，which was greater than the dose of added C in the form of glucose.The glucose-induced MBC in the two forest soils ranged from 3.65 to $2 7 . 1 8 \\mathrm { ~ g ~ C ~ } / \\mathrm { m } ^ { 2 }$ ，while glucose addition had little impactonsoil dissolvedorganic Cpool.Hence,theextra Creleased upon aditionof glucose mayresult fromthe decompositionof soil native organic C.WithoutNaditionand underthe twosoil moisture levels，theglucose-induced cumulative $\\mathrm { C O } _ { 2 }$ flux from the BKPF soil was significantly higher than that from the WBF soil during thaw（ $P < 0 . 0 0 1$ ). With increasing soil moisture， the glucose-induced cumulative $\\mathrm { C O } _ { 2 }$ fluxes from the two forest soils were significantly increased ( $P < 0 . 0 0 1$ ). The addition of $\\mathrm { K N O } _ { 3 }$ alone significantly increased the glucose-induced cumulative $\\mathrm { C O } _ { 2 }$ flux ( $\\boldsymbol { P } <$ 0.01）and the glucose-induced MBC（ $P < 0 . 0 0 1$ ）in the WBF soil under two soil moisture levels ( $P < 0 . 0 0 1$ ).Addition of $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ alone significantly increased the glucose-induced MBC inthe BKPF soil with low moisture level.Based on the results fromthe previouslyreported non-frezing experimentsand theresultsofthe presentstudy，itcanbeconcluded that frezing treatmentsignificantlyafects thestimulating efectsof glucoseonsoil microbial respirationandMBCunder temperate forests.Regardlessof whetherfreezingoccurredornot,theresponses of soilmicrobialrespirationand MBC totheaditionof extraneousCasglucose in temperate forestsdependon vegetation type，soil moisture,andtheamountand typeof Nadded. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：microbial respiration；microbial biomasscarbon；glucose；nitrogen supply；disolvedorganiccarbon； stimulating effect；thawing of frozen soil ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冻结过程中土壤微生物和细根的死亡以及团聚体的破碎，有利于土壤速效碳的堆积，从而可能刺激冻结后土壤融化过程中二氧化碳( $\\mathrm { C O } _ { 2 }$ )的释放[1-6]。但也有室内培养实验[7-9]和野外观测[10-11]发现冻结土壤融化过程中未出现二氧化碳激发排放。冻结土壤融化过程中是否存在 $\\mathrm { C O } _ { 2 }$ 激发排放，可能与冻结条件、土壤湿度、有效性碳和氮含量及相关微生物特性有关[5,12-5]。目前仍不明确冻结后土壤有效性碳和氮释放量增加是否影响融化过程土壤微生物呼吸和微生物量的激发效应。尽管不少研究曾报道了外源碳添加对未冻结土壤有机碳转化和有效碳含量的影响[1-20],但是其激发效应与冻结处理土壤的差异仍缺乏深人的研究。这些将不利于人们深入地认识高纬度和/或高海拔地区冻土融化过程中有机碳分解和微生物量变化规律以及影响机制[3,21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陆地生态系统每年秋季凋落物中存有大量的碳，其大部分会保存到来年春季融化期被复苏的土壤微生物利用[22-23]。研究表明外源碳的添加会促进土壤固有有机碳的分解,进而刺激土壤融化期 $\\mathrm { C O } _ { 2 }$ 的激发排放[24-25]。另外,随着大气氮沉降的日益加剧,春季积雪融化为土壤输入大量氮。但这种氮输入如何影响冻土融化 $\\mathrm { C O } _ { 2 }$ 排放以及与冻结后凋落物在融雪时碳素输入存在何种交互作用至今仍不清楚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前全球降水格局的变化、植被郁闭度的不同及春季积雪融化等因素导致春季融化过程中土壤湿度存在巨大的时空差异[26],而 Stielstra等[15]认为土壤湿度是控制冬季森林土壤 $\\mathrm { C O } _ { 2 }$ 排放的最重要因子。有研究表明[5,21,27]冻土融化过程 $\\mathrm { C O } _ { 2 }$ 排放量随着土壤湿度的增加而增加,而 Teepe 等[29]的培养实验却显示：随着土壤湿度的增加 $( 4 2 \\% { \\mathrm { - } } 7 6 \\% \\mathrm { { W F P S } }$ ,土壤充水孔隙度），冻土融化过程中 $\\mathrm { C O } _ { 2 }$ 排放量减少。因此,土壤湿度对冻结土壤融化过程中 $\\mathrm { C O } _ { 2 }$ 排放的影响仍存在不确定性,而且积雪融化引起的氮输入和土壤湿度的变化如何交互影响外源碳对冻土融化过程 $\\mathrm { C O } _ { 2 }$ 排放的刺激效应鲜有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国东北长白山地区每年11月末到次年3月初期间,日平均气温和土壤表面日均温度通常为-5—$- 3 0 \\mathrm { { ^ { \\circ } C } }$ ,每年土壤冻结深度高达 $1 . 0 \\mathrm { m } ^ { \\left[ 5 \\right] }$ ,这可能深刻影响到该地区每年春末融化期陆地土壤碳素循环关键过程。不幸的是，以往实验室研究多数关注适度冻结处理 $( - 3 \\mathrm { - } 1 3 ^ { \\circ } \\mathrm { C }$ )和频繁冻融干扰下土壤微生物呼吸和/或微生物量的变化[1,2.28],对于长期严重冻结后土壤融化过程的实验报道甚少。阔叶红松混交林为长白山地区地带性森林演替顶级群落,由于植被覆盖度和趋光性差异,该林分地表微环境水热条件明显有别于临近的次生白桦林。次生白桦林是阔叶红松混交林被破坏后的次生裸地上首先发生的先锋群落,在东北地区分布广泛。这种土地覆盖类型的转换可导致两种林分土壤有明显不同碳和氮有效性[19,29]。尽管以前曾报道干土湿润过程两种林分土壤微生物呼吸和微生物量对外源碳和氮添加的响应[19],然而,外源碳对这两种林分土壤深度冻结后融化过程中 $\\mathrm { C O } _ { 2 }$ 排放的刺激效应及其对土壤湿度和外源氮的响应至今仍不清楚,这将不利于人们对东北地区林地土壤固碳能力未来变化趋势的合理评估,尤其是非生长期森林土壤微生物呼吸和微生量对环境变化的响应[30]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于此,本文以中国东北长白山地区阔叶红松混交林及其临近的次生白桦林土壤为研究对象,通过室内模拟土柱培养的方法,来研究(1)土壤湿度、外源碳和氮添加对不同演替阶段两种林分土壤融化过程微生物呼吸、溶解性有机碳及微生物碳含量影响的单一和交互作用;(2)结合土壤活性碳、氮含量等属性的变化,分析外源碳添加对森林土壤融化过程微生物呼吸刺激效应的主要影响机制;（3)结合以前报道的未冻结实验结果,综合评价外源碳对森林土壤微生物呼吸和微生物量的刺激效应,为正确认识森林土壤有机碳矿化以及碳氮耦合效应提供支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区域的概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区域位于中国科学院长白山森林生态系统定位站附近 $( 4 2 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { N } , 1 2 8 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E } )$ ,地势平坦,平均海拔高度为 $7 3 8 \\mathrm { ~ m ~ }$ ,年均气温约为 $4 . 1 \\%$ ,年均降水量约为 $7 5 0 ~ \\mathrm { m m }$ ,属典型的温带大陆性气候;地下水位约为 $9 \\mathrm { ~ m ~ }$ 。土壤为火山灰发育的温带森林暗棕壤,剖面土壤属性见文献[31]。选择该区域成熟阔叶红松混交林及临近的次生白桦林为目标林地,阔叶红松混交林平均树龄近200a,林分为复层结构,平均株高 $2 5 \\mathrm { ~ m ~ }$ ,郁闭度0.8；白桦林为天然次生林,树龄 70a 左右,平均树高 $1 3 \\mathrm { ~ m ~ }$ ,郁闭度0.6,林分结构简单[32]。两种林分土壤容重及研究区域土壤冻结深度、日平均气温和降雪量等气象资料参见文献[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤采集与属性测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品于2012年10月采集,去除地面有机覆盖物后,用土钻取两种林分0— $1 0 \\ \\mathrm { c m }$ 的表层土带回，过$2 \\mathrm { m m }$ 土筛混匀备用。取一部分土壤测定其基本理化性质;剩余土壤用于实验室模拟实验。采用烘干法测定土壤含水量,利用便携式 $\\mathrm { \\ p H }$ 仪（Sartorius,PB10,德国)测定新鲜土壤水浸提液 $\\mathrm { \\ p H }$ （土：液 $= 1 { : } 2 . 5 , w / w )$ 。利用氯仿熏蒸浸提法测定土壤微生物C 和N含量;利用纯水和 $0 . 5 \\mathrm { \\ m o l / L \\ K _ { 2 } S O _ { 4 } }$ 溶液浸提土壤(土：液 $= 1 { : } 5 , w / w )$ ，SKALAR流动分析仪( $\\mathrm { S A N ^ { + + } }$ ,荷兰)测定土壤浸提液中铵态氮( $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ ）、硝态氮( $N \\mathrm { O } _ { 3 } ^ { - } { \\mathrm { - N } }$ ）、溶解性总氮（TN）和溶解性有机碳(DOC)的含量。根据 TN 与( $\\mathrm { N H _ { 4 } ^ { + } { - } N { + } N O _ { 3 } ^ { - } { - } N }$ )差值,计算土壤溶解性有机氮(DON)含量。根据灭菌前后土壤 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提的DOC 和 TN 含量各自差值除以0.45 分别算出土壤微生物C 和N含量[3-35]。供试土壤基本性质见文献[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤湿度调节与养分添加实验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述两种林分土壤容重构建各自模拟土柱,研究两种湿度水平( $5 5 \\%$ 和 $8 0 \\%$ WFPS）、3种营养源添加及其组合对土壤融化过程 $\\mathrm { C O } _ { 2 }$ 排放量的影响,这里添加的营养源包括：葡萄糖 $\\mathrm { ( G l u , 6 . 4 ~ g ~ C / m ^ { 2 } } .$ ）、氯化铵（ $\\mathrm { N H } _ { 4 } \\mathrm { C l } , 4 . 5 \\mathrm { ~ g ~ N / m } ^ { 2 } ,$ ）、葡萄糖和氯化铵( $\\mathrm { G l u } + \\mathrm { N H } _ { 4 } \\mathrm { C l }$ ）、硝酸钾 $( \\mathrm { \\ K N O } _ { 3 } , 4 . 5 \\mathrm { \\ g \\ N / m } ^ { 2 } ,$ 、葡萄糖和硝酸钾( ${ \\mathrm { G l u } } +$ $\\mathrm { K N O } _ { 3 }$ );无营养源添加为对照(Control）。共6种处理,3次重复,总共72个模拟土柱。氮素和碳素添加量分别相当于两种林分森林穿透雨N 年输入量的4倍和 DOC 年输入量的 $8 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "称取 $8 5 \\mathrm { ~ g ~ }$ 新鲜土壤样品,装入容积为 $1 0 0 ~ \\mathrm { { m L } }$ 、内径为 $5 0 . 5 ~ \\mathrm { m m }$ 的环刀中。根据实验所设的营养源添加量和水分条件为各处理配置所需溶液。将溶液均匀地添加到各样品土壤表面后,迅速放入温度设置为 $- 1 8 ^ { \\circ } \\mathrm { C }$ 的冷柜中，以减少加湿对土壤 $\\mathrm { C O } _ { 2 }$ 排放的激发效应,同时溶液在冻结前从土壤表面缓慢下渗到底部,足以保证营养源和水分在土壤中的均匀分布。样品冻结50天后取出,迅速装入气密性良好的PVC 杯( $7 6 0 ~ \\mathrm { m L }$ ，高 $1 7 \\ \\mathrm { c m }$ ，直径 $7 . 5 ~ \\mathrm { c m }$ )中,密封后转入培养箱(上海一恒,LRH250)中进行培养,同时采用无土的PVC 杯密封培养为空白,实验持续15d。根据研究区域近30年期间每年12月至次年2月土壤表面日均温度[5],进行 $- 1 8 ^ { \\circ } \\mathrm { C }$ 冷冻50天模拟实验;参考研究区域多年春末林地土壤完全融化时平均日气温,设置融化培养温度为 $1 0 \\%$ 。在整个培养过程中通过称重方法适时补水以保证土壤湿度稳定。杯盖上有导管连出并配有三通阀,用同样配有三通阀的 $5 0 ~ \\mathrm { m L }$ 针管抽取气体样品。考虑土壤融化前期 $\\mathrm { C O } _ { 2 }$ 排放量的激发效应,分别于融化培养后6,12,24,37,49,75，95，119，143，167，191,215,239,263,287,311,335h和 $3 5 9 \\mathrm { ~ h ~ }$ ,从培养容器中抽取 $3 0 ~ \\mathrm { m L }$ 样品，每次采样结束时换气 $3 0 ~ \\mathrm { m i n }$ ,再封闭继续培养直至下次采样。气样中的 $\\mathrm { C O } _ { 2 }$ 含量通过镍触媒转化为甲烷后用配有FID 检测器的气相色谱仪(Agilent 7890A,美国)测定[5]。标准气体 $\\mathrm { C O } _ { 2 }$ 为国家标准物质中心提供,浓度为 $2 . 0 2 ~ \\mathrm { m L }$ L,平衡气为空气。实验结束后,根据前述方法,测定土壤水浸提和 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提的 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N } \\phantom { - } \\mathrm { N O } _ { 3 } ^ { - }$ -N、TN 和DOC含量,以及微生物C 和N含量;同时测定土壤含水量和土壤容重并计算WFPS[36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4计算与统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "培养过程中根据每个处理与无土壤的空白容器中气体 $\\mathrm { C O } _ { 2 }$ 浓度差异以及采样前密封时间算出每次采样时不同处理土壤 $\\mathrm { C O } _ { 2 }$ 瞬间排放速率 $\\mathrm { ' m g ~ C O _ { 2 } { \\mathrm { - C } } ~ m ^ { - 2 } h ^ { - 1 } } ,$ 。不同处理 $\\mathrm { C O } _ { 2 }$ 累积通量是将培养期间每次采样测得的 $\\mathrm { C O } _ { 2 }$ 排放量累加 $( \\mathrm { ~ g ~ C O ~ } _ { 2 } { - } \\mathrm { C } / \\mathrm { m } ^ { 2 }$ ）。利用BoxLucas指数模型拟合实验各处理 $\\mathrm { C O } _ { 2 }$ 累积排放量与培养时间之间的关系,如式（1)：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = S _ { 0 } ( 1 \\mathrm { - e } ^ { - k t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y$ 为 $\\mathrm { C O } _ { 2 }$ 累积排放量 $\\left( \\mathbf { g } \\ \\mathrm { C O } _ { 2 } \\mathrm { - C } \\ \\mathbf { m } ^ { - 2 } \\right) .$ ） $\\mathbf { \\Phi } _ { t }$ 为培养时间（h）; $S _ { 0 }$ 为模型理论上限; $S _ { 0 } { \\times } k$ 为模型起始时的增长速率（回归确定系数， $R ^ { 2 } { > } 0 . 9 5 , P { < } 0 . 0 0 1 )$ ,定义为培养初期 $\\mathrm { C O } _ { 2 }$ 排放速率,用以表征融化初期土壤 $\\mathrm { C O } _ { 2 }$ 激发排放的强度 $\\left( \\mathrm { m g ~ C O _ { 2 } { - } C \\mathrm { ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } } \\right)$ ）。基于本次培养实验较高频次采样,不同处理土壤 $\\mathrm { C O } _ { 2 }$ 最大排放速率为培养过程中测得瞬间排放速率的最大值( $\\mathrm { ' } \\mathrm { m g } \\mathrm { C O } _ { 2 } \\mathrm { - } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 } \\mathrm { \\rangle }$ 。各处理培养期间 $\\mathrm { C O } _ { 2 }$ 累积排放量和土壤微生物碳的比值为微生物代谢熵 $( q _ { \\mathrm { { c o } _ { 2 } } } ) ( \\mathbf { m g } \\mathrm { { C O } _ { 2 } \\mathbf { - } \\mathbf { C } \\textbf { g } ^ { - 1 } }$ 生物量 $\\mathbf { \\textnormal { C d } } ^ { - 1 }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用单施 $\\mathrm { G l u }$ 处理与对照 $\\mathrm { \\cdot } \\mathrm { G l u } { + } \\mathrm { N H } _ { 4 } \\mathrm { C l }$ 处理与 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 处理及 ${ \\mathrm { G l u } } + { \\mathrm { K N } } 0 _ { 3 }$ 处理与 $\\mathrm { K N O } _ { 3 }$ 处理土壤活性碳库、$\\mathrm { C O } _ { 2 }$ 瞬间排放速率和 $\\mathrm { C O } _ { 2 }$ 累积排放量的差值,来研究外源氮对 $\\mathrm { \\ G l u }$ 引起的融化培养期间森林土壤有机碳激发效应的影响,分别用 $\\mathrm { G l u }$ 对照，（ $\\mathrm { G l u + N H _ { 4 } C l }$ ） $\\mathbf { \\cdot N H } _ { 4 } \\mathbf { C l }$ 和( ${ \\mathrm { G l u } } + { \\mathrm { K N O } } _ { 3 }$ ） $\\mathbf { \\nabla } \\cdot \\mathrm { K N O } _ { 3 }$ 表示,并分析不同湿度和不同林分之间的差异。用培养期间 $\\mathrm { C O } _ { 2 }$ 瞬间排放速率差值的最大值来表示由Glu引起的融化培养期间 $\\mathrm { C O } _ { 2 }$ 最大排放速率。用式(1)来拟合 $\\mathrm { C O } _ { 2 }$ 累积排放量的差值随培养时间的变化,取 $S _ { 0 } { \\times } k$ 值表示由Glu 引起的培养期间 $\\mathrm { C O } _ { 2 }$ 排放速率。利用高湿度未施氮、低湿度施氮或高湿度施氮处理分别与低湿度未施氮处理Glu 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量或微生物碳含量的比值再减去1乘以 $100 \\%$ ,分析湿度增加、施氮及其组合对 $\\mathrm { G l u }$ 引起的融化培养期间森林土壤有机碳激发效应的影响。所有处理3次重复,均计算平均值和标准误差。所有数据利用 Tukey 比例估计公式进行正态转化并确认方差齐性后再进行统计分析。利用多因素方差分析研究：（1)湿度、碳和氮添加及其组合对两种林分土壤融化培养初期 $\\mathrm { C O } _ { 2 }$ 排放速率、培养期最大排放速率和累积排放量以及 $q _ { \\mathrm { C O } _ { 2 } }$ 的影响;(2)林分、土壤湿度和施氮及其组合对由Glu 引起的融化培养期间土壤有机碳分解激发效应的影响;（3)结合以前报道的未冻结实验结果,综合分析冻结、土壤湿度和施氮及其组合对由Glu引起的土壤有机碳分解激发效应的影响。利用图基(Tukey)检验的Honestly 显著性差异( $\\mathrm { \\ H S D } _ { 0 . 0 5 }$ )表示培养期间每次采样不同处理$\\mathrm { C O } _ { 2 }$ 排放速率和累积排放量以及由Glu引起的土壤 $\\mathrm { C O } _ { 2 }$ 排放速率和累积排放量的差异性;利用 $\\mathbf { \\chi } _ { t }$ 检验比较不同处理两组数据之间的差异，显著性检验的置信水平设定为 $9 5 \\%$ 。通过多元线性逐步回归分析，阐述两种林分土壤 $\\mathrm { C O } _ { 2 }$ 排放的主要影响因子。所有的统计分析均利用 SPSS19.0软件实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1湿度与外源氮对未施Glu土壤融化过程 $\\mathrm { C O } _ { 2 }$ 排放动态变化的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1显示单施 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 和 $\\mathrm { K N O } _ { 3 }$ 时不同湿度两种林分土壤融化过程中 $\\mathrm { C O } _ { 2 }$ 排放速率和累积排放量动态变化。由图可见，两种土壤对照 $\\mathrm { C O } _ { 2 }$ 排放速率在开始融化后2天内达到峰值，随后逐渐降到近似稳态。与未冻结实验相比[19],冻结过程增加两种林分土壤培养前期 $\\mathrm { C O } _ { 2 }$ 激发排放的持续时间和峰值,并且培养结束时对照$\\mathrm { C O } _ { 2 }$ 累积排放量增加至1.5—1.8倍(表1),这种刺激倍数与我们之前所做的原状土培养实验[5]以及Goldberg等[2]的观测结果一致。与阔叶红松混交林土壤相比,低湿度条件下的整个培养期以及高湿度条件下融化6天后，次生白桦林土壤对照 $\\mathrm { C O } _ { 2 }$ 排放速率及累积排放量均显著较大( $P { < } 0 . 0 5 )$ 。相对于低湿度而言，高湿度两种林分土壤对照 $\\mathrm { C O } _ { 2 }$ 排放速率达到峰值时间较晚，峰值显著较低（表 $1 , P { < } 0 . 0 5 ) ,$ 。培养结束时，随着土壤湿度的增加,次生白桦林土壤对照 $\\mathrm { C O } _ { 2 }$ 累积排放量和 $q _ { \\mathrm { C O } _ { 2 } }$ 显著地降低,而阔叶红松混交林两者显著地增加( $P { < } 0 . 0 5 )$ (表1),这种土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量随着湿度的变化规律与未冻结实验结果一致[19]。Panikov 和Dedysh[37]报道湿地土壤( $9 0 \\% - 9 2 \\%$ 体积含水量) $\\mathrm { C O } _ { 2 }$ 排放在融化后的2天内持续增大,第3天达到最大值,直到第5天降低到近似稳态。然而,湿度为 $5 0 \\%$ 最大持水量的针叶林土壤仅在融化后一天内出现 $\\mathrm { C O } _ { 2 }$ 脉冲式排放4。综上可得,土壤湿度显著地影响冻土融化过程 $\\mathrm { C O } _ { 2 }$ 激发排放的强度和持续时间[15],并可能随着土壤类型及其基质条件的不同存在差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6ef0cceb7b7651c48f0867ad431932cb3cdc3ad05195574759c2cea72bede8a.jpg",
+        "img_caption": [
+            "图1单施 $\\bf N H _ { 4 } C l$ 和 $\\mathbf { K N O } _ { 3 }$ 时不同湿度两种林分土壤融化过程中 $\\mathbf { C O } _ { 2 }$ 排放速率和累积排放量动态变化",
+            "Fig.1Dynamic of cumulative $\\mathbf { C O } _ { 2 }$ fluxes and instant rates of $\\mathbf { C O } _ { 2 }$ fluxes during thawing of frozen WBF and BKPF soils treated with $\\mathbf { N H _ { 4 } C I }$ and $\\mathbf { K N O } _ { 3 }$ alone under different moisture conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空心图标表示次生白桦林土壤;实心图标表示阔叶红松混交林土壤;(a)和(b)表示低湿度;(c)和(d)表示高湿度； $\\mathrm { H S D } _ { 0 . 0 5 }$ 竖线表示每次采样各个处理的Honestly 显著性差异( $P = 0 . 0 5$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "低湿度条件下,单施 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 显著地抑制次生白桦林土壤 $\\mathrm { C O } _ { 2 }$ 培养前期排放速率和累积排放量( $P { < } 0 . 0 5 , t$ 检验结果)(表1);高湿度条件下,单施 $\\mathrm { K N O } _ { 3 }$ 显著抑制阔叶红松混交林 $\\mathrm { C O } _ { 2 }$ 累积排放量( $P { < } 0 . 0 5 , t$ 检验结果)(表1)。但上述两种处理外源氮对土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量的抑制率， $( 7 . 5 \\% - 1 0 . 2 \\%$ )均显著小于未冻结实验[19]相应处理( $1 7 . 7 \\% - 2 0 . 5 \\%$ ） $P { < } 0 . 0 0 1$ ， $\\mathbf { \\chi } _ { t }$ 检验结果）,这可能与冻土融化过程中释放大量矿质氮有关[38]。低湿度条件下，与对照相比，阔叶红松混交林土壤单施 $\\mathrm { K N O } _ { 3 }$ 处理 $\\mathrm { C O } _ { 2 }$ 累积排放量较大( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ （表1），这可能与其较高的水溶性 DOC 含量( $P { < } 0 . 0 5 )$ (表2)和较大的 $q _ { \\mathrm { C O } _ { 2 } }$ 有关( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ （表1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ea34bb9bce1108d7217da4f902d857ebca14da0f51000588e7633b7410e219d.jpg",
+        "table_caption": [
+            "1 Crrrlrrrgrerrrirrrerle thu 1 e ",
+            "酉业‘\\*s\\* :[000>d\\* \\* \\* “10'O>d\\* \\* “SO'O>d \\* "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">次生白桦林土壤WBF soil</td><td colspan=\"3\">阔叶红松混交林土壤BKPFsoil</td></tr><tr><td rowspan=\"3\">湿度ure</td><td rowspan=\"3\"></td><td>碳和氮</td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\">（(mg C02Cg-</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">c/量Cd-g</td></tr><tr><td></td><td></td></tr><tr><td>(mg C m-2h-1)</td><td></td></tr><tr><td colspan=\"3\">低Low</td><td>(mg C m-²h-1) 107.76±0.60</td><td>（gC/m²） 9.09±0.06</td><td>生物量Cd-1) 10.46±0.04</td><td>(mg C m-2h-1) 28.76±0.02</td><td>(mg C m-²h-1) 51.96±0.25</td><td>（g C/m²）</td><td>6.47±0.13</td></tr><tr><td rowspan=\"10\">高High</td><td>Control Glu</td><td>59.63±0.51 182.08±1.68</td><td>182.58±2.13</td><td>18.71±0.06</td><td>18.79±1.09</td><td>132.28±2.04</td><td>149.30±3.08</td><td>4.67±0.08 16.66±0.12</td><td>20.36±0.39</td></tr><tr><td>NH4 Cl</td><td>54.30±0.64</td><td>102.06±1.72</td><td>8.16±0.04</td><td>10.85±0.35</td><td>29.69±0.24</td><td>52.29±0.45</td><td>4.47±0.02</td><td>8.36±0.91</td></tr><tr><td>Glu+NH4 Cl</td><td>187.24±0.88</td><td>176.26±1.66</td><td>18.75±0.06</td><td>20.00±0.72</td><td>128.86±1.75</td><td>144.23±3.93</td><td>15.85±0.16</td><td>19.88±0.19</td></tr><tr><td>KNO3</td><td>54.86±1.22</td><td>97.36±2.10</td><td>8.71±0.11</td><td>9.59±0.57</td><td>28.88±0.43</td><td>48.77±1.35</td><td>5.30±0.06</td><td>13.53±1.36</td></tr><tr><td>Glu+KNO3</td><td>169.99±2.43</td><td>156.95±2.53</td><td>18.72±0.21</td><td>14.67±0.27</td><td>141.79±0.66</td><td>182.61±1.57</td><td>17.54±0.04</td><td>35.99±1.25</td></tr><tr><td>Control</td><td>35.57±1.16</td><td>41.11±1.56</td><td>8.28±0.11</td><td>8.20±0.27</td><td>27.46±0.12</td><td>38.44±0.65</td><td>6.04±0.02</td><td>13.67±0.81</td></tr><tr><td>Glu</td><td>107.31±2.73</td><td>121.96±1.22</td><td>19.92±0.17</td><td>18.49±0.91</td><td>128.82±1.25</td><td>151.45±2.38</td><td>19.23±0.09</td><td>37.63±1.24</td></tr><tr><td>NH4 Cl</td><td>40.42±0.47</td><td>45.61±0.59</td><td>8.17±0.08</td><td>9.12±0.14</td><td>28.46±0.51</td><td>38.12±0.75</td><td>5.52±0.05</td><td>12.20±0.31</td></tr><tr><td>Glu+NH4 Cl</td><td>119.11± 1.30</td><td>128.40±3.49</td><td>19.71±0.22</td><td>19.62±0.90</td><td>139.69±3.38</td><td>143.71±3.06</td><td>17.82±0.21</td><td>35.47±1.51</td></tr><tr><td>KNO3 Glu+KNO3</td><td>38.45±0.46</td><td>47.80±0.31 145.76±2.57</td><td>8.45±0.04 21.94±0.27</td><td>12.16±0.64 23.26±1.08</td><td>29.87±0.49</td><td>38.29±0.88 155.23±1.04</td><td>5.65±0.01 18.83±0.16</td><td>12.65±0.16 34.53±0.34</td></tr><tr><td colspan=\"9\">109.63±2.64 145.00±1.32</td></tr><tr><td colspan=\"9\">湿度、外源碳与铵态氮添加三因素方差分析 Thre-way repeated measures ANOVA with moisture，Glu and NH4Cl addition</td></tr><tr><td rowspan=\"2\">湿度 Moisture</td><td></td><td>***</td><td>***</td><td>n.s.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>n.s.</td><td>n.s.</td><td>*</td><td>***</td><td>***</td></tr><tr><td colspan=\"2\">外源碳Glu</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td></tr><tr><td colspan=\"2\">铵态氮 NH4Cl</td><td>*</td><td>n.s.</td><td>*</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td></tr><tr><td colspan=\"2\">湿度×外源碳Moistureby Glu</td><td>***</td><td>n.s.</td><td>**</td><td>n.s.</td><td>n.s.</td><td>*</td><td>***</td><td>***</td></tr><tr><td colspan=\"2\">湿度×铵态氮MoisturebyNH4Cl 外源碳×铵态氮 Glu by NH4Cl</td><td>n.s.</td><td>*</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td></tr><tr><td colspan=\"2\">湿度×外源碳×铵态氮</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td></tr><tr><td colspan=\"2\">Moisture by Glu by NH4 Cl</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td></tr><tr><td colspan=\"9\">湿度、外源碳与硝态氮添加三因素方差分析 Three-way repeated measures ANOVA with moisture，Glu and KNO3adition</td></tr><tr><td colspan=\"2\">湿度 Moisture</td><td></td><td>***</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">外源碳Glu</td><td>***</td><td>***</td><td>*</td><td>*</td><td>n.s.</td><td>***</td><td>***</td><td>***</td></tr><tr><td colspan=\"2\">硝态氮KNO3</td><td>***</td><td></td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td></tr><tr><td colspan=\"2\">湿度×外源碳 Moisture by Glu</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>***</td><td>**</td><td>*</td><td>**</td></tr><tr><td colspan=\"2\">湿度×硝态氮MoisturebyKNO3</td><td>***</td><td>**</td><td>**</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td></tr><tr><td colspan=\"2\">外源碳×硝态氮 Glu by KNO3</td><td>n.s.</td><td>***</td><td>*</td><td>**</td><td>n.s.</td><td>*</td><td>**</td><td>***</td></tr><tr><td colspan=\"2\">湿度×外源碳×硝态氮</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td><td>**</td><td>**</td><td>*</td><td>n.s.</td></tr><tr><td colspan=\"2\">Moisture by Glu by KNO3</td><td>n.s.</td><td>**</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>**</td><td>*</td><td>*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2湿度与外源氮对施加Glu土壤融化过程 $\\mathrm { C O } _ { 2 }$ 排放动态变化的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2显示Glu及其与外源氮组合施加时,不同湿度两种林分土壤融化过程中 $\\mathrm { C O } _ { 2 }$ 排放速率和累积排放量动态变化。与图1相比，施加Glu各处理培养前期 $\\mathrm { C O } _ { 2 }$ 激发排放的峰值更大且持续时间更长，尤其是高湿度条件下直至培养后第4天才达到峰值。融化培养结束时，次生白桦林和阔叶红松混交林土壤单施Glu 处理$\\mathrm { C O } _ { 2 }$ 累积排放量分别增至18.7—19.9 和 $1 6 . 7 { \\mathrm { - } } 1 9 . 2 \\ { \\mathrm { g } } \\ { \\mathrm { C } } / { \\mathrm { m } } ^ { 2 }$ ,约为其相应对照的2.1—2.4倍和3.2—3.6倍（表1)。湿度和Glu交互影响次生白桦林土壤 $\\mathrm { C O } _ { 2 }$ 培养初期排放速率以及两种土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量( $_ { . } { \\cal P } { < } 0 . 0 5 )$ （表1);硝态氮和Glu交互影响两种林分土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量( $P { < } 0 . 0 5 \\mathrm { ) }$ )（表1），同时两种形态氮均与湿度和Glu三者交互影响阔叶红松混交林土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量( $\\scriptstyle P < 0 . 0 5$ )（表1）。Jacinthe 等[24]发现施加高剂量的小麦残渣 $( 7 0 . 4 \\mathrm { ~ g ~ C ~ / m } ^ { 2 }$ )显著地促进冬末和春季冻融期耕地土壤 $\\mathrm { C O } _ { 2 }$ 的排放量，约为未施残渣处理的2.0—2.3倍，而施加低剂量( $3 5 . 2 \\mathrm { ~ g ~ C ~ / ~ m ~ } ^ { 2 }$ )无显著影响。Lukas 等[25]发现施加玉米残渣( $1 . 2 \\mathrm { \\ m g \\ C / g }$ 干土和 $4 2 . 5 ~ \\mu \\mathrm { g } ~ \\mathrm { N / g }$ 干土)的土壤( $3 6 \\%$ 最大持水量)微生物呼吸在融化后第7天达到峰值,较未施残渣处理晚4d,其峰值大小约为未施残渣处理的6倍,培养结束时累积排放量增至约7倍。因此,外源碳对冻土融化过程微生物呼吸的刺激强度和持续时间，可能依赖于土壤类型和外源碳的种类及施加剂量,并受到土壤湿度和氮素有效性的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bdc0149af786ce53b234f759ee52a682db2e9a0cf4ceace966ea1ac7b1a8a16.jpg",
+        "img_caption": [
+            "图2葡萄糖及其与外源氮组合施加时不同湿度两种林分土壤融化过程中 $\\mathbf { C O } _ { 2 }$ 排放速率和累积排放量动态变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Dynamic of cumulative $\\mathbf { C O } _ { 2 }$ fluxes and instant rates of $\\mathbf { C O } _ { 2 }$ fluxes during thawing of frozen WBF and BKPF soils treated with Gluand in combination with $\\bf N H _ { 4 } C l$ or $\\mathbf { K N O } _ { 3 }$ addition under different moisture conditions  \n空心图标表示次生白桦林土壤;实心图标表示阔叶红松混交林土壤;(a)和(b)表示低湿度;(c)和(d)表示高湿度； $\\mathrm { H S D } _ { 0 . 0 5 }$ 竖线表示每次采样各个处理的Honestly 显著性差异( $P = 0 . 0 5$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3林分、湿度和施氮对由 $\\mathrm { \\ G l u }$ 引起的融化期土壤有机碳分解和微生物量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3显示不同湿度和外源氮添加条件下，两种林分土壤融化过程中由Glu引起的 $\\mathrm { C O } _ { 2 }$ 排放速率和累积排放量动态变化。低湿度条件下，阔叶红松混交林土壤由Glu引起的 $\\mathrm { C O } _ { 2 }$ 排放速率达到峰值时间较次生白桦林土壤晚;高湿度条件下,两种林分土壤由Glu 引起的 $\\mathrm { C O } _ { 2 }$ 排放速率在融化后第4天均达到峰值,并且后者土壤$\\mathrm { C O } _ { 2 }$ 排放峰值显著地增加( $_ { _ { P < 0 . 0 5 ) } }$ 。融化培养结束时，阔叶红松混交林土壤未施氮处理由Glu引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量在两种湿度条件下均显著地大于次生白桦林土壤( $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { ~ , ~ } }$ （表2）。单施 ${ \\displaystyle \\mathrm { K N O } _ { 3 } }$ 显著增加两种湿度的白桦林土壤由 $\\mathrm { G l u }$ 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量( $\\scriptstyle P < 0 . 0 1$ )(表2)；林分、湿度和 ${ \\displaystyle \\mathrm { K N O } _ { 3 } }$ 施加三者交互影响两种林分土壤Glu 引起的培养期间 $\\mathrm { C O } _ { 2 }$ 最大排放速率( $P { < } 0 . 0 0 1 \\rangle$ （表2）。培养结束时两种林分土壤由Glu引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量 $( 9 . 6 { - } 1 3 . 4 9 \\mathrm { ~ g ~ C / m } ^ { 2 } ,$ )显著大于所施加的葡萄糖含碳量( $6 . 4 \\mathrm { ~ g ~ C ~ } / \\mathrm { m } ^ { 2 }$ ）,这可能来源于施加 $\\mathrm { G l u }$ 所引起的土壤固有有机碳分解。随着土壤湿度的增加,两种林分土壤由 $\\mathrm { \\ G l u }$ 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量显著增大 ( $P <$ 0.001)(表2);土壤湿度及其与林分均显著地影响融化培养初期 $\\mathrm { C O } _ { 2 }$ 排放速率( $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { ~ , ~ } }$ （表2）。结合未冻结实验结果[19],发现低湿度未施氮时冻结后两种林分土壤由Glu 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量 $( 9 . 6 - 1 2 . 0 \\ \\mathrm { g } \\ \\mathrm { C O } _ { 2 } { \\cdot } \\mathrm { C }$ $\\mathbf { m } ^ { - 2 }$ )与未冻结土壤 $( 9 . 5 { \\mathrm { - } } 1 1 . 2 \\ { \\mathrm { g } } \\ { \\mathrm { C O } } _ { 2 } { \\mathrm { - } } { \\mathrm { C } } \\ { \\mathrm { m } } ^ { - 2 } \\  \\mathrm $ )无差异,而高湿度时则差异达显著水平（ $P { < } 0 . 0 5 )$ （图4)。基于湿度和冻结交互作用影响Glu引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量( $P { < } 0 . 0 5 )$ （表3）,推论冻结对两种林分土壤由 $\\mathrm { \\ G l u }$ 引起的 $\\mathrm { C O } _ { 2 }$ 累积排放量的影响应随土壤湿度增加而增大。Morkved 等[40]发现施加植物提取液( $0 . 3 4 ~ \\mathrm { m g ~ C / g }$ 干土和 $2 8 ~ \\mu \\mathrm { g } ~ \\mathrm { N / g }$ 干土)对水分张力为 $1 0 \\mathrm { { k P a } }$ 的冻结土壤融化过程中 $\\mathrm { C O } _ { 2 }$ 排放的刺激效果与未冻土壤无显著差异。Lukas 等[25]发现施加玉米残渣( $1 . 2 \\mathrm { \\ m g \\ C / g }$ 干土和 $4 2 . 5 ~ \\mu \\mathrm { g } ~ \\mathrm { N / g }$ 干土)促进冻土融化过程土壤( $3 6 \\%$ 最大持水量)固有有机碳的分解,且这种激发效应显著强于未冻结处理。综上所述,外源碳对冻土融化微生物呼吸的激发效应与外源碳的种类及其剂量、土壤氮素有效性和湿度水平有关；冻结过程及其与土壤湿度交互影响外源碳对土壤微生物呼吸的激发效应( $_ { P < 0 . 0 5 ) }$ （表3）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef01b238ab95f0b84a6513d2561bfb02cbe61566c805db822918a4376f878b2.jpg",
+        "img_caption": [
+            "图3不同湿度和外源氮添加条件下，两种林分土壤融化过程中由葡萄糖引起的 $\\mathbf { C O } _ { 2 }$ 排放速率和累积排放量动态变化Fig.3Dynamic of glucose-induced cumulative $\\mathbf { C O } _ { 2 }$ fluxes and instant rates of $\\mathbf { C O } _ { 2 }$ fluxes during thawing of frozen WBF and BKPF soilstreated with and without $\\bf N H _ { 4 } C l$ or $\\mathbf { K N O } _ { 3 }$ addition under different moisture conditions空心图标表示次生白桦林土壤;实心图标表示阔叶红松混交林土壤;(a)和(b)表示低湿度;(c)和(d)表示高湿度; $\\mathrm { H S D } _ { 0 . 0 5 }$ 竖线表示每次采样各个处理的Honestly 显著性差异( $P = 0 . 0 5$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与阔叶红松混交林土壤相比,次生白桦林土壤不施氮处理水浸提DOC( $P { < } 0 . 0 5 )$ 以及所有处理 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提DOC 和微生物碳含量均显著地增加( $P { < } 0 . 0 0 1$ )（表2），较大的活性碳含量可能导致了次生白桦林土壤融化过程 $\\mathrm { C O } _ { 2 }$ 排放量较大( $P { < } 0 . 0 5 )$ (表1)。方差分析显示土壤湿度及其与施氮交互作用显著地影响到由 $\\mathrm { \\ G l u }$ 引起的 ${ \\mathrm { K } } _ { 2 } { \\mathrm { S } } 0 _ { 4 }$ 浸提DOC增量( $P { < } 0 . 0 5 )$ ,土壤湿度显著地影响到由GIu引起的土壤水浸提DOC 增量( $P { < } 0 . 0 5 )$ （表2)。单施 $\\mathrm { K N O } _ { 3 }$ 将两种湿度次生白桦林土壤Glu引起的微生物碳含量显著地增至 $1 6 . 3 { \\mathrm { - } } 2 7 . 2 { \\mathrm { ~ g ~ C / m } } ^ { 2 }$ ,单施 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 将低湿度阔叶红松混交林土壤Glu引起的微生物碳含量显著地增至 $1 4 . 5 \\mathrm { g C / m } ^ { 2 } ( P { < } 0 . 0 0 1 )$ （表2），两者均显著大于所施 $\\mathrm { G l u }$ 含碳量 $( 6 . 4 \\mathrm { \\ g } \\mathrm { \\ C } / \\mathrm { m } ^ { 2 }$ ），这可能与 $\\mathrm { G l u }$ 施加可刺激土壤融化过程中固有有机碳矿化,促进向微生物碳转换有关[25]。方差分析显示硝态氮添加、林分及其相互作用显著地影响到这种Glu引起的微生物碳增量( $_ { P < 0 . 0 5 ) }$ （表2）。低湿度未施氮冻结后两种林分土壤Glu引起的微生物碳 $( 6 . 5 - 1 0 . 1 \\ \\mathrm { g } \\ \\mathrm { C } / \\mathrm { m } ^ { 2 } )$ 显著小于未冻结土壤 $( 1 7 . 7 \\mathrm { - } 2 0 . 3 \\ \\mathrm { g } \\ \\mathrm { C } / \\mathrm { m } ^ { 2 } )$ ( $P { < } 0 . 0 5 )$ （图4)。并且无论冻结与否,湿度的增加对土壤Glu引起的微生物碳均表现为抑制作用(图4)。单施 $\\mathrm { N H } _ { 4 } \\mathrm { C l }$ 促进冻结后土壤Glu引起的微生物碳，而对未冻结土壤主要表现为抑制作用(图4);方差分析显示铵态氮和硝态氮添加分别显著地影响到阔叶红松混交林和次生白桦林土壤Glu引起的微生物碳增量( $P { < } 0 . 0 1 \\$ )（表3)。因此,土壤融化过程中葡萄糖对土壤微生物碳的激发效应与土壤湿度、外源氮的形态及林分类型有关(表3）。Lukas 等[25]发现施加玉米残渣激发冻土融化过程中土壤固有有机碳向微生物碳转变,且这种激发效应显著大于未冻结土壤( $P { < } 0 . 0 5 )$ 。Blagodatskaya等[40]认为土壤有机碳激发效应所增加的 $\\mathrm { C O } _ { 2 }$ 释放可能不仅仅与土壤微生物量周转有关,还可能受到土壤微生物群落的影响。研究表明[5.41],冻结过程显著地减少土壤微生物量及微生物碳/氮比,土壤微生物优势群落出现从真菌逐渐转向细菌[42]。因此,这种冻结显著影响葡萄糖对森林土壤微生物碳的激发效应可能与微生物群落结构的变化有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/935692013b024cf220cdce82801640ac19231264aefae3ce97dd13da9e026736.jpg",
+        "table_caption": [
+            "rrserr ",
+            "",
+            "与甲s\"‘[>\\*\\*\\*\\*\\*‘\\* "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td colspan=\"2\">水浸提DOC Water-extractable DOC</td><td colspan=\"3\">K2SO4浸提DOC K2SO4-extractable DOC</td><td colspan=\"3\">lu引起的</td><td colspan=\"3\">Glu 引起的b)</td><td></td></tr><tr><td></td><td>湿度</td><td></td><td colspan=\"2\">不施加</td><td>lu 引起的</td><td colspan=\"2\"></td><td>KSO4浸提 DocCl</td><td colspan=\"2\">Microbial biomass（MBC）</td><td></td><td>培养初期</td><td>Glu induced 最</td><td>排</td></tr><tr><td>林分 Vegetation</td><td>Moisture N addition</td><td>氮添加</td><td></td><td>施加</td><td>extractable</td><td>不施加</td><td>施加</td><td></td><td>不施加</td><td>施加</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(gB/2)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>次生白桦林</td><td>低 Low不H(vihout) N</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9.61±06</td><td></td></tr><tr><td></td><td></td><td></td><td>3.27±0.12</td><td>3.10±0.04</td><td>-0.17±0.04</td><td>9.740.1</td><td>9.01±0.12</td><td>-0.73±0.12</td><td>58.0±0.6</td><td>68.0±3.6 10.07/±3.37</td><td>128.12.0</td><td></td><td>139.8±3.2</td><td>吴浩浩</td></tr><tr><td></td><td>KNO3</td><td></td><td>2.62±0.03</td><td>2.93±0.04</td><td>0.31±0.04</td><td>9.63±0.03</td><td>9.62±0.10</td><td>-0.01±0.10</td><td>58.0±2.7</td><td>85.2±0.7 27.18±0.71</td><td>114.0±2.4</td><td></td><td>117.5±2.0</td><td>10.55±0.21</td></tr><tr><td></td><td></td><td>高 High不施（without）N</td><td>4.39±0.22</td><td>4.40±0.03</td><td>0.01±0.03</td><td>10.58±0.15</td><td>11.15±0.06</td><td>0.57±0.06</td><td>67.7±1.3</td><td>72.9±2.8 5.24±2.81</td><td>71.9±2.8</td><td></td><td>86.2±1.1</td><td>11.64±0.17</td></tr><tr><td></td><td>NH4Cl</td><td></td><td>3.16±0.03</td><td>3.28±0.06</td><td>0.12±0.06</td><td>10.54±0.02</td><td>10.56±0.08</td><td>0.01±0.08</td><td>59.8±1.0</td><td>67.8±2.4 8.01±2.41</td><td>78.5±1.3</td><td></td><td>92.6±3.4</td><td>11.54±0.22 等：森林土壤副</td></tr><tr><td></td><td>KNO3</td><td></td><td>3.63±0.06</td><td>4.74±0.37</td><td>1.11±0.37</td><td>10.82±0.02</td><td>10.39±0.04</td><td>-0.43±0.04</td><td>47.4±2.6</td><td>63.7±2.3 16.30±2.28</td><td>71.0±2.6</td><td></td><td>107.2±2.6</td><td>13.49±0.27</td></tr><tr><td>阔叶红松</td><td></td><td>低Low不施（without）N</td><td>2.49±0.02</td><td>2.62±0.07</td><td>0.12±0.07</td><td>7.30±0.05</td><td>7.09±0.10</td><td>-0.21±0.10</td><td>48.2±0.9</td><td>54.7±1.0 6.50±1.04</td><td>103.3±2.0</td><td></td><td>132.7±3.1</td><td>11.99±0.12</td></tr><tr><td>混交林</td><td>NH4Cl</td><td></td><td>2.84±0.05</td><td>2.32±0.04</td><td>-0.52±0.04</td><td>7.16±0.03</td><td>7.57±0.10</td><td>0.41±0.10</td><td>38.8±3.6</td><td>53.2±0.7 14.45±0.71</td><td>98.6±1.7</td><td></td><td>130.2±3.9</td><td>11.38±0.16</td></tr><tr><td>BKPF</td><td>KNO3</td><td></td><td>3.34±0.09</td><td>2.67±0.03</td><td>-0.66±0.03</td><td>7.61±0.07</td><td>8.09±0.12</td><td>0.48±0.12</td><td>28.1±2.5</td><td>32.8±1.2 4.76±1.21</td><td>112.2±0.7</td><td></td><td>162.3±1.6</td><td>12.24±0.04 襄融化期异养呼吸和微生物碳变化特征</td></tr><tr><td></td><td>高 High不施（without）N</td><td></td><td>2.37±0.05</td><td>3.33±0.06</td><td>0.61±0.06</td><td>8.13±0.03</td><td>8.88±0.05</td><td>0.75±0.05</td><td>30.2±1.6</td><td>34.3±1.0</td><td>4.13±0.97</td><td>101.5±1.4</td><td>128.7±2.4</td><td>13.19±0.09</td></tr><tr><td></td><td>NH4Cl</td><td></td><td>2.91±0.06</td><td>3.18±0.10</td><td>0.27±0.10</td><td>8.98±0.04</td><td></td><td></td><td></td><td>33.9±1.3</td><td></td><td></td><td></td><td>12.30±0.21</td></tr><tr><td></td><td>KNO3</td><td></td><td>3.79±0.07 3.81±0.11</td><td>0.02±0.11</td><td></td><td></td><td>9.09±0.10</td><td>0.11±0.10</td><td>30.3±0.5</td><td>3.65±1.28</td><td>111.4±3.4</td><td></td><td>122.5±3.3</td><td>13.18±0.16</td></tr><tr><td>林分、湿度与铵态氮添加三因素方差分析 Thre-way repeated measures ANOVA with vegetation，moisture and NH4Cl addition</td><td></td><td></td><td></td><td></td><td></td><td>9.32±0.03</td><td>9.18±0.18</td><td>-0.14±0.18</td><td>29.8±0.3</td><td>36.4±0.3 6.58±0.29</td><td>114.6±1.3</td><td></td><td>133.4±1.2</td><td></td></tr><tr><td>林分 Vegetation</td><td></td><td></td><td>***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>**</td><td>*** ***</td><td>*</td><td>***</td><td>***</td><td>**</td><td>***</td><td>***</td><td></td><td>n.s.</td><td>**</td><td></td></tr><tr><td>湿度 Moisture</td><td></td><td></td><td></td><td></td><td>***</td><td>***</td><td>***</td><td>***</td><td>n.s.</td><td></td><td></td><td>***</td><td>***</td><td></td></tr><tr><td>铵态氮NH4Cl</td><td></td><td></td><td>n.s. n.s.</td><td>***</td><td></td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td></td><td>**</td><td></td><td>***</td><td>n.s.</td><td></td></tr><tr><td>林分×湿度 Vegetation by Moisture</td><td></td><td></td><td>**</td><td></td><td></td><td>n.s.</td><td>n.s. *</td><td>*</td><td>***</td><td></td><td></td><td></td><td>*** n.s.</td><td></td></tr><tr><td>林分×铵态氮Vegetation by NH4Cl 湿度×铵态氮 Moisture by NH4Cl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.s.</td><td>n.s. n.s.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>林分×湿度×铵态氮</td><td></td><td></td><td>n.s.</td><td></td><td></td><td></td><td></td><td>**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vegetation by Moisture by NH4Cl</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td></td><td></td><td></td><td>n.s.</td><td></td></tr><tr><td>林分、湿度与硝态氮添加三因素方差分析 Thre-way repeated measures ANOVA with vegetation，moisture and KNO3addition</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>林分 Vegetation</td><td></td><td></td><td>**</td><td>n.s.</td><td></td><td>***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>湿度 Moisture</td><td></td><td>***</td><td>***</td><td></td><td>***</td><td></td><td>***</td><td></td><td>***</td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/492d825410dee4b765e0f70eec2f76f5b20b07854cc89f04f5a42c15ab906799.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">冻结、湿度与铵态氮添加三因素方差分析 Thre-way repeated measures ANOVA with frezing，moisture and NH4Cl addition</td></tr><tr><td>冻结 Freezing</td><td>***</td><td>***</td><td>***</td><td>*</td><td>*</td><td>***</td><td>***</td><td>***</td></tr><tr><td>湿度 Moisture</td><td>***</td><td>***</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>**</td><td>***</td></tr><tr><td>铵态氮 NH4Cl</td><td>***</td><td>**</td><td>n.s.</td><td>n.s.</td><td>*</td><td>**</td><td>**</td><td>**</td></tr><tr><td>冻结×湿度 Freezing by Moisture</td><td>n.s.</td><td>n.s.</td><td>***</td><td>n.s.</td><td>*</td><td>n.s.</td><td>*</td><td>n.s.</td></tr><tr><td>冻结×铵态氮Freezingby NH4Cl</td><td>***</td><td>**</td><td>n.s.</td><td>n.s.</td><td>**</td><td>*</td><td>n.s.</td><td>n.s.</td></tr><tr><td>湿度×铵态氮 Moisture by NH4Cl</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td></tr><tr><td>冻结×湿度×铵态氮 Freezing by Moisture by NH4 Cl</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>**</td></tr><tr><td colspan=\"9\">冻结、湿度与硝态氮添加三因素方差分析 Thre-way repeated measures ANOVA with freezing，moisture and KNO3 addition</td></tr><tr><td>冻结 Freezing</td><td>***</td><td>***</td><td>***</td><td>*</td><td>*</td><td>***</td><td></td><td></td></tr><tr><td>湿度 Moisture</td><td>*米米</td><td>***</td><td>***</td><td>*</td><td>n.s.</td><td>n.s.</td><td>***</td><td>***</td></tr><tr><td>硝态氮KNO3</td><td>**</td><td>n.s.</td><td>***</td><td>**</td><td></td><td>n.s.</td><td>*</td><td>n.s.</td></tr><tr><td>冻结×湿度 Freezing by Moisture</td><td>*</td><td>**</td><td>***</td><td></td><td>n.s. n.s.</td><td>*</td><td>n.s. **</td><td>n.s.</td></tr><tr><td>冻结×硝态氮Freezing byKNO3</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s. n.s.</td><td>**</td><td>**</td><td>n.s.</td><td>n.s.</td></tr><tr><td>湿度×硝态氮MoisturebyKNO3</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td><td>n.s.</td><td>*</td><td>n.s.</td><td>n.s. **</td></tr><tr><td>冻结×湿度×硝态氮</td><td>*</td><td>n.s</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td><td>n.s.</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "￥ rrrenrlnrnrrrelr rarserlirreengi perrsneir returertre aqee "
+        ],
+        "table_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "晋业 ‘su ‘100'O>d \\* \\* \\* ‘10'0>d \\* \\* ‘s0'0>d \\* "
+        ],
+        "table_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3422801852f9a1858ac18bf206ab38612a23624eab131008050ef6e81c57873a.jpg",
+        "img_caption": [
+            "图4氮添加、湿度增加(M)及其组合时未冻结和冻结后土壤Glu引起的微生物呼吸及微生物碳的增加或减少百分数 Fig.4Percentile increaseordecrease intheglucose-iducedsoilmicrobialrespirationand microbial biomassCinresponsesto $\\bf N H _ { 4 } C I$ or $\\mathbf { K N O } _ { 3 }$ addition and increased soil moisture $\\mathbf { \\Pi } ^ { ' } \\mathbf { M } ^ { ' } ,$ ）with and without freezing treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图中各箭头上百分数范围的平均值是正值则箭头为实线，反之则为虚线；平均值的绝对值越大箭头越粗；增加或减少百分数的计算方法见本文1.4计算与统计分析;未冻结土壤微生物呼吸及微生物碳数据参见文献[19]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4森林土壤 $\\mathrm { C O } _ { 2 }$ 累积排放量与土壤活性碳、氮含量的关系",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于水浸提和 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提的土壤活性碳、氮含量具有很强关联性,故进行逐步回归时将两者分开讨论,取回归决定系数较大的逐步回归结果。另外,不同处理实验土壤不同形态氮含量数据可参见文献[38]。基于两种林分土壤不同处理融化过程 $\\mathrm { C O } _ { 2 }$ 累积排放量与土壤活性碳、氮含量的逐步回归分析结果显示：实验条件下，次生白桦林土壤融化过程 $\\mathrm { C O } _ { 2 }$ 累积排放量受到微生物碳，微生物氮和 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提DON含量的影响，共同解释其 $4 6 \\%$ 的变化,微生物碳贡献率最大；阔叶红松混交林土壤融化过程 $\\mathrm { C O } _ { 2 }$ 累积排放量受到 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提$\\mathrm { N H } _ { 4 } ^ { + }$ ， $\\mathrm { N O } _ { 3 } ^ { - }$ -N 及DOC 含量的影响,共同解释其 $6 9 \\%$ 的变化, ${ \\mathrm { K } } _ { 2 } { \\mathrm { S } } 0 _ { 4 }$ 浸提DOC 贡献率最大（表4）。未冻结土壤$\\mathrm { C O } _ { 2 }$ 累积排放量与土壤微生物碳及 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提的 DOC 含量正相关,并与土壤矿质氮或 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提的 DON 含量负相关[19]。由此可见,无论冻结与否,土壤碳和氮的有效性均为两种林分土壤 $\\mathrm { C O } _ { 2 }$ 排放的重要影响因子。土壤碳素有效性增加快速影响冬季土壤呼吸[12.22],但在冬末春初融化期可能还受到土壤水分及氮素有效性的影响[39]。Stielstra等[15]认为土壤湿度是控制冬季土壤 $\\mathrm { C O } _ { 2 }$ 排放的最主要因子。徐星凯等[5]观测到不同冻结处理的原状土柱融化过程中 $\\mathrm { C O } _ { 2 }$ 排放速率与微生物碳和氮、 $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 }$ 和水浸提的DON 和 $\\mathrm { N H } _ { 4 } ^ { + }$ 以及WFPS呈显著正相关关系( $_ { P < 0 . 0 5 ) }$ 。结合本实验结果及前期报道的未冻结实验结果[19],可以推测无论冻结与否,森林土壤微生物呼吸与土壤湿度、微生物量及土壤速效碳和氮含量有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/afa06c8e25667287c45303ad685e7140e1c1429d72979c5d30f819409a17ed4b.jpg",
+        "table_caption": [
+            "表4培养期间两种林分土壤 $\\mathbf { C O } _ { 2 }$ 累积排放量与土壤活性碳、氮含量之间的回归分析结具",
+            "esults of stepwise regression analysis for the cumulative $\\mathbf { C O } _ { 2 }$ fluxes from WBF and BKPF soils against the soil labile C andN pools "
+        ],
+        "table_footnote": [
+            "样本容量 $n = 3 6$ ； $* * *$ $P { < } 0 . 0 0 1$ ： $R ^ { 2 }$ 回归确定系数"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Y（次生白桦林土壤 CO累积排放量)Y(Cumulative COflux from WBF soil)/（g CO-C/m²)</td></tr><tr><td>变量Variable</td><td>Coent</td><td>标准误差</td><td>相对贡献率/% contribution</td><td>R</td></tr><tr><td>bo Constant</td><td>12.57</td><td>5.97</td><td></td><td>0.46 ***</td></tr><tr><td>X,微生物碳MBC/（gCO2-C/m²）</td><td>0.32</td><td>0.08</td><td>49.4</td><td></td></tr><tr><td>X,微生物氮MBN/（gCO-C/m²）</td><td>-7.37</td><td>2.94</td><td>26.7</td><td></td></tr><tr><td>X,K2SO4 浸提 DONK2SO4-extractable DON/(g CO2-C/m²)</td><td>-0.82</td><td>0.38</td><td>23.9</td><td></td></tr><tr><td colspan=\"5\">Y（阔叶红松混交林土壤CO累积排放量）Y(CumulativeCOflux from BKPF soil)/（g CO-C/m²）</td></tr><tr><td>变量Variable</td><td>系数 Coefficient</td><td>标准误差 Standard error</td><td>相对贡献率/% Relative contribution</td><td>R²</td></tr><tr><td>bo Constant</td><td>0.00</td><td>0.09</td><td></td><td>0.69 ***</td></tr><tr><td>X1,K2SO4 浸提 NH4-N KSO4-extractable NH4-N/(g CO2-C/m²)</td><td>-0.48</td><td>0.10</td><td>32.2</td><td></td></tr><tr><td>X,K2SO4 浸提 DOCKSO4-extractable DOC/（g CO2-C/m²）</td><td>0.60</td><td>0.10</td><td>40.3</td><td></td></tr><tr><td>X3,K2SO4 浸提 NO3-N K2SO4-extractable NO3-N/(g CO2-C/m²)</td><td>-0.41</td><td>0.10</td><td>27.5</td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "两种林分土壤融化初期存在 $\\mathrm { C O } _ { 2 }$ 激发排放的现象，这种激发排放的强度和持续时间在外源碳添加后显著地增大,并受到林分类型和土壤湿度的影响。与阔叶红松混交林土壤相比,次生白桦林土壤较高的 DOC 及微生物碳含量可能导致其融化过程微生物呼吸增强。外源Glu引起的林地冻土融化过程中微生物呼吸碳排放量显著地大于所施Glu 含碳量,这有力显示了施加Glu 引起土壤固有有机碳的分解。湿度水平影响Glu 对土壤微生物呼吸及微生物碳的刺激效应;外源氮影响Glu 对土壤微生物呼吸及微生物碳的刺激效应,但随着湿度、林分和氮形态的不同存在差异。通过与未冻结实验结果[19]比较,发现土壤冻结过程显著地促进土壤微生物呼吸、削弱了外源氮对土壤微生物呼吸的抑制效果,并显著地改变了外源碳对土壤微生物碳和微生物呼吸的激发效应。无论冻结与否,温带森林土壤微生物呼吸和微生物量对葡萄糖施加的响应均与林分类型、湿度、外源氮供给及其形态存在显著的相关性。未来研究应进一步模拟野外实际情况,考虑外源物（如凋落物及其浸提物)的种类和剂量、冻融交替的频次和强度以及更多湿度梯度对中国高寒区森林土壤有机碳分解激发效应的影响及相关微生物机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]DuránJ，RodrguezA，MorseJL，GrofmanP.WinterclimatechangeefectsonsoilCandNcesinurbangrasandsGlobalhange Biology，2013，19(9)：2826-2837.   \n[2]GoldbergSD,uhrJorknWebauerG.uxesoflateelevntracegsebnarwaruceforestsoilandamoshreuring repeated freeze-thaw cycles in mesocosms.Journal of Plant Nutrition and Soil Science,2O08,171(5）：729-739. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3]KimDG,VagasRod-ambertyBretsyfetsfoleweigdangolsfesvliauedsuggestions for future research. Biogeosciences，2012，9（7）： 2459-2483.  \n[4]SchimelJP，leinJS.Microbialresponsetofreze-thawcyclesintundraandtaigasoilsSoilBiologyandBochemistry96，28（8）：1061-1066.  \n[5］徐星凯，段存涛，吴浩浩，李团胜，Cheng WG.冻结强度和冻结时间对高寒区温带森林土壤微生物量、可浸提的碳和氮含量及 ${ \\bf N } _ { 2 } 0$ 和$\\mathrm { C O } _ { 2 }$ 排放量的影响.中国科学：地球科学，2015，45（11)：1698-1712.  \n[6］秦璐，吕光辉，何学敏，张雪妮，张雪梅，孙景鑫，李尝君，杨晓东.艾比湖地区土壤呼吸对季节性冻土厚度变化的响应.生态学报，2013,33(22): 7259-7269.  \n[7]GroganP,MichelsenA，AmbusP，JoasonS.Frze-thawregimefetsoncarbonandnitrogendamicsinsub-arctichathtdramesocosms.Soil Biology and Biochemistry，2004，36(4）：641-654.  \n[8]Kopoejtartiiroiosfrallsaoues；btooylBiology and Biochemistry，2004,36(5）：757-766.  \n[9]LarsenKoaSceeepteslprsinoSoil Ecology，2002,21(3):187-195.  \n[10]GrofmaPM,HardyJP,DriscollCT,aheyTJ.Snowdepth，soilfrezing，ndfuxesofcarbondioxide,，ntrousoxideandmethaneanorthern hardwood forest.Global Change Biology，2006,12（9）：1748-1760.  \n11]uhrorkWateEftsflfrotolsposdocaaueisrefrstoilblgeBiology，2009,15(4）：782-793.  \n[12]BoksDnghtD,ElderK.Carbiatiooflespatidertersoacks：otetialacksegosowinter carbon fluxes.Global Change Biology，2005，11（2）: 231-238.  \n[13]DrotzSH，parrman,ShleucherJ，lssonMqistMG.Efetsofsoilorganicmatercompositoonufrozenwateoetdheterotrophic CO $_ 2$ production of frozen soils.Geochimica et Cosmochimica Acta,2010,74(8）: 2281-2290.  \n[14]Oquist M G,Laudon H. Winter soil frost conditions in boreal forests control growing season soil $\\mathrm { C O } _ { 2 }$ concentration and its atmospheric exchange.Global Change Biology，2008，14（12）：2839-2847.  \n[15]StielstraCM,LohseKA,CoroverJ,MntoshJC,Bao-GaffrdGA,PerdrialJN,LitvakBarardHR,BrosPD.Caticandlandscapeinsolistureeareatsofilbfsiasoallodfstosteist2015, 123(3) : 447-465.  \n[16]LouY,RenLX,LiZ,ZangLIbushiK.fetofriceresduesoabondoxideandnitrousoxideesofroadyslfsubtropical China.Water，Air,and Soil Pollution，2007,178(1/4）：157-168.  \n[17]LuWWingWX,gJH,LiY,JFanN,ieZBpesedhepoofcboiieloam soil：a negative priming effect. Soil Biology and Biochemistry，2O14,76：12-21.  \n[18]ZouJW,HuangY，ZongLG,Zheng XH，WangYS.Carbondioxide,methane，andnitrousoxideemisionsfromarice-wheatrotationasffected by crop residue incorporation and temperature.Advances in Atmospheric Sciences，2004,21(5）：691-698.  \n[19］吴浩浩，徐星凯，段存涛，李团胜，Cheng WG.植被类型、湿度和氮素供给对外源碳刺激森林土壤异养呼吸和微生物碳量的影响.中国科学：地球科学，2015，45(6)：820-830.  \n[20］王若梦，董宽虎，何念鹏，朱剑兴，代景忠，施侃侃.围封对内蒙古大针茅草地土壤碳矿化及其激发效应的影响.生态学报，2013，33(12): 3622-3629.  \n[21]MatzerE，orkenWDofrethaeventsehaeCndlosesfrsoilsofdferetostsArvieEuroanJoulfSoilScience，2008,59(2）:274-284.  \n22]LipsonDdtSoRKboliltmpetlhoeliilSoil Biology and Biochemistry，2000,32(4）：441-448.  \n23]SchdtlturliliteaeSoil,2004,259(1/2): 1-7.  \n[24]JacinthA,alR,KibleJ.CarbodgedasolbodoideeissofrotraOuvisolsuedyateeamendment. Soil and Tillage Research,2002,67(2）：147-157.  \n[25]Lukas S,Potthoff M,Dyckmans J,Joergensen R G. Microbial use of $^ { 1 5 }$ N-labelled maize residues afected by winter temperature scenarios.SoilBiology and Biochemistry，2013,65：22-3.  \n[26]IntergovtaleloiteCae（CC)ifestet（），orkingoupIeicalecesidgCambridge University Press，2013: 475-475.  \n[27]WuX,gec,dluestypical semi-arid grassland soil：a laboratory experiment.BiologyandFertilityof Soils,2014,50(2）：295-306.  \n[28]Teepe R,Vor A，Beese F,Ludwig B.Emissions of ${ \\bf N } _ { 2 } \\mathrm { O }$ from soils during cycles of freezing and thawing and the effects of soil water,texture andduration of freezing.European Journal of Soil Science，2OO4，55(2）：357-365.  \n[29］赵明月，赵文武，钟莉娜.土地利用和环境因子对表层土壤有机碳影响的尺度效应——以陕北黄土丘陵沟壑区为例.生态学报，2014，34(5):1105-1113.  \n[30] 孙玉军，张俊，韩爱惠，王雪军，王新杰.兴安落叶松（Larix gmelini)幼中龄林的生物量与碳汇功能.生态学报,2007,27（5)：1756-1762.  \n[31]XuXKan，agYbshiKefvgeatotdlprioalassbdeablcsintemperate volcanic and tropical forest soils.Soil Science and Plant Nutrition,2Oo7,53(4）：430-440.  \n[32］王旭，周广胜，蒋延玲，贾丙瑞，王风玉，周莉.山杨白桦混交次生林与原始阔叶红松林土壤呼吸作用比较.植物生态学报，2007，31(3):348-354.  \n[33]JenkisoDDeteatiooficobialasboadntrgninsoil/iloJR,dAdvaesinNirogenCyingincluralEcosystems.Wallingford：CAB International,1988：368-386.  \n[34]JenkinsonDS,BrokesPC,PowlsonDS.Measuring soilmicrobial biomassSoil BiologyandBiochemistry，2O04,36(1):5-7.  \n[35]WuJ,JoergesenRG,PoereingB，haodR，rokesCeasureentofsiloaassbyfuigatio-extracioautomated procedure.Soil Biology and Biochemistry，1990,22(8）：1167-1169.  \n6]FraJieflld11(1): 91-101.  \n[37]Panikov N S,Dedysh S N.Cold season $\\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 }$ emission from boreal peat bogs（West Siberia）：winter fluxes and thaw activation dynamics.Global Biogeochemical Cycles，2000，14（4）：1071-1080.  \n［38］吴浩浩.干湿交替及冻融过程对温带森林土壤温室气体净通量的影响[D].西安：长安大学，2014.  \n[39] KurganovIN,TipeP.eeetoffrezingthawingprocesssonsoilrespirationactityEurasianSoilSciece，，6（9）：976985.  \n[40]BlagodatsaEVgdatsdoatsioudcoagrowth strategies.Applied Soil Ecology，2007,37(1/2）：95-105.  \n[41]Morkved P T,Dorsch P,Henriksen TM,Bakken L R. ${ \\bf N } _ { 2 } \\mathrm { O }$ emissions and productratios of nitrification and denitrification as afected by freezingand thawing.Soil Biology and Biochemistry，2006,38（12）：3411-3420.  \n[42]Hgbeisiasleedtthree?.Oecologia，2007，150(4）：590-601.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

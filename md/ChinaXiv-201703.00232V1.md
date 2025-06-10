@@ -1,0 +1,510 @@
+# Fortran的并行扩展
+
+# 苏乐 房双德 黄元杰
+
+摘要：Fortran作为世界上第一个通用的高级程序设计语言，已经经历了50多年的发展和多种版本的演变，在科学和工程数值计算领域得到了广泛的应用，是迄今为止高性能计算领域最流行的程序语言之一。受限于其发明年代，最初的Fortran 语言并不支持并行计算。因此，为了增加和增强Fortran 用于并行计算的能力以及保证程序的可移植性，学术界和工业界在不同时代都提出了大量的针对以前Fortran 版本的并行扩展，其中一些已成为了正式或业界的标准而得到了广泛的应用。本文将综述从Fortran77以来，被业界广泛支持和接受的Fortran语言的并行扩展及其特点、实现情况和应用效果。
+
+关键字：Fortran并行计算程序设计
+
+# 1 Fortran语言概述
+
+# 1.1Fortran语言的诞生
+
+在1954年以前，几乎所有的程序都是用机器语言或汇编语言编写的。当时，程序员把生成一个有效程序看作是一项复杂而又富有创造力的艺术活动。他们的精力主要都花在克服当时计算机由于技术限制而产生的各种障碍上，如没有变址寄存器，没有浮点操作等。当时，为程序员提供的“自动编程”系统，主要也是关心如何克服上述不足。这些系统允许有浮点指令、变址寄存器，并改进了输入/输出指令，实际上是一种与实际机器有不同操作码的“人工计算机”。这种人工机比实际机器要容易编程，但是所有这些早期“自动编程”系统使用起来开销过大，通常它们会因此使机器运行速度降低 $80 \% { \sim } 9 0 \%$ 。
+
+其实，在1954年前后，花在程序员上的投资已接近计算机本身的价值。而且计算机的使用时间有1/4到一半是花在程序的排错上。这样，编程和排错就占据了一台计算机运行投资的3/4。随着计算机的价格越来越便宜，这种状况也变得更加严重。
+
+正是在上述因素的驱使下，1953 年末，约翰·巴克斯（John Backus）[1]向他所在的 IBM公司建议成立一个小型研究小组，研究开发一种更加有效更加经济的编程方法，以改变当时IBM生产的704计算机编程效率低下的状况。该建议被当时的IBM公司老板卡斯伯特·赫德（CuthbertHurd）采纳，研究小组随即在巴克斯领导下展开工作。在1954年中期产生了一种有相当功能和灵活性的初期编程语言规范，这种语言当时称作IBMMathematicalFORmula TRANslation System（FORTRAN，IBM数学公式翻译系统)。由于当时计算机主要用于科学计算，该语言的设计目标旨在以充分低的代价把含有丰富数学表达式的程序翻译成充分有效的目标程序。该项目的初衷纯粹是为IBM内部研究之用，但在公布了该语言的中期报告后，引起IBM客户的极大兴趣。于是，IBM做出决定，保证每个购买704计算机的客户在他们的机器上均能使用Fortran语言。该版本称为FortranI。
+
+# 1.2Fortran语言的标准化活动
+
+自从Fortran语言问世以来，根据需要几经发展，形成了很多版本[2\~8]。
+
+经过不断发展，FortranI形成了很多不同版本，其中最为流行的是1958年出现的FortranII。FortranII对FortranI进行了很多扩充（如引进了子程序)，在很多机器上得以实现。其后出现的FortranIII未在任何计算机上实现。1962年出现的FortranIV对原来的Fortran作了一些改变，导致FortranII源程序在FortranIV编译程序下不能全部直接使用，产生了语言不兼容的问题，形成了FortranII和FortranIV两种程序设计语言共存的局面。
+
+正因为Fortran满足了现实的需要，所以它传播得很快，在传播和使用过程中不可避免地产生了多种方言版本。各种Fortran方言的语义和语法的规定不完全一致，这给用户带来了极大的不便。用户迫切希望有能在各种机型上互换通用的Fortran语言。因此Fortran 语言的标准化工作变得十分迫切。1962年5月，当时的美国标准化协会（ASA，AmericanStandard Association，后来改名为 ANSI—American National Standards Institute，现名为NIST—National Institute of Standards and Technology）成立了工作组开展此项工作，1966 年正式公布了两个美国标准文本：标准基本FortranX3.10-1966（相当于FortranII）和标准Fortran X3.9-1966（相当于FortranIV）。
+
+由于Fortran 语言在国际上的广泛使用，1972 年国际标准化组织（ISO，InternationalStandard Organization）公布了 ISO Fortran 标准，即《程序设计语言 Fortran ISO 1539-1972》,它分为三级，一级Fortran相当于FortranIV，二级Fortran介于FortranII和FortranIV之间，三级 Fortran 相当于Fortran II。
+
+FortranIV（即Fortran66）流行了十几年，几乎统治了所有的数值计算领域。许多应用程序和程序库都是用FortranIV编写的。但很多编译程序并不向这一标准靠拢，它们往往为实现一些有用的功能而忽略标准；另外，在结构化程序设计方法提出以后，人们开始感到FortranIV已不能满足要求。FortranIV不是结构化的语言，没有直接实现三种基本结构的语句，在程序中往往需要用一些GOTO 语句以实现特定的算法；而且为了使非标准的Fortran 源程序能够移植，产生了“预处理程序”，通过预处理程序读入非标准的Fortran源程序，生成标准的Fortran文本，但这种自动生成的Fortran程序通常让人难以阅读理解。
+
+美国标准化协会在1976年对ANSIX3.9-1966Fortran进行了修订，基本上把各厂家行之有效的功能都吸收了进去，此外又增加了不少新的内容，1978年4月美国标准化协会正式公布将它作为美国国家标准，即 ANSI X3.9-1978Fortran，称作Fortran 77。1980 年，Fortran77被接受为国际标准，即《程序设计语言FortranISO1539-1980》。这种新标准并不是各非标准Fortran的公共子集，而是自成一体的新语言。我国制订的Fortran标准，基本采用了国际标准（即Fortran77），于1983年5月公布执行，标准号为GB3057-82。Fortran77还不是完全结构化的语言，但由于增加了一些结构化的语句，使Fortran77能用于编写结构化程序。此外，还扩充了字符处理功能，使Fortran不仅可用于数值计算领域．还可以适用于非数值运算领域。
+
+因为Fortran77有着明显的局限性，为了引入一些新的功能，适应语言的发展，ANSI在80年代初期开始准备制定Fortran8x标准。当初为了与前一标准相对应，设想是 $\mathbf { \boldsymbol { x } } = 8$ 。由于要将 Fortran 77 作为一个子集，同时又要确保程序的高效率，其标准化的工作花了十几年，最终在1991年通过了Fortran90 新标准ANSIX3.198-1991，相应的国际化标准组织的编号为ISO/IEC1539:1991。新的Fortran标准废弃了过时的严格的源程序书写格式，改善了语言的正规性，并提高了程序的安全性，功能有更大的扩充，是一个能适应现代程序设计思想的现代程序设计语言。为了保护对Fortran77用户在软件开发上的巨大投资，整个Fortran77被作为Fortran90的一个严格子集。
+
+随着其他程序设计语言的迅速发展，Fortran不再是唯一广泛使用的程序设计语言。然而，尽管在一些特殊领域使用其他程序语言更为合适，但在科学和工程技术数值计算领域，Fortran仍具有强大的优势。其强大的生命力在于它能紧跟时代的发展不断更新标准，每次新的文本推出都在功能上有突破性进展。例如，Fortran90不仅仅是将已有的语言进行标准化，更重要的是吸取了一些其他语言的优点。所以，虽然Fortran语言历史悠久，但仍在日新月异地发展。
+
+随着巨型计算机（向量机和并行机)的异军突起，出现了新的高性能Fortran语言（HPF)，它是Fortran90的一个扩展子集，主要用于分布式内存计算机上的编程，以减轻用户编写消息传递程序的负担。HPF-1.0 的语言定义是在1992年的超级计算国际会议上做出的，正式文本是在1993年公布的。其后几年的会议上又对它进行了修改、重定义、注释等工作，于1997年发布了HPF2.0语言定义。Fortran95则包含了许多HPF的新功能。在Fortran90出现之前，在并行机上运行程序需要结合专门的向量化子程序库，或者是依赖Fortran编译系统进行自动向量化。而Fortran90之后，程序员在编程时可有目的地控制并行化。
+
+在 2004年后，又陆续公布了支持面向对象编程的Fortran2003标准，以及再后面的Fortran 2008 标准等。
+
+# 2 Fortran77以来的并行扩展
+
+Fortran 语言发展过程是随着程序设计方法飞速发展而逐渐演进的过程。进入Fortran标准和并行计算直接相关的扩展在数量上并不多，以下是ANSI/ISO Fortran标准发展的一个概述。
+
+# 2.1 Fortran 77
+
+Fortran77相对Fortran 66在许多方面做了重要改进。Fortran最初是为数值计算设计的，Fortran77扩充了字符处理功能，使之能应用于非数值计算领域。Fortran77还增加了块IF 语句、ELSE语句、ENDIF语句等，使写出的程序趋于结构化，可读性加强。此外，Fortran77还增强了输入输出的功能和文件处理能力，对Fortran66标准中的许多部分做了改进（如允许不同类型变量和数值的混合运算，数组下界可以是负数和零，数组下标表达式可以为任意的整型表达式等）。
+
+具体扩充如下[4][9].
+
+CHARACTER数据类型（极大地扩展了字符输入和输出以及对基于字符的数据进行处理的工具);  
+IMPLICIT语句;  
+IF 语句块，以及可选的ELSE和ELSEIF从句（提供改进了的对结构化编程的语言支持);  
+OPEN，CLOSE和INQUIRE语句（以改进读写（I/O）能力）；  
+直接访问文件读写；  
+PARAMETER语句（以指定常数）；  
+SAVE语句（以保存本地变量）;  
+内部函数的通用名称;  
+DO WHILE 和 END DO 语句;  
+INCLUDE语句；  
+IMPLICITNONE变量（用于IMPLICIT语句）;
+
+位处理内部函数（基于类似的包含在工业实时Fortran（ANSI/ISA S61.1(1976))中的函数）。
+
+1991年推出的IEEE1003.9POSIX标准版为Fortran77的编程人员提供了POSIX系统上的调用，在文件上定义了超过一百种的功能调用，允许存取 POSIX 兼容的进程控制（process control）、信号处理（signal handling）、文件系统控制（file system control）、设备控制（device control）、过程指定（procedure pointing），以及流输入与输出（stream I/O）。
+
+由于这一版本成功地改变了Fortran77开发流程，使得原本过于缓慢重复的编程设计可以顺利地应付计算机领域迅速的变化。
+
+# 2.2PCFParallel Fortran
+
+PCF Parallel Fortran是由布鲁斯 利热（Bruce Leasure)等人[10]于1991年提交给Fortran标准化委员会的一个并行扩展，该扩展基于Fortran77，添加了支持共享内存多处理器体系结构的语句，使得程序员可以指定线程数目，标定私有/共享数据，加锁并控制线程顺序。
+
+计算划分方面，主要增加了PARALLELDO和PARALLELSECTION两个结构。其中PARALLELDO用于标记没有依赖的循环，执行中不保证循环下标的顺序。当需要在进程执行并行段落之中进行同步控制、通信时，提供了加锁、指定CRITICAL SECTION 和全局EVENT来实现。
+
+值得注意的是，PCFParallelFortran并没有要求编译器对死锁进行处理，因此程序员需要自己考虑锁或事件可能引发的死锁情况。PCF Parallel Fortran 在早期的机器如 CrayT3E上得到了实现，但其扩展最终没有进入Fortran标准。
+
+# 2.3 Fortran 90
+
+Fortran90是Fortran77的后续版本,经过长时间的延迟，于1992年正式发布。Fortran90 对Fortran77 的修改集中在程序设计方面[5][11,12].
+
+允许自由格式源代码输入，以及小写的Fortran关键字；引入模块，将有关联的过程和数据组合在一起，使它们可以被其它程序单元调用，包括允许限制一些模块的特定部分访问；添加RECURSIVE（递归）过程；极大地改善了参数传递机制，允许在编译时检查接口；允许通用过程的用户自定义接口;允许操作符重载；引入派生/抽象数据类型;添加了新的数据类型定义语法，以指定数据类型和变量的其它属性;可以在表达式和赋值语句中按整体操作数组（或数组节)，由此极大地简化了数学和工程计算的编程。这些特性包括整体、部分和通配的数组赋值（比如用WHERE语句作选择性赋值)，数组常数和表达式，用户定义的数组函数和数组构造；动态内存分配可以通过ALLOCATABLE（可分配）属性和ALLOCATE（分配空间）和DEALLOCATE（释放空间）语句实现；引入POINTER（指针）属性、指针赋值和NULLIFY（指针置空）语句以便于创建和操作动态数据结构;引入CASE结构以支持多分支选择；□ 引入EXIT和CYCLE语句以用于按顺序地“跳出”正常的DO循环重复；
+
+标识符长度扩展至最长31个字符；  
+$\boxed { \overline { { \mathbf { u } } } }$ 添加行内注释；  
+$\boxed { \overline { { \mathbf { u } } } }$ 添加用户可控制的可定义的数字精度；添加新的和增强的内部过程。
+
+Fortran90并行计算的底层模型是数据并行，其实现需要通过使用数据数组、提供作用于那些并行的数组之上的操作和内部函数，由编译器针对各个特定的硬件体系结构进行优化。从定义上讲，“数据并行”和所谓的 SIMD'（单指令多数据）编程方式之间并不存在太大的区别。从某些角度来看，两个术语几乎意味着相同的事情：程序员写下单独一个操作，比如说“十”，然后编译器让它针对多块数据以硬件所允许的尽可能并行的方式去执行。
+
+任何一种非 SIMD 的并行计算方式一般都被称为 MIMD²（多指令多数据)。一个具有MIMD 特性的并行编程语言将允许几个不同的子程序（作用于数据的不同部分）被同时调用执行。Fortran90几乎没有MIMD 结构。一个Fortran90编译器可能在某些机器上通过实现一些Fortran 90的内部函数（例如pack或unpack)来执行MIMD代码,但这对Fortran90 用户来说是隐藏的。一些Fortran90 的扩展版本，比如HPF（High PerformanceFortran）就显式地实现了MIMD特性。
+
+# 2.4高性能Fortran（HPF）
+
+超级计算系统发展到现在已经形成了各不相同的系统结构，如分布存储 $\mathbf { M P P } ^ { 3 }$ 、共享存储多处理机系统、向量机、大型机和工作站等。要充分发挥这些不同结构计算机系统的能力，就要求程序中能够提供比传统Fortran和Fortran90程序更多的信息。在此之前，很多研究机构已对此进行了广泛研究，其中以美国莱斯大学（RiceUniversity）的Fortran $\mathbf { D } ^ { [ 1 3 ] }$ 语言及奥地利维也纳大学的ViennaFortran[14语言影响最大。1991年底，肯·肯尼迪(Ken Kennedy)和杰弗里·福克斯（Geoffery Fox）建议成立一个非官方的组织，来进一步定义这种语言和进行标准化。于是，一个由工业界和学术界联合组成的机构——高性能 Fortran 论坛[5]宣告成立。经过两年多的努力，终于在1993年推出了一种能够满足上述要求的新的Fortran语言标准——高性能 Fortran（High Performance Fortran，HPF）。
+
+HPF[15\~17]的目标是为Fortran 语言（主要是Fortran 90）定义一组语言扩充标准，以实现：
+
+-支持数据并行程序设计；  
+二 能在非一致存储访问开销的SIMD或MIMD计算机上获得最高性能;  
+-程序代码便于在不同体系结构的计算机间移植。
+
+# 2.4.1本质特征
+
+HPF并行模型的本质特征是单线程、全局内存空间和松散同步。虽然HPF最初以NUMA4为目标，但是其对于非均一访存机器上数据并行的描述信息亦可指导编译器生成分布式内存机器上的代码，当编译器以分布式内存机器为目标机时，HPF将被编译成 SPMD程序。
+
+HPF 中的新语法结构FORALL和固有函数被用于支持数据并行，而数据分布等制导信息用于取得NUMA机器上的高性能；外部函数则可用于体系结构底层相关的优化。
+
+# 2.4.2HPF的数据分布制导
+
+HPF 有一套编译制导来协助程序员表述数据是如何存储的。这些制导不会影响计算结果，但是会影响到执行效率。它们的引入是基于以下两个重要但是简单的观察：
+
+-如果同一个操作要处理多个数据对象，那么这些数据对象在同一个处理器上执行效率会更高；－如果操作在不同的处理器上同时执行，那么整体的执行效率会更高。
+
+使用这些数据存储的编译制导，我们可以把数据合理地分布在多个处理器上，而编译器则会进行数据并行的优化，从而在运行时的帮助下提高程序的执行效率。
+
+在 HPF 中的主要操作对象是数组，编译制导可以把数据分成相同大小的块，称之为BLOCK分布，或者按照轮询（round-robin）的方式和其它数组对齐，称之为CYCLIC分布（或者使用更为复杂的方式进行数组数据的划分)。然后这些数据对象（数组）将会被对齐到一些抽象模板上，这些抽象模板则会被分布在抽象节点处理器上，编译器会把这些抽象处理器映射到物理处理器上，从而完成整个数据的映射过程。如图1所示：
+
+图2中第一行HPF制导信息展示了指示编译器将对于任意K，将 A(K)和B(K-1)映射到同一个虚拟处理器上的制导信息。而第二行HPF 制导信息则要求将数组C(I,1:100)复制到存有D(I，1:100)中任意元素的虚拟处理器；数据复制操作和数据同一性保证均由编译器保证。
+
+REAL A(100)，B(0:101)，C(100,100)，D(100,100)  
+!HPF\$ ALIGN A(K) WITH B(K-1)  
+!HPF\$ ALIGN C(I,J） WITH D(I，\*)
+
+![](images/bd75815083685cf6f19cbddc6ebb07fe86075ecadb7becbcb3bae39252ecd0ba.jpg)  
+图1．HPF的数据映射模型示意图  
+图2．HPFFORALL结构的示例  
+图3．HPF通过DISTRIBUTE制导信息控制数据分布
+
+图3中对分块和循环散列两种不同的DISTRIBUTE方法做了演示，如果目标平台为四处理器的机器，则在第一个处理器上将保存数组的以下部分：A(1:25,1:100）、（20 $\mathsf { B } \left( 1 : 1 0 0 , 1 : 9 7 : 4 \right)$ 和C(1:5)、C(21:25)、C(41:45)、C(61:65)、C(81:85)。
+
+REALA(100,100),B(100,100),C(100) !HPF\$DISTRIBUTE A(BLOCK,\*),B(\*,CYCLIC),C(BLOCK(5))
+
+# 2.4.3HPF的数据并行结构
+
+HPF主要并行结构为FORALL结构，用于计算数组操作，而WHERE语句可用来控制循环体作用的数组范围。
+
+相比Fortran90标准中的数组操作，FORALL语句或结构允许更加灵活的循环下标选择，如能方便地支持对于二维数组对角线上的元素进行赋值。但是需要指出的是FORALL结构从设计思路上讲，并不是一个通用的并行结构，它不能很好地支持数据流水计算或者MIMD 计算。
+
+![](images/8307d3067e85a46c038cac1e8ef21b9ae693b12c77695a787e639d2424f86fc2.jpg)  
+图4．HPFFORALL结构的示例
+
+另一点需要注意的是FORALL 结构中的数据依赖。一个有多条子句的FORALL 结构等价于多个FORALL 语句的序列；而每个FORALL 语句执行时，是在计算对于所有下标的赋值表达式的右值之后，才进行对左值的赋值的。如图4中的FORALL结构的计算顺序为先对任意I求 $\begin{array} { r l } { \texttt { A ( I - 1 ) } } & { { } + \texttt { A ( I ) } + \texttt { A ( I + 1 ) } } \end{array}$ ，再将值赋给A中的相应的元素，再对任意的I求 $\mathrm { ~ B ~ } ( \mathrm { ~ I } - 2 ) \mathrm { ~  ~ { ~ + ~ } ~ } \mathrm { ~ B ~ } ( \mathrm { ~ I ~ } ) \mathrm { ~  ~ { ~ + ~ } ~ } \mathrm { ~ B ~ } ( \mathrm { ~ I } + 2 )$ ，最后对B中的相应元素赋值。
+
+在HPF中由INDEPENDENT制导标记不依赖可并行的结构，可用于Fortran的DO循环或者HPF的FORALL结构。为了保证确定性的结果，INDEPENDENT标记的DO 循环中不可含有对于标量的赋值，除非用NEW 标记为不跨循环下标使用的临时变量，如图5所示。
+
+![](images/de2ad6d1f878f754fd7bc54f2285957911fae322aae79b1ca5b504b554564848.jpg)  
+图5．HPF通过INDEPENDENT指定并行循环、NEW指定临时变量的示例
+
+# 2.4.4HPF的其他特性
+
+HPF 还提供了一些内置函数供程序员使用，例如MAXLOC、MINLOC 用来求最大最小值的索引等。
+
+在语言特征修改方面，Fortran77的有序存储和现代体系结构中的局部性要求产生了冲突，因此HPF 取消了对于序列存储的要求，除非通过制导信息制定，编译器可对存储分布进行修改；同时编译器可以利用制导信息优化数据的组织分布。
+
+HPF 是一种不依赖于特定机器的高级语言，为了有效地支持如脉动通信等细粒度优化，还引入了外部函数这样一个接口。在HPF 2.0中还增加了HPFI/O扩展，但是厂商仍可以定义自己的读写（I/O）扩展。
+
+# 2.4.5HPF的实现情况
+
+随着 HPF1.0到1.1，2.0 的提出，广泛应用支持HPF 的编译器越来越多，而更多的研究机构和厂商也纷纷投入其中，以下列举一些支持HPF的编译器：
+
+Absoft 公司的 Absoft Pro Fortran;  
+Digital公司的DIGITALFortran（不再提供使用）;  
+Parsec技术公司的Fortran90（不再提供使用）;  
+康柏（Compaq）公司的Fortran Power Station4.0（不再提供使用）;  
+NA Software Ltd 公司的 HPF Plus;  
+中国科学院的limaoshan（不再提供使用))；  
+Portland Group 公司的 PGHPF;  
+Crescent Bay Software 公司（以前的Pacific-Sierra 研究院）的VAST-HPF;  
+AppliedParallel研究院的xHPF（不再提供使用）;  
+IBM公司的 xlhpf;  
+GMD-SCAI 公司的 Adaptor;  
+Fortran95 编译器G95;  
+南安普顿大学和VCPC（Vienna 并行计算欧洲中心）的 SHPF等。
+
+很多重要的应用也从HPF 中获得收益，主要集中在物理、数学等计算密集、数据并行度较大的应用，如：
+
+三维磁流体动力学仿真;  
+生物膜仿真;  
+加速器的计算物理学仿真（ComputationalAccelerator Physics）;  
+莱斯大学的HPFt项目-泛型耐撞性仿真内核（Generic CrashKernels);  
+癌变过程仿真模型的马尔科夫蒙特卡洛方法（MCMC forCarcinogenesis Models）；  
+预测石油净储量的神经网络（Neural Networks for Hydrocarbon NetPay Prediction）;  
+普林斯顿海洋模型（Princeton Ocean Model）等。
+
+# 2.4.6HPF的应用效果
+
+戴尔·夏尔斯（Dale Shries）等人[18]用非结构化有限元模拟器（Unstructured Finite ElementSimulations）应用把HPF 和MPI的效率进行了对比。实验使用Cray T3E 超级计算机，编译器采用PGHPF3.2。T3E是一个平行分布式内存的平台，采用了紧耦合的3D双向环的配置，拥有1088个处理单元，每个处理单元拥有500MB内存。实验结果如图6所示。
+
+![](images/b8c2f9eb6130e45f99592ac5ad30146046dea71a65ae86a5979bf3563820c23f.jpg)  
+图6．HPF和MPI的执行时间对比图
+
+图6(a)中，在有2个处理器的情况下，MPI程序比HPF 程序快4.5倍；在有32个处理器的情况下，快4.3倍。在图6(b)中，则在有2个处理器的情况下，MPI程序比HPF 快3.8倍；在有128个处理器的情况下，快2.7倍。
+
+实验结论是，HPF和MPI对于非结构化有限元这类应用都具有较好的扩展性，且这两种并行编程方式都比较适用于大多数并行系统例如SUN，SGI，IBM等。而HPF 是一个较高层次的并行编程抽象，对于HPF 来说获得这样的执行效率已经是非常不容易的。虽然比起MPI应用的执行效率仍有差距，但是HPF的编程比MPI大大简化，这也大大降低了并行程序设计的门槛，对并行系统的推广起到了很大作用。
+
+村井仁（Hitoshi Murai）等人[19]，在8处理器的机器上，使用 HPF/SXV2 编译器，在HPFBench[20],APR Benchmarks[21], GENESIS Benchmarks[22和 NAS Parallel Benchmarks[23]上评估了HPF 的应用效果。图7所示为在HPFBench上的结果，基准是F90不加并行扩展的程序。
+
+60504030 真 % 1401201080 B 504030 8  
+2.0 qr:solve 6.0 0 1 2.0 \*快速傅里叶变换4.0  
+1.0 . 1.0前 2.0  
+0.0 F90 HPF/1/2 /4 /8 0.0 F90 HPF/1/2 /4 /8 0.0 HPF/1/2 /4 /8(a) (b) (c)  
+8.0  
+706050 1 8 4012010 7加6050 ..9101 rp  
+4.0 8.0 4.0 一 一维波动方程  
+3.0 6.0 3.0  
+-s-Step4 1  
+2.0 4.0 2.0  
+1.0 F90 HPF/1 /2 /4 /8 2.0 F90 HPF/1/2 /4 /8 1.0 HPF/1/2 /4 /8(d) (e) (f)各图纵坐标为相对速度（以HPF/1的速度为基准），横坐标为执行方式
+
+图中 $\mathrm { ( a ) } { \sim } \mathrm { ( c ) }$ 是线性代数库的评估结果；(d)\~(f)是应用核的评估结果。
+
+从图7的(a)-(f)可以看到总体结果为：在1个处理器环境下使用 HPF 扩展时，性能略微有一些下降或者保持不变，在多个处理器环境下使用HPF 扩展时，可以得到较好的执行效率和扩展性。
+
+# 2.5 Fortran 95
+
+Fortran $\mathbf { 9 5 ^ { [ 6 ] [ 1 2 ] [ 2 4 ] } }$ 仅是一个小改版，大部分改动是修正了Fortran 90 标准中一些较为显著的问题。虽然如此，Fortran95 仍有不少的扩充，尤其是在HPF 的规格方面：
+
+添加了FORALL和嵌套的WHERE结构以帮助向量化；  
+引入用户定义的PURE和ELEMENTAL过程。
+
+Fortran95 的一个重要补充是ISO 技术报告 TR-15581：增强的数据类型工具，非正式名称是可分配的TR。这一标准定义了ALLOCATABLE（可分配）数组的增强的应用，其出现早于完全兼容Fortran 2003的Fortran 编译器，使用户可将ALLOCATABLE 数组用于过程伪参数列表及函数返回值中作为派生的类型组件。（ALLOCATABLE数组比基于POINTER（指针）的数组更受欢迎，因为ALLOCATABLE数组是由Fortran95保证的，当它们退出范围时会被自动释放掉，避免了内存溢出的可能性。另外，别名也不再是优化数组引用时的一个问题，可以使编译器生成的代码比用指针时生成的代码运行得更快。)
+
+Fortran95的第二个补充是ISO技术报告 TR-15580:浮点异常处理,非正式名称是IEEETR。这一标准定义了对IEEE 浮点算术和浮点异常处理的支持。
+
+# 2.6 Fortran 2003
+
+Fortran $2 0 0 3 ^ { [ 7 ] [ 2 4 - 2 6 ] }$ 是Fortran 发展中的一次巨大改变，引入了当时流行的面向对象的编程方法。主要的改进体现在：
+
+增强了衍生类型：带参数的衍生类型，改善了控制的可操作性，改善了结构化的创建和释放;支持面向对象编程：扩展类型和继承、多态、动态类型分配，以及类型绑定过程；改善了数据操作：支持可分配的组件（编入IEEETR15581)，延期的类型参数，VOLATILE（易变）属性（在并发系统中，程序员通过添加该属性，可以知道共享数据的取值是否已被正确刷新)，支持在数组构造和分配语句中显式定义类型，支持增强的指针、扩展的初始化表达式、增强的内部过程;增强的输入／输出：支持异步传输、流访问，允许用户指定衍生类型的传输操作，用户在格式转换时可以指定舍入控制，为连接前单元指定常数，使用FLUSH语句，定义了关键字的规范和访问错误信息；支持过程指针；支持IEEE浮点算法和浮点异常处理（编入IEEETR15580)；支持与C语言的交互性；支持国际化：访问ISO106464字节字符和在格式化的数字输入／输出中选择数字或者逗号；□ 提供与宿主操作系统增强的集成：可以访问命令行参数、环境变量和处理器错误信息。
+
+# 2.7 Fortran 2008
+
+Fortran 2003之后的版本是Fortran 2008[8][25,26]，与Fortran95一样，只是一个小改版,略微更正了Fortran2003的一些问题，并且合并了TR-19767的语言功能：
+
+Co-arrayFortran-并行处理模式；  
+BIT 数据类型。
+
+2007年8月，数据类型BIT被删除了。2008年2月，Co-arrayFortran 的计划已缩小，仅有ParallelI/O，而研发团队也被裁员了。
+
+# 2.8 Co-array Fortran
+
+Co-Array Fortran（简称“CAF")[27-32]是一组对 Fortran 95 的 SPMD 的并行扩展。CAF的主要并行对象也是数组，且仅仅对原来的Fortran95语法进行了很简单的扩展，所以程序员学习的负担很少。
+
+使用CAF 编写的Fortran程序段就好像是被复制了多份，每份都异步地执行。每份程序都有自己的数据对象，称为image（镜像)。CAF主要是扩展了数组的索引下表，CAF 使用方括号进行跨image 的访问。
+
+CAF 是一个SPMD 的并行编程模型，基于Fortran95语言。和MPI类似的是CAF 程序需要显式地管理数据和计算的分布，但是CAF是一个共享内存的编程模型，且不需要显式地进行数据通信管理，只需要使用对Fortran95数组下标的扩展进行其它处理器数据的访问，数据的通信和同步则是交给编译器进行处理和优化。CAF 现在主要在科学、工程计算中应用，在超级计算机中应用较多，主要在Cray Fortran90编译器3.1版本之后实现。此外莱斯大学的 Los Alamos Computer Science Institute (LACSI） 实验室[28]也实现了CAF。
+
+# 2.8.1Co-arrayFortran的主要特点
+
+首先是CAF 的计算分布(work distribution)，一个程序被复制多份，每份有自己的一组数据对象，每一份都成为镜像（image)，且多个镜像之间是异步执行的，所以每个镜像的执行路径都有所不同。程序员使用镜像索引（image index）和显式的同步操作来决定某个镜像实际的路径。编译器负责对CAF进行优化。
+
+其次，考虑数据分布，CAF 扩展了Fortran 语言的语法，允许程序员使用数据下标式的语法来在多个处理器上分布以及存取数据。例如：
+
+上面的代码中，声明的每个镜像有2个实数数组X和Y，每个数组大小都是N，且如果Q在每一个镜像上都是相同的值，那么第二句话的意思是每个镜像上的X数组都拷贝镜像Q上Y数组的值。在小括号里的数组下标表示的是在镜像内部，数组元素的索引。在方括号里的数组下标则表示的是数组所在的镜像的索引。使用数组下标的扩展语法使程序员更容易编程存取其他镜像上的数据。
+
+由于一个程序中，许多对数据对象的操作在本地进行才是最高效的，CAF的语法应该在一个很小的比较单独的部分出现。否则，使用CAF的代码越多将标志镜像之间需要的通信越多。这里给出一个CAF的简单的例子：
+
+1. $\begin{array} { r } { \mathrm { ~  ~ X ~ } = \mathrm { ~  ~ Y ~ } [ \mathrm { ~ \sf { P E } ] ~ } } \end{array}$ ！从Y[PE]取数  
+2 $\begin{array} { r l r } { \mathrm { ~  ~ \cdot ~ } \mathrm { ~  ~ \cal ~ Y ~ } [ \mathrm { ~  ~ \cal ~ P ~ E ~ } ] } & { { } = \mathrm { ~  ~ \cal ~ X ~ } } & { } \end{array}$ ！向Y[PE]赋值  
+3. $\texttt { Y } [ : ] \ = \texttt { X }$ ！广播X  
+4. Y[LIST] = X ！广播 X 覆盖 PE'在数组LIST中的子集  
+5. $\begin{array} { c c l } { { \mathrm { ~ Z ~ ( : ) ~ } } } & { { = } } & { { \mathrm { ~ Y ~ [ : ] ~ } } } \end{array}$ ！收集全部Y值  
+6. $\begin{array} { r } { \mathrm { ~ S ~ } = \mathrm { ~ M I N V R L } \left( \mathrm { Y } \left[ : \right] \right) } \end{array}$ ！求所有Y的最小值
+
+如上例中，第1行把X的值赋成第PE个镜像中Y的值；第2行为把X的值赋给第 PE个镜像中Y；第3行将当前镜像中X的值赋给所有镜像中的Y；第4行把当前镜像中X的值赋给LIST所指定的那一组镜像中的Y；第5行把所有镜像中Y的值赋给当前镜像中Z的值；第6行把所有镜像中Y的值取得，并求最小值，赋给当前镜像中S。
+
+在此之前，输入输出对于 SPMD 的编程模型来说是一个比较麻烦的问题，例如 MPI。因为标准的 Fortran 输入输出是假定有一个专门的进程来读取文件，这个限制往往会被违背，尤其是当每个镜像的输入输出都要独立进行的时候。而CAF使用最小的Fortran95I/O的扩展避免了之前程序模型所面临的一些限制，从而可以显式地提供并行读写，且可以基于
+
+进程和线程实现。
+
+图8是一个求最大值的CAF程序完整实例：  
+
+<html><body><table><tr><td>Subroutine greatest(a,great）！找出 a(:)[*]的最大值 real,intent(in)::a(:）[*] real,intent(out)::great[*]</td></tr><tr><td>real ::work(num_images()）！局部工作数组</td></tr><tr><td>great = maxval (a(:)) callsync_all！等待所有镜像到达</td></tr><tr><td>if(this_image(great)==1)then</td></tr><tr><td>work(:)=great[:］！获得局部最大值 great[:]=maxval(work）！广播全局最大值</td></tr></table></body></html>
+
+图8.使用CAF扩展求最大值  
+
+<html><body><table><tr><td>Subroutine greatest (first,last,a,great)!求 a(:)[first:last]的最大值 integer,intent(in)::first,last real,intent(in)::a(:)[*] real,intent(out）::great（:）[*]!将结果放入 great[first:last]</td></tr><tr><td>real,allocatable::work（:）！局部工作数组</td></tr><tr><td>integer: :i,this this=this_image(great)</td></tr><tr><td>if (this.GE.fitst.and.This .LE.last) then</td></tr><tr><td>allocate (work(first:last)) great=maxval(a)</td></tr><tr><td>call sync_team((/(i,i=first,last)/))</td></tr><tr><td>if(this.EQ.first) then</td></tr><tr><td>work=great［first:last]！获得局部最大值</td></tr><tr><td>great[first:last]=maxval(work）！广播全局最大值</td></tr><tr><td>deallocate (work)</td></tr><tr><td>end if</td></tr><tr><td>call sync_team((/(i,i=first,last)/))</td></tr><tr><td></td></tr><tr><td>end if</td></tr><tr><td>end subroutine greatest</td></tr></table></body></html>
+
+如图8中的代码所示：一开始，所有镜像求得本镜像内部的数组a的局部最大值。然后同步，等待所有的镜像都完成最大值的求解，然后第一个镜像去收集所有镜像中的局部最大值，并且求得全局最大值，然后分发给所有镜像。第6行中的call sync_all 是CAF提供的方法，用来进行镜像间的同步。
+
+这里有一个问题，如代码的第4行，每个镜像都申请了一个名为work 的局部数组来保存收集来的局部最小值。事实上，只有第一个镜像才用得到work 数组。这里我们可以使用CAF 提供的allocatable array 来实现只在image1中申请 work 数组。图9 给出改进版的代码。如图9中的灰色填充框所示，先声明work 数组为allocatable，然后在image1要执行的代码内部为其分配并释放空间。
+
+# 2.8.2Co-array的实现情况
+
+很久以来在许多Fortran 编译器以及相应的系统中就实现了Co-array 扩展，例如 CrayFortran[27]自从3.1 版本以来就包含了Co-array 的支持。经过不断的发展和完善，Co-array扩展已经被纳入了Fortran 2008 的标准之中，且在越来越多的系统中得到实现和支持。第一个开源的Co-array 实现，是在G95 中把Co-array 作为Fortran 2008 的标准在编译器和相关的Linux运行时系统中实现。
+
+此外，一些研究机构和公司也在积极地实现CAF2.0标准的编译器以及运行时库。例如莱斯大学截至到2011仍在开发支持CAF2.0的产品级的开源编译器，其CAF2.0的运行时库采用加州大学伯克利分校（UC Berkeley）的GASNet[3]作为基础通讯库。GASNet是一个和语言无关的，低层的网络通讯层，用来提供独立于网络的，高效的通讯原语，可以用来支持一些常见的全局地址空间的 SPMD 语言，例如 UPC、Titanium、Co-Array Fortran 等。
+
+# 2.8.3Co-array的应用效果
+
+MPI MPI 6 CAF 1 CAF BUP-barrier 0.6 APbarier 0.5 BUPC-restrict 0.5 BUPC-restrict 8 BUPC-prpded 0.4 BUPC-stded 0.3 0.2 3 0.2 0.1 0.1 0 1 2 4 8 16 32 64 0 1 2 4 8 16 32 64 处理器数目 处理器数目 (a)MG class A on Itanium2+Myrinet (b)MG class C on Itanium2 $^ +$ Myrinet 1.1 88 A 四0.9 1 数0.8 BUPC-p2p BUPC-restrict 器 0.7 --O- MAF 0.4 BUPC -- IUPC 0.2 摔01 2 4 8 ：16 32 64 效 01 2 4 8 16 32 处理器数目 处理器数目 (c)MG class B on Altix 3000 (d)MG class B on origin 2000
+
+克里斯坦·克拉法（Cristian Coarfa）等人[34]于 2005 对于共享地址空间的 SPMD 语言进行了评估，其中包含 CAF。实验使用 NAS Parallel Benchmarks (NPB)MG, CG, SP 和 BT。比较了CAF，UPC 和Fortran $^ +$ MPI三种实现的效果。实验平台有4种：
+
+1. 92节点 $\mathrm { H P } \ z \mathrm { x } 6 0 0 0$ 的工作站 $^ +$ Myrinet 2000   
+2. Lemieux Alpha cluster， Pittsburgh Supercomputing Center,   
+3. SGI Altix 3000   
+4. SGI Origin 2000
+
+图10 显示了MPI、CAF 和UPC在NASMG上的性能比较，对比了MPIFortran版本、CAF、UPC 以及其使用不同变种版本时的性能,其中BUPC 代表使用BUPC 编译,CAF-barrier指使用门锁（barrier）方式进行同步。BUPC-restrict 指使用restrict关键字以便别名优化，BUPC-p2p 指使用点对点（point-to-point）方式进行同步，BUPC-strided使用UPC 扩展对跨块数据（strided data）进行成批传输（bulk transfers）。
+
+1.1 自器 432109876543210 ↑MPI CUP 四1.0 数0.9 CAF-barrier 器0.8 ←-BUPC-reduction 0.7 0.6 0.5 ↑MPI 提0.4 - BUPC 101CAF 0.3 率0.2 效0.1 2 4 8 16 32 64 0 2 4 8 16 32 64 处理器数目 处理器数目 (a)CG class C on Itanium2+Myrinet (b)CG class B on Alpha+Quadrics 1.1 1.1 8 MAF 自器/ 1 BUPC 0.9 CAF-barrier 885888888 -BUPC-reduction 南 □IUPC-reduction 效0.1 0 1 2 4 816 32 64 0 2 4 8 16 32 处理器数目 处理器数目 (c)CG class B on Altix 3000 (d)CG class B on origin 2000
+
+由图10 和图11，可以看出虽然性能比较的结果由于程序的差别而有所不同，但是CAF的性能和传统的MPI程序以及新兴的UPC 语言都显示出了不错的效果。作为一门共享地址空间的并行语言扩展，CAF 使用最容易接受的，容易编写的方式对 Fortran 语言的数据对象下标进行扩展，且达到了很好的性能效果，并且有较好的扩展性和平台适应性，这也是CAF可以被加入Fortran2008标准的一个重要原因。
+
+# 2.9 其他
+
+# 2.9.1 F--
+
+作为 Co-Array Fortran 的前身，F-_[35]是基于Fortran 77/90 语言的并行扩展，同样使用SPMD 编程模型，且其执行模型（计算分布）和数据模型（数据分布）和Co-Array 完全相同，只是语法略有不同，部分原因是由于Fortran90和95语法的区别。
+
+# 2.9.2Fortran D
+
+Fortran $\mathbf { D } ^ { [ 1 3 ] [ 3 6 , 3 7 ] }$ 是一组对Fortran77语言的高效的并行扩展，可以使用在分布式内存的机器上指定数据划分，然后FortranD编译器自动创建高效的并行代码，基于数据划分进行计算划分。编译器会产生显式的通信（以消息通信为基础)，并且优化这些通信来生成高效的并行代码，最终数据会按照指定的数据划分分布在各个节点上，SPMD的可执行程序则会分布到所有节点上并行执行。
+
+FortranD尽管是一个很老的语言扩展和编译系统，且现在也逐渐不再使用了，但是它的发展对很多在分布式内存并行机上进行的并行程序研究做出了巨大的贡献。例如FortranD 对HPF的发展起过很重要的影响，HPF采用了几乎同样的方式把数据划分的任务交给程序员来做，而且HPF的后端也采用很多相同的优化技术。这也是HPF和FortranD扩展如此相似的原因。
+
+# 2.9.3 MPF
+
+MPF[38编程语言是由阿·雅·卡里诺夫（A.Ya.Kalinov）等提出的对Fortran 90 的一个扩展，是为分布式并行系统而设计的。MPF的设计经验来自于MPC编程语言的发展和应用。MPF 是一个显式并行编程方法，试图寻找效率和易编程性之间的权衡。
+
+在以往Fortran语言的并行扩展中，HPF 容易编程，程序员的开发效率较高，但是程序的编译优化较为困难，导致其性能很大程度依赖编译器的实现，并且比MPI $^ +$ Fortran 编写的程序的效率低。所以MPF 的目的就是提供较好的编程性，且在效率上较HPF 有所提高。
+
+MPF 的特性不再详细介绍，和MPI程序在少量程序上的对比结果，MPI程序的性能大概比MPF程序高 $10 \%$ 左右。而MPF程序的表达能力较好，编程容易。但MPF并没有广泛使用和被接受，仅仅处在研究实验阶段。
+
+# 2.9.4IPFortran
+
+IPFortran[39]是一门利用多进程实现数据并行的编程语言，是Fortran 语言的一个扩展。
+
+实现多进程间数据并行通信时，send（发送）和receive（接收）被隐式地包含在中缀运算符（插入运算符）以及reduce 函数中。由于和系统相关的消息通信代码对程序员透明，由编译器和运行时来接管，代码串行编写，所以代码的开发效率提高。而且消息通信的逻辑是由编译器来自动生成，从而减少了开发中的错误。
+
+IPFortran编程有一个重要的前提是，每个处理器知道所有处理器上的变量的名字。为了达到这个前提，我们需要所有处理器运行相同的IPFortran代码，编程模型是 SPMD。程序员使用数据的局部视图（localview）完成数据的分发和读取。
+
+程序员通过局部化（local）方法使用显式的逻辑为每个处理器写代码，且使用相应的控制结构来进行数据的分解和传播。使用这种方法程序员可以高效地写出IPFortran代码，且很多工业级的代码都可以很快地移植到IPFortran上来。
+
+# 2.9.5Fortran M
+
+Fortran $\mathbf { M } ^ { [ 4 0 , 4 1 ] }$ 是在Fortran77 的基础上进行的一组扩展，它支持面向模块化的消息传递的程序设计方法。FortranM具有以下特点：
+
+模块化程序使用显式定义的通信通道进行通信。FortranM程序就是由这些通信通道将模块连接在一起而形成的。每个模块称为一个进程（process)，每个进程可以包含普通数据、子进程，以及内部通信。  
+安全在通道上的操作经过严格的限制和规定，可以避免二义性的执行和不正确的结果。通信的通道是有类型的，所以编译器可以检查其使用是否正确。  
+不依赖于体系结构 进程映射时，可以先映射到一个和实际机器不同的虚拟计算机配置上。映射可以通过注释进行，结果只会影响程序的性能，不会影响正确性。高效FortranM可以在单处理器、共享内存的系统、非共享内存分布式的系统以及网络工作站上高效地实现。由于通信被包含在代码之中，编译器也可以在优化计算时优化通信。
+
+# 2.9.6 OpenMP Fortran
+
+OpenMP[42]并非专属Fortran的扩展，而是一套工业标准的制导信息、库函数和环境变量，其目标在于提供一套得到编译器广泛支持的共享内存机器上的并行程序开发方法。与HPF 类似，OpenMP 通过制导信息指定并行域，并行域中的代码将在线程上执行。OpenMP的并行域允许嵌套。
+
+OpenMP 得到了几乎所有主流编译器的支持，已经成为共享内存环境中并行编程的事实标准，并因其突出的可移植性而逐渐取代了很多厂商的私有扩展。
+
+# 3厂家私有的并行扩展
+
+# 3.1 VPP Fortran
+
+VPPFortran[43-46]最初是为VPP 系列超级计算机开发的（1991)。一方面，由于使用全局名字空间，VPPFortran编程比MPI容易得多，数据可以分解和分布在多个处理器上，通过运行时来保证数据的一致性和同步等问题。另一方面，VPPFortran提供较为低层的方法来支持纯数据并行，从而得到更好的性能。这些方法可以显式地存取每个处理器上的数据，实现广播、多播、栅栏、关键区、同步等等操作。这些低层的特性不是任何时候都是必要的，但是他们可以用来提升关键程序的性能。
+
+# 3.1.1数据分布
+
+VPPFortran编程模型描述的目标硬件如图12所示：每个处理器有自己的本地存储器，本地存储器总是最快的存储器。全局存储器物理上分布在每个处理器上，被所有的处理器共享使用。在VPPFortran编程模型中，每个变量要么是局部（Local)，要么是全局（Global）属性，取决于其所在的位置。
+
+![](images/807ffd43b5742d0bf54b44dee7ba32377b2eb22c6db08e9804c375fefce94acd.jpg)  
+图12.VPPFortran编程模型
+
+# 3.1.2执行程
+
+# 以下使用如图13所示的一段代码来说明VPPFortran程序的执行过程：
+
+包含在PARALLELREGION（并行区域）之中的代码段将会被并行执行。PARALLELREGION将会在每个处理器上使用进程分叉函数（fork）来创建进程，并在END
+
+PARALLEL的时候调用join，这种行为和OpenMP的行为有些类似。但是VPPFortran是使用在分布式内存的并行系统上，控制和数据都是要分布在每个节点处理器上；而OpenMP则是使用在共享内存的系统上，只有控制是分布在多个处理器上的。
+
+VPPFortran有两种分解（SPREAD）构造，一种是SPREADREGION，是用来描述任务如何分解的；一种是SPREADDO，是用来描述循环（LOOP）是如何分解的。
+
+1A ---- 2 .......... 3 4 ····. 5 · 6 ......... 7 ···. 8 ........... PROCESSOR P (8) PARALLELREGION .......... B B SPREAD REGION/P (1: 2) ..·. ······. ......................... ..···..···.········.······ C   
+C D REGION/P(3:8) .......·.·. ......·..·· D END SPREAD   
+...···.. ....... ... ... ...... E + SPREAD DO /(P) DO I=1,N   
+F1F2F3 ： N F END DO ENDSPREAD ........ ..... :G ......... ··· G ....... ENDPARALLEL   
+H ......... ....... ......... ........ H END
+
+# 一组PARALLELREGION
+
+构造或者 SPREAD 构造和一组处理器相对应，称为区域（Region)，区域可以嵌套。如图13：C 被分派到了处理器1和2上，D被分派到了处理器3-8上。SPREADDO 则把循环的各个迭代分派到所有的处理器上并行执行。此外VPPFortran还可以实现分区索引（indexpartition）和显式通信。
+
+# 3.2 HPF/JA extension
+
+HPF/JA extensions[47-50]是基于VPP Fortran 的特性，在 HPF2.0 的基础上所做的系列扩展。其特性包括处理期间的异步通信、显式的编译制导 shadow、localdirective（局部目录）等。这些特性也是VPPFortran 中在处理真实应用时非常有用的。这里给出一个HPF/JA 的例子来讲解一下其特性：
+
+图14展示了一个如何在相邻处理器上存取数据的例子，其中左边是BT基准程序的HPF实现。X和U数组的第2维按照块（BLOCK）的方式进行分布，并且对下面的循环进行并行。访问数组X是本地访问，但是U数组就不一定了，这是由于U数组的下标访问为J-1、$J { - } 2 , \mathbf { J } { + } 1 , \mathbf { J } { + } 2$ 而不是J,而这些元素恰好会被映射到相邻的处理器上。HPF2.0通过定义shadow编译制导来用于这样类似的循环，shadow 指定了该处理器在其本地的存储器上有一块内存可以保存相邻处理器的一部分数据，以方便存取。
+
+图14(b)显示了如何利用 shadow 编译制导，其中U的第2维上下边界都有2个元素大小的 shadow区域。Reflect制导在循环前被使用用来将相邻处理器的边界元素拷贝到当前处理器的本地存储上，这就保证U被存取之前是局部的，使我们可以用local 编译制导。
+
+其中local编译制导被引入的原因如下：即使当执行的时候数据是存放在同一个处理器上，而编译器在编译的时候不知道数据在哪里，还是有可能造成存取低效。原因是在运行时找到数据的位置将会涉及到大量的指令执行，开销比较大。尽管数据存放的位置大多数时候可以在编译的时候被分析出来，但是仍旧会有一些不确定性，local编译制导被引入是用来告诉编译器数据确定是存放在当前处理器的本地存储上，从而优化数据存取，提高执行效率。
+
+!hpf\$ processors p(4) !hpf\$ distribute (\*,block) !hpf\$&onto p: x,u !hpf\$ shadow u(0,2:2)   
+!hpf\$ processors p(4) ·   
+!hpf\$ distribute(\*,block) !hpfj reflect u   
+!hpf\$& onto p : x,u !hpf\$ independent,new $( \mathrm { i } , \mathrm { j } )$ （204号 P do 100 j=3,n-2   
+!hpf\$ independent,new(i,j) $\mathtt { P }$ !hpf\$ on home $( \mathbf { x } ( : , \mathbf { j } ) )$ begin   
+P do 100 j=3,n-2 P !hpfj local begin   
+P !hpf\$ on home $( \mathbf { x } ( : , \mathbf { j } ) )$ begin V P do $2 0 0 \ \mathrm { ~ i ~ } \ = \ 1 , \mathtt { n }$   
+P do 200 i=1,n V P $\begin{array}{c} \begin{array} { r l } & { \mathbf { x } \left( \mathrm { i } , \mathrm { , ~ j } \right) = \mathbf { x } \left( \mathrm { i } , \mathrm { , ~ j } \right) + \mathrm { u } \left( \mathrm { i } , \mathrm { , ~ j } - 2 \right) } \\ & { \mathbf { \delta } } \\ & { \mathbf { \delta } } \\ & { \mathbf { \delta } } \end{array} \qquad \mathrm { i u } \left( \mathrm { i } , \mathrm { , ~ j - 1 } \right) + \mathrm { u } \left( \mathrm { i } , \mathrm { , ~ j } \right)  \\ & { \mathbf { \delta } } \\ & { \mathbf { \delta } } \end{array}$   
+P 5 x(i,j)=x(i,j)+u(i,j-2) V P   
+P& +u(i,j-l)+u(i,j) VP   
+P& $+ \mathrm { u } ( \mathrm { i } , \mathrm { j } + 1 ) + \mathrm { u } ( \mathrm { i } , \mathrm { j } + 2 )$ （20 VP 200 end do   
+P 200 end do $\mathtt { P }$ !hpfj end local   
+P !hpf\$ end on P !hpf\$ end on   
+P 100 end do P 100 end do (a）朴素编码 (a）利用 shadow编译
+
+# 3.3ICL DAP Fortran
+
+International Computing Limited 公司生产了最早的并行处理器DAP,并为之开发了DAPFortran。DAPFortran[51]是针对FORTRAN77非读写（I/O）部分的扩展，使之支持数组、矩阵计算。
+
+# 3.4 PGI CUDA Fortran
+
+CUDA(Compute Unified Device Architecture)[52]是显卡厂商英伟达（nVIDIA）推出的运算平台。CUDA是一种通用并行计算架构。该架构包含了CUDA指令集架构（ISA）以及GPU内部的并行计算引擎，使GPU能够解决复杂的计算问题。开发人员现在可以使用C语言来为CUDA架构编写程序。所编写出的程序可以在支持CUDA的处理器上以超高性能运行。
+
+图15和图16展示了一个分块矩阵乘法的例子：
+
+CUDA支持FORTRAN以及 $\mathrm { C } { + } { + }$ 。CUDAFortran和CUDAC类似，CUDAFORTRAN是英伟达和PGI共同制定，在PGI的FORTRAN编译器中实现的。是基于编译制导的，类似OpenMP 的接口。它仍然遵循简单的异构环境的编程接口。CPU 和GPU 是不同的设备，拥有不同的地址空间，宿主（HOST）代码运行在CPU之上，设备（DEVICE）代码运行在
+
+GPU上。
+
+The Portland Group 公司和英伟达公司合作，定义了一个小的Fortran扩展集合，使得程序员可以在Fortran中直接对CUDA平台进行编程，通过扩展Fortran90的定义变量属性的语法、内存分配语句和数组赋值来自然地引入对CUDA的支持。
+
+subroutine mmul(A,B,C)   
+！ use cuda for real, dimension(: ， ; ） : :A, B,C integer : : N, M, L real, device，allocatable, dimension(: ， ; ） : : Adev,Bdev,Cdev type(dim3) : :dimGrid,dimBlock   
+！ N=size(A,1); $\mathrm { \Delta } \mathrm { M } =$ size(A,2); L=size(B,2) allocate(Adev (N,M) ,Bdev (M,L) ,Cdev (N,L)) Adev $\mathrm { \Phi } = \tt { R }$ (1:N,1:M) Bdev $\scriptstyle \mathbf { \alpha = B }$ (1:M,1:L) dimGrid $\ c =$ dim3(N/16,L/16,1) dimBlock $\ c =$ dim3(16,16,1) call mmul_kernel<<<dimGrid,dimBlock>>>(Adev,Bdev,Cdev,N,M,L) ${ \mathsf { C } } \left( 1 : \mathbb { N } , \ 1 : \mathbb { M } \right) { \mathsf { \Omega } } = { \mathsf { C d e v } }$ deallocate(Adev，Bdev， Cdev)   
+！ end subroutine attributes(global） subroutine MMUL_KERNEL( A,B,C,N,M,L)   
+！ real,device : : A(N,M),B(M,L),C(N,L) integer,value : : N, M, L integer :: i,j,kb,k,tx,ty real,shared :: Ab(16,16),Bb(16,16) real :: Cij   
+！ tx $: =$ threadidx%x ; ty $\ c =$ threadidx%y $\dot { \bf { \varphi } } _ { \dot { \bf { 1 } } } =$ (blockidx%x-1)\*16+tx $\dot { \mathsf { J } } =$ (blockidx%y-1)\*16+ty $\mathsf { C } \mathtt { i } \mathtt { j } = \ 0 . 0$ do $\mathtt { k b } { = } 1 , \mathtt { M } , 1 6$ ！从 Ab 和 Bb各读取一个元素；注意在本进程块中有 $1 6 \mathrm { x } 1 6 = 2 5 6$ 个进程在分别读 取Ab和Bb的元素 A $\mathrm { ~ b ~ } ( \ t { \bf x } , \ t { \bf y } ) = \tt A _ { \tau } ( \dot { \bf \phi } { } _ { 1 } , \ k b { \bf + } { } \ t { \bf y } { - } 1 )$ Bb $( \ t \mathbf { x } , \ t _ { \mathrm { Y } } ) { = } \mathrm { B } \ ( \mathrm { k b + t } \mathbf { x } { - } 1 , \ j )$ ！等候直到Ab和Bb的所有元素都被填充
+
+![](images/27c480b7576bd212b5d07f2cc7c0d4fd008f69be853cf662f30a676295a5c8fb.jpg)  
+图16.CUDAFortranGPUkernel示例
+
+# 3.5 Cray Parallelization Directives
+
+克雷（Cray）公司的Cray Fortran[53]编译工具链中包括了大量该公司的私有制导信息的支持。这些制导信息除了可以用来控制编译器特性，还可以用来标记需要自动线程并行的循环等。
+
+# 3.6 Sun Parallelization Directives
+
+Oracle 的 Sun Studio 开发环境[54]中除了对于标准的OpenMP 有支持之外,亦有对于 Cray和 Sun 私有格式的，用于Fortran95之后的FORALL 结构上的并行制导的少量支持。
+
+# 4总结
+
+本文综述了自Fortran77以来，对于Fortran语言的并行扩展，其中最主要的为 HPF和Co-arrayFortran，应用广泛，支持较多。
+
+Fortran 语言是一种极具发展潜力的语言，在全球范围内流行过程中，Fortran语言的标准化不断吸收现代化编程语言的新特性，并且在工程计算领域仍然占有重要地位。
+
+在数值计算中，Fortran语言仍然不可替代。Fortran90标准引入了数组计算等非常利于矩阵运算的功能。在数组运算时，Fortran能够自动进行并行运算，这是很多编程语言不具备的。Fortran语言使用户能够运用很多现成的函数软件包，所以非常便利。
+
+Fortran语言并没有因为其历史悠久，跟不上发展的脚步而走向没落，反而逐渐引入了新语言的特性，加入新硬件的支持，改进旧的并行扩展等等，例如Co-Array 在近几年得到广泛支持并成为Fortran 2008 的标准。Fortran 对新兴加速器，例如GPUCUDA 编程的支持等等说明其正与时俱进的发展着。且由于Fortran语言一直在高性能计算领域占据主要地位，各种工具和高性能计算软件包，数学库等比较完善，为其今后的发展提供了良好的基础。
+
+# 参考文献：
+
+[1]Backus,J. W., H. Stern, I. Ziler, et al. (1957)."The FORTRAN Automatic Coding System". Western joint computer conference: Techniques for reliability (Los Angeles, California: Institute of Radio Engineers, American Institute of Electrical Engineers,ACM): 188-198.doi:10.1145/1455567.1455599.   
+[2]段朝晖.1995年.FORTRAN语言的发展历史．计算机世界报,第8期．国家智能计算机研究开发中心.   
+[3]ANSI x3.9-1966. USA Standard FORTRAN. American National Standards Institute. Informall known as FORTRAN 66.   
+[4]ANSI x3.9-1978. American National Standard - Programming Language FORTRAN. American National Standards Institute. Also known as ISO 1539-1980, informally known as FORTRAN 77.   
+[5]ANSI X3.198-1992 (R1997)/ ISO/IEC1539:1991. American National Standard-Programming Language Fortran Extended.American National Standards Institute /ISO/IEC.Informaly known as Fortran 90.   
+[6]ISO/IEC 1539-1:1997. Information technology-Programming languages -Fortran-Part 1: Base language. Informally known as Fortran 95.There are a further two parts to this standard. Part 1 has been formally adopted by ANSI.   
+[7]ISO/IEC 1539-1:2004. Information technology- Programming languages-Fortran-Part 1: Base language. Informally known as Fortran 2003.   
+[8]ISO/IEC1539-1:2010 (Final Draft International Standard). Information technology- Programming languages -Fortran-Part 1: Base language. Informally known as Fortran 2008.   
+[9]Page, Clive G. (1988). Professional Programmer's Guide to Fortran77(7 June 2005 ed.).London: Pitman. ISBN 0-273-02856-1. Retrieved 4 May 2010.   
+[10] CORPORATE The Parallel Computing Forum (1991). ACM SIGPLAN Fortran Forum. Volume 10 Issue 3, Sept. 1991,Pages 1-57,ACM New York, NY, USA.   
+[11] Press, Wiliam H. (1996). Numerical Recipes in Fortran 90: The Art of Parallel Scientific Computing. Cambridge, UK: Cambridge University Press. ISBN 0-521-57439-0.   
+[12] Akin, Ed (2003). Object Oriented Programming via Fortran 90/95 (1st ed.). Cambridge University Press. ISBN 0-521-52408-3.   
+[13] D.Tam, Prof.Abdelrahman,(20oo).Fortran D - Final Report. Compilation Techniques for Parallel Processors ECE 1754.Friday May 12, 2000.   
+[14]M. Ujaldon, E.L. Zapata, B.M. Chapman, et al. (1997). Vienna-Fortran/HPF Extensions for Sparse and Irregular Problems and Their Compilation. IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, vol. 8, pages: 1068-1083,1997.   
+[15] HPFF - Rice University HPF Forum, http://hpf.rice.edu/ (http://dacnet.rice.edu/).   
+[16] High Performance Fortran Forum (1994). High Performance Fortran Language Specification.   
+[17] C.H. Koelbel. (1997). The high performance Fortran handbook - $2 ^ { \mathrm { n d } }$ edition. MIT press.   
+[18] Shires Dale, Mohan Ram.An Evaluation of HPF and MPI Approaches and Performance in Unstructured Finite Element Simulations.Journal of Mathematical Modeling and Algorithms 20o2-09-01.   
+[19] Murai, Hitoshi, Araki, et al. Implementation and evaluation of HPF/SX V2. Concurrency and Computation: Practice and experience.   
+[20] Y.C.Hu, G. H. Jin,S.L. Johnsson, et al. HPFBench: A High Performance Fortran Benchmark Suite.   
+[21] Applied Parallel Research, Inc., APR's public domain benchmark suite,ftp:/ftp.infomall.org/tenants/apri/ Benchmarks,1996.   
+[22] C.A. Addison, et al.,The GENESIS Distributed-memory Benchmarks, Computer Benchmarks,J.J. Dongara and W. Gentzsch (Eds), Advances in Paralel Computing, Vol. 8,Elsevier Science Publications, BV (North Hol-land),Amsterdam, The Netherlands, pp.257-271,1991.   
+[23] D.E. Bailey, et al.,The NAS Paralel Bench-marks,Technical Report RNR-94-007,NASA Ames Research Center, 1994.   
+[24] Chapman,Stephen J. (2007).Fortran 95/2003 for Scientists and Enginers (3rd ed.).McGraw-Hill ISBN 978-0-07-319157-7.   
+[25] Chivers,Ian; Sleightholme,Jane (2012). Introduction to Programming with Fortran (2nd ed.).Springer. ISBN 978-0-85729-232-2.   
+[26] Metcalf, Michael; John Reid, Malcolm Cohen (2011).Modern Fortran Explained. Oxford UniversityPress. ISBN 0-19-960142-9.   
+[27] Co-array Fortran: http://www.co-array.org/.   
+[28] Co-array Fortran at Rice: http://caf.rice.edu/.   
+[29] R.W. Numrich, J. Reid. (1998). Co-array Fortran for parallel programming. SIGPLAN Fortran Forum, 17(2): 1-31, Aug. 1998.   
+[30] R. W. Numrich, J. Reid,(2005). Coarrays in the next Fortran Standard. SIGPLANFortran Forum,24(2): 4-17, Aug. 2005.   
+[31] C.Coarfa,Y. Dotsenko,J. Eckhardt,et al.Co-array Fortran performance and potential: An NPB experimental study. In 16th International Workshop on Languages and Compilers for Paralel Processing (LCPC), October 2003.   
+[32] John Mellor-Crummey,Laksono Adhianto, William Scherer II,and Guohua Jin,ANew Vision forCo-array Fortran, Proceedings PGAS09,2009.   
+[33] GASNet: http://gasnet.cs.berkeley.edu/.   
+[34] C. Coarfa, Y. Dotsenko,J. Melor-Crummey,et al.20o5.An evaluation of global address space languages: co-array Fortran and unified parallel C. In Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming Pages 36-47,ACM New York, NY, USA (PPoPP'05).   
+[35]R.W.Numrich,J.L.Steidel,B.H.Johnson,etal. (1997).Definition of theF-- extension to Fortran90.In Proceedings of the 10th International Workshop on Languages and Compilers for Parallel Computing (LCPC '97), Pages 292-306, Springer-Verlag London, UK.   
+[36] S.Hiranandani, K. Kenney, C. Koelbel, et al. (1991)An Overview of the Fortran D Programming System. In Proceedings of the Fourth International Workshop on Languages and Compilers for Parallel Computing, Pages 18- 34, Springer-Verlag London, UK,1991.   
+[37]R.V. Hanxleden,K.Kennedy,C.Koelbel,et al. (1992). Compiler Analysis for Irrgular Problems in Fortran D. In Proceedings of the 5th International Workshop on Languages and Compilers for Parallel Computing,Pages 97-111, Springer-Verlag London, UK,1992.   
+[38] Kalinov,Alexey,Ledovskih,et al. (2004).An Extension of Fortran for High Performance Paralel Computing. Programming and Computer Software. 2004.   
+[39]B.Bagheri,T. W. Clark,L.R. Scott 1992. IPFortran: a parallel dialect of Fortran. SIGPLAN Fortran Forum 11,3 (September 1992),20-31.DOl $\varXi$ 10.1145/141438.141450.   
+[40] I. T.Foster, K. M. Chandy. (1995). Fortran M: A Language for Modular Paralel Programming. Journal of Parallel and Distributed Computing,Volume 26,Isse 1,1 April 1995,Pages 24-35.   
+[41]I. T.Foster, D. W. Walker. (1994). Paradigms and Strategies for scientific computing on distributed memory concurrent computers.In Proceedings of the High Performance Computing 1994 Conference,La Jolla, CA, April 11-15,1994.Published by the Society for Computer Simulation, San Diego, CA.   
+[42] OpenMP: htp://openmp.org/wp/.   
+[43]H. Iwashita, S. Okada,M. Nakanishi, et al. (1994).VPPFortran and Paralel Programming on the VPP500 Supercomputer. In Proceedings of the 1994 International Symposium on Parallel Architectures, Algorithms and Networks (poster sesion papers), pages 165-172. Japan, December 1994.   
+[44] E. Yamanaka, T. Shindo. (1997). Parallel Language Processing System for High-Performance Computing. Fujitsu Sci. Tech.J.,33(1): 39-51, June 1997.   
+[45]H. Iwashita. (1997). A view of VPPFortran in contrast with HPF. IPSJ Magazine,38(2),February 1997. (in Japanese)   
+[46]Fortran VPP300 User guide: Programming in VPPFortran. htp://anusf.anu.edu.au/VPP/Userguide/ VPPFortran.html.   
+[47] HPF/JA Language Speciation, JAHPF (Japan Association for High Performance Fortran),January 31, 1999 Version 1.0.   
+[48]Y.Seol,H. Ohta,H. Sakagami, et al. (2O02).HPF/JA: extensions of High Performance Fortran for accelerating real-world applications Concurrency and Computation: Practice and Experience Volume 14, Issue 8-9, pages 555-573,2002.   
+[49]H.Iwashital,N.Sueyasul,S.Kamiyal,et al.(2O02).VPPFortran and the designof HPF/JA extensions. Concurrency and Computation: Practice and Experience Special Issue: High Performance Fortran Volume 14,Issue 8-9,pages 575-588,2002   
+[50]Asaoka,Kae,Hirano,etal.Evaluation of the HPF/JA Extensions on Fujitsu VPPUsing the NASParallel Benchmarks High Performance Computing.   
+[51]ICL.Icl dap Fortran: http://www.hpjava.org/talks/beijing/hpf/introduction/node5.html.   
+[52] CUDA: http://developer.nvidia.com/cuda/nvidia-gpu-computing-documentation.   
+[53] Cray Fortran: www.ccs.ornl.gov/Phoenix/ftn.html.   
+[54] Oracle Sun Studio: www.oracle.com/.
+
+作者简介：
+
+苏乐: 中科院计算所，前瞻技术实验室，虚拟现实技术课题组，博士在读,sule@ict.ac.cn房双德： 中科院计算所，计算机体系结构国家重点实验室，先进编译技术组，博士在读黄元杰： 中科院计算所，计算机体系结构国家重点实验室，先进编译技术组，博士在读

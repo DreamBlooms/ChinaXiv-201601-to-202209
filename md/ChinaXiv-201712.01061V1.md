@@ -1,0 +1,118 @@
+基础研究
+
+# 吗啡依赖大鼠觅药消退期边缘下区遥测脑电活动的变化
+
+李 晶',潘群皖',朱再满',李 敏',白 羽²,虞 冉'皖南医学院'生理教研室，计算机教研室，安徽 芜湖 241002摘要：目的 探讨吗啡依赖大鼠觅药消退期边缘下区(infralimbiccortex,IL)遥测脑电活动的变化对觅药行为的影响及其机制。方法 将SD大鼠随机分成模型组和对照组,在IL区实施脑立体定位电极埋植,模型组大鼠依次制成吗啡依赖和消退模型,应用无线遥测系统记录大鼠消退期IL区脑电活动的变化。结果 模型组大鼠戒断1\~2d白箱停留时间明显长于吗啡注射前及对照组;消退训练后1\~2d,模型组大鼠白箱停留时间比戒断期明显缩短，与吗啡注射前及对照组相比，无明显差异。模型组与对照组比较，戒断2d停留白箱时，IL区脑电β波显著增多,8波显著减少;从黑箱向白箱穿梭时,8波显著增多，α波和β波显著减少。消退2d,模型组大鼠停留白箱时,IL区脑电比对照组0波明显减少,与戒断期比较β波和0波明显减少,8波明显增多;从黑箱向白箱穿梭时，与对照组相比IL脑电无显著差异,但与戒断期比较,8波明显减少，α波和β波明显增多。结论吗啡依赖大鼠觅药消退期IL区脑电活动发生异常变化,这种异常脑电的产生可能影响觅药动机的形成,进而抑制觅药行为的表达和维持。
+
+关键词：吗啡依赖；觅药消退；边缘下区；遥测；脑电活动
+
+# Changes of telemetry electrical activity in the infralimbic cortex of morphine-dependent rats with extinguished drug-seeking behavior
+
+LI Jing,PANQunwan,ZHZaiman',LIMin,BAIYu²,Yn 1DepartmentofPhysiology,²DepartmentofComputer Science,Wannan Medical College,Wuhu 24102,China
+
+Abstract:ObjectiveToinvestigatethechangesof telemetryelectricalactivityintheinfralimbiccortex (IL)of morphinedependent rats with extinguished drug-seeing behavior. Methods SD rats were randomly divided into model group and control group andreceivedoperations of brain stereotaxic electrode embedding inthe IL.Therats in the model group were induced to acquiremorphine dependenceandthenreceived subsequent extinction training，andthechanges of electrical activityintheIL wererecordedwithaphysical wireless telemetrysystem.ResultsInrats withmorphinedependence,thetime stayinginthe whitebox wassignificantlylongerondays1and2after withdrawalthanthatbefore morphine injection and that of the controlrats,but wasobviouslyreducedondays1and2after extinction training tothecontrollevel.Compared withthe control group,the morphine-dependent rats on day 2 folowing withdrawal showed significantly increased $\beta$ wave and decreased δ wave when they stayed in the white box but significantly increased δ wave and decreased $\alpha$ wave and $\beta$ wave whentheyshuttledfromtheblack tothe white box.Onday2of extinction,the modelrats,when staying inthe whitebox, showed significantly decreased θ wave compared with that of the control rats group but decreased $\beta$ wave and 0 wave and increasedδwavecompared withthose inthe withdrawal period.Whentheyshutledfromblack towhitebox,the modelrats showed decreased δ wave and increased $\alpha$ wave and $\beta$ wave compared with those in the withdrawal period. Conclusion Morphine-dependentratshave abnormal changesof electrical activityin the IL in drug-seeking extinction toafect heir drug-seeking motive and inhibit the expresson and maintenance of drug-seeking behaviors.
+
+Key words: morphine dependence; drug-seeking extinction; infralimbic cortex; telemetry;brain electrical activity
+
+阿片类药物依赖严重危害人类健康，成为全球性关注焦点，近年来在我国呈上升趋势。由于该病具有高复吸的特点，因此以预防复吸为中心的一系列研究正大力开展，尤其有关阿片依赖者觅药行为消退的脑机制研究成为热点。如何通过“消退"手段预防复吸的产生？根据巴甫洛夫条件反射原理，当条件反射形成后，若长期缺乏非条件刺激的强化作用，条件反射将会逐步消退，这种消退的形成,实质上是一种新的学习记忆的产生，即消退记忆，该记忆并非是原有条件性记忆的遗忘，而是对原有成瘾记忆产生抑制。有研究表明，内侧前额皮层的边缘下区(infralimbiccortex,IL)是影响觅药行为消退的关键脑区[2],其消退记忆的形成需要IL区N-甲基-D-天冬氨酸受体(N-methyl-D-aspartic acid receptor,NMDAR），促代谢型谷氨酸受体5（metabotropicglutamatereceptor5,mGluR5)，β肾上腺素能受体和大麻素受体1(cannabinoid receptor1,CB1)等激活。薛丽芬等发现，用硫酸软骨素酶降解IL区神经元外基质网络，可以加强吗啡奖赏消退记忆,抑制觅药复燃[3]。尽管大量文献显示，IL区内多种神经递质受体、细胞信号分子、细胞外基质等在消退记忆中起作用，但有关IL区电活动的改变是否参与觅药行为的消退过程，目前尚未见国内外相关报道。本研究采用大鼠吗啡依赖模型和消退模型，通过生理无线遥测系统记录吗啡依赖大鼠觅药消退期IL区脑电活动的变化，分析其对觅药行为的影响，为进一步探讨阿片依赖的复吸治疗提供新思路
+
+# 1 材料和方法
+
+# 1.1实验动物
+
+健康SPF级雄性SD大鼠24只（合格证号：SCXK(苏)2009-0001)，苏州爱尔麦特科技公司提供，体质量$2 8 0 { \sim } 3 3 0 ~ \mathrm { g }$ ，自由饮水、进食，空调恒温 $2 3 { \sim } 2 5 ~ \mathrm { ^ circ C }$ 。随机将大鼠分成模型组和对照组。
+
+# 1.2 药品
+
+盐酸吗啡注射液（沈阳第一制药厂，批号：110508-2)，安徽医药股份有限公司提供。
+
+# 1.3仪器
+
+位置偏爱视频分析装置(JLBehv，上海吉量软件科技公司);生理信号无线遥测系统(BW-200,成都泰盟软件有限公司);脑立体定位仪(江湾I型，第二军医大学)。
+
+# 1.4实验方法
+
+1.4.1大鼠IL区脑立体定位电极埋植术在 $1 \%$ 戊巴比妥钠麻醉状态下，进行大鼠脑立体定位电极埋植术。利用脑立体定位仪固定大鼠头部(俯卧位，使前囱与后凶位于同一水平面),术区剪毛,常规消毒,沿矢状位切开头皮 $3 \mathrm { c m }$ ，剥离骨膜，暴露前额部颅骨，参照大鼠脑立体定向图谱[4],于前凶前 $3 . 2 ~ \mathrm { m m }$ 、中缝左侧 $0 . 6 ~ \mathrm { m m }$ 处钻孔。记录电极经定位孔植入硬膜下 $5 . 2 ~ \mathrm { m m }$ ,参考电极放置于头皮下，采用牙科水泥封固。术后连续5d皮下注射(sc)青霉素 $4 0 0 \mathrm { k U \cdot k g ^ { - 1 } }$ ,1次/d,预防感染，单笼饲养。1.4.2大鼠吗啡依赖模型制备结合条件性位置偏爱(conditioned placepreference,CPP)训练,制备大鼠吗啡依赖模型。由于大鼠天然偏爱黑箱，因此设白箱(非偏爱箱)为伴药箱。用挡板封闭黑白箱通道，模型组大鼠采用剂量逐日递增法 $^ { . [ 5 ] } \mathrm { s c }$ 吗啡和生理盐水(NS)，连续给药8d,每日注射吗啡后将大鼠投入白箱 $4 5 ~ \mathrm { m i n }$ ，注射NS后将大鼠投入黑箱 $4 5 ~ \mathrm { m i n }$ ，首日注射吗啡剂量$1 0 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ，从次日起每日递增 $1 0 \mathrm { m g \cdot k g ^ { - 1 } }$ ，至6d剂量达 $6 0 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ,7\~8d维持该剂量。对照组大鼠以同法注射 $\bf N S _ { \mathrm { \varphi } }$ （204号
+
+1.4.3大鼠CPP消退模型制备在大鼠吗啡依赖模型的基础上制备CPP消退模型[3]。模型组大鼠吗啡注射8d后停止给药，于戒断2\~9d进行CPP消退训练，给予NSL $( 1 { \mathrm { m l } } \cdot { \mathrm { k g } } ^ { - 1 } )$ ),1次/d,共8d,具体为戒断2、4、6、8d,注射NS放入白箱 $4 5 ~ \mathrm { m i n }$ ，戒断3、5、7、9d,注射NS放入黑箱$4 5 \mathrm { m i n }$ 。对照组大鼠同法注射NS。
+
+1.4.4大鼠CPP测试在大鼠CPP前测期(造模前），撤除CPP箱通道挡板，每日使大鼠在CPP箱自由活动$1 5 \mathrm { m i n }$ ，记录大鼠白箱平均停留时间及大鼠活动轨迹图，测试 $3 \mathrm { ~ d } _ { \odot }$ ，以同法在CPP训练结束后和CPP消退训练结束后1\~2d,进行大鼠CPP测试。
+
+1.4.5大鼠IL区脑电活动的遥测分析应用生理无线遥测系统分别记录CPP训练前后、CPP消退训练后，2组大鼠在停留与穿梭状态下IL区脑电活动的改变。大鼠停留状态包括：在黑箱、白箱中停留；穿梭状态包括：黑-白箱穿梭(从黑箱向白箱穿梭）、白-黑箱穿梭(从白箱向黑箱穿梭)。原始脑电信号的纵轴表示脑电波幅，横轴表示脑电采样时间，采用遥测系统软件的快速傅里叶变换分析处理脑电,低通滤波 $1 0 0 \mathrm { { H z } }$ ，高通滤波 $0 . 1 \mathrm { H z }$ ，采样率 $5 0 0 \mathrm { H z } _ { \circ }$
+
+# 1.5统计学分析
+
+采用SPSS17.0进行统计学分析，数据以均数 $\stackrel { \cdot } { \pm }$ 标准差表示。统计方法应用重复测量的方差分析和两独立样本 $\mathbf { \Phi } _ { t }$ 检验。方差不齐时，采用秩和检验，显著水准$P { < } 0 . 0 5$ 有统计学差异。
+
+# 2结果
+
+# 2.1大鼠CPP测试情况
+
+吗啡和NS注射前，2组大鼠白箱内停留时间无统计学差异 $( P { > } 0 . 0 5 )$ 。模型组大鼠戒断1\~2d白箱内停留时间明显长于吗啡注射前及对照组大鼠(均 $P { < } 0 . 0 1 \$ ;CPP消退训练后1\~2d,模型组大鼠白箱内停留时间比戒断期明显缩短( $\scriptstyle ( P < 0 . 0 1 )$ ,与吗啡注射前及对照组大鼠相比，无明显差异 $( P { > } 0 . 0 5 )$ 。对照组大鼠各阶段在白箱内停留时间无统计学差异( $\mathrm { \ P { > } 0 . 0 5 }$ ,表1,图1)。上述结果表明，模型组大鼠戒断1\~2d对白箱表现出明显的位置偏爱，这种偏爱在CPP消退训练8d后，明显减弱，验证大鼠吗啡依赖模型和CPP消退模型制作成功。
+
+# 2.2大鼠IL区脑电活动的变化
+
+表1大鼠白箱停留时间比较 Tab.1 Comparison of the time staying in the white box between the groups (Mena±SD, $n { = } 1 2$ ）   
+
+<html><body><table><tr><td>Group</td><td>Before drug</td><td>Withdrawal 1 d</td><td>Withdrawal 2 d</td><td>Extinction 1 d</td><td>Extinction 2 d</td></tr><tr><td>Control</td><td>160.5±50.6</td><td>165.2±47.3</td><td>158.2±46.1</td><td>155.5±56.7</td><td>159.2±60.3</td></tr><tr><td>Model</td><td>152.3±58.4</td><td>201.2±55.8 **</td><td>496.3±80.2 **</td><td>166.8±72.9#</td><td>155.5±78.3#</td></tr></table></body></html>
+
+1 $\cdot P { < } 0 . 0 1$ vs before drug; $^ { * * } P { < } 0 . 0 1$ vs control group; $^ { \# } P { < } 0 . 0 1$ vs withdrawal period
+
+![](images/a84870749e52bb2576f8565ad6793dd7d25f7a85d25fa42c108fcfa8df63b49f.jpg)  
+图1模型组大鼠各阶段活动轨迹图 Fig.1Mapofactivitytrackin modelrats duringeachstage.A:Beforedrug injection;B:Withdrawal2d;C:Extinction2d.
+
+2.2.1 大鼠停留状态IL区脑电比较 吗啡和NS注射前，2组大鼠在黑、白箱内停留时，IL区脑电活动组间比较无统计学差异 $( P { > } 0 . 0 5 )$ 。吗啡和NS注射后(戒断2d)，与对照组相比,模型组大鼠在黑箱停留时,IL区脑电各波未出现明显差异 $( P { > } 0 . 0 5 )$ ;在白箱停留时，β波增多（以β1波增多显著） $( P { < } 0 . 0 5 )$ ，8波减少( $( P { < } 0 . 0 1 )$ ,其余脑波频段无明显差异（ $\scriptstyle \mathtt { P > 0 . 0 5 }$ ，图2A)。CPP消退2d,模型组大鼠在黑箱停留时，与对照组和戒断期相比，IL区脑电各波无明显变化 $( P { > } 0 . 0 5 )$ ;在白箱停留时，IL区脑电比对照组0波明显减少( $P { < } 0 . 0 1$ ,图2B),但与戒断期比较β波和0波减少(均 $P { < } 0 . 0 1$ ),8波增多 $( P { < } 0 . 0 1$ ,图2C)。停留状态的IL脑电结果表明，吗啡依赖大鼠戒断期在伴药箱停留，脑电呈现了去同步化趋势(快波增多、慢波减少），经过消退训练后，该脑电得到一定程度的恢复，并出现异常脑电0波明显减少。
+
+![](images/6aa8fff7332229dc78b1f5809ee4e050e274a5dad7eb0bf739602cdc21a53d05.jpg)  
+图2A2组大鼠戒断2d白箱停留时IL区脑电活动比较 Fig.2A Comparison of electrical activity inIL between the two groups when the rats stayed in the white box on withdrawal 2 d. $^ { * } P { < } 0 . 0 5 .$ $^ { * * } P { < } 0 . 0 1$ Us control group.
+
+2.2.2 大鼠穿梭状态IL区脑电比较 吗啡和NS注射前，2组大鼠穿梭时，IL区脑电组间比较无明显差异 $\left( P \right)$ 0.05)。吗啡戒断2d，与对照组相比，模型组大鼠从白箱向黑箱穿梭时，IL脑电无明显差异（ $( P { > } 0 . 0 5 )$ ；从黑箱向白箱穿梭时，8波增加 $( P { < } 0 . 0 1 )$ ）， $\dot { \bf { a } } \dot { \bf { q } }$ 波和β波减少( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ $P { < } 0 . 0 5$ ,图3A)。CPP消退2d,模型组从白箱向黑箱穿梭时，与对照组和戒断期比较，IL脑电差异不明显( $P >$ 0.05)；从黑箱向白箱穿梭时，与对照组相比IL脑电仍无显著差异( $\mathrm { \ P { > } 0 . 0 5 }$ ,图3B)，但与戒断期比较，消退期IL区8波减少 $( P { < } 0 . 0 5 )$ ， $\mathfrak { a }$ 波和 $\beta$ 波增多（均 $P { < } 0 . 0 5$ ，图3C)。穿梭状态的IL脑电结果表明，吗啡依赖大鼠戒断期黑-白箱穿梭，IL脑电慢波增多，快波和α波减少，消退期该脑电得到恢复。
+
+![](images/34ca71bea70849079e8b5dfe0c69f5414129c8b64da8b529529c86d2ae345d76.jpg)  
+图2B2组大鼠消退2d白箱停留时IL区脑电活动比较 Fig.2B Comparison of electrical activity in the IL between the two groups when the rats stayed in the white box on extinction $2 \mathrm { d }$ $^ { * * } P { < } 0 . 0 1$ Us control group.
+
+![](images/ba00fa3d79907c19404c53b96d5176cf0376e32b70a391405f8ce3528eeb572f.jpg)  
+图2C模型组大鼠各阶段白箱停留时IL区脑电活动比较 Fig.2C Comparison of electrical activity of the IL in the model rats when they stayed in the white box during each stage. $^ { * } P { < } 0 . 0 5 .$ $^ { * * } P { < } 0 . 0 1$ us before drug; $^ { \sharp \sharp } P < 0 . 0 1$ Us withdrawal $2 \mathrm { d }$
+
+![](images/af6a16e4dd910aebfc07480767ab999f1212926895ec11b0479187b473014ba7.jpg)  
+图3A2组大鼠戒断2d黑至白箱穿梭时IL区脑电活动比较 Fig.3A Comparisonof electrical activity in the IL between the two groups when rats shuttled from the black to the white box on withdrawal $2 \mathrm { d }$ $^ { * } P { < } 0 . 0 5 ,$ （ $* * P { \ < } 0 . 0 1$ Us control group.
+
+![](images/d0b2ff971fda83d9a79c14a5a27340a8501e8d6185766627738668fb86b6a244.jpg)  
+图3B2组大鼠消退2d黑至白箱穿梭时IL区脑电活 动比较 Fig.3B Comparison of electrical activity in the IL between two groups when the rats shuttled from the black to the whitebox on extinction $2 \mathrm { d }$
+
+# 3讨论
+
+阿片类药物依赖者的高复吸特点是一直困扰世界药物成瘾研究者的重大难题之一。从学习、记忆的角度考虑阿片成瘾的原因，可能是由于阿片药物的作用使相关脑区产生了一种异常强烈的成瘾记忆，若使用某种方法使阿片成瘾的相关记忆得以抑制，产生新的消退记忆，以此来预防复吸的产生，这正是本文研究的切入点。正常成人脑电按其频率主要分为β波 $( 1 4 { \sim } 3 0 \mathrm { H z } ) _ { \cdot } \mathrm { a }$ 波 $( 8 \mathord { \sim } 1 3 \mathrm { H z } )$ 、0波 $\scriptstyle ( 4 \sim 7 \mathrm { H z }$ 及8波 $( 0 . 5 { \sim } 3 . 5 \mathrm { H z } )$ ，α波是成人安静清醒状态下，闭目时出现的主要脑波，为正常脑电的基本节律；当睁眼或精神紧张刺激时， $\alpha$ 波阻断甚至消失，出现去同步化的快波β波；当困倦或浅睡时0慢波增多，进入深睡时8慢波增多，慢波出现增多表明大脑皮层功能受到抑制。本实验在产生消退记忆的关键脑区(IL区)实时遥测吗啡依赖大鼠消退训练后脑电活动的变化，寻找觅药消退记忆伴随的特异性脑电，探讨该脑电与觅药动机及觅药行为的内在联系，为深入研究药物依赖的复吸治疗提供新径。
+
+![](images/ad1430dcea60fc6c54e9fbf8eec64a7f95b90adf6a41793800823baf304e1371.jpg)  
+图3C模型组大鼠各阶段黑至白箱穿梭时IL区脑电活 动比较 Fig.3C Comparison of electrical activity in the IL of the modelratswhentheyshuttledfrom theblackto thewhite box during each stage. $^ { * } P { < } 0 . 0 5 .$ $* * P { < } 0 . 0 1$ us before drug; $^ { \sharp } P { < } 0 . 0 5$ us withdrawal $2 \mathrm { d }$ ：
+
+有研究显示内侧前额皮层(medialprefrontalcortex,mPFC)是阿片中枢奖赏通路主要投射的脑区之二[8],与成瘾药物相关的多个脑区有解剖学关系[2],当mPFC的功能发生异常时，可导致强迫性用药行为的产生[910]。IL区位于mPFC的腹侧下边缘区,是介导药物成瘾消退记忆的重要脑区，参与条件性觅药消退过程，主要发挥学习、记忆和动机调控等功能[1-12]
+
+近年来有文献报道IL区的神经元在阿片成瘾过程中可能具备双重功能，在不同的条件下，表现出不同的特性：如IL区神经元选择性失活可促进海洛因诱导大鼠CPP恢复[13],在IL区微注射β肾上腺素受体激动剂使其神经元激活，可抑制海洛因成瘾大鼠觅药行为的恢复，体现出IL区的抑制觅药特性1；Bossert等研究发现 $^ { [ 1 4 ] } \mathrm { I L }$ 区也具有促进觅药特性，当激活大鼠IL区至伏隔核的谷氨酸能纤维时可诱发药物相关线索诱导的海洛因觅药复燃。在本实验中发现吗啡依赖大鼠戒断期仅白箱停留和黑-白箱穿梭脑电与对照组比较有统计学差异，黑箱停留和白-黑箱穿梭脑电组间比较无显著差异：(1)与对照组相比，模型组大鼠戒断期从黑箱向白箱穿梭时，IL区脑电表现8慢波明显增加,α波和β快波明显减少，表明黑-白箱穿梭状态下IL区部分神经元的生物电活动受到抑制，其神经元功能表现低下，该部分神经元可能具有抑制大鼠觅药行为的功能，当觅药抑制功能受到影响时，对大鼠觅药动机及行为遏制的效力降低，大鼠觅药行为表达增强，向伴药箱穿梭停留时间增加。据文献报道IL区是动机决策控制的重要脑区[15],成瘾性药物长期使用后，可以影响额叶皮层神经元的局部功能[16,使用药者对药物引起的奖赏效应与用药环境间产生长时的关联性成瘾记忆,削弱控制冲动行为的能力。对吗啡依赖大鼠戒断期额叶联络皮层的脑电研究显示[17]，摄入吗啡可抑制额叶皮层部分神经元功能，使其兴奋性降低，额叶皮层脑电慢波增加。与对照组比较,模型组大鼠戒断期在伴药箱(白箱)停留时，IL区脑电8慢波减少，β快波增加，表明注射吗啡8d后，大鼠白箱停留状态下IL区某些神经元电活动明显增强，进而觅药渴求增加，可能是由于伴药箱作为药物相关线索高度激活了具有觅药促进功能的部分IL区神经元，使其兴奋性增强,呈现去同步化脑电。有实验报道[16.18],药物相关线索可以显著激活海洛因成瘾者动机神经环路的活动，通过激活环路中IL区部分神经元进一步影响相关线索与奖赏效应联合的学习记忆过程；(2)当模型组大鼠在CPP消退期停留于白箱时，IL脑电与戒断期比较β波和0波减少，8波增多，但比对照组仅0波减少，表明戒断期吗啡依赖大鼠白箱停留时发生改变的β波和8波经过消退训练已经恢复，仅有0波在消退期表现异常。当模型组大鼠CPP消退期从黑箱向白箱穿梭时，与对照组相比IL脑电无显著差异，但与戒断期比较，8波减少，α波和β波增多，表明吗啡依赖大鼠戒断期黑-白箱穿梭时发生改变的脑电经过消退训练得以恢复。
+
+综合分析吗啡依赖大鼠觅药消退期IL区脑电活动及CPP行为发现：经过8dCPP消退训练，当用药环境重复出现而缺乏吗啡非条件刺激的奖赏效应，之前已经形成的条件性觅药行为明显减弱;戒断期发生改变的脑电基本得到恢复，同时消退期产生的0波明显减少可能与大鼠觅药消退过程中的学习记忆、动机等高级神经活动有关。消退记忆的产生并非抹除原有的成瘾记忆，而是对其产生抑制，影响觅药动机形成，进而阻抑觅药行为发生。
+
+# 参考文献:
+
+[1]Peters J,Kalivas PW,Quirk GJ.Extinction circuits for fear andaddiction overlap in prefrontal cortex[J].Learn Mem,2Oo9,16(5):279-88.  
+[2]Lalumiere RT,Niehoff KE,Kalivas PW. The infralimbic cortexregulates the consolidation of extinction after cocaine self-administrationlJ」.Learn Mem,2010,17(4): 168-75.  
+[3]薛丽芬,薛言学,何佳,等.下边缘皮质中神经元周围基质网络(PNNs)的降解联合消退训练能够抑制吗啡奖赏记忆的复燃[J].中国药物依赖性杂志,2012,21(2):105-10.  
+[4]Paxinos G,Watson C.The Rat Brain in Stereotaxic Coordinates[M/OL]. 6th edition. Elsevier Academic Press,20o7: 50-8.  
+[5］李 晶,潘群皖,白家明,等.吗啡急性戒断大鼠边缘前皮层无线遥测脑电活动的研究[J].中国药理学通报,2014,30(1):122-5.  
+[6]李晶,朱再满,白家明,等.吗啡成瘾大鼠边缘下区脑电活动的无线遥测及分析[J].中国病理生理杂志,2014,30(1):128-32.  
+[7］刘 胜,路镇穗,周文华,等.电针对吗啡慢性注射大鼠成瘾记忆的良性调节[J].中国药物依赖性杂志,2013,22(2):98-101.  
+[8］刘海洪,阎 媛,张会然,等.海洛因成瘾者前额叶内侧皮质的静息状态功能连接[J].中国临床心理学杂志,2013,21(4):538-40.  
+[9]Bossert JM, Stern AL,Theberge FR,et al. Ventral medial prefrontalcortex neuronal ensembles mediate context-induced relapse toheroin[J]. Nat Neurosci,2011,14(4): 420-2.  
+[10]杨 烨,张春燕,王 斌,等.吗啡成瘾及戒断大鼠前额叶皮质蛋白质组变化的初步研究[J].中国应用生理学杂志,2011,27(2):184-6.  
+[11]郝 悦,杨静玉,吴春福.内侧前额叶皮层损毁对小鼠位置偏爱及学习记忆的影响[J].中国药理通讯,2004,21(3):7-8.  
+[12]王益琦,陈俊丰,庄丁丁,等.边缘下皮层在海洛因觅药行为消退和恢复中的作用[J].中国药理学与毒理学杂志,2012,26(3):449-449.  
+[13]王益琦,刘惠芬.觅药行为消退的研究进展[J].中国药物依赖性杂志，2011,20(5): 334-9.  
+[14]Ovari J,Leri F. Inactivation of the ventromedial prefrontal cortexmimics re-emergence of heroin seeking caused byheroinreconditioning[J]. Neurosci Lett,2008,444(1): 52-5.  
+[15]Bossert JM, Stern AL, Theberge FR,et al. Role of projections fromventral medial prefrontal cortex to nucleus accumbens shell incontext-induced reinstatement of heroin seeking［J].J Neurosci,2012,32(14): 4982-91.  
+[16]曾 红,郭斯萍.易感人格的工作记忆特征对药物成瘾的调节机制[J].心理科学进展,2011,19(3):420-6.  
+[17]邱迎伟,江桂华,苏欢欢，等.海洛因成瘾患者眶额叶皮层功能连接的改变与成瘾患者决策能力的关系[J].南方医科大学学报,2013,33(8): 1117-21.  
+[18]李 晶,潘群皖,朱再满.吗啡依赖大鼠戒断期额叶联络皮层脑电活动的分析[J].中国药物依赖性杂志,2012,21(4):273-7.  
+[19]Kalivas PW, Volkow ND.The neural basis of addiction: a pathologyof motivation and choice [J].Am J Psychiatry，2005,162(8):1403-13.
+
+(编辑：经嫒)

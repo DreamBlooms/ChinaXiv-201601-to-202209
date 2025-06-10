@@ -1,0 +1,112 @@
+哺乳期梅山和大白仔猪血液生化指标及其胃肠道消化酶活性和挥发性脂肪酸含量的比较研究
+
+# 马守庆 马梅蕾 慕春龙 余凯凡 朱伟云\*
+
+（江苏省消化道营养与动物健康重点实验室，南京农业大学消化道微生物研究室，南京 210095）摘要：（目的）比较研究哺乳期梅山仔猪和大白仔猪早期生理特性。（方法）选取6头预产期相近的纯种梅山母猪和大白母猪，于分娩后第14天每窝随机选取1头仔猪屠宰，采集血液、胰腺、胃肠道内容物和粪样，测定血液生化指标、消化酶活性和挥发性脂肪酸（VFA)。（结果）结果显示，哺乳大白仔猪血清总胆固醇和高密度脂蛋白含量显著高于哺乳梅山仔猪 $( P { < } 0 . 0 5 )$ ；哺乳梅山仔猪胃脂肪酶活性显著高于哺乳大白仔猪 $_ { ( P < 0 . 0 5 ) }$ ，而空肠乳糖酶活性显著低于哺乳大白仔猪 $( P { < } 0 . 0 1 )$ ；哺乳梅山仔猪盲肠乙酸、丙酸和总挥发酸含量以及丙酸比例极显著高于哺乳大白仔猪 $( P { < } 0 . 0 1 )$ ，而空肠乙酸浓度和结肠乙丙比则较哺乳大白仔猪低 $( P { < } 0 . 0 5 )$ 。（结论）提示，在生长早期，哺乳梅山仔猪和哺乳大白仔猪在血液生化指标及其胃肠道消化酶活性和挥发性脂肪酸含量存在差异。
+
+关键词：血液生化指标；消化酶活性；挥发性脂肪酸浓度；哺乳梅山仔猪；哺乳大白仔猪
+
+中图分类号：文献标识码：文章编号：
+
+（研究的重要意义）不同猪种尤其是脂肪型和肌肉型猪种的生理生化特性不同。（前人研究进展）He 等[用核磁共振波谱法(NMR)技术进行血液代谢组学分析发现，4月龄脂肪型宁乡猪和肌肉型三元杂交猪在脂质合成、脂肪酸氧化、能量代谢以及蛋白质、氨基酸代谢上有显著差异。本实验室前期研究发现，28（断奶日龄）和49日龄时，哺乳梅山仔猪消化道发育水平高于大白猪，说明哺乳梅山仔猪可能有较强的养分吸收能力[2]。提示，脂肪型仔猪和肌肉型仔猪断奶后的代 谢特征有很大差别。但是，有关不同猪种在哺乳期生理特征研究较少。Kelly 等[3]研
+
+究发现，相同基因型哺乳仔猪饲喂不同品种母猪的乳后，其仔猪的乳糖酶活性和绒毛高度、隐窝深度有显著差异；Rzasa等[4报道，不同基因型的哺乳仔猪饲喂相同成分的猪乳，仔猪生长后期增重差异减小。（研究的切入点）说明在纯母乳喂养阶段，基因型和母乳会对哺乳仔猪的生长发育产生巨大影响。  
+（研究拟解决的关键问题)本试验以哺乳期脂肪型梅山仔猪和肌肉型大白仔猪为研究对象，分析仔猪血液生化指标、消化酶活性以及肠道挥发性脂肪酸含量，比较2种仔猪哺乳期生理生化特征。  
+1材料与方法  
+1.1试验设计与动物饲养管理  
+试验在江苏某种猪场开展。选取经产胎次为 $3 { \sim } 4$ 胎的预产期相近的纯种梅山母猪和大白母猪各6头，6头母猪两两配对，共6对，即6个重复。母猪日粮为玉米-豆粕型饲料，其中玉米、豆粕、鱼粉、麦麸和预混料含量分别为 $6 3 \%$ 、 $24 \%$ 、 $3 \%$ 、 $6 \%$ 以及 $4 \%$ ；营养水平：粗蛋白质、粗脂肪和粗纤维的含量分别为 $2 0 . 6 7 \%$ 、 $3 . 2 2 \%$ 以及 $3 . 2 1 \%$ 。试验期间，所有母猪自由采食和饮水，饲养环境相同并按照常规程序进行管理。
+
+# 1.2样品采集
+
+母猪分娩后，新生仔猪母乳喂养至14日龄时，每窝随机屠宰1头雄性仔猪。仔猪屠宰前称重，于前腔静脉处采血，血液静置 $^ { 4 \mathrm { h } }$ 后， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，上清液于 ${ } ^ { - 2 0 \mathrm { ~ \textdegree C } }$ 保存。颈静脉放血处死仔猪后，采集胃、空肠前段和胰腺组织进行淀粉酶、蛋白酶和脂肪酶的测定；采集空肠、盲肠、结肠内容物以及粪样，于 $- 2 0 \mathrm { ~ \textdegree C }$ 保存，待测VFA。
+
+# 1.3 指标测定及方法
+
+血液生化指标：按照试剂盒说明，使用AU-400 全自动生化分析仪(Olympus，日本)测定血清中总蛋白、白蛋白、球蛋白、葡萄糖、尿素、总胆固醇、甘油三酯、高密度脂蛋白、低密度脂蛋白的浓度。
+
+消化酶活性：分别将1g胃和空肠内容物以及胰腺组织经过简单预处理后吸取上清液，按照试剂盒（南京建成生物工程研究所）说明，用比色法来测定淀粉酶、蛋白酶和脂肪酶活性。VFA 浓度：根据秦（1982）的测定方法[5]，用GC-14B型气相色谱仪（日本岛津公司）测定VFA，色谱柱采用毛细吸管柱，柱温 $1 3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，汽化温度180℃，采用氢离子火焰检测器，检测温度 $1 8 0 ^ { \circ } \mathrm { C }$ ，载气为氮气，压力为 $6 0 \ \mathrm { k P a }$ ，氢气压力为 $5 0 \ \mathrm { k P a }$ ，氧气压力 $5 0 \ \mathrm { k P a }$ ，灵敏度（档）为101，衰减3.0。
+
+# 1.4数据统计与分析
+
+数据经 EXCEL 整理后，用 SPSS17.0 软件进行单因素方差分析(one-way ANOVA)，结果以平均值±标准误(mean $\pm \mathrm { S E }$ 表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+2结果
+
+2.1哺乳梅山仔猪与哺乳大白仔猪血液生化指标的比较由表1可知，两种仔猪血清葡萄糖、总蛋白、球蛋白、白蛋白、尿素、甘油三酯和低密度  
+脂蛋白含量均无显著差异，而哺乳梅山仔猪高密度脂蛋白和总胆固醇含量则显著高于哺乳大白  
+仔猪 $( P { < } 0 . 0 5 )$ 。
+
+# 表1哺乳梅山仔猪与哺乳大白仔猪血液生化指标的比较
+
+Table 1 Comparison of blood biochemical parameters of Meishan and Yorkshire piglets
+
+<html><body><table><tr><td>指标</td><td>哺乳梅山仔猪</td><td>哺乳大白仔猪</td><td>P值</td></tr><tr><td>Items</td><td>Meishan piglets</td><td>Yorkshire piglets</td><td>P-value</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>58.20±6.19</td><td>61.38±4.61</td><td>0.689</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>37.38±3.71</td><td>36.80±1.86</td><td>0.891</td></tr><tr><td>球蛋白 GLO/(g/L)</td><td>20.82±3.18</td><td>23.75±3.01</td><td>0.518</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>7.70±0.74</td><td>8.93±0.58</td><td>0.218</td></tr><tr><td>尿素Urea/(mmol/L)</td><td>4.52±0.87</td><td>3.65±0.19</td><td>0.351</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.91±0.18</td><td>1.49±0.30</td><td>0.129</td></tr><tr><td>高密度脂蛋白 HDL/(mmol/L)</td><td>1.53±0.09</td><td>2.28±0.27</td><td>0.036</td></tr><tr><td>低密度脂蛋白LDL/(mmol/L)</td><td>2.14±0.35</td><td>3.15±0.58</td><td>0.166</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>3.57±0.33</td><td>5.45±0.62</td><td>0.023</td></tr></table></body></html>
+
+2.2哺乳梅山仔猪和哺乳大白仔猪消化酶活性的比较
+
+如表2所示，哺乳梅山仔猪有更高的胃脂肪酶活性 $( P { < } 0 . 0 5 )$ 和较低的空肠乳糖酶活性$( P { < } 0 . 0 1 )$ 。哺乳梅山仔猪空肠淀粉酶活性有显著低于哺乳大白仔猪的趋势 $( 0 . 0 5 { < } P { < } 0 . 1 )$ 。由于仔猪较小，本试验中的胃蛋白酶和空肠蛋白酶活性低于我们所用的试剂盒检测水平，没有得到有效的数据。
+
+# 表2哺乳梅山仔猪与哺乳大白仔猪消化酶活性的比较
+
+；Table 2 Comparison of the activity of digestive enzymes in Meishan and Yorkshire pigletsU/mgprot   
+
+<html><body><table><tr><td>项目</td><td>部位</td><td>哺乳梅山仔猪</td><td>哺乳大白仔猪</td><td>P值</td></tr><tr><td>Items</td><td>Gut segment</td><td>Meishan piglets</td><td>Yorkshire piglets</td><td>P-value</td></tr><tr><td>脂肪酶</td><td>胃Stomach</td><td>3.01±0.56</td><td>1.54±0.08</td><td>0.039</td></tr><tr><td>Lipase</td><td>空肠 Jejunum</td><td>0.47±0.97</td><td>0.40±0.09</td><td>0.585</td></tr><tr><td></td><td>胰腺 Pancrea</td><td>4.26±0.67</td><td>3.33±0.52</td><td>0.294</td></tr><tr><td>淀粉酶</td><td>胃 Stomach</td><td>1.06±0.20</td><td>0.85±0.21</td><td>0.481</td></tr><tr><td>Amylase</td><td>空肠 Jejunum</td><td>12.50±1.71</td><td>18.10±2.44</td><td>0.094</td></tr><tr><td>蛋白酶</td><td>胰腺Pancrea</td><td>254.83±57.49</td><td>178.24±19.35</td><td>0.175</td></tr><tr><td>Protease</td><td>胰腺Pancrea</td><td>705.50±77.56</td><td>780.90±93.83</td><td>0.585</td></tr><tr><td>乳糖酶</td><td></td><td></td><td></td><td></td></tr><tr><td>Lactase</td><td>空肠 Jejunum</td><td>329.21±27.25</td><td>580.03±62.31</td><td>0.005</td></tr></table></body></html>
+
+2.3哺乳梅山仔猪与哺乳大白仔猪VFA 浓度的比较
+
+如表3所示，哺乳梅山仔猪盲肠中的乙酸、丙酸和总挥发酸浓度极显著高于哺乳大白仔猪$( P { < } 0 . 0 1 )$ ，空肠中乙酸浓度显著低于哺乳大白仔猪 $( P { < } 0 . 0 5 )$ ，其他部位的挥发酸浓度在2种仔猪间无显著差异。另外，空肠中除了乙酸外，其他挥发酸由于浓度偏低，本试验方法无法检测到。哺乳梅山仔猪结肠和盲肠的丙酸比例显著高于哺乳大白仔猪 $( P { < } 0 . 0 1 )$ ，而结肠乙丙显著低于大白仔猪 $_ { ( P < 0 . 0 5 ) }$ （表4）。
+
+# 表3哺乳梅山仔猪与哺乳大白仔猪挥发性脂肪酸浓度的比较
+
+Table 3 Comparison of the concentration of VFA in suckling Meishan and Yorkshire pigletsmmol/L
+
+<html><body><table><tr><td>指标</td><td>部位</td><td>哺乳梅山仔猪</td><td>哺乳大白仔猪</td><td>P值</td></tr><tr><td>Items</td><td>Gut segment</td><td>Meishan piglets</td><td>Yorkshire piglets</td><td>P-value</td></tr><tr><td>乙酸</td><td>空肠 Jejunum</td><td>3.93±0.46</td><td>6.12±0.99</td><td>0.046</td></tr><tr><td>Acetate</td><td>盲肠 Caecum</td><td>272.91±23.77</td><td>227.97±16.16</td><td><0.001</td></tr><tr><td></td><td>结肠Colon</td><td>119.97±16.75</td><td>138.56±19.92</td><td>0.504</td></tr><tr><td></td><td>粪Feces</td><td>19.89±2.54</td><td>14.95±4.03</td><td>0.303</td></tr><tr><td>丙酸</td><td>盲肠 Caecum</td><td>100.89±38.52</td><td>72.23±8.50</td><td>0.001</td></tr><tr><td>Propionate</td><td>结肠Colon</td><td>55.43±12.05</td><td>40.70±10.37</td><td>0.376</td></tr><tr><td></td><td>粪Feces</td><td>9.24±1.61</td><td>5.22±1.71</td><td>0.136</td></tr><tr><td>丁酸</td><td>盲肠 Caecum</td><td>46.79±17.03</td><td>48.25±10.80</td><td>0.942</td></tr><tr><td>Butyrate</td><td>结肠Colon</td><td>29.86±9.11</td><td>26.62±10.31</td><td>0.823</td></tr><tr><td></td><td>粪Feces</td><td>5.40±1.20</td><td>4.74±2.01</td><td>0.169</td></tr><tr><td>总挥发性脂肪酸</td><td>盲肠 Caecum</td><td>454.09±37.14</td><td>387.72±28.71</td><td>0.002</td></tr><tr><td>TVFA</td><td>结肠Colon</td><td>229.75±43.96</td><td>229.85±44.70</td><td>0.999</td></tr><tr><td></td><td>粪Feces</td><td>40.60±4.90</td><td>28.93±8.01</td><td>0.220</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>盲肠Caecum</td><td>20.09±1.87</td><td>25.24±3.44</td><td>0.353</td></tr><tr><td>支链脂肪酸</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>结肠Colon</td><td>15.09±4.58</td><td>14.77±4.12</td><td>0.959</td></tr><tr><td>BCFA</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>粪Feces</td><td>3.90±0.72</td><td>2.54±0.73</td><td>0.240</td></tr></table></body></html>
+
+Table 4 Comparison of the ratio of acetate, propionate and butyrate to TVFA of suckling Meishan
+
+<html><body><table><tr><td>指标</td><td>部位</td><td>哺乳梅山仔猪</td><td>哺乳大白仔猪</td><td>P值</td></tr><tr><td>Items</td><td>Gut segment</td><td>Meishan piglets</td><td>Yorkshire piglets</td><td>P-value</td></tr><tr><td></td><td>盲肠 Caecum</td><td>0.63±0.01</td><td>0.60±0.04</td><td>0.308</td></tr><tr><td>乙酸</td><td>结肠Colon</td><td>0.54±0.03</td><td>0.65±0.05</td><td>0.134</td></tr><tr><td>Acetate</td><td>粪Feces</td><td>0.50±0.04</td><td>0.54±0.08</td><td>0.61</td></tr><tr><td></td><td>盲肠Caecum</td><td>0.23±0.02</td><td>0.18±0.01</td><td>0.041</td></tr><tr><td>丙酸</td><td>结肠 Colon</td><td>0.24±0.01</td><td>0.17±0.01</td><td>0.003</td></tr><tr><td>Propionate</td><td>粪Feces</td><td>0.22±0.02</td><td>0.17±0.02</td><td>0.110</td></tr><tr><td></td><td>盲肠 Caecum</td><td>0.073±0.02</td><td>0.12±0.02</td><td>0.210</td></tr><tr><td>丁酸</td><td>结肠 Colon</td><td>0.12±0.02</td><td></td><td></td></tr><tr><td>Butyrate</td><td></td><td></td><td>0.10±0.03</td><td>0.492</td></tr><tr><td></td><td>粪Feces</td><td>0.13±0.03</td><td>0.15±0.04</td><td>0.737</td></tr><tr><td>乙丙</td><td>盲肠Caecum</td><td>2.76±0.24</td><td>3.36±0.39</td><td>0.347</td></tr><tr><td>Acetate/Propionate</td><td>结肠Colon</td><td>2.35±0.24</td><td>4.10±0.58</td><td>0.029</td></tr><tr><td></td><td>粪Feces</td><td>2.38±0.33</td><td>3.44±0.82</td><td>0.295</td></tr></table></body></html>
+
+78 3讨论
+
+血液中代谢产物可反映机体的生理状态。本试验中哺乳大白仔猪 HDL 含量显著高于哺乳梅山仔猪，LDL含量无显著差异，提示哺乳大白仔猪血清中用于合成脂肪酸的胆固醇量减少，造成哺乳大白仔猪血清中总胆固醇量是显著高于哺乳梅山仔猪的。我们发现，哺乳梅山仔猪血清甘油三酯含量偏低于哺乳大白仔猪，这与He 等对脂肪型宁乡猪显著高于肌肉型三元杂交猪的研究结果相悖，但与Pond等的研究结果相似，这可能与仔猪生长阶段以及日粮有关。另外，本试验中盲肠和结肠中较高的丙酸比例会造成哺乳梅山仔猪体内糖异生作用加剧[7]，但哺乳梅山仔猪血液葡萄糖含量是偏低于哺乳大白仔猪的。这说明哺乳梅山仔猪增多的葡萄糖可能被用于其他代谢途径。糖代谢增强可为动物提供充足的乙酰辅酶A和ATP，这两种物质都是脂肪酸从头合成所必需的。因此，我们推测，增多的葡萄糖被以甘油三酯的形式储存于脂肪组织。
+
+# 3.2消化酶活性及其对肠道微生物代谢的作用
+
+在纯母乳喂养阶段，我们发现胃脂肪酶活性显著高于空肠脂肪酶活性，提示在动物生长早期，胃在脂肪分解上起到更为重要作用[8]。由于梅山猪胃脂肪酶活性显著高于大白猪，所以乳中更多的脂肪可能会被分解，产生的脂肪酸可能被转运到脂肪组织或者肝脏生成甘油三酯，这可能是造成哺乳梅山仔猪具有较高背膘比例和背膘厚的原因之一（数据未显示)。乳糖酶主要由小肠黏膜上皮细胞产生，分泌到肠腔后，可将乳中的乳糖降解成半乳糖和葡萄糖，这些物质不仅是机体最重要的能量来源，同时在促进脑和神经发育以及提高生长性能上起到至关重要的作用[9]。Kim 等[10]在对断奶仔猪料中添加不同剂量的乳糖，在一定范围内，较高的乳糖含量可以显著提高仔猪生长性能。在本试验中，两种仔猪采食的母乳具有相似的乳糖含量（梅山母猪 14天时乳糖含量为 $\cdot$ ，大白母猪为 $\cdot$ )，但是大白仔猪空肠乳糖酶活性显著高于哺乳梅山仔猪，低乳糖酶活性可导致哺乳梅山仔猪未降解的乳糖含量升高，同时哺乳梅山仔猪空肠淀粉酶活性偏低于哺乳大白仔猪，这可导致未被消化吸收的淀粉增多。大量乳糖和淀粉进入大肠，使哺乳梅山仔猪后肠微生物可发酵底物量增多，这与本试验中出现哺乳梅山仔猪盲肠和结肠VFA浓度显著高于哺乳大白仔猪的结果一致。很多研究也同样发现脂肪型动物盲肠和结肠中VFA浓度比肌肉型动物高。研究还认为，造成这一现象的原因可能是由于肥胖动物体内产 VFA 的厚壁菌门(Firmicutes）数量较多，尤其是参与纤维素分解和产酸的瘤胃球菌科(Ruminococcus)、梭菌属 Clostridia cluster IX 和 Clostridia Cluster XIVa 的相对丰度较高[1-2]。这种菌群丰度上的差异同样也出现在脂肪型二花脸猪和肌肉型长白猪上[13]。VFA 浓度上的差异与两种仔猪肠道微生物区系的结构差异紧密相关。
+
+# 4小结
+
+$\textcircled{1}$ 哺乳梅山仔猪和哺乳大白仔猪在消化酶活性、血液生化指标以及挥发性脂肪酸浓度上存在显著差异  
+$\textcircled{2}$ 哺乳梅山仔猪有较高浓度的血清总胆固醇和高密度胆固醇；哺乳梅山仔猪胃脂肪酶活性显著高于哺乳大白仔猪，而空肠乳糖酶活性较低
+
+$\textcircled{3}$ 哺乳梅山仔猪盲肠含有较高浓度的乙酸、丙酸和总挥发酸 参考文献：
+
+[1] HE Q,REN P, KONG X,Wu Y, Wu G,et al. Comparison of serum metabolite compositions between obese and lean growing pigs using an NMR-based metabonomic approach[J]. The Journal of Nutritional Biochemistry,2012,23(2): 133-139.
+
+[2]　杨利娜，朱志刚，边高瑞，石晓峰，苏勇，朱伟云．哺乳梅山仔猪和哺乳大白仔猪生长 性能和消化道发育的比较研究[J]．动物营养学报,2014,26(6):1644-1651.
+
+[3]KELLY D,KING T,MCFADYEN M, et al. Efect of lactation on the decline of brush border lactase activity in neonatal pigs[J]. Gut, 1991,32(4): 386-392.
+
+4]RZASA A, POZNANSKI W,AKINCZA J,et al. The influence of primiparous sow litter standardization on their performance[J]. Roczniki Naukowe Zootechniki, 2Oo2(suppl. 2): 167-172.
+
+[5]秦为琳．应用气相色谱测定瘤胃挥发性脂肪酸方法的研究改进．南京农业大学学报,
+
+1982, 4: 110-116.   
+[6]POND W, YEN J, LINDVALL R, HILL D. Dietary alfalfa meal for genetically obese and lean growing pigs: effect on body weight gain and on carcass and gastrointestinal tract measurements and blood metabolites[J]. Journal of Animal Science,1980, 51(2): 367-373.   
+[7]NICHOLSON JK,HOLMES E，KINROSS J，et al. Host-gut microbiota metabolic interactions[J]. Science,2012, 336(6086): 1262-1267.   
+[8]HENNING SJ.Postnatal development: coordination of feding,digestion, and metabolism[J]. American Journal of Physiology-Gastrointestinal and Liver Physiology，1981， 241(3): G199-G214.   
+[9]BANO G. Glucose homeostasis, obesity and diabetes[J]. Best Practice & Research Clinical Obstetrics & Gynaecology,2013,27(5): 715-726.   
+[10]KIM JS, SHINDEPL,YANGYX,et al. Effects of dietary lactose levels during different starter phases on the performance of weaning pigs[J]. Livestock Science,2010,131(2): 175-182.   
+[11]SCHWIERTZ A,TARAS D,SCHAFER K,et al. Microbiota and SCFA in lean and overweight healthy subjects[J]. Obesity, 2010, 18(1): 190-195.   
+[12]TREMAROLI V, BACKHED F. Functional interactions between the gut microbiota and host metabolism[J]. Nature, 2012, 489(7415): 242-249.   
+[13]LUO YH, SU Y, WRIGHT ADG, ZHANG LL,et al. Lean breed Landrace pigs harbor fecal methanogens at higher diversity and density than obese breed Erhualian pigs[J]. Archaea, 2012, 2012.
+
+SucklingMeishanand YorkshirePiglets
+
+MA Shouqing MAMeilei MU Chunlong YV KaifanZHU Weiyun\*
+
+University, Nanjing 210095,China) Abstract: (Objective) The present study was conducted to compare early physiological characteristics between Meishan and Yorkshire piglets. (Method) Six healthy purebred Meishan sows and Yorkshire sows with similar due date were recruited in this research respectively. Their piglets were fed for 14 days with maternal milk,then being slaughtered to recover blood,pancreas,contents of stomach, jejunum,cecum, colon as well as feces.Blood biochemical parameters, digestive enzymes, volatile fatty acids (VFA) were determined respectively. (Result) The results showed that Yorkshire piglets had higher concentration of HDL and total cholesterol $( P { < } 0 . 0 5 )$ ; the activity of gastric lipase was higher in Meishan piglets while Yorkshire piglets had higher lactase activity $( P { < } 0 . 0 5 )$ ; concentrations of acetate, propionate and total chain fatty acids (TVFA) in cecum as well as the ratio of propionate in cecum and colon were considerable higher in Meishan piglets than in Yorkshire piglets $( P { < } 0 . 0 5 )$ , but to a lower extent with acetate in jejunum and the ratio of acetate to propionate in colon ( $( P { < } 0 . 0 5 )$ .(Concluion) In conclusion, during suckling period, significant differences have already existed in blood biochemical parameters, digestive enzyme activity and VFA concentration between Meishan and Yorkshire piglets. Key words: blood biochemical parameters; digestive enzyme activity; VFA concentration; suckling Meishan piglets; suckling Yorkshire piglets 2

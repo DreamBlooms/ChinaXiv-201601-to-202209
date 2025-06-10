@@ -1,0 +1,180 @@
+# DOI:10.5846/stxb201701030011
+
+贾婷婷,常伟，范晓旭，宋福强.盐胁迫下AM真菌对沙枣苗木光合与叶绿素荧光特性的影响.生态学报,2018,38（4)：1337-1347.JiaTallaciangustifolia seedlings under salt stress.Acta Ecologica Sinica,2018,38(4):1337-1347.
+
+# 盐胁迫下AM真菌对沙枣苗木光合与叶绿素荧光特性的影响
+
+贾婷婷，常伟，范晓旭，宋福强黑龙江大学生命科学学院，哈尔滨150080
+
+摘要：为了揭示盐胁迫下 AM真菌对苗木光合生理特性的影响,试验采用盆栽法,对接种 AM 真菌根内球囊霉（Glomusintraradices,GI)与未接种AM真菌(CK)的沙枣幼苗进行浓度为 $0 \mathrm { \Omega } , 1 0 0 \mathrm { \Omega } , 2 0 0 \mathrm { \Omega } , 3 0 0 \mathrm { m m o l / L \Omega } \mathrm { N a C l }$ 处理,测定不同处理沙枣苗木叶片的净光合速率 $P n$ 、气体交换参数(蒸腾速率 $T r$ ,气孔导度 $\quad G s$ ,胞间二氧化碳 $\boldsymbol { C } i$ ）、色素含量（叶绿素 $^ { \mathrm { ~ a ~ } , \mathrm { { b } } }$ ,叶绿素,类胡萝卜素）、叶绿素荧光参数(最大荧光效率 $\mathrm { F v / F m }$ ,光系统Ⅱ效率 $\Phi \mathrm { P S ~ I I }$ ,光化学淬灭系数qP,非光化学淬灭系数NPQ,表观电子传递速率ETR,光反应中心PSII潜在活性 $\mathrm { F v / F o }$ ,热耗散速率HDR)等指标。结果表明：(1)随着盐浓度的增加,GI和CK处理对沙枣幼苗叶片 $P n , T r , G s$ 及 $\boldsymbol { C } i$ 影响的变化趋势基本一致,均显著下降,但是在同一个盐浓度下,接种GI沙枣叶片的这些指标显著高于CK处理组( $P { < } 0 . 0 5 )$ ),并且与不加盐处理为对照,其各参数的变化幅度显著低于CK组。（2)接种GI组和CK组的沙枣幼苗叶片随着盐浓度的增加色素含量各参数变化趋势基本一致,均降低或升高,但是与不加盐处理相比,CK 处理组的变化幅度显著高于GI处理。（3)随着各处理盐浓度增加,接种GI处理的Fv/FmPSI.qP、ETR、Fv/Fo呈先升高后下降的趋势,NPQ、HDR 呈先降低后升高的趋势,相对应的CK 处理组各值呈显著下降的趋势,而NPQ和HDR 则呈先降低后升高以及逐渐升高的趋势,与不加盐处理为对照,GI处理组的变化幅度显著低于CK组。研究结果进一步揭示了AM真菌在盐生境中通过提高植物的光合和叶绿素荧光特性发挥重要的作用,而盐胁迫强度也是AM真菌发挥这一作用的影响因素。盐生植物与AM真菌共生用于盐碱地的改良具有一定的应用前景。
+
+关键词：AM真菌；盐胁迫；沙枣；叶绿素含量；叶绿素荧光参数
+
+# Effects of Arbuscular mycorrhizal fungi on photosynthetic and chlorophyll fluorescence characteristics in Elaeagnus angustifolia seedlings under salt stress
+
+JIA Tingting， CHANG Wei， FAN Xiaoxu， SONG Fuqiang College ofLife Sciences，Heilongjiang University，Harbin15oo8o,China
+
+Abstract: The net photosynthetic rate $\textbf { ( } P n \textbf { ) }$ ，gas exchange parameters， chlorophyll fluorescence parameters， and chlorophyllcontent（chlorophyllaandb，and carotenoids）ofElaeagnus angustifolia leaves inoculated witharbuscular mycorrhizal fungi （GI）and non-inoculated treatments（CK）were measured during stressimposed byconcentrations of 0, $1 0 0 , \ 2 0 0$ ， or 300 mmol/L NaCl. Gas exchange parameters included transpiration rate $( \operatorname { T r } )$ ，stomatal conductance（Gs）, and intercellular $\mathrm { C O } _ { 2 }$ concentration（Ci）. Chlorophyll fluorescence parameters included maximum fluorescence eficiency (Fv/Fm），actual photosystem IIeficiency（PSII），photochemical quenching coeffcient（qP），non-photochemical quenching coeffcient（NPQ），apparent electron transferrate（ETR），light reactioncenter of PS IIpotential activity( $\mathrm { F v } \big /$ Fo），and heat dissipation rate（HDR). The primary findings of these results were threefold. First，the $P n$ ， $T r$ ， $G s$ ，and $\boldsymbol { C } i$ of $\overline { { E } }$ ，angustifolia leaves decreased significantly as salt concentration increased in both CK andGI treatments.Moreover, these parameters were significantly higher in GI treatments than in CK treatments ( $\scriptstyle ( P < 0 . 0 5 )$ .However，the magnitude of changeinthese parameters wassmalerin GItreatmentsthan in theCK treatment.Second，changes inchlorophyll content in $E$ ，angustifolia leaves as salt concentration increased were positivelycorrelated inGIand CK treatments.However，the magnitude of such changes wasgenerally higher in theCK treatments than in the GI treatments.Finally，in the GI treatments，Fv/Fm，ΦPS II，qP，ETR，andFv/Fo initially increased with increasing salt concentration，before decreasing；in CK treatments，these parameters declined consistentlyassalt concentration increased.Moreover，inGI treatments，NPQand HDR initiallydecreased assalt concentration increased，before increasing.InCK treatments，NPQ wassimilar to thatof GI treatments，whereas HDRdecreased gradualyas theconcentrationof salt increased.The magnitude of efectacross diferent salt concentrationsin these parameters wassignificantlylower inGI treatments than inCK treatments.Inoculation with arbuscular mycorrhizal fungi（AMF）maypromotesalttolerancein plantsbyimproving photosyntheticand chlorophyllfluorescencecharacteristics，which in turn，promotes plant growth insaline habitats.We suggest that inoculationof halophytes withmycorhizal symbiontscanhave potentialapplications inimproving theusabilityof saline-alkali land. C/y
+
+KeyWords:Arbuscularmycorhizal fungi；salt stress；Elaeagnusangustifolia；chlorophyll content；chlorophyl fluorescence parameters
+
+盐分胁迫是影响植物生长、农业生产的重要限制因素之一,是全球范围内一种主要的非生物胁迫。土地盐渍化引发诸多的生态环境问题,如水土流失、土地荒漠化、森林和草地减少、生物多样性减少等[1]。目前，随着土地盐碱化和次生盐碱化不断加剧,预计在未来25 年之内世界上将有 $3 0 \%$ 的土地流失,而到21世纪中叶将高达 $5 0 \% ^ { [ 2 - 3 ] }$ ,盐碱地治理已引起了人们的普遍关注。近年来,采用生物技术手段实施“生物治盐”方法，具有环保、高效、可持续强等特点,其可以作为盐碱地治理的新突破口。
+
+沙枣（Elaeagnus angustifolia)为胡颓子科（Elaeagaceae）胡颓子属（Elaeagnus）落叶乔木或小乔木,在我国主要以西北地区的广大荒漠、半荒漠为分布中心。沙枣也是极少能在戈壁滩上生存下来的树种之一,被誉为沙漠和盐碱地的“宝树”。因此利用沙枣自身的耐盐性特点,在盐碱条件下通过生物技术手段进一步提高沙枣的耐盐胁迫能力具有重要的现实作用。研究表明,盐胁迫可以直接影响植物的生长,也可以通过抑制植物的光合作用而间接影响其生长,并且盐度越大,抑制作用越明显[48]。盐胁迫下植物光合作用降低的原因至今没有一致的解释,因此开展盐胁迫如何制约植物的光合作用以及植物的光合作用又如何适应盐渍生境的相关研究具有重要的意义。
+
+丛枝菌根(Arbuscular mycorrhizal,AM)真菌广泛存在于土壤中,能与绝大多数的高等植物形成互惠共生体系[9-10]。盐胁迫下AM真菌与某些植物共生可以通过提高植物的光合及叶绿素荧光特性而促进植物的生长,从而提高植物的耐盐能力[-6],关于盐胁迫下沙枣苗木的光合特性早有报道[17-8],而菌根化沙枣苗木光合生理指标对盐胁迫的响应还有待于进一步揭示。因此,本试验在盆栽条件下将 AM真菌一根内球囊霉(Glomus intraradices,GI)与耐盐植物沙枣共生作为切入点,研究不同浓度盐胁迫下GI对沙枣叶片净光合速率、气体交换参数、色素含量和叶绿素荧光特性的影响,以期揭示菌根化沙枣苗木的光合作用对盐胁迫的适应机制,旨在为利用AM真菌与沙枣共生来提高苗木的耐盐能力,以及为加快盐碱地治理和菌根化苗木的推广应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+沙枣种子由黑龙江锦绣大地生物工程有限公司提供;供试 AM真菌为根内球囊霉（Glomus intraradices,GI)（课题组前期试验已证明GI能够提高沙枣的耐盐碱能力并申获了国家专利)。AM真菌接种体的孢子含量约25个/ $\mathbf { \chi } _ { \mathbf { g } } ^ { \prime }$ ,由黑龙江大学修复生态研究室扩繁、保存。接种物由孢子、菌丝、菌根片段组成的根际混合物。沙枣种子的栽培基质由 $\mathrm { V } _ { \mathrm { \# K F \pm } } \mathrm { : V } _ { \# \# K \pm } \mathrm { : V } _ { \# \sharp \sharp } = 6 \mathrm { : 2 : 2 }$ 比例混合均匀,高压灭菌( $1 2 0 ^ { \circ } \mathrm { C }$ ,2h)备用。
+
+# 1.2 试验设计及方法
+
+# 1.2.1 试验设计和取样
+
+试验设计包括两个试验因素：AM真菌和盐胁迫。AM真菌处理为:CK（接种经高温灭活的接种物）,接种根内球囊霉(GI)2水平处理。盐胁迫为4水平，分别为： $\mathrm { 0 } \mathrm { , 1 0 0 , 2 0 0 , 3 0 0 m m o l / L }$ 浓度的 NaCl溶液。试验一共包括8种处理，10次重复，共计80盆。
+
+本试验于2016年4月27日将AM真菌GI与CK组灭活接种体分别接种于 $3 0 \mathrm { c m } \times 1 5 \mathrm { c m } \times 1 5 \mathrm { c m }$ 花盆的基质内,GI接种体的接种量为 $1 \% ( \mathrm { \underline { { g } } / \underline { { g } } ) }$ 。将经高锰酸钾消毒后的沙枣种子定植于盆内,将所有的盆栽放于黑龙江省植物园的塑料大棚中培养。2016年8月21日,采用蒸馏水配制的不同浓度NaCI溶液对沙枣幼苗进行盐胁迫处理,每盆浇 $5 0 0 \mathrm { m L }$ ;2016年8月22日，每盆再浇 $5 0 0 \mathrm { m L }$ ,一共浇2次,共 $1 0 0 0 \mathrm { m L }$ 。2016年9月21日天气晴朗、无风,9:00—11:00,每个处理随机选取长势一致的沙枣幼苗3株,每株选取从上到下第6—8轮叶子来测定植株的光合作用、叶绿素荧光参数。9月22日盐处理30d,将试验苗全部收获,从上到下选取第4—10轮功能叶片,每个处理取5株植株叶片作为混合样,采集的叶片立即放入液氮中速冻,并于 $- 8 0 \%$ 超低温冰箱中保存,备用。 .（
+
+# 1.2.2 试验方法
+
+沙枣苗木菌根侵染率测定采用酸性品红染色方法[19]。使用CI-340光合测定仪测定植株的光合作用,测定指标包括净光合速率( $\left( P n \right)$ 、蒸腾速率 $\left( T r \right)$ 、气孔导度( $( G s )$ 、胞间二氧化碳(Ci)。叶绿素荧光参数测量使用Li-6400 装配的荧光叶室6400-40 测定,样品暗适应 $3 0 \mathrm { { m i n } }$ ,首先测定植株叶片的最大荧光 $\mathrm { F m }$ 、最小荧光Fo、最大荧光效率 $\mathrm { F v / F m }$ 。然后在光源下将植株充分活化1h,在 $5 0 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mu$ 的光强下测定光适应下植株叶片的最大荧光 $\mathrm { F m ^ { \prime } }$ 、最小荧光 $\mathrm { F o ^ { \prime } }$ 和稳态荧光Fs。基于以上参数计算下列荧光参数：PSⅡ效率、光化学淬灭系数qP、非光化学淬灭系数 NPQ、表观电子传递速率 ETR、热耗散速率 HDR、光反应中心PS Ⅱ潜在活性 $\mathrm { F v / F o }$ 。叶绿素含量测定采用乙醇提取法[20]。所有测定重复三次，取平均值。
+
+# 1.2.3 数据处理方法
+
+采用 Microsoft Excel 2003 和OriginPro8.5软件进行数据处理及统计分析,用 two-way ANOVA与 S-N-K检验分析各处理间差异的显著性。变化幅度的计算参照王文杰等[21]的方法,即：以不加盐处理条件为对照,各测定因子较不加盐对照的变化幅度（amplitude, $\mathcal { A }$ 为 $: A _ { i } = ( { P _ { s - i } - P _ { c - i } } ) / { \ P _ { c - i } } = { P _ { s - i } / \ P _ { c - i } - 1 }$ ，式中， $i$ 表示第 $i$ 个测定因子， $P s$ 表示盐胁迫 $\mathrm { ' 1 0 0 . 2 0 0 . 3 0 0 m m o l / L \rangle }$ 条件下所测定因子的数值， $P c$ 表示不加盐处理条件所测定因子的数值， $P s { - } P c$ 表示相对于不加盐处理所测定因子的绝对变化幅度,除以 $P c$ 表示相对于不加盐处理的相对变化幅度。 $A$ 的数值为负时表示较不加盐处理降低,数值为正表示较不加盐处理升高。数值绝对值越大表示变化的幅度越大。对同一测定参数的 $A$ 进行统计分析，如果差异显著则说明在不同盐胁迫浓度条件下GI与CK处理组变化幅度的差异达到显著水平，否则说明二者变化幅度不存在显著差异。
+
+# 2结果与分析
+
+# 2.1Glomus intraradices(GI)对沙枣的侵染情况
+
+1 试验采取酸性品红染色法对沙枣苗木根系进行菌根真菌侵染情况测定。从图1可以清晰看见AM真菌与沙枣共生后根系形成的菌根结构，根系内充满大量的泡囊，以及纵横交错的菌丝，侵染强度大。经过统计，不同盐浓度胁迫下，接种处理的沙枣苗木根系的菌根侵染率都达到了 $9 5 \%$ 以上。与此同时，CK处理组没有侵染。该结果充分表明，GI能够很好地与沙枣根系形成菌根共生体。
+
+![](images/ed071e98388b10ebf85b37759db77a9b815ce17c09f1f5f75ed83f5b036eda97.jpg)  
+图1沙枣根内菌丝和泡囊  
+Fig.1The hypha and vesicular of AM inside the roots of E.angustifolia
+
+2.2盐胁迫下GI和CK处理对沙枣苗木净光合速率及气体交换参数的影响
+
+图2是在盐胁迫条件下，GI和CK处理对沙枣幼苗叶片净光合速率 $P n$ 、蒸腾速率 $T r$ 、气孔导度 $G s$ 、胞间二氧化碳 $\boldsymbol { C } i$ 变化趋势的影响。数据表明,随着盐胁迫浓度的增加,GI和CK处理对沙枣幼苗叶片 $P n , T r , G s$ 及$\boldsymbol { C } i$ 影响的变化趋势基本一致,均呈现显著下降的趋势;在相同盐浓度下,接种GI处理沙枣幼苗叶片的 $P n$ T$G s$ 及 $\boldsymbol { C } i$ 显著高于CK 处理组( $_ { ( P < 0 . 0 5 ) }$ 。
+
+![](images/ee1843d85779247f238ff0c6a4847251d718f69b9d0c02a86c30a5cbc046edcd.jpg)  
+图2盐胁迫下GI和CK处理对沙枣苗木净光合速率及气体交换参数的影响 Fig.2Effects of GI and CK on net photosynthetic rate and gas exchange parameters in leaves of $E$ ，angustifolia under salt stress A GI:根内球囊霉 Glomus intraradices;CK;对照组 Control check
+
+计算了盐胁迫条件下GI和 $\widehat { \mathrm { C K } }$ 处理对沙枣苗木净光合速率与气体交换参数变化幅度差异（表1）。$1 0 0 \mathrm { m m o l / L }$ 盐浓度下,接种GI处理的沙枣幼苗叶片比不加盐处理 $P n \ , T r \ , G s \ , C i$ 分别降低 $9 \%$ 、 $4 2 \%$ 、 $2 9 \%$ 、$1 9 \%$ ,而CK处理组比不加盐处理分别降低 $2 4 \% . 5 3 \% . 4 1 \% . 2 0 \%$ 。 $2 0 0 \mathrm { m m o l / L }$ 盐浓度下,GI处理组各值分别降低 $3 4 \% , 5 6 \% , 5 5 \% , 2 6 ^ { c }$ ,而CK处理组分别降低 $4 4 \% , 6 3 \% , 6 3 \% , 3 4 \%$ 。 $3 0 0 \mathrm { m m o l / L }$ 盐浓度下,GI组各参数值依次降低 $5 0 \% . 7 1 \% . 7 6 \% . 4 4 \%$ ,而CK处理组对应值依次降低 $7 3 \% . 8 5 \% . 8 6 \% . 6 6 \%$ 。由此可知,在盐浓度$1 0 0 , 2 0 0 \mathrm { m m o l } / \mathrm { L }$ 时,GI与CK 组的变化幅度差异达到显著水平( $P { < } 0 . 0 5 )$ ,在盐浓度 $3 0 0 \mathrm { m m o l / L }$ 时,两种处理的变化幅度差异达到极显著水平( $P { < } 0 . 0 1 )$ 。结果表明,随着盐胁迫增加,接种GI的沙枣幼苗各指标下降的幅度显著小于CK处理组,而且随着盐浓度增加,接种GI对于沙枣幼苗净光合速率与气体交换参数的正影响更大。
+
+# 2.3盐胁迫下GI和CK处理对沙枣苗木色素含量的影响
+
+在盐胁迫下,GI和CK处理对沙枣幼苗叶片色素含量变化趋势的影响如图3所示。随着盐浓度的增加,GI和CK 组对沙枣幼苗叶片叶绿素a、叶绿素b、总叶绿素、类胡萝卜素均呈现逐渐下降的趋势,并且在同一个盐浓度下,接种GI的沙枣叶片叶绿素a、叶绿素b、总叶绿素、类胡萝卜素均显著高于CK 处理组( $P { < } 0 . 0 5 )$ 。两种处理对类胡萝卜素/叶绿素却是升高的趋势,并且在不同盐浓度卜,接种GI的沙枣叶片类胡萝卜素/叶绿素含量显著低于CK处理组。而随着盐浓度的增加,叶绿素 $\mathrm { { a / b } }$ 呈现先升高后降低的趋势，在 $1 0 0 \phantom { 0 } . 2 0 0 \mathrm { m m o l / L }$ 时,GI与CK处理的叶绿素 $\mathrm { { a / b } }$ 明显升高;在 $3 0 0 \ \mathrm { m m o l / L }$ 时,两种处理的叶绿素 $\mathrm { { a / b } }$ 开始降低,但是GI处理的叶绿素 $\mathrm { { a / b } }$ 比值始终低于CK 处理。
+
+表1盐胁迫下不同处理对沙枣苗木净光合速率及气体交换参数变化幅度差异  
+Table1Tedifereneof tecangeaplitudeofdiferent treatmentsonetphotosytheticateandgasexchangeparametersinleavesf I angustifoliaunder saltstress S   
+
+<html><body><table><tr><td>指标 Parameters</td><td></td><td>盐浓度 Salt concentration 100mmol/L</td><td>盐浓度 盐浓度 Salt concentration Salt concentration 200mmol/L 300mmol/L</td></tr><tr><td>净光合速率/（μmol m-²s-1）</td><td>GI</td><td>-0.09</td><td>-0.34 -0.50</td></tr><tr><td rowspan="2">Net photosynthetic rate</td><td>CK</td><td>-0.24</td><td>-0.44 -0.73</td></tr><tr><td>显著性</td><td>*</td><td>*</td></tr><tr><td>蒸腾速率/(mmol m-² s-1)</td><td>GI</td><td>-0.42</td><td>-0.56 -0.71 *</td></tr><tr><td rowspan="2">Transpiration rate</td><td>CK</td><td>-0.53</td><td>-0.63 -0.85</td></tr><tr><td>显著性</td><td>*</td><td></td></tr><tr><td>气孔导度/（mol m-²s-1)</td><td>GI</td><td>-0.29</td><td>** -0.55 -0.76</td></tr><tr><td rowspan="2">Stomatal conductance</td><td>CK</td><td>-0.41</td><td>-0.63 -0.86</td></tr><tr><td>显著性</td><td>*</td><td>**</td></tr><tr><td>胞间二氧化碳／（μmol/mol)</td><td>GI</td><td>-0.19</td><td>-0.26 -0.44</td></tr><tr><td rowspan="2">Intercellular CO concentration</td><td>CK</td><td>-0.20</td><td>-0.34 -0.66</td></tr><tr><td>显著性</td><td>NS</td><td>* **</td></tr></table></body></html>
+
+\*表示GI与CK 处理在不同盐浓度下变化幅度的差异显著 $\scriptstyle P < 0 . 0 5$ ： $* *$ 表示差异极显著 $P { < } 0 . 0 1$ ;NS 差异不显著;GI;根内球囊霉 Glomusintraradices;CK:对照组 Control check >
+
+表2是盐胁迫下不同处理沙枣苗木叶绿素含量变化幅度的差异分析。在 $1 0 0 \mathrm { m m o l / L }$ 时，GI处理叶绿素a、类胡萝卜素/叶绿素分别降低 $2 \% . 1 \%$ ,而对应CK处理降低 $2 8 \%$ 、升高 $34 \%$ ,GI和CK处理之间的差异达到显著水平( $_ { _ { P < 0 . 0 5 ) } }$ ；而在 $2 0 0 . 3 0 0 \mathrm { m m o l / L }$ 时,GI组叶绿素a降低 $2 6 \% - 3 1 \%$ 、类胡萝卜素/叶绿素升高 $2 7 \%$ 一$2 9 \%$ ,而相应CK 组叶绿素a降低 $56 \% - 6 1 \%$ 、类胡萝卜素/叶绿素升高 $9 7 \% - 9 9 \%$ ， $\mathrm { G I }$ 和 CK 组之间的变化幅度差异达到极显著水平( $P { < } 0 . 0 1$ )。在 $1 0 0 \mathrm { m m o l / L }$ 时,接种GI的叶绿素 $\mathbf { b }$ 和总叶绿素分别降低 $9 \% - 1 8 \%$ ,CK处理组分别降低 $2 9 \% - 3 2 \%$ ,他们之间变化幅度差异达到显著水平( $P { < } 0 . 0 5 )$ ;随着盐浓度的进一步增加,接种GI的叶绿素 $\mathbf { b }$ 和总叶绿素分别降低 $4 2 \% - 4 4 \% \cdot 3 2 \% - 3 7 \%$ ,相应的CK 组分别降低 $6 3 \%$ 1 $64 \%$ ） $5 8 \%$ 1$6 2 \%$ ,GI与CK组之间变化幅度差异达到极显著水平( $P { < } 0 . 0 1 )$ 。数据表明,虽然随着盐浓度增加,GI和CK组沙枣叶片的叶绿素 $\mathbf { b } _ { \setminus }$ 总叶绿素都逐渐降低,但GI处理组下降的幅度显著低于CK处理组。而随着盐浓度的增加,接种GI沙枣叶片的类胡萝 $\boldsymbol { \mathsf { h } }$ 素、叶绿素 $\mathrm { { a / b } }$ 与CK处理组之间的变化幅度无显著差异( $\scriptstyle P > 0 . 0 5 )$ 。
+
+2.4盐胁迫下GI和CK处理对沙枣苗木叶绿素荧光参数的影响
+
+GI和CK处理下沙枣苗木叶绿素荧光参数的变化趋势如图4所示。随着盐浓度增加,接种GI处理的沙枣叶片 Fv/Fm、ΦPSⅡI、qP、ETR、Fv/Fo 呈先升高后下降的趋势;在 $1 0 0 \mathrm { m m o l / L }$ 时， $\mathrm { F v / F m } \ , \Phi \mathrm { P S } \ \mathrm { I I } \ , \mathrm { q P } \ , \mathrm { E T R } \ .$ Fv/Fo的值有一个小幅度的增加,达到最大值；在 $2 0 0 \mathrm { m m o l / L }$ 时开始小幅度下降;而在 $3 0 0 \mathrm { m m o l / L }$ ,开始迅速下降,相对应的CK处理组各参数值均呈下降的趋势。与前面的参数不同,接种GI的沙枣叶片其 NPQ、HDR均呈先降低后升高的趋势,而CK 处理组NPQ是先降低后升高,HDR 是逐渐升高的趋势。
+
+表3所示为盐胁迫下不同处理对沙枣苗木叶绿素荧光参数的变化幅度差异,在不同盐浓度条件下,GI和CK 处理下对沙枣叶片各叶绿素荧光参数变化幅度差异总体可以分为3种情况：(1)随着盐浓度的增加,接种GI的沙枣叶片 $\mathrm { F v / F m }$ 的变化幅度先升高后降低,CK组则显著降低；在 $1 0 0 \mathrm { m m o l / L }$ 下,GI组升高 $6 \%$ ,CK组下降 $5 \%$ ,GI与CK处理之间的变化幅度差异达到显著水平( $P { < } 0 . 0 5 )$ ；而在 $2 0 0 \phantom { . } 3 0 0 \mathrm { m m o l / L }$ 时,对于两种处理的沙枣叶片变化幅度均不存在显著差异。(2)在 $1 0 0 \phantom { 0 } . 2 0 0 \mathrm { m m o l / L }$ 盐浓度条件下,GI和CK组变化幅度的方向不一致,如GI组的 $\Phi \mathrm { P S } \mathbb { I }$ ） $\mathrm { \Phi ^ { q P } }$ 、ETR、Fv/Fo表现为升高( $1 0 0 \mathrm { m m o l / L }$ 依次升高 $3 9 \%$ ） $3 6 \%$ ） $3 9 \%$ ） $1 6 \%$ $2 0 0 \mathrm { m m o l / L }$ 依次升高 $2 4 \% . 3 1 \%$ ） $2 4 \%$ ） $2 1 \%$ ),CK组则表现为显著降低（ $1 0 0 \mathrm { m m o l / L }$ 依次降低 $2 8 \%$ 、 $10 \%$ ） $28 \%$ 、 $56 \%$ ;200mmol/L依次降低 $5 7 \% . 4 9 \% . 5 7 \% . 4 7 \% )$ ；在 $3 0 0 \mathrm { m m o l / L }$ 盐浓度条件下GI和CK组变化幅度的趋势一致,均表现为显著降低,但GI处理组下降的幅度显著低于CK 处理组。（3)在 $1 0 0 \phantom { 0 } . 2 0 0 \mathrm { m m o l / L }$ 盐浓度条件下GI和CK 组NPQ和 HDR 变化幅度的方向不一致,GI组表现为下降,CK 组则呈显著上升;在 $3 0 0 \mathrm { m m o l / L }$ 盐浓度条件下GI和CK组变化幅度的方向变的一致,均呈显著提高,但是GI组提高的幅度远小于CK组。
+
+![](images/0687085f0e03123f5c758e5f88b6f694d3b67258abfda354dd2fe22bc552a1f8.jpg)  
+图3盐胁迫下GI和CK处理对沙枣苗木叶绿素含量的影响 Fig.3Effects of GI and CK on hormone content in leaves of E.angustifolia under salt stress GI:根内球囊霉Glomus intraradices;CK:对照组Control check
+
+# 2.5不同处理水平下沙枣叶片各指标的双因素方差分析
+
+双因素方差分析结果表明(表4),盐水平和接菌处理均显著影响净光合速率 $P n$ 、蒸腾速率 $T r$ 、气孔导度$G s$ 、胞间二氧化碳 $\boldsymbol { C } i$ ,二者对净光合速率 $P n$ 具有交互作用( $P { < } 0 . 0 5 )$ ,对胞间二氧化碳Ci有显著的交互作用（ $P { < } 0 . 0 1$ ），对蒸腾速率 $\operatorname { T r }$ 、气孔导度Gs 没有交互作用。盐胁迫和接种AMF均显著影响沙枣叶片的叶绿素a、叶绿素b、类胡萝卜素含量和叶绿素含量,二者对叶绿素a存在极显著的交互作用( $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ,对叶绿素含量有显著的交互作用( $_ { | P < 0 . 0 1 \rangle }$ ,对叶绿素b、类胡萝卜素含量没有交互作用。根内球囊霉和盐分均极显著影响沙枣叶片 $\Phi \mathrm { P S } \mathbb { I }$ 、qP、NPQ、ETR、HDR、Fv/Fo,二者存在极显著的交互作用( $P { < } 0 . 0 0 1$ )。接种根内球囊霉和盐分对 $\mathrm { F v / F m }$ 没有影响，二者也没有交互作用。
+
+Table2ThedierenceoftechangeampitudeofdiferenttreatmentsonhormonecontentieavesofEangustifoliandersaltstre   
+
+<html><body><table><tr><td>指标 Parameters</td><td></td><td>盐浓度 Salt concentration 100mmol/L</td><td>盐浓度 Salt concentration 200mmol/L</td><td>盐浓度 Salt concentration 300mmol/L</td></tr><tr><td>叶绿素a/（mg/g鲜重）</td><td>GI</td><td>-0.02</td><td>-0.26</td><td>-0.31</td></tr><tr><td>Chlorophyll a</td><td>CK</td><td>-0.28</td><td>-0.56</td><td>-0.61</td></tr><tr><td></td><td>显著性</td><td>*</td><td>**</td><td>**</td></tr><tr><td rowspan="2">叶绿素b/(mg/g鲜重) Chlorophyll b</td><td>GI</td><td>-0.18</td><td>-0.42</td><td>-0.44</td></tr><tr><td>CK</td><td>-0.32</td><td>-0.63</td><td>-0.64</td></tr><tr><td></td><td>显著性</td><td>*</td><td>**</td><td>**</td></tr><tr><td>叶绿素含量/(mg/g鲜重) Chlorophyll content</td><td>GI</td><td>-0.09 -0.29</td><td>-0.32</td><td>-0.37 -0.62</td></tr><tr><td rowspan="2"></td><td>CK</td><td>**</td><td>-0.58 **</td><td>**</td></tr><tr><td>显著性</td><td>-0.09</td><td>-0.12</td><td>-0.19</td></tr><tr><td rowspan="2">类胡萝卜素/(mg/g鲜重) Carotenoids</td><td>GI CK</td><td>-0.05</td><td>-0.15</td><td>-0.24</td></tr><tr><td>显著性</td><td>NS</td><td>NS</td><td>NS</td></tr><tr><td>叶绿素a/b</td><td>GI</td><td>+0.15</td><td>+0.24</td><td>+0.18</td></tr><tr><td rowspan="2">Chlorophyll a/b</td><td>CK</td><td>+0.05</td><td>+0.18</td><td>+0.07</td></tr><tr><td>显著性</td><td>NS</td><td></td><td>NS</td></tr><tr><td>类胡萝卜素/叶绿素</td><td>GI</td><td>-0.01</td><td>+0.29</td><td>+0.27</td></tr><tr><td rowspan="2">Carotenoids/Chlorophyll</td><td>CK</td><td>+0.34</td><td>+0.99</td><td>+0.97</td></tr><tr><td>显著性</td><td>*</td><td>*</td><td>**</td></tr></table></body></html>
+
+$\ast$ 表示GI与CK处理在不同盐浓度下变化幅度的差异显著 $\scriptstyle P < 0 . 0 5$ ；\* $^ *$ 表示差异极显著 $P { < } 0 . 0 1 { \mathrm { : } } \mathrm { N S }$ 差异不显著;GI;根内球囊霉Glomustraradices;CK：对照组Controlcheck > 200
+
+表2盐胁迫下不同处理对沙枣苗木叶绿素含量变化幅度差异  
+表3盐胁迫下不同处理对沙枣苗木叶绿素荧光参数变化幅度差异  
+Cable3TedireeoftngeaideofifnttreatetsooophllforesceprametersilaofE.gifoe alt stress   
+
+<html><body><table><tr><td>指标 Parameters</td><td>盐浓度 Salt concentration</td><td>盐浓度 Salt concentration 200mmol/L</td><td>盐浓度 Salt concentration 300mmol/L</td></tr><tr><td>Fv/Fm</td><td>100mmol/L +0.06</td><td>-0.03</td><td>-0.04</td></tr><tr><td>GI CK</td><td>-0.05</td><td>-0.07</td><td>-0.13</td></tr><tr><td>显著性</td><td>*</td><td>NS</td><td>NS</td></tr><tr><td>GI</td><td></td><td>+0.24</td><td>-0.68</td></tr><tr><td>CK</td><td>+0.39</td><td></td><td></td></tr><tr><td>显著性</td><td>-0.28</td><td>-0.57</td><td>-0.82</td></tr><tr><td></td><td>**</td><td></td><td>*</td></tr><tr><td>GI</td><td>+0.36</td><td>+0.31</td><td>-0.59</td></tr><tr><td>CK</td><td>-0.10</td><td>-0.49</td><td>-0.79</td></tr><tr><td>显著性</td><td>**</td><td>**</td><td>**</td></tr><tr><td>GI</td><td>-0.29</td><td>-0.23</td><td>+0.67</td></tr><tr><td>CK</td><td>+0.21</td><td>+0.56 **</td><td>+0.90</td></tr><tr><td>显著性 GI</td><td>**</td><td>+0.24</td><td>** -0.68</td></tr><tr><td>CK</td><td>+0.39 -0.28</td><td>-0.57</td><td>-0.82</td></tr><tr><td>显著性</td><td>**</td><td>*</td><td>**</td></tr><tr><td>GI</td><td>-0.41</td><td>-0.21</td><td>+0.70</td></tr><tr><td>CK</td><td>+2.51</td><td>+2.71</td><td>+4.10</td></tr><tr><td>显著性</td><td>**</td><td></td><td>*</td></tr><tr><td>GI</td><td>+0.16</td><td>+0.21</td><td>-0.17</td></tr><tr><td>CK</td><td>-0.56</td><td>-0.47</td><td></td></tr><tr><td>显著性</td><td></td><td>*</td><td>-0.49 **</td></tr></table></body></html>
+
+$\ast$ 表示GI与CK处理在不同盐浓度下变化幅度的差异显著 $P { < } 0 . 0 5$ ；\*\*表示差异极显著 ${ P { < } 0 . 0 1 }$ ；NS差异不显著;GI;根内球囊霉Glomusintraradices;CK;对照组Control check $\mathrm { F v / F m }$ ：最大荧光效率,Maximum fluorescence efficiency $\Phi \mathrm { P S I I }$ ：光系统II效率,Actual photosystem II efficiency;qP：光化学淬灭系数,Ptalcgfnt;Q:非光化学系,oocalngnt观传electrontransferrate；HD速率,HeatdisipationrateFFo反应中心潜在性,LightreactioncenterofSIpotetialctiy
+
+![](images/bb5df28bd3617311620998a269cfd88038e62b0975792437e9bca175df2f9b0c.jpg)  
+图4盐胁迫下GI和CK处理对沙枣苗木叶绿素荧光参数的影响   
+Fig.4Effects of GI and CK on chlorophyll fluorescence parameters in leaves of $E$ 、angustifoliaunder salt stress GI:根内球囊霉Glomus intraradices;CK:对照组Control check
+
+表4不同处理水平下沙枣叶片各指标的双因素方差分析 $( F )$   
+Table 4Two-wayANOVAfor the effectsand interactions of diffrent treatments in leavesof E.angustifolia   
+
+<html><body><table><tr><td>指标</td><td>盐水平 Salt levels</td><td>菌根 Mycorrhizal</td><td>盐水平×菌根 Salt levelsXmycorrhizal</td></tr><tr><td>Parameters 净光合速率 Net photosynthetic rate/（μmol m-² s-1)</td><td>150.750***</td><td>90.402***</td><td>3.569 *</td></tr><tr><td>蒸腾速率 Transpiration rate/(mmol m-² s-1)</td><td>540.368 ***</td><td>209.582***</td><td>1.411NS</td></tr><tr><td>气孔导度 Stomatal conductance/(mol m-² s-1)</td><td></td><td>63.509 ***</td><td>2.445NSs</td></tr><tr><td>胞间二氧化碳 Intercellular COconcentration/（μmol/mol)</td><td>74.224***</td><td>34.513 ***</td><td>5.369 *</td></tr><tr><td>叶绿素a Chlorophylla／（mg/g鲜重)</td><td>150.386***</td><td>452.912 ***</td><td>20.248</td></tr><tr><td>叶绿素b Chlorophyll b/（mg/g 鲜重)</td><td>303.791***</td><td></td><td>0.203NS</td></tr><tr><td>叶绿素含量 Chlorophyll content/（mg/g 鲜重)</td><td>54.511***</td><td>68.788 ***</td><td></td></tr><tr><td>类胡萝卜素 Carotenoids/(mg/g鲜重)</td><td>176.472 ***</td><td>243.265***</td><td>6.753 * 1.569NS</td></tr><tr><td>Fv/Fm</td><td>17.594 ***</td><td>78.655 ***</td><td></td></tr><tr><td>ΦPSII</td><td>2.832NS</td><td>2.283NS</td><td>0.146NS</td></tr><tr><td></td><td>422.383 ***</td><td>30.537 *</td><td>131.359 ***</td></tr><tr><td>qP</td><td>79.618 ***</td><td>4.866</td><td>22.253***</td></tr><tr><td>NPQ</td><td>1011.792 ***</td><td>51.149 *</td><td>60.214 ***</td></tr><tr><td>ETR</td><td>1115.829 ***</td><td>84.496 ***</td><td>303.738 ***</td></tr><tr><td>HDR Fv/Fo</td><td>1249.080 ***</td><td>668.068 **</td><td>247.830*** 548.133 ***</td></tr></table></body></html>
+
+$* P { < } 0 . 0 5 ; * * P { < } 0 . 0 1 ; * * * P { < } 0 . 0 0 1 ; \mathrm { N S }$ 差异不显著;Fv/Fm:最大荧光效率,Maximum fluorescence efficiency; $\Phi \mathrm { P S I I }$ ：光系统Ⅱ效率, Actual photosystem II efficiency; $\mathrm { \Phi ^ { q P } }$ :光化学淬灭系数,Photochemical quenching coeffcient;NPQ:非光化学淬灭系数,Non-photochemical quenching coeficient;ETR;表观电子传递速率,Apparent electron transfer rate;HDR:热耗散速率,Heat disipation rate; $\mathrm { F v / F o }$ ：光反应中心PSII潜在活性,Light reaction center of PS II potential activity （
+
+# 3讨论与结论
+
+# 3.1讨论
+
+3.1.1 菌根化沙枣苗木的光合作用对盐分胁迫的响应
+
+光合作用可以将太阳能转化为化学能，是植物进行生长发育的基础,植物 $90 \%$ 以上的干物质来自于光合作用[22]。植物的光合作用是对外界环境的变化很敏感的生理过程,在盐胁迫下,植物的生长发育受到抑制，同时植物的光合作用也不同程度的受到抑制。研究发现,光合和蒸腾分别是 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { H } _ { 2 } \mathrm { O }$ 通过叶片气孔的内外物质交换的过程,气孔行为对光合与蒸腾都产生直接影响[23]。本研究中随盐胁迫程度的增加,GI和CK 处理的沙枣幼苗叶片气孔导度均明显降低,气孔导度的降低阻碍水分的释放和 $\mathrm { C O } _ { 2 }$ 的进入,使GI和CK处理组的净光合速率、蒸腾速率、胞间二氧化碳都表现为显著降低( $P { < } 0 . 0 5 )$ ,而在同一个盐浓度下（100、200、300mmol/L），接种GI的沙枣幼苗 $P n , T r , G s$ 及 $\boldsymbol { C } i$ 的数值显著高于CK 处理组,这与孙玉芳等[1]研究结果一致。GI和CK处理对沙枣苗木净光合速率与气体交换参数的变化幅度存在显著差异,即GI处理组各参数的下降幅度显著低于CK 组。这说明虽然盐胁迫程度的增加对两种处理光合特性的抑制程度逐渐加深,但接种GI的沙枣叶片受到的盐害远远小于CK处理组。因此接种 AM真菌能够显著提高盐胁迫下沙枣的光合作用，提高沙枣的耐盐能力。
+
+# 3.1.2菌根化沙枣苗木的叶绿素含量对盐分胁迫的响应
+
+叶绿素含量是反映植物光合特性的重要指标之一,其影响植物对光能的吸收、传递和转换。盐胁迫使植物叶绿素酶活性增强,植物体内叶绿素降解[24]。研究表明,在盐胁迫条件下,AM真菌可以提高田菁、杨树等植物的叶绿素含量[25-26]。本研究结果与上述一致,在不同盐浓度下接种GI的沙枣叶片叶绿素a、叶绿素b、总叶绿素、类胡萝卜素均显著高于CK 处理组( $P { < } 0 . 0 5 \mathrm { ) }$ ),并且与不加盐处理相比,两者变化幅度出现显著差异，前者的变化幅度显著低于后者。王利军等[27]研究发现,不同种源沙枣的叶绿素含量随盐胁迫的加剧呈现先升高后降低的趋势,这与CK处理组得到的结果不同,分析原因可能是本研究使用的沙枣试验结束时也才约为5个月龄大小，王利军等试验所使用的沙枣为1年生苗木，而植物幼苗期较为敏感,对盐胁迫的耐受性较低,但是接种AM真菌能够缓解沙枣幼苗所受到的盐害,提高其在盐胁迫下的生长。
+
+# 3.1.3 菌根化沙枣苗木的叶绿素荧光特性对盐分胁迫的响应
+
+叶绿素荧光分析技术是近年来发展起来的用于光合作用机理和光合生理状况诊断的一种新技术。在进行许多逆境实验时发现逆境胁迫的轻重与测定的叶绿素荧光参数被抑制的程度之间呈正相关,因此其可作为植物抗逆的指标[28]。利用叶绿素荧光分析技术来筛选耐盐性植物品种早有报道[29-31],是衡量植物耐盐性的重要指标之一。研究发现AM真菌能缓解盐胁迫对PSⅡ反应中心的毒害作用,提高植物的光化学猝灭系数和非光化学猝灭系数,从而提高植物的光合作用[32-33]。本研究测定结果表明,随着盐胁迫程度的加深,接种GI 的沙枣叶片其Fv/Fm、ΦPSⅡI $. \mathrm { q P }$ 、ETR、Fv/Fo呈先升高后下降的趋势,NPQ、HDR呈先降低后升高的趋势,相对应的CK 处理组Fv/Fm、ΦPS I、qP、ETR、Fv/Fo 呈显著下降的趋势,而 NPQ 是先降低后升高,HDR 是逐渐升高的趋势（图4）,而接种GI的沙枣幼苗各指标参数的变化幅度显著低于CK组( $\scriptstyle \left( P < 0 . 0 5 \right)$ ）。分析原因为：随着盐胁迫的增加,CK处理组沙枣叶片吸收光能用于光化学电子传递的份额开始下降,即qP 显著降低,而叶片用于热耗散的份额开始上升,NPQ、HDR 显著上升以完成对植物光合系统的保护。与CK 处理组不同的是在 $1 0 0 \mathrm { m m o l / L }$ 时这种共生可以在一定程度上缓解盐胁迫对沙枣叶片光合系统的损伤,但是当盐浓度持续增加时,AM真菌与沙枣幼苗共生对沙枣叶片的作用减弱,表现为各荧光参数开始逐渐降低,但是由于AM真菌的作用,其下降的幅度还是显著低于CK组。这说明在本研究中菌根化沙枣苗木通过改变叶绿素荧光各项指标大大提高沙枣本身的耐盐能力。
+
+综上所述,菌根化沙枣苗木对盐分的响应表现为与未接菌处理相比,多数光合生理指标显著提高,变化幅度小,耐盐能力更强。双因素方差分析结果显示,AMF与盐分极显著影响沙枣叶片的净光合速率、叶绿素含量、ΦPS II、qP、ETR 和NPQ,并且二者存在显著的交互作用。光合作用的场所是叶绿体,叶绿素含量直接影响植物进行光合作用的强弱。前人研究认为盐胁迫会降低植物叶绿素和硝酸盐含量，色素蛋白复合体的功能减弱导致叶绿体对光能的吸收降低[34],减少净光合速率和气孔导度,破坏PSII反应中心及光合电子传递的装置等[11]。在盐胁迫下 AM真菌能够提高植物叶绿素含量和叶绿素荧光效率,缓解盐胁迫对植物光合作用的抑制[35],从而提高净光合速率。本研究也证明了此观点,在盐胁迫下菌根化的沙枣幼苗显著提高叶绿素含量,进而促进光合电子传递效率,减缓 PSII反应中心所受损伤,显著提高沙枣叶片净光合速率。另一方面,Porcel等[36]研究表明,AM真菌在非盐胁迫下对 PSⅡ的影响不显著,但在盐胁迫条件下显著保护了水稻叶的PS Ⅱ系统,本研究也进一步证明,AM真菌在盐生境中通过提高植物的光合和叶绿素荧光特性发挥重要的作用,而盐胁迫强度也是AM真菌发挥这一作用的影响因素。
+
+# 3.2结论
+
+采用盆栽试验,模拟接种AM真菌(GI)与未接种AM真菌(CK)在0,100,200、300mmol/L NaCl胁迫下对沙枣幼苗叶片净光合速率 $P n$ 与气体交换参数 $( T r , G s , C i )$ 、色素含量（叶绿素a、b,叶绿素,类胡萝卜素）、叶绿素荧光参数(Fv/Fm,ΦPSII,qP,NPQ,ETR,Fv/Fo,HDR)进行了初步研究。结果表明,AM真菌通过改善植物的光合特性和叶绿素荧光特性能够缓解盐胁迫对植物的伤害,有利于植物在盐胁迫下生长。同时也说明利用盐生植物与AM真菌共生应用于盐碱地的改良具有一定的应用潜力。
+
+# 参考文献（References）：
+
+[1］孙玉芳，宋福强，常伟，范晓旭.盐碱胁迫下AM真菌对沙枣苗木生长和生理的影响.林业科学，2016,52(6)：18-27.  
+[2]PorcelR，ArocaR，Ruiz-LzanoJM.Slitystressaleviationusingarbuscuarmycorzalfungi.Arevie.AgrooyforustaiableDevelopment，2012，32(1）：181-200.  
+[3]Kaporatpfoteaeitssabl/Tuteja N,Gill S S,eds.Plant Aclimation to Environmental Stress.New York：Springer，2O13：359-401.
+
+http://www.ecologica.cn
+
+4 BethkePC，DrewMCStomataladnstomatalomponnts tibitofpotosthesisinleavesfCapsicumuduringprgeiveexposure to NaCl salinity.Plant Physiology，1992,99(1）：219-226.  
+[5]HeY,nY,YuCL,agQ,FJ,WangG,iagD.otosythsisdeldtratsifrentobisplstress.Photosynthetica，2016,54(4）:630-635.  
+[6] MaoPL,ZhangYJ,CaoBH,GuoLM,ShaoHB,CaoZY,JangQK，Wang X.Efectsofsaltstressonco-phsiogcalcharacteristsiRobinia pseudoacacia based on salt-soil rhizosphere.Science of the Total Environment,2016,568：118-123.  
+[7] MunsR.Physiologicalprocesesliitigplantgrowthinalinesoilsoedgmsandhypoteses.Plant，Cell&Enviroent，99，(：15-24.  
+[8] SultanaN,IketofClliyootosisdyateculatioievelogceasviroadExperimental Botany，1999,42(3）：211-220.  
+[9] 李晓林，冯固.丛枝菌根生态生理.北京：华文出版社，2001.  
+[10] 郭秀珍，毕国昌.林木菌根及其应用技术.北京：中国林业出版社，1989.  
+[11] TalaatNB，ShawyB.Protectiveefectsofarbuscularmycoizalfungionheat（TriticumstumL）plantsexposedtolityEnvironmental and Experimental Botany,2014,98：20-31.  
+[12] 岳英男.松嫩盐碱草地主要丛枝菌根真菌对植物耐盐性影响的研究[D]．哈尔滨：东北林业大学，2015.  
+[13] ShengM,TangM,henH,YangBW,ZhangFF,HuangYH.fuenceofrbuscularycoaeonpoosthesisdwatertatusofzeplants under salt stress.Mycorrhiza,2008，18(6/7）：287-296.  
+[14] LinJX,WangYN,SunSN,MuCS,YanXF.Eectsofarbuseularmycozalfungionthegrowth，photosyhesisandpotostheticpigmentsofLesssdidersaltaalirsdneposieeofttalEt，441.  
+[15] 刘洪光.AM真菌提高枸杞耐盐性的机制研究[D].杨凌：西北农林科技大学，2016.  
+[16] 唐剑.NaCl胁迫下丛枝菌根真菌(AMF)对养心菜耐盐性的影响[D].雅安：四川农业大学，2015.  
+[17] 杨升，刘涛，张华新，李焕勇，张丽.盐胁迫下沙枣幼苗的生长表现和生理特性.福建林学院学报，2014，34（1)：64-70.  
+[18] 刘正祥，张华新，杨升，杨秀艳，狄文彬.NaCl胁迫对沙枣幼苗生长和光合特性的影响.林业科学，2014，50(1)：32-40.  
+[19] PhilipsJM，HayanD.Improvedprocduresforlearingtsndstaingparasiticandvsiculararbusulamycoalfungforapidassessment of infection.Transactions of the British Mycological Society，1970,55:158-161.  
+[20] 李合生，孙群，赵世杰.植物生理生化实验原理和技术.北京：高等教育出版社，2000.  
+[21] 王文杰，李文馨，祖元刚，王晓鹏，贺海升．紫茎泽兰茎和叶片色素及叶绿素荧光相关参数对不同温度处理的响应差异.生态学报，2009，29(10)：5424-5433.  
+[22] 张其德，蒋高明，朱新广，王强，卢从明，白克智，匡廷云，魏其克,李振声.12个不同基因型冬小麦的光合能力.植物生态学报,2001,25(5) : 532-536.  
+[23] 上官周平.冬小麦对有限水分高效利用的生理机制.应用生态学报，19，10(5)：567-569.  
+[24] 刘会超，贾文庆.盐胁迫对白三叶幼苗叶片叶绿素含量和细胞膜透性的影响.广东农业科学，2008，（12）：58-60.  
+[25] AllahEFA,HasA,awiAAaaliAH,liEacinggrowthpefoanedtecqiredsistacilplantSesbiasb（）sigsaludsaldiJulofc,,）  
+[26] LiuT,ShengM,WangCY,ChenH,iZ,angM.Impactofarbuscularmycozalfungionthegrowth，waterstatus，ndpotostsisfhybrid poplar under drought stress and recovery. Photosynthetica，2015,53(2）：250-258.  
+[27] 王利军，马履一，王爽，关瑞芳，侯志强.水盐胁迫对沙枣幼苗叶绿素荧光参数和色素含量的影响.西北农业学报，2010，19（12)：122- 127.  
+[28] ShakeyTD,errglatifoshosateosctityisostagpartialpef $0 _ { 2 }$ （204and light in phaseolus vulgaris.Plant Physiology，1986,81(3): 788-791.  
+[29] 薛延丰，刘兆普.利用叶绿素荧光参数筛选抗盐菊芋品种的初步研究.高技术通讯，2008，18（7）：766-770.  
+[30] 黄有总，张国平.叶绿素荧光测定技术在麦类作物耐盐性鉴定中的应用.麦类作物学报，2004，24（3)：114-116.  
+[31] 彭建云.不同抗盐性小麦品种叶绿素荧光特性与其抗盐性关系的研究[D]．济南：山东师范大学，2008.  
+[32] EvelinH,KapGriBbularmyoalfuinvatioofl:evAalsofa).  
+[33] ShengM,TangM,henH,YangBW,ZhangFF,HuangYH.Influencefrbuseularmycoaeontherotssteofmaizeplantsudersaltstress.Canadian Journal of Microbiology，2009,55(7）:879-886.  
+34 刘国花.植物抗盐机理研究进展.安徽农业科学，2006，34（23）：6111-6112.WuN,LiZ,LiuHG,TangM.InfueceofrbuscularyozaonotosythsisandatersatusofopuuscathaanRedralsdfemales under salt stress.Acta Physiologiae Plantarum,2015,37(9)：183,doi:10.1007/s11738-015-1932-6.  
+[36]PorcelR,dodGezS,Mateo-rajE,ArocaR,Grcia,u-Lza.ArbsularyoaloelorateseiquantumyieldofotosIdducootocuegiceantssltalofant,185: 75-83.

@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "Mapping desertification potential using life cycle assessment method: a case study in Lorestan Province, Iran ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abolfazl RANJBAR1\\*，Somayeh HEYDARNEJAD'，Sayed H MOUSAVI²，Roohallah MIRZAEI ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Desert Studies,University of Kashan,Kashan 8731753153,Iran; ²Department of Geography and Ecotourism,University of Kashan,Kashan 8731753153,Iran; 3Department of Environmental Sciences,University of Kashan,Kashan 8731753153, Iran ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In recent year, desertification has become one of the most important environmental hazards all over the world, especially in developing countries such as Iran. Understanding the factors impacting on desertification and identifying the regions with high desertification potential are essential to control this phenomenon (i.e.,desertification).The life cycle assessment (LCA) method is essential in assssing the desertification of ecosystems, especially for susceptible ecosystems with high degradation risks. The aim of the present study was to evaluate the desertification potential of Lorestan Province,Iran,based on the LCA method.We selected aridity,fire and dust as three indicators of desertification and colected data from 2000 to 2015.We divided the study area into 6 types of ecoregions according to the climate types (arid,semi-arid and dry sub-humid) and dominant species (Quercus branti and Astragalus adscendens)，and calculated the characteristic factor (CF)of each indicator (aridity, fire and dust） by combining the indicator layers and ecoregion layer of the study area.In a given ecoregion,the sum of CF values of aridity, dust and fire indicators represents the life cycle inventory (LCI) desertification value (the higher the LCI value,the greater the desertification potential).Then，we obtained the desertification potential map by combining and overlapping the ecoregions and the normalized indicators based on the LCA method. Aridity and fire exhibit significant impacts on desertification in the study area compared with dust. In the study area, semi-arid ecoregion with Quercus branti as the dominant species is the largest ecoregion,while arid ecoregion with Quercus brantii as the dominant species is the smalest ecoregion.Arid ecoregion with Astragalus adscendens as the dominant species (LCI desertification value of 1.99) and dry sub-humid ecoregion with Quercus brantiias the dominant species (LCI desertification value of O.79)show the highest and lowest desertification potentials,respectively. Furthermore,arid ecoregion with Quercus brantii as the dominant species also has a higher LCI desertification value (1.89),showing a high desertification potential. These results suggest the necesity of proper management and appropriate utilization in these ecoregions. In general,assesing desertification potential using the LCA method on a local and regional scale can possibly provide a new methodology for identifying and protecting areas with high degradation risks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:lifecycleassessment; characterization factor;desertification potential; aridity index;firerisk; dustydays; Lorestan Province ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:Abolfazl RANJBAR，Somayeh HEYDARNEJAD,Sayed H MOUSAVI，Roohallah MIRZAEI.2019.Mapping desertificationpotentialusing lifecycleassessmentmethod:acasestudyinLorestanProvince,Ian.JoualofAridLd,1(5): 652-663.https://doi.org/10.1007/s40333-019-0064-z ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the text of the United Nations Convention to Combat Desertification (UNCCD), desertification has been defined as \"land degradation from various factors,including climatic variations and human activities\". Desertification is a consequence of land degradation and occurs when some land components are degraded beyond the specific thresholds,leading to irreversible changes in the environments (Mainguet and Da Silva, 1997). This phenomenon is one of the main environmental problems for sustainability in arid,semi-arid and dry sub-humid areas (Fuchs,2Oo8). Therefore, understanding the factors impacting on desertification and identifying the regions with high potential risks of desertification are of significant importance in controlling this phenomenon (Ait et al.,2018). Indicators of desertification may demonstrate the current status and future potential of desertification. These indicators are regulated by the dimensions of sustainable development: biophysics, economy and society (Nunez et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since desertification is not closely related to the ecosystem itself, the proper ecosystem management is of high necessity for desertification mitigation， especially in high risk and susceptible regions (Akbari et al.,2016). However, it should be noted that identifying sensitive and vulnerable ecosystems is rarely considered in commonly used desertification assessment models. Thus,advanced assessment methods, such as life cycle assessment (LCA) methodology, may be a major tool in desertification assessment studies (Pavan and Ometto,2016; Vidal Legaz et al.,2017; De Rosa, 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LCA is a method to evaluate the environmental impacts associated with a product, a process or a production system (Cowell and Clift, 2000; Nunez et al., 2010). LCA method comprises 4 main phases: goal and scope definition, inventory analysis, impact assessment and interpretation (ISO, 2006). This method was initially developed for environmental assessments of industrial systems. It was later considered as a potent tool that can be applied to evaluate agricultural production systems (Guinee et al.， 2006； Tang et al.， 2018). For example,organic and conventional agricultural production systems have been assessed comparatively by using the LCA method (Clark and Tilman, 2017). Several studies have been conducted for identifying the possible use of the LCA method in assessing the land use quality, soil disturbance, water consumption, wind erosion, soil salinization and multiple indicators affecting land degradation (Bauer et al.,2007; Scholz,2007; Schmidta et al., 2015; Vidal Legaz et al.,2Ol7). Within the last decade, some efforts have been made to integrate the desertification into the LCA method (Emilia and Luiz,20o6; Nunez et al.,2010). In this regard, LCA is considered as an important environmental assessment tool that can be used to measure the vulnerability of the ecosystem to desertification (Shiravi et al., 2016). Therefore,LCA,as an important environmental assessment tool, plays a key role in assessing the desertification of ecosystems by establishing a suitable framework using effective indicators (Koellner et al., 2013). To our knowledge， however， few studies have been conducted on assessing the desertification potential with the LCA method. Nunez et al. (2O10) were the first who evaluated the life cycle of desertification phenomenon as an environmental effect at the world scale. Specifically， they evaluated the desertification phenomenon by scaling the variables such as aridity, fire, erosion and groundwater. Klopffer and Curran (2O14) confirmed the lack of considering the desertification issue in the LCA studies by focusing on challenges and gaps in this method. They also mentioned that the Nunez method in the study of Nunez et al. (2OlO) should be considered at a local scale to incorporate the desertification phenomenon into the LCA method. Furthermore,at the local scale, Shiravi et al. (2016) and Shiravi and Sepehr (20l7) evaluated the sensitivity of ecoregions in Khorasan Razavi Province (Iran) using the LCA method based on 6 main indices, including aridity coefficient, land use, wind erosion,soil erosion, soil salinity and vegetation.Their results indicated that about $4 3 . 5 \\%$ of the region is susceptible to soil erodibility, and cold hyper-arid and cold arid desert ecoregions show a high range of sustainability to desertification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent years, desertification phenomenon in Lorestan Province of Iran has been increasingly serious due to frequent occurrences of drought (Haavik et al.,2015; Attarod et al.,2017; Hosseini et al.,2017),deforestation,unsustainable land management (Soheili and Naji, 2Ol7), fire events (Mirzaei, 2016) and dust storms. Severe dust storms frequently occur in Lorestan Province of Iran due to vast desert areas in neighboring countries such as Iraq and Syria (Moradi et al.,2O17). The changed environments caused by dust storms have a profound influence on the physiological, biochemical and morphological characteristics of plants and therefore their responses (Prabhat and Lalita，2014). Furthermore， fire also directly affects the physiological，biochemical and morphological characteristics of plants in natural ecosystems and indirectly causes soil changes by modifying floral communities (Aref et al., 2011; Heydari et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Considering the importance of the issues and problems caused by desertification, the aim of the present study was to evaluate the desertification potential in Lorestan Province based on the LCA method using aridity,fire and dust as three indicators of desertification.The highlight of the present study is that this is the first time to use the dust indicator as one of the effective factors in desertification assessment through the LCA method in Iran. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lorestan Province( $3 7 ^ { \\circ } 3 4 \\mathrm { N }$ ， $4 6 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { E }$ ; Fig. 1) with an area of approximately $2 8 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ is located in the western part of Iran. The area is characterized by a semi-arid climate, with the maximum and minimum temperatures of $4 7 . 4 ^ { \\circ } \\mathrm { C }$ and $- 3 5 . 0 ^ { \\circ } \\mathrm { C } _ { \\cdot }$ ,respectively. Mean annual precipitation is 550-600 mm, with most of the annual precipitation falling in winter season from October to March. In the northern regions of Lorestan Province, snowfall is the dominant type of precipitation, but in the southern regions,rainfall is the dominant. The mean elevation in the province is more than $2 2 0 0 \\mathrm { m }$ a.s.l.,with the lowest and highest elevations of $2 3 9 \\mathrm { \\ m \\ a . s . l . }$ in Puldokhtar City and $4 0 8 0 \\mathrm { m }$ a.s.l. in Oshtorankuh Mountain, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The vegetation in Lorestan Province is mainly composed of forest trees and rangeland grasses, with forestlands and rangelands covering areas of 75O and $1 2 5 0 ~ \\mathrm { k m } ^ { 2 }$ ，respectively. The dominant species in the forestlands are Quercus brantii (oak), Fraxinus excelsior (ash) and Juniperus communis (common juniper)，while the dominant species in the rangelands are Astragalus adscendens (yellow vetch) and Artemisia herba-alba (white wormwood). Agriculture and husbandry are the two income sources in the province (Pahlavani et al.,2Ol7). Agricultural lands are mostly located in the southern, southwestern and western parts of the province. In these areas, due to insufficient precipitation, agricultural activities rely mainly on groundwater. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fb63ecd8a2aa6898d4d0d4a00e7e92b12f8f3906dbddfef14f3e893af196843.jpg",
+        "img_caption": [
+            "Fig.1Location of Lorestan Province in Iran (a) and an overview of the province (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first step ofthe LCA method is determining the goal and scope.In this step,the aims of the study, the types of required indicators,the colection methods of data and the boundary of systems are identified.In terms of the aims in the first step,Lorestan Province was selected as the study area in the present study. Then, the required indicators were selected and introduced.Aridity,fire and dust were selected as the main effective indicators of desertification.Thereafter,the data related to each indicator were gathered and quantified. Figure 2 depicts the flowchart of the LCA method in the current study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1e83188447361d9028af08ba648adbba4756fb8c76ca743f2c812359e4d5743.jpg",
+        "img_caption": [
+            "Fig.2Diagram of the life cycle assessment (LCA) method used in this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Aridity index assessment and ecoregion mapping ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ecoregion is defined as a large area of the Earth's surface with similar ecosystem features (Bailey,2014). The ecological changes always result in variations in the hydrological cycle, erosion and biological cycle. It should be noted that climate is one of the most important factors in the determination of ecological boundary (Bailey，1996). This means that different ecological communities will form under different climate conditions. Based on the definition of the UN (1994), arid region with life cycle inventory (LCI) value of 3 is very susceptible to desertification risk (Table 1). In the present study，we calculated the aridity index based on Transeau coefficient (Transeau,19o5) by Equation 1.The detailed classification of aridity index is shown in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = { \\mathrm { P } } / { \\mathrm { P E T } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $I$ is the aridity index; $\\mathrm { \\bf P }$ is the average annual precipitation (mm); and PET is the average annual potential evapotranspiration (mm)，which is calculated by the Thornthwaite equation (Thornthwaite, 1948). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/62babf6de08b34fd0303460dd6784419436f3cdf42d5cfcb208c140d6df987f1.jpg",
+        "table_caption": [
+            "Table1 Classification of aridity index (Nunez et al.,2010) "
+        ],
+        "table_footnote": [
+            "Note:LCI,lifeleetoryichiimesiolesspramteregerte,teatetertatioottal "
+        ],
+        "table_body": "<html><body><table><tr><td>Estimation value range of aridity index</td><td>Climate classification</td><td>LCI desertification value</td></tr><tr><td>0.05-0.20</td><td>Arid</td><td>3</td></tr><tr><td>0.20-0.50</td><td>Semi-arid</td><td>2</td></tr><tr><td>0.50-0.65</td><td>Dry sub-humid</td><td>1</td></tr><tr><td>0.65-0.75</td><td>Humid</td><td>0</td></tr><tr><td>>0.75</td><td>Very humid</td><td>0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then, the values of aridity index were interpolated using ArcGIS 10.3 software and Inverse Distance Weighting (IDW) method (with the power of 2), which resulted in a raster layer of aridity. The IDW method with mean aridity index of O.0l2 and RMSE of O.1 showed that it is a better Zoning approach. The dominant vegetation map of the study area in 2O16 was prepared using the vegetation map obtained from the Department of Natural Resources and Watershed of Lorestan Province. Finally, the ecoregion map of the study area was produced by combining the digital layers of aridity and the dominant vegetation map. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Fire indicator ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fire is one of the most dangerous factors in the destruction of natural ecosystems (Rafiei et al., 2015),which can further cause desertification (Cochrane,2Oo3).In recent years,the frequent occurrence of fires has led to the destruction of natural ecosystems in Lorestan Province. According to the report of the Department of Natural Resources and Watershed of Lorestan Province, about 890 natural fire events occurred in an area of more than $1 5 . 0 { \\times } 1 0 ^ { 3 } ~ \\mathrm { h m } ^ { 2 }$ from 2005 to 2015.To precisely understand the fire as an indicator of desertification, we obtained the total fire area of each ecoregion according to the fire area of each county in Lorestan Province (Table 2). The fire area of each county was collected from the Department of Natural Resources and Watershed of the Province.Then, we calculated the ratio of fire area to the total area for each county. In the next step, we prepared a digital layer of fire risk using a vector to raster data conversion function based on the ratio of fire area to the total area in ArcGIS 10.3 software.Afterward, the digital layer of fire risk for each county was normalized using Equation 2. Then, the value of this variable (fire risk) was combined with ecoregion map using the algebraic summation function of vector layers. The prepared layer indicates the map of fire risk in each ecoregion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { * } { = } \\big ( X - X _ { \\operatorname* { m i n } } \\big ) / \\big ( X _ { \\operatorname* { m a x } } - X _ { \\operatorname* { m i n } } \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $X ^ { * }$ is the normalized fire risk value; $X$ is the layer of fire risk; and $X _ { \\mathrm { m a x } }$ and $X _ { \\operatorname* { m i n } }$ are the maximum and minimum values in the layer, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/18a0b5183e86226b8023aad065606fb126253ada56072e4611678924e161eb51.jpg",
+        "table_caption": [
+            "Table 2 Fire area in Lorestan Province during the period 2Oo5-2015 "
+        ],
+        "table_footnote": [
+            "Note:Allthe data were obtained fromthe DepartmentofNatural Resources and WatershedofLorestan Province,Iran. "
+        ],
+        "table_body": "<html><body><table><tr><td>County name</td><td>County area (×10³ hm²)</td><td>Fire area (hm²)</td></tr><tr><td>Selseleh</td><td>157.3</td><td>429.3</td></tr><tr><td>Aligudarz</td><td>530.1</td><td>384.1</td></tr><tr><td>Azna</td><td>140.4</td><td>860.5</td></tr><tr><td>Boroujerd</td><td>167.6</td><td>567.0</td></tr><tr><td>Dorood</td><td>138.8</td><td>2807.0</td></tr><tr><td>khoramabad</td><td>631.6</td><td>990.0</td></tr><tr><td>Koohdasht</td><td>403.0</td><td>4030.0</td></tr><tr><td>Delfan</td><td>273.8</td><td>3661.0</td></tr><tr><td>Poldokhtar</td><td>386.3</td><td>340.0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Dust indicator ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Given the negative effect of dust phenomenon on ecosystems and the important role of dust in the intensification of environmental degradation process,we considered dust as one of the main indicators of desertification (Xu,2O06).In order to evaluate the effect of dust on the desertification of the study area,we obtained the daily data of this indicator for the study period 20oo-2105 from the Meteorological Organization of Iran. In the current study,a day that the horizontal vision is less than $1 0 \\mathrm { k m }$ in synoptic stations was defined as the dusty day (Khosh-Kish et al.,2O1O).In order to calculate the dusty days, we firstly identified the days with horizontal vision of less than $1 0 \\mathrm { k m }$ for each synoptic station. Then， we calculated the frequency of dusty days per year for the period 2000-2105 (Table 3). Next, we interpolated these values using the IDW method (with the power of 2) by ArcGIS 10.3 software.For this indicator, the IDW method with mean error of 12.33 and RMSE of 88.15 showed that it is a suitable zoning approach. Finaly, we normalized the values of this indicator to divide the ecoregions and calculate the dust-induced desertification risk. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 Assessment of desertification potential based on the LCA method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the life cycle impact assessment step, the classification and identification of LCI-based environmental effect were performed by considering the goal and scope of this study. For the assessment of desertification potential based on the life cycle, it is necessary to calculate the characteristic factor (CF) for each of the three indicators (aridity, fire and dust). It should be noted that the CF can represent the effect of selected indicator on desertification potential. In order to calculate the CF value, we combined the ecoregion map and the provided layers of each indicator using ArcGIS 10.3 software. The detailed calculation process of CF can be found in Nunez et al. (2010). In the life cycle impact assessment step,each of the selected indicators was quantified and the LCI desertification of each ecoregion can be calculated by Equation 3 (Nunez et al.,2010). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9b9e3ffdd22634021d62aaf3fd38b21c7468b6b73cdfe100e88644dae906803.jpg",
+        "table_caption": [
+            "Table3Frequency of dusty days in synoptic stations in Lorestan Province during the period 2000-2015 "
+        ],
+        "table_footnote": [
+            "Note:All the data were obtained from the Meteorological Organization of Iran. "
+        ],
+        "table_body": "<html><body><table><tr><td>Synoptic station</td><td>Latitude</td><td>Longitude</td><td>Frequency of dusty days (d/a)</td></tr><tr><td>Selseleh</td><td>33.8N</td><td>48.3E</td><td>254</td></tr><tr><td>Aligudarz</td><td>33.4N</td><td>49.7E</td><td>130</td></tr><tr><td>Azna</td><td>33.5N</td><td>49.4E</td><td>258</td></tr><tr><td>Boroujerd</td><td>33.9N</td><td>48.7E</td><td>90</td></tr><tr><td>Dorood</td><td>33.5N</td><td>49.0E</td><td>95</td></tr><tr><td>khoramabad</td><td>33.4N</td><td>48.3E</td><td>59</td></tr><tr><td>Koohdasht</td><td>33.5N</td><td>47.7E</td><td>147</td></tr><tr><td>Delfan</td><td>34.0N</td><td>48.0E</td><td>191</td></tr><tr><td>Poldokhtar</td><td>33.2N</td><td>47.7°E</td><td>68</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LCI desertification value $\\scriptstyle : = \\mathrm { C F }$ value of aridity $+ \\mathrm { C F }$ value of fire+CF value of dust, (3) where LCI desertification is the desertification risk for the life cycle impact step.The higher the LCI value, the greater the desertification potential. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Summing the desertification risk values of the mentioned indicators through the UN-based definition (UN,1994) of desertification potential reveals that the higher the value of desertification risk, the greater the desertification potential. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The spatial distribution of climate types in Lorestan Province is presented in Figure 3a. By calculating the aridity index, we divided this area into three climate-dominated regions including arid (area of $2 . 4 3 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ and area percentage of $8 . 6 2 \\%$ ， semi-arid (area of $1 1 . 6 5 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ and area percentage of $4 0 . 9 9 \\%$ ） and dry sub-humid (area of $1 4 . 2 1 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ and area percentage of $5 0 . 3 9 \\%$ regions. Considering the UNCCD definition and the results of aridity index, we concluded that allparts of the study area were susceptible to decertification risk.Figure 3b shows the spatial distribution of dominant species in the study area. In terms of vegetation cover, we identified two dominant species: Quercus brantii and Astragalus adscendens, with the covering areas of $1 1 . 1 9 \\times 1 0 ^ { 3 }$ and $5 . 6 1 \\times 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ ,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/52aa5b633071b0eccce7f423649e3bb1d6f38f2bb2ec20bea1f001187ef809ab.jpg",
+        "img_caption": [
+            "Fig.3Spatial distributions of climate types (a) and dominant species (b) in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We further divided the study area into 6 types of ecoregions based on aridity index and dominant species using the Bailey method (Bailey, 1996). The results are shown in Figure 4. Semi-arid ecoregion with Quercus brantii as the dominant species had an area of $6 . 4 9 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ ，which was the largest ecoregion in the study area. In contrast, arid ecoregion with Quercus brantii as the dominant species was the smallest in the study area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b539f7d8d3f0509a7a9ee205ee161854b9e6fbbc87202db185c19f1a5fb12a6a.jpg",
+        "img_caption": [
+            "Fig.4Ecoregion map based on aridity index and dominant species in Lorestan Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The zoning maps of the study area in terms of aridity, fire and dust indicators are depicted in Figure 5. The highest aridity index range was 0.52-O.62 and the lowest aridity index range was 0.06-O.22 (Fig. 5a). The areas with these two aridity index ranges were $1 2 . 0 0 \\times 1 0 ^ { 3 }$ and $3 . 2 4 \\times 1 0 ^ { 3 }$ $\\mathrm { k m } ^ { 2 }$ ,respectively(Table 4),belonging to the arid and dry sub-humid climate classes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d4c89c9026fbba4e5d62fdc41b9451cc54507259b402dab3abcdbe277c93a8.jpg",
+        "img_caption": [
+            "Fig.5Zoning map of the study area in terms of aridity,fire and dust indicators.(a), mean aridity value during the period 2000-2015;(b),mean fire risk value during the period 2000-2015;(c),total dusty days during the period 2000-2015. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In terms of fire indicator, the western and southwestern parts of the study area had higher fire risk values than the southeastern and northern parts (Fig. 5b). Fire risk extent of O.400-0.690 covered a total area of $1 1 . 7 5 \\times 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ (the largest in the study area), accounting for $4 1 . 5 2 \\%$ of the study area (Table 4). However, the smallest area (area of $3 . 2 5 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ and area percentage of $1 1 . 4 8 \\%$ ） corresponded to the fire risk extent of $0 . 0 7 2 \\substack { - 0 . 2 7 0 }$ . The total dusty days of 704-795 d during the study period 20oO-2015 were observed in an area of $8 . 4 9 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ (the largest in the study area), accounting for $2 9 . 9 9 \\%$ of the study area (Table 4). Moreover, the total dusty days of 930-1160 d during the study period 2000-20i5 were observed in an area of $8 . 4 9 \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ (the largest in the study area), accounting for $5 . 7 0 \\%$ of the study area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6c40658a737fc4ccd20490f4208f92e8a3b3a62f3e66e2ccbb8b9bc6ecac261.jpg",
+        "table_caption": [
+            "Table 4Estimates of value range,area and area percentage for aridity, fire and dust indicators "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Aridity</td><td colspan=\"3\">Fire</td><td colspan=\"3\">Dust</td></tr><tr><td>Aridity</td><td>(x10rkm2)</td><td>Area percentage</td><td>Fire risk</td><td>(x10rkm2)</td><td>Area perentage</td><td>Dusty days</td><td>（x10rkm2)</td><td>Area percentage</td></tr><tr><td>0.06-0.22</td><td>3.24</td><td>11.46</td><td>0.000-0.072</td><td>5.30</td><td>18.75</td><td>481-616</td><td>4.80</td><td>17.30</td></tr><tr><td>0.22-0.33</td><td>3.43</td><td>12.12</td><td>0.072-0.270</td><td>3.25</td><td>11.48</td><td>616-704</td><td>7.89</td><td>27.87</td></tr><tr><td>0.33-0.44</td><td>3.62</td><td>12.79</td><td>0.270-0.400</td><td>4.13</td><td>14.59</td><td>704-795</td><td>8.49</td><td>29.99</td></tr><tr><td>0.44-0.52</td><td>6.01</td><td>21.24</td><td>0.400-0.690</td><td>11.75</td><td>41.52</td><td>795-930</td><td>5.42</td><td>19.14</td></tr><tr><td>0.52-0.62</td><td>11.99</td><td>42.37</td><td>0.690-1.040</td><td>3.86</td><td>13.65</td><td>930-1160</td><td>1.61</td><td>5.70</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the spatial distributions of CF values of the three indicators and the LCI desertification value and Table 5 exhibits the CF values of these indicators and the LCI desertification value for the 6 types of ecoregions of Lorestan Province. The results indicated that arid ecoregion with Astragalus adscendens as the dominant species had the largest LCI desertification value (1.99),and the CF values for aridity index,fire risk and dusty days in this ecoregion were O.85, 0.89 and 0.25,respectively (Table 5). In terms of aridity and fire indicators, this type of ecoregion showed a higher desertification potential than other types of ecoregions. Arid ecoregion with Quercus brantiias the dominant species also had a higher LCI desertification value (1.89),and the CF values for aridity, fire and dust indicators were O.81, O.84 and O.24,respectively. Moreover, the lowest LCI desertification value (0.79) was related to dry sub-humid ecoregion with Quercus brantii as the dominant species.This ecoregion had the lowest CF value (0.19) for fire indicator. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generally，one of the main advantages of the LCA method in investigating the environmental impacts is its flexibility in choosing the type and number of indicators.The study area has experienced severe environmental damages, due to its vicinity to the source of dust. Although the source of dust is mainly from neighboring countries, such as Iraq and Syria, the present study considered dust as one of the major desertification indicators in Lorestan Province. In this regard, three factors including aridity,dust and fire were selected as the indicators of desertification in our research. In a similar study,Nunez et al. (2O10) investigated four indicators of desertification: aridity, fire,erosion and groundwater. In another work, Shiravi et al. (2O16) applied six indices at a local scale: aridity,land use, wind erosion, soil erosion, salinity and vegetation.In Lorestan Province, the annual frequency of dusty days increased from 83 to $9 5 \\mathrm { ~ d ~ }$ during the period 2012-2015.Regarding the adverse impacts of dust storms on environments, including vegetation destruction and even land degradation, dust is regarded as an important indicator in desertification assessment in the current study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the present study, the combination of the aridity index and dominant species was used to obtain the ecoregion map of the study area.Moreover, in order to generalize the method of Nunez et al. (2O1O) in Lorestan Province,we recommend that land use type should be considered in obtaining the ecoregion map.In addition to the advantages of the LCA method, there are also some disadvantages of this approach, such as the lack of a single method for assessing the life cycle. Researchers and managers have chosen different methods with various criteria and purposes to assess the life cycle (Nunez et al.，2010; Shiravi et al.，2016; Attarod et al.，2017). For these methods, weighting requires the selection of numerical values and there is no scientific basis for selecting these values. Obtaining the required information is the most difficult stage of LCA. Therefore, the availability of required information, time and financial resources is most important in making an appropriate assessment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c7041595be8f90c187a125ea3101ac33d1e072f9f37019858ddfd48ac4ed410.jpg",
+        "img_caption": [
+            "Fig.6Spatial distributions of characteristic factor(CF)values for aridity(a),fire(b)and dust (c)indicators and the LCI (life cycle inventory）desertification value (d) for the6 types of ecoregions in Lorestan Province.LCI desertificationvalue ${ \\mathrm { : = } } \\mathrm { C F }$ value of aridity $+ \\mathrm { C F }$ valueoffire $\\mathrm { \\Omega ^ { \\prime + C F } }$ value of dust.LCI desertification is the desertification risk for the lifecycle impact step.The higher the LCI value,the greater the desertification potential. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d51c890b27b1c7b04e77f1757f7241b8a52054caba6b635277f42082d9ad386.jpg",
+        "table_caption": [
+            "Table 5Characteristic factor (CF)values for the three indicators and the LCI desertification value for the 6 types of ecoregions of Lorestan Province "
+        ],
+        "table_footnote": [
+            "Note:Ecoregionrysubidoregionithstragalusdsendensstednantspeies;Ecoregiondrysubuideogi withQuercusbrantiiasthdominantspecies;Ecoregion3,sem-aridecoregionwithAstragalusdscendensasthedminantspecies; Ecoregion4,seardcoregionithuercusratistedonantspecies;Ecoregion5,aridecoregioitAstrgausdcedes the dominant species; Ecoregion 6,arid ecoregion with Quercus brantii as the dominant species. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Ecoregion</td><td colspan=\"3\"></td><td rowspan=\"2\">LCI desertifiation</td></tr><tr><td>Aridity</td><td>CFire</td><td>Dust</td></tr><tr><td>Ecoregion 1</td><td>0.11</td><td>0.24</td><td>0.51</td><td>0.86</td></tr><tr><td>Ecoregion 2</td><td>0.13</td><td>0.19</td><td>0.47</td><td>0.79</td></tr><tr><td>Ecoregion 3</td><td>0.35</td><td>0.49</td><td>0.44</td><td>1.28</td></tr><tr><td>Ecoregion 4</td><td>0.46</td><td>0.67</td><td>0.31</td><td>1.44</td></tr><tr><td>Ecoregion 5</td><td>0.85</td><td>0.89</td><td>0.25</td><td>1.99</td></tr><tr><td>Ecoregion 6</td><td>0.81</td><td>0.84</td><td>0.24</td><td>1.89</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the study area, arid ecoregion with Astragalus adscendens as the dominant species and arid ecoregion with Quercus brantii as the dominant species showed the high desertification potential. These two ecoregions were mainly distributed in the southern and southwestern parts of the province, namely Poldokhtar and Koohdasht counties. The tendency of maximum desertification potential in these regions can be attributed to the extreme aridity, soil degradation (including low soil organic matter and soil permeability; Bayat et al., 2O11), increase of surface runoff, natural hazards (such as dust storms） and human activities (such as deforestation， overgrazing and intensive use of agricultural lands). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In arid ecoregion with Astragalus adscendens as the dominant species and arid ecoregion with Quercus branti as the dominant species, although the dominant plant communities were different, both the two ecoregions were highly sensitive to desertification. Drought has a profound effect on vegetation type and coverage density. It has been observed that the impact of aridity on desertification is higher than the influence of vegetation cover. Our results are in agreement with the findings of Shiravi et al. (2Ol6), who indicated the highest effect of aridity in determining the vulnerability of ecosystems in Khorasan Razavi Province,Iran. Therefore, to control the risk of desertification in the study area, we recommend that protective measures should be taken to reduce the effect of aridity and consequently, to increase vegetation cover. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the eastern part of the study area,the total dusty days of 93O-116O d during the study period 2000-2015 were observed in dry sub-humid ecoregion with Astragalus adscendens as the dominant species and semi-arid ecoregion with Astragalus adscendens as the dominant species, represented by high CF values of 0.51 and 0.44,respectively. In these ecoregions, however, LCI desertification values were relatively low (0.86 and 1.28,respectively). Therefore, there is an inverse relationship between LCI desertification value and CF value of dust indicator. Increase in LCI desertification value and decrease in CF value of dust indicator were observed in ecoregions with Quercus branti as the dominant species. Thus, ecoregions with Astragalus adscendens as the dominant species generally exhibited lower sensitivity to desertification than ecoregions with Quercus branti as the dominant species. Since dust phenomena in the study area have external origin, the dust particles are just suspended in atmosphere.This condition (dust particle suspension) may reduce sun light intensity and plant evapotranspiration rate when the amount of precipitation is low.The impacts of dust particle suspension can be related to the type of plant community and the time discrepancy of dust events with the growth period of Astragalus adscendens community. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In terms of fire indicator, the highest tendency of desertification took place in the southern, southwestern and western parts (arid ecoregion with Astragalus adscendens as the dominant species and arid ecoregion with Quercus brantii as the dominant species) of the study area. Repeated fires induced vegetation degradation and land use change, which have increased the sensitivity of these ecoregions to desertification. The reason for this can be attributed to extreme drought and vegetation types that have a high sensitivity to fire. In addition, human factors cannot be ignored in analyzing the occurrence of fire. The issue therefore shows the necessity of proper management in these ecoregions,otherwise an irreversible crisis might occur. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Generally, it can be stated that aridity and fire have significant impacts on desertification in Lorestan Province,and consequently, they are prioritized to control the desertification risk and protect ecosystems in the study area. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the current study,an LCA method was used to assess the desertification potential in Lorestan Province.Three indicators, including aridity, fire and dust, were selected for the LCA method. We calculated the LCI desertification value for each type of ecoregion based on the CF values of aridity, fire and dust indicators. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The CF values of aridity index showed that arid ecoregion with Astragalus adscendens as the dominant species and arid ecoregion with Quercus branti as the dominant species had higher desertification potential than other ecoregions. In terms of fire indicator, the higher desertification potential also occurred in these two ecoregions.However, in view of dust indicator, there was an inverse relationship between LCI desertification value and CF value of dust. Generally,aridity and fire exhibit high impact on desertification in the study area. In future researches, except for aridity, fire and dust indicators, we recommend the addition of social and economic factors to evaluate the effects of desertification on life cycle studies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ait LA,Saber H,Pradhan B.2018.Quantitative assessment of desertification in an aridoasis usingremote sensing data and spectral index techniques.Remote Sensing,10(2):1862,https://doi.org/10.3390/rs10121862.   \nAkbari M,Ownegh M,Asgari HR,etal.2016.Desertificationrisk assessment andmanagement program.Global Jouralof Environmental Science and Management,2(4): 365-380.   \nArefIM,Atta HA,GhamadeAR.2O1Eectofforestfiresontree diversityandsomesoil properties.InterationalJouralof Agricultura and Biology,13(5): 659-664.   \nAttarodP,Sadeghi SMM,PypkerTG,etal.2017.Oak trees decline;asignofclimate variabilityimpacts inthe westofIran. Caspian Journal of Environmental Sciences,15(4): 373-384.   \nBailey R G.1996.Ecosystem Geography. New York: Springer Verlag Pres,1-251.   \nBailey R G. 2014.Ecoregions. New York: Springer Verlag Press,1-180.   \nBauerC,Dubreuil A,GaillardGJ.2Oo.Keyelements inaframework forlanduseimpactasssment inLCA.The Interational Journal of Life Cycle Assessment,12(1):2,https://doi.org/10.1065/lca2006.12.296.   \nBayat R,Jafari-ArdakaniA,Shah-Karami AA,20l1.Study status erosion inLorestanProvinceusing RSandGIS.Scientific Quarterly Journal of Natural Ecosystems,2: 44-37. (in Persian)   \nClarkM,Tilman D.2O17.Comparativeanalysisofenvironmental impactsofagricultural productionsystems,agriculturalinput efficiencyandfoodchoice,Environmental.ResearchLettrs,12:064016,https://doorg/10.088/1748-9326/aa6cd5.   \nCochrane MA.2003.Fire science for rainforests.Nature,421: 913-919.   \nCowellSJ,CliftR.2ooo.Amethodologyforaessingsoilquantityandqualityinlifecycleassessment.JoualofCleaner Production, 8(4): 321-331.   \nDe Rosa M.2O18.Land use and Land-use changes in life cycle asessment: green modeling or black boxing?Ecological Economics,144: 73-81.   \nFuchs C.2Oo8.UNconvention tocombat desertification:recentdevelopments.Max Planck YearbookofUnited NationsLaw,12: 287-300.   \nGuinee J,vanOersL,de KoningA,etal.2Oo6.LifeCycleApproachesforConservationAgriculture.Leiden:LeidenUniversity Press,1-156.   \nHaavikLJ,BilingsSA,GuldinJM,etal.2O15.Emergent isets,pathogensanddroughtshapechangingpaterns ioak decline in North America and Europe.Forest Ecology and Management, 354: 190-205.   \nHeydari M,RostamyA,NajafiF,etal.2Ol7.EfectoffireseverityonphysicalandbiochemicalsoilpropertiesinZagrosak (Quercus brantii Lindl.) forests in Iran.Journal of Forest Research,28(1): 95-104.   \nHosseini A,HosseiniSM,LinaresJC.20l7.Sitefactorsand standconditionsasociated withPersianoak decline inZagros mountain forests.Forest Systems,26(3):2-14.   \nInternational Organization forStandardization (ISO).2006.1404 internationalstandard:Environmentalmanagement—Lifecycle assessment—Requirements and guidelines.Geneva: ISO.   \nKhosh-Kish A,Alijani B,Hejazizadeh Z.2010.Analysisof dust synopticsystems in Lorestan Province.Journal of Applied Research of Geographic Sciences,18(2): 91-110. (in Persian)   \nKlopferW,Curran MA.2014.LCA Compendium-The Complete WorldofLife Cycle Assessment,Background and Future Prospects in Life Cycle Assessment.Dordrecht: Springer Verlag Press,271.   \nKoelnerT,BaanLD,Beck T,etal.20l3.UNEP-SETACguidelineonglobal landuse impactassessmentonbiodiversityand ecosystem services in LCA. International Journal of Life Cycle Assessment,18(6): 1188-1202.   \nMainguet M,Da SilvaGG.1997.Desertificationanddrylands development: whatcanbedone?JourmalofLandDegradationand Development, 9: 375-382.   \nMirzaeiJ.2O16.Impactsof two spatiallyand temporallyisolatedanthropogenic fireeventsonsoilsofoak-dominated Zagros forests of Iran.Turkish Journal of Agriculture and Forestry,40: 109-119.   \nMoradi A,Taheri AK,AfsharMM,etal.2O17.Effectsof duston forest tree health in Zagrosoak forests.Environmental Monitoringand Assessment,189(11):549,htps://xs.scihub.ltd/https://doi.org/10.1007/s10661-017-6262-2.   \nNunezM,CivitB,MunozPetal0l.Assessngpotetialdsertificatioenvironmentalimpactinlifecycleassesste International Journal of Life Cycle Assessment,15(1): 67-78.   \nPahlavani R,Mohammad GM,GhaderDG.2017.Dynamiccomparative advantageanalysisofrural and pastoral systemsof small ruminant husbandry.The International Journal of Advanced and Applied Sciences,4(11): 81-87.   \nPavan ALR,OmetoAR.20l6.Regionalizationoflanduseimpact models forlifecycle asssment: Recommendations fortheir use on the global scale and their applicability to Brazil.Environmental Impact Assessment Review,60:148-155.   \nPrabhatKR,LalitaLSP.2014.Leafdustdepositionanditsimpactonbiochemical aspectofsomeroadside plantsof Aizawl, Mizoram,North-East India.International Research Journal of Environment Sciences,3(11):14-19.   \nRafieiF,JangjouM,EjtehadiH.O15.Ivestigationofresistant,compatibleandusceptibleplanttraitstoperiodicfiresina semi-arid rangeland.Iranian Journal of Rangeland and Desert Research,22(1):73-85.(in Persian)   \nSchmidtaJH,WeidemaBP,BrandaoM,2015.Aframeworkformodeling indirectlandusechanges inLifeCycleAssnt. Journal of Cleaner Production, 99:230-238.   \nScholzRW.2Oo7.Assssmentof landuseimpactsonthe natural environment.Part1:ananalytical framework forpure land occupation and land use change.International Journal of Life Cycle Assessment,l2(1):16-23.   \nShiraviM,SepehrA,Mosaedi A.20l6.Sensitivityofecoregions inKhorasan-Razavi todesertification basedonlifecycle assessment.Natural Geography Research, 48(20):305-320.(in Persian)   \nShiraviM,SepehrA.2Ol7.Fuzzybaseddetectionofdesertification-proneareas:acasestudyinKhorasan-RazaviProvince,Iran. Natural Resources and Conservation,5(1):1-12.   \nSoheiliF,NajiHR.2Ol7.SlowdeathofoaktreesinZagros:reasons,damage,andsolutions.JoualForestStrategy,2(5):37-49. (in Persian)   \nTang LL,Hayashi K,Kohyama K,et al.2018.Reconciling lifecycle environmental impactswith ecosystem services:a managementperspective onagriculturalland use.Sustainability,10(3):630,htps://doi.org/10.3390/su10030630.   \nThornthwaite CW.1948.Anapproach toward a rational clasification ofclimate.Geographical Review,38(1): 55-94.   \nTranseau E N.1905.Forest centers of eastern America.The American Naturalist,39(468): 875-889.   \nUN(United Nations).1994.United Nations Convention to Combat Desertificationin Countries Experiencing Serious Drought and/or Desertification,Particularly inAfrica.Document A/AC.241/27,12.09.1994 with Annexes.New York: UN.   \nVidalLegazB,DeSouzaDM,TeixeiraRFM,etal.2ol7.Soilqualityproperties,andfunctionsilifecycleasessmnt:an evaluation of models. Journal of Cleaner Production,140(2): 502-515.   \nXuJX.2006.Sand-dust storms in andaround the Ordos PlateauofChinaas influencedbylandusechangeand desertification. Catena,65(3): 279-284. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

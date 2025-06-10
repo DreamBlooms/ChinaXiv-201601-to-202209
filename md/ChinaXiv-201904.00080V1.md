@@ -1,0 +1,225 @@
+# 基于DEM的月表典型撞击坑形态特征的指标
+
+# 因子量化关系模拟
+
+燕龙1.2,周毅1,2，李阳1,2，涂杰1.2
+
+（1.陕西师范大学地理科学与旅游学院，陕西西安710119；2.地理学国家级实验教学示范中心，陕西西安710119）
+
+摘要：本文在激光测高方法获取的 $1 0 0 \mathsf { m }$ 分辨率的全月DEM数据基础上，选取1407个不同形态的撞击坑，提取多视角刻画撞击坑形态的地形因子指标，并进行撞击坑形态特征分析；在此基础上，采用数理统计与地理建模的方法，重点探讨地形因子间的关联性，进一步构建基于多因子的量化模型，以解释地形因子信息与撞击坑形态发育的内在联系。结果表明，深径比(Y)与直径（X1）、体积 $( \mathsf { X } _ { 2 }$ ）、圆度（X3）、体态比（X4）以及坑壁坡度（X5）能较好地刻画撞击坑形态发育特征，通过多元线性回归拟合构建指标间的函数关系，且拟合模型在0.05置信水平下的显著性 $\mathtt { F = 4 9 2 . 0 3 7 > > F }$ ，拟合模型的的显著性极好，$\mathbf { Y } = ( 7 . 9 4 1 \mathbf { E } - 0 0 7 ) \times \mathbf { x } _ { 1 } + ( 8 . 0 6 3 \mathbf { E } - 0 1 6 ) \times \mathbf { x } _ { 2 } + 0 . 0 8 2 \times \mathbf { x } _ { 3 } + 0 . 0 1 2 \times \mathbf { x } _ { 4 } + 0 . 0 0 7 \times \mathbf { x } _ { 5 } - 0 . 0 4 2$ 为其模拟函数关系式，拟合优度达0.637。该模拟方法在月表撞击坑形态发育研究中有重要意义，是撞击坑形态特征的数字地形模拟与信息挖掘的一次有益实践。
+
+关键词：撞击坑形态；地形因子指标；撞击坑发育；量化模拟
+
+中图分类号：P184.8
+
+撞击坑不仅是月球表面最典型的形貌构造单元，也是月球形态特征演化和发育研究的直接切入点]。因月表几乎没有大气层保护，且无风、水的侵蚀和地质活动微弱，所以撞击坑得以较完整的保存[2]。撞击坑的形成过程、形态特征及空间分布等从不同方面为研究月球演化历史提供了线索和方法[3]。撞击坑坑唇是撞击坑形态特征表达的最直观载体，是月表撞击坑形态模拟重建的基本单元。通过对撞击坑坑唇形态特征及其量化指标关系的研究，不仅可以还原撞击坑的形成过程，还可以进一步推知月球地质特征、物质组成，揭示演化过程等[4]。构建月表撞击坑形态量化指标因子模型，探索不同指标因子间的关联特征，实现指标因子的量化关系模拟，对于月表撞击坑形态表达和发育演化有着积极的理论意义和实践意义[4]。
+
+将撞击坑深度直径比作为撞击坑相对年龄的判定依据，撞击坑可以分为新鲜、年轻、成熟和老年四类。郑丽基于行星撞击坑分形及分维数理论，对月表撞击坑数目与直径之间的关系进行了深入研究，揭示了撞击坑月表地质年龄复杂的量化本质，实现地貌形态量化研究从简单的撞击坑直径向分维数的转变[7]。严艳梓研究了雨海地区粗糙度及与岩性的关系，通过Hurst指数的计算，分析了月表粗糙度分布特征及其与岩性和地质年龄的关系，进一步探索了火山作用对月表粗糙度的影响[8]。王娇、程维明等基于撞击坑数理统计和比较分析，从撞击坑的位置、大小、形状、坡度、方向、中央峰、辐射纹等7个视角52个小类指标，构建了月表撞击坑全关系型数据库，实现对撞击坑数据的存储、检索、处理和应用9。王心源、吉玮等选择坑唇等效半径、坑底等效半径和撞击坑的深度3个参数进行了统计分析和聚类分析，以此来研究撞击坑形貌与3个参数复杂程度的关系[1]。陈旻等基于月表撞击坑的形态学特征构建了描述指标体系，对其分别进行地理学意义的描述和计算方式的表达，基金项目：国家自然科学基金面上项目（41371424）资助
+
+收稿日期：2019-3-4
+
+作者简介：燕龙（1990-），男，汉族，甘肃天水人，硕士研究生，主要从事 DEM数字地形分析的研究。Email：yanlong@snnu.edu.cn进一步的构建了撞击坑个体描述指标和群体性描述指标体系，实现了月表撞击坑形态发育的体系性评价[1]
+
+在月表形貌学和数字地形分析中，地形因子的表达虽已经从定性描述转变到定量表达，但传统的地形因子和特定的描述指标受限于提取过程和方式，仅对月表撞击坑形态进行综合概括和单一刻画[2-13]。此外，基于数字地形信息挖掘的多因子联合定量表达以及量化关系研究，是反映形态特征与发育演化和揭示多因子与自然系统之间规律的重要内容。
+
+本文以月表撞击坑为基本单元，以LORC的 $1 0 0 \mathrm { m }$ 高分辨率DEM为数据基础，在全月选择1407个不同类型撞击坑，它们能科学、全面、准确地刻画撞击坑形态特征与地形信息，探索描述撞击坑形态特征指标因子间的关联性和表征意义，构建基于多因子的量化关系模型，以揭示地形因子信息与撞击坑形貌发育的内在联系。
+
+# 1 数据来源与研究方法
+
+# 1.1研究区及实验样区
+
+撞击坑的形成及发育过程受到诸多不确定因素的影响，如陨石撞击方向、力度、月表岩性与月壤厚度等，因此在撞击坑形态指标因子的计算中，撞击坑的选择尤为重要，对于撞击坑类型的划分，已总结出几种学界较为权威的分类方案，本文以陈旻等对月表撞击坑类型的划分作为研究基础[14]。基于类型全面、发育典型等原则选择坑体结构较为完整的撞击坑作为研究数据，如图1所示。
+
+![](images/fb6de83bef786a9fefa52d561a3fa7f582a2d4d40303a46100808534086a9ade.jpg)  
+图1选择撞击坑在全月球分布情况  
+Figure1 The distribution of the slected craters on the lunar surface
+
+基于现有资料，本文依据数据完整性、实验科学性和数据可获取性等原则，结合撞击坑面积大小、撞击坑间的空间位置关系、撞击坑的形态发育特征等考虑，在月表选择1407个撞击坑，其中包括离散型撞击坑、群聚型坑连坑、群聚型坑套坑以及边缘退化型撞击坑四大类型。具体类型如表1所示。
+
+表1撞击坑不同类型Table1 Different types of impact craters  
+
+<html><body><table><tr><td>类型</td><td>山体阴影图</td><td>类型</td><td>山体阴影图</td></tr><tr><td>新鲜撞击</td><td></td><td>退化撞击坑</td><td></td></tr><tr><td>坑(the</td><td></td><td>(the</td><td></td></tr><tr><td>fresh</td><td></td><td>dispersed</td><td></td></tr><tr><td></td><td></td><td>craters of</td><td></td></tr><tr><td>dispersed craters)</td><td></td><td>degradation)</td><td>036 12</td></tr><tr><td></td><td>012 4 km</td><td></td><td>1km</td></tr><tr><td></td><td></td><td>退化坑连坑</td><td></td></tr><tr><td>新鲜坑连</td><td></td><td>(the</td><td></td></tr><tr><td>坑(the</td><td></td><td></td><td></td></tr><tr><td>fresh</td><td></td><td>connected</td><td></td></tr><tr><td></td><td></td><td>craters of</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>connected</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>degradation)</td><td></td></tr><tr><td>craters)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0 24</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>5 10</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1km</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1km</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/aa1632b31a0adcb7473240297868fd3c3f44e292e0d558ced131943b1176a28c.jpg)
+
+# 2.2数据来源
+
+月球勘测轨道飞行器（Lunar Reconnaissance Orbiter,LRO）获取的 $1 0 0 \mathrm { ~ m ~ }$ 分辨率数字高程模型（Digital Elevation Model,DEM）数据。基于基本地形因子和撞击坑形态特征实现撞击坑地形结构的划分，作为研究的数据基础。
+
+# 2.3实验流程
+
+首先通过对已建立的撞击坑形态指标体系进行总结，结合撞击坑形貌形态特征表达和发育演化机理，有效地实现撞击坑地形因子的遴选。
+
+然后对1407个撞击坑地形因子和指标进行提取并量化统计。
+
+在此基础上，利用数理统计与地理建模的方法，重点探讨撞击坑地形因子间的关联性，进一步实现基于多因子的量化关系模拟。
+
+# 2 结果与分析
+
+# 2.1指标因子的选择
+
+对于月表撞击坑的发育而言，坑唇是撞击坑形态特征与演化过程的基本表征，反映月表撞击坑退化发育的演变过程。因此，本文基于已建立的撞击坑形态指标体系[14]，从撞击坑尺寸规模、形态发和特征统计等方面对指标进行剖析，兼顾其所蕴含的地学意义和指标依赖关系，科学合理地遴选出能够反映撞击坑形态特征与发育特征的指标因子，用作构建量化模型的基础。选取的指标因子见表2，这些指标从坡度、高程以及二三维空间形态等多重视角出发，重点刻画撞击坑的基本形态，蕴含丰富的撞击坑形态发育特征信息，撞击坑指标获取过程见图2。
+
+表2月表撞击坑形态指标  
+Table2 Indices for morphological of the lunar crater   
+
+<html><body><table><tr><td>指标</td><td>定义</td><td>计算方法</td><td>指标意义</td><td>图例说明</td></tr><tr><td>直径</td><td>撞击坑坑唇直径</td><td>Da =√4Area/π</td><td>反映撞击坑最终状态下的直径</td><td>图2a</td></tr><tr><td>圆度</td><td>撞击坑接近圆的程度</td><td>C = 4πA/P²</td><td>反映撞击坑边缘的复杂性</td><td></td></tr><tr><td>深度</td><td>撞击坑坑唇最高点月坑底最 低点之间的高程差</td><td>H = H KCMAX - H KDMIN</td><td>反映撞击坑最后状态下的深度</td><td>图2b</td></tr><tr><td>体积</td><td>由撞击体所撞击形成的凹坑 体积</td><td>V=A*R*0.5-SUM*cellsize</td><td>反映撞击坑体积的大小</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">体态比</td><td>撞击坑坑唇最小外界矩形的</td><td rowspan="2">R = W/L</td><td rowspan="2">反映了撞击坑的狭窄程度</td><td rowspan="2">图2c</td></tr><tr><td>宽度与长度之比</td></tr><tr><td>深径比</td><td>撞击坑深度与直径之比</td><td>H/Da</td><td>反映撞击坑的发育程度</td><td></td></tr><tr><td rowspan="2">坑唇起伏度</td><td>撞击坑坑唇最大高程与最低</td><td></td><td>反映了撞击坑在月表垂直方向</td><td rowspan="2">图2b</td></tr><tr><td>高程之差</td><td>R = H KCMAx - H KCMIN</td><td>的起伏程度</td></tr><tr><td>坑壁平均坡度</td><td>撞击坑内壁的平均坡度</td><td>ArcGIS Slope</td><td>反映撞击坑内壁的陡峭程度</td><td></td></tr></table></body></html>
+
+注；Area 表示撞击坑的坑口面积， $P$ 表示撞击坑坑唇周长，Hkcmax 和Hkdmin分别表示撞击坑坑唇最高点和撞击坑坑底最低点，SUM为坑壁和坑底所向下对应的体积，celIsize表示 DEM数据的空间分辨率，W表示撞击坑坑唇最小外接矩形的宽， $ { L }$ 表示坑唇最小外接矩形的长。
+
+Note:Area is the area of the crater pithead,P is the perimeter of the impact crater,Hkcmax and Hkdmin respectively indicate the highest point of the impact crater rim and the lowest point of the crater bottom, and SUM bounded by the crater bottom and walls,celsize is the spatial resolution of the DEM data,W is the width of the minimum bounding rectangle of the impact crater rim,and L is the length of the minimum bounding rectangle of the impact crater rim.
+
+![](images/3834970202961ce3fe1176e2d52e619f64b49f8925b1db9c6d5c458ad0590d1e.jpg)  
+图2撞击坑形态参数指标的获取过程  
+Figure 2 Acquisition process of crater morphological indices
+
+注：(a)表示直径(Da)的获取过程； (b)是深度与坑唇起伏度的获取过程；(c)是体态比的获取过程。 Note: a is the acquisition processof diameter, b is the acquisition process of depth and rim fluctuation, c is the acquisition process of posture ratio.
+
+# 2.2指标因子的量化计算
+
+在研究中，首先从刻画月表撞击坑特征和自然表达效果角度对现有撞击坑坑唇形态提取算法进行对比。结果发现，基于地形分析方法的撞击坑坑唇的提取算法，在一定尺度级别的月表撞击坑特征要素表达方法具有一定的有势[15]。此外，通过对月表撞击坑形态的目视解译和撞击坑坑唇形态提取算法的本质认识发现，目前大多撞击坑坑唇形态的提取算法对其识别准确度都受实验样区选择的限制，且伴随有因窗口平滑而造成的细节简化问题，造成撞击坑真实坑唇信息的丢失，而基于目视识别的撞击坑坑唇形态的提取方式对于撞击坑特征的反映具有较高的可靠性，提取结果与月表撞击坑自然坑唇状态吻合最好。在1407个撞击坑样本的基础上，利用DEM 数据,采用目视识别的方法进行撞击坑坑唇形态判识，以此来提取撞击坑坑唇线。然后根据撞击坑类型划分结果，对已选择的8个地形指标因子进行量化计算，各项指标计算结果见表3。
+
+# 表3不同类型撞击坑形态指标平均值统计对比
+
+Table3 Comparisons of mean values of morphological indices of craters of different types
+
+<html><body><table><tr><td>类型</td><td>直径（Da/km）</td><td>深度(H/km)</td><td>体积(V/km3)</td><td>圆度 (C)</td><td>体态比(Rp)</td><td>深径比(H/Da)</td><td>坑壁坡度(S/度)</td></tr><tr><td>1</td><td>12.396</td><td>2.313</td><td>167.554</td><td>0.9728</td><td>1.1564</td><td>0.1867</td><td>21.40</td></tr><tr><td>2</td><td>11.395</td><td>1.919</td><td>161.681</td><td>0.9356</td><td>1.0274</td><td>0.1714</td><td>17.34</td></tr><tr><td>3</td><td>31.199</td><td>3.346</td><td>2710.198</td><td>0.9522</td><td>1.1289</td><td>0.1122</td><td>17.28</td></tr><tr><td>4</td><td>47.936</td><td>2.135</td><td>1226.035</td><td>0.9455</td><td>0.8838</td><td>0.0771</td><td>13.48</td></tr><tr><td>5</td><td>29.659</td><td>2.721</td><td>1937.222</td><td>0.8980</td><td>0.8901</td><td>0.1136</td><td>14.09</td></tr><tr><td>6</td><td>59.432</td><td>3.921</td><td>8366.350</td><td>0.9092</td><td>0.8771</td><td>0.0750</td><td>13.57</td></tr></table></body></html>
+
+注：1表示新鲜离散型撞击坑，2表示新鲜坑连坑，3表示新鲜坑套坑，4表示退化离散型撞击坑，5表示退化坑连坑，6表示退化坑套坑。
+
+Note:1is the fresh dispersed craters; 2 is the fresh connected craters;3 is the fresh contained craters; 4 is the dispersed craters of degradation;5 is the connected craters of degradation;6 is the contained craters of degradation.
+
+从表3可以看出不同类型撞击坑态指标之间的差异性，新鲜撞击坑的圆度平均大于退化撞击坑，说明新鲜撞击坑的坑口跟接近圆形，在新鲜撞击坑中，坑连坑圆度值小于坑套坑，坑连坑的坑唇形态由于相互的挤压发生较大的变化，新鲜撞击坑中的离散型撞击坑深径比是退化离散型撞击坑的 2倍多，退化撞击坑由于坑底被熔岩填充或坑壁发生块移，使得撞击坑的深度变化远快于直径变化，因此，新鲜撞击坑的深径比整体大于退化撞击坑的深径比。说明描述撞击坑不同形态特征的指标之间存在相互影响，解析清楚指标间的相关性是构建撞击坑综合模型的基础。
+
+# 2.3指标关联性分析
+
+撞击坑的形态特征是一个复杂的渐变系统，虽然其内部各要素之间有概念描述和量化表达的差异性，但各要素之间是普遍存在联系的而绝非孤立的表达，选取有效地形因子指标进行关联性分析并实现撞击坑形态的发育模拟，是本研究的重点。
+
+关联性分析也即相关性分析，是揭示描述地理特征的各因子之间相关关系的密切程度，主要通过相关系数来反映。本文通过所选择的撞击坑计算各项指标，进而进行指标因子的单相、偏相关分析，以探讨形态指标因子两两之间的量化关系。各项形态指标单相关系数计算结果如表4所示。
+
+表4月表撞击坑形态指标单相关系数表  
+Table 4 The simple correlation coefficient of morphological indicators of lunar crater   
+
+<html><body><table><tr><td></td><td>直径</td><td>深度</td><td>体积</td><td>圆度</td><td>体态比</td><td>深径比</td><td>坑壁坡度</td><td>坑唇起伏度</td></tr><tr><td>直径</td><td>1</td><td>0.474</td><td>0.510</td><td>-0.256</td><td>-0.209</td><td>-0.535</td><td>-0.167</td><td>0.415</td></tr><tr><td>深度</td><td>0.474</td><td>1</td><td>0.497</td><td>-0.212</td><td>0.014</td><td>0.025</td><td>0.260</td><td>0.723</td></tr><tr><td>体积</td><td>0.510</td><td>0.497</td><td>1</td><td>-0.266</td><td>-0.094</td><td>-0.259</td><td>-0.135</td><td>0.431</td></tr><tr><td>圆度</td><td>-0.256</td><td>-0.212</td><td>-0.266</td><td>1</td><td>0.180</td><td>0.328</td><td>0.270</td><td>-0.305</td></tr><tr><td>体态比</td><td>-0.209</td><td>0.014</td><td>-0.094</td><td>0.180</td><td>1</td><td>0.317</td><td>0.311</td><td>-0.179</td></tr><tr><td>深径比</td><td>-0.535</td><td>0.025</td><td>-0.259</td><td>0.328</td><td>0.317</td><td>1</td><td>0. 666</td><td>-0.108</td></tr><tr><td>坑壁坡度</td><td>-0.167</td><td>0.260</td><td>-0.135</td><td>0.270</td><td>0.311</td><td>0. 666</td><td>1</td><td>-0.080</td></tr><tr><td>坑唇起伏度</td><td>0.415</td><td>0.723</td><td>0.431</td><td>-0.305</td><td>-0.179</td><td>-0.108</td><td>-0.080</td><td>1</td></tr></table></body></html>
+
+注：样本为1407个，相关性显著程度在0.01置信度水平下。 Note: the number of sample is 14O7. Significant correlation at a confidence level of 0.01. 通过单因子相关性分析结果可知，直径与深径比有着较好的相关性，深度与坑唇起伏度之间的
+
+相关性较好，深径比与坑壁坡度间也存在较好的相关性，这说明撞击坑形态指标之间普遍存在一定程度的联系，且此种联系在多因子之间表现得更为复杂，有必要进一步进行多因子综合相关性分析。对选择的8个地形因子指标进行主成分分析，从而确定最能表达撞击坑形态的因子及组合，通过多次试验发现做4次主成分分析是合理的，计算结果如表5、表6所示。
+
+Table5 Principal component analysis results of morphological indicators of lunar crater
+
+表5月表撞击坑形态指标主成分分析结果  
+
+<html><body><table><tr><td rowspan="2">指标</td><td colspan="4">主成分</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>直径</td><td>0.784</td><td>0.049</td><td>0.289</td><td>0.288</td></tr><tr><td>深度</td><td>0.613</td><td>0.705</td><td>-0.059</td><td>0.025</td></tr><tr><td>体积</td><td>0.706</td><td>0.237</td><td>0.273</td><td>0.055</td></tr><tr><td>圆度</td><td>-0.559</td><td>0.146</td><td>0.204</td><td>0.733</td></tr><tr><td>体态比</td><td>-0.386</td><td>0.404</td><td>0.693</td><td>-0.393</td></tr><tr><td>深径比</td><td>-0.620</td><td>0.630</td><td>-0.273</td><td>-0.074</td></tr><tr><td>坑壁坡度</td><td>-0.404</td><td>0.767</td><td>-0.072</td><td>0.095</td></tr><tr><td>坑唇起伏度</td><td>0.707</td><td>0.425</td><td>-0.283</td><td>-0.044</td></tr></table></body></html>
+
+从表5可以看出，第一主成分在撞击坑的体积、直径、坑唇起伏度和深度上都具有较大的正载荷，而只有深径比在第一主成分内有较好的负载荷，以上五个指标从撞击坑的规模大小及其发育程度的视角来表征撞击坑的形态特征，因此，第一主成分可以看做是撞击坑规模及其发育的代表。第二主成分与撞击坑坑壁平均坡度和深径比皆有较大的正相关，这两个指标与撞击坑的坑唇或坑壁发育密切相关，这说明第二成分是从撞击坑坑唇和坑壁发育状况视角来表达撞击坑形态特征。虽然在第三主成分中体态比的相关性得分较低，但体态比在表征撞击坑坑唇形态的狭窄程度上有独特优势，因此，在描述撞击坑形态特征中，体态比因子不可或缺。在第四主成分中，圆度因子上具有较大的载荷，而圆度从撞击坑的坑唇复杂程度这一独特视角表征着撞击坑的形态特征，因此对撞击坑形态特征的描述，圆度是具有独特优势的指标因子。
+
+# 表6月表撞击坑形态指标主成分分析的总方差解释表
+
+Table 6 Total variance interpretation table for principal component analysis of lunar crater
+
+morphological indicators   
+
+<html><body><table><tr><td></td><td colspan="4">初始特征值</td><td colspan="2">提取平方和载入</td></tr><tr><td>成分</td><td>合计</td><td>方差的%</td><td>累计%</td><td>合计</td><td>方差的%</td><td>累计%</td></tr><tr><td>1</td><td>2.997</td><td>37.466</td><td>37.466</td><td>2.997</td><td>37.466</td><td>37.466</td></tr><tr><td>2</td><td>1.906</td><td>23.824</td><td>61.290</td><td>1.906</td><td>23.824</td><td>61.290</td></tr><tr><td>3</td><td>0.843</td><td>10.542</td><td>71.833</td><td>0.843</td><td>10.542</td><td>71.833</td></tr><tr><td>4</td><td>0.795</td><td>9.937</td><td>81.770</td><td>0.795</td><td>9.937</td><td>81.770</td></tr><tr><td>5</td><td>0.560</td><td>6.994</td><td>88.764</td><td></td><td></td><td></td></tr><tr><td>6</td><td>0.527</td><td>6.584</td><td>95.348</td><td></td><td></td><td></td></tr><tr><td>7</td><td>0.216</td><td>2.697</td><td>98.045</td><td></td><td></td><td></td></tr><tr><td>8</td><td>0.156</td><td>1.955</td><td>100.000</td><td></td><td></td><td></td></tr></table></body></html>
+
+同时，从表6中不难发现，选择4个主成分，其累计贡献率达 $8 1 . 7 7 \%$ ，保障了对后面撞击坑形态特征发育的指标线性模拟。而从形态指标主成分分析的总方差解释表中也可看出，第三和第四主成分的贡献率虽不及第一和第二主成分，但第三主成分和第四主成分对于撞击坑的形态的影响是不可忽略的。在第一主成分中，影响撞击坑规模的指标因子众多，而在学界，深径比作为撞击坑发育表征的二维指标因子，其对于撞击坑相对年龄的判断有很好的指示作用[15]。它与众多因子之间有着较多的联系，并非单一化的关联关系。本文基于多因子关联性分析，旨在寻求撞击坑形态发育与其他形态指标之间的量化关系，考虑到多因子综合分析的复杂性，可以将深径比作为一个主变量，通过多层次探索在多因子相互影响下的双变量之间的关联关系的方法，这种方法就是通过控制变量的方式来不断增加控制因变量，进而实现各因子间关联性分析。各级偏相关结果如表7所示。
+
+表7月表撞击坑形态指标的一级偏相关系数表  
+Table7 First-order partial correlation coeficient table of morphological indicators of lunar crater   
+
+<html><body><table><tr><td colspan="2">控制变量</td><td>深径比</td><td>直径</td><td>体积</td><td>圆度</td><td>体态比</td><td>坑壁坡度</td></tr><tr><td>直径</td><td>深径比</td><td>1.000</td><td></td><td>0.019</td><td>0.234</td><td>0.249</td><td>0.693</td></tr><tr><td></td><td>体积</td><td>0.019</td><td></td><td>1.000</td><td>-0.164</td><td>0.016</td><td>-0.059</td></tr><tr><td></td><td>圆度</td><td>0.234</td><td></td><td>-0.164</td><td>1.000</td><td>0.134</td><td>0.239</td></tr><tr><td></td><td>体态比</td><td>0.249</td><td></td><td>0.016</td><td>0.134</td><td>1.000</td><td>0.287</td></tr><tr><td></td><td>坑壁坡度</td><td>0.693</td><td></td><td>-0.059</td><td>0.239</td><td>0.287</td><td>1.000</td></tr><tr><td>体积</td><td>深径比</td><td>1.000</td><td>-0.485</td><td></td><td>0.278</td><td>0.305</td><td>0.659</td></tr><tr><td></td><td>直径</td><td>-0.485</td><td>1.000</td><td></td><td>-0.145</td><td>-0.189</td><td>-0.115</td></tr><tr><td></td><td>圆度</td><td>0.278</td><td>-0.145</td><td></td><td>1.000</td><td>0.162</td><td>0.245</td></tr><tr><td></td><td>体态比</td><td>0.305</td><td>-0.189</td><td></td><td>0.162</td><td>1.000</td><td>0.303</td></tr><tr><td></td><td>坑壁坡度</td><td>0.659</td><td>-0.115</td><td></td><td>0.245</td><td>0.303</td><td>1.000</td></tr><tr><td>圆度</td><td>深径比</td><td>1.000</td><td>-0.494</td><td>-0.188</td><td></td><td>0.278</td><td>0.635</td></tr><tr><td></td><td>直径</td><td>-0.494</td><td>1.000</td><td>0.474</td><td></td><td>-0.172</td><td>-0.105</td></tr><tr><td></td><td>体积</td><td>-0.188</td><td>0.474</td><td>1.000</td><td></td><td>-0.048</td><td>-0.068</td></tr><tr><td></td><td>体态比</td><td>0.278</td><td>-0.172</td><td>-0.048</td><td></td><td>1.000</td><td>0.277</td></tr><tr><td></td><td>坑壁坡度</td><td>0.635</td><td>-0.105</td><td>-0.068</td><td></td><td>0.277</td><td>1.000</td></tr><tr><td>体态比</td><td>深径比</td><td>1.000</td><td>-0.505</td><td>-0.243</td><td>0.290</td><td></td><td>0.629</td></tr><tr><td></td><td>直径</td><td>-0.505</td><td>1.000</td><td>0.504</td><td>-0.227</td><td></td><td>-0.109</td></tr><tr><td></td><td>体积</td><td>-0.243</td><td>0.504</td><td>1.000</td><td>-0.255</td><td></td><td>-0.112</td></tr><tr><td></td><td>圆度</td><td>0.290</td><td>-0.227</td><td>-0.255</td><td>1.000</td><td></td><td>0.229</td></tr><tr><td></td><td>坑壁坡度</td><td>0.629</td><td>-0.109</td><td>-0.112</td><td>0.229</td><td></td><td>1.000</td></tr><tr><td>坑壁坡</td><td>深径比</td><td>1.000</td><td>-0.576</td><td>-0.228</td><td>0.206</td><td>0.155</td><td></td></tr><tr><td>度</td><td>直径</td><td>-0.576</td><td>1.000</td><td>0.499</td><td>-0.222</td><td>-0.168</td><td></td></tr><tr><td></td><td>体积</td><td>-0.228</td><td>0.499</td><td>1.000</td><td>-0.241</td><td>-0.055</td><td></td></tr><tr><td></td><td>圆度</td><td>0.206</td><td>-0.222</td><td>-0.241</td><td>1.000</td><td>0.105</td><td></td></tr><tr><td></td><td>体态比</td><td>0.15</td><td>-0.168</td><td>-0.055</td><td>0.105</td><td>1.000</td><td></td></tr></table></body></html>
+
+如表7所示，在一级偏相关结果中，作为控制变量的直径、体积、圆度、体态比以及坑壁坡度，分别将深径比因子与其他除自身以外的指标间关联关系得到进一步简化，主要关系为：直径、体积、圆度、体态比这四个因子不同程度地对深径比与坑壁坡度两个因子之间的关联关系产生了相对较大的影响。
+
+同时，通过表7偏相关分析结果，可以得出，深径比对于表征撞击坑的退化都是较好的评判指标[]，而深径比与坑壁坡度间的关联性同时受直径、体积、圆度和体态比的综合影响，并且偏相关性较好，这说明深径比因子与其他五个指标有着密切的联系，并且可能存在有综合的量化关系。
+
+# 2.4复相关分析
+
+从计量地理学上相关性分析的意义上看，指标因子间的单相关分析和偏相关分析都是探讨两两因子之间的关联性。事实上，一个要素的变化往往受多种要素的综合作用和影响。从表4分析结果中可以得知，深径比指标和深度指标都可看作是量化撞击坑退化研究中的因变量。因此本文基于1407个撞击坑样本数据，探讨最终因变量的选择以及因变量与其他因子之间的复相关关系，以量化各指标因子对于因变量的综合影响。复相关回归统计结果如表8所示。
+
+Table8 The regression statistics table of morphological indicators of lunar crater
+
+表8月表撞击坑形态指标的回归统计结果表  
+
+<html><body><table><tr><td></td><td>F</td><td>复相关系数R</td><td>R方</td><td>标准误差</td><td>观测值</td></tr><tr><td>深度</td><td>435.513</td><td>0.780</td><td>0.609</td><td>890.857</td><td>1407</td></tr><tr><td>深径比</td><td>492.037</td><td>0..798</td><td>0.637</td><td>0.0392</td><td>1407</td></tr></table></body></html>
+
+结果可得，深径比因子与其他5个因子之间的相关性更好，且高度显著，因此选择深径比作为探索各指标关联性的因变量。而深径比与直径、体积、圆度、体态比和坑壁坡度因子之间的相关性也进一步证明各指标作为撞击坑形态特征的指示因子，存在着密切的数学联系，可进行多变量的综合回归模型分析。
+
+# 2.5基于多因子的量化关系模型构建
+
+虽然指标间的关联性分析已经说明深径比与直径、体积、圆度和体态比、坑壁坡度5个指标因子存在着综合的数学关系。但从地理建模角度来看，各自变量应当对于因变量具有很好的可解释性和数学依赖性，并且自变量之间应当保持一定的独立性。
+
+深径比因子与直径、坑壁坡度因子之间的相关性较好，而圆度因子、体态比因子与其他指标因子之间的相关性中，与深径比的关联性最好。并且除深径比之外的其他因子从不同视角对于撞击坑形态都具有较好的地学表征意义。从单相关分析结果中看，在作为五个自变量因子之间的相关性比较一般，其因子之间的独立性较好。
+
+综上所述，本文将以深径比为因变量（Y），以直径 $( \mathrm { X } _ { 1 } )$ ）、体积 $\mathrm { { ( \ X _ { 2 } ) } }$ ）、圆度 $\mathrm { ( X _ { 3 } }$ ）、体态比 $\mathrm { ( X _ { 4 } }$ ）以及坑壁坡度！ $( \mathrm { { X } } _ { 5 } )$ ）为自变量，构建多元线性回归的量化关系模型。采用逐步（sWLR）回归模拟发现，各变量之间存在很强的线性函数关系，其方程为公式（1）：
+
+$$
+\mathrm { Y } = ( 7 . 9 4 1 \mathrm { E } - 0 0 7 ) \times \mathrm { x } _ { \mathrm { _ { 1 } } } + ( 8 . 0 6 3 \mathrm { E } - 0 1 6 ) \times \mathrm { x } _ { \mathrm { _ { 2 } } } + 0 . 0 8 2 \times \mathrm { x } _ { \mathrm { _ { 3 } } } + 0 . 0 1 2 \times \mathrm { x } _ { \mathrm { _ { 4 } } } + 0 . 0 0 7 \times \mathrm { x } _ { \mathrm { _ { 5 } } } - 0 . 0 4 2
+$$
+
+# 2.6模型的统计检验
+
+本文从模型的拟合优度、方程的显著性、变量显著性与参数的置信区间四个方面对模型进行统计检验。拟合模型的复相关系数为0.798，回归模型的概率为0.00，明显小于显著性水平0.05。模
+
+型的拟合优度达0.637，调整后的拟合优度达0.639。回归模型的方差分析结果见表9。经过显著性检验，在0.05的置信水平下查F分布表可知： $\operatorname* { F } _ { \mathbf { \mu } _ { \mathrm { a } } } \left( \mathbf { k } , \mathbf { n } - \mathbf { k } - 1 \right) = \operatorname* { F } _ { 0 . 0 5 } \left( 5 , 1 4 0 1 \right) = 2 . 2 1$ ，在回归拟合结果中，$\mathrm { F = 4 9 2 . 0 3 7 > > F _ { a } }$ 。因此，在0.05的置信水平下，回归模拟函数是极显著的。
+
+表9撞击坑多元线性回归模型的方差分析  
+Table 9 Analysis of variance of multiple linear regression model of crater   
+
+<html><body><table><tr><td></td><td>平方和</td><td>df</td><td>均方</td><td>F</td><td>Sig.F</td></tr><tr><td>回归</td><td>3.787</td><td>5</td><td>0.757</td><td>492.037</td><td>0.00b</td></tr><tr><td>残差</td><td>2.156</td><td>1401</td><td>0.002</td><td></td><td></td></tr><tr><td>总计</td><td>5.943</td><td>1407</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3小结与展望
+
+本文从撞击坑的尺寸特征、发育特征等角度总结了前人对撞击坑形态特征的基本认识和量化研究成果；利用100米分辨率的DEM数据，通过对撞击坑各形态因子分析筛选给出了撞击坑形态的多元线性回归拟合模型，这种拟合关系反映了撞击坑形态特征的指标因子传递出的撞击坑发育的数学机理，揭示了撞击坑形态发育指标因子之间的内在联系，而不再是单一的因子量化特征表达。通过对描述月表撞击坑形态参数的指标的关联性分析和量化模拟研究，可获得以下结论：
+
+（1）在文[13]作者对撞击坑分类的基础上，将撞击坑划为6种类型，对选取的1407个撞击坑进行量算，新鲜撞击坑的深径比平均值为0.187，退化撞击坑的深径比平均值为0.0771，其他撞击坑形态参数指标的差异如表2示。
+
+（2）对8个撞击坑形态指标进行偏相关和复相关的分析，确定以深径比为因变量，直径、体积、圆度、体态比和坑壁坡度为自变量构建指标因子的量化模拟，得到其线性拟合公式（公式1），模型的拟合优度达0.637，调整后的拟合优度达0.639，说明本文的拟合模型能够较好地表达撞击坑形态发育特征。
+
+（3）模型的复相关系数为0.798，在0.05置信水平的显著性 $\mathrm { F { = } 4 9 2 . 0 3 7 > > F _ { a } }$ ，说明构建的模型显著性较好。可用于月表撞击坑形态发育特征的预测和估计。
+
+此外，本文还对所选择的指标因子进行非线性拟合，深径比与直径、坑壁坡度的拟合优度分别为0.4715、0.4524，而深径比与体积、圆度、体态比因子的拟合优度都小于0.15，也说明深径比与其他指标因子之间不适宜多元非线性拟合。
+
+本文基于撞击坑形态特征，实现多因子量化关系建模来表达撞击坑形貌发育的演化机理，揭示描述撞击坑形貌的地形因子信息与月球空间环境系统之间规律的过程，对于多因子联合定量表达的撞击坑形貌信息建模研究和撞击坑形貌形态发育研究有重要的实践意义。
+
+然而，在利用建模的理论和方法实现撞击坑形态数字地形信息挖掘的方面，还需开展大量的工作。在指标选取上要进行更多的尝试，以增强模型构建的稳定性。提取全月撞击坑形态指标数据，对模型进行全月撞击坑数据的验证，探讨以模型为依据,结合月表岩性分类研究[17的撞击坑类型分类研究是未来的研究工作。
+
+# 参考文献：
+
+[1]Miyamoto S.Morphological study of the lunar crust[J].Icarus,1968,9(1-3):373-390.
+
+[2]欧阳自远．月球科学概论[M]．中国宇航出版社:2-3,2005.
+
+[3]HuangQPingSXLeta.eaturesofteooevealedddentifdyOJ]ieeina:Pis and Astronomy, 52(12):1815-1823.   
+[4]刘宇轩，刘建军，牟伶俐等．撞击坑识别方法综述[J].天文研究与技术：国家天文台台刊,2012,09(2):203-212.   
+LiuYuxuan,Liuju,uiglifactrateretetioJ]stroicaech&chooubicatioial Astronomical Observatories of China,2012,(2):203-212.   
+[5]赵金锦，刘建军，牟伶俐．月表撞击坑形貌特征和几何形态关系分析[J].天文研究与技术,2014,11(1):80-88.   
+ZhaoJinjin,LiuJianjun,MuLingliAnnalysisfMophologicalFeaturesandRelatiosbetweenGeomericalParametersofLnarpact Craters[J].Astronomicalesearch&technologyPublicatiosofationalAstronomicalObservatorsofhina,14,():888.   
+[6]Lunar Surface Model[D],1992,National Aeronautics and Space Adminitration: Washington D.C   
+[7]郑丽.行星撞击坑分形及分维数意义探讨[J].河北师范大学学报：自然科学版，1998(3):347-351.   
+ZhenLiengJiniangZhangWenCraterFractalandItsDimensiononanetJJualofHebeiNoalUniversityNaturalSciece).199 8(3):347-351.   
+[8]严艳梓,汤国安,熊礼阳等．基于DEM的月球雨海地区粗糙度研究[J].地理研究，2014，33(8).   
+YanYanzi,Tanguoan,XiogLiangetnarfacerounsofareIbbasdonMs[J]GogaicalResearch8). [9]王娇，程维明，周成虎等．全月球撞击坑形貌特征的识别与多指标表达[J].地理研究,2014,33(7):1251-1263.   
+WangJiao，ChengWeiming，ZhouChenghu，etal.Identificationandmorphologicalexpresionofunarimpactcraters[J]ogapical Research.2014,33(7):1251-1263.   
+[10]王心源，吉玮，李超等．基于“嫦娥一号”数据的月表撞击坑特征的多参数统计分析[J].地理研究,2012,31(2).   
+WangXinyuan，JiWeiLiChaoetaMulti-parametersstisticalanalysisofimpactcraters'featuresonlunarsurfacebasedon Chang'e-1[J].Geographical Research.2012,31(2).   
+[11]MinC，MenglingL，DanyangL，etal.MorphologicalFeatures-BasedDescriptiveIndex SystemforLunarImpactCraters[J].ISPR Intermational Jourmal of Geo-Information,2017,7(1):5-   
+[12]Ivanov,B.A.Sze-FrequencyDisributionofSmallLunarCraters:WideningwithDegradaionandraterLifetime[J]SolarSystemRe search，2018,52(1):1-25.   
+[13MahantiPobsomoetalaluaratersattollndadingsitesoologddai] Icarus, 2017:S0019103516306716.   
+[14]ChenM,LiuD，QianK，etal.LunarCraterDetectionBasedonTerrainAnalysisandMathematicalMorphologyMethodsUsing Digital Elevation Models[J].IEEE Transactions on Geoscience and Remote Sensing，2O18:1-12.   
+[15]ZhouY,ZoH,entalutoaticectioofaatesdtaitheaialyistodJ]ad Space Science,2018:S0032063317302933.   
+[16]ieept [17]蔡婷妮，李春来，鑫，等.基于遥感探测数据的月球玄武岩分类研究进展\*[J].天文研究与技术,2017,14(2):179-191.   
+Cai Tingni,Li Chunlai,Ren Xin,et al. Reviewon Lunar Basalt Clasification Based on Remote Sensing Data[J].   
+Astronomicalresearch&technology—PublicationsofNationalAstronomicalObservatoriesofChina,2017,14(2):179-191.
+
+# Simulation of quantitative relationship between morphological feature topographic factors of lunar crater based on DEM
+
+YAN Long1,2, ZHOU Yi1,2,LI Yang1,2,TU Jie1,2 (1.School of Geograph and Tourism,Shaan Xi Normal University,Xi'an 71o119,China; 2.National Experiment and Teaching Demonstration Center for Geography,Xi'an 710119 China)
+
+Abstract: Based on the surface DEM data of $1 0 0 \mathrm { m }$ resolution obtained by the laser altimetry method,
+
+1407 different types of impact craters are selected to extract the topographic factor indicators of the crater morphology from multiple perspectives,and the morphological characteristics of the crater are analyzed.On the basis of the method of mathematical statistics and geographic modeling，the relationship between topographic factors is mainly discussed,and a multi-factor based quantitative model is further constructed to explain the intrinsic relationship between topographic factor information and crater morphology development. The results show that the depth-diameter ratio (Y) and diameter $( \mathbf { X } _ { 1 } )$ , volume $( { \Chi } _ { 2 } )$ ,circularity $( { \bf X } _ { 3 } )$ , posture ratio $( \mathrm { X } _ { 4 } )$ and crater wall slope $( \mathrm { X } _ { 5 } )$ can better characterize the morphological characteristics of the crater. Multiple linear regression fiting was used to construct the functional relationship between the indicators,and the significance of the fitted model at the O.O5 confidence level was $\mathrm { F } { = } 4 9 2 . 0 3 7 { > } { > } \mathrm { F } .$ The significance of the fitted model was excellent, and its simulation function relationship was fitted. Goodness is O.637.The simulation method is of great significance in the study of the morphological development of the lunar impact crater. It is a useful practice of digital terrain simulation and information mining of the crater feature.
+
+Key words: crater morphology; Factors of terrain; Crater development; Quantitative simulation

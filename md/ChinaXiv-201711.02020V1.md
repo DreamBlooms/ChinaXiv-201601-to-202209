@@ -1,0 +1,172 @@
+# 基于LDA挖掘计算机科学文献的研究主题
+
+杨海霞 高宝俊 孙含林(武汉大学经济与管理学院武汉 430072)
+
+摘要：【目的】运用文本挖掘技术自动从海量科技文献中提取研究主题并探测其研究趋势。【方法】以《中文核心期刊要目总览(2014年版)）—“TP 自动化技术、计算机技术"栏目前10 种期刊刊载的计算机科学类(ComputerScience)文献为研究对象，借助LDA主题模型，考虑科技文献的发表时间信息，挖掘出典型话题，并根据主题强度分析主题的演化趋势。【结果】18个研究话题中有7个主题强度上升的主题和6个主题强度下降的主题。【局限】仅分析了国内计算机领域的前10种期刊，期刊范围不够大，也未考虑国外计算机领域的期刊文献。【结论】该方法能够深人挖掘计算机领域期刊文献的话题，帮助从事该领域研究的学者了解主题的演化趋势并寻找新兴研究主题。
+
+关键词:计算机科学LDA 主题提取 主题强度文档聚类分类号：G350
+
+# 1引言
+
+计算机科学是系统性研究信息与计算的理论基础以及它们在计算机系统中如何实现与应用的实用技术的学科。在信息技术高速发展的时代，计算机科学已成为各个国家不可或缺的学科领域。而科技文献作为学术成果的重要载体，凝聚了科研人员的大量智慧，是传播知识、进行学术交流的重要途径。因此，探测计算机科学类文献的研究内容，能够了解计算机科学领域的发展状态。
+
+笔者借助概率主题模型LDA(LatentDirichletAllocation)[1-3]，对入选《中文核心期刊要目总览(2014年版)）—"TP自动化技术、计算机技术"栏目前10 种期刊刊载的计算机科学(Computer Science)文献进行文本建模，结合困惑度和专家判断确定模型的最优主题数，同时考虑文献的发表时间信息，从主题内容和主题强度两方面，探测2006年-2015年期间国内计算机科学领域中各个研究主题的发展趋势，并根据LDA模型结果对文档进行聚类，统计各个主题下的文献数量，深入了解热点主题下的文档内容。通过本文分析，科研人员能够初步了解国内计算机科学领域近10 年的研究状态，把握计算机科学领域的新兴研究主题，并判断哪些主题值得继续研究。
+
+# 2相关研究现状
+
+近年来，为把握计算机科学的发展状态，相关学者从计算机科学领域的整体或部分的角度，对计算机科学的发展过程进行论述。如，郭玉等4采用文献计量学和科学计量学的研究方法，从论文的时间分布、被引用情况及主题分布等方面，分析中国作者在国际期刊发表的计算机科学论文，以期了解计算机科学的学科现状；陈国良等[5综述了并行计算的一体化研究现状，并展望了其发展趋势；章锦文等以叙述的方式，讨论了神经网络计算机的研究现状和发展趋势。
+
+上述研究中，或以文献数量统计的方法，或以文献综述的方法，少有学者借助主题模型分析计算机科学类文献的研究主题，以适应当前文献数量巨增的现状。本文借助LDA模型，抽取29621篇计算机科学文献的研究主题，并根据不同时段的主题强度，深入分析计算机科学的主要研究主题及各个主题的发展趋势。
+
+LDA模型是生成式概率主题模型，假定潜在主题是语料中一系列词的概率分布，文档是一系列潜在主题的概率分布。在LDA 模型中，通常同一个主题中的词存在高语义相关性，如在主题"安全密钥"中，词“secure”“scheme”“key”“protocol”“signature”“authentic"均与该主题高度相关。此外，与一般的聚类方法不同，LDA允许一个文档同时包含多个主题，故更适用于提取科技文献的研究主题[1-3]。
+
+国外研究中,Griffiths 等[]首先将 LDA 模型用于提取PNAS期刊文献摘要的主题及主题变化趋势，并用Gibbs 抽样算法推断LDA 模型。随后，LDA模型被陆续用于分析生物医学[]、计算机语言学[8]、文献计量学[9]、图书信息管理学[10]、经济学[1]等领域的科技期刊文献，自动挖掘大量文献的研究主题，了解某个领域的研究状态。
+
+国内相关学者也多应用LDA模型进行科技文献的情报分析，如贺亮等[12]对NIPS 论文集和ACL 论文集进行实验，用主题词的类TF-IDF值，探讨主题的内容演化过程；关鹏等[13]对不同语料库下的 LDA 主题模型进行对比研究，并对主题抽取效果进行评价；李湘东等[14]在 LDA 模型中引入时间因素，以探测科技期刊的主题演化；王曰芬等[15]以知识流领域为研究对象，借助LDA挖掘不同学科下的知识流研究结构。此外，为满足不同的科技情报分析需求，许多学者对LDA模型进行改进，如王萍[1串联文献的文本信息和作者信息，构建主题-作者(Topic-Author)的模型；叶春蕾等[17综合科研文献的关键词和引文，构建引文-主题概率模型；王平[18]考虑文献发表的时间和题录信息，构建分层LDA模型，找到热点话题以及话题的演化特性；王金龙等[19]针对目前科研文献主题演化概率分布问题，阐述了主题与事件的关联关系，提出一种新型的基于模块化的主题方法；李湘东等[20将SVM算法加入LDA模型中，优化主题分类；秦晓慧等[21]在LDA模型中加入主题关联过滤规则，以期减少非关联主题的干扰问题；杨如意等[22]基于LDA模型，融合作者和时间两个外部特征，以展示文档内容、主题和作者之间的动态关系。
+
+综上，笔者借助LDA经典模型，对计算机科学文献进行主题抽取，并对各个主题的内容和强度进行细致分析，以期深入了解我国计算机科学在 2006 年-2015年期间的研究状态。
+
+# 3数据与实验
+
+# 3.1 数据来源
+
+以《中文核心期刊要目总览(2014年版)）为基准选取"TP自动化技术、计算机技术"学科中排名前10的期刊文献为目标样本，对计算机科学领域的文献话题进行提取和分析。研究数据来自中国科学引文数据库，具体检索策略为：出版物名称 $\vdots = ^ { \cdot }$ “计算机学报”OR“软件学报”OR“自动化学报”OR“计算机研究与发展”OR“控制与决策”OR“中国图象图形学报”OR“系统仿真学报”OR"计算机辅助设计与图形学学报”OR“计算机应用”OR“计算机科学”，时间跨度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 2006-2015，研究方向 $\bullet ^ { \bullet }$ ‘ComputerScience"，文献类型$\ c =$ “Article"，选取字段"英文标题(TI)、英文关键字(DE)、英文摘要(AB)、来源期刊(SO)和发表时间(PY)"，得到31983条记录。由于本文试图通过分析科技文献的摘要来提取主题，因此首先需要删除前言、致谢等非科技文献，其次删除标题、关键词、摘要不完整的文献最后获得29621条文献记录。
+
+2006年-2015年期间，样本中各个期刊的计算机科学类文献占比如图1所示。占比较大的依次是《计算机应用》 $( 2 4 \% )$ 、《计算机科学》 $( 2 2 \% )$ 、《系统仿真学报》 $( 1 6 \% )$ ，这是由于这三个期刊的发文数量一直较大。
+
+![](images/234e316adf83c76e63bf843dd48cc4f31095026ec76c93ec9879bfeaf6df0029.jpg)  
+图1样本中各个期刊的计算机科学类文献占比
+
+样本中计算机科学类文献数量在2006年-2015年的变化情况如图2所示。2006年-2009 年文献数量相对比较平稳，随后出现一个下降趋势。
+
+![](images/0121759168b7cd3aed0b4d29b4ce97e753df30cf97eabdb602dd65949edc945b.jpg)  
+图22006年-2015年样本文献年度总量变化趋势
+
+# 3.2文献数据预处理与LDA参数设置
+
+主题模型的数据输入格式为文档-词矩阵，一行表示一个文档，一列表示一个词。矩阵的条目 $\mathbf { m } _ { \mathrm { i j } }$ 表示第j个词汇出现在第i个文档中的次数。矩阵的行数等于语料库中的文档数，矩阵的列数等于词汇库中词汇量的大小。因而得到文献数据后，需要对文献进行预处理，以得到文档-词矩阵。本文借用开源软件R中的tm包对文献数据进行预处理，首先将每篇文献的英文标题、英文关键字和英文摘要分别合并，得到29621个文档；再将文档文本化，形成一个语料，并依次去除标点符号及数字，以及与主题内容无关的停顿词(如and，then，paper)；最后将语料中的词进行词根化，并删除在少于3个文档中出现的词，从而得到一个
+
+29 621行10405列的文档-词矩阵。
+
+得到文档-词矩阵后，借助开源软件R中的topicmodels包[23]，构建LDA 模型。在构建模型前需要确定模型的最优主题数，故设定文档-主题分布0的参数 $\mathrm { \sf { a } } { = } 0 . 1$ ，主题-词分布 $\varphi$ 的参数 $\scriptstyle { \{ \beta = 0 . 1 \atop }$ ，迭代次数iter $= 1 0 0 0$ ，选择GibbsSampling估计模型的后验参数。首先将主题数K依次定为5-50，发现K在17与20之间，模型的困惑度较低。因此将主题数依次设定为17、18、19、20，运行LDA模型，观察主题之间的语义排他性与主题内部的语义一致性[1]，发现主题数为18的主题模型，能较好地涵盖计算机领域的研究内容。因此将主题数 $\mathrm { K } { = } 1 8$ 作为本实验的最优主题数。
+
+LDA模型的运行结果主要有两个：29621篇文献的主题分布 $\theta _ { \mathrm { i , j } } ,$ 其中 $\theta _ { \mathrm { i , j } }$ 表示文献i中主题j的概率；18 个主题的词项分布 $\varphi _ { \mathrm { j , v } } ,$ 其中 $\boldsymbol { \Phi } _ { \mathrm { j , v } }$ 表示主题j中词 $\mathbf { v }$ 的概率。
+
+# 3.3 实验结果与分析
+
+(1）文献-主题分布与主题-词分布
+
+根据LDA模型的实验结果，得到29621篇文献的主题分布 $\theta _ { \mathrm { i , j } }$ 和18个主题的词项分布 $\varphi _ { \mathrm { j , v } }$ ，如表1和表2所示。 $\theta _ { 1 , 1 4 } { = } 0 . 8 4 1 7$ 表明文献1的主要研究内容为主题14，即"检测算法”。根据表1可进行主题强度分析，也可对文档进行分类；根据表2的高概率主题词，可为每个主题命名，同时分析主题的内容。
+
+表1计算机科学类文献的主题分布  
+
+<html><body><table><tr><td>0ij</td><td>1</td><td>2</td><td>3</td><td>4</td><td>：</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>1</td><td>0.0098</td><td>0.0009</td><td>0.0009</td><td>0.0009</td><td>：</td><td>0.8417</td><td>0.0009</td><td>0.0009</td><td>0.0098</td><td>0.0009</td></tr><tr><td>2</td><td>0.0010</td><td>0.0010</td><td>0.0317</td><td>0.2464</td><td>：</td><td>0.5634</td><td>0.0010</td><td>0.0112</td><td>0.0112</td><td>0.0215</td></tr><tr><td>3</td><td>0.0010</td><td>0.0010</td><td>0.0110</td><td>0.8527</td><td>：</td><td>0.0010</td><td>0.0210</td><td>0.0010</td><td>0.0010</td><td>0.0010</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>29619</td><td>0.0007</td><td>0.0571</td><td>0.0007</td><td>0.0078</td><td>：</td><td>0.4168</td><td>0.0007</td><td>0.0007</td><td>0.0007</td><td>0.0007</td></tr><tr><td>29620</td><td>0.0017</td><td>0.0017</td><td>0.0017</td><td>0.0017</td><td>：</td><td>0.3027</td><td>0.0017</td><td>0.0184</td><td>0.0017</td><td>0.0017</td></tr><tr><td>29621</td><td>0.0011</td><td>0.0011</td><td>0.5981</td><td>0.0011</td><td>：</td><td>0.0544</td><td>0.0011</td><td>0.0011</td><td>0.0757</td><td>0.0544</td></tr></table></body></html>
+
+根据表2的主题-词分布，发现主题内部的词高度相关。如主题"安全密钥"中高概率词 secur、scheme、key、protocol、signatur 和 authent，均与主题"密钥安全"紧密相关。这表明LDA模型在提取计算机科学领域文献的潜在主题方面是有效的。
+
+(2）主题强度分析
+
+主题强度主要描述了主题在某一时期的热门程度，本文中用0表示。在某一时期关于某个主题的文献数量越多，说明该主题的强度越高，可以被认为是热点主题。为了解计算机领域的主题变化模式，笔者将时间"年份"作为变量，将文档-主题分布0按年计算，得出各个主题的主题强度分布情况。根据主题每年的强度大小，可做一个自回归模型，找出主题强度上升的研究主题及主题强度下降的研究主题。本实验中，在 $9 5 \%$ 的置信水平下，18个主题中有7个趋势上升的主题和6个趋势下降的主题，其余5个研究主题的趋势变化不明显。表3是主题强度发生显著变化的13个主题。
+
+表2计算机科学类文献主题的6个高概率词  
+
+<html><body><table><tr><td colspan="2">主题标识</td><td colspan="4">主题的6个高概率词</td><td></td></tr><tr><td>1安全密钥</td><td>secur</td><td> scheme</td><td>key</td><td>protocol</td><td> signatur</td><td>authent</td></tr><tr><td>2计算系统</td><td>system</td><td>comput</td><td>agent</td><td>model</td><td>applic</td><td>technolog</td></tr><tr><td>3无线传感网络</td><td>network</td><td>node</td><td>rout</td><td>sensor</td><td>wireless</td><td>algorithm</td></tr><tr><td>4图像分割</td><td>imag</td><td>segment</td><td>algorithm</td><td>color</td><td>region</td><td>edg</td></tr><tr><td>5控制系统</td><td>model</td><td>control</td><td>system</td><td>simul</td><td>predict</td><td>time</td></tr><tr><td>6点线面</td><td>point</td><td>surfac</td><td>curv</td><td>algorithm</td><td>model</td><td>mesh</td></tr><tr><td>7图像处理</td><td>algorithm</td><td>code</td><td>watermark</td><td>imag</td><td>transform</td><td>compress</td></tr><tr><td>8并行系统</td><td>parallel</td><td>perform</td><td>data</td><td>system</td><td>memori</td><td>comput</td></tr><tr><td>9特征识别</td><td>featur</td><td>recognit</td><td>classif</td><td>vector</td><td>face</td><td>algorithm</td></tr><tr><td>10 数据挖掘</td><td>data</td><td>algorithm</td><td>cluster</td><td>queri</td><td>tree</td><td>set</td></tr><tr><td>11资源调度</td><td>schedul</td><td>time</td><td>resourc</td><td>algorithm</td><td>task</td><td>system</td></tr><tr><td>12系统仿真</td><td>simul</td><td>system</td><td>model</td><td>virtual</td><td>design</td><td>process</td></tr><tr><td>13 软件服务</td><td>servic</td><td>model</td><td>web</td><td>softwar</td><td>system</td><td>architectur</td></tr><tr><td>14 检测算法</td><td>algorithm</td><td>object</td><td>detect</td><td>track</td><td>motion</td><td>match</td></tr><tr><td>15 优化算法</td><td>algorithm</td><td>optim</td><td>search</td><td>particl</td><td>genet</td><td>solv</td></tr><tr><td>16 测试模型</td><td>model</td><td>test</td><td>system</td><td>net</td><td>program</td><td>softwar</td></tr><tr><td>17语义信息模型</td><td>semant</td><td>inform</td><td>retriev</td><td>model</td><td>text</td><td>web</td></tr><tr><td>18互联网安全</td><td>network</td><td>detect</td><td>model</td><td>trust</td><td>evalu</td><td>system</td></tr></table></body></html>
+
+(注：表中的词已经过词根化处理。)
+
+表3主题强度发生显著变化的主题  
+
+<html><body><table><tr><td colspan="2">主题强度上升的主题</td><td colspan="2">主题强度下降的主题</td></tr><tr><td>主题标签</td><td>上升趋势</td><td>主题标签</td><td>下降趋势</td></tr><tr><td>图像分割</td><td>0.318***(0.060)</td><td></td><td>无线传感网络 -0.140**(0.058)</td></tr><tr><td>并行系统</td><td>0.218** (0.049)</td><td>控制系统</td><td>-0.189** (0.065)</td></tr><tr><td>特征识别</td><td>0.297***(0.035)</td><td>点线面</td><td>-0.142** (0.048)</td></tr><tr><td>检测算法</td><td>0.186**(0.039)</td><td>图像处理</td><td>-0.167***(0.027)</td></tr><tr><td>优化算法</td><td>0.138** (0.035)</td><td>资源调度</td><td>-0.450** (0.120)</td></tr><tr><td>语义信息模型0.160**(0.037)</td><td></td><td>软件服务</td><td>-0.479***(0.050)</td></tr><tr><td>互联网安全</td><td>0.185*** (0.023)</td><td></td><td></td></tr></table></body></html>
+
+(注:\*\*\*表示 $9 9 \%$ 的置信水平，\*\*表示 $9 5 \%$ 的置信水平。)
+
+主题"图像分割"与“特征识别"的主题强度上升较快，主要源于大数据时代下，人们越来越注重借助计算机技术对文本进行分析，以减少相关研究者的工作量。主题"资源调度"与“软件服务"的主题强度下降较快，但需要注意主题强度下降并不表明该主题不受研究者关注，只是其受关注程度有下降的趋势。
+
+为观察不同时期的主题强度差异，可将2006年-2015年划分为两个时间窗口期：2006年-2010 年与2011年-2015年。表4是不同时期下的5个热点主题及其主题强度。据表4可知，2006年-2015年期间，热点主题依次为"图像分割”、“无线传感网络”、“数据挖掘”、“系统仿真”、“检测算法”。同时，对比不同时间窗口的主题强度，发现主题"图像分割”、“无线传感网络”、“数据挖掘"的主题强度始终较高；主题"特征识别"在2011年-2015年期间的主题强度较高，因而其相对其他主题来说，可被定义为新兴主题。
+
+表4不同时期的5个高强度主题  
+
+<html><body><table><tr><td colspan="2">2006-2015</td><td colspan="2">2006-2010</td><td colspan="2">2011-2015</td></tr><tr><td>主题</td><td>强度</td><td>主题</td><td>强度</td><td>主题</td><td>强度</td></tr><tr><td>图像分割</td><td></td><td>0.0751系统仿真</td><td>0.0741</td><td>图像分割</td><td>0.0861</td></tr><tr><td></td><td>无线传感网格0.0701</td><td>无线传感网络0.0727</td><td></td><td>数据挖掘</td><td>0.0682</td></tr><tr><td>数据挖掘</td><td></td><td>0.0667图像分割</td><td>0.0676</td><td>检测算法</td><td>0.0663</td></tr><tr><td>系统仿真</td><td></td><td>0.0623软件服务</td><td>0.0665</td><td>无线传感网络0.0663</td><td></td></tr><tr><td>检测算法</td><td></td><td>0.0617数据挖掘</td><td></td><td>0.0656 特征识别</td><td>0.0646</td></tr></table></body></html>
+
+# (3）文献聚类
+
+为更好地了解不同主题的研究状态，根据表1中的概率主题分布 $\begin{array} { r } { \Theta _ { \mathrm { i , j } } , } \end{array}$ ，对每个主题j下的文献数量进行分析。本文设定0的阈值为 $0 . 4 ^ { [ 1 1 ] }$ ，即如果文献i在主题j中的概率值大于等于0.4，则文献i属于主题j。表5是每个主题下的文献数量及其占比。
+
+表5各个主题下的文献数量及占比 $\left( \Theta \geqslant 0 . 4 \right)$   
+
+<html><body><table><tr><td>主题</td><td>文档数 比例</td></tr><tr><td>安全密钥 1144</td><td>4.24%</td></tr><tr><td>计算系统 925</td><td>3.43%</td></tr><tr><td>无线传感网络 2146</td><td>7.96%</td></tr><tr><td>图像分割 2 213</td><td>8.21%</td></tr><tr><td>控制系统 1159</td><td>4.30%</td></tr><tr><td>点线面 1 417</td><td>5.26%</td></tr><tr><td>图像处理 1258</td><td>4.67%</td></tr><tr><td>并行系统 1373</td><td>5.09%</td></tr><tr><td>特征识别 1 449</td><td>5.37%</td></tr><tr><td>数据挖掘 1 644</td><td>6.10%</td></tr><tr><td>资源调度 928</td><td>3.44%</td></tr><tr><td>系统仿真 1781</td><td>6.61%</td></tr><tr><td>软件服务 1595</td><td>5.92%</td></tr><tr><td>检测算法 1 749</td><td>6.49%</td></tr><tr><td>优化算法 1190</td><td>4.41%</td></tr><tr><td>测试模型 1508</td><td>5.59%</td></tr><tr><td>语义信息模型 1170</td><td>4.34%</td></tr><tr><td>互联网安全 1298</td><td>4.81%</td></tr><tr><td>交叉主题 1014</td><td>3.76%</td></tr><tr><td>合计 26 961</td><td>100%</td></tr></table></body></html>
+
+根据文献在每个主题的占比，发现主题“图像分割”、“无线传感网络”、“系统仿真”、“检测算法”、“数据挖掘"的文献数量均相对较高，与表4的结果趋同，再次表明LDA模型适合于挖掘计算机科学类文献的研究主题。
+
+为更好地理解主题的研究内容，可以根据文档的概率主题分布 $\theta _ { \mathrm { i , j } } ,$ 对各个主题选择与其高度相关的文献。表6展示了与热点主题"图像分割”、“无线传感网络”、“系统仿真”、“检测算法"及"数据挖掘"高度相关的3个典型文档。通过阅读与主题高度相关的的典型文档，能够更好地把握主题的研究内容。
+
+表6对热点主题进行文献举例  
+
+<html><body><table><tr><td>主题</td><td>代表性文档(作者，年份，论文题目)</td></tr><tr><td>分割模型》</td><td>张建伟等(2013)，《局部熵驱动下的脑MR图像分割与偏 移场恢复耦合模型》 图像刘瑞娟等(2012)，《融合局部和全局图像信息的活动轮廓 任鸽等(2011),《基于局部区域拟合模型的磁共振图像分割</td></tr><tr><td>无线 传感器 网络</td><td>徐昕等(2010),《基于链路质量的无线传感器网络任播路由 协议》 郝晓辰等(2009),《基于路径损耗的无线传感器网络分布式 拓扑控制算法》 李小亚等(2008),《一种异构传感器网络的能量有效路由 算法》 丁海燕等(2009)，《基于HLA的舰空导弹反导仿真系统的</td></tr><tr><td>系统 仿真</td><td>设计与实现》 赵旭东等(2009)，《ARJ21飞机工程模拟器关键技术研究》 张禹等(2008)，《水下滑翔机器人实时仿真平台研究与 开发》 李伟生等(2014),《基于时空背景模型的自适应运动目标检</td></tr><tr><td>检测</td><td>测方法》 算法孟苑等(2008)，《基于运动点积累的视频运动目标提取》 王哲等(2008)，《一种基于立体视觉的运动目标检测算法》</td></tr><tr><td>挖掘算法》</td><td>郭鑫等(2011)，《动态数据库中的频繁子树挖掘算法》 数据田卫东等(2008)，《基于简化分辨矩阵的粗糙集属性约简 陈明等(2006)，《一种有效的基于图的关联规则挖掘算法》</td></tr></table></body></html>
+
+(注：本文定义若 $\Theta _ { \mathrm { i , j } } > 0 . 9 5$ ，则高度相关。)
+
+# 4结语
+
+本文借助LDA主题模型，结合模型困惑度和对主题内容的经验判断来确定模型的最优主题数，同时考虑文献的发表时间，针对29621篇计算机科学文献挖掘出18个潜在主题，并对这18个主题的内容和强度进行研究，通过分析找到7个趋势上升的主题和6个趋势下降的主题。根据LDA模型输出的29621个文档的概率主题分布，设定主题概率阈值，将文献分配到各个主题下进行数量统计，并对热点主题进行文档列举，细致了解热点主题的研究内容。结果表明，LDA模型能够较为准确地提取计算机科学文献的研究主题，有利于科研人员对该学科领域的发展状态进行初步了解，同时把握未来的研究方向，寻找新兴主题。
+
+当然，本文亦存在不足之处：
+
+(1）本文选取的样本数量较大(29 621篇文献)，具
+
+有一定的实践意义，但仅考虑国内计算机科学领域的专业期刊，未考虑国内学者在国内综合类优秀期刊及国外优秀期刊上发表的计算机科学类文献，未来研究可考虑扩大样本容量进行主题分析，以充分了解我国计算机科学领域的发展状态;  
+(2)LDA 模型假定主题之间相互独立，而同一个学科领域的主题之间往往存在不可分割的联系，因此未来研究中，可以将相关主题模型(Correlated TopicModel)[24]的思想加入到模型中;  
+(3）本文仅考虑发表时间这一个外部特征，未来研究中可考虑借助结构主题模型(Structural TopicModel)[25-27]，加入作者特征、期刊类别等外部信息，更精确地了解一个学科领域的研究状态。
+
+# 参考文献：
+
+[1] Blei D M,Ng AY,Jordan MI.Latent Dirichlet Allocation [J]. Journal of Machine Learning Research,2003,3:993-1022.   
+[2] BleiD M.Probabilistic Topic Models [J].Communications of the ACM,2012,55(4): 77-84.   
+[3] Griffiths TL,Steyvers M.Finding Scientific Topics [J]. Proceedings of the National Academy of Sciences,2004, 101(S1): 5228-5235.   
+[4] 郭玉，蔚海燕．我国计算机科学发展态势文献计量分析[J]. 计算机应用研究,2007,24(12):28-31.(Guo Yu,Yu Haiyan. Biblio-metrilogical Analysis on Development Trendsof Computer Science in China [J].Application Research of Computers,2007,24(12):18-31.)   
+[5] 陈国良，孙广中，徐云，等．并行计算的一体化研究现状 与发展趋势[J]．科学通报，2009，54(8):1043-1049.(Chen Guoliang，Sun Guangzhong，Xu Yun，et al．Integrated Research of Parallel Computing: Status and Future [J]. Chinese Science Bulletin,2009,54(8):1043-1049.)   
+[6] 章锦文，马远良．神经网络计算机的现状与发展趋势[J]. 计算机科学，1993，20(6):24-27．(Zhang Jinwen，Ma Yuanliang.The Development Situation and Direction of Neurocomputer [J]. Computer Science,1993,20(6): 24-27.)   
+[7] Zheng B，McLean D C，Lu X.Identifying Biological Concepts from a Protein-related Corpus with a Probabilistic Topic Model[J].BMC Bioinformatics,2006,7(4): 58.   
+[8] Hall D,Jurafsky D,Manning C D. Studying the History of Ideas Using Topic Models [C]. In: Proceedings of the Conference on Empirical Methods in Natural Language Processing.2008:363-371.   
+[9] Wu H,Wang M,Feng J,et al.Research Topic Evolution in “Bioinformatics"[C]. In: Proceedings of the 4th International Conference on Bioinformatics and Biomedical Engineering (iCBBE).IEEE,2010: 1-4.   
+[10] Sugimoto C R,Li D, Russell T G, et al. The Shifting Sands of Disciplinary Development:Analyzing North American Library and Information Science Dissertations Using Latent Dirichlet Allocation[J]. Journal of the American Society for Information Science and Technology, 2011,62(1): 185-204.   
+[11]Piepenbrink A,Nurmammadov E. Topics in the Literature of TransitionEconomiesandEmergingMarkets[J]. Scientometrics,2015,102(3): 2107-2130.   
+[12]贺亮，李芳．科技文献话题演化研究[J]．现代图书情报技 术,2012(4): 61-67. (He Liang,Li Fang.Topic Evolution in Scientific Literature [J].New Technology of Library and Information Service,2012(4): 61-67.)   
+[13] 关鹏，王曰芬，傅柱.不同语料下基于 LDA 主题模型的科 学文献主题抽取效果分析[J]．图书情报工作，2016,60(2): 112-121.(Guan Peng,Wang Yuefen,Fu Zhu. Effect Analysis of Scientific Literature Extraction Based on LDA Topic Model with Different Corpus [J].Library and Information Service,2016,60(2): 112-121.)   
+[14] 李湘东，张娇，袁满.基于 LDA 模型的科技期刊主题演化 研究[J]．情报杂志,2014,33(7):115-121.(Li Xiangdong, Zhang Jiao,Yuan Man. On Topic Evolution of Scientific Journal Based on LDA Model [J]. Journal of Intelligence, 2014,33(7): 115-121.)   
+[15] 王曰芬，傅柱，陈必坤.采用 LDA 主题模型的国内知识流 研究结构探讨：以学科分类主题抽取为视角[J].现代图书 情报技术，2016(4):8-19.(Wang Yuefen，Fu Zhu,Chen Bikun.Analyzing Knowledge Structure Research with LDA Model[J]. New Technology of Library and Information Service,2016(4): 8-19.)   
+[16]王萍．基于概率主题模型的文献知识挖掘[J]．情报学报, 2011，30(6):583-590.(Wang Ping.Literature Knowledge Mining Based on Probabilistic Topic Model[J]. Journal of the China Society for Scientific and Technical Information,2011, 30(6): 583-590.)   
+[17]叶春蕾，冷伏海．基于引文—主题概率模型的科技文献主 题识别方法研究[J]．情报理论与实践，2013，36(9): 100-103.(Ye Chunlei, Leng Fuhai. Discovering the Topic of Science Literature Based on Citation-Topic Model[J]. Information Studies:Theory & Application，2013,36(9): 100-103.)   
+[18]王平．基于层次概率主题模型的科技文献主题发现及演化 [J]．图书情报工作,2014,58(22):70-77.(Wang Ping.Topic Extraction and Evolution for Scientific Literature Based on Hierarchical Probabilistic Topic Model [J].Libraryand Information Service,2014,58(22): 70-77.)   
+[19]王金龙，徐从富，耿雪玉．基于概率图模型的科研文献主 题演化研究[J]．情报学报，2009，28(3)：347-355.(Wang Jinlong,Xu Congfu,Geng Xueyu.Study on Research Topic Evolution Based on Probabilistic Graphical Models [J]. Journal of the China Society for Scientific and Technical Information,2009,28(3): 347-355.)   
+[20]李湘东，廖香鹏，黄莉.LDA 模型下书目信息分类系统的 研究与实现[J]．现代图书情报技术，2014(5)：18-25.(Li Xiangdong，Liao Xiangpeng，Huang Li. Researchand Implementation of Bibliographic Information Classification System in LDA Model [J].New Technology of Library and Information Service,2014 (5):18-25.)   
+[21]秦晓慧，乐小虬．基于LDA主题关联过滤的领域主题演化 研究[J].现代图书情报技术,2015(3):18-25.(Qin Xiaohui, Le Xiaoqiu.Topic Evolution Research on a Certain Field Based on LDA Topic Association Filter[J]. New Technology ofLibrary and Information Service,2015(3):18-25.)   
+[22]杨如意，刘东苏，李慧．一种融合外部特征的改进主题模 型[J].现代图书情报技术,2016(1):48-54.(Yang Ruyi,Liu Dongsu,Li Hui.An Improved Topic Model Integrating ExtraFeatures [J].New Technology of Library and Information Service,2016 (1): 48-54.)   
+[23]Grun B,Hornik K. Topicmodels:An R Package for Fitting Topic Models [J].Journal of Statistical Software,2011, 40(13): 1-30.   
+[24]BleiD M,LaffertyJD.ACorrelated Topic Modelof Science [J].The Annals of Applied Statistics,2007,1(1):17-35.   
+[25]Roberts M E,Stewart B M,Tingley D,et al.The Structural Topic Model and Applied Social Science [J].Medical Journal of Australia,2013,155(6):419-420.   
+[26]Roberts M E,Stewart B M,Tingley D.stm:R Package for Structural Topic Models [J].General Information，2014, 57(1): 445-460.   
+[27]Roberts ME,StewartBM,TingleyD,et al.Structural Topic Models for Open-Ended Survey Responses [J].American Journal of Political Science,2014, 58(4):1064-1082.
+
+# 作者贡献声明：
+
+杨海霞：提出研究思路，设计研究方案，论文撰写及最终版本修订;高宝俊：提出研究思路，设计研究方案，提出论文修改建议，论文最终版本修订;孙含林：采集、清洗和分析数据，提出论文修改建议。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:haixiayang@whu.edu.cn。[1]杨海霞，高宝俊，孙含林．2006-2015计算机科学文献数据.csv.文献数据.
+
+收稿日期:2016-06-02  
+收修改稿日期:2016-07-31
+
+# Extracting Topics of Computer Science Literature with LDA Model
+
+Yang HaixiaGao BaojunSun Hanlin (Economics and Management School, Wuhan University, Wuhan 430072, China)
+
+Abstract:[Objective] This paper employs text mining technology to automatically identify research topics from large amounts of scientific literature and then detects future trends.[Methods]First,we used the LDA model to find both topical prevalence and contents of articles published by the top ten computer science journals in China.Second,we described the evolution of major topics with the help ofpublishing dates.[Results]We extracted 18 topics from 29,621 computer science papers and then identified 7 trending topics as well as 6 lesspopular ones.[Limitations] Our study did not include papers published overseas by Chinese authors.[Conclusions]The proposed method could help us learn the evolution of computer science research and then grasp the emerging trends.
+
+Keywords: Computer scienceLDA Topic miningTopic prevalence Document cluster

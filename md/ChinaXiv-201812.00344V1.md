@@ -1,0 +1,229 @@
+1 不同精油与酸化剂组合对肉仔鸡肠炎沙门氏菌感染的控制效果研究
+
+2 赵景鹏」 李培勇1\*王红玉² 宋益贞² 孙淑红」林　海1\*\*（1.山东农业大学动物科技学院，山东省动物生物工程与疾病防治重点实验室，泰安
+
+271018；2.上海美农生物科技股份有限公司，上海201807)
+
+5摘要：本试验旨在研究不同精油与酸化剂组合对肉仔鸡肠炎沙门氏菌感染的控制效果。选  
+6 择840 只无肠炎沙门氏菌感染的1日龄爱拔益加（Arbor Acres）肉仔鸡，随机分为7组，分  
+7 别饲养在7个构造相同但互不相通的房间内，每组6个重复，每个重复20只鸡，公母各占  
+8 1/2。1组（对照组）饲喂基础饲粮，2组（抗生素组）饲喂在基础饲粮中添加 $4 0 \ \mathrm { g / t }$ 盐酸恩  
+9 诺沙星的试验饲粮，3\~7组（精油与酸化剂组）饲喂在基础饲粮中分别添加 $8 0 0 ~ \mathrm { g / t }$ 不同有  
+10 机酸与精油组合（组方A、B、C、D、E）的试验饲粮。14日龄时，每只鸡灌服 $2 0 0 ~ \mu \mathrm { L }$ SDBL-1  
+11 肠炎沙门氏菌菌液（ $\mathrm { 5 } { \times } 1 0 ^ { 7 } \mathrm { C F U / m L }$ )。攻毒后2、7和 $\boldsymbol { 1 4 \mathrm { d } }$ ，即16、21和28日龄时，每个  
+12 重复随机选2只鸡，采血、屠宰、取样。试验期 $2 8 \mathrm { d }$ ，分1\~21日龄和 22\~28 日龄2 个饲养  
+13 阶段。结果发现：1)在攻毒前、后，与对照组相比，组方A显著降低肉仔鸡的料重比( $( P { < } 0 . 0 5 )$ ，  
+14 而组方D和E分别仅在攻毒后和攻毒前改善生产性能（ $\scriptstyle P < 0 . 0 5$ )。2）基于组织载菌量，组  
+15 方A 和D对肉仔鸡肠炎沙门氏菌感染表现出良好的控制效果。3）感染肠炎沙门氏菌后，与  
+16 对照组相比，组方显著降低 28日龄肉仔鸡的血清肿瘤坏死因子 $\mathbf { \nabla } \cdot \mathbf { a }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）含量（ $. P { < } 0 . 0 5 )$ ，  
+17 显著增加16 日龄血清免疫球蛋白G（IgG）含量 $( P { < } 0 . 0 5 )$ )，而组方E正好相反。由此表明，  
+18 组方A和D均能抑制肉仔鸡肠炎沙门氏菌，其中组方A适合长期饲喂，而组方D仅推荐在  
+19 感染状态下使用。
+
+关键词：精油；有机酸；肠炎沙门氏菌；载菌量；肉仔鸡中图分类号：S831.5 文献标识码：A 文章编号：1006-267X(2018)××-××××-×x
+
+2 沙门氏菌病是由沙门氏菌引起的主要人畜共患病和食源性疾病，而家禽被认为是沙门氏  
+3菌的主要宿主[。沙门氏菌既可由患病种鸡通过种蛋垂直感染雏鸡，也可在鸡群中由排泄物、
+
+污染物或媒介物经消化道、呼吸道等水平传播。随着美国国家家禽改良计划（NPIP）的实施，我国国内饲养的美国进口种鸡已较好地控制了鸡白痢和鸡伤寒这2种血清型沙门氏菌，但在地方品系或国内自主培育的品种中，该病还时有发生。目前，威胁我国蛋鸡群、肉鸡群的主要病原之一是禽副伤寒-肠炎沙门氏菌，其不仅降低鸡群的生产性能和鸡肉、鸡蛋品质，造成严重的经济损失，还通过禽产品导致人类食物中毒事件，引发公共卫生问题[2-3]。在沙门氏菌防控过程中，抗生素和疫苗发挥了重要作用，但前者的不合理使用，令抗药菌株大量出现，而后者的保护效力仅局限于同种或同一血清型的沙门氏菌感染，且干扰鸡群净化[4-6]。为有效控制沙门氏菌危害，亟需寻找适用于家禽生产的绿色、高效抗沙门氏菌产品。活体和离体试验都表明，有机酸如苯甲酸、中短链脂肪酸和植物提取物如精油（肉桂醛、香芹酚、丁香酚、百里香酚等）对沙门氏菌有较强的抑制作用，且二者具有协同功效[7-9]。有机酸以未解离的分子形式存在时，能够穿透菌体细胞壁，扰乱“pH敏感菌”的正常生理，而精油可以破坏菌体细胞膜，有利于有机酸进入菌体细胞质。为防止上消化道尤其是嗪囊的吸收，禽用有机酸或精油产品常被包被，以在通过胃肠道时缓慢释放，保证其对小肠末端微生态平衡的调控效果[10-1]。有机酸与精油的组合效应不仅取决于它们各自的抗菌活性及配伍，还依赖于二者与包被技术间复杂的互作关系。因此，科学筛选用以复配的单体原料至关重要。本研究设计了5个有机酸与天然植物精油的组方，经缓释加工，比较评价了其抗肉仔鸡肠炎沙门氏菌感染的作用，以期为今后该系列产品的开发和使用提供依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+精油与有机酸各组方试品由上海美农生物科技股份有限公司提供，采用自乳化缓释固体分散技术生产。肠炎沙门氏菌由本实验室于2015年从山东泰安地区肉仔鸡病例中分离、鉴定而来，命名为SDBL-1。盐酸恩诺沙星购自浙江国邦药业有限公司，有效成分含量为 $98 \%$ 。
+
+# 1.2试验设计与饲养管理
+
+从当地孵化场购买1日龄爱拔益加（Arbor Acres）肉仔鸡900只，采集泄殖腔棉拭子，检测有无肠炎沙门氏菌感染，从中选出体重相近的阴性个体 840只，随机分为7组，分别饲养在7个构造相同但互不相通的房间内，每组6个重复，每个重复20 只鸡，公母各占 1/2。试鸡采用叠层（3层，2个重复/层）笼养方式，2笼（ $1 . 4 8 ~ \mathrm { m } { \times } 0 . 6 8 ~ \mathrm { m }$ ）为1个重复，每笼饲养10 只鸡。1组（对照组）饲喂基础饲粮（表1)，2组（抗生素组）饲喂在基础饲粮中添加 $4 0 \ \mathrm { g / t }$ 盐酸恩诺沙星的试验饲粮， $3 { \sim } 7$ 组（精油与酸化剂组）饲喂在基础饲粮中分别添加$8 0 0 \ \mathrm { g / t }$ 不同有机酸与精油组合（表2）的试验饲粮。14日龄时，每只鸡灌服 $2 0 0 ~ \mu \mathrm { L }$ SDBL-1肠炎沙门氏菌菌液（ $\mathrm { 5 } { \times } 1 0 ^ { 7 } \mathrm { C F U / m L }$ )。攻毒后2、7和14d，即16、21和28日龄时，每个重复随机选2只鸡（1只/笼，12只/组)，采血、屠宰、取样。试验期 $2 8 { \mathrm { ~ d ~ } }$ ，分1\~21日龄和22\~28 日龄2个饲养阶段。鸡群全程自由采食和饮水，各房间温度、湿度和光照控制一致，符合白羽肉鸡对环境的要求。
+
+# 表1基础饲粮组成及营养水平 (饲喂基础)
+
+Table 1Composition and nutrient levels of basal diets (as-fed basis)
+
+%
+
+1\~21日龄 22\~28日龄项目Items1 to 21 days of age 22 to 28 days of a{原料Ingredients玉米Corm $( 8 . 5 \%$ CP) 60.47 64.07豆粕 Soybean meal $4 6 \%$ CP) 33.74 28.84豆油 Soybean oil 1.50 3.00石粉 Limestone 1.04 1.17磷酸氢钙 CaHPO4 2.00 1.85食盐 NaCl 0.32 0.29$L ^ { - }$ 赖氨酸盐酸盐 $L$ -Lys·HC1 $( 9 9 \% )$ 0.17 0.15DL-蛋氨酸DL-Met $( 9 8 \%$ 1 0.25 0.18氯化胆碱 Choline chloride $( 5 0 \% )$ （2 0.26 0.20维生素预混料 Vitamin premix1) 0.05 0.05矿物质预混料 Mineral premix2) 0.20 0.20合计 Total 100.00 100.00营养水平 Nutrient levels3)粗蛋白质 CP 21.00 19.00代谢能 ME/(MJ/kg) 12.13 12.68
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>钙Ca</td><td>0.90</td><td>0.90</td></tr><tr><td>非植酸磷 Non-phytate P</td><td>0.45</td><td>0.42</td></tr><tr><td>赖氨酸Lys</td><td>1.24</td><td>1.10</td></tr><tr><td>蛋氨酸Met</td><td>0.54</td><td>0.45</td></tr><tr><td>总含硫氨基酸 Total sulfur amino acids</td><td>0.85</td><td>0.75</td></tr><tr><td>苏氨酸Thr</td><td>0.82</td><td>0.74</td></tr><tr><td>色氨酸Trp</td><td>0.26</td><td>0.23</td></tr></table></body></html>
+
+1维生素预混料为每千克饲粮提供 Vitamin premix provided the following per $\mathrm { k g }$ of diets: VA (retinyl acetate) 10 000 IU, $\mathrm { V D } _ { 3 }$ (cholecalciferol) 2 000 IU,VE (DL-α-tocopheryl acetate) 11.0 IU，VK $1 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 . 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 6 \deg , \mathrm { V B } _ { 1 2 } 0 . 0 1 2 \deg$ ，烟酸niacin $6 6 . 0 \mathrm { m g }$ ， 泛酸 pantothenic acid (calcium pantothenate) $1 0 . 0 \mathrm { m g }$ ，生物素 biotin $0 . 2 0 \mathrm { m g }$ ，叶酸 folic acid （204号 $0 . 7 0 \mathrm { m g }$ 。   
+2矿物质预混料为每千克饲饲粮提供 Mineral premix provided the following per $\mathrm { k g }$ of diets: $\mathrm { M g \ 1 0 0 \ m g }$ ， $Z _ { \mathrm { n } } 7 5 ~ \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 6 5 ~ \mathrm { m g }$ ， $\mathrm { C u } 8 . 0 \mathrm { m g }$ ，Se $0 . 3 5 \mathrm { m g }$ 。   
+3计算值 Calculated values。
+
+# 表2不同有机酸与精油组方
+
+Table 2Different combinations of organic acid and essential oil   
+
+<html><body><table><tr><td>组方</td><td>有效成分</td><td>辅料</td></tr><tr><td>Combinations</td><td>Effective components</td><td>Excipients</td></tr><tr><td rowspan="2">A</td><td>香芹酚 Carvacrol 8%，百里香酚 Thymol8%，苯甲酸</td><td>二氧化硅 Silicon dioxide 40%，棕</td></tr><tr><td>Benzoic acid 2%，丁酸 Butyric acid 1%</td><td>榈油Palm oil25%，其他 Others 16%</td></tr><tr><td rowspan="2">B</td><td>百里香酚 Thymol 5%，香芹酚Carvacrol5%，芳樟醇</td><td>二氧化硅 Silicon dioxide 40%，棕</td></tr><tr><td>Linalool 5%，苯甲酸 Benzoic acid 2%</td><td>榈油 Palm oil 25%，其他 Others</td></tr><tr><td></td><td></td><td>18%</td></tr><tr><td>C</td><td>肉桂醛 Cinnamyl aldehyde1.5%，百里香酚 Thymol</td><td>二氧化硅 Silicon dioxide 40%，棕</td></tr><tr><td></td><td>0.8%，香芹酚Carvacrol6%，芳樟醇Linalool5%，苯 榈油 Palm oil 25%，其他 Others</td><td></td></tr></table></body></html>
+
+肉桂醛 Cinnamyl aldehyde $7 \%$ ，苯甲酸 Benzoic acid 二氧化硅 Silicon dioxide $40 \%$ ，棕$1 . 5 \%$ ，己酸Caproic acid $7 \%$ ，丁酸Butyric acid $1 \%$ 榈油 Palm oil $2 5 \%$ ，其他 Others$1 8 . 5 \%$
+
+香芹酚 Carvacrol $12 \%$ ，百里香酚Thymol $12 \%$ ，苯甲二氧化硅 Silicon dioxide $40 \%$ ，棕酸 Benzoic acid $3 \%$ ，丁酸Butyric acid $1 . 5 \%$ 榈油 Palm oil $2 5 \%$ ，其他 Others$6 . 5 \%$ （204号
+
+单体原料的选择基于体外抑菌试验，各组合及配比的确定兼顾抗菌、加工和商品特性。 The selection of individual components was based on bacteriostasis test in vitro. Antimicrobial properties， processing characteristics and commodity features were taken into account in determination of the composition and proportion.
+
+# 1.3 测定指标与方法
+
+1.3.1 生产性能
+
+于攻毒前（14日龄）和试验结束后（28日龄)，以重复为单位，对鸡群进行空腹称重并统计采食量，以计算平均日采食量、平均日增重、料重比；同时记录死亡和淘汰数，以计算死淘率。
+
+# 1.3.2 内脏器官指数
+
+于9、16、21、28日龄时，每个重复随机选2只鸡（1只/笼，12只/组)，称重、屠宰，取肝脏、脾脏和法氏囊，逐一称重，计算器官指数（ $1 0 0 \times$ 器官重/体重， $\%$ ）。
+
+# 1.3.3 组织载菌量
+
+于16、21、28日龄时，每个重复随机选2只鸡（1只/笼，12只/组)，称重、屠宰，取适量肝脏、脾脏和盲肠内容物，加入 $3 ~ \mathrm { m L }$ 无菌磷酸盐缓冲液（PBS)，冰浴匀浆 $2 ~ \mathrm { m i n }$ 并做10 倍系列梯度稀释。取 $1 0 0 \mu \mathrm { L }$ 原液及各浓度稀释液，均匀涂布于XLT-4琼脂平板表面，置生化培养箱， $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养 $2 4 \mathrm { h }$ 。挑取5个可疑菌落，经生化和血清学鉴定后，计算肠炎沙门氏菌数。
+
+# 1.3.4 血清生化指标
+
+于16、21、28日龄时，每个重复随机选2只鸡（1只/笼，12只/组)，翅下静脉采血 $2 { \mathrm { m L } }$ ，
+
+分离血清， $- 2 0 \mathrm { ~ \textdegree C }$ 保存，采用酶联免疫吸附（ELISA）法（试剂盒购自江苏雨桐生物科技有限公司）测定血清肿瘤坏死因子 $\mathfrak { a }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）、白细胞介素6（IL-6)、免疫球蛋白G（IgG)和分泌型免疫球蛋白A（SIgA）含量。
+
+# 1.4 统计分析
+
+使用 SAS9.0软件中GLM程序对试验数据进行单因素方差分析（one-wayANOVA），平均值采用 Tukey's HSD 法进行多重比较， $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果
+
+2.1 生产性能
+
+如表3所示，在正常饲养（未攻毒）条件下，与对照组相比，除组方D外，其余组方和盐酸恩诺沙星均显著降低1\~14日龄肉仔鸡的料重比（ $_ { \cdot } P { < } 0 . 0 5 )$ ；其中，组方A效果最好。在平均日采食量不变的前提下（ $P { > } 0 . 0 5 \$ )，这主要来源于平均日增重的提高（ $\scriptstyle P < 0 . 0 5 .$ ，提示组方A有促生长作用。
+
+感染肠炎沙门氏菌后，与对照组相比，除组方E显著降低15\~28日龄肉仔鸡的平均日采食量（ $\scriptstyle \cdot < 0 . 0 5 .$ ，对生产性能无改善作用外，其余组方和盐酸恩诺沙星均显著提高平均日增重（ $\scriptstyle P < 0 . 0 5 .$ )，显著降低料重比（ $_ { . } P { < } 0 . 0 5 )$ 。相对而言，组方A和D效果较好。
+
+从试验全期（1\~28日龄）来看，与对照组相比，盐酸恩诺沙星和组方A、B、D均显著提高肉仔鸡的平均日增重（ $\cdot P { < } 0 . 0 5 \$ ；除组方B外，盐酸恩诺沙星和组方A、D显著提高平均日采食量（ $\scriptstyle \cdot < 0 . 0 5 .$ ）°
+
+Table3Effetsditobasofetalldccidofoafoecckseditlmote
+
+<html><body><table><tr><td colspan="4">1~14日龄(攻毒前)</td><td colspan="4">15~28日龄（攻毒后）</td><td colspan="4">1~28 日龄(全期)</td></tr><tr><td>项目</td><td colspan="4">1 to 14 days of age (pre-challenge)</td><td colspan="4">15 to 28 days of age (post-challenge)</td><td colspan="4">1 to 28 days of age (overall period)</td></tr><tr><td>Items</td><td>平均日采</td><td>平均日增</td><td>料重比</td><td>死淘率</td><td>平均日采</td><td>平均日增</td><td>料重比</td><td>死淘率</td><td>平均日采</td><td>平均日增</td><td>料重比</td><td>死淘率</td></tr><tr><td></td><td>食量</td><td>重</td><td>F/G</td><td>Mortality/%</td><td>食量</td><td>重</td><td>F/G</td><td>Mortality/%</td><td>食量</td><td>重</td><td>F/G</td><td>Mortality/%</td></tr><tr><td></td><td>ADFI/(g/d)</td><td>ADG/(g/d)</td><td></td><td></td><td>ADFI/(g/d)</td><td>ADG/(g/d)</td><td></td><td></td><td>ADFI/(g/d)</td><td>ADG/(g/d)</td><td></td><td></td></tr><tr><td>对照</td><td>26.2</td><td>17.3bc</td><td>1.52a</td><td>2.50</td><td>85.6a</td><td>47.9b</td><td>1.80a</td><td>5.00</td><td>37.5b</td><td>27.4</td><td>1.37</td><td>7.50</td></tr><tr><td>Control</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盐酸恩诺沙星</td><td>26.9</td><td>19.5a</td><td>1.38b</td><td>2.50</td><td>88.5a</td><td>54.7a</td><td>1.62bc</td><td>2.50</td><td>42.3a</td><td>31.7ab</td><td>1.34</td><td>5.00</td></tr><tr><td>Enrofloxacin HCl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方A</td><td>26.1</td><td>20.0a</td><td>1.30c</td><td>0.00</td><td>88.0a</td><td>56.8a</td><td>1.55c</td><td>0.00</td><td>43.4a</td><td>33.4a</td><td>1.30</td><td>0.00</td></tr><tr><td>Combination A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方B</td><td>26.5</td><td>19.2ab</td><td>1.38b</td><td>2.50</td><td>85.6a</td><td>53.7a</td><td>1.59bc</td><td>2.50</td><td>40.4ab</td><td>31.1ab</td><td>1.30</td><td>5.00</td></tr><tr><td>Combination B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方C</td><td>24.3</td><td>17.2</td><td>1.42b</td><td>2.50</td><td>85.2a</td><td>54.6a</td><td>1.57bc</td><td>0.00</td><td>39.7ab</td><td>30.3bc</td><td>1.32</td><td>2.50</td></tr></table></body></html>
+
+# Combination C
+
+<html><body><table><tr><td>组方D</td><td>26.2</td><td>18.2abe</td><td>1.45ab</td><td>2.50</td><td>88.1a</td><td>57.5a</td><td>1.54c</td><td>2.50</td><td>43.5a</td><td>31.8ab</td><td>1.37</td><td>5.00</td></tr><tr><td>Combination D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方E</td><td>25.9</td><td>18.8abc</td><td>1.38b</td><td>0.00</td><td>78.1b</td><td>46.3b</td><td>1.70ab</td><td>0.00</td><td>40.8ab</td><td>28.8bc</td><td>1.43</td><td>0.00</td></tr><tr><td>Combination E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>集合标准误</td><td>2.63</td><td>1.90</td><td>0.07</td><td>5.59</td><td>5.56</td><td>5.61</td><td>0.13</td><td>6.61</td><td>4.16</td><td>3.01</td><td>0.12</td><td>7.36</td></tr><tr><td>Pooled SEM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td>NS</td><td>0.070</td><td>0.001</td><td>NS</td><td>0.033</td><td>0.007</td><td>0.016</td><td>NS</td><td>0.134</td><td>0.024</td><td>NS</td><td>NS</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ 。NS 表示差异不显著（ $P { > } 0 . 0 5 )$ 。下表同。
+
+In the same column, values with different smal letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . NS mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2 内脏器官指数
+
+如表4所示，在正常饲养（未攻毒）条件下，与对照组相比，盐酸恩诺沙星和组方 B显著降低9日龄肉仔鸡的肝脏指数（ $. P { < } 0 . 0 5 )$ ，盐酸恩诺沙星和组方B、C、E显著降低9日龄的脾脏指数（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。但感染肠炎沙门氏菌后，盐酸恩诺沙星和上述组方对内脏器官发育的抑制作用减弱，仅发现盐酸恩诺沙星和组方E分别降低16和21日龄的肝脏指数（ $_ { . P < 0 . 0 5 ) }$ ；28日龄时，组方C的脾脏指数高于组方B（ $. P { < } 0 . 0 5 )$ 。
+
+表4不同精油与酸化剂组合对肠炎沙门氏菌感染肉仔鸡内脏器官指数的影响
+
+18 Table4s   
+
+<html><body><table><tr><td colspan="4"></td><td colspan="3">16日龄</td><td colspan="3">21日龄</td><td colspan="3">28日龄</td></tr><tr><td>项目</td><td colspan="4">9 days of age</td><td colspan="3">16 days of age</td><td colspan="3">21 days of age</td><td colspan="3">28 days of age</td></tr><tr><td>Items</td><td>肝脏</td><td>脾脏</td><td>法氏囊</td><td>肝脏</td><td>脾脏</td><td>法氏囊</td><td>肝脏</td><td>脾脏</td><td>法氏囊</td><td>肝脏</td><td>脾脏</td><td>法氏囊</td></tr><tr><td></td><td>Liver</td><td>Spleen</td><td>Bursa of Fabricius</td><td>Liver</td><td>Spleen</td><td>Bursa of Fabricius</td><td>Liver</td><td>Spleen</td><td>Bursa of Fabricius</td><td>Liver</td><td>Spleen</td><td>Bursa of Fabriciu</td></tr><tr><td>对照</td><td>6.07a</td><td>0.17a</td><td>0.13</td><td>6.98a</td><td>0.22</td><td>0.15</td><td>5.86a</td><td>0.19</td><td>0.17</td><td>3.27</td><td>0.12ab</td><td>0.13</td></tr><tr><td>Control</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盐酸恩诺沙星</td><td>4.27℃</td><td>0.07b</td><td>0.17</td><td>4.46b</td><td>0.13</td><td>0.20</td><td>4.16ab</td><td>0.15</td><td>0.17</td><td>3.08</td><td>0.14ab</td><td>0.12</td></tr><tr><td>Enrofloxacin HCl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方A</td><td>5.86ab</td><td>0.12ab</td><td>0.15</td><td>6.28a</td><td>0.19</td><td>0.19</td><td>5.67ab</td><td>0.19</td><td>0.15</td><td>3.07</td><td>0.13ab</td><td>0.14</td></tr><tr><td>Combination A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方B</td><td>4.90bc</td><td>0.11b</td><td>0.13</td><td>5.52ab</td><td>0.19</td><td>0.17</td><td>5.31ab</td><td>0.18</td><td>0.18</td><td>3.31</td><td>0.10b</td><td>0.15</td></tr><tr><td>Combination B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方C</td><td>5.56ab</td><td>0.10b</td><td>0.14</td><td>6.16a</td><td>0.19</td><td>0.17</td><td>4.05ab</td><td>0.15</td><td>0.17</td><td>3.84</td><td>0.16a</td><td>0.11</td></tr><tr><td>Combination C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方D</td><td></td><td>0.12ab</td><td>0.17</td><td>5.48ab</td><td>0.22</td><td>0.18</td><td>4.37ab</td><td>0.16</td><td>0.17</td><td>3.16</td><td>0.13ab</td><td>0.14</td></tr></table></body></html>
+
+Combination D   
+
+<html><body><table><tr><td>组方E</td><td>5.05abc</td><td>0.09b</td><td>0.17</td><td>6.67a</td><td>0.23</td><td>0.15</td><td>3.98b</td><td>0.16</td><td>0.18</td><td>3.70</td><td>0.14ab</td><td>0.13</td></tr><tr><td>Combination E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>集合标准误</td><td>1.16</td><td>0.05</td><td>0.04</td><td>1.62</td><td>0.10</td><td>0.05</td><td>1.69</td><td>0.08</td><td>0.04</td><td>0.88</td><td>0.04</td><td>0.03</td></tr><tr><td>Pooled SEM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 P-value</td><td>0.098</td><td>0.031</td><td>NS</td><td>0.123</td><td>NS</td><td>NS</td><td>0.193</td><td>NS</td><td>NS</td><td>NS</td><td>0.177</td><td>NS</td></tr></table></body></html>
+
+2.3 组织载菌量
+
+如表5所示，攻毒后2d（16 日龄)，盐酸恩诺沙星和所有组方均显著降低肉仔鸡的肝脏载菌量（ $( P { < } 0 . 0 5 )$ ，但组方E显著增加脾脏载菌量（ $. P { < } 0 . 0 5 )$ 。  
+攻毒后7d（21日龄)，除盐酸恩诺沙星和组方B、D 对肝脏载菌量以及组方E对盲肠内容物载菌量无显著影响（ $. P { > } 0 . 0 5$ ）外，其余各组方都表现出抑菌  
+作用。攻毒后14d（28日龄)，盐酸恩诺沙星和各组方均显著降低盲肠内容物载菌量（ $( P { < } 0 . 0 5 )$ ；组方A、D对脾脏的抑菌效果优于盐酸恩诺沙星（ $( P { < } 0 . 0 5 )$ 。表5不同精油与酸化剂组合对肠炎沙门氏菌感染肉仔鸡组织载菌量的影响
+
+Tablee
+
+<html><body><table><tr><td colspan="7">lg (CFU/g)</td></tr><tr><td></td><td colspan="3">16日龄 (攻毒后2d)</td><td colspan="2">21日龄 (攻毒后7d)</td><td>28日龄(攻毒后14d)</td></tr><tr><td>项目</td><td colspan="3"></td><td colspan="2"></td></tr><tr><td>Items</td><td>16 days of age (2 days post-challenge)</td><td></td><td>21 days of age (7 days post-challenge)</td><td></td><td>28 days of age (14 days post-challenge)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>盲肠内容物 肝脏</td><td>脾脏</td><td></td><td>盲肠内容物</td></tr><tr><td></td><td>肝脏 脾脏</td><td></td><td></td><td>盲肠内容物 肝脏</td><td>脾脏</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>Liver</td><td>Spleen</td><td>Caecum content</td><td>Liver</td><td>Spleen</td><td>Caecum content</td><td>Liver</td><td>Spleen</td><td>Caecum conter</td></tr><tr><td>对照</td><td>0.70a</td><td>0.00b</td><td>1.64</td><td>3.37a</td><td>3.60a</td><td>5.84a</td><td>0.71</td><td>1.44ab</td><td>2.68a</td></tr><tr><td>Control</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盐酸恩诺沙星</td><td>0.00b</td><td>0.32ab</td><td>0.62</td><td>2.78ab</td><td>1.26b</td><td>2.46bc</td><td>1.01</td><td>2.14a</td><td>0.00b</td></tr><tr><td>Enrofloxacin HCl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方A</td><td>0.00b</td><td>0.00b</td><td>0.79</td><td>1.18b</td><td>0.00b</td><td>0.00c</td><td>0.00</td><td>0.00b</td><td>0.83b</td></tr><tr><td>Combination A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方B</td><td>0.00b</td><td>0.00b</td><td>0.00</td><td>1.61ab</td><td>0.60b</td><td>1.56bc</td><td>0.58</td><td>0.55ab</td><td>0.00b</td></tr><tr><td>Combination B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方C</td><td>0.00b</td><td>0.00b</td><td>0.00</td><td>0.97b</td><td>0.79b</td><td>0.83c</td><td>0.00</td><td>1.07ab</td><td>0.00b</td></tr><tr><td>Combination C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方D</td><td>0.00b</td><td>0.00b</td><td>1.62</td><td>1.54ab</td><td>0.00b</td><td>0.83c</td><td>0.61</td><td>0.00b</td><td>0.00b</td></tr><tr><td>Combination D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方E</td><td>0.19b</td><td>0.75a</td><td>0.41</td><td>0.77b</td><td>1.03b</td><td>3.99ab</td><td>0.00</td><td>0.44ab</td><td>0.00b</td></tr><tr><td>Combination E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>集合标准误</td><td>0.38</td><td>0.53</td><td>1.88</td><td>2.00</td><td>1.32</td><td>2.52</td><td>1.30</td><td>1.48</td><td>1.34</td></tr></table></body></html>
+
+Pooled SEM
+
+<html><body><table><tr><td>P值P-value</td><td>0.008</td><td>0.105</td><td>NS</td><td>0.168</td><td><0.001</td><td>0.001</td><td>NS</td><td>0.087</td><td>0.003</td></tr></table></body></html>
+
+2.4血清炎性因子与免疫球蛋白含量
+
+如表6所示，在血清炎性因子方面，与对照组相比，组方A和D显著降低28日龄肉仔鸡的血清 TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量（ $. P { < } 0 . 0 5 )$ ，组方D显著降低16日龄的血清IL-6含量（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），组方E显著增加21日龄血清 TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量、21和28日龄血清IL-6 含量（ $_ { , P < 0 . 0 5 ) }$ 。在血清免疫球蛋白方面，与对照组相比，组方A 显著增加16 日龄的血清 $\mathrm { I g G }$ 含量（ $( P { < } 0 . 0 5 )$ ，组方C和E分别显著降低21和28日龄的血清IgG含量（ $( P { < } 0 . 0 5 )$ 。
+
+表6不同精油与酸化剂组合对肠炎沙门氏菌感染肉仔鸡血清炎性因子和免疫球蛋白含量的影响
+
+Table6etstsldttsicu chickens infected with Salmonella enteritidis
+
+<html><body><table><tr><td>项目</td><td colspan="4">16日龄 (攻毒后2d)</td><td colspan="4">21日龄 (攻毒后7d)</td><td colspan="4">28日龄(攻毒后14d)</td></tr><tr><td>Items</td><td colspan="4">16 days of age (2 days post-challenge)</td><td colspan="4">21 days of age (7 days post-challenge)</td><td colspan="4">28 days of age (14 days post-challenge)</td></tr><tr><td></td><td>肿瘤坏死</td><td>白细胞介</td><td>免疫球蛋</td><td>分泌型免疫</td><td>肿瘤坏死因</td><td>白细胞介</td><td>免疫球蛋</td><td>分泌型免疫</td><td>肿瘤坏死因</td><td>白细胞介</td><td>免疫球蛋</td><td>分泌型免疫</td></tr><tr><td></td><td>因子α</td><td>素6</td><td>白G</td><td>球蛋白A</td><td>子α</td><td>素6</td><td>白G</td><td>球蛋白A</td><td>子α</td><td>素6</td><td>白G</td><td>球蛋白A</td></tr><tr><td></td><td>TNF-α/(ng</td><td>IL-6/(ng/L</td><td>IgG/(ug/m</td><td>SIgA/(ng/d</td><td>TNF-α/(ng/</td><td>IL-6/(ng/L</td><td>IgG/(ug/m</td><td> SIgA/(ng/d</td><td>TNF-α/(ng/</td><td>IL-6/(ng/L</td><td>IgG/(ug/m</td><td>SIgA/(ng/d</td></tr><tr><td></td><td>/L)</td><td>）</td><td>L)</td><td>L)</td><td>L)</td><td>）</td><td>L)</td><td>L)</td><td>L)</td><td>）</td><td>L)</td><td>L)</td></tr><tr><td>对照</td><td>31.1ab</td><td>25.4ab</td><td>59.2bc</td><td>93.3</td><td>23.2bc</td><td>23.6bc</td><td>48.8ab</td><td>83.6</td><td>47.3a</td><td>20.0c</td><td>53.1a</td><td>88.1</td></tr></table></body></html>
+
+Control   
+Pooled SEM   
+
+<html><body><table><tr><td>盐酸恩诺沙星</td><td>24.4b</td><td>23.1abc</td><td>51.8c</td><td>89.4</td><td>29.6ab</td><td>18.0c</td><td>39.3c</td><td>80.7</td><td>30.7d</td><td>25.1abc</td><td>45.1b</td><td>86.0</td></tr><tr><td>Enrofloxacin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>HC1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方A</td><td>27.0b</td><td>25.1ab</td><td>78.3a</td><td>102.0</td><td>21.0c</td><td>26.0ab</td><td>51.9a</td><td>86.2</td><td>36.5cd</td><td>24.6bc</td><td>53.2a</td><td>97.5</td></tr><tr><td>Combination A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方B</td><td>30.3ab</td><td>21.5bc</td><td>75.1ab</td><td>88.5</td><td>26.5abc</td><td>20.9bc</td><td>44.7abc</td><td>81.7</td><td>43.5ab</td><td>30.5a</td><td>54.1a</td><td>103.0</td></tr><tr><td>Combination B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方C</td><td>25.3b</td><td>26.7a</td><td>58.0℃</td><td>97.3</td><td>29.6ab</td><td>26.9ab</td><td>39.0</td><td>90.4</td><td>41.2bc</td><td>28.6ab</td><td>55.1a</td><td>84.5</td></tr><tr><td>Combination C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方D</td><td>24.7b</td><td>20.2℃</td><td>52.0c</td><td>85.5</td><td>22.8bc</td><td>27.3ab</td><td>45.2abc</td><td>102.0</td><td>32.9d</td><td>25.5abc</td><td>53.1a</td><td>102.0</td></tr><tr><td>Combination D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组方E</td><td>36.2a</td><td>25.2ab</td><td>51.3c</td><td>94.8</td><td>33.4a</td><td>30.9a</td><td>42.1bc</td><td>82.6</td><td>42.2abc</td><td>30.3a</td><td>46.8b</td><td>93.1</td></tr><tr><td>Combination E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>集合标准误</td><td>6.44</td><td>4.67</td><td>16.50</td><td>16.70</td><td>7.65</td><td>6.31</td><td>9.20</td><td>21.30</td><td>5.91</td><td>5.49</td><td>5.27</td><td>19.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>P值P-value</td><td>0.014</td><td>0.126</td><td>0.012</td><td>NS</td><td>0.045</td><td>0.012</td><td>0.109</td><td>NS</td><td><0.001</td><td>0.016</td><td>0.006</td><td>NS</td></tr></table></body></html>
+
+本试验中，我们选用 SDBL-1肠炎沙门氏菌作为攻毒菌株的目的是：1）区分沙门氏菌的来源，即弄清由脏器分离得到的肠炎沙门氏菌是来自接种还是外界环境；2）接种单一血清型的肠炎沙门氏菌，降低多血清型交互干扰的可能性。为防止攻毒菌株在各组间交叉感染，影响研究结果的可靠性，鸡群饲养在7个互不相通的房间内。我们保证房间构造、舍内布局、饲养方式和设施管理等一致，尽量使鸡群处于相同环境，以符合随机区组设计的要求。攻毒前，肉仔鸡预先饲喂2周抗生素或不同有机酸与精油组方，使胃肠道系统适应饲粮处理。对照组肉仔鸡每只灌服 $1 0 ^ { 7 }$ CFU 肠炎沙门氏菌后，盲肠内容物、肝脏和脾脏中均含有大量的肠炎沙门氏菌，且前者的载菌量远高于后二者，提示肠炎沙门氏菌优先在盲肠定殖，继而感染其他脏器。该结果证明了肠炎沙门氏菌攻毒模型的成功建立。无论是有机酸还是天然植物精油，都有很多种类，彼此的抑菌效果差异很大。业内不乏关于不同有机酸或精油复合物对肉仔鸡沙门氏菌感染的控制效果研究[12-13]，但对二者的叠加效应或交互作用考虑较少，尤其是在缓释处理前提下。基于组织载菌量，本试验发现，除组方E外，受测的其他4个精油与有机酸组方对肠炎沙门氏菌的抑制作用均强于盐酸恩诺沙星，其中，组方A的保护效果最好，其次是组方D。从组成上看，组方A、B、C均含香芹酚、百里香酚和苯甲酸，组方A、D 同含苯甲酸和丁酸，而组方B、C、D都含苯甲酸，故我们推测，丁酸与其他精油组分对肠炎沙门氏菌具有协同抑制功效。丁酸是一种短链脂肪酸，与甲酸、乙酸、丙酸同属一元羧酸。这一推断与 Zhou等[7的报道一致，他们发现，百里香酚与乙酸联合使用对鼠伤寒沙门氏菌的杀灭效果优于二者单独补充。尽管组方E的有效成分与A相同，但各单体原料的添加水平是组方A的1.5倍，结果对肠炎沙门氏菌的抵抗力不增反降，提示有机酸与精油的组合效应取决于二者剂量的合理搭配。当然，我们并不完全排除组方A、D的抗菌性能来自于丁酸的单独作用，因为丁酸本身就具有很强的抗肠炎沙门氏菌能力[14-15]，特别是在包被状态下[11,16]。可是，鉴于先前研究（ $1 \text{‰}$ ）在远高于组方E（ $0 . 0 1 2 \text{‰}$ ）的剂量条件下，观察到的都是丁酸的有益作用，上述假设成立的可能性不大。
+
+作为革兰氏阴性菌，肠炎沙门氏菌可能通过脂多糖（LPS）、内毒素等抗原分子触发机体炎症反应（如巨噬细胞分泌炎性因子等)，引起免疫应答（如浆细胞或效应B细胞合成抗体等）[17]。本试验发现，感染肠炎沙门氏菌后，组方A减少外周血TNF-α和IL-6释放，增加 IgG 含量，效果甚至好于盐酸恩诺沙星，而组方E恰好相反。这与脏器带菌量的结果吻合，表明组方A对体液免疫的改善作用。结合内脏器官发育数据，我们认为组方E对肠炎沙门氏菌感染几乎无控制效果。因为各组肉鸡的血清 SIgA含量无显著差异，所以，有机酸与精油组合可能并不影响黏膜免疫。
+
+除抗菌外，有机酸和精油还参与养分代谢。前者通过降低饲粮pH，促进肠道消化；而后者能够增加胆盐分泌，提高肠黏膜和胰腺的酶活性[18-20]。最终，这些有益作用都将反映到生产性能上。研究表明精油与有机酸组合对肉仔鸡的饲料转化率有正面影响[21-22]，也有研究未发现二者的协同效应[23]，这与受试组方的组成有关。本试验中，无论攻毒前还是攻毒后，组方A都提高平均日增重，改善饲料利用率，而组方D仅在攻毒后起效。由此提示，丁酸与香芹酚、百里香酚组合具有促生长和抗菌双重功效，而丁酸与肉桂醛组合只具有抗菌作用，故组方A适合长期饲喂，而组方D仅推荐在感染状态下使用。事实上，组方E在攻毒前也能促进生长，但在攻毒后效果全无。再次说明，有机酸与精油的配比影响其组合的抗菌能力。
+
+4结论
+
+$\textcircled{1}$ 单就抗菌作用而言，组方A和D对肉仔鸡肠炎沙门氏菌都具有良好的抑制功效，提示丁酸与其他精油组分在包被状态下的协同效应有剂量依赖性。
+
+$\textcircled{2}$ 结合生产性能来看，组方A适合长期饲喂，而组方D仅推荐在感染状态下使用。
+
+# 参考文献：
+
+[1]RABSCH W,TSCHAPE H,BAUMLER A J.Non-typhoidal salmonellsis:emerging problems[J].Microbes and Infection,2001,3(3):237-247.   
+[2] ALTEKRUSE S F,BAUER N,CHANLONGBUTRA A,et al.Salmonella enteritidis in broiler chickens,United States,2000-2005[J].Emerging Infectious Disease,2006,12(12):1848-1852.   
+[3] SCALLAN E,HOEKSTRA R M,ANGULO F J,et al.Foodborne illness acquired in the United States-major pathogens[J].Emerging Infectious Diseases,2001,17(1):7-15.   
+[4] PARRY C M.Antimicrobial drug resistance in Salmonella enterica[J].Current Opinion in Infectious Diseases,2003,16(5):467-472.
+
+[5] CUI S H,GE B L,ZHENG J,et al.Prevalence and antimicrobial resistance of Campylobacter spp.and Salmonella serovars in organic chickens from Maryland retail stores[J].Applied and Environmental Microbiology,2005,71(7):4108-4111.
+
+[6] VAN IMMERSEEL F,METHNER U,RYCHLIK I,et al.Vaccination and early protection against non-host-specific Salmonella serotypes in poultry:exploitation of innate immunity and microbial metabolic activity[J].Epidemiology and Infection,2005,133(6):959-978.   
+[7] ZHOU F,JI B,ZHANG H,et al.Synergistic efect of thymol and carvacrol combined with chelatorsand organic acidsagainst Salmonella typhimurium[J].Journal of Food Protection,2007,70(7):1704-1709.   
+[8] BORSOI A,SANTOS L R,DINIZ G S,et al.Salmonella fecal excretion control in broiler chickens by organic acids and essential oils blend feed added[J].Brazilian Journal of Poultry Science,2010,13(1):65-69.   
+[9] ALALI W Q,HOFACRE C L,MATHIS G F,et al.Effect of non-pharmaceutical compounds on shedding and colonization of Salmonella enterica serovar Heidelberg in broilers[J].Food Control,2013,31(1):125-128.   
+[10] THOMPSON JL,HINTON M.Antibacterial activity of formic acid and propionic acid in the diet of hens on Salmonellas in the crop[J].British Poultry Science,1997,38(1):59-65.   
+[11] VAN IMMERSEEL F,BOYEN F,GANTOIS I,et al.Supplementation of coated butyric acid in the feed reducescolonization and shedding ofSalmonella inpoultry[J].Poultry Science,2005,84(12):1851-1856.   
+[12] ALALI W Q,HOFACRE C L,MATHIS G F,et al.Effect of essential oil compound on shedding and colonization of Salmonella enterica serovar Heidelberg in broilers[J].Poultry Science,2013,92(3):836-841.   
+[13] MENCONI A,REGINATTO A R,LONDERO A,et al.Effect of organic acids on Salmonella typhimuriuminfection in broilerchickens[J].InternationalJournalofPoultry
+
+Science,2013,12(2):72-75.
+
+[14] FERNANDEZ-RUBIO C,ORDONEZ C,ABAD-GONZALEZ J,et al.Butyric acid-based feed additives help protect broiler chickens from Salmonella enteritidis infection[J].Poultry Science,2009,88(5):943-948.
+
+[15] EI-GHANY W AA,AWAAD M H,NASEF S A,et al.Effect of sodium butyrate on Salmonella enteritidis infection in broiler chickens[J].Asian Journal of Poultry Science,2016,10(2):104-110.
+
+[16] VAN IMMERSEEL F,FIEVEZ V,DE BUCK J,et al.Microencapsulated short-chain fatty acids in feed modify colonization and invasion early after infection with Salmonella enteritidis in young chickens[J].Poultry Science,2004,83(1):69-74.
+
+[17] 刘璐,李建超,刘冉冉,等.不同品种鸡对肠炎沙门氏菌人工感染初期免疫应答反应的差异[J].畜牧兽医学报,2015,46(6):903-910.
+
+[18] RICKE S C.Perspective on the use of organic acids and short chain fatty acids as antimicrobials[J].Poultry Science,2003,82(4):632-639.
+
+[19] JAMROZ D,WILICZKIEWICZ A,WERTELECKI T,et al.Use of active substances of plant origin in chicken diets based on maize and locally grown cereals[J].British Poultry Science,2005,46(4):485-493.
+
+[20] MALAYOGLU H B,BAYSAL S,MISIRLIOGLU Z,et al.Effects of oregano essential oil with or without feed enzymes on growth performance,digestive enzyme,nutrient digestibility,lipid metabolism and immune response of broilers fed on a wheat-soybean meal diets[J].British Poultry Science,2010,51(1):67-80.
+
+[21] ZHANG K Y,YAN F,KEEN C A,et al.Evaluation of microencapsulated essential oils and organicacidsindietsforbroilerchickens[J].InternationalJournalofPoultry Science,2005,4(9):612-619.
+
+[22] BOZKURT M,KUCUKYILMAZ K,CATLI A U,et al.Effects of administering an essential oil mixture and an organic acid blend separately and combined to diets on broiler performance[J].Archiv fir Geflugelkunde,2012,76(2):81-87.
+
+[23] AK\$IT M,GOKSOY E,KOK F,et al.The impacts of organic acid and essential oil supplementations to diets on the microbiological quality of chicken carcasses[J].Archiv fur Gefluigelkunde,2006,70(4):168-173. Effects of Different Combinations of Essential Oil and Organic Acid on Salmonella enteritidis Infection of Broiler Chickens ZHAO Jingpeng1LI Peiyong1\* WANG Hongyu²SONG Yizhen²SUN Shuhong1LIN Hai1\*\* (1. Shandong Key Laboratory of Animal Biotechnology and Disease Control, College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China; 2. Shanghai Menon Biotechnology Co., Ltd., Shanghai 201807, China)   
+Abstract: This experiment was conducted to investigate the effects of different combinations of   
+essential oil and organic acid on Salmonella enteritidis (SE) infection of broiler chickens.A total   
+of 840 1-day-old Arbor Acres broiler chickens hatchlings without SE infection were randomly   
+alltted into 7 groups and housed in separate rooms with the same configuration, and with 6   
+replicates per group and 20 birds (males and females in half) per replicate. The broiler chickens in   
+group 1 (control group) were fed a basal diet, those in group 2 (antibiotic group) were fed the   
+basal diet supplemented with $4 0 \ \mathrm { g / t }$ enrofloxacin HCl,and those in groups 3 to 7 (essential oil and   
+organic acid groups) were fed the basal diet supplemented with $8 0 0 ~ \mathrm { g / t }$ different combinations of   
+essential oil and organic acid (combinations A, B, C,D, E), respectively. At 14 days of age, each   
+bird was orally inoculated with $2 0 0 ~ \mu \mathrm { L }$ SDBL-1 SE bacterial fluid ( $5 \times 1 0 ^ { 7 }$ CFU/mL). Two birds   
+randomly selected from each replicate were taken blood, slaughtered and sampled at 2,7 and 14   
+days post-challenge (16, 21 and 28 days of age, respectively). The experiment lasted for 28 days,   
+including 2 feeding stages of 1 to 21 days of age and 22 to 28 days of age. The results showed as   
+follows: 1） compared with control group, combination A significantly decreased the ratio of feed   
+to gain (F/G） of broiler chickens before and after bacterial inoculation $( P { < } 0 . 0 5 )$ ，whereas   
+combinations E and D enhanced growth performance only in pre- and post-challnge period
+
+respectively $( P { < } 0 . 0 5 )$ .2)In terms of bacterial load in tissues,combinations A and D offered a good control eects on SE infection of broiler chickens.3） After SE infection,compared with control group,combination A significantly decreased the contents of tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a }$ （20 (TNF- $\mathbf { \nabla } \cdot \mathbf { a } _ { } ^ { }$ ） in serum of broiler chickens at 28 days of age $( P { < } 0 . 0 5 )$ ,and significantly increased the content of immunoglobulin G (IgG) in serum at 16 days of age $( P { < } 0 . 0 5 )$ . The reverse trend was observed for combination E.In conclusion,combinations A and D have great inhibitory effect on SE of broiler chickens,but combination A is suitable for long-term feeding,and combination D is recommended to be used only after infection. Key words: essential oil; organic acid; Salmonella enteritidis; bacterial load; broiler chickens

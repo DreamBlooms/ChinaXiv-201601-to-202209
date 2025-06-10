@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "电子设备电磁辐射评估软件设计及实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李颖1,²，刘奇1,³，刘艳玲1,3，孙正文1,3，陈卯蒸1,3，张群涛1,2（1.中国科学院新疆天文台，新疆 乌鲁木齐830011；2.中国科学院大学，北京100049;3.中国科学院射电天文重点实验室，江苏 南京210008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：射电天文台址内仪器设备众多，电磁环境复杂，电磁兼容设计、屏蔽设计及辐射评估均依赖基于测试的数据处理与分析，而程序化是提高测试及数据分析效率的唯一手段。浅析了电磁辐射评估系统的硬件组成、评估流程、软件开发目标及关键技术点；基于软件需求分析及评估过程中的数据传递、数据处理及数据存储，给出了评估软件的设计流程图、数据流图及二维差值算法流程图；分析了电磁辐射评估过程中主要数据特征，开发了基于数据源、数据库的数据存储及管理模块。其次，基于Microsoft Visual Studio 2010开发平台，通过大量的程序调试与界面优化，完成了电磁辐射评估软件开发，能够对仪器设备辐射特性进行快速测试、分析与评估，为射电天文台址电磁兼容性改造和射电望远镜系统兼容性设计提供重要的参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电子设备；辐射特性；测试评估；软件系统中图分类号：TN978 文献标识码：A 文章编号：1672-7673(2016)01-0133-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "射电望远镜具有极高的系统灵敏度，且系统内、系统间及台址内电子设备众多。随着高频电子技术、宽带高速采样及数字处理技术的发展和应用，数字接收机、数字终端、商用设备、电气设备及台址光学观测设备的建设使台址电磁环境变得尤为复杂[1]，如工作环境电磁场强的幅度不断增大，信号特点的多样性，信号密度不断提高，频谱不断扩张。利用单天线射电望远镜进行观测最易受到干扰的影响，原因是积分时间提高了望远镜对天文信号的灵敏度，但也同等程度地提高了其对射频干扰（RadioFrequency Interference，RFI)信号的灵敏度。射频干扰信号不仅影响某些观测或特定观测类型的质量，而且限制射电天文台的总体效率，加大了处理数据的复杂性[2]。科学合理地评估台址内电子设备辐射发射对射电天文观测的影响，对系统电磁兼容性设计、台址无线电管理、屏蔽设计等提供重要依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "另外，由于射电天文台址电子设备众多，且电磁辐射测试和评估过程繁琐，需要耗费大量的人力和时间进行测试、数据处理与分析。程序化是实现测试与评估自动化处理的有效手段，并可针对大量测试数据进行有效管理与分析。电子设备电磁辐射评估软件的开发，能够对天文台址电子设备辐射特性进行快速测试、分析与评估，大大提高测试及数据处理的效率，具有一定的工程意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2测试系统概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于台址电子设备众多，需针对各种电子设备进行辐射发射测试，开发了便携式测试系统。测试系统由定向天线、前置放大器、噪声源、频谱仪、通用接口总线卡（General-Purpose Interface Bus，GPIB)和计算机组成，如图1。图1(a)为系统校准实物图，基于标准噪声源 $3 4 6 \\mathrm { C } ^ { [ 3 ] }$ ，采用Y因子法对测试系统进行校准，获得信号分析仪开关状态下的典型频点对应的功率值，通过数据处理获得系统噪声和系统增益[4]；系统噪声为测试系统灵敏度指标，并可用于验证系统是否正常，提高测试系统的可靠性；通过系统增益对测试数据进行校准，获得定向天线口面处的辐射功率。图1（b)为测试系统，通过定向天线接收电子设备的电磁辐射信号，前置放大器对信号进行放大，提高了系统的灵敏度，放大后的信号进入信号分析仪，通过评估软件控制信号分析仪进行扫频及数据采集，测试数据通过通用接口总线卡存入计算机。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5581ffb3b459aa08b1ec677824ef1a892bc58c199be1348b2d2d4c1d2381e7ac.jpg",
+        "img_caption": [
+            "图1测试系统实物图.（a）系统校准；（b）系统测试[4]Fig.1The actual pictures of the measurement system.（a） The system calibration；（b） The system test[4]"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信号分析仪为测试系统的核心设备，选用罗德与施瓦茨公司的FSW26高性能信号分析仪，技术指标见表1。通过安捷伦82357B接口卡与信号分析仪进行通讯，82357B接口卡接口为通用接口总线卡转USB，方便在笔记本电脑上使用。为实现信号分析仪、通用接口总线卡、计算机之间的通信，需在计算机上安装安捷伦 $1 6 . 3 \\ \\mathrm { { { I / O } } }$ 库套件和罗德与施瓦茨VXIPlug&Play信号与分析仪驱动软件；$1 6 . 3 \\mathrm { ~ I / O }$ 库兼容IEEE488 协议，实现信号分析仪与通用接口总线卡进行有效通讯，VXIPlug& Play驱动软件为罗德与施瓦茨针对信号分析仪开发的驱动软件，此软件封装了信号分析仪的通用控制指令类，方便各种功能的程序开发与调试。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/426aaddbc4d9c48ac3c542c00c756af975e273d9df32000aab74708f7670da02.jpg",
+        "table_caption": [
+            "表1测试系统设备参数及技术指标",
+            "Table 1 The equipment parameters of the measurement system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备名称</td><td>型号</td><td>频率范围</td><td>技术指标</td></tr><tr><td>对称周期天线</td><td>3080</td><td>0.38~8 GHz</td><td>驻波比：<1:2.5；增益：5dBi</td></tr><tr><td>前置放大器</td><td>Uvbb2</td><td>1 KHz~10 GHz</td><td>噪声系数：3.5dB(typ.）；增益：40 dB(typ.）; 最大输入功率：+15dBm</td></tr><tr><td>噪声源</td><td>346C</td><td>0.01GHz~26.5GHz</td><td>ENR：14 dB(typ.)</td></tr><tr><td>信号分析仪</td><td>FSW26</td><td>2 Hz~26.5GHz</td><td>相位噪声-137dBc/Hz@1GHz，10kHz频偏</td></tr><tr><td>通用接口总线卡</td><td>82357B</td><td></td><td>GPIB-USB，高速，IEEE488接口</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2电磁辐射评估软件需求分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "评估软件结合测试系统构成电磁辐射评估系统，评估软件为评估系统的重要组成部分。评估软件开发实现通用接口总线卡与信号分析仪进行通讯，依据测试需求对信号分析仪进行设置，控制信号分析仪进行扫频和数据存储；另外，通过软件将测试天线增益、放大器增益、噪声源超噪比等数据进行整合，对测试数据、系统校准数据进行处理与分析，结合具体的射电望远镜技术指标及观测需求计算馈源口面的干扰电平限值，并考虑电波路径衰减和射电望远镜增益，对具体的电子设备电磁辐射进行评估，分析电磁辐射对射电天文观测的影响。电磁辐射评估软件的开发，可实现自动化电磁辐射测试、分析及评估，大大提高工作效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1电磁辐射评估流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电子设备电磁辐射评估流程如图2，从流程图中可以看出，评估过程中主要数据来自信号分析仪的测试数据及系统校准数据；噪声源超噪比(Excess Noise Ratio，ENR)和天线增益来自器件厂商提供的校准数据，干扰电平限值及路径衰减需要通过计算与分析获得。系统增益通过系统校准测试数据、环境温度和噪声源超噪比计算获得。天线口面功率为电子设备辐射发射到测试天线口面处功率，通过测试数据、系统校准数据、测试天线增益计算获得。依据射电望远镜技术指标及ITU-RRA.769 建议书[5]干扰电平限值计算方法计算射电望远镜馈源口面典型频点的干扰电平限值；基于电子设备的具体位置，估算电子设备辐射发射信号与射电望远镜主波束轴的夹角，计算此电子设备进入射电望远镜接收系统的典型频点天线增益[1]；选用合适的电波传播模型计算电子设备的电磁辐射到达射电望远镜馈源口面处的路径衰减。通过电磁辐射测试频谱与射电望远镜干扰限值进行比对，并考虑射电望远镜天线增益及电波路径衰减，分析电子设备电磁辐射对射电天文观测的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/34b852d897b9b350f9c01b09d491e31cd1330e8ee2849d9074e1a3c2444000ba.jpg",
+        "img_caption": [
+            "图2评估流程框架[6] ",
+            "Fig.2The framework of the evaluation process[6] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评估软件开发目标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "评估软件面向专业的射电天文技术人员，通过人机交互界面，实现硬件控制、数据采集处理、数据存储与管理及成图与显示。软件界面简单、方便、易操作，同时，软件开发应具有可扩展性，以满足功能扩展与软件优化。软件需实现的功能模块：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "·电磁辐射测试模块，能够针对测试需求对信号分析仪进行设置，包括起始频率、分辨率带宽、视频分辨率带宽、扫描时间、积分次数等，实现测试频谱的显示及保存功能。另外，为实现后续的数据管理，需在界面上输入具体的测试信息，如测试人员、测试设备名称、测试地址等。  \n·系统校准模块，能够针对测试需求对信号分析仪进行设置，包括起始频率、测试频点间隔，需在系统校准时输入环境温度，用于计算系统噪声和系统增益；实现系统噪声和系统增益的计算和结果显示等功能，通过查看系统噪声和系统增益验证系统性能是否正常。  \n·干扰电平限值计算模块，实现在界面上输入具体射电望远镜典型频点的系统噪声、带宽、积分时间等技术指标，计算射电望远镜馈源口面的干扰电平限值，实现数据的保存和显示；能够查看和显示具体望远镜馈源口面的干扰电平限值和保存图片等功能。  \n·电波传播路径衰减计算模块，输入电子设备到达射电望远镜馈源口面的距离，选用合适电波传播模型计算电波路径衰减；估算电子设备干扰信号与天线主波束轴的夹角，计算具体电子设备电磁辐射进入接收系统的射电望远镜旁瓣增益。  \n·电磁辐射评估模块，基于电子设备电磁辐射频谱、射电望远镜馈源口面干扰电平限值、射电望远",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "镜旁瓣增益、电波传播路径衰减等计算电子设备屏蔽效能，分析电子设备电磁辐射对射电天文观测的影响；电子设备的屏蔽效能频谱能够显示和保存，方便后续的数据管理。·数据存储及管理模块，实现对各类数据的存储，数据源路径与测试信息相关联，测试信息存人数据库，通过数据库调用数据源的数据，实现数据的有效管理、查询、删除和显示等功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3评估软件开发的关键点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上分析，由于电磁辐射评估过程产生大量的数据，且评估过程具有重复性，如何实现同一设备不同时间的评估数据有效管理与分析，如何实现数据的有效传递、处理、存储、管理及显示，需要依据评估过程中数据流图，通过有效分析数据之间的关系，并考虑以怎样的方法通过数据库调用数据源里的数据，怎样优化数据管理模块，实现数据的有效管理、分析与存储。这些均为评估软件开发过程中考虑的关键因素。另外，需要针对频谱仪等关键的数据采集设备，通过程序调试分析数据验证数据采集过程是否完整、积分时间是否准确；其次，由于系统校准、天线增益、噪声源超噪比、干扰电平限值、路径衰减等关键数据点与测试数据点不匹配，需要开发二维差值程序实现数据点之间的有效匹配，满足后续的数据处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上分析，评估软件开发需要解决的关键技术有：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·分析软件开发过程中的数据传递、处理、存储过程，给出软件开发流程图和数据流图。  \n·数据处理过程中存在各类数据，为实现数据之间的运算处理，需开发通用的二维线性插值程序，通过调用插值类对各类数据进行插值运算，实现数据之间的匹配问题。  \n·分析软件开发过程中的数据类型、数据的存储方式、数据库与数据源之间的调用关系；研究数据文件的命名方式和存储方法，以方便数据的有效存储、管理和调用。  \n·需要将评估软件与硬件相结合，通过实际应用分析软件中存在的问题，不断优化程序及界面，提高评估软件的可靠性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3软件设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 软件设计框图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评估软件基于MicrosoftVisual Studio 2010开发环境，采用C#编程语言进行开发。考虑到评估软件的可扩展性，采用模块化设计思想，软件设计框架如图3。根据功能需求分析，该软件设计主要包括系统校准模块、电磁辐射测试模块、干扰电平限值计算模块、电磁辐射评估模块和数据存储与管理模块。通过测试及数据处理获得测试系统增益和系统噪声、设备辐射频谱、射电望远镜馈源口面干扰电平限值、屏蔽效能等相关数据。测试数据存人数据源文件夹，通过数据库调用数据源文件。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc07343b7e9cfbe1bbf70d3cd4167304f9eee5b790dc668dd2f110b07e1bde99.jpg",
+        "img_caption": [
+            "图3软件设计框图",
+            "Fig.3The software design framework "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2软件流程图及数据流图",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "评估软件集成系统校准、电磁干扰测量、射电望远镜馈源口面干扰电平量化、空间电波路径衰减计算及电磁辐射评估等关键方法。评估过程中数据的传递、处理、存储、管理为评估软件开发的关键环节，需要依据评估过程中数据流图，分析数据之间的关系。软件流程图如图4，图中 $P _ { \\mathrm { S A } }$ 为测试过程中频谱仪显示的功率数据，依据测试给定的频率范围，对定向天线增益、系统增益、电波路径衰减、干扰电平限值进行插值处理，以实现数据之间的匹配问题，满足数据之间的运算。图4中$G a i n _ { \\mathrm { a n t e n n a } }$ 为定向天线增益； $G a i n _ { \\mathrm { s y s t e m } }$ 为系统增益； $P _ { \\mathrm { { _ { E U T } } } }$ 为被测设备在定向天线处的辐射功率； $L _ { \\mathrm { p } }$ 为电波空间路径传播衰减功率； $P _ { \\mathrm { l i m } }$ 为干扰电平限值； $s$ 为屏蔽效能。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/90ec9a0a8686aae2008390cf814e4200bce71c91dc3310f768f2cc8ef844d6ab.jpg",
+        "img_caption": [
+            "图4软件流程图",
+            "Fig.4The flowchart of the software "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据流图用来描述系统组成部分和各部分之间的联系，是描述系统中数据流程的图形工具，它标识了一个系统的逻辑输入和逻辑输出，以及把逻辑输入转换成逻辑输出所需要的加工处理。数据流图不是传统的流程图，是从数据的角度描述一个系统，而流程图则是从数据进行加工的开发人员的角度描述系统[6。评估过程中数据的传递、处理、存储、管理为评估软件开发的关键环节，需要依据评估过程的数据流图，分析数据之间的关系，软件开发的数据流图如图5，其中箭头表示数据流，椭圆表示加工，双杠表示数据存储，矩形框表示数据的源点或终点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从评估软件流程图和数据流图可以看出，差值处理在数据处理中起重要作用，在数据处理过程中，需要多次运用插值运算，实现数据间的匹配运算。而软件开发中的主要数据为二维数组，即需要实现二维插值，包括对频率点和幅值点进行插值；通过大量的程序调试与数据处理分析，实现满足要求的差值程序，并将插值程序封装为类文件，在主程序中通过调用插值命令完成数据预处理，差值算法流程图如图6，插值过程为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)输入起始频率点为辐射发射测试起始频率点;(2)将需要差值的二维数组(超噪比、天线增益等频率范围较宽)与起始频率点进行比对，获得与测试频率对应的频率点及频点对应的幅值(第1点与最后一点不一定完全对应);(3)找到开始频点对应的位置，计算开始频点对应的幅值;",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef77004bed4fe69895981fd766445db90397236e5017d214862711147a2a7ee2.jpg",
+        "img_caption": [
+            "Fig.5The data flow chart of the software "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)在第1个点与第2个点之间进行插值，  \n计算频点及对应幅值；(5)在第2个点与第 $^ { n - 1 }$ 个点之间进行插值,  \n计算频点及对应幅值；(6)找到终止频率对应的位置，计算终止频  \n点对应的幅值；(7)结束，获得插值后的二维数组。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3数据存储管理模块设计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "测试过程中产生大量的数据，包括原始测试数据、过程处理数据、测试日志及测试属性等；如何实现数据的有效传递、处理、存储、管理，需要分析数据结构特点，并考虑软件操作的便利性，合理组织和管理相关数据。数据存储及管理模块框图如图7，通过数据库调用数据源数据，对测试及评估数据进行有效分析、管理与显示。数据存储主要涉及系统校准文件夹、测试系统文件夹、干扰电平限值文件夹和被测试设备文件夹。噪声源超噪比、天线增益等系统硬件数据以文本数据格式存入测试系统文件夹，计算获得的",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b9b5503d59a1d82ce68573cd8afd8571a5cd633c62badc31da0434a12c03d2a.jpg",
+        "img_caption": [
+            "图5软件数据流图",
+            "图6差值程序流程图",
+            "Fig.6The data flow chart of the interpolation program "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干扰电平限值存于干扰电平限值文件夹，命名为“ $\\mathrm { ~ ^ { * } ~ m ~ }$ 射电望远镜干扰电平限值”。系统校准过程中的原始数据、处理后的系统增益及系统噪声均以文本格式存于系统校准文件夹中，每次系统校准文本命名为“测试时间 $^ +$ 系统校准”，测试时间为计算机时间。被测设备文件夹为重要的数据源文件，每次测试在被测试文件夹中建立一个新的文件夹，命名为“测试时间 $^ +$ 测试设备名称”，此种命名方法可有效区分相同设备不同测试时间的测试数据。来自频谱仪的原始数据、测试基本信息、设备辐射频谱、屏蔽效能频谱等均存于此文件夹中。每次测试及评估完成后将测试信息，如测试带宽、测试设备名称、测试时间、测试人员、数据源路径存人数据库，通过数据库调用数据源，实现数据的管理、分析与显示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0380d36c8e96b4d21ce9ab18e688c53da475dfdcabbc61b85ccc5c1ea3cf1a88.jpg",
+        "img_caption": [
+            "Fig.7The block diagram of the data storage and management "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4软件界面设计及实现",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "评估软件主界面如图8，主要包含辐射发射测试、路径衰减计算、干扰电平限值计算、辐射发射评估按钮。通过点击相关按钮实现仪器设备的电磁辐射评估。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "系统校准及电磁辐射测试集成于同一界面，如图9，通过通用接口总线卡与信号分析仪进行通信，测试前需要对测试系统进行校准，校准测试完成后，可查看系统噪声和系统增益是否正常，若系统噪声存在异常，需要查看低噪声放大器是否存在问题，线缆连接是否正常；若低噪声性能下降导致系统噪声变差，需要更新系统校准数据，以提高电磁辐射测试数据的可靠性。系统校准完毕后可进行仪器设备电磁辐射测试，测试完成后点击“计算”按钮实现数据处理及数据存储。可通过点击“结果显示”按钮查看数据处理后的电磁辐射频谱，并保存频谱图片。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a87c4b9e58a643bdde75a25c02085bd25f0ed2530e0f282a628da7e7acce237.jpg",
+        "img_caption": [
+            "图7数据存储及管理模块框图",
+            "图8评估软件主界面",
+            "Fig.8The primary interface of the software "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干扰电平限值计算界面如图10，通过输入射电望远镜典型频点的系统噪声、接收机带宽、积分时间等信息可计算馈源口面的干扰电平限值，计算完成后可在界面上显示频段的干扰电平限值。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/344d6bf12148f7251d78005b79d50fb542dc0df9bfec28671acd311e65be859f.jpg",
+        "img_caption": [
+            "Fig.9The test system calibration and the radiated emission measurement "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d20cc568dc5c870ea5689c4c4cbd68b574e3a3d6386d5b10b621189ac6066f7.jpg",
+        "img_caption": [
+            "图9测试系统校准与辐射发射测试"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图10干扰电平限值计算",
+            "Fig.10The interference level calculation "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据管理界面如图11，通过显示控件与数据库进行有效通信，仪器设备测试信息在界面上显示，选择具体的被测试设备，可查看此仪器设备辐射频谱、屏蔽效能频谱等关键数据，并可方便地删除数据源及数据库信息，从而实现对测试及评估数据进行有效管理。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8ec67bc7558e461287b1fc33e6f0cc861c348da543a37ee4cf4355c74f6f8c4.jpg",
+        "img_caption": [
+            "1期",
+            "图11数据管理界面",
+            "Fig.11The interface of the data management "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "电磁环境不断恶化，为快速有效地评估仪器设备辐射发射对射电天文观测的影响，开发了射电天文仪器设备辐射发射评估软件。评估软件实现了系统校准、仪器设备辐射特性测试、射电望远镜干扰电平限值计算、屏蔽效能评估及数据管理等功能，解决了手动测试效率低、数据处理繁琐、数据管理混乱等问题。在后续工作中，评估系统软硬件还需要进一步的开发与优化，如增加电波路径衰减测量模块、优化干扰电平限值模块等，以提高评估系统的精度及可靠性，为射电天文台址辐射评估及屏蔽防护工作提供重要依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 刘奇，陈卯蒸，李颖，等.射电天文台址电子设备电磁辐射评估［J］．天文研究与技术，2015，12(3):292-298.Liu Qi， Chen Maozheng，Li Ying，et al.A study of evaluation of electromagnetic radiation levelsof electronic devices near a radio telescope [J]. Astronomical Research & Technology，2015,12(3):292-298.  \n[2] REPORT ITU-R RA.2126.Techniques for mitigation of radio frequency interference in radioastronomy［R].2007.  \n[3] Operating and service manual agilent346A/B/C noise source [EB/OL]. Agilenttechnology.[2O15-3-27].http ://cp.literature.agilent.com/litweb/pdf/00346-90148.pdf.  \n[4] 刘奇，王凯，王洋，等.射电天文终端电子设备辐射特性测试［J］．天文研究与技术——国家天文台台刊，2014，11(3)：218-223.Liu Qi，Wang Kai，Wang Yang，et al. Measurements of radiation characteristics of a set ofelectronic backend devices for radio astronomy [J].Astronomical Research & TechnologyPublications of National Astronomical Observatories of China，2014，11(3）:218-223.  \n[5] RECOMMENDATION ITU-R RA.769-2.Protection criteria used for radio astronomical measurement[S]. 2003.  \n[6] 刘奇.车载通信系统电磁兼容性综合评估及软件开发［D]．西安：西安电子科技大学硕士学位论文，2010.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Design and Actualization of the Electromagnetic Emission Evaluation Software for the Electronic Equipment at the Radio Astronomy Station ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Li Ying1,2， Liu Qi $^ { 1 , 3 }$ ，Liu Yanling1.3，Sun Zhengwen1.3，Chen Maozheng1.3，Zhang Quntao $^ { 1 , 2 }$   \n(1.XinJiang AstronomicalObservatory，Chinese AcademyofSciences，Xinjiang830o11,China,Email：liying@xao.ac.cn； 2.University of Chinese Academy of Sciences，Beijing 10o049,China；3.Key Laboratory of Radio Astronomy, Chinese Academy of Sciences，Nanjing 21Ooo8 China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Because of numerous instruments and equipment existing in the radio telescope system and observatory site，the electromagnetic environment becomes complicated and astronomical observations become diffcult.Radio telescopes are extremely sensitive systems，and electromagnetic emision from electronic equipment in their neighborhood must be tightly controlled.The Electro-Magnetic Compatibility（EMC）is concerned with the design and operation of equipment in such a way:they are immune to the Electro-Magnetic Interference （EMI）while at the same time theydo not interfere with other equipment in the same environment. The electromagnetic compatibility design，shielding design and emission assessments are all dependent on the data processing and analysis.Therefore the routinization is the onlyway to improve the test eficiency and the data analysis.Firstly，the measurement system，the evaluation process，goals and the key technic problems of the software design are analyzed in this paper. Based on the data transfer properties，processing and data storage in the software，the flow chart，data flow diagram andthe key interpolation algorithm flowchart of the evaluation software are given.The main data characteristics and the date storage methods of the evaluation processing are also analyzed，then the data storage and management module based on the data source and the database is developed.Secondly，based on the Microsoft Visual Studio 2O1O development platform，the electromagnetic radiation evaluation software is developed through lots of program debugging and optimization, which is capable for the rapid test，the analysis and the evaluation of the equipment radiation characteristics, which provides an important reference for the electromagnetic compatibility designing for the radio astronomy observatory.Meanwhile，with the software used,the repeated and tedious testing process and the data process also become easy，greatly improving the data reliability and efciency for the scientific research. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:Electronic equipment； Radiation characteristic ；Measurement and evaluation； Software system",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "type": "text",
+        "text": "Scenario of light sterile neutrinos with a heavy tau neutrino in a supersymmetric model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chun Liu° and Jeonghyeon Song $^ b$ （20 （204号 $a$ Institute of Theoretical Physics, Chinese Academy of Sciences PO Box 2735, Beijing 100080, China （20 $b$ Department of Physics, Seoul National University, Seoul 151-742,Korea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three light sterile neutrinos ( $\\nu _ { e } ^ { s }$ ， $\\nu _ { \\mu } ^ { s }$ and $\\nu _ { \\tau } ^ { s }$ ）are introduced to accommodate all the available neutrino data: the atmospheric neutrino anomaly is explained by $\\nu _ { \\mu } - \\nu _ { \\mu } ^ { s }$ oscillation with maximal mixing; the solar one is due to $\\nu _ { e } - \\nu _ { e } ^ { s }$ oscillation of small angle Mikheyev-Smirnov-Wolfenstein type; the Liquid Scintillation Neutrino Detector data is from $\\nu _ { e } \\sim \\nu _ { \\mu }$ oscillations， so that the neutrinos can be the hot component of the dark matter. The big bang nucleosynthesis constraint is satisfied by taking the tau neutrino to be 10 MeV heavy. The $\\nu _ { \\tau }$ decay is discussed in a model of gauge mediated supersymmetry breaking. The decay mode $\\nu _ { \\tau }  \\tilde { G } \\gamma$ with $\\tilde { G }$ being the gravitino is proposed. The $\\nu _ { \\tau }$ has a rather long lifetime $\\sim 1 0 ^ { 3 } - 1 0 ^ { 1 3 }$ sec. Its implication to the Gamma-ray Burst is discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Various experiments have provided growing evidence that neutrinos are massve. First the recent data on the atmospheric neutrinos from Super-Kamiokande experiment has shown neutrino oscillations [1]. It implies that the $\\mu$ -type neutrino has a maximal mixing with other neutrino $x$ ( $x \\neq e$ )，and the mass squared difference is $\\Delta m _ { \\mu x } ^ { 2 } \\simeq 3 \\times 1 0 ^ { - 3 } ~ \\mathrm { e V ^ { 2 } }$ .The solar neutrino deficit problem can be explained by either the Mikheyev-Smirnov-Wolfenstein (MSW） solution [2] or the vacuum oscillation [3]. The MSW solution allows two sets of parameters: $\\Delta m _ { e y } ^ { 2 } \\simeq 5 \\times 1 0 ^ { - 6 } \\mathrm { e V ^ { 2 } }$ with $\\sin ^ { 2 } 2 \\theta _ { e y } \\simeq 6 \\times 1 0 ^ { - 3 }$ ，and $\\Delta m _ { e y } ^ { 2 } \\simeq 2 \\times 1 0 ^ { - 5 }$ $\\mathrm { e V ^ { 2 } }$ with $\\sin ^ { 2 } 2 \\theta _ { e y } \\simeq 0 . 8$ . The vacuum oscillation solution is $\\Delta m _ { e y } ^ { 2 } \\simeq 8 \\times 1 0 ^ { - 1 1 } ~ \\mathrm { e V ^ { 2 } }$ with $\\sin ^ { 2 } 2 \\theta _ { e y } \\simeq 0 . 8$ 1. If the direct observation of $\\bar { \\nu } _ { \\mu } - \\bar { \\nu } _ { e }$ oscillations at the Liquid Scintillation Neutrino Detector (LSND) experiment [5] is considered, relevant parameters are $\\Delta m _ { e \\mu } ^ { 2 } \\simeq 1$ $\\mathrm { e V ^ { 2 } }$ and $\\sin ^ { 2 } ( 2 \\theta _ { e \\mu } ) \\simeq 1 0 ^ { - 2 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition， astrophysics and cosmology also give us some information for neutrino masses. Various measurements support the existence of the dark matter. One scenario for the dark matter is that not all of the cosmological dark matter is cold, there is some hot component [6]. Canonical candidate for the hot dark matter (HDM) is the neutrino with mass at the scale of electron Volt [6]. If massive neutrinos are stable, their masses are limited to be less than few tens of eV from the standard cosmology, in order to avoid the over-closure of the Universe [7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Non-vanishing neutrino mass might be the first discovery of the physics beyond the standard model (SM). The mass pattern of neutrinos is valuable information for the exploration of the physics related to the flavor puzzle in the SM. Theoreticaly, several mechanisms have been suggested to accommodate massive neutrinos. One of the most popular scenarios is the seesaw mechanism which naturally explains the smallness of neutrino mass by introducing heavy right-handed neutrinos [8]. Another example is the supersymmetric extension of the SM with $R$ -parity violation. The trilinear lepton number violating interactions induce small neutrino masses at loop level [9]. However, the large mixing of neutrinos is not expected from our experiences of the other SM fermions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phenomenological analyses suggest the existence of light sterile neutrinos. As least one light sterile neutrino is necessary to explain all the three different scales of $\\Delta m ^ { 2 }$ [10]. It is interesting and more natural that there are three light sterile neutrinos $\\nu _ { i } ^ { s }$ ( $i = e , \\mu , \\tau )$ . Then the first two generations can fully explain allthe above neutrino data. In this framework, the neutrino mixing pattern is uniquely fixed. The atmospheric and solar neutrino anomalies are due to the $\\nu _ { \\mu } - \\nu _ { \\mu } ^ { s }$ and $\\nu _ { e } - \\nu _ { e } ^ { s }$ oscillations，respectively. The large mixing between $\\nu _ { \\mu }$ and $\\nu _ { \\mu } ^ { s }$ can be understood naturally. And the LSND evidence is attributed to the $\\nu _ { e } - \\nu _ { \\mu }$ mixing. At least one of the neutrino pairs should have mass around few eV, implying that neutrinos can be the hot component of the dark matter. This scenario was studied before [11,12]. In this paper we reconsider it in a different theoretical background. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this scheme, more physics can be addressed. The third generation neutrinos have a separate story. The above requirement for the first two generations leaves a wider room for the $\\nu _ { \\tau }$ .The $\\nu _ { \\tau }$ can be either ordinary with a mass smaller than 1O eV,or exotic, for instance, with $m _ { \\nu _ { \\tau } } \\simeq ( 1 - 1 0 )$ MeV [11]. The physics of tau-neutrinos is influenced by the astrophysical constraint from the big bang nucleosynthesis (BBN): the number of light neutrino species in thermal equilibrium at the BBN era is limited to $N _ { \\nu } \\leq 4 . 2$ [13]. It should be seriously examined in a scenario with more than four light neutrinos. It is to be noted that the small mixing angle for the $\\nu _ { e } - \\nu _ { e } ^ { s }$ oscillations causes only the active neutrinos to contribute at the BBN era [14]. The oscillation time is too long to make the $\\nu _ { e } ^ { s }$ in thermal equilibrium. In fact,the analyses for the solar neutrino data have shown that the only viable pattern is the small angle MSW type [15]. Therefore the first two generations contribute a factor three to $N _ { \\nu }$ . As for the $\\nu _ { \\tau }$ and $\\nu _ { \\tau } ^ { s }$ ，at least one of them should decouple at the time of BBN. If $\\nu _ { \\tau }$ is light ( $m _ { \\nu _ { \\tau } } \\leq 1 0 \\ \\mathrm { e V }$ ),the sterile tau neutrinos must decouple from other particles in the primeval plasma. This is equivalent to the case of introducing just two sterile neutrinos [16]. On the other hand, we may consider $m _ { \\nu _ { \\tau } } \\geq 1$ MeV so that $\\nu _ { \\tau }$ decouples [11]. We are interested in this latter situation which has alternative theoretical motivation [17]. In addition, the economy of the first two generation oscillation scenario becomes more meaningful. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is a theoretically challenging problem to construct a spectrum of very light sterile neutrinos. Several ideas have been suggested. They are related to extra symmetry [18], mirror world [19],axino [20],modulino [21], gravitino [22], string theory [23], gauge mediated supersymmetry breaking (GMSB)[24],U(2） symmetry [25], seesaw mechanism [26], compositeness [27], top-flavor model [28] and extra dimensions [29]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In the next section, we present a mass matrix which is consistent with all the available neutrino data. The naturalness of the assumption is discussed. In Sect. III, the decay of the tau neutrino is studied in a supersymmetric model. The decay mode $\\nu _ { \\tau }  \\tilde { G } \\gamma$ is proposed. Further discussions including the gamma-ray burst (GRB) are made in Sect. IV. The summary is given in the last section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.NEUTRINO MASS MATRIX ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We assume that there are three light sterile neutrinos. For each generation of fermions, there is an associated sterile neutrino. As will be seen in the following, the atmospheric and LSND data will be accommodated naturally. And the tau neutrino can be as heavy as $( 1 - 1 0 )$ MeV without contradicting experiments. The full $6 \\times 6$ neutrino mass matrix $\\mathcal { M }$ consists of three parts. They are $3 \\times 3$ active Majorana neutrino mass matrix $M ^ { \\mathrm { a c t u v e } }$ ， $3 \\times 3$ Dirac mass matrix $M ^ { \\mathrm { { D i r a c } } }$ which stands for the mixing between the active and sterile neutrinos, and $3 \\times 3$ Majorana mass matrix of the sterile neutrinos, respectively, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } = \\left( \\begin{array} { l l } { { M ^ { \\mathrm { a c t i v e } } } } & { { M ^ { \\mathrm { D i r a c } } } } \\\\ { { M ^ { \\mathrm { D i r a c } } } } & { { M ^ { \\mathrm { s t e r i l e } } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the $M ^ { \\mathrm { a c t r e } }$ ， we assume that except for the $\\nu _ { \\tau } \\nu _ { \\tau }$ component it originates from the ordinary seesaw mechanism [8]; and the $\\nu _ { \\tau } \\nu _ { \\tau }$ component is about $( 1 - 1 0 )$ MeV. The ordinary seesaw mechanism suppresses neutrino masses to be $v ^ { 2 } / M _ { \\mathrm { G U T } }$ ，where $v$ is the electroweak scale and $M _ { \\mathrm { G U T } }$ the grand unification (GUT） scale so that $v ^ { 2 } / M _ { \\mathrm { G U T } } \\sim 1 0 ^ { - 3 }$ eV. This is natural because there are certain evidences that the new physics beyond the SM is the GUT [30]. The introduction of the sterile neutrinos does not affect the gauge coupling unification. Furthermore,as can be seen below, this $1 0 ^ { - 3 }$ eV mass just fits the atmospheric neutrino data. In other words, the neutrino mass itself is also indirect evidence of the GUT.Note that even without the heavy right-handed neutrinos, the seesaw mechanism still works in the GUT scenario. It is from the general argument based on the effctive field theoretical point of view. The MeV tau-neutrino has been discussed in Ref.[17]. We introduce it here to avoid the BBN constraint and to make the two generation oscillation scenario more economical. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the $M ^ { \\mathrm { { D r a c } } }$ , we adopt that it is proportional to the up-type quark masses. This similarity is understandable from the GUT point of view, if the sterile neutrinos are regarded as right-handed neutrinos. It is remarkable that this simple proportionality can be compatible with all the current neutrino data. In this quark mass matrix, the up quark is taken to be $1 0 ^ { - 4 } m _ { c }$ . The up quark mass has not yet been determined experimentally. Even a massless up quark is allowed [31,32]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the $M ^ { \\mathrm { s t e r i l e } }$ ， we simply assume that it is approximately a vanishing matrix. This assumption makes the point of light sterile neutrinos. It could be relaxed to certain extent that the $M ^ { \\mathrm { s t e r i l e } }$ plays no other roles in understanding the neutrino experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the main understanding of the neutrinos does not involve intergenerational favor mixing, without losing generality, we further assume that all these mass matrices are diagonal. We make a remark here that the other zero entries of the Majorana mass matrices should be regarded as $\\sim 1 0 ^ { - 5 }$ eV in general. This is inevitable from the consideration of quantum gravity [33]. However, such a number is not essential for the understanding of the neutrinos in this framework. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therefore the neutrino mass matrix $\\mathcal { M }$ takes the following form, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } = \\left( \\begin{array} { c c c c c c } { O \\left( \\frac { v ^ { 2 } } { M _ { \\mathrm { G U T } } } \\right) } & { 0 } & { 0 } & { \\lambda m _ { u } } & { 0 } & { 0 } \\\\ { 0 } & { O \\left( \\frac { v ^ { 2 } } { M _ { \\mathrm { G U T } } } \\right) } & { 0 } & { 0 } & { \\lambda m _ { c } } & { 0 } \\\\ { 0 } & { 0 } & { 1 0 \\mathrm { ~ M e V } } & { 0 } & { 0 } & { \\lambda m _ { t } } \\\\ { \\lambda m _ { u } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\lambda m _ { c } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\lambda m _ { t } } & { 0 } & { 0 } & { 0 } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is a constant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here starts numerical analyses. As has been mentioned, $v ^ { 2 } / M _ { \\mathrm { G U T } }$ is taken to be $3 \\times 1 0 ^ { - 3 }$ （204号 eV. We take $\\lambda m _ { c } \\simeq 1 \\mathrm { e V }$ . It is easy to see that $\\nu _ { \\mu }$ and $\\nu _ { \\mu } ^ { s }$ have an almost maximal mixing with （204号 $\\Delta m ^ { 2 } \\simeq 3 \\times 1 0 ^ { - 3 } ~ \\mathrm { e V ^ { 2 } }$ . This explains the atmospheric neutrino data. The mixing between $\\nu _ { e }$ and $\\nu _ { e } ^ { s }$ is very small: $\\sin ^ { 2 } 2 \\theta \\sim [ 2 \\times 1 0 ^ { - 4 } / ( 3 \\times 1 0 ^ { - 3 } ) ] ^ { 2 } \\simeq 4 \\times 1 0 ^ { - 3 }$ with $\\Delta m ^ { 2 } \\simeq 1 0 ^ { - 5 } ~ \\mathrm { e V ^ { 2 } }$ ： This is the small angle MSW solution for the solar neutrino data. The Dirac mass of tau neutrino is 100 eV. This leads to no observable physical consequences of sterile tau neutrinos because the Majorana mass of $\\nu _ { \\tau }$ is about 10 MeV which makes the $\\nu _ { \\tau } - \\nu _ { \\tau } ^ { s }$ mixing to be at $\\sim O ( 1 0 ^ { - 5 } )$ . As discussed before, this small mixing precludes the sterile tau neutrinos from contributing at the BBN era. The LSND data of the $\\nu _ { e } - \\nu _ { \\mu }$ oscillations is accounted by $\\Delta m _ { e \\mu } ^ { 2 } \\simeq 1 ~ \\mathrm { e V ^ { 2 } }$ . The intergenerational mixings of the neutrinos are determined by the neutrino mass matrix and the charged lepton mass matrix, which is too complicated to be fixed in this framework. Since the Dirac mass of the electron neutrino is negligible, the $\\nu _ { e } - \\nu _ { \\mu }$ mixing depends only on $M ^ { \\mathrm { a c t r e } }$ and the charged lepton mass matrix. In the case where $M ^ { \\mathrm { a c t r e } }$ is diagonal in certain weak basis, we expect that the charged lepton mass matrix will fix the $\\nu _ { e } - \\nu _ { \\mu }$ mixing,namely $m _ { e } / m _ { \\mu } \\sim 5 \\times 1 0 ^ { - 3 }$ which is consistent with the data.The $\\nu _ { \\mu }$ and $\\nu _ { \\mu } ^ { s }$ have masses around 1 eV so that they can be the HDM. The $\\nu _ { \\tau }$ cannot be stable due to cosmological considerations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. THE DECAY OF $\\nu _ { \\tau }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the previous section， phenomenology of three light sterile neutrinos is discussed, and a heavy Majorana tau neutrino is necessarily assumed. To study the 1O MeV tau neutrino and its decay, a theoretical model needs to be specified. First, this $\\nu _ { \\tau }$ may decay via the ordinary weak interaction, namely into $e ^ { + } e ^ { - } \\nu _ { e }$ through the $W$ -boson exchange. Its lifetime is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { \\nu _ { \\tau } } \\simeq \\frac { 1 9 2 \\pi ^ { 3 } } { G _ { F } ^ { 2 } m _ { \\nu _ { \\tau } } ^ { 5 } | V _ { e \\tau } | ^ { 2 } } \\simeq 0 . 3 \\times \\frac { 1 } { ( m _ { \\nu _ { \\tau } } / 1 0 \\mathrm { M e V } ) ^ { 5 } | V _ { e \\tau } | ^ { 2 } } \\ s .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the neutrino mass matrix leads to a very small mixing, only the charged lepton mass matrix will determine $V _ { e \\tau }$ . It is generally expected that $| V _ { e \\tau } | ^ { 2 } \\simeq m _ { e } / m _ { \\tau } \\simeq 3 \\times 1 0 ^ { - 4 }$ which results in $\\tau _ { \\nu _ { \\tau } } \\simeq 1 0 ^ { 3 }$ sec. However this decay mode is disfavored by the observation of the Supernova 1987A [34]. Even if this decay is marginally viable by assuming smaller $V _ { e \\tau }$ ， something more about the $\\nu _ { \\tau }$ decay can be addressed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There is an alternative decay channel which is irrelevant to the $e \\mathrm { ~ - ~ } \\tau$ mixing.It is inherent in the model of the $( 1 - 1 0 )$ MeV $\\nu _ { \\tau }$ . In Ref. [35], a supersymmetric model for the charged lepton masses is suggested. In this model, because of family symmetries, $\\tau$ lepton gets mass from the nonvanishing vacuum expectation value (VEV) of the Higgs feld. The muon gets mass only due to the sneutrino VEV which violates the family symmetries. The lepton number violation is allowed in the model. The sneutrino VEV, which generates a 10 MeV mass to the tau-neutrino, is as large as $( 5 - 1 0 )$ GeV, resulting in a mixing between the ordinary neutralinos and the $\\nu _ { \\tau }$ [17]. This model adopts the framework of the GMSB [36]. The $\\nu _ { \\tau }$ in fact is the lightest neutralino (except for the gravitino) and the $\\tau$ the lightest chargino. Therefore $\\nu _ { \\tau }$ can decay to $\\tilde { G } \\gamma$ where the gravitino has mass of few eV's. From the neutralino mass matrix in Ref. [17], it can be seen that $\\nu _ { \\tau }$ mixes with Bino at the level of $m _ { \\tau H } / M _ { \\tilde { \\gamma } } \\sim 1 0 ^ { - 3 }$ where $m _ { \\tau H }$ is the mixing mass of the neutrino and neutralinos. In ordinary GMSB models [36] the next-to-lightest neutralino, photino $\\tilde { \\gamma }$ ， decays to $\\tilde { G }$ and $\\gamma$ The relevant matrix element $\\langle \\tilde { G } \\gamma | \\tilde { \\gamma } \\rangle$ can be written in the same way as in current algebra ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\tilde { G } \\gamma | \\tilde { \\gamma } \\rangle = { \\frac { 1 } { F } } \\langle \\gamma | \\partial _ { \\mu } \\tilde { j } ^ { \\mu } | \\tilde { \\gamma } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the supersymmetry current is ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { j } ^ { \\mu } = F \\gamma ^ { \\mu } \\tilde { G } + \\sigma ^ { \\mu \\nu } \\tilde { \\gamma } F _ { \\mu \\nu } + . . .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $\\sqrt { F }$ being the supersymmetry breaking scale $\\sim 1 0 0$ TeV. From the second term in the above equation, the matrix element can be easily evaluated. In our model, through considering the suppression factor $( m _ { \\tau H } / M _ { \\tilde { \\gamma } } ) ^ { 2 }$ ，the $\\nu _ { \\tau }  \\tilde { G } \\gamma$ decay rate is then given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( \\nu _ { \\tau }  \\tilde { G } \\gamma ) \\simeq ( \\frac { m _ { \\tau H } } { M _ { \\tilde { \\gamma } } } ) ^ { 2 } \\cdot \\frac { \\cos ^ { 2 } \\theta _ { W } m _ { \\nu _ { \\tau } } ^ { 5 } } { 1 6 \\pi F ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This is equivalent to a lifetime of $1 0 ^ { 1 3 }$ sec, if we switch off the $V _ { e \\tau }$ . Even though this lifetime is very long compared to the BBN epoch, it is still short enough compared to the age of the Universe. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The BBN constraint for the number of light neutrino species is counted by $\\nu _ { e }$ ， $\\nu _ { \\mu }$ and $\\nu _ { \\mu } ^ { s }$ A lifetime of $1 0 ^ { 3 }$ sec for $\\nu _ { \\tau }$ is at the finishing stage of the BBN. Such tau-neutrinos may be considered as unstable in the BBN time. With $\\nu _ { e }$ being the decay product，it is probably helpful for the understanding of the Deuterium production and the structure formation in the cosmology [37]. It is however more appropriate to take $\\nu _ { \\tau }$ with lifetime of $\\geq 1 0 ^ { 3 }$ sec as stable in the BBN epoch [38]. In this case, $\\nu _ { \\tau }$ decouples in the BBN time. And it must be Majorana neutrino [37,38] as we have assumed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Several discussions are necessary about our scenario for neutrinos. The essential new ingredients of this scenario are the 1O MeV Majorana tau-neutrinos and the three light sterile neutrinos. A theoretical model of the 1O MeV $\\nu _ { \\tau }$ and its decay have been discussed. However, the lightness of the sterile neutrinos is still lack of theoretical discussion. To our knowledge, for more than one light sterile neutrinos, there exists two attractive frameworks. One is the compositeness idea [27]. And the other comes from the mirror world [19]. They are worthy to be studied further. We introduce them phenomenologically in this paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "While the $R$ -parity violating supersymmetry is used to generate the MeV mass for $\\nu _ { \\tau }$ ， it would be expected that the trilinear $R$ -parity violating interactions contribute to the other entries of $M ^ { \\mathrm { a c t r e } }$ . However, this contribution is rather small. It arises at one-loop level,where a soft term of the relevant trilinear $R$ -parity violating interaction, $A$ -term，is involved. In the GMSB, $A$ -terms are very small. The contribution is in general smaller than $1 0 ^ { - 3 }$ eV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experimentally, our scenario can be tested in the very near future. First, the current laboratory mass limit for $\\nu _ { \\tau }$ is 18.2 MeV [39]. It can be improved to be a few MeV in the near future,which could be a serious challenge to this scenario. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Second, future neutrino experiments will determine whether the atmospheric neutrino deficit is due to $\\nu _ { \\mu } - \\nu _ { \\mu } ^ { s }$ or $\\nu _ { \\mu } - \\nu _ { \\tau }$ oscillation. Although the present data favor the $\\nu _ { \\mu } - \\nu _ { \\tau }$ oscillation， the $\\nu _ { \\mu } - \\nu _ { \\mu } ^ { s }$ oscillation cannot be ruled out on the basis of the global fit to the full set of observable [40]. Recent Super-Kamiokande experiment claims that the $\\nu _ { \\mu } \\to \\nu _ { \\mu } ^ { s }$ （204号 oscillation for the atmospheric neutrino anomaly is ruled out at 99% C.L. [41]. However, it has been argued that more data and analyses are necessary before the conclusion is made [42]. The long baseline neutrino experiments [43] will check the oscillation channel. On the other hand, the oscillation channel for the solar neutrino deficit can be hopefully picked out by the new SNO observation [44] together with previous experiments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Third，the short baseline neutrino experiment BooNE will confirm whether LSND anomaly is real. Even though the KARMEN [45] group has reported that a large part of the favored parameter region of LSND is excluded, full confirmation of the LSND results still awaits future experiments. For example, some of the LSND solution space is preserved by a combined statistical analysis of both the LSND evidence and the KARMEN exclusion [46]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cosmological and astrophysical aspects of this scenario deserve further studies. The implications on the BBN and HDM have been discussed in the previous sections. For the decay mode $\\nu _ { \\tau }  \\tilde { G } \\gamma$ , it might be the partial reason of the GRB [47]. In the process of the stellar collapse,a huge number of tau neutrinos are emitted. The decay product $\\gamma$ is of few MeV or 100 keV which is the typical energy scale of $\\gamma$ in the GRB. Suppose that the lifetime of $\\nu _ { \\tau }$ is of order $1 0 ^ { 1 3 }$ sec （the $V _ { e \\tau }$ is negligible small $\\leq 1 0 ^ { - 7 }$ ),10 MeV $\\nu _ { \\tau }$ emitted from the Supernova 1987A did not have enough time to decay when they arrived in the Earth [48]. When the supernova occurs at cosmological distance ( $\\geq 1 0 ^ { 2 6 } - 1 0 ^ { 2 7 }$ cm） from us, however, the GRB will be detected. The $( 1 - 1 0 )$ MeV $\\nu _ { \\tau }$ may help our understanding of the cold dark matter (CDM) [49]. As for the sterile neutrinos, it will be harmless for our numerical results to assume that $\\nu _ { \\tau } ^ { s }$ has Majorana mass of thousand electron Volts. Then this $\\nu _ { \\tau } ^ { s }$ is also the candidate of the warm dark matter (WDM) [50]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, if $\\nu _ { \\tau }$ purely decays to $\\tilde { G } \\gamma$ with a lifetime $\\sim 1 0 ^ { 1 3 }$ sec，too much cosmic background radiation and matter density are caused [7]. For reducing the background radiation, one way maybe to prolong the $\\nu _ { \\tau }$ lifetime from $1 0 ^ { 1 3 }$ sec until to $1 0 ^ { 2 1 }$ sec. This can be achieved through adjusting the supersymmetry breaking scale (along with some other model parameters） up to $1 0 ^ { 4 }$ TeV.(In this case, the gravitino mass rises from few eV to 100 keV.) To avoid the matter density problem, we may need some non-standard cosmology. For example, in a recent study [51], it has been shown that if the largest temperature of the radiation era is as low as O.7 MeV, even a stable 10 MeV tau neutrino is consistent with the cosmology. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of GMSB, the superpartners of the sterile neutrinos can be very light because they are not involved in the gauge interactions. However, their mixings with the ordinary sneutrinos which are typically 1Oo GeV $- 1$ TeV heavy, are very small. So their lightness has no influence on the physics of the BBN. Meanwhile, these light scalar particles can be also the candidate of the CDM [52]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Compared to the previous studies of MeV tau neutrinos, the distinguished feature of this scenario is that the $( 1 - 1 0 )$ MeV tau neutrino is Majorana particle and its decay products do not contain Majoron. Different from the pseudo-Dirac neutrino scenarios [12], our explanation of the solar neutrino deficit is due to small angle MSW solution. The previous motivation was mainly to reduce the number of neutrino species in BBN era to be smaller than 3, the present one is to keep that number just as 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Before summarizing the main points, let us list the dark matter candidates in this model. Besides the $\\nu _ { \\mu }$ and $\\nu _ { \\mu } ^ { s }$ which have been taken as the HDM, there are many candidates for the CDM and the WDM. They are $( 1 - 1 0 )$ MeV $\\nu _ { \\tau }$ 's, keV massive $\\nu _ { \\tau } ^ { s }$ 's, light sterile sneutrinos $\\tilde { \\nu } _ { i } ^ { s }$ and gravitinos. However, these are just possibilities. Because the lifetime of $\\nu _ { \\tau }$ has not been really fixed which still ranges from $( 1 0 ^ { 3 } - 1 0 ^ { 1 3 } )$ sec (or longer); the heaviness of $\\nu _ { \\tau } ^ { s }$ and $\\tilde { \\nu } _ { i } ^ { s }$ are just assumed, which need to be studied from the theoretical mechanism for the lightness of sterile neutrinos. Note that by taking the supersymmetry breaking scale as $\\sim 1 0 0$ TeV,the gravitino is not the dark matter in simple GMSB models. However by raising the $\\sqrt { F }$ ,keV （204号 $\\tilde { G }$ can be the WDM (regardless the R-parity violation). In addition, in the GMSB scenario, lightest stable baryons with mass of $\\sim 1 0 0$ TeV in the hidden sector is also a candidate for the CDM [36]. Among the five possibilities, the long-lived and decaying $\\nu _ { \\tau }$ which is specific in this model, is reasonably favored to be the CDM in this model according to our discussion. For the stable $\\nu _ { \\tau }$ , the matter density was discussed in Ref. [51]. It is expected that the same discussion can be made for the very long-lived $\\nu _ { \\tau }$ . The requirement $\\Omega _ { \\nu _ { \\tau } } h ^ { 2 } < 1$ （20 implies $m _ { \\nu _ { \\tau } } > 3$ MeV for the reheating temperature being O.7 MeV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have introduced three light sterile neutrinos $\\nu _ { e } ^ { s }$ ， $\\nu _ { \\mu } ^ { s }$ and $\\nu _ { \\tau } ^ { s }$ to accommodate all the available neutrino data. The atmospheric neutrino anomaly is explained by $\\nu _ { \\mu } - \\nu _ { \\mu } ^ { s }$ oscillation with maximal mixing and the solar one by $\\nu _ { e } \\mathrm { ~ - ~ } \\nu _ { e } ^ { s }$ oscillation of small angle MSW type. The LSND data of the $\\nu _ { e } - \\nu _ { \\mu }$ oscillations with $\\Delta m _ { e \\mu } ^ { 2 } \\simeq 1 { \\mathrm { ~ e V ^ { 2 } } }$ can be accommodated, as providing canonical candidate of the HDM. The BBN constraint is satisfied by taking the tau neutrino to be 1O MeV heavy. The $\\nu _ { \\tau }$ decay has been discussed in a model of GMSB. The decay mode $\\nu _ { \\tau }  \\tilde { G } \\gamma$ has been proposed. The implication to the GRB has been pointed out. Although the current data do not favor this oscillation scenario, it will be conclusively checked by atmospheric neutrino experiments, long baseline experiments and solar experiments in the near future. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Carlo Giunti, Tan Lu for helpful discussions,and Xin-min Zhang for helpful discussons, drawing our attention to Ref. [51] and informing us that a similar scenario in the mirror world model with left-right symmetry was considered by R. N. Mohapatra and X.-M. Zhang. This work was supported in part by the Fund of High Energy Physics Development of China, BK21 Program of the Ministry of Education of Korea and the National Natural Science Foundation of China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Y.Fukuda et al. (Super-Kamiokande Collaboration), Phys. Rev. Lett.81 (1998)1562.   \n[2] S. P. Mikheyev and A. Yu Smirnov, Sov. J. Nucl. Phys. 42 (1985) 913; L. Wolfenstein, Phys. Rev. D 17 (1978) 2369.   \n[3] For an example, see V. Barger,R. J. N. Philips and K. Whisnant, Phys. Rev. Lett. 69 (1992) 3135. [4] For a recent review, see M. C. Gonzales-Garcia and C. Peha-Garay, hep-ph/0009041.   \n[5] C. Athanassopoulos et al. (LSND Collaboration), Phys. Rev. Lett. 75 (1995) 2650.   \n[6] J. R. Primack, J. Holtzman,A. Klypin,and D. O. Caldwell, Phy. Rev. Lett. 74 (1995) 2160; For a review, see J. R. Primack and M. A. K. Gross,astro-ph/O007165.   \n[7] For a review, see E. W. Kolb and M. S. Turner, The Early Universe (Addison-Wesley, Reading, 1990).   \n[8] M. Gel-Mann, P. Ramond and R. Slansky, in Sanibel talk, CALT-68-709 (Feb.1979), and in Supergravity (North Holland, Amsterdam， 1979); T. Yanagida, in Proc. of the Workshop on Unified Theory and Baryon Number of the Universe (KEK， Tsukuba, 1979); R. N. Mohapatra and G. Senjanovic, Phys. Rev. Lett. 44(1980) 912.   \n[9] C. Aulakh and R. Mohapatra, Phys. Lett.B 119 (1982) 136; S. Dimpoulos and L. Hall, Phys. Lett B 207 (1988) 210; C. Liu, Mod. Phys. Lett. A 12(1997) 329; M. Drees, S. Pakvasa, X. Tata and T. Veldhuis, Phys. Rev. D 57(1998) R5335; E. J. Chun, S. K. Kang, C.W. Kim and U. W. Lee, Nucl. Phys. B544 (1999) 89; G. Bhattacharyya, H. V. Klapdor-Kleingrothaus and H. Päs, Phys. Lett. B 463 (1999) 77; M. Bisset et al., Phys. Rev.D 62 (2000) 035001; A. Abada and G. Bhattacharyya, Phys. Rev. D 63(2001) 017701.   \n[10] D. O. Caldwell and R. N. Mohapatra, Phys. Rev. D 48 (1993) 3269; J. T. Peltoniemi and J. W. F. Valle, Nucl. Phys. B 406 (1993) 409; J. J. Gomez-Cadenas and M. C. Gonzales-Garcia, Z. Phys. C 71 (1996) 443; N. Okada and O. Yasuda, Int. J. Mod. Phys.A 12 (1997) 3669; S. M. Bilenky, C. Giunti and W. Grimus, Eur. Phys. J. C 1 (1998) 247; Q. Y. Liu and A. Yu Smirnov, Nucl Phys. B 524 (1998) 505; V. Barger, S. Pakvasa, T. J. Weiler and K. Whisnant, Phys. Rev. D 58 (1998) 093016; E. J. Chun, C. W. Kim and U. W. Lee, Phys. Rev. D 58 (1998) 093003; Y. Chikira, N. Haba and Y. Mimura, hep-ph/9808254; Q. Shafi and Z. Tavartkiladze, Phys. Lett. B 448 (1999) 46; V. Barger, Y.-B. Dai, K. Whisnant and B.-L. Young, Phys. Rev. D 59 (1999) 113010; C. Liu and J. Song, Phys.Rev. D 60 (1999) 036002.   \n[11] N. Okada, Phys. Lett. B 388 (1996) 106; D. Ring, Phys. Rev. D 55 (1997) 5767; X.-M. Zhang, talk at the Annual Meeting of High Energy Physics of China (Chengdu, 1999).   \n[12] M. Kobayashi, C. S. Lim and M. M. Nojiri, Phys. Rev. Lett. 67 (1991) 1685; C. Giunti, C. W. Kim,and U. W. Lee, Phys. Rev. D 46 (1992) 3034; A. Geiser, Phys. Lett. B 444 (1998) 358; D. Chang and O. C. W. Kong, Phys. Lett. B 477 (2000) 416.   \n[13] For a review, see K. A. Olive, astro-ph/990l231, Lectures at the Aduanced School on Cosmology and Particle Physics (Peniscola, June 1998).   \n[14] R. Barbieri and A. Doldov, Nucl. Phys.B 429 (1991) 743.   \n[15] For recent analyses, see J. N. Bahcall, P. I. Krastev and A. Yu Smirnov, Phys. Rev. D 58 (1998) O96016; M. C. Gonzales-Garcia, P. C. de Holanda, C. Peha-Garay and J. W. F. Valle,Nucl. Phys. B 573 (2000) 3.   \n[16] W.Kr6likowski, Acta Phys.Polon. B 30 (1999) 227; D. Suematsu, Int. J. Mod. Phys. A 15(2000) 3967.   \n[17] C. Liu and H. S. Song, Nucl. Phys. B 545 (1999) 183.   \n[18] E. Ma and P. Roy, Phys. Rev. D 52 (1995) R4780.   \n[19] R. Foot and R. R. Volkas, Phys. Rev. D 52 (1995) 6595; Z. G. Berezhiani and R. N. Mohapatra,Phys. Rev.D 52(1995) 6607.   \n[20] E. J. Chun,A. S. Joshipura and A. Yu. Smirnov, Phys.Rev. D 54 (1996) 4654; E. J. Chun,Phys. Lett. B 454 (1999) 304;   \n[21] K. Benakli and A. Yu Smirnov, Phys. Rev. Lett. 79 (1997) 4314.   \n[22] T.Lee,hep-ph/9902396.   \n[23] P. Langacker and J. Wang, Phys. Rev. D 58 (1998) 115010.   \n[24] G.Dvali and Y. Nir, JHEP 10(1998) 014.   \n[25] L. J. Hall and N. Weiner, Phys.Rev. D 60 (1999) 033005.   \n[26] B.Brahmachari, Phys.Lett.B 461(1999) 243.   \n[27]N. Arkani-Hamed and Y. Grossman, Phys.Lett.B 459 (1999) 179.   \n[28] E. Malkawi, E. I. Lashin and H. Widyan, Phys. Rev. D 62 (200O) 033005.   \n[29] R. N. Mohapatra and A. Perez-Lorenzana, Nucl. Phys. B 576 (2000) 466; Y. Grossman and M. Neubert,Phys.Lett.B 474(2000) 361 and references therein.   \n[30] P. Langacker and M.-X. Luo, Phys. Rev. D 44 (1991) 817; C. Giunti, C. W. Kim and U. W. Lee,Mod. Phys. Lett. A 6 (1991) 1745; U. Amaldi, W. de Boer and H. Furstenau, Phys.Lett. B 260 (1991) 447; J. Ellis, S. Kelly and D. Nanopolous, Phys. Lett. B 260 (1991) 131.   \n[31] H. Georgi and I. N. McArthur, HUTP-81/A011 (1981); K. Choi, C. W. Kim and W. K. Sze, Phys. Rev. Lett. 61 (1988) 794.   \n[32] C. Liu, Int. J. Mod. Phys. A 11 (1996) 4307; Liu and Song, in [10]; J. E. Kim, B. Kyae and J. S. Lee, Phys. Lett. B 477(1999) 110.   \n[33] E. Kh. Akhmedov, Z. G. Berezhiani, G. Senjanovic and Z.-J. Tao, Phys. Rev. D 47 (1993) 3245; For reviews, see E. Kh. Akhmedov, hep-ph/0001264, Lectures at Trieste Summer School in Particle Physics (June, 1999); E. Witten, hep-ph/0006332.   \n[34] A. Dar and S. Dado, Phys. Rev. Lett. 59 (1987) 2368; R. N. Mohapatra, S. Nussinov and X. Zhang, Phys. Rev. D 49 (1994) 3434.   \n[35] D. Du and C. Liu, Mod. Phys. Lett. A 8 (1993) 2271; A 10(1995) 1837.   \n[36] For reviews, see G. F. Giudice and R. Rattazzi， Phys. Rep. 322 (1999) 419； S. L. Dubovsky, D. S. Gorbunov and S.V. Troitsky, hep-ph/9905466.   \n[37] For a review, see G. Gyuk and M. S. Turner, Nucl. Phys. B (Proc. Suppl.) 38 (1995) 13; For recent studies,see A. D. Dolgov, S. H. Hansen, S. Pastor and D. V. Semikoz, Nucl. Phys. B 548 (1999) 385; M. Kawasaki, K. Kohri and K. Sato, Phys. Lett. B 430 (1998) 132.   \n[38] For a review, see G. G. Rafelt, Nucl. Phys. B (Proc. Suppl.） 70 (1999) 169; For a recent study, see J. B. Rehm, G. G. Raffelt and A. Weiss, Astron. Astrophys. 327 (1997) 443 and references therein.   \n[39] D. E. Groom et al. (Particle Data Group), Eur. Phys. J. C 15 (2000) 1.   \n[40] For a recent analysis, see N. Fornengo, M. C. Gonzales-Garcia and J. W. F. Valle, Nucl. Phys. B 580 (2000) 58.   \n[41] S. Fukuda et al. (Super-Kamiokande Collaboration), Phys. Rev. Lett. 85 (2000) 3999.   \n[42] R.Foot,hep-ph/0007065; M. C.Gonzales-Garcia, talk at ICHEP 2000 (Osaka, August， 2000).   \n[43] C. Yanagisawa (KEK-SK Collaboration)， Proc. Int. Workshop on Phys. beyond the Standard Model: from Theory to Experiment (Valencia, 1997)，eds. I. Antoniadis, L. Ibanez and J. W. F. Valle (World Scientific, 1998); D. Michael et al. (MINOS Collaboration), Proc. XVI Int. Workshop on Weak Interactions and Neutrinos (Capri, 1997), eds. G. Fiorilo et al. [Nucl. Phys. B (Proc. Suppl.) 66 (1998) 432]; T.-H. Ho, talk at the ITP Academic Meeting (Beijing, 2000).   \n[44] SNO Collaboration, Phys. Lett. B 194 (1987) 321; S. M. Bilenky and C. Giunti, Phys. Lett.B 320(1994) 323.   \n[45] B. Zeitnits, talk at Neutrino '98 (Takayama, June 1998).   \n[46]K.Eitel, New Jour.Phys.2（2000)1.   \n[47] For reviews, see S. Blinnikov, astro-ph/9911138; T. Lu, astro-ph/0002178.   \n[48] A. H. Jaffe and M. S. Turner, Phys. Rev. D 55 (1997) 7951.   \n[49] S. Dodelson, G. Gyuk and M. S. Turner, Phys. Rev. Lett. 72 (1994) 3754.   \n[50] M. Patel and G. M. Fuller, hep-ph/O003034.   \n[51] G.F. Giudice, E. W. Kolb and A. Riotto, hep-ph/0005123.   \n[52] I. I. Tkachev, Sov. Astron. Lett. 12(1986) 315. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

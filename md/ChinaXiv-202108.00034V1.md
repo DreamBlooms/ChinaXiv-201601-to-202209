@@ -1,0 +1,240 @@
+# 克拉玛依夏秋季地面火箭增水作业效果的区域回归分析
+
+李斌}，郑博华¹，兰文杰²，杨琳²，窦春苓²（1.新疆维吾尔自治区人工影响天气办公室，新疆 乌鲁木齐830002;2.克拉玛依市气象局，新疆 克拉玛依834000)
+
+摘要：利用1990—2017年克拉玛依市克拉玛依区气象站、百口泉气象站及1994—2017年石化场气象站6一9月月降水资料，采用统计学的区域回归分析法，将百口泉气象站作为对比站点，克拉玛依区气象站和石化场气象站作为目标站点，对克拉玛依在2015—2017年夏秋季开展的地面火箭人工增水作业效果进行统计分析。结果表明：(1)距作业点约 $9 \mathrm { k m }$ 的石化场气象站作业效果好于距作业点约 $4 ~ \mathrm { k m }$ 的克拉玛依区气象站，说明作业效果较好的区域应位于距作业点适当的距离处；(2)2016年7月和2015年7月各作业了13次和9次，作业次数多的相对作业效果好些，作业效果与月作业次数成正相关;(3)每次作业火箭弹数量5—7枚相对作业效果好些。因此，地面增水作业效果好的位置应位于作业点下风方一定的距离处。每次人工增水作业的火箭弹用量应适当，作业量太大会造成减少降水，作业量太少可能又达不到催化效果。通过对克拉玛依市近年来开展的夏秋季地面火箭人工增水作业效果进行分析讨论，初步得出了地面火箭人工增水作业效果与作业方法之间的关系，为更好地科学设计实施地面火箭人工增水作业提供了参考依据。
+
+关键词：人工增水；区域回归；效果分析；克拉玛依
+
+# 文章编号：
+
+水是包括人类在内所有生命生存的源泉。人类伴随着全球性人口数量的增长，以及为了更好生存而不断发展的经济社会，面临水资源短缺的局面越来越严重。云降水过程是全球水循环中最活跃的环节，为缓解水资源短缺，通过利用人工影响冷暖云降水技术，根据不同区域地理环境特点，不同云系发展演变规律而开展的开发空中云水资源活动已成为全球各地人为增加空中降水的重要措施之一。美国在20世纪40年代就开展了人工增雨试验研究[],紧接着就实施了大规模商业性人工增雨业务。目前为止，人工影响天气科学试验已在80多个国家和地区得到开展，美国、以色列等多国通过长期试验研究，结合当地云-降水特征并采取相应增水技术，证明有科学设计的人工影响天气之人工增水作业效果明显[2-4]。
+
+中国是世界上13个贫水国之一[5],降水量年平均值为 $6 3 0 \mathrm { m m }$ ，人均不足世界水资源人均占有量的1/4。新疆地处广阔的西北荒漠地区，很多区域降水量年平均不足 $1 0 0 \mathrm { m m }$ ,属于少雨干旱极端区域[6-7],同时抑制其他自然资源转化率[8-10]。从气候角度，刘金平等分析得出暖干向暖湿转变是中亚干旱区气候特征。这一结论得到了巩宁刚等[2]和陈勇航等[13]分析得出的祁连山近40a大气水汽含量呈上升趋势，云水资源在青藏高原气候区保持增长发展趋势的印证。全球气候变暖，导致极端天气现象在中国西北地区呈现逐年增多趋势[14],其中干旱尤为严重。针对不同区域和云系特点，利用人工影响冷暖云技术来增加局地降水，已成为许多地区应对干旱灾害的主要举措之一。常倬林等[15 利用美国NASA云与地球辐射能量系统(CERES)资料研究表明，宁夏不同地区增水潜力存在差异。高子毅等[分析研究了白杨河上游冬季云系动力和热力
+
+# 干旱区地理
+
+结构，表明该区域形成的地形云降水效率较低，具有较好的增水潜力。王旭等研究了天山山区降水较强云系的宏微观特征分布；陈春艳等[18]针对全球气候变化使得新疆气候暖湿化背景下，研究了新疆逐小时降水变化特点；谢友文等[19]利用静止气象卫星红外云资料，得出吐鲁番盆地人工增水作业“时间窗”，他们的分析研究结果，对新疆科学开展人工增水作业，提供了天气背景信息。
+
+科学开展人工增水、人工防雹等人工影响天气工作最终都需要回答作业效果问题。但不可否认，由于天气气候自然变化的不确定性，与人工影响天气作业影响的目标云系完全相同的云系难以再现，造成具有完全严格科学意义上的人工增水、人工防雹等人工影响天气作业效果的检验难以实现[7。目前，只有位于中东的以色列在20世纪60—70年代开展的人工增雨效果检验试验是国际上公认的人工增雨效果检验试验，两期试验取得了增雨 $1 3 \%$ 2$1 5 \%$ 的统计检验结果[20]。国内最著名的人工增雨效果检验试验，是20世纪70—80年代，曾光平等21开展的福建古田水库人工增雨效果检验试验,统计结果为增雨 $2 0 \%$ 以上。在西北地区，钱莉等[22-23]运用多种统计检验法，得出河西走廊东部1997一2004年人工增雨作业使得降雨量平均增加 $1 3 1 . 5 \mathrm { m m }$ ,增雨率 $2 6 \%$ ;在2002—2004年冬春季增雪作业过程中，降雪量增加了 $1 2 . 5 \mathrm { m m }$ ,增雪率 $4 0 . 2 \%$ 。李健丽等[24]运用近65a新疆阿勒泰地区气象观测站及地面格点降水资料,对阿勒泰地区人工增水作业效果进行了分析：冬春季降水有所增加，夏季增雨率不如冬季。以上学者运用多种方法开展了人工增水作业效果研究，表明通过人工影响天气手段，科学开展人工增水作业是行之有效的。
+
+克拉玛依坐落于准噶尔盆地西北缘，该地蒸发量明显大于降水量，干旱等气象灾害频发，对此，克拉玛依石油管理局及克拉玛依市政府高度重视，除每年租用一架飞机开展冬春季飞机人工增水作业外，近年来还积极组织开展了夏秋季地面火箭人工增雨作业业务，以进一步缓解水资源紧张局面。李斌等[25]已对克拉玛依冬季飞机人工增雪作业进行了评估分析，得出作业效果显著，相对增雪率$2 4 . 5 \%$ 。本文运用克拉玛依区气象站等3个气象站月降水观测资料，克拉玛依市近几年地面人工增水作业信息，利用统计学方法，对克拉玛依市近年来开展的夏秋季地面火箭人工增水作业效果进行分析讨论，为更好地科学设计实施地面火箭人工增水作业提供参考依据。
+
+# 1研究区概况
+
+克拉玛依位于准噶尔盆地腹地，东濒古尔班通古特沙漠，南依天山，西靠加依尔山，北有雅丹地貌的魔鬼城 $\mathrm { ( 8 4 ^ { \circ } 4 4 ^ { \prime } - 8 6 ^ { \circ } 1 0 ^ { \prime } E , 4 4 ^ { \circ } 7 0 ^ { \prime } } { \sim } 4 6 ^ { \circ } 8 0 ^ { \prime } \mathrm { N }$ 之间），是我国重要石油石化基地之一，也是国内久负盛名石油城。温带大陆性气候特征使得克拉玛依在气候方面为夏季高温酷热，冬季低温寒冷，平均降水量偏少，春秋多大风天气，日温差较大。由于特殊的气候背景，克拉玛依市历年年平均降水量只有$1 0 8 . 9 \mathrm { m m }$ ，而蒸发量高达 $2 6 9 2 . 1 \ \mathrm { m m }$ ，蒸发量是降水量的24.7倍之多。由于水资源匮乏，导致克拉玛依市所需生产、生活用水非常紧张，同时也造成当地自然环境恶劣，生态环境脆弱。
+
+# 2资料与方法
+
+# 2.1资料
+
+本文使用1990—2017年克拉玛依市克拉玛依区气象站、百口泉气象站6—9月月降水资料，1994—2017年石化场气象站6—9月月降水资料均由克拉玛依市气象局提供。数据经过了分析审核等质量控制。剔除了百口泉气象站2个月无降水资料相应样本。以百口泉气象站作为对比站点，克拉玛依区气象站作为目标站点，共计98对样本；由于石化场气象站1994年建站，因此，石化场气象站作为目标站点共计82对样本。3个站的历年6—9月月降水变化见图1。
+
+# 2.2 方法
+
+区域回归统计学分析方法，是先挑选与目标区对应的一个后者一个以上的对比区，依据目标区与对比区的历史时间序列数据，拟合得到对应统计变量样本的统计回归方程。假如得到的是可信的回归方程，即作业期目标区与对比区对应统计变量样本关系符合以上回归方程，则可以通过作业期对比区统计变量样本值，利用上述回归关系方程推算得到作业期目标区统计变量样本自然值，计算所得结果也称作作业期目标区统计变量样本的期待值。将计算得到的作业期目标区统计变量样本的期待值与实时观测得到的统计变量样本值进行比较，即可对作业期目标区的作业效果开展评估。
+
+![](images/3dcd84b5984ad9441b1e53d20a297a83aa765d69be823a308daa24b527e39941.jpg)  
+图1站点历年6—9月月降水量变化分布图  
+Fig.1Distribution map of monthlyprecipitation changes from June to Septemberofthe comparison site andtarget site
+
+# 3 结果与分析
+
+# 3.1目标站点与对比站点的选取要求
+
+目标站点选取要求应位于作业影响区的下风方。对比站点选取要求首先应位于作业影响区的上风方或其侧面，不受人工催化影响区域;其次所选对比站点的区域大小、地形等应与目标站点相似；再者对比站点和目标站点之间样本相关系数显著性水平要达到0.05以上。
+
+分析区域内风向主要为偏西风。百口泉气象站位于作业点侧面东北方向约 $3 0 \mathrm { k m }$ ，不会受到人工催化影响;2个目标站点与对比站点区域大小、地形等相近。因此站点选取满足要求(图2)。
+
+# 3.2统计变量样本应用的选取
+
+为了计算应用科学合理，要求目标站点的统计变量样本和对比站点的统计变量样本需有未作业期10a以上的样本数量;其次目标站点统计变量样本与对比站点统计变量样本之间相关性较好，样本本身自然差异不大，目标站点统计变量样本与对比站点统计变量样本之间相关系数显著性水平需在0.05以上。计算过程中如需采用t检验法开展统计检验,则要求样本分布需具有或接近正态分布[26]
+
+3.2.1样本要求本文计算过程中，目标站点统计变量样本与对比站点统计变量样本均有20余年80对以上的非作业期样本数量。满足样本条件要求。3.2.2样本分布要求样本的正态分布是开展检验计算的基本要求。样本分布的正态分布与否，要运用柯尔莫哥洛夫分布函数配合适度检验法进行检验。由于自然降水量数值起伏变化较大，为了使样本尽可能满足正态分布，需对两对3个站点的降水量数据做数值变换处理，以尽可能满足样本正态分布要求。经试验分析，对目标站点和对比站点的降水量进行三次方根数值变换最合适。正态分布拟合度分别为：第一对目标区站点的克拉玛依区站的降水量三次方根数值拟合度为0.88、对比站点的百口泉站点降水量三次方根数值拟合度为0.81;第二对目标区站点的石化场站点降水量三次方根数值拟合度为0.97、相应的对比区站点的百口泉站点三次方根数值拟合度为0.66。两对目标站点和对比站点的月降水量数值均满足三次方根正态分布要求（大于0.5）。
+
+3.2.3两对站点样本之间相关性及显著性计算对两对目标站点降水量样本与对比站点降水量样本进行三次方根变换，使数据满足正态分布要求，即可利用下式对两对站点样本之间计算相关系数 $r$
+
+$$
+r = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } ( x _ { i } - { \bar { x } } ) ( y _ { i } - { \bar { y } } ) } { \displaystyle \sqrt { \sum _ { i = 1 } ^ { n } ( x _ { i } - { \bar { x } } ) ^ { 2 } \sum _ { i = 1 } ^ { n } ( y _ { i } - { \bar { y } } ) ^ { 2 } } } } = { \frac { S _ { x y } } { S _ { x } S _ { y } } }
+$$
+
+$$
+S _ { x } = { \sqrt { { \frac { 1 } { n - 1 } } \sum _ { i = 1 } ^ { n } ( x _ { i } - { \overline { { x } } } ) ^ { 2 } } }
+$$
+
+# 干辛区地理
+
+![](images/3f08f45e6280b7fb76c297d8f57389a164aa8414a240f6623bc11acd23dddf5c.jpg)  
+图2站点选择示意图  
+Fig.2Sketch map of the target points and contrast point selection
+
+$$
+S _ { y } = \sqrt { \frac { 1 } { n - 1 } \sum _ { i = 1 } ^ { n } ( y _ { i } - \bar { y } ) ^ { 2 } }
+$$
+
+$$
+S _ { x y } = { \frac { 1 } { n - 1 } } { \sum _ { i = 1 } ^ { n } ( x _ { i } - \bar { x } ) ( y _ { i } - \bar { y } ) }
+$$
+
+式中： $x _ { i }$ 为经三次方根变换的对比站点降水量样本值； $y _ { i }$ 为经三次方根变换的目标站点降水量样本值； $\bar { x }$ 为 $x _ { i }$ 的平均值； $\bar { y }$ 为 $y _ { i }$ 的平均值； $S _ { _ { x y } }$ 为协方差； $S _ { _ x }$ 为对比站点样本标准差； $S _ { _ y }$ 为目标站点样本标准差； $n$ 为样本容量，
+
+经计算克拉玛依区站点降水量与百口泉站点降水量三次方根数值样本之间相关系数 $r _ { \vec { \mathscr { L } } - \vec { \mathscr { E } } } { \approx } 0 . 7 2$ 石化场站点降水量与百口泉站点降水量的三次方根数值样本之间相关系数 $r _ { \mathcal { \vec { H } } - \overrightarrow { \Xi } } { \approx } 0 . 5 2$ 。利用 $\mathbf { \chi } _ { t }$ 检验法计算 $t = r \times { \sqrt { \frac { n - 2 } { 1 - r ^ { 2 } } } }$ n-2，得到t克-百=10.165;t石-百=5.445。经查 $\mathbf { \Phi } _ { t }$ 检验数据表，相关系数单边检验显著性水平 $\alpha$ 均小于0.001。相关系数显著性水平 $\alpha$ 均超过0.05阈值。两对站点样本之间相关性满足要求。
+
+至此，可以利用统计学原理方法，建立两对站点降水量样本经过三次方根变换后的回归方程并开展统计检验[27]
+
+# 3.3 区域回归分析
+
+3.3.1历史回归方程的建立依据历史回归统计学方法，利用最小二乘法计算得出两对观测站点6—9月月降水量三次方根数值样本之间的线性拟合关系 $y = a + b x$ ,系数由下式计算：
+
+$$
+b = \frac { S _ { x y } } { S _ { x } ^ { 2 } }
+$$
+
+$$
+a = { \bar { y } } - b { \bar { x } }
+$$
+
+经计算得 $b _ { { \scriptscriptstyle  { \overrightarrow { 5 \imath } } } - { \scriptscriptstyle \overrightarrow { 5 } } } { \approx } 0 . 8 0 6 2 , a _ { { \scriptscriptstyle \overrightarrow { 5 \imath } } - { \scriptscriptstyle \overrightarrow { 5 } } } { \approx } 0 . 8 1 9 9 ; b _ { { \scriptscriptstyle \overrightarrow { 5 \imath } } - { \scriptscriptstyle \overrightarrow { 5 } } } { \approx }$ 0.5712, $a _ { \mathrm { \tiny ~ \mathscr { G } - \overline { { \Theta } } } } \approx 0 . 9 3 6 0$ ，所以建立的两对作业期目标站点依对比站点的样本历史回归方程分别为：
+
+$$
+Y _ { \scriptscriptstyle \Vec { 5 \imath } - \Vec { \Theta } } = 0 . 8 1 9 9 + 0 . 8 0 6 2 X _ { \scriptscriptstyle \Vec { 5 \imath } - \Vec { \Theta } }
+$$
+
+$$
+Y _ { \scriptscriptstyle \mathscr { R } - \scriptscriptstyle \mathscr { Q } } = 0 . 9 3 6 + 0 . 5 7 1 2 X _ { \scriptscriptstyle \mathscr { Q } - \scriptscriptstyle \mathscr { Q } }
+$$
+
+式中： $Y _ { \overrightarrow { \mathrm { x } } - \overrightarrow { \mathrm { H } } \cdot \overrightarrow { \mathrm { P } } \cdot \overrightarrow { \mathrm { H } } - \overrightarrow { \mathrm { t } } }$ 分别是作业期2个目标站点6—9月月降水量三次方根数值样本的期待值， $X _ { \overrightarrow { x } - \overrightarrow { y } } \setminus X _ { \overrightarrow { y } - \overrightarrow { E } }$ 分别是对比区站点在作业期实际6一9月月降水量三次方根数值。
+
+经计算得到的历史期目标站点样本与对比站点样本的回归方程，及其样本分布(图3)。由图可见，样本基本分布在回归线两侧附近。因而，经数值变换后的两对6一9月月降水量三次方根样本基
+
+![](images/ce6ad22a04bb2582a88b695e8b51f079d11a7f5a7754d05f09e957d454b018cf.jpg)  
+图3线性回归结果与样本分布图  
+Fig.3 Linear regression results with the samples distribution
+
+本满足线性关系。
+
+3.3.2线性历史回归方程显著性检验在目标站点与对比站点未作业期年6一9月月降水量三次方根样本均满足正态分布且样本之间相关性满足要求前提下，利用 $F -$ 检验法进行方差差异性检验，以确定拟合计算得到的线性历史回归方程是否显著[28]。
+
+$$
+F { = } \frac { Q _ { \perp } / 1 } { Q _ { \mp \parallel } / ( n - 2 ) }
+$$
+
+$$
+Q _ { _ { [ \equiv ] } } = b ^ { 2 } \sum _ { i = 1 } ^ { n } ( x _ { i } - \bar { x } ) ^ { 2 }
+$$
+
+$$
+Q _ { \not \exists \not \exists } = \sum _ { i = 1 } ^ { n } \left( y _ { i } - { \bar { y } } \right) ^ { 2 } - Q _ { \not [ \not \equiv ] }
+$$
+
+式中： $F$ 为 $F -$ 检验计算值; $Q _ { \perp }$ 为回归平方和,其值反映自变量 $x$ 的重要程度; $Q _ { ☉ | }$ 为剩余平方和,其值反映未加控制的因素包括试验误差对试验结果的影响; $n$ 为样本容量； $b$ 为回归系数。 $F$ 服从自由度为1和 $\left( n { - } 2 \right)$ 的 $F$ 分布。当 $F { > } F _ { \alpha } ( 1 , n { - } 2 )$ 时，拟合计算得到的线性历史回归方程显著；相反为不显著。
+
+经计算， $F _ { \scriptscriptstyle \frac { + } { \beta _ { \mathrm { L } } ^ { 2 } } - \scriptscriptstyle \Xi } \approx 1 0 2 . 5 6 > F _ { \scriptscriptstyle 0 . 0 1 } = 6 . 9 0 \ , F _ { \scriptscriptstyle \Xi - \scriptscriptstyle \Xi } \approx 2 9 . 6 4 >$ $F _ { 0 . 0 1 } { = } 6 . 9 8$ 。因此,2个线性回归方程均显著，且可信程度都超过了 $9 9 \%$ 。通过2个线性回归方程可分别估算出作业期克拉玛依区和石化场2个作业站点的自然年6一9月月降水量三次方根样本的期待值。
+
+3.3.3作业效果评估与统计检验将作业期对比站点实际月降水量数值，经三次方根数值变换后代入上述线性历史回归方程，即可计算得到相应的目标站点月降水量数值三次方根的估计值 $Y _ { \boldsymbol { k } }$ ，通过与目标站点实际月降水量数值的三次方根 $y _ { k }$ 比较,可得出作业期对应目标站点月降水量数值变化值：$\Delta y _ { k } = y _ { k } - Y _ { k }$ 。若 $\Delta y _ { k } > 0$ ，则人工增水作业有正效果，每月作业有效性还需通过 $\mathbf { \Phi } _ { t }$ 检验法进行进一步
+
+显著性检验。
+
+通常会采用多个事件的 $\mathbf { \Phi } _ { t }$ 检验法评估人工增水作业效果,以减少自然变差造成的影响[26]。
+
+$$
+t = { \cfrac { { \bar { d } } _ { k } } { [ { \cfrac { 1 - r ^ { 2 } } { n - 2 } } \displaystyle \sum _ { i = 1 } ^ { n } { \bigl ( } y _ { i } - { \bar { y } } _ { n } { \bigr ) } ^ { 2 } [ { \cfrac { 1 } { k } } + { \cfrac { 1 } { n } } + { \cfrac { ( { \bar { x } } _ { k } - { \bar { x } } _ { n } ) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } { \bigl ( } x _ { i } - { \bar { x } } _ { n } { \bigr ) } ^ { 2 } } } ] } } 
+$$
+
+$$
+\bar { d } _ { k } = \frac 1 k \sum _ { i = 1 } ^ { k } \left( y _ { i } - Y _ { i } \right) = \overline { { \Delta y } } _ { k }
+$$
+
+式中： $n$ 和 $\boldsymbol { r }$ 分别是计算建立线性历史回归方程时的样本容量和对比站点与目标区站点样本之间相关系数; ${ \bar { x } } _ { n } \setminus { \bar { y } } _ { n }$ 分别为对比站点和目标站点6—9月月降水量样本三次方根的历史平均值； $k$ 是作业期的样本容量; $\bar { x } _ { k } \mathrm { ~ , ~ } \bar { y } _ { k }$ 分别为对比站点和目标站点6—9月月降水量样本三次方根 $k$ 次试验平均值; $Y _ { _ i }$ 为目标站点6—9月月降水量样本三次方根 $k$ 次试验的估计值； $\bar { d } _ { k }$ 为目标站点6—9月月降水量样本三次方根 $k$ 次试验平均增加值。
+
+有关计算过程为：目标站点为克拉玛依区，对比站点为百口泉一组， $\bar { d } _ { k } = - 0 . 3 1 1 1 1 , r = 0 . 7 2 , n = 9 8$ $k { = } 9$ 、 $\bar { x } _ { n } = 1 . 9 7 9 1$ 、 ${ \bar { x } } _ { k } = 2 . 3 7 7 5 , \sum _ { i = 1 } ^ { n } ( x _ { i } - { \bar { x } } _ { n } ) ^ { 2 } = 4 6 . 1 7 2 9$ 、$\sum _ { i = 1 } ^ { n } ( y _ { i } - { \bar { y } } _ { n } ) ^ { 2 } = 5 8 . 1 0 4 8$ 代人上式计算得 $\scriptstyle t \approx - 1 . 6 3 1$ ,其服从自由度 $\scriptstyle { \nu = n - 2 = 9 6 }$ 的 $\mathbf { \Phi } _ { t }$ 分布。由于是增水作业， $\scriptstyle t < 0$ 说明整体作业效果为负效果。
+
+对于目标站点为石化场，对比站点为百口泉一组， $\hat { d } _ { k } = - 0 . 0 7 1 3 , r = 0 . 5 2 , n = 8 2 , k = 9$ $\bar { x } _ { n } = 1 . 9 4 5 5$ 、 $\bar { x } _ { k } =$ 2.3775、 $\sum _ { i = 1 } ^ { n } ( x _ { i } - { \bar { x } } _ { n } ) ^ { 2 } \ = 3 2 . 9 2 3 3 . \ \sum _ { i = 1 } ^ { n } ( y _ { i } - { \bar { y } } _ { n } ) ^ { 2 } \ = 3 9 . 7 3 6 8$ 代入上式计算得 $\scriptstyle t \approx - 0 . 3 3$ ,其服从自由度 $\scriptstyle \scriptstyle \nu = n - 2 = 8 0$ 的 $\mathbf { \Phi } _ { t }$ 分布。由于是增水作业， $t { < } 0$ 说明整体作业效果为负效果。
+
+进一步针对每次作业效果开展单次试验检验：
+
+式中： $\boldsymbol { x } _ { k }$ 为对比站点第 $k$ 次试验的月降水量三次方根的值，其余字符含义同前文。单次试验检验结果见表1。
+
+由于夏秋季作业主要以对流云降水为主，而对流云降水本身起伏变化很大，局地性很强，因此造成作业增水和减水率起伏大，整体难以检验出人工增水作业效果。
+
+由表1根据平均增水量数值可以看出，在距作业点约 $9 \mathrm { k m }$ 的石化场气象站点作业效果好于距作业点约 $4 ~ \mathrm { k m }$ 的克拉玛依区气象站点。说明地面作业增水效果好的位置应位于作业点下风方一定的距离处，距作业点距离太近或太远效果都不是太好。另外，从火箭弹作业量角度分析，月作业次数多的作业效果好些，如开展2015年7月9次作业和2016年7月13次作业。其次，单次作业火箭弹数量5—7枚相对作业效果好些;单次作业量太多可能造成过量催化而导致减雨，如单次作业超过8枚以上的2017年6月和2017年9月；单次作业量太少可能人工引入成冰核不足而使催化效果不佳，如单次作业量小于5枚的2015年6月、2015年8月和2017年8月。
+
+# 4讨论
+
+开发空中云水资源的人工增雨活动中对流云是主要对象，因为对流云降水约占3/4，且对流云是凝水量丰富的云，又是自然降水效率较低的云，因而增雨潜力巨大。国内外公认的人工增雨播云温度窗为 $- 1 0 \mathrm { { \sim } } 2 4 ~ \mathrm { { ‰ } }$ 。对于对流云作业条件要求主要包括：对流云回波顶高要大于或等于 $6 \mathrm { k m }$ ;回波强度要大于或等于 $3 0 ~ \mathrm { d B Z }$ ;云底高度要小于或等于1$\mathrm { k m }$ ,否则雨滴在云下降落过程中，因路径过长，导致完全蒸发而无发接地；云体水平尺度要大于或等于$5 \mathrm { k m }$ ;云厚大于或等于 $5 \mathrm { k m }$ 时，且云体厚度越厚,催化增雨机率越高,催化作业效果越好[26]。因此,针对对流云开展的有效人工增雨作业要求很高，需要天气雷达的密切配合。
+
+由于云、降水，特别是对流云及其降水时空变化差异很大，致使产生的降水强度时空分布具有极其不均匀性，降水量变差很大。如果将人工增水作业效果比作想要获取的"有效信号”，那么降水强度的这种起伏不定就是“干扰信号”。人工增水作业效果统计检验相当于从这些“干扰信号"中提取“有效信号”。由于往往“干扰信号"很强，因此，人工增水作业效果的统计检验功效很低[26-27]。就目前的人工影响天气作业效果检验技术和方法而言，统计学检验方法仍就是主要且常用方法。从检验功效和可信性方面分析，文中采用的区域回归试验检验法相较于不成对秩和检验法、序列试验检验法、Welch检验法和 $\mathbf { \chi } _ { t }$ 检验法等，检验功效和准确度相对较高[26]。回归分析就是在非确定性关系中寻找统计相关，同时利用这种统计相关，由1个或多个统计变量样本去估算与其统计相关的另1个统计变量样本，并需得出其准确度。回归分析首先要求2个统计变量样本要具有一定的相关性 $r$ ，并可利用t检验法检验其相关显著性，否则计算建立的回归方程没有意义[29]；其次为了分析是自变量还是其他因素引起了统计变量样本差异，就需要对拟合计算建立的回归方程进行显著性检验，主要利用 $F$ 检验法[27]。除统计检验方法以外,物理检验方法和物理统计检验方法也很必要可行。主要是运用各类天气雷达回波、气象卫星云图等变化信息，来分析人工增水作业效果在热力、动力等物理机制方面的变化。
+
+表1区域历史回归试验分析目标站点增水效果统计表  
+lab.1 Statistical table of regional historical regression test to analyze water increase effect of targ   
+
+<html><body><table><tr><td rowspan="3">作业月</td><td>2015-06</td><td>2015-07</td><td>2015-08</td><td>2016-06</td><td>2016-07</td><td>2016-08</td><td>2017-06</td><td>2017-08</td><td>2017-09</td><td>平均</td></tr><tr><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td><td>克</td></tr><tr><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td><td>石</td></tr><tr><td>作业量/次</td><td>3枚/1</td><td>26枚/9</td><td>8枚/3</td><td>21枚/3</td><td>163枚/13</td><td>11枚/2</td><td>21枚/2</td><td>4枚/1</td><td>24枚/3</td><td>1</td></tr><tr><td>△y/mm</td><td>-12.8</td><td>6.3</td><td>-3.8</td><td>-1.6</td><td>8.1</td><td>2.5</td><td>-11.9</td><td>-8.5</td><td>-12.6</td><td>-3.8</td></tr><tr><td rowspan="2">增水率/%</td><td>-6.5</td><td>9.5</td><td>-2.8</td><td>19.5</td><td>34.6</td><td>4.8</td><td>-9.6</td><td>-7.8</td><td>-7.5</td><td>3.8</td></tr><tr><td>-85.3</td><td>31.2</td><td>-52.1</td><td>-3.9</td><td>31.5</td><td>11.7</td><td>-41.5</td><td>-55.6</td><td>-59.2</td><td>1</td></tr><tr><td rowspan="2">t值</td><td>-69.9</td><td>79.8</td><td>-53.8</td><td>89.0</td><td>237</td><td>38.4</td><td>-59.6</td><td>-82.1</td><td>-60.0</td><td>1</td></tr><tr><td>-2.146</td><td>0.471</td><td>-0.779</td><td>-0.085</td><td>0.516</td><td>0.191</td><td>-0.916</td><td>-1.087</td><td>-1.316</td><td>1</td></tr><tr><td rowspan="2">显著性α</td><td>-1.143</td><td>0.808</td><td>-0.645</td><td>1.063</td><td>1.996</td><td>0.434</td><td>-1.075</td><td>-1.522</td><td>-1.000</td><td>1</td></tr><tr><td>负</td><td><0.25</td><td>负</td><td>负</td><td><0.15</td><td><0.25</td><td>负</td><td>负</td><td>负</td><td>1</td></tr><tr><td rowspan="2"></td><td>负</td><td></td><td>负</td><td>~0.15</td><td></td><td><0.25</td><td>负</td><td></td><td></td><td></td></tr><tr><td></td><td>~0.25</td><td></td><td></td><td>0.025</td><td></td><td></td><td>负</td><td>负</td><td>二</td></tr></table></body></html>
+
+注：克为克拉玛依区站点；石为石化场站点。
+
+# 5结论
+
+（1）由于夏秋季作业对象主要以对流云降水为  
+主，其本身变化起伏很大，局地性很强,达到有效的  
+人工增水作业条件要求很高。因此，造成想要整体  
+检验出人工增水作业效果难度很大。(2）平均增水量表现出地面人工增水作业效果  
+好的位置应位于作业点下风方一定的距离处，距作  
+业点距离太近或太远效果都不是太好。（3）从火箭弹作业量角度表明，2016年7月和  
+2015年7月各作业了13次和9次，作业次数多相对  
+作业效果好些，作业效果与月作业次数成正相关；  
+每次作业火箭弹数量5—7枚相对作业效果好些，太  
+多可能导致减雨，太少可能造成催化效果不佳。（4）相较于不成对秩和检验法、序列试验检验  
+法、Welch检验法和t检验法等，区域回归试验检验  
+法检验功效和准确度相对较高。但对样本的选取、  
+样本的数量要求很高，回归计算分析过程要求也  
+较高。(5)需要利用气象卫星、各类天气雷达、雨滴谱  
+仪等多种观测装备数据，从云降水微物理特征变化  
+及其转化机制方面对人工增水作业效果开展分析  
+评估。  
+参考文献(References)  
+[1]郑国光,陈跃,王鹏飞,等.人工影响天气研究中的关键问题
+
+[M].北京：气象出版社,2005:7-13.[ZhengGuoguang,Chen Yue,Wang Pengfei,et al.Critical issues in weather modification
+
+research[M].Beijing: Meteorological Press,20o5:7-13.]   
+[2]邵洋,刘伟,孟旭,等.人工影响天气作业装备研发和应用进展 [J].干旱气象,2014,32(4): 649-658.[Shao Yang,Liu Wei,Meng Xu, et al. Development and application advances of cloud seeding instruments[J].Journal of Arid Meteorology，2014,32(4): 649- 658.]   
+[3]高子毅,张建新,廖飞佳,等.新疆天山山区人工增雨试验效果 评价[J].高原气象,2005,24(5):734-740.[Gao Ziyi,Zhang Jianxin,Liao Feijia,et al. The effect evaluation for precipitation enhancement experiment in Tianshan Mountains of Xinjiang[J]. Plateau Meteorology,2005,24(5): 734-740.]   
+[4]李泽椿,周毓荃,李庆祥,等.人工增雨是缓和干旱半干旱地区 水资源匮乏的一个补充条件[J].新疆气象,2006,29(1):1-11. [Li Zechun, Zhou Yuquan,Li Qingxiang,etal.An aditional way for alleviating water resources shortage in arid and semi-arid region: Precipitation stimulation[J]. Xinjiang Meteorology,2006, 29 (1): 1-11. ]   
+[5]罗光明,侍克斌,张宏俊.新疆水资源利用和经济增长之间的关 系[J].干旱区地理,2009,32(4): 566-570.[Luo Guangming, Shi Kebin, Zhang Hongjun. Relationship between water resource utilization and economic growth of Xinjiang[J].Arid Land Geography, 2009,32(4): 566-570.]   
+[6]任晓,穆桂金,徐立帅,等.塔里木盆地南缘2000—2013年人工 绿洲扩张特点[J].干旱区地理,2015,38(5):1022-1030.[Ren Xiao,Mu Guijin,Xu Lishuai, et al. Characteristics of artificial oasis expansion in south Tarim Basin from 200O to 2013[J].Arid Land Geography,2015,38(5): 1022-1030.]   
+[7]李大山,章澄昌,许焕斌,等.人工影响天气现状与展望[M].北 京：气象出版社,2002:30,325.[Li Dashan,Zhang Chengchang, Xu Huanbin,et al. Weather modification current situation and prospect[M]. Beijing: Meteorological Press,2002: 30,325.]   
+[8]邓铭江,李湘权,龙爱华,等.支撑新疆经济社会跨越式发展的 水资源供需结构调控分析[J].干旱区地理,2011,34(3):379- 390.[Deng Mingjiang,Li Xiangquan,Long Aihua, et al. Regulation of supply and demand structure of the water resources and support economic and social leap-forward development of protection measures[J]. Arid Land Geography,2011,34(3): 379-390.]   
+[9]苏宏超,沈永平,韩萍,等.新疆降水特征及其对水资源和生态 环境的影响[J].冰川冻土,2007,29(3):343-350.[Su Hongchao, Shen Yongping,Han Ping,et al. Precipitation and its impact on water resources and ecological environment in Xinjiang region[J]. Journal f Glaciologyand Geocryology,207,29(3): 343-350.]   
+[10] 王光焰,王远见,桂东伟.塔里木河流域水资源研究进展[J].干 旱区地理,2018,41(6): 1151-1159.[Wang Guangyan,Wang Yuanjian,Gui Dongwei.A review on water resources research in Tarim River Basin[J].Arid Land Geography,2018,41(6):151- 1159.]   
+[11] 刘金平,包安明,李均力,等.2001—2013年中亚干旱区季节性 积雪监测及时空变异分析[J].干旱区地理,2016,39(2):405-
+
+# 干吴区地理
+
+412.[Liu Jinping,Bao Anming,Li Junli,et al. Spatial and temporal characteristics of snow cover in arid area of Central Asia from 2001 to 2013[J]. Arid Land Geography,2016,39(2): 405-412.]   
+[12] 巩宁刚,孙美平,闫露霞,等.1979—2016年祁连山地区大气水 汽含量时空特征及其与降水的关系[J].干旱区地理,2017,40 (4): 762-771.[Gong Ninggang,Sun Meiping, Yan Luxia, et al.Temporal and spatial characteristics of atmospheric water vapour and itsrelationship with precipitation in Qilian Mountainsduring 1979——2016[J]. Arid Land Geography,2017,40(4): 762-771.]   
+[13] 陈勇航,黄建平,陈长和,等.西北地区空中云水资源的时空分 布特征[J].高原气象,2005,24(6):905-912.Chen Yonghang, Huang Jianping,Chen Changhe,et al. Temporal and spatial distributions of cloud water resources over north western China[J]. Plateau Meteorology,2005,24(6): 905-912.]   
+[14] 陈亚宁,王怀军,王志成,等.西北干旱区极端气候水文事件特 征分析[J].干旱区地理,2017,40(1):1-9.[Chen Yaning,Wang Huaijun,Wang Zhicheng,et al. Characteristics of extreme climatic/hydrological events in the arid region of north western China[J]. Arid Land Geography,2017,40(1): 1-9.]   
+[15] 常倬林,崔洋,张武,等.基于CERES 的宁夏空中云水资源特征 及其增雨潜力研究[J].干旱区地理,2015,38(6):1112-1120. [Chang Zhuolin, Cui Yang, Zhang Wu, et al. Characteristics and developing potential of cloud water resource in Ningxia with the CERES data[J]. Arid Land Geography,2015,38(6): 1112-1120.]   
+[16] 高子毅,买买提·阿尤甫,刘广忠,等.克拉玛依山区人工增水效 果的再评价[J].新疆气象,2000,23(1):23-26.[Gao Ziyi,Ayuf Maimat,Liu Guangzhong,et al. New evaluation of effect of orographic cloud seeding in Karamay[J]. Xinjiang Meteorology,2000, 23(1): 23-26.]   
+[17]王旭,张嘉伟,马禹,等.天山山脉强降水云宏微观物理属性的 空间分布特征[J].干旱区地理,2016,39(6):1154-1161.[Wang Xu,Zhang Jiawei,Ma Yu,et al.Spatial distribution of macro and micro physical properties of clouds during heavy rains over Tianshan Mountains[J].Arid Land Geography，2016,39(6):1154- 1161.]   
+[18] 陈春艳,赵克明,阿不力米提江·阿布力克木,等.暖湿背景下新 疆逐时降水变化特征研究[J].干旱区地理,2015,38(4):692- 702.[Chen Chunyan, Zhao Keming,Ablikim Ablimitijan,et al. Temporal and spatial distributions of hourly rain intensity under the warm background in Xinjiang[J]. Arid Land Geography,2015, 38(4): 692-702.]   
+[19] 谢友文,张慧琴,朱浩,等.吐鲁番盆地人工增水作业区域与作 业时机选择[J].干旱区地理,2017,40(5):958-966.[Xie Youwen, Zhang Huiqin, Zhu Hao,et al. Artificial anstau area and operation opportunity selection in Turpan Basin[J]. Arid Land Geography,2017, 40(5): 958-966.]   
+[20] 章澄昌.人工影响天气概论[M].北京:气象出版社,1992:252- 253.[Zhang Chengchang.Weather modification generality[M]. Beijing: Meteorological Press,1992: 252-253.]   
+[21] 曾光平,方仕珍,肖锋.1975—1986年古田水库人工降雨效果 总分析[J].大气科学,1991,15(4): 97-108.[Zeng Guangping, Fang Shizhen,Xiao Feng.The total analysis of the effect of artificial rainfall in Gutian Reservoir Area,Fujian (1975—1986)[J] Chinese Journal of Atmospheric Sciences,1991,15(4): 97-108.]   
+[22] 钱莉,俞亚勋,杨永龙.河西走廊东部人工增雨试验效果评估 [J].干旱区研究,2007,24(5): 679-685.[Qian Li,Yu Yaxun, Yang Yonglong. Assessment on artificial rainfall experiment in the east Hexi Corridor[J]. Arid Zone Research,2007,24(5):679- 685.]   
+[23] 钱莉,王文,张峰,等.河西走廊东部冬春季人工增雪试验效果 评估[J].干旱区研究,2006,23(2):349-354.[Qian Li,Wang Wen, Zhang Feng, et al.Assessment on the artificial snowfall experiment in the east Hexi Corridor in winter and spring[J].Arid Zone Research, 2006,23(2): 349-354.]   
+[24]李健丽,余晔,赵素平.新疆阿勒泰地区人工增水效果评估[J] 冰川冻土,2018,40(2):388-394.[Li Jianli,YuYe,Zhao Suping. Effect evaluation of artificial precipitation in Altay Prefecture,Xinjiang[J].Journal ofGlaciologyand Geocryology,2018,40(2):388 394.]   
+[25] 李斌,郑博华,兰文杰,等.克拉玛依市冬季飞机人工增雪作业 效果统计分析[J].干旱区地理,2018,41(4):10-16.[Li Bin, Zheng Bohua,Lan Wenjie,et al.Statistical analysis of efect of aircraft artificial snowfall enhancement in winter in Karamay[J]. Arid Land Geography,2018,41(4): 10-16.]   
+[26] 陈光学,段英,吴兑,等.火箭人工影响天气技术[M].北京:气象 出版社,2008:139,158-161,193,198-199,317-318.[Chen Guangxue,Duan Ying,Wu Dui,et al.Rocket weather modification technology[M]. Beijing:Meteorological Press,2008:139,158-161, 193,198-199,317-318.]   
+[27] 叶家东,范蓓芬.人工影响天气的统计数学方法[M].北京:科学 出版社,1982:196-202,301.[Ye Jiadong,Fan Beifen. Statistical mathematical methods of weather modification[M]. Beijing: Science Press,1982:196-202,301.]   
+[28] 邓北胜.人工影响天气技术与管理[M].北京:气象出版社, 2011:146-147.[Deng Beisheng.Weather modification technology and management[M]. Beijing: Meteorological Press, 2011: 146- 147.]   
+[29]中国气象局科技教育司.人工影响天气岗位培训教材[M].北 京：气象出版社,2003:216-217.[Science and Technology Education Department of China Meteorological Administration. On-thejob training materials of weather modification[M]. Beijing: Meteorological Press,2003: 216-217.]
+
+# Regression analysis of the rainfall enhancement effect by rocket seeding at summer and autumn in Karamay
+
+LI Bin'， ZHENG Bohua'， LAN Wenjie²， YANG Lin²， DOU Chunling² (1.Weather Modification Office of Xinjiang Uygur Autonomous Region, Urumqi 83ooO2,Xinjiang, China; 2.Karamay Meteorological Bureau in Xinjiang,Karamay 8340oo, Xinjiang, China)
+
+Abstract: Via an analysis of the effect of rainfall enhancement by rocket seeding during summer and autumn in Karamay City, Xinjiang,China in recent years,this paper provides distribution characteristics of the distance between the operation eect and the operation point and a relationship between the operation effect and the rocket projectile quantity,soas to provide a scientific basis for beter artificial rainfall operation on the ground in the future.Using precipitation data from the Karamay and Baikouquan Weather Stations from June to September in the period of 1990—2017 and from the Shihuachang Weather Station from June to September in the period of 1994——2017,the efect of rainfall enhancement by rocket seeding during summer and autumn in Karamay in the period of 2015—2017 was analyzed using a regression analysis method with the Baikouquan Weather Station as the comparison site and the Karamayand Shihuachang Weather Stations as the target sites.The efect at the Shihuachang Weather Station, approximately $9 ~ \mathrm { k m }$ from the operation site, was better than that at the Karamay Weather Station,approximately $4 ~ \mathrm { k m }$ from the operation site.This indicates that the rainfall enhancement effect is smaler at areas too close or too far from the operation point.More operation times in one month improves the rainfall enhancement effect, with 5-7 rocket projectiles per operation improving the rainfallenhancement effect. Therefore,good efects ofrainfall enhancement by rocket seeding are likely located acertain distance downwind of the operation point and the number of rocket projectiles per operation needs to be appropriate: too many projectiles may cause rain reduction,while too few may degrade the catalytic efect.The operation of rainfall enhancement on the ground,especially the operation of rainfall enhancement for convective clouds on the ground,needs to be combined with weather radar echo data to determine the operation object index to implement rainfall enhancement more scientificallyand reasonably.Even though this paper analyzes the efect of rainfall enhancement by rocket seeding during summer and autumn, there is a limited number of samples and these effects need to be further analyzed and studied in the future.In particular,it is necessary to include weatherradar echo data to conduct further research and analyses to obtain the macro and micro physical changes of clouds and precipitation before and after the operation of rainfall enhancement on the ground and to conduct physical or statistical assessments of the operation effect to further enhance the credibility of assessments of this effect.
+
+Key words: rainfall enhancement; regional regression； effect analysis； Karamay

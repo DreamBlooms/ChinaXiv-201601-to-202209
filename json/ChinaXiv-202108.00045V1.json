@@ -1,0 +1,611 @@
+[
+    {
+        "type": "text",
+        "text": "公平规范执行中内群体偏爱的心理发展机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张振李海文 熊建萍　赵　辉　刘瑞雪 齐春辉(河南师范大学教育学部，新乡453007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要如何揭示群体规范和公平价值在个体心理发展中的作用机理，提升儿童-青少年在群际互动当中的公平感知与规范执行，是教育心理领域的关键问题。公平规范执行中内群体偏爱现象是近年来的研究热点之一，然而先前研究存在以下不足：1）大多采用问卷法，易受社会赞许性的影响，存在言行不一致的情况；2）大多采用情景实验，聚焦社会互动的最终行为输出端，无法实时有效地把握社会决策的动态进程；3）脑成像研究仍以fMRI技术为主，侧重于评估认知加工潜在的脑区激活模式及各脑区间的功能连接，缺乏对群际公平规范执行中大脑激活动态模式的精确把握。针对这些不足，本项目从资产分配情景出发，以儿童和青少年为研究对象，联合运用认知、行为、眼动和电生理等多层次测评手段，对公平规范执行中内群体偏爱的发生过程进行认知解析，探讨认知控制和心智化在其间的关键作用机制及其心理发展轨迹。研究结果将服务于中小学管理中的德育教育，引导与培养学生的公正感与行为。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词公平规范执行，内群体偏爱，心理发展，认知控制，心智化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "合作行为普遍存在于动物界和人类社会，是当代心理学研究中的一个热点和难点。Science在 2005年把“合作行为是如何进化的”问题列为125个科学前沿问题之一(Kennedy& Norman,2005)，国内学者也将“个体亲社会和反社会行为的发展历程及其心理机制”纳入中国心理学所面临的 50个重大问题之一（《心理科学》编辑部,2014)。合作行为包含公平、信任、互惠、捐赠等多种表现形式，其中人类的公平行为及其维护与执行备受国内外学者的关注(郭秀艳 等,2017;周晓林 等,2015;Güth&Kocher,2014)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行(fairness norm enforcement)指人们自愿损耗资源对公平规范违背者给予惩罚的意愿和行为(张振 等,2020;Feng etal.,2015)，是人类种群的独特标志之一，使得我们能够与匿名他人维持彼此协作互助的合作关系。公平规范执行在儿童青少年时期会发生有序渐变的系统性变化(McAuliffe et al.,2017)，并且认知控制和心智化能够中介年龄对规范执行的预测效应(苏彦捷等,2019; Moretti & Di Pellegrino,2010; Yang et al.,2017)。群体认同(group identity)指个体对其所属群体身份的知觉及其所付诸于此群体身份上的价值与情绪，使得个体在付诸公平规范执行时表现出内群体偏爱(the in-group favoritism,IGF)，较少地惩罚内群体违规者(McAulife &Dunham,2016)。大量研究表明公平规范执行和内群体偏爱都存在非常早期的发展基础(Buttelmann &Bohm,2014; Jordan et al.,2014;McAuliffe et al.,2017)。但是，在整个生长发育过程中，儿童如何整合两种逐渐形成的群体性价值和规范性价值尚存争议。一种理论强调公平规范执行中内群体偏爱随年龄增长而增强(郭庆科 等,2016)，另一种理论则认为公平规范执行中内群体偏爱随年龄增长而保持稳定或逐渐降低(Dunham etal.,2008)。因此，在儿童青少年时期，公平规范执行中内群体偏爱发展轨迹的潜在心理机制目前仍存争议：人类付诸公平规范执行时的内群体偏爱是否稳定存在，为何有时无法被检测到，甚至会发生翻转？此现象得以产生的潜在动机和认知机制是什么？在个体心理发展过程中，促进内群体偏爱的群体性价值和促进规范执行的道德性价值是如何发生交互影响的？有鉴于此，如何从心理发展视角入手，运用认知与脑科学的方法与技术，揭示公平规范执行中内群体偏爱在个体发展过程中的发生机制及调控因素，是当今心理学、脑科学、经济学以及教育学等领域亟需解决的重要难题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述难题，本项目以不同发展阶段的儿童和青少年为研究对象，联合运用认知、行为、眼动和电生理等多层次测评手段，从信息加工视角对公平规范执行中内群体偏爱的发生过程进行认知解析，探讨认知控制和心智化在内群体偏爱过程中的多重中介作用机制及在关键发展阶段中的变化轨迹，并考察此现象的发生边界与影响因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1公平规范执行的研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1公平规范执行的概念与影响因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行指人们自愿损耗利益来惩罚违反公平原则行为的意愿和行动(Feng etal.,2015;齐春辉，张振,2020)，包括个体作为受害者付诸的第二方规范执行及其作为旁观者付诸的第三方规范执行(张耀华 等,2013)。国内外学者多借助反映真实生活特征的资产分配任务，如最后通牒博弈(ultimatum game,UG)、迷你最后通牒博弈(mini-ultimatum game,mini-UG)和第三方惩罚博弈(third party punishment game,TPPG)，来描述与探究个体的公平规范执行(McAuliffe et al.,2017)。人们在资产分配情景中存在极强的公平偏好，对不公的分配方案表现出强烈的厌恶性，愿意表现出公平规范执行(McAuliffe&Dunham,2016)。公平规范执行被视为一种违背理性人假设的社会偏好行为，更适合从认知、情绪和动机角度进行解释，同时容易受到人格因素（如价值取向、抑郁）和环境因素（如社会距离、社会地位）的影响(张振 等,2020)。例如，杨邵峰等(2018)考察价值取向和决策情景对公平规范执行的影响，结果表明，追求自我利益的亲自我者在第二方和第三方情景中的公平判断标准及行为模式无差异，而相比第二方情景，关注他人利益的亲社会者在第三方情景时的公平接纳标准更为宽松，更多的接受不公提议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2公平规范执行的心理发展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行在整个童年期会发生系统性的变化，最为重要的发展节点有两个，分别是9岁(Basic et al.,2020)和 12 岁(Güroglu et al.,2009; Gummerum& Chu,2014)。其一，9 岁儿童逐渐从直接参与的第二方规范执行发展为间接旁观的第三方规范执行，前者反映了“我应受到公平对待”的自利关注，后者反映了“人人应该受到公平对待”的利他关注(Basic etal.,2020;McAuliffe et al,2017)。其二，12岁儿童逐渐从基于结果的规范执行（经济性）发展为基于意图的规范执行（互惠性），前者反映了基于经济利益比较所致的物质不平等厌恶，后者则反映了基于心理意图整合所致的社会不公平感知(Guroglu et al.,2009; Gummerum& Chu,2014)。新近公平规范执行的发展性研究逐渐从早期聚焦于虚拟情景的外显言语推理，逐渐过渡到当下关注于真实情景中的实际行为。在第二方规范执行的UG 情景中，4\\~5岁儿童倾向于接纳所有提议，但是从6\\~8岁开始，儿童逐渐学会拒绝低于总额 $50 \\%$ 的不公提议，且该模式会随年龄增长而增强(McAuliffeetal.,2017)。在第三方规范执行情景中，童年中期的儿童逐渐表现出有偿的第三方规范执行，从9\\~10岁开始，儿童逐渐学会惩罚针对第三方的不公行为，且该行为也会随年龄增长而增强(Basicetal.,2020)。在检测行为意图的mini-UG情景中，12岁儿童才能将意图与结果相整合，有选择性地付诸公平规范执行(Guroglu et al.,2009;Gummerum& Chu,2014)。相关证据描绘出了一幅有序渐变的图画，详尽描述了公平规范执行发展的时间进程，即首先出现直接相关的第二方规范执行，随后发展出间接互联的第三方规范执行，最后发展出互惠性规范执行(见图1A)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3公平规范执行的神经基础 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前检验公平规范执行潜在脑机制的发展性研究仍然比较稀缺，但是基于成人群体的脑成像研究却比较丰富，有助于我们理解“成熟的公平规范执行必须经历哪些重要的神经发展变化”。大量研究重复稳健地确定了一些涉及公平规范执行的神经网络及其所对应的认知功能(Buckholtz& Marois,2012; Declerck et al.,2013; Krueger & Hoffman,2016; McAuliffe et al.,2017)。公平规范执行涉及的脑网络包括突显网络(salience network,SN)、默认模块网络(default mode network,DMN)、中央执行网络(central executive network,CEN)和奖赏网络(reward network,RN)。其中，凸显网络包括前脑岛(anterior insula,AI)、背侧前扣带回(dorsal anterior cingulate cortex,dACC)和杏仁核(amygdala,Amyg)，负责违规检测及其伴随的情绪体验加工。默认模块网络包括内侧前额叶皮质(medial prefrontal cortes,mPFC)和颞顶联合区(temporoparietal junction,TPJ)，负责理解他人意图、信念等心智化加工。中央执行网络包括背侧前额叶皮质(dorsolateral prefrontal cortex,DLPFC)和后顶叶(posterior cingulate cortex,PCC)，负责行为控制和规范执行。奖赏网络包括纹状体(striatum,Str)和眶前额叶皮质(orbitofrontal cortex,OFC)，负责行为选择所致的预期价值评估。基于上述文献分析，我们认为公平规范执行的神经认知机制表现为：首先，基于违规程度诱发的负性情绪体验和违规者行为意图的理解，个体对违规者形成初步的责备评估。然后，个体对决策备选项的预期价值进行奖励加工。最后，基于预期奖励价值，个体在认知控制的参与下，将“责备信号”付诸为实际的规范执行与维护行为(见图1B)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c78aad1702d561b62632c384b8c31613c103ffd6d610738766bc8ed5fe782c9.jpg",
+        "img_caption": [
+            "图1公平规范执行的心理发展(A)及其神经心理学框架(B)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.4认知控制与心智化在公平规范执行中的作用",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在公平规范执行中，认知控制和心智化均发挥着至关重要的作用。认知控制(cognitive control)指个体控制自身想法与行为以实现目标行为的能力(苏彦捷 等,2019)，包括抑制控制、工作记忆、认知灵活性、情绪调节等成分(Crone& Steinbeis,2017)。心智化(mentalizing)指个体对他人心理状态的理解与操纵，进而达到解释、预测和影响他人行为的目的(Frith&Frith,1999)，也有学者以心理理论(theory of mind,ToM)来代指个体所获得的此种能力(Leslie,1987)。在公平规范执行中，认知控制主要负责抑制自私动机、调控多种动机彼此之间的冲突等。首先，在自陈量表得分、抑制任务绩效或外周心率变异性等数据层级上，认知控制均能够正向预测公平规范执行(Friehe&Schildberg-Horisch,2018;Sütterlin etal.,2011)；其次，处于自我控制损耗状态下的个体更愿意接纳不公平提议(Achtziger etal.,2016)；最后，有学者通过无创伤脑刺激技术干扰DLPFC 的功能，发现认知控制能力的受损会显著妨碍公平规范执行(Knoch et al.,2006;Ruff et al.,2013)。相较而言，心智化则负责推理与判断违规者的行为意图，是合理化冲突的前提与必要条件。首先，在人-机互动或mini-UG任务中，人们会依据违规者的意图有无及故意性，有选择地付诸公平规范执行(Chen et al.,2019;Moretti &DiPellegrino,2010)；其次，脑成像研究发现付诸规范执行时往往导致心理理论相关脑区(如 TPJ)的激活(McAuliffe et al.,2017)，且TPJ的激活程度能够中介年龄对规范执行的负性效应(Guroglu et al.,2011)；最后，精神分裂症病患者比对照组表现出无法识别对方意图的异常社会决策(Patil et al.,2020)，且心理理论在其中起着部分中介作用(Yang et al,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2公平规范执行中内群体偏爱的研究现状",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类是群居生活的社会性物种，群体交互与协作贯穿于整个社会生活，也是人类得以生存、发展和繁衍的关键因素。当群体身份被划分并得到认同后，会促使个体表现出群体偏见(intergroupbias)，即对内群体更为善意、宽容和利他，而对外群体则更为猜忌、漠视甚至敌意(Balliet et al,2014)。近年来，群体认同对公平规范执行的影响已成为该领域的热门话题，得到诸多学科领域学者的关注，并取得了丰硕的成果。学者们普遍赞同公平规范执行中群体偏见的存在，但对其效应方向、作用机理及边界仍存分歧：多数学者发现群体认同会导致内群体偏爱，削弱针对内群体成员的公平规范执行(McAuliffe&Dunham,2016)，而少数学者却认为内群体成员的公平违背会导致“黑羊效应”(the black sheep effect,BSE)，即当内群体成员违反某些群体规范时会遭受严厉的制裁，诸如驱逐、流放等(Wang etal.,2016)，进而增强公平规范执行(张振 等,2020)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人们如何认知并应对内群体成员实施的不公行为呢？该困境牵涉到内群体偏爱与黑羊效应的相互权衡，也体现了人情与道德之间的抉择。纯粹偏好理论和规范聚焦理论是解释公平规范执行中群体偏见发生机制的两种理论(张振 等,2020)。纯粹偏好理论(mere preference theory,MPT)认为当人们对其所隶属的群体形成清晰认同后，会倾向于采用积极正性的方式评估其所属群体及成员，这种积极的认知与评价会使其更加溺爱、宽容、甚至包庇内群体成员的过失，或者对于过失行为给予合理化的解释，最终给予内群体成员较弱的惩罚(Choi&Bowles,2007)。规范聚焦理论(normal focus theory,NFT)则强调个体对隶属群体的依附是功能性的，会强化其对群体规范的遵循和合作预期，而内群体成员的违规行为违反了群体生活的核心原则，可视为群体认同的一种潜在威胁，因此人们会严厉地惩罚内群体成员的不公行为(McAuliffe&Dunham,2016)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "张振等(2020)认为，内群体偏爱和黑羊效应均是维持与提升内群体偏爱的重要策略，只是表现形式略有不同而已。在群际公平规范执行情景下，人们具体采用何种形式的关键在于两点：一方面，如何评估内群体成员违规意图的清晰性与明确性，而心智化在此过程中起着重要作用。有研究发现基于心理推理获知的意图归因能够调节内群体偏爱的形式(Wang et al.,2016)，并且心理推理网络激活程度与人们对内群体成员违规行为的惩罚强度呈负相关，表明人们试图理解并合理化组内成员的违规行为(Baumgarnter et al.,2012; Fatfouta et al.,2017)。另一方面，群际情景中公平规范的维护与执行需要个体妥善权衡多种行为动机（如自私动机、规范维持动机、报复动机、内群体偏爱动机等），最终执行决策时必然涉及到认知控制加工(杨邵峰 等,2018)。有学者发现内群体互动中的不公提议比外群体互动诱发更负的FRN和更强theta能量，反映了更强的预期违背及负性情绪体验，但被试仍更愿意包容与接受之(王益文 等,2014;Wang et al.,2017)。因此，认知控制和心智化可能是公平规范执行中内群体偏爱的关键认知机制，在群体认同与内群体偏爱之间起着中介作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3公平规范执行中内群体偏爱的心理发展",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "成人研究结果存在诸多分歧与冲突，可能源自于其经历过丰富的群体互动经验和社会文化薰陶，因此从个体心理发展视角出发，检验儿童如何权衡内群体偏爱动机和公平规范维护动机之间的竞争需求，在一定程度上能够将人类的早期遗传倾向与晚期社会化结果相分离，有益于揭示公平规范执行中狭隘利他性的发生发展机制及其动态变化轨迹。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现有研究表明公平规范执行和内群体偏爱都存在非常早期的发展基础，6\\~8岁儿童就能够表现出一定的公平规范执行和内群体偏爱(Butelmann& Bohm,2014; Jordan et al.,2014; McAuliffeet al.,2017)。但是，目前尚不清楚两者如何交互影响，最终促成成人表现出公平规范执行的内群体偏爱。一种理论观点认为幼婴儿最开始就具备秉公的执行规范，只是晚期逐步受到群体认同的影响，因此公平规范执行的内群体偏爱会随儿童年龄的增长而增强(郭庆科等,2016)。另一种理论观点则强调内群体偏爱可能出现于发展早期，并随着发育过程而保持稳定或逐渐降低(Dunhamet al.,2008)。因此，在整个生长发育过程中，儿童面临着将逐渐形成的群体性价值与道德性价值相整合的挑战，其中前者力图促进内群体偏爱，而后者则力图促进秉公性。但是，目前研究尚不知晓这两种逐渐形成的价值如何交互作用于公平规范执行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述议题，目前国内外学者均探讨了儿童群体中公平规范执行的内群体偏爱现象，然而所得结果仍存争议。一些研究发现儿童付诸公平规范执行时会表现出内群体偏爱现象。Jordan 等(2014)采用基于颜色偏好的最简单群体范式(minimal group paradigm,MGP)操纵群体认同，要求6或8岁儿童作为第三方旁观者决定是否有偿的惩罚自私行为，发现当外群体成员向内群体成员提供不公提议时，6岁儿童会给予更严厉的惩罚；8岁儿童则会惩罚不利于内或外群体的不公行为。郭庆科等(2016)采用隶属相同学校来操纵群体身份，要求小学一、三和五年级学生参与第三方惩罚任务，发现一年级学生的第三方惩罚不受群体认同的影响，但三和五年级学生对外群体的惩罚强度显著高于内群体。另一些研究却发现儿童付诸公平规范执行时存在黑羊效应。Wu和Gao(2018)以3\\~6岁儿童为研究对象，采用基于颜色偏好的MGP来操纵群体认同，发现5\\~6 罗女童倾向于惩罚内群体违规者，而5\\~6岁男童会同等程度地惩罚内、外群体违规者。王芹等(2018)发现8\\~11岁男童更愿意惩罚同性别的违规者。还有一项研究并未在公平规范执行中发现群体偏见现象。McAuliffe和Dunham(2017)采用基于颜色偏好的MGP来操纵6\\~10岁儿童的群体认同，要求其在无欺骗情景中与内、外群体成员完成UG任务，发现MGP虽能有效地诱发群体认同，但却无法调控儿童的公平规范执行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行的群体偏见在儿童群体上也存在较大的变异，其原因可能在于个体发育过程中认知控制与心智化功能的逐渐发展与成熟。一方面，毕生发展观强调认知控制和心智化在整个生命发展过程中均有所变化，而儿童期至青春期是认知控制和心智化发展的关键阶段(Dumontheilet al.,2010;Luna etal.,2015)，并直接影响着儿童与青少年的资源分配、社会惩罚与道德认知(王笑楠 等,2019;Gummerum& Chu,2014)，因此认知控制和心智化能够中介年龄对公平规范执行中内群体偏爱的效应。另一方面，心智化的表达理论认为，认知控制是心智化的产生基础，能够影响其正确表达(Leslie&Polizi,1998)。一项元分析发现，在个体的毕生发展中，认知控制均能显著预测心智化能力，证实了认知控制对心智化的预测与制约作用(苏彦捷，于晶,2015)，因此认知控制和心智化的链条也可能是年龄促进内群体偏爱的潜在途径。综上所述，认知控制和心智化的心理发展可能是解释公平规范执行中内群体偏爱的关键认知机制，并建构了一种潜在的序列中介模型(见图2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b13c942878af155bc40d1734f004f7cad1ef5dcb745b15f6920cdaa8748362cd.jpg",
+        "img_caption": [
+            "图2认知控制与心智化的中介模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4对现有研究的反思",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于上述文献的梳理与分析，公平规范执行中内群体偏爱领域仍存在下述议题亟需澄清。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一，公平规范执行中内群体偏爱的稳健性有待验证。虚拟线索、自然线索和社会线索是操作群体认同的三种主要方式，然而彼此所诱发的群体认同却存在较大差异，可能是导致矛盾性结果的重要缘由(张振 等,2020)。首先，有研究发现人们在最简单群体范式中表现出内群体偏爱，而在真实群体当中却显现出黑羊效应(Goette etal.,2006)。其次，虽然人们在直觉上认为真实群体比最简单群体存在更强的群体认同(Huettel& Kranton,2012)，但是一项元分析却发现随机线索诱导的群体认同强于社会线索(Lane,2016)。最后，社会线索极易受到社会化过程、地缘位置等因素的影响，存在极强的文化差异性。例如，基于社会线索建构群体关系进而发现黑羊效应的研究大多基于西方文化背景，可能就反映了东方文化更侧重于集体主义文化，对内群体成员的过失表现出更多的忍让和包容。为了克服操纵方式不同所引起的混淆与变异，本项目试图在系列研究中，分别采用虚拟线索、自然线索和社会线索来操纵与检验群体认同，进而比较不同群体认同操纵导致群际偏见的效应大小及方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二，公平规范执行中内群体偏爱的认知神经机制尚不清晰。虽然前人研究探讨了群体认同对公平规范执行的影响，取得了丰富的成果，但仍存在以下的局限性：第一，以往研究大多采用问卷法或情景实验，前者易受到社会赞许性的影响，存在言行不一致的情况；后者则聚焦于社会互动的最终行为输出端，无法实时有效地把握社会决策的动态进程。第二，虽然少量研究推测认知控制、心智化在公平规范执行的内群体偏爱现象中发挥着重要作用，但两者如何交互作用尚不清楚，公平规范执行中内群体偏爱的认知机制尚需揭示。第三，目前公平规范执行中内群体偏爱的脑成像研究仍以fMRI技术为主，侧重脑区激活的空间分辨率，有利于评估认知加工潜在的脑区激活模式及各脑区间的功能连接，然而却缺乏对群际公平规范执行中大脑激活动态模式的精确把握。针对上述不足，本项目组做出了两方面的应对：一方面，将经济博弈范式与现场实验、实验室实验相结合，重点发挥高时间分辨率的眼动技术与脑电技术的优势，收集认知一行为一眼动一脑电层级数据指标，深入揭示公平规范执行中内群体偏爱现象的动态认知变化进程。另一方面，采用行为范式评估受测者的认知控制和心智化能力，通过客观测评指标(白学军，徐伟,2015)，揭示认知控制与心智化交互影响公平规范执行中内群体偏爱的作用路径。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第三，公平规范执行中内群体偏爱的发生机制及发展轨迹有待揭示。目前少量研究考察了群体认同如何影响学龄期儿童的公平规范执行，但是相关结果仍不一致，且存在以下两方面的欠缺：一方面，大多数研究中被试均为学龄期儿童，年龄范围略窄（6\\~11岁），无法全面准确地描绘学龄期至成人期中公平规范执行中内群体偏爱的发展变化轨迹。另一方面，研究所使用的实验任务在决策视角、收益矩阵、度量尺度、行为成本和互动情景上均略有不同，缺乏系统性、可比性和发展性，且较少关注认知控制和心智化的作用，无法精准地检验与比较认知控制和心智化在多种公平规范执行情景中的作用。为了弥补上述缺陷，本项目组从两方面做出应对：其一，被试年龄范围增加为 $6 { \\sim } 2 0$ 岁，涵盖了学龄期至青年期的发展阶段，具体分别设置6\\~8岁、10\\~12岁、14\\~16 岁和 $1 8 { \\sim } 2 0$ 岁四各年龄组。其二，在系列研究中，采用行为范式评估不同年龄组的认知控制和心智化能力(苏彦捷等,2019),并要求其完成统一编制的UG、mini-UG和TPPG 范式(张振 等,2020)，提升实验研究的发展性、可比性和系统性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1研究内容",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于对以往研究的梳理与分析，本项目旨在揭示公平规范执行中内群体偏爱的发生发展机制以及认知控制与心智化的具体作用，详尽阐明群体性价值与道德性价值彼此交互的心理发展轨迹及其认知机制，从而引导与培养公平感与正义行为，最终促进公民道德教育体系的构建。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本项目拟定从以下三个方面展开研究，见图3：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究核心维度 心理发展 群体操纵 实验范式 关键技术 测评指标  \n群第 童年早期 随机线索 UG 心理测量技术 公平感知、互惠预期展的感知-行为轨迹 （MGP) 行为反应时技术 反应时、拒绝率童年晚期  \n研究二 互惠性规范执 自然线索 瞳孔直径、注视时间与  \n行内体偏爱发生发 （性别） mini-UG 眼动技术 次数及比率、眼动轨迹少年期  \n研究三第三方规范执 社会线索 FRN、P300、LPC  \n行中内群体偏爱发生发 青年早期 （国籍） TPPG 脑电技术展的脑动态机制 theta、alpha、beta",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.1研究一：第二方规范执行中内群体偏爱发生发展的感知-行为轨迹",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然前人研究初步探讨了儿童参与群际公平规范执行时的心理与行为模式，但是相关结果仍然存在很大的分歧，并且较少考虑认知控制和心智化在其中所发挥的作用路径。此外，儿童研究大多采用问卷法或虚拟互动博弈，聚焦于儿童对公平规范及其执行的自我感知与主观判断上面，容易导致言行不一致的情况。有鉴于此，本项目首先从感知判断和实际行为的角度，考察第二方规范执行中内群体偏爱现象在儿童青少年群体中的变化轨迹及认知控制与心智化的潜在影响。本研究的重点在于采用客观工具评估儿童青少年的认知控制和心智化，借助MGP范式（随机分配）操纵群体认同，要求其作为反应者与内、外群体成员完成经典最后通牒博弈任务，并报告其面临不同分配提议时的情绪体验、公平性感知、互惠预期及实际行为决策。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2研究二：互惠性规范执行中内群体偏爱发生发展的眼动注意模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行在童年期至青春期存在一个重要的发展节点：从基于结果的规范执行发展为基于意图的规范执行，前者反映了基于经济利益比较所致的物质不平等厌恶，后者则反映了基于心理意图整合所致的社会不公平感知。研究二从高时间分辨率的眼动模式着手，考察互惠性规范执行中内群体偏爱现象在儿童青少年群体中的变化轨迹及注意分配模式。本研究的重点在于借助自然线索（性别线索）操纵群体认同，要求被试充当反应者与内、外群体成员完成mini-UG任务，并记录其面临各种分配方案时的情绪体验，公平感知、行为决策和眼动数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3研究三：第三方规范执行中内群体偏爱发生发展的脑动态机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公平规范执行在心理发展过程中的另一关键节点就是：从直接参与的第二方规范执行发展为间接旁观的第三方规范执行，前者反映了“我应受到公平对待”的自利关注，后者反映了“人人应该受到公平对待”的利他关注。研究三运用高时间分辨率的脑电技术，考察第三方规范执行中内群体偏爱现象在儿童青少年群体中的发展轨迹及脑活动动态变化时程。本研究的重点在于借助社会线索（国籍线索）操纵群体认同，要求被试充当反应者与内、外群体成员完成第三方惩罚博弈任务，并记录其面临不同分配提议时的行为与脑电时频数据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.4系列研究的逻辑递进性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本项目的核心问题是通过收集认知一行为一眼动一脑电层级数据指标，试图立体化地揭示公平规范执行中内群体偏爱的发生发展历程及其心理机制，因此系列研究的逻辑递进性主要侧重于数据层级及其特性方面。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，使用测评与行为反应时技术检验其决策终端的行为反应模式。虽然前人研究初步检验了儿童参与群体互动情景时公平规范执行及其发展轨迹，然而所得结果仍然比较匮乏，且存在彼此不一致的情况(张振 等,2020;McAuliffe&Dunham,2016)。同时，情景问卷法和虚拟博弈法的使用，使得儿童更多地聚焦于公平规范执行的自我感知与主观判断上面，容易导致言行不一致的情况(McAuliffe etal.,2017)。因此，本项目首先将感知判断和实际行为反应相结合，检验公平规范执行中内群体偏爱在儿童至青少年期间关键发展阶段上的变化，以期提供相对完整的初步发展轨迹。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，使用眼动追踪技术探究其决策过程中信息加工模式。在社会互动与决策领域中，基于决策结果的传统行为反应时实验大多只关注决策中的输入-输出数据，无法描述实际的决策过程。相较而言，借助于高时间分辨率的眼动追踪技术，学者们可以对决策进程、中间状态和先后顺序进行检验(Weber&Johnson,2009)。眼动追踪技术能够获取多样性的信息数据，使得诸多眼动指标既能反映决策过程的空间特征，又能反映决策过程的时间特征；既能反映信息的加工广度，又能反映信息的加工深度(魏子晗，李兴珊,2015;Glockner&Witteman,2010)。基于多种眼动数据指标，我们可以尝试推测某个备选项在决策中的凸显性、相对重要性和是否被忽略，甚至决策的整体加工模式，有益于揭示公平规范执行中内群体偏爱的发生发展过程及其决策过程中的眼动模式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，借用脑电记录技术揭示其决策过程中大脑动态变化机制。虽然眼动追踪技术能够检验决策动态过程中的信息加工，但其数据层次依然隶属于行为层面，无法探究心理行为潜在的大脑动态加工机制。相较而言，高时间分辨率且无创伤性的脑电技术不仅能够实时监测决策的动态过程，而且能够反映决策过程潜在的脑电活动(Luck,2014)。脑电位技术同样可以产生多样性的信息数据，既包含对相位锁定活动的时域分析(如波幅、潜伏期等)，又包括对非相位锁定活动的频域分析(如频率能量、相位一致性、耦合等)，还涉及时域与频域成分的逆向溯源分析(武侠，钟楚鹏，丁玉珑，曲折,2018)。基于这些脑电数据指标，我们可以尝试推测决策不同阶段中各种刺激引起的大脑认知加工特性，甚至不同阶段彼此之间的连通性与预测性，乃至决策的整体加工模式，有利于揭示公平规范执行中内群体偏爱的发生发展过程及其潜在的脑机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2研究方案",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 被试 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究一至三分别使用不同的样本，确保结果的重复性和推广性，并避免实验处理间的相互污染。鉴于前人研究(McAuliffe et al.,2017)发现，6\\~20 岁是公平规范执行快速发展的年龄段，每个研究拟定设置四个年龄组：6\\~8周岁组、10\\~12周岁组、14\\~16周岁组和18\\~20周岁组，各个年龄段招募中国儿童青少年30人，共计120人。每组被试的性别比例相同，避免性别的潜在混淆。所有被试男女各半，右利手，身体健康，并且近期内未参与其他经济决策类任务和心理学实验。在实验开始前进行安全检查和伦理告知，并填写知情同意书。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 实验材料与工具",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1）群体认同的操纵与检验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考前人研究(Wang et al.,2017；张振 等,2020)，群际身份的操纵线索分为随机线索、自然线索和社会线索，因此本项目中研究一至三分别采用MGP 范式、性别信息（男性vs.女性）和国籍信息（中国vs.韩国）来操纵群体认同。同时，采用人际关系亲密度量表(Inclusion of otherin the self scale,IOS; Aron et al.,1992)和群体融合量表(Inclusion of ingroup in the self measure, IIS;Tropp&Wright,2001)评定受测者感知到与内、外群体成员间的人际距离和群体融入程度，以检验群体认同操纵的有效性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2）公平规范执行任务 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 参考本课题组的以往研究(Wang etal.,2017)，研究一采用最后通煤博弈(UG)度量第二方规范执行。UG任务由两名玩家共同完成，玩家A（提议者）提供如何分配给定金钱（如10元）的分配提议，玩家B（反应者）决定是否接受分配方案。若接受，双方获得相应金钱；若拒绝，双方什么也得不到。被试作为反应者完成UG任务。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 参考前人研究(Jaroslawska etal.,2020)，研究二采用迷你-最后通煤博弈(mini-UG)评估互惠性规范执行。mini-UG任务是经典UG任务的变式，仍由两名玩家共同完成。区别在于，提议者不能自由决定如何分配给定的金钱，只能从给定的两种分配方案中做出迫选。该任务往往将一个劣势不公平方案（如8:2，冒号前数字为提议者所得收益，冒号后数字为反应者所得收益）与其他四种方案相匹配，包括平均分配方案(5:5)，慷慨分配方案(2:8)，同样的劣势不公平方案(8:2)和更不公平方案(10:0)。双方均知晓两种备选项对提议者而言是可获取的。被试作为反应者完成mini-UG任务。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 参考前人研究(Cui etal.,2019)，研究三采用第三方惩罚博弈(TPPG)测评第三方规范执行。TPPG 任务是独裁者博弈的一种变式，增添了一个拥有处罚权的第三方旁观者。具体而言，玩家A（独裁者）被赋予10元钱，并要求其决定分享给玩家B（接受者）任何金钱，且对方无法拒绝。玩家C（惩罚者）知晓独裁者的分配方案后，被赋予5元钱，并要求其指明愿意耗费多少钱去惩罚独裁者。每1元钱能够使独裁者损失 $20 \\%$ 的收益。独裁者事先知晓惩罚者的存在及其惩罚权益。被试作为惩罚者参与TPPG任务。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3）认知控制和心智化任务的测评",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采用 go-nogo 任务(Bokura et al.,2001)和情绪调节内隐联想测验(Mauss et al.,2006)测评抑制控制能力和内隐情绪调节能力。采用眼神读心测验(RMET; Baron-Cohen et al.,2001)和指示任务(Keysar etal.,2003)评估心智化能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 实验程序",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "三个系列研究的实验程序是相似的，被试依次完成(1)群体认同的操纵与检验；(2)公平规范执行任务；(3)认知控制任务和心智化任务。彼此间的区别有两点：第一，研究一至研究三依次",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采用随机线索、性别线索和国籍线索启动群体认同。第二，研究一至研究三依次采用UG、mini-UG和 TPPG来测量第二方规范执行、互惠性规范执行和第三方规范执行。三种规范执行任务的流程图如下所示：",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5261993d0ad5a0b00207315baea7f71a6cec16db252eff0975dec6d9fd1c126.jpg",
+        "img_caption": [
+            "图4外群体互动中UG(a)、mini-UG (b)和TPPG(c)任务的实验流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 数据采集",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1）自陈报告数据采集",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "包含自陈人格问卷和公平规范执行相关的感知判断量表。自陈人格问卷用于测量与公平规范执行相关的人格因素，包括大五人格、亲社会性等。另外，被试在每次决策前，需要在5点量表上报告其面临各种提议时的情绪体验、公平感知和互惠预期，包括：（a）对于此分配提议，你感到的愤怒程度是多少？（b）对于此分配提议，你认为其公平性如何？（c）与该玩家互动时，你事先预期得到公平对待的程度是多少？（1为最低，5为最高）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2）行为数据采集",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用 E-prime 软件编制所有的实验程序，实验刺激呈现于19 英寸纯平显示器( $1 0 2 4 \\times 7 6 8$ 分辨率)上。在被试完成公平规范执行的博弈任务过程中，自动记录其反应时和按键反应。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3）眼动数据采集",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用EyeLink10o0(SRResearch,Canada)Desktop 眼动仪，采样率 $1 0 0 0 \\mathrm { H z }$ ，记录注视点最短时长 $4 0 ~ \\mathrm { m s }$ 。实验中采用距离显示器 $5 8 \\mathrm { c m }$ 的腮托，利用眼动追踪系统的自动补偿机制，使得头动对眼动轨迹记录的影响达到最小。实验刺激呈现于19英寸纯平显示器( $1 0 2 4 \\times 7 6 8$ 分辨率)上。被试眼睛与屏幕边缘的水平视角为 $2 8 ^ { \\circ }$ ，垂直视角为 $2 1 ^ { \\circ }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4）EEG数据采集",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用 NeuroScanERP记录与分析系统，按国际10\\~20系统扩展的64导电极帽记录 EEG。以双侧乳突平均值为参考。双眼外侧安置电极记录水平眼电(HEOG)，左眼上下安置电极记录垂直眼电(VEOG)。每个电极处的头皮电阻保持在 $1 0 \\mathrm { k } \\Omega$ 以下。滤波带通为 $0 . 0 5 { \\sim } 1 0 0 \\mathrm { H z }$ ，采样频率为$1 0 0 0 \\ : \\mathrm { H z / }$ 导。完成连续记录 EEG 后离线(off-line)处理数据，用 Scan 软件校正VEOG 和HEOG，并充分排除其他伪迹，波幅大于 $\\pm 8 0 \\mu \\mathrm { V }$ 者被视为伪迹自动剔除。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1）自陈报告数据分析 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a）将自陈人格问卷的数据作为协变量，以期排除潜在人格因素的影响；b）将公平主观感知作为公平规范执行、眼动数据和脑电信号的预测变量，计算公平感知与上述客观指标之间的相关系数和回归系数。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2）行为数据分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "计算不同条件下的公平规范执行的比例和反应时，采用方差分析检验各种实验处理的主效应和交互作用。将认知控制和心智化的任务得分作为预测公平规范执行、眼动数据和脑电信号的预测变量，计算其与上述客观指标之间的相关系数和回归系数。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3）眼动数据分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "局部过程特征比较：主要考察瞳孔直径(指被试对测量区域内兴趣区注视时瞳孔直径大小，瞳孔直径越大说明越感兴趣且进入视网膜信息量越大)、注视时间(指被试的眼睛注视在兴趣区内的时间，时间越长说明加工越多)、注视时间比率(指被试在兴趣区内的注视时间与注视整个屏幕时间的比值)、注视次数(指被试在兴趣区内超过 $1 0 0 \\mathrm { m s }$ 的注视次数)和注视次数比率(指被试在兴趣区内的注视次数占整个屏幕注视次数的比值)(魏子晗，李兴珊,2015)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "整体过程特征比较：选取眼动轨迹对决策的整体过程进行比较。参考 Zhou等人(2016)的方法定义了经典试次的眼动轨迹，即任务中最具代表性的眼动轨迹模式。具体计算方法为：首先，基于各个条件计算试次彼此间的相似性分数；然后，计算各个试次与其他试次间相似性分数的平均数；最后将平均相似性分数最大的试次定义为所属条件的典型试次(周蕾 等,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4）EEG数据分析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "事件相关电位分析(Event-related Potentials,ERPs)：采用 MATLAB 软件中的EP Toolkit 软件进行PCA分析，以期区分彼此重叠的ERP成分。首先Promax旋转方对数据进行时域PCA分析，以获取各时间节点上的变异。然后，对每一种时域因素进行频域 PCA分析，使用Infomax 旋转将结果转换到频域上。最终，获得一些独特的时空因素组合，并挑选与感兴趣 ERP成分(如 FRN、P300、LPC等)相对应的因素组合。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "事件相关震荡分析(Event-related Oscillations,EROs):依托 MATLAB 软件中 EEGLAB 软件中的一种复杂的Morlet小波转换方法进行时频分析，对- $\\cdot 1 0 0 0 \\mathrm { m s }$ 至 $2 0 0 0 ~ \\mathrm { { m s } }$ 时窗内 $3 { - } 3 0 \\mathrm { H z }$ 频段提供连续的能量估计(Delorme& Makeig,2004)。这种程序先对 EEG 数据进行单试次分析，再完成多试次的平均,最终获得各条件下的不同频段的信号:theta(4-7Hz),alpha(8-12Hz),beta $( 1 3 - 3 0 \\mathrm { H z } )$ U",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "溯源分析(source analysis)：使用 sLORETA来评估不同条件下ERPs 和 EROs 成分进行溯源分析。首先，基于一个真实头部模型创建一个包含 5000个节点的边界元素模型；然后，计算特定时间窗口内的统计非参数映射，进而评估不同ERPs、EROs成分的大脑定位。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 理论建构",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "随着全球化进程的快速发展和不断推进，不同种族、社会或文化群体成员之间开展合作与协作的必要性越来越重要且明显。如何兼顾公平规范与内群体偏爱日益成为组织、社区和社会所面临的巨大挑战，这使得公平规范执行中内群体偏爱现象成为诸多学科领域的研究热点，诸如社会学、进化科学、心理学、经济学、神经科学等(张振 等,2020)。然而，通过对现有文献的梳理与分析，我们发现本研究领域仍然存在诸多争议：人类付诸公平规范执行时的内群体偏爱是否稳定存在，为何有时无法被检测到，甚至会发生翻转？此现象得以产生的潜在动机和认知机制是什么？在个体心理发展过程中，促进内群体偏爱的群体性价值和促进规范执行的道德性价值是如何发生交互影响的？为了回答上述议题，本项目从资产分配情景出发，以儿童和青少年为研究对象，联合运用认知、行为、眼动和电生理等多层次测评手段，对公平规范执行中内群体偏爱的发生过程进行认知解析，探讨认知控制和心智化在其间的关键作用机制及其心理发展轨迹。相关研究结果可以从下述三个方面对现有研究进行了理论延伸与拓展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，澄清公平规范执行中内群体偏爱的效应方向与稳健性。当前学者们普遍赞同公平规范执行中群体偏见现象的存在，但对于其效应方向性、稳健性及边界范畴仍存在分歧和争论：大多数学者发现群体认同会导致内群体偏爱，进而削弱针对内群体成员的公平规范执行(McAuliffe& Dunham,2016)，一些学者则发现内群体成员的公平违背会导致“黑羊效应”，进而增强公平规范执行(Wang et al.,2016)，甚至少数学者强调黑羊效应看似与内群体偏爱态度相悖，但实际上却是服务于群体的利益,有助于维持和提升内群体偏爱，两者存在彼此融合的可能(Mendoza et al.,2014)。同时，虚拟线索、自然线索和社会线索是操作群体认同的三种主要方式，然而彼此所诱发的群体认同却存在较大差异，可能是导致矛盾性结果的重要缘由(张振 等,2020)。因此，本项目的第一个预期目标是：在系列研究中，分别采用虚拟线索、自然线索和社会线索来操纵与检验群体认同，进而比较三种群体认同启动是否等同地调控人类的公平规范执行及其机理，进而回答“公平规范执行中内群体偏爱的稳健性”的议题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其次，揭示公平规范执行中内群体偏爱的认知神经机制。目前公平规范执行中内群体偏爱的现有文献在研究方法、研究技术和作用机理上存在明显不足，无法实时动态有效地反映其潜在的认知神经机制。在研究方法上，现有研究大多使用问卷法，易受社会赞许性的影响，存在言行不一致的情况。在研究技术上，脑成像研究仍以fMRI技术为主，侧重于评估认知加工潜在的脑区激活模式及各脑区间的功能连接，然而却缺乏对群际公平规范执行中大脑激活动态模式的精确把握。在作用机理上，虽然少量研究推测认知控制、心智化在公平规范执行的内群体偏爱现象中发挥着重要作用，但两者如何交互作用尚不清楚。有鉴于此，我们将经济博弈范式与现场实验、实验室实验相结合，重点发挥高时间分辨率的眼动技术与脑电技术的优势，收集认知一行为一眼动一脑电层级数据指标，深入揭示公平规范执行中内群体偏爱现象的动态认知变化进程。同时，本项目建构了一种多重中介模型，采用行为范式评估受测者的认知控制和心智化能力，通过客观测评指标(白学军，徐伟,2015)，揭示认知控制与心智化交互影响公平规范执行中内群体偏爱的作用路径。因此，本项目的第二个预期目标是：采用行为范式评估受测者的认知控制与心智化能力，要求受测者完成现场实验或实验室实验，并借助高时间分辨率的反应时技术、眼动技术和脑电技术，采集其感知判断、行为数据、眼动轨迹和脑电信号，通过建构多层级量化指标体系，阐明认知控制和心智化在公平规范执行的内群体偏爱中发挥作用的潜在路径，进而回答“公平规范执行中内群体偏爱的认知神经机制”的议题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后，探究公平规范执行中内群体偏爱的心理发展轨迹。大量研究表明公平规范执行和内群体偏爱都存在非常早期的发展基础(Buttelmann & Bohm,2014; Jordan et al.,2014; McAulife etal.,2017)。但是，在整个生长发育过程中，儿童如何整合两种逐渐形成的群体性价值和规范性价值尚存争议。一种理论强调公平规范执行中内群体偏爱随年龄增长而增强(郭庆科等,2016)，另一种理论则认为公平规范执行中内群体偏爱随年龄增长而保持稳定或逐渐降低(Dunham et al,2008)。同时，从心理发展视角来看，儿童青少年时期是认知控制(Luna etal.,2015)和心智化(Dumontheiletal.,2010)发展的关键阶段，与公平规范执行发展的关键阶段呈现高度重叠(McAuliffe etal.,2017)，也预示着认知控制与心智化在公平规范执行中内群体偏爱的发展中扮演着至关重要的作用。然而，现有研究中被试多为学龄期儿童，年龄范围略窄（6\\~11岁），且所使用的实验任务缺乏统一性，无法全面准确地描绘学龄期至成人期中多种公平规范执行中内群体偏爱的发展变化轨迹。有鉴于此，我们从6\\~20岁范围中设置四个不同的年龄组，即6\\~8岁、10\\~12岁、14\\~16岁和18\\~20岁年龄组，并要求其完成统一编制的UG、mini-UG 和TPPG 范式，提升实验研究的发展性、可比性和系统性，从心理发展视角揭示认知控制与心智化在公平规范执行时内群体偏爱中的作用路径。因此，本课题的第三个预期目标是：从6\\~20 岁范围中设置四个不同的年龄组，采用客观测量的方式度量其认知控制和心智化，比较四组被试分别在UG、mini-UG和 TPPG任务中多层级量化数据，挖掘公平规范执行中内群体偏爱的年龄差异及认知控制和心智化的作用，进而回答“公平规范执行中内群体偏爱的发生机制及发展轨迹”的议题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，探明公平规范执行中内群体偏爱的稳健性、认知神经机制和心理发展轨迹具有重要的科学价值和实践意义。因此，本项目以不同发展阶段的儿童和青少年为研究对象，结合认知判断一行为决策一眼动轨迹一脑电信号的多模态数据，从发展角度对公平规范执行中内群体偏爱的认知神经机制进行系统性的研究，并试图考察认知控制和心智化在其中发挥的关键作用。本项目的实施一方面有益于建构基于群体认同的公平规范执行理论模型，并最终解答此现象的心理发展历程及其认知机制，具有重要的科学意义和理论价值，另一方面有助于揭示群体价值与道德价值如何交互发展的问题，从而有针对性的在中小学管理当中开展德育教育，具有突出的德育意义和教育价值。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "白学军，徐伟.(2015).抑制控制在成人心理理论发展中的作用.中国老年学杂志,35(24),7212-7214.   \n郭庆科，徐萍，吴睿，胡姗姗.(2016).群体偏好与年级对小学生利他惩罚行为的影响．心理发展与教育， 32(4),402-408.   \n郭秀艳，郑丽，程雪梅，刘映杰，李林.(2017).不公平感及相关决策的认知神经机制.心理科学进展,25(6), 903-911.   \n齐春辉，张振.(2020).诚实-谦逊性和人际亲密性对公平规范执行的影响.心理与行为研究，18(3),419-425.   \n苏彦捷，谢东杰，王笑楠.(2019).认知控制在第三方惩罚中的作用.心理科学进展,27(8),1331-1343.   \n苏彦捷，于晶.(2015).执行功能与心理理论关系的元分析：抑制控制和灵活转换的作用.心理发展与教 育,31(1),51-61. 《心理科学》编辑部.(2014)．心理科学研究50题．心理科学,37(5),1030-1038.   \n王芹，白学军，袁心颖，尹吉端.(2018).经济博弈中不同性别儿童的\"以貌取人\"对决策行为的影响．内蒙古 师范大学学报(自然科学汉文版),47(6),522-526.   \n王笑楠，郝洋，苏彦捷.(2019).竞争和合作对学龄前儿童分配模式的影响：心理理论和抑制控制的作用．心 理发展与教育，35(4),385-392.   \n王益文，张振，张蔚，黄亮，郭丰波，原胜.(2014).群体身份调节最后通牒博弈的公平关注．心理学报， 46(12), 1850-1859.   \n魏子晗，李兴珊.(2015).决策过程的追踪：基于眼动的证据．心理科学进展,23(12),2029-2041.   \n武侠，钟楚鹏，丁玉珑，曲折.(2018).利用时频分析研究非相位锁定脑电活动．心理科学进展,26(8), 1349-1364.   \n杨邵峰，齐春辉，张志超，张振.(2018).价值取向对自我他人决策时公平规范执行的影响．心理与行为研究， 16(6),834-840.   \n张耀华，林珠梅，朱莉琪.(2013).人类的利他性惩罚：认知神经科学的视角.生物化学与生物物理进展,40(9), 796-803.   \n张振，齐春辉，王洋，赵辉，王小新，高晓雷.(2020).内群体偏爱或黑羊效应？经济博弈中公平规范执行的 群体偏见.心理科学进展,28(2),329-339.   \n周蕾，李爱梅，张磊，李纾，梁竹苑.(2019).风险决策和跨期决策的过程比较：以确定效应和即刻效应为例. 心理学报,51(3),337-352.   \n周晓林，胡捷，彭璐.(2015).社会情境影响公平感知及相关行为的神经机制.心理与行为研究,13(5), 591-598.   \nAchtziger,A.,Alós-Ferrer,C.,& Wagner, A. K. (2016). The impact of self-control depletion on social preferences in the ultimatum game.Journal of Economic Psychology,53,1-16.   \nAron,A.，Aron,E.N.，& Smollan,D.(1992). Inclusion of other in the self scale and the structure of interpersonal closeness. Journal of Personality and Social Psychology, 63(4), 596-612.   \nBaliet,D., Wu, J.,& de Dreu, C. K. (014). Ingroup favoritism incooperation: A meta-analysis. Psychological Bulletin, 140(6),1556-1581.   \nBaron-Cohen,S., Whelwright,S.,HillJ.,Raste,Y.,&Plumb,I. (2001).The“Reading the Mind inthe Eyes\" test revised version: A study with normal adults, and adults with Asperger syndrome or high-functioning autism. Journal of Child Psychology and Psychiatry, 42(2),241-251.   \nBasic,Z.,Falk, A.，& Kosse,F. (202O). The development of egalitarian norm enforcement in childhood and adolescence. Journal of Economic Behavior & Organization, 179, 667-680.   \nBaumgartner,T., Gote,L., Gugler,R.,& Fehr, E.(20l2).The mentalizing network orchestrates the impactof parochial altruism on social norm enforcement. Human Brain Mapping, 33(6),1452-1469.   \nBokura,H.,Yamaguchi,S.,& Kobayashi,S.(2O01).Electrophysiological correlates for response inhibition in a Go/NoGo task. Clinical Neurophysiology, 112(12),2224-2232.   \nBuckholtz, J. W.,& Marois,R. (2012). The roots of modern justice: cognitive and neural foundations of social norms and their enforcement. Nature Neuroscience, 15(5),655-661.   \nButelmann,D.,& Bohm, R. (2014). The ontogeny of the motivation that underlies in-group bias.Psychological Science,25(4), 921-927.   \nChen,M., Zhao,Z.,& Lai, H. (2019). The time course of neural responses to social versus non-social unfairness in the ultimatum game. Social Neuroscience,14(4), 409-419.   \nChoi, J.K.,& Bowles,S.(2007).The coevolution of parochial altruism and war. Science, 318(5850),636-640.   \nCrone,E.A.,& Steinbeis,N. (20l7). Neural perspectives on cognitive control development during childhood and adolescence. Trends in Cognitive Sciences, 21(3),205-215.   \nCui,F.,Wang, C., Cao,Q.,& Jiao, C. (2019). Social hierarchies in third-party punishment: A behavioraland ERP study. Biological Psychology, 146,107722.   \nDeclerck, C.H.,Boone, C.,& Emonds, G. (2013). When do people cooperate? The neuroeconomics of prosocial decision making. Brain and Cognition, 81(1), 95-117.   \nDelorme,A.,& Makeig,S.(2004).EEGLAB: An open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. Journal of Neuroscience Methods,134(1), 9-21.   \nDumontheil,1.,Apperly,I. A.,& Blakemore,S.J. (2010). Online usage of theoryof mind continues to develop in late adolescence. Developmental Science, 13(2),331-338.   \nDunham, Y., Baron,A. S.,& Banaji,M.R. (2008). The development of implicit intergroup cognition. Trends in Cognitive Sciences,12(7),248-253.   \nFatfouta,R.，Meshi, D., Merkl, A.,，& Heekeren, H.R. (2017).Accepting unfairnessby a significant other is associated with reduced connectivity between medial prefrontal and dorsal anterior cingulate cortex.Social Neuroscience,13(1),61-73.   \nFeng, C.,Luo,Y.J.,& Krueger,F. (2Ol5). Neural signatures of fairnes-related normative decision making in the ultimatum game: A coordinate-based meta-analysis. Human Brain Mapping, 36(2), 591-602.   \nFriehe,T.，& Schildberg-Horisch,H. (2018). Predicting norm enforcement: The individual and joint predictive power of economic preferences, personality，and self-control. European Journal of Law and Economics, 45(1), 127-146.   \nFrith, C.D.,& Frith, U. (1999). Interacting minds--A biological basis. Science, 286(5445),1692-1695.   \nGlockner, A.，& Witteman, C. (2010). Beyond dual-process models: A categorisation of processs underlying intuitive judgement and decision making. Thinking & Reasoning,16(1),1-25.   \nGoette,L., Huffman,D.,& Meier，S. (2006).The impact of group membership on cooperation and norm enforcement: Evidence using random assignment to real social groups. American Economic Review, 96(2), 212-216.   \nGummerum,M.,& Chu,M.T.(2014).Outcomes and intentions in children's,adolescents',and adults’second-and third-party punishment behavior. Cognition,133(1),97-103.   \nGuroglu,B.，van den Bos,W.，& Crone,E.A.(2009).Fairness considerations: increasing understanding of intentionality during adolescence. Journal of Experimental Child Psychology,104(4),398-409.   \nGuroglu,B., van den Bos,W., van Dijk,E., Rombouts, S.A.,& Crone,E.A. (2011). Dissociable brain networks involved in development of fairness considerations: Understanding intentionality behind unfairness. Neuroimage, 57(2), 634-641.   \nGuth，W.，& Kocher, M.G. (2014). More than thirty years of ultimatum bargaining experiments: Motives, variations, and a survey of the recent literature. Journal of Economic Behavior & Organization, 108, 396-409.   \nHuetel,S.A.,& Kranton,R.E.(2Ol2).Identity economics and the brain: Uncovering the mechanisms of social conflict.Philosophical Transactions ofthe Royal Society B: Biological Sciences,367(1589), 680-691.   \nJaroslawska，A.J.，McCormack，T.，Burns,P.，& Caruso，E.M.(2020).Outcomes versusintentions in fairness-related decision making: School-aged children's decisions are just like those of adults.Journal of Experimental Child Psychology, 189,104704.   \nJordan, J.J.,McAuliffe,K.,& Warneken,F.(2O14).Development of in-group favoritism inchildren's third-party punishment of selfishness. Proceedings of the National Academy of Sciences,11l(35),12710-12715.   \nKennedy,D.,& Norman, C. (2005). What don't we know?. Science, 309(5731),75-75.   \nKeysar,B.,Lin,S.,& Bar,D.J. (2003). Limits on theory of mind use in adults. Cognition,89(1),25-41.   \nKnoch,D., Pascual-Leone,A., Meyer, K., Treyer, V.,& Fehr, E.(2006). Diminishing reciprocal fairness by disrupting the right prefrontal cortex. Science, 314(5800), 829-832.   \nKrueger,F.，& Hoffman，M. (2O16). The emerging neuroscience of third-party punishment. Trends in Neurosciences, 39(8), 499-501.   \nLane,T. (2016). Discrimination in the laboratory: A meta-analysis of economics experiments. European Economic Review, 90,375-402.   \nLeslie,A. M. (1987). Pretense and representation: The origins of\" theory of mind.\". Psychological Review, 94(4), 412-426.   \nLeslie,A.M.,&Polizi,P.(1998).Inhibitory processing in the false belief task: Two conjectures.Developmental Science,1(2),247-253.   \nLuck, S. J. (2014). An introduction to the event-related potential technique. MIT press.   \nLuna,B.,Marek,S.,Larsen,B.,Tervo-Clemmens,B.,& Chahal,R.(O15). An integrative model of the maturation of cognitive control. Annual Review of Neuroscience,38,151-170.   \nMauss,I. B.,Evers,C., Wilhelm,F.H.,& Gross,J.J. (2006). How to bite your tongue without blowing your top: Implicit evaluation of emotion regulation predicts afective responding to anger provocation. Personality and Social Psychology Bulletin,32(5),589-602.   \nMcAuliffe,K.,& Dunham, Y. (2016). Group bias in cooperative norm enforcement. Philosophical Transactions of the Royal Society ofLondon. Series B,Biological Sciences,371(1686),20150073.   \nMcAuliffe,K.,& Dunham, Y. (2017). Fairness overrides group bias in children's second-party punishment. Journal of Experimental Psychology: General, 146(4),485-494.   \nMcAuliffe,K.,Blake,P.R.,Steinbeis,N.,& Warneken,F.(2017).The developmental foundations of human fairness. Nature Human Behaviour, 1(2),1-9.   \nMendoza, S.A.,Lane, S.P.,& Amodio, D.M.(2014).For members only: Ingroup punishment of fairness norm violations in the ultimatum game.Social Psychological and Personality Science,5(6),662-670.   \nMoretti,L.,& Di Pellegrino,G.(2010). Disgust selectively modulates reciprocal fairness in economic interactions.Emotion,10(2),169-180.   \nPatil,V.A.，Jacob,A.A.,Chacko,D.M.,Chakrabarti,D.,Devi,P.,Thonse,U.,..& Rao,N.P.(2020). Examination of social decision making in patients with schizophrenia using ultimatum game. Asian Journal of Psychiatry, 50,101937.   \nRuff, C. C., Ugazio,G.,& Fehr,E.(2013). Changing social norm compliance with noninvasive brain stimulation. Science, 342(6157),482-484.   \nSuterlin，S.，Herbert，C.， Schmit，M.，Kübler，A.，& Vogele，C.(2011).Overcoming selfishness: reciprocity,inhibition,and cardiac-autonomic control in the ultimatum game.Frontiers in Psychology, 2, 173.   \nTropp,L.R.，& Wright, S.C.(20o1). Ingroup identification as the inclusion of ingroup in the self. Personality and Social Psychology Bulletin,27(5),585-600.   \nWang,L., Zheng,J.,Meng,L.,Lu,Q.,& Ma,Q.(2016).Ingroup favoritismor the black sheep efect: Perceived intentions modulate subjective responses to aggressive interactions. Neuroscience Research,108,46-54.   \nWang,Y., Zhang,Z., Bai,L.,Lin,C.,Osinsky,R.,& Hewig,J. (2017). Ingroup/outgroup membership modulates fairness consideration: Neural signatures from ERPs and EEG oscillations. Scientific Reports,7,39827.   \nWeber,E.U.,& Johnson,E.J. (2009). Mindful judgment and decision making.Annual Review of Psychology,60, 53-85.   \nWu,Z.,& Gao,X.(2018).Preschoolers’group bias in punishing selfishnessin the Ultimatum Game.Journal of Experimental Child Psychology, 166,280-292.   \nYang,L.,Li,P.,Mao,H.,Wang,H.，Shu,C.,Bliksted, V.,& Zhou,Y.(2017). Theory of mind deficits partly mediate impaired social decision-making in schizophrenia. BMC Psychiatry,17(1),1-11.   \nZhou,L., Zhang, Y.Y., Wang, Z. J., Rao, L. L.， Wang, W., Li, S.,..& Liang, Z. Y. (2016). A scanpath analysis of the risky decision-making process. Journal of Behavioral Decision Making,29,169-182. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Psychological development mechanism of in-group favoritism during fairness norm enforcement ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Zhen, LI Haiwen, XIONG Jianping, ZHAO Hui,LIU Ruixue, QI Chunhui (Faculty ofEducation,Henan Normal University,Xinxiang453oo7,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To improve the fairness perception and norm enforcement of children and adolescents in inter-group interactions,it is an essential issue in the field of educational psychology about how to reveal the interactive mechanism of group norms and fairness values during individuals‘ psychological development. Although in-group favoritism during fairness norm enforcement is an important topic in psychology,three main limitations need to be addressed. First, most studies use questionnaires,which are easily affected by social participation. Second, most of the research uses scenario experiments with an emphasis on the final behavioral output of social interaction while failing to effctively grasp the dynamic process of social decision-making. Finally, electroencephalogram (EEG) studies with the high temporal resolution are stillacking to reveal the dynamic process of the brain.This project aims to clarify these issues by employing a cognitive neuroscience method. Specifically，multilevel techniques， including self-reported，cognitive-behavioral, eye-tracking，and electrophysiological techniques, were used to examine the mechanism behind in-group favoritism of fairness norm enforcement from childhood to adolescence.We intend to explore the developmental process，reveal the key role of cognitive control，mentalizing，and describe their psychological development trajectory. Findings will support moral education in primary and secondary schools, and cultivate students' sense of justice and behavior. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: fairness norm enforcement, ingroup favoritism， psychological development,cognitive control, mentalizing ",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,81 @@
+# 临床研究
+
+# 布氏杆菌脊柱炎MSCT和MRI应用价值比较
+
+陈文静1，肖国强²，张文馨1，燕桂新1   
+1新疆兵团六师五家渠市医院,新疆乌鲁木齐 831300;新疆心脑血管病医院，新疆乌鲁木齐 830002
+
+摘要：目的探讨多排螺旋CT和MRI在布氏杆菌脊柱炎中的应用价值。方法回顾性分析36例布氏杆菌脊柱炎患者64排128层螺旋CT及MRI图像。结果MR显示2个椎体受累者29例,3个椎体受累者5例，4个椎体受累者2例;腰1椎体受累3例，腰2椎体受累6例，腰3椎体受累15例，腰4椎体受累24例，腰5椎体受累18例，骶1椎体受累3例;30例椎间盘有不同程度累及，21例有椎间隙变窄,15例椎间隙未见明显变窄;27例有不同程度椎旁软组织肿胀。CT显示2个椎体受累27例,3个椎体受累4例，有骨质破坏椎体63个，有6例椎体骨质破坏不明显,9例椎体软组织肿胀不明显。MRI较CT更能清晰显示椎体骨髓水肿及椎旁软组织情况，但对细微骨质破坏不如CT。结论 MRI和MSCT相结合，能提高布氏杆菌脊柱炎侵犯程度和累及范围。
+
+关键词：布氏杆菌;脊柱炎；多排螺旋CT;磁共振成像
+
+# Value comparison of MSCT and MRI in brucella spondylitis
+
+CHEN Wenjing', XIAO Guoqiang2,ZHANG Wenxin',YAN Guixinl DepartmentofRadiology，theSixthDiisionHospitaloftheXinjiangProductionandConstructionCorps，Xinjiang83130oChina; Departmentofdiologyinjiangcrdioascularndcerebroasculardiseaseospital,Xinjiango,Cina
+
+Abstract: Objective To investigate the value of Multi-slice spiral CT and magnetic resonance (MR)imaging in Brucella spondylitis. Methods The imaging findings of36 patients withbrucellsis spondylitis retrospectively analyzed.The patients wereperformed64layer128slicespiralCTandMRI.Results InMRI,29had2lumbar,5had3umbarand2had fourlumbar vertebraeinvolvement.Threehadthefirstlumbar,6hadthesecondlumbar,15hadthethirdlumbar,24hadthefourth lumbar，18 had the fifth lumbarand3had the firstsacral vertebra involvement.Thirty patients had diferent degrees intervertebraldiscinvolvement.Therewere21patientshadthepositivefindingsofintervertebralspacenarowing,however, 15 patients hadnoobvious narrowing.Twenty-seven patients had diferentlevelsof paraspinal softissueswellig.InCT,27 had two lumbarand4had three lumbar vertebrae involvement.Additionally vertebral destructionwas detected in 63 vertebrae. There were6cases had no obvious vertebral destructions and9 cases had no significant vertebral soft tissue swelling. Compared with CT,MRI isahighlysensitive imaging technique inshowing the vertebral marrow edemaand soft tisue involvement,but lack intheabilityofshowing tinyvertebraldestruction.Conclusion ThecombinationofMSCTand MRI can improve the diagnosis of Brucella spondylitis, especially in the involvement degrees and scope. Key words: brucellosis; spondylitis; multi-slice spiral CT; magnetic resonance imaging
+
+布氏杆菌病是由布氏杆菌引起的人畜共患全身传染性及变态反应性疾病，在世界范围内多流行于中东、北美、地中海地区;据世界卫生组织统计，布氏杆菌在全球有至少100万例患者，并且每年有1\~2万新增病例[-2]。该病易侵袭脊柱,引起布氏杆菌脊柱炎,临床上常以腰部和背部疼痛为主要表现的症状。在国内，布氏杆菌病多发生于畜牧业发达的东北、西北地区，为常年发生病例，近年来随着乳制品使用逐年增多，发病率有所上升。新疆作为全国主要牧区，这几年发病有所增多，因布氏杆菌脊柱炎在CT、MRI影像学表现及临床表现上与化脓性脊柱炎、脊柱结核有诸多类似之处，早期确诊存在一定困难,若能正确早期诊断、及时有效的干预治疗，能够明显减少患者脊柱畸形与功能损害的概率，然而单纯一种影像学检查往往不能做出全面正确的判断,常有误诊或对病变程度判断不够准确[3-4]。本文回顾性分析36例确诊的布氏杆菌脊柱炎患者64排128层螺旋CT和MRI图像，探讨两种检查方法对诊断本病的价值尺度。
+
+# 1资料与方法
+
+# 1.1一般资料
+
+收集我院2011年9月\~2014年10月收治的布氏杆菌脊柱炎患者36例，其中男性27例，女性9例，年龄39\~62岁，平均50.4岁，患者均在我院行腰椎64排128层螺旋CT扫描及磁共振检查，布氏血清凝聚试验均为阳性。
+
+# 1.2检查方法
+
+所有患者1周内分别进行64排128层螺旋CT扫描
+
+和MRI检查。
+
+1.2.1CT检查方法扫描范围为T12\~S2。扫描参数为螺距0.8,有效层厚 $0 . 4 ~ \mathrm { m m }$ ,管电压 $1 2 0 \mathrm { k V }$ ,管电流$3 0 0 ~ \mathrm { { m A s } }$ ,旋转时间 $1 . 0 \mathrm { ~ s ~ }$ ，扫描时间 $4 { \sim } 7 \mathrm { ~ s ~ }$ ，后处理进行容积再现重建，多平面重建，曲面重建。
+
+1.2.2MRI检查方法采用德国西门子0.35T永磁型磁 共振仪。采用自旋回波成像，常规做脊柱矢状位 $\mathrm { T } _ { 1 } \mathrm { W I }$ $\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 、STIR脂肪抑制 $\mathrm { T } _ { 2 }$ 矢状位或冠状位 $\mathbf { \nabla } \cdot \mathrm { T } _ { 2 } \mathbf { W } \mathbf { I }$ 压脂横 断位。TR500\~3500,TE20\~105ms,矩阵 $2 5 6 \times 2 5 6$ ，层 厚 $3 \mathrm { c m }$ 0
+
+# 1.3布氏杆菌感染诊断标准
+
+根据卫生部布氏杆菌病的诊断标准2： $\textcircled{1}$ 有流行病学接触史： $\textcircled{2}$ 临床症状和体征符合布氏杆菌病的特点 $\textcircled{3}$ 实验室检查发现有阳性结果。纳入标准：所有患者均为布氏杆菌确诊病例，并在我院完成CT和MRI检查。检查结果均由2名有经验的放射科医师采用双盲法阅片并做出诊断。
+
+# 1.4统计学处理
+
+采用SPSS15.0统计软件进行统计， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+MR诊断主要包括椎体信号异常， $\mathbf { T } _ { 1 } \mathbf { W } \mathbf { I }$ 信号减低，$\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 信号略增高，压脂像信号明显增高，椎体骨质破坏,椎体内信号不均匀;椎间盘受累， $\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 及压脂像信号增高，椎体周围软组织肿胀或脓肿形成，TWI呈低信号， $\mathrm { T } _ { 2 } \mathrm { W I }$ 呈稍高信号，压脂像高信号。CT诊断主要包括椎体密度减低或增高，椎间隙变窄，椎间盘内真空变性，周围软组织增厚改变或低密度脓肿形成[5]。36例病人所示216个椎体中，MR显示2个椎体受累者29例，3个椎体受累者5例，4个椎体受累者2例;腰1椎体受累3例，腰2椎体受累6例，腰3椎体受累15例，腰4椎体受累24例，腰5椎体受累18例，骶1椎体受累3例；30例椎间盘有不同程度累及，21例有椎间隙变窄，15例椎间隙未见明显变窄。CT显示2个椎体受累27例，3个椎体受累4例，有6例椎体骨质破坏不明显，9例椎体软组织肿胀不明显，分析患者椎体、附件、骨质、间盘及软组织肿胀MRI和CT受累对比情况(表1)。MRI较CT更能清晰显示椎体骨髓水肿及椎旁软组织情况，但对细微骨质破坏不如CT(图1)。
+
+表1CT和MRI脊柱受累情况对比  
+
+<html><body><table><tr><td></td><td>受累椎体(个)</td><td>椎体形态改变(个)</td><td>椎体骨质破坏(个)</td><td>附件受累(个)</td><td>椎间盘受累(个)</td><td>椎旁软组织肿胀(例)</td><td>脓肿形成(例)</td></tr><tr><td>MR</td><td>69</td><td>6</td><td>45</td><td>27</td><td>48</td><td>36</td><td>12</td></tr><tr><td>CT</td><td>63</td><td>9</td><td>63</td><td>12</td><td>36</td><td>27</td><td>12</td></tr></table></body></html>
+
+# 3讨论
+
+布氏杆菌病中脊柱炎的发病率在 $2 \% { \sim } 5 3 \%$ ，在临床上缺乏特异性，以明显腰痛为主要症状，其病变多发生于腰椎,以L4最为多见[67],本组中亦为腰4椎体累及最多，病变多累及2个及以下椎体，容易误诊为椎间盘突出或腰肌劳损。椎体和间盘均可破坏，椎体破坏同时骨质增生硬化及骨膜反应明显，因此常见骨桥、骨赘形成，骨赘加上其间破坏灶以及增生的骨膜,共同形成“花边椎”，为布氏杆菌脊柱炎特征性表现8；病灶小（1\~$5 \mathrm { m m }$ )，病变多累及椎体前中部及边缘区，因而其引起脊髓受压导致下肢瘫痪者非常罕见，本组中有9例有椎体形态改变，部分椎体后部软组织增厚及韧带累及而引起椎管改变,但均为轻度狭窄,这与文献报基本一致[。椎体破坏灶内无死骨形成,椎体形态多正常，间盘破坏轻，椎间隙狭窄轻，较少形成脓肿，若形成脓肿多局限于病变旁,病变累及附件骨较常见,椎旁韧带钙化常见[9,本组中36例椎旁软组织改变,但形成脓肿仅12例，且范围较局限，挤压临近腰大肌，与腰大肌分界清。
+
+布氏杆菌性脊柱炎诊断主要与脊柱结核和化脓性脊柱炎相鉴别。脊柱结核多发生于胸腰段，以L1\~2最为多见[10],且常2个以上椎体受累,病灶大,可横贯椎体，常造成椎体塌陷，引起脊髓受压至下肢瘫痪，脊柱常见后突畸形；病灶内死骨形成，无明显骨膜增生及骨质硬化，累及附件骨较少，椎间盘破坏明显，腰椎结核几乎均可见椎间隙狭窄，椎旁软组织肿胀明显，常见冷脓肿形成，且脓肿多发生流注现象，肿胀软组织内常见点、片状钙化形成。化脓性脊柱炎影像表现骨质破坏明显，骨髓水肿常常累及整个椎体，椎间盘破坏，椎间隙变窄甚或消失，死骨形成常见，椎旁脓肿或髂窝脓肿出现较早，多有较重的全身中毒症状，病变进展较快，而且多有手术或创伤史[11-12]。本组影像诊断中初期有误诊为腰椎结核6例，误诊为化脓性脊柱炎3例，单纯CT诊断或MRI诊断误诊为椎体椎体骨髓水肿4例，结合临床表现、试验室检查和病理随访，总结影像表现，为后期病变诊断不
+
+![](images/266c23674977092af468c76967b8ad2dd54ecac6bd8574b5fb03967fdea5dd60.jpg)
+
+断总结经验。
+
+本组就同一病例CT和MRI影像结果进行对比发现，64排128层螺旋CT较普通64排CT扫描层厚更薄，扫描时间更短，空间分辨率更高，能全面显示椎体骨质结构情况，对细微骨质破坏显示清晰，本组中36个病例CT显示有63个椎体骨质破坏，且显示骨质破坏均位于椎体上下缘区，椎体前中部多见，冠矢状位重建结合薄层横断面完整显示所有细微骨质破坏，在有无椎间盘累及和周围软组织肿胀显示方面CT不如磁共振。MRI软组织分辨率高，多个不同序列联合观察，能清晰显示骨髓水肿、有无附件骨质信号改变，有无椎间盘累及，周围软组织肿胀等情况，本组中椎体骨髓水肿范围的显示MRI明显优于CT,椎间盘受累情况、椎旁软组织肿胀、脓肿边界的显示也较CT清晰
+
+综上所述，64排128层螺旋CT在显示骨质的细微结构及骨质破坏等方面具有优势，可以对骨质破坏程度进行有效评估，MRI在骨质侵犯范围、椎间盘受累情况及周围软组织肿胀范围等方面更有价值，64排128层螺旋CT与MRI相辅相成才能发挥布氏杆菌病脊柱炎最大诊断价值。
+
+# 参考文献：
+
+[1]Dean AS,Bonfoh B,Kulo AE,et al.Epidemiology of brucellosis
+
+and q Fever in linked human and animal populations in northernTogo[J].PLoS One,2013,8(8): e71501-7.  
+[2]李梦东.实用传染病学[M].重庆:科学技术文献出版社重庆分社,1989:480-6.  
+[3]唐丽丽,刘白鹭,舒圣捷,等.布氏杆菌病性脊柱炎的影像学诊断[J].中国医学影像学杂志,2013(6):414-6.  
+[4]Bettini N,Girardo M,Dema E,et al. Evaluation of conservativetreatment of non specific spondylodiscitis[J].Eur Spine J,2O09,18(Suppl 1):143-50.  
+[5]Gunal O,Barut S,Ayan M,et al.Investigation of coxiella burnetiiand brucella seropositivities in patients presenting with acute fever[J].Mikrobiyol Bul,2013,47(2): 265-72.  
+[6]郑 旭.布氏杆菌脊柱炎的影像分析及鉴别诊断[J].中国医药指南，2015,13(1): 78-9.  
+[7]于天松,刘玉春,袁晨,等.布鲁菌性脊柱炎与脊柱结核MRI表现[J].实用放射学杂志，2010,26(7):1066-7，1074.  
+[8］宁永红,杨海廷.低场磁共振成像在腰背痛为首发症状的布氏杆菌脊柱炎中的诊断价值[J].实用医学影像学杂志,2014,15(3):207-9.  
+[9]张培楠,杨新明,孟宪勇,等.布氏杆菌病性脊椎炎的影像学分型[J].河北医科大学学报，2015,36(3):334-7.  
+[10]赵林伟,董国礼,张小明,等.MRI对诊断脊柱结核的价值探讨[J].实用放射学杂志,2011,27(6):907-11.  
+[11]赵晓丹，王飞飞,赵鸿飞,等.脊柱结核与化脓性脊柱炎CT鉴别诊断[J].实用放射学杂志,2015,31(4):621-4,629.  
+[12]刘 涛,孙健民,崔新刚,等.MRI及病理学鉴别早期化脓性脊柱炎及布氏杆菌脊柱炎中的应用价值[J].中国组织工程研究,2014,18(4):499-504.

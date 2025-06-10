@@ -1,0 +1,247 @@
+# 平板微热管阵列式太阳能空气集热-蓄热一体化装置换热特性研究
+
+王泽宇1　刁彦华1 赵耀华1　梁 林¹　朱婷婷¹　樊洪明1 白凤武2(1．北京工业大学建筑工程学院，北京市100124;2．中国科学院电工研究所，北京市100190)
+
+摘要本文基于平板微热管阵列技术，提出了一种太阳能空气集热、蓄热一体化装置，阐明了该装置的结构和工作原理。本装置以平板微热管阵列为关键热输送部件，采用 52#石蜡作为相变储热材料，搭建了该一体化装置性能研究试验系统，对该装置蓄热器内部石蜡温度变化、蓄放热效率及蓄放热功率进行了实验研究和分析。结果表明：太阳能集热蓄热一体化装置可高效稳定运行，实测集/蓄、放热性能优良，测试工况下平均蓄/放热效率为 $5 9 \% / 9 1 . 6 \%$ ，平均蓄/放热功率为393W/344W。
+
+关键词平板微热管阵列；相变蓄热；一体化装置；功率；效率中图分类号：TK512 文献标识码：A 文章编号:0253-231X(2017)03-0625-10
+
+# Experimental Study on Thermal Characteristics of an Integrated Solar Air Collector-storage Based on Flat Micro-heat Pipe Arrays
+
+WANG Ze-Yu1 DIAO Yan-Hua1 ZHAO Yao-Hua1 LIANG Lin $^ { 1 }$ （20 ZHU Ting-Ting $^ 1$
+
+FAN Hong-Ming1 BAI Feng-Wu²
+
+(1.College of Architecture and Civil Engineering,Beijing Universityof Technology，Beijing 100124,China; 2.Institute of Electrical Engineering,Chinese Academy of sciences，Beijing 10o190,China）
+
+Abstract In this study, the performance of an integrated colector storage solar air heater based on fat micro-heat pipe arrays (FMHPA) was investigated. The structure and working principle of the device were explained in detail. Using the micro-heat pipe array as the key heat-transfer part and the $5 2 \#$ paraffin wax as the phase change material (PCM),The experimental study and analysis of the temperature distribution of paraffin and the charging/discharging efciency and power were carried out.The results showed that the charging and discharging efficiencies of the integrated collector storage solar air heater are 59% and $9 1 . 6 \%$ , respectively, with the average charging and discharging power of $3 9 3 ~ \mathrm { W }$ and 344 W.
+
+Key wordsflat micro-heat pipe array; latent thermal storage; integrated unit; power; effciency
+
+# 0引言
+
+能源的短缺及其在开发利用过程中的低效、污染等问题制约了我国经济与社会的可持续发展。目前，我国乡村地区的采暖供热设施尚不够完备，冬季的供热方式多采用直接燃烧秸秆、柴等生物质能，及以蜂窝煤等廉价化石燃料为能源的火炉采暖为主，这种做法虽然在一定程度上解决了该地区的采暖问题，但存在热效率低，能源利用不合理，对环境破坏大的问题[1]。太阳能是作为一种绿色可再生能源,若能加以高效利用，将有效解决或改善偏远地区的
+
+冬季供暖问题。
+
+利用太阳能系统进行采暖，一个很大难题就是如何将具有不稳定性、随机性和间断性等特点的太阳能储存起来，如此即可解决用户在用能方面供求双方在时间和强度上的不匹配问题。蓄热方式中相变蓄热技术单位质量蓄热材料所能携带的能量较大，蓄热放热过程中相变材料近似等温、功率稳定并且效率较高[2]，是潜力较大的蓄热方式。在相变蓄热领域中，石蜡类相变蓄热材料具有相变潜热较高、相变蒸汽分压力较低、几乎不存在过冷现象、可燃烧但不与常见的化学试剂发生反应、自成核、融化或凝固时没有相态分离的现象、几乎不存在腐蚀性和廉价易得等特点，已经成为国内外蓄热材料的重点研究方向[3]。
+
+太阳能系统中，集热器和蓄热器分离设置的分体式系统是比较常用的，但其占据空间体积大，系统较复杂，存在二次换热，系统整体热效率较低，因此一些学者为了减少管路热损失和二次换热损失,开展了太阳能集热、蓄热一体化的研究，以及不同形式的尝试。N.K.Bansal 等[4] 采用有机酸作为相变材料，建立太阳能集热器和相变蓄热相结合的传热模型，通过数值计算的方法检验模型在不同工况下的适应性。结果表明，将相变材料和集热器直接结合比分别设置蓄热装置和集热器更具优势。S.O．Enibe 等[5]将相变材料模块平行置于集热器的吸热板下，模块之间留有空气夹层，在阳光照射下，夹层中的空气形成自然对流，将集热器内的热量传送出去，并对这样的平板集热器进行建模和实验验证，分析了集热器在不同太阳辐照度下的集热效率、空气流量和出口温度的变化情况。E.S.Mettawee等[提出了一种新型集热器，将相变材料填充于保温层与吸热板之间，由管道内的流体带走相变材料中储存的热量。实验研究表明，蓄热过程中，由于自然对流加剧，随着融化层厚度的增加总体换热系数增大；放热过程中，有效得热量随流量的增大而升高。苏文佳等[7]将圆柱形储热单元放置于 $\mathrm { \Delta V }$ 型吸热板与底面保温层之间，研制了一种结合平板集热器的一体化太阳能空气集热、蓄热系统，经过试验和估算，装置的蓄热效率为 $2 3 \%$ ，热效率 $5 5 \%$ ，而相同情况下的普通集热器热效率为 $1 9 \%$ ，得出通过在集热器中添加蓄热材料的方法可有效地降低集热器的热损失、提高集热效率的结论。
+
+综上所述，集热、蓄热装置一体化集成是可行的，不但可以节约空间和减小体积、简化系统，还可以提高热效率、减少热损失等优势，是太阳能热利用系统的又一新的研究方向。但是，目前一体化技术暂不成熟，吸热板所吸收的太阳能无法快速高效的传递给蓄热体，导致集热、蓄热效率较低，且所储存的热量较难取出，所以在这方面的研究还有待进一步发展。
+
+本文将平板太阳能集热器及相变蓄热器通过高效传热元件平板微热管阵列[8]进行有机结合，利用吸热膜的高吸收率和平板微热管高效热输运特性，将热量高效传递给石蜡，将太阳能储存起来，而储存在石蜡中的热量在夜间或需要时由取热风道中的空气进行提取，所得到热空气可用于供暖、干燥等领域。集热器和蓄热器有机结合为一体化装置，蓄热段可用于吸收集热段所获得的太阳能，延长太阳能系统的使用时间，可用于建筑供暖和农作物干燥等方面。
+
+# 1平板微热管阵列式太阳能空气集热-蓄热一体化装置
+
+本研究研制了一套以空气为载热工质的平板微热管阵列式太阳能空气集热、蓄热一体化装置（后称一体化装置)，其构造如图1左图所示，外形尺寸为 $1 4 3 6 ~ \mathrm { m m } { \times } 7 6 ~ \mathrm { m m } { \times } 1 7 6 5 ~ \mathrm { m m } .$ 。本集热、蓄热一体化装置分为集热器和蓄热器，主要由12组平板微热管阵列、高效吸热黑膜、超白钢化玻璃盖板、集热器框架、蓄热器箱体、52#石蜡、隔热保温材料和风道组成；相变蓄热材料选用52#石蜡，其相变温度为 $5 2 ^ { \circ } \mathrm { C }$ ；风道中的取热流体为空气，空气流经风道并与风道里中的平板微热管阵列换热；吸热黑膜与钢化玻璃之间留有厚度为 $3 5 ~ \mathrm { m m }$ 空气层保温层，减少吸热黑膜向外散热；集热平面与水平面成 $4 5 ^ { \circ }$ 角放置。
+
+平板微热管阵列，采用多个彼此相互独立的带有槽道的微型热管阵列而成，由铝材一次性按压形成，管内采用抽真空灌装工质并封装的技术措施，依靠其管内工质不断蒸发冷凝的相变过程进行能量的传输。本研究中的实验装置采用尺寸为长 $\times$ 宽 $\times$ 厚$= 1 7 0 0 \ \mathrm { m m } { \times } 9 6 \ \mathrm { m m } { \times } 3 \ \mathrm { m m }$ 的平板微热管阵列作为传热元件，按照每段功能的不同将其分为三段，即集热段、蓄热段和取热段，如图1右图所示。吸热黑膜与微热管的集热段上表面相连，微热管蓄热段设有铝制等截面直肋，取热段设有铝制百叶窗翅片，采用导热硅胶粘接，以减少接触热阻；采用聚氨酯保温板对太阳能集热器边框、集热器背板、蓄热箱体及风道的外表面进行保温处理，一体化装置的实物照片如图2所示，各组成部件的规格和技术参数见表1。
+
+该装置的工作过程主要分为两个阶段，工作原理如图3所示。集/蓄热工况下，由吸热黑膜收集太阳能并将热量传递给平板微热管蒸发段的液态工质，使得工质吸热蒸发，将热量传递至蓄热箱体内平板微热管的冷凝段并放热给石蜡，同时平板微热管内的气态工质冷凝回流，如此循环反复进行太阳能与石蜡能量的转换；取热工况下，蓄热箱体内温度较高的相变材料加热平板微热管的蓄热段，当风道中有换热流体经过平板微热管的取热段时，管内的气
+
+![](images/6501e38533dc7effd77495b481af6736634081eca1ef913a2fe1544fb3065e0e.jpg)  
+图1太阳能空气集热、蓄热一体化装置构造及传热单元示意图Fig.1 Schematic of the experimental apparatus and heat transfer unit
+
+![](images/62bcf97c42760dc12c00943b7b6450a8888c25ba89c2ef4709adc6e8bc9f181e.jpg)  
+图2实物照片  
+Fig.2 Photos of experimental setup
+
+# 表1一体化装置各组成部件参数
+
+Table 1 Parameters of the components   
+
+<html><body><table><tr><td>部件名称</td><td>规格尺寸</td><td colspan="2">技术参数</td></tr><tr><td>吸热黑膜</td><td>1420×700,mm</td><td>吸收率 发射率</td><td>91% 9%</td></tr><tr><td>超白钢化玻璃</td><td>1420×700×3.2,mm</td><td>透过率 导热系数 比热容</td><td>93% 1.2 W/(m·K) 0.82kJ/kg</td></tr><tr><td>微热管阵列</td><td>1420×700×3,mm</td><td>工质 充液率</td><td>R141b 20%</td></tr><tr><td>等截面直肋</td><td>755×57×8,mm</td><td>肋高 肋厚 肋间距</td><td>8.0 mm 0.3 mm 7.0 mm</td></tr><tr><td>百叶窗翅片</td><td>130 ×5×2.5,mm</td><td>翅高 翅厚 翅间距</td><td>2.5 mm 0.2 mm 5.2 mm</td></tr><tr><td>聚氨酯保温板</td><td>厚100,mm</td><td>密度 导热系数</td><td>40 kg/m3 0.024W/(m·K))</td></tr><tr><td>不锈钢风道</td><td>内腔尺寸1600×176×48，mm</td><td>壁厚</td><td>2 mm</td></tr></table></body></html>
+
+态工质在取热段冷凝并将热量释放给换热流体，同时平板微热管内的冷凝液回流至蓄热段被相变材料加热至气态，进而实现所储存热量的提取，得到的热空气可用于低温领域，如农作物干燥，室内供暖等。
+
+![](images/7a525bda6eaa727b8acd760d0811895408d99d514fe3bd4f1311a104ac9a60d2.jpg)  
+图3太阳能空气集热、蓄热一体化装置工作原理示意图Fig.3 Operating principle ofICS solar air heater
+
+# 2实验系统及方法
+
+# 2.1实验系统
+
+为了测试一体化装置的集/蓄、取热性能，本研究搭建了实验平台，对该装置在室外环境条件下的性能进行了实测研究。实验系统主要包括实验主体部分和数据采集部分，其系统图如图4所示。实验主体部分为一体化装置，集热器净吸热面积为0.93$\mathrm { m ^ { 2 } }$ ，蓄热箱体中的热管及翅片的填充率为 $1 5 \%$ ，相变材料为52#石蜡 (参数见表2)，其质量为 $4 5 . 8 \mathrm { k g }$ 固态/液态填充率为 $6 2 \% / 8 1 \ \%$ ，其热物性参数如表1所示。数据采集系统的组成部分主要包括：一体化装置、型号为WZPK-293，规格为 $\Phi 6 { \times } 6 0 { \times } 5 0 0 0 \ \mathrm { m m }$ 的 PT100铂电阻温度计、材质为铜－康铜的 $\mathrm { ~ T ~ }$ 型热电偶、型号为34970A的Agilent数据采集仪、计算机、风机、风量罩、气象站(主要包括有与水平面成$4 5 ^ { \circ }$ 角的总日照辐射测量仪器、室外温湿度测量仪、室外风向风速仪等)。采用Agilent 数据采集仪、热电偶及热电阻对实验对象的温度进行自动采集，时间间隔为 $\mathrm { ~ 5 ~ s ~ } _ { \mathfrak { c } }$ ，以上测试参数所使用仪器、仪表的误差如表3所示。
+
+# 2.2测点布置
+
+实验中采用热电偶测量石蜡、黑膜等温度，热电阻测量风道中空气温度，并在特定位置进行测点的布置。为观察石蜡的温度分布，针对箱体建立了三维坐标系，微热管垂直方向为 $\mathbf { \Psi } _ { x }$ 轴，热管排列方向为 $y$ 轴，热管长度方向为 $z$ 轴。其热管和石蜡的温度测点布置示意图如图5所示，其中，图5(a）为微热管上的测点布置，图5(b)为6号热管垂直方向测点布置，图5(c)为蓄热箱体内壁的测点布置，图5(d)为蓄热箱体保温材料内的测点布置，图5(e）为玻璃盖板和保温材料内的测点布置。为了测试空气在风道中的换热情况，计算放热时蓄热器的放热功率，在风道的进出口分别布置了两个温度测点T46和 T47，T48和T49为出口风道测点，如图6所示；为了观察黑膜在集热时的温度变化情况，在黑膜上均匀布置了6个测点，如图7所示。
+
+![](images/9c5a983b65143c0efb7b8dc27d0c1554041c0b4a1f707025729c6b51d3d7d4eb.jpg)  
+图4实验系统图 Fig.4 Diagram of the experimental system
+
+# 表252#石蜡热物性
+
+Table 2 Thermophysical properties of 52# paraffin   
+
+<html><body><table><tr><td>物性参数</td><td>数值</td></tr><tr><td>相变温度/C</td><td>52.00</td></tr><tr><td>相变潜热/(kJ/kg)</td><td>153.40</td></tr><tr><td>比热容/(kJ/(kg·K))</td><td>2.83</td></tr><tr><td>导热系数/(W/(m·K))</td><td>0.11</td></tr><tr><td>固态密度/(g/cm)</td><td>1.25</td></tr><tr><td>液态密度/(g/m)</td><td>0.80</td></tr></table></body></html>
+
+# 表3测试仪器、仪表型号及测量误差
+
+Table 3 Model and accuracy of the testing instrument   
+
+<html><body><table><tr><td>部件名称</td><td>型号</td><td>测量误差</td></tr><tr><td>数据采集仪</td><td>34970A</td><td>±0.004%</td></tr><tr><td>总辐射表</td><td>TRT-2</td><td><2%</td></tr><tr><td>热电偶</td><td>WRNK-191</td><td>±0.4%</td></tr><tr><td>热电阻</td><td>Pt100</td><td>±0.15°C</td></tr><tr><td>风量罩</td><td>TSI8371</td><td>±5%</td></tr><tr><td>差示扫描量热仪</td><td>Q2000DSC</td><td>±0.05%</td></tr><tr><td>电子台秤</td><td>ACS-30</td><td>±2.5g</td></tr></table></body></html>
+
+# 2.3实验工况
+
+为了提高实际应用的意义，本文将实验装置放置于室外环境下进行实验测试与分析。本实验分为两种不同阶段，即白天的蓄热阶段和夜间的取热阶段。但由于室外气候无法控制，而且集热/蓄热效率与太阳辐射强度的大小有很大关系，本研究在 2016年3月30日至今进行了大量的测试，选取了6天晴朗天气和3天多云天气下该装置的集热、蓄热性能，测试时间段选取8:00-16:00，并选取了三天室外气候条件基本一致的时段进行了取热工况的测试，即 4月29日、5月18日和5月22日进行取热工况实验，三天工况下的取热风量依次为 $2 0 0 ~ \mathrm { m ^ { 3 } / h }$ 、 $\mathrm { 1 5 0 ~ m ^ { 3 } / h }$ 和 $1 0 0 ~ \mathrm { { m ^ { 3 } / h } }$ 。
+
+![](images/0199dba2c359c6ee36111052d93a978aa45de51898bd37471f173fbeb77369d1.jpg)  
+Fig.5 Position of thermocouples on the FMHPA and within the paraffin
+
+![](images/da74c6a795e51dc7c9a3882477d1a93e7391d90b1f8afd950ff3869bcb541904.jpg)  
+图5微热管及石蜡测点布置  
+图6风道中测点布置
+
+![](images/bb1f9ce4e8ec3c8aa63fc4b9107ddac19290a7c9ddc63e056905b075744f9fc1.jpg)  
+Fig.6 Position of thermalresistance inside the air duc   
+图7黑膜上测点布置  
+Fig.7 Position of thermocouples on the black film
+
+# 3实验结果与数据分析
+
+# 3.1评价指标及计算方法
+
+蓄热工况评价指标选用一体化装置在测试时段内对一天中太阳能的吸收性能，即蓄热总量、蓄热功率以及蓄热效率；取热工况评价指标为取热功率与取热效率，同时，蓄/放热过程中装置的漏热量也同样需要关注。相关参数可按照式 $( 1 ) { \sim } ( 6 )$ 进行计算。
+
+1）总蓄热量与平均蓄热功率
+
+$$
+\begin{array} { c } { Q _ { \mathrm { c } } = M _ { \mathrm { p a } } [ c _ { \mathrm { p a } } ( t _ { 2 , \mathrm { p a } } - t _ { 1 , \mathrm { p a } } ) + \gamma ] + } \\ { M _ { \mathrm { m e } } c _ { \mathrm { m e } } ( t _ { 2 , \mathrm { m e } } - t _ { 1 , \mathrm { m e } } ) \quad } \end{array}
+$$
+
+$$
+P _ { \mathrm { c } } = { \frac { Q _ { \mathrm { s } } } { \tau } }
+$$
+
+式中： $Q _ { \mathrm { c } }$ 为总蓄热量，[kJ]； $P _ { \mathrm { c } }$ 为平均蓄热功率， $\mathrm { [ k J / ( k g \cdot ^ { \circ } C ) ] }$ ； $M _ { \mathrm { p a } } , M _ { \mathrm { m e } }$ 为石蜡、金属材料质量， $\mathrm { [ k g ] }$ ； $c _ { \mathrm { p a } } , c _ { \mathrm { m e } }$ 为石蜡、金属材料比热容， $\left[ \mathrm { k J / ( k g \cdot K ) } \right]$ ; $t _ { 1 , \mathrm { p a } } , t _ { 1 , \mathrm { m e } }$ 为石蜡、金属材料初始温度， $[ ^ { \circ } \mathrm { C } ]$ ; $t _ { \mathrm { 2 , p a } } , t _ { \mathrm { 2 , m e } }$ 为石蜡、金属材料终止温度， $[ ^ { \circ } \mathrm { C } ]$ ; $\gamma$ 为石蜡相变潜热， $[ \mathrm { k J / k g } ]$ ; $\tau$ 为测试时段时长， $[ \mathrm { m i n } ]$ 。
+
+2)取热功率与取热量
+
+$$
+P _ { \mathrm { d } } = c _ { p } m \left( t _ { \mathrm { o } } - t _ { i } \right)
+$$
+
+$$
+Q _ { \mathrm { d } } = \int _ { \tau _ { 2 } } ^ { \tau _ { 1 } } c _ { p } m ( t _ { \mathrm { o } } - t _ { i } ) \mathrm { d } \tau
+$$
+
+式中： $P _ { \mathrm { d } }$ 为瞬时取热功率， $[ \mathrm { W } ]$ ； $c _ { p }$ 为空气的比热容， $\mathrm { [ k J / ( k g \cdot ^ { \circ } C ) ] }$ ； $m$ 为瞬时空气质量流量，$[ \mathrm { k g / s } ]$ ; $t _ { \mathrm { o } } , t _ { i }$ 为风道进出口温度， $[ ^ { \circ } \mathrm { C } ]$ ; $Q _ { \mathrm { d } }$ 为空气侧取热量，[J]； $\tau _ { 1 } , \tau _ { 2 }$ 为测试启、停时间，[s]； $Q _ { \mathrm { o } }$ 为石蜡、金属材料总放热量，[kJ]。
+
+3)蓄热效率与取热效率
+
+式中： $\eta _ { \mathrm { s } }$ 为总蓄热量， $[ \% ]$ ； $\eta _ { \mathrm { r } }$ 为空气侧取热效率， $[ \% ]$ ： $Q _ { \mathrm { t } }$ 为为总太阳得热量，[kJ]。
+
+4)蓄放热过程中装置的无效散热量
+
+蓄放热过程中，装置的总漏热量 $Q _ { \mathrm { L } }$ 主要由通过保温材料向外环境的导热散热 $Q _ { 1 }$ (也等于装置外表面与外环境的对流换热量)、玻璃盖板通过对流换热和辐射换热向室外环境的热损耗组成，而吸热膜通过热对流 $Q _ { 2 }$ 和热辐射 $Q _ { 3 }$ 传递给玻璃盖板的热流密度应等于通过玻璃盖板向外的热损耗，则装置在运行过程中的热损失可按稳态传热由式 $( 7 ) { \sim } ( 1 0 )$ 进行估算[9]：
+
+a)通过保温材料向外的导热换热量:
+
+$$
+Q _ { 1 } = \frac { \lambda } { \delta } A ( t _ { 2 } - t _ { 1 } )
+$$
+
+b)吸热黑膜与玻璃盖板之间的对流换热量：
+
+当 $5 9 0 0 \leqslant ( G r _ { \delta _ { \mathrm { a } } } \cdot P r \cdot \cos \theta ) \leqslant 9 2 3 0 0$ 时
+
+$$
+Q _ { 2 } = 0 . 2 2 9 ( G r _ { \delta } \cdot P r \cdot \cos \theta ) ^ { 0 . 2 5 2 } \frac { \lambda _ { \mathrm { a } } } { \delta _ { \mathrm { a } } } A _ { \mathrm { C } } ( T _ { \mathrm { B } } - T _ { \mathrm { g } } )
+$$
+
+当 $9 . 2 3 \times 1 0 ^ { 4 } \leqslant ( G r _ { \delta _ { \mathrm { a } } } \cdot P r \cdot \cos \theta ) \leqslant 1 0 ^ { 6 }$ 时
+
+$$
+Q _ { 2 } = 0 . 1 5 7 ( G r _ { \delta } \cdot P r \cdot \cos \theta ) ^ { 0 . 2 8 5 } \frac { \lambda _ { \mathrm { a } } } { \delta _ { \mathrm { a } } } A _ { \mathrm { C } } ( T _ { \mathrm { B } } - T _ { \mathrm { g } } )
+$$
+
+c)通过吸热黑膜与玻璃盖板的辐射换热量：
+
+$$
+Q _ { 3 } = { \frac { A _ { \mathrm { R } } \sigma ( T _ { \mathrm { B } } { } ^ { 4 } - T _ { \mathrm { g } } { } ^ { 4 } ) } { { \frac { 1 } { \varepsilon _ { \mathrm { B } } } } + { \frac { 1 } { \varepsilon _ { \mathrm { g } } } } - 1 } }
+$$
+
+式中： $\lambda$ ， $\lambda _ { \mathrm { a } }$ 为保温材料的空气导热系数，$\mathrm { [ W / ( K { \cdot } m ) ] }$ ；δ, $\delta _ { \mathrm { a } }$ 为保温材料的空气夹层厚度， $[ \mathrm { m } ]$ $t _ { 1 } , t _ { 2 }$ 为保温材料两侧温度， $[ ^ { \circ } \mathrm { C } ]$ ： $\varepsilon _ { \mathrm { B } }$ ， $\varepsilon _ { \mathrm { g } }$ 为风道进出□温度， $[ ^ { \circ } \mathrm { C } ]$ $\sigma$ 为黑体辐射常数， $[ \mathrm { W } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { K } ^ { - 4 } ) ]$ ： $A$ $A _ { \mathrm { R } } , A _ { \mathrm { C } }$ 为导热、对流及辐射换热面积， $\left[ \mathrm { m } ^ { 2 } \right]$ ; $T _ { \mathrm { g } } , T _ { \mathrm { B } }$ 为玻璃盖板的黑膜表面温度，[K]； $P r$ 为普朗特数;$G r _ { \delta a }$ 为格拉晓夫数，定性尺寸为 $\delta _ { \mathrm { a } }$ ; $\theta$ 为集热器与水平方向的倾角，[°]。
+
+# 3.2集/蓄、放热工况性能测试
+
+# 3.2.1集、蓄热工况下石蜡的温度分布
+
+图8所示为2016年5月7日测试时段内石蜡温度分别沿 $x , y ,$ ： $z$ 轴的分布。当天的室外环境温度为 $2 1 . 9 \mathrm { { \sim } 2 8 . 9 ^ { \circ } C }$ ，太阳辐照度为 $3 1 1 { \sim } 9 3 4 \ \mathrm { W / m ^ { 2 } }$ 由图8(a）可知，蓄热阶段开始时，热管垂直方向各测点温度相等，石蜡以显热变化的方式吸收微热管所释放的热量，石蜡温度升高较快，而当石蜡发生相变时各测点的温度曲线逐渐平缓。随太阳辐射得热量的累积，各测点温度出现差异，即距微热管距离越远，石蜡温度越低。在10:20左右石蜡开始相变，13:30左右距离热管最近的测点T19处石蜡最先相变完成，距离最远的T23最后完成相变，完全融化后由于石蜡转变为液态，各测点的温度趋于一致。在16:00左右太阳辐照度逐渐降低，吸热黑膜所吸收的热量也逐渐降低，因此温度变化速率变小。
+
+图8(b)为蓄热工况下石蜡沿热管排列方向的温度分布曲线。由图可知，蓄热开始时，石蜡温度沿 $y$ 方向不相等，由于吸热膜所受太阳辐射得热较为均匀，被加热至液态的过程中， $y$ 轴方向各测点逐渐趋于一致，最大相差 $0 . 4 ^ { \circ } \mathrm { C }$ ，并且无论是相变过程中还是相变完成后的过程中，各点的温度大小和趋势基本相同，因此可以认为石蜡在被加热至融化的过程中沿 $y$ 轴的温度变化趋势无明显差异。
+
+由图8(c）可知，由于与微热管蓄热段翅片接触的石蜡最先升温并融化，而此后液态石蜡由于自然对流的影响向蓄热箱体上部移动并加热上部分石蜡，其后蓄热箱体上部靠近壁面的固态石蜡被加热并融化，呈现出顶部石蜡先融化，并由上到下依次融化的趋势。
+
+# 3.2.2一体化装置的集、蓄热性能
+
+图9(a）所示为2016年5月7日的工况下的室外温度和室外辐照度的变化曲线，测试时段为 $8 { : } 0 0 -$ 16:00，室外温度变化范围为 $2 1 . 9 { \sim } 2 8 . 7 ^ { \circ } \mathrm { C }$ ，室外辐照度变化范围为 $4 1 6 { \sim } 9 3 7 \ \mathrm { W / m ^ { 2 } }$ ，室外相对湿度为$1 3 . 9 \% \sim 2 6 . 8 \%$ 。图9(b）为石蜡平均温度与太阳辐照度随时间变化的曲线，石蜡平均温度变化为 $3 3 . 7 \sim$ $6 0 . 1 ^ { \circ } \mathrm { C }$ ，即由图9(b）可以看出在蓄热开始时太阳辐照度较小，石蜡温度上升较慢，在11:00左右，太阳辐射强度达到较大值时石蜡开始相变，石蜡温度基本保持不变，并在下午14:00 左右完成相变。相变完成后，太阳辐射强度也呈现下降趋势，并且此时由于石蜡温度较高，向外环境的热损失也有所增加，因此石蜡温度升高速率较为缓慢。
+
+![](images/1598b8e9cb48696a20f327cd26e146c5c2b5ecd568418d1b510c048e503b7482.jpg)  
+图8蓄热工况下石蜡温度分布曲线 (2016-5-7) Fig.8 Temperature distribution of PCM (May 7, 2016)   
+Fig.9 The curve of the outdoor meteorological data and key parametersof the device
+
+![](images/4accebaec5566f8f70eb43cfc5308c696b14fccc29371ce9b8d6daaa111d20ae.jpg)  
+图9室外气象数据及装置关键参数曲线
+
+由于石蜡初始温度较难控制，本研究在进行了多次实验后得到了多组实验数据，表4列出了6个晴朗天气和3个多云天气下该装置的集热、蓄热性能。可以看出在室外辐照度、室外温度和石蜡的温度变化均不同的情况下对装置的蓄热效率影响并不大，基本可以维持在 $5 9 \%$ 。
+
+# 3.2.3取热工况下石蜡的温度分布
+
+4月 29日晚的取热工况下石蜡分别沿 $x$ 、y、 $z$ 轴的温度分布如图10所示，测试时段的取热风量为$2 0 0 ~ \mathrm { m ^ { 3 } / h }$ ，风道入口空气温度变化范围为 $2 3 { \sim } 2 9 ^ { \circ } \mathrm { C }$ 日由图10(a)可知，取热工况开始时，石蜡温度下降迅速，并很快下降至其熔点，开始凝固。与融化过程趋势相反，测温点T19温度最低，而与微热管距离最远的测温点T23温度最高，且最后融化。
+
+由图10(b)可知，由于入口空气温度最低，首先与风道入口处的热管冷凝段进行能量交换，空气逐渐被加热的过程中，空气与热管冷凝段的温差逐渐减小，石蜡沿 $y$ 轴正向温度逐渐降低。
+
+由图10(c）可知，蓄热箱体内的石蜡温度沿 $z$ 轴逐渐增大，最上部测点T36温度降低最快且最先凝固，其后由于相变材料固液密度差因此液位下降，T36测点暴露在空气中，温度急剧下降；最下部测点T32 温度下降最慢，且最后凝固。
+
+![](images/ded1e98cb09fb5bb715a779f2f3ab82c3d1488c53cd17b2bdc4dead82879f3c1.jpg)  
+Fig.10 Temperature distribution of PCM(April 7,2016)   
+图11风道进出口温度、取热功率及石蜡温度曲线 Fig.11 The curve of inlet and outlet temperature, discharging power and paraffin temperature
+
+# 3.2.4取热工况性能测试
+
+图11(a)为2016年4月29日晚风道进出口空气温度、取热功率和石蜡平均温度随时间变化的曲线，取热空气体积流量为 $2 0 0 ~ \mathrm { m ^ { 3 } / h }$ ，可知，当入口空气温度变化范围为 $2 1 { \sim } 2 9 ^ { \circ } \mathrm { C }$ 时，石蜡的平均温度由 $6 0 . 1 ^ { \circ } \mathrm { C }$ 变化到 $4 0 ^ { \circ } \mathrm { C }$ ，时长为 $4 6 5 ~ \mathrm { { m i n } }$ 。
+
+60F 700石蜡平均温度55 □ 2 凤人口温度 600￥ 风道出口温度50 取热功率 500  
+45 400W率  
+温 300功352003025 10020050100150200_250300350400450时间/min(a)2016年4月29日，取热风量 $2 0 0 \mathrm { m } ^ { 3 } / \mathrm { h }$ （2 $( 6 . 6 \mathrm { m } / \mathrm { s } )$ (a) April 29,2016, $2 0 0 \mathrm { m } ^ { 3 } / \mathrm { h }$ $\langle 6 . 6 \mathrm { m } / \mathrm { s } \rangle$ of the air flow rate60060 石蜡平均温度55 0 风道入口温度 风道出口温度 500□ 取热功率  
+C45 50 □ □ 400 M/  
+度40 300 /率□□  
+温352003025 100△ 1△1DI△I>{△{△I△I△ID20 00 50100150200250300350400450500时间/min(b)2016年5月18日，取热风量 $1 5 0 ~ \mathrm { m ^ { 3 } / h }$ （204号 $( 4 . 9 \mathrm { m / s } )$ (b) May 18,2016, $1 5 0 \mathrm { m } ^ { 3 } / \mathrm { h }$ $( 4 . 9 \mathrm { m / s } )$ of the air flow rate60060 一石蜡平均温度风道入口温度55 凤道出口温度 500□ 取热功率50 □口 400O 300  
+度40  
+温35 □ □□2003025 100△△△△20 10050100150 200250300350400450 500 550时间/min(c)2016年5月22日，取热风量 $1 5 0 ~ \mathrm { m ^ { 3 } / h }$ 0 ${ \bf \dot { 4 . 9 } m } / { \bf s } )$ (c) May 22,2016, $1 0 0 \mathrm { m } ^ { 3 } / \mathrm { h }$ 0 $3 . 3 ~ \mathrm { m / s } \mathrm { \cdot }$ of the air flowrate
+
+取热开始时，石蜡为液态且温度较高，风道进出口的空气存在着 $9 . 5 ^ { \circ } \mathrm { C }$ 左右的温差，取热功率较大，而随石蜡温度降低至熔点，微热管附近的石蜡凝固后，进出口温差逐渐降低至 $5 ^ { \circ } \mathrm { C }$ 左右，取热功率也逐渐降低，最后稳定在 $3 0 0 ~ \mathrm { W }$ 附近。通过取热工况下各评价指标的计算式可计算得到，当天测试工况下得到其平均取热功率 (每分钟取热功率平均值)为$3 4 4 ~ \mathrm { W }$ ，空气侧总取热量为 $9 6 1 1 \ \mathrm { k J }$ ，装置总放热量为 $\mathrm { 1 0 5 6 1 ~ k J }$ ，则平均放热效率为 $9 1 . 7 \%$
+
+在2016年5月18日、5月22日晚分别进行了取热空气体积流量为 $\mathrm { 1 5 0 ~ m ^ { 3 } / h }$ / $\mathrm { 1 0 0 ~ m ^ { 3 } / h }$ 的取热实验，其风道进出口温度以及功率随石蜡温度变化的曲线如图11(b)、(c）所示。取热时间分别为 $\mathrm { 5 3 2 \ m i n }$ 和 $5 7 9 \mathrm { m i n }$ ，取热量分别为 $9 7 1 5 { \mathrm { ~ k J } }$ 和 $9 6 0 9 \mathrm { k J }$ ，计算得到其平均取热功率分别为301W和 $2 7 \mathrm { ~ 3 W }$ 。测试时段总取热量分别为 $\mathrm { 1 0 6 0 2 . 4 1 \ k J }$ 和 $\mathrm { 1 0 6 4 1 . 2 \ k J }$ ，得到其取热效率为 $9 1 . 2 \%$ 和 $9 0 . 3 \%$
+
+# 3.4蓄/放热过程中的能量损失
+
+图12为一体化装置蓄/放热过程中的热损失曲线。可以看出，实验装置在蓄/放热过程中各部分热损失的比例有所不同，如图11(a）所示，在蓄热过程中，开始装置内温度较低时，内外温差很小，蓄热系统漏热量很小，其后，装置热损失功率随着实验的进行而逐渐增加；当蓄热器内石蜡开始融化时，此时蓄热器内温度基本保持不变，因而，漏热功率中出现了较长时间的平台区，随着石蜡的融化完成，其温度又开始逐渐升高，系统漏热功率也随之增大。由图12(b）可知，实验装置在取热过程中的漏热功率与取热功率的变化趋势相同，均为先缓慢降低后逐渐平稳的过程。起初，由于蓄热箱体内部的蓄热材料温度较高，因此通过保温材料向室外环境的热损失较大，可以看到与白天工况不同的是，因为在夜间蓄热箱体内的相变材料温度较高，通过保温材料向环境的导热换热量占主导。
+
+![](images/2d1399c69fce9479ee2a5ae943773f1524710ae2c4aa2f2bfb339f76ae7f2c7a.jpg)  
+图12蓄放热过程中的能量损失 Fig.12 Heat loss durging charging and discharging process
+
+# 4结论
+
+1）基于平板微热管阵列的太阳能空气集热、蓄热一体化装置在实验中表现出良好的集热、蓄热和放热性能，其蓄/放热功率可达 $3 9 3 \mathrm { W } / 3 4 4 \mathrm { W } _ { ; }$ 集/蓄热效率为 $5 9 \%$ ，取热效率为 $9 1 . 6 \%$ a
+
+2）提高取热流体流量可提高取热功率，降低取热时间，本实验工况下，若以风量为 $\mathrm { 1 0 0 ~ m ^ { 3 } / h }$ 下的取热功率和取热时间为基准，风量分别增大 $\mathrm { 5 0 ~ m ^ { 3 } / h }$ 和 $\mathrm { 1 0 0 ~ m ^ { 3 } / h }$ ，取热功率分别提高 $1 0 \%$ 和 $2 6 \%$ ，取热时间分别减少 $8 \%$ 和 $2 0 \%$ 。
+
+表4不同测试工况下蓄热性能  
+Table 4 Performance of ICS solar air heater under different testing conditions   
+
+<html><body><table><tr><td>日期</td><td>室外温度/C</td><td>太阳辐照度/W·m-2</td><td>石蜡温度/C</td><td>蓄热量/MJ</td><td>蓄热功率/W</td><td>太阳得热量/MJ</td><td>蓄热效率/%</td></tr><tr><td>2016-3-30</td><td>15.1~23.7</td><td>336~836</td><td>41~63</td><td>10.65</td><td>370</td><td>17.75</td><td>60.02</td></tr><tr><td>2016-4-8</td><td>17.4~25</td><td>345~841</td><td>37~65</td><td>11.57</td><td>402</td><td>18.87</td><td>61.33</td></tr><tr><td>2016-4-18</td><td>14.5~22.6</td><td>393~914</td><td>35~60</td><td>11.13</td><td>386</td><td>18.80</td><td>59.19</td></tr><tr><td>2016-4-22</td><td>20.4~27.1</td><td>379~895</td><td>34~60</td><td>11.22</td><td>390</td><td>19.02</td><td>58.99</td></tr><tr><td>2016-5-7</td><td>21.9~28.7</td><td>416~937</td><td>34~60</td><td>11.43</td><td>399</td><td>19.30</td><td>59.50</td></tr><tr><td>*2016-5-8</td><td>19.8~27.1</td><td>197~849</td><td>40~55</td><td>9.68</td><td>336</td><td>17.11</td><td>56.61</td></tr><tr><td>2016-5-16</td><td>22.2~32.6</td><td>390~921</td><td>41~71</td><td>11.91</td><td>414</td><td>19.49</td><td>61.10</td></tr><tr><td>*2016-5-19</td><td>22.5~27.9</td><td>207~844</td><td>43~61</td><td>9.92</td><td>345</td><td>16.39</td><td>60.68</td></tr><tr><td>*2016-5-21</td><td>22.6~31.4</td><td>323~852</td><td>43~63</td><td>10.20</td><td>354</td><td>16.79</td><td>60.75</td></tr></table></body></html>
+
+注：日期前加\*的测试期间为多云天气。
+
+3)热损失方面，在蓄热工况下，黑膜与玻璃盖板中的对流换热量占主导，黑膜与玻璃盖板的辐射换热量所占比重最小；取热工况下，通过保温材料向环境的导热换热量占主导，黑膜与玻璃盖板间的辐射换热量最小。
+
+# 参考文献
+
+[1]Ministry of Housing and Urban-Rural Development of the People's Republic of China.JGJ26-2010 Design Standard for Energy Efficiency of Residential Buildings in Severe Cold and Cold Zones [S].China Architecture & Building Press,2010   
+[2]Sharma A,TyagiVV,Chen CR,et al.Review on Thermal Energy Storage With Phase Change Materials and Applications [J]. Renewable & Sustainable Energy Reviews,2009,13(2):318-345 [3] Himran S,Suwono A,Mansoori G A.Characterization of Alkanes and Paraffin Waxes for Application as Phase Change Energy Storage Medium [J]. Energy Sources.   
+1994,16(1): 117-128 [4]Bansal NK,Buddhi D,Performance Equations of a Collector Cum Storage System Using Phase Change Materials [J].Solar Energy,1992,48(3):185-194 [5] Enibe S O.Thermal Analysis of a Natural Circulation Solar Air Heater With Phase Change Material Energy Storage [J].Renewable Energy,2003,28(14):2269-2299 [6]Mettawee E S,Assassa G M R.Experimental Study of a Compact PCM Solar Collector [J].Energy, 2006,31(14):   
+2958-2968 [7]Su Wenjia et al.Flat-plate Solar Collector/storage System [J].Acta Energiae Solaris Sinica,2009,29(4):449-453 [8] Zhao Yaohua,Wang Hongyan,Diao Yanhua,et al.Heat Transfer Characteristics of Flat Micro-heat Pipe Array [J]. Ciesc Journal,2011,62(2):336-343 [9] Zhang Ximin.Heat Transfer，5th Edition [M].China Building Industry Press,2007:172-173

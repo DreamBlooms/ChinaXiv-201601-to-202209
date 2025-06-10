@@ -1,0 +1,546 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis and Properties of Poly $p$ -phenylene terephthalamide) Bearing Both Polar and Unsaturated Substituents Introduced via Claisen Rearrangement Reaction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenbin Wang,1 Xiang Qi,1 Yan Guan,1 Fei Zhang,1 Jie Zhang,1 Chun Yan,² Yingdan Zhu,2   \nXinhua Wan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Beijing NationalLaboratoryfor Molecular Sciences,KeyLaboratoryof PolymerChemistryand Physicsof MinistryofEducatic   \nCenterof Soft Mater Science &Enginering,College of Chemistryand Molecular Engineering,Peking University,   \nBeijing 100871,China   \n2Institute of Advanced Manufacturing Technology,Ningbo Institute of Materials Technology and Engineering,   \nChinese Academy of Sciences,Ningbo 315201, China   \nCorrespondence to: X.Wan (E-mail: xhwan $@$ pku.edu.cn)or Y. Zhu (E-mail: y.zhu@nimte.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 22 December 2015;accepted 22 January 2016; published online 00 Month 2016   \nDOI: 10.1002/pola.28072 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRAcT:A series of novel wholly aromatic copolyamides, poly(p-phenyleneterephthalamide)-ran-poly[p-phenylene 2,5- bis(allyloxy)terephthalamide] (APPTA- $x ,$ X $\\scriptstyle ( = 0 ,$ 5, 25, 50, 60,75, 90,and 1o0) represents the molar fraction of allyloxy containingstructure unit),were prepared via low temperature solution copolycondensationof $p$ -phenylenediamine，terephthaloyl chloride,and 2,5-bis(allyloxy)terephthaloyl chloride. They were converted to the target copolymers,poly( $\\dot { } _ { p }$ -phenyleneterephthalamide)-ran-poly[p-phenylene2,5-diallyl $^ { - 3 , 6 }$ -dihydroxyterephthalamide] (CRPPTA-x)， through Claisen rearrangement reaction，as characterized by a comprehensive analyses of NMR，FT-IR，gel permeation chromatography，and differential scanning calorimetry. Although APPTA- $x$ had a poor solubility incommon organic solvents,the rearranged products with high co-unit contents，that is，CRPPTA-60，75，90，and 100, were readily dissolved in $m$ -cresol，DMF，DMAc，DMSO，and NMP.The effect of these four polymers,used as sizing agents, on the interfacial adhesion between Kevlar fiber and epoxy resin was investigated by the contact angle method, $\\mathsf { x }$ -raypho toelectron spectroscopy (XPS)，scanning electron microscopy (SEM),and microbond tests.Compared with the naked fibers, the sized fibers displayed enhanced surface energy and roughness. The fibers sized with 0.5 wt $\\%$ CRPPTA-60 solution in NMP exhibited a maximum increase of $1 9 \\%$ in interfacial shear strength. $\\circledcirc$ 2016 Wiley Periodicals, Inc. J. Polym. Sci., Part A: Polym. Chem.2016,00,000-000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWoRDs: adhesion; aramid fiber; claisen rearrangement reaction; composites; epoxy; polyamides; PPTA; sizing agent ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTIONPoly $\\scriptstyle \\int p$ -phenyleneterephthalamide) (PPTA) is one of the most important wholly aromatic polyamides. Because of the rigidity，symmetry，and intermolecular Hbonding of polymer chains,PPTA can be spun into highly oriented fibers with excellent thermal stability, high chemical resistance,low flammabilityand exceptional tensile strength and modulus from liquid-crystalline solution in concentrated sulfuric acid.1,2 The representative product, that is, Kevlar has been comprehensively studied and widely applied in many fields such as military,aeronautics,astronautics,and automobiles.3-6 Kevlar and other aramid fibers have been frequently employed as reinforcing materials to fabricate high performance rubber and epoxy-based composites.However, the inferior interfacial affinity toward matrices due to thesmooth surfacesandchemical inertness of fibershinders the full achievement of their potential. To overcome this disadvantage,the treatment of Kevlar fiber with chemical,7-16 plasma19andultrasoundmetosawellsdiation21 have been developed to increase surface polarity. Most of these methods could introduce reactive sites on the fiber surface and facilitate further modification，such as grafting,but tolerate severe operation conditions and damages to the fibers. Coating the reinforcing fibers with sizing agents is an alternating way to improve interface structure.22-27 de Lange and coworkers developed an “adhesion activation\"method by coating an epoxy-amine finish (digly cidyl ether of glycerol as epoxy and piperazine as amine,at a mass ratio of 9:1) onto the fiber surface,which remarkably enhanced the interfacial adhesion.22-24 Tian and coworkers introduced the epoxy group onto the aramid fiber surface by the self-polymerization of dopamine，followed by grafting epoxy functionalized silane.27 Due to the strong interaction between epoxy groups and the rubber matrix, the singlefiber pull-out tests showed that the interfacial adhesion increased by $6 2 . 5 \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of PPTA with various substituents through homopolymerization or copolymerization represents another effectiveapproach to improve its compatability with other polymers.28-34 For example, the hydroxy group was known to improve the affinityof PPTA toward epoxy,32 while the propargyl group enhanced interfacial adhesion toward rubber:31 However, in most cases,one type of functional groups is only effective to one type of polymer matrices.It occurred to us if both unsaturated group and polar group be introduced on the phenyl ring of PPTA,the resultant polymer could be used alone or as a sizing agent to improve interfacial adhesion toward either epoxy resin or rubber matrix. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Claisen rearrangement reaction (CR) is a classic organic reaction in which allyl vinyl ether isomerizes to the molecule bearing two functional groups35 and offered a powerful tool for organic synthesis.36-39 Much work has been carried out in small molecules but rare in macromolecules.In our previous short communication,40 we reported a facile and eficient method to obtain a novel PPTA bearing both apolar allyl and polar hydroxy groups on each terephthaloyl unit bya combination of the step-growth polymerization and subsequent thermally induced CR. The resultant polymer was used as a sizing agent to improve the interfacial property of Kevlar fiber-rubber composite.Under identical and un-optimized conditions,the fibers treated with as low as O.1 and O.5wt $\\%$ polymer solution in NMP displayed pullout force of 25.0 and $3 0 . 1 \\mathrm { ~ N } .$ ，respectively，which were obviously larger than that of the fiber without treatment $( 2 0 . 8 \\ \\mathrm { N } )$ . It was rationalizedby the good compatability of the polymer to the fiber and the high reactivity of unsaturated allyl group toward vulcanization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work,we extend the scope of this strategy to Kevlar fiber-epoxy composites.To optimize the polymer structure,eight (co)polyamides,poly $[ p$ -phenyleneterephtha lamide)-ran-poly[p-phenylene2,5-bis(allyloxy)terephthalamide]， werepreparedvialowtemperaturesolution copolycondensation of $p$ -phenylenediamine，terephthaloyl chloride，and 2,5-bis(allyloxy)terephthaloyl chloride.They wereabbreviatedasAPPTA-x,where $x \\ ( = 0 , 5 , 2 5 , 5 0 , 6 0 , 7 5 ,$ 90,and 1oo) represents the molar fraction of allyloxy substituted structure unit.Except for APPTA-O and 1oo,all others are new polymers.These polymers were subjected to CR at $1 9 0 ^ { \\circ } \\mathrm { C }$ in NMP and converted to the corresponding products, CRPPTA-x,that bear various content of hydroxy and allyl groups.All the rearranged polymers showed improved solubility and those with high co-unit contents, that is,CRPPTA60,75,90,and 1o0,were readily dissolved in m-cresol, DMF, DMAc,DMSO,and NMP. The effects of these four polymers, assizing agents,on the interfacial adhesion between Kevlar fiber and epoxy resin were estimated by contact angle method,X-ray photoelectron spectroscopy (XPS)，scanning electron microscopy (SEM) and microbond tests.The copolymer composition and concentration were found to play an important role in influencing interfacial structure and property. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aramid fibers with a diameter of $1 5 \\ \\mu \\mathrm { m }$ were kindly supplied by He Bei Silicon Valley Corporation and were extracted with acetone for $2 4 \\mathrm { ~ h ~ }$ before use.E-51 epoxy resin andhardener were purchased from Tianjin Woosin Co.at a resin to hardener ratio of 2:1.1-Bromobutane (Chemical pure，Sinopharm Chemical Reagent) was purified by atmospheric distillation. $m$ -Cresol waspurified by reduced pressure distillation.Dimethyl sulfoxide (DMSO，AR，Beijing Chemical Co.) and N-methyl-2-pyrrolidone (NMP,AR,Beijing Chemical Co.)were dried over $\\mathrm { C a H } _ { 2 } ,$ distilled under reduced pressure and stored over dry molecular sieves. $p$ -Phenylenediamine (AR, J&K) was sublimated twice under vacuum before use. Calcium chloride (AR,Beijing Chemical Co.） was finely ground and dried at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ in muffle furnace for $^ \\textrm { \\scriptsize 4 h }$ to remove residue water. Pyridine (AR,Beijing Chemical Co.) was dried over KOH pellets and distilled out before use.2,5- Bis(allyloxy)terephthaloyl chlorideand $N , N ^ { \\prime }$ -diphenyl 2,5- bis(allyloxy)terephthalamide were prepared according to the previously reported procedure.4° All other reagents and solvents were usedas received unless otherwise specified. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of Copolymers Allyloxy Substituted Copolymers (APPTA-x) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The preparation of APPTA-75 is described as an example to describe polymerization procedure. Into a four-neck round bottom flask, $8 . 2 2 \\mathrm { ~ g ~ }$ of $\\mathsf { C a C l } _ { 2 }$ and $1 0 0 ~ \\mathrm { { m L } }$ of dry NMP were introduced under $\\Nu _ { 2 }$ atmosphere.The mixture was heated until all the salts totally dissolved.To the resultant solution, $3 . 6 0 \\mathrm { ~ g ~ }$ 0 $3 3 . 3 ~ \\mathrm { \\ m m o l } .$ ，1 equiv.）of $p$ -phenylenediamine was added. To the obtained mixture cooled to $- 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C } _ { \\iota }$ $7 . 8 7 \\mathrm { ~ g ~ }$ $( 2 5 . 0 ~ \\mathrm { ~ m m o l } ,$ ，0.75equiv.） of2,5-bis(allyloxy)terephthaloyl chloride and $1 . 6 9 \\mathrm { ~ g ~ }$ (8.0 mmol,0.25 equiv.) of terephthaloyl chloride were added with gentle stirring.When the mixture became well distributed, $4 . 7 0 \\mathrm { ~ g ~ }$ 0 $\\mathrm { 5 9 . 4 ~ m m o l }$ ，1.8equiv.）of pyridine was injected and the stirring speed was increased. After the reaction continued for $2 0 \\ \\mathrm { \\ m i n }$ in cool bath,the temperature was raised to room temperature.The reaction mixture solidified gradually and the stiring was continued until the apparent viscosity did not rise. The reaction mixture was poured into large amount of distilled water. The solids were collected by filtration, followed by washing with boiling water, ethanol and acetone.After drying at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 ~ \\mathrm { ~ h ~ }$ under vacuum, $9 . 5 0 \\mathrm { ~ g ~ }$ of yellow powders were obtained.Yield: $8 9 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$N$ -ButylatedAllyloxySubstitutedcopolymers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Into a schlenk tube containing $6 0 ~ \\mathrm { { m g } }$ of NaH $\\left[ 2 . 5 \\mathrm { \\ m m o l } \\right.$ ，1 equiv., $6 0 \\%$ suspension in paraffin), $2 5 ~ \\mathrm { \\ m L }$ of DMSO was added in ${ \\sf N } _ { 2 }$ atmosphere.41 The mixture was kept at $7 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { ~ 1 ~ h ~ }$ and then cooled to $3 0 ~ ^ { \\circ } \\mathrm { C }$ Afterward, $0 . 4 0 \\mathrm { ~ g ~ }$ (2.5 mmol amideunit) of APPTA-75 was added.The reaction mixture became red and the viscosity gradually rose.When a clear solution was obtained, $0 . 6 8 \\mathrm { ~ g ~ }$ (5.0 mmol, 2 equiv.) of 1- bromobutane was injected and the reaction was allowed to continue for $^ { 1 8 \\mathrm { ~ h ~ } }$ ，The reaction mixture was poured into $5 0 0 ~ \\mathrm { m L }$ of distilled water and extracted with $3 \\times 1 5 0 ~ \\mathrm { m L }$ portions of dichloromethane. The organic layers were combined and washed with brine and dried with anhydrous $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ .The solution was evaporated with a rotary evaporator to $1 0 ~ \\mathrm { \\ m L }$ and added slowly to $1 5 0 ~ \\mathrm { \\ m L }$ of petroleum ether.The precipitates were collected by filtration.After drying under vacuum, $0 . 3 8 \\mathrm { ~ g ~ }$ of white powders (referred as NB-APPTA-75) were obtained.Yield: $7 0 \\%$ .Other $N$ -butylated products were prepared using the similar method and referred as N-B-PPTA，N-B-APPTA-5，N-B-APPTA-25，N-BAPPTA-50，N-B-APPTA-60，N-B-APPTA-90，and N-B-APPTA100,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$N , N ^ { \\prime }$ -Dibutyl- $\\mathbf { \\nabla } \\cdot N , N ^ { \\prime }$ -Diphenyl2,5-Bis(Allyloxy) Terephthalamide ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This compound was synthesized with a method similar to NB-APPTA-75. $^ 1 \\mathrm { H }$ NMR $( 4 0 0 \\ \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ $\\delta$ ，ppm): 7.20-7.00 (m,6 H,Ar),6.98-6.60 $\\left( \\mathrm { m } , \\ 4 \\ \\mathrm { H } , \\right.$ Ar),6.53-6.37 (s,2H,Ar), 6.08-5.80 $( \\mathrm { m } , 2 ~ \\mathrm { H } .$ ,vinyl), 5.46-5.15 (t, $4 \\ \\mathrm { H } .$ ,vinyl), 4.52-4.14 (d,4 H, $\\mathrm { C H } _ { 2 } \\cdot$ 0，3.99-3.71 (t，4H, $\\mathrm { C H } _ { 2 } \\mathrm { \\cdot }$ 0，1.69-1.45 $\\left( \\mathrm { m } , \\ 4 \\ \\mathrm { H } , \\right.$ $\\mathrm { C H } _ { 2 ) }$ ，1.45-1.15 (m,4 H, $\\mathrm { C H } _ { 2 } .$ 1.00-0.80 (t, $^ { 6 \\mathrm { ~ H ~ } }$ ， $\\mathrm { C H } _ { 3 } ^ { \\cdot }$ ） $^ { 1 3 } \\mathrm { C }$ NMR $( 4 0 0 ~ \\mathrm { ~ M H z }$ ， $\\mathrm { C D C l } _ { 3 } ,$ $\\delta ,$ ppm): 167.71,147.72,142.03, 133.18，128.49，128.39，127.65，126.89，117.06，113.07, 69.59,49.02,29.81,20.03,13.83.HRMS (ESI, $m / z$ ： $\\left[ M + \\mathrm { H } \\right] ^ { + }$ calcd for $\\mathrm { C } _ { 3 4 } \\mathrm { H } _ { 4 0 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 4 } ,$ 541.3066；found，541.3059．Anal. calcd. for $\\mathrm { C } _ { 3 4 } \\mathrm { H } _ { 4 0 } \\mathrm { N } _ { 2 } 0 _ { 4 }$ :C,75.53；H, 7.46;N, 5.18;Found:C, 75.60;H, 7.40;N, 5.18. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Claisen Rearrangement Reaction of Copolymers and Sizing of Fibers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Take APPTA-75 as an example. Into a reaction tube were introduced $1 0 0 ~ \\mathrm { { m g } }$ of $\\mathrm { [ 0 . 4 7 \\ m m o l }$ allyloxy containing unit) APPTA-75, $5 0 ~ \\mathrm { m g } ~ ( 0 . 4 7 ~ \\mathrm { m m o l } )$ of m-cresol and $2 ~ \\mathrm { m L }$ of NMP. After three freeze-pump-thaw cycles,the tube was sealed under vacuum and heated at $1 9 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { ~ h ~ }$ .The tube was broken and the clear solution was diluted with $6 ~ \\mathrm { m L }$ of NMP and dropped into $1 5 0 ~ \\mathrm { \\ m L }$ of methanol. The precipitates were collected by filtration, followed by washing with methanol and drying under vacuum at ambient temperature for $2 4 \\mathrm { ~ h ~ }$ ：The resulted yellow solids (referred as CRPPTA-75) weighed $7 0 ~ \\mathrm { m g }$ Yield: $7 0 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sizing solutions were prepared following a similar procedure except for polymer concentration. The extracted aramid fibers were immersed in the sizing solution and stood for $1 0 \\ \\mathrm { m i n } .$ ，and dried in vacuum at $7 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 3 \\mathrm { ~ h ~ } }$ The sized fibers were referred as AF-CRPPTA-x-y,where AF and y indicated the aramid fibers extracted with acetone and the weight percentage concentration of CRPPTA- $x$ of sizing solu tion,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sample Preparation for Microbond Test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Microbond test was carried out to estimate the interfacial property between fibers and epoxy resins.The aramid monofilament was fixed on a paper frame with a dimension of $2 6 ~ \\mathrm { m m } \\times 5 8 ~ \\mathrm { m m }$ .The epoxy resin droplet with desired size wasplaced on the monofilament and cured at $4 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h , ~ } }$ $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } , }$ and $1 2 0 ^ { \\circ } \\mathrm { C }$ for $0 . 5 \\mathrm { ~ h ~ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Solid state $^ { 1 3 } \\mathrm { C }$ NMR experiments were performed on a Bruker $4 0 0 ~ \\mathrm { { M H z } }$ WB Solid-State NMR Spectrometer (AVANCE III). $^ 1 \\mathrm { H }$ NMR spectra were recorded on a Bruker ARX 400 MHz NMR spectrometer with $\\mathrm { C D C l } _ { 3 }$ or ${ \\bf d } _ { 6 }$ -DMSO as the solventand tetramethylsilane as the internal reference.Thermogravimetric analyses (TGA) were run on a TA SDT 2960 instrument. The samples were heated from room temperature to $8 0 0 ^ { \\circ } \\mathrm { C }$ at a heating rate of $1 0 ~ \\mathrm { ^ { \\circ } C / m i n }$ under nitrogen atmosphere.Differential scanning calorimetry (DSC) s were obtained with a TA DSC Q1oo instrument ata heating rate of $5 ~ \\mathrm { { ^ circ C / m i n } }$ under nitrogen atmosphere. The number-average molecular mass $\\left( M _ { \\mathrm { n } } \\right)$ ，weight-average molecular mass $( M _ { \\mathrm { w } } )$ and molecular mass polydispersity $( M _ { \\mathrm { w } } / M _ { \\mathrm { n } } )$ were estimated by gel permeation chromatography (GPC) equipped with a Waters 241O refractive index detector and a Waters 515 pump.THF was used as the eluent at a flow rate of $1 . 0 ~ \\mathrm { m L } /$ min at $3 5 ^ { \\circ } \\mathrm { C }$ ，The GPC curves were calibrated against a seriesofmonodispersedpolystyrenestandards. Onedimensional powder wide-angle X-ray diffraction experiments were carried out on a Philips X'Pert Pro instrument with a 3ooo W ceramic tube as the X-ray source (CuKα) and an X'celerator detector. The surface chemical compositions of aramid fibers were estimated by X-ray photoelectron spectroscopy (XPS) using a Axis Ultra instrument (Kratos Analytical,England) with a monochromatic Al $\\mathrm { K } \\alpha$ source $\\cdot 1 4 8 6 . 7 \\ \\mathrm { e V }$ photons) running at a power of 225 W.All binding energies were using C1s hydrocarbon peak at $2 8 4 . 8 \\ \\mathrm { ~ e V }$ as the reference.CasaXPS was used to analyze the data. The contact angle and surface energy of the fibers were determined according to Yao's work,42 and $n$ -octane and glycerol were used as probe liquids,respectively.A microbond testing was carried out to determine the interfacial shear strength (IFSS) of the Kevlar fiber/epoxy resin composite using an interfacial micro-bond evaluation instrument (Model HM410) made by Tohei Sanyon Corporation of Japan. The surface morpholo gies of CFs and debonded CFs were observed by a scanning electron microscopy (FE-SEM S-48oo,Hitachi, Japan). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of Allyloxy Substituted PPTA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The copolymers APPTA $- x$ were synthesized via low temperature solution copolycondensation of 2,5-bis(allyloxy)tereph thaloylchloride，terephthaloylchlorideandpphenylenediamine at various feed ratios in NMP containing 8 wt $\\%$ $\\mathsf { C a C l } _ { 2 }$ (Scheme 1). In total，eight sampleswere obtained.All of them had good thermal stabilities and the temperature of $5 \\%$ weight loss under nitrogen atmosphere were higher than $3 5 0 ~ ^ { \\circ } \\mathrm { C }$ (Table 1).Since apolar allyloxy substituents and polymer main-chain have distinct require ments for solvent,all the copolymers including APPTA-100 were not soluble in all the solvents tested.Solid state $^ { 1 3 } \\mathrm { C }$ NMR spectroscopy was first employed to characterize the structures of APPTA-x.As shown in Figure 1,the carbonyl carbon atoms of PPTA showed a resonance absorption at $1 6 2 \\ \\mathrm { p p m }$ ，while the aromatic carbon atoms were located in the range of $1 1 2 { - } 1 3 8 ~ \\mathrm { p p m . } ^ { 4 ( \\mathrm { \\Omega } ) }$ The incorporation of allyloxy groups on the terephthaloyl unit yielded new absorptions at 157 and $6 0 \\ \\mathrm { p p m } ,$ ，which were attributed to the substituted carbon atom $\\pmb { d }$ of phenyl ring and methylenic carbon atom $\\pmb { e }$ ofallyloxy，respectively.In addition，other signals shifted upfield due to the electron donating nature of the allyloxy substituent.These variations became more remarkable as the content of allyloxy substituted unit increased. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce0bf3b5e9c0d898d2f0c01348ff7f5047912cc1cb08d6b868612871e73d9d4e.jpg",
+        "img_caption": [
+            "SCHEME 1 Synthesis and Claisen rearrangement reaction of APPTA- $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The chemical structure of APPTA- $x$ was further characterized by FT-IR (Fig.2). The absorptions of $\\mathsf { N { - } H }$ stretching,amide I and I of PPTA were presented at 3324，1650，and ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/74ce266723620c0f121dfae2a46184535ddcbb82736edd20b736c4de5e4406f9.jpg",
+        "table_caption": [
+            "TABLE1 Properties of APPTA- $x$ Copolymers "
+        ],
+        "table_footnote": [
+            "a Measured in $9 8 \\%$ （204号 ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ at $3 0 \\pm 0 . 1 ^ { \\circ } \\mathsf { C }$ （20 $\\begin{array} { r } { \\vert c = 0 . 5 \\ \\mathfrak { g } / \\mathrm { d L } \\vert } \\end{array}$ ： b $5 \\%$ weight loss temperature. Heating rate, $1 0 \\ { ^ { \\circ } C } / { \\mathsf { m i n } } ;$ atmosphere, ${ \\sf N } _ { 2 }$ ‘ Butyl substituted samples estimated by GPC with a calibration against polystyrene standards. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>ninha</td><td>Td (C)b</td><td>Mn × 10-3c</td><td>PDIC</td></tr><tr><td>PPTA</td><td>7.49</td><td>525</td><td>37.0</td><td>2.02</td></tr><tr><td>APPTA-5</td><td>1</td><td>509</td><td>23.0</td><td>1.91</td></tr><tr><td>APPTA-25</td><td>-</td><td>417</td><td>22.0</td><td>1.88</td></tr><tr><td>APPTA-50</td><td></td><td>388</td><td>31.0</td><td>1.98</td></tr><tr><td>APPTA-60</td><td></td><td>367</td><td>21.0</td><td>2.09</td></tr><tr><td>APPTA-75</td><td>1</td><td>359</td><td>11.0</td><td>2.25</td></tr><tr><td>APPTA-90</td><td></td><td>351</td><td>10.0</td><td>2.12</td></tr><tr><td>APPTA-100</td><td></td><td>357</td><td>9.6</td><td>1.99</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e7224a143b7a33e0f21bbd443e9c6c2c123579380d0f2b8d7578a40a9f6f8a3.jpg",
+        "img_caption": [
+            "FIGURE1 Solid state $^ { 1 3 } \\mathsf { C }$ NMR spectra of APPTA $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 5 4 1 ~ \\mathrm { c m } ^ { - 1 }$ ,respectively. With an increase of the co-unit content,the unsymmetric and symmetric stretchingabsorptions of C-O-C of phenyl allyl ether appeared at 1193 and $1 0 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ ，and became stronger. Moreover， the amide absorptions blue-shifted,an indicative of the disruption of intermolecular hydrogen bonding.This was consistent with 1D WAXD results,which will be discussed below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It was evident from Figure 3 that PPTA exhibited two diffrac tion peaks attributed to (110) and (2o0) planes.43 APPTA-5 showed almost identical diffraction pattern to PPTA,implying no discernible effect of allyloxy substitution on the intermolecular packing.As the content of co-unit increased, these two peaks became diffused and disappeared gradually,and two new sharp diffraction peaks centered at 9.2 and $2 6 . 3 ^ { \\circ }$ respectively,were observed,suggesting that a more ordered crystalline structure,distinct to that of PPTA was formed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0e90fce3cd7d314d9a7efe2e2dadc4a47bb7a6a3a3552bee129851727e7a9a.jpg",
+        "img_caption": [
+            "FIGURE2 FT-IR spectra of APPTA- $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/328f001ab4aebcfed13bdd9dadca41b0c60efebce2123b3a454480b9333327be.jpg",
+        "img_caption": [
+            "FIGURE3 1D WAXD patterns of APPTA- $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To shed light on the molar mass of APPTA-x,the amide groups were substituted by $n$ -butyl groups according to Takayanagi's method (Scheme 2).35 The resultant polymers, abbreviated as N-B-APPTA-x,are readily dissolved in THF and chloroform due to the absence of intermolecular hydrogen bonding.Figure 4 displayed the $^ 1 \\mathrm { H }$ NMR spectra of these polymers.The butyl substituent showed resonance peaks at 3.78, 1.48,1.30,and $0 . 8 7 ~ \\mathrm { p p m }$ ，respectively. The broad resonance peaksat 5.79,5.11,and $4 . 4 8 ~ \\mathrm { p p m }$ were attributed to the protons of $- 0 { \\mathrm { - } } \\mathrm { C H } _ { 2 } \\mathrm { - } \\mathrm { C } H { = } \\mathrm { C H } _ { 2 } ,$ $- 0 { \\mathrm { - } } \\mathrm { C H } _ { 2 } \\mathrm { - } \\mathrm { C H } { = } \\mathrm { C } H _ { 2 } ,$ and $- 0 -$ $\\mathrm { C } H _ { 2 } \\mathrm { - C H = C H _ { 2 } }$ ，respectively.Thebroadeningofallyloxy groups were probably due to the steric hindrance caused by N-butylation,which could hinder the rotation around amide linkage.44.45 To prove this speculation further, the model compound $N , N ^ { \\prime }$ -dibutyl- $\\cdot N , N ^ { \\prime }$ -diphenyl 2,5-bis(allyloxy) terephthalamide (N-B-CM) was prepared (Scheme 3).It was fully characterized by $^ 1 \\mathrm { H } / ^ { 1 3 } \\mathrm { C }$ NMR (Supporting Information Figs.S1 and S2),mass spectroscopy and elementary analysis. Figure 5 shows the temperature variable $^ 1 \\mathrm { H }$ NMR spectra of this compound.The assignment of each proton was made by 2D-NOESY spectrum (Supporting Information Fig. S1).At 50 ${ } ^ { \\circ } \\mathrm { C } ,$ all the protons exhibit well resolved absorption peaks. However, at lower temperatures,these peaks become relatively weak and diffusion. The $^ 1 \\mathrm { H }$ NMR spectra of Nbutylated copolymers show no such temperature dependence due to the restricted chain mobility (Supporting Information Fig. S3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7966a06535cb903e5bbd243c456cfd9e7bf44853f2dfb0394582fb690d0bd7d.jpg",
+        "img_caption": [
+            "SCHEME2 N-Butylation of APPTA- $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/27e44299b74fc14ff70acc983cde369a41455b2591cffd6d99100a31e40b6f05.jpg",
+        "img_caption": [
+            "FIGURE 4 $^ 1 \\mathsf { H }$ NMR spectra of N-B-APPTA- $x$ copolymers in $\\mathsf { C D C l } _ { 3 }$ at room temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the area ratio of allyloxy to the butyl protons,it could be concluded that all the amide groups were substituted.The molecular weights of the N-butylated polymers were evaluatedbyGPC (Table1).ForPPTAwithan inherent viscosity of $7 . 4 9 ~ \\mathrm { d L } / \\mathrm { g } ,$ a number-averaged molecular mass of $3 7 , 0 0 0 \\mathrm { ~ g / m o l }$ was estimated,which was comparable to the results obtained by Ying et al.46 and Mourey et al.47 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CRReaction of APPTA $\\mathbf { \\nabla } \\cdot \\mathbf { x }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CR reactions of APPTA-x were carried out in NMP at $1 9 0 ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { ~ h ~ }$ 、At the beginning,APPTA-x was suspended in NMP. As the reaction proceeded, the suspensions of APPTA-60,75, 90，and 1oo became clear solution gradually, while the others remained heterogeneous.After the reaction was completed,the solution was dropped into methanol slowly and the rearranged product CRPPTA $\\cdot x$ was obtained.48 The solubility of CRPPTA-x was much better than APPTA $x$ (Table 2). Although the copolymers containing co-units less than $6 0 \\mathrm { \\ m o l \\ } \\%$ ，that is,CRPPTA-5,25,and 50,were just partially soluble in NMP,DMSO,DMAc,DMF,and m-cresol, $2 ~ \\mathrm { m g }$ of other copolymers were completely dissolved in $1 ~ \\mathrm { m L }$ of those solvents at room temperature. Taking the advantage of good solubility, CRPPTA-60,75,90,and 100 were characterized by $^ 1 \\mathrm { H }$ NMR (Fig. 6). The resonance peak of proton $\\pmb { a }$ at $1 0 . 3 6 ~ \\mathrm { p p m }$ attributed to amide protons in PPTA part and the peak $\\textbf { \\em d }$ at 8.12 ppm attributed to the phenyl protons adjacent to $- c = 0$ group became weaker from APPTA-60 to APPTA-10O and the peak c attributed to $- 0 H$ proton and other peaks became strongerrelatively.Aboveresultssuggest that APPTA $\\cdot x$ copoly mer underwent CR reaction.The occurrence of CR reaction was also confirmed by DSC in solid state as shown in Supporting Information Figure S4.The increase of solubility was probably for that the introduction of hydroxy group enhanced the interaction between the polymer with the solvent and destroyed the dense packing of PPTA main chains. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/188f6d82c95b631afc56f394cdbbd82021b2970cbd16504921a760331c741b2f.jpg",
+        "img_caption": [
+            "SCHEME3 Synthesis of model compound N-B-CM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84a411565164a2483f1f1e4f4e7b7a5a4c582411ba38eb39fd9c972768851d79.jpg",
+        "img_caption": [
+            "FIGURE 5 Temperature variable $^ 1 \\mathsf { H }$ NMR spectra of N-B-CM recorded in CDCl3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The CRPPTA-x was also characterized by FT-IR.As shown in Figure 7，from CRPPTA-60 to CRPPTA-100，the resonance peak near $3 3 1 0 ~ \\mathrm { ~ c m } ^ { - 1 }$ became broader, and a new peak appeared at higher wavenumber； this was because more hydroxy group formed in the polymer and the peak attributed to the hydroxy group became more obvious.As shown in Figure 8,all the polymers showed two broad diffraction peaks at $9 . 2 ^ { \\circ }$ and $2 1 . 0 ^ { \\circ }$ ，greatly different from that of APPTA$x ,$ which suggested that these polymers formed amorphous structure. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Surface Chemical Compositions of Sized Fibers ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One potential application of CRPPTA-x is to enhance the interfacial adhesionbetween aramid fibers andthematrices of composites,as a reinforcing material alone or a sizing agent. CRPPTA-1oo has been known to improve the interface property of Kevlar/rubber composite.40 To demonstrate the effect of the target polymer on the interfacial structure and property of aramid fiber/epoxy composite，aramid fibers were dipped into 0.5 wt $\\%$ solution of CRPPTA-60,75,90, and 100 in NMP for $1 0 ~ \\mathrm { m i n }$ ,respectively.After complete dry ing under vacuum, the surface chemical compositions of the treated fiberswereascertainedbyXPS.All the fibers showed the characteristic peaks of C1s,N1s,and O1s (Supporting Information Fig. S5).The C1s core level spectrum was curvefitted into five peaks,at $2 8 4 . 8 \\ \\mathrm { ~ e V }$ for C-C species, $2 8 5 . 8 \\ \\mathrm { e V }$ for $\\mathsf { C } { \\mathrm { - N } }$ species, $2 8 6 . 5 \\ \\mathrm { e V }$ for C-O species, $2 8 7 . 9 \\ \\mathrm { e V }$ for $\\mathtt { C } = 0$ species,and 289.1 eV for $\\scriptstyle 0 = \\mathbf { C } - 0$ species.The carbon,nitrogen，and oxygen concentrations of the fiber surface were summarized in Table 3.Compared with the unsized fibers, an increase of $\\mathrm { { 0 / C } }$ ratio from 0.14 to O.19 was achieved, implying the sizing agents were introduced onto the fiber surface successfully. The slight modification in $0 / \\mathrm { C }$ ratio was reasonable considering the similar chemical structures of aramid fibers and sizing agent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Surface Free Energyof Sized Fibers ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The surface free energy of sized fibers was estimated by the contact angle method using $n$ -octaneand glycerol as probe liquids,respectively.The results were listed in Table 4.The contact angle of $n$ -octane on the sized fiber didn't vary sig nificantly with the copolymer composition.However, that of glycerol decreased obviously with an increase of co-unit contents due to the incorporation of polar hydroxy group. The naked fibers showed a surface free energy of $3 5 . 9 \\mathrm { \\ m J / m } ^ { 2 }$ whereas the fibers sized with CRPPTA-1OO exhibitedavalue of $4 3 . 2 \\mathrm { \\ m J / m } ^ { 2 }$ .The increased surface free energy implied that the fibers were more easily wetted by polar liquids such as epoxy resin and therefore facilitate the preparation of high performance composites. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/785d49d659344d14cd8259390daa30f8a72099f7174f7b0df07913ce73a0fa88.jpg",
+        "table_caption": [
+            "TABLE2 Comparisonof SolubilityofAPPTA- $x$ With CRPPTA- $x$ in Common Solventsa "
+        ],
+        "table_footnote": [
+            "For $2 \\ : \\mathrm { m g }$ polymer in $1 ~ \\mathrm { m L }$ solvent; $^ { + + }$ ：solubleat $2 5 ^ { \\circ } \\mathsf { C } ;$ （204 $^ +$ ：solubleat $6 0 \\ ^ { \\circ } \\mathsf { C } ; + -$ :partlysoluble at $6 0 \\ { } ^ { \\circ } { \\mathsf { C } } ;$ -:unsolul "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>PPTA</td><td>APPTA-5 (CRPPTA-5)</td><td>APPTA-25 (CRPPTA-25)</td><td>APPTA-50 (CRPPTA-50)</td><td>APPTA-60 (CRPPTA-60)</td><td>APPTA-75 (CRPPTA-75)</td><td>APPTA-90 (CRPPTA-90)</td><td>APPTA-100 (CRPPTA-100)</td></tr><tr><td>NMP</td><td></td><td>- (-)</td><td>+- (-)</td><td>+- (+-)</td><td>+- (++)</td><td>+- (++)</td><td>- (++)</td><td>1 (++)</td></tr><tr><td>DMSO</td><td></td><td>-(-)</td><td>-(-)</td><td>+- (+-)</td><td>+-(++)</td><td>+-(++)</td><td>+-(++)</td><td>-(++)</td></tr><tr><td>m-Cresol</td><td></td><td>- (-)</td><td>1 (-)</td><td>1 (+-)</td><td>+- (+-)</td><td>+- (+-)</td><td>+- (+-)</td><td>+- (++)</td></tr><tr><td>NMP+5%LiCI</td><td></td><td>+- (+-)</td><td>+-(-)</td><td>+- (+)</td><td>+-(++)</td><td>+-(++)</td><td>+-(++)</td><td>+-(++)</td></tr><tr><td>DMAc+5%LiCl</td><td></td><td>+- (+-)</td><td>+- (+-)</td><td>+- (+-)</td><td>+- (++)</td><td>+- (++)</td><td>- (++)</td><td>- (++)</td></tr><tr><td>DMF+5%LiCI</td><td></td><td>-(-)</td><td>-(-)</td><td>-(+-)</td><td>+- (++)</td><td>- (++)</td><td>- (++)</td><td>-(++)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dd419840e1a5d2dbd40b8c64d7a9f0c023ae3d29fd0522f7b37af0b4e3b7f11.jpg",
+        "img_caption": [
+            "FIGURE 6 Comparison of ${ } ^ { 1 } \\mathsf { H N M R }$ spectra of CRPPTA- $x$ copolymers in d6-DMSO at room temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Interfacial Adhesion of Aramid Fiber/Epoxy Composites ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The interfacial adhesions between aramid fibers and epoxy resins were evaluated by microbond tests and the IFSS were listed in Table 5.The IFSS of fibers with various weight concentrations of CRPPTA-60 were first compared.As shown in Figure 9,the IFSS of naked fibers was $3 7 . 8 \\ \\mathrm { M P a }$ .The treatment with 0.05 wt $\\%$ CRPPTA-6O increased IFSS of the fibers to around 4O MPa.Further increase in IFSS could be obtained by increasing the polymer concentration till 0.5 wt $\\%$ .Beyond that point, the IFSS dropped dramatically to 33.9 MPaforAF-CRPPTA-60-1and $3 1 . 8 ~ \\mathrm { M P a }$ forAF-CRPPTA60-2. 0.5 wt $\\%$ was an optimal concentration for CRPPTA-60 to size the chosen aramid fibers.It might be inferred that low concentration sizing would cause little effect on the surface property of fibers while too much sizing would cause defections on the surfaces of the fibers due to the agglomeration of sizing agent molecules. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe6cd91b02f92c65d8318194b3bfc8a640e53528127f39134ca1c2d44c9d2e94.jpg",
+        "img_caption": [
+            "FIGURE 7 Comparison ofFT-IR spectra of CRPPTA- $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/59d7a9c790d1d60d1f02c1f1c803a5f4170249d942827f71b160eeccb237d010.jpg",
+        "img_caption": [
+            "FIGURE8 1D WAXD patterns of CRPPTA $x$ copolymers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0936f6b95972a2ed3ac366d9e392d746ecbdd45780b4b9ac8d4aed3649927f15.jpg",
+        "table_caption": [
+            "TABLE3 XPS Elementary Analysis of Aramid Fibers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\"></td><td rowspan=\"2\">Atom ratio</td></tr><tr><td></td><td>Atom %</td><td></td><td></td></tr><tr><td>Sample</td><td>C</td><td>0</td><td>N</td><td>Ca</td><td>0/C</td></tr><tr><td>AF</td><td>82.54</td><td>11.64</td><td>4.71</td><td>1.12</td><td>0.14</td></tr><tr><td>AF-CRPPTA-60-0.5</td><td>82.96</td><td>11.95</td><td>4.24</td><td>0.86</td><td>0.14</td></tr><tr><td>AF-CRPPTA-75-0.5</td><td>81.56</td><td>12.90</td><td>4.31</td><td>1.23</td><td>0.16</td></tr><tr><td>AF-CRPPTA-90-0.5 AF-CRPPTA-100-0.5</td><td>81.87 80.60</td><td>13.05 14.99</td><td>4.16 3.36</td><td>0.92 1.05</td><td>0.16 0.19</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The IFSSs of Kevlar fibers sized with other copolymers were also measured (Fig. 1O)． The copolymer CRPPTA-60 with $6 0 \\mathrm { ~ m o l ~ } \\%$ substituted co-units displayed the best perform ance.It is probably due to its high affinity toward both fibers and epoxy resins and also its relatively high molecular weight. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6166572e98408f16ec8a5ee435f84c43caa9966709589d3b14ee436415da7754.jpg",
+        "table_caption": [
+            "TABLE 4 The contact angle of fibers with $\\boldsymbol { n }$ -octane and glycerol and the calculated surface free energy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Contact angle</td><td></td><td></td><td></td></tr><tr><td>Sample</td><td>With octane (01)</td><td>With glycerol (02)</td><td>2 (mJ/ m2)</td><td>2P (mJ/ m2)</td><td>Ys (mJ/ m2)</td></tr><tr><td>AF</td><td>45.3 ±1.9</td><td>60.7 ±1.3</td><td>15.8</td><td>20.1</td><td>35.9</td></tr><tr><td>AF-CRPPTA-60-1</td><td>46.6 ±1.8</td><td>54.4 ±1.5</td><td>15.5</td><td>26.0</td><td>41.5</td></tr><tr><td>AF-CRPPTA-75-1</td><td>46.4 ±2.0</td><td>53.0 ±1.3</td><td>15.6</td><td>27.2</td><td>42.8</td></tr><tr><td>AF-CRPPTA-90-1</td><td>47.5 ±1.8</td><td>53.9 ±1.7</td><td>15.3</td><td>26.8</td><td>42.1</td></tr><tr><td>AF-CRPPTA-100-1</td><td>47.0 ±1.4</td><td>52.6 ±1.9</td><td>15.4</td><td>27.8</td><td>43.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/226a0525851e6991986aba0ee6eb2490c22aaa1db3d9146d1c7d31d714c94a82.jpg",
+        "table_caption": [
+            "TABLE5 Interfacial Shear Strength (IFSS)of Different Fibers With Epoxy Resin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample IFSS (MPa)</td></tr><tr><td>AF 37.8 ± 2.9</td></tr><tr><td>AF-CRPPTA-60-0.05 40.7 ± 3.0</td></tr><tr><td>AF-CRPPTA-60-0.1 44.3 ± 2.9</td></tr><tr><td>AF-CRPPTA-60-0.2 42.7 ± 2.7</td></tr><tr><td>AF-CRPPTA-60-0.5 44.9 ± 3.0</td></tr><tr><td>AF-CRPPTA-60-1 33.9 ± 2.9</td></tr><tr><td>AF-CRPPTA-60-2 31.8 ± 3.0</td></tr><tr><td>AF-CRPPTA-75-0.5 37.5 ± 2.6</td></tr><tr><td>AF-CRPPTA-90-0.5 39.5 ± 2.9</td></tr><tr><td>AF-CRPPTA-100-0.5 36.0 ± 2.9</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9de18b9294fa1626f0758b359191fa674e00a5cb4f68130a0590c32a95f48dd9.jpg",
+        "img_caption": [
+            "FIGURE 9 Interfacial shear strength (IFSS)of epoxy resin and the aramid fibers sized by CRPPTA-60 at various concentrations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8685ce0d62220372b14334a4f11edf3168dde1cf61129ce81f95e25aca0790a2.jpg",
+        "img_caption": [
+            "FIGURE 10 Interfacial shear strength (IFSS)of epoxy resin and the aramid fibers sized by different polymers at a concentration of 0.5 wt $\\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c9b16bb379c8fbe43f103cbf340e04b7cae3cfb5f44308ca929737e08f731b1.jpg",
+        "img_caption": [
+            "FIGURE 11 Surface SEM images of naked aramid fibers AF (a)and the sized ones:(b)AF-CRPPTA-60-0.05,(c) AF-CRPPTA-60-0.1，(d) AF-CRPPTA-60-0.2， (e) AF-CRPPTA-60-0.5，(f) AF-CRPPTA-60-1，(g)AF-CRPPTA-60-2，(h）AF-CRPPTA-75-0.5，(i)AF-CRPPTA-90-0.5,and (j) AF-CRPPTA-100-0.5."
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Surface Morphologyof Sized Fibers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The surface morphologies of the aramid fibers before and after sizing with CRPPTA were characterized by SEM，as shown in Figure 10.The extracted fibers showed very clean and smooth surfaces [Fig.11(a)].With an increase of polymer concentration，the coating of surface became evident [Fig.11(b-(e)].For AF-CRPPTA-60-1 and AF-CRPPTA-60-2, the surface became quite rough and there were even agglom eration on their surfaces [Fig.11(f,g)].The surface morpholo gies of AF-CRPPTA-75-0.5， AF-CRPPTA-90-0.5， and AFCRPPTA-1oo-0.5 showed no discernible difference from that of AF-CRPPTA-60-0.5 [Fig. 11(h,i,j)]. These results were in consistence with that of XPS,both indicating the uniform sizinglayer were formed on the aramid surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc13705dc79679c93d7c8ae9a3ea10b1887ed0c1064f24427d8b424ef2b40295.jpg",
+        "img_caption": [
+            "FIGURE 12 Fractured surface SEM images of naked aramid fibers AF (a) and the sized ones:(b)AF-CRPPTA-60-0.05,(c)AFCRPPTA-60-0.1,(d) AF-CRPPTA-60-0.2,(e) AF-CRPPTA-60-0.5,(f) AF-CRPPTA-60-1,(g)AF-CRPPTA-60-2,(h)AF-CRPPTA-75-0.5,(i) AF-CRPPTA-90-0.5,and (j) AF-CRPPTA-100-0.5. ",
+            "[Fig. $\\scriptstyle 1 2 ( \\mathrm { h , i , j } ) ]$ .Based on these results,it could be inferred that the failure occurred at the sizing agent/fiber interface. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the fractured surface is helpful to understand the interfacial adhesion mechanism between fiberand matrix.For AF/epoxy resin composite,the fracture surface was quite smooth and little epoxy were adhered [Fig. 12(a)]. For the epoxy-based composites reinforced by AF-CRPPTA60-0.05， AF-CRPPTA-60-0.1， AF-CRPPTA-60-0.2， and AFCRPPTA-6O-0.5,respectively, the fractured surfaces became more and more rough [Fig.12(b-e)].For those sized by AFCRPPTA-60-0.5,some resins were adhered on the fiber surface.Further increasing the polymer concentration as in AFCRPPTA-60-1 and AF-CRPPTA-60-2 led to even rougher fiber surface [Fig.12(f,g)]. It seemed that there was little epoxy resin remained on the surface of the fibers sized by AFCRPPTA-75-0.5，AF-CRPPTA-90-0.5,and AF-CRPPTA-100-0.5 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A series of polar hydroxy and unsaturated allyl substituents containing aromatic copolyamides,CRPPTA $- X ,$ were prepared through low temperature solution polycondensation of $p$ phenylenediamine,terephthaloyl chloride,and2,5-bis(allyloxy)terephthaloyl chloride,followed by Claisen rearrangement reaction.The copolymers with high co-unit contents,that is, CRPPTA-60,75,90,and 100,exhibited much improved solu bility in NMP,DMF,DMAc,DMSO,and $m$ -cresol. The solutions of these four copolymers in NMP,as sizing agents,increased the surface energy,O/C ratio and roughness of aramid fibers. The copolymer composition and concentration had remarkable effects on the interfacial structure and property of epoxy-based composites.For CRPPTA-6O，the IFSS of the sized fibers increased with an increase of copolymer concentration and reached a maximum at O.5 wt $\\%$ ，which showed a $1 9 \\%$ increase of IFSS compared with the unsized AF/epoxy resin composites.Increasing the content of co-unit in the copolymer lead to a poorer IFSS.This might be attributed to thereduced chemical affinity of copolymer toward the fiber surface.The fractured surface morphological studies suggested that the failure probably lay at the sizing agent/aramid fiber interface.This work showed great potential for enhancement of interfacial adhesion between aramid surface/matrix with a simple procedure for industrial use and beinguniversal for different matrix. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Basic Research Program of China (2011CB606106) and the National Natural Science Foundation of China (Nos.21204001 and 51473002). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESANDNOTES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1U.S.Agarwal,D.V.Khakhar,Nature1992,360,53-55.   \n2 J.M.Garcia,F. C.Garcia,F.Serna,J.L.de la Pena,Prog. Polym. Sci.2010,35,623-686.   \n3 A.A.Leal,J.M. Deitzel,S.H. McKnight,J.W. Gillespie,Polymer 2009,50,1228-1235.   \n4 Y.Guan,Y.J.Zheng,J.X.Cui,X.H.Wan,Chin. J.Polym. Sci.2010,28,257-267.   \n5 S.M.Du,J.Zhang,Y.Guan,X.H.Wan,Aust.J.Chem.2014, 67,39-48.   \n6 P.J.Wang,K.Wang,J.S.Zhang,G.S. Luo,RSC Adv.2015, 5,64055-64064.   \n7 C.Y.Yue，K.Padmanabhan，Composites Part B 1999，30, 205-217.   \n8 T.K.Lin, S.J.Wu,J.G. Lai,S.S.Shyu, Compos. Sci. Technol. 2000,60, 1873-1878.   \n9S.J.Park,M.K.Seo,T.J.Ma,D.R.Lee,J.Colloid Interface Sci. 2002,252,249-225.   \n10 R.Benrashid,G.C.Tesoro,Text.Res.J.1990,60,334-344. 11L.S.Penn,B.Jutis,J.Adhesion 1989,30,67-81.   \n12 T.Ai,R.M.Wang,W.Y.Zhou,Polym.Compos.2007,28, 412-416.   \n13 H.J. Kong,P. Yang, C. Q. Teng,M. H. Yu,RSC Adv.2015,5, 58916-58920.   \n14 G.J.Ehlert,H.A.Sodano,ACS Appl.Mater.Interfaces2009, 1, 1827-1833.   \n15 H.S.Hwang，M.H．Malakooti，B.A.Patterson，H．A. Sodano,Compos.Sci. Technol.2015,107,75-81.   \n16 H.S.Hwang，M.H.Malakooti,H.A.Sodano，Composites Part A2015,76,326-333.   \n17 M.Xi,Y. L. Li,S.Y. Shang, D.H. Li,Y. X. Yin,X.Y. Dai, Surf.Coat. Technol.2008,202,6029-6033.   \n18 N.Inagaki，S. Tasaka,T.Inoue，J.Appl. Polym. Sci.1998, 69,1179-1185.   \n19 C.X.Jia,P.Chen,W. Liu,B. Li, Q.Wang,Appl.Surf. Sci. 2011,257, 4165-4170.   \n20 L. Liu, Y. D. Huang, Z. Q. Zhang, X. B. Yang, J. Appl. Polym. Sci. 2006, 99,3172-3177.   \n21Y.H. Zhang,Y. D. Huang,L.Liu,K. L. Cai,Appl.Surf. Sci. 2008,254,3153-3161.   \n22 P.J.de Lange, P.G.Akker,A.J.H. Maas,A. Knoester, H. H. Brongersma,Surf. Interface Anal.2001,31,1079-1084.   \n23 P.J.de lange，P.G.Akker，E.Maeder，S.L.Gao，W. Prasithphol，R．J．Young，Compos.Sci.Technol.2007，67, 2027-2035.   \n24P.J.de Lange,P.G.Akker,J.Adhes. Sci. Technol.2012,26, 827-839.   \n25 J.Wu,X.H. Cheng,C.Y. Xie,J.Mater.Sci. 2004,39,289- 290.   \n26 J.R. Chen,Y.F. Zhu,Q. Q. Ni,Y.Q. Fu,X.Fu,Appl.Surf. Sci. 2014,321,103-108.   \n27 R.N.Sa,Y.Yan,Z.H.Wei,L.Q. Zhang,W.C.Wang，M, ACS Appl.Mater.Interfaces2014,6,21730-21738.   \n28 M.Steuer,M.Ballauff,J.Polym.Sci.Part A:Polym. Chem. 1993,31,1609-1619.   \n29 S.Viale,W.F.Jager,S.J.Picken,Polymer 2003,44,7843- 7850. 30 S.Viale,A.S.Best,E.Mendes,W.F.Jager,S.J.Picken, Chem. Commun.2004,1596-1597.   \n31 B.H.Glomm,A.G.Oertli,C.Rickert,P.Neuenschwander, U.W.Suter,Macromol.Chem.Phys.2000,201,1374-1385. 32K.S.Lee,US Patent 20070015896-A1,2007.   \n33 M.Trigo-Lopez,J.L. Barrio-Manso,F.Serna,F.C.Garcia,J. M.Garcia,Macromol.Chem.Phys.2013,214,2223-2231.   \n34 M.Trigo-Lopez,J.L.Pablos,F.C.Garcia,F.Serna,J.M. Garcia，J. Polym. Sci.，Part A:Polym.Chem.2014，52，1469- 1477.   \n35 L.Claisen, Chem.Ber.1912,45,3157-3166.   \n36 A.M.M. Castro,Chem.Rev.2004,104,2939-3002.   \n37 H.Miyamoto,Y. Okawa,A. Nakazaki,S. Kobayashi,Angew. Chem.Int.Ed.2006,45,2274-2277.   \n38T.J.Maimone,P.S.Baran,Nat.Chem. Biol.2007,3,396-407. 39 J.Xu,M.H. Lacoske,E.A.Theodorakis,Angew. Chem. Int. Ed. 2014,53,956-987.   \n40 S.M. Du,W.B.Wang,Y.Yan,J. Zhang,M.,L. Q. Zhang,X. H.Wan,Chem.Commun.2014,50,9929-9931.   \n41M.Takayanagi,T.Katayose，J.Polym.Sci. Part A:Polym. Chem.1981,19,1133-1145.   \n42 W.F. Hao,X.F.Yao,Y.C.Ke,Y.J. Ma,F.X.Li,J.Adhes. Sci. Technol. 2013,27, 1012-1022.   \n43 H.J. Kong,C. Q. Teng,X.D. Liu,J.J. Zhou,H. P. Zhong,Y. Zhang,K.Q.Han,M.H.Yu,RSC Adv.2014,4,20599-20604. 44 R.Yamasaki，A.Tanatani，I.Azumaya，S．Saito，K. Yamaguchi,H.Kagechika,Org.Lett.2003,5,1265-1267.   \n45 L.Lunazzi，A.Mazzanti，M.Minzoni,J.E.Anderson，Org. Lett. 2005,7, 1291-1294.   \n46 Q.C. Ying,B.Chu,R.Y.Qian,J. S. Bao,J.Y.Zhang,C.C. Xu,Polymer 1985,26,1401-1407.   \n47 T.H. Mourey,R.A.Guistina,T.G.Bryan,R.F.Thornbury, R.Blevins,R. J. Perry, S.R.Turner,J. Appl. Polym.Sci.1992, 45,1983-1994.   \n48 The Td at $5 \\%$ Weight loSs of CRPPTA-60, CRPPTA-75, CRPPTA90,and CRPPTA-10O were ${ 3 7 3 } ^ { \\circ } \\mathsf C$ ${ 3 7 4 } ^ { \\circ } \\mathsf C$ 1 $3 6 7 ^ { \\circ } \\mathsf C ,$ and $3 6 1 ^ { \\circ } \\mathsf C ,$ （20 respectively,which had no big difference from that of CRPPTA60, CRPPTA-75,CRPPTA-90,and CRPPTA-100 in Table 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

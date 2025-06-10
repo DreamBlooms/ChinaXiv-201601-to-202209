@@ -1,0 +1,111 @@
+# 临床研究
+
+# 慢性乙型肝炎同病异证发病的分子机制：蛋白质组学分析
+
+陈文莉，罗鸣，陈小苹，黄 晶，陈 仁广东省人民医院//广东省医学科学院，广东广州510080摘要：目的利用蛋白质组学方法研究慢性乙型肝炎肝郁脾虚、湿热中阻同病异证病人外周血总蛋白表达谱的变化，分析差异表达蛋白质与证型之间的关系。方法通过双向凝胶电泳，获得了外周血浆差异蛋白表达图谱，经基质辅助激光解析飞行时间质谱分析鉴定出差异表达的蛋白质。结果获得了慢性乙型肝炎中医肝郁脾虚和湿热中阻同病异证病人及健康人对照组血浆总蛋白双向凝胶电泳银染图谱，健康组蛋白点为 $2 7 8 { \pm } 1 6$ 个，肝郁脾虚证组为 $3 2 0 { \pm } 1 4$ 个，湿热中阻证组为 $3 4 3 { \pm } 1 9$ 个；通过对差异蛋白质点进行质谱鉴定，共发现7个差异表达蛋白，主要包括免疫相关蛋白,炎症蛋白以及脂类代谢相关蛋白。结论 慢性乙肝肝郁脾虚和湿热中阻证型间存在多个差异表达蛋白，提示不同的蛋白质表达谱可能是同病异证的分子标签和证侯基础。
+
+关键词：慢性乙型肝炎；双向电泳；同病异证；蛋白质组学
+
+# The same disease with different syndromes: a proteomic study of chronic hepatitis B
+
+CHENWenli,LUO Ming,CHENXiaoping,HUANG Jing,CHENRen Guangdong General Hospital,Guangdong Academy of Medical Sciences,Guangzhou 51O080,China
+
+Abstract: ObjectiveToanalyzethediferentialproteomicprofilesoftheplasmainpatients withchronichepatitisBpresenting withdamp-heat retention syndrome and liver stagnation-splen deficiency syndrome.Methods Two-dimensional polyacrylamidegel electrophoresis (2-DE)and matrix-asisted laserdesorption ionization time-of-flight mass spectrometry (MALDITOF MS)were used toidentifythe diferentially expresed proteins in the plasma of patients with chronic hepatitis B. Results The numbersof plasma proteinsdetected in healthyvolunters,patientswith damp-heat retentionsyndrome,and patients with liver stagnation-spleen deficiency syndrome were $2 7 8 \pm 1 6 ,$ $3 2 0 { \pm } 1 4$ and $3 4 3 { \pm } 1 9 .$ ，respectively. Seven differential protein spots weresuccessfullyidentified bymasspectrum,and wereclasified into immunological proteins,inflamatory proteins,and lipidmetabolism-related proteins.Conclusion Inpatients withchronic hepatitis B,the multiplediferential proteins between damp-heat retention syndrome and liver stagnation-splen deficiency syndrome suggests the diverse molecularbasisof traditional Chinese medicine syndromes,andthey mightbethe moleculartagsfordiferentsyndromesof the same disease.
+
+Keywords:chronicviralhepatitisB;two-dimensionalelectrophoresis;samediseasewithdiferentsyndromes; proteomics
+
+中医辨证论治的依据是临床上普遍存在的同病异证和异病同证，同病异证强调中医辨证论治所体现的个体化特色。慢性乙型肝炎患者中医证型分布的研究显示，以肝郁脾虚型为主、湿热中阻型次之[,是慢性乙肝最主要的两个证型，中医学以辨证论治的理论来归纳同一疾病患者的不同证型，优化对个体间差异的认知和处理，具有精准医学的某些特征[2]
+
+蛋白质组是对应于一个基因组的所有蛋白质构成的整体3,不局限于一个或几个蛋白质，疾病的不同阶段、不同分型的蛋白质表达情况各不相同，因而是一个空间和时间上动态变化着的整体，契合于中医学“整体观念"的认识[45]。本研究拟应用基于双向凝胶电泳和基质辅助激光解析飞行时间质谱的蛋白组学技术，筛选并鉴定慢性乙型主要证型肝炎肝郁脾虚和湿热中阻的差异蛋白表达谱，从“整体"层面分析同病异证的证侯分子标签，是病证结合的中西医结合现代化研究的新模式。本研究是一种基于转化医学思路的中医证侯本质研究[7-8],是中医学走向"精准"的技术层面的升级,使中医学的证侯辨识和立法组方更趋准确。
+
+# 1材料和方法
+
+1.1 材料
+
+1.1.1样品10例慢性乙型病毒性肝炎血浆样品取自广东省人民医院感染科2010年10月\~2014年5月住院病人，患者全为男性，年龄25\~55岁，按中医证型分型标准分为两组，肝郁脾虚组5例，湿热中阻组5例，乙肝表面抗原阳性，病史超过半年，另外对照组健康男性5例，乙肝表面抗原阴性。中医辩证参照1992年中华中医药学会内科肝胆病专业委员会讨论制定的《病毒性肝炎中医辨证标准(试行)》进行分型。
+
+1.1.2试剂尿素，丙烯酰胺，甲叉双丙烯酰胺，两性电解质载体，十二氨基磺酸钠，二硫苏糖醇，碘乙酰胺，甘氨酸,SDS-PAGE Standards low Range,均购自 Sigma;Brandford蛋白浓度测定试剂盒均购自Bio-Rad，其他试剂均为国产分析纯。
+
+1.1.3仪器小型台式离心机和低温高速离心机5418R,Eppendorf;PROTEANIEFCELL等电聚焦仪和PROTEANII Xi2-Dcel垂直电泳系统,Bio-Rad;Milli-Q超纯水系统,Millipore;VoyagerDE基质辅助激光解析电离-飞行时间质谱分析(MALDITOF-MS)和Data Explore 4.0 质谱分析软件Applied Biosystems;UMAXPower Look II扫描仪,UMAX Technologies;PH计S400,梅特勒-托利多。
+
+# 1.2 方法
+
+1.2.1样品处理取慢性乙肝病毒性肝炎患者和对照组健康人清晨空腹静脉血 $2 { \mathrm { ~ m L } }$ ，医用血常规管(EDTA抗凝),静置于 $4 \mathrm { { ^ \circ C } }$ 冰箱 $3 0 ~ \mathrm { m i n }$ ， $3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { { m i n } }$ ，收集血浆， $2 0 0 ~ \mu \mathrm { L } /$ 支，冻存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱备用。
+
+1.2.2双向凝胶电泳(2-DE）参照Bio-Rad公司双向电泳实验手册进行。将 $2 0 0 ~ \mu \mathrm { g }$ 样品与水化液混合至总体积为 $3 0 0 ~  { \mu \mathrm { L } }$ ,加入持胶槽中，IPG干胶条胶面朝下放入持胶槽中，并覆盖一层矿物油以防止样品蒸发，盖好后$2 0 \ \mathrm { { ^ circ C } }$ 浸泡 $1 2 \mathrm { ~ h ~ }$ 。泡胀后将持胶槽放入PROTEANIEFcell等电聚焦仪电极板上，等电聚焦按设定的程序自动进行。等电聚焦后IPG胶条在平衡缓冲液( $5 0 \mathrm { m m o l / L }$ Tris-HCl,pH8.8,6mol/L尿素， $30 \%$ 甘油(w/v）， $2 \%$ $\mathrm { \Delta ~ S D S ( w / v ) }$ ， $1 \%$ DTT中平衡 $1 5 \mathrm { m i n }$ ，再用 $2 . 5 \%$ 碘乙酰胺替换 $1 \%$ DTT在同样的平衡缓冲液中平衡 $1 5 \mathrm { m i n }$ ，胶条移置浓度 $1 2 . 5 \%$ 的SDS-PAGE胶上，在胶条右端外侧加入低相对分子质量标准蛋白质，SDS-PAGE在PROTEANⅡIXi2-Dcell垂直电泳系统中进行，循环水冷却， $1 2 \mathrm { m A }$ /胶，电泳 $3 0 \mathrm { m i n }$ 后换成 $2 3 ~ \mathrm { m A }$ 胶电泳，直到溴酚蓝到达胶的底线边缘即可结束电泳，电泳后凝胶采用改良的兼容质朴的银染法染色[10]
+
+1.2.3图像采集与分析利用UMAXPowerLookII扫描仪获取图像，用PDQuest分析软件进行图像分析，其过程包括斑点检测、量化、背景消减和匹配,建立每组平均凝胶，蛋白点的差异分析等。蛋白点的等电点和相对分子质量采用二维校正法确定，以蛋白点的相对体积作为参考因素，筛选相对体积 $( \% \mathrm { v _ { 0 } l } )$ 相差2倍及以上且在组间有明显变化规律的蛋白斑点作为后续质谱分析的候选蛋白质点。
+
+1.2.4肽指纹质谱鉴定及数据库检索胶内酶解过程参照文献[7-8方法进行。将酶解样品与 $\mathfrak { a }$ -氰基-4-羟基肉桂酸饱和溶液混合，取 $0 . 5 ~ \mu \mathrm { L }$ 点在不锈钢样品板上,室温下自然干燥后用基质辅助激光解吸/电离飞行时间质谱(MALDI-TOF-MS)对差异表达的蛋白斑点进行肽质量指纹图谱(PMF)分析,用DataExplorer4.0 质谱分析软件对质朴图谱进行基线平滑，去噪，峰形的高斯化及相对分子质量纠正。用ProfoundPMF数据库查询软件通过互联网在NCBInr蛋白数据库中进行检索，检索所得结果的分值(Est'sZ)大于1.645(Percentile: $9 5 \%$ ），肽段覆盖率至少为 $10 \%$ 时，认为结果有意义。
+
+1.2.5统计学分析采用SPSS13.0软件进行统计分析，所有数据采用均数 $\stackrel { \cdot } { \pm }$ 标准差表示，两组间比较采用t检验， $P { < } 0 . 0 5$ 认为差异具有统计学意义。
+
+# 2结果
+
+# 2.1血浆蛋白2-DE凝胶图谱分析
+
+采用双向凝胶电泳和银染方法对慢性乙肝病毒性肝炎中医肝郁脾虚组和湿热中阻组及健康人的血浆样品进行分离获得双向凝胶电泳图谱。分析发现，大多数蛋白点分布在 $\mathrm { p I } 4 . 5 { \sim } 6 . 5$ ，相对分子质量20\~65000的范围内，正常人及慢性乙型肝炎中医肝郁脾虚和湿热中阻同病异证病人电泳银染图谱见图1\~3。经ImageMaster2DPlatinumV5.0软件分析，消除噪音、背景等后，正常人的平均蛋白点数为 $2 7 8 { \pm } 1 6$ 个，肝郁脾虚证组为 $3 2 0 { \pm } 1 4$ 个，湿热中阻证组为 $3 4 3 { \pm } 1 9$ 个。
+
+![](images/3b7e3f905abc76a6cbc46f071a7a6e6d99a2beb0215c3cffe9e30236a241ea9c.jpg)  
+图1健康人(对照组)的二维电泳图谱 Fig.1 2-D gel image of plasma proteins from healthy volunteers.
+
+# 2.2质谱鉴定
+
+通过对双向凝胶电泳获得的7个差异表达蛋白点进行胶内原位酶解，经MALDI-TOF质谱分析，我们得到差异蛋白点的肽质量指纹图谱(PMF)。通过Mascot软件搜索SWISS-PROT数据库进行序列比对，结合双向凝胶图谱上相应点的等电点、相对分子质量等进行综合分析确定待测蛋白质点的性质，寻找相关蛋白质，差异蛋白点数据库查询结果见表1。
+
+![](images/d9c9ad96115f9a18d32a7e6e8e5982869e6a1f55af222eb2a05150344f9d0517.jpg)  
+图2肝郁脾虚病人的二维电泳图谱 Fig.2 2-D gel image of plasma proteins from chronic hepatitisBpatientswith liver stagnation spleen deficiency syndrome (Gan Yu Pi Xu).
+
+![](images/4c738ad923c73d9cbbc9487fd3af750b088e19dca506e9627ebbc4c4d9a71d0b.jpg)  
+图3湿热中阻病人的二维电泳图谱 Fig.3 2-D gel image of plasma proteins from chronic hepatitis B patients with damp-heat retention syndrome (Shi Re Zhong Zu).
+
+表1差异表达蛋白的MALDI-TOF质谱分析 Tab.1MALDI-TOF MS identification of proteins with differential expressions between diferent syndromes   
+
+<html><body><table><tr><td>Spot No.*</td><td>Protein name</td><td>Accession No.</td><td>Theoretical values pI/M.x103 †</td><td>Experimental values pI/M.×103*</td><td>Function</td><td>Ganyu vs normal</td><td>Shire vs normal</td><td>Ganyu us shire</td></tr><tr><td>1</td><td>SAMP</td><td>P02743</td><td>5.55/26.28</td><td>5.39/31.0</td><td>Inflammatroy</td><td>Up</td><td>Up</td><td>Similar</td></tr><tr><td>2</td><td>APO-A1</td><td>P02647</td><td>5.48/23.45</td><td>5.73/30.0</td><td>Lipometabolism</td><td>Down</td><td>Down</td><td>Down</td></tr><tr><td>3</td><td>APO-C2</td><td>P02655</td><td>4.58/9.25</td><td>4.61/13.9</td><td>Lipometabolism</td><td>Down</td><td>Down</td><td>Down</td></tr><tr><td>4</td><td>APO-C3</td><td>P02656</td><td>4.63/8.53</td><td>4.70/12.8</td><td>Lipometabolism</td><td>Down</td><td>Down</td><td>Down</td></tr><tr><td>5</td><td>CRP</td><td>P02760</td><td>5.07/30.92</td><td>5.19/30.8</td><td>Inflammatroy</td><td>Up</td><td>Up</td><td>Similar</td></tr><tr><td>6</td><td>HPT</td><td>P00738</td><td>6.07/16.88</td><td>6.30/22.8</td><td>Liver Secretory</td><td>Down</td><td>Down</td><td>Down</td></tr><tr><td>7</td><td>IGJ</td><td>P01591</td><td>4.53/23.99</td><td>4.47/30.2</td><td>Immunology</td><td>Up</td><td>Up</td><td>Up</td></tr></table></body></html>
+
+\*Defined according to spot positions in 2-D gels as shown in Fig. 1-3. $\dagger$ Calculated from the database entry without any processing.
+
+# 2.3差异蛋白功能分析
+
+对这些差异蛋白的生物学功能进行查询和分析后，发现这些差异蛋白多数为机体炎症反应、肝脏内分泌、脂肪代谢以及免疫学功能相关的蛋白质。与免疫功能有关的蛋白质包括：免疫球蛋白J链(IGJ)和人类白细胞抗原(HLA)I类组织相容性抗原B;与炎症反应有关的急性时相蛋白质包括：血清淀粉蛋白酶(SAMP)，C反应蛋白(CRP)和结合珠蛋白(HPT);与脂类代谢有关的蛋白质有载脂蛋白(APO-A1、APO-C2和APO-C3)。
+
+# 2.4 差异蛋白的验证
+
+利用ELISA方法，进一步确定慢性乙肝病毒性肝炎中医肝郁脾虚组和湿热中阻组及健康人的血浆样品中的差异蛋白。由图4可知,各证型中IGJ表达均有升高，其中肝郁脾虚证型IGJ表达量比湿热中阻症型中的高。CRP在湿热中阻证和肝郁脾虚证型中升高的幅度一致。
+
+# 3讨论
+
+证是出现于相关西医疾病过程中的一类具有一定规律性、特征性的临床表现集合体(症候群)。蛋白质组学在整体水平上高通量、大规模研究蛋白质的组成及其动态变化的活动规律"，因此应用蛋白质组学研究慢性乙肝肝郁脾虚和湿热中阻差异蛋白表达，有助于从整体水平上反映同病异证间蛋白质表达特征。为此，本研究采用比较蛋白质组学方法对临床不同证型慢性乙肝病毒性肝炎病人的血浆蛋白进行了差异分析，成功鉴定出7个差异表达蛋白。
+
+免疫球蛋白J链(IGJ)是由浆细胞产生的一种由124个氨基酸组成的糖蛋白，可将IgA单体连接为二聚体以及IgM单体连接为五聚体，是机体的重要免疫反应成分，其对于产生稳定的抗体是必需的。本研究肝郁脾虚型和湿热中阻型病人IGJ表达均有明显升高，与之前文献报道相一致[]。慢性肝炎病人体液免疫功能增强，提示病人可能存在免疫功能紊乱。肝郁脾虚是CHB临床中最常见证型，本研究中，与正常人比较,肝郁脾虚组中肝功能和机体免疫水平相关的蛋白表达降低，但高于湿热中阻证型，反映肝功能损害的前白蛋白在不同证型中均有下降。前白蛋白与肝脏功能修复和分泌功能相关，在肝纤维化病人中水平显著降低[12]，我们的结果提示两组病人均降低，肝郁脾虚证组中下降幅度低于湿热中阻证型组，提示肝郁脾虚组有更强的纤维化趋势。
+
+![](images/375ffac500113ea2ffbdf6fadcc8a897f069557315e6371383bfcaf5772a8003.jpg)  
+图4慢性乙型肝炎湿热中阻组、肝郁脾虚组和健康对照组血浆中差异表达蛋白的比较  
+Fig.4 Evaluation of IGJ and CRP expression in the plasma of chronic hepatitis B patients with damp-heat retention syndrome and liver stagnation-spleen deficiency syndrome. $^ { * } P { < } 0 . 0 5 ,$ $* * * P { \ < } 0 . 0 0 1$ us normal control.
+
+本研究结果显示在湿热中阻证中表达异常的蛋白质主要属于急性时相和脂类代谢有关的蛋白质，临床表现湿热越重，肝功能损害越重，故反应急性时相的蛋白质如CRP、SAMP在湿热中阻中较正常人表达明显升高。CRP是一种急性时相蛋白，它广泛存在于多种疾病，但由于其特异性较差，一般不作为单独的证型参考指标。在CHB中医证型中初步发现CRP和SAMP在湿热中阻证和肝郁脾虚型均显著升高，提示两组病人均存在乙肝炎症的活动,这与之前的研究吻合[13]
+
+肝脏是人体脂代谢的枢纽，在慢性乙肝发生河演变过程中，随着肝脏细胞的不断损害，血脂代谢的诸多环节都会受到影响，导致严重的血脂代谢异常。APO-A1、APO-C2和APO-C3都在肝脏中合成，肝脏细胞损伤时合成能力下降，本研究发现慢性乙肝各证型组与正常人对照组相比有明显下降,可能与慢性肝炎肝细胞损伤后影响载脂蛋白生理合成有关[4],CHB病人合并代谢综合征可见载脂蛋白水平降低[15，提示CHB病人的代谢性疾病的风险。
+
+祖国医学在治疗慢性乙肝，改善患者症状方面有着独特的优势，以辩证论治为特征的治疗体系由于辩证缺乏客观的指标，存在主观性较明显的缺陷。因此，开展慢性乙肝中医证候客观化研究是当前精准医学下中医现代化的重要组成部分[，对于加强辩证论治客观化和深化证侯本质研究均有重要意义。
+
+# 参考文献：
+
+[1］王凤云，唐旭东,刘燕玲,等.慢性乙型肝炎患者中医证型特点及分布 差异[J].世界华人消化杂志,2008,16(7):716-20.   
+[2]王文健,沈自尹.从"同病异证"到"同病类证"[J].中国中西医结合杂 志,2014,34(1): 9-12.   
+[3］袁立霞,白殊同,李青原,等.Mtb诱导的佐剂性关节炎大鼠滑膜病变 的蛋白质组学研究[J].南方医科大学学报,2014,34(9):1272-6.   
+[4]Lu CL,Qv XY,Jiang JG.Proteomics and syndrome of Chinese medicine[J].JCell Mol Med,2010,14(12): 2721-8.   
+[5]Ding XF, Zhao XH,Tao Y,et al．Xiao Yao San improves Depressive-Like behaviors in rats with chronic immobilization stress through modulation of locus Coeruleus-Norepinephrine system[J].Evid Based Complement Alternat Med,2014,25(4): 605914.   
+[6]Sun XG, Wu WK,Lu ZP. Chinese integrative medicine: translation toward Person-Centered and balanced medicine[J]. Chin J Integr Med,2012,18(1): 3-6.   
+[7］蔡红兵,李 欣,孙学刚,等.加强推进力度,促进转化医学发展[J].南方 医科大学学报,2011,31(5): 741-3.   
+[8]Sun X,Lin D,Wu W,et al. Translational Chinese medicine:a way for development of Traditional Chinese Medicine[J].Chin Med, 2011,17(2): 186-90.   
+[9］中国中医药学会内科肝病专业委员会.病毒性肝炎中医辨证标准(试 行)[J].中医杂志,1992,33(5):39-40.   
+[10]Sun XG, Zhong XL,Liu ZF,et al. Proteomic analysis of chronic restraint stress-induced Gan-stagnancy syndrome in rats[J]. Chin J Integr Med,2010,16(6): 510-7.   
+[11]李 勇,王力利,康爱文,等.应用蛋白质组学技术筛选鉴定锌指蛋白 139调控的胃癌转移相关蛋白质[J].南方医科大学学报,2015,35 (3): 360-4.   
+[12] Gangadharan B,Antrobus R,Dwek RA，et al. Novel serum biomarker candidates for liver fibrosis in hepatitis C patients[J]. Clin Chem,2007,53(10): 1792-9.   
+[13]王磊琼,段新科,董宝刚.慢性乙型病毒性肝炎中医虚证的蛋白质组 学规律初探[J].光明中医,2012,27(3):458-9.   
+[14] Aizawa Y, Seki N,Nagano T,et al. Chronic hepatitis C virus infection and lipoprotein metabolism[J].World Jof Gastro- enter, 2015,21(36): 10299-313.   
+[15]JarcuskaP, Janicko M,Kruzliak P,et al.Hepatitis B virus infection in patients with metabolic syndrome:a complicated relationship. Results of a population based study[J]. Eur J Intern Med,2014,25 (3): 286-91.   
+[16]邓爱文,熊日波,曾参军.精准医学在外科领域的应用进展[J].南方医 科大学学报,2015,35(11): 1662-4,封3.
+
+(编辑：孙昌朋)

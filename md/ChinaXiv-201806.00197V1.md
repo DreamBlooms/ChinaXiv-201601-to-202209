@@ -1,0 +1,118 @@
+基础研究
+
+# 丙泊酚对不同发育时期SD大鼠少突胶质细胞鞘磷脂蛋白的影响
+
+朱晓勤,林春水,郭培培,李平，刘 川南方医科大学南方医院麻醉科，广东广州510515
+
+摘要：目的探讨丙泊酚对不同发育时期SD大鼠少突胶质细胞鞘磷脂蛋白(MBP)的影响。方法取3、7、14、21日龄SD大鼠各40只,随机分为对照组和实验组，每组20只。对照组(中长链脂肪乳组)和实验组(丙泊酚中长链脂肪乳注射液组)分别腹腔注射脂肪乳 $2 5 \mathrm { m g / k g }$ 或丙泊酚 $2 5 \mathrm { m g / k g }$ ，隔 $2 0 \mathrm { m i n }$ 追加首次剂量的1/2，持续 $8  { \mathrm { ~ h ~ } _ { \circ } }$ 通过荧光定量RT-qPCR法检测MBPmRNA和Caspase-3mRNA的表达,Westem blot和免疫组化法检测MBP蛋白的表达。结果与对照组相比,实验组各日龄大鼠MBPmRNA的表达均明显下调( $_ { ( P < 0 . 0 5 ) }$ ，而3、7、14日龄大鼠Caspase-3mRNA表达明显上调 $_ { ( P < 0 . 0 5 ) }$ 。实验组7、14日龄大鼠MBP的表达，与对照组相比显著降低 $( P { < } 0 . 0 5 )$ 。两组21日龄Caspase-3mRNA和MBP的表达，差异没有统计学意义（ $_ { ( P > 0 . 0 5 ) }$ 。结论丙泊酚可抑制SD大鼠MBP基因与蛋白的表达，以7、14日龄最为显著。
+
+关键词：少突胶质细胞;鞘磷脂蛋白；神经毒性；丙泊酚
+
+# Effects of propofol on myelin basic protein expression in oligodendrocytes of SD rats at different developmental stages
+
+ZHU Xiaoqin,LINChunshui,GuO Peipei,LIPing,LIUChuan DepartmentofAnesthesiology,Nanfang Hospital,SouthernMedical Unioersity,Guangzhou 51o515,China
+
+Abstract: ObjectiveToinvestigate the efectof propofolonmyelinbasic protein (MBP)expresion inoligodendrocytesof SD ratsatdiferentdevelopmentalstages.Methods Thisstudy wasconductedin3-,7-,14-and21-day-oldSDrats (40ineachage group). In each group,therats were randomized equally into control groupand experimental group,andinthecontrol group, the rats received an intraperitoneal injection of $2 5 \mathrm { m g / k g }$ medium-long-chain fat emulsion followed by injections at a half dose every $2 0 \mathrm { m i n }$ for $^ { 8 \mathrm { { h } } }$ ; the rats in the experimental group were given injections of propofolmedium (at the initial dose of $2 5 \mathrm { m g / }$ $| \mathbf { k g } \rangle$ in the same manner.Thetranscriptional levels of MBPand caspase-3 inthe brain tissues were detected byqRT-PCR,and the protein expression of MBP was with Western bloting and immunehistochemistry. Results Compared with those in the control groups,the expresion of MBP mRNA was significantlydown-regulated while caspase-3mRNA was up-regulated in 3-, 7- and 14-day-old rats in the experimental groups $( P { < } 0 . 0 5 )$ . The protein expression of MBP in 7- and 14-day-old rats was significantly decreased in the experimental groups compared with the control groups $( P { < } 0 . 0 5 )$ . The expression of caspase-3 mRNA or MBP protein in 21-day-old rats showed no significant difference between the two groups $( P { > } 0 . 0 5 )$ . Conclusion Propofol candown-regulate theexpressionofMBPatboth the mRNAand protein levels inSDrats,especiall in those at7and 14 days of age.
+
+Keywords: oligodendrocytes; myelin basic protein; neurotoxicity; propofol
+
+丙泊酚是目前普遍用于麻醉诱导、维持及ICU镇静的静脉麻醉药，起效快、苏醒迅速且功能恢复完善。有研究表明丙泊酚促进孕晚期胎猴和新生猴少突胶质细胞凋亡，我们前期研究发现,胚胎期斑马鱼暴露于丙泊酚也下调少突胶质细胞鞘磷脂蛋白(MBP)表达。少突胶质细胞是胶质细胞中的一种，包绕轴突形成绝缘的髓鞘，主要功能是协助神经生理电信号跳跃式高效传递和保护神经元[3]。MBP是少突胶质细胞特异性表达蛋白，占髓鞘蛋白的 $1 / 3 ^ { [ 4 ] }$ 。关于丙泊酚作用于出生后不同时期SD乳鼠是否下调少突胶质细胞表达MBP以及这种MBP的下调是否与凋亡有关，在SD乳鼠何种阶段表现最明显，尚未有文献报道。本研究通过丙泊酚作用于不同时期(3、7、14、21日龄)SD乳鼠，观察丙泊酚对不同发育时期少突胶质细胞MBP和Caspase-3mRNA的影响，以进一步观察丙泊酚的神经毒性作用及其机制。
+
+# 1 材料和方法
+
+# 1.1实验动物分组
+
+出生后3 d(P3)、7d(P7)、14 d(P14)、21d(P21)SD大鼠各40只,体质量分别为 $\cdot 8 { \sim } 1 0 , 1 8 { \sim } 2 1 , 3 2 { \sim } 3 4 , 4 4 { \sim } 4 6 \ \mathrm { g }$ 雌雄不限，购自南方医科大学动物实验中心，饲养环境
+
+$1 8 { \sim } 2 2 ~ \mathrm { \% }$ ，正常昼夜交替采光，自由充足摄取食物和水。随机分成对照组和实验组。对照组和实验组分别腹腔注射脂肪乳或者丙泊酚 $2 5 \mathrm { m g / k g }$ ，脂肪乳用生理盐水补充至与丙泊酚等体积，均每隔 $2 0 ~ \mathrm { { m i n } }$ 追加首次剂量的1/2共 $8 ~ \mathrm { h } _ { \odot }$ 。药物处理后SD大鼠置于 $3 7 \ \mathrm { { ^ circ C } }$ 恒温充氧保温箱中，直至麻醉恢复。2h后，两组 $1 \%$ 戊巴比妥钠腹腔注射 $3 0 ~ \mathrm { m g / k g }$ 后处死,取大脑组织保存。测定蛋白和RNA的大脑组织放 $- 8 0 \ \mathrm { { ^ circ C } }$ 保存，做切片的大脑组织放 $4 \%$ 多聚甲醛中暂存。
+
+# 1.2主要材料和仪器
+
+丙泊酚中/长链脂肪乳注射液(批号16KL_5866,北京费森尤斯卡比医药有限公司）、中长链脂肪乳剂(批号80GG051，华瑞制药有限公司）、兔抗MBP多克隆抗体(abcam公司ab40390）鼠抗 $\mathbf { \cdot } \mathbf { \{ \beta \} }$ -actin多克隆抗体(南京诺维赞L/N804051)、SP试剂盒(北京中衫金桥 SP9000)、DAB显色试剂盒(武汉谷歌生物)、PCR引物由上海生工股份有限公司合成、逆转录试剂盒量(TaKaRa）RNA提取试剂盒(TaKaRa）RT-PCR试剂盒(TaKaRa)。PCR仪(LightCycle480,瑞士Roche);OLYMPUSDIGITALCAMERADP70（日本）。
+
+# 1.3qRT-PCR测定MBP/caspase-3mRNA转录水平
+
+用RNA提取试剂盒提取脑组织总RNA,取 $1 ~ \mu \ g$ RNA进行逆转录 $4 2 \ { \mathrm { ^ circ C } } , 2 \ { \mathrm { m i n } } .$ 。取适量cDNA产物进行荧光定量PCR，扩增条件 $9 5 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { s } , 6 0 ^ { \circ } \mathrm { C } \ 6 0 \ \mathrm { s } .$ ，共40个循环。PCR引物序列从GeneBank数据库中查找：MBP上游引物 $5 ^ { \prime }$ -TGATGTGTTTGGGGAGGCAGA-3',下游引物 $5 ^ { \prime }$ -AACCCATAGTTCCTCTACGCC-3'; caspase-3上游引物5'-CTGGACTGCGGTATTGAG-3',下游引物5'-CGGGTGCGGTAGAGTAAGC-3'; $\beta \cdot$ -actin上游引物5'-TGACAGGATGCAGAAGGAGA-3',下游引物5'-TAGAGCCACCAATCCACACA-3'。以 ${ \beta } \mathrm { . }$ -actin作为内参基因,计算MBP、caspase-3mRNA的相对表达量，用$2 ^ { \scriptscriptstyle { - \Delta \Delta C T } }$ 来评价目标mRNA的表达水平。
+
+# 1.4Westernblot测定MBP
+
+将脑组织提取总蛋白，BCA法测蛋白浓度，计算上样量。制备 $12 \%$ SDS-PAGE凝胶,每孔加 $5 0 \mu \mathrm { g }$ 蛋白样品，进行电泳。转膜后， $5 \%$ 脱脂奶粉封闭1h，TBST洗膜3次，分别加人兔抗MBP多克隆抗体一抗稀释液(1:1000)或鼠抗 $\beta$ -actin多克隆抗体一抗稀释液(1:1000）， $4 ^ { \circ } \mathrm { C }$ 恒温摇床过夜孵育。洗膜后于摇床上室温孵育二抗 $2 \mathrm { ~ h ~ }$ (山羊抗兔抗体：1:3000或山羊抗鼠抗体1:1000)。采用ECL发光试剂盒发光、显影，使用凝胶图像分析系统采集图像，图像采集后使用ImageJ软件处理系统分析目标条带灰度值。
+
+# 1.5免疫组化
+
+将SD大鼠用戊巴比妥钠麻醉后，开胸后经左心室灌注，右心房剪开一小口， $0 . 9 \%$ 生理盐水冲洗至血色变淡，然后改用 $4 \%$ 多聚甲醛溶液( $\mathrm { \langle 0 . 1 \ m o l / L }$ PBS配制， $\mathrm { p H } 7 . 4 )$ 至肝脏明显变白及肺脏明显水肿后开颅取脑组织。置于 $4 \%$ 多聚甲醛溶液固定 $2 4 \mathrm { ~ h ~ }$ ，经梯度酒精脱水、二甲苯透明后石蜡包埋，自视交叉向后行连续冠状切片 $( 5 { \sim } 6 ~ \mu \mathrm { m } )$ 。采用SP法，石蜡切片经常规脱蜡处理后枸橡酸缓冲液行微波抗原修复， $10 \%$ 山羊血清 $3 7 \ \mathrm { { ^ circ C } }$ 孵育 $3 0 ~ \mathrm { m i n }$ 后加入兔抗MBP多克隆抗体 $( 1 { : } 1 0 0 ) 4 ~ \mathrm { ^ { \circ } C }$ 过夜;生物素标记的羊抗兔/鼠 $\mathrm { I g G } 3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $3 0 ~ \mathrm { m i n }$ ，辣根过氧化物酶标记的链霉卵白素工作液 $3 7 ^ { \circ } \mathrm { C }$ 孵育 $3 0 \mathrm { m i n }$ 后用DAB显色试剂盒显色，苏木精复染，常规脱水、透明、封片。封片后用显微镜观察。
+
+# 1.6统计学处理
+
+采用SPSS20.0软件，计量资料以均数 $\cdot \pm \cdot$ 标准差表示，两组间比较采用两独立样本 $t$ 检验。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1丙泊酚对OLs合成MBPmRNA及caspase-3mRNA水平影响
+
+P3、P7、P14、P21的SD大鼠在丙泊酚作用8h后与其相对应的对照组相比发现，实验组MBPmRNA均明显下调( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ,图1),实验组表达Caspase-3mRNA在P3、P7、P14SD大鼠中发生明显上调( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，图2)。
+
+![](images/b70eb6a6548d207071d0a1e058e54ecb95f59df33aaf202ff70e256a206f988d.jpg)  
+图1两组不同日龄SD大鼠MBPmRNA Fig.1MBP mRNA expression in SD rats at different developmental stages.P3:Postnatal day 3;P7:Postnatal day 7; P14: Postnatal day 14; P21: Postnatal day 21. $^ { * } P { < } 0 . 0 5$ Us propofol group.
+
+# 2.2丙泊酚对OLs合成MBP蛋白水平影响
+
+P3P7、P14、P21的 SD乳鼠在腹腔注射 $2 5 ~ \mathrm { m g / k g }$ 的丙泊酚持续作用8h后待其麻醉恢复后取脑组织，提取总蛋白，用Westernblot的方法检测脑组织中MBP蛋白的表达水平，结果显示在P3SD乳鼠中，实验组和对照组均不表达MBP蛋白，P7和P14SD乳鼠实验组MBP蛋白的表达较对照组明显减少（ $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，图3)，在P21SD乳鼠中实验组MBP蛋白表达与对照组相比没有明显差异。
+
+![](images/50b0e9ff9777442291218d0a4e8578cb5830a181f870e106c21aafec498264d9.jpg)  
+图2两组不同日龄SD大鼠Caspase-3mRNA Fig.2 Caspase-3 mRNA expression in SD rats at different developmental stages. $^ { * } P { < } 0 . 0 5$ us control group.
+
+# 2.3丙泊酚对OLs合成MBP的免疫组化检测
+
+通过检测少突胶质细胞上的MBP，结果显示P3SD大鼠没有出现MBP标记的阳性细胞，P7开始出现MBP染色的棕色颗粒；P14、P21SD大鼠脑片中出现MBP标记的典型阳性细胞，与其相应的对照组相比，实验组P7P14SD大鼠脑切片中的阳性细胞有所减少(图4)。
+
+# 3讨论
+
+目前在临床研究中全身麻醉或全麻药物是否引起小儿认知功能减退和智力下降存在争论，有文献报道小儿全身麻醉会导致认知功能障碍和智力减退[5-7],也有文献认为两者之间没有相关性[8-10]。导致这两个截然不同结论的主要原因是：均为回顾性分析，麻醉方式、评价系统不统一;数据丢失、失访、数据不全;早期接受手术患儿自身疾病及手术因素。啮齿类动物实验证实，异氟烷作用于胎鼠和新生鼠可导致导致其后的认知功能障碍[1-12]。同样的现象在丙泊酚近年来也有相关文献报道[13-16],然而关于其具体机制还不是十分明确。
+
+![](images/dc39c29599f96ef8e7dde41f2e4103e27bc79b5e4159c97efa574e31c0affd20.jpg)  
+图3两组不同日龄SD鼠MBP Fig.3 MBP expression in SD rats at different developmental stages. $^ { * } P { < } 0 . 0 5$ us propofol group.
+
+MBP是脊椎动物中组成髓鞘蛋白的重要部分，占髓鞘蛋白总量的1/3，在中枢系统中由少突胶质细胞合成和分泌。人和鼠的MBP基因具有高度保守性，两种属的同源序列在编码区达 $9 3 \% ^ { [ 1 3 - 1 6 ] }$ 。MBP表达的特异性及其不同种属的高度保守性，成为研究少突胶质细胞的标志性蛋白。MBP围绕神经元的轴突形成髓鞘，主要发挥绝缘作用和神经信号跳跃式传导。如果MBP表达异常，会导致髓鞘的形成受到损害、减少甚至缺失，不仅影响神经信息传递，也会导致硬化相关性疾病的发生，在临床症状上表现为认知功能的障碍、语言、视力减弱、震颤、肌痉挛等[18]。研究表明异氟醚和氯胺酮均能使少突胶质细胞凋亡增加[19-22],随后在胎猴和斑马鱼实验中都验证了丙泊酚使MBP表达减少[1-2],SD大鼠作为一种常用实验动物，关于丙泊酚抑制其MBP表达还未有研究报道。本实验研究发现丙泊酚可以使SD乳鼠MBP在基因水平上和蛋白水平上都发生下调，以7、14日龄最为明显，主要是由于SD乳鼠表达MBP的高峰期在8日龄到20日龄左右,易受外来因素干扰[23。而在3日龄SD乳鼠,尽管丙泊酚下调MBPmRNA表达水平，但是在蛋白水平上不能明确显示丙泊酚对MBP的影响，发生此现象的原因可能是mRNA水平的改变较蛋白质水平改变发生早，符合转录至翻译的时间顺序性。通过免疫组化MBP标记SD乳鼠脑切片，进一步直观的证实3日龄几乎不表达MBP，丙泊酚使7、14日龄SD乳鼠表达MBP下降。21日龄SD乳鼠,少突胶质细胞发育成熟，基本不受外来因素干扰。
+
+![](images/6bc3636aa3a29801afd6bce824430cc0b9a880d44af43ac270289b79c079c371.jpg)  
+图4丙泊酚对不同发育时期SD大鼠表达MBP的免疫组化(SP法)检测 Fig.4Immunohistochemical detection of propofol on MBP in SD ratsat diferent developmental stages (Original magnification: $\times 2 0 0$ ).The black arrows indicate MBP-stained positive cells.
+
+细胞凋亡主要由两条通路启动：胞外信号激活细胞内的凋亡酶caspase和线粒体释放凋亡酶激活因子激活caspase。Caspase-8、9、3在细胞调亡信号通路传导过程中发挥关键作用。在多数研究调亡机制中,caspase-3是明星分子,在近年来更发现细胞凋亡与capase-3的活化关系更加密切[24]。丙泊酚导致神经元凋亡，抑制神经元的增殖，并且对成年后神经行为功能产生影响[25-26]，大脑的发育是一个长期而持续的过程，在人类中孕后6月至生后几年的时间内，处在一个快速发展阶段。7、14日龄是大多数文献报道的啮齿动物大脑的发育高峰期，对药物作用敏感,丙泊酚使神经系统凋亡增加主要发生在这一时期。本实验研究证明，丙泊酚使3、7、14日龄SD乳鼠caspase-3mRNA表达发生明显上调。研究表明，SD大鼠神经系统发育程度主要遵循以下发育规律，大脑发育成熟度与人类新生儿的不同胎龄相当：生后2\~4d的大鼠相当于人类胎龄23\~32周出生的早产儿，生后 $5 \sim$ 7d相当于人类胎龄 $3 3 { \sim } 3 6$ 周的早产儿;生后8\~12d相当于人类胎龄37\~42周的足月儿，21日龄SD乳鼠相当于幼儿期[27]。本实验再一次验证了丙泊酚促进凋亡与大脑的发育高峰期有关。
+
+Milanovic等[28-29]发现,出生后7dSD乳鼠腹腔注射$2 5 \mathrm { m g / k g }$ 的丙泊酚作用 $8 \mathrm { ~ h ~ }$ 促进神经元细胞凋亡，并发现丙泊酚翻正反射的恢复时间约为 $2 0 { \pm } 2 \ \mathrm { m i n }$ 。本研究参考了此研究丙泊酚的作用时间，采用 $8 \mathrm { ~ h ~ }$ 作用于乳鼠。Allegaert等[30认为足月儿和早产儿单次静脉推注$3 \mathrm { m g / k g }$ 丙泊酚是合适的麻醉诱导剂量。由于动物的药物分布容积远大于人的分布容积，根据药物浓度转化公式,大鼠应用药物剂量约是人类的6.3倍，而腹腔注射的吸收率是静脉注射的 $8 0 \% { \sim } 8 5 \%$ ，本研究 $2 5 \mathrm { m g / k g }$ 的丙泊酚腹腔注射对于SD乳鼠是一个较为合适的剂量，
+
+本研究首次发现反复多次使用丙泊酚可以使7、14日龄SD乳鼠MBP基因和蛋白水平都发生下调，关于其发生下调的具体机制尚不清楚，可能与少突胶质细胞凋亡增加有关。本实验还发现丙泊酚上调caspase-3基因表达，相关文献已经证实caspase-3上调与细胞调亡增加具有密切的联系，提示丙泊酚使不同时期SD乳鼠MBP基因和蛋白水平下调可能与少突胶质细胞调亡增加有关,尚需要进一步的细胞实验证实[18]。关于丙泊酚导致少突胶质细胞表达MBP下调能否导致认知功能障碍及随着时间推移是否恢复也需要进一步的实验验证。
+
+# 参考文献：
+
+[1] Creeley C,Dikranian K,Dissen G,et al.Propofol-induced apoptosis of neurones and oligodendrocytes in fetal and neonatal rhesus macaque brain[J].Br JAnaesth,2013,110(Suppl 1): i29-38.   
+[2]Guo P,Huang Z,Tao T,et al. Zebrafish as a model for studying the developmental neurotoxicity of propofol[J].JAppl Toxicol, 2015, 35(12):1511-9.   
+[3]Allen NJ,Barres BA.Neuroscience:Glia - more than just brain glue [J].Nature,2009,457(7230): 675-7.   
+[4]贺玉君,秦新民,黄 明,等.髓鞘碱性蛋白的研究及进展[J].广西中医 学院学报,2004,7(2):75-9.   
+[5]Taghon TA,Masunga AN,Small RH,et al.A comparison of functional magnetic resonance imaging findings in children with and without a history of early exposure to general anesthesia[J]. Paediatr Anaesth,2015,25(3):239-46.   
+[6]Sprung J,Flick RP,Katusic SK,et al.Attention-deficit/hyperactivity disorder after early exposure to procedures requiring general anesthesia[J].Mayo Clin Proc,2012,87(2):120-9.   
+[7]Ing C,Dimaggio C,Whitehouse A,et al.Long-term differences in language and cognitive function after childhood exposure to anesthesia[J].Pediatrics,2012,130(3):e476-85.   
+[8] Sun LS,Li G,Miller TL,et al.Association between a single general anesthesia exposure before age 36 months and neurocognitive outcomes in later childhood[J].JAMA,2016,315(21): 2312-20.   
+[9]Bartels M,Althoff RR,Boomsma DI.Anesthesia and cognitive performance in children: no evidence for a causal relationship [J]. Twin Res Hum Genet,2009,12(3): 246-53.   
+[10]Roze JC,Denizot S,Carbajal R,et al. Prolonged sedation and/or analgesia and 5-year neurodevelopment outcome in very preterm infants:results from the EPIPAGE cohort[J].Arch Pediatr Adolesc Med,2008,162(8): 728-33.   
+[11] Kong FJ,Tang YW,Lou AF,et al. Effects of isoflurane exposure during pregnancy on postnatal memory and learning in offspring rats[J].Mol Biol Rep,2012,39(4): 4849-55.   
+[12]Kong FJ,Ma LL,Hu WW,et al. Fetal exposure to high isoflurane concentration induces postnatal memory and learning deficits in rats [J].Biochem Pharmacol,2012,84(4): 558-63.   
+[13]Li J,Xiong M,Alhashem HM,et al.Effects of prenatal propofol exposure on postnatal development in rats[J]. Neurotoxicol Teratol, 2014,43(3): 51-8.   
+[14]Xiong M,Li J, Alhashem HM, et al. Propofol exposure in pregnant rats induces neurotoxicity and persistent learning deficit in the offspring[J].Brain Sci,2014,4(2): 356-75.   
+[15]秦晓菁,张晓庆.反复丙泊酚麻醉对大鼠学习记忆功能的影响[J].同 济大学学报:医学版,2014,35(2):19-23.   
+[16]张 静,陶 涛,王云花,等.异丙酚重复镇静对大鼠空间学习记忆能力 及其海马齿状回新生神经元的影响[J].第三军医大学学报,2014,36 (11): 1168-72.   
+[17] Kitamura K, Newman SL, Campagnoni CW, et al. Expression of a novel transcript of the myelin basic protein gene[J].JNeurochem, 1990,54(6): 2032-41.   
+[18] Czepiel M, Boddeke E,Copray S.Human oligodendrocytes in remyelination research[J].Glia,2015,63(4):513-30.   
+[19]Schenning KJ,Noguchi KK,Martin LD,et al. Isoflurane exposure leads to apoptosis of neurons and oligodendrocytes in 2O- and 40- day old rhesus macaques[J]. Neurotoxicol Teratol,2016,60(2): 63- 8.   
+[20] Creeley CE,Dikranian KT,Dissen GA,et al. Isoflurane-induced apoptosis of neurons and oligodendrocytes in the fetal rhesus macaque brain[J].Anesthesiology,2014,120(3): 626-38.   
+[21]Brambrink AM,Evers AS,Avidan MS,et al.Ketamine-induced neuroapoptosis in the fetal and neonatal rhesus macaque brain[J]. Anesthesiology,2012,116(2): 372-84.   
+[22]Brambrink AM,Back SA,Riddle A,et al. Isoflurane-induced apoptosis of oligodendrocytes in the neonatal Primate brain[J].Ann Neurol,2012,72(4): 525-35.   
+[23]张雨平，黄其林,赵聪敏,等.不同发育阶段大鼠脑髓鞘化的研究[J]. 第三军医大学学报,2009,31(22):2189-92.   
+[24] Riedl SJ, Salvesen GS. The apoptosome: signalling platform of cell death[J].Nat Rev Mol Cell Biol,2007,8(5): 405-13.   
+[25]肖华平,肖金仿,古妙宁.丙泊酚对大鼠胚胎神经干细胞增殖及分化 的影响[J].南方医科大学学报,2011,31(1):171-4.   
+[26]肖华平,肖金仿,陶 涛,等.丙泊酚对新生鼠神经干细胞增殖及学习记 忆的影响[J].临床麻醉学杂志,2011,27(6):584-6.   
+[27]Hagberg H, Peebles D,Mallard C. Models of white matter injury: comparison of infectious,hypoxic-ischemic,and excitotoxic insults [J].Ment Retard Dev Disabil Res Rev, 2002,8(1): 30-8.   
+[28]Milanovic D,Pesic V,Popic J,et al. Propofol anesthesia induces proapoptotic tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a }$ and pro-nerve growth factor signaling and prosurvival Akt and XIAP expression in neonatal rat brain[J]. JNeurosci Res,2014,92(10): 1362-73.   
+[29]Pesic V,Milanovic D, Tanic N,et al.Potential mechanism of cell death in the developing rat brain induced by propofol anesthesia[J]. Int JDev Neurosci,2009,27(3): 279-87.   
+[30]Allegaert K,Peeters MY,Verbesselt R,et al. Inter-individual variability in propofol pharmacokinetics in preterm and term neonates[J].Br JAnaesth,2007,99(6): 864-70.

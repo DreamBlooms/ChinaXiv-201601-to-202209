@@ -1,0 +1,221 @@
+# 自闭症谱系障碍者视觉定向与视觉搜索的特点及神经机制
+
+陈晓雯；傅世敏
+
+(广州大学教育学院心理系/脑与认知科学中心，广州510006)
+
+摘要 定向网络是注意网络的重要组成部分，主要包括视觉定向与视觉搜索两大任务。对于这两大注意任务，正常个体在神经机制上存在较大的重叠，然而，自闭症个体却表现出截然相反的行为证据。研究者从非社会信息的注意视角发现，一般而言，在视觉定向上，自闭症个体注意转移不存在缺陷，而注意脱离存在困难，但该结论仍有争议；在视觉搜索上，自闭症个体存在视觉搜索优势，但该优势发生的阶段及原因仍需进一步探究。未来研究应进一步考察自闭症个体在视觉定向任务中左右视野的不对称性、视觉搜索优势的内在机制及两大注意任务之间的相互关系。
+
+关键词自闭症；非社会信息；视觉定向；视觉搜索；神经机制分类号 B842.2
+
+# 1引言
+
+自闭症谱系障碍(autism spectrum disorder，ASD)是一种较为严重的广泛性发育障碍。临床上发现，ASD个体的症状一般表现为：社会交流障碍(如，与他人交往困难或交往动机较弱)、语言交流障碍(如，语言能力发育迟缓或倒退，难以用言语和他人交流)以及重复刻板行为(如，异常动作较频繁或不愿意改变现状)三个方面(Geschwind,2009)。然而，实证研究表明，ASD个体不仅在临床上表现出社会交往和行为障碍，他们在认知功能上对非社会信息的注意，与正常(typically developed，TD)个体相比，同样表现出显著差异(Braukmann et al.,2018;Gammer etal.,2015；孙岩，房林，王亭予，崔丽,2018)。
+
+研究者在探讨 ASD个体的注意特点时，往往将刺激物分为两种类型：一种是包含社会信息的刺激物，如视线(Madipakkam,Rothkirch,Dziobek,& Sterzer,2017)、面孔情绪(Velasquezet al.,2017)和人际互动(Vivanti,Fanning,Hocking,Sievers,&Dissanayake,2017)等；另一种是不包含社会信息的刺激物，如几何图形(Nayar,Voyles,Kiorpes,& Martino,2017)、字母(Vander Hallen, Vanmarcke,Noens,& Wagemans,2017)、数字(Shirama,Kato,& Kashino,2017)等。一般而言，人们较容易发现ASD个体在社会交往上的困难，因此，研究者会更多采用包含社会信息的刺激物(例如面孔)来探讨 ASD个体的注意问题(Bedford etal.,2014;Leekam,2016;纪皓月，王莉，蒋毅,2018)。然而，当研究者采用非社会信息的刺激物，并让参与者完成与注意相关的任务时，与TD个体相比，ASD个体同样表现出显著差异，例如，对动态几何图形的注意脱离困难(Bryson etal.,2017)、对颜色字母表现出视觉搜索优势(Shirama et al.,2017)等。也就是说，ASD个体注意不包含社会信息的刺激物也存在异常。
+
+有研究者发现，高级的社会信息加工发生的时间较晚，且可能会受到更早的非社会信息加工影响(Elison,Sasson, Turner-Brown,Dichter,& Bodfish,2012; Unruh et al.,2016)。另有研究表明，ASD个体对非社会信息的注意偏差可能会降低他们对社会信息的注意兴趣，进而表现出对社会信息的注意异常(Sasson& Touchstone,2014)。因此，关注 ASD个体对非社会信息的注意是必要的。然而，近二十年来，在ASD个体的注意研究领域中，采用非社会信息作为刺激物的研究相对较少，且存在尚未解决的问题，例如，ASD个体对非社会信息的刺激物在视觉定向任务中究竟是否存在缺陷(Sacrey，Armstrong，Bryson，&Zwaigenbaum,2014)？ASD个体在视觉搜索任务中究竟是否存在优势(Simmons et al.,2009)，如果是，那么表现出优势的原因是什么(Hessels,Hooge，Snijders，&Kemner,2014)？这些问题在近年来都是研究者关注的重点。Braukmann 等人(2018)利用功能性近红外光谱技术(functional near-infrared spectroscopy，fNIRS)对 29 名约 5个月的婴儿进行研究并发现，和ASD低风险婴儿相比，ASD高风险婴儿在观看不包含社会信息的动态视频时， $\mathrm { H b } { \mathsf { O } } _ { 2 }$ 浓度增加，且定位于右脑pSTS-TPJ区域。该研究表明ASD个体在婴儿时期已经对非社会信息的注意存在异常。也就是说，和高水平社会认知加工过程相比，对 ASD 个体低水平认知加工过程的研究也同样重要(Bishop,Biasini，&Stavrinos,2017; Braukmann et al., 2018; Gammer et al., 2015)。
+
+Petersen 和 Posner (2012)系统概括注意包括三大网络，分别为警觉网络(alertingnetwork)、定向网络(orienting network)以及执行控制网络(executive control network)。警觉网络的主要争论在于 ASD 个体对特定刺激的唤醒程度不一致(Schoen，Miller,Brett-Green,&Hepburn，2008)，如，对知觉刺激反应过度或反应不足，目前该行为表现已得到关注并被纳入自闭症谱系障碍的诊断标准(American Psychiatric Association，2013)之中。此外，执行控制网络中，ASD个体抑制控制的特点、影响因素及其神经机制已得到孙岩等人(2018)梳理与概括。然而，对于ASD个体的定向网络，特别是视觉定向和视觉搜索的特点和神经机制，尚有争议。视觉定向主要探讨对空间位置的定向，而视觉搜索则探讨对目标的定向，脑成像研究表明，TD个体两种注意任务的神经机制存在较大的重叠，具体表现在视觉定向与额叶和顶叶相关(Posner,Rothbart,& Voelker,2016;Rueda,Pozuelos,&Combita,2015)，视觉搜索与额叶、顶叶和颞叶相关(Donner et al,2000;Donner etal.,2002)。但是，ASD个体在这两大任务的行为证据上却截然相反，即视觉定向能力存在缺陷，而视觉搜索表现出优势。因此，探讨ASD个体视觉定向和视觉搜索的特点和神经机制具有一定的理论意义一一为什么TD个体在神经机制上存在较大重叠的两种注意任务在ASD个体中的行为表现却截然不同？综上，本文将聚焦注意的定向网络，从视觉定向与视觉搜索两大注意任务出发，对以往ASD个体非社会信息的注意特点及神经机制的相关研究进行梳理和分析。
+
+# 2 视觉定向
+
+Posner 等人(1984)提出，视觉定向涉及对刺激物的卷入、转移和脱离，即个体从一个已得到注意的刺激物中脱离后，将注意从先前的刺激物转移，继而，注意新刺激物的过程。已有研究结果表明，ASD个体的视觉定向能力是否表现异常仍存在争议。
+
+# 2.1ASD个体视觉定向能力存在缺陷的证据
+
+当前，大多数研究者倾向于支持 ASD 个体视觉定向能力存在缺陷的观点(Bryson et al.,2017；Goldberg et al.， 2002； Kawakubo et al.， 2007； Landry & Bryson，2004； Townsend,Courchesne,& Egaas,1996)。例如，Bryson 等人(2017)探讨 ASD 高风险婴儿(其兄弟姐妹被诊断为ASD)和TD婴儿(没有ASD家族史)在注意转移和脱离上的差异。婴儿的年龄为6个月和12个月，并在36个月通过诊断分成三个组，分别为16名确诊为ASD的高风险婴儿、67 名非 ASD 的高风险婴儿以及 53 名 TD 婴儿。研究者采用间隙-重叠范式(gap-overlapparadigm)将实验分成两种注意任务：转移任务和脱离任务。在转移任务中，首先在屏幕中央呈现一个刺激，主试一旦确认参与者看着屏幕中央，刺激消失，随后新刺激随机呈现在视野的左右两边，若参与者把注意转移到新刺激或8s后，进入下一个试次。与转移任务的程序类似，脱离任务唯一不同是原刺激不会消失。研究结果显示，与6个月的ASD高风险婴儿相比，12个月的ASD高风险婴儿在注意脱离任务中潜伏期更长，且12个月的ASD高风险婴儿表现出显著的注意脱离困难。值得注意的是，与TD婴儿相比，只有当新刺激出现在左视野时，ASD 高风险婴儿注意脱离潜伏期才显著更长，而当刺激出现在右视野时，两组差异不显著。研究者认为注意脱离的左右视野不对称性可能是ASD个体右半球功能缺损导致的。由于大脑右半球与左视野的空间注意相关，若ASD个体右半球功能受损，则表现为对左视野刺激的注意脱离潜伏期更长。但实验难点在于，参与者是几个月大的婴儿，主试很难
+
+[在此处键入]
+
+维持每个婴儿最优的测试状态(Bryson et al.,2017)。如今，越来越多的研究者倾向于采用 36个月前的婴儿作为参与者，主要目的是希望在婴儿早期找到高、低风险婴儿之间的差异，以便更早地采取干预措施。因此，如何控制实验中婴儿参与者的测试状态，以获得更为可靠的实验结果是今后研究的关键。同样地，Landry 和 Bryson(2004)的研究也显示 ASD 个体存在注意脱离的缺陷。他们在探讨平均年龄为5岁的ASD儿童和平均年龄为3岁的TD儿童基础上，还增加了平均年龄为5岁的唐氏综合症儿童作为参与者。结果显示，与唐氏综合症和TD儿童相比，ASD儿童在脱离任务中反应时更长。更为严重的是，在脱离任务中，ASD儿童的注意仍然停留在原刺激没有脱离的试次高达 $20 \%$ 。不过，不同试次间的转换仅靠录像机以及主试的判断，可能会存在主观偏差，从而影响研究结果，采用功能性近红外光谱技术与眼动技术相结合得到的反应时和空间定位结果应该会更为客观。
+
+上述研究中，ASD 个体在脱离任务中都表现出异常，而在转移任务中与TD个体无显著差异。然而，Goldberg 等人(2002)的眼动数据显示，ASD个体的眼跳潜伏期在注意转移和脱离任务中都长于TD个体。而运用转移和脱离任务的眼跳潜伏期分别减去基线，得到间隙效应(gap effect)和重叠效应(overlap effect)的结果显示，ASD个体和 TD个体没有显著差异。虽然行为和眼动研究结果显示，ASD 个体在脱离任务中存在异常(Bryson et al.,2017;Goldberg etal.,2002;Landry& Bryson,2004)，但是与注意脱离直接相关的事件相关电位(event-related potential，ERP)成分并不明确。早期研究发现，与转移任务相比，新刺激呈现前，脱离任务在大脑顶叶出现更大的正成分(Csibra,Johnson,&Tucker,1997)。因此，研究者认为眼跳前大脑顶叶出现更大的正成分可能反应了注意脱离过程，由此采用ERP技术探讨ASD、精神发育迟滞和 TD 成人在视觉定向任务上所诱发 ERP 波幅的差异(Kawakubo et al,2007)。在该研究中，研究者将新刺激呈现前大脑顶叶出现的眼跳前正成分(pre-saccadicpositivity)作为指标，若该成分幅值更大或者潜伏期更长，则表明注意脱离异常。研究结果与预期假设相符，与精神发育迟滞和 TD 成人相比，ASD 成人在脱离任务中眼跳前正成分幅值更大，并且只表现在刺激呈现在左视野的情况下。由于精神发育迟滞成人的眼跳前正成分与 TD成人相似，因此排除了ASD个体注意脱离异常是智力落后导致的可能解释。综上，目前考察ASD个体视觉定向的研究主要采用行为学上的反应时和准确率作为指标，采用ERP 技术的研究较少，其一可能是因为尚未确定与注意脱离相关的 ERP成分，其二可能是因为被试对象为ASD个体，采用 ERP技术在实践上较为困难。此外，ASD个体的注意脱离缺陷似乎表现出左右视野的不对称性，即当刺激呈现在左视野时，注意脱离存在困难，刺激呈现在右视野时，注意脱离正常。今后研究可探究与注意脱离相关的ERP成分及其神经机制，明确大脑顶叶出现的眼跳前正成分是否与注意脱离能力相关，进一步为注意脱离的左右视野不对称性提供更多证据。
+
+# 2.2ASD个体视觉定向能力正常的证据
+
+行为、眼动和 ERP 研究均表明，ASD个体注意转移和脱离存在异常(Bryson etal.,2017;Goldberg et al.,2002; Kawakubo et al.,2007; Landry& Bryson,2004)。但是，仍有不少研究数据显示，ASD 个体的视觉定向能力是正常的(Fischer,Koldewyn,Jiang,& Kanwisher,2014;Kell,Walker, & Norbury, 2012； Schmitt Cook, Sweeney,& Mosconi, 2014; Zalla, Seassau,Cazalis,Gras,&Leboyer,2018)。
+
+同样采用间隙-重叠范式，Fischer等人(2014)探讨44名ASD儿童和40名TD儿童在注意转移和脱离上的差异。与经典的实验过程不同，该研究中对参与者眼睛的注视位置没有明确要求，他们可以自行观看刺激物，但眼睛必须注视屏幕。眼动数据显示，ASD和TD儿童在两种任务中眼跳反应时均没有显著差异。另有研究在原有的转移任务和脱离任务基础上增加了一项 step 任务，与 gap 任务不同的是，step 任务中央刺激消失和偏侧刺激呈现之间不存在时间间隔(Zalla etal.,2018)。研究结果显示，与TD成人相比，ASD 成人眼跳准确率较低
+
+[在此处键入]
+
+和峰速度较慢，潜伏期、眼跳准确率和平均速度的变化幅度较大。但是，在眼跳潜伏期这一指标上，两个组没有表现出显著差异，表明了ASD 个体视觉定向能力正常。Schmitt 等人(2014)对65名ASD个体和43名TD个体进行施测，亦得到同样的结果。近年来，越来越多证据表明ASD个体在注意转移和注意脱离任务中都不存在异常。虽均采用非社会信息的刺激，但各研究具体所用的刺激材料不尽相同，包括几何图形、水果和交通工具等。我们将检索到的文献进行汇总分析后发现，当研究者使用几何图形及符号作为刺激材料时， $67 \%$ 的文献支持ASD个体注意脱离存在缺陷的观点；当研究者使用较为熟悉的物体作为刺激材料时，仅有 $34 \%$ 的文献支持ASD个体注意脱离存在缺陷的观点。而且，有研究者提出刺激的特征可能是注意转移和脱离的重要影响因素(Marshall,2011)。虽然现有的研究较少或缺乏直接证据支持材料熟悉度对ASD个体视觉定向能力的影响，但是基于上述两点，刺激材料的熟悉度可能是视觉定向能力结果之间产生分歧的影响因素之一。从注意资源的角度而言，当呈现熟悉度较高的物体作为目标时，因其损耗ASD个体的注意资源较少，ASD个体能够较快地把注意转移到其他刺激物中，表现出正常的注意脱离能力。相反，当目标为熟悉度较低的物体时，ASD个体需损耗较多的注意资源，导致脱离反应时较长，表现出注意脱离困难；从刺激偏好的角度而言，当呈现熟悉度较高的物体时，ASD个体对熟悉度较高的刺激存在偏好，注意卷入程度较高而表现出注意脱离困难。相反，当目标为熟悉度较低的物体时，ASD 个体则表现出正常的注意脱离能力。因此，从注意资源损耗和刺激偏好两个角度去分析刺激材料熟悉度对ASD个体视觉定向能力的影响，存在一定的矛盾，未来研究需考虑刺激材料的熟悉度对ASD 视觉定向能力的可能影响。此外，需要注意的是，研究者在眼动数据的分析上存在分歧。一部分研究者直接采用ASD个体与TD个体的眼跳潜伏期进行差异检验；另一部分研究者则将眼跳潜伏期与基线相减，分别得到间隙效应和重叠效应，再进行差异检验。我们认为，在统计分析前，研究者需明确分析方法，更好地进行研究之间的比较。
+
+# 2.3ASD个体视觉定向的神经机制
+
+功能性磁共振成像(functional magnetic resonance imaging，fMRI)研究表明，视觉定位系统与额叶、顶叶有关(Posner et al.,2016; Rueda etal.,2015)。其中，额叶视区(frontal eye field,FEF)负责脱离已注意的刺激(Pierrot-Deseilligny,Rivaud,Gaymard,Muri,& Vermersch,1995),右半球后部顶叶皮层(posterior parietal cortex，PPC)受损的病人其眼跳潜伏期更长(Pierrot-Deseilligny,Rivaud,Gaymard,&Agid,1991)，左右顶叶的连接性在视觉定向中发挥着重要作用(Vossel,Weidner,Moos,& Fink,2016)。
+
+早期研究发现，与 TD 个体相比，ASD 个体在进行 Posner 空间注意任务时，顶叶(Courchesne,Press,& Yeung-Courchesne,1993)与小脑(Townsend et al.，1996)表现异常。Townsend 等人(1996)利用 Posner 空间注意范式，对10名ASD个体(均存在小脑异常)和 TD个体进行施测。其中，6名 ASD个体双侧顶叶异常，主要表现为后顶叶体积减小 $\scriptstyle ( \mathbf { C } + \mathbf { P } + )$ ，另外4名ASD个体顶叶体积大小正常 $( \mathsf { C } \mathrm { + } \mathsf { P } \mathrm { - } )$ 。研究结果显示，与TD个体相比， $\mathbf { C } { \ + } \mathbf { P } { + }$ 组和$\mathbf { C } { \mathrm { + } } \mathbf { P } .$ -组在注意转移和卷入时反应时更慢， $\mathrm { C + P + }$ 组在注意脱离任务时反应时显著更慢。因此，研究者认为，ASD个体视觉定向缺陷是由于顶叶和小脑异常而导致的。
+
+近年研究为我们提供了不一样的证据。Fan 等人(2012)利用注意网络测验，测量高功能自闭症(high-functioning autism，HFA)个体与TD个体的定向网络。实验中，首先给参与者呈现提示 $1 0 0 \mathrm { { m s } }$ ，空屏过后再呈现目标 ${ 5 0 0 } \mathrm { { m s } }$ 。若提示和目标出现的空间位置相同，为有效提示，反之则称为无效提示，此外，还存在双重提示(即中性提示)的情况，即提示屏左右两边均出现提示，参与者需要对目标箭头的方向进行判断。该研究通过将无效提示条件下的反应时减去中性提示条件下的反应时来考察参与者注意脱离能力；将中性提示条件下的反应时减去有效提示条件下的反应时来考察参与者注意转移和卷入能力。行为研究结果显示，无论是注意转移、卷入还是脱离任务的反应时，HFA 和TD个体相比均不存在显著差异。脑成像结
+
+[在此处键入]
+
+果显示，在脱离任务时，左右半球的上前扣带回(pregenual anterior cingulate cortex)、右缘上回(right supramarginal gyrus)、顶下小叶(inferior parietal lobule)、角回区(angular gyrus)表现出显著激活；在转移和卷入任务时，梭状回(fusiform gyrus)、颞上回(superior temporal gyrus)和前岛叶皮层(anterior insular cortex)表现出显著激活，但是，HFA个体和 TD 个体之间不存在显著差异。该结果与前人发现的ASD个体注意定向的脑成像结果不一致，研究者认为，可能是因为该研究群体的ASD个体不存在小脑和顶叶的异常，或者注意定向的异常仅表现在与社会信息相关的刺激中,与社会信息无关的刺激不存在注意定向异常(Greene etal.,2011)。但实际上，已有采用非社会信息刺激的结果显示，ASD 个体与TD个体在神经机制上存在差异(Townsend etal.,1996)。就目前的研究现状而言，用 fMRI技术探讨 ASD个体视觉定向能力的文献相对较少，且存在争议，仍需更多的证据。未来研究可考虑采用fMRI技术，探究ASD个体视觉定向的神经机制，与此同时，比较ASD个体和TD个体左右脑区的激活水平，以解决ASD个体左视野刺激脱离困难是否由于右半球功能缺陷而导致的问题。
+
+# 2.4小结
+
+上述研究表明，ASD个体在视觉定向上的缺陷具体表现在对刺激物转移(Goldberg et al.,2002)和脱离(Bryson et al.,2017; Elsabbagh et al.,2013; Kawakubo et al.,2007)的反应时较长,甚至难以从已注意的刺激物中脱离出来(Landry& Bryson,2004)。从任务类型来看，ASD 个体在注意转移和脱离任务上存在不同程度的缺陷：相较于注意转移能力，ASD个体的注意脱离能力受损程度更为明显(Bryson et al.,2017; Elsabbagh et al.,2009;Fischer et al.,2014;Kawakubo et al.,2007;Landry& Bryson,2004)，并且脱离任务中表现出左右视野的不对称性值得后续研究关注。从发生时间来看，婴儿在12个月左右就已经表现出视觉定向的缺损，并持续到成年阶段(Sacrey etal.,2014)。
+
+综上，对ASD个体视觉定向的研究主要存在四个方面的问题。第一，有研究者报告ASD个体视觉定向缺陷仅发生在刺激出现在左视野的情况，而当刺激出现在右视野时，视觉定向并无缺陷，但是大多数文献没有报告ASD个体左右视野的结果差异。因此，未来研究可通过比较刺激出现在左、右视野两种条件，进一步明确ASD个体视觉定向存在缺陷的内在机制。第二，采用 ERP和fMRI等技术的研究较少，ASD个体视觉定向的神经机制尚未被清晰、完整地探明。未来研究一方面需进一步明确与视觉定向相关的 ERP 成分，另一方面可考虑采用实践更为简易的fNIRS技术来完善其神经机制的研究。第三，在眼动研究中，有研究者直接采用眼跳潜伏期作为指标，而另有研究者采用眼跳潜伏期与基线之差作为指标，究竟哪一种更加妥当，目前仍存在争议。第四，有研究者提出刺激类型可能是调制注意转移和脱离的影响因素(Marshall,2011)。可进一步从刺激材料的熟悉度入手，考察其对ASD 视觉定向能力的影响。如果ASD个体视觉定向能力受刺激物的改变而改变，那么，对刺激物带来的混淆变量进行严格控制就显得格外重要。
+
+# 3视觉搜索
+
+视觉搜索是一个复杂的认知过程，它主要包括三个阶段，首先并行加工刺激的基本特征(如：颜色、方位等)；继而是注意分配的计划和执行；最后对刺激特征进行聚焦加工(Iti&Koch,2000; Treisman,1980)。ASD 个体存在视觉搜索的优势最先由 Plaisted 等人于1998 年提出，其研究发现，对非熟悉物体进行辨别反应时，HFA成人的正确率显著高于TD成人。随后，很多研究也证实了ASD个体在特定的任务或范式中表现出视觉搜索优势，例如视觉搜索范式(visual search paradigm, Dakin &Frith,2005; Joseph, Keehn, Connolly, Wolfe,& Horowitz,2009; O'Riordan, Plaisted,Driver,& Baron-Cohen,2001; O'Riordan,2004; Simmons et al.,2009)、反应冲突范式(response competition task，Remington,Swettenham, Campbel,& Coleman,2009)和隐藏图形任务(hidden pictures task，Jobs,Falck-Ytter,&Bolte,2018)。
+
+# 3.1ASD个体视觉搜索优势的证据
+
+[在此处键入]
+
+基于视觉搜索范式，大多数研究者证实了 ASD 个体存在视觉搜索优势(Hessels et al.,2014; Joseph et al.,2009; Remington et al.,2009; Shirama et al.,2017)，而且不管是 ASD 儿童(O'Riordan et al.,2001)还是 ASD 成人 (Hessels et al.,2014; O'riordan,2004; Shirama et al.,2017)都拥有该优势。Joseph 等人(2009)将视觉搜索任务分成静态搜索和动态搜索，在静态搜索条件下，目标与分心物呈现的位置始终保持不变；而在动态搜索条件下，目标和分心物的位置每 ${ 5 0 0 } \mathrm { m s }$ 改变一次。此外，刺激物呈现分为三种知觉负载情况，分别为15、20和 25 个搜索项目。行为研究结果显示，ASD个体的反应时比TD个体更快，尤其是在动态搜索条件下。眼动研究结果显示，ASD个体比TD个体的注视时间更短，同样证实了ASD个体的视觉搜索优势。由于在动态搜索任务中，ASD儿童依然保持较高的搜索效率，因此可以排除记忆对其视觉搜索优势的影响。研究者认为，ASD 个体的视觉搜索优势可能不是发生在搜索过程，而是在刺激屏呈现之前，已增强对目标特征的注意模板或者注意定势，从而搜索目标的速度更快。除了常用的视觉搜索范式以外，研究者采用其他范式也验证了ASD个体拥有视觉搜索优势。Remington 等人(2009)利用反应冲突范式探讨 ASD个体和 TD个体在高低知觉负载下视觉搜索的差异。实验中，参与者需要始终忽略圆环外的字母，在圆环内搜索目标字母“X”或“N”，并进行按键反应。分心物分成两种条件，其一为中性条件，分心物与目标字母无关，如字母“T”或“L”；其二为不一致条件，当目标为字母“X”时，分心物为字母“N”。研究结果显示，在知觉负载较高的条件下，ASD个体能成功忽略与任务无关的分心物，其速度和准确率与知觉负载较低的条件相比差异不显著，然而，TD个体的反应时和准确率显著下降。研究者认为，ASD个体和 TD 个体可能拥有不同的知觉容量(Bayliss& Kritikos,2010)，ASD个体的知觉容量更大，可以并行加工更多的特征，继而促进对目标的定位，表现出视觉搜索优势。但是，Hessels 等人(2014)提出，ASD个体视觉搜索优势是有限的，在知觉负载相当高的条件下，其视觉搜索优势则不存在。因此，知觉负载可能是ASD个体视觉搜索优势的影响因素(Bayliss & Kritikos,2010; Hessels et al.,2014; Remington et al.,2009)。另有研究者采用两种方式操控参与者的知觉负载(Lavie,1995)，并对13名ASD 成人和14 名 TD 成人进行施测(Hessels etal.,2014)。一方面,该实验操控目标与分心物的相似性，将实验分成两大模块：其一为简单模块，目标为倾斜的线段而分心物为垂直的线段；其二为困难模块，目标为垂直的线段而分心物为倾斜的线段。另一方面，操控刺激呈现的数量，分别为4、16 和 25个三种项目数。研究结果显示，在简单模块中，三种刺激数量下ASD个体的反应时均快于TD个体，表现出视觉搜索优势，尤其在目标不出现时优势更为显著；在困难模块中，虽 ASD 个体与 TD 个体之间没有表现出显著差异，但是三种刺激数量的趋势图和简单模块相似。研究者认为，在困难模块中，参与者需要在倾斜的分心物中寻找垂直的目标，该任务的知觉负载相对较高，因此，ASD个体无法表现出视觉搜索的优势。已有研究结果显示，当知觉负载较低时，ASD个体对呈现项目数较多的刺激序列表现出视觉搜索优势，表明ASD个体的知觉容量更大；然而，通过改变目标与干扰项之间的相似性来提高知觉负载时，ASD个体视觉搜索的优势消失，这可能为ASD个体拥有更大的知觉容量，且该知觉容量是有限的提供了间接的证据。因此，有必要从知觉负载和知觉容量关系的角度出发，探讨 ASD个体知觉容量的特点及其与视觉搜索优势的关系。
+
+此外，在隐藏图形任务中，参与者需要在真实场景中寻找7个星星和9个“X”形状时，ASD个体搜索目标的准确率显著高于非ASD个体，表明ASD个体在该任务中同样表现出视觉搜索优势(Jobs et al.,2018)。上述的实证研究均表明，ASD个体存在视觉搜索优势，且得到多种任务范式的支持。
+
+近年来,研究者开始倾向于探讨ASD个体视觉搜索优势的内在机制。Shirama 等人(2017)尝试通过增加视听掩蔽刺激探讨 ASD个体视觉搜索优势究竟发生在哪个阶段、产生优势的原因。实验一为联合搜索任务(conjunction search task)，参与者的任务是在刺激序列中寻找一
+
+[在此处键入]
+
+个白色的“X”，其分心物为白色的“T”与黑色的“X”(各自享有目标其中一个特征)。该实验由两种情况组成，第一种为存在掩蔽刺激的情况，快速呈现搜索序列后，同时呈现视觉和听觉掩蔽刺激；第二种为不存在掩蔽刺激的情况，快速呈现搜索序列后，随即让参与者做出反应。实验二为困难搜索任务(hard search task)，参与者的任务是在数字序列1-9 中，搜索数字2，目的是考察当分心物相对异质，不能基于刺激特征做出判断时，ASD个体能否仍然表现出视觉搜索优势。此外，两个实验均包括三种知觉负载以及四种偏心度，以此探讨拥挤效应对搜索效率的影响。研究结果显示，第一，无论掩蔽刺激是否出现，ASD个体在三种知觉负载下的反应时均显著快于TD个体，表明ASD个体存在视觉搜索优势；第二，掩蔽刺激的出现是为了打断个体的串行加工，但该条件下ASD个体仍保持较好的行为表现，表明ASD 个体视觉搜索优势并非来自搜索阶段的串行加工；第三，在分心物相对异质的实验二中，ASD个体的反应时和准确率比实验一更快更高，且不受偏心度的影响，表明基于特征搜索和拥挤效应都不是ASD 个体搜索优势的影响因素，但关于拥挤效应的研究结果与Baldassi等(2009)的研究结果相反。综上，采用动态搜索或增加掩蔽刺激的研究均表明，ASD个体视觉搜索优势并非来自搜索过程，亦不是对刺激序列的串行加工。此外，研究者表示ASD 个体在视觉加工早期具有较强的辨别力，能够快速地同时加工多个刺激。未来的研究可以考虑结合具有较高时间分辨率的 ERP技术，比较ASD个体和TD个体在视觉搜索任务中视觉早期ERP成分的差异，为ASD个体视觉搜索优势的内在机制提供直接的证据。
+
+# 3.2ASD个体视觉搜索不存在优势的证据
+
+尽管大多数研究都表明ASD个体存在视觉搜索优势，然而，仍有研究者提出了反对意见。反对意见主要分成两种情况，其一，ASD个体视觉搜索能力正常，主要表现为ASD 与TD个体的反应时不存在显著差异(Caron,Motron,Rainville,& Chouinard,2004；Keehn,Brenner,Palmer,Lincoln,& Muller,2008；Keehn, Shih,Brenner,Townsend,& Müller,2013;Constable,Solomon,Gaigg,&Bowler,2010)；其二，ASD个体视觉搜索能力存在缺陷，主要表现为与 TD 个体相比，ASD 个体的反应时更慢(Keehn&Joseph,2016)。
+
+# 3.2.1ASD个体视觉搜索能力正常的证据
+
+与多数研究结果ASD个体存在视觉搜索优势不同，Keehn等人(2013)的研究结果显示，ASD个体的视觉搜索能力与TD个体相似，不存在视觉搜索优势。实验中，参与者需要搜索的目标为正立的字母“T”，分心物为三种旋转角度字母“T”。在同质条件下，分心物只有一种旋转的角度，而在异质条件下，分心物同时包括三种旋转角度的字母“T”。研究结果显示 ASD 和 TD个体的反应时不存在显著差异，并且与Keehn 等人(2008)的结果一致，同样表明ASD个体的视觉搜索能力是完整的。
+
+此外，研究者采用迷宫实验探讨 ASD个体视觉搜索的特点，研究结果也支持了ASD 个体视觉搜索能力正常的观点(Caron etal.,2004)。实验共分为三个迷宫实验：路线学习、反向路线和指定方向，主试通过改变路线总长度和转弯次数来操控实验难度。三个实验结果均显示，ASD个体和TD个体在反应时和错误率上没有表现出显著差异，说明ASD个体视觉空间搜索能力是完整的，但不存在视觉搜索能力优势。当然，迷宫任务和经典的视觉搜索任务之间存在显著的差别，需慎重看待。
+
+# 3.2.2ASD个体视觉搜索能力存在缺陷的证据
+
+近年来，更有研究者发现ASD个体视觉搜索能力存在缺陷。Keehn 和 Joseph(2016)采用多重联合搜索任务，探讨 ASD 和TD儿童视觉搜索时间的差异。实验刺激包括黑色和白色，空心和实心两类特征的圆形，参与者的任务是在刺激序列中寻找唯一的刺激，其他分心物均和目标的一个特征匹配，如当目标为黑色实心的圆形时，分心物为若干个白色实心圆形和黑色空心圆形。研究结果显示，ASD个体的反应时显著慢于TD个体，没有表现出视觉搜索优势。研究者认为，前人发现ASD个体存在视觉搜索优势是基于自上而下(对目标和刺激的快
+
+[在此处键入]
+
+速比较)或自下而上(对目标的注意模板增强/对分心物的抑制)的知觉过程，不适用于多重联合搜索任务。需要特别指出的是，和其他搜索任务不同，Keehn 和 Joseph(2016)的多重联合搜索任务中，参与者需要搜索的目标并不是固定的，而是需要在每一个试次中搜索唯一的刺激，这就使参与者无法在搜索屏呈现之前对目标的注意模板进行增强。未来的研究可以从任务类型出发，探讨ASD个体视觉搜索优势的加工阶段。
+
+# 3.3ASD个体视觉搜索的神经机制
+
+fMRI研究发现，视觉搜索过程激活右侧顶上叶皮层(right superior parietalcortex)、顶间沟(intraparietal sulcus)、额叶脑盖(frontal operculum)、壳核(putamen)、额叶眼区(frontal eye field)、颞-顶联合区(temporo-parietal junction)以及顶枕联合区(junction of intraparietal and transverseoccipital sulcus，Coull, Walsh,Frith,& Nobre,20O3; Donner et al.,200O; Donner et al.,2002；魏萍，周晓林,2011)。
+
+已有fMRI研究表明，ASD 个体和 TD 个体在视觉搜索过程中，枕叶和额叶存在差异(Keehn et al.,2008; Keehn et al.,2013)。Keehn 等人(2008)利用 fMRI技术，探讨9 名ASD 个体和13名TD个体在视觉搜索上神经机制的差异。与上述Keehn 等人(2013)的实验程序一致，参与者的目标为正立的字母“T”，分心物为三种旋转角度字母“T”。在同质条件下，分心物只有一种旋转的角度，而在异质条件下，分心物同时包括三种旋转角度的字母“T”。研究结果显示，TD个体主要激活的脑区集中在枕叶和颞叶，枕叶激活程度较高并扩展到颞下回。然而，ASD个体激活的脑区较为分散且激活程度更高，主要包括额叶、顶叶和枕叶三个区域。从双侧枕叶皮层到背侧区域，如楔前叶(precuneus)、顶上叶以及右侧额叶皮层。研究者认为，ASD 个体较高的搜索效率与其辨别力较强和自上而下加工方式有关，主要表现在枕叶与额顶区(frontoparietal)较高的激活程度。其后，研究者采用同样的实验范式对存在社会交往障碍的ASD个体进行研究，研究结果发现ASD个体枕叶的功能连接性更强，并且在额叶发现局部的、长距离的连接(keehn etal.,2013)。研究者认为，该研究中自闭症参与者均存在社会交流障碍，对非社会信息视觉空间过程的增强可能与ASD个体社会交流障碍的发展有关。
+
+# 3.4小结
+
+ASD个体视觉搜索优势从20世纪80年代提出至今近40年，得到大量实证研究的支持(Hessels et al.,2014; Jobs et al.,2018; Joseph et al., 2009; O'Riordan et al.,2001; O'Riordan,2004;Plaisted etal.,1998;Remington et al.,2009; Shirama et al.,2017)。同时，瞳孔测量的数据也显示，在视觉搜索过程中，与TD个体相比，ASD个体有更大的瞳孔反应(Blaser,Eglington,Carter,&Kaldy,2014；卜凡帅，赵微，荆伟,2016)。
+
+大多数研究者倾向于支持ASD个体存在视觉搜索优势的观点，并且该优势可能是由于在刺激屏呈现之前，ASD个体增强对目标特征的注意模板或者注意定势，从而搜索目标的速度更快，但仍需要更多的实证支持。目前，关于ASD个体视觉搜索优势的研究主要存在两方面的问题。首先，任务难度与知觉负载是否为ASD个体视觉搜索的影响因素。研究发现，当任务难度较大时，ASD个体不会表现出视觉搜索优势，然而，却有研究结果显示在高知觉负载的条件下，ASD个体的视觉搜索优势表现更明显。现阶段，各实证研究之间，视觉搜索的任务难度差异较大。有的任务相对简单，如特征搜索任务(feature search task)，参与者只需要搜索刺激序列中颜色唯一的图形，目标是pop-out的；然而，有的任务难度较高，如联合特征搜索任务(feature-conjunction search task)，参与者需要同时注意刺激的颜色和形状特征，分心物均与目标刺激享有同一特征，甚至还会改变刺激物的个数，进一步操控知觉负载的大小，使任务难度差异更大。因此，我们认为，研究者应基于相似的任务难度对ASD个体搜索能力进行评定才更有说服力。其次，ASD个体视觉搜索表现出优势的原因是什么。从知觉的角度来看，研究者认为这是ASD个体知觉容量较大的表现
+
+[在此处键入]
+
+(Hessels et al.,2014; Joseph etal.,2009; O'riordan,2004)，他们在高知觉负载时可以并行加工更多的信息，因此反应时更快，注视的时间更短。除了ASD个体知觉容量更大的解释外，还有研究者提出弱中央统合理论(Booth& Happé,2016;Frith& Happé,1994; Happé& Booth,2008)，该理论认为ASD个体难以把零散的信息统合成一个整体，因此他们更容易通过刺激物的局部特征进行区分(Plaisted etal.,1998)；从注意的角度来看，这可能与ASD个体聚焦范围较狭窄(Robertson,Kravitz,Freyberg,Baron-Cohen,& Baker,2O13; Song,Hakoda,Sanefuji,& Cheng,2015)或过度聚焦(over-focus，详见综述 Kaldy,Giserman,Carter,& Blaser,2016)有关。
+
+# 4展望
+
+目前已有大量研究表明，ASD 个体在对非社会信息的注意问题上存在争议，具体表现在视觉定向和视觉搜索两个方面。首先，在视觉定向的研究中，对ASD个体的研究存在不一致的结论以及尚未解决的问题：ASD个体注意转移和脱离能力究竟是否存在缺陷？ASD个体视觉定向左右视野的脱离不对称性是否存在，且在其他注意任务中是否也有同样的表现？其次，在视觉搜索的研究中，ASD 个体视觉搜索优势发生的阶段及其影响因素均为目前研究者关心的问题，且存在争议：ASD个体视觉搜索优势是否发生在刺激呈现前？该优势应归因于知觉容量更大还是中央统合功能较弱？知觉负载、任务难度等因素在其中起何种作用？综上，对ASD个体非社会信息的注意研究仍存在一些问题和不足，可从以下三个方面深入探讨。
+
+# 4.1ASD个体视觉定向中左右视野不对称的问题
+
+已有研究发现，ASD个体在视觉脱离任务中表现出左右视野的不对称性，当刺激物出现在左视野时，注意脱离潜伏期更长(Bryson etal.,2017)。更早前，Kawakubo 等人(2007)一项 ERP 研究结果也显示，ASD个体在注意脱离任务中，大脑顶叶出现更大的眼跳前正成分(pre-saccadic positivity)，且主要由呈现在左视野的刺激所带来。除此之外，以往的研究几乎没有得出相类似的结论。我们认为，利用眼动技术实时监控眼球运动，对于考察注意转移与脱离的问题更具有优势。未来的研究可以考虑比较目标出现在左、右视野两种条件的眼跳潜伏期的差异，进一步验证ASD个体在视觉定向上是否存在左右视野不对称的问题。
+
+Bryson 等人指出，ASD个体注意左右视野的不对称可能是由于右半球功能异常。如果ASD 个体右半球功能存在缺陷，那么除了在注意脱离任务中表现出不对称性以外，在其他视觉注意的任务(例如视觉搜索任务)中是否也会存在左右视野的差异？我们认为，未来的研究可以在不同的注意任务中，考虑列出目标出现在左视野或右视野的条件，分析两种结果的差别。例如，利用视觉搜索范式探讨ASD个体视觉搜索能力时，可以分别统计目标呈现在左视野与目标呈现在右视野的情况。如果ASD个体右半球功能异常，那么视觉搜索优势可能只表现在目标呈现于右视野的情况。此外，研究者可以考虑结合N2pc 指标去考察ASD个体在视觉搜索任务中对不同刺激物在注意分配上的差异。ERP 中常用 N2pc作为考察注意分配量的指标(Luck&Hillyard,1994b;Wu&Fu,2017)，且其潜伏期可反映参与者对目标刺激注意分配的时间点，其波幅可反映参与者对分心物的过滤(Luck&Hillyard,1994a)或者对目标的注意捕获(Barras &Kerzel,2017;Wu,Liu,&Fu,2016)情况。若用 ERP 的指标来探讨 ASD个体视觉搜索优势是否存在不对称性，预期当目标出现在左视野时，N2pc 的潜伏期更晚，波幅更小，当目标出现在右视野时，N2pc 的潜伏期更早，波幅更大。
+
+# 4.2ASD个体视觉搜索优势的内在机制问题
+
+首先，ASD个体视觉搜索优势究竟发生在哪个阶段？研究者指出，当搜索目标一定时，ASD 个体表现出视觉搜索优势，而当搜索目标在试次间改变时，ASD个体和TD个体的表现不存在显著差异(Keehn&Joseph,2016)。该结果可能表明在刺激屏呈现之前，ASD个体就已经增强了对目标特征的注意模板或者注意定势，从而搜索目标的速度更快。未来研究一方面可以从任务类型出发，通过设置目标已知和目标未知两种任务，进一步将ASD个体是否存在视觉搜索优势的结果分离；另一方面，由于ERP技术具有精准的时间分辨率，在解决该问题时存在较大的优势。研究者可以考虑结合ERP技术，比较ASD个体和TD个体在视觉搜索任务中视觉早期空间注意相关成分(P1、N1等)及注意资源分配相关的N2pc成分在潜伏期和波幅上的差异，可为证实ASD个体视觉搜索优势发生的阶段提供直接的证据。
+
+其次，对于ASD个体视觉搜索优势是知觉容量更大带来的，还是弱中央统合功能带来的问题尚存在争议。我们认为，解决该争论主要从实验材料出发，研究者需要选择相对异质的材料作为分心物，此时ASD个体不能通过刺激的局部特征去判断目标是否存在。例如，研究者可以用双数字或者字母作为刺激材料，若ASD个体仍能表现出视觉搜索优势，则排除了弱中央统合功能的解释，研究者便可进一步改变刺激呈现的数量与相似程度操控知觉负载，探讨 ASD个体和 TD 个体在知觉容量上的差异。
+
+# 4.3ASD个体视觉定向和视觉搜索的相互关系
+
+已有较多的行为研究结果显示，ASD 个体在注意脱离时存在缺陷，而在视觉搜索过程中表现出优势，对于该相反的行为结果，目前仍无统一的解释。我们尝试在神经机制方面寻找差异，但研究结果显示，TD个体视觉定向与视觉搜索两种注意任务在神经机制上存在较大的重叠，额叶和顶叶除了参与视觉定向任务以外，也参与视觉搜索任务(Posneret al.,2016;Rueda et al.,2015;Donner etal.,2000)，因此，较难从神经机制方面找到两种注意任务分离的证据。同时，ASD个体在这两种注意任务中神经机制的研究确实较为匮乏，就目前的研究结果来看，ASD个体视觉定向缺陷可能与顶叶和小脑异常相关，而视觉搜索定向可能与枕叶和额叶局部、长距离连接相关，但仍需更多脑成像研究证据的支持，并从中找出 ASD个体视觉定向与视觉搜索之异同。需要特别注意的是，视觉定向与视觉搜索可能并不一定完全针对非社会信息注意，ASD个体在言语方面的能力缺陷，例如对指导语的理解程度也可能会对实验结果造成一定的影响，因此，在实验之前对ASD 个体及其对照组在年龄、智力（包括言语智力）等方面进行严格匹配是非常必要的。
+
+近年来，研究者对 ASD个体的研究越来越倾向于年轻化，开始对 ASD 高风险婴儿(有ASD 家族史，但未能下诊断)进行研究(Bryson et al.,2017; Cheung et al.,2016; Elsabbagh et al.,2013;Jones et al.,2016; Zwaigenbaum et al.,2005)，并希望通过分析有无 ASD 家族史的婴儿早期注意特点，为ASD个体的早期诊断标准提供参考。在探讨ASD个体视觉定向和视觉搜索相互关系中，fNIRS 和眼动两大技术的作用不可忽视。首先，fNIRS被认为是最适合研究婴幼儿大脑皮层活动的神经成像技术之一(Lloyd-Fox etal.,2014)；其次，眼动技术由于独特的时空精确度以及已被明确定义的大脑回路使其在ASD研究中发挥着独特的作用，脑成像学和组织病理学研究均表明眼跳受小脑和脑干两个区域控制(Schmitt et al.,2014; Takarae,Minshew,Luna,& Sweeney,2004)，ASD个体大脑功能的完整性可以通过眼跳指标进行测量与评估。而且，通过fNIRS与眼动技术相结合的方法，进一步从神经机制的角度考察 ASD高低风险婴儿在这两种注意任务中表现之异同，对ASD个体的诊断和干预应该具有较大的意义。
+
+# 参考文献
+
+卜凡帅，赵微，荆伟.(2016).学前自闭症谱系障碍儿童视觉搜索优势：来自眼动和瞳孔测量的联 合证据．中国特殊教育(6),52-58.   
+纪皓月，王莉，蒋毅.(2018).孤独症谱系障碍患者社会性注意行为的异常表现及其神经机制．科 学通报,63(15),1428-1437.   
+孙岩，房林，王亭予，崔丽.(2018).自闭症谱系障碍者抑制控制的影响因素及神经机制．心理科 学进展,26(8),1450-1464.   
+魏萍，周晓林.(2011).任务维度和任务无关维度干扰信息的同质性影响视觉搜索的神经机制．心   
+[在此处键入] 理科学进展,19(6),794-802.   
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders: DSM 5. New York: American Psychiatric Publishing.   
+Baldasi, S., Pei,F., Megna, N.,Recupero, G., Viespoli, M.,Igliozzi,R.,... Cioni, G. (2009). Search superiority in autism within, but not outside the crowding regime. Vision Research, 49(16), 2151- 2156.   
+Barras,C.,& Kerzel, D.(2O17). Salient-but-irrelevant stimuli cause attentional capture in diffcult, but attentional suppression in easy visual search.Psychophysiology, 54(12),1826-1838.   
+Bayliss, A. P.,& Kritikos,A. (201O). Brief report: Perceptual load and the autism spectrum in typically developed individuals. Journal of Autism and Developmental Disorders, 41(11),1573-1578.   
+Bedford,R.,Pickles,A., Gliga,T.,Elsabbagh, M., Charman,T., Johnson, M. H.,& team, t. B. (2014). Additive effects of social and non-social atention during infancy relate to later autism spectrum disorder. Developmental Science, 17(4), 612-620.   
+Bishop,H. J., Biasini,F.J.,& Stavrinos,D.(2017). Social and non-social hazard response in drivers with autism spectrum disorder. Journal of Autism and Developmental Disorders, 47(4), 905-917.   
+Blaser,E., Eglington,L., Carter, A. S.,& Kaldy, Z. (2014). Pupillmetry reveals a mechanism for the autism spectrum disorder (ASD) advantage in visual tasks. Scientific Reports, 4, 4301.   
+Booth,R. D.L.,& Happé,F. G. E. (2016). Evidence of reduced global processing in autism spectrum disorder. Journal of Autism and Developmental Disorders, 48(4),1397-1408.   
+Braukmann,R.,Lloyd-Fox,S.,Blasi,A., Johnson,M.H., Bekkering,H.,Buitelaar,J.K.,& Hunnius,S. (2018). Diminished socially selective neural processing in 5-month-old infants at high familial risk of autism. European Journal of Neuroscience, 47(6), 720-728.   
+Bryson, S., Garon,N., McMulln,T.,Brian,J.,Zwaigenbaum,L.,Armstrong, V.,.. Szatmari,P. (2017). Impaired disengagement of attention and its relationship to emotional distress in infants at high-risk for autism spectrum disorder. Journal of Clinical and Experimental Neuropsychology, 3,1-15.   
+Caron,M.-J., Mottron, L., Rainville, C.,& Chouinard, S. (2004). Do high functioning persons with autism present superior spatial abilities? Neuropsychologia, 42, 467-481.   
+Cheung, C.H., Bedford,R., Johnson, M. H., Charman,T., Gliga,T.,& team,t. B. (2016). Visual search performance in infants associates with later ASD diagnosis. Developmental Cognitive Neuroscience, 29,1-7.   
+Constable, P.A., Solomon, J.A., Gaigg, S. B.,& Bowler, D. M. (2010). Crowding and visual search in high functioning adults with autism spectrum disorder. Clinical Optometry,2, 93-103.   
+Coull,J.T.,Walsh,V.,Frith,C.D.,& Nobre,A. C.(20o3). Distinct neural substrates for visual search amongst spatial versus temporal distractors. Cognitive Brain Research, 17(2),368-379.   
+Courchesne,E., Press, G. A., & Yeung-Courchesne,R. (1993). Parietal lobe abnormalities detected with MR in patients with infantile autism. American Journal of Roentgenology, 160(2),387-393.   
+Csibra,G., Johnson, M. H.,& Tucker, L.A. (1997). Atention and oculomotor control: A highdensity ERP study of the gap effect. Neuropsychologia, 35(6), 855-865.   
+Dakin,S.,& Frith,U. (2005). Vagaries of visual perception in autism. Neuron, 48(3), 497-507.   
+Donner,T.,Kettermann,A.,Diesch,E.,Ostendorf,F., Villringer,A.,& Brandt,S.A. (2ooo). Involvement of the human frontal eye field and multiple parietal areas in covert visual selection during conjunction search. European Journal of Neuroscience, 12(9),3407-3414.   
+Donner, T.H.,Ketermann,A., Diesch,E., Ostendorf,F., Villringer,A.,& Brandt, S.A. (2002). Visual feature and conjunction searches of equal difficulty engage only partially overlapping frontoparietal networks. Neuroimage, 15(1), 16-25.   
+Elison,J. T.,Sasson, N.J.,Turner-Brown,L. M.,Dichter, G. S.,& Bodfish,J. W. (2012). Age trends in visual exploration of social and nonsocial information in children with autism. Research in Autism Spectrum Disorders, 6, 842-851.   
+Elsabbagh, M.,Fernandes,J., Webb, S.J.,Dawson, G., Charman,T., Johnson, M. H.,& Team, t.B.A. S.o. I. S. (2013). Disengagement of visual atention in infancy is associated with emerging autism in toddlerhood. Biological Psychiatry, 74,189-194.   
+Elsabbagh,M., Volein,A.,Holmboe,K., Tucker, L., Csibra, G., Baron-Cohen,S.,... Johnson, M. H. (2009). Visual orienting in the early broader autism phenotype: Disengagement and facilitation. Journal of Child Psychology Psychiatry, 50(5), 637-642.   
+Fan,J.,Bernardi,S., Van Dam,N.T.,Anagnostou,E., Gu,X.,Martin,L.,...Hof,P.R. (2012).Functional deficits of the attentional networks in autism. Brain and Behavior; 2(5), 647-660.   
+Fischer,J.,Koldewyn,K., Jiang, Y.V.,& Kanwisher,N. (2014). Unimpaired attentional disengagement and social orienting in children with autism. Clinical Psychological Science,2(2),214-223.   
+Frith,U.,& Happé,F.(1994).Autism: Beyond "theory of mind". Cognition, 50(1-3),115-132.   
+Gammer, I., Bedford,R., Elsabbagh, M., Garwood, H.,Pasco, G., Tucker, L.,... team,t. B.(2015). Behavioural markers for autism in infancy: Scores on the autism observational scale for infants in a prospective study of at-risk siblings. Infant Behavior and Development, 38,107-115.   
+Geschwind, D. H. (20o9). Advances in autism. Annual Review of Medicine, 60,367-380.   
+Goldberg, M. C., Lasker,A. G., Zee, D. S., Garth,E., Tien,A.,& Landa,R. J. (2002). Deficits in the inition of eye movements in the absence ofa visual target in adolescents with high functioning autism. Neuropsychologia, 40, 2039-2049.   
+Greene,D.J., Colich,N.,Iacoboni, M., Zaidel,E., Bookheimer, S.Y.,& Dapretto,M. (2011). Atypical neural networks for social orienting in autism spectrum disorders. Neuroimage, 56,354-362.   
+Happé,F. G.E.,& Booth, R. D.L. (2008). The power of the positive: Revisiting weak coherence in autism spectrum disorders. The Quarterly Journal of Experimental Psychology, 61(1), 50-63.   
+Hessels,R. S., Hooge,I. T. C.,Snijders,T.M.,& Kemner, C.(2014). Is there a limit to the superiority of individuals with ASD in visual search? Journal of Autism and Developmental Disorders, 44, 443- 451.   
+Itt,L.,& Koch, C.(2O0o0).A saliency-based search mechanism for overt and covert shifts of visual attention. Vision Research, 40,1489-1506.   
+Jobs,E.N.,Falck-Ytter,T.,& Bolte, S.(2018).Local and global visual processing in 3-year-olds with and without autism. Journal of Autism and Developmental Disorders, 48(6),2249-2257.   
+Jones,E. J.H., Venema,K.,Earl,R.,Lowy,R.,Barnes, K.,Estes,A.,... Webb,S.J. (2016). Reduced engagement with social stimuli in 6-month-old infants with later autism spectrum disorder: A longitudinal prospective study of infants at high familial risk. Journal of Neurodevelopmental Disorders, 8,1-20.   
+Joseph,R. M., Keehn, B., Connoly, C., Wolfe,J. M.,& Horowitz, T. S. (2009). Why is visual search superior in autism spectrum disorder? Developmental Science, 12(6), 1083-1096.   
+Kaldy，Z., Giserman, 1., Carter, A. S.，& Blaser, E. (2016). The mechanisms underlying the ASD advantage in visual search. Journal of Autism and Developmental Disorders, 46,1513-1527.   
+Kawakubo, Y., Kasai, K., Okazaki, S.， Hosokawa-Kakurai, M.， Watanabe, K.， Kuwabara, H.，. Maekawa, H. (2007). Electrophysiological abnormalities of spatial attention in adults with autism during the gap overlap task. Clinical Neurophysiology, 118(7), 1464-1471.
+
+[在此处键入]
+
+Keehn,B.,Brenner,L.,Palmer,E.,Lincoln,A.J.,& Müller,R.-A. (20o8).Functional brain organization for visual search in ASD. Journal of the International Neuropsychological Society, 14, 990-1003.   
+Keehn,B.,& Joseph, R. M. (2016). Slowed search in the context of unimpaired grouping in autism: Evidence from multiple conjunction search. Autism Research, 9, 333-339.   
+Kehn,B.,Shih,P.,Brenner,L.A.,Townsend,J.,& Muler,R.-A. (2013).Functionalconnectivity foran "island of sparing" in autism spectrum disorder: An fMRI study of visual search. Human Brain Mapping, 34(10),2524-2537.   
+Kelly,D.J., Walker, R.,& Norbury, C.F. (2012). Deficits in volitional oculomotor control align with language status in autism spectrum disorders. Developmental Science, 16,1-11.   
+Landry, R.,& Bryson, S.E. (2oo4). Impaired disengagement of attention in young childrenwith autism. Journal of Child Psychology and Psychiatry, 45(6), 1115-1122.   
+Lavie，N. (1995).Perceptual load as a necessary condition for selective attntion. Journal of Experimental Psychology:Human Perception and Performance, 21(3), 451-468.   
+Leekam, S. (2016). Social cognitive impairment and autism: What are we trying to explain? Philosophical Transactions of the Royal Society Biological Sciences, 371,1-8.   
+Lloyd-Fox,S.,Richards,J.E., Blasi,A.,Murphy, D.G.M.,Elwell, C.E.,& Johnson,M. H. (2014). Coregistering functional near-infrared spectroscopy with underlying cortical areas in infants. Neurophotonics,1(2), 025006.   
+Luck,S. J.,& Hillyard, S.A. (1994a). Spatial filtering during visual search: Evidence from human electrophysiology. Journal ofExperimental Psychology: Human Perception and Performance, 20(5), 1000-1014.   
+Luck, S.J.,& Hillyard, S. A. (1994b). Electrophysiological correlates of feature analysis during visual search. Psychophysiology,31,291-308.   
+Madipakkam, A. R., Rothkirch, M., Dziobek, I.,& Sterzer, P. (2017). Unconscious avoidance of eye contact in autism spectrum disorder. Scientific Reports, 7(1),13378.   
+Marshall, D.R. (2011). Impaired visual disengagement in autism: Can this be due to stimulus efects and inherent interest? (Unpublished doctorial dissertation), Durham University.   
+Nayar, K., Voyles,A. C., Kiorpes,L.,& Martino,A. D. (2017). Global and local visual processng in autism: An objective assessment approach. Autism Research, 10,1392-1404.   
+O'Riordan, M.A.,Plaisted,K.C.,Driver,J.,& Baron-Cohen, S. (20o1). Superior visual search in autism. Journal of Experimental Psychology: Human Perception and Performance, 27(3),719-730.   
+O'Riordan, M.A. (2004). Superior visual search in adults with autism. Autism, 8(3),229-248.   
+Petersen, S.E.,& Posner, M.I. (2012). The attention system of the human brain: 20 years after. Annual Review ofNeuroscience, 35,73-89.   
+Pierrot-Deseilligny, C.， Rivaud, S.， Gaymard,B.，& Agid, Y. (1991). Cortical control of reflexive visually-guided saccades. Brain, 114,1473-1485.   
+Pierrot-Deseilligny, C., Rivaud, S., Gaymard, B., Muri, R.,& Vermersch,A.-1. (1995). Cortical control of saccades. Neurological Progress, 37, 557-567.   
+Plaisted, K.,O'Riordan, M.,& Baron-Cohen,S.(1998).Enhanced discrimination of novel, highly similar stimuli by adults with autism during a perceptual learning task. Journal of Child Psychology and Psychiatry, 39(5),765-775.   
+Posner, M. 1., Rothbart, M. K.,& Voelker, P. (2016). Developing brain networks of attention. Current Opinion Pediatrics, 28(6), 720-724.   
+Posner,M.I.,Walker,J.A.,Friedrich,F.J.,&Rafal,R.D.(1984).Effects of parietal injury on covert   
+[在此处键入]
+
+orienting of attention. Neuroscience, 4(7), 1863-1874. Remington, A., Swettenham, J., Campbell,R., & Coleman, M. (2009).Selective atention and perceptual load in autism spectrum disorder. Psychological Science, 20(11),1388-1393. Robertson, C.E.,Kravitz, D.J.,Freyberg, J., Baron-Cohen, S.,& Baker, C.I. (2013). Tunnel vision: Sharper gradient of spatial attention in autism. Neuroscience,33(16), 6776-6781. Rueda,M. R.,Pozuelos,J.P.,& Combita,L.M. (2015). Cognitive neuroscience of atention from brain mechanisms to individual differences in efficiency. AIMS Neuroscience, 2(4),183-202. Sacrey,L.-A.R.,Armstrong, V.L., Bryson, S.E.,& Zwaigenbaum,L. (2014). Impairments to visual disengagement in autism spectrum disorder: A review of experimental studies from infancy to adulthood. Neuroscience and Biobehavioral Reviews, 47, 559-577. Sasson,N.J.,& Touchstone,E. W. (2014). Visual attention to competing social and object images by preschool children with autism spectrum disorder. Journal of Autism and Developmental Disorders, 44,584-592. Schmitt, L. M., Cook, E. H.， Sweeney,J. A.，& Mosconi,M.W. (2014). Saccadic eye movement abnormalities in autism spectrum disorder indicate dysfunctions in cerebellum and brainstem. Molecular Autism, 5(1), 47. Schoen,S.A., Miler,L.J., Bret-Green,B.,& Hepburn,S.L.(2008). Psychophysiology of children with autism spectrum disorder. Research in Autism Spectrum Disorders, 2(3), 417-429. Shirama,A., Kato,N.,& Kashino, M. (2017). When do individuals with autism spectrum disorder show superiority in visual search? Autism, 21(8),942-951. Simmons,D.R.,Robertson,A.E.,McKay,L. S.,Toal,E.,McAleer,P.,& Pollick,F.E.(2009). Vision in autism spectrum disorders. Vision Research, 49(22), 2705-2739. Song,Y.,Hakoda, Y., Sanefuji, W.,& Cheng,C. (2015). Can they see it? The functional field of view is narrower in individuals with autism spectrum disorder. Plos One,10(7), eO133237. Takarae, Y., Minshew, N. J.,Luna, B.,& Sweeney, J. A. (2004). Oculomotor abnormalities parallel cerebellar histopathology in autism. Journal of Neurology Neurosurgery and Psychiatry, 75(9), 1359-1361. Townsend, J., Courchesne,E.,& Egaas, B.(1996). Slowed orienting of covert visual-spatial atention-in autism: Specific deficits associated with cerebellar and parietal abnormality. Development and Psychopathology, 8, 563-584. Treisman, A. M. (1980). A feature-integration theory of atention. Cognitive Psychology, 12, 97-136. Unruh,K.E., Sasson,N.J.,Shafer,R.L., Whitten,A., Miler, S.J.,Turner-Brown,L.,& Bodfish,J. W. (2016). Social orienting and atention is influenced by the presence of competing nonsocial information in adolescents with autism.Frontiers in Neuroscience,10,586. Van der Hallen,R., Vanmarcke, S., Noens,I.,& Wagemans, J. (2017). Hierarchical leters in ASD: High stimulus variability under different attntional modes. Journal of Autism and Developmental Disorders, 47,1854-1865. Velasquez,F., Qin, X. A., Reily, M.A., Neuhaus,E., Estes,A., Aylward,E., & Kleinhans,N. M. (2017). Neural correlates of emotional inhibitory control in autism spectrum disorders. Research in Developmental Disabilities, 64, 64-77. Vivanti, G., Fanning, P.A. J., Hocking, D. R., Sievers, S.,& Dissanayake, C. (2017). Social attention, joint atention and sustained attntion in autism spectrum disorder and williams syndrome: Convergences and divergences. Journal of Autism and Developmental Disorders, 47(6),1866-1877. Vossel,S.,Weidner, R.,Moos,K.,& Fink, G.R.(2016). Individual atentional selection capacities are [在此处键入]
+
+reflected in interhemispheric connectivity of the parietal cortex. Neuroimage,129,148-158.   
+Wu, X.,& Fu, S. M. (2017). The different roles of category- and feature-specific attentional control settings on atentional enhancement and inhibition. Attention Perception & Psychophysics,79(7), 1968-1978.   
+Wu, X.，Liu, X., & Fu, S. (2016). Feature- and category-specific attentional control settings are differently affected by attentional engagement in contingent attentional capture. Biological Psychology, 118,8-16.   
+Zalla,T., Seassau, M., Cazalis,F., Gras,D.,& Leboyer, M. (2018). Saccadic eye movements in adults with high-functioning autism spectrum disorder. Autism,22(2),195-204.   
+Zwaigenbaum,L., Bryson,S., Rogers,T.，Roberts,W.,Brian,J.，& Szatmari, P. (2005). Behavioral manifestations of autism in the first year of life. International Journal of Developmental Neuroscience, 23,143-152.
+
+# The characteristics and neural mechanisms of visual orienting and visual search in autism spectrum disorders
+
+CHEN Xiaowen; FU Shimin (Departmentof Psychologyand Centerfor Brainand Cognitive Sciences,School of Education, Guangzhou University, Guangzhou 510006, China)
+
+Abstract: Orienting network is an important part of attention system and it includes two major tasks: visual orienting and visual search. For these two tasks, typically developed group showed similar neural mechanisms.However, from a perspective of attention to non-social information, different behavioral patterns were observed between visual orienting and visual search in autism spectrum disorder (ASD) group.Regarding visual orienting,the consensus is that ASD individuals are intact in attentional shift but have difficulty in attntional disengagement; however, this conclusion is still controversial. Regarding visual search, ASD individuals have superior search ability, but its time sequence and reasons deserves further exploration.Future studies should identify the hemispherical symmetry ofASD individuals in visual orienting task, the underlying mechanisms of visual search advantage,and the relationships between visual orienting and visual search in ASD populations.
+
+Key words: autism； non-social information； visual orienting； visual search；neural mechanisms

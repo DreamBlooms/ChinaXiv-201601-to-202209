@@ -1,0 +1,218 @@
+[
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.草地农业生态系统国家重点实验室，兰州大学草地农业科技学院，兰州 730020；2.甘肃省肉羊繁育生物技术工程实验室，民勤733300）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：幼龄反刍动物饲粮的纤维性碳水化合物（FC）来源与组成对调控其生长发育和瘤胃功能建立有重要作用，其来源各异，粒度不同，对正处于生长期的幼龄反刍动物的采食和消化、瘤胃液pH及瘤胃发育等生理参数的影响存在差异。本文综述了近年来关于幼龄反刍动物饲粮中性洗涤纤维（NDF）来源和粒度的研究，分别从生产性能、瘤胃发酵和瘤胃发育3个方面总结了二者对幼龄反刍动物的影响，并对相关机制进行了探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：幼龄反刍动物；中性洗涤纤维；纤维来源；粒度；瘤胃发育",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S823；S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于幼龄反刍动物，断奶前开食料的营养水平是调控瘤胃微生物种群定植和瘤胃上皮功能完善的重要因素。其中开食料中非纤维性碳水化合物（NFC）的发酵产物挥发性脂肪酸（VFA）经过瘤胃上皮吸收可为机体提供能量，同时丁酸能够促进瘤胃上皮细胞更新，完善瘤胃上皮吸收功能[1]。此外，开食料中FC 的主要组分为中性洗涤纤维（NDF），其包含纤维素、半纤维素和木质素等植物细胞壁成分[2]，是衡量饲粮纤维的指标。一般认为，反刍动物在断奶前对纤维的需要有限，主要由于瘤胃微生物尚不完善，不能有效降解纤维；同时由于纤维能量水平较低，限制了精饲料采食量，难以满足动物的能量需要。近年研究发现，饲粮中提供NDF 能够提高幼龄反刍动物断奶后的采食量并刺激瘤胃发育，但其效果受饲粮 NDF 来源、水平和粒度等因素影响[3-5]，在断奶前如何对幼龄反刍动物供应 NDF 尚存在争议。因此，本文汇总了近年来国内外对幼龄反刍动物开食料 NDF 的研究，就NDF来源和粒度对生产性能、瘤胃发酵和瘤胃发育的影响做一综述，旨在为反刍动物断奶前纤维营养的研究提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1开食料NDF来源对幼畜生产性能的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 粗饲料来源NDF（FNDF）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反刍动物饲粮的NDF多来源于干草或秸秆等粗饲料，但目前对于断奶前补饲粗饲料对幼龄反刍动物生产性能影响的研究结果存在争议。许多研究表明 FNDF 能够提高幼畜的生产性能。Tere 等[发现犊牛断奶前补饲燕麦干草自由采食相比不补饲，断奶后干物质采食量（DMI）增加了 $23 \\%$ ，平均日增重（ADG）增加了 $30 \\%$ ，64日龄体重增加了 $5 . 5 \\%$ 。同时Daneshvar 等[7]研究发现，在特牛开食料中添加 $1 5 \\%$ 的苜蓿干草相比不添加，犊牛 $3 \\sim 7 4$ 日龄开食料采食量增加了 $3 3 \\%$ ，DMI增加了 $21 \\%$ ，ADG 增加了 $1 6 \\%$ ，74日龄体重增加了 $8 \\%$ 。断奶前补饲粗饲料能够提高DMI和 ADG可能是因为采食粗饲料幼畜瘤胃液 $\\mathfrak { p H }$ 较高，有利于纤维分解菌生长，提高了纤维消化率。然而，也有报道指出断奶前补饲粗饲料会降低幼畜的生产性能。Hill 等[8]的研究表明，犊牛开食料中添加 $2 . 5 \\%$ 或 $5 \\%$ 干草相比不添加， $1 { \\sim } 5 6$ 日龄开食料采食量分别降低了$7 \\%$ 和 $1 6 \\%$ ，ADG分别降低了 $6 \\%$ 和 $1 7 \\%$ ，饲料效率（FE）显著降低。Hill等[在犊牛开食料中添加 $6 \\%$ 或$9 \\%$ 小麦秸，发现相比不添加， $3 \\sim 5 6$ 日龄总干物质采食量（TDMI）和ADG 显著降低，同时发现添加 $10 \\%$ 或 $1 5 \\%$ 苜蓿干草，以及 $6 \\%$ 或 $9 \\%$ 干禾草相比不添加，犊牛ADG 均显著下降。幼龄反刍动物断奶前补饲粗饲料 TDMI和ADG之所以降低可能是因为其瘤胃尚未发育完全，对粗饲料的降解能力有限，未消化的饲粮纤维在瘤胃内积累使食糜重量增多，体积增大，对胃壁上分布着的连续接触性受体造成刺激，从而反射性地抑制采食行为，阻碍生长发育[10]。另有研究表明，犊牛补饲苜蓿干草时干物质（DM）和有机物（OM)的消化率显著降低[7，这是因为饲粮中NDF水平过高反而会增加幼畜的食糜流通速率，缩短食糜在胃肠道的滞留时间，导致OM消化率降低[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "断奶前补饲粗饲料影响幼龄反刍动物采食量的原因有很多，机制尚不清楚，但与开食料的成分和物理形式有很大关系。幼畜采食易快速发酵的小粒度开食料会使产酸量增加，瘤胃液pH降低，导致瘤胃酸中毒，这时摄入粗饲料有利于瘤胃液pH升高，提高瘤胃缓冲能力。而粒度较大或含有整粒谷物的开食料在瘤胃中降解速率慢，发生瘤胃酸中毒的风险低，故幼畜对粗饲料的需求较低，这种情况下粗饲料的摄入可能会占据瘤胃容积，降低采食量。上面提及的 Terré 等回的试验犊牛采食颗粒化开食料，而Daneshvar 等[7]的试验中开食料为磨细的粉状混合料，这2种形式的开食料在瘤胃中快速发酵产酸使特牛采食粗饲料的意愿增强，加之因摄入粗饲料而逐渐优化的瘤胃环境促使开食料采食量增加，因此犊牛的DMI增加。Hil等[]的试验则采用含有发酵速率慢的玉米和燕麦籽实的开食料，故断奶前补饲粗饲料导致纤维在瘤胃积累，使DMI降低。上述关于幼龄反刍动物断奶前补饲粗饲料的研究可能因为粗饲料的来源、品质、粒度，精饲料和乳品饲粮的供给策略以及NDF 采食量的差异而出现不同的结果。不同来源的粗饲料 NDF 含量不同，其 NDF 的化学组成存在差异，因此幼畜采食不同来源的粗饲料采食量和消化率不同。如豆科的苜蓿干草相比禾本科的燕麦干草果胶含量较高而半纤维素含量较低，适口性较好，因而幼畜采食量更大[12]。有研究指出，相比燕麦干草，补饲苜蓿干草的犊牛 NDF 采食量更高（分别为TDMI的 $4 \\%$ 和 $14 \\%$ ），造成开食料采食量和DMI更低，导致 ADG下降[13]。另外，与不补饲者相比，补饲粗饲料的犊牛 NDF采食量更高，导致食糜在胃肠道积累而增加肠道充盈度，从而使胃肠道重量增加。由于胃肠道重量增加反映在体重的增加上，许多研究就表观地将幼畜采食粗饲料带来的伪增重视为了体增重。有一些研究证明，犊牛补饲干草与不补饲者相比虽然体重得到显著增加，但其胃肠道重量也有显著增加，而且胴体重显著降低[8,13-15]。因此在不同的研究中，必须要考虑粗饲料带来的肠道充盈效应造成的结果的差异。针对这一状况有研究指出犊牛干草采食量低于DMI的 $5 \\%$ 时既能忽略肠道充盈效应，又能够提高 ADG，促进其生长发育[13]。综上所述，大部分研究指出断奶前补饲粗饲料能够提高幼畜的生产性能，但是粗饲料能否作为幼畜开食料的NDF来源仍有待于进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2非饲草纤维来源 NDF（NFFS）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "犊牛和羔羊开食料NDF多来源于谷实和麦麸等精饲料，但NFFS 也会作为NDF来源应用在开食料中，常见的NFFS 为大豆皮、棉籽壳和甜菜渣等副产品。NFFS 中纤维素和果胶含量高，木质素含量低，瘤胃发酵速度快、易消化[I6]。在成年反刍动物饲粮中利用 NFFS 代替部分谷物能够提高奶牛的产奶量和乳脂率，并缓解瘤胃酸中毒[17]，在幼龄反刍动物饲粮中可用它代替部分粗饲料并增加羔羊的DMI 和 ADG[18]。NFFS 既能缓解开食料快速发酵对幼畜产生的不利影响，又不易造成FNDF带来的肠道充盈，在开食料中应用时能够显著提高荷斯坦特牛 $2 { \\sim } 6 3$ 日龄的DMI、ADG 和63 日龄体重[19]。但是另有研究发现，开食料中添加 $5 \\%$ 或 $10 \\%$ 的棉籽壳比不添加者显著降低了犊牛断奶后的开食料采食量和 ADG[8]，因为采食棉籽壳的犊牛摄入的能量水平更低，不利于其生长发育。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FNDF 和 NFFS 均因较高的NDF 含量而为幼畜提供饲粮纤维，但是二者NDF 的组成差异较大，相比FNDF，NFFS 中易降解成分含量高，在瘤胃中的流通速率更高，在适宜的添加水平下对幼畜生产性能的促进作用更大。例如相比苜蓿干草，断奶前补饲甜菜渣的犊牛 80 日龄体重和 ADG 显著增加[20-21]；补饲甜菜渣比补饲等量麦秸能够显著提高犊牛的 DMI和 ADG[20]。但是目前用 NFFS 作为NDF 来源调控幼龄反刍动物生长发育的研究较少，幼龄反刍动物开食料中NFFS 及其添加水平仍需更多的科学研究提供理论支撑。表1列举了近年来有关FNDF 和NFFS 作为开食料NDF来源影响幼龄反刍动物断奶前和断奶后生产性能的研究结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "s  \nNDF来源 添加水平（干物质基 影响 试验动物 参考文献  \nNDF source 础）Supplemental Effects Trial animal Referencelevel (DM basis)  \n苜蓿干草 Alfalfa hay （204号 $7 . 5 \\%$ 或 $1 5 . 0 \\%$ （204号 TDMI↓，ADG、FE←- Balouchi羔羊 Norouzian 等[22]  \n苜蓿干草 Alfalfa hay （204号 $1 5 \\%$ （20 TDMI√，FE↑，ADG←→ Balouchi羔羊 Norouzian 等[23]  \n苜蓿干草 Alfalfa hay 自由采食 断奶后精饲料采食量、ADG、胴体重↑ 湖羊羔羊 Yang等[24]  \n雀麦干草 Bromegrass hay （204号 $7 . 5 \\%$ 或 $1 5 . 0 \\%$ （204号 断奶后ADG、FE ↑ 荷斯坦犊牛 Coverdale 等[25]  \n大豆皮 Bean hull $6 2 . 7 5 \\%$ （20 28\\~56日龄ADG、FE↓ 荷斯坦特牛 Hill 等[26]  \n棉籽壳 Cottonseed hull $5 \\%$ 或 $10 \\%$ （20 断奶后开食料采食量、ADG、FE 荷斯坦犊牛 Hill等[8]  \n干草 Hay $2 . 5 \\%$ 或 $5 \\%$ （20 断奶后开食料采食量、ADG、FE  \n棉籽壳 Cottonseed hull $1 5 \\%$ （20 开食料采食量、ADG↑，FE↓ 荷斯坦特牛 Hill 等[19]  \n小麦秸 Wheat straw $6 \\%$ 或 $9 \\%$ （20 TDMI、ADG↓，FE←- 荷斯坦犊牛 Hill等[9]  \n干禾草 Grass hay （204号 $6 \\%$ 或 $9 \\%$ （20 ADG↓，TDMI、FE←-  \n苜蓿干草 Alfalfa hay $10 \\%$ 或 $1 5 \\%$ （20 ADG↓，TDMI、FE←  \n野茅干草 Wild grass 自由采食 $6 { \\sim } 1 0$ 周龄 TDMI↑ 荷斯坦犊牛 Khan 等[27]  \n燕麦干草 Oat hay 自由采食 DMI、ADG、71日龄体重、 $\\mathrm { F E \\left. \\right. }$ 荷斯坦犊牛 Castells 等[28]  \n黑麦草 Ryegrass 自由采食 DMI、ADG、71日龄体重、 $\\mathrm { F E } {  } \\longrightarrow$   \n大麦秸 Barley straw 自由采食 DMI、ADG、71日龄体重、 ${ \\mathrm { F E } } { \\left. \\right.} $   \n苜蓿干草 Alfalfa hay 自由采食 断奶后ADG↑，TDMI、 $\\mathrm { F E  \\sim }$ 荷斯坦特牛 Castells 等[13]  \n燕麦干草 Oat hay 自由采食 断奶后 $ { \\mathrm { A D G } } \\uparrow$ ，TDMI、 ${ \\mathrm { F E } } { \\left. \\right.} $   \n燕麦干草Oat hay 自由采食 断奶后 TDMI、ADG↑， $\\mathrm { F E } { \\left. \\right.} $ 荷斯坦犊牛 Terré等[6]  \n苜蓿干草 Alfalfa hay $10 \\%$ （20 开食料采食量、ADG、70日龄体重↑，FE 荷斯坦特牛 Beiranvand 等[29]√  \n苜蓿干草 Alfalfa hay $10 \\%$ （20 TDMI↑，ADG、FE←→ 荷斯坦犊牛 Ebnali 等[30]  \n苜蓿干草 Alfalfa hay $1 5 \\%$ （204 TDMI、ADG、74日龄体重↑， $\\mathrm { F E } {  } \\vdash$ 荷斯坦犊牛 Daneshvar 等[7]  \n苜蓿干草 Alfalfa hay $1 5 \\%$ （20 断奶后开食料采食量↑，ADG、 $\\mathrm { F E } { \\left. \\right.} $ 荷斯坦犊牛 Hosseini等[31]  \n苜蓿干草 Alfalfa hay $1 5 \\%$ （20 开食料采食量、ADG、72日龄体重↑ 荷斯坦特牛 Moeini 等[32]  \n苜蓿干草 Alfalfa hay 自由采食 TDMI、ADG、63日龄体重↑，FE↓ 荷斯坦特牛 Movahedi等[20]  \n小麦秸 Wheat straw 自由采食 开食料采食量←，DMI、ADG $\\left. \\right.$   \n甜菜渣Beet pulp 自由采食 TDMI、FE↑，ADG $$ →",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "↑：升高 increase；↓：降低 decrease； $\\longleftrightarrow$ ：无显著变化 no significant change。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2FNDF对瘤胃发酵的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NFFS 木质化程度低，比粗饲料更易降解，其维持瘤胃液pH的有效性只有FNDF 的 $3 5 \\% [ 3 3 ]$ ，FNDF对  \n瘤胃发酵的影响程度更大。粗饲料代替精饲料作为开食料NDF的主要来源，会对幼畜咀嚼、瘤胃液 $\\mathsf { p H }$ 和  \nVFA产生完全不同的作用，并能够通过影响微生物种类调控瘤胃发酵[34]。瘤胃液pH是饲粮发酵能力、唾液分泌量，VFA产量和吸收速率以及食糜排空速率综合作用的结果，幼  \n龄反刍动物摄入粗饲料会使瘤胃液pH升高。研究表明补饲燕麦干草、黑麦草、大麦秸、干禾草和苜蓿干草",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "会使犊牛瘤胃液pH显著升高[13.27-28.32]。因为粗饲料会刺激犊牛咀嚼和反刍，从而刺激唾液腺分泌大量含有碳酸氢盐的弱碱性唾液随食糜进入瘤胃，导致瘤胃液pH升高。而且研究发现补饲干草的犊牛瘤胃上皮单羧酸转运蛋白（MCT-1）的分泌量升高了4倍[13]，MCT-1在转运单羧酸时会与氢离子 $\\begin{array} { r } { \\left( \\mathrm { H } ^ { + } \\right) } \\end{array}$ ）发生偶联共转运，其分泌量升高表明更多的 $\\mathrm { H } ^ { + }$ 从瘤胃中被移除[35]，瘤胃液pH升高。然而，犊牛采食粗饲料会导致瘤胃 VFA产量下降。这是因为FC 比 NFC 在瘤胃中发酵速度慢，VFA 产量少。而且在摄入大量粗饲料的情况下，犊牛OM 消化率降低，饲粮在瘤胃中发酵时间短，导致 VFA 产量减少[7,3.36]。研究表明，犊牛补饲干草瘤胃液 pH升高并伴随VFA产量的降低[15]，这可能是因为纤维饲粮有移除瘤胃壁死亡细胞，防止瘤胃角化不全的作用，增强了瘤胃上皮的吸收功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮料组成能够改变瘤胃液pH，影响各种VFA 的产生比例，是决定瘤胃发酵类型最重要的因素。幼龄反刍动物摄入FNDF时其瘤胃发酵类型为乙酸发酵。研究表明，补饲干草比不补饲能够显著提高犊牛瘤胃乙酸产量[6-7,13-14]，提高乙酸/丙酸[6,11,15]。这是因为反刍动物采食粗饲料型饲粮，较高的瘤胃液pH适于纤维分解菌生长，乙酸比例升高；采食精饲料型饲粮导致瘤胃液pH降低，较低的pH适于淀粉分解菌生长，瘤胃中丙酸和丁酸的比例升高[37]。补饲干草可以提高瘤胃液pH并将其维持在较稳定的水平上，较高的瘤胃液pH不仅有利于纤维素消化，而且能够降低酸中毒的风险。但是研究指出，采食开食料的犊牛瘤胃液 $\\mathrm { p H } { < } 5$ 的状态能够持续 $1 0 \\mathrm { h / d }$ 而没有表现出酸中毒的症状[38]，这说明幼畜对较低pH的瘤胃环境的耐受力更高，所以对幼龄反刍动物的瘤胃酸中毒还需要进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3FNDF对瘤胃发育的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "瘤胃发育主要表现在重量增加、体积增大和瘤胃组织形态学的变化；瘤胃组织形态学发育表现在瘤胃上皮细胞生长分化，瘤胃乳头长度、宽度和密度变化以及瘤胃壁和肌肉层发育等方面。研究表明，幼龄反刍动物采食固体饲粮后，瘤胃乳头才开始发育，瘤胃重量、肌层和黏膜层厚度才有显著增加[39]。固体饲粮中精饲料的发酵产物对瘤胃上皮细胞的化学作用和粗饲料对瘤胃容积和肌肉层的物理作用都是刺激瘤胃发育至关重要的因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "精饲料中 NFC 含量高，其发酵产物丁酸能够刺激胰岛素分泌从而增强瘤胃上皮细胞有丝分裂，并通过抑制细胞凋亡来促进瘤胃上皮细胞增殖[1]。断奶前饲喂精饲料能够显著提高犊牛瘤胃乳头的长度和宽度[28.30]。但高精饲料条件下丁酸产生过量会使犊牛瘤胃上皮细胞超常增殖，导致瘤胃乳头分枝或发育畸形[40]。此外，高精饲料饲粮不仅会导致瘤胃上皮角质层细胞层数过多和瘤胃角化不全，还会造成瘤胃乳头被黏性食团、毛发和细胞碎片覆盖，并相互黏连结块，这些现象均会阻碍营养物质吸收，甚至损伤瘤胃上皮[41]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一般认为，FNDF不足以提供瘤胃乳头发育所需的丁酸，对瘤胃上皮发育的刺激作用很小，已有研究指出，补饲苜蓿干草的犊牛相比不补饲者瘤胃乳头长度和宽度显著降低[14]。然而，开食料中的 FNDF 能够在瘤胃内占据较大空间而促使胄室扩充，并加强瘤胃节律性运动和胃壁收缩，使瘤胄肌肉层得到锻炼。研究表明，补饲苜蓿干草的特牛和羔羊相比不补饲者瘤胃肌肉层厚度[22-23.32]、瘤胃壁厚度[14]和瘤胃重量[14.33]显著增加。而且，FNDF 的研磨值高[42]，可通过物理摩擦去除瘤胃上皮过厚的角质层和死亡的上皮细胞，对于维持瘤胃上皮形态正常起着重要作用。研究表明，犊牛采食高精饲料饲粮和高粗饲料饲粮瘤胃角质层细胞层的数目分别为15个和4 个[43]。补饲干草的犊牛和羔羊瘤胃上皮组织厚度和角质层厚度显著减小[15,22-23],且未观察到瘤胃乳头发育异常和乳头结块[13]。因此，营养全面的开食料不仅应该包含适宜水平的 NFC 以提供足够的丁酸刺激幼龄反刍动物瘤胃上皮发育，增强上皮吸收功能，而且需要包含一定水平的粗饲料来促进幼畜瘤胃肌层发育，并维持瘤胃壁的完整性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4FNDF的粒度对采食行为、瘤胃发育和生产性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1采食行为",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粗饲料对反刍动物的营养作用不仅与其化学组成有关，而且受其粒度的影响较大，幼龄反刍动物摄入不同粒度的粗饲料会影响其采食行为。研究指出采食长度为 $3 \\mathrm { m m }$ 苜蓿干草的犊牛比采食 $1 \\mathrm { m m }$ 者咀嚼和反刍的时间更长[44]，而且舔舐、卷舌和采食木屑等非营养性口腔活动的发生率更低[5.44]。同时，Montoro 等[5]发现补饲 $10 \\%$ ， $3 { \\sim } 4 \\mathrm { c m }$ 干禾草的犊牛挑食 NDF 成分，而补饲 $1 0 \\% 2 \\ : \\mathrm { m m }$ 干禾草的犊牛挑食粗蛋白质(CP)成分，同时发现后者对 DM、CP 和 NDF 的消化率更低；所以更倾向于采食精饲料以满足营养需要[5,45]。Miler-Cushon等[45]对犊牛饲喂与Montoro 等[5]试验相同的2种粒度的干草，8周后所有犊牛均饲喂 $3 { \\sim } 4 \\mathrm { c m }$ 的干禾草持续3周，发现初始时采食 $2 \\mathrm { m m }$ 干禾草的犊牛仍挑食精饲料成分。反刍动物断奶前有根据咀嚼和反刍、瘤胃功能以及自身营养需要选择性地采食饲粮成分的能力，而且幼畜的挑食行为变化较大，存在个体差异，并易受采食经验的影响形成既定模式[45]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2瘤胃发育和生产性能",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采食长粒度的粗饲料能够增加幼畜的瘤胃缓冲能力，并刺激瘤胃发育。Nemati 等[44发现相比 $1 \\mathrm { m m }$ 的长度，采食 $3 \\mathrm { m m }$ 长的干草的犊牛35 和 70 日龄瘤胃液 $\\mathfrak { p H }$ 和乙酸/丙酸更高。也有研究指出，相比 $2 . 9 2 \\mathrm { m m }$ 采食 $5 . 0 4 \\mathrm { m m }$ 苜蓿干草的犊牛瘤胃角质层厚度更小[15]；采食 $3 { \\sim } 4 \\mathrm { c m }$ 苜蓿干草的犊牛比采食 $2 \\mathrm { m m }$ 者瘤胃肌层更厚[23]。同时，粒度不同的粗饲料能够影响幼龄反刍动物的采食量和饲粮的消化率，进而影响生产性能。在 Montoro 等[5的研究中，采食长干草的犊牛断奶后 TDMI和DM消化率显著高于采食短粒度干草的犊牛，且FE有升高的趋势。因为长粒度干草能够提供更多的物理刺激促进瘤胃肌层发育和瘤胃运动，良好的瘤胃发育促使了生产性能的提高。另外，Norouzian 等[23]发现虽然犊牛补饲 $1 5 \\% 3 { \\sim } 4 \\mathrm { c m }$ 的苜蓿干草比补饲 $1 5 \\% 2 \\ : \\mathrm { m m }$ 的苜蓿干草DMI更低，因为长粒度干草流通速率更小，增加了肠道充盈从而降低了采食量，但是2组犊牛的 ADG 没有显著差异，因此粗饲料粒度太小可能会导致生产性能降低。Jahani-Moghadam 等[46]在特牛开食料中添加 $10 \\%$ 切碎（ $4 . 0 \\mathrm { m m }$ ）和颗粒苜蓿干草（ $5 . 8 \\mathrm { m m }$ ），以及 Suarez-Mena 等[47]补饲 $5 \\%$ 长度分别为3.04、7.10 和 $1 2 . 7 0 \\mathrm { m m }$ 的稻草，均发现干草粒度对犊牛生产性能未产生显著影响。此外，开食料中 FDNF 的粒度和添加水平会对幼畜的生产性能产生交互作用。Nemati 等[44]在犊牛开食料中添加 $12 . 5 \\%$ 或25.0%长度为1或 $3 \\mathrm { m m }$ 的首蓿干草，采用2×2双因子试验设计，发现首蓿干草的添加水平为 $2 5 \\%$ 时，采食$3 \\mathrm { m m }$ 干草的犊牛断奶后的 ADG 显著高于采食 $1 \\mathrm { m m }$ 干草的犊牛，但苜蓿干草添加水平为 $12 . 5 \\%$ 时没有发现粒度对犊牛的生产性能产生影响。Mirzaei等[15]发现开食料中添加 $8 \\%$ 的苜蓿干草，采食长度为 $5 . 0 4 \\mathrm { m m }$ 干草的特牛断奶后的开食料采食量比采食 $2 . 9 2 \\mathrm { m m }$ 者高 $4 9 1 \\ \\mathrm { g / d }$ ，但在 $1 6 \\%$ 的干草添加水平下却观察不到。由此可见，开食料中提供FNDF 时应考虑粗饲料粒度的影响来确定添加水平，如果粗饲料切割较长则可以适当降低其添加水平[48]。目前针对幼龄反刍动物断奶前粗饲料粒度的研究较少，探索粗饲料粒度对幼畜瘤胃发育的影响，寻找提高幼畜生长发育最适宜的粗饲料粒度仍是幼龄反刍动物培育中需要解决的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "幼龄反刍动物开食料NDF不同的来源和粒度能够对生产性能、瘤胃发酵和瘤胃发育产生不同影响。根据现有研究总结出以下2点：FNDF是否能够提高幼畜断奶前和断奶后的生产性能仍然存在争议，但是粗饲料能够增加瘤胃液pH，提高瘤胃缓冲能力；粗饲料的物理特性能够促进瘤胃肌层发育和瘤胃蠕动，维持瘤胃健康和瘤胃壁的完整性。故作者认为开食料中添加适宜来源的粗饲料有利于幼龄反刍动物的生长发育。NFFS 作为幼龄反刍动物开食料NDF来源对其生长发育的作用仍需进一步研究。在一定范围内，幼畜采食切割较长的粗饲料有利于促进瘤胃发育，提高生产性能；而且粗饲料不同粒度的作用受其在开食料中添加水平的影响。未来研究应致力于探索最适于幼龄反刍动物断奶前饲粮NDF 的来源和粒度，并综合考虑二者对动物的营养调控作用配制优质的开食料，以期促进幼畜早期的生长发育，为成年后良好的生产性能奠定基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] SHEN Z M,SEYFERT H M,LOHRKE B.et al.An energy-rich diet causes rumen papillae proliferation associated with more IGF type 1 receptors and increased plasma IGF-1 concentrations in young goats[J].The Journal of Nutrition,2004,34(1):11-17.   \n[2] 王建平,王加启,卜登攀,等 $2 0 0 7 { \\sim } 2 0 0 8$ 年国际反刍动物营养研究进展III.碳水化合物营养[J].中国畜牧兽 医,2009,36(2):5-13.   \n[3]王剑.干草添加时期对哺乳期犊牛生长性能和瘤胃发育的影响[D].硕士学位论文.泰安:山东农业大 学,2015:10.   \n[4] 王世琴,李冲,李发弟,等.开食料中性洗涤纤维水平对哺乳羔羊生长性能和消化道发育的影响[J].动物营养 学报,2014,26(8):2169-2175.   \n[5] MONTORO C,MILLER-CUSHON E K,DEVRIES T J,et al.Efect of physical form of forage on   \nperformance,feeding behavior,and digestibility ofHolstein calves[J].Journal of Dairy Science,2013,96(2):1117- 1124.   \n[6] TERRE M,PEDRALS E,DALMAU A,et al.What do preweaned and weaned calves need in the diet:a high fiber content or a forage source?[J].Journal of Dairy Science,2013,96(8):5217-5225.   \n[7] DANESHVAR D,KHORVASH M,GHASEMI E,et al.The efect of restricted milk feeding through conventional or step-down methods with or without forage provision in starter feed on performance of Holstein bull   \ncalves[J].Journal of Animal Science,2015,93(8):3979-3989.   \n[8] HILLTM,BATEMAN II HG,ALDRICH JM,et al.Efects ofthe amount of chopped hay or cottnseed hulls in a textured calf starter on young calf performance[J].Journal of Dairy Science,2008,91(7):2684-2693.   \n[9] HILL TM,BATEMAN II HG,ALDRICH JM,et al.Roughage amount,source,and processing for diets fed to weaned dairy calves[J].The Professional Animal Scientist,2010,26(2):181-187.   \n[10]ALLENMSRelationshipbetween foragequalityanddairycatle production[J]AnimalFeed Science and Technology,1996,59(1/2/3):51-60.   \n[11] 祁茹,林英庭.日粮物理有效中性洗涤纤维对奶牛营养调控的研究进展[J].粮食与饲粮工业,2010(5):52-55. [12] MOSELEY G,JONES JR.Some factors associated with the difference in nutritive value of artificially dried red clover and perennial ryegrass for sheep[J].British Journal of Nutrition,1979,42(1):139-147.   \n[13] CASTELLS L,BACH A,ARIS A,et al.Effects of forage provision to young calves on rumen fermentation and development of the gastrointestinal tract[J].Journal of Dairy Science,2013,96(8):5226-5236. [14] 王立斌.在饲喂开食料的基础上补饲苜蓿对犊牛胃肠道发育的影响[D].博士学位论文.北京:中国农业大 学,2013:22-43.   \n[15] MIRZAEI M,KHORVASH M,GHORBANI G R,et al.Effects of supplementation level and particle size of alfalfa hay on growth characteristics and rumen development in dairy calves[J].Journal of Animal Nutrition and Animal Physiology,2015,99(3):553-564.   \n[16] FIRKINS JL.Efects of feeding nonforage fiber sources on site of fiber digestion[J].Journal of Dairy Science,1997,80(7):1426-1437.   \n[17] 张英来.浅谈非饲草来源的结构性碳水化合物[J].中国奶牛,2007(S1):51-56.   \n[18] 薛红枫,孟庆翔,熊易强,等.大豆皮替代羔羊饲粮中玉米或纤维成分对瘤胃消化率和生长性能的影响[J]. 中国畜牧杂志,2005,41(1):15-18.   \n[19] HILL S R,HOPKIN B A,DAVIDSON S,et al.The addition of cottonseed hulls to the starter and   \nsupplementation of live yeast or mannanoligosaccharide in the milk for young calves[J].Journal of Dairy Science,2009,92(2):790-798.   \n[20] MOVAHEDI B,FOROOZANDEH A D,SHAKERI P.Effects of different forage sources as a free-choice provision on the performance,nutrient digestibility,selected blood metabolites and structural growth of Holstein dairy calves[J].Journal of Animal Physiology and Animal Nutrition,2017,101(2):293-301.   \n[21] MAKTABI H,GHASEMI E,KHORVASH M.Effects of substituting grain with forage or nonforage fiber source on growth performance,rumen fermentation,and chewing activity of dairy calves[J].Animal Feed Science and Technology,2016,221:70-78.   \n[22] NOROUZIAN M A,VALIZADEH R,VAHMANI P.Rumen development and growth of Balouchi lambs offred alfalfa hay pre- and post-weaning[J].Tropical Animal Health and Production,2011,43(6):1169-1174. [23]NOROUZIAN MA,VALIZADEHR.Efect of forage inclusion and particle size in diets of neonatal lambs on performance and rumen development[J].Journal of Animal Physiology and Anima Nutrition,2014,98(6):1095- 1101.   \n[24] YANG B,HE B,WANG S S,et al.Early supplementation of starter pelets with alfalfa improves the   \nperformance of pre- and postweaning Hu lambs[J].Journal of Animal Science,2015,93(10):4984-4994. [25] COVERDALE JA,TYLER HD,QUIGLEY II JD,et al.Efect of various levels of forage and form of diet on rumen development and growth in calves[J].Journal of Dairy Science,2004,87(8):2554-2562.   \n[26] HILL TM,BATEMAN II HG,ALDRICHJM,et al.Effects of feeding different carbohydrate sources and amounts to young calves[J].Journal of Dairy Science,2008,91(8):3128-3137.   \n[27] KHAN M A,WEARY D M,VON KEYSERSLINGK M A G.Hay intake improves performance and rumen development of calves fed higher quantities of milk[J].Journal of Dairy Science,2011,94(7):3547-3553.   \n[28] CASTELLS L,BACH A,ARAUJO G,et al.Effect of different forage sources on performance and feeding behavior of Holstein calves[J].Journal of Dairy Science,2012,95(1):286-293.   \n[29] BEIRANVAND H,GHORBANI G R,KHORVASH M,et al.Interactions of alfalfa hay and sodium propionate on dairy calf performance and rumen development[J].Journal of Dairy Science,2014,97(4):2270-2280.   \n[30] EBNALI A,KHORVASH M,GHORBANI G R,et al.Efcts of forage ofering method on performance,rumen fermentation,nutrient digestibility and nutritional behaviour in Holstein dairy calves[J].Journal of Animal Physiology and Animal Nutrition,2016,100(5):820-827.   \n[31] HOSSEINI S M,GHORBANI G R,REZAMAND P,et al.Determining optimum age of Holstein dairy calves when adding chopped alfalfa hay to meal starter diets based on measures of growth and   \nperformance[J].Animal,2016,10(4):607-615.   \n[32] MOEINI H,MAHDAVI A HRIASI A,et al.Efects of physical form of starter and forage provision to young calves on blood metabolites,liver composition and intestinal morphology[J].Journal of Animal Physiology and Animal Nutrition,2016,doi:10.111/jpn.12485.   \n[33] MOONEY C S,ALLEN M S.Physical efectiveness of the neutral detergent fiber of whole linted cottonseed relative to that of alfalfa silage at two lengths ofcut[J].Journal of Dairy Science,1997,80(9):2052-2061.   \n[34] 薛红枫,孟庆翔.奶牛中性洗涤纤维营养研究进展[J].动物营养学报,2007,19(S1):454-458.   \n[35] PENNER G B,STEELE M A,ASCHENBACH JR,et al.Ruminant nutrition symposium:molecular adaptation of ruminal epithelia to highly fermentable diets[J].Journal of Animal Science,2011,89(4):1108-119.   \n[36] WANAPAT M,ANANTASOOK N,ROWLINSON P,et al.Efect of carbohydrate sources and levels of cotton seed meal in concentrate on feed intake,nutrient digestibility,rumen fermentation and microbial protein synthesis in young dairy buls[J].Asian-Australasian Journal of Animal Sciences,2013,26(4):529-536. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[37]韩正康,陈杰.反刍动物瘤胃的消化和代谢[M].北京:科学出版社,1988:145.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] SUAREZ-MENA F X,HEINRICHS A J,JONES C M.Digestive development in neonatal dairy calves with either whole or ground oats in the calf starter[J].Journal of Dairy Science,2015,98(5):3417-3431.   \n[39]云强,刁其玉,屠焰.犊牛开食料研究进展[J].饲料工业,2009,30(15):32-34.   \n[40]MENTSCHEL J,LEISER R,MULLING C,et al.Butyric acid stimulates rumen mucosa development in the calf mainly by a reduction of apoptosis[J].Archives of Animal Nutrition,2001,55(2):85-102.   \n[41] SUAREZ B J,VAN REENEN C G,STOCKHOFE N,et al.Efect of roughage source and roughage to concentrate ratio on animal performance and rumen development in veal calves[J].Journal of Dairy   \nScience,2007,90(5):2390-2403.   \n[42] GREENWOOD R H,MORRILLJL,TITGEMEYER E C,et al.A new method of measuring diet abrasion and its effect on the development of the forestomach[J].Journal of Dairy Science,1997,80(10):2534-2541.   \n[43] 张海涛,王加启,卜登攀,等.影响犊牛瘤胃发育的因素研究[J].乳业科学与技术,2008,31(2):86-89. [44] NEMATI M,AMANLOU H,KHORVASH M,et al.Rumen fermentation,blood metabolites,and growth performance of calves during transition from liquid to solid feed:effects of dietary level and particle size of alfalfa hay[J].Journal of Dairy Science,2015,98(10):7131-7141.   \n[45] MILLER-CUSHON E K,MONTORO C,BACH A,et al.Efct of early exposure to mixed rations differing in forage particle size on fed sorting of dairy calves[J].Journal of Dairy Science,2013,96(5):3257-3264.   \n[46] JAHANI-MOGHADAM M,MAHJOUBI E,HOSSEIN YAZDI M,et al.Efects of alfalfa hay and its physical form(chopped versus peleted) on performance of Holstein calves[J].Journal of Dairy Science,2015,98(6):4055- 4061.   \n[47] SUAREZ-MENA F X,HEINRICHS A J,JONES C M,et al.Straw particle size in calf starters:effects on digestive system development and rumen fermentation[J].Journal of Dairy Science,2016,99(1):341-353. [48] 张立涛,刁其玉,李艳玲,等.中性洗涤纤维生理营养与需要量的研究进展[J].中国草食动物科   \n学,2013,33(1):57-61.   \nResearch Advances in Starters Fiber Nutrition and Influence Factors for Young Ruminants   \nLYU Jiaying1LIFadi1,2LIFei1\\* ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. Key State Laboratory ofAgro-Ecosystems,Collge of Pastoral Agriculture Science and Technology,Lanzhou University,Lanzhou 730020, China; 2. Biotechnology Engineering Laboratory of Gansu Meat Sheep Breeding, Minqin 733300, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Fibrous carbohydrate (FC) source and composition in diet plays an important role in regulating growth and development and establishment of rumen functions of young ruminants.However, both kinds of sources and particle sizes of FC in diets have diffrent nutritional effects on feed intake and digestion, rumen fluid $\\mathfrak { p H }$ and rumen development of young ruminants.In this article, the effects of the neutral detergent fiber (NDF) source and particle size on performance，rumen fermentation and rumen development were summarized,and related mechanism was discussed according to recent studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: young ruminants; neutral detergent fiber; fiber source; particle size; rumen development ",
+        "page_idx": 11
+    }
+]

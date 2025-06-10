@@ -1,0 +1,254 @@
+1蒙脱石和酵母培养复合物对断奶仔猪生长性能、血清生化指标、免疫功能及抗氧化能力的影  
+2 响
+
+唐小懿」 马　杰」张富群」 陈清华1\* 季　方² 陈文斌王　冰3（1.湖南农业大学动物科学技术学院，长沙410128；2.美国安牧然国际公司，芝加哥60611，美国；3.湖南百宜饲料科技有限公司，浏阳410300)
+
+6 摘要：本试验旨在研究饲粮中添加蒙脱石和酵母培养复合物替代抗生素和氧化锌（ $\scriptstyle z _ { \mathrm { n O } }$ ））  
+7 对断奶仔猪生长性能、血清生化指标、免疫功能及抗氧化能力的影响。选取31日龄、平均  
+8 体重为（ $6 . 7 8 { \scriptstyle \pm 0 . 1 9 }$ ） $\mathrm { k g }$ 的“杜 $\times$ 长 $\times$ 大”断奶仔猪180头，随机分为5组，每组6个重复，  
+9 每个重复6头猪（公母各占1/2）。对照组饲喂基础饲粮 $^ +$ 抗生素 $5 0 0 \mathrm { g / t } 1 5 \%$ 金霉素 $+ 2 0 0 \ \mathrm { g / t }$   
+10 $50 \%$ 喹乙醇） $+ Z \mathrm { n O }$ （ $3 \mathrm { k g / t } \dot { }$ ），试验I组饲喂基础饲粮 $+$ 抗生素 $\scriptstyle + Z { \mathrm { n O } } +$ 蒙脱石和酵母培养复合  
+11 物（ $1 . 5 \mathrm { k g / t } \dot { }$ ），试验ⅡI组饲喂基础饲粮 $+ Z \mathrm { n O + }$ 蒙脱石和酵母培养复合物，试验I组饲喂基础  
+12 饲粮 $. +$ 抗生素 $^ +$ 蒙脱石和酵母培养复合物，试验IV组饲喂基础饲粮 $. +$ 蒙脱石和酵母培养复合  
+13 物。试验期 $3 5 \mathrm { d }$ 。结果显示：1）试验15\~35d时，试验III和IV组断奶仔猪的平均日采食量  
+14 显著高于对照组和试验I组（ $. P { < } 0 . 0 5$ ）；试验15\~35d和 $1 { \sim } 3 5 \mathrm { d }$ 时，试验II、III和IV组的平  
+15 均日增重显著高于对照组（ $P { < } 0 . 0 5$ ）。2）与对照组相比，试验14和 $3 5 \mathrm { d }$ 时，试验II和IV  
+16 组断奶仔猪的血清碱性磷酸酶（ALP）活性显著降低（ $\scriptstyle \cdot < 0 . 0 5$ ），试验II、IⅢ和IV组的血清  
+17 谷丙转氨酶（ALT）活性显著降低（ $. P { < } 0 . 0 5$ ）；各组的血清总蛋白（TP）、白蛋白（ALB）、  
+18 尿素氮（UN）含量和谷草转氨酶（AST）活性无显著差异（ $P { > } 0 . 0 5$ ）。3）与对照组相比，  
+19 试验14d时，各试验组断奶仔猪的血清免疫球蛋白A（IgA）、肿瘤坏死因子- $\mathbf { \nabla } \cdot \mathbf { a }$ （TNF- $\mathfrak { a }$ ）、  
+20 干扰素-γ（INF-γ）含量均显著升高（ $. P { < } 0 . 0 5$ ），试验Ⅱ和II组的血清免疫球蛋白M（IgM)  
+21 和白介素-4（IL-4）含量显著升高（ $P { < } 0 . 0 5$ ），试验I组的血清白介素 $- 1 \beta$ （IL-1β）、白介  
+22 素-2（IL-2）和白介素-6（IL-6）含量显著升高（ $\cdot P { < } 0 . 0 5$ ）；试验 $3 5 \mathrm { d }$ 时，各试验组的血清  
+23 免疫球蛋白G（IgG）和TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 含量显著升高（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），试验I和IV组的血清IgM含量显
+
+收稿日期：2018-03-14  
+基金项目：湖南农业大学技术开发合作项目—酵母培养物在猪日粮中应用研究（1706)  
+作者简介：唐小懿（1994—），女，湖南怀化人，硕士研究生，研究方向为饲料资源开发与  
+利用。E-mail: 389398090@qq.com  
+\*通信作者：陈清华，教授，博士生导师，E-mail: chqh314@163.com
+
+著升高（ $P { < } 0 . 0 5$ ），试验I、Ⅱ和II组的血清INF-γ和IL-6含量显著升高（ $P { < } 0 . 0 5$ ）。4)与对照组相比，试验14d时，试验Ⅱ和III组断奶仔猪的血清总抗氧化能力（T-AOC）显著升高 $( P { < } 0 . 0 5 )$ ），各试验组的血清谷胱甘肽过氧化物酶（GSH $\mathbf { \nabla \cdot P x }$ ）和超氧化物歧化酶（SOD)活性显著升高（ $\cdot P { < } 0 . 0 5$ ）；试验 $3 5 \mathrm { d }$ 时，试验I和IV组的血清T-AOC 显著升高（ $. P { < } 0 . 0 5 ^ { \cdot }$ ），试验II组的血清 SOD 活性显著升高（ $_ { . P < 0 . 0 5 }$ ），各试验组的血清丙二醛（MDA）含量显著降低（ $\cdot P { < } 0 . 0 5$ ）。由此可知，饲粮中添加蒙脱石和酵母培养复合物能改善断奶仔猪的生长性能，提高仔猪的免疫功能和抗氧化能力。
+
+关键词：蒙脱石；酵母培养物；断奶仔猪；生长性能；免疫功能；抗氧化能力
+
+中图分类号：S828
+
+仔猪早期断奶是集约化、规模化养猪生产中的关键技术之一，早期断奶易引起仔猪断奶应激综合征，导致仔猪采食量下降、腹泻甚至死亡[1]。目前主要通过在仔猪饲粮中添加大量抗生素[2]和氧化锌（ZnO）[3]来缓解仔猪断奶应激，但其引发的环境污染及细菌耐药性等问题，严重危害人类和动物的健康[4]。因此，开发一种替代饲粮中抗生素和 ZnO 的绿色添加剂已经迫在眉睫。蒙脱石是一类硅铝酸盐黏土矿，因其特殊的结构，对细菌、毒素等具有一定的吸附能力[5-6]，在我国应用已久[7-9]。酵母培养物是酵母菌经过充分厌氧发酵后形成的微生态制品，富含寡糖、益生素等，具有安全、绿色、高效等特点，已广泛应用于畜牧业中[10-1]。研究显示，酵母培养物具有改善畜禽生长性能、提高免疫力、缓解应激、吸附毒素等作用[12-15]。但关于蒙脱石和酵母培养复合物联合使用是否能取代仔猪饲粮中抗生素和 ZnO的研究报道较少。本试验通过在断奶仔猪饲粮中添加蒙脱石和酵母培养复合物，研究其对断奶仔猪生长性能、血清生化指标、免疫功能及抗氧化能力的影响，探讨其替代抗生素和 ZnO的效果，为蒙脱石和酵母培养复合物在断奶仔猪生产中的应用提供科学依据。
+
+1材料与方法
+
+1.1试验材料试验所用蒙脱石和酵母培养复合物由美国安牧然国际公司提供，该复合物主要成分为  
+钙质蒙脱石 $70 \%$ ，酵母细胞培养物 $30 \%$ 。
+
+# 1.2 试验设计与试验饲粮
+
+选用31日龄、平均体重为（ $6 . 7 8 { \scriptstyle \pm 0 . 1 9 }$ ） $\mathbf { k g }$ 的“杜 $\mathbf { \nabla } _ { \cdot } \times$ 长 $\times$ 大”断奶仔猪180头，随机分为5组，每组6个重复，每个重复（栏）6头猪（公母各占1/2）。对照组饲喂基础饲粮 $^ +$ 抗生素（ $5 0 0 \ \mathrm { g / t } \ 1 5 \%$ 金霉素 $+ 2 0 0 \ \mathrm { g / t }$ $50 \%$ 喹乙醇） $+ Z \boldsymbol { \mathrm { n O } }$ （ $3 \mathrm { k g / t }$ ），试验I组饲喂基础饲粮 $^ +$ 抗生素 $+ Z \mathrm { n O + }$ 蒙脱石和酵母培养复合物（ $1 . 5 \mathrm { k g / t }$ ），试验Ⅱ组饲喂基础饲粮 $+ Z \mathrm { n O + }$ 蒙脱石和酵母培养复合物，试验IⅢ组饲喂基础饲粮 $. +$ 抗生素 $+$ 蒙脱石和酵母培养复合物，试验IV组饲喂基础饲粮 $^ +$ 蒙脱石和酵母培养复合物。试验饲粮组成符合NRC（2012）仔猪营养需要，试验饲粮组成及营养水平见表1。
+
+Table 1Composition and nutrient levels of experimental diets（air-dry basis ） %
+
+表1试验饲粮组成及营养水平 (风干基础)  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>对照 Control</td><td>I</td><td>II</td><td>IⅢ</td><td>IV</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>21.00</td><td>21.00</td><td>21.00</td><td>21.00</td><td>21.00</td></tr><tr><td>碎米 Broken rice</td><td>21.00</td><td>21.00</td><td>21.00</td><td>21.00</td><td>21.00</td></tr><tr><td>发酵豆粕</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>8.60</td><td>8.60</td><td>8.60</td><td>8.60</td><td>8.60</td></tr><tr><td>Fermented soybean meal</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>乳清粉 Whey powder</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>膨化大豆</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Expanded soybean</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>去皮豆粕</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>Peeled soybean meal</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蔗糖 Sucrose</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>血浆蛋白粉</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plasma protein powder</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>豆油 Soybean oil</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>面粉 Flour</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>0.90</td><td>0.90</td><td>0.90</td><td>0.90</td><td>0.90</td></tr></table></body></html>
+
+<html><body><table><tr><td>乳酸钙 Calcium lactate</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>赖氨酸 Lys (98.5%)</td><td>0.45</td><td>0.45</td><td>0.45</td><td>0.45</td><td>0.45</td></tr><tr><td>蛋氨酸 Met</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>苏氨酸Thr</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>氯化胆碱</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.11</td></tr><tr><td>Choline chloride (50%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>复合酸化剂</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>Compound acidifier</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氧化锌 ZnO</td><td>0.30</td><td>0.30</td><td>0.30</td><td></td><td></td></tr><tr><td>金霉素 Chlortetracycline</td><td>0.05</td><td>0.05</td><td></td><td>0.05</td><td></td></tr><tr><td>(15%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>喹乙醇 Olaquindox (50%)</td><td>0.02</td><td>0.02</td><td></td><td>0.02</td><td></td></tr><tr><td>沸石粉 Zeolite powder</td><td>0.42</td><td>0.27</td><td>0.34</td><td>0.57</td><td>0.64</td></tr><tr><td>蒙脱石和酵母培养复合物</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Montmorillonite and yeast</td><td></td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>culture complex</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>预混料 Premix1)</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能DE/（MJ/kg）</td><td>14.43</td><td>14.43</td><td>14.43</td><td>14.43</td><td>14.43</td></tr><tr><td>粗蛋白质CP</td><td>20.50</td><td>20.50</td><td>20.50</td><td>20.50</td><td>20.50</td></tr><tr><td>赖氨酸Lys</td><td>1.45</td><td>1.45</td><td>1.45</td><td>1.45</td><td>1.45</td></tr><tr><td>蛋氨酸 Met</td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.43</td></tr><tr><td>蛋氨酸+半胱氨酸</td><td>0.75</td><td>0.75</td><td>0.75</td><td>0.75</td><td>0.75</td></tr><tr><td>Met+Cys</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>钙Ca</td><td>0.88</td><td>0.88</td><td>0.88</td><td>0.88</td><td>0.88</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets: VA 2 200IU，VD 220 IU，VE 15 IU，VK $0 . 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 . 5 \mathrm { m g }$ ，泛酸 pantothenic acid 12mg，烟酸 nicotinic acid $2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 0 \mathrm { m g }$ ，生物素biotin $0 . 0 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 3 0 \mathrm { m g }$ $\mathrm { V B } _ { 1 2 } 0 . 0 1 8 \mathrm { m g }$ ，Fe $1 0 5 ~ \mathrm { { m g } }$ ，Cu 6 mg，Mn 4 mg， $Z n 1 1 0 \mathrm { m g }$ ，Se $0 . 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 1 4 ~ \mathrm { m g }$ 。
+
+2)营养水平为计算值。Nutrient levels were calculated values.
+
+1.3 饲养管理
+
+本试验于湖南百宜镇头种猪场进行，试验前对猪舍进行彻底清洗、消毒。试验期间，仔猪自由采食和饮水，每天定时打扫圈舍，按照猪场常规饲养管理程序进行，试验期 $3 5 \mathrm { d }$ 。
+
+1.4测定指标与方法
+
+1.4.1 生长性能指标
+
+每天记录仔猪的采食量和剩料量，试验前后对仔猪进行称重，计算1\~14d、15\~35 d及1\~35d的平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）。
+
+1.4.2 血清生化、免疫和抗氧化指标
+
+分别于试验14和 $3 5 \mathrm { d }$ 时，每组随机选取6头体重接近平均体重的仔猪进行前腔静脉空腹采血 $1 0 ~ \mathrm { m L }$ ， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 分离血清，离心管分装，-20℃保存，送于北京华英生物技术研究所检测血清生化、免疫和抗氧化指标。
+
+# 1.5 数据处理与分析
+
+试验数据用"平均值 $\cdot \pm$ 标准差"表示，采用 SPSS19.0软件进行单因素方差分析（one-wayANOVA）， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1蒙脱石和酵母培养复合物对断奶仔猪生长性能的影响
+
+由表2可知，试验1\~14d时，各组断奶仔猪的平均日采食量、平均日增重和料重比均无显著差异（ $. P { > } 0 . 0 5$ ）。试验 $1 5 { \sim } 3 5 \mathrm { d }$ 时，试验II和IV组断奶仔猪的平均日采食量显著高于对照组和I组（ $\scriptstyle \cdot < 0 . 0 5$ ），试验ⅡI、IⅢ和IV组的平均日增重显著高于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），各试验组的料重比与对照组相比分别降低 $2 . 9 0 \%$ 、 $1 . 7 4 \%$ 、 $3 . 4 8 \%$ 和 $5 . 2 3 \%$ （ $. { \cal P } { > } 0 . 0 5$ ）。试验1\~35d时，各组断奶仔猪的平均日采食量无显著差异（ $P { > } 0 . 0 5$ ），试验 $\mathrm { I I }$ 、IⅢ和IV组的平均日增重显著高于对照组（ $P { < } 0 . 0 5$ ），各试验组的料重比与对照组相比分别降低 $3 . 1 3 \%$ 、 $4 . 3 7 \%$ 、$3 . 1 3 \%$ 和 $6 . 2 5 \%$ ( $_ { \cdot \textcircled { P > } 0 . 0 5 }$ ）。
+
+# 表2蒙脱石和酵母培养复合物对断奶仔猪生长性能的影响
+
+Table 2Effects of montmorillonite and yeast culture complex on growth performance of   
+
+<html><body><table><tr><td colspan="6">weanedpiglets</td></tr><tr><td></td><td colspan="5">组别 Groups I</td></tr><tr><td>项目Items</td><td colspan="2">对照 Control</td><td colspan="3">II</td></tr><tr><td>初始体重 IBW/kg</td><td>6.81±0.15</td><td>6.76±0.12</td><td>6.77±0.08</td><td>III 6.78±0.21</td><td>IV 6.78±0.20</td></tr><tr><td>35d体重BWat 35</td><td>22.09±0.52b</td><td>22.55±0.81ab</td><td>23.46±0.84a</td><td>23.87±1.58a</td><td>23.45±0.95a</td></tr><tr><td>d/kg</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1~14 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>467.95±54.13</td><td>476.01±33.39</td><td>502.47±25.48</td><td>474.26±63.90</td><td>445.21±50.84</td></tr><tr><td>平均日增重 ADG/g</td><td>345.63±69.50</td><td>363.69±24.44</td><td>401.78±29.18</td><td>369.84±70.21</td><td>345.03±51.82</td></tr><tr><td>料重比F/G</td><td>1.38±0.17</td><td>1.31±0.03</td><td>1.25±0.03</td><td>1.29±0.12</td><td>1.30±0.05</td></tr><tr><td>15~35 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>893.79±60.20b</td><td>891.37±62.45b</td><td>936.96±77.77ab</td><td>994.37±92.85a</td><td>964.32±51.33a</td></tr><tr><td>平均日增重 ADG/g</td><td>521.31±53.17b</td><td>535.39±50.89ab</td><td>553.16±40.40a</td><td>595.97±37.06a</td><td>592.01±40.61a</td></tr><tr><td>料重比F/G</td><td>1.72±0.18</td><td>1.67±0.02</td><td>1.69±0.02</td><td>1.66±0.09</td><td>1.63±0.06</td></tr><tr><td>1~35 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>718.44±45.75</td><td>720.34±31.92</td><td>748.34±46.84</td><td>780.21±80.43</td><td>735.42±54.79</td></tr><tr><td>平均日增重 ADG/g</td><td>449.34±16.24c</td><td>464.29±26.33bc</td><td>488.56±28.33ab</td><td>502.86±44.23a</td><td>490.31±23.81ab</td></tr><tr><td>料重比F/G</td><td>1.60±0.09</td><td>1.55±0.09</td><td>1.53±0.03</td><td>1.55±0.10</td><td>1.50±0.08</td></tr></table></body></html>
+
+0 同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著  
+1 （ $\cdot P { > } 0 . 0 5$ ）。下表同。  
+2 In the same row, values with different small leter superscripts mean significant difference  
+3 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$   
+4 The same as below.
+
+# 2.2蒙脱石和酵母培养复合物对断奶仔猪血清生化指标的影响
+
+由表3可知，试验14d时，与对照组相比，各试验组断奶仔猪的血清总蛋白（TP）和白蛋白（ALB）含量有升高趋势，但差异不显著（ $P { > } 0 . 0 5$ ）；试验III和IV组的血清碱性磷酸酶（ALP）活性显著低于对照组（ $_ { . P < 0 . 0 5 }$ ），但试验I和II组的血清ALP活性与对照组相比无显著差异( $( P { > } 0 . 0 5 )$ ；各试验组的血清谷丙转氨酶(ALT)活性显著低于对照组 $( P { < } 0 . 0 5 )$ ：各组的血清谷草转氨酶（AST）活性和尿素氮（UN）含量无显著差异（ $. P { > } 0 . 0 5$ ）。试验 $3 5 \mathrm { d }$ 时，各试验组断奶仔猪的血清TP 和ALB含量与对照组相比有升高趋势，但差异不显著（ $P { > } 0 . 0 5$ ）；试验I和ⅡI组的血清ALP活性与对照组相比无显著差异（ $P { > } 0 . 0 5$ ），试验III和IV组的血清ALP活性显著低于对照组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）；试验II、III和IV组的血清ALT活性显著低于对照组 （ $_ { . P < 0 . 0 5 }$ ），试验I组的血清ALT活性与对照组相比无显著差异（ $. P { > } 0 . 0 5 \ '$ ）；各试验组的血清AST活性和UN 含量与对照组相比呈降低趋势，但无显著差异（ $. P { > } 0 . 0 5 \$ ）。
+
+表3蒙脱石和酵母培养复合物对断奶仔猪血清生化指标的影响
+
+Table 3Effects of montmorillonite and yeast culture complex on serum biochemical indexes of weaned piglets
+
+组别 Groups
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">组丽Oroups</td></tr><tr><td></td><td>对照Control</td><td>I</td><td>Ⅱ</td><td>ⅢI</td><td>IV</td></tr><tr><td>14 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/（g/L)</td><td>43.13±3.03</td><td>69.21±12.03</td><td>45.33±4.43</td><td>45.11±2.76</td><td>44.41±3.69</td></tr><tr><td>白蛋白 ALB/（g/L)</td><td>15.81±2.26</td><td>16.17±1.73</td><td>16.14±3.04</td><td>18.17±2.18</td><td>16.59±2.48</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>489.60±71.07a</td><td>482.12±117.33a</td><td>386.92±122.76ab</td><td>267.36±56.92b</td><td>308.41±116.29b</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>88.98±17.24</td><td>69.33±14.12</td><td>79.88±30.59</td><td>68.88±33.60</td><td>70.90±22.61</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>99.88±21.67a</td><td>55.16±13.96b</td><td>58.03±10.35b</td><td>44.65±16.26b</td><td>56.20±12.52b</td></tr><tr><td>尿素氮 UN/（mmol/L）</td><td>2.06±0.60</td><td>2.02±0.65</td><td>3.10±0.69</td><td>2.29±0.98</td><td>2.56±1.19</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/（g/L）</td><td>41.9±3.69</td><td>64.58±7.04</td><td>60.97±6.76</td><td>60.44±6.71</td><td>69.03±14.71</td></tr><tr><td>白蛋白 ALB/（g/L)</td><td>23.29±2.13ab</td><td>26.26±4.73ab</td><td>21.32±5.36b</td><td>25.35±4.85ab</td><td>29.35±6.87a</td></tr><tr><td>碱性磷酸酶 ALP/(U/L)</td><td>525.08±149.94a</td><td>409.30±95.92a</td><td>484.24±88.10a</td><td>291.83±64.16b</td><td>300.69±83.60b</td></tr></table></body></html>
+
+<html><body><table><tr><td>谷草转氨酶 AST/(U/L)</td><td>92.58±32.46</td><td>80.41±19.06</td><td>67.88±31.01</td><td>61.93±12.90</td><td>65.48±33.42</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>140.01±39.9a</td><td>109.01±15.49ab</td><td>98.01±40.61b</td><td>65.41±17.64c</td><td>66.28±17.18c</td></tr><tr><td>尿素氮UN/（mmol/L）</td><td>9.36±2.89</td><td>8.65±2.27</td><td>7.24±1.96</td><td>6.56±2.09</td><td>7.02±2.35</td></tr></table></body></html>
+
+109 2.3 蒙脱石和酵母培养复合物对断奶仔猪血清免疫指标的影响
+
+110 由表4可知，试验14d时，各试验组断奶仔猪的血清免疫球蛋白A（IgA）、肿瘤坏  
+111 死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）、干扰素 $- \gamma$ （INF-γ）含量均显著高于对照组（ $P { < } 0 . 0 5$ ）；试验I、I和  
+112 IV组的血清免疫球蛋白G（IgG）含量显著高于对照组（ $_ { . { P < 0 . 0 5 } }$ ）；试验Ⅰ、 $\mathrm { I I }$ 和Ⅲ组的血  
+113 清免疫球蛋白M(IgM)含量显著高于对照组 $( P { < } 0 . 0 5 )$ ；试验I组的血清白介素 $- 1 \beta$ (IL-1β)、  
+114 白介素-2（IL-2）和白介素-6（IL-6）含量显著高于对照组（ $_ { . { P < 0 . 0 5 } }$ ）；试验Ⅱ和Ⅲ组的血  
+115 清白介素-4（IL-4）含量显著高于对照组（ $P { < } 0 . 0 5$ ）。试验 $3 5 \mathrm { d }$ 时，各试验组断奶仔猪的血  
+116 清 IgG和 TNF- $\mathbf { \alpha } \cdot \mathbf { \alpha } \mathbf { a }$ 含量显著高于对照组（ $( P { < } 0 . 0 5 )$ ；各组的血清IgA含量无显著差异（ $. P { > } 0 . 0 5 )$ ；  
+117 试验I和IV组的血清 $\mathrm { I g } \mathrm { M }$ 含量显著高于对照组（ $P { < } 0 . 0 5$ ）；试验Ⅰ、 $\mathrm { I I }$ 和Ⅲ组的血清 INF- $\cdot \gamma$   
+118 和 IL-6含量显著高于对照组（ $\scriptstyle P < 0 . 0 5$ ），但试验IV组的血清INF-γ和IL-6含量与对照组相  
+119 比无显著差异（ $. P { > } 0 . 0 5$ ）；与对照组相比，试验I和Ⅱ组的血清IL-1β和 IL-4 含量无显著差  
+120 异（ $. { \cal P } { > } 0 . 0 5$ ），试验II和IV组的血清 $\mathrm { I L } \mathrm { - } 1 \beta$ 含量显著降低（ $_ { . P < 0 . 0 5 }$ ），血清IL-4含量显著升  
+121 高（ $\cdot P { < } 0 . 0 5$ ）；各组的血清IL-2含量无显著差异（ $\scriptstyle P > 0 . 0 5 .$ ）。
+
+# 表4蒙脱石和酵母培养复合物对断奶仔猪血清免疫指标的影响
+
+123 Table 4Effects of montmorillonite and yeast culture complex on serum immune indexes of   
+124 weaned piglets
+
+项目Items组别Groups
+
+<html><body><table><tr><td>Tteris</td><td>对照 Control</td><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td></tr><tr><td>14d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白AIgA/（g/L）</td><td>0.93±0.08e</td><td>1.28±0.06c</td><td>1.39±0.08b</td><td>1.48±0.04a</td><td>1.12±0.06d</td></tr><tr><td>免疫球蛋白GIgG/（g/L）</td><td>19.12±1.17b</td><td>21.19±0.91a</td><td>20.47±0.12ab</td><td>21.96±1.09a</td><td>21.14±1.54a</td></tr><tr><td>免疫球蛋白MIgM/（g/L）</td><td>2.31±0.06c</td><td>2.42±0.08ab</td><td>2.47±0.12ab</td><td>2.53±0.10a</td><td>2.40±0.14bc</td></tr><tr><td>肿瘤坏死因子-αTNF-α/</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（pg/mL）</td><td>36.68±7.07d</td><td>51.53±4.58bc</td><td>47.54±7.45c</td><td>61.02±7.28a</td><td>55.26±2.57ab</td></tr></table></body></html>
+
+<html><body><table><tr><td>干扰素-y INF-γ/（pg/mL)</td><td>23.49±5.10d</td><td>48.50±5.72a</td><td>37.66±5.67c</td><td>41.74±2.37bc</td><td>44.57±4.11ab</td></tr><tr><td>白介素-1β IL-1β/（pg/mL)</td><td>27.28±7.79bc</td><td>34.89±3.20a</td><td>24.28±4.31cd</td><td>19.65±1.78d</td><td>30.38±2.56ab</td></tr><tr><td>白介素-2IL-2/（pg/mL）</td><td>52.77±8.18bc</td><td>62.50±1.90a</td><td>47.34±7.63c</td><td>31.47±7.71d</td><td>55.22±2.12ab</td></tr><tr><td>白介素-4IL-4/（pg/mL）</td><td>15.03±1.29b</td><td>12.93±1.40c</td><td>15.80±1.53a</td><td>16.09±0.93a</td><td>14.22±0.51bc</td></tr><tr><td>白介素-6 IL-6/（pg/mL）</td><td>168.37±13.07bc</td><td>194.16±17.83a</td><td>155.69±16.07c</td><td>129.97±6.89d</td><td>176.60±6.73b</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白AIgA/（g/L)</td><td>1.09±0.18</td><td>1.29±0.26</td><td>1.34±0.27</td><td>1.21±0.20</td><td>1.22±0.14</td></tr><tr><td>免疫球蛋白GIgG/（g/L）</td><td>19.43±1.34b</td><td>24.46±1.02a</td><td>22.96±1.78a</td><td>22.81±2.18a</td><td>24.14±0.97a</td></tr><tr><td>免疫球蛋白MIgM/（g/L）</td><td>2.30±0.31b</td><td>2.48±0.27a</td><td>2.39±0.26ab</td><td>2.36±0.75ab</td><td>2.43±0.29a</td></tr><tr><td>肿瘤坏死因子-αTNF-α/</td><td>32.05±7.00c</td><td>61.11±8.17ab</td><td>56.79±13.05ab</td><td>66.58±18.09a</td><td>47.44±5.72b</td></tr><tr><td>（pg/mL）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干扰素-y INF-γ/ (pg/mL)</td><td>26.82±6.64c</td><td>41.72±11.85ab</td><td>48.00±15.84ab</td><td>54.46±11.47a</td><td>32.71±18.48bc</td></tr><tr><td>白介素-1β IL-1β/（pg/mL)</td><td>31.17±6.71a</td><td>38.30±4.45a</td><td>35.13±8.80a</td><td>16.15±3.66b</td><td>18.64±8.40b</td></tr><tr><td>白介素-2IL-2/（pg/mL)</td><td>36.72±12.22ab</td><td>42.73±5.76a</td><td>40.76±9.17a</td><td>27.07±6.13b</td><td>33.41±11.03ab</td></tr><tr><td>白介素-4 IL-4/（pg/mL）</td><td>7.29±0.77℃</td><td>9.77±3.14bc</td><td>9.98±3.78bc</td><td>12.90±1.12a</td><td>11.82±0.61ab</td></tr><tr><td>白介素-6 IL-6/（pg/mL）</td><td>93.32±14.93c</td><td>137.35±10.02ab</td><td>159.46±33.63a</td><td>128.40±15.90b</td><td>112.06±27.62bc</td></tr></table></body></html>
+
+125 2.4蒙脱石和酵母培养复合物对断奶仔猪血清抗氧化指标的影响
+
+126 由表5可知，试验14d时，试验ⅡI和III组断奶仔猪的血清总抗氧化能力（T-AOC）显  
+127 著高于对照组（ $P { < } 0 . 0 5$ ）；各试验组的血清谷胱甘肽过氧化物酶（GSH $\mathbf { \nabla \cdot P x }$ ）和超氧化物歧  
+128 化酶（SOD）活性显著高于对照组（ $\scriptstyle - 0 . 0 5$ ）；各组的血清丙二醛（MDA）含量无显著差  
+129 异 $( P { > } 0 . 0 5 )$ 。试验 $3 5 \mathrm { d }$ 时，试验III和IV组断奶仔猪的血清T-AOC 显著高于对照组( $_ { , P < 0 . 0 5 ) }$ ，  
+130 但试验I和ⅡI组的血清T-AOC与对照组相比无显著差异 $( P { > } 0 . 0 5 )$ ；各试验组的血清GSH-Px  
+131 活性与对照组相比无显著差异（ $P { > } 0 . 0 5$ ）；试验II组的血清 SOD 活性显著高于对照组  
+132 （ $\cdot P { < } 0 . 0 5$ ）；各试验组的血清MDA含量显著低于对照组（ $. P { < } 0 . 0 5$ ）。
+
+# 表5蒙脱石和酵母培养复合物对断奶仔猪血清抗氧化指标的影响
+
+Table 5Effects of montmorillonite and yeast culture complex on serum antioxidant indexes of
+
+<html><body><table><tr><td>项目 Items</td><td>对照 Control</td><td>I</td><td>I</td><td>ⅢI</td><td>IV</td></tr><tr><td>14d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC/（U/mL)</td><td>8.90±0.47c</td><td>10.26±1.61bc</td><td>11.53±0.32ab</td><td>12.12±2.23a</td><td>9.78±0.23c</td></tr><tr><td>谷胱甘肽过氧化物酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GSH-Px/(U/mL)</td><td>823.22±45.26</td><td>919.82±19.58ab</td><td>929.77±21.05ab</td><td>957.71±28.00a</td><td>889.24±59.09b</td></tr><tr><td>超氧化物歧化酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOD/(U/mL)</td><td>56.45±13.16d</td><td>82.43±5.92bc</td><td>89.26±4.89ab</td><td>95.44±3.91a</td><td>76.55±9.77c</td></tr><tr><td>丙二醛</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MDA/（nmoL/mL）</td><td>4.11±0.27abc</td><td>4.72±0.71a</td><td>3.89±0.64bc</td><td>3.54±0.33c</td><td>4.46±0.28ab</td></tr><tr><td>35 d</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC/（U/mL)</td><td>8.15±1.27c</td><td>11.02±2.96abc</td><td>9.84±1.81bc</td><td>13.65±2.12a</td><td>12.15±4.10a</td></tr><tr><td>谷胱甘肽过氧化物酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GSH-Px/(U/mL)</td><td>966.60±159.40ab</td><td>1012.21±146.61a</td><td>831.90±113.98b</td><td>1 106.36±121.46a</td><td>1 069.95±146.09</td></tr><tr><td>超氧化物歧化酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOD/(U/mL)</td><td>86.36±31.42b</td><td>91.77±7.29b</td><td>81.53±8.47b</td><td>119.65±17.87a</td><td>98.18±15.35ab</td></tr><tr><td>丙二醛</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MDA/（nmoL/mL）</td><td>6.36±1.36a</td><td>5.38±0.73b</td><td>4.69±0.53bc</td><td>3.99±0.47c</td><td>4.24±0.20c</td></tr></table></body></html>
+
+3讨论
+
+3.1蒙脱石和酵母培养复合物对断奶仔猪生长性能的影响
+
+本试验发现断奶仔猪饲粮中添加蒙脱石和酵母培养复合物对断奶仔猪的生长性能有一定的促进作用。郭彤等[16]在断奶仔猪饲粮中添加载铜改性蒙脱石，发现能显著提高其生长性能和饲料转化率。刘美容[17]在断奶仔猪饲粮中添加 $1 ~ 0 0 0 , ~ 2 ~ 0 0 0 , ~ 4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 的经过插层处理的改性蒙脱石，结果表明，添加改性蒙脱石与添加 $1 5 0 \mathrm { m g / k g }$ 的金霉素效果相当，且以添加 $2 ~ 0 0 0 { \sim } 4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 改性蒙脱石效果最佳。 $\mathrm { H u }$ 等[18]研究发现，饲粮中添加蒙脱石和
+
+ZnO 对仔猪生长性能的改善效果相当。Tang 等[19]在小猪饲粮中补充硅铝酸盐黏土矿，发现能显著改善小猪的生长性能，提高营养物质的消化率，从而显著提高小猪的平均日增重。Ke 等[20]研究改性蒙脱石替代金霉素在饲粮中的添加效果，发现其能显著提高断奶仔猪的生长性能，并降低空肠内容物中大肠杆菌及链球菌的数量。本试验研究发现，试验15\~35d时，试验II和IV组断奶仔猪的平均日采食量显著高于对照组和试验I组，试验II、II和IV组的平均日增重显著高于对照组；试验 $1 { \sim } 3 5 \mathrm { d }$ 时，试验II、IⅢ和IV组的平均日增重显著高于对照组。因此,饲粮中添加 $1 . 5 \mathrm { k g / t }$ 蒙脱石和酵母培养复合物可以替代 $0 . 7 \mathrm { k g / t }$ 抗生素或 $3 ~ \mathrm { k g / t } ~ \mathrm { Z n O }$ 在断奶仔猪生长中的作用。
+
+# 3.2 蒙脱石和酵母培养复合物对断奶仔猪血清生化指标的影响
+
+血液是动物机体内环境的重要组成部分，血液理化指标的改变可反映动物机体和器官的代谢和健康状况[21]。血清 TP含量在一定程度上可以反映机体的营养状况和动物对蛋白质的消化代谢程度，一般来说，机体的营养状况良好，蛋白质合成增加，血清 TP含量升高[22]。断奶仔猪饲粮中添加新型蒙脱石能显著提高腹泻仔猪的血液红细胞数量和血红蛋白含量，改善机体贫血状态，增强体质[23]。当动物生长迅速、代谢增强时，血液中就需要相对较多的带极性基团的ALB来运输合成体组织的原料及代谢废物，当肝脏中蛋白质合成障碍时血清ALB 含量降低[24]。研究认为，仔猪饲粮中添加 $3 ~ 0 0 0 ~ \mathrm { m g / k g / m O }$ 可提高血清 TP含量，降低血清UN 含量[25-26]；武力等[27]在断奶仔猪饲粮中添加纳米蒙脱石的研究也得到了相似的结论。本试验研究表明，各试验组断奶仔猪的血清 TP 和ALB 含量与对照组相比呈升高趋势，但差异不显著，这表明饲粮中添加蒙脱石和酵母培养复合物可替代抗生素或 $z _ { \mathrm { n O } }$ ，改善仔猪机体的蛋白质代谢。UN是蛋白质代谢的终产物，反映机体的营养状况，可作为衡量机体蛋白质分解代谢的指标。一般来说，血液UN含量升高，蛋白质的沉积率下降[28]。本试验中，试验35d时，各试验组断奶仔猪的血清UN含量与对照组相比呈降低趋势，这说明饲粮中添加蒙脱石和酵母培养复合物有可能提高断奶仔猪机体蛋白质的沉积。ALT 和AST 是动物体内最重要的2种转氨酶，当肝脏受损时，血液 ALT 和AST 活性升高。杨荣芳等[29]研究发现，饲粮中添加纳米载铜蒙脱石使生长肥育猪的血清ALT活性显著升高，但对 AST 活性无显著影响。也有试验表明，饲粮中添加蒙脱石对泌乳母牛的血清ALT和AST 活性无显著影响[30]。本试验研究表明，试验ⅡI、II和IV组断奶仔猪的血清 ALT 活性显著低于对照组，各试验组的血清AST活性与对照组相比呈降低趋势，这表明饲粮中添加蒙脱石和酵母培养复合物对仔猪肝脏具有一定的保护作用。ALP作为消化代谢的关键酶，能促进磷酸钙在骨骼中的贮存，从而参与骨骼钙化过程，是反映健康动物成骨细胞活动的一个指标[31]。ALP 活性与锌（Zn）水平密切相关，可以作为评价Zn水平的一个指标[32]。本试验发现，试验III和IV组断奶仔猪的血清ALP活性显著低于对照组，但试验I和 $\mathrm { I I }$ 组的血清ALP活性与对照组相比无显著差异，这表明饲粮中添加蒙脱石和酵母培养复合物对ALP活性的影响效果与抗生素相近，但低于 ZnO的效果，这与武力等[27研究结果相一致，其机理还有待进一步探讨。
+
+3.3蒙脱石和酵母培养复合物对断奶仔猪血清免疫指标的影响
+
+免疫球蛋白是介导动物体液免疫的主要免疫分子，也是反映机体免疫功能的重要指标，血清中IgA、IgM和IgG 含量升高表明机体免疫功能增强。研究发现，断奶仔猪饲粮中添加高剂量酵母细胞壁能提高其血清 IgA 和IgG 含量[334]。本试验研究表明，各试验组断奶仔猪的血清IgA、IgG 和IgM 含量均高于对照组，由此表明蒙脱石和酵母培养复合物对免疫球蛋白含量的影响效果优于抗生素和 $z _ { \mathrm { n O } }$ 。酵母源β-葡聚糖是非特异性免疫刺激多糖，能够刺激细胞毒性T淋巴细胞（CTL）、B细胞、巨噬细胞和自然杀伤细胞（NK）[35]。巨噬细胞是机体免疫系统的一种重要免疫细胞，在特异性免疫应答的诱导和调节中起关键作用。活化的巨噬细胞可分泌多种生物活性物质，如白介素-1（IL-1）和TNF- $\mathfrak { a }$ 等。基于细胞因子表达不同， $\mathrm { C D 4 } ^ { + }$ 淋巴细胞可分为 Th1和Th2 细胞[36]。Th1 细胞分泌的IL-2 和 IFN-γ可协助T细胞的增殖，启动细胞介导的免疫反应[37]。酵母多糖能促进小鼠T、B细胞的增殖反应，产生IL-1、IL-2，从而增强小鼠对细菌的杀伤力[38]。本试验结果显示，与对照组相比，各试验组断奶仔猪的血清 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、 $\mathrm { I F N } _ { - \gamma }$ 、IL-1β、IL-2、IL-4、IL-6 含量均升高，且以试验I和IV组的效果最显著。这说明酵母培养物既能促进仔猪T淋巴细胞产生IL-2、IL-4、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ ，又能促进单核/巨噬细胞产生 $\mathrm { I F N } { - } \gamma$ 、IL-1β、IL-6，这与陈鹏等[39]在保育仔猪和廖冰麟[40]在肉仔鸡的研究结果相一致。由此推断，饲粮中添加蒙脱石和酵母培养复合物替代 $z _ { \mathrm { n O } }$ 或抗生素能提高血清 TNF- $\mathbf { \sigma } \cdot \mathbf { a }$ 、 $\mathrm { I F N } _ { - \gamma }$ 、IL $1 \beta$ 、IL-2、IL-4、IL-6 含量，促进 T淋巴细胞和单核/巨噬细胞增殖，有效提高仔猪免疫功能。
+
+3.4蒙脱石和酵母培养复合物对断奶仔猪血清抗氧化指标的影响血液中T-AOC、GSH-Px和 SOD活性及MDA含量可在一定程度上反映机体的抗氧化
+
+能力[41]。T-AOC 是反映机体抗氧化能力高低的重要指标[42]。SOD 是抗氧化损伤防御体系中最重要的抗氧化酶。MDA是脂质过氧化反应的最终代谢产物，其含量的高低可以反映脂质的过氧化水平，在一定程度上间接反映细胞损伤的程度[43]。马元山等[44]在育肥猪和罗龙军[45]在肉鸡研究发现酵母培养物能显著提高动物的抗氧化能力。本试验研究表明，试验14d时，试验 $\mathrm { I I }$ 和III组断奶仔猪的血清 T-AOC、GSH-Px 和 SOD 活性显著高于对照组；试验 35 d时，试验III组的血清 T-AOC 和 SOD 活性显著高于对照组，各试验组的血清 MDA 含量显著低于对照组。酵母培养物发挥抗氧化作用可能与其含有多种维生素（维生素C、维生素E等）及微量元素[硒（Se）、Zn、铜（Cu）]、酶和未知因子等营养物质有关[46]。维生素C是一种水溶性抗氧化剂，能有效清除机体内自由基，从而保护机体免受自由基的破坏[47]。维生素 E的羟基释放一个 $\mathrm { H ^ { + } }$ 使其与自由基结合，从而抑制脂质氧化的链式反应,减少MDA的产生[48]。SOD 属于金属蛋白酶，可与酵母培养物中的Cu、Zn、锰（Mn）结合生成铜锌超氧化物歧化酶（Cu-ZnSOD）、锰超氧化物歧化酶（Mn-SOD），也可催化超氧化物阴离子自由基，歧化为过氧化氢，解除超氧化物氢离子对机体的损害[49]。由此可以得出，蒙脱石和酵母培养复合物在抗氧化方面可以替代抗生素或 ZnO，且提高机体的抗氧化能力。  
+4结论  
+饲粮中添加蒙脱石和酵母培养复合物可提高断奶仔猪的平均日采食量和平均日增重，改善仔猪的生长性能，提高仔猪的抗氧化能力和免疫功能。综合本试验结果，添加 $1 . 5 \mathrm { k g / t }$ 蒙脱石和酵母培养复合物可达到替代抗生素或 ZnO 的效果。  
+参考文献:  
+[1]杨华,易松强,徐娥,等.早期断奶对仔猪糖原含量以及肝脏糖异生和糖酵解相关基因表达的影响[J].动物营养学报,2018,30(3):1019-1026.  
+[2]穆淑琴,李宁.抗生素替代物对仔猪健康的影响[J].粮食与饲料工业,2017(8):49-54.[3]袁栋,吴金龙.高剂量氧化锌应用于仔猪日粮的若干问题[J].猪业科学,2015,32(9):76-77.[4]BARTON M D.Antibiotic use in animal feed and its impact on human healt[J].NutritionResearch Reviews,2000,13(2):279-299.  
+[5]姜淑贞,杨维仁,杨在宾,等.玉米赤霉烯酮污染日粮添加改性蒙脱石对断奶仔猪免疫指标的影响[J].中国农业科学,2012,45(16):3382-3390.
+
+224 [6]KIM S G,DAI W,XU Z R,et al.Effects of montmorillonite on alleviating dietary cd-induced  
+225 oxidativedamageincarp (Carassiusauratus)[J].BiologicalTraceElement  
+226 Research,2011,141(1/2/3):200-206.  
+227 [7]陈继发,彭灿阳,曲湘勇,等.蒙脱石对产蛋鸡生产性能和盲肠菌群的影响[J].动物营养学  
+228 报,2017,29(11):4026-4035.  
+229 [8]黄瑞钦,晏小勇,潘博庆,等.纳米蒙脱石治疗仔猪腹泻的临床效果分析[J].中国动物保  
+230 健,2017,19(6):52-53.  
+231 [9]王聪,周凌云,董淑慧.蒙脱石主要作用机理及其在反刍动物生产中的应用研究进展[J].中  
+232 国畜牧兽医,2012,39(8):108-111.  
+233 [10]郭勇庆,张英杰.酵母培养物在反刍动物上的应用[J].北方牧业,2008(16):9.  
+234 [11]张嘉琦,秦玉昌,李军国,等.酵母培养物对产蛋鸡生产性能、蛋品质及鸡蛋卫生指标的影  
+235 响[J].动物营养学报,2017,29(9):331-3340.  
+236 [12]刁程,李莉.酵母培养物在家禽(鸡)上的应用[J].家禽科学,2016(1):53-55.  
+237 [13]张连忠.酵母培养物对蛋鸡生产性能及蛋品质的影响[J].饲料研究,2011(6):54-55.  
+238 [14] 郭小华,刘明,李文辉,等.酵母培养物对断奶仔猪生长性能、粪便菌群和血液指标的影响  
+239 [J].中国畜牧杂志,2017,53(6):106-111.  
+240 [15]金晓琳,李奎,黄林,等.酵母培养物在动物生产中的研究与应用[J].饲料研  
+241 究,2017(16):7-10,25.  
+242 [16]郭彤,吴艳,李晓晨,等 $C { \tt u } ^ { 2 + } / Z \mathrm { n O - }$ 蒙脱石对断奶仔猪生长性能、肠道菌群、黏膜二糖酶  
+243 活性及肠黏膜形态的影响[J].中国畜牧杂志,2016,52(17):48-53,59.  
+244 [17]刘美容.改性蒙脱石对断乳仔猪的饲喂效果研究[J].福建畜牧兽医,2008,30(2):3-4.  
+245 [18]HU C H,GU L Y,LUAN Z S,et al.Effects of montmorillonite-zinc oxide hybrid on  
+246 performance,diarrhea,intestinal permeability and morphology of weanling pigs[J].Animal Feed  
+247 Science and Technology,2012,177(1/2):108-115.  
+248 [19]TANG C H,WANG X Q,ZHANG J M.Effects of supplemental palygorskite instead of zinc  
+249 oxide on growth performance,apparent nutrient digestibility and fecal zinc excretion in weaned  
+250 piglets[J].Animal Science Journal,2014,85(4):435-439.  
+51 [20]KE Y L,JIAO L F,SONG Z H,et al.Effects of cetylpyridinium-montmorillonite,as  
+52 alternative to antibiotic,on the growth performance,intestinal microflora and mucosal architecture  
+53 of weaned pigs[J].Animal Feed Science and Technology,2014,198:257-262.  
+54 [21] 黄丽.腹泻仔猪生长性能和血液指标特征及灌服粪肠球菌对其影响[D]．硕士学位论文.  
+55 南京:南京农业大学,2015.  
+56 [22]崔斌.日粮苏氨酸水平对家兔生产性能、氮代谢和血液生化指标的影响[D].硕士学位论  
+57 文.泰安:山东农业大学,2013.  
+58 [23]胡屹屹,苏永腾,何孔旺.新型蒙脱石对仔猪生长性能和血常规的影响[J].西南农业学  
+59 报,2014,27(4):1777-1780.  
+60 [24] 岳双明.不同蛋白水平日粮添加高锌对早期断奶仔猪生产性能、抗氧化作用和肠道粘膜  
+61 免疫的影响[D].硕士学位论文.雅安:四川农业大学,2008.  
+62 [25]许梓荣,王敏奇.高剂量锌促进猪生长的机理探讨[J].畜牧兽医学报,2001,32(1):11-17.  
+63 [26]王敏奇,许梓荣.饲粮中添加高剂量无机锌对断奶仔猪消化性能的影响[J].中国畜牧杂  
+64 志,2003,39(1):15-16.  
+65 [27]武力,代发文,王修启,等.纳米蒙脱石替代氧化锌对断奶仔猪血清生化指标及粪中锌含  
+66 量的影响[J].华北农学报,2009,24(4):197-200.  
+67 [28] 邱玉朗,万伶俐,刘海燕,等.杂粕日粮中添加复合酶制剂对仔猪生长、代谢和血液指标的  
+68 影响[J].中国畜牧兽医,2010,37(7):5-8.  
+69 [29]杨荣芳,郝生宏,王敏奇,等.纳米载铜蒙脱石对生长肥育猪生产性能及血液生化指标的  
+70 影响[J].中国畜牧兽医,2010,37(2):40-43.  
+71 [30]张建刚,赵国琦,林淼,等.日粮霉菌毒素吸附剂添加水平对奶牛营养物质表观消化率和  
+72 血液指标的影响[J].中国畜牧杂志,2012,48(23):44-48.  
+73 [31] 谭兵兵,姬玉娇,丁浩,等.低聚木糖对断奶仔猪生长性能、腹泻率和血浆生化参数的影响  
+74 [J].动物营养学报,2016,28(8):2556-2563.  
+75 [32]沈慧,秦海宏,王福悌,等.锌营养状况评价指标研究进展[J].国外医学:卫生学分  
+76 册,2006,33(5):291-296.  
+77 [33]许飞龙,褚青坡,李会智,等.酵母细胞壁多糖对断奶仔猪生产性能和免疫性能的影响[J].
+
+畜牧与兽医,2016,48(11):43-47.   
+[34]陈生龙,林东文,李宋钰.酵母添加水平对断奶仔猪生产性能和免疫功能的影响[J].畜牧 与兽医,2009,41(6):47-49.   
+[35]CROSS G G,JENNINGS H J,WHITFIELD D M,et al.Immunostimulant oxidized $\beta$ glucan conjugates[J].International Immunopharmacology,2001,1(3):539-550.   
+[36]EALESL J.Immunology for lifescientists[M].2nd ed.Hoboken,NJ:John Wiley& Sons,Ltd,2003.   
+[37] 郭哲,高兴华,王雅坤,等.甘草甜素下调接触性皮炎小鼠血清 IFN-γ的水平[J].细胞与分 子免疫学杂志,2013,29(3):280-281.   
+[38]李凡,石艳春,官显智,等.啤酒酵母多糖对小鼠免疫细胞功能的影响[J].白求恩医科大学 学报,1998,24(2):124-126.   
+[39] 陈鹏,陶冶.不同添加水平酵母培养物对保育仔猪生长性能和血清免疫指标的影响[J].饲 料工业,2017,38(14):13-16.   
+[40]廖冰麟.酵母细胞壁对免疫抑制状态下肉仔鸡生长性能和免疫功能的影响[D].硕士学 位论文.武汉:华中农业大学,2009.   
+[41]郝瑞荣,高俊杰,王伟伟,等.高梁原花青素对断奶仔猪生长性能和免疫力及抗氧化功能 的影响[J].中国畜牧杂志,2015,51(13):66-70.   
+[42]何贝贝,姜建阳,于光辉,等.丝兰提取物对断奶仔猪生长性能、血清抗氧化和免疫指标、 粪便中氮磷排放量及微生物数量的影响[J].动物营养学报,2017,29(8):2791-2799.   
+[43]李志明,周岩民,吴秋珏.不同粒度低聚木糖对断奶仔猪生产性能、血清生化、抗氧化和 粪便微生物的影响[J].粮食与饲料工业,2016,12(4):63-66.   
+[44]马元山,蔡东东,周明,等.酵母培养物在育肥猪中应用效果[J].安徽农业大学学   
+报,2017,44(4):598-603.   
+[45]罗龙军.酵母细胞壁对黄羽肉鸡生长性能、免疫及抗氧化功能的影响[D].硕士学位论文. 广州:华南农业大学,2016.   
+[46] 陈作栋,周珊,赵向辉,等.酵母培养物对生长期锦江黄牛生产性能、抗氧化能力及免疫性 能的影响[J].动物营养学报,2017,29(5):1767-1773. [47] 王月明,于振海,陈仲全,等.维生素C 对衰老大鼠红细胞抗氧化能力的修复作用及其机 制探讨[J].中国细胞生物学学报,2017,39(1):21-27.   
+[48]陈文燕.维生素E 和磷对杂交生长、抗氧化能力及血清生化指标的影响[D].硕士学位 论文.重庆:西南大学,2016.   
+[49]梅光泉,应惠芳.超氧化物歧化酶中微量元素的化学行为和生物学功效[J].微量元素与健 康研究,2003,20(5):59-62.   
+Effects of Montmorillonite and Yeast Culture Complex on Growth Performance, Serum Biochemical Indexes, Immunity Function and Antioxidant Capacity of Weaned Piglets TANG Xiaoyi1MA JielCHEN Fuqun1 CHEN Qinghua1\* JIFang² CHEN Wenbin³ WANG Bing3   
+(1. College of Animal Secience and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Amlan International, Chicagao 60611,USA; 3.Hunan Baiyi Feed Technology Co, Ltd., Liuyang 410300, China)   
+Abstract: The study was conducted to investigate the effects of dietary montmorillonite and yeast culture complex replaced antibiotics (AB) and zinc oxide $( Z \boldsymbol { \mathrm { n O } } )$ ）on growth performance， serum biochemical indexes, immunity function and antioxidant capacity of weaned piglets. One hundred and eighty 31-day-old “DurocxLangdrancexLargewhite” weaned piglets with average body weight of $( 6 . 7 8 { \pm } 0 . 1 9 \$ ） kg were randomly assigned to 5 groups with 6 replicates per group and 6 piglets per replicate (males and female in half). Piglets in control group were fed the basal diets supplemented with AB ( $5 0 0 \ \mathrm { g / t } \ 1 5 \%$ chlortetracycline and $2 0 0 ~ \mathrm { g / t }$ （204号 $50 \%$ olaquindox) and $Z _ { \mathrm { { n O } } }$ (3 $\mathrm { k g / t ) }$ ,and the others in experimental groupsI， II， III and IV were fed the basal diets supplemented with AB, $Z _ { \mathrm { { n O } } }$ and montmorillonite and yeast culture complex $( 1 . 5 ~ \mathrm { k g / t } )$ ， $Z _ { \mathrm { { n O } } }$ and montmorillonite and yeast culture complex, AB and montmorillonite and yeast culture complex, montmorilonite and yeast culture complex, respectively. The experiment lasted for 35 days. The results showed as follows: 1） average daily feed intake (ADFI) of weaned piglets in experimental groups II and IV was significantly higher than that in control group and experimental groupI
+
+at 15 to 35 days $( P { < } 0 . 0 5 )$ , and average daily gain (ADG) in experimental groups Il， Il and IV was significantly higher than that in control group at 15 to 35 days and 1 to 35 days $( P { < } 0 . 0 5 )$ . 2) Compared with control group, at 14 and 35 days, alkaline phosphatase (ALP) activity in serum of weaned piglets in experimental groups II and IV was significantly decrased $( P { < } 0 . 0 5 )$ , and alanine aminotransferase (ALT) activity in serum in experimental groups I， Il and $\mathrm { I V }$ was significantly decreased $( P { < } 0 . 0 5 )$ . There were no significant differences in the contents of total protein (TP)， albumin (ALB） and urea nitrogen (UN） and aspartate aminotransferase (AST) activity in serum in all groups $\mathrm { \langle } P { > } 0 . 0 5$ ). 3）Compared with control group,at 14 days,the contents of immunoglobulin A (IgA), tumor necrosis factor $\mathbf { \nabla } \cdot \mathbf { a }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）and interferon- $\cdot \gamma$ (INF-γ) in serum of weaned piglets in all experimental groups were significantly increased $( P { < } 0 . 0 5 )$ ,the contents of immunoglobulin M (IgM) and interleukin-4 (IL-4) in serum in experimental groups II and III were significantly increased $( P { < } 0 . 0 5 )$ , and the contents of interleukins- $1 \beta$ (IL-1β), interleukins-2 (IL-2)and interleukins-6 (IL-6) in serum in experimental group I were significantly increased （ $( P { < } 0 . 0 5 )$ . At 35 days, the contents of IgG and TNF $\mathbf { \alpha } _ { \cdot } \mathbf { \{ \alpha \} } _ { }$ in serum in all experimental groups were significantly increased $( P { < } 0 . 0 5 )$ , IgM content in serum in experimental groups I and IV was significantly increased $( P { < } 0 . 0 5 )$ ， and the contents of INF- $\cdot \gamma$ and IL-6 in serum in experimental groups I， II and III were significantly increased $( P { < } 0 . 0 5 )$ . 4) Compared with control group, at 14 days, total antioxidant capacity (T-AOC) in serum of weaned piglets in experimental groups Iand II was significantly increased $( P { < } 0 . 0 5 )$ ，and the activities of glutathione peroxidase (GSH-Px) and superoxide dismutase (SOD) in serum in all experimental groups were significantly increased $( P { < } 0 . 0 5 )$ . At 35 days, T-AOC in serum in experimental groups II and IVwas significantly increased $( P { < } 0 . 0 5 )$ ，SOD activity in serum in experimental group IIwas significantly increased $( P { < } 0 . 0 5 )$ ， and malondialdehyde (MDA） content in serum in all experimental groups was significantly decreased $( P { < } 0 . 0 5 )$ . It can be seen that diets supplemented with montmorillonite and yeast culture complex can improve growth performance, immune function and antioxidant capacity of weaned piglet.

@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "动作理解因境而异：动作加工中情境信息的自动整合",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨亦松1 林静1 何晓燕1 尹军\\*\\*1(1宁波大学心理学系暨研究所，宁波，315211)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对动作理解的机制，模拟论主张大脑自发模拟他人的动作，就相同的动作其理解也相同，而理论论则认为人们基于合理性原则对他人动作进行推理，相同的动作发生在不同的情境时会有不同的理解。但目前所采用动作材料的运动学特性和发生情境存在共变，其难以区分动作理解是支持模拟论还是理论论。通过两项实验，采用动画制作技术来产生有无约束情境下的追逐动作，以指示动作加工过程的脑电 $\\mu$ 抑制为指标，对前述两种观点进行了检验。其中，在约束情境中存在障碍物，追逐者需改变运动方向以绕过障碍物，从后方逐渐趋近目标；而无约束情境中不存在障碍物，但追逐者依然保持与存在约束情景下相同的运动模式。结果发现，当追逐动作发生在存在约束的情境时，其可基于合理性原则推测清晰的动作目标，该条件下的 $\\mu$ 抑制程度高于不存在约束情境的条件(实验一)；而当仅追逐者运动，即趋近的目标不确定时，虽然有约束和无约束情境间的物理差异与实验一相同，但条件间 $\\mu$ 抑制的差异消失(实验二)。其上述 $\\mu$ 抑制并非与注意相关的枕叶 $\\alpha$ 活动的泛化。该结果提示，动作发生的情境信息影响人们对动作的理解，即基于推理过程理解动作，支持理论论观点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 动作理解；追逐动作；情境；模拟论；理论论； $\\mu$ 抑制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会交互是人类生活的重要组成部分(Miller,2001)。为顺利地与他人交互，人们需对他人的动作进行加工，以理解和识别动作的目的和意图，从而有效预测他人的行为并计划自己的行为(Hauser& Wood,2010;Wellman,Cross,&Watson,2001)。如：足球比赛中需时刻加工对手的运球动作，以判断其目的是传球还是射门等。该能力的受损将严重影响人们的日常生活，如：自闭症患者被发现在加工和识别动作意图上存在缺陷(CarterLeno et al,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019;Klin,Jones,Schultz,& Volkmar,2003)。然而，动作加工中人们所能观察的是他人在物理层面的运动模式信息，但需对其背后的目的和意图进行解读，其过程存在高度的不确定性(Ullman, Baker, Macindoe,Evans, Goodman,& Tenenbaum, 2Oo9; Jara-Etinger, Gweon,Schulz,&Tenenbaum,2016)。例如：当小李在步行时不断趋近小王，其即可解释为小王是小李欲追赶的对象，也可解读为小李只是在赶路，恰巧靠近小王而已。因此，人们如何理解动作一直是认知科学研究关注的难点问题之一。该问题所揭示的规律被认为对探明人类的心智系统和构建具有社会能力的机器人具有关键作用(Blakemore&Decety,2001)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对动作理解的机制，目前较有影响的理论之一是模拟论(simulation theory)，其也被称为直接匹配假说(direct matching; Gallese & Goldman,1998; Rizzolatti & Craighero,2004；叶浩生,2016)。该理论认为，人们将他人的动作与自己的动作表征自动进行匹配，即内部自发模拟他人的动作，以实现对动作的理解，故动作的运动学特性决定了对动作的理解。这一理论的主要支撑证据来自镜像神经元/系统的发现(Rizzolatti,Fogassi,&Gallese，2001)。DiPellegrino 等(1992)发现，当猕猴观察他人动作时，在前运动皮层的激活模式与自身执行该动作所激活的模式相同。进一步研究发现，镜像神经元是动作加工的神经基础，基于该镜像式的模拟机制实现对动作理解 (Fogassi et al.,2005; Gallese,Fadiga,Fogassi,&Rizzolatti,1996)。后续研究在人类身上也发现了类似的神经基础，其被称为镜像神经系统，主要包括顶下小叶(inferior parietal lobule)和额下回(inferior frontal gyrus)或前运动皮层(premotor cortex)等(Iacoboni etal.,1999;Rizzolatti&Craighero,2004)。同时研究者发现，当与他人交互时，人们会自动模仿对方的坐姿、表情与言语等，其被称为变色龙效应(Chartrand&Bargh,1999)。且当他人手指、手臂等动作与自身动作不一致时，会干扰人们自身行为的执行(Dijkerman&Smit,2007; Kilner,Paulignan,& Blakemore,2003)。这些研究显示，观察他人的动作激活了自身相同的动作表征，从而自动产生模仿行为。更重要的是，虽然3个月大的婴儿一般很难理解动作的目的，然而当给予婴儿足够的接触玩具的机会(即把玩具作为目标)或有机会去执行抓握玩具的动作后，则习得理解动作的能力(Sommerville,Woodward,& Needham,2005)。模拟论的匹配加工特性不仅意味着观察他人动作会激活自身相同的动作表征，且认为所要匹配和模拟的动作越多，人们所需要的认知资源越多。该推测获得了新近研究的支持，其发现加工多个人动作时镜像神经系统的激活强度高于加工一个人的动作(Cracco,De Coster,Andres,&Brass,2016)。上述研究共同表明，模拟论所提出对动作特定的直接匹配过程是动作理解的关键机制。由于直接匹配决定了对动作的理解，故运动学特性相同的动作对其理解结果也相同；反之，对运动学特性不同的动作,其加工结果存在差异(Csibra,2007;Rizzolatti&Craighero,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2004)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究者对模拟论提出了质疑，因为其难以解释镜像神经元或系统的某些激活模式(Brass,Schmitt, Spengler,& Gergely,2007; Csibra,2007)。Gallese 等(1996)发现猕猴在观察实验员假装去拿物体(该物体并不存在)时，镜像神经元并没有激活。该结果与模拟论的预测不一致，因为假装去拿物体和真正去拿物体的运动学特性基本相同，而后者则可激活镜像神经元。在人类被试上，研究者也发现，对于几乎具有相同运动学特性的动作，抓握目标存在时在镜像神经系统的激活强度高于目标不存在的情境(Koskietal.,2002)。即对于具有相同运动特性的动作，当其及物还是不及物时，对其理解结果不同。甚至，对于抓握动作，因情境信息不同而被解读为不同意图时，其在镜像神经系统的激活也不一样，如：抓握茶杯的动作，在茶杯中装满咖啡时可被理解为喝茶的意图，而茶杯中无咖啡且存在食物残渣时被理解为清扫的意图(Iacoboni etal.,2005)。上述结果表明，对动作特性的直接匹配并非决定动作理解的结果，而是受到动作之外信息的影响；不然，对于相同的动作其在镜像神经系统的激活模式应相当。因此，有研究者提出，人们在理解行为时不是将观察到的动作与自身的动作进行匹配，而是对其进行推理，从而获得他人为什么执行该行为的原因(即目的或意图)，从而提出了动作理解的理论论(theory theory; Gergely& Csibra,2003; Jacob & Jeannerod,2005；叶浩生,2016)。该观点认为，人们对动作的理解是基于合理性原则，即假定他人在当前的情境下通过执行成本最小的动作以实现目标，通过推理获得当前情境下所观察动作最有可能的目标或意图，其受到动作之外信息的影响。换言之，对于相同的动作，发生在不同的情境中时，其理解结果也不尽相同。目前，这一理论获得了来自儿童发展、认知神经等众多研究领域的支持，并已成功应用于人工智能领域(Brass et al.,2007; Gergely & Csibra,2003; Jara-Ettiger etal.,2016)。如：在A以最短路径直行趋近B时(符合合理性原则;principle of rationality)，10个月大的婴儿视A的目标是趋近B，而当A以跳跃方式靠近B时，认为A的目的不明确(Csibraetal.,2003)。且在行为模仿中，儿童也会考虑行动发生时的情境，而非完全模仿他人的行为(Gergely,Bekkering,&Kiraly,2002)；在成人中亦是如此，对他人手指动作的模仿会受到该动作是有意还是无意发出(如：机械强制手指运动)的影响(Liepelt,Cramon,&Brass,2008)。总之，理论论所提出的推理过程可解释动作理解中的更多现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，支持模拟论的学者认为理论论的相关证据依然可用模拟论来解释(Cavallo et al,2016;Kouletal.,2018)。首先，对于及物动作和不及物动作的比较，其运动学特性并非完全一致，因此内部模拟过程也不尽相同，从而导致镜像神经系统的激活也不一样。其次，鉴于所需观察的对象均来自对真人动作的记录，目标不同的动作其发出动作时的肌肉控制也不一样，故在运动学特性上依然可能存在细微差异，其可被视觉内隐觉察从而影响动作模拟。如：用于喝茶的抓握动作和用于打扫卫生的抓握动作存在运动学上的细微差别。最后，对于婴儿所观察的直行动作和跳跃动作，其动作形态本身就不一样，故匹配所得的理解结果也不一样。总而言之，当前两种理论争论的焦点是运动学特性是否决定了对动作的理解。模拟论认为，运动学特性决定了对动作的理解，任何动作理解结果的差异均可归因于运动特性的不同，与情境无关；但理论论支持者认为，由于推理过程中对合理性原则的应用，即使对具有相同运动学特性的动作，由于发生情境决定了动作趋近目标的合理性，故动作发生的情境不同对其理解也不尽相同(详见Gergely& Csibra,2003;Jacob& Jeannerod,2005 的综述)。由于目前所采用的实验动作材料的运动学特性和发生情境存在共变，其难以区分动作理解是符合模拟论还是理论论，故有必要采用其他的实验方法，如严格控制运动学特性但操纵动作发生时的情境(Pomiechowska&Csibra,2017)，对动作理解的机制进行进一步探讨。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为实现对动作发生情境的操纵且严格控制运动学特性，本研究借鉴Heider 和Simmel(1944)的方法，通过动画制作技术来产生动作模式。该方法将主体均简化为几何形状式的智能体，其可对日常行为场景动作进行模拟且可有效控制额外变量，其已广泛应用于社会认知领域(Powell& Spelke,2013;Yin et al.,2016)。本研究选择在人类进化中起着关键作用的追逐动作(Barrett,Todd,Miller,&Blythe,2005)，作为动作理解的对象。实验包含两种情境，每种情境有两个运动的智能体，其均是一智能体在另一智能体后方运动，构成一定的追逐运动模式(如图1所示)。具体而言，对于存在约束的情境，智能体 A改变方向以绕过障碍物，从后方逐渐趋近智能体B；对于不存在约束的情境，阻碍智能体A前行的障碍物被去除，但依然呈现与存在约束的情境中智能体A相同的运动模式，从后方靠近与智能体B具有相同运动模式的智能体B'。即，有无约束情境下智能体的运动特性相同，除了阻止智能体A以最短路径趋近智能体B的障碍物是否存在。在该设置下，基于模拟论观点，由于有无约束情境下智能体的运动特性完全相同，故对两种情境下的动作模拟过程相当，从而预测动作加工结果应不存在差异。然而，基于理论论观点，虽然两种情境下智能体具有相同的运动特性，但当存在约束情境时，智能体 A改变方向的行为可被理解为为了绕开障碍物，而以最有效的方式趋近智能体B，因为其趋近目标的动作符合合理性原则；但对无约束的情境，智能体A'靠近智能体 B'的行为并不符合合理性原则(即以最短的路径趋近 B\")，对其理解结果应与存在约束情境时不同，至少智能体A指向智能体B'的目的更弱。简言之，若动作理解符合模拟论，人们对有无约束情境下的动作理解相同；若动作理解符合理论论，人们对有无约束情境下的动作理解不同，其具体体现在，相比无约束的情境，存在情境约束中智能体 A 更",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可能将智能体B视作指向的目标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对上述两种预测，本研究采用脑电技术，选取位于感觉运动皮层(C3和C4 电极)附近 $8 { \\sim } 1 3 \\mathrm { H z }$ 的 $\\mu$ 节律作为指标。该指标的神经基础位于镜像神经系统，甚至包括心智化系统(如：颞顶联合区)，其因动作理解不同而激活程度(表现为 $\\mu$ 抑制，或去同步化)不同，被认为可指示动作 加工(Fox et al.，2016；Muthukumaraswamy，Johnson，& McNair，2004;Pomiechowska&Csibra,2017;Ulloa& Pineda,2007)。尤其是，在加工具有清晰目标的行动时$\\mu$ 抑制程度高于加工目标不清晰的行动(Muthukumaraswamy etal.,2004)。若动作理解符合模拟论的预测，由于无论存在约束情境与否动作的运动学特性相同，则可预期两种情境下 $\\mu$ 激活相当；若动作理解是基于理论论所主张的机制，由于存在情境约束时，可基于合理性原则构建两个智能体间的目标指向关系，可预期该条件下的 $\\mu$ 抑制程度应高于不存在约束情境的条件。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 实验一",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验拟采用追逐动作，通过设置该动作发生情境的特性实现对动作合理性的操纵，旨在检验动作理解是基于模拟论还是理论论所主张的机制。为探讨该问题，实验中选取顶叶的$\\mu$ 节律作为指标。鉴于 $\\mu$ 频段与注意机制相关的枕叶 $\\mathrm { { a } } ( 8 { \\sim } 1 3 \\ \\mathrm { { H z } ) }$ 属于同一波段(Klimesch,Sauseng,& Hanslmayr,2007; Perry, Stein,& Bentin,2011)，故为进一步检验 $\\mu$ 频段是否属于枕叶 $\\alpha$ 活动的泛化，对枕叶 $\\alpha$ 也予以分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 被试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过广告招募的方式，18名在校大学生自愿参与本实验。该样本量参考了以往用 $\\mu$ 指标来探讨动作加工的相关研究，其样本量在16\\~18 名被试之间，结果的效应量处于中等水平(f介于0.25 与 0.40 之间; Duan et al.,2018; Natraj et al.,2013; Pomiechowska & Csibra, 2017)。同时，基于本研究的实验设计(重复测量)，将预期达到的 alpha 值设置为0.05，统计效力设置为0.80 且效应量设置为以往研究揭示的中等水平(f 约等于0.30；Duanetal.,2018;Pomiechowska& Csibra,2017)，通过软件GPower 3.0.10 计算所得的计划样本量为18左右。对于18 名被试的数据，1名被试因数据收集过程中电极脱落，导致脑电数据质量比较差，2名被试不符合注意检测标准，故予以剔除(即使包含这3名被试，结果模式依然相同)。最终获得15 名(其中男性8名，女性7名)有效被试的实验数据，被试的年龄在18\\~27岁之间(M$= 2 2 . 6 7$ ， $S E { = } 0 . 7 7 ,$ ，视力或矫正视力正常，无色盲，均无身心疾病。实验结束后，被试获得50 元人民币作为报酬。为保持实验样本量的一致性，后续实验中也招募了15 名有效被试。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该实验获得了宁波大学心理学研究伦理委员会同意，且在实验前保证每个被试充分知晓实验要求，并签署了知情同意书。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2实验仪器与刺激 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验采用19 英寸CRT 显示器，分辨率为 $8 0 0 \\times 6 0 0$ ，刷新率为 $1 0 0 \\mathrm { H z }$ ，被试距屏幕约$6 0 \\mathrm { c m }$ 。所有刺激材料的呈现和实验流程通过 MATLAB 的工具箱 Psychophysics Toolbox(Brainard,1997)来控制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验刺激材料为电脑动画，其通过3D动画建模软件blender2.78a制作而成，显示大小为 $1 1 . 1 ^ { \\circ } { \\times } 8 . 3 ^ { \\circ }$ 。借鉴 Southgate 和Csibra(2009)的方法，制作动态的追逐动作(智能体 A追逐智能体 B；静态示意图如图1所示)，并通过设置追逐动作中是否存在障碍物的方式来实现对情境的操作，其动作视频时长均为3s。具体而言，体型较大的智能体 $\\mathbf { A } ( 2 ^ { \\circ } { \\times } 2 ^ { \\circ }$ ；即追逐者)在后方以平均约 $1 6 ^ { \\circ } / \\mathrm { s }$ 的速度追逐体型较小的智能体 $\\mathrm { B } ( 1 ^ { \\circ } { \\times } 1 ^ { \\circ }$ ；即目标物)，后者以平均约$1 4 ^ { \\circ } / \\mathrm { s }$ 的速度运动至屏幕右下方。动画中智能体的外形相异，其在不同的试次中从36对不同的组合中随机选择(包括9种不同外形的智能体，两两组合而得)。在存在约束的情境中，追逐动作的发生场景中存在障碍物。这些障碍物阻挡了追逐者趋近目标物的最短路径(即直线路径)，使得其不得不绕开障碍物去追逐目标物，但目标物由于体型较小可穿过障碍物与障碍物之间的小间隔。然而，当动作发生的情境不存在约束时，阻碍追逐者以最短路径趋近目标物的障碍物不存在(障碍物移至其它地方)，但追逐者和目标物依然以存在约束情境时相同的路径进行运动。因此，上述两种动画中，视频中智能体的动作均相同，但其所发生的情境存在差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了上述两种动画，实验中还构建了其它动画，其作为填充动画，要求被试计数其数量，以使得被试的注意集中在屏幕的动画上。该类动画与上述动画基本相同，除了在追逐过程0.5s至2.5s之间追逐者会连续消失1s。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a77414536602a650043bb5b3953152ccb1d603730eb087ba84906ee19459d929.jpg",
+        "img_caption": [
+            "图1存在约束情境(a)和不存在约束情境 (b)的动作示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鉴于对动作的熟悉性可能影响对动作的心理模拟，本实验在正式实验前招募了30 名被试(男性18名，女性12 名， $M = 2 2 . 2 0$ ， $S E = 0 . 4 8 \\mathrm { \\Omega }$ ，对上述两种视频(评价顺序在被试间进行平衡)就\"你对动画中所呈现的行为，在多大程度上是熟悉的？\"从1(\"一点也不熟悉\")至7(\"非常熟悉\")进行熟悉度评分。结果发现，被试对存在约束情境的动作熟悉度评分 $\\begin{array} { r } { ( M = } { } \\end{array}$ 3.63, $S E = 0 . 3 1$ )与不存在约束情境的动画 $( M = 3 . 4 7 , S E = 0 . 3 2 )$ 无显著差异， $t ( 2 9 ) = 0 . 4 7 , p =$ 0.643, Cohen's $d = 0 . 0 9$ 。同时，为从主观评价上确认被试确实对两种动画的理解不同，这批被试被要求就，“你在多大程度上同意，动画中体型较小的卡通人物是动画中体型较大的卡通人物趋近的目标？”从1(\"一点也不同意\")至7(“完全同意\")进行动作理解的主观评分。结果发现，相比无约束情境 $( M = 4 . 8 3 , S E = 0 . 3 5 )$ ，被试更倾向于认为有约束情境下 $M =$ 5.93, $S E = 0 . 2 0 \\AA$ 体型较小的智能体是体型较大的智能体趋近的目标， $t ( 2 9 ) = 3 . 2 0 , p = 0 . 0 0 3$ Cohen's $d = 0 . 5 9$ 。该结果说明，不同情境下，被试对相同动作的理解确实不同，提示操作有效。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3实验流程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "每个试次的流程如图2所示。首先，在屏幕中央呈现一个动态的注视点，其持续 $4 8 0 \\mathrm { { m s } }$ 。之后，空屏 300\\~400ms。接着，呈现动画的第一帧，以提醒动画即将开始。提醒 $3 0 0 \\mathrm { { m s } }$ 后，动画开始播放，其持续3s。试次间隔为900 至 $1 1 0 0 \\mathrm { m s }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dadfa7a1203115f4f8467d639dee16e22a0569e4db6f9b3ca2a3ccdc4cc4a492.jpg",
+        "img_caption": [
+            "图2实验流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验共有两个组块，每个组块包含72个试次，其中每个条件包含36个试次。每个条件36 个试次动画中的智能体组合均不相同，但条件间的智能体组合均相同。如此，不同条件间除了情境，其它的物理信息均一致。每个组块中包括8\\~12个填充动画，要求被试认真观看屏幕中的动画，并计数填充动画的次数，在每个组块结束后进行报告。如果被试所报告的填充动画个数与真实的不一致，则说明该被试可能未认真观看所有的视频。根据该注意检测标准，2名被试均未能准确报告填充动画个数，故予以剔除。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4数据记录",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于 NeuroScan Synamps 2 系统(Compumedics NeuroScan Inc.)，利用国际通用的 10\\~20的64导 $\\mathrm { \\ A g / A g C l }$ 电极帽记录EEG。以左侧乳突电极为参考。接地电极位于FPZ与FZ 中央。以左眼眶额上、下部的 2个电极记录垂直眼电(VEOG)，以两眼外侧 $1 . 5 \\mathrm { c m }$ 处的2个电极记录水平眼电(HEOG)。脑电信号采集增益为 500,采样频率为 ${ 5 0 0 } \\mathrm { H z }$ ，滤波带通(band-pass)为 $0 . 0 5 { \\sim } 1 0 0 \\mathrm { H z }$ 。电极和头皮间的电阻均小于 $5 \\mathrm { k } \\Omega$ 。鉴于基线的选择可能影响 $\\mu$ 指标的敏感性(Tangwiriyasakul,Verhagen,van Putten,and Rutten,2013)，本研究同时记录了每个被试在正式实验前后，注视电脑屏幕时1分钟的基线脑电数据，以获取被试在无动作理解状态的基线脑电数据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5数据分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用 MATLAB的EEGLAB 和Fieldtrip 工具包对数据进行分析。首先用EEGLAB对数据进行预处理。预处理中，先将左侧乳突参考转换成左右乳突平均做参考，之后对数据进行0.1\\~100HZ 的滤波(fir1)。接下来，删除记录眼电的电极数据，并进行独立成分分析(ICA)。对获得的独立成分，采用EEGLAB的ADJUSR插件识别眼电成分与噪音成分，并将其剔除。最后，对追逐动作呈现阶段，即开始运动(动画起始点)到运动后 3000ms(动画结束点)进行分段。完成前述处理后，采用Fieldtrip 进行频谱分析。鉴于本研究所探讨的动作理解过程发生在整个追逐动画呈现阶段，其时域特性不明显，故借鉴以往研究(Brown,Wiersema,Pourtois,& Bruine,2013;Perry et al.,2011)，采用快速傅立叶变换(FFT)对整个动作理解过程(即3s 的动画)的 $8 { \\sim } 1 3 \\mathrm { H z }$ 能量进行频谱分析。其中，对每个分段数据（即 $3 0 0 0 \\mathrm { { m s } }$ 动画播放时间)采用$10 \\%$ Hamming 进行快速傅立叶变换(FFT)，以获取每个频段的能量值 $( \\mu \\mathrm { V } ^ { 2 } )$ 。同时，对每个试次，以动画播放前 $6 0 0 { \\sim } 3 0 0 \\mathrm { m s }$ 为基线(即空屏阶段)，通过相减的方法对分段的能量值进行校正，即追逐动画呈现时频段的能量值减去对应频段在基线阶段的能量值。最后，对每个被试按条件进行平均获得不同频段的能量值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与已有研究一致，本实验选取的 $\\mu$ 频段为 8 至 13Hz(Fox et al.,2016; Muthukumaraswamy,Johnson,&McNair,2004;Ulloa&Pineda,2007)。大量研究表明，与动作加工相关的 $\\mu$ 波段主要出现在顶叶运动区，在脑电研究中常常选取顶叶的 C3 和 C4 电极(Duan etal.,2018;Pomiechowska&Csibra,2017)，因此本实验也选取该两个电极对 $\\mu$ 频段的激活模式进行分析。为进一步检验 $\\mu$ 频段是否属于枕叶 $\\alpha$ 活动的泛化，参考以往研究(Klimesch et al.,2007;Perry etal.,2011)，本实验对枕叶O1和O2 电极上的 $\\alpha$ 也予以类似分析。为揭示 $\\mu$ 频段在指示动作理解中的特异性，与以往研究一致(Hobson＆Bishop,2016)，对C3 和C4 电极上的 $\\beta$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "波段（ $\\scriptstyle 1 4 \\sim 4 0 \\mathrm { H z } )$ 也进行了类似分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同时，鉴于基线的选择可能影响 $\\mu$ 指标的敏感性(Tangwiriyasakul etal.,2013)，对实验前后记录的基线脑电数据，也按 $3 0 0 0 \\mathrm { { m s } }$ 的长度进行分段(为保证其与实验阶段具有相同的分析参数)，其被分割为40 段。之后也采用 $10 \\%$ Hamming 对其进行FFT，并计算每个被试在不同频段上的平均能量值作为后续分析的基线值。即对于每个被试，将追逐动作呈现阶段的μ 频段能量减去该基线的差异值作为因变量。该分析所获得的结果模式与以动画播放前600\\~300ms 为基线的结果模式相同。鉴于以往研究表明，每个试次的频谱能量均进行基线矫正更合适(Hobson& Bishop,2016)，文中主要报告以动画播放前 $6 0 0 { \\sim } 3 0 0 \\mathrm { m s }$ 作为基线进行分析所获得的结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6结果与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同条件下顶叶 $\\mu$ 频段的能量如表1和图3a 所示。对不同条件下 $8 { \\sim } 1 3 \\mathrm { H z }$ 频段能量地形图及条件间能量差异地形图，可见图4。就 $\\mu$ 频段能量而言，不同条件下能量值均显著小于基线值(即0)， $t \\mathrm { s } > 3 . 2 3 , p \\mathrm { s } < 0 . 0 0 6$ ,Cohen'sd $> 0 . 8 3$ ，显示 $\\mu$ 频段的抑制特性。对 $\\mu$ 能量值进行2(电极：C3与 $( \\mathrm { C } 4 ) { \\times } 2$ (情境：有约束与无约束)的重复测量方差分析，结果发现：仅有情境的主效应显著， $F ( 1 , 1 4 ) = 1 2 . 5 1 , p = 0 . 0 0 3 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 4 7$ ，提示情境存在约束时 $\\mu$ 频段能量（20 $( M = - 1 . 9 5 5 \\mu \\mathrm { V } ^ { 2 }$ $S E = 0 . 5 6 7 \\$ 显著高于(抑制程度更高)情境不存在约束时的 $\\mu$ 频段能量 $( M = -$ $1 . 9 1 3 ~ \\mu \\mathrm { V } ^ { 2 }$ $S E = 0 . 5 6 4 )$ ；电极的主效应， $F ( 1 , 1 4 ) = 0 . 0 5 , p = 0 . 8 3 5 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1$ ，电极与情境的交互作用均不显著， $F ( 1 , 1 4 ) = 0 . 0 8 , p = 0 . 7 8 0 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1$ 0",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/90307cb0321f3d49ee77af7aba098ebc83c330aa7eb40669e71b4608ec4d5f64.jpg",
+        "table_caption": [
+            "表1实验一和实验二中有无约束情境下不同脑电指标的能量值 $( \\mu \\mathrm { V } ^ { 2 } )$ "
+        ],
+        "table_footnote": [
+            "注：括号中为标准误 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">实验一</td><td colspan=\"2\">实验二</td></tr><tr><td>有约束的情境</td><td>无约束的情境</td><td>有约束的情境</td><td>无约束的情境</td></tr><tr><td>顶叶μ</td><td>-1.955(0.565)</td><td>−1.913(0.564)</td><td>-1.929(0.559)</td><td>-1.936(0.569)</td></tr><tr><td>顶叶β</td><td>-0.093(0.026)</td><td>-0.076(0.030)</td><td>-0.084(0.028)</td><td>-0.082(0.028)</td></tr><tr><td>枕叶α</td><td>-3.782(1.135)</td><td>-3.771(1.138)</td><td>-3.761(1.132)</td><td>-3.749(1.133)</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cd12ab6549a6d1c42314df18305d65ba01fb7c13506c61b6f8b34823ce68155.jpg",
+        "img_caption": [
+            "图3不同条件下顶叶(a)和枕叶 $( \\mathsf { b } ) 8 { \\sim } 1 3 \\mathrm { H z }$ 频段能量值"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同条件下枕叶 $\\textbf { \\em a }$ 频段的能量如表1和图3b 所示。以枕叶 $\\alpha$ 频段能量作为因变量，2(电极：01与 $( 0 2 ) { \\times } 2 0$ (情境：有约束与无约束)的重复测量方差分析结果发现：电极的主效应 $( F ( 1 ,$ $1 4 ) = 1 . 5 6 , p = 0 . 2 3 2 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 0 )$ 、情境的主效应 $( F ( 1 , 1 4 ) = 2 . 2 7 , p = 0 . 1 5 4 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 4 )$ 以及二者的交互作用 $( F ( 1 , 1 4 ) = 0 . 0 1 , p = 0 . 9 5 1 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1 )$ 均不显著。该结果提示，不同类型动画所诱发的 $\\mu$ 能量差异并非枕叶 $\\alpha$ 活动的泛化。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/40964de58ced856076f040a11307bbc2332c050c737b9dd1f4496606fb7d20ed.jpg",
+        "img_caption": [
+            "注： $^ { * } p < 0 . 0 5$ ；误差条为去除被试间变异后的标准误(Cousineau&O'Brien,2014)",
+            "图4实验一和实验二不同条件下 $8 { \\sim } 1 3 \\mathrm { H z }$ 频段能量地形图(a)及条件间能量差异地形图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在 $\\beta$ 频段上(表1)，对其能量进行 2(电极：C3与 $( C 4 ) \\times 2 0$ (情境：有约束与无约束)的重复测量方差分析，结果发现：电极的主效应 $( F ( 1 , 1 4 ) = 0 . 4 5 , p = 0 . 5 1 4 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3 )$ 、情境的主效应 $( F ( 1 , 1 4 ) = 2 . 7 5$ $p = 0 . 1 1 9$ ， $\\eta _ { \\mathrm { p } } ^ { 2 } \\ = 0 . 1 6 )$ 以及二者的交互作用 $( F ( 1 , 1 4 ) = 0 . 8 7$ $\\begin{array} { r } { p = 0 . 3 6 8 . } \\end{array}$ $\\eta _ { \\mathrm { p } } ^ { 2 } \\ =$ （204",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "0.06)均不显著。说明动作理解主要激活 $\\mu$ 频段。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对所有电极上的8至 $1 3 \\mathrm { H z }$ 频段能量，采用基于 Cluster 的置换检验(permutation test;Maris&Oostenveld,2007)，其中采用蒙特卡洛模拟法，并将抽样次数设置为 5000，且要求至少相邻的两个电极在存在约束情境和不存在约束情境的8至 $1 3 \\mathrm { H z }$ 频段能量差异上达到显著。结果依然发现C3和C4电极上，存在约束情境的 $\\mu$ 频段抑制程度显著高于不存在约束情境的条件，而O1与O2上则无差异。故上述基于方差分析的结果并不能由所选择电极的特殊性所解释。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "上述结果发现，针对相同的追逐动作，其因情境不同所激活的 $\\mu$ 也不同，且并非 $\\alpha$ 活动的泛化，提示情境影响人们对动作的理解。具体而言，对有约束的情境，即追逐者的动作可被清晰理解为趋近目标，该条件 $\\mu$ 的抑制程度显著高于无约束的情境，其符合理论论的预测。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 实验二",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验一的结果与理论论的预测一致，即存在约束的情境时 $\\mu$ 的抑制程度显著高于无约束的情境。然而，实验一中存在约束的情境下，追逐者有时会被障碍物遮挡，且物理上可见时间与不存在约束的情境不相同。就模拟论而言，该物理层面上的差异，可能使得被试在对动作的模拟程度上不同，从而导致 $\\mu$ 的激活程度不一致。本实验将对这一可能性进行检验。实验中，追逐者与实验一中的追逐者依然保持相同的运动特性，且也对其动作发生的情境采用与实验一相同的操作，但将实验一中的目标物置于终点并保持静止。该设置下，不同条件间(有约束和无约束的情境)的物理差异与实验一相同，但基于推理，由于未到达静止目标物前，追逐者行为意图具有一定的模糊性，其之前路径的合理性难以明确，故两种条件下将静止的对象当作趋近目标的程度在不同情境下相当(Brass et al.,2007；Marsh et al.,2014;Southgate＆Csibra,2009)。因此，若模拟过程是实验一中动作理解的机制，则实验一中情境的调节效应在目标物保持静止时依然存在；但若动作理解是基于理论论所假设的过程，则实验一中情境的调节效应在本实验中将消失，因为有约束和无约束的情境下对动作的推理结果相当。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1 方法",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "16 名在校大学生自愿参与本实验，其中1名被试因不符合注意检测标准，故予以剔除(即使包含这名被试，结果模式依然相同)。最终获得15 名(其中男性7名，女性8名)有效被试的实验数据，被试的年龄在19\\~26岁之间 $\\langle M = 2 2 . 3 3$ ， $S E = 0 . 6 5$ ，视力或矫正视力正常，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "无色盲，均无身心疾病。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实验设计和流程与实验一基本相同，除了目标物以静止的方式停留在运动的终点。数据采集与分析与实验一相同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "与实验一相同，本实验在正式实验前招募了30 名被试(男性18名，女性12名， $M =$ 22.20， $S E = 0 . 4 8 )$ ，要求对动画的熟悉度和动作的目标进行主观评定。结果发现，被试对存在约束情境的动作熟悉度评分 $( M = 3 . 6 7 , S E = 0 . 3 5 )$ 与不存在约束情境的动作熟悉度评分(M$= 3 . 5 7$ $S E = 0 . 3 3 )$ 无显著差异， $t ( 2 9 ) = 0 . 3 4$ $\\begin{array} { r } { p = 0 . 7 3 5 } \\end{array}$ ,Cohen's $d = 0 . 0 6$ 。且被试认为有约束情境下 $( M = 4 . 8 7$ $S E = 0 . 3 5 )$ 静止智能体是运动智能体趋近的目标与无约束情境相当 $( M =$ 4.93, $S E = 0 . 3 5$ )， $t ( 2 9 ) = 0 . 1 3$ $p = 0 . 8 9 6$ , Cohen's $d = 0 . 0 2$ 。该结果说明，不同情境下，被试对相同动作的理解基本相当，提示操作有效。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2结果",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "不同条件下诱发的 $\\mu$ 频段能量如表1和图3a所示。对不同条件下 $8 { \\sim } 1 3 \\mathrm { H z }$ 频段能量地形图及条件间能量差异地形图，可见图4。大脑中线电极上 $\\mu$ 频段能量均显著低于基线值，$t \\mathrm { s } > 3 . 2 8$ ， $p \\mathbf { s } < 0 . 0 0 5$ , Cohen's d $> 0 . 8 4$ ，再次显示 $\\mu$ 激活体现在被抑制。以 $\\mu$ 频段能量为因变量，2(电极：C3 与 $( \\mathrm { C } 4 ) { \\times } 2 ($ 情境：有约束与无约束)的重复测量方差分析发现：电极的主效应不显著， $F ( 1 , 1 4 ) = 0 . 0 7 , p = 0 . 7 9 1 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1$ ；情境的主效应不显著， $F ( 1 , 1 4 ) = 0 . 1 3 , p =$ $0 . 7 2 0 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1$ ；二者的交互作用也不显著， $F ( 1 , 1 4 ) = 0 . 1 3 , p = 0 . 7 2 3 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1 \\mathrm { , }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同时，就枕叶 $\\alpha$ 频段能量(表1和图 3b)而言，2(电极：O1与 $0 2 ) \\times 2 ($ 情境：有约束与无约束)的重复测量方差分析未发现任何效应显著。其中，电极的主效应 $( F ( 1 , 1 4 ) = 1 . 5 5$ $p =$ 0.234, $\\eta _ { \\mathrm { p } } ^ { 2 } \\ = 0 . 1 0 )$ 、情境的主效应 $( F ( 1 , 1 4 ) = 0 . 0 1 , p = 0 . 9 2 5 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1 )$ 以及二者的交互作用$( F ( 1 , 1 4 ) = 0 . 4 5 , p = 0 . 5 1 4 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3 )$ 均不显著。采用与实验一相同的基于Cluster 的置换检验，结果发现未有电极在不同条件间的8至 $1 3 \\mathrm { H z }$ 能量差异上达到显著。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为进一步检验实验1的结果确实由于动作理解的差异所致，合并C3和C4电极上的数据，以2(实验：实验1与实验2；被试间变量) $\\times 2 ($ 情境：有约束与无约束；被试内变量)为实验设计，对顶叶的 $\\mu$ 频段能量进行方差分析。结果发现，实验的主效应均不显著， $F ( 1 , 2 8 )$ $< 0 . 0 1$ ， $p = 0 . 9 9 9$ $\\mathfrak { \\eta } _ { \\mathfrak { p } } ^ { 2 } ~ < 0 . 0 1$ ；情境的主效应也不显著， $F ( 1 , 1 4 ) = 2 . 4 5 , p = 0 . 1 2 9 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 8 \\$ 但两因素的交互作用显著， $F ( 1 , 1 4 ) = 4 . 7 7 , p = 0 . 0 3 7 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 5$ 。该结果提示实验操纵调节不同情境下顶叶的 $\\mu$ 频段能量，进一步支持实验1的结果确实由于动作加工的差异所致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在 $\\beta$ 频段上(表1)，对其能量进行2(电极：C3与 $( C 4 ) \\times 2 0$ (情境：有约束与无约束)的重复测量方差分析，结果发现：电极的主效应 $( F ( 1 , 1 4 ) = 0 . 1 2 , p = 0 . 7 3 0 , \\eta _ { \\mathrm { p } } ^ { 2 } < 0 . 0 1 )$ 、情境的主效应 $( F ( 1 , 1 4 ) = 0 . 4 0 , p = 0 . 5 4 0 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3 )$ 以及二者的交互作用 $( F ( 1 , 1 4 ) = 0 . 5 1 , p = 0 . 4 8 5 , \\eta _ { \\mathrm { p } } ^ { 2 } =$ 0.04)均不显著。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上述结果表明，虽然保持与实验一条件间相同的物理差异，但使得目标不清晰后，条件间在 $\\mu$ 频段能量上的差异消失。该结果表明，实验一的结果并不能由不同的物理差异所诱发的内部模拟不同解释，而是由于对是否存在约束的情境间推理结果的不同所致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究采用动画制作技术来产生追逐动作，基于对动作发生时的情境进行操纵，通过两项实验以指示动作加工过程的脑电 $\\mu$ 抑制为指标，探讨了动作理解是基于模拟论还是理论论所主张的机制。结果显示，当追逐动作发生在存在约束的情境时，其可基于合理性原则推测清晰的动作目标，该条件下的 $\\mu$ 抑制程度高于不存在约束情境的条件(实验一)；而当仅追逐者运动，即趋近的目标不存在时，虽然有约束和无约束的情境间的物理差异与实验一相同，但条件间 $\\mu$ 抑制的差异消失(实验二)。该结果提示，动作发生的情境信息影响人们对动作的理解，支持动作理解中的理论论观点。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "针对上述结果,物理层面的差异性及其对动作发生场景的熟悉性均无法解释。具体而言，首先，实验一中有约束和无约束情境中运动学特性相同，且就情境本身可能带来的物理差异也在实验二中进行了控制，但当情境的约束使与动作符合合理性原则时，其 $\\mu$ 抑制相比动作和情境不符合合理性原则时更高。因此，条件间 $\\mu$ 抑制的差异确实由于动作理解的不同所致。其次，针对不同情境下的动画，被试对其熟悉度的评价相当，故实验一中 $\\mu$ 抑制的差异也不能由对动作熟悉的不同而解释。再者，实验一中不同情境并不调节枕叶 $\\alpha$ 激活的程度，排除了条件间 $\\mu$ 抑制的差异可能是由于 $\\alpha$ 所指示的注意作用所致。最后，参考以往利用 $\\mu$ 抑制来探讨动作理解的研究(Fox etal.,2016; Pomiechowska&Csibra,2017)，关于目标清晰是否对该成份影响程度在 $0 . 0 4 \\mu \\mathrm { V } ^ { 2 }$ 左右，其与本研究相当 $( 0 . 0 5 \\mu \\mathrm { V } ^ { 2 } )$ ，且效应量大于之前的研究(Cohen's $d$ 为0.3至0.6；实验一中效应量转换为Cohen's $d$ 为1.88)。这一分析提示该指标在指示动作加工的敏感性和稳定性。总之，当追逐者和目标均运动时，有无约束情境下 $\\mu$ 抑制确实反映了动作理解的不同，其支持理论论。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "情境信息对 $\\mu$ 抑制的影响与之前的研究一致。如：对于观察发生在喝茶情境下的抓握动作和清洁杯具情境下的抓握动作，其 $\\mu$ 抑制不同(Amoruso &Urgesi,2016)；对于同一动作，观看抓握杯柄所诱发的 $\\mu$ 抑制显著高于观察抓握茶杯其它地方(Natraj etal.,2013)；对于运动学信息基本相同的抓握某个物体和指向某个物体，观察前者诱发更强的 $\\mu$ 抑制，且当这两个动作发生在交流情境中(动作之前呈现交流信号)时，其差异消失(Pomiechowska& Csibra,2017)。然而，前述研究中不同情境中动作的物理特性也存在一定差异，就动作理解的机制而言，其既符合模拟论的预测，也与理论论假设一致。但在本研究中对运动学特性进行了严格的控制，不同情境下对动作的推理产生不同的结果，但具有相同的模拟过程，其可对动作理解的两种观点予以区分。最终结果支持理论论观点，其对动作理解机制具有重要的意义。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "就动作理解而言，驱动某一特定动作背后的目的或意图可能是无限的。如：抓握水杯既可以被解释为为了喝水，也可被解释为将其挪开。动作理解属于典型的逆向工程问题，其观察到的动作只是结果，需理解其背后的原因——目的或意图(Csibra,2007; Csibra& Gergely,2007)。如此，基于对动作的模拟过程，寻找与自身经验可能匹配的动作，难以获得对动作的明确解释。对逆向问题的解决，必须诉诸于某种条件上的约束。而理论论基于合理性原则对动作的推理过程，所假定他人在当前的情境下以最低成本或最经济的动作以实现目标，为动作理解这一逆向问题提供了认知约束(Csibra＆Gergely,2007)。因此，人们结合动作发生的情境，可计算动作实现目标的成本，推测动作背后最有可能的目标。就本研究而言，当追逐动作中存在阻碍追逐者趋近目标物的情境时，此时追逐者绕远路而趋近目标物则是合理的方式，故可将追逐者的意图解释为趋近目标物。反之，移除障碍物后依然绕远路，则使得追逐者意图模糊化。该过程在计算层面上，可通过贝叶斯推理实现。即 $p$ (目标动作) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ p(动伯目标)xp(目标，其中，p(目标动作)表示基于当前的动作所推测的目标(由于可能存在多种目标，每个目标存在的可能性用概率表示，其值越大则最终以该目标为推理结果)； $p ( \\vec { \\textmd { z } } ) / \\hbar \\rangle$ 和 $p ( H \\# \\vec { \\mathcal { R } } )$ 分别表示该动作与目标在生活中存在的可能性；对于 $p$ (动作目标)则可以基于合理性原则计算所得，即如果是某种目标，其产生当前情境下行动的概率是多少(Csibra,2007)。该建模方法已成功应用于对动作背后目的的推测，且与人类被试对动作理解的结果一致(Baker, Saxe,& Tenenbaum, 2009)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "基于推理过程的动作理解可解释人们为什么可理解首次遇到的动作。如：对于生活中首次出现的机器人，虽然其形态与动作的运动学特性与之前观察到的人类行为完全不同，但当机器人以最短的路径去趋近某物体时，观察者会对机器人赋予目标和意图，认为获取该物体是机器人的目的(Kamewari etal.,2005)。且基于推理过程的动作理解可使得婴儿就具有解读动作的能力。研究发现，3个月大的婴儿就能准确理解行动背后的目的(Luo,2011)；15 个月大的婴儿可以理解之前从未见过的假装动作(pretend actions;Onishi,Baillargeon,& Leslie,2007)，如：拿着一个空的杯子，假装喝水。但推理过程并不排斥经验的作用。经验可为推理提供除了合理性原则之外的其他认知约束，如：对于鬼鬼崇崇尾随他人的行为，其尾随的方式并非经济，但人们可根据积累的经验，认为尾随的人可能存在既想趋近别人又不想别人知道的心智状态，故呈现这种非经济的尾随动作。因此，随着经验的积累，人们对看似不合理行为的合理化解释越丰富，且更能准确的解读他人的动作。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究以动画的形式模拟动作，可实现对运动学特性及其动作发生情境的有效操纵，且可对额外变量进行严格控制。因此，该实验方法可为后续动作理解的研究提供借鉴，进一步探讨动作理解的认知过程。但该方法所设置的动作对人类的动作进行了一定程度抽象，其发现的结论还有待在真正的人类动作上检验生态效度。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究以追逐动作为实验刺激，以指示动作加工过程的 $\\mu$ 为指标，通过两项实验探讨了动作理解的认知机制，获得以下结论：动作发生的情境信息影响人们对动作的理解，提示人们基于推理的过程理解动作，支持动作加工中的理论论观点。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Amoruso,L.,& Urgesi, C.(2O16).Contextual modulationof motor resonance during the observation of everyday actions.Neuroimage,134,74-84.   \nBaker,C.L.,Saxe,R.,&Tenenbaum,J.B. (2oo9).Actionunderstanding as inverse planning. Cognition,13(3), 329-349.   \nBarrett,H.C.,Todd,P.M.,Miller,G.F.,& Blythe,P.W.(2005). Accurate judgments of intention from motion cues alone:A cross-cultural study.Evolution and Human Behavior,26(4),313-331.   \nBlakemore,S.J.,& Decety,J. (2Oo1).From the perception of action to the understanding of intention. Nature Reviews Neuroscience,2(8),561-567.   \nBrainard,D.H.(1997). The psychophysics toolbox. Spatial Vision,10(4),433-436.   \nBrass,M.,Schmit,R.M.,Spengler,S.,& Gergely,G.(2OO7).Investigating actionunderstanding: inferential processes versus action simulation. Current Biology,17(24),2117-2121.   \nBrown,E.C.,Wiersema, J.R.,Pourtois,G.,& Brune,M. (2O13).Modulation of motor cortex activity when observing rewarding and punishing actions. Neuropsychologia,5I(1), 52-58.   \nCarter Leno,V.,Vitoratou,S.,Kent,R.,Charman,T.,Chandler,S.,Jones,C.R.,..& Simonoff,E.(2019). Exploring the neurocognitive correlates of challenging behaviours in young people with autism spectrum disorder.Autism,23(5),1152-1164.   \nCavallo,A., Koul,A.,Ansuini, C., Capozzi, F.,& Becchio, C. (2O16). Decoding intentions from movement kinematics. Scientific Reports,6,37036.   \nChartrand,T.L.,& Bargh,J.A. (1999). The chameleon effect: the perception-behavior link and social interaction.Journal of Personality and Social Psychology,76(6),893-910.   \nCracco,E.,De Coster,L.,Andres,M.,& Brass, M.(2016). Mirroring multiple agents: motor resonance during action observation is modulated by the number of agents. Social Cognitive and Affective Neuroscience,11(9), 1422-1427.   \nCsibra, G. (2Oo7). Action mirroring and action interpretation: Analtermative account. In:P.Haggard, Y.Roseti, & M.Kawato (Eds.), Sensorimotor foundations of higher cognition. attention and performance XXI (pp. 435- 459). Oxford: Oxford University Press.   \nCsibra,G., Bir6,S.,Koos, O.,& Gergely, G. (2003). One-year-old infants use teleological representations of actions productively. Cognitive Science,27,111-133.   \nCsibra, G.,& Gergely, G. (2oo7).“Obsesed with goals\": functions and mechanisms of teleological interpretation of actions in humans. Acta Psychologica,124, 60-78.   \nCousineau,D.,& O'Brien,F.(2014). Error bars in within-subject designs: a comment on Baguley(2012). Behavior Research Methods,46(4),1149-1151.   \nDijkerman, H. C.,& Smit,M. C.(2Oo7). Interference of grasping observation during prehension, a behavioural study. Experimental Brain Research,176,387-396.   \nDi Pellegrino, G.,Fadiga,L.,Fogass,L.,Gallese, V.,& Rizzolati,G.(1992). Understanding motorevents:a neurophysiological study. Experimental Brain Research, 91(1),176-180.   \nDuan,J., Yang,Z.,He,X.,Shao,M.,& Yin,J. (O18). Automatic atribution of social coordination information to chasing scenes: evidence from mu suppression. Experimental Brain Research,236(1),117-127.   \nFogasi,L.,Ferrri,P.F.,Gesierich,B.,Rozzi,S.,Chersi,F.,&Rizzolatt,G. (2Oo5).Parietallobe: fromaction organization to intention understanding. Science,308(5722), 662-667.   \nFox,N.A.,Bakermans-Kranenburg,M.J.,Yoo,K.H.,Bowman,L.C.,Cannon,E.N.,Vanderwert,R.E.,.. Van Ijzendoorn, M. H. (2016). Assessing human mirror activity with EEG Mu rhythm: A meta-analysis. Psychological Bulletin,142(3),291-313.   \nGallese,V.,Fadiga,L.,Fogassi,L.,& Rizzolati, G. (1996). Action recognition in the premotor cortex. Brain,119(2),593-609.   \nGallese,V.and Goldman,A.(1998)Mirror neurons and the simulation theory of mind reading.Trends in Cognitive Sciences,12, 493-501.   \nGergely, G.,Bekkering,H.,& Kiraly,I. (2Oo2). Developmental psychology: Rational imitation in preverbal infants. Nature,415(6873),755.   \nGergely, G.,& Csibra, G. (2Oo3).Teleological reasoning in infancy: The naive theory of rational action.Trends in Cognitive Sciences,7,287-292.   \nHauser,M.,& Wood,J. (2Olo).Evolving thecapacity tounderstand actions,intentions,and goals.Annual Review of Psychology, 61, 303-324.   \nHeider,F.,& Simmel, M. (1944). An experimental study of apparent behavior. The American Journal of Psychology, 57,243-259.   \nHobson,H.M.,& Bishop,D.V. (2016). Mu suppresion-a good measure of the human mirrneuron system? Cortex,82,290-310.   \nIacoboni,M.,Molnar-Szakacs,1., Galese,V.,Buccino,G.,Mazziota,J. C.,&Rizzolati, G. (2Oo5). Graspinghe intentions of others with one's own mirror neuron system. PLoS Biology,3(3), e79.   \nIacoboni,M., Woods,R.P.,Brass,M.,Bekkering,H.,Mazziotta,J.C.,Rizzolatt,G.(1999).Cortical mehanisms of human imitation. Science, 286,2526-2528   \nJacob,P.,&Jeannerod,M. (2Oo5) The motor theoryof social cognition: a critique.Trends in Cognitive Sciences, 9,21-25.   \nJara-Ettinger,J., Gweon,H.,Schulz,L.E.,& Tenenbaum,J.B. (2016).The naive utilitycalculus: Computational principles underlying commonsense psychology. Trends in Cognitive Sciences,20(8),589-604.   \nKamewari,K.,Kato,M.,Kanda,T.,Ishiguro,H.,& Hiraki, K. (2Oo5). Six-and-a-half-month-old children positively attribute goals to human action and to humanoid-robot motion. Cognitive Development, 20(2), 303-320.   \nKilner, J.,Paulignan,Y.,& Blakemore,S. (2O03). An interference effectof observed biological movement on action. Current Biology, 13 (6), 522-525.   \nKlimesch, W., Sauseng,P.,& Hanslmayr, S. (2O07). EEG alpha oscilltions: the inhibition-timing hypothesis. Brain research reviews,53(1),63-88.   \nKlin,A.,Jones,W.,Schultz,R.,& Volkmar,F. (2Oo3).The enactive mind,or fromactions to cognition: lessons from autism.Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences,358(1430),345-360.   \nKoski,L., Wohlschläger,A.,Bekkering,H.,Woods,R.P.,Dubeau, M. C., Mazziotta,J. C.,& Iacoboni, M. (2002).Modulation of motor and premotor activity during imitation of target-directed actions. Cerebral Cortex, 12(8), 847-855.   \nKoul,A.,CavalloA.,Cauda,F.,Costa,T.,Diano,M.,Pontil,M.,&Becchio,C.(2O18). Actionobservationareas represent intentions from subtle kinematic features. Cerebral Cortex, 28(7),2647-2654.   \nLiepelt,R., Cramon,D.,& Brass,M.(2Oo8).What is matched in direct matching? Intention atribution modulates motor priming. Journal of Experimental Psychology: Human Perception and Performance,34(3),578.   \nLuo,Y. (2011). Three-month-old infants atribute goals to a non-human agent. Developmental Science,14(2), 453-460.   \nMaris,E.,& Oostenveld,R. (2Oo7). Nonparametric statistical testing of EEG-and MEG-data. Journal of Neuroscience Methods,164(1),177-190.   \nMarsh,L.E.,Mullet,T.L.,Ropar,D.,& Hamilton,A.F.D.C.(2O14).Responses to irational actions in action observation and mentalising networks of the human brain. Neurolmage,IO3,81-90.   \nMuthukumaraswamy,S.D., Johnson, B. W.,& McNair,N. A. (2O04).Mu rhythm modulation during observation of an object-directed grasp. Cognitive Brain Research,19(2),195-201.   \nMiller,S. (2oo1). Social action: A teleological account. Cambridge: Cambridge University Press.   \nNatraj,N.,Poole,V., Mizele,J. C.,Flumini,A.,Borghi,A. M.,& Wheaton,L.A. (2013). Context and hand posture modulate the neural dynamics of tool-object perception. Neuropsychologia,51(3), 506-519.   \nOnishi,K.H.,Bailargeon,R.,&Leslie,A.M. (2O07).15-month-old infants detect violationsin pretendcenarios. Acta Psychologica,124,106-128.   \nPerry,A., Stein,L.,& Bentin, S.(2O11). Motor and atentional mechanisms involved in social interactionEvidence from mu and alpha EEG suppression. Neuroimage, 58(3), 895-904.   \nPomiechowska, B., & Csibra, G. (2017). Motor activation during action perception depends on action interpretation. Neuropsychologia,105,84-91.   \nPowellL.J.,& Spelke,E. S.(2O13). Preverbal infants expect members of social groups to act alike. Proceedings of the National Academy of Sciences,110(41),E3965-E3972.   \nRizzolatti, G.and Craighero,L. (20o4) The mirror-neuron system. Annual Review of Neuroscience, 27,169-192.   \nRizolatti, G., Fogassi, L.and Galese,V. (20o1) Neurophysiological mechanisms underlying the understanding and imitation of action. Nature Review Neuroscience,2, 661-670.   \nSommerville,J.A., Woodward,A.L.,& Needham,A. (20o5). Action experience alters 3-month-old infants' perception of others' actions.Cognition,96(1),B1-B11.   \nSouthgate,V.,& Csibra,G.(2Oo9). Inferring the outcome of an ongoing novel action at 13 months.Developmental psychology,45(6),1794-1798.   \nTangwiriyasakul, C.,Verhagen,R.,van Puten,M.J.,&Ruten, W.L. (2013). Importance of baseline in eventrelated desynchronization during a combination task of motor imagery and motor observation. Journal of Neural Engineering,10(2),026009.   \nUllman,T.,Baker,C.L.,Macindoe,O.,Evans,O.,Goodman,N.D.,&Tenenbaum,J.B.(2O9).Helpor hinder: Bayesian models of social goal inference.In Y.Bengio et al. (Eds.),Advances in neural information processing systems 22.Vancouver:NIPS Foundation.   \nUlloa,E.R.,&Pineda,J.a. (2Oo7).Recognition of point-light biologicalmotion: Mu rhythms and mirror neuron activity.Behavioural Brain Research,183(2),188-194.   \nWellman, H.M.,Cross,D.,& Watson,J. (2Oo1).Meta-analysis of theory-of-mind development: The truth about false belief.Child Development,72(3),655-684.   \nYe,H. (2016). The significances of mirror neurons. Acta Psychologica Sinica, 48(4),444-456.   \n[叶浩生.(2016).镜像神经元的意义．心理学报,48(4),444-456.]   \nYin,J.,Xu,H.,Ding,X.,Liang,J.,Shui,R.,&Shen,M. (2016).Socialconstraints froman observer's perspective Coordinated actions make an agent's position more predictable. Cognition,151,10-17. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Contextual modulation of action interpretation: Automatic integration of situational contexts during action understanding ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "YANG Yisongl; LIN Jing 1; HE Xiaoyan1; YIN Jun1 ('DepartmentofPsychology,Ningbo UniversityNingbo 315211,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Action understanding enables us to predict others’actions and interact with them smoothly; however, its impairment makes patients unable to take care of themselves leading to cases such as autism. Despite the central importance of action understanding, the cognitive mechanisms involved in it remain highly controversial. Two alternative accounts have been advanced. Simulation theory assumes that we understand actions by simulating the observed behavior through a direct matching process, which has been suggested to usually activate the mirror-neuron circuit. The alternative interpretive account (i.e.， theory） assumes that action understanding is based on specialized inferential processes, in which a goal is assigned to an action by evaluating its efficiency as an optimal means of obtaining the goal within the specific constraints of the situation. Each account was supported by previous studies, but due to mythological drawbacks,the evidence can be explained by both accounts. Hence, it remains unclear how action understanding is implemented in our cognition. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The simulation theory claims that action understanding is sensitive to minor differences in the kinematics of actions,and the theory emphasizes the role of contextual information in action understanding. Namely,according to the theory, even for identical actions,contextual information modulates action understanding. Hence，to examine which account is involved in action understanding, we created a chasing action wherein a chaser pursues a movable target, but the chasing action occurred in different contexts. Specifically, in a constrained context, the chaser had to bypass the obstacles to approach the target, and the chaser's action was eicient in catching the target,while in an unconstrained context, the obstacles were removed but the chaser still implemented the same action as in the constrained context. All actions lasted for 3 seconds.In both contexts, the chaser and the target had exactly the same kinematics, but were assigned different goals if the inferential process is involved. To identify the outcome of action understanding, we measured $\\mu$ suppression (electroencephalogram oscillations within the $8 \\mathrm { - } 1 3 \\ \\mathrm { \\ H z }$ range in the sensorimotor regions; namely, C3 and C4 channels） related to action understanding. Participants were asked to count the fillers (i.e., incomplete chasing action) when watching actions presented on the screen. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "It was found that the chasing action occurred in the constrained context $( M = - 1 . 9 5 5 ~ \\mu \\mathrm { V } ^ { 2 } )$ 号 induced more $\\mu$ suppression than the action occurred in the unconstrained context $( M = - 1 . 9 1 3 \\mu \\mathrm { V } ^ { 2 } )$ ， but in both contexts, the evaluated familiarity for them was not significantly different (Experiment 1).Importantly, the occipital $\\mathfrak { a }$ with the same frequency band as $\\mu$ was not modulated by the contextual information, but this component was suggested to be functional with the attentional mechanisms. In Experiment 2,to further test whether the effect in Experiment 1 was specific to the inferential process, the target was set to be still but the chaser still moved in the same way, which cannot be atributed to an analytical goal. In this case,the possible simulation difference between constrained and unconstrained contexts when the target was still was almost the same as when the target was moving; however, we found that the difference in $\\mu$ suppression between constrained and unconstrained contexts was insignificant. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Our findings showed that contextual information modulates $\\mu$ suppression, suggesting that the action understanding is sensitive to the context,and the assigned goal for the actions depends on the contextual information. Hence,our findings support the assumption that action understanding is primarily mediated by an inferential interpretive system rather than a simulation process. Keywords action understanding; chasing action; context; simulation theory； theory theory； μ suppression ",
+        "page_idx": 19
+    }
+]

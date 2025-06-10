@@ -1,0 +1,263 @@
+# DOI:10.5846/stxb201510132066
+
+葛蓉,何洪林,任小丽,张黎,冯艾琳,王辉民,张军辉.基于模型数据融合的中国温带和亚热带典型森林生态系统碳通量模拟.生态学报,2017,37(5):1409-1420.  
+Ge R,HeHL,RenXL,ZangLengL,WangHM,ZangJHCarbofsiulatiooftyicalemperateadsubtropicalforesossinChina based on model-data fusion approach.Acta Ecologica Sinica,2017,37(5）:1409-1420.
+
+# 基于模型数据融合的中国温带和亚热带典型森林生态系统碳通量模拟
+
+葛蓉}²,何洪林¹，\*，任小丽¹，张黎¹，冯艾琳³，王辉民¹，张军辉4
+
+1中国科学院地理科学与资源研究所，生态系统网络观测与模拟重点实验室,北京100101  
+2中国科学院大学，北京100049  
+3 沈阳农业大学，沈阳110866  
+4中国科学院沈阳应用生态研究所，沈阳110016
+
+摘要;生态系统碳循环过程对水分响应的研究已成为全球变化关注的焦点问题之一。基于长白山温带针阔混交林与千烟洲亚热带人工针叶林观测站2003—2009年生长季的碳通量(NEE)和气象观测数据，综合考虑水分对光合、呼吸作用的影响,构建不同的 NEE模型,并应用模型数据融合方法优化模型参数、遴选最适模型，系统分析了水分因子对不同森林生态系统碳循环的影响。结果表明：(1)优化后的模型参数均能被 NEE 实测数据较好约束。长白山生长季的光合、呼吸参数值均高于千烟洲,未考虑空气饱和水汽压差(VPD)的模型高估了千烟洲温度敏感性参数( $\mathrm { ~ \chi ~ } _ { Q _ { 1 0 } } \mathrm { ~ \chi ~ }$ )值、低估了千烟洲基础呼吸速率参数( $\left( B _ { R } \right)$ 值;(2)仅考虑VPD对光合作用影响的模型是长白山生长季碳通量模拟的最优模型,但模拟精度提高不显著。不同模型间碳通量组分模拟结果差异较小;（3)考虑VPD和土壤含水量对光合、呼吸作用共同影响的模型是千烟洲生长季碳通量模拟的最优模型,并且显著提高了模拟精度。未考虑水分的模型在生长季高估了总生态系统生产力(GEP)总量 $2 . 0 \% ( 2 1 . 8 5 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,同时更大幅度地高估了生态系统呼吸 $( R E )$ 总量 $4 . 4 \% ( 3 8 . 0 2 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,从而导致NEE 总量低估于实测值 $7 . 8 \% ( 1 8 . 5 5 \ \mathrm { g \ C / m } ^ { 2 } .$ 。
+
+关键词：水分;碳循环;模型数据融合；参数优化;模型选择
+
+# Carbon flux simulation of typical temperate and subtropical forest ecosystems in China based on model-data fusion approach
+
+GE Rong1,²，HE Honglin1,\*，REN Xiaoli¹，ZHANG $\mathrm { L i } ^ { 1 }$ ，FENG Ailin³，WANG Huimin', ZHANG Junhui4
+
+1KeyLaboratofoteoOeddelinitfaceulosechde   
+Science,Beijing 100101,China   
+2 University ofChinese Academy of Sciences，Beijing 1OoO49,China   
+3 Shenyang Agricultural University,Shenyang 11o866,China   
+4Instituteof Applied Ecology，Chinese Academy of Sciences，Shenyang11o016,China
+
+Abstract：Moistureeffectonthecarbon balance ofterrstrial ecosystems isakeyissue inglobalchangeresearch.Itis crucial toacuratelyanalyzetheresponseof terrestrialecosystemcarboncycle tomoisture.However,thecarbonfluxmodels respondingtoenvironmental factorsrarelyconsiderthemoisture efectsonphotosynthesisandrespirationsimultaneously; meanwhilethere are stillarge uncertainties inmodel structuresand parameters.Thus，this study was designedto（1)
+
+choose theoptimal carbon flux model with accurate parameters fordiferentecosystems through model-data fusionapproach, reducingthe uncertaintiesof modeledresults；（2）systematicallyanalyze theinfluenceof waterfactorsoncarbon flux simulation，including gross ecosystem productivity（GEP），ecosystem respiration（RE）andnet ecosystem exchange （NEE).To consider the effects of moisture on both GEP and $R E$ ，we developed four different NEE models.Then，based on carbon fluxandmeteorological data during growingseason from 2O03 to 2009 in Changbaishan temperate mixed forest （CBS）and Qianyanzhou subtropical coniferous plantation（QYZ），Markov Chain Monte Carlo was employed to estimate model parameters，and Bayesian Information Criterion wasapliedto choose theoptimal modelfor two forestecosystems. The resultsshowed that（1）the posteriorvaluesof model parameters werenormallydistributed，indicating that the parameters were wellconstrained byNEE.Photosynthetic andrespiratory parameter valuesof CBS were higher than those of QYZ during the growing season.The model without vapor pressure deficit（VPD）overestimated the value of temperature sensitivity ( $\cdot Q _ { \scriptscriptstyle { 1 0 } } )$ and underestimated the value of basal respiration rate $\left( B _ { { } _ { R } } \right)$ in QYZ；（2） the model considering VPD only wastheoptimal model for CBS,but itsperformance was not improved much.Themodeled fluxcomponents were similar among the four models；（3）the model considering both VPD and soil water content $( S _ { w } )$ was the optimal model for QYZ, and its performance was improved significantly. The model ignored water factors overestimated $2 \%$ ? $( 2 1 . 8 5 \mathrm { ~ g ~ C / m } ^ { 2 }$ ）of the total GEP，and $4 . 4 \%$ 0 $( 3 8 . 0 2 \mathrm { ~ g ~ C ~ / m } ^ { 2 }$ ）of the total $R E$ ，and therefore，underestimated $7 . 8 \%$ ( $1 8 . 5 5 \mathrm { ~ g ~ C / m } ^ { 2 }$ ）of the total measured NEE during the growing season.
+
+Key Words:moisture eect；carbon cycle；model-data fusion；parameter optimization；model selection
+
+模型是理解碳循环过程及其控制机制的重要手段[1],如何准确地模拟、预测陆地生态系统碳循环变化过程成为目前全球变化最为重要的研究问题之一[2]。通量观测技术及全球观测网络的发展,为陆地生态系统碳循环模拟研究提供了大量连续观测的数据支持[3-5],光合、呼吸作用对光照、温度、水分等环境要素变化的响应模型(碳循环过程环境响应模型)也随之得到了长足的发展，成为跨尺度生物地球化学循环模型的重要组成部分,在陆地生态系统碳循环过程模拟中起着重要的作用[6-7]。水分是影响生态系统碳循环过程的重要因素,尤其是那些水分受限的生态系统[8]。它通过影响微生物活性、植物根系生长、营养物质迁移及呼吸的温度敏感性而限制生态系统呼吸作用9,也通过调节植物气孔导度和叶片水势、影响光合系统的酶活性和$\mathrm { C O } _ { 2 }$ 固定效率而限制生态系统光合作用[10]。目前在全球变化背景下,降水变率的增大导致干旱影响区域和强度的增大[1],生态系统碳循环过程对水分响应的研究越来越得到关注和重视[12-17]。其中 Richarson 等[13]、Liu等[14]构建呼吸作用对温度、水分变化的响应模型,系统分析了水分对生态系统呼吸的影响;Lassop 等[15]、Wagle 等[16]基于多个通量站数据构建光合作用对光照、空气湿度变化的响应模型,探讨了水分在不同植被光合作用中的重要性。但水分变化同时影响生态系统的光合、呼吸作用,而现有碳循环过程环境响应模型较少考虑水分因子对光合、呼吸的共同影响,无法准确分析水分对生态系统碳循环过程的影响。
+
+碳循环过程对水分响应形式的不同使模型结构存在差异性,同时模型参数也难以准确估算,导致模拟结果存在较大的不确定性。而近年来发展的基于贝叶斯理论的模型数据融合方法（Model-Data Fusion,MDF）[18]能够充分利用观测数据和参数先验信息,优化模型参数、评估模型结构,为准确分析水分对生态系统碳循环影响提供了有效的技术手段[19]。目前 MDF在碳通量模拟中已得到广泛应用,但主要集中在通过马尔科夫链-蒙特卡罗（MCMC,Markov Chain Monte Carlo)等优化方法降低模型参数不确定性方面[2-24]。综合考虑模型参数及模型结构不确定性的研究较少[25],其中 Sacks 等[26]、Zobitz 等[27]采用贝叶斯信息准则法（BIC)定量比较了不同呼吸、光合模型的优势和不足,揭示了MDF应用在模型结构评价和选择中的优越性。
+
+千烟洲亚热带人工针叶林(QYZ)和长白山温带针阔混交林(CBS)分别代表了我国东部南北森林样带上的两个典型森林生态系统类型[28],并在生长期水分条件差异显著,这为研究水分对于不同生态系统碳循环过程的影响提供了天然的实验条件。其中QYZ雨热不同季造成了季节性干旱,对生态系统碳循环过程存在胁迫现象[29],而CBS 在生长季节水分相对充沛,较少受到干旱的影响[30]。因此本文以QYZ和CBS 为例,综合考虑水分对光合、呼吸作用的共同影响,构建不同的碳循环过程环境响应模型,集成 MCMC与BIC方法优化模型参数、评价模型结构,遴选两个生态系统的最适模型,降低碳通量模拟结果的不确定性;并在此基础上探讨水分因子对QYZ、CBS 光合、呼吸作用的影响。
+
+# 1数据与方法
+
+# 1.1 站点概况和研究数据
+
+千烟洲（QYZ)观测站位于江西省红壤丘陵农业综合开发实验站内,多为树龄约30a的人工针叶林,属于典型亚热带季风气候;长白山(CBS)观测站位于长白山自然保护区红松针阔混交林内,多为树龄约200a 的成熟原始林,属于典型的温带大陆性季风气候。南北两个生态系统水热状况差异明显。中国生态系统研究网络(CERN)和中国陆地生态系统通量研究网络(ChinaFLUX)对两个站点都进行了长期的生态监测和碳通量连续观测,站点的基本特征见表1,其它详细信息可以参考张雷明等[28]、刘允芬等[29]。
+
+表1研究站点的基本特征  
+Table1Basic characteristics of research sites   
+
+<html><body><table><tr><td>站点Site</td><td>千烟洲亚热带人工针叶林(QYZ) Qianyanzhou subtropical coniferous plantation</td><td>长白山温带针阔混交林(CBS) Changbaishan temperate mixed forest</td></tr><tr><td>地理位置 Geographical location</td><td>26°44'N,115°04'E</td><td>41°29'N,128°05'E</td></tr><tr><td>海拔 Elevation /m</td><td>100</td><td>736</td></tr><tr><td>年平均温度 Mean annual temperature /C</td><td>17.9</td><td>4</td></tr><tr><td>年降水 Mean annual precipitation /mm</td><td>1485</td><td>695</td></tr><tr><td>土壤类型 Soil type</td><td>红壤</td><td>山地暗棕壤</td></tr><tr><td>冠层高度 Canopy height /m</td><td>11</td><td>26</td></tr></table></body></html>
+
+研究数据包括模型驱动、反演及验证数据。模型驱动数据为两个站点2003—2009 年的 $3 0 ~ \mathrm { m i n }$ 气象观测数据,主要包括气温、土壤温度、土壤含水量、光合有效辐射、空气饱和水汽压差,均由常规自动气象观测系统测定。反演和验证数据均为两个站点经过质量控制后的 $3 0 ~ \mathrm { m i n }$ 涡度相关碳通量观测数据,具体处理流程参见李春等[31]。其中,2003—2006年生长季（5—9月)的通量数据用于模型参数优化,2007—2009 年生长季(5—9月)的通量数据用于模型验证。
+
+# 1.2 NEE模型组合
+
+净生态系统碳交换量(NEE)是总生态系统生产力(GEP)与生态系统呼吸(RE)两大通量平衡的结果。本研究在温度响应的呼吸模型与光响应的光合模型的基础上,综合考虑土壤水分和空气水分因子对GEP、RE的影响,构建了4组NEE模型表述碳循环过程对水分响应的不同形式。表2描述了碳通量模型的组合方式。
+
+Lloyd&Tayor 模型[32]（1)作为生态系统呼吸的温度响应模型得到广泛认可和应用,相比Van'tHoff方程和Arrhenius方程,它更好地描述了生态系统呼吸的变异性,在低温和高温条件下对温度变化都有较强的响应能力[33]。 $Q _ { 1 0 }$ 模型(2)采用温度和土壤含水量作为模型驱动变量来描述温度和水分对生态系统呼吸的协同作用[12],并假设生态系统呼吸的温度敏感性因子 $Q _ { 1 0 }$ 与土壤水分状况密切相关。相比于其他考虑温度、水分响应的呼吸模型（如连乘模型）， $Q _ { 1 0 }$ 模型在干旱土壤条件下对温度和水分有着更强的敏感性[33]。
+
+$$
+R E = B _ { \scriptscriptstyle R } \times Q _ { 1 0 } ^ { ( T - T _ { \mathrm { r e f } } ) / T _ { \mathrm { r e f } } }
+$$
+
+$$
+R E = B _ { _ R } \times Q _ { _ { 1 0 } } ^ { ( { T - } T _ { \mathrm { r e f } } ) / T _ { \mathrm { r e f } } } , Q _ { _ { 1 0 } } = a + b \times S _ { _ { W } }
+$$
+
+式中， $R E$ 是生态系统呼吸( $\mathrm { [ \mu m o l ~ m ^ { - 2 } ~ s ^ { - 1 } }$ ） $B _ { R }$ 是参考温度下的生态系统基础呼吸( $\mathrm {  ~ \mu ~ m o l ~ m ~ } ^ { - 2 } \mathrm {  ~ s ^ { - 1 } ~ }$ ）； $Q _ { 1 0 }$ 是生态系统呼吸的温度敏感性因子,代表温度升高 $1 0 \%$ 生态系统呼吸的相对增长量; $T$ 是 $5 \mathrm { c m }$ 土壤温度 $( \mathrm { ~ \mathcal { C } ~ } )$ ; $T _ { \mathrm { r e f } }$ 是参考温度 $( \mathrm { ‰ }$ ,在此取 $1 0 \%$ · $S _ { \scriptscriptstyle { W } }$ 是 $5 \mathrm { c m }$ 土壤含水量 $( \mathbf { m } ^ { 3 } ~ \mathbf { m } ^ { - 3 }$ ）； $^ { a , b }$ 是试验参数，当 $b$ 为正时,表示生态系统呼吸
+
+对温度的敏感性随水分的增加而增加。
+
+生态系统光合作用强度与光合有效辐射呈显著相关关系,通常符合直角双曲线方程,可以用Michaelis-Menten 模型(3)来表达[34]。当考虑GEP 对光合有效辐射和饱和水汽压差的协同响应时,可在 Michaelis-Menten 模型的基础上将 ${ A } _ { \operatorname* { m a x } }$ 替换成一个考虑 VPD 的指数递减函数（4）[15],使 $A _ { \mathrm { m a x } }$ 在 VPD 值较大时更符合生态学意义，即空气越干燥,生态系统对二氧化碳吸收能力越弱。
+
+$$
+{ \mathrm { G E P } } = - \ A _ { \mathrm { m a x } } \ { \frac { I \cdot L U E } { I \cdot { \mathrm { L U E } } + A _ { \mathrm { m a x } } } }
+$$
+
+$$
+A _ { \mathrm { m a x } } = \left\{ \begin{array} { c } { { A _ { \mathrm { m a x 0 } } \exp \left( - k ( \mathrm { V P D - V P D _ { 0 } ) \Delta  \ , V P D \ > \ \mathrm { V P D _ { 0 } } } } } \\ \right){ { { } } } \\ { { A _ { \mathrm { m a x 0 } } , \mathrm { V P D \ < \ V P D _ { 0 } } } } \end{array} \right.
+$$
+
+式中,GEP 是总生态系统生产力 $\mathrm { [ \mu m o l \ m ^ { - 2 } \ s ^ { - 1 } }$ );LUE 是初始光能利用效率( $\mathrm { ' \mu m o l \ C O _ { 2 } / \mu m o l \ l i g h t \rangle }$ ； $A _ { \mathrm { m a x } }$ 为最大光合速率即光饱和时生态系统 $\mathrm { C O } _ { 2 }$ 同化能力（ $\mathbf { \mu } _ { \mathrm { \implies } } \mathrm { l } \mathrm { ~ C 0 } _ { 2 } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 } )$ ；I为光合有效辐射即入射到植被上方的光量子通量密度( $\mathrm { \mu m o l } \mathrm { \ l i g h t { \ m } } ^ { - 2 } \mathrm { \ s } ^ { - 1 }$ )；VPD 为冠层高度的空气饱和水汽压差( $\left[ \mathrm { h P a } \right)$ ， $\mathrm { \ V P D } _ { 0 }$ 设定为 $1 0 \mathrm { \ h P a } ; A _ { \mathrm { m a x 0 } }$ （204号是不受VPD约束下的最大光合速率； $k$ 是生态系统碳吸收对VPD响应的最大系数。
+
+$$
+\mathrm { N E E } = \mathrm { G E P } + R E
+$$
+
+表2不同光合呼吸模型组合  
+Table 2Four combinations of photosynthetic models and respiration models   
+
+<html><body><table><tr><td>模型组合(NEE) Model combination</td><td>呼吸模型(RE) Respiration model</td><td>光合模型(GEP) Photosynthetic model</td><td>参数 Parameters</td></tr><tr><td>模型1 Model 1</td><td>Lloyd&Tayor</td><td>Michaelis-Menten</td><td>BR Q1o Amax LUE</td></tr><tr><td>模型2 Model 2</td><td>Lloyd&Tayor</td><td>Michaelis-Menten -VPD</td><td>BR Q10 Amax LUE k</td></tr><tr><td>模型3 Model 3</td><td>Q10-Sw</td><td>Michaelis-Menten</td><td>BR Q10 ab Amax LUE</td></tr><tr><td>模型4 Model 4</td><td>Q10-Sw</td><td>Michaelis-Menten -VPD</td><td>BRQi0a bAmax LUE k</td></tr></table></body></html>
+
+# 1.3参数估计方法
+
+本文采用的马尔可夫链-蒙特卡罗方法是以贝叶斯定理为基础,利用计算机进行模拟的蒙特卡罗方法。它通过构造马尔可夫链来推断参数的后验信息,不断迭代搜索到全局最优解。相比最小二乘法、极大似然法等传统模型参数估计方法,MCMC方法能解决包含大量参数的复杂非线性问题,并结合了生态模型参数先验知识和观测样本的信息,可以更加准确地估计参数。同时它还能提供参数后验分布和置信区间,便于进行不确定性分析。Metropolis-Hastings 算法[35-36]是最常用的 MCMC 抽样方法,其主要步骤为：
+
+1)在参数的先验范围内取参数初值 $\theta _ { 0 }$ （可随机也可指定）,将迭代次数 $\mathbf { \chi } _ { t }$ 设为0;
+
+2)从建议分布中产生参数建议值 $Y$   
+3)产生符合(0,1)均匀分布的随机数 $U$   
+4)计算接受概率 $\alpha ( \theta _ { t } , Y )$
+
+$$
+\alpha ( \theta _ { t } , Y ) = \operatorname* { m i n } \Biggl ( 1 , { \frac { \pi ( Y ) q ( \theta _ { t } \mid Y ) } { \pi ( \theta _ { t } ) q ( Y \mid \theta _ { t } ) } } \Biggr )
+$$
+
+如果 $\alpha ( \theta _ { t } , Y ) \geqslant U$ ,则接受参数建议值，即 $\boldsymbol { \theta } _ { t + 1 } = \boldsymbol { Y }$ ;否则拒绝参数建议值,即 $\boldsymbol { \theta } _ { t + 1 } = \boldsymbol { \theta } _ { t }$ 。
+
+5)令 $\scriptstyle t = t + 1$ ,重复2一5步，直到获得足够多的样本。
+
+根据贝叶斯理论,步骤4中参数集后验概率密度的求解可以转化为似然函数的求解,模型计算中采用形式简单的对数似然函数,当参数迭代结束时便能获取对数似然函数值的全局最优解。本文假设观测数据随机误差服从正态分布，似然函数和其对数值分别如下：
+
+$$
+L = \prod _ { i = 1 } ^ { N } \frac { 1 } { \sqrt { 2 \pi } \sigma } \mathrm { e } ^ { \frac { - ( x _ { i } - \eta _ { i } ) ^ { ~ 2 } } { 2 \sigma ^ { 2 } } }
+$$
+
+http ://www.ecologica.cn
+
+$$
+L L = - \ N \cdot \ln \left( { \sqrt { 2 \pi } } \right) - N \cdot \ln ( \sigma ) - \sum _ { i = 1 } ^ { N } { \frac { ( x _ { i } - \eta _ { i } ) ^ { 2 } } { 2 \sigma ^ { 2 } } }
+$$
+
+式中， $N$ 为观测数据个数， $x _ { i }$ 和 $\eta _ { i }$ 分别为第 $i$ 个观测值和模拟值， $\sigma$ 为观测数据的标准差。
+
+# 1.4模型评价方法
+
+传统的模型评价方法包括比较模拟值与实测值的似然函数值、决定系数 $R ^ { 2 }$ 、均方根误差(RMSE)以及平均绝对偏差(MAE),但其忽略了不同结构的模型引起的参数组成和数目的差异。本文采用的贝叶斯信息准则法不仅考虑了模型数据匹配情况,还考虑了参数的个数以及参与拟合的数据点个数,从而避免了模型结构的冗余以及数据的过度拟合,能够从不同的模型中遴选出结构精简、模拟效果最佳的模型[26-27]。
+
+$$
+\mathrm { B I C } = - \ 2 L L + K \ln ( n )
+$$
+
+式中， $K$ 是优化参数的个数， $n$ 为优化过程中使用的数据点个数,BIC 值越小说明模型越佳。
+
+# 2结果与讨论
+
+# 2.1 参数优化结果
+
+基于千烟洲、长白山两个森林生态系统 2003—2006 年气象和碳通量观测数据,通过MCMC 算法对4组模型进行参数优化,获取参数后验分布及最优参数集。图1和图2中4组模型参数的后验分布均为正态分布，且各参数的标准差均较小(表3)：呼吸参数标准差均控制在参数均值的 $10 \%$ 以内，光合参数标准差均控制在参数均值的 $1 \%$ 左右,表明优化后的参数均可以被 NEE 实测数据良好约束。
+
+表3参数优化结果  
+Table 3Parameter optimization results   
+
+<html><body><table><tr><td>呼吸参数 Parameter</td><td>先验值 Prior value</td><td>模型 Model</td><td>QYZ 后验值 Posterior value</td><td>CBS 后验值 Posterior value</td><td>光合参数 Parameter</td><td>先验值 Prior value</td><td>模型 Model</td><td>QYZ 后验值 Posterior value</td><td>CBS 后验值 Posterior value</td></tr><tr><td>BR</td><td>1[0.25,10]</td><td>1</td><td>1.67±0.04</td><td>4.92±0.20</td><td>Amax</td><td>20[5,50]</td><td>1</td><td>28.96±0.37</td><td>31.58±0.25</td></tr><tr><td></td><td></td><td>2</td><td>3.14±0.05</td><td>4.67±0.22</td><td></td><td></td><td>2</td><td></td><td></td></tr><tr><td></td><td></td><td>3</td><td>1.84±0.05</td><td>4.96±0.21</td><td></td><td></td><td>3</td><td>29.13±0.30</td><td>31.40±0.27</td></tr><tr><td></td><td></td><td>4</td><td>3.36±0.10</td><td>4.74±0.14</td><td></td><td></td><td>4</td><td></td><td></td></tr><tr><td>Q10</td><td>2[1,3.5]</td><td>1</td><td>1.83±0.04</td><td>1.95±0.13</td><td>Amax0</td><td>30[20,60]</td><td>1</td><td></td><td></td></tr><tr><td></td><td></td><td>2</td><td>1.34±0.01</td><td>2.10±0.03</td><td></td><td></td><td>2</td><td>35.16±0.42</td><td>37.27±0.33</td></tr><tr><td></td><td></td><td>3</td><td></td><td></td><td></td><td></td><td>3</td><td></td><td></td></tr><tr><td></td><td></td><td>4</td><td></td><td></td><td></td><td></td><td>4</td><td>35.28±0.50</td><td>37.09±0.35</td></tr><tr><td>a</td><td>3[1,10]</td><td>1</td><td></td><td></td><td>k</td><td>0.01[0,0.5]</td><td>1</td><td></td><td></td></tr><tr><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>2</td><td>0.02±0.00</td><td>0.05±0.00</td></tr><tr><td></td><td></td><td>3</td><td>2.22±0.03</td><td>2.41±0.18</td><td></td><td></td><td>3</td><td></td><td></td></tr><tr><td></td><td></td><td>4</td><td>1.44±0.03</td><td>2.31±0.13</td><td></td><td>0.001</td><td>4</td><td>0.03±0.00</td><td>0.05±0.00</td></tr><tr><td>b</td><td>-4[-10,10]</td><td>1</td><td></td><td></td><td>LUE</td><td>[0.001,0.1]</td><td>1</td><td>0.06±0.00</td><td>0.09±0.00</td></tr><tr><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>2</td><td>0.05±0.00</td><td>0.08±0.00</td></tr><tr><td></td><td></td><td>3</td><td>-1.82±0.11</td><td>-2.10±0.19</td><td></td><td></td><td>3</td><td>0.06±0.00</td><td>0.09±0.00</td></tr><tr><td></td><td></td><td>4</td><td>-1.08±0.09</td><td>-1.38±0.10</td><td></td><td></td><td>4</td><td>0.05±0.00</td><td>0.08±0.00</td></tr></table></body></html>
+
+对比生态系统光合参数(表3),不同模型间的参数变化微小,而不同生态系统的参数差异明显：尽管QYZ作为人工林生态系统具有较强的光合能力,但CBS 在生长季的光能利用效率LUE 和最大光合速率 $A _ { \mathrm { m a x } }$ 仍高于 $\boldsymbol { \mathrm { Q Y Z } }$ 。其中,LUE 平均约高 $0 . 0 3 \mu \mathrm { m o l } ~ \mathrm { C O } _ { 2 } \mu \mathrm { m o l } ^ { - 1 } \mathrm { ~ l i g h t } , A _ { \mathrm { m a x } }$ 平均约高 $2 . 2 0 \mu \mathrm { m o l } ~ \mathrm { C O } _ { 2 } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 。这是因为CBS温带落叶植物不同于QYZ 的亚热带常绿针叶林,有明显的生长季节和非生长季节之分,因此在有限生长季节内具有高效利用有效水热资源的植被生长特性[28,37]。而QYZ在夏季受副热带高气压带影响,易形成高温和干旱天气限制光合能力[29]。
+
+![](images/20574704bc1b77242dedcb93c0f1dd8120e08d98139d516940c540768fc42e32.jpg)  
+图1四组模型参数后验分布图(千烟洲森林生态系统)  
+Fig.1Posterior distribution of parameters in four models at QYZ
+
+对比生态系统呼吸参数(表3）,不同模型间的的参数值变化较大,不同生态系统间的参数差异也明显。模型间的参数变化主要表现在QYZ 的 $B _ { { } _ { R } }$ 和 $Q _ { 1 0 }$ ,CBS的 $B _ { { } _ { R } }$ 和 $Q _ { 1 0 }$ 变化较小,反映出水分对QYZ呼吸作用的限制。QYZ生态系统的 $B _ { { } _ { R } }$ 和 $Q _ { 1 0 }$ 参数集散点(图3)表明，四组模型 $B _ { { } _ { R } }$ 和 $Q _ { 1 0 }$ 之间均存在很强的负相关性( $r =$ $- 0 . 8 9 -- 0 . 9 7 )$ 。当模型中考虑水分因子后， $Q _ { 1 0 }$ 逐步降低。这是因为呼吸的温度敏感性与水分呈正相关[38-39],QYZ 夏季存在干旱胁迫故 $Q _ { 1 0 }$ 值应处在较低的水平[40],表明考虑水分后的模型可修正 $Q _ { 1 0 }$ 的高估。同时,图3中考虑VPD因子的模型2和4散点分布相近， $B _ { { } _ { R } }$ 在3.02—3.63 之间， $Q _ { 1 0 }$ 在1.20—1.37 之间,符合参考前人文献 $[ 1 4 , 2 0 , 2 4 , 2 8 , 3 3 , 4 1 ]$ 中QYZ 呼吸参数值范围,表明在QYZ考虑 VPD 对光合作用影响的模型能够获取合理的、具有物理特征意义的参数;而未考虑VPD 因子的模型1和3散点分布相近： $B _ { { } _ { R } }$ 范围在1.58—1.95 之间,低估了 $45 \%$ $Q _ { 1 0 }$ 范围在1.77—2.15 之间,高估了 $3 7 \%$ ,该规律与Lasslop 等[15]的研究结果一致。因本研究采用 NEE数据联合反演光合、呼吸参数,两者存在联动关系,故光合模型中VPD 因子的修订会影响呼吸参数的反演。呼吸参数的生态系统差异表现为:4个模型中CBS 生长季的基础呼吸速率 $B _ { R }$ 、温度敏感性参数 $Q _ { 1 0 }$ 均显著高于 $\mathrm { Q Y Z }$ 。其中， $B _ { { } _ { R } }$ 平均约高 $2 . 3 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ， $Q _ { 1 0 }$ 平均约高0.44,符合温带森林呼吸参数高于亚热带森林的规律。这主要是因为QYZ的纬度低于CBS、温度高于CBS,而 $B _ { { } _ { R } }$ 和 $Q _ { 1 0 }$ 均随着纬度降低、温度升高而降低[3,38-39]。同时,CBS 红松林林龄大于QYZ人工林,凋落物多、土壤有机质含量高[28,30,33],故呼吸底物相对较多，从而呼吸参数值较高。
+
+![](images/b63ae2f02cbbdc87a441f323e96494de118000ca353a37a400d025bd31978b2a.jpg)  
+图2四组模型参数后验分布(长白山森林生态系统)
+
+# 2.2最优模型选择
+
+基于千烟洲和长白山2007—2009 年5—9月的气象观测数据，利用参数优化后的4组模型对两个森林生态系统的碳通量分别进行模拟，通过BIC方法对考虑不同水分的模型模拟性能进行了定量对比（表4）。在CBS,仅考虑VPD对光合作用影响的模型2BIC值最小，成为4组模型中CBS生长季碳通量模拟的最优模型。相比QYZ 而言，水分因子对CBS 模型性能提升较小， $R ^ { 2 }$ 仅从0.77提高至0.83，BIC值降低了694：其中，考虑Sw因子使模型BIC平均仅下降了12,考虑VPD因子使模型BIC平均下降了688，表明水分对光合作用的影响更为明显。这是因为CBS属于季风影响的温带大陆性气候,降水和温度表现出一致的单峰季节变化,年均温度较低，且土壤的持水能力较强,故Sw一直保持在较高的水平,对长白山生态系统的呼吸作用没有明显的限制作用[30,3,42]。而由于CBS 在5月和9月的降水较少,气温却保持在 $1 0 \%$ 以上,因此5和9月的VPD较高,6—8月的VPD较低,形成了明显的双峰季节变化[28],故 VPD 对长白山生长季的光合作用有一定限制作用。同时,Poulter等[43]研究也表明北方森林生态系统光合作用对降水变化更为敏感,因此考虑水分对光合作用影响的模型能够更为准确地模拟温带森林生态系统对全球变化响应。尽管模型4的 $R ^ { 2 }$ 高于模型2,但模型4中 Sw 因子对模拟性能提升贡献极小,反而增加参数个数使模型结构复杂,仅考虑VPD的模型2 BIC 值最小,验证了BIC 方法挑选精简模型的优越性。
+
+![](images/194d7c15e6709c389c2fabe1a1a24d2a7208539f1ae6c65204c5e904511b177c.jpg)  
+Fig.2Posterior distribution of parameters in four models at CBS   
+图3 $\boldsymbol { B } _ { R }$ 和 $\varrho _ { 1 0 }$ 的最优参数集散点图  
+Fig.3Parameter space plots of basal respiration rate （ $B _ { R }$ ）versus exponential temperature sensitivity ( $\left| Q _ { 1 0 } \right|$ ）
+
+Table 4Model selection results based on BIC method   
+
+<html><body><table><tr><td rowspan="2">模型 Model</td><td rowspan="2">水分因子 Moisture factor</td><td rowspan="2">参数个数 Parameters</td><td colspan="3">千烟洲QYZ</td><td colspan="3">长白山CBS</td></tr><tr><td>R²</td><td>LL</td><td>BIC</td><td>R²</td><td>LL</td><td>BIC</td></tr><tr><td>1</td><td>1</td><td>4</td><td>0.70</td><td>-18918</td><td>37876</td><td>0.77</td><td>-19685</td><td>39410</td></tr><tr><td>2</td><td>VPD</td><td>5</td><td>0.80</td><td>-18557</td><td>37164</td><td>0.82</td><td>-19330</td><td>38710</td></tr><tr><td>3</td><td>Sw</td><td>5</td><td>0.74</td><td>-18864</td><td>37778</td><td>0.78</td><td>-19665</td><td>39380</td></tr><tr><td>4</td><td>VPD Sw</td><td>6</td><td>0.84</td><td>-18496</td><td>37052</td><td>0.83</td><td>-19328</td><td>38716</td></tr></table></body></html>
+
+LL（Log Likelihood）为似然函数对数值,BIC（Bayesian Information Criterion）为贝叶斯信息准则
+
+在QYZ,考虑VPD 和 Sw 对光合、呼吸作用共同影响的模型4 BIC 值最小,且模型4中参数相关性约束得更好（图3）,成为QYZ生长季碳通量模拟的最适模型。水分因子对QYZ模型模拟性能有显著提升， $R ^ { 2 }$ 从0.70到0.84提升了 $0 . 1 4 ( 2 1 \% )$ ,同时 BIC 值降低了824：其中,考虑VPD 因子使模型 BIC平均下降了719,考虑 Sw因子使模型 BIC平均下降了106,表明水分是控制QYZ生长季碳通量交换的重要环境因子。这是因为QYZ属于典型的亚热带季风气候,在夏季受副热带高气压带的控制和影响,水热不同步性明显,易形成伏旱[44-45]。VPD 呈单峰特征,在生长季内可明显上升至 $2 \mathrm { { k P a } }$ ,同时表层 Sw可显著下降到 $0 . 1 \mathrm { ~ m } ^ { 3 } / \mathrm { m } ^ { 3 }$ ,故VPD 和 Sw 对QYZ 生长季的光合、呼吸作用均有明显的限制作用[28.33,40,46-47]。
+
+# 2.3水分因子对碳通量模拟的影响
+
+利用参数优化后的4组光合、呼吸模型对CBS、QYZ 2003—2009 年生长季模型碳通量模拟值进行拆分，并取其多年平均值(表5)分析不同生态系统碳通量组分(NEE、RE、GEP)对水分的响应。
+
+表4BIC方法模型选择结果  
+表5不同模型模拟的碳通量组分生长季总量  
+Table 5The sum of NEE GPP and Re modeled by diferent models during growing season   
+
+<html><body><table><tr><td rowspan="2">模型 Model</td><td rowspan="2">水分因子 Moisture factor</td><td colspan="4">千烟洲QYZ</td><td colspan="4">长白山CBS</td></tr><tr><td>实测值 NEE</td><td>模拟值 NEE</td><td>（g C/m²）</td><td></td><td>实测值 NEE</td><td>模拟值</td><td>（g C/m²）</td><td></td></tr><tr><td>1</td><td></td><td></td><td>-219.64</td><td>GEP -1118.12</td><td>RE 898.48</td><td></td><td>NEE -297.56</td><td>GEP -1158.55</td><td>RE</td></tr><tr><td>2</td><td>VPD</td><td></td><td>-228.79</td><td>-1102.23</td><td>873.44</td><td>-304.23</td><td>-302.71</td><td>-1143.66</td><td>860.99 840.95</td></tr><tr><td>3</td><td>Sw</td><td></td><td>-225.45</td><td>-1110.08</td><td>884.63</td><td></td><td>-300.37</td><td>-1150.51</td><td>850.14</td></tr><tr><td>4</td><td>VPD Sw</td><td>-238.19</td><td>-235.81</td><td>-1096.27</td><td>860.46</td><td></td><td>-306.73</td><td>-1139.70</td><td>832.97</td></tr></table></body></html>
+
+在CBS,仅考虑VPD对光合作用影响的最优模型2各年NEE模拟值均与实测值最为接近,多年平均的NEE 生长季总量模拟值仅低于实测值 $0 . 5 \% ( 1 . 5 2 \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ 。与之相比,未考虑水分的模型1模拟效果最差,在生长季平均高估了GEP 总量 $1 . 3 \% ( 1 4 . 8 9 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ，同时高估了 $R E$ 总量 $2 . 4 \% ( 2 0 . 0 4 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,但NEE总量仅低估于实测值 $2 . 2 \% ( 6 . 6 7 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,表明在CBS不同的水分响应模型之间模拟差异较小。
+
+在QYZ,考虑水分对光合、呼吸作用共同影响的最优模型4各年 NEE 模拟值均与实测值最为接近,多年平均的 NEE 生长季总量模拟值仅低于实测值 $1 . 0 \% ( 2 . 3 8 \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ 。与之相比,未考虑水分的模型1模拟效果最差,在生长季平均高估了GEP 总量 $2 . 0 \% ( 2 1 . 8 5 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,同时更大幅度地高估了 $R E$ 总量 $4 . 4 \% ( 3 8 . 0 2 \mathrm { ~ g ~ C ~ } /$ $\mathbf { m } ^ { 2 }$ ),从而导致整体上NEE 总量低估于实测值 $7 . 8 \% ( 1 8 . 5 5 \ \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ 。模型2、3的 NEE 模拟值均不同程度地低估于实测值,其中碳通量组分对不同水分因子的响应不同;未考虑 Sw 因子的模型2主要高估了 $R E$ 总量
+
+$1 . 5 \% ( 1 2 . 9 8 \ \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ ,同时小幅度高估了GEP总量 $0 . 5 \% ( 5 . 9 6 \ \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ 。表明 Sw 因子主要影响了QYZ生态系统呼吸,同时也通过调节冠层导度进而影响GEP的大小;未考虑VPD 因子的模型3主要高估了GEP 总量$1 . 3 \% ( 1 3 . 8 1 \ \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ ,同时高估了 $R E$ 总量的 $2 . 8 \% ( 2 4 . 1 7 \ \mathrm { g } \ \mathrm { C } / \mathrm { m } ^ { 2 } )$ ）,表明VPD因子对千烟洲碳通量组分模拟影响更大。这是因为干旱胁迫对千烟洲生态系光合作用的影响较大[41,45.48],而高水汽压差是光合能力下降的主要原因[29]。同时由于千烟洲人工林林龄不长,尚处于较旺盛生长期,植物自养呼吸是千烟洲生态系统呼吸的主要来源[29,45],并且与气温相关性较强[3]。VPD作为空气温度和湿度的综合指标直接影响了生态系统呼吸,也通过影响GEP 而间接影响生态系统呼吸。
+
+QYZ 生长季的水分条件年际差异较大（丰水年、干旱年），对比2003—2009 各年QYZ生长季NEE 模拟值与实测值的均方根误差（图4），发现2003、2007年考虑VPD的模型RMSE下降显著，其余年份各模型间的模拟效果差异相对较小。而QYZ在这两年的7月份分别发生了极度干旱和中度干旱[48],表明考虑水分因子（尤其是VPD)可显著降低模型在QYZ干旱年份的模拟误差。从QYZ干旱年(2003、2007)生长季模拟值与实测值的散点图(图5)中发现，未考虑VPD的模型1、3均有一个共同点，在NEE值较大和较小处散点的趋势比较平缓,模型模拟存在“高值上不去，低值下不来”的现象，即极值的模拟效果要稍差于中值的模拟效果。尤其当 NEE 实测值达到 $- 2 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 时,模型1、3的模拟值仅达到 $- 1 3 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 左右,表明未考虑VPD 的模型在干旱时期低估了NEE的峰值。这是因为干旱期高水汽压差直接驱动气孔关闭限制生态系统光合作用,导致午间生态系统碳吸收能力急速下降[15.49],因此NEE 呈现出非对称的日变化趋势：上午时段值要高于下午时段,并在中午之前达到峰值。而未考虑VPD 的模型模拟值则表现出随光照变化的对称趋势,从而在上午时段低估 NEE、下午时段高估 NEE[16],并低估日变化中 NEE 的峰值,出现了图5中极值模拟较差的现象。考虑VPD 的模型则可以准确模拟出QYZ干旱期 NEE日变化的非对称趋势,因此在散点图极值处的平缓现象均有明显改善,同时数据拟合线也更贴近于1:1线。
+
+![](images/65d8dbc9d4e5006973bd4d59e01ed34ce5a372acd6d1f8a1e3d493483896ff78.jpg)  
+图4QYZ四组模型NEE半小时尺度模拟值与实测值的RMSE 对比图 Fig.4Comparison of RMSE of half-hourly modeled NEE from the four models and observed NEE at QYZ
+
+# 3结论
+
+本文以千烟洲亚热带人工针叶林和长白山温带针阔混交林生态系统为例,应用模型数据融合方法为不同的碳循环过程响应模型优化参数,并遴选最适模型,系统分析了水分对不同生态系统碳通量模拟的影响。主要结论如下：
+
+(1)优化后的光合、呼吸参数均能被NEE实测数据良好约束,参数后验为正态分布、标准差较小。光合参数的生态系统差异明显：CBS 生长季的LUE 和 $A _ { \mathrm { m a x } }$ 均高于QYZ,但参数的模型间差异微小;呼吸参数的生态系统差异明显：CBS 生长季的 $B _ { \scriptscriptstyle R }$ 和 $Q _ { 1 0 }$ 均高于QYZ,同时参数的模型间差异也显著：未考虑VPD 的模型高估了QYZ的 $Q _ { 1 0 }$ 值 $( 3 7 \%$ ）、低估了QYZ的 $B _ { R }$ 值 $( 4 5 \% )$ )。光合、呼吸参数的生态系统差异准确反映了温带森林与亚热带森林在生长季的碳循环特征。
+
+(2)同时考虑水分对光合、呼吸作用影响的模型和仅考虑水分对光合作用影响的模型分别是QYZ 和 CBS的最优模型。考虑水分因子对CBS 模型的模拟性能并无明显提升,对QYZ却显著提高,其中考虑 VPD 对光合作用的影响是QYZ模拟效果提升的主要原因。
+
+（3)不同的水分响应模型在CBS 碳通量组分模拟差异较小,而在QYZ差异明显：未考虑水分的模型在生长季高估了GEP总量 $2 . 0 \% ( 2 1 . 8 5 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ,同时更大幅度地高估了 $R E$ 总量 $4 . 4 \% ( 3 8 . 0 2 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ ，从而导致整体上NEE 总量低估于实测值 $7 . 8 \% ( 1 8 . 5 5 \mathrm { ~ g ~ C ~ } / \mathrm { m } ^ { 2 } )$ 。其中，未考虑 Sw 因子主要引起 $R E$ 高估,而未考虑VPD不仅引起GEP高估，也导致 $R E$ 高估。同时,在QYZ干旱年VPD因子对碳循环的影响更为显著,未考虑VPD 的模型不能模拟出干旱期NEE日变化的非对称趋势并低估了NEE 的峰值。
+
+![](images/942ebf8bf515afbe443eda35f5b03a5f97ac7580d7b2bfdf0aa4ce86b21efa65.jpg)  
+图5QYZ干旱年生长季半小时尺度NEE 模拟值与观测值散点图 Fig.5Half-hourly NEE from observations and the four models at QYZ
+
+(4)本研究中提出的集成 MCMC与BIC的模型数据融合方法可进一步应用于复杂的陆地生态系统过程模型,为改进生态系统模型结构、降低模拟的不确定性提供了有效途径。
+
+# 参考文献（References）：
+
+[1]CaoMKLalllieboChina Series D-Earth Sciences,2005,48(2):17-32.  
+[2]Heimann M,Reichstein M.Terrstrialecosystemcarbondynamicsandclimate feedbacks.Nature，2008，451（7176):89-292.  
+[3］赵士洞.国际长期生态研究网络(ILTER）——背景、现状和前景.植物生态学报，2001,25(4)：510-512.  
+［4］于贵瑞，孙晓敏.中国陆地生态系统碳通量观测技术及时空变化特征.北京;科学出版社，2008.  
+[5]Sulkstaleesppreeatisofronetwork example. Journal of Geophysical Research,2011，116(G3）:278-278.  
+［6］于贵瑞，孙晓敏.陆地生态系统碳通量观测的原理与方法.北京;高等教育出版社，2006.  
+［7］李克让.中国陆地生态系统过程及对全球变化响应与适应的模拟研究.北京：气象出版社，2009.
+
+http://www.ecologica.cn
+
+[8]Bonan GB.Ecological Climatology:Conceptsand Applications.2nded.New York:Cambridge UniversityPres,2008.  
+[9]Luo,Y Q, Zhou X H.Soil respiration and the environment.Academic Press，an imprint of Elsevier,2006.  
+[10］于贵瑞,王秋凤.植物光合、蒸腾与水分利用的生理生态学.北京;科学出版社，2010.  
+[11］田汉勤，万师强，马克平.全球变化生态学：全球变化与陆地生态系统.植物生态学报，2007,31（2):173-174.  
+[12]Reichtein,nJDosardcialJbal,oreSletiRostepatiointiteaHolm Oak forests:drought efectsanddecomposition dnamics.Functional Eology，2002,16(1）:-9.  
+3RicdDlatislliidelodeeMonteCarlosilaiofodeldraeeceaitypplidtosipleodelsgicuralndFresteteool4) :191-208.  
+[14]LiuM,HHL,YuGR,SunXM,ZangL,HanSJ,WangHM,ZhouGY.Uncertaintyanalysisindataprocesingontheestiatioofnetcarbon exchanges at diffrent forest ecosystems in China. Journal of Forest Research，201,17(3）:312-322.  
+[15]LsslopG,Reichstein M,PapaleD，ichardsonAD，ArethA，Barr，StoyP，WohfahrtG.Separationofnetcosystemexchangeitoassimilationdspatiosinglgtspoeueapach：ialusdaleauatiobalCagel208.  
+[16]WagleP，KakanVGSeasoalvarabilityinnetosystecarbondioxideexchangeoverayungSwitchgrasstandGlobalChangiologBioenergy，2013,6(4）：339-350.  
+[17]NkajiTosiY,ashS,aK,chS,iOga,kAR,KassAREtatiofigh-sefcohcombinatinaluseofthotochemicaleflctaceindexadaporpresureeficitinaevegntropicaliforestataso，esulrMalaysia.Remote Sensing of Environment，2014，150(7):82-92.  
+[18]GlobalCarbretceeokdmplementatioEarthStScearership（GB，W,E）No.1.Global Carbon Project Report No.1，Canberra,2003.  
+[19]WangYCgIGefatiosfelatausiotsoftrralbofeataleAgricultural & Forest Meteorology，2009,149（11）:1829-1842.  
+[20]LiuM,HeHL，YuGR,LuoYQ，SunXM,Wang HM.UncertaintyanalysisofCO2fluxcomponentsinsubtropicalevergreencoiferousplantation. Science in China Series D: Earth Sciences，2009,52(2): 257-268.  
+[21]RichardsoAD,WilliamsM,HollngerDY,MooeDJP,DalDB,DvidsonEA,SottNA,EvansRS,HughesH,LeeJT,odrgesC,SavageK.Estiairaeesoffrstoseodelieasueetsfosuessjtosrtsecol64(1): 25-40  
+22]Riciutingostpcitaesconstraining variablesand data record length.Journal of Geophysical Research-Biogeosciences，2O11,116(G1）:104-121.  
+[23]ZhangL，uGR，GuFX,HeHUncerantalysisodedbofesaavdKrieidforestbyecosystem model. Journal of Forest Research,2012,17(3）:268-282.  
+[24]Ren XL,HeHL,MoreDJP,ZhangL,LiuM,LiF,YuGR，WangHM.Uncertaintyanalysisofmodeledcarbonandwaterfluesinsubtropical coniferous plantation.Journal of Geophysical Research Biogeosciences，,2013,118(4）：1674-1688.  
+[25]RyeJertateofbcyatailatouetOpoivitalSustabit)-6.  
+[26]Sacks WJ,Schimel D S,Monson R K,BraswellB H. Model-data synthesis of diurnal and seasonal $\mathrm { C O } _ { 2 }$ fluxes at Niwot Ridge,Colorado.GlobalChange Biology，2006，12(2）：240-259.  
+[27]ZobitzJM,DesaiAR，MoreDJP,ChadwickMA.AprimerfordataassimiltionwithcologicalmodelssingMarkovChainMonteCarlo（MCMC）.Oecologia,2011，167(3）: 599-611.  
+[28］张雷明.中国东部南北森林样带典型生态系统碳收支特征及其生理生态学机制［D].北京：中国科学院研究生院，2006.  
+[29］刘允芬,于贵瑞，温学发，王迎红，宋霞，李菊，孙晓敏，杨风亭，陈永瑞，刘琪璟.千烟洲中亚热带人工林生态系统 CO2 通量的季节变异特征.中国科学(D辑），2006，36(增刊I)：91-102.  
+［30］张军辉，于贵瑞，韩士杰,等.长白山阔叶红松林 $\mathrm { C O } _ { 2 }$ 通量季节和年际变化特征及控制机制.中国科学(D辑），2006，36(增刊1):60-69.  
+[31］李春，何洪林，刘敏，苏文，伏玉玲，张雷明，温学发,于贵瑞.ChinaFLUX $\mathrm { C O } _ { 2 }$ 通量数据处理系统与应用.地球信息科学，2008，10（5），557-565.  
+[32]LloydJ,TaylorJA.Onthe temperature-dependenceof soil respiration.Functional Ecology，1994,8（3）:315-323.  
+[33］于贵瑞，温学发，李庆康，张雷明，任传友，刘允芬，关德新.中国亚热带和温带典型森林生态系统呼吸的季节模式及环境响应特征.中国科学D辑，2004，34(增刊2)：84-94.  
+[34]FalgeE,BadochiD,OlsonR,nthoniP,AubinetM，BerhoferC，BurbaG,CeulemansR,ClementR,DolmanH,GranierA,Gross,GrunwaldT,HolingerD,enseNKatulG,KeronenP,KowaskiA,LaiCT,awBE,MeyersT,ocrieffH,MoorsE,ugrJ,PilegardK,RkURebaC,uykrA,enunnJ,uK,Vera,VsalaT,WsonK,WofsS.Gpfllngstrategieseibleannual sums of net ecosystem exchange.Agricultural and Forest Meteorology，2O01，1O7(1）：43-69.  
+[35]MetropolisoseuthAW,osenbluthM,TelrAH,TelrE.EquationofsatealculatonbyfstcomutingacnsJoulfChemical Physics，1953，21(6），1087-1092.  
+[36] HastingsWK.Monte Carlo sampling methodsusing Markov chain andtheirapplications.Biometrika,197o,57,97-109.  
+[37]Falge E,Tenhunen J,Baldocchi D,Aubinet $\mathbf { M }$ ,Bakwin P.Phase and amplitude of ecosystem carbon release and uptake potentials as derived fromFLUXNET measurements.Agricultural and Forest Meteorology，2002，113（1），75-95.  
+38XuMipatildlsfQeeylsasueteobalCycles，2001，15(3），687-696.  
+[39]ReichsteinM,ReyA,FreibauerA,TeunenJ,VaentiR,BnzaJ，CasalsP,ChengY,GrunzweigJM,IineJ,JofreR,awBE,LoustauD,MiglietaF,OchelW,OurcivalJ,PereraJS,PeresottiA,PontiF,QiambalS,aentomanaJosiF,TedeschiV,TironeG,XuM,YakirModeligtemporaladlargescalesatiavrablityofsilrespirationfrosoilwateralabilittemperature and vegetation productivity indices.Global Biogeochemical Cycles，2O03，17(4）:15-1.  
+[40]Wen XF,YuGR,SunXM,LiQK,LiuYF,ZhangLM,RenCY,FuYL,LiZQ.SoilmoistureefectonthetemperaturedependencefecosystemrespirationisubtropicalPinusplatioofoutheasteChina.AgrclturalandForestMteorolog，O6,3（3）：6  
+[41］任小丽，何洪林，刘敏，张黎，周磊，于贵瑞，王辉民.基于模型数据融合的千烟洲亚热带人工林碳水通量模拟.生态学报，2012，32(23），7313-7326.  
+[42] 赵晓松.涡动相关法估算森林生产力及与测树学方法的比较.硕士学位论文，中国科学院研究生院，北京，2005.  
+[43] PoulterB,PedersonLuHtalnttredsinersianfrstdaicstoepeaturedpreiitatioidcateigsiiiyclimate change.Agricultural and Forest Meteorology，2013,178(4）:31-45.  
+[44]孙晓敏，温学发，于贵瑞.中亚热带季节性干旱对千烟洲人工林生态系统碳吸收的影响.中国科学(D辑），2006,36(增刊2）：103-110.  
+[45] 米娜.中亚热带人工针叶林生态系统碳水通量的观测和模拟研究.博士学位论文,南京信息工程大学,南京,2007 年.  
+[46] 顾峰雪，于贵瑞，温学发，陶波，李克让，刘允芬.干旱对亚热带人工针叶林碳交换的影响.植物生态学报，2008，32（5）：1041-1051.  
+[47］张舒，申双和，温学发，张舒，申双和，温学发，张心昱，孙晓敏，王辉民.温度和水分对中亚热带人工林生态系统呼吸的调控作用.自然资源学报，2012，27（12）：2057-2070.  
+[48]WenXF，WangH,WangJL,YuGR,SunXM.Ecosystecarboechangsofsubtropicalevegecofrsplantatotedoseasonal drought，2003-2007.Biogeosciences，2010，7（1）：357-369.  
+[49]KrerC.Leafdfusiecoductasiaogeatiotyoftho/opsiopotostsiserlinSprngrHeideb，1995:463-490.

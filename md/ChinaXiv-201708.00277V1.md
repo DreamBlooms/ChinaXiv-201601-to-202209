@@ -1,0 +1,491 @@
+# Study of Proton Magic Even-Even Isotopes and Giant Halos of Ca Isotopes with Relativistic Continuum Hartree-Bogoliubov Theory
+
+S.Q. Zhang $\mathbf { \Pi } _ { . } ^ { . a }$ , J. Meng $^ { . a , b , c * }$ ,H. Toki $d$ , I. Tanihata $e$ , S.-G. Zhou ${ } _ { . } { a , b , c }$ （204号   
+（20 $\boldsymbol { \mathscr { u } }$ School of Physics, Peking University， Beijing 100871， P.R. China   
+（20 $b$ Institute of Theoretical Physics， Chinese Academy of Sciences， Beijing 10o080, P.R. China   
+$c$ Center of Theoretical Nuclear Physics， National Laboratory of Heavy Ion Accelerator, Lanzhou   
+730000, P.R. China   
+（20 $d$ Research Center for Nuclear Physics, Osaka University (RCNP), Ibaraki， Osaka 567-0047,   
+Japan   
+e The Institute of Physical and Chemical Research (RIKEN)， Hirosawa 2-1， Wako， Saitama   
+351-0198,Japan
+
+(August 1, 2017)
+
+We study the proton magic O, Ca, Ni, Zr，Sn,and Pb isotope chains from the proton drip line to the neutron drip line with the relativistic continuum Hartree-Bogoliubov (RCHB) theory. Particulary, we study in detail the properties of even-even Ca isotopes due to the appearance of giant halos in neutron rich Ca nuclei near the neutron drip line. The RCHB theory is able to reproduce the experimental binding energies $E _ { b }$ and two neutron separation energies $S _ { 2 n }$ very well. The predicted neutron drip line nuclei are 280, $^ { 7 2 }$ Ca, $^ { 9 8 }$ Ni, $^ { 1 3 6 }$ Zr, $^ { 1 7 6 }$ Sn, and ${ } ^ { 2 6 6 } \mathrm { P b }$ , respectively. Halo and giant halo properties predicted in Ca isotopes with $A > 6 0$ are investigated in detail from the analysis of two neutron separation energies, nucleon density distributions, single particle energy levels, the occupation probabilities of energy levels including continuum states. The spin-orbit splitting and the diffuseness of nuclear potential in these Ca isotopes are studied also. Furthermore,we study the neighboring lighter isotopes in the drip line Ca region and find some possibility of giant halo nuclei in the Ne-Na-Mg drip line nuclei. PACS: 21.10.Gv,21.60.-n, 21.60.Jz
+
+Keywords: Relativistic continuum Hartree-Bogoliubov theory, relativistic mean field theory, giant halo, root mean square radius, canonical basis, exotic nuclei
+
+# I.INTRODUCTION
+
+The study of exotic nuclei, which are so-called due to their large N/Z ratios (isospin) and their interesting properties, e.g. halo and skin, has attracted world wide attention [1,2]. With the recent developments in accelerator technology and detection techniques, it has come into reality to produce these exotic nuclei and study their detailed properties with the radioactive ion beam (RIB) facilities. Since Tanihata et al. discovered the frst case of halo in an exotic nucleus $^ { 1 1 }$ Li with RIB in 1985 [3], more and more exotic nuclei have been investigated with various modern experimental methods to understand this attractive phenomenon better. For nuclei far from the $\beta$ -stability valley and with small nucleon separation energy， the valence nucleons in exotic nuclei extend over quite a wide space to form low density nuclear matter. It is expected that the "halo” in exotic nuclei provides an interesting case to study the nuclear environment in astrophysics in the laboratory.
+
+Very neutron-rich nuclei and, in particular, those near the neutron-drip lines and near closed shels, play an important role in nuclear astrophysics. Their properties such as binding energies, neutron separation energies, deformation parameters, etc., strongly affect the way neutron-rich stable isotopes are formed in nature by the so-called $r$ process.
+
+Furthermore, the exotic nuclei are expected to exhibit some other interesting phenomena such as the disappearance of traditional shell gaps and the occurrence of new shell gaps, which result in new magic numbers. Ref. [4] has reported that the new magic number $N = 1 6$ （204号 appears in the light neutron drip line region. Ozawa et al. have suggested the mechanism for the formation of the new magic number, which is intimately related to the neutron halo formation and is common in nuclei near neutron drip line.
+
+It is very helpful to use self-consistent microscopic model to study the properties of exotic nuclei. During the past two decades,the relativistic mean field (RMF） theory has received wide attention, because the RMF theory is very successful in describing many nuclear phenomena for nuclei even far from stability as well as the stable nuclei. Compared with the non-relativistic mean field theory, RMF can reproduce the right nuclear incompressibility coeffcient and saturation properties (Coester line) in nuclear matter and gives naturally the spin-orbit coupling potential. The reviews on RMF theory are given in Ref. [5-7]. The starting point of the RMF theory is the Lagrangian which describes the nucleons as Dirac spinors moving in a mean field, composed of the interaction between nucleons (protons and neutrons） and mesons $( \sigma , \omega , \rho )$ ，and also Coulomb field. From this viewpoint， the RMF theory is more microscopic in a sense of describing the nuclear system at the meson level.
+
+Usually for exotic nuclei, their Fermi surfaces are very close to the continuum threshold. In these cases,the valence nucleons could be easily scattered to the continuum states due to the pairing correlation. Thus,theories which can properly handle the pairing and continuum states are needed to describe the properties of exotic nuclei. For the pairing interaction, the simple BCS method and general Bogoliubov quasi-particle transformation are two candidates. The former is very useful and successul for stable nuclei. However, when it is extended to exotic nuclei, the occupation probability would become finite for those continuum states and involve unphysical fermion gas In this case,we should use the Bogoliubov transformation to handle the pairing correlation in exotic nuclei instead of the simple BCS method. Based on the RMF theory, the relativistic Hatree-Bogoliubov (RHB) equation can be derived by quantization of the meson felds as well as the nucleon fields in Lagrangian density [8]. Furthermore, in order to describe self-consistently both the continuum and bound states and the coupling between them, the RHB theory must be solved in coordinate space,i.e.， the newly developed Relativistic Continuum Hartree-Bogoliubov (RCHB) theory [9,10].
+
+The RCHB theory was extremely successful in describing the ground state properties of nuclei both near and far from the $\beta$ -stability line. A remarkable success of the RCHB theory is the new interpretation of the halo in $^ { 1 1 }$ Li [9] and the prediction of the exotic phenomenon as giant halos in $\mathrm { Z r }$ ( $A > 1 2 2$ )isotopes [11]. The giant halos are very interesting phenomena in exotic nuclei because the halos are formed by more than two neutrons scattered as Cooper pairs to the continuum region. However, the exotic $\mathrm { Z r }$ ( $Z = 4 0$ ）isotopes with $N > 8 2$ are rather heavy for observation by the RIB facilities at the present. With the present RIB techniques, light drip line nuclei are more probable to be accessed with the transfer reaction or other reaction mechanism. It is thus extremely valuable for us to investigate the giant halo phenomena in lighter nuclei like Ca ( $Z = 2 0$ ）isotopes [12].
+
+The Calcium isotope chains have received much attention due to its rich experimental results on binding energy, density distribution， single particle energy, radius, etc. Though those data are now limited near the stability line, it is useful to calculate these quantities in order to test the microscopic theory by future experiments. Also, there lie shell effects in this chain due to the short shell period as the traditional magic numbers are $N = 2 0$ ， 28, 50 and sub-magic number $N = 4 0$ . The properties of Ca isotope have been investigated with various methods based on the mean field theory， e.g.， the non-relativistic HartreeFock (HF） and Hartree- Fock Bogoliubov (HFB) method [13], the Skyrme Hartree Fock (SHF）method [14],relativistic density dependent Hartree-Fock method [15],and the selfconsistent Hartree-Fock calculation plus the random-phase approximation [16]. We apply here the RCHB theory to investigate the ground state properties of the Ca isotope chain, especially probing the halo properties in the exotic nuclei near the neutron drip line.
+
+In the former letter [12],we have reported briefly the halos discovered in Ca isotopes near the drip line region with the RCHB theory. Here we give details of the investigation of the mechanism of the appearance of the giant halos. Besides the detailed discussion on Ca isotopes, the ground state properties of other proton magic isotope chains, O, Ni, Zr, Sn,and Pb are discussed in this article. The paper is organized as follows: In Sec. II, a brief outline of the RCHB theory is given. In Sec. II, we provide the numerical results on these proton magic even-even nuclei and the miscellaneous properties for Ca isotopes, such as two neutron separation energies $S _ { 2 n }$ ， radius, density distribution, single particle energy level, contribution from continua, spin-orbit splitting, potential diffuseness. In Sec. IV the prospect on the theoretical progress and experimental expectation of the giant halo nuclei are reviewed. Finally, Sec. V summarizes our main results.
+
+# II.RELATIVISTIC CONTINUUMHARTREE BOGOLIUBOV THEORY
+
+The RCHB theory， which is the extension of the RMF theory with the Bogoliubov transformation in the coordinate representation, is suggested in Ref. [9],and its detailed formalism and numerical solution for a particular case can be found in Ref. [1o] and the references therein. The basic ansatz of the RMF theory is a Lagrangian density whereby nucleons are described as Dirac particles which interact via the exchange of various mesons and the photon. The mesons are the scalar sigma ( $o$ ), vector omega ( $\omega$ ） and iso-vector vector rho $( \vec { \rho } )$ . The rho $( \vec { \rho } )$ meson provides the necessary isospin asymmetry. The scalar sigma meson moves in a self-interacting field having cubic and quadratic terms with strengths $g _ { 2 }$ （20 and $g _ { 3 }$ , respectively. The Lagrangian then consists of the free baryon and meson parts and the interaction part with minimal coupling, together with the nucleon mas $M$ ，and $m _ { \sigma }$ ， $g _ { \sigma }$ ， （20 $m _ { \omega }$ ， $g _ { \omega }$ ， $m _ { \rho }$ ， $g _ { \rho }$ the masses and coupling constants of the respective mesons and:
+
+$$
+\begin{array} { l } { { { \mathcal L = \bar { \psi } ( i \rlap / \partial - M ) \psi + \frac { 1 } { 2 } \partial _ { \mu } \sigma \partial ^ { \mu } \sigma - U ( \sigma ) - \frac { 1 } { 4 } \Omega _ { \mu \nu } \Omega ^ { \mu \nu } } } } \\ { { + \frac { 1 } { 2 } m _ { \omega } ^ { 2 } \omega _ { \mu } \omega ^ { \mu } - \frac { 1 } { 4 } \vec { R } _ { \mu \nu } \vec { R } ^ { \mu \nu } + \frac { 1 } { 2 } m _ { \rho } ^ { 2 } \vec { \rho } _ { \mu } \vec { \rho } ^ { \mu } - \frac { 1 } { 4 } F _ { \mu \nu } F ^ { \mu \nu } } } \\ { { - g _ { \sigma } \bar { \psi } \sigma \psi \ - \ g _ { \omega } \bar { \psi } \not \psi \ \psi \ - \ g _ { \rho } \bar { \psi } \vec { \rho } \vec { \tau } \psi \ - \ e \bar { \psi } A \psi . } } \end{array}
+$$
+
+The field tensors for the vector mesons are given as:
+
+$$
+\left\{ \begin{array} { l } { { \Omega ^ { \mu \nu } = \partial ^ { \mu } \omega ^ { \nu } - \partial ^ { \nu } \omega ^ { \mu } , } } \\ { { \vec { R } ^ { \mu \nu } = \partial ^ { \mu } \vec { \rho } ^ { \nu } - \partial ^ { \nu } \vec { \rho } ^ { \mu } - g ^ { \rho } ( \vec { \rho } ^ { \mu } \times \vec { \rho } ^ { \nu } ) , } } \\ { { F ^ { \mu \nu } = \partial ^ { \mu } \vec { A } ^ { \nu } - \partial ^ { \nu } \vec { A } ^ { \mu } . } } \end{array} \right.
+$$
+
+For a realistic description of nuclear properties, a nonlinear self-coupling for the scalar mesons turns out crucial [17]:
+
+$$
+U ( \sigma ) ~ = ~ \frac { 1 } { 2 } m _ { \sigma } ^ { 2 } \sigma ^ { 2 } ~ + ~ \frac { g _ { 2 } } { 3 } \sigma ^ { 3 } ~ + ~ \frac { g _ { 3 } } { 4 } \sigma ^ { 4 }
+$$
+
+The classical variation principle gives the following equations of motion :
+
+$$
+[ { \vec { \alpha } } \cdot { \vec { p } } + V _ { V } ( \vec { r } ) + \beta ( M + V _ { S } ( \vec { r } ) ) ] \psi _ { i } \ = \ \epsilon _ { i } \psi _ { i }
+$$
+
+for the nucleon spinors and
+
+$$
+\left\{ \begin{array} { l l } { { ( - \Delta \sigma ~ + ~ U ^ { \prime } ( \sigma ) ) ~ = ~ g _ { \sigma } \rho _ { s } } } \\ { { ( - \Delta ~ + ~ m _ { \omega } ^ { 2 } ) \omega ^ { \mu } ~ = ~ g _ { \omega } j ^ { \mu } ( \vec { r } ) } } \\ { { \left( - \Delta ~ + ~ m _ { \rho } ^ { 2 } \right) \vec { \rho } ^ { \mu } ~ = ~ g _ { \rho } \vec { j } ^ { \mu } ( \vec { r } ) } } \\ { { - \Delta ~ A _ { 0 } ^ { \mu } ( \vec { r } ) ~ } } & { { = ~ e j _ { \rho } ^ { \mu } ( \vec { r } ) } } \end{array} \right.
+$$
+
+for the mesons, where
+
+$$
+\left\{ \begin{array} { l } { { V _ { V } ( \vec { r } ) = g _ { \omega } \not \omega + g _ { \rho } \not \vec { \rho } \vec { \tau } + { \frac { 1 } { 2 } } e ( 1 - \tau _ { 3 } ) \not \vec { \mathcal { A } } , } } \\ { { V _ { S } ( \vec { r } ) = g _ { \sigma } \sigma ( \vec { r } ) } } \end{array} \right.
+$$
+
+are the vector and scalar potentials respectively and the source terms for the mesons are
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \rho _ { s } } & { = \sum _ { i = 1 } ^ { A } \bar { \psi } _ { i } \psi _ { i } } \\ { j ^ { \mu } ( \vec { r } ) = \sum _ { i = 1 } ^ { A } \bar { \psi } _ { i } \gamma ^ { \mu } \psi _ { i } } \\ { \vec { j } ^ { \mu } ( \vec { r } ) = \sum _ { i = 1 } ^ { A } \bar { \psi } _ { i } \gamma ^ { \mu } \vec { \tau } \psi _ { i } } \\ { j _ { p } ^ { \mu } ( \vec { r } ) = \sum _ { i = 1 } ^ { A } \bar { \psi } _ { i } \gamma ^ { \mu } \frac { 1 - \tau _ { 3 } } { 2 } \psi _ { i } , } \end{array} \right. } \end{array}
+$$
+
+where the summations are over the valence nucleons only. It should be noted that as usual, the present approach neglects the contribution of negative energy states, i.e., no-sea approximation, which means that the vacuum is not polarized. The coupled equations Eq. (4) and Eq. (5) are nonlinear quantum field equations, and their exact solutions are very complicated. Thus the mean field approximation is generally used: i.e.， the meson field operators in Eq. (4) are replaced by their expectation values. Then the nucleons move independently in the classcal meson felds. The coupled equations are self-consistently solved by iteration.
+
+For spherical nuclei， i.e., the systems with rotational symmetry, the potential of the nucleon and the sources of meson fields depend only on the radial coordinate $r$ . The spinor is characterized by the angular momentum quantum numbers $l$ ， $j$ ， $m$ ，the isospin $t = \pm \frac { 1 } { 2 }$ for neutron and proton respectively, and the other quantum number $i$ . The Dirac spinor has the form:
+
+$$
+\psi ( \vec { r } ) = \left( \begin{array} { c } { \mathrm { i } \frac { G _ { i } ^ { l j } ( r ) } { r } Y _ { j m } ^ { l } ( \theta , \phi ) } \\ { \frac { F _ { i } ^ { l j } ( r ) } { r } ( \vec { \sigma } \cdot \hat { \vec { r } } ) Y _ { j m } ^ { l } ( \theta , \phi ) \displaystyle \int \chi _ { t } ( t ) , } \end{array} \right.
+$$
+
+where $Y _ { j m } ^ { l } ( \theta , \phi )$ are the spinor spherical harmonics and $G _ { i } ^ { l j } ( \boldsymbol { r } )$ and $F _ { i } ^ { l j } ( r )$ are the remaining radial wave function for upper and lower components. They are normalized according to
+
+$$
+\int _ { 0 } ^ { \infty } d r ( | G _ { i } ^ { l j } ( r ) | ^ { 2 } + | F _ { i } ^ { l j } ( r ) | ^ { 2 } ) = 1 .
+$$
+
+The radial equation of spinor Eq. (4) can be reduced as :
+
+$$
+\left\{ \begin{array} { l } { { \displaystyle \epsilon _ { i } G _ { i } ^ { l j } ( r ) = ( - \frac { \partial } { \partial r } + \frac { \kappa _ { i } } { r } ) F _ { i } ^ { l j } ( r ) + ( M + V _ { S } ( r ) + V _ { V } ( r ) ) G _ { i } ^ { l j } ( r ) } } \\ { { \displaystyle \epsilon _ { i } F _ { i } ^ { l j } ( r ) = ( + \frac { \partial } { \partial r } + \frac { \kappa _ { i } } { r } ) G _ { i } ^ { l j } ( r ) - ( M + V _ { S } ( r ) - V _ { V } ( r ) ) F _ { i } ^ { l j } ( r ) . } } \end{array} \right.
+$$
+
+where
+
+$$
+\kappa = \left\{ \begin{array} { l l } { { - ( j + 1 / 2 ) ~ f o r ~ j = l + 1 / 2 } } \\ { { + ( j + 1 / 2 ) ~ f o r ~ j = l - 1 / 2 . } } \end{array} \right.
+$$
+
+The meson field equations become simply radical Laplace equations of the form:
+
+$$
+\left( \frac { \partial ^ { 2 } } { \partial r ^ { 2 } } - \frac { 2 } { r } \frac { \partial } { \partial r } + m _ { \phi } ^ { 2 } \right) \phi = s _ { \phi } ( r ) ,
+$$
+
+$m _ { \phi }$ are the meson masses for $\phi = \sigma , \omega , \rho$ and for photon（ $m _ { \phi } = 0$ ). The source terms are:
+
+$$
+s _ { \phi } ( r ) = \left\{ \begin{array} { l l } { - g _ { \sigma } \rho _ { s } - g _ { 2 } \sigma ^ { 2 } ( r ) - g _ { 3 } \sigma ^ { 3 } ( r ) \mathrm { ~ f o r ~ t h e ~ } \sigma \mathrm { ~ f i e l d ~ } } \\ { g _ { \omega } \rho _ { v } } & { \mathrm { f o r ~ t h e ~ } \omega \mathrm { ~ f i e l d ~ } } \\ { g _ { \rho } \rho _ { 3 } ( r ) } & { \mathrm { f o r ~ t h e ~ } \rho \mathrm { ~ f i e l d ~ } } \\ { e \rho _ { c } ( r ) } & { \mathrm { f o r ~ t h e ~ C o u l o m b ~ f i e l d , } } \end{array} \right.
+$$
+
+$$
+\left\{ \begin{array} { l l } { 4 \pi r ^ { 2 } \rho _ { s } ( r ) \ = \ \sum _ { i = 1 } ^ { A } ( \vert G _ { i } ( r ) \vert ^ { 2 } - \vert F _ { i } ( r ) \vert ^ { 2 } ) } \\ { 4 \pi r ^ { 2 } \rho _ { v } ( r ) \ = \ \sum _ { i = 1 } ^ { A } ( \vert G _ { i } ( r ) \vert ^ { 2 } + \vert F _ { i } ( r ) \vert ^ { 2 } ) } \\ { 4 \pi r ^ { 2 } \rho _ { 3 } ( r ) \ = \ \sum _ { p = 1 } ^ { Z } ( \vert G _ { p } ( r ) \vert ^ { 2 } + \vert F _ { p } ( r ) \vert ^ { 2 } ) - \sum _ { n = 1 } ^ { N } ( \vert G _ { n } ( r ) \vert ^ { 2 } + \vert F _ { n } ( r ) \vert ^ { 2 } ) } \\ { 4 \pi r ^ { 2 } \rho _ { c } ( r ) \ = \ \sum _ { p = 1 } ^ { Z } ( \vert G _ { p } ( r ) \vert ^ { 2 } + \vert F _ { p } ( r ) \vert ^ { 2 } ) . } \end{array} \right.
+$$
+
+The Laplace equation can in principle be solved by the Green function:
+
+$$
+\phi ( r ) = \int _ { 0 } ^ { \infty } r ^ { \prime 2 } d r ^ { \prime } G _ { \phi } ( r , r ^ { \prime } ) s _ { \phi } ( r ^ { \prime } ) ,
+$$
+
+where formassive fields
+
+$$
+G _ { \phi } ( \boldsymbol { r } , \boldsymbol { r } ^ { \prime } ) = \frac { 1 } { 2 m _ { \phi } } \frac { 1 } { { r r ^ { \prime } } } ( e ^ { - m _ { \phi } | { \boldsymbol { r } } - { \boldsymbol { r } } ^ { \prime } | } - e ^ { - m _ { \phi } | { \boldsymbol { r } } + { \boldsymbol { r } } ^ { \prime } | } )
+$$
+
+and for Coulomb field
+
+$$
+G _ { \phi } ( \boldsymbol { r } , \boldsymbol { r ^ { \prime } } ) = \left\{ \begin{array} { l l } { 1 / r \mathrm { f o r ~ r ~ > ~ r ' ~ } } \\ { 1 / r ^ { \prime } \mathrm { f o r ~ r ~ < ~ r ' . ~ } } \end{array} \right.
+$$
+
+Eqs. (10) and (11) could be solved self-consistently in the usual RMF approximation. For RMF,however, as the classical meson fields are used, the equations of motion for nucleons derived from Eq. (1) do not contain pairing interaction. In order to have pairing interaction, one has to quantize the meson fields which leads to a Hamiltonian with two-body interaction. Following the standard procedure of Bogoliubov transformation,a Dirac Hartree-Bogoliubov equation could be derived and then a unified description of the mean field and pairing correlation in nuclei could be achieved. For the detail， see Ref.[10] and the references therein. The RHB equations are as following:
+
+$$
+\int d ^ { 3 } r ^ { \prime } \left( \begin{array} { c c } { { h - \lambda } } & { { \Delta } } \\ { { \Delta } } & { { - h + \lambda } } \end{array} \right) \left( \begin{array} { l } { { \psi _ { U } } } \\ { { \psi _ { V } } } \end{array} \right) = E \left( \begin{array} { c } { { \psi _ { U } } } \\ { { \psi _ { V } } } \end{array} \right) ,
+$$
+
+where
+
+$$
+h ( \vec { r } , \vec { r } ^ { \prime } ) = [ \vec { \alpha } \cdot \vec { p } + V _ { V } ( \vec { r } ) + \beta ( M + V _ { S } ( \vec { r } ) ) ] \delta ( \vec { r } , \vec { r } ^ { \prime } )
+$$
+
+is the Dirac Hamiltonian and the Fock term has been neglected as is usually done in RMF. The pairing potential is :
+
+$$
+\Delta _ { k k ^ { \prime } } ( \vec { r } , \vec { r } ^ { \prime } ) = \int d ^ { 3 } r _ { 1 } \int d ^ { 3 } r _ { 1 } ^ { \prime } \sum _ { \tilde { k } \tilde { k } ^ { \prime } } V _ { k k ^ { \prime } , \tilde { k } \tilde { k } ^ { \prime } } ( \vec { r } \vec { r } ^ { \prime } ; \vec { r } _ { 1 } \vec { r } _ { 1 } ^ { \prime } ) \kappa _ { \tilde { k } \tilde { k } ^ { \prime } } ( \vec { r } _ { 1 } , \vec { r } _ { 1 } ^ { \prime } ) .
+$$
+
+It is obtained from one-meson exchange interaction $V _ { k k ^ { \prime } , \tilde { k } \tilde { k } ^ { \prime } } ( \vec { r } \vec { r } ^ { \prime } ; \vec { r } _ { 1 } \vec { r } _ { 1 } ^ { \prime } )$ in the $p p$ channel and the pairing tensor $\kappa = V ^ { * } U ^ { T ^ { * } }$ （204号
+
+$$
+\kappa _ { k k ^ { \prime } } ( \vec { r } , \vec { r } ^ { \prime } ) = < | a _ { k } a _ { k ^ { \prime } } | > = \psi _ { V } ^ { k } ( \vec { r } ) ^ { * } \psi _ { U } ^ { k ^ { \prime } } ( \vec { r } ) ^ { T }
+$$
+
+The nuclear density is as following:
+
+$$
+\rho ( \vec { r } , \vec { r } ^ { \prime } ) = \sum _ { i } ^ { l j } \psi _ { V } ^ { i l j } ( \vec { r } ) ^ { * } \psi _ { V } ^ { i l j } ( \vec { r } ^ { \prime } ) .
+$$
+
+As in Ref. [10], $V _ { \boldsymbol { k } \boldsymbol { k } ^ { \prime } , \boldsymbol { \tilde { k } } \boldsymbol { \tilde { k } } ^ { \prime } }$ used for the pairing potential in Eq. (19) is either the densitydependent two-body force of zero range with the interaction strength $V _ { 0 }$ and the nuclear matter density $\rho _ { 0 }$ ：
+
+$$
+V ( \pmb { r } _ { 1 } , \pmb { r } _ { 2 } ) = V _ { 0 } \delta ( \pmb { r } _ { 1 } - \pmb { r } _ { 2 } ) \frac { 1 } { 4 } \left[ 1 - \pmb { \sigma } _ { 1 } \pmb { \sigma } _ { 2 } \right] \left( 1 - \frac { \rho ( r ) } { \rho _ { 0 } } \right)
+$$
+
+or Gogny-type finite range force with the parameter $\mu _ { i }$ ， $W _ { i }$ ， $B _ { i }$ ， $H _ { i }$ and $M _ { i }$ ( $i = 1 , 2$ ）asthe finite range part of the Gogny force [18]:
+
+$$
+V ( \pmb { r } _ { 1 } , \pmb { r } _ { 2 } ) \ = \ \sum _ { i = 1 , 2 } e ^ { ( ( \pmb { r } _ { 1 } - \pmb { r } _ { 2 } ) / \mu _ { i } ) ^ { 2 } } ( W _ { i } + B _ { i } P ^ { \sigma } - H _ { i } P ^ { \tau } - M _ { i } P ^ { \sigma } P ^ { \tau } )
+$$
+
+A Lagrange multiplier $\lambda$ is introduced to fix the particle number for the neutron and proton as $N = \operatorname { T r } \rho _ { n }$ and $Z = { \mathrm { T r } } \rho _ { p }$ ：
+
+In order to describe both the continuum and the bound states self-consistently， the RHB theory must be solved in coordinate representation, i.e., the. Relativistic Continuum Hartree-Bogoliubov（RCHB ） theory [10]. It is then applicable to both exotic nuclei and normal nuclei. In Eq. (17),the spectrum of the system is unbound from above and from below the Fermi surface, and the eigenstates occur in pairs of opposite energies. When spherical symmetry is imposed on the solution of the RCHB equations, the wave function can be conveniently written as
+
+$$
+\psi _ { U } ^ { i } = \left( \begin{array} { c } { \mathrm { i } \frac { G _ { U } ^ { i i j } ( r ) } { r } } \\ { \frac { F _ { U } ^ { i l j } ( r ) } { r } ( \vec { \sigma } \cdot \hat { r } ^ { \hat { \bf \imath } } ) } \end{array} \right) Y _ { j m } ^ { l } ( \theta , \phi ) \chi _ { t } ( t ) , \psi _ { V } ^ { i } = \left( \begin{array} { c } { \mathrm { i } \frac { G _ { V } ^ { i l j } ( r ) } { r } } \\ { \frac { F _ { V } ^ { i l j } ( r ) } { r } ( \vec { \sigma } \cdot \hat { r } ^ { \hat { \bf \imath } } ) } \end{array} \right) Y _ { j m } ^ { l } ( \theta , \phi ) \chi _ { t } ( t ) .
+$$
+
+The above equation Eq. (17) depends only on the radial coordinates and can be expressed as the following integro-differential equation:
+
+$$
+\left\{ \begin{array} { c } { \displaystyle \frac { d G _ { U } ( r ) } { d r } + \frac { \kappa } { r } G _ { U } ( r ) - ( E + \lambda - V _ { V } ( r ) + V _ { S } ( r ) ) F _ { U } ( r ) + r \int r ^ { \prime } d r ^ { \prime } \Delta ( r , r ^ { \prime } ) F _ { V } ( r ^ { \prime } ) = 0 } \\ { \displaystyle \frac { d F _ { V } ( r ) } { d r } - \frac { \kappa } { r } F _ { U } ( r ) + ( E + \lambda - V _ { V } ( r ) - V _ { S } ( r ) ) G _ { U } ( r ) + r \int r ^ { \prime } d r ^ { \prime } \Delta ( r , r ^ { \prime } ) G _ { V } ( r ^ { \prime } ) = 0 } \\ { \displaystyle \frac { d G _ { V } ( r ) } { d r } + \frac { \kappa } { r } G _ { V } ( r ) + ( E - \lambda + V _ { V } ( r ) - V _ { S } ( r ) ) F _ { V } ( r ) + r \int r ^ { \prime } d r ^ { \prime } \Delta ( r , r ^ { \prime } ) F _ { U } ( r ^ { \prime } ) = 0 } \\ { \displaystyle \frac { d F _ { V } ( r ) } { d r } - \frac { \kappa } { r } F _ { V } ( r ) - ( E - \lambda + V _ { V } ( r ) + V _ { S } ( r ) ) G _ { V } ( r ) + r \int r ^ { \prime } d r ^ { \prime } \Delta ( r , r ^ { \prime } ) G _ { U } ( r ^ { \prime } ) = 0 } \end{array} \right.
+$$
+
+where the nucleon mass is included in the scalar potential $V _ { S } ( r )$ . Eq. (25),in the case of （204号 $\delta$ -force given in Eq. (22), is reduced to normal coupled differential equations and can be solved with shooting method by Runge-Kutta algorithms. For the case of Gogny force, the coupled integro-differential equations are discretized in the space and solved by the finite element methods,see Ref.[10]. Instead of solving Eqs. (10) and (11） self-consistently for the RMF case, now we have to solve Eqs. (25) and (11) self-consistently for the RCHB case. As the calculation for Gogny force is very time-consuming, we use them for one nucleus and fix the interaction strength of the $\delta$ -force given in Eq. (22).
+
+# III.RESULTS AND DISCUSSIONS
+
+# A.Binding energies and two neutron separation energies
+
+The numerical techniques of the RCHB theory can be found in Ref. [10] and the references therein. In the present calculations, we follow the procedures in Ref.[10] and solve the RCHB equations in a box with the size $R = 2 0$ fm and a step size of O.1 fm. The parameter set NL-SH [19] is used, which aims at describing both the stable and exotic nuclei. The use of the TM1 parameter set provides similar results and we show here only those of the NL-SH parameter [20]. The density dependent $\delta$ -force in the pairing channel with $\rho _ { 0 } = 0 . 1 5 2 \ \mathrm { f m ^ { - 3 } }$ is used and its strength $V _ { 0 } = 6 5 0$ MeV: $\mathrm { f m } ^ { - 3 }$ is fixed by the Gogny force as in Ref. [10]. The contribution from continua is restricted within a cut-off energy $E _ { c u t } \sim 1 2 0 \mathrm { M e V }$ ．：
+
+In this work the RCHB calculation is restricted to the spherical shape,which is a good approximation for most proton magic nuclei with $Z = 8$ ，20，28,50,82. The RCHB code was also carried out for the Zr isotopes, with the considerations of the sub-magic number （204号 $Z = 4 0$ and the fact that most of the investigations with non-relativistic codes and with relativistic RMF $^ +$ BCS codes show that the nuclei above $^ { 1 2 2 }$ Zr are spherical [11].
+
+We calculated ground state properties of al the even-even O, Ca, Ni, Zr, Sn, Pb isotopes ranging from the proton drip-line to the neutron drip-line with the RCHB code. We here present the binding energy $E _ { b }$ calculated from the RCHB method for these isotope chains and the corresponding data available [21] in the last two columns in table I-IV. We do not include the tables for the Sn and Pb isotopes here to save the space. The difference ( $\Delta E _ { b }$ ） between the experimental and calculated binding energies is less than 3.5 MeV for most nuclei,which is less than $1 \%$ of the experimental values. The large difference ( $\Delta E _ { b } \sim 1 0 \$ （20 MeV) for some Zr isotopes are found, which are mainly due to deformation. The two neutron separation energy $S _ { 2 n }$ defined as
+
+$$
+S _ { 2 n } = E _ { b } ( Z , A + 2 ) - E _ { b } ( Z , A )
+$$
+
+is quite a sensitive quantity to test a microscopic theory. The two neutron separation energy becomes negative when the nucleus becomes unstable against the two neutron emission. Hence,the drip line nucleus for a corresponding isotope chain is the one before the nucleus with the negative $S _ { 2 n }$ . In Fig. 1 both the theoretical and the available experimental $S _ { 2 n }$ are presented as a function of neutron number $N$ for the O,Ca, Ni, Zr, Sn, Pb isotope chains, respectively. The good coincidence between experiment and calculation is clearly seen.
+
+![](images/f9085b8a1c9db121b49b2e2c250ec545ccdf195b659adf2fd4ed0700f739c33b.jpg)  
+FIG. 1. The two neutron separation energies $S _ { 2 n }$ for the proton magic isotopes are plotted as a function of the neutron number. The figures from left to right and from up to down are those for O, Ca,Ni, Zr, Sn and Pb, respectively. The experimental values are denoted by the solid symbols and the calculated ones by the open symbols.
+
+TABLE I. The ground state properties of even O isotopes calculated with the RCHB theory with the NL-SH parameter. Listed are neutron( $^ { \prime } n$ ) $\mathrm { p r o t o n } ( r _ { p } )$ ，matter( $r _ { m }$ )，and charge( $r _ { c }$ ）root mean square radii as well as binding energies $E _ { b }$ . The corresponding experimental values $r _ { c }$ and （204号 $E _ { b }$ are also included when available.
+
+<html><body><table><tr><td>Nucleus</td><td>Radius (fm)</td><td>Eb (MeV)</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>A0</td><td>rexp.</td><td>rn</td><td>rp</td><td>rm</td><td>Tc</td><td>Exp.</td><td>RCHB</td></tr><tr><td>120</td><td></td><td>2.238</td><td>2.824</td><td>2.643</td><td>2.935</td><td>-58.549</td><td>-62.169</td></tr><tr><td>140</td><td></td><td>2.361</td><td>2.602</td><td>2.501</td><td>2.722</td><td>-98.733</td><td>-99.641</td></tr><tr><td>160</td><td>2.693</td><td>2.551</td><td>2.578</td><td>2.565</td><td>2.699</td><td>-127.619</td><td>-128.347</td></tr><tr><td>180</td><td>2.727</td><td>2.738</td><td>2.572</td><td>2.665</td><td>2.694</td><td>-139.807</td><td>-142.081</td></tr><tr><td>200</td><td></td><td>2.885</td><td>2.575</td><td>2.765</td><td>2.696</td><td>-151.370</td><td>-153.397</td></tr><tr><td>220</td><td></td><td>3.012</td><td>2.580</td><td>2.862</td><td>2.701</td><td>-162.030</td><td>-163.124</td></tr><tr><td>240</td><td></td><td>3.232</td><td>2.607</td><td>3.038</td><td>2.727</td><td>-168.500</td><td>-170.169</td></tr><tr><td>260</td><td></td><td>3.375</td><td>2.656</td><td>3.171</td><td>2.774</td><td></td><td>-174.126</td></tr><tr><td>280</td><td></td><td>3.503</td><td>2.705</td><td>3.295</td><td>2.821</td><td></td><td>-177.040</td></tr><tr><td>300</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-174.453</td></tr></table></body></html>
+
+TABLE II. The same as Tab. I, but for even Ca isotopes.   
+
+<html><body><table><tr><td colspan="7"></td></tr><tr><td rowspan="2">Nucleus ACa</td><td colspan="4">Radius (fm)</td><td colspan="2">Eb (MeV)</td></tr><tr><td>rexp.</td><td>rn</td><td>rp</td><td>rm</td><td>rc</td><td>Exp. RCHB</td></tr><tr><td>34Ca</td><td></td><td>3.015</td><td>3.368 3.227</td><td></td><td>3.462 -245.600</td><td>-244.911</td></tr><tr><td>36Ca</td><td></td><td>3.133 3.355</td><td>3.258</td><td>3.449</td><td>-281.360</td><td>-278.557</td></tr><tr><td>38Ca</td><td></td><td>3.229 3.354</td><td>3.295</td><td>3.448</td><td>-313.122</td><td>-310.051</td></tr><tr><td>40Ca</td><td>3.478</td><td>3.311</td><td>3.359 3.335</td><td>3.452</td><td>-342.052</td><td>-340.006</td></tr><tr><td>42Ca</td><td>3.508</td><td>3.391</td><td>3.358</td><td>3.375</td><td>3.452 -361.895</td><td>-360.995</td></tr><tr><td>44Ca</td><td>3.518</td><td>3.463</td><td>3.360 3.416</td><td>3.454</td><td>-380.960</td><td>-380.086</td></tr><tr><td>4Ca</td><td></td><td></td><td></td><td></td><td></td><td>-41.910</td></tr><tr><td></td><td>3.49</td><td>3.527</td><td>3.301</td><td>3.457</td><td>3.468</td><td>-31599</td></tr><tr><td>50Ca</td><td></td><td>3.703</td><td>3.394</td><td>3.583</td><td>3.487</td><td>-427.491 -424.443</td></tr><tr><td>52Ca</td><td></td><td>3.808</td><td>3.419 3.664</td><td>3.512</td><td>-436.600</td><td>-433.223</td></tr><tr><td>54Ca</td><td></td><td>3.899</td><td>3.447 3.738</td><td></td><td>3.538 -443.800</td><td>-441.354</td></tr><tr><td>56Ca</td><td></td><td>3.980 3.475</td><td>3.807</td><td>3.566</td><td>-449.600</td><td>-448.998</td></tr><tr><td></td><td>58Ca</td><td>4.054</td><td>3.503</td><td>3.873</td><td>3.593</td><td>-456.304</td></tr><tr><td></td><td>60Ca</td><td>4.125</td><td>3.532</td><td>3.937</td><td>3.621</td><td>-463.260</td></tr><tr><td>62Ca</td><td></td><td>4.182</td><td>3.552</td><td>3.989</td><td>3.641</td><td>-465.323</td></tr><tr><td></td><td>64Ca</td><td>4.244</td><td>3.572</td><td>4.046</td><td>3.660</td><td>-466.562</td></tr><tr><td></td><td>66Ca</td><td>4.314</td><td>3.591</td><td>4.108</td><td>3.679</td><td>-467.320</td></tr><tr><td rowspan="4"></td><td>68Ca</td><td>4.400</td><td>3.608</td><td>4.183</td><td>3.696</td><td>-467.752</td></tr><tr><td>70Ca</td><td>4.513</td><td>3.622</td><td>4.277</td><td>3.710</td><td>-467.957</td></tr><tr><td>72Ca</td><td>4.636</td><td>3.634</td><td>4.381</td><td>3.721</td><td>-467.993</td></tr><tr><td>74Ca</td><td></td><td></td><td></td><td></td><td>-467.645</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6">Nucleus</td></tr><tr><td>ANi</td><td>rexp.</td><td>Radius (fm) rp</td><td>rm</td><td>rc</td><td>Eb (MeV) Exp. RCHB</td></tr><tr><td>48Ni</td><td>rn 3.344</td><td>3.669</td><td>3.537</td><td>3.755</td><td>-348.814</td></tr><tr><td>50Ni</td><td>3.414</td><td>3.651</td><td>3.549</td><td>3.738</td><td>-385.500 -384.925</td></tr><tr><td>52Ni</td><td>3.476</td><td>3.641</td><td>3.566</td><td>3.727</td><td>-420.460 -419.044</td></tr><tr><td>54Ni</td><td>3.532</td><td>3.634</td><td>3.585</td><td>3.721</td><td>-453.150 -451.786</td></tr><tr><td>56Ni</td><td>3.582</td><td>3.630</td><td>3.606</td><td>3.717</td><td>-483.988 -483.498</td></tr><tr><td>58Ni</td><td>3.776 3.668</td><td>3.658</td><td>3.663</td><td>3.745</td><td>-506.454 -503.244</td></tr><tr><td>60Ni</td><td>3.813 3.745</td><td>3.686</td><td>3.718</td><td>3.772</td><td>-526.842 -522.146</td></tr><tr><td>62Ni</td><td>3.842 3.817</td><td>3.712</td><td>3.770</td><td>3.797</td><td>-545.259 -540.336</td></tr><tr><td>64Ni</td><td>3.860 3.886</td><td>3.736</td><td>3.821</td><td>3.821</td><td>-561.755 -557.802</td></tr><tr><td>66Ni</td><td>3.954</td><td>3.758</td><td>3.872</td><td>3.842</td><td>-576.830 -574.370</td></tr><tr><td>68Ni</td><td>4.025</td><td>3.778</td><td>3.925</td><td>3.862</td><td>-590.430 -589.508</td></tr><tr><td>70Ni</td><td>4.075</td><td>3.794</td><td>3.965</td><td>3.877</td><td>-602.600 -602.094</td></tr><tr><td>72Ni</td><td>4.122</td><td>3.809</td><td>4.003</td><td>3.893</td><td>-613.900 -613.412</td></tr><tr><td>74Ni</td><td>4.168</td><td>3.826</td><td>4.042</td><td>3.908</td><td>-623.900 -623.982</td></tr><tr><td>76Ni</td><td>4.211</td><td>3.842</td><td>4.079</td><td>3.924</td><td>-633.100 -634.009</td></tr><tr><td>78Ni</td><td>4.252</td><td>3.858</td><td>4.115</td><td>3.940</td><td>-641.400 -643.615</td></tr><tr><td>80Ni</td><td>4.357</td><td>3.873</td><td>4.194</td><td>3.955</td><td>-646.356</td></tr><tr><td>82Ni</td><td>4.457</td><td>3.888</td><td>4.271</td><td>3.969</td><td>-648.979</td></tr><tr><td>84Ni</td><td>4.552</td><td>3.902</td><td>4.346</td><td>3.983</td><td>-651.488</td></tr><tr><td>86Ni</td><td>4.639</td><td>3.917</td><td>4.417</td><td>3.998</td><td>-653.855</td></tr><tr><td>88Ni</td><td>4.717</td><td>3.934</td><td>4.482</td><td>4.014</td><td>-656.036</td></tr><tr><td>90Ni</td><td>4.782</td><td>3.954</td><td>4.540</td><td>4.035</td><td>-658.026</td></tr><tr><td>92Ni</td><td>4.835</td><td>3.979</td><td>4.592</td><td>4.058</td><td>-659.852</td></tr><tr><td>94Ni</td><td>4.882</td><td>4.006</td><td>4.638</td><td>4.085</td><td>-661.570</td></tr><tr><td>96Ni</td><td>4.925</td><td>4.034</td><td>4.683</td><td>4.113</td><td>-663.220</td></tr><tr><td>98Ni</td><td>4.967</td><td>4.064</td><td>4.727</td><td>4.142</td><td>-664.767</td></tr></table></body></html>
+
+TABLE IV. The same as Tab.I, but for even Zr isotopes.   
+
+<html><body><table><tr><td rowspan="2">Nucleus AZr</td><td colspan="5">Radius (fm)</td><td colspan="2">Eb (MeV)</td></tr><tr><td>rexp.</td><td>rn</td><td>rp</td><td>rm</td><td>rc</td><td>Exp.</td><td>RCHB</td></tr><tr><td>747r</td><td></td><td>3.932</td><td>4.149</td><td>4.051</td><td>4.225</td><td></td><td>-568.120</td></tr><tr><td>76Zr</td><td></td><td>3.984</td><td>4.150</td><td>4.072</td><td>4.226</td><td></td><td>-600.450</td></tr><tr><td>78Zr</td><td></td><td>4.035</td><td>4.155</td><td>4.097</td><td>4.231</td><td></td><td>-631.267</td></tr><tr><td>80Zr</td><td></td><td>4.088</td><td>4.163</td><td>4.126</td><td>4.239</td><td>-669.800</td><td>-659.843</td></tr><tr><td>82Zr</td><td></td><td>4.133</td><td>4.166</td><td>4.149</td><td>4.242</td><td>-694.700</td><td>-686.399</td></tr><tr><td>84Zr</td><td></td><td>4.174</td><td>4.168</td><td>4.171</td><td>4.244</td><td>-718.190</td><td>-711.679</td></tr><tr><td>86Zr</td><td></td><td>4.214</td><td>4.171</td><td>4.194</td><td>4.247</td><td>-740.640</td><td>-736.106</td></tr><tr><td>88Zr</td><td></td><td>4.251</td><td>4.176</td><td>4.217</td><td>4.252</td><td>-762.606</td><td>-759.890</td></tr><tr><td>90Zr</td><td>4.270</td><td>4.286</td><td>4.181</td><td>4.240</td><td>4.257</td><td>-783.893</td><td>-783.173</td></tr><tr><td>92Zr</td><td>4.305</td><td>4.346</td><td>4.204</td><td>4.285</td><td>4.280</td><td>-799.722</td><td>-795.603</td></tr><tr><td>94Zr</td><td>4.330</td><td>4.403</td><td>4.226</td><td>4.329</td><td>4.302</td><td>-814.677</td><td>-807.665</td></tr><tr><td>96Zr</td><td>4.349</td><td>4.458</td><td>4.248</td><td>4.372</td><td>4.323</td><td>-828.994</td><td>-819.421</td></tr><tr><td>98Zr</td><td></td><td>4.511</td><td>4.269</td><td>4.414</td><td>4.343</td><td>-840.972</td><td>-830.903</td></tr><tr><td>100Zr</td><td></td><td>4.563</td><td>4.288</td><td>4.455</td><td>4.362</td><td>-852.440</td><td>-842.122</td></tr><tr><td>102Zr</td><td></td><td>4.613</td><td>4.306</td><td>4.496</td><td>4.380</td><td>-863.720</td><td>-853.053</td></tr><tr><td>104Zr</td><td></td><td>4.664</td><td>4.323</td><td>4.536</td><td>4.397</td><td>-874.500</td><td>-863.613</td></tr><tr><td>106Zr</td><td></td><td>4.716</td><td>4.339</td><td>4.578</td><td>4.413</td><td>-884.000</td><td>-873.647</td></tr><tr><td>108Zr</td><td></td><td>4.769</td><td>4.355</td><td>4.620</td><td>4.428</td><td>-892.300</td><td>-883.105</td></tr><tr><td>110Zr</td><td></td><td>4.817</td><td>4.370</td><td>4.660</td><td>4.443</td><td></td><td>-891.983</td></tr><tr><td>112Zr</td><td></td><td>4.856</td><td>4.385</td><td>4.693</td><td>4.458</td><td></td><td>-900.136</td></tr><tr><td>114Zr</td><td></td><td>4.889</td><td>4.401</td><td>4.723</td><td>4.473</td><td></td><td>-907.646</td></tr><tr><td>116Zr</td><td></td><td>4.920</td><td>4.417</td><td>4.753</td><td>4.488</td><td></td><td>-914.714</td></tr><tr><td>118Zr</td><td></td><td>4.951</td><td>4.433</td><td>4.782</td><td>4.504</td><td></td><td>-921.459</td></tr><tr><td>120Zr</td><td></td><td>4.981</td><td>4.449</td><td>4.810</td><td>4.520</td><td></td><td>-927.963</td></tr><tr><td>122Zr</td><td></td><td>5.010</td><td>4.466</td><td></td><td>4.537</td><td></td><td></td></tr><tr><td>124Zr</td><td></td><td></td><td></td><td>4.838</td><td></td><td></td><td>-934.285</td></tr><tr><td>126Zr</td><td></td><td>5.103 5.192</td><td>4.474 4.483</td><td>4.909 4.977</td><td>4.545 4.553</td><td></td><td>-934.256 -934.271</td></tr></table></body></html>
+
+<html><body><table><tr><td>128Zr</td><td>5.275</td><td>4.491</td><td>5.043</td><td>4.562</td><td>-934.329</td></tr><tr><td>130Zr</td><td>5.354</td><td>4.499</td><td>5.106</td><td>4.570</td><td>-934.419</td></tr><tr><td>132Zr</td><td>5.429</td><td>4.508</td><td>5.167</td><td>4.578</td><td>-934.526</td></tr><tr><td>134Zr</td><td>5.501</td><td>4.516</td><td>5.226</td><td>4.587</td><td>-934.618</td></tr><tr><td>136Zr</td><td>5.563</td><td>4.527</td><td>5.280</td><td>4.597</td><td>-934.640</td></tr><tr><td>138Zr</td><td></td><td></td><td></td><td></td><td>-934.540</td></tr></table></body></html>
+
+We See from Fig. 1 and Tab. I-IV the proton magic even mass nuclei at the neutron drip-line are predicted as $^ { \mathrm { 2 8 } }$ 0, $^ { 7 2 }$ Ca, $^ { 9 8 }$ Ni, $^ { 1 3 6 } \mathrm { Z r }$ ， $^ { 1 7 4 }$ Sn, and $^ { 2 6 6 }$ Pb, respectively. Out of these neutron drip line nuclei， we have experimental information only for the O isotope. The experimental efforts were made to investigate $^ { 2 6 }$ O [22,23] and $^ { \mathrm { 2 8 } }$ O [24] whether they are bound. These nuclei were found unstable and the heaviest O isotope was concluded to be （20 $^ { 2 4 }$ O. Hence, the present calculation is not successul in reproducing the O neutron drip line. Numerous theoretical studies of binding energies of the neutron-rich O nuclei have been made [25], but these calculations failed to reproduce that $^ { 2 4 }$ O is the drip line nucleus as the case of RCHB with NL-SH presented here. It is known that in the relativistic mean field theory, one parameter set is used to describe all nuclei in the nuclear chart, which is quite a challenge. In fact,it is well known that the mean feld theory is difficult for light nuclei. Therefore we have NL1, NL-SH, NL3, and TM1 for the heavy system and NL2 and TM2 for the light system. The heavy oxygen isotopes lie just at the border line between the light and heavy groups. Therefore it is not surprising that the NL-SH, NL1, NL2, NL3, TM1, TM2 and the non-relativistic counterparts mostly do not predict correctly the neutron drip line which is already known experimentally to be at $^ { 2 4 }$ 0.
+
+One may suspect that the drip-line nucleus for Ca is predicted to be $^ { 7 0 }$ Ca instead of $^ { 7 2 }$ Ca. Most calculations predict the Ca isotopes with $N > 5 0$ would be unbound, as the more neutrons should fill the continuum region above the $N = 5 0$ shell. For example,in Ref. [13] and Ref.[14], the drip-line nucleus is predicted as $^ { 7 0 }$ Ca with the HFB and Skyrme HF method, respectively.
+
+The reason for the unexpected bound nuclei $^ { 7 2 }$ Ca is caused by the halo effect, which also results in the disappearance of the normal $N = 5 0$ magic number in the RCHB calculation. Seen along the $S _ { 2 n }$ to $N$ curve in Fig. 1， strong kinks can be clearly seen at $N \ = \ 8$ ， （204号 $N = 2 0 , 2 8 , 4 0$ ， $N = 2 8 , 5 0$ ， $N = 5 0 , 8 2$ and $N = 1 2 6$ for O,Ca, Ni, Zr, Sn,Pb isotope chains, respectively. All these numbers correspond to the neutron magic numbers, which come from the large gaps of single particle energy levels. However, no kink appears at the （20 $N \ = \ 5 0$ magic number for Ca isotopes in Fig. 1. In stable nuclei, the $N = 5 0$ magic number is given by the big energy gap between the $1 g _ { 9 / 2 }$ and $3 s$ ， $2 d$ levels. However in the vicinity of the drip-line region of Ca isotopes, the single particle energy of $3 s _ { 1 / 2 }$ would decrease with the halo effect and its zero centrifugal potential barrier, the large gap between （20 $1 g _ { 9 / 2 }$ and $3 s _ { 1 / 2 }$ disappears. Therefore, the nucleus $^ { 7 0 }$ Ca is no more a double-magic nucleus and furthermore $^ { 7 2 }$ Ca is also bound. This disappearance of the $N = 5 0$ magic number at the neutron drip line is due to the halo property of the neutron density with the spherical shape being kept，different from the disappearance of the $N = 2 0$ magic number due to deformation (the unbound $^ { 2 6 , 2 8 }$ O mentioned above). Most recently a new magic number （20 $N = 1 6$ has been discovered in neutron drip-line light-nuclei region which is also considered as owing to the halo effect [4]. It can be expected also that near drip line, more disappearance of the traditional magic numbers and regeneration of new magic number would be found with the same mechanism.
+
+Another remarkable phenomenon in Fig. 1 is that the $S _ { 2 n }$ values for exotic Ca iso topes near neutron drip line are very close to zero in the large mass region， i.e., $S _ { 2 n } \approx$ 2.06,1.24, 0.76, 0.43,0.21, 0.04 MeV for $A = 6 2$ ，64，66, 68，70,72 isotopes, respectively. If one regards $^ { 6 0 }$ Ca as a core, then the several valence neutrons occupying levels above the （204号 $N = 4 0$ sub-shell for these $A > 6 0$ exotic nuclei are all weakly bound and can be scattered easily to the continuum levels due to the pairing interaction, especially for $6 6 - 7 2$ Ca.This case is very similar to $S _ { 2 n }$ in Zr isotopes with $N > 8 2$ (see Fig.1） [11]. Note that for Sn isotopes in the vicinity of the drip line [26], however, $S _ { 2 n }$ decrease rather fast with the mass number and for Ni isotopes [10], $S _ { 2 n }$ are quite large ( $\sim$ 2MeV) and undergo a sudden drop to negative value at the drip-line nucleus. Such behavior of $S _ { 2 n }$ in Ca isotopes with $N > 4 0$ gives us a hint that there exist giant halos in these nuclei, just as what happens in Zr isotopes with $N > 8 2$ [11].
+
+# B.Nuclear root mean square radii
+
+We discuss here the nuclear radii, which are the important basic physical quantity to describe atomic nuclei as well as the nuclear binding energies. In the mean field theory, the root mean square (rms) proton, neutron,mass radii $( r _ { p } , \ r _ { n } , \ r _ { m } )$ can be directly deduced from their density distributions $\rho$ ：
+
+$$
+r _ { p ( n ) } = < r _ { p ( n ) } ^ { 2 } > ^ { 1 / 2 } = ( \frac { \int \rho _ { p ( n ) } r ^ { 2 } d \tau } { \int \rho _ { p ( n ) } d \tau } ) ^ { 1 / 2 } ,
+$$
+
+and
+
+$$
+r _ { m } = < r _ { m } ^ { 2 } > ^ { 1 / 2 } = ( \frac { \int ( \rho _ { p } + \rho _ { n } ) r ^ { 2 } d \tau } { \int ( \rho _ { p } + \rho _ { n } ) d \tau } ) ^ { 1 / 2 } .
+$$
+
+The theoretical rms charge radii $r _ { c }$ are connected with the proton radii $r _ { p }$ as:
+
+$$
+r _ { c } ^ { 2 } = r _ { p } ^ { 2 } + 0 . 6 4 \ \mathrm { f m ^ { 2 } } ,
+$$
+
+when the small isospin dependence is ignored for exotic nuclei [27].
+
+![](images/bf32eaed81ec11cd95c241be574cd1b72b822bb322c846aeb6b4264c5463c647.jpg)
+
+FIG. 2. The root mean square charge radi for the proton magic even mass nuclei are plotted as a function of the neutron number.The dotted curves correspond to the radii calculated with the A1/3 formula.
+
+![](images/e3de5580ee70a81eccf105f5954cb45984015f2c772e0c21c55a863df2e2d2c5.jpg)
+
+FIG.3. The root mean square neutron radii for the proton magic even mass nuclei are plotted as a function of the neutron number. The solid curve corresponds to the radii calculated with the （20 $N ^ { 1 / 3 }$ formula.
+
+![](images/6cba7c2734478e6d10c7242e5a60246dd0bcc83a8d7d89bbe0fadfca48fdf705.jpg)  
+FIG. 4. The root mean square radi for the proton, neutron, charge and matter distributions are plotted as a function of the neutron number for the Ca isotope. The available experimental values are denoted by solid symbols.
+
+It is interesting to investigate the neutron number dependence of the proton radii (or charge radii) and the neutron radii for these proton-magic isotope chains. In Fig. 2,we show the rms charge radii $r _ { c }$ obtained from the RCHB theory (open symbols) and the data available (solid symbols) for the even-even Ca,Ni, Zr, Sn and Pb isotopes. The values for the O isotopes are not plotted here considering the systematic deviation of the mean field theory for light isotopes as discussed above. As it could be seen， the RCHB calculations reproduce the data very well (within $1 . 5 \%$ ). For a given isotopic chain，an approximate linear $N$ dependence of the calculated rms charge radii $r _ { c }$ is clearly seen. However， the variation of $r _ { c }$ for a given isotopic chain deviates from the general accepted simple $A ^ { 1 / 3 }$ law (denoted by dashed lines in Fig. 2)，which shows a strong isospin dependence of nuclear charge radii is necessary for nuclei with extreme $N / Z$ ratio. Recently, we have investigated these charge radii as well as the large amount of experimental data and extract a formula with the $Z ^ { 1 / 3 }$ dependence and isospin dependence to better describe these charge radii all over the nuclear isotope chart [28].
+
+We also plot in Fig. 3 the neutron radii $r _ { n }$ from the RCHB calculation for the even-even nuclei of the O,Ca, Ni, Zr, Sn and Pb isotope chains. The prediction $r _ { n }$ curve using the simple experiential equation $r _ { n } = r _ { 0 } \cdot N ^ { 1 / 3 }$ with $r _ { 0 } = 1 . 1 3 9$ normalizing to $^ { 2 0 8 }$ Pb is also represented in the figure. Except for the O and Ca isotopes, it is very interesting to see that the simple formula for $r _ { n }$ agrees with the calculated neutron radii except for two anomalies. One appears in the Ca chain above $N = 4 0$ ,and the other in Zr chain above $N = 8 2$ . The increase of exotic Ni and Sn nuclei is not as rapid as that in Ca and Zr chains. The regions of the abnormal increases of the neutron radii are just the same as those for $S _ { 2 n }$ .Both behaviors are connected with the formation of giant halo. As Calcium is a light element, the giant halos in exotic Ca isotopes would be much more easily accessed experimentally than in the Zr chain.
+
+In Tab. II we present the calculated neutron, proton, matter, and charge radii for all even Ca isotopes, as well as several available charge radii data. Those radii against mass number $A$ （20 are plotted in Fig. 4. For nuclear charge radii $r _ { c }$ , the well-known parabolic behavior along （204号 $^ { 4 0 - 4 8 }$ Ca is not reproduced in our calculation. It is mainly due to the improper spherical supposition to the real deformed $^ { 4 2 , 4 4 , 4 6 }$ Ca nuclei. Itcan beclearlysen that theradii ， $r _ { p }$ （204号 $r _ { n }$ ， $r _ { m }$ and $r _ { c }$ all increase with the mass number $A$ . The mass radii $r _ { m }$ as well as $r _ { n }$ increase much faster than $r _ { p }$ and $r _ { c }$ . Besides the normal increase of $r _ { n }$ and $r _ { m }$ with $A$ ， a slightly up-bend tendency occurs in the neutron drip line region from $A = 6 2$ up to $A = 7 2$
+
+# C.Density distribution and halos
+
+We shall concentrate from here the giant halo properties for the Ca isotopes as mainly due to the easier access by the present experimental techniques. For exotic nuclei, physics connected with the low density region in the tails of the neutron and proton distributions have attracted a lot of attention in nuclear physics as well as in other fields such as astrophysics. It is therefore of great importance to look into the matter distribution and see how the densities change with the proton to neutron ratio in these nuclei. As the density here is obtained from a fully microscopic and parameter free model which is wellsupported by the experimental binding energies, we now proceed to examine the density distributions of the whole chain of Calcium isotopes in this section and study the relation between the development of halo and shell effects within the model.
+
+![](images/f15c9b4c59bfbd1c7fc65d5f4f40bca7448b7d9b9df6808ea62416fbd7290aa9.jpg)  
+FIG.5.(a) The neutron,(b) proton,and (c) matter density distributions for the Ca isotopes The arrows represent the density variation tendency with the neutron number $N$
+
+The density distributions for some Ca isotopes are given for the neutron， proton and matter densities in Fig. 5a-c, respectively. In these figures,the arrows represent the density variation tendency with the mass number $A$ . From Fig. 5c, the matter densities extend outwards with $A$ at the nuclear surface ( $3 < r < 6$ fm),while the variation is small in the center ( $r \ < 3$ fm).For the proton density in Fig. 5b, the density for $r \ < 3$ fm decreases dramatically, and at the surface ( $r \sim 4 \mathrm { f m }$ ) extends outwards monotonously with $A$ ,although the proton number is fixed to 20. It is in accordance with the increase of the proton radii $r _ { p }$ and the charge radii $r _ { c }$ as shown in Fig. 4. The increase of the radius is just due to the nuclear saturation property, as the total mass number $A$ of the nuclei is increasing. The neutron densities, which are represented in Fig. 5a, extend greatly outwards with $A$ on the surface and neutron skin is developing. In the center, most neutron densities also increase with $A$ , however the increase is not as dramatic as the decrease of the proton density. As a result, the matter densities vary (mainly decrease) slightly in the interior region.
+
+The halo phenomena are always related with the wide extension of the nuclear density distributions in space. In order to exhibit clearly the large spacial extension, the density distributions are also shown on a logarithmic scale in the corresponding figures of Fig. 5a, b,c as the inset for neutron,proton and matter density distribution. From the inset figures of Fig. 5a, the proton density decreases once more with $A$ in the rather exterior region of $r > 8$ fm， meanwhile heavier Ca isotopes extend toward outside in the region of $4 < r < 6$ （204号 fm and the proton density decreases dramatically with $A$ in the center $r < 3$ fm. So there exist two switching regions for the proton density: one lies in the nuclear surface ( $r \sim 4$ fm) due to the nuclear saturation property, and the other appears over $6 - 8$ fm region，which are related with the neutron-deficiency.
+
+From the neutron density represented in the inset of Fig. 5a, it is clearly seen that the neutron density distributions for Ca isotopes with $N > 4 0$ extend much more widely than those for lighter ones. The tail becomes larger and larger with the neutron number $N$ increased from 42 to 52, which is quite different from the cases in Ni and Sn isotopes [10,26]. In the latter two isotope chains, the tails of the neutron densities reach saturation beyond a specific nucleus, i.e., $A = 9 0$ for Ni and $A = 1 6 0$ for Sn. However, no saturation point is seen for the Ca isotopes as shown in Fig. 5a.
+
+For the tails of the matter density distributions in the inset of Fig. 5c, they are mainly determined by the proton densities for proton-rich nuclei while by the neutron densities for neutron-rich nuclei. The nucleus with the smallest tail for matter distribution is shown to be $^ { 4 4 } \mathrm { C a }$ ， which is nearest to the $\beta$ -stability line，while not the lightest neutron-deficiency nucleus $\mathrm { ^ { 3 4 } C a }$ . For neutron rich nuclei with $N$ from 42 to 52, the tail behaviors of $r _ { m }$ are consistent with that of $r _ { n }$ ， which are strong evidences that giant neutron halos exist in exotic Ca nuclei ( $A > 6 0$ ）
+
+![](images/035faa9d6a30305ebe0129a4ec9c6d955a6dd2e8d5bd11f368008fa107ea7f44.jpg)  
+FIG.6.The radii $r$ corresponding to different given proton and neutron densities （204号 $\rho _ { p } ( r ) ( \rho _ { n } ( r ) ) = 1 0 ^ { - 2 } , 1 0 ^ { - 4 }$ ，and $1 0 ^ { - 6 } ~ \mathrm { f m ^ { - 3 } }$ ),respectively, as a function with the mass number in Ca isotope chain.
+
+To give a simple quantitative idea on the density distributions and halos,in Fig. 6, the radii at which the proton and neutron densities, $\rho _ { p } ( r )$ and $\rho _ { n } ( r ) = 1 0 ^ { - 2 } , 1 0 ^ { - 4 } , 1 0 ^ { - 6 } ~ \mathrm { f m ^ { - 3 } }$ ， respectively, as a function of the neutron number for the Ca isotope chain are shown. As the central density of nuclear matter is about $\rho _ { 0 } \sim 0 . 1 6 \ \mathrm { f m ^ { - 3 } }$ and the proton and the neutron density is about a half of $\rho _ { 0 }$ , the value $r$ for $\rho _ { p ( n ) } = 1 0 ^ { - 2 } \ \mathrm { f m ^ { - 3 } }$ corresponds to the densities decrease to $1 0 \%$ of the central density and the surface of the nuclei. The value $r$ for $\rho _ { p ( n ) } =$ $1 0 ^ { - 6 } ~ \mathrm { f m ^ { - 3 } }$ corresponds to the tails of density distribution. From this figure, for $^ { 4 2 }$ Ca, we see that the proton and neutron densities have the same values at the same $r$ , i.e., the neutron density distribution is very similar to that of proton for the $\beta$ stable nuclei. For neutron rich nuclei, if $\rho _ { n } = \rho _ { p }$ ， the neutron radius $r$ is much bigger. For neutron deficient nuclei, the opposite are seen. For $\rho _ { n } = 1 0 ^ { - 6 } \ \mathrm { f m ^ { - 3 } }$ , a increasing tendency for $r$ curve can be clearly seen,particularly, the curve shows a strong kink at $N = 6 2$ . The kink is also a important signal for the giant neutron halos, as well as the $S _ { 2 n }$ and neutron radii $r _ { n }$ ：
+
+# D.Single particle levels in canonical basis and contribution of continuum
+
+The above results can be understood more clearly by considering the microscopic structure of the underlying wave functions and the single-particle energies in the canonical basis [10]. In Fig. 7, the neutron single-particle levels in the canonical basis are shown for the even Ca isotopes from the mass number $A = 3 4$ to $A = 7 2$ . The shell closure ( $N = 2 0$ and
+
+28）and sub-shell closure ( $N = 4 0$ ）are clearly seen as big gaps between levels. A dotted line in the figure represents the neutron chemical potential $\lambda _ { n }$ ，which jumps three times at the magic or submagic neutron number on its way to almost zero at $\mathrm { ^ { 7 2 } C a }$ .These jumps correspond to the shell (or sub-shell) closure just as the appearance in the $S _ { 2 n }$ case.The （204号 $\lambda _ { n }$ comes close to zero for nuclei near the neutron drip line, i.e., $\lambda _ { n } \approx - 0 . 9 2$ MeV for $^ { 6 2 }$ Ca, -0.64 MeV for $^ { 6 4 }$ Ca, -0.44 MeV for $^ { 6 6 }$ Ca, -0.28 MeV for $^ { 6 8 }$ Ca, -0.16 MeV for $^ { 7 0 }$ Ca, and -0.07 MeV for $^ { 7 2 }$ Ca. Meanwhile, no jump at $N = 5 0$ in the $\lambda _ { n }$ curve is in agreement with the disappearance of this traditional magic number mentioned above in the $S _ { 2 n }$ case. From Fig. 7, the big gap between the $1 g _ { 9 / 2 }$ orbit and the $s - d$ shell has disappeared in the neutron drip line region due to the lowering of $3 s _ { 1 / 2 }$ and $2 d _ { 5 / 2 }$ orbits. For example, this gap for $^ { 7 2 }$ Ca is only 1.02 MeV.
+
+![](images/07b22385eff81034637ef77fb0ff2f09226414bd38e52b39f879f568d393f6cb.jpg)  
+FIG.7. The single-particle neutron energies in the canonical basis with the mass number A for the Ca isotopes. The Fermi surfaces are shown by the dot-dashed line.
+
+As neutron chemical potential $\lambda _ { n }$ approaches zero， the Ca isotopes with $A > 6 0$ are all weakly bound nuclei. This means that the additional neutrons will occupy the weakly bound states, which are very close to the continuum region. These neutrons supply very small binding energies,and result in nearly vanishing two neutron separation energies $S _ { 2 n }$ Furthermore, the pairing interaction scatters the neutron pairs from such weakly bound states to continua as the Fermi level is close to zero. The single particle occupation of continua then affects the nuclear properties. For Ca isotopes with $A > 6 0$ ，the added neutrons will occupy the weakly bound states and continua: $1 g _ { 9 / 2 } , 3 s _ { 1 / 2 } , 2 d _ { 5 / 2 } , 2 d _ { 3 / 2 }$ ，etc. Such orbits play importance roles as discussed below.
+
+![](images/062a68b6cb73697fd047e7ebadf96d3f0cf24245ffaca3b878ee10e0503263db.jpg)  
+FIG.8. The occupation probabilities in the canonical basis for various even Ca isotopes as a function of the single particle energy. The chemical potential is indicated with a vertical line. The number $N _ { h }$ of neutron in the halo are also shown.
+
+In Fig. 8,we present the occupation probabilities $v ^ { 2 }$ of neutron levels near Fermi surface (i.e., $- 2 0 \leq E \leq 1 0$ MeV） in the canonical basis for several neutron-rich even Ca isotopes, i.e., $^ { 5 8 - 7 2 }$ Ca. The neutron chemical potential $\lambda _ { n }$ is indicated by a vertical line. For nuclei with mass number $A < 6 0$ , the chemical potential is quite large (e.g., -13.1 MeV for $^ { 4 0 }$ Ca, -6.74 MeV for $^ { 4 8 }$ Ca, and -3.69 MeV for $^ { 5 8 }$ Ca), the occupation probabilities for the continua are nearly zero. As the neutron number goes beyond the subshell $N \ = \ 4 0$ ，the Fermi surface approaches to zero and the occupation of the continuum becomes more and more important. Summing up the occupation probabilities $v ^ { 2 }$ for the states with $E > 0$ , one can get the contribution of the continua $n _ { h }$ [11]. They are approximately 2.2, 0.6,1.1, 1.7, 1.9 and 2.7 for $^ { 6 2 }$ Ca, $^ { 6 4 }$ Ca, $^ { 6 6 }$ Ca, $^ { 6 8 }$ Ca， $^ { 7 0 }$ Ca,and $^ { 7 2 }$ Ca, respectively. In ref. [11], from two to roughly six neutrons in total scattering in the continuum is predicted in Zr isotopes with （204号 $N > 8 2$ ， while the neutron number scattering to continuum in Ca isotopes is reduced to about $1 \sim 3$ ：
+
+![](images/dcd9fca4bee1d3459db0296106f63beff09c6fe550c64c14d558dacacb33eedc.jpg)  
+FIG. 9. The single-particle levels in the canonical basis for the neutron in $^ { 6 6 } \mathrm { C a }$ . The neutron potentials $V ( r ) + S ( r )$ is denoted by the solid line and the Fermi surface is shown by a dashed line. The occupied probabilities for the single-particle levels are shown by their line-length. Also the root mean square radius ${ { r } _ { n l j } }$ in fm for every level is listed in the parenthesis behind the corresponding level.
+
+As a typical example, we investigate in detail the single particle levels and contributions of continua with exotic nuclei $^ { 6 6 }$ Ca. Fig. 9 shows the neutron single-particle levels in the canonical basis for $^ { 6 6 }$ Ca. The length of each level is proportional to its occupied probability $v ^ { 2 }$ . The Fermi surface for neutron ( $\lambda _ { n } \approx - 0 . 4 3 5 \ \mathrm { { M e V } ) }$ is represented with a dashed line, and the nuclear mean field potential $V ( r ) + S ( r )$ is denoted with the solid curve. We here define the root mean square radius $r _ { n l j }$ for one single-particle level denoted by $n l j$ as:
+
+$$
+r _ { n l j } = \frac { \int \rho _ { n l j } r ^ { 2 } d \tau } { \int \rho _ { n l j } d \tau } ,
+$$
+
+where $\rho _ { n l j }$ presents the probability density of each level and the corresponding wave function （20 $\psi _ { { n } l j }$ . This root mean square radius ${ r } _ { n l j }$ for each level is shown in the parenthesis behind the corresponding level label in units of fm. Also in Tab.V,we list the single particle energies （204号 $\epsilon _ { n l j }$ ，the rms radii ${ r } _ { n l j }$ and the occupied probabilities $v _ { n l j } ^ { 2 }$ for all the neutron levels with energies $\epsilon < 1 0$ MeV in $^ { 6 6 }$ Ca calculated from RCHB theory.
+
+Here, the state $1 g _ { 9 / 2 }$ is weakly bound with the energy -0.48 MeV, while the $3 s _ { 1 / 2 }$ ， $2 d _ { 5 / 2 }$ ， （204号 $2 d _ { 3 / 2 }$ ，and $1 g _ { 7 / 2 }$ levels are in the continuum with energies 0.64,1.41, 2.85,and 5.67 MeV, respectively. We note that due to the absence of a centrifugal barrier, the orbit $3 s _ { 1 / 2 }$ lies below states $2 d _ { 3 / 2 }$ and $2 d _ { 5 / 2 }$ . The occupied probabilities $v ^ { 2 }$ of these states are: 0.514 for （204 $1 g _ { 9 / 2 }$ ，0.089 for $3 s _ { 1 / 2 }$ ，0.071 for $2 d _ { 5 / 2 }$ ，0.027 for $2 d _ { 3 / 2 }$ ，and 0.017 for $1 g _ { 7 / 2 }$ . We get about 0.85 neutrons in these continuum states,which are about $4 / 5$ of the total contribution of the continuum $n _ { h } = 1 . 1$ for $^ { 6 6 }$ Ca (see Fig. 8). The $3 s _ { 1 / 2 }$ state has a rms radius 7.24 fm in comparison with the rms radii of the neighbor states ( $\sim 5$ fm） and the total neutron rms radii （4.314 fm） owing to its zero centrifugal barrier. Therefore the nucleon occupying on the state $3 s _ { 1 / 2 }$ will contribute to the nuclear rms radius considerably.
+
+The relative contributions $\rho _ { n l j } / \rho _ { n }$ of different single-particle orbits to the full neutron density as a function of radical distance $r$ are represented in Fig. 1O for the typical nuclei （20 $^ { 6 6 }$ Ca. For comparison we also present the total neutron density $\rho _ { n }$ with the shaded area in arbitrary units.In the interior of nuclei ( $r < 4$ fm),the contribution to neutron distribution mainly comes from the low-lying energy levels such $\mathrm { . a s 1 } s _ { 1 / 2 } , \ 1 p _ { 3 / 2 } , \ 1 p _ { 1 / 2 } , \ 1 d _ { 5 / 2 } , \ 2 s _ { 1 / 2 } , \ 1$ $1 d _ { 3 / 2 }$ In the nuclear surface( $r \sim 5$ fm） and the beginner part of the tail ( $6 < r < 1 0 \ 1$ fm)，the weakly bound $f$ $p$ shell states and very weakly $1 g _ { 9 / 2 }$ orbit play dominant role for neutron distribution. Then their contributions gradually decrease with the radius,while the contributions from the continuum (e.g. $3 s _ { 1 / 2 } , 2 d _ { 5 / 2 }$ ） become more and more important. For $r > 1 5$ （204号 fm, the state $3 s _ { 1 / 2 }$ is dominant (about 60 percent) owing to its zero centrifugal barrier, and the other continuum states $2 d _ { 5 / 2 } , 2 d _ { 3 / 2 } , 4 s _ { 1 / 2 }$ and the very weakly bound state $1 g _ { 9 / 2 }$ also play their roles. It is well shown that the contributions of the continua are crucial to the tail, which is closely connected with the halo phenomena.
+
+TABLE V. The properties of neutron single-particle levels in $^ { 6 6 }$ Ca, including single particle energies, occupation probabilities,and rms radii for the single-particle levels.   
+
+<html><body><table><tr><td>nlj</td><td>E</td><td>U2²</td><td>r</td><td>nlj</td><td>E</td><td>U2</td><td></td></tr><tr><td>1s1/2</td><td>-48.76</td><td>1.00</td><td>2.41</td><td>3s1/2</td><td>0.64</td><td>0.089</td><td>7.24</td></tr><tr><td>1p3/2</td><td>-37.08</td><td>1.00</td><td>3.20</td><td>2d5/2</td><td>1.41</td><td>0.071</td><td>6.10</td></tr><tr><td>1p1/2</td><td>-34.74</td><td>1.00</td><td>3.16</td><td>2d3/2</td><td>2.85</td><td>0.027</td><td>6.01</td></tr><tr><td>1d5/2</td><td>-24.56</td><td>1.00</td><td>3.87</td><td>197/2</td><td>5.67</td><td>0.017</td><td>5.20</td></tr></table></body></html>
+
+<html><body><table><tr><td>2s1/2</td><td></td><td>1.00</td><td>4.08</td><td>4s1/2</td><td>7.88</td><td>0.002</td><td>8.42</td></tr><tr><td>1d3/2</td><td>-20.11 -20.04</td><td>1.00</td><td>3.85</td><td>3p3/2</td><td>8.11</td><td>0.002</td><td>6.51</td></tr><tr><td>1f7/2</td><td>-12.05</td><td>1.00</td><td>4.39</td><td>3p1/2</td><td>8.35</td><td>0.002</td><td>6.63</td></tr><tr><td>2p3/2</td><td>-7.24</td><td>1.00</td><td>5.03</td><td></td><td></td><td></td><td></td></tr><tr><td>1f5/2</td><td>-6.07</td><td>1.00</td><td>4.58</td><td></td><td></td><td></td><td></td></tr><tr><td>2p1/2</td><td>-5.79</td><td>1.00</td><td>5.19</td><td></td><td></td><td></td><td></td></tr><tr><td>199/2</td><td>-0.48</td><td>0.514</td><td>5.03</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+In Tab. VI, the energies,rms radii and occupied probabilities of the neutron singleparticle level $3 s _ { 1 / 2 }$ for even isotopes $6 0 - 7 2$ Ca isotopes are presented. Its energy decreases with neutron number $N$ , i.e., it lies in continuum for $6 0 - 6 8$ Ca and becomes slightly bound for $^ { 7 0 , 7 2 }$ Ca. As both the rms radii and $v ^ { 2 }$ for the state $3 s _ { 1 / 2 }$ increase monotonously with the mass number $A$ , it will drive the tail of neutron density distribution become larger and larger as shown above. Of course, with more neutrons added to $^ { 6 6 }$ Ca up to the heaviest bound nucleus predicted as $\mathrm { ^ { 7 2 } C a }$ , the contributions to the tail from the other continuum （204号 $2 d _ { 5 / 2 } , 4 s _ { 1 / 2 }$ and $2 d _ { 3 / 2 }$ will also become more important due to their larger occupation.
+
+![](images/99a9b16f5edbed5718b1f792f5eb64b696b5a4d15c20ace7e819ccd5050d12df.jpg)  
+r [fm]   
+FIG.10. Relative contributions of the different orbits to the total neutron density as a function of the radius. The shaded area indicates the total neutron density in arbitrary units.
+
+TABLE VI. The properties of $3 s _ { 1 / 2 }$ for 60-72Ca   
+
+<html><body><table><tr><td>A</td><td>60</td><td>62</td><td>64</td><td>66</td><td>68</td><td>70</td><td>72</td></tr><tr><td>e (MeV)</td><td>3.751</td><td>1.842</td><td>1.162</td><td>0.638</td><td>0.247</td><td>-0.028</td><td>-0.238</td></tr><tr><td>r (fm)</td><td>5.524</td><td>6.356</td><td>6.781</td><td>7.240</td><td>7.709</td><td>8.062</td><td>8.212</td></tr><tr><td>U²</td><td>~0.0</td><td>0.015</td><td>0.039</td><td>0.089</td><td>0.201</td><td>0.404</td><td>0.628</td></tr></table></body></html>
+
+# E.Vector and scalar potentials and their isospin evolution
+
+One of the essential differences between a non-relativistic single particle equation and the relativistic Dirac equation in nuclear physics is the fact that the relativistic equation contains from the beginning two potentials $V$ and $S$ ，which have different behaviors under Lorentz transformation [7]. We now investigate the vector and scalar potentials in the Ca isotope chains in detail. Fig. 11 presents the vector $V$ and scalar potential $S$ for proton (left panels) and neutron (right panels) in Ca chains as a function of the radial distance $r$ ， respectively. We can see from the figure that both the vector and scalar potentials have a Woods-Saxon shape,i.e., the similar nuclear density distribution. They nearly vanish outside the nucleus and they are more or less constant in the nuclear interior, namely $S \approx - 4 2 0$ MeV as an attractive potential and $V \approx 3 5 0 ~ \mathrm { { M e V } }$ as an repulsive potential.
+
+![](images/89f1b89a80ce6f3baab2328d74339336dad0ef1a8c5961e0e67d16325acf1693.jpg)  
+FIG.11. The vector and scalar potentials $\displaystyle \left( \mathrm { V } ( \mathrm { r } ) , \mathrm { S } ( \mathrm { r } ) \right)$ for the $\mathrm { C a }$ isotopes. The left panel presents those for proton, while the right panel for neutron.
+
+We can clearly see that the scalar potential $S ( r )$ for proton is just the same as that for neutron in all cases. It is isospin independent as the scalar potential comes from $\sigma$ meson field,which takes the same form for either proton or neutron. On the other hand, the vector potential $V ( r )$ is isospin dependent: the potential for proton is somewhat different from neutron. The difference comes from the $\rho$ meson and the Coulomb interaction. For a given nucleus,the vector potential for proton is a little larger than that for neutron in the nuclear interior,and it does not vanish outside the nucleus due to the long range Coulomb interaction.
+
+# F.Spin-orbit splitting in exotic nuclei
+
+An advantage of the relativistic mean field theory is to get the spin-orbit coupling naturally. The spin-orbit splitting has been discussed through various themes with relativistic or non-relativistic microscopic theory [26,29,30]. Now we examine the spin-orbit splitting for the whole even Ca isotopes in the relativistic continuum Hatree-Bogoliubov theory.
+
+The spin-orbit splitting energy $E _ { l s }$ for the two partners ( ${ \mathit { n l j } } = l - 1 / 2 , { \mathit { n l j } } = l + 1 / 2$ ）is defined as:
+
+$$
+E _ { l s } = \frac { E _ { n l j = l - 1 / 2 } - E _ { n l j = l + 1 / 2 } } { 2 l + 1 } .
+$$
+
+In Fig. 12, the spin-orbit splitting energies $E _ { l s }$ in Ca isotopes are shown as a function of mass number $A$ for the proton (lower panel) and neutron (upper panel) spin-orbit partners $( 1 d _ { 3 / 2 } , 1 d _ { 5 / 2 } )$ ， $( 1 g _ { 7 / 2 } , 1 g _ { 9 / 2 } ) , \ ( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } ) , \ ( 1 f _ { 5 / 2 } , 1 f _ { 7 / 2 } )$ and $( 2 p _ { 1 / 2 } , 2 p _ { 3 / 2 } )$ .For the lighter Ca isotopes,some doublets sit in the continuum region with large positive energies in the canonical basis. It would result in some uncertainty in spin-orbit splitting. Therefore we limit the level energies $E$ below 10 MeV. In Fig. 12, the splitting decreases monotonically from proton-rich side to the neutron rich-side for most doublets except the doublets $( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } )$ （204号 and $( 2 p _ { 1 / 2 } , 2 p _ { 3 / 2 } )$ . The splitting of the $p$ doublets between two closures, i.e., $^ { 4 0 } \mathrm { C a }$ ， $^ { 4 8 }$ Ca, fluctuates quite a lot. Above $N = 2 8$ ， the splitting increases a little, then decline with the neutron number. For the doublets $( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } )$ and $( 1 d _ { 3 / 2 } , 1 d _ { 5 / 2 } )$ ， the spin-orbit splitting for neutron and proton is very close to each other. For the doublets $( 1 f _ { 5 / 2 } , 1 f _ { 7 / 2 } )$ and $( 2 p _ { 1 / 2 } , 2 p _ { 3 / 2 } )$ ， there are quite big difference. Moreover, the splitting for neutron is usually smaller than that for proton.
+
+![](images/ac712bb1afcb9190205638d65e5c6609a23b9a099fb8c86c1d1264758b09ff7e.jpg)  
+FIG.12. The spin-orbit splitting energies $E _ { l s }$ in Ca isotopes as a function of mass number $A$ for the proton and neutron spin-orbit doublets $( 1 d _ { 3 / 2 } , 1 d _ { 5 / 2 } )$ ， $( 1 g _ { 7 / 2 } , 1 g _ { 9 / 2 } )$ ， $( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } )$ ， $( 1 f _ { 5 / 2 } , 1 f _ { 7 / 2 } )$ and $( 2 p _ { 1 / 2 } , 2 p _ { 3 / 2 } )$
+
+It would be very helpful to examine the origin of the spin-orbit splitting in the Dirac equation. For the Dirac nucleon moving in a scalar and vector potentials, its equation of motion could be decoupled and reduced to either the upper component or the lower component，respectively. If it is reduced to the lower component， it will be related with another interesting topic - the pseudo-spin symmetry [31]. Here we pay attention to the spin-orbit splitting,which is related to the upper component. The Dirac equation can be reduced for the upper component as follows, [26]:
+
+$$
+\begin{array} { l } { { { [ \displaystyle \frac { d ^ { 2 } } { d r ^ { 2 } } - \frac { 1 } { E + 2 M - V _ { V } + V _ { S } } \frac { d ( 2 M - V _ { V } + V _ { S } ) } { d r } \frac { d } { d r } ] G _ { i } ^ { l j } ( r ) } } } \\ { { { - [ \displaystyle \frac { \kappa ( 1 + \kappa ) } { r ^ { 2 } } - \frac { 1 } { E + 2 M - V _ { V } + V _ { S } } \frac { \kappa } { r } \frac { d ( 2 M - V _ { V } + V _ { S } ) } { d r } ] G _ { i } ^ { l j } ( r ) } } } \\ { { = - ( E + 2 M - V _ { V } + V _ { S } ) ( E - V _ { V } - V _ { S } ) G _ { i } ^ { l j } ( r ) , } } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { r } { \kappa = \left\{ \begin{array} { c } { - l - 1 , ~ j = l + 1 / 2 } \\ { l , ~ j = l - 1 / 2 } \end{array} \right. } \end{array}
+$$
+
+The spin-orbit splitting is provided by the corresponding spin-orbit term [26]:
+
+$$
+\frac { 1 } { E + 2 M - V ( r ) + S ( r ) } \frac { \kappa } { r } \frac { d ( 2 M - V ( r ) + S ( r ) ) } { d r }
+$$
+
+It can be seen clearly that the spin-orbit splitting is energy dependent and depends also on the derivative of the potential $2 M - V ( r ) + S ( r )$ as well as the particle distribution. Therefore the so-called spin-orbit potential in the RCHB theory is defined [26]:
+
+$$
+V _ { l s } = \frac { 1 } { r } \frac { d ( 2 M - V ( r ) + S ( r ) ) } { d r }
+$$
+
+The derivative of the potential difference, $\frac { d ( V ( r ) - S ( r ) ) } { d r }$ for proton and neutron in the Ca isotopes is given in Fig. 13. The potential difference, $V ( \boldsymbol { r } ) - S ( \boldsymbol { r } )$ , for both proton and neutron are almost the same,as $V ( r ) - S ( r )$ is a big quantity( \~ 700 MeV ），and the difference in the spin-orbit potential for proton and neutron could be neglected. Therefore the proton and neutron $V _ { l s }$ are almost the same in the present model. That is the reason why the spin-orbit splitting for neutron and proton doublets $( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } )$ and $( 1 d _ { 3 / 2 } , 1 d _ { 5 / 2 } )$ is very close to each other as shown in Fig. 12.
+
+![](images/38b91814a2afb993fe3f59d87bb70952d29fcf716aa8e8c7e4ed01a22e539b56.jpg)  
+FIG.13. The derivative of the potential difference, $\frac { d ( V ( r ) - S ( r ) ) } { d r }$ （204号 for proton (left） and neutron (right）in the Ca isotopes as a function of the radius.
+
+From $^ { 3 4 }$ Ca to $^ { 4 8 }$ Ca, the amplitude of $V _ { l s }$ increases monotonically and from $^ { 4 8 }$ Ca to $^ { 7 2 }$ Ca, the amplitude decreases monotonically due to surface diffuseness. Meanwhile, the maximum point of the potential $V _ { l s }$ has an outwards tendency. Thus the systematic decrease of spinorbit splitting is partially related with the decrease of $V _ { l s }$ . Furthermore, the systematic decrease also comes from the diffuseness of the nuclear potential. In Figs. 14 and 15, we see that the potentials $V ( r ) - S ( r )$ and $V ( r ) + S ( r )$ extend outwards into the nuclear surface, which makes the diffuseness increase with the neutron number.
+
+![](images/3c487e0bfdea6a428137bda9c8e05a721f401ab1ba109ecb42a551f36da4ab1d.jpg)
+
+![](images/69b6104d9b58f86e3fcbbbabb804a163b9db6b0ac9de2f3250ce6d522b4998bb.jpg)  
+FIG.14. The summed mean field potential, $V ( r ) + S ( r )$ ， for proton and neutron in even Ca isotopes. Directions of arrows in the figure show the diffuseness of nuclear potential.
+
+FIG.15. The mean feld anti-nucleon potential, $V ( r ) - S ( r )$ , for proton and neutron in even Ca isotopes. Directions of arrows in the figure show the diffuseness of nuclear potential.
+
+![](images/670c68a2b9429dc6ec8cb1c5eb0e2cbedece5ac61b9f8b01c451d70f9e6eae01.jpg)  
+FIG.16. The spin-obit splitting $E _ { l s }$ as a function of a specific quantum number in $4 2 , 5 2 , 6 2 , 7 2 \mathrm { C a }$ ： The left panel shows the splitting for $p$ orbits with the quantum number $n$ ; the right panel shows the splitting for $n = 1$ orbits with the quantum number $l$ ：
+
+So far we have investigated how the proton and neutron spin-orbit splitting changes with the mass number $A$ , i.e. the isospin dependence. The decreasing tendency is mainly caused by the derivative of anti-nucleon potential and the diffuseness of the mean feld. For one special nucleus, the potential is the same for different spin-orbit doublets, so it is necessary to investigate how the splitting changes with different quantum numbers,as in Fig. 16. To avoid the confusion caused by showing too many doublets in the figure, we present the splitting energies for $E _ { l s }$ of $( p _ { 1 / 2 } , p _ { 3 / 2 } )$ partners as a function of quantum number $n$ in the left panel, and those of different $n = 1$ doublets as a function of quantum number $l$ in the right panel, respectively, for $4 2 , 5 2 , 6 2 , 7 2 \mathrm { C a }$ ：
+
+In the left panel of Fig. 16,the spin-orbit splitting in doublets $( 1 p _ { 1 / 2 } , 1 p _ { 3 / 2 } )$ is much larger than that in $( 2 p _ { 1 / 2 } , 2 p _ { 3 / 2 } )$ cases, and that in $( 3 p _ { 1 / 2 } , 3 p _ { 3 / 2 } )$ for $\mathrm { ^ { 7 2 } C a }$ is the smallest. It can be clearly seen in Eqn.(32) that, besides the spin-orbit potential, the spin-orbit term also depends on the factor，E+2M-V(r)+ S(r) . However, this factor has little energy $E$ dependence. In fact，the energy $\mathrm { E }$ (varying from -40 to 10 MeV) is a small quantity compared with the potential $2 M - V ( r ) + S ( r )$ ，which is $2 M$ ( $\sim$ 1800 MeV）in surface or about l0ooMeV in the nuclear interior. Thus the energy dependence of the spin-orbit splitting difference caused directly by the energy factor can be neglected.
+
+It has been suggested that the spin-orbit splitting difference mainly comes from the overlap between the density distribution and the spin-orbit potential $V _ { l s }$ ， as demonstrated for Sn isotopes in Ref. [26]. In Fig. 17, for $^ { 4 2 } \mathrm { C a }$ ， $\mathrm { ^ { 5 2 } C a }$ ， $^ { 6 2 }$ Ca and $\mathrm { ^ { 7 2 } C a }$ ， the derivative of the potential $V ( \boldsymbol { r } ) - S ( \boldsymbol { r } )$ ， $d ( V ( r ) - S ( r ) ) / d r$ ， and the density distribution of the $p$ -waves are given in the respective lower panel, while the spin-orbit potential, $V _ { l s }$ , multiplied by the density distributions for $p _ { 1 / 2 }$ are respectively given in the upper panel. The overlap between the spin-orbit potential $V _ { l s }$ and the particle distribution is represented by the curve in the corresponding upper panel. Their contribution to the spin-orbit splitting is proportional to the area surrounded by the corresponding curve and the $x -$ axis.It is clearly seen that the overlap of $1 p _ { 1 / 2 }$ is larger than that of $2 p _ { 1 / 2 }$ for all these isotopes and that of $3 p _ { 1 / 2 }$ in $^ { 7 2 }$ Ca is the smallest. The overlap values of $2 p _ { 1 / 2 }$ for $^ { 5 2 , 6 2 , 7 2 }$ Ca are very close from each other and all are smaller than that for $^ { 4 2 }$ Ca. These observations can explain the features observed in the right panel of Fig. 16.
+
+![](images/5a0cc8fe3ed5671b9372e5028838cadf02c083d33ed84e7c7c1bfe7ab9ab72dc.jpg)  
+FIG.17. The overlap between the spin-orbit potential and density distributions for $\mathrm { ^ { 4 2 } C a }$ ， $^ { 5 2 }$ Ca, 62Ca and $^ { 7 2 } \mathrm { C a }$ , respectively. In each nucleus, the spin-orbit potential $V _ { l s }$ multiplied by the density distribution of the $p _ { 1 / 2 }$ orbit is given in the upper panel; the derivative of anti-nucleon potential and the density distributions for $p _ { 1 / 2 }$ orbit in arbitrary unit is given in the lower panel.
+
+Seen from the right panel of Fig. 16, the spin-orbit splitting for $n = 1$ states has similar features for $^ { 4 2 }$ Ca, $^ { 5 2 }$ Ca, $^ { 6 2 }$ Ca and $^ { 7 2 }$ Ca. The splitting of the doublets $( d _ { 1 / 2 } , d _ { 3 / 2 } )$ is the largest one. With $l$ , the splitting for $n = 1$ increases at frst (from $p$ to $d$ ） and then decreases (from （20 $d$ to $f , \ g$ ). This feature can also be understood with the overlap of the spin-orbit potential and the density distribution of these orbits. Here we just choose $\mathrm { ^ { 7 2 } C a }$ as an example (Fig. 18)，similar patterns also appear in other Ca isotopes. The largest overlap happens for doublets $( d _ { 1 / 2 } , d _ { 3 / 2 } )$ in $^ { 7 2 }$ Ca is clearly seen from the upper panel of Fig. 18.
+
+![](images/75d67b4cb1a65cb20ed02cde81ac28d7c13961abfc0ef1cddf54da75122c3779.jpg)  
+FIG.18. The same as Fig. 17, but for $n = 1$ orbits in $\mathrm { ^ { 7 2 } C a }$
+
+# IV.THEPROSPECT OFGIANTHALOS
+
+Nuclear halo phenomena have been studied and investigated by many nuclear theorists and experimenters. More and more halo nuclei, including neutron halo, proton halo,and halo at excited states, have been identified and reported by different methods and advanced instruments. However, only nuclei with one or two halo nucleons are found by experiment until now.
+
+Using various theoretical models, theorists can demonstrate quantitatively the halo density distributions. Furthermore, the giant halo nuclei with more halo nucleons have been predicted in exotic Zr nuclei with $A > 1 2 2$ using RCHB method [11]. The prediction of giant halo arouses a great interest of many nuclear experimenters. Unfortunately, the exotic Zr nuclei are too heavy to produce in nowadays accelerator. Here in this article, we investigated the ground state properties of the whole Ca chain by RCHB theory,and predict that giant neutron halo phenomena would lie in exotic Ca nuclei with $A > 6 0$ as well as the exotic Zr nuclei. Compared to Zr isotopes, exotic Ca nuclei have lighter mass number and would be much easier to synthesize. The heaviest Ca isotope now known experimentally is $^ { 5 7 } \mathrm { C a }$ ，so 5 more neutrons are needed to form the fringe giant halo nucleus $^ { 6 2 }$ Ca, and 9 more neutrons to form the typical giant halo nucleus $^ { 6 6 }$ Ca discussed above.
+
+In order to confirm whether there exists a possbility of giant halo nuclei in more wider mass region, in Fig. 19,we show the two-neutron separation energies $S _ { 2 n }$ for even-neutron Ne, Na, Mg,and Al nuclei in drip line region. Open symbols represent the values calculated from the RCHB theory with the NL-SH parameter set while corresponding solid symbols represent the data available. We note here that the calculations were performed by keeping the spherical shape and hence the comparison with the available experimental data are to be made with care. In Fig. 20,we plot $S _ { 2 n }$ for exotic even-neutron Ar, K, Ca，Sc and Ti isotopes. From these two figures, the two-neutron separation energies $S _ { 2 n }$ for all these isotope chains are almost parallel. There are more than one line lying within 2 MeV in the drip line region. Therefore there are quite a large mass region where a giant halo may exist.
+
+![](images/8095a9c62ea9cb1a1311bcd37a894d5177d13397024731a21d2493e454ef791c.jpg)
+
+FIG.19. The two-neutron separation energies $S _ { 2 n }$ for even-neutron Ne,Na, Mg,and Al nuclei in the drip line region. Open symbols represent the values calculated with the RCHB theory with the NL-SH parameter set， while corresponding solid symbols represent the data available. The horizontal line at 2MeV denotes the upper limit for the possible occurrence of halos.
+
+![](images/65243ae816a5447d6256bbc882079955963d6adb18aba8d84ae53307fb0cec8b.jpg)  
+FIG. 20. Same as Fig.19, but for even Ar, K, Ca, Sc,and Ti nuclei in the drip line region.
+
+Many nuclear physicists are making much effort to search the drip line for heavier elements. A new experiment [32,33] has been reported that both $^ { 3 7 }$ Na and $^ { 3 4 }$ Ne are bound, while $^ { 3 3 }$ Ne and $^ { 3 6 }$ Na are missed in the experiment. Looking at Fig. 19, the $^ { 3 7 }$ Na and $^ { 3 4 }$ Ne nuclei lie in the drip line region and approach to the giant halo nuclei. Therefore we suggest that much more experimental effort should be devoted to extend the study in this area and measure the mass to find the possible giant halo nuclei. Similar situation can also be seen in Fig.2O for Ar, K, Ca, Sc and Ti isotopes near the neutron dripline.
+
+# V.SUMMARY
+
+We have investigated the ground state properties of even-even proton magic O, Ca, Ni, Zr, Sn,and Pb isotopes with the relativistic continuum Hartree-Bogoliubov (RCHB) theory. We have found good agreement with available experimental data for the binding energies and the nuclear radii. We have shown the binding energies, $E _ { b }$ ， two neutron separation energies, $S _ { 2 n }$ , and root mean square radi. The predicted neutron drip nuclei are $^ { 2 8 }$ 0, $^ { 7 2 }$ Ca, （20 $^ { 9 8 }$ Ni, $^ { 1 3 6 }$ Zr, $^ { 1 7 6 }$ Sn, and $^ { 2 6 6 }$ Pb, respectively. Particularly the giant halos in the neutron rich Ca and Zr isotopes close to the neutron drip line are predicted. The giant halo properties in exotic Ca isotopes with $A > 6 0$ is discussed in detail.
+
+Giant neutron halos in exotic Ca isotopes have been studied from the analysis of $S _ { 2 n }$ ， radii, nucleon density distribution, single particle energy levels, occupation probabilities and the contributions from the continuum. The spin-orbit splitting and the potential diffuseness in Ca isotopes have also been investigated. Summarizing the present investigation， we conclude:
+
+In this paper, the proton magic even-even nuclei from the proton drip line to the neutron drip line are studied in detail in RCHB theory. The important contribution from the continuum due to the pairing correlations has been taken into account. The powerfulness of the RCHB method has been demonstrated for the proton magic nuclei using the assumption of the spherical shape. One of the other important degrees of freedom for the exotic nuclei is the deformation. The theoretical framework for exotic nuclei with the deformation and contribution from continuum are in progress and will be completed soon.
+
+# VI.ACKNOWLEDGEMENTS
+
+This work was partly supported by the Major State Basic Research Development Program Under Contract Number G2O00077407 and the National Natural Science Foundation of China under Grant No. 10025522,10047001,and 19935030. J.M. is grateful to RCNP of Osaka University and Physikdepartment,Technische Universität Minchen for their support and warm hospitality, where a part of this work was worked out.
+
+[1] I. Tanihata, Prog. Part. Nucl. Phys. 35 (1995)505.   
+[2] A.C. Müller, Prog. Part. Nucl. Phys. 46 (2001) 359.   
+[3] I. Tanihata et al, Phys. Rev. Lett. 55 (1985) 2676.   
+[4] A. Ozawa, T. Kobayashi, T. Suzuki, K. Yoshida, and I. Tanihata, Phys. Rev. Lett.   
+5493.   
+[5] J.D. Walecka, Ann.Phys. (N.Y.) 83 (1974) 491.   
+[6] B.D. Serot and J.D. Walecka, Adv. Nucl. Phys. 16 (1986)1.   
+[7] P. Ring, Prog. Part. Nucl. Phys. 37 (1996) 193.   
+[8] H. Kucharek and P. Ring, Z. Phys. A339, 23 (1991).   
+[9] J. Meng, and P. Ring, Phys. Rev. Lett. 77 (1996) 3963.   
+[10] J. Meng, Nucl. Phys. A635 (1998) 3.   
+[11] J. Meng, and P. Ring, Phys. Rev. Lett. 80 (1998) 460.   
+[12] J. Meng, H. Toki, and J.Y. Zeng et.al., Phys. Rev. C65(2002)R041302.   
+[13] S.A. Fayans, S. V. Tolokonnikov,and D. Zawischa, Phys. Lett. B 491, (2000) 245.   
+[14] Soojae Im and J. Meng, Phys. Rev. C 61,(2000) 047302.   
+[15] B. Q. Chen et.al., Phys. Lett. B 455,(1999) 13.   
+[16] I. Hamamoto, H. Sagawa and X. Z. Zhang, Phys. Rev. C 64, (2001) 024313.   
+[17] J. Boguta, A.R. Bodmer, Nucl. Phys. A292 (1977) 413.   
+[18] J.F. Berger et al, Nucl. Phys. A428 (1984) 32c.   
+[19] M.M. Sharma, M.A. Nagarajan, and P. Ring, Phys. Lett. B312 (1993) 377.   
+[20] Y. Sugahara and H. Toki, Nucl. Phys. A579 (1994) 557. [21] G. Audi and A. H. Wapstra Nucl. Phys. A 595,(1995) 409.   
+[22] M. Fauerbach, D.J. Morriseey, and W. Benenson et.al., Phys. Rev. C 53 (1996) 647.   
+[23] D. Guillemaud-Mueller, J. C. Jacmart, and E. Kashy et.al., Phys. Rev. C 41 (1990) 937.   
+[24] O. Tarasov,R. Allatt, and J. C. Anegelique et.al., Phys. Lett. B 409 (1997) 64.   
+[25]T. Siskonen， P.O. Lipas,and J. Rikovska, Phys. Rev. C 60 (1999) 034312 and references therein.   
+[26] J.Meng and I. Tanihata,Nucl. Phys. A65O (1999)176.   
+[27] J. Dobaczewski, W. Nazarewicz, and T. R. Werner et.al., Phys. Rev. C 53 (1996) 2809.   
+[28] S.Q. Zhang, J. Meng, S.-G. Zhou, and J.Y. Zeng, Eur. Phys. J. A 13 (2002) 285.   
+[29] M.López-Quele, N. Van Giai, S. Marcos,and L. N. Savushkin,Phys. Rev. C61 (2000) 064321.   
+[30] G.A. Lalazissis et.al., Phys. Lett. B 418 (1998) 7.   
+[31] J. Meng, K.Sugawara-Tanabe, S.Yamaji, P. Ring and A.Arima, Phys. Rev. C58 (1998) R628.   
+J. Meng, K.Sugawara-Tanabe, S.Yamaji, and A.Arima, Phys. Rev. C59 (1998) 154.   
+[32] M. Notani et al., Phys.Lett. B 542 (2002) 49.   
+[33l S. M. Lukvanov et.al.. private communication.

@@ -1,0 +1,377 @@
+[
+    {
+        "type": "text",
+        "text": "Reconstruction of Fission Events in Heavy Ion Reactions with CSHINE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xinyue Diao,1,\\* Fenhai Guan,1 Yijie Wang,1 Yuhao Qin,1 Zhi Qin,1 Dong Guo,1 Qianghua Wu,1 Dawei Si,1 Xuan Zhao,1 Sheng Xiao,1 Yaopeng Zhang,1 Xianglun Wei,² Haichuan Zou,³ Herun Yang,² Peng Ma,² Rongjiang Hu,² Limin Duan,² Artur Dobrowolski,4 Krzysztof Pomorski,4 and Zhigang Xiao1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Department of Physics, Tsinghua University, Beijing l0oo84, China 2Institute of Modern Physics,Chinese Academy of Sciences, Lanzhou 73ooo, China 3School of Nuclear Science and Technology, Lanzhou University,Lanzhou 73ooo0, China 4Uniwersytet Marii Curie Sktodowskiej, Katedra Fizyki Teoretycznej,Lublin 20031,Poland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We report the reconstruction method of the fast fission events in $2 5 ~ \\mathrm { M e V / u } ~ ^ { 8 6 } \\mathrm { K r \\ + ^ { 2 0 8 } \\mathrm { P b } }$ reactions at the Compact Spectrometer for Heavy IoN Experiment (CSHINE). The fisson fragments are measured by three large-area parallel plate avalanche counters,which candeliver the positionand the arrval timing information of the fragments.The start timing information is given by the radio frequency of the cyclotron. Using the velocities of the two fision fragments,the fission events are reconstructed.The broadening ofboth the velocity distribution and the azimuthaldiference of the fision fragments decrease with the folding angle,in accordance with the picture that fast fission occurs.The anisotropic angular distribution of the fission axis also reveals consistently the dynamic feature the fission events. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:FastFission,Heavy Ion Reactions,Parallel Plate Avalanche Counter, CSHINE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 One of the purposes of studying the heavy ion reactions   \n3 (HIR) is to infer the properties of nuclear equation of state   \n4 (EOS), which is an essential input in modeling and computing   \n5 the evolution and properties of neutron stars and their merging   \n6 [1-3].The isovector sector of the nuclear EOS,namely the   \n7 density behavior of the symmetry energy $E _ { \\mathrm { s y m } } ( \\rho )$ , has been   \n8 a long-standing open question in nuclear physics.At Fermi   \n9 energies,some observables have been identified to constrain   \n10 $E _ { \\mathrm { s y m } } ( \\rho )$ near normal density,including isospin diffusion,   \n11 dipole polarizability and particle emissions etc [4-1O]. Very   \n12 recently, the PREX II experiment has reported the result of the   \n13 neutron skin thickness,which yields a stiff $E _ { \\mathrm { s y m } } ( \\rho )$ in ten  \n14 tion with previously existing constraints [11,12]. At supra  \n15 saturation densities,many experiments have been progressed   \n16 greatly to measure the charged pion ratios or collective flow in   \n$^ { 1 7 }$ heavy ion collisions to probe $E _ { \\mathrm { s y m } } ( \\rho )$ [13,14]. An External  \n18 target Experiment on HIRFL-CSR(CEE)is under construc  \n19 tion for the studies on this direction [15,16].   \n20 Nuclear fission is a large-amplitude collective motion   \n21 mode involving up to hundreds of nucleons. Recently the   \n22 studies on nuclear fission have been revived for its signifi  \n23 cance in both nuclear physics and astrophysics.In the stel  \n$2 4$ lar environment,the abundance of the nuclide in $A \\approx 1 6 0$   \n25 region is significantly influenced by the recycling of the fis  \n26 sion products [17-19].Theoretically,statistical fission has   \n27 been described well by microscopical theories and various   \n28 phenomenological approaches [2O-32]. When the excita  \n29 tion energy or the angular momentum becomes much high,   \n3o as achieved in HIRs well above the Coulomb barrier, the   \n31 fission barrier tends to vanish． As a consequence,the fis  \n32 sion time scale becomes shorter by a factor of 1O to 100   \n33 and the variance of the mass asymmetry increases signifi  \n34 cantly (the mass asymmetry $\\eta$ of the two fragments can be   \n35 larger than O.6),compared to the statistical fission [33-37].   \n36 In this case, the dynamic feature of the fission process is of   \n37 significance and the transport models have been successfully   \n38 applied to describe the fast fission process [38-46].Time  \n39 dependent Hartree-Fock theory can also give an excellent de  \n40 scription of fast fission starting with large deformation [47].   \n41Experimentally,fast fission,usuallytermedasdynamicfis  \n42 sion because of its vanishing fission barrier and short time   \n43 scale,has been investigated in various systems in the last three   \n44 decades [48-54].   \n45 The topic of fast fission with the simultaneous emission of   \n46 the particles deserves further investigations because the fis  \n$_ { 4 7 }$ sioning system provides an appropriate laboratory to probe   \n48 $E _ { \\mathrm { s y m } } ( \\rho )$ . The connection between the studies of fast fission   \n49 and $E _ { \\mathrm { s y m } } ( \\rho )$ has been recently established by the simula  \n50 tions with improved quantum molecular dynamics (ImQMD)   \n51 [55,56]. It is suggested that fast fission process follow  \n52 ing HIR carries the effect of $E _ { \\mathrm { s y m } } ( \\rho )$ and provides sensi  \n53 tive probes,because of the formation of the low-density and   \n54 neutron-rich neck and oflarger surface of two fragments com  \n55 pared to the non-fission process [56,57]. The isospin content   \n56 of the light particles emitted from the fast fission events has   \n$^ { 5 7 }$ been used to probe $E _ { \\mathrm { s y m } } ( \\rho )$ experimentally [10].   \n58 In order to conduct the experimental studies of the fast fis  \n59 sion and the coincident emission of light charged particles   \n6o (LCP) and intermediate mass fragments (IMFs),a compact   \n61 spectrometer for heavy ion experiment(CSHINE) has been   \n62 built [58, 59]. While the LCPs and IMFs are measured using   \n63 the silicon strip detector telescopes (SSDT) [6O,61], the fis  \n64 sion fragments are measured by the parallel plate avalanche   \n65 counters (PPACs) [62]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "66 In this paper, we present the measurement of fast fission $6 7$ in $^ { 8 6 } \\mathrm { K r + ^ { \\bar { 2 } 0 8 } P b }$ reactions with CSHINE in its second phase. 68 After a brief introduction to the phase-I setup of CSHINE in 69 section I, the reconstruction of velocity of the FF will be in7o troduced in Section III and the dynamic feature of fast fission $^ { 7 1 }$ are presented in Section IV. Section V is the summary. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "74 The beam experiment was performed at the Radioactive   \n75Ion Beam Line I(RIBLL1) on the Heavy Ion Research Fa  \n76 cility in Lanzhou (HIRFL),China．The $^ { 2 0 8 } \\mathrm { { P b } }$ target of 1   \n$\\mathrm { 7 7 ~ m g / c m ^ { 2 } }$ areal density was bombarded with $2 5 \\ \\mathrm { M e V / u } \\ ^ { 8 6 } \\mathrm { K r }$   \n78 beam. The charged reaction products are measured using   \n79 CSHINE,which are installed in a large scattering cham  \n8o ber located at the final focal plane of RIBLL1．In the cur  \n81 rent experiment,three PPACs are installed for fission frag   \n82 ment measurements to reconstruct the reaction geometry. Be  \n83 sides,four SSDTs are installed covering the polar angle range   \n$_ { 8 4 } ~ 1 0 ^ { \\circ } ~ < ~ \\theta _ { \\mathrm { l a b } } ~ < 6 0 ^ { \\circ }$ . The SSDT is a three-layer detector with   \n85 a single-sided SSD(SSSSD) for $\\Delta E _ { 1 }$ as layer1,a double  \n86 sided SSD (DSSSD) for $\\Delta E _ { 2 }$ as layer2 and a $3 \\times 3$ CsI (Tl)   \n87 array for residual energy measurements as layer 3.Both of the   \n88 SSSSD and the DSSSD are the BB7 type ( $2 \\mathrm { m m }$ strip width,   \n89 32 strips each side) from MICRON Company. Each CsI(Tl)   \n9o crystal is a square pyramid with a dimension of $\\mathrm { 2 3 \\times 2 3 ~ m m ^ { 2 } }$   \n91 of the front side, $2 7 \\times 2 7 ~ \\mathrm { { m m ^ { 2 } } }$ of the rear side and $5 0 \\mathrm { m m }$ of   \n92 the height.The Photo Diode(HAMAMATSU S32O4) isused   \n93 to read out the signal from CsI.Fig.1 presents the detector   \n94 setup of CSHINE in the experiment.For the details and the   \n95 performance of CSHINE,one can refer to [58,59]. Table 1   \n96 presents the distance $d$ fromthe center of each detector to the   \n97 target, the polar angle $\\theta$ ,the azimuthal angle $\\phi$ and the sen  \n98 sitive area $S$ of the SSDTs and the PPACs in the experiment.   \n99 The thicknesses of the $\\Delta E _ { 1 }$ and $\\Delta E _ { 2 }$ for each SSDT are also   \n10o listed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/47865ed588f692fd4066c005f8061a4efb7abd09fcadefe078aff98e313f9725.jpg",
+        "img_caption": [
+            "Fig.1.The schematic view of CSHINE Phase-II. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/56fd0e85de632c5ad8ef41f461d5e7a9ea2f0c38d3f9dc78a40951eb2699aefb.jpg",
+        "table_caption": [
+            "TABLE 1. Geometric parameters of PPACs and SSDTs. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Detector</td><td>d(mm)0()</td><td></td><td>（</td><td>S(mm²)</td><td>△E1 (μm)</td><td>△E2(μm)</td></tr><tr><td>SSDT1</td><td>315.5</td><td>18</td><td>302</td><td>64×64</td><td>304</td><td>1010</td></tr><tr><td>SSDT2</td><td>275.5</td><td>25</td><td>218</td><td>64×64</td><td>305</td><td>1008</td></tr><tr><td>SSDT3</td><td>275.5</td><td>31</td><td>126</td><td>64×64</td><td>110</td><td>526</td></tr><tr><td>SSDT4</td><td>215.5</td><td>51</td><td>81</td><td>64×64</td><td>70</td><td>306</td></tr><tr><td>PPAC1</td><td>427.5</td><td>50</td><td>0</td><td>240×280</td><td>1</td><td></td></tr><tr><td>PPAC2</td><td>427.5</td><td>55</td><td>180</td><td>240×280</td><td>1</td><td>1</td></tr><tr><td>PPAC3</td><td>427.5</td><td>100</td><td>180</td><td>240×280</td><td>二</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fission fragment detector,PPAC,is a kind of multi",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "102 wire chamber working in the region of limited proportion  \n103 ality. The signals induced by the incident fragments on an   \n104 individual wire of the anode plane,either $\\mathrm { \\Delta } \\mathrm { X }$ or Y,are trans  \n105 ferred through a delay line to both ends.The time delay of   \n106 the two signals $X _ { 1 }$ and $X _ { 2 }$ 0 $\\mathbf { \\nabla } \\cdot Y _ { 1 } \\mathbf { \\nabla }$ and $Y _ { 2 }$ ）withrespect to the   \n107 signal collected on the cathode plane,which delivers the tim  \n108 ing information，gives the $\\mathrm { \\Delta X }$ (Y）position of the hit in the   \n109 sensitive area.Fig.2 presents the schematic view of the me  \n110 chanics of the PPAC.The total thickness of the sensitive gas   \n111 volume is about $2 \\ \\mathrm { c m }$ .The PPACs were operated with 4.5   \n112 mbar isobutane at $4 6 5 ~ \\mathrm { V }$ voltage.Under this condition, the   \n113 fission fragments can be recorded with efficiency above $9 5 \\%$   \n114 but the LCPs and IMFs are suppressed.   \n115 Fig. 3 (b) shows a two-dimensional histogram of $Y _ { 1 } - Y _ { 2 }$   \n116 US $X _ { 1 } - X _ { 2 }$ for PPAC1 as an example. The projections to $\\mathrm { \\Delta X }$   \n117 and Y direction are plotted in Fig. 3 (a) and (c),respectively.   \n118 A good performance in timing, corresponding to good posi  \n119 tion resolution,manifests itself in the sharp boundary for the   \n120 two-dimensional distribution and the well-separated individ  \n121 ual peaks on the projections.The distance of the neighboring   \n122 Wires is $4 \\mathrm { m m }$ ,and there are 61 peaks and 71 peaks in Fig. 3   \n123 (a) and (c),respectively. The time resolution of $\\sigma _ { \\mathrm { T } } = 3 0 0$ ps   \n124 and the position resolution of $\\sigma _ { \\mathrm { r } } = 1 . 3 5 \\ \\mathrm { m m }$ can be derived   \n125 from the data.The overall performance of the PPACs can be   \n126 found in [62].   \n127 SSDTs are used to measure the LCPs and IMFs in coinci  \n128 dence with the fission fragments.To reduce the total num  \n129 ber of electronics,each neighboring strips are merged in one   \n130 channel, correspondingly the granularity is reduced. Multi   \n131 tracks may fire each SSDT.In order to reconstruct the tracks   \n132 in the SSDTs,a novel algorithm has been developed with spe  \n133 cial care on the charging sharing effect.More than $80 \\%$ of the   \n134 hits inall layers of the SSDTs can be recognized and assigned   \n135 to certain tracks.For details,one can refer to [60].   \n136 The trigger system of CSHINE was designed for both beam   \n137 experiment and calibration. The timing signals of PPACs   \n138 Were discriminated by CF8OOO and logically calculated by a   \n139 CO4O2O to generate the PPAC inclusive signals and PPAC   \n140 two body coincidence signals.The logic hit signals of SSDTs   \n141 Were extracted by the front-side of the DSSSD $( \\Delta E _ { 2 } )$ with   \n142 the discrimination of MSCF-16,which generates an analog   \n143 Multi-Trig signal proportional to the number of fired strips in   \n144 the same module(16 channels).Both inclusive and exclusive   \n145 logic signals can be generated by discriminating the Multi  \n146 Trig signal at different threshold settings.In beam experi  \n147 ment, the trigger signal contains SSD two body events,PPAC   \n148 two body events and the coincidence of PPAC two body with   \n149 SSD one body events.Besides,the inclusive trigger for every   \n150 individual detector were also constructed, optionally turned   \n151 on for the detector calibration before or after the beam data  \n152 taking.For details,one can refer to [60]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/08e2ec2ec0b8908cea12390d3353507a8ac68f2d722a5ff387f1777c6dc4f8da.jpg",
+        "img_caption": [
+            "Fig.2.(Color online) The schematic view of PPAC as the fission fragment detector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa1fbe9fa4b20c51cc889221b8e5824bec68278a9a607cd7cd0e556a1c4905e.jpg",
+        "img_caption": [
+            "Fig.3.(Color online) The scattering plot of $Y _ { 1 } - Y _ { 2 }$ Vs. $X _ { 1 } - X _ { 2 }$ of PPAC1.Panels (a) and (c) are the projections of the two dimensional plot of X-Y in panel (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III.RECONSTRUCTIONOFTHEVELOCITY ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "176 SSDT3.Fig. 4(a) presents the correlation between the $\\alpha$ en  \n177 ergy and the TOF derived by eq.(1). The theoretical curve   \n178 fitting the $E / O F$ profile applies a constant $C _ { \\mathrm { d e t } } = 4 3 1 . 8$ ns.   \n179 Panel (b) presents the difference between the $T O F$ measured   \n180 by TDC and thevalue $L / v ( E _ { \\alpha } )$ ，with $\\boldsymbol { v }$ being derived from   \n181 the energy $E _ { \\alpha }$ and $L$ is the distance from the target to hit   \n182 position in SSDT3.The width of 1.3 ns is obtained by the   \n183 Gaussian fitting. Subtracting the contribution of the energy   \n184 uncertainty, the resolution of about 1.O ns of the $T O F$ is ob  \n185 tained for SSDT.For the FF measured in PPACs,the $T O F$   \n186 resolution will be comparable because the timing resolution   \n187 of PPACs is $3 0 0 \\mathrm { p s }$ , slightly better than the SSDT.   \n154 We concentrate on the reconstruction of the fission events.   \n155 The flying path of the fission fragments (FFs) can be well   \n156 determined by the PPACs delivering good position informa  \n157 tion．The velocity of each FF,on the other hand,is derived   \n158 from the timing information. In our experiment, the starting   \n159 time information are provided by the radio frequency (RF) of   \n160 the accelerator. The RF signal,usually a signal in sinusoidal   \n161 form,is discriminated by CF8OOO module and input to the   \n162 time-digital-converter(TDC). Generally, for a particle firing   \n163 a given detector, the time of flight $( T O F )$ is written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb1d1da368783004db0d0527386e5eef0e835ff6c941f45c4a7b0092173cb5cf.jpg",
+        "img_caption": [
+            "Fig.4. (a) Correlation of the TOF signal and the energy of $\\alpha$ particlesrecorded by SSDT3,and(b) The distribution of the time difference between the TDC measurement and the calculated value from the calibrated energy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT O F = t _ { \\mathrm { d e t } } - t _ { \\mathrm { R F } } - C _ { \\mathrm { d e t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "165 where $t _ { \\mathrm { d e t } }$ and $t _ { \\mathrm { R F } }$ are the time signals of the detector and   \n166 the RF,recorded by the corresponding TDC channels,respec  \n167 tively.The unit of both signals are calibrated in ns using pre  \n168 cise time calibrator. $C _ { \\mathrm { d e t } }$ is a constant representing a fixed   \n169 delay in electronics.The velocity is then computed by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv = { \\frac { L } { T O F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "173 Inordertoverifythevalidityof theabovemethodto mea$1 7 4$ sure the $T O F$ ，we use the calibrated $\\alpha$ particles,where the 175 velocityis alternatively derived from the energy measured in ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "171 where $L$ is the length of the flight path from the target to $^ { 1 7 2 }$ the hit position where the particle fires on the detector. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "188 With the validity eq. (1),we can discuss the $T O F$ of the $1 8 9$ FFs. Since PPACs can not identify the charge or mass of the $1 9 0$ FFs,nor the total kinetic energy,one relies on the determina191 tion of the velocities which requires the $T O F$ information and $1 9 2$ the lengths of the flight path $L$ .In eq.(1),the relative differ$1 9 3$ ence of the delay constants, $C _ { \\mathrm { p p a c 1 } } - C _ { \\mathrm { p p a c 2 } }$ ， between two $_ { 1 9 4 }$ PPACs can be adjusted to zero using pulser prior to the exper$1 9 5$ iment and the systematic uncertainty can be well controlled 196 within $\\pm 2$ ns. However, the absolute value of $C _ { \\mathrm { p p a c } }$ of each 197 individual PPAC can not be determined like in the SSDT, be198 cause the particle type and the total energy is unknown. To 199 overcome this difficulty,we use the Viola systematics that the 20o relative velocity of the FFs is averagely $2 . 4 \\mathrm { c m / n s }$ [63] . And 201 hence, by tuning the constants $C _ { \\mathrm { p p a c } }$ , one can optimized the 202 value at $\\langle v _ { \\mathrm { F F } } \\rangle = 2 . 4 ~ \\mathrm { c m / n s }$ . Fig.5 presents the distribu203 tion of $v _ { \\mathrm { F F } }$ at different delay constants. One can readily see $2 0 4$ that varying the delay constant by1 ns,the peak position of 205 $v _ { \\mathrm { F F } }$ moves significantly. In our experiment, $C _ { \\mathrm { p p a c } } = 1 1 5 . 5$ 206 ns is optimized,and the corresponding distribution of $v _ { \\mathrm { F F } }$ is 207 plotted in panel (b）.Known from transport model calcula208 tions,the variation of $\\langle v _ { \\mathrm { F F } } \\rangle$ is better than $0 . 1 ~ \\mathrm { c m / n s }$ ,asys209 tematic uncertainty of 2 ns of the $T O F$ ofFFs is estimated, 210 on which the conclusion of the following analysis will not 211 changed. We recall that the coincident events recorded by 212 PPAC1 with PPAC2 (marked by $\\mathrm { P P A C 1 } \\times 2 )$ or with PPAC3 213 (marked by $\\mathrm { P P A C 1 } \\times 3 \\rangle$ are the fission fragments,since the 214 HV condition is set that the response of PPAC to energetic 215 LCPs and IMFs are totally suppressed, given that the energy ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "216 loss of these particles is lower than FFs by more than one   \n217 order of magnitude.In addition,the correlation between a   \n218 heavy projectile-like fragment (PLF) and a target-like frag   \n219 ment(TLF) is out of the current geometrical coverage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e739902f7888e0c42878142d429c2ad01ad3c53935df0afbbfc23624a87270d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV. RESULTSANDDISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before discussing the reconstruction of the fission events, we first define the kinetics of the fission.In the picture ofincomplete fusion,a heavy TLFis formed in the fusion of part of the projectile and the target. The fraction of the momentum of the projectile transferred to the TLF is called linear momentum transfer (LMT).With a certain probability depending on the total angular momentum of the reaction system, the TLF may undergo fission or fast fission in competition with the emission residue channel. For the fission events,Fig.6 presents the kinetic geometry of the TLF fission event. As shown,the origin point $\\mathrm { ~ o ~ }$ is the target nucleus in the laboratory system,the vector $\\mathrm { { 0 0 ^ { \\prime } } }$ represents the direction of the beam. The velocity vectors $\\Vec { v } _ { \\mathrm { f _ { 1 } } }$ and $\\vec { v } _ { \\mathrm { f } _ { 2 } }$ of the two fission fragments in the laboratory system are represented by OA and OB. $\\vec { v } _ { \\mathrm { t l } }$ isthe velocity of the TLF,and the velocities of the two fragments in the center-of-mass system of the fissioning TLF are represented by $\\vec { v } _ { \\mathrm { f _ { 1 } } } ^ { \\prime }$ and $\\vec { v _ { \\mathrm { f _ { 2 } } } } ^ { \\prime }$ sitting back-to-back collinearly. Here,we define plane OAB as the fission plane, plane $\\mathrm { { 0 0 } ^ { \\prime } A }$ as the projection plane,and the reaction plane is definedasplane $\\boldsymbol { \\mathrm { D O O ^ { ' } } }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "241 Once the $T O F$ is determined, the velocity of the FFs can   \n242 be computed event-by-event using the hit positions of the FFs   \n243 in PPACs.Then the whole fission event can be reconstructed.   \n244 Fig.7 presents the distribution of the velocity of the fission   \n245 fragments in $\\mathrm { P P A C 1 } \\times 2$ and $\\mathrm { P P A C 1 \\times 3 }$ events,respec  \n246 tively. Here the $v _ { \\mathrm { f _ { 1 } } }$ is for the FF recorded in PPAC1 and $v _ { \\mathrm { f _ { 2 } } }$ is   \n247 for the FF in PPAC2(PPAC3) in $\\mathrm { P P A C 1 } \\times 2$ $( { \\mathrm { P P A C 1 } } \\times 3 )$ （2   \n248 events.It is shown that for the $\\mathrm { P P A C 1 } \\times 2$ events, since the   \n249 two PPACs are nearly symmetric W.r.t the beam,the distribu  \n250 tions of $v _ { \\mathrm { f _ { 1 } } }$ and $v _ { \\mathrm { f _ { 2 } } }$ are very similar. Meanwhile,high velocity   \n251 tail is evidently presented in the $\\mathrm { P P A C 1 } \\times 2$ events and the   \n252 velocity spectra are wider than that in $\\mathrm { P P A C 1 \\times 3 }$ events.   \n253 This component is mainly due to the events with smaller fold  \n254 ing angle corresponding to largerLMT,as will be discussed   \n255 below.   \n256 After thevelocities of the two FFs aredetermined, the fold  \n257 ing angle method can be applied to calculate the LMT of the   \n258 reaction.Recalling the definitions in Fig. 6, the folding angle   \n259 $\\Theta _ { \\mathrm { F F } }$ is defined as the angle $\\angle A O C$ ，spanned bythe projec  \n$2 6 0$ tion of the velocity vectors of the FFs on the projection plane.   \n$2 6 1$ Clearly, given the velocities $\\Vec { v } _ { \\mathrm { f _ { 1 } } }$ and $\\Vec { v } _ { \\mathrm { f _ { 2 } } }$ ,the folding angle de  \n262 pends on the velocity of the TLF $v _ { \\mathrm { t l } }$ ,i.e.,the larger $v _ { \\mathrm { t l } }$ ，the   \n263 smaller $\\Theta _ { \\mathrm { F F } }$ . Fig.8 presents the distribution of the folding   \n$2 6 4$ angle $\\Theta _ { \\mathrm { F F } }$ .The coincident events of $\\mathrm { P P A C 1 } \\times 2$ distribute   \n265 in the range between $7 0 ^ { \\circ } - 1 2 0 ^ { \\circ }$ with the peak situating at   \n266 about $9 5 ^ { \\circ }$ ，corresponding to a larger LMT (red)，while the   \n267 $\\mathrm { P P A C 1 \\times 3 }$ events sit in the range of $1 2 0 ^ { \\circ } - 1 7 0 ^ { \\circ }$ corre  \n268 sponds to a smallerLMT (blue).The valley between the two   \n269 components is simply due to the deficiency caused by the gap   \n270 between PPAC2 and PPAC3,and the efficiency arising from   \n271 the incomplete azimuthal coverage is not corrected in the plot.   \n272As the fission geometry is determined by the two velocity   \n273 vectors,it is of interest to look at the planarity of the fission   \n274 events. Fig. 9 (a) present the azimuth correlation of the two   \n275 FFs by scattering plot between the azimuthal angle difference   \n276 $\\Delta \\phi$ and the folding angle $\\Theta _ { \\mathrm { F F } }$ . It is clearly shown that for the   \nFFs from both the central and peripheral reactions,the most   \n278 probable value situates at $\\Delta \\phi = 1 8 0 ^ { \\circ }$ following the picture   \nthat the system undergoes a binary decay. Here we note that   \n280 the $\\Delta \\phi$ isa directly measurable quantity relying on no as  \n281 sumption. The inset displays the projection distribution of   \n282 $\\Delta \\phi$ ,astandard deviation of about $\\sigma ( \\Delta \\phi ) \\approx 1 0 ^ { \\circ }$ is derived.   \n283 Such broadening suggests that the emission of LCPs or IMFs   \n284 may change the flight direction of the FF and smear the back  \n285 to-back feature of the fission event. In order to see its evolu  \n286 tion with the violence of the reaction,we plot in panel (b) the   \n287 standard deviation of azimuthal angle $\\sigma ( \\Delta \\phi )$ as a function   \n288 of folding angle $\\Theta _ { \\mathrm { F F } }$ . It is shown that $\\sigma ( \\Delta \\phi )$ decreases with   \n289 $\\Theta _ { \\mathrm { F F } }$ in the whole range,with an exception near $\\Theta _ { \\mathrm { F F } } \\approx 1 3 0 ^ { \\circ }$ ，   \n290 where a discontinuity appears due to the gap between PPAC2   \n291 and PPAC3．To exclude the possible reason that this trend   \n292 originates from the asymmetry of the geometrical locations of   \n293 the PPACs,we restrict further the analysis on the events with   \n294 the two FFs flying symmetrically to the beam direction,i.e.,   \n295 with the condition of $\\theta _ { 1 } = \\theta _ { 2 }$ ，where $\\theta _ { i }$ is the polar angle of   \n296 the $i ^ { \\mathrm { t h } }$ fragment. The result is depicted by the black squares,   \n297 where the bin width of each $\\Theta _ { \\mathrm { F F } }$ is $\\pm 2 . 5 ^ { \\circ }$ . This condition   \n298 is applicable only for the $\\mathrm { P P A C 1 } \\times 2$ fission events because   \n299 these two PPACs are placed in approximate left-right sym  \n30o metry with respect to the beam line.Clearly seen,the data   \n301 points with the symmetry condition are sitting on top of those   \n302 without the condition, suggesting that the decreasing trend of   \n303 $\\sigma ( \\Delta \\phi )$ as function of $\\Theta _ { \\mathrm { F F } }$ is truly due to the reaction vio  \n304 lence. Since the post-scission particle emission changes the   \n305 velocity of the FF due to recoil effect, the trend suggests that   \n306 in the fission following the intermediate energy heavy ion re  \n307 actions,there is sufficient excitation energy left at the scission   \n308 point depending on LMT. In the reactions with larger LMT,   \n309 more excitation energy is left and released through the parti  \n310 cle emission in the post-scission stage.It is consistent with   \n311 the picture of fast fission,instead of statistic fission in which   \n312 the excitation energy is nearly depleted at the scission point.   \n313 The dynamic feature of the fast fission can be further ex  \n314 plored from the velocity distribution of the FFs.We present   \n315 in Fig.1O the average(a) and the standard deviation (b) of   \n316 the velocities of the FFs recorded in the PPACs as a func  \n317 tion of folding angle. From panel (a),it can be seen that   \n318 the average velocity value $\\langle v _ { \\mathrm { f } } \\rangle$ decreases with the folding an  \n319 gle.Panel (b) presents the standard deviation of the velocity   \n320 $\\sigma ( v _ { f } )$ ,and it is also clear that the broadening of the velocity   \n321 of the FFs decreases with the folding angle.This result is con  \n322 sistent with the picture seen in the trend of $\\sigma ( \\Delta \\phi )$ in figure 9.   \n323 The scission point is early reached when the excitation energy   \n324 of the fissioning TLF is still high,thus,the statistical fluctu  \n325 ation(corresponding to the left excitation energy） enhances   \n326 the variance of the velocity of the FF.This is consistent with   \n327 the earlier experimental observation in $\\mathrm { A r + ^ { 2 0 9 } }$ Bi reactions   \n328at $2 5 \\mathrm { { M e V / u } }$ [64, 65]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9117407ebf30fa32390a14ec7f148d73e97750cb017f1267e456b945a9da987.jpg",
+        "img_caption": [
+            "Fig.6.The geometric diagram of the velocities of the two fission fragments from TLF. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7aa45d9ab0587c52eafacc20b5b8656ea55684fcf60dd7b1b2103fb0986e7e4.jpg",
+        "img_caption": [
+            "Fig.5.The relative velocity distribution UFF of the two fission fragments with different parameter setting of $C _ { \\mathrm { P P A C } }$ ： ",
+            "Fig.7. The velocity distribution of the two fission fragments in $\\mathrm { P P A C 1 } \\times 2$ and $\\mathrm { P P A C 1 \\times 3 }$ events. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b809c5c44848c0245533d4528d1d398a4755998a78465b706083f3cb091803bf.jpg",
+        "img_caption": [
+            "Fig. 8.(Color online) The folding angle distribution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d7f0cc9a995d34c311a92b725f111bb55b27fea44a63c2a7ff9dab7ee9e4e4f.jpg",
+        "img_caption": [
+            "Fig.9.(Color online)(a) The azimuthal angle difference $\\Delta \\phi$ asa function of the folding angle $\\Theta _ { \\mathrm { F F } }$ of the fission fragments.The inset displays the projection distribution of $\\Delta \\phi$ (b) $\\sigma ( \\Delta \\phi )$ as a function of OFF: "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9 Finally, the dynamic feature of the fast fission may also ）cause the anisotropy of the angular distribution of the fission •axis.Here the fission axis is defined as the vector of the rel：ativevelocity $\\vec { v } _ { F F }$ from the $\\mathrm { f _ { 2 } }$ to $\\mathrm { f _ { 1 } }$ ，where $\\mathrm { f _ { 1 } }$ and $\\mathrm { f _ { 2 } }$ are the ；two fragments.The angle of the fission axis $\\Lambda _ { \\mathrm { F F } }$ is the ani gle of the fission axis W.r.t. the beam axis,as defined in [55]. ；Usually, the experimental measurement of the distribution of ； $\\Lambda _ { \\mathrm { F F } }$ requires fine correction of the geometric efficiency,and ，hence it is better feasible using $4 \\pi$ detecting system. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our experiment,PPACs cover only part of the whole space,in order to introduce less ambiguity to the geometry efficiency correction,we fix the direction of the first FF in PPAC1. In this case,we need only to correct the efficiency of ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ef460364d660cd9cdd486f3845ac223dca1990f8f9a7f342c314b3d0a96ee16.jpg",
+        "img_caption": [
+            "Fig.10.(Color online) The average value of velocity(a) and its standard deviation (b) of the velocity distribution as a function of folding angle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "355 bin．The events of $\\mathrm { P P A C 1 } \\times 2$ and $\\mathrm { P P A C 1 \\times 3 }$ are rep  \n356 resented by symbols,while the curve represents the sum.   \n357 It is clearly shown that the deficiency of the gap between   \n358 PPAC 2 and PPAC 3 causes a kink in a wide range in $6 3 ^ { \\circ } <$   \n359 $\\Lambda _ { \\mathrm { F F } } < 8 0 ^ { \\circ }$ .Regardless of the kink area and the uncovered   \n360 region within $\\Lambda _ { \\mathrm { F F } } < 5 0 ^ { \\circ }$ ,it is shown that the distribution of   \n361 $d N / d \\cos ( \\Lambda _ { \\mathrm { F F } } )$ increases steadily with $\\cos ( \\Lambda _ { \\mathrm { F F } } )$ and tends   \n362 to peak at forward angle,which is at variance with the expec  \n363 tation of isotropic distribution for statistic fission.The trend   \n364 is in qualitative agreement with the previously reported ex  \n365 perimental results in HIR at Fermi energies [48,49].   \n342 the second FF on PPAC 2 and PPAC3,and the trend of the an  \n343 gular of the fission axis can be inferred.Figure 11 presents the   \n344 correlation plot of parallel and transverse velocity of the FFs.   \n345Here the transverse velocity of the FFs recorded in PPAC1 is   \n346 defined as positive and that in other two PPACs are defined as   \n347negative.Itisclearly shown there isa dead area ofless than   \n348 $2 0 ^ { \\circ }$ between PPAC2 and PPAC3.The dashed lines define a   \n349 narrow range of $4 0 ^ { \\circ } < \\theta _ { \\mathrm { f _ { 1 } } } < 4 5 ^ { \\circ }$ ，whichis fixed in the in  \n350 Vestigation of the distribution properties of the fission axis as   \n351 following.   \n352 The distribution of $d \\sigma / d \\cos ( \\Lambda _ { \\mathrm { F F } } )$ is plotted in Fig. 12.   \n353 The geometric efficiency arising from the incomplete azimuth   \n354 coverage of PPAC2 and PPAC 3 is corrected in each $\\Lambda _ { \\mathrm { F F } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/537a7d7a272b2164f6a3dd542480d3bdd3a9196e625cd98062d7de691db58dc4.jpg",
+        "img_caption": [
+            "Fig.12.(Color online) The angular distribution $d N / d \\cos ( \\Lambda _ { \\mathrm { F F } } )$ of the fission axis w.r.t. the beam. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/77ecbb0f2674e1d6492a775ed127114bcf84872af3c4f87b2c7ff90738345c0d.jpg",
+        "img_caption": [
+            "Fig.11.(Color online) The transverse and parallel velocity distribution of the fission fragments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "366 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "367 In summary,the fission fragments in $2 5 \\mathrm { \\ M e V / u }$ $^ { 8 6 } \\mathrm { K r }$   \n$^ { 3 6 8 } \\ + ^ { 2 0 8 } \\mathrm { P b }$ reactions have been measured with CSHINE detec  \n369 tion system.At current phase three PPACs and four SSDTs   \n370 are mounted to measure the fission fragments and the coinci  \n371 dent LCPs and IMFs,respectively. Using the timing and posi  \n372 tion signals of the PPACs and the start timing from the RF of   \n373 the accelerator, one can measure the velocities of the fission   \n374 fragments and reconstruct the fission events,where the lin  \n375 ear momentum transfer can be derived by the folding angle.   \n376 It is shown that,the width of the azimuthal angle difference,   \n377 the mean value and the width of the velocity distribution of   \n378 the fission fragments decrease with the folding angle. The   \n379 anisotropic angular distribution of fission axis has been ob  \n380 served. The results are consistent with the picture that fast   \n381 fission occurs.Prospectively,with the ability of reconstruct  \n382 ing the fission events,CSHINE provides the opportunities in   \n383 the studies of isospin dynamics and nuclear symmetry energy   \n384 by further counting the coincident isotope-resolved LCPs and   \n385 IMFs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "386 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VI.ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "37 This work has been supported by the National Natural Sci  \n38 ence Foundation of China under Grant Nos.11875174 and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "389119611310l0andbythePolish National Science Centerun-391crystal groupfromIMP,CASforprovidingtheCsIdetectors 390 der Grant No.2O18/30/Q/ST2/00185.We acknowledge the392 theRIBLL group foroferinglocal help in experimentand 393 the machine staff for delivering the Krypton beam. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "394 [1]Bao-AnLi et al.,Universe,7,182 (2021). 395 [2] B.P.Abbott et al. forLIGO collaboration,Phys.Rev.Lett.119, 396 161101 (2017). 397 [3]B.P.Abbott et al. forLIGO collaboration,Phys.Rev.Lett.121, 398 161101 (2018). 399 [4] M.B.Tsang et al,Phys.Rev.Lett.92,062701 (2004). 400 [5]L.W. Chen et al.,Phys.Rev.Lett. 94, 032701 (2005). 401 [6] M.B. Tsang et al. Phys.Rev.Lett. 86, 5023 (2001). 402 [7]L.W. Chen et al.,Phys.Rev.C 82,024321 (2010). 403 [8] Z.Zhang andL.W. Chen,Phys.Rev. C 90,064317 (2014). 404 [9]M.B.Tsang et al.,Phys.Rev.Lett.102,122701 (2009). 405[10] Y. Zhang et al.,Phys.Rev.C 95,041602(R) (2017). 406 [11] D.Adhikari et al.,Phys.Rev.Lett.126,172502 (2021). 407 [12] B.T.Reed et al,Phys.Rev.Lett. 126,172503 (2021). 408 [13] J.Estee et al.,Phys.Rev.Lett.126,162701 (2021). 409 [14]Y.J.Wang and Q.F.Li,Frontiers ofPhysics,15,1(2020). 410 [15]L.M.Lyu et al., Sci. China-Phys.Mech.Astron.6O,012021 411 (2017). 412 [16] L.M.Lyu et al., Nucl. Sci. Tech.31,11 (2020). 413 [17] G.Lorusso,et al., Phys.Rev.Lett 114,192501 (2015). 414 [18] N.Nishimura,et al.,Phys.Rev.C 85,O48801 (2012). 415[19] T. Suzuki,et al.,Phys.Rev.C 85,015802 (2012). 416 [20]K.Pomorski etal.,NuclearPhysics A6O5,87 (1996). 417 [21] P.Schuurmans et al.,Phys.Rev.Lett 82,4787(1999). 418 [22] Y. Jia and J.D.Bao,Phys.Rev.C 75,034601 (2007). 419 [23] Z.H.Liu and J.D.Bao,Phys.Rev.C 83,044613 (2011). 420 [24] H.F. Zhang et al.,Phys.Rev.C 90,054313 (2014). 421 [25]Y. Tanimura et al.,Phys.Rev.Lett118,152501 (2017). 422 [26] H. Tao et al.,Phys.Rev.C96,024319 (2017). 423 [27] N.Wang and W.Ye,Phys.Rev.C97,014603 (2018). 424 [28] N.Wang and W.Ye,Phys.Rev.C98,034614 (2018). 425 [29] K.Pomorski et al.,Chin.Phys.C 45,054109 (2021). 426 [30] Pavel V.Kostryukov etal.,Chin.Phys.C 45,124108 (2021). 427 [31] H. Zheng et al.,Phys.Rev. C 98,024622 (2018). 428 [32] L.Guo et al.,Phys.Rev.C98,064609 (2018). 1 429 [33] C.Gregoire et al.,Nucl.Phys.A 387,37(1982). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "430 [34] C.Gregoire et al.,Nucl.Phys.A 383,392 (1982).   \n431 [35] P.Gläissel et al.,Z.Phys.A 310,189 (1983).   \n432 [36] S.Leray et al.,Nucl.Phys.A 423,175 (1984).   \n433 [37] Z. Zheng et al.,Nucl. Phys A 422,447 (1984).   \n434 [38] Kai Wen et al.,Phys.Rev.Lett.111,012501 (2013).   \n435 [39] P.Russotto et al.,Phys.Lett.B 697,471 (2011).   \n436 [40] C.Rizzo et al,Phys.Rev.C 83,014604 (2011).   \n437[41] Junlong Tian,X.Li et al.,Eur.Phys.J.A 42,105 (2009).   \n438[42] Junlong Tian,Li Ou et al.,Int.J.Mod.Phys.E,2O,1755   \n439 (2011).   \n440 [43] LiCheng,Junlong Tian et al.,Chin.Phys.C37,114101 (2013).   \n441[44] Junlong Tian,Xizhen Wu et al.,Phys.Rev.C 77,O64603   \n442 (2008).   \n443 [45] Cheng Li, Junlong Tian,Li Ou et al.,Phys.Rev. C 87,O64615   \n444 (2013).   \n445 [46] Ning Wang,Junlong Tian et al., Phys.Rev. C 84, O61601(R)   \n446 (2011).   \n447 [47] P.Goddard et al.,Phys.Rev.C 92,054610 (2015).   \n448 [48] F.Bocage et al.,Nucl.Phys.A 676,391 (2000).   \n449 [49] E.De Filippo et al.,Phys.Rev.C 71,064604 (2005).   \n450 [50] E.De Filippo et al.,Phys.Rev. C 86,014610 (2012).   \n451[51] E.V.Pagano et al.,Jour.of Phys.Conf. Series 1014,012011   \n452 (2018).   \n453 [52] S.Piantelli et al.,Phys.Rev.C101,034613 (2020).   \n454 [53] R.S.Wang et al.,Phys.Rev.C89,064613 (2014).   \n455 [54] G. Casini et al.,Phys.Rev.Lett.71,2567(1993).   \n456 [55] Q.Wu et al.,Phys.Lett.B 797,134808 (2019).   \n457 [56] Q.Wu et al.,Phys.Lett.B 811,135865 (2020).   \n458 [57] M. Pancic et al.,Front.Phys.8,351 (2020).   \n459 [58] F.H. Guan et al.,Nucl. Inst.Meth.A,1011,165592 (2021).   \n460 [59] Y.J.Wang et al.,Nucl. Sci. Tech.32,4 (2021).   \n461 [60] F.H. Guan et al.,arXiv:2110.08261v1.   \n462 [61] Y.J.Wang et al.,arXiv:2112.02210v1.   \n463[62] X.L.Wei et al.,Nucl. Eng. Tech.52,575 (2020).   \n464 [63] V.E. Viola,Phys.Rev.C311550 (1985).   \n465 [64] J.W.Zheng et al.,High Ene.Phys.Nucl.Phys.23,409 (1999).   \n466 [65] J.W. Zheng et al.,High Ene.Phys.Nucl. Phys.23,946 (1999). ",
+        "page_idx": 6
+    }
+]

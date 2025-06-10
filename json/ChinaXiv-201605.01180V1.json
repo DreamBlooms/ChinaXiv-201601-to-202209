@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "Structural and Functional Characterization of Acinetobacter baumannii Nucleoside Diphosphate Kinase ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Ying-Songl,2, FENG Feng, LIU Ying-Fangl)\\*\\* (NationalLboratoryofomacromolecules,Istituteofphysics,hineseAcademyofciences,Beiingina; 2 The University of Chinese Academy of Sciences,Beijing l00049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAcinetobacterbumnisanewthreatinintensivecareunits (ICUs）foritsmultiresistancetoantibiotics,utlitleis knownaboutthisbacterum.Nucleosidediphosphate kinase (NDK)isanevolutionarilyconservedenzymethatcatalyzesphosphoryl transformationbetweenucleosides.Iourstudy,tecystaltructureofwildtypeAcinetobacterbumaiNDKalongwititsmutant generatedthroughtruncationofthe C-terminalarginine-threonine-arginine(RTR）residues，weresolved.Incomparisonwith Myxococcus xanthus NDK structure,wespeculated that Acinetobacter baumanni NDK shared a similarcatalytic mechanism with Myxococcus xanthus.Activityassyand CDspectraanalysisrevealedthatE28A mutantmightinterruptthesecondarystructureof he proteinleadingtodecliedenzymaticactivity.TruncationoftheC-terminalRTRresidueswouldleadtotheinstabiltyofthetertiary structureresulting inreduced kinase activity.Lys33wasakeyresidue formaintainingdimer interaction whenRTRresidues were truncatedbutwasnotsuficienttokeepeficientenzymaticreaction.Thestructuraldatacanprovideapotentialtargetoevelopovel therapeutic approaches to overcome multiresistance of the bacterium against antibiotics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsAcinetob acter baumanni,nucleoside diphosphate kinase (NDK),crystal structure DOI:10.16476/j.pibb.2014.0319 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Acinetobacterbaumannii,a scarcely known pathogen for general public, has been recently gaining more and more attention from scientific community[1]. This bacterium is well known for its ability to resist to almost all antibiotics[2], leading to increase in health threat for immuno-compromisedindividuals, especially in intensive care units (ICUs)[3]. Efforts have been made to understand its mechanism of drug resistance but little is known about the bacterium. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nucleoside diphosphate kinase (NDK) is a widely existing enzyme which is highly conserved from virus to mammals [4]． The enzyme catalyzes transfer of $\\gamma$ -phosphate from a nucleoside triphosphate (NTP) to a nucleoside diphosphate (NDP) [5-6]． Accordingto previous solved structures,NDKs share homology in gene sequence,orientation of secondary as well as tertiary structure,but differ in orientation of quaternary structure [7-9]. The differences in quaternary structure lead to the enzyme's additional functions [o-1]. In bacteria, NDKs appear as dimer or tetramer[7-8], but in eukaryote as well as in archaea NDKs mostly occurs as hexamer[12]. Because of the nucleoside kinase activity, NDK is important in DNA and RNA biosynthesis [13]. Despite this， NDK is reported to take part in polysaccharide and protein synthesis as well asin energy metabolism[10, 3]. In human, NDK is secreted out of cells and coordinate in cellular ATP signaling[14-15]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we solved the crystal structure of wild type NDK from Acinetobacter baumannii, according to which we found that the C-terminal arginine-threonine-arginine (RTR） residues generated several interactions on the dimer interface.For further elucidation of the monomer-monomer interaction,we solved the crystal structure of the mutant that the C-terminal RTR residues were truncated. Our study combined structural and functional methodsto characterize NDK from Acinetobacter baumannii with an aim to gain valuable insights about the bacterium leading to design of novel anti-bacterial drugs in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Cloning and mutagenesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The NDK gene of Acinetobacter baumannii (strain SDF) wascommerciallysynthesized (Genscript).Using polymerase chain reaction (PCR), the gene was amplified and cloned into a pET-28a vector (Novagen） with an N-terminal hexa-histidine tag. Mutations were introduced into the correct pET-28a-NDK plasmid by site-directed mutagenesis[6] using EasyPfu DNA polymerase (TransGen).Gene sequencing were carried out to verify the correct mutants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Protein expression and purification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thecorrect clonesweretransformedinto Escherichia coli BL21(DE3).The cultures were grown in LB medium at $3 7 ^ { \\circ } \\mathrm { C }$ to an ${ A _ { 6 0 0 } }$ value of 0.6. Protein expression was induced by additionof $0 . 1 \\ \\mathrm { \\ m m o l / L }$ isopropylthiogalactopyranoside (IPTG) and incubated at $1 6 ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { ~ h ~ }$ . Cells were harvested by centrifugation and resuspended in lysis buffer containing $5 0 \\ \\mathrm { \\ m m o l / L }$ Tris $\\mathrm { ( p H ~ 8 . 0 ) }$ ， $1 5 0 ~ \\mathrm { \\ m m o l / L }$ NaCl, 5 mmol/L $\\mathrm { { M g C l } } _ { 2 }$ and $1 0 \\mathrm { m m o l / L }$ imidazole. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After sonication， the lysate was centrifuged at $3 0 ~ 0 0 0 ~ g$ for $3 0 ~ \\mathrm { m i n }$ . The supernatant was applied to nickelbeads（ $\\mathrm { 1 0 ~ m l }$ ，GEHealthcare)，washed three times with wash buffer containing $5 0 ~ \\mathrm { \\ m m o l / L }$ Tris $\\mathrm { ( p H ~ 8 . 0 ) }$ ，150 mmol/L NaCl,5 mmol/L $\\mathrm { \\Delta \\mathrm { M g C l } _ { 2 } }$ and $3 0 \\ \\mathrm { m m o l / L }$ imidazole,and eluted with elution buffer containing $5 0 \\ \\mathrm { \\ m m o l / L }$ Tris $\\mathrm { ( p H ~ 8 . 0 ) }$ ， $1 5 0 ~ \\mathrm { \\ m m o l / L }$ NaCl, 5 mmol/L $\\mathrm { { M g C l } } _ { 2 }$ and $2 0 0 \\ \\mathrm { m m o l / L }$ imidazole. The elution from affinity chromatography was then concentratedbyspinconcentrators(Amicon, Millipore) and purified by gel filtration chromatography (Superdex75,Amersham Biosciences) in size exclusion (SE）buffer containing $5 0 ~ \\mathrm { \\ m m o l / L }$ Tris $\\mathrm { ( p H ~ 8 . 0 ) }$ ， $1 5 0 \\mathrm { \\ m m o l / L } \\mathrm { \\ N }$ aCl and 5 mmol/L $\\mathrm { \\Delta \\mathrm { M g C l _ { 2 } } }$ . SDS-PAGE was used to analyze the peaks. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Target fractions of wild type and RTR truncation proteins were pooled and concentrated to $\\sim 2 0 0 ~ \\mathrm { g / L }$ After 2 weeks at $4 ^ { \\circ } \\mathrm { C }$ ，about half of the protein spontaneously degraded to a truncated form. The degraded protein wasused for crystallization after addition of $1 \\ \\mathrm { m o l / L }$ N-Cyclohexyl-2-aminoethanesulfonic acid 号 $( \\mathrm { C H E S } \\ p \\mathrm { H } \\ 9 . 0 )$ to a final concentration of $1 0 0 \\mathrm { m m o l / L }$ For activity assay, $1 \\ \\mathrm { m l }$ peak fraction of wild type protein or mutant protein was diluted to $\\mathrm { \\sim 0 . 5 \\ m g / L }$ in SE buffer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 Crystallization and data collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The hanging-drop vapor diffusion method was used for crystallization.Briefly, $1 ~ \\mu \\mathrm { l }$ protein solution was mixed with equal volumes of reservoir solution. NDK wild type crystals were obtained under the condition containing $0 . 1 \\ \\mathrm { \\ m o l / L }$ potassium sodium tartrate tetrahydrate and $1 8 \\% ( w / v )$ polyethylene glycol 3350 while RTR truncation crystals were grown under the condition of $1 \\ \\mathrm { m o l / L }$ sodium malonate $\\mathrm { ( p H ~ 7 . 0 ) }$ _， $0 . 1 \\ \\mathrm { m o l / L }$ HEPES $\\left( \\mathrm { p H } \\ 7 . 0 \\right)$ and $0 . 5 \\%$ （204号 $\\left( \\boldsymbol { v } / v \\right)$ Jeffamine ED-2001 $\\mathrm { ( p H 7 . 0 ) }$ ！ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NDK wild type crystal X-ray diffraction data were collected at beamline BL17U， Shanghai Synchrotron Radiation Facility (Shanghai， China)， andwere processed with HKL200o[17]. The crystal belongs to the I222 space group and its cell dimensions are $a { = } 6 1 . 7 3 \\mathrm { \\AA }$ $b = 7 6 . 9 6 \\mathrm { \\AA }$ ， $c = 8 2 . 2 4 \\mathrm { \\AA }$ and $\\scriptstyle \\alpha = \\beta = \\gamma = 9 0 ^ { \\circ }$ with only one molecule in an asymmetric unit. RTR truncation diffraction data were collected using MicroMax-007 HF X-ray source and Saturn 944HG CCD detector (Rigaku), then were processed with IMOSFLM[18-19]. Its space group is the same as wild type with smaller cell dimensions of $a { = } 6 0 . 3 3 \\mathrm { \\AA }$ ， $b { = } 7 5 . 4 0 \\mathrm { \\AA }$ $_ { c = 8 2 . 1 2 \\mathrm { \\AA } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4Structure determination and refinement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initially, wild type structure was determined by molecularreplacement(MR）method using Burkholderia thailandensis NDK(PDB code 4DUT) as starting model. After processing and improving using PHASER [20]and DM [21]respectively，PHENIX. AUTOBUILD[2-23] was used to get the primary model, which was then manually adjusted in COOT[24] and refined in PHENIX.REFINE [25] iteratively. The RTR truncation structure was determined using the same method as wild type except that the starting model was wild type. The $R _ { \\mathrm { w o r k } }$ and $R _ { \\mathrm { f r e e } }$ of wild type final model was $1 6 . 2 8 \\%$ and $1 8 . 9 0 \\%$ respectively,while for RTR truncation the values were $2 0 . 1 0 \\%$ and $2 5 . 8 1 \\%$ .The PDB accession code was 4W98 for wild type and 4WBF for RTR truncation. The structural figures used here were made using PyMOL(http://www.pymol.org/). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5In vitro kinase activity assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The in vitro kinase activity assay was carried out, as described previously [26], in a $2 5 ~ \\mu \\mathrm { l }$ system which contained $4 0 0 ~ \\mathrm { \\textmu m o l / L }$ GTP as phosphoryl donor, $1 0 0 \\ \\mu \\mathrm { m o l / L }$ ADP as substrate and $5 ~ { \\mu \\mathrm { l } }$ appropriately diluted enzyme.After a $2 \\ \\mathrm { m i n }$ incubation at room temperature, $1 5 ~ \\mu \\mathrm { l }$ of reaction mixture was added to equal volume of luciferin-luciferase ATP detection buffer from ATPlite one-step kit (PerkinElmer) and a single measurement of luminescence was recorded after a $1 0 \\mathrm { ~ s ~ }$ delay on a luminometer (TD-2O/20, Turner Designs).Backgroundreadingsofrelative luminescence units (RLU） were adjusted, whereby RLU from wild type NDK was standardized as $100 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6 CD measurement ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $1 ~ \\mathrm { m l }$ peak fraction of wild type protein or mutant proteins were diluted in PBS to $0 . 1 \\sim 0 . 2 ~ \\mathrm { g / L }$ Put into a $1 \\mathrm { m m }$ path length cell, the far-ultraviolet CD spectra of wild type and mutant proteins were recorded onChirascan-plusACD (Applied Photophysics). According to voltage limitation, the wavelength range was $2 0 0 { \\sim } 2 6 0 ~ \\mathrm { n m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Overall structure of wild type and RTR truncation NDK ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The wild type Acinetobacter baumannii NDK structure consisted of four antiparallel $\\beta$ -strands embraced in seven $\\alpha$ -helices(Table1,Figure la).The whole structure presented a typical ferredoxin-like fold. Gelfiltrationexperimentindicatedthat Acinetobacterbaumannii NDK was eluted asa dimer in solution (data not shown).Using PISA[27] server to analyzedimerinteraction(Figure1b)，the monomer-monomer interfaceareawas $1 1 8 9 . 4 \\mathrm { \\AA } ^ { 2 }$ containing eighteen hydrogen bonds and four salt bridges. The C-terminal residues (mainly RTR motif and Cys139）and $\\propto 2$ in one monomer altogether formed eleven hydrogen bonds and two salt bridges on dimer interface.In detail, Cysl39 in C-terminal from one monomer could form one hydrogen bond with His41 from another monomer.Within $\\propto 2$ ，Glu28 of one monomer could form three hydrogen bonds with Ile20 and Gly21 of another monomer (Figure 1c） and vice versa.The extreme C-terminal residues (RTR) not only participated in four hydrogen bond formation, but also generated two salt bridges with another monomer (Figure 2b). Therefore，E28A and C-terminal RTR truncation mutant were constructed to evaluate structural and functional relationships ofNDK. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1865a1baf8594e96245b9babdcd4f5872836b3bdb75e52b94f7d5ff7b2bf48c7.jpg",
+        "table_caption": [
+            "Table1 Summary of data collection and refinement statistics "
+        ],
+        "table_footnote": [
+            "（20 $^ { 1 ) } R _ { \\mathrm { s y m } } { = } \\Sigma ( I { - } { < } I { > } ) / \\Sigma { < } I { > }$ ,where $I$ was the intensity and $< I >$ was the average intensity of multiple measurements.The sum was for all measured reflections. $^ { 2 ) } R _ { \\mathrm { f r e e } }$ were calculated with about $5 \\%$ and $10 \\%$ of the reflections for wild type and RTR truncation respectively. $^ { 3 ) } \\mathrm { R . m . s }$ .deviations, root mean square deviation of bond length and angles were the deviations from ideal values. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>Wild type</td><td>RTR truncation</td></tr><tr><td rowspan=\"2\">Data collection</td><td>Beamline</td><td>SSRF beamline BL17U</td><td>Rigaku MicroMax-007HF</td></tr><tr><td>Wavelength/A</td><td>0.9792</td><td>1.5419</td></tr><tr><td rowspan=\"6\">Cell dimensions</td><td>Space group</td><td>1222</td><td>1222</td></tr><tr><td>(a,b,c)/A</td><td>61.73,76.96,82.24</td><td>60.33,75.40,82.12</td></tr><tr><td>(α, β,γ)/</td><td>90.0,90.0,90.0</td><td>90.0,90.0,90.0</td></tr><tr><td>Resolution (Outer shell)/A</td><td>56.2-1.43 (1.47-1.43)</td><td>47.11-2.64 (2.90-2.64)</td></tr><tr><td>Rsym)(Outer shell)</td><td>0.050 (0.562)</td><td>0.168 (0.619)</td></tr><tr><td>IσI(Outer shell)</td><td>51.0 (4.08)</td><td>7.3 (2.6)</td></tr><tr><td rowspan=\"4\">Refinement</td><td>Completeness (Outer shell)/%</td><td>99.3 (100.0)</td><td>100.0 (100.0)</td></tr><tr><td>Redundancy (Outer shell) Resolution (Outer shell)</td><td>7.1 (7.1)</td><td>6.2 (6.3)</td></tr><tr><td>Total no.of reflection/free</td><td>27.05-1.43 (1.47-1.43)</td><td>47.11-2.64 (2.90-2.64)</td></tr><tr><td></td><td>36240/1793</td><td>5655/542</td></tr><tr><td rowspan=\"4\">No. of atoms</td><td>Rwork Ree2</td><td>0.163</td><td>0.201</td></tr><tr><td>Protein</td><td>0.189</td><td>0.258</td></tr><tr><td></td><td>1108</td><td>1066</td></tr><tr><td>Water</td><td>169</td><td>34</td></tr><tr><td rowspan=\"2\">R.m.s.deviations3)</td><td>Ave.B-factors/(A)</td><td>19.0</td><td>18.0</td></tr><tr><td>Bond lengths/A</td><td>0.0057</td><td>0.0089</td></tr><tr><td rowspan=\"3\">Ramachandran plot</td><td>Bond angle/o</td><td>1.004</td><td>1.102</td></tr><tr><td>Favored/%</td><td>98.6</td><td>97.1</td></tr><tr><td>Allowed/%</td><td>1.4</td><td>2.9</td></tr><tr><td></td><td>Outlier/%</td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f617eadce7cb3280df270ab72ec77e0004e8dd05f031675f528607c33247d44.jpg",
+        "img_caption": [
+            "Fig.1Overall structure ofwild type NDK "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) Overall structure of wild type NDK, $\\alpha$ -helicesand $\\beta$ -strands were in different colors.(b) Dimer of wild type NDK,one monomer was green and the otherwacyn.(cG28eat)eoon)teactwitdGly(ageta)iothoorya)otdetefaceof wild type NDK. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The RTR truncation still existed as a dimer in solution and its crystal structure determined was similar to wild type(Table 1, Figure 2a). The RMSD (root-mean-square deviation） between $\\textstyle \\mathrm { C } \\alpha$ atoms of RTR and wild type was $0 . 2 0 5 \\mathrm { \\AA }$ .Particularly， the locations and orientations of the residues that were ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be4689176e8ca9e3d6e04e30b2d618900628a9b8b9a2874d6835c7ae52135b6d.jpg",
+        "img_caption": [
+            "Fig.2Structural details of wild type NDK and its RTR truncation mutan "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)ComparisioofirildeN()dtsrucautant(ageta).eCasiduCiildsin inRTRtrucatioeicatedseat.(b)sues(eatfrooooerniteractwithalr69ndGluata) fromanother monomer(cyan）iwildtypedimer.TheactivesiteHisl1wasshowninyelow.(c）Superposionofwildtype(reenandRT truncation(magnta)structuasin(a)lef.TeisigesidsCofildtypNwredicatedaseatLys3ofildtypwaspnted cyan.Interaction ofLys33 (red)and Val15 (yellow in RTR truncation was colored light orange. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "implicated to be involved in the enzymatic activity and substrate binding were almost identical in the two proteins.However, in contrast to wild type NDK, two residues next to RTR，Cys139 and Prol40 in the mutant protein,could not be found on the electron density map.In addition,Lys33 side chain in RTR truncationstructuretookanotherconformation extending to the space otherwise occupied by RTR residues in wild type structure (Figure 2c). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Structuralcomparison between NDK substrate bindingregions of Acinetobacter baumannii and Myxococcus xanthus ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AcinetobacterbaumanniiandMyxococcus xanthus NDK shared $6 5 . 0 3 \\%$ sequence similarity and were not hexamer. Superposition of Acinetobacter baumannii and Myxococcus xanthus NDK resulted in a RMSD of $0 . 5 3 2 \\mathrm { \\AA }$ ．All the residues reported to participate in protein-ADP (adenosine diphosphate) interaction in Myxococcus xanthus NDK (Mx-NDK)[7] were conserved in Acinetobacter baumannii NDK (Ab-NDK) (Figure 3a). Among all ADP-interacting residues,His54，Thr93 andIle111 inAb-NDK displayed shifts of 1.5A, 1.2A and $1 . 4 \\mathrm { \\AA }$ respectively in $\\textstyle \\mathrm { C } \\alpha$ atom compared to ADP-free Mx-NDK.These residues sit on the loops undergoing conformational change during enzymatic reaction, so the $\\mathrm { \\sim 1 \\AA }$ shift of the residues should not have much influence on the binding of substrates. The other key residues in Ab-NDK all took conformations similar to ADP-free Mx-NDK.In addition, the electrostatic potential on the surface of Ab-NDK displayed a positively-charged pocket to hold ADP，which was consistent with Mx-NDK (Figure 3b). Therefore， the structure of Ab-NDK allowed accommodation of ADP in the similar way as Mx-NDK， demonstrating that the catalytic mechanism of Ab-NDK might bear strong resemblance with that of Mx-NDK. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/35c9192039823c6e23934c9c91b2ebfad4483403db6d19a458446a0d83bb0a63.jpg",
+        "img_caption": [
+            "Fig.3Comparison of Acinetobacter baumanni(Ab-NDK) and Myxococcus xanthus NDK (Mx-NDK) (a)SuperpositionofkeyresiduespartipatinginADPbindingbetweenAb-NDK(wheat）andMx-NDK(red)(PDBcode2NCK).(b)Surface electrostatic potential of Mx-NDK(left)(PDB code 1NLK)and Ab-NDK(right).ADP in Mx-NDK was shown in sticks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Enzymatic activities of wild type NDK and mutants ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The in vitro enzymatic activity assay was carried outunder conditions that substrates were saturated.As reported earlier, His115 (in Acinetobacter baumannii NDK His117) was predicted to be catalytic active site of the Staphylococcus aureus NDK. Mutation of this residueto a glutamine(H115Q) impairedthe enzymatic activity of the protein[28]. Therefore,we used H117Q as negative control. Considering wild type NDK activity as $100 \\%$ , H117Q was only $4 . 4 \\%$ while RTR truncation was $5 . 3 \\%$ ．The kinase activity of ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "E28Awas $1 8 . 6 \\%$ which was larger than RTR truncation but still reduced compared to wild type (Figure 4a). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4CD analysis of secondary structure ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The CD spectra of Acinetobacter baumannii NDK wild type and mutants were recorded to compare their secondary structures(Figure 4b). E28A showed different spectral pattern to wild type which indicated that E28A mutation changed the secondary structure of NDK. By contrast, RTR truncation showed little change in secondary structure. Compared to wild type, E28A $\\alpha$ -helixchanged from $54 . 6 2 \\%$ to $4 8 . 5 7 \\%$ . While $\\beta$ -strand in wild typewas $9 . 5 9 \\%$ ,E28Akept the level to $10 . 1 1 \\%$ .Coiled coil of E28A rose to about $2 5 \\%$ compared to $2 1 . 4 6 \\%$ in wild type. RTR truncation kept the proportion of secondary element consistent with wild type NDK. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a846cc2c92ff4171deb279e4dc86bfbf0e310c4bbd45c5a5fe33a190a45872f.jpg",
+        "img_caption": [
+            "Fig.4In vitro kinase activity assay and the far-ultraviolet CD spectra of NDK mutants ",
+            "(a) In vitro kinase activity assay.The reactions were carried out under conditions containing $4 0 0 \\mu \\mathrm { m o l / L }$ GTP, $1 0 0 \\ \\mathrm { \\mu m o l / L }$ ADP and ${ 5 \\mu \\mathrm { l } }$ appropriately diluted enzyme for $2 ~ \\mathrm { m i n }$ at roomtemperature.Relative luminescenceunits (RLU) were recorded and compared for activity assay.Results were shown as means $\\pm \\ \\mathrm { S } . \\mathrm { D }$ . of three independent experiments. (b) The CD spectra of NDK mutants. Curves were superimposed at $2 0 8 \\mathrm { n m }$ .The MRE (mean residue ellipticity) was painted against the wavelength.■—■:E28A;·-·:RTR; $\\mathbf { \\Delta } \\mathbf { \\triangleq } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } } \\mathop { \\mathbf { A } \\mathrm { - } }$ : WT. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Glu28wasrelevant insecondarystructure formation. According to results from CD spectra, E28A changed the secondary structure of NDK. Unlike E40K in Pyrobaculum aerophilum which promoted dimer interaction[12,29], mutation E28A resulted in loss of $\\alpha$ -helix in the whole structure but left $\\beta$ -strands undisturbed.At the same time,E28A showed reduced enzymatic activity which was a natural result of secondary structural change inducing the enzyme conformationallyunstable. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Truncation of the C-terminal RTR residues may lead to instability of tertiary structure resulting in reduced kinase activity. Unlike E28A， the RTR truncation showed low levels of kinase activity, but had little change in the secondary structure， as observed in CD spectra. We speculated that this phenomenon might be caused by influence on NDK C-terminalmediatedinteraction. Therefore,we attempted to solve the crystal structure of RTR truncation.Weobservedthat the detailed structure of RTR truncation was almost identical to the wild type except for five missing C-terminal residues on the density map.However, ten out of eighteen hydrogen bonds and all four salt bridges presenting between monomers were lost due to deletion of RTR residues. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Among these, the interaction between Argl43 and Glu113 was closely adjacent to the active site His117 (Figure2b). Thisinteractionmightinfluence conformational change during enzymatic reaction. It was likely that the C-terminal tail of one monomer could function like a thumbtack to consolidate tertiary structure of anothermonomer and reinforce monomermonomer interaction. This C-terminal thumbtack could keep the whole structure of NDK compact and efficient during the dynamic process of catalytic reaction.As such, deletion of C-terminal RTR residues should make NDK tertiary structure unstable during phosphor-transformationreactionandresultin decreased catalytic activity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In RTR truncation structure, we also observed that Lys33 side chain extruded towards an opposite direction compared to wild type. When RTR residues were truncated， the space occupied by them was released and Lys33 side chain swayed in its position, forming hydrogen bond with Vall5 from another monomer. This extra interaction might helpto maintain the tertiary and dimer structure of RTR but was still weak for maintaining increased enzymatic reaction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NDK catalyzes transfer of $\\gamma$ -phosphate from an NTP to an NDP. In our study,we could not get the crystal structure of Ab-NDK bound to its substrate, but we could speculate catalytic details from other species. In Myxococcus xanthus, the adenine ring of ADP has only stacking interaction with Phe59 while the ribose and pyrophosphate mediate most interactions with the protein. The 3'-OH of the ribose ring form hydrogen bonds with Lys11 and Asnl14. The $\\alpha$ -phosphate may interact with His54. Next to the $\\alpha$ -phosphate，the $\\beta$ -phosphate not only forms salt bridge with Lys11, Arg87 and ArglO4,but also form hydrogen bonds with His117 and Tyr51 [7].All the residues interacting with ADP are conserved in Acinetobacter baumannii indicating a similar way of substrate binding. In Staphylococcus aureus，native NDK，substrate-NDK complex and NDK-ADP-vanadate structure give us an overview of the dynamic reaction [28],wherein ND1 of His115 (His117 in Acinetobacter baumannii） acts as nucleophile to transfer the $\\gamma$ -phosphate. In the NDK-ADP-vanadatestructureofStaphylococcus aureus(which mimicsthetransitionstateof phosphor-transformation reaction), the movement of substrate $\\gamma$ -phosphate towards active site involve residues Tyr49,Thr91 and Arg102，while Lys9 and Vall09interactwith theriboseofsubstrate. Accordingly，residues Tyr51，Thr93,Arg104，Lys11 and Ilel11 in Acinetobacter baumannii are all in similar location and orientation, in order to perform the same reaction in a similar way. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary，by comparing the NDK structure from Acinetobacterbaumannii with that from Myxococcus xanthus and Staphylococcus aureus，we could speculate that the catalytic mechanismof Ab-NDK should be similar to Mx-NDK.Besides, our structural and functionaldata ofAb-NDK revealed the significant role of $\\mathrm { G l u } 2 8$ and RTR residues on the kinase activity of NDK.These results expand our understanding of Acinetobacter baumannii and NDK, which can provide a potencial target to develop novel therapeutic approaches to overcome multiresistance of the bacterium against antibiotics. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsWe thank following people from Institute of Biophysics,CAS,for their kindly help. We thank Dr. GAO Guang-Xia for providing luminometer to do enzymatic assay. We thank Dr. LIANG Huan-Huan for the help in data collection and processing.We thank Dr.LI Jian and LI Jun for the help in structure determination.We thank Dr.KANG Yan-Yong and Dr.Bhargavi M.BORUAH for the valuable suggestions on this manuscript. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Howard A，O'donoghue M,Feney A，et al．Acinetobacter baumanni: an emerging opportunistic pathogen. Virulence,2012, 3(3): 243-250   \n[2]Montefour K,Frieden J,Hurst S,et al.Acinetobacter baumannii: an emerging multidrug-resistant pathogen in critical care. Crit Care Nurse,2008,28(1): 15-25; quiz 26   \n[3]Bonnin R A,Nordmann P,Poirel L.Screening and deciphering antibiotic resistance in Acinetobacter baumannii: a state of the art. Expert Rev Anti Infect Ther,2013,11(6): 571-583   \n[4]Spooner R, Yilmaz O. Nucleoside-diphosphate-kinase: a pleiotropic effectorinmicrobialcolonizationunderinterdisciplinary characterization. Microbes Infect,2012,14(3): 228-237   \n[5]Mourad N,Parks R E,Jr. Erythrocytic nucleoside diphosphokinase. II. Isolation and kinetics.JBiol Chem,1966,241(2): 271-278   \n[6]Agarwal R P，ParksR E,Jr.Erythrocytic nucleoside diphosphokinase.V. Some properties and behavior of the pI 7.3 isozyme.JBiol Chem,1971,246(7): 2258-2264   \n[7]Williams RL,Oren D A,Munoz-Dorado J,et al. Crystal structure of Myxococcus xanthus nucleoside diphosphate kinase and its interaction with a nucleotide substrate at 2.0 A resolution.JMol Biol,1993,234(4): 1230-1247   \n[8]Moynie L,Giraud MF,Georgescauld F,et al. The structure of the Escherichia coli nucleoside diphosphate kinase reveals a new quaternary architecture for this enzyme family.Proteins-Structure Function and Bioinformatics,2007,67(3): 755-765   \n[9]Wang H,Bao R,Jiang C H,et al. Structure of Ynkl from the yeast Saccharomycescerevisiae．Acta Crystallogr F，2008,64(7): 572-576   \n[10] Gong L,Wu Z,Guo L,et al. Metastasis suppressor $\\mathrm { N m } 2 3 { \\cdot } \\mathrm { H } 1$ inhibits STAT3 signaling via a negative feedback mechanism. Biochem Biophys Res Commun,2013,434(3): 541-546   \n[11] Dexheimer T S,Carey S S, Zuohe S,et al. NM23-H2 may play an indirect role in transcriptional activation of c-myc gene expression but does not cleave the nuclease hypersensitive element II(1). Mol Cancer Ther,2009,8(5): 1363-1377   \n[12] Pedelacq JD,Waldo G S,Cabantous S,et al.Structural and functional features of an NDP kinase from the hyperthermophile crenarchaeon Pyrobaculum aerophilum.Protein Sci,20o5,14(10): 2562-2573   \n[13] Chakrabarty a M. Nucleoside diphosphate kinase: role in bacterial growth, virulence,cellsignalling and polysaccharide synthesis.Mol Microbiol,1998,28(5): 875-882   \n[14] Bours MJL,Swennen E L R,Di Virgilio F,et al.Adenosine 5'- triphosphate and adenosine as endogenous signaling molecules in immunity and inflammation. Pharmacol Therapeut,20o6,112(2): 358-404   \n[15] Yilmaz O,Yao L,Maeda K,et al.ATP scavenging by the intracellularpathogenPorphyromonasgingivalisinhibits P2X7-mediated host-cell apoptosis. Cell Microbiol,2008,10(4): 863-875 [16]HemsleyA,Arnheim N,Toney MD,et al.A simple method for site-directed mutagenesis using the polymerase chain-reaction. Nucleic Acids Res,1989,17(16): 6545-6551 [17]Otwinowski Z,Minor W.Processing of X-ray diffraction data collected in oscillationmode. MethodEnzymol，1997,   \n276:307-326 [18] Bailey S.The Ccp4 suite - programs for protein crystallography. Acta Crystallogr D,1994,50(5):760-763 [19]Powell HR,Johnson O,Leslie a G W.Autoindexing diffraction images with iMosflm.Acta CrystallogrD,2013,69(7):1195-1203 [20]Mccoy aJ,Grosse-Kunstleve R W,Adams PD,et al.Phaser crystallographic software.JAppl Crystallogr,2007,40(4):658-674 [21]Cowtan' K D.'dm': An Automated Procedure for Phase Improvement by Density Modification'，Joint CCP4and ESF-EACBM newsletter on protein crystallography,1994,31: 34-   \n38 [22]Adams P D,Afonine P V,Bunkoczi G,et al.PHENIX:a comprehensive Python-based system for macromolecular structure solution．Acta Crystallogr D Biol Crystallogr，2010,66 (Pt 2):   \n213-221 [23] Cowtan K. The Buccaneer software for automated model building. 1.Tracing protein chains.Acta Crystallogr D Biol Crystallogr, 2006,62(Pt9):1002-1011.   \n[24] Emsley P,Cowtan K.Coot:model-building tools for molecular graphics.Acta CrystallogrD Biol Crystallogr,2004,60 $( \\mathrm { P t } \\ 1 2 \\ \\mathrm { P t } \\ 1 \\$ ） 2126-2132   \n[25]DavisI W,Murray LW,RichardsonJS,et al．MolProbity: structure validation and all-atom contact analysis for nucleic acids and their complexes.Nucleic Acids Res,2004,32(web server issue):W615-W619   \n[26] Buxton IL. Inhibition of $\\mathrm { N m } 2 3 \\mathrm { H } 2$ gene product (NDPK-B） by angiostatin，polyphenolsand nucleoside analogs.Proc West Pharmacol Soc,2008,51:30-34   \n[27] Krissinel E,Henrick K.Detection of protein assemblies in crystals. Lect Notes Comput Sc,2005,3695:163-174   \n[28]Srivastava S K,Rajasree K,Gopal B.Conformational basis for substrate recognition and regulation of catalytic activityin Staphylococcus aureus nucleoside di-phosphate kinase.Biochim Biophys Acta,2011,1814(10):1349-1357   \n[29] Pedelacq JD,Piltch E,Liong E C,et al.Engineering soluble proteins for structural genomics.Nat Biotechnol,2002,20 (9): 927-932 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "鲍曼不动杆菌核苷二磷酸激酶的结构和功能研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "胡颖嵩1,2) 冯峰1）刘迎芳1)\\*\\*(中国科学院生物物理研究所，北京100101；2)中国科学院大学，北京100049)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "摘要近年来，鲍曼不动杆菌(Acinetobacter baumanni)在医院里越来越受到人们的关注，尤其是在重症监护病房(ICUs)．它以强大的多重耐药性(multiresistance)而闻名．核苷二磷酸激酶(nucleoside diphosphate kinase，NDK)是一种进化上非常保守的酶，它能催化核苷之间磷酸基团的转移．我们解析了鲍曼不动杆菌 NDK野生型和C端氨基酸残基 Argl41-Thr142-Arg143(RTR)截短突变体的结构．通过和黄色黏菌(Myxococcus xanthus)NDK 的三维结构进行比较，推断鲍曼不动杆菌NDK 的催化机制和黄色黏菌类似．通过激酶活性实验和圆二色谱实验，发现鲍曼不动杆菌NDKE28A突变体二级结构发生了改变，从而导致蛋白催化活性降低，说明Glu28 是鲍曼不动杆菌NDK 结构中非常关键的氨基酸残基．鲍曼不动杆菌 NDKC端 RTR截短突变体显示出催化活性极大的降低，这可能与C端RTR残基介导的二体间相互作用有关．虽然RTR截短突变体中的Lys33 伸向了和野生型中不同的方向，和Val15产生相互作用弥补了一部分因为RTR截短丢失的相互作用，维持了RTR 截短突变体和野生型类似的结构．但是，Lys33产生的相互作用依然太弱，不足以维持蛋白在催化的动态过程中整体结构的高效转换．我们解析的鲍曼不动杆菌NDK 晶体高分辨率结构将有助于科学家设计针对鲍曼不动杆菌的药物.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关键词鲍曼不动杆菌，核苷二磷酸激酶(NDK)，晶体结构学科分类号Q5，Q6",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.16476/j.pibb.2014.0319 ",
+        "page_idx": 7
+    }
+]

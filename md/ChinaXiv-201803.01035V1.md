@@ -1,0 +1,189 @@
+# Rpfan37在刺槐共生结瘤过程中的功能探究
+
+冯昭1,2，丑敏霞2,\*
+
+（1．陕西中医药大学 医学技术学院，陕西 咸阳712046；2.西北农林科技大学旱区作物逆境生物学国家重点实验室，陕西 杨凌 712100)
+
+摘要目的：研究刺槐中与磷脂酰肌醇转运蛋白有较高同源性的基因Rpfan37的功能，为探究相关基因参与豆科植物与根瘤菌共生结瘤过程提供新的思路。方法：通过前期研究，建立豆科植物刺槐与共生根瘤菌互作的抑制差减杂交反交文库，筛选疑似与共生结瘤相关的基因。利用PCR技术快速克隆经实时荧光定量PCR 技术（RT-qPCR）分析基因在不同接菌时间及不同植物组织的表达。构建RNA干扰（RNAi）重组载体，转农杆菌介导转化植物根部，接种根瘤菌后验证该基因在刺槐共生结瘤过程的功能。结果：基因表达分析显示，在接菌与未接菌的刺槐根中，处理后第15天，表达均显著上调，但接菌与未接菌处理对该基因表达无显著影响；在成熟的根瘤中，该基因仅为低水平表达。RNAi转化植株的鲜重、株高和根长以及结瘤数较对照组显著降低。在镜下观察到RNAi植株根毛发育异常；与对照相比，RNAi转化植株形成的根毛卷曲、根毛侵染线及根瘤原基数目均显著降低。根瘤石蜡切片结果显示RNAi植株根瘤中的侵染细胞与对照相比明显减少，分析豆血红蛋白表达发现，RNAi植株中根瘤发育成熟过程明显受阻。结论：在豆科植物刺槐中发现的相关基因Rpfan37能够参与刺槐共生结瘤过程，为研究磷脂酰肌醇转运蛋白在共生结瘤过程中的作用提供了新的理论基础。
+
+关键词Rpfan37；共生结瘤；RNA干扰；磷脂酰肌醇转运蛋白；刺槐
+
+中图分类号 Q945
+
+# Functional analysis of Rpfan37 in the symbiotic nodulation process of Robinia pseudoacacia
+
+Feng Zhaol,2, Chou Min-xia², \*   
+(1 College of medical technology,Shaanxi UniversityofChinese Medicine,Xianyang,712046,China; 2 State   
+KeyLaboratory of Crop Stress Biology in Arid Areas and Collge ofLife Sciences,Northwest A&F University, Yangling,712100, China.)
+
+Abstract: Objective: To investigate the new gene Rpfan37, a homolog of PITP, in order to provide an idea for understanding the function of relative genes that involved in the symbiotic nodulation process. Methods: Through the previous study, target genes which were suspectly associated with symbiotic nodulation were screened out from the suppresson substractive hybridization library of Robinia pseudoacacaia interacting with symbiotic rhizobia. Using qRTPCR to analyze the target gene expression level at diferent times and in different tissues. The RNAi recombinant plasmid was transformed into the plant root through K599 and verify the function of Rpfan37 after inoculation. Results: qRT-PCR analysis showed up-regulation characteristics of Rpfan37 in roots especially at 15 days post-inoculation (dpi)， however, inoculation and non-inoculation treatment had no significant effect on the gene expression which sharply decreased in the matured nodule. Knockdown of Rpfan37 via RNA interference resulted in impaired development of both plant growth and nodule. Compared with empty vector plants, fresh weight, the root and stem length, nodule number per plant deceased dramatically in Rpfan37 RNAi plants. The root hair development of RNAi plant was abnormal and the number of root hair curling, ITs and nodule primordia were also significantly reduced in the Rpfan37 RNAi roots. Nodulation paraffin sections showed that the number of infected cells in RNAi plant nodules was significantly reduced compared with the control. Real-time PCR analysis of the expression levels of leghemoglobin gene indicated that nodule development and maturation was significantly blocked in the Rpfan37 RNAi roots. Conclusion: The related gene Rpfan37 found in Robinia pseudoacacia can participate in the symbiotic nodulation process. It provides a new theoretical basis for understanding the function of phosphatidylinositol transporter in symbiotic nodulation process.
+
+Key Words: Rpfan37; Symbiotic nodulation; RNA interfernece; Phosphatidylinositol Transfer Protein; Robinia pseudoacacia
+
+# 引言：
+
+根瘤菌侵染豆科植物的根部，能够在根部形成特化的器官---根瘤。在根瘤中，根瘤菌分化成类菌体，在固氮酶复合物的作用下，将氮还原成氨的过程称为"共生固氮"作用。豆科植物与根瘤菌共生固氮作用是最为重要的生物固氮共生关系之一，每年产生近20亿吨的氮肥[1-2]。
+
+植物根瘤的形成起始于宿主植物根部释放到根际的酚类和类黄酮复合物，这些物质的分泌可诱导根瘤菌进入植物根部并激活根瘤菌Nod 基因表达[3]，合成专一性脂壳寡糖的结瘤因子(NFs)，并激活宿主响应[4-7]。由于根毛根尖相对较少交联的细胞壁，使得根瘤菌更加容易由此侵入[8]。固氮菌能够在宿主植物体内向营养器官转运，一旦获得适宜的微生态环境即可生长繁殖[。根瘤菌经由根毛入侵后6至8小时，根毛根尖开始发生变形卷曲，将一部分已经开始分化的根瘤菌的嵌入根尖[10-11]，引起植物细胞壁局部水解，细胞质膜向内生长，同时新的细胞壁物质沉积在内陷的质膜处，形成了管状侵染线[12]。侵染线到达由NFs 诱导产生的根瘤原基后，通过类似于内吞作用的过程，根瘤菌被植物衍生的膜包裹，形成共生体，根瘤原基逐渐发育成根瘤。因此植物根毛根尖的正常发育是植物根瘤形成的基础。
+
+近年来，人们对于共生结瘤过程的研究已经取得了显著进展，许多结瘤相关基因从不同的豆科植物中被分离筛选得到，其中很多基因的功能得以阐明，如日本百脉根（LotusjaponicusL）中参与编码 SCAR/WAVE 蛋白的Nap1 和Pirl两个基因在根毛[13]中起始肌动蛋白的重排，可影响结瘤过程中侵染线的形成；另外，还发现日本百脉根的SYMRK、蒺藜苜蓿的DMI2[14]、豌豆中的 SYM19 以及大豆中的GmNORK[15]等，均可参与根瘤菌的侵染过程及根瘤的发育，并在结瘤因子信号转导方面发挥重要功能。此外，一些非结瘤素基因同样可影响共生结瘤过程，如刺槐翻译控制肿瘤蛋白基因Rpf41被干扰后，结瘤数显著减少，根瘤发育明显受到抑制[16]。
+
+磷脂酰肌醇转运蛋白（Phosphatidylinositol Transfer Protein，PITP）是一类结合磷脂酰肌醇（PI）或者磷脂酰胆碱（PC）的载脂蛋白，其广泛地存在于真核细胞中。PITP通过参与调节脂类代谢途径和胞内进程（如脂介导的信号传递进程、膜运输进程等），从而主动作用于多个复杂的生理发育过程[17]。植物的磷脂酰肌醇转运蛋白是一个庞大的家族蛋白，但与动物及酵母相比，植物PITP的研究还差距很远。目前，在植物中发现了一些与酿酒酵母 Sec14 同源并且功能相似的PITP 蛋白。如：Keams 等[18]在大豆中发现 Ssh1和 Ssh2 蛋白均是具有磷酸肌醇高亲和力的结合蛋白；在胁迫环境下，Ssh1能快速磷酸化以响应外界刺激；在发育中的种子内 Ssh2高度表达，研究推测其参与种子脱水等过程的调节。豆科植物日本百脉根中存在4个PITP蛋白（LjPLP-I-IV），其表达各具特异性。LjPLP-I和LjPLP-II在花、根和根瘤中均有表达，但它们在花器官和根中的表达要远远高于根瘤中的表达[19]，而LjPLP-IV 主要在花器官和根中表达。LjPLP-I-IV蛋白都含有两个结构域：N端的类 Sec14 PITP结构域与共生固氮作用相关，C端的类N1j16区域与根瘤的形成有关[19]。表明PITP能够参与外界刺激响应及豆科植物根瘤形成过程。
+
+虽然，豆科植物共生结瘤过程的分子机制逐渐得以阐明，但对于磷脂酰肌醇转运蛋白与植物结瘤的关系仍不清楚。因此，本研究以豆科植物刺槐中新分离得到的一个与磷脂酰肌醇转运蛋白具有很高同源性的基因Rpfan37为研究对象，通过qRT-PCR分析其在刺槐-根瘤菌共生结瘤过程中的转录水平，利用RNAi技术，对其在共生结瘤过程中所发挥的作用进行了初步的分析和鉴定。
+
+# 1.材料和方法
+
+# 1.1实验材料
+
+刺槐种子，用 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 处理 $1 5 \mathrm { m i n }$ ，以去除种皮表面的蜡质层；弃去浓硫酸后加入适量$9 5 \%$ 乙醇，浸泡 $2 ~ \mathrm { m i n }$ ；无菌蒸馏水冲洗5次； $50 \%$ 的NaCIO溶液表面消毒 $1 0 ~ \mathrm { { m i n } }$ ，间隔搅拌；最后用无菌水冲洗8-10次。将消毒过的种子平置于 $2 \%$ 的水琼脂培养基上进行催芽， $2 8 ^ { \circ } \mathrm { C }$ 倒置暗培养 $4 8 \mathrm { ~ h ~ }$ 。将发芽的种子移至珍珠岩：蛭石(体积比2:1)中培养。定期加入无氮营养液，植株于 $2 0 – 2 6 ^ { \circ } \mathrm { C }$ 长日照条件下（ $1 6 \mathrm { h }$ 光照 $/ 8 \mathrm { ~ h ~ }$ 黑暗）培养，4天后接种根瘤菌M.amorphae CCNWGS0123（ $\mathrm { \Lambda } _ { \mathrm { O D } 6 0 0 = 0 . 2 }$ ）。对照植株加入等量的无菌水模拟接种。
+
+# 1.2RNA的提取
+
+依照Trizol Reagent(Takara,Dalian,China)试剂盒的指导步骤，提取刺槐根的总RNA。分别取接种后 $^ { 0 \mathrm { h } }$ ，6h， $1 2 \mathrm { h }$ ，1d，3d，6d，8d，10d，15d，20d，25d，30d和未接种后同样时间的根以及接种 $1 5 { \mathrm { ~ d ~ } }$ ， $2 0 ~ \mathrm { d }$ ， $2 5 { \mathrm { ~ d ~ } }$ ，30d植株的根瘤作为实验材料，分别提取RNA，并进行qRT-PCR 实验。对于RNAi实验，我们分别取接种后15d 和30d 的根提取RNA，以检测目的基因干扰效率。
+
+# 1.3Rpfan37的RT-PCR和qRT-PCR
+
+根据Rpfan37的cDNA序列设计特异引物f37-F 和f37-R，以刺槐根的cDNA为模板进行PCR扩增。PCR反应程序为： $9 4 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { m i n }$ ； $9 4 ^ { \circ } \mathrm { C } \ 3 0 \ \mathrm { s }$ ， $5 8 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } \mathrm { ~ 1 ~ m i n }$ ，30个循环； $7 0 ^ { \circ } \mathrm { C } \ 8 \ \mathrm { m i n }$ 。qRT-PCR 共 $2 0 { \mu \mathrm { L } }$ 体系， $1 0 ~ \mu \mathrm { L }$ SYBR Green IMaster Mix(Takara)， $0 . 8 ~ \mu \mathrm { L }$ 对应的引物， $2 ~ \mu \mathrm { L }$ cDNA 模板，用去离子水补齐至 $2 0 ~ \mu \mathrm { L }$ 。qRT-PCR 程序为 $9 5 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s }$ ，1个循环， $9 5 ^ { \circ } \mathrm { C } \ 5 \ \mathrm { s }$ ， $6 0 ^ { \circ } \mathrm { C } \ 3 0 \ \mathrm { s }$ ，40个循环。溶解曲线从 $6 0 ^ { \circ } \mathrm { C }$ 到 $9 0 ^ { \circ } \mathrm { C }$ ， $0 . 5 \mathrm { ^ { \circ } C / s }$ 。每组实验均含阴性对照以评定总体的特异性。扩增在MyiQ Two-Color Real-Time Quantitative PCRDetection System (Bio-Rad,Hercules CA,USA)中进行。所有的实验样品均设三次技术重复。样本数据之间的显著性分析采用标准误进行分析。基因的表达定量采用相对定量 $( 2 ^ { - }$ $\Delta \triangle _ { \mathrm { X T } } )$ 的方法。表达数据相对于刺槐18SrRNA 的表达量进行标准化。实验中用到的引物见表1。
+
+# 1.4RNA干扰表达载体的构建及转基因检测
+
+使用pHGRV来构建Rpfan37的RNA干扰表达载体。利用BP37-F和BP37-R（表1）引物，通过RT-PCR 扩增的序列包括目的基因167bp 的编码序列和与RNA干扰载体同源的 58 bp 序列，共 $2 2 5 \mathrm { b p }$ 。被扩增的片段通过Gateway BP反应转化到RNA干扰载体。
+
+通过电转化法转化到农杆菌K599中，侵染宿主植物刺槐的根部。在MS固体培养基$2 4 ^ { \circ } \mathrm { C }$ 下，暗培养3d后，转入MS 固体选择培养基培养7d，切口部位长出愈伤组织，两周后由愈伤组织上长出转化根，将刺槐幼苗移栽至珍珠岩：蛭石（体积比2:1）中培养，7d后接种根瘤菌。分别取接种根瘤菌后含有空载体对照和实验组15d和30d的转化苗根提取总RNA，纯化、反转录后，作为筛选转化根的标准，首先检测GUS基因是否表达，再通过 RT-PCR 和qRT-PCR 检测干扰植株中目的基因的表达情况。
+
+# 1.5统计并检测转化植株根部的结瘤过程
+
+转化植株接种的根瘤菌为eGFP标记的M.amorphaeCCNWGS0123，在接种后第10天，利用荧光显微镜观察根毛发育形态并统计侵染事件，包括根毛卷曲、侵染线和根瘤原基的数目。在接种后第30天，取对照与RNAi植株观察对比，测定根长、株高、鲜重及结瘤数，并分别取RNAi植株与对照植株新鲜根瘤制作组织切片并观察。
+
+表1本研究中所用的引物  
+Table1Primers used in this study   
+
+<html><body><table><tr><td>引物名称</td><td>引物序列（5'-3')</td><td>用途</td></tr><tr><td>Primer name</td><td>Primer sequence (5'-3')</td><td>Use</td></tr><tr><td>f37-F</td><td>TGAAATCAGGGCAGGTGT</td><td>RT-PCR</td></tr><tr><td>f37-R</td><td>GATAAGACTGGCAGGAAGAA</td><td>RT-PCR</td></tr></table></body></html>
+
+<html><body><table><tr><td>GUS-F</td><td>CCCGTGAAATCAAAAAACTCG</td><td>RT-PCR</td></tr><tr><td>GUS-R</td><td>AAAGAAATCATGGAAGTAAGACTGC</td><td>RT-PCR</td></tr><tr><td>Lb-F</td><td>CTCAAGGCTCACGCTGAAAAGG</td><td>qRT-PCR</td></tr><tr><td>Lb-R</td><td>TTGCTCAATTCGTCGCTCCATT</td><td>qRT-PCR</td></tr><tr><td>BP37-F</td><td>GGGGACAAGTTTGTACAAAAAAGCAGGCTCCA</td><td>RNA干扰载体构建</td></tr><tr><td rowspan="3">BP37-R</td><td>GCATCTTCTCTACTTCC</td><td>RNA interference vector construct</td></tr><tr><td>GGGGACCACTTTGTACAAGAAAGCTGGGTTTC</td><td>RNA干扰载体构建</td></tr><tr><td>CAACCTCATTGTTTCTC</td><td>RNA interference vector construct</td></tr><tr><td>qfan37-F</td><td>TGAAATCAGGGCAGGTGT</td><td>qRT-PCR</td></tr><tr><td>qfan37-R</td><td>GATAAGACTGGCAGGAAGAA</td><td>qRT-PCR</td></tr></table></body></html>
+
+# 2 结果与分析
+
+# 2.1Rpfan37的获得
+
+前期研究分别取接菌后1d、4d、6d、8d、11d、14d、18d、22d 的刺槐根和不接种的对照根为样品，利用抑制差减杂交技术分离样品间差异表达基因，构建了正反交两个差减cDNA文库，每个文库包含大约600个克隆子。其中正交文库（Forward SSHlibrary，FSL）是筛选得到的相对于不接瘤根，在结瘤根中特异性表达或者表达量增加的基因；反交文库（Reverse SSHlibrary，RSL）是筛选得到的相对于结瘤根，在不接瘤根中特异性表达或表达量增加的基因。通过前期研究构建的SSH反交文库，我们选择了其中一个与蒺藜苜蓿磷酸肌醇转运蛋白同源性较高的Rpfan37基因并利用qRT-PCR分别分析了在接种后15d，20d，25d，30d的去瘤根、根瘤以及对照植株根中该基因的表达情况，结果显示，Rpfan37在根瘤中的表达低于根中的表达，且接菌根中低于对照根中表达[20]。
+
+# 2.2Rpfan37在共生结瘤中的表达分析
+
+为进一步详细说明Rpfan37在共生结瘤中的表达特性，利用qRT-PCR检测在如图1中各个时间点和部位中目的基因的转录水平。结果显示，Rpfan37在刺槐被检测部位均有表达，但无论是接种或未接种，其转录水平在接种后第15天均达到最高，而在成熟的根瘤中其转录水平最低。并发现Rpfan37在接种根瘤菌根中的转录水平比未接种根瘤菌的根中低，基本与反交文库结果一致（图1）。
+
+![](images/3113a76c6fe8082e48954d2ece7680ac50273650b41c1b12e30e284f490e5a7f.jpg)  
+图1Rpfan37在不同时期根与根瘤中的相对表达量
+
+数据显示为平均值 $\cdot \pm$ 标准误，生物学重复3次与技术重复3次
+
+Fig.1 Relative expression levels of Rpfan37 in different developmental stage:
+
+Note: Data were normalized to 18S rRNA (R.pseudoacacia) expresson and are presented as mean $\pm$ SEM,which were calculated over biological replicate $( \mathtt { n } = 3$ ）and technical replicate $\scriptstyle ( { \mathrm { n } } = 3$ )mRNA
+
+# 2.3RNAi载体构建与转化及干扰效率验证
+
+对接菌第8d的RNAi转化根进行GUS染色，结果如图2A，表明干扰载体成功转化进入植物基因组。通过RT-PCR，检测Rpfan37干扰植株在接菌 $1 5 { \mathrm { ~ d ~ } }$ 和30d根部GUS基因的表达情况，结果表明在接菌根内GUS基因能够稳定表达，表明干扰载体正常发挥干扰功能（图2B）。
+
+对接菌后15d和30d转基因RNAi植物根中的目的基因Rpfan37分别进行RT-PCR及qRT-PCR扩增，结果显示在接菌后15d和30d后Rpfan37表达量分别显著下调为对照的$4 3 . 7 \%$ 和 $3 7 . 5 \%$ ，表明目的基因被有效的沉默（图2C,D）。
+
+![](images/3fb1c4ad1a808b8729b15e4fc5e3c0a2b23c2cc41f69abf6d5682d8fa40baa87.jpg)  
+图2RNAi植株GUS染色及GUS基因和目的基因在RNAi植株中的表达水平检测
+
+(A）接菌后8d干扰苗GUS 染色结果，图A中标尺为 $1 \mathrm { c m }$ ；(B)RT-PCR分析GUS基因在干扰植株结瘤过程中的表达。(C)RT-PCR 分析目的基因分别在接菌后 15 和30 天的 RNAi刺槐转化根与对照根中的表达。(D)qRT-PCR分析目的基因在接菌后15 和30 天的RNAi刺槐转化根与对照根中的表达水平。表达量均以刺槐18SrDNA的表达水平作为对照进行标准化。数据显示为平均值 $\pm$ 标准误，3次重复， $P$ 值小于0.05设为显著性差异
+
+Fig.2 The identification of transgenic plants and expression analysis of $G U S$ and target gene in RNAi hairy roots (A) GUS staining for identification of 8 day post-innoculation (dpi) RNAi roots, Bar $= 1$ cm; (B) RT-PCR analysis of the expression levels of GUS gene during the nodulation in RNAi plants.(C)RT-PCR analysis of the expression levels of target gene in 15 and $3 0 \mathrm { d p i }$ transformed roots of $R$ pseudoacacia in RNAi plants and control. (D) qRTPCR analysis of the expression levels of target gene in15 and 30 dpi transformed roots of in RNAi plants and control. Data were normalized to 18S rDNA expression.
+
+Note:Error bars indicate the standard errors,with 3replicates.Different letters indicate statistical significance belowa statistical $P$ value of 0.05.
+
+# 2.4Rpfan37敲除对植株生长与结瘤的影响
+
+与转化空载体对照相比，Rpfan37敲除后明显影响了刺槐生长（图3A）。表现为植株矮小，株高显著降低（ $\cdot P { < } 0 . 0 5$ ），约为对照的 $58 \%$ （图3C）；干扰植株根生长发育明显不足，根长约为对照的 $8 5 \%$ （图3D）；并观察到植株鲜重显著降低为对照的 $5 5 \%$ （ $\cdot P { < } 0 . 0 5$ ，图3E）。对植物根瘤外部形态观察和数目统计发现，Rpfan37干扰植株中根瘤明显小于对照（图3B），且数量仅为对照的 $62 \%$ （图3F）。结果表明Rpfan37敲除可明显影响植物正常生长发育以及根瘤产生。
+
+![](images/9caecf6ed97fa3dd865b03b927bde28a63365ede789e3b77e26fa3e9e4f70a00.jpg)
+
+图3Rpfan37干扰后对刺槐的生长表型、根瘤形态及结瘤数的影响(A)RNAi转化植株与对照在珍珠岩蛭石培养基中生长7天后接种根瘤菌，取接菌15 天后的幼苗拍照；(B)接菌后30天空载体对照与RNAi转化植株的根瘤。标尺 $: = 1 \mathrm { c m }$ 。(C,D,E,F)接菌后30 天对RNAi转化植株与对照株高、根长、鲜重与结瘤数的统计。数据显示为平均值 $\cdot ^ { \pm , }$ 标准误，样本容量为40， $P$ 值小于0.05
+
+设为显著性差异
+
+Fig.3 Effects of Rpfan37RNAi on growth phenotype, nodule morphology and nodulation number of Robinia pseudoacacia
+
+(A)Plants of Rpfan37RNAi and control were grown in the medium with vermiculite and perlite for one week,and then they were inoculated with rhizobia.The plants at $1 5 \mathrm { d p i }$ were showed in the figure.(B) The phenotype of nodules at 30 dpi from control(i) and RNAi.Bars $= 1$ cm.(C,D,E,F) The root and stem length,fresh weight and the nodule number of transgentic plant at 30 dpi
+
+Note: The number was scored at 3O dpi.Data are means $\pm$ SEM, $\mathtt { n } = 4 0$ .Different letters indicate statistical significance below a statistical $P$ value of 0.05.
+
+# 2.5Rpfan37敲除对刺槐结瘤过程的影响
+
+在接菌第10天时，与对照相比（图4A），Rpfan37RNAi植物毛状根上形成的根毛变的短粗而稀疏（图4B）。通过对根毛卷曲数目的统计发现，Rpfan37敲除植株中根毛卷曲数目显著降低为对照的 $84 \%$ （ $\scriptstyle . P < 0 . 0 5$ ，图5A）。此外，还发现Rpfan37敲除后明显抑制了根毛侵染线的形成，在对照植株根毛中能够形成完整的侵染线（图4C），但在RNAi植株根毛中无法形成完整侵染线（图4D），RNAi转化植株中根毛侵染线的数目显著降低为对照的 $49 \%$ ( $P { < } 0 . 0 5$ ，图5B）。有趣的是Rpfan37敲除后可降低皮层侵染线数目，但未达到差异显著（图5C）。此外，由于Rpfan37敲除明显影响了根毛卷曲和根毛侵染线形成，进一步影响了根瘤原基形成，使其显著降低为对照的 $53 \%$ （ $P { < } 0 . 0 5$ ，图5D）。以上结果表明Rpfan37敲除明显影响根毛形态完整及根部结瘤过程。
+
+![](images/cd68616858c831ce55420bf4ad9bc8d60e87e0d1d8bbc83f70a1a21ff9aa4afd.jpg)
+
+(A)对照根毛形态；(B)RNAi转化植株根毛形态；(C）对照根毛侵染线；(D)RNAi转化植株根毛侵染线;标尺 ${ \tt \varepsilon } = 2 0 0 \ \mu \mathrm { m }$ 。数据显示为平均值 $\pm$ 标准误，样本容量为40， $P$ 值小于0.05 设为显著性差异
+
+Fig.4 The form of root hair and infection threads in the root hair at 8 dpi.
+
+The root hairs formationofcontrol(i)(A)and RNAi (B).The form of infection threads inthe root hairofcontrol(i) 0 $\mathrm { { C ) } \ a n d \ R N A i ( D ) ; \mathrm { { B a r s = 2 0 0 } \mu m } }$
+
+Note: The number was scored at 1O dpi.Data are means $\pm$ SEM, $\mathtt { n } = 4 0$ .Different letters indicate statistical significance belowa statistical $P$ value of 0.05.
+
+![](images/e5666eb07a0d55ae98a2486ff1b38669bae4a11eb981b202d55d13e1f9a9ad45.jpg)  
+图4接菌后8天的对照和RNAi根毛及侵染线形态   
+图5Rpfan37RNAi对植株根毛卷曲、侵染线及根瘤原基数目的影响
+
+注：取接菌后第10天的转化苗在荧光显微镜下统计根毛卷曲、侵染线及根瘤原基的数目。数据显示为平均值 $\pm$ 标准误，样本容量为40， $P$ 值小于0.05设为显著性差异
+
+Fig.5 Effects of Rpfan37RNAi on plant root hair curling,infection thread and primordia number
+
+Note: The number was scored at 1O dpi.Data are means $\pm$ SEM, $\mathtt { n } = 4 0$ .Different letters indicate statistical significance belowa statistical $P$ value of 0.05.
+
+# 2.6Rpfan37敲除对根瘤发育形成与成熟的影响
+
+如图6，与对照相比（图6A），Rpfan37RNAi根瘤组织疏松（图6B），侵染细胞和含菌细胞数目与对照相比也明显减少，且含菌细胞出现明显的皱缩，不光滑和早期衰老的迹象（图6C,D）。利用实时定量PCR分析根瘤中豆血红蛋白基因表达，在接菌后15d和$3 0 \mathrm { d }$ ，与对照相比，豆血红蛋白基因在Rpfan37RNAi根中的表达量下降，尤其是在接菌后第15d（图7）。以上结果说明Rpfan37基因干扰沉默后影响了根瘤的发育形成与成熟。
+
+![](images/91d3f46fb606f30fdcd3d1348a2cc6212c5446e2c7aa3479b68cb359de7cc8c5.jpg)  
+图6接菌后30天刺槐根瘤纵切光学显微镜照片
+
+(A）空载体对照;(B)Rpfan37-RNAi;(C)A 图固氮区的放大;(D)B 图固氮区的放大；标尺 $= 1 0 0 \mu \mathrm { m }$ Fig. 6 LM (light microscopy) micrographs of longitudinal section of the $3 0 { \mathrm { d p i } } R$ pseudoacacia nodules (A) Control(i) (empty vector); (B) Rpfan37-RNAi; (C) Magnification of nitrogen fixation Zone in A; (D) Magnification of nitrogen fixation zone in B; Bar ${ \tt s } = 1 0 0 \mu \mathrm { m }$
+
+![](images/5405559a21500f7ed5e635beb6013153bafb17268d03b932c5949113417f6a23.jpg)
+
+图7接菌后15天和30天刺槐根瘤豆血红蛋白基因表达分析。数据显示为平均值 $\pm$ 标准误，3次重复， $P$ 值小于0.05设为显著性差异
+
+Fig.7 Real-time PCR analysis of the expression levels of leghemoglobin gene in 15 and $3 0 \mathrm { d p i }$ nodule Note:Error bars indicate the standard errors,with 3 replicates.Different letters indicate statistical significance belowa statistical $P$ value of 0.05.
+
+# 3.讨论
+
+在豆科植物与根瘤菌共生结瘤的各个阶段，许多植物基因得到特异性表达，这些在结瘤过程中特异表达或者表达增强的基因称为结瘤素基因[20]。但在本文中，利用前期研究构建的 SSH反交文库筛选到的Rpfan37[21]，接菌后根中该基因的表达与不接菌对照相比，在所有取样点均表现为降低或无太大差异，且表达趋势总体较为一致（图1），表明Rpfan37为非结瘤素基因。一般在接种后 $1 5 { \mathrm { ~ d ~ } }$ ，根瘤原基开始分化发育，共生体开始形成[22]，此时，Rpfan37转录水平迅速达到峰值（图1）；而在Rpfan37基因表达被明显抑制后（图2C，2D），刺槐幼苗结瘤能力被显著削弱（图3B，3F），因而其能够参与到根瘤发育过程中并起重要作用。此外，多氨基酸序列比对表明非结瘤素基因Rpfan37编码的蛋白与蒺藜苜蓿磷脂酰肌醇转运蛋白（PITP）之间存在 $89 . 9 6 \%$ 的同源性。与根中的表达相比，Rpfan37在成熟根瘤中的转录水平非常低（图1）。有研究表明，豆科植物日本百脉根中存在的2个PITP 类基因LjPLP-1和LjPLP-2，它们在花器官和根中的表达也远远高于根瘤中的表达[19]。Rpfan37在根瘤中的表达均显著下降甚至降到最低，说明该基因功能在已经发育成熟的根瘤中被抑制（图1），主要参与到根瘤发育形成过程。
+
+研究指出PITP类基因能够参与根毛生长发育过程[23]。在本研究中Rpfan37被有效沉默后，刺槐转化植株的生长发育受到明显抑制（图3A,3C-E），且RNAi植株的根毛也变得短小稀疏（图4B）。根毛的正常发育是根瘤形成的基础条件[10-1]，Rpfan37的沉默使转化植株根毛侵染线的数目和根瘤原基数目显著减少（图5B,5D），根瘤的形态也较对照相比显著减小（图3B）。因而我们认为，在豆科植物根毛发育阶段，非结瘤素基因Rpfan37可能通过影响根毛磷脂酰肌醇的转运和定位合成，指导根毛细胞的根尖生长，从而参与到共生结瘤过程。
+
+另有研究表明，拟南芥PITP家族成员AtSfhlp的缺失能够导致F-肌动蛋白和微管细胞骨架的瓦解[24]。根瘤石蜡切片结果显示，Rpfan37RNAi植株根瘤中的侵染细胞和含菌细胞数目明显减少，且明显皱缩（图6），说明Rpfan37基因还可能参与到细胞骨架稳定性调节中。最后，分析在根瘤中具有固氮功能标志的晚期结瘤素基因（NOD）豆血红蛋白（Lb）表达后，表明即使RNAi植株能够产生根瘤，其固氮能力也被明显削弱（图7），说明在相同处理时间内，RNAi植株内根瘤生长发育明显滞后。结合研究结果，我们推测Rpfan37蛋白可能通过调节其介导的信号传导，影响根毛发育从而促进根瘤器官发生的起始分化和根瘤细胞的形成。
+
+因此，本文研究结果表明，刺槐非结瘤素基因Rpfan37可能主要通过影响根毛的极性生长参与豆科植物-根瘤菌共生结瘤过程。考虑到Rpfan37能够影响植物的根毛发育，所以不能排除 Rpfan37基因的沉默可间接影响根瘤的形成，比如通过影响根毛发育而降低侵染线数目，或者说Rpfan37能够为植物根瘤的形成提供必要良好的生物条件，这些都还有待进一步的研究。
+
+参考文献   
+[1] Graham PH,Vance CP.Legumes: Importance and constraints to greateruse.Plant Physiol,2Oo3,131: 872- 877.   
+[2] Peoples MB,BrockwellJ, Herridge D F, et al. The contributions of nitrogen-fixing crop legumes to the productivity of agricultural systems.Symbiosis, 2009,48: 1-17.   
+[3] Redmond JW,Batley M, Djordjevic MA, et al. Flavones induce expression of nodulation genes in Rhizobium. Nature,1986,323: 632-635.   
+[4] Amor BB,Shaw S L, Oldroyd G E, et al. The NFP locus of Medicago truncatula controls an early step of Nod factor signal transduction upstream of a rapid calcium flux and root hair deformation. Plant J, 2oo3, 34(4): 495-506.   
+[5]Limpens E,Franken C,Smit P,et al. LysMdomain receptor kinases regulating rhizobial nod factor-induced infection. Science,2003,302: 630-633.   
+[6] Madsen E B,Madsen L H, Radutoiu S,et al. A receptor kinase gene of the LysM type is involved in legume perception ofrhizobial signals. Nature, 2003, 425(6958): 637-640.   
+[7] Radutoiu S, Madsen L H, Madsen E B et al. Plant recognition of symbiotic bacteria requires two LysM receptor-like kinases. Nature,2003, 425: 585-592.   
+[8] Oldroyd G E, Downie JA. Coordinating nodule morphogenesis with rhizobial infection in legumes. Annu Rev Plant Bio,2008,159: 519-546.   
+[9]张淑卿，李剑锋，师尚礼.苜蓿繁殖器官发育过程与内生根瘤菌侵染数量的关系．江苏农业学报，2009, 25(5): 997-1001. ZHANG S Q,LI JF, SHI S L. The relationship between developmental processes of reproductive organs and infection quantify of endogenous rhizobia. Jiangsu Journal of Agricultural Sciences, 2009, 25(5): 997- 1001.   
+[10] Callaham DA,Torrey JG.The structural basis for infection ofroot hairs ofTrifolium repens by Rhizobium. Can. J. Bot, 1981,59: 1647-1664.   
+[11] Turgeon B G, Bauer WD. Ultrastructure of infection thread development during infection of soybean by Rhizobium japonicum. Planta,1985,163: 328-349.   
+[12] Gage D J. Infection and invasion of roots by symbiotic, nitrogen-fixing rhizobia during nodulation of temperate legumes.Microbiol. Mol. Biol. Rev. 2004,68: 280-300.   
+[13] Yokota K, Fukal E, Madsen L H, et al. Rearrangement of actin cytoskeleton mediates invasion of Lotus japonicus roots by Mesorhizobium loti. Plant Cell,2009,21: 267-284.   
+[14] Endre G, Kereszt A, Kevei Z,et al. A receptor kinase gene regulating symbiotic nodule development. Nature, 2002, 417: 962-966.   
+[15]Stracke S, KistnerC, Yoshida S,et al. A plant receptor-like kinase required forboth bacterial and fungal symbiosis. Nature,2002,417: 959-962.   
+[16] Chou M, Xia C,Feng Z, et al. A translationally controlled tumor protein gene Rpf41 is required for the nodulation of Robinia pseudoacacia. Plant Mol Biol,2016,90(4-5): 389-402.   
+[17] Cockcroft S.Phosphatidylinositol transfer proteins couple lipid transport to phosphoinositide synthesis.Cell. Dev. Biol, 2001,12: 183-191.   
+[18] Kearns MA,Monks DE,Fang M,et al. Novel developmentaly regulated phosphoinositide binding proteins from soybean whose expresson bypasses the requirement for an essential phosphatidylinositol transfer proteion in yeast. The EMBO J,1998,17(14): 4004-4017.   
+[19] Kapranov P,Rout S M,Bankaitis VA. Novel developmental regulation of phosphatidylinosiol transfer protein expression in nitrogen-fixing root nodules of the flowering plant Lotus japonicus.Plant Cell, 2001, 13: 1369-1382.   
+[20] 柳思思．刺槐中与共生结瘤相关的基因的筛选和鉴定．陕西，杨凌:西北农林科技大学,2013. LIU S S. Isolation and identification of nodule-related genes involved in symbiotic nitrogen fixation of Robinia pseudoacacia. Shannxi, Yangling: Northwest A&F university,2013.   
+[21] Chen H, Chou M,Wang X,et al.Profiling ofdifferentially expressed genes in roots of Robinia pseudoacacia during nodule development using suppressive subtractive hybridization. PLoS One 2013,8(6), e3930.   
+[22] 顾祥巨，荆玉祥．结瘤素及其基因表达．中国生物工程杂志,1992,12(3):46-52. GU X J, JING Y X,Nodulin and its gene expression. China Biotechnology,1992,12(3): 46-52.   
+[23] Bohme K,Li Y,CharlotF.The Arabidopsis COW1 gene encodes a phosphatidylinositol transfer protein essential for root hair tip growth[J].Plant J, 2004,40: 686-698.   
+[24] Vincent P, Chua M, Nogue F. A Sec $1 4 \mathsf { p }$ -nodulin domain phosphatidylinositol transfer protein polarizes membrane growth of Arabidopsis thaliana root hairs[J]. Cell Biol,20o5,168: 801-812.

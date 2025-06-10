@@ -1,0 +1,305 @@
+[
+    {
+        "type": "text",
+        "text": "?rimordial power spectrum versus extension parameters beyond the standard model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo\\* and Yuan-Zhong Zhang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State Key Laboratory of Theoretical Physics，Institute of Theoretical Physics, Chinese Academy of Sciences，P.O.Box 2735，Beijing 100190,China (Dated:May 1,2012) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We reconstruct the shape of the primordial power spectrum of curvature perturbations in extended cosmological models,including addition of massive neutrinos,extra relativistic species or varying primordial helium abundance,from the latest cosmic microwave background data from the Wilkinson Microwave Anisotropy Probe,the Atacama Cosmology Telescope and the South Pole Telescope. We find that a scale-invariant primordial spectrum is disfavored by the data at $9 5 \\%$ confidence level even in the presence of massive neutrinos,however it can lie within the 95% confidence region if the effective number of relativistic species or the primordial helium abundance is alowed to vary freely. The constraints on the extension parameters from WMAP7+ACT+Ho+BAO,are the total mass of neutrinos $\\sum m _ { \\nu } < 0 . 4 8 \\mathrm { ~ e V }$ 7(95% CL),the effective number of relativistic species $N _ { \\mathrm { e f f } } = 4 . 5 0 \\pm 0 . 8 1$ and the primordial helium abundance $Y _ { p } = 0 . 3 0 3 \\pm 0 . 0 7 5$ .The constraints from WMAP7 $^ +$ SPT+Ho+BAO,are $\\sum m _ { \\nu } < 0 . 4 5 \\mathrm { e V }$ (95% CL), $N _ { \\mathrm { e f f } } = 3 . 8 6 { \\pm } 0 . 6 3$ and $Y _ { p } = 0 . 2 7 7 \\pm 0 . 0 5 0$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 98.80.Cq ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Measurements of temperature anisotropy in the cosmic microwave background (CMB) provide us with a wealth of cosmological information.Since 200l the Wilkinson Microwave Anisotropy Probe (WMAP）satelite has measured temperature anisotropy of the CMB up to $l \\sim 1 2 0 0$ over the full sky [1,2]. The ground-based telescopes such as the Atacama Cosmology Telescope (ACT）[3] and the South Pole Telescope (SPT）[4] have extended temperature measurements to smaller angular scales $l \\ \\sim \\ 3 0 0 0$ .Measurements of the small-scale anisotropy of the CMB, in combination with WMAP's measurements of the degre-scale anisotropy,provide a powerful probe of early-universe physics.Increasing the angular dynamic range of CMB measurements can improve the constraints on the shape of the primordial power spectrum of curvature perturbations [5-7].Moreover,hight resolution measurements of the smal-scale CMB can limit the total massof neutrinos,the efective number of relativistic species and the primordial helium abundance [3, 4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Slow-rollinfationary models generically produce a nearly scale-invariant primordial power spectrum of curvature perturbations.Hence,measuring deviations from scale invariance of the spectrum is a critical test of cosmological infation.For a power-lawparameterizationof the spectrum motivated by infationary models with featureless inflaton potentials,the exact scale-invariant spectrum is excluded at more than 99%confidence level by the 7-year WMAP data [2].Other various parameterizations of the spectrum have been considered: for example,a broken spectrum [8] caused by an interruptionof the inflaton potential[9],a cutoff at large scales[10,11] motivated bysuppression of the lower multipoles in the CMB anisotropies [12,13],and morecomplicated shapes of the spectrumcaused by features in the inflaton potential[14].However,a strong theory prioron the form of the primordial power spectrum could lead to misinterpretationand biases in parameter determination.Recentlysome model-independent approaches have been proposed to reconstruct the shape of the primordial power spectrum,based on linear interpolation [15], cubic spline interpolation inlog-log space[6,7],a minimaly-parametric reconstruction[16],wavelet expansions[7], principlecomponent analysis [18],anda direct reconstruction via deconvolution methods[19-21].In these works,the primordial power spectrum has been constrained within the context of the minimal $\\Lambda$ CDM model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,recent CMB measurements by the ACT and SPT experiments have revealed somewhat les fuctuation power atsmallangular scales than expected in the standard ACDM model.Except for with the helpof the primordial power spectrum with a large negative running spectral index, such a smal-scale suppresion in the CMB angular power spectrum can also be explained by extra relativistic degreeof freedom or additional primordial helium abundance [3,4].Moreover,the addition of masive neutrinos can affect the CMB anisotropies bychanging the matter-to-radiation ratio around the photon decoupling epoch [1] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, we reconstruct the shape of the primordial power spectrum in the extended $\\Lambda$ CDM models, including addition of masive neutrinos,extra relativistic species or varying primordial helium abundance.In order to reduce the degeneracy between the primordial power spectrum and the extension parameters,we use the seven-year WMAP data incombination with small-scale CMB data from the ACT during its 2008 seasonand the SPT during 2008 and 2009,and adopt two main astrophysical priors on the Hubble constant ( $H _ { 0 }$ ）measured from the magnitude-redshift relation of low $z$ Type Ia supernovae and on the distance ratios of the comoving sound horizon to the angular diameter distances from the Baryon Acoustic Oscilltion (BAO) in the distribution of galaxies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as folows. In Section II we describe the reconstruction method of the primordial power spectrum and the extended models in whichthe power spectrum is reconstructed.In Section II we describe the data used in our analysis and then present our results. Section IV is devoted to our conclusions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. BEYOND THESTANDARD MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In standard ΛCDM model, the primordial power spectrum is commonly parameterized as a power law, there are three light neutrino species in the early Universe,and big bang nucleosynthesis (BBN) took place with specific predictions for primordial element abundances.In this work,we consider simple extensions of the standard ACDM model icluding (i) general form of the primordial power spectrum,(ii)addition of masive neutrinos,(ii extra relativistic species,(iv) varying primordial helium abundance.Each type of model is in detail described below. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Primordial power spectrum: The primordial power spectrum, $\\mathcal { P } ( k )$ , is related to the angular power spectrum of the CMB by a radiative transfer function $\\Delta _ { l } ^ { X } \\left( k \\right)$ via ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { l } ^ { X Y } = \\int d \\ln k \\mathcal { P } ( k ) \\Delta _ { l } ^ { X } ( k ) \\Delta _ { l } ^ { Y } ( k ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $X , Y$ denote the various temperature and polarization modes.Given a specific ansatz for the primordial power spectrum motivated by theoretical models,one canft itto the data.Alternatively,given our complete ignorance of the underlying physics of the very early Universe,onecan reconstruct the shape of the primordial power spectrum from existing data.In this paper,we use the method proposed in [6] to perform a reconstruction of the primordial power spectrum in the extended ACDM models.We divide the spectrum into three bins equally spaced in logarithmic wavenumber between $0 . 0 0 0 2 ~ \\mathrm { M p c ^ { - 1 } }$ and $0 . 2 ~ \\mathrm { M p c ^ { - 1 } }$ .We use a cubic spline interpolation to determine logarithmic value of the spectrum between knots. Outside of the wavenumber range we fix the slope of the spectrum at the boundaries since the CMB data place only weak constraints on them. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Massive neutrinos: If the neutrinos are non-relativistic at the present epoch and their mass eigenstates are degenerate,then the energy density parameter, $\\Omega _ { \\nu }$ , can be written in terms of the total mass of neutrinos as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { \\nu } h ^ { 2 } \\simeq \\frac { \\sum m _ { \\nu } } { 9 4 \\mathrm { e V } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which as a dark matter component in the Universe cannot be negligible even for a neutrino mass as small as $m _ { \\nu } = 0 . 0 7$ eV,as established by the solar and atmospheric neutrino oscilltions experiments [22]. Here, $h$ is the dimensionless Hubble parameter such that $H _ { 0 } = 1 0 0 h \\mathrm { \\ k m s ^ { - 1 } M p c ^ { - 1 } }$ . However, at the photon decoupling epoch neutrinos were still relativistic as long as $\\sum m _ { \\nu } < 1 . 8 \\mathrm { ~ e ~ }$ V, and thus the matter density at decoupling was actually smaller than a naive extrapolation from the present value.This leads to accelerating decay of gravitational potential around the decoupling epoch.Therefore,bychanging the mater-to-radiationratio the massive neutrinos modifythe CMB power spectrum[1]. Detecting this efect on the CMBanisotropies allows us to establish the absolute neutrino mass cale 23]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extra relativistic species: In the standard model of particle physics thereare threelight neutrino species.The tota energy density of relativistic neutrinos is related to the photon energy density, $\\rho _ { \\gamma }$ ，via ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\nu } = \\frac { 7 } { 8 } \\left( \\frac { 4 } { 1 1 } \\right) ^ { 4 / 3 } N _ { \\mathrm { e f f } } \\rho _ { \\gamma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\mathrm { e f f } }$ is the effective number of neutrino species that is used to parameterize the relativistic degree of freedom. Three light neutrino species correspond to $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ , which slightly exceeds 3 because electron-positron annihilation at neutrino decoupling provides residual neutrino heating [24]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The addition of extra relativistic species increases the expansion rate prior to and during the photon decoupling epoch and thereby increases the angular scales of photon diffsion,as explained in [25]. Thus,increasing $N _ { \\mathrm { e f f } }$ reduces fuctuation power atsmallangularscales.The efect from extrarelativistic species notonlyproduces anearly constant decrease in the angular power spectrum at $l > 2 0 0$ but also alters its shape at $l > 2 0 0$ [25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Primordial helium abundance: In the standard BBN model,the predicted valueof the primordial heliumabundance, $Y _ { p }$ ,is generally related to the baryon density and the effective number of relativistic species.For the $\\Lambda$ CDM model, the uncertainty in the baryon density leads to the $\\sim 0 . 0 2 \\%$ uncertainty in the helium abundance,as $N _ { \\mathrm { e f f } }$ is fixed to its standard value of 3.046.Therefore,for CMB analysis the primordial helium abundance is usuall assumed to （204号 $Y _ { p } = 0 . 2 4$ [1-3]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the helium recombination happens much earlier than the hydrogen recombination,the number densityof free electrons at the hydrogen recombination is given by $n _ { e } = n _ { b } ( 1 - Y _ { p } )$ where $n _ { b }$ is the baryon number density [26].A large $Y _ { p }$ decreases the value of $n _ { e }$ and thereby increases the mean free path of photon. This leads to lower fluctuation power in the damping tail of the CMB.We can extend the BBN prior by promoting $Y _ { p }$ to a free parameter and then use the CMB data to probe the helium abundance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To summarize,we consider the extended $\\Lambda$ CDM models described by the parameters ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\Omega _ { b } h ^ { 2 } , \\Omega _ { c } h ^ { 2 } , \\Theta _ { s } , \\tau , A _ { 1 } , A _ { 2 } , A _ { 3 } , X \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\Omega _ { b } h ^ { 2 }$ and $\\Omega _ { c } h ^ { 2 }$ are the physical baryon and cold dark matter densities relative to the critical density, $\\Theta _ { s }$ is the ratio of the sound horizon to the angular diameter distance at decoupling, $\\tau$ is the reionization optical depth, $A _ { i } \\equiv { \\underline { { \\underline { { \\mathbf { \\Pi } } } } } }$ （204号 $\\ln [ 1 0 ^ { 1 0 } \\mathcal { P } ( k _ { i } ) ] ( i = 1 , 2 , 3 )$ are the logarithmic values of the primordial power spectrum at knots $k _ { i }$ ，and $\\begin{array} { r } { X = \\sum m _ { \\nu } } \\end{array}$ ， （204 $N _ { \\mathrm { e f f } }$ or $Y _ { p }$ is the extension parameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. COSMOLOGICAL CONSTRAINTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section,we first describe the CMB data from the WMAP satelite,the ACTand SPT experiments,and astrophysical priors used in our analysis.We then combine these data sets to constrain the extended ACDM models and present our results. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data: We use the 7-year WMAP (WMAP7) data including the high- $\\it l$ TT power spectrum in $l \\leq 1 2 0 0$ and TE power spectrum in $\\iota \\leq 8 0 0$ ,and the low- $\\it { l }$ temperature ( $2 \\leq l \\leq 3 2$ ）and polarization ( $2 \\leq l \\leq 2 3$ ）data. We consider the Sunyaev-Zel'dovich (SZ) efect,in which CMB photons scatter offhot electrons in clusters of galaxies.Given a SZ template the effect is described by a SZ template amplitude $A _ { \\mathrm { S Z } }$ as in the WMAP papers [1, 2]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We use the 148 GHz ACT data during its 2008 season.The focus is on using the band powers in the multiple range $1 0 0 0 < l < 3 0 0 0$ to improve constraints on primary cosmological parameters. Following [3] for computational efficiency the CMB is set to zero above $l = 4 0 0 0$ where the contribution is subdominant, less than 5% of the total power. To use the ACT likelihood described in [3],aside from $A _ { \\mathrm { S Z } }$ there are two more secondary parameters, $A _ { p }$ and $A _ { c }$ .The former is the total Poisonpower fromradio and infrared point sources.The latter is the template amplitude of the clustered power from infrared point sources.We impose positivity priors on the thre secondary parameters, use the SZ template and the clustered source template provided by the ACT likelihood package,and marginalize over these secondary parameters to account for SZ and point source contamination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We also use the 150 GHz SPT data during 2008 and 2009.We focus on the temperature power spectrum binned in 40 band powers in the multiple range $1 0 0 0 < l < 3 0 0 0$ . Following [4] Gaussian priors on the three secondary parameters are adopted in our analysis. The priors on the Poisson power, cluster power and SZ power are $A _ { p } = 1 9 . 3 \\pm 3 . 5 \\mu \\mathrm { K } ^ { 2 }$ ， $A _ { c } = 5 . 0 \\pm 2 . 5 ~ \\mu \\mathrm { K } ^ { 2 }$ and $A _ { \\mathrm { S Z } } = 5 . 5 \\pm 3 . 0 ~ \\mu \\mathrm { K } ^ { 2 }$ , respectively. Moreover,we require these secondary parameters to be positive.As discussed in[4],constraints on cosmological parameters do not depend strongly on these priors.The foreground terms are used only when calculating the SPT likelihood;they are not used when calculating the WMAP likelihood. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To improve constraints on cosmological parameters we follw the methodology described in[1,2] to consider the additionof distance measurements from astrophysical observations,on the angular diameter distances measured from BAO in the distribution of galaxies,and on the Hubble constant measured from the magnitude-redshift relation of low- $z$ Type Ia supernovae. The Gaussian priors on the distance ratios are $r _ { s } / D _ { V } ( z = 0 . 2 ) = 0 . 1 9 0 5 \\pm 0 . 0 0 6 1$ and （204号 $r _ { s } / D _ { V } ( z = 0 . 3 5 ) = 0 . 1 0 9 7 \\pm 0 . 0 0 3 6$ , derived from the two-degree field galaxy redshift survey and the sloan digital sky survey data [27]. Here $r _ { s }$ is the comoving sound horizon size at the baryon drag epoch and $D _ { V }$ is the effective distance measure for angular diameter distance. The Gaussan prior on the Hubble constant is $H _ { 0 } = 7 4 . 2 \\pm 3 . 6$ km （20号 $\\mathrm { s ^ { - 1 } \\ M p c ^ { - 1 } }$ , derived from the magnitude-redshift relation of 240 low- $z$ Type Ia supernovae at $z < 0 . 1$ [28]. The error includes both statistical and systematical errors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results:We use a modified version of the publicly available CosmoMC package to sample the parameter space by means of Monte Carlo Markov Chains technique [29].We also use the WMAP likelihood,the ACT likelihood and the SPT likelihood codefor parameter estimation.Figure 1 shows the reconstructed primordial power spectrum of curvature perturbations in the standard $\\Lambda$ CDM model (top-left panel) and non-standard models with massive neutrinos (top-right panel)，with varying relativistic species (bottom-left panel) andavarying primordial helium abundance (bottom-right panel),respectively,derived from WMAP7+H+BAO combined with the ACT smal-scale ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e10c55495ff7113d4c4378bd88efb073c1330c3b3cce896882fe1acbdd1770e2.jpg",
+        "img_caption": [
+            "FIG.1: Reconstruction of the primordial power spectrum of curvature perturbations, ${ \\mathcal { P } } ( k )$ ， from WMAP7 $^ +$ ACT+ $\\cdot H _ { 0 ^ { - } }$ -BAO, assuming $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ and $Y _ { p } = 0 . 2 4$ (top-left panel); $\\sum m _ { \\nu } = \\mathrm { f r e e }$ ， $N _ { \\mathrm { e f f } } = 0$ and $Y _ { p } = 0 . 2 4$ (top-right panel); （204号 $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = \\mathrm { f r e e }$ and $Y _ { p } = 0 . 2 4$ (bottom-left panel); $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ and $Y _ { p } = \\mathrm { f r e e }$ (bottom-right panel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CMB data.We can se that in the standard model the scale-invariant spectrum is disfavored by the data at $9 5 \\%$ （204 confidence level. Including massive neutrinos enhances the primordial spectrum at low- $k$ but suppresses it at middle- $k$ due to an enhancement in the so-calledearly integrated Sachs-Wolfe efect.Hence,the spectrum becomes flatat large scales.However,there is no significant degeneracybetween masive neutrinos and the primordial power spectrumat small scales.Therefore,the scale-invariant spectrum is marginallydisfavored by the data in the presenceof massive neutrinos.In the extended model with freenumberof relativistic species (or free abundance ofprimordialhelium), the scale-invariant spectrum can lie well within the 95%confidence region because the considerable degeneracy between relativistic species (orhelium abundance)and the spectrumresultsinlarge errors andan enhancement ofthe spectrum at high- $k$ . Compared to varying relativistic species,varying helium abundance leads to larger uncertainties of the primordial spectrum at both low- $k$ and high- $k$ . Varying helium abundance affects the primordial spectrum at small scales by modifying the recombination process.It indirectlyafects the primordial spectrumat largescales due to the correlation between $A _ { 1 }$ and $A _ { 3 }$ as shown in Figure 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In TableIwe list the estimated values of the primordial power spectrum as wellas the extension parameters beyond the standard model. For a flat $\\Lambda$ CDM model with a power-law power spectrum, the WMAP7+ $H _ { 0 }$ +BAO limit on the total mass of neutrinos is $\\sum m _ { \\nu } < 0 . 5 8$ eV(95% CL)[2]. In our model we find that the WMAP7+ACT+H $( 0$ +BAO limit is $\\sum m _ { \\nu } < 0 . 4 8 ~ \\mathrm { e V }$ ( $9 5 \\%$ CL).The upper limit on the total mass of neutrinos is improved by adding the smallscale ACT data. With the WMAP7 $^ +$ ACT+ $H _ { 0 } +$ BAO data combination, the effective number of neutrino species is estimated to be $N _ { \\mathrm { e f f } } = 4 . 5 0 \\pm 0 . 8 1$ (68% CL),which indicates that a Universe with no relativistic neutrinos is excluded at $5 . 6 \\sigma$ and the standard model with $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ is consistent at $1 . 8 \\sigma$ .This estimated value is consistent with the effective number of relativistic species estimated in the power-law ACDM model from the WMAP7+ $\\boldsymbol { { H } } _ { 0 }$ +BAO data, （204号 $N _ { \\mathrm { e f f } } = 4 . 3 4 \\pm 0 . 8 8$ (68% CL) [2],and from the WMAP7 $^ +$ ACT+ $H _ { 0 }$ +BAO data, $N _ { \\mathrm { e f f } } = 4 . 5 6 \\pm 0 . 7 5$ (68% CL） [3]. Therefore,the constraints on the efective number of relativistic species do not depend stronglyonadditional degree of freedom of the power spectrum.For CMB analysis the primordial helium abundance is ususally assumed to be ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/24a44a24f2063b845d625901643d9cc94ccdb9f91302225de053a4fe5cec2b1e.jpg",
+        "img_caption": [
+            "FIG.2:Two-dimensional joint marginalized constraints ( $6 8 \\%$ and 95% C.L.）on the primordial power spectrum parameters $A _ { 1 }$ ， $A _ { 2 }$ and $A _ { 3 }$ ,derived from WMAP7 $^ +$ ACT+Ho+BAO. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/074ed46c23343282e2a94ddb598e41f1915781277147cb2ab82dc7e56bb975bd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>ACDM+P(k)ACDM+P(k) ACDM+P(k) ACDM+P(k) +∑mv</td><td>+Neff</td><td>+Yp</td></tr><tr><td>A1</td><td></td><td></td><td>3.054 ±0.159 3.114 ±0.165 3.039 ±0.162 3.114 ±0.172</td><td></td></tr><tr><td>A2</td><td></td><td></td><td>3.179±0.035 3.164±0.036 3.188±0.033</td><td>3.173±0.034</td></tr><tr><td>A3</td><td></td><td></td><td>3.002±0.049 3.004±0.049 3.079±0.060 3.049±0.073</td><td></td></tr><tr><td>∑mv</td><td>0</td><td><0.48eV</td><td>0</td><td>0</td></tr><tr><td>Neff</td><td>3.046</td><td>0</td><td>4.50±0.81</td><td>3.046</td></tr><tr><td>Yp</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.303±0.075</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Mean values and marginalized $6 8 \\%$ confidence level for the primordial power spectrum parameters and extension parameters,derived from WMAP7 $^ +$ ACT+Ho+BAO.For the total mass of neutrinos, the $9 5 \\%$ upper limit is given. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { p } = 0 . 2 4$ . When it is allowed to vary, we find $Y _ { p } = 0 . 3 0 3 { \\pm } 0 . 0 7 5$ (68% CL) using the WMAP7 $^ +$ ACT+Ho+BAO data This mean value is lower than predicted in the power-law ACDM from the WMAP7+ACT data, $Y _ { p } = 0 . 3 1 3 \\pm 0 . 0 4 4$ (68% CL),because suppressd power spectrum of primordial curvature perturbations at smal scales contributes to enhanced Silk damping of the CMB angular power spectrum. However,the degeneracy between the power spectrum and the helium abundance leads to larger uncertainties in $Y _ { p }$ compared to the power-law spectrum. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/887d1c52094ced3e70be936904d6ac2bc0326e86e9e0dae41293c599a14e99b1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>ACDM+P(k) ACDM+P(k) ACDM+P(k) ACDM+P(k)</td><td>+∑mv</td><td>+Neff</td><td>+Yp</td></tr><tr><td>A1</td><td></td><td></td><td>3.048 ±0.143 3.074 ±0.147 3.046 ±0.147</td><td>3.117 ± 0.171</td></tr><tr><td>A2</td><td></td><td></td><td>3.176 ±0.032 3.168 ±0.033 3.181 ±0.032</td><td>3.170 ± 0.034</td></tr><tr><td>A3</td><td></td><td></td><td>3.007 ±0.040 3.004 ±0.040 3.067 ±0.059</td><td>3.043 ± 0.063</td></tr><tr><td>∑mv</td><td>0</td><td><0.45 eV</td><td>0</td><td>0</td></tr><tr><td>Neff</td><td>3.046</td><td>0</td><td>3.86 ±0.63</td><td>3.046</td></tr><tr><td>Yp</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.277 ± 0.050</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TABLE II: Mean values and marginalized 68%confidence level forthe primordial powerspectrumparametersand extension parameters,derived from WMAP7 $^ +$ SPT+Ho+BAO.For the total mass of neutrinos, the $9 5 \\%$ upper limit is given. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The_constraints on the power spectrum andextension_parameters from the combination data of WMAP7 $^ +$ SPT+ $H _ { 0 }$ +BAO are shown in Figure 3 and listed in Table II. Compared to the ACT data,the addition of the SPT data reduces uncertainties in the power spectrum at smallscales. The scale-invariant spectrum is disfavored at $2 \\sigma$ even in the extended model with massive neutrinos.The conclusion that the scale-invariant spectrum is not excluded at $2 \\sigma$ confidence level if either the effective number of relativistic species or the helium abundance is allowed to vary, is confirmed by using the WMAP7 $^ +$ SPT+ $H _ { 0 } +$ BAO data. The combination data constrain the total mass of neutrinos to be $\\sum m _ { \\nu } < 0 . 4 5$ eV(95% CL),which is almost consistent with the result listed in Table I. We find that the WMAP7 $^ +$ SPT+Ho+BAO limit on the effective number of relativistic species is $N _ { \\mathrm { e f f } } = 3 . 8 6 \\pm 0 . 6 3$ （204号 (68% CL).In the power-law model, the constraint improves to be $N _ { \\mathrm { e f f } } = 3 . 8 6 \\pm 0 . 4 2$ (68% CL） [4]. Compared to the ACT data, the SPTdata prefers to a smallefective numberof relativistic species.If the helium abundance is free to vary,we find the constraint is $Y _ { p } = 0 . 2 7 7 \\pm 0 . 0 5 0$ （68% CL) from WMAP7 $^ +$ SPT+ $H _ { 0 }$ +BAO. This mean value is lower than the result in the power-law model presented in [4], $Y _ { p } = 0 . 3 0 0 \\pm 0 . 0 3 0$ (68% CL). Moreover, compared to the ACT data, the SPT data prefers to a low helium abundance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/440098f2395b1c96e24226f172ddb9e4daabb007360bf1215e940f512a2e1f6f.jpg",
+        "img_caption": [
+            "FIG.3: Reconstruction of the primordial power spectrum of curvature perturbations, $\\mathcal { P } ( k )$ , from WMAP7 $^ +$ SPT+ $H _ { 0 } -$ -BAO, assuming $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ and $Y _ { p } = 0 . 2 4$ (top-left panel); $\\sum m _ { \\nu } = \\mathrm { f r e e }$ ， $N _ { \\mathrm { e f f } } = 0$ and $Y _ { p } = 0 . 2 4$ (top-right panel); （204号 $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = \\mathrm { f r e e }$ and $Y _ { p } = 0 . 2 4$ (bottom-left panel); $\\sum m _ { \\nu } = 0$ ， $N _ { \\mathrm { e f f } } = 3 . 0 4 6$ and $Y _ { p } = \\mathrm { f r e e }$ (bottom-right panel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is known thatadditionof massive neutrinoscan influence the CMB spectrumbychanging the matter-to-radiation ratio around the photon decoupling epoch,that extra relativistic species can suppress the CMB damping tail by increasing the expansion rate priorto and during the decoupling epoch,and that excessive helium abundance can also suppress the CMB power at smallangular scales by decreasing the number densityof free electrons at the hydrogen recombination. Therefore,the extension parameters can mimic the shape of the primordial power spectrum and meanwhile the general form of the primordialpower spectrum canafect the constraints on theextension parameters. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In such extended ACDM models, we have reconstructed the shape of the primordial power spectrum of curvature perturbations by using the cubic spline interpolation method in log-log space.To reduce the degeneracy between the primordial power spectrum and the extension parameters, we use the CMB data from WMAP7+ACT and WMAP7 $^ +$ SPT in combination with measurements of the Hubble constant and the BAO feature.Even if massive neutrinos areincluded in the early Universe,the scale-invariant spectrum is disfavored bythecombineddata at 95% confidence level. Iftheefective number of relativistic species (or the primordialhelium abundance) is allowed to vary, then the scale-invariant spectrum can lie within the $2 \\sigma$ bound because of the considerable degeneracy between $A _ { 3 }$ and （204号 $N _ { \\mathrm { e f f } }$ (or $Y _ { p }$ ). Moreover, we found that the two data sets yield nearly the same limit on the total mass of neutrinos. Compared to the SPT data,the ACTdata mildly prefers toalarge effective number of relativistic species or a large primordial helium abundance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The contribution from tensor modes was considered when testing for the shape of the primordial power spectrum in [6].Under the assumption of a sale-invariant tensor spectrum,including tensor modes cansuppressthe spectrum at large scales.In this case the reconstructed spectrum deviates from the scale-invariant one at 95% confidence level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank Y.Y.Y. Wong for useful discussions. Our numerical analysis was performed on the Lenovo DeepComp 7000 supercomputer in SCCAS.This work is partially supported by the project of Knowledge Innovation Program of Chinese Academy of Science,NSFC under Grant No.11175225,and National Basic Research Program of China under Grant No:2010CB832805.We used CosmoMC and CAMB.We also acknowledge the use of WMAP data,ACT data and SPT data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]E.Komatsu,et al.,Astrophys.J. Suppl.180,330 (2009) [arXiv:0803.0547]. 2 E.Komatsu,et al.,Astrophys. J. Suppl.192,18 (2011) [arXiv:1001.4538]. J.Dunkley,et al.,arXiv:1009.0866; R.Keisler,et al.,arXiv:1105.3182. R. Hlozek, et al.,arXiv:1105.4887. Z.K.Guo,D.J. Schwarz and Y. Z. Zhang, JCAP 08,031 (2011) [arXiv:1105.5916]. Z. K. Guo and Y. Z. Zhang, JCAP 11, 032 (2011) [arXiv:1109.0067]. A.Blanchard,M.Douspis,M.Rowan-RobinsonandS.Sarkar,Astron.Astrophys.412,35 (03)[arXiv:astroph/0304237 [9]J.Barriga,E.Gaztanaga,M.SantosandS.SarkarMon.Not.Roy.Astron.Soc.324,977(200l)[arXiv:astro-ph/0011398]. 10] G.Efstathiou,Mon.Not.Roy. Astron. Soc.343,L95 (2003) [arXiv:astro-ph/0303127]. [11] M.Bridges,A.N.LasenbyandM.P.Hobson,Mon.Not.Roy.Astron.Soc.369,1123(2006)[arXiv:astro-ph/0511573]; M.Bridges,A.N.Lasenby and M.P. Hobson, Mon. Not.Roy.Astron.Soc.381,68 (2007)[arXiv:astro-ph/0607404]. [12] M.R.Nolta,et al.,Astrophys.J. Suppl.180,296 (2009) [arXiv:0803.0593]. 13] C.J. Copi, D.Huterer,D. J. Schwarz and G. D.Starkman,Adv.Astron.2010,847541 (2010)[arXiv:1004.5602]. [14]A.A.StarobinskyJETPLett55,489(1992)；J.A.Adams,G.G.RossandS.Sarkar,Nucl.Phys.B503,405(997) [arXiv:hep-ph/9704286]; M.Aich,etal.,arXiv:1106.2798;T.Bringmann,P.ScottandY.Akrami,arXiv:1110.2484. [15] S.L.Bridle，A.M.Lewis，J.Weler and G.Efstathiou Mon.Not.Roy.Astron.Soc.342，L72 (2003) [arXiv:astro-ph/0302306]; S. Hannestad, JCAP 0404, 002 (2004) [arXiv:astro-ph/0311491]. [16]C.Sealfon,L.VerdeandR.Jimenez,Phys.Rev.D72,103520(2005)[arXiv:astro-ph/0506707];L.VerdeandH.V.Peiris, JCAP 0807,009 (2008)[arXiv:0802.1219]; H.V.PeirisandL.Verde,Phys.Rev.D81,021302 (2010)[arXiv:0912.0268]. [17]P.MukherjeandY.Wang，Astrophys.J.598,779(2003)[arXiv:astro-ph/0301562];P.MukherjeeandY.Wang, Astrophys.J.599，1(2003）[arXiv:astro-ph/0303211]；P. Mukherjee and Y.Wang，JCAP 0512，007 （2005) [arXiv:astro-ph/0502136]. [18]W.HuandT.Okamoto,Phys.Rev.D69,043004(2004)[arXiv:astro-ph/0308049]; S.Leach,Mon.Not.Roy.Astron.Soc. 372,646 (2006）[arXiv:astro-ph/0506390]. [19]N.Kogo,M.Matsumiya,M.SasakiandJ.Yokoyama,Astrophys.J.607,32(2004)[arXiv:astro-ph/0309662]; R.Nagata and J.Yokoyama,Phys.Rev.D78,123002 (2008)[arXiv:0809.4537]; R.Nagata and J.Yokoyama,Phys.Rev.D79, 043010 (2009）[arXiv:0812.4585];K.IchikiandR.Nagata,Phys.Rev.D80,083002(2009)；K.Ichiki,R.Nagataand J.Yokoyama,Phys.Rev.D 81,083010 (2010) [arXiv:0911.5108]. [20]A.ShafielooandT.Souradeep,Phys.Rev.D70,043523 (2004)[arXiv:astroph/0312174];A.ShafielooandT.Souradeep Phys.Rev.D78,023511 (2008)[arXiv:0709.1944]; J. Hamamn,A.Shafelooand T.Souradeep,JCAP1004,010(2010) [arXiv:0912.2728]. [21]D.Tocchini-Valentini,M.Douspisand J.Silk,Mon.Not.Roy.Astron.Soc.359,31(2005）[arXiv:astro-ph/0402583]; D.Tocchini-Valentini,Y.Hofmanand J.Silk,Mon.Not.Roy.Astron.Soc.367,1095 (2006)[arXiv:astro-ph/0509478]. [22] M.C.Gonzalez-Garcia,M. Maltoni and J. Salvado,JHEP 1004,056 (2010) [arXiv:1001.4524]. [23]C.P.Maand E.Bertschinger，Astrophys.J.455,7(195）[arXiv:astro-ph/9506072]；J.Hamann,etal.，Phys.Rev. Lett.105,181301 (2010)[arXiv:1006.5276]; Y.Y.Y.Wong,Ann.Rev.Nucl.Part.Sci.61,69 (2011)[arXiv:1111436]; A. G.Doroshkevich and M. Yu.Khlopov, Sov. Astron.Lett.9,171 (1983). [24] G. Mangano,et al., Nucl. Phys.B 729,221 (2005) [arXiv:hep-ph/0506164]. [25]Z.Hou,etal.,arXiv:104.23；M.Archidiacoo,E.CalabreseandA.Melchioi,arXiv:109.2767；M.Benetital, Phys.Rev. D 84,063509 (2011) [arXiv:1107.4992]. [26] W.Hu,D. Scott, N. Sugiyama and M. White,Phys. Rev.D 52, 5498 (1995) [arXiv:astro-ph/9505043]. 27] W.J.Percival, et al.，Mon. Not.Roy. Astron. Soc. 401,2148 (2010) [arXiv:0907.1660]. 28] A. G.Riess,et al., Astrophys. J. 699, 539 (2009) [arXiv:0905.0695]. [29] A.Lewis and S. Bridle, Phys.Rev. D 66,10351i (2002) [arXiv:astro-ph/0205436]. ",
+        "page_idx": 6
+    }
+]

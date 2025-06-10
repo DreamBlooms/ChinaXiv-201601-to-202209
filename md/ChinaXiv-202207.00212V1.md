@@ -1,0 +1,257 @@
+# 天线座架非均匀温度场及热致变形研究
+
+易乐天¹，许谦1,2.3，李琳4，王惠1
+
+(1.中国科学院新疆天文台，新疆乌鲁木齐830011；2.中国科学院射电天文重点实验室，江苏 南京 210033；3．新疆射电天体物理重点实验室，新疆乌鲁木齐830011；4．新疆大学物理科学与技术学院，新疆 乌鲁木齐830046)
+
+摘 要：针对天线座架由于太阳辐照引起的非均匀温度热致变形问题，建立了天线座架环境参数模型、太阳辐照参数模型以及座架结构几何模型，可实现多种工况下的天线座架结构热力学仿真，基于综合模型对天线座架温度特性进行了分析；在天线座架结构上布设了24枚光纤光栅温度传感器，实测温度数据与仿真温度场的相对精度高于 $8 5 \%$ ，验证了仿真方法的正确性。结合推导建立的天线结构位移场到天线方位轴偏差的几何关系和实测温度特征数据，可实现由实测温度到座架结构变形的快速计算，并对天线座架轴系偏差产生的原因进行了分析，可为天线座架热致轴系偏差补偿提供基准。
+
+关键词：天线；座架；非均匀温度；变形；温度测量中图分类号：P111 文献标识码：A 文章编号：1672-7673（2022）06
+
+位于乌鲁木齐县南山风景区的中国科学院新疆天文台南山 25m 射电望远镜（NanShanRadio Telescope，NSRT）始建于1993年，是方位-俯仰轮轨式赋型卡赛格林天线。天线于2015年完成系统性的升级改造，观测频段提升至43GHz，改造后观测频段的提升给天线指向精度和型面精度带来了新的挑战。根据观测工程师的指向实际测量，NSRT天线指向误差在白天最高可达 $2 0 ^ { \prime \prime } \sim 3 0 ^ { \prime \prime }$ 。初步分析认为，这部分指向误差的主要来源是太阳辐照引起的座架非均匀温度，以及由此产生的热致座架结构形变，严重限制了NSRT用于高频观测的时间。NSRT 面临的热致误差问题对于中高频射电望远镜并不鲜见，随着现代全可动射电望远镜向大口径方向发展，太阳辐照引起的天线非均匀温度场及结构热致变形问题引起了众多国内外天文领域工程师和研究人员的关注[2-10]。相关研究难点集中在天线热力学特性和热致变形的分析方法。部分研究在天线结构关键位置处布设少量传感器，通过回归分析等数据分析方法建立天线误差和温度测量数据的经验模型。部分学者通过有限元热分析直接根据天线热环境参数仿真获取天线结构温度场，但热力学有限元分析中影响仿真结果准确程度的敏感参数众多，需要把握天线热力学环境对天线温度场分布产生主要作用的关键因素，着重处理计算精度、建模细节与计算效率三者之间的矛盾。由于射电望远镜热环境以及工作情况的复杂性，单纯的热力学分析方法的准确度有待提高。综合国内外研究现状来看，通过在天线结构关键位置上布设少量温度传感器，并利用测量数据对天线温度场热力学分析模型进行修正，是较有希望解决如何准确获取天线结构全局温度场这一难题较为可行的方法。
+
+前期项目组进行了温度场仿真和实测[10],但在仿真中尚未考虑阴影遮挡对结构温度分布产生的影响。本文针对 NSRT 天线昼间指向误差增大问题，首先在 25m天线座架上布设若干温度传感器和一台太阳辐射传感器，对座架关键点温度和太阳辐射参数进行测量，并基于测量数据建立了对25m天线座架进行了热力学建模和多工况下结构温度场仿真，计算了部分工况下天线座架由非均匀温度产生的倾斜情况，并分析了产生热变形的原因。
+
+# 1天线座架温度特性分析
+
+射电望远镜在跟踪观测模式时，其俯仰角、方位角随着射电源位置而缓慢变化，由于射电源的运动规律与太阳光线运动规律一致，天线在此工况下其相对太阳的姿态在短时间内不会发生大幅度变化，一般来说气温、云量、风速等热环境参数在短时间内是稳定的，可以认为天线结构在一个较短时间周期内处于准稳态热力学状态。观测时间较长或射电望远镜切换观测源使天线相对太阳的姿态角发生了较大的变化时，天线结构热力学输入随之产生较大变化，此时天线温度场分析属于瞬态热力学问题，可以建立瞬态热力学方程并求解天线结构温度场。
+
+# 1.1天线热环境模型
+
+对具体的天线座架结构而言，单元热输入由以下几部分构成[1：
+
+(1）总辐射热量 $q _ { \mathrm { r } }$
+
+太阳总辐射热量是天线结构表面热量最主要的来源，对于处在露天环境下的天线结构，受到的热辐射主要有太阳直射、地面反射、天空散射。
+
+太阳直射辐射强度可以由
+
+$$
+\begin{array} { r } { G _ { d } = A \cdot C _ { \mathrm { N } } \cdot \mathrm { e } ^ { - B / \sin \beta } \cdot \cos \theta } \end{array}
+$$
+
+计算，其中，A为太阳辐射常数； $B$ 为大气消光系数； $C _ { \mathrm { N } }$ 为大气清洁因子； $\beta$ 为太阳高度角；  
+$\theta$ 为太阳入射方向与物体表面的夹角。
+
+地面反射辐射强度由
+
+$$
+G _ { \mathrm { r } } = 0 . 5 \rho _ { g } \left( 1 + \cos \alpha \right) ( C + \sin \beta ) G _ { \mathrm { d } } / \cos \theta
+$$
+
+计算，其中， $\alpha$ 为物体表面与水平面的夹角； $\rho _ { \mathrm { g } }$ 为地面反射系数，根据天线周围地面覆盖类型取值，碎石路面可取 $0 . 3 { \sim } 0 . 4$ 。
+
+天空背景辐射强度由
+
+$$
+G _ { \mathrm { s } } = 0 . 5 C ( 1 + \cos \alpha ) G _ { \mathrm { d } } \cos \theta
+$$
+
+计算。物体表面接收的总辐射功率为
+
+$$
+\begin{array} { r } { G _ { \mathrm { T } } = \gamma ( G _ { \mathrm { d } } + G _ { \mathrm { s } } + G _ { \mathrm { r } } ) \quad , } \end{array}
+$$
+
+其中，物体表面吸收率 $\gamma$ 根据天线结构件材料表面处理工艺取值，NSRT天线使用富锌底白色醇酸漆，吸收率可以取0.2。
+
+太阳辐射热量为
+
+$$
+q _ { \mathrm { r } } = \iint G _ { \mathrm { T } } d \mathrm { t } d \mathrm { S } \quad .
+$$
+
+(2）对流交换热量 $q _ { \mathrm { c } }$
+
+NSRT 为无天线罩和主动热控手段的天线，天线结构处于自由对流换热环境。处于空气中物体的自由对流换热系数与风速、物体表面形状、物体表面与空温差等因素有关。为降低计算模型的复杂程度，自由对流换热系数由
+
+$$
+h _ { \mathrm { c } } = 4 . 0 v + 5 . 6
+$$
+
+计算，其中， $\mathbf { \Lambda } _ { \nu }$ 为风速，单位为 $m / s$ ，可通过风速风向传感器实测获得。
+
+对流换热量为
+
+$$
+q _ { \mathrm { c } } = \iint h _ { c } d \mathbf { t } d \mathbf { S } .
+$$
+
+(3）热边界条件与初始条件
+
+边界条件定义为天线滚轮在与轨道接触的4个节点处等于大地温度，其中大地温度定义为
+
+$$
+T _ { \mathrm { g } } = T _ { \mathrm { a } } + \Delta T _ { \mathrm { g } } \quad ,
+$$
+
+其中， $T _ { \mathrm { a } }$ 为气温； $\Delta T _ { \mathrm { g } }$ 在白天取 $5 ^ { \circ } \mathrm { C } { \sim } 1 0 ^ { \circ } \mathrm { C }$ ，夜间取 $\cdot 1 0 ^ { \circ } \mathrm { C } \sim - 5 ^ { \circ } \mathrm { C }$ 。
+
+初始条件设置为初始凌晨00:00时结构温度均匀，等于此时的气温。
+
+# 1.2天线座架结构模型
+
+天线座架为桁架式结构，所有梁均采用工字梁截面，三种截面尺寸如图所示，座架构成包括轨道、A型架、一次平台框架、二次平台框架、俯仰轴平台以及辅助框架。天线结构力学和热相关参数如表1。
+
+表1天线座架力学和热参数  
+Table1 Mechanical and thermal parameters of the alidade   
+
+<html><body><table><tr><td>材料</td><td>密度 /(kg·m-3)</td><td>弹性模量 /Gpa</td><td>泊松比</td><td>热导率 /(m·K)</td><td>热胀系 数</td><td>比热容 /J kg℃-1</td><td>参考温度 /℃</td></tr><tr><td>16Mn</td><td>7870</td><td>212</td><td>0.31</td><td>52</td><td>12.8e-6</td><td>480</td><td>10</td></tr></table></body></html>
+
+由于面单元能更好地反映座架间的遮挡情况，并体现截面间的温度梯度，本文采用面单元对座架进行建模，并在结构链接处采取等效热单元对连接处进行简化，建立的结构模型如图1。
+
+![](images/ae38417ef733bcae22a88b095118c7ef57a967e94314fe770f699a98abfe9549.jpg)  
+图1天线座架有限元模型结构图  
+Fig.1FEMof antenna alidade
+
+# 1.3天线结构瞬态热平衡方程
+
+通过有限元方法对连续的天线结构进行单元划分离散化，对于天线结构上的任意单元应满足单元瞬态热平衡方程
+
+$$
+c _ { e } \dot { t } + k _ { e } \left( t \right) t = q _ { e } \left( t \right) ,
+$$
+
+其中， $c _ { e } = \int \rho \cdot c ( t ) d V _ { e }$ 为单元热容； $k _ { e }$ 为单元热导率； $q _ { e }$ 为单元热输入。将其按单元编号集成得到天线结构瞬态热平衡方程
+
+$$
+C ( { \pmb T } ) \dot { \pmb T } + { \pmb K } ( { \pmb T } ) { \pmb T } = { \pmb Q } ( { \pmb T } ) ,
+$$
+
+其中， $T$ 为天线结构温度列阵； $c$ 为热容矩阵； $\pmb { K }$ 为热传导矩阵； $\varrho$ 为热输入矩阵。本文建立矩阵形式的瞬态热力学方程。
+
+![](images/48d28d5127bdd6d5ea5ce61da2a405d0b2a0c54d4fd7314bd7521796d8b8c0a9.jpg)  
+图2建模流程图
+
+建模流程如图2。首先按(1)\~(7)式分析太阳辐照等结构热量输入，按(8)式设定边界条件和初始条件，并如1.2节所述建立天线座架几何结构模型和网格参数，即可建立天线座架结构瞬态热平衡方程(10)式，利用有限元平台可实现该方程的求解，得到对应状态下的座架结构温度分布。
+
+![](images/8d7238670bc8ac8511c8157e189190498e503a743bbd02f9e2b2101d8adaff6d.jpg)  
+Fig.2Modeling flowchart
+
+# 1.4天线座架典型工况下的温度场分布
+
+为了研究天线座架温度场情况，本文以2021年4月26日的实际热流条件为输入，求解(10)式，获取天线座架温度场在一天内的变化，如图3。
+
+![](images/7672f6103682b75dab30b67e7a1df267843950e719bc5b464a053a9cad7210c1.jpg)  
+图3天线座架温度分布云图
+
+# 2天线座架温度测量
+
+在天线座架上布设单点温度测量系统，可以验证和校正天线座架温度仿真精度。首先需针对天线座架结构和温度特性，对传感器进行布局设计。
+
+# 2.1天线座架温度传感器布局
+
+从第1.4节天线温度特性仿真分析结果可知，天线座架在多种可能出现的极端工况下的结构平均温度梯度为 $0 . 2 5 \mathrm { ^ { \circ } C / m }$ ，考虑光纤光栅传感器在 ${ - 2 0 ^ { \circ } C { \sim } 6 0 ^ { \circ } C }$ 下测温精度为 $0 . 5 \mathrm { { ^ circ C } }$ ，传感器的平均间隔 $2 \mathrm { m }$ 为宜，按此间距布设传感器可以充分利用传感器现有精度对天线座架结构温度分布进行还原，同时最大程度上精简传感器数量。综合上述考虑和分析，我们共布设24 个传感器，位置和间距布局如图4。
+
+![](images/20427f10065858f4b3de05df2486ba79e08dc7725059734ee33c61a217968ebb.jpg)  
+Fig.3 The contour of temperature distribution on antenna alidade   
+图4温度传感器布局  
+Fig.4 The layouts for temperature sensors
+
+# 2.2光纤光栅温度测量系统
+
+本文采取光纤光栅温度传感器对结构进行测温，测量系统主要由计算机、光纤光栅解调仪、光缆、分纤箱、光纤皮线以及光纤光栅温度传感器构成(如图5)。相较于传统的接触式测温传感器，如热电偶式PT100 温度传感器和电子芯片式DS18B20 传感器，光纤光栅温度传感器有以下优点：（1）对射电望远镜无电磁干扰问题；（2）传感器分辨率高；（3）可采取串联式的接线方式，布线简单。系统接线图如图6。
+
+![](images/3c7f647db2fb9dbaa2a950868e7af73fad1f231511753c84087dccd809f34c45.jpg)  
+图5光纤光栅温度传感器
+
+![](images/aea20e807f91cadc77ecb590b2b4af3f3ed98da48b48df20a37ee7dbd790c72c.jpg)  
+Fig.5Fiber grating temperature sensor   
+图6温度测量系统接线图  
+Fig.6A wiring diagram for the temperature measurement system
+
+# 2.3天线温度实测数据
+
+通过温度传感器实测所得天线座架上部分位置的温度在一天内的变化曲线如图7。图中红色实线为传感器测量数据，黑色点折线为通过第1节所述仿真方法获取的仿真数据，二者相对精度优于 $8 5 \%$ 。从图7可以看出，仿真方法能够较为准确地反映天线座架的温度分布特点。
+
+![](images/4d0d1cb33009f89991cb28882aa31ba114dd2f0619a55df1176f5a8e073cbff4.jpg)  
+图7传感器实测天线座架温度随时间变化曲线
+
+# 3天线座架热变形分析
+
+天线座架结构的非均匀温度分布会使天线结构产生热变形。以往研究中的热变形需利用热分析工具计算天线温度场，然后作为载荷映射至结构分析有限元模型，从而计算结构温度场，此过程需较长的计算时间。本文通过分析天线座架变形规律，建立有限元节点位移至天线轴系误差的矩阵式关系，有效节省计算时间。
+
+# 3.1天线座架变形参数分析
+
+天线热致轴系误差的快速计算，需要推导建立有限元位移场与天线轴系误差间的几何关系。图8为天线热致轴系误差示意图。
+
+![](images/d03ae77d0f004be659c73d3b471660bee4590cd286bcc9f5e2eb01ed188c53ca.jpg)  
+Fig.7Temperature datameasured by sensors   
+图8天线俯仰轴热致轴系误差示意图  
+Fig.8A schematic on thermally induced shaft deformation of the alidade
+
+如图8， $O _ { f }$ 为固定坐标系， $y$ 轴与天线座架俯仰轴方向平行，z轴垂直于水平基准面；A点和B点为俯仰轴端点， $\scriptstyle A B$ 为俯仰轴。 $o$ 为将 $O _ { f }$ 原点平移至 $A$ 点的坐标系， $A ^ { \prime }$ 点、 $B ^ { \prime }$ 点为热致变形后的 $A$ 点、 $B$ 点， $A ^ { \prime } B ^ { \prime }$ 为热变形后的方位轴；平移 $A ^ { \prime } B ^ { \prime }$ ，使 $A ^ { \prime }$ 点与 $A$ 点重合，此时$B ^ { \prime }$ 平移至 $B ^ { \prime \prime }$ ; $B _ { p }$ 为 $B ^ { \prime }$ 点在 $x { - } O { - } y$ 平面的投影， $\boldsymbol { a }$ 为线 $A B _ { p }$ 与线 AB 的夹角， $\beta$ 为线 $A B _ { p }$ 与线$A ^ { \prime \prime } B ^ { \prime \prime }$ 的夹角。
+
+在 $O _ { f }$ 坐标系中，记 $A$ 点坐标为 $( X _ { a } , Y _ { a } , Z _ { a } )$ ， $B$ 点坐标： $( X _ { b } , Y _ { b } , Z _ { b } )$ ， $A ^ { \prime }$ 点坐标：$\left( X _ { a } ^ { \prime } , Y _ { a } ^ { \prime } , Z _ { a } ^ { \prime } \right)$ ， $B ^ { \prime }$ 点坐标： $( X _ { b } ^ { \prime } , Y _ { b } ^ { \prime } , Z _ { b } ^ { \prime } )$ ，记 $X _ { a b } ^ { \prime } = X _ { b } ^ { \prime } - X _ { a } ^ { \prime }$ ， $Y _ { a b } ^ { \prime } = Y _ { b } ^ { \prime } - Y _ { a } ^ { \prime }$ ， ${ Z _ { a b } ^ { \prime } = Z _ { b } ^ { \prime } - Z _ { a } ^ { \prime } }$ ，向量 $\overrightarrow { A B } = ( X _ { a b } ^ { \prime } , Y _ { a b } ^ { \prime } , Z _ { a b } ^ { \prime } )$ 。
+
+在 $o$ 坐标系中， $A$ 点坐标为 $( 0 , 0 , 0 )$ ， $B$ 点坐标为 $( X _ { b } - X _ { a } , Y _ { b } - Y _ { a } , Z _ { b } - Z _ { a } )$ ，$A ^ { \prime }$ 点坐标： $\left( X _ { a } ^ { \prime } - X _ { a } , Y _ { a } ^ { \prime } - Y _ { a } , Z _ { a } ^ { \prime } - Z _ { a } \right)$ ， $B ^ { \prime }$ 点坐标： $\left( X _ { b } ^ { \prime } - X _ { a } , Y _ { b } ^ { \prime } - Y _ { a } , Z _ { b } ^ { \prime } - Z _ { a } \right)$ ， $B ^ { \prime \prime }$ 点坐标为：$\begin{array} { r } { ( X _ { b } + u _ { b } ^ { \kappa } - ( X _ { a } + u _ { a } ^ { \kappa } ) , Y _ { b } + u _ { b } ^ { \gamma } - ( Y _ { a } + u _ { a } ^ { \gamma } ) , Z _ { b } + u _ { b } ^ { \kappa } - ( Z _ { a } + u _ { a } ^ { \gamma } ) ) = ( X _ { b } - X _ { a } + u _ { b } ^ { \kappa } - u _ { a } ^ { \kappa } , Y _ { b } - Y _ { a } + u _ { b } ^ { \gamma } - u _ { a } ^ { \gamma } , Z _ { b } - Z _ { a } + u _ { b } ^ { \kappa } - u _ { a } ^ { \gamma } ) } \end{array}$ 0$B _ { p }$ 点坐标为 $( X _ { b } ^ { \prime } - X _ { a } ^ { \prime } , Y _ { b } ^ { \prime } - Y _ { a } ^ { \prime } , 0 )$
+
+那么 $\boldsymbol { a }$ 和 $\beta$ 可由下式计算：
+
+$$
+\tan \alpha = { \frac { X _ { b } ^ { \prime } - X _ { a } ^ { \prime } } { Y _ { b } ^ { \prime } - Y _ { a } ^ { \prime } } } = { \frac { X _ { b } - X _ { a } + u _ { b } ^ { x } - u _ { a } ^ { x } } { Y _ { b } - Y _ { a } + u _ { b } ^ { y } - u _ { a } ^ { y } } }
+$$
+
+$$
+\sin \beta = \frac { Z _ { b } ^ { \prime } - Z _ { a } ^ { \prime } } { \sqrt { [ X _ { b } ^ { \prime } - X _ { a } ^ { \prime } ] ^ { 2 } + [ Y _ { b } ^ { \prime } - Y _ { a } ^ { \prime } ] ^ { 2 } + [ Z _ { b } ^ { \prime } - Z _ { a } ^ { \prime } ] ^ { 2 } } }
+$$
+
+$$
+= { \frac { Z _ { b } - Z _ { a } + u _ { b } ^ { z } - u _ { a } ^ { z } } { { \sqrt { [ X _ { b } - X _ { a } + u _ { b } ^ { x } - u _ { a } ^ { x } ] ^ { 2 } + [ Y _ { b } - Y _ { a } + u _ { b } ^ { y } - u _ { a } ^ { y } ] ^ { 2 } + [ Z _ { b } - Z _ { a } + u _ { b } ^ { z } - u _ { a } ^ { z } ] ^ { 2 } } } } }
+$$
+
+因为热致变形均属线弹性、小变形， $\alpha$ 和 $\beta$ 都是小量，可认为tan $\scriptstyle a \approx a$ 、 $\sin \beta { \approx } \beta$ ，即以(10)式、 (11)式作为热致座架结构偏移计算标准。
+
+# 3.2天线座架热变形仿真
+
+仿真日期设置为2020年4月26日，当日天气晴朗无风，将仿真所得温度场输入天线结构有限元模型，实现天线座架结构温度变形的快速计算。
+
+图9为天线实测温度输入下时仿真所得热变形云图（变形经过放大)，图中变形单位为m。
+
+![](images/e6ccdc7d700c890a6ecc8103eaaee94948ac8ddc5eee6613b997133c0d09f3f6.jpg)  
+图9天线座架热变形云图
+
+图10为7时至24时 $\boldsymbol { a }$ 和 $\beta$ 随时间的变化情况。
+
+![](images/8d3a210a0c0983e4b0ee8078c9155a2ad7e01314dba8887cacc3aebf4c219803.jpg)  
+Fig.9 The contour of thermal deformation of an antenna alidade   
+图107时至24时 $\scriptstyle a$ ， $\beta$ 角随时间变化情况  
+Fig.10 Changing of the angle $\boldsymbol { a }$ and $\beta$ over time from 7AM to 12PM
+
+倾角 $\boldsymbol { a }$ 代表座架绕 $y$ 方向的偏差，倾角 $\beta$ 代表座架绕 $x$ 方向的偏差，两者在不同方向影响天线的指向精度。从图10可以看出，由于座架置于朝向正南方向，当太阳从东侧升起时，首先辐照到座架东侧，此时天线座架东西两侧的温度差值升高，使得天线座架产生绕 $x$ 轴的热致偏移。随着太阳辐照逐渐向西侧偏移，两侧温差逐渐减小，而后又逐渐增大，直至 20时后太阳逐渐落下，因此可以判定座架绕 $x$ 轴的旋转角 $\beta$ 随着天线座架东西侧温差有明显的规律性偏移。 $\alpha$ 曲线也有类似情况，随着太阳升起 $A$ 型架南北两侧温差逐渐增大，但有所不同的是在太阳角升到一定高度，太阳光线能够同时辐照到座架南北两侧，因此南北两侧温差在正午时反而降低，此即图中 $\alpha$ 曲线在正午时刻反而有“凹陷”的原因。综合来看，座架前后、左右温差与其两方向的热致偏移呈强相关性，这与 $7 0 \mathrm { m }$ 口径射电望远镜天线座架[12表现的特性一致。
+
+# 4结束语
+
+本文通过建立射电望远镜天线座架热力学分析模型和天线热环境模型，对不同太阳辐照工况下的天线座架温度分布以及随时间的变化进行了仿真，并通过在NSRT $2 5 \mathrm { m }$ 天线座架上布设24个温度传感器，对座架上的温度分布差异进行了测量。测量数据显示，本文建立的天线座架热力学模型拥有较为准确的仿真精度。同时，通过将实测温度数据映射至天线结构分析模型，建立天线结构位移场至天线座架轴系偏差间的数学模型，对不同工况下天线座架轴系偏差进行了计算，结果显示天线座架轴系偏差与座架南北、东西两侧的温度偏差存在明显的联系。
+
+# 参考文献
+
+[1]王娜、新疆奇台110米射电望远镜[J].中国科学:物理学力学 天文学,2014,4(8)：783-794.   
+WANG N. Xinjiang Qitai $1 1 0 \mathrm { ~ m ~ }$ radio telescope[J]. Scientia Sinica: Physica, Mechanica & Astronomica, 2014, 44(8): 783-794.   
+[2] GREVE A, BREMER M. Thermal design and thermal behaviour of radio telescopes and their enclosures [M]. Berlin: Springer, 2010.   
+[3] BREMER M, GREVE A，ANDERSEN T, et al.A dynamic thermal model for design and control of an 8Oo-element open-air radio telescope[C]// Proceedings of SPIE. 2011.   
+[4] 王从思,刘鑫,王伟,等.大型反射面天线温度分布规律及变形影响 分析[J].宇航学报,2013,34(11):1523-1528.   
+WANG C, LIU X， WANG W, et al. Analysis method for temperature distribution characteristic and thermal distortion of large reflector antennas[J]. Journal of Astronautics, 2013, 34(11): 1523-1528.   
+[5] 钱宏亮,钟杰,范峰.上海 $6 5 \mathrm { m }$ 射电望远镜天线结构日照非均匀温度 场[J]．土木工程学报,2014,47(3): 39-46.   
+QIAN H L, ZHONG J, FAN F. Analysis on non-uniform temperature field due to sunshine for the antenna structure of Shanghai 65-meter-aperture radio telescope[J]. China Civil Engineering Journal, 2014, 47(3): 39-46.   
+[6] 常文文，艾力·玉苏甫，许谦，等．基于有限元方法的 $2 5 \mathrm { m }$ 天线座 架结构热特性分析[J]．机械科学与技术,2015，34(5):812-816. CHANG W W, AILI Y S P, XU Q, et al. Thermal characteristics analysis of 25m antenna mounts based on the finite element method[J]. Mechanical Science and Technology for Aerospace Engineering, 2015,34 (5): 812-816.   
+[7] 连培园，朱敏波,王伟,等．一种轴对称反射面天线温度场实时预 估方法[J]．机械工程学报,2015,51(6): 165-172.   
+LIAN P Y, ZHU MB, WANG W, et al. Estimation method of temperature field of large axial symmetric reflector antenna in real-time[J]. Journal of mechanical engineering, 2015, 51(6): 165-172.   
+[8] QIAN H, CHEN D, FAN F, et al. Evaluation of solar temperature field under different wind speeds for Shanghai $6 5 \mathrm { m }$ radio telescope[J]. International Journal of Steel Structures, 2016, 16(2): 383-393.   
+[9] PRESTAGE R, CONSTANTIKES K T, BALSER D S, et al. The GBT precision telescope control system[C]//Proceedings of SPIE.2004.   
+[10]王惠，宁云炜，闫浩．26米天线座架温度分布规律及变形影响分 析[J]．天文研究与技术,2018,15(2):208-215.   
+WANG H, NING Y W, YAN H. Temperature distribution and deformation impact analysis of 26m antenna frame[J]. Astronomical Research &
+
+Techn0l0gy, 2018, 15(2): 208-215.
+
+[11]DUFFIE J A,BECKMAN W A. Solar engineering of thermal processes[M]. 4th ed. New Jersey: John Wiley & Sons Incorporation, 2013: 68-71.
+
+[12] WEI S, KONG D, WANG Q. Effect of the alidade thermal behavior on the pointing accuracy of a large radio telescope[J]. Research in Astronomy and Astrophysics,2021,21(6):125-134.
+
+# Study on Non-uniform Temperature Field and Thermal Deformation of Antenna Alidade
+
+Yi Letian1, Xu Qian1,2.3\*,Li Lin4,Wang Huil (1. Xinjiang Astronomical Observatory, Chinese Academyof Sciences,Urumqi 830o,China,Email: xuqian@ xao.ac.cn; 2.KeyLaboratory of Radio Astronomy, Chinese Academy of Sciences,Nanjing 21oo33,China; 3.Key Laboratory of Xinjiang Radio Astrophysics,Urumqi,83oo11, China; 4.School of Physics and Technology, Xinjiang University, Urumqi 83o046, China)
+
+Abstract: In order to solve the problem of non-uniform temperature thermal deformation caused by antenna alidade under solar radiation,environmental parameters，solar irradiation parameters and the geometric model of the alidade structure are derived,and the thermodynamic simulation of antenna alidade structure under multiply operating conditions is realized, and Based on the integrated model, the temperature characteristics of antenna alidade are analyzed. 24 fiber Bragg grating temperature sensors are installed on the antenna alidade structure,and the relative accuracy of the measured temperature and the simulated temperature field is higher than $8 5 \%$ which verifies the correctness of the simulation method. Combined with the geometric relationship between the shift field of the antenna structure and the data of the deviation of the antenna azimuth axis and the measured temperature characteristic data, the rapid calculation of the deformation from measured temperature to the alidade structure is realized,and the causes of the deviation of the antenna alidade shaft are analyzed.
+
+Key words: Antenna; Alidade; Non-uniform temperature field; Deformation; Temperature measurement

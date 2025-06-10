@@ -1,0 +1,246 @@
+# 回火温度对26CrMo钻杆钢显微组织和力学性能的影响
+
+舒志强‘袁鹏斌² 欧阳志英」龚丹梅’白雪明1
+
+1上海海隆石油管材研究所上海200949
+
+2海隆石油工业集团上海200949
+
+摘要采用力学性能测试、组织观察等方法研究回火温度对26CrMo钢显微组织和力学性能影响。结果表明，26CrMo钢经540\~690℃回火，随回火温度升高，显微组织中α相基体逐渐发生回复与再结晶，组织中马氏体形态逐渐消失，碳化物先在马氏体板条边界呈片状或棒状析出，逐渐演变为颗粒状弥散分布， $6 9 0 \ \mathrm { { ^ \circ C } }$ 时碳化物在晶界聚集长大、球化。随回火温度升高，26CrMo 钢强度逐渐降低，塑性、韧性逐渐增大；不同回火条件下，抗拉强度、屈服强度、延伸率和冲击功满足API5DP 标准中各级别钻杆要求。随回火温度升高，26CrMo 钢总冲击功、起裂功和裂纹扩展功均逐渐增大，裂纹扩展功是起裂功的3倍以上，且两者比值海  
+变化不明显，表现出良好的抗裂纹扩展能力。不同回火温度下冲击性能的变化与其强度、塑性变化密切相关，冲击韧性好坏主要自塑性大小决定。
+
+关键词26CrMo 钻杆钢，回火温度，显微组织，强塑性，冲击韧性
+
+中图分类号TG113TG15i文章编号 0412-1962017)x-x-x
+
+# Effects of Tempering Temperature on Microstructure and Mechanical Properties of Drill Pipe Steel 26CrMo
+
+1/ SHU Zhiqiang 1, YUAN Pengbin ², OUYANG zhiying , GONG Danmei', BAI Xueming 1 Shanghai Hailong Oil Tubular Goods ResearchJnstitute, Shanghai 20o949, China Xy 2 Hilong Group of Companies, Shanghai 200949, China
+
+Correspondent: SHU zhiqiang, Tel: (021)33850093, E-mail: szq861017@163.com
+
+Supported by Special Fund of Science and Technology Innovation of Baoshan District (No.13-B-3)
+
+Manuscript received 2016-09-09,in revised form 2017-03-19
+
+ABSTRACT The efects of tempering temperature on microstructure and mechanical properties of steel 26CrMo were studied based on mechanical property tests and microstructure observation. The results show that $\alpha$ phase matrix gradually occurs recovery and recrystallization with the increasing temperature during $5 4 0 { \sim } 6 9 0 \ \mathrm { ~ \textdegree }$ temper process，martensite morphology fade away gradually, flake or rocklike carbides separate out along the martensite boundaries,and then change into granulated dispersed distribution,at $6 9 0 ^ { \circ } \mathrm { C }$ tempering carbides happen aggregation and growth on grain boundaries. With tempering temperature increasing,the strength of 26CrMo steel is gradually reducing, plasticity and toughness are gradually increasing. The tensile property and impact energy can meet all different grade dripipe requirements in API 5DP standard with different tempering condition. The total impact energy，crack initiation energy and crack X   
+propagation energy of 26CrMo steeka é gradually increasing with the tempering temperature rising, the value of crack propagation energy is three times of crack initiation energy which shows great anti-crack propagationapability， but their ratio has no obvious change. The change of impact property is closely reljted to the strength and plasticity change, impaet toughness stand or Xy   
+fall depends on highor low plasticity. V
+
+KEY WORDS drill pipe steel 26CrMo, tempering temperatureMicrostructure, strength and plasticity properties, impact toughness
+
+海
+
+钻杆是石油天然气资源勘探与开采中的主要工真一，通过钻杆接头螺纹首尾连接逐级加长，以达到不断加深井眼的目的。钻杆是连通地下地面的枢纽，旋转钻进时靠它来传递网破碎岩石所需的能量，给井底施加钻压以及循环钻井泥浆等，通常情况下一口井的钻杆使用量达到几千米甚至上万米。在钻井过程中，钻杆长期受到拉、压、弯、扭、振动且与井壁摩擦碰撞等交变载荷，同时还处于高温高压泥浆冲刷和腐蚀环境中，在井下服役条件十分恶劣，往往是钻井工具中的最薄弱环节，钻杆失效事故时有发生[,2]。因此，钻杆的品质和技术进步直接影响到钻井的效率和安全，在钻杆制造中必须严格控制质量。
+
+目前国内外使用最多的钻杆是按照API5DP钻杆规范设计和生产的E75、X95、G105和S135 4种级别钻杆[3]。材料热处理技术与工艺是提高材料使用性能的重要途径，在钻杆制造中通过对低碳合金钢无缝管进行淬火和高温回火热处理，来获得综合性能较好的回火索氏体组织，以达到钻杆规范要求的强度、塑性和韧性匹配[4]。我国从上世纪80年代引进日本钻杆生产技术开始生产钻杆，最初进口日本管材，后来在美国和德国等先进钢种基础上逐步发展出我国钻杆特有的Cr-Mn-Mo系低碳合金钢，并实现了钻杆国产化。经过十多年的技术进步，S135及以下级别的钻杆制造技术日益成熟，并形成了一定的出口能力，新一代防腐蚀钻杆、高强度钻杆等新型钢种的开发也取得了一定突破[5.6]。在众多钻杆用钢中，26CrMo钢由于价格便宜、焊接性能好、热处理工艺简单、调质处理后具有良好组织和性能等优点，被广泛用于制造E75、X95、G105、S135不同级别钻杆。目前关于26CrMo钻杆钢的研究主要集中在工艺实验上，通过制定合适的热处理制度以满足钻杆材料的使用性能要求，如文献[7\~11]研究了钻杆钢的热处理工艺，认为热处理工艺对钻杆钢的力学性能有显著影响，尤其控制回火工艺是制造不同级别钻杆的重要手段；黄本生等[12研究了热处理工艺对G105钻杆材料电化学腐蚀性能的影响，认为回火温度越高，材料的抗腐蚀性能越好。但道对回火过程中显微组织特征及微观组织演化引起力学性能变化机理的研究尚未见报道。
+
+本工作对淬火后的26CrMo钢进行不同温度回火热处理和理化性能实验，从微观组织演方  
+化和析出物形貌、分布变化的角度分板回火温度对力学性能的影响机理，并对不同回火条件  
+下26CrMo钻杆钢的强度、塑性、韧性变化规律进行研究，为石油钻杆的生产热处理工艺制
+
+定提供实验和理论支持。
+
+医际
+
+1 实验方法
+
+茶
+
+选用直径 $1 2 7  { \mathrm { \ m m } } \times 9 . 1 9  { \mathrm { m m } }$ 的26CrMo钢轧制态管体，主要化学成分(质量分数， $\%$ 为：  
+C 0.26，Si0.23，Mn1.08，Cr 0.89，Mo 0.17，Ni0.03，V0.0Fe 余量。将实验管体锯切  
+到 $3 0 0 \mathrm { m m }$ ，按照生产线热处理工艺要求在FP-600 箱式炉中进行热处理实验，具体热处理工中  
+艺如下：在 $8 6 0 ~ \mathrm { { ^ circ C } }$ 保温 $4 5 ~ \mathrm { m i n }$ 后水淬，然后对淬火管体进行回火处理，回火温度分别为  
+540、595、620、655和 $6 9 0 \mathrm { ~ \textdegree ~ }$ ，回火保温时间均为90 minZ
+
+对不同热处理条件下的26CrMo钢取样,在MTS-809拉伸试验机上进行室温拉伸实验，拉伸试样尺寸为直径 $6 . 3 5 \ \mathrm { m m }$ 的标准试样，拉伸实验中对均匀塑性变形阶段真应力-真应变曲线包围的面积进行积分，分析了材料单位体积吸收的能量均匀形变容量[13.14]；在 Instron9250HV型落锤冲击试验机上进行室温冲击实验，试样尺寸为 $7 . 5 \ \mathrm { m m } { \times } 1 0 \ \mathrm { m m } { \times } 5 5 \ \mathrm { m m }$ 的标准CharpyV型缺口冲击试样,冲击断口清洗后在VEGAIIXMH扫描电镜(SEM)观察断口形貌;取金相试块经研磨、抛光和 $4 \%$ (体积分数)硝酸酒精溶液浸蚀后，利用GX51金相显微镜(OM)和VEGAIIXMH扫描电镜(SEM)观察显微组织；取晶粒度试块经研磨、抛光和苦味酸腐蚀后，利用GX51金相显微镜进行晶粒度等级分析。
+
+2 实验结果  
+2.1拉伸力学性能
+
+26CrMo钻杆钢经 $8 6 0 ~ \mathrm { ^ { \circ } C }$ 保温 $4 5 \mathrm { m i n }$ 水淬后，抗拉强度为 $1 7 3 0 \mathrm { M P a }$ ，屈服强度为1250MPa，冲击功为16J，组织为典型板条马氏体(图1)。图2为经 $5 4 0 \ \mathrm { ~ \textdegree ~ }$ 回火的 26CrMo 钢的微观组织，晶粒度评级为9.0级。图3为26CrMo淬火钢经 $5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 保温 $9 0 \mathrm { m i n }$ 回火后的抗拉强度 $R _ { \mathrm { m } }$ 、屈服强度 $R _ { \mathrm { p } }$ 和延伸率 $A$ 随回火温度变化曲线。可以看出，随回火温度的升高，抗拉强度和屈服强度逐渐减小，且与回火温度呈现良好的线性关系，经 $5 4 0 \mathrm { ~ \textdegree ~ }$ 回火时强度最高，抗拉强度为 $1 0 4 3 . 2 \ \mathrm { M P a }$ ，屈服强度为 $9 6 9 . 5 \ \mathrm { M P a }$ ；回火温度每升高 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时，抗拉强度降低约 $1 8 . 3 \mathrm { M P a }$ ，屈服强度降低约 $2 0 . 9 \mathrm { M P a }$ 。延伸率随回火温度的升高逐渐增大，经 $6 9 0 \mathrm { ^ \circ C }$ 回火时延伸率达到峰值为 $3 1 . 1 \%$ ，实验结果表明，不同级别26CrMo钢钻杆的拉伸性能均满足API5DP标准要求。
+
+![](images/54b18193c89248e62e9f0d3df39b182bb392fb5924a10a8b6b712a7df979b458.jpg)  
+图126CrMo钢淬火组织的OM像
+
+![](images/d7329dcc9e69c47b2f589cc02aea55df1e609f8d59ef126e4f4c0fa103ede089.jpg)  
+Fig.1 OM image of quenched 26CrM&steel   
+图 $2 2 6 \mathrm { C r M o }$ 钢 $5 4 0 \ \mathrm { ^ \circ C }$ 回火组织的OM像  
+Fig.2 OM image of 26CrMo steel tempered at $5 4 0 \ \mathrm { ^ \circ C }$
+
+![](images/b0316617574aef8d1d8c191ffe2471454dabe9efa60ea4ac53ffac262fa491cd.jpg)  
+图3回火温度对26CrMo钢强度和延伸率的影响
+
+Fig.3 Effects of tempering temperatureQh tensile strength $R _ { \mathrm { m } } .$ ，yield strength $R _ { \mathrm { p } }$ and elongation $A$
+
+![](images/496fd543a170ccfb902917f5b3c59f073b8e2ab7e0b035d6bae402a5be119f43.jpg)
+
+图4为硬化指数 $n$ 和均形变容量 $U _ { \mathfrak { p } }$ 随回火温度变化曲线。当回温度由 $5 4 0 \ \mathrm { ^ \circ C }$ 逐渐风升高至 $6 9 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时，26CrMo钢的硬化指数和均匀形变容量均呈现逐渐增大趋势，塑性增强。方经 $5 4 0 ~ \mathrm { ^ { \circ } C }$ 回火后，硬化指数最小为0.079，均匀形变容量最小52.9MJ/m，经 $6 9 0 ~ \mathrm { { ^ circ C } }$ 回火后，硬化指数最大为0.135,均匀形变容量最大为 $6 2 . 4 \mathrm { M J / m } ^ { 3 }$ 。可见，在 $5 4 0 \ \mathrm { ^ \circ C }$ 回火时26CrMoD钢强度级别达到 S135 钻杆要求，仍保持着较高的形变硬化指数和均匀形变容量的塑性变形能力，因此，可认为26CrMo 钢制造的不同级别钻杆服役过程中，其局部损伤处抵抗应力网应变集中的能力和承受偶然过载时传播载荷、重新分布高应力的能力仍然很高，具有可靠的安全裕度。
+
+![](images/5741e788407202da6228f4e02314780754cfec88c21ed583a5baaa426a56688a.jpg)  
+图4回火温度对26CrMo钢硬化指数、均匀形变容量的影响 Fig.4 Effects of temperinglmperature on strain hardening exponent $n$ and uniform deformation capacity $U _ { \mathfrak { p } }$ of 26CrMo steel 多 N
+
+图5为不同温度回火时强比 $R _ { \mathrm { p } } / R _ { \mathrm { m } }$ 变化曲线。可以看出，随回火度的升高，屈强比成逐渐减小，显现出回火硬化减弱特性。不同级别钻杆屈强比较大，达到0.852\~0.930，通常方认为金属材料屈强比越大，塑性变形能力越小，使用安全性也随之降低。实验的 26CrMo 钻杆钢是以Mn、Cr、Mo 为主，并添加少量Ni、V微合金元素的低碳合金钢，热处理过程中，伊这些合金元素促进了钢的热处理稳定性，起到细化晶(图2)和析出细小碳化物及使之弥散分布的效果，这种细晶强化和沉淀强化机制易导致履比升高[15]，但有利于钢的强度、塑Xy性和韧性。因此，实验中不同级别 26crMo 钢钻杆虽然屈强比较高，但在发生屈服后仍具有较大幅度的塑性变形，具有良好的塑性和韧性。
+
+![](images/b046ce69bcbca9a0c2c735c73771f9e2cf8e0dc628adc5f44df4feb0f690941f.jpg)  
+图5回火温度对26CrMo钢屈强比的影响
+
+2.2冲击韧性及断口形貌
+
+海
+
+图6为不同温度回火试释室温冲击力-挠度曲线。曲线包围的面积为冲击断裂过程吸收的能量，可以看出，图中各典线均为只产生稳定裂纹扩展的F型曲线属于全韧性断裂。网 X对比不同回火温度不冲击曲线变化规律，可以看出，随回火温度的升高，冲击曲线逐渐变宽、方变矮，冲击过程中最大冲击力位移 $S _ { \mathrm { m } }$ 和总冲击位移 $S _ { \mathrm { t } }$ 逐渐增最大冲击力 $F _ { \mathrm { m } }$ 逐渐减小，这与其强度降低，塑性增强相关。 X_
+
+![](images/36508e8d39e782d4e5eca37da54a5a3dd9b162c0e336c7886e1efb72ea579d08.jpg)  
+Fig.5 Effect of temperingtémperature on yield ratio of 26CrMo steel   
+图6室温条件下26CrMo钢示波冲击载荷-挠度曲线
+
+Fig.6 Impact force and deflection curves of 26CrMo steel after instrumented charpy impact test at room temperature ( $\mathrm { \Delta } F _ { \mathrm { m } }$ -maximum impact force, $S _ { \mathrm { m } }$ -displacement of maximum impact force)
+
+图7为不同温度回火样品的总冲击功 $W _ { \mathrm { t } }$ 、起裂功 $W _ { \mathrm { i } }$ 及裂纹扩展功 $W _ { \mathfrak { p } }$ 的变化曲线。可见，总冲击吸收功、起裂功和裂纹扩展功均随回火温度升高而逐渐增大，但 $W _ { \mathrm { p } } / W _ { \mathrm { i } }$ 变化并不明显。其中在 $5 4 0 \ \mathrm { ^ \circ C }$ 回火时26CrMo 钢总冲击吸收功最小为87.5J，起裂功为 $2 0 . 7 \mathrm { ~ J ~ }$ ，裂纹扩展功为66.8J，裂纹稳定扩展过程消耗的能量是裂纹萌生时的3.23倍，虽然冲击功最低，但仍表现出良好的抵抗裂纹扩展能力。因此，可以认为26CrMo钢在 $5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 回火，冲击韧性随回火温度的变化是由裂纹萌生和裂纹扩展过程中消耗能量共同决定的，其中裂纹扩展功约是起裂功的3倍以上，具有非常好的冲击韧性，尤其是阻止裂纹扩展的能力。
+
+![](images/722e0f0e3ef6e2c9ac5cc2039184c8ed16fc5d538ac4be5e435c5080e6ee607b.jpg)  
+图7回火温度对26CrMo钢总冲击 起裂功、裂纹扩展功的影响 应. Fig.7 Effects of tempering temperature on total impact energy $W _ { \mathrm { t } }$ 、crack initiation energy $W _ { \mathrm { i } }$ and crack propagation energy $W _ { \mathfrak { p } }$ of 26CrMo steel
+
+图8为26CrMo钢经540\~690℃回火后室温冲击宏观和微观断口形貌的SEM像。从宏观冲击断口形貌像可以看出，断口形貌完全由纤维区和剪切唇组成，为典型的冲击全韧性断口。此外，随回火温度的升高，断口表面裂纹扩展纤维区粗糙程度逐渐加重，这与其冲击功逐渐升高相对应。从微观冲击断口形貌像可以看出，各断口裂纹扩展区微观形貌均呈韧窝状，断裂方式均为穿晶韧性断裂，其中在540和595℃回火时，冲击断口上韧窝较浅，存在少量撕裂小平面(图8b和d)，从图8f、h和j可以看出，随回火温度升高，断口上撕裂棱逐渐变高，韧窝也越来越大、越深，在韧窝中底部存在细小弥散的碳化物，显示出冲击韧性越来越好。
+
+![](images/f4a1ea03a24c9860cac298bf090323f6ba3751ce6e1b1c40670b2db5879cda86.jpg)
+
+![](images/69811fe7be6dfc73c2831cc5a3eee7172494111b5a920cd3fd6e38cf3bcd26e4.jpg)  
+图8不同回火温度下26CrMo钢室温冲击断口宏观和微观形貌的SEM像
+
+Fig.8 Low (a, c, e, g,i) and high (b, d,f, h, j) magnified SEM fractographs of 26crMo steel tempered at $5 4 0 \ \mathrm { ^ \circ C }$ (a,b), $5 9 5 ^ { \circ } \mathrm { C }$ (c,d), $6 2 0 \ \mathrm { ^ { \circ } C }$ (e,f), $6 5 5 ~ \mathrm { { ^ \circ C } }$ (g, h) and $6 9 0 \ \mathrm { { ^ \circ C } }$ (i, j) after impact
+
+test at room temperature
+
+2.3显微组织
+
+26CrMo钢经淬火和不同温度处理后显微组织的SEM像如图9所示。可见，经$5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 回火，显微组织均为回火索氏体，只是基体组织形态及析出物大小、形貌和分布Y不同。 $5 4 0 \mathrm { ^ \circ C }$ 回火时(图9a)，于回火温度较低，合金中α相发生回复与再结晶不充分，马氏体中过饱和的C优先析出，星状或者长宽比较大的条状，不均匀的分在马氏体板条界面，风组织在很大程度上保持着原马氏体板条形态。在595℃回火时(图9b)显微组织只有局部保留交了马氏体位向痕迹，晶粒内部碳化物析出量逐渐增多。在62Q以上回火时(图9c\~e)，热激活能增大，基体发生回复与再结晶， $\boldsymbol { a }$ 相中位错胞和胞内位错线逐渐消失，剩余位错发生多7边化，形成亚晶粒并逐渐长大，因此，组织中马氏体形态及位向基本消失。在图9b\~d中，随回火温度进一步升高，碳化物由片状或短棒状逐渐转变成颗粒状弥散分布，并且有粗化趋势，X其中在690℃回火时，由于回火温度较高，相邻晶粒相互吞并，碳化物析出相向晶界聚集，明显发生球化、长大，数量减小(图9e)。
+
+![](images/8e8f756e9383079d5d925a033f0706902c09bb92ca1dcd1ea8dad99011043779.jpg)
+
+![](images/d6a95f3e240d23c841044b618d00a5db81b22abbe3069f717ae366830c17e2ee.jpg)  
+图9不同回火温度下26CrMo钢显微组织的SEM像7
+
+Fig.9 SEM images of 26crMoteel tempered at $5 4 0 \ \mathrm { ^ \circ C }$ (a)， $5 9 5 ^ { \circ } \mathrm { ~ C ~ }$ (b), $6 2 0 \ \mathrm { ^ { \circ } C }$ (c）， $6 5 5 ~ \mathrm { { ^ \circ C } }$ (d), $6 9 0 \ \mathrm { ^ { \circ } C }$
+
+金预
+
+3分析与讨论
+
+安乐炭
+
+3.1回火温度对显微组织和力学性能的影响
+
+26CrMo钢在540\~690℃回火时，随回火温度升高，强度逐渐降低，塑性、韧性逐渐升7高，这与回火过程中组织演变和析出相大小、形态和布密切相关。
+
+首先，26CrMo 钢淬火后C原子和Cr、Mo等合素作为过饱和固溶体保留在马氏体网内，在回火过程中，碳化物析出和 $\boldsymbol { a }$ 相回复与再结晶致使组织固溶强化减弱， $5 4 0 \mathrm { ~ \textdegree ~ }$ 回火时，片状碳化物在马氏体板条边界不连续分布，组织在很大程度上保持着原马氏体板条形态，阻碍位错运动，这时钢具有较高的强度；在 $5 9 5 ^ { \circ } \mathrm { { C } }$ 回火时马氏体位向逐渐消失，位错强化效应减弱；回火温度达到 $6 2 0 \ \mathrm { ^ { \circ } C }$ 以上时，析出的合金碳化物逐渐失去原析出时与基体的共格关系，内应力进一步消除，及 $\scriptstyle a$ 相的回复与再结晶使基体软化；在 $6 9 0 \ \mathrm { { ^ \circ C } }$ 回火时，渗碳体聚集长大，导致沉淀和弥散强化减弱[17-20]。因此，随回火温度的升高，强度逐渐下降。此外，26CrMo钢在 $5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 回火，强度的变化与回火温度呈现良好的线性关系，且强塑性匹配关系满足要求，这主要是由于合金元素的添加延长了碳化物转变过程并提高了 $\scriptstyle a$ 相再结晶温度，延缓了淬火钢的回复和再结晶过程，提高了回火组织的稳定性[21,22]。
+
+由显微组织观察可知，随着回火温度的升高，一方面碳化物析出，与基体脱离共格关系，基体组织发生回复与再结晶，逐渐降低了组织中应力集中程度，有利于提高钢的塑韧性；另一方面，在 $5 4 0 \ \mathrm { ^ \circ C }$ 较低温度回火时，组织中析出的片状或者棒状碳化物不均匀分布于原马氏体板条边界，这些碳化物受力时会使基体产生很大的应力集中，易使片状碳化物形成裂纹，相连的碳化物会导致微裂纹沿着连续的碳化物扩展[23.24]，因此冲击韧性较低。在 $6 2 0 \ \mathrm { ^ { \circ } C }$ 以上温度回火时，随回火温度的升高，碳化物由片状或长宽比较大的棒状演变为弥散分布的颗粒状，再球化长大。研究[25认为，析出物与基体之间变形的不协调会诱发几何必须位错，而棒状析出相诱发的几何必须位错密度比球形析出物诱发的几何必需位错密度高一个数量级，即球形析出相更有利于塑性变形。因此随回火温度升高，26CrMo钢塑性、韧性更好。
+
+# 3.2 强度、塑性和韧性相互关系
+
+强度、塑性是材料的2个独立存在的力学性能，而韧度则是强度与塑性的综合表现，是一个能量概念，冲击韧性表征材料在冲击断裂过程中吸收能量的能力，是衡量材料韧度的指X标之一[26]。实验中，虽然拉伸实验秘中击实验的试样形状尺寸、实验加载方法不同，但两者均呈现了材料受载后发生弹性变形塑性变形、产生裂纹、裂纹扩展及失稳断裂过程，应+力-应变曲线和力-挠度曲线反映材料强度、塑性、韧性(吸收能量)性能[27]。26CrMo 钢在 $5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 回火温度下的伸和冲击性能如图10和11所示。表征强的抗拉强度和最大风冲击力随回火温度的升高逐渐减小，表征塑性的硬化指数和最大冲击力位移随回火温度的升高逐渐增加，且变化趋势相似。 学帮
+
+![](images/247146c49198e043bd693947344c350c771d18eef26b6d50bff186e5716d0258.jpg)  
+图10回火温度对26CrMo钢抗拉强度和最大冲击力的影响  
+Fig.10 Effects of tempering temperature on $R _ { \mathrm { m } }$ and $F _ { \mathrm { m } }$ of 26CrMo steel
+
+![](images/03320ca27aa13349e7c01b55e848c489252a06c7d245c509cf9716dce07b5fc1.jpg)  
+图11回火温度对26CrMo钢硬化指数和最大冲击力位移的影响
+
+Fig.11 Effects of tempering temperature on strain hardening exponent $n$ and $S _ { \mathrm { m } }$ of 26CrMo steel
+
+海
+
+此外，冲击力-挠度曲线包围的面积是试样在冲击断裂过程中吸收的弹塑性变形功和裂纹扩展功的总和(图6)，其由冲击力和挠度变形共同决定，冲击力大，挠度变形量越X大，总冲击吸收功就越大，材料韧性越好[28]。而冲击力与强度正相关，挠度变形与塑性正方相关，因此，材料韧性的好坏既取决于强度又取决于塑性。本作中26CrMo钢经540\~690℃回火处理，随着回火温度的升高，强度降低，塑性增大，而韧性则呈现总冲击吸收功、起裂?功和裂纹扩展功均逐渐增大。这主要是由于强度的变化范围远比塑性的变化范围小，因此，26CrMo钢在不同回火条件下，出现了韧性与塑性同增大，与强度相互矛盾的现象，即塑W性是韧性变化的主要影响因素。
+
+4结论
+
+(1）在 540\~690℃回火，26CrMo 钢显微组织基体和析出物形态略有不同，但均为回火索氏体，抗拉强度、屈服强度、延伸率及冲击功等综合力学性能满足E75、X95、G105、S135不同级别钻杆标准要求。
+
+(2)26CrMo 淬火钢经 $5 4 0 { \sim } 6 9 0 \ \mathrm { ^ { \circ } C }$ 回火，随回火温度升高， $\alpha$ 相基体逐渐发生回复与再结晶，组织中马氏体位向形态逐渐消失，碳化物先是在马氏体板条边界呈片状或棒状析出，逐渐演变为颗粒状弥散分布，随回火温度进一步升高，碳化物逐渐在晶界处聚集球化、长大。随回火温度的升高，26CrMo钢抗拉强度、屈服强度逐渐降低，且与回火温度呈线性关系，硬化指数、均匀形变容量、延伸率等塑性和冲击吸收功逐渐增大。
+
+(3）随回火温度升高，26CrMo钢总冲击吸收功、起裂功和裂纹扩展功逐渐增大，而裂纹扩展功与起裂功比值变化并不明显，前者约是后者的3倍以上，表现出良好的冲击韧性，尤其是抵抗裂纹扩展能力。在不同回火温度下冲击韧性的变化与其强度、塑性性能的变化密切相关，冲击韧性主要由塑性决定。
+
+参考文献   
+[1] Liu X S. Drilling Technology Principle [M]. Beijing: Petroleum Industry Press,1988: 95 (刘希圣．钻井工艺原理 [M]．北京：石油工业出版社,1988:95)   
+[2] Long Z H, Zhang JH. Drilling Engineering [M]. Beijing: China Petrochemical Press,2010: 64 (龙芝辉，张锦宏．钻井工程 [M]．北京：中国化出版社,2010:64)   
+[3] API Spec 5DP-2009 Specification for drill pipe [S]. 2009   
+X   
+[4] Zhang Y, Zhao R C, Zhang R X. Comment on technical quality of high-strength drill pipes made at home and abroad [J]. Steel Pipe-2000, 29(5): 1   
+中   
+(张毅，赵仁存，张汝忻． 外高强度钻杆的技术质量评述 [J]．钢管,2000,29(5):1) [5] Li J Q, Yu L S, Niu C J, al. The production status and development rend of drill pipe [J]. 风   
+Welded Pipe Tube, 2011, 34(11): 35   
+(李建强，于丽松，牛成杰等．石油钻杆的生产现状与发展趋势 .焊管,2011,34(11): 35) [6] Wang X H, Zhang G J, Li F P, et al. Chemical composition, heatgeatment and mechanical 7   
+properties of drill pipe steel [J]. Petrol. Tub. Goods Instru., 2015,1(2): 33   
+(王新虎，张冠军，李方坡等．钻杆钢的成分、热处理 及其力学性能[J].石油管材与仪器, 2015,1(2): 33) 成   
+[7] Qian Q, Cao G Z, Liu C,et al. Influence by tempering temperature on performance of 26CrMo4s/2 drill pipe blank [J]. Steel Pipe,2012, 41(5): 36   
+(钱 强，曹贵贞，刘 聪等．回火温度对 26CrMo4s/2 钢钻杆用管性能的影响[J]．钢管，2012, 41(5): 36)   
+[8] Cao JJ, Chen M A. Research on heat treatment technology of 26CrMoNbTiB (S135) drill pipe [J]. Met. Mater. Metall. Eng., 2007, 35(2): 28   
+(曹建军，陈明安．26CrMoNbTiB(S135)钻杆管热处理工艺的研究[J]．金属材料与冶金工程, 2007,35(2): 28)
+
+[9] Zhang Z P, Zhang J S, Ning B Q. Effects of tempering temperature on microstructure and mechanical properties of 28CrMo47V steel[J]. Hot Work. Technol.,2012, 41(18): 184
+
+(张哲平，张佳森，宁保群．回火温度对28CrMo47V钢组织和性能的影响[J]．热加工工艺. 2012, 41(18): 184)   
+[10] He S L, Cai H P, Han L H. Study on heat treatment process improving strength and toughness of S135 drill pipe [J]. Steel Pipe, 2011, 40(suppl.): 7   
+（何石磊，蔡和平，韩礼红．提高 S135 钻杆强韧性的热处理工艺研究[J]．钢管，2011，40(增 刊): 7)   
+[11] Shaeri M H, Saghafian H, Shabestari S G. Effects of austempering and martempering processes on amount of retained austenite in Cr-Mo steels (FMU-226) used in mill liner [J]. J. Iron Steel Res. Int.,2010, 17: 53 茶   
+[12] Huang B S, Jiang Z Y,Pan H H, et al. Influence of different heat treatment on corrosion 灰   
+resistance of G105 pipe [J]. J. Chin. SoeyCorros. Protect., 2012, 32: 67   
+(黄本生，江仲英，潘欢欢等．热处理正艺对G105 钻杆材料抗腐蚀性能的影响[J].中国腐蚀 与防护学报,2012,32:67)   
+[13] Ouyang Z Y, Shu Z Q, YPB.Efect of yield ratioon the performanf high strength and 网 X   
+high ductility drill pipe [J]. Phys. Test. Chem. Anal. (Phys. Test.),2013, 49A: 17   
+交   
+(欧阳志英，舒志强，袁鹏斌．屈强比对高强度高塑性钻杆性能的影响 [J].理化检验-物理分 册,2013,49A: 17) 海   
+[14] Li Y H, Xin X X,Fan Y G. Discussion on the yield sile ratio parameters of high-strength pipe line steel [J]. China Petrol. Mach.,2006,34(9): 105   
+风   
+(李晓红，辛希贤，樊玉光．高强度管线钢屈强比参数的一些探讨 [J].石油机械,2006,34(9): 105)   
+[15] Gao HL. Analysis and commentary on yield ratio of pipeline steel [J]. Welded Pipe Tube, 2010,33(6): 10   
+(高惠临．管线钢屈强比分析与评述 [J]．焊管,2010,33(6):10)   
+[16] ISO 14556-2000 Steel-Charpy V-notch pendulum impact test-instrumented test method [S]. 2000   
+[17] Cui Y X, Wang C L. Metal Fracture Analysis [M]. Harbin: Harbin Industrial University Press, 1998: 73   
+(崔约贤，王长利．金属断口分析 [M].哈尔滨：哈尔滨工业大学出版社,1998:73)
+
+[18] Chen JD,Mo WL,Wang P, et al. Effects of tempering temperature on the impact toughness of steel 42CrMo [J].Acta Metall. Sin., 2012, 48:1186
+
+(陈俊丹，莫文林，王 培等．回火温度对42CrMo 钢冲击韧性的影响[J].金属学报,2012,48:1186)
+
+[19] Cui Z Q,Qin Y C.Metallographic and Heat Treatment [M].2nd Ed. Beijing: China Machine Press,2007:196
+
+(崔忠圻，覃耀春．金属学与热处理 [M].2版．北京：机械工业出版社,2007:196) [20] Li Z J, Xiao N M, Li D Z, et al. Influence of microstructure on impact toughness of G18CrMo2-6 steel during tempering [J]. Acta Metall. Sin.,2014, 50: 777
+
+(李振江，肖纳敏，李殿中等.G18CrMo2-6钢回火组织及冲击韧性研究[J].金属学报,2014,50: 777)
+
+[21] Hui W J, Dong H, Weng Y Qal. Effect of heat treatment parameters on mechanical properties of high strength Cr-Mo-V steel[J]. Acta Metall. Sin., 2002, 38: 1009
+
+(惠卫军，董 瀚，翁宇庆等.火温度对Cr-Mo-V系高强度钢力学性能的影响[J].金属学报, 2002,38: 1009) 参 茶 反
+
+[22] Wang H, Han L, Hu F, et al. Effect of tempering temperature on precipitate and mechanical properties of an anti-sulfur, dril pipe steel in $\mathrm { H } _ { 2 } \mathrm { S }$ containing envirhments [J]. Trans. Mater. Heat Treat., 2012, 33(3): 88 M 海
+
+(王 航，韩礼红，胡 锋等．回火温度对抗硫钻杆钢桥相形貌及力学性能的影响 [J].材料  
+热处理学报,2012,33(3):88) 参1
+
+[23] Jiang X Y, Hu F, Zhuang D M, et al. Effect by tempering temperature on strength and toughness matching of V150 steel for drill pipe service [J]. Steel Pipe,2012, 41(5): 22
+
+(姜新越，胡峰，庄大明等．回火温度对V150 钻杆钢的强韧性匹配的影响[J].钢管，2012.41(5): 22)
+
+[24] Wen T,Hu X F, Song Y Y, et al. Effect of tempering temperature on carbide and mechanical properties in a Fe-Cr-Ni-Mo high-strength steel [J]. Acta Metall. Sin., 2014, 50: 447
+
+(温 涛，胡小锋，宋元元等．回火温度对一种 Fe-Cr-Ni-Mo 高强钢碳化物及其力学性能的影[J]．金属学报,2014,50:447)
+
+[25] Qin B, Wang Z Y, Sun Q S. Effect of tempering temperature on properties of OOCr16Ni5Mo stainless steel [J].Mater. Charact.,2008, 59:1096
+
+[26] Yuan S P, Liu G,Wang R H, et al. Coupling effect of multiple precipitates on the ductile fracture of aged Al-Mg-Si alloys [J]. Scripta Mater., 20O7,57: 865
+
+[27] Zhou H J,Tu MJ,Deng Z J, et al. On the development of strength potentialities of metallic materials, the second part-rational balance between strength and ductility or toughness [J]. J. Xi'an Jiaotong Univ., 1980, 14(1): 25
+
+(周惠久，涂铭旌，邓增杰等．再论发挥金属材料强度潜力问题—强度、塑性、韧度的合理配合[J]．西安交通大学学报,1980,14(1): 25)
+
+[28] Shu D L.Mechanical Properties of Materials [M]. 2nd Ed.Beijing: China Machine Press, 2007: 15
+
+(束德林．工程材料力学性能 [M].2版．北京:机械工业出版社,2007:15) [29] Zhou HJ, Huang M Z.The Strength Theory of Metal Materials [M]. Beijing: Science Press, 1989: 215 学 方
+
+(周惠久，黄明志.金属材料强度学
+
+![](images/46a329c9e109966f3c522bd20160aa0746e158943588150f00fa2dc5278c4a44.jpg)

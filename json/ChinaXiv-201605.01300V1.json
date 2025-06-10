@@ -1,0 +1,337 @@
+[
+    {
+        "type": "text",
+        "text": "Hepatitis A virus and the origins of picornaviruses ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiangxi Wangl\\*, Jingshan $ { \\mathrm { R e n ^ { 2 * } } }$ ,Qiang $\\mathrm { G a o } ^ { 1 , 3 * }$ , Zhongyu $\\mathrm { H u } ^ { 4 }$ ,Yao $\\mathrm { S u n ^ { 1 } }$ , Xuemei $\\mathrm { L i } ^ { \\mathrm { 1 } }$ ,David J. Rowlands5,Weidong $\\mathrm { Y i n } ^ { 3 }$ Junzhi Wang,DavidI.Stuart26,Zihe Rao1,7,8&ElizabethE.Fry2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HepatitisA virus (HAV) remains enigmatic,despite1.4 million cases worldwide annually1.It differs radically from other picornaviruses, existing inan enveloped form² and being unusually stable,both genetically and physically',buthas proved difficult to study.Here we report high-resolution X-ray structures for the mature virus and the empty particle.The structures of the two particles are indistinguishable, apart from some disorder on the inside of the empty particle.The full virus contains the small viral protein VP4, whereas the empty particle harbours only the uncleaved precursor, VPo.The smooth particle surface is devoid of depressions that might correspond to receptor-binding sites.Peptide scanning data extend the previously reported VP3 antigenic site4, while structure-based predictions5 suggest further epitopes. HAV contains no pocket factor and can withstand remarkably high temperature and low pH,and empty particles are even more robust than full particles.The virus probably uncoats via a novel mechanism, being assembled differently to other picornaviruses.It utilizes a VP2 ‘domain swap'characteristic of insect picorna-like viruses6,and structure-based phylogenetic analysis places HAVbetween typical picornaviruses and the insect viruses.The enigmatic properties of HAV may reflect its positionas a link between ‘modern'picornaviruses and the more‘primitive' precursor insect viruses; for instance, HAV retains the ability to move from cell-to-cell by transcytosis,9. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAV is unique among picornaviruses in targeting the liver and continues to be a source of mortality despite a successful vaccinelo.HAV isolates belong to a single serotypel1.Unlike other picornaviruses HAV cannot shut down host protein synthesis,has a highly deoptimized codon usage and grows poorly in tissue culture.Particles are produced with a 67-residue carboxy-terminal extension ofVP1,which is implicated in particle assembly(this longer form ofVP1 is known as VP1-2A orPX)1². Particles containing the extension shroud themselves in host membrane to create enveloped viruses².The extension is cleaved byhost proteases to yield mature capsids12.While picornavirus VP4 is generally myristoylated this does not happen in HAV13;indeed,the putative VP4 is very small ( ${ \\cdot } \\sim 2 3$ residues'³) and it has remained unclear if it is present in virus particles14.The cell surface molecule T cell immunoglobulin and mucin 1 (TIM-1)15 acts as a receptor for HAV,and although transcytosis occurs89 it is not clear how the virus gets to the liver,its principal site of replication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have analysed formaldehyde-inactivated HAV genotype TZ84 (Methods). Two types of particle were separated,one containing significant amounts of viral RNA (Extended Data Fig.1).In the RNAcontaining full particlesVPO isatleast partiallycleaved and we detect VP4,as for other picornaviruses,whereas the empty particles harbour only VP0,and are probably similar to the empty particles frequently seen in picornavirus infections (Methods and Extended Data Fig.1).It remains unclear whether such empty particles can encapsidate RNAand lie on the route to assembly offull particles.Even full particles appear to contain more uncleaved VPo than is seen in other picornaviruses,in line with observations that VPO cleavage is protracted'16.The sedimentation coefficients are approximately 144S and 82S for the full and empty particles,respectively (Extended Data Fig.1).144S isa little less than the 155S expected for a full enterovirus particle,while the empty particle has a similar S value to that observed for the more expanded empty enterovirus particles17. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Very thin crystals $( \\sim 1 0 0 \\times 1 0 0 \\times 5 \\mu \\mathrm { m } ^ { 3 } )$ were obtained for both particles.Diffraction data were collected atDiamond beamlines IO3 and I24. Data were collected at1ooK to avoid beam-induced crystal movement at room temperature (Supplementary Video 1),and were used to produced reliable atomic models at 3.0 and $3 . 5 \\mathring \\mathrm { A }$ resolution for the full and empty particles,respectively (Methods and Extended Data Table1). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The external surface of HAV is smooth,with no canyon (Fig.la)18; shortening of the VP1 BC loop lowers the north wall while reductions in the VP2 EF and VP1 GHloops ablate the south wall of the canyon (Fig.lb).Compared to foot-and-mouth-disease virus,the loops at the five-fold and three-fold axes in HAVare slightly raised,giving the virus the appearance of a facetted triakis icosahedron (Fig.la).In line with thelow buoyant density in CsCl (ref.19) there are no apertures in the capsid to permit the entry of ${ \\mathrm { { \\dot { C } s } } } ^ { + }$ ions.The major capsid proteins, VP1-3, comprise eight-stranded anti-parallel $\\beta$ -barrels,followthe expected pseudo $T = 3$ arrangement (where $T$ is the triangulation number)and span the thickness of the capsid (Extended Data Fig.2a-c).The HAV full virus is mostly wellordered (however,VP4,although present,is not visible).As expected there is no evidence for structural modification attributable to formaldehyde inactivation17. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d09e1093615ee3fa9868a9ddaccb25a4b88f128e2203ede06034edd075534c40.jpg",
+        "img_caption": [
+            "Figure1|Overall structure.a,HAV accessible surface(VP1,blue;VP2, green; VP3,red forall panels).Black lines,particle facets;white outline, biological protomer.b, Surface of the biological protomer ofHAVand poliovirus.Loops forming the canyon walls in poliovirus are drawn thicker. c,HAV electrostatic surface (calculated using APBS in PyMOL).Red,negative; blue,positive; white,neutral; sulphate ions,yellow.d,HAV viewed from inside. Blue,positive $\\left| F _ { \\mathrm { o } } - F _ { \\mathrm { c } } \\right|$ electron density calculated taking the correctly positioned emptyHAV from the full HAV shows thatVP12-28 (darker density) and VP2 5-17 are better defined in the full particle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The empty and full particles are mostly very similar,with the external surface expected to be antigenicallyindistinguishable(r.m.s.d.for 672 $\\mathtt { C a }$ atoms $0 . 2 \\mathring \\mathrm { A }$ ).Experiments with six antibodies confirmed this (ExtendedData Fig.3).The particle surface is remarkably negativelycharged (Fig.lc) and the fringes of the pentameric assemblies,which show some positive charge,are decorated with a string of sulphate ions derived from the crystallization media.Surface decoration may affect the hydrodynamic properties of the particles.In the empty particle the first 40 residues of VPO and 47 residues of VP1,which adorn the particle interior near the three-fold axes,are disordered(Fig.ld).Although neither particle contains the extended form of VP1 we can infer the point on the particle surface from which the extension would continue (Extended Data Fig. 2d). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Perhapscorrelated with thelack ofa canyon,HAVharbours no contiguous hydrophobic pocket in the VP1 $\\beta$ -barrel.The $\\beta$ -barrel is compressed compared to enteroviruses² and the remaining space is largely filled with hydrophobic side chains,as inaphthoviruses and cardioviruses²1 (Fig.2a-c).Inaddition,lengthened $\\beta \\mathrm { C }$ and $\\beta \\mathrm { H }$ strands essentiallycover whatwould be the entrance to the pocket.We conclude that HAV is unable to bind small molecules in the fashion characteristic of enteroviruses.Unfortunately the particle structure provides no immediate clues as to where the TIM-1 receptorl5 might attach. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The organization of the protein chains broadly mirrors other picornaviruses,except for theamino terminus ofVP2.At residue 53 there is a flip in the $\\psi$ torsion angle of the peptide,sending the first 53 residues of VP2 across and then along the interpentamer boundary to interact strongly with the neighbouring pentamer (forming an extra strand on the $\\mathrm { V P 2 \\beta }$ -barrel from the adjacent pentamer; Fig.2d-g).The switch is only ${ \\sim } 5 \\mathring { \\mathrm { A } }$ from the icosahedral two-fold axis,so that the net effect is to swap the N-terminal structures,in a way reminiscent of domain swaps observed in certain protein structures²².As in those cases,it produces a very similar structure overall, but alters the subunit connectivity so that in HAV adjacent protomers of one pentamer are sewn together via the adjacent pentamer (Fig. $2 \\mathrm { f } , \\mathrm { g } ,$ .This arrangement is unprecedented in picornaviruses; however, it occurs in insect picorna-like viruses (for example,cricket paralysis virus $\\left( \\mathrm { C r P V ^ { 6 } } \\right)$ ; Fig. 2d). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We found thatboth empty and fullparticles were extraordinarily robust compared to other picornaviruses (remaining stable at up to $8 0 ^ { \\circ } \\mathrm { C }$ and atpHvalues down to about2 (ref.23); Fig.3aand Extended Data Fig.4). Itis established for many picornaviruses that the interface between the 12 pentameric assemblies that comprise the icosahedral capsid determine the particle stability24-26. In this context we questioned whether the stability of HAV might be a consequence of the VP2 domain swap at the pentamer interface,and so analysed the stability of CrPV(Extended Data Fig.4d).Although harbouring the same domain swap,CrPV particles showed a stability profile similar toa typical picornavirus.The VP2 switch therefore does not explain the stability;however,the interaction region adjacent to the icosahedral two-fold axes,which separates during the initial stages of enterovirus uncoating17,27, shows tight packing in HAV (Fig.3b and Extended Data Fig.5).The complementarity is similar ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a228a45b879f99fc8502374a51e6d0129cd015394d325ba26a857abba14ba4a.jpg",
+        "img_caption": [
+            "Figure2|Structure features.a,b,HAV(a) and EV71 (b) are coloured as in Fig.la; light-blue mesh: pocket volume calculated with PyMOL.Magenta, EV71 pocket factor.c,Pocket close-up of strand C(left)and strand H (right) for HRV14 (yellow), FMDV (blue),EV71 (orange,pocket factor magenta) and HAV(green,note occlusion of pocket entrance).Met 224 occludes part of the empty HRV14 pocket.AandB: bulky side chains occlude the HAV and FMDV pockets(A,LeuHAV,Tyr-FMDV;B,Phe-HAVand Tyr-FMDV). d,e,Biological protomers of CrPV(d) and FMDV (e) superimposed on HAV.The asterisk marks the VP2N terminus that folds differently in FMDV (switchatresidue 53isindicated).HAV coloured asina (CrPVandFMDV grey). f,HAV compared with poliovirus type1(1HXS) ing. The pentamer interface runs horizontally across the centre with the perpendicular two-fold axis roughly central. Surface drawn for upper pentamer. Two-fold related $\\beta$ -sheets are atAand B.VP1, blue and indigo;VP2,green and lime-green; VP3, red.VP4 is omitted for clarity.Upper pentamer chains are drawn thicker. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Empty b 85 protein WN   \nrreentreeeteg 85 70 \" Fuotein ·RNA 65 60 L A 55 50 2 3 4 567 8 910 pH ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "to that seen in poliovirus,where instabilityis probablytriggeredby pocket factor release.HAVachieves this complementarity by matching small residues and tyrosine side chains nestled around the two-fold axis (Extended Data Fig.5).This may contribute to the stability of the HAV particle,while the re-wiring of VP2 may reflecta fundamental difference in the mechanism of genome uncoating in HAV compared to enteroviruses.In contrast the other candidate interface for determining stability, which relates protomers within a pentameric assembly,has similar properties to other picornaviruses (Extended Data Fig.5).We think it unlikely that HAV uses the enterovirus mechanism for genome transfer across the endosomal membrane,via an umbilicus comprising the amphipathic N-terminalhelix of VP1,and VP4 membrane pore28,29,although the extremely short VP4 protein has a sequence consistent with the formation of an amphipathic helix.The process of infection comprises two distinct steps: particle entry and genome release.In the first of these, HAVmaybe taken intactinto the cell sinceit is well established that the virus can pass from cell to cell via transcytosis&;whereas the second stage,the release of the RNA genome,remainsunclear,and a specific host factor (perhaps a protease) may be required for particle disassembly.A recent report suggests thatHAVharbours tandem $\\mathrm { Y P X } _ { 3 } \\mathrm { L }$ motifs (VP2: $\\mathrm { Y } _ { 1 4 4 } \\mathrm { P H G L L } _ { 1 4 9 }$ and $\\mathrm { Y } _ { 1 7 7 } \\mathrm { P V W E L } _ { 1 8 2 }$ ),which are suggested to bind the ALIX component of the ESCRT pathway,allowing the virus to engage the ESCRT complex to facilitate release of enveloped particles via exocytosis².Surprisingly,the residues implicated are buried,making their role unclear unless major conformational rearrangements render them accessible,or if they are accessible on a precursor particle. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a53003a80ae8702be0abc544af4bd9479e59b92ca01f6b73ea5758d317945377.jpg",
+        "img_caption": [
+            "Figure3|Stability.a,Summary of thermal shiftassays forHAVin the pH range from2 to l0.Purple and green bars represent RNA release and proteinmelting temperatures,respectively,for full HAV; blue bars show protein melting for the empty particle.RNA release is not detected at low pH due to quenching of the SYTO9 dye.Extended Data Fig.4 shows raw fluorescence traces.b,The separation of VP2 $\\textsf { \\textsf { q } }$ -helices at the icosahedral two-fold ofHAV (green, $3 . 8 \\mathring \\mathrm { A } _ { \\cdot } ^ { \\cdot }$ ),CrPV(blue, $5 . 3 \\mathring \\mathrm { A }$ ),EV71 (cyan, $7 . 3 \\mathring \\mathrm { A } \\rangle$ ，polio (grey, $7 . 6 \\mathring { \\mathrm { A } } _ { , } ^ { \\cdot }$ 一， FMDV (orange, $8 . 2 \\mathring \\mathrm { A }$ )and 80S-like EV71 (red,12.2A). ",
+            "Figure 4|Phylogeny.a, Structure-based phylogenetic tree³° of representative picornaviruses and cripaviruses:PDB accessions 3VBF(EV71),1BEV (bovine enterovirus),4HRV(human rhinovirusl4),1HXS (poliovirus typel),1COV (coxsackievirus B3),1TME(Theilers virus),2MEV(mengo virus),3CJI(Seneca valleyvirus),1ZBA(FMDVA10),2WFF (equine rhinitisA virus),3NAP (triatoma virus)and 1B35 (CrPV).Evolutionary distance is derived from the number of unmatched residues and the deviation in matched residues.Residues corresponding to the HAV VP2 switch region (1-53)are excluded (including them does not affect the result).b, Superimposition of HAV VP1 (blue), VP2(green) and VP3(red);note the similar N-terminal extensions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The antigenicity ofHAV is incompletely characterized,with residues S102,V171,A176 and K221 ofVP1and D70,S71,Q74and 102-121 of VP3 implicated in neutralizing epitopes4.All except K221 of VP1 are proposed to form part of a single site; however,they are separated by $\\overset { \\cdot } { 4 0 - 5 0 \\mathrm { \\AA } }$ on the particle surface (Extended Data Fig.6).To extend our knowledge,12 monoclonal antibodies (mAbs) againstHAV particles were generated (Extended Data Fig.7),one of which,mAb 11,combined excellent neutralizing titre with VP3 western blot activity. On the basis of the particle structure a series of peptides covering all exposed virus surface regions were synthesized and tested against mAb 11.VP3 residues 67-77and 208-219(Extended Data Fig.7) reacted mildly.The proximity of these regions on the surface of VP3 (Extended Data Fig. 6) suggests that both may contribute to a conformational epitope,an augmented version of that identified previously4.To identify further antigenic sites on HAV we applied structure-based predictive methodology, which supports the above findings and suggests that VP2 residues 71 and 198 and VP3 residues 89-96 may comprise additional epitopes (Extended Data Fig. 6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HAV possesses subtle but profound structural differences compared to previously characterized picornaviruses. A structure-based phylogeny (Fig.4a) suggests that HAV links classical picornaviruses and the insect picorna-like viruses.Furthermore,theN-terminal domain swap renders VP2 more similar to the homologous VP1 and VP3 proteins (Fig.4b), supporting the notion thatHAVretains structural and functional features characteristic ofprimordial picornaviruses,which were akin to presentday insect picorna-like viruses,and that the subsequent acquisition of efficient mechanisms of cell entry allowed the explosion in diversity that characterizes present-day mammalian picornaviruses. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Online Content Methods,along with any additional Extended Data display items and Source Data,are available in the online version of the paper; references unique to these sections appear only in the online paper. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Received 12 May;accepted 28 August 2014 Published online 19 October 2014. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.WHO.Hepatitis A.Fact Sheet No.328 http://www.who.int/mediacentre/ factsheets/fs328/en/(2013).   \n2. Feng,Z.etal.A pathogenic picornavirus acquires an envelope by hijacking cellular membranes.Nature 496,367-371 (2013).   \n3. Siegl,G.,Weitz,M.& Kronauer,G.Stability of hepatitisA virus.Intervirology 22,   \n218-226 (1984).   \n4. Ping,L.H.& Lemon,S.M.Antigenic structure of human hepatitis A virus defined by analysis of escape mutants selected against murine monoclonal antibodies. J. Virol.66,2208-2216 (1992).   \n5. Borley,D.W.etal. Evaluation and use of in-silico structure-based epitope predictionwith foot-and-mouth disease virus.PLoS ONE8,e61122(2013).   \n6. Tate,J.etal.The crystal structure of cricket paralysis virus: the first view of a new virus family.Nature Struct. Biol.6,765-774(1999).   \n7. Squires,G.etal. Structure of the Triatoma virus capsid.Acta Crystallogr. D.69,   \n1026-1037 (2013).   \n8. Dotzauer,A., Brenner,M.,Gebhardt, U.& Vallbracht,A.IgA-coated particles of HepatitisAvirusare translocalized antivectoriallyfrom the apicalto the basolateral site of polarized epithelial cells via the polymeric immunoglobulin receptor.J.Gen. Virol.86,2747-2751 (2005).   \n9. Dotzauer,A.etal. Hepatitis A virus-specific immunoglobulin A mediates infection of hepatocytes with hepatitis Avirus via the asialoglycoprotein receptor.J.Virol.74,   \n10950-10957 (2000).   \n10.Deinhardt,F.Prevention of viral hepatitis A: past, present and future.Vaccine 10 (suppl.1),10-14(1992).   \n11.Lemon,S.M.& Binn,L.N.Antigenic relatedness of two strains of hepatitisAvirus determined by cross-neutralization.Infect. Immun.42,418-420 (1983).   \n12.Graff,J.etal. Hepatitis A virus capsid protein VP1 hasa heterogeneous Cterminus. J.Virol.73,6015-6023 (1999).   \n13.Tesar,M.,Jia,X.Y.,Summers,D.F.& Ehrenfeld,E.Analysis of a potential myristoylation site in hepatitis A virus capsid protein VP4.Virology 194,616-626 (1993).   \n14.Martin,A.& Lemon,S.M.Hepatitis Avirus: from discovery to vaccines.Hepatology 43,S164-S172 (2006).   \n15.Kaplan,G.etal.Identification of a surface glycoprotein on African green monkey kidneycellsasa receptor for hepatitisA virus.EMBO J.15,4282-4296 (1996).   \n16.Bishop,N.E.& Anderson,D.A.RNA-dependent cleavage of VPO capsid protein in provirions of hepatitis A virus.Virology197,616-623 (1993).   \n17.Wang,X.et al.A sensor-adaptor mechanism for enterovirus uncoating from structuresof EV71.Nature Struct.Mol. Biol.19,424-429 (2012).   \n18.Rossmann, M.G.et al. Structure of a human common cold virus and functional relationship to other picornaviruses.Nature 317,145-153 (1985).   \n19.Siegl,G.,Frosner,G.G., Gauss-Muller,V.,Tratschin,J.D.& Deinhardt,F.The physicochemical properties of infectious hepatitis A virions.J. Gen. Virol.57, 331-341 (1981).   \n20.De Colibus,L.etal.More-powerful virus inhibitors from structure-based analysis of HEV71 capsid-binding molecules. Nature Struct Mol. Biol.21,282-288 (2014).   \n21.Acharya,R.etal.The three-dimensional structure of foot-and-mouth disease virus at 2.9 A resolution.Nature 337,709-716 (1989).   \n22.Liu,Y.& Eisenberg,D.3D domain swapping:as domains continue to swap.Protein Sci.11,1285-1299 (2002).   \n23.Walter,T.S.etal.A plate-based high-throughput assay for virus stability and vaccine formulation.J.Virol. Methods185,166-170 (2012).   \n24.Porta,C.et al. Rational engineering of recombinant picornavirus capsids to produce safe,protective vaccine antigen.PLoS Pathog.9,e1oo3255 (2013).   \n25.Filman,D.J.et al. Structural factors that control conformational transitions and serotype specificity in type3 poliovirus.EMBO J.8,1567-1579 (1989).   \n26.Warwicker,J.Modelfor the differential stabilities of rhinovirus and poliovirus to mild acidic pH,based on electrostatics calculations.J. Mol. Biol.223,247-257 (1992).   \n27.Garriga,D.etal.Insights into minor group rhinovirusuncoating: the X-ray structure of the HRV2 empty capsid.PLoS Pathog.8,e1002473 (2012).   \n28.Ren,J.etal.Picornavirus uncoating intermediate captured in atomic detail.Nature Commun.4,1929 (2013).   \n29.Butan, C., Filman,D.J.& Hogle,J.M.Cryo-electron microscopy reconstruction shows poliovirus 135S particles poised for membrane interaction and RNA release.J.Virol.88,1758-1770 (2014).   \n30.Riffel,N.etal.Atomic resolution structure of Moloney murine leukemia virus matrix protein and its relationship to other retroviral matrix proteins.Structure10, 1627-1636 (2002). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information is available in the online version of the paper ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThis work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences,grant no.XDB080202Oo,the Ministry of Science and Technology 973 Project (grant no.2014CB54280O),the National Major Project of Infectious Disease (2O12ZX1ooo47O1) and National Science Foundation grant8133Oo36.D.I.S.and E.E.F.are supported by the UK Medical Research Council (grant G1Oooo99)and J.R.by the Wellcome Trust.This work is a contribution from the Instruct Centre,Oxford.Administrative support was provided by the Wellcome Trust (075491/Z/O4).We thank J.Johnson and A.Routh for supplying CrPV,and S.Lemon and K.McKnight for discussions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions Q.G.,J.W.,Z.H.and W.Y.prepared samples.X.W.,J.R., Q.G.,X.L., Y.S.,E.E.F.and D.I.S.performed research,J.R.,X.W.,E.E.F.and D.I.S.analysed data and with D.J.R.and Z.R.wrote the manuscript,in discussion with J.W.and Z.H. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Author Information The coordinates and structure factors for the fulland empty particles have been deposited with the RCSB Protein Data Bank under accession codes 4QPl and 4QPG,respectively.Reprints and permissions information is available at www.nature.com/reprints.The authors declare no competing financial interests. Readers are welcome to commenton the online version of the paper.Correspondence and requests for materials should be addressed to D.I.S.(dave@strubi.ox.ac.uk), Z.R.(raozh@xtal.tsinghua.edu.cn) or J.W.(wangjz@nicpbp.org.cn). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Particle production and purification.HAV virus genotype TZ84 was used to infect 2BS cells at a multiplicity of infection (MOI) of 0.2 at $3 3 - 3 4 ^ { \\circ } \\mathrm { C }$ Cellswere harvested 4 weeks after infection,lysed by treatment with ice-cold $1 \\%$ sodium deoxycholate inPBS buffer $\\mathrm { ( p H } 7 . 2 \\mathrm { ) }$ and centrifuged to remove cell debris.The supernatant was passed through a $0 . 2 2 ~ { \\mu \\mathrm { m } }$ filter,concentrated with a $1 0 0 \\mathrm { { k D a } }$ cutoff concentrator and washed with PBS buffer repeatedly.Virus was inactivated by incubation with formaldehyde(1:2,ooo dilution) at $4 ^ { \\circ } \\mathrm { C }$ for 7days,followed by polyethylene glycol 6ooo precipitation,chloroform extraction,differential ultracentrifugation and gel filtration.Crude HAV concentrate(1 mg in PBS buffer pH7.4) was loaded onto a $1 5 \\mathrm { - } 4 5 \\%$ (W/V） sucrose density gradient and centrifuged at ${ 2 9 , 0 0 0 \\mathrm { r . p . m } }$ .for $3 . 5 \\mathrm { h }$ in an SW41 rotor at $4 ^ { \\circ } \\mathrm { C }$ Two sets of fractions were collected and dialysed againstPBS buffer(Extended Data Fig.la): one contained empty particles (containing no RNA) and the other virions.The two types of viral particle were further purified by $1 0 \\mathrm { - } 4 0 \\%$ (W/V) sucrose density gradient ultracentrifugation at29,000 r.p.m.for3h inan SW4l rotor at ${ \\bf \\cdot } 4 { \\bf \\cdot } ^ { \\circ } { \\bf C } .$ The main bands were collected and dialysed against PBS buffer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Biochemical,biophysical and EManalysis.SDS-PAGE for protein analysis used a NuPAGE $4 \\mathrm { - } 1 2 \\%$ Bis-Tris Gel (Invitrogen) according to the manufacturer's protocol (Extended Data Fig.lb).The sedimentation coeficients for the two types of particle were determined usinga BeckmanXL-Ianalytical ultracentrifuge at $4 ^ { \\circ } \\mathrm { C }$ (Extended Data Fig.lc,d).These results confirmed the two types ofHAV particle as full virions containing proteins VP1-4 and RNA and possessing a sedimentation coefficient of 144S and empty particles containing VP0,1 and 3 with no RNA and a sedimentation coefficient of 82S. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscope.Inactivated purified HAV viral particles were deposited onto a carbon-coated grid for1min.Excess sample was removed with filter paper,the grid washed twice with double distilled water and the sample immediately negatively stained for30 s with $2 \\%$ phosphotungstic acid(adjusted to $\\mathrm { p H } 7 . 0$ with1MKOH).Excess stain was removed,and the sample air-dried and transferred to an FEI Tecnai 2O transmission electron microscope for visualization (Extended Data Fig. le, f). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thermofluor assay.Thermofluor experiments were performed with an MX3005p RT-PCR instrument (Agilent/Stratagene).SYTO9 and SYPRO red(both Invitrogen) were used as fluorescent probes to detect the presence of single-stranded RNAand exposedhydrophobic regions of proteins,respectively²3. $5 0 \\mathrm { - } \\mu \\mathrm { l }$ reactions were set up ina thin-walled PCR plate(Agilent),containing $0 . 5 \\mathrm { - } 1 . 0 \\mu \\mathrm { g }$ of either virus or empty particles, ${ 5 \\mu \\mathrm { M } }$ SYTO9 and 3X SYPRO red in pHranging from 2 to 10 buffer solutions and ramped from $2 5 { - } 9 9 ^ { \\circ } \\mathrm { C }$ with fluorescence recorded in triplicate at $1 ^ { \\circ } \\mathrm { C }$ intervals.The RNA release $( T _ { \\mathrm { r } } )$ and melting temperature $( T _ { \\mathrm { m } } )$ were taken as the minima of the negative first derivative of the RNA exposure and protein denaturation curves,respectively (Extended Data Fig. 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Crystallization and data collection.Full and empty particles were concentrated to 1.5 and $3 \\mathrm { m g } \\mathrm { m l } ^ { - 1 }$ respectivelybefore crystallization in Greiner CrystalQuickX plates usinga version of the previously described nanolitre vapour diffusion procedure1 with $3 0 \\%$ MPD and $0 . 5 \\mathrm { M }$ ammonium sulphate as precipitants and 0.1MHEPESNabuffer at pH7.5.Crystals (rectangular plates of dimensions $\\sim 1 0 0 \\times 1 0 0 \\times 5 \\mu \\mathrm { M } )$ were cryo-protected using solutions containing up to $5 0 \\%$ MPD and $2 0 \\%$ glycerol depending on the crystal age.Data were collected from frozen crystals $( 1 0 0 \\mathrm { K } )$ on beamlines I03 and I24 at Diamond Light Source UK.Diffraction images of $0 . 1 ^ { \\circ }$ rotation were recorded ona Pilatus6M detector using beam size from $0 . 0 2 \\times 0 . 0 2 \\mathrm { m m } ^ { 2 }$ to $0 . 0 8 \\times 0 . 0 6 ~ \\mathrm { m m } ^ { 2 }$ commensurate with crystal size.Using 1.0-s exposure time and $1 0 0 \\%$ beam transmission,typically 50 useful images could be collected from one position of a crystal.For some larger crystals,data could be collected from two positions.A total of some 2Oo crystals ofboth full and empty particles were frozen and tested.17 empty particle crystals diffracted and gave a data set to $3 . 5 \\mathring \\mathrm { A }$ resolution with $6 8 . 0 \\%$ completeness; 32 full virus crystals resulted in a data set to $3 . 0 \\mathring \\mathrm { A }$ resolutionwith $4 4 . 4 \\%$ completeness.Although the data suffered fromthe large mosaic spread of the crystals,the minimal divergence of the X-ray beam on IO3 ameliorated the problem. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Structure determination. Data were analysed using $\\mathrm { H K L } 2 0 0 0 ^ { 3 2 }$ .The mosaicity differed for the full and empty particle crystals ranging from $0 . 3 5 ^ { \\circ }$ to $0 . 8 5 ^ { \\circ }$ .The data were inevitably very weak with average $I / \\sigma I$ of 1.4 for the full particle data set and 3.0 for the empty particle data sets.The structures of both particles were determined by molecular replacement.The space group for the empty particle was $P 2 _ { 1 } 2 _ { 1 } 2$ （20 with unit cell dimensions $a = 3 6 6 . 1 \\mathring { \\mathrm { A } } , \\mathsf { \\dot { b } } = \\mathring { 4 } 4 2 . \\mathring { 9 } \\mathring { \\mathrm { A } }$ and $c = \\dot { 2 } 8 9 . 0 \\mathring \\mathrm { A }$ (30 protomers ina crystallographic asymmetric unit).For the full virus,the unit cell dimensions are $a = 2 9 1 . 5 \\mathring { \\mathrm { A } } , \\dot { b } = 4 2 \\mathring { 3 } . 3 \\mathring { \\mathrm { A } } , c = 3 1 4 . 8 \\mathring { \\mathring { A } }$ 1and $\\beta = 1 0 0 . 2 ^ { \\circ }$ ,space group $P 2 _ { 1 }$ with a full particle in asymmetric unit.Phasing used molecular replacement with an FMDV model(Cαs of a pentamer,Protein Data Bank accession1FMD) followed by noncrystallographic symmetry (NCS) averaging and refinement using strict NCS constraints33.The full virus was centred at (194.1,106.1,85.6) and the empty particle at (0,221.5,6.0).For each space group the content of the crystallographic asymmetric unit was subjected to rigid-body refinement,followed bycyclic positional,simulated annealing and B-factor refinement using strictNCS constraints with $\\mathrm { C N S } ^ { 3 3 }$ .Maps were averaged used GAP(D.I.S.,J.Grimes and J.Diprose, unpublished) and models were rebuilt with $\\mathrm { C O O T ^ { 3 4 } }$ .Refinement of the full particle structure stuck at an $R$ -factorof $3 1 . 8 \\%$ ，probablyattributable to imperfect isomorphism of the constituent crystals and to the extreme weakness of the data. For statistics,see Extended Data Table 1. Structural comparisons used $\\mathrm { S H P } ^ { 3 5 }$ Unless otherwise noted structural figures were prepared with $\\mathrm { P y M O L } ^ { 3 6 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Production of monoclonal antibody and neutralization assay.Groups of 15 adult (4weeks old) female BALB/c mice were immunized intraperitoneally with $1 0 \\mu \\mathrm { g }$ inactivatedHAVvirus.Allanimal procedures were carried out inaccordance with the guideline for the Use of Animals inResearch issuedby the Institute of Biophysics,Chinese Academy of Sciences.Two booster doses were given at 2 weekly intervals.Two weeks after thelast immunization,blood samples were obtained from the tail and tested by enzyme-linked immunosorbent assay(ELISA) using purified HAV virus as antigen.Classical protocols for production of monoclonal antibody were followed (continuous cultures of fused cells secreting antibody of predefined specificity).For the neutralization assay,purified monoclonal antibodies at a concentration of $0 . 2 \\mathrm { m g } \\mathrm { m l } ^ { - 1 }$ were initially diluted eightfold as stocks,and then serially diluted twofold withDMEMcontaining $2 \\%$ FBS. $1 0 0 ~ \\mu \\mathrm { l }$ of twofold antibody dilutions were mixed with $1 0 0 \\mu \\mathrm { l }$ ofHAV virus containing $1 0 0 \\mathrm { T C I D } _ { 5 0 }$ for $^ { \\textrm { 1 h } }$ at $3 7 ^ { \\circ } \\mathrm { C } ,$ and thenadded to monolayers of2BS cells in cell culture flasks $( \\mathrm { T } 2 5 { \\mathrm { C M } } ^ { 2 } )$ _ meanwhile,maintaining medium was provided as well.Each dilution was replicated three times along with one control that contained no serum dilution.After 21 days of growth at $3 3 ^ { \\circ } \\mathrm { C }$ ,the medium was removed and the cells washed three times using PBS buffer, $1 \\mathrm { m l }$ of trypsin/EDTA was added and the flask left for $3 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ The suspended cells were freeze-thawed five times to collect the virus.Enzymelinked immunosorbent assay(ELISA) was used to determine neutralizing titre.The titres were read as the highest dilution that gave complete protection. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Peptide-ELISA assay.Synthetic peptides spanning the entire exposed region of HAVVP1,VP2 and VP3 capsid proteins were synthesized by Scilight-Peptide Company(Beijing,China).The reactivity of synthetic peptides with purified HAV neutralizing monoclonal antibody was measured by ELISA.Briefly,96-well plates were coated with $1 0 0 \\mu \\mathrm { l w e l l } ^ { - 1 }$ of individual peptide $( 1 0 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in PBS buffer) at $4 ^ { \\circ } \\mathrm { C }$ overnight.An unrelated EV71 peptide was used as a negative controland inactivated HAV as a positive control.The wells were then incubated sequentially with $1 0 0 \\mu \\mathrm { l w e l l } ^ { - 1 }$ ofPBST plus $5 \\%$ skimmed milk powder at $3 7 ^ { \\circ } \\mathrm { C }$ for $\\mathrm { 1 h } ,$ and $1 0 0 \\mu \\mathrm { l }$ well-1of HAV neutralizing monoclonal antibodies at the indicated dilutions were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { \\mathrm { 1 h } }$ Horseradish peroxidase (HRP) conjugated goat antimouse IgG diluted(1:5,000) in PBST plus $1 \\%$ milk powder was used as secondary antibodyat $3 7 ^ { \\circ } \\mathrm { C }$ for1h.Five washes with PBST were carried out between incubation steps.For colour development, $1 0 0 \\mu \\mathrm { l w e l l } ^ { - 1 }$ of TMB mixture was added and incubated for $1 0 \\mathrm { m i n }$ ,followedbyadditionof $5 0 \\mu \\mathrm { l w e l l } ^ { - 1 }$ of1M $\\mathrm { H } _ { 3 } \\mathrm { P O } _ { 4 }$ to stop the reaction.Absorbancewas measured at $4 5 0 \\mathrm { n m }$ in a 96-well plate reader. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "31.Walter,T.S.etal.A procedure for setting up high-throughput nanolitre crystallization experiments. Crystallization workflow for initial screening, automated storage,imaging and optimization.Acta Crystallogr.D61,651-657 (2005).   \n32. Minor,W.,Cymborowski,M.,Otwinowski,Z.& Chruszcz,M.HKL-3oOO:the integration of data reduction and structure solution—from diffraction images to an initial model in minutes.Acta Crystalogr. D62,859-866 (2006).   \n33. Brunger,A.T.etal.Crystallography& NMR system:A new software suite for macromolecular structure determination.Acta Crystallogr.D 54, 905-921 (1998).   \n34. Emsley,P.,Lohkamp,B.,Scott,W.G.& Cowtan, K.Features and development of Coot.Acta Crystallogr.D66,486-501 (2010).   \n35. Stuart,D.I., Levine,M.,Muirhead,H.& Stammers,D.K.Crystal structure of cat muscle pyruvate kinase ata resolution of 2.6A.J.Mol.Biol.134,109-142(1979).   \n36. PyMOL.The PyMOL Molecular Graphics System,Version 1.5.0.4 Schrodinger, LLC.(2002).   \n37. Schuck,P.Size-distribution analysis of macromolecules by sedimentation velocity ultracentrifugation and lamm equation modeling.Biophys.J.78,   \n1606-1619 (2000).   \n38. Lawrence,M.C.& Colman,P.M.Shape complementarityat protein/protein interfaces.J.Mol. Biol.234,946-950 (1993).   \n39. Chapman,M.S.& Rossmann,M.G.Comparison of surface properties of picornaviruses:strategies for hiding the receptor site from immune surveillance. Virology195,745-756 (1993). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f81cec15338f1132f9b8500c774ce9c80da4626390842ce4df8f56b666e4cd77.jpg",
+        "img_caption": [
+            "ExtendedData Figure $\\mathbf { \\nabla } _ { \\left\\lfloor \\mathbf { \\sigma } \\right\\rfloor } \\left| \\mathbf { H A V } \\right.$ purification and characterization. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a,Zonal ultracentrifugation of a $1 5 \\%$ to $45 \\%$ (w/v) sucrose density gradient at $^ { 1 0 3 , 6 1 4 } \\mathrm { g }$ for $3 . 5 \\mathrm { h }$ was used to purify HAV,as described in Methods.Two predominant particle types were separated; one was located at ${ \\sim } 2 7 \\%$ sucrose, the other at ${ \\sim } 3 2 \\%$ sucrose.The absorbance ratios $( \\lambda 2 6 0 / \\lambda 2 8 0 )$ were 0.76 for the top band and1.66 for the bottom band,indicating that the former contained mainly empty particles without the RNA genome and the latter mainly full particles with the RNA genome.The top band was much broader than the bottom one.Three and two fractions were collected around the top and the bottom bands,respectively,for further purification.b,SDS-PAGE for protein composition analysis using A NuPAGE $4 \\mathrm { - } 1 2 \\%$ Bis-Tris Gel (Invitrogen).Each lane was loaded with $5 { \\mathrm { - } } 1 0 ~ { \\mu } { \\mathrm { g } }$ sample (lane 1,full particles; lane 2,empty particles; lane 3,markers).The calculated molecular masses of VPo,VP1,VP2, VP3 andVP4were $2 7 . 2 6 \\mathrm { k D a }$ $3 0 . 7 3 \\mathrm { k D a }$ ， $2 4 . 8 0 \\mathrm { k D a }$ ,27.86kDa and $2 . 5 0 \\mathrm { k D a }$ ， respectively.The results appear to show incomplete cleavage of VP0 in the full particles and no VPo cleavage in the empty particles.c,d, Sedimentation velocity experiments were performed on a Beckman XL-I analytical ultracentrifuge at $2 0 { } ^ { \\circ } \\mathrm { C } .$ Samples were loaded into a conventional double-sector quartz cell and mounted ina Beckman four-hole An-6o Ti rotor.Data were collected at $1 5 , 0 0 0 \\mathrm { r . p . m }$ .atawavelength of $2 8 7 \\mathrm { n m }$ .Interference sedimentation coefficientdistributions were calculated from the sedimentation velocity data using SEDFIT7.The full particle has a sedimentation coefficient of 144S and the empty particle 82S.e,f,Negative stain electron microscopy of HAV particles.Particles from the top band in panel a, shown in panel f,suggest that light sedimentation fractions were mainly composed of empty particles. Note that some particles appear to have external features.Panel e shows the heavy particles,which appear to contain viral RNA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/920f9c232346ddca1d93bc14acd73df524571e9ec5c543fe98f235f84f2a6f58.jpg",
+        "img_caption": [
+            "Extended Data Figure 2|HAV capsid protein structure.a-c, Stereo diagrams showing the structures of the capsid proteins VP1,VP2 and VP3, respectively. The $\\mathsf { C a }$ backbone is shown asa thin line,the Nand C termini are labelled,every lOth residue is marked with a small sphere and every $2 0 \\mathrm { { t h } }$ is numbered.d,VP1is initially produced with an 8-kDa C-terminal extension ",
+            "(known as PX) unique to HAV among picornaviruses.PX is cleaved from the full particle by an unknown host protease.According to the data shown in Extended Data Fig.1 and the electron density maps,the particleswe have analysed do not contain PX,but if it were present we would expect its course to start at the purple positions(C termini of VP1) on the surface of the virus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/89ca2f58aa90f90c5e36f884c4abe4ddf7dd57191de90fb45e8b1f675380e785.jpg",
+        "img_caption": [
+            "tended Data Figure 3|Antigenicity of full and empty particles. The represent the average $\\mathrm { O D } _ { 4 5 0 }$ reading for the six monoclonal antibodies at eac reactivity of HAV full and empty particles against a panel of six purified HAV dilution with the standard deviation shown as an error bar. itralizing monoclonal antibodies was measured by ELISA.The bar charts "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c0ee73fda80d45c9d3c38c240ca1fceacd0b371ff428f8625f485c9af66be9a.jpg",
+        "img_caption": [
+            "ExtendedDataFigure4|PaSTRyassays.Tocharacterize the stability of HAV full and empty particles compared to CrPv across the pH range from 2.0 to 10.0,differential scanning fluorimetry assays were performed with dyes SYTO9 (to detect RNA exposure) and SYPRO red(to detect protein melting)²3. a,The raw fluorescence traces of HAV full particles incubated with SYTO9. b,The raw fluorescence traces ofHAV full particles incubated with SYPRO red. c,The raw fluorescence traces of HAV empty particles incubated with SYPRO red.d,The raw fluorescence traces of CrPVfullparticles incubated with SYTO9 across the same pH range.The colour scheme is dark red $\\left( \\mathrm { p H } 2 . 0 \\right)$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "red $\\mathrm { ( p H } 3 . 0 )$ ,orange $\\mathrm { ( p H 4 . 0 ) }$ ,yellow $\\mathrm { ( p H 5 . 0 ) }$ ，green $\\left( \\mathrm { p H } 6 . 0 \\right)$ ,sky blue $\\mathrm { ( p H 7 . 0 ) }$ ,blue $\\left( \\mathrm { p H 8 . 0 } \\right)$ ,dark blue $\\left( \\mathrm { p H 9 . 0 } \\right)$ and purple $\\mathrm { ( p H 1 0 . 0 ) }$ . Since the SYTO9 dye didn't function well below $\\mathrm { p H } 4 . 0$ the fluorescence traces for $\\mathrm { p H } 2 . 0$ and $\\mathrm { p H } 3 . 0$ are omitted.These results indicate that HAV full virions are most stable at $\\mathrm { p H } 5 . 0$ and RNA genome release occurs at about $7 6 ^ { \\circ } \\mathrm { C }$ and protein meltingat $7 7 ^ { \\circ } \\mathrm { C } ;$ ：thatis,thereisno notable transitionbetweenRNAreleaseand particle loss.HAV empty particles showa similar trend but appear to withstand temperaturesup to $8 1 ^ { \\circ } \\mathrm { C }$ in low $\\mathrm { \\ p H }$ buffer.In contrast $\\mathrm { C r P V }$ is most stable at $\\mathrm { p H } 4 . 0$ and RNA genome release occurs at about $5 4 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ee622a3b3eb3c64e5dcdf259b5e5f02c21ee1fdb4961180135de1bbacc42887.jpg",
+        "img_caption": [
+            "Extended Data Figure 5|Interactions between α1 helices of VP2 at the icosahedral two-fold.a,The close-packing of the two helices is shown,in particular the packing of Tyr lOo against the adjacent helix.The contact area between these helices and the surface complementarity38 suggests a well-fiting interface for HAV (contact area $8 3 \\mathring { \\mathrm { A } } ^ { 2 }$ ,surface complimentarity 0.755;EV71, 111/0.550;Polio-1,124/0.785;CrPV,72/0.707;FMDV,50/0.593).The interface ",
+            "between protomers forming the pentameric units is similar forall of these viruses (HAV,4,267 $\\mathring { \\mathrm { A } } ^ { 2 }$ ；Polio-1, $\\mathring { 4 3 6 9 \\mathring { \\mathrm { A } } ^ { 2 } }$ $\\mathrm { c r P V }$ 0 $\\mathbf { 4 , 6 4 7 \\mathring { A } } ^ { 2 }$ ；EV71, $4 , 1 3 1 \\mathring { \\mathrm { A } } ^ { 2 }$ FMDV-A22, $3 , 4 3 2 \\mathring { \\mathrm { A } } ^ { 2 }$ ).b,Helical wheel diagrams for helix αl of several picornaviruses showing the unusually small side chains at the helix interface in HAV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcbfed07340e1dcbea2e43c737d6423f0b7ff69e48a693e0f10a6a625429e627.jpg",
+        "img_caption": [
+            "ExtendedDataFigure $\\mathbf { 6 } \\mid$ Antigenicityand $\\mathbf { Y P X _ { 3 } L }$ ALIX-interacting motifs. a,Previously indicated antigenic sites of HAV are mapped onto the structure (pink spheres).Late domain $\\mathrm { Y P X } _ { 3 } \\mathrm { L }$ motifs are shown as orange spheres. b-d, Surface maps of HAV generated using $\\mathrm { R I V E M } ^ { 3 9 }$ such that area for each residue as drawn corresponds to its accessible area and the coloration is "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "according to the radius from the virus centre (blue,deepest; red,most exposed). On these the antigenic sites of HAV are depicted in purple.b,Previously reported antigenic sites; c,predicted sites;d,new sites determined by peptide mapping (indigo) together with previously identified sites (purple) ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/738efd13aa2e73f2747302cdd116fc7ed6ab5378bc3defa2e2642f9cf36b8d7b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Antibodies</td><td>Neutralization tilters</td></tr><tr><td></td><td></td></tr><tr><td>#1</td><td><1:8</td></tr><tr><td>#2 #3</td><td><1:8</td></tr><tr><td>#4</td><td>1:64 <1:8</td></tr><tr><td>#5</td><td>1:1024</td></tr><tr><td>#6</td><td></td></tr><tr><td>#7</td><td>1:1024</td></tr><tr><td>#8</td><td>1:4096</td></tr><tr><td>#9</td><td><1:8</td></tr><tr><td></td><td>1:1024</td></tr><tr><td>#10</td><td>1:512 1:1024</td></tr><tr><td>#11 #12</td><td><1:8</td></tr><tr><td>A9(EV71 mAb)</td><td><1:8</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/08bcc67ac95c9a57255a6bfd30455028612207f67c0bde9dcfed974ffd2ce7cb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Peptide name</td><td>Residues</td><td>Sequence</td></tr><tr><td>PEP1</td><td>VP1:260-272</td><td>APLNSNAMLSTES</td></tr><tr><td>PEP2</td><td>VP1: 111-125</td><td>TLSSTSNPPHGLPST</td></tr><tr><td>PEP3</td><td>VP1:159-178</td><td>TPVGLAVDTPWVEKESALSI</td></tr><tr><td>PEP4</td><td>VP1:232-245</td><td>QIANYNHSDEYLSF</td></tr><tr><td>PEP5</td><td>VP1:146-155</td><td>IITGATDVDG</td></tr><tr><td>PEP6</td><td>VP1:97-108</td><td>TFTFNSNNKEYT</td></tr><tr><td>PEP7</td><td>VP1:206-225</td><td>SYLYAVSGALDGLGDKTDST</td></tr><tr><td>PEP8</td><td>VP2:130-146</td><td>PGDQSYGSIASLTVYPH</td></tr><tr><td>PEP9</td><td>VP2: 162-179</td><td>PFIYTRGAYHFKDPQYPV</td></tr><tr><td>PEP10</td><td>VP2:188-200</td><td>SELNIGTGTSAYT</td></tr><tr><td>PEP11</td><td>VP2: 69-78</td><td>LTTHALFHEV</td></tr><tr><td>PEP12</td><td>VP3:67-77</td><td>NASDSVGQQIK</td></tr><tr><td>PEP13</td><td>VP3:81-99</td><td>VDPYFFQMTNTNPDQKCIT</td></tr><tr><td>PEP14</td><td>VP3:137-153</td><td>PGNELIDVSGITLKQAT</td></tr><tr><td>PEP15</td><td>VP3:177-198</td><td>SDTPYRVNRYTKEAHQKGEYTA</td></tr><tr><td>PEP16</td><td>VP3:233-246</td><td>CFAPLYHAMDVTTQ</td></tr><tr><td>PEP17</td><td>VP3:208-219</td><td>NRLTSPSNVAHH</td></tr><tr><td>PEP18</td><td>VP3:110-121</td><td>FWRGDLVFDFQV</td></tr><tr><td>EV71_P</td><td>VP1:211-225</td><td>FGEHKQEKDLEYGAC</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae8858bf36141cf6d397a1103c8d0165a1eef7cdc0306f5a59af3ef4ddd8ebdf.jpg",
+        "img_caption": [
+            "Extended Data Figure 7|Monoclonal antibody neutralization assays and peptide epitope mapping.a,In vitro neutralization assays of monoclonal antibodies against HAV (TZ84).b,Peptides used for epitope mapping. ",
+            "c,Reactivity of the neutralizing mAb 1l against synthetic peptides measured by peptide-ELISA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0aad457dbfac7d67a4f3a033654fe55bcab0928fbf6976234631c7557e2f616.jpg",
+        "table_caption": [
+            "Extended Data Table 1|Data collection,phasing and refinement statistics "
+        ],
+        "table_footnote": [
+            "Note that the $R _ { \\mathrm { f r e e } }$ isoflimitedtsbdtrtti "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Empty particle</td><td>Full particle</td></tr><tr><td colspan=\"3\">Data collection</td></tr><tr><td>Beam line</td><td>Diamond I03 and l24</td><td></td></tr><tr><td>particle</td><td>empty</td><td>full</td></tr><tr><td>Temperature (K)</td><td>100</td><td>100</td></tr><tr><td>Space group</td><td>P2,2,2</td><td>P2,</td></tr><tr><td>No.of crystals (positions)</td><td>17(29)</td><td>32(36)</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c(A)</td><td>a=366.1,b=442.9,c=289.0</td><td>a=291.5,b=423.3,c=314.8,β=100.2°</td></tr><tr><td>Resolution (A)</td><td>50.0-3.50 (3.56-3.50)</td><td>50.0-3.00 (3.05-3.00)</td></tr><tr><td>Unique reflections</td><td>404893(2925)</td><td>654559(6711)</td></tr><tr><td>R i/e</td><td>0.363(-)</td><td>0.410(0.933)</td></tr><tr><td></td><td>3.0(0.3)</td><td>1.4(0.5)</td></tr><tr><td>Completeness (%)</td><td>68.0(9.9)</td><td>44.4(9.1)</td></tr><tr><td>Redundancy</td><td>2.5(1.1)</td><td>1.9(1.1)</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Refinement Resolution (A)</td><td>50.0-3.50</td><td>50.0-3.00</td></tr><tr><td>No.reflections</td><td>392844/3880</td><td></td></tr><tr><td></td><td></td><td>643384/6633</td></tr><tr><td>Rwork/Rre</td><td>0.264/0.263</td><td>0.318/0.321</td></tr><tr><td>No.atoms</td><td>5358</td><td>5742</td></tr><tr><td>Mean B-factors (A²)</td><td>179</td><td>37</td></tr><tr><td>r.m.s.deviations</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.004</td><td>0.008</td></tr><tr><td>Bond angles (°)</td><td>1.0</td><td>1.4</td></tr></table></body></html>",
+        "page_idx": 12
+    }
+]

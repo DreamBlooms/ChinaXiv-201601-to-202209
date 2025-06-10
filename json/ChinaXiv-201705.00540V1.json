@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "High bio-based content waterborne UV-curable coatings with excellent adhesion and flexibility ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinyue Daia,b, Songqi Maa,\\*, Yonggang Wub, Jin Zhua, Xiaoqing Liua, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aNingboInstituteofMaterialTechnologyand Engineering,ChineseAcademyofSciences,Ningbo315201,PR China b College of Chemistry and Environmental Sciences,Hebei University,Baoding 071o02,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBio-based unsaturated polyester   \nWaterborne UV-curable coatings   \nItaconic acid   \nSoybean oil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A series of bio-based unsaturated polyesters was synthesized by melt polycondensation of itaconic acid with 1,4-butanediol and glycerol.Their chemical structures were confirmed by FT-IR, $^ 1 \\mathrm { H }$ NMR,acid and hydroxyl values.Waterborne UV curable dispersion coatings based on these polyesters and acrylated epoxidized soybean oil(AESO) were formulated.The average particle size and their stability before curing as well as the coating properties after curing,includingadhesion,flexibility,pencil hardness and solvent resistance,were investigated.Results demonstrated thatthe glycerol segment in the polyesters together with AESO led to the excellent coating properties interms of highest grade of adhesion(5B),OTflexibility, pencil hardness of 5Hand excellent solvent resistance(no appearance change after 250 double rubs with ethanoland acetone).This work provided us the coating systems combining the merits ofbeing bio-based, UV-curable and water dispersible. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Organic coating is an important sector of modern chemical industry.However,almost all the traditional coating systems inevitably contain significant amount of organic solvents or other volatiles. Recently,due to the increasing environmental protection consciousness and the stricter environmental legislation,the traditional solvent-based coatings have being gradually replaced by the environmental friendly ones [1].At the same time,fossil fuel reserve is expected to deplete around the year 2O5O if the present consumption rate continues [2.3].The industry and academia are motivated to explore the alternatives of petroleum derived chemicalswith greenand sustainable materials[4-6].Therefore,green technologies such as waterborne coating technology,renewable materials as well as UV cure which have the capability to produce high-performance coatings with high productivity,low energy consumption and extremely low VOC emissions have being preferred and developed [7-9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For instance, Chen et al.[1O] produced three kinds of coatings by co-photopolymerizing the norbornyl epoxidized linseed oil with different divinyl ether reactive diluents.Mahmoud[11] and Anget al.[12] synthesized several UV curable resins for coating applications from palm oil and its derivatives.Cai et al.[13] reported the bio-based films with good coating properties,which wasprepared by the UV copolymerization fromacrylated epoxidized soybean oil (AESO）and reactive diluents.However,itis easy to notice that the volatile reactive diluents and organic solvents are absolutely necessary for the above mentioned coating systems to obtain the satisfied properties.For the sake of reducing the VOC emission in coatings industry,waterborne coatings have gained more and more attention in recent years.The replacement of organic solvent or diluents by water has the advantages of decreasing air pollution,reducing the risk of fire,improving the aspects of occupational health and safety as well as lower energy consumption.Additionally,waterborne coatings also possess advantages such as easier viscosity control and greater ease of cleaning[14-16]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inour previous work [17]， three bio-based unsaturated polyesters were synthesized from itaconic acid and different diols (ethylene glycol,1,4-butanediol and 1,6-hexandiol) derived from renewable resources.And the waterborne UV-cured coatings based on these polyesters exhibited high hardness,good waterresistance and solvent resistance.However,theywere inferiorin the performance of adhesionand flexibility.In the presentwork,in order to improve the adhesion of the coatings,glycerol was incorporated into the molecular chain of the unsaturated polyester by copoly condensating with itaconic acid and 1,4-butanediol. In addition, the flexible acrylated epoxidized soybean oil (AESO) which is one of the paramount bio-renewable materials for coatings [8,18-20], was introduced to improve the flexibility.The particle size and stability of the waterborne dispersions before curingas well as the coating properties in terms of adhesion,flexibility,pencil hardness and solvent resistance of the final products were carefully investigated.The waterborne UV-cured coatings with high bio-based content were introduced in this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Rawmaterials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acrylated epoxidized soybean oil (AESO）was supplied by JiangSu LiTian Science and Technology Co.Ltd,China.Itisa yellowy transparent viscous liquid with acid number below $1 3 \\mathrm { m g }$ $\\mathsf { K O H } / \\mathrm { g }$ ，which contains approximately three double bonds in each triglyceride molecule determined by $^ 1 \\mathrm { H }$ NMR.Itaconic acid (IA),sodium hydrogen carbonate $( \\mathsf { N a H C O } _ { 3 }$ ）and triethanolamine were purchased from Zhejiang Guoguang Biochemistry Co., Ltd.Glycerol,1,4-butanediol,hydroquinone monomethyl ether (MEHQ), $p$ -toluenesulfonic acid and dibutyltin dilaurate (DBTL) were all obtained from Aladdin Reagent,China.2-Hydroxy-4- (2-hydroxyethoxy)-2-methylpropiophenone (Irgacure2959）was purchased from Heowns Biochem Technologies LLC.All chemicals were used as received without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ NMR was performed on a $4 0 0 \\mathrm { { M H z } }$ AVANCE III Bruker NMR spectrometer(Bruker,Switzerland) with acetone- ${ \\bf \\ddot { d } } _ { 6 }$ as a solvent. The infrared spectrum(FT-IR)was recorded with NICOLET 6700 FT-IR(NICOLET,America).The hydroxyl value(OHV) was defined as the number of milligrams of potassium hydroxide needed to neutralize the acetic acid formed in the acetylation of $_ { 1 \\mathrm { g } }$ sample according to ASTM D1957-86.The specified method involved acetylating hydroxyl groups with acetic anhydride in pyridine containing 4-dimethylaminopyridine as catalyst.After the reaction,the excess amounts of acetic anhydride was hydrolyzed with water and titrated with an aqueous solution of potassium hydroxide $( 0 . 5 \\mathrm { m o l / L } )$ .The difference between the volumes of base needed to neutralize the sample and a blank provides the hydroxyl value. The acid value (AV) was defined as the number of milligrams of potassium hydroxide required to neutralize $_ { 1 \\mathrm { g } }$ sample according to ASTMD465-O1 by titrating the non-volatile acid fraction of the sample with a potassium hydroxide solution in ethanol $( 0 . 1 \\mathrm { m o l / L } )$ The particle size of the dispersions was measured at $2 5 ^ { \\circ } \\mathsf { C }$ using the Microtrac S35oo (Microtrac Inc.,Montgomeryville,PA,USA) laser light particle size analysis apparatus.Samples were diluted with water into an appropriate concentration as indicated by the instrument.Thermogravimetric analysis (TGA) was performed on a Mettler-Toledo TGA/DSC1 Thermogravimetric Analyzer(METTLER TOLEDO,Switzerland) with high purity nitrogen as purge gas at a scanning rate of $2 0 ^ { \\circ } { \\mathsf { C } } { \\mathsf { m i n } } ^ { - 1 }$ from $5 0 ^ { \\circ } \\mathsf C$ to $6 0 0 ^ { \\circ } { \\mathsf C }$ .The pencil hardness of coatings with the thickness of about $5 0 \\mu \\mathrm { m }$ on tinplate sheet was measured according to ASTM D3363-Oo.The flexibility of the coatings was measured by T-Bend test according to ASTM D4145- 10.The adhesion of the coatings to tinplate sheet was evaluated using ASTM D3359-O9 crosshatch adhesion method.The solvent resistance of coatings was determined by the double rub method according to the modified ASTMD5402-06 [21].The UV-cured films were rubbed with cotton gauze using ethanol and MEK as a solvent. The results were reported as the minimum number of double rubs at which the films were observed to fail or $\" > 2 5 0 \"$ (if no change happened for the film after 25O double rubs,it was the maximum number of double rubs in the test). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/41306fc6edc4c4eaf3e3339c47572c83e0abfeb72a0802c84d8c1da0b9529a6f.jpg",
+        "table_caption": [
+            "Table 1 The feed composition and synthetic conditions of the bio-based polyesters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Polyesters</td><td rowspan=\"2\">IA/1,4-Butanediol/Glycerol (molar ratio)</td><td colspan=\"2\">Reaction time (h)</td></tr><tr><td>Prepoly.</td><td>Polycondensation</td></tr><tr><td>PIB97.5 G2.5</td><td>1.2/0.975/0.025</td><td>2</td><td>4</td></tr><tr><td>PIB95G.5</td><td>1.2/0.95/0.05</td><td>2</td><td>4</td></tr><tr><td>PIB92.5G7.5</td><td>1.2/0.925/0.075</td><td>2</td><td>4</td></tr><tr><td>PIB90G10</td><td>1.2/0.9/0.1</td><td>2</td><td>4</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Preparation of bio-based polyesters ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 1,the reaction mixtures of itaconic acid, 1,4-butanediol and glycerol with the predetermined molar ratio, $p$ -Toluenesulfonic acid monohydrate ( $0 . 5 \\mathrm { m o l } \\%$ relative to itaconic acid)as the catalyst for pre-polymerization and MEHQ(O.5 wt.% relative to the total weight of itaconic acid,1,4-butanediol and glycerol) as the free radical polymerization inhibitor were charged into a four-necked flask equipped with a mechanical stirrer,a thermometer,a reflux condenser and a nitrogen inlet.The mixtures were kept at $1 2 0 ^ { \\circ } { \\mathsf { C } }$ for $^ { 2 \\mathrm { h } }$ for the pre-polymerization to form the oligomers and then the oligomers were kept at $1 2 0 ^ { \\circ } { \\mathsf { C } }$ for $0 . 5 \\mathrm { h }$ under the vacuum of 0.09-0.095 MPa,so that most generated water couldbe removed from the system. Then DBTL(O.5 wt.% relative to the total weight of reactants） was added as the polycondensation catalyst.After the mixtures were kept at $1 2 0 ^ { \\circ } { \\mathsf { C } }$ under the vacuum of O.09-O.095 MPa for another several hours,they were cooled to a lower temperature and discharged before storing at a dry environment.The synthetic route was illustrated in Scheme 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.1.Poly (itaconic acid-1,4-butanediolg7.5-glycerol2.5) $( P I B _ { 9 7 . 5 } G _ { 2 . 5 } )$ （20 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ NMR ${ \\bf \\Lambda } ^ { \\prime } 4 0 0 \\mathsf { M H z }$ ，Acetone- ${ \\bf \\ddot { d } } _ { 6 }$ ),δ (ppm): 1.71,1.76,1.80 (t, $J { = } 1 6 \\mathrm { H z }$ ，4H, $- { \\mathsf { C } } { \\pmb { H } } _ { 2 } - { \\mathsf { C } } { \\pmb { H } } _ { 2 } - \\cdots$ ,5.80,5.83(d, $J { = } 1 2 \\mathsf { H z }$ = $\\mathsf { H } , { = } \\mathsf { C } \\pmb { H } _ { 2 }$ ), 6.28, 6.30 ( $\\mathrm { ~ \\ i ~ } _ { , J = 8 \\operatorname { H z } }$ $\\mathsf { H } , { = } \\mathsf { C } \\pmb { H } _ { 2 }$ ),3.36,3.40 ( $\\mathrm { \\Phi } _ { \\mathrm { d } , J = 1 6 } \\mathrm { \\cdot } \\mathrm { \\Pi }$ ,2H, $- 0 { \\mathrm { - } } { \\mathsf { C O - C H } } _ { 2 } - $ ） 4.10,4.13 ( $\\mathbf { \\dot { d } } , J = 1 2 \\mathsf { H z }$ ， $ { - }  { \\mathrm { C O - C } }  { \\mathbf { H } } _ { 2 }  { - }  { \\mathrm { C H } } _ { 2 } -  { \\mathrm { C } }  { \\mathrm { H } } _ { 2 }  { - }$ ),4.18,4.21 (d,2H, $J { = } 1 2 \\mathsf { H z }$ $\\begin{array} { r l } { - C \\mathrm { H } _ { 2 } { - } C \\pmb { H } _ { 2 } { - } 0 C { - } \\qquad } & { { } } \\end{array}$ ，4.31 $\\AA . - 4 . 3 4 ( \\mathrm { m } , 5 \\mathrm { H } , - 0 - C H _ { 2 } - C H ) \\mathrm { H } - C H _ { 2 } - \\mathrm { O } - \\mathrm { \\Large ~ \\gamma ~ }$ .FTIR (KBr, $\\nu / { \\mathrm { c m } } ^ { - 1 }$ ):3254(-0H),2964 $( - \\pmb { C } \\pmb { H } _ { 2 } -$ ), 1731( $\\scriptstyle \\mathbf { C } = \\mathbf { O } .$ ,818and 1637 $\\scriptstyle ( C = C H _ { 2 }$ ),1394 (C-0). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.2.Poly (itaconic acid-1,4-butanediolgs-glycerol5) $( P I B _ { 9 5 } G _ { 5 } )$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ NMR ${ \\bf \\dot { \\Psi } } 4 0 0 \\mathsf { M H z }$ ，Acetone- ${ \\bf \\ddot { d } } _ { 6 }$ ),δ(ppm): 1.71,1.76,1.79 (t, $J { = } 1 6 \\mathrm { H z }$ ,4H, $- { \\mathsf { C } } \\pmb { { \\cal H } } _ { 2 } - { \\mathsf { C } } \\pmb { { \\cal H } } _ { 2 } -$ ),5.80,5.83(d, $J { = } 1 2 \\mathsf { H z }$ = $\\mathsf { H } , { = } \\mathsf { C } \\pmb { H } _ { 2 }$ ), 6.28, 6. $3 0 ( \\mathrm { d } , J { = } 8 \\mathrm { H z } , \\mathrm { H } , { = } \\mathrm { C } \\pmb { H } _ { 2 }$ ,3.37,3.40(d $, J = 1 2 \\mathsf { H z }$ ,2H, $- 0 { \\mathrm { - } } \\mathsf { C O - C H } _ { 2 } - )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cdc651dd7bfcd62cb4390f54754e7a0f1229a81daff38919de5bc6e8f29b48a.jpg",
+        "img_caption": [
+            "Scheme 1. Synthesis of the bio-based unsaturated polyesters. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.10,4.13（ $\\mathbf { \\dot { Q } } , J = 1 2 \\operatorname { H z }$ ， $\\begin{array} { r l r } { - C 0 - C H _ { 2 } - C \\mathrm { H } _ { 2 } - } & { { } } & { } \\end{array}$ ,4.18,4.21( $\\mathsf { d } , J = 1 2 \\mathsf { H z }$ ,2H, $\\begin{array} { r l r } { - C \\mathrm { H } _ { 2 } { - } C { \\cal H } _ { 2 } { - } 0 C { - } } & { { } } & { } \\end{array}$ ,4.28-4.47(m，5H, $- 0 { \\mathrm { - } } C H _ { 2 } { \\mathrm { - } } C H { \\mathrm { } } { \\mathrm { O H - } } C H _ { 2 } { \\mathrm { - } } 0 - )$ .FTIR (KBr, $\\nu / { \\mathrm { c m } } ^ { - 1 }$ ): 3254(-0H),2963 $( - \\mathbf { C } \\pmb { H } _ { 2 } - )$ ，1730（ $\\scriptstyle \\mathbf { C } = \\mathbf { O } )$ ,819 and 1637( $\\scriptstyle \\mathbf { C = C H } _ { 2 }$ ),1395 (C-0). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3.Poly (itaconic acid-1,4-butanediolg2.5-glycerol7.5) （204号 $( P I B _ { 9 2 . 5 } G _ { 7 . 5 } )$ （2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ NMR( ${ \\bf \\dot { 4 0 0 M H z } }$ ，Acetone- ${ \\bf d } _ { 6 }$ ） $\\delta$ (ppm): 1.70,1.75,1.79 (t,$J { = } 1 6 \\mathrm { H z } , 4 \\mathrm { H }$ ， $- { \\mathsf { C } } { \\pmb { H } } _ { 2 } - { \\mathsf { C } } { \\pmb { H } } _ { 2 } -$ )，5.80,5.82 (d, $J { = } 8 \\mathrm { H z }$ ，H, $\\scriptstyle = \\mathbf { C } \\pmb { H _ { 2 } }$ )，6.28,6.30 (d, $J { = } 8 \\mathrm { H z }$ ， $\\mathsf { H } , \\mathsf { = } \\mathsf { C } \\pmb { { \\cal H } } _ { 2 }$ )，5.97 (s, $\\mathsf { H } , { = } \\mathsf { C } \\pmb { H } _ { 2 }$ )，6.40(s，H, $\\scriptstyle = \\mathbf { C } \\pmb { H } _ { 2 }$ ）3.37,3.40 (d, $J { = } 1 2 \\mathsf { H z }$ ，2H, $- 0 { \\mathrm { - } } { \\mathsf { C O - C H } } _ { 2 } - $ )，4.11,4.13(d， $J { = } 8 \\mathrm { H z }$ =1 $. { \\mathsf { C O - C H } } _ { 2 } { \\mathsf { - C H } } _ { 2 } - { \\mathsf { C H } } _ { 2 } -$ )，4.18，4.21 (d, $J { = } 1 2 \\mathsf { H z }$ ，2H， $\\begin{array} { r l } { - C \\mathrm { H } _ { 2 } \\mathrm { - } C \\pmb { H } _ { 2 } \\mathrm { - } 0 C \\mathrm { - } } & { { } } \\end{array}$ ），4.27-4.48(m,5H, $- \\mathsf { O } \\mathsf { - } \\mathsf { C } \\pmb { H } _ { 2 }$ -CHOH- $\\scriptstyle \\cdot \\mathbf { C } \\mathbf { H } _ { 2 } - 0 - { \\dot { \\mathbf { \\phi } } } .$ ).FT-IR(KBr, $\\nu / { \\mathrm { c m } ^ { - 1 } }$ ):3255 (-0H),2963 $( - \\mathbf { C } \\pmb { H } _ { 2 } - )$ ，1731 $\\scriptstyle ( \\mathbf { c } = \\mathbf { 0 } )$ ,819and 1637 $\\scriptstyle ( C = C H _ { 2 }$ )1395 (C-0).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.4.Poly (itaconic acid-1,4-butanediolgo-glycerol $\\dot { \\mathbf { \\zeta } } _ { 1 0 }$ ） $( P I B _ { 9 0 } G _ { 1 0 } )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ NMR ( ${ \\bf \\dot { 4 0 0 M H z } }$ ，Acetone- ${ \\bf d } _ { 6 }$ ),δ(ppm): 1.75,1.79,1.83 (t, $J { = } 1 6 \\mathrm { H z }$ ，4H, $- { \\mathsf { C } } { \\pmb { H } } _ { 2 } - { \\mathsf { C } } { \\pmb { H } } _ { 2 } - \\cdots$ ,5.83,5.85 (d, $J { = } 8 \\mathsf { H z }$ ， $\\mathsf { H } , { = } \\mathsf { C } \\pmb { H } _ { 2 }$ ), 6.31, 6.33 (d, $J { = } 8 \\mathsf { H z }$ ， $\\mathsf { H } , { = } \\mathsf { C } \\pmb { { \\cal H } } _ { 2 }$ ，6.00 (s, $\\mathsf { H } , { = } \\mathsf { C } \\pmb { { H } } _ { 2 }$ 0，6.40 (s, $\\mathsf { H } , { = } \\mathsf { C } \\pmb { { \\mathrm { I } } } _ { 2 }$ ) 3.40, 3.43 (d, ${ \\mathrm { J } } = 1 2 { \\mathrm { H } } z$ ,2H, $\\scriptstyle - 0 - \\mathsf { C O - C H } _ { 2 } - .$ ),4.14,4.16 (d, $J { = } 8 \\mathsf { H z }$ $\\begin{array} { r } { - C 0 - C { \\cal H } _ { 2 } - C \\mathrm { H } _ { 2 } - \\overline { { \\zeta } } \\mathrm { H } _ { 2 } - } \\end{array}$ ，4.21，4.23(d， $J { = } 8 \\mathrm { H z }$ ， $2 \\mathrm { H }$ ， $\\begin{array} { r l } { - C \\mathrm { H } _ { 2 } { - } C \\pmb { H } _ { 2 } { - } 0 C { - } ; } & { { } } \\end{array}$ L， 4.28-4.57 (m, 5H, $- 0 { \\mathrm { - } } C H _ { 2 } { \\mathrm { - } } C H { \\mathrm { 0 H - } } C H _ { 2 } { \\mathrm { - } } 0 - )$ .FT-IR(KBr, $\\nu / { \\mathrm { c m } ^ { - 1 } }$ ） 3254 (-0H), 2961 $( - \\mathbf { C } \\pmb { H } _ { 2 } - )$ ，1729 $( \\pmb { C } \\mathrm { = } \\pmb { O } )$ ,818and1635 $\\scriptstyle ( C = C H _ { 2 }$ ) 1393 (C-0). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Preparation of the waterborne UV-cured coatings ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the sake of obtaining the stable waterborne dispersions, the synthesized resins (or the synthesized resins and AESO)and deionized water mixtures were stirred vigorously for $5 \\mathrm { { m i n } }$ ，followed by slowaddition of sodiumhydrogencarbonate $( \\mathsf { N a H C O } _ { 3 }$ ） to partly neutralize the carboxylic acid groups of the resins at $5 0 ^ { \\circ } \\mathsf C$ After they were stirred with a mechanical stirrer at an agitation speed of $1 5 0 0 \\mathrm { r p m }$ for another $3 0 \\mathrm { m i n }$ ，the dispersions with $5 0 \\%$ solid content were obtained.Then 3 wt.% waterborne photoinitiator Irgacure 2959 and 2 wt $\\%$ curing promoter triethanolamine（on the base of the resins'weight) were added into these dispersed systems.Finally,the dispersions were coated onto the acetone cleaned tinplates,followedbydryingat $8 0 ^ { \\circ } C$ in the vacuum oven to reach a constant weight and cured at ambient temperature for 3 min using a high-pressure mercury lamp(1ooo W) at $3 6 5 \\mathrm { n m }$ .The distance from the lamp to the surface of sampleswas $1 5 \\mathrm { c m }$ .TheUVlight intensitywasabout $3 2 1 \\mathrm { m W } / \\mathrm { c m } ^ { 2 }$ (UVA)asmeasured byUVPower Puck I from EIT Inc.All the coatings were completely cured,clear with no visible defects such as pin holes,blisters,phase separation,etc.The thickness of the obtained coatings on the tinplate was about $5 0 \\mu \\mathrm { m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Synthesis and chemical structure identification of bio-based polyesters ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,the target polyesters were synthesized from itaconic acid,1,4-butanediol and glycerol via melt polycondensation without any VOC emission.In addition,it has been reported that not only itaconic acid but also glycerol and 1,4-butanediol could be produced from bio-renewable resources [22,23].As we know, in order to regulate the development of bio-based polymeric products,some international standards have been established for the determination of the bio-based content.The United States Department of Agriculture defines the bio-based content of a product as “the amount ofbio-based carbon in the material or product as a percentof the weight(mass) of the total organic carbon in the product\" ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/479d65b4517323e875c15a47b04592eb6615be333382a249c24c1d6061e89dcd.jpg",
+        "table_caption": [
+            "Table2 Feed composition,curing time and bio-based content for different samples. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Codes</td><td colspan=\"2\">Weight ratio</td><td rowspan=\"2\">Curing time (min)</td><td rowspan=\"2\">Bio-based content (wt.%)</td></tr><tr><td>Polyester</td><td>AESO</td></tr><tr><td>PIB97.5 G2.5</td><td>100</td><td>0</td><td>3</td><td>95</td></tr><tr><td>PIB95G5</td><td>100</td><td>0</td><td>3</td><td>95</td></tr><tr><td>PIB92.5G7.5</td><td>100</td><td>0</td><td>3</td><td>95</td></tr><tr><td>PIB90G10</td><td>100</td><td>0</td><td>3</td><td>95</td></tr><tr><td>PIB90G10/AESO 10</td><td>90</td><td>10</td><td>3</td><td>93.2</td></tr><tr><td>PIBgo G10/AESO 20</td><td>80</td><td>20</td><td>3</td><td>91.1</td></tr><tr><td>PIB90 G10/AESO 30</td><td>70</td><td>30</td><td>3</td><td>89.1</td></tr><tr><td>PIBg0 G10/AESO 40</td><td>60</td><td>40</td><td>3</td><td>86.9</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/807a1199bde5743e04a67b76633d40e7e5bd28d07619b0fa043f1c124d50156f.jpg",
+        "img_caption": [
+            "Fig.1.FT-IR spectra of $\\mathrm { P I B } _ { 9 7 . 5 } \\mathrm { G } _ { 2 . 5 }$ $\\mathrm { P I B } _ { 9 5 } { \\bf G } _ { 5 }$ $\\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[24].According to this definition,the bio-based content of the synthesized polyesters wasas highas $100 \\%$ ，which was the same as that of a natural biomass.And the waterborne UV-cured systems based on these polyesters also exhibited high bio-based content as displayed in Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The chemical structures of the synthesized polyesters were confirmed by FT-IR and $^ 1 \\mathrm { H }$ NMR.Fig.1 represents the FT-IR spectra of $\\mathsf { P I B } _ { 9 7 . 5 } \\mathsf { G } _ { 2 . 5 }$ ， $\\mathsf { P I B } _ { 9 5 } \\mathsf { G } _ { 5 }$ ， $\\mathsf { P I B } _ { 9 2 . 5 } \\mathsf { G } _ { 7 . 5 }$ and $\\mathsf { P I B } _ { 9 0 } \\mathsf { G } _ { 1 0 }$ ,respectively. The broad adsorption band centered at $3 2 5 4 \\mathrm { c m } ^ { - 1 }$ was corresponded to the-OH stretchingvibration of the carboxylic acids.The peak at $2 9 6 3 \\mathrm { c m } ^ { - 1 }$ was indicative of the presence of $\\mathbf { - } \\mathbf { C } \\pmb { H } _ { 2 }$ ,the strong absorption peak at $1 7 2 8 \\mathrm { c m } ^ { - 1 }$ was assigned to the $\\scriptstyle { \\mathbf { c } } = { \\mathbf { o } }$ stretching of ester units and the peaks at 819 and $1 6 3 8 \\mathrm { c m } ^ { - 1 }$ were belonged to the $\\scriptstyle { \\mathsf { c } } = { \\mathsf { C } } H _ { 2 }$ stretching.Moreover,as seen from the $^ 1 \\mathrm { H }$ NMR spectra of polyesters in Fig.2,the peaks of protons were all in accordance with the characteristic peaks of protons of the target polyesters.To furtheridentify the chemical structures,theirhydroxylvalue(OHV) and acid value(AV) were also examined by titration.In Table 3,all the polyesters exhibited high acid value,and theirhydroxyl values were in the order of $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } > \\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 } > \\mathrm { P I B } _ { 9 5 } \\mathrm { G } _ { 5 } > \\mathrm { P I B } _ { 9 7 . 5 } \\mathrm { G } _ { 2 . 5 }$ which was in good agreementwith theory values calculated from the feed compositions.These results demonstrated that the target compounds were synthesized successfully. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/05bb49c54c7d66dc87b3c60cd491b9ec2d583fd9b6c4eb7ec1dd9c23ee89c72f.jpg",
+        "table_caption": [
+            "Table 3 The acid value(AV) and hydroxyl value(OHV)of the polyesters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Value</td><td>PIB97.5G2.5</td><td>PIB95G5</td><td>PIB92.5 G7.5</td><td>PIB90G10</td></tr><tr><td>AV (mg KOH/g)</td><td>128</td><td>122</td><td>138</td><td>131</td></tr><tr><td>OHV (mg KOH/g)</td><td>17</td><td>21</td><td>34</td><td>47</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1770f0d705176d0f1113acac0f01e0fe9203bda13477aff5550d4b8c3135debb.jpg",
+        "img_caption": [
+            "Fig. 2. $^ 1 \\mathrm { H }$ NMR spectra of $\\mathrm { P I B } _ { 9 7 . 5 } { \\sf G } _ { 2 . 5 }$ $\\mathrm { P I B } _ { 9 5 } { \\sf G } _ { 5 }$ $\\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Average particle size and stability of the waterborne dispersions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The dispersion and its stability of the waterborne coating systems are extremely important for the coating processability and also impact the final properties of the coatings.Thus,average particle size of the waterborne dispersions of the coating systems and their stabilities were examined (Figs.3 and 4). As seen from Fig.3, the average particle size of the dispersions was decreased with the increasing of glycerol segment in the PIBG systems $( \\mathrm { P I B } _ { 9 7 . 5 } { \\sf G } _ { 2 . 5 }$ $\\mathsf { P I B 9 5 } \\mathsf { G } _ { 5 }$ ， $\\mathsf { P I B } _ { 9 2 . 5 } \\mathsf { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\rangle$ ,which was due to the reason that the number of hydrophilic groups（hydroxyl groups）was increased with the more and more glycerol segments incorporating into the polyesters chain.It is well known that the average particle size and dispersibility of the waterborne coatings dispersions are determined by several factors,such as hydrophilicity, ionic group position, the prepolymers structure and property, etc. [25,26].With other factors being comparable,hydrophilic polymers usually tend to produce smaller particles during dispersion process compared to hydrophobic polymers [27].For the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ /AESO systems in our study,the hydrophobic polymer AEsO enhanced their hydrophobicity,leading to the increased average particle size $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\mathrm { A E S O } 4 0 > \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\mathrm { A E S O } 3 0 > \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\mathrm { A E S O } 2 0 >$ $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\mathrm { A E S O } \\ 1 0 \\rangle$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The stability of emulsions can be evaluated by the level of demulsification and stratification during storage.Thus,visual examination was conducted to investigate the stability of the dispersions of PIBG and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems at room temperature. The images of different dispersions stored for different periods of time were shown in Fig.4.Generally,the smaller average particle size of the dispersions was,the better the stability of the dispersions was.Obviously,the stability of PIBG systems was in the order of $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } > \\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 } > \\mathrm { P I B } _ { 9 5 } \\mathrm { G } _ { 5 } > \\mathrm { P I B } _ { 9 7 . 5 } \\mathrm { G } _ { 2 . 5 }$ .For the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems,their stabilities were decreased seriously with the more AEsO introduction,which was proved by the stratification for all the AESO containing samples after 12h-storage. Fortunately,they were all dispersed homogeneously within several hours and could be coated well so as to obtain perfect films for properties investigation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/17bd464497d1d8523cf7905c0837a68da3fde23964ebda6839183fc20cd6e11f.jpg",
+        "img_caption": [
+            "Fig.3.Average particle size of the dispersions PIBG systems ( $\\mathrm { P I B } _ { 9 7 . 5 } { \\sf G } _ { 2 . 5 }$ $\\mathrm { P I B } _ { 9 5 } { \\bf G } _ { 5 }$ $\\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } { \\bf G } _ { 1 0 } \\mathrm { , }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } $ AESOsystems $\\mathrm { \\ P I B } _ { 9 0 } { \\bf G } _ { 1 0 } /$ AESO 10,PIBg0G10/AESO 20 $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } 3 0$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } /$ AESO 40). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7922c8bc0fde68ecdacdd5003a3c6eae21553535f51d46b76c9e3864b7204a0.jpg",
+        "img_caption": [
+            "Fig.4.Images of the dispersions of PIBG systems ( $1 = \\mathrm { P I B } _ { 9 7 . 5 } \\mathsf { G } _ { 2 . 5 }$ ， $2 = \\mathrm { P I B } _ { 9 5 } \\mathrm { G } _ { 5 }$ ， $3 = \\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 }$ and $\\begin{array} { r } { { \\cal 4 } = \\mathrm { P I B } _ { 9 0 } { \\cal G } _ { 1 0 } , } \\end{array}$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems $\\mathrm { \\dot { \\cdot } } 5 = \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } /$ AESO 10, $6 = \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } 2 0$ $7 = \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } /$ AESO 30 and $8 = \\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } 4 0 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dab469e4b741ace655f5743bc54f4a930201e245adc2415aae530e66fbebcb2f.jpg",
+        "img_caption": [
+            "Fig.5.TGA curves for the UV-cured networks (a: PIBG systems $\\mathsf { P I B } _ { 9 7 . 5 } \\mathsf { G } _ { 2 . 5 }$ $\\mathrm { P I B } _ { 9 5 } { \\bf G } _ { 5 }$ = $\\mathrm { P I B } _ { 9 2 . 5 } \\mathrm { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ ;b: $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } ,$ AESOsystems $\\mathrm { \\ P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } ,$ /AESO 10, $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ /AESO 20 $\\mathrm { , P I B 9 0 G } _ { 1 0 } / \\mathrm { A E S O } 3 0$ and $\\mathrm { P I B g } _ { 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } 4 0 )$ ) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Thermal stabilityof theUV-curednetworks ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The TGA curves of the UV-cured networks under nitrogen atmosphere are shown in Fig.5 and the data are summarized in Table 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Table 4,with the increase of glycerol segment in the PIBG systems $( \\mathsf { P I B } _ { 9 7 . 5 } \\mathsf { G } _ { 2 . 5 }$ ， $\\mathsf { P I B } _ { 9 5 } \\mathsf { G } _ { 5 }$ ， $\\mathsf { P I B } _ { 9 2 . 5 } \\mathsf { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\rangle$ ),the degradation temperature for $10 \\%$ weight loss $( T _ { d 1 0 \\% } )$ was decreased and the char yield at $6 0 0 ^ { \\circ } \\mathsf C$ （204号 $( R _ { 6 0 0 } )$ was increased. Meanwhile,when the AESO content was increased, the $T _ { d 1 0 \\% }$ of the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems was raised,while the char yield was reduced.This probably because the initial degradation temperature and the char yield of the polyesters have aclose tie with the OHV and AV.The higher OHV and AVof the samples are,the lower initial degradation temperatureand higherchar yield are.Aswe know, theintermolecular elimination usually starts from the hydroxyl and carboxyl groups during the thermal degradation[28,29],which will lead to a lower $T _ { d 1 0 \\% }$ ,and the dehydration reaction of hydroxyl promotes the char formation so as to result in a higher char yield [30-32]. Compared with $\\mathsf { P I B } _ { 9 0 } \\mathsf { G } _ { 1 0 }$ ，the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems, especially the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } \\ 1 0$ ,manifested a much higher $T _ { d 1 0 \\% }$ and char yield,although they possessed lower OHV and AV. It couldbe explained by the fact that increasingthe crosslink density of the network could also improve its stability.Although the flexible long chain of AESO, $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } \\ 1 0$ presented higher hardness than $\\mathsf { P I B } _ { 9 0 } \\mathsf { G } _ { 1 0 }$ as seen from Table 4,which was indicative of the higher crosslink density of $\\mathsf { P I B 9 0 G } _ { 1 0 } /$ AESO10 relative to $\\mathsf { P I B } _ { 9 0 } \\mathsf { G } _ { 1 0 }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b576c0d24bb9a02f1d6325d34c2efbaafdd582b831f0ba0ab45568cbe81a2d35.jpg",
+        "table_caption": [
+            "Table 4 Thermal properties and coating performance of the UV-cured networks. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>Thickness (um)</td><td>Adhesion</td><td>Pencil hardness</td><td>Flexibility</td><td>Td10% (C)</td><td>R600 (%)</td><td>MEK double rub resistance</td><td>Ethanol double rub resistance</td></tr><tr><td>PIB [17]</td><td>50</td><td>2B</td><td>2H</td><td>3T</td><td>256</td><td>21.6</td><td>>250</td><td>>250</td></tr><tr><td>PIB97.5G2.5</td><td>50</td><td>3B</td><td>2H</td><td>3T</td><td>245</td><td>23.2</td><td>>250</td><td>>250</td></tr><tr><td>PIB95G5</td><td>50</td><td>4B</td><td>2H</td><td>3T</td><td>242</td><td>24.4</td><td>>250</td><td>>250</td></tr><tr><td>PIB92.5G7.5</td><td>50</td><td>4B</td><td>3H</td><td>3T</td><td>241</td><td>26.3</td><td>>250</td><td>>250</td></tr><tr><td>PIB90G10</td><td>50</td><td>5B</td><td>3H</td><td>2T</td><td>240</td><td>29.3</td><td>>250</td><td>>250</td></tr><tr><td>PIB90G10/AESO10</td><td>50</td><td>5B</td><td>5H</td><td>2T</td><td>265</td><td>33.6</td><td>>250</td><td>>250</td></tr><tr><td>PIBg0G10/AESO20</td><td>50</td><td>5B</td><td>3H</td><td>2T</td><td>267</td><td>20.8</td><td>>250</td><td>>250</td></tr><tr><td>PIBg0G10/AESO30</td><td>50</td><td>5B</td><td>3H</td><td>OT</td><td>269</td><td>16.9</td><td>>250</td><td>>250</td></tr><tr><td>PIB90 G10/AESO40</td><td>50</td><td>5B</td><td>2H</td><td>OT</td><td>274</td><td>14.9</td><td>>250</td><td>>250</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4. Coating properties ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UV-cured coatings are used as factory-applied finishes fora variety of products including furniture,fixtures,appliances and food or beverage containers,etc.In order to evaluate the potential application of our synthesized UV-cured systems,their coating properties in terms of adhesion,pencil hardness,flexibilityand solvent resistance were investigated and the results were shown in Table 4. Obviously,the adhesion of PIBG systems was increased with containing more glycerol segment and polar group(-OH). Even though the oily AESO exhibited the low polarity,all the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 }$ /AESO systems showed the highest grade of adhesion (5B) according to the ASTM D3359-09.In our previous Work[17],the UV-cured PIB exhibited the pencil hardness of 2H.However,as for the PIBG systems （ $\\mathrm { ( P I B 9 7 . 5 G } _ { 2 . 5 }$ 0 $\\mathsf { P I B } _ { 9 5 } \\mathsf { G } _ { 5 }$ $\\mathsf { P I B } _ { 9 2 . 5 } \\mathsf { G } _ { 7 . 5 }$ and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } \\mathrm { \\cdot }$ ),thepencil hardness was slightly increased with the increasing content of glycerol.That was due to the higher crosslink density and intermolecular interaction after the addition of glycerol owning more polar groups (-OH). After the introduction of flexible AESO, $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems should exhibit lower hardness than those of $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems.But,on the contrary,the $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } \\ 1 \\mathrm { C }$ displayedmuch higher hardness.This can be ascribed to the higher reactivity of AESO than itaconic acid-based unsaturated polyesters,resulting in the superior crosslinked network of AESO modified systems.When the AESO content was increased further,its flexibility became the leading factor.As a result,the pencil hardness showed a slight decrease for the sample of $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ 20, $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } \\ 3 \\mathrm { C }$ 1 and $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } 4 0$ For the flexibility of $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O }$ systems, it was easy to understand the fact that the higher content of AESO in the system resulted in an increased flexibility.The solvent resistance is a crucial factor for the application of coatings.Obviously,all the coatings showed excellent solvent resistance with no appearance change after 25O double rubs with ethanol and methyl ethyl ketone. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Aseries of bio-based unsaturated polyesters was synthesized successfully from itaconic acid,1,4-butanediol and glycerol. Based on these polyesters,the bio-based waterborne UV-cured coatings were prepared.The results demonstrated that the particle sizes of dispersions were sensitive to the content of hydroxyl group in the polyesters.Generally,with other factors being comparable,the lower the content of hydroxyl group was,the larger the particle size was.After the incorporation of glycerol segment and AESO,the obtained UV cured coatings exhibited excellent properties,such as highadhesion,outstanding flexibilityand high hardness as well as excellent solvent resistance.The $\\mathrm { P I B } _ { 9 0 } \\mathrm { G } _ { 1 0 } / \\mathrm { A E S O } \\ 1 1$ 0specimen showed the best performance.This work provided us the coating systems combining the merits of being bio-based,UV-curable and water dispersible. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors greatly thank the financial support from the Research Project of Technology Application for Public Welfare of Zhejiang Province (no.2014C31143),National Natural Science Foundation of China(NSFC no.51373194),and Natural Sciences Foundation of Ningbo City (no.2014A610110). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Z. Wicks Jr., F. Jones, S. Pappas, Organic Coatings: Science and Technology, Wiley-Interscience,New York, 1999.   \n[2]C.Okkerse,H.Van Bekkum,Green Chem.1(1999) 107-114. [3]A.Corma,S. Iborra,A. Velty, Chem. Rev.107(2007) 2411-2502. [4]D.M. Alonso,J.Q. Bond,J.A. Dumesic, Green Chem. 12 (2010) 1493-1513. [5]C.Pillai,Des.MonomersPolym. 13(2010) 87-121.   \n[6] G.Q. Chen,M.K.Patel, Chem. Rev.112(2011) 2082-2099. [7] X.Pan, P.Sengupta,D.C.Webster, Biomacromolecules 12 (2011) 2416-2428. [8] S.Ma, Y. Jiang, X.Liu,L. Fan, J. Zhu,RSC Adv.4(2014) 23036-23042.   \n[9] Z. Chen,J.F.Wu,S. Fernando,K.Jagodzinski, Prog. Org. Coat.71 (2011) 98-109.   \n[10] J. Chen, M.D. Soucek,W.J. Simonsick, R.W. Celikay, Polymer 43 (2002) 5379-5389.   \n[11] A. Mahmoud, G.Tay, H. Rozman,Polym. Plast. Technol. Eng.5O (2011) 573-580.   \n[12]D.T.C. Ang, S.N. Gan, Pr0g. Org. Coat. 73 (2012) 409-414.   \n[13] J. Cai,W.Shu,L.Yun,L. Jiu,Tuliao Gongye 36 (2006) 12.   \n[14] C.Decker,Prog.Polym. Sci.21(1996) 593-650.   \n[15] C.Decker,Macromol. Rapid Commun.23(2002) 1067-1093.   \n[16]C.Decker,F.Masson, Schwalm,Macromol.Mater.Eng.288(2003)17-28.   \n[17] J. Dai, S. Ma, X. Liu, L. Han, Y.Wu, X. Dai,J. Zhu,Prog. Org. Coat. (2015) 49-54.   \n[18]Y.Lu,R.C.Larock,Biomacromolecules 9 (2008)3332-3340.   \n19]Y.Lu,R.C.Larock,Biomacromolecules8(2007) 3108-3114.   \n[20] Y.Lu, R.C.Larock,Prog. Org. Coat. 69(2010) 31-37.   \n[21] F.Liao, X.-r. Zeng, H.-q. Li,X.-j. Lai, F.-c. Zhao,J. Cent. South Univ. 19 (2012) 911-917.   \n[22] T.Willke,K.-D. Vorlop, Appl. Microbiol. Biotechnol.56 (2001) 289-295.   \n[23]H. Yim,R. Haselbeck,W. Niu, C. Pujol-Baxley, A. Burgard,J. Boldt,J. Khandurina, J.D.Trawick, R.E. Osterhout, R. Stephen, Nat. Chem. Biol.7 (2011) 445-452.   \n[24]M. Kunioka, K. Taguchi, F.Ninomiya,M. Nakajima, A. Saito,S. Araki, Polymers 6 (2014)423-442.   \n[25]L.H. Bao, Y.J. Lan, S.F. Zhang,J. Polym. Res. 13 (2006) 507-514.   \n[26] S.H. Park, I.D. Chung, A. Hartwig, B.K. Kim, Colloids Surf. A (2007) 126-131.   \n[27] D.Anton,Adv.Mater.10(1998) 1197-1205.   \n[28]H. Hu,Y.Yuan,W.Shi, Prog. Org. Coat.75(2012) 474-479.   \n[29] J. Scheirs,G. Camino,W. Tumiatti, Eur. Polym. J.37 (2001) 933-942.   \n[30] G. Camino,L. Costa, L. Trossarelli,Polym. Degrad. Stabil.7(1984) 221-229.   \n[31] G. Camino,L. Costa,L. Trossarelli,Polym. Degrad. Stabil.7(1984) 25-31.   \n[32] G. Camino,L. Costa,L.Trossarelli,Polym. Degrad. Stabil. 6 (1984) 243-252. ",
+        "page_idx": 6
+    }
+]

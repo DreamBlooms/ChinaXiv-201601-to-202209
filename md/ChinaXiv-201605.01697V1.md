@@ -1,0 +1,88 @@
+![](images/5a15353bb92685dd07d3c85d72e96495afa9929dcc86708bed0e724b331866a1.jpg)
+
+# 空间科学对国家科技、经济与社会发展的作用
+
+文/孙丽琳吴季中国科学院国家空间科学中心北京100190【摘要】1957年,前苏联发射了世界上第一颗人造地球卫星,标志着人类进入空间时代。空间时代的到来使人类有能力突破大气层的干扰与屏障，以全新的角度探索和研究宇宙空间。近60年来，通过空间科学探测与研究,人类关于宇宙的教科书不断被改写,重大科学发现与突破不断涌现,彻底改变了人类对宇宙和自然的认识;同时,通过空间科学卫星计划,带动了航天技术和相关技术的革命性进展，开辟了多项新的技术与产业领域,激励和鼓舞了数代年轻人追寻科技梦想。空间科学被公认为是“财富的发电机”、“创新的驱动器”和"新理论新知识的源泉”,是各科技强国竞相发展、寻求革命性突破的领域,对国家发展具有重要的战略作用。
+
+【关键词】 空间科学，空间科学卫星，宇宙
+
+DOI 10.16418/j.issn.1000-3045.2015.06.003
+
+“地球是人类的摇篮，但人类不会永远  
+待在摇篮里”。1957年，前苏联发射了第一  
+颗人造地球卫星，标志着人类进入空间时  
+代，与此同时，一门与人类的生存发展息息  
+相关、持续改变人类对宇宙空间认知的科学空间科学诞生了。空间科学虽然是一  
+门年轻的学科，但是其研究的科学问题却是  
+人类数千年来孜孜不倦一直在寻求的，包括  
+宇宙与生命的起源演化、太阳系行星的发展  
+演化、太阳活动的基本规律、地球的发展演
+
+化等。空间时代的到来使人类具备了进入空间的能力，使人类有能力突破大气层的干扰和屏障，利用新的手段为这些古老的问题寻找答案。近60年来，通过空间科学探测与研究，人类关于宇宙的教科书不断被改写，重大科学发现与突破不断涌现，彻底改变了人类对宇宙和自然的认识。
+
+空间科学是以空间飞行器为主要平台，研究发生在日地空间、行星际空间乃至整个宇宙空间的物理、天文、化学以及生命等自然现象及其规律的科学。空间科学是典型的以技术实现为依托的实践科学，空间科学的发展也持续驱动空间技术和相关高技术的创新与发展，并不断将新的理论与技术创新转化为新的应用，形成经济拉动效应，是国际上公认的“财富的发电机”、“创新的驱动器"和“新理论新知识的源泉”。
+
+# 1空间科学是新理论新知识的源泉，不断推动人类文明进步，并将为保障人类的生存发展提供科学依据
+
+回顾人类发展的历史，不论是太阳中心说、万有引力定律还是相对论、量子力学，每一次科学上的重大突破和本质性的进展，都大大推动了人类社会的发展和文明的进步。
+
+爱因斯坦曾指出，“未来科学的发展无非是继续向宏观世界和微观世界进军”。空间科学的研究对象包括宇宙、生命、暗物质与暗能量、太阳的活动规律和地球系统的发展演化等，占据着自然科学宏观和微观两大前沿。当代科学发展的历史已经充分证明，大量的科学发现和进展来自于对宇宙和太空的探索。人类进人太空时代以后，通过大量的空间科学卫星和探测计划，加速了宏观前沿领域的突飞猛进的进展。仅在最近几年，由于“哈勃空间望远镜"的观测，人类已经发现了大量未知的天体，使人类的视界延伸至138亿光年的距离，几乎达到了宇宙自身自大爆炸以来膨胀的尺度，并使宇宙学的研究尺度到达了精确研究的阶段。通过大量的可见光以及可见光以外的窗□，如X射线和微波的观测，人类确认了宇宙起源的大爆炸理论并发现了组成宇宙主要成分的暗物质和暗能量。正是因为这些观测和研究成果，2002年度和2006年度的诺贝尔物理学奖分别授予了成功探测到中微子、发现宇宙X射线源和发现宇宙微波背景辐射的黑体形式与各向异性的4位空间科学领域科学家，2011年度诺贝尔物理学奖授予了通过观测遥距超新星而发现宇宙加速膨胀的3位空间科学家，以表彰他们在开辟探测宇宙的新窗口和在增进人类对宇宙的了解和认识方面所做出的突出贡献。1957年以来空间科学领域获诺贝尔奖情况如表1所示[2。从表1可以看出，近10余年来人类重大科学发现越来越多地诞生于空间科学领域，并都是通过空间科学卫星的观测和数据分析所获得的，空间科学作为新理论、新知识的源泉，得到了世界各科技强国的高度重视，并已成为竞相发展、寻求革命性突破的重要科学领域。
+
+表11957年以来空间科学领域诺贝尔奖获奖情况统计  
+
+<html><body><table><tr><td rowspan="2">年份</td><td rowspan="2">奖项</td><td colspan="2">获奖者</td><td rowspan="2">贡献</td></tr><tr><td>姓名</td><td>国别</td></tr><tr><td rowspan="2">1967</td><td>物理 学奖</td><td>汉斯·阿尔布雷希特·贝特 (Hans Albrecht Bethe)</td><td>美国</td><td>对核反应理论的贡献，特别是关于恒星 能源产生的研究发现</td></tr><tr><td>物理</td><td>汉尼斯·阿尔文</td><td>瑞典</td><td>创建太阳磁流体力学和宇宙磁流体力学</td></tr><tr><td rowspan="2">1974</td><td>学奖</td><td>(Hannes Alfven) 马丁·赖尔</td><td>英国</td><td>在射电天体物理学领域的开创性研究：</td></tr><tr><td>物理 学奖</td><td>(Sir Martin Ryle) 安东尼·休伊什</td><td></td><td>赖尔发明了合成孔径技术并利用该技术 进行观测;休伊什对于发现脉冲星发挥</td></tr><tr><td rowspan="2">1978</td><td></td><td>（Antony Hewish) 阿尔诺·艾伦·彭齐亚斯</td><td>英国</td><td>了关键性的作用</td></tr><tr><td>物理 学奖</td><td>(Arno Allan Penzias) 罗伯特·伍德罗·威尔逊 (Robert Woodrow Wilson)</td><td>美国 美国</td><td>发现宇宙微波背景辐射，为大爆炸理论 提供了一个有力的实验证据</td></tr></table></body></html>
+
+<html><body><table><tr><td>1983</td><td>物理</td><td>苏布拉马尼扬·钱德拉塞卡尔 （Subramanyan Chandrasekhar)</td><td>美国</td><td>有关恒星结构及其演化的重要物理过程 的理论研究</td></tr><tr><td rowspan="3"></td><td>学奖</td><td>威廉·艾尔弗雷德·福勒</td><td>美国</td><td>有关对宇宙中化学元素的形成非常重要 的核反应的理论和实验研究</td></tr><tr><td></td><td>(William Alfred Fowler) 拉塞尔·艾伦·赫尔斯</td><td>美国</td><td></td></tr><tr><td>物理 学奖</td><td>（Russell A. Hulse) 小约瑟夫·胡顿·泰勒</td><td></td><td>发现一类新的脉冲星，该发现开创了引 力研究的新方法</td></tr><tr><td rowspan="3"></td><td></td><td>（Joseph H. Taylor Jr.) 保罗·克鲁岑</td><td>美国</td><td></td></tr><tr><td>化学</td><td>（Paul J. Crutzen） 马里奥·莫利纳</td><td>荷兰</td><td>从大气化学角度阐明了氯氟烃对臭氧层</td></tr><tr><td>奖</td><td>（Mario J.Molina） 弗兰克·克罗</td><td>墨西哥</td><td>的形成和分解作用及其化学机理</td></tr><tr><td rowspan="3">2002</td><td></td><td>(F. Sherwood Rowland) 小雷蒙德·戴维斯</td><td>美国</td><td></td></tr><tr><td>物理</td><td>(Raymond Davis Jr.） 小柴昌俊</td><td>美国</td><td>在天体物理学领域做出先驱性贡献，尤 其是对探测宇宙中微子的贡献</td></tr><tr><td>学奖</td><td>（MasatoshiKoshiba） 里卡尔多·贾科尼</td><td>日本</td><td>在天体物理学领域做出先驱性贡献，这</td></tr><tr><td rowspan="3">2006</td><td>物理</td><td>（Riccardo Giacconi） 约翰·马瑟</td><td>美国 美国</td><td>些研究导致了宇宙X射线源的发现 发现宇宙微波背景辐射的黑体形式和各</td></tr><tr><td>学奖</td><td>（John C.Mather) 乔治·F·斯穆特</td><td></td><td>向异性，进一步证实了宇宙大爆炸理论， 揭示了宇宙早期物质和能量的分布情况</td></tr><tr><td></td><td>(George F. Smoot) 索尔·珀尔马特</td><td>美国</td><td></td></tr><tr><td rowspan="3">2011</td><td>物理</td><td>（Saul Perlmutter） 布莱恩·P·施密特</td><td>美国 美国</td><td>通过观测遥距超新星,发现宇宙</td></tr><tr><td>学奖</td><td>(Brian P.Schmidt)</td><td>澳大利亚加速膨胀</td><td></td></tr><tr><td></td><td>亚当·里斯 （Adam G. Riess)</td><td>美国</td><td></td></tr></table></body></html>
+
+除此以外，空间科学还将为人类在地球上的长期生存与可持续发展提供科学依据。一直以来，地球上物种的生存受到宇宙天体(小行星)撞击、太阳剧烈活动、火山爆发、气候变化等多种因素的威胁，人类在地球上的生存还将承受着如全球变暖、生态环境恶化、生物多样性降低和自然资源枯竭等众多因素的威胁。科学家普遍认为，地球系统变化的驱动力分为外强迫和内强迫。外强迫是指太阳辐射、日地距离和地球轨道变化及小行星撞击和火山喷发等；内强迫是指地球系统大气、海洋、冰雪、岩石和生态五大圈层内部及之间的相互作用与调节机制。太阳辐射源源不断地向地球系统提供其运动所需的能量；地球系统各大圈层内能量循环、水循环和生物化学循环(碳/氮循环等)
+
+等过程及圈层之间的能量和物质交换过程的共同作用，产生了目前既变化着的但又适宜人类生存发展的气候环境。人类的起源只有200万年的历史，却对地球环境产生了深远的影响，从最初的影响局地环境逐渐到影响全球环境。自人类工业革命以后，人类的影响变得越来越大，已成为目前地球系统变化中不可忽视的一大扰动因素。而空间科学利用空间平台居高临下地观测地球,研究地球系统五大圈层的相互作用与演化，以及水循环、能量循环和生物化学循环的变化、成因与未来发展趋势，将极大提高我们对地球系统及其演变规律的科学认识，为人类的长期生存与可持续发展提供科学依据。
+
+# 2空间科学是创新的驱动器，是实现科技领先的重要战略领域
+
+空间科学的研究与发现需要通过发射卫星或飞船，到空间去开展观测、探测或实验，空间科学与技术的发展充分体现了“科学引领技术，技术推动科学"的相互支撑关系。空间科学卫星是获取空间科学数据、实现空间科学发现的最重要途径。空间科学卫星与一般应用卫星有所不同，因“科学发现只有第一没有第二”，欲实现新的发现必须在探测区域的选取、探测方案的设计、卫星平台的功能、探测仪器的精度或灵敏度乃至为降低发射成本而必需的仪器轻巧性和恶劣环境适应性等方面都实现超越前人的突破。举例来说,在轨道设计方面，即使是运行于地球空间的科学卫星，多数也都需要超出常规应用卫星轨道的特殊轨道设计，如大椭圆轨道、低倾角轨道、冻结轨道、编队飞行轨道等;在深空探测计划的推动下，利用行星引力借力飞行的技术已普遍使用;近年来又出现了新的轨道设计理论，如星际高速公路理论。在星际航行推进技术方面，已经发展了太阳帆推进技术和核推进技术。在卫星结构、热控方面,科学卫星已经突破了平台和载荷相对独立的概念，形成了平台和载荷一体化的设计理念，大量科学卫星的构型已彻底改观。在有效载荷技术方面，科学观测和探测需要得到在探测窗口、超高空间分辨率、超高灵敏度和超高时空基准方面超过以往的数据，因此必须实现新的设计和技术创新。可以说每一项空间科学卫星计划都包含大量新的需求、新的设计、新的工艺以及新的材料，是推动航天尖端技术创新和相关高技术领域快速发展的重要驱动器。
+
+以哈勃空间望远镜为例，由其发展起来的超精密镜面光学加工、CCD成像、波前像差和热电制冷等技术，推动了地面光学成像与加工领域的革命性进展；哈勃空间望远镜自升空以来已多次进行太空修复，极大地促进了太空精巧机械技术、宇航员太空操作等航天尖端技术的发展，并开创了虚拟现实与应用等新的领域[3。再如，美国航空航天局(NASA)发射的"深度撞击号"(DeepImpact)探测器经过4.31亿公里飞行，在距离地球1.5亿公里处成功击中了坦普尔1号彗星[4,其控制精度等同于“从130公里之外击中一只苍蝇的眼晴”，大大推动了航天超远距离自主导航与测控、空间拦截等技术的发展。
+
+我国正在实施创新驱动发展战略，跟踪国外先进技术已经不能满足我国科技与经济社会发展的需求。因此，发展空间科学，充分发挥空间科学作为原始创新驱动的重要作用，全面带动我国航天和相关高技术领域的跨越发展、并延伸至其他科技领域与产业，对提升我国科技实力和整体竞争力、实现科技领先具有重要战略意义，也是我国发展成为航天强国的必由之路。
+
+# 3空间科学是财富的发电机，为国家经济社会发展提供新的动力
+
+空间科学致力于发现和验证新的空间现象和规律，通过空间科学研究所获得的新知识和新理论将创造性地转化到应用领域，为经济社会发展提供源源不断的动力，并深刻改变人类的生产生活方式。
+
+一个典型的例子是美国的阿波罗计划。通过阿波罗计划产生了3000多项专利，其中有1300多项转移到了国民经济领域,从医用CT扫描仪到儿童尿不湿材料，从笔记本电脑到仿真技术，无不出自这一计划。阿波罗计划的实施，直接带动了美国微波雷达、遥控作业、无线电制导、超高强度和耐高温合成材料、新型电子计算机、药物及生物工程等领域的发展；今天美国航天工业、国防工业和许多民用工业的关键技术，很大部分来自这一计划的第二代或第三代技术或这些技术的衍生技术；同时阿波罗计划还激励了数代年轻人怀抱科技梦想，踏入和从事科研与技术、工程等工作[5]。
+
+空间科学计划也将推动经济的发展。空间提供的特有微重力、真空、高辐射等环境，可用于开展细胞、生物系统和药物等方面的研究和实验。目前国际空间站上实施的部分生命和药物方面的实验，已经非常接近应用,可望在近期实现产业化。空间材料科学的研究成果可望提供地面上难于获得的高品质材料，而其技术成果向地面转移可以大大改进地面材料的加工工艺。微重力流体科学开展的多相流过程及复杂流体研究，对于提高传热传质效率具有重要的作用；微重力条件下的燃烧实验研究，为揭示燃烧过程中的基本规律、发展燃烧理论开辟了一条有效的途径，结合微重力燃烧科学的研究，对改善地球环境污染、提高能源利用效率具有良好的应用前景。在量子信息科学领域，最先走向实用化的量子信息技术是量子通信，利用卫星平台的自由空间光子传输被公认为是最切实可行的克服光子易被光纤信道吸收的弱点、实现广域乃至全球量子通信的技术途径,通过在空间开展量子纠缠分发的验证实验，可以开拓以量子密钥为核心的保密通信新领域。随着量子通信技术的产业化和广域量子通信网络的实现，在不久的将来，作为保障未来信息社会通信安全的关键技术，量子保密通信将有望走向大规模应用，成为电子政务、电子商务、电子医疗、生物特征传输和智能传输系统等各种电子服务的驱动器，为当今信息化社会提供基础的安全服务和可靠的安全保障，并将带来巨大的经济效益。
+
+可以说，通过空间科学计划，在获取科学突破、持续牵引高技术进步的同时，还将通过“辐射效应"推动国家经济社会的发展，产生丰厚的回报。1990年前后，美国科学家就NASA在国民经济中的贡献做过专门研究，得出的结论是：NASA开展的民用航天项目每投入1美元对美国国民经济产生14美元的经济拉动效应。在2002年欧盟委员会发表的《航空航天二十一世纪战略审议报告》中指出，欧洲的空间计划在确保欧洲的安全与经济繁荣方面有着关键的战略作用，是“财富的发电机"和“保持全球竞争力的支柱”，对空间活动对欧洲所具有的重要战略性作用给予了高度评价[。
+
+# 4中国的空间科学发展展望
+
+“卿云烂兮，纠缦缦兮。日月光华，旦复旦兮。”这首流传至今的《卿云歌》表达了中国古人对宇宙空间的感知与赞叹。进入21世纪，地球空间"双星探测计划"和载人航天工程、月球探测工程等空间科学与应用任务的相继开展，为我国空间科学的发展奠定了基础。2011年由中科院牵头的空间科学先导专项的组织实施标志着我国空间科学事业进入新的发展阶段，“十二五"期间立项研制的4颗科学卫星将于2015—2016年先后发射，我国从事空间科学领域的科技人员空前活跃，国际影响力与日俱增。
+
+预计未来10一15年，在国家的稳定支
+
+# 参考文献
+
+持下，在全国空间科学家和技术人员的共同努力下，我国将在宇宙的形成和演化、系外行星和地外生命的探索、太阳系的形成与演化、太阳活动及其对地球空间环境的影响、地球系统的发展演化、超越现有基本物理理论的新物理规律、空间环境下的物质运动规律和生命活动规律等前沿热点领域，取得重大科学发现与创新突破,跻身空间科学国际一流水平国家，同时极大促进和推动我国相关高技术领域的跨越式发展，为人类认识宇宙、探索太空做出中华民族应有的重大贡献。
+
+1 诺贝尔奖网站.[2015-10-15].http://www.nobelprize.org  
+2 王海名，杨帆.与空间科学相关的国际科学技术奖获奖情况报告.北京：2013.  
+3 翟萌.哈勃引领的科技变革.科技创业,2011,(8):102-106  
+4 NASA.[2015-10-15]. http://www.nasa.gov/mission_pages/deepimpact/spacecraft/index.html#.VhttINJAVcU  
+5 杭仁.盘点"阿波罗"工程.航天员,2009,(4):35-37.  
+6European Commission.STAR 21—Strategic Aerospace Reviewfor the 21st Century.Brussel: 2002.
+
+# Generator of Wealth, Driver of Innovation, Source of New Theory and Knowledge -Role of Space Science in National Development
+
+Sun Lilin Wu Ji
+
+(National Space Science Center, Chinese Academy of Sciences,Beijing 10019o, China）
+
+Abstract“Theearth is thecradleofmankind,buthuman beings cannotlive inthecradleforever".Thelaunchingofthe first man-made satelite in 1957byUSSR indicates thekick-offof space era, whichalsobrought upanewdisciplineof science一 Space Science.Though young as it is,space science mainly focuses on the old questions such as the origin and evolution of universeandlife,theevolutionofsolarsystemanditsplanets,thelawsofsolaractivity,andtheevolutionoftheplaetearth, the answers of which have been soughtby humanbeings for thousands of years.The developmentofspace era enables human beings to have accessto space.Withno disturbance and shieldingofthe earth atmosphere,the universecould be viewed and exploredin anew way.Space science,usually taking satelites orspacecraft as platforms for observations andexperiments, studies the phenomenonand laws of physics,astronomy,chemistryand life,etc.in the universe.Inrecentlyrough 6O years, through spacescientificexplorationandresearch,plentyof significantdiscoveriesandbreakthroughs hadbeenmadeandour knowledge ofuniverse hadbeen transformed,sothat the textbooks havebeenrewritenperiodicall.Meanwhile,thedevelopmentof space science is close-related to thedevelopmentof space technology.With the implementationof space science missions,thespaceandrelated technologies have benadvanced greatly,manynew fields have been openedup,andseveralgenerations of young people have been inspired to seek the dreams of new frontiers for science and technology. Space science, which has been inaraceindevelopedcountries,playsanimportantandstrategicroleinnationaldevelopment,andis remarked as the generator of wealth,driver of innovation, and the source of new theory and knowledge.
+
+Keywords space science, scientific satellite, universe
+
+孙丽琳中科院国家空间科学中心主任助理、空间科学规划论证中心副主任，中科院空间科学研究院战略发展部主任,研究员,国防科工局"十三五"空间科学发展规划论证专家组成员，中科院空间领域战略研究专家组成员。作为核心成员编写完成了《中国空间科学项目中长期发展规划研究报告(2010—2025)》《中国至2050年空间科技发展路线图》等书籍与系列战略研究报告。主要研究领域：空间科学发展战略与规划,空间环境探测。E-mail: sunll@nssc.ac.cn
+
+Sun Lilin,Professor,Associate director of National Space Science Center(NSSC),CAS,and deputy director of Space Science Study Center, NSSC; Director of strategic planning and development department, Space Science Academy, CAS; member of“13th Five-year Plan” space science planning and study working group led by China National Space Administration; member of CAS strategic space research working group. As a core member,Medium-and Long-term Planof China’s Space Science(2010—2025),Space Science & Technology in China: A Roadmap to 2050,etc.are compiled and published. Her research interests over: space science strategy and planning, space environment exploration. E-mail: sunll@nssc.ac.cn

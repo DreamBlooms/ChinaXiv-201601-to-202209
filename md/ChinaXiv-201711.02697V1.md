@@ -1,0 +1,171 @@
+# 异源表达CiRS基因通过生成白藜芦醇增强拟南芥的抗氧化能力
+
+杨飞芸1²武燕燕²崔爽¹张秀娟³王瑞刚¹李国婧 1\*（1 内蒙古农业大学生命科学学院 呼和浩特010018；2 内蒙古农业大学食品科学与工程学院 呼和浩特 010018；3 内蒙古自治区生物技术研究院呼和浩特010070)
+
+摘要 白藜芦醇是一种具有多种医疗保健作用的植物芪类次生代谢产物，在农业、医药、食品和化妆品等领域受到广泛的关注。白藜芦醇合酶是白藜芦醇生物合成中唯一必需的关键酶，决定植物体内白藜芦醇的合成。本研究将从中间锦鸡儿中克隆到的CiRS基因（GenBank登录号MF678590）转入野生型拟南芥，实验结果显示：野生型的总黄酮含量明显高于转基因株系。HPLC 测得转基因拟南芥中有白藜芦醇的生成，并且含量最高达 $3 3 5 \mu \ g / \mathbf { g }$ FW。紫外照射处理后转基因植物中丙二醛的积累量明显少于野生型。转基因植物提取物DPPH自由基清除能力均高于野生型。这些结果表明，中间锦鸡儿CiRS基因异源表达后利用黄酮类物质的底物合成了白藜芦醇，使得转基因植物的抗氧化性增强。
+
+关键词 白藜芦醇合酶　中间锦鸡儿白藜芦醇　转基因拟南芥中图分类号 Q786
+
+# Heterologous expression of CiRS gene enhances the antioxidant capacity of Arabidopsis by increasing the content of resveratrol
+
+YANG Fei-yun1,2 WU Yan-yan² CUI Shuangl ZHANG Xiu-juan³ WANG Rui-gang1 LI Guo-jingl (1Colege ofLife Sciences,InnerMongoliaAgricultural University,HohhotOloo18,China;2ColegeofFood Science and   
+Enginering,InnerongoliaAgriculturalUiversity,HhotOo18,China;3InerMongoliaAutonomousRegionBotechology Research Institute,Hohhot 0O10070, China)
+
+AbstractResveratrol is a member of stilbenoids with disease resistant activity for plants and exhibits a wide range of important biological and pharmacological properties for human which has received extensive attention in the fields of agriculture, medicine,foods,cosmetics and so on. Resveratrol synthase (RS) is an exclusive necessary enzyme in the pathway of resveratrol biosynthesis which determines the synthesis of resveratrol in plants. CiRS,a RS gene isolated from Caragana intermedia, was transferred into Arabidopsis. Total flavonoids experimental results showed that the total flavonoids content of wild type was significantly higher than that of the transgenic lines. HPLC method was used to analyze the resveratrol content in transgenic plants which maximum content was $3 3 5 \mu \mathrm { g / g }$ FW.Accumulation of malondialdehyde (MDA) after UV treatment in transgenic plants was significantly less than the wild type.DPPH free radical scavenging ability of transgenic plants extraction was higher than the wild type. Taken together, these results indicated that the antioxidant activity of transgenic plants was enhanced with the expression of CiRS gene which synthesise resveratrol with flavonoid substrates.
+
+Key wordsResveratrol synthaseCaragana intermediaResveratrol Transgenic Arabidopsis
+
+芪类化合物（Stilbene）是具有二苯乙烯母核的一类化合物的总称，是具有植保素特性的植物次生代谢产物，具有较强的抑菌活性，在植物的早期防御系统中起着重要作用[1]。天然芪类化合物来自苯丙氨酸代谢途径，以稳定的反式异构体为主[2]。近年来，随着对芪类化合物生物活性研究的进一步深入，科学家发现它们还具有多种重要的药理功能[3]。白藜芦醇（Resveratrol,Res）是天然芪类化合物的代表性物质，又名芪三酚，是一种含有芪类结构的非黄酮类多酚化合物，具有顺式和反式两种结构，其反式异构体较稳定且生理活性较顺式异构体更加广泛[4]。已有研究表明：白藜芦醇具有抗肿瘤、抗氧化、消炎、保护心血管[5]等多种药理活性。
+
+芪合酶（Stilbene synthase,STS）是植物II型聚酮合酶的一种，属于查尔酮合酶超家族，是芪类化合物合成的关键酶，以苯丙氨酸途径中间物的辅酶 A(如香豆酰辅酶A、肉桂酰辅酶A等)和丙二酰辅酶A为底物合成芪类化合物的分子骨架[]。芪合酶又称为二苯乙烯合酶，包括在松属（PinusLinn）中发现的以丙二酰-CoA和肉桂酰-CoA为底物的赤松素合酶(Pinosylvin Synthase,PS)和在其他植物中发现的以丙二酰-CoA 和香豆酰-CoA为底物的白藜芦醇合酶(ResveratrolSynthase,RS)两大类[7]。白藜芦醇合酶是白藜芦醇生物合成中唯一必需的酶，以3 分子丙二酰-CoA 和1分子香豆酰-CoA为底物生成3,4,5-三羟基反式芪[8]。白藜芦醇合酶只存在于有白藜芦醇合成的植物中，大多数作物都缺乏白藜芦醇合酶基因，因此，应用白藜芦醇合酶基因转化植物产生白藜芦醇的研究越来越受到重视[1]。
+
+早在1990年,Hain等[]将花生(Arachis hypogaea)RS基因转入烟草(NicotianatabacumL.）中，并以大豆疫霉和紫外辐射作为诱导因素分析其表达响应情况。结果显示其代谢产物Res的积累与基因表达量呈正相关，且在UV处理后转基因烟草中反式Res含量升高。之后，Hain 等[10]又报道了RS基因转化可提高受体植物对病原菌的抗性。Liu等[I的研究表明，过表达虎杖RS基因的拟南芥中生成云杉新苷，并且转基因植物对菜心炭疽病菌孢子的繁殖具有抑制作用。Zheng 等[12]以 55 个中国葡萄野生种（Vitis spp.）和40 个栽培种为材料，比较了其白藜芦醇含量、STS基因相关的 SSR标记并进行了分析，发现了葡萄中与白藜芦醇含量相关的SSR标记及相关候选基因。
+
+中间锦鸡儿是豆科锦鸡儿属植物，具有良好的饲用、防风固沙和药用功效[13],抵御逆境能力强[14]，次生代谢产物丰富，含有黄酮、芪类、生物碱等多种生物活性成分。为了分析其抵抗生物和非生物胁迫能力的机制，本研究从中国林业科学院齐力旺研究员惠赠的柠条锦鸡儿转录组数据库中挑选到了该基因的序列片段，并且构建了中间锦鸡儿CiRS基因过表达载体并转化野生型拟南芥，对转基因拟南芥的相关指标进行检测，研究CiRS基因的功能，为其进一步利用提供理论依据，同时为提高作物对紫外照射等胁迫的抵抗力及耐受性提供有效的基因资源。
+
+# 1材料与方法
+
+# 1.1植物材料、质粒及菌株
+
+中间锦鸡儿（Caraganaintermedia）种子采自内蒙古自治区凉城县。野生型拟南芥（Arabidopsis thaliana L.）Columbia-0 生态型（Col-0），大肠杆菌DH5α及农杆菌GV3101由内蒙古自治区植物逆境生理与分子生物学重点实验室保存。植物表达载体pCanG-HA由中国科学院遗传与发育研究所谢旗研究员惠赠，该载体含有卡那霉素抗性基因NPTII。
+
+# 1.2植物表达载体构建
+
+以中间锦鸡儿cDNA为模板，使用TaKaRa公司RACE试剂盒，经引物RS-3'-RACE-Ou （5'- TCGTTGGATCTGACCCTGAC -3'） 和RS-3'-RACE-In（5'-AAGCGAATAGAAGAAACAGC-3'）扩增后得到特异条带。通过分析、比对、拼接后得到CiRS的全长序列。根据植物表达载体pCanG-HA的多克隆位点，设计含有SalI和SpeI酶切位点的特异性引物，以特异性引物CiRS-F（5'-GTCGACATGGCATACTTAGAGGAAATAAGAG-3'，划线部分为Sal I酶切位点）和CiRS-R（ $5 ^ { \prime }$ -ACTAGTGTAGCCCGTGTCTATGTTGGCG-3'，划线部分为SpeI酶切位点）进行PCR扩增，扩增程序为： $9 8 ^ { \circ } \mathrm { C }$ 预变性1min， $9 8 ^ { \circ } \mathrm { C }$ 变性10s， $6 0 ^ { \circ } \mathrm { C }$ 退火10s， $7 2 ^ { \circ } \mathrm { C }$ 延伸70s， $7 2 ^ { \circ } \mathrm { C }$ 补充延伸 $5 \mathrm { m i n }$ ，30个循环。利用琼脂糖凝胶DNA回收试剂盒（天根生物公司）回收目的片段，插入克隆载体pEASY-Blunt Simple中（北京全式金生物公司)，将测序验证后的序列通过SalI和SpeI（Thermo公司）酶切后连入由CaMV35S驱动的植物表达载体pCanG-HA中，进行菌落PCR及双酶切验证，将验证正确的重组质粒电转化农杆菌GV3101感受态细胞，进行菌落PCR鉴定挑取阳性克隆。PCR引物合成及产物测序由上海生工生物公司完成。
+
+# 1.3拟南芥遗传转化及纯合体筛选
+
+通过浸花法将重组植物表达载体pCanG-CiRS转入野生型拟南芥[15],并将收取的种子种在含有 $2 5 \mathrm { m g / L }$ 卡那霉素的 $1 / 2 \mathrm { M S }$ 培养基上筛选阳性植株。提取 T3代转基因植株总RNA，反转录成cDNA，利用特异性引物CiRS-F和CiRS-R对转基因植株进行PCR 鉴定。通过实时荧光定量PCR对CiRS在转基因株系中的表达量进行检测，利用LightCycler 480实时荧光定量PCR仪（Roche公司）进行扩增。反应体系为：SYBRPremixExTaq（TaKaRa公司） $1 0 \mu \mathrm { L }$ ，稀释的cDNA模板 ${ 5 \mu \mathrm { L } }$ ，上、下游引物各 $0 . 8 \mu \mathrm { L }$ （ $\mathrm { 1 0 \mu m o l / L }$ ），DEPC水 $3 . 4 \mu \mathrm { L }$ 。反应程序为：$9 5 ^ { \circ } \mathrm { C }$ 预变性 $6 0 ~ \mathrm { s }$ ， $9 5 ^ { \circ } \mathrm { C }$ 变性 $5 \mathrm { ~ s ~ }$ ， $6 0 ^ { \circ } \mathrm { C }$ 退火30s， $7 2 ^ { \circ } \mathrm { C }$ 延伸15s，40个循环。所用引物为CiRS-qF（ $5 \%$ TGTCGAGTGCGTGTGTCCTTTT -3'） 和 CiRS-qR（5'-CAAGCCAGGACCAAATCCAAATA-3')，内参引物为 At EF1α-F（5'-AGAAGGGTGCCAAATGATGAG-3'） 和 AtEF1α-R（5'-GGAGGGAGAGAGAAAGTCACAGA-3'),基因表达量以 $2 ^ { - \Delta \mathrm { C T } }$ 法计算,选取 3 株表达水平较高的株系进行后续表型实验。
+
+# 1.4转基因拟南芥总黄酮含量检测
+
+采用硝酸铝比色法进行总黄酮含量的测定[16]。剪取正常生长条件下（ $2 2 ^ { \circ } \mathrm { C }$ ，$1 6 \mathrm { h }$ 光照/8h黑暗)4周大的拟南芥主臺，用液氮研磨成粉末。黄酮类物质的提取条件：以 $70 \%$ 的甲醇为溶剂；料液比1:20；超声条件 $6 0 ^ { \circ } \mathrm { C }$ ， $7 0 \mathrm { { m i n } }$ ， $1 6 0 \mathrm { W }$ ；超声处理后浸泡24h。取浸提液 $0 . 8 \mathrm { m L }$ 加入 $5 \% \mathrm { N a } _ { 2 } \mathrm { N O } _ { 2 }$ 溶液 $0 . 0 8 \mathrm { m L }$ ，搅匀后静置6min；加入 $1 0 \% \mathrm { A l } ( \mathrm { N O } _ { 3 } ) _ { 3 }$ 溶液 $0 . 0 8 \mathrm { m L }$ ，搅匀后静置6min；加入 $4 \% \mathrm { N a O H }$ 溶液$0 . 8 \mathrm { m L }$ 、 $\mathrm { d d H } _ { 2 } \mathrm { O } 0 . 2 4 \mathrm { m L }$ ，搅匀后静置15min。8000 转/分钟离心 $1 0 \mathrm { { m i n } }$ ，取上清液，使用分光光度计于 $5 1 0 \mathrm { n m }$ 处测定吸光值，用 $70 \%$ 的甲醇调零。
+
+# 1.5转基因拟南芥白藜芦醇含量检测
+
+样品的前处理步骤同总黄酮检测的步骤。使用高效液相色谱法（HPLC）进行白藜芦醇含量的检测（岛津LC-20AD 高效液相色谱仪)，色谱条件为：色谱柱Inertsil ODS-SP（ $1 5 0 \mathrm { m m } { \times } 4 . 6 \mathrm { m m }$ ， ${ 5 \mu \mathrm { m } }$ )；柱温 $3 0 ^ { \circ } \mathrm { C }$ ；流动相：水（A）-乙腈（B）
+
+(65:35，V/V)；流速 $0 . 8 \mathrm { m L / m i n }$ ；检测波长 $3 0 6 \mathrm { { n m } }$ ；进样体积 $1 0 \mu \mathrm { L }$ 。白藜芦醇标准样品购自贵州迪大试剂公司。
+
+# 1.6转基因拟南芥丙二醛含量检测
+
+剪取正常条件下生长4周大的拟南芥植株主臺，用液氮研磨成粉末。丙二醛（MDA）测定试剂盒购自南京建成生物工程研究所，检测方法按照试剂盒说明书进行。
+
+# 1.7DPPH法检测转基因拟南芥体外抗氧化活性
+
+剪取正常条件下生长4周大的拟南芥植株主臺，用液氮研磨成粉末。按料液比1:20 加入 $9 5 \%$ 乙醇： $0 . 1 \%$ 盐酸 $( 3 { : } 2 , \mathrm { V / V } )$ 的混合溶液。超声波提取时间 $3 0 \mathrm { { m i n } }$ 温度 $6 0 ^ { \circ } \mathrm { C }$ ，功率 $1 6 0 \mathrm { W }$ 。超声结束后浸提24小时，5000转/分钟离心 $1 0 \mathrm { { m i n } }$ ，取上清液备用。DPPH（1,1-二苯基-2-硝基苦肼）检测步骤根据 Thaiponga 等[17]的方法进行改良。
+
+分别吸取： $\textcircled{1}$ 样品提取液和DPPH溶液（0.1mmol/L）； $\textcircled{2}$ 样品提取液和甲醇；$\textcircled{3}$ 甲醇和DPPH溶液（O.1mmol/L）各 $0 . 7 5 \mathrm { m L }$ 于 2mLEppendorf 管中，摇匀后在避光条件下反应 $9 0 \mathrm { { m i n } }$ 。实验中将甲醇设为空白对照，于波长 $5 1 7 \mathrm { n m }$ 处分别测定样品吸光度 $\mathrm { \mathbf { A } } _ { \mathrm { i } }$ （样品与DPPH溶液反应后测得的吸光值）； $\mathbf { A } _ { \mathrm { j } }$ （样品与甲醇反应后测得的吸光值）和 $\mathbf { A } _ { 0 }$ （甲醇与DPPH溶液反应后测得的吸光值）。
+
+根据下列公式计算拟南芥植株提取液对DPPH的清除率：
+
+清除率 $\mathrm { \Delta } / \mathrm { \Delta } / = [ 1 { - } ( \mathrm { A } _ { \mathrm { i } } { - } \mathrm { A } _ { \mathrm { j } } ) / \mathrm { A } _ { 0 } ] \times 1 0 0$
+
+# 2结果与分析
+
+# 2.1pCanG-CiRS植物表达载体的构建及转基因纯合体植株的鉴定
+
+利用RACE技术，根据从中国林业科学院齐力旺研究员惠赠的柠条锦鸡儿转录组数据库中挑选到的序列片段，使用引物RS-3'-RACE-Ou 和RS-3'-RACE-In扩增后得到特异条带。利用特异性引物CiRS-F和CiRS-R扩增长度为1179bp 的CiRS 编码区，连接到pEASY-BluntSimple克隆载体中，测序正确后用SalI和SpeI双酶切连接到pCanG-HA表达载体。将构建好的重组表达载体pCanG-CiRS转化大肠杆菌并进行菌落PCR 验证，提取验证正确的菌落质粒用 SalI和 SpeI双酶切鉴定，能够切出目的片段，表明载体构建成功，构建好的载体图谱见图1。
+
+![](images/c08960fca6d5266ccdf2e4dad3669ec0d249bc70fa61cba3fccd27be087d29a8.jpg)
+
+通过农杆菌介导的浸花法将重组植物表达载体pCanG-CiRS转入野生型拟南芥，筛选出具有卡那霉素抗性的阳性植株8株，提取这些株系的RNA并合成cDNA，利用实时荧光定量PCR 检测CiRS在转基因株系中的表达水平(图2)，选取表达量较高的3个株系OE-17、OE-1和OE-16进行后续表型检测实验。
+
+10 酒 0.1 I1.= 0.01 OE-2OE-26OE-21OE-17OE-18OE-16 OE-10OE-1 CiRS转基因株系
+
+# 2.2 转基因拟南芥总黄酮含量的变化
+
+按照硝酸铝比色法的具体步骤绘制芦丁标准曲线（图3a)。由标准曲线可知，芦丁质量浓度Y和吸光值X的关系为： $\mathrm { Y } = 1 2 . 2 4 4 4 \mathrm { X } \mathrm { - } 0 . 0 1 4 4$ ， $\mathrm { R } ^ { 2 } = 0 . 9 9 8 8$ ，表明在芦丁浓度为 $0 { \sim } 0 . 0 7 \mathrm { m g / m L }$ 的范围内该标准曲线线性良好。按此方法进行转基因拟南芥总黄酮含量的测定，利用测得的吸光值，根据标准曲线线性方程计算总黄酮的含量，结果见图3b。转基因各株系总黄酮的含量均低于野生型，且达到极显著水平，说明转基因拟南芥中生成黄酮的底物减少或者底物的量没有变化但生成了其他非黄酮类物质。
+
+1.00 山 0.05   
+0.80 0.04   
+值0.60   
+光 0.03   
+吸0.40 0.02   
+0.20 0.01   
+0.00 0.00   
+0.00 0.02 0.04 0.06 0.08 WT 0E-1 OE-16 0E-17 芦丁浓度（ $\mathbf { \hat { \Pi } } _ { \mathbf { m g / m L } }$ ） CiRS转基因株系 (a) (b)
+
+(a)The standard curve of rutin(b)The content of total flavonoids in different Arabidopsis lines \*\* indicates significant difference among samples at O.01 level.
+
+# 2.3HPLC法检测转基因拟南芥白藜芦醇含量
+
+按照1.4样品的前处理要求制备样品溶液，按1.5的色谱条件对转基因拟南芥的白藜芦醇含量进行测定，标样及样品的色谱图见图4。
+
+![](images/2675ab68107c01313fc1b2e048861536beee7f9b5d29c8ec13f2427742a81d44.jpg)  
+Fig.3 The content of total flavonoids in different Arabidopsis lines   
+图4拟南芥各株系白藜芦醇色谱图
+
+Fig.4The resveratrolchromatogrammap ofdifferent Arabidopsis lines (a)Standardsample(b)TheresveratrolchromatogrammapofdiferentArabidopsislinesblackline:WTgreeline:OE-1redline: OE-16blue line:OE-17
+
+由标样和样品的色谱图可以看出，在此色谱条件下分离的白藜芦醇峰形尖锐，无拖尾。按此条件绘制的标准曲线为： $\mathrm { Y } = 1 . 2 7 6 8 ^ { * } 1 0 ^ { - 4 } \mathrm { X } + 1 5 . 3 6 6 3$ ， $\mathrm { R } ^ { 2 } = 0 . 9 9 9 5$ 表明在白藜芦醇浓度为 $0 { \sim } 4 0 0 \mu \mathrm { g / m L }$ 的范围内该标准曲线线性良好。利用峰面积法计算不同株系拟南芥白藜芦醇的含量，结果见表1。由计算结果可知，转基因拟南芥均有白藜芦醇生成，并且其含量均较高。说明CiRS基因异源表达后增加了拟南芥中白藜芦醇的含量，因此其总黄酮含量减少的原因应该是底物有部分生成了白藜芦醇。
+
+表1拟南芥各株系白藜芦醇含量  
+Tab.1 The resveratrol content of different Arabidopsis lines   
+
+<html><body><table><tr><td>株系名</td><td>WT</td><td>OE-1</td><td>OE-16</td><td>OE-17</td></tr><tr><td>含量（μg/gFW）</td><td>0</td><td>329</td><td>313</td><td>335</td></tr></table></body></html>
+
+# 2.4紫外照射处理对拟南芥MDA含量的影响
+
+据报道，紫外等非生物胁迫处理会增加植物中白藜芦醇等次生代谢产物的积累[18]。因此，本研究对受试植物进行了紫外处理，研究其对植物的影响。具体步骤为：将正常条件下生长4周大的拟南芥在距离 $3 1 0 \mathrm { L u x }$ 的紫外灯下 $2 5 \mathrm { c m }$ 处照射1小时，然后放回植物房中恢复24小时。取未经紫外照射处理和经紫外照射处理的样品检测MDA含量，结果如图5所示，未经紫外照射的野生型和转基因拟南芥中丙二醛含量差别不大，经紫外照射处理后野生型和转基因拟南芥中丙二醛含量均增加，但转基因株系的含量均低于野生型，其中OE-1和OE-17与野生型的含量差异达到极显著水平，OE-16的含量与野生型的有显著差异。说明过量表达CiRS减少了拟南芥中MDA的生成，降低了膜脂过氧化程度。
+
+![](images/d2f03aa445f3dfd1ab485206275daeed87c45ae3393e94e35eeb22ebd5643206.jpg)  
+图5拟南芥各株系MDA含量变化  
+Fig.5 The content ofMDA in different Arabidopsis lines
+
+‘ indicates significant diference amongsamplesat0.O5level; \*\* indicates significant differenceamong samplesatO.ollevel.
+
+# 2.5DPPH法检测转基因拟南芥体外抗氧化活性的变化
+
+根据1.7的步骤绘制DPPH标准曲线（图6a)。由标准曲线可知，吸光值Y和 DPPH浓度X的关系为： $\mathrm { Y = } 7 . 9 0 8 3 \mathrm { X } \mathrm { + } 0 . 0 0 0 2$ ， $\scriptstyle \mathrm { R } ^ { 2 } = 0 . 9 9 9 9$ ，表明在DPPH浓度为 $0 { \sim } 0 . 1 0 \mathrm { m m o l / L }$ 的范围内该标准曲线线性良好。按此方法进行转基因拟南芥DPPH自由基的清除率实验，利用测得的吸光值，根据前述方程计算DPPH自由基的清除率，结果见图6b。三个转基因拟南芥株系提取物DPPH自由基清除能力均高于野生型，其中OE-17的自由基清除能力最高。说明CiRS基因异源表达后增加了拟南芥清除DPPH自由基的能力，且清除能力与基因表达水平呈现剂量关系。
+
+![](images/26371956d2c3ccb877fd2c859ccea1bfe7ad551c32f52aa13b85d2e3131bac44.jpg)  
+Fig.6 The scavenging rate ofDPPH radical of different Arabidopsis lines
+
+(a) The standard curve of DPPH(b)The scavenging rate of DPPH radical of diferent Arabidopsis lines \*\* indicates significant difference among samples at 0.01 level.
+
+按照1.7的步骤进行Trolox对DPPH自由基清除率标准曲线的绘制，结果见图7，得到DPPH自由基清除率Y和Trolox浓度X的线性回归方程$\mathrm { Y = } 7 . 7 0 9 7 \mathrm { X } \mathrm { + } 0 . 1 8 9 5$ ， $\scriptstyle \mathrm { R } ^ { 2 } = 0 . 9 9 7 2$ 。通过线性关系可知，在Trolox 浓度为 $0 . 0 0 6 2 5 \sim$ 0.1mmol/L的范围内，标准曲线线性良好。按此方法进行拟南芥体外Trolox当量抗氧化能力实验。将测得的拟南芥DPPH清除率对应标准曲线计算其 Trolox 当量。计算结果显示，1克野生型拟南芥对DPPH的清除率相当于2.47mmolTrolox对 DPPH自由基的清除能力。1克转基因拟南芥OE-1、OE-16、OE-17对DPPH的清除率分别相当于2.53mmol、2.50mmol和2.62mmolTrolox 对DPPH自由基的清除能力。其中OE-17对DPPH自由基的清除能力显著高于野生型。
+
+![](images/5402d4fce8638ce9821378c52f40e0679e154fed2402cfd37f1e0500bf0fac44.jpg)  
+图6拟南芥各株系DPPH自由基的清除率  
+图7Trolox对DPPH自由基清除率标准曲线  
+Fig.7 Trolox standard curve for scavenging rate ofDPPH radical
+
+# 3讨论
+
+白藜芦醇是一种重要的植物抗毒素，能够提高植物对细菌、真菌等生物胁迫和紫外、机械损伤和激素等非生物胁迫的抵抗能力[1]。但合成白藜芦醇必需的白藜芦醇合酶只存在于葡萄、花生、虎杖等少数物种中，因此利用基因工程手段将外源白藜芦醇合酶基因转入不含或其基因含量低的物种中进行表达，可以研究白藜芦醇合酶基因及其代谢产物白藜芦醇的生物学功能和调控机制，为改良物种品质和抗性，获得白藜芦醇和其相关代谢产物提供有效途径。
+
+白藜芦醇合酶和查尔酮合酶（CHS）都是多酚类物质代谢途径中的关键酶，都以4-香豆酰辅酶A和丙二酰辅酶A为底物，分别合成白藜芦醇和柚皮素查尔酮。其中柚皮素查尔酮是黄酮类化合物生物合成途径的重要前体物质，直接影响各种黄酮类物质，包括花青素的合成。本研究中对总黄酮含量测定发现，野生型拟南芥的总黄酮含量明显高于转基因植物，说明导入的外源CiRS基因和植物内源CHS基因在底物利用上存在竞争，导致内源CHS基因可利用底物减少，从而导致转基因植物的总黄酮含量降低，这与Liu、Rimando 和Fischer等[1,19,20]的结果相似。
+
+当RS基因来源、启动子和转基因植物材料等不同时，转基因植物中新合成的代谢产物种类和生成量均有所差异，可能是植物内源糖基化酶及异构酶的不同修饰造成的。Kiselev 等[2报道在山葡萄细胞中过表达VaSTS7基因可使细胞中白藜芦醇的含量增加 $3 . 2 { \sim } 6 . 6$ 倍。Fan 等[22]报道将中国野生葡萄Vitispseudoreticulata的 STS基因转入酿酒葡萄Vitis viniferaL.中，可使其白藜芦醇含量提高5.5倍。Rimando 等[19]报道了共转化ROMT和RS基因的拟南芥代谢产物中检测到紫檀芪。本研究转基因拟南芥中检测到了白藜芦醇，并且其含量最高达到 $3 3 5 \mu \mathrm { g } / \mathrm { g } \mathrm { F W }$ 。
+
+植物在受到非生物胁迫后，体内活性氧的大量产生会导致细胞膜受到氧化损伤。丙二醛是膜脂过氧化的重要产物之一，因此通过检测丙二醛的含量就可以判断细胞膜的受损程度[23]。本研究发现，3个转基因株系的丙二醛含量在紫外处理前后均低于野生型，说明CiRS基因异源表达后，使拟南芥的丙二醛生成量减少，膜脂过氧化程度降低，这与Tang 等[23]的结果相似。
+
+白藜芦醇及其衍生物均具有多酚结构，因此具有很强的清除自由基和抑制由自由基引起的氧化损伤能力。植物清除自由基能力的提高，有利于增加转基因植物对自然界的胁迫抗性，如降低因紫外辐射对植物造成的伤害等[24]。本研究也发现转基因拟南芥清除 DPPH自由基的能力均高于野生型，其中转基因株系 OE-17达到显著水平。根据以上结果可以推测，在CiRS转基因植物抵抗紫外损伤过程中，通过产物白藜芦醇清除自由基来保护自身免受伤害。
+
+# 参考文献
+
+[1] Delaunois B, Cordelier S, Conreux A, et al. Molecular engineering of resveratrol in plants. Plant Biotechnology Journal, 20o9, 7(1): 2-12.   
+[2] Huang H, Lu J, Hunter W. Comparative analysis of stilbene synthase genes among Vitis Species. Acta Horticulturae, 2007, (738): 755-758.   
+[3] Pan Q H, Wang L,Li J M. Amounts and subcellular localization of stilbene synthase in response of grape berries to UV irradiation. Plant Science, 20o9, 176(3): 360-366.   
+[4] Yu C K Y, Lam C N W, Springob K. Constitutive accumulation of cis-piceid in transgenic Arabidopsis overexpressing a sorghum stilbene synthase gene. Plant Cell Physiol0gy, 2006, 47(7): 1017-1021.   
+[5] Lu Y, Shao D Y, Shi JL, et al. Strategies for enhancing resveratrol production and the expression of pathway enzymes. Applied Microbiology and Biotechnology, 2016,100(17): 7407-7421.   
+[6] Chong JL, Poutaraud A, Hugueney P. Metabolism and roles of stilbenes in plants. Plant Science,2009, 177(3): 143-155.   
+[7] Raiber S, Schroder G, Schroder J. Molecular and enzymatic characterization of two stilbene synthases from Eastern white pine (Pinus strobus). FEBS Letters,1995, 361(2): 299-302.   
+[8] Yu C K Y, Springob K, Schmidt J, et al. A stilbene synthase gene (SbSTS1) is involved in host and nonhost defense responses in sorghum. Plant Physiology, 2005, 138(1): 393-401.   
+[9] Hain R, Bieseler B,Kindl H, et al. Expression of a stilbene synthase gene in Nicotiana tabacum results in synthesis of the phytoalexin resveratrol. Plant Molecular Biology, 1990,15(2): 325-335.   
+[10] Hain R,Reif H J, Krause E,et al. Disease resistance results from foreign phytoalexin expression in a novel plant. Nature, 1993, 361(6408): 153-156.   
+[11] Liu Z Y, Zhuang C X, Sheng S J, et al. Overexpression of a resveratrol synthase gene $( P c R S )$ from Polygonum cuspidatum in transgenic Arabidopsis causes the accumulation of trans-piceid with antifungal activity. Plant Cell Reports,2011, 30(11): 2027-2036.   
+[12] Zheng X, Shi J, Yu Y,et al. Exploration of elite stilbene synthase alleles for resveratrol concentration in wild Chinese Vitis spp. and Vitis cultivars. Frontiers in Plant Science. 2017, 8(130): 1-12.   
+[13] Yang Q, Yin J J, Li G, et al. Reference gene selection for qRT-PCR in Caragana korshinskii Kom. under different stress conditions. Molecular Biology Reports, 2014, 41(4): 2325-2334.   
+[14] Xiao S C, Xiao H L, Peng X M, et al. Dendroecological assessment of Korshinsk peashrub ( Caragana korshinskii Kom.) from the perspective of interactions among growth， climate， and topography in the western Loess Plateau， China. Dendrochronologia, 2015, 33(1): 61-68.   
+[15] Clough S J, Bent A F. Floral dip:a simplified method for Agrobacterium - mediated transformation of Arabidopsis thaliana. The Plant Journal, 1998,16(6) : 735-743.   
+[16] Chukwumah Y,Walker L T, Verghese M. Peanut skin color: a biomarker for total polyphenolic content and antioxidative capacities of peanut cultivars. International Journal of Molecular Sciences, 2009,10(11): 4941-4952.   
+[17] Thaipong K,Boonprakob U, Crosby K,et al. Comparison of ABTS,DPPH, FRAP,and ORAC assays for estimating antioxidant activity from guava fruit extracts. Journal of Food Composition and Analysis,2006, 19(7): 669-675.   
+[18] Wang W, Tang K, Yang H R, et al. Distribution of resveratrol and stilbene synthase in young grape plants (Vitis vinifera L. cv. Cabernet Sauvignon) and the effect of UV-C on its accumulation. Plant Physiology & Biochemistry，2010, 48(2-3): 142-152.   
+[19] Rimando A M, Pan Z Q,Polashock JJ, et al. In planta production of the highly potentresveratrolanaloguepterostilbeneviastilbenesynthaseand O-methyltransferase co-expression. Plant Biotechnology Journal， 2012，10(3): 269-283.   
+[20] Fischer R, Budde I, Hain R. Stilbene synthase gene expression causes changes in flower colour and male sterility in tobacco. The Plant Journal，1997，11(3): 489-498.   
+[21] Kiselev K V,Aleynova O A. Influence of overexpression of stilbene synthase VaSTS7 gene on resveratrol production in transgenic cell cultures of grape Vitis amurensis Rupr. Applied Biochemistry and Microbiology,2016, 52(1): 68-73.   
+[22] Fan C H, Pu N, Wang X P, et al. Agrobacterium-mediated genetic transformation of grapevine (Vitis vinifera L.) with a novel stilbene synthase gene from Chinese wild Vitis pseudoreticulata. Plant Cell Tissue Organ Culture, 2008, 92(2): 197-206.   
+[23] Tang K, Zhan J C, Yang H R, et al. Changes of resveratrol and antioxidant enzymes during UV-induced plant defense response in peanut seedlings. Journal of Plant Physiology,2010, 167(2): 95-102.   
+[24] Pareek A, Sopory S K, Bohnert H J, et al. Abiotic stress adaptation in plants. Berlin: Springer Press, 2010.91-102.

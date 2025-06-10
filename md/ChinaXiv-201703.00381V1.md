@@ -1,0 +1,134 @@
+# 水圈微生物重大研究计划：聚焦水圈微生物组研究的核心科学问题
+
+![](images/f01d83afd228e0bea4d5a4f37290d1ae2f96f01c8834c7478d2b737d9e87f182.jpg)
+
+黄力1\*\* 冯雪莲² 杜全生² 东秀珠1 刘双江1 温明章² 戴 欣
+
+1中国科学院微生物研究所北京100101  
+2国家自然科学基金委员会北京100085
+
+摘要　水圈包括海洋、湖沼、河流、冰川、地下水等，水圈中居住着地球上一半以上的微生物，包括细菌、古菌、真菌、藻类、病毒等，蕴含着地球上最大的微生物组。已有的研究表明，水圈微生物在重要元素生物地球化学循环中发挥关键驱动作用。但是，人们对水圈微生物组的核心科学问题，即微生物如何发挥驱动作用至今了解不多。最近，国家自然科学基金委员会“水圈微生物驱动地球元素循环的机制”重大研究计划（简称“水圈微生物计划”）正式立项。该计划拟选择典型水圈环境，解析微生物群落构建及与环境之间的相互作用、微生物物质与能量代谢机制以及微生物代谢活动的生态学意义与贡献，从而揭示水圈微生物驱动碳、氮、硫等元素生物地球化学循环的机制。文章简述了该计划提出的背景与依据，以及涉及的主要科学问题和研究设想。
+
+关键词国家自然科学基金重大研究计划，水圈微生物，微生物组，元素循环DOI 10.16418/j.issn.1000-3045.2017.03.007
+
+微生物是地球上最早出现的生命形式。在地球现有各类生命形式中，它们分布最广泛，生物量最大，生物多样性最丰富。生物地球化学研究表明，微生物在地球元素循环中发挥关键驱动作用，它们通过光合、化能自养、固氮等作用改变大气成分，促进岩石矿物风化、土壤及矿藏形成，改变海洋、湖泊、湿地中碳、氮、硫等重要元素的形态和组成，与地球环境协同演化。因此，地球的宜居性与微生物驱动的地球化学元素循环息息相关。
+
+水是生命赖以生存、繁衍、演化的基本物质，是地球系统物质与能量迁移转化的重要介质。地球表面的四分之三被海洋、湖沼、河流及冰川等水体覆盖，岩石圈中还有大量地下水，这些水与大气层中的水分共同构成了一个连续而不规则的圈层，即水圈。据估计，人类每呼吸两次，就有一次的氧气来自于海洋；人类生命活动及生产活动所产生的二氧化碳有一半被海洋吸收；大气中重要的温室作用气体一甲烷的一半以上产生于湿地、沼泽和水稻田；海洋储存着大量固态甲烷；海洋固定的氮占全球自然固氮总量的三分之二；空气中 $30 \%$ 的氧化亚氮来源于海洋。显然，水圈在全球物质循环中发挥了至关重要的作用，地球的健康在很大程度上依赖于水圈生态系统。而维持水圈生态系统健康运转、主导地球重要元素循环的，则是数量巨大、代谢方式多样的微生物[1]（图1）。近十多年来，关于水圈微生物的研究和发现,极大地丰富了有关微生物在地球元素循环中关键驱动作用的知识，提升了我们对地球生态系统的认知[2-9]。但是,由于在传统微生物学研究中，只有获得纯培养的微生物，才能深入解析它们的生理代谢、遗传特点和生态功能等，而在自然界，包括水圈中，约 $9 9 \%$ 以上的微生物至今尚不能在实验室培养[1]，因此，目前对于不同水圈生境中微生物的群落形成、代谢方式、环境互作及生态功能等的认识仍远不完善，微生物在元素生物地球化学循环中的作用机制在很大程度上依然是一个谜（图2）。
+
+解开这个谜是水圈微生物组研究的重点关注和主要目标，水圈微生物驱动地球元素循环的机制是水圈微生物组研究的核心科学问题。聚焦这一科学问题，国家自然科学基金委员会在多次论证基础上，于2016年10月正式启动“水圈微生物驱动地球元素循环的机制”重大研究计划（简称“水圈微生物计划”）。该计划拟选择典型水圈自然生境，通过生命科学、地球科学、化学科学、信息科学等多学科的交叉研究，采用包括水圈微生物组学的概念和方法，系统揭示水圈微生物驱动元素生物地球化学循环的机制，完善生命与地球环境相互作用及协同演化的理论，为保护水圈生态服务功能、应对全球气候变化、保障地球生态安全等提供科学依据和解决方案，并为推动经济社会的可持续发展作出贡献。本文将简述“水圈微生物计划”提出的背景（国内外现状）、涉及的主要科学问题和研究设想。
+
+![](images/3917ed96580aeb04b482a3dedb46d0e95afa48b4b112924f4699ff25a4d3a34b.jpg)  
+图1 海洋中形态多样、数量巨大的微生物（色彩为人工添加）[
+
+![](images/dcf54f6d14f8413d0d73a7e25b65eb91080beab8ea956861dab67880ea07c571.jpg)  
+图2水圈微生物在元素生物地球化学循环中的作用
+
+# 1国内外现状
+
+进入21世纪以来，为了应对资源、能源、环境方面的巨大挑战，西方发达国家对水圈环境、特别是海洋空前关注[1]。美国于2004年发布“美国海洋行动计划”，“增加对海洋、海岸带和大湖的科学理解”和“加强海洋、海岸带和大湖资源的利用和保护”是该计划六大主题中的二个；2007年，又出台了“美国未来十年海洋科学发展路线”，将海洋生物多样性和生态系统、气候变化对海洋生态系统的影响等作为优先研究领域。日本于2008年颁布了“海洋基本计划草案”，提出推进海洋调查，加强海洋科技研发，促进海洋资源的开发利用，保护海洋环境等措施。2010年，欧洲海洋大会通过了“奥斯坦德宣言”，明确海洋科技在应对全球经济、能源和环境危机方面具有不可或缺的作用；英国则发布了“2025海洋研究计划”，其中包含了生物多样性和生态系统功能，海洋生物地球化学循环等主题。在这些海洋战略和计划中，生物多样性及生态系统的研究占据了前所未有的显著位置。与此同时，国际上启动了一系列重大海洋研究计划。其中，国际地圈-生物圈计划（International Geosphere-Biosphere Program，IGBP）与国际海洋研究委员会（Scientific Committee on OceanicResearch，SCOR）于2003年联合启动的“海洋生物地球化学和生态系统综合研究计划（IntegratedMarineBiogeochemistry and Ecosystem Research， IMBER）”旨在调查海洋生物地球化学循环和生态系统对全球变化的敏感性。由美国、日本发起的综合大洋钻探十年计划（Integrated Ocean Drilling Program，IODP）的三大科学主题之一是“深部生物圈和洋底下的海洋”。可见，海洋生态系统以及海洋（微）生物资源已成为国际近中期的研究重点。近十几年，美国和欧盟还开展了多次全球大洋考察，调查海洋微生物多样性。2004年，美国人Venter等[12]在马尾藻海的考察中发现的微生物新基因（未知功能基因）的数目超过了当时公共数据库中基因数的总和；2009—2012年，欧盟展开Tara大洋考察，发现了35000个微生物物种和超过4000万个微生物基因以及大量的海洋病毒[13-17]。随着美国政府正式宣布启动国家微生物组计划（National Microbiome Initiative，NMI），美国乃至全球在包括水圈环境在内的各种生态系统中微生物的研究将进入全新的发展阶段。
+
+我国陆地水圈微生物的研究有较长久的历史。自20世纪50年代以来，先后开展了湖泊、热泉、湿地微生物的研究。从2000年开始，我国启动了应用导向的深海微生物及其基因资源的研究。随着我国综合国力的提升以及国家经济社会发展的需要，我国对海洋权益日益重视，将海洋发展战略提到了从未有过的高度。党的十八大报告明确提出，“提高海洋资源开发能力，发展海洋经济，保护海洋生态环境，坚决维护国家海洋权益，建设海洋强国”；《国家中长期科学和技术发展规划纲要（2006—2020）》也将空天和海洋技术列为中国中长期科技发展的五个战略重点任务之一，把海洋技术列为八个重点前沿技术领域之一，海洋生态与环境保护、海洋资源高效开发利用成为优先主题，海洋科学成为基础研究中的重要内容；《国家“十二五”海洋科学和技术发展规划纲要》也提出，“以拓展海洋调查研究的深度和广度为重点，明显提高对海洋的科学认知水平”。科技部、国家自然科学基金委、中国大洋矿产资源研究开发协会等都先后启动了涉海涉水重大研究计划。在建设海洋强国战略的指导下，我国涉海研究机构数目近期出现井喷式增长，海洋调查船、潜器、船载设备、岸基研究平台等发展迅速（图3）。我国已经拥有一批从事海洋、河湖等水圈研究的研究机构和重点实验室，形成了一支具有国际竞争力的研究队伍，获得了一大批具有国际影响力的研究成果[18-28]
+
+图3我国海洋科考平台日益完备  
+![](images/d858a61bd19ec44b345ea24a7289fe49a3972f38493e64ac6887eb49f6b86b02.jpg)  
+A“大洋一号”科考船；B“蛟龙号”载人潜器
+
+# 2 前沿科学问题
+
+“水圈微生物计划”拟解决的核心科学问题是，在典型水圈环境中，微生物如何驱动元素循环？该核心科学问题包括以下三个层次的内容。
+
+# 2.1水圈微生物参与碳、氮、硫等元素生物地球化学循环的宏观机制与生态效应
+
+该科学问题涉及水圈微生物在地球重要元素循环中的代谢活力与通量贡献。拟通过关联研究和系统研究，在基因、物种、种群、群落等不同层次，解析微生物对地球重要元素循环的作用，完善生态学理论模型。
+
+# 2.2参与碳、氮、硫等元素循环的水圈微生物群落形成及其与环境互作的机理
+
+该科学问题涉及特定水圈生境中驱动重要元素循环的功能微生物及其群落结构，重点关注环境因子及其变化对微生物群落结构的影响以及微生物活动对环境的影响。拟聚焦重要储碳微生物类群、湿地参与温室气体代谢的微生物类群（如产甲烷及厌氧氧化甲烷的古菌、土壤氨氧化古菌）、形成海洋惰性溶解有机碳的微生物类群等，分析微生物的时空分布特征、多样性维持机制、种间互作、与病毒互作、代谢耦合、时空相应等。
+
+# 2.3水圈微生物物质与能量转换和代谢的新途径及新调控机制
+
+该科学问题涉及微生物（包括未培养微生物）在特定水圈生境中的物质与能量代谢途径。拟探讨非光能依赖的海洋古菌/细菌的碳固定途径、不依赖光合作用生命体系的能量获取及储存机制等。
+
+# 3 “水圈微生物计划” 设想
+
+基于对学科发展态势和我国研究基础的深人分析，“水圈微生物计划”将聚焦典型生境重要元素循环的微生物驱动机制这一核心科学问题，选择4类典型水圈生境（大洋，近海与河口，河流、湖泊和湿地等流域，以及陆地特殊水生生境），探讨3种重要元素（碳、氮和硫）的生物地球化学循环，以期在项目结束时（2024年），使我国在水圈微生物研究领域达到国际先进水平，并在部分方向发挥引领作用，实现我国在地微生物学这一新兴交叉学科的跨越发展。项目拟在以下四个方向展开科学研究。
+
+# 3.1大洋重要微生物功能类群及其驱动碳、氮、硫等元素循环的机制
+
+远离大陆架的广阔海域被称为大洋，大洋是海洋的主体，约占地球表面积的 $50 \%$ ，在地球物质循环中起着重要作用。大洋深部多为低温、高压、终年黑暗环境，还存在热液口、冷泉等多种特殊环境，蕴含大量未知微生物（群）。该方向将重点关注大洋水体及海底极端环境中关键功能微生物的群落形成及其与环境互作的机制，与碳、氮、硫等元素循环相关的代谢途径及其调控，关键功能微生物的时空分布及对元素循环的驱动和调节机制等。
+
+# 3.2近海与河口微生物驱动碳、氮、硫等元素循环的机制
+
+近海与河口是物质转化与能量流动最活跃的水圈环境之一，也是微生物与矿物交互作用形式最为多样的水圈环境。该方向将关注近海与河口生境微生物群落形成及其与环境的互作，驱动碳氮硫等元素循环的机制特别是对碳源或碳汇的调节机制，透光层微生物能量代谢与碳氮硫等元素循环的新途径等。
+
+# 3.3微生物在流域水体（河流、湖泊、湿地等）碳、氮、硫等元素循环中的驱动机制及生态效应
+
+河流、湖泊和湿地具有高度的环境异质性和微生物群落多样性，是碳、氮、硫等元素转化的主要场所，固定的有机碳相当于海洋固碳总量的近 $40 \%$ 。该方向将关注典型河流、湖泊和湿地等生境微生物群落形成及其与环境的互作，驱动碳、氮、硫等元素转化与循环的代谢机制和生态效应。
+
+# 3.4陆地特殊水生生境微生物碳、氮、硫等元素代谢的特点及环境适应机制
+
+热泉、盐湖、冰川、矿山酸性排水、岩溶地下水等均为陆地特殊生境，这些生境中的微生物具有独特的环境适应和生长代谢机制，蕴含着探索微生物代谢多样性发生和演化的线索。该方向将关注陆地特殊水生生境中微生物群落形成及其与环境的互作，关键功能微生物（群）的特殊能量代谢途径以及驱动有机物合成与碳氮硫等元素循环的分子机制。
+
+“水圈微生物计划”的成功实施依赖于生命科学与地球科学等学科的深度交叉融合，也依赖于新技术方法的发展和运用。该计划鼓励科学家开展实质性、高水平跨学科合作，凝练重大科学问题，汇聚不同学科思路和方法，争取获得引领性突破。另外，该计划还将大力推动发展和运用水圈环境监测、样品采集、微生物分离培养以及免培养分析方面的新手段和新方法，在群落、物种、代谢途径、基因水平上，全面阐释微生物在地球重要元素循环中的重要作用。
+
+# 4结语
+
+近20年来，随着基因组学、生物信息学、分子生态学、地微生物学、生物地球化学、生物海洋学等学科的进步和全新采样手段、单细胞技术、原位检测技术、模拟培养技术等技术的发展，人们终于可以将研究触角伸向深海、极端水圈环境等地球上最为神秘的微生物家园，探寻微生物驱动元素生物地球化学循环的奥秘。水圈微生物重大研究计划的立项实施，标志着我国在这一意义重大的热点领域已经集聚了充足的信心，做好了跨越发展的充分准备。目前在全球范围内不断升温的微生物组研究也将为“水圈微生物计划”的实施提供帮助和借鉴。可以预见，在水圈微生物计划的推动下，我国将在国际水圈微生物研究中占据举足轻重的位置，为维护地球生态系统安全、实现人类经济社会的可持续发展作出重要贡献。
+
+致谢：赵国屏、赵进东、焦念志、刘丛强、邵峰、董海良、吴庆龙、吴晓磊、陆现彩、肖湘、鲁安怀、陆雅海、周怀阳、徐健、肖亚中、向华、黄英、荀鲁盈等诸位同仁在“水圈微生物计划”的立项和实施准备工作中做出了宝贵贡献，在此一并致谢。
+
+# 参考文献
+
+1Armbrust E V.Microbiology. Taking the pulse of ocean microbes.Science,2014,345(6193): 134-135.   
+2Hinrichs K U, Hayes JM, Sylva S P, et al. Methane-consuming archaebacteria in marine sediments.Nature,1999,398(6730): 802-805.   
+3Strous M,Fuerst JA,Kramer E H, et al.Missing lithotroph identified as new planctomycete. Nature,1999, 400(6743): 446-449.   
+4 Prokopenko MG, Hirst MB,De Brabandere L,et al. Nitrogen losses in anoxic marine sediments driven by Thioploca-anammox bacterial consortia. Nature, 2013,500(7461): 194-198.   
+5Strous M,Pelletier E,Mangenot S,et al. Deciphering the evolution and metabolism of an anammox bacterium from a community genome. Nature,2006,440(7085): 790-794.   
+6Könneke M, Bernhard AE,de la Torre JR,et al. Isolation of an autotrophic ammonia-oxidizing marine archaeon. Nature, 2005, 437(7058): 543-546.   
+7 Grossart HP,Frindte K, Dzialls C,et al. Microbial methane production in oxygenated water column of an oligotrophic lake. Proc Natl Acad Sci USA,2011,108(49): 19657-19661.   
+8 Bryant D A, Costas A M,Maresca JA,et al. Candidatus Chloracidobacterium thermophilum: an aerobic phototrophic Acidobacterium. Science,2007,317(5837): 523-526.   
+9Reigstad L J, Richter A, Daims H, etal. Nitrification in terrestrial hot springs of Iceland and Kamchatka. FEMS Microbial Ecol, 2008, 64(2): 167-174.   
+10 Riesenfeld C S, Schloss P D, Handelsman J. Metagenomics: genomic analysis of microbial communities. Annu Rev Genet, 2004,38: 525-552.   
+11 中国科学院海洋领域战略研究组.中国至2050年海洋科技发 展路线图.北京:科学出版社,2009.   
+12 Venter JC, Remington K, Heidelberg JF, et al. Environmental genome shotgun sequencing of the Sargasso Sea. Science, 2004, 304(5667): 66-74.   
+13 Sunagawa S,Coelho L P, Chaffron S, et al. Structure and function of the global ocean microbiome. Science, 2015,348(6237): 1261359.   
+14 Brum JR, Ignacio-Espinoza J C, Roux S,et al. Patterns and ecological drivers of ocean viral communities. Science, 2015, 348(6237): 1261498.   
+15 de Vargas C,Audic S, Henry N, et al. Eukaryotic plankton diver
+
+sity in the sunlit ocean. Science,2015,348(6237):1261605.
+
+16VillarE,Farrant GK,Follows M,etal.Environmental characteristics of Agulhas rings affect interocean plankton transport. Science,2015,348(6237): 1261447.
+
+17Lima-Mendez G, Faust K,Henry N,et al. Determinants of community structure in the global plankton interactome.Science, 2015,348(6237): 1262073.
+
+18 Zhang G, Zhang F,Ding G,et al.Acyl homoserine lactone-based quorum sensing in a methanogenic archaeon.ISEM J,2012, 6(7): 1336 -1344.
+
+19Liu B, Ouyang S,Makarova K S,et al.A primase subunit essential for efcient primer synthesis by an archaeal eukaryotic-type primase.Nat Commun,2015,6: 7300.
+
+20 刘丛强.生物地球化学过程与地表物质循环—西南喀斯特流域浸蚀与生源要素循环.北京：科学出版社,2007.
+
+21HuangSJ,WilhelmSW,HarveyHR,etal.Novel lineages of Prochlorococcus and Synechococcus in the global oceans.ISME J,2012,6(2): 285-297.
+
+22Jiao NZ,HerndlGJ,HansellDA,etal.Microbial production of recalcitrant dissolved organic matter:Long-term carbon storage in the global ocean.Nat Rev Microbiol,2010, 8(8): 593-599.
+
+23Wang FP, Zhou HY,Meng J,et al.GeoChip-based analysis of metabolic diversity of microbial communities at the Juan de Fuca Ridge hydrothermal vent.Proc Natl Acad Sci USA, 2009, 106(12): 4840-4845.
+
+24 Meng J,Xu J, Qin D,et al. Genetic and functional properties of uncultivated MCG archaea assessed by metagenome and gene expression analyses.ISEMJ,2014,8(3):650-659.
+
+25Lu Y, Conrad R.In situ stable isotope probing of methanogenic archaea in the rice rhizosphere. Science,2005,309(5737):1088- 1090.
+
+26ZhouJZ,XueK,XieJP,etal.Microbial mediation of carbon-cycle feedbacks to climate warming.Nature Climate Change,2011,2:106-110.
+
+27Wu QL,Zwart G,WuJ,et al.Submersed macrophytes play a key role in structuring bacterioplankton community composition in the large,shallow, subtropical Taihu Lake,China.Environ Microbiol, 2007,9(11): 2765-2774.
+
+28 Jiang H,Dong H,Yu B,et al. Microbial response to salinity change inLake Chaka,a hypersaline lake on Tibetan plateau. Environ Microbiol,2007,9(10): 2603-2621.
+
+# Focusing on Key Scientific Issues of Microbiome Research in Hydrosphere: NSFC Major Research Plan for Microbes in Hydrosphere
+
+Huang Li'Feng Xuelian²Du Quansheng²Dong Xiuzhu’Liu ShuangJiang'Wen Mingzhang²Dai Xin' (1Institute of Microbiology, Chinese Academy of Sciences,Beijing 100101, China; 2 National Natural Science Foundation of China,Beijing 1Ooo85,China ）
+
+AbstractrosdeeassscissodteItalffsuchasbacterahaungilgessoteErthndeforebortegesteiotalcoboetusotatmicrorganissidrospeareteyriveigeohcalcingofimportanteementsothEartevertele,itaisefulunderstodastoowicroogansmssretedriveole (akeysientificssueofrsearchnmicrobioeinhydrospre)centlyNationalNaturalScienceFoundatioofChina (NSFC)launchdaMajorResearch InitativetitledMechanismsUnderliningElementalCyclingontheEarthbyMicroorgaismsinHydrosphere'or‘MicrobesinHydrospere’insortThisitiativecallforsystematicinvestigationintomicrobialcommunitystructuresandtheirinteractionwiththeenvironments,mechanismsofmicrobialtransformationofsubstaesadenergy,ndteogicalfuctiosdtrbiosofcoalctiiisieprstatibiatsidrospe.telftheInitiativeistoeracearvieontemecanismsuderliingcabon,trogenndsulfucylingntheEarthbyicrooasnhydrosphere.Thisarticlebrieflyreviews thebackground,majorscientificquestions,and implementationplanoftheInitiative.KeywordstheNatioalNaturalScienceFoundatioofChina(NSC)Initiaie,icrobesinydrospere,microbiomes,elementalyling黄力中科院微生物所研究员。1988年获加拿大Guelph大学博士学位；1988—1993年在美国Johns Hopkins大学从事博士后研究；1993—1996年在美国加州Pom0na学院任生物系助理教授；1996年至今，在中国科学院微生物研究所工作。先后担任微生物资源前期开发国家重点实验室副主任（1996—2001年）、主任（2001—2008年），中科院微生物所常务副所长（2008—2010年）、所长（2010—2013年）。1999年获国家杰出青年基金，2006年作为学术带头人承担基金委创新群体科学基金项目。目前担任中国微生物学会副理事长，国家杰出青年科学基金评审委员会委员，国家自然科学基金委员会生命科学部专家咨询委员会委员。任极端微生物专业刊物Extremophiles执行编辑（Managing Editor）、《微生物学报》副主编、SCIENCECHINA Life Sciences、Archaea和《中国生物化学与分子生物学报》编委。主要从事极端环境古菌遗传机制及环境适应机理研究，同时开展了热泉、大洋等环境微生物元基因组学研究。
+
+E-mail: huangl@sun.im.ac.cn
+
+HuangLiRceivedhisPD.fromtheUniversityofGuelphCanada,i98.From98to993,heworkedasapostdoctorafelloatthe Johns HopkinsUniversityUSA.From993t99,ewasasistantprofesoratmoaClgeUSA.Since996,heasbenonfculty atInstituteoficrobiologyCneseAcadeyofciees(AS).Hewaspromotedtoheankoffullprofessorshipin998.Fro996to 2008,hewasfirstdeputydirectorandendirectoroftheStateKeyLaboratoryofMcrobialResoucesFrom8to3,heeefirst asexecutivedeputyirectorgeneralandlaterasiectorgenralofteIsituteofcrobilgCA.HeaswadedteCinaatioal Fundfor DitingushedYoung Scientistsin199,and was leadingaresearchgroupsupportedbytheFundsfor CreativeResearchGroups ofChin from207to012.HecurentlyservesasvicepresidentofChineseSocietyforMicrobiology,memberoftheadvisorycomitee of theDivisionofLifeSciencesoftheNationalNaturalScienceFoundationofChina(NSFC)andmemberofthereviewcommiteeofthe China NationalFundforDistinguishedYoung Scientists.HealsoservesasmanagingeditorofExtremohiles,asociatededitorofActa MicrobiologicaSinicaboardmemberofSCENCECHNALifeSciences,ArcheaandChineseJournalofBochemistryandMolecular Biology.Hisresechiterestsicdegneticechassinhaadviometaladaptatiofasellascoalou in oceans and hot springs. E-mail: huangl@sun.im.ac.cn

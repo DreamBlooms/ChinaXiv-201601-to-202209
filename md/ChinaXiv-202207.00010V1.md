@@ -1,0 +1,234 @@
+# 老年人情景记忆更新的改变：竞争记忆的回溯性干扰
+
+李妍1，程竞暄1，喻婧1,2
+
+1西南大学心理学部，重庆400715
+
+2 中国科学院心理健康重点实验室，中国科学院心理研究所，北京100101摘要 记忆更新是获取新知识的一种重要能力。大量研究显示老年人情景记忆受损，但鲜有研究探讨老年人情景记忆更新模式的改变。研究在匹配了老年人和年轻人编码程度的前提下，探讨情景记忆更新的老化效应及其潜在的认知机制。我们对AB-AC 记忆更新范式进行了创新，同时考察了在项目改变和位置改变条件下的老化效应，并在测试阶段纳入诱饵选项，进一步排除编码程度带来的影响。研究结果显示年轻人能对A-B 和A-C 记忆分离存储，而老年人更多地受到回溯性记忆干扰，即在A-B 测试中出现C 的闯入，并且该干扰效应显著地大于诱饵刺激带来的影响。研究结果表明，在年轻人和老年人编码程度匹配的情况下，年轻人的记忆更新通过记忆分化来实现，而老年人更多地受到竞争记忆的回溯性干扰。
+
+关键词记忆更新，老化，项目记忆，位置记忆，回溯性干扰
+
+# 1前言
+
+增龄带来的记忆衰退对老年人的日常生活造成了困扰，其中情景记忆的衰退尤为突出(Cansino,2009; Nyberg et al.,2003; Old & Naveh-Benjamin,2008; Vestergren & Nilsson, 2011).情景记忆是对日常生活中时序和空间位置的记忆(Tulving，1972)，既包含与事件内容相关的项目记忆，也包含事件背景的来源记忆。相较于项目记忆，老年人更不善于判断事件发生的来源(Craik,1986)。例如，老年人可能会记得某个朋友，但是却可能不记得认识这个朋友的时间和地点。近年来，相关研究多从编码角度考察老年人情景记忆的改变，指出老年人记忆绑定能力存在损伤(例如：Jacoby et al.，2015；Stawarczyk et al.,，2020；详见元分析 Old &Naveh-Benjamin,2008)，鲜有研究针对年轻人和老年人情景记忆更新时的提取模式差异进行探讨。本研究在匹配老年人和年轻人记忆编码程度的基础上，考察老年人在发生项目记忆(或位置记忆)更新时提取模式的改变。
+
+记忆更新是一个记忆重构的过程，在这一过程中，新信息与已经存在的记忆表征存在交互作用(Dudai,2012;Lee,2009)。记忆更新通常发生在新记忆出现时，常用的范式为AB-AC记忆更新范式(AB-AC memory updating paradigm; Hupbach et al.,2007; Xue,2018)，这一范式的基本逻辑是建立两组配对连接。被试首先需要在第一天建立A-B 连接，随后在第二天建立A-C 连接，并在第三天对A-B和A-C 记忆连接强度进行测试。在该记忆竞争条件下，个体可能表现出(1)记忆分化或(2)记忆干扰两种模式。记忆分化表明个体能将新记忆与先前存在的记忆正交化，将新形成的记忆痕迹从现有的神经表征中区分出来，较少地受到重叠和竞争性记忆的干扰(Hulbert& Norman,2015; Norman & O'Reilly,2003)，在 AB-AC 范式中表现为 A-B 和A-C 测试成绩同样好。记忆干扰表明个体在面对记忆之间存在重叠的成分时会被其他已存在记忆干扰(Anderson,2003;Anderson & Neely,1996; Runquist,1975)。干扰的来源之一为具有相同提取线索的重叠记忆(A-B 和 A-C)之间形成的竞争关系(详见 Anderson &Neely,1996)。如果在A-B 记忆中错误地提取了C或在A-C 记忆中错误地提取了B，则B 和C 被称为记忆闯入(memory intrusion)，记忆闯入是探究记忆干扰的重要指标之一(Hupbach etal.,2007)。目前记忆更新干扰效应的作用方向尚不清晰，对于到底是“新记忆阻碍旧记忆的提取”还是“旧记忆影响新记忆的学习”主要取决于研究目的和方法。情景记忆中的前摄干扰(proactive interference,PI)是指旧记忆阻碍了当前记忆的编码，该效应多出现于编码阶段(例如：Burton et al.,2019; Howe et al.,2020; Zancada-Menendez et al.,2015)。而回溯干扰(retrograde interference,RI)强调新记忆对旧记忆提取的阻碍，该效应表明当记忆线索出现时，目标记忆的提取会受到已有记忆痕迹的干扰(Anderson,2003)。
+
+连接独立性假说(associative independence hypothesis；Burton et al.，2017; Burton et al,2019)认为记忆具有分化功能，年轻被试以单词-单词的形式学习A-B 和A-C 关联，随后被要求回忆与A有关的B和C。研究发现年轻人提取A-B 和A-C 是基本独立、不受干扰的。同时，互补学习系统框架理论(complementary learning systems framework, CLS; McClelland etal.,1995;Norman&O'Reilly,2003)指出，如果一个人不能将不同类型的记忆表征正交化，那么旧的信息就会被新学习的输入信息所替代，这一过程可以通过海马上的模式分离(pattermseparation)实现。模式分离是将相似的输入信息以不重叠的方式存储于记忆的过程中，也是记忆更新中一个重要特征(McClelland et al.,1995; Norman, 2010; Norman & O'Reilly, 2003)。大量研究表明老年人的海马结构及功能受损(Ira et al.,2003;West,1993)，这可能会影响他们的模式分离功能，进而引起多组记忆表征之间的相互干扰(Holden et al.,2012)。基于此，我们预期在A-B 和A-C 记忆编码相同的情况下，大部分年轻人的记忆更新能够通过记忆分化实现，即能够分离存储 A-B 连接和A-C 连接；而老年人的模式分离能力受损，在面对竞争性的记忆内容(A-B 和A-C 记忆)时，会表现出记忆干扰效应。然而，AB-AC 范式既涉及新的记忆的编码又涉及竞争性记忆的提取，在第三天提取过程中老年人是更多的受到前摄干扰还是回溯干扰尚不清楚。
+
+为了尽可能减少编码对本研究探讨主题的影响，我们对AB-AC 记忆更新范式进行了改进，包括(1)操控两个年龄组的学习次数和(2)引入诱饵刺激两方面。近期Howe et al.(2020)的研究表明，老年人若要和年轻人达到相同的编码强度，学习次数需约为年轻人的两倍。本研究通过参考前人文献和预实验，我们将老年人的学习次数设定为年轻人的两倍。此外，我们在传统AB-AC 测试任务选项框架中设置了诱饵刺激——一个与目标刺激不同但非常相似的刺激。诱饵刺激能够帮助我们(1)进一步排除编码带来的影响：如果被试在测试阶段更多地选择竞争刺激而非诱饵刺激，则证明产生的记忆错误更多地是由于竞争记忆的干扰而非编码的精细程度所导致；(2)反应被试在编码时是否使用记忆策略：被试在编码的过程中可能会辅以语义记忆，当被试看到相应场景时，对应的语义记忆可能会自动激活，从而帮助被试在测试过程中进行选择。目前，尚没有研究比较诱饵刺激的相似性效应和竞争性记忆的干扰效应在记忆更新老化效应中的作用。研究中诱饵刺激的纳入将对我们进一步明晰记忆更新的认知老化机制提供帮助。
+
+综上，本研究我们将在控制老年人和年轻人编码程度的前提下，考察老年人和年轻人项目和位置更新模式差异，揭示在提取A-B 和A-C竞争记忆时的认知老化机制。研究创新了AB-AC 范式，在第一天和第二天分别让被试学习两组场景-项目(或位置)连接，其中场景不变，为范式中的“A”刺激 (见图1)。测试设置了短期(1天后)和长期(3 天后)两个时间点，以探究提取模式是否存在延迟效应。测试选项框架中包含目标选项(正确答案：即 A-B 测试中的B 和A-C 测试中的C)、竞争项目(竞争性答案：即 A-B 测试中的C 和A-C 测试中的 B)和诱饵选项(与目标相似的答案：即 A-B 测试中的B'和A-C 测试中的C'；见图 2b)。如果被试在A-B记忆测试中更多地正确选择了B,在A-C 记忆测试中正确选择了C,且A-B 和 A-C记忆保持量没有显著差异，则该行为模式表现为记忆更新中的记忆分化。如果被试在 A-B测试中更多地选择C(即C 记忆闯入)，但是在 A-C 测试中较少地出现B 的闯入，则支持记忆更新中的回溯性干扰；相反，如果在A-C 测试中更多地出现了B的闯入，则支持记忆更新中的前摄干扰。
+
+# 2方法
+
+# 2.1被试
+
+我们采用 $\mathbf { G } ^ { * }$ power3.1(Fauletal.,2007)进行被试量估计。使用Cohen's $d = 0 . 8$ 、统计检验力0.8、置信水平 $9 5 \%$ ，算出单组所需样本为21人。本研究分别招募了30名年轻被试和30 名老年被试，满足统计功效的被试量要求。所有老年被试完成简明精神状态检查(TheMontreal Cognitive Assessment,MMSE,Folstein et al.,1975)，入组标准为得分大于 24 分且受教育年限大于等于6年。被试详细信息见表1。年轻人和老年人受教育年限存在显著差异，在后续的分析中我们将其作为协变量进行了控制。所有被试视力或矫正视力正常。一名老年被试在项目记忆和位置记忆的编码测试中均未达到随机水平，即未能达到平均编码水平，因此剔除了该名被试的数据。在自信程度判断分析中，我们排除了主观评分超出了老年组的三个标准差的一位老年被试。此外，一名老年被试第二天编码测试的数据丢失。被试均签署了知情同意书，实验通过了西南大学心理学部伦理委员会批准(No.H21040)。
+
+表1年轻人和老年人人口统计学信息  
+
+<html><body><table><tr><td></td><td>年轻人(n = 30)</td><td>老年人(n =30)</td><td>t</td><td>df</td><td>p</td></tr><tr><td>年龄</td><td>18.70±0.79</td><td>64.72±5.04</td><td>-48.01</td><td>29.31</td><td><0.001***</td></tr></table></body></html>
+
+<html><body><table><tr><td>男性(%)</td><td>0.40</td><td>0.17</td><td>2.70a</td><td>1</td><td>0.101</td></tr><tr><td>教育年限</td><td>12.67±0.80</td><td>10.76±2.80</td><td>3.53</td><td>32.43</td><td><0.001***</td></tr><tr><td>MMSE</td><td></td><td>27.21±2.26</td><td></td><td></td><td></td></tr></table></body></html>
+
+注：“性别比例采用 $X ^ { 2 }$ 检验， $^ { * * } p < 0 . 0 0 1$ ：
+
+# 2.2实验材料和流程
+
+研究采用AB-AC记忆更新范式的变式任务。具体而言，研究中的A为“场景”，B 和C 则为与场景A匹配的两个“项目”(在位置记忆条件中为两个“位置”)。在项目改变条件下，第一天被试需要建立A-B场景-项目之间的连接，在第二天A-C 学习过程中，场景对应的项目发生了变化，但位置不改变(图1)；在位置改变条件下，第一天被试需要形成A-B 场景-项目位置之间的连接，第二天A-C学习过程中，场景对应的项目位置发生了变化，但项目不变(图1)。
+
+实验刺激为来自6个不同室内场景(厨房、餐厅、客厅、卧室、浴室和书房)的36 张图片和108个项目刺激，其中54个项目作为目标刺激，另外的54个项目则是与目标刺激不同但相似的诱饵刺激。54个目标刺激中，36个刺激在第一天使用，18个刺激作为在项目改变条件下的新刺激。我们对所有刺激的分辨率 $( 1 0 2 4 \times 7 6 8 )$ 、对比度和亮度进行了调整和匹配。同时我们对A-B 和A-C 场景和项目以及项目位置的相容性 $( M _ { \mathrm { A \mathrm { - } B } } = 4 . 1 2 , M _ { \mathrm { A \mathrm { - } C } } = 4 . 1 4 ,$ t(69.98)$= - 0 . 1 7 , p = 0 . 8 6 4 \rangle$ 和熟悉度 $( M _ { \mathrm { A - B } } = 3 . 9 4 , M _ { \mathrm { A - C } } = 3 . 9 6 , t ( 6 9 . 6 5 ) = - 0 . 0 2 , p = 0 . 9 8 6 )$ 进行了匹配(详见补充材料表S1)，尽可能减少语义对结果的影响。
+
+第一天：A-B学习第二天：A-C学习
+
+![](images/1989f3a325062bbcf4bd82080eb9087670674896882c914dea661b4e642f212c.jpg)  
+图1 实验材料示意图。左列为第一天 A-B 学习阶段的场景-项目/位置匹配，右列为第二天 A-C学习阶段的场景-项目/位置匹配。其中，第一排为项目改变试次，第二排为位置改变试次示例。
+
+被试一共需要来四次实验室(图 2a)，分别为第一天、第二天、第三天，以及间隔 48 小时后的第五天。第一天，被试需要学习36 对场景-目标(或位置)连接(A-B 编码)；第二天，被试进行 A-C 编码。其中，相较于第一天的学习，一半为项目改变试次，另一半为位置改变试次；第三天和第五天，被试将完成 A-B(根据第一天的学习进行再认)和 A-C(根据第二天的学习进行再认)记忆测试。测试顺序在被试间平衡。为保证所有被试理解实验任务，被试需要在正式实验开始前完成练习实验，练习中使用的场景和项目将不在正式实验中出现。
+
+第一天：A-B编码。在第一天的实验中，被试将学习36对A-B 连接。每个连接的具体流程如下：经过1000ms 的注视点后，项目和其名称将出现在屏幕上，持续时间为 $1 0 0 0 \mathrm { { m s } }$ 。随后，呈现放置于场景中的项目 $2 0 0 0 \mathrm { { m s } }$ ，让被试学习场景-目标/位置配对。被试不仅需要建立场景与项目的配对，还需要记住该项目在对应场景中的位置。为确保所有项目能被被试有效编码，随后我们将场景中的项目用红框框出，呈现 $1 0 0 0 \mathrm { { m s } }$ 。为了能够匹配老年人和年轻人的编码程度，通过前人文献(Howe etal.,2020)和我们预实验的结果，将老年人的学习次数设定为年轻人的两倍。在本实验中年轻被试学习两遍实验材料，而老年被试学习四遍。A-B连接学习完之后进行编码测试，以确保年轻人和老年人的编码程度相同。第一天A-B 编码测试流程同第三天的A-B测试。
+
+第二天：A-C 编码。在第二天的实验中，为尽可能在时间间隔上做到A-B 连接和 A-C连接匹配，被试首先对A-B记忆进行复习，仅观看不测试。同时，前人研究显示在A-C 学习之前重新复习A-B，可使连接记忆处于激活状态更有利于更新(Hupbach et al.,2007; Ye etal., 2020)，休息五分钟后进行 A-C 连接的学习，A-C 连接中的场景与第一天的场景相同，一半试次进行了项目更新而另一半试次进行了项目位置更新。A-C学习阶段老年被试的学习次数仍是年轻被试的两倍。A-C连接学习完之后进行编码测试，确保年轻和老年被试编码程度相同。第二天A-C 编码测试流程同第三天的A-C 测试。
+
+第三天：记忆测试阶段(延迟一天)。第三天进行 A-B 和A-C测试：A-B 测试要求被试按照第一天的学习进行再认判断；A-C测试要求被试按照第二天的学习进行再认判断，两个测试间隔5分钟，测试顺序在被试间平衡。在项目改变任务中，屏幕上方会给被试呈现编码时期的场景，要求被试选择与场景相匹配的项目。在位置改变任务中，首先在屏幕上方给被试呈现编码时期的场景，且场景图片上有三处用阿拉伯数字标记的位置，要求被试选择编码阶段该场景下项目出现的正确位置。在每次选择之后，被试需在六点李克特量表上对自己判断的自信程度进行评分(“1"-非常不确定到"6"-非常确定)。
+
+在备选项中有目标选项(正确答案)、竞争选项和诱饵选项三个类别。其中，目标选项指在A-B测试中的B和A-C测试中的C;竞争选项则是指A-B测试中的C和A-C测试中的B;诱饵选项是指与目标不同但非常相似的项目或位置，即 A-B 测试中的B'和 A-C 测试中的C'(图 2b)。
+
+第五天：记忆测试阶段(延迟三天)。间隔 48小时之后在第五天再次完成A-B 和A-C 测试。测试程序与第三天相同，测试顺序在被试之间和时间上平衡(例如：被试在第三天先完成 A-B 测试，在第五天则先完成A-C 测试)。
+
+![](images/70cba45b3d3257b5c5cda5a56f3965eab8ce8fb329f56e55fc88fe061909eb50.jpg)
+
+图2 实验流程图和测试阶段选项框架。(a)实验流程：第一天，被试学习 A(场景)-B(项目/位置)连接；第二天，被试需首先对A-B 连接进行回顾，然后对新的A-C连接进行学习。所有被试于第三天、第五天返回实验室完成 A-B 测试(按照第一天的学习进行判断)和A-C 测试(按照第二天的学习进行判断)。(b）测试阶段选项示意图。目标选项指在A-B测试中的B和A-C 测试中的C;竞争选项则是指A-B测试中的C和A-C测试中的B；诱饵选项是指与目标不同但非常相似的项目或位置，即A-B 测试中的B'和A-C 测试中的C'。
+
+# 2.3实验设备
+
+实验程序采用Eprime 2.0编写。刺激在19 英寸CRT 彩色纯平显示器上呈现。屏幕分辨率为 $1 2 8 0 \times 1 0 2 4$ ，刷新率为 $6 0 \mathrm { H z }$ 。
+
+# 2.4数据分析
+
+使用R(version 4.0.4;RCore Team,2021)进行数据分析。考虑到第二天的实验有项目或位置两种不同的变化，我们只计算了项目改变条件下的项目回答比例和位置改变条件下的位置回答比例。我们首先采用独立样本 $t$ 检验考察老年人和年轻人在A-B和A-C 学习后编码程度是否匹配。随后，分别在项目改变和位置改变条件下计算选择目标选项、竞争选项和诱饵选项的比例。然后采用2年龄(年轻人 vs.老年人) $\times 2$ 连接记忆(A-B vs.A-C) $\times 3$ 选项类别(目标vs.竞争 vs.诱饵选项) $\times 2$ 时间(第三天 vs.第五天)重复测量方差分析检验两个年龄组记忆更新模式的差异，其中年龄为被试间变量，连接记忆、选项类别和时间为被试内变量。对显著的交互作用进行简单效应分析，并采用 Bonferroni 进行多重比较矫正。因为本文聚焦于探讨记忆更新的老化机制，我们仅针对跟年龄有交互作用的效应进行简单效应分析;在与年龄相关的三重交互显著的情况下，我们在正文中呈现了三重交互的简单效应分析结果，并将年龄相关的两重交互的简单效应分析呈现在了补充材料中(表 S2)。随后，我们计算了在项目和位置改变试次下两个年龄组的主观信心评分差异，并计算了被试水平上记忆正确率和主观信心评分间的相关关系，考虑到样本规模较小且老年人的评分总体呈负偏态分布，我们采用斯皮尔曼相关来计算相关性。
+
+# 3结果
+
+# 3.1编码程度检验
+
+使用welch $t$ 检验比较两个年龄组的编码表现。第一天，A-B项目编码的正确率在年轻人和老年人之间没有显著差异， $t ( 5 6 . 6 5 ) = 1 . 0 8$ ， $p = 0 . 2 8 6$ ，Cohen's $d = 0 . 6 9$ ， $9 5 \%$ CI for $d =$ [0.16,1.21]；然而，A-B 位置记忆强度在两组之间存在显著差异，年轻人比老年人表现更好，$t ( 5 3 . 6 7 ) = 2 . 4 3$ ， $p = 0 . 0 1 8$ ，Cohen's $d = 0 . 6 3$ ， $9 5 \%$ CI for $d = [ 0 . 1 1 , 1 . 1 6 ] ,$ 0
+
+第二天，年轻人和老年人在A-C项目记忆编码中不存在显著差异， $t ( 5 4 . 6 0 ) = 1 . 1 5$ ， $p =$ 0.254，Cohen's $d = 0 . 3 0$ ， $9 5 \%$ CI for $d = [ 0 . 2 2 , 0 . 8 2 ]$ ；在A-C 位置记忆编码中，也不存在年龄差异， $t ( 5 5 . 7 9 ) = 2 . 0 0$ ， $p = 0 . 5 1 1$ ， Cohen's $d = 0 . 5 3$ ， $9 5 \%$ CI for $d = [ 0 . 0 0 , 1 . 0 5 ]$ 。在编码阶段年轻人和老年人的编码程度基本匹配(除 A-B位置记忆)，证明对老年人和年轻人编码程度的操控基本有效。
+
+# 3.2情景记忆更新结果
+
+项目和位置记忆任务的重复测量方差分析结果如表2所示。在项目改变和位置改变条件中，均存在显著的年龄 $\times$ 类别 $\times$ 连接记忆的交互作用(项目改变: $F ( 1 . 2 7 , 7 2 . 3 2 ) \ = 1 4 . 2 0 , p <$ 0.001， ${ \mathfrak { n } _ { \mathfrak { p } } } ^ { 2 } = 0 . 2 0$ ， $9 0 \% \mathrm { C I } = [ 0 . 0 9 , 0 . 3 0 ]$ ；位置改变： $F ( 1 . 3 1 , 7 4 . 5 8 ) = 9 . 9 6$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { n } } _ { \mathfrak { p } } { } ^ { 2 } =$ 0.15， $9 0 \% \mathrm { C I } = [ 0 . 0 5 , 0 . 2 4 ] )$ 。全方差分析结果提示时间变量(第三天 vs.第五天)对我们想要考察的记忆更新未产生显著影响。
+
+表2重复测量方差分析结果  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="5">项目改变</td><td colspan="5">位置改变</td></tr><tr><td>F</td><td>df</td><td>p</td><td>np²</td><td>90% CI</td><td>F</td><td>df</td><td>p</td><td>np²</td><td>90% CI</td></tr><tr><td>年龄</td><td>2.21</td><td>1</td><td>0.143</td><td>0.04</td><td>[0.00, 0.15]</td><td>0.00</td><td>1</td><td>0.998</td><td>0.00</td><td>[0.00, 0.00]</td></tr><tr><td>连接记忆</td><td>1.14</td><td>1</td><td>0.291</td><td>0.02</td><td>[0.00, 0.12]</td><td>0.00</td><td>1</td><td>0.999</td><td>0.00</td><td>[0.00, 0.00]</td></tr><tr><td>类别</td><td>535.21</td><td>2</td><td>< 0.001***</td><td>0.90</td><td>[0.88,0.92]</td><td>321.09</td><td>2</td><td><0.001***</td><td>0.85</td><td>[0.81, 0.88]</td></tr><tr><td>时间</td><td>0.99</td><td>1</td><td>0.323</td><td>0.02</td><td>[0.00,0.11]</td><td>0.00</td><td>1</td><td>0.981</td><td>0.00</td><td>[0.00,0.00]</td></tr><tr><td>年龄×连接记忆</td><td>2.29</td><td>1</td><td>0.135</td><td>0.04</td><td>[0.00, 0.15]</td><td>0.00</td><td>1</td><td>0.991</td><td>0.00</td><td>[0.00, 0.00]</td></tr><tr><td>年龄×类别</td><td>30.92</td><td>2</td><td><0.001***</td><td>0.35</td><td>[0.24, 0.45]</td><td>32.84</td><td>2</td><td><0.001***</td><td>0.37</td><td>[0.25, 0.46]</td></tr><tr><td>年龄×时间</td><td>2.28</td><td>1</td><td>0.137</td><td>0.04</td><td>[0.00, 0.18]</td><td>0.00</td><td>1</td><td>0.991</td><td>0.00</td><td>[0.00, 0.00]</td></tr><tr><td>连接记忆×类别</td><td>25.48</td><td>2</td><td><0.001***</td><td>0.31</td><td>[0.19, 0.40]</td><td>7.38</td><td>2</td><td>0.001**</td><td>0.12</td><td>[0.03, 0.20]</td></tr><tr><td>连接记忆×时间</td><td>1.16</td><td>1</td><td>0.286</td><td>0.02</td><td>[0.00, 0.12]</td><td>0.00</td><td>1</td><td>0.999</td><td>0.00</td><td>[0.00, 0.00]</td></tr><tr><td>类别×时间</td><td>0.55</td><td>1.51</td><td>0.577</td><td>0.01</td><td>[0.00, 0.05]</td><td>0.54</td><td>1.51</td><td>0.597</td><td>0.01</td><td>[0.00, 0.04]</td></tr><tr><td>年龄×连接记忆×类别</td><td>14.20</td><td>2</td><td><0.001***</td><td>0.20</td><td>[0.09, 0.30]</td><td>9.69</td><td>2</td><td><0.001***</td><td>0.15</td><td>[0.05, 0.24]</td></tr><tr><td>年龄×连接记忆×时间</td><td>2.33</td><td>1</td><td>0.133</td><td>0.04</td><td>[0.00, 0.15]</td><td>0.00</td><td>1</td><td>0.991</td><td>0.00</td><td>[0.00,0.00]</td></tr><tr><td>年龄×类别×时间</td><td>0.04</td><td>2</td><td>0.965</td><td>0.00</td><td>[0.00, 0.00]</td><td>2.03</td><td>2</td><td>0.137</td><td>0.03</td><td>[0.00, 0.11]</td></tr><tr><td>连接记忆×类别×时间</td><td>6.67</td><td>2</td><td>0.002**</td><td>0.10</td><td>[0.03, 0.19]</td><td>5.71</td><td>2</td><td>0.005**</td><td>0.09</td><td>[0.02,0.17]</td></tr><tr><td>年龄×连接记忆×类别×时间</td><td>0.26</td><td>2</td><td>0.771</td><td>0.01</td><td>[0.00,0.03]</td><td>2.28</td><td>2</td><td>0.107</td><td>0.04</td><td>[0.00, 0.10]</td></tr></table></body></html>
+
+注： $9 0 \% \mathrm { C I } = 9 0 \% \ \eta \mathrm { p } ^ { ' }$ 的置信区间； $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+我们对年龄 $\times$ 连接记忆 $. { }$ 类别的三重交互作用进行了简单效应分析。结果显示，年轻人项目改变(图3a)和位置改变(图 3b)记忆更新的模式一致，表现为A-B 测试和A-C 测试选择目标选项的比例没有差异(项目改变: $t ( 5 7 ) = - 1 . 9 8$ ， $p = 0 . 0 5 3$ ；位置改变： $t ( 5 7 ) = - 0 . 2 4$ ， $p =$ 0.812)，选择竞争选项的比例两个测试之间也没有差异(项目改变: $t ( 5 7 ) = - 0 . 3 1$ ， $p = 0 . 7 5 6$ ：位置改变: $t ( 5 7 ) = - 0 . 7 3 5$ ， $p = 0 . 4 6 5 )$ ；而在诱饵选项的选择比例上，相比于A-C 测试，年轻人在A-B 测试中选择了更多的诱饵选项(项目改变： $t ( 5 7 ) = 4 . 2 4$ ， $p < 0 . 0 0 1$ ；位置改变:t(57)$= 2 . 0 5$ ， $p = 0 . 0 4 5 )$ 。研究结果提示年轻人能分离表征A-B 和A-C 连接，在提取过程中竞争记忆的闯入较少且没有前摄和回溯干扰的差异，记忆更新更多的体现为记忆分化。
+
+老年人项目改变(图3c)和位置改变(图3d)更新与年轻人在模式上有显著差异。具体表现为 A-C 记忆比A-B 记忆的正确率(选择目标选项)更高(项目改变: $t ( 5 7 ) = - 6 . 7 5$ ， $p < 0 . 0 0 1$ ：位置改变： $t ( 5 7 ) = - 3 . 8 8$ ， $p < 0 . 0 0 1 \AA$ ；在A-B 测试中选择竞争选项(C)比例要显著高于A-C 记忆测试中选择竞争选项(B)的比例(项目改变: $t ( 5 7 ) = 5 . 6 5$ ， $p < 0 . 0 0 1$ ；位置改变： $t ( 5 7 ) = 4 . 5 5$ $p < 0 . 0 0 1 \$ ；且老年人在 A-B 和A-C 测试中的诱饵选项比例无显著性差异(项目改变: $t ( 5 7 ) =$ $- 0 . 3 1$ ， $\begin{array} { r } { p = 0 . 7 5 6 } \end{array}$ ；位置改变： $t ( 5 7 ) = - 0 . 8 8$ ， $p = 0 . 3 8 2 \mathrm { \cdot }$ ）。研究结果显示，老年人在情景记忆更新过程中更多地受困于回溯性干扰，具体表现为在A-B 测试中竞争记忆C的闯入。
+
+![](images/f049c12a72888897bd13e338561b01030bf89531894e1f4b696dc30aa514c89e.jpg)  
+图3(a)年轻人项目记忆，(b)年轻人位置记忆，(c）老年人项目记忆，(d)老年人位置记忆测试
+
+结果。 $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ， $\mathrm { n . s . } =$ 不显著。
+
+# 3.3主观记忆评价表现
+
+我们首先对不同年龄组的自信程度评分进行 $\mathbf { \chi } _ { t }$ 检验，结果表明，在项目改变试次(t(89.57)$= 2 . 2 0 , p = 0 . 0 3 1$ ,Cohen's $d = 0 . 3 4$ ， $9 5 \%$ CI for $d = [ 0 . 0 3 , 0 . 6 4 ] )$ 和位置改变试次 $( t ( 8 9 . 5 7 ) = 6 . 6 7$ $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 0 1$ ， $9 5 \%$ CI for $d = [ 0 . 6 9 , 1 . 3 2 ] )$ 下，老年人的自信评分显著高于年轻人。此外，我们还在被试水平上建立了年轻人和老年人记忆正确率与主观自信评价之间的相关关系。图4(a)和(b)显示了年轻人和老年人在项目和位置改变任务中的主观自信评价与记忆表现之间的关系。年轻人的记忆表现与主观信心评分在项目 $( r = 0 . 5 5$ ， $p = 0 . 0 0 2 )$ 和位置 $( r =$ 0.60， $p < 0 . 0 0 1 \$ ）改变试次中均存在显著正相关关系，即自信评分越高记忆表现越好。而老年人的主观自信评价与其记忆表现在项目改变 $( r = - 0 . 1 1$ ， $p = 0 . 5 9 4 )$ 和位置改变 $( r = 0 . 0 7$ ， $p =$ 0.703)条件中不存在线性相关。随后，将两组的相关系数进行Fisher- $\mathbf { \nabla } \cdot Z$ 转化并对两组系数比较，发现主观自信评价与记忆变现的相关在两个年龄组之间存在显著差异，年轻人的相关性显著高于老年人(项目改变: $z = 2 . 2 3$ ， $p = 0 . 0 2 6$ ；位置改变： $z = 2 . 2 7$ ， $p = 0 . 0 2 3 )$ 。
+
+![](images/10d1273a0bfa5bf3e1925a40510b5609b59d008452b71563eedbe013acbcf98a.jpg)  
+图4 (a)项目和(b)位置改变试次中年轻人和老年人主观自信评价与记忆表现的相关关系。相关图上方和为主观自信评价的箱形图。
+
+# 4讨论
+
+已有情景记忆的老化研究多从编码角度探讨，鲜有研究针对情景记忆更新以及竞争记忆的认知老化机制进行探讨。本研究采用了更具生态效度的生活场景图片，在控制了老年人和年轻人编码强度的前提下，考察老年人项目和位置记忆更新的改变机制。我们发现，当年轻人和老年人的编码程度匹配时，项目改变和位置改变条件表现出了相对一致的记忆更新模式：年轻人可以在保留旧记忆的情况下形成新的记忆——即他们可以分离存储A-B和A-C记忆;而老年人在记忆更新过程中受到了回溯性竞争记忆的干扰，即在A-B 测试中C 的闯入显著高于在A-C 测试中B的闯入。此外，这一行为模式存在长时效应，至少可以持续三天。
+
+年轻人更多的采取分离存储，这个发现与前人研究一致(例如：Burton et al.,2017; Burtonet al.,2019)。现有证据支持年轻人的A-B和A-C表征能共存于记忆系统中，表明年轻人能够成功执行模式分离，即将相似的记忆以分离的表征形式存储于记忆的过程中。反之，如果我们不能将不同类型的记忆表征正交化，那么旧的信息就会被新学习的输入信息所替代，即模式分离功能的损伤会引发记忆之间的干扰效应。在本研究中，我们要求被试在分别的两天对形成的场景-项目/位置连接进行更新，这一过程需要模式分离认知过程的参与。研究结果表明年轻人保持了相对完整的模式分离能力，而老年人则在表现出了模式分离损伤。模式分离主要依赖于齿状回(Dentate gyrus,DG)及其信号投射到海马 CA3 亚区的功能(详见综述,Yassa& Stark,2011)。然而，DG具有年龄敏感性(Small et al.,2002;West,1993)，Yassa 等人(2011)发现了CA3/DG 的过度活跃与衰老之间的相关性，并指出年龄相关的记忆衰退可能是由于海马模式分离缺陷所引起。然而，此前有关模式分离的行为研究中采用的偶然编码任务(Incidental encoding task)仅用于区分目标和诱饵刺激(例如,Bakker et al.,2008；Stark et al.,2013)。本研究进一步扩展了这些结果，在记忆更新范式下纳入竞争记忆进一步揭示了模式分离的年龄效应。值得注意的是，我们分别让被试在第二天学习24小时和72小时之后进行短期和长期的测试，发现第三天的记忆模式与第五天的记忆模式基本一致，这也证实了年轻人对竞争记忆的分化和老年人受回溯性竞争记忆的干扰具有长时效应。
+
+在记忆测试任务中，除了目标选项和竞争选项外，我们还添加了诱饵选项来进一步控制编码程度对我们结果的影响。诱饵选项是类似于目标的项目或位置，因此，如果被试不能执行精细化编码(即准确的记住项目和位置的信息)，他们就容易在之后的记忆测试中受到诱饵刺激的干扰，做出错误的选择。我们发现，年轻人在项目改变和位置改变条件中，在 A-B测试中选择诱饵选项的比例显著高于A-C 测试 $( \mathbf { B } ^ { \prime } { > } \mathbf { C } ^ { \prime }$ )，这可能与年轻人的记忆策略相关。年轻人相较于老年人而言。更容易调用图片的语义信息以协助记忆(Mohanty etal.,2016)。也即，在测试阶段年轻人可能会调动相应的语义信息帮助记忆的提取，考虑到 A-B 记忆痕迹比A-C 记忆痕迹弱，年轻人可能会在A-B测试中更多地选择了语义相似的诱饵刺激。此外，我们发现老年人记忆表现下降更多地受到竞争刺激的影响而非诱饵刺激，且在诱饵选项的选择比例上A-B 测试和A-C 测试没有显著差异，研究结果进一步提示，相比于精细化编码能力受损，老年人在记忆更新过程中更容易受到竞争记忆的干扰。
+
+此外，我们进一步分析了主观自信评价和记忆表现的个体差异，结果显示老年人的主观评价与其记忆表现相关不显著，且老年人的主观自信评价的均值显著地大于年轻人。在许多已有的记忆老化研究中也观察到相类似的结果(Fandakova et al.,2013; Jacoby& Rhodes,2006;Shing et al.，2009)，主要可以从两方面解释：其一，主观评价与元认知记忆系统密切相关(Brewer&Wells,2006)，然而，随着年龄的增长老年人元认知记忆系统功能受损(Palmer et al.,2014)，特别是在评估特定细节记忆时更为突出(Dodson et al.,2007)。在本研究中，老年人在复杂的场景图像中回忆项目或位置是一个需要消耗认知资源的元监控过程，老年人表现出了对自己记忆表现评估的不准确性；其二，为了避免产生负面的他人评价(例如“老年人记忆力下降”)，老年人在自评打分环节可能会出现“自我感觉为优”的倾向性(Dodson&Krueger,2006; Shing et al., 2009)。
+
+本研究也存在一定的局限性。首先，考虑到目标刺激和诱饵刺激的相似性，诱饵刺激会对目标刺激起到“提示”作用。可以考虑添加另一个选项类别，即竞争诱饵选项(与竞争选项相似)，以进一步排除备择选项框架带来的干扰。事实上，我们在后续一项研究中采用相似AB-AC 范式考察先验知识对老年人情景记忆更新的影响，在选项框架中加入了竞争选项的诱饵刺激，结果与本研究类似，提示对于老年人而言提取失败更多还是来自竞争记忆的干扰而非诱饵刺激。其次，A-B 位置记忆在第一天的记忆编码基线在年轻组和老年组之间没有完全匹配。但除该条件外，其余三个条件均匹配了年轻人和老年人的编码程度。此外，诱饵选项的结果也可以进一步排除编码程度对结果解释的影响。最后，该研究结果不能验证情景记忆更新的再巩固效应(Reconsolidation effect)。有充分的证据表明，当巩固的记忆被重新激活时，记忆会进入一种塑性状态(Lee etal.,2017)。如果在记忆重新激活后引入新的刺激信息，新的信息更容易被整合到旧的记忆痕迹中。这种记忆的延展性通常被称为记忆的再激活效应(Hupbach et al.,2007; Scully et al.,2017)。通常，被试在第二天进行 A-C 学习之前，需要先复习A-B 记忆。当A-B记忆被重新激活时，A-B记忆进入了不稳定状态。因此，处于激活状态的A-B记忆就更有可能被A-C记忆所替代。尽管老年人的A-B记忆测试中出现了较多C记忆的闯入，未来研究还可以通过在测试阶段增加一个A-B 不激活条件，以期考察再激活效应受老化的影响(详见Howe etal.,2020)。
+
+# 5小结
+
+本研究创新了AB-AC记忆更新范式，考察老年人在项目改变和位置改变两个条件下记忆更新行为模式的改变。在年轻人和老年人编码程度匹配的前提下，年轻人的记忆更新通过记忆分化来实现，即能实现A-B 和A-C记忆的模式分离；而老年人更多地受到竞争记忆的回溯性干扰，即在A-B记忆中出现了更多的C的闯入。该记忆更新的年龄效应在项目改变和位置改变条件下表现类似，且具有延迟效应(至少能持续三天)。
+
+# Aging Effect on Episodic Memory Updating: Retrograde interference in competitive memory retrieval
+
+LI Yan1, CHENG Jing-Xuan], YU Jingl,2\*
+
+1 Faculty of Psychology, Southwest University, Chongqing 400715, China ² Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of Sciences, Beijing 100101, China
+
+# Abstract
+
+Updating outdated memories with newly acquired information is an important ability. To ensure less interference from outdated memories，one either trims old memory traces or differentiates between novel and old memories. Although the age-related decline in episodic memory has been well-established, aging effect on episodic memory updating and its underlying cognitive mechanisms are less understood. Memory differentiation and memory interference may act as two different mechanisms that underlie episodic memory updating. To bridge this research gap， we investigated the different updating memory patterns in young and older adults. Furthermore, we intended to clarify the updating differences in item and source memory, which are the two essential elements embedded in episodic memory. By implementing an adapted AB-AC memory updating paradigm, we posited that young adults would comparably attain A-B and A-C memory. In contrast, older adults would experience C memory intrusions in the A-B memory test, indicating memory interference.
+
+We examined episodic memory updating for a sample of 30 young and 30 older adults randomly selected from the university and neighboring community. On Day 1,participants learned 36 naturalistic A-B pairings and completed the encoding test immediately after learning. On Day 2, participants first reviewed the A-B pairs before being introduced to 36 novel A-C pairings (where C's items or sources were different from those in B), following which they completed the Day 2 encoding test. Finally, all the participants returned to the laboratory and completed the A-B and A-C tests on Days 3 and 5. To elucidate the updating memory patterns between the two age groups, we classified their responses into target, competitor, and lure categories to test the group-level differences in memory updating.
+
+We ran a 2 (age: young adults and older adults) $\times 2$ (association: A-B and $\mathbf { A - C } ) \times 3$ (category: target, competitor, and lure) $\times 2$ (time: Days 3 and 5) repeated analysis of variance to examine the different memory updating pattern between the two age groups. Expectedly, there were significant age $\times$ category and age $\times$ association $\times$ category interaction effects in both item and source memory tasks. More precisely, young adults performed comparatively well in A-B and A-C memory tests and showed no significant memory intrusions and distortions. In comparison, older adults performed beter in the A-C memory test than in the A-B memory test and showed B intrusions in the A-C memory test but no C intrusion in the A-B test.
+
+We found that young adults could strengthen their novel memories without inhibiting outdated ones and simultaneously maintained A-B and A-C memory traces. However, older adults updated their memories by overwriting their previously-stored A-B memory traces. The findings illuminate episodic memory updating and its underlying cognitive mechanisms, whereby young adults update memories via differentiating old with new memory traces. However, older adults inhibit previous memory traces when confronted with two pieces of competing information. Notably, separate mechanisms apply to item and source memories and show a long-term effect.
+
+Key words: episodic memory updating; aging; memory differentiation; pattrn separation; memory interference
+
+# 参考文献
+
+Anderson, M. C.(20o3).Rethinking interference theory: Executive control and the mechanisms offorgetting.Journalof Memory and Language, 49(4), 415-445. doi:10.1016/j.jml.2003.08.006
+
+Anderson,M. C.,& Neely, J.H. (1996). Interference and inhibition in memory retrieval. In Memory, pp.237-313. San Diego: CA: Academic Press. https://doi.0rg/10.1016/B978-012102570-0/50010-0.
+
+Bakker, A., Kirwan, C.B., Millr, M.,& Stark, C.E.L. (2008). Pattern separation in the human hippocampal CA3 and dentate gyrus. Science, 319(5870), 1640-1642. doi:10.1126/science.1152882
+
+Brewer, N.，& Wels,G. L. (20o6). The confidence-accuracy relationship in eyewitness identification: Effects of lineup instructions, foil similarity, and target-absent base rates. Journal of Experimental Psychology: Applied, 12(1), 11-30. doi:10.1037/1076-898X.12.1.11
+
+Burton,R.L.,Lek,I.,& Caplan, J.B. (2017). Associative independence revisited: competition between conflicting associations can be resolved or even reversed in one trial. Quarterly Journal of Experimental Psychology, 70(4), 832-857. doi:10.1080/17470218.2016.1171886
+
+Burton, R.L., Lek, I., Dixon, R. A.,& Caplan, J. B. (2019). Associative interference in older and younger adults. Psychology and Aging, 34(4), 558-571. doi:10.1037/pag0000361
+
+Cansino, S. (2oo9). Episodic memory decay along the adult lifespan: A review of behavioral and neurophysiological evidence. International Journal of Psychophysiology, 71, 64-69. doi:10.1016/j.ijpsycho.2008.07.005.
+
+Craik,F. I. M. (1986).A functional account of age differences in memory. In I.F. F. H. Hagendorf (Ed.)， Human memory and cognitive capabilities: Mechanisms and performances (pp. 409-422). Amsterdam, the Netherlands: North-Holland.
+
+Dodson, C. S., Bawa, S.,& Krueger, L. E. (20o7). Aging, metamemory,and high-confidence errors: A misrecollection account. Psychology and Aging， 22(1)， 122-133. doi:10.1037/0882-7974.22.1.122
+
+Dodson, C. S., & Krueger, L.E.(2006). I misremember it wel: Why older adults are unreliable eyewitnesses. Psychonomic Bulletin & Review, 13(5),770-775. doi:10.3758/bf03193995
+
+Dudai，Y. (2012). The restless engram: Consolidations never end. Annual Review of Neuroscience, 35,227-247. doi:10.1146/annurev-neuro-062111-150500
+
+Fandakova, Y., Shing, Y.L.,& Lindenberger, U.(2013). High-confidence memory errors in old age: The roles of monitoring and binding processes. Memory， 21(6)， 732-750. doi:10.1080/09658211.2012.756038
+
+Faul,F., Erdfelder, E., Lang,A. G.,& Buchner, A. (2007). G\*Power 3: A flexible statistical power analysis program for the social, behavioral,and biomedical sciences. Behavior Research Methods, (39), 175-191. doi:10.3758/BF03193146
+
+Folstein, M. F., Folstein, S.E., & McHugh, P.R. (1975). “Mini-mental state": A practical method for grading the cognitive state of patients for the clinician.Journal of Psychiatric Research,12(3),189-198. doi:10.1016/0022-3956(75)90026-6
+
+Holden, H. M., Hoebel, C., Loftis,K.,& Gilbert, P. E. (2012). Spatial pattern separation in cognitively normal young and older adults. Hippocampus, 22(9)， 1826-1832. doi:10.1002/hipo.22017
+
+Howe，M.L.，Akhtar, S.， Bland, C.E.，& Hellnthal, M. V. (202O). Reconsolidation or interference? Aging effects and the reactivation of novel and familiar episodic memories. Memory, 28(7), 839-849. doi:10.1080/09658211.2019.1705489
+
+Hulbert, J. C., & Norman, K.A. (2015). Neural Differentiation tracks improved recall of competing memories following interleaved study and retrieval practice. Cerebral Cortex, 25(10), 3994-4008.doi:10.1093/cercor/bhu284
+
+Hupbach, A., Gomez, R., Hardt, O.,& Nadel,L. (20o7). Reconsolidation of episodic memories: A subtle reminder triggers integration of new information. Learning and Memory, 14(1-2), 47-53. doi:10.1101/lm.365707
+
+Ira,D., Derek, A.H., Helen, P., Ronald, A. Y., William, M. B., Richard, N.B., & Robert, J. S. (2003). The aging hippocampus: Cognitive， biochemical and structural findings. Cerebral Cortex,13(12),1344-1351. doi:10.1093/cercor/bhg081
+
+Jacoby,L.L.,& Rhodes,M. G. (2006). False remembering in the aged. Current Directions in Psychological Science, 15(2), 49-53. doi:10.1111/j.0963-7214.2006.00405.x
+
+Jacoby, L.L.， Wahlheim, C., N.,, & Kelley, C., M. (2015). Memory consequences of looking back to notice change: Retroactive and proactive facilitation. Journal of Experimental Psychology: Learning, Memory and Cognition, 41(5), 1282-1297. doi:10.1037/xlm0000123
+
+Lee, J.L. C. (2o09). Reconsolidation: Maintaining memory relevance. Trends in Neurosciences, 32(8), 413-420. doi:10.1016/j.tins.2009.05.002
+
+Lee, J. L. C., Nader, K., & Schillr, D. (2017). An update on memory reconsolidation updating. Trends in Cognitive Science, 21(7), 531-545. doi:10.1016/j.tics.2017.04.006
+
+McClelland, J. L., McNaughton, B.L., & O'Reill, R. C.(1995). Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457. doi:10.1037/0033-295X.102.3.419
+
+Mohanty, P.P., Naveh-Benjamin, M.,& Ratneshwar, S. (2016). Beneficial effects of semantic memory support on older adults’ episodic memory: Differential patterns of support of item and associative information.Psychology and Aging,31(1)， 25-36. doi: 10.1037/pag0000059
+
+Norman，K.A. (2010). How hippocampus and cortex contribute to recognition memory: Revisiting the complementary learning systems model. Hippocampus, 20(11), 1217- 1227. doi:10.1002/hipo.20855
+
+Norman, K. A., & O'Reilly, R. C. (20o3). Modeling hippocampal and neocortical contributions to recognition memory: A complementary-learning-systems approach. Psychological Review, 110(4), 611-646. doi:10.1037/0033-295x.110.4.611
+
+Nyberg,L., Maitland, S. B., Rönnlund, M.,Bäckman,L., Dixon, R. A., Wahlin, A., & Nilsson, L. G. (2Oo3). Selective adult age differences in an age-invariant multifactor model of declarative memory. Psychology and Aging, 18(1), 149-160. doi:10.1037/0882-7974.18.1.149
+
+Old, S.R.,& Naveh-Benjamin,M. (2O08). Differential effects of age on item and associative measures of memory: A meta-analysis. Psychology and Aging， 23(1)，104-118. doi:10.1037/0882-7974.23.1.104
+
+Ozubko，J. D.， Moscovitch，M.，& Winocur, G. (2017). The influence of recollection and familiarity in the formation and updating of associative representations. Learning & Memory, 24(7),298-309. doi:10.1101/lm.045005.117
+
+Palmer, E. C.， David, A. S.，& Fleming， S. M. (2014). Effects of age on metacognitive efficiency. Consciousness and Cognition, 28, 151-160. doi:10.1016/j.c0nc0g.2014.06.007
+
+Runquist, W. N. (1975). Interference among memory traces. Memory & Cognition, 3(2),143- 159.doi:10.3758/BF03212891
+
+Scully,I. D., Napper, L. E., & Hupbach, A. (2017). Does reactivation trigger episodic memory change? A meta-analysis. Neurobiology of Learning and Memory, 142(Part A), 99-107. doi:10.1016/j.nlm.2016.12.012
+
+Shing, Y. L. Werkle-Bergner, M., Li, S. C., & Lindenberger, U. (2009). Commiting memory errors with high confidence: Older adults do but children don't. Memory， 17(2),169-179. doi:10.1080/09658210802190596
+
+Small, S. A., Wei, Y. T., Delapaz, R., Mayeux, R., & Stern, Y. (2002). Imaging hippocampal function across the human life span: Is memory decline normal or not? Annals of Neurology, 51(3),290-295. doi:10.1002/ana.10105
+
+Stark,S. M., Yassa,M. A., Lacy, J.W.,& Stark, C.E. (2013). A task to assess behavioral pattern separation (BPS） in humans: Data from healthy aging and mild cognitive impairment. Neuropsychologia, 51(12), 2442-2449. doi:10.1016/j.neuropsychologia.2012.12.014
+
+Stawarczyk, D., Wahlheim, C.N., Etzel, J. A., Snyder, A. Z., & Zacks, J. M. (2020). Aging and the encoding of changes in events: The role of neural activity pattern reinstatement.
+
+Proceedings of the National Academy of Sciences of the United States of America, 117(47), 29346-29353. doi:10.1073/pnas.1918063117
+
+Tulving,E.(1972). Episodic and semantic memory. In E. Tulving & W. Donaldson (Eds.), Organization of memory. San Diego: CA: Academic Press.
+
+Vestergren,P.,& Nilsson, L. G. (2011). Perceived causes of everyday memory problems in a population-based sample aged 39-99. Applied Cognitive Psychology， 25(4), 641-646. doi:10.1002/acp.1734
+
+Wahlheim, C. N.,& Zacks, J. M. (2019). Memory guides the processng of event changes for older and younger adults. Journal of Experimental Psychology: General, 148(1), 30-50. doi:10.1037/xge0000458
+
+West, M. J. (1993). Regionally specific loss of neurons in the aging human hippocampus. Neurobiology of Aging, 14(4),287-293. doi:10.1016/0197-4580(93)90113-P
+
+Xue,G. (2018). The neural representations underlying human episodic memory. Trends in Cognitive Science, 22(6), 544-561. doi:10.1016/j.tics.2018.03.004
+
+Yassa,M.A.,& Stark, C. E.L. (2011). Pattern separation in the hippocampus. Trends in Neurosciences, 34(10), 515-525. doi:10.1016/j.tins.2011.06.006
+
+Ye,Z.， Shi, L., Li, A.， Chen, C.,& Xue, G. (202O). Retrieval practice facilitates memory updating by enhancing and differentiating medial prefrontal cortex representations. eLife, 9. doi:10.7554/eLife.57023
+
+Zancada-Menendez， C.， Sampedro-Piquero，P.，Meneghetti， C.， Labate， E.,， Begega，A.，& Lopez, L. (2015). Age differences in path learning: The role of interference in updating spatial information. Learningand Individual Differences，38, 83-89.
+
+doi:10.1016/j.lindif.2015.01.015

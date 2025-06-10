@@ -1,0 +1,288 @@
+# 利用自适应假近邻方法优化卷积神经网络的图像目标分类算法
+
+黄珍la，李志浩²，苑毅』b，阮文惠la
+
+(1.兰州文理学院a.数字媒体学院；b.传媒工程学院，兰州 73000;2.兰州大学 信息科学与工程学院，兰州730000)
+
+摘要：为了能够在处理不同的数据类型或任务时得到良好的结果，设计了基于自适应假近邻方法的卷积神经网络(CNN)架构。将中心矩的思想应用在CNN的池化操作中，利用稀疏滤波算法实现训练过程的无监督化，并设置CNN算法的卷积掩模(卷积核)的大小和每层卷积单位(CNN 神经元)的数量；此外，该架构还利用自适应假近邻方法实现简化建模和预测等任务。实验结果证实，提出的改进CNN 架构的复杂度较低，它可以更快地接受训练并且不易产生过度拟合。
+
+关键词：卷积神经网络；假近邻；目标分类；矩池化；稀疏滤波 中图分类号：TP391.4 doi:10.3969/j.issn.1001-3695.2018.05.0339
+
+# Image target classification algorithm based on adaptive artificial near-neighbor method for convolution nerve network optimization
+
+Huang Zhenla,Li Zhihao², Yuan $\mathrm { Y i ^ { 1 b } }$ ,Ruan Wenhuila (1.a.ScholofDigitalMedia,b.choolofediaEngneering,LanzhouUniversityofArts&ciences,Lanzhou30oChina; 2.School of Information Science & Engineering,Lanzhou University,Lanzhou 73oooo,China)
+
+Abstract: Iorder toobtain goodresults whendealing with differentdata types or tasks,this paper designedaconvolutional neural network (CNN)architecture based on adaptive false nearest neighbors method.It applied the center moment to CNN poolingoperationanditused sparsefilteringalgorithmtorealizetheunsupervisedtraining proces,anditalsoset thesizeof theconvolutionmask (convolution kernel)of the CNNalgorithmand theunit ofconvolution(CNN neural).In adition,the architecture alsoused adaptivefalse nearest neighbors methodto simplifytaskssuchas modelingand prediction.Expermental resultsconfirmthat the improvedCNNarchitecture islesscomplexand itcan be trained fasterand itis less prone to overfitting.
+
+Key words:convolutional neuralnetwork;false nearestneighbors;targetclasification;moment poling;sparse filtering
+
+# 0 引言
+
+深度学习(deep learning，DL)[1算法已成为分析海量数据的主要方法，它能够提取有意义的特征，以帮助理解和解决复杂的大数据处理问题。DL算法在多个层次上运行，每个层次由一组涉及线性和非线性组件的回归模型组成，多种模型的组合使复杂功能的表示成为可能。大多数DL算法类似于人工神经网络，输入向量在包含操作单元的连续层中被处理以强调或抑制特征。目前，DL算法主要应用在数据分类[2]、图像识别[3]、机器翻译[4]等方面。
+
+卷积神经网络(convolutional neural network,CNN)[5]是一种经典的DL算法，它能够从音频和视频等时间相关的数据中提取出特定的特征。然而，CNN的性能在很大程度上取决于它的体系结构，包括层数、每层单位和卷积掩模大小。而且，在处理不同的数据类型或任务时，适用于特定问题的体系结构可能并不通用。解决这个问题的常用替代方法是评估不同的CNN架构，以选择性能最好的架构。这样的过程显然具有许多缺点：a)对单个架构的训练和评估已经是计算密集型的，因此对许多场景的总体评估可能是不可行的；b)由经验定义的体系结构可能不适合所考虑的问题，因此可能无法获得理想的结果。
+
+通常，用于避免评估多个CNN设置的策略需要考虑额外的训练阶段来调整与卷积单元相关的权重。这也增加了计算负担，并且需要数千/数百万个例子才能产生合理的结果[6。另一种策略是使用CNN集合，它通常允许利用最大数量的迭代次数，但需要花费更多的体系结构来获得相关结果。
+
+本文提出了一种新的CNN体系结构。它将中心矩的思想应用在CNN的池化操作中，利用稀疏滤波算法实现训练过程的无监督化。受假近邻(False Nearest Neighbors，FNN)[7]方法的启发，本文的方法分析了每个CNN 层的卷积操作产生的输入和输出图像，以估计卷积掩模的适当尺寸和每层卷积单元的数量，并利用自适应假近邻方法实现简化建模和预测等任务。
+
+# 1 相关研究
+
+CNN算法被广泛应用在分类问题中。文献[8]使用Maxout模型和退出策略来改进CNN特征提取。Maxout是一个激活函数，它将卷积运算 $x$ 的结果乘以一个对角权重矩阵 $W$ ，并根据表达式 $\boldsymbol { Z } = \boldsymbol { X } ^ { T } \boldsymbol { W } + \boldsymbol { b }$ 将其与一个偏差向量 $b$ 相加。 $z$ 中的最大值是输出，该模型的错误率为 $0 . 4 5 \%$ 。文献[9]中提出了具有两级特征的多尺度CNN(MS-CNN)分类器。文献[10]研究了稀疏网络(SNoW)表示的图像边缘并识别来自哥伦比亚大学图像库(COIL-100)的物体。SNoW 中的每个单元都代表一个负责将对象分类到特定类的子网络，因此SNoW包含与标签一样多的单元。文献[11]中提出了一个新的框架，它能够减少在训练期间花费的时间，并使用反卷积网络来评估训练行为。采用相关性分析输入图像与重建图像之间的相似度，作为适应度函数。最后，应用Nelder-Mead方法来优化适应度函数并找到最佳结构。该框架为参数提供了一个范围，并为分析的数据集提供了足够的准确度。文献[12]中使用多节点进化神经网络进行深度学习(MENNDL)，以找到最佳的卷积掩模大小和滤波器数量。然而，MENNDL和所有PSO方法还会训练每个体系结构来计算适应度函数，直到找到一个好的参数为止，这无疑增大了计算量。
+
+各种演化方法通过训练CNN 架构来估计CNN 的最佳参数，以便计算适应度函数。本文的目标是获得简单的CNN 体系结构来执行分类任务，并使用数据集进行验证。本文方法在实验中多种情况下表现出了与深度网络类似的性能。简单的体系结构能够使处理成本更低，还能降低过度拟合的产生。
+
+# 2 基于自适应假近邻方法的卷积神经网络架构
+
+# 2.1 卷积神经网络
+
+CNN是一种深度学习算法，用于处理信号、图像和视频等多维数据，即使在存在噪声、移位、缩放等情况下也可以提取相关特征数据。CNN是一个多层网络，每一层由负责不同类型操作的单元组成，卷积被用来识别局部循环特征。
+
+典型的 CNN 体系结构具有以下顺序：a)第一层代表输入数据并且不完成任何操作(作为验证函数工作)；b)第二层负责用激活函数计算卷积操作；c)第三层通过合并操作进行二次抽样；层b)和c)可以重复；d)最后一层产生输出特征。
+
+方程(1)定义了卷积运算，其中 $I$ 是尺寸为 $\scriptstyle q \times p$ 的二维输入数据(通常为输入图像)， $\Theta$ 是尺寸为 $m \times n$ 的卷积掩模(或核)，并且 $\phi _ { i , j }$ 是由区域卷积产生的值。
+
+$$
+\phi _ { i , j } = ( I \otimes \Theta ) _ { i , j } = \sum _ { x = - m / 2 } ^ { m / 2 } \sum _ { y = - n / 2 } ^ { n / 2 } I _ { i - x , j - y } \Theta _ { x , y }
+$$
+
+在式(1)中定义的卷积步骤可以写成一个 $m \times n$ 维空间中的点积。令 $\vec { \nu } _ { i , j } = [ I _ { i - x _ { 1 } , j - y _ { 1 } } , \cdots , I _ { i , j } , \cdots , I _ { i - x _ { m } , j - y _ { n } } ]$ 是对应于 $\boldsymbol { \mathbf { \ell } } _ { I }$ 的局部区域的矢量，令 $\overrightarrow { \Theta } = [ \theta _ { x _ { 1 } , y _ { 1 } } , \cdots , \theta _ { x _ { m } , y _ { n } } ]$ 是表示卷积掩模的向量，它是通过连接 $\Theta$ 列生成的。本文假定 $\Theta$ 中元素的索引在范围$x = - m / 2 , \cdots , m / 2$ 和 $y = - n / 2 , \cdots , n / 2$ 中。使用这种表示法，式(1)可表示为点积形式：
+
+$$
+\boldsymbol { \phi } _ { i , j } = \overrightarrow { \Theta } ^ { T } \vec { \nu } _ { i , j }
+$$
+
+本文假设一个具有1个单位(或神经元)的卷积层，其中每个单位对应一个 $m \times n$ 卷积掩模 $\boldsymbol { \Theta } _ { k }$ ， $k = 1 , . . . , l$ 。使用先前描述的向量表示并固定 $I$ 的局部区域 $\vec { \nu } _ { i , j }$ ，本文可以将每个具有$\vec { \nu } _ { i , j }$ 的 $ { \vec { \Theta } } _ { k }$ 的卷积步骤写为以下矩阵向量积：
+
+$$
+\left[ \stackrel { \longrightarrow } { \boldsymbol { \Theta } _ { 1 } ^ { T } } \right] \vec { \boldsymbol { \nu } } _ { i , j } = \left[ \begin{array} { c } { \phi _ { i , j } ^ { 1 } } \\ { \vdots } \\ { \phi _ { i , j } ^ { l } } \end{array} \right] = \overrightarrow { \phi _ { i , j } }
+$$
+
+换句话说，卷积步骤对应于线性变换 $T ( \vec { \nu } _ { i , j } ) : \mathbb { R } ^ { m , n }  \mathbb { R } ^ { l }$ ，其从 $\mathbb { R } ^ { m \times n }$ 到 $\mathbb { R } ^ { l }$ 获取向量。
+
+# 2.2 矩池化
+
+近年来，矩特征在计算机视觉、模式识别、图像分类等方面的应用越来越广泛。在文献[13]中，Rubble提出利用矩特征来估计提取二值特征时主方向，以提高特征的鲁棒性。本文将中心矩的思想应用在CNN的池化中，同时，采用一阶矩阵以减少CNN 模型的复杂性。
+
+灰度矩阵如下所示：
+
+$$
+m _ { p q } = \sum _ { x , y } x ^ { p } y ^ { q } I ( x , y )
+$$
+
+其中: $I ( x , y )$ 代表图像坐标为 $( x , y )$ 的灰度值，并且 $p , q$ 的值均为1。
+
+中心矩阵如下所示：
+
+$$
+c = \left[ { \frac { m _ { 1 0 } } { m _ { 0 0 } } } { \frac { m _ { 0 1 } } { m _ { 0 0 } } } \right]
+$$
+
+由以上两个等式可以得到池化域的中心矩 $c ( x , y )$ ，通常，$\boldsymbol { c }$ 是一个浮点值，它并不指向某个特定的离散值。如图1所
+
+示， $( Q _ { 1 1 } , Q _ { 1 2 } , Q _ { 2 1 } , Q _ { 2 2 } )$ 表示 $\mathbf { \Psi } _ { c }$ 的上下边界的定点，它们的位置是固定的，可以把它们叫做 $\scriptstyle { \mathbf { \alpha } } _ { c }$ 的四邻域。本文利用插值法计算其响应值。
+
+![](images/e871409a4a21b80edd88d1d841ecd63c2ddf5fe3a6343c091f084524d85068d3.jpg)  
+图1矩池化选择方法
+
+$$
+\begin{array} { r l } & { x _ { 1 } = \mathrm { ( i n t ) } x , y _ { 1 } = \mathrm { ( i n t ) } y } \\ & { x _ { 2 } = x _ { 1 } + 1 , y _ { 2 } = y _ { 1 } + 1 } \\ & { Q _ { 1 } = ( x _ { 1 } , y _ { 1 } ) } \\ & { Q _ { 2 } = ( x _ { 2 } , y _ { 1 } ) } \\ & { Q _ { 3 } = ( x _ { 2 } , y _ { 2 } ) } \\ & { Q _ { 4 } = ( x _ { 1 } , y _ { 2 } ) } \end{array}
+$$
+
+常用的插值法有两种，最近邻插值法差值速度快，但该方法在使用过程中易造成棋盘格效应；双线性插值法即分别在横纵坐标轴上进行线性差值，以权值的方式衡量距离待插入点的远近，该算法有可能会使轮廓信息变得模糊，且计算量也较大。
+
+本文根据概率 $p _ { x } , p _ { y }$ ，在横纵坐标轴上随机的选择 $_ { x , y }$ ，距离中心矩越近时，被选中的概率就越大，如式(7)(8)所示，再根据 $_ { x , y }$ 的值，从四邻域中选择池化区域的响应值。随机选择可以使结果避免出现过抑合的效果，且计算复杂度也较低。
+
+$$
+\begin{array} { c } { { p _ { 1 } = ( x _ { 2 } - x ) } } \\ { { { } } } \\ { { p _ { 2 } = ( y _ { 2 } - y ) } } \end{array}
+$$
+
+$$
+\begin{array} { c } { { x = \left\{ \begin{array} { l } { { x _ { 1 } } } \\ { { x _ { 2 } } } \end{array} \right. ~ p _ { x } > p _ { 1 } } } \\ { { y = \left\{ \begin{array} { l } { { y _ { 1 } } } \\ { { y _ { 2 } } } \end{array} \right. ~ p _ { y } \leq p _ { 1 } } } \\ { { y _ { 2 } } } \end{array}
+$$
+
+# 2.3 无监督的训练
+
+在 CNN 的实际应用中，一个难点是如何获取大量的有标签训练数据，而数据训练的无监督化正好可以解决此问题。我们可以利用稀疏滤波(sparse filtering)算法，即构建特征分布矩阵求解，并利用归一化的方法对样本特征实行处理，就能够得到样本分布矩阵，该矩阵的样本分布、激活时间都具有稀疏性。此外，还能实现样本分布矩阵的级联以形成无监督学习模型。
+
+令 $F = S ^ { T } X$ 为构建的特征分布矩阵，其中
+
+$X = [ x _ { 1 } , x _ { 2 } , \cdots , x _ { n } ] \in \mathbf { R } ^ { d \times n }$ 表示训练样本矩阵。 $F \in \mathbf { R } ^ { t \times n }$ 表示 $X$ （204号的特征分布矩阵，它的每一行都表示一种特征，每一列代表一个投影后的训练样本， $s$ 表示投影矩阵。稀疏滤波算法的目的即求出 $s$ 的最优解，使 $F$ 满足提及的3种特性。
+
+假设 $f _ { ( i , \Delta ) } \in R ^ { l \times n }$ 为 $F$ 的第 $\mathbf { \chi } _ { i }$ 行， $f _ { ( \Delta , j ) } \in R ^ { t \times l }$ 为 $F$ 的第 $j$ 列，对 $F$ 的行和列实行二范数归一化：
+
+$$
+\tilde { \boldsymbol { f } } _ { ( i , \boldsymbol { \triangle } ) } = f _ { ( i , \boldsymbol { \triangle } ) } / \left\| \boldsymbol { f } _ { ( i , \boldsymbol { \triangle } ) } \right\| _ { 2 }
+$$
+
+$$
+\begin{array} { r } { \tilde { \boldsymbol { f } } _ { ( \triangle , i ) } = \boldsymbol { f } _ { ( \triangle , i ) } / \left\| \boldsymbol { f } _ { ( \triangle , i ) } \right\| _ { 2 } . } \end{array}
+$$
+
+对 $F$ 进行稀疏优化求解，就能够得到投影矩阵 $s$ ：
+
+$$
+\operatorname* { m i n } _ { s } \left\| \hat { \boldsymbol F } \right\| _ { 1 } = \operatorname* { m i n } _ { s } \sum _ { j = 1 } ^ { n } \left\| \hat { \boldsymbol f } _ { ( \triangle , j ) } \right\| _ { 1 } = \sum _ { j = 1 } ^ { n } \left\| \frac { \tilde { \boldsymbol f } _ { ( \triangle , j ) } } { \left\| \tilde { \boldsymbol f } _ { ( \triangle , j ) } \right\| _ { 2 } } \right\| _ { 1 }
+$$
+
+将样本分布矩阵进行级联，并将 $s$ 看作卷积核，就能得到无监督学习模型，这种结构模型在训练的过程中使用贪婪算法逐层求解，只有在当前层的优化结束后，才进行下一层次的优化求解。
+
+# 2.4 假近邻
+
+假近临(FNN)方法是一种将时间相关数据展开为多维空间的方法，也称为相空间，能够简化建模和预测等任务。它迭代地增加相空间的维度，在每个步骤测量邻域关系变化。FNN首先根据欧几里德距离 $D _ { m } ^ { 2 } ( i , r )$ ，将原始数据集重建为 $m$ 维(通常为 $m = 2$ )和固定时间延迟 $d$ (通常为 $d = 1$ )的空间，其中状态$X _ { i } \left( m , d \right)$ 的第 $\boldsymbol { r }$ 个最近邻居为 $x _ { i } ^ { r } ( m , d )$ 。在增加一个新的维度之后，FNN 根据等式(12)计算最近状态的距离变化。如果$V _ { i , r } > r t$ ，则状态被视为虚假邻居， $\mathbf { \Psi } _ { r t }$ 是用户定义的阈值。
+
+$$
+V _ { i , r } = \sqrt { \frac { D _ { m + 1 } ^ { 2 } ( i , r ) - D _ { m } ^ { 2 } ( i , r ) } { D _ { m } ^ { 2 } ( i , r ) } } = \frac { \big | x _ { i } ( m , d ) - x _ { i } ^ { r } ( m , d ) \big | } { D _ { m } ( i , r ) }
+$$
+
+当数据包含噪声或样本不够大时，此准则会计算错误的估计值。此时，可以根据式(13)避免该现象的发生，其中 Dmi(i)为对应于邻居之间的距离， $D _ { m + 1 } ( i , r )$ 表示给定时间延迟 $\tau$ 的邻居之间的距离， $D _ { A } ^ { 2 }$ 是每个点和所有其他点之间的平均距离，$a t$ 是用户定义的阈值。
+
+$$
+\cfrac { D _ { m } ( i ) + D _ { m + 1 } } { D _ { A } ^ { 2 } } ( i + \tau , r + \tau ) _ { } > a t
+$$
+
+最后，FNN计算整个数据集的假邻居的分数以提供截止点，从而定义嵌入维数 $\mathbf { \Sigma } _ { m }$ 。
+
+# 2.5自适应假近邻方法
+
+CNN 在某些图像 $\boldsymbol { \mathbf { \ell } } _ { I }$ 的局部区域中使用的向量表示（204 $\vec { \nu } _ { i , j } = [ I _ { i - x _ { 1 } , j - y _ { 1 } } , \cdots , I _ { i , j } , \cdots , I _ { i - x _ { m } , j - y _ { n } } ]$ 是在考虑两个嵌入维度：沿着行 $( \mathbf { \Phi } _ { M }$ )的嵌入维数和在列( $\mathbf { \Omega } _ { N }$ )上应用嵌入维度之后获得的，它们一起定义矢量 $\vec { \nu } _ { i , j }$ 。因此，为了正确估计给定CNN层的卷积掩模大小，本文调整了假近邻(FNN)方法。
+
+对于 $i = 1 , . . . , q$ 和 $j = 1 , . . . , p$ ，向量 $\vec { \nu } _ { i , j }$ 组成了集合$\mathcal { T } = \{ \vec { \nu } _ { 1 , 1 } , . . . , \vec { \nu } _ { q , p } \}$ ，对应的嵌入维度为 $\mathbb { R } ^ { M \times N }$ 。本文使用FNN来估计卷积掩模的理想维度，如算法1中所述，其需要最近邻居的数目( $\mathbf { \xi } _ { n n }$ )作为输入，本文设置 $n n = 1$ 。参数 $a t$ 设置一个阈值来表征两个向量是否为假邻居。参数 $\tau$ 定义了本文预期会发生复发的偏移量。本文期望输入数据的附近区域保持与本文实验中考虑的图像数据集相似的特征，因此设置 $\tau = 1$ 。
+
+作为输出，算法1提供输入空间 $\boldsymbol { \tau }$ 的假最近邻的平均值，在动态系统的情况下，与该组的递归估计相同。通过维持邻域，使 $\boldsymbol { \tau }$ 中的向量与相空间中形成的吸引子的一组状态的行为相同，这意味着重建的空间需要一组更简单的函数来提供。因此，不良形式的嵌入会导致算法产生较大的输出值。当达到足够好的嵌入时，虚假的最近邻居测量应该在较低的值处并变得稳定。
+
+算法1相空间重构后分析矢量集 $\boldsymbol { \tau }$ 的假近邻值
+
+数据： $\boldsymbol { \tau }$ ：给定数据 $I$ 的向量集合 $\vec { \nu } _ { i , j }$ ；nn：最近邻数量；$a t$ ：邻域的阈值半径;T： $\tau$ 中得到的向量偏置。  
+结果： $f f n$ ：假邻点的值;  
+设置 counter=0;  
+设置 denom=0 ;  
+对于所有矢量 $\vec { \nu } _ { i , j } \in \mathcal { I }$ ，执行：找到 $\mathcal { T } \{ \vec { \nu } _ { i d x } \}$ 中最接近 $\mathbf { \xi } _ { n n }$ 的矢量对于每个 $\vec { \nu } _ { i d x }$ 中的邻居 $\vec { n } _ { i d x }$ ，执行$\begin{array} { l } { d = E u c l i d e a n ( \vec { n } _ { i d x } , \vec { \nu } _ { i d x } ) } \\ { d = d + E u c l i d e a n ( \vec { n } _ { i d x + \tau } , \vec { \nu } _ { i d x + \tau } ) / d } \end{array}$ 如果 $d > a t$ 则$c o u n t e r + +$ 结束结束$d e n o m = d e n o m + n n$   
+结束  
+$f f n = c o u n t e r / d e n o m$
+
+算法 2通过迭代改变它们的行数 $M$ 和列 $N$ 来评估不同的卷积掩模大小。实际上，它将掩模行的数量从1改变为maxM (最大行数)，并将掩模列从1改为 $\mathbf { \Psi } _ { m a x N }$ (最大列数)。对于每个掩模大小，输入数据 $I$ 被嵌入多维"相位空间"中，其中计算假最近邻值的结果存储在矩阵 $F$ 中，矩阵 $F$ 的条目与评估的每个卷积掩模的行数 $M$ 和列数 $N$ 相对应。
+
+算法2卷积单元中掩模大小的估计算法
+
+数据：输入数据1；
+
+maxM和maxN分别为一个假定卷积掩模中行和列的最大值;结果： $F$ ，包含对于所有评估的掩模大小中假近邻值的矩阵。初始化具有 maxM 和 maxN 的矩阵 $F$ ：对于 $M = 1 ^ { ☉ } m a x M$ ，执行：对于 $N = 1$ 到maxN，执行：$\begin{array} { l } { { \mathcal { T } = e m b e d d \left( I , M , N \right) } } \\ { { \ } } \\ { { F \left[ M , N \right] = F N N A n a l y s i s ( \mathcal { T } , n n , a t , \tau ) } } \end{array}$ 结束结束
+
+本文还采用了相同的方法来研究每个CNN 层的卷积单元的数量。将 $\boldsymbol { \mathbf { \ell } } _ { I }$ 的一个区域 $\vec { \nu } _ { i , j }$ 与所有单位掩模进行卷积，相当于将 $\vec { \nu } _ { i , j }$ 映射到一维空间，其中 $\boldsymbol { \mathbf { \ell } } _ { I }$ 是卷积单元的数量。很明显，当$I > M \times N$ 时，本文增加了底层空间的维度。当 $I = M \times N$ 时，本文可以进行逆转换，简化训练阶段的方程。当 $I < M \times N$ 时，由于维数减少，本文最终将输入空间中的不同向量映射到输出空间中的同一个向量中。因此，本文应该寻找 $I \leq M \times N$ 的空间。
+
+本文使用算法3来评估卷积单元在该线性变换中增加时的影响。该新算法接收输入数据 $I$ ，掩模大小(行数 $M$ 和列数 $N$ ），最近邻居数 $\mathbf { \xi } _ { n n }$ ，阈值 $a t$ ，偏移量 $\boldsymbol { \tau }$ ，以及最后要考虑的卷积单元 $\boldsymbol { { \mathbf { \mathit { I } } } }$ 的最大数量。作为输出，该算法提供在感兴趣层上存在的1到 $\mathbf { \Phi } _ { l }$ 个单位的FNN测量结果。预计在添加卷积单元时虚假邻居的数量会减少，在这种情况下，本文估计每个CNN层的单位数量作为向量 $U$ 的指数，其首先达到零(或接近)用于FNN测量，以尝试定义最适当的维度。
+
+算法3估计给定CNN层中卷积单元数量的算法
+
+数据：输入数据【；M 和N：分别为每个卷积掩模中行和列；$\cdot n n$ ：最近邻数量；at：邻域的阈值半径;$\tau : \ \tau$ 中得到的向量偏置；（204号 $l$ ：考虑使用的单元最大值。  
+结果： $U$ ：包含每一个添加到卷积层时假近邻值的向量。  
+初始化具有 $l$ 的矩阵 $U$ ；  
+初始化矩阵 $\Theta$ 为空；  
+$\mathcal { T } = e m b e d d ( I , M , N )$   
+对于 $k = 1$ 到 $l$ ，执行：生成一个 $M \times N$ 的随机卷积 $\Theta _ { \boldsymbol { k } }$ 将 $\vec { \Theta } _ { k } ^ { T }$ 作为矩阵 $\Theta$ 的下一行将矢量 $\tau$ 上的卷积应用于窗体中以获得新的空间 $s$ ，且（204号 $\begin{array} { l } { S = { { \left( { \Theta { { T } ^ { T } } } \right) } ^ { T } } } \\ { U [ k ] = F N N A n a l y s i s { { \left( { S , n n , t , \tau } \right) } } } \end{array}$ 结束
+
+# 3 实验分析
+
+# 3.1数据集
+
+本文使用三个数据集进行实验，所有数据集被分成训练集和测试集，训练集通过本文的FNN方法估计参数，其不需要标签信息，图2为数据集的图像样本。
+
+a）CMU人脸图像数据集[14]。这个图像数据集包含1872个灰度的人脸图像，包含四个变体：姿势(左、右、上和下)、表情(快乐、悲伤、愤怒和中性)、眼睛(不戴太阳镜)和尺寸（ $1 2 8 \times 1 2 0$ 、 $6 4 \times 6 0$ 和 $3 2 \times 3 0$ )。使用构成640个例子的最小图像和两个不同类别进行实验，将数据集分成训练组和测试组，前者由 $70 \%$ 的样本组成，后者由剩下的 $30 \%$ 组成。
+
+b）MNIST数据集[15]。这是一个手写数字二进制图像的数据集，由60000个训练样本和10000个测试样本组成。
+
+c）COIL-100[16]。哥伦比亚大学图像库COIL-100 是一个包含100个类的数据集，拥有7200个RGB 图像(每个类有355个图像，并具有姿态变化)。本文将图像调整为 $3 2 \times 3 2$ 像素，以便更快地进行实验，其中， $70 \%$ 的样本用于训练，其余 $30 \%$ 用于测试。
+
+![](images/ebf597380e62769afd5d80935e4e32d5f29dfd1a305bb93be02c3ae0f66263f3.jpg)  
+CMU人脸图像数据集
+
+![](images/f424f9d61956154a4908bb8e459525fa758623ea034cae00d04c1ffe14a40e07.jpg)  
+MNIST数据集
+
+![](images/538d7289dc20b4d3e3248849f67d2cc3addd8a72f9beab9548fea788c00b31bf.jpg)  
+图2数据集的图像样本
+
+# 3.2 设置
+
+自适应FNN的参数设置如下：最近邻居的数量 $n n = 1$ ，邻居的半径阈值 $a t = 1 0$ ；对于算法1-3，算法1中包含的向量的偏移量 $\tau = 1$ ；算法2的最大行数和最大列数被设置为图像的大小除以2，因此 $M$ 和 $N$ 根据分析中的数据集的最佳掩模大小来设置；算法3的最大卷积单元数 $l = 5 0$ 。
+
+SGD方法用于训练所有基于Caffe的CNN。本文使用卷积、ReLU和max-pooling组成连续图层。Max-pooling应用于每 $3 { \times } 3$ 像素的ReLU层后，步长为 $2 { \times } 2$ 。训练阶段所用参数设置为：学习率为0.001(固定-无减少)，动量为0.9，训练批量为100个样本。求解器参数是凭经验选择的，可以评估卷积掩模尺寸和每层单位数量的影响。
+
+# 3.3参数评估
+
+本文对训练集中的单个图像执行算法2，以提供FNN测量的矩阵 $F$ ，其改变掩模大小的行数和列数。本文在计算FNN度量值时计算这些矩阵的平均值，然后使用此平均矩阵的范数来制定停止标准。如果当前和前一个标准之间的差异小于用户定义的阈值(此处设置为0.001)，则停止执行。最后，从平均矩阵 $F$ 计算直方图以选择最佳的卷积掩模尺寸。因此，对于矩阵$F$ 中的每一行，计数呈现第一个零或最近邻居分数的最小值的列。接下来，沿着列进行同样的处理，即对于每列，计算具有零或最小值的行的邻居分数。直方图由一个矩阵表示，该矩阵指示哪一行和哪一列最适合，其最大值为2，最小值为零。
+
+考虑每个数据集的最佳掩模大小。本文在给定的训练集中的每个输入图像上运行算法3，以提供FNN测量的向量 $U$ ，同时改变单层的卷积单元数。因此，单元数由含有第一个零(或尽可能最低的值)的向量 $U$ 的索引给出，由平均FNN 测量产生。这个零意味着线性变换的目标空间足以表示输入空间。
+
+本文利用MNIST 数据集来计算本文方法在估计掩模尺寸和每层单元数量时的结果。在掩模尺寸估计的情况下，将来自训练集的随机图像当作输入，直到达到停止标准(当前和前面的平均矩阵范数之间的差小于阈值时)。图3给出了训练图像及其对应的FNN 矩阵，其中，(a)表示属于训练集的样本，(b)表示对应于(a)中的样本产生的假最近邻分数的矩阵， $x$ 轴表示按列表示的掩模大小， $y$ 轴表示掩模行数。使用FNN矩阵来计算基于元素的平均矩阵。最后，在这个最终矩阵上制作一个直方图，以返回最佳的卷积掩模大小。
+
+![](images/b879c4827c867de86bca329cddd856f7e435b05ec2c837b718574f595636bfaf.jpg)
+
+图3利用FNN方法在输入图像中获得的样本结果
+
+表1给出了用于估计单元数量的单元平均矢量，该结果也是从MNIST数据集获得的，考虑单个卷积层和掩模大小为$8 { \times } 1 0$ ，单位数量选择的值是这样一个向量中第一个零的索引。
+
+表1MNIST数据集上单层CNN的单元数量估计结果  
+
+<html><body><table><tr><td>序号</td><td>FNN比例</td></tr><tr><td>1</td><td>1</td></tr><tr><td>2</td><td>0.145369373</td></tr><tr><td>3</td><td>0.019133798</td></tr><tr><td>4</td><td>0.008968954</td></tr><tr><td>5</td><td>0.005095382</td></tr><tr><td>6</td><td>0.002178035</td></tr><tr><td>7</td><td>0.000692411</td></tr><tr><td>8</td><td>0.000716954</td></tr><tr><td>9</td><td>0</td></tr><tr><td>10</td><td>0</td></tr></table></body></html>
+
+考虑到单卷积层和最大汇集层，对上述三个数据集都进行了此过程。接下来，利用Caffe 深度学习框架[17]中的SGD 进行数据训练，并且在最大共享层之后产生的输出图像被用于研究第二层卷积。再次执行该过程以添加第三层卷积。最终的网络由三个卷积层和最大池层组成。
+
+表2列出了几种选定的卷积掩模尺寸及其各自单元数量的误差率(ER)，此深度学习框架是通过10000次迭代执行的，以选择最佳的卷积掩模大小。
+
+# 3.4使用最佳的掩模尺寸和卷积单位数量
+
+在研究了最佳的掩模尺寸和卷积单元的数量后，采用最佳参数的实验对本文CNN架构进行50000次迭代训练。表3给出了所有数据集的错误率、相应的掩模大小和使用本文的FNN方法选择的卷积单元的数量。由表3可知，本文的FNN方法即使使用一小部分实例来评估掩模大小和单位数量也能提供良好的结果。
+
+表2三个数据集的实验结果  
+
+<html><body><table><tr><td>数据集</td><td colspan="3">1卷积层</td><td colspan="3">2卷积层</td><td colspan="3">3卷积层</td></tr><tr><td rowspan="4">CMU</td><td>掩模</td><td>单元</td><td>ER</td><td>掩模</td><td>单元</td><td>ER</td><td>掩模</td><td>单元</td><td>ER</td></tr><tr><td>8×1</td><td>12</td><td>0.96%</td><td>9×1</td><td>12</td><td>1.16%</td><td>4×2</td><td>18</td><td>3.09%</td></tr><tr><td>5×2</td><td>13</td><td>0.56%</td><td>7×2</td><td>10</td><td>1.62%</td><td>6×4</td><td>5</td><td>2.01%</td></tr><tr><td>4×4</td><td>10</td><td>1.09%</td><td>5×3</td><td>14</td><td>1.15%</td><td>2×6</td><td>8</td><td>2.55%</td></tr><tr><td rowspan="4">MNIST</td><td>12 ×9</td><td>7</td><td>2.27%</td><td>8×4</td><td>8</td><td>2.53%</td><td>6×3</td><td>5</td><td>2.95%</td></tr><tr><td>8×10</td><td>9</td><td>1.85%</td><td>7×5</td><td>7</td><td>2.25%</td><td>5×4</td><td>5</td><td>3.02%</td></tr><tr><td>11 × 11</td><td>8</td><td>1.92%</td><td>6×6</td><td>6</td><td>1.88%</td><td>2×5</td><td>6</td><td>2.86%</td></tr><tr><td>15×2</td><td>13</td><td>0.66%</td><td>6×3</td><td>13</td><td>0.40%</td><td>3×3</td><td>8</td><td>0.82%</td></tr><tr><td rowspan="2">COIL-100</td><td>13×3</td><td>15</td><td>0.58%</td><td>5×7</td><td>17</td><td>0.51%</td><td>2×4</td><td>11</td><td>0.64%</td></tr><tr><td>12×5</td><td>14</td><td>0.51%</td><td>10×1</td><td>32</td><td>0.36%</td><td>5×1</td><td>24</td><td>0.59%</td></tr></table></body></html>
+
+表3使用本文FNN方法提供的掩模大小和卷积单元数时获得的实验结果  
+
+<html><body><table><tr><td colspan="2">数据集</td><td colspan="3">1卷积层</td><td colspan="3">2卷积层</td><td colspan="3">3卷积层</td></tr><tr><td></td><td>掩模</td><td>单元</td><td>ER</td><td>掩模</td><td>单元</td><td>ER</td><td></td><td>掩模</td><td>单元</td><td>ER</td></tr><tr><td>CMU</td><td>5×2</td><td>13</td><td>0.56%</td><td></td><td>9×1</td><td>12</td><td>1.16%</td><td>7×2</td><td>10</td><td>1.62%</td></tr><tr><td>MNIST</td><td>8×10</td><td>9</td><td>1.85%</td><td></td><td>6×6</td><td>6</td><td>1.88%</td><td>5×4</td><td>5</td><td>3.02%</td></tr><tr><td>COIL-100</td><td>12 ×5</td><td>14</td><td>0.51%</td><td></td><td>10×1</td><td>32</td><td>0.36%</td><td>3×3</td><td>8</td><td>0.82%</td></tr></table></body></html>
+
+对于CMU人脸图像数据集，本文针对图像中的人进行分类，而本文的方法在单个卷积层中取得的最低误差率为 $0 . 5 6 \%$ 。本文的方法有助于找到最佳线性变换，以便根据共享域中向量的邻域提供相关特征。使用这个数据集的结果表明本文的策略对本文所要求的CNN体系结构进行配置很有用。
+
+在文献[11]的方案中，MNIST数据集获得的最低(最佳)错误率为 $0 . 2 3 \%$ 。考虑到单个卷积层，本文的方法实现了错误率为 $1 . 8 5 \%$ ，其中两个卷积层为 $1 . 8 8 \%$ 、三个卷积层为 $3 . 0 2 \%$ ，这是较差的，因为本文的实验使用更简单的CNN架构来执行，而文献[11]中使用了一个非常复杂的结构，它包含35个CNN(MCDNN)，并具有以下层序列：第一个卷积层中有20个单元；二次抽样层中有20个单位；第二卷积层中有40个单元；
+
+下一个子采样层中有40个单位；多层感知器(MLP)隐藏层中有150个单元；MLP的另一个隐藏层中有10个单元。
+
+基于这种比较可以得出结论，本文的方法支持设计更简单的架构，在适当的参数下也可以产生良好的结果。此外，此评估强化了在尝试表示输入数据时选择足够的掩模大小和每个CNN层的卷积单元数量的相关性。另外，增加新的卷积层不会如预期那样影响结果。
+
+文献[18]中使用100个深度卷积小波网络(DCWN)，在COIL-100数据集上获得的错误率等于 $0 . 8 \%$ ，而本文的方法在CNN中使用两个卷积层获得的错误率为 $0 . 3 6 \%$ 。本文结果较优是因为对此类数据集使用均衡滤波器进行了处理。
+
+由上述分析可以得出结论：本文的FNN方法有助于设计更简单的CNN体系结构来处理不同的分类任务，同时产生较好的分类结果。
+
+表4给出了本文的方法与其他方法的错误率比较，采用了本文中使用的三个数据集。表中展示的是实验得到的最好结果，其中具有单个卷积层的体系结构由1C表示，两个卷积层由2C表示，三个卷积层由3C 表示。
+
+表4本文方法与其他研究的错误率比较  
+
+<html><body><table><tr><td>数据集</td><td>方案</td><td>错误率</td></tr><tr><td rowspan="2">CMU</td><td>本文方案 (1C)</td><td>0.56%</td></tr><tr><td>文献[19]中方案 (遗传序列)</td><td>7.36%</td></tr><tr><td rowspan="3">MNIST</td><td>文献[11]中方案(MCDNN)</td><td>0.28%</td></tr><tr><td>文献[12]中方案 (Embed CNN)</td><td>1.25%</td></tr><tr><td>本文方案(3C)</td><td>3.02%</td></tr><tr><td rowspan="3">COIL-100</td><td>本文方案 (2C)</td><td>0.36%</td></tr><tr><td>文献[18]中方案 (DCWN)</td><td>0.81%</td></tr><tr><td>文献[12]中方案 (Embed CNN)</td><td>7.82%</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出了一种新方法来估计卷积掩模大小和为某个目标分类任务设计简单CNN所需的单元数量。本文的方法基于动态系统背景下的假最近邻(FNN)技术来估计足够小的嵌入维以执行任务简化，将相关数据转化到多维空间，利用稀疏滤波算法实现训练过程的无监督化。本文不考虑时间依赖性，注重的是数据(图像)重现。本文的FNN方法模拟了相位空间中掩模尺寸的重现结果。本文还展示了CNN卷积层对输入数据应用线性变换以产生给定的共享域，这种共享域中的向量邻域是由本文的策略评估的。本文的FNN方法也被用来估计构成简单CNN的卷积单元的数量。实验证实，本文的FNN方法在设计更简单的CNN架构时支持适当的参数化，为分类任务找到好的参数，并且它需要较少的层次来设计CNN。
+
+# 参考文献：
+
+[1]周文杰，严建峰，杨璐．基于深度学习的用户投诉预测模型研究[J]. 计算机应用研究,2017,34(5):1428-1432.(Zhou Wenjie,Yan Jianfeng Yang Lu.Research on prediction model of complaint based on deep learning [J]．Application Research of Computers，2017，34 (5): 1428-1432.)   
+[2]Chen Yushi,Lin Zhouhan，Zhao Xing，et al.Deep learning-based classification of hyperspectral data[J].IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2017,7(6): 2094-107.   
+[3]田壮壮，占荣辉，胡杰民，等．基于卷积神经网络的SAR图像目标识别 研究[J]．雷达学报，2016,5(3):320-325.(Tian Zhuangzhuang，Zhan Ronghui,Hu Jiemin,et al. SAR ATR based on convolutional neural network[J].Journal ofRadars,2016,5(3): 320-325.)   
+[4]Gulcehre C,Firat O,Xu K,et al. On integrating a language model into neural machine translation [J]. Computer Speech & Language,2017, 45 (C): 137-148.   
+[5]李旭冬，叶茂，李涛．基于卷积神经网络的目标检测研究综述[J].计 算机应用研究,2017,34(10): 2881-2886.(Li Xudong,Ye Mao,Li Tao. Review of object detection based on convolutional neural networks [J]. Application Research of Computers,2017,34(10): 2881-2886.)   
+[6]Lauer F, Suen C,Bloch G.A trainable feature extractor for handwritten digit recognition [J]. Pattrn Recognition, 2007,40 (6): 1816-1824.   
+[7]LinWeichao,Ke S W, Tsai CF.CANN:an intrusion detection system basedon combining cluster centersand nearest neighbors[J]. Knowledge-Based Systems,2015,78 (1): 13-21.   
+[8]Goodfellow I, Warde-FarleyD,Mirza M,et al. Maxout networks [J/OL]. https://arxiv.org/pdf/1302. 4389. pdf.   
+[9]Pierre Sermanet,Yann Lecun.Traffic sign recognition with multi-scale Convolutional Networks [C]// Proc of International Joint Conference on Neural Networks,2011: 2809-2813.   
+[10] Yang M H,Dan R,Ahuja N. Learning to recognize 3D objects with SNoW [C]// Proc of European Conference on Computer Vision. 20oo: 439-454.   
+[11] Albelwi S,Mahmood A.A framework for designing the architectures of deep convolutional neural networks [J].Entropy,2017,19(6),239-242.   
+[12] Young SR,Rose D, Karnowski T,et al. Optimizing deep learning hyper-parametersthroughan evolutionaryalgorithm [C]// Procof Workshop on Machine Learning in High-Performance Computing Environments. 2015: 4-7.   
+[13] Rublee E,Rabaud V, Konolige K,et al. ORB: an efficient alternative to SIFTor SURF[C]//Proc of International Conference on Computer Vision 2011: 2564-2571.   
+[14] ShottonJ,Fitzgibbon A,Cook M,et al. Real-time human pose recognition in parts from single depth images [J]. Communications of the ACM,2013, 56 (1): 116-124.   
+[15]Roweis S,Saul L.Nonlinear dimensionality reduction by locally linear embedding [J]. Science,2000,290 (5500): 2323-2326.   
+[16]LeCun Y,Bottou L，Haffner P.Gradient-based learning applied to document recognition [J].Proceedings of the IEEE，1998，86 (11): 2278-2324.   
+[17] YounessC,Asnaoui K,Ouanan M,et al. CBIR using the 2-D ESPRIT method:application to Coil_10o database [C]// Computer Systems and Applications, 2016: 1-8.   
+[18] Hassairi S,Ejbali R, Zaied M. Supervised image classification using deep convolutional wavelets network [C]/ Proc of International Conference on Tools with Artificial Intelligence,2016: 265-271.   
+[19] Zhu Chenchen,Zheng Yutong,Khoa L,et al. Weakly supervised facial analysis with dense hyper-column features [C]// Proc of Computer Vision and Pattern Recognition Workshops,2016: 93-101.

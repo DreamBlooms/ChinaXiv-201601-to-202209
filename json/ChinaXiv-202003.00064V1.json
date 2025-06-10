@@ -1,0 +1,412 @@
+[
+    {
+        "type": "text",
+        "text": "海南岛木麻黄林林下植物天然更新影响因素的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨彬，王玉，郝清玉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（热带岛屿生态学教育部重点实验室，海南师范大学生命科学学院，海口571158）摘要：木麻黄海防林是海南岛重要的海岸生态屏障，天然更新对其持续发挥防护功能具有重要意义。调查发现海南岛大多数木麻黄林林下天然更新困难，然而却存在局部更新良好的现象。为了探究天然更新存在巨大差异的原因，通过分析不同林地更新质量的差异，研究影响木麻黄海防林林下天然更新的主要影响因子，为促进海南海防林由人工林向近自然林转化提供一定的理论基础。本研究在海南岛木麻黄海防林中共设置73块临时样地，采用方差分析和相关分析等统计方法，分别研究林地所属气候区、林分条件、土壤因子和凋落物累积量对天然更新质量和密度的影响。结果表明：湿润气候区的木麻黄林下更新要显著优于半干旱区;木麻黄林分密度与更新密度和草本盖度存在显著负相关，但林分条件其它因子对更新影响不大；不同更新质量样地的土壤pH和养分均无显著性差异，但铵态氮对幼苗、有机质对幼树的更新存在一定的促进作用；凋落物的累计整体不利于天然更新的进行。结果说明气候因子，木麻黄林分密度，木麻黄凋落物积累量是影响木麻黄海防林林下植物天然更新的主要因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：海防林，木麻黄，林下植物，天然更新，影响因子中图分类号：Q948.1 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the impact factors of natural regeneration of undergrowth for Casuarina equisetifolia forests in Hainan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "island ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Bin, WANG Yu, HAO Qingyu (Ministryof Education KeyLaboratory for EcologyofTropical Islands,CollegeofLife Sciences,Hainan Normal University,Haikou 571158,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Casuarina equisetifolia coastal protection forest (C.CPF) is an important barrier of coastal ecology in Hainan Island,and natural regeneration is of great significance for it to continuously play a role of protection function. It is found that undergrowth natural regeneration is difficult in the most area of $C .$ ，equisetifolia forests in Hainan island,however,there is a phenomenon of good regeneration in the local area.To explore the cause of the great disparity in the natural regeneration,the main factors affecting the natural regeneration of C.CPF were studied through the analysis of the differences of regeneration quality for different forest lands,in order to provide certain theoretical basis for promoting the transformation of C.CPF from plantation to near-natural forest. 73 temporary plots were established in the C.CPF in Hainan island,and statistical methods, such as variance analysis and correlation analysis,were used to study the effects of climate zone，stand conditions，soil factors and liter accumulation on natural regeneration quality and density. The results showed that the regeneration of C.CPF in wet areas was significantly better than that in dry areas.There was significant negative correlation between C. equisetifolia stand density and regeneration density or herb coverage,but other factors of stand conditions had little effect on regeneration.There was no significant difference in soil $\\mathrm { \\ p H }$ value and nutrients in the sample plots with different regeneration quality,but ammonium nitrogen promoted the regeneration of seedlings and organic matter did the regeneration of saplings to some extent. The accumulation of litter was not conducive to natural regeneration as a whole.The results explained that the climate factor, density of $C$ ，equisetifolia stands and accumulation quantity of C. equisetifolia liters were the main impact factors on the natural regeneration of undergrowth in C.CPF. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: coastal protection forest, Casuarina equisetifolia,undergrowth, natural regeneration, impact factors ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木麻黄（Casuarinaequisetifolia）是原产于澳大利亚和太平洋诸岛的木麻黄科（Casuarinaceae）常绿乔木，因其生长迅速并且具有较好的抗逆性，自上世纪50年代起，便作为我国东南沿海海岸防护林的主要建群树种在海岸带大量种植。其中，海南岛 $1 5 2 8 \\mathrm { k m }$ 的大陆海岸线中，以木麻黄为主的人工防护林带为 $1 4 5 0 \\mathrm { k m }$ ，成林面积 $5 . 6 { \\times } 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 } ($ 胡小婵和温春生，2009)。经过多年的人工栽培，木麻黄已经对我国海岸表现出一定的适应性(Chenet al.,2018)，同时因其对环境的改善也创造了显著的生态及经济效益(陈小勇和林鹏，2002)，成为保障海南岛生态安全的第一道屏障。但也有大量研究发现，木麻黄林下存在天然更新困难的问题(张水松等，2000；谭芳林等，2003)，甚至部分防护林存在多次更新未获成功的情况(郑达贤和沙济琴，1994)。针对此问题，本项目组对海南岛木麻黄海防林天然更新质量进行了调查研究，结果表明，整体上木麻黄天然更新的确不够理想，且木麻黄自身无法更新，但在局部区域其它树种呈现更新良好(杨彬等，2019a)的情况。有学者认为造成木麻黄海防林天然更新困难的原因是木麻黄的化感作用(邓兰桂等，1996；林武星等，2005；王春晴等，2012)或木麻黄对土壤养分的过度索取(陈德旺，2003；林武星等，2008；陈灿等，2015)，但这些影响因素对有些树种天然更新的影响还是有限的，因而存在局部更新良好的现象（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/836a8954791b71c5e41d2fb668a0d74b5f4cc61c80e534a05137f94d6e4357f5.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "注：a.文昌 $1 9 ^ { \\circ } 4 9 ^ { \\prime } 1 2 . 5 3 \" \\mathrm { N }$ 、 $1 1 0 ^ { \\circ } 5 9 ^ { \\prime } 4 3 . 7 6 \" \\mathrm { E }$ ，天然更新优势种为潺槁木姜子；b.万宁 $1 9 ^ { \\circ } 0 1 ^ { \\prime } 3 9 . 5 3 \" \\mathrm { N }$ 、$1 1 0 ^ { \\circ } 3 1 ^ { \\prime } 5 7 . 0 8 \"$ E，天然更新优势种为鸦胆子。"
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note: a. Wenchang $1 9 ^ { \\circ } 4 9 ^ { \\prime } 1 2 . 5 3 \" \\mathrm { N }$ $1 1 0 ^ { \\circ } 5 9 ^ { \\prime } 4 3 . 7 6 \" 1$ E，Litsea glutinosa is the dominant species of natural regeneration；b.Wanning $1 9 ^ { \\circ } 0 1 ^ { \\prime } 3 9 . 5 3 ^ { \\prime \\prime } \\mathrm { N }$ $1 1 0 ^ { \\circ } 3 1 ^ { \\prime } 5 7 . 0 8 ^ { \\prime }$ E，Brucea javanica is the dominant species of natural regeneration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Natural regeneration condition of undergrowth in Casuarina equisetifolia forest ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天然更新是指森林以完全依赖自然力重新形成森林的过程(Chazdon&Guariguata,2016)。森林更新是一个重要而复杂的生态过程，因此一直是森林经营、森林生态系统研究的主要领域之一(张群等，2004)。成功的天然更新大致包括种源生成、种子萌发、幼苗定植和幼树生长四个阶段，其中任何一个阶段出现问题都将影响其天然更新。研究表明，气候条件是影响天然更新的重要因素，植物所需的水分受降水量和蒸发量的影响，进而影响更新的进行(韩广等，1999；苏芳莉等，2002)；温度也会直接或间接的影响更新(杨占彪等，2011；曾德慧等，2002)；郁闭度(韩景军等，2000；陈圣宾等，2005)、林下灌草组成和盖度(Holmes,1995)、立地条件(徐振邦等，2001)等林分条件也是更新的影响因素。此外，土壤中的湿度(高贤明等，2003)、pH(杨会侠等，2013)等理化性质以及养分含量(王军等，2002)均会对更新的过程产生影响。凋落物对更新同时具有物理上的阻隔(李根柱等，2008；李根柱等，2007)和保护(Cintra,1997)双重作用，同时对土壤养分及理化性质也会产生影响(Enright,2001)，进而间接影响更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，尽管对天然更新影响因素的研究有很多报导，但由于不同类型的森林群落，不同的植物种群，不同的立地条件，影响天然更新的因素也有所不同，因此，众多因素中，哪些因素影响木麻黄海防林天然更新，哪些因素是主要影响因子，目前尚不清楚。本文通过相关分析及方差分析等方法，对影响天然更新质量的气候、林分、土壤和凋落物等主要的潜在因子进行了分析，以回答什么因子是影响海南木麻黄海防林林下天然更新的主要影响因子？该研究将为我省海防林的更新改造及人工海防林向\"近自然林\"方向转化提供必要的理论基础和技术支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1样地的设置与调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采用典型抽样的调查方法，共计设置并调查临时样地73块，面积总计 $2 . 5 1 \\mathrm { h m } ^ { 2 }$ 研究区域概况与样地具体设置方法详见杨彬等（2019a）有关“海南岛木麻黄海防林天然更新特征及更新树种筛选”的文献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在各样地中，分别对更新特征、木麻黄林分结构、凋落物进行调查。其中，更新特征主要记录更新植物的种类、测量胸径及株高（ $_ { , D B H < 2 . 5 \\mathrm { c m } }$ ）；林分结构主要测量木麻黄胸径、株数、树高，林下草本盖度，郁闭度，光照度；再在每个样地分散随机设置3个 $1 \\mathrm { m } \\times 1 \\mathrm { m }$ 的样方，将样方内凋落物按表层枯落物和下层腐殖质分别称量湿重并称量部分样品带回实验室以 $8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘干 $3 6 \\mathrm { h }$ 计算含水量，估算林下凋落物干重，最后测量凋落物厚度（包括枯落物和腐殖质厚度）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤测定样品采集于清除凋落物后的样方中，每样方中按 $0 { \\sim } 1 5 \\ \\mathrm { c m }$ 和 $1 6 { \\sim } 3 0 ~ \\mathrm { c m }$ 分别采集上、下层土壤样品，于实验室阴凉通风处阴干至沙土完全自然散开，研磨过筛。土壤 pH采用农业标准NY/T1121.2-2006测定;有机质采用水合热重铬酸钾氧化-比色法(鲁如坤,1999)测定；铵态氮使用杭州汇尔仪器设备有限公司生产的土壤肥料养分速测仪YN-2000C及其配套试剂盒测定；有效磷以NY/T1121.7-2014 标准测定；速效钾采用乙酸铵提取-火焰光度计测定的方法(鲁如坤，1999)测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）天然更新幼苗、幼树及成树的划分标准",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于幼苗、幼树相关的划分标准参考《森林资源连续清查技术规程》中有关更新质量平均的分级（表2），结合GB/T15776-2006 和DB35/T88-1998 标准划分幼树和成树的划分界限。具体天然更新幼苗、幼树及成树的划分标准如表1所示， $H$ 表示株高（m）；DBH表示胸高直径（cm），下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d823df80d81811d8ab8ba686e0b5134f62d19bd2e1aaff9232e8418103132abe.jpg",
+        "table_caption": [
+            "Table 1 Criteria for seedlings, saplings and mature trees "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级 Classes</td><td>I级幼苗 Seedlings of classes I</td><td>Ⅱ级幼苗 Seedlings of classes II</td><td>Ⅲ级幼树 Saplings of classes III</td><td>IV级幼树 Saplings of classes IV</td><td>V级成树 Mature trees of classes V</td></tr><tr><td>标准 Criteria</td><td>H<0.30</td><td>0.30≤H<0.50</td><td>H≥0.50且 DBH<2.5</td><td>2.5≤DBH<5.0</td><td>DBH≥5.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）更新质量：采用国家林业局2014年颁布的《森林资源连续清查技术规程》中的天然更新质量标准判断更新质量（表2）。对同时具有不同高度级幼苗、幼树的样地将各高度级的幼苗、幼树折算为I级幼苗的数量，以此来判定样地的天然更新质量，其中折算后的I级幼苗密度 $\\vdots = \\operatorname { I }$ 级幼苗密度 $+ \\mathrm { I I }$ 级幼苗密度 $\\mathrm { \\times 1 } . 6 6 7$ （ $5 0 0 0 / 3 0 0 0 \\$ ） $+ \\mathrm { I I I }$ 级幼树密度 $\\cdot \\times 2$ (5 000/2500）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3edc2b6ffe90046a33ff3895818f9c6ac9e723e2324bd87f922d8492863727e.jpg",
+        "table_caption": [
+            "表1幼苗、幼树及成树划分标准",
+            "表2天然更新等级评定标准（株· $\\mathrm { h m } ^ { - 2 }$ ）",
+            "Table 2 Evaluation standard on natural regeneration grade "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">等级 Natural regeneration grade</td><td colspan=\"3\">幼苗高度等级 Seedling height Classes（m）</td></tr><tr><td><0.30</td><td>0.30~0.49</td><td>≥0.50</td></tr><tr><td>良好Good</td><td>≥5000</td><td>≥3 000</td><td>≥2 500</td></tr><tr><td>中等Medium</td><td>3 000~4999</td><td>1000~2999</td><td>500~2499</td></tr><tr><td>不良Bad</td><td><3 000</td><td><1 000</td><td><500</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）气候区划分：根据车秀芬等(2014)的研究，以干燥指数为主要指标，降水量为辅助指标可将海南分为3个干湿区，分别为湿润、半湿润和半干旱区。根据天然更新的实际情况，将样地分为干、湿2个气候区，即将车秀芬等人提出的湿润与半湿润区合并为新的湿润区，共计59 块样地，半干旱区范围不变，共计14 块样地。其中半干旱区年干燥指数大于1.5，年降水量小于 $1 0 0 0 \\mathrm { m m }$ ；湿润区年干燥指数小于1.5，年降水量大于 $1 0 0 0 \\mathrm { m m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4)本文差异性检验均使用t检验和方差分析（Duncan 多重比较)，相关性使用Pearson相关分析。上述统计过程均在MicrosoftExcel2019 和IBMSPSS19.0 中完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同气候分布区对木麻黄林下更新的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，湿润区总更新密度显著高于半干旱区，并且ⅡI级幼苗、IⅢ级幼树和IⅣ级幼树更新密度湿润区也显著高于半干旱区。同时，湿润区的丰富度指数、Shannon-wiener 物种多样性指数分别为6.8157、2.5313，也均高于半干旱区的两种指数，分别为1.2717、1.0989，说明湿润区物种较半干旱区更为丰富。此外，湿润区V级成树的物种数也显著高于干旱区，如：湿润区有6种乔木通过天然更新进级为成树，其中更新频度较高的树种为潺槁木姜子和鹊肾树，干旱区则为0；湿润区有3个小乔木树种进级为成树，其中更新频度较高的树种为露兜树，暗罗，干旱区则仅有1个树种，即为露兜树；灌木仅有1个树种进级为成树，即为调料九里香，且分布在湿润区（表3）。综上所述，气候因子对天然更新的数量与质量均有明显的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbcd0a55eccbc56eed7995c12bec1b60e987e90574028f36714d584c103b8292.jpg",
+        "img_caption": [
+            "图2不同气候区各天然更新级更新密度"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Natural regeneration density of each level in different climate zones ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2林分条件对木麻黄林下更新的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相关分析结果表明：幼树的更新密度与木麻黄的林分密度存在显著负相关关系，但其它林分因子与天然更新之间无显著相关性（表4）。通过对林分各因子内的自相关分析发现，木麻黄密度还与草本盖度存在极显著负相关（ $r = - 0 . 3 6 8$ ， $\\scriptstyle P < 0 . 0 1$ ）；同时草本盖度也与郁闭度呈显著负相关（ $_ { , r = - 0 . 5 2 8 }$ ， $P { < } 0 . 0 1$ ），与光照度则呈显著正相关（ $\\mathbf { \\Phi } _ { \\cdot } \\mathbf { r } = 0 . 4 9 3$ ， $P { < } 0 . 0 1$ ）。说明疏植的木麻黄不但有利与乔灌木的更新，也适宜草本的生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同物种天然更新密度、更新结构及样地分布数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f46105528597cd7b76d03b91758e8affb00de353de0aee36a4c7050f6d23391c.jpg",
+        "table_caption": [
+            "Table 3 Natural regeneration densities, structure,and distribution number of plots for different species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种名 Species</td><td rowspan=\"2\">更新密度 Density</td><td colspan=\"3\">样地分布数 Distribution number of plots</td><td colspan=\"7\">更新结构 Regeneration structure</td></tr><tr><td>全岛Whole island</td><td>半干旱区 Semiarid area</td><td>湿润区 Wet area</td><td>I</td><td>II</td><td>Ⅲ</td><td></td><td>IV</td><td>V</td><td>合计Total</td></tr><tr><td>大叶相思 Acacia auriculiformis</td><td>(plants·hm-2) 397.79</td><td>1</td><td>0</td><td>1</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td>4</td><td></td></tr><tr><td>红厚壳 Calophyllum inophyllum</td><td>13.81</td><td>7</td><td>0</td><td>7</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td></td><td>4</td></tr><tr><td>鱼尾葵 Caryota ochlandra</td><td>13.81</td><td>1</td><td>0</td><td>1</td><td>+</td><td>+</td><td>+</td><td></td><td></td><td></td><td>3</td></tr><tr><td>假玉桂 Celtis timorensis</td><td>19.88</td><td>8</td><td>0</td><td>8</td><td></td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>4</td></tr><tr><td>龙眼 Dimocarpus longan</td><td>2.21</td><td>2</td><td>0</td><td>2</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>猫尾木Dolichandrone cauda-felina</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>垂叶榕Ficus benjamina</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>榕树 Ficus microcarpa</td><td>6.08</td><td>2</td><td>0</td><td>2</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>+</td><td>1</td></tr><tr><td>笔管榕Ficus superba</td><td>1.66</td><td>2</td><td>0</td><td>2</td><td></td><td>+</td><td></td><td>+</td><td></td><td></td><td>5 2</td></tr><tr><td>冬青Ilex chinensis</td><td>6.63</td><td>2</td><td>0</td><td>2</td><td></td><td>+</td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>潺槁木姜子 Litsea glutinosa</td><td>467.96</td><td>18</td><td>0</td><td>18</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>+ +</td><td>3</td></tr><tr><td>苦棟 Melia azedarach</td><td>150.28</td><td>10</td><td>0</td><td>10</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td></td><td>5</td></tr><tr><td>细基丸Polyalthia cerasoides</td><td>0.55</td><td>1</td><td>1</td><td>0</td><td>+</td><td></td><td></td><td></td><td></td><td></td><td>4</td></tr><tr><td>水黄皮Pongamia pinnata</td><td>2.21</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>番石榴 Psidium guajava</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>火焰树 Spathodea campanulata</td><td>1.1</td><td>2</td><td>0</td><td>2</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1 1</td></tr><tr><td>假苹婆Sterculia lanceolata</td><td>6.63</td><td>2</td><td>0</td><td>2</td><td></td><td></td><td></td><td>+</td><td>+</td><td>+</td><td>3</td></tr><tr><td>鹊肾树 Streblus asper</td><td>33.15</td><td>6</td><td>0</td><td>6</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>+</td><td>5</td></tr><tr><td>榄仁树 Terminalia catappa</td><td>36.46</td><td>4</td><td>1</td><td>3</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td></td><td>4</td></tr><tr><td>野漆 Toxicodendron succedaneum</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>山牡荆 Vitex quinata</td><td>3.31</td><td>1</td><td>0</td><td>1</td><td></td><td></td><td></td><td>+</td><td></td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3c131a1b406c4830c5d002f7d9683157a87e4ca79bd1c5d8f7f743be5410117.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>倒吊笔 Wrightia pubescens</td><td>9.94</td><td>2</td><td>0</td><td>2</td><td></td><td></td><td>+ +</td><td>2</td></tr><tr><td>鸦胆子 Brucea javanica</td><td>133.7</td><td>16</td><td>3</td><td>13</td><td>+++</td><td></td><td>+</td><td>4</td></tr><tr><td>山石榴 Catunaregam spinosa</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>柠檬 Citrus limon</td><td>2.21</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>柑橘 Citrus reticulata</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>赤才Erioglossum rubiginosum</td><td>1.1</td><td>2</td><td>0</td><td>2</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>对叶榕Ficus hispida</td><td>3.31</td><td>3</td><td>0</td><td>3</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>鼠刺 Itea chinensis</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>月桂 Laurus nobilis</td><td>1.1</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>粗糠柴 Mallotus philipensis</td><td>8.29</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td>+</td><td>+ 3</td></tr><tr><td>柄果木 Mischocarpus sundaicus</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>露兜树 Pandanus tectorius</td><td>176.8</td><td>12</td><td>2</td><td>10</td><td></td><td>+</td><td></td><td>+ 2</td></tr><tr><td>暗罗Polyalthia suberosa</td><td>25.41</td><td>7</td><td>0</td><td>7</td><td>++</td><td>+</td><td>+</td><td>+ 5</td></tr><tr><td>八脉臭黄荆 Premna octonervia</td><td>11.6</td><td>2</td><td>0</td><td>2</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>柳叶密花树 Rapanea linearis</td><td>4.97</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>2</td></tr><tr><td>山黄麻 Trema tomentosa</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td>+</td><td>1</td></tr><tr><td>酒饼霸Atalantia buxifolia</td><td>101.1</td><td>9</td><td>0</td><td>9</td><td>+ +</td><td>+</td><td></td><td>4</td></tr><tr><td>黑面神 Breynia fruticosa</td><td>1.1</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td>+</td><td>1</td></tr><tr><td>土蜜树Bridelia tomentosa</td><td>9.94</td><td>4</td><td>0</td><td>4</td><td>+</td><td>+</td><td>+</td><td>3</td></tr><tr><td>基及树 Carmona microphylla</td><td>25.97</td><td>9</td><td>1</td><td>8</td><td>+</td><td>+</td><td></td><td>2</td></tr><tr><td>长春花 Catharanthus roseus</td><td>8.29</td><td>3</td><td>0</td><td>3</td><td>+ +</td><td>+</td><td></td><td>3</td></tr><tr><td>大青Clerodendrum cyrtophyllum</td><td>118.23</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>苦郎树 Clerodendrum inerme</td><td>48.62</td><td>3</td><td>0</td><td>3</td><td>+ +</td><td>+</td><td>+</td><td>4</td></tr><tr><td>假鹰爪Desmoschinensis</td><td>17.68</td><td>3</td><td>0</td><td>3</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>海南狗牙花 Ervatamia hainanensis</td><td>7.18</td><td>1</td><td>0</td><td>1</td><td>+</td><td>+</td><td></td><td>2</td></tr><tr><td>刺篱木Flacourtia indica</td><td>19.89</td><td>9</td><td>1</td><td>8</td><td>+</td><td>+</td><td>+</td><td>3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/14309ec4aa67f76297b9a3a22b59bf09ab9ec09831886ebbc0791d14dd424b76.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：“ $^ +$ ”表示该物种在相应的更新结构下存在更新。更新密度是指有更新样地的平均更新密度，其中包括幼苗、幼树和成树合计的密度。Note: $\" + \"$ tetregeneration,including the total densityof seedlings,saplings,andtrees."
+        ],
+        "table_body": "<html><body><table><tr><td>山橘树Glycosmis cochinchinensis</td><td>1.1</td><td>1</td><td>0</td><td>1</td><td>+</td><td></td><td>2</td><td></td></tr><tr><td>马缨丹 Lantana camara</td><td>87.85</td><td>18</td><td>0</td><td>18</td><td>+</td><td>+ +</td><td></td><td>2</td></tr><tr><td>白背叶 Mallotus apelta</td><td>1.66</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>翼叶九里香 Murraya alata</td><td>5.52</td><td>4</td><td>0</td><td>4</td><td>+ +</td><td>+</td><td></td><td>3</td></tr><tr><td>调料九里香 Murraya koenigii</td><td>17.68</td><td>6</td><td>0</td><td>6</td><td>+ +</td><td>+++</td><td></td><td>5</td></tr><tr><td>野牡丹Paeonia delavayi</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td>+</td><td></td><td></td><td>1</td></tr><tr><td>五星花 Pentas lanceolata</td><td>2.21</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>光叶海桐 Pitosporum glabratum</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td></td><td>+</td><td></td><td>1</td></tr><tr><td>九节Psychotria rubra</td><td>17.13</td><td>1</td><td>0</td><td>1</td><td></td><td>++</td><td></td><td>2</td></tr><tr><td>两面针 Zanthoxylumnitidum</td><td>0.55</td><td>1</td><td>0</td><td>1</td><td>+</td><td></td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d77a15e9f4a930de79a1c6f8e1e820bdf637d32826933feb54a0d0789425b3b7.jpg",
+        "table_caption": [
+            "Table 4 The correlation between stand conditions and regeneration densities "
+        ],
+        "table_footnote": [
+            "注：“\\*\"表示在0.05水平上显著，“\\*\\*\"表示在0.01水平上极显著。 Note:“\\*” means significant at O.O5 level,“\\*\\*” means significant at O.01 leve "
+        ],
+        "table_body": "<html><body><table><tr><td>密度 Densities</td><td>I级幼苗 Seedlingsof classesI</td><td>Ⅱ级幼苗 Seedlings of classes II</td><td>Ⅲ级幼树 Sapling of classes III</td><td>IV级幼树 Sapling of classes IV</td><td>V级成树 Mature trees of classes V</td><td>更新密度 Regeneration densities</td></tr><tr><td>木麻黄密度 Densities of Casuarina</td><td>-0.101</td><td>-0.085</td><td>-0.278*</td><td>-0.314**</td><td>-0.220</td><td>-0.230</td></tr><tr><td>equisetifolia 木麻黄胸径 DBH of Casuarina</td><td>0.043</td><td>-0.057</td><td>-0.107</td><td>-0.164</td><td>-0.134</td><td>-0.023</td></tr><tr><td>equisetifolia 郁闭度 Crown</td><td>0.045</td><td>0.037</td><td>-0.162</td><td>-0.086</td><td>0.003</td><td>0.021</td></tr><tr><td>density 光照度 Illumination</td><td>-0.057</td><td>-0.048</td><td>0.001</td><td>-0.124</td><td>-0.153</td><td>-0.086</td></tr><tr><td>草本盖度 Herbal</td><td>-0.062</td><td>-0.028</td><td>0.213</td><td>0.135</td><td>0.078</td><td>0.058</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤因素对木麻黄林下更新的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据天然更新等级评价标准对调查样地首先进行了天然更新质量评价(杨彬等，2019a),然后对不同更新质量样地的土壤因子做方差分析，结果表明(表5)不同更新质量样地的 $\\mathsf { p H }$ 、有机质含量、铵态氮、有效磷和速效钾之间均无显著差异，但良好样地的有机质含量、有效磷和速效钾的含量普遍偏高一些，其中 $\\mathsf { p H }$ 整体呈中性，但略偏碱性， $\\mathsf { p H }$ 范围为 $7 . 8 8 { \\sim } 8 . 2 4 \\$ 有机质的变化范围为 $1 . 0 6 \\% { \\sim } 1 . 5 9 \\%$ ；土壤铵态氮含量为 $1 1 . 9 4 \\mathrm { m g { \\cdot } k g ^ { - 1 } { \\sim } 1 5 . 0 8 \\mathrm { m g { \\cdot } k g ^ { - 1 } } }$ ；土壤有效磷的含量为 $5 7 . 0 3 ~ \\mathrm { m g \\cdot k g ^ { - 1 } { \\sim } 6 8 . 7 9 ~ m g { \\cdot k g ^ { - 1 } } }$ ；土壤速效钾含量为 $1 7 . 5 5 \\mathrm { m g { \\cdot } k g ^ { - 1 } { \\sim } 2 5 . 5 2 \\mathrm { m g { \\cdot } k g ^ { - 1 } } }$ 。因此，土壤pH和养分含量对整体的更新质量影响不大，但由表6相关分析结果可知，部分因子与个别更新级呈显著相关，如：有机质与幼树和成树的密度呈显著正相关，铵态氮则与幼苗密度呈显著正相关，速效钾与级幼树呈显著正相关； $\\mathsf { p H }$ 与 $\\mathrm { I I }$ 级幼苗密度则呈显著负相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，土壤因子对更新质量整体影响不大，但不同土壤因子对个别更新级有显著的促进作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/201de84b544c6fde83e35ef058151dc6fc81e886a340197d13ef8ed874fbdb90.jpg",
+        "table_caption": [
+            "表4林分条件与各更新级密度的相关性",
+            "表5不同更新质量样地土壤因子差异性",
+            "Table 5 Difference of soil factors in different natural regeneration grade "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>更新质量</td><td></td><td></td><td></td><td>铵态氮</td><td>有效磷</td><td>速效钾</td></tr><tr><td>Natural</td><td>pH</td><td></td><td>有机质</td><td>Ammonium</td><td>Available</td><td>Available potassium</td></tr><tr><td>regeneration</td><td></td><td>SOM(%)</td><td></td><td>nitrogen</td><td>phosphorus</td><td>(mg·kg-1)</td></tr><tr><td>grade</td><td></td><td></td><td></td><td>（mg·kg-1）</td><td>（mg·kg-1）</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/64bd96d6c54e629a28219a1a811f11a0df1d941397217228809f6ed0100ff1f2.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：不同字母表示0.05水平差异显著。 Note:Different letters mean significant differences at O.O5 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>无None</td><td>8.24±0.63a</td><td>1.06±0.73a</td><td>15.08±10.00a</td><td>57.03±75.66a</td><td>17.55±17.03a</td></tr><tr><td>不良 Bad</td><td>8.08±0.97a</td><td>1.31±0.62a</td><td>13.86±7.52a</td><td>64.61±70.91a</td><td>18.12±7.89a</td></tr><tr><td>中等Medium</td><td>7.88±1.44a</td><td>1.25±0.83a</td><td>11.94±3.80a</td><td>58.39±34.82a</td><td>21.09±12.88a</td></tr><tr><td>良好Good</td><td>8.13±1.58a</td><td>1.59±0.88a</td><td>14.84±10.69a</td><td>68.79±95.33a</td><td>25.52±29.56a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd90a1b64eb0d5c3fb51a642b44ed5921481b4200dd0d3f555c0a87d12a7b270.jpg",
+        "table_caption": [
+            "表6各土壤指标与各更新级的相关性"
+        ],
+        "table_footnote": [
+            "注：“\\*\"表示在0.05 水平上显著。Note: “\\*” means significant at 0.05 level."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 6 The correlation between soil factors and regeneration densities</td></tr><tr><td>土壤因子 Soil factors</td><td>I级幼苗 Seedlings of classesI</td><td>Ⅱ级幼苗 Seedlings of classes II</td><td>Ⅲ级幼树 Sapling of classes III</td><td>V级幼树 Sapling of classes IV</td><td>V级成树 Mature trees of classes V</td><td>更新密度 Regeneration densities</td></tr><tr><td>pH</td><td>-0.192</td><td>-0.339*</td><td>0.084</td><td>0.120</td><td>0.104</td><td>-0.097</td></tr><tr><td>有机质SOM</td><td>-0.051</td><td>0.017</td><td>0.264*</td><td>0.251*</td><td>0.266*</td><td>0.113</td></tr><tr><td>铵态氮 Ammonium nitrogen</td><td>0.328*</td><td>0.252*</td><td>-0.187</td><td>-0.073</td><td>-0.101</td><td>0.127</td></tr><tr><td>有效磷 Available phosphorus</td><td>-0.100</td><td>-0.053</td><td>0.047</td><td>0.071</td><td>0.115</td><td>-0.060</td></tr><tr><td>速效钾 Available potassium</td><td>-0.019</td><td>0.169</td><td>0.262*</td><td>0.118</td><td>0.092</td><td>0.147</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4调落物积累对木麻黄林下更新的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "相关分析结果表明，凋落物厚度与IⅢ级幼树密度和IV级幼树密度呈显著负相关（表7）。腐殖质干重与IⅢ级幼树密度呈显著负相关，同时凋落物干重也与Ⅲ级幼树密度存在显著负相关，其原因是凋落物是由表层枯落物和腐殖质两部分构成的，其中腐殖质干重对凋落物总质量的贡献更大，而枯落物干重所占比重较小，因此腐殖质干重和总凋落物干重与IⅢ级幼树更新密度存在一致的相关性。由此可知，凋落物的累计量对木麻黄林下幼树的更新存在一定的抑制作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/58e0b0563dd181194718b5d8f0bf2654a8429f1dc256bfbf4b0babd5ff3b2e0a.jpg",
+        "table_caption": [
+            "表7凋落物量与各更新级的相关性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 7The correlation between litter factors and regeneration densities</td></tr><tr><td>各更新级密度 Densitiesofeach</td><td>I级幼苗 Seedlings</td><td>Ⅱ级幼苗 Seedlings</td><td>Ⅲ级幼树</td><td>IV级幼树 Sapling of</td><td>V级成树 Mature</td><td>更新总密度 Total</td></tr><tr><td>regeneration grade</td><td>of classes I</td><td>of classes II</td><td>Sapling of classes III</td><td>classes IV</td><td>trees of classes V</td><td>regeneration densities</td></tr><tr><td>调落物厚度 Litter thickness</td><td>-0.003</td><td>-0.163</td><td>-0.374**</td><td>-0.244*</td><td>-0.100</td><td>-0.195</td></tr><tr><td>枯落物干重 Litter dry weight</td><td>0.009</td><td>0.006</td><td>0.040</td><td>-0.118</td><td>-0.019</td><td>0.013</td></tr><tr><td>腐殖质干重 Humusdry weight</td><td>0.138</td><td>-0.029</td><td>-0.272*</td><td>-0.201</td><td>-0.122</td><td>-0.039</td></tr><tr><td>凋落物干重</td><td>0.132</td><td>-0.026</td><td>-0.247*</td><td>-0.214</td><td>-0.119</td><td>-0.033</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b8af30fe350a837c3c4aad7e375b410d379858f7099ed0d31a9fdcc69d6d813.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Total litter dry</td></tr><tr><td>weight</td></tr><tr><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注：“\\*\"表示在0.05 水平上显著，“\\*\\*\"表示在0.01水平上极显著；凋落物干重/厚度 $\\varXi$ 枯落物干重/厚度 $\\cdot +$ 腐殖质干重/厚度。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note:“\\*” means significant at 0.05 level,\\*\\*” means significant at 0.01 level; Total liter day weight/thicknes $\\vDash$ litter dry weight/thickness $^ +$ humus dry weight/thickness. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "森林更新作为一个复杂的生态学过程，受多种因子影响(黄萍和刘艳红，2018；王笑梅等，2017)。研究结果表明不同气候区之间更新的数量与质量存在明显差异，其中湿润区的更新密度、更新级结构与更新物种的多样性均明显好于干旱区，其主要原因是种子萌发和幼苗生长期间对水分需求较大，而新生的根系还不能利用较低水位的地下水，因此干旱气候不利于森林的更新(Denslow,1991)。Ruano et al.(2015)的研究也发现，在降水较少的年份种子雨量会降低，进而导致更新不佳。温度也是影响更新的一个重要气候因子，如苏格兰的心叶椴（Tilia cordata）就因为温度过低无法更新(Pigott,1981)，但海南岛全年均温度较高，且全岛各地气温变化较小，因此在海南温度对天然更新的影响相对较小。因此，若通过提高木麻黄海防林天然更新质量使木麻黄海防林逐渐诱导为近自然林，应优先选择更新潜力相对较高的湿润区进行试验。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "林分结构在更新中往往起重要作用，不同林分条件会通过光照、温度及微环境的差异影响更新过程(黄萍和刘艳红，2018)。木麻黄密度是影响木麻黄林下更新的主要林分因子，且木麻黄密度与更新密度呈显著负相关，木麻黄密度越大对天然更新越不利，这与黄萍等(2018)的研究成果基本相同，即：在松山油松林中大中小树比例与更新呈抛物线关系。同时，本研究还发现林下草本盖度也与木麻黄密度呈负相关，因此适度疏植对木麻黄海防林林下乔灌草的生长均有一定的促进作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "木麻黄林地土壤对天然更新整体上影响不大，但土壤中的铵态氮含量与幼苗更新的密度具有显著相关性；有机质含量则会影响幼树的生长，而 pH、有效钾和速效钾对更新的影响相对较低。有机质是植物碳素的一大重要来源，同时也是森林凋落物分解后重要产物，在刘万德等(2010)的研究中发现，碳在植物演替各阶段差异不显著，但林德喜等人通过对福建一林场的研究发现，天然更新林地土壤有机质要高于人工更新林(张宏伟和黄剑坚，2016)，这与本研究中发现有机质与更新幼树之间的存在显著相关性的结果相似。不同生长阶段的植物对养分的需求不同，如个体越小对氮和磷的需求越大(Lutze Jlgifford,2010;Mencuccini et al,2010)。本研究还发现土壤铵态氮含量与更新的幼苗密度呈显著正相关，而与幼树呈无显著相关性，说明土壤氮素对幼苗天然更新有显著影响，但未发现有效钾与更新的相关性，具体原因有待进一步研究。不同的 $\\mathsf { p H }$ 对不同树种的更新有不同影响，低 $\\mathrm { p H } \\ ( 3 . 5 \\sim 4 . 5 )$ 有利于中欧的云杉林更新(Dyderski etal.,2018),美国东部的针阔叶混交林也在偏酸性土壤下更新较好(Catovsky&Bazzaz,2010)。本研究pH与Ⅱ级更新幼苗呈显著负相关，也说明偏酸性土壤有利于幼苗的更新。陈灿等(2015)调查福建沿海木麻黄林的 $\\mathsf { p H }$ 为强酸性，这与本研究中木麻黄林土壤 $\\mathsf { p H }$ 呈中性相悖，其原因一方面可能是不同地域土壤 $\\mathsf { p H }$ 本身就存在差异，且木麻黄对 $\\mathsf { p H }$ 的影响要小于土壤自身的性质；另一方面可能是 $\\mathsf { p H }$ 测定方法存在差异。本研究采用的是根据国标NY/T1121.2-2006修改的方法，浸提溶剂为无 $\\mathrm { C O } _ { 2 }$ 蒸馏水，而部分研究采用国际通用方法即使用KCI溶液浸提测定。根据我们对同一样品测定的结果，国标法测定所得 $\\mathrm { \\ p H }$ 会显著小于使用KCI测定的结果。此外本次调查中还发现各林地盐度往往均为 $0 \\%$ （传感器测量范围： $0 \\% { \\sim } 1 0 0 \\%$ ，精度： $2 \\%$ ），可见盐度也不是影响海南岛木麻黄海防林更",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "新的因子。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "凋落物的积累对天然更新，特别是幼树更新存在显著的负相关，同时在许多报道中凋落物都是影响天然更新的重要因素，这与本研究结果相一致。李根柱等(2008)认为，凋落物是限制天然更新的重要限制因子，较厚的凋落物会阻碍种子入土及幼苗生长，同时凋落物中的种子库较土壤种子库更易发霉，不利于更新；赵冲等人也发现，较浅的凋落物对幼苗的生长几乎没有影响，但较厚的凋落物却会明显抑制杉木幼苗的生长(赵冲等，2019)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，气候因子、木麻黄林分密度以及凋落物累积量是影响木麻黄海防林下其它树种天然更新的主要影响因素。因此，在气候湿润区域，通过适当疏植木麻黄，或营造有利于天然更新的木麻黄林分结构，并选择必要的时机清除部分凋落物将有利于促进木麻黄林下天然更新的发生。当然，在促进天然更新的区域，除了营造有利于天然更新的条件外，木麻黄周围还必须有天然更新良好树种的天然母树提供充足的种源，或通过营造天然更新良好的树种，如：潺槁木姜子、鹊肾树、鸦胆子等(杨彬，2019b)，与木麻黄混交，待这些天然更新良好的树种成熟之后，为将来木麻黄混交林提供天然更新的种源。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CATOVSKY S,BAZZAZ FA， 2010. Feedbacks between canopy composition and seedlingregeneration in mixed conifer broad-leaved forests[J]. OIKOS, 98(3): 403-420.  \nCHAZDON RL, GUARIGUATA MR, 2016. Natural regeneration as a tool for large - scale forestrestoration in the tropics: prospects and challenges[J]. Biotropica, 48(6): 716-730.  \nCHE XF, ZHANG JH, HUANG HJ, et al.,2014. Climate regionalization in Hainan Island[J]. ChinJTrop Agric，34(6):60-65,70.[车秀芬，张京红，黄海静，等，2014．海南岛气候区划研究[J]．热带农业科学，34(6)：60-65,70]  \nCHEN C,LIN YM, WU CZ, et al.，2O15. Spatial variation of pH values in soil of coastalprotection forest of Casuarina equisetifolia[J]. J Cent S Univ For Technol， 35(11): 80-85.[陈灿，林勇明，吴承祯，等，2015．沿海木麻黄防护林土壤pH值空间变异特征[J]．中南林业科技大学学报，35(11)：80-85]  \nCHEN D， YE G, GAO W, et al.， 2018. Ecological response of Casuarina equisetifolia toenvironmental stress in coastal dunes in China[J]. JFor Res,23(3): 173-182.  \nCHEN DW,2OO3.Study on the Growth,Protective function and soil fertility of mixed forest ofCasuarina and Acacia Auriculaeformis[J].Prot For Sci Technol (3): 13-15.[陈德旺，2003．木麻黄大叶相思混交林生长效果、防护功能和土壤肥力研究[J]．防护林科技(3)：13-15]  \nCHEN SB, SONG AQ, LI ZJ, 2005. Research advance in response of forest seedling regenerationto light environmental heterogeneity[J]. Chin JAppl Ecol，16(2): 365-370.[陈圣宾，宋爱琴,李振基，2005．森林幼苗更新对光环境异质性的响应研究进展[J]．应用生态学报，16(2):365-370]  \nCHEN XY,LIN P, 2O02. Mating system and inbreeding retrog ression of Casuarina equisetifoliaplantation, an introduced species in Xiamen[J]. Chin J Appl Ecol,13(11): 1377-1380.[陈小勇,林鹏，2002．厦门木麻黄种群交配系统及近交衰退[J]．应用生态学报，13(11)：1377-1380]  \nCINTRA R，1997. Leaf litter efects on seed and seed predation of the palm Astrocaryummurumuru and the legume tree Dipteryx micrantha in Amazonian forest[J]. J Trop Ecol, 13(5):709-725.  \nDENG LG, KONG CH,LUO SM,1996. Isolation and identification of extract from Casuarniaequisetifolia branchlet and its allelopathy on seedling growth[J]. Chin J Appl Ecol,7(2):145-149.[邓兰桂，孔垂华，骆世明，1996．木麻黄小枝提取物的分离鉴定及其对幼苗的化感作用[J]．应用生态学报，7(2)：145-149]DENSLOW JS,1991. The effect of understory palms and cyclanths on the growth and survival ofInga seedlings[J]. Biotropica, 23(3): 225-234.DYDERSKI MK, GAZDA A, HACHULKA M, et al., 2018. Impacts of soil conditions and lightavailability on natural regeneration of Norway spruce Picea abies (L.） H. Karst. inlow-elevation mountain forests[J]. Ann For Sci, 75(4): 91.ENRIGHT NJ, 2O01. Littrfalldynamics in a mixed conifer - angiosperm forest in northern NewZealand[J]. JBiogeogr, 26(1): 149-157.GAO XM, DU XJ, WANG ZL, 2003. Comparison of seedling recruitment and establishment ofQuercus wutaishanica in two habitats in Dongling mountainous area, Beijing[J]. Chin J PlantEcol，27(3):404-411.[高贤明，杜晓军，王中磊，2003．北京东灵山区两种生境条件下辽东栎幼苗补充与建立的比较[J]．植物生态学报，27(3)：404-411]HAN G, ZHANG GF, YANG WB,1999. Quantitative Analysis on principle eco-climatic factorsof limiting natural reforestation of Pinus Sylvestris var. mongolica on sandy land[J]. Sci SilvSin，35(5):22-27.[韩广，张桂芳，杨文斌，1999．影响沙地樟子松天然更新的主要生态气候因子的定量分析[J]．林业科学，35(5)：22-27]HAN JJ, XIAO WF, LUO JC, 2000. Effects of different cutting methods on regeneration andhabitat for Spruce-Fir forests[J].Sci Silv Sin，36(S1):90-96.[韩景军，肖文发，罗菊春,  \n2000．不同采伐方式对云冷杉林更新与生境的影响[J]．林业科学，36(S1)：90-96]HOLMES TH, 1995. Woodland Canopy Structure and the Light Response of Juvenile Quercuslobata (Fagaceae)[J]. Am J Bot, 82(11): 1432-1442.HU XC,WEN CS, 2OO9. Study on Hainan sea coastal protective forest[J]. Prot For Sci Technol(2):63-64,93.[胡小婵，温春生，2009．海南省海防林研究[J]．防护林科技，(2)：63-64,93]HUANG P,LIU YH, 2O18. Effects of stand structure and terrain factors on seedling regenerationof Pinus tabuliformis forest in the Songshan national nature reserve, Beijing[J]. Chin J Ecol,  \n37(4):1003-1009.[黄萍，刘艳红，2018．北京松山油松林林分结构和地形对幼苗更新的影响[J]．生态学杂志，37(4)：1003-1009]LI GZ,WANG HX,LIU ZG, et al., 2007. The correlation between the liter of four types inQingyuan county and its natural regeneration[J].For Sci & Technol，32(5): 13-16.[李根柱，王贺新，刘足根，等，2007．清原县四种主要林型的枯落物与天然更新的关系[J]．林业科技，  \n32(5): 13-16]LI GZ,WANG HX, ZHU SQ,et al.， 2008.Barrier efect of litter on natural regeneration innortheast secondary forest[J]. JLiaoning Technol Univ (Nat Sci Ed)，27(2): 295-298.[李根柱,王贺新，朱书全，等，2008．东北次生林区枯落物对天然更新的障碍作用[J]．辽宁工程技术大学学报（自然科学版），27(2)：295-298]LIN WX, HONG W, YE GF., 2OO5. Effects of Water extract from Casuarina equisetifolia on itsseedling growth[J]. Acta Agric Univ Jiangxi，27(1): 46-51.[林武星，洪伟，叶功富，2005．木麻黄水浸液对其幼苗生长的影响[J]．江西农业大学学报，27(1)：46-51]LIN WX, YE GF,TAN FL, et al., 2O08. Fractal feature of soil structure and reflection on soilproperties in different regeneration patterns of Casuarina equisetifolia forest in coastal sandysoil[J].Chin JEco-Agric，16(6):1352-1357.[林武星，叶功富，谭芳林，等，2008．沙岸木麻黄防护林不同更新模式土壤结构分形特征及其效应[J]．中国生态农业学报，16(6):  \n1352-1357]LIU WD, SU JR, LI SF, et al.， 2010. Stoichiometry study of C, N and $\\mathrm { \\bf ~ P }$ in plant and soil atdifferent successional stages of monsoon evergreen broad-leaved forest in Pu'er, YunnanProvince[J].Acta Ecol Sin，30(23): 6581-6590.[刘万德，苏建荣，李帅锋，等，2010．云南普洱季风常绿阔叶林演替系列植物和土壤C、N、P化学计量特征[J]．生态学报，30(23):6581-6590]  \nLU RK,1999. Soil agrochemical analysis method[M]. Beijing: China Agricultural Science andTechnology Press[鲁如坤，1999．土壤农业化学分析方法[M]．北京：中国农业科技出版社]  \nLUTZE JLGIFFORD RM,2010. Acquisition and alocation of carbon and nitrogen by Danthoniarichardsoni in response to restricted nitrogen supply and $\\mathrm { C O } _ { 2 }$ enrichment[J]. Pl Cell Environ,21(11): 1133-1141.  \nMENCUCCINI M, MARTINEZ-VILALTA J, VANDERKLEIN D, et al., 2010. Size-mediatedageing reduces vigour in trees[J]. Ecol Lett, 8(11): 1183-1190.  \nPIGOTT CD,1981. Nature of seed sterility and natural regeneration of Tilia cordata near itsnorthern limit in Finland[J]. Ann Bot Fen,18(4): 255-263.  \nRUANO I， MANSO R，FORTIN M,et al.， 2015.Extreme climate conditions limit seedavailability to successfully attin natural regeneration of Pinus pinaster in sandy areas ofCentral Spain[J]. Can JFor Res,45(12): 1795-1802.  \nSU FL, YOU WZ, FAN SJ, 2002. Stepwise distinguishing and analysis of major meteorologicalelements that influenced natural regeneration of Pinus sylvestris var. mongolica on sandylands[J].Liaoning For Sci Technol，(6):1-3,6.[苏芳莉，尤文忠，范守君，2002．影响沙地樟子松天然更新的主要气候因子的逐步判别分析[J]．辽宁林业科技，(6)：1-3,6]  \nTAN FL, ZHU W, LIN J, et al., 2O03. Quantitative evaluation on protection effect of Casuarinaequisetifolia shelterbelt in coastal area, Fujian province[J]. Sci Silv Sin，39(S1): 27-31. [谭芳林，朱炜，林捷，等，2003．沿海木麻黄防护林基干林带防风效能定量评价研究[J]．林业科学，39(S1):27-31]  \nWANG CQ,LIU Q, ZHANG YJ, et al., 2012. Isolation and identification of the aqueous extractfrom Casuarina equisetifolia and allelopathy effects on the seed germination of Vaticamangachapoi[J].JNWFor Univ，27(3):80-86.[王春晴，刘强，张渝杰，等，2012．木麻黄水浸液对青皮种子的化感效应[J]．西北林学院学报，27(3)：80-86]  \nWANG J,FUBJ, QIU Y,etal.,2O02. Spatial heterogeneity of soil nutrients in a smallcatchmentof the Loess Plateau[J].Acta Ecol Sin，22(8): 1173-1178.[王军，傅伯杰，邱扬，等，2002．黄土高原小流域土壤养分的空间异质性[J]．生态学报，22(8)：1173-1178]  \nWANG XM, KANG X, HOU CY, et al.， 2017. Influence factors of llex chinensis seedlingregeneration in the mountainous region of southern Jiangsu Province[J]. J Nanjing For Univ(Nat Sci Ed)，41(4):197-201.[王笑梅，康昕，侯嫦英，等，2017．苏南丘陵山区森林中冬青幼苗更新影响因子研究[J]．南京林业大学学报(自然科学版)，41(4)：197-201]  \nXU ZB,DAI LM, CHEN JQ,et al.， 2O01. Natural regeneration condition in Pinus koraiensisbroad-leaved mixed forest[J].Acta Ecol Sin，21(9):1413-1420.[徐振邦，代力民，陈吉泉,等，2001．长白山红松阔叶混交林森林天然更新条件的研究[J]．生态学报，21(9)：1413-1420]  \nYANG B,WANG Y, HAO QY, 2O19a. Natural regeneration characteristics and selection ofregeneration tree species of Casuarina equisetifolia coastal windbreaks in Hainan Island[J/OL].Guihaia.[杨彬，王玉，郝清玉．海南岛木麻黄海防林天然更新特征及更新树种筛选[J/OL] 广 西 植 物 ： 1-13[2019-10-13].http://kns.cnki.net/kcms/detail/45.1134.q.20190122.1144.010.html.]  \nYANG B, HAO QY, 2019b. Selection of mixed species of Casuarina equisetifolia based onnatural regeneration properties [J].Plant Sci J: Recepted.[杨彬，郝清玉．基于天然更新性能筛选海南岛木麻黄海防林混交树种[J]．植物科学学报：待发表]  \nYANG HX,HE YJ, ZHENG Y, et al.，2013. Response of soil physicochemical properties todifferent management modes in natural secondary coniferous forests[J]. JNE For Univ，41(3):63-68.[杨会侠，何友均，郑颖，等，2013．天然次生针叶林内土壤理化性质对不同经营方式的响应[J]．东北林业大学学报，41(3)：63-68]  \nYANG ZB,LI SN, JIN HX, 2O11. Study on the factors affecting the natural regeneration of Larixprincipis-rupprechtii[J].Jiangsu Agric Sci,39(3): 206-209.[杨占彪,李圣男,金红喜,2011.六盘山林区华北落叶松天然更新影响因素研究[J]．江苏农业科学，39(3)：206-209]  \nZENG DH, YOU WZ, FAN ZP, et al., 20O2. Analysis of natural regeneration barriers of Pinussylvestris var. mongolica plantation on sandy land[J]. Chin J Appl Ecol, 13(3): 257-261. [曾德慧，尤文忠，范志平，等，2002．樟子松人工固沙林天然更新障碍因子分析[J]．应用生态学报，13(3):257-261]  \nZHANG HW, HUANG JJ, 2O16. Gray correlation analysis of natural regeneration patern andimpact factors of Sonneratia apetala at Fucheng Town in Leizhou City[J]. For Environ Sci,32(2):63-67.[张宏伟，黄剑坚，2016．雷州附城镇无瓣海桑林天然更新格局及其影响因子的灰色关联分析[J]．林业与环境科学，32(2)：63-67]  \nZHANG Q,FAN SH, SHEN HL, et al.,2O04. Influence of the spatial structure of tress, etc. on theyoung trees of Pinus koraiensis under natural secondary forest[J].For Res，17(4): 405-412.[张群，范少辉，沈海龙，等，2004．次生林林木空间结构等对红松幼树生长的影响[J]．林业科学研究，17(4)：405-412]  \nZHANG SS,YE GF,WU SD, et al., 2000. Summary of researches on techniques of regerationtransformation of Casuarina protection forest[J]. Prot For Sci Technol, (S1): 128-132.[张水松，叶功富，吴寿德，等，2000．木麻黄防护林更新改造技术研究概述[J]．防护林科技，(S1): 128-132]  \nZHAO C, CAI YB,HUANG X, et al., 2019.Effects of Chinese fir litter cover on its seedlingemergence and early growth[J].ChinJAppl Ecol，30(2): 481-488.[赵冲，蔡一冰，黄晓，等,2019．杉木凋落物覆盖对自身幼苗出土和早期生长的影响[J]．应用生态学报，30(2)：481-488]  \nZHENG DX,SHA JQ,1994. The change in soil properties under beefwood shelter belt on theaeolian sandy coast in Fujian and its influence on the reforestation of the Slashland[J]. ActaGeogr Sin，49(4):345-352.[郑达贤，沙济琴，1994．福建滨海木麻黄林下土壤性质的变化及其对林带更新的影响[J]．地理学报，49(4)：345-352]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

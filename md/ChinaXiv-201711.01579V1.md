@@ -1,0 +1,247 @@
+酵母硒、黄芪多糖及其复合剂对半番鸭生长性能、肉品质和抗氧化能力的影响郑嫩珠1,2 李丽2\* 辛清武²缪中纬² 朱志明² 黄勤楼² 黄一帆3\*\*（1.福建农林大学食品科学学院，福州350002；2.福建省农业科学院畜牧兽医研究所，福州350013；3.福建农林大学动物科学学院，福州350002）
+
+摘要：本文旨在研究酵母硒、黄芪多糖及其复合剂对半番鸭生长性能、肉品质和抗氧化能力的影响。从同一批饲养的22日龄半番鸭中挑选出体重相近的144只，随机分为4组，每组3个重复，每个重复12只鸭，试验期为 $4 9 \mathrm { d }$ 。采用 $2 { \times } 2$ 因子水平设计，对照组饲喂基础饲粮，试验I组饲喂基础饲粮 $+ 0 . 3 \%$ 酵母硒，试验ⅡI组饲喂基础饲粮 $+ 3 0 \mathrm { m g / k g }$ 黄芪多糖，试验Ⅲ组饲喂基础饲粮 $^ +$ 复合剂(30mg/kg黄芪多糖 $+ 0 . 3 \%$ 酵母硒)。试验期间测定生长性能指标，并于70日龄每组随机选择12只（每重复4只）进行屠宰，测定其胸肌肉品质和抗氧化指标。结果显示：1)试验I组和试验Ⅱ组平均日增重、平均日采食量及料重比与对照组相比差异均不显著 $( P 5 0 . 0 5 )$ ；试验IⅢ组平均日增重显著高于对照组 $( P { < } 0 . 0 5 )$ ，平均日采食量和料重比与对照组无显著差异 $( P { > } 0 . 0 5 )$ 。2)与对照组相比，试验I组、试验ⅡI组和试验III组 $2 4 \mathrm { h } \mathrm { p H }$ 均显著或极显著提高 $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ） $4 8 \mathrm { h }$ 滴水损失率、蒸煮损失率、剪切力显著或极显著降低( ${ \cdot } P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ；试验IⅢ组肉色红度 $\mathbf { \Pi } ( \mathbf { a } ^ { * } )$ 值显著提高（ $P { < } 0 . 0 5 )$ ；试验ⅡI组和试验II组肉色黄度（ $\boldsymbol { \mathrm { \cdot } } \boldsymbol { \mathrm { b } } ^ { \ast }$ ）值均显著降低 $( P { < } 0 . 0 5 )$ 。3)试验I组、试验ⅡI组和试验II组24\~120h的超氧化物歧化酶(SOD)、谷胱甘肽过氧化物酶(GSH- $\mathbf { \cdot P x }$ )活性及总抗氧化能力(T-AOC)均显著或极显著高于对照组 ${ \it P } { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \stackrel { . } { } }$ )；试验I组、试验ⅡI组 $4 8 \sim 1 2 0 \mathrm { h }$ 和 $7 2 \sim 1 2 0 \mathrm { h }$ 的丙二醛(MDA)含量分别显著或极显著低于对照组( $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \stackrel { . } { } }$ )，试验II组 $2 4 \sim 1 2 0 \mathrm { h }$ 的MDA含量极显著低于对照组 $( P { < } 0 . 0 1 )$ 。随储存时间延长，各组SOD、GSH-Px活性和T-AOC均呈下降趋势，MDA含量则呈上升趋势，但3个试验组各抗氧化指标的变化速度比对照组缓慢。4)酵母硒和黄芪多糖对肌肉24hpH、剪切力、 $2 4 { \sim } 1 2 0$ h的SOD活性、 $4 8 \sim 1 2 0 \mathrm { ~ h ~ }$ 的GSH-Px活性、120 h的MDA含量有显著或极显著交互作用( ${ \scriptstyle \cdot } { \cal P } { \scriptstyle < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \dot { }$ )。由此可见，酵母硒、黄芪多糖均可改善半番鸭肌肉品质和提高抗氧化能力，降低脂质过氧化程度，有效延长货架期，且二者对于肌肉抗氧化、pH和嫩度改善均具有明显的协同效应。
+
+关键词：酵母硒；黄芪多糖；半番鸭；生长性能；肉质；抗氧化
+
+中图分类号：S834
+
+随着生活水平的提高，人们越来越重视生鲜肉的品质，肉品质主要从肉色、pH、嫩度、肌内脂肪含量、风味和失水率等方面进行评定。肌肉脂质氧化生成的过氧化物、自由基会损伤细胞膜，造成肌浆液外流、滴水损失增加、色泽变暗、质地变差以及营养价值降低等[1-2]，不仅影响食品安全性，而且还会造成经济损失。抗氧化剂能将自由基转化成无毒产物，清除或修复受损细胞，有效延缓或防止脂质过氧化，从而改善肉品质和延长货架期[3-4]。在畜禽饲粮中添加抗氧化物质已成为提高畜禽机体抗氧化能力和改善肉品质较为经济有效的营养调控方法。硒作为动物必需的微量元素，调节着生命体的大部分抗氧化防御机制[5]，酵母硒(selenium-enriched yeast，SY)作为重要的有机硒来源，与无机硒相比，具有安全、活性高等优点。相关研究表明，酵母硒可提高畜禽的生产性能，提高肌肉、血清中多种抗氧化酶的活性，并降低组织中相关产物丙二醛(malondialdehyde,MDA)的含量,进而延缓氧化时间,增强机体抗氧化性能[7-10]。黄芪多糖(Astragaluspolysaccharide，APS)作为中药黄芪中最主要的免疫活性物质，是黄芪发挥免疫增强作用的主要成分。在畜禽生产中，黄芪多糖可提高其生长性能和抗氧化能力，增强机体免疫力、抗病力等[11-15]。目前关于酵母硒和黄芪多糖作为饲料添加剂提高抗氧化能力和改善肉品质的报道多见于猪、鸡、鹅等畜禽，但对于二者及其复合剂在半番鸭中的应用却鲜有报道。因此，本试验拟通过研究酵母硒、黄芪多糖及其复合剂对半番鸭生长性能、肉品质和抗氧化能力的影响，旨在为半番鸭生产中合理开发利用绿色饲料添加剂以及改善肉品质和延长货架期提供理论支持和营养调控方法。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+饲粮中添加的酵母硒由安琪酵母股份有限公司提供，总硒含量 $3 0 0 0 \mathrm { m g / k g }$ ；黄芪多糖由华北制药集团先泰药业有限公司提供，黄芪多糖含量 ${ \geqslant } 9 8 \%$ 。
+
+# 1.2 基础饲粮
+
+基础饲粮由福建东南饲料有限公司配制并提供，其组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Tablel Composition and nutrient levels of basal dies（air-dry basis ） %   
+
+<html><body><table><tr><td colspan="4">含量Content</td><td colspan="2">含量Content</td></tr><tr><td>原料</td><td>1～21日龄</td><td>22～70日龄</td><td>营养水平</td><td>1～21日龄</td><td>22～70日龄</td></tr><tr><td>Ingredients</td><td>1 to 21 days</td><td>22 to 70 days</td><td>Nutrient levels2)</td><td>1 to 21 days</td><td>22 to 70 days</td></tr><tr><td></td><td>of age</td><td>of age</td><td></td><td>of age</td><td>of age</td></tr><tr><td>玉米Corn</td><td>54.00</td><td>50.00</td><td>粗蛋白质 CP</td><td>18.50</td><td>16.00</td></tr><tr><td>次粉 Middling</td><td>12.00</td><td>11.80</td><td>代谢能 ME/(MJ/kg)</td><td>12.12</td><td>11.72</td></tr><tr><td>豆粕 Soybean meal</td><td>21.00</td><td>12.00</td><td>赖氨酸Lys</td><td>0.95</td><td>0.70</td></tr><tr><td rowspan="3">菜籽粕Rapeseed meal</td><td>2.00</td><td></td><td>蛋氨酸+半胱氨酸</td><td>0.78</td><td></td></tr><tr><td></td><td>2.00</td><td>Met+Cys</td><td></td><td>0.65</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>米糠粕 Rice bran meal</td><td>0.00</td><td>12.00</td><td>钙Ca</td><td>0.85</td><td>0.80</td></tr><tr><td>干酒糟及其可溶物</td><td>6.00</td><td>7.00</td><td>有效磷 AP</td><td>0.40</td><td>0.35</td></tr><tr><td>DDGS</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td><td>1.20</td><td></td><td></td><td></td></tr><tr><td>预混料 Premix1</td><td>4.00</td><td>4.00</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td></td><td></td><td></td></tr></table></body></html>
+
+（204号 $^ { 1 ^ { \prime } }$ 预混料可为每千克饲粮提供 The premix provided the following per kg of diets: $_ { 1 \sim 2 1 }$ 日龄1to 21 days of age,VA7 000 IU，VD3 2000 IU，VE $3 0 \mathrm { m g }$ ，VK3 4.0 mg， $\mathrm { V B } _ { 1 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 7 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 9 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，胆碱choline $4 5 0 \mathrm { m g }$ ，烟酸 nicotinic acid $3 5 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $2 0 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 0 \mathrm { m g }$ ，生物素 biotin 0.2mg，Fe $6 0 ~ \mathrm { m g }$ ， Cu 8 mg, $\mathrm { M n } ~ 8 5 ~ \mathrm { m g }$ ， $\mathrm { Z n 8 0 ~ m g }$ ， $\mathrm { ~ I ~ } 0 . 3 5 \mathrm { ~ m g ~ }$ ，Se $0 . 3 ~ \mathrm { m g }$ ： $2 2 { \sim } 7 0$ 日龄 22 to 70 days of age，VA 6 000IU,VD 2 000 IU，VE $1 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，胆碱 choline 400mg，烟酸 nicotinic acid $2 0 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 \mathrm { m g }$ ，叶酸 folic acid $0 . 6 \mathrm { m g }$ ，生物素 biotin $0 . 1 \mathrm { m g }$ ，Fe 55mg，Cu 5 mg, $ { \mathrm { M n } } 8 0  { \mathrm { m g } }$ ，Zn 75 mg， $\mathrm { ~ I ~ } 0 . 3 ~ \mathrm { m g }$ ， Se 0.2 mg。
+
+2’营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.3 试验设计及样品采集
+
+本试验在福建省农业科学院畜牧兽医研究所动物试验基地进行。选取同一批出雏的1日龄健康半番鸭雏鸭280只进行饲养，1\~21日龄为预试期，所有雏鸭进行统一饲养管理，室温在 $3 0 \ \mathrm { ^ { \circ } C }$ 以上，相对湿度 $6 5 \%$ 左右，网栏乳头式饮水器，自由饮水，采取早晚补光制度，光照时间为 $1 6 \mathrm { { h / d } }$ ，并按照常规程序进行免疫接种。22\~70日龄为试验期，22日龄时按体重一致的原则，选出体重相近的144只半番鸭随机分为4组，每组3个重复，每个重复12只鸭。采用 $2 { \times } 2$ 因子水平设计，对照组饲喂基础饲粮，试验I组饲喂基础饲粮 $+ 0 . 3 \%$ 酵母硒，试验Ⅱ组饲喂基础饲粮 $+ 3 0 \mathrm { m g / k g }$ 黄芪多糖，试验III组饲喂基础饲粮 $. +$ 复合剂 $3 0 \mathrm { m g / k g }$ 黄芪多糖 $+ 0 . 3 \%$ 酵母硒)。试验期间记录鸭生长性能，并于70日龄停饲12h后，每重复随机选择4只即每组12只半番鸭进行屠宰，分离出胸肌组织，用于测定肉品质和抗氧化指标。
+
+# 1.4 指标测定
+
+# 1.4.1 生长性能
+
+22日龄空腹称重，记为初始体重(initialbodyweight,IBW)，之后以重复为单位，每周称量体重(body weight,BW)，并以70日龄记为终末体重(terminalbody weight,FBW)，计算平均日增重(averagedaily gain,ADG)；记录每组半番鸭每天的给料量和剩料量，计算每组的平均日采食量(average daily
+
+feed intake,ADFI)和料重比(feed/gain,F/G)。
+
+# 1.4.2 pH
+
+取胸肌，屠宰后 $4 5 \mathrm { m i n }$ 测定初始pH，即 $0 \mathrm { h \ p H }$ ，将Testo2052便携式pH计(portable pH-meter,德国）电极完全包埋在肉样中，平行测量3次，取平均值，然后将肉样放于 $4 \mathrm { { ^ \circ C } }$ 冰箱中冷藏， $2 4 \mathrm { h }$ 后测定最终pH，即 $2 4 \mathrm { h } \mathrm { p H }$ ，方法同上。每次测量结束后将pH计放入pH为6.8的磷酸盐缓冲溶液中清洗。
+
+# 1.4.3 滴水损失
+
+取新鲜肉样称重，放密封袋中，再充入空气使之膨胀，避免肉样与保鲜袋接触，并用细线悬吊于4℃冰箱中，分别于24、48h后去掉密封袋和丝线，用滤纸轻轻擦拭肉样表面水分后称重[14]。
+
+# 1.4.4 剪切力
+
+将肉样用塑料袋密封置于 $8 0 ~ \mathrm { ^ { \circ } C }$ 水浴锅中，加热至肉样中心温度达 $7 0 \ \mathrm { ^ { \circ } C }$ ，取出冷却至室温，取样器取样，利用C-LM3B型肌肉嫩度仪(muscle tenderness meter，东北农业大学工程学院）与肌纤维垂直方向横切测定剪切力[15]。每个肉样测定3次，取平均值。
+
+# 1.4.5 肉色
+
+取肉样，在相同室温和光照条件下，采用便携式NR10QC-3nh 色差仪(colorimeter，深圳市三利仪器有限公司)平行测定3次，分别记录亮度(lightness，L\*)、红度(redness，a\*)、黄度(yellowness,b\*)值。
+
+# 1.4.6 蒸煮损失率
+
+取胸肌2g左右，称重记录，将肉样置于密封袋中，放入 $8 0 ~ \mathrm { { ^ \circ C } }$ 水浴锅，至肉样中心温度达到 $7 0 \ \mathrm { ^ { \circ } C }$ 左右，取出冷却至室温后，滤纸轻轻擦拭称重。
+
+# 1.4.7 肌肉抗氧化能力
+
+70日龄屠宰后取胸肌，置于 $4 \mathrm { { ^ \circ C } }$ 保存，每隔24h取样 $3 { \sim } 5 \ \mathrm { g }$ 放入 $- 8 0 ~ \mathrm { { ^ circ C } }$ 冰箱保存待测，连续取样6d，记为0、24、48、72、96和 $1 2 0 \mathrm { h }$ 。采用HN-13K卫星手持匀质仪(homogenizer，上海汉诺仪器有限公司）将样品用 $0 . 8 6 \%$ 生理盐水制成 $10 \%$ 的组织匀浆， $2 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取适量上清液，采用南京建成生物工程研究所生产的试剂盒测定肌肉组织中超氧化物歧化酶(superoxidedismutase,SOD)活性、谷胱甘肽过氧化物酶（glutathione peroxidase,GSH-Px）活性、总抗氧化能力(total antioxidant capacity,T-AOC)以及MDA含量等抗氧化指标，利用ELX800通用酶标仪(microplatesystem,GeneCompanyLimited）测定吸光值，具体方法参照试剂盒说明书。
+
+# 1.5数据统计与处理
+
+采用SPSS17.0对试验数据进行描述性数据统计、双因子方差分析、多重比较和显著性分析。结果以平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果
+
+2.1酵母硒、黄芪多糖及其复合剂对半番鸭生长性能的影响
+
+由表2可知，与对照组相比，试验IⅢ组可显著增加半番鸭的平均日增重( $( P { < } 0 . 0 5 )$ ；试验I组和试验ⅡI组半番鸭的平均日增重分别比对照组提高了 $5 . 3 6 \%$ 和 $1 . 2 7 \%$ ，但差异不显著 $( P { > } 0 . 0 5 )$ 。各组间半番鸭的的平均日采食量差异均不显著 $( P { > } 0 . 0 5 )$ ，其中，各试验组半番鸭的平均日采食量均高于对照组，以试验IⅢ组最高，平均日采食量比对照组提高了 $5 . 6 9 \%$ 。各组间半番鸭的料重比差异不显著 $( P { > } 0 . 0 5 )$ ，各试验组半番鸭的料重比均低于对照组。主效应分析表明，酵母硒和黄芪多糖对半番鸭的平均日增重、平均日采食量以及料重等生长性能影响不显著 $( P { > } 0 . 0 5 )$ ，且二者对生长性能的交互作用均不显著 $( P { > } 0 . 0 5 )$ 。
+
+表2酵母硒、黄芪多糖及其复合剂对半番鸭生长性能的影响  
+Table 2Efects of selenium yeast, Astragalus polysaccharide and their compound on growth   
+
+<html><body><table><tr><td colspan="6">performance of mule ducks</td></tr><tr><td></td><td></td><td></td><td>平均日增重</td><td>平均日采食量</td><td>料重比</td></tr><tr><td>项目 Items</td><td>初始体重 IBW/kg</td><td>终末体重 FBW/kg</td><td>ADG/(g/d)</td><td>ADFI/(g/d)</td><td>F/G</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组</td><td>1.22±0.16</td><td>3.09±0.16</td><td>47.15±12.38b</td><td>203.58±27.44</td><td>4.78±0.98</td></tr><tr><td>Control group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验I组</td><td>1.30±0.29</td><td>3.19±0.29</td><td>49.68±12.42ab</td><td></td><td></td></tr><tr><td>Test group I</td><td></td><td></td><td></td><td>209.56±28.40</td><td>4.55±0.52</td></tr></table></body></html>
+
+<html><body><table><tr><td>试验Ⅱ组</td><td>1.27±0.13</td><td>3.17±0.27</td><td>47.75±11.33ab</td><td>206.12±28.28</td><td>4.42±0.63</td></tr><tr><td>Test group II</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验Ⅲ组</td><td>1.32±0.14</td><td>3.23±0.28</td><td>53.04±11.27a</td><td>215.18±28.91</td><td>4.34±0.53</td></tr><tr><td>Test group III</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td>0.057</td><td>0.244</td><td>0.051</td><td>0.058</td><td>0.141</td></tr><tr><td>P值 黄芪多糖 APS P-value</td><td>0.427</td><td>0.646</td><td>0.320</td><td>0.255</td><td>0.603</td></tr><tr><td>酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SYXAPS</td><td>0.474</td><td>0.861</td><td>0.489</td><td>0.646</td><td>0.325</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5 )$ ），不同大写字母表示差异极显著（ $. P { < } 0 . 0 1 \rangle$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。
+
+In the same column, values with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ， and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2酵母硒、黄芪多糖及其复合剂对半番鸭肌肉 $\mathsf { p H }$ 和肉色的影响
+
+由表3可知，对照组相比，试验I组可极显著提高肌肉 $2 4 \mathrm { h } \mathrm { p H } ( P { < } 0 . 0 1 )$ ，肉色a\*和L\*值分别提高了 $4 . 1 3 \%$ 和 $1 . 5 9 \% ( P { > } 0 . 0 5 )$ ，肉色 $\boldsymbol { \mathbf { b } } ^ { * }$ 值则降低了 $4 . 9 3 \% ( P { > } 0 . 0 5 )$ 。与对照组相比，试验Ⅱ组显著提高了肌肉24 $\mathrm { \ t h \ p H { } } ( P { < } 0 . 0 5 )$ ，显著降低了肉色b\*值 $( P { < } 0 . 0 5 )$ ，肉色a\*值提高了 $6 . 5 9 \% ( P { > } 0 . 0 5 )$ ，肉色L\*值则降低了 $0 . 7 3 \% ( P { > } 0 . 0 5 )$ 。与对照组相比，试验III组 $2 4 \mathrm { h p H }$ 极显著提高 $( P { < } 0 . 0 1 )$ ，肉色 $\boldsymbol { \mathbf { a } } ^ { * }$ 值显著升高 $( P { < } 0 . 0 5 )$ ，肉色b\*值显著降低 $( P { < } 0 . 0 5 )$ ，肉色L\*值提高了 $2 . 3 2 \% ( P { > } 0 . 0 5 )$ 。各试验组间， $2 4 \mathrm { h } \mathrm { p H }$ 及肉色b\*、L\*值表现为试验III组 $>$ 试验I组 $>$ 试验ⅡI组，但差异均不显著 $( P 5 0 . 0 5 )$ 。主效应分析表明，酵母硒对半番鸭肌肉 $2 4 \mathrm { h } \mathrm { p H }$ 有显著影响 $( P { < } 0 . 0 5 )$ ，黄芪多糖对半番鸭肌肉0、 $2 4 \mathrm { h } \mathrm { p H }$ 及肉色a\*、 $\boldsymbol { \mathbf { b } } ^ { * }$ 值有显著或极显著影响( $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ；同时二者对 $2 4 \mathrm { h p H }$ 具有显著的交互作用 $( P { < } 0 . 0 5 )$ 。
+
+表3酵母硒、黄芪多糖及其复合剂对半番鸭肌肉 $\mathsf { p H }$ 和肉色的影响
+
+Table 3Efect s of selenium yeast, Astragalus polysaccharide and their compound on muscle pH and
+
+meat colorof mule ducks
+
+项目Items肉色 Meat color
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>0h</td><td>24 h</td><td>亮度L*</td><td>红度a*</td><td>黄度b*</td></tr><tr><td>对照组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Control group</td><td>5.94±0.08Bb</td><td>5.37±0.03Bb</td><td>36.99±2.21</td><td>18.36±0.69b</td><td>7.91±0.62a</td></tr><tr><td>试验I组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group I</td><td>6.03±0.05ABa</td><td>5.65±0.15Aa</td><td>37.58±2.28</td><td>19.12±0.75ab</td><td>7.52±0.53ab</td></tr><tr><td>试验Ⅱ组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group II</td><td>5.99±0.09ABab</td><td>5.63±0.10ABa</td><td>36.72±2.34</td><td>19.57±1.03ab</td><td>7.35±0.15b</td></tr><tr><td>试验Ⅲ组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group III</td><td>6.08±0.08Aa</td><td>5.66±0.31Aa</td><td>37.85±2.93</td><td>20.17±3.08a</td><td>7.46±1.60b</td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td>0.053</td><td>0.014</td><td>0.330</td><td>0.288</td><td>0.274</td></tr><tr><td>P值 黄芪多糖 APS</td><td>0.001</td><td>0.047</td><td></td><td></td><td></td></tr><tr><td>P-value</td><td></td><td></td><td>0.998</td><td>0.008</td><td>0.046</td></tr><tr><td>酵母硒×黄芪多糖 SYXAPS</td><td>0.911</td><td>0.037</td><td>0.757</td><td>0.898</td><td>0.105</td></tr></table></body></html>
+
+2.3 酵母硒、黄芪多糖及其复合剂对半番鸭肌肉持水力和剪切力的影响
+
+由表4可知，与对照组相比，试验I组和试验ⅡI组 $4 8 \mathrm { { h } }$ 滴水损失率、蒸煮损失率和剪切力均显著降低 $( P { < } 0 . 0 5 )$ ， $2 4 \mathrm { h }$ 滴水损失率分别降低了 $1 6 . 3 \%$ 和 $1 7 . 6 \% ( P { > } 0 . 0 5 )$ 。试验Ⅲ组 $4 8 \mathrm { { h } }$ 滴水损失率和蒸煮损失率极显著低于对照组 $( P { < } 0 . 0 1 )$ ，剪切力和 $2 4 \mathrm { h }$ 滴水损失率显著低于对照组 $( P { < } 0 . 0 5 )$ 。各试验组间， $4 8 \mathrm { h }$ 滴水损失率表现为试验IⅢ组 $\angle$ 试验I组 $\angle$ 试验ⅡI组， $2 4 \mathrm { h }$ 滴水损失率、蒸煮损失率和剪切力均表现为试验IⅢ组 $\angle$ 试验ⅡI组 $\prec$ 试验I组，但这4个指标各试验组间差异均不显著（ $P { > } 0 . 0 5$ ）。主效应分析表明，酵母硒能够显著或极显著降低 $^ { 4 8 \mathrm { ~ h ~ } }$ 滴水损失率和剪切力 $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \stackrel { . } { } }$ )，黄芪多糖能够显著或极显著降低蒸煮损失率和剪切力( $_ { \cdot } P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 { \mathrm { \dot { } } }$ )，且二者对肌肉剪切力有极显著的交互作用 $( P { < } 0 . 0 1 )$ 。
+
+表4酵母硒、黄芪多糖及其复合剂对半番鸭肌肉持水力和剪切力的影响
+
+Table 4Effects of selenium yeast, Astragalus polysaccharide and their compound on water holding
+
+capacity and shear force of muscle of mule ducks
+
+<html><body><table><tr><td colspan="3">滴水损失率 Dip loss rate/%</td><td rowspan="2">蒸煮损失率</td><td rowspan="2"></td></tr><tr><td colspan="3">项目</td></tr><tr><td rowspan="2"></td><td></td><td></td><td>Cooking loss</td><td>剪切力</td></tr><tr><td>24 h</td><td>48h</td><td></td><td>Shear force/kgf</td></tr><tr><td>Items</td><td></td><td></td><td>rate/%</td><td></td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>对照组</td><td>4.82±0.01a</td><td>8.91±0.01Aa</td><td>36.86±0.01Aa</td><td>4.01±0.06a</td></tr><tr><td>Control group</td><td></td><td></td><td></td><td></td></tr><tr><td>试验I组</td><td></td><td>6.49±0.02ABb</td><td>33.42±0.04ABb</td><td>3.56±0.20b</td></tr><tr><td>Test group I</td><td>4.03±0.01ab</td><td></td><td></td><td></td></tr><tr><td>试验Ⅱ组</td><td></td><td></td><td></td><td></td></tr><tr><td>Test group II</td><td>3.97±0.02ab</td><td>6.94±0.02ABb</td><td>33.13±0.04ABb</td><td>3.53±0.15b</td></tr><tr><td>试验Ⅲ组</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3.79±0.01b</td><td>6.44±0.02Bb</td><td>32.59±0.03Bb</td><td>3.52±0.15b</td></tr><tr><td>Test group III</td><td></td><td></td><td></td><td></td></tr><tr><td>主效应Main effect</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td>0.181</td><td>0.043</td><td>0.072</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 黄芪多糖 APS</td><td>0.141</td><td>0.154</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.040</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value 酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.398</td><td>0.174</td><td>0.179</td><td>0.001</td></tr><tr><td>SYXAPS</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4酵母硒、黄芪多糖及其复合剂对半番鸭肌肉T-AOC的影响
+
+由表5可知，半番鸭肌肉在4℃储藏时，随保存时间的延长，各组肌肉T-AOC均呈不同程度地下降趋势，其中对照组下降幅度最大，特别在 $0 \sim 2 4 \mathrm { h }$ 内呈迅速下降趋势， $2 4 \mathrm { h }$ 与 $0 \mathrm { h }$ 相比降幅达 $4 0 \%$ 左右；而各试验组肌肉T-AOC在整个过程均缓慢下降，其中试验III组下降速度最慢。相同时间点，除0h差异不显著 $( P 5 0 . 0 5 )$ 外，试验I组和试验ⅡI组其余时间点肌肉T-AOC均显著或极显著高于对照组 ${ \it P } { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ；而试验II组肌肉T-AOC则在 $0 \sim 1 2 0 \mathrm { h }$ 整个过程均显著或极显著高于对照组${ \scriptstyle \overbrace { P { < } 0 . 0 5 } }$ 或 $P { < } 0 . 0 1 \mathrm { \dot { \ l } }$ )。各试验组间，试验I组和试验Ⅱ组肌肉T-AOC在各个时间点均差异不显著$( P { > } 0 . 0 5 )$ ；试验III组肌肉T-AOC在24、72和120h显著高于试验I组 $( P { < } 0 . 0 5 )$ ，其余时间点差异不显著 $( P 5 0 . 0 5 )$ ；除 $0 \mathrm { h }$ 差异不显著 $( P { > } 0 . 0 5 )$ 外，试验III组肌肉T--AOC在其他时间点均显著或极显著高于试验Ⅱ组( $\scriptstyle \cdot - 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \dot { \Omega } }$ )。主效应分析表明，酵母硒和黄芪多糖均可显著或极显著提高 $2 4 \sim 1 2 0 \mathrm { h }$ 的肌肉T-AOC( $\scriptstyle \cdot - 1 < 0 . 0 5$ 或 $\scriptstyle \left. P < 0 . 0 1 \right.$ )，但二者对肌肉T-AOC的交互作用不显著 $( P 5 0 . 0 5 )$ 。
+
+表5酵母硒、黄芪多糖及其复合剂对半番鸭肌肉T-AOC的影响
+
+Table 5Effects of selenium yeast, Astragalus polysaccharide and their compound on muscle T-AOC of   
+
+<html><body><table><tr><td colspan="2">mule ducks</td><td colspan="5">nmol/mg prot</td></tr><tr><td>项目</td><td colspan="6">储藏时间 Storage time/h</td></tr><tr><td>Items</td><td>0</td><td>24</td><td>48</td><td>72</td><td>96</td><td>120</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组</td><td>0.81±0.09b</td><td>0.52±0.05Bc</td><td>0.48±0.08Bc</td><td>0.39±0.05Cc</td><td>0.35±0.05Bc</td><td>0.25±0.05Cc</td></tr><tr><td>Control group</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验I组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group I</td><td>0.89±0.08ab</td><td>0.72±0.10Ab</td><td>0.70±0.10Aab</td><td>0.58±0.07ABb</td><td>0.51±0.08Aab</td><td>0.43±0.05ABb</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验Ⅱ组</td><td>0.85±0.10ab</td><td>0.69±0.11Ab</td><td>0.61±0.11ABb</td><td>0.55±0.12Bb</td><td>0.48±0.08Ab</td><td>0.39±0.07Bb</td></tr><tr><td>Test group II</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验Ⅲ组</td><td>0.91±0.09a</td><td>0.82±0.11Aa</td><td>0.71±0.11Aa</td><td>0.68±0.10Aa</td><td>0.57±0.10Aa</td><td>0.49±0.08Aa</td></tr><tr><td>Test group III</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主效应Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.030</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 黄芪多糖 APS</td><td>0.307</td><td><0.001</td><td>0.041</td><td><0.001</td><td>0.001</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.647</td><td>0.222</td><td>0.121</td><td>0.333</td><td>0.134</td><td>0.054</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SYXAPS</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.5 酵母硒、黄芪多糖及其复合剂对半番鸭肌肉SOD活性的影响
+
+由表6可知，随贮存时间的延长，半番鸭肌肉SOD活性均呈下降趋势，其中，各试验组肌肉SOD活性降低的幅度较小；而对照组肌肉SOD活性则大幅度下降， $1 2 0 \mathrm { h }$ 比 $0 \mathrm { { h } }$ 下降幅度达 $5 3 \%$ 。在 $4 \mathrm { { ^ circ C } }$ 条件下，3个试验组在各时间点所测得的肌肉SOD活性均极显著高于对照组 $( P { < } 0 . 0 1 )$ ；在各试验组间，除48h差异不显著 $( P 5 0 . 0 5 )$ 外，试验I组肌肉SOD活性在其他时间点均显著或极显著高于试验I组 $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \dot { \ l } }$ ；试验III组肌肉SOD活性在96h极显著高于试验I组 $( P { < } 0 . 0 1 )$ ，在0和 $1 2 0 \mathrm { ~ h ~ }$ 显著高于试验I组 $( P { < } 0 . 0 5 )$ ；试验II组肌肉SOD活性在 $0 \sim 1 2 0 \mathrm { ~ h ~ }$ 各时间点均极显著高于试验ⅡI组$( P { < } 0 . 0 1 )$ 。主效应分析表明，酵母硒和黄芪多糖不仅极显著提高肌肉SOD活性 $( P { < } 0 . 0 1 )$ ，而且二者对 $2 4 \sim 1 2 0 \mathrm { ~ h ~ }$ 的肌肉SOD活性有显著或极显著的交互作用( $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ）
+
+表6酵母硒、黄芪多糖及其复合剂对半番鸭肌肉SOD活性的影响
+
+Table 6Effects of selenium yeast, Astragalus polysaccharide and their compound on muscle SOD   
+
+<html><body><table><tr><td colspan="3">activity of mule ducks</td><td colspan="4">U/mg prot</td></tr><tr><td>项目Items</td><td colspan="6">储藏时间 Storage time/h</td></tr><tr><td></td><td>0</td><td>24</td><td>48</td><td>72</td><td>96</td><td>120</td></tr><tr><td>对照组</td><td></td><td>117.10±9.53Cc</td><td>103.62±16.53Cc</td><td>90.60±12.22Cc</td><td>85.18±10.88Dd</td><td>70.73±10.24Cd</td></tr><tr><td>Control group</td><td>150.35±13.03Cd</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9试验I组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>57</td><td>197.76±5.86Ab</td><td>187.58±19.93Aa</td><td>167.28±15.86ABab</td><td>158.23±15.20ABa</td><td>147.74±13.99Bb</td><td>135.77±8.27Ab</td></tr><tr><td>Test group I</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0 试验Ⅱ组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>181.74±16.28Bc</td><td>163.66±12.45Bb</td><td>153.01±15.46Bb</td><td>140.03±17.21Bb</td><td>128.55±14.86Cc</td><td>113.21±12.19Bc</td></tr><tr><td>Test group II</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验Ⅲ组 2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>213.63±18.66Aa</td><td>189.71±15.93Aa</td><td>175.46±18.65Aa</td><td>167.79±18.38Aa</td><td>169.73±15.02Aa</td><td>150.37±12.48Aa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>h</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C 酵母硒 SY</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值 黄芪多糖 APS</td><td>0.000</td><td>0.000</td><td>0.000</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value 酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.124</td><td>0.000</td><td>0.001</td><td>0.001</td><td>0.027</td><td>0.002</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SY XAPS</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.6酵母硒、黄芪多糖及其复合剂对半番鸭肌肉GSH-Px活性的影响
+
+由表7可知，各组半番鸭肌肉GSH-Px活性随着宰后储存时间的延长均有所降低，其中对照组降低最为明显， $1 2 0 \mathrm { h }$ 降至最低值14.08U/mgprot，降低幅度达 $6 0 . 8 0 \%$ ，试验II组降低速度最慢，降幅为 $4 5 . 3 7 \%$ 。相同时间点试验I组、试验ⅡI组和试验II组肌肉GSH-Px活性均极显著高于对照组$( P { < } 0 . 0 1 )$ ；试验I组肌肉GSH-Px活性在 $4 8 \sim 1 2 0 \mathrm { ~ h ~ }$ 各时间点均显著或极显著高于试验Ⅱ组( $_ { \it P \mathrm { < } 0 . 0 5 }$ 或 $P { < } 0 . 0 1 \rangle$ ， $0 { \sim } 2 4 \mathrm { h }$ 差异不显著 $( P { > } 0 . 0 5 )$ ；试验III组肌肉GSH-Px活性在 $[ 0 \sim 1 2 0 \mathrm { h }$ 各时间点均极显著高于试验I组和试验 $\mathrm { I I }$ 组 $( P { < } 0 . 0 1 )$ 。主效应分析表明，酵母硒和黄芪多糖均能够极显著提高半番鸭肌肉GSH- $\mathbf { \cdot P x }$ 活性 $( P { < } 0 . 0 1 )$ ，而且二者对 $4 8 \sim 1 2 0$ h的肌肉GSH-Px活性有极显著的交互作用$( P { < } 0 . 0 1 )$ 。
+
+# 表7酵母硒、黄芪多糖及其复合剂对半番鸭肌肉GSH-Px活性的影响
+
+Table 7 Effects of selenium yeast, Astragalus polysaccharide and compound on muscle GSH-Px
+
+<html><body><table><tr><td colspan="3">activity of mule ducks</td><td colspan="3">U/mg prot</td><td></td></tr><tr><td>项目Items</td><td colspan="5">储藏时间 Storage time/h</td><td></td></tr><tr><td></td><td>0</td><td>24</td><td>48</td><td>72</td><td>96</td><td>120</td></tr><tr><td>对照组</td><td>35.92±2.29Cc</td><td></td><td>22.22±2.20Dd</td><td></td><td>15.85±1.50Cd</td><td>14.08±1.52Cd</td></tr><tr><td>Control group</td><td></td><td>27.44±2.29Cc</td><td></td><td>18.78±1.87Dd</td><td></td><td></td></tr><tr><td>试验I组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group I</td><td>42.95±1.01Bb</td><td>34.94±1.88Bb</td><td>32.83±1.59Bb</td><td>28.66±1.26Bb</td><td>24.61±1.19Bb</td><td>22.62±1.35Bb</td></tr><tr><td>试验Ⅱ组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group II</td><td>42.11±1.93Bb</td><td>33.64±1.89Bb</td><td>30.32±1.89Cc</td><td>25.78±1.68Cc</td><td>22.79±1.42Bc</td><td>20.91±2.01Bc</td></tr><tr><td>试验Ⅲ组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group III</td><td>45.86±0.76Aa</td><td>38.75±1.94Aa</td><td>37.15±1.71Aa</td><td>32.46±1.77Aa</td><td>28.20±2.17Aa</td><td>25.05±2.22Aa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>P值 黄芪多糖 APS</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>P-value 酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SY X APS</td><td>0.002</td><td>0.068</td><td><0.001</td><td>0.004</td><td>0.004</td><td><0.001</td></tr></table></body></html>
+
+2.7酵母硒、黄芪多糖及其复合剂对半番鸭肌肉MDA含量的影响
+
+由表8可知，随保存时间的延长，半番鸭肌肉MDA含量均呈上升趋势，其中各试验组肌肉MDA含量增长缓慢，试验ⅡI组120 h肌肉MDA含量比0h只增加了1.15 nmol/mg prot；而对照组肌肉MDA含量增长较快，120h肌肉MDA含量比 $0 \mathrm { ~ h ~ }$ 增加了3.32nmol/mgprot。相同时间点各试验组间肌肉MDA含量差异情况：试验I组和试验II的肌肉MDA含量分别在 $4 8 \sim 1 2 0 \mathrm { h }$ 和 $7 2 \sim 1 2 0 \mathrm { h }$ 均显著或极显著低于对照组( ${ \it P } { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ )，其余时间点肌肉MDA含量与对照组差异不显著 $( P 5 0 . 0 5 )$ ；除 $0 \mathrm { { h } }$ 差异不显著 $( P 5 0 . 0 5 )$ 外，试验组肌肉MDA含量在其他时间点均极显著低于对照组 $( P { < } 0 . 0 1 )$ 。主效应分析表明，酵母硒能显著或极显著降低24\~120 h的肌肉MDA含量( $\cdot P { < } 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { : } }$ )，黄芪多糖能显著或极显著降低96\~120h的肌肉MDA含量( $\scriptstyle P < 0 . 0 5$ 或 $P { < } 0 . 0 1 \mathrm { \dot { \ l } }$ )，二者对120 h的肌肉MDA含量有显著的交互作用 $( P { < } 0 . 0 5 )$ 。
+
+表8酵母硒、黄芪多糖及其复合剂对半番鸭肌肉MDA含量的影响
+
+Table 8Effects of selenium yeast, Astragalus polysaccharide and their compound on muscle MDA   
+
+<html><body><table><tr><td colspan="3">content of mule ducks</td><td colspan="4">U/mg prot</td></tr><tr><td>项目Items</td><td colspan="6">储藏时间 Storage time/h</td></tr><tr><td></td><td>0</td><td>24</td><td>48</td><td>72</td><td>96</td><td>120</td></tr><tr><td>对照组</td><td></td><td>15.63±0.78Aa</td><td>16.13±0.65Aa</td><td>16.84±0.97Aa</td><td>17.77±0.91Aa</td><td>18.42±0.81Aa</td></tr><tr><td>Control group</td><td>15.09±0.82a</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>试验I组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group I</td><td>14.76±1.20a</td><td>14.56±0.72ABab</td><td>14.89±0.62ABb</td><td>15.26±0.71ABb</td><td>15.74±1.68Bb</td><td>15.91±1.17Bb</td></tr><tr><td>试验Ⅱ组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group II</td><td>14.77±1.38a</td><td>14.85±1.79ABab</td><td>15.34±1.65ABab</td><td>15.83±1.04ABb</td><td>15.97±1.60ABb</td><td>16.15±1.42Bb</td></tr><tr><td>试验Ⅲ组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test group III</td><td>14.25±1.08a</td><td>14.00±1.11Bb</td><td>14.42±1.34Bb</td><td>15.00±1.44Bb</td><td>15.31±1.53Bb</td><td>15.55±1.29Bb</td></tr><tr><td>主效应 Main effect</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母硒 SY</td><td>0.286</td><td>0.022</td><td>0.012</td><td>0.004</td><td>0.010</td><td>0.001</td></tr><tr><td>P值 黄芪多糖 APS</td><td>0.280</td><td>0.102</td><td>0.130</td><td>0.109</td><td>0.031</td><td>0.005</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value 酵母硒×黄芪多糖</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.815</td><td>0.772</td><td></td><td></td><td></td><td></td></tr><tr><td>SYXAPS</td><td></td><td></td><td>0.697</td><td>0.337</td><td>0.175</td><td>0.036</td></tr></table></body></html>
+
+# 3讨论
+
+3.1酵母硒、黄芪多糖及其复合剂对半番鸭生长性能的影响
+
+平均日增重、平均日采食量和料重比等是评价畜禽生长性能的重要指标。孙春阳等[16]研究发现，葡萄糖氧化酶及酵母硒的复合添加剂，能显著提高不同日龄肉鸡平均日采食量、平均日增重和成活率，降低料重比。金光明等[17]研究发现，黄芪多糖可提高雏鸡平均日增重，并降低采食量和料重比。本试验进行了酵母硒和黄芪多糖对半番鸭生长性能的试验研究，发现酵母硒或黄芪多糖单独使用对半番鸭生长性能没有显著影响，这与前人的研究结果不尽相同，可能是由于品种、饲养环境、周期或者添加量不同而造成。本研究中酵母硒和黄芪多糖的复合剂可显著提高半番鸭平均日增重，这可能是由于酵母硒和黄芪多糖的联合使用具有一定的协同效应，虽然其交互作用并不显著。
+
+# 3.2酵母硒、黄芪多糖及其复合剂对半番鸭肉品质的影响
+
+p $\mathrm { H }$ 、肉色和系水力是评价生鲜肌肉品质的重要指标，其中p $\mathrm { H }$ 是肌肉酸度的直观表现，且与肌肉颜色、嫩度等密切相关；肉色是肉品质感官特征的首要考量目标，其可直接影响到消费者购买肉品的欲望；系水力则是影响肉品多汁性、嫩度及营养成分等的主要因素，一般采用蒸煮损失和滴水损失来衡量[18]。
+
+本试验检测分析了饲粮中添加酵母硒、黄芪多糖及其复合剂对半番鸭肌肉生鲜品质的影响，结果发现酵母硒、黄芪多糖及其复合剂均可显著提高70日龄半番鸭胸肌的pH。普遍认为肌肉pH主要受肌肉中乳酸含量的影响，而乳酸含量的多少又与动物宰后体内糖原酵解有关，糖原分解越快，肌肉中的乳酸堆积就越多。抗氧化剂黄芪多糖或酵母硒可能通过降低糖原的酵解，减少肌肉中乳酸的生成量，从而延缓肌肉pH的下降。孙春阳等[16]和孙波等[19]在肉鸡上的研究也证实了饲粮中添加适量酵母硒或黄芪多糖可显著提高肉鸡胸肌pH，有效防止白肌肉（PSE肉）的生成。在肉色方面，本试验研究表明饲粮中添加酵母硒、黄芪多糖以及复合剂均可不同程度地提高肉色a\*值和降低肉色b\*值，稳定肉色，其中复合剂对于改善肉色效果明显。这与邹晓庭等[20]和Tapiero等[21]研究结果大体一致，他们认为，酵母硒可延缓肌肉脂肪和肌红蛋白或氧合肌红蛋白氧化，增加肉色的稳定性，提高肉色评分，并且肉色a\*值与硒添加量呈一定的正比关系。孙波等[19]在研究黄芪多糖对肉鸡肌肉品质的影响时也发现，黄芪多糖可提高胸肌的肉色a\*值和降低肉色b\*值，改善肌肉色泽。对于系水力和嫩度而言，本试验结果提示饲粮中添加黄芪多糖、酵母硒及其复合剂均可显著降低胸肌的滴水损失率、蒸煮损失率以及剪切力，提高持水能力和肌肉嫩度，且复合剂保水性效果更好。Juniper等[22]也研究报道饲粮中添加硒可改善猪肉品质，显著降低肌肉滴水损失率，提高肌肉持水能力。苏振东[23]研究表明，饲粮中添加适量的复方黄芪可显著降低肉鸡胸肌滴水损失率，改善肉品质。究其原因可能是黄芪多糖可提高营养物质和能量利用率，进而提高肌肉保水能力，改善半番鸭肌肉的系水力和嫩度，酵母硒则可通过提高组织抗氧化能力、维持细胞膜结构和功能的完整性来降低滴水损失率[24]。总体来说，本研究在饲粮中添加适量的酵母硒、黄芪多糖以及二者复合剂均可不同程度地提高半番鸭肌肉pH，改善肉色和嫩度，增强肌肉持水能力，提升肌肉品质，且酵母硒和黄芪多糖在改善pH和嫩度方面具有明显的协同效应。
+
+3.3酵母硒、黄芪多糖及其复合剂对半番鸭肌肉抗氧化能力的影响
+
+在生鲜肉中，脂质氧化可以导致肌肉的食用品质降低，脂质氧化是除微生物因素造成的腐败外最主要的肉品变质的原因[25]。SOD是动物机体重要的抗氧化酶，其活性间接反映了机体清除氧自由基的能力及机体内源性抗氧化能力。GSH-Px是动物机体内广泛存在的一种重要的过氧化物分解酶，它可以清除机体内的过氧化氢及脂质过氧化物，阻断活性氧自由基对机体的进一步损伤，是生物体内重要的活性氧自由基清除剂。T-AOC是用于衡量机体抗氧化系统功能状况的综合性指标，能反映机体抗氧化酶系统和非酶系统对外来刺激的代偿能力以及机体自由基代谢状态的强弱。MDA作为脂质过氧化物(LPO)氧化形成的终产物，可间接反映自由基的产生情况和机体组织细胞的脂质过氧化程度。因此，如何提高动物机体抗氧化能力特别是SOD和GSH-Px活性，是防止机体内脂质氧化和延长生鲜肌肉货架期的关键因素。
+
+本试验对70日龄半番鸭体内酶促抗氧化体系的重要组成部分SOD活性、GSH-Px活性、T-AOC以及MDA含量进行了研究分析，结果显示，与对照组相比，饲粮中添加黄芪多糖、酵母硒以及二者复合剂均可显著提高半番鸭肌肉SOD、GSH-Px活性及T-AOC，显著降低肌肉MDA含量，延缓各抗氧化指标的变化速度，且抗氧化效果以复合剂最优，酵母硒其次，黄芪多糖略逊于酵母硒，由此说明黄芪多糖、酵母硒及其复合剂均可增强肌肉抗氧化酶活性和抗氧化能力，减少自由基对生物膜的攻击，降低脂质过氧化程度，减少肌肉中MDA生成量，从而延长肌肉货架期。目前关于酵母硒对鸡、鹅、猪等生长发育以及抗氧化功能等方面的影响，已经有了相关研究报道。Wang等[8]和田金可等[26研究认为，酵母硒可显著提高肉鸡血浆和肝脏GSH-Px的活性，并显著降低肉鸡血浆和肝脏MDA含量。王宝维等[研究发现，在饲粮中添加酵母硒可显著提高4、9周龄鹅血清和肝脏中GSH-Px、SOD活性和T-AOC，而血清和肝脏中MDA和过氧化氢含量均显著低于对照组。呼红梅等[27研究表明，育肥猪饲粮中添加硒可显著提高肌肉中GSH-Px活性和抗氧化能力，降低肌肉中MDA含量，延长肌肉货架期。另外，黄芪多糖也被证实具有增强抗氧化和免疫的功能。孙波等[19]研究结果表明，饲粮中添加适量黄芪多糖可显著提高肌肉抗氧化能力，改善肉鸡肠道菌群，提高免疫力和抗病力。李宏全等[28]研究发现，黄芪多糖可显著提高血清GSH-Px和SOD活性，有效降低血清MDA含量，增强机体的免疫机能。这些研究结果均与本研究结果相一致，均表明酵母硒或黄芪多糖能够增强动物机体的抗氧化能力。有研究报道硒化黄芪多糖对于羟自由基和超氧阴离子的清除作用明显高于比黄芪多糖，且抗氧化能力与多糖浓度和硒含量呈正相关[29]，这也与本研究结果一致，证明了黄芪多糖与硒在抗氧化方面具有明显的协同效应。目前在临床上多数将多糖与硒结合成硒多糖，这可能是由于硒与单糖上2个顺式相连的羟基能够形成稳定的五元环亚硒酸醋，充分发挥了多糖和硒的生理活性，使二者的作用相互协调并增强[30]。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮中添加酵母硒、黄芪多糖及其复合剂均可显著提高半番鸭胸肌pH、系水力和嫩度，不同程度提升肉色a\*值和降低b\*值；显著增强机体内源性抗氧化酶SOD、GSH-Px活性和T-AOC，有效遏制肌肉MDA生成，延长其储存时间，从而有效保护肉品质和延长生鲜肉的货架期。
+
+$\textcircled{2}$ 酵母硒和黄芪多糖二者联合使用对于抗氧化、保鲜以及改善肉质方面均优于二者单独使用，特别在改善pH、嫩度以及抗氧化方面具有明显的相互协同效应。
+
+致谢：感谢福建省畜牧兽医研究所福建东南饲料有限公司林祥霖博士对试验所提的宝贵意见。参考文献：
+
+[1]MOHAMED A,JAMILAH B,ABBAS K A,et al. A review on lipid oxidation of meat in active and modified atmosphere packaging and usage of some stabilizers[J].Journal of Food,Agriculture and Environment,2008,6(3):76-81.
+
+[2]SCOLLAN N,HOCQUETTE JF,NUERMBERG K,et al.Innovations in beef production systems that enhance the nutritional and health value of beef lipids and their relationship with meat quality[J].Meat Science,2006,74(5):17-33.
+
+[3]ROGINSKY V,LISSI E A.Review of methods to determine chain-breaking antioxidant activity in food[J].Food Chemistry,2005,92(2):235-254.
+
+[4] MABILE L,LEFEBVRE C,LAVIGNE J,et al.Secretedapolipoprotein E reduces macrophage-mediated LDL oxidation in an isoform-dependent way[J]. Journal of Cellular Biochemistry.2003,90(4):766-776.
+
+[5]吕林,罗绪刚,计成.矿物元素影响畜禽肉质的研究进展[J].动物营养学报,2004,16(1):12-19.  
+[6]王巧莉,王宝维,孙鹏,等.有机硒在家禽研究上的进展[J].家禽科学,2008(7):21-23.
+
+[7]袁施彬,余冰,陈代文.硒添加水平对氧化应激仔猪生产性能和免疫功能影响的研究[J].畜牧兽医学报,2008,39(5):677-681.
+
+[8] WANG Y B,XU B H.Effect of different seleniumsource (sodium selenite and selenium yeast) on broiler chickens[J].Animal Feed Science and Technology,2008,144(34):306-314.
+
+[9]王宝维,王娜,葛文华.不同硒源对鹅早期生产性能、屠宰性能、肉品质、肌肉常规养分、免疫与抗氧化功能的影响[J].中国农业科学,2011,44(14):3016-3026.
+
+[10]MOORE M.Selenium supplementation of Chinese women with habitually low selenium intake increases plasma selenium,but not milk glutathione peroxidase activity[J].The Journal of
+
+Nutritional Biochemistry,2000,(11):341-347.
+
+[11]CHEN H L,LI D F,CHANG B Y,et a1.Effect of Chinese herb polysaccharides on the immunityand growth performance of young broilers[J].Poultry Science,2003,82(3):364-370.  
+[12]李宝霞,董双涛,霍乃蕊.黄芪多糖抗氧化活性研究[J].中药制剂工程与技术,2011,12(5):10-11.  
+[13]田晓丽.黄芪多糖增强动物免疫力的研究概况[J].国外畜牧学,2009,29(3):66.  
+[14]胥蕾.致晕方法影响肉仔鸡肉品质的机理及脂质过氧化调控[D].博士学位论文.北京:中国农业科学院,2011.  
+[15]李超,王道营,卞欢,等.肉鸭屠宰加工过程中色泽、剪切力、pH值及保水性的变化[J].江苏农业学报,2011,27(4):868-871.  
+[16]孙春阳,邢焕,栾素军,等.葡萄糖氧化酶和酵母硒复合添加剂对肉鸡生长性能、抗氧化性能及肉品质的影响[J].动物营养学报,2014,26(9):2789-2796.  
+[17]金光明,赵桂芳,陈娟.黄芪多糖对雏鸡生长性能的影响[J].安徽科技学院学报,2008,22(4):1-4.  
+[18]雷建平,郑玲玲,叶慧,等] $\mathbf { \sigma } _ { \cdot } \mathbf { { ( - O H - D _ { 3 } } }$ 替代维生素 ${ \bf D } _ { 3 }$ 对42-63日龄黄羽肉鸡屠宰性能、器官指数和肉品质的影响[J].饲料工业,2013,34(22):24-28.  
+[19]孙波,肖海鹰,邹明春,等.日粮中添加黄芪多糖对肉鸡屠宰性能及肌肉品质的影响[J].家畜生态学报,2015,36(6):26-29.  
+[20] 邹晓庭,郑根华,尹兆正,等.不同硒源对肉鸡生长性能、胴体特性和肉质的影响[J].浙江大学学报,2006,31(6):773-776.  
+[21] TAPIERO H,TOWNSEND D M,TEW K D.The antioxidant role ofseleniumandseleno-compounds[J]. Biomedicine Pharmacotherapy,2003,57(3):133-134.  
+[22]JUNIPER D T,PHIPPS R H,RAMOS-MORALES E,et al.Effect of dietary supplementation withselenium-enriched yeast or sodium selenite on selenium tissue distribution and meat quality inbeef cattle[J].Journal of Animal Science,2008,86:3100-3109.  
+[23]苏振东.复方黄芪对肉鸡生长性能、胴体品质和生化指标的影响[D].硕士学位论文.哈尔滨:东
+
+北农业大学，2012.
+
+[24]孙波,陈静,刘江,等.饲料中添加黄芪多糖对肉鸡肠道菌群及免疫器官指数的影响[J].黑龙江畜 牧兽医,2014,(13):92-94.
+
+[25]TEREVINTO A,RAMOS A,CASTROMAN G,et al.Oxidative status in vitro iron-induced lipid oxidation and superoxide dismutase,catalase and glutathione peroxidase activities in rhea meat[J].Meat Science,2010,84(4):706-710.
+
+[26]田金可,AHMAD H,李伟,等.不同硒源及水平对肉鸡组织硒含量及抗氧化功能的影响[J].动物营养学报,2012,24(6):1030-1037.
+
+[27]呼红梅,张印,林松,等.饲粮中添加维生素E和硒对瘦肉型猪肉品性状及抗氧化性能的影响[J].养猪,2012,(4):68-70.
+
+[28]李宏全,段县平,马海利,等.黄芪多糖提高鸡抗氧化作用对免疫功能的影响[J].山西农业学报,2002,(1):78-81.
+
+[29]陈浒华.黄芪多糖的硒化修饰及其体外抗氧化作用的研究[D].硕士学位论文.南京：南京农业大学,2010.
+
+[30] 刘建林,何新乡,陈宏.硒酸醋多糖的特性及其在食品工业中的应用[J].中国食品添加剂,2003,3(5):80-82.
+
+Effects of Selenium Yeast, Astragalus Polysaccharide and Their Compound on Growth Performance, Meat Quality and Antioxidant Ability of Mule Ducks
+
+ZHENG Nenzhu1,2LI Li2\* XIN Qingwu²MIAO Zhongwei²ZHU Zhiming² HUANG Qinlou² HUANG Yifan3\*\*
+
+(1.Food College of Fujian Agriculture and Forestry University,Fuzhou 35OoO2, China; 2.Animal Husbandry and Veterinary Research Institute of Fujian Academy of Agricultural Sciences, Fuzhou 350013, China; 3. Institute of Animal Science, Fujian Agricultural and Forestry University, Fuzhou
+
+# 350002,China)
+
+Abstract:This experiment was conducted to investigate the effects of selenium yeast (SY),Astragalus polysaccharide (APS) and their compound on growth performance, meat quality and antioxidant ability of mule ducks. One hundred and forty-four 22-day-old mule ducks with the same batch and similar body were randomly divided into 4 groups with 3 replicates per group and 12 ducks per replicate.The whole test period lasted for 49 days. Through a $2 { \times } 2$ factor experiment design, the control group was fed a basal diet, the test group I was fed the basal diet added with $0 . 3 \%$ selenium yeast, the test group II was fed the basal diet added with $3 0 ~ \mathrm { m g / k g }$ Astragalus polysaccharide,and the test group II was fed the basal diet added with the compound（ $3 0 ~ \mathrm { m g / k g }$ Astragalus polysaccharide and $0 . 3 \%$ selenium yeast）.The growth performance was determined in test period,and 12 ducks (4 ducks for each replicate) in each group were randomly selected for slaughter to determine meat quality and antioxidant indices at 7O days of age. The results showed as folows: 1) the average daily gain, average daily feed intake and feed to gain ratio of the test group I and test group $\mathrm { I I }$ had no obvious change compared with the control group $( P { > } 0 . 0 5 )$ ： The average daily gain of test group II was significantly higher than that of control group $( P { < } 0 . 0 5 )$ ， but the average daily feed intake and feed to gain ratio had no significant difference between the test group III and control group （ $\scriptstyle \left( P > 0 . 0 5 \right)$ .2) Compared with the control group, the $2 4 \textup { h p H }$ value of test group I, test group $\mathrm { I I }$ and test group III was significant increased ( $_ { \it P < 0 . 0 5 }$ or ${ P \mathrm { < } } 0 . 0 1$ ), the drip loss rate,cooking loss rate and shear force were significant decreased $( P { < } 0 . 0 5 )$ ; the redness $( \mathrm { a } ^ { * } )$ value of test group II was significant increased $( P { < } 0 . 0 5 )$ ; the yellowness $( \boldsymbol { \mathsf { b } } ^ { * } )$ value of test group $\mathrm { I I }$ and test group III was significant decreased ( $( P { < } 0 . 0 5 )$ .3） The superoxide dismutase (SOD） activity，glutathione peroxides (GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ） activity and total antioxidant capacity (T-AOC) after 24 to $1 2 0 \mathrm { h }$ of test group I , test group I and test group II were significantly higher than that of the control group ( $_ { ( P < 0 . 0 5 }$ or $P { < } 0 . 0 1 \$ ); the malondialdehyde (MDA) content after 48 to $1 2 0 \mathrm { h }$ and 72 to $1 2 0 \mathrm { h }$ of test group I and test group II was significantly lower than that of the control group ( $_ { \scriptstyle P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ )，and the MDA content after 24 to $1 2 0 \mathrm { h }$ of test group III was significantly lower than that of control group $( P { < } 0 . 0 1 )$ ： As storage prolonging, the SOD activity, GSH- $\mathbf { \nabla \cdot P X }$ activity and T-AOC tended to decrease, but the MDA content tended to increase. Compared with the control group,the change speed on the antioxidant indexes in the 3 test groups were slower.3） The interaction of yeast selenium and Astragalus polysaccharides had significant interaction effect on muscle $\mathsf { p H }$ ，shear force,SOD activity after 24 to $1 2 0 \ \mathrm { h } .$ GSH $\mathbf { \cdot P x }$ activity after 48 to $1 2 0 \mathrm { ~ h ~ }$ and MDA content after $1 2 0 \mathrm { ~ h ~ }$ ( $_ { \scriptstyle P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ).To summarize, selenium yeast and Astragalus polysaccharide can improve the meat quality and antioxidant ability of mule ducks,and delay lipid peroxidation,which leads to shelf life extension.Besides,both selenium yeast and Astragalus polysaccharide have obvious synergistic effects on the meat antioxidant, pH and tenderness.
+
+Key words: selenium yeast; Astragalus polysaccharides; mule ducks; growth performance; meat quality; antioxidant

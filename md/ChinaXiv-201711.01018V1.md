@@ -1,0 +1,212 @@
+孟春花1.2 乔永浩1,3钱勇1,2 王子玉王慧利1,2曹少先1,2\*（1．江苏省农业科学院畜牧研究所，南京210014；2．江苏省农业科学院动物品种改良和繁育重点实验室，南京210014;3．南京农业大学动物科技学院，南京 210095）
+
+摘要：本试验旨在研究氨化对油菜秸秆营养成分及山羊瘤胃降解特性的影响。将粉碎的油菜秸秆用 $30 \%$ 水和不同比例（ $10 \%$ 、 $1 5 \%$ 、 $20 \%$ ）碳酸氢铵进行氨化处理，并于处理后7、14 和 21d采集样品，与未氨化处理的油菜秸秆(对照)同时进行营养成分分析。然后采用尼龙袋法测定氨化和未氨化处理油菜秸秆的干物质（DM)、粗蛋白质（CP）、中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）的瘤胃降解率。结果表明：氨化后油菜秸秆CP含量增加，粗脂肪（EE）、NDF 和 ADF 含量下降，DM、粗灰分含量基本保持不变。氨化组油菜秸秆DM和CP有效降解率均显著高于对照组（ $P { < } 0 . 0 5 )$ ； $1 5 \%$ 、 $20 \%$ 碳酸氢铵氨化处理油菜秸秆ADF有效降解率均显著高于对照组（ $. P { < } 0 . 0 5 \ '$ )。综合得出，添加 $1 5 \%$ 和 $20 \%$ 碳酸氢铵氨化能显著提高油菜秸秆DM、CP和 ADF的山羊瘤胃降解率，油菜秸秆经 $1 5 \%$ 碳酸氢铵、 $30 \%$ 水分条件下氨化处理效果最好、最经济。
+
+关键词：油菜秸秆；氨化；瘤胃降解；山羊中图文分类号：S826 文献标识码：A 文章编号：
+
+据统计，我国每年产生的农作物秸秆大约为6亿t，居世界之首，特别是南方农区秸秆资源丰富，但秸秆综合利用工作相对滞后，焚烧秸秆现象屡禁不止，由此造成的空气污染已成为一个社会问题[]。油菜是我国第一大油料作物，主产区在长江中下游平原等南方地区，每年种植面积约670万亩，年产油菜秸秆约2000万t,其转化利用是一个亟需解决的问题[1-4]。此外，南方农区粗饲料资源短缺，成为制约草食畜牧业发展的瓶颈。油菜秸秆含有较高的粗蛋白质（CP)、粗纤维等营养成分，可部分替代常规粗饲料[4-5]。但油菜秸秆适口性差、采食率低，自然状态下体积大、易霉变，不便于运输、贮存和饲喂，这些都使油菜秸秆的饲料化
+
+1利用率很低[4。秸秆氨化就是在密闭的条件下，将氨源（液氨、氨水、尿素溶液、碳酸氢铵  
+2 溶液）按一定的比例喷洒到秸秆上，在适宜的温度条件下，经过一定时间的化学反应，从而  
+3 提高秸秆饲用价值的一种秸秆处理方法。氨化有望改善油菜秸秆的适口性和消化率等，提高  
+4 CP 含量，延长保存时间，从而满足反刍动物饲喂的需要。本研究比较了不同碳酸氢铵添加  
+5 量对油菜秸秆氨化效果的影响，通过营养成分测定和营养成分瘤胃降解率测定，确定油菜秸  
+6號 秆的最佳氨化方法，为油菜秸秆的饲料化利用提供科学依据。  
+7 1 材料与方法  
+8 1.1 试验材料与试验动物  
+9 油菜秸秆从江苏省农业科学院经济作物研究所实验基地收集。3头装有永久性瘤胃瘘管  
+0 的波杂山羊为试验动物。试验在江苏省农业科学院六合动物科学基地开展。  
+1 1.2 试验方法  
+2 油菜秸秆收集后晒干（含水量 $9 . 3 1 \%$ )，揉搓粉碎成 $0 . 3 { \sim } 3 . 0 ~ \mathrm { c m }$ 的小段，分为4组，1  
+3 个对照组为未处理的油菜秸秆（风干)，3个氨化油菜秸秆组，添加 $30 \%$ 水和分别添加不同  
+4 比例（ $10 \%$ 、 $1 5 \%$ 、 $20 \%$ ）碳酸氢铵，混匀后用塑料袋包装后抽真空，室温密封保存，每个  
+5 处理设置3个重复，分别于氨化后7、14 和 21d采集样品进行相关检测。  
+6號 1.3 营养成分检测  
+7 采用凯氏定氮法测定风干样中的CP含量，用乙醚浸提法（索氏抽提法）测定样品的粗  
+8 脂肪（EE）含量。用Van Soest 法测定中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量，  
+9 烘箱干燥法测定干物质（DM）含量，灼烧法测定粗灰分（ash）含量，比色法测定饲粮及原  
+0 料中钙（Ca）、磷（P）含量，具体方法详见张丽英主编《饲料分析及饲料质量检测技术》。  
+1 1.4 瘤胃降解试验羊饲养管理及样品采集  
+2 试验瘘管羊为3只2周岁的波杂山羊母羊，其饲粮的粗饲料为青贮玉米秸秆，精料由玉  
+3 米、豆粕等组成，基础饲粮组成及营养水平见表1。采用单独圈舍饲养，每天饲喂2次，自  
+4 由饮水。
+
+表1其础饲粮组成及营养水平 (干物质其础)  
+Table 1Composition and nutrient levels of the basal diet (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>玉米Corn 10.00</td></tr><tr><td>豆粕 Soybean meal 1.50</td></tr><tr><td>麦麸Wheat bran 3.00</td></tr><tr><td>玉米蛋白粉 Corn gluten meal 5.00</td></tr><tr><td>玉米皮 Corn bran 4.00</td></tr><tr><td>醋糟Vinegar residue 6.00</td></tr><tr><td>预混料 Premixl) 0.40</td></tr><tr><td>石粉Limestone 0.10</td></tr><tr><td>食盐 NaCl 0.16</td></tr><tr><td>青贮玉米秸秆 Corn straw silage 69.84</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels1)</td></tr><tr><td>粗蛋白质 CP 13.06</td></tr><tr><td>中性洗涤纤维 NDF 45.93</td></tr><tr><td>酸性洗涤纤维 ADF 29.57</td></tr><tr><td>钙Ca 0.88</td></tr><tr><td>磷P 0.57</td></tr></table></body></html>
+
+# ） 预混料
+
+2’实测值 Measured values。
+
+对照组和试验组油菜秸秆样品分别称取 $2 { \mathrm { g } }$ 左右的样品多份，放入已知质量的尼龙袋（用孔径 $5 0 ~ { \mu \mathrm { m } }$ 的尼龙布使用细涤纶线双线缝合制成，规格 $1 2 \ \mathrm { c m } { \times } 8 \ \mathrm { c m }$ ，使用前在瘤胃内培养$7 2 \mathrm { h }$ ，取出、洗净、65℃烘干）内，每个样品分别在3只瘘管羊瘤胃内培养3、6、12、24、36、48、 $7 2 \mathrm { { h } }$ 后取出，洗净，烘干，每只羊每个时间点设置2个重复，测定并计算各不同时间点的样品的DM、CP、NDF和ADF的瘤胃实时降解率。
+
+1.5数据处理与分析方法
+
+参照Qrskov 等提出的瘤胃动力学数学指数模型测定和计算。某饲料营养成分的实时瘤胃降解率符合指数曲线：
+
+$$
+d p = a + b \big ( 1 - e ^ { - c t } \big ) _ { \circ }
+$$
+
+式中： $\mathbf { \Delta } _ { a }$ 为快速降解部分 $( \% )$ ; $b$ 为慢速降解部分 $( \% )$ ; $\mathbf { \Psi } _ { c }$ 为 $b$ 部分的降解速率（%/h)；dp为 $t$ 时刻某营养成分的瘤胃实时降解率 $( \% ) { : \ t }$ 为饲料在瘤胃内停留的时间 （h)。
+
+饲粮营养成分的瘤胃有效降解率按以下公式计算：
+
+$$
+\scriptstyle { E D = a + b c / ( c + \mathbf { k } ) _ { \circ } }
+$$
+
+式中：ED为有效降解率 $( \% )$ ； $\mathbf { k }$ 为某营养成分的瘤胃外流速率，其值取 $0 . 0 3 1 ^ { [ 7 ] }$ 。
+
+试验数据采用SPSS18.0软件进行统计分析，采用one-wayANOVA进行差异显
+
+1 著性检验，试验结果以平均值±标准误表示。  
+2 2结果与分析  
+3 2.1氨化处理不同时间油菜秸秆的感官和常规营养成分变化  
+4 与对照组相比，氨化21d后各组油菜秸秆呈偏黄色，湿度适中，质地柔软，有较浓的  
+5 氨味。饲喂前打开密闭包装，适当释放氨味，与精粗料搅拌混匀，采用全混合日粮（TMR)  
+6 形式饲喂，不影响采食。由表2可见，21d后氨化组CP含量均增加了2倍以上，NDF、ADF  
+7 含量下降 $10 \%$ 以上，EE含量随氨化时间的延长逐渐下降，氨化21d后下降约 $70 \%$ ，DM和  
+8 ash 含量在氨化过程中基本保持不变。
+
+Table 2Nutrient composition of ammonification of rape straw（DM basis ）  
+
+<html><body><table><tr><td colspan="2">项目Items</td><td rowspan="5">氨化时间 干物质</td><td colspan="9">粗蛋白质 粗脂肪</td></tr><tr><td></td><td>Ammoniati on time/d</td><td>DM</td><td>CP</td><td>EE</td><td>中性洗涤 纤维NDF</td><td>酸性洗涤</td><td>纤维ADF</td><td>粗灰分 Ash</td></tr><tr><td>对照组 Control group</td><td>0</td><td>90.69</td><td>3.37</td><td></td><td>6.82</td><td>79.70</td><td>58.87</td><td>5.52</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td></td><td>90.20</td><td>8.56</td><td>8.39</td><td>75.03</td><td>54.60</td><td></td><td>5.50</td></tr><tr><td>15%氨化组15% ammoniation group</td><td>7</td><td>90.64</td><td>8.47</td><td>5.51</td><td>77.86</td><td></td><td>55.43</td><td>5.21</td></tr><tr><td>20%氨化组 20% ammoniation group</td><td></td><td>89.96</td><td></td><td>10.40</td><td>7.82</td><td>76.48</td><td>56.81</td><td>5.12</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td></td><td></td><td>88.45</td><td>11.32</td><td>4.96</td><td>76.01</td><td>56.07</td><td>5.71</td></tr><tr><td></td><td>15%氨化组15% ammoniation group</td><td>14</td><td>89.20</td><td>11.15</td><td>4.60</td><td>72.99</td><td>54.46</td><td>5.04</td></tr><tr><td></td><td>20%氨化组 20% ammoniation group</td><td></td><td>88.31</td><td>13.93</td><td>3.77</td><td>76.74</td><td>56.62</td><td>5.42</td></tr><tr><td></td><td>10%氨化组 10% ammoniation group</td><td></td><td>90.02</td><td>7.50</td><td>3.14</td><td>71.63</td><td>52.97</td><td></td></tr><tr><td></td><td>15%氨化组 15% ammoniation group</td><td>21</td><td>89.64</td><td>8.85</td><td>2.76</td><td>69.11</td><td>51.81</td><td>5.50 5.23</td></tr><tr><td></td><td>20%氨化组 20% ammoniation group</td><td></td><td>89.32</td><td>9.08</td><td>1.91</td><td>70.31</td><td>52.56</td><td>5.15</td></tr></table></body></html>
+
+# 11 2.2氨化油菜秸秆DM降解率和动态降解模型
+
+由表3可以看出，所有氨化组48、72hDM降解率均显著高于对照组（ $P { < } 0 . 0 5 )$ ； $1 5 \%$ 、$20 \%$ 氨化组24、36hDM降解率也显著高于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；随着碳酸氢铵添加比例的升高，24、36、48、72hDM降解率有升高趋势。不同时间点间比较，前 $2 4 \mathrm { ~ h ~ }$ 的DM降解速率升高较快， $2 4 \mathrm { h }$ 后降解速率增长减慢。
+
+表2氨化处理油菜秸秆的营养成分(干物质基础)  
+表3氨化处理油菜秸秆在瘤胃中不同时间点的DM降解率  
+Table 3DM degradation rate of ammonified rape straw in rumen at different time points   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>10%氨化组10% ammoniation group</td><td>15%氨化组15% ammoniation group</td><td>20%氨化组20% ammoniation group</td></tr><tr><td>3h</td><td>11.01±1.60a</td><td>13.68±0.20b</td><td>9.80±1.52ac</td><td>13.17±0.83b</td></tr><tr><td>6h</td><td>14.44±3.45</td><td>16.33±2.50</td><td>12.94±3.04</td><td>15.77±1.96</td></tr></table></body></html>
+
+<html><body><table><tr><td>12 h</td><td>18.13±1.46</td><td>19.70±3.09</td><td>16.91±3.16</td><td>20.42±1.05</td></tr><tr><td>24 h</td><td>21.52±1.45a</td><td>23.96±1.83a</td><td>24.64±2.79b</td><td>27.48±0.45c</td></tr><tr><td>36 h</td><td>22.74±1.44a</td><td>24.29±4.76a</td><td>28.71±2.59b</td><td>29.51±1.71b</td></tr><tr><td>48 h</td><td>24.84±0.25a</td><td>27.33±2.39b</td><td>29.45±1.73b</td><td>30.85±1.32b</td></tr><tr><td>72 h</td><td>25.59±1.14a</td><td>29.71±6.66b</td><td>31.10±2.20b</td><td>32.16±0.84b</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。表5、表7、表9同。
+
+Values in the same row with different letter superscripts mean significant difference（ $P { < } 0 . 0 5 \rangle$ ）,and with the same or no letter superscripts mean significant difference（ $P { > } 0 . 0 5$ ）.The same as Table 5,Table 7and Table 9. 由表4可以看出，氨化组油菜秸秆DM有效降解率均显著高于对照组（ $( P { < } 0 . 0 5 )$ ， $1 5 \%$ 氨化组最高，显著高于其他氨化组（ $( P { < } 0 . 0 5 )$ 。
+
+Table 4Parameters of DM dynamic degradation model of ammonified rape straw   
+
+<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/ （%/h)</td><td>ED/%</td></tr><tr><td>对照组 Control group</td><td>8.64±1.02a</td><td>16.70±0.93a</td><td>0.064±0.010</td><td>19.89±1.25a</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td>12.36±1.16b</td><td>17.85±1.45a</td><td>0.039±0.010</td><td>22.31±1.51b</td></tr><tr><td>15%氨化组 15% ammoniation group</td><td>15.80±0.89c</td><td>26.18±0.86b</td><td>0.052±0.006</td><td>32.20±1.03c</td></tr><tr><td> 20%氨化组 20% ammoniation group</td><td>9.08±0.68a</td><td>23.39±0.63b</td><td>0.059±0.005</td><td>24.41±0.77b</td></tr></table></body></html>
+
+a为快速降解部分；b为慢速降解部分；c为b部分的降解速率；ED为有效降解率。同列肩标不同字
+
+母表示差异显著（ $P { < } 0 . 0 5$ ），相同字母表示差异不显著（ $P { > } 0 . 0 5$ ）。表6、表8、表10同。
+
+a was rapidly degraded fraction; b was slowly degraded fraction; c was the degradation rate of b; ED was effective degradability.Values in the samecolumn with different letter supersripts mean significant diference （ $\scriptstyle P < 0 . 0 5 ,$ ,and with the same or no letter superscripts mean significant difference ( $P { > } 0 . 0 5 )$ . The same as Table 6,Table 8 and Table 10.
+
+# 2.3 氨化油菜秸秆CP降解率和动态降解模型
+
+由表5可以看出，所有氨化组各时间点的CP降解率都显著高于对照组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ 。随着碳酸氢铵添加比例的增加，CP降解率有增高的趋势。
+
+表4氨化处理油菜秸秆DM动态降解模型参数  
+表5氨化处理油菜秸秆在瘤胃中不同时间点的CP降解率  
+Table 5CP degradation rate of ammonified rape straw in rumen at different time points   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>10%氨化组10% ammoniation group</td><td>15%氨化组15% ammoniation group</td><td>20%氨化组20% ammoniation group</td></tr><tr><td>3h</td><td>16.51±1.41a</td><td>52.14±2.87b</td><td>55.28±1.37b</td><td>60.91±2.62b</td></tr></table></body></html>
+
+<html><body><table><tr><td>6h</td><td>20.56±0.77a</td><td>55.52±1.82b</td><td>60.70±2.08b</td><td>64.73±1.51b</td></tr><tr><td>12 h</td><td>25.94±1.04a</td><td>58.82±1.46b</td><td>62.41±2.19b</td><td>67.54±0.85b</td></tr><tr><td>24 h</td><td>28.89±3.56a</td><td>60.74±0.35b</td><td>63.76±0.89b</td><td>68.72±1.43b</td></tr><tr><td>36 h</td><td>29.12±0.56a</td><td>61.18±2.35b</td><td>64.09±2.66b</td><td>69.57±0.91b</td></tr><tr><td>48 h</td><td>30.00±2.07a</td><td>62.32±3.34b</td><td>65.18±0.50b</td><td>70.92±1.72b</td></tr></table></body></html>
+
+由表6可以看出，对照组氨化油菜秸秆的CP 快速降解部分降解速度显著低于氨化组L $. P { < } 0 . 0 5 )$ ，而 $10 \%$ 和 $20 \%$ 氨化组慢速降解部分显著高于对照组（ $. P { < } 0 . 0 5 )$ )。氨化组油菜秸秆的CP 有效降解率（ED）均显著高于对照组（ $_ { _ { P < 0 . 0 5 ) } }$ 。
+
+Table 6Parameters of CP dynamic degradation model of ammonified rape straw   
+
+<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/ (%/h)</td><td>ED/%</td></tr><tr><td>对照组Control group</td><td>9.86±0.97a</td><td>19.84±0.90a</td><td>0.134±0.011a</td><td>25.97±1.21a</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td>46.11±1.94b</td><td>15.46±1.82b</td><td>0.141±0.029a</td><td>58.93±3.71b</td></tr><tr><td>15%氨化组 15% ammoniation group</td><td>45.74±4.85b</td><td>18.47±4.72a</td><td>0.250±0.073b</td><td>62.17±8.15b</td></tr><tr><td>20%氨化组 20% ammoniation group</td><td>56.42±2.30c</td><td>13.55±2.16b</td><td>0.144±0.040a</td><td>67.57±3.52b</td></tr></table></body></html>
+
+2.4氨化油菜秸秆NDF 降解率和动态降解模型
+
+由表7可以看出，油菜秸秆的NDF降解率普遍偏低，其 $7 2 \mathrm { { h } }$ 降解率在 $20 \%$ 左右。氨化组随着碳酸氢铵添加比例增加，NDF 降解率有增高趋势， $1 5 \%$ 、 $20 \%$ 氨化组36、48、72h降解率显著高于对照组（ $_ { ( P < 0 . 0 5 ) }$ 。
+
+表6氨化处理油菜秸秆CP动态降解模型参数  
+表7氨化处理油菜秸秆在瘤胃中不同时间点的NDF降解率  
+Table 7NDF degradation rate of ammonified rape straw in rumen at different time points   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td>10%氨化组10%</td><td>15%氨化组15%</td><td>20%氨化组20%</td></tr><tr><td>Control group</td><td>ammoniation group</td><td>ammoniation group</td><td>ammoniation group</td></tr><tr><td>3h</td><td>1.52±0.35a</td><td>2.06±0.39b</td><td>2.10±0.89b</td><td>2.11±0.35b</td></tr><tr><td>6h</td><td>3.52±0.10a</td><td>4.03±0.49a</td><td>6.06±0.42b</td><td>5.39±0.17b</td></tr><tr><td>12 h</td><td>7.42±0.66a</td><td>8.97±1.52a</td><td>11.23±1.27b</td><td>12.88±0.09b</td></tr><tr><td>24 h</td><td>12.57±1.80a</td><td>13.21±1.07a</td><td>14.62±1.91a</td><td>16.41±1.59a</td></tr><tr><td>36h</td><td>14.26±1.82a</td><td>15.73±2.78a</td><td>20.77±1.43b</td><td>19.66±1.44b</td></tr><tr><td>48 h</td><td>15.45±1.23a</td><td>17.07±0.65a</td><td>21.58±1.21b</td><td>20.98±1.30b</td></tr><tr><td>72 h</td><td>16.21±0.56a</td><td>18.74±0.65a</td><td>23.13±1.43b</td><td>23.36±1.51b</td></tr></table></body></html>
+
+由表8可以看出，所有秸秆的NDF有效降解率均在 $20 \%$ 以下。随着碳酸氢铵添加比例升高，NDF快速降解部分有降低趋势，NDF慢速降解部分有升高趋势。 $20 \%$ 氨化组NDF有效降解率最高（ $. P { < } 0 . 0 5$ )。氨化油菜秸秆的NDF有效降解率随碳酸氢铵比例升高而增加。
+
+Table 8Parameters of NDF dynamic degradation model of ammonified rape straw   
+
+<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/ (%/h)</td><td>ED/%</td></tr><tr><td>对照组 Control group</td><td>2.72±0.07a</td><td>18.21±0.37a</td><td>0.060±0.004</td><td>14.73±0.05a</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td>1.90±0.06a</td><td>19.81±0.53a</td><td>0.053±0.005</td><td>14.40±0.13a</td></tr><tr><td>15%氨化组 15% ammoniation group</td><td>1.54±0.14b</td><td>24.12±1.47b</td><td>0.049±0.010</td><td>16.31±0.50a</td></tr><tr><td>20%氨化组 20% ammoniation group</td><td>0.98±0.09c</td><td>27.56±1.52c</td><td>0.063±0.012</td><td>19.45±0.51c</td></tr></table></body></html>
+
+# 2 2.5氨化油菜秸秆ADF 降解率和动态降解模型
+
+由表9可以看出，所有氨化组油菜秸秆的72hADF 降解率显著高于对照组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，且随着碳酸氢铵比例的增加，氨化油菜秸秆的 $7 2 \mathrm { { h } }$ ADF降解率呈升高趋势。
+
+Table 9ADF degradation rate of ammonified rape straw in rumen at different time points   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td>10%氨化组10%</td><td>15%氨化组15%</td><td>20%氨化组20%</td></tr><tr><td>Control group</td><td>ammoniation group</td><td>ammoniation group</td><td> ammoniation group</td></tr><tr><td>3h</td><td>4.97±0.73a</td><td>3.63±0.28a</td><td>2.90±0.90b</td><td>2.46±0.14b</td></tr><tr><td>6h</td><td>7.22±0.92a</td><td>7.50±0.54a</td><td>5.13±1.53b</td><td>4.35±0.10b</td></tr><tr><td>12 h</td><td>10.25±1.03a</td><td>12.35±0.49b</td><td>12.91±3.10b</td><td>13.76±1.93b</td></tr><tr><td>24 h</td><td>17.39±0.21a</td><td>17.84±2.06a</td><td>18.01±2.23a</td><td>18.30±0.83a</td></tr><tr><td>36 h</td><td>19.68±1.79a</td><td>20.42±1.59a</td><td>20.11±2.01a</td><td>21.48±0.94a</td></tr><tr><td>48 h</td><td>21.12±2.57a</td><td>22.34±0.16a</td><td>22.60±0.64a</td><td>22.89±2.35a</td></tr><tr><td>72 h</td><td>23.67±1.29a</td><td>25.18±0.65b</td><td>25.94±0.93ab</td><td>26.54±1.80b</td></tr></table></body></html>
+
+由表10 可以看出，经氨化处理的秸秆ADF快速降解部分均降低， $1 5 \%$ 和 $20 \%$ 氨化组降低显著低于对照组（ $( P { < } 0 . 0 5 )$ ；氨化组慢速降解部分均显著高于对照组（ $. P { < } 0 . 0 5 )$ ；随氨碳酸氢铵添加比例的增加，ADF有效降解率呈上升趋势， $1 5 \%$ 、 $20 \%$ 氨化组油菜秸秆ADF有效降解率均显著高于对照组（ $. P { < } 0 . 0 5 )$ ）
+
+表9氨化处理油菜秸秆在瘤胃中不同时间点的ADF 降解率  
+表10氨化处理油菜秸秆ADF动态降解模型参数  
+Table 10Parameters of ADF dynamic degradation model of ammonified rape straw   
+
+<html><body><table><tr><td>项目Items</td><td>a/%</td><td>b/%</td><td>c/ (%/h)</td><td>ED/%</td></tr><tr><td>对照组 Control group</td><td>2.07±0.81a</td><td>22.45±0.90a</td><td>0.043±0.006</td><td>15.12±0.96a</td></tr><tr><td>10%氨化组 10% ammoniation group</td><td>1.89±0.19a</td><td>24.29±0.90b</td><td>0.049±0.006</td><td>16.77±0.34a</td></tr><tr><td>15%氨化组 15% ammoniation group</td><td>1.47±0.08b</td><td>26.41±1.63b</td><td>0.051±0.010</td><td>17.90±0.48b</td></tr><tr><td>20%氨化组 20% ammoniation group</td><td>1.09±0.14b</td><td>27.97±2.00b</td><td>0.053±0.013</td><td>18.74±0.73b</td></tr></table></body></html>
+
+# 133讨论
+
+# 3.1不同比例碳酸氢铵对油菜秸秆氨化效果评价
+
+氨化处理时间受环境温度的影响较大，环境温度越高，氨化所需的时间越短，氨化效果
+
+1 越好[8]。本研究展开时间为油菜成熟的夏季，气温在 $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 以上，这可能也是快速氨化的原  
+2 因。不同氮源氨化的效果各异，本试验中所用氮源为碳酸氢铵，它比尿素更易于分解，比氨  
+3 水安全、方便，是一种来源广泛、成本低且效果好的氮源。碳酸氢铵中氨的含量约为 $1 7 \%$   
+4 本试验中添加 $10 \%$ 、 $1 5 \%$ 和 $20 \%$ 的碳酸氢铵，折算后氨的添加量分别为 $1 . 7 \%$ 、 $2 . 6 \%$ 和 $3 . 4 \%$ 。  
+5 秸秆氨化效果受含水量的影响较大，黄瑞鹏[10]的研究表明添加 $30 \%$ 水和 $3 . 5 \%$ 氨的尿素氨化  
+6 效果最好，与本试验中添加 $30 \%$ 的水分和 $3 . 4 \%$ 氨的碳酸氢铵结果类似。添加 $1 5 \%$ 和 $20 \%$ 的  
+7 碳酸氢铵均能取得较好的氨化效果，但考虑到节约成本，以添加 $1 5 \%$ 的碳酸氢铵为最佳。
+
+# 3.2不同比例碳酸氢铵氨化油菜秸秆的营养成分变化
+
+油菜秸秆直接饲喂适口性差，采食率低，加上体积大，易霉变，运输、贮存的不便使油菜秸秆一直没有得到很好的开发利用，饲料化的仅占 $2 \%$ ，饲料化利用潜力巨大[4,11]。油菜秸秆的营养价值优于稻草、小麦秸，氨化能增加油菜秸秆的CP 含量，降低NDF 和ADF 的含量，改善其适口性[12]。采用碳酸氢铵氨化处理是油菜秸秆饲料化利用的一种简便途径，既可以将这一宝贵资源充分利用，减少环境污染，又可在一定程度上缓解南方农区反刍动物粗饲料短缺的困难[4,II]。本试验测得的对照组的CP含量为 $3 . 3 7 \%$ ，油菜秸秆中CP含量可能与油菜的品种有关。氨化后油菜秸秆的CP含量从 $3 . 3 7 \%$ 提高到 $7 \%$ 以上，这与黄瑞鹏[10]的研究结果一致。氨化21d后油菜秸秆NDF和ADF含量均下降了 $10 \%$ 以上，有效降解率也显著升高，这可能是因为氨化破坏了油菜秸秆纤维的内部结构，使纤维之间的氢键结合变弱，同时也打断了木质素与纤维素和半纤维素之间的酯键，破坏木质化纤维的镶嵌结构，淀粉等营养物质被释放出来，提高了油菜秸秆的营养价值[10]。氨化处理后秸秆变蓬松、空隙增多，吸附纤维素酶的表面积增大，有助于酶解的进行[13]。氨化过程中形成的铵盐可作为氮源为瘤胃微生物的生长、繁殖提供有利条件。
+
+3.3不同比例碳酸氢铵氨化油菜秸秆营养物质的瘤胃降解特性
+
+本研究采用尼龙袋法测定氨化油菜秸秆的瘤胃降解率，该方法属测定粗饲料营养价值的半体内法，目前被广泛用来测定饲料中各种养分的降解率[I2]。DM有效降解率作为影响反刍动物干物质采食量（DMI）的一个主要因素，因饲料种类的不同而变化。不同种类饲料的DM降解率会随培养时间的延长呈现不同程度的增加。本研究表明，氨化处理能有效提高油菜秸秆DM、CP、NDF 和ADF的有效降解率。经山羊瘤胃降解72h后，无论是对照组还
+
+1 是氨化组，油菜秸秆DM降解率均在 $30 \%$ 左右，这远低于青贮玉米秸秆72hDM瘤胃降解  
+2 率（ $6 9 . 0 9 \%$ ）[14]，但与大豆秸72hDM的瘤胃降解率相似，高于麦秸DM72h 的瘤胃降解  
+3 率（ $2 5 . 3 8 \%$ ）[14]。本研究中，氨化组CP瘤胃降解率和有效降解参数均显著高于对照组，表  
+4 明氨化都能显著提高油菜秸秆的CP 降解率以及有效降解率，是较好的改善秸秆营养价值的  
+5 方法[]。另外，由于经过碳酸氢铵氨化处理的秸秆的CP快速降解部分降解速度显著增加，  
+6 慢速降解部分下降，说明其CP 在山羊瘤胃内降解主要发生在早期。NDF 和ADF 的瘤胃降  
+7 解率都是评价粗饲料营养价值的重要指标，受饲料NDF 和ADF 组成的影响[13]。本试验中，  
+8 氨化均能提高油菜秸秆 NDF 和ADF 瘤胃降解率，且降解主要在慢速降解部分，快速降解部分低于对照组，说明油菜秸秆较难降解，这可能与油菜秸秆的纤维素与半纤维素之间、半纤维素与木质素之间的化学键不同有关，醚键等结构不能被消化道内厌氧微生物产生的酶分解，因而降低了秸秆瘤胃内的可消化性[13]。反刍动物主要利用细菌、真菌和原虫这些可以分泌的纤维素酶分解利用纤维素物质[15]，氨化在一定程度上破坏了木质素和半纤维素形成的牢固的酯键，有利于瘤胃微生物的消化，所以，氨化后的油菜秸秆CP、NDF、ADF 的瘤胃降解率均升高。
+
+4结论
+
+$\textcircled{1}$ 碳酸氢铵氨化处理能提高油菜秸秆CP含量，降低 NDF 和 ADF 的含量，且对干物   
+质含量无影响。 $\textcircled{2}$ 氨化能提高油菜秸秆营养成分DM、CP、NDF 和 ADF 的瘤胃降解率。 $\textcircled{3}$ 油菜秸秆在 $1 5 \%$ 碳酸氢铵、 $30 \%$ 水分条件下氨化处理效果最好、最经济。   
+参考文献:   
+[1]HE M,WANG X R,HAN L,et al.Emisson inventory of crop residues field burning and its   
+temporal and spatial distribution in Sichuan Province[J].Environmental   
+Science,2015,36(4):1208-1216.   
+[2] 沈金雄,傅廷栋.我国油菜生产、改良与食用油供给安全[J].中国农业科技导 报,2011,13(1):1-8.   
+[3] 胡宏祥,程燕,马友华,等.油菜秸秆还田腐解变化特征及其培肥土壤的作用[J].中国生态农 业学报,2012,20(3):297-302.   
+[4]瞿明仁.南方经济作物副产物生产、饲料化利用之现状与问题[J].饲料工 业,2013,34(23):1-6.   
+[5]陈丽园,夏伦志,吴东.油菜秸秆的无公害处理研究[J].中国草食动物,2010,30(4):36-38.   
+[6]ORSKOV E R,MCDONALD I.The estimation of protein degradability in the rumen from incubation measurements weighted according to rate of passage[J].The Journal of Agricultural Science,1979,92(2):499-503.   
+[7]陈晓琳,孙娟,陈丹丹,等.5 种常用粗饲料的肉羊瘤胃外流速率[J].动物营养学 报,2014,26(7):1981-1987.   
+[8]SUNDSTOL F,OWEN E.Strawand other fibrousby-productsas feed[J].Livestock Production Science,1988,19(1/2):137-158.   
+[9]刁其玉,屠焰,陈群.农作物秸秆养牛手册[M].北京:化学工业出版社,2013:120-122.   
+[10]黄瑞鹏.粉碎及氨化油菜秸饲喂威宁黄牛效果的研究[D].硕士学位论文.南昌:江西农业 大学,2013:19-26.   
+[11]乌兰,马伟杰,义如格勒图,等.油菜秸秆饲用价值分析及其开发利用[J].畜牧与饲料科 学,2010,31(6/7):421-422.   
+[12]陈晓琳.肉羊常用粗饲料营养价值和瘤胃降解特性研究[D].硕士学位论文.青岛:青岛农 业大学,2014:24-31.   
+[13]杨游.稻草秸秆氨化的机理研究及参数优化[D].硕士学位论文.重庆:西南农业大 学,2004:33-39.   
+[14]夏科,姚庆,李富国,等.奶牛常用粗饲料的瘤胃降解规律[J].动物营养学 报,2012,24(4):769-777.   
+[15]张洁,陈旭伟,徐爱秋,等.瘤胃微生物对饲料碳水化合物的消化代谢[J].中国奶 牛,2008(2):17-20. Ammonification of Rape Straw: Effects on Nutrient Composition and Rumen Degradation Characteristics in Goats   
+MENG Chunhua1.2 QIAO Yonghao1.3QIAN Yong1.2WANG Ziyu³WANG Huili1.2CAO Shaoxian1,2\*   
+(1. Institute of Animal Science, Jiangsu Academy of Agricultural Sciences, Nanjing 210014, China; 2. Key Laboratory of Animal Breeding and Reproduction, Jiangsu Academy of Agricultural   
+Sciences, Nanjing 210O14, China; 3. College of Animal Science, Nanjing Agriculture University, Nanjing 210095, China) Abstract: This study was conducted to investigate the efects of ammonification of rape straw on nutrient composition and rumen degradation characteristics in goats. Rape straw crushed to pieces was ammonified using $30 \%$ water and different percentages ( $10 \%$ ， $1 5 \%$ and $20 \%$ ）of ammonium bicarbonate for 7,14 and $2 1 \mathrm { d }$ ,respectively. The samples of ammonified and un-ammonified rape straw (control) were collected to measure nutrient composition,and rumen degradation rates of dry matter (DM), crude protein (CP), neutral detergent fiber (NDF) and acid detergent fiber (ADF) were also determined using nylon-bag technique. The results showed as follows: after ammonification, CP content in rape straw was increased, ether extract, NDF, ADF contents were decreased, and DM and ash contents remained unchanged. The effective degradability of DM and CP of ammonification groups were significantly higher than those of control group $( P { < } 0 . 0 5 )$ ; the effective degradability of ADF in $1 5 \%$ and $20 \%$ ammonification groups was significantly higher than that of control group $( P { < } 0 . 0 5 )$ . In conclusion,ammonfication with $1 5 \%$ and $20 \%$ ammonium bicarbonate can significantly increase the effective degradability of DM, CP and ADF of rape straw in goats,and $1 5 \%$ ammonium bicarbonate with $30 \%$ water supplement is the best and the most economical condition.   
+Key words: rape straw; ammonification; rumen degradation; goat

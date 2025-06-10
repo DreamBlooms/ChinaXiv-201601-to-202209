@@ -1,0 +1,17 @@
+# Bioconversion of low-cost carbon sources for theproduction of microbial lipids（生物转化低值生物质制备生物油脂）费强（QiangFei），西安交通大学，Email:feiqiang@xjtu.edu.cn
+
+The current crisis of global warming is primarily attributed to CO2 production from excessive use of fossil fuels during recent decades， and has increased demand for renewable biofuels tremendously. Lipids are drawing considerable attention in relation to the production potential of biodiesel on the basis of their nontoxic, sustainable,and energy efficient proprieties. However, the high cost of microbial lipid produced by oleaginous microorganisms mainly stems from the high cost of glucose,which is estimated to be about $80 \%$ of the total medium cost.Therefore, considerable efforts have been directed toward minimizing the carbon source cost and finding new alternative carbon sources. In this report, several low-cost biomass including food-waste-derived volatile fatty acids, lignocellulose-based sugars,and methane derived from biogas were investigated for lipid production. After developing the culture modes and optimizing the culture conditions,both high lipid titer and productivity were achieved in high cell density cultures of different microorganisms using various carbon sources.
+
+![](images/b51386526c0718fa49a1eafddf22daaf1fa7ba9133c32400f2de8a47033351bc.jpg)
+
+# 个人简历
+
+费强，教授，博士生导师，工学博士，1980年生人电话:18700895167; Email: feiqiang@xjtu.edu.cn
+
+2006 年硕士毕业于西北大学化工学院，导师范代娣和尚龙安。2007赴韩在韩国科学技术院 (KAIST)攻读博士学位，师从韩国科学院和工程院双院院士Ho Nam Chang 教授。2011年取得生物化工博士学位后赴美，分别在麻省理工学院（MIT）、美国国家可再生能源实验室(NREL)、美国生物能源中心(NBC）任博士后和工程师职位。在美期间曾参与多项由能源部、国防部以及生物科技公司资助的重大项目。
+
+2016年通过西安交通大学高层次人才计划聘为教授后全职回国工作。费强长期致力对可再生、低值生物质的开发、探索以及高效生物转化平台的搭建，以研究、优化多种发酵工艺和构建、改良基因工程菌为核心，利用生物酶催化技术、合成生物学技术、微生物细胞转化技术等生物制造技术，将秸秆、沼气和餐厨垃圾等低值生物质生物转化为生物油脂以制备生物燃料。现任中国化工学会生物化工专业委员会青年学者工作委员会委员、陕西省化工学会生物化工专业委员会委员。
+
+# Biography:
+
+Prof. Qiang Fei joined Xi' an Jiaotong University in 2016 serving as a professor. From 2011-2016, Prof. Fei was working as a postdoc and staff engineer at MIT and the U.S. National Renewable Energy Laboratory (NREL) respectively. Prof. Fei has been researching the construction and development of biocatalysts for biofuel production including bioethanol, biodiesel, isobutanol, and jet fuel. He Was involved several projects funded DARPA, ARPA-E, and DOE regarding the biofuel production from recombinant microbes using sugars, natural gas, CO2 as carbon sources. Currently, Prof. Fei is focusing on developing fermentation processes using biogas and lignocellulosic feedstock as substrates for the production of bio-based products and building techno-economic analysis (TEA) models for bioconversion of renewable carbon sources into value-added products.

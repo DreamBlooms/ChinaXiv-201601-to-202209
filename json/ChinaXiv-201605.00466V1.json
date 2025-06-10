@@ -1,0 +1,596 @@
+[
+    {
+        "type": "text",
+        "text": "Agronomic nitrogen-use efficiency of rice can be increased by driving OsNRT2.1 expression with the OsNAR2.1 promoter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jingguang Chen1,2, Yong Zhang1,2, Yawen Tan1,2, Min Zhang²,Longlong Zhu1,Guohua $\\mathsf { X } \\mathsf { u } ^ { 1 , 2 }$ and Xiaorong Fan1,2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLboatfoeetidlascentstrfricuregrictualUersity Keb ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received10 July2015; revised29November2015; accepted 24 December2015. \\*Correspondence (Tel/fax +86 25 84396238; email xiaorongfan@njau.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The importance of the nitrate $( \\mathsf { N O } _ { 3 } ^ { - } )$ transporter for yield and nitrogen-use efficiency (NUE) in rice was previously demonstrated using map-based cloning.In this study,we enhanced the expression of the OsNRT2.1 gene,which encodes a high-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter,using a ubiquitin (Ubi) promoter and the ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -inducible promoter of the $O s N A R 2 . 1$ gene to drive OsNRT2.1 expression in transgenic rice plants.Transgenic lines expressing pUbi:OsNRT2.1 or pOsNAR2.1:OsNRT2.1 constructs exhibited the increased total biomass including yields of approximately $2 1 \\%$ and $3 8 \\%$ compared with wild-type (WT) plants.The agricultural NUE (ANUE) ofthe pUbi:OsNRT2.1lines decreased to $8 3 \\%$ of that of the WT plants,while the ANUE of the $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ lines increased to $12 8 \\%$ of that of the WT plants.The dry matter transfer into grain decreased by $6 8 \\%$ in the pUbi:OsNRT2.1 lines and increased by $4 6 \\%$ in the $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ lines relative to the WT.The expression of OsNRT2.1 in shoot and grain showed that Ubi enhanced OsNRT2.1 expression by7.5-fold averagelyand OsNAR2.1 promoters increased byabout $80 \\%$ higher than the WT. Interestingly,we found that the OsNAR2.1 was expressed higher in all the organs of pUbi:OsNRT2.1 lines;however,for $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ （204号 lines,OsNAR2.1 expression was only increased in root,leaf sheaths and internodes.We show that increased expression of OsNRT2.1,especially driven by OsNAR2.1 promoter,can improve the yield and NUE in rice. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:OsNAR2.1 promoter, Oryza sativa,OsNRT2.1,agronomic nitrogen-use efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rice(Oryza sativa L.）is not only a major staple food crop for a large part of the world population but also an important model monocot plant species for research because of its small genome size and the availability of the complete rice genome sequence (Feng et al.，2002；Sasaki et al.，2002). Nitrogen (N) nutrition affects all levels of plant function from metabolism to resource allocation，growth and development (Crawford,1995;Scheible et al.,1997,2004; Stitt,1999).The most abundant source for N acquisition by plant roots is nitrate $( \\mathsf { N O } _ { 3 } ^ { - } )$ ，whichis present in naturally aerobic soils due to intensive nitrification from applied organic and fertilizer N.In contrast,ammonium $( N H _ { 4 } ^ { + } )$ is the main formof available Nin flooded paddy soilsdue to the anaerobic soil conditions (Sasakawa and Yamamoto,1978). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathsf { N O } } _ { 3 } ^ { - }$ serves as a nutrient and as a signal that induces changes in the growth and gene expression (Coruzzi and Bush，2001; Coruzzi and Zhou，2o01;Crawford and Forde，2002；Crawford and Glass,1998;Kirk and Kronzucker，2005;Kronzucker et al., 2000;Wang et al.,20oO; Zhang and Forde,20oO).Two different ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake systems in plants,the high- and low-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake systems designated as HATS and LATS,respectively,are regulated by ${ \\mathsf { N O } } _ { 3 } ^ { - }$ supply and enable plants to cope with high or low ${ \\mathsf { N O } } _ { 3 } ^ { - }$ concentrations in soils (Fan et al.,2005). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Some high-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporters belonging to the NRT2 family have been shown to require a partner protein,NAR2,for their function $\\mathsf { X u }$ et al.,2012).Quesada et al. (1994) identified the CrNar2 gene，which encodes a small protein of approximately 2oo amino acid residues and which has no known transport activity，but isrequired for complementation of ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport in Chlamydomonas reinhardtii mutantsdefectivein uptake. In Arabidopsis,Okamoto et al. (2oo6) showed thatboth constitutive and ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -inducible HATS，but not LATS，depended onthe expression of the NAR2-type gene， for example Arabidopsis AtNRT3.1．Orsel et al. (2006)used yeast splitubiquitin and oocyte expression systems to show that AtNAR2.1 (AtNRT3.1）and AtNRT2.1 interacted to produce a functional HATS.Yong et a/. (201O) showed that the NRT2.1 and NAR2.1 polypeptides interact directly at the plasma membrane to constitute an oligomer that may act as the functional unit for high-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ influx in Arabidopsisroots. In rice，the OsNRT2.1，OsNRT2.2 and OsNRT2.3a gene productswere similarly shown to require the protein encoded by OsNAR2.1 for ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake (Feng et al.,2011; Liu et al.,2014;Yan et al., 2011)，and their interaction at the protein level was demonstrated using a yeast two-hybrid assay and by Western blotting (Liuet al.，2014;Yan et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rice seedling growth was improved slightly by increased OsNRT2.1 expression，but N uptake remained unaffected (Katayama et al.，2oo9)，probably due to the absence of the interaction with OsNAR2.1,which is required for the functional ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport (Feng et al.,2011;Yan et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we transformed the open reading frame (ORF) of the OsNRT2.1 gene into rice with the expression driven by the OsNAR2.1 promoter to modify the coexpression of the OsNRT2.1 and OsNAR2.1 genes in rice plants and to investigate the biological function of their coexpression in vivo.Transgenic lines expressing the OsNRT2.1 gene under the control of the OsNAR2.1 promoter exhibited greatly increased the growth, biomass and yield compared with transgenic lines expressing OsNRT2.1 undera ubiquitin promoter.We analysed OsNRT2.1 and OsNAR2.1 expression patterns during the whole-plant growth and show that modification of the ratio of OsNRT2.1 to OsNAR2.1 expression in stems altered the rice growth and agricultural N-use efficiency (ANUE). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generation of transgenic rice plants expressing pUbi: OsNRT2.1 and pOsNAR2.1:OsNRT2.1 constructsand field analysis of traits ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ubiquitin promoter (pUbi) has been used as a strong promoter in a variety of applications in gene transfer studies and was shown to drive gene expression most actively in rapidly dividing cells (Cornejo et al.，1993).Overexpression of just the OsNRT2.1 gene in rice was previously shown to not increase ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake (Katayama et al.,2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We introduced pUbi:OsNRT2.1 (Figure S1a)and $p O s N A R 2 . 1$ OsNRT2.1 (Figure S1b)expression constructs into Wuyunjing 7 (WYJ7)，a rice cultivar that produces high yields in Jiangsu ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Province，using Agrobacterium tumefaciens-mediated transformation.We generated 23 lines exhibiting increased OsNRT2.1 expression,including 12 pUbi:OsNRT2.1 lines and 11 $p O s N A R 2 . 1$ ： OsNRT2.1 lines (Figure S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We analysed the grain yield and biomass of transgenic lines in the TO and T1 generations. Relative to the wild-type (WT) plants, the biomass,including the grain yield,of the 12 pUbi:OsNRT2.1 lines increased byapproximately $2 1 . 8 \\%$ (Figure S2e) and $2 0 . 9 \\%$ (Figure S3a) in TO and T1 plants,respectively,but the grain yield decreasedapproximately $1 8 . 4 \\%$ (Figure S2c)and $1 6 . 6 \\%$ (Figure S3a) in TO and T1 plants,respectively. Relative to the WT,the biomass，including the grain yield，of the 11 $p O s N A R 2 . 1$ ： OsNRT2.1 lines increased byaverage values of $3 2 . 2 \\%$ (Figure S2f) and $2 7 . 1 \\%$ (Figure S3b)in TO andT1 plants,respectively,and the grain yield increased byaverage values of $3 0 . 7 \\%$ (Figure S2d) and $2 8 . 1 \\%$ (Figure S3b)in TO and T1 plants,respectively.Based on the Southern blot analysis of T1 plants (Figure S4)and RNA expression data for the TO generation (Figure S2a,b),we selected three independent pUbi:OsNRT2.1 T1 lines OE1-2，OE2-5 and OE3-4 [renamed as OE1,OE2 and OE3 (Figure 1a)] and three independent $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ T1 lines O6-4，O7-6 and O8-3[renamed as O6,O7 and O8 (Figure 1b)]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agricultural traits of these six lines were investigated in the field in the T1 through T4 generations,with a particular focus on the T3 generation. OsNRT2.1 expression in roots was enhanced fourto sevenfold in the OE1，OE2 and OE3 lines but only 2.5- to threefold in the O6,O7 and O8 lines relative to the WT.In culms, OsNRT2.1 expression was increased approximately sixfold in the ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d007b63b6a52980c9bbb1861f67fa28de3c36b321b6f3372e92fb61eaedd6665.jpg",
+        "img_caption": [
+            "Figure 1 Characterization of transgenic lines. (a) Grossmorphology of pUbi:OsNRT2.1 transgenic lines (OE1,OE2 and OE3) and the wild-type (WT). (b) Gross morphology of pOsNAR2.1:OsNRT2.1 transgenic lines (O6,O7 and O8) and the WT.(c, d) Real-time quantitative RT-PCR analysis of endogenous OsNRT2.1 expression in various transgenic lines and WT plants. (c) pUbi:OsNRT2.1 transgenic lines (OE1,OE2 and OE3) and the WT, and (d) pOsNAR2.1:OsNRT2.1 transgenic lines (O6,O7 and O8) and the WT.RNA was extracted from leaf blade I,culm and root.(e,f) Grain yield and dry weight per plant for transgenic and WT plants grown in the field. Dry weight mean values are for all aboveground biomass,including the grain yield.(e) pUbi:OsNRT2.1 transgenic lines and WT. (f) $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ transgenic lines and WT.Statistical analysis was performed on data derived from the T3 generation. Error bars: SE $\\langle n = 3 \\rangle$ .Significantdifferences between the transgenic lines and WT are indicated by different letters $\\lceil P < 0 . 0 5 ,$ one-way ANOVA). ",
+            "$\\circledcirc$ 2016to "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/135fc2c74108c696f8b00a8cc0d1ec3d245346de9e7d9df680da0ff91b13500f.jpg",
+        "table_caption": [
+            "Table1 Comparison of the grain yield,dry weight and agronomic nitrogen-use efficiency (ANUE) between the wild-type (WT) and transgenic lines in the T1-T3 generations "
+        ],
+        "table_footnote": [
+            "Dry weight mean values are for all aboveground biomass, including the grain yield.For each mean, $n = 3$ 、Significant differences between the transgenic lines and WT are indicated by different letters $( P < 0 . 0 5$ ,one-way ANOVA). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">pUBi:OsNRT2.1</td><td colspan=\"4\">pOsNAR2.1:OsNRT2.1</td></tr><tr><td>WT</td><td>OE1</td><td>OE2</td><td>OE3</td><td>06</td><td>07</td><td></td><td>08</td></tr><tr><td colspan=\"9\">Grain yield (kg/m²)</td></tr><tr><td>T1</td><td>0.52 b</td><td>0.42 c</td><td>0.44 c</td><td>0.43 c</td><td>0.69a</td><td>0.69a</td><td></td><td>0.71a</td></tr><tr><td>T2</td><td>0.66b</td><td>0.54 c</td><td>0.56 c</td><td>0.54 c</td><td>0.89a</td><td></td><td>0.91a</td><td>0.93 a</td></tr><tr><td>T3</td><td>0.70 b</td><td>0.58 c</td><td>0.60 c</td><td>0.57 c</td><td>0.94 a</td><td></td><td>0.98a</td><td>1.00 a</td></tr><tr><td colspan=\"9\">Dry weight (kg/m²)</td></tr><tr><td>T1</td><td>1.05 c</td><td>1.31b</td><td>1.29 b</td><td>1.31 b</td><td>1.43 a</td><td>1.45 a</td><td></td><td>1.47 a</td></tr><tr><td>T2</td><td>1.27 c</td><td>1.55 b</td><td>1.61b</td><td>1.58 b</td><td>1.77 a</td><td></td><td>1.83a</td><td>1.77 a</td></tr><tr><td>T3</td><td>1.40 c</td><td>1.67 b</td><td>1.73 b</td><td>1.69 b</td><td>1.91 a</td><td></td><td>1.96 a</td><td>1.95a</td></tr><tr><td colspan=\"9\">ANUE (g/g)</td></tr><tr><td>T1</td><td>15.48 b</td><td>12.43 c</td><td>12.94 c</td><td>12.56 c</td><td>19.64 a</td><td>19.63 a</td><td></td><td>19.86a</td></tr><tr><td>T2</td><td>20.28 b</td><td>16.46 c</td><td>17.02 c</td><td>16.25 c</td><td>26.41a</td><td></td><td>26.71a</td><td>27.50 a</td></tr><tr><td>T3</td><td>21.33 b</td><td>17.42 c</td><td>18.41c</td><td>17.01 c</td><td>26.17a</td><td></td><td>27.86a</td><td>28.12 a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OE lines and approximately threefold in the O lines.In leaf blades, however，only the OE lines exhibited increased OsNRT2.1 expression (four- to sevenfold) compared with the WT,and no change in the expression was observed in the O lines (Figure 1c, d).The field data showed that both the OE and O lines exhibited increased growth and biomass,but only the O lines produced higher yields than the WT (Figure 1e,f). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the agricultural traits of the T1-T4 generation plants in the field, the total aboveground biomass including the grain yield increased by $2 1 \\%$ for the pUbi:OsNRT2.1 lines and by $3 8 \\%$ for the $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ lines，while the biomass without grain yield increased by $1 9 0 \\%$ for the pUbi:OsNRT2.1 lines and by $1 6 0 \\%$ forthe pOsNAR2.1:OsNRT2.1 lines.The grain yields of the pUbi:OsNRT2.1lines decreased over the three successive generations (Table 1),but the yields of the pOsNAR2.1:OsNRT2.1 lines increased significantly from the T1 to T3 generation (Table 1).The yields of the O lines were enhanced by approximately $3 3 \\%$ in T1 plants grown at Ledong and by $34 \\% - 4 2 \\%$ in the T2 and T3 generations grown at Nanjing relative to the WT, while the OE lines exhibited lower yields than the WT by approximately $1 7 \\%$ in all three generations (Table 1).We also analysed the yield and the biomass of the WT and T4 generation transgenic plantsat Nanjingunder low( $1 8 0 ~ \\mathsf { k g } ~ \\mathsf { N / h a } )$ and normal $\\textsf { N } ( 3 0 0 \\ k g \\ \\mathsf { N } / \\mathsf { h } \\mathsf { a } )$ supplies.At the level of $1 8 0 ~ \\mathsf { k g }$ N/ha,compared with WT,the yield of OE lines was reduced by $1 7 \\%$ ，and the biomass increased by $14 \\%$ ,while the yield and biomass of O lines were increased by $2 5 \\%$ and $2 7 \\%$ (Figure S5a),respectively.At the level of $3 0 0 ~ \\mathsf { k g } ~ \\mathsf { N / h a }$ ，the yield of OE lines was reduced by $1 6 \\%$ ,and the biomass increased by $12 \\%$ ,as for O linestheyield and biomass were increased by $2 1 \\%$ and $2 2 \\%$ ，respectively, compared with WT (Figure S5b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The total tiller number per plant in the T3 generation at the harvest stage increased $2 7 . 1 \\%$ onaverage for both $p O s N A R 2 . 1$ ： OsNRT2.1 and pUbi:OsNRT2.1 transgenic plants relative to the WT with no difference between the transgenic lines (Table 2); however，the grain number per panicle differed significantly between the OE and O lines (Table 2).The grain number per panicle increased approximately $1 5 \\%$ in the O lines; the panicle length increased in the O lines approximately $12 \\%$ ,and the seed setting rate increased in the O lines by $14 \\%$ relative to the WT (Table 2).The grain yields of the O lines increased by $2 4 . 2 \\%$ relativetothe WT (Table2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen-use efficiency of transgenic lines ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because the biomass and yields increased in the $p O s N A R 2 . 1$ ： OsNRT2.1 transgenic plants,we also analysed ANUE in T1-T4 generations of transgenic plants，N recovery efficiency (NRE), physiological N-use efficiency (PNUE) and N harvest index (NHI) traitsat the harvest stage in T3 generation transgenic lines to determine whether N use was altered in these plants,as modified the calculation method of the reference in Zhang et al. (2009). The ANUE of the O lines was enhanced by approximately $3 3 \\%$ in T1 plants grown at Ledong and by $34 \\% - 4 2 \\%$ in the T2 and T3 generations grown at Nanjing relative to the WT,while the OE lines exhibited lower ANUE than the WT by approximately $1 7 \\%$ in all three generations (Table 1).In T4 plants at Nanjing,at the level of $1 8 0 ~ \\mathsf { k g }$ N/ha,compared with WT,the ANUE of OE lines was reduced by $2 2 \\%$ and the ANUE of O lines was increased by $3 3 \\%$ and at the level of $3 0 0 ~ \\mathsf { k g }$ N/ha, the ANUE of OE lines was reduced by $1 7 \\%$ and the ANUE of O lines was increased by $2 8 \\%$ (Figure S5c). In the OE lines, the NRE increased to approximately $1 1 5 \\%$ of the WT，and the PNUE and NHl were reduced to approximately $71 \\%$ of the WT values.In the O lines, the ANUE increasedtoapproximately $12 8 \\%$ of the WT,the NRE increased toapproximately $1 3 6 \\%$ of the WT,and the PNUE and NHl were not significantly different from WT values (Table 4). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/004e343e2190c4f3183483dbc732493ee8f7b1595522480fffe8f0d94b02a03b.jpg",
+        "table_caption": [
+            "Table 2 Comparison of agronomic traits between the wild-type (WT) and transgenic lines "
+        ],
+        "table_footnote": [
+            "Statistical analysis was performed on data derived from the T3 generation.Significant differences between the transgenic lines and WT are indicated by different letters $( P < 0 . 0 5$ ，one-way ANOVA, $n = 3 ,$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Genotype</td><td rowspan=\"2\">WT</td><td colspan=\"3\">pUBi:OsNRT2.1</td><td colspan=\"3\">pOsNAR2.1:OsNRT2.1</td></tr><tr><td>OE1</td><td>OE2</td><td>OE3</td><td>06</td><td>07</td><td>08</td></tr><tr><td>Plant height (cm)</td><td>83.21 b</td><td>80.18 c</td><td>79.25 c</td><td>76.25 d</td><td>87.27 a</td><td>86.85a</td><td>88.69 a</td></tr><tr><td>Total tiller number per plant</td><td>20.26 b</td><td>25.57 a</td><td>23.24a</td><td>24.81 a</td><td>25.83 a</td><td>26.84a</td><td>24.41 a</td></tr><tr><td>Panicle length (cm)</td><td>13.19 b</td><td>12.48 c</td><td>11.48 c</td><td>11.12 c</td><td>14.40a</td><td>14.13a</td><td>14.48 a</td></tr><tr><td>Grain weight</td><td>2.22 d</td><td>1.16e</td><td>0.96 f</td><td>1.23e</td><td>3.87 a</td><td>2.74 c</td><td>3.01 b,c</td></tr><tr><td>(g/panicle) Seed setting rate (%)</td><td>70.45 b</td><td>59.79 c</td><td>57.82 c</td><td>61.94 c</td><td>80.46a</td><td>75.92 a</td><td>78.95a</td></tr><tr><td>Grain number</td><td>132.58 b</td><td>105.67 c</td><td>97.25 c</td><td>101.61c</td><td>154.50 a</td><td>166.25a</td><td>149.75 a</td></tr><tr><td>per panicle 1000-grain</td><td>25.24a</td><td>24.89 a</td><td>24.39 a</td><td>24.45 a</td><td>25.28a</td><td>25.67a</td><td>25.89a</td></tr><tr><td>weight (g) Grain yield (g/plant)</td><td>26.21 b</td><td>21.61 c</td><td>22.63 c</td><td>21.19 c</td><td>31.17 a</td><td>32.81a</td><td>33.64 a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We sampled shoot tissues at the anthesis stage (6O days after transplanting) and the mature stage (9O days after transplanting) to determine the total N content.At the anthesis stage,total N was concentrated mainly in the culm with no difference between the OE and O lines,but with an increase of approximately $2 7 \\%$ relative to the WT.In leaves,the total N content was the same in the O and WT lines,but was approximately $3 3 \\%$ higher in the OE lines.The total N content in the grain was the same in all lines (Figure 2a).At the mature stage, totalNwas concentrated mainly in the grain,with the N content decreased by approximately $10 \\%$ in the OE lines and increased by approximately $3 8 \\%$ in the O lines relative to the WT (Figure 2b). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Translocation of dry matter and N in transgenic lines ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We investigated the dry matter and N translocation (NT) in rice plants by determining dry matter at anthesis (DMA),dry matter at maturity (DMM),total N accumulation at anthesis (TNAA)and total N accumulation at maturity (TNAM).For the OE lines, the DMA， the DMM， the TNAA and the TNAM increased by approximately $2 7 \\%$ 5 $2 1 \\%$ 1 $2 5 \\%$ and $2 1 \\%$ ，respectively,relative to the WT.For the O lines,the DMA,the DMM,the TNAA and the TNAM increased by approximately $4 6 \\%$ 1 $3 8 \\%$ 1 $1 5 \\%$ and $2 7 \\%$ ,respectively,relative to the WT (Table 3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also investigated the dry matter translocation (DMT), the DMTefficiency (DMTE)，the contribution of preanthesis assimilates to grain yield (CPAY) and the harvest index $( H 1 )$ ，based on the calculation method of the reference in Ntanos and Koutroubas (2002)．For the OE lines，the DMT，DMTE，CPAY and Hl decreased byapproximately $6 8 \\%$ 1 $7 5 \\%$ 1 $6 1 \\%$ and $3 1 \\%$ respectively，relative to the WT.For the O lines，the DMT increasedbyapproximately $4 6 \\%$ ,while the DMTE, CPAY and $\\mathsf { H I }$ did not differ between the O lines and the WT (Table 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We investigated postanthesis N uptake (PANU),NT,N translocation efficiency (NTE) and the contribution of preanthesis N to grain N accumulation (CPNGN)，as modified the calculation method of the reference in Ntanos and Koutroubas (2oo2)and Zhang et al. (20O9)．The PANU and CPNGN did not differ between the OE lines and the WT，but the NT and the NTE decreased byapproximately $1 6 \\%$ and $32 \\%$ ，respectively,in the OE lines relative to the WT.The NTE did not differ between the O lines and the WT，while the PANU and NT increased by approximately $8 7 \\%$ and $1 8 \\%$ ，respectively，and the CPNGN decreased byapproximately $1 6 \\%$ in the O lines relative to the WT (Table 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d332f7cc41184f336f5fc75fe03c27c0add06200bd6af7ea02df6232087d427.jpg",
+        "img_caption": [
+            "Figurcotetioprtftiltdrasatsatos.(ityftersplanttise.() Ninety days after transplant,maturity stage.Error bars: SE $\\langle n = 3 \\rangle$ .Statistical analysis was performed on data derived from the T3 generation.Significant differences between the transgenic lines and WT are indicated by different letters $( P < 0 . 0 5$ ,one-way ANOVA). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b23ad2237d8bc41cdb9225fffcda7086d6fd78e713a86beae1e8adfa5c115a2.jpg",
+        "table_caption": [
+            "Table3 Comparison of dry matter accumulation and N content between the wild-type (WT) and transgenic lines "
+        ],
+        "table_footnote": [
+            "Statistical analysis was performed on data derived from the T3 generation.For each mean, $n = 3$ Significant differences between the transgenic linesand WTare indicated by different letters $( P < 0 . 0 5$ one-way ANOVA). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Dry matter and nitrogen components</td><td rowspan=\"3\">WT</td><td colspan=\"3\">pUBi:OsNRT2.1</td><td colspan=\"3\">pOsNAR2.1:OsNRT2.1</td></tr><tr><td>OE1</td><td>OE2</td><td>OE3</td><td>06</td><td>07</td><td>08</td></tr><tr><td>Dry matter at anthesis (kg/m²)</td><td>0.90 c</td><td>1.14 b</td><td>1.15 b</td><td>1.14 b</td><td>1.30 a</td><td>1.31 a</td><td>1.35a</td></tr><tr><td>Dry matter at maturity (kg/m²)</td><td>1.40 c</td><td>1.67 b</td><td>1.78 b</td><td>1.69 b</td><td>1.91 a</td><td>1.96 a</td><td>1.95a</td></tr><tr><td>Total nitrogen accumulation atanthesis (g/m²)</td><td>13.98 c</td><td>17.02 a</td><td>17.62 a</td><td>17.83 a</td><td>16.02 b</td><td>16.20 b</td><td>16.38 b</td></tr><tr><td>Total nitrogen accumulation at maturity (g/m²)</td><td>16.62 b</td><td>19.68 a</td><td>20.45 a</td><td>20.67 a</td><td>20.47 a</td><td>21.22 a</td><td>21.98 a</td></tr><tr><td>Grain nitrogen accumulation at maturity (g/m²)</td><td>9.56 b</td><td>8.56c</td><td>8.67 c</td><td>8.54 c</td><td>12.69 a</td><td>13.30 a</td><td>13.53a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c50adb13fbbfa13e133148a2992081db87a4b053aba516343e4f4a3ef73d893.jpg",
+        "table_caption": [
+            "Table4ComparisonofNuseefecyymatertrasrtefincydNtrasprtefienyetentheildtpe(Wandtrasgic rice lines "
+        ],
+        "table_footnote": [
+            "StatisticalanalysiswasperformedondataderivedfromtheT3generation.MethodsofcalculationsinTableS4.Foreachmean, $n = 3$ .Significant differences between the transgenic lines and WT are indicated by different letters $P < 0 . 0 5$ ,one-way ANOVA). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"3\">pUBi:OsNRT2.1</td><td colspan=\"3\">pOsNAR2.1:OsNRT2.1</td></tr><tr><td></td><td>WT</td><td>OE1</td><td>OE2</td><td>OE3</td><td>06</td><td>07</td><td>08</td></tr><tr><td>N recovery efficiency (%)</td><td>39.06 c</td><td>44.59 b</td><td>45.40 b</td><td>45.64 b</td><td>52.13 a</td><td>53.29 a</td><td>53.68 a</td></tr><tr><td>Physiological N-use efficiency (g/g)</td><td>54.55 a</td><td>39.96 b</td><td>40.56 b</td><td>37.26 b</td><td>50.10 a</td><td>51.49 a</td><td>52.40 a</td></tr><tr><td>N harvest index (%)</td><td>59.49 a</td><td>43.52 b</td><td>42.39 b</td><td>41.31 b</td><td>61.98 a</td><td>62.68a</td><td>61.56 a</td></tr><tr><td>Dry matter transfer (g/m²)</td><td>198.95 c</td><td>72.25 d</td><td>51.03 e</td><td>67.74 d</td><td>301.22 a</td><td>278.87 b</td><td>293.48 a,b</td></tr><tr><td>Dry matter transfer efficiency (%)</td><td>22.10 a</td><td>6.32 b</td><td>4.45 c</td><td>5.95 b</td><td>23.23 a</td><td>21.22 a</td><td>21.78 a</td></tr><tr><td>Contribution of preanthesis assimilates to grain yield (%)</td><td>28.45 a</td><td>12.53 b</td><td>8.45 c</td><td>11.98 b</td><td>30.10 a</td><td>28.39 a</td><td>29.22 a</td></tr><tr><td>Harvest index (%)</td><td>49.93 a</td><td>34.46 b</td><td>34.96 b</td><td>33.47 b</td><td>49.20 a</td><td>50.34 a</td><td>51.46 a</td></tr><tr><td>Postanthesis N uptake (g/m2)</td><td>2.64 c</td><td>2.66 c</td><td>2.83 c</td><td>2.84 c</td><td>4.45 b</td><td>5.03 a</td><td>5.40 a</td></tr><tr><td>N translocation (g/m2)</td><td>6.91 b</td><td>5.91 c</td><td>5.84 c</td><td>5.70 c</td><td>8.24 a</td><td>8.28a</td><td>7.93 a</td></tr><tr><td>N translocation efficiency (%)</td><td>49.45 a</td><td>34.69 b</td><td>33.14 b</td><td>31.97 b</td><td>51.42 a</td><td>51.10 a</td><td>48.42 a</td></tr><tr><td>Contribution of preanthesis N to grain N accumulation (%)</td><td>72.34 a</td><td>68.95 a</td><td>68.36 a</td><td>69.76 a</td><td>61.93 b</td><td>62.21 b</td><td>58.62 b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression patterns of OsNRT2.1 and OsNAR2.1in different organs of the WT and transgenic lines ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rice was previously shown to have a two-component ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake system consisting of OsNRT2.1 and $O s N A R 2 . 1 ,$ similar to the system in Arabidopsis (Feng etal.，2011;Liu et al.，2014;Yan et al.,2011).We analysed the OsNRT2.1 and OsNAR2.1 expression patterns in the WT and transgenic lines during the filling stage.The detail about RNA samples was described in Figure S6 and Experimental procedures.The OsNRT2.1 expression pattern in the WT showed that OsNRT2.1 gene expressed most in root, secondly in leaf sheaths, thirdly in leaf bladesand internodesand lest in grain includingseed， palea and lemma (Table S5, Figure 3a).As for OsNAR2.1,it was expressed also most in root, secondly in leaf sheaths,thirdly in internodes and lest in grain and leaf blades (Table S5，Figure 3b).The coexpression pattern of OsNRT2.1 and OsNAR2.1happened in root，leaf sheaths, internodesand grain but not in leaf blades (Table S5,Figure S7). Compared with WT，the OsNRT2.1 expression increased by about 7.5-fold averagely in all organs of OE lines including root. The increase pattern of OsNRT2.1 in OE lines showed the similar trade as the native expression of OsNRT2.1 in the WT that was most in root,secondly in leaf sheaths,thirdly in leaf blades and internodes and lest in grain (Table S5,Figure 3a). It was very interesting that we found that in OE lines,the OsNAR2.1 was also increased with the pattern as most in root，secondly in leaf sheaths,thirdlyin internodes,fourthly in leaf blades and lest in grain (Table S5,Figure 3b).The coexpression increase pattern of OsNRT2.1 and OsNAR2.1 occurred in all organs of OE lines (Table S5,Figure S7). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with WT， the OsNRT2.1 expression was not changed in grain and leaf blades in O lines and increased in leaf sheaths,internodes and root significantly with a same pattern as ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WT，which is most in root,secondly in leaf sheaths,thirdly in internodes，fourthly in leaf blades and lest in grain (Table S5, Figure 3a).For OsNAR2.1 expression in O lines,it was also not increased in grain and leaf blades only increased in leaf sheaths, internodes and root significantly with a same pattern as WT, which was most in root，secondly in leaf sheaths，thirdly in internodesand lest in grainand leaf blades (Table S5,Figure3b). The coexpression increase pattern of OsNRT2.1 and OsNAR2.1 occurred in leaf sheaths,internodes and root of O lines (Table S5, Figure S7). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression patterns of OsNRT2.1 and OsNAR2.1 in different growth stages of the WT and transgenic lines ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study,we found that the OsNRT2.1 and OsNAR2.1 mRNA levels in the culms including the leaf sheath and internode (Figure S8) were significantly higher in all of the transgenic plants than in the WT plants (Figure 4a,b).OsNRT2.1 expression was $3 -$ 20-fold higher in the OE lines than in the WT,but was only $3 1 \\text{‰}$ $45 \\%$ higher in the O lines than in the WT (Figure 4a). OsNAR2.1 expression was two- to ninefold higher in the OE lines than in the WT and was one- to eightfold higher in the O lines than in the WT (Figure 4b). Throughouttheexperimental growthperiod, OsNRT2.1 expression Was significantly higher in the culms of the OE lines than the O lines,but no significant difference in OsNAR2.1 expression was observed between the OE and O transgenic lines. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the entire experimental growth period,no significant differences in the OsNRT2.1 and OsNAR2.1 expression were found between the leaf bladelof the O linesand WT plants,but the expression levels of both OsNRT2.1 and OsNAR2.1 were upregulated significantly in the OE plants relative to the WT (Figure S9). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Growth rate in transgenic lines ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "N transport and the growth of rice biomass are closely related, and OsNRT2.1 overexpression was previously shown to affect the rice growth (Katayama et al.,20o9). In this study,the OE and O lines began to show significantly higher biomass than WT plants at 45 days after transplanting and had accumulated $2 1 \\%$ and $3 8 \\%$ more biomass at 90 days (Figure 4c). The growth rates of the OE and O lines reached peak values at 6O days and were higher than those of the WT plants (Figure 4d).The growth rates of the OE and O lines were approximately $2 5 \\%$ and $5 8 \\%$ greater, respectively, than the WT.The growth rates of the transgenic and WT plants were identical after 75 days during the grain filling stage (Figure 4d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d299cf65606ee9c4f56cc129958eb6d247198b859d9206905718c18c09dcddad.jpg",
+        "img_caption": [
+            "Figure3ExpressopaeofOs.andONR1Relaieexpresioof(a)Osnd(b)OsA.1inrosorasat14after pollination.pUbi:OsNRT2.1 represents the average of OE1,OE2 and OE3. $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ represents the average of O6,O7 and O8.Statistical analyssaspefodtait4geneatiWeidtatevelopidftldtexprsasset bars:SE $\\langle n = 3 \\rangle$ .Significant differences between the transgenic linesand WT are indicated by different letters $\\langle P < 0 . 0 5$ ,one-way ANOVA). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The coexpression of OsNRT2.1 and OsNAR2.1 in the WT and transgenic plants ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The expression pattern of OsNRT2.1 and OsNAR2.1 in different organs showed that there exists a strong coexpression pattern of these two genes in rice plants (Figure S7)．The coexpression pattern of OsNRT2.1 and OsNAR2.1 was altered very much in OE lines compared with O and WT lines (Figure S7).The expression ratio of OsNRT2.1 and OsNAR2.1 is $5 . 4 : 1$ in the OE organs and $3 . 6 : 1$ in the O lines compared with $3 . 9 : 1$ in the WT organs (Figure S7).Furthermore,we specially investigated the ratio of OsNAR2.1 to OsNRT2.1 expression in root as $6 . 3 : 1$ in the OE lines, $4 . 1 : 1$ in the O lines and $4 . 2 : 1$ in the WT plants,with no significant differences between the O lines and WT plants (Table S5). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The culm is important for N storage and translocation in rice shoots. In rice shoot,OsNRT2.1 and OsNAR2.1 expression was expressed most in leafsheaths ofculm(Figure 3).Our expression data also confirmed that OsNRT2.1 and OsNAR2.1 expression in the culm could play a key role in ${ \\mathsf { N O } } _ { 3 } ^ { - }$ remobilization．To further study thepossiblerelationship between OsNRT2.1 and OsNAR2.1 expression and rice growth, we compared the ratio of OsNRT2.1 and OsNAR2.1 expression in rice plants.The expression ratio was approximately $1 1 . 3 : 1$ in the OE lines and approximately $4 . 7 : 1$ in the O lines compared withapproximately $7 . 2 : 1$ in the WT plants (Figure 5).We also investigated the ratioof $O s N A R 2 . 1$ to $O s N R T 2 . 1$ expression in leaf blade I.The expression ratio was $7 . 3 : 1$ in the OE lines, $4 : 1$ in the O lines and $5 . 2 : 1$ in the WT plants,with no significant differences between the O lines and WT plants (Figure S1O). The ratio of $O s N A R 2 . 1$ to OsNRT2.1 expression correlated with the grain yield. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N nutrition affects all levels of plant function,from metabolism to resource allocation，growth and development (Crawford,1995; Scheible et al.,1997,2004;Stitt,1999).As one formof available N nutrient to plants, ${ \\mathsf { N O } } _ { 3 } ^ { - }$ is taken up in the roots by active transport processes and stored in vacuoles in rice shoots (Fan et al.,2007;Li et al.,2008).In rice,OsNAR2.1 acts as a partner protein with OsNRT2.1 in the uptake and transport of ${ \\mathsf { N O } } _ { 3 } ^ { - }$ (Liu et al.,2014; Tang et al.,2012;Yan etal.,2011). OsNAR2.1 gene expression was shown to be up-regulated by ${ \\mathsf { N O } } _ { 3 } ^ { - }$ and downregulated by $N H _ { 4 } ^ { + }$ (Feng et al.,2011;Nazoa et al.,2003;Zhuo et al., 1999). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8b76b47d86ae74c7cab02fa70645f0fd8b0f587f3a213d13ba244af3865192f.jpg",
+        "img_caption": [
+            "Figure 4 Growth status of the wild-type (WT) and transgenic lines during the experimental growth period. (a) Changes in OsNRT2.1 expression over the experimental growth period. (b)Changes in OsNAR2.1 expression over the experimental growth period.RNA was extracted from culms.(c) Dry weight. Dry weight mean values are for all aboveground biomass,including the grain yield. (d) Growth rate.Samples were collectedat15-day intervalsafter seedlingswere transplanted to the field. Statistical analysis was performed on data derived from the T3 generation. Error bars:SE $\\langle n = 3 \\rangle$ . Din $x \\cdot$ -axis means the day after transplanting.The asterisk at the end of time course indicates their statistically significant differences among plants,and #statistically significant differences during the growthstages $P < 0 . 0 5$ ANCOVA). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f5d87e5d7a16c00b4d277c97076ab6a7cccd78c42997a5043fb884b809477be.jpg",
+        "img_caption": [
+            "Figure 5 Ratios of OsNRT2.1 to $O s N A R 2 . 1$ expression in culms of the wild-type (WT) and transgenic lines over the course of the study.The ratios of OsNRT2.1 and $O s N A R 2 . 1$ expression during different periods in the culms of $p U b i ; O s N R T 2 . 1$ lines (OE1,OE2 and OE3), $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ lines (O6,O7 and O8) and WT were presented. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rooke et al. (2ooO) reported that the maize Ubi-1 promoter had strong activity in young，metabolically active tissues and in pollen grains.Furthermore，Cornejo et al.(1993)performed histochemical localization of Ubi-GUS activity and showed that the Ubi promoter was most active in rapidly dividing cells; however，Chen et al. (2012）reported that the Ubi promoter drove strong OsPiN2 expression in all tissues. Chen et al. (2015) reported that ectopic expression of the $W O X 1 \\uparrow$ gene driven by the promoter of the OsHAK16 gene,which encodes a potassium (K) transporter that is induced by low Klevels,led to an extensive root system，adventitious roots and increased tiller numbers in rice.In contrast，WOX11 overexpression driven by the Ubi promoter induced ectopic crown roots in rice and failed to present any similar super growth phenotype in field (Zhao et al., 2009)as described by Chen et al. (2015).These results suggested that the use of a specific inducible promoter-driven gene function could be a good strategy for plant breeding. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study，OsNRT2.1 expression was up-regulated significantly in both the aboveground and underground parts of pUbi: OsNRT2.1 transgenic plants relative to the WT (Figure 1c),while OsNRT2.1 expression in pOsNAR2.1:OsNRT2.1 transgenic plants was increased significantly only in the roots and culms and not enhanced significantly in the leaves (Figure 1d).Specific induction of expression by the OsNAR2.1 promoter in rice roots and culms based on GUS fusion data has been reported previously (Feng et al.，2011);therefore，we investigated the effects of tissuespecific induction of OsNRT2.1 expression in roots and culms on plant growth and nitrogen-use efficiency (NUE). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Effect of pOsNAR2.1:OsNRT2.1 expression on NUE in transgenicrice ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "N redistribution during the reproductive stage was shown to vary significantly among cultivars and under various N management strategies (Souza et al.，1998).Mae and Ohira (1981) reported that a major proportion of N was redistributed from vegetative organs to panicles during grain filling, $6 4 \\%$ of which was derived from leaf bladesand $3 6 \\%$ from culms.The NTE values of the WT, pUbi:OsNRT2.1 and $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ plants wereaveragely $4 9 . 5 \\%$ 1 $3 3 . 4 \\%$ and $5 0 . 3 \\%$ ，indicating that N transfer from the shoots into grain was significantly less in pUbi:OsNRT2.1 transgenic plants than in the WT or $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ plants (Table 4).This lower level of N transfer from vegetative organs to grainduring grain filling in pUbi:OsNRT2.1 plants affected spike formation and final grain yield compared with the WT and $p O s N A R 2 . 1 { \\cdot } O s N R T 2 . 1$ plants (Table 1).The DMTE values for WT, pUbi:OsNRT2.1 and $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ plants were $2 2 . 1 \\%$ $5 . 5 \\%$ and $2 2 . 1 \\%$ ，averagely (Table 4） demonstratingthat markedly less dry matter was transferred into grain yield in the pUbi:OsNRT2.1 lines.These data confirmed that the transport of Nand biomass during the transition from the flowering to harvest stagesaffected the final yield and NUE of rice (Zhang etal.,2009) and also indicated that the Ubi promoter decreased N and biomass translocation,while the OsNAR2.1 promoter did not. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In both types of OsNRT2.1 overexpression line,NT was reduced during the reproductive stage and NUE was reduced before flowering.The CPAY average values of the WT,pUbi:OsNRT2.1 and $p O s N A R 2 . \\ 1 { : } O s N R T 2 . \\ 1$ plantswere $2 8 . 5 \\%$ 1 $1 1 \\%$ and $3 4 . 9 \\%$ respectively.The CPAY of the $p O s N A R 2 . \\ 1 { : } O s N R T { 2 } . \\ 1$ plants was higher than that of the WT plants that had higher CPAY than the pUbi:OsNRT2.1 plants (Table 4).The Hl wasmuch lower for the pUbi:OsNRT2.1 plants than for the WT or $p O s N A R 2 .  { 1 : } O s N R T 2 .  { 1 }$ （204 plants (Table 4), indicating that the Ubi promoter affected ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake and N use before the flowering stage and that levels of OsNRT2.1 overexpression in rice that were excessive did not benefit N use during either the vegetative or reproductive stages. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The coexpression pattern of OsNRT2.1 and OsNAR2.1 is an important factor controlling N transport in rice ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "How to assess the effect of ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter expression on rice NUE is a key question for rice breeding.The ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter, OsNRT1.1B,was shown to improve the NUE of rice by approximately $30 \\%$ (Hu et al.，2015),while our data showed that not the higher expression level of ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter was relative to the higher yield and NUE of rice (Tables1and 4,and Figure 4).After determining the expression levels of OsNRT2.1 and its partner gene，OsNAR2.1，we calculated the coexpression ratio of these genes in rice plants. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The coexpression pattern of OsNRT2.1 and OsNAR2.1 happened in the WT and transgenic plants (Figures 3 and 4, Table S5). However, the coexpression pattern of OsNRT2.1 and OsNAR2.1 was changed in OE lines compared with O and WT lines (Figure S7)，which suggested thatOsNRT2.1 driven by different promoters had a different coexpression patterns with OsNAR2.1. But it is still not clear that why increasing OsNRT2.1 expression would induce OsNAR2.1 expression and what mechanism exists behind the coexpression pattern of OsNRT2.1 and OsNAR2.1 in the gene regulation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "However, the ratio changes of OsNRT2.1 to OsNAR2.1 expression may be a clue for the explanation of the rice growth and nitrogen-use difference in the WT and transgenic lines.The ratio changes of OsNRT2.1 to OsNAR2.1 expression in different organs were increased significantly in pUbi:OsNRT2.1 lines compared with WT and pOsNAR2.1:OsNRT2.1 lines (Figure S7).Also during the growth stages, the ratio of OsNRT2.1 to OsNAR2.1 expression in culm (including the internode and leaf sheath)was increased in pUbi:OsNRT2.1 lines compared with WT and the $p O s N A R 2 . 1$ ： OsNRT2.1 lines (Figure 5).These data indicated that the interaction between OsNRT2.1 and OsNAR2.1 in pUbi:OsNRT2.1 plants differed from WT and that in the pOsNAR2.1:OsNRT2.1 lines. Furthermore in culms,pOsNAR2.1:OsNRT2.1 lines showed a lower expression ratio of these two genes,in which more OsNAR2.1 protein may be available to interact with OsNRT2.1 protein. Therefore,the efficiency of OsNRT2.1 function in rice plants should differbetween the two types of transgenic plants resulting in different rice yield and NUE phenotypes.On the other hand, the higher expression of OsNRT2.1and OsNAR2.1 in all the organs of pUbi:OsNRT2.1 than WT may cause some disadvantages to plants such as high cost for mRNA synthesis or disturbing of nitrogen transport in the leaf blades.All possibilities remain to be confirmed by further analysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study,we showed that the rice yield and NUE could be improved byincreasing OsNRT2.1 expression，especiallyin combination with a lower expression ratio with its partner gene OsNAR2.1,which encodes a high-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Construction of vectors and rice transformation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Weamplified the OsNRT2.1/OsNRT2.2 ORF sequence，which is identical for both genes,from cDNA isolated from Oryza sativa L. ssp.Japonica cv.Nipponbare using the primers listed in Table S1. Weamplified the OsNAR2.1 and ubiquitin promoters from the pOsNAR2.1(1698bp):GUS (Feng et al.，2011) and pUbi:OsPIN2 (Chen et al.，2012）constructs,respectively，using the primers listed in Table S2.The PCR products were cloned into the pMD19-T vector (TaKaRa Biotechnology，Dalian，China）and confirmed by restriction enzyme digestion and DNA sequencing. The pUbi:OsNRT2.1 and pOsNAR2.1:OsNRT2.1 vectors Were constructed as shown in Figure S1.These constructs were introduced into Agrobacterium tumefaciens strain EHA105by electroporation and then transformed into rice as described previously (Tang et al.,2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Southern blot analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transgene copy number was determined by the Southern blot analysis following procedures described previously (Jiaet al., 2011).Briefly， genomic DNA was extracted from the leaves of wild type (WT)and digested with Hindlll and EcoRl restriction enzymes. The digested DNA was separated on a $1 \\%$ (w/v) agarose gel，transferred to a Hybond $\\cdot \\mathsf { N } ^ { + }$ nylon membrane and hybridized with hygromycin-resistant gene. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biomass, total nitrogen (N) measurement and calculation of NUE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WT and transgenic rice plants were harvested at 9:oo a.m.and heated at $1 0 5 ^ { \\circ } { \\mathsf C }$ for $3 0 ~ \\mathrm { m i n }$ .Panicles, leavesand culmswere then dried at $7 5 ~ ^ { \\circ } C$ for 3 days.Dry weights were recorded as biomass values.Samples collected at 15-day intervals from WT and transgenic lines grown in soil in pots were used to calculate whole-plant biomass values. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Total N content was measured using the Kjeldahl method (Li et al.,2oo6).The total dry weight (biomass) was estimated as the sum of weights of all plant parts.Total N accumulation was estimated as the sum of the N contents of all plant parts. AgronomicNUE(ANUE， $_ { \\mathfrak { g } / \\mathfrak { g } ) }$ wascalculatedas(grain yield - grain yield of zero N plot)/N supply; NRE $( \\% )$ was calculated as (total N accumulation at maturity for N-treated plot - total N accumulation at maturity of zero N plot)/N supply; physiologicalNUE(PNUE， ${ \\mathfrak { g } } / { \\mathfrak { g } } ,$ ）was calculatedas (grain yield - grain yield of zero N plot)/total N accumulationat maturity;and the NHI $( \\% )$ was calculated as (grain N accumulation at maturity/total N accumulation at maturity).Dry matter and NT and translocation efficiency method for the calculation of the reference in Ntanos and Koutroubas (2oo2) and Zhang et al. (2009).Dry matter translocation (DMT, $\\mathsf { g } / \\mathsf { m } ^ { 2 } )$ was calculated as dry matter at anthesis - (dry matter at maturity - grain yield); dry matter translocation efficiency (DMTE, $\\%$ wascalculatedas (dry matter translocation/dry matter at anthesis) $\\times ~ 1 0 0 \\%$ ;the CPAY $( \\% )$ was calculated as (dry matter translocation/grain yield) $\\times ~ 1 0 0 \\%$ ；the HI $( \\% )$ was calculated as (grain yield/dry matter at maturity) $\\times ~ 1 0 0 \\%$ ；PANU $( { \\mathsf { g } } / { \\mathsf { m } } ^ { 2 } )$ was calculated as total N accumulation at maturity - total N accumulation at anthesis;NT $( { \\mathsf { g } } / { \\mathsf { m } } ^ { 2 } )$ was calculated as total N accumulation at anthesis - (total N accumulation at maturity - grain N accumulation at maturity);NTE $( \\% )$ was calculated as (N translocation/ total N accumulation atanthesis) $\\times ~ 1 0 0 \\%$ and the CPNGN $( \\% )$ was calculated as (N translocation/grain N accumulation at maturity) $\\times ~ 1 0 0 \\%$ (Table S4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The growth conditions for TO to T4 transgenic plants ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TO,T2,T3 and T4 generation plants were grown in plots at the Nanjing Agricultural University in Nanjing, Jiangsu (Figure S11). T1 generation plants were grown in Sanya,Hainan. Jiangsu is in a subtropical monsoon climate zone.Chemical properties of the soils in the plots at the Nanjing Agricultural University included organic matter, $1 1 . 5 6 ~ \\mathrm { g / k g ; }$ total N content, $0 . 9 1 \\ { \\mathfrak { g } } / { \\ k \\mathfrak { g } } ;$ available P content, $1 8 . 9 1 \\mathrm { \\ m g / k g } ;$ exchangeable K, $1 8 5 . 6 7 ~ \\mathrm { { m g / k g } } ;$ and pH 6.5.Basal applications of $3 0 ~ \\mathsf { k g }$ P/ha $\\mathrm { \\cdot } \\mathsf { C a } ( \\mathsf { H } _ { 2 } \\mathsf { P O } _ { 4 } ) _ { 2 } )$ and $6 0 ~ \\mathsf { k g } / \\mathsf { K }$ ha (KCI)were made to all plots 3 days before transplanting.N fertilizeraccountedfor $40 \\%$ $30 \\%$ and $40 \\%$ of thetotal Nfertilizer Was applied prior to transplanting，at tillering，just before the heading stage，respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The field experiments for yield harvest ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TO-T4 generation seedlings were planted in the same experiment site in Nanjing,except T1 in Sanya.Seed generation transgenic lines and WT were surface-sterilized with $10 \\%$ （ $( \\mathsf { v } : \\mathsf { v } )$ hydrogen peroxide $( H _ { 2 } O _ { 2 } )$ for $3 0 ~ \\mathrm { m i n }$ and rinsed thoroughly with deionized water.The transgenic seeds were soaked in water containing $2 5 ~ \\mathrm { m g / L }$ hygromycin,and the WT seeds were soaked in water. After3 days,the sterilized seeds were sown evenly in wet soil. The similar seedlings were transplanted to field plots after 3weeks of germination. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "T1-T3 plants were planted in plots fertilized at a rate of $3 0 0 ~ \\mathsf { k g } ~ \\mathsf { N / h a }$ as urea and in plots without N fertilization.Plots were $2 \\times 2 . 5 ~ \\mathsf { m }$ in size with the seedlings planted in a $1 0 \\times 1 0$ array.Plants at the edges of all four sides of each plot were removed at maturity to avoid the influence of edge effects.Four points,each containing four seedlings,totally 16 seedlings,were selected randomly within the remaining centre $8 \\times 8$ array of plants，and samples were collected (Khuram et al.， 2013; Ookawa et al.，2010;Pan et al.，2013;Srikanth et al.，2016). Yield and biomass values determined from these four points in each plot were used to calculate the yield per hectare and biomass of each line,and three random plots for each line were designed in the experiment (Figure S11). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "T3 generation plants were sampled at 15-day intervals for the determination of the grain yield,biomass and N content.The growth rate was the dry weight of the weight increase in the unit time after seedlings were transplanted to the plots. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "T4 generation plants were planted in a plot fertilized at a rate of 0,180 and $3 0 0 ~ \\mathsf { k g }$ N/ha as urea.Same random field plots with three replicates were designed as T1-T3 plants for yield，and biomass values determined from these four points were used to calculate the yield and biomass per plant and ANUE of each line. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "mRNA sampling and qRT-PCR assay ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To investigate the expression pattern in plant organs,we sampled mRNA forseeds,paleaand lemma,leaf bladeI,leafblade Il, leaf blade Ill,leaf sheath I,leaf sheath I, leaf sheath Ill,internodeI, internode Il,internode Ill and newly developed root (3 cm from root tips)at the grain filling stage (described in Figure S6). Tracking rice in the whole growth period of gene expression in T3 generation,we sampled mRNA from culms including leaf sheath and internode I(described in Figure S8) at 15,30,45,60,75 and 90 days after transplanting. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Total RNAs were prepared from the various tissues of the WT and transgenic plants using TRlzol reagent (Vazyme Biotech Co., Ltd，http://www.vazyme.com). Real-time PCR was carried as described before (Li et al.，2014).All primersused for qRT-PCR are listed in Table S3. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data were analysed by Tukey's test of one-way analysis of variance (ANOVA),except that analysis of covariate (ANCOVA) Was used in the biomass and growth rate during growth stages (Figure 4a,b).Different letters on the histograms or after mean values indicate statistically significant differences at $P < 0 . 0 5$ between the transgenic plants and WT (one-way ANOVA).The asterisk at the end of time course indicates their statistically significant differences among plants,and #statistically significant differences during the growth stages at $P < 0 . 0 5$ (ANCOVA). AII statistical evaluations were conducted using the IBM SPSS Statistics version 2O software (SPSS Inc., Chicago,IL). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation (No.31372122,31172013) and Nanjing 321 Talents Program.The English in this document has been checked by two native speakers of English,and fora certificate,please see:http:// www.textcheck.com/certificate/SoEldm. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chen,Y.,Fan,X.,Song,W.,Zhang,Y.and Xu,G. (2012) Over-expression of OsPIN2 leads to increased tiler numbers,angle and shorter plant height through suppression of OsLAZY1.Plant Biotechnol.J.10, 139-149.   \nChen，G.，Feng，H.，Hu，Q.，Qu,H.，Chen，A.，Yu,L.and Xu，G. (2015） Improving rice tolerance to potassium deficiency by enhancing OsHAK16p:WOX11-controlled root development.Plant Biotechnol. J.13, 833-848.   \nCornejo,M.J.，Luth,D.，Blankenship,K.M.，Anderson,O.D.and Blechl,A.E. (1993)Activity of a maize ubiquitin promoter in transgenic rice.Plant Mol. Biol. 23, 567-581.   \nCoruzzi, G.and Bush, D.R. (2oo1) Nitrogen and carbon nutrient and metabolite signaling in plants.Plant Physiol.125,61-64.   \nCoruzzi，G.M.and Zhou,L.(2oo1） Carbon and nitrogen sensingand signaling in plants:emerging ‘matrix effects'.Curr.Opin.Plant Biol.4, 247-253.   \nCrawford,N.M.(1995) Nitrate: nutrient and signal for plant growth.Plant Cell, 7,859-868.   \nCrawford,N.M.and Forde,B.G.(20o2) Molecular and developmental biology of inorganic nitrogen nutrition.In The Arabidopsis Book (Meyerowitz, E.M., ed.),pp.1-25.Rockville,MD:American Society of Plant Biologists.   \nCrawford,N.M.and Glass,A.D.M.(1998) Molecular and physiological aspects ofnitrateuptake in plants. Trends Plant Sci.3,389-395.   \nFan,X.,Shen,Q.,Ma,Z., Zhu,H.,Yin,X.and Miller,A.J.(2005)A comparison of nitrate transport in four different rice (Oryza sativa L.) cultivars.Sci. China C Life Sci. 48,897-911.   \nFan,X.,Jia,L., Li,Y.,Smith,S.J.,Miller,A.J.and Shen,Q.(20O7) Comparing nitrate storage and remobilization in two rice cultivars that differ in their nitrogen use efficiency.J. Exp. Bot.58,1729-1740.   \nFeng,Q., Zhang,Y.,Hao,P.,Wang,S.,Fu,G.,Huang,Y., Li,Y.et al. (2002) Sequence and analysis of rice chromosome 4.Nature,420,316-320.   \nFeng,H.,Yan,M.,Fan,X.,Li, B.,Shen,Q.,Miller,A.J.and Xu,G. (2011) Spatial expression and regulation of rice high-affinity nitrate transporters by nitrogen and carbon status.J. Exp. Bot.62,2319-2332.   \nHu,B.，Wang,W.,Ou,S.,Tang,J.,Li,H.,Che,R.,Zhang,Z.et al. (2015) Variation in NRT1.1B contributes to nitrate-use divergence between rice subspecies. Nat. Genet. 47,834-838.   \nJia,H.,Ren,H.,Gu,M., Zhao,J.,Sun,S., Zhang,X.,Chen,J.et al.(2O11) The phosphate transporter gene OsPht1;8 is involved in phosphate homeostasis in rice. Plant Physiol.156,1164-1175.   \nKatayama,H.,Mori, M., Kawamura,Y.,Tanaka,T.,Mori,M.and Hasegawa,H. (2009) Production and characterization of transgenic rice plants carrying a high-affinity nitrate transporter gene (OsNRT2.1). Breed. Sci.59,237-243.   \nKhuram,M.,Asif,I.,Muhammad,H.,Faisal,Z., Siddiqui,M.H.,Mohsin,A.U., Bakht,H.F.S.G.et al. (2013) Impact of nitrogen and phosphorus on the growth,yieldand qualityof maize (Zea mays L.)fodder inPakistan.Philipp.J. Crop Sci. 38,43-46.   \nKirk，G.J.D.and Kronzucker，H.J.(2oo5) The potential for nitrification and nitrate uptake in the rhizosphere of wetland plants: a modelling study. Ann. Bot. 96,639-646.   \nKronzucker，H.J.，Glass，A.D.M.，Siddiqi，M.Y.and Kirk，G.J.D．(2000) Comparative kinetic analysis of ammonium and nitrate acquisition by tropical lowland rice:implications for rice cultivation and yield potential New Phytol.145,471-476.   \nLi, B.Xin,W.,Sun,S., Shen,Q.and Xu,G.(2O06)Physiological and molecular responses of nitrogen-starved rice plants to re-supply of different nitrogen sources.Plant Soil,287,145-159.   \nLi,Y.L.,Fan,X.R.and Shen,Q.R. (2008)The relationship between rhizosphere nitrification and nitrogen-use efficiency in rice plants. Plant Cel Environ.31, 73-85.   \nLi,Y.,Gu,M,Zhang,X,Zhang,J,Fan,H,Li,P,Li,Z.etal. (2O4)Engineering asensitive visual tracking reporter system forreal-time monitoring phosphorus deficiency in tobacco. Plant Biotechnol.J.12, 674-684.   \nLiu,X.,Huang,D.,Tao,J.,Miller,A.J.,Fan,X.and Xu,G.(2014)Identification and functional assay of the interaction motifs in the partner protein OsNAR2.1 of the two-component system for high-affinity nitrate transport. New Phytol. 204,74-80.   \nMae,T.and Ohira,K.(1981) The remobilization of nitrogen related to leaf growth and senescence in rice plants (Oryza sativa L.).Plant Cell Physiol. 22, 1067-1074.   \nNazoa，P.,Vidmar,J.J.，Tranbarger,T.J.,，Mouline,K.，Damiani,I.，Tilard，P., Zhuo,D.et al.(2Oo3) Regulation of the nitrate transporter gene AtNRT2.1 in Arabidopsis thaliana: responses to nitrate,amino acids,and developmental stage.Plant Mol.Biol.52,689-703.   \nNtanos,D.A.and Koutroubas, S.D.(2oo2) Dry matter and N accumulation and translocation for Indica and Japonica rice under Mediterranean conditions. Field.Crop.Res.74,93-101.   \nOkamoto,M., Kumar,A.,Li,W.,Wang,Y., Siddiqi, M.Y., Crawford, N.M. and Glass，A.D.(20o6) High-affinity nitrate transport in roots of Arabidopsis depends on expression of the NAR2-like gene AtNRT3.1.Plant Physiol.140, 1036-1046.   \nOokawa,T.，Hobo,T.,Yano,M.，Murata,K.,Ando,T.,Miura，H.，Asano,K. et al.(2010) New approach for rice improvement using a pleiotropic QTL gene for lodging resistance and yield. Nat. Commun.1,132.   \nOrsel,M.,Chopin,F.,Leleu,O.,Smith,S.J.,Krapp,A.,Daniel-Vedele,F.and Miller,A.J. (2oo6) Characterization of a two-component high-affinity nitrate uptake system in Arabidopsis.Physiology and protein-protein interaction. Plant Physiol.142,1304-1317.   \nPan,S.,Rasul,F.,Li,W.,Tian,H.,Mo,Z., Duan,M.and Tang,X.(2O13) Roles of plant growth regulators on yield,grain qualities and antioxidant enzyme activities in super hybrid rice (Oryza sativa L.). Rice,6,9.   \nQuesada，A.，Galvan，A.and Fernandez,E.(1994) Identification of nitrate transporter genes in Chlamydomonas reinhardtii.Plant J.5,407-419.   \nRooke,L., Byrne,D.and Salgueiro,S. (2ooo)Marker gene expression driven by the maize ubiquitin promoter in transgenic wheat.Ann. Appl. Biol.136,167-172.   \nSasakawa,H.and Yamamoto, Y.(1978) Comparison of the uptake of nitrate and ammonium by rice seedlings.Plant Physiol. 62, 665-669.   \nSasaki,T.,Matsumoto,T.,Yamamoto,K.et al.(2oo2) The genome sequence and structure of rice chromosome 1. Nature,420,312-316.   \nScheible,W.R.,Gonzalez-Fontes,A.,Lauerer,M.,Muller-Rober,B.,Caboche, M.and Stitt,M.(1997) Nitrate acts as a signal to induce organic acid metabolism and repress starch metabolism in tobacco. Plant Cell,9,783-798.   \nScheible,W.R.,Morcuende,R.,Czechowski,T.,Fritz,C.,Osuna,D.,PalaciosRojas,N.，Schindelasch,D.et al. (2O04) Genome-wide reprogramming of primary and secondary metabolism，protein synthesis，cellular growth processes,and the regulatory infrastructure of Arabidopsis in response to nitrogen.Plant Physiol.136,2483-2499.   \nSouza，S.R.， Stark，E.M.L.M.andFernandes, M.S.(1998) Nitrogen remobilization during the reproductive period in two Brazilian rice varieties. J.Plant Nutr.21,2049-2063.   \nSrikanth,B.,Subhakara,R.I.,Surekha,K.,Subrahmanyam,D.,Voleti, S.R.and Neeraja， C.N. (2016) Enhanced expression of OsSPL14 gene and its association with yield components in rice (Oryza sativa) under low nitrogen conditions. Gene,576,441-450.   \nStitt,M.(1999) Nitrate regulation of metabolism and growth.Curr. Opin. Plant Biol. 2, 178-186.   \nTang,Z.，Fan,X.，Li,Q.,Feng,H.，Miller,A.J.，Shen,Q.and Xu,G. (2012) Knockdown ofa rice stelarnitrate transporter alters long-distance translocation but not root influx.Plant Physiol.160,2052-2063.   \nWang,R.,Guegler,K.,LaBrie,S.T.and Crawford,N.M.(2ooO) Genomic analysis of a nutrient response in Arabidopsis reveals diverse expression patterns and novel metabolic and potential regulatory genes induced by nitrate.Plant Cell, 12,1491-1509.   \nXu,G.，Fan,X.and Miller,A.J. (2012) Plant nitrogen assimilation and use efficiency.Annu.Rev. Plant Biol.63,153-182.   \nYan,M.，Fan,X.，Feng,H.，Miller,A.J.，Sheng,Q.and Xu,G.(2011）Rice OsNAR2.1 interacts with OsNRT2.1，OsNRT2.2 and OsNRT2.3a nitrate transporters to provide uptake over high and low concentration ranges. Plant,Cell Environ.34,1360-1372.   \nYong,Z.,Kotur,Z.and Glass,A.D. (2010) Characterization of an intact twocomponent high-affinity nitrate transporter from Arabidopsis roots.Plant J. 63, 739-748.   \nZhang,H.and Forde,B.G.(2ooO) Regulation of Arabidopsis root development by nitrate availability.J. Exp. Bot.51,51-59.   \nZhang,Y.L., Fan,J.B.,Wang,D.S.and Shen,Q.R. (2oo9) Genotypic differences in grain yield and physiological nitrogen use efficiency among rice cultivars. Pedosphere,19,681-691.   \nZhao,Y.,Hu,Y.,Dai,M.，Huang,L.and Zhou,D.X.(2009) The WUSCHELrelated homeobox gene WOX11 is required to activate shoot-borne crown root development in rice.Plant Cell,21,736-748.   \nZhuo,D.,Okamoto,M.,Vidmar,J.J.and Glass,A.D.(1999) Regulation of a putative high-affinity nitrate transporter (Nrt2;1At) in roots of Arabidopsis thaliana.Plant J.17,563-568. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Diagram of (a) pUbi:OsNRT2.1 and (b) pOsNAR2.1: OsNRT2.1 constructs.   \nFigure S2 Characterization of TO generation transgenic lines. Figure S3 Grain yield and dry weight of WT and T1 generation transgenic plants.   \nFigure S4 Southern blot analysis of transgene copy number. Figure S5 Grain yield，dry weight and ANUE of WT and T4 generation transgenic plants under low and normal N supplies. Figure S6 The diagram of RNA sampling in T4 generation transgenic lines and WT plants.   \nFigure S7 Ratios of OsNRT2.1 to OsNAR2.1 expression in different organs of WT and transgenic lines.   \nFigure S8 The diagram of RNA samplingin T3 generation transgenic lines and WT plants.   \nFigure S9 Changes in genes expression in leaf blade Ithroughout the experimental growth period.   \nFigure S10 Ratios of OsNRT2.1 and OsNAR2.1 expression in the leaf blade lof WT and transgenic plants during different periods Figure S11 A field experiment picture of WT and T3 generation transgenic plants.   \nTable S1 Primers used to amplify the OsNRT2.1 open reading frame. Table S2 Primers used to amplify the OsNAR2.1 and Ubiquitin promoters.   \nTable S3 Primers used to detect OsActin，OsNAR2.1，and OsNRT2.1 gene expression. Table S4 Methods of NUE calculations.   \nTable S5 Real-time quantitative RT-PCR analysis of endogenous OsNRT2.1 and OsNAR2.1 expression in various transgenic lines and wild-type (WT) plants. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

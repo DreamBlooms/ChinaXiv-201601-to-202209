@@ -1,0 +1,208 @@
+饲粮铁水平对山麻鸭产蛋性能、蛋品质及肝脏和血液指标的影响夏伟光 林映才\* 郑春田\* 陈伟阮栋王爽李燕（广东省农业科学院动物科学研究所，畜禽育种国家重点实验室，农业部华南动物营养与饲料重点实验室，广东省动物育种与营养公共实验室，广东省畜禽育种与营养研究重点实验室，
+
+广州 510640)
+
+摘要：本试验通过研究饲粮铁水平对山麻鸭产蛋性能、蛋品质及肝脏和血液指标的影响，旨在探讨产蛋期（17\~30 周龄）蛋鸭对饲粮铁的需要量。选用15 周龄的山麻鸭 432羽，随机分为6个组，每组6个重复，每个重复12羽，单笼饲养。试验蛋鸭饲喂不添加铁的基础饲粮（含铁 $5 2 . 2 ~ \mathrm { m g / k g }$ ）2周后，分别在基础饲粮中添加0、15、30、45、60、75mg/kg 的一水合硫酸亚铁（ $\mathrm { F e S O } _ { 4 } { \cdot } \mathrm { H } _ { 2 } \mathrm { O }$ )，试验饲粮铁水平分别为52.2、67.2、82.2、97.2、112.2和$1 2 7 . 2 \mathrm { m g / k g }$ 。试验期14周。结果表明：1）产蛋初期（17\~18 周龄），随着饲粮铁水平的提高，平均蛋重先升高后降低，其中饲粮铁水平为67.2、82.2 和 $9 7 . 2 \mathrm { m g / k g }$ 组的平均蛋重显著高于 $1 1 2 . 2 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。产蛋高峰期（19\~30周龄）和试验全期（17\~30周龄），饲粮铁水平对蛋鸭日采食量、产蛋率、平均蛋重、日产蛋重和料蛋比均无显著影响（ $. P { > } 0 . 0 5 \$ ）。2）随着饲粮铁水平的提高，蛋黄色泽呈先升高后下降趋势，饲粮铁水平为 $9 7 . 2 ~ \mathrm { m g / k g }$ 组蛋黄色泽最高。3）肝脏铁含量随饲粮铁水平的提高而呈上升趋势，其中饲粮铁水平为127.2mg/kg组的铁含量显著高于 $5 2 . 2 ~ \mathrm { m g / k g }$ 组（ $P { < } 0 . 0 5$ ）。4）随着饲粮铁水平的提高，肝脏过氧化氢酶（CAT）活性呈先升高后下降趋势，其中饲粮铁水平为 $6 7 . 2 ~ \mathrm { m g / k g }$ 组CAT 活性显著高于97.2、112.2 和 $1 2 7 . 2 \mathrm { m g / k g }$ 组( $. P { < } 0 . 0 5$ ）。饲粮铁水平对肝脏琥珀酸脱氢酶 (SDH)
+
+活性无显著影响（ $. P { > } 0 . 0 5$ ）。5）血红蛋白浓度和红细胞压积随饲粮铁水平的提高而上升；饲粮铁水平为97.2、112.2和 $1 2 7 . 2 \mathrm { m g / k g }$ 组的血红蛋白浓度显著高于 $5 2 . 2 \mathrm { m g / k g }$ 组 $. P { < } 0 . 0 5 )$ ），饲粮铁水平为112.2 和 $1 2 7 . 2 \mathrm { m g / k g }$ 组的红细胞压积显著高于 $5 2 . 2 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。6)以平均蛋重为指标，通过二次曲线模型的回归方程可获得产蛋初期山麻鸭饲粮适宜铁水平为$7 3 . 9 ~ \mathrm { m g / k g }$ 。综合考虑，建议产蛋初期山麻鸭饲粮铁水平为 $7 3 . 9 ~ \mathrm { m g / k g }$ ，产蛋高峰期为52.2mg/kg 。
+
+关键词：铁；蛋鸭；产蛋性能；蛋品质中图分类号：S834
+
+铁是动物机体正常生命活动所必需的微量元素之一，是血红蛋白、肌红蛋白、细胞色素和多种氧化酶的重要组成成分，主要参与氧的转运、交换和组织氧化代谢等生理功能。在机体中，约有 $2 0 \%$ 的铁主要分布于肝脏、脾脏和骨髓中，包括铁蛋白和含铁血黄素等[1]，还有部分以铁蛋白的形式存在[2]。铁在植物源性饲粮中主要包括饲料原料和矿物元素添加剂的无机铁[3]，其中饲料原料的无机铁成分较为复杂，多为三价铁离子（ $\mathrm { F e } ^ { 3 + }$ )，容易与植酸、草酸和磷酸等形成大分子不溶物，不利于被动物吸收利用[4。家禽饲粮中一般添加价格较为便宜且比Fe3+容易吸收的硫酸亚铁(FeSO4)。铁摄入过低或者吸收障碍均容易导致缺铁性贫血。当铁摄入过量时，虽然动物在一定程度上可通过膜铁转运蛋白1将铁从细胞内转运到血液，然后由血液的转铁蛋白将其转运到其他组织中利用或由铁蛋白储存[5]，但饲粮中过量添加的铁会随着动物的粪便排出体外，造成一定的浪费。因此，获得最佳生产性能的二价铁离子（ $\mathrm { F e } ^ { 2 + }$ ）适宜添加量对动物生产具有重要的指导意义。然而，目前关于蛋禽铁需要量的研究较少，尤其是蛋鸭铁需要量未见有研究报道。宋金昌等[研究表明，以产蛋率为评价指标，建议产蛋期蛋鸡玉米-豆粕型饲粮铁的适宜添加量为40\~42mg/kg。本试验旨在研究饲粮铁水平对蛋鸭产蛋性能、蛋品质、蛋黄和肝脏铁含量、肝脏含铁酶活性及血液指标的影响，以确定产蛋期蛋鸭对铁的需要量，为配制蛋鸭饲粮提供数据支持。
+
+# 1材料与方法
+
+# 1.1试验动物与饲养管理
+
+选择健康、采食正常、起始体重无显著差异（ $P { > } 0 . 0 5$ ）的15周龄山麻鸭432羽，随机分为6组，每组6个重复，每个重复12羽。试验蛋鸭全程采用双层不锈钢镀锌笼子（ $( 2 7 . 8 \mathrm { c m } { \times } 4 0 . 0$ $\mathrm { c m } { \times } 5 5 . 0 ~ \mathrm { c m }$ ）进行单笼饲养，所有试验蛋鸭饲喂不添加铁的基础饲粮（含铁 $5 2 . 2 ~ \mathrm { m g / k g }$ ）2周，随后分别在基础饲粮中添加0、15、30、45、60、75mg/kg的一水合硫酸亚铁 $\mathrm { ^ { \prime } F e S O _ { 4 } { \cdot } H _ { 2 } O }$ ）（以 $\mathrm { F e } ^ { 2 + }$ 计)，试验饲粮铁水平分别为52.2、67.2、82.2、97.2、112.2和 $1 2 7 . 2 ~ \mathrm { m g / k g }$ 。试验期14周。在育雏期和育成期按常规免疫程序免疫接种鸭病毒性肝炎弱毒苗、传染性浆膜炎和禽流感疫苗。试验期间提供蛋鸭经除铁设备过滤的净化处理水，自由采食饮水，每日光照16h（强度不少于 $1 5 \mathrm { l x } / \mathrm { m } ^ { 2 }$ )，准确记录每天06：00、12：00和18：00的温度、湿度和天气情况。
+
+# 1.2试验设计与饲粮组成
+
+采用单因子完全随机设计，试验饲粮采用玉米-干酒糟及其可溶物(DDGS)-大豆浓缩蛋白型基础饲粮，其营养水平参照本课题组前期试验结果[7-12]确定。基础饲粮组成及营养水平见表1，其铁含量实测值为 $5 2 . 2 \mathrm { m g / k g }$ 。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels4)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>61.75</td><td>代谢能ME/(MJ/kg)</td><td>10.46</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>6.12</td><td>粗蛋白质 CP</td><td>17.00</td></tr><tr><td>大豆浓缩蛋白 Soybean protein concentrate</td><td>16.66</td><td>钙Ca</td><td>3.60</td></tr><tr><td>大豆油 Soybean oil</td><td>4.00</td><td>总磷TP</td><td>0.66</td></tr><tr><td>磷酸氢钙 CaHPO41)</td><td>1.37</td><td>有效磷 AP</td><td>0.35</td></tr><tr><td>碳酸钙 CaCO32)</td><td>8.71</td><td>赖氨酸Lys</td><td>0.90</td></tr><tr><td>食盐 NaCl</td><td>0.25</td><td>蛋氨酸 Met</td><td>0.40</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.14</td><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.71</td></tr><tr><td>预混料 Premix3)</td><td>1.00</td><td>铁 Fe/(mg/kg)</td><td>52.2</td></tr></table></body></html>
+
+1)食品级，铁含量实测值为 $8 ~ \mathrm { m g / k g }$ 。 Food grade, Fe content is measured with $8 ~ \mathrm { m g / k g }$
+
+2)试剂级，铁含量实测值为 $3 . 5 ~ \mathrm { m g / k g }$ 。 Reagent grade, Fe content is measured with 3.5 mg/kg.
+
+3)预混料为每千克饲粮提供 The premix provides the following per $\mathbf { k g }$ of the diet: VA 8 000IU， $\mathrm { V D } _ { 3 }$ 2 400 IU, VE $2 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ 胆碱choline $5 0 0 ~ \mathrm { { \ m g } }$ ，烟酸niacin $1 5 \ \mathrm { \ m g }$ ，叶酸 folic acid $1 \ \mathrm { m g }$ ， $D _ { \mathbf { \alpha } }$ 泛酸钙 $D$ -calciumpantothenate $2 0 \mathrm { m g }$ ，生物素biotin $0 . 2 \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， $\mathrm { M n ~ 1 0 0 ~ m g }$ ， $\mathrm { Z n 9 0 ~ m g }$ ， $\mathrm { { I 0 . 4 m g } }$ ， Se 0.36mg， $\mathrm { C o } 0 . 2 6 \ : \mathrm { m g }$ 。
+
+4)铁为实测值,其余为计算值。Fe is a measured value,while the others are calculated values.
+
+# 1.3测定指标及方法
+
+# 1.3.1饲料样品测定
+
+饲粮铁含量的检测先参照Huang等[13]的方法加以修改进行浓酸消化前处理，即称1g样品于 $5 0 ~ \mathrm { m L }$ 烧杯中，加 $1 0 ~ \mathrm { m L }$ 酸溶液（ $V _ { \stackrel { \scriptscriptstyle \mathrm { i m } } { \scriptscriptstyle \mathrm { i n f } } ; \scriptscriptstyle \mathrm { i f f } } .$ ，盖上表面皿，120℃消化1h，270℃消化至透明澄清，待溶液蒸发至液面高度约 $1 \mathrm { c m }$ ，室温冷却，加超纯水定容到 $2 5 ~ \mathrm { m L }$ ，混匀，同时做相应的空白对照；然后利用Z-2000AAS（HITACHI，日本）进行原子吸收测定。
+
+# 1.3.2产蛋性能和蛋品质
+
+试验期间，根据前1天采食情况调整饲粮添加量，每天每重复的投料量保持一致，在饲粮全部吃完的条件下尽量多喂，准确记录给料量和剩料量，计算试验期间的平均日采食量。以重复为单位，准确记录试验鸭产蛋数量、每日蛋重，统计产蛋期平均产蛋率、平均蛋重、日产蛋重和料蛋比。
+
+试验期间，每隔4周从各组每重复中采集3枚蛋，各批次蛋样在产蛋后48h内分别完成其蛋壳重、蛋黄重、蛋清重以及蛋形指数、蛋壳厚度、蛋壳强度、蛋黄色泽和哈夫单位的测定。最后取各批次的蛋品质指标平均值进行统计分析。其中，蛋形指数采用游标卡尺（沪制01120028）量出其纵径和横径后计算其比值表示（蛋形指数 $\varXi$ 纵径/横径)；蛋壳厚度采用数显千分尺（MODEL-1061）测定其蛋壳钝端、中部和锐端蛋壳厚度，取其平均值表示；蛋壳强度、蛋黄颜色和哈夫单位分别采用ORKA蛋壳强度仪（EFR-01，以色列）和全自动蛋品分析仪（EMT-5200，以色列）进行测定。
+
+# 1.3.3蛋黄和肝脏铁含量
+
+试验第16周，从每个重复中收集2枚鸭蛋蛋黄混合样和2只屠宰试验鸭肝脏混合样，-80℃冻干，用研钵研碎做成干粉，分别取2.5g蛋黄和肝脏冻干样品用乙醚浸泡脱脂过夜，通风橱自然晾干，电热炉中炭化完全后置于马弗炉550℃灰化至恒重，采用原子吸收光谱法测定其粗灰分中的铁含量。
+
+# 1.3.4肝脏酶活性
+
+试验第16周，从每重复中随机选取2只试验鸭屠宰并分别取肝脏样品，-80℃冻存，采用南京建成生物工程研究所提供的试剂盒测定其琥珀酸脱氢酶(succinodehydrogenase,SDH)及过氧化氢酶（catalase，CAT）的活性。
+
+# 1.3.5血液指标
+
+试验第16周10：00进行采血，从每个重复随机选取2只试验鸭（空腹12h后称重)，采用含肝素钠的抗凝真空采血管翅静脉采血 $1 0 \mathrm { m L }$ ，其中5mL全血4℃保存，用南京建成生物工程研究所试剂盒测定其中的血红蛋白浓度，用红细胞压积管直接测定红细胞压积；另外 $5 \mathrm { m L }$ 在4℃条件下 $3 \mathrm { \ : 0 0 0 \ : r / m i n }$ 离心 $2 0 ~ \mathrm { m i n }$ 制备血浆，分装于EP管中，于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存，用于测定血浆铁含量及总铁结合力，计算血浆转铁蛋白饱和度。
+
+血浆转铁蛋白饱和度 $( \% ) =$ （血浆铁含量/总铁结合力） $\times 1 0 0$ 。
+
+# 1.4数据处理与统计分析
+
+试验数据采用SAS9.0软件的GLM程序进行单因素方差分析，方差分析有显著效应时再进行Student-Newman-Keuls均数多重比较分析， $P { < } 0 . 0 5$ 为差异显著。对关键敏感指标产蛋初期平均蛋重采用Corzo等[14]的方法，运用SAS9.0软件的REG程序建立二次曲线方程
+
+$Y { = } \mathbf { A } X ^ { 2 } { + } \mathbf { B } X { + } \mathbf { C }$ ，其中Y代表平均蛋重，X代表饲粮铁水平，A和B分别代表方程的二次项和一次项系数，C代表方程的常数项)，二次曲线的最高点对应的横坐标乘以矫正系数 $9 5 \%$ 即为饲粮铁适宜水平。
+
+# 2结果
+
+# 2.1饲粮铁水平对蛋鸭产蛋性能的影响
+
+由表2可知，产蛋初期，饲粮铁水平对蛋鸭日采食量、产蛋率、日产蛋重和料蛋比没有显著影响（ $( P { > } 0 . 0 5 )$ ）；随着饲粮铁水平的提高，平均蛋重呈先升高后降低的趋势，其中67.2、82.2和 $9 7 . 2 \mathrm { m g / k g }$ 组平均蛋重显著高于 $1 1 2 . 2 \mathrm { m g / k g }$ 组（ ${ \cdot } P { < } 0 . 0 5$ ）。产蛋高峰期和试验全期，饲粮铁水平对蛋鸭日采食量、产蛋率、平均蛋重、日产蛋重和料蛋比无显著影响（ $. P { > } 0 . 0 5 )$ ）。
+
+表2饲粮铁水平对蛋鸭产蛋性能的影响  
+Table 2Effects of dietary iron level on laying performance of laying ducks   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲粮铁水平 Dietary iron level/(mg/kg)</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>52.2 67.2</td><td></td><td>82.2</td><td>97.2 112.2</td><td>127.2</td></tr><tr><td colspan="9">产蛋初期（17~18 周龄）Early laying period(17 to 18 weeks of age)</td></tr><tr><td>日采食量 Daily feed intake/(g/d)</td><td>128</td><td>124</td><td>126</td><td>126</td><td>126</td><td>125</td><td>0.70</td><td>0.418</td></tr><tr><td>产蛋率 Egg production/%</td><td>45.0</td><td>39.7</td><td>45.7</td><td>35.5</td><td>41.5</td><td>39.8</td><td>1.60</td><td>0.402</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>56.3ab</td><td>57.5a</td><td>57.4a</td><td>57.5a</td><td>55.5b</td><td>55.9ab</td><td>0.24</td><td>0.039</td></tr><tr><td>日产蛋重 Egg mass/(g/d)</td><td>28.02</td><td>25.24</td><td>27.44</td><td>24.70</td><td>24.52</td><td>26.16</td><td>0.79</td><td>0.734</td></tr><tr><td>料蛋比 Feed/egg</td><td>7.40</td><td>8.72</td><td>8.74</td><td>7.24</td><td>8.68</td><td>8.51</td><td>0.32</td><td>0.463</td></tr><tr><td colspan="9">产蛋高峰期（19~30 周龄）Peak laying period (19 to 30 weeks of age)</td></tr><tr><td>日采食量 Daily feed intake/(g/d)</td><td>132</td><td>130</td><td>132</td><td>131</td><td>131</td><td>130</td><td>0.40</td><td>0.466</td></tr><tr><td>产蛋率 Egg production/%</td><td>94.4</td><td>92.0</td><td>92.9</td><td>92.9</td><td>92.8</td><td>93.8</td><td>0.36</td><td>0.393</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>61.1</td><td>61.0</td><td>60.7</td><td>60.7</td><td>60.5</td><td>59.5</td><td>0.18</td><td>0.106</td></tr><tr><td>日产蛋重 Egg mass/(g/d)</td><td>58.5</td><td>56.9</td><td>57.2</td><td>57.2</td><td>57.0</td><td>56.6</td><td>0.27</td><td>0.434</td></tr><tr><td>料蛋比Feed/egg</td><td>2.24</td><td>2.28</td><td>2.29</td><td>2.28</td><td>2.29</td><td>2.28</td><td>0.01</td><td>0.760</td></tr></table></body></html>
+
+式验全期（17\~30 周龄） The whole experimental period (17 to 30 weeks of age)
+
+<html><body><table><tr><td>日采食量 Daily feed intake/(g/d)</td><td>132</td><td>129</td><td>131</td><td>131</td><td>130</td><td>130</td><td>0.37</td><td>0.430</td></tr><tr><td>产蛋率 Egg production/%</td><td>92.7</td><td>90.0</td><td>91.4</td><td>90.6</td><td>90.7</td><td>92.1</td><td>0.44</td><td>0.412</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>60.9</td><td>60.8</td><td>60.6</td><td>60.6</td><td>60.4</td><td>59.4</td><td>0.17</td><td>0.114</td></tr><tr><td>日产蛋重 Egg mass/(g/d)</td><td>57.2</td><td>55.5</td><td>56.1</td><td>55.6</td><td>55.5</td><td>55.4</td><td>0.31</td><td>0.518</td></tr><tr><td>料蛋比Feed/egg</td><td>2.31</td><td>2.36</td><td>2.35</td><td>2.42</td><td>2.40</td><td>2.37</td><td>0.02</td><td>0.554</td></tr></table></body></html>
+
+同行数据肩标相同字母或无字母为差异不显著（ $. P { > } 0 . 0 5$ )，相邻字母为差异显著（ $P { < } 0 . 0 5 \$ )。下表同。
+
+In the same row, values with the same letter or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with adjacent letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ： The same as below.
+
+# 2.2饲粮铁水平对蛋鸭蛋品质的影响
+
+由表3可知，随着饲粮铁水平的提高，蛋黄色泽呈先升高后下降的趋势，饲粮铁水平为$9 7 . 2 \mathrm { m g / k g }$ 时可获得较高的蛋黄色泽；饲粮铁水平对其他蛋品质指标无显著影响（ $( P { > } 0 . 0 5 )$ ）。
+
+# 表3饲粮铁水平对鸭蛋蛋品质的影响
+
+Table 3Effects of dietary iron level on egg quality of laying ducks   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲粮铁水平 Dietary iron level/(mg/kg)</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>52.2</td><td>67.2</td><td>82.2</td><td>97.2</td><td>112.2 127.2</td></tr><tr><td>蛋白相对重 Albumen relative weight/%</td><td>60.5</td><td>60.3</td><td>61.2</td><td>60.2</td><td>60.6</td><td>61.2</td><td>0.17</td><td>0.340</td></tr><tr><td>蛋黄相对重 Yolk relative weight/%</td><td>29.6</td><td>29.9</td><td>29.0</td><td>29.9</td><td>29.6</td><td>29.2</td><td>0.18</td><td>0.389</td></tr><tr><td>蛋壳相对重 Shell relative weight/%</td><td>9.84</td><td>9.82</td><td>9.81</td><td>9.92</td><td>9.77</td><td>9.63</td><td>0.05</td><td>0.191</td></tr><tr><td>蛋形指数 Shape index</td><td>1.33</td><td>1.33</td><td>1.32</td><td>1.34</td><td>1.34</td><td>1.33</td><td>0.00</td><td>0.345</td></tr><tr><td>蛋壳厚度 Shell thickness/mm</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.32</td><td>0.00</td><td>0.189</td></tr><tr><td>蛋壳强度 Breaking strength/N</td><td>4.38</td><td>4.33</td><td>4.46</td><td>4.45</td><td>4.37</td><td>4.18</td><td>0.06</td><td>0.610</td></tr><tr><td>蛋黄色泽 Yolk color score</td><td>7.7ab</td><td>7.8ab</td><td>7.6ab</td><td>8.0a</td><td>7.7ab</td><td>7.4b</td><td>0.10</td><td>0.042</td></tr><tr><td>哈氏单位 Haugh unit</td><td>78.9</td><td>77.9</td><td>78.4</td><td>77.1</td><td>77.8</td><td>76.2</td><td>0.73</td><td>0.317</td></tr></table></body></html>
+
+# 2.3饲粮铁水平对肝脏和蛋黄铁含量的影响
+
+由表4可知，随着饲粮铁水平的提高，肝脏铁含量呈上升趋势，其中饲粮铁水平为127.2
+
+mg/kg组肝脏铁含量显著高于 $5 2 . 2 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。饲粮铁水平对蛋黄铁含量无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+表4饲粮铁水平对30周龄蛋鸭肝脏和蛋黄铁含量的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="7">饲粮铁水平 Dietary iron level/(mg/kg)</td><td rowspan="2">P值</td></tr><tr><td>52.2</td><td>67.2</td><td>82.2</td><td>97.2</td><td>112.2</td><td>127.2</td><td>SEM P-value</td></tr><tr><td>肝脏Liver</td><td>0.86b</td><td>1.30ab</td><td>1.18ab</td><td>1.40ab</td><td>1.58ab</td><td>1.84a</td><td>0.10</td><td>0.047</td></tr><tr><td>蛋黄Yolk</td><td>2.76</td><td>2.31</td><td>2.42</td><td>2.86</td><td>2.60</td><td>2.63</td><td>0.12</td><td>0.779</td></tr></table></body></html>
+
+# 2.4饲粮铁水平对肝脏CAT和SDH活性的影响
+
+由表5可知，随着饲粮铁水平的提高，肝脏CAT活性基本呈先升高后下降的趋势，其中饲粮铁水平为 $6 7 . 2 ~ \mathrm { m g / k g }$ 组 CAT 活性较高。饲粮铁水平对肝脏 SDH 活性无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+Table 4Effects of dietary iron level on the contents of iron in liver and yolk of laying ducks at 3O weeks of age mg/g   
+表5饲粮铁水平对30 周龄蛋鸭肝脏CAT和SDH活性的影响  
+Table 5Efects of dietary iron level on the activities ofCATand SDH in liverof laying ducks at 30 weeks of age   
+  
+
+<html><body><table><tr><td colspan="9">U/mg prot</td><td rowspan="2">P值</td></tr><tr><td rowspan="2">项目Items</td><td colspan="6">饲粮铁水平 Dietary iron level/(mg/kg)</td><td rowspan="2">SEM P-value</td></tr><tr><td>52.2</td><td>67.2</td><td>82.2</td><td>97.2</td><td>112.2</td><td>127.2</td><td></td></tr><tr><td>过氧化氢酶CAT</td><td>21.6abc</td><td>24.8a</td><td>23.4ab</td><td>15.9c</td><td>18.7bc</td><td>17.3℃</td><td>0.77</td><td>0.002</td></tr><tr><td>琥珀酸脱氢酶 SDH</td><td>3.38</td><td>3.68</td><td>2.50</td><td>2.74</td><td>3.20</td><td>3.97</td><td>0.19</td><td>0.219</td></tr></table></body></html>
+
+# 2.5 饲粮铁水平对蛋鸭血液指标的影响
+
+由表6可知，随着饲粮铁水平的提高，血红蛋白浓度和红细胞压积呈线性上升的趋势;饲粮铁水平为97.2、112.2和 $1 2 7 . 2 \mathrm { m g / k g }$ 组的血红蛋白浓度显著高于 $5 2 . 2 \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ ），饲粮铁水平为112.2和 $1 2 7 . 2 \mathrm { m g / k g }$ 组的红细胞压积显著高于 $5 2 . 2 \mathrm { m g / k g }$ 组（ $. P { < } 0 . 0 5$ ）。饲粮铁水平对血浆铁含量、总铁结合力和转铁蛋白饱和度均无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+表6饲粮铁水平对30周龄蛋鸭血液指标的影响
+
+'able 6Effects of dietary iron level on the blood indexes of laying ducks at 3O weeks of ag   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="6">饲粮铁水平 Dietary iron level/(mg/kg)</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>52.2</td><td>67.2</td><td>82.2</td><td>97.2</td><td>112.2</td><td>127.2</td></tr><tr><td>血红蛋白 Hemoglobin/(g/dL)</td><td>11.0d</td><td>11.6cd</td><td>11.6cd</td><td>12.1bc</td><td>12.8b</td><td>14.1a</td><td>0.19</td><td><0.001</td></tr><tr><td>红细胞压积 Hematokrit/%</td><td>33.7c</td><td>34.7c</td><td>35.7bc</td><td>36.8abc</td><td>38.7ab</td><td>39.5a</td><td>0.48</td><td><0.001</td></tr><tr><td>血浆铁含量 Plasma iron content/(μg/mL)</td><td>8.95</td><td>9.33</td><td>9.35</td><td>10.0</td><td>8.18</td><td>8.94</td><td>0.29</td><td>0.620</td></tr><tr><td>总铁结合力 TIBC/(ug/mL)</td><td>13.1</td><td>13.1</td><td>12.6</td><td>13.5</td><td>12.4</td><td>12.6</td><td>0.24</td><td>0.768</td></tr><tr><td>转铁蛋白饱和度 TS/%</td><td>67.6</td><td>71.2</td><td>74.2</td><td>72.8</td><td>66.1</td><td>69.8</td><td>1.36</td><td>0.522</td></tr></table></body></html>
+
+# 2.6饲粮铁需要量的估测
+
+产蛋初期平均蛋重随饲粮铁水平的增加存在显著的先升高后下降线性变化（ $P { < } 0 . 0 5 )$ ，其他性能指标（如产蛋率、日产蛋重、料蛋比）相对饲粮铁水平均未呈现出显著的二次曲线变化关系。因此，以平均蛋重为指标，通过建立二次曲线模型估测产蛋初期蛋鸭的饲粮铁适宜水平为 $7 3 . 9 \mathrm { m g / k g }$ （表7)。产蛋高峰期蛋鸭产蛋性能指标、肝脏中酶活性相对饲粮铁水平无显著的二次曲线变化关系（ ${ \cdot } P { > } 0 . 0 5$ ），其铁需要量则根据饲粮最低铁水平确定。
+
+# 表7蛋鸭饲粮铁需要量的估测
+
+Table 7Estimation of iron requirement for laying ducks   
+
+<html><body><table><tr><td>估测指标</td><td>方程</td><td>P值</td><td>R²</td><td>饲粮铁需要量 Dietary iron</td></tr><tr><td>Estimated criteria</td><td>Equation</td><td>P-value</td><td></td><td>requirement/(mg/kg)</td></tr><tr><td>平均蛋重 Average</td><td>Y=-0.000</td><td>0.025</td><td>0.200</td><td>73.9</td></tr><tr><td>egg weight/g</td><td>9X²+0.14X+51.5</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+早期研究表明，饲粮铁水平对家禽生产性能没有显著影响[15]，其显著的作用效果主要体现在血液指标或组织铁的储备方面。马新燕[1研究发现，在玉米-豆粕型饲粮基础上添加$0 { \sim } 1 6 0 \ \mathrm { m g / k g }$ 七水合硫酸亚铁对1\~21日龄肉仔鸡平均采食量和耗料增重比均没有显著差异。马春艳[17]在21\~42日龄的肉仔鸡研究中也未发现玉米-豆粕型饲粮基础上添加0\~100 mg/kg七水硫酸亚铁对其平均采食量、平均日增重和耗料增重比产生显著影响。为了在试验中尽可能降低饮水铁含量的因素干扰，本试验提供的饮水均经过除铁设备净化处理（处理前饮水中铁含量 $5 \mathrm { m g / L }$ ，处理后饮水中铁含量 ${ < } 0 . 3 \ \mathrm { m g / L } \$ )，在此条件下研究发现，饲粮铁水平对蛋鸭产蛋初期和高峰期平均日采食量、产蛋率、日产蛋重和料蛋比均未产生显著影响。Bess等[4]研究表明，肉种鸡的产蛋率受饲粮铁来源（硫酸亚铁和氨基酸螯合铁）而非饲粮成分组成的影响，其产蛋率随试验时间延长而降低。一般认为，有机铁比无机铁更容易被动物肠道吸收利用，其对生产性能表现出的使用效果也不同。马新燕[16]对肉仔鸡有机蛋白铁的生物利用率研究发现，肉仔鸡平均日增重、平均日采食量和饲粮铁水平呈正相关的线性关系，耗料增重比呈负相关变化。Ma等[18]研究证实，在22\~42日龄肉仔鸡饲粮中添加0\~160 mg/kg甘氨酸铁可线性提高其平均日增重和平均日采食量，同时还发现160 mg/kg甘氨酸铁添加组的平均日增重显著高于160 mg/kg硫酸亚铁组。在本试验条件下，饲粮铁水平为67.2\~97.2 mg/kg在产蛋初期可获得较高平均蛋重，但对产蛋高峰期平均蛋重未表现出显著差异。这提示，饲粮铁水平为67.2\~97.2mg/kg可能有利于营养物质在蛋中的沉积，但经过2周产蛋初期对铁的摄入，基础饲粮中所含铁基本上可满足蛋鸭生产所需，额外添加铁并不能提高产蛋高峰期蛋鸭的平均蛋重。
+
+本试验研究发现，蛋黄色泽随饲粮铁水平的提高而呈先升高后下降的规律，其中饲粮铁水平为 $9 7 . 2 ~ \mathrm { m g / k g }$ 组的蛋黄色泽较高。蛋黄色泽是蛋黄色素沉积的表现。家禽本身不能合成色素，蛋黄颜色是由脂溶性色素在卵黄沉积期间形成的，主要受从饲粮中摄取的着色物质种类和数量的影响[19]。因此，饲粮铁水平为 $9 7 . 2 \mathrm { m g / k g }$ 可能有利于脂溶性色素在蛋黄中的沉积。动物机体内的铁，大约 $6 0 \%$ 在红细胞中参与血红蛋白的组成， $2 \% { \sim } 2 0 \%$ 参与肌红蛋白组成，还有一部分存在含铁酶（SDH、CAT、细胞色素C氧化酶等)，其余存在肝脏、脾脏等的铁蛋白及血铁黄素中[20-21]。研究发现，饲粮铁水平与血红蛋白浓度呈显著正相关[22-23]。本试验研究发现，血红蛋白浓度、红细胞压积和肝脏铁含量随饲粮铁水平的提高而线性上升，表明血红蛋白浓度、红细胞压积和肝脏铁含量均可作为蛋鸭摄入饲粮铁的敏感性指标。在本试验条件下，肝脏CAT活性随饲粮铁水平的提高而先升高后下降，67.2mg/kg组CAT活性较高，这与马新燕[16]在1\~21日龄的肉仔鸡研究中发现类似。与钙和镁等二价金属一样，蛋黄中的铁与卵黄高磷蛋白紧密结合[24-25]。由于卵黄生成素和极低密度脂蛋白均在肝脏中合成，理论上肝脏储备的铁可随卵黄前体物转移到蛋黄中沉积。但本研究发现，饲粮铁水平对蛋黄中的铁含量没有显著影响。早期研究发现，相对其他微量元素，蛋中的铁含量不容易受饲粮因素的影响而发生变化[26]。Paik等[27]研究表明，饲粮中添加 $1 0 0 \mathrm { m g / k g }$ 大豆蛋白螯合铁饲喂蛋鸡5周，显著提高了其蛋黄铁含量。Bess等[4研究揭示，蛋黄铁含量受饲粮铁水平、饲粮铁来源和试验时间的显著影响。因此，我们推测肝脏储备的铁向卵黄沉积可能与铁在肝脏的储备量和储存形式有关，目前这方面的研究尚未见报道，还有待更深入的研究。
+
+# 4结论
+
+产蛋初期，综合考虑产蛋性能，山麻鸭饲粮铁水平推荐量为 $7 3 . 9 \mathrm { m g / k g }$ ；产蛋高峰期，综合考虑产蛋性能、蛋品质、肝脏和血液指标以及生产成本，山麻鸭饲粮适宜铁水平为 52.2mg/kg。
+
+# 参考文献：
+
+[1]陈吉棣.运动营养学[M].北京:北京医科大学出版社,2002.   
+[2] 钱忠民.铁代谢-基础和临床[M].北京:科技出版社,2000.   
+[3] THEIL E C.Iron,ferritin,and nutrition[J].Annual Review of Nutrition,2OO4,24:327-343.   
+[4] BESS F,VIEIRA S L,FAVERO A,et al.Dietary iron effects on broiler breeder performance and egg iron contents[J].Animal Feed Science and Technology,2012,178(1/2):67-73.
+
+[5] ANDERSON G J,VULPE C D.Mammalian iron transport[J].Cellular and Molecular Life Sciences,2009,66(20):3241-3261.
+
+[6] 宋金昌,范莉.产蛋鸡主要微量元素最适需要量的研究[J].动物科学与动物医
+
+学,2002,19(5):40-43.
+
+[7] 朱云芬,王晓峰.水禽营养需要与饲料营养价值评定技术[J].中国家禽,2012,34(14):44-50.
+
+[8] 阮栋,林映才,张罕星,等.蛋氨酸水平对开产期麻鸭产蛋性能、蛋品质及卵巢形态的影响[J].中国畜牧杂志,2012,48(7):34-38.
+
+[9] 王爽,陈伟,阮栋,等.饲粮核黄素水平对笼养蛋鸭产蛋性能、蛋品质、血液生化及抗氧化指标的影响[J].动物营养学报,2014,26(11):3284-3290.
+
+[10] 夏伟光,张罕星,林映才,等.饲粮代谢能和粗蛋白质水平对蛋鸭产蛋性能的影响[J].动物营养学报,2014,26(12):3599-3607.
+
+[11] 张罕星,李燕,林映才,等.饲粮非植酸磷水平对高峰期蛋鸭产蛋性能、蛋品质和胫骨指标的影响[J].动物营养学报,2015,27(5):1377-1384.
+
+[12] CHEN W,ZHANG H X,WANG S,et al.Estimation of dietary selenium requirement for Chinese egg-laying ducks[J].Animal Production Science,2014,55(8):1056.
+
+[13] HUANG Y L,LU L,LI S F,et al.Relative bioavailabilities of organic zinc sources with different chelation strengths for broilers fed a conventional corn-soybean meal diet[J].Journal of Animal Science,2009,87(6):2038-2046.
+
+[14] CORZO A,DOZIER W A,DOZIER W A.Dietary lysine needs of late-developing heavy broilers[J].Poultry Science,2006,85(3):457-461.
+
+[15] 蒲俊华.不同铁源生物学效价及其对仔鸡组织铁铜锌锰含量影响的研究[D].硕士学位论文.扬州：扬州大学，2006:11
+
+[16] 马新燕.肉仔鸡对有机蛋白铁相对生物学利用率及其饲粮铁适宜水平的研究[D].硕士学位论文.北京:中国农业科学院,2012.
+
+[17] 马春艳.22\~42日龄肉鸡玉米-豆粕型饲粮铁适宜水平的研究[D].硕士学位论文.北京:中国农业科学院,2014:13-14.
+
+[18] MA W Q,SUN H,ZHOU Y,et al.Effects of iron glycine chelate on growth,tissue mineral concentrations,fecalmineralexcretion,and liverantioxidantenzymeactivitiesin broilers[J].Biological Trace Element Research,2012,149(2):204-211.
+
+[19]唐会会.万寿菊叶黄素和VC对高温环境中蛋鸡生产性能和生理机能的影响[D].硕士学位论文.湛江:广东海洋大学,2012:41.
+
+[20]杨凤.动物营养学[M].北京:中国农业出版社,1993:67-68.
+
+[21]呙于明.家禽营养与饲料[M].北京:中国农业大学出版社,1997:123-124.
+
+[22] STRUBE Y N,BEARD JL,ROSS A C.Iron deficiency and marginal vitamin A deficiency affect growth,hematological indices and the regulation of iron metabolism genes in rats[J].The Journal of Nutrition,2002,1329(12):3607-3615.
+
+[23] RINCKER M J,HILL G M,LINK J E.et al.Effects of dietary Fesupplementation on growth performance,hematological status,and whole-bodymineral concentrationsof nursery pigs[J].Journal of Animal Science,2004,82(11):3189-3197.
+
+[24] GREENGARD O,SENTENAC A,MENDELSOHN N.Phosvitin,the iron carrier of egg yolk[J].Biochimica et Biophysica Acta,1964,90(2):406-407.
+
+[25] TABORSKY G,MOK C C.Phosvitin.Homogeneity and molecular weight[J].The Journal of Biological Chemistry,1967,242(7):1495-1501.
+
+[26] NABER E C.The effect of nutrition on the composition ofeggs[J].Poultry Science,1979,58(3):518-528.
+
+[27] PAIK I,LEE H,PARK S.Effects of organic iron supplementation on the performance and iron content in the egg yolk of laying hens[J].Journal of Poultry Science,2O09,46(3):198-202.
+
+Effects of Dietary Iron on Laying Performance, Egg Quality,Liver and Blood Indices of Shanma
+
+Laying Ducks XIA Weiguang LIN Yingcai\*ZHENG Chuntian\* CHEN Wei RUAN DongWANG Shuang LI Yan (Institute of Animal Science, Guangdong Academy of Agricultural Sciences, State Key Laboratory of Livestock and Poultry Breeding, Key Laboratory of Animal Nutrition and Feed Science in South China, Ministry of Agriculture, Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China) Abstract: To estimate dietary iron requirement for Shanma laying ducks in laying period（from 17 to 30 weeks of age）,the laying performance,egg quality,liver and blood indices were examined. A total of 432 Shanma laying ducks at 15 weeks of age were randomly allotted to six groups, each with six replicates of twelve birds. All birds were offered a basal diet without iron supplementation (containing $5 2 . 2 ~ \mathrm { \ m g / k g }$ iron）for 2 weeks.Then birds were fed the diets supplemented with 0,15,30,45,60 and $7 5 \ \mathrm { m g / k g \ F e S O _ { 4 } { \cdot } H _ { 2 } O }$ which contained 52.2, 67.2, 82.2, 97.2, 112.2 and $1 2 7 . 2 ~ \mathrm { m g / k g }$ iron,respectively. The experiment lasted for 14 weeks. The results showed as follows: 1) in the early laying period (17 to18 weeks of age), the average egg weight was firstly increased and then decreased with dietary iron level increasing, and the average egg weight of $6 7 . 2 , 8 2 . 2 , 9 7 . 2 \mathrm { ~ m g / k g }$ groups was significantly higher than that of $1 1 2 . 2 ~ \mathrm { m g / k g }$ group （20 $( P { < } 0 . 0 5 )$ . While in the peak laying period (19 to 3O weeks of age) and the whole experimental period (17 to 30 weeks of age), no significant diferences were observed in daily feed intake, egg production, average egg weight, egg mass,and feed/egg $( P { > } 0 . 0 5 )$ . 2）The yolk color was firstly increased and then decreased with dietary iron level increasing,and the maximal value was at the level of $9 7 . 2 \mathrm { m g } / \mathrm { k g } . 3$ ）The liver iron content was increased with dietary iron level increasing, and the liver iron content of $1 2 7 . 2 \mathrm { m g / k g }$ group was significantly higher than that of $5 2 . 2 \mathrm { m g / k g }$ group $( P { < } 0 . 0 5 )$ . 4) The liver catalase activity was firstly increased and then decreased with dietary iron level increasing, and the liver catalase activity of $6 7 . 2 ~ \mathrm { m g / k g }$ group was significantly higher than that of 97.2,112.2 and $1 2 7 . 2 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ . There was no significant difference in liver succinodehydrogenase activity amomg groups $( P { > } 0 . 0 5 )$ .5）Both hemoglobin concentration and hematocrit were increased with dietary iron level increasing, the hemoglobin concentration of 97.2, 112.2 and $1 2 7 . 2 ~ \mathrm { m g / k g }$ groups was significantly higher than that of $5 2 . 2 ~ \mathrm { m g / k g }$ group $( P { < } 0 . 0 5 )$ ， and the hematocrit of 112.2 and $1 2 7 . 2 ~ \mathrm { m g / k g }$ groups was significantly higher than that of 52.2 $\mathrm { m g / k g }$ group $( P { < } 0 . 0 5 )$ . 6) According to the quadratic regresson model of average egg weight, the iron requirement for Shanma laying ducks during early laying period was $7 3 . 9 ~ \mathrm { m g / k g }$ in the diet. On the basis of above results, iron requirement is 73.9 and $5 2 . 2 ~ \mathrm { m g / k g }$ iron in the diet of Shanma laying ducks during their early and peak laying period, respectively.
+
+Key words: iron; laying ducks; laying performance; egg quality

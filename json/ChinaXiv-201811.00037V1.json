@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "凝结水对荒漠区短命植物狭果鹤虱的生态作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘志东12，冉启洋1²，陈悦²，郄亚栋2，吕光辉2.3（1．新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；2．绿洲生态教育部重点实验室,新疆乌鲁木齐830046；3．新疆大学干旱生态环境研究所,新疆 乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以中国西北干旱荒漠区新疆艾比湖湿地自然保护区为研究区,选取对水分输入响应最敏感的短命植物狭果鹤虱,通过遮盖处理形成不遮盖(T1组）、半遮盖(T2组)与全遮盖(T3组)的3个凝结水梯度;研究凝结水的多少对狭果鹤虱的株高、冠幅、叶面积、叶片厚度、根长、根径、叶片相对含水量、叶片水势以及生物量分配的影响。结果表明： $\\textcircled{1}$ 在植株生长季中后期,随着凝结水量增加,植株高度、冠幅面积、叶面积、叶厚度、叶片相对含水率、净光合速率与气孔导度叶片水势均显著增加( $\\textstyle P < 0 . \\ 0 5 ^ { \\cdot }$ );相反地，根长和根径在3个凝结水量上没有显著差别( $P >$ 0.05）。 $\\textcircled{2}$ 茎质比(SMR)在生物量分配中是一个比较稳定的性状，从 $\\mathrm { T } 1 \\sim \\mathrm { T } 3$ 组，变化幅度为 $3 . 0 \\% \\sim 1 3 . 5 \\%$ 。个体植株叶质比(LMR)差异显著( $\\textstyle P < 0 . 0 5 )$ ,根质比(RMR)均逐渐下降,但并未表现出显著差异。综合可知,干旱区中,狭果鹤虱的叶片可以吸收并利用凝结水，形态性状对水分极度敏感且具有较高变异性，主要通过改变地上性状、不改变地下性状的策略吸收利用大气凝结水。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：荒漠区；短命植物；狭果鹤虱；凝结水；艾比湖流域；新疆 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "荒漠区约占全球陆地面积的 $1 / 4 \\sim 1 / 5$ ,是最为脆弱的生态系统类型之一(1]。荒漠区最显著的特征，是降水极端稀少而又不确定的输入，使生活在此环境中的生物长期处于干旱胁迫之中[2]。因此,其他水资源输入类型，如凝结水、土壤吸附水和雾，即使量非常小，也能对荒漠生态系统维持产生重要影响（3）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "短命植物(ephemerals)是一类利用开春后积雪融化、春雨水、气温回暖与土壤湿润的有利条件，在春季或夏初的短时间里迅速完成生活周期，并以种子形式逃避不利生活环境的特殊生态类型的草本植物类群(4-5]。狭果鹤虱〔Lappulasemiglabra（Ledeb.）Gurke]属紫草科（Boraginaceae），一年生草本植物,生长于戈壁滩、固定沙地、平沙地、流动沙丘下部和干河床等地[。其在干旱荒漠区早春植物片层中覆盖度较大，分布范围广，是该区典型的短命植物种之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凝结水作为水资源的一种输入方式，是指当物体表面温度达到露点时，水汽凝结而成的液态水[7]。在水资源极度匮乏的干旱荒漠生境,凝结水可以成为降水的有效补充[8]。但通常情况下,干旱荒漠内的凝结量较低，其对荒漠生态系统的影响甚小。马辉英等认为，荒漠中的湖泊能够提高近地面的相对空气湿度[9]。此外,湖泊对微气候的改善作用，可以使荒漠中的湖泊在夜间于湖泊上方形成大气逆温层和气流内循环现象，该过程能使湖面蒸发的水分在夜间只能沉降在水域的周边地区[10]。由此可知，与其他干旱荒漠区相比，有湖泊的干旱荒漠区内凝结水现象应更为显著，能够对植物的生活过程产生更为积极的影响。但截至目前，还没有研究有湖泊的荒漠内，验证凝结水现象及其对短命植物的影响[11-13] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "另外，凝结水依据凝结面的不同，可以分为大气-植物界面的凝结水和大气-土壤界面的凝结水。大气－土壤界面凝结水直接补给土壤,其被植物根系直接吸收利用[14]。但对于大气－植物界面的凝结水，其在夜间形成于植物的叶片和茎上，植物是否通过叶片和茎吸收并利用该水源，目前尚无明确定论[15-17]。鉴于此,本研究选取干旱荒漠区短命植物狭果鹤虱为研究对象，通过设计3个凝结水梯度，提出以下假设： $\\textcircled{1}$ 短命植物叶片可以吸收并利用凝结水； $\\textcircled{2}$ 短命植物的形态性状和生理特征随凝结水量不同而发生改变。本研究旨在了解短命植物与凝结水之间的定量关系，以期为自然保护区内短命植物的研究和保护以及生态环境建设提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "艾比湖湿地自然保护区位于新疆精河县西北（204号 $( 4 4 ^ { \\circ } 3 0 ^ { \\prime } \\sim 4 5 ^ { \\circ } 0 9 ^ { \\prime } \\mathrm { N } , 8 2 ^ { \\circ } 3 6 ^ { \\prime } \\sim 8 3 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { E } )$ ,地处准噶尔盆地西南，总面积 $2 \\ 6 7 0 . 8 5 \\ \\mathrm { k m } ^ { 2 }$ 。艾比湖湿地是准噶尔盆地西南缘最低洼地和水盐汇集中心，该区域处于阿拉山口大风通道区，气候极端干燥，降水稀少，属典型温带大陆性气候。极端最高气温 $4 4 ~ \\mathrm { { ^ { \\circ } C } }$ ，最低气温 $- 3 3 \\mathrm { ~ \\textdegree C }$ ,年平均气温 $6 . 6 \\sim 7 . 8 \\mathrm { ~ \\textdegree C }$ ，年平均降水量 $1 0 7 ~ \\mathrm { { m m } }$ ,年平均蒸发量 $1 ~ 6 0 0 ~ \\mathrm { { m m } }$ 以上。研究区内典型的土壤为灰漠土、灰棕漠土和风沙土，隐域性土壤以盐(盐渍化)土为主，以草甸土、沼泽土和棕钙土为辅[18]。旱生荒漠植物是艾比湖地区植被的主要成分，受地形、水文等因素的影响，盐土、沙质植被和中生、湿生和水生植被也得到发展，形成生物多样性较为丰富的植物群落。艾比湖湿地自然保护区植物区系属古北界蒙新区北疆荒漠区准噶尔荒漠区，短命植物资源丰富，在4、5、6月份短命植物在沙漠中的覆盖度分别为 $1 3 . 9 \\%$ 、40. $2 \\%$ 和$1 4 . 1 \\%$ [19]。其中,狭果鹤虱为当地最为典型和常见的短命植物，其植物表面均分布有细糙毛，有利于吸附凝结水[20]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2013年4月初至6月下旬进行，4月初为短命植物种子萌发期，在研究区内选取狭果鹤虱分布最为集中的区域作为试验样地。调查时，选择高程、坡向与土壤环境条件等一致的前提下，在狭果鹤虱种群密度、植物覆盖度和均匀性较好的区域，随机设置9个 $1 \\mathrm { ~ m ~ } { \\times } 1 \\mathrm { ~ m ~ }$ 的小样地作为试验区域,样地之间的间隔 $> 2 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验开始前，去除狭果鹤虱以外的其他植物种，以防止其他植物对试验的影响。试验设计不同的3个处理,分为无遮盖处理（T1组）、半遮盖处理（T2组）、全遮盖处理（T3组），每组内设置3个重复样地。为了保证夜间遮盖不影响土壤的蒸散发，遮盖高度为 $2 0 \\ \\mathrm { c m }$ 且四面通风，同期同步进行气象数据观测，塑料布遮盖下的土壤和空气温度及其变化过程与自然条件下基本一致。遮盖处理是指日落时用塑料布遮盖住样方，翌日日出时将塑料棚去掉（当地时间 $2 2 : 0 0 { \\ - - } 6 : 0 0 )$ 。完全遮盖处理指每个夜间都遮盖，使其维持无凝结水环境。为了保证完全遮盖,试验使用 $1 . 5 \\mathrm { ~ m ~ } \\times 1 . 5 \\mathrm { ~ m ~ }$ 塑料棚,在地面以上$2 0 ~ \\mathrm { c m }$ 处进行遮盖;半遮盖处理指每隔1d完全遮盖1次;无遮盖处理指在自然条件下，样方不做任何处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1测量方法凝结水测量使用CPM法[21],选取 $6 \\ \\mathrm { c m } \\times 6 \\ \\mathrm { c m } \\times 0 . 1 5 \\ \\mathrm { c m }$ 的1个布片，先将其覆盖在 $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m } \\times 0 . 2 \\ \\mathrm { c m }$ 的玻璃片上，随后将玻璃片连同布片一起放置在 $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m } \\times 0 . 5 \\ \\mathrm { c m }$ 的木片上，最后将木片固定在离地面 $2 0 \\ \\mathrm { c m }$ 高的支架上。在日落至翌日日出期间，布片每隔 $^ \\mathrm { ~ 1 ~ h ~ }$ 取出并迅速称重，然后在玻璃片上换上新的布片以供下次测量[22],利用公式(1)计算出日均凝结水量。本试验中，全遮盖、半遮盖和无遮盖3个处理的每个试验样地内分别设置5个重复。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次研究测定植株形态特征指标、生理指标与生物量，其中形态指标为叶面积、叶厚度、植株高度、冠幅面积、根长和主根直径;生理指标有叶片相对含水量、叶片水势、净光合速率与气孔导度;植株不同器官(根、茎和叶)的生物量。利用LI-6400 便携式光合作用仪测定净光合速率（气室温度控制在$3 0 \\ \\mathrm { ^ { q } C }$ )和气孔导度（ $\\mathrm { C O } _ { 2 }$ 浓度控制为 $4 0 0 ~ \\mu \\mathrm { m o l }$ ·$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { s } ^ { - 1 }$ ),测定时间为 $1 0 { : } 0 0 - 1 1 { : } 0 0$ 。这两个指标测定结束后，对测定的叶片标记，在翌日9：00一10:00 将其从枝上摘下,使用露点水势测量仪HR-33T(Wescor,USA)测定叶片水势;将叶片装入自封袋带回新疆大学艾比湖试验站，于 $^ \\mathrm { ~ 1 ~ h ~ }$ 内在试验站用叶面积仪测定叶面积,用游标卡尺测定叶厚度（ $\\mathbf { \\dot { \\Omega } } _ { \\mathrm { m m } } )$ ，随后将完成测量的叶片置入烘箱，用烘干法测定叶片相对含水量。试验中，在3个不同处理下的每个小区中随机选取5株健康植物，利用直尺（精度 $0 . 0 1 \\mathrm { ~ m ~ } \\mathrm { ~ }$ )测定植株高度与冠幅，用公式(2）计算植株的冠幅面积。同时随机选择5株植物个体，小心从地面挖出，用游标卡尺测定植物的根长（cm)和根径( $\\mathbf { \\chi } _ { \\mathrm { m m } } ^ { \\cdot } ,$ )；根长为植株主根从地面到根末端的长度，根径为植株主根和第一侧根之间主根的直径。测量完成后，收集全株植物样本，将其置于烘箱",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$8 0 ~ \\mathrm { { ^ { \\circ } C } }$ 下烘干并用精密天平（精度 $0 . 0 0 0 \\mathrm { ~ 1 ~ g ~ } \\backslash$ 称重，获得不同器官生物量，计算叶质比（单株叶生物量/单株总生物量）、茎质比（单株茎生物量/单株总生物量)和根质比（单株根生物量/单株总生物量）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "狭果鹤虱春季萌发后,生活周期25～30 d[23]本文为分析凝结水对狭果鹤虱生长过程的持续影响，在其萌发后，第5d开始观测（2013年5月13日），每间隔 $5 \\mathrm { ~ d ~ }$ 调查1次，在其生活史周期内共调查了6次，2013年6月7日结束观测，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { h } \\ = \\ \\sum \\big ( M _ { \\tt M M M } \\ : - \\ : M _ { \\tt F M M } \\big ) / h\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { ☉ \\mathstrut }$ 表示每小时布片观测质量； $M _ { \\mathcal { F } \\# \\sharp \\sharp }$ 表示干布片质量； $h$ 表示每日观测小时数； $\\boldsymbol { M } _ { h }$ 表示日均凝结水量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C r o w n ~ A r e a } = \\pi ( 0 . 5 \\times D _ { \\mathrm { E a s t - W e s t } } ) \\times ( 0 . 5 \\times\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { { s o u t h - N o r t h } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D _ { \\mathrm { E a s t - W e s t } }$ 表示待测植株东西冠径均值 ( $\\mathbf { \\tau } _ { \\mathrm { c m } } )$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$D _ { \\mathrm { { S o u t h - N o r t h } } }$ 表示待测植株南北冠径均值 $\\left( \\mathrm { c m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2数据处理本研究采用SAS9.3中的单因素方差分析（One-wayANOVA）比较同一指标不同处理间的差异是否存在显著性( $\\alpha = 0 . \\ 0 5$ )，方差齐性时多重比较采用Tukey检验，方差不齐时采用近似 $F$ 检验Welch法，多重比较采用Dunnett's-T3方法检验;同时利用Origin8.0作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同处理下日均凝结水量与总凝结水量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究证明在艾比湖荒漠区，试验期间$( 2 0 1 3 - 0 5 - 1 3 - 2 0 1 3 - 0 6 - 0 7 )$ 存在凝结水现象，T2组和T3组的凝结水平均凝结速率分别为$\\left( 0 . 0 2 1 7 \\pm 0 . 0 0 9 8 \\right) \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 和 $\\left( 0 . 0 0 7 \\ 1 \\pm 0 . 0 0 1 \\ 2 \\right.$ ）$\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ ，日平均凝结水量分别为 $( 0 . \\ 1 9 5 \\ 3 \\ \\pm$ $0 . 1 6 7 7 ) \\mathrm { m m } \\cdot \\mathrm { ~ d } ^ { - 1 }$ 和 $( \\boldsymbol { 0 } . , \\boldsymbol { 0 6 3 } ~ 6 \\pm \\boldsymbol { 0 } . 6 7 8 ~ 1 )$ $\\mathbf { m } \\mathbf { m }$ ·$\\mathbf { d } ^ { - 1 }$ ,均显著低于T1组( $\\textstyle P < 0 . 0 1 { \\mathrm { ~ } } ,$ （图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45c98817fd7a913364a6bf04b4af6670babb57e3853a4bb7d3030b4707729a6a.jpg",
+        "img_caption": [
+            "图13种处理下日平均凝结水量",
+            "Fig.1Daily condensed water volume under three treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验期间，不同处理间总凝结水量也呈极显著差异( $\\cdot P < 0 . 0 1 \\rangle$ （图2），其中T1组的总凝结水量为$0 . 8 8 8 \\mathrm { ~ 6 ~ } \\mathrm { ~ m m } ,$ T2组为 $0 . 5 6 4 \\ 2 \\ \\mathrm { ~ m m }$ ，分别为T3组0 $\\left( 0 . 1 8 3 \\ 8 \\ \\mathrm { m m } \\right)$ 的4.83倍和3.07倍，表明利用遮盖处理可有效减少凝结水量。同时说明，本文研究凝结水对植物性状与生理过程影响的试验设计切实可行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同处理下植物形态特征差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "株高和冠幅在一定程度上代表着植株的总体生长状况。图3a可知，3个处理组植株高度均有所增高，但增长速率存在差异。在试验处理前3个组的平均株高无明显差异，分别为：T1组( $( 1 2 . 8 6 \\pm 2 . 4 5 ) \\$ 门$\\mathrm { c m } , \\mathrm { T 2 }$ 组( $1 1 . 2 0 \\pm 1 . 6 4 { \\mathrm { ~ ) ~ c m } }$ 1和T3组（ $( 1 1 . 5 2 \\pm$ $4 . 3 7 ) \\mathrm { c m }$ ,T1组植株快速生长到 $1 5 \\mathrm { ~ d ~ }$ 左右,株高保持稳定，而T2和T3组植株高度增长速率较为一致，且最终植株高度极显著小于无遮盖组( $\\boldsymbol { P } <$ 0.01)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同处理下，冠幅均表现出随处理时间先增加后降低的趋势（图3b），T2和T3组从第5d开始降低，而T1组第 $1 5 \\mathrm { ~ d ~ }$ 才表现出降低趋势，总体冠幅大小为： $\\mathrm { T } 3 < \\mathrm { T } 2 < \\mathrm { T } 1$ 。试验前3个处理组平均冠幅差异均不显著，T1组 $( 8 . 1 5 \\pm 1 . 1 1 ) \\mathrm { c m } ^ { 2 } . \\mathrm { T } 2$ 组 $( 7 . 3 8 \\pm$ $1 . 1 1 ) \\mathrm { c m } ^ { 2 }$ 和T3组 $( 7 . 2 3 \\pm 0 . 4 6 ) \\mathrm { c m } ^ { 2 }$ ,试验第5dT1组和T2组之间无显著差异，与T3组差异显著( $P <$ 0.05），第10dT1组与T2组和T3组均存在显著性差异( $\\ P < 0 . 0 5 )$ ,而T2组和T3组之间无显著性差异，第 $1 5 \\mathrm { ~ d ~ }$ 和第 $^ { 2 0 \\mathrm { ~ d ~ } , 3 }$ 个处理组之间均表现出显著性差异( $\\ P < 0 . \\ 0 5 )$ ，直至观测最后一天，植株死亡，数值减小为0。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/be04cecec1502c71ea0d9583b0bcd368a0e779308f8d3ab187877ac187bf4648.jpg",
+        "img_caption": [
+            "图23种处理下总凝结水量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6203ba8fa64ceb8574857d8580bf0cbcc7676e4e6d5f9dd6ba6c96ba8875943.jpg",
+        "img_caption": [
+            "Fig.2Total condensed water volume under three treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在植物各项功能性状中，叶片功能性状和植物对资源的获得、利用及利用效率的关系密切，是反映植物适应环境变化所形成的生存对策之一，在不同凝结水处理下，通过对短命植物叶片功能性状的描述，得出结果如图4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在不同的处理下，叶片性状各指标总体表现为：$\\mathrm { T 1 } > \\mathrm { T 2 } > \\mathrm { T 3 }$ 。在处理 $1 0 \\mathrm { ~ d ~ }$ 后，T1组狭果鹤虱种群形成最大平均叶面积 $( 1 . 3 0 \\pm 0 . 0 5 ) \\mathrm { c m } ^ { 2 }$ ，随后缓慢下降，到第15d后，平均叶面积迅速下降;T2组在处理5d后达到最大平均叶面积 $( 1 . 1 4 \\pm 0 . 1 8 ) \\mathrm { c m } ^ { 2 }$ ，随后基本保持稳定，第 $1 5 \\mathrm { ~ d ~ }$ 之后开始迅速下降；T3组在第5d达到峰值 $( 1 . 0 5 \\pm 0 . 2 5 ^ { \\cdot }$ ） $\\mathrm { c m } ^ { 2 }$ ,随后持续降低。试验处理前，各组之间平均叶面积无显著差异,分别为：T1 组 $( 0 . 9 4 \\pm 0 . 1 4 ) \\mathrm { c m } ^ { 2 } . \\mathrm { T } 2$ 组（204 $( 0 . 9 4 \\pm 0 . 2 0 ) \\mathrm { c m } ^ { 2 }$ 与T3组 $( 0 . 9 2 \\pm 0 . 1 3 ) \\mathrm { c m } ^ { 2 }$ ；实验第5d、第 $1 0 \\mathrm { ~ d ~ }$ 和第15d,T3 组叶片增长速率小于T1与T2组，与其存在显著性差异( $\\textstyle P < 0 . 0 5 )$ ，而T1组和T2组之间差异性不显著;第 $2 0 \\mathrm { ~ d } , 3$ 个组之间均存在显著性差异( $\\cdot P < 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5149c30a27111818eb046cf64777368160e6654e002f12b627a2dbe81f3d1cf.jpg",
+        "img_caption": [
+            "图3不同处理下植株高度(a)与冠幅(b)随处理时间的变化规律 Fig.3Dynamic change of plant height（a）and canopy（b）with the time under diferent treatments ",
+            "图4不同处理下叶面积(a)与叶片厚度(b)随处理时间的变化规律 Fig.4Dynamic change of plantleaf area（a）and leaf thickness（b）with the time under diffrent treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T1组叶片厚度表现为先增加后降低的趋势；T2组表现为试验前期波动较大，后期持续降低；T3组在整个试验期间均持续下降。试验处理前叶片厚度均无显著差异，分别为：T1组 $( 0 . 4 6 \\pm 0 . 1 1 ^ { \\cdot }$ ） $\\mathbf { m } \\mathbf { m } , \\mathbf { T } 2$ 组 $\\left( 0 . 4 7 \\pm 0 . 0 5 \\right)$ ） ${ \\mathrm { m m } } , { \\mathrm { T } } 3$ 组 $\\left( 0 . 4 4 \\pm 0 . 0 9 \\right)$ ） $\\mathbf { m } \\mathbf { m }$ 。试验处理后总体表现为T1组和T2组差异性不显著，与T3组存在显著差异( $\\scriptstyle P < 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/393ff259256596e04fa243444345d5fb3e1d72ea81cb88bbac00503f47b3c619.jpg",
+        "img_caption": [
+            "图5不同处理下狭果鹤虱根形态特征比较 Fig.5Comparison of root morphological characteristics of Lappula semiglabra under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物根系的重要功能之一是从环境中吸收水分和养分，而根系吸收功能的发挥又与根系和根毛的形态等相关,根系直接与土壤接触，是植物与土壤环境接触的重要界面,对土壤环境更为敏感,更易对土壤环境做出反应[24],因此对植物根的研究显得尤为重要。3个处理中，狭果鹤虱的根长和根径差异性均不显著（图5）,T1组样方内平均根长( $9 . 9 8 \\ \\pm$ 0.41) $\\mathrm { c m }$ ,T2组 $\\left( 9 . 5 8 \\pm 1 . 1 2 \\right) \\mathrm { c m }$ ，T3组 $( 9 . 6 0 ~ \\pm$ $1 . 1 9 ) \\mathrm { c m }$ ;T1 组样方内平均根径 $\\left( 1 . 4 0 \\pm 0 . 1 5 \\right) \\ \\mathrm { ~ I ~ }$ $\\mathbf { m m }$ ，T2组 $( 1 . 3 2 \\pm 0 . 1 7 )$ mm,T3 组 $( 1 . 2 0 \\pm 0 . 0 8 ) \\$ ） $\\mathbf { m } \\mathbf { m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同处理下植物光合生理差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶片是植物的主要光合器官，叶片相对含水量与叶片水势更能综合反映植物光合潜力的大小。观测前期（0～5d），3个处理之间无显著差异（图6a);试验第5d和第10d,叶片相对含水量在T1组与另外2个处理组存在显著性差异( $\\textstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ；观测第 $1 5 \\mathrm { ~ d ~ }$ 和第20d,T2组与T3组叶片相对含水量差距变大，3组之间均表现出显著性差异；而到6月7日，短命植物全部死亡，试验结束。总体而言，叶片相对含水量总体表现为： $\\mathrm { T 1 } > \\mathrm { T 2 } > \\mathrm { T 3 }$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验前期(0\\~5d)，T2与T3处理下，植物叶片水势尚未表现出显著性差异（图6b)；但试验第5d和第 $^ { 1 0 \\mathrm { ~ d } , \\mathrm { T 1 } }$ 组与其余2个处理组存在显著性差异（ $P < 0 . 0 5 )$ ；第 $1 5 \\mathrm { ~ d ~ }$ 和第 $^ { 2 0 \\mathrm { ~ d ~ } , 3 }$ 个处理组之间均无显著性差异。由此可知，试验中期 $( 5 \\sim 1 5 \\mathrm { ~ d } )$ 凝结水显著影响狭果鹤虱叶片水势，试验中后期（第 $1 5 \\sim$ $2 5 { \\mathrm { ~ d } }$ )凝结水对狭果鹤虱叶片水势影响较小，T1、T2与T3组平均水势分别为 $- 1 . 4 ~ \\mathrm { M P a } _ { \\textrm { - } } 1 . 1 ~ \\mathrm { M P a }$ 和$- 1 . 0 8 \\ \\mathrm { M P a }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物叶片净光合速率与气孔导度能够表征植物的正常光合与呼吸，气孔是植物体与外界进行 $\\mathrm { H } _ { 2 } \\mathrm { O }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/029ddba6641bfff5fbb7da214be3aaef2dce7202bee4db450d28dac93be77ee6.jpg",
+        "img_caption": [
+            "图6不同处理下叶片相对含水量(a)与叶片水势(b)随处理时间的变化规律Fig.6Dynamicchangeofrelative watercontentoflaves（a）andleafwaterpotential（b）withthetimeunderdiferenttreatments"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20 +T1 -□-T1 产》 ·-·/ 162 aa yb T 二0-T mmmmr.a C a8 b a a4 b a a b 1 abn0 aI b48 至 订 虹 b b品a b1 b 6 Ω a-12 b a1 上 1 1 a￥0 5 15 20 25 30天数/d",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "和 $\\mathrm { C O } _ { 2 }$ 等气体交换的关键部位，净光合速率的大小受气孔导度的直接影响。由图7可知，随着处理时间推进，气孔导度变化与净光合速率变化步调基本相同，总体均呈现下降趋势。试验初期（第0d），3个处理组植物叶片的净光合速率与气孔导度均无显著性差异；第5d，净光合速率表现为： $\\mathrm { T 1 } > \\mathrm { T 2 } > \\mathrm { T 3 }$ ，且差异性显著( $\\textstyle P < 0 . 0 5 )$ ；第 $1 0 \\mathrm { ~ d ~ }$ 第20d,T2组和T3 组无显著性差异,但均与T1组存在显著差异性;3种处理下，T1组平均净光合速率较T2组提高了$1 7 . 6 \\%$ ,比T3 组提高了 $2 3 . 8 \\%$ 。气孔导度在实验中后期(第 $5 \\sim 2 0 \\mathrm { ~ d ~ }$ ),T1组与其他2个处理组存在显著性差异( $\\left( P < 0 . 0 5 \\right)$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4凝结水对生物量分配的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，不同处理下，植株的根质比随着观",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1狭果鹤虱的生物量分配比例",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ec550e0e25d103bf9de318978f07baba2927386a9e798ac32d82519bb7899b2.jpg",
+        "table_caption": [
+            "Tab.1Biomass allocation proportions of Lappulasemiglabra "
+        ],
+        "table_footnote": [
+            "注：T1表示无遮盖处理；T2表示半遮盖处理；T3表示全遮盖处理组。同列不同字母表示差异显著 $( P < 0 . 0 5 )$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>处理 第0d</td><td>第5d 第10d 第15d</td><td>第20d 第25d</td></tr><tr><td>根质比</td><td>T1 0.14a</td><td>0.15a 0.13a 0.10a</td><td>0.06a 0.04a</td></tr><tr><td rowspan=\"3\">茎质比</td><td>T2 0.15a</td><td>0.14a 0.13a 0.09ab</td><td>0.06a 0.02a</td></tr><tr><td>T3 0.14a</td><td>0.15a 0.13a 0.08b</td><td>0.05a 0.03a</td></tr><tr><td>T1 0.32a</td><td>0.34a 0.37a 0.35a</td><td>0.34a 0.33a</td></tr><tr><td rowspan=\"4\">叶质比</td><td>T2 0.31a</td><td>0.32a 0.34b 0.34a</td><td>0.33a 0.31b</td></tr><tr><td>T3 0.31a</td><td>0.32a 0.33b 0.34a</td><td>0.33a 0.31b</td></tr><tr><td>T1 0.56a</td><td>0.58a 0.61a 0.64a</td><td>0.66a -</td></tr><tr><td>T2 0.56a</td><td>0.56b 0.57b 0.59b</td><td>0.61b 一</td></tr><tr><td></td><td>T3 0.55a</td><td>0.55b 0.56b 0.58b</td><td>0.60b 1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "测时间都表现为降低趋势，但不同处理间差异不显著。单株茎质比在处理的第 $1 0 \\mathrm { ~ d ~ }$ 与第 $2 5 \\mathrm { ~ d ~ }$ 的T2组和T3组没有显著差异，但两者都与T1组表现出显著差异( $\\textstyle P < 0 . 0 5 )$ ，总体比较稳定，都集中在0.35附近。单株叶质比总体趋势与根质比恰恰相反，且在处理后第5d及以后T1组与T2组和T3组均表现出显著差异( $\\textstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ )，这表明植物叶片主要吸附凝结水补给其水分蒸腾散失，其生物量积累量最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究利用CPM法，得到艾比湖荒漠区5—6月间的日平均凝结水量和凝结速率分别为（ $0 . 3 0 7 6 \\pm 0 . 1 8 4 0 \\rangle$ 1 $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 }$ 和 $\\left( 0 . 0 3 4 \\pm 0 . 0 1 0 \\ 3 \\right)$ $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ （T1组），这表明艾比湖荒漠区能够形成凝结水。另外，与同纬度带内部不含有湖泊的毛乌素沙地荒漠区 $( 0 . \\ 2 0 6 \\ 0 \\ \\mathrm { \\ m m } \\ \\cdot \\ \\mathrm { d } ^ { - 1 }$ )、内盖夫沙漠$( 0 . 2 7 0 0 \\ \\mathrm { m m } \\cdot \\mathrm { d } ^ { - 1 } \\$ )等地相比[25]，其值较高，这可能是由于凝结水形成量与近地表相对湿度显著相关。在艾比湖荒漠中，从艾比湖湖面蒸发的水分，直接造成艾比湖荒漠区的近地面具有较高的相对空气湿度，使其凝结水现象明显且凝结水量较大。与此同时，不同处理间凝结水总量差异显著，由此可知，试验处理能够形成明显的凝结水梯度。相较于其他干旱荒漠区凝结水对短命植物影响较弱的研究结果，在艾比湖荒漠中，凝结水可能对当地短命植物存活起十分重要的生态作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对植物形态性状（株高、冠幅、叶面积、叶片厚度、根长与根径)而言，本研究发现，仅在狭果鹤虱生长季前期(第0～5d），株高、冠幅、叶面积和叶厚度在3个处理组间没有显著差别;随着进入生长季中后期(第 $1 0 \\sim 2 5 \\mathrm { ~ d } )$ ）,株高、冠幅、叶面积和叶厚度随凝结水量增加，其观测值均呈现不同程度的增加中 $\\mathrm { T 1 } > \\mathrm { T 2 } > \\mathrm { T 3 }$ ）（ $P < 0 . 0 5 )$ ，这种显著差异持续到植株完成整个生活史。由此可知，随着生长季节变化，一年生短命植物狭果鹤虱的某些形态性状能够对凝结水产生响应。因为在植株整个生长季中，水分对短命植物的限制作用随植株个体发育逐渐增强，植株为了获取更多的水资源，需将营养投给能最大程度上获得水分的性状生长。狭果鹤虱植物叶片存在被毛，能够增大叶片表面粗糙度，更有利于捕获更多凝结水，增加对环境的适应性，为顺利完成其生活史提供最大程度贡献，这与Grammatikopoulus等的研究结果相似，被毛叶片具有更高持水能力，能够改善植物的水分状况[20]。这也进一步解释了短命植物的生存对策，即在不同的凝结水梯度上，表现为降低植物株高和冠幅，较显著地减少叶面积和叶厚度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本试验结果中，不同处理下，根长与根径未能表现出显著差异。这表明凝结水对根性状没有显著影响，使得短命植物不需要在根性状上投入更多以获得水分，同时也说明短命植物性状具有较大的变异性和对水分变化的极度敏感性。由此可知，植物投资策略在地上和地下出现分化，在本试验中其更偏向于地上性状，本文与周海燕等研究结果相同，短命植物所获得的水分和碳不是主要用于土壤水分和营养的获取，而是主要用于地上部分和光合作用，以快速促进其营养和繁殖生长[26] O",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "类同植株形态性状，在生长季的大多数阶段，凝结水可以改善土壤干旱环境中一年生荒漠植物的水分与光合关系，同时也影响了生物量的形成格局。叶片在吸收凝结水后，可改善其内的水分状况，提高相对含水量，这与Waisel研究结果相同，他发现自然状况下凝结水发生能够显著提高地中海白松( $P i .$ （204号nus halepensis）的相对含水量[27]。Grammatikopoulus等发现，在干旱环境中，被毛植物橙花糙苏（Phlomisfruticosa）接受模拟凝结水后，提高了植物的水势[20]。本研究表明,试验前中期凝结水显著影响狭果鹤虱叶片水势，后期凝结水对狭果鹤虱叶片水势影响较小。这可能是由于前中期狭果鹤虱主要处于生长发育阶段，植株旺盛的生长对水分需求较高，因此凝结水显著影响植物叶片水势。而到后期，植株生长发育停滞，其所吸收的营养和水分主要用于生殖发育，叶片对水分的需求降低，导致凝结水对植物叶片水势的影响能力降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Jones对鼠尾草的研究发现，鼠尾草叶片水分含量高时导致气孔关闭,使得净光合速率降低[28]；Meinzer亦发现，增加水分输人导致植物光合降低[29]。但在本文中,凝结水量与净光合速率和气孔导度都存在正向关系，这与前人研究结果相悖。这可能是由于对长期处于干旱胁迫状态下的荒漠短命植物而言，适量增加植物体内水分输入能够提高植株叶片水势和相对含水量，进而间接影响植物的气孔导度和净光合速率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "茎质比（SMR)在生物量分配中是一个比较稳定的性状，从T1～T3 组，变化幅度为 $3 . \\ 0 \\%$ \\~$1 3 . 5 \\%$ ,这表明凝结水量的多少并不倾向于改变荒漠短命植物狭果鹤虱在营养输送器官上的投资。叶质比(LMR)与植物的光合和生长对策有密切联系，在一定程度上反映植物的资源获取能力和对不同生境的适应特征[30]。本研究结果表明,在不同的凝结水梯度下，个体植株叶质比差异显著( $\\textstyle P < 0 . 0 5 )$ ，这可能是由于稳定的光合器官投入比例有利于在干旱荒漠极度缺水的条件卜对植株低光合速率进行有效补偿，由于凝结水量不同，未能使根质比（RMR)差异显著，表明短命植物狭果鹤虱没有在凝结水量增加的处理下，分配较多的生物量给根系，反而更多的分配到地上部分，导致根生物量减小而叶生物量增加,本研究与龚雪伟等的研究较为一致[31],Grime 和Bloom 等研究发现，寒冷生境中植物更倾向于向地下器官分配更多的同化物，从而使植物个体具有较大的根冠比[32-33] 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "荒漠植物各营养器官生物量随凝结水变化趋势，其总体可能存在特殊的生物量分配模式，该模式反映在植物体对碳水化合物的分配[34],植物为提高生存力，尽可能分配更多物质到繁殖器官以完成生活史，本研究虽未收获狭果鹤虱的繁殖器官，但从营养器官的生物量分配方式也可以得到佐证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）干旱荒漠区，短命植物狭果鹤虱叶片可以吸收并利用凝结水，其株高、冠幅、叶面积和叶厚度随着凝结水的增加而增加。（2）狭果鹤虱的净光合速率和气孔导度随着凝结水量的增加而增加，凝结水可以改善干旱环境下短命植物的水分与光合关系。（3）凝结水处理下，狭果鹤虱存在一种特殊的生物量分配模式：生长周期内叶质比有显著增加，茎质比呈现稳定的状态，而根质比逐渐降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Whitford WG.Ecology of Desert Systems[M].Netherlands:Elsevier,2002.   \n[2] Kidron G J.Altitude dependent dew and fog in the Negev Desert, Israel[J].Agricultural and Forest Meteorology,1999,96(1-3）: 1-8.   \n[3] 白爱宁，余建，边春雷，等.土壤吸湿凝结水研究进展[J].内蒙 古林业科技,2010,36（1）:50-53.［Bai Aining，YuJian,Bian ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chunlei,et al.Research progress on soil absorption and condensation water[J].Journal of Inner Mongolia Forestry Science & Technology,2010,36(1） :50-53.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4］王烨.新疆早春短命及类短命植物的物候观测[J].干旱区研 究,1993,10(3）:34-39.[Wang Ye.Phenological observation of the early spring ephemeral and ephemeroid plant in Xinjiang[J]. Arid Zone Research,1993,10(3）:34-39.]   \n[5］兰海燕,张富春.新疆早春短命植物适应荒漠环境的机理研究 进展[J].西北植物学报,2008,28（7）:1 478-1485.[Lan Haiyan,Zhang Fuchun. Reviews on special mechanisms of adaptability of early-spring ephemeral plants to desert habitats in Xinjiang [J].Acta Botanica Boreali-Occidentalia Sinica,20o8,28（7）： 1 478 -1 485. ]   \n[6］袁素芬,李薇,唐海萍.准噶尔盆地荒漠区短命植物——狭果 鹤虱光合与蒸腾特性研究[J].北京师范大学学报（自然科学 版）,2009,45(2）:188-193.[Yuan Sufen,Li Wei,Tang Haiping.Photosynthesis and transpiprtion of Lappula Semiglabra in the Dzungaria Desert[J]. Journal of Beijing Normal University（Natural Science）,2009,45(2):188 -193.]   \n[7]郭占荣,刘建辉.中国干旱半干旱地区土壤凝结水研究综述 [J].干旱区研究,2005,22（4）:160－164.[Guo Zhanrong,Liu Jianhui.An Overview on Soil Condensate in Arid and Semiarid Regions in China[J]. Arid Zone Research,2005,22（4）: 160 - 164.]   \n[8]Subramaniam A R,Rao A V R K.Dew fallin sand dune areas of India[J].International Journal of Biometeorology,1983,27（3）： 271 -280.   \n[9]马辉英,杨晓东,吕光辉,等.新疆艾比湖湿地自然保护区荒漠 优势种体内的水分来源[J].生态学报，2017,37（3）：829- 840.[Ma Huiying,Yang Xiaodong,Lv Guanghui,et al.Water sources of dominant desert species in Ebinur Lake Wetland Nature Reserve Xinjiang,China[J].Acta Ecologica Sinica,2017,3(3）: 829 -840.]   \n[10］田幼华.南疆水陆混合下垫面大气边界层特征研究[D].乌鲁 木齐：新疆大学,2011.[Tian Youhua.Research of the Atmospheric Boundary Layer Features over Water-Land Mixed Underlying Surface in Southern Xinjiang[D]. Urumqi: Xinjiang University,2011. ]   \n[11］褚建民.干旱区植物的水分选择性利用研究[D].北京：中国 林业科学研究院,2007.[Chu Jianmin.Studies on Selective Utilization of WaterbyPlants in Aridland Region[D].Beijing:Chinese Academy of Forestry,2007.]   \n[12］朱建佳,陈辉,邢星,等.柴达木盆地荒漠植物水分来源定量研 究——以格尔木样区为例[J].地理研究,2015,34（2）：285- 292.[Zhu Jianjia,Chen Hui,Xing Xing,et al. Quantification analysis of water sources of desert plants in Qaidam Basin: A case study of Golmud plot[J]. Geographical Research,2015,34（2）:285 - 292.）   \n[13］杨晓东.胡杨、梭梭的植物根系—土壤水分再分配及调控机理 [D].乌鲁木齐：新疆大学,2011.［Yang Xiaodong.Hydraulic Redistribution and Mechanism of Populus euphratica and Haloxylon persicum in Ebinur Lake Wetland[D]. Urumqi: Xinjiang University,2011.]   \n[14]Pan Y,Wang X,Zhang Y.Dew formation characteristics ina revegetation-stabilized desert ecosystem in Shapotou area,Northern China[J]. Journal of Hydrology,2010,387(3-4）:265-272.   \n[15] Simonin K A,Santiago L S,Dawson T E.Fog interception by Sequoia sempervirens（D.Don）crowns decouples physiology from soil water deficit[J].Plant Cell and Environment,2009,32（7）： 882 -892.   \n[16］庄艳丽,赵文智.凝结水对温带荒漠一年生植物生态作用研究 [J].干旱区研究,2009,26(4）:526-532.[Zhuang Yanli,Zhao Wenzhi. Study on the ecological effects of condensed water on an annual plant in a temperate desert[J].Arid Zone Research ,2009, 26(4) :526-532.]   \n[17］郑新军,李嵩,李彦.准噶尔盆地荒漠植物的叶片水分吸收策 略[J].植物生态学报,2011,35(9）:893-905.[Zheng Xinjun, Li Song,Li Yan.Leaf water uptake strategy of desert plants in the Junggar Basin,China[J]. Chinese Journal of Plant Ecology,2011, 35(9) :893 -905.]   \n[18］任珺,陶玲.新疆北部短命植物的特征分析[J].草业科学, 2005,22（5）:19-24.[Ren Jun,Tao Ling.Characterization of ephemeral plants in northern region of Xinjiang[J].Pratacultural Science,2005,22(5):19-24.]   \n[19］毛祖美,张佃民.新疆北部早春短命植物区系纲要[J].干旱区 研究,1994,11（3）:1-26.[Mao Zumei,Zhang Dianmin.The conspectus of ephemeral flora in Northern Xinjiang[J].Arid Zone Research,1994,11(3):1 -26.]   \n[20]Grammatikopoulos G,Manetas Y. Direct absorption of water by hairy leaves of Phlomis fruticosa and itscontribution to drought avoidance[J].Canadian Journal of Botany,1994,72（12）： 1 805 -1 811.   \n[21]GarrattJR,Segal M.On the contribution of atmospheric moisture to dew formation[J].Boundary-Layer Meteorology,1988,45（3）: 209 -236.   \n[22]Kidron G J.Analysis of dew precipitation in three habitats within a small arid drainage basin,Negev Highlands,Israel[J].Atmospheric Research,2000,55(3-4):257-270.   \n[23］冉启洋.凝结水对荒漠短生植物狭果鹤虱个体、种群和繁殖对 策的影响[D].乌鲁木齐：新疆大学,2014.[Ran Qiyang.Effects of Dew Treatment on the Ephemeral Plant Lappula Semiglabra in a Desert Ecosystem[D]. Urumqi: Xinjiang University,2014.]   \n[24]Lynch J.Root architecture and plant productivity[J].Plant Physiology,1995,109(1) :7-13.   \n[25］张晓影,李小雁,王卫,等.毛乌素沙地南缘凝结水观测实验分 析[J].干旱气象,2008,26(3）:8-13.[Zhang Xiaoying,Li Xiaoyan,Wang Wei,et al.Experimental observationanalysison dew formation in southern Muus-Sangy Land[J].Arid Meteorology, 2008,26(3) :8 -13.]   \n[26］周海燕.荒漠沙生植物生理生态学研究与展望[J].植物学通 报,2001,18（6）:643- 648.[Zhou Hanyan.Current status and perspecitive of eco-physiological researches in psammophytes[J]. Chinese Bulletin of Botany,2001,18(6）:643-648.]   \n[27]Waisel Y.Dew absorption by plants of arid zones[J].Bulletin Research Council Israel,1958,6D:180 -186.   \n[28]Jones UL.The effect of surface wetting on the transpiration of leaves[J].Physiologia Plantarum,1957,10(2）:281-288.   \n[29]Meinzer FC.Stomatal control of transpiration[J].Trends in Ecology&Evolution,1993,8（8）:289-294.   \n[30]VendraminiF,Diaz S,Gurvich DE,et al.Leaf traits as indicators of resource-use strategy in floras with succulent species[J].New Phytologist,2002,154(1):147-157.   \n[31]龚雪伟，吕光辉,冉启洋,等.狭果鹤虱幼苗营养生长和生物量 分配对凝结水梯度的响应[J].应用生态学报,2016,27（7）： 2 257-2 263.[Gong Xuewei,Lv Guanghui,Ran Qiyang,et al. Response of vegetative growth and biomass allocation Lappula semiglabra seedling to dew gradient[J].Chinese Journal of Applied Ecology,2016,27(7) :2 257-2 263.)   \n[32]Grime JP.Plant Strategies,Vegetation Processes,and Ecosystem Properties[M].New York:John Wiley& Sons,2006.   \n[33]Bloom A J,Chapin II F S,Mooney HA.Resource limitation in plants-an economic analogy[J].Annual Review of Ecology and Systematics,1985,16(1) :363-392.   \n[34]Korner C H,Renhardt U.Dry matter partitioning and root length/ leaf area ratios in herbaceous perennial plants with diverse altitudinal distribution[J].Oecologia,1987,74(3）:411-418. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ecological Effects of Condensed Water to Ephemeral Plants Lappula semiglabra in Desert ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Zhi-dong'²，RANQi-yang'2，CHENYue'²， QIE Ya-dong1,²，I LYU Guang-hui2, 3 (1. College of Resources and Environmental Science， Xinjiang University， Urumqi 83oo46， Xinjiang,China; (2.Key Laboratory of Oasis Ecology，Ministry of Education，Urumqi 830046，Xinjiang,China; (3.Institute of Arid Ecology and Environment，Xinjiang University，Urumqi 830046，Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In this study,Lappula semiglabra，an ephemeral plant species and the most sensitive to water conditions inthe Ebinur Lake Wetland Nature Reserve,Xinjiang，northwest China，was selected as the research object. Three condensed water gradients,i.e.，the group T1 without cover，group T2 treated with semi-covered and group T3 treated with complete cover，were designed.The purposes of the study were to lucubrate the effects of condensed water on the plant height，canopy size,leaf area,leaf thickness，root length，root diameter，leaf relative water content，leaf water potential and biomass allocation of L. semiglabra plant.The results showed that : $\\textcircled{1}$ In the late plant growth season，the plant height，canopy size，leaf area，leaf thickness，leaf relative water content，net photosynthetic rate，stomatal conductance and leaf water potential were significantly increased ( $\\textstyle P < 0 . 0 5 ^ { \\cdot }$ ）with the increase of condensed water；onthe contrary，there was no significant diffrence of root length and rot diameteramong the 3 treatments ( $\\textstyle P > 0 . 0 5$ ； $\\textcircled{2}$ The stem mass ratio （SMR）was relatively stable in the biomass allocation, and it varied in a range of $3 . 0 \\% - 1 3 . 5 \\%$ .The difference of leaf mass ratio （LMR） among plants was significant （ $P < 0 . 0 5 )$ ，the root mass ratio（RMR）decreased gradually，but there was no significant diffrence.It could be concluded that the leaves of $L$ .semiglabra in arid area can absorb and utilize condensed water. The morphological characters are highly sensitive to water and have high variability. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:desert region； ephemeral plant； Lappula semiglabra ；condensed water； Ebinur Lake； Xinjiang",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "type": "text",
+        "text": "内蒙古孔兑区叭尔洞沟风水交互侵蚀作用下河谷地貌的演化规律",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马玉凤¹，严平²，杨玉辉³，李双权'（1．河南省科学院地理研究所,河南 郑州450052；2．北京师范大学地表过程与资源生态国家重点实验室,北京100875；3．内蒙古自治区兴安盟气象局，内蒙古 乌兰浩特137400)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以内蒙古孔兑区的叭尔洞沟中游河谷段为研究区,围绕风水交互侵蚀作用的动力特征和侵蚀过程中的地貌形态变化问题,在野外调查和资料收集的基础上,通过野外气象观测与径流小区实验、地形测量与遥感分析等技术手段,对河谷风水交互侵蚀的现代过程进行研究,定量分析河谷不同地貌部位的蚀积格局变化和河谷形态演变。研究发现：在风水交互侵蚀作用下,河谷中游的河床沙丘、谷坡沙丘、阶地沙丘、阶地切沟和冲积扇切沟等风水交互侵蚀的地貌类型以一年为周期发生着循环往复的侵蚀和形态变化。多年来,由于风力和水力周期性的强弱变化，这些交互侵蚀单元的地貌形态发生了规律性的演变,进而控制了叭尔洞沟中游河谷的形态变化，其形态演变主要表现在河道弯曲度、河道宽度、河道偏移方向、河床横剖面倾斜方向以及冲积扇大小和河谷沙丘迁移距离等形态特征上。该研究可为风蚀水蚀交错区的土壤侵蚀防治提供科学借鉴和指导作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：风水交互侵蚀；河谷地貌；侵蚀变化；叭尔洞沟；内蒙古 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风水复合侵蚀是干旱、半干旱地区常见的地貌现象和重要的地表过程[1],其侵蚀强度常常大于单独的风蚀和水蚀强度(2-3]。在我国水蚀风蚀交错区[4]生态环境脆弱[5]、风水交互侵蚀严重，已成为黄河多泥沙、多粗砂的主要源地[6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风力与流水的交互作用作为特殊的地表侵蚀营力组合，塑造了风水交错区独特的地貌景观。这种地貌常常出现在半干旱区河流与沙漠(沙地)相伴生的区域。一方面，干旱区河流通过提供物源并控制沙漠分布的格局[2.7-8]；另一方面,沙漠分布与风沙活动影响河谷发育和泥沙输移[9]。但关于沙漠与河流交互关系的研究相对比较薄弱，现有的研究多侧重于河岸剖面古沙丘沉积学、年代学、地层学等方面[10-11],对沙漠与河流现代地貌格局与过程研究较少，尤其是不同时空尺度沙漠与河流交互关系的研究更为少见。沙漠与河流在宏观尺度上的格局变化，通常都是河岸沙丘微观尺度现象和过程的累加效应，后者又受宏观过程的制约。因此，从局地或地形尺度上(如风沙活动影响下的河道演变、沙丘坡面上的水力侵蚀等)详细监测河谷沙丘与河流交互关系，沙丘与河道的地貌变化，进而预测地貌过程的演变趋势，对完整认识干旱区河流系统和风沙系统相互作用机制至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "位于黄河河套地区的内蒙古十大孔兑，自南向北穿越库布齐沙漠。沙漠宽谷内风水两相地貌系统典型,水土流失严重[12],不仅使其脆弱的生态环境进一步恶化，而且造成的河道淤积成为黄河上游“新悬河”，是形成和频繁出险成灾的大患[13]。孔兑区西侧的叭尔洞沟中游段,风水复合地貌形态发育，谷坡泻溜沙堆、河床沙丘、阶地流动沙丘以及沙地切沟与宽窄相间的河谷交错分布[14],类型多样,是开展沙漠宽谷风水交互侵蚀现代过程研究的理想场地。本研究拟在内蒙古孔兑区的叭尔洞中游河谷段，围绕风水交互侵蚀作用的动力特征和侵蚀过程中的地貌形态变化问题，在野外调查和资料收集的基础上，通过野外气象观测与径流小区实验，地形测量与遥感分析等技术手段，对河谷风水交互侵蚀的现代过程进行研究，分析不同地貌部位的蚀积格局变化，阐明风水交互作用下的河谷形态变化过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "孔兑（“孔兑”为蒙语，意即“山洪沟”)区为黄河内蒙古段由南向北汇人黄河的10 条相邻一级支流所在的流域，位于内蒙古鄂尔多斯市北部，地处黄土高原北部丘陵沟壑区和库布齐沙漠腹地。叭尔洞沟流域位于十大孔兑区，隶属达拉特旗和杭锦旗（图1）。地理位置： $1 0 8 ^ { \\circ } 5 9 ^ { \\prime } 1 9 . 2 ^ { \\prime \\prime } \\sim 1 0 9 ^ { \\circ } 1 1 ^ { \\prime } 2 2 . 6 ^ { \\prime \\prime } \\mathrm { E }$ .$4 0 ^ { \\circ } 2 2 ^ { \\prime } 4 . 4 ^ { \\prime \\prime } \\sim 4 0 ^ { \\circ } 4 ^ { \\prime } 3 6 . 5 ^ { \\prime \\prime } \\mathrm { N }$ ,海拔 $1 ~ 5 6 0 \\sim 1 ~ 0 0 0 ~ \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/46b2d2d2143c288001b176e0b573abb2538aafddb07bdc7e17ed105b78a14ce8.jpg",
+        "img_caption": [
+            "图1叭尔洞沟流域示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叭尔洞沟发源于杭锦旗塔拉沟乡璨上，是卜尔色太沟的支流，河道平均比降为 $6 . 4 \\text{‰}$ ，上游称为宿亥图沟，中下游命名叭尔洞沟，长 $4 4 ~ \\mathrm { k m }$ 。该孔兑流域面积为 $2 5 5 . 7 ~ \\mathrm { k m } ^ { 2 }$ ,多年平均径流深 $8 \\ \\mathrm { m m }$ ,沟短流急，上游河床比降陡，支沟多，中下游比降缓，支沟短小，径流集中，洪水峰高量小，含泥沙量大。研究区为温带大陆性季风气候区、干旱半干旱的高原气候。气温年较差为 $3 6 . 6 ~ \\mathrm { ^ { \\circ } C }$ ,年平均气温 $6 . 1 ~ \\mathrm { { ^ { 9 C } } }$ ,年平均降水量 $2 8 1 . 8 ~ \\mathrm { m m }$ 。冬春季盛行西偏北风，夏季多盛行东偏南风。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2叭尔洞沟中游河谷地貌 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叭尔洞沟蜿蜒曲折，河道呈“藕节”状宽窄相间。上游丘陵起伏，沟壑纵横,植被稀少，地表裸露。中游横穿库布齐沙漠,两岸沙丘呈流动和半固定状态，相对高度 $3 \\sim 1 0 \\mathrm { ~ m ~ }$ 。沙丘之间有较为开阔的河床、河漫滩和河谷阶地（图2）。中游东岸阶地上分布着灌丛沙堆,距岸约 $1 ~ \\mathrm { k m }$ 外分布着固定、半固定沙丘。阶地面向西倾斜,邻近河床的覆沙阶地上和其下的冲积扇边缘发育了大小不一的切沟（图2a,2b)。中游西岸广布着层层叠置的沙丘，在凸岸，沙丘侵入河床形成河床沙丘(图2c）；在凹岸，沙丘在风力的作用下越过阶地面，滑落泻溜下来形成谷坡沙丘;在覆沙的阶地面上叠置有流动半流动沙丘，形成阶地沙丘（图2d）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/07c5f2018685a3705e35130cb72599d233b5ededcfb150b25bf6ce777bf8b74e.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram of the Baerdong River Basin ",
+            "图2叭尔洞沟中游河谷地貌",
+            "Fig.2Valley landforms in the middle reaches of the Baerdong River "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 气象数据收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究的气象数据有两种，一种是1957一2015年达拉特旗逐日风速和降水的长序列数据，采用数理统计法分析风和水两种营力相对的周期变化；另一种是高分辨率短期的气象数据，在叭尔洞中游观测区附近架设Davis自动气象站，地理坐标为：$4 0 ^ { \\circ } 1 1 ^ { \\prime } 2 7 . 7 ^ { \\prime \\prime } \\mathrm { N } , 1 0 9 ^ { \\circ } 8 ^ { \\prime } 3 5 . 8 ^ { \\prime \\prime } \\mathrm { E }$ ，收集 2013—2015年每",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隔 $5 ~ \\mathrm { m i n }$ 的实测数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 地貌形态监测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用奥地利产的RIEGLVZ-2000三维激光扫描仪对叭尔洞沟中游的河谷沙丘和沙地切沟进行三维地形测量。测量时间为2012—2015年的5月上旬和2012—2014年10月初，2015年的12月。在监测区均匀插设反光片，导线式的架站扫描，激光打点距离为 $1 2 ~ \\mathrm { m m }$ 。把每期的点云数据导入RiSCAN软件，据公共反射片将每站扫描的数据进行拼接，拼接误差控制在 $4 ~ \\mathrm { m m }$ 以内。以2014年5月的扫描数据为基准，通过配准将各期数据统一到2014年5月的坐标系下，配准精度控制在 $1 0 \\ \\mathrm { c m }$ 内。在同一坐标系下，利用RiSCAN软件的相关功能对各期地形数据进行量算比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 遥感监测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用4期遥感影像来分析河谷地貌近40a的变化,分别为1978、1998年航片和2005、2014年分辨率为 $0 . 5 \\mathrm { ~ m ~ }$ 的快鸟或WorldView影像。利用Arc-GIS软件对各期影像的不同地貌类型进行人工判读解译，对典型地貌形态进行面积、距离等量算和分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 径流小区监测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在研究区东岸阶地不同植被盖度下布设微型径流小区。该径流小区用铁皮围成，坡下埋设 $2 5 \\mathrm { ~ L ~ }$ 的塑料壶一个，用塑胶软管将产出的泥沙和径流引入壶中。2010年布设2个径流小区，地面坡度为 $5 ^ { \\circ }$ .植被盖度为 $30 \\%$ ,集水面积为 $1 . 2 ~ \\mathrm { m } ^ { 2 }$ 。2014 年布设2 个径流小区，面积为 $1 . 3 \\mathrm { ~ m } ^ { 2 }$ ,地面坡度为 $5 ^ { \\circ }$ ,植被盖度分别为 $10 \\%$ 和 $5 0 \\%$ 。收集每年雨季后的小区径流样品，在实验室烘干测定产沙产流量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4风雨季河谷微地貌形态变化 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1河谷西岸的侵蚀变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1.1河床沙丘的侵蚀变化　据 2012—2015 年观测区河谷窄段的扫描数据（图3和图4），发现这3a窄谷段河床沙丘的形态整体变化不大，沙丘坡面平整，南侧坡面较为平缓，北侧坡面较为陡峭，但雨季前后沙脊线朝向不同。风季后雨季前，由于受风季主导风向西北风的影响，2014、2015年5月河床沙丘脊线朝南侧弯曲。雨季后，河床沙丘脊线向北侧弯曲，尤以2013年10月的向北凹的弧度最为明显。雨季后沙丘脊线与风季中的朝向相反，一方面由于风季后研究区的主导风向发生了改变，另一方面夏季洪水自南向北的流向对沙丘的形态有再塑造作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2012—2015年，窄谷段河床沙丘的进退随风力和降雨量的相对大小变化而变化（表1，图4）。在这3a的雨季中，2012年雨水最大，7、8月发了2场较大的洪水，雨季后沙丘退距河东岸的距离最远。2013年是近几年中风沙较大的一年，雨季降水较少，以2012年雨季后河床沙丘边界线为准，雨季后沙丘2013 年比2012 年前进了 $4 . 5 \\mathrm { ~ m ~ }$ 。2014年与",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2012 年的侵蚀性降水量基本相当，但单次洪水量不大，且2014年平均风速大于2012年，至2014年10月，谷坡沙丘比2012年10月前进了 $3 . 3 \\mathrm { ~ m ~ }$ 。2014年风季后，观测区河床沙丘向东岸前移了 $3 . 5 \\mathrm { ~ m ~ }$ ，雨季时洪水把河床的沙丘泥砂大量带走，侵蚀的最大距离后退了 $6 . 7 \\mathrm { ~ m ~ }$ 。至2015年5月，风力搬运作用使谷坡的沙丘向河床东岸又前移了 $3 . 4 \\mathrm { ~ m ~ }$ ,该年是3a来雨季降水最小的，雨季后，仅沙丘在窄谷段突出的一角向北凹进,而沙丘南北两侧基本无进退,与风季后的边缘线几乎持平，北侧最大后退距离为$0 . 5 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河床沙丘的地貌形态变化及其进退距离，不仅反映出同一侵蚀力在不同年份的相对强度，还反映出两种侵蚀力在同一年份的相对强度。同一年份，风季时河床沙丘受主导风向西风、西北风的影响，沙脊线往南偏；雨季时受洪水的侵蚀作用，河床沙丘脊线向北偏。当风季风的搬运堆积作用弱于雨季洪水的侵蚀作用，风季沙丘的前进距离小于雨季沙丘的后退距离，该年份中风力小于水力侵蚀量，反之，该年份中风力大于水力侵蚀量。而不同年份，年际间风和水力的相对大小也直接作用于沙丘进退河床的多少，影响着河道多年后的发展形态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1.2谷坡和阶地沙丘侵蚀变化据2012—2015年观测区宽谷段扫描数据来看（图5），阶地沙丘的形态受降雨影响甚微，沙丘背风坡的坡形几乎没变化，但受风沙的影响，几年来不断前进。以北端沙丘伸出的一角为例，2012一2015年，阶地沙丘背风坡距阶地陡坎的距离分别为 $5 . 5 \\ 、 4 . 4 、 3 . 2 、 2 . 0 \\ \\mathrm { m } .$ 。到2015年春季原安装在阶地沙丘上的风杯和集沙装置已被掩埋。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阶地沙丘在主导风向的作用下不断向东北方向前进，当沙丘越过阶地面便泄流下来，依阶地面堆积下来形成谷坡沙丘。这种沙丘多发生在宽谷段凹岸，雨季，洪水又将堆积谷坡沙丘带走。当风与水的侵蚀力相对大小不一，会直接影响凹岸的形态。在观测的4a中，2012年，水相对于风的侵蚀力最大，图5中红色边界线下游，阶地下没有堆积风成砂。2013年，水相对于风的侵蚀力小，谷坡下堆积有一定量的风成砂。2014年，水的侵蚀力相对于2013年略大，谷坡堆积的风成砂比2013年略少。至2015 年，是观测时间段中风相对于水侵蚀力最大的一年,堆积的风成砂已把阶地掩盖,形成了谷坡沙丘。当谷坡堆积的风成砂较多时，遇到较大洪水年，",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/460c6d0df5828b07489e8fd9400846f1ccc7d9ea31326fc61e2214ae1730d977.jpg",
+        "img_caption": [
+            "图32012—2015 年叭尔洞河谷窄段河床沙丘形态三维扫描图 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Thre-dimensionalscaningmapofthedunemorphologyonthebedinanarowvallyoftheBaerdongRiverfrom212to2015 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4201b7aad5034ac0e7df23ceba39764c791588d625f3388886ea83a257adce72.jpg",
+        "img_caption": [
+            "图42012—2015年叭尔洞沟中游河床沙丘的进退变化对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Mapof advance and retreatof duneson the bed inthe middle reachesof the Baerdong River from2O12 to 2015 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1叭尔洞沟流域风、水营力特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5786dc429995a78b6a4174df6b689594d9e00a3e4662648ccf6c44717f51088.jpg",
+        "table_caption": [
+            "Tab.1Wind and water erosion in the Baerdong River Basin "
+        ],
+        "table_footnote": [
+            "注：\\*起沙风 $\\geqslant 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 号"
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>年降水量 /mm</td><td>侵蚀性降水 /mm</td><td>平均风速 /(m·s-1)</td><td>年起沙风* 时间/min</td></tr><tr><td>2012</td><td>443.8</td><td>283.6</td><td>1.36</td><td></td></tr><tr><td>2013</td><td>305.8</td><td>191.1</td><td>1.61</td><td>51 765</td></tr><tr><td>2014</td><td>400.5</td><td>289.3</td><td>1.48</td><td>27 530</td></tr><tr><td>2015</td><td>188.4</td><td>93.1</td><td>1.54</td><td>42 575</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙丘坡底部受到强力侵蚀，谷坡上部的沙丘受重力作用坍塌或泻溜下来，当长时间风力相对于水力侵蚀占主导时，谷坡沙丘不断向河床移动，在宽谷段的凹岸形成小的凸岸；当谷坡堆积的风成砂较少时，雨季大部分被洪水带走，翌年风季再堆积，如此周而复始。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2河谷东岸的侵蚀变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叭尔洞沟中游东岸阶地面表层覆盖为风沙土，下伏地层大部分为白垩纪侏罗系黄绿或紫红色泥质长石砂岩、砾岩（当地称砥砂岩），岩性结构松散，易风化,遇水即碎。临岸阶地面坡度为 $0 ^ { \\circ } \\sim 1 5 ^ { \\circ }$ ，向西倾斜，雨季易发生沟蚀和坡面侵蚀，侵蚀的泥沙沿坡堆积在阶地下面。在窄谷段，洪水侵蚀力强，带走堆积的大量泥沙；而在宽谷段，水流分散，挟沙能力较弱，未能带走侵蚀下来的大部分泥沙，逐渐形成了冲积扇。同时，冲积扇扇面上还沉积有洪水从上游搬运的泥沙。近年来，降水条件好，冲积扇上生长了以沙蒿为主的植被，覆盖度达 $5 0 \\%$ 左右。由于冲积扇楔形的坡面，在扇缘发育了较多切沟。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.1沙地切沟侵蚀河流东岸阶地上分布着大小不一的切沟。风季，在主导西风的作用下，风沙流从河道西岸向东岸运行，在东岸切沟遇阻堆积（图6a);雨季，切沟发生侵蚀，沟头前进，沟道拓宽，沟壁侵蚀加深，沟底松散的风成砂和沟头上游侵蚀的泥沙均通过切沟流向河道中。泥沙在搬运过程中，遇到沟底崎岖的地形和植被，部分沉积在沟底。此外，降雨对沟岸的侵蚀，使得沟底也有泥沙沉积。雨季后，沟底所插侵蚀扦被泥沙覆盖折断或倾斜（图6b）。2010年5月和10月对观测区一阶地切沟进行监测，通过测量沟底侵蚀扦，计算得出沟底泥沙量雨季后比雨季前略增加了0.31$\\mathbf { m } ^ { 3 }$ 。尽管沟底部变浅,堆积了泥沙,但在风水交互侵蚀作用下沟底经历了多次的泥沙搬运和堆积过程。同时，雨季后沟岸边界线增加了 $2 . 1 \\mathrm { ~ m ~ }$ ，切沟面积增加了 $5 . 4 \\ \\mathrm { m } ^ { 2 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014年5月和10月对河谷东岸冲积扇上一典型切沟做了地形扫描。该切沟深 $1 \\mathrm { ~ m ~ }$ ，沟尾已切到河床。沟壁距地表 $1 0 \\ \\mathrm { c m }$ 有直径 $0 . 1 \\ \\sim \\ 0 . 5 \\ \\mathrm { c m }$ 的小砾石层，其余为中砂层，底部又可见小砾石层。风季，与阶地切沟相似，冲积扇切沟内堆积了风沙土（图7a）。雨季，阶地面上汇流的大量含砂水流冲击到其下冲积扇上，在扇缘区发生了明显的切沟侵蚀，主要表现在沟头的后退和沟道的扩张（图8），且沟壁有大量的塌陷（图7b）、明显的掏蚀洞和跌水等现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.2沙地坡面侵蚀叭尔洞沟东岸阶地面上植被盖度分布不均，但覆沙的坡面基本向西倾斜。雨季时，阶地面上发生了不同程度的坡面侵蚀，被侵蚀的沙物质沿坡面流向河道。2010年和2014年对东岸阶地面上的4组微型径流小区作了水沙流失监测（表2）。在不同植被盖度和不同水力侵蚀强度下，东岸阶地面上发生了不同程度的侵蚀，水沙量的流失多少不一。2010 年雨季，在坡度为$5 ^ { \\circ }$ 植被盖度为 $30 \\%$ 的沙地上，单位面积产沙、产流量分别为 $5 5 . 8 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和 $6 ~ 9 3 0 ~ \\mathrm { \\ m L } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。2014年雨季，在坡度为 $5 ^ { \\circ }$ 植被盖度为 $10 \\%$ 的沙地上，单位面积产沙、产流量分别为 $1 ~ 4 2 6 . 9 ~ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和$1 9 ~ 4 4 6 ~ \\mathrm { m L } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。而在植被盖度约为 $5 0 \\%$ 的坡面上,单位面积产沙、产流量分别为 $1 ~ 0 5 2 . 3 ~ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 和 13 154 mL·m−²。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2010年和2014年的侵蚀性降水量分别为$1 5 7 . 3 ~ \\mathrm { m m }$ 和 $2 8 9 . 3 ~ \\mathrm { m m }$ ,可代表近年来水动力较弱和较强的情况。在降雨侵蚀力较强年，尽管是植被盖度较高( $5 0 \\%$ )的径流小区，其坡面产沙产流量远远大于植被盖度( $30 \\%$ )较低、降雨侵蚀力较弱的径流小区。侵蚀性降雨量增大约2倍，单位面积的产流量增大了2倍左右，但产沙量可增大到20倍左右。在同一坡度同一水动力侵蚀条件下，植被盖度相差4倍的沙质地表，单位面积的产沙产流量相差较小， $5 0 \\%$ 植被盖度地表的单位产沙量和产流量比$10 \\%$ 的分别少了 $2 6 \\%$ 和 $32 \\%$ 。可见，东岸阶地松散的沙质地表对水蚀的敏感性很强，在水动力较强年份，阶地坡面侵蚀量可观，地表被侵蚀的沙物质既是其下冲积扇形成的物源，也是高含沙洪水的一个重要物源，只是在不同形态的河谷段搬运和堆积过程的形式不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01feaf5b6d6e8be4e2497bdfef5d58ca8df8a4c6491dfbe021a9dc26fa4f900d.jpg",
+        "img_caption": [
+            "图52012—2015 年叭尔洞沟河谷凹岸沙丘地形三维扫描图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Three-dimensional scanning mapof dune morphologyontheconcave bankof the Baerdong Valeyfrom2012to 2015 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/93cdab50c8420cbc5f25886625454eefa1e895f3a1b9ab677dfe987c375ee531.jpg",
+        "img_caption": [
+            "Fig.6Change of the gullies on the east bank of the Baerdong Valley before and after rainy season "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/10e51725da5f44ebc7fac573728b0c1ad6ad9a3055d69f7859778690e4675ac1.jpg",
+        "img_caption": [
+            "图6河谷东岸阶地切沟雨季前后变化",
+            "图72014年叭尔洞沟冲积扇扇缘切沟风季、雨季照片"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Photos of thegulieson the alluvial fan margin in the Baerdong River in windy season and rainyseason 2014 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/51c25dd1345f90293b03d619cb6a430839896ccecd3651d840446153336de9a3.jpg",
+        "img_caption": [
+            "图82014年雨季前后叭尔洞沟冲积扇扇面切沟轮廓"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Profile of gulies on the alluvial fan in the Baerdong River Basin before and after rainy season 2014 ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/25311bb1957b9422d0d494255dcdc7c7042e9fbed4019d9be1bf8cb92eea6f55.jpg",
+        "table_caption": [
+            "表2 叭尔洞沟径流小区侵蚀监测 ",
+            "Tab.2Monitored results of erosion in runoff plots in the Baerdong River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>植被盖度 /%</td><td>坡度 （）</td><td>面积 /m²</td><td>侵蚀性降雨量 /mm</td><td>产沙量 /g</td><td>产流量 /mL</td><td>平均产沙量 /(g·m-²)</td><td>平均产流量 /(mL·m-²)</td></tr><tr><td>2010</td><td>30</td><td>5</td><td>1.2</td><td>157.3</td><td>66.78</td><td>7116</td><td>55.65</td><td>5 930</td></tr><tr><td>2014</td><td>10</td><td>5</td><td>1.3</td><td>289.3</td><td>1 855</td><td>25280</td><td>1 426.92</td><td>19 446</td></tr><tr><td>2014</td><td>50</td><td>5</td><td>1.3</td><td>289.3</td><td>1 368</td><td>17 100</td><td>1 052.31</td><td>13 154</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5风水动力的周期性与河谷形态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1 风水动力周期变化 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "侵蚀性降雨[15-16]和起沙风是风、水动力的重要指标，两者在年际间的配置关系反映了风水交互作用的动力特征。据1957—2015年的气象数据分析，研究区的侵蚀性降雨量呈现出先降低再逐渐增大的趋势（图9）。从20世纪50年代末至80年代末侵蚀性降水量逐渐减少，从90年代初至今，侵蚀性降雨量表现为逐渐增加，但较平缓的趋势。近60a,达拉特旗年均风速和起沙风日数均呈明显下降趋势（图10）。将两者的配比关系做序列分析（图11）。1957—2015年分为两个大的周期。第一个周期为",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1957一1978年,处于以风沙大为主而侵蚀性降雨波动的时期，这个时期起沙风在正值区域的相对变率较大，侵蚀性降水的相对变率在正负值之间跳动;第二个周期为1979—2015年，处于风沙小而以侵蚀性降雨为主的时期。其中，1979—2002 年进入一个风沙较小侵蚀性降雨少的阶段。该阶段侵蚀性降雨和起沙风日数的相对变率基本都处在负值区，且相对变率变化值较小;2003一2015 年进入一个以侵蚀性降雨占主导风沙最小的时期，尽管该时期侵蚀性降雨的相对变率在正负值之间波动，但起沙风日数的相对变率处于负值区且相对变率变化值最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2 河谷形态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "西岸沙丘发育在河谷的部位（凸岸和凹岸）及",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1f3f5047d2066004c7e5c059df8154af87f147b76df52ba887e8aeb18ecb55.jpg",
+        "img_caption": [
+            "图91957—2015年研究区侵蚀性降水变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Change of erosive rainfall in the study area from 1957 to 2015其与风向的对应关系不同，其形态变化和对河道的影响也不同。库布齐沙带穿越叭尔洞沟，风成砂主要分布在该河流的中游,沿河谷长约 $8 ~ 8 2 0 \\mathrm { ~ m ~ }$ 。其中,中游河谷南部风沙段长 $3 ~ 6 6 6 ~ \\mathrm { ~ m ~ }$ ,以半固定沙丘为主,植被覆盖度高;北部以流动和半流动沙丘为主。近年来,南部建设铁路，受人为干扰大。下文以铁路以北的中段河谷为例，选取3个典型的河段来分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f852afcafd4154569710a87c5977081866d70c943f63e8331a782cc51f8576f6.jpg",
+        "img_caption": [
+            "Fig.10Change of wind speed in the study area from 1957 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/56d1da67f62d1824563dc5fed05bd9258162c6de33f3b86c855a3aebba2d939a.jpg",
+        "img_caption": [
+            "图101957—2015年研究区风力变化特征",
+            "图111957—2015 年研究区风力水力配置变化特征",
+            "Fig.11Change of wind speed and water regime in the study area from 1957 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近40a来，进入了少风多雨期，据遥感影像分析，河谷形态发生了显著变化（表3，图12）。从宽谷的河段长和形态来看（红色标号）：1号河段，1978年时河道微弯，河段长 $1 4 7 . 7 \\mathrm { ~ m ~ } , 1 9 9 8$ 年以后，该处河道已成“弯弓\"形，随着时间的延长，弓口拓宽，弯度减小，逐渐向东侧迁移；2号河段也有类似现象，1978—2014年该处河段长在 $1 6 6 . \\mathrm { ~ 1 ~ } \\sim 3 5 2 . \\mathrm { ~ 4 ~ m ~ }$ 变化，呈不断延长趋势。近40a来，尽管此河段形态也在不断拓宽，弯度变小，弓深增加，向东侧偏移，但弓形南北两侧不对称的趋势越发明显，弓形北侧壁缩短，南侧壁拉长，与河流的冲积流向一致;3号河段与1、2号河段处略有不同，1978年，3号段处较平直，其南侧的河弯到了1998年消失，而在该河段处出现了向西侧倾斜的河弯，接着河段弓形不断拉伸，弓口不断拓宽，且在2014年，3号宽谷中间出现了一个向东凸起的小河弯。由于形态变化的差异，3号河段长也处于或增或减的变化中。从宽谷段的冲积扇发育来看，尽管1978年冲积扇的形态不明显，但1998一2014年的影像显示，随着河谷的拓宽，河弯东移，1、2、3号河段冲积扇的发育范围不断扩大，面积逐渐增大。一方面不断接受阶地面侵蚀下来的以及洪水从上游带来的泥沙堆积，另一方面受到阶地面流下的水流和上游下来的洪水侵蚀，因此冲积扇发育形态并不是典型的扇形，而是在河谷横向和纵向流水同时改造作用下形成的；从西岸的阶地沙丘变化来看，在风力的搬运作用下不断向东岸迁移（黑色标号）。1978年航片的分辨率较低，无法量测沙丘距岸距离，但从1998—2014年，1、2、3号处的阶地沙丘临岸距离基本处于不断减小的趋势，由于2号沙丘所在的河道从1998—2005年的形态变化较大，河岸沙丘距岸的相对距离出现了变大的情况，但其绝对位置还是向东前进了 $5 1 \\mathrm { ~ m ~ }$ ,平均每年迁移距离在 $6 . 7 \\sim 1 2 . 9 \\mathrm { ~ m ~ }$ 变化,2005—2014 年,河岸沙丘的迁移距离平均变化在 $4 . 4 \\sim 6 . 0 \\mathrm { ~ m ~ }$ ,近40a来,研究区的风力处于逐渐变小的趋势，沙丘的前进速度也逐渐减小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/35910fb419fd08841a75743010ef29c0464c67df1278d720054bb1c020a9eb5a.jpg",
+        "table_caption": [
+            "Tab.3Change of channel patterns of the Baerdong River from 1978 to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"3\">阶地沙丘距岸距离/m</td><td colspan=\"3\">冲积扇面积/m²</td><td colspan=\"3\">宽谷河段长/m</td><td colspan=\"3\">河弯变化特征</td></tr><tr><td>1号</td><td>2号</td><td>3号</td><td>1号</td><td>2号</td><td>3号</td><td>1号</td><td>2号</td><td>3号</td><td>1号</td><td>2号</td><td>3号</td></tr><tr><td>1978</td><td>已变</td><td>已变</td><td>已变</td><td>形态已变</td><td>不清</td><td>不清</td><td>147.7</td><td>166.1</td><td>290.5</td><td>半弓</td><td>弓形</td><td>较平直</td></tr><tr><td>1998</td><td>185</td><td>62</td><td>137.2</td><td>14 115</td><td>4 357.7</td><td>8 585.4</td><td>595</td><td>284.3</td><td>383.2</td><td>弓形,弯曲度弓臂拉伸,弯 大</td><td>曲变小</td><td>出现弓形，变弯</td></tr><tr><td>2005</td><td>94.8</td><td>95.6</td><td>90.4</td><td>18 633.7</td><td>5720.1</td><td>8261</td><td>549.5</td><td>294.7</td><td>284.3</td><td>曲度小</td><td>弓深长</td><td>弓臂较宽,弯 弓形不对称，弓臂拉伸,弯度较 大</td></tr><tr><td>2014</td><td>50.6</td><td>41.6</td><td>50.1</td><td>20 340.7</td><td>5828.8</td><td>8991.2</td><td>595.4</td><td>352.4</td><td>306.5</td><td>弓臂更宽，弯 曲度更小</td><td>称,弓深更长的小河湾</td><td>弓形更不对弓臂拉伸,出现新</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed8b7d349a1884ae2f41ec7c6f8aacd1c987098f33100e72fd5c2d3434781cd2.jpg",
+        "img_caption": [
+            "图121978—2014 年叭尔洞沟中游段河谷形态变化",
+            "Fig.12Change of valley patterns in the middle reaches of the Baerdong River from 1978 to 2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "整体来看，近 $4 0 \\mathrm { ~ a ~ }$ 是少风多雨期，叭尔洞沟河谷形态变化受水动力作用明显，宽谷段弓字形弯曲度变小，弓臂拉伸，弓深增加,河弯向东侧偏移，河道也向东迁移，而窄谷段向东弯曲的夹角越发的尖锐和狭小，同时宽谷段的冲积扇在横向和纵向流水的改造作用下，不断发育扩大。越向上游，流动沙丘的面积越大，在风力作用下的迁移速度和堆积量也越大，西岸阶地沙丘涌入河床形成新的河弯",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6风水交互侵蚀下的河谷形态演变规律",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在河谷比降一定的条件下，河流形态的变化与流量、含沙量和边界组成有关。叭尔洞沟中游河谷，河流的流量、含沙量主要与降雨大小有关，而中游的东、西两岸边界是风水交互侵蚀的地貌单元，其交互作用类型分为两大类，河谷沙丘和沙地切沟（表4）。在风水交互侵蚀作用下，河谷中游的各地貌类型以一年为周期发生循环往复的侵蚀和形态变化。多年来由于风力和水力相对强度的周期变化，这些交互侵蚀地貌单元的形态也发生周期性的演变，进而控制了叭尔洞沟中游河谷的形态变化，其形态演变主要表现在河道弯曲度、河道宽度、河道偏移方向、河床横剖面倾斜方向以及冲积扇大小、河谷沙丘迁移距离等形态特征上（图13）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a9523900c5155f1a935331caadaabecc7364f943c01569f3877277a5a2a82a7.jpg",
+        "table_caption": [
+            "表31978—2015年叭尔洞河道形态变化特征",
+            "表4叭尔洞流域风水交互侵蚀地貌类型",
+            "Tab.4Landforms of aeolian-fluvial joint erosion in the "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">BaerdongRiverBasin</td></tr><tr><td>群体组合 地貌(I)</td><td>地貌类型 (II)</td><td>交互作用 类型</td><td>交互侵蚀形式</td></tr><tr><td>中游河谷</td><td>河床沙丘</td><td>河谷沙丘</td><td>风力堆积一洪水侵蚀</td></tr><tr><td rowspan=\"4\"></td><td>谷坡沙丘</td><td></td><td>风力堆积—沙丘坍塌一洪 水侵蚀/坡面侵蚀</td></tr><tr><td>阶地沙丘</td><td></td><td>风力堆积一坡面侵蚀</td></tr><tr><td>阶地切沟</td><td>沙地切沟</td><td>风蚀风积一沟蚀</td></tr><tr><td>冲积扇切沟</td><td></td><td>风蚀一沟蚀</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在风沙少降雨多的时期，风成砂在河岸西侧不同地貌部位(凹、凸岸和不同植被盖度)以崩塌、泻溜、迁移等方式和不同的速度向河床上移动；到了雨季，东岸坡面侵蚀和沟蚀的大量泥沙堆积到阶地下逐渐形成冲积扇，同时冲积扇又以沟蚀为主向河道输送泥沙。随着冲积扇的不断加高拓宽，河道受到束缚，河床横剖面向西倾斜，致使河岸西侧侵蚀加重，河床上的风成砂被洪水大量带走。河道形态发生了改变：河道向西岸摆动拓宽;藕节状的河道形态更加凸显，宽谷段变长，窄谷段变短，即“弓”字形的河谷弓臂变长，弓深更宽。西岸河床沙丘在风水交互侵蚀作用下，以增长一削减一再增长的方式以一年为周期往复循环,而阶地上叠置的沙丘(沙堆)在盛行风向下不断向河岸移动，当越过阶地边缘时，泻溜或在河床上形成新的沙丘（沙堆），雨季时，再受洪水的侵蚀作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea6cd0f8aa951ed32bc66ab24a50ca57458caaec3f19b02f120622050de80219.jpg",
+        "img_caption": [
+            "图13风水交互侵蚀下河谷地貌演化示意图",
+            "Fig.13Valley landform evolution under aeolian-fluvial joint erosion "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在风沙多降雨少的时期，西岸风成砂堆积量大于流水的侵蚀量，大量的流沙堆入河床，沙丘不断向东侧河床中移动，平均每年流沙涌入河床5～10$\\mathbf { m } ^ { [ 1 7 ] }$ ,束缚河道,迫使河床横剖面向东倾斜,洪水期河流主流东移，冲刷东岸。西岸风成砂冬春堆积，夏季被洪水带走，周而复始。由于此时期风力搬运堆积占主导，长期造成洪水冲击东岸，再加之沙丘的东移，不仅使整个河道向东移动，而且使河道弯曲成弓形或河道弓形的弯曲度更大，弓臂变短。同时东岸沟蚀和坡面侵蚀减少，泥沙堆积作用减缓，由此产生的沉积物减少，东岸阶地面侵蚀的冲积扇增长缓慢，并受洪水的侧蚀，冲积扇面积和扇形面弧度变小。阶地上叠置的沙丘(沙堆)不断向东岸移动，越过阶地面形成新的沙丘（沙堆），由于受水力侵蚀作用小，河道的弓字形发生改变，在弓臂处形成新的小弯曲，即凹岸中出现小的凸岸。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）叭尔洞沟西岸河床沙丘的形态变化及其进退距离，不仅反映出同一侵蚀力在不同年份的相对强度，还反映出两种侵蚀力在同一年份的相对强度。同一年份，当风季风的搬运堆积作用弱于雨季洪水的侵蚀作用，风季沙丘的前进距离小于雨季沙丘的后退距离，该年份中风力小于水力侵蚀量，反之，该年份中风力大于水力侵蚀量。年际间风和水力的相对大小也直接作用于河谷沙丘进退河床的多少，影响着河床多年后的发展趋势。当长时间风力相对于水力侵蚀占主导，谷坡沙丘不断增长向河床移动，在宽谷段的凹岸形成小的凸岸；当谷坡堆积的风成砂较少时，雨季大部分被洪水带走，翌年风季再堆积,如此周而复始。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）叭尔洞沟东岸冲积扇扇面和阶地前缘在雨季均发生了较为明显的切沟侵蚀，而阶地松散的沙质地表对水蚀的敏感性很强。在水动力较强年份，地表侵蚀的沙物质既是阶地下冲积扇形成，也是高含沙洪水的一个重要物源，只是在不同形态的河谷段搬运和堆积过程的形式不同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）在近40a来的少风多雨期，叭尔洞沟河谷形态变化受水动力作用明显，宽谷段弓字形弯曲度变小，弓臂拉伸，弓深增加，河弯向西侧偏移，河道也向西迁移，窄谷段向东弯曲的夹角越发的尖锐和狭小，而宽谷段的冲积扇在横向和纵向流水的改造作用下，不断发育扩大。越向上游，流动沙丘的面积越大，在风力作用下的迁移速度和堆积量也越大，西岸阶地沙丘涌入河床形成新的河弯。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（4）在风水交互侵蚀作用下，各地貌类型以一年为周期发生循环往复的侵蚀和形态变化。多年来由于风力和水力相对强度的周期变化，这些交互侵蚀单元的地貌形态在累加效应下发生了周期性的演变，进而控制了叭尔洞沟中游河谷的形态变化，其形态演变主要表现在河道弯曲度、河道宽度、河道偏移方向、河床横剖面倾斜方向以及冲积扇大小、河谷沙丘迁移距离等形态特征上。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "风和水的侵蚀贡献率对等临界范围值、两者之间相对的风强水弱以及相对的风弱水强的区域值范围，决定着风水交互侵蚀区河谷地貌形态的演化，这将作为后续研究中的一个主要问题。降水的多少，风沙的强度与植物的生长有着密不可分的关系，而植被的变化影响着沙丘的增长、形态变化以及沙地侵蚀过程。本文从地貌的形态演变进行了一定时间尺度分析，植被与地貌关系有待于进一步研究。半干旱区河流与沙漠(沙地)相伴生的区域，风水交互侵蚀作用下河道形态的演变并非遵从平原、山地等河流的形态演变规律，而有其特殊的规律，这有待于在实测数据的基础上研究这类河流的演变过程。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]宋阳,刘连友，严平.风水复合侵蚀研究述评[J].地理学报, 2006,61(1):77-88.[Song Yang,Liu Lianyou,Yan Ping.A review of soil erodibility in water and wind erosion research[J]. Journal of Geographical Sciences,2006,61（1） :77 -88.]   \n[2] Bullard JE,McTaish GH.Aeolian-fluvial interactions in dryland environments:Examples,concepts and Australia case study[J]. Progress in Physical Geography,2003,27:471 -501. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3]Bullard JE,Livingstone I. Interactions between aeolian and fluvial systems in dryland environments[J].Area,2002,34(1):8-16. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4]邹亚荣,张增祥,王长友,等.中国风水侵蚀交错区分布特征分 析[J].干旱区研究,2003,20（1）:67-71.[Zou Yarong,Zhang Zengxiang,Wang Changyou,et al．Analysis on the distribution characteristics of the interleaving zones of water/wind erosion in china[J].Arid Zone Research,2003,20(1）:67-71.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5]海春兴，史培军,刘宝元,等.风水两相侵蚀研究现状及我国今后风水蚀的主要研究内容[J].水土保持学报，2002，16（2）：50- 52,56.[Hai Chunxing,Shi Peijun,Liu Baoyuan,et al.Researchstatus of wind and water doubl erosion and its main study contentin furfure[J].Journal of Soil and Water Conservation,2O06,16(2):50 -52,56.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6]谭克龙,高会军,卢中正,等.中国半干旱生态脆弱带遥感理论 与实践[M].北京：科学出版社,2007.［TanKelong,Gao Huijun,Lu Zhongzhen,et al.Remote Sensing Theory and Practice in Semi-Arid Ecological Fragile Zone in China[M].Beijing:Science Press,2007.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7]靳鹤龄，董光荣.试论干旱区河流在沙漠地貌发育中的作 用一—以塔克拉玛干沙漠和田河流域为例[J].中国沙漠， 2001,21(4）:367-373.[Jin Heling,Dong Guangrong.Prelimina ry study on the role of river wriggling in the evolution of Aeolian landforms in arid region:Taking Horan River as an example[J]. Journal ofDesert Reseatch,2001,21(4）:367-373.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] Draut A E.Effects of river regulation on aeolian landscapes,Colorado River,southwestern USA[J].Journal of Geophysics Research,2012,117:F02022. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]Tooth S,Nanson G C.Distinctiven ess and diversity of arid zone river systems[C]//Thomas D S G.Arid Zone Geomorphology: Process,Form and Change in Drylands.3rd ed.John Wiley & Sons,New York,269-300. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]Farray AA,Harvey A M.Late Quaternary interactions between aeolian and fluvial processes:A case study in the Northern UAE[J]. Journal of Arid Environments,2004,56:235-248. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11]Simpson EL,Hilbert-Wolf Hl,Simpson W S,et al.The ineraction ofaeolian and fluvial processes during deposition of the Upper Cretaceous capping sandstone member,Wahweap Formation,Kaiparowits Basin,Utah,USA[J].Palaeogeography,Palaeoclimatiology, Palaeoecology,2008,270:19 -28. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12]内蒙古草场资源遥感应用考察队伊克昭盟分队.内蒙古鄂尔 多斯高原自然资源与环境研究[M].北京：科学出版社，1990. [Grassland Resources Remote Sensing Application Investigation Team of Yikezhao League in Inner Mongolia.Study on Natural Resources and Environment of Ordos Plateau in Inner Mongolia[M]. Beijing:Science Press,1990.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13]刘晓燕，侯素珍，常温花.黄河内蒙古河段主槽萎缩原因和对 策[J].水利学报,2009,40（9）:1048-1054.[Liu Xiaoyan, Hou Suzhen,Chang Wenhua.Cause of main channel shrinkage occurred to the Inner Mongolia reaches of Yellow River[J].Journal ofHydraulic Engineering,2009,40(9）:1048-1 054.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14］马玉凤.黄河上游典型地区风水交互侵蚀过程和机理[D].北 京：北京师范大学,2011.［Ma Yufeng.The Process and Mechanism of Aeolian-fluvial Interactions in the Typical Area of Upstream of the Yellow River[D].Beijing:Beijing Normal University,2011.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]王万忠.黄土地区降雨特性与土壤流失关系的研究Ⅱ——关于侵蚀性降雨的标准问题[J].水土保持通报，1984，4（2）：58-63.［Wang Wanzhong.Study on the relations between rainfallcharacteristics and loss of soil in loess region[J].Bulletin of SoilandWater Conservation,1984,4(2):58-63.][16]谢云，刘宝元，章文波.侵蚀性降雨标准研究[J].水土保持学报,2000,14(4）:6-11.[Xie Yun,Liu Baoyuan,ZhangWenbo.Studyon standardoferosiverainfall[J]. Journal ofSoilWater Con-servation,2000,14(4) :6 -11.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17]许忠.风沙对沟川发育的影响[J].泥沙研究，1983（2）：67-73.[Xu Zhong.Effects of wind and sand on the development ofrivervalley[J]. Journal of Sediment Research,1983（2）:67-73.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Valley Landform Evolution under Aeolian-Fluvial Joint Erosion in the Baerdong River Basin in Inner Mongolia, China ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "MA Yu-feng'， YAN Ping²， YANG Yu-hui³，LI Shuang-quan' (1. Institute of Geography,Henan Province Academy of Sciences,Zhengzhou 45oo52,Henan,China ; 2.State KeyboratoryfEarthurfaceProcesesndResources Ecology,BeijingNormalUniversity,Beijingo87ina; 3.Xing'an League Meteorological Bureau,Ulanhot 1374Oo,Inner Mongolia,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The study area is located inthe middlereachesof theBaerdong Riverin Inner Mongolia.This study focused mainly on the dynamic geomorphological evolution caused by aeolian-fluvial joint erosion.Based on the field work and collecting the related data,the meteorological observation,runoff plot experiment,topographic survey and remote sensing analysis were applied to studythe modern process ofaeolian-fluvial joint erosion.The change of erosion patternof diferent landforms and theevolution process of valley morphology were quantitatively analyzed.The results showed that the geomorphic types in the middle reaches of the Baerdong River are mainlythe dunes on he riverbed,valley slopes and terraces as wellas the gullies on the terraces and alluvial fans.The erosion and morphologic evolution of these landforms repeat circularly in ayear.Because of the periodic changes of wind speed and waterregime,these aeolian-fluvial jointly eroded units have evolved regularlyand controlled the changeof valey landforms in the middle reaches of the Baerdong River for many years.The morphological changes could be mainly manifested in therivercurvature,widthof theriverchannel,shfting directionoftheriverchannel,tiltdirectionof transverse section of riverbed,size of the aluvial fans and the migration distance of the sand dunes in vally.The study results could be referred in further researching and controlling soil erosion in theaeolian-fluvial joint erosion area. Kev words.aenlian-fluvial inint ernsion· vallev landform· evolutin law.Raerdono River· Inner Monoolia ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

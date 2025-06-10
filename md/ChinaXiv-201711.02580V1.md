@@ -1,0 +1,113 @@
+# 改进的McAllister三体模型推算二元混合物的黏度
+
+王小杰 王晓坡
+
+(西安交通大学热流科学与工程教育部重点实验室，西安710049)
+
+摘要McAllster三体模型被普遍认为是针对液体混合物黏度的最佳关联式。本文在对三类(醇类/醇类、烷烃/烷烃、烷烃/醇类)二元混合物黏度数据进行文献收集的基础上，发现 McAllister 模型中的相互作用参数（ $\cdot \nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ ）随混合物的等效分子量和温度呈现出规律性的变化。因此，本文建立了一种改进的 McAlister 三体模型，并对乙醇与醇类（包括丙醇、丁醇、戊醇、已醇、庚醇、辛醇、壬醇、癸醇)，正丁基环己烷与烷烃(包括庚烷、辛烷、壬烷、癸烷、十二烷、十四烷)，异辛烷与醇类（包括丙醇、戊醇、已醇、庚醇）的黏度进行了计算，计算结果表明，计算值与实验值之间的总体平均绝对偏差为 $1 . 0 0 \%$ ，最大偏差为 $9 . 7 5 \%$
+
+关键词McAllister三体模型；二元混合物；黏度推算中图分类号：TK123 文献标识码：A 文章编号:0253-231X(2017)08-1603-04
+
+# Improved McAllister Three-Body Model to Calculate Viscosities of Binary Mixtures
+
+WANG Xiao-JieWANG Xiao-Po (Key Laboratory of Thermo-Fluid Science and Engineering,Ministry of Education,Xi'an Jiaotong University，Xi'an 710049,China)
+
+Abstract McAlister three-body model is generally regarded as the best correlation for the viscosities of liquid mixtures. In this work, the viscosity data of three types of binary mixtures,such as alcohols/alcohols,alkanes/alkanes,alkanes/alcohols，were colected extensively from the literature. Investigation shows that the interaction parameters ( $\nu _ { 1 2 }$ and $\nu _ { 2 1 }$ ） in the model exhibit regular trends along with equivalent molecular weights of binary mixtures and temperatures.Therefore,an improved McAllister three-body model was proposed. The new model was used to calculate the viscosities of different binary mixtures,including ethanol withalcohols (suchas 1-propanol,1-butanol,1-pentanol, 1-hexanol,1-heptanol, 1-octanol,1-nonanol,1-decanol), $n$ -butylcyclohexane with alkanes (such as 1-heptane,l-octane,l-nonane,1-decane,1-dodecane,1-tetradecane), isooctane with alcohols (such as l-propanol,1-pentanol,1-hexanol,1-heptanol).The results show that the overallaverageabsolute deviation is $1 . 0 0 \%$ between calculated data and experimental values,and the maximum deviation is $9 . 7 5 \%$ ：
+
+Key wordsMcAllister three-body model; binary mixtures; viscosity calculation
+
+# 0引言
+
+由于混合物的黏度测量极其耗费时间，因此促使国内外许多研究学者尝试建立可靠的黏度预测模型。McAllister基于Eyring的绝对反应速率理论提出了一个针对混合物运动黏度的三次方程，简称McAl-lister三体模型，被认为是液体混合物黏度的最佳关联模型[1,2]。Asfour等人[3-5]忽略了温度对相互作用参数的影响，对McAllister模型进行了修正，利用有效碳原子数和纯质黏度估算模型的相互作用参，将其转换为预测模型数。然而，由于Asfour修正模型没有考虑温度对相互作用参数的影响，计算得到的黏度偏差较大。
+
+本文在前人研究的基础上，对三类 (醇类/醇类、烷烃/烷烃、烷烃/醇类)二元混合物的黏度进行文献收集和整理，建立一种改进的McAllister三体模型，
+
+并进行详细的分析研究。
+
+# 1新模型的建立
+
+对于二元混合物而言，McAllister三体模型认为不同分子间的相互作用类型总共有6种，如图1所示，这6种类型又可分为两大类：I（图 $\mathrm { { ( a ) \sim ( c ) } } \gamma$ 被认为是2个分子1和1个分子2间的相互作用，Ⅱ（图 $\left( \mathrm { d } \right) \sim \left( \mathrm { f } \right) )$ 被认为是2个分子2和1个分子1间的相互作用[1]。I和Ⅱ两类分子分别与模型中的相互作用参数 $\nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ 相对应。
+
+![](images/b91f4f118ea9bd9a678730a8b5a3c22ae271e5ac58294d10181f5b2519034c08.jpg)  
+图1二元系统中不同分子相互作用 Fig.1 interactions among different molecules in binary systems
+
+McAllister方程的形式如下式所示：
+
+$$
+\begin{array} { r l } { \ln \nu _ { m } = X _ { 1 } ^ { 3 } \ln \nu _ { 1 } + 3 X _ { 1 } ^ { 2 } X _ { 2 } \ln \nu _ { 1 2 } + 3 X _ { 1 } X _ { 2 } ^ { 2 } \ln \nu _ { 2 1 } + } & { } \\ { X _ { 2 } ^ { 3 } \ln \nu _ { 2 } - \ln \left( X _ { 1 } + X _ { 2 } \frac { M _ { 2 } } { M _ { 1 } } \right) + } & { } \\ { 3 X _ { 1 } ^ { 2 } X _ { 2 } \ln \left( \frac { 1 } { 3 } \left( 2 + \frac { M _ { 2 } } { M _ { 1 } } \right) \right) + } & { } \\ { { } } & { { } } \\ { 3 X _ { 1 } X _ { 2 } ^ { 2 } \ln \left( \frac { 1 } { 3 } \left( 1 + 2 \frac { M _ { 2 } } { M _ { 1 } } \right) \right) + } & { } \\ { { } } & { { } } \\ { X _ { 2 } ^ { 3 } \ln \left( \frac { M _ { 2 } } { M _ { 1 } } \right) } & { { } } \end{array}
+$$
+
+其中， $\nu _ { \mathrm { m } }$ 是二元混合物的运动黏度， $X _ { 1 }$ 和 $X _ { 2 }$ 是纯物质的摩尔分数， $\nu _ { 1 }$ 和 $\nu _ { 2 }$ 是纯物质的运动黏度， $M _ { 1 }$ 和 $M _ { 2 }$ 是纯物质的摩尔质量。 $\nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ 是混合物的相互作用参数，通过实验数据回归得到。
+
+根据分子间相互作用分析，作者认为 $\nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ 与二元混合物分子量之间可能存在一定的内在联系。鉴于此，本文在对文献中二元混合物黏度数据进行调研和分析的基础上，对乙醇 $+$ 醇类(丙醇、丁醇、戊醇、己醇、庚醇、辛醇、壬醇、癸醇)[6-8]，正丁基环己烷 $^ +$ 烷烃类(庚烷、辛烷、壬烷、癸烷、十二烷、十四烷)[9]，异辛烷 $^ +$ 醇类（丙醇、戊醇、己醇、庚醇)[10]等三个系列二元混合物的黏度进行了研究。
+
+根据McAllister三体模型中定义的二元混合物的等效分子量[1，可得 $M _ { 1 2 } = ( 2 M _ { 1 } + M _ { 2 } ) / 3$ ，$M _ { 2 1 } { = } ( M _ { 1 } { + } 2 M _ { 2 } ) / 3$ 。针对上述三种物质体系，研究发现在同一温度下 $\nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ 都随着 $M _ { 1 2 }$ 和 $M _ { 2 1 }$ 的增加而递增，而在相同分子量下 $\nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ 则随着温度升高而递减。图2给出了乙醇与不同醇类混合物的相互作用参数随等效分子量和温度的变化规律。
+
+![](images/8ab032bb502bb28d8bd4ee47800a57c0d25d4d9b0e1fc5ef83647b28179609e5.jpg)  
+图2乙醇 $^ +$ 醇类相互作用参数（ $\cdot \nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ ）随等效分子量和 温度的变化规律 (实线代表拟合结果) Fig.2 Variation of interaction parameter ( $\dot { \nu } _ { 1 2 }$ and $\nu _ { 2 1 }$ of ethanol $+$ alcohols with equivalent molecular weight and temperature (solid lines represent the fitting results)
+
+# 表1方程（2）的系数
+
+Table 1 Coefficients of equation (2)   
+
+<html><body><table><tr><td>参数</td><td>C</td><td>A</td><td>B1</td><td>B2</td></tr><tr><td colspan="5">乙醇＋醇类</td></tr><tr><td>V12</td><td>-2.4461</td><td>0.8164</td><td>-1.4445</td><td>2.5703</td></tr><tr><td>V21</td><td>-3.5686</td><td>1.0084</td><td>0.9046</td><td>0.0442</td></tr><tr><td colspan="5">正丁基环已烷＋烷烃类</td></tr><tr><td>V12</td><td>-2.1098</td><td>0.5648</td><td>-0.2787</td><td>0.3798</td></tr><tr><td>V21</td><td>-2.2057</td><td>0.484</td><td>0.2959</td><td>0.1307</td></tr><tr><td colspan="5">异辛烷＋醇类</td></tr><tr><td>V12</td><td>0.2202</td><td>0.4666</td><td>-4.3245</td><td>2.4195</td></tr><tr><td>V21</td><td>-2.6805</td><td>0.7965</td><td>-0.3964</td><td>0.6744</td></tr></table></body></html>
+
+本文通过最小二乘法获得了相互作用参数与等效分子量和温度之间的关系：
+
+$$
+Y = C + { \frac { A } { T } } + B _ { 1 } M + B _ { 2 } M ^ { 2 }
+$$
+
+其中， $Y$ 代表 $\nu _ { 1 2 }$ 或 $\nu _ { 2 1 }$ ， $M$ 代表 $M _ { 1 2 } / 1 0 0$ 或$M _ { 2 1 } / 1 0 0 , C , A , B _ { 1 } , B _ { 2 }$ 是方程的系数，通过非线性回归得到，列于表1。
+
+# 2模型的综合评价
+
+# 2.1模型准确性分析
+
+表2给出了本文建立的预测模型计算值与文献值的绝对平均偏差 (AAD）和最大偏差 (MAD)。从表2中可以看出，乙醇 $^ +$ 醇类的总体平均绝对偏差为 $1 . 4 0 \%$ ，最大绝对偏差为 $9 . 7 5 \%$ ；正丁基环己烷 $^ +$ 烷烃类的总体平均绝对偏差为 $0 . 7 0 \%$ ，最大绝对偏差为 $4 . 0 9 \%$ ；异辛烷 $^ +$ 醇类的总体平均绝对偏差为$0 . 6 5 \%$ ，最大绝对偏差为 $3 . 0 0 \%$ □
+
+表2模型计算值与文献数据的偏差  
+Table 2 Deviations between calculated results   
+
+<html><body><table><tr><td colspan="4">andliteraturedata</td></tr><tr><td>物质1</td><td>物质2</td><td>AAD/%</td><td>MAD/%</td></tr><tr><td rowspan="9">乙醇 总体AAD/%</td><td>丙醇</td><td>1.48</td><td>5.53</td></tr><tr><td>丁醇</td><td>1.56</td><td>6.65</td></tr><tr><td>戊醇</td><td>0.65</td><td>3.54</td></tr><tr><td>已醇</td><td>0.50</td><td>1.68</td></tr><tr><td>庚醇</td><td>1.13</td><td>5.90</td></tr><tr><td>辛醇</td><td>1.27</td><td>5.45</td></tr><tr><td>壬醇</td><td>2.23</td><td>6.94</td></tr><tr><td>癸醇</td><td>2.35</td><td>9.75</td></tr><tr><td></td><td>1.40</td><td></td></tr><tr><td rowspan="6">正丁基环己烷</td><td>庚烷</td><td>1.12</td><td>4.09</td></tr><tr><td>辛烷</td><td>0.71</td><td>1.76</td></tr><tr><td>壬烷</td><td>0.42</td><td>1.15</td></tr><tr><td>癸烷</td><td>0.25</td><td>0.71</td></tr><tr><td>十二烷</td><td>0.6</td><td>2.29</td></tr><tr><td>十四烷</td><td>1.09</td><td>3.28</td></tr><tr><td>总体AAD/%</td><td></td><td>0.70</td><td></td></tr><tr><td rowspan="4">异辛烷</td><td>丙醇</td><td>0.64</td><td>3.00</td></tr><tr><td>戊醇</td><td>0.66</td><td>2.29</td></tr><tr><td>已醇</td><td>0.49</td><td>2.05</td></tr><tr><td>庚醇</td><td>0.80</td><td>2.81</td></tr><tr><td>总体AAD/%</td><td></td><td>0.65</td><td></td></tr></table></body></html>
+
+图3给出了三类混合物计算值与实验值的偏差分布。从图3中可以看出，在研究的温度范围内，对于乙醇 $^ +$ 醇类，除少数点外，绝大多数偏差点在$\pm 6 \%$ 以内，而对于正丁基环己烷 $^ +$ 烷烃类，绝大多数偏差值在 $\pm 3 \%$ 以内，异辛烷 $^ +$ 醇类所有偏差值均在 $\pm 2 \%$ 以内。说明本文建立的模型具有较高的计算精度。
+
+# 2.2模型预测能力验证
+
+为了对模型的预测能力进行验证，本文还搜集了文献中其它三种二元混合物的黏度数据 (未参与模型系数回归)，分别为乙醇 $^ +$ 己醇[11]，乙醇 $+$ 丙醇[12]，异辛烷 $+$ 丁醇[13]。将模型的计算值与文献值进行比较，平均绝对偏差和最大绝对偏差列于表3。图4给出了偏差分布图。
+
+12 10 (a) ■ 丙醇 □ 丁醇 · 戊醇 。 己醇 1 8 △ 庚醇 △ 辛醇 ▼ 壬醇 $\bigtriangledown$ （20 癸醇   
+001x"A/(-"A) 64202 中 区区 △V XXN KXHX X 中 111-1-1-1-1-1-1-1-1 -4 68 □ 4 4 4 -10 V V -12 -0.10.00.10.20.3 0.4 0.5 0.60.70.80.91.01.1 X1 6|5|143 (b) ■ 庚烷 □辛烷 ： 壬烷 0 癸烷 △ 十二烷 △ 十四烷 ■   
+00Ix"a/(A-) 21 "K △ △叁 △←合 △△合 △贵A △K△ 四K 0723 心 △ △ R △ △ △ △ △ △ △ 111 -4 5 6 -0.10.0 0.1 0.2 0.3 0.40.5 0.6 0.70.8 0.9 1.0 1.1 X1 5 4 (c) ■ 丙醇 □o 廣醇   
+00Ix"A/(A_"A) 32 □coonooaa■ ■0OOIC ■0[0a o D □ 10 0 [01010 · [000001 800ro □ □000 □ -1 ■ Q00 -2 0 。 。 -3 -4 -5 0.10.00.10.2 0.3 0.40.5 0.6 0.7 0.8 0.9 1.0 1.1 X1
+
+从表3中可以看出三种二元混合物绝对平均偏差均小于 $1 . 5 \%$ ，其中乙醇与己醇或丙醇混合物的最大偏差均小于 $2 . 5 \%$ ，异辛烷与丁醇混合物的最大偏差为 $4 . 9 4 \%$ 。从图4中可以看出，乙醇 $^ +$ 己醇、乙醇$+$ 丙醇绝大多数偏差点落在 $\pm 2 \%$ 以内，而异辛烷 $^ +$ 丁醇绝大多数点均落在 $\pm 3 \%$ 以内。说明了采用本文建立的模型来预测同一系列混合物的黏度，可以达到预期的精度要求。
+
+表3模型计算值与文献值比较 Table 3 Comparisons of model calculated results withliterature   
+
+<html><body><table><tr><td>物质1</td><td>物质2</td><td>T/K</td><td>AAD/%</td><td>MAD/%</td></tr><tr><td>乙醇</td><td>已醇</td><td>298.15</td><td>0.89</td><td>2.31</td></tr><tr><td>乙醇</td><td>丙醇</td><td>303.15</td><td>1.12</td><td>2.05</td></tr><tr><td>异辛烷</td><td>丁醇</td><td>273.15~333.15</td><td>1.23</td><td>4.94</td></tr></table></body></html>
+
+![](images/669204c775a794ea132bbb53c444d9682f9cb0717cb171ddf855bac4cd26b424.jpg)  
+图4 模型计算值与文献值偏差分布图 Fig.4 Deviations of model calculated data and literature values
+
+# 3结论
+
+本文对 McAllister三体模型中相互作用参数0 $\cdot \nu _ { 1 2 }$ 和 $\nu _ { 2 1 }$ ）与温度、二元混合物等效分子量之间的关系进行了研究，并利用三类(醇类/醇类、烷烃/烷烃、烷烃/醇类）二元混合物的黏度数据回归得到了它们之间的关系。分析表明，在研究的温度范围内，计算值与实验值总体平均偏差为 $1 . 0 0 \%$ 。同时，采用未参与拟合的实验值对模型预测的可靠性进行了验证，预测值与文献值之间的偏差满足预期的精度要求。
+
+# 参考文献
+
+[1]McAllister R A.The Viscosity of Liquid Mixtures [J]. AIChE Journal,1960,6(3):427-431
+
+[2] Reid R C,Praunitz J M, Sherwood T K.The Properties of Gases and Liquids [M]. Fourth Edition.New York: McGraw-Hill,1987   
+[3] Asfour A F A,Cooper E F,Wu J,et al. Prediction of the McAllister Model Parameters from Pure Components Properties for Liquid Binary $n$ -Alkane Systems [J]. Industrial and Engineering Chemistry Research,1991,30(7): 1666-1669   
+[4] Nhaesi A H,AsfourA F A.Prediction of the McAllister Model Parameters from Pure Component Properties of Regular Binary Liquid Mixtures [J]. Industrial and Engineering Chemistry Research,1998,37(12):4893-4897   
+[5] Nhaesi A H,AsfourA F A. Prediction of the Viscosity of Multi-Component Liquid Mixtures: a Generalized ThreeBody Interaction Model [J].Chemical Engineering Science, 2000,55(15): 2861-2873   
+[6] Cano-Gomez J J, Iglesias-Silva G A,Ramos-Estrada M, et al.Densities and Viscosities for Binary Liquid Mixtures of Ethanol $^ { + 1 }$ -Propanol,1-Butanol,and 1-Pentanol from (293.15 to 328.15)K at 0.1 MPa [J]. Journal of Chemical and Engineering Data, 2012,57(9): 2560-2567   
+[7] Faria M A F,Martins R J,Cardoso M J E M,et al. Density and Viscosity of the Binary Systems Ethanol $^ +$ Butan-1-ol, $^ +$ Pentan-1-ol, $^ +$ Heptan-1-ol, $^ +$ Octan-1-ol, （20 $+$ Nonan-1-ol, $^ +$ Decan-1-ol at 0.1 MPa and Temperatures from 283.15 K to 313.15 K[J]. Journal of Chemical and Engineering Data, 2013,58(12):3405-3419   
+[8] Cano-Gomez J J, Iglesias-Silva G A, Castrejon-Gonzalez E O,et al.Density and Viscosity of Binary Liquid Mixtures of Ethanol+1-Hexanol and Ethanol+1-Heptanol from (293.15 to 328.15)K at O.1 MPa [J].Journal of Chemical and Engineering Data,2015,60(7):1945-1955   
+[9] LIU Hong,ZHU Lin. Excess Molar Volumes and Viscosities of Binary Systems of Butylcyclohexane with $n$ 1 Alkanes (C7 to C14) at T=293.15 K to 313.15 K[J]. Journal of Chemical and Engineering Data, 2014, 59(2): 369-375   
+10] WANG Xiaopo,WANG Xiaojie, SONG Bo. Densities and Viscosities of Binary Mixtures of 2,2,4-Trimethylpentane $+$ 1-Propanol， +1-Pentanol， +l-Hexanol， and +1- Heptanol from (298.15 to 323.15) K[J]. Journal of Chemical and Engineering Data, 2015,60(6):1664-1673   
+11] Aucejo A,Burguet M C,Munoz R.Densities,Viscosities, and Refractive Indices of Some Binary Liquid Systems of Ethanol $^ +$ Isomers of Hexanol at 298.15 K[J].Journal of Chemical and Engineering Data,1996,41(5): 1131-1134   
+12] Dizechi M,Marschall E.Viscosity of Some Binary and Ternary Liquid Mixtures [J]. Journal of Chemical and Engineering Data,1982, 27(3): 358-363   
+13] Torin-Ollarves GA, Segovia J J,Martin MC,et al. Thermodynamic Characterization of the Mixture (1-Butanol $^ +$ Iso-octane):Densities,Viscosities,and Isobaric Heat Capacities at High Pressures [J]. Journal of Chemical Thermodvnamics.2012.44(1): 75-83

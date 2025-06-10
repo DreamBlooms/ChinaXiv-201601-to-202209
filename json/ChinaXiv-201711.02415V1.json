@@ -1,0 +1,721 @@
+[
+    {
+        "type": "text",
+        "text": "Visualization and Quantification of “Browning” using a Ucpl-2A-Luciferase Knockin Mouse Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liufeng Maol\\*, Baoming Nie²\\*, Tao Nie1\\*, Xiaoyan Hui, Xuefei Gao4, Xiaoliang Lin5, Xin Liu6, Yong $\\mathrm { { X u } ^ { 1 } }$ , Xiaofeng Tang',Ran Yuan1, Kuai $\\mathrm { L i } ^ { 1 }$ ,Peng $\\mathrm { L i } ^ { 1 }$ , Ke Ding', Yu Wang1,³, Aimin $\\mathrm { X u } ^ { 1 , 3 }$ ， Jian Fei7，Weiping Han，Pentao Liu4,，Lise Madsen9,10.1，Karsten Kristiansen10.11, Zhiguang Zhoul2, Sheng Ding2+ and Donghai $\\mathrm { \\Delta W u } ^ { 1 + }$ （204 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory of Regenerative Biology, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangzhou, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "²Gladstone Institute of Cardiovascular Disease; Department of Pharmaceutical Chemistry, University of California, San Francisco, California, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3Department of Medicine, The University of Hong Kong, Hong Kong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4The Wellcome Sanger Institute, Cambridge, UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 Research & Development Center, Infinitus (China) Company Ltd, Guangzhou, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7Shanghai Nanfang Model Organism, Shanghai, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8Singapore Bioimaging Consortium and Institute of Molecular and Cel Biology, Agency for   \nScience, Technology and Research (A\\*STAR), Singapore   \n1   \n9National Institute of Nutrition and Seafood Research (NIFES)，Postboks 2O29,Nordnes,   \nN-5817 Bergen, Norway   \n10Laboratory of Genomics and Molecular Biomedicine, Department of Biology, University of   \nCopenhagen, Copenhagen, Denmark   \n1 BGI-Shenzhen, Shenzhen, China   \n12Diabetes Center, the Second Xiangya Hospital, Institute of Metabolism and Endocrinology,   \nCentral South University, Changsha, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\*These authors contributed equally to this work +To whom correspondence should be addressed ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Corresponding authors: Donghai WU,email: wu_donghai $@$ gibh.ac.cn, KeyLaboratory of Regenerative Biology, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangzhou, China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sheng DING, email: sheng.ding@ gladstone.ucsf.edu,²Gladstone Institute of Cardiovascular Disease; Department of Pharmaceutical Chemistry, University of California, San Francisco, California, USA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Both mammals and adult humans possess classical brown adipocytes and beige adipocytes and the amount and/or activity of these adipocytes are considered as one of the key factors to combat obesity and its associated metabolic diseases. Uncoupling protein 1（Ucpl）is the functional marker of both brown and beige adipocytes.To facilitate the reliable,easy and sensitive measurement of Ucpl expression both in vivo and in vitro,we generated a Ucpl-2A-luciferase knockin mouse by deleting the stop codon for the mouse Ucpl gene and replacing it with a 2A peptide. This peptide was followed by the luciferase coding sequence to recapitulate the expression of the Ucpl gene at the transcriptional and translational levels. With this mouse,we discovered a cold-sensitive brown/beige adipose depot underneath the skin of the ears (uBAT). Due to the sensitivity and high-dynamic range of luciferase activity, the Ucpl-2A-luciferase mouse is useful for in vitro quantitative determination and in vivo visualization of non-shivering thermogenesis. Using thismodel， we identified and characterized axitinib,an oral small-molecule tyrosine kinase inhibitor,as an effective \"browning” agent. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words: uncoupling protein 1； knockin; browning; thermogenesis； luciferase； in vivoimaging",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Running title: Knockin mouse model to monitor adaptive thermogenesis ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The obesity epidemic has intensified efforts to understand adipose tissue development and function. Currently, we know of three different kinds of adipocytes: the classical multilocular brown adipocytes in brown adipose tissue (BAT),the classical unilocular white adipocytes, the main cell type in white adipose tissue (WAT),and the beige/brite adipocytes in WAT. While WAT stores excessive energy as fat, brown and brite/beige adipocytes can dissipate energy as heat. A number of studies have recently demonstrated that adult humans also possess functional BAT,which can be activated by mild cold exposure (1-3） and treatment with the β3-agonist (4).In humans,activation of BAT reduces elevated blood triglycerides and allviates obesity in humans (5). In mice, BAT transplantation decreased body weight and improved glucose homeostasis and insulin sensitivity in both chow- and high-fat-fed mice (6; 7). Therefore, enhancing thermogenic function in BAT and/or recruiting BAT-like brite/beige adipocytes in WAT may be an effective therapeutic strategy to combat obesity and its associated disorders. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The energy dissipating， thermogenic function of BAT and beige adipocytes is mainly achieved by the uncoupling protein 1 (UCP1). UCP1 is located in the inner mitochondrial membrane, where it allows protons to flow back into the mitochondria,and thereby uncouples electron transport from ATP production. By enhancing the futile cycle of proton and electron transport, it increases energy expenditure in the form of heat. In this context, increasing UCP1 expression and activity in adipose tissues is regarded as a safe and promising way to enhance whole-body energy expenditure and combat obesity. Under physiological conditions, brown and beige adipocytes readily respond to stimuli such as chronic cold exposure and ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\beta 3$ -adrenergic agonists to increase the expression and activity of UCP1. On the other hand, pharmacological administration of cytokines or compounds such as FGF21,adenosieA2A receptor agonist, and berberine has been demonstrated to enhance energy expenditure via inducing UCP1 expression in BAT and/or WATs (8-10).   \nDespite of these findings, more eficacious reagents and the detailed underlying mechanisms regarding the recruitment and activation of Ucpl-positve adipocytes are still lacking. In an effort to gain more insight into this aspect, several transgenic mouse models have been established. UCP1-GFP and UCP1-CreER; ROSA-tdRFP mice were used to transiently or permanently label UCP1-expressing cells in vivo, respectively, Combined usage of these two transgenic mouse models allows for tracing of current and past UCP1-positive cells to investigate the inter-conversion of brite/beige adipocytes (11). Galmozzi A et al generated the 'thermo mouse', where a Ucpl promoter-driven luciferase reporter was integrated in the Y chromosome (l2),which restricts the utility of this model to only male mice.In order to obtain a more comparative and comprehensive understanding of “browning\" in both male and female mice during development and/or diseases,there is still a need for a more reliable functional readout that monitors metabolic changes in fat pads induced by cold exposure or drugs (11). Here, we report on our generation of Ucp1-luciferase reporter mice, our discovery of an unappreciated brite/beige fat pad underneath their ears,and our identification and characterization of an effective agent for “browning.” ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Research Design and Methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generation of the Ucp1-2A-Luciferase Construct ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Standard homologous recombination procedures were used to target firefly luciferase, following exon 6 of the endogenous Ucpl gene.A left arm of $4 . 3 \\mathrm { k b }$ before the stop codon of Ucpl gene and a right arm of $2 . 5 ~ \\mathrm { k b }$ right after the stop codon of Ucpl gene flanking 2A peptide (GSGATNFSLLKQAGDVEENPGP) and firefly luciferase coding sequence followed by a floxed neomycin selection cassette was used for the generation of targeted insertion at the Ucp1 locus. The correct targeted ES clones were identified and floxed neomycin cassette was removed before they were used in the production of chimeras.129 strain of mice was used for the construction of the knockin mice and the mice were backcrossed with C57BL/6J for 1O generations and used in this study. The primers and conditions used for Ucpl-Luc genotyping Were as follows: F1: CAACAGCGGGCTCTGCAC; R1: AACCGTAGGTTGCG CACTC; R2: CACGGTAGGCTGCGAAATG; $9 5 ^ { \\circ } \\mathrm { C }$ for 15 minutes,36x $[ 9 4 ^ { \\circ } \\mathrm { C }$ for 30 s, $5 7 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { ~ s ~ }$ and $7 2 ~ ^ { \\circ } \\mathrm { C }$ for 60 s], $7 2 ~ ^ { \\circ } \\mathrm { C }$ for 5 minutes. The resulting PCR products are 500 (wild-type) and 100O (UCP1) base pairs long. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Animal Study ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Male Ucp1 $\\cdot +$ /LUC mice (7-weeks-old） in a C57BL6 background were housed in specific-pathogen-free mice rooms,maintained on a $1 2 \\mathrm { ~ h ~ }$ light-dark cycle at $2 2 ^ { \\circ } \\mathrm { C } .$ ，and fed standard chow( ${ 1 5 . 9 \\mathrm { k J / g } }$ ， $10 \\%$ of energy as fat, $20 \\%$ of energy as protein, $70 \\%$ of energy as carbohydrate). For cold challenge experiments,mice were housed at $4 ^ { \\circ } \\mathrm { C }$ for 3, 6, 9, or 12h. For thermoneutrality experiment, the mice were housed at $4 ^ { \\circ } \\mathrm { C }$ or $2 2 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { ~ h ~ }$ ，and then housed at $3 0 ^ { \\circ } \\mathrm { C }$ for 48h. For drug challenge experiments, mice were given CL316243 ( $\\mathrm { \\langle 1 m g / k g \\rangle }$ 2 days,and in vivo luciferase Images were taken. Alternatively, mice were fed with a high-fat diet $( 2 1 . 9 ~ \\mathrm { { k J / g } }$ ， $60 \\%$ of energy as fat, $20 \\%$ of energy as protein, $20 \\%$ of energy as carbohydrate; D12492; Research Diet, New Brunswick, NJ, USA) for 8 weeks. At the same time,mice were given axitinib (Pfizer Inc,manufactured in Freiburg,Germany, $1 0 ~ \\mathrm { m g / k g }$ body weight) or phosphate-buffered saline (PBS) every day,by oral gavage for 8 weeks. Energy expenditure was measured by indirect calorimetry. Oxygen consumption (VO2） was measured using the Oxymax system (Columbus Instruments). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In vivo, ex vivo and in vitro Luciferase Imaging ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bioluminescence imaging was performed using In Vivo Imaging System 5O (Xenogen Corp.). D-luciferin (Promega) was resuspended at $1 5 \\mathrm { m g / m l }$ in D-PBS.For in vivo luciferase imaging, mice were injected intraperitoneally (ip) with $1 5 0 ~ \\mathrm { m g / k g }$ body weight of D-luciferin solution. 10 minutes later, mice were placed into a clear Plexiglas anesthesia box $( 2 . 5 \\mathrm { - } 3 . 5 \\%$ isofluorane) that allows unimpeded visual monitoring of the animals. The tube that supplied anesthesia to the box was split so that the same concentration of anesthesia was plumbed to the anesthesia manifold located inside the imaging chamber. After fully anesthetized (about 5 minutes),the mice were transferred from the box to nose cones attached to the manifold in the imaging chamber and the luciferase signal was acquired. The imaging time was set between one and five minutes per side (dorsal/ventral), depending on the experiment. Luminescence was quantified using Living Image software. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For ex vivo luciferase imaging of various fat depots, the mice were ip injected with $1 5 0 \\mathrm { m g / k g }$ body weight of D-luciferin solution for 2O minutes before fat depots were harvested and luciferase images taken while for in vitro luciferase imaging of the cultured cells, D-luciferin was resuspended at $3 0 \\mathrm { m g / m l }$ in sterile water for stock solution.At day 1O of adipogenic differentiation,D-luciferin was added to cell medium at a concentration of $1 5 0 \\mu \\mathrm { g } / \\mathrm { m l }$ and the image was captured 1O minutes later. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Analysis of Luciferase Activity ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In vitro luciferase activity was measured using the Steady-Glo? Luciferase Assay System E2510 (Promega). Cells and mouse tissues were washed twice with ice-cold PBS and homogenized and lysed with Lysis buffer (Promega) for 3O minutes on ice. Cell lysates were centrifuged at $1 2 { , } 0 0 0 \\mathrm { g }$ for 15 minutes at $4 ^ { \\circ } \\mathrm { C }$ and supernatants were collected. $2 0 ~ \\mu \\mathrm { l }$ of supernatant and $2 0 \\mu \\mathrm { l }$ of Dulbecco's Modified Eagle Medium (DMEM) was mixed with $4 0 ~ \\mu \\mathrm { l }$ ofSteady-Glo $\\textsuperscript { \\textregistered }$ reagent in the wells of 96-well solid-bottom white plates (CulturPlateTM-96, PerkinElmer, MA, USA) and the signal was measured in Veritas TM microplate luminometer (Turner Biosystems, CA,USA). Protein concentration was quantified by BCA method, and the relative luminescence activity was normalized. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Isolation of Preadipocytes from Adipose Tissues ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Isolation of stromal cells from fat tissue was performed as previously described (13-15). Subcutaneous, epididymal, and interscapular brown adipose tissue were dissected out, rinsed in PBS,minced,and digested for 4O minutes at $3 7 ^ { \\circ } \\mathrm { C }$ in $0 . 1 \\%$ (w/v） collagenase solution (Collagenase type I, dissolved in D-Hanks buffer). Digested tissue was filtered through a $1 0 0 \\mathrm { - } \\mu \\mathrm { m }$ nylon mesh to remove undigested tissues before being centrifuged at $1 0 0 0 \\mathrm { g }$ for 5 minutes.The pellets (preadipocytes) were collected and washed again in PBS,and then $5 ~ \\mathrm { m L }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DMEM supplemented with $1 5 \\%$ fetal bovine serum (FBS） and $1 \\%$ penicillin/streptomycin (P/S) was added and the tissue was pipetted up and down to get a single-cell suspension. Cells were cultured in 4-cm cell culture dishes and cell medium was changed every day. For white-adipocyte diferentiation assays,preadipocytes from subcutaneous adipose tissue were plated in 6-well plates and cultured in DMEM with $10 \\%$ FBS. Two days after reaching confluence (day O),differentiation was induced by incubating the cells in differentiation medium containing $5 ~ { \\mu \\mathrm { g } } / { \\mathrm { m L } }$ insulin (Sigma), $1 ~ \\mu \\mathbf { M }$ dexamethasone (Sigma),and $0 . 5 \\ \\mathrm { m M }$ isobutylmethylxanthine (Sigma). After 2 days， the media was replaced with DMEM supplemented with $10 \\%$ FBS, $5 ~ { \\mu \\mathrm { g / m l } }$ insulin, and $1 ~ { \\mu \\mathrm { M } }$ rosiglitazone, and were re-fed every 2days until day 8. AM580，A-769662，CL316243， fmoc-leu-OH，retinoticacid, $\\beta$ -aminoisobutyric acid, SD19,axitinib,masitinib,tanduinib,cediranib,and BIBF112O were dissolved in demethylsulfoxide (DMSO)and FGF21 was dissolved in PBS for cell culture studies. At day 8,cells were exposed to compounds at the concentrations indicated in DMEM supplemented with $10 \\%$ FBS for another two days. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Half-lives of UCP1 and Luciferase in Brown Adipocytes ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Brown adipocytes isolated from iBAT were cultured and differentiated as above.Mature brown adipocytes were treated with CL316,243 for 2 days，and treated with $1 0 \\mu \\mathrm { M }$ cycloheximide at time point zero to arrest protein translation. At various time points thereafter, they were pellted by centrifugation. The resulting cell pellets were washed twice in ice cold PBS and lysed on ice for 3O minutes with lysis buffer. Insoluble material was removed by centrifugation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Seahorse Analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The oxygen consumption rate (OCR） of the ingWAT cells was analyzed using the XF24 Seahorse bioanalyzer as previously described with minor modifications (16). Briefly, one day prior to analysis, the cells were treated with axitinib ( $( 1 \\mu \\mathbf { M } )$ or DMSO.24 hours later the cells were equilibrated in sodium carbondioxide-free DMEM for 1 hour in CO2 free incubator. The following drugs were sequentially loaded to each well to measure the basal, norepinephrine (NE)-stimulated ( $1 0 \\mu \\mathrm { M }$ NE),ATP production ( $2 \\mu \\mathrm { M }$ Oligomycin),maximal ( $2 \\mu \\mathrm { M }$ FCCP) and non-mitochondrial ( $\\mathrm { 1 \\mu M }$ Antimycin $\\mathbf { A } + 3 \\mu \\mathbf { M }$ Rotenone ).Uncoupled OCR was calculated as the difference between stimulated and non-mitochondrial OCRs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glucose and Insulin Tolerance Test ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For glucose tolerance test (GTT)，9 pairs of mice were fasted overnight and injected intraperitoneally (i.p.）with $10 \\%$ glucose at a dose of $\\mathrm { ~ \\bf ~ 1 ~ } \\ \\mathrm { g / k g }$ body weight. For insulin tolerance test (ITT),mice were starved for $6 \\textup { h }$ and i.p. injected with $0 . 5 ~ \\mathrm { U / k g }$ body weight recombinant human insulin (Sigma).Blood glucose was monitored from the tail vein blood using a glucometer (ACCU-CHEK Advantage; Roche Diagnostics China, Shanghai, China) at various time points. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Histochemistry and Immunohistochemistry ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mice were euthanized by cervical dislocation under anesthesia by sodium pentobarbital $5 0 \\ \\mathrm { m g / k g }$ ，i.p.），and the adipose tissues were isolated and fixed in $4 \\%$ formaldehyde overnight at room temperature immediately after the mice were sacrificed. Tissues were paraffinized and sectioned by microtome,and the slides were stained with hematoxilin and eosin (HE）(Sigma） following the standard protocol. For UCP1 immunohistochemistry, paraffin-embedded sections ( $( 6 \\mu \\mathrm { m } )$ ）were incubated with anti-UCP1 (1:50O; Abcam; ab10983). Sections were examined by light microscopy. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence Staining Assay ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For immunofluorescence staining, coverslips plated with white adipocytes derived from MEF cells were fixed in $4 \\%$ formaldehyde and were blocked with $5 \\%$ bovine serum albumin (BSA) in PBS at room temperature for $^ { \\textrm { 1 h } }$ and then incubated with rabbit anti-UCP1 antibody(1:500; Abcam; ab10983) and luciferace(1:200; Abcam; 181640) at $4 ^ { \\circ } \\mathrm { C }$ overnight. Then the sections were orderly incubated with Alexa Fluor 647-conjugated anti-rabbit secondary antibody (1:200; Abcam; ab15oo79） and Alexa Fluor 488-conjugated anti-goat secondary antibody (1:200；Abcam;ab150129) at room temperature for $^ \\textrm { \\scriptsize 1 h }$ and nucleus were stained by DAPI. Coverslips were mounted onto glass slides. Labeled samples were imaged using Leica microscope. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WesternBlot ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cells were washed twice with ice-cold PBS and lysed with RIPA buffer (Beyotime) for 30 minutes on ice. Cell lysates were centrifuged at $1 2 { , } 0 0 0 \\mathrm { g }$ for 15 minutes at $4 ^ { \\circ } \\mathrm { C }$ ，and supernatants were collected. $4 0 ~ { \\mu \\mathrm { g } }$ of cellular proteins were resolved by $12 \\%$ SDS-PAGE gel and transferred to PVDF membrane (Millipore).Membranes were probed overnight with specific antibodies at $4 ^ { \\circ } \\mathrm { C }$ ,washed three times with Tris-buffered saline with $0 . 0 5 \\%$ Tween 20 (TBST)，and then incubated with rabbit horseradish-peroxidase-conjugated secondary antibody for 4 hours at $4 ^ { \\circ } \\mathrm { C }$ .Membranes were developed by applying ECL Plus developing agent (GE Healthcare). Membranes were stripped with stripping buffer (Comwin biotech) and reprobed with other antibodies when necessary. The primary antibodies used in the experiments were UCP1 (1:1000;abcam; ab10983); luciferace (1:1000； Abcam; 181640); $\\beta$ -actin (1:2000; abcam; ab8227), P-STAT3 (1:1000; 9145; CST); and STAT3 (1:1000; 9132, CST). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RNA Extraction, Reverse Transcription, and Quantitative PCR ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated from cells using Trizol Reagent (Invitrogen). First-strand cDNA synthesiswas performed with SuperscriptTM III Reverse Transcriptase (Invitrogen). Quantification of mRNA levels was performed using SYBR $\\textsuperscript { \\textregistered }$ Premix Ex TaqTM (TaKaRa) under optimized conditions following the manufacturer's protocol. 18S ribosomal RNA was used as the reference gene.All primers are listed in Supplemental Table S1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Data are expressed as means $\\pm$ SEM.All comparisons were analyzed by unpaired, two-tailed Student's $t$ -tests.Ap value of less than O.O5 is considered significant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Generation of Ucp1-2A-Luciferase Knockin Mice ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To generate the Ucp1-luciferase reporter knockin mouse,we created a construct containing the coding sequence for firefly luciferase, preceded by a 2A peptide encoding sequence from the Hand, foot, and mouth disease virus and followed by a floxed neomycin cassette. The construct was targeted into the last coding exon of the Ucpl gene in mouse embryonic stem (ES) cells,so that the endogenous Ucpl stop codon was replaced by the 2A peptide plus luciferase encoding sequence (Fig. 1A). The 18 amino acid 2A peptide undergoes cleavage between its C-terminal glycine and the N-terminal proline through a ribosomal-skipping mechanism(17). Linking proteins with 2A peptide sequences thus enables cellular expression of multiple, discrete proteins in essentially equimolar quantities(18). Therefore the resulting knockin luciferase was brought under the control of the endogenous Ucpl transcriptional unit following Cre-mediated excision of the floxed neomycin gene. The correctly targeted ES clones were injected into blastocysts of 129 strain mice and germline-transmitted mice were identified by PCR analysis (Fig. 1B). The expression of luciferase and cleavage of 2A pepetide was validated using Western bloting (Fig. 1C), luciferase activity assay (Fig. 1D), whole-body imaging (Fig. 1E） and immunohistochemical analysis (Fig.1F). Figure 1C showed that the expression of UCP1 was not compromised by insertion of the 2A-luciferase cassette. Moreover, the wild type(WT) mice did not express luciferase in their BAT, while the Ucpl-2A-luciferase knockin mice had robust expression of luciferase protein with the predicted molecular mass, indicating that the 2A peptide was recognized and fully functional (Fig.1C). In addition, the luciferase-staining pattern overlapped that of the UCP1 protein, suggesting that luciferase and UCP1 were co-localized (Fig. 1F). Furthermore, the luciferase appeared active, because its substrate, luciferin, was converted into the appropriate product with the emission of luminescence (Fig.1D and 1E). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ucp1-2A-Luciferase Recapitulates the Expression Pattern of UCP1 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We tested how Ucpl-reporter mice responded to treatment with a $\\beta 3$ -adrenergic agonist and cold exposure. Luciferase imaging demonstrated robust signal increases in areas corresponding to interscapular BAT (iBAT) and inguinal WAT (ingWAT) (Fig. 2A). Similarly, the enzymatic activity of luciferase in mice housed at $4 ^ { \\circ } \\mathrm { C }$ for 6 hours increased significantly relative to that of mice kept at room temperature (Fig. 2B). Furthermore, we dissected fat pads from mice which were either kept at room temperature $( 2 2 ^ { \\circ } \\mathrm { C } )$ or exposed to $4 ^ { \\circ } \\mathrm { C }$ for 12 hours. Upon cold exposure, luciferase activity was greatly enhanced in the dissected fat pads, including iBAT, cervical BAT (cBAT),axiliary BAT (aBAT),and ingWAT, but not epididymal WAT (eWAT) (Fig. 2C). To confirm that luciferase activity reflected the expression pattern of UCP1, we compared the mRNA level of Ucpl and luminescence-activity measurements. The qPCR analyses demonstrated that Ucpl mRNA levels mirrored luciferase activity in all fat pads (Fig. 2D and 2E). Furthermore,Western blot analyses revealed UCP1-positive bands only in the fat depots comprising brown or brite/beige adipocytes,including BATs and ingWAT, confirming that luciferase activity serves as a sensitive surrogate marker for UCP1 (Fig. 2F-G). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We have performed experiment to determine expression of luciferase and UCPl in vivo at various time points. The relative luciferase activity, Ucp1 RNA and protein expression were measured in iBAT and ingWAT after mice were kept for O, 3 hours, 6 hours,9 hours and 12 hours in $4 ^ { \\circ } \\mathrm { C }$ ． As shown in Fig. S1， the Ucp1 RNA and protein expression were in concordance with luciferase activity. The fluorescence intensity was stable and continuous within 2 hours by in vivo imaging. The half-lives of UCP1 and luciferase have been measured. The half-lives of UCP1 and luciferase were 1O hours and 5 hours respectively (Fig. S2). In fact, expression of UCPl and luciferase was stable and sustained in normal cells, so that the luciferase activity could mirror the expression of UCP1 in vivo and in vitro. To verify the reliability of this mouse model, we have studied the Ucpl expression during interconversion from the white adipocytes towards the brite phenotype at the conditions of thermoneutrality $( 3 0 ^ { \\circ } \\mathrm { C } )$ ．As shown in Fig. S3, the expression of UCP1 in iBAT，cBAT, ingWAT, eWAT were increased at $4 ^ { \\circ } \\mathrm { C }$ , and decreased at $3 0 ^ { \\circ } \\mathrm { C }$ . These observations support that our Ucpl-luciferase knockin mouse accurately reflects UCP1 expression and thereby serves as a useful tool to quantify changes in UCP1 expression in vivo. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Ucp1-2A-Luciferase Mice Show an Age-Dependent Decline in Luminescence ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "BAT helps to maintain body temperature in neonatal rodents,and its function decreases with age (19-21). To monitor UCP1 activity with age and determine a suitable age to live image \"browning” in Ucpl-2A-luciferase knockin mice,we compared mice at 3, 6,10,and 18 weeks of age.The live-imaging intensity decreased with age,and 3-week-old mice possessed the highest UCP1 expression and luciferase activity (Fig. 3A -3E). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Identification of A Novel Beige/BAT Fat Depot Underneath the Ears ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "By detecting the Ucpl-driven luciferase activity,we identified a novel fat depot underneath the ears that exhibited strong luciferase activity,which we named uBAT (underneath ear brown adipose tissue). As illustrated in Figure 1E,2A and 3A, the luciferase imaging intensity was highly concentrated around the ears and further enhanced upon exposure to cold or treatment with a $\\beta 3$ -adrenergic agonist. To characterize the precise anatomical location of uBAT， wedissectedsampletissuesfrom thisarea and subjectedthemto immunohistochemical and molecular analyses. As shown in Figure 4A-C, the positive tissue was not the ear per se,but a diffuse fat pad underneath the ears. The H&E histological staining showed that the fat pad contained both unilocular and multilocular adipocytes at room temperature (Fig. 4D). Moreover, the expression of Ucpl was readily detected in the multilocular adipocytes even at room temperature, and the percentage of these UCP1-positive multilocular adipocytes was further increased upon cold exposure (Fig. 4E). This observation was consistent with the result from luciferase assay which showed that the luciferase activity of uBAT was relatively high,which was about $2 5 \\%$ of that in iBAT and 1O-fold of that in ingWAT (Fig. 4E). After cold exposure, the luciferase activity was further increased (by 3.5 fold) to levels comparable to iBAT at room temperature (Fig. 4E). The levels of brown and beige-related gene expression in uBAT were also examined by qPCR. Similar to ingWAT and iBAT, the brown-related genes,including Ucpl，Prdml6,and Cidea were significantly induced in uBAT in response to cold exposure (Fig. 4F-H). The expression of a series of classical brown or beige adipocyte markers were examined. To further identify whether the uBAT is classical brown or beige adipocytes in nature，we compared the expression of markers for these two adipocytes respectively. The markers for beige adipocytes, including Tbxl,Tmem26, Cd137, and Hoxc9 were expressed at comparable levels to ingWAT (Fig. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4F-H)and were further induced in uBAT. In contrast, Zicl,a marker for classical brown adipocytes,was detected in uBAT and induced about 3.5 fold during cold exposure (Fig. 4F-H). Compared with iBAT and ingWAT, the expression pattern of uBAT demonstrated an intermediate one between iBAT to ingWAT. We also have studied the UCP1 expression at the condition of thermoneutrality $( 3 0 ^ { \\circ } \\mathrm { C } )$ . As shown in Fig. S3A and 3E, the expression of UCP1 in uBAT was increased at $4 ^ { \\circ } \\mathrm { C }$ ， and decreased at $3 0 ^ { \\circ } \\mathrm { C }$ . Taken together, these results strongly suggest that the UCP1-positive cells in uBAT represent a mixture of beige adipocytes and classical BAT. Thus，our Ucpl-2A-luciferase knockin mice revealed a previously unrecognized adipose tissue underneath the ears that can efficiently undergo browning and/or activation in response to stimuli of cold exposure or $\\beta 3$ -adrenergic activation (Fig. 2A -B). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ucpl-2A-Luciferase System Serves as a Convenient Reporter Model for Drug Screening ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Because we could easily and faithfully detect Ucpl induction in Ucpl-2A-luciferase knockin mice,we explored the possibility of using primary cells from these mice as a screening platform to obtain compounds or peptides with browning capacity. To this end, we isolated the stromal vascular fraction (SVF) from ingWAT and differentiated the precursor cells in vitro. To validate the screening platform, several known browning agents were tested, including the $\\beta 3$ -adrenergic receptor agonist CL316,243,fibroblast growth factor 21 (FGF21) (8)，the $5 ^ { \\circ }$ -AMP-acivated protein kinase (AMPK） agonist A-769662 (22),the peroxisome proliferator-activator receptor $\\gamma$ (PPARγ) activator fmoc-Leu-OH(23), $\\beta$ -aminoisobutyric acid (BAIBA） (24)，all trans-retinoic acid (ATRA)，and the synthetic retinoic acid analogue AM580.These agents increased energy expenditure and/or alleviate insulin resistance in obese mouse models (25-27). Two screening strategies were adopted: either the test compounds were present during the entire diferentiation period or they were added to mature adipocytes during the final two days of differentiation (Fig. 5A). When the compounds were included during the entire differentiation process， all compounds， except BAIBA, significantly increased luminescence (Fig. 5A)， suggesting that they may promote differentiation of beige precursor cells and/or possess “browning\" activities. More importantly, adding them to mature adipocytes also increased luminescence significantly (Fig. 5A), indicating that cells in the differentiated population of adipocytes could induce UCP1 expression or “browning.” ATRA induced Ucpl expression and increased uncoupled respiration in adipocytes (28-31),and it also increased expression of Ucpl in WAT of mice (32).ATRA and AM580 inhibited adipocyte differentiation (33-35)，and we observed that both of these compounds increased luminescence more so when added to mature differentiated adipocytes than when present during the entire course of differentiation (Fig. 5A).We also found that both ATRA and AM58O dose-dependently increased luciferase activity (Fig. 5B and 5D) and that we could see the browning effect via luminescent imaging in vitro (Fig. 5C and 5E). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Axitinib Increases UCP1 Expression and Thermogenesis in Ucp1-2A-Luciferase Mice ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Axitinib,a potent and selective inhibitor of vascular endothelial growth factor (VEGF) receptors,has been shown to effectively treat patients with metastatic renal cell carcinoma in phase II and II trials (36).However, its effect on Ucpl expression and energy metabolism Was not known. Using our luciferase reporter system, we found that axitinib had browning activity (Fig. 6A). In contrast, other tyrosine kinase inhibitors, including cediranib, masitinib, tanduinib and BIBF112O, did not show any browning effect (Fig. 6A). The effect of axitinib on induction of luciferase and Ucpl expression was both dose-dependent (Fig. 6B and 6C). Interestingly, enhanced expression of Ucpl by axitinib was suppressed by activation of signal transducer and activator of transcription 3 (STAT3） with a STAT3 specific activator SD19 (Fig. 6D), suggesting that the STAT3 pathway inhibits axitinib-induced Ucpl expression. Consistent with this finding, we also found that the phosphorylation of STAT3 was suppressed in cells treated with axitinib (Fig. 6E and 6F). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The browning activity ofaxitinib was further tested in vivo. Accordingly, Ucpl-2A-luciferase mice were treated with vehicle or axitinib for 8 weeks while they were fed a high fat diet (HFD). The body weight of the mice was monitored during the treatment period. We found that mice receiving axitinib gained less weight than those with vehicle control (Fig. 7F).Axitinib-treated mice also exhibited improved glucose disposal ability as determined by glucose tolerance and insulin tolerance tests (Fig. 7G and 7H). H&E staining showed that axitinib-treated mice had smaller adipocytes than untreated mice (Fig. 7K). Additionally, the symptom of fatty liver was also alleviated upon axitinib treatment, which was supported by the reduced size and number of lipid droplets in liver sections (Fig. 7L). Consistent with these observations,the weight of ingWAT, eWAT,and liver were lowered in axitinib-treated mice (Fig. 7I). Furthermore, in vivo luciferase imaging data showed a marked increase in luciferase activities in the iBAT, ingWAT and uBAT of the Ucpl-2A-luciferase reporter mice administered with axitinib (Fig.7A-E). Additionally, the luciferase activities in iBAT,ingWAT and eWAT were elevated in these mice as well(Fig.7J). To determine whether axitinib affected energy expenditure, indirect calorimetry was performed by measure oxygen consumption and carbon dioxide production. Fat mass was reduced,oxygen consumption and carbon dioxide production were significantly increased by axitinib,as compared to control mice (Fig. S4A-4C) without much differences on food intake and activity (Fig. S4E and S4G). Neither was there an increase of heart beat nor blood pressures (Fig. S4H-4J), suggesting that activation of the sympathetic nervous system was not the main mechanism for the “browning\" effects with the treatment of axitinib.Furthermore,rectal temperature was significantly increased by axitinib intake (Fig. S4D). Additionally，axitinib also increased oxygen consumption in cultured adipocytes. Seahorse bioanalyzer showed that the Oxygen consumption rates of basal, stimulated, uncoupled and maximal respiration were all increased in cultured adipocytes when treated by axitinib (Fig. S4K and S4L). Consistent with the higher oxygen consumption and rectal temperature, the mice fed axitinib displayed enhanced energy expenditure. These results indicate that axitinib treatment enhanced thermogenesis. These results strongly indicate that axitinib may represent a novel browning agent both in vitro and in vivo. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The 2A peptide sequences from different members of the picornavirus family share a highly conserved motif of 18 amino acid sequence, mediating the cleavage between the C-terminal glycine and the N-terminal proline of the 2A sequence (17). In our mouse model,2A peptide would leave a Pro on the N terminus of luciferase but it does not affect the luciferase activity since it is distal to the active site of the enzyme,which has been demonstrated by our previous study (37).The functionality of luciferase is also corroborated by the readily detectable luminescence in our mouse model. Recognition and processing of the 2A peptide would also create a C terminal 2O amino acid tag on UCP1 with a sequence of GSGATNFSLLKQAGDVEENPG(GSG is a flexible linker between UCP1 and the 2A peptide), but this C terminus does not appear to abolish biological function of UCP1 since the homozygous mice behave normally as the wild type ones,which is in contrast to Ucpl null mutants when exposed to cold temperature. By inserting the luciferase gene into the last coding exon of the mouse Ucpl gene，we generated a knockin mouse model that detects luciferase enzymatic activity in situ with high sensitivity, thereby creating an accurate proxy for UCPl expression. Our imaging data clearly showed that these mice responded robustly to $\\beta 3$ -adrenergic agonist and cold exposure. At room temperature $( 2 2 ^ { \\circ } \\mathrm { C } )$ , only iBATs exhibited strong luciferase activity; however, with cold exposure $( 4 ^ { \\circ } \\mathrm { C } )$ ，iBAT and ingWAT showed a significant increase in luciferase activity. Interestingly, rWAT also showed increased luciferase activity, albeit at a less extent than iBAT and ingWAT. In addition, we discovered an area underneath the ears that exhibited strong luciferase activity after mice were exposed to cold or treated with a $\\beta 3$ -adrenergic agonist. We named this depot uBAT. The biological function of such an adipose depot is not clear at the present time. Its small size presumably precludes it from being metabolically significant, however, sensitive response to temperature changes and/or adrenergic stimuli may prove important for organism to rapidly prepare and adapt changes internally and externally. We further characterized uBAT as a mixture of brite/beige and classical BAT based on the expression patterns of signature genes for BAT and brite/beige adipocytes. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "During the final stages of this study， Galmozzi et al reported their generation of a Ucpl-luciferase reporter mouse line using BAC transgenic techniques,which they called it the ThermoMouse (12). The segregation pattern indicated that they inserted the transgene into the Y chromosome and thus it could be used only for the male mice.In contrast, we inserted the luciferase coding sequence into exon 6 of the Ucpl gene,thereby integrating the luciferase reporter into a genomic location that promoted the expression of the UCP1-luciferase fusion protein in the same location asendogenous UCP1. The Ucpl-luciferase reporter knockin mouse lends itself to a series of studies. It has been well established that obesity accelerates the aging of adipose tissue by increasing the formation of reactive oxygen species，which ultimately leads to inflammation and increased insulin resistance (38). Additionally， brown adipocytes are gradually lost in mouse BAT and subcutaneous white adipose tissue during aging (19;39). Using our reporter mouse，we demonstrated a pronounced decrease in UCPl activity when the mice aged from 3 to 18 weeks (Fig.3),although, the reason for this decline is unknown. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Additionally，we plan to use our reporter mice to examine to what extent anti-aging compounds maintain high metabolic function in fat, or to test whether compounds with browning effects delay aging. Indeed, our Ucpl-2A-luciferase reporter mice are a highly reproducible platform for screening compounds that modulate browning of adipocytes.We also found positive regulators for browning, including known UCP1-activating agents such as the $\\beta 3$ -adrenergic agonist CL316,243 and retinoids, and previously unrecognized compounds such as the AMPK agonist A-769662 and an inhibitor of the VEGF receptor,axitinib. Since axitinib has been in clinical trials,and it potently inhibits VEGF receptors, we characterized it further and found that it has a“browning” efect both in vitro and in vivo,possibly through inhibiting the STAT3 pathway. This idea is supported by a recent report that the JAK/STAT pathway regulates the metabolic conversion of white adipocytes to brown adipocytes in humans (4O). Interestingly， other VEGFR targeting drugs such as mastinib, tanduinib, cediranib and BIBF12O which have no effect on browning (Fig. 6A). It is possible that axitinib has other targets but not VEGFR to induce browning. Additionall, withlive imaging, we demonstrated that axitinib significantly increased signals in fat pads,and axitinib-treated mice exhibited less weight gain, increased glucose tolerance,and higher insulin sensitivity. Furthermore,as shown in this study,axitinib treatment enhanced oxygen consumption and rectal temperature. Thus， axitinib treatment decreased in body weight gain and fat accumulation by increasing energy expenditure and enhanced thermogenesis. Moreover, in terms of the food intake,we did not observe significant differences in the food intake between the two groups of mice,which is consistent with previous reports in animals (41), although loss of appetite has been reported as a possible side effect of axitinib in human subjects. However, Axitinib still has several advantages over other drugs, including its favorable profile of toxicity and that it can be administered on a constant and manageable schedule to limit toxicity (42). Thus, axitinib may be an effective drug for treating metabolic disease. Finally, a recent study demonstrated that cancer-associated cachexia in a mouse model was associated with browning of subcutaneous WAT, leading to increased energy expenditure (43). This study highlights another use of our luciferase reporter mice for developing “browning\" inhibitors as potential treatments for cachexia. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Our study established a sensitive,non-invasive,and convenient system to monitor UCP1 function,which can be used to screen drugs and help identify and validate compounds with browning effects in vitro and in vivo. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "This work was partially supported by an international collaborative fund from the Chinese Academy of Sciences (154144KYSB20150019) and Guangdong Province (2015A05050241), the National Basic Research Program of China (973 Program） (2O10CB945500 and 2011CB504004)，and the National Science Foundation of China (81327801). K.K. was supported by the Danish Natural Science Research Council, the Novo Nordisk Foundation, and the Carlsberg Foundation. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Duality of Interest. ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that there is no duality of interest associated with this manuscript. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions. ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "L.M.,D.W. and B.N. researched data and wrote the manuscript. L.M., T.N. and K.L. took part in the generation of the Ucp1-2A-Luciferase mouse model. L.M. performed western blots, histological experiments， immunostaining， luciferase imaging and luminescence activity. L.M.,R.Y. and X.T. performed mRNA expression. L.M., T.N., X.H., X.L., Y.X. and Z.Z. performed energy expenditure experiments, Seahorse analysis and measurement of blood pressure as well as heart beat. T.N., X.H., A.X., X.G., X.L., P.L., K.D., Y.W., W.H., P.L. and S.D.reviewed the manuscript and contributed to discussion. D.S.，D.W.， T.N. and J.F. conceived the research ideas and reviewed and edited the manuscript. X.H. and K.K. reviewed and edited the manuscript. L.M.， S.D.and D.W. conceived the research ideas, supervised the project, and wrote the manuscript. D.W. is the guarantor of this work and, as such,had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Figure Legends: ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Generation and characterization of Ucpl-luciferase mice.A: Schematic of the Ucpl-2A-luciferase knockin strategy showing the homologous recombination that was used to generate a firefly luciferase linked to a 2A peptide sequence from Hand,Foot,and Mouth virus to replace the stop codon in exon 6 of Ucpl gene.B: Identification of luciferase-knockin mice using genomic PCR. PCR products were 500 bp for wild-type(WT） and 1000 bp for Ucp1-2A-luciferase $( \\mathrm { U } ^ { \\dag / \\mathrm { L U C } } )$ ： $C$ : UCP1 and luciferase proteins were analyzed in interscapular BAT (iBAT) of wild-type and knockin mice by Western blot. $D$ : Luciferase enzymatic activity in iBAT of wild-type and luciferase-knockin mice. $E$ :Whole-animal live imaging of knockin mice showing 3Os luminescence images of Ucpl-2A-luciferase and wild-type mice. $F$ Immunohistochemical staining of UCP1 and luciferase in iBAT showing that UCP1 and luciferase immuno-reactivities co-localize. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 Patterns of luciferase enzymatic activity and the levels of endogenous UCP1 in adipose tissues of knockin mouse. A: Luminescent images of Ucpl-2A-luciferase mice in response to non-treated control (NC), CL316243, a $\\beta 3$ -adrenergic agonist, or $B$ : cold exposure. C: Luminescence images of adipose tissues dissected out from Ucpl-2A-luciferase mice in $B$ iBAT,interscupular BAT;aBAT, axiliary BAT; cBAT,cervical BAT; ingWAT, inguinal WAT； eWAT, epididymal WAT. $D$ : The relative levels of Ucp1 RNA in different adipose tissues of mouse measured by qPCR at $2 2 ^ { \\circ } \\mathrm { C }$ and $4 ^ { \\circ } \\mathrm { C }$ for 12 hours. tWAT, thoracic WAT; rWAT,retroperitoneal WAT;mWAT,mesenteric WAT. $E$ :The relative specific luciferase activity from adipose tissues described in $D , F$ and $G$ : The protein levels of UCP1 from the adipose tissues described in $D . \\ { ^ * } { \\mathfrak { p } } < 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } } < 0 . 0 1$ compared with control mice, $\\mathrm { n } { = } 5$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 Declined luciferase activity supports that “browning” ability decreases with age. A: Luminescence images of Ucp1-2A-luciferase mice at the ages of 3, 6,10,and 18 weeks at $2 2 ^ { \\circ } \\mathrm { C }$ .B-E:Quantification of luminescence in $A$ for the dorsal, ventral upper body, ventral lower body,and side view images at the age of 3,6,10,and 18 weeks at $2 2 ^ { \\circ } \\mathrm { C }$ \\*p $< 0 . 0 5$ ，\\*\\*p $\\phantom { + } < 0 . 0 1$ compared with mice from the control group, $\\mathrm { n } { = } 5$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 uBAT was revealed underneath the ears by live imaging of the Ucpl-2A-luciferase knockin mice. $A$ : Luminescence images of a Ucpl-2A-luciferase mouse at $2 2 ^ { \\circ } \\mathrm { C }$ and at $4 ^ { \\circ } \\mathrm { C }$ for 12 hours. $B$ :Luminescence images of region containing uBAT in a Ucpl-2A-luciferase mouse at $2 2 ^ { \\circ } \\mathrm { C }$ and at $4 ^ { \\circ } \\mathrm { C }$ for 12 hours. $C$ :Ears and attached uBAT. $D$ : Hematoxylin and eosin (HE） and immunohistochemical staining of UCP1 in uBAT, showing both classical BAT and beige adipose tissue. $E$ : Relative specific luciferase activity in uBAT, ingWAT,and iBAT after Ucp1-2A-luciferase mice were kept at $2 2 ^ { \\circ } \\mathrm { C }$ and at $4 ^ { \\circ } \\mathrm { C }$ for 12 hours,respectively. $F { \\mathrm { - } } H$ :Relative expression of Ucpl,Prdml6,Cidea, Zicl, Tbxl, Cdl37,Tmem26,and Hoxc9 mRNAs,respectively,in uBAT, ingWAT,and iBAT after Ucpl-2A-luciferase mice were kept at $2 2 ^ { \\circ } \\mathrm { C }$ and at $4 ^ { \\circ } \\mathrm { C }$ for 12 hours,respectively. \\*p $< 0 . 0 5$ ，\\*\\*p $< 0 . 0 1$ compared with controls, $\\mathrm { n } { = } 5$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Relative “browning” induced by selected molecules $( 1 ~ \\mu \\mathbf { M } )$ during the entire period (days $0 -$ 10) and during the final two days (days 8-1O) of in vitro adipocyte differentiation of primary inguinal preadipocytes. B: Relative luciferase activities in response to different concentrations of all trans-retinoic acid (ATRA). C: Luminescence images of luciferase activities in response to different concentrations of ATRA. $D$ : Relative luciferase activities in response to different concentrations of AM58O. E: Luminescence images of luciferase activities in response to different concentrations of AM580. #p $< 0 . 0 5$ ， $\\ast _ { \\mathrm { p } } < 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } } < 0 . 0 1$ compared with control group, $\\mathrm { n } { = } 5$ ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 Axitinib increases “browning” in ingWAT. A: Relative “browning” induced by selected tyrosine kinase inhibitors $( 1 ~ \\mu \\mathbf { M } )$ in primary ingWAT. B: Relative luciferase activities in response to different concentrations of axitinib. $C$ :Relative mRNA expression in response to different concentrations of axitinib. $D$ : STAT3 suppresses the UCP1 mRNA expression induced by axitinib. $E – F$ :Phosphorylation of STAT3 was reduced in cells treated with axitinib. STAT3 was activated by the specific activator SD19. \\*p $< 0 . 0 5$ ， ${ * * } _ { \\mathfrak { p } } < 0 . 0 1$ compared with DMSO, $\\mathrm { n } { = } 5$ ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 Axitinib increases thermogenesis in vivo.A: Live visualization and quantification of luciferase activity in Ucpl-2A-luciferase mice treated with vehicle or axitinib for 8 weeks. Representative mice are shown. B-E: Quantification of luminescence in $A$ for the dorsal, ventral upper body，ventral lower body，and side view images. $F$ : Axitinib limited body-weight gain in Ucpl-2A-luciferase mice fed with HFD. G-H: Axitinib improved glucose clearance in Ucpl-2A-luciferase mice( $\\scriptstyle \\mathrm { { \\bar { n } } = 9 }$ ).I:Axitinib reduced the weight of ingWAT,eWAT,and liver in Ucpl-2A-luciferase mice. J: Relative luciferase activities in response to axitinib showed enhanced Ucpl expression. K: UCP1 immunostaining in iBAT and ingWAT from Ucp1-2A-luciferase mice fed with HFD treated with vehicle or axitinib. $L$ ： HE staining of fatty liver from mice treated with vehicle or axitinib. $\\ast _ { \\mathrm { p } } < 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } } < 0 . 0 1$ compared with control group, $\\scriptstyle \\mathrm { n = 9 }$ ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "1. Cypess AM,Lehman S, Wiliams G, Tal I, Rodman D, Goldfine AB,Kuo FC,Palmer EL, Tseng YH, Doria A,Kolodny GM, Kahn CR: Identification and importance of brown adipose tissue in adult humans.N Engl JMed 360:1509-1517,2009   \n2.van Marken Lichtenbelt WD,Vanhommerig JW,Smulders NM,Drossaerts JM,Kemerink GJ, Bouvy ND,Schrauwen P,Teule GJ: Cold-activated brown adipose tissue in healthy men. N Engl J Med 360:1500-1508,2009   \n3. Virtanen KA,Lidell ME,Orava J, Heglind M,Westergren R,Niemi T,Taittonen M,Laine J, Savisto NJ,Enerback S,Nuutila P: Functional brown adipose tissue in healthy adults.N Engl J Med 360:1518-1525,2009   \n4. Cypess AM，Weiner LS,Roberts-Toler C,Franquet Elia E,Kessler SH, Kahn PA,English J, Chatman K, Trauger SA, Doria A, Kolodny GM: Activation of human brown adipose tissue by a beta3-adrenergic receptor agonist. Cell Metab 21:33-38,2015   \n5.Bartelt A,Bruns OT,Reimer R,Hohenberg H,Itrich H,Peldschus K,Kaul MG,Tromsdorf UI, Weller H, Waurisch C,Eychmuller A, Gordts PL,Rinninger F, Bruegelmann K,Freund B,Nielsen P, Merkel M，Heeren J: Brown adipose tissue activity controls triglyceride clearance. Nat Med 17:200-205,2011   \n6. Stanford KI, Middelbeek RJ,Townsend KL, An D,Nygaard EB, Hitchcox KM, Markan KR, Nakano K, Hirshman MF, Tseng YH, Goodyear LJ: Brown adipose tissue regulates glucose homeostasis and insulin sensitivity.J Clin Invest 123:215-223,2013   \n7. Liu X, Zheng Z, Zhu X, Meng M, Li L, Shen Y, Chi Q, Wang D, Zhang Z, Li C, Li Y, Xue Y, Speakman JR, Jin W: Brown adipose tissue transplantation improves whole-body energy metabolism. Cell Res 23:851-854,2013   \n8.Fisher FM,Kleiner S,Douris N,Fox EC,Mepani RJ, Verdeguer F, Wu J, KharitonenkovA,Flier JS, Maratos-Flier E, Spiegelman BM: FGF21 regulates PGC-1alpha and browning of white adipose tissues in adaptive thermogenesis. Genes Dev 26:271-281,2012   \n9. Gnad T, Scheibler S, von Kugelgen I, Scheele C, Kilic A, Glode A,Hoffmann LS,Reverte-SalisaL, Horn P,Mutlu S,El-Tayeb A,Kranz M,Deuther-Conrad W,BrustP,Lidell ME,Betz MJ,Enerback S, Schrader J, Yegutkin GG,Mullr CE,Pfeifer A: Adenosine activates brown adipose tissue and recruits beige adipocytes via A2A receptors. Nature 516:395-399,2014 10. Zhang Z, Zhang H, Li B, Meng X, Wang J, Zhang Y, Yao S, Ma Q, Jin L, Yang J, Wang W, Ning G: Berberine activates thermogenesis in white and brown adipose tissue. Nat Commun 5:5493,2014 11. Rosenwald M, Perdikari A,Rulicke T, Wolfrum C: Bi-directional interconversion of brite and white adipocytes. Nat Cell Biol 15:659-667,2013   \n12. Galmozzi A, Sonne SB, Altshuler-Keylin S, Hasegawa Y, Shinoda K, Luijten IH, Chang JW, Sharp LZ, CravattBF, Saez E, Kajimura S: ThermoMouse: an in vivo model to identify modulators of UCP1 expression in brown adipose tissue. Cell Rep 9:1584-1593, 2014   \n13. Matsumoto T, Kano K, Kondo D,Fukuda N, Iribe Y, Tanaka N, Matsubara Y, Sakuma T, Satomi A, Otaki M, Ryu J,Mugishima H: Mature adipocyte-derived dedifferentiated fat cells exhibit multilineage potential. Journal of Cellular Physiology 215:210-222,2008   \n14.Fasshauer M, Klein J, Kriauciunas KM, Ueki K,Benito M, Kahn CR: Essential Role of Insulin Receptor Substrate 1 in Diferentiation of Brown Adipocytes. Molecular and Cellular Biology 21:319-329,2001   \n15.Fisher fM, Kleiner S,Douris N,Fox EC,Mepani RJ, VerdeguerF,WuJ,Kharitonenkov A,Flier JS, Maratos-Flier E, Spiegelman BM: FGF21 regulates PGC- $1 \\alpha$ and browning of white adipose tissues in adaptive thermogenesis. Genes & Development 26:271-281, 2012   \n16. Matthias A, Ohlson KB,Fredriksson JM, Jacobsson A, Nedergaard J, Cannon B: Thermogenic responses in brown fat cells are fully UCPl-dependent. UCP2 or UCP3 do not substitute for UCP1 in adrenergically or fatty scid-induced thermogenesis.J Biol Chem 275:25073-25081, 2000   \n17. Donnelly ML,Luke G, Mehrotra A,Li X,Hughes LE,Gani D,Ryan MD:Analysis of the aphthovirus 2A/2B polyprotein 'cleavage' mechanism indicates not a proteolytic reaction, but a novel translational effect: a putative ribosomal 'skip'.JGen Virol 82:1013-1025,2001   \n18. de Felipe P, Luke GA,Hughes LE,Gani D, Halpin C,Ryan MD: E unum pluribus: multiple proteins from a self-processing polyprotein. Trends Biotechnol 24:68-75, 2006   \n19. Rogers NH, Landa A, Park S, Smith RG: Aging leads to a programmed loss of brown adipocytes in murine subcutaneous white adipose tissue. Aging Cell 11:1074-1083, 2012   \n20. Matson MP: Perspective: Does brown fat protect against diseases of aging? Ageing Res Rev 9:69-76, 2010   \n21. Ma X, Lin L, Qin G, Lu X, Fiorotto M, Dixit VD, Sun Y: Ablations of ghrelin and ghrelin receptor exhibit diferential metabolic phenotypes and thermogenic capacity during aging. PLoS One 6:e16391, 2011   \n22. Cool B, Zinker B,Chiou W, Kifle L, Cao N,Perham M,Dickinson R,Adler A, Gagne G, Iyengar R, Zhao G, Marsh K, Kym P, Jung P, Camp HS,Frevert E: Identification and characterization of a small molecule AMPK activator that treats key components of type 2 diabetes and the metabolic syndrome. Cell Metab 3:403-416,2006   \n23. Rocchi S, Picard F, Vamecq J, Gelman L, Potier N, Zeyer D, Dubuquoy L, Bac P, Champy MF, Plunket KD, Leesnitzer LM, Blanchard SG, Desreumaux P, Moras D, Renaud JP, Auwerx J: A unique PPARgamma ligand with potent insulin-sensitizing yet weak adipogenic activity. Mol Cell 8:737-747, 2001   \n24. Roberts LD, Bostrom P, O'Sullivan JF, Schinzel RT, Lewis GD,Dejam A,Lee YK,Palma MJ, Calhoun S, Georgiadi A, Chen MH,Ramachandran VS,Larson MG,Bouchard C,Rankinen T, Souza AL，Clish CB，Wang TJ,Estall JL， Soukas AA，Cowan CA， Spiegelman BM，Gerszten RE: beta-Aminoisobutyric acid induces browning of white fat and hepatic beta-oxidation and is inversely correlated with cardiometabolic risk factors. Cell Metab 19:96-108,2014 25.Tsuchiya H, Ikeda Y, Ebata Y, Kojima C, Katsuma R, Tsuruyama T, Sakabe T, Shomori K, Komeda N, Oshiro S, Okamoto H, Takubo K, Hama S, Shudo K, Kogure K, Shiota G: Retinoids ameliorate insulin resistance in a leptin-dependent manner in mice. Hepatology 56:1319-1330,2012   \n26. Guleria RS, Singh AB, Nizamutdinova IT, Souslova T, Mohammad AA, KendallJA, Jr., Baker KM, Pan J: Activation of retinoid receptor-mediated signaling ameliorates diabetes-induced cardiac dysfunction in Zucker diabetic rats. JMol Cell Cardiol 57:106-118, 2013   \n27. Ghorbani M, Shafiee Ardestani M, Gigloo SH, Cohan RA, Inanlou DN, Ghorbani P: Anti diabetic effect of CL 316,243 (a beta3-adrenergic agonist） by down regulation of tumour necrosis factor (TNF-alpha) expression. PLoS One 7:e45874, 2012   \n28. Alvarez R,de Andres J, Yubero P, Vinas O,Mampel T,Iglesias R, Giralt M, Villarroya F: A novel regulatory pathway of brown fat thermogenesis. Retinoic acid is a transcriptional activator of the mitochondrial uncoupling protein gene. J Biol Chem 270:5666-5673,1995   \n29. Puigserver P, Vazquez F, Bonet ML, Pico C, Palou A: In vitro and in vivo induction of brown adipocyte uncoupling protein (thermogenin) by retinoic acid. Biochem J317（Pt3):827-833,1996 30.Mercader J，Madsen L, Felipe F, Palou A,Kristiansen K, Bonet ML: Al-trans retinoic acid increases oxidative metabolism in mature adipocytes. Cell Physiol Biochem 20:1061-1072,2007 31.Mercader J，Palou A，Bonet ML: Induction of uncoupling protein-1 in mouse embryonic fibroblast-derived adipocytes by retinoic acid. Obesity (Silver Spring)18:655-662,2010   \n32. Mercader J,Ribot J, Murano I,Felipe F, Cinti S,Bonet ML,Palou A: Remodeling of white adipose tissue after retinoic acid administration in mice. Endocrinology 147:5325-5332, 2006   \n33. Wang X, Yang P, Liu J， Wu H, Yu W, Zhang T, Fu H, Liu Y, Hai C: RARgamma-C-Fos-PPARgamma2 signaling rather than ROS generation is critical for all-trans retinoic acid-inhibited adipocyte differentiation. Biochimie 106:121-130,2014   \n34. Kim DM, Choi HR,Park A, Shin SM, Bae KH,Lee SC,Kim IC, Kim WK: Retinoic acid inhibits adipogenesis via activation of Wnt signaling pathway in 3T3-Ll preadipocytes. Biochem Biophys Res Commun 434:455-459, 2013   \n35.Schupp M, Curtin JC,Kim RJ,Billin AN,Lazar MA: A widely used retinoic acid receptor antagonist induces peroxisome proliferator-activated receptor-gamma activity. Mol Pharmacol 71:1251-1257, 2007   \n36. Pithavala YK, Chen Y, Toh M, Selaru P,LaBadie RR, Garrett M, Hee B, Mount J, Ni G, Klamerus KJ,Tortorici MA:Evaluation of the effect of food on the pharmacokinetics of axitinib in healthy volunteers. Cancer Chemother Pharmacol 70:103-112, 2012   \n37. Yang S, Kuang Y, Li H, Liu Y, Hui X, Li P, Jiang Z, Zhou Y, Wang Y, Xu A, Li S, Liu P, Wu D: Enhanced production of recombinant secretory proteins in Pichia pastoris by optimizing Kex2 P1' site. PLoS One 8:e75347, 2013   \n38.Ahima RS: Connecting obesity,aging and diabetes. Nat Med 15:996-997,2009   \n39.Sasaki T,Hiraga H, Yokota-Hashimoto H, Kitamura T: Miglitol protects against age-dependent weight gain in mice: A potential role of increased UCPl content in brown adipose tissue.Endocr J 62:469-473, 2015   \n40. Moisan A,Lee YK, Zhang JD, Hudak CS,Meyer CA,Prummer M, Zoffmann S, Truong HH, Ebeling M, Kiialainen A, Gerard R, Xia F, Schinzel RT, Amrein KE,Cowan CA: White-to-brown metabolic conversion of human adipocytes by JAK inhibition. Nat Cell Biol 17:57-67,2015   \n41. Langlet F, Levin BE, Luquet S, Mazzone M, Messina A, Dunn-Meynell AA, Balland E,Lacombe A, Mazur D，Carmeliet P, Bouret SG，Prevot V，Dehouck B: Tanycytic VEGF-A boosts blood-hypothalamus barrier plasticity and access of metabolic signals to the arcuate nucleus in response to fasting. Cell Metab17:607-617,2013   \n42.Kelly RJ,Rixe O: Axitinib-a selective inhibitor of the vascular endothelial growth factor(VEGF) receptor. Target Oncol 4:297-305,2009   \n43.Petruzzeli M, Schweiger M, Schreiber R, Campos-Olivas R, Tsoli M, Allen J, Swarbrick M, Rose-John S,Rincon M,Robertson G, Zechner R,Wagner EF:A switch from white to brown fat increases energy expenditure in cancer-associated cachexia. Cell Metab 2O:433-447,2014 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/a550e728f3425e5c71c49d171a9e05e3cc65532cccc252f6b14661bc61bf13f0.jpg",
+        "img_caption": [
+            "Figure 1: "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d24eafd7d270f5c78e9bc6ecc123a73685514c8b85396789c07f99adbd459a7.jpg",
+        "img_caption": [
+            "Figure 2: "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b5f7743b080c22cd874c73cac5f6f137c0e0c56086eefe28edeee82e6ba0e5.jpg",
+        "img_caption": [
+            "Figure 3: "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/51b8c29bacc20e335999a32d180402a150e2e8d40750c2c3b3f2b5dcc422f4f6.jpg",
+        "img_caption": [
+            "Figure 4: "
+        ],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/c54382de60896314d6bcd5b91abc14db6f4290917d7ac88c1ab25da381cb5236.jpg",
+        "img_caption": [
+            "Figure 5: "
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/251a39ff49b61b9a4171b04e7d6c7f71e915a1f826027c95e999135f216b1091.jpg",
+        "img_caption": [
+            "Figure 6: "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/3baccd458a66f05dcc2c9b1fe2ecfd27be570f8607490da2fd79cd3ee0762143.jpg",
+        "img_caption": [
+            "Figure 7: "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Online OnlyMaterials: ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Figure.S1 UCPlexpression level is in concordance with luciferase activity. ",
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/39e5a7b425714847f2278d465b123aa208bdb68d3abc5f194e05695731654bd4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "(A-D) Ucpl-2A-luciferase mice were housed at $4 ^ { \\circ } \\mathrm { C }$ for various time periods as indicated.(A) and (C) Relative luciferase activity (RLU) and mRNA level in (A) iBAT and (C) ingWAT; (B) and (D) Western blot analysis of UCP1 and luciferase in (B) iBAT and (D) ingWAT; (E) Representative luminescence images of $U C P I ^ { + \\ R U \\ C }$ mice after injection of substrate for $2 0 \\mathrm { { m i n } }$ ，40min and $1 2 0 \\mathrm { m i n }$ $\\scriptstyle \\mathrm { n = 8 }$ #p $< 0 . 0 5$ ， $^ { * } \\mathrm { p } { < } 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } } < 0 . 0 1$ ： ",
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1d227d231d9a999f911c738d76464bf7c0e290ec13ff38ced282e7dc5aeeba5.jpg",
+        "img_caption": [
+            "Figure. S2 Half-lives of UCP1 and luciferase protein "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Brown adipocytes were stimulated with CL316,243( ${ \\bf \\nabla } ( 1 { \\bf \\nabla } \\mu { \\bf M } )$ for2 days,followed by incubation with cycloheximide（ $1 0 ~ \\mu \\mathrm { M }$ as time zero). The relative protein levels of UCP1 and luciferase were examined.(A） Western blot and (B） densitometry analysis of UCPl and (C) luciferase activity in treated cells at various time points after cycloheximide treatment. $\\mathrm { n } { = } 6$ ",
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c1f90cb0a05b14904be72d142e5fb8dfc6e9296decc0e25b7f806953029da00.jpg",
+        "img_caption": [
+            "Figure. S3 UCP1 expression was reduced upon thermoneutrality. "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Ucp1-2A-luciferase mice were housed at $4 ^ { \\circ } \\mathrm { C }$ or $2 2 ^ { \\circ } \\mathrm { C }$ for $1 2 \\mathrm { ~ h ~ }$ ,and then housed at $3 0 ^ { \\circ } \\mathrm { C }$ for 48 h. (A) Luminescence images of mice; (B-E) Quantification of luminescence in (A) at various parts of the mice; (F) Relative levels of Ucpl mRNA and (G) relative luciferase activity in different adipose tissues of the mice; $\\mathrm { ( H ) }$ Immunostaining of UCP1 in iBAT and iWAT. $\\scriptstyle \\mathrm { n = 8 }$ #p $< 0 . 0 5$ $^ { * } \\mathrm { p } { < } 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } } < 0 . 0 1$ , ND, not detected. ",
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c156c024927e2f915513a2991939497c301a603f67ce27848d8e0d52ccba9e1.jpg",
+        "img_caption": [
+            "Figure.S4 Axitinib promotes energy expenditure in vivo and in vitro. ",
+            "(A-I) Ucpl-2A-luciferase mice were orally gavaged with axitinib ( $\\mathrm { 1 0 ~ m g / k g }$ body weight) or PBS daily for 8 weeks.(A) Body compostion,(B) O2 consumption,(C) CO2 production,(D) Rectal temperature and (E) Food intake,(F) Serum insulin(G) RER, $\\mathrm { ( H ) }$ activity, (I) blood pressure and (J） heart rate in normal control (NC) and Axitinib-treated mice. (K-L） SVF-derived mature adipocytes were treated with DMSO or axitinib $( 1 \\mu \\mathbf { M } )$ for $2 4 \\mathrm { ~ h ~ }$ . The oxygen consumption rate (OCR) of the cells was measured by Seahorse bioanalyzer. (K) OCRs upon sequential compound injections measuring basal, stimulated( $1 0 \\mu \\mathrm { M }$ norepinephrine，NE)，ATP production $2 \\mu \\ M$ Oligomycin)，maximal( $2 \\mu \\mathrm { M }$ FCCP）and non-mitochondrial( $\\mathrm { I } \\mu \\mathrm { M }$ Antimycin A and $3 \\mu \\mathrm { M }$ Rotenone) respiration. (L) Basal, stimulated, maximal and uncoupled OCRs. Uncoupled OCR was calculated as the difference between stimulated and non-mitochondrial OCRs. $^ { * } \\mathrm { p } { < } 0 . 0 5$ ， ND,not detected, $\\scriptstyle \\mathrm { n = 4 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/698b15ff5e154e9049ea1c4c67e25cc59dc96dd21e769e37a901ff24dce38cc3.jpg",
+        "img_caption": [
+            "Figure. S5 Browning is reduced in female mice after birth to baby. ",
+            "(AB).(A） Luminescence images of virgin mice and AB mice at the same age; (B-D) Quantification of luminescence in (A) at various parts; (E) Body weight, (F) Relative levels of Ucpl mRNA, $\\mathbf { \\Pi } ( \\mathbf { G } )$ luciferase activity in various adipose tissues of the mice; $\\mathrm { ( H ) }$ UCP1 immunostaining in iBAT and ingWAT. $^ { * } \\mathrm { p } { < } 0 . 0 5$ ， $^ { * * } \\mathrm { p } { < } 0 . 0 1$ , ND, not detected, $\\mathrm { n } { = } 6$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fbe6900ccf7d6e77516649463b0a09fdde02c216714762ee65b43f0d63a1c17.jpg",
+        "table_caption": [
+            "Table 1. Primers used for gene expression "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Accession number</td><td></td><td>Primers</td></tr><tr><td>Tbx1</td><td>AF349658.1</td><td>F</td><td>GGCAGGCAGACGAATGTTC</td></tr><tr><td rowspan=\"3\">PRDM16</td><td rowspan=\"3\">NM_027504</td><td>R</td><td>TTGTCATCTACGGGCACAAAG</td></tr><tr><td>F</td><td>CAGCACGGTGAAGCCATTC</td></tr><tr><td>R</td><td>GCGTGCATCCGCTTGTG</td></tr><tr><td rowspan=\"2\">Tmem26</td><td rowspan=\"2\">NM_177794.3</td><td>F</td><td>ACCCTGTCATCCCACAGAG</td></tr><tr><td>R</td><td>TGTTTGGTGGAGTCCTAAGGTC</td></tr><tr><td rowspan=\"2\">Cidea</td><td rowspan=\"2\">BC096649.1</td><td>F</td><td>TGCTCTTCTGTATCGCCCAGT</td></tr><tr><td>R</td><td>GCCGTGTTAAGGAATCTGCTG</td></tr><tr><td rowspan=\"2\">Cd137</td><td rowspan=\"2\">DQ832278.1</td><td>F</td><td>CGTGCAGAACTCCTGTGATAAC</td></tr><tr><td>R</td><td>GTCCACCTATGCTGGAGAAGG</td></tr><tr><td rowspan=\"2\">Ucp1</td><td rowspan=\"2\">NM_009463</td><td>F</td><td>GGCATTCAGAGGCAAATCAGCT</td></tr><tr><td>R</td><td>CAATGAACACTGCCACACCTC</td></tr><tr><td rowspan=\"2\">Zic1</td><td rowspan=\"2\">BC060247.1</td><td>F</td><td>AACCTCAAGATCCACAAAAGGA</td></tr><tr><td>R</td><td>CCTCGAACTCGCACTTGAA</td></tr><tr><td rowspan=\"2\">Hoxc8</td><td rowspan=\"2\">NM_010466.2</td><td>F</td><td>GTCTCCCAGCCTCATGTTTC</td></tr><tr><td>R</td><td>TCTGATACCGGCTGTAAGTTTGT</td></tr><tr><td rowspan=\"2\">18S</td><td rowspan=\"2\">NM_013536.2</td><td>F</td><td>GTAACCCGTTGAACCCCATT</td></tr><tr><td>R</td><td>CCATCCAATCGGTAGTAGCG</td></tr></table></body></html>",
+        "page_idx": 44
+    }
+]

@@ -1,0 +1,175 @@
+# 贵州黄壤小白菜生长、品质、光合特性及氮素利用对新型肥料的响应
+
+赵欢1,2张萌1,2秦松1,2 安江勇1,4王正银³肖厚军1,2\*\*(1.贵州省土壤肥料研究所贵阳550006;2.农业部贵州耕地保育与农业环境科学观测实验站贵阳550006;3．西南大学资源环境学院重庆400716;4.贵州师范大学生命科学学院贵阳550006)
+
+摘要为探究不同新型肥料对贵州省酸性黄壤小白菜产量、品质、光合特性及肥料利用的影响，同时筛选出适合贵州黄壤施用的新型肥料产品，以贵州酸性黄壤为基础，通过盆栽试验设置对照(CK，不施氮肥)、西洋复合肥(常规施肥)、保水型功能性肥和稳定性缓释肥4个处理，研究了新型肥料对小白菜产量、品质、光合特性以及养分吸收利用的影响。结果表明：施用保水型功能性肥和稳定性缓释肥可显著增加小白莱播种后34d的生物量，较常规施肥处理相比鲜重分别增加 $4 . 1 6 \%$ 和 $2 2 . 2 8 \%$ ，干重分别增加 $41 . 5 5 \%$ 和 $6 2 . 3 5 \%$ ；施用新型肥料还可以改善小白菜的营养品质，与常规施肥处理相比，保水型功能性肥可显著降低硝酸盐含量 $1 8 . 6 1 \%$ ，而还原性糖、Vc和游离氨基酸含量分别增加 $2 5 . 7 4 \%$ 、 $1 3 0 . 9 5 \%$ 和 $1 6 . 9 1 \%$ ；而稳定性缓释肥则使硝酸盐、还原糖和Vc含量分别提高 $2 6 . 6 8 \%$ 、 $1 5 . 3 5 \%$ 和 $50 . 0 0 \%$ ，但是游离氨基酸含量则较常规施肥相比降低 $1 4 . 4 3 \%$ ；而且新型肥料还增强了小白菜叶片的光合能力(净光合速率 $P _ { \mathrm { { n } } }$ 、气孔导度 $g _ { \mathrm { s } }$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $C _ { \mathrm { i } }$ 以及蒸腾速率 $T _ { \mathrm { r } }$ ，其中以稳定性缓释肥处理的小白菜光合能力最佳，且气孔因素是导致净光合速率增加的主要原因。施用新型肥料小白菜对氮素的吸收显著增加，氮肥利用效率显著提高，新型肥料处理的氮肥农学效率 $( \mathrm { A E _ { N } } )$ 、偏生产力$( \mathrm { P F P _ { N } } )$ 、生理利用率 $( \mathrm { P E _ { N } } )$ 和表观利用率 $( \mathrm { R E _ { N } } )$ 平均分别为 $4 8 . 3 0 \mathrm { k g ^ { . } k g ^ { - 1 } }$ 、 $5 9 . 8 5 \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、 $9 5 . 4 6 \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $5 2 . 7 9 \%$ 以稳定性缓释肥处理的氮肥利用效率最佳，尤其是氮肥表观利用率达 $6 6 . 6 6 \%$ 。此外，相关性分析结果显示，小白菜产量与叶片净光合速率 $P _ { \mathrm { { n } } }$ 、气孔导度 $g _ { \mathrm { s } }$ 以及蒸腾速率 $T _ { \mathrm { r } }$ 均呈显著正相关关系，说明提高小白菜叶片的气体交换参数 $P _ { \mathrm { { n } } }$ 、 $g _ { \mathrm { s } }$ 和 $T _ { \mathrm { r } }$ 可以增加小白菜产量；同时小白菜叶片氮含量与氮肥生理利用率和氮肥表观利用率存在极显著相关性， $\boldsymbol { r }$ 值分别为-0.937和0.978，表明增加小白菜叶片氮含量可以提高小白菜对氮肥的利用效率。综上所述，新型肥料对贵州酸性黄壤上小白菜的生物增产效应以及光合特性提高等效果显著，可为将来在贵州农业生产中推广应用提供参考和理论依据。
+
+关键词酸性黄壤小白菜新型肥料生物量光合特性氮肥利用效率中图分类号：S143.5 文献标识码：A 文章编号:1671-3990(2016)10-1320-08
+
+# Response of Chinese cabbage growth, quality, photosynthesis and nitrogen utilization to new fertilizers in Guizhou yellow soil
+
+ZHAO Huan1,2, ZHANG Meng1,2, QIN Song1,2, ANJiangyong1,4, WANG Zhengyin³, XIAO Houjunl,2\*\* (1.Guizhostldertlg,na;FeltoExperieafiedd and Agro-environmentinGuizou,MinistryofAgriculture,Guyang506,China;3.ColegeofResourcesandEnviroment, SouthwestUnversity,Chongqing40716,China;4.CollegeofLifeciences,GuzhouNrmalUniversity,Guyang55006,Cina)
+
+AbstractTheefectsof new fertilizersontheyield,quality，photosyntheticcharacteristicsand ferilizerutilizationof Chinese cabbage in Guizhou acid yelow soils were investigated in a pot experiment.The soil used inthe experiment was typical yellow soil with $\mathsf { p H } 6 . 0 8$ ,collcted from the experimental base of Academy of Agricultural Sciences of Guizhou. The four treatments studiedintheexperimentincludedthecontrasttreatment (CK,noitrogen fertilzer),compoundfertilier(FH, conventionalfertilizer),waterretaining fertilzer(BS)andstablesow-releasefertilizer(WD).Thebiomass,contentsofitrate reducing sugar,Vcandfre aminoacidas wellasleaf gas exchangeparameters andnitrogencontent andutilizationof Chinese cabbage were investigated at diferent times after sowing.Theresults showed that at 34 days after sowing,BS and WD treatments significantly increased Chinesecabbage biomass.Compared with FH treatment,BSand WD treatments increased Chinese cabbage fresh weights by $4 . 1 6 \%$ and $41 . 5 5 \%$ , and dry weights by $2 2 . 2 8 \%$ and $6 2 . 3 5 \%$ , respectively. Application of newfertilizersalsoimprovednutritionalqualityofChinesecabbage.ComparedwithFHtreatment,Streatmentsignificantly reduced nitrate content by $1 8 . 6 1 \%$ while increased contents of reducing sugar, Vc and free amino acid,respectively, by $2 5 . 7 4 \%$ $1 3 0 . 9 5 \%$ and $1 6 . 9 1 \%$ . However, WD treatment increased nitrate, reducing sugar and Vc contents, respectively, by $2 6 . 6 8 \%$ $1 5 . 3 5 \%$ and $50 . 0 0 \%$ ,while decreased free amino acid content by $14 . 4 3 \%$ . The application of the new fertilizers also enhanced the photosynthetic capacity of Chinese cabbage leaves,including the net photosynthetic rate $( P _ { \mathrm { { n } } } )$ ， stomatal conductance $( g _ { \mathrm { s } } )$ ， intercellular $\mathrm { C O } _ { 2 }$ concentration $( C _ { \mathrm { i } } )$ and transpiration rate $( T _ { \mathrm { r } } )$ , for which WD treatment had the best performance. The stomata regulation was the main enhancement factor for photosyntheticcapacity.Nitrogen uptake of Chinese cabbage obviously increased and nitrogen use eficiency apparently enhanced as well.Average agronomic nitrogen efficiency $( \mathrm { A E _ { N } } )$ ,partial factor productivity $( \mathrm { P F P _ { N } } )$ ，physiological utilization $( \mathrm { P E _ { N } } )$ and recovery efficiency $( \mathrm { R E _ { N } } )$ for new fertilizer treatments were respectively $4 8 . 3 0 ~ \mathrm { k g ^ { . } k g ^ { - 1 } }$ ， $5 9 . 8 5 ~ \mathrm { k g { \cdot } k g ^ { - 1 } }$ ， $9 5 . 4 6 ~ \mathrm { k g ^ { . } k g ^ { - 1 } }$ and $5 2 . 7 9 \%$ . Then the treatment with the best efficiency was WD treatment, especially for nitrogen recovery efficiency (which was $6 6 . 6 6 \%$ ).Correlation analysis showed that yield and net photosynthetic rate $( P _ { \mathrm { { n } } } )$ ，stomatal conductance $( g _ { \mathrm { s } } )$ and transpiration rate $( T _ { \mathrm { r } } )$ had significant positive correlations. This suggested that improvement in net photosynthetic rate $( P _ { \mathrm { { n } } } )$ ，stomatal conductance $( g _ { \mathrm { s } } )$ and transpiration rate $( T _ { \mathrm { r } } )$ increased yieldof Chinesecabbage.Concurrently,therewas asignificant correlation between nitrogencontent,physiologicalutilization $( \mathrm { P E _ { N } } )$ and recovery efficiency $( \mathrm { R E _ { N } } )$ ，with $r$ values of $- 0 . 9 3 7$ and 0.978,respectively. This suggested that increase in nitrogen content improved nitrogenutilization efficiency.Furthermore,thenew fertilizers significantly enhanced biological yieldand photosyntheticcharacteristics ofChinesecabbage in Guizhouacid yelowsoils.The studylaidasolid scientific reference and theoretical basis for future applications of new fertilizers in agricultural production in Guizhou Province.
+
+KeywordsAcidyellowsoil; Chinesecabbage; Newfertilizer;Biomass Photosyntheticcharacteristics;Nitrogen fertilizer use efficiency
+
+新型肥料主要包括复合型、缓释型、稳定性和生物有机肥等[1]，具有肥效时间长、养分利用率高等特性[2-8]，它作为作物提产增质和肥效提升新途径已得到科学界广泛认可，其技术开发及相关应用也日益增多[9-14]。目前，国家发布了《"十三五"农业可持续发展规划》，提出化肥减施增效，争取到2020年实现我国农业化肥“零增长"的发展目标。因此，充分发展和利用新型肥料对实现我国农业可持续发展及保障粮食安全具有重要意义。
+
+目前关于新型肥料的研究报道已有很多，随着化工合成行业快速发展，通过添加保水剂和生化抑制剂等方法制成的保水型、稳定性缓释肥料被相继研发出来[1]，其施用效果也得到了肯定。如韩玉玲[15]研究发现，保水型肥料能够显著促进辣椒(CapsicumannuumL.)植株生长，并提高其水分和肥料的利用;王斌等[14]对水稻(Oryza sativa L.)的研究指出，控释尿素和稳定性尿素均能增强水稻光合效率和光合能力，提升水稻产量和肥料利用率。可见，新型肥料在提高肥效、稳产增产等方面已经得到了认证。尽管如此，新型肥料在贵州省黄壤上的研究却相对缺乏。贵州农业属于山地特色农业，黄壤面积占 $42 \%$ 且多数属于喀斯特地貌，土层相对较薄且肥力偏低，施用普通肥料无法使养分长期保存，再加上雨水季节性分配不均匀，极易导致作物生长期发生干旱缺水、缺肥现象[16-17]，急需保水型、稳定性等肥料来解决这一系列问题。此外，以往关于新型肥料的研究大多是从肥料利用率等方面进行评价，综合考虑作物生长、品质、光合特性以及肥料利用效率等方面的研究相对缺乏。本试验针对贵州省土壤特性及农业生产现状，选取几种有代表性的新型肥料作为研究对象，通过盆栽试验探究贵州酸性黄壤上小白菜(Brassica campestrisL.)的增产效应、光合作用对不同新型肥料的响应，同时明确不同肥料品种的氮肥利用效率，旨在筛选出适合贵州黄壤施用的新型肥料产品，以期为实现新型肥料在贵州黄壤上的高效利用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验于2015年7—9月在贵州省农业科学院土壤肥料研究所温室大棚进行。供试土壤为采自贵州省农业科学院试验基地的黄壤，其基本理化性质为：$\mathrm { p H } 6 . 0 8$ ，有机质 $3 8 . 3 7 ~ \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ ，全氮 $1 . 5 7 ~ \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ ，有效磷 $1 2 . 3 0 ~ \mathrm { m g ^ { - } k g ^ { - 1 } }$ ，速效钾 $1 1 9 . 0 0 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 。供试肥料包括3种：复合型肥料(化肥复合肥，为农民习惯施肥品种， $\mathrm {  ~ N ~ } \colon { \mathrm {  ~ P } } _ { 2 } { \mathrm {  ~ O } } _ { 5 } : { \mathrm {  ~ K } } _ { 2 } \mathrm {  ~ O ~ }$ 为 $1 5 : 1 5 : 1 5$ 、保水型功能性肥(肥料中添加保水剂，由贵州省土壤肥料研究所自主研发生产， $\mathrm {  ~ N ~ } \colon { \mathrm {  ~ P } } _ { 2 } { \mathrm {  ~ O } } _ { 5 } : { \mathrm {  ~ K } } _ { 2 } \mathrm {  ~ O ~ }$ 为 $1 6 : 1 0 : 1 6 )$ 和稳定性缓释肥(肥料中添加脲酶抑制剂，由贵州驿龙肥料有限公司提供， $\mathrm {  ~ N ~ } \colon { \mathrm {  ~ P } } _ { 2 } { \mathrm {  ~ O } } _ { 5 } : { \mathrm {  ~ K } } _ { 2 } \mathrm {  ~ O ~ }$ 为 $1 6 : 1 0 : 1 6 )$ 0供试作物为速生型小白菜。
+
+# 1.2 试验设计
+
+试验共设置4个处理，分别为：1)不施氮肥，只施用磷钾肥(CK)；2)施化肥复合肥(FH)；3)施保水型功能性肥(BS);4)施稳定性缓释肥(WD)。试验用土为过 $2 \ \mathrm { m m }$ 筛的风干土，试验容器选用 $2 \mathrm { ~ L ~ }$ 的塑料盆，每盆装土 $1 . 5 \mathrm { k g } _ { \circ }$ 各施肥处理的施肥量除CK处理不施氮肥外，各处理的氮、磷、钾肥用量相同，肥料用量按每千克土 $\textrm { N } 0 . 1 5 \textrm { g }$ ， $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } \ 0 . 1 \ \mathrm { g }$ 和 $\mathrm { K } _ { 2 } \mathrm { O } \ 0 . 1 5 \ \mathrm { g }$ 施用，肥料不足的用单质肥料尿素(含 $\mathrm { ~ N ~ } 4 6 \%$ 、过磷酸钙（含 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 2 \%$ 、硫酸钾(含 $\mathrm { K _ { 2 } O } 5 0 \%$ )补充，即每盆$ { \mathsf { N } } ,  { \mathsf { P } } _ { 2 }  { \mathsf { O } } _ { 5 }$ 和 $\mathrm { K } _ { 2 } \mathrm { O }$ 用量均分别为 $0 . 2 2 5 \mathrm { g } _ { \mathrm { s } } 0 . 1 5 \mathrm { g }$ 和 $0 . 2 2 5 \ : \mathrm { g _ { \circ } }$ 每个处理设9次重复，共计36盆，每盆栽种1棵小白菜。小白菜种植前将肥料与土充分混匀后装入盆中，肥料均作为基肥一次性施入，将小白菜种子播撒于土壤表面后进行适量浇水，然后覆盖一层薄土以便于小白菜出苗。试验过程中保持每盆土壤水分状况一致，每次加水量保持相同。
+
+# 1.3 样品采集与测定
+
+小白菜整个生育期共采集3次样品(播种后 $1 7 \mathrm { d } .$ 播种后34d和播种后50d)，每次各处理选择3盆能够代表整体长势的小白菜植株进行取样并带回实验室供测。
+
+# 1.3.1 土壤基本理化性质测定
+
+试验布置前，将所有供试土壤充分混合均匀后，取一部分在自然条件下经风干磨细过筛后，测定土壤基本理化性质。具体方法为：土壤 $\mathfrak { p H }$ 按照水土比$2 . 5 : 1$ ， $\mathsf { p H }$ 计法测定；有机质用重铬酸钾容量法测定；全氮用半微量开氏法，标准酸滴定测定；有效磷采用 $0 . 5 \mathrm { \ m o l { \cdot } L ^ { - 1 } \ N a H C O } _ { 3 }$ 浸提，钼锑抗比色法测定；速效钾采用 $1 . 0 \ \mathrm { \ m o l { \cdot } L ^ { - 1 } }$ （ $\mathrm { \Delta N H _ { 4 } O A c }$ 浸提，火焰光
+
+度法测定[18]。
+
+# 1.3.2 植物样品测定
+
+植物样品采集后，先称取鲜重，然后取一部分鲜样放入 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 干燥箱中杀青 $3 0 \ \mathrm { m i n }$ ，再在 $6 0 \mathrm { ~ \textdegree ~ }$ 下烘干至恒重称重，粉碎后采用 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 联合消煮-凯氏定氮仪测定植株全氮含量[18]。同时，另取一部分新鲜样品用于测定卫生品质(硝酸盐)和营养品质(还原糖、Vc和游离氨基酸)[18]。
+
+# 1.3.3 气体交换参数测定
+
+在小白菜旺盛生长期的晴天选取长势均匀的小白菜3株，于上午9:00—11:30，用Li-6400XT便携式光合测定仪(LI-COR，USA)测定小白菜功能性叶片的净光合速率 $( P _ { \mathrm { { n } } } )$ 、气孔导度 $( g _ { \mathrm { s } } )$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \mathrm { i } } )$ 和蒸腾速率 $( T _ { \mathrm { r } } )$ 。测定时设置光强 $1 \ 2 0 0 \ \mathrm { \mu m o l { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ，叶室温度 $2 5 \mathrm { ~ \textdegree ~ }$ ， $\mathrm { C O } _ { 2 }$ 浓度为 $4 0 0 \ \mu \mathrm { m o l { \cdot } m o l ^ { - 1 } }$ ，气体流速$3 0 0 \mathrm { m o l { \cdot } s ^ { - 1 } }$ 。气孔限制值 $( L \mathrm { s } )$ 按照以下公式计算：
+
+$$
+L \mathrm { s } = 1 \mathrm { - } ( C _ { \mathrm { i } } / C _ { \mathrm { a } } )
+$$
+
+式中: $C _ { \mathrm { a } }$ 为设定 $\mathrm { C O } _ { 2 }$ 浓度。
+
+# 1.4 相关参数计算
+
+氮肥农学效率 $( \mathbf { A E } _ { \mathrm { N } }$ ， $\mathbf { k g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } ) =$ (施氮后作物产量-不施氮作物产量)/施氮量 (2)
+
+氮肥偏生产力 $( \mathrm { P F P _ { N } }$ ， $\mathbf { k g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } ) =$ 施氮后作物产量/施氮量 (3)
+
+氮肥生理利用率 $( \mathrm { P E } _ { \mathrm { N } } , ~ \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 } ) = ($ 施氮后作物产量-不施氮作物产量)/(施氮后作物吸氮总量-不施氮作物吸氮总量) (4)
+
+氮肥表观利用率 $( \mathrm { R E _ { N } , \Omega \% } ) =$ (施氮后作物吸氮总量-不施氮作物吸氮总量)/施氮量 $\times 1 0 0$ (5)
+
+# 1.5 数据统计
+
+试验数据均采用MicrosoftExcel2003软件进行计算处理，利用SPSS20.0和DPS软件进行统计分析，采用Origin8.0 软件作图。
+
+# 2 结果与分析
+
+# 2.1 新型肥料对小白菜地上部生物量的影响
+
+施用新型肥料对小白菜生物量的影响存在差异(表1)。施肥后小白菜生物量显著增加，播种后 $1 7 \mathrm { d }$ 时，与FH处理相比,BS和WD处理小白菜鲜重分别降低 $9 . 3 0 \%$ 和 $32 . 5 6 \%$ ，干重则分别低 $6 . 6 7 \%$ 和$40 . 0 0 \%$ ，其中WD处理显著低于FH和BS处理；播种后34d时，小白菜生物量不断增加，与FH处理相比，BS 和WD 处理鲜重分别增加 $4 . 1 6 \%$ 和 $2 2 . 2 8 \%$ 干重分别增加 $41 . 5 5 \%$ 和 $6 2 . 3 5 \%$ ，且显著高于FH处理；至播种后 $5 0 \mathrm { d }$ 时,FH、BS 和WD处理的小白菜生物量均无明显差异。
+
+表1不同新型肥料对播后不同时间小白菜地上部生物量的影响ablelEffects of diferent new-type fertilizers on aboveground biomass ofChinese cabbage at different ti  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="3">鲜重Fresh weight (g·plant-1)</td><td colspan="3">干重Dry weight (g·plant-1)</td></tr><tr><td>17 d</td><td>34d</td><td>50d</td><td>17 d</td><td>34d</td><td>50d</td></tr><tr><td>CK</td><td>10.33±2.52c</td><td>19.53±5.87c</td><td>19.27±1.62b</td><td>0.60±0.15c</td><td>2.67±0.74c</td><td>2.60±0.74b</td></tr><tr><td>FH</td><td>51.60±4.80a</td><td>100.10±5.20b</td><td>125.07±26.63a</td><td>3.00±0.28a</td><td>6.57±0.87b</td><td>13.33±0.87a</td></tr><tr><td>BS</td><td>46.80±1.53a</td><td>104.27±17.44ab</td><td>122.67±14.82a</td><td>2.80±0.11a</td><td>9.30±0.98a</td><td>13.27±0.98a</td></tr><tr><td>WD</td><td>34.80±2.20b</td><td>122.40±9.68a</td><td>151.73±16.70a</td><td>1.80±0.11b</td><td>10.67±1.10a</td><td>13.80±1.10a</td></tr></table></body></html>
+
+CK表示对照，不施氮肥处理;FH表示化肥复合肥处理;BS表示保水型功能性肥处理；WD表示稳定性缓释肥处理。同列不同字母表示处理间差异达显著水平 $( P { < } 0 . 0 5 )$ 。下同。CK means contrast,no nitrogen fertilizer treatment; FHis compound fertilizer treatment; BS is waterretainingfertiliert;sblttat 0.05 level. The same below.
+
+# 2.2 新型肥料对小白菜品质的影响
+
+由表2可以看出，施用不同类型新型肥料对小白菜品质有一定的改善作用(表2)。FH和BS两个处理显著降低了小白菜叶片的硝酸盐含量，与CK处理相比分别降低 $1 8 . 9 9 \%$ 和 $34 . 0 6 \%$ ，而WD处理的硝酸盐含量略有增加;FH、BS和WD处理可显著增加小白菜还原糖含量 $1 4 . 1 2 \% { \sim } 4 3 . 5 0 \%$ ，与FH处理相比，BS和WD处理还原糖含量分别增加 $2 5 . 7 4 \%$ 和 $1 5 . 3 5 \%$ 同样，不同类型新型肥料对小白菜 $\mathrm { v } _ { \mathrm { c } }$ 和游离氨基酸含量也有明显改善，FH、BS和WD处理的Vc含量较CK处理分别显著提高 $1 2 . 0 0 \% . 1 5 8 . 6 7 \%$ 和 $6 8 . 0 0 \%$ 其中BS和WD处理分别较FH处理增加 $1 3 0 . 9 5 \%$ 和$50 . 0 0 \%$ ；FH和BS处理的游离氨基酸含量较CK处理分别显著提高 $1 3 . 7 0 \%$ 和 $3 2 . 9 2 \%$ ，但WD处理则降低
+
+$2 . 7 0 \text{‰}$
+
+# 2.3 新型肥料对小白菜气体交换参数的影响
+
+从播种后 $3 4 \mathrm { d }$ 不同施肥处理小白菜叶片气体交换参数可以看出，施氮显著影响小白菜叶片的 $P _ { \mathfrak { n } }$ $g _ { \mathrm { s } }$ 和 $T _ { \mathrm { r } } ,$ 对 $C _ { \mathrm { i } }$ 和 $\boldsymbol { L } \boldsymbol { \mathrm { s } }$ 影响较小(表3)。不施氮(CK)处理$P _ { \mathrm { { n } } }$ 、 $g _ { \mathrm { s } }$ 和 $T _ { \mathrm { r } }$ 均显著低于其他各施氮处理，说明施用氮肥可提高小白菜光合能力。与FH处理相比，BS和 WD处理的净光合速率 $P _ { \mathrm { ~ n ~ } }$ 分别增加 $2 7 . 4 0 \%$ 和$1 1 7 . 8 1 \%$ ，气孔导度 $g _ { \mathrm { s } }$ 分别增加 $2 9 . 4 1 \%$ 和 $5 8 . 8 2 \%$ 蒸腾速率 $T _ { \mathrm { r } }$ 分别增加 $3 8 . 8 1 \%$ 和 $8 6 . 7 9 \%$ ，而胞间 $\mathrm { C O } _ { 2 }$ 浓度 $C _ { \mathrm { i } }$ 增幅较小，仅为 $2 . 9 2 \%$ 和 $3 . 4 7 \%$ ，以WD处理的小白菜光合能力最佳，BS处理次之。此外，施用氮肥可降低气孔限制值 $L \{$ s，尤其以WD处理降低幅度最大，但各施肥处理间无明显差异。
+
+表2不同新型肥料对小白菜品质的影响Table 2Effects of different new-type fertilizers on quality of Chinese cabbage  
+
+<html><body><table><tr><td>处理 Treatment</td><td>硝酸盐 Nitrate (mg·kg-1)</td><td>还原糖 Reducing sugar (mg:g-1)</td><td>Vc [mg:(100g)-1]</td><td>游离氨基酸 Free amino acid (mg·g-1)</td></tr><tr><td>CK</td><td>901.71±16.02a</td><td>1.77±0.05c</td><td>0.75±0.02d</td><td>132.03±1.32c</td></tr><tr><td>FH</td><td>730.46±39.20b</td><td>2.02±0.16b</td><td>0.84±0.01c</td><td>150.12±11.97b</td></tr><tr><td>BS</td><td>594.54±18.58c</td><td>2.54±0.14a</td><td>1.94±0.01a</td><td>175.50±6.10a</td></tr><tr><td>WD</td><td>925.40±12.99a</td><td>2.33±0.11a</td><td>1.26±0.04b</td><td>128.46±9.15c</td></tr></table></body></html>
+
+表3不同施肥处理对小白菜叶片气体交换参数的影响(播种后34d)Table3Leaf gas exchangeparametersofChinesecabbage indiferentnew-typefertizers treatments (34daysaftersowing）  
+
+<html><body><table><tr><td>处理 Treatment</td><td>净光合速率Pn [μmol(CO2)m-².s-1]</td><td>气孔导度gs [mol(HO)·m-².s-1]</td><td>胞间CO浓度Ci [umol(CO2)·mol-1]</td><td>蒸腾速率Tr [mmol(HO)m−².s-1]</td><td>气孔限制值 Ls</td></tr><tr><td>CK</td><td>3.94±0.52c</td><td>0.08±0.01b</td><td>284.16±16.43a</td><td>3.26±0.96c</td><td>0.29±0.04a</td></tr><tr><td>FH</td><td>5.11±0.78bc</td><td>0.17±0.14ab</td><td>292.93±19.14a</td><td>3.71±0.90bc</td><td>0.27±0.05a</td></tr><tr><td>BS</td><td>6.51±1.35b</td><td>0.22±0.07a</td><td>301.48±8.73a</td><td>5.15±1.71b</td><td>0.25±0.02a</td></tr><tr><td>WD</td><td>11.13±2.22a</td><td>0.27±0.07a</td><td>303.10±3.61a</td><td>6.93±1.23a</td><td>0.24±0.01a</td></tr></table></body></html>
+
+# 2.4新型肥料对小白菜氮素含量与氮素累积的影响
+
+随着小白菜生长时间的推进，各处理小白菜叶片氮含量均呈现出下降趋势，平均由 $3 6 . 6 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 降至 $1 4 . 8 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，再降至 $1 0 . 5 7 ~ \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ (图1)。小白菜播种后 $1 7 \mathrm { ~ d ~ }$ ，BS和WD处理小白菜叶片氮含量显著高于 FH 处理，平均高 $1 6 . 6 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ；播种后34d时,WD处理小白菜叶片含氮量显著高于CK、FH和BS处理，分别高 $8 . 9 0 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 、 $7 . 0 4 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $4 . 2 6 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 各施氮处理间的氮含量差异显著；播种后50d时，WD处理小白菜叶片氮含量仍显著高于其他处理，其他施氮处理间差异不明显。
+
+不同类型新型肥料对小白菜氮素累积影响显著(图1)。与CK处理相比，施用新型肥料显著增加了小白菜的氮素累积，其中播种后17d时增幅 $4 8 0 . 6 \% \sim$ $71 4 . 7 \%$ ，BS处理的氮素累积增幅显著高于其他施肥处理，但FH与WD处理间无显著差异；播种后34d时，WD处理的氮素累积显著增加，比其他施氮处理平均提高 $8 5 . 0 4 \%$ ，且处理间差异达极显著水平；播种后50d时，WD处理的氮素累积仍显著高于其他施氮处理，但FH与BS两个处理的氮素累积则无显著差异。
+
+![](images/05e886dfcc30f5c4737504f6dced0bc056c13657d54ca7b02aa2504ffb27e383.jpg)  
+图1播种后不同时间不同施肥处理小白菜氮素含量和氮素累积量  
+ig.1NcontentandaumulationofChinesecabbageunderdifferentnew-typefertilizers treatmentsatdiferenttimesaftersowin
+
+# 2.5 新型肥料对小白菜氮肥利用效率的影响
+
+由表4可看出，施用不同类型新型肥料对小白菜氮肥利用效率存在差异(表 4)。氮肥农学效率 $( \mathrm { A E _ { N } } )$ 反映了单位施氮量下作物经济产量的增加情况，施用新型肥料的 $\mathrm { A E _ { N } }$ 为 $4 7 . 4 1 { \sim } 4 9 . 7 8 \ \mathrm { k g { \cdot } k g ^ { - 1 } }$ ，各处理间无显著差异；氮肥偏生产力 $( \mathrm { P F P _ { N } } )$ 反映了单位施氮量对产量的贡献，施用新型肥料的 $\mathrm { P F P _ { N } }$ 以WD处理最高，为 $6 1 . 3 3 ~ \mathrm { { \ k g ^ { \cdot } k g ^ { - 1 } } }$ ，比其他施肥处理增加 $2 . 0 7 \sim$ $2 . 3 7 ~ \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，但各处理间差异不显著；氮肥生理利用率 $( \mathrm { P E _ { N } } )$ 反映了作物地上部每吸收单位肥料中的氮所获得的籽粒产量的增加量，不同新型肥料处理中，BS处理的氮肥生理利用率 $\mathrm { P E _ { N } }$ 最高，达 $1 1 4 . 3 6 ~ \mathrm { k g ^ { . } k g ^ { - 1 } }$ 显著高于WD处理，FH处理的次之；就氮肥表观利用率 $( \mathrm { R E _ { N } } )$ 而言，WD处理的 $\mathrm { R E _ { N } }$ 达 $6 6 . 6 6 \%$ ，显著高于FH和BS处理,FH的 $\mathrm { R E _ { N } }$ 次之，为 $4 9 . 2 9 \%$ ，BS处理的 $\mathsf { R E } _ { \mathrm { N } }$ 最低，仅为 $42 . 4 2 \text{‰}$ （204
+
+# 2.6小白菜生物量和叶片氮含量与气体交换参数以及氮肥利用效率的相关性分析
+
+对比分析小白菜生物量与气体交换参数的相关性可以发现(表5)，无论鲜重还是干重，小白菜生物量均与叶片净光合速率 $P _ { \mathrm { n } }$ 气孔导度 $g _ { \mathrm { s } }$ 以及蒸腾速率 $T _ { \mathrm { r } }$ 呈显著正相关关系；小白菜干重还与胞间 $\mathrm { C O } _ { 2 }$ 浓度 $C _ { \mathrm { i } }$ 呈显著正相关，而小白菜鲜重则与其不存在显著相关性。从小白菜叶片氮含量与氮肥利用效率的相关性分析可看出，氮含量与氮肥生理利用率$\mathrm { P E _ { N } }$ 达极显著负相关，而与氮肥表观利用率 $\mathrm { R E _ { N } }$ 达极显著正相关，说明小白菜叶片氮含量可以显著影响氮肥利用效率。
+
+表4不同施肥处理小白菜的氮肥利用效率  
+Table 4N fertilizer use efciency of Chinese cabbage under different new-type fertilizers treatments   
+
+<html><body><table><tr><td>处理 Treatment</td><td>农学效率 AEN (kg:kg-1)</td><td>偏生产力 PFPN (kg·kg-1)</td><td>生理利用率 PEN (kg:kg-1)</td><td>表观利用率 REN (%)</td></tr><tr><td>CK</td><td></td><td></td><td>1</td><td>1</td></tr><tr><td>FH</td><td>47.70±3.37a</td><td>59.26±4.11a</td><td>97.00±9.87ab</td><td>49.29±1.98b</td></tr><tr><td>BS</td><td>47.41±1.36a</td><td>58.96±2.05a</td><td>114.36±13.32a</td><td>42.42±7.25b</td></tr><tr><td>WD</td><td>49.78±5.41a</td><td>61.33±6.16a</td><td>75.02±3.42b</td><td>66.66±10.43a</td></tr></table></body></html>
+
+表5小白菜生物量和叶片氮含量与气体交换参数以及氮肥利用效率的相关性(r值)able 5Correlation coefficients between biomass,Ncontent and gas exchange parameters,Nuse efficiency( $\cdot$ value)  
+
+<html><body><table><tr><td>产量Yield</td><td>Pn</td><td>gs</td><td>Ci</td><td>T</td><td>AEN</td><td>PFPN</td><td>PEN</td><td>REN</td></tr><tr><td>鲜重Fresh weight</td><td>0.631*</td><td>0.609*</td><td>0.489</td><td>0.698*</td><td>1</td><td>1</td><td></td><td>1</td></tr><tr><td>干重 Dry weight</td><td>0.741*</td><td>0.721*</td><td>0.575*</td><td>0.799*</td><td></td><td>1</td><td>1</td><td></td></tr><tr><td>N%</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0.370</td><td>0.283</td><td>-0.937**</td><td>0.978**</td></tr></table></body></html>
+
+\*和 $^ { * * }$ 分别表示相关显著 $( P { < } 5 \% )$ 和极显著 $( P { < } 1 \% ) _ { \circ }$ \* and $^ { * * }$ indicate significantly correlation at $P < 5 \%$ and $P < 1 \%$ ,respectively.
+
+# 3 讨论与结论
+
+新型肥料较普通肥料相比，有利于作物产量的增加和品质的改善[11-14]。本研究发现，施用新型肥料可以显著增加小白菜中期的生物量，但对收获期小白菜鲜重和干重则无明显影响，说明新型肥料可能对作物生长过程中的影响较大，而对作物的最终产量影响并不明显。这与朱国梁等[19]和唐拴虎等[20]在黄瓜(Cucumis sativus L.)和辣椒(Capsicum annuumL.)上的研究结果类似，这一方面说明新型肥料对作物的影响可能并不单单表现在作物产量上，只有对作物生长周期进行分时段的观测研究才能获得更加准确可能的结果；另一方面，通过在不同类型土壤中的施肥效果发现，新型肥料对黑土、潮土和紫色土的土壤养分影响差异较大，尤其是对作物生长过程中的土壤养分影响最为明显，这也可能是导致作物生长差异明显的一个重要原因[21-23]。同时本研究也发现，在小白菜生长前期(播种后17d)施用稳定性缓释肥(WD)的小白菜长势明显不如复合肥(FH)和保水型功能性肥(BS)处理效果好，这可能是与稳定性缓释肥的养分释放特性有关，稳定性缓释肥在小白菜生育前期养分释放量较低，但在中后期却能够在短时间内实现养分的高效利用，从而不会造成养分前期过度释放而造成后期"脱肥"的问题[24]。此外，本研究中各施肥处理对小白菜的营养品质影响不一：施用复合型(FH)和保水型功能性肥(BS)可以显著降低小白菜叶片硝酸盐含量，尤其是保水型功能性肥处理降幅达 $34 . 0 7 \%$ ，这可能与肥料中保水剂对 $N O _ { 3 } ^ { - } { - } N$ 的吸附有关[25-27]，而稳定性缓释肥(WD)处理小白菜硝酸盐含量尽管较CK相比略有升高，含量仍远低于国家安全标准 $( \leqslant 3 ~ 0 0 0 ~ \mathrm { m g \cdot k g } ^ { - 1 } )$ ，并未产生硝酸盐含量超标的风险；与此同时，FH、BS和WD处理小白菜还原糖含量较CK显著增加 $1 3 . 8 5 \% \sim$ $43 . 7 1 \%$ ，BS和WD处理的 $\mathrm { v } _ { \mathrm { c } }$ 含量较FH处理分别显著提高 $1 3 0 . 5 5 \%$ 和 $5 0 . 0 0 \%$ ，而BS处理的游离氨基酸较FH处理显著提高 $1 6 . 9 0 \%$ 。由此可见，新型肥料对小白菜营养品质改善具有明显作用。
+
+光合作用是作物生长发育以及产量形成的重要影响因素之一，净光合速率、气孔导度、胞间 $\mathrm { C O } _ { 2 }$ 浓度和蒸腾速率等是反映作物光合能力的重要指标[28]。本研究发现，新型肥料对小白菜叶片的净光合速率$P _ { \mathrm { n } }$ 气孔导度 $g _ { \mathrm { s } }$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $C _ { \mathrm { i } }$ 以及蒸腾速率 $T _ { \mathrm { r } }$ 均有所提高，综合来看以稳定性缓释肥(WD)处理对小白菜叶片气体交换参数的作用效果最优。研究指出，影响作物光合速率的因素包括气孔和非气孔限制两个方面，根据气孔导度 $g _ { \mathrm { s } }$ 的变化可以进行初步判断，但是判断叶片光合速率增加的主要原因究竟是气孔还是非气孔限制的最可靠依据则是 $C _ { \mathrm { i } }$ 与气孔限制值 $L \mathrm { s }$ 的变化方向：若 $C _ { \mathrm { i } }$ 增加且 $L \mathrm { s }$ 降低说明是气孔因素引起的；反之，则为非气孔因素[29-30]。从本试验结果可以看出，WD处理的 $P _ { \mathrm { { n } } }$ 和 $g _ { \mathrm { s } }$ 明显高于其他施肥处理，比较其 $C _ { \mathrm { i } }$ 和气孔限制值 $L \mathrm { s }$ 发现，WD处理 $C _ { \mathrm { i } }$ 增加的同时，气孔限制值 $L \mathrm { s }$ 也出现下降，表明气孔因素是导致WD处理净光合速率增加的主要原因，说明稳定性缓释肥可以改善小白菜叶片的气孔环境，通过提高气孔因素进而提高光合速率。
+
+目前，我国化肥当季氮肥利用率约为 $30 \% { \sim } 3 5 \%$ 新型肥料在提高氮肥利用效率方面发挥了积极作用[8,31]。朱国梁等[19]研究了不同缓释肥料对黄瓜养分利用率的影响，结果显示缓释复合肥料的氮、磷、钾素利用率较普通复合肥分别提高 $1 3 . 9 \mathrm { \sim } 2 3 . 7$ 、 $9 . 6 \sim$ 14.5和17.0\~22.9个百分点；周丽平等[32研究发现潮土夏玉米(Zea maysL.)施用新型尿素比普通尿素的氮肥利用率提高 $1 7 . 5 \text{‰}$ 本研究发现，施用新型肥料后可以明显提高氮肥利用效率，尤其是施用稳定性缓释肥,其 $\mathrm { A E _ { N } , P F P _ { N } , P E _ { N } }$ 和 $\mathrm { R E _ { N } }$ 分别为 $4 9 . 7 8 \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ $6 1 . 3 3 \mathrm { k g ^ { . } k g ^ { - 1 } }$ 、 $7 5 . 0 2 \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $6 6 . 6 6 \%$ ，明显优于普通复合肥(FH)处理。分析其中原因可能是：一方面,添加脲酶抑制剂可以减缓肥料中氮素的释放，使$\mathrm { N H } _ { 4 } ^ { + }$ 和 ${ \bf N O } _ { 3 } ^ { - }$ 能够在土壤中长期保存，从而增加作物对氮素的吸收利用[33]；另一方面，脲酶抑制剂能够有效降低土壤脲酶活性，减少氨挥发损失，从而提高氮素利用效率[34-36]。
+
+综上所述，新型肥料对贵州黄壤区小白菜的施用效果是显著的，但是，本研究是在盆栽试验条件下模拟进行的，外界因素可能会导致新型肥料的施用效果存在差异。因此，本研究下阶段将结合田间试验进一步验证新型肥料的施用效果，以期通过实践生产为新型肥料在贵州蔬菜中的推广应用提供坚实可靠的理论依据。
+
+# 参考文献References
+
+[1]赵秉强．新型肥料[M]．北京：科学出版社,2013:7-8 Zhao B Q.New Fertilizers[M].Beijing:Science Press,2013: 7-8   
+[2]Van Zwieten L,Kimber S,Morris S,et al.Effects of biochar from slow pyrolysis of paper mill waste on agronomic performance and soil fertility[J].Plant and Soil,2010, 327(1-2): 235-246   
+[3]Demirbas A.Effects of temperature and particle size on bio-char yield from pyrolysis of agricultural residues[J]. 243-248   
+[4] Sohi S,Krull E,Lopez C E,et al. Biochar, climate change and soil:A review to guide future research[R]. CSIRO Land and Water Science Report, 2009:17-31   
+[5] Yuan JH，Xu R K. The amelioration effects of low temperature biochar generated from nine crop residues on an acidic Ultisol[J].Soil Use and Management,2011,27(1): 110-115   
+[6]Haefele SM,Konboon Y,Wongboon W,et al.Effects and fate of biochar from rice residues in rice-based systems[J].Field Crops Research,2011,121(3): 430-440   
+[7]闫湘，金继运，何萍，等．提高肥料利用率技术研究进展[J]. 中国农业科学,2008,41(2): 450-459 Yan X,Jin JY, He P, et al. Recent advances and prospects on the technology to increase fertilizer use efficiency[J]. Scientia Agricultura Sinica, 2008,41(2): 450-459   
+[8]韩晓日．新型缓/控释肥料研究现状与展望[J]．沈阳农业大 学学报,2006,37(1): 3-8 Han X R.Current situation and prospects of new type slow and controled releasing fertilizers[J]. Journalof Shenyang Agricultural University,2006,37(1): 3-8   
+[9]王斌，李玉娥，万运帆，等．控释肥和添加剂对双季稻温室 气体排放影响和减排评价[J]．中国农业科学，2014，47(2): 314-323 Wang B,Li Y E,Wan Y F,et al.Effect and assessment of controlled release fertilizer and additive treatmentson greenhouse gases emission from a double rice field[J]. Scientia Agricultura Sinica,2014,47(2):314-323   
+[10]何绪生，张树清，余雕，等．生物炭对土壤肥料的作用及未 来研究[J]．中国农学通报,2011,27(15):16-25 He X S, Zhang S Q, She D,et al. Effects of biochar on soil and fertilizer and future research[J].Chinese Agricultural Science Bulletin,2011,27(15): 16-25   
+[11] 张娜，李佳，刘学欢，等．生物炭对夏玉米生长和产量的影 响[J]．农业环境科学学报,2014,33(8):1569-1574 Zhang N,Li J,Liu X H,et al.Effects of biochar on growth and yield of summer maize[J]. Journal of Agro-Environment Science,2014,33(8): 1569-1574   
+[12]邱现奎，董元杰，胡国庆，等．新型包膜缓释肥对大白菜生 理特性、产量及品质的影响[J].土壤学报，2011，48(2): 375-382 Qiu X K,Dong Y J,Hu G Q,et al.Effects of homemade coatedcontrolled releasefertilizersonphysiological characteristics yield and quality of Chinese cabbage[J].Acta Pedologica Sinica,2011,48(2): 375-382   
+[13]王宜伦，卢艳丽，刘举，等．专用缓释肥对夏玉米产量及养 分吸收利用的影响[J].中国土壤与肥料，2015(1):29-32 Wang YL,Lu YL,Liu J,et al. Effects of special slow-release fertilizer on yield and nutrient absorption and utilization of summer maize[J].Soil and Fertilizer Sciences in China, 2015(1): 29-32   
+[14]王斌，万运帆，郭晨，等．控释尿素、稳定性尿素和配施菌 剂尿素提高双季稻产量和氮素利用率的效应比较[J]．植物 营养与肥料学报,2015,21(5):1104-1112 WangB,WanYF,Guo C,etal.Acomparisonof the effects of controlled release urea, stable urea and microorganisms increasing double rice yield and nitrogen use efficiency[J]. Journal of Plant Nutrition and Fertilizer,2O15,21(5):   
+1104-1112 [15]韩玉玲．保水剂对辣椒生长及水肥高效利用的研究[D]．南 京：南京农业大学,2013 Han YL.Effects of super absorbent polymers on growth and high-efficient use of water and fertilizer of pepper[D]. Nanjing:Nanjing Agricultural University,2013 [16]赵欢，刘海，何佳芳，等．不同肥料组合对马铃薯产量、生 物性状和土壤肥力的影响[J]．贵州农业科学，2013,41(12):   
+110-114 Zhao H,Liu H,He JF,et al.Effects of different fertilizer combination on potato yield,biological traits and soil fertility[J].Guizhou Agricultural Sciences，2013，41(12):   
+110-114 [17]吕慧峰，王小晶，赵欢，等．肥料组合对马铃薯产量、品质 和土壤肥力的影响[J]．长江蔬菜：学术版,2010(22):46-48 Lü HF,Wang X J, Zhao H,et al. Effects of fertilizer combinations on yield,quality and soil fertility of potato[J]. Journal of Changjiang Vegetables,2010(22): 46-48 [18]鲍士旦．土壤农化分析[M].3版．北京：中国农业出版社,   
+2000 Bao S D. Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing:China Agricultural Press,2000   
+[19]朱国梁，毕军，夏光利，等．不同缓释肥料对黄瓜产量、品 质及养分利用率的影响[J]．中国土壤与肥料，2013(1): 68-73 Zhu GL,Bi J,Xia GL,et al.Effects of different slow-release fertilizers on cucumbers’yield,quality and nutrient use efficiency[J].Soil and Fertilizer Sciences in China,2013(1): 68-73   
+[20]唐拴虎，张发宝，黄旭，等．缓/控释肥料对辣椒生长及养 分利用率的影响[J]．应用生态学报,2008,19(5):986-991 Tang S H,Zhang F B，Huang X，et al. Effects of slow/controlled release fertilizers on the growth and nutrient use efficiency of pepper[J]. Chinese Journal of Applied Ecology,2008,19(5): 986-991   
+[21]韩蔚娟，王寅，陈海潇，等．黑土区玉米施用新型肥料的效 果和环境效应[J]．水土保持学报,2016,30(2):307-311 Han W J,Wang Y,Chen H X,et al.Study on the effect of new-type fertilizer application on spring maize production and its environmental impact in black soil area[J]. Journal of Soil and Water Conservation,2016,30(2): 307-311   
+[22]王小明，谢迎新，张亚楠，等．新型肥料施用对玉米季土壤 硝态氮累积的影响[J]．水土保持学报,2009,23(5):232-236 Wang X M, Xie Y X, Zhang Y N,et al. Efect of new type fertilizers application on accumulation of soil nitrate nitrogen inthe maize season[J]. Journal of Soil and Water Conservation,2009,23(5):232-236   
+[23]胡小凤，王正银，孙倩倩，等．缓释复合肥料在不同pH 值 紫色土中氨挥发特性[J]．农业工程学报，2009，25(6): 100-103 Hu X F, Wang Z Y, Sun Q Q,et al. Characteristics of ammonia volatilization of slow release compound fertilizer in different pH values of purple soils[J]. Transactions of the CSAE,2009, 25(6): 100-103   
+[24]樊小林，刘芳，廖照源，等．我国控释肥料研究的现状和展 望[J]．植物营养与肥料学报,2009,15(2):463-473 Fan XL,Liu F,Liao ZY,et al. The status and outlook for the study of controlled-release fertilizers in China[J].Plant Nutrition Fertilizer Science,2009,15(2):463-473   
+[25]肖青亮，郑诗樟，牛德奎．施肥对蔬菜累积硝酸盐影响的 研究进展[J]．安徽农业科学,2007,35(6):1732-1734 Xiao QL,Zheng S Z,Niu D K.Effect of fertilization on the nitrate accumulation in vegetable crop[J]. Journal of Anhui Agricultural Sciences,2007,35(6):1732-1734   
+[26] Blaylock A D,Kaufmann J，Dowbenko R D. Nitrogen fertilizertechnologies[C]//Western Nutrient Management Conference. Salt Lake City, UT,2005,6: 8-13   
+[27] Tang S H,Yang S H,Chen J S,et al．Studies on the mechanism of single basal application of controlled-release fertilizers for increasing yield of rice (Oryza safiva L.)[J]. Agricultural Sciences in China,2007,6(5): 586-596   
+[28]吴志庄，王道金，厉月桥，等．施用生物炭肥对黄连木生长 及光合特性的影响[J].生态环境学报,2015,24(6):992-997 Wu ZZ,Wang DJ,LiYQ,et al.Effects of biochar fertilizer application on growth properties and photosynthetic and physiological characteristics of Pistacia chinensis Bunge[J]. Ecology and Environmental Sciences,2015,24(6): 992-997   
+[29]陈根云，陈娟，许大全．关于净光合速率和胞间 $\mathrm { C O } _ { 2 }$ 浓度 关系的思考[J]．植物生理学通讯,2010,46(1):64-66 Chen G Y, Chen J, Xu D Q. Thinking about the relationship between net photosynthetic rate and inter-cellular $\mathrm { C O } _ { 2 }$ （204号 concentration[J].Plant Physiology Communications,2010, 46(1): 64-66   
+[30]许大全．光合作用气孔限制分析中的一些问题[J]．植物生 理学通讯,1997,33(4):241-244 Xu D Q.Some problems in stomatal limitation analysis of photosynthesis[J]. Plant Physiology Communications,1997, 33(4): 241-244   
+[31]Zhang Z W,Wang JX,Lu Y,et al.Effects of slow-release fertilizer and balanced fertilization on nitrogen,phosphorus and potassum uptake in peppers[J]. Agricultural Science & Technology,2015,16(7): 1457-1461   
+[32]周丽平，杨俐苹，白由路，等．不同氮肥缓释化处理对夏玉 米田间氨挥发和氮素利用的影响[J/OL].植物营养与肥料 学报，http://www.cnki.net/kcms/detail/11.3996.S.20160504. 1617.002.html Zhou L P, Yang L P,Bai Y L,et al. Comparison of several slow-released nitrogen fertilizers in ammonia volatilization and nitrogen utilization in summer maize field[J/OL]. Journal ofPlant Nutrition and Fertilizer,http://www.cnki.net/kcms/ detail/11.3996.S.20160504.1617.002.html   
+[33]杨利军，韩晓日，战秀梅，等．新型缓释尿素对玉米和水稻 产量、氮肥利用率及无机氮残留的影响[J].沈阳农业大学 学报,2012,43(2):184-188 Yang L J,Han XR, Zhan X M,et al. Effects of slow-release nitrogen fertilizers on yield of maize and rice,nitrogen use efficiency and inorganic N residue[J]. Journal of Shenyang Agricultural University,2012,43(2):184-188   
+[34]李雨繁.不同类型高氮复混(合)肥氨挥发特性及氮素转化 研究[D]．长春：吉林农业大学,2014 Li Y F.Ammonia volatilization characteristics and nitrogen transformation of different kinds of high-nitrogen compound fertilizers[D]. Changchun: Jilin Agricultural University,2014   
+[35]陈序根，徐卫红，王崇力，等．脲酶硝化双抑制剂缓释肥提 高番茄产量及 NPK养分吸收[J]．农业工程学报，2015, 31(21): 168-176 Chen X G,Xu WH,Wang CL,et al.Slow-release fertilizer containingureaseinhibitorand nitrification inhibitor improving nitrogen release characteristic and uptake and utilization of nitrogen, phosphorus and potassium in tomato[J]. Transactions of the CSAE,2015,31(21):168-176   
+[36]张文学，孙刚，何萍，等．脲酶抑制剂与硝化抑制剂对稻田氨 挥发的影响[J]．植物营养与肥料学报,2013,19(6):1411-1419 Zhang W X,Sun G, He P,et al.Efects of urease and nitrification inhibitors on ammonia volatilization from paddy fields[J]. Plant Nutrition and Fertilizer Science,2013,19(6): 1411-1419

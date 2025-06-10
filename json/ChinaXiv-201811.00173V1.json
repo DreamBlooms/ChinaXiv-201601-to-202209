@@ -1,0 +1,683 @@
+[
+    {
+        "type": "text",
+        "text": "基于图优化的视觉SLAM研究进展与应用分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王录涛，吴林峰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(成都信息工程大学 计算机学院，成都 610225)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：同步定位与构图技术(simultaneous localization and mapping，SLAM)指机器人在构建环境地图的同时对自己的运动状态进行估计，是实现未知环境下机器人全自主运动的核心。为了对 SLAM技术有更为全面的把握，在回顾过去三十年里视觉 SLAM技术发展历程基础上，详细分析了视觉 SLAM问题的本质与求解的复杂性。重点对在提高位姿估计精度、构建全局一致地图与提升算法求解效率上的最新研究成果进行了介绍，并对当前代表性的算法实现方案进行了分析与比较。针对未来大尺度环境、全生命周期应用需求，对现有算法框架的不足与最新研究趋势进行了归纳总结。最后，探讨了深度学习技术与视觉SLAM问题求解的关联性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：同步定位与构图；图优化；数据关联；稀疏化；深度学习 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.08.0509 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application analyses and research progress of graph-based visual SLAM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Lutao, Wu Linfeng (School ofComputer Science,Chengdu University of Information Technology,Chengdu 610225,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Simultaneous localizationand mapping consists inthe concurrentconstructionofa modelof environment,and the estimationoftherobot moving withinit.Itisoneofthekeyproblems for therobottobecompletelyautonomous inunknown environments.In order to giveacomprehensive understanding of SLAM,we first giveanoverview of the progress of visual SLAMcommunityhas made over the last30years in this survey.We then present thenon-linearityofthe mathematical model and computational complexity in visual SLAM algorithms.We mostly focus on the latest achievementsand approaches improving the accuracyofpose estimation,building a globallyconsistencyrepresentationof the environmentand promoting computation effciency.We also surveythefailure modesofcurrent visual SLAMalgorithms forlargescale,fullifecycle implementation and the diferent ways toaddress that.Finallywe discuss the potential connections between deep learning architectures and visual SLAM state estimations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: simultaneous localization and mapping; graph optimization; data association;sparsification; deep learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为实现未知环境下全自主运动，移动机器人必须解决环境感知与自身定位两个基本的问题。同步定位与地图构建技术(Simultaneous localization and mapping，SLAM)将机器人定位与地图构建融为一体，使机器人在缺乏环境先验信息的情况下，能依据自身搭载的传感器在运动过程中增量获取未知环境的特征信息，同时实现自我运动轨迹的精确估计[1]。相对激光SLAM技术，视觉SLAM系统硬件成本低、能获取环境纹理与色彩信息，因而具有更为广阔的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "迄今为止，视觉SLAM技术的发展过程可归纳为两个阶段。第一阶段从1986年到2004年，采用贝叶斯滤波技术求解SLAM问题。Smith等[2进行了开创性的研究，首先将SLAM问题系统地表示为随机估计问题。机器人位姿和地标被看做服从某种分布的随机变量，利用运动数据和观测数据，采用滤波理论实现系统状态预测与观测更新，同时实现地图的在线更新，具有较好的实时性。代表性算法有扩展卡尔曼滤波(ExtendedKalmanFilters,EKF)[3]、扩展信息滤波[4]、UKF[5]、Rao-Balckwellized 粒子滤波[6]、FastSlam[7]等。滤波方法假设状态估计的Markov 性，仅用相邻帧信息对机器人状态进行估计，难以处理当前帧与历史帧的数据关联问题。SLAM系统运动方程和观测方程是非线性函数，滤波方法采用一阶泰勒近似计算状态的后验概率，当系统存在强烈的非线性时，大的线性化估计误差将不可避免。此外，系统参数和观测存在的不确定性，也会造成误差的累积，导致构建地图的不一致性。在算法实现上，滤波方法需存储、维护和更新状态变量的均值和方差，且存储容量与待估计状态变量呈平方关系。因此，滤波方法仅适用于计算资源受限，或估计变量较少的情况下。Paz等人采用子地图分割的方法解决EKF的工作环境尺度问题，但仅能在100米的范围内有效工作[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第二阶段(2004-2016)致力于SLAM理论分析与实现细节研究，关于SLAM问题的可观测性、收敛性与一致性的研究大量见诸于报道。降低对计算资源的需求，实现系统实时性工作的同时扩展应用环境尺度成为SLAM应用的关键9]，而利用图优化技术，构建针对观测方程的非线性最小二乘目标函数，将机器人位姿与路标点作为待优化变量，采用牛顿法、Levenberg-Marquardt算法迭代估计最优解，提高局部定位与路标点的估计精度，成为SLAM研究的主流。同时，SLAM问题的稀疏性也逐渐被认知，使得全局一致解的获取成为可能。目前，在 $5 0 \\mathrm { k m }$ 的工作环境尺度下，具有 $1 \\%$ 平移误差与 $0 . 0 0 3 \\mathrm { d e g } { \\cdot } m ^ { - 1 }$ 旋转误差的SLAM系统已经出现[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过三十多年的发展，视觉SLAM理论框架趋于稳定，算法定位精度、运动轨迹估计漂移、全局一致性环境地图构建等关键性问题在计算资源、运动模型、静态环境与性能等约束条件得以满足的情况下，得到了有效解决，但针对全生命周期、大尺度复杂环境下的高性能、低失效率应用，以及计算资源的自适应应用与构建基于任务驱动的感知模型等方面还缺乏更为有效的解决方案。Liu等[I对近期代表性的单目视觉SLAM技术进行了比较分析。Cadena[12]总结了SLAM的状态估计存在的问题、地图表示方法与研究进展，以及SLAM性能的理论保证，并对相关前沿课题进行了详细论述。Cuillaume[13]对 SLAM在自动驾驶应用中存在的问题与解决途径进行了分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文侧重对视觉SLAM技术的理论基础与全生命周期、大尺度环境工作存在的问题及解决途径进行深入剖析，首先给出了SLAM系统处理架构，结合理论基础分析图优化估计方法存在的问题，并对最新研究进展进行了阐述，然后归纳总结了现阶段的主流算法及可能达到的性能指标。最后，针对未来SLAM系统全生命周期、开放大尺度工作场景下的应用需求，探讨了存在的问题及解决途径，并对研究趋势进行了展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 SLAM数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SLAM技术可表述为在未知环境中，移动机器人利用搭载传感器获得的环境特征信息增量式构建环境地图，同时实现自身位姿的精确估计，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在图1中，机器人 $N$ 个时刻的位姿 $\\ b X _ { 1 } , \\cdots , \\ b X _ { n }$ 构成自身运动轨迹， $y _ { 1 } , \\cdots , y _ { l }$ 为路标。根据 $k$ 时刻的位姿 $x _ { k }$ 与在 $x _ { k }$ 对路标 $\\boldsymbol { y } _ { j }$ 的观测产生的观测数据 $Z _ { k , j }$ ，SLAM问题模型可用一个运动模型和观测模型表示",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { x _ { k } = f ( x _ { k - 1 } , U _ { k } , W _ { k } ) } \\\\ { Z _ { k , j } = h ( y _ { j } , X _ { k } , \\pmb { \\mathscr { E } } _ { k , j } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U _ { k }$ 为运动传感器输入， $\\boldsymbol { w _ { k } }$ 为状态噪声， $\\boldsymbol { \\varepsilon } _ { \\scriptscriptstyle k }$ 为观测噪声。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据SLAM数学模型，可将SLAM系统分为前端与后端两部分，如图2所示。前端一方面根据传感器数据提取环境特征，实现观测与路标、以及位姿的数据关联，另一方面为后端的非线性优化估计提供可靠初始值。数据关联是前端处理的关键，既要解决连续测量帧的特征关联，实现运动跟踪，也要负责当前测量与历史测量的关联，完成定位与构图功能。后端则在前端基础上进行位姿与路标点的推理与优化，实现全局一致性地图构建，改善定位精度估计。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bf75d7ea09865d81d1011e9843b6f15795540492f6a45cb645b0ae9ac9c4765.jpg",
+        "img_caption": [
+            "图1SLAM问题示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8ade347797eb6927ac3e60de687d89650cb60f91a48d3dd978e0a7c2352d3be.jpg",
+        "img_caption": [
+            "Fig.1Illustration of SLAM problem "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3给出了后端优化处理前后运动轨迹估计对比，采用的数据集为MITKillianCourt。图3(a)为MITKillianCourt光学照片与机器人运动路径标注。由于传感器测量误差与机器人位姿估计累积误差，机器人运动轨迹估计结果与实际标准值存在较大偏差，而后端优化则可以对估计误差进行修正，使运动轨迹估计与实际运动轨迹更为相符。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d86a25aa30818b4451784fe17c7fdb0dbddf6681a6454fdeab5c4eaf4819793b.jpg",
+        "img_caption": [
+            "Fig.2Architecture of SLAM system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2eafbbd74d292dfee329af3db38bc6398bf6d0a8e1b6f3ee668f894a9a13c31f.jpg",
+        "img_caption": [
+            "图2SLAM系统框架",
+            "(a)MITKillianCourt光学照片与机器人运动轨迹标注 (a) Optical map of MIT Killian Court with trajectory annotation ",
+            "图3后端优化处理前后运动轨迹估计对比",
+            "Fig.3Estimated trajectory with or without back-end optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于图优化的SLAM问题求解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 SLAM问题描述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在有噪声的观测数据中精确估计状态变量是 SLAM的基本问题。图优化技术将机器人轨迹与路标联合$\\pmb { X } = [ X _ { 1 } , \\cdots , X _ { n } , Y _ { 1 } , \\cdots , y _ { l } ]$ 作为待估计变量，在给定观测数据$\\boldsymbol { Z } = \\{ Z _ { k } , k = 1 , \\cdots , m \\}$ 的情况下估计 $x$ ，使得后验概率分布$\\operatorname { P } ( x | z )$ 最大。根据贝叶斯法则，求解最大后验概率等于最大化似然 $\\operatorname { P } ( z | x )$ 和先验概率 $\\mathrm { P } ( { \\boldsymbol { x } } )$ 的乘积",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { _ { M A P } } ^ { \\quad * } = \\underset { x } { \\arg \\operatorname* { m a x } } \\operatorname { P } ( x \\left| Z \\right. ) = \\underset { x } { \\arg \\operatorname* { m a x } } \\operatorname { P } ( Z \\left| \\mathbf { \\Psi } \\right. ) \\operatorname { P } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在没有先验信息的情况下， $\\mathbf { P } ( x )$ 为常数， ${ X _ { M A P } } ^ { * }$ 简化为最大似然概率估计(MaximumLikelihood Estimation,MLE)",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\chi } ^ { * } = \\arg \\operatorname* { m a x } _ { \\boldsymbol { x } } \\mathbf { P } ( \\boldsymbol { Z } | \\ : \\boldsymbol { x } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在线性高斯假设下，图优化方法与KF方法估计结果一致，但对于非线性非高斯系统，图优化技术将位姿与路标变量作为一个整体，使用所有时刻采集数据进行联合估计，克服了EKF的线性化误差与噪声高斯分布假设，成为当今研究的主流。在计算资源允许的条件下，图优化方法也成为优选方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设观测数据 $z$ 是独立的，最大后验概率的估计可分解为各次观测最大似然的乘积",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { { \\chi _ { _ { M A P } } } ^ { * } = \\underset { x } { \\arg \\operatorname* { m a x } } \\mathrm { P } ( x ) { \\displaystyle \\prod _ { k = 1 } ^ { m } } \\mathrm { P } ( \\boldsymbol { Z } _ { k } \\mid x ) } } \\\\ { { = \\underset { x } { \\arg \\operatorname* { m a x } } \\mathrm { P } ( x ) { \\displaystyle \\prod _ { k = 1 } ^ { m } } \\mathrm { P } ( \\boldsymbol { Z } _ { k } \\mid \\boldsymbol { \\chi } _ { k } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $x _ { k } \\subseteq x$ 。假设传感器受高斯白噪声影响，观测值服从高斯分布，协方差矩阵为 $\\textstyle \\sum _ { k }$ ，则最大测量似然可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { P } ( Z _ { k } \\mid \\boldsymbol { x } _ { k } ) \\propto \\exp \\left( - \\frac { 1 } { 2 } \\big \\| h _ { k } ( \\boldsymbol { x } _ { k } ) - Z _ { k } \\big \\| _ { \\Sigma _ { k } ^ { - 1 } } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将式(5)代入式(4)，根据最大化后验概率等于最小化负对数似然函数，最大后验概率的估计可进一步显示的表述为求解机器人位姿与路标的联合估计，使得估计结果与观测的误差平方函数最小",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle x ^ { * } = \\arg \\operatorname* { m a x } _ { x } - \\log \\left( \\mathrm { P } ( x ) \\prod _ { k = 1 } ^ { m } \\mathrm { P } ( Z _ { k } \\mid x _ { k } ) \\right) } } \\\\ { { \\displaystyle ~ = \\arg \\operatorname* { m i n } _ { x } \\sum _ { k = 0 } ^ { m } \\frac { 1 } { 2 } \\big \\| h _ { k } ( x _ { k } ) - Z _ { k } \\big \\| _ { \\Omega _ { k } } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $h _ { k } ( \\bullet )$ 是抽象的非线性函数，可用以表示惯性传感器、编码器、GPS、相机等数学模型。当噪声不满足标准正态分布时，式(6)中的度量误差 $l _ { 2 }$ 可用 $l _ { \\mathrm { 1 } }$ 等其他范数取代，为增加系统的稳健型，减少对外点的敏感度，也可用Huber、Tukey 等损失函数代替 $l _ { 2 }$ 范数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为方便表述，令 ${ \\pmb e } _ { k } ( { \\pmb x } ) \\equiv h _ { k } ( { \\pmb x } _ { k } ) - Z _ { k }$ ， $\\pmb { \\theta } = \\left[ \\pmb { e } _ { 1 } ^ { \\mathrm { T } } , \\cdots , \\pmb { e } _ { m } ^ { \\mathrm { T } } \\right] ^ { \\mathrm { T } }$ 表示$m$ 维误差向量， $\\Omega \\equiv d i a g \\left( \\Omega _ { 1 } ^ { \\mathrm { scriptscriptstyle T } } , \\cdots , \\Omega _ { m } ^ { \\mathrm { \\scriptscriptstyle T } } \\right) ^ { \\mathrm { \\scriptscriptstyle T } }$ 为误差权重矩阵,$\\begin{array} { r } { \\varOmega = \\sum _ { k } ^ { - 1 } } \\end{array}$ ，式(6)可用矩阵的形式表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } ^ { * } = \\arg \\operatorname* { m i n } _ { \\boldsymbol { x } } e ^ { \\mathrm { { r } } } \\boldsymbol { \\Omega } e\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于式(6)所表示的非线性最小二乘优化问题，一般可采用迭代线性化方式求解。在给定初值 $x _ { \\mathrm { { 0 } } }$ 时，对误差函数 $\\pmb { \\theta } ( \\pmb { X } )$ 在 $x _ { \\mathrm { { \\scriptscriptstyle 0 } } }$ 附近进行一阶泰勒展开，求关于 $X _ { 0 }$ 增量 $\\delta x$ 的导数并使其等于零，得到增量方程",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH \\delta x = g\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { g } = - \\mathbf { J } ( \\pmb { \\chi } ) ^ { \\mathrm { T } } \\boldsymbol { e } ( \\pmb { \\chi } )$ 为系统信息向量， $\\ b { H } = \\ b { \\mathrm { J } } ( \\ b { X } ) ^ { \\mathrm { T } } \\ b { \\mathrm { J } } ( \\ b { X } )$ 为Hessian矩阵， $\\operatorname { J } ( X ) = \\hat { \\cal { O } } \\pmb { \\theta } / \\hat { \\cal { O } } X$ 为雅可比矩阵。进而，可求得系统的解为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } ^ { * } = \\boldsymbol { X } _ { 0 } + \\boldsymbol { \\delta x }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gauss-Newton 法对上述过程进行迭代求解直到收敛，可获得参量的最优估计。为避免 $\\delta x$ 过大导致的近似误差增加，Levenberg-Marquardt 算法通过对 $\\delta x$ 添加置信域，引入松弛因子 $\\lambda$ 有效改善了 $\\delta x$ 求解的稳定性：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\boldsymbol { H } + \\lambda \\boldsymbol { I } ) \\delta \\boldsymbol { x } = \\boldsymbol { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2算法本质分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SLAM问题中的位姿估计由平移和旋转估计两部分构成。其中，旋转计算的非线性决定了SLAM本质是非线性优化问题。此外，非高斯噪声、变量维数巨大，以及静态场景假设往往得不到满足等多种因素的存在，SLAM优化问题的目标函数(7)异常复杂，位姿与路标的估计极易陷入局部极小，而位姿与路标的错误估计将使得机器人定位产生漂移，无法获得全局一致的运动轨迹估计与地图构建，从而难以满足导航、环境重建等应用需要。图4给出了球体和圆环全局优化估计与估计陷入局部极小时的仿真对比。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b748ae4119808421f822dcb16ef6363d0eec420752ad39521b45d6e0833c22c.jpg",
+        "img_caption": [
+            "图4全局优化估计与局部优化估计仿真对比",
+            "Fig.4Trajectory estimates resulting from global optimum and convergence to "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "local minima ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[14]利用视觉里程计与3D激光里程计的组合获取用于优化估计的初始值，在KITTI数据集上测试，平移计算精度达到 $0 . 6 8 \\%$ ，旋转误差达到 $0 . 0 0 1 6 \\mathrm { d e g } { \\cdot } m ^ { - 1 }$ 。通过对观测特征点的筛选与跟踪，应用多帧图像特征点绝对差异求和、归一化互相关技术，抑制外点对优化估计结果的影响，单一视觉SLAM在 KITTI 数据集上的平移计算精度可达 $1 \\%$ ，旋转误差低于$0 . 0 0 3 \\mathrm { d e g } { \\cdot } m ^ { - 1 }$ [15-17]，仍难以满足汽车自动导航等大尺度环境应用需求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "迭代求解的收敛性问题引发了人们从理论层次上对SLAM问题的深入研究，从而推动了算法研究的进展。Huang等人最早对SLAM问题的非凸性进行了研究，并对小尺度位姿图优化进行了探讨[18-20]。Knuth 等人研究了无环路闭合情况下状态估计误差的增长[21]。Carlone 等人对迭代求解的收敛性问题进行了持续研究，首先给出了Gauss-Newton 法的收敛域的估计方法，并证明了2D场景下旋转估计的封闭性与唯一性，然后又提出根据 SLAM问题的强对偶性，最大似然估计是唯一的，采用半正定规划(semidefiniteprogramming，SDP)可得到位姿图的全局最优解[22-25]。Liu 等人采用凸松弛法避免求解陷入局部极小[26]。根据SLAM问题非线性主要来源于旋转计算的非线性，Carlone等人先进行旋转估计，利用估计结果加速非线性迭代求解效果[27]。近期，为制定有效的安全紧要场景下的系统故障检测与失效恢复策略，Carlone等人利用SLAM的Lagrangian对偶性，针对位姿估计结果的评估与验证，提出了有效的解决方案[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3SLAM问题的求解",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SLAM待估计变量包含了所有机器人位姿与观测路标点。对于视觉SLAM，路标点的数目远大于位姿数， $\\delta x$ 维数达到数千维，使得增量方程规模巨大。根据传感器的视野有限，可观测路标独立且有限这一事实，SLAM问题具有良好的稀疏性，并可以用因子图直观表示，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd84f70d24e7c8fa3866fa1cff6474d4380dcdf8a1ffd1dd36b78c9e3eec19fa.jpg",
+        "img_caption": [
+            "图5SLAM因子图示意图",
+            "图6雅可比矩阵与Hessian 矩阵的稀疏性 Fig.6Sparsity of the Jacobian and Hessian matrix "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因子图是一种二维无向图，用多个因子的概率分布的乘积估计联合概率分布[29]。SLAM因子图由若干个节点与连接节点的边构成，圆形节点表示待优化状态变量，对应于机器人及系统在不同时刻的状态，矩形节点表示对路标的观测与控制输入，边描述了相邻位姿变换关系或对路标的观测误差。由于 $i$ 时刻位姿对 $j$ 路标的观测产生的误差项与其他时刻位姿与路标无关，雅可比矩阵 $\\mathbf { J } ( x )$ 中仅 ${ \\hat { o } } { { e } _ { i , j } } \\mathrm { ~ / ~ } { { \\hat { o } } } { { X } _ { i } }$ 与 ${ \\hat { o } } e _ { i , j } / { \\hat { o } } y _ { j }$ 项不为零：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f0c3017b902c33be3b49a48b7cd85a5c9ca5527dc0b21fea5b9bdc03a04d194.jpg",
+        "img_caption": [
+            "Fig.5SLAMasa factory graph "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { i j } = \\left( 0 \\cdots 0 \\frac { \\partial e _ { i , j } } { \\partial x _ { i } } 0 \\cdots 0 \\frac { \\partial e _ { i , j } } { \\partial y _ { j } } 0 \\cdots 0 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与图4对应的雅可比矩阵为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { \\mathrm { J } } ( \\boldsymbol { x } )$ 对 $H$ 的贡献为 $J _ { i , j } ^ { \\mathrm { T } } J _ { i , j }$ ， $H$ 可表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\sum _ { i , j } J _ { i , j } ^ { \\mathrm { r } } J _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对 $H$ 进行分块表示",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\left[ \\begin{array} { l l } { H _ { 1 1 } } & { H _ { 1 2 } } \\\\ { H _ { 2 1 } } & { H _ { 2 2 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $H _ { 1 1 }$ 、 $H _ { 2 2 }$ 分别与位姿和路标有关， $\\boldsymbol { H _ { 2 1 } } = \\boldsymbol { H } _ { 1 2 } ^ { \\mathrm { T } }$ 。由于路标数远远大于位姿数，采用Schur消元法消去 $H _ { 1 2 }$ ，可得关于位姿的增量方程",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ { H } _ { { 1 } { 1 } } - { H } _ { { 1 } { 2 } } H _ { { 2 } { 2 } } ^ { - 1 } H _ { { 1 } { 2 } } ^ { \\mathrm { { r } } } ] \\delta { X } _ { { c } } = { X } _ { { c } } - { H } _ { { 1 } { 2 } } H _ { { 2 } { 2 } } ^ { - 1 } { X } _ { { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $X _ { c } = [ X _ { 1 } , ^ { . . . } , X _ { n } ] , X _ { p } = [ y _ { 1 } , ^ { . . . } , y _ { l } ]$ 。路标的增量方程为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta \\boldsymbol { x } _ { p } = H _ { 2 2 } ^ { - 1 } ( \\boldsymbol { x } _ { p } - H _ { 1 2 } ^ { \\mathrm { r } } \\delta \\boldsymbol { x } _ { c } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "J(x)   \n0 H 米米 0   \n2 米米 米米米米 東米米 2 米米米米   \n4 米米 米米米米米米 米 東米 4 ．米米 米   \n6 橋米 米 米米 \\*米米 6 米米米米   \n8 米 米 米．米 米 米 8 米米 米   \n10 米米 0 2468 0 2468 $n z = 2 8$ nz = 20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6给出了图5所示的由4位姿与4路标构成的SLAM问题的雅可比矩阵 $\\boldsymbol { \\mathrm { J } } ( \\boldsymbol { x } )$ 与Hessian 矩阵 $H$ 的稀疏性表示。由于 $H$ 的稀疏性，且路标矩阵 $H _ { 2 2 }$ 为对角阵，位姿增量方程求解中，$H _ { 2 2 } ^ { - 1 }$ 易于求解，同时由于在实际问题求解过程中，位姿数远小于路标数 $\\mathbf { \\xi } _ { l }$ ， $\\delta { x } _ { c }$ 求解规模相对于原问题大大简化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Hessian矩阵的稀疏性，采用Schur消元与线性分解，然后计算增量方程，显著提高了SLAM问题优化求解的效率。目前，已涌现出众多因子图求解实现框架，如 $\\mathrm { g } 2 \\mathrm { o } ^ { [ 3 0 ] }$ 、TORO[31]、HOG-Man[32]、COP-SLAM[33]等，在普通PC 处理器已可实现数千维变量的实时求解，大大促进了SLAM技术从研究走向应用的进程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 图优化SLAM算法实现框架 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图优化技术为SLAM系统的性能提供了理论保证，但SLAM系统的实现还依赖路标信息感知、特征数据关联、地图表示等关键技术，并与程序的设计等工程应用问题紧密相连，本节对现有代表性的基于图优化的SLAM系统实现方案与性能指标进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1) PTAM ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PTAM的提出是视觉SLAM发展过程中的具有革新意义的事件。PTAM[34]确立了视觉SLAM的基本实现框架，提出了两大创举：1)首次采用非线性优化技术替代传统滤波技术作为SLAM后端的实现方案；2)引入关键帧机制，使对地图的优化可以整合到实时计算中。在方案实现时，设计2个独立的线程分别实现相机位姿的跟踪与地图的构建。位姿跟踪线程实时响应图像数据，地图构建线程专注于地图的建立、维护和更新。由于仅需维护视频关键帧与关键帧稳定观测的地标点，使得目标函数的优化得以高效求解。但是，当地图构建或优化过慢易导致跟踪线程产生跟踪丢失。Pire等采用立体相机对PTAM技术进行改进，将立体约束用于路标特征的初始化、跟踪与构图，在系统中增加了实时环路检测与修正模块，并采用局部并行光束平差技术(BA)优化局部地图，实现了实时求解，同时位姿估计精度也得到了提升[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2) ORB-SLAM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ORB-SLAM继承了PTAM的后端非线性优化实现方案与关键帧处理机制，支持单目、双目、RGB-D三种视频输入模式，是现代 SLAM 系统中最为完善、易用的系统之一[36.37]。采用ORB 特征实现目标特征匹配与跟踪，在普通CPU上实现实时计算的同时又兼具良好的旋转与缩放不变性。ORB特征描述子的实时提取与离线构建的ORB字典的运用，使大尺度运动时的回环检测与目标重定位成为可能。ORB-SLAM代码实现采用三线程：实时特征跟踪线程根据关键帧匹配路标ORB特征描述子，粗略计算路标位置与相机位姿；局部BA线程维护局部共视图，求解精细的路标位置与相机位姿；全局环路检测与优化线程消除状态估计累积误差，获取全局一致运动轨迹估计。相比ORB-SLAM，ORB-SLAM2增加了地图重用功能，解决地图构建模块失效时的定位漂移问题，定位精度与大尺度范围工作时的稳健型也得以提高[38]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)LSD-SLAM: ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LSD-SLAM采用直接法，根据像素的梯度信息估计相机运动与构建半稠密地图，避免了关键点的提取与描述子的计算[39]。利用极线上等距离5个点的SSD度量保证跟踪的稳定性；在深度估计时，采用随机数初始化深度，在估计完成后进行深度均值归一化，调整尺度；在度量深度不确定性时，将几何关系与极线、深度夹角关系归纳成光度不确定相；在后端优化中考虑不同场景尺度，减小尺度漂移。直接法跟踪对特征缺失区域不敏感，但对相机内参和曝光非常敏感，在相机快速移动时容易丢失，此外，在环路检测时，仍依赖于特征点的计算。S-LSD-SLAM采用双目立体相机估计场景深度，解决单目相机的尺度漂移问题，利用仿射光照校正技术使得在相邻关键帧光照存在强烈差异时，光度残差近似不变[40]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7为特征地图与半稠密重建对照。半稠密地图根据灰度图中的梯度差异建模，将物体的边缘或表面纹理部分在地图中进行显示，比稀疏地图具有更多的信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4) SVO ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SVO综合使用直接法与特征法计算路标特征与实现目标跟踪。SVO用特征点周围 $4 \\mathrm { x } 4$ 图像块估计相机位姿与路标位置，既不提取描述子，也不处理稠密或半稠密信息，降低了对CPU计算能力的要求，可实现在无人机、手持AR/VR等设备上的实时应用[41,42]。SVO 的显著贡献是提出深度滤波技术并应用于路标点的位置估计。但是，由于不包含后端优化和环路检测，且不存在建图功能，SVO位姿估计存在累积误差，在跟踪丢失后难以实现重定位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e516e476691defd9a003fffc783c0f2877e5d33c13367742611f714f08e3c4c4.jpg",
+        "img_caption": [
+            "图7特征点法与半稠密重建对比",
+            "Fig.7Feature-based map vs.semi-dense reconstruction "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5) SOFT ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SOFT采用双目立体相机，通过对稳定跟踪特征的子集的精细选择减少定位漂移[43]。SOFT 在当前帧的一个小的窗口内提取Blob特征与角点特征，通过非极大值抑制技术判断特征点间的对应关系，并采用归一化互相关去除外点，确定稳定匹配特征。将运动估计分为旋转与平移两个部分，旋转估计采用5点法与RANSAC[44]，平移估计采用最小重投影误差技术，减少匹配误差。此外，还可采用IMU信息抑制外点与优化旋转估计，可在ARM平台上实现高精度位姿的实时估计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述5种算法的位姿估计精度与实时性对比如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/92404512a136df4ec62a445e783f559f4b69886ff9de346bbd7d7ad3118e7b5c.jpg",
+        "table_caption": [
+            "表1 SLAM实现方案性能对比",
+            "Table1Performance comparison of SLAM algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">实现方案</td><td colspan=\"2\">位姿估计精度</td><td rowspan=\"2\">每帧运行时间(s)</td><td rowspan=\"2\">运行环境</td></tr><tr><td>平移</td><td>旋转(deg/m)</td></tr><tr><td>S-PTAM</td><td>1.35%</td><td>0.0023</td><td>0.08</td><td>4 cores,2.2GHz, C/C++</td></tr><tr><td>ORB-SLAM2</td><td>1.15%</td><td>0.0027</td><td>0.06</td><td>2 cores,3.5GHz,C/C++</td></tr><tr><td>S-LSD-SLAM</td><td>1.20%</td><td>0.0033</td><td>0.07</td><td>1 cores,3.5GHz, C/C++</td></tr><tr><td>SVO2</td><td>0.94%</td><td>0.0021</td><td>0.2</td><td>1 cores,2.5GHz, C/C++</td></tr><tr><td>SOFT</td><td>0.88%</td><td>0.0022</td><td>0.1</td><td>2 cores,2.5GHz, C/C++</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 应用及展望 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）算法稳健型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法稳健性是视觉SLAM系统全生命周期工作需解决的首要问题。算法设计的局限性与硬件相关问题，如传感器失效、驱动器误差等，使得当前SLAM系统只能在特定环境下、特定硬件平台上达到特定的性能要求[45-48]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在众多影响视觉SLAM系统稳定工作的因素中，数据关联的计算涉及到传感器测量之间、传感器测量与地图特征之间或地图特征之间的对应关系，直接决定了SLAM问题求解的准确性与实时性。对于错误数据关联导致的算法失效可以从SLAM系统前端与后端两个方面入手加以解决。在前端，满足传感器采样速率远高于机器人运动姿态变化的情况下，特征描述子法与光流法[49]均可以有效的实现关键帧观测路标的准确跟踪。为降低累积估计误差，需将当前观测数据与历史观测数据实时关联，实现环路检测。词袋法[5]是目前最为有效的实现环路检测技术之一，可显著增强变量估计的一致性。其基本思想是从图像中提取的局部特征进行聚类，将连续变化特征量化为离散的单词，然后采用词的统计直方图对场景进行描述。在算法实现上则通过应用分层词汇树提高大规模数据集中的特征检索效率，实现大尺度环境实时环路检测[51,52]。但对于存在强烈光照变化的场景，视觉字的准确匹配难以实现[53]。将不同视觉外观纳入统一表征框架[54]，或者采用路标视觉外观信息与空间位置关系融合[55]，降低光照变化对场景识别的影响，增强环路检测的稳健性，是最近研究的热点问题。文献[5对视觉场景识别方法进行了详细的归纳与总结。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管前端的环路检测技术取得了长足进步，但视觉混叠导致的环路检测错误对后端估计失效的影响仍难以避免，增强后端算法对虚假数据关联的抵御能力显得至关重要。常用的解决途径包括：1)利用先验证知识，检测错误的闭合环路，在进行优化计算之前抑制外点的影响；2)根据优化估计残差验证环路检测的正确性[57-61]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于图优化的SLAM问题的本质是求解非线性、非凸优化问题，算法求解器对于初始值非常敏感，且极易陷入局部极小点，导致估计结果存在巨大偏差。理想的SLAM系统应能实时评估算法估计结果，并具有从算法失效状态实现自我恢复的能力。紧密整合SLAM前端与后端，是提高SLAM算法稳健性的有效解决途径，但相关研究工作还有待进一步展开。此外，利用视觉、IMU、GNSS、3D激光探测器构建定制地图，并实现在已有地图中的重定位技术，增强SLAM技术在特定场景的应用，如自动驾驶等，也是当前 SLAM技术研究的热点问题之一[62]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）可扩展性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可扩展性是SLAM系统实现长时间、大尺度应用，如自动驾驶、海底环境检测、大规模精准农业等，需解决的另一个重要问题。随着工作时间的延长与探索范围的拓展，SLAM位姿图规模将无限增加而线性迭代求解对存储资源的需求与待估计变量的数量成正比，导致系统不可实现[63]。降低因子图优化的复杂度，使得问题求解对计算与存储资源的需求保持恒定，主要途径是稀疏化方法与子图处理技术。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于Markov 毯理论，通过边与节点的边缘化可获得因子图的稀疏逼近。LIa等采用信息论方法控制因子图中节点与边增添，仅增加非冗余节点与信息量含量高的边[64]。Jonhannsson等通过对已有节点引入新的约束尽量避免新的节点的添加，使得因子图的扩展只与机器人探索区域有关，而与工作时间无关[65]。Kretzschmar 等针对位姿图优化问题，研究了基于信息论的节点与边的边缘化准则[6]。Carlevaris与 Mazuran 等介绍了广义线性约束因子与相应的非线性图稀疏化方法[67,68]。实现因子图稀疏化的另一个途径是通过对连续时间运动轨迹的估计减少待估计参数，如利用三次样条曲线、B样条曲线等，采用滑动窗口或批处理模式表示机器人运动路径[69-71]。Chi 等用高斯过程表示取代基本样条曲线表示法，稀疏化因子图中的节点是真实的机器人位姿，其他位姿可通过计算给定时间的后验均值的插值获得[72]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "子图处理技术将因子图分解为多个子图，利用多个处理器分布式计算局部因子图优化进而实现全局因子图的优化[73]。$\\mathrm { N i ^ { [ 7 4 ] } }$ 等提出基于二进制树结构的子图构建与组织方法，Grisett[75]对子图进行等级划分，新的观测仅更新最高等级与低等级受影响区域。将大尺度场景分解成多个小的区域，利用多个机器人分别进行构图为子图处理技术提供了另一种思路[76,77]。多机器人构图又可分为中心融合处理与分布式处理两类。中心融合处理采用中心处理单元对子图信息进行融合，而分布式处理通过机器人间相互通信保持建图信息的一致性。文献[80对多机器人构图技术进行了详细的分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，SLAM算法可扩展性研究仍集中于简化因子图优化的复杂度，对机器人大尺度环境工作涉及的其他众多问题，如语义地图构建、分布式建图的稳健性与通过构图实现环境的深度感知使机器人具有类人智能等的研究还有待进一步展开。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）深度学习 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "深度学习技术的发展引起了计算机视觉领域的一场变革。目前，利用深度学习技术解决SLAM求解问题的研究已经展开。Costante等采用表示学习方法取代视觉里程计中的几何约束，根据相邻两帧图像输入估计机器人位姿[78]。Eigen 等通过对路标点赋予语义信息，联合利用路标点的位置信息与语义信息提高数据关联的正确率，从而改进位姿与路标点位置的估计精度[79]。刘等利用深度学习网络，实现了基于单帧图像的场景深度估计[80.81]。此外，语义信息的引入为环路检测、地图表示等带来更多的条件[82.83]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过构建复杂的CNN 网络，深度学习可实现目标特征的多层次提取，进而实现环境信息的深度感知，而传统计算机视觉技术对环境的认知仍停留在像素或特征点等浅层次特征提取上，因此，作为感知工具，深度学习技术可以解决传统计算机视觉技术无法解决的问题。但是对于SLAM技术，环境感知是为定位与构图服务的，是否能用深度学习技术实现端到端的SLAM系统仍处于探索之中。此外，利用场景先验信息可以显著提升SLAM系统的性能，但将深度学习网络输出的不确定性对SLAM视觉几何处理的影响的研究还有待展开。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "未来的SLAM系统工作于开放的环境，需要对环境进行持续的探索，因此应具有全生命周期的学习能力，而深度学习的成功应用依赖于对固定目标类的大量数据与标注样本的训练，因此，改进深度学习技术的在线学习与自适应能力，应是实现具有类人智能的SLAM系统的首要解决问题之一。此外，开发轻量级的网络，满足SLAM系统的嵌入式应用需求，也为深度学习与SLAM技术的结合带来了诸多挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文回顾了SLAM技术近三十年的发展历程，详细分析了基于图优化的视觉SLAM的理论模型与算法实现，探讨了问题求解中存在的问题并给出了最新的理论研究成果。目前，SLAM理论研究已趋于完善，满足大尺度环境定位与构图的算法框架相继被提出，但针对全生命周期、大环境尺度工作应用需求，其算法的稳健性与可扩展性设计仍面临着诸多挑战。构建大尺度、全自主运行的SLAM系统，满足自动驾驶、海洋测绘、大规模精准农业等复杂场景应用是现代SLAM技术发展的目标，将传统SLAM技术与深度学习等新技术结合建立对工作环境的语义层次的深度感知，同时融合GNSS、惯性测量、激光雷达等传感技术，增强系统复杂环境下工作的稳健性，则为该目标的实现提供了有效地解决途径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Durrant W H,Bailey T. Simultaneous localization and mapping: Part I[J]. IEEE Robotics Automat Mag,2006,13 (3): 108-117.   \n[2]Smith R C,Cheeseman P.On the estimation and representations of spatial uncertainty[J].International Journal ofRobotics Research,1986,5(12):56- 68.   \n[3]何俊学，李战明．基于视觉的同时定位与地图构建方法综述[J].计算 机应用研究,2010,27(8):2839-2843.(He Junxue,Li Zhanming.Survey of vision-based approach to simultaneous localization and mapping[J]. Application Research of Computers,2010,27(8): 2839-2843.)   \n[4]Thrun S,Liu Yufeng, Koller D,et al. Simultaneous localization and mapping with sparse extended information filters [J]. International Journal of Robotics Research,2003,23 (8): 693-716.   \n[5]Holmes SA,Klein G,Murray D W.An O(N²) square root unscented kalman filter for visual simultaneous localization and mapping [J]. IEEE Trans on Pattern Analysis& Machine Intelligence,2009,31(7):1251-1263.   \n[6]Doucet A,Freitas ND,Murphy K,et al.Rao-blackwellised particle filtering for dynamic Bayesian networks [C]// Proc of the 16th Conference on Uncertainty in Artificial Intelligence.20oo:176-183.   \n[7]Montemerlo M,Thrun S,koller D,et al.Fast SLAM: a factored solution to the simultaneous localization and mapping problem [C]// Proc of AAAI National Conference on Artificial Intelligence.20o2: 593-598.   \n[8]Paz L M,Jensfelt P, Tardos JD,et al. EKF SLAM updates in O (n) with divide and conquer SLAM[C]//Proc of IEEE International Conference on Robotics and Automation. 2007: 1657-1663.   \n[9]Gamini D，Huang Shoudong，Wang Zhan,et al.A review of recent +0.   \n[10]Persson M,Piccini T,FelsbergM,et al.Robust stereo visual odometry from monocular techniques [Cl// Proc of Intelligent Vehicles Symposium. 2015: 686-691.   \n[11] Liu Haomin， Zhang Guofeng，Bao Hujun.A survey of monocular simultaneous localization and mapping [J]. Journal of Computer-Aided Design & Computer Graphics,2016,28(6):854-871.   \n[12] Cadena C,Carlone L,Carrillo H,et al. Past,present，and future of simultaneous localization and mapping: Toward the Robust-Perception Age [J]. IEEE Trans on Robotics,2016,32(6):1309-1332.   \n[13] Cuillaume B,Zayed A,Li Yu,et al. Simultaneous locationlization and mapping: a survey of current trends in autonomous driving [J]. IEEE Trans on Intelligent Vehicles,2017,2(3): 194-230.   \n[14] Zhang Ji, Singh S.Visual-lidar odometry and mapping: low-drift,robust, and fast [C]//Proc of IEEE International Conference on Robotics and Automation. 2015: 2174-2181.   \n[15] Buczko M,Willert V.How to distinguish inliers from outliers in visual odometry for high-speed automotive applications [Cl//Proc of Intelligent Vehicles Symposium. 2016: 478-483.   \n[16] Persson M,Piccini T,Felsberg M,etal. Robust stereo visual odometry from monocular techniques [Cl//Proc of Intelligent Vehicles Symposium.2015: 686-691.   \n[17] Cvisic I, Petrovic I. Stereo odometry based on careful feature selection and tracking [Cl//Proc of European Conference on Mobile Robots.2015: 1-6.   \n[18] Huang Shoudong,Lai Yu,Frese U,et al. How faris SLAM from a linear least squares problem?[C]// Proc of IEEE International Conference on Intelligent Robots and Systems.2010: 3011-3016.   \n[19] Huang Shoudong,Wang Heng,Frese U,et al.On the number of local minima to the point feature based SLAM problem[C]// Proc of IEEE International Conference on Robotics and Automation.2012: 2074-2079.   \n[20] Huang Shoudong,Dissanayake G.A critique of current developments in simultaneous localization and mapping[J]. International Journal of Robotics Research,2016,13 (5): 1-13.   \n[21]KnuthJ,BarooahP.Error growth inposition estimation from noisy relative pose measurements [J]. Robotics & Autonomous Systems,2013,61 (3): 229-244.   \n[22]梁明杰，闵华清，罗荣华．基于图优化的同时定位与地图创建综述[J] 机器人,2013,35(4): 500-512.(Liang Mingjie,Min Huaqing,Luo Ronghua. Graph-based SLAM: A Survey[J].Robot,2013,35 (4): 500-512.)   \n[23] Carlone L,Censi A.From angular manifolds to the integer lattice: guaranteed orientation estimation with application to posegraph optimization [J].IEEE Trans on Robotics,2014,30(2): 475-492.   \n[24] Carlone L,Rosen DM,Calafiore G,et al. Lagrangian duality in 3D SLAM: Verification techniquesand optimal solutions [C]// Proc of IEEE International Conferenceon Intellgent Robots and Systems.2015:125-132.   \n[25] Carlone L，CalafioreG C,Tommolillo C，etal.Planar pose graph optimization: duality,optimal solutions,and verification [J].IEEE Trans on Robotics,2016,32 (3): 545-565.   \n[26] Liu Mingjie,Huang Shoudong,Dissanayake G,et al.Aconvex optimization based approach for pose SLAM problems [C]//Proc of IEEE International Conference on Intellgent Robots and Systems.2012:1898-1903.   \n[27] Carlone L,Aragues R,Castellanos JA，et al.A fast and accurate approximation for planar pose graph optimization [J]. International Journal of Robotics Research,2014,33(7): 965-987.   \n[28] Carlone L,Tron R,Daniilidis K,et al. Initialization techniques for 3D SLAM:A survey on rotation estimation and itsuse in pose graph optimization[C]//Proc of IEEE International Conference on Robotics and Automation. 2015: 4597-4604.   \n[29] KschischangF,Frey B,Loeliger H.A.Factor graphsand the sum-product algorithm [J].IEEE Trans on Information Theory,2001,47(2): 498-519.   \n[30] Kummerle R,Griseti G,Strasdat H,etal.G2o:A general framework for graph optimization [C]/ Proc of IEEE International Conference on Robotics and Automation. 2011: 3607-3613.   \n[31] Griseti G,Grzonka S,Stachniss C,etal.Efficient estimationof accurate maximum likelihood maps in3D[C]//Proc of IEEE International Conference on Intellgent Robots and Systems.2007: 3472-3478.   \n[32] Griseti G,Kummerle R,Stachniss C,et al. Hierarchical optimization on manifolds for online 2D and 3D mapping [C]//Proc of IEEE International Conference on Robotics and Automation. 2010: 27-278.   \n[33] Dubbelman G,Browning B.Closed-form Online Pose-chain SLAM[C]/ Proc of IEEE International Conference on Robotics and Automation. 2013: 5190-5197.   \n[34] Klein G,Murray D.Parallel Tracking and Mapping for Small AR Workspaces [C]// Proc ofIEEE and ACM International Symposium on Mixed and AugmentedReality.2007:1-10.   \n[35] Pire T,Fischer T,Civera J,et al. Stereo parallel tracking and mapping for robot localization[C]//Proc ofIEEE InternationalConference on Intelligent Robotsand Systems.2015:1373-1378.   \n[36] Mur-ArtalR, MontielJM,Tardos JD. ORB-SLAM: a versatile and accurate monocular SLAMsystem [J]. IEEE Trans on Robotics,2015,31(5): 1147- 1163.   \n[37]Mur-ArtalR,Tardos JD.Fast relocalizationand loop closing in keyframebased SLAM[C]/ Proc of IEEE International Conference on Robotics and Automation. IEEE Computer Society Press,2014: 846-853.   \n[38] Mur-Artal R, Tardós JD. ORB-SLAM2: an open-source slam system for monocular, stereo,and RGB-D cameras [J]. IEEE Trans on Robotics,2016, 33 (5): 1255-1262.   \n[39] Engel J, Schops T, Cremers D. LSD-SLAM: Large-Scale direct monocular SLAM [C]/ Proc of the 13th European Conference on Computer Vision. 2014: 834-849. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[40] Engel J,Stuickler J,Cremers D.Large-scale direct SLAM with stereo cameras [C]//Proc of IEEE International Conference on Intelligent Robots and Systems. 2015: 1935-1942. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[41] Forster C,Pizzoli M, Scaramuzza D.SVO: fast semi-direct monocular visual odometry [C]//Proc of IEEE International Conference on Robotics and Automation.2014:15-22.   \n[42] Cvisic I,Petrovic I. Stereo odometry based on careful feature selection and tracking [Cl//Proc of European Conference on Mobile Robots.2015: 1-6.   \n[43]Fischler MA,Bolles RC.Random sample consensus: a paradigm for model fiting with appications to image analysis and automatedcartography[J]. Readings in Computer Vision,1987,24(6): 726-740.   \n[44] 杨海燕，罗文超，刘国栋．基于 SURF 算法和SC-RANSAC 算法的图像 配准[J].计算机应用研究，30(5):1586-1588.(Yang Haiyan,Luo Wenchao,Liu Guodong.Image registration based on SURF algorithm and SC-RANSACalgorithm[J],Application Research of Computers,30 (5): 1586-1588. )   \n[45] Frese U. Interview: is SLAMsolved?[J]. Kuinstliche Intelligenz,2010,24 (3): 255-257.   \n[46] Ackeerman E.Dyson's robot vacuum has 360-degree camera,tank treads, cyclonesuction [EB/OL]. (2014-09-04）. https:/spectrum.ieee. org/automaton/robotics/home-robots/dyson-the-360-eye-robot-vacuum   \n[47] Jonathan H. New experimental features for Daydream.[EB/OL]. (2018-09- 21），htps://developers.googleblog.com/2018/09/new-experimentalfeatures-for-daydream. html.   \n[48] Kuka.KUKA automates laser system for automotive supplier Proseat [EB/OL].(2017-09).htps://www. kuka.com/en-de/industries/solutionsdatabase/2017/09/solution-systems-proseat.   \n[49] ScaramuzzaD,FraundorferF.Visual Odometry: Part I:The first 3O years and fundamentals [J].IEEERobotics &Automation Magazine,2011,18 (4): 80-92.   \n[50] Galvez-Lopez D,Tardos JD.Bags ofbinary words for fast place recognition in image sequences [J]. IEEE Trans on Robotics,2012,28 (5):1188-1197.   \n[51] Nister D,Stewenius H. Scalable recognition with a Vocabulary tree [C]// Proc ofIEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2006: 2161-2168.   \n[52] Curless B,Levoy M.A volumetric method for building complex models from range images [Cl//Proc of Conference on Computer Graphics and Interactive Techniques.New York: ACMPress,1996:303-312.   \n[53]曾文静，张铁栋，姜大鹏.SLAM数据关联方法的比较分析[J].系统工 程与电子技术，2010,32 (4):860-864.(Zeng Wenjing,Zhang Tiedong, Jiang Daou.Analysis of data association methods of SLAM[J].Systems Enginering and Electronics,2010,32(4):860-864.)   \n[54] Churchill W,Newman P.Experience-basednavigation for long-term localisation [J].International Journal of Robotics Research,2O13,32(14): 1645-1661.   \n[55]Ho KL,Newman P.Loop closure detection in SLAMby combining visual and spatial appearance [J].Robotics & Autonomous Systems,206,54 (9): 740-749.   \n[56]Lowry S,Sunderhauf N,Newman P,et al.Visual place recognition: A Survey[J].IEEE Trans onRobotics,2016,32(1): 1-19.   \n[57] Sabatta D,Scaramuzza D,Siegwart R. Improved appearance-based matching in similar and dynamic environments using a Vocabulary tree [J]. 2010, 58 (8): 1008-1013.   \n[58] Sunderhauf N,Protzel P.Towardsa robust back-end for pose graph SLAM [C]//Proc of IEEE International Conference on Robotics and Automation 2012: 1254-1261.   \n[59] Latif Y, Cadena C,Neira J.Robust loop closing over time for pose graph SLAM[J]. International Journal ofRobotics Research,2013,32 (14): 1611- 1626.   \n[60] Olson E,Agarwal P. Inference on networks of mixtures for robust robot mapping[J]. International Journal of Robotics Research,2013,32(7): 826- 840.   \n[61] Carlone L,Censi A,Dellaert F. Selecting good measurements vial1, relaxation: Aconvex approach for robust estimation over graphs [C]// Proc of IEEE International Conference on Intellgent Robots and Systems.2014: 2667-2674.   \n[62] Wolcott R W,Eustice R M. Visual localization within LIDAR maps for automated urban driving [C]//Proc of IEEE International Conference on Intelligent Robots and Systems. 2014: 176-183.   \n[63] DellaertF,CarlsonJ，Ila V,etal.Subgraph-preconditionedconjugate gradients for large scale SLAM[Cl//Proc of IEEE International Conference on Intelligent Robots and Systems.2010: 2566-2571.   \n[64] Ila V, Porta JM,Andrade-Cetto J. Information-based compact pose SLAM [J]. IEEE Trans on Robotics,2010,26(1): 78-93.   \n[65] Johannsson H, Kaess M,Fallon M,et al. Temporally scalable visual SLA using a reduced pose graph [Cl//Proc of IEEE International Conference on Robotics and Automation. 2012: 54-61.   \n[66] Kretzschmar H, Stachniss C,Grisetti G.Efficient information-theoretic graph pruning for graph-based SLAM with laserrange finders [C]/ Proc of IEEE International Conference on Intelligent Robots and Systems.2011: 865-871.   \n[67] Carlevaris-Bianco N,Eustice RM.Eneric factor-based node marginalization and edge sparsification for pose-graph SLAM [C]// Proc of IEEE International Conference on Robotics and Automation.2013:5748-5755   \n[68] Mazuran M,Burgard W,Tipaldi G D.Nonlinear factor recovery for longterm SLAM[J].International Journal of Robotics Research,2016,35(1): 50-72.   \n[69] Bibby C,Reid I. A hybrid SLAM representation for dynamic marine environments [Cl/ Proc of IEEE International Conference on Robotics and Automation. 2010: 257-264.   \n[70] Furgale P,Barfoot TD, Sibley G. Continuous-time batch estimation using temporal basis functions [Cl// Proc of IEEE International Conference on Robotics and Automation.2012: 2088-2095.   \n[71] Raguram R, Chum O, Pollefeys M,et al. USAC: auniversal framework for random sample consensus [J].IEEE Trans on Pattern Analysis & Machine Intelligence,2013,35 (8): 202-2038.   \n[72] Tong Chihay,Furgale P,Barfoot TD. Gaussian process gauss-newton for non-parametric simultaneous localization and mapping [J]. International Journal ofRobotics Research,2013,32(5): 507-525.   \n[73] Bosse M, Newman PM,Leonard JJ,et al. Smultaneous localization and map building in large-scale cyclic environments using the atlas framework [J]. Intermational Journal ofRobotics Research,2004,23 (23):113-1139.   \n[74] Ni Kai,DellertF.Multi-level submap based SLAMusing nested dissection [Cl// Proc of IEEE International Conference on Inteligent Robotsand Systems.2010:2558-2565.   \n[75] Griseti G,Kummerle R,Stachniss C,et al. Hierarchical optimizationon manifolds for online 2D and 3D mapping [C]// Proc of IEEE International Conference on Robotics and Automation. 2010: 273-278.   \n[76] Dong Jing,Nelson E,Indelman V,et al. Distributed real-time cooperative localization and mappingusingan uncertainty-aware expectation maximization approach [C]// Proc of IEEE International Conference on Robotics and Automation. 2015: 5807-5814.   \n[77] Riazuelo L,Civera J, Montiel JM M.C 2 TAM: a cloud framework for cooperative tracking and mapping [J]. Robotics & Autonomous Systems, 2014, 62 (4): 401-413.   \n[78] Costante G,Mancini M, Valigi P, et al. Exploring representation learning with cnns for frame-to-frame ego-motion estimation [J].IEEE Robotics & AutomationLetters,2015,1(1): 18-25.   \n[79] Eigen D,Fergus R.Predicting Depth,Surface normals and semantic labels with a common multi-scale convolutional architecture [Cl//Proc of IEEE International Conference on Computer Vision. 2016: 2650-2658.   \n[80] Liu Fayao, Shen Chunha,Lin Guosheng.Deep convolutional neural fields fordepth estimation froma single image[C]//Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition.2015: 07- 12.   \n[81] Cadena C,Dick A,ReidID.Multi-modal auto-encoders as joint estimators for robotics scene understanding[C]//Robotics: Science and Systems.2016 78-83.   \n[82] Bao S Y,Bagra M, Chao Yuwei, et al. Semantic structure from motion with points,regions,and objects [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2012: 2703-2710.   \n[83]Dame A,Prisacariu VA,Ren Carl Y,et al. Dense reconstruction using 3D object shape priors [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition,2013:1288-1295. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

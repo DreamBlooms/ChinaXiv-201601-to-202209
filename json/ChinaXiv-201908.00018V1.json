@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "陕西省霾天气变化特征及气候成因分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡琳，张侠，苏静，王琦，胡淑兰1(1陕西省气候中心,陕西西安710014；2 陕西省大气探测中心,陕西西安710014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过对比选用14 时实测值法利用1981—2016年全省96站14 时相对湿度和能见度数据重建全省历史霾数据序列，分析区域内霾天气的特征及相关气象要素的特征，并探讨大范围持续霾天气过程对应的环流形势,研究霾天气过程的成因。结果表明：关中地区是我省霾天气的高发区，其次是陕南的汉中盆地，陕北出现最少。全省霾日数总体呈较明显的上升趋势,2000年后增加显著。从季节变化来看全省及各区域均为冬季霾日数最多，秋季次之，夏季霾日数最少。各区域均在 $5 \\sim$ $8 ~ \\mathrm { k m }$ 能见度 $6 0 \\% \\sim 7 0 \\%$ 相对湿度、静小风时易出现霾天气，西安及关中全年和四季在偏东北风向时霾天气频率较大。冬季地面风速小，相对湿度较大，近地面风场辐合及逆温层的存在，造成关中大气垂直扩散能力较弱，大气污染物发生堆积、累积效应易形成关中地区持续霾天气及严重大气污染。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：陕西省；霾；重建；14 时实测值法；气候特征；气象要素文章编号： 1000 -6060(2019)04-0707 -08(0707\\~0714)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济的迅速发展和城市化的加快，城市的大气气溶胶污染日趋严重，灰霾事件在我国大城市频发[1-4],2010 年以来,在陕西尤其是关中地区多次监测到严重区域大气污染和霾天气现象[5],霾天气可能会导致严重的人类健康问题[6-7],霾天气已成为一种新的环境灾害性天气现象，引起世界各国学者的广泛关注。近年来，我国学者已经对很多大城市霾天气的气候特征等方面进行了深入的研究。珠三角城市群率先开展了区域霾天气研究,吴兑等[8]人研究霾形成及恶化的物理、化学成因，揭示霾天气气象控制条件，高歌[9],范新强[10]和牛或文等[1]人研究了霾天气的长期变化,赵辉等[12]人在霾天气评价指标及判定标准、输送条件等方面取得很大进展，但关于陕西省区域霾的相关研究并不多见。本文利用全省气象站1981一2016年多年逐时能见度和相对湿度资料,根据吴兑等[8]人的研究结果[13],基于历史资料重建全省霾气候数据序列，研究其发生发展规律和变化特征，从时间和空间两方面分析了陕西省霾天气气候特征及气象影响因素，并结合空气污染监测资料，分析灰霾出现时能见度、相对湿度等气象要素分布特征有助于了解本省过去的环境变化，为政府决策部门保护环境、制定相关政策提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "资料与研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 区域概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陕西省位于中国内陆腹地，地理位置介于$1 0 5 ^ { \\circ } 2 9 ^ { \\prime } \\sim 1 1 1 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { E } \\mathrm { } , 3 1 ^ { \\circ } 4 2 ^ { \\prime } \\sim 3 9 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N }$ 之间，全省大部分地处我国生态环境脆弱带上，北山和秦岭把陕西分为三大自然区，陕北黄土高原、关中平原和陕南秦巴山区分别属中温带季风气候、暖温带季风气候和北亚热带季风气候，气候变化复杂，加上特殊的盆地地形环境，造成关中等地区大气大多处于稳定状态，大气垂直交换减弱，大气污染物累积效应显著，容易形成雾霾天气，尤其以冬季和春季更为明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2.1数据来源（1）气象数据：本文剔除由于台站资料缺失及部分台站搬迁造成的资料不连续数据，筛选全省96 站1981—2016年14 时相对湿度和能见度数据以及1981—2016年逐日降水量、风速资料，数据来源于陕西省气象信息中心。（2）污染物观测数据：西安市环境监测站提供的西安2013—2016年的逐日大气颗粒物质量浓度资料（ $\\mathrm { P M } _ { 1 0 }$ 和$\\mathrm { P M } _ { 2 . 5 }$ ）。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/130e4491bfdfe633b98aa43d07019eba9131c935b8e4cecfc21aeb9e6c3788b3.jpg",
+        "table_caption": [
+            "表1西安2015—2016年3种方法重建霾序列与AQI对比",
+            "Tab.1Comparsion of haze sequences reconstructed by three methods and AQI in Xi'an from 2015 to 2016（( "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1月</td><td>2月</td><td>3月</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td><td>11月</td><td>12月</td></tr><tr><td>2015—2016 年霾日(规范)</td><td>41</td><td>33</td><td>31</td><td>7</td><td>2</td><td>2</td><td>0</td><td>1</td><td>5</td><td>10</td><td>15</td><td>35</td></tr><tr><td>2015—2016 轻度以上污染日</td><td>37</td><td>23</td><td>31</td><td>14</td><td>11</td><td>14</td><td>19</td><td>11</td><td>12</td><td>24</td><td>33</td><td>49</td></tr><tr><td>2015—2016PM2.5超标日</td><td>34</td><td>14</td><td>22</td><td>7</td><td>2</td><td>1</td><td>2</td><td>2</td><td>7</td><td>18</td><td>31</td><td>48</td></tr><tr><td>小时值算法</td><td>45</td><td>44</td><td>38</td><td>22</td><td>7</td><td>6</td><td>4</td><td>10</td><td>18</td><td>21</td><td>27</td><td>43</td></tr><tr><td>日平均算法</td><td>32</td><td>23</td><td>26</td><td>6</td><td>0</td><td>2</td><td>0</td><td>1</td><td>5</td><td>9</td><td>11</td><td>33</td></tr><tr><td>14时算法</td><td>32</td><td>15</td><td>21</td><td>4</td><td>0</td><td>1</td><td>3</td><td>4</td><td>12</td><td>16</td><td>22</td><td>31</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2研究方法霾日的标准很多[14-17],目前有日值法、14时实测值和小时值法等3种常用的处理大量历史资料的统计方法确定霾日，本文分别采用上述3种方法建立西安2015—2016年霾序列，与根据地面气象观测业务技术规定（2016版）建立2015一2016年霾序列对比，计算表明：3种方法计算的霾日在时间分布上特征基本一致，均呈V型分布，5\\~6月最少，12月和1月为最多。对比各月日数及空气质量数据发现，14时法计算霾日AQI值及$\\mathrm { P M } _ { 2 . 5 }$ 超标日的吻合度最好，相关系数高达0.9192和0.9586，能够更好的反应霾天气的实际变化特征(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究利用全省1981—2016年多站点地面气象数据，选用14时实测值对霾日进行判别重建全省历史霾数据序列，进而分析区域内霾日的时空分布及相关气象要素的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2陕西省霾天气特征统计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1霾日数年际变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图1看出：全省1981—2016年出现霾80140站次，年均霾日数23.4d，2016年最多出现霾6573站次，平均为69.2d,2014—2016 年出现霾均超过3000站次，平均霾日数超过30d,霾日数的年代际变化非常明显，总体呈较明显的上升趋势，2000 年后增加显著。我省霾地域分布特征非常明显，关中地区是雾霾天气的高发区，1981—2016年出现霾59199站次，年均霾日数38.0d,其次是陕南的汉中盆地，1981—2016年出现霾15602站次，年均霾日数15.5d,陕北出现霾最少仅5339站次，多年平均$6 . 2 \\mathrm { ~ d ~ }$ 。可能是由于关中盆地受北边黄土高原和南面秦岭的阻挡影响，大气多处于稳定状态，高空风很难带走川道污染，汉中、安康等盆地也是如此",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2霾日数月际变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图2看出，陕西1年之中各个月份都有霾发生，全省1981—2016年各月平均霾日数成单谷型分布特征，月平均霾日数约2.0d,全省常年霾发生频次最高的月份为12月和1月，分别为4.3d和4.2d,最低的月份出现在6月和7月，6月最少，仅为0.4d,霾天气的高发期主要在11月 $\\sim$ 次年2月，占全年总霾日数的 $5 7 . 9 \\%$ 。从季节变化可以看出，冬半年霾日数明显多于半年，其中冬季霾日数最多，夏季霾日数最少。可能由于夏季降水较多，降水对污染物较好的湿清除作用，不利于霾天气的形成，而冬季逆温较多，低层大气层结稳定造成污染物堆积，易于霾的发生。2000年以来，关中霾天气出现明显的同步性和区域性，即雾霾不只是发生在城市，众多郊区也面临霾污染问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/72fe99d43b89fc10803f2441f022f47bf14427bec34f59175da00f26be04a837.jpg",
+        "img_caption": [
+            "图1陕西1981—2016年霾日数年变化曲线",
+            "Fig.1Annual variation of haze days in Shaanxi Province between 1981 and 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a38362cb9cea44eb38697e6ccee5f86c038b4c37933ec4acb071e6621f2bd765.jpg",
+        "img_caption": [
+            "图2陕西1981—2016 年霾日数月变化特征 Fig.2Monthly variation of haze days characteristic in Shaanxi Province between 1981 and 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3霾日数空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从1981—2016年全省多年平均霾日数空间分布图看出（图3），我省各区域霾的分布总体上呈关中区域性霾，陕南局地性霾和陕北突发性霾的特点。关中地区是雾霾天气的高发区，关中中、东部雾霾天气日数最多，中心在秦岭北麓，年均 $8 0 \\mathrm { ~ d ~ }$ 以上，其中长安站最多达93.8d,其次是陕南的汉中盆地,年均 $3 5 \\sim 4 0 \\mathrm { ~ d ~ }$ 。统计结果表明2000年以来，我省关中地区秋冬季雾霾天数显著增加，其中中心城市西安秋冬季雾霾天数占到全年雾霾总天数的 $70 \\%$ 以上。2000年以来，我省关中地区风速明显减弱，风速减小不利于污染物的扩散，加重了城市污染。陕西省气象局空气污染卫星遥感统计数据表明，我省关中地区存在狭长颗粒物污染带，气溶胶光学厚度的大值区位于西安市区（高污染区），并向东扩展至高陵县、临潼区和渭南市；两个次高值区分布在陕南的汉中和安康盆地，可能与工业发展阶段大气污染物的排放及地形特征有关,也可能由于城市规划建设时对大气扩散条件考虑不够，造成城市内部通风环境较差，导致空气污染和霾天气频发。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fde4f3efcba9030de2e929ae5ea88a8f71d50d37a4991891e5f9a1e980272c90.jpg",
+        "img_caption": [
+            "图3 陕西1981—2016年多年平均霾日数空间分布Fig.3Spatial distribution of average haze days in ShaanxiProvince between 1981 and 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3霾天气出现时主要气象要素的特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 能见度分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从全省及陕北、关中和陕南各区域1981年以来霾天气发生时能见度分布情况(表2)看，全省及各区域均在 $5 \\sim 8 ~ \\mathrm { k m }$ 能见度范围霾天气发生频率较大,其中全省能见度范围在 $7 \\sim 8 ~ \\mathrm { k m }$ 时霾天气发生频率最大，占霾发生总数的 $2 0 . 3 \\%$ ,此外能见度范围在 $6 \\sim 7 ~ \\mathrm { k m }$ 和 $5 \\sim 6 ~ \\mathrm { k m }$ 时，霾天气发生频率也较高,分别为 $1 6 . 4 \\%$ 和 $1 6 . 1 \\%$ 。根据魏建苏[18]等霾天气等级划分（轻度霾 $( 8 \\sim 1 0 ~ \\mathrm { k m } )$ ）、中度霾(5\\~8$\\mathrm { k m }$ ）、重度霾 $\\left( 3 \\sim 5 ~ \\mathrm { k m } \\right)$ 和严重霾( $\\cdot < 3 \\mathrm { ~ k m } )$ ），统计全省霾天气发生时能见度情况，计算出全省不同等级霾天气发生频次频率（表3），即全省及各区域均为中度霾和轻度霾发生频率最高，严重霾频率最低均不超过 $10 \\%$ ,其中全省中度霾天气发生频率为$4 3 . 7 \\%$ ,轻度霾天气发生频率为 $3 0 . 5 \\%$ ,重度霾较少约为 $1 7 . 1 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/127b32b181be163f533bd6b68fd923c762e9ea34c86f343be23d593144f5e325.jpg",
+        "table_caption": [
+            "Tab.2Frequency of haze in different visibility ranges from 1981 to 2016 in Shaanxi Provin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>能见度(V／km)</td><td>V≤1</td><td>1<V≤2</td><td>2<V≤3</td><td>3<V≤4</td><td>4<V≤5</td><td>5<V≤6</td><td>6<V≤7</td><td>7<V≤8</td><td>8<V≤9</td><td>9<V≤10</td></tr><tr><td>全省</td><td>2.3</td><td>4.6</td><td>7.0</td><td>10.0</td><td>11.2</td><td>16.1</td><td>16.4</td><td>20.3</td><td>10.4</td><td>1.8</td></tr><tr><td>关中</td><td>2.1</td><td>5.1</td><td>7.7</td><td>10.4</td><td>11.3</td><td>16.8</td><td>16.6</td><td>19.3</td><td>9.3</td><td>1.4</td></tr><tr><td>陕北</td><td>2.5</td><td>5.5</td><td>7.1</td><td>7.8</td><td>7.3</td><td>12.2</td><td>15.6</td><td>22.1</td><td>16.1</td><td>3.9</td></tr><tr><td>陕南</td><td>3.1</td><td>2.4</td><td>4.4</td><td>8.9</td><td>12.0</td><td>15.0</td><td>15.9</td><td>23.3</td><td>12.3</td><td>2.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3陕西省1981一2016年不同等级霾现象频率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0bc2fe59c9a087fe98429396460365e39e991aa108b187b90d3a5e24ab7ad1a.jpg",
+        "table_caption": [
+            "表2陕西省1981—2016年不同能见度范围霾现象发生频率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>严重霾</td><td>重度霾</td><td>中度霾</td><td>轻度霾</td></tr><tr><td>全省</td><td>8.6</td><td>17.1</td><td>43.8</td><td>30.6</td></tr><tr><td>陕北</td><td>9.8</td><td>15.1</td><td>36.2</td><td>38.8</td></tr><tr><td>关中</td><td>8.9</td><td>18.0</td><td>44.6</td><td>28.4</td></tr><tr><td>陕南</td><td>6.7</td><td>14.5</td><td>42.9</td><td>35.9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2相对湿度分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1981一2016年全省所有的霾天气统计结果显示，发生重度及严重霾时的平均相对湿度为 $5 9 \\%$ ，轻度 $4 9 \\%$ ，重度及以上霾发生时相对湿度明显偏大,高RH下，能见度降低，出现中重度雾霾频率增高。为进一步了解霾随相对湿度的变化规律，对全省81年以来相对湿度进行了统计（表4），可以看出：各区域出现霾时相对湿度有明显变化，其中陕北出现霾时平均相对湿度为 $3 3 \\%$ ,在 $10 \\% \\sim 6 0 \\%$ 霾出现频率最高；关中为 $5 0 \\%$ ，在 $4 0 \\% \\sim 8 0 \\%$ 霾出现频率最高;陕南为 $54 \\%$ 在 $5 0 \\% \\sim 9 0 \\%$ 霾出现频率最高;全省相对湿度在 $6 0 \\% \\sim 7 0 \\%$ 霾出现频率最高，约占霾次数 $20 \\%$ 左右， $30 \\% \\sim 9 0 \\%$ 霾出现频率较高，霾频率高达 $8 5 . 6 \\%$ ,相对湿度小于 $30 \\%$ 霾出现频率较低，可以看出：相对湿度较低时不利于霾发生，可能随着相对湿度的增大，颗粒物的吸光消光特性及吸湿性会明显增强，从而影响能见度降低发生霾。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3地面风向、风速特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1地面风速特征研究表明关中地区为霾多发区，计算分析关中地区西安、咸阳、渭南、宝鸡、铜川等5地市40余气象站发生霾天气时的地面风速分布情况(图4)显示，1981—2016 年关中43 站霾天气出现在风速小于 $2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 频率较大,平均出现1160次，占霾出现次数的 $8 4 . 2 \\%$ ,风速大于 $2 { \\mathrm { ~ m ~ } } \\cdot$ s-随着风速的增加，霾天气发生次数显著减少。当出现静、小风时，关中霾天气出现的频率较大，风速较大时，关中霾天气出现的频率较小。分析认为风速偏小时，大气层结稳定，湍流扩散较弱，易形成大气污染物累积和堆积，造成霾天气发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4ea484b31a268df7efc0d65c9a738a5e0bd568373e2d9f22cc15311bf9bed9f.jpg",
+        "table_caption": [
+            "Tab.3Frequency of haze in different grades haze from1981 to 2016 in Shaanxi Province ",
+            "表4陕西省1981—2016 年不同相对湿度范围霾现象发生频率",
+            "Tab.4Frequency of haze in different humidity ranges from 1981 to 2016 in Shaanxi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相对湿度／%</td><td>h≤10</td><td>10<h≤20</td><td>20<h≤30</td><td>30<h≤40</td><td>40<h≤50</td><td>50<h≤60</td><td>60<h≤70</td><td>70<h≤80</td><td>80<h≤90</td></tr><tr><td>全省</td><td>6.1</td><td>3.0</td><td>5.4</td><td>9.2</td><td>14.0</td><td>18.3</td><td>20.0</td><td>15.8</td><td>8.3</td></tr><tr><td>陕北</td><td>8.9</td><td>22.4</td><td>18.1</td><td>14.7</td><td>11.9</td><td>9.2</td><td>6.8</td><td>4.6</td><td>3.6</td></tr><tr><td>关中</td><td>6.7</td><td>1.5</td><td>4.7</td><td>9.6</td><td>15.3</td><td>19.7</td><td>20.7</td><td>14.8</td><td>7.1</td></tr><tr><td>陕南</td><td>2.9</td><td>2.7</td><td>4.2</td><td>5.8</td><td>9.4</td><td>15.7</td><td>21.3</td><td>23.4</td><td>14.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a84df1dafdf7e99bed04b57763716cbbac26b7be867b55841acb0c8f689e143a.jpg",
+        "img_caption": [
+            "图4关中1981—2016 年不同风速段霾现象发生频率Fig.4Frequency of haze in different wind speed section inGuanzhong region"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2地面风向特征研究表明局地主导风向对污染物浓度的分布情况有很大影响[19],关中年和夏季最多风向为E，冬季最多风向为WNW，静风条件下关中地区发生霾天气频率最大，其中西安全年和秋、冬季静风下发生霾所占频率最多，占霾总次数的约 $1 5 . 8 \\% \\sim 2 6 . 7 \\%$ 之间，其次全年和四季均在NE时发生霾天气较大，霾天气的发生频率为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表5关中1981—2016年不同风向霾发生频率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ca3011dd5c19b7f9e6bd2ada33e21d0c6add9436c854e79c12eaf908ade718c.jpg",
+        "table_caption": [
+            "Tab.5Frequency of haze in different wind direction in Guanzhong region "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>风向</td><td>全年</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>N</td><td>5.45</td><td>7.22</td><td>14.50</td><td>4.42</td><td>5.24</td></tr><tr><td>NNE</td><td>10.22</td><td>8.59</td><td>14.50</td><td>9.46</td><td>8.90</td></tr><tr><td>NE</td><td>16.59</td><td>14.09</td><td>20.61</td><td>17.35</td><td>13.09</td></tr><tr><td>ENE</td><td>8.53</td><td>8.59</td><td>9.16</td><td>10.73</td><td>7.33</td></tr><tr><td>E</td><td>5.68</td><td>4.81</td><td>8.40</td><td>6.62</td><td>3.14</td></tr><tr><td>ESE</td><td>1.77</td><td>1.72</td><td>4.58</td><td>2.21</td><td>0.52</td></tr><tr><td>SE</td><td>0.31</td><td>0.69</td><td>0.76</td><td>0.32</td><td>0.00</td></tr><tr><td>SSE</td><td>1.15</td><td>1.72</td><td>3.05</td><td>0.63</td><td>1.57</td></tr><tr><td>S</td><td>2.84</td><td>4.12</td><td>0.76</td><td>2.52</td><td>3.14</td></tr><tr><td>SSW</td><td>4.69</td><td>4.81</td><td>1.53</td><td>3.79</td><td>5.24</td></tr><tr><td>SW</td><td>5.30</td><td>4.12</td><td>1.53</td><td>4.73</td><td>5.76</td></tr><tr><td>WSW</td><td>4.84</td><td>8.25</td><td>5.34</td><td>3.47</td><td>3.66</td></tr><tr><td>W</td><td>6.30</td><td>8.93</td><td>3.82</td><td>5.36</td><td>5.24</td></tr><tr><td>WNW</td><td>3.76</td><td>4.81</td><td>0.76</td><td>3.47</td><td>3.66</td></tr><tr><td>NW</td><td>3.38</td><td>3.78</td><td>2.29</td><td>3.15</td><td>4.19</td></tr><tr><td>NNW</td><td>3.38</td><td>5.50</td><td>4.58</td><td>2.21</td><td>3.66</td></tr><tr><td>C</td><td>15.82</td><td>8.25</td><td>3.82</td><td>19.56</td><td>25.65</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 3 . 1 \\% \\sim 2 0 . 6 \\%$ ,可知，全年和四季霾天气多发生在偏东北风向。关中霾天气风向分布的成因主要由于秦岭，黄土高原阻挡作用，造成关中地区大气多处于稳定状态，近地层（距地面 $1 ~ 5 0 0 \\mathrm { ~ m ~ }$ 以下)盛行东风和东北风,且常年风速较小,造成污染物堆积形成霾。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，夏季东亚大陆地面吸收的太阳辐射增加，地面热低压发展，关中区域近地面大气辐散加强，对流层低层垂直上升运动明显，大气垂直扩散增强，近地面大气中水汽、尘埃等易扩散,有利于关中区域的大气污染物的扩散。同时夏季也是关中区域多雨季节，降水频次多且雨量大对大气中污染物的清除作用明显，霾日数较冬季明显减少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4典型霾天气过程分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空气污染是区域性的，如2015年12月 $1 8 \\sim 2 5$ 日关中地区出现大范围持续污染过程， $2 1 \\sim 2 3$ 日关中各市均达重度及以上污染水平，造成关中区域冬季典型大范围持续雾霾污染过程。本文以此大范围持续霾天气过程为例，采用NCEP/NCAR再分析资料 $1 ~ 0 0 0 ~ \\mathrm { { h P a } }$ 风场分析探讨气象因素对关中冬季雾霾天气过程的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2015年12月18\\~25日，受 $5 0 0 ~ \\mathrm { { h P a } }$ 及 $7 0 0 \\ \\mathrm { { h P a } }$ 两槽一脊型欧亚中高纬度环流影响关中近地面相对湿度较大，对流层底层形成较为稳定逆温层，严重抑制了污染物的垂直扩散，同时 $1 8 \\sim 2 3$ 日，$7 0 0 ~ \\mathrm { { h P a } }$ 秦岭山脉附近的偏南气流和黄土高原的东南气流，在关中地区形成了风场气旋切变，关中地区位于风场的辐合区，地面风速比较小，以 $2 \\mathrm { ~ m ~ }$ ：s-以下或静风为主,造成污染物的不断累积,关中城市出现大范围的霾天气及重度以上污染。24日开始，关中上空锋区加强，伴随地面东移南下冷空气的入侵,关中对流层低层辐散气流加强，边界层高度明显增大，关中地区近地面均为中性层结，低层空气湿度减小，同时关中地区由风场的辐合转为辐散，大气垂直扩散条件逐渐好转，持续雾霾和大气污染也随之减弱。可见，冬季大尺度环流相对稳定，关中地区地面风速较小，近地面大气在$2 \\ 0 0 0 \\sim 3 \\ 0 0 0 \\ \\mathrm { m }$ 有逆温层，混合层高度较低，近地面风场在关中地区形成风场辐合，大气水平扩散和垂直扩散能力较弱，大气污染物发生堆积，造成边界层的高度降低，形成进一步的“空气压缩”；另外受短波槽前偏南气流发展影响，关中近地面相对湿度较大，城市污染物在低气压、风小的条件下，与低层空气中的水汽相结合，继续加重雾霾程度，易形成关中地区持续霾天气及严重大气污染，只有在冷空气入侵产生有效降水时，才能打破平衡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）对比分析多种重建方法与污染物的关系，发现14时法计算霾日与AQI值及 $\\mathrm { P M } _ { 2 . 5 }$ 超标日的吻合度最好，相关系数高达0.9192和 $0 . 9 5 8 \\ : 6 \\$ O",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）利用全省1981—2016年多站点地面气象数据，选用14时实测值对霾日进行判别重建全省历史霾数据序列，能够更好的反应霾天气的实际变化特征，为环境气象评估业务提供更为合理的基础数据序列。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）从空间分布情况来看，关中地区是我省霾天气的高发区，其次是陕南的汉中盆地，陕北出现最少。全省霾日数的年代际变化非常明显，总体呈较明显的上升趋势,2000年后增加显著。从季节变化来看全省及各区域均为冬季霾日数最多，秋季次之，夏季霾日数最少，霾天气的高发期主要在11月 $\\sim$ 来年2月，占全年总霾日数的 $5 7 . 9 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）全省及各区域均为中度霾和轻度霾发生频率最高，其中全省能见度 $7 \\sim 8 ~ \\mathrm { k m }$ 范围霾天气发生频率最大，占总数的 $2 0 . 3 \\%$ ;相对湿度在 $6 0 \\%$ \\~$70 \\%$ 霾出现频率最高，约占霾次数 $20 \\%$ 左右,$30 \\% \\sim 9 0 \\%$ 霾出现频率较高，霾频率高达 $8 5 . 6 \\%$ ，相对湿度较低时不利于霾发生。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/25f32c52f80b49e63877b0cf50b3c38bf3b02028975a736763ad72142c9b6016.jpg",
+        "img_caption": [
+            "图52015年12月23\\~24日气象场",
+            "Fig.5Meteorological field of December 23 and 24,2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）风是造成霾天气的重要气象因子，出现静小风时，关中霾出现的频率较大，风速较大时，关中霾出现的频率较小。西安及关中全年和四季在偏东北风向时霾天气频率较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（6）对典型霾天气过程的个例分析表明：冬季大尺度环流相对稳定，关中地面风速较小，近地面大气有逆温层，混合层高度较低，近地面风场在关中地区形成风场辐合，大气水平和垂直扩散能力较弱，同时如果受到偏南气流影响，关中近地面相对湿度较大，空气中各种污染物容易发生化学反应，生成二次污染物，导致污染物浓度升高，易形成关中地区持续霾天气及严重大气污染",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］胡琳,苏静,陈建文,等.西安地区霾天气特征及影响因素分析 [J].干旱区资源与环境，2014，28（7）：41-45.［HULin，SU Jing,CHENJianwen,et al.Analysis of haze weather characteristics and influencing factors in Xi'an area[J]. Journal of AridLand Resources and Environment,2014,28(7）:41 -45]   \n[2] DENG XJ,TIE XX,WUD.Long-term trend of visibility and its characterizations in the Pearl River Delta(PRD)region,China[J]. Atmospheric Environment,2008,42:1424-1435.   \n[3]国家气候中心.全国气候影响评价(2013)[M].北京：中国气 象出版社,2O14.［National Climate Centre.National climate impact assessment(2013)[M].BeiJing:China Meteorological Press, 2014.]   \n[4］李艳春,李艳芳,高娜,等.银川市雾霾天气的气象条件分析及 概念模型建立[J].干旱区地理,2017,40(6)：1128-1133［LI Yanchun,LI Yanfang,GAO Na,et al. Meteorological conditions analysis and conceptual model establishment of fog and haze days in Yinchuan City[J].Arid Land Geography,2017,40(6）:1128- 1133.]   \n[5］李菲,吴兑,谭浩波,等.广州地区旱季一次典型灰霾过程的特征 及成因分析[J].热带气象学报,2012,28(1)：113-122.[LIFei， WU Dui,TAN Haobo,et al.The characteristics and cause analysis of a typical haze process during the day season over Guangzhou area:A case study[J].Journal of Tropical Meteorology,2012,28(1）:113- 122. ]   \n[6］何乱水,马炳祥.西北黄土高原干旱半干旱条件下城市污染特 点——以西北某城市为例[J].中国地质,2003,30（4）：442- 448.[HE Luanshui,MA bingxiang. Characteristics of urban pollution under arid and semi-arid condiction on the Loess Plateau in northwestern China:Examples form a city in northwestern China [J].Geology in China,2003,30(4）:442 -448.]   \n[7]TIE X X,WU D,GUY Brasseur. Lung cancer mortality and exposure to atmospheric aerosol particles in Guangzhou,China[J].Atmospheric Environment,2009,43（14） :2375-2377.   \n[8］吴兑,毕雪岩,邓雪娇,等.珠江三角洲大气灰霾导致能见度下 降问题研究[J].气象学报,2006,64(4）:510-517.［WU Dui, BI Xueyan,DENG Xuejiao,et al.Effect of atmospheric haze on the deterioration of visibility over the Pear River Delta[J].Acta Meteorologica Sinica,2006,64(4） :510-517.]   \n[9]高歌.1961—2005 年中国霾日气候特征及变化分析[J].地理 学报,2008,63（7）:762-768.[GAO Ge.The climatic characteristics and change of haze days over China during 1961—2005[J]. Acta Geographica Sinica,2008,63（7）:762-768.]   \n[10］范新强,孙照渤.1953—2008 年厦门地区的灰霾天气特征［J]. 大气科学学报,2009,（5）:604-609.[FAN Xinqiang,SUN Zhaobo.Analysis on features of haze weather in Xiamen city during 1953—2008[J].Journal of Nanjing Institute of Meteorology, 2009,(5):604-609.]   \n[11］牛或文,顾骏强,浦静姣,等.浙江城市区域灰霾天气的长期变 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化[J].热带气象学报,2010,26（12）:807-812.[NIU Yuwen, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GU Junqiang,PU Jingjiao,et al.The long-term variation of haze weather in urban areas of Zhejiang[J].Journal of Tropical Meteorology,2010,26(12):807 -812.]   \n[12］赵辉,郑友飞,徐静馨,等.APEC 期间京津冀区域大气污染物 消减变化分析[J].干旱区地理,2016,39（6）：1221－1229. [ZHAO Hui,ZHENG Youfei,XU Jingxin,et al.Air polution abatement in Beijing-Tianjin-Hebei during the APEC period[J]. Arid Land Geography,2016,39(6):1221 -1229.]   \n[13］吴兑.霾与雾的识别和资料分析处理[J].环境化学,2008,27 （3）:327-330.[WU Dui.Discussition on the distinction between haze and fog and analysis and processiong of data[J].Environmental Chemisty,2008,27(3）:327-330]   \n[14］吴兑.近十年中国灰霾天气研究综述[J].环境科学学报， 2012,32(2）:57-269.[WU Dui.Hazy weather research in China in the last decade: A review[J].Acta Scientiae Circustantiae, 2012,32(2) :57 -269.]   \n[15］童尧青,银燕,钱凌,等.南京地区霾天气特征分析[J].中国环 境科学,2007,27（5）:584-588.[TONG Yaoqing,YIN Yan, QIAN Ling,et al.Analysis of the characteristics of hazy phenomena in Nanjing area[J].China Environmental Science,20o7,27（5）： 584 -588.]   \n[16]赵普生，徐晓峰，孟伟，等.京津冀区域霾天气特征[J].中国环 境科学,2012,32（1）:31-36.[ZHAO Pusheng,XU Xiaofeng, Mengwei,et al. Characteristics of hazy days in the region of Beijing,Tianjin,and Hebei[J].China Environmental Science,2012, 32(1) :31 -36. ]   \n[17］符传博,丹利.重污染下我国中东部地区1960—2010 年霾日 数的时空变化特征［J].气候与环境研究,2014，19（2)：219- 226.［FU Chuanbo,DAN Li. Spatiotemporal characteristics of haze days under heavy polution over central and eastern China during 1960—201o[J].Climatic and Environmental Research,2014,19 (2) :219 -226.]   \n[18］魏建苏,孙燕，严文莲,等.南京霾天气的特征分析和影响因子 初探[J].气象科学,2010,30(6）:868-873.［WEIJiansu,SUN Yan,YAN Wenlian,et al.The preliminary study on characteristics and affecting factors of haze weather in Nanjing[J].Journal of the Meteorological Sciences,2010,30(6）:868 -873.]   \n[19］GOYALP.Effect of winds on SO $^ 2$ and SPM concentrations in Delhi ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[J].Atmospheric Environment,2002,36（17）:2925-2930. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Variation characteristics of haze weather and its climatic causes in Shaanxi Province ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HU Lin'，ZHANG Xia'，SU Jing²，WANG Qi’，HU Shu-lan' (1Shaanxi Provincial Climate Center，Xi'an 71oo15,Shaanxi,China; 2Shaanxi Provincial Atmospheric Sounding Technical Support Center,Xi'an 710015,Shaanxi,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on the monitoring dataof air polution in Xi'an City,Shaanxi Province,China,from 2015 to 2016,this paper analyzed the corresponding relationship between haze occurrence and the visibility and quality gradeof theair by reconstructing the haze sequences with three diferent methods,namely,the daily value method, the hourly value method and the value at14:OOPMmethod.Thisanalysis helped to determine the value at14:00 PM method as the method to reconstruct haze sequence and the reconstructing of the historical haze data series was doneby using the data about the relative humidity and air visibility from96 meteorological stations from 1981 to 2016 in order to provide a more reasonable basic data sequence for the environmental meteorological asessment. Andthen this paper analyzed the characteristics of haze weatherand meteorological factors,discussed thecirculation situationcorresponding to the large-scale continuous haze weather process in time and space,and studied the causes of haze weather processin order to provide scientificbasis for governmental decision-makingdepartments to protect the environment and formulate relevant policies.The results showed as folows:（1）The haze weather occurred frequently in Guanzhong area,followedby Hanzhong Basin in southern Shaanxi,and least in northern Shaanxi.The number of days with haze weather inthe province showed a general upward trend,and was increased significantlyafter 2000.In the province as a wholeand in every region ofthe province,it had the maximal number of days with haze weatherin winter.The numberof days with haze weather from November to the February next year accounted for $5 7 . 9 \\%$ of the total annual days with haze weather.（2） The frequency of moderate haze（visibility : $5 \\sim 8 ~ \\mathrm { k m }$ ） and light haze（visibility : $8 \\sim 1 0 ~ \\mathrm { k m }$ ）was the highest in the province and all regions of the province,and the frequency of severe haze (visibility $< 3 \\ \\mathrm { k m }$ ） was the lowest being less than $10 \\%$ .（3）Wind is one of the important factors affecting haze weather.Haze weather is easy to occur under winter light wind condition.When Xi'an and Guanzhong area are under the effct of northeaster wind,there willbe a high frequency of haze weather.（4）The relative humidity is another major factor causing haze weather,the highest frequency of haze weather occurrence was found with the relative humidity being $6 0 \\% \\sim 7 0 \\%$ ,accounting for about $20 \\%$ of haze weather occurrences,and the frequency of haze weather occurrence was lower when the relative humidity was less than $30 \\%$ .（5）The large-scale circulation situation in winter was relatively stable.The wind speed was small in Guanzhong area,and there were thermal inversion layers inthe near surface atmosphere and wind convergence near Guanzhong area,which caused the horizontalandverticaldifusivityof theatmosphere overGuanzhong to become weaker.When the relative humidity was high,the atmospheric polutants were accumulated and took chemical reaction.Under these conditions,it is easy to form continuous haze weather and cause serious air pollution in Guanzhong area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words：Shaanxi Province；haze；reconstruction；method based on measured value；climatic characteristics; meteorological element ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,151 @@
+# 基础研究
+
+# CDC42沉默对结直肠癌细胞形态的影响
+
+贺莉1,马文霞²,张庆玲2.3  
+1中国人民解放军264医院,山西 太原 03000;南方医科大学²病理系//广东省分子肿瘤病理学重点实验室；?南  
+方医院，广东广州 510515
+
+摘要：目的根据CDC42蛋白二级结构，设计CDC42 siRNA干扰片段，构建CDC42稳定干扰shRNA载体。观察CDC42有效沉默对结直肠癌SW480细胞形态的影响。方法 根据CDC42基因CDS区序列,设计4条 siRNA片段。Westermblot筛选最有效沉默片段,酶切插入真核表达载体,将构建的shRNA质粒载体,瞬时转染结直肠癌SW480细胞,QPCR及Westemblot验证CDC42沉默效率;观察转染前后,SW480细胞形态变化。结果4条siRNA转染细胞后,验证结果显示siRNA-3沉默效率大于 $5 0 \%$ ，沉默效果最好,将此片段插人真核表达载体,测序结果提示CDC42 shRNA构建成功，转染SW480细胞后，CDC42基因mRNA及蛋白水平表达明显下降，差异有统计学意义;显微镜观察CDC42沉默后,SW480细胞周边伪足伸出减少，细胞变光滑，细胞整体体积明显减小。结论成功根据基因序列设计有效沉默片段，构建CDC42稳定沉默载体，证实CDC42沉默可以逆向改变结直肠癌细胞高侵袭性形态，为研究CDC42对结直肠癌的发生、发展提供分子工具。
+
+关键词：CDC42;siRNA；shRNA;结直肠癌;细胞形态
+
+# Effect of shRNA-mediated CDC42 knockdown on morphology of colorectal cancer cells in vitro
+
+HE Li’,MA Wenxia², ZHANG Qingling²,3   
+Departmentosapttsicicl Laboratoryofecularortologofagdongoce，fgitaloutedicalesityng China
+
+Abstract: ObjectiveTo test theeffectofCDC42 (a memberofRhofamilyofsmall GTPases)knockdownmediated byaCDC42 short-hairpin RNA (shRNA)on the morphology of colorectal cancer SW480cels in vitro.MethodsFour CDC42 siRNA fragment targeting CDC42 were designedand the most efcient siRNA for CDC42 knockdown wasselected toconstruct the shRNAvectorfortransfectionofcolorectalcancerSW480cels.Theinterferenceeficiencyinthestablytransfectedcels(sw480. shCDC)was detected using real-time PCRand Western bloting,andthe morphological changesof the transfectedcelswere observed. Results Western blotting result showed that siCDC42-3 was the most eficient fragment for CDC42 knockdown, which caused CDC42 knockdown by over $5 0 \%$ . DNA sequencing confirmed successful construction of the CDC42 shRNA vector.Transfectionofthecellswiththevectorsignificantlyreduced CDC42expressionsatboth themRNAand proteinlevels. Thetransfectedcelsexhibited reducedfiopodiaandcellsizewithsmooth cellmargins.ConclusionshRNA-mediated CDC42 knockdowncanreduce thecytoskeleton dynamicsofcolorectal cancercels tolowertheir invasivenessThisshRNAconstruct facilitates further study of the role of CDC42 in the tumorigenesis and progression of colorectal cancer.
+
+Key words: CDC42; small interfering RNA; short-hairpin RNA; colorectal cancer; morphology modulation
+
+肿瘤细胞的无限增殖能力以及高度侵袭性是其区别于正常体细胞的主要特征[1-2],恶性肿瘤全身重要器官转移以及晚期继发的多器官功能衰竭是影响临床患者预后的最主要因素。而从分子基础水平探讨，与正常体细胞相比，肿瘤细胞高度增殖、迁移、侵袭能力是受到不同的原癌基因激活以及抑癌基因失活等紊乱调控，从而导致的异常生命活动后果，这一系列活动都离不开细胞骨架系统的参与[3。了解肿瘤发展过程中，与正常细胞有序的骨架活动行为相比较，高度动态紊乱的肿瘤细胞骨架调节机制，发展针对细胞骨架信号通路的特异性分子抗体，对实现肿瘤的分子靶向治疗有潜在的积极意义。
+
+细胞骨架是细胞内部的纤维蛋白网络，其在维持细胞正常形态、承受外界压力、保持细胞内部结构的有序性方面起重要作用，而且直接参与调控了多种重要的细胞功能活动。小G蛋白家族成员是细胞骨架调节活动的主要调节分子，其中，RhoGTPase是普遍存在于真核生物体内的一类小G蛋白家族亚家族，CDC42作为该亚家族研究比较多的3个主要成员(RAC、Rho和CDC42)之一，曾被证实参与调控了肿瘤细胞运动过程中多个主要环节，包括运动细胞前端丝状伪足的突起、细胞前端与细胞外基质的锚定链接、细胞内微丝骨架的稳定性等多个方面[7.10-13]。但是，目前为止,CDC42在多种肿瘤组织包括结直肠癌中的具体作用尚未完全明确，其对结直肠癌发生、发展、患者预后的影响以及影响机制尚处于未知。研究CDC42对结直肠癌细胞骨架运动的具体调节作用以及作用机制，可能为结直肠癌临床治疗提供潜在的分子靶标，对实现针对结直肠癌的靶向治疗有积极意义。
+
+本研究旨在通过分子生物学技术方法构建CDC42干扰载体，转染结直肠癌细胞，进而实现在结直肠癌细胞内CDC42的稳定沉默，为进一步研究CDC42对结直肠癌发生、进展的明确作用以及作用机制提供分子生物学工具；观察CDC42沉默对结直肠癌细胞形态影响，为后续进一步实验提供实践基础。
+
+# 1 材料和方法
+
+1.1材料与试剂
+
+1.1.1细胞株、细菌与载体结直肠癌SW480细胞、大肠杆菌DH5a与真核表达载体GV112均为本实验室保存。1.1.2生物试剂限制性内切酶EcoRI/AgeI、特效连接酶、连接buffer购自TOYOBO,DNAMarker购自Fermentas,质粒小量提取以及纯化试剂盒购自Qiagen,质粒中量提取试剂盒、质粒转染用脂质体Lipofectamine2Ooo 购自Life Technologies,RNA逆转录及QPCR检测试剂盒购自广州复能生物技术有限公司，全蛋白提取以及BCA蛋白浓度定量检测试剂盒购自南京凯基生物科技公司，兔抗人CDC42及小鼠抗人GAPDH单克隆抗体均购自AbClonal,RPMI1640培养基购自Hyclone,胎牛血清购自 $\mathbf { B I } _ { \circ }$
+
+# 1.2 方法
+
+1.2.1细胞培养人结直肠癌SW480细胞用含 $10 \%$ 胎牛血清的RPMI1640培养基，常规置于 $3 7 ~ \mathrm { ^ { \circ } C }$ 含 $5 \%$ $\mathrm { C O } _ { 2 }$ 、饱和湿度的培养箱中培养，细胞生长密度至 $80 \%$ ，$90 \%$ 饱和时，用含 $2 . 5 \%$ EDTA的胰酶消化传代。
+
+1.2.2CDC42干扰siRNA序列的设计 CDC42的CDS区全长 $5 7 3 \mathrm { b p }$ ,编码191AA，在序列的不同位点CDC42蛋白经过了 $\mathsf { a l } .$ 螺旋、β折叠卷曲等二级结构，根据预测蛋白质二级结构域，避开siRNA不可接近的复杂二级结构，在CDS区散在选取4个位点作为siRNA的目标靶点。在各位点逐个碱基之间前后移动进行序列筛选，保证所选4条siRNA靶序列长度19\~22bp,GC含量在$4 0 \% { \sim } 5 0 \%$ 左右，并逐条经过NCBIblast比对，检测序列的特异性，验证是否为人类其它基因的同源序列。同时选用RNAi设计时公认的scramble序列作为对照，对照序列：TTCTCCGAACGTGTCACGT，使用前再次blast比对验证与CDC42基因是否有同源性。将所选4条siRNA及1条scramble序列，联系广州维真生物技术公司进行化学合成。
+
+1.2.3CDC42siRNA片段转染结直肠癌SW480细胞将 SiRNA及 scramble片段按照 $1 \ \mathrm { n m o L } : 5 0 \ \mu \mathrm { L }$ DEPC水混匀稀释，配制成 $1 0 \mathrm { { \mu m o l / L } }$ 的工作液, $- 2 0 \ \mathrm { { ^ circ C } }$ 储存备用。将生长状态良好的结直肠癌SW480细胞接种于6孔培养板，常规生长 $2 4 \mathrm { h }$ 后，待细胞密度约 $5 0 \% { \sim } 7 0 \%$ 时，使用lipofectamine200o阳离子脂质体法瞬时转染细胞。步骤如下：
+
+(1)配制A液及B液每孔各 $2 5 0 ~ \mu \mathrm { L }$ A液： $2 4 5 ~ \mu \mathrm { L }$ optiMEM+5 μL lipo2000B液： $2 4 5 ~ \mu \mathrm { L }$ optiMEM $+ 5 ~ \mu \mathrm { L }$ SiRNA(2)A、B液配好后，分别室温孵育约 $5 \mathrm { m i n }$ ;混匀A、B液体,孵育 $2 0 \mathrm { m i n }$ U(3)去掉含血清的RPMI1640细胞培养基，换为$1 . 5 ~ \mathrm { m L }$ opti-MEM培养基/每孔。(4)将孵育 $2 0 \mathrm { m i n }$ 后的A,B混合液,按组加入到六孔板细胞内，十字法轻轻摇匀，细胞常规培养4\~6h后换为含 $10 \%$ 胎牛血清的RPMI1640培养基继续培养， $4 8 \sim$ 72h后提取蛋白质进行Western blotting鉴定。1.2.4Westernblotting检测并筛选最有效干扰片段分别收集六孔板内经过siRNA瞬时转染的各组目的细胞与对照组细胞，提取细胞全蛋白，BCA法测定蛋白浓度，用lysisbuffer调整各组样品浓度至相近水平，按比例加入loading buffer,煮沸变性蛋白质;配置 $10 \%$ 的SDS-PAGE胶,在胶内各泳道中，按顺序将处理好的蛋白样品各 $3 0 ~ { \mu \mathrm { g } }$ 进行加样并分离电泳，电泳后切取目的条带湿法转至 $0 . 2 2 \mu \mathrm { m }$ PVDF膜, $5 \%$ 的脱脂奶粉室温封闭 $^ { \textrm { 1 h } }$ ，一定稀释比例的一抗 $( \mathrm { C D C } 4 2 \ 1 : 1 0 0 0 ) 4 \ \mathrm { ^ { \circ } C }$ 孵育过夜，PBST清洗 $5 \mathrm { m i n } { \times } 5$ 次，辣根酶标记的二抗(山羊抗兔IgG抗体， $1 : 5 0 0 0 \rangle$ 室温孵育1h,PBST清洗 $5 \operatorname* { m i n } \times$ 5次，ECL曝光观察，选取干扰效果最强的siRNA条带。以GAPDH做内参。
+
+1.2.5shRNA质粒载体的构建与测序筛选最有效的siRNA片段，以靶标序列为主链，根据碱基互补配对原则，设计siRNA序列所对应的"互补片段”。以此特异性siRNA靶标序列以及其“互补片段"为环状RNA的两端“枝干”，在片段中间插入构建环状RNA所特需的6碱基“茎环"结构，“茎环"结构碱基序列选用结构稳定的“CTCGAG"序列。设计好shRNA茎环与枝干主体结构后，在枝干两端插入EcoRI/AgeI限制性内切酶酶切位点序列，化学合成法逐个碱基合成设计好的的双链Oligo序列。
+
+用特异性快切酶快速双酶切碱基序列（酶切条件：$3 7 \ \mathrm { ^ { \circ } C } , 0 . 5 { \sim } 1 \ \mathrm { h } )$ ,露出BamHI/AgeI粘性末端，与同步双酶切并纯化后的GV112真核表达载体用ligasebuffer特效连接(连接条件： $2 2 ^ { \circ } \mathrm { C } , 4 5 \mathrm { m i n } { \sim } 1 \mathrm { h } \rangle$ ,连接产物转化DH5a感受态细菌，挑选阳性克隆菌，摇菌后菌液测序鉴定。
+
+1.2.6shRNA质粒载体转染结直肠癌SW480细胞 挑选经测序结果显示构建成功，碱基序列与预期相符和的阳性克隆菌，大量摇菌进行质粒中量提取，所提取质粒用无菌DEPC水溶解，测定质粒浓度，用lipofectimane2000阳离子脂质体法转染结直肠癌SW480细胞。质粒中量提取按照LifeTechonologies操作手册进行，阳离子脂质体转染方法同前。
+
+1.2.7QPCR检测细胞株mRNA水平表达变化 细胞瞬时转染后 $4 8 \mathrm { { h } }$ ，用PBS清洗目的细胞以及对照组细胞各2次，加入Trizol逐级提取细胞总RNA，逆转录得到cDNA，QPCR分析目的细胞以及对照细胞中CDC42相对表达量。GAPDH做内参。所用引物序列：
+
+CDC42:sense: CCATCGGAATATGTACCGACTG; antisense:CTCAGCGGTCGTAATCTGTCA, GAPDH: sense: TGAAGGTCGGAGTCAACGGA; antisense:CCATTGATGACAAGCTTCCCG
+
+1.2.8Westernblotting检测细胞株蛋白水平表达变化细胞瞬时转染后 $7 2 \mathrm { { h } }$ ，收集目的以及对照组细胞，体积细胞蛋白质，Westernblotting检测分析目的细胞以及对照细胞株中CDC42的相对表达量，GAPDH做内参。细胞蛋白提取以及Westernblotting实验方法同前述。
+
+1.2.9观察CDC42有效沉默对SW480细胞形态影响将结直肠癌SW480细胞接种到六孔培养板，常规培养$2 4 \mathrm { h }$ 后，细胞生长密度达到 $5 0 \% { \sim } 7 0 \%$ 对数生长期时，将CDC42shRNA瞬时转染进入细胞，继续培养 $7 2 \mathrm { { h } }$ 后，光学显微镜观察SW480细胞形态变化。
+
+# 2结果
+
+2.1CDC42干扰siRNA序列的设计
+
+CDC42的CDS区全长 $5 7 3 ~ \mathrm { b p }$ ，编码191AA,根据预测蛋白质二级结构域，避开siRNA不可接近的复杂二级结构域(图1)，在CDS区分散选取4个位点作为siRNA的目标靶点，选用通用scramble序列做对照。4条siRNA靶序列以及对照序列长度、GC含量以及在CDC42基因CDS区内起始位点如下表(表1)，siRNA目标序列逐条经过NCBIblast比对后，未与人类其它的基因同源，scramble序列与CDC42基因无重合同源性。
+
+siRNA-1 siRNA-4 siRNA-3 siRNA-2 Helix Turn β-strandsi-RNA spot
+
+表1设计CDC42siRNA序列以及scramble序列具体信息Tab.1 Sequences of the 4 siRNAs targeting CDC42 and the scramble sequence  
+
+<html><body><table><tr><td>ID</td><td>Targrt sequence</td><td>Length（bp）</td><td>Initiaion nucleotide（bp）</td><td>GCpententage composition（%）</td></tr><tr><td>SiCDC42-1</td><td>GCAAGAGGATTATGACAGA</td><td>19</td><td>344</td><td>42.1</td></tr><tr><td>SiCDC42-2</td><td>ACCTGAAGGCTGTCAAGTAT</td><td>20</td><td>607</td><td>47.4</td></tr><tr><td>SiCDC42-3</td><td>AAAGACTCCTTTCTTGCTTGT</td><td>21</td><td>484</td><td>41.3</td></tr><tr><td>SiCDC42-4</td><td>AGATAACTCACCACTGTCCAA</td><td>21</td><td>463</td><td>42.1</td></tr><tr><td>Scramble</td><td>TTCTCCGAACGTGTCACGT</td><td>19</td><td>Non human homolog</td><td>52.6</td></tr></table></body></html>
+
+# 2.2Westernblotting 筛选最有效的siRNA片段
+
+Westernblotting检测结果显示,在GAPDH内参齐平时，与sramble对照组相比，siRNA-3对CDC42的沉默效果最好。而且以对照组条带作为 $100 \%$ 标准值，Westernblotting条带灰度值分析结果显示，siRNA-3对CDC42的干扰效率 ${ > } 5 0 \%$ ，可以有效沉默CDC42，筛选用于后续实验(图2)。
+
+# 2.3CDC42shRNA载体构建以及合成鉴定
+
+以siRNA序列与其碱基互补序列作为shRNA的两侧"枝干"(stem)，序列中间通过6碱基“茎环"结构(loop)连接，"枝干"两侧末端辅加 $E c o \mathrm { R } \mathrm { ~ I ~ } / A g e \mathrm { ~ I ~ }$ 限制性内切酶酶切位点序列(图3)。所设计序列经过化学合成后，通过快速双酶切露出粘性末端，与真核表达载体连接，连接产物转化大肠杆菌 $\mathrm { D H } 5 \mathrm { a }$ ，挑选阳性克隆菌进行摇菌，菌液进行测序分析。测序结果显示片段在测序茎环处中断前序列与NCBI官方公布序列核对，碱基序列与预期完全一致，提示CDC42基因有效shRNA质粒载体构建成功，可通过大肠杆菌DH5a进行稳定扩增后
+
+![](images/d2dca07d7ea73f00f6da8fa8c8a684ab141b1b3db1e65935686ba72856c0d5fa.jpg)  
+图2Western blotting筛选CDC42最有效siRNA序列 Fig.2 Identification of the most efficient siRNA for knocking down CDC42 by Western blotting.
+
+提取以进行后续长期实验。
+
+2.4QPCR与Westernblotting对 shRNA 转 染细 胞株mRNA及蛋白水平定量分析鉴定
+
+QPCR对mRNA水平检测结果显示，与scramble对照组相比，转染CDC42shRNA载体的细胞，CDC42mRNA表达明显下降，差异具有统计学意义。
+
+Westernblotting对蛋白水平表达检测结果显示，在
+
+<html><body><table><tr><td>ID</td><td>5'</td><td>Stem</td><td>Loop</td><td>Stem</td><td>3’</td></tr><tr><td rowspan="2">ShRNA-3</td><td>*Ccgg</td><td>agAAAGACTCCTTTCTTGCTTGT</td><td>CTCGAG</td><td>ACAAGCAAGAAAGGAGTCTTTCT</td><td>TTTTTg</td></tr><tr><td>#aattcaaaaa</td><td>agAAAGACTCCTTTCTTGCTTGT</td><td>CTCGAG</td><td>ACAAGCAAGAAAGGAGTCTTTCT</td><td></td></tr></table></body></html>
+
+\*Site of restriction enzyme Age I \*Site of restriction enzyme EcoRI 图3根据CDC42siRNA-3设计shRNA载体序列 Fig.3 Design of CDC42 shRNA sequences based on the siRNA-3 structure.
+
+GAPDH内参齐平时，与scramble对照组相比，转染CDC42shRNA载体后的细胞，CDC42蛋白表达明显降低(图4)。二者结果综合提示结直肠癌SW480细胞在瞬时转染了CDC42shRNA后，CDC42基因表达被有效沉默。提示CDC42基因的干扰载体构建成功，转染结直肠癌后可以有效沉默CDC42基因表达，可用于后期进一步观察研究CDC42沉默对结直肠癌细胞生物学表型、细胞形态、功能的影响。
+
+![](images/cfcfae39189a8c15f93e1d39dd967d943bd976e3a3a4f8455fa710d6138f65fd.jpg)  
+图4WB验证SW480细胞中CDC42沉默效率 Fig.4 Detection of CDC42 protein expression in SW480.shCDC/NC cells with Western blotting.
+
+2.5光学显微镜观察CDC42沉默对SW480细胞形态影响
+
+将CDC42shRNA载体瞬时转染SW480细胞后，常规培养 $7 2 \mathrm { { h } }$ ，光学显微镜下观察细胞，发现在CDC42被沉默后，SW480细胞前端伪足伸出明显减少，细胞周边变的光滑，细胞整体"占地面积"减小，提示细胞内微丝骨架伸展减弱，运动细胞前端与细胞外基质的连接出现改变，细胞运动能力可能因此减弱(图5)。
+
+# 3讨论
+
+恶性肿瘤与心脑血管病、糖尿病为我国目前发病率最高的3大慢性疾病,并称人类3大“健康杀手"[14-15],而其中，恶性肿瘤发病率依旧在逐年攀升，临床患者死亡率居高不下。其无限增值、转移活动离不开精细的细胞骨架调节。系统的研究肿瘤发生、发展过程中细胞骨架的调节活动，从而发展针对细胞内信号通路终末端一骨架调节活动的特异性分子抗体，对实现肿瘤的分子靶向治疗有积极意义。
+
+肿瘤细胞的迁移运动包括4个主要环节，细胞前端伪足的伸出突起，细胞伸出前端与细胞外基质锚定连接，细胞胞体向前定向移动，细胞末端从原细胞位点的脱离向前[16-19]。CDC42属于小G蛋白家族Rho GTPases亚家族3个主要成员之一，被广泛证实参与调控了这一系列肿瘤细胞迁移运动过程中多个主要环节，包括运动细胞前端丝状伪足的突起、细胞前端与细胞外基质的锚定链接，以及可以与另一个主要成员RhoA联合调控细胞胞体收缩过程中细胞内微丝骨架的稳定性等多个方面[20-23]
+
+而且通过直接检测基因表达量，也证实CDC42在多种肿瘤,包括淋巴瘤、肺腺癌、肝癌中相较正常组织中表达明显异常增高，这些都提示CDC42基因与肿瘤的发生、发展具有密切相关性[24-25]。但是在消化系统肿瘤中，CDC42基因的异常表达与结直肠癌的关系目前尚未完全明确，而且人为的实现对CDC42基因靶向干扰技术，目前尚没有相关文献见诸报端。本研究旨在靶向沉默CDC42的表达，并观察CDC42基因对结直肠癌细胞生物学行为特性的影响，对进一步研究CDC42对结直肠癌发生、发展的影响作用以及进一步研究具体的作用机制提供研究基础。
+
+RNA干扰是目前国内外发展都已经相当成熟的，利用小分子RNA片段(siRNAs)实现对同源mRNA的特异性降解的分子技术。其可以实现对同源mRNA的特异性、而且非常高效的切割，实现对靶蛋白表达的有效沉默[26-33]。本课题组直接通过外源性转入化学合成的双链siRNA序列，外源性siRNA进入体内后可以利用细胞内RNA酶解链形成单体，通过单体siRNA片段与CDC42基因CDS区同源序列的特异性互补结合，从结合位点降解靶mRNA，从而实现对目标基因蛋白的特异性表达敲低。为了筛选最有效的siRNA位点，我们结合蛋白质的二级结构域，在不同的CDC42CDS区碱基位点，设计了4条siRNA，并将其分别瞬时转染结直肠癌SW480细胞，筛选得到了可以将CDC4最有效沉默的siRNA片段。
+
+![](images/ada3c1c7aa00192ab2bb6fca04c744e6e362f17c6937e28e52b36f9b0d8f43c7.jpg)  
+图5CDC42沉默后结直肠癌SW480细胞形态变化 Fig.5 SW480 cells transfected with CDC42 shRNA vector.A: SW480-N1 cells (Original magnification: $\times 2 0 0 ^ { \cdot }$ ); B:SW480-N1 cells (Original magnification: $\times$ 400)；C: SW480.shCDC42 cells (Original magnification: $\times 2 0 0$ ； $D$ :SW480. shCDC42 cells (Original magnification: $\times 4 0 0 ^ { \cdot }$ ）
+
+为了实现后续对CDC42的长期稳定敲低，我们进一步在 siRNA片段两端插入“茎环"(loop)结构以及限制性内切酶酶切位点，将基因片段通过酶切后再连接技术插入真核表达载体。因为GV112载体骨架采用适合表达小分子RNA的U6启动子，而不同于其它常用的真核表达载体骨架，如pCDNA3.0内所采用的是更适合长片段基因表达的CMV启动子，被我们首选考虑为CDC42shRNA构建的骨架载体。CDC42shRNA质粒酶切再连接后，基因序列经过测序验证，证实与预期完全符合，提示载体构建成功。成功构建的CDC42shRNA质粒载体转化感受态大肠杆菌DH5a后，可以稳定扩增以大量提取质粒，质粒转染结直肠癌SW480细胞后，QPCR与Westernblotting验证结果证实，与阴性对照组细胞相比，瞬时转染后的细胞CDC42mRNA与蛋白表达均出现明显降低，差异具有统计学意义，提示结直肠癌内CDC42有效沉默载体构建成功，为后续长期进行CDC42沉默对结直肠癌生物学表型、功能的影响作用以及作用机制提供了分子工具。
+
+而且，细胞形态学观察结果显示，CDC42沉默后，结直肠癌SW480细胞前端伪足伸出减少，细胞周边变的"光滑”，而且细胞"占地面积"减少。结合肿瘤细胞的迁移运动所必须的主要骨架活动环节，如细胞前端伪足的伸出突起、进而与细胞外基质锚定连接，以及后续细胞胞体整体前移[16-19]等主要步骤，CDC42沉默后结直肠癌细胞形态变化，高度提示CDC42沉默导致细胞内微丝骨架延伸减弱，运动细胞前端与细胞外基质的连接出现改变。肿瘤细胞运动能力可能因此减弱，为后续进一步研究CDC42通过调节细胞骨架稳定性影响结直肠癌的发生、发展、转移作用奠定初步的实践基础。
+
+综上所述，本实验成功构建了小G蛋白家族成员蛋白CDC42的稳定干扰载体，并转染结直肠癌SW480细胞系。根据形态学结果初步可以推测CDC42可能通过调节细胞骨架活动影响结直肠癌的发生、发展，为后续深入研究CDC42在结直肠癌发生、发展中的具体作用以及作用机制提供了分子工具，对寻找针对肿瘤细胞骨架信号通路的潜在分子治疗靶点，实现对结直肠癌的特异性治疗有积极意义。
+
+# 参考文献：
+
+[1]Hainaut P,Plymoth A. Targeting the hallmarks of cancer: towards i
+
+rational approach to next-generation cancer therapy[J]. Curr Opin Oncol,2013,25(1): 50-1.   
+[2] Hanahan D, Weinberg RA. Hallmarks of cancer: the next Generation [J]. Cell,2011,144(5): 646-74.   
+[3]Friedl P,Alexander S.Cancer invasion and the microenvironment: plasticity and reciprocity[J]. Cell,2011,147(5): 992-1009.   
+[4]Zugasti O,Rul W,Roux P,et al. Raf-MEK-Erk cascade in anoikis is controlled by Rac1 and Cdc42 via Akt[J].Mol Cell Biol,2001,21 (19): 6706-17.   
+[5]Ge Q,Chen L,Jaffar J,et al. FibulinlC peptide induces cell attachment and extracellular matrix deposition in lung fibroblasts [J]. Sci Rep,2015,5(3): 9496.   
+[6]Bao W,Thullberg M,Zhang H,et al. Cell attachment to the extracellular matrix induces proteasomal degradation of p21(CIP1) via Cdc42/Racl signaling[J]. Mol Cell Biol,2002,22(13): 4587-97.   
+[7] Sharma M,Urano F,Jaeschke A. Cdc42 and Racl are major contributors to the saturated fatty acid-stimulated JNK pathway in hepatocytes[J]. JHepatol,2012,56(1): 192-8.   
+[8]Hines R,Markossian T,Johnson A,et al. Geographic residency status and census tract socioeconomic status as determinants of colorectal cancer outcomes[J]. Am J Public Health,2014,104(3): e63-71.   
+[9]Henry KA,Sherman RL，Mcdonald K,et al. Associations of census-tractpovertywithsubsite-specificcolorectalcancer incidence rates and stage of disease at diagnosis in the United States [J].JCancer Epidemiol,2014,14(8): 823484.   
+[10]Begum R,Nur-E-Kamal MS,Zaman MA.The role of Rho GTPasesin the regulation of the rearrangement ofactin cytoskeleton and cell movement[J].ExpMol Med,2004,36(4): 358-66.   
+[11] Pouwels J,Van DN,Van Lent J,et al. The cytoskeleton and the secretory pathway are not involved in targeting the cowpea Mosaic virus movement protein to the cell periphery[J]. Virology,2002,297 (1): 48-56.   
+[12]Gireti MS,Simoncini T.Rapid regulatory actions of sex steroids on cell movement through the actin cytoskeleton[J]. Steroids,2008, 73(9/10): 895-900.   
+[13] Jiang P,Enomoto A,Takahashi M. Cell biology of the movement of breast cancercells:intracellularsignallingand theactin cytoskeleton[J]. Cancer Lett,2009,284(2):122-30.   
+[14]Fu XD,Flamini M, Sanchez AM,et al. Progestogens regulate endothelial actin cytoskeleton and cell movement viathe actin-binding protein moesin[J].Mol Hum Reprod,2008,14(4): 225-34.   
+[15]Chen Y,Yang Z,Meng M,et al. Cullin mediates degradation of RhoA through evolutionarily conserved BTB adaptors to control actin cytoskeleton structure and cell movement[J].Mol Cell,2009, 35(6): 841-55.   
+[16] Small JV,Rottner K,Kaverina I,et al.Assembling an actin cytoskeleton for cell attachment and movement [J].Biochim Biophys Acta,1998,1404(3): 271-81.   
+[17]Lim HS,Lee MY,Moon JS,et al.Actin cytoskeleton and golgi involvement in barley stripe Mosaic virus movement and cell wall localization of triple gene block proteins[J].The Plant Pathology J, 2013,29(1): 17-30.   
+[18] Gireti M S,Simoncini T. Rapid regulatory actions of sex steroids on cell movement through the actin cytoskeleton[J]. Steroids,2008, 73(9-10): 895-900.   
+[19] Jiang P,Enomoto A,Takahashi M.Cell biology of the movement of breast cancercells:intracellularsignallingand theactin cytoskeleton[J]. CancerLett,2009,284(2): 122-30.   
+[20] Chang H. RNAi-mediated knockdown of target genes: a promising Strategy for pancreatic cancer research[J]. Cancer Gene Ther, 2007, 14(8): 677-85.   
+[21]Lv W, Zhang C, Zhou DH,et al. RNAi-mediated gene silencing of vascular endothelial growth factor inhibits growth of colorectal cancer[J].Cancer BiotherRadiopharm,2007,22(6): 841-52.   
+[22] Lee AJ, Kolesnick R， Swanton C. RNAi-mediated functional analysis of pathways influencing cancer cell drug resistance [J] Expert Rev Mol Med,2009,11(8): e15.   
+[23]Dave RS.RNAi and tumor angiogenesis: bridging the gap towards anti-cancer therapy[J].Leuk Res,2007,31(4): 421-2.   
+[24] Romano N,Macino G. Quelling: transient inactivation of gene expressioninNeurosporacrassabytransformationwith homologous sequences[J].Mol Microbiol,1992,6(22): 3343-53.   
+[25] Deveraux QL,Aza-Blanc P, Wagner KW,et al. Exposing oncogenic dependencies for cancer drug target discovery and validation using RNAi[J]. Semin Cancer Biol,2003,13(4): 293-300.   
+[26]Gil-Ranedo J,Mendiburu-Eligabe M, Garcia-Villanueva M,et al. An off-target nucleostemin RNAi inhibits growth in human glioblastoma-derived cancer stem cells[J].PLoS One,2011,6(12): e28753.   
+[27]Deng KX,Zhong L,Jiang MX,et al. Effect of RNAi-mediated survivin gene silencing on apoptosis of ovarian cancer cell lines SKOV3 and SKOV3/ADM[J]. Ai Zheng,2005,24(8): 945-50. （日明)

@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能、胴体性状和肉品质的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李宁谢春元 曾祥芳 谯仕彦\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国农业大学动物科技学院，动物营养学国家重点实验室，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究旨在探讨饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能、胴体性状和肉品质的影响。选取平均初始体重为（ $_ { 6 9 . 3 \\pm 3 . 6 }$ ） $\\mathrm { k g }$ 的杜 $\\times$ 长 $\\times$ 大去势公猪125头，随机分为5个组，每组5个重复，每个重复5头猪。5个组分别为：高蛋白质饲粮组（粗蛋白质水平约为 $14 \\%$ ）、低蛋白质（粗蛋白质水平约为 $10 \\%$ ）-氨基酸平衡饲粮组以及3个低蛋白质（粗蛋白质水平约为 $10 \\%$ ）1氨基酸不平衡饲粮组（在低蛋白质-氨基酸平衡饲粮组的基础上分别将含硫氨基酸、苏氨酸和色氨酸与赖氨酸的比例降低 $10 \\%$ ）。所有饲粮的标准回肠可消化赖氨酸水平均设置为 $0 . 7 1 \\%$ ，低蛋白质-氨基酸平衡饲粮组中标准回肠可消化苏氨酸、标准回肠可消化含硫氨基酸和标准回肠可消化色氨酸与标准回肠可消化赖氨酸的比值分别为0.67、0.60和0.20。试验期为 $2 8 \\textup { d }$ 。结果显示，与低蛋白质-氨基酸平衡饲粮组相比，高蛋白质饲粮组肥育猪的平均日采食量有下降趋势( $\\scriptstyle ( P = 0 . 0 5 )$ ，低蛋白质-低色氨酸饲粮组肥育猪平均日增重和平均日采食量均显著下降（ $. P { < } 0 . 0 5 )$ ，低蛋白质-低苏氨酸组和低蛋白质-低含硫氨基酸饲粮组肥育猪的生长性能无显著差异（ ${ \\cdot } P { > } 0 . 1 0 )$ 。饲粮粗蛋白质水平和氨基酸平衡性对肥育猪的胴体性状和肉品质无显著影响（ ${ P > } 0 . 1 0 { \\it \\Delta }$ 。因此，低蛋白质-氨基酸平衡饲粮不影响育肥猪生长性能、胴体性状和肉品质，分别降低 $10 \\%$ 标准回肠可消化含硫氨基酸、标准回肠可消化色氨酸和标准回肠可消化苏氨酸对肥育猪胴体性状和肉品质无显著影响，但降低 $10 \\%$ 标准回肠可消化色氨酸显著降低肥育猪平均日增重和平均日采食量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：低蛋白质饲粮；氨基酸平衡；生长性能；胴体性状；肉品质中图分类号：S828 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "低蛋白质饲粮通常是指将饲粮粗蛋白质水平按NRC（1998）或我国《猪饲养标准》（NY/T65—2004）的推荐量降低2\\~4百分点，并通过添加合成氨基酸配制而成的氨基酸平衡饲粮。低蛋白质氨基酸平衡饲粮既可以满足动物对氨基酸的需求，又可减少蛋白质原料的用量，缓解我国饲用蛋白质资源短缺问题，是降低养猪业氮排放的主要技术途径[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来的研究表明，将饲粮的粗蛋白质水平降低4百分点以内，并以净能体系为基础，按照能氮平衡和理想氨基酸模型至少需要补充赖氨酸（Lys）、蛋氨酸（Met）、苏氨酸（Thr）和色氨酸（Trp）这4种必需氨基酸，才不会影响生长肥育猪的生产性能和胴体性状[1-3]。本实验室前期工作表明，在低氮饲粮条件下， $7 5 { \\sim } 1 0 0 \\mathrm { k g }$ 的肥育猪获得最佳生长性能的标准回肠可消化苏氨酸",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（SID Thr）、标准回肠可消化含硫氨基酸（SID SAA）、标准回肠可消化色氨酸（SIDTrp）与标准回肠可消化赖氨酸（SIDLys）的比分别为0.67、0.63 和0.21[2]，高于NRC（2012）0.62、0.57和0.18 的推荐值。添加合成氨基酸增加饲料成本，因此，本研究以生长性能、胴体性状和肉品质为综合评判指标，探讨在商业条件下将低氮饲粮中的SID Thr、SID SAA、SID Trp 与 SID Lys 的比例在前期工作基础上降低 $10 \\%$ ，大致降至NRC（2012）的推荐水平，为低蛋白质饲粮的实际应用提供更多的技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物及饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因素完全随机试验设计，选用平均初始体重为（ $6 9 . 3 { \\pm } 3 . 6 \\$ ） $\\mathrm { k g }$ 的杜 $\\mathbf { \\nabla } _ { \\times }$ 长 $\\times$ 大去势公猪125 头，按体重相近和遗传基础相似的原则分为5个组，每组5个重复，每个重复5头猪。5个组分别为：1）高蛋白质饲粮（high protein，HP）组，粗蛋白质水平约 $14 \\%$ ；2）低蛋白质-氨基酸平衡饲粮（low protein-balanced amino acids，LP-BAA）组，粗蛋白质水平约 $10 \\%$ ，SID Thr、SID SAA 和SIDTrp与SIDLys之比分别为0.67、0.60和0.20;3)低蛋白质-低含硫氨基酸饲粮（lowprotein-sulfur amino acids，LP-SAA）组，SID SAA 水平比LP-BAA 组降低 $10 \\%$ ，其他不变；4)低蛋白质-低苏氨酸饲粮（low protein-threonine,LP-Thr)组，SID Thr水平比LP-BAA 组降低 $10 \\%$ 其他不变;5)低蛋白质-低色氨酸饲粮(low protein-tryptophan,LP-Trp)组,SID Trp 水平比LP-BAA组降低 $10 \\%$ ，其他不变。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮以玉米-豆粕型饲粮配方为基础，通过添加合成氨基酸，使饲粮中氨基酸的比例接近理想蛋白质模型。所有饲粮的 SIDLys 水平设置为 $0 . 7 1 \\%$ 。试验开始前测定饲粮中所用玉米、豆粕和小麦麸等主要原料的氨基酸和粗蛋白质含量。试验饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e98d70699f0cd33ecdc092021790373864b2264ebe971b5b3c7fcae95e6e035c.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平 (饲喂基础)",
+            "Table1 Composition and nutrient levels of experimental diets (as-fed basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">组别 Groups</td></tr><tr><td>HP</td><td>LP-BAA</td><td>LP-SAA</td><td>LP-Thr</td><td>LP-Trp</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>75.00</td><td>79.50</td><td>79.55</td><td>79.55</td><td>79.53</td></tr><tr><td>小麦麸 Wheat bran</td><td>5.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>豆粕 Soybean meal</td><td>17.50</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>石粉 Limestone</td><td>0.90</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.20</td><td>0.59</td><td>0.59</td><td>0.59</td><td>0.59</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td></td><td>0.09</td><td>0.04</td><td>0.09</td><td>0.09</td></tr><tr><td>L-苏氨酸 L-Thr</td><td></td><td>0.20</td><td>0.20</td><td>0.15</td><td>0.20</td></tr><tr><td>L-色氨酸 L-Trp</td><td></td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/19ae897f2e08677a89b8768f8469ce2bd56559ab00e4e35c1af4816237b1c56f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">L-异亮氨酸L-Ile</td><td>0.12</td><td>0.12</td><td>0.12</td><td>0.12</td></tr><tr><td>L-氨酸 L-Val</td><td></td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td></tr><tr><td>预混料 Premix1)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td colspan=\"6\">营养水平 Nutrient levels</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>15.15</td><td>15.15</td><td>15.03</td><td>15.07</td><td>15.11</td></tr><tr><td>粗蛋白质CP</td><td>13.88</td><td>10.38</td><td>10.30</td><td>10.11</td><td>9.99</td></tr><tr><td>钙Ca</td><td>0.48</td><td>0.51</td><td>0.53</td><td>0.44</td><td>0.48</td></tr><tr><td>总磷TP</td><td>0.41</td><td>0.44</td><td>0.46</td><td>0.43</td><td>0.40</td></tr><tr><td>异亮氨酸Ile</td><td>0.52</td><td>0.45</td><td>0.45</td><td>0.43</td><td>0.43</td></tr><tr><td>赖氨酸Lys</td><td>0.82</td><td>0.80</td><td>0.79</td><td>0.80</td><td>0.78</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.56</td><td>0.50</td><td>0.44</td><td>0.49</td><td>0.48</td></tr><tr><td>苏氨酸 Thr</td><td>0.56</td><td>0.54</td><td>0.55</td><td>0.49</td><td>0.53</td></tr><tr><td>色氨酸Trp</td><td>0.16</td><td>0.16</td><td>0.15</td><td>0.16</td><td>0.12</td></tr><tr><td>氨酸Val</td><td>0.56</td><td>0.50</td><td>0.44</td><td>0.49</td><td>0.48</td></tr><tr><td>组氨酸His</td><td>0.39</td><td>0.28</td><td>0.30</td><td>0.30</td><td>0.27</td></tr><tr><td>亮氨酸 Leu</td><td>1.19</td><td>0.93</td><td>0.94</td><td>0.91</td><td>0.89</td></tr><tr><td>精氨酸Arg</td><td>0.82</td><td>0.47</td><td>0.52</td><td>0.50</td><td>0.48</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.67</td><td>0.47</td><td>0.48</td><td>0.45</td><td>0.47</td></tr><tr><td colspan=\"6\">计算值 Calculated values2)</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.65</td><td>13.19</td><td>13.19</td><td>13.19</td><td>13.19</td></tr><tr><td>净能 NE/(MJ/kg)</td><td>10.05</td><td>10.05</td><td>10.05</td><td>10.05</td><td>10.05</td></tr><tr><td colspan=\"6\">标准回肠可消化氨基酸 Standard ileal digestible amino acids3)</td></tr><tr><td>赖氨酸Lys</td><td>0.71</td><td>0.71</td><td>0.71</td><td>0.71</td><td>0.71</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.43</td><td>0.43</td><td>0.38</td><td>0.43</td><td>0.43</td></tr><tr><td>苏氨酸 Thr</td><td>0.47</td><td>0.47</td><td>0.47</td><td>0.42</td><td>0.47</td></tr><tr><td>色氨酸Trp</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.12</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the flowing per kg of diets:VA7 200IU，VD1 400 IU，VE 20 IU， $\\mathrm { V K } _ { 3 } 0 . 5 \\mathrm { m g }$ ，硫胺素 thiamine $1 . 6 \\mathrm { m g }$ ，吡哆醇 pyridoxol2 mg， $\\mathrm { V B } _ { 1 2 } 2 4 . 0 \\mu \\mathrm { g }$ ，核黄素riboflavin $4 . 0 \\mathrm { m g }$ ，泛酸 pantothenic acid $1 2 . 0 \\mathrm { m g }$ ，烟酸 nicotinic acid $2 4 . 0 \\mathrm { m g }$ ，叶酸 folic acid $0 . 8 ~ \\mathrm { m g }$ ，氯化胆碱 choline chloride $4 0 0 ~ \\mathrm { { m g } }$ ， Fe (as ferrous sulfate) $1 2 0 ~ \\mathrm { m g }$ ，Cu (as copper sulfate) $7 5 ~ \\mathrm { m g }$ ， $Z \\mathrm { n }$ (as zinc sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ，Mn (as manganese sulfate) 40 mg，I(as potassium iodide) $0 . 3 ~ \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)饲粮消化能和净能分别参考中国饲料原料数据库（中国农业科学院，2009）和法国INRA数据库（INRA， 2004）计算。DEand NEofthe diet were calculated using energy values for the ingredients obtained from the China Feed Bank (China Academy of Agricultural Sciences, 2009) and France INRA (INRA,2004), respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)标准回肠可消化氨基酸通过原料氨基酸含量和赢创德固赛氨基酸标准回肠消化率系数计算而得。Standard ileal digestible amino acids were estimated byaminoacid contents in the ingredientsand calculated bythe coefficientof the amino acid standard ileal digestibility provided by Evonik Degussa GmbH. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲养管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验在北京资源亚太食品有限公司种猪场进行。采用全封闭式猪舍饲养，猪舍内人工控温控湿，温度保持在 $2 0 \\mathrm { ~ \\textdegree C }$ 左右。每个猪舍配备1个单侧5孔的料槽和2个饮水器。试验猪以栏为单位，随机分配到5个栏 $( 4 \\mathrm { m } \\times 3 \\mathrm { m } )$ 内饲养，自由采食和饮水。每天饲喂3次，分别为07:00、14:00和21:00。每次喂料以吃饱后略有余料为准，并根据采食情况，每2\\~3d按舍调整给料量。试验期间以栏为单位准确测定和记录每天饲料喂量和剩余料量。试验开始和试验结束时，试验猪空腹12h后以栏为单位称重。每周采集饲粮样品1次，每次约 $2 5 0 ~ \\mathrm { g }$ ，混合后用于后续检测分析。饲养试验期间，日清圈2次，并按常规管理方法做好消毒、驱虫工作。每隔1周对圈舍周围消毒。整个试验过程严格按照猪场饲养管理制度和中国农业大学动物福利相关标准执行。试验期为28d。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期结束时，试验猪禁食 $1 2 \\mathrm { h }$ ，每栏挑选最接近该栏平均体重的肥育猪1头，每组共5头，共计25 头，于北京资源亚太食品有限公司进行屠宰。屠宰前试验猪前腔静脉采血，静置 $0 . 5 \\mathrm { h }$ 后在 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $3 \\ : 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，取血清，置于一20℃冷冻，用于后续分析。所有生猪电击致晕，然后放血，按常规屠宰法去头、蹄，剥皮，开膛。取样品测定胴体性状和肉品质。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 饲粮营养组分测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮中干物质、粗蛋白质、淀粉、粗脂肪、粗纤维、钙和总磷含量参照GB/T6435—1986、 GB/T 6432—1994、SN/T0800.5—1999、GB/T 6433—1994，GB/T 6434—1994、GB/T 6436—2002 和GB/T6437—2002推荐的方法测定。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮样品在 $1 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下使用 $6 \\mathrm { m o l / L }$ 盐酸水解 $2 4 \\mathrm { h }$ 后，使用氨基酸自动分析仪（日立L-8800,日本）测定15种氨基酸含量；在0℃下使用甲酸氧化 $1 6 \\mathrm { h }$ 后经盐酸水解 $2 4 \\mathrm { h }$ ，用氨基酸自动分析仪测定含硫氨基酸（SAA）含量；用 $4 \\mathrm { m o l / L }$ 氢氧化钠在 $1 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下水解 $2 2 \\mathrm { h }$ 后，使用高效液相色谱仪（岛津LC-10A，日本）测定Trp 含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 血清游离氨基酸含量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用芘三酮柱后衍生法原理，应用氨基酸分析仪锂柱系统（S-433DAmino Acid Analyzer，Sykam,德国）测定。取 $0 . 5 ~ \\mathrm { m L }$ 血清于 $2 . 5 ~ \\mathrm { m L }$ 试管中，加入 $1 . 5 ~ \\mathrm { m L }$ （3倍血清体积） $4 \\%$ 磺基水杨酸，充分振荡摇匀，冰浴 $2 0 \\mathrm { m i n }$ 。加入 $0 . 1 7 5 \\mathrm { m L } 2 \\mathrm { m o l / L }$ 氢氧化锂，再次充分振荡摇匀后，吸取$2 \\mathrm { m L }$ 入高速离心机专用离心管中，配平后于 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下 $1 1 0 0 0 ^ { \\times } g$ 离心 $3 0 \\mathrm { m i n }$ ，取上清液过 $0 . 1 ~ { \\mu \\mathrm { m } }$ 滤膜后上机，通过锂离子交换色谱柱并与芘三酮 $1 3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下进行衍生反应，测定血清游离氨基酸含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 生长性能测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于每个试验开始和结束时早晨空腹个体称重，以重复为单位记录耗料量，计算平均日增重（average daily gain,ADG）、平均日采食量（average daily fed intake,ADFI）和饲料转化效率（feedconversion efficiency,FCR）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 胴体性状和肉品质测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "胴体性状指标测量及计算方法参照种猪生产性能测定规程（NY/T822-2004)。肉品质测定参照罗燕红等[4]的方法进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有数据以重复为统计单位，采用SAS（2001）统计软件中GLM模型进行方差分析和SNK进行多重比较，采用LSMEANS计算平均值。HP组与LP-BAA组之间以及各低蛋白质氨基酸平衡性饲粮组之间的生长性能、血清游离氨基酸含量采用Contrast进行两两比较。胴体性状和肉品质采用SNK进行多重比较。各组之间显著性和趋势性判定水平分别为 $P { \\leq } 0 . 0 5$ 和 $0 . 0 5 { < } P { < } 0 . 1 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能的影响见表2。试验第 $1 { \\sim } 1 4$ 天，LP-BAA组与HP组之间，肥育猪的ADG、ADFI和FCR均无显著差异（ $. P { > } 0 . 0 5 )$ ，但HP组肥育猪的ADFI有下降的趋势（ $\\scriptstyle \\cdot { \\cal P } = 0 . 0 6$ )。与LP-BAA组相比，LP-Trp组肥育猪的ADG和ADFI均显著下降（ $_ { , P < 0 . 0 5 ) }$ ，LP-SAA组肥育猪的ADG有下降的趋势（ $\\scriptstyle P = 0 . 0 9$ )，LP-Thr组肥育猪的ADG和ADFI差异均不显著$( P { > } 0 . 1 0 )$ 。试验第 $1 5 { \\sim } 2 8$ 天，与LP-BAA组相比，HP组肥育猪的ADG有下降的趋势（ $P { = } 0 . 0 8 )$ ，LP-Trp组肥育猪的ADG和ADFI均显著下降（ $( P { < } 0 . 0 5 )$ )，LP-Thr组和LP-SAA组肥育猪的生长性能均无显著差异 ${ \\it P } { > } 0 . 1 0 )$ 。试验全期，HP组较LP-BAA组肥育猪的ADFI有下降的趋势（ $\\scriptstyle \\cdot { \\cal P } = 0 . 0 5 )$ ，ADG和FCR与试验第14\\~28天的结果相似。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮粗蛋白质水平和氨基酸平衡性对肥育猪胴体性状和肉品质的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质水平和氨基酸平衡性对肥育猪胴体性状和肉质的影响见表3。氨基酸平衡性对肥育猪胴体性状（屠宰率、第十肋背膘厚和眼肌面积）和肉品质（ $\\mathrm { \\Phi _ { \\cdot } ^ { p H } }$ 、肌肉色度和滴水损失）均无显著影响（ ${ \\it P } { > } 0 . 1 0 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮粗蛋白质水平和氨基酸平衡性对肥育猪血清游离氨基酸含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质水平和氨基酸平衡性对肥育猪血清游离氨基酸含量的影响见表4。与LP-BAA组相比，HP组肥育猪血清游离苯丙氨酸（Phe）含量显著升高（ $( P { < } 0 . 0 5 )$ ，血清游离异亮氨酸（Ile）和氨酸(Val)含量有提高的趋势（ $( P { < } 0 . 1 0 )$ ，血清游离Lys含量有下降的趋势 $( P { < } 0 . 1 0 )$ 。与LP-BAA组相比，LP-SAA组和LP-Trp组肥育猪血清相应的游离氨基酸含量有下降的趋势（ $( P { < } 0 . 1 0 )$ ，LP-Trp组肥育猪血清部分游离必需氨基酸（Ile和Met）和非必需氨基酸[（丙氨酸（Ala）、天冬氨酸（Asp）和谷氨酸（Glu）]含量有升高的趋势（ $( P { < } 0 . 1 0 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7255f352eaff92d2025402d82a77195557393b8b4fa464abbae938716443d1e.jpg",
+        "table_caption": [
+            "表2饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能的影响",
+            "Table 2Effects of dietary crude protein level and amino acid balance on growth performance of finishing pigs ",
+            "表3饲粮粗蛋白质水平和氨基酸平衡性对肥育猪胴体性状和肉品质的影响",
+            "Table 3Efects of dietarycrude protein level and amino acid balanceoncarcass traits and meat quality offinishing pigs "
+        ],
+        "table_footnote": [
+            "同行数据肩注不同小写字母表示差异显著（ $\\scriptstyle \\cdot < 0 . 0 5 ,$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference ( $\\scriptstyle ( P < 0 . 0 5$ ). The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">组别Groups</td><td rowspan=\"2\">SEM</td><td colspan=\"5\">P值 P-value</td></tr><tr><td>HP</td><td>LP-BAA</td><td>LP-SAA</td><td>LP-Thr</td><td>LP-Trp</td><td>ANOVA</td><td>LP-BAAYS</td><td>LP-BAA</td><td>L.BAP</td><td>LP-BA</td></tr><tr><td>始重 Initial BW/kg</td><td>70.2</td><td>67.7</td><td>69.1</td><td>69.6</td><td>70.1</td><td>1.73</td><td>0.85</td><td>0.57</td><td>0.45</td><td>0.35</td><td>0.32</td></tr><tr><td>末重 Finial BW/kg</td><td>91.7</td><td>90.9</td><td>90.6</td><td>92.2</td><td>89.0</td><td>1.82</td><td>0.77</td><td>0.91</td><td>0.62</td><td>0.46</td><td>0.78</td></tr><tr><td>第1~14天 From l to 14 days</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/kg</td><td>0.75ab</td><td>0.80a</td><td>0.73ab</td><td>0.78a</td><td>0.65b</td><td>0.03</td><td>0.02</td><td>0.09</td><td>0.67</td><td><0.01</td><td>0.20</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.13ab</td><td>2.39a</td><td>2.21ab</td><td>2.37a</td><td>2.01b</td><td>0.09</td><td>0.04</td><td>0.20</td><td>0.88</td><td><0.01</td><td>0.06</td></tr><tr><td>饲料转化效率 FCR</td><td>0.35</td><td>0.34</td><td>0.33</td><td>0.33</td><td>0.32</td><td>0.01</td><td>0.45</td><td>0.59</td><td>0.66</td><td>0.40</td><td>0.36</td></tr><tr><td>第15~28天 From 15 to 28 days</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/kg</td><td>0.79a</td><td>0.86a</td><td>0.81a</td><td>0.83a</td><td>0.70b</td><td>0.03</td><td><0.01</td><td>0.22</td><td>0.49</td><td><0.01</td><td>0.08</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.45ab</td><td>2.65a</td><td>2.70a</td><td>2.69a</td><td>2.32b</td><td>0.09</td><td>0.02</td><td>0.67</td><td>0.70</td><td>0.01</td><td>0.12</td></tr><tr><td>饲料转化效率 FCR</td><td>0.32</td><td>0.32</td><td>0.30</td><td>0.31</td><td>0.30</td><td>0.01</td><td>0.26</td><td>0.11</td><td>0.28</td><td>0.11</td><td>0.99</td></tr><tr><td>第1~28天 From l to 28 days</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/kg</td><td>0.77a</td><td>0.83a</td><td>0.77a</td><td>0.80a</td><td>0.68b</td><td>0.03</td><td><0.01</td><td>0.11</td><td>0.55</td><td><0.01</td><td>0.10</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.29ab</td><td>2.52a</td><td>2.45a</td><td>2.53a</td><td>2.16b</td><td>0.08</td><td>0.01</td><td>0.55</td><td>0.90</td><td><0.01</td><td>0.05</td></tr><tr><td>饲料转化效率 FCR</td><td>0.34</td><td>0.33</td><td>0.31</td><td>0.32</td><td>0.31</td><td>0.01</td><td>0.26</td><td>0.20</td><td>0.38</td><td>0.16</td><td>0.62</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c16ad942ff573ee0b2ba3401bac224c0904e41c66f2f305a78d2111b7ba0cae.jpg",
+        "table_caption": [
+            "表4饲粮粗蛋白质水平和氨基酸平衡对肥育猪血清游离氨基酸含量的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>HP</td><td>LP-BAA</td><td>LP-SAA</td><td>LP-Thr</td><td>LP-Trp</td><td></td><td></td></tr><tr><td>胴体性状 Carcass traits</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>活体重 Live weight/kg</td><td>100.5</td><td>101.9</td><td>102.8</td><td>103.6</td><td>101.4</td><td>0.91</td><td>2.42</td></tr><tr><td>热胴体重 Hot carcass weight/kg</td><td>70.5</td><td>72.9</td><td>73.0</td><td>74.2</td><td>72.6</td><td>0.74</td><td>1.94</td></tr><tr><td>体长 Body length/cm</td><td>101.3</td><td>101.6</td><td>98.8</td><td>101.7</td><td>101.6</td><td>0.53</td><td>1.37</td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>70.1</td><td>71.5</td><td>71.0</td><td>71.7</td><td>71.6</td><td>0.35</td><td>0.60</td></tr><tr><td>第十肋背膘厚 The tenth rib back-fat depth/mm</td><td>22.8</td><td>22.4</td><td>25.4</td><td>25.0</td><td>24.0</td><td>0.39</td><td>1.26</td></tr><tr><td>眼肌面积 Loin eye area/cm²</td><td>43.1</td><td>41.6</td><td>39.4</td><td>40.1</td><td>42.5</td><td>0.56</td><td>1.80</td></tr><tr><td>肉品质 Meat quality</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH45 min</td><td>6.28</td><td>6.02</td><td>6.10</td><td>6.32</td><td>6.09</td><td>0.68</td><td>0.17</td></tr><tr><td>pH24 h</td><td>5.47</td><td>5.43</td><td>5.44</td><td>5.38</td><td>5.38</td><td>0.57</td><td>0.04</td></tr><tr><td>亮度L*</td><td>43.9</td><td>43.4</td><td>43.2</td><td>43.9</td><td>43.0</td><td>0.96</td><td>1.07</td></tr><tr><td>红色a*</td><td>6.3</td><td>6.5</td><td>7.0</td><td>5.6</td><td>6.0</td><td>0.54</td><td>0.58</td></tr><tr><td>黄度b*</td><td>1.2</td><td>0.8</td><td>0.8</td><td>1.2</td><td>1.3</td><td>0.54</td><td>0.24</td></tr><tr><td>滴水损失 Drip loss/%</td><td>3.62</td><td>4.40</td><td>4.44</td><td>4.17</td><td>4.27</td><td>0.81</td><td>0.54</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a39ce43f2859ad20cf8d7d5ef3f401b07dbd56926dad84e282df835ea804734a.jpg",
+        "table_caption": [
+            "Table 4Efects of dietary crude protein level and amino acid balance on serum free amino acids offinishing pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">组别Groups</td><td rowspan=\"2\">SEM</td><td colspan=\"5\">P值 P-value</td></tr><tr><td>HP</td><td>LP-BAA</td><td>LP-SAA</td><td>LP-Thr</td><td>LP-Trp</td><td>ANOVA</td><td>LP-BAA vs. LP-SAA</td><td>LP-BAA</td><td>LP-BAA</td><td>LP-BAA</td></tr><tr><td>必需氨基酸 Essential amino acids</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>vs. LP-Thr</td><td>vs. LP-Trp</td><td>VS. HP</td></tr><tr><td>精氨酸Arg</td><td>230.4</td><td>182.4</td><td>220.6</td><td>229.9</td><td>191.1</td><td>27.5</td><td>0.62</td><td>0.33</td><td>0.24</td><td>0.83</td><td>0.23</td></tr><tr><td>组氨酸 His</td><td>132.3</td><td>150.0</td><td>139.0</td><td>161.8</td><td>152.1</td><td>15.7</td><td>0.71</td><td>0.64</td><td>0.60</td><td>0.93</td><td>0.63</td></tr><tr><td>异亮氨酸 Ile</td><td>171.3a</td><td>147.0ab</td><td>127.8b</td><td>133.2b</td><td>179.1a</td><td>10.2</td><td><0.01</td><td>0.18</td><td>0.33</td><td>0.02</td><td>0.08</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2150778d2508114e7ccbe85ba8d8b0b0397d981104cb2f386143cebaf8cfa835.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>亮氨酸 Leu</td><td>351.1</td><td>337.0</td><td>340.7</td><td>344.7</td><td>394.5</td><td>28.7</td><td>0.53</td><td>0.92</td><td>0.83</td><td>0.13</td><td>0.70</td></tr><tr><td>赖氨酸Lys</td><td>413.4</td><td>610.9</td><td>584.4</td><td>639.4</td><td>696.5</td><td>71.6</td><td>0.10</td><td>0.80</td><td>0.78</td><td>0.41</td><td>0.07</td></tr><tr><td>蛋氨酸 Met</td><td>71.5b</td><td>85.5b</td><td>65.0b</td><td>83.2b</td><td>120.1a</td><td>8.7</td><td><0.01</td><td>0.09</td><td>0.83</td><td><0.01</td><td>0.22</td></tr><tr><td>苯丙氨酸 Phe</td><td>169.2a</td><td>111.9b</td><td>110.3b</td><td>105.8b</td><td>129.8b</td><td>14.5</td><td>0.02</td><td>0.93</td><td>0.74</td><td>0.34</td><td><0.01</td></tr><tr><td>苏氨酸Thr</td><td>202.8b</td><td>275.8ab</td><td>304.6ab</td><td>200.2b</td><td>328.6a</td><td>36.1</td><td>0.06</td><td>0.58</td><td>0.15</td><td></td><td></td></tr><tr><td>色氨酸Trp</td><td>68.0</td><td>62.5</td><td>59.9</td><td>63.8</td><td>44.8</td><td>7.3</td><td></td><td></td><td></td><td>0.31</td><td>0.17</td></tr><tr><td>缬氨酸Val</td><td>408.3</td><td>306.9</td><td>294.6</td><td>302.2</td><td>337.6</td><td>35.1</td><td>0.19</td><td>0.79</td><td>0.89</td><td>0.07</td><td>0.58</td></tr><tr><td colspan=\"2\">非必需氨基酸 Non-essential amino acids</td><td></td><td></td><td></td><td></td><td></td><td>0.11</td><td>0.80</td><td>0.91</td><td>0.50</td><td>0.03</td></tr><tr><td>丙氨酸 Ala</td><td>667.6b</td><td>881.9ab</td><td>930.0ab</td><td>967.5ab</td><td>1202.6a</td><td>108.2</td><td>0.02</td><td>0.74</td><td>0.54</td><td>0.03</td><td>0.13</td></tr><tr><td>天冬氨酸 Asp</td><td>26.2</td><td>30.9</td><td>30.6</td><td>32.4</td><td>39.4</td><td>3.8</td><td>0.18</td><td>0.95</td><td>0.78</td><td>0.09</td><td>0.37</td></tr><tr><td>半胱氨酸 Cys</td><td>33.6</td><td>31.4</td><td>25.2</td><td>29.4</td><td>36.5</td><td>5.8</td><td>0.75</td><td>0.49</td><td>0.81</td><td></td><td>0.78</td></tr><tr><td>谷氨酸Glu</td><td>467.4</td><td>532.2</td><td>620.0</td><td>596.9</td><td>705.0</td><td>66.4</td><td>0.16</td><td>0.36</td><td>0.50</td><td>0.54 0.08</td><td></td></tr><tr><td>甘氨酸 Gly</td><td>1 700.2</td><td>2 060.7</td><td>2 253.2</td><td>2 405.8</td><td>2 335.0</td><td>234.4</td><td>0.17</td><td>0.55</td><td>0.26</td><td>0.37</td><td>0.50 0.24</td></tr><tr><td>脯氨酸 Pro</td><td>407.2</td><td>487.1</td><td>506.4</td><td>484.5</td><td>554.9</td><td>49.7</td><td>0.36</td><td>0.79</td><td>0.97</td><td>0.35</td><td>0.27</td></tr><tr><td>丝氨酸 Ser</td><td>209.9</td><td>250.0</td><td>260.7</td><td>272.1</td><td>256.6</td><td>28.1</td><td>0.59</td><td>0.79</td><td>0.58</td><td>0.87</td><td>0.33</td></tr><tr><td>酪氨酸 Tyr</td><td>181.2</td><td>150.9</td><td>132.6</td><td>130.2</td><td>155.0</td><td>19.6</td><td>0.30</td><td>0.50</td><td>0.42</td><td>0.87</td><td>0.24</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮粗蛋白质水平和氨基酸平衡性对肥育猪生长性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来，有大量的研究表明将饲粮粗蛋白质水平降低4百分点以内，并按照其需要量或理想氨基酸模型补足合成氨基酸，不会影响生长肥育猪的生长性能[5-7]。本试验结果表明，与HP组相比，将饲粮粗蛋白质降低约4百分点时不影响肥育猪的ADG和FCR，这一结论与以上研究相吻合。不同的是，与LP-BAA组相比，本试验中饲喂HP组饲粮时，肥育猪前期和全期的ADFI均有下降的趋势，从而使其ADG在数字上表现出下降。同样地，在先前的研究报道中，饲粮粗蛋白质水平对ADFI的影响也不一致。Cui等[8]研究发现，饲喂低蛋白质（ $1 1 . 2 \\%$ ）-氨基酸平衡饲粮的肥育猪的ADFI比对照组降低 $5 . 4 8 \\%$ ，且差异显著；相反，Atakora等[9]研究表明，将饲粮粗蛋白质水平由 $1 9 \\%$ 降至 $12 \\%$ 时，肥育猪的体重和ADFI显著上升；也有研究表明，饲粮粗蛋白质水平对肥育猪ADFI无显著影响[10]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，饲粮粗蛋白质水平对肥育猪采食量的影响不大。但是降低饲粮Trp水平会显著降低肥育猪ADFI，进而降低其ADG。LeFloc'h[1l报道，低蛋白质饲粮中Trp和Val的不平衡将显著降低猪的ADFI。本试验还发现，不同氨基酸的缺乏（降低 $10 \\%$ ）对肥育猪生长性能影响程度不同，其中，Trp通过抑制采食显著降低了肥育猪的ADG，SAA的缺乏仅影响了前期的增重，而LP-Thr组肥育猪的生长性能并没有表现出下降的趋势。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮粗蛋白质水平和氨基酸平衡性对肥育猪胴体性状和肉品质的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "用低蛋白质饲粮饲喂肥育猪是否使其胴体变肥迄今为止仍有争议。易学武[研究发现，当饲粮净能水平从 $1 0 . 2 6 \\mathrm { M J / k g }$ 降低到 $1 0 . 0 5 \\mathrm { M J / k g }$ 时，肥育猪的第十肋背膘厚显著降低，推测这可能是因为低蛋白质饲粮仍存在氨基酸的缺陷，从而使蛋白质沉积下降；而胴体脂肪含量的提高则有可能是因为饲粮净能较高所致。其同时推荐在LP-BAA组饲粮条件下，肥育猪饲粮净能水平和Lys与净能比分别为 $1 0 . 0 5 \\mathrm { M J / k g }$ 和 $0 . 8 4 \\ : \\mathrm { g / M J }$ 。与此相反，Madrid等[12]用比正常粗蛋白质水平低 $10 \\%$ 的低蛋白质饲粮饲喂肥育猪，发现其背膘厚显著上升；这一结论与Cui等的结果相似，其发现与饲喂正常粗蛋白质水平饲粮组的肥育猪相比，饲喂低蛋白质饲粮组的肥育猪屠宰率低，脂肪厚度显著升高。Kerr等[13]研究报道，高净能组与中净能组和低净能组之间肥育猪的脂肪含量无显著差异;但饲喂低蛋白质饲粮的肥育猪，高净能组比中净能组和低净能组的脂肪含量高出近2百分点（分别为 $3 3 . 1 6 \\%$ 、 $3 1 . 0 5 \\%$ 和 $3 1 . 4 8 \\%$ )。也有研究表明，降低饲粮粗蛋白质水平对肥育猪胴体脂肪含量影响有限，低蛋白质饲粮中 $\\mathrm { T h r } ^ { [ 1 4 ] }$ 和Trp[15]与赖氨酸的平衡性对肥育猪的胴体脂肪含量无显著影响。本试验的结论表明，LP-BAA组和HP组之间、以及氨基酸平衡组与各不平衡组之间肥育猪的第十肋背膘厚度差异不显著。因此，胴体脂肪沉积可能主要与能量有关，与氨基酸平衡性无显著相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "滴水损失和肉色也是低蛋白质饲粮在实际应用中人们普遍关心的问题。Ruusunen等[1研究发现，饲喂低蛋白质饲粮时，肥育猪背最长肌 ${ \\cdot } \\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 较低，滴水损失较高，而 $\\mathrm { p H } _ { 2 4 \\mathrm { ~ f ~ } }$ 差异不显著，并推测背最长肌的滴水损失与 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 存在一定的相关性。同样地，Zhang等[17]研究发现，饲喂低蛋白质饲粮时，肥育猪背最长肌的滴水损失显著高于正常蛋白质饲粮组，但是 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 和 $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 均差异不显著。作为肉质的重要评价指标， $\\mathfrak { p H } _ { 2 4 \\mathrm { h } }$ 仅能解释 $4 \\%$ 的猪肉系水力的变异，但是 $2 \\mathrm { h }$ 内的pH能较准确地预测其滴水损失[18]。在本试验的各个组中， $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 、 $\\mathfrak { p H } _ { 2 4 \\mathrm { h } }$ 和滴水损失尽管在数值上表现出了一定的差异，但是并不显著。迄今为止，关于氨基酸平衡性对肥育猪的肉色和滴水损失的报道并不多，饲粮中氨基酸的比例对肉品质的影响还需进一步深入研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮粗蛋白质水平和氨基酸平衡性对肥育猪血清游离氨基酸含量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "血清游离氨基酸作为氨基酸代谢的常用指标，可以反映饲粮氨基酸组成和机体内氨基酸代谢的关系。一般来说，采食后2.5h的血清游离氨基酸含量可以反映饲粮中氨基酸的吸收情况，采食后8 h的血清游离氨基酸含量可以在一定程度反映机体氨基酸的代谢状况[19-20]。本试验中，禁食12h后，与LP-BAA组相比，HP组肥育猪的血清游离Ile和Val含量升高，这一现象恰恰反映了高蛋白质饲粮中这2个必需氨基酸含量较高（高于低蛋白质饲粮组约 $20 \\%$ )。与LP-BAA组相比，LP-Trp组大多数的血清游离必需氨基酸含量均高于其他低蛋白质饲粮组，这一结果充分表明了饲粮中Trp的限制性，即Trp不能满足机体蛋白质合成的需要，以至于造成其余必需氨基酸在血液中的累积。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 在高蛋白质水平（ $14 \\%$ ）的基础上，将饲粮粗蛋白质水平降低4百分点并按照其需要量补充合成氨基酸，对 $7 0 { \\sim } 1 0 0 \\mathrm { k g }$ 肥育猪的生长性能、胴体性状和肉品质无显著影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 在低蛋白-氨基酸平衡模模型基础上，分别降低 $10 \\%$ 的 SID SAA、SID Thr 和 SID Trp 对肥育猪的生长性能影响不一，降低 $10 \\%$ 的 Trp 显著降低肥育猪的ADFI和ADG，但对胴体性状和肉品质无显著影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]易学武.生长育肥猪低蛋白日粮净能需要量的研究[D].博士学位论文.北京:中国农业大 学,2009:60-62.   \n[2]张桂杰.生长猪色氨酸、苏氨酸及含硫氨基酸与赖氨酸最佳比例的研究[D].博士学位论文.北京: 中国农业大学,2011:72-73.   \n[3]BUNGER L,LAMBE N R,MCLEAN K,et al.Efects of low protein diets on performance of pigs with a lean genotypebetween 40and115kglive weight[J].Animal Production Science,2015,55(4):461-466.   \n[4]罗燕红,张鑫,覃春富,等.饲粮异亮氨酸水平对肥育猪生长性能、胴体性状和肉品质的影响[J]. 动物营养学报,2017,29(6):1884-1894.   \n[5] HONG JS,LEE G I,JIN X H,et al.Effect of dietary energy levels and phase feeding by protein levels ongrowth performance,blood profilesand carcasscharacteristicsin growing-finishing pigs[J].Journal of Animal Science and Technology,2016,58:37.   \n[6] UPADHAYA S D,YUN H M,KIM I H.Influence of low or high density corn and soybean meal-baseddietsandproteasesupplementationongrowthperformance,apparent digestibility,blood characteristics and noxious gas emisson of finishing pigs[J].Animal Feed and Science Technology,2016,216:281-287.   \n[7]白晓鹭,孙会,曹克飞,等.不同蛋白源低蛋白日粮对肥育猪生长性能、氮平衡及小肠氨基酸消化 规律的影响[J].中国畜牧杂志,2017,53(4):98-102.   \n[8]CUI JJ,ZHANG H L,ZHANG D,et al.Effects of low protein diets supplemented with amino acids on production performance,carcass quality and input-output ratio of pigs[J].Animal Husbandry & Feed Science,2017,9(1):7-11.   \n[9] ATAKORA J K A,MOEHN S,BALL R O.Enteric methane produced by finisher pigs is affected by dietary crude protein content of barley grain based,but not by corn based,diets[J].Animal Feed Science and Technology,2011,166-167:412-421.   \n[10]MOLIST F,PIJLMAN J,VAN DER AAR P J,et al.Effect of low crude protein diets on growth performanceand carcasscharacteristicsofgrower-finisherpigs[J].Journal of Animal Science,2016,94:226-229.   \n[11] LE FLOC'H N,GONDRET F,MATTE JJ,et al.Towards amino acid recommendations for specific physiologicalandpatho-physiologicalstatesinpigs[J].ProceedingsoftheNutrition Society,2012,71(3):425-432.   \n[12] MADRID J,MART NEZ S,L PEZ C,et al.Effects of low protein dietson growth performance,carcasstraits and ammonia emission of barrows and gilts[J].Animal Production Science,2013,53(2):146-153.   \n[13]KERR B J,SOUTHERN L L,BIDNER T D,et al.Influence of dietary protein level,amino acid supplementation,and dietary energy levels on growing-finishing pig performance and carcass composition[J].Journal of Animal Science,2003,81(12):3075-3087.   \n[14]PLITZNER C,ETTLE T,HANDL S,et al.Effects of different dietary threonine levels on growth andslaughterperformanceinfinishingpigs[J].CzechJournalofAnimal Science,2007,52(12):447-455.   \n[15]KENDALL D C,GAINES A M,KERR B J,et al.Trueileal digestible tryptophan to lysine ratios in ninety-to one hundredtwenty-five-kilogrambarrows[J].Journal of Animal Science,2007,85(11):3004-3012.   \n[16]RUUSUNEN M,PARTANEN K,P SR,et al.The effect of dietary protein supply on carcass composition,sizeoforgans,musclepropertiesandmeatqualityofpigs[J].Livestock Science,2007,107(2/3):170-181.   \n[17]ZHANG S H,CHUL C C,QIAO S Y,et al.Effects of dietary leucine supplementation in low crudeproteindietsonperformance,nitrogenbalance,wholebodyproteinturnover,carcass characteristics and meat quality of finishing pigs[J].Animal Science Journal,2016,87(7):911-920.   \n[18]GRASSI S,CASIRAGHI E,BENEDETTI S,et al.Efect of low-protein diets in heavy pigs on dry-cured ham quality characteristics[J].Meat Science,2017,131:152-157.   \n[19]YEN J T,KERR B J,EASTER R A,et al.Difference in rates of net portal absorption between crystalline and protein-bound lysine and threonine in growing pigs fed once daily[J].Journal of Animal Science,2004,82(4):1079-1090.   \n[20]LANGER S,FULLER M F.Interactions among the branched-chain amino acids and their effects on methionine utilization in growing pigs:effects on nitrogen retention and amino acid utilization[J].British JournalofNutrition,20o0,83(1):43-48. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Crude Protein Level and Amino Acid Balance om Growth Performance, Carcass Traits and Meat Quality of Finishing Pigs LI Ning XIE Chunyuan ZENG Xiangfang QIAO Shiyan\\* (State Key Laboratory of Animal Nutrition, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was conducted to investigate the effects of dietary crude protein level and amino acid balance on growth performance,carcass traits and meat quality of finishing pigs. A total of 125 Durco×LandracexLarge White barrows with initial body weight of $( 6 9 . 3 { \\pm } 3 . 6 \\$ ）kg were assigned into 5 groups with 5 replicates per group and each replicate had 5 borrows. The five groups were as follows, high protein diet group with about $14 \\%$ crude protein in diet,low protein with about $10 \\%$ crude protein-balanced amino acid diet group,and three low protein with about $10 \\%$ crude protein-unbalanced amino acid diet groups with the ratio of sulfur-containing amino acids,threonine and tryptophan to lysine $10 \\%$ lower compared with the low protein-balanced amino acid group,respectively. The standard ileal digestible lysine (SID Lys) levels of all diets were set at $0 . 7 1 \\%$ ， and the ratios of standard ileal digestible threonine (SID Thr),standard ileal digestible sulphur amino acid (SID SAA) and standard ileal digestible tryptophan (SID Trp) to SID Lys in the low protein-balanced amino acid group were 0.67, 0.60 and O.20,respectively.The experiment lasted for 28 days.The results showed that, compared with the low protein-balanced amino acid group,a tendency of decrease of the average daily feed intake was found in high protein diet group $( P { = } 0 . 0 5$ )，and significant decreases of the average daily gain and average daily feed intake were found in the low protein-tryptophan diet group $( P { < } 0 . 0 5 )$ ),while neither significant difference was found in the low protein-threonine group nor the low protein-sulphur amino acid diet group $( P > 0 . 1 0 )$ ).Dietary crude protein level and amino acid balance had no significant influence on the carcass traits and meat quality of finishing pigs $( P { > } 0 . 0 1 \\$ ). The results indicate that the low protein-balanced amino acid diet has no adverse effects on growth performance,carcass traits and meat quality of finishing pigs, and $10 \\%$ lower of SID SAA, SID Thr and SID Trp have no significant influence on the carcass traits and meat quality of finishing pigs, but $10 \\%$ lower of SID Trp significant decreases the average daily weight and average daily feed intake of finishing pigs. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: low protein diet; amino acid balance; growth performance; carcass traits; meat quality ",
+        "page_idx": 12
+    }
+]

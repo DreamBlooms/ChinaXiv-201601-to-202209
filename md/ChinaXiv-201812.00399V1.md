@@ -1,0 +1,148 @@
+李仲阳」　史怀平1\*罗　军」　刘成龙」李杰²
+
+（1.西北农林科技大学动物科技学院，杨凌 712100；2.千阳县种羊场，千阳 721100）摘要：本试验通过研究谷氨酸渣对奶山羊产奶量及乳成分的影响，探究谷氨酸渣在奶山羊精料补充料中的最适添加量，旨在丰富奶山羊饲料原料来源，降低饲料成本。本试验采取单因素随机区组设计，选择处于泌乳前期[泌乳天数：（20±5）d]、胎次相同、体重 $( 5 9 . 8 0 \pm 2 . 1 5 ) \$ kg、产奶性能相近的2胎健康萨能奶山羊40只，随机分为4组，每组10只。4组山羊所喂精料补充料营养水平基本相同，其中谷氨酸渣的添加量分别为0（对照组）、 $2 \%$ 、 $4 \%$ 和 $6 \%$ 。试验期共 $6 3 \mathrm { ~ d ~ }$ ，其中预试期7d，正试期 $5 6 \mathrm { d }$ 。结果显示：日均干物质采食量、产奶量、乳糖率、乳脂率各组之间差异不显著（ $. P { > } 0 . 0 5 \$ )。试验第35天时， $2 \%$ 谷氨酸渣组和 $4 \%$ 谷氨酸渣组乳蛋白率显著高于对照组和 $6 \%$ 谷氨酸渣组 $( P { < } 0 . 0 5 )$ ；试验第42天和第 56天时， $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组和对照组乳蛋白率显著高于 $6 \%$ 谷氨酸渣组 $( P { < } 0 . 0 5 )$ 。试验第56天时，与对照组相比，各试验组乳蛋白中 $\beta \mathrm { . }$ -乳球蛋白浓度和绝对产量均表现出上升趋势， $2 \%$ 谷氨酸渣组和 $4 \%$ 谷氨酸渣组乳蛋白中 $\beta$ -酪蛋白浓度和绝对产量表现出上升趋势， $6 \%$ 谷氨酸渣组乳蛋白中 $\beta$ -酪蛋白浓度和绝对产量则表现出降低趋势，但差异均不显著（ $. P { > } 0 . 0 5 )$ 。乳脂、乳糖、乳蛋白的日绝对产量各组之间差异不显著（ $. P { > } 0 . 0 5 \$ )。由此得出，谷氨酸渣可以作为奶山羊的饲料蛋白质原料，其在奶山羊精料补充料中的最适添加量为 $4 \%$ 0
+
+关键词：谷氨酸渣；奶山羊；产奶量；乳成分中图分类号：S816 文献标识码：A 文章编号：
+
+蛋白质是生命活动最重要的物质基础之一，在畜禽营养中占有特殊的地位[。作为动物机体最重要的组成物质之一，肌肉、皮肤、毛发、骨骼等的生长以及激素、酶的合成都离不
+
+收稿日期：2017-12-25
+
+基金项目：国家自然科学基金项目(31672398)；陕西省科技统筹创新工程计划项目(2016KTZDNY02-05)；杨凌示范区农业科技示范推广项目（TS-2016-14)
+
+作者简介：李仲阳(1995-)，男，河南郑州人，硕士研究生，养殖专业。E-mail:984425045@qq.com
+
+\*通信作者：史怀平，副教授，硕士生导师，E-mail: Huaipingshi@nwsuaf.edu.cn
+
+开蛋白质，它是生命活动的主要承担者[2]。饲料中蛋白质水平对产奶量和乳品质也有着很重要的影响，如于子洋等[]报道，提高饲粮中蛋白质水平可以增加崂山奶山羊的产奶量，同时乳脂、乳蛋白和非乳脂固形物的含量也显著增加。蛋白质饲料具有易消化、易吸收的特点，能够提供动物生长所需要的能量，富含动物体所缺少的各种必须氨基酸，钙磷含量较高，适口性极佳，是十分优质的饲料原料[4]。我国是世界上最大的畜禽肉类产品消耗国，畜禽生产中所需要的蛋白质饲料等原料的需求十分巨大，同时鱼粉、豆粕等优质蛋白质饲料价格高昂，有 $70 \%$ 的蛋白质饲料依靠进口，这些都要求我们寻找新的价格便宜、来源充足的蛋白质饲料来代替鱼粉、豆粕等传统蛋白质饲料[5]。  
+食品产业里生产味精、酵母、白酒等以粮食为原料经过发酵制成的产品时经常会产生大量有机废水，这些废水中含有大量的菌体和氮素等可利用成分，用微生物分解转化其中的有机物和无机氮素，从而合成各种营养素，将浓缩液通过发酵，食品工业中可利用的副产品就转化为了优质的生物蛋白质饲料[6]。饲料原料经过发酵后可以消除饲料中的抗营养因子，改善其适口性，提高饲料利用效率，进而提高动物的生长性能[7]。谷氨酸渣由浓缩糖蜜发酵液(condensed molasses fermentation solubles,CMS)再加工制成，作为糖蜜发酵生产味精等产品的副产物，它既保留了蔗糖的部分成分和风味，还增添了发酵过程所独有的非蛋白氮氨基酸、维生素、菌体蛋白和其他特殊营养成分，再加上其本身丰富的无机盐成分，使得谷氨酸渣既适于作为饲料原料，又不会影响动物的采食[8]。目前我国共有大小味精厂200 家左右，年产味精可达110万t，如果全国的味精厂都分离和回收废弃的菌体，每年就可以生产出含粗蛋白质 $70 \%$ 左右的菌体蛋白约22万t[9]，可以为动物生产开辟新的蛋白质资源，在一定程度上缓解我国蛋白质饲料资源缺乏的状况，同时，废液经分离菌体后，可减轻对环境的污染[10]。1材料与方法
+
+# 1.1 试验动物
+
+本试验选取40只胎次相同、体重 $( 5 9 . 8 0 \pm 2 . 1 5 ) \mathrm { k g } .$ 、体况相近并处于泌乳前期[泌乳天数：（20±5）d]的2胎健康萨能奶山羊，试验羊体况良好，无任何疾病。试验采取单因素随机区组设计，将40只试验羊随机分为4组，每组10只，各组间试验羊胎次、年龄、泌乳天数、泌乳性能等均无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+# 1.2 试验饲粮
+
+试验饲粮由精料补充料、青贮玉米和苜蓿干草组成。4组山羊所喂精料补充料营养水平基本相同，其中谷氨酸渣的添加量分别为0（对照组）、 $2 \%$ 、 $4 \%$ 和 $6 \%$ 。精料补充料组成及营养水平见表1。
+
+表1精料补充料组成及营养水平(干物质基础)  
+Table 1 Composition and nutrient levels of concentrate supplements (DM basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">谷氨酸渣添加量 Glutamic acid residue adding amount/%</td></tr><tr><td>0</td><td>2</td><td>4</td><td>6</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>41.06</td><td>42.72</td><td>44.85</td><td>44.52</td></tr><tr><td>小麦麸 Wheat bran</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>12.00</td><td>10.29</td><td>9.00</td><td>7.00</td></tr><tr><td>大豆粕 Soybean meal</td><td>10.98</td><td>10.00</td><td>7.16</td><td>6.47</td></tr><tr><td>玉米胚芽饼 Corn germ cake</td><td>6.00</td><td>6.00</td><td>5.00</td><td>6.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>玉米皮 Corn skin</td><td>5.00</td><td>4.00</td><td>5.00</td><td>5.00</td></tr><tr><td>干全酒糟及其可溶物 DDGS</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>谷氨酸渣 Glutamic acid residue</td><td></td><td>2.00</td><td>4.00</td><td>6.00</td></tr><tr><td>石粉 Limestone</td><td>1.68</td><td>1.54</td><td>1.64</td><td>1.81</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.31</td><td>1.48</td><td>1.38</td><td>1.23</td></tr><tr><td>食盐 NaCl</td><td>0.87</td><td>0.87</td><td>0.87</td><td>0.88</td></tr><tr><td>预混料 Premix1)</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>12.08</td><td>11.81</td><td>11.58</td><td>12.31</td></tr><tr><td>干物质 DM</td><td>88.1</td><td>88.1</td><td>88.3</td><td>87.9</td></tr><tr><td>粗蛋白质CP</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>钙Ca</td><td></td><td>1</td><td></td><td></td></tr><tr><td></td><td>1</td><td></td><td>1</td><td>1</td></tr></table></body></html>
+
+磷P 0.8 0.8 0.8 0.8
+
+1)预 混料为每千克精料补充料提供 Premix provided the following per kilogram of concentrate supplements: VA 25 000 IU， $\mathrm { V D } _ { 3 } \ 1 0 \ 0 0 0 \ \mathrm { I U }$ ，VE $5 0 \mathrm { m g }$ ，Fe $4 5 \mathrm { m g }$ ， $\mathrm { C u } 3 0 \mathrm { m g }$ ，Zn $9 0 \mathrm { m g }$ ， $\mathrm { M n } ~ 4 0 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ 0 . 8 ~ m g }$ ，Se $0 . 6 \mathrm { m g }$ ， $\mathrm { C o } 0 . 5 \mathrm { m g }$ 。
+
+2)营养水平均为计算值。Nutrient levels were calculated values.
+
+# 1.3 饲养管理
+
+试验开始前对试验羊进行防疫、驱虫，清扫试验圈舍并消毒，之后将4组试验羊分别饲养在4个独立的圈舍内。每日07:30—08:00 饲喂精料补充料 $^ +$ 青贮玉米，14:30—15:00 再次饲喂精料补充料 $^ +$ 青贮玉米，20:00 饲喂苜蓿干草，所有羊只自由饮水，自由活动。第2日饲喂前收集剩料，按类别分别称重并计算干物质采食量。试验期共63d，其中预试期7d,正试期56d。
+
+1.4样品采集
+
+试验期内每日挤奶2次。正试期每周记录2次产奶量，每次为上、下午产奶量总和；每7d采集1次乳样，分析乳糖率、乳脂率、乳蛋白率等乳成分指标；正试期第56天收集1次奶样，带回实验室检测乳蛋白中α-S1酪蛋白、 $\beta$ -酪蛋白和β-乳球蛋白浓度，并计算当日αS1-酪蛋白、 $\beta \mathrm { . }$ -酪蛋白和 $\beta \cdot$ 乳球蛋白绝对产量。
+
+# 1.5 数据分析
+
+试验数据通过 SPSS23.0软件的单因素方差分析（one-wayANOVA)程序进行方差分析，差异显著时采用Duncan 氏法对平均值进行多重比较。
+
+2结果与分析
+
+2.1谷氨酸渣对奶山羊采食量的影响
+
+由表2可知，在8周正试期内，对照组、 $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组、 $6 \%$ 谷氨酸渣组之间日均干物质采食量的差异均不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )；但随着试验的进行，各组日均干物质采食量均有所增加。
+
+表2谷氨酸渣对奶山羊日均干物质采食量的影响  
+Table 2Effects of glutamic acid residue on average daily dry matter intake of dairy goats kg   
+
+<html><body><table><tr><td rowspan="2">项目Item</td><td rowspan="2">采样时间 Sampling time</td><td colspan="4">谷氨酸渣添加量 Glutamic acid residue adding amount/%</td></tr><tr><td>0</td><td>2</td><td>4</td><td>6</td></tr><tr><td>日均干物质采食</td><td>第1周</td><td>1.93±0.03</td><td>1.97±0.03</td><td>1.93±0.04</td><td>1.98±0.02</td></tr></table></body></html>
+
+<html><body><table><tr><td>量 Average daily</td><td>Week 1</td></tr><tr><td>dry matter intake 第2周</td><td>1.94±0.01 1.94±0.01</td><td>1.94±0.02</td><td></td><td>1.95±0.01</td></tr><tr><td></td><td>Week 2 第3周</td><td>1.97±0.01</td><td></td><td>1.97±0.08</td></tr><tr><td></td><td>Week 3 第4周</td><td></td><td>1.96±0.10</td><td>1.96±0.08</td><td></td></tr><tr><td></td><td>Week 4</td><td>2.01±0.00</td><td>2.00±0.05</td><td>2.00±0.04</td><td>2.01±0.01</td></tr><tr><td></td><td>第5周 Week 5</td><td>2.01±0.00</td><td>2.00±0.10</td><td>2.00±0.04</td><td>2.01±0.02</td></tr><tr><td></td><td>第6周</td><td>2.01±0.00</td><td>2.01±0.00</td><td>2.01±0.00</td><td>2.01±0.00</td></tr><tr><td></td><td>Week 6</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第7周 Week 7</td><td>2.00±0.00</td><td>2.00±0.04</td><td>2.00±0.05</td><td>2.00±0.04</td></tr><tr><td></td><td>第8周</td><td>2.01±0.00</td><td>2.00±0.05</td><td>2.00±0.03</td><td>2.00±0.05</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .Thesameasbelow.
+
+# 2.2谷氨酸渣对奶山羊产奶量的影响
+
+从图1-A可知，正试期内各组试验羊的产奶量曲线相近，没有明显波动；试验开始前（第0天）， $2 \%$ 谷氨酸渣组和 $6 \%$ 谷氨酸渣组试验羊的产奶量显著高于对照组（ $\cdot P { < } 0 . 0 5$ ，图1-B)；试验第28天和第56天时，3个试验组（ $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组和 $6 \%$ 谷氨酸渣组）试验羊的产奶量与对照组无显著差异（ $P { > } 0 . 0 5$ ，图1-C 和图1-D)。
+
+![](images/1e86eb589082ad5a0e28ab132ffe2025e25a9f1e2f11037d6f6ce03fa410a0eb.jpg)
+
+同一图中，数据柱上标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同字母或无字母表示差异不显著$( P { > } 0 . 0 5 )$ 。下图同。
+
+In the same figure, data columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ,whilewith the same or no letters mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+Fig.1Effects of glutamic acid residue on milk yield of dairy goats
+
+# 2.3谷氨酸渣对奶山羊乳成分的影响
+
+由表3可知，正试期内各采样时间点乳脂率和乳糖率各组之间均无显著差异（ $. P { > } 0 . 0 5 )$ ）试验第7天时， $2 \%$ 谷氨酸渣组乳蛋白率显著高于 $6 \%$ 谷氨酸渣组（ $( P { < } 0 . 0 5 )$ ；试验第35天时，$2 \%$ 谷氨酸渣组和 $4 \%$ 谷氨酸渣组乳蛋白率显著高于对照组和 $6 \%$ 谷氨酸渣组 （ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ， $2 \%$ 谷氨酸渣组和 $4 \%$ 谷氨酸渣组之间差异不显著 （ $_ { . P > 0 . 0 5 ) }$ ，对照组和 $6 \%$ 谷氨酸渣组之间差异不显著（ $_ { . P > 0 . 0 5 }$ )；试验第42天和第56天时， $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组和对照组乳蛋白率显著高于 $6 \%$ 谷氨酸渣组（ $. P { < } 0 . 0 5 )$ ，但 $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组和对照组之间差异不显著（ $_ { . P > 0 . 0 5 ) }$ ；试验第14天、第21天、第28天和第49天时，乳蛋白率各组之间均无显著差异（ $. P { > } 0 . 0 5 )$ 。
+
+表3谷氨酸渣对奶山羊乳成分的影响  
+Table 3Effects of glutamic acid residue on milk composition of dairy goats %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">采样时间Sampling time</td><td colspan="4">谷氨酸渣添加量 Glutamic acid residue adding amount/%</td></tr><tr><td>0</td><td>2</td><td>4</td><td>6</td></tr><tr><td></td><td>第7天 Day 7</td><td>3.97±0.21</td><td>4.70±0.31</td><td>4.45±0.25</td><td>4.32±0.16</td></tr><tr><td></td><td>第14天 Day 14</td><td>4.60±0.34</td><td>4.97±0.35</td><td>4.47±0.23</td><td>4.98±0.33</td></tr><tr><td></td><td>第21天 Day 21</td><td>4.86±0.51</td><td>4.77±0.72</td><td>4.41±0.25</td><td>5.51±0.69</td></tr><tr><td>乳脂率 Milk fat</td><td>第28天 Day 28</td><td>4.48±0.12</td><td>4.32±0.16</td><td>4.36±0.17</td><td>4.28±0.18</td></tr><tr><td>percentage</td><td>第35天 Day 35</td><td>4.41±0.21</td><td>5.17±0.50</td><td>4.09±0.30</td><td>4.50±0.48</td></tr><tr><td></td><td>第42天</td><td>4.84±0.30</td><td>5.27±0.22</td><td></td><td></td></tr><tr><td></td><td>Day 42 第49天</td><td></td><td></td><td>5.31±0.23</td><td>4.90±0.27</td></tr><tr><td></td><td>Day 49</td><td>5.10±0.16</td><td>4.83±0.21</td><td>4.60±0.17</td><td>4.99±0.20</td></tr><tr><td>Day 56</td><td>第56天</td><td>4.80±0.30</td><td>4.26±0.27</td><td>4.45±0.21</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="5">乳糖率</td><td>第7天 Day 7</td><td>3.42±0.10</td><td>3.49±0.11</td><td>3.24±0.09</td><td>3.38±0.07</td></tr><tr><td>第14天 Day 14</td><td>3.32±0.08</td><td>3.38±0.07</td><td>3.18±0.11</td><td>3.30±0.06</td></tr><tr><td>第21天 Day 21</td><td>3.44±0.06</td><td>3.46±0.04</td><td>3.32±0.06</td><td>3.34±0.06</td></tr><tr><td>第28天 Day 28</td><td>3.12±0.09</td><td>3.29±0.07</td><td>3.17±0.08</td><td>3.08±0.06</td></tr><tr><td>第35天</td><td>3.38±0.09</td><td>3.47±0.09</td><td>3.44±0.16</td><td>3.35±0.09</td></tr><tr><td rowspan="10">乳蛋白率 Milk protein percentage</td><td>Day 35 第42天</td><td>3.33±0.07</td><td>3.38±0.11</td><td>3.50±0.08</td><td>3.54±0.09</td></tr><tr><td>Day 42 第49天 Day 49</td><td>3.23±0.09</td><td>3.37±0.08</td><td>3.44±0.09</td><td>3.49±0.11</td></tr><tr><td>第56天 Day 56</td><td>3.55±0.06</td><td>3.51±0.06</td><td>3.54±0.05</td><td>3.56±0.09</td></tr><tr><td>第7天 Day 7</td><td>2.84±0.05ab</td><td>3.11±0.21a</td><td>2.84±0.03ab</td><td>2.67±0.04b</td></tr><tr><td>第14天 Day 14</td><td>2.87±0.03</td><td>2.98±0.04</td><td>2.94±0.09</td><td>2.81±0.07</td></tr><tr><td>第21天 Day 21</td><td>2.83±0.04</td><td>2.85±0.02</td><td>2.76±0.04</td><td>2.77±0.04</td></tr><tr><td>第28天 Day 28</td><td>2.67±0.04</td><td>2.75±0.03</td><td>2.81±0.05</td><td>2.62±0.06</td></tr><tr><td>第35天 Day 35</td><td>2.65±0.03b</td><td>2.81±0.03a</td><td>2.80±0.03a</td><td>2.65±0.03b</td></tr><tr><td>第42天 Day 42</td><td>2.79±0.03a</td><td>2.86±0.04a</td><td>2.87±0.04a</td><td>2.63±0.03b</td></tr><tr><td>第49天 Day 49 第56天</td><td>2.80±0.06</td><td>2.78±0.06</td><td>2.74±0.06</td><td>2.66±0.03</td></tr></table></body></html>
+
+2.4谷氨酸渣对奶山羊乳蛋白中αS1-酪蛋白、 ${ \mathfrak { \beta } }$ -酪蛋白和β-乳球蛋白浓度和绝对产量的影响由图2可知，试验第56天时，αS1-酪蛋白浓度和绝对产量各组间均无显著差异( $_ { . } \mathrm { \rho } _ { > 0 . 0 5 } )$ 与对照组相比， $2 \%$ 谷氨酸渣组和 $4 \%$ 谷氨酸渣组 ${ \beta } \mathrm { . }$ -酪蛋白浓度和绝对产量表现出上升趋势，$6 \%$ 谷氨酸渣组 $\beta$ -酪蛋白浓度和绝对产量表现出降低趋势，但差异均不显著（ $. P { > } 0 . 0 5 )$ ；相较于对照组，各试验组β-乳球蛋白浓度和绝对产量均呈上升趋势，但差异均不显著（ $_ { . P > 0 . 0 5 ) }$ 。
+
+![](images/8e9b2de3512b616b687f8ba0dd088f56f5584d8f1d9c9e9cc882c447fa7e99a3.jpg)  
+图2谷氨酸渣对奶山羊乳蛋白中αS1-酪蛋白、 ${ \mathfrak { \beta } }$ -酪蛋白和 $\beta$ -乳球蛋白浓度和绝对产量的影响  
+Fig.2Effect of glutamic acid residue on concentrations and absolute yields of αS1-casein, $\beta$ -casein and $\beta$ -lactoglobulin in milk protein of dairy goats
+
+2.5谷氨酸渣对奶山羊乳成分日绝对产量的影响
+
+取正试期第7天、第14天、第21天、第28天、第35天、第42天、第49天和第56天总共8个时间点的羊奶，分析各采样时间点乳成分的绝对产量，之后取平均值，估测正试期内乳成分的日绝对产量。由图3可知，3个试验组的乳脂、乳糖、乳蛋白日绝对产量与对照组的差异均不显著（ $. P { > } 0 . 0 5 )$ ）
+
+![](images/1fe156d8bfb3ef10887681bac2e9b0de007c412835d1b04009632f8b68a19077.jpg)  
+图3谷氨酸渣对奶山羊乳成分日绝对产量的影响
+
+Fig.3Effects of glutamic acid residue on daily absolute yield of milk components for dairy goats 3讨论
+
+3.1谷氨酸渣对奶山羊采食量的影响
+
+Lopez-Campos 等[1研究发现，用CMS 的原料之一酒糟饲喂美利奴羊可降低采食量和生长速度，但是提高了饲料转化率和肉品质；Fermandez等[12]研究发现，用CMS 饲喂羊不会影响其采食量，瘤胃瘘管试验表明饲喂含 $13 \%$ CMS 的饲粮可以提高瘤胃中粗蛋白质、中性洗涤纤维和干物质的消化率。本次试验中，试验羊采食量有所上升，各组间日均干物质采食量没有显著差异，暗示饲喂谷氨酸渣不会影响奶山羊的干物质采食量，这与Fermandez 等[12]的研究结果一致。以上研究结果说明，经过发酵的CMS 原料改善了饲料的适口性，羊的采食行为没有受到影响；同时，发酵后的饲料菌体蛋白含量增加，提高了饲料的消化率和转化率。
+
+# 3.2谷氨酸渣对奶山羊产奶量的影响
+
+谷氨酸渣对奶畜产奶量影响的研究结果并不一致。毛江[13]研究表明，添加 $1 . 5 \%$ CMS组奶牛的产奶量与空白对照组相比显著提高，与 $0 . 7 5 \%$ 添加组相比有所增加但是差异不显著；莫乃国等[14]研究表明，随着试验的进行，对照组与试验组奶水牛的产奶量均呈下降趋势，且随着CMS 添加量的增加，产奶量下降幅度也随之增大；吴晋强等[15]研究表明，饲粮中添加 $7 . 6 \%$ 和 $1 5 . 2 \%$ CMS 可以显著提高奶牛的产奶量，具有增乳效应。本试验中，饲喂添加不同水平谷氨酸渣饲粮后奶山羊产奶量没有产生显著变化，这与以上研究结果存在差异，可能原因是不同个体间产奶量不仅受遗传因素制约，还可能与试验开展时动物胎次、饲粮营养水平、饲养环境、健康状况等因素有关。
+
+# 3.3谷氨酸渣对奶山羊乳成分的影响
+
+已有研究显示，CMS中粗蛋白质含量为 $30 \%$ ，其中 $4 0 \% \sim 5 0 \%$ 蛋白质为菌体蛋白，是优质的蛋白质饲料，可以直接被动物体吸收利用，进而转化为乳中蛋白质，间接提高乳蛋白率。郭春华等[1研究表明，奶牛饲粮中添加不同水平的CMS 后乳脂率、乳蛋白率、非乳脂固形物含量和体细胞数的差异均不显著；苏锡云等[17研究表明，奶牛饲粮中添加不同水平的CMS 后乳脂率、乳蛋白率、非乳脂固形物含量的差异均不显著；项延润等[18]研究表明，奶水牛饲粮中添加CMS 后可以显著提高乳蛋白和乳脂含量，但是乳糖含量未发生显著变化。本试验中， $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组乳蛋白率在试验第35天较对照组和 $6 \%$ 谷氨酸渣组显著升高，同时 $6 \%$ 谷氨酸渣组乳蛋白率在试验第 42天和第 56天显著低于 $2 \%$ 谷氨酸渣组、 $4 \%$ 谷氨酸渣组和对照组，但是乳脂率和乳糖率组间差异不显著，暗示奶山羊对谷氨酸渣存在剂量依耐性，过高的谷氨酸渣添加量对乳蛋白生产不利。进一步分析乳蛋白成分发现，乳蛋白中aS1-酪蛋白、 $\beta$ -酪蛋白和 $\beta \mathrm { . }$ -乳球蛋白这3种蛋白质的浓度在4组之间差异不显著，但β-酪蛋白和 $\beta$ -乳球蛋白浓度在数值上有较大波动，以谷氨酸渣添加量为 $4 \%$ 时数值最高，饲喂谷氨酸渣饲粮是否会显著影响这2种乳蛋白成分还需要进一步试验验证。
+
+4结论
+
+$\textcircled{1}$ 精料补充料中添加谷氨酸渣可以显著改变奶山羊的乳蛋白率，但对日均干物质采食量、产奶量、乳糖率、乳脂率以及乳成分日绝对产量等指标没有产生显著影响，说明谷氨酸渣可以作为奶山羊的饲料蛋白质原料。
+
+$\textcircled{2}$ 综合分析得出，奶山羊精料补充料中谷氨酸渣的最适添加量为 $4 \%$ 0
+
+# 参考文献：
+
+[1]蛋白质饲料对畜禽的营养作用[J].甘肃畜牧兽医,2017,47(2):104.  
+[2] 武文来,苗春来.蛋白质对毛皮动物的作用及其影响[J].养殖技术顾问,2011(6):242.[3] 于子洋,袁翠林,王利华,等.蛋白质水平对崂山奶山羊泌乳性能的影响[J].中国畜牧杂志,2015,51(7):32-36.[5]张珍誉.新型蛋白质饲料资源开发技术[J].科技视界,2016(27):353.  
+[6]冯东勋.用味精废水浓缩液发酵生产菌体蛋白饲料[J].中国饲料,1997(23):40-41.[7]张岩.发酵蛋白饲料在动物生产中的应用[J].饲料博览,2015(8):19-23.  
+[8]吴铭兴,吴春峰.新型液态饲料原料——浓缩糖蜜发酵液(CMS)的应用[J].养殖技术顾问,2005(12):16-17.  
+[9]赵晓芳.味精菌体蛋白资源调研及营养价值评定[D].硕士学位论文.泰安:山东农业大学,2003.  
+[10]孙宇,时合灵,付彤,等.日粮中添加味精菌体蛋白对奶牛生产性能的影响[J].中国畜牧兽医,2010,37(2):37-39.  
+[11]LOPEZ-CAMPOS O,BODAS R,PRIETO N.Vinasse added to the concentrate for fatteninglambs:intake,animal performance,and carcass and meat characteristics[J].Journal of AnimalScience,2011,89(4):1153-1162.  
+[12]FERNANDEZ B,BODAS R,LOPEZ-CAMPOS O.Vinasse added to dried sugar beetpulp:preference rate,voluntary intake,and digestive utilization in sheep[J].Journal of AnimalScience,2009,87(6):2055-2063.  
+[13]毛江.浓缩糖蜜发酵液对奶牛瘤胃发酵和生产性能的影响[D].硕士学位论文.乌鲁木齐:新疆农业大学,2015.  
+[14]莫乃国,梁辛,李翠玲,等.白酒糟对奶水牛泌乳性能及乳品质的影响[J].广西畜牧兽医,2014,30(5):260-263.  
+[15]吴晋强,王力生,刘琦山,等.酒糟-单细胞蛋白(SCP)及其畜禽饲料效应的研究IV.酒糟-SCP取代日粮中常规蛋白质饲料对母牛泌乳性能的影响[J].安徽农业大学学报,1999,26(2):170-173.  
+[16]郭春华,魏荣禄,陈智华,等.发酵蛋白饲料对奶牛泌乳性能的影响[J].中国乳业,2008(12):68-70.  
+[17]苏锡云,李振田,焦喜兰,等.味精废液发酵秸秆饲料对奶牛生产性能的影响[J].饲料研究,2008(9):56-58.
+
+[18]项延润,杨金勇.饲喂发酵啤酒糟对尼温一代奶水牛泌乳性能的影响[J].中国牛业科 学,2011,37(6):43-45.
+
+Effects of Glutamic Acid Residue on Milk Yield and Milk Composition of Dairy Goats LI Zhongyang]SHI Huaiping1\* LUO Jun1LIU Chenglong1LI Jie² (1. College of Animal Science and Technology,Northwest A&F University, Yangling 712100, China; 2. Qianyang County Goat Farm, Qianyang 721100, China)
+
+Abstract:In order to enrich the sources of feedstufs and reduce the cost for dairy goats,the objective of this study was to evaluate the effects of glutamic acid residue on milk yield and milk composition of dairy goats,and to determine the suitable adding amount of glutamic acid residue in concentrate supplement of dairy goats. A single factor random block design was adopted in this S experiment. Forty healthy Saanen dairy goats with similar lactation stage [day in milk: (20±5) days], body weight $[ ( 5 9 . 8 0 { \pm } 2 . 1 5 ) \mathrm { k g } ]$ ， parity and milk yield were randomly divided into 4 groups with 10 goats in each group. The nutrient levels of concentrate supplements for 4 groups were basically the same,and the adding amount of glutamic acid residue in concentrate supplements was O (control group), $2 \%$ $4 \%$ and $6 \%$ ， respectively. The whole experiment period was 63 days with the pre-test period of 7 days and formal test of 56 days. The results showed that the average daily dry matter intake，milk yield，milk fat percentage，and lactose percentage were not significantly different among all groups $( P { > } 0 . 0 5 )$ . the milk protein percentage at the 35th day of experiment in $2 \%$ glutamic acid residue group and $4 \%$ glutamic acid residue group was significantly higher than that in control group and $6 \%$ glutamic acid residue group $( P { < } 0 . 0 5 )$ ,and the milk protein percentage at the 42nd and 56th day of experiment in $2 \%$ glutamic acid residue group, $4 \%$ glutamic acid residue group and control group was significantly lower than that in $6 \%$ （204号 glutamic acid residue group $( P { < } 0 . 0 5 )$ .At the 35th day of experiment, the concentration and absolute yield of $\beta$ -lactoglobulin in milk protein in experimental groups showed an increasing trend, and the concentration and absolute yield of $\beta$ -casein in $2 \%$ glutamic acid residue group and
+
+$4 \%$ glutamic acid residue group showed an increasing trend, while the concentration and absolute yield of $\beta$ -casein in $6 \%$ glutamic acid residue group showed a decreased trend compared with the control group,but the differences were not significant $( P { > } 0 . 0 5 )$ .The daily absolute yields of milk fat, lactose and milk protein were not significantly different among all groups $( P { > } 0 . 0 5 )$ . It is concluded that the glutamic acid residue can be as the protein feedstuff for dairy goats,and the suitable adding amount of glutamic acid residue in the concentrate supplement for dairy goats is $4 \%$
+
+Key words: glutamic acid residue; dairy goats; milk yield; milk composition

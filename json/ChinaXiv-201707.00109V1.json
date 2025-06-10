@@ -1,0 +1,716 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201512112475 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵宇,吝涛,葛汝冰,施亚岚,张国钦,叶红,李新虎,孙彩歌.中国食品源氮消费环境排放及其城乡差异.生态学报,2017,37（13):4573-4586. ZhaoY,LiHsod urbanand rural areas in China.Acta Ecologica Sinica,2017,37(13）:4573-4586. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国食品源氮消费环境排放及其城乡差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵宇},吝涛}，\\*，葛汝冰'，施亚岚²,张国钦'，叶红',李新虎',孙彩歌'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院城市环境与健康重点实验室，中国科学院城市环境研究所，厦门361021  \n2华侨大学旅游学院，泉州362021",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：食品源氮消费是人居环境养分流动的重要环节,中国食品源氮消费产生的环境排放受城乡二元结构影响在时空变化上呈现显著分异。基于物质流分析方法,从中国城乡食品消费后产物不同处理过程及其对氮代谢的影响出发,模拟氮物质代谢过程,构建了一套氮素环境排放计算模型,借以研究中国近20年来城乡食品源氮消费环境排放趋势变化及其差异。研究结果发现1993—2012年间，我国城乡居民人均食品源氮排变化轨迹迥异。同时，城乡食品源氮消费在其所造成的水体、土壤、大气环境负荷中扮演的角色各不相同:在水体环境负荷中,农村水体氮排占据主导地位,但城乡间差异正逐步缩小;在土壤环境负荷中,城市土壤氮排主导优势明显;2010年以前全国食品源氮消费大气环境负荷主要受农村气体氮排的影响，而2010年以后,城市大气氮排成为影响全国大气氮负荷的主导因素。引入社会经济因素分析后发现，城镇居民人均可支配收入水平对城镇居民人均食品源氮排起显著促进作用;而农村食品价格指数对农村居民人均食品源环境氮排呈显著抑制作用。通过情景预测分析发现：随着我国城镇化进程的加快,未来全国居民人均食品源氮排将以更快速度继续增长。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城镇化;城乡差异;食品消费;氮素流动;环境负荷;中国",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmental emissions of nitrogen from food consumption and differences between urban and rural areas in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO ${ \\mathrm { Y u } } ^ { 1 }$ ,LIN Tao1\\*,GE Rubing1,SHI Yalan²,ZHANG Guoqin1,YE Hong1,LI Xinhu',SUN Caige1 1KeyLaboratoryofUrbanEniroentandHelthheIstuteofUbanEiroent，ChineseAcademyofSiences，Xian3hin 2 Collage of Tourism，Huaqiao University，Quanzhou 362021,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Consumptionof nitrogehin food formsanimportantpartof theinternal flowof nutrientswithin human setlements.Spatiotemporal Variationintheenvironmental emissions of nitrogen from food consumptionvaryconsiderably between the cityand countrysidebecauseof thedual economic structure of urbanand ruralareas.In this study，we used substance flowanalysis to simulatethemetabolismof nitrogenand constructedasetof models tocalculatethequantityof environmental emissions fromtheconsumptionofnitrogen in food.Themodelsfocusedon thedifferent levelsofresource recycling of theproductafter metabolismto determine the trendsinenvironmentalemissionsof nitrogenfrom food consumptionand thediferences betweenurbanandrural areas.Theresultsindicatedthere wasasubstantial difference between trends inurbanandruralenvironmental emisionsof nitrogenconsumed infoodfrom1993 toO12.Therolesof consumed nitrogen inurbanandruralareas，whichconsistedof theenvironmentalloadsin water,soil，andtheatmosphere, variedfromeachother.In termsof water nitrogenloads fromfoodconsumption，nitrogeninrural waterplayedadominant role.However，the diffrence in nitrogenemissions in water between thecityand countryside wasgradually decreasing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Regardingsoil nitrogenenvironmentalloads from foodconsumption，nitrogen intheurbansoil was thedominantfactor.Prior to 2010,theruralatmosphericnitrogenemissionwasthemain factorthatinfluenced thenational levelof atmospheric nitrogenemisionsbecauseof food consumption.Nevertheless，after 2O10，thequantityof urbanatmospheric nitrogen emissionsexceeded thatofruralareas,andbecame theleadingfactorof thenationallevel ofatmospheric nitrogenemssions. Additionally，correlation analysis wasadopted to determine whether a positivecorrelationexisted between percapita disposable income and percapita urbanresident environmental emissions of nitrogen from food consumption.Inaddition,the percapitaruralresident environmental emissions of nitrogen from foodconsumption wasnegativelycorrelated to the food priceindex.Basedonscenario forecast analysis（SFA），we found that thegrowthoffuture national levelsof percapita nitrogenemissons from food consumption would be fasterthan the curent trendbecauseof the accelerationofurbanization in China. > ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:urbanization；urban-rural diferences；foodconsumption；flowof nitrogen；environmental loads；China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城乡之间由于自然、地理、历史、文化等非经济因素的差异,导致两者间长期存在着明显的二元差异,这种差别不仅表现在居民经济收入相差悬殊,还表现在居民消费结构与模式的差异[1-4]。食品消费是居民消费的重要组成部分[5],随着社会发展和经济水平的提高,居民的消费需求不断增长,导致食品消费模式和营养状况也随之发生改变[6]。自20世纪80年代以来,中国居民饮食偏好等的改变主要表现在主食消费向主副食品替代,以及以植物性食品消费为主转变为动植物性食品并重的食品消费与营养模式[7-9]。同时,中国居民的食品结构也逐步经历着从生存型到数量型、再到质量型的转变[10]。伴随着食物的生产与消费,营养成分也通过食物在城市中流动。氮素作为人体必不可少的营养元素,既是构成蛋白质、核酸等重要生命物质的基础,同时也是造成水体富营养化、光化学烟雾、酸雨、温室效应的元凶之一。相关研究发现,人类消费的绝大部分氮素都排放到环境中,人类向生态环境中排放的过量氮素已成为全球面临的重大环境污染问题之一[1-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前,国内外已有学者从国家、区域以及城市尺度探讨了食品消费中氮素流动情况。Leach 等开发了用于计算个人、家庭以及国家氮足迹的在线模型N-calculator[14],对美国和荷兰全国尺度的人均氮足迹进行了估算,发现两国食品消费氮足迹与食品、能量消费的强度以及废水处理的效率有关[15];国内有学者探讨了氮素区域之间的流动，以及中国城镇居民的食品氮素消费变化,得出了我国区域之间氮素流动不平衡,随着经济发展,我国氮素需求量增大[16-18];也有学者以厦门市为例,通过长时间尺度食品氮素消费变化情况研究,并对食品氮消费造成环境负荷进行定量化研究,得出厦门人均食品氮消费所造成的环境氮负荷将显著增加,并认为大多数氮素进入土壤和水体[8.19-20]。然而却乏有将视角定位于城乡食品消费后产物不同的处理过程及其对氮代谢的影响,关注城乡食品源氮排放趋势变化差异及原因的研究。本文基于城市和农村两个维度,针对居民家庭食品消费活动,结合现有研究成果,模拟食品源氮物质代谢过程,构建了一套氮素环境排放计算模型。基于此,文章对比分析1993—2012年间中国城乡人均食品源氮消费环境排放变化趋势,探讨城市和农村食品消费活动在所造成的环境负荷中扮演的差异性角色,并进一步对于影响城乡居民食品氮消费变化的主要社会经济因素进行探究,预测我国未来的氮消费环境负荷的变化趋势,为积极管控家庭食品消费带来的不良氮素环境影响提供科学的建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究所涉及的1993—2012年间城市和农村人均主要食品消费数据（本研究中涵盖的主要人均消费食品包括粮食、豆类、蔬菜、水果、油脂、肉、蛋、奶、水产品九类）、人口数据、生活垃圾无害化处理率、城市污水处理率、城市垃圾填埋焚烧比率,以及影响因素分析中相关社会经济参数均来源于国家统计局年度数据（http://data.stats.gov.cn）（《中国统计年鉴》[21]）；豆类食品的年均消费量来自农业部《中国食品与营养发展纲要》[22];不同食品的氮折算系数基于《常见食品营养成分表》[23]中蛋白质含量推算而得（见表1);其余计算参数均来自有关文献(表2)。由于外出就餐数据难以获取,因此本研究只针对城乡居民家庭的食品消费,不包括外出就餐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/54f1cee4c1ca5cda9284147489ef180073f16afef79e7077dc709e3d38274ac7.jpg",
+        "table_caption": [
+            "表1不同食品的含氮量折算系数",
+            "Table 1 Convert coefficient of nitrogen content in different kinds of foc ",
+            "表2食物氮环境负荷的计算参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td>粮食</td><td>豆类</td><td>Vle</td><td>水果</td><td>肉</td><td>油脂</td><td>蛋类 Egg</td><td>奶y product</td><td>水产品 product</td></tr><tr><td>含氮量 Nitrogen Content/(g/kg)</td><td>18.17</td><td>58.08</td><td>1.76</td><td>1.60</td><td>29.22</td><td>31.10</td><td>20.48</td><td>5.28</td><td>28.77</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/55a46c03a898e89898e34ef569f4c2baa27d5160ce1aca56a871149f74f36b1e.jpg",
+        "table_caption": [
+            "Table 2Calculation parameters of the environmental loads of food nitrogen "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数 Parameters</td><td>数值 Values</td><td>来源 Source</td></tr><tr><td>厨余比率 Kitchen waste content in food consumption</td><td>% 33.33</td><td>[26]</td></tr><tr><td>人体食品吸收比率 The food absorption rate of human body</td><td>2 %</td><td>[27]</td></tr><tr><td>人体粪尿排放比率 The discharge rate of human manure</td><td>88</td><td>[28]</td></tr><tr><td>肥料挥发率 Nitrogen volatilized rate from manure</td><td>24.5</td><td>[29]</td></tr><tr><td>农村厨余垃圾用于禽畜养殖的比率 The proportion of kitchen waste used for rural livestock farming Kg N2O/kgN</td><td>80</td><td>[24]</td></tr><tr><td>N2O 排放因子N2O emission factor</td><td>0.005</td><td>[30]</td></tr><tr><td>农村人体粪尿回田比率 The rate of human manure used as fertilizer</td><td></td><td>[31]</td></tr><tr><td>城市人体粪尿氮去除率 The nitrogen removal rate of human manure</td><td></td><td>[32]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2食品源氮消费的计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "食品中含氮量计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { p } = \\sum _ { i = 1 } ^ { n } { W _ { p } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { p _ { i } } = W _ { i } \\times P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\textstyle \\mathbf { W } _ { p }$ 为人均消费食品的总氮量， $\\boldsymbol { W } _ { p i }$ 为人均消费食品 $i$ 中所含的总氮量; $\\textstyle \\ W _ { i }$ 为食品 $i$ 的人均氮消费量， $P _ { i }$ 为该食品的氮折算系数， $_ { \\mathfrak { M } }$ 为主要消费食品种类数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3食品源氮消费环境负荷量计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1城乡食品源氮消费流动过程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "完整的食品源氮代谢包括了城市社会生态系统内的代谢(食品消费、人体代谢、废弃物处理及再循环)和生物地球化学循环两部分[20]。本研究以城市社会生态系统内代谢为系统边界,食品根据其能否被人类食用,分为可食部分和不可食部分。可食部分通过进食行为进人人体的代谢环节;不可食部分食品（包括食品的不可使用部分和被丢弃的可食部分)成为厨余垃圾,与人体代谢产物一道,进入废弃物处理环节。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于厨余垃圾的处理,由于垃圾中含有大量的水分和有机物,分类回收和焚烧处理的难度较大,因此现阶段城市主要的处理方式为填埋和堆肥;农村地区受家庭禽畜养殖的影响,厨余垃圾很大一部分用作禽畜的食材,被循环利用[24]。对于粪尿的处理,城镇地区的粪尿经管道收集成为粪尿污水进入污水处理系统,处理过程中产生的副产物污泥大都未经处理( $8 6 . 2 1 \\%$ )[25]直接进入土壤环境,尾水排出至自然水体。农村地区粪尿主要经过堆肥腐熟成为农家肥料,施用于农田。在填埋和堆肥、污水处理、粪尿腐熟回田的过程中,氮经过硝化和反硝化过程，产生氧化亚氮、氮气等气体排入空气中， $\\langle 2 0 0 6$ 年IPCC国家气体清单指南》认为垃圾填埋产生的气体除 $\\mathrm { C H } _ { 4 }$ 和 $\\mathrm { C O } _ { 2 }$ 需要计算排放量外,其它气体含量极少,可忽略不计。综上,得到城乡食品源氮素流动过程,如图1,图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b72ff4ab2ab33ccb1a8ac8c8acb0520c16a15fb26b9ed399ece3db5abdc3743b.jpg",
+        "img_caption": [
+            "图1城市食品源氮消费氮素流动过程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d20d1d90e1d23f9ce3250f2294458741bcf9d51087771cd9ca4af2b461d32f49.jpg",
+        "img_caption": [
+            "Fig.1Nitrogen flows in urban food nitrogen consumption ",
+            "图2农村食品源氮消费氮素流动过程图",
+            "Fig.2Nitrogen flows in rural food nitrogen consumption "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2城乡食品源氮消费环境负荷量计算方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究以大气、水体、土壤作为环境排放的终端,分别分析和汇总城乡食品消费各环节的氮含量以及进入各终端中的氮素环境负荷量,计算方法分别如表3、表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/179177a341ba97b45743c243dea6ba17103054e09ee99792c073986e87dc4663.jpg",
+        "table_caption": [
+            "Table 3Calculation formulas of per capita environmental loads of food nitrogen in urban area ",
+            "表4农村人均食品源氮素流动计算公式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>计算公式Formulas</td></tr><tr><td>城市厨余垃圾含氮量 Nitrogen content in kitchen waste</td><td>城市厨余垃圾=人均食品源氮消费量×厨余比率</td></tr><tr><td>人体食品吸收氮量</td><td>人体食品吸收氮量=(人均食品源氮消费量-厨余垃圾含氮量)×人体</td></tr><tr><td>Nitrogen content in human food absorption</td><td>食品吸收比率</td></tr><tr><td>城市人体粪尿含氮量</td><td>城市人体粪尿含氮量=(人均食品源氮消费量-厨余垃圾含氮量)×人</td></tr><tr><td>Nitrogen of human manure</td><td>体粪尿排放比率</td></tr><tr><td>城市被处理的厨余垃圾含氮量</td><td>城市被处理的厨余垃圾含氮量=城市厨余垃圾含氮量×城市生活垃圾 无害化处理率</td></tr><tr><td>Nitrogen content in treated kitchen waste</td><td></td></tr><tr><td>城市厨余垃圾直接排放含氮量</td><td>城市厨余垃圾直接排放含氮量=城市厨余垃圾含氮量-城市被处理的 厨余垃圾含氮量</td></tr><tr><td>Nitrogen content in untreated kitchen waste 城市处理人体粪尿排放含氮量</td><td></td></tr><tr><td>Nitrogen content in treated human manure</td><td>城市处理人体粪尿排放含氮量=城市人体粪尿含氮量×污水处理率</td></tr><tr><td>城市人体粪尿直接排放含氮量</td><td>城市人体粪尿直接排放含氮量=城市人体粪尿含氮量-城市污泥含氮</td></tr><tr><td>Nitrogen content in untreated human manure</td><td>量-尾水排放的氮量-污水处理气体含氮量</td></tr><tr><td>城市污泥含氮量</td><td>城市污泥含氮量=城市处理人体粪尿排放含氮量×氮去除率</td></tr><tr><td>Nitrogen of urban sludge</td><td></td></tr><tr><td>城市尾水排放氮量</td><td>城市尾水排放的氮量=城市处理人体粪尿排放含氮量×(1-氮去除率)</td></tr><tr><td>Nitrogen of treated urban waste water</td><td>城市食品消费垃圾堆肥处理含氮量=城市被处理的厨余垃圾含氮量×</td></tr><tr><td>城市食品消费垃圾堆肥处理含氮量</td><td>垃圾处理堆肥比率</td></tr><tr><td>Nitrogen content in urban food waste compost treatment</td><td>城市食品消费垃圾焚烧处理含氮量=城市被处理的厨余垃圾含氮量×</td></tr><tr><td>城市食品消费垃圾焚烧处理含氮量 Nitrogen content in urban food waste incineration treatment</td><td>垃圾处理焚烧比率</td></tr><tr><td>城市食品消费垃圾填埋处理含氮量</td><td>城市食品消费垃圾填埋处理含氮量=城市被处理的厨余垃圾含氮量×</td></tr><tr><td>Nitrogen content in urban food waste landfill treatment</td><td>垃圾处理填埋比率</td></tr><tr><td>堆肥挥发氮量</td><td>堆肥挥发氮量=城市食品消费垃圾堆肥处理含氮量×肥料挥发率</td></tr><tr><td>Nitrogen volatilized from manure 污水处理气体排放量</td><td></td></tr><tr><td>Nitrogen emissions from sewage treatment</td><td>污水处理气体排放量=城市处理人体粪尿排放含氮量×NO排放因子</td></tr><tr><td>进入大气的氮量</td><td>进入大气的氮量=城市食品消费垃圾烧处理含氮量+污水处理气体</td></tr><tr><td>Nitrogen loading of atmosphere</td><td>排放量+堆肥挥发氮量 进入土壤的氮量=城市厨余垃圾直接排放含氮量+城市污泥含氮量+</td></tr><tr><td>进入土壤的氮量</td><td>城市食品消费垃圾填埋处理含氮量</td></tr><tr><td>Nitrogen loading of soil</td><td></td></tr><tr><td>进入水体的氮量 Nitrogen loading of water</td><td>进入水体的氮量=城市人体粪尿直接排放含氮量+城市尾水排放的 氮量</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c986318f98e3bcadc651cd1384a7c12ad3616d3adf9a3bb58d35d41f4334a5d.jpg",
+        "table_caption": [
+            "表3城市人均食品源氮环境负荷计算公式",
+            "Table 4Calculation formulas of per capita environmental loads of food nitrogen in rural area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>计算公式Formulas</td></tr><tr><td>农村厨余垃圾含氮量 Nitrogen content in rural kitchen waste</td><td>农村厨余垃圾=农村人均食品源氮消费量×厨余比率</td></tr><tr><td>人体食品吸收氮量 Nitrogen content in human food absorption</td><td>人体食品吸收氮量=(人均食品源氮消费量-厨余垃圾含氮量)×人体 食品吸收比率</td></tr><tr><td>农村人体粪尿含氮量 Nitrogen of human manure</td><td>农村人体粪尿含氮量=(人均食品源氮消费量-厨余垃圾含氮量)×人 体粪尿排放比率</td></tr><tr><td>农村禽畜养殖再利用含氮量 Nitrogen content of kitchen waste used for rural livestock farming</td><td>农村禽畜养殖再利用含氮量=农村厨余垃圾含氮量×农村厨余垃圾用</td></tr><tr><td>农村厨余垃圾直接排放含氮量 Nitrogen content in untreated rural kitchen waste</td><td>于禽畜养殖的比率 农村厨余垃圾直接排放含氮量=农村厨余垃圾含氮量-农村禽畜养殖 含氮量</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6979d7636e80f5093ad09e690f339f48e2af52e2fe5182285c3aa7aee6cfaffa.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>计算公式Formulas</td></tr><tr><td>农村处理人体粪尿回田含氮量 Nitrogen content in treated rural human manure</td><td>农村处理人体粪尿还田含氮量=农村人体粪尿含氮量×农村人体粪尿 回田比率</td></tr><tr><td>农村人体粪尿直接排放含氮量 Nitrogen content in untreated rural human manure</td><td>农村人体粪尿直接排放含氮量=农村人体粪尿含氮量-农村处理人体</td></tr><tr><td>农村人体粪尿回田挥发氮量</td><td>粪尿回田含氮量 堆肥挥发氮量=城市食品消费垃圾堆肥处理含氮量×肥料挥发率</td></tr><tr><td>Nitrogen volatilized from manure 进入大气的氮量Nitrogen loadingof atmosphere</td><td></td></tr><tr><td>进入土壤的氮量 Nitrogen loading of soil</td><td>进入大气的氮量=农村人体粪尿回田挥发氮量 进入土壤的氮量=农村厨余垃圾直接排放含氮量</td></tr><tr><td>进入水体的氮量 Nitrogen loading of water</td><td>进入水体的氮量=农村人体粪尿直接排放含氮量</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3城乡食品源氮消费环境负荷量影响因子分析与预测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究对城乡人均食品源环境氮排进行影响因子分析与预测时，首先基于相关研究文献选取有关社会经济影响因子;在确定所选取的因子与人均城乡食品源氮消费环境负荷具有显著相关关系的前提下,剔除具有多重共线性的因子;并将余下因子值取对数后引入协整检验,借以杜绝“伪回归”。最后将与因变量存在协整关系的因子引入多元逐步回归分析,以获取与人均城乡食品源氮消费环境负荷有关的标准化回归方程。通过统计资料合理估算,获取2020年城乡居民相关社会经济因子的预测值,引人标准化回归方程,预测2020年中国人均食品源氮消费环境负荷。以上所涉及的分析预测过程基于 SPSS 20.0 和 Eviews 6.0平台完成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1中国食品源氮消费环境排放的变化趋势与城乡差异",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Spearman 秩相关分析( $r _ { s }$ 为秩相关系数, $\\boldsymbol { W } _ { p }$ 为0.05置信度水平临界值)发现,研究期内城市和农村人均食品源氮消费环境排放的变化趋势差异明显。城市人均食品源氮素环境排放量呈现出显著上升趋势( $r _ { s } =$ 0.7278, $W _ { p } = 0 . 4 4 7 ;$ ：由1993年 $3 . 7 3 \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ 以 $5 . 3 4 \\text{‰}$ 的速度增长到2012 年的 $4 . 1 3 ~ \\mathrm { k g } \\times \\mathrm { ^ { - 1 } } \\mathrm { \\ a } ^ { - 1 }$ ;农村人均食品源氮素环境排放量呈现出显著的下降趋势(r =-0.8692,W=0.447）:由1993 年的3.23 kg人-1 a-1以 $9 . 2 5 \\% o$ 的速度下降到 $2 0 1 2$ 年的 $2 . 6 3 \\ \\mathrm { \\ k g }$ 人 $^ { - 1 } \\mathrm { ~ a } ^ { - 1 }$ （图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2全国食品源氮消费环境负荷量变化趋势及城乡差异",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bea5ddc9ab3e8df9abd9e92e1f33befacf332073cd561081e44a4a9e95c0a991.jpg",
+        "img_caption": [
+            "图31993一2012年中国城乡居民人均年食品源氮素环境排放量变化趋势 $\\mathbf { \\bar { k } } \\mathbf { g } \\wedge \\mathbf { \\bar { \\mu } } ^ { - 1 } \\mathbf { \\bar { a } } ^ { - 1 }$ ）Fig.3Nitrogen environmental emissions of food consumption percapita per year of urban and rural residents in China（1993-2012)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1993—2012年间全国食品源氮消费水体环境负荷",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "量呈明显的下降趋势 $( r _ { s } = - 0 . 7 8 3 5$ ， $W _ { _ { p } } = 0 . 4 4 7 ;$ ）,如图4从1993年的 $2 8 2 1 . 7 2 \\ \\mathrm { k t }$ 以年均 $1 . 3 0 \\%$ 的速度下降到2012年的 $2 2 0 6 . 0 5 ~ \\mathrm { k t }$ 。就各组份而言,农村食品消费后的人体代谢产物直接排放量在研究期内首先维持稳定而后显著降低，由1993年的 $2 1 7 3 . 0 1 ~ \\mathrm { k t }$ ，下降到2012年的 $1 3 3 2 . 3 9 ~ \\mathrm { k t }$ ;城市食品消费后的人体代谢产物直接排放粪尿含氮由1993年的 $5 4 1 . 1 2 \\ \\mathrm { k t }$ 波动上升至2003年的 $7 7 6 . 3 2 ~ \\mathrm { k t }$ ,而后以年均 $3 . 6 0 \\%$ 的下降率快速下降至2012年的 $2 1 7 . 5 8 ~ \\mathrm { k t }$ ;城市污水尾水排放的含氮量在研究期内呈现稳步上升的趋势,由基期的 $1 0 7 . 6 0 \\mathrm { k t }$ 上升至2012年的 $6 5 6 . 0 8 ~ \\mathrm { k t }$ ,研究期内增长了5.10倍。就水体环境而言,以农村居民食品消费水体氮排占主导。但随着城市污水处理能力的提高,以城市污水尾水排放为代表的城市居民食品消费水体氮排量快速增长,城乡居民食品消费水体氮排总量上的差距正逐渐缩小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1993—2012年间食品源氮消费土壤环境负荷量呈现显著上升的趋势( $r _ { s } = 0 . 9 9 4 9$ ， $W _ { p } = 0 . 4 4 7 ;$ ，图5从1993年的 $9 2 6 . 5 8 ~ \\mathrm { k t }$ 以 $4 . 1 7 \\%$ 的年均增长率快速上升到2012年的 $2 0 1 3 . 8 6 ~ \\mathrm { k t }$ 。就各组份而言，农村厨余垃圾的直接排放所含氮量在研究期内呈现维持稳定而后明显下降的趋势，由1993年的 $3 5 2 . 7 6 \\ \\mathrm { k t }$ 下降到2012年的$2 1 6 . 3 0 ~ \\mathrm { k t }$ ;而城市厨余垃圾的直接排放含氮量，在研究期内呈现出先上升后快速下降的变化趋势，由1993 年的 $2 2 2 . 6 9 ~ \\mathrm { k t }$ 首先快速上升至2006年的 $3 9 8 . 7 0 \\ \\mathrm { k t }$ ，而后以年均 $1 . 7 2 \\%$ 的下降率迅速下降至2012年的161.15kt。城市填埋处理的厨余垃圾含氮量和城市污水处理污泥含氮在研究期内都呈现出不同幅度的增长态势，分别增长了2.44倍和5.10倍。就土壤环境而言，该组份氮素环境负荷快速增长，城市食品消费活动贡献程度明显，其中城市厨余垃圾填埋处理以及城市污泥富集是造成全国土壤氮负荷快速增长的主要原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7fd64fce3caa86195fb2fb9bd770fe3d7161159a72cf81765c99e7bac79d1bb.jpg",
+        "img_caption": [
+            "图41993一2012年全国食品源氮消费水体环境负荷总量变化$\\left( \\mathrm { K T / a } \\right)$ （20Fig.4Totals of water nitrogen emissions from food consumptionper year in/China(1993—2012)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图6,食品源氮消费大气环境负荷量在研究期内呈现出快速上升的趋势( $r _ { s } = 0 . 9 3 9 3$ ， $W _ { p } = 0 . 4 7 7$ ）：以$6 . 1 5 \\%$ 的年增长率快速上升到2012年的 $4 1 0 . 0 1 \\ \\mathrm { k t }$ 。就其组成而言，农村回田处理人体代谢产物中氮素挥发量逐年递减,由1993 年的 $2 2 8 . 1 6 ~ \\mathrm { k t }$ 减少到2012年的 $1 3 9 . 9 0 ~ \\mathrm { k t _ { \\circ } }$ 城市焚烧处理厨余垃圾、城市污水处理过程中气体排放、城市堆肥处理厨余垃圾挥发含氮量均有不同程度的增长,其中以城市焚烧处理厨余垃圾含氮量的增长趋势最为明显,由基期的 $1 3 . 2 9 { \\mathrm { ~ k t } }$ 上升至 2012 年的 $2 2 2 . 3 9 \\ \\mathrm { k t } \\ , 2 0$ 年间共计增长16.73倍。就大气环境负荷而言,1993—2010年间农村回田堆肥腐熟过程中排放的气体氮素为影响全国食品源氮消费大气环境负荷总量的主导因素,而2001年以后,以城市厨余垃圾焚烧处理所代表的城市氮素大气排放量迅速增长,并于2010 年前后在总量上超过农村氮素大气排放量，成为影响全国氮素大气排放量的最主要因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/251402bb2dddd3da7fcfaf7d233d8b794868da375a41eb1faa02a5f9eae64978.jpg",
+        "img_caption": [
+            "图51993—2012年全国食品源氮消费土壤环境负荷总量变化 Fig.5Totals of Soil nitrogen emissions from food consumption peryearin China(1993—2012) ",
+            "图61993一2012年全国食品源氮消费大气环境负荷总量变化Fig.6Totals of Atmospheric nitrogen emissions from foodconsumption per year in China(1993—2012)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "rriinrr nrrr iignrreieeoornineoirrrsernt 450  \n一农村回田处理厨余垃圾氮素挥发量  \n400 城市厨余垃圾堆肥处理产生氮挥发  \n公 城市污水处理过程气体排放氮量  \n350 城市烧处理厨余垃圾含氮  \n(rou)/uinsuniis 排放到大气中食物源氮素合计  \n300  \n250  \n200  \n150  \n100  \n50  \n0  \n1993 1996 1999 2002 2005 2008 2011年份Year",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3全国城乡食品源氮消费环境负荷量的主要影响因素研究人均食品消费量、消费模式等会随着社会和经济的发展而发生着转变。根据相关文献[8,334],本文分别选取中国城乡居民消费价格指数、城乡居民人均可支配收入水平、城乡居民恩格尔系数、城乡家庭平均规模、居民人均食品消费价格指数以及城市化率等6个经济社会因子,探究影响城乡食品源氮消费环境负荷量的主要社会经济影响因素间的差异。6个因子与城乡人均食品源氮素环境负荷量均呈高度相关,通过 SPSS 20.0线性回归共线性诊断剔除具有多重共线性的因子,最终选择城乡人均可支配收入指数( $\\mathit { \\Omega } \\cdot X _ { \\mathit { \\mathrm { 1 } } } \\mathit { \\Psi } _ { \\cdot }$ ）、城乡平均家庭规模 $( X _ { 2 } )$ 、城乡教育程度(教育投人强度) $\\left( { { X } _ { 3 } } \\right)$ ）、城乡食品价格指数 $( X _ { 4 } )$ 这4个指标,作为进入变量。为使各变量方差恒定,数据波动相对稳定,本研究对取对后的指标值进行协整检验(Eviews6.0),发现城市人均氮环境排放( $\\dot { Y } _ { \\mathrm { \\scriptsize ~ f i j \\dot { \\langle } \\vec { H } ~ } }$ )与上述4个指标存在协整关系,农村人均氮排( $Y _ { \\mathcal { K } \\mathcal { H } }$ )则与除受教育程度外其余3个指标存在协整关系（附表)。最后利用 spss20.0进行多元逐步回归,得到城乡标准化回归方程如下： C",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { l n y } _ { \\mathbb H \\mathbb H } = 0 . 0 7 \\mathrm { l n } x _ { 1 ( \\mathbb H \\mathbb H ) } \\ + \\ 0 . 9 9 5 \\ ( R ^ { 2 } = 0 . 6 6 0 , P = 0 . 0 0 0 ) | } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\ln _ { \\mathbb { Y } _ { \\# \\mathbb { H } } } = - \\ 0 . 2 0 4 \\ln x _ { 4 ( \\mathcal { U } \\# ) } \\ + \\ 2 . 3 6 7 \\ ( \\ R ^ { 2 } = 0 . 9 0 6 , P = 0 . 0 0 0 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为进一步验证所得方程的可靠性,将1993—2012年的城乡数据代人该方程,计算值与实际值的平均相对误差仅为 $8 . 8 3 \\%$ 和 $1 . 8 6 \\%$ ,方程模拟效果良好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从回归方程可知,现阶段,城市居民人均可支配收入水平指数对城市人均食品源氮消费环境负荷量具有显著的正效应（公式3）,由于中国城市居民的食品消费模式已经完成了生存型到数量型的转变,在可支配收入水平容许的情况下,相对于谷物、薯类食品,城市居民更倾向于禽畜产品的高氮食品消费。影响农村人均食品源氮消费环境负荷量与农村居民消费价格指数呈负相关关系（公式4）。可见农村居民食品消费模式还处于植物性食品为主的生存型阶段,食品价格因素仍旧是制约居民选择消费食品的瓶颈。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4全国食品源氮消费环境负荷量的趋势预测",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用《中国食品与营养发展纲要(2014—2020）》[2]（表5)和其他规划数据,以及本研究中计算人均食品源氮消费环境负荷量的方法,得到2020 年全国人均食品源氮消费环境负荷量将达到 $4 . 3 0 ~ \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ 。而应用回归方程进行预测,估测 2020 年中国城市人均可支配收人水平指数将达到1930.40（《中共十八大报告》），预测当年产生的城市人均食品源氮消费环境负荷量 $4 . 5 9 \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ ;以研究期内居民消费价格指数增长率趋势外推,预测 2020 年农村人均食品源氮消费环境负荷 $2 . 4 1 ~ \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ ;以城市化率为 $6 0 . 3 4 \\% ^ { [ 3 5 ] }$ 计算,预测2020 年全国人均食品源氮消费环境负荷量将达到 $3 . 7 3 ~ \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ ,并未达到最优食品消费结构产生的人均食品消费氮环境负荷量。随着经济快速发展和城镇化进程的加快,受居民对营养均衡和膳食结构合理需求的影响,未来全国居民人均食品源氮消费环境负荷量将以快于现有趋势的速度继续增长。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebb4a176481c824b5e227c71d6e21328e6d398919e63617c981fd3bc589f3743.jpg",
+        "table_caption": [
+            "表52020年最优营养膳食结构",
+            "Table 5The optimal nutrition dietary structure in 2020 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别s</td><td>粮食</td><td>Pea</td><td>豆类</td><td>肉</td><td></td><td></td><td></td><td>vable</td><td>水果</td></tr><tr><td>食品消费量/（kg人-a-1） Food consumption</td><td></td><td>135</td><td>13</td><td>29</td><td>16</td><td>36</td><td>18</td><td>140</td><td>60</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我国城乡人均食品源氮消费环境排放量的变化趋势迥异,一方面是由于城乡居民食品消费结构的变化，致使两者供给氮素环境排放的能力差距逐步缩小。城市中,快速增长的高含氮率肉蛋禽奶食品逐步成为影响城市居民人均氮消费量变化的主要因素;农村中,消费量逐年下降的低含氮率植物性食物仍旧在居民人均食品消费结构中占主导。尽管农村人均食品源氮消费量在总量上仍旧存在优势,但由于城市化和人民生活水平的提高,两者供给氮素环境排放能力的差距正逐步缩小(如图7)。另一方面,城乡居民对于食品消费后产物资源化利用程度的差异,使农村人均居民食品源消费造成环境负荷仅约为城市居民相应排放的1/2。就厨余垃圾处理而言,城市 2012年处理的厨余垃圾中仅有 $2 2 . 6 6 \\%$ [21]经堆肥处理被循环利用,而农村则因居民家庭",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中的禽畜养殖 $8 0 \\%$ 的厨余垃圾以饲料的形式参与到物质循环利用中,人均环境氮排的城乡差距由1993 年的3.11倍逐年扩大至2012年的4.49倍(如图8);对于人体代谢产物的处理,农村约有 $30 \\%$ 的人体代谢产物经过堆肥腐熟成为农家肥料重新参与物质循环,在农村食品消费氮量逐年递减的背景下,该组份农村环境氮排也在研究期内呈现显著下降趋势 $( r _ { \\mathit { s } } = - 0 . 8 6 9 2 , W _ { \\mathit { p } } = 0 . 4 4 7 )$ ;城市处理人体代谢产物过程则因缺乏资源化再利用机制,使得人均环境氮排逐年波动上升 $( r _ { s } = 0 . 6 3 7 5 ~ W _ { p } = 0 . 4 4 7 )$ ,并于 2009 年前后超越农村,达到 2012 年的$2 . 6 2 ~ \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ （如图9）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/646b4c0b8c16ff3820eb9d1698a3bc9911605c318cd6c135b1bd73116e83f040.jpg",
+        "img_caption": [
+            "图71993一2012年中国城乡居民人均年主要食品氮消费量变化Fig.7Totals of nitrogen consumption per capita per year ofurban and rural residents in China(1993—2012) 1"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从食品消费活动引起的环境氮负荷总量上来看，土壤、水体是氮素输出的最主要的汇，而以城市消费产物为主的环境氮排是造成全国氮环境负荷增加的最主要因素，主要体现在城市餐厨垃圾填埋、焚烧、城市污水污泥堆积，以及城市污水尾水排放过程中。因此，减少餐厨垃圾量和资源化利用消费后产物是降低城市环境氮排乃至降低全国环境氮负荷的首要任务。据不完全统计，截止2012年，全国污泥处理率仅为 $1 3 . 7 9 \\%$ ,直接弃置的比例达到 $5 0 \\%$ 或更多[25]；而被处理的厨余垃圾中也仅有 $2 2 . 6 6 \\%$ [21被堆肥处理,其余城市食品消费产物中含氮则以不同形式最终进入到自然环境，如此这般，不仅造成了严重的氮环境负荷,也导致了严重食品氮素流失问题。以2012年为例，城市人均消费产物最终造成环境负荷量为 $4 . 1 3 ~ \\mathrm { k g }$ 人 $^ { - 1 } \\mathrm { ~ a ~ } ^ { - 1 }$ ，占到人均消耗食物中含氮的 $9 0 \\%$ 。食品中所含的氮素大都来自于农业生产过程中氮肥的输入，而氮肥主要源于工业固氮行为，即通过化学方法将空气中的氮转化为氨。据统计，工业固氮产量的 $8 0 \\%$ 用于农业[36],这就导致了食品氮素供需间的矛盾：一方面城市的食品消费需求导致自然固氮供给农业生产的能力远远不足,使得人们不得不求助于工业固氮手段;另一方面城市的食品消费机制造成了大量的氮素在自然环境中堆积,无法重新参与循环。与此同时,快速城市化进程,使得城市人口更为依赖外界物质能量特别是食品氮素的输入,这不仅对城市边界以外的区域带来更大的环境压力,也加剧了氮素供需间的矛盾。考虑到农村有效的食品消费后产物资源化利用的机制以及农业生产对氮素的需求,促使城乡发展都市农业（近郊农业）[37],实现城乡优势互补,将是管控全国食品源氮排,促进城乡一体可持续发展的重要途径。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba21c07a53d569720949deb2d4fa2c9804bd30c510c9d39989a36d8cd1ecca07.jpg",
+        "img_caption": [
+            "图81993一2012年中国城乡居民处理厨余垃圾人均年环境排放量Fig.8Totals of nitrogen environmental emissions of dealing withkitchen waste per capita per year of urban and rural residents inChina(1993—2012)"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b7b9bd5bbd2ebb00cdc813fa18b358531424d0267062388a64017bd80148fae.jpg",
+        "img_caption": [
+            "图91993一2012年中国城乡居民处理人体代谢产物人均年环境排放量Fig.9Totals of nitrogen environmental emissions of dealing withhuman manure per capita per year of urban and rural residentsin China(1993—2012)"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "城市发展的可持续性除了受到外部自然环境、社会经济水平、国家政策的影响,还与居民的个人选择息息相关。在科学研究的基础上,对居民食品消费活动进行科学的引导,改变居民的消费观念,形成合理营养的消费结构,减少食物浪费,对城市可持续发展意义重大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)1993—2012年,城乡食品源氮消费对水体、土壤、大气环境造成的负荷具有显著差异:农村水体氮排占据主导地位,但城乡间差异正逐步缩小;城市食品消费活动对土壤环境负荷快速增长的贡献明显;2010 年以前全国食品源氮消费大气环境负荷主要受农村气体氮排的影响,2010后,城市大气氮排成为影响全国大气氮环境负荷的主导因素。从总量上来看,土壤、水体是氮素输出的最主要的汇,而以城市消费产物为主的环境氮排是造成全国氮环境负荷增加的主要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)在城乡居民食品消费活动供给氮素环境排放能力的差距逐步缩小的背景下,导致城乡人均食品源氮排变化趋势迥异的主要原因为：城乡对食品消费后产物资源化利用方式的差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)城镇居民人均可支配收入水平对城镇居民人均食品源氮消费环境排放量呈显著促进作用,而农村食品价格指数对农村居民人均食品源氮消费环境排放量呈显著抑制作用。结合现有规划和政策分析,未来全国居民人均食品源氮消费环境负荷量仍将以快于现有趋势的速度继续增长,注重城乡优势互补,发展“近郊农业”是有效管控中国食品源氮消费环境排放的重要途径。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］杨晓达.消融城乡二元结构的设想.中国经济问题，2003，（5)：55-58.  \n[2］宋跃征，严先溥，杜燕.我国居民消费结构的变化.中国统计，2007，（9)：10-12.  \n[3] 严先溥.中国居民收入差距到底有多大?.经济研究参考，2005，（38）：21-29.  \n[4] 严先溥.重新审视中国农村市场与农民消费.中国流通经济，2002，16(1)：36-37.  \n[5] 洗超凡，欧阳志云.城乡居民食物氮足迹估算及其动态分析——以北京市为例.生态学报，2016，36(8)：2413-2421.  \n[6] 封志明，史登峰.近20年来中国食物消费变化与膳食营养状况评价.资源科学，2006，28（1)：2-8.  \n[7] NormanKJ，iesiotWMollHChanginglifestylesintrasitionroutestowardssustaiablehouseoldcosumptiopaersIteaialJournal of Sustainable Development，1999,2(2）：231-244.  \n[8］于洋，崔胜辉，赵胜男，孟凡鑫，李飞.城市居民食物氮消费变化及其环境负荷——以厦门市为例.生态学报，2012，32（19)：5953-5961.  \n[9］王文秀，吴开亚，刘晓薇.城乡居民食物碳消费变化与差异分析——以安徽省为例.长江流域资源与环境，2010,19（10)：1177-184.  \n[10] CasaniS，RouanyM，KngchelS.AdiscussonpaperochalengesandlimitationstwaterreuseandhygieneinthefodindustryWaterResearch, 2005,39(6) : 1134-1146.  \n[11] Huang Y, Tang Y H. An estimate of greenhouse gas ( ${ \\bf N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C O } _ { 2 }$ ）mitigation potential under various scenarios of nitrogen use efciency inChinese croplands.Global Change Biology，2010,16(11）：2958-2970.  \n[12]GallwJodsaJeua,CZFre,tillingSuasfnitrogen cycle：recent trends，questions，and potential solutions.Science,20o8,320(5878）：889-892.  \n[13]BoyerEWGodaleCL，JaworskiNA，HwarthRWAnthroogenicntrogensourcesandrelatonshipstierinentrogenexportitenortheastern U.S.A.Biogeochemistry，2002,57-58(1)：137-169.  \n[14]LeachAGllJeekerA,risnJKoR,iesJAntrenfotprintoeltlosumesuderstandrolenitrogen losses to the environment.Environmental Development,2012,1(1) :40-66  \n[15]GallowarteeihisJrfoptsueoaLetters，2014,9（11）：115003-115013.[16］马林，魏静，王方浩，高利伟，赵路，马文奇，张福锁.基于模型和物质流分析方法的食物链氮素区域间流动——以黄淮海区为例.生态学报，2009，29(1)：475-483.  \n[17］王俊能，许振成，彭晓春.中国城镇居民食物氮消费变化分析.安徽农业科学，2010,38（19）：10332-10334.  \n[18] 王俊能.中国城镇家庭食物消费体系中氮素流动特征分析[D].长沙：湖南农业大学，2010.  \n[19] 闫祯，崔胜辉，王慧娜，于洋，徐礼来.厦门快速城市化中居民食物C、N、P消费动态.环境科学与技术,2012,34(S1)：479-486.  \n[20] 王进，吝涛.食物源CNP 的城市代谢特征——以厦门市为例.生态学报，2014，34（21)：6366-6378.  \n[21] 国家统计局.中国统计年鉴(1994—2013).北京：中国统计出版社，1994-2013.  \n[22] 国务院办公厅.中国食物与营养发展纲要(2014—2020).北京：国务院办公厅，2014.  \n［23］冯磊，沈健.基础营养学.杭州：浙江大学出版社，2005：124-130.  \n[24]MaL,MaWQ，VelthofGL，WangFH,QinW,ZhangFS,OenemaO.Modeling nutrientflowsinthefoodchainofChina.JoualofEnvironmental Quality，2010,39(4）：1279-1289.  \n［25］张杞蓉，普晓晶.中国城市污水厂污泥处置现状研究.环境科学与管理，2015，40(4）：86-89.  \n[26]QuXY,Z,XieX,SuYangLhnYrvefoosiodgeneratioratefhouseoldwastesieijing，a.steManagement，2009，29（10）:2618-2624.  \n[27］魏静，马林，路光，马文奇，李建辉，赵路.城镇化对我国食物消费系统氮素流动及循环利用的影响.生态学报，2008，28（3)：1016-1025.  \n[28］刘晓利，许俊香，王方浩，张福锁，马文奇.畜牧系统中氮素平衡计算参数的探讨.应用生态学报，2006，17(3)：417-423.  \n[29] 朱兆良.中国土壤氮素研究.土壤学报，2008,45(5)：778-783.  \n[30] IPCC.2006IPCCGuidelinesforNatioalGrenouseGasIventories.Tokyo，Japan：InstituteforGlobalEnviromentalStrategies，0.  \n［31］高利伟.食物链氮素养分流动评价研究——以黄淮海地区为例[D].保定：河北农业大学，2009.  \n[32] 施压岚.中国食物链活性氮梯级流动效率及调控研究[D].厦门：中国科学院城市环境研究所，2014.  \n[33］罗婷文，欧阳志云，王效科，苗鸿，郑华.北京城市化进程中家庭食物碳消费动态.生态学报，2005，25(12)：3252-3258.  \n3]DraeothoeofUralatl.etcocinfoodhabitsinEuroe：consumptionoffruitandvegetables.EuropeanJournalof ClinicalNutrition，2Ooo,54（9）：706-714.  \n［35］中国社科院.2013中国中小城市绿皮书.北京：中国社科文献出版社，2013.  \n［36］谷保静.人类-自然耦合系统氮循环研究——中国案例[D].杭州：浙江大学，2011.  \n［37］胥智.都市近郊型生态农业园区规划研究[D].雅安：四川农业大学，2012.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "附表 协整检验 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "附1影响城市人均氮排相关因变量协整检验 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "将城市人均氮环境排放量( $Y _ { \\mathrm { H } \\uparrow \\uparrow \\uparrow }$ )与城市人均可支配收入 $( X _ { 1 } )$ ）、城市平均家庭规模( $\\mathbf { \\nabla } \\cdot X _ { 2 } \\mathbf { \\nabla } _ { 2 }$ )、城市教育程度$( X _ { 3 } )$ 、城市食品价格指数 $( X _ { 4 } )$ 这5个指标,分别取对数后进行协整检验。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c6deb809efbb733c89d18a61d1be0c4894c251a585f42c41da228f7d0bf76d6.jpg",
+        "table_caption": [
+            "附1.1城市影响因子单位根检验",
+            "附表1单位根的ADF检验结果(城市）"
+        ],
+        "table_footnote": [
+            "注：c代表截距，t是时间趋势，k是滞后阶数"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Attached Table 1</td><td colspan=\"5\">The result of ADF unit root test(Urban area）</td></tr><tr><td>变量 (Variable)</td><td>ADF检验值 （ADF Test)</td><td>P</td><td>检验类 型(c,t,k) Test Type (c,t,k)</td><td>1%临界值 C-value 1%</td><td>5%临界值 10%临界值 C-value 5% C-value 10%</td><td>检验结果 Test result</td></tr><tr><td>人均氮环境排放 Per capita environmental emissions</td><td>-4.130107</td><td>0.0272</td><td>(C,T,2)</td><td>-4.728363</td><td>-3.759743 -3.324976</td><td>平稳</td></tr><tr><td>of food consumption 人均可支配收入 Per capita disposable income</td><td>-4.522975</td><td>0.0129</td><td>(C,T,2)</td><td>-4.667883</td><td>-3.733200 -3.310349</td><td>平稳</td></tr><tr><td>平均家庭规模 Average size of family</td><td>-5.379375</td><td>0.0030</td><td>(C,T,2)</td><td>-4.667883</td><td>-3.733200 -3.310349</td><td>平稳</td></tr><tr><td>教育程度 Educational status</td><td>-5.589230</td><td>0.0021</td><td>(C,T,2)</td><td>-4.667883</td><td>-3.733200 -3.310349</td><td>平稳</td></tr><tr><td>食品价格指数 Food price index</td><td>-6.088542</td><td>0.0004</td><td>(C,T,2)</td><td>-4.057910 -3.119910</td><td>-2.701103</td><td>平稳</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如附表1所示,在0.05 的显著水平下,上述取对数后时间序列变量：人均环境排放量( $Y _ { \\mathrm { { f i f f } \\atop { f f } \\mathrm { { f f } \\atop { f f } \\mathrm { { f f } \\atop { f f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } } \\mathrm { { f } \\mathrm { { f } \\mathrm { { f } \\mathrm { } } } } } } } } } } } } } } }$ )与城镇居民人均可支配收入水平指数( $\\dot { \\left| { \\cal X } _ { 1 } \\right| }$ ）、城镇家庭规模 $( X _ { 2 } )$ 、教育程度( $\\mathbf { \\partial } \\cdot X _ { 3 }$ ）、城镇居民消费价格指数( $\\left. { { X } _ { 4 } } \\right.$ 的二阶差分均不存在单位根,是平稳序列,即五个变量均为二阶单整序列I（2）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "附1.2影响城市人均氮排相关因变量协整分析",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/07df97d8386cbec1668160525de8b7537212099015a3f39f756ab26f88129189.jpg",
+        "table_caption": [
+            "附1.2.1 建立城市协整检验回归方程",
+            "附表2协整检验的回归方程(城市)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Attached Table 2</td><td>The regression equation of co-integration test(Urban area)</td><td></td></tr><tr><td>变量Variable</td><td></td><td>系数Coefficient</td><td>标准误 Std.Error</td><td>T检验T-Statistic</td><td>显著性Prob.</td></tr><tr><td>人均可支配收入（Per capita disposable income)</td><td></td><td>0.138062</td><td>0.040861</td><td>3.378834</td><td>0.0038</td></tr><tr><td>平均家庭规模(Average size of family)</td><td></td><td>0.860895</td><td>0.269634</td><td>3.192825</td><td>0.0057</td></tr><tr><td>教育程度(Educational status）</td><td></td><td>0.035021</td><td>0.051958</td><td>0.674018</td><td>0.5099</td></tr><tr><td>食品价格指数（Food price index）</td><td></td><td>-0.114249</td><td>0.084752</td><td>-1.348042</td><td>0.1964</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如附表2所示所示,将取对数后的1993—2012年城市人均环境排放量( $Y _ { \\mathrm { f i j } \\backslash \\vec { \\Pi } }$ )量和取对数后的城镇居民人均可支配收入水平指数( $\\cdot X _ { 1 } \\cdot$ ）、城镇家庭规模 $( X _ { 2 } )$ 、受教育程度 $( X _ { 3 } )$ 和城镇居民消费价格指数 $( X _ { 4 } )$ 进行协整分析,得到回归方程：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l n } { \\cal Y } _ { _ { ( \\mathrm { 9 i f i \\bar { 1 } } ) } } = 0 . 1 3 8 0 6 2 \\mathrm { l n } { \\cal X } _ { _ 1 _ { t } } + \\ 0 . 8 6 0 8 9 5 \\mathrm { l n } { \\cal X } _ { _ 2 t } + \\ 0 . 0 3 5 0 2 \\mathrm { l n } { \\cal X } _ { 3 t } - \\ 0 . 1 1 4 2 4 9 \\mathrm { l n } { \\cal X } _ { 4 t }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从该方程我们可以可初步得知,取对数后的城市人均环境排放量( $( Y _ { \\mathrm { f } \\parallel \\parallel } , \\parallel ) ^ { ' }$ )与取对数后的城镇居民人均可支配收入水平指数( $( X _ { 1 } )$ 、城镇家庭规模( $\\ \\cdot$ ）、受教育程度 $( X _ { 3 } )$ 存在正相关关系，与取对数后的城镇居民消费价格指数 $( X _ { 4 } )$ 存在负相关关系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "附1.2.2 检验单整性",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对上式的残差进行单位根检验,判断残差序列是否平稳,本文采用ADF检验法,不含常数和时间趋势,由SIC 准则确定滞后阶数,检验结果见下表。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfafc66e1626c76142f415e9062702e73ffdb0b0d9810a832e1438a1c64ee8eb.jpg",
+        "table_caption": [
+            "Attached Table 3The ADF test result of residual error without first order difference(urban are. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>T检验T-Statistic</td><td>显著性 Prob.*</td></tr><tr><td>扩展dickey-fuller 检验统计量 Augmented Dickey-Fuller test statistic</td><td></td><td>-2.897957</td><td>0.0725</td></tr><tr><td>测试临界值 Test critical values</td><td>1%水平(1% level)</td><td>-4.057910</td><td></td></tr><tr><td></td><td>5%水平 (5%level)</td><td>-3.119910</td><td></td></tr><tr><td></td><td>10%水平(10% level)</td><td>-2.701103</td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如附表3所示，未经差分处理的ADF值不小于 $1 \\%$ 一 $1 0 \\%$ 的 ADF临界值，即认为未经差分处理的变量回归后的残差序列是不稳定的。 ！：",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/01ba4a6caede08c9fec05363e98144cc235a9796fc822782fc37ff3182343a65.jpg",
+        "table_caption": [
+            "附表3未经过差分处理的变量回归后残差序列ADF检验结果(城市）",
+            "附表4经过一阶差分处理的变量回归后残差序列ADF检验结果（城市)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>T检验T-Statistic</td><td>显著性Prob.*</td></tr><tr><td>扩展 dickey-fuller 检验统计量</td><td>-5.304523</td><td>0.0016</td></tr><tr><td>Augmented Dickey-Fuller test statistic</td><td></td><td></td></tr><tr><td>测试临界值 Test critical values</td><td>1%水平 (1% level) -4.121990</td><td></td></tr><tr><td></td><td>5%水平 (5% level) -3.144920 10%水平 (10% level) -2.713751</td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如附表4所示，一阶差分结果ADF值小于 $1 \\%$ 一 $1 0 \\%$ 的 ADF临界值。所以证明一阶差分处理的变量回归后残差序列是稳定的。并由附表2可知其长期均衡协整方程为：",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "通过以上协整检验可以得出,1993—2012 年城市人均环境排放量( $Y _ { \\mathrm { f i f f } }$ )和城镇居民人均可支配收入水平指数 $( X _ { 1 } )$ 、城镇家庭规模 $( X _ { 2 } )$ 、受教育程度 $\\left( { { X } _ { 3 } } \\right) ^ { \\dag }$ 城镇居民消费价格指数 $( X _ { 4 } )$ 之间存在协整关系。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "附2影响农村人均氮排相关因变量协整检验 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "将农村人均氮环境排放量( $Y _ { \\mathcal { K } \\mathcal { H } }$ )与农村人均可支配收入（ $( X _ { 1 } )$ 、农村平均家庭规模 $\\left( { { X } _ { 2 } } \\right)$ ）、农村食品价格指数 $( X _ { 3 } )$ 这4个指标,分别取对数后进行协整检验。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/c590f31dc611abdfbda4504ae27642ce65e3fe43504826d3686a2046fc7c7b3e.jpg",
+        "table_caption": [
+            "Attached Table 4The ADF test result of residual error after first order difference(urban area) ",
+            "附2.1农村影响因子单位根检验",
+            "附表5单位根的ADF检验结果(农村)",
+            "Attached Table 5the result of ADF unit root test(rural area) "
+        ],
+        "table_footnote": [
+            "c：截距，t：时间趋势，k：滞后阶数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量 Variable</td><td rowspan=\"2\">ADF检验值 （ADF Test)</td><td rowspan=\"2\">检验类型 (c,t,k) P</td><td rowspan=\"2\">Test Type (c,t,k)</td><td rowspan=\"2\">1%临界值 C-value 1%</td><td rowspan=\"2\">5%临界值 C-value 5%</td><td rowspan=\"2\">10%临界值 C-value 10%</td><td rowspan=\"2\">检验结果 Test result</td></tr><tr><td></td></tr><tr><td>人均氮环境排放 Per capita environmental emission of food consumption</td><td>-3.848061</td><td>0.0102</td><td>(C,T,1)</td><td>-3.857386</td><td>-3.040391</td><td>-2.660551</td><td>平稳</td></tr><tr><td>人均可支配收入 Per capita disposable income</td><td>-3.241286</td><td>0.0390</td><td>(C,T,1)</td><td>-4.004425</td><td>-3.098896</td><td>-2.690439</td><td>平稳</td></tr><tr><td>平均家庭规模 Average size of family</td><td>-6.916752</td><td>0.0000</td><td>(C,T,1)</td><td>-3.857386</td><td>-3.040391</td><td>-2.660551</td><td>平稳</td></tr><tr><td>食品价格指数 Food price index</td><td>-5.247278</td><td>0.0037</td><td>(C,T,1)</td><td>-4.667883</td><td>-3.733200</td><td>-3.310349</td><td>平稳</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由附表5可知,在0.05的显著水平下，上述取对数后的各时间序列变量的一阶差分序列不存在单位根，即是平稳序列I（1）。所以将取对数后的农村人均可支配收入( $\\left| { { X } _ { 1 } } \\right.$ ）、农村平均家庭规模（ $\\left( { { X } _ { 2 } } \\right)$ ）、农村食品价格",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "指数 $( X _ { 3 } )$ 与取对数后农村人均氮环境排放量( $\\cdot Y _ { \\cdot \\ast \\cdot \\cdot \\mathrm { f } }$ )进行协整分析。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附2.2影响农村人均氮排影响因子协整分析",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附2.2.1建立农村协整检验回归方程",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/f317e4bd7f6fde5612539c88218e678118647fc3a641c09a1fb935ebcda5258e.jpg",
+        "table_caption": [
+            "附表6协整检验的回归方程(农村) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量Variable</td><td>系数Coefficient</td><td>标准误 Std.Error</td><td>T检验T-Statistic</td><td>显著性 Prob.</td></tr><tr><td>人均可支配收人Per capita disposable income</td><td>-0.018207</td><td>0.047297</td><td>-0.384957</td><td>0.7050</td></tr><tr><td>平均家庭规模 Average size of family</td><td>1.057105</td><td>0.067340</td><td>15.69805</td><td>0.0000</td></tr><tr><td>食品价格指数Food price index</td><td>-0.045064</td><td>0.047633</td><td>-0.946072</td><td>0.3574</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如附表6所示,对1993—2012年取对数后的农村人均环境排放量( $Y _ { \\mathcal { K } ^ { \\epsilon \\sharp } }$ )与取对数后的农村居民人均可支配收入水平指数( $\\mathbf { \\dot { X } } _ { 1 }$ ）、农村家庭规模 $( X _ { 2 } )$ 、农村居民消费价格指数 $( { X } _ { 3 } )$ 进行协整分析,得到回归方程：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "从该方程我们可以可初步得知,取对数后的农村家庭规模 $( X _ { 2 }$ )与取对数后的农村人均环境排放量（ $Y _ { \\mathcal { K } \\mathcal { H } }$ )存在正相关关系,与取对数后的农村居民人均可支配收入水平指数 $( \\overline { { X _ { 1 } } } )$ 、农村居民消费价格指数 $( X _ { 3 } )$ （20存在负相关关系。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附2.2.2 检验单整性",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "对上式的残差进行单位根检验,判断残差序列是否平稳,本文仍然采用ADF检验法,不含常数和时间趋势,由 SIC 准则确定滞后阶数,检验结果如见附表7。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1a8bce21f57a801b586312913a09c6d7dd94d392787fae5c2a4165ff6793193.jpg",
+        "table_caption": [
+            "附表7未经过差分处理的变量回归后残差序列ADF检验结果(农村)",
+            "Attached Table7The ADF test result of residual error without first diference treatment(rural ai "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>T检验T-Statistic</td><td>显著性Prob.*</td></tr><tr><td>扩展dickey-fuller 检验统计量</td><td></td><td>-5.824242</td><td>0.0017</td></tr><tr><td>Augmented Dickey-Fuller test statistic 测试临界值 Test critical values</td><td>1%水平(1% level)</td><td>-4.728363</td><td></td></tr><tr><td></td><td>5%水平 (5% level)</td><td>-3.759743</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>10%水平(10% level)</td><td>-3.324976</td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如附表7所示,未经差分处理的ADF值小于 $1 \\%$ 一 $1 0 \\%$ 的 ADF 临界值,即认为未经差分处理的变量回归后的残差序列是稳定的。并由附表6可知其长期均衡协整方程为：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln Y _ { \\scriptscriptstyle t } = - { \\phantom { - } } 0 . 0 1 8 2 0 7 \\mathrm { l n } X _ { \\scriptscriptstyle 1 t } \\ + \\ 1 . 0 5 7 1 0 5 \\mathrm { l n } X _ { \\scriptscriptstyle 2 t } \\ - \\ 0 . 0 4 5 0 6 4 \\mathrm { l n } X _ { \\scriptscriptstyle 3 t }\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "通过以上协整检验可以得出,1993—2012 年农村人均环境排放量( $Y _ { \\mathit { \\# } ( \\mathit { \\# } ) } )$ 和农村居民人均可支配收入水平指数( $( X _ { 1 } )$ 农村家庭规模 $( X _ { 2 } )$ ）、农村居民消费价格指数 $( X _ { 3 } )$ 之间存在协整关系。",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "环境因素及种间竞争在群落多样性格局中的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱羚¹，金一兰¹，丛日慧¹，刘庆福¹，丁勇²，张庆（1．内蒙古大学生态与环境学院,内蒙古 呼和浩特010021;2．中国农业科学院草原研究所/农业部草地生态与修复治理重点实验室,内蒙古 呼和浩特010010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以内蒙古典型草原多年围封草场的丘坡为研究区,沿坡面均匀设置6条样线，共计96个样方,探究坡位对典型草原群落物种多样性和功能多样性的影响,并讨论环境因素和种间竞争在群落两种维度多样性格局中的作用。结果表明： $\\textcircled{1}$ 物种多样性和功能多样性沿坡位变化的趋势一致。随着坡位上升,群落的物种丰富度和功能丰富度均单调递减,物种均匀度、物种优势度和功能均匀度、功能离散度均先增加后降低。 $\\textcircled{2}$ 从整个坡位来看，土壤全磷含量是影响群落物种丰富度的主要因子,并与功能丰富度显著相关;种间竞争是影响物种均匀度、物种优势度和功能离散度的重要因素,并与功能均匀度显著相关。 $\\textcircled{3}$ 群落物种多样性及功能多样性在上坡位主要受到种间竞争与环境的共同作用,在下坡位则主要受到种间竞争的影响。因此,在探究群落生物多样性格局变化的过程中,要综合考虑环境因素和生物因素的共同作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：坡位；物种多样性；功能多样性；种间竞争；内蒙古 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，由于人类活动加剧，物种灭绝速度大大加快，全球变化背景下的生物多样性受到了严重威胁。生物多样性的丧失深刻影响着人类社会的可持续发展与人类福祉[1]。因此,为了保护生物多样性，生物多样性的格局和维持机制已成为当前国际生物多样性科学研究的热点问题之一[2-3] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物多样性格局及驱动因素具有明显的尺度依赖效应[4-5]。在大尺度条件下,如全球植被的分布格局,以气候条件为主导因素[6；景观尺度下,如诺克路福山脉的草原景观格局[7]，主要受到海拔的影响;局地尺度下，如亚高山草甸沿南北坡向梯度分布的群落格局,主要影响因子是地形[8]。微地形通过地貌过程及崩塌、堆积、地表起伏等形态，对光照、热量、水分和养分等生态因子进行空间上的再分配，致使微地形内小生境发生变化，从而影响群落生物多样性的空间分布格局。坡位是微地形中“坡面尺度”上的一个重要地形因子，指的是自然坡面的不同部位。关于坡位对生物多样性的研究，国内已经在浙江东部低山丘陵地区[9],金沙江干热河谷[10]及黄土丘陵区(1]等地开展了一系列研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "性格局和维持机制的两个重要维度。在关于坡位对群落物种多样性和功能多样性的研究中，以往的研究结果多强调环境因素对群落多样性变化的影响，如光照条件、土壤水分的变化及主要营养元素含量的变化与群落结构、功能特征的关系[10-12],而较少关注生物因素（如种间竞争）的影响和作用。内蒙古草原区地势相对平坦，以高平原为主要地貌，尽管地势起伏不大，但坡位仍然会对生境的水分、热量和土壤养分进行再分配,进而影响植物群落及其生物多样性[13]。因此,本试验以内蒙古典型草原为研究对象，通过样线法探究坡位对群落物种多样性和功能多样性的影响，并采用基尼系数作为量化种间竞争的指标，希望解决以下两个科学问题： $\\textcircled{1}$ 物种多样性和功能多样性沿坡位的变化趋势； $\\textcircled{2}$ 环境因素及种间竞争在物种多样性和功能多样性格局中的作用。旨在解释内蒙古典型草原区坡位与群落的生物多样性格局之间的关系，为该区的草地资源合理化利用和植被恢复提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物种多样性和功能多样性是用于描述生物多样实验区位于锡林郭勒盟典型草原区内蒙古大学生态学研究基地，为多年围封草场。地理位置为$1 1 6 ^ { \\circ } 2 9 ^ { \\prime } \\mathrm { E } , 4 4 ^ { \\circ } 0 9 ^ { \\prime } \\mathrm { N }$ ，海拔 $1 ~ 1 0 2 ~ \\mathrm { m }$ 。气候类型为中温带半干旱大陆气候，年平均气温 $- 2 \\sim 5 \\mathrm { ~ \\textdegree C }$ ,年降水量在 $2 5 0 \\sim 3 0 0 ~ \\mathrm { m m }$ ,土壤以栗钙土为主。常见植物种有羊草（Leymuschinensis）、大针茅（Stipa gran-dis）糙隐子草（Cleistogenessquarrosa）及黄囊臺草(Carex korshinskyi）等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究内容与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 样地设置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "坡位主要通过对土壤资源进行空间再分配来改变群落的多样性格局，考虑到土壤养分的差异性变化,选择草场内一处坡度约为 $5 ^ { \\circ }$ 的平整缓丘为样地。沿着垂直于坡向的方向均匀设置6条样线，相邻样线之间的距离为 $1 2 \\mathrm { ~ m ~ }$ ,从坡底到坡顶分别标记为1\\~6号。将1\\~3条样线所在坡位划分为下坡位,4～6条样线所在坡位划分为上坡位。样线长度均为 $3 1 \\mathrm { ~ m ~ }$ ,在每条样线上每隔 $1 \\mathrm { ~ m ~ }$ 设置一个 $1 \\ \\mathrm { m } \\times 1$ $\\mathbf { m }$ 的样方，每条样线有16个样方，共计96个样方。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 植被调查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被的调查和采样实践于7月中旬至8月上旬草原生物量的高峰期进行。在进行野外取样时要求记录每个样方内所有植物名称、植株垂直高度、株丛数和频度，同时测量各植物自然展开时的株丛直径，按椭圆计算其面积即为丛幅。对于每一物种选取健康无病虫害的5株，取其地上部分，测量植株高度、总叶片数，用LI-3100叶面积仪测定叶面积，取其均值。将采得的地上部分在 $6 0 \\ \\mathrm { { ^ circ C } }$ 下烘 $^ { 7 2 \\mathrm { ~ h ~ } }$ 至恒重，称取茎、叶干重，得到该物种的地上生物量，再计算平均单个植株地上重。由于坡面上难以取得所有物种的完整根系，因此通过查阅植物志和相关文献的植物形态描述来获取样方内所有植物的根系深度。本次实验共选取6个植物功能性状，分别是植株高度、丛幅、叶干重、叶面积、比叶面积及根系深度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 土壤调查 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在每个样方内用土钻沿对角线方向取得 $0 \\sim 1 0$ $\\mathrm { c m } _ { \\mathrm { \\scriptsize ~ 1 0 } } \\mathrm { \\sim } 2 0 \\mathrm { c m } _ { \\mathrm { \\scriptsize ~ 2 0 } } \\mathrm { \\sim } 3 0 \\mathrm { c m }$ 深的土壤样品3钻，均匀分为2份。一份用铝盒法测定含水量，另一份用作土壤因子分析。土壤全氮用凯氏法消解，AA3连续流动化学分析仪测定，速效氮采用 $1 . 0 \\mathrm { \\ m o l } \\cdot \\mathrm { L } ^ { - 1 }$ KCIAA3连续流动化学分析仪测定。全磷含量用凯氏法消解，钼锑抗比色法测定，速效磷含量用0.5mol·L-'NaHCO提取,钼锑抗比色法测定[14]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.1物种多样性指数实验分析了物种多样性的3个方面：物种丰富度、物种均匀度和物种优势度，因此采用物种丰富度和Shannon-Wiener指数和Simpson指数进行计算。计算方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物种丰富度即为每一样方中的物种数目。Shannon-Wiener指数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum _ { i - 1 } ^ { n } p _ { i } \\times \\ln ( p _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simpson 指数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD \\ = \\ 1 \\ - \\ et { } { ^ { n } } { \\sum } _ { i \\ = 1 } ^ { n } p _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $p _ { i } = n _ { i } / N$ 代表第 $i$ 个种的相对多度; $n _ { i }$ 代表第$i$ 个种的个体数目（即株丛数）； $N$ 代表群落所有种的个体总数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.2功能多样性指数Mason 等仿照物种多样性的划分方式,将功能多样性分为3个方面[15]。本文选取功能丰富度指数FAD、功能均匀度指数FEve和功能离散度指数FDis从不同方面描述典型草原群落的功能多样性。FAD是多维的功能丰富度指数，描述物种占据功能空间的大小。FEve是一个多维的功能均匀度指数，用作指示资源利用程度。FDis 描述物种功能和性状空间中物种簇（若干物种聚集在一起)所处位置的差异程度，定量表示群落中特征值的异质性[16-17] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "功能丰富度指数FAD计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E D } _ { i j } = \\sqrt { \\sum _ { \\scriptstyle t = 1 } ^ { T } ( x _ { i j } - x _ { t i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F A D } = \\ \\sum _ { \\scriptstyle t = 1 } ^ { \\scriptstyle s } \\sum _ { \\scriptstyle j > 1 } ^ { \\scriptstyle s } \\mathrm { E D } _ { { \\scriptstyle i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $s$ 表示物种数目; $T$ 表示性状的数量; $\\boldsymbol { x } _ { t i }$ 和 $x _ { t j }$ 表示物种 $i$ 和物种 $j$ 性状 $\\mathbf { \\chi } _ { t }$ 的值, $\\mathrm { E D } _ { i j }$ 代表物种 $i$ 与物种 $j$ 间的欧氏距离。欧氏距离是指在 $m$ 维空间中两点之间的真实距离或是两点间向量的自然长度，在该公式中即为两点之间的真实距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "功能均匀度指数FEve计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E W } _ { \\mathrm { I } } = \\frac { \\mathrm { d i s t } ( i , j ) } { w _ { i } + w _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P E W } _ { \\mathrm { I } } = \\frac { \\mathrm { E W } _ { \\mathrm { I } } } { \\sum _ { i = 1 } ^ { S - 1 } \\mathrm { E W } _ { \\mathrm { I } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F E v e } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { S = 1 } \\operatorname* { m i n } \\Big ( \\mathrm { P E W } _ { \\mathrm { I } } , \\frac { 1 } { S - 1 } \\Big ) \\frac { 1 } { S - 1 } } { \\displaystyle 1 - \\frac { 1 } { S - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $s$ 表示物种数目；EW表示均匀度权重；dist$( i , j )$ 代表物种 $i$ 和物种 $j$ 间的欧氏距离; $\\textstyle \\mathbf { \\textit { W } } _ { i }$ 表示物种 $i$ 的相对多度； $I$ 为分支长； $\\mathrm { P E W } _ { \\mathrm { I } }$ 表示分支长的权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "功能离散度指数FDis计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先要计算群落中各物种在 $i$ 维性状空间中的加权重心，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\left[ C _ { i } \\right] = \\frac { \\displaystyle \\sum a _ { i } x _ { i j } } { \\displaystyle \\sum a _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $a _ { j }$ 表示物种 $j$ 的相对多度； $x _ { i j }$ 表示物种 $j$ 的第 $i$ 个性状的值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F D i s } = \\frac { \\sum a _ { j } z _ { j } } { \\sum a _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $z _ { j }$ 表示物种 $j$ 到重心 $\\mid c \\mid$ 的加权距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.3基尼系数基尼系数是20世纪初经济学家基尼所提出的一个判断收入分配公平程度的指标，随着该系数在各领域的广泛应用，也出现了将生物量引入该系数作为量化群落种间竞争强度的研究方法[18-19]。本实验也采用这种方法,计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = 1 - { \\frac { 1 } { n } } \\left( 2 \\sum _ { i = 1 } ^ { n - 1 } W _ { i } + 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 表示物种数目； $\\textstyle \\ W _ { i }$ 表示某一物种的地上生物量占地上总生物量的比重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.4统计分析首先,对不同坡位上物种多样性、功能多样性的变化进行趋势分析，观察物种多样性及功能多样性沿坡位变化的趋势。其次，运用多元逐步回归分析确定环境因素和生物因素对物种多样性和功能多样性的影响，从而确定主导因素。最后，分别对物种多样性指数及其主导因素、功能多样性指数及其主导因素进行相关分析，将分析结果制图，分析各个主导因素与物种多样性指数、功能多样性指数的关系。物种多样性指数和功能多样性指数的计算均由FDiversity软件完成，分析过程中进行的回归分析及相关分析等计算均运用软件SPSS21.0完成，各变量之间的关系拟合及作图由Sigmaplot10.0完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1物种多样性沿坡位的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3个物种多样性指数随坡位增加的变化趋势如图1所示。其中，物种丰富度一直在减少，而Shannon-Wiener指数和Simpson指数则呈现先增加后降低的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2功能多样性沿坡位的变化 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3个功能多样性指数随坡位上升的变化趋势如图2所示。与物种多样性指数的变化相似，功能丰富度指数逐渐降低，而功能均匀度指数和功能离散度指数则呈现先增加后降低的趋势",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/08e34c9af23e9dadedcff55d93258879d047db8ddba20a1f080c22d5b58565b5.jpg",
+        "img_caption": [
+            "图1物种多样性各指数变化趋势 Fig.1Trend of species diversity index "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b71dffdd7b45cb6ffb9ad8628af9d39e6f1a20f8f31f9276de898dc483823032.jpg",
+        "img_caption": [
+            "图2功能多样性各指数变化趋势 Fig.2Trend of functional diversity index "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3环境及种间竞争对物种多样性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对土壤各类营养元素、含水量、基尼系数与3项物种多样性指数进行多元逐步回归分析，以确定对其影响最大的因素。由于Shannon-Wiener指数和Simpson指数的变化趋势呈单峰曲线，因此分坡位进行分析。如表1所示，影响较大的因子是土壤中的全磷含量、基尼系数和土壤 $0 \\sim 3 0 ~ \\mathrm { c m }$ 的平均含水量。其中，全磷含量随坡位升高而略有增加（图3），与物种丰富度相关性显著;基尼系数反映种间竞争强度，在不同坡位均与Shannon-Wiener指数和Simpson指数具有显著负相关关系;平均含水量仅在上坡位与 Shannon-Wiener指数和Simpson指数具有显著负相关关系。对此进行进一步分析，结果如图4所示。其中，物种丰富度随全磷含量的增加而增加,Shannon-Wiener指数 $( H )$ 和Simpson指数 $( D )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1物种多样性多元逐步回归分析与相关分析结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6867e6c755b330736e8a7fdea9fdf260277963142bedb35f82caf358599af19.jpg",
+        "table_caption": [
+            "Tab.1Species diversity multiple stepwise regression analysis and correlation analysis results "
+        ],
+        "table_footnote": [
+            "注： $^ { * * }$ 为 $1 \\%$ 水平上差异显著； $*$ 为 $5 \\%$ 水平上差异显著。下同。 "
+        ],
+        "table_body": "<html><body><table><tr><td>物种多样性</td><td>坡位</td><td>影响 因子</td><td>R²</td><td>Pearson 相关系数</td></tr><tr><td>物种丰富度</td><td>全坡</td><td>全磷</td><td>0.762</td><td>0.325 **</td></tr><tr><td>Shannon-Wiener 指数</td><td>全坡</td><td>基尼系数</td><td>0.624</td><td>-0.790 **</td></tr><tr><td rowspan=\"6\"></td><td></td><td>全磷</td><td>0.026</td><td>0.140</td></tr><tr><td>下坡位</td><td>基尼系数</td><td>0.722</td><td>-0.850 **</td></tr><tr><td>上坡位</td><td>基尼系数</td><td>0.475</td><td>-0.690 **</td></tr><tr><td></td><td>平均含水量</td><td>0.123</td><td>-0.438 **</td></tr><tr><td>全坡</td><td>基尼系数</td><td>0.674</td><td>-0.823**</td></tr><tr><td>下坡位</td><td>基尼系数</td><td>0.728</td><td>-0.853 **</td></tr><tr><td></td><td>上坡位</td><td>基尼系数</td><td></td><td></td></tr><tr><td></td><td></td><td>平均含水量</td><td>0.554 0.084</td><td>-0.744 ** -0.387 **</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/75e911cbd99d599b3a668b2a366f22dd00a8465ccd48e2d04eaf6a8f9ece7bb8.jpg",
+        "img_caption": [
+            "图3土壤全磷含量的变化趋势 Fig.3Trend of soil total phosphorus content "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "均随基尼系数的增加而降低，在基尼系数大于0.5时尤为明显，两者结果相似。而在上坡位（即两指数呈下降趋势的波段)两指数均随平均含水量的增加而降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4环境及种间竞争对功能多样性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，对土壤各类营养元素、含水量、基尼系数与3项功能多样性指数进行多元逐步回归分析和相关分析。如表2所示，影响功能多样性的主要因素是全磷含量、基尼系数和土壤平均含水量，且均达到显著相关水平。其中，土壤中的全磷与功能丰富度相关性显著;基尼系数与功能丰富度、功能均匀度、功能离散度的3项指数均具有显著相关关系；平均含水量在上坡位与功能均匀度、功能离散度两指数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14 2.0(a) 。 。 2.5 (b) ：B 二 1.8 (c) ：o HD B12 。 000 。 00 。。 2.0 1.6 . 心 . .  \n度10 。。68800。 。 . 1.2 + ：.  \n富 8896 数1.5 . .  \n丰 8 888。8。8 1.0 ： \" .。 .6 。。。。。。 . % 8 0.6 Y 。 。 。6 68 。4 o。 0.5 o。 。 0.4 8 8 8 Q 00。 6 0.2 。 o。o02 L 0 0222426 28 30 323436 0.2 0.4 0.6 0.8 1.0 3 4 5 6 1 8 9全磷/ $\\bar { \\bf \\Phi } _ { \\mathrm { - } } \\mathrm { \\bf m g } \\cdot ( 1 0 0 { \\bf g } ) ^ { - 1 } .$ 一 基尼系数 平均含水量/%",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2功能多样性多元逐步回归分析与相关分析结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed3ee2a1e5d8d1c2bca2e8d807668c3ff8c63f71b84558b6c3328c3b55166033.jpg",
+        "table_caption": [
+            "Tab.2Functional diversity multiple stepwise regression analysis and correlation analysis results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>功能 多样性</td><td>坡位</td><td>影响因子</td><td>R²</td><td>Pearson 相关系数</td></tr><tr><td>FAD</td><td>全坡</td><td>全磷</td><td>0.121</td><td>0.829 **</td></tr><tr><td rowspan=\"3\">FEve</td><td></td><td>基尼系数</td><td>0.041</td><td>0.211 *</td></tr><tr><td>全坡</td><td>基尼系数</td><td>0.143</td><td>-0.378 **</td></tr><tr><td>下坡位</td><td>基尼系数</td><td>0.169</td><td>-0.411 **</td></tr><tr><td rowspan=\"6\">FDis</td><td>上坡位</td><td>基尼系数</td><td>0.167</td><td>-0.408 **</td></tr><tr><td></td><td>平均含水量</td><td>0.093</td><td>-0.357 *</td></tr><tr><td>全坡</td><td>基尼系数</td><td>0.585</td><td>-0.765 **</td></tr><tr><td>下坡位</td><td>基尼系数</td><td>0.608</td><td>-0.780 **</td></tr><tr><td>上坡位</td><td>基尼系数</td><td>0.544</td><td>-0.737 **</td></tr><tr><td></td><td>平均含水量</td><td>0.065</td><td>-0.351 *</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "呈显著负相关关系。由图5可以看出，功能丰富度指数(FAD)随着土壤全磷含量的增加而增加;功能均匀度指数(FEve）和功能离散度指数（FDis）均随着基尼系数的增加而降低，但后者比前者所受的影响更大，变化更为剧烈;在上坡位，两指数同样随着平均含水量的增加而降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1物种多样性与功能多样性沿坡位的变化趋势 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "物种多样性是个体层次上的生物多样性，涵盖了生物资源丰富性、生物之间及生物与环境之间复杂关系等内容，一定程度上表征了群落的结构特征、组织水平、演替阶段及稳定性等[20-21]。功能多样性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "100 (a) 0.9 (b) ： FEve FEve 0.9 (c)○FDis FDis80 。 。 0.8 ： ： 0.8  \nav 。 8 0。。 。 8 。% . 8。 美 009 o。 54488 8 8088 。 %.%：  \n丰 4020 00 00 。 ·° p 8 ·1%o。 8 。 。。 0.2 。 ：。 。 。 0.2 。 。。0 0.1 L 0.1222426 28 30 3234 0.2 0.4 0.6 0.8 1.0 3 4 5 6 7 8 9全磷/ $\\mathbf { m g } \\cdot ( 1 0 0 \\mathbf { g } ) ^ { - 1 } .$ □ 基导尼系数 平均含水量/%",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的本质则是群落中不同物种之间的功能性状差异，包括在不同环境压力或干扰下功能性状所产生的相应变化[22]。本研究中,物种多样性随坡位上升的变化趋势为：物种丰富度减少，物种均匀度和物种优势度则呈现先增加后降低的趋势；功能多样性随坡位上升的变化趋势为：功能丰富度逐渐降低，功能均匀度和功能离散度先增加后降低。与刘旻霞等[23]和$\\mathrm { H u }$ 等[24]的研究结果相似,物种丰富度和功能丰富度均随可利用资源的减少而降低，但物种均匀度、物种优势度及功能均匀度、功能离散度的变化则有所不同，体现了物种多样性和功能多样性的三个不同层次对于环境资源的变化具有不同的响应方式[25]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于物种多样性和功能多样性之间的关系，当前的研究结果主要有正相关[26、负相关[27]、不相关[28]和S形曲线[29]等。本研究中,物种多样性和功能多样性沿坡位变化表现出一致性，体现了二者的正相关关系。这种一致不仅表现在总体格局变化一致,更表现在两种多样性格局在相互对应的不同层次上的一致，即随着坡位上升，群落的物种丰富度和功能丰富度均单调递减，物种均匀度、功能均匀度和物种优势度、功能离散度均先增加后降低。这与李晓刚等[30]和陈超等[31]在青藏高原高寒草甸的研究结果相似，二者的正相关关系可以用资源利用性竞争的物种共存理论和极限相似原理来解释：共存物种的功能属性必然不完全相似，生态位也必然不完全重叠，物种数量减少会引起功能性状丢失或性状空间维度降低,致使功能多样性降低(32-33) O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 环境因素对群落生物多样性格局的作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在小尺度范围内的低山丘陵地区，海拔落差较小、植被垂直地带性不明显的群落中，微地形往往比海拔梯度更能解释群落多样性格局的内在机制。微地形通过对局部生境中的太阳辐射、降水及土壤养分进行重新配置，影响了群落的生物多样性格局[25]。本研究中,坡位改变了土壤养分在群落中的分配,进而影响了多样性格局，其中土壤中的全磷含量是重要的影响因素，它影响了整个坡位的物种丰富度，与功能丰富度也显著相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤中的全磷含量并不能直接作为衡量土壤的肥力高低的指标，但它可以反映土壤潜在的供磷能力。当全磷含量低于 $3 0 \\mathrm { \\ m g \\ ^ { - } \\left( 1 0 0 g \\right) { \\Sigma } ^ { - 1 } }$ 时,土壤往往缺磷。自20世纪60 年代以来，内蒙古温带半干旱草原区的土壤全磷含量一直维持着较低的养分水平[34]。与徐志友等[35]的结果类似,全磷含量随着坡位降低而逐渐增加，但本研究区的土壤缺磷状况更为严重。经统计，在超过2/3的样方中，全磷含量均低于 $3 0 ~ \\mathrm { m g } \\cdot \\left( 1 0 0 \\mathrm { g } \\right) ^ { - 1 }$ ,且集中于坡位的中上部,坡底的全磷含量均值也不超过 $5 0 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 0 \\mathrm { g } \\mathrm { ~ ) ~ } ^ { - 1 }$ （图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "磷元素是生物地球化学循环中的重要元素。作为构成生物有机体的重要组成元素，磷元素主要集中于叶绿体、线粒体、核糖体等细胞器及核酸中，参与植物的光合作用、呼吸作用等重要生理活动，对植物的生存和繁衍具有重要作用[36]。此外,缺磷也会影响到植物对土壤中另一重要营养元素——氮元素的吸收，限制蛋白质的合成和多种酶参与的光合作用过程,进而影响植物的生长发育[37]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在缺水的荒漠和半干旱区，由于土壤中含有大量吸附和固定磷的钙盐，使植物对磷的吸收和利用更加困难，使磷成为这类区域主要的限制因子之二[38]。如张雪妮等对新疆的艾比湖河岸的研究表明，在与河岸距离逐渐增加的过程中，土壤全磷始终是影响该区域植物多样性格局的重要因子[39]。因此，土壤全磷含量不足，影响了群落中植物的重要生活史和群落生物多样性格局。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3种间竞争对群落生物多样性格局的作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "竞争是生物个体或种群之间的一种负相互作用,往往发生于生境中共享资源有限的条件下[40]除了环境因素，基尼系数反映的种间竞争也是影响群落生物多样性格局的重要驱动因素。在回归分析和相关分析结果中，基尼系数在各个坡位均为影响物种均匀度、物种优势度和功能离散度的重要因子，与功能均匀度显著相关，体现了小尺度群落研究中生物因素的重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "种间竞争是影响群落组成、结构与动态的决定性因素之一[41]。植物群落组成由决定性因素和随机过程决定，生物体的相互作用就是决定性因素的重要组成部分。种间竞争是植被演替的重要动力，贯穿于整个演替过程，促使新的群落结构形成，一定程度上反映了群落的动态变化[42]。Tilman 曾提出关于竞争对群落演替的相对重要性的观点[43]：当环境资源差异而发生群落演替时，竞争在整个演替过程中都起到了重要作用。在环境资源较低时，主要体现为物种对土壤矿质养分和水分的竞争;环境资源较高时，则主要为光竞争。本研究中，在坡位上升的过程中，可利用资源逐渐减少，群落演替发生，逐渐形成新的群落结构，大针茅取代羊草成为新的建群种。在上坡位，由于养分短缺，群落多样性格局主要受到环境因素和种间竞争的共同作用；在卜坡位，养分累积使环境容纳量增加，更多物种得以定居，但也使各物种竞争更为剧烈，基尼系数的贡献率上升，群落多样性格局主要受到种间竞争的作用。整体来看，土壤全磷和平均含水量与多项指数显著相关，但贡献率略低，基尼系数则同时表现了相关性显著和高贡献率。这反映出典型草原总体缺磷、缺水的现状下，随着坡位上升，群落由于环境资源差异而发生演替，这一过程中种间竞争起到了不可忽视的作用。因此，竞争作用成为这一演替过程的重要驱动力，促使群落组成和结构发生变化，持续影响着群落的多样性格局。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在区域至全球的较大空间尺度上，植被的多样性格局主要受到地带性气候的影响；而在景观及更小的空间尺度下，群落生物多样性格局则更多地受到非地带性的环境因子（如微地形、土壤养分等）和生物因素的影响[。环境因素具有筛选作用,使群落中能够适应环境、具有相似形态特征的物种得以定居；种间竞争具有排斥作用，使功能不同的物种因其非相似性而在不同的生态位中达到共存和聚集[44-45]。环境因素与种间竞争的作用共同影响着自然群落的物种多样性和功能多样性。因此，在探究生物多样性格局和维持机制的过程中，综合考虑环境因素和生物因素两方面的作用，有助于更全面地理解其内在原理和作用机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Sala O E,Chapin III F S,Armesto JJ,et al.Global biodiversity scenarios for the year 2100[J].Science,2000,287（5 459）：   \n1 770 -1 774. [2] Myers N,MittermeierRA,Mittermeier CG,etal.Biodiversity hotspots for conservation priorities[J].Nature,20oo,403（6 772）：   \n853-858. [3] 马克平.生物多样性科学的热点问题[J].生物多样性，2016，   \n24(1）:1-2.[Ma Keping.Hot topics for biodiversity science[J]. Biodiversity Science,2016,24(1):1 -2.] [4] Levin Simon A.The problem of pattern and scale in ecology:The Robert H.MacArthur award lecture[J].Ecology,1992,73（6）：   \n1 943 -1967. [5] 周梅，张飞，王娟，等.新疆艾比湖流域景观格局尺度效应[J]. 干旱区研究,2017,34（5）:1184-1195.[Zhou Mei,Zhang Fei,Wang Juan,et al.Effect of landscape pattern scale in the Ebinur Lake Watershed,Xinjiang[J].Arid Zone Research,2017,   \n34(5):1 184-1195.] ） Naukfluft Mountains,Namibia[J].Journal of Vegetation Science, 2001,12(1) :53 -60.   \n[8]Li XE.Patterns of species diversity and functional diversity along a south-to north-facing slope in a subalpine meadow[J].Community Ecology,2011,12(2) :179 -187.   \n[9］杨永川,达良俊,由文辉.浙江天童国家森林公园微地形与植 被结构的关系[J].生态学报,2005,25（11）:2 830-2 840. [Yang Yongchuan,Da Liangjun,You Wenhui. Vegetation structure in relation to micro-landform in Tiantong National Forest Park, Zhejiang,China[J].Acta Ecologica Sinica,2005,25（11）： 2 830 -2 840.]   \n[10］张宝军,熊东红,郭敏,等.干热河谷冲沟侵蚀劣地不同坡位草 被生长和土壤水分关系研究[J].草业科学,2015,32（5）： 686 -693.[Zhang Baojun,Xiong Donghong,Guo Min,et al. The correlation between soil moisture and grass growth in different slope positions of gully badlands in dry-hot valley[J].Pratacultural Science,2015,32(5）:686-693.]   \n[11］汝海丽,张海东,焦峰,等.黄土丘陵区微地形对草地植物群落 结构组成和功能特征的影响[J].应用生态学报,2016,27（1)： 25 -32.[Ru Haili,Zhang Haidong,Jiao Feng,et al.Impact of micro-landform on grassland plant community structure and function in the hilly Loess Plateau region,China[J].Chinese Journal of Applied Ecology,2016,27(1）:25-32.]   \n[12］周萍,刘国彬,侯喜禄.黄土丘陵区不同坡向及坡位草本群落 生物量及多样性研究[J].中国水土保持科学,2009,7（1)： 67-73,79.[Zhou Ping,Liu Guobin,Hou Xilu. Biomass and species diversity of herbosa at different position and aspects of slope in the Hilly-gully Region of Loess Plateau[J]. Science of Soil and Water Conservation,2009,7(1） :67 -73,79.]   \n[13〕张庆,牛建明,Buyantuyev A,等.不同坡位植被分异及土壤效 应——以内蒙古短花针茅草原为例[J].植物生态学报,2011, 35（11）:1167-1181.[Zhang Qing,Niu JianMing,Buyantuyev Alexander,etal.Vegetation differentiationand soil effect at diferent slope locations:A case study of Stipa breviflora grassland in Inner Mongolia,China[J].Chinese Journal of Plant Ecology,2011, 35(11) :1 167-1 181.]   \n[14]李立平,张佳宝,朱安宁,等.土壤养分有效性测定及其方法 [J].土壤通报,2004,35（1）:84-90.[Li Liping,Zhang Jiabao, Zhu Anning,etal.Soil nutrition availablityand testing methods [J].Chinese Journal of Soil Science,2004,35(1）:84-90.]   \n[15]Mason N W H,Mouillot D,Lee WG,et al.Functional richness, functional evenness and functional divergence:The primary components of functional diversity[J].Oikos,2005,111(1):112-118.   \n[16]Mandle L,Ticktin T. Moderate land use changes plant functional composition without loss of functional diversity in India's Western Ghats[J].Ecological Aplications,2015,25(6):1711-1724.   \n[17]Villéger S,Mason N W H,Mouillot D.New multidimensional func tional diversity indices for a multifaceted framework in functional ecology[J]. Ecology,2008,89(8）:2 290-2 301.   \n[18]Zhang J,Huang S,He F. Half-century evidence from western Canada shows forest dynamics are primarily driven by competition followed by climate[J].Proceedings of the National Academy of Sciences,2015,112(13) :4 009 -4 014.   \n[19]Weigelt A,Joliffe P.Indices of plant competition[J]. Journal of Ecology,2003,91(5） :707 -720.   \n[20]Lomolino M V.Elevation gradients of species-density: Historical and prospectiveviews[J].Global Ecology and Biogeography, 2001,10(1) :3 -13.   \n[21]Aavik T,Pussa K,Roosaluste E,et al.Vegetation change in boreonemoral forest during succession-trends in species composition, richness and differentiation diversity[J].Annales Botanici Fennici,2016,46(4) :326 -335.   \n[22]Yoann L B P,Francesco B,Marie V,et al. Species richness of limestone grasslands increases with trait overlap: Evidence from within and between species functional diversity partitioning〔J]. Journal of Ecology,2014,102(2）:466 -474.   \n[23］刘旻霞,王刚.高寒草甸植物群落多样性及土壤因子对坡向的 响应[J].生态学杂志,2013,32（2）:259-265.[Liu Minxia, Wang Gang.Responses of plant community diversity and soil factors to slope aspect in alpine meadow[J]. Chinese Journal of Ecology,2013,32(2):259 -265.]   \n[24]Hu G,Jin Y,Liu J,etal.Functional diversity versus species diversity:Relationships with habitat heterogeneity at multiple scales in a subtropicalevergreen broad-leavedforest[J].EcologicalResearch,2014,29(5) :897 -903.   \n[25]Nagamatsu D,Hirabuki Y,Mochida Y.Influence of micro-landforms on forest structure,tree death and recruitment in a Japanese temperate mixed forest[J]. Ecological Research,2003,18（5）: 533 -547.   \n[26]Owen L P,Kevin JG.Functional diversity（FD）,species richnes and community composition[J].Ecology Letters,2002,5（3）: 402 -411.   \n[27]Bell FD,Jan L,Sebastia M T.Variations in species and functional plant diversity along climatic and grazing gradients[J]. Ecography,2006,29(6):801-810.   \n[28]Reich Peter B,Tilman David,Naeem Shahid,et al. Species and functional group diversity independently influence biomass accumulation and its response to $\\mathrm { C O } _ { 2 }$ and N[J].Proceedings of the National Academy of Sciences of the United States of America, 2004,101(27):10 101-10 106.   \n[29] Sasaki T,Okubo S,Okayasu T,et al. Two-phase functional redundancy in plant communities along a grazing gradient in Mongolian rangelands[J].Ecology,2009,90(9）:2 598-2 608.   \n[30］李晓刚,朱志红,周晓松,等.刈割、施肥和浇水对高寒草甸物 种多样性、功能多样性与初级生产力关系的影响[J].植物生 态学报,2011,35（11）：1 136-1147.[Li Xiaogang,Zhu Zhihong,Zhou Xiaosong,et al.Effects of clipping,fertilizing and watering on the relationship between species diversity,functional diver sity and primary productivity in alpine meadow of China[J]. Chinese Journal of Plant Ecology,2011,35(11）:1136-1147.]   \n[31］陈超,朱志红,李英年,等.高寒草甸种间性状差异和物种均匀 度对物种多样性与功能多样性关系的影响[J].生态学报, 2016,36(3）:661-674.[Chen Chao,Zhu Zhihong,Li Yingnian, et al.Effects of interspecific trait dissmilarityand species evenness on the relationship betweenspecies diversityand functional diversity in an alpine meadow[J].Acta Ecologica Sinica,2016,36 (3) :661 -674.]   \n[32]Petchey OL,Evans KL,Fishburn I S,et al.Low functional diversity and no redundancy in British Avian Assemblages[J]. Journal of Animal Ecology,2007,76(5）:977 -985.   \n[33]Biswas SR,Mallik AU.Species diversity and functional diversity relationship varieswith disturbance intensity〔J].Ecosphere, 2011,2(4) :1 - 10.   \n[34］罗亲普,龚吉蕊,徐沙,等.氮磷添加对内蒙古温带典型草原净 氮矿化的影响[J].植物生态学报,2016,40（5）:480－492. [Luo Qinpu,Gong Jirui,Xu Sha,et al.Efcts of Nand Padditions on net nitrogen mineralization in temperate typical grasslands in Nei Mongol,China[J].Chinese Journal of Plant Ecology,2016,40 (5):480 -492.]   \n[35]徐志友,余峰,高红军,等.半干旱黄土丘陵区不同坡位退耕还 林还草地土壤养分的变异规律[J].中国水土保持,2010,31 (8）:39-41,68.[Xu Zhiyou,Yu Feng,Gao Hongjun,et al.Variation laws of soil nutrients of returning cultivated land to woodland or grassland at different slope positions of semi-arid Gullied Rolling Loess area[J].Soil and Water Conservation in China,2010,31 (8) :39 -41,68.]   \n[36]Schachtman D P,Reid R J,Ayling S M.Phosphorus uptake by plants:From soil to cell[J].Plant Physiology,1998,116（2）: 447 - 453.   \n[37］丁佳,吴茜,闫慧,等.地形和土壤特性对亚热带常绿阔叶林内 植物功能性状的影响[J].生物多样性,2011,19（2)：158- 167.[Ding Jia,Wu Qian,Yan Hui,et al.Effects of topographic variations and soil characteristics on plant functional traits in a subtropical evergreen broad-leaved forest[J].Biodiversity Science,2011,19(2) :158 -167.]   \n[38］汪涛,杨元合,马文红.中国土壤磷库的大小、分布及其影响因 素[J].北京大学学报（自然科学版）,2008,44(6）:945-952. [Wang Tao,Yang Yuanhe,Ma Wenhong. Storage,paterns and environmental controls of soil phosphorus in China[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2OO8,44（6）:945- 952.]   \n[39]张雪妮,吕光辉，王庭权,等.荒漠区垂直河岸带植物多样性格 局及其成因[J].生态学报,2015,35（18）:5 966－5 974. [Zhang Xueni,Lv Guanghui,Wang Tingquan,etal.Patterns and mechanisms influencing plant diversity in anarid desert region riparian zone of the Aqikesu River,Xinjiang,China[J].Acta Ecologica Sinica,2015,35(18）:5 966-5 974.]   \n[40]李博,陈家宽，沃金森.AR.植物竞争研究进展[J].植物学通 报,1998,15(4）:18-29.[Li Bo,Chen Jiakuan,Watkinson A R. A literature review on plant conpitition[J].Chinese Bulletin of Botany,1998,15(4) :18-29.]   \n[41]Tilman D,Christopher BF.Plant interactions（book reviews ;Plant strategies and the dynamics and structure of plant communities ) [J].Science,1988,241(4 867）:853 -855.   \n[42]Fowler N.The role of competition in plant communities in arid and semiarid regions[J].Annual Review of Ecology and Systematics, 1986,17(1) :89 -110.   \n[43]Tilman D.Resource Competition and Community Structure[M]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Princeton:Princeton University Press,1982. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[44]朱云云，王孝安,王贤，等.坡向因子对黄土高原草地群落功能 多样性的影响[J].生态学报，2016,36（21):6823-6833. [Zhu Yunyun,Wang Xiao'an,Wang Xian,et al.Effect of slope aspect on the functional diversity of grass communities in the Loess Plateau[J]．Acta Ecologica Sinica,2016,36（21）:6 823- 6 833.]   \n[45]Weiher E,Freund D,Bunton T,et al.Advances,challenges and a developing synthesis of ecological community assembly theory[J]. Philosophical Transactions of the Royal Society of London Series BBiological Sciences,2011,366(1 576):2 403-2 413. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of Environmental Factors and Interspecific Competition in Community Biodiversity Pattern ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHU Ling'， JIN Yi-lan’，CONG Ri-hui¹，LIU Qing-fu’，DING Yong²，ZHANG Qing' (1. School of Ecologyand Environment,Inner Mongolia University,Hohhot O1oO21,Inner Mongolia,China; 2.Institute of Grassland Research,ChineseAcademyof Agricultural Sciences/Key Laboratoryof GrassandEcology and Restoration,Ministry of Agriculture,Hohhot O1oolO,Inner Mongolia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study was conducted in hillside in a typical grassand enclosed for many years in Iner Mongolia, and six transects with 96 sample plots in total were evenly designed along the slope.The purposes ofthe study were to explorethe effectsof slope position on species diversityand functional diversityof a typical grassland community, and to discussthe efectsofenvironmental factorsand interspecificcompetition intwodiferent dimensionsof diversity. The results showed that : $\\textcircled{1}$ The trend of species diversity and functional diversity of the community was consistent with the change of slope position.With the increase of slope position,the species richness and functional richness of the community decreased monotonically；while the species evenness，species dominance,functional evenness and functional dispersion increased at first and then decreased; $\\textcircled{2}$ The total phosphorus content on the whole slope was the main factor affecting the species richnessof the communityand correlated with the functional richness significantly.Interspecific competition was the key factor affcting the species evenness,species dominance,functional dispersion and functional evenness and correlated with the functional evenness significantly； $\\textcircled{3}$ （204号 The species diversityand functional diversityof thecommunity were mainlyaffcted bythe interspecificcompetition andenvironmentalfactorsintheuphillposition,but mainlyaffctedby interspecificcompetition inthedownhillposition.Therefore,the joint efects of environmental factors and biological factors should be taken into account in exploring the change of community biodiversity pattern. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:slope position；species diversity；functional diversity；interspecific competition；Inner Mongolia ",
+        "page_idx": 8
+    }
+]

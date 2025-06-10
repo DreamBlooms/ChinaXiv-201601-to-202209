@@ -1,0 +1,270 @@
+[
+    {
+        "type": "text",
+        "text": "A Three-dimensional Tm(III)-Zn(II) Heteronuclear Metalorganic Framework Based on Imidazole-dicarboxylate Ligand: Synthesis, Crystal Structure and Luminescence Property ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUO Nan①(郭楠);FENG Xun(2(冯勋);JIA Hong(贾红);QIN Guo-Zhan(2(秦国展); WEI JingTao(2)(魏靖涛);HAN Zhi-Yue(2)(韩志越) (1) College of Chemistry and Molecular Engineering, Zhengzhou University, Zhengzhou 450oo1,China;(2) College of Chemistry and Chemical Engineering and Henan Key Laboratory of Function Oriented Porous Materials, Luoyang Normal University, Luoyang 471934, China;(3 College of Physics, Luoyang Normal University,Luoyang 471934, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTA $d \\cdot f$ heteronuclearmetal-organicframework(MOF)， $\\{ \\mathrm { [ T m _ { 3 } Z n _ { 6 } ( b i p y _ { 2 } ) _ { 2 } ( m i m d a ) _ { 7 } }$ $( \\mathrm { H } _ { 2 } \\mathrm { O } ) _ { 3 } ] \\cdot ( \\mathrm { H } _ { 2 } \\mathrm { O } ) _ { 5 } \\} _ { \\mathrm { n } }$ (1, $\\mathrm { H } _ { 3 } \\mathrm { m i m d a } = 2$ -methyl-1-H-imidazole-4,5-dicarboxylic acid,and bipy $= 4 , 4 ^ { \\prime }$ -bipyridine), has been synthesized under solvothermal conditions,and structurally characterized by elemental analysis,IR spectra and $\\mathrm { \\Delta } X$ -ray single-crystal diffraction. It crystallizes in orthorhombic system, space group Pnma with $a$ （204 $= 1 6 . 1 1 0 2 ( 9 )$ ， $b = 3 3 . 5 8 0 5$ (19), $c = 1 6 . 8 5 9 3 ( 1 0 ) \\ : \\dot { / }$ 。， $\\beta = 9 7 . 3 4 4 ( 1 1 ) ^ { \\circ }$ ,V = 9120.7(9) $\\mathring { \\mathbf { A } } ^ { 3 }$ $Z = 4$ ， $F ( 0 0 0 ) = 5 1 8 4$ ， the final $R = 0 . 0 5 3 0$ and $w R = 0 . 1 3 0 6$ ，In complex 1, the $\\mathrm { T m } ( \\mathrm { I I I } )$ ions adopt two types of coordination fashions.Complex 1 shows one-dimensional (1-D)Tm-Zn heteronuclear zigzag chains,and these chains are further linked by $\\mathrm { H } _ { 3 }$ mimda ligands into $\\mathrm { T m } { - } Z \\mathrm { n }$ heteronuclear 2-D lattce-like arrays. The 2-D heteronuclear units were connected through $[ Z \\mathrm { n } _ { 6 } ( \\mathrm { m i m d a } ) _ { 6 } ]$ rings to give rise to the $\\mathrm { T m } { - } Z \\mathrm { n }$ heteronuclear cages. Finally, H3mimda ligands connected the cages into a 3-D heterometallic framework by the combination of $\\mathrm { [ T m O _ { 7 } ] _ { n } }$ and $\\mathrm { T m } { - } Z \\mathrm { n }$ heteronuclear cages. In addition，the thermal stability and luminescent property have been investigated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: $d \\cdot f$ heteronuclear metal-organic frameworks; $\\mathbf { T m } ( \\mathbf { I I I } )$ complex; 2-methyl-1-H-imidazole4;5-dicarboxylic acid; luminescence;   \nDOI: 10.14102/j.cnki.0254-5861.2011-1658 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inrecent years， lanthanide-based metal-organic frameworks (MOFs） have increasingly attracted considerable attention because of their intriguing structural topologies and potential applications in gas storage,luminescence and magnetism[1-6]. Lanthanide metal ions possess high coordination numbers and the long wavelengths range from the visible to the near-infrared region. However,the absorption coeficients are usually very low with slow emissive rates due to the Laporte forbidden $f \\mathcal { f }$ transitions[7, 8]. In order to reduce the effect of this problem,our strategy is to employ the imidazole dicarboxylate ligand as chromophores and transition metal that can improve the energy transition[9-1l. The imidazole dicarboxylate ligands containing N and O donors are especially popular because they can adopt a variety of coordination modes， which has proven to be an excelent building block for forming a series of MOFs with fascinating structures and useful properties.A large number of imidazole dicarboxylate-based MOFs of transition metal ions have been reported[12,13]. On the other hand, introducing pillared rigid ligand containing $\\mathbf { N }$ atoms such as $^ { 4 , 4 ^ { ' } }$ -bipyridine into these MOFs is another effective strategy for producing diversified structure and enhancing the performance of the final MOFs[14]. However, it is still a challenge to design and construct $d \\cdot f$ heteronuclear MOFs[15-18] with dicarboxylate ligands due to the different reaction conditions such $\\mathrm { p H }$ values, metal/ligand ratio,solvents,and reaction temperature.In this contribution,a new complex, $\\{ [ \\mathrm { T m } _ { 3 } \\mathrm { Z n } _ { 6 } ( \\mathrm { b i p y } _ { 2 } ) _ { 2 }$ (mimda)7 $( \\mathrm { H } _ { 2 } \\mathrm { O } ) _ { 3 } ] \\cdot ( \\mathrm { H } _ { 2 } \\mathrm { O } ) _ { 5 } \\} _ { \\mathrm { n } }$ (1) based on $\\mathrm { H } _ { 3 }$ mimda ligand and bipy has been obtained. In addition，the IR，photoluminescence and thermal stability of1 have been investigated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Materials and physical measurements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals and solvents purchased were of reagent grade and used without further purification. Elemental analyses for carbon,hydrogen and nitrogen were carried out on a Model 24O Perkin-Elmer elemental analyzer. The infrared spectrum was performed on an IRAfnity-1S in the range of $3 5 0 0 { \\sim } 5 0 0 \\mathrm { c m } ^ { - 1 }$ The $\\mathbf { \\boldsymbol { X } }$ -ray powder diffraction pattern (XRPD） of 1 was recorded at $2 9 3 \\mathrm { ~ K ~ }$ on a Bruker D8 Advance diffractometer $( \\mathrm { C u } K a , \\lambda = 1 . 5 4 0 5 6 \\mathring \\mathrm { A } )$ operated at $4 0 ~ \\mathrm { k V }$ and $3 0 ~ \\mathrm { m A }$ ,using a $\\mathtt { C u }$ -target tube and a graphite monochromator. Thermal gravimetric analysis (TGA） experiments were carried out on a Perkin-Elmer Diamond SII thermal analyzer from room temperature to $1 2 0 0 ^ { \\circ } \\mathrm { C }$ under a nitrogen atmosphere at a heating rate of 10 ${ } ^ { \\mathrm { { \\circ } } } \\mathrm { { C } } / \\mathrm { { m i n } ^ { \\mathrm { { - 1 } } } }$ .The emission/excitation spectra were recorded on an F-7OoO (HITACHI) spectrophotometer at room temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of complex 1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A mixture of $\\mathrm { T m } _ { 2 } \\mathrm { O } _ { 3 }$ (0.05 mmol, 0.0192 g), $\\mathrm { Z n ( N O _ { 3 } ) _ { 2 } { \\cdot } 6 H _ { 2 } O }$ (0.0370 g, 0.1 mmol), H3mimda (0.15 mmol, $0 . 0 2 7 0 \\ \\mathrm { g } { \\cdot }$ and bipy (0.1 mmol, $0 . 0 1 7 0 { \\mathrm { ~ g } }$ ） was mixed in a DMF-water solution ( $\\mathrm { i 0 ~ m L }$ ). After that the mixture was added into a Teflon-lined autoclave and heated to $1 6 2 ^ { \\circ } \\mathrm { C }$ for 540O minutes,and then cooled to room temperature.Colorless crystals of 1 were obtained in $0 . 0 0 4 8 \\mathrm { ~ g ~ }$ yield ( $48 \\%$ ，based on lanthanide element). Elemental Anal. Calcd. $( \\% )$ for $\\mathrm { C _ { 6 2 } H _ { 5 1 } N _ { 1 8 } O _ { 4 5 } T m _ { 3 } Z n _ { 6 } }$ : C, 27.91; H, 1.92; N, 9.45. Found: C,27.95; H, 1.90; N, 9.47. IR $( \\mathrm { c m ^ { - 1 } } )$ ): 3340w,2974m,2897w, $2 3 6 7 \\mathrm { m }$ ,1716w, $1 5 3 9 \\mathrm { m }$ ， $1 3 8 8 \\mathrm { m }$ $1 0 4 9 \\mathrm { m }$ ， $8 8 7 \\mathrm { m }$ ,771m. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3Crystal structure determination ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A colorless block crystal of complex 1 $0 . 2 6 \\mathrm { { m m } \\times 0 . 2 1 \\mathrm { { m m } \\times 0 . 1 8 \\mathrm { { m m } ) } } }$ ） was mounted on a Bruker SMART APEX II CCD difractometer equipped with a graphite-monochromatized MoKa radiation $( \\lambda =$ $0 . 7 1 0 7 3 \\mathring { \\mathrm { A } } \\rangle$ by using a φ/ω scan mode at room temperature. A total of 99936 reflections were collected for 1, of which 10650 ( $\\langle R _ { \\mathrm { i n t } } = 0 . 0 8 3 7 _ { . }$ ） independent reflections in the range of $1 . 7 5 { \\leqslant } \\theta { \\leqslant } 2 7 . 5 0 { \\overset { \\circ } { \\circ } }$ with index ranges of $- 2 0 { \\leqslant } h { \\leqslant } 2 0$ $- 4 3 \\leqslant k \\leqslant 4 3$ and $- 2 1 \\leqslant l \\leqslant 2 1$ were collected at 293(2) K. All non-hydrogen atoms were refined with anisotropic thermal parameters. The structure was solved by direct methods with SHELXS-97[19l. The hydrogen atoms were asigned with common isotropic displacement factors and included in the final refinement by use of geometrical restrains. A full-matrix least-squares refinement on $F ^ { 2 }$ was carried out using SHELXL-97[20l. For complex 1, disordered methyl carbon atoms of $\\mathrm { H } _ { 3 }$ mimda ligands were restrained in order to obtain reasonable thermal parameters[21]． The final $R = 0 . 0 5 3 0$ and $w R = 0 . 1 3 0 6$ $~ ( w ~ = ~ 1 / [ \\sigma ^ { 2 } ( { F _ { o } } ^ { 2 } ) ~ + ~$ （20 $( 0 . 0 4 0 6 P ) ^ { 2 } + 1 4 6 . 3 9 9 8 P ]$ ，where $P = ( F _ { o } ^ { 2 } + 2 F _ { c } ^ { 2 } ) / 3 )$ ， $S = 1 . 0 9 3$ ， $( \\Delta \\rho ) _ { \\mathrm { m a x } } = 2 . 7 7 6$ and $( \\Delta \\rho ) _ { \\mathrm { m i x } } = - 1 . 1 5 0 ~ \\mathrm { e } / \\mathring { \\mathrm { A } } ^ { 3 }$ ： The selected bond lengths and bond angles and the hydrogen bond parameters are listed in Tables 1 and 2, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc0c9b6692b03acf7078170108475cbdb5797e76b8bd7844cdafa20c4132963c.jpg",
+        "table_caption": [
+            "Table 1．Selected Bond Lengths $( \\mathring \\mathbf { A } )$ and Bond Angles (°) for Complex 1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist. Bond</td><td></td><td>Dist. Bond</td><td></td><td>Dist.</td></tr><tr><td>Tm(1)-0(1)</td><td>2.212(7)</td><td>Tm(1)-0(1)#1</td><td>2.212(7)</td><td>Tm(1)-0(5)</td><td>2.255(6)</td></tr><tr><td>Tm(1)-0(5)#1</td><td>2.255(6)</td><td>Tm(1)-0(3)</td><td>2.256(7)</td><td>Tm(1)-0(3)#1</td><td>2.256(7)</td></tr><tr><td>Tm(1)-0(1W)</td><td>2.361(10)</td><td>Tm(2)-0(11)</td><td>2.193(6)</td><td>Tm(2)-0(9)</td><td>2.226(6)</td></tr><tr><td>Tm(2)-0(7)</td><td>2.283(6)</td><td>Tm(2)-0(3W)</td><td>2.290(7)</td><td>Tm(2)-0(2W)</td><td>2.310(8)</td></tr><tr><td>Tm(2)-O(13)</td><td>2.373(5)</td><td>Tm(2)-0(13)#2</td><td>2.473(5)</td><td>Tm(2)-0(14)#2</td><td>2.486(5)</td></tr><tr><td>Tm(2)-C(20)#2</td><td>2.865(7)</td><td>Zn(1)-O(4W)</td><td>1.972(10)</td><td>Zn(1)-N(2)</td><td>2.000(7)</td></tr><tr><td>Zn(1)-N(5)#3</td><td>2.011(7)</td><td>Zn(1)-0(4)</td><td>2.100(7)</td><td>Zn(1)-O(10)#3</td><td>2.138(7)</td></tr><tr><td>Zn(2)-N(1)#4</td><td>2.046(8)</td><td>Zn(2)-N(3)</td><td>2.074(7)</td><td>Zn(2)-N(6)</td><td>2.080(7)</td></tr><tr><td>Zn(2)-0(12)</td><td>2.171(6)</td><td>Zn(2)-0(6)</td><td>2.183(6)</td><td>Zn(2)-O(2)#4</td><td>2.229(7)</td></tr><tr><td>Zn(3)-N(7)</td><td>1.981(7)</td><td>Zn(3)-N(4)#5</td><td>2.002(7)</td><td>Zn(3)-N(8)</td><td>2.036(8)</td></tr><tr><td>Zn(3)-0(8)#5</td><td>2.126(6)</td><td>Zn(3)-0(14)</td><td>2.318(6)</td><td>0(2)-Zn(2)#6</td><td>2.229(7)</td></tr><tr><td>0(8)-Zn(3)#7</td><td>2.126(6)</td><td>O(10)-Zn(1)#8</td><td>2.138(7)</td><td>0(13)-Tm(2)#2</td><td>2.473(5)</td></tr><tr><td>0(14)-Tm(2)#2</td><td>2.486(5)</td><td></td><td></td><td></td><td></td></tr><tr><td>Angle</td><td></td><td>Angle</td><td>（）</td><td>Angle</td><td>（）</td></tr><tr><td>O(1)-Tm(1)-0(1)#1</td><td>82.1(4)</td><td>0(1)-Tm(1)-0(5)</td><td>76.6(3)</td><td>0(1)#1-Tm(1)-0(5)</td><td>125.6(3)</td></tr><tr><td>0(1)-Tm(1)-0(5)#1</td><td>125.6(3)</td><td>O(1)#1-Tm(1)-O(5)#1</td><td>76.6(3)</td><td>0(5)-Tm(1)-0(5)#1</td><td>76.5(4)</td></tr><tr><td>0(1)-Tm(1)-0(3)</td><td>94.9(3)</td><td>0(1)#1-Tm(1)-0(3)</td><td>154.6(3)</td><td>0(5)-Tm(1)-0(3)</td><td>77.4(3)</td></tr><tr><td>0(5)#1-Tm(1)-0(3)</td><td>123.6(3)</td><td>0(1)-Tm(1)-0(3)#1</td><td>154.6(3)</td><td>O(1)#1-Tm(1)-O(3)#1</td><td>94.9(3)</td></tr><tr><td>0(5)-Tm(1)-0(3)#1</td><td>123.6(3)</td><td>0(5)#1-Tm(1)-0(3)#1</td><td>77.4(3)</td><td>0(3)-Tm(1)-0(3)#1</td><td>77.1(4)</td></tr><tr><td>0(1)-Tm(1)-0(1W)</td><td>78.8(3)</td><td>0(1)#1-Tm(1)-O(1W)</td><td>78.8(3)</td><td>0(5)-Tm(1)-0(1W)</td><td>141.7(2)</td></tr><tr><td>0(5)#1-Tm(1)-O(1W)</td><td>141.7(2)</td><td>0(3)-Tm(1)-0(1W)</td><td>75.9(3)</td><td>0(3)#1-Tm(1)-O(1W)</td><td>75.9(3)</td></tr><tr><td>0(11)-Tm(2)-0(9)</td><td>84.6(2)</td><td>0(11)-Tm(2)-0(7)</td><td>81.8(3)</td><td>0(9)-Tm(2)-0(7)</td><td>79.2(2)</td></tr><tr><td>0(11)-Tm(2)-0(3W)</td><td>114.2(3)</td><td>0(9)-Tm(2)-0(3W)</td><td>130.9(3)</td><td>0(7)-Tm(2)-0(3W)</td><td>145.0(2)</td></tr><tr><td>0(11)-Tm(2)-0(2W)</td><td>79.4(3)</td><td>0(9)-Tm(2)-0(2W)</td><td>72.6(3)</td><td>0(7)-Tm(2)-0(2W)</td><td>147.2(2)</td></tr><tr><td>0(3W)-Tm(2)-0(2W)</td><td>67.7(3)</td><td>0(11)-Tm(2)-0(13)</td><td>76.9(2)</td><td>0(9)-Tm(2)-0(13)</td><td>152.4(2)</td></tr><tr><td>0(7)-Tm(2)-0(13)</td><td>78.0(2)</td><td>0(3W)-Tm(2)-O(13)</td><td>76.0(3)</td><td>0(2W)-Tm(2)-0(13)</td><td>122.6(3)</td></tr><tr><td>0(11)-Tm(2)-0(13)#2</td><td>138.2(2)</td><td>0(9)-Tm(2)-0(13)#2</td><td>124.2(2)</td><td>0(7)-Tm(2)-0(13)#2</td><td>75.9(2)</td></tr><tr><td>0(3W)-Tm(2)-O(13)#2</td><td>71.8(2)</td><td>0(2W)-Tm(2) 0(13)#2</td><td>134.3(3)</td><td>0(13)-Tm(2)-O(13)#2</td><td>64.2(2)</td></tr><tr><td>O(11)-Tm(2)-0(14)#2</td><td>159.4(2)</td><td>0(9)-Tm(2)-0(14)#2</td><td>77.0(2)</td><td>0(7)-Tm(2)-0(14)#2</td><td>85.6(2)</td></tr><tr><td>0(3W)-Tm(2)-0(14)#2</td><td>85.3(3)</td><td>0(2W)-Tm(2)-0(14)#2</td><td>103.6(3)</td><td>0(13)-Tm(2)-0(14)#2</td><td>116.29(18)</td></tr><tr><td>0(13)#2-Tm(2)-O(14)#2</td><td>52.12(17)</td><td>0(11)-Tm(2)-C(20)#2</td><td>160.0(3)</td><td>0(9)-Tm(2)-C(20)#2</td><td>101.4(2)</td></tr><tr><td>0(7)-Tm(2)-C(20)#2</td><td>80.7(2)</td><td>0(3W)-Tm(2)-C(20)#2</td><td>76.3(3)</td><td>0(2W)-Tm(2)-C(20)#2</td><td>120.6(3)</td></tr><tr><td>0(13)-Tm(2)-C(20)#2</td><td>90.1(2)</td><td>0(13)#2-Tm(2)-C(20)#2</td><td>25.95(19)</td><td>O(14)#2-Tm(2)-C(20)#2</td><td>26.21(19)</td></tr><tr><td>0(4W)-Zn(1)-N(2)</td><td>122.8(4)</td><td>0(4W)-Zn(1)-N(5)#3</td><td>111.9(4)</td><td>N(2)-Zn(1)-N(5)#3</td><td>125.3(3)</td></tr><tr><td>0(4W)-Zn(1)-0(4)</td><td>91.9(4)</td><td>N(2)-Zn(1)-0(4)</td><td>80.3(3)</td><td>N(5)#3-Zn(1)-0(4)</td><td>101.3(3)</td></tr><tr><td>0(4W)-Zn(1)-O(10)#3</td><td>92.6(4)</td><td>N(2)-Zn(1)-0(10)#3</td><td>95.0(3)</td><td>N(5)#3-Zn(1)-O(10)#3</td><td>79.5(3)</td></tr><tr><td>0(4)-Zn(1)-0(10)#3</td><td>174.8(3)</td><td>N(1)#4-Zn(2)-N(3)</td><td>97.4(3)</td><td>N(1)#4-Zn(2)-N(6)</td><td>155.9(3)</td></tr><tr><td>N(3)-Zn(2)-N(6)</td><td>105.9(3)</td><td>N(1)#4-Zn(2)-0(12)</td><td>93.6(3)</td><td>N(3)-Zn(2)-0(12)</td><td>99.5(3)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f494fc91c81c11c53098624d7b5121ddfab686314e35dc91a97a0577ed734f23.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Symmetry transformations used to generate the equivalent atoms: #1: x, $- y + 1 / 2$ ,z; #2: $- x + 2$ ，-y, $^ { - z + 1 }$ ；#3 $\\overline { { \\mathfrak { s } ; x { - } 1 / 2 , y , { - } z { + } 3 / 2 } }$ #4: $x { + } 1 / 2$ $y _ { \\cdot }$ 号 $- z + 1 / 2$ ;#5: $- x + 3 / 2$ $- y .$ 号 $z { - } 1 / 2$ ;#6: $x { - } 1 / 2$ $y$ $- z + 1 / 2$ ;#7: $- x + 3 / 2$ $- y$ $z { + } 1 / 2$ ;#8: $x { + } 1 / 2$ ,y, $- z + 3 / 2$ （202 "
+        ],
+        "table_body": "<html><body><table><tr><td>N(6)-Zn(2)-0(12)</td><td>76.9(2)</td><td>N(1)#4-Zn(2)-O(6)</td><td>90.1(3)</td><td>N(3)-Zn(2)-0(6)</td><td>77.8(2)</td></tr><tr><td>N(6)-Zn(2)-0(6)</td><td>100.5(3)</td><td>0(12)-Zn(2)-0(6)</td><td>175.7(3)</td><td>N(1)#4-Zn(2)-O(2)#4</td><td>76.0(3)</td></tr><tr><td>N(3)-Zn(2)-O(2)#4</td><td>161.0(3)</td><td>N(6)-Zn(2)-0(2)#4</td><td>83.5(3)</td><td>0(12)-Zn(2)-0(2)#4</td><td>98.6(3)</td></tr><tr><td>0(6)-Zn(2)-0(2)#4</td><td>84.4(3)</td><td>N(7)-Zn(3)-N(4)#5</td><td>128.9(3)</td><td>N(7)-Zn(3)-N(8)</td><td>124.6(3)</td></tr><tr><td>N(4)#5-Zn(3)-N(8)</td><td>106.5(3)</td><td>N(7)-Zn(3)-0(8)#5</td><td>99.1(3)</td><td>N(4)#5-Zn(3)-O(8)#5</td><td>79.9(3)</td></tr><tr><td>N(8)-Zn(3)-O(8)#5</td><td>92.2(3)</td><td>N(7)-Zn(3)-O(14)</td><td>76.8(2)</td><td>N(4)#5-Zn(3)-O(14)</td><td>103.6(2)</td></tr><tr><td>N(8)-Zn(3)-O(14)</td><td>89.2(3)</td><td>0(8)#5-Zn(3)-0(14)</td><td>175.7(2)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/42d772b8eeb3b03cb30f4270fc88830e6b5fcd80a6d8f89049f9c0f87c9134c1.jpg",
+        "table_caption": [
+            "Table 2. Hydrogen Bond Lengths $( \\mathring { \\mathbf { A } } )$ and Bond Angles ${ \\bf \\Pi } ^ { \\left( \\circ \\right) }$ for Complex 1 "
+        ],
+        "table_footnote": [
+            "Symmetry codes: #1: $_ { 1 + x }$ ,y, z;#2: $2 { - } x ,$ -y,1-z; #3: $- 1 / 2 + x ,$ y,3/2-z; #4: $1 / 2 + x ,$ y,3/2-z; #5: 3/2-x,-y,-1/2+z "
+        ],
+        "table_body": "<html><body><table><tr><td>D-HA</td><td>d(D-H)</td><td>d(HA)</td><td>d(D·A)</td><td><(DHA)</td></tr><tr><td>O(1w)-H(12)·O(7w)</td><td>0.84</td><td>2.30</td><td>2.855(2)</td><td>124</td></tr><tr><td>0(2w)-H(21)O(5w)#1</td><td>0.84</td><td>2.39</td><td>2.917(2)</td><td>122</td></tr><tr><td>0(3w)-H(32).·O(7) #2</td><td>0.84</td><td>2.12</td><td>2.757(9)</td><td>132</td></tr><tr><td>0(4w)-H(41)O(6w)</td><td>0.84</td><td>2.33</td><td>2.72(2)</td><td>109</td></tr><tr><td>0(4w)-H(42).O(6w)</td><td>0.84</td><td>2.36</td><td>2.72(2)</td><td>106</td></tr><tr><td>C(10)-H(10A)·O(10)#3</td><td>0.96</td><td>2.45</td><td>3.143(1)</td><td>129</td></tr><tr><td>C(10)-H(10C)··O(12)</td><td>0.96</td><td>2.50</td><td>3.356(1)</td><td>149</td></tr><tr><td>C(16)-H(16C)··O(4)#4</td><td>0.96</td><td>2.53</td><td>3.363(1)</td><td>145</td></tr><tr><td>C(22)-H(22A)O(8)#5</td><td>0.96</td><td>2.41</td><td>3.138(1)</td><td>133</td></tr><tr><td>C(22)-H(22B)·O(6)</td><td>0.96</td><td>2.44</td><td>3.334(1)</td><td>155</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Crystal structure of complex 1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Single-crystal $\\mathrm { \\Delta } X$ -ray analysis reveals that 1 crystallizes in orthorhombic system, space group Pnma. As shown in Fig.1, the asymmetric unit of 1 comprises three $Z \\mathrm { n } ( \\mathrm { I I } )$ ions, two $\\mathrm { T m } ( \\mathrm { I I I } )$ ions,four $\\mathrm { H } _ { 3 }$ mimda ligands,one bipy,three coordination water molecules and five latice water molecules. The $Z \\mathrm { n ( I I ) }$ exhibits three kinds of coordination modes,among which $Z \\mathrm { n } ( 1 )$ and $Z _ { \\mathrm { { n } } \\left( 3 \\right) }$ ions have the same coordination number. （204号 $Z \\mathrm { n } ( 1 )$ is connected with nitrogen atom ${ \\bf N } ( 2 )$ and oxygen atom ${ \\mathrm { O } } ( 4 )$ of one Hmimda²- ligand,and nitrogen atom N(5#3) and oxygen atom O(10#3) of another Hmimda2- ligand,as wel as one oxygen atom O(4W) from the coordination water molecule.However, $Z _ { \\mathrm { { n } } \\left( 3 \\right) }$ is coordinated by two nitrogen atoms N(4), N(7) and two oxygen atoms O(8), O(14) of two different $\\mathrm { H } _ { 3 }$ mimda ligands,and one nitrogen atom (N8) from one bipy. （204号 $Z _ { \\mathrm { { n } } \\left( 2 \\right) }$ is six-coordinated with nitrogen atoms (N1), N(3),N(6) and oxygen atoms O(2), O(6), O(12) from three different $\\mathrm { H } _ { 3 }$ mimda ligands. There are two crystallographically unique $\\mathrm { T m } ( \\mathrm { I I I } )$ centers in the asymmetric unit, which show different coordination environments. $\\mathrm { T m } ( 1 )$ is seven-coordinated by six carboxylate oxygen atoms O(1), O(1#1), O(3), O(3#1), O(5), O(5#1) from three H3mimda,and one oxygen atom O(1W) from one coordinated water molecule in a pentagonal bipyramidal coordination geometry of $\\mathrm { T m O } _ { 7 }$ . The Tm(1)-Ocarboxyl bond lengths vary from 2.212(7) to 2.256(7) $\\mathring \\mathbf { A }$ and the $\\mathrm { T m } ( 1 ) { - } \\mathrm { O } _ { \\mathrm { w a t e r } }$ bond length is 2.361(10) $\\mathring \\mathbf { A }$ $\\mathrm { T m } ( 2 )$ is eight-coordinated by five oxygen atoms O(7), O(9), O(11), O(13), O(13#1), O(14) from three $\\mathrm { H } _ { 3 }$ mimda ligands and two other oxygen atoms O(2W), O3(W） from two coordinated water molecules,forming an octahedral coordination geometry. The bond distances of $\\mathrm { T m } ( 2 ) { \\ - } - \\mathrm { O }$ range fr0m 2.193(6) to 2.486(5) A.The bond angles around each $\\mathrm { T m } ( \\mathrm { I I I } )$ vary from $6 4 . 2 ( 2 ) ^ { \\circ }$ to $1 5 9 . 4 ( 2 ) ^ { \\circ }$ . In addition,detailed hydrogen bonds of 1 are shown in Table 1, which all fall in the normal range of such weak interactions[22]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac04428788e78ee7402189fb5f904f0037eb87eb054cf04bfd5d825eb984be76.jpg",
+        "img_caption": [
+            "Fig.1. Coordination environments of Tm and Zn atoms in the asymmetric unit of 1. All H atoms and the noncoordinated water molecules are omitted for clarity "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca5577e0b0c32cbea0e6aa8c33ef2cc277827c2b886c1969c2f922fb0f083d3d.jpg",
+        "img_caption": [
+            "Scheme 1. Coordination modes of free H3mimda ligand in complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As indicated in Scheme 1, the mimda³- anions adopt both $\\mu _ { 3 } – k \\mathbf { N }$ ,0: $k \\mathrm { O }$ ， $0 ^ { \\prime } \\colon k \\mathbf { N } ^ { \\prime }$ ， $\\mathbf { O } ^ { \\prime }$ and $\\mu _ { 4 } { \\mathrm { - } } k \\mathbf { N }$ ,0: $k \\mathbf { N } ^ { \\prime }$ ， （204号 $\\mathrm { O } ^ { \\prime } k \\mathrm { O } , \\mathrm { O } ^ { \\prime } \\colon k \\mathrm { O } ^ { \\prime } , \\mathrm { O } ^ { \\prime \\prime }$ coordination modes connected with the adjacent $\\mathrm { T m } ( \\mathrm { I I I } )$ and $Z \\mathrm { n }$ (II) ions.Each $\\mathrm { T m O _ { 8 } }$ （202 connects two neighboring $Z \\mathrm { n } ( \\mathrm { I I } )$ chelate units through two H3mimda ligands in two different modes to generate a 1D zigzag chain and further gives rise to a unique 2D Tm-Zn heteronuclear metal-organic network structure (Fig. 2b). In addition, six $\\mathrm { H } _ { 3 }$ mimda ligands link the neighboring $Z \\mathrm { n } ( \\mathrm { I I } )$ ions via N,O-chelating composed of a $[ Z \\mathrm { n } _ { 6 } ( \\mathrm { m i m d a } ) _ { 6 } ]$ ring with the bipy just acting as a terminal ligand leaving a free $\\mathbf { N }$ atom. The $[ Z \\mathrm { n } _ { 6 } ( \\mathrm { m i m d a } ) _ { 6 } ]$ rings are connected by one $\\mathrm { H } _ { 3 }$ mimda ligand to afford a 1D six-membered ring chain along the $b$ -axis,as shown in Fig.2c. The resultant 3D framework of 1 can be depicted as the $\\mathrm { T m } { - } Z \\mathrm { n }$ heteronuclear cages of $\\mathrm { [ T m _ { 1 0 } Z n _ { 1 0 } ( m i n d a ) _ { 1 2 } ( b i p y ) _ { 2 } ] _ { { n } } }$ linked with $( \\mathrm { T m O } _ { 7 } ) _ { \\mathrm { n } }$ through $\\mathrm { H } _ { 3 }$ mimda ligands of modes $a$ and $b$ (Fig. 3),and it is similar to other Ln compounds just reported[23l. In the Tm-Zn heteronuclear cage, $[ Z \\mathrm { n } _ { 6 } ( \\mathrm { m i m d a } ) _ { 6 } ]$ （204号 and $\\mathrm { [ T m _ { 1 0 } ( m i m d a ) _ { 6 } ] _ { n } }$ are connected by $\\mathrm { H } _ { 3 }$ mimda ligand, leading to a \"interlock\" structure unit. After the hypothetical removal of guest water molecules,the total potential solvent-accessble void is found for this 3D framework of 1 to be $2 0 2 5 . 8 \\mathrm { ~ \\AA ~ } ^ { 3 }$ per cell volume (accounting for $2 2 . 2 \\%$ of the total unit cell system), calculated using the PLATON program[24]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/44bcfd3ebd4bc08434dce2dd0d010d6e6d65bf535cb4eaaa365793af13179313.jpg",
+        "img_caption": [
+            "Fig.2.(a)Schematic ilustrationof the1Dchai structure of1 viewed along the bc plane; (b)Schematicillustrationof the 2D interspersed structureof1viewedalong theac plane; (c)The bipyacts asaterminal igand,leavingafreeNatom, bridged at the $[ \\mathbf { Z n _ { 6 } ( m i m d a ) _ { 6 } } ]$ ring ends along the ab plane "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/83ee70eee2ba263b7c12dc5a26e19669844b6c4072295c8c244853142095a07a.jpg",
+        "img_caption": [
+            "Fig.3.3D framework composed of Tm-Zn heteronuclear units 1 along the ab plane "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Powder X-ray diffraction patterns and thermal stability ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bff30b872065bd79fc25c27eea1916eaf1035ea46f3bea0cd319d1bac0609d7e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.4,powder X-ray diffraction pattern (PXRD) of complex 1 exhibits characteristic peaks at $2 \\theta$ positions of 9.8, 12.2, 16.4, 18.3, $2 8 . 2 ^ { \\circ }$ . The experimental pattern of complex 1 is basically consistent with the simulated one,indicating the phase purity of the synthesized bulk samples.Thermal gravimetric analysis (TGA) experiment was performed on a sample consisting of numerous single crystals from 30 to （202 $1 2 0 0 ^ { \\circ } \\mathrm { C }$ under ${ \\bf N } _ { 2 }$ atmosphere at a heating rate of $1 0 \\mathrm { ^ { o } C cdot m i n ^ { - 1 } }$ . The TG and DTA curves are depicted in Fig. 5. Complex 1 firstly undergoes weight loss of $5 . 1 \\%$ at about $1 7 5 ~ ^ { \\circ } \\mathrm { C }$ due to the release of eight water molecules (calcd. $5 . 4 \\%$ ),and the framework decomposes at about $2 6 0 ~ ^ { \\circ } \\mathrm { C }$ attributed to the departure of bipy moieties $1 1 . 7 \\%$ (calcd. $10 . 6 \\ \\%$ ). Complex 1 continues to break down upon further heating and exhibits an obvious weight loss of $\\mathrm { H } _ { 3 }$ mimda ligands above $7 0 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/380bb8c590814cbf6ee014312268ddb87679c135f652fddf3f65bd6a80e380fa.jpg",
+        "img_caption": [
+            "Fig. 4.Simulated and experimental PXRD patterns of complex 1 ",
+            "Fig.5. Thermal gravimetric analysis plot of complex 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Luminescence property ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The luminescence properties of complex 1, bipy and free H3mimda ligand were investigated in the solid state at room temperature. As ilustrated in Fig.6,complex 1 exhibits an emisson band with the maximum at （204号 $4 7 6 \\mathrm { n m }$ upon excitation at $3 2 5 ~ \\mathrm { { n m } }$ . However, the maximum emission wavelength of $\\mathrm { H } _ { 3 }$ mimda ligand and bipy are 416 $( \\lambda _ { \\mathrm { e x } } = 3 1 5 ~ \\mathrm { n m }$ and $3 6 3 ~ \\mathrm { n m }$ $( \\lambda _ { \\mathrm { e x } } = 2 7 0 ~ \\mathrm { n m }$ ), respectively. Compared with the free bipy and H3mimda ligands,luminescence is probably originated from the ligand emision. The enhancement and significant red shift of the emisson occur in complex 1, which is probablydue to the reaction between free ligands and metal ions,and further form the skeleton structure[25-28]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/71a57003ad800431f08d9bfe2b97819e330a2f135fae6fb7d30b53846f931e9d.jpg",
+        "img_caption": [
+            "Fig.6.Luminescent spectra of complex1,bipy and H3mimda ligand "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）Li,J.R.; Sculley,J.; Zhou,H.C.Metal-organic frameworks for separations.Chem.Rev.20l1,112,869-932.   \n(2）Furukawa,H.doK.E.;OKe,;.stdastaafrksee4 1230444.1-1230444.12.   \n(3）Stockses(s)ouslsie 2012,112,933-969.   \n(4）Fang,Q.R;Zu,G.S.Jin,Z;J.Y;Ye,W;Xue,;Yang,H;WagY;Qu,S.LMesorousmetalranicameworkireb topology for hydrogen storage and dye assembly.Angew. Chem. 2007,119,6758-6762.   \n(5）HalperR;L;k,.oloaltroliteltacfos metalloligand design.J. Am. Chem. Soc.2006,128,15255-15268.   \n(6）Zhao,D;g,QanGsifcaletae.g59.   \n(7）(a)Fng,X;Fg;,JL;Ng,.;WagLY;Geticlaredisioadreososrco substitutedidboateesecrotudlos. X.；Xie,S.Y.;Wang,C.L.;Wang,L.Y.; Lang,X.M. Synthesis,structure and characterization of a $3 d \\mathord { - } 4 f$ hetero-metallic complex based on imidazole-dicarboxylate. Chin.J. Struct. Chem.2015,34,771-776.   \n(8）Zo;i and Nano-Metal Chem.2017,47,509-514.   \n(9）GuoM;uHiotdreoscedebote oxalate: synthesis,structures,and properties.J. Coord. Chem.2012,65,1724-1739.   \n(10）Liu,X.W;R;LiuH;uY.;iXW;XuJieC.Zerieseteallouseacoordinationfrkssbled4carbylcciditlogdltructurec and magnetic properties. RSC Advances 2015,5,15059-15068.   \n(11）Zhu,Y.;Wang,W.Y.; Guo,M.W.; Li, G.; Lu,H.J. An unprecedented 1-D mixed-valence $\\mathrm { { C u ( I I ) / C u ( I ) } }$ metal-organic framework bearing 2-phenyl imidazole dicarboxylates.Inorg. Chem. Commun. 2011,14,1432-1435.   \n(12）Kanoojosaddeeo the second spacers.Eur.J.Inorg.Chem.2010,5,3762-3769.   \n(13）Jia,HLooobc and $^ { 4 , 4 ^ { \\prime } }$ -bipyridine.Synth.React.Inorg.Met.-Org.Chem.2013,43,1458-1464.   \n(14）Zng,Lu 2,3-dicarboxylicacid: Syntheses,structures,and electrochemical properties.Inorg.Chim.Acta 20l6,447,18-21.   \n(15）Rocha,J.; Paz,A.; Filipe,A.; Shi,F.N.; Ananias,D.; Silva,N.J.; Trindade,T.Mixed-metal $d \\cdot f$ phosphonate frameworks-photoluminescence and magnetic properties.Eur.J. Inorg. Chem. 2011,13,2035-2044.   \n(16）Feltham,H.L.C.; Clerac,R.; Powell,A.K.; Brooker,S.A tetranuclear,macrocyclic $3 d { \\cdot } 4 f$ complex showing single-molecule magnet behavior. Inorg. chem.2011,50,4232-4234.   \n(17）Zhang,YaLoH;aHX;;;uoisrcuredialfd $\\mathrm { L n } _ { 2 6 } @ { \\mathrm { C O } } _ { 3 }$ （ $\\mathrm { L n } =$ DyandTb)cluster-basedlanthanide-transition-metal-organic frameworks (LnMOFs).Chem.Eur.J.2015,21,32343241.   \n(18)Sakamoto,M.; Manseki, K.; Okawa,H. $d \\cdot f$ Heteronuclear complexes: synthesis,structures and physicochemical aspects. Coord. Chem.Rev.2001, 219,379-414.   \n(19）Sheldrick,G.M.SHELXs97,Programforthe SolutionofCrystal Structure.UniversityofGotingen,Germany1997.   \n(20）Sheldrick,G.M.SHELXL97,ProgramfortheCrystal Structure Refinement. UniversityofGotingen,Germany1997.   \n(21）Feng,X;Guag,LZoSKroisbeeure frameworkwithdmesialube:seses,rctures,inescecendmageticsuies.CrystGowthes98.   \n(22）Desiraju,G.R.;teiner,T.TheWeakHydrogenBondinStructuralChemistryandiologyOxfordUniversityPress:Oxford999.   \n(23）Feng, X.; Feng,Y. Q.; Guo,N.; Sun, Y.L.; Zhang, T.; Ma,L.F.; Wang,L. Y. Series $d \\cdot f$ heteronuclear metal-organic frameworks: color tunability and luminescent probe with switchable properties.Inorg. Chem.2017,56,1713-1721.   \n(24）Spek.sect C34-C34.   \n(25）Fomina，；obohotova,Z；leksadrovG；melinA.；ykov；aerova；goakoAuntus,L；votorseV; Eremmenko,I. Novel 1D coordination polymer $\\{ \\mathrm { T m } ( \\mathrm { P i v } ) _ { 3 } \\} _ { \\mathrm { n } }$ ：synthesis,structure,magnetic properties and thermal behavior.J.Solid State Chem. 2012,185,49–55.   \n(26）TianG;ZuGFng;uoX;Xue,;unJ;Qiu.Dsigsisdeeftodisioalldlay connecting infinite one-dimensional chains via $^ { 4 , 4 ^ { \\prime } }$ -bipyridine.J.Mol. Struct.2006,787,45-49.   \n(27）Cui,Y.;Yue,Y.;Qian,G.Chen,B.Luminescentfunctionalmetal-organic frameworks.Chem.Rev.2l1,12,6162.   \n(28）Li,X.;Wang,X.W.; Zhang,Y.H. Blue photoluminescent 3D $Z \\mathrm { n } ( \\mathrm { I I } )$ metal-organic framework constructing from pyridine-2,4,6-tricarboxylate. Inorg.Chem. Communs.2008,11,832-834. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A Three-dimensional $\\mathbf { T m } ( \\mathbf { I I I } ) { - } \\mathbf { Z n } ( \\mathbf { I I } )$ Heteronuclear Metal-organic Framework Based on Imidazole-dicarboxylate Ligand: Synthesis, Crystal ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Structure and Luminescence Property ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GUO Nan(郭楠) FENG Xun (冯勋) JIAHong(贾红) QINGuo-Zhan(秦国展）WEIJing-Tao(魏靖涛) HAN Zhi-Yue(韩志越) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A $d \\cdot f$ heteronuclear metal-organic framework (MOF)， $\\{ \\mathrm { [ T m _ { 3 } Z n _ { 6 } ( b i p y _ { 2 } ) _ { 2 } ( m i m d a ) _ { 7 } ( H _ { 2 } O ) _ { 3 } ] } \\cdot ( H _ { 2 } O ) _ { 5 } \\} _ { \\mathrm { n } }$ (1, $\\mathrm { H } _ { 3 } \\mathrm { m i m d a } = 2$ -methyl-1-H-imidazole-4,5-dicarboxylic acid,and bipy $= 4 { , } 4 ^ { \\prime }$ -bipyridine),has been synthesized under solvothermal conditions,and structurally characterized by elemental analysis,IR spectra and $\\mathrm { \\Delta } \\mathrm { X }$ -ray single-crystal diffraction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/777d6e3578301e5046c39d560b9072c9da822bcc864be4e6e5c8795f2cf1b427.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    }
+]

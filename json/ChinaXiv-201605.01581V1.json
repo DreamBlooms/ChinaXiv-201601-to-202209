@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "A method for correcting regional bias in SMOS global salinity products \\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Xiaolin (佟晓林)1,2,3,WANG Zhenzhan (王振占)²,LIQingxia (李青侠)l,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Departmentof Electronics and Information Engineering,Huazhong Universityof Scienceand Technology,Wuhan 430074,   \nChina   \n²KeyLaboratoryofMicrowave RemoteSensing,NationalSpaceScienceCenter/CenterforSpaceScienceandAppliedResearch,   \nChinese Academy of Sciences,Beijing l0o19o,China   \n3SchoolofPhysicsandElectronics,Henan University,Kaifeng475o1,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received Aug.21,2014;accepted in principle Nov.21,2014; accepted for publication Jan.4,2015   \n$\\circledcirc$ Chinese Society for Oceanology and Limnology,Science Pressand Springer-Verlag Berlin Heidelberg 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSoil Moisture and Ocean Salinity (SMOS)Level 3 (L3) sea surface salinity (SSS) products are provided by the Barcelona Expert Centre (BEC).Strong biases were observed on the SMOS SSS products, thus the data from the Centre Avalde Traitement des Donnees SMOS(CATDS)were adjusted for biases using a large-scale correction derived from observed diferences between the SMOS SSS and World Ocean Atlas (WOA)climatology data. However, this large-scale correction method is not suitable for correcting the large gradient of salinity biases. Here,we present a method for the correction of SSS regional bias of the monthly L3 products.Based on the stable characteristics of the large SSS biases from month to month in some regions,corrcted SMOS SSS maps can be obtained from the monthly mean values after removing the regional biases.The accuracy of the SMOS SSS measurements is greatly improved, especiall near the coastline,at high latitudes,and in some open ocean regions.The SMOS and ISAS SSS data are also compared with Aquarius SSS to verify the corrected SMOS SSS data.The correction method presented here only corrects annual mean biases.The measurement accuracy of the SSS may be improved by considering the influence of atmospheric and ocean circulation in different seasons and years. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: ocean salinity; microwave radiometry; sea surface; Soil Moisture and Ocean Salinity (SMOS) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ocean salinity is one of the main variables in the monitoring and modelling of ocean circulation (Klemas,2011).Knowing the salinity distribution on a global scale and its annual and inter-annual variability is crucial to betterunderstand the ocean's role in the climate system,which is regulated by the ocean circulation and the ocean-atmosphere water and heat fluxes (Latif,2001;Font et al.,2010). One of the main goals of the Soil Moisture and Ocean Salinity (SMOS) mission,launched in November 20o9,is to produce global maps of sea surface salinity (SSS) with an accuracy of O.1-O.2 (on the Practical Salinity Scale,1978)over a time scale of1 month and at a spatial resolution of about $1 0 0 ~ \\mathrm { k m }$ ，usingan interferometric L-band microwave radiometer(Kerr et al.,2001,2010; Font et al., 2004;Reul et al.,2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, because of the complex forward modelling, including the use of external information on surface roughness(Guimbard et al., 2012； Yin et al., 2012; Wei et al., 2014), the correction for sun and galaxy radiation effects (Reul et al.,20O7),and the biases associated with the image reconstruction process (Gourrion et al.,2012), the salinity products have a low signal-to-noise ratio at Level 2 (L2) (Guimbard et al.， 2012). Obtainingoceansurfacesalinity measurements that have low sensitivity is a very challenging task (Font et al., 2O1O; Kainulainen et al., 2012). Currently, averaging the data in space and time reduces the observational bias at Level 3 (L3); however, it is still far from the required accuracy. Further improvements at various data processing levels are needed and are currently under investigation (Font et al., 2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SMOS suffers from large regional biases in the field of view. During the processing of the Barcelona Expert Centre(BEC) L3 product, these biases were mitigated by applying an ocean target transformation (OTT) everytwo weeks,derived frombiases observed in the southeastern Pacific Ocean.In addition, the L3 SSS products from the Centre Aval de Traitement des Données SMOS (CATDS)were adjusted for bias using a large-scale correction derived from observed differences between the SMOS SSSand World Ocean Atlas(WOA) monthly SSS.However, thislarge-scale correction method is not suitable for correcting the large salinity biase gradient. Moreover, the correction method may have a significant disadvantage as it reduces much of the large-scale variability over the ocean (Zhang et al., 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, a correction method based on very stable characteristics of large SSS biases in some regions is proposed for SMOS SSS products.To validate the method, the corrected monthly mean values from SMOS-Barcelona Expert Centre (BEC) are compared with those from the In Situ Analysis System (ISAS). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Sections 2 and 3 of the paper, the data and bias characteristics of the retrieved SSS on a global scale are analyzed and the potential sources for larger regional biases observed in the SMOS SSS are explained. Methodsused for developingand validating the correction method are described in section 4 and finally a discussions and conclusions are presented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2DATA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This section describes the data sets used in our analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1SMOS SSSdata ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SSS products at $0 . 2 5 ^ { \\circ }$ grid spacing are produced by the BEC,available online(www.smosbec.icm.csic.es)，a joint initiative of the Spanish Research Council(CSIC)and the Technical University of Catalonia (UPC), founded primarily by the Spanish National Program on Space.We use the weighted average level3(L3) monthly mean products(version: 4.3.17） for analyzing the SSS biases and present a method to correct them.These products come from the L2 Ocean SalinityUser Data Product (UDP) and Ocean Salinity Data Analysis Product (DAP) (Pinori et al.,2O08). These UDP files are generated by the EuropeanSpace Agency (ESA） and include geophysical parameters,a theoretical estimate of their accuracy,and flags and descriptors of the product quality.The SSS data are based on the semi-empirical roughness ocean forward model (Guimbard et al., 2012).Because the SMOS SSS data are very noisy at the edge of the swaths (Yin et al., 2014),only SSS data retrieved from the center of the swath $( \\pm 3 6 0 \\mathrm { k m } )$ were used to generate the Ocean Salinity values. Additionally， we discarded the SMOS samples flagged as Sun-point, high Sun glint,high galactic noise,L1c TB invalid,outliers,contaminated by manmade radio frequency interferences (RFI),presence of ice,and within $2 0 0 ~ \\mathrm { k m }$ ofland. More detailed information about the quality flags can be found in the L2OS Algorithm Theoretical Baseline Document (SMOS Team,2014) and the SMOS-BEC Ocean and Land Products Description (SMOS-BEC Team, 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The binned maps of L3 SMOS SSS values are constructed by taking the weighted average of the filtered L2 SSS values. The weight average of Sea Surface Salinity in cell $k$ is given by: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\big < \\mathrm { S S S } \\big > _ { k } = \\sum _ { i = 1 } ^ { N } \\omega _ { i } \\mathrm { S S S } _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { i } = \\frac { \\displaystyle \\frac { 1 } { R _ { i } ^ { 2 } \\sigma _ { i } ^ { 2 } } } { \\displaystyle \\sum _ { j = 1 } ^ { N } \\displaystyle \\frac { 1 } { R _ { j } ^ { 2 } \\sigma _ { j } ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and $\\sigma _ { i }$ is the theoretical uncertainty computed for SSS at grid point i, $R _ { i }$ is the equivalent footprint size (diameter of the equivalent circle) centered on grid point $i$ ，and $N$ is the number of grid points contained in cell $k$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2In-situ SSS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study we used the monthly reanalysis of SSS maps generated by the Laboratoire de Physique des Océans.The reanalysis data of the salinity fields over the global ocean were obtained from ISAS using an operational version of the ISAS-tool based on the optimal interpolation method (Gaillard et al., 2009). TheISASSSS gridded fieldswere takenfromARGO floats，Conductivity-Temperature-Depth Sensors from vessels,and moorings of various projects (Hernandez et al.,2014).Match-ups between ISAS and SMOS SSS were conducted to investigate the characteristics of the biases in the latter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Aquarius data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study we use the Aquarius Level 3 monthly SSS maps (Version 3.O) based on the Combined Active Passive(CAP) algorithm with rain correction (CAP_RC).When rain droplets strike the ocean surface they create a roughness which increases the brightness temperature that Aquarius measures; this ultimately reduces the measured SSS. The rain correction reduces the surface freshening under rain (Tang et al., 2014). The $1 ^ { \\circ } \\times 1 ^ { \\circ }$ gridded averaged maps were provided by the JPL Climate Oceans and Solid Earth section.Quality assessment of Aquarius SSS revealed that the root mean square (RMS) difference between the in situ measurements from the Argo floats and moored buoys is less than O.2 for CAP_RC between $4 0 ^ { \\circ } \\mathrm { S }$ and $4 0 ^ { \\circ } \\mathrm { N }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3CHARACTERISTICS OF BIASES INRETRIEVALSOFSMOSSSS",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An bias analysis of the SMOS L3 products was conducted using the monthly data aggregated at $0 . 2 5 ^ { \\circ }$ To analyze the bias characteristics of SMOS SSS on a global scale,we compared the monthly mean values of SMOS SSS with those from ISAS SSS from January 2010 to December 2012.The global monthly SSS biases for the 36-month period were calculated by subtracting the ISAS SSS from the SMOS SSS data.From these bias maps (not shown),we found very stable characteristics for the larger SSS biases $_ { ( > 0 . 1 5 ) }$ in some regions.The annual biases were calculated by selecting the median of the 12-month biases.Figure 1 (a-c) shows the annual SSS bias maps of 2010 to 2012.SMOS retrievals with fresher water,wheretheretrievedSMOSSSSis1lower than the SSS measured by ISAS,are found along most of the world coasts (e.g. western south Atlantic and close to the eastern Pacific coasts of Asia).The biases are related to the distance from the coastline. The relationship between the SSS bias and distance to the coastline can be written as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathrm { S S S } _ { \\mathrm { m e d i a n } } { = } 0 . 9 7 2 6 { - } 0 . 0 0 3 8 x { + } 4 . 6 { \\times } 1 0 ^ { - 8 } x ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $x$ is the distance to the coastline in km.The biases in the different regions vary considerably. The SMOS SSS is fresher by more than O.15 in some open ocean areas(e.g. the North Indian Ocean, the Western ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "South Equatorial Pacific Ocean).In other open ocean areas,however, the SSS is saltier by more than 1 (e.g. the Eastern South Pacific Ocean, the southern hemisphere high latitudes and the Eastern Equatorial Pacific Ocean). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The biases have a very high correlation:a correlation coefficient of O.889 between the 2010 and 2011 data,and a correlation coefficient of 0.864 between the 2011 and 2012 data.Some 2010 SMOS data from the high latitudes of the North Atlantic Ocean and 2012 SMOS data along the Madagascar coastline were flagged as bad values. Thus，we selected the SMOS annual biases of 2011 to correct the monthly mean 24-month SSS maps in 2010 and 2012. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The so-called “land-induced\" contamination and RFI are seen as two important factors(Boutin et al., 2012)resulting in systematic biases in SSS data (generally increasing the salinity).However, it is difficult to explain the larger differences found in our data in some regions.The land contamination intensity varies in different regions along the world coasts (Banks et al.,2012).For example, the contamination along the western Central American coastline is smaller than along other coastlines.In addition, lowlevel RFI sources in radiometric signals are difficult to detect and are often derived by statistical methods (Ruf et al., 2006; De Roo and Misra, 2008).Although some low level interference can be attributed to RFI, this cannot account for all the signal contamination in the data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part of the large biases of SMOS SSS may arise from the difference between the actual wind retrieval from the radiometer measurements and the wind data from the Centre forMedium-Range WeatherForecasts (ECMWF).The latter is used to initialize the retrieval process ofwind speed and SSSobtained by the SMOS mission in the ESA SMOS Level 2 Ocean Salinity (L2OS) processor $\\mathrm { v } 5 . 5 0$ .The fact that the satellites measure the surface wind stress has two important implicationswheninterpretingthecomparisons between the ECMWF model winds and satellite observations (Chelton and Freilich,20o5).First, the satellite wind data uses the equivalent neutral-stability wind ata height of $1 0 \\mathrm { m }$ above the sea surface,while ECMWF analyses are intended to be estimates of the actual winds at $1 0 ~ \\mathrm { m }$ .Assuming that the atmospheric boundary layer is nearly neutrally stable over most of the world ocean， collocated satellite winds and ECMWF analyses winds at $1 0 \\mathrm { ~ m ~ }$ should be directly comparable (Chelton and Freilich, 20o5).However, at locations of significant deviation from neutral stability, the two will differ.Thus,the saltier data seen at the eastern Equatorial Pacific Ocean may be due to an unstable atmospheric boundary layer. The second consideration is that satellite winds are measured relative to the moving ocean surface,whereas the ECMWF winds are not. Because wind speeds retrieved from satellites are relative to ocean currents but ECMWF winds from global analyses are measured relative to the solid earth, the wind speed difference $ { \\mathrm { S S S } } _ { \\mathrm { S M O S } }$ is SMOS SSS, $\\mathrm { S S S } _ { \\mathrm { I S A S } }$ is ISAS SSS,△SSScor is the global SSS biases, ${ \\mathrm { S S S } } _ { \\mathrm { a f f e r } }$ is the monthly mean SMOS SSS after correction in 2010 and 2012. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c1566733d79cde7f8aec8a624995fb34767e67babafecb1a9acfda05a7dfb65.jpg",
+        "img_caption": [
+            "Fig.1 Annual global SSS bias maps obtained by comparing SMOS SSS and ISAS SSS ",
+            ":he median SSbiases are chosen fromthe annual monthlybiasvalues.a.2010 bias map;b.201 bias map;c.2012 bias map. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/addf89d5bd153594d7bce5dd38811162d4bba8e20c7579da57308335ed343f79.jpg",
+        "img_caption": [
+            "Fig.2Simplified flowchartof the SSScorrection method "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "between the two wind datasets often give rise to strong ocean currents and ocean fronts. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally, many other geophysical parameters can lead to SMOS SSS biases (Sabia et al.，2010; Guimbard et al., 2012;Wei et al.,2014) such as sea surface temperature,foam rain,ice-cover,galactic radiation,reflectionofsolarradiation，forward models,and reverse methods.This is especially true in the region of the Antarctic Circumpolar Current (ACC),where the surface currents are fast (producing a foamlayerby wavesbreaking over the sea surface) and the temperature is very low. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4REMOVING THE STABLE REGIONAL BIASESINSSSRETRIEVALSOF SMOSMETHOD,RESULTS,ANDANALYSIS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the stable characteristics of the SSS biases，we put forward a method to correct the monthly mean SSS through removing the stable regional biases. The algorithm for the correction process is shown in Fig.2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We compare the successive 12-month mean SMOS SSS in 2011 ofBEC with the ISAS SSS,and calculate the monthly SSS biases by subtracting the ISAS SSS from the SMOS SSS.Further, the annual biases are calculated by choosing the median of the 12-monthly biases.Data withabiasless than O.15 is considered as stochastic and replacedby zero.Figure 3 shows the global gridded SSS bias of 2011,which is used to correct the monthly mean SMOS SSS values of 2010 and 2012.It shows large biases along the coasts and in the high-latitude region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4989356704342993d622df27a58e0a39cb9d39f80b5de4e24f0328c4d1523936.jpg",
+        "img_caption": [
+            "Fig.3 Global gridded SSS biases of 20l1 used to correct the monthly mean SMOS SSS in 2010 and 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The statistical bias analysis is conducted separately for each month.To investigate the average impact and extent of land contamination on the L3 products, the SSS biases were binned as a function of the distance to the coastline.In this process,we removed data close to offshore islands.The results of the statistical analysisarepresentedinFig.4.Figure $4 \\mathrm { a - b }$ shows the global SSS RMS statistical results of 24 months in 2010 and 2012.As the pixels move closer to the coastline,the RMS of the SSS retrievals increases continuously to ${ \\sim } 1 . 2$ before correction and to ${ \\sim } 0 . 8 1$ after correction, $2 0 0 { \\ - } 4 0 0 \\ \\mathrm { k m }$ from the coastline.The ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce60d5ecdf5fc924f56c9d0b20d19e187ac5c66c0aa705f1a7da69e3f0acde04.jpg",
+        "img_caption": [
+            "Fig.4RMSofSMOSSSSsalinityasafunctionofthedistancetothecoastlinefor24months fromJanuaryto December 2010 and 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ThedotsrpresentthemonthlyedianSOSSSRMS,thesolidlineis theftingcure.aglobalSOSSSRMbeforecorrection;blobal SMOS SSS RMS after correction; c.middle and low latitude SMOS SSS RMS within $4 0 ^ { \\circ }$ before correction; d.middle and low latitude SMOs SSS RMS within $4 0 ^ { \\circ }$ after correction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d983cc63d34c5ab1c4fdb20a1f21eeb9b3f612f21d4473f9c9804b416e1049f5.jpg",
+        "img_caption": [
+            "Fig.4Continued "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RMS is higher than O.68 before the correction,and decreases to below O.61 after the correction within $1 0 0 0 { \\mathrm { k m } }$ of the coast. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SMOS SSS is expected to be more accurate in warm water as the sensitivity of the measured brightness temperature to salinity increases with SST. Results of the statistical analysis are provided in Fig.4c-d for the middle and lowlatitudes within $4 0 ^ { \\circ }$ The RMS of the SSS is obviously smaller in the middle and low latitudes than in the high latitudes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within $1 0 0 0 { \\mathrm { k m } }$ of the coast, theRMSisabove 0.45 forthe uncorrected SSS values,while further than $1 0 0 0 { \\mathrm { k m } }$ fromthecoasttheRMSisbelowO.35after correction. In the offshore region $3 0 0 0 { \\cdot } 4 5 0 0 \\mathrm { k m }$ from the coast, the RMS also decreases after correction.Thus,this method also improves the SMOS SSS reversion performance in the open ocean. A more detailed analysis of this signal is given at the end of this section. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To analyze the bias along the coastline, the SMOS ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/328c9c790b183b01fbf70c5fa8748c16f7d6871aa139524cd474a6a59a597e6a.jpg",
+        "img_caption": [
+            "3.5 △SSS bias as a function of the distance to the coastline in middle and low latitudes within $\\bf { 4 0 ^ { \\circ } }$ in July : ",
+            "DotsepresenttheolyOSSbias;solidisaetefingur.aOSiasbfoecoeon;bOSSbast "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SSS bias statistical results in 201O and 2012 are plotted in Fig.5 for the middle and low latitudes within $4 0 ^ { \\circ }$ . The amplitude of the uncorrected SSS bias increases as the pixels get closer to the coast. The median values of the bias reach $\\sim - 0 . 5 6$ ，200-400km from the coast.The median bias values decrease to within O.1 after correction,with almost no correlation to the distance.After correction,most of the SMOS SSS biasesare within $\\pm 0 . 2$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For a more precise view of the spatial extent and impact of the correction method, the global monthly mean SSSbiasesbeforeandafter thecorrectionfrom 2010 to 2012 are mapped.As an example, Figs.6a and b show the global monthly SSS bias for July 2012 before and after correction, respectively. In the high latitudes of the North Atlantic Ocean zone, some data were flagged as bad values; thus,the SMOS SSS biases in this zone are not shown in Fig.6b. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8353de2a76965f380c00bf30ea86e10b250104f51657394eb88f9572cfe739f8.jpg",
+        "img_caption": [
+            "Fig.6Global SSS monthly mean bias forJuly 2011 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a. before correction; b.after correction. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f6b8db7bfa8b38bd9f2395c63fbf4853e4430cfa3eca6796d6b9019c035ed51.jpg",
+        "table_caption": [
+            "Table1Details of regions for comparison of SSS bias before and after correction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Region</td><td>No.1</td><td>No.2</td><td>No.3</td><td>No.4</td><td>No. 5</td><td>No.6</td></tr><tr><td>Full name</td><td> Paster North</td><td>Aquatria soth</td><td>InEdian orian</td><td>Western quctaral</td><td>Northern Troaieal</td><td>Eastern qoutaral</td></tr><tr><td>Acronym</td><td>ENPO</td><td>ESAO</td><td>EIO</td><td>WEPO</td><td>NTPO</td><td>EEPO</td></tr><tr><td>Latitude</td><td>10°N-40°N</td><td>0°S-30°S</td><td>0°S-30°S</td><td>0°S-30°S</td><td>5°N-15°N</td><td>5°S-1N</td></tr><tr><td>Longitude</td><td>130°E-155E</td><td>45°W-15°W</td><td>65°E-90°E</td><td>170W-155W</td><td>180°W-110°W</td><td>130°W-90°W</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 6a and b shows that the SMOS SSS measurement accuracy improves along most of the coastline and at the high-latitude zones.In the open ocean (e.g.the South Pacific,Indian，and North Atlantic Oceans) the bias distribution is more uniform after correction. The saltier area in the Eastern Equatorial Pacific Ocean also disappears.However, the biases along the coastlines and high latitude zones are still bigger than those in the open ocean. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The global SMOS SSS data before and after the correction are analyzed by comparing them with the ISAS SSS in the six regions defined in Table 1. The regions are: the Eastern North Pacific Ocean (ENPO), Equatorial South Atlantic Ocean (ESAO),Equatorial ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ff55deb800cb6f70e499809c3ae720459bd7b199404c55f3707e0ac52b99f1a.jpg",
+        "table_caption": [
+            "Table2Regionswhere the SMOS SSSbiases are collocated "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Zone</td><td>No.1</td><td>No.2</td><td>No.3</td><td>No.4</td><td>No.5</td><td>No.6</td></tr><tr><td>ENPO</td><td>ESAO</td><td>EIO</td><td>WEPO</td><td>NTPO</td><td>EEPO</td></tr><tr><td rowspan=\"6\">Jul. 2012</td><td rowspan=\"3\">Uncorrected</td><td>Trimmed mean</td><td>-0.61</td><td>-0.23</td><td>-0.06</td><td>-0.15</td><td>-0.07</td><td>0.08</td></tr><tr><td>Median</td><td>-0.54</td><td>-0.17</td><td>-0.05</td><td>-0.16</td><td>-0.07</td><td>0.09</td></tr><tr><td>RMS</td><td>0.79</td><td>0.56</td><td>0.23</td><td>0.21</td><td>0.19</td><td>0.21</td></tr><tr><td rowspan=\"3\"></td><td>Trimmed mean</td><td>-0.08</td><td>0.09</td><td>-0.01</td><td>0</td><td>0.01</td><td>-0.05</td></tr><tr><td>Corrected Median</td><td>-0.08</td><td>0.09</td><td>-0.01</td><td>-0.01</td><td>0.02</td><td>-0.04</td></tr><tr><td>RMS</td><td>0.33</td><td>0.28</td><td>0.2</td><td>0.19</td><td>0.2</td><td>0.19</td></tr><tr><td rowspan=\"6\">Aug.2012</td><td rowspan=\"3\">Uncorrected</td><td>Trimmed mean</td><td>-0.6</td><td>-0.3</td><td>-0.12</td><td>-0.19</td><td>-0.19</td><td>0.11</td></tr><tr><td>Median</td><td>-0.55</td><td>-0.26</td><td>-0.12</td><td>-0.19</td><td>-0.19</td><td>0.1</td></tr><tr><td>RMS</td><td>0.73</td><td>0.52</td><td>0.27</td><td>0.24</td><td>0.28</td><td>0.23</td></tr><tr><td rowspan=\"2\"></td><td>Trimmed mean</td><td>-0.09</td><td>0.02</td><td>-0.07</td><td>-0.05</td><td>-0.1</td><td>-0.02</td></tr><tr><td>Median</td><td>-0.1</td><td>0.02</td><td>-0.06</td><td>-0.04</td><td>-0.09</td><td>-0.01</td></tr><tr><td rowspan=\"9\">Uncorrected</td><td rowspan=\"3\"></td><td>RMS</td><td>0.36</td><td>0.28</td><td>0.25</td><td>0.18</td><td>0.25</td><td>0.17</td></tr><tr><td>Trimmed mean</td><td>-0.39</td><td>-0.21</td><td>-0.14</td><td>-0.2</td><td>-0.07</td><td>0.18</td></tr><tr><td>Median</td><td>-0.33</td><td>-0.13</td><td>-0.14</td><td>-0.2</td><td>-0.08</td><td>0.17</td></tr><tr><td rowspan=\"3\"></td><td>RMS</td><td>0.6</td><td>0.53</td><td>0.32</td><td>0.26</td><td>0.24</td><td>0.25</td></tr><tr><td>Trimmed mean</td><td>0.12</td><td>0.11</td><td>-0.09</td><td>-0.06</td><td>0.02</td><td>0.04</td></tr><tr><td>Corrected Median</td><td>0.13</td><td>0.11</td><td>-0.1</td><td>-0.06</td><td>0.03</td><td>0.05</td></tr><tr><td rowspan=\"9\">Uncorrected</td><td rowspan=\"3\"></td><td>RMS</td><td>0.34</td><td>0.29</td><td>0.28</td><td>0.19</td><td>0.24</td><td>0.17</td></tr><tr><td>Trimmed mean</td><td>-0.4</td><td>-0.1</td><td>-0.02</td><td>-0.06</td><td>-0.06</td><td>0.39</td></tr><tr><td>Median</td><td>-0.34</td><td>-0.03</td><td>-0.02</td><td>-0.06</td><td>-0.05</td><td>0.39</td></tr><tr><td rowspan=\"3\"></td><td>RMS</td><td>0.62</td><td>0.48</td><td>0.3</td><td>0.19</td><td>0.25</td><td>0.44</td></tr><tr><td>Trimmed mean</td><td>0.08 0.07</td><td>0.22</td><td>0.03</td><td>0.08</td><td>0.03</td><td>0.26</td></tr><tr><td>Corrected</td><td>Median</td><td>0.22</td><td>0.02</td><td>0.07</td><td>0.04</td><td>0.26</td></tr><tr><td rowspan=\"8\">Nov. 2012</td><td></td><td>RMS</td><td>0.39</td><td>0.34</td><td>0.28</td><td>0.19</td><td>0.24</td><td>0.31</td></tr><tr><td rowspan=\"2\">Uncorrected</td><td>Trimmed mean</td><td>-0.52</td><td>-0.19</td><td>-0.03</td><td>-0.03</td><td>-0.18</td><td>0.23</td></tr><tr><td>Median</td><td>-0.42</td><td>-0.11</td><td>-0.05</td><td>-0.02</td><td>-0.18</td><td>0.22</td></tr><tr><td rowspan=\"3\"></td><td>RMS</td><td>0.8</td><td>0.49</td><td>0.26</td><td>0.16</td><td>0.3</td><td>0.3</td></tr><tr><td>Trimmed mean</td><td>-0.05</td><td>0.13</td><td>0.02</td><td>0.12</td><td>-0.09</td><td>0.1</td></tr><tr><td>Corrected Median</td><td>-0.05 0.5</td><td>0.13 0.29</td><td>0.01</td><td>0.12</td><td>-0.09</td><td>0.09 0.2</td></tr><tr><td rowspan=\"8\"></td><td></td><td>RMS</td><td>-0.23</td><td>0.26</td><td>0.21</td><td>0.25</td><td></td></tr><tr><td>Uncorrected</td><td>Trimmed mean</td><td>-0.73</td><td>-0.08</td><td>-0.16</td><td>-0.25 -0.24</td><td>0.21 0.21</td></tr><tr><td rowspan=\"3\"></td><td>Median RMS</td><td>-0.61 1.02</td><td>-0.17 0.55</td><td>-0.07 0.23</td><td>-0.16 0.25</td><td>0.35</td><td>0.26</td></tr><tr><td>Trimmed mean</td><td>-0.27</td><td>0.08</td><td>-0.03</td><td>-0.02</td><td>-0.16</td><td>0.08</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">Corrected</td><td>Median</td><td>-0.21</td><td>0.08</td><td>-0.03</td><td>-0.01</td><td>-0.15</td><td>0.08</td></tr><tr><td>RMS</td><td>0.61</td><td>0.3</td><td>0.23</td><td>0.21</td><td>0.29</td><td>0.19</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Indian Ocean (EIO)，Western Equatorial Pacific Ocean (WEPO)，Northern Tropical Pacific Ocean (NTPO),and the Eastern Equatorial Pacific Ocean (EEPO).The resultsare shown in Table2.The ENPO and ESAO regions have lower salinity before the correction.The median of the uncorrected SMOS SSSbiasesinENPOisbetween-0.61and-0.33,while thecorrected median of the bias is between $- 0 . 2 1$ and 0.13.The RMS in the two regions is larger than in the other four regions.Generally, the two regions have ${ \\mathrm { R M S } } { \\mathord { > } } 0 . 5$ before correction and ${ \\mathrm { R M S } } { \\ge } 0 . 3$ after correction.EIO,WEPO,NTPO,and EEPO are open ocean regions.EIO,WEPO,and NTPO have smaller SSS reversion thanISAS SSS reversion.The corrected biasmedian is within $\\pm 0 . 1$ in most months.EEPO is a typical region that has high salt levels before correction;in this region, the corrected bias median also decreases to within $\\pm 0 . 1$ after correction except for October. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9f5587c42882338ec7e778521fbfbdcb6975c65d7dc69471744c3d5abde10f9.jpg",
+        "img_caption": [
+            "Fig.7 Target region monthly SSS for August 2012 ",
+            "a.ISAS; b.SMOS SSS before correction; c.SMOS SSS after correction; d.Aquarius SSS "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In most cases,the corrected SSS RMS is below 0.25 except in ENPO and ESAO.The correction method performs better in July-September than in October-December, indicating that the regional biases may be affected by the seasons.It may be possible to improve the measurement accuracy of the SSS by considering the influence of atmospheric and ocean circulation in the different seasons and years. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The major contribution to the ISAS SSS field was from the profiling Argo floats.To date,more than 3 500 active floats have been deployed globally (Hernandez et al.,2014). The Argo floats record one temperature and salinity profile from $2 0 0 0 \\mathrm { m }$ to the surface (about $3 \\mathrm { m }$ )every10 days.This temporal and spatial resolution is too coarse to record short-term changes (Lagerloef, 2012; Hernandez et al.,2014). Therefore, the monthly ISAS SSS field is not suitable to calibrate the satellite SSS in regions where the SSS changes rapidly over time. To improve the spatial resolution we used the annual median values. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the effectiveness of our correction method, we introduce the Aquarius SSS products. Although the Aquarius products have a lower spatial and temporal resolution than the SMOS ones,they provide SSS data with less biases on a regional scale (DruckerandRiser,2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Although the annual SSS differences are not too large in the river flow regions between SMOS SSS and ISAS SSS (Fig.lc), the difference could be quite large in a single month as shown in Fig.7a and b. Figure 7a-d shows that the eastward entrainment of low-salinity water from the mouth of the Amazon River into the North Equatorial Counter Current is captured clearly by the SMOS SSS map.In the Caribbean, the negative biases in Fig.7b are corrected in Fig.7c. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The SMOS data provide higher spatial and temporal SSS resolution than the in situ SSS data. After averaging the SSS data and correcting for seasonal biases,the SMOS SSS captures the spatial scale variability better,partly because of its higher space and time sampling (Hernandez etal., 2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Monthly gridded SSS biases were calculated from January 2010 to December 2012,based on SMOS SSS values and reanalysis ISAS SSS.The monthly gridded SSS biases show very stable large SSS biases in some regions. There are obvious biases along coastlines,at higher latitudes,and at some locations in the open ocean.In addition to land and RFI, other factors may be responsible for the biases of the global SMOS SSS.These include the differences between the actual wind affecting the satellite and the ECMWF atmospheric data, sea surface temperature,foam,rain, ice-cover, galacticradiation， reflection of solar radiation, forward models,and reverse methods. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this paper we present a method for correction of SMOS SSS regional biases. The annual SMOS SSS mean biases are calculated based on monthly mean biases from January to December 2O11.The gridded correctionbiaseswereobtainedfrom the annual mean biases where the regional biases were bigger than 0.15.The monthly mean SMOS SSS in 24 months in 2010 and 2O12 was corrected using biases obtained from 2O11.The correction method effectively reduces theRMS of the SMOS SSS data.For the middle and lowlatitudes within $4 0 ^ { \\circ }$ ,the RMS is higher than 0.45 within $1 0 0 0 { \\mathrm { k m } }$ of the coast for the uncorrected SSS values, and decreases to below O.35 after applying our correction method.The median values of the biases are up to $\\sim - 0 . 5 6$ before correction $2 0 0 { \\ - } 4 0 0 \\ \\mathrm { k m }$ from the coast; after the correction, most of the SMOS SSS biases are within $\\pm 0 . 2$ .The SMOS SSS measurement accuracy is improved along most of the coastline and in the high latitude zones.The corrected SMOS SSS data improved in all the six selected regions from July to December 2012,especially during July-September. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Toverify the correction method, we introduced the Aquarius SSS produces.After averaging the SSS data and correcting for seasonal biases,the SMOS SSS showed better results than the ISAS SSS and uncorrected SMOS SSS data. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The correction method presented here corrects only for annual mean biases.Inter-annual and interseasonal variations should also be considered in future studies.It is possible to further improve the measurement accuracy of the SSS by considering the influence of atmospheric and ocean circulation in the different seasons and years. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7ACKNOWLEDGEMENT ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank the two anonymous reviewers for their very constructive comments.The ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aquarius SSS products can be obtained from the Physical Oceanography Distributed Active Archive Center (PODAAC) at the NASA Jet Propulsion Laboratory (http://podaac.jpl.nasa.gov). The SMOS SSS was acquired from the Barcelona Expert Center (www.smos-bec.icm.csic.es),a joint initiative of the Spanish Research Council (CSIC) and the Technical University of Catalonia (UPC), mainly funded by the Spanish National Program on Space for the SMOS data; the ISAS data set are available by contacting fabienne.gaillard@ifremer.fr. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Banks CJ,Gommenginger C P, Srokosz M A,Snaith H M. 2012.Validating SMOS ocean surface salinity in the Atlantic with Argo and operational ocean model data. IEEE Transactions on Geoscience and Remote Sensing, 50(5): 1 688-1 702.   \nBoutin J,Martin N,Reverdin G, Yin XB,Gaillard F.2012. Sea surface freshening inferred from SMOS and ARGO salinity: impact of rain. Ocean Science,9:3 331-3 357.   \nChelton D B,Freilich M H.2005.Scatterometer-based assessment of $1 0 \\mathrm { - m }$ wind analyses from the operational ECMWFand NCEP numerical weather prediction models.Monthly Weather Review,133(2): 409-429.   \nDe Roo RD,Misra S.20o8.A Demonstration of the effects of digitization on the calculation of kurtosis for the detection of RFI in microwave radiometry. IEEE Transactions on Geoscience and Remote Sensing,46(10): 3 129-3 136.   \nDruckerR,Riser S C.2014. Validation ofAquarius sea surface salinity with Argo: analysis of error due to depth of measurement and vertical salinity stratification.Journal of Geophysical Research: Oceans,119(7): 4 626-4 637.   \nFont J,Boutin J,Reul N,Spurgeon P, Ballabrera-Poy J, ChuprinA,Hénocq C,Lavender S,Martin N,MartinezJ, McCulloch M, Meirold-Mautner I, Mugerin C,Petitcolin F,Portabella M,SabiaR,Talone M, TenerelliJ,Turiel A, VergelyJL,WaldteufelP,Yin XB, Zine S,Delwart S. 2013.SMOS first data analysis for sea surface salinity determination. International Journal of Remote Sensing, 34(9-10): 3 654-3 670.   \nFont J, Camps A,Borges A,Martin-Neira M, Boutin J, Reul N, Kerr Y H,Hahne A,Mecklenburg S.2010.SMOS:the challenging sea surface salinity measurement from space. Proceedings of the IEEE,98(5): 649-665.   \nFont J,Lagerloef G SE,Le Vine D M, Camps A, Zanife O Z. 2004.The determination of surface salinity with the European SMOS space mission. IEEE Transactions on Geoscience and Remote Sensing,42(10): 2 196-2 205.   \nGaillard F,Autret E，Thierry V,Galaup P,Coatanoan C, Loubrieu T. 20o9. Quality control of large argo datasets. Journal ofAtmospheric Oceanic Technology,26(2): 337- 357.   \nGourrion J,Sabia R,Portabella M, Tenerelli J,Guimbard S, CampsA. 2012. Characterization of the SMOS instrumental error pattern correction over the ocean. IEEE Geoscience and Remote Sensing Letters,9(4): 793-797.   \nGuimbard S,Gourrion J, Portabella M, Turiel A,Gabarró C, Font J.2012. SMOS semi-empirical ocean forward model adjustment.  IEEE Transactions on Geoscience and Remote Sensing,50(5): 1 676-1 687.   \nHernandez O, Boutin J, Kolodziejczyk N, Reverdin G,Martin N, GaillardF,Reul N,Vergely JL.2014.SMOS salinity in the subtropical north Atlantic salinity maximum:1. Comparison with Aquarius and in situ Salinity.Journal of Geophysical Research:Oceans,Published Online First, 26December2014.http://dx.doi.org/10.1002/2013JC009610.   \nKainulainen J, CollianderA, Closa J,Martin-Neira M, Oliva R,Buenadicha G,Rubiales A P,Hakkarainen A, Hallikainen M T.2012.Radiometric performance of the SMOS reference radiometers—assessment after one year of operation. IEEE Transactions on Geoscience and Remote Sensing,50(5): 1 367-1 383.   \nKerr YH,Waldteufel P,Wigneron JP,Delwart S,CabotF, Boutin J,Escorihuela M J,Font J,Reul N,Gruhier C, Juglea SE,Drinkwater MR,Hahne A,Martin-Neira M, Mecklenburg S.2010.The SMOS mission: new tool for monitoring key elements of the global water cycle. Proceedings of the IEEE,98(5): 666-687.   \nKerr Y H, Waldteufel P, Wigneron J-P, Martinuzzi J, Font J, Berger M. 2001. Soil moisture retrieval from space: the Soil Moisture and Ocean Salinity (SMOS) mission.IEEE Transactions on Geoscience and Remote Sensing,39(8): 1 729-1 735.   \nKlemas V.2O11.Remote sensing of sea surface salinity: an overviewwith case studies.JournalofCoastal Research, 27(5): 830-838.   \nLagerloef G.20l2. Satellite mission monitors ocean surface salinity.EOS,Transactions American Geophysical Union, 93(25): 233-234.   \nLatif M.2001. Tropical Pacific/Atlantic Ocean interactions at multi-decadal time scales. Geophysical Research Letters, 28(3): 539-542.   \nPinori S,Crapolicchio R,Mecklenburg S.2O08.Preparing the ESA-SMOS (soil moisture and ocean salinity) missionoverview of the user data products and data distribution strategy. In: Microwave Radiometry and Remote Sensing of the Environment,2008．MICRORAD 2008．IEEE, Firenze. p.1-4.   \nReul N,Tenerelli J,Boutin J,Chapron B,Paul F,Brion E, Brion E,Archer O.2012.Overview of the first SMOS sea surface salinity products.Part I: quality assessment for the second half of 2010.IEEE Transactions on Geoscience and Remote Sensing,50(5): 1 636-1 647.   \nReul N, Tenereli J, Chapron B, Waldteufel P. 2007. Modeling sun glitter at L-band for sea surface salinity remote sensing with SMOS.IEEE Transactions on Geoscience and Remote Sensing,45(7): 2 073-2 087.   \nRuf C S,Gross S M,Misra S.2006.RFI detection and mitigation for microwave radiometry with an agile digital detector. IEEE Transactions on Geoscience and Remote Sensing,44(3): 694-706.   \nSabia R, Camps A, Talone M, Vall-Llossera M,Font J. 2010. Determination of the sea surface salinity error budget in the soil moisture and ocean salinity mission.IEEE Transactions on Geoscience and Remote Sensing,48(4): 1 684-1 693.   \nSMOS Team．2014.SMOS L2 OS algorithm theoretical baseline document. http://www.argans.co.uk/smos/docs/ deliverables/delivered/ATBD/SO-TN-ARG-GS-0007_ L2OS-ATBD_v3.11_140905.pdf.   \nSMOS-BEC Team.2014.SMOS-BEC ocean and land products description. http://cp34-bec.cmima.csic.es/doc/BECSMOS-0001-PD.pdf.   \nTang W Q, Yueh SH,Fore AG,Hayashi A,Lee T,Lagerloef G.2014.Uncertainty of Aquarius sea surface salinity retrieved under rainy conditions and its implication on the water cycle study. Journal of Geophysical Research: Oceans,119(8): 4 821-4 839.   \nWei E B,Liu SB,Wang Z Z,Tong XL,Dong S,LiB,Liu JY. 2014.Emissivity measurements of foam-covered water surface at l-band for low water temperatures.Remote Sensing,6(11): 10 913-10 930.   \nYin XB,Boutin J,MartinN,SpurgeonP, VergelyJL,Gaillard F.2014.Errors in SMOS Sea Surface Salinity and their dependency on a priori wind speed.Remote Sensing of Environment,146: 159-171.   \nYin X B, Boutin J, Martin N, Spurgeon P. 2012. Optimization of L-band sea surface emissivity models deduced from SMOS data. IEEE Transactions on Geoscience and Remote Sensing,50(5): 1 414-1426.   \nZhang HF,Chen G,Qian CC, Jiang HY.2013.Assessment of two SMOS sea surface salinity level 3 products against argo upper salinity measurements. IEEE Geoscience and Remote Sensing Letters,10: 1 434-1 438. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

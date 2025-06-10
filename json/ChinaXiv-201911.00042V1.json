@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "季节性冻土区土体冻融过程及其对水热因子的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌艺恒¹，赵鹏武}²，周梅²，包翔，魏江生³，冯倩倩}（1．内蒙古农业大学林学院,内蒙古 呼和浩特010019；2．内蒙古赛罕乌拉森林生态系统国家野外观测研究站，内蒙古 赤峰025150;3．内蒙古农业大学草原与资源环境学院，内蒙古 呼和浩特010011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用内蒙古赛罕乌拉森林生态系统国家野外观测研究站试验地的森林小气候观测塔,根据2015—2016 年冻融期野外观测的气温、降水量、土壤温度和水分数据,对该区季节性冻土的冻融过程和特点进行分析,研究土壤冻结和解冻过程中各土壤层的垂直温度和水分的变化,以及对气温和降水量的响应。结果表明： $\\textcircled{1}$ 季节性冻土的土壤温度随着土层深度增加,土壤冻结和融化滞后天数也会增加,同时与气温的相关性也逐渐减小； $\\textcircled{2}$ 季节性冻土解冻的速度要快于冻结的速度； $\\textcircled{3}$ 在进入解冻期前，3月中旬到5月中旬，各层土壤温度始终保持在 $- 1 \\sim 1 \\ \\mathrm { { ^ { \\circ } C } }$ 之间，不随气温波动; $\\textcircled{4}$ 降水量并不大的解冻期,土壤未冻水含量会迅速增加,说明冻融过程确实能够保存土壤水分，这将有利于植被应对春季干旱。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：季节性冻土；冻融过程；水热条件；赛罕乌拉；内蒙古 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "季节性冻土是温度在 $0 \\ \\mathrm { { ^ circ C } }$ 或以下的土壤,是一种含有冰晶的特殊土水体系[1]。我国季节性冻土的分布范围约占国土面积的 $5 3 . 5 0 \\%$ [2]。土壤的季节性冻融会影响土壤中有机质的分解、微生物的生理和迁移,并且季节性冻土通过改变土壤的热量和水文性质,在气候系统中发挥着重要作用[3]。季节性冻土的冻结和融化对气候变化十分敏感[4],且季节性冻土区含有丰富的森林资源[5],因此它的动态将对人类的生存环境产生重要影响。在当今气候变暖,干旱覆盖面积持续增加和人类活动频繁的背景下，天然次生林面积的缩小[7]，已经严重影响到了生态环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内蒙古赛罕乌拉森林生态系统国家野外观测研究站位于内蒙古赛罕乌拉国家级自然保护区内，是我国东北半干旱典型地区，在气候上属于干湿交替带，在植被上表现为森林和草原过渡，这里每年都有4个月以上的结冰期,属于典型的季节性冻土带。季节性冻土的土壤冻融过程能够储存地气能量和水分[8],延缓了地表的夏季增温和冬季降温,它还会阻碍土壤水分的入渗和在融化后使表层土壤增加含水量,从而改变土壤水文9]。冻融过程还控制着地下水的补给、径流等,还有优化地下水质的作用[10]冻融循环能通过微生物和植物的物理破坏促进养分的释放[11],促进甲烷的排放，多发的冻融循环还会降低春季和秋季细菌和古菌群落的多样性(12]。Ey-al 等[13]研究发现,半干旱区森林从夏季到早春高光合作用期间对吸收二氧化碳和太阳辐射有重要作用，并且能够减缓气候变暖。赛罕乌拉保护区天然次生林对气候变化十分敏感，气候变化也对当地季节性冻土的温度与湿度造成影响。森林、冻土、气候变化交织在一起，其耦合作用决定当地天然次生林的分布、退化、更新、演替等，也影响着当地季节性冻土发育。准确分析季节性冻土的冻融过程，是更好保护当地天然林资源的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前国内外诸多学者对冻融过程中的土壤温度和湿度变化进行了深人的研究。Niu 等[3 提出,季节性冻土中由于冰的存在,使冻融期土壤入渗能力降低。王兴菊等[14]发现,季节性冻土的冻结滞水是植物越冬、春季繁衍中不可缺少的水资源。胡宏昌等[15]将植被盖度对季节性冻土和多年冻土冻融过程的影响分为4个阶段，得出植被盖度的变化会影响冻土的水热过程。白磊等[16]研究发现,在北疆以日每小时积温临界值作为判断土壤结冻的依据，比以日最低气温和日平均气温作为判断依据具有更高的精度。土壤孔隙度的变化和未冻结含水量的滞后效应导致了冻融过程中土壤导热系数的差异，而孔隙度的变化起着主要作用[17]。Michalska等[18]认为，浅层土壤温度的日变化呈现持续波动的趋势，与日总太阳辐射有较好的相关性，但随着土壤深度的增加，与辐射相关性会逐渐降低。国内外学者对季节性冻土冻融过程进行了详细的研究，但是对赛罕乌拉保护区，在季节性冻土冻融过程的研究还很缺乏。此外，对冻融过程的分析将有益于当地气候变化下植被动态的研究。本文以大兴安岭南段的赛罕乌拉森林生态站的试验地为研究区，通过2015—2016年野外观测数据，分析研究区季节性冻土的冻融过程，旨在发现当地季节性冻土的冻融特征，为进一步研究冻融过程与植物生长之间的关系提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于内蒙古赤峰市巴林右旗北部赛罕乌拉国家级自然保护区内，地理坐标为 $1 1 8 ^ { \\circ } 1 8 ^ { \\prime } \\sim$ $1 1 8 ^ { \\circ } 5 5 ^ { \\prime } \\mathrm { E } , 4 3 ^ { \\circ } 5 9 ^ { \\prime } \\sim 4 4 ^ { \\circ } 2 7 ^ { \\prime } \\mathrm { N }$ ，总面积为 $1 . 0 0 \\times 1 0 ^ { 5 }$ $\\mathrm { { h m } } ^ { 2 }$ 。研究区隶属大兴安岭山脉的阿尔山支脉,地貌类型为中山山地，主体高程为 $1 ~ 0 0 0 \\sim 1$ 997$\\mathbf { m } ^ { [ 1 9 ] }$ 。研究区属于中温带气候区,年平均降水量$4 0 0 ~ \\mathrm { { m m } }$ ;年平均气温 ${ } ^ { 2 } \\mathrm { ~ } ^ { \\circ } \\mathrm { C } \\mathrm { ~ } , 7$ 月份最热，最高气温29$\\mathcal { \\mathrm { C } }$ ,平均气温 $1 8 \\ \\mathrm { { \\fontfamily { q p l } \\selectfont C } \\colon 1 }$ 月份最冷,平均气温 $- 1 8 \\mathrm { ~ \\textdegree C }$ ，最低气温 $- 3 2 \\mathrm { ~ \\textdegree C }$ 。地表覆盖主要以森林和草原为主，土壤类型从高到低依次为山地黑土、灰色森林土、棕壤土以及暗栗钙土(20]。观测点平均海拔$1 ~ 1 6 4 \\mathrm { ~ m ~ }$ ,土壤类型主要为棕壤土,季节性冻土出现的时间段为11月到次年5月。该区森林主要由人工林［华北落叶松（Larixprincipis-rupprechtii）纯林]和天然次生林(落叶阔叶混交林)组成，主要优势种包括白桦（Betulaplatyphylla）黑桦（Betuladavuri-ca）、山杨(Populus davidiana）蒙古栎(Quercus mon-golica)等，天然植被覆盖率高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据获取与处理方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用赛罕乌拉森林生态站架设于赛罕乌拉保护区西沟试验区的森林小气候观测塔所采集的全自动气象和土壤观测资料。观测项目包括： $1 . 5 0 \\mathrm { ~ m ~ }$ 、",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$4 \\mathrm { ~ m ~ } , 8 \\mathrm { ~ m ~ } , 1 6 \\mathrm { ~ m ~ } , 2 1 \\mathrm { ~ m ~ }$ 高度处的风速风向、空气温度、空气湿度;5层土壤温度和土壤湿度( $\\cdot 5 \\ \\mathrm { c m } \\ 、 1 0 \\ \\mathrm { c m }$ 、$2 0 ~ \\mathrm { c m } \\ 、 4 0 ~ \\mathrm { c m } \\ 、 8 0 ~ \\mathrm { c m }$ ）、2层土壤热通量（ $( 5 ~ \\mathrm { c m } , 1 0 \\$ cm)和太阳辐射等，数据自动采集时间间隔为10$\\operatorname* { m i n }$ 。计算分析采用数据日均值。数据处理采用SigmaPlot10.0、Excel2010、SAS9.2等绘图和统计软件，对采集的数据进行分析并制作相关图表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据研究区土壤温度的日变化，将冻融过程划分为4个阶段：始冻期、完全冻结期、解冻期和无冰期。季节性冻土始冻期为土壤日最高温度高于 $0 \\mathrm { { ^ { \\circ } C } }$ 且土壤日最低温度低于 $0 \\ \\mathrm { { ^ circ C } }$ ；完全冻结期为土壤日最高温度低于 $0 \\ \\mathrm { { ^ circ C } }$ ;解冻期为土壤日最高温度高于$0 \\ \\mathrm { { ^ circ C } }$ 且土壤日最低温度低于 $0 \\ \\%$ ；无冰期为土壤日最低温度高于0℃[21] C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1冻融期冻融特征与土壤温度的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "季节性冻结和融化是季节性冻土的2个主要物理过程(22]。当土壤冻结时,土壤中的水以气、液、固三相存在，其中固相水结合土壤颗粒、矿物质和有机质等形成基本的构架，液相和气相水填充在此构架的空隙中[23]。当土壤温度的日变化出现 $0 \\ \\mathrm { { ^ circ C } }$ 以上或以下的情况时，称为土壤冻融现象。冻融期气温的昼夜波动，会使表层土壤出现冻融交替的过程（24]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据森林小气候观测塔的观测数据，研究区2015年的始冻期始于11月上旬，翌年6月中旬解冻期结束进入无冰期。从表1可以看出，最先进入始冻期的是深度为 $5 \\ \\mathrm { c m }$ 的土层，开始日期为2015年11月9日，土壤温度开始出现昼夜正负波动，持续时间为 $\\mathrm { ~ 1 ~ d ~ }$ 。最先进入完全冻结期的也是深度为$5 \\ \\mathrm { c m }$ 的土层,2015 年11月10日起,土壤温度持续下降，持续时间为176d,直到2016年2月1日达到最低温度 $- 6 . 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，其余土层进入完全冻结期的滞后天数依次为 $1 3 \\textrm { d } . 1 4 \\textrm { d } . 4 7 \\textrm { d } . 7 2 \\textrm { d }$ ，持续时间依次为 $1 7 6 ~ \\mathrm { ~ d ~ } , 1 7 5 ~ \\mathrm { ~ d ~ } , 1 6 0 ~ \\mathrm { ~ d ~ } , 1 4 1 ~ \\mathrm { ~ d ~ }$ ，最低温度依次为$- 4 . 9 0 \\mathrm { ~ \\% ~ } - 4 . 7 0 \\mathrm { ~ \\% ~ } - 2 . 8 0 \\mathrm { ~ \\% ~ } - 1 . 4 0 \\mathrm { ~ \\% ~ }$ 。第二年最先进入解冻期的也是深度为 $5 \\ \\mathrm { c m }$ 的土层,开始日期为2016年5月5日，土壤温度出现昼夜正负波动，持续时间为3d，其余土层进入解冻期的滞后天数依次为 $1 3 \\mathrm { ~ d ~ } , 1 2 \\mathrm { ~ d ~ } , 3 0 \\mathrm { ~ d ~ } , 3 7 \\mathrm { ~ d ~ } ,$ 持续时间均为1d，到2016年6月12日全部解冻。由此可见，土壤冻融日循环主要发生在土壤表层[22],并且各层土壤温度从始冻期进入完全冻结期用时72d，从解冻期进入无冰期用时37d，因此，可以判断出冻土融化的速度要快于冻结的速度。这与靳志峰等[25]在新疆北部得出的结论一致，并且还提出上层土壤融化的速度要快于下层土壤。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b54a0b88dc9989774b43a7355a2c749811d5ad066d8a49787233932996391ed7.jpg",
+        "table_caption": [
+            "表1不同土壤深度冻融发生日期和持续天数",
+            "Tab.1 The dates and duration of freezing/thawing at different soil depths "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤深 度/cm</td><td colspan=\"2\">始冻期</td><td colspan=\"2\">完全冻结期</td><td colspan=\"2\">解冻期</td><td colspan=\"2\">无冰期</td></tr><tr><td>日期</td><td>持续天数/d</td><td>日期</td><td>持续天数/d</td><td>日期</td><td>持续天数/d</td><td>日期</td><td>持续天数/d</td></tr><tr><td>5</td><td>2015 -11-09</td><td>1</td><td>2015-11-10</td><td>176</td><td>2016-05-05</td><td>3</td><td>2016-05-08</td><td>195</td></tr><tr><td>10</td><td>2015 -11 -22</td><td>1</td><td>2015 -11 -23</td><td>176</td><td>2016 -05 -18</td><td>1</td><td>2016 -05 -19</td><td>180</td></tr><tr><td>20</td><td>2015-11-23</td><td>1</td><td>2015 -11 -24</td><td>175</td><td>2016-05-17</td><td>1</td><td>2016 -05 -18</td><td>187</td></tr><tr><td>40</td><td>2015-12 -26</td><td>1</td><td>2015 -12 -27</td><td>160</td><td>2016-06-04</td><td>1</td><td>2016-06 -05</td><td>184</td></tr><tr><td>80</td><td>2016-01-20</td><td>1</td><td>2016 -01-21</td><td>141</td><td>2016 -06 -11</td><td>1</td><td>2016-06 -12</td><td>197</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2冻融期土壤温度与气温的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤温度是调节土壤含水量的重要参数，其变化过程在一定程度上影响着土壤能量收支的平衡，决定着土壤储能保水的效果(26]。土壤温度受气温、太阳辐射、近地面的空间热平衡特征、土壤持水状态等因素的影响[27]。本文主要研究气温与季节性冻土土壤温度之间的关系。冻融期的观测从2015年9月开始至2016年9月结束。根据观测数据发现，从2015年9月中旬开始，土壤温度具有稳定的下降趋势，且表层土壤温度变化最为剧烈，2016年3月中旬到5月中旬各层土壤温度一直处于 $- 1 \\sim 1 \\ \\mathrm { ~ \\textdegree C }$ 之间，这种情况维持了47d,且气温变化较为稳定。这可能是由于气温稳定，没有出现大幅度的升温，而且植被与枯落物层具有一定的保温作用[28],使得土壤温度并没有随气温升高。此时土壤没有完全解冻，蒸发量小，能够储存一定的土壤水分，这对植被应对春季干旱起着至关重要的作用。土壤温度在2016年5月中旬开始逐渐上升，至2016年8月中旬再逐渐下降，土壤温度的变化趋势与气温变化趋势基本一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "整个冻融期内，土壤温度从地表向下依次滞后于气温，出现负温，而且土层越深，滞后时间越长[23]。从图1可以看出，表层土壤温度受气温的影响非常明显，但在2016年3月18日到5月17日进入解冻期前，气温的变化稳定，土壤温度一直保持在$- 1 \\sim 1 \\mathrm { ~ \\mathcal { C } ~ }$ 之间，持续了 $4 7 \\mathrm { ~ d ~ }$ 。在2015年10月4—18日，始冻期的初期也出现了类似的土壤温度稳定的情况，但这种情况只维持了14d，说明解冻期滞后的时间要比始冻期滞后的时间长。在完全冻结期各层土壤温度每天平均下降 $0 . 0 4 ~ \\mathrm { ^ { \\circ } C }$ ，而在完全融化期土壤温度每天平均上升 $0 . 1 6 ~ \\mathrm { ^ { \\circ } C }$ ,说明季节性冻土解冻的速度要快于冻结的速度。始冻期，在2015年11月4日试验区气温开始出现持续负温，土壤温度在11月9日出现持续负温，略滞后于气温，最低温度出现在2016年1月23日 $1 9 : 3 0 \\left( \\mathbf { \\varepsilon } - 3 1 . 7 7 \\mathbf { \\varepsilon } \\mathrm { ^ { \\circ } C } \\right)$ 。试验区气温在2016年2月7日逐步回升，但土壤温度仍然处于 $0 \\ \\mathrm { { ^ circ C } }$ 以下。在翌年解冻期，气温最大值出现在2016年5月18日 $1 5 : 3 0 ( 3 1 . 3 4 ^ { \\circ } \\mathrm { C } )$ )，表层土壤温度从这个时期开始升温，进入到直线上升的状态，并且一直持续到翌年9月中旬。此时深层土壤温度并没有上升的趋势，而是从6月中旬开始上升，说明土壤温度随着深度的增加，受气温的影响会逐渐减小。从表2可以看出， $5 \\sim 2 0 ~ \\mathrm { c m }$ 土层的土壤温度与气温的相关系数最高,因此,气温直接影响着表层土壤温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a85a7da5506753d0e9a6afebfdbf44e5cfaadd7f10bed2ed4426d05602a0d43.jpg",
+        "img_caption": [
+            "图1冻融过程各层土壤温度变化",
+            "Fig.1Variation of temperature at different soil depths during freezing and thawing "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，在始冻期表层土壤最先开始冻结，并逐渐往深层土壤冻结。不同深度土壤的完全冻结的持续时间差异较小( $1 4 1 \\sim 1 7 6 \\mathrm { ~ d } { } $ ），每层土壤的起始冻结日期和结束日期均不一样，如深度为$8 0 \\ \\mathrm { c m }$ 土壤的完全冻结时间较 $1 0 \\ \\mathrm { c m }$ 深度土壤延后了 $5 9 \\mathrm { ~ d ~ }$ ,即随着土层的加深，其完全冻结期将延后。而且土层深度为 $8 0 ~ \\mathrm { c m }$ 的年温差为 $1 0 . 1 3 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，而土层深度为 $1 0 \\ \\mathrm { c m }$ 的年温差为 $2 0 . 3 9 \\mathrm { ~ \\textdegree C }$ 。这是因为土壤热量传递的滞后性，导致土壤表层温度变化剧烈[29]。另外,在冬季,土壤温度随着深度的增加逐渐升高。如在翌年1月， $8 0 \\mathrm { c m }$ 处土壤温度的月均",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2各层土壤温度与气温的相关系数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b4f2f23035912940389f5fde1625c12b0d37ec868a08782a1290cf4bb17ed3f.jpg",
+        "table_caption": [
+            "Tab.2 Correlation coefficients between soil temperature at different depths and air temperature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤深度/cm</td><td>5</td><td>10</td><td>20</td><td>40</td><td>80</td></tr><tr><td>相关系数</td><td>0.82</td><td>0.73</td><td>0.73</td><td>0.53</td><td>0.31</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "值要比 $5 \\ \\mathrm { c m }$ 处的土壤温度高 $4 . 4 6 ~ \\mathrm { { ^ { 4 } C } }$ ；夏季与冬季正好相反，随着土层深度的增加，土壤温度逐渐降低。如在7月 $8 0 \\ \\mathrm { c m }$ 处的土壤温度月均值比 $5 \\ \\mathrm { c m }$ 处土壤温度低 $4 . 9 8 ~ \\mathrm { { ^ { 9 C } } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3冻融期土壤未冻水含量与水热因子的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为2015年9月15日至2016年9月15日研究区的土壤未冻水含量和降水量。冻融过程中降水较少，在始冻期、完全冻结期和解冻期内的降水量分别为 $0 . 0 0 \\ \\mathrm { m m } \\ 、 2 2 . 5 0 \\ \\mathrm { m m }$ 和 $2 . 1 0 \\ \\mathrm { m m }$ 。土壤冻结前，浅层土壤未冻水含量 $( 5 \\sim 2 0 ~ \\mathrm { c m } )$ )受降水的影响明显，深层土壤 $( 4 0 \\sim 8 0 ~ \\mathrm { c m } )$ 受降水量的影响并不明显。在降水量大的月份里土壤未冻水含量明显增加，但在降水量并不多的解冻期浅层土壤未冻水含量也明显增加了许多。如土层深度为 $5 \\ \\mathrm { c m }$ 的土壤未冻水含量在2016年3月31日至5月1日从$1 5 . 2 0 \\%$ 增加到 $3 8 . 4 0 \\%$ 。一方面是由于气温回升使土壤中的固态水开始融化,另一方面是由于土壤表面的积雪开始融化，使土壤中的水分增加。而深层土壤未冻水含量的增加明显滞后于浅层土壤未冻水含量。如土层深度为 $8 0 \\ \\mathrm { c m }$ 的土壤未冻水含量到2016年6月26日才达到最大值 $2 8 . 9 0 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cd5de8b72596f2ab98b2adc81506ff692974dc124e919122312bc3d29ee312f.jpg",
+        "img_caption": [
+            "图2不同深度土壤温度等值线图(2015年9月至2016年9月）",
+            "Fig.2The contours of soil temperature at diferent depths （from September 2O15 to September 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/81bc453098b79ccd3405bf897d12e898845ec28189c1da28a4a02bd1bdf6ff9a.jpg",
+        "img_caption": [
+            "图3冻融过程各层土壤未冻水含量(2015年9月至2016年9月）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冻融过程中土壤中的水会从势能高的地方向势能低的地方转移，出现未冻水向冻结锋面移动并聚集的现象[30]。冻土中只要存在温度梯度,就会出现水分迁移，研究表明冻土层形成的过程，也是表层土壤含水量逐渐增加的过程(31]。这也意味着冻融过程影响着土壤水分的蒸发、蓄积、土壤热量传递等，进而缓解春季土壤未冻水含量低的情况。季节性冻土的未冻水含量变化主要在2个阶段最为明显，分别是在始冻期和解冻期。在始冻期初期由于气温的变化，土壤温度不稳定，土壤中的未冻水处于随气温的波动升高和降低的状态。完全冻结期土壤中的未冻水含量会有所降低并保持不变。在解冻期土壤未冻水含量明显增加，并在气温回升、积雪开始消融的时期出现突增的情况，首先突增的是土层深度为5cm、然后依次是 $1 0 \\ \\mathrm { c m } \\ . 2 0 \\ \\mathrm { c m } \\ . 4 0 \\ \\mathrm { c m } \\ . 8 0 \\ \\mathrm { c m }$ ，随后由于气温的升高，表层土壤的未冻水含量也迅速下降。在完全冻结期内，各层土壤未冻水含量的波动并不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于气温的昼夜正负变化，使表层土壤冻结与融化交替发生，水分向上、向下迁移的过程也同样交替发生。如图4a所示， $: 5 \\ \\mathrm { c m } \\ . 1 0 \\ \\mathrm { c m } \\ . 2 0 \\ \\mathrm { c m }$ 未冻水含",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9af9330b90b0c4dd7d89e868e7d1f1ada17292828b7cf469c4c002af752b9df7.jpg",
+        "img_caption": [
+            "Fig.3Soilunfrozenwatercontentindiferentsoillayersdringfreeing-hawingpross(fromSeptemberO15toSptember2016) ",
+            "图4冻融期土壤剖面不同深度土壤未冻水含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Soil unfrozen water content at diferent depths in soil profile during freezing-thawing period量在11一12月之间呈现出逐渐减小的现象。在完全冻结期，随着气温的逐渐下降，冻结锋面也随之下移，冻结锋面以上土壤未冻水含量基本保持稳定，水分也由冻结锋面以下往冻结锋面聚集[32]，如图4b所示， $4 0 \\ \\mathrm { c m } \\ . 8 0 \\ \\mathrm { c m }$ 处土壤未冻水含量在翌年1—2月逐渐减小。进入解冻期，受到气温正负波动的影响，土壤再次出现冻融现象。如图4c所示，解冻期表层土壤未冻水含量呈现出先增加后又减少的现象， $8 0 ~ \\mathrm { c m }$ 处土壤未冻水含量并没有明显的变化，说明深层土壤并没有受解冻过程的影响产生水分运移的现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进入完全冻结期后，气温开始持续下降，土壤中的液态水逐渐变成固态水，导致表层土壤未冻水含量迅速减少。2015年11月23日开始， $1 0 \\ \\mathrm { c m }$ 处土壤温度降低至 $0 \\ \\mathrm { { ^ circ C } }$ 以下,此时土壤未冻水含量相比前一天降低了 $5 . 4 0 \\%$ 。图5a为11月17日土壤表层（ $\\mathrm { 1 0 ~ c m } \\mathrm { \\dot { \\Omega } } ,$ )未冻水含量日变化，可以看出始冻期土壤未冻水含量明显降低。土壤完全冻结期（11月至次年5月），随着气温的不断降低，土壤表层往深层的固态水不断增加。解冻期同样受气温的影响，土壤表层开始解冻， $1 0 \\ \\mathrm { c m }$ 处未冻水含量迅速增加，最大值达到 $3 3 . 2 0 \\%$ （2016年5月16日）。图5b为5月11日表层( $1 0 ~ \\mathrm { c m } { \\mathrm { , } }$ )土壤未冻水含量的日变化，一天中土壤未冻水含量从 $2 8 . 7 0 \\%$ 增加至 $3 1 . 7 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d9e7fc8c1106c3a9f797c316fc68d3d19779fcbb0b85ae776e527fbdc5fa9bd.jpg",
+        "img_caption": [
+            "图5冻融期土壤表层( $1 0 \\ \\mathrm { c m }$ )未冻水含量日变化 Fig.5Daily change of unfrozen water content in topsoil （ $1 0 \\ \\mathrm { c m }$ ）during freezing-hawing period "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）季节性冻土的土壤温度随着土层深度增加，土壤冻结和融化的滞后天数也会随之增加，同时土壤温度与气温的相关性也会逐渐减小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）通过对冻融期平均每天上升的温度与下降的温度计算发现，季节性冻土解冻的速度要快于冻结的速度，且2015年整个冻结期经历时间较长（从2015年11月9日至2016年5月5日），解冻期时间相对较短（从2016年5月5日至6月11日）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）进入解冻期前，3月中旬至5月中旬，各层土壤温度始终保持在 $- \\mathrm { ~ 1 ~ } \\sim 1 \\mathrm { ~ \\mathcal { C } ~ }$ 之间,并维持了47d,且没有随气温的波动而波动，说明植被与枯落物层具有一定的保温作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）季节性冻土的土壤未冻水含量在解冻期有明显的增加，说明冻结过程有利于土壤维持一定的水分，因此，尽管完全冻结期的降水量有限，但在冻土开始消融时土壤未冻水含量还是会增加，从而对春夏季的气候干旱情况给予一定的补给。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "〔1]习阿幸,刘志辉,卢文君.干旱区季节性冻土冻融状况及对融 雪径流的影响[J].水土保持研究，2016，23(2）：333-339.［Xi Axing,Liu Zhihui,Lu Wenjun. Processes of seasonal frozen soil freezing-thawing and impact on snowmelt runoff in arid area[J]. Research of Soil and Water Conservation,2016,23（2）:333- 339.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]徐教祖,王家澄.中国冻土分布及其地带性规律的初步探讨 [C]//第二届全国冻土学术会议论文选集.甘肃:甘肃人民出 版社,1983;3-12.[Xu Xiaozu,Wang Jiacheng.Preliminary study on distribution and zonality of permafrost in China[C]//Proceedingsof the 2nd National Frozen Soil Conference.Gansu：Gansu People's Publishing House,1983:3-12.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]Niu Guoyue,Yang Zongliang.Effects of frozen soil on snowmelt runoff and soil water storage at a continental scale[J]. Journal of Hydrometeorology,2006,7(5） :937-952. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4］王敬哲,刘志辉,塔西甫拉提·特依拜,等.天山北坡融雪期季 节性冻土融化过程分析[J].干旱区研究，2017，34（2）：282- 292.[Wang Jingzhe,Liu Zhihui,Tashpolat Tiyip,et al. Thawing process of seasonal frozen soil on northern slope of the Tianshan Mountains during snowmelt period[J].Arid Zone Research,2017, 34(2):282 -292.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5］张盟.季节性冻土水文特性及冻层土壤水分运移规律研究 [D].哈尔滨：黑龙江大学,2016.［ZhangMeng.Hydrological Characteristics ofSeasonal Frozen Soil and the Study of SoilWater Movement in Frozen Soil[D].Harbin;Heilongjiang University, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2016.] ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]董婷,孟令奎,张文.1961—2012 年我国干旱演变特征[J].干 旱区研究,2018,35（1）:96-106.［Dong Ting,MengLingkui, Zhang Wen.Evolution of drought in China during the period of 1961-2012[J].Arid Zone Research,2018,35(1):96-106.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]周传艳,丛沛桐,祖元刚,等.老山生态实验站森林资源的消长 [J].东北林业大学学报,2004,32（2）:26-28.［Zhou Chuanyan,Cong Peitong,Zu Yuangang,et al. Changes of forest resources in Laoshan Experimental Station[J].Journal of Northeast Forestry University,2004,32(2） :26-28.]   \n[8]罗斯琼,张宇,吕世华.黄土高原砂壤土冻融过程的观测和模 拟[J].冰川冻土,2008,30(2）:234-243.[Luo Siqiong,Zhang Yu,Lv Shihua. Freezing/thawing process of sandy soil on the Loess Plateau:Observationand simulation[J]. Journal of Glaciology and Geocryology,2008,30(2） :234-243.]   \n[9]Poutou E,Krinner G,Genthon C,et al. Role of soil freezing in future boreal climate change[J]. Climate Dynamics,2004,23（6）： 621-639.   \n[10]唐保春,马月花,权国仓,等.冻土冻融对地下水的影响：以祁 连山多年冻土区大通河谷融区为例[J].地质科技情报,2016, 35(4）:164-171.[Tang Baochun,Ma Yuehua,Quan Guocang,et al.Impact of freezing-thawing process of frozen soil on groundwater:A case study in the Datong River valley area of the Qilian permafrost region[J].Geological Science and Technology Information,2016,35(4) :164 -171.]   \n[11]Messiga A J,Ziadi N,Morel C,et al.Soil phosphorus availability in no-till versus conventional tillage following freezing and thawing cycles[J].Canadian Journal of Soil Science,2010,90（3）:419- 428.   \n[12]Ren JS,Song C C,Hou A X,et al. Shifts in soil bacterial and archaeal communities during freeze-thaw cycles in a seasonal frozen marsh,Northeast China[J].Science of the Total Environment, 2018,625:782 - 791.   \n[13]Eyal R,Dan Y.Contribution of semi-arid forests to the climate system[J]. Science,2010,327(5 964） :451 -454.   \n[14]王兴菊,许士国,李文义,等.扎龙湿地季节性冻土冻融规律及 其生态水文功能研究[J].大连理工大学学报,2008,48（6)： 897-903.[Wang Xingju,Xu Shiguo,Li Wenyi,etal.Frezingthawing rule of seasonal frozen soil and its eco-hydrological function in Zhalong Wetland[J]. Journal of Dalian University of Technology,2008,48(6) :897-903.]   \n[15]胡宏昌,王根绪,王一博,等.江河源区典型多年冻土和季节冻 土区水热过程对植被盖度的响应[J].科学通报,2009,54（2）： 242-250.[Hu Hongchang,Wang Genxu,Wang Yibo,et al. Response of soil heat-water processes to vegetation cover on the typical permafrost and seasonally frozen soil in the headwaters of the Yangtze and Yellow Rivers[J]. Chinese Science Bulletin,2009,54 (2):242-250.]   \n[16]白磊,李兰海,李倩,等.新疆北疆地区季节性冻土结冻过程与 日积温的关系[J].冰川冻土,2012,34（2）：328-335.[Bai Lei,Li Lanhai,Li Qian,etal.Relationship betweensoil'sseasonal freezing process and daily accumulative hourly temperature in Northern Xinjiang region[J]. Journal of Glaciology and Geocryology,2012,34(2) :328 -335.]   \n[17]Zhang Mingyi,Lu Jianguo,Lai Yuanming,etal.Variation of the thermal conductivityof asiltyclay during a freezing-thawing process [J].International Journal of Heat and Mass Transfer,2O18,124: 1 059 -1 067.   \n[18]Michalska B,Nidzgorska-Lencewicz J. Daily variability of temperature in the profile of overgrown soil in the Ostoja Meteorological Station[J].Folia Pomer,2010,279(15）:63-72.   \n[19]韩力峰,李桂林,张书理.赛罕乌拉自然保护区生物多样性现 状及其评价[J].内蒙古环境保护，1998，10(3）：36-37,27. [HanLifeng,Li Guilin,Zhang Shuli,etal. The current situation and evaluation of the biodiversity of Saihanwula Nature Reserve [J].Environmental Protection in Inner Mongolia,1998,10(3）:36 -37,27.]   \n[20］韩丽.赛罕乌拉自然保护区不同植被类型下土壤理化性状的 对比研究[D].呼和浩特：内蒙古农业大学,2010.［HanLi.Under Saihanwula Nature Reserve Different Vegetation Types in the Comparative Study of Soil Physical and Chemical Properties[D]. Hohhot:Inner Mongolia Agricultural University,2010.]   \n[21］刘帅,于贵瑞,浅沼顺,等.蒙古高原中部草地土壤冻融过程及土 壤含水量分布[J].土壤学报,2009,46(1）:46-51.[Liu Shuai, Yu Guirui,Qian Zhaoshun,et al.The thawing-freezing processes and soil moisture distribution of the steppe in central Mongolian Plateau [J].Acta Pedologica Sinica,2009,46(1）:46-51.]   \n[22］杨金凤.季节性冻融期不同地表条件下土壤水热动态变化规 律的试验研究[D].太原:太原理工大学,2006.[Yang Jinfeng. Experimental Study of Soil Moisture and Heat Regimes under Different Surface Conditions during Seasonal Freezing-Thawing Period [D].Taiyuan:Taiyuan Universityof Technology,2006.]   \n[23］刘巧玲.科尔沁草甸地冻融期土壤水热盐动态迁移规律与数 值模拟研究[D].呼和浩特：内蒙古农业大学,2015.［LiuQiaoling.Study on Soil Water-Heat-Salt Transfer during Frezing-Thawing and Its Simulationby Numerical Model over Meadow Land of Horqin〔D].Hohot: InnerMongolia Agricultural University, 2015.]   \n[24］王力.科尔沁沙地坨甸相间地区冻融期土壤水热运移野外试 验模拟[D].呼和浩特：内蒙古农业大学,2010.[Wang Li.Field Test and Simulation in Freeze-thaw Period for Transferof Soil Water and Heat in Dune Alternated with Meadow Area in Horqin Sand [D].Hohhot:Inner Mongolia Agricultural University,2010.]   \n[25］靳志锋,虎胆·吐马尔白,牟洪臣,等.土壤冻融温度影响下棉 田水盐运移规律[J].干旱区研究，2013,30（4）：623-627. [Jin Zhifeng,Hudan Tumaerbai,Mou Hongchen,et al. Soil water and salt migration in coton field under soil freezing-thawing temperature[J].Arid Zone Research,2013,30(4）:623-627.]   \n[26]Fu Qiang,Ma Zi'ao,Wang Enliang,et al.Impact factors and dynamic simulation of tillage-layer temperature in frozen-thawed soil ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "under different cover conditions[J].International Journal of Agricultural and Biological Engineering,2018,11(2）:101 -107. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27]张厚泉.季节性冻融期土壤水热动态变化规律的数值模拟研 究［D].太原：太原理工大学,2O09.［ZhangHouquan.Numerical Simulation of Soil Moisture and Heat Regimes during Freezing-Tha wing Period[D].Taiyuan：Taiyuan University of Technology, 2009.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28]贾庆宇.辽河三角洲芦苇湿地局地气候变化特征及地－气相 互影响关系研究［D].沈阳：沈阳农业大学,2018.［JiaQingyu. TheRelation of the Local Climate Change Characteristics and the Land-Atmosphere Interactionof the ReedWetland inLiaoheRiver [D].Shenyang:Shenyang Agricultural University,2018.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29]姚楠,赵英,张建国,等.不同放牧条件内蒙古草原土壤冻融期 水热动态[J].水土保持研究，2017，24（5）：132-138.[Yao Nan,Zhao Ying,Zhang Jianguo,etal. Soil water and heat dynamics during freezing and thawing period under three grazing densities in grassland of Inner Mongolia[J].Research of Soil and Water Con",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "servation,2017,24(5):132-138.]   \n[30］暴路敏.科尔沁沙地沙丘－草甸地冻融期土壤水热动态变化 规律及其数值模拟研究[D].呼和浩特：内蒙古农业大学， 2014.[Bao Lumin.The Dynamic Change of Soil Water and Heat and Numerical Simulation Study in Freeze-thaw Period for in Horqin Sandy with Sand-Meadow Land Features[D].Hohhot: Inner Mongolia Agricultural University,2014.]   \n[31]郭占荣，荆恩春，聂振龙,等.冻结期和冻融期土壤水分运移特 征分析[J].水科学进展，2002，13（3）：298-302.［Guo Zhanrong,Jing Enchun,Nie Zhenlong,et al.Analysis on the characteristics of soil moisture transfer during freezing and thawing period [J].Advances in Water Science,2002,13(3）:298-302.]   \n[32]Kelleners T J.Coupled water flow and heat transport in seasonally frozen soils with snow accumulation[J].Vadose Zone Journal, 2012,12(4):108-112. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Freezing-thawing Process of Seasonal Frozen Soil and Its Response to Moisture and Temperature ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WU Yi-heng'， ZHAO Peng-wu $^ { 1 , 2 }$ ， ZHOU Mei $^ { 1 , 2 }$ ，BAO Xiang’，WEIJiang-sheng²，FENG Qian-qian $^ { 1 }$ （20 (1. College of Forestry,Inner Mongolia Agricultural University,Hohot O1ool9,Inner Mongolia,hina;   \n2.Saihanwula National Forest Ecosystem Research Station,Chifeng O2515O,Inner Mongolia,China;   \n3.Colegeofasndsucdoment,eogoliicultualUivesityotnergna) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The data of air temperature,precipitation and soil temperature and moisture content during the soil freezing-thawing period from 2O15 to 2016 were obtained from the forest microclimate observation tower of Saihanwula National Forest Ecosystem Research Station in Inner Mongolia.The freezing-thawing process and characteristics of seasonal frozen soil in this area were analyzed.The vertical changes of soil temperature and moisture content and their responses to temperature and precipitation were studied. The results showed : $\\textcircled{1}$ The temperature of the seasonalfrozensoilatdifferentstageschanged,theshallowsoilbegan tofreezeorthawatfirst,and thelag timeoffrezingthawing process increased gradually with the increaseof soil depth.Moreover,thecorrelation between the air temperature and soil temperature decreased gradually ; $\\textcircled{2}$ The thawing speed of frozen soil was higher than that of freezing ; $\\textcircled{3}$ Before thawing（roughly from mid-March to mid-May）,soil temperature at diferent depths maintained in a range of $- 1 - 1 \\mathrm { ~ \\mathcal { C } ~ }$ and did not fluctuate with air temperature ; $\\textcircled{4}$ The unfrozen water content in soil increased rapidly during thethawing period when the precipitation was not high,which indicated that the freezing and thawing processes could hold soil moisture and benefit the vegetation growth against spring drought. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words:seasonal frozen soil;； freezing-thawing process； moisture and temperature condition； Saihanwula； In-ner Mongolia",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Tribological properties of NiAl-based composites containing ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ nanoparticles at elevated temperatures ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Eryong Liua,b.c\\*, Yaping Baib, Yimin Gaob, Gewen Yia, Junhong Jia a\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLbortoryofSldubcatio,noustituteofecalCescadefienceso tateee KeLboratelfedeotf Materials Technologyand Engineering,Chinese Academy ofSciences,Ningbo315201,PRChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: $\\mathsf { N i A l / A g _ { 3 } V O _ { 4 } }$ composites Tribological properties Elevated temperatures Lubrication mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to improve the tribological properties of NiAl intermetallic, ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ nanoparticles with a size of 100-2oo nm were synthesized by hydrothermal method and NiAl $/ \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ composites were successfully prepared by mechanical alloying and sintering technique.The composition and microstructure of milled powders and sintered composites were characterized and the tribological properties were evaluated. The results showed that NiAl-based composites were consisted of B2 ordered NiAl matrix and metallic Ag/vanadium oxide precipitates,which were formed by the decomposition of silver vanadate.Wear testing results indicated that NiAl-based composites containing silver vanadate exhibited superior tribological properties at elevated temperatures.Subsequently, Raman results demonstrated that the reproduction of silver vanadate was responsible for the improvement of tribological propertiesat elevated temperatures. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NiAl intermetallic is the most promising candidate for elevated temperatures structural applications due to its attractive properties,such as high specific strength,high melting point,good thermal conductivity and excellent high temperature oxidation resistance [1-5]. Those excellent performances make NiAl intermetallic becomesa potential material in relative sliding components,such as turbochargers,hydroturbines,cutting tools and turbines.Thus,poor tribological properties of NiAl intermetallic atelevated temperaturesare the drawback of engineeringapplication [6-8]. Hawk's work indcates that the room temperature wearresistance ofNiAl intermetallic is more better than $\\mathrm { F e } _ { 3 } \\mathrm { A l } .$ ，TiAl, ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ ceramics and $\\mathrm { P S } { \\sim } \\mathrm { Z r } 0 _ { 2 }$ ceramics when test against SiC[9]. Nevertheless,severe adhesive wear induces NiAl intermetallic quick failure at elevated temperatures [1O]. It is well known that addition of suitable solid lubricants might be an effective way to improve the tribological properties.Therefore,how to find suitable lubricants for NiAl intermetallic is the primary work to be studied. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the last decade,silver vanadate $( \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 } )$ ）attracts many researchers'concentration in an effort to develop efficient,visible light-driven photocatalysts [11-13].More recently,silver vanadate becomes an intense focus in tribology because of the strong potential application for lubricating at elevated temperatures [14,15]. It is reported that $\\mathsf { V N / A g }$ adaptive coatings show lower friction and wear ratewhensystem temperature exceed $5 0 0 ^ { \\circ } \\mathsf { C }$ and the further studies indicate that the formation of lubricious ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ and ${ \\sf A g V O } _ { 3 }$ film on the worn surface is beneficial for the improvements of tribological properties[16].To investigate the lubricating effectof silver vanadate as solid lubricants,pure ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ and ${ \\sf A g V O } _ { 3 }$ powders are produced by hydrothermal method and then the high temperatures tribological properties are studied [17,18].First,monoclinic structure $\\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ powders are burnished to VN coating，and then the tribological properties of $\\mathsf { V N / A g _ { 3 } V O _ { 4 } }$ coating are tested by ball-on-disk tribotester.The results show that the friction coefficient of $\\mathsf { V N / A g _ { 3 } V O _ { 4 } }$ coatings is significantly decreased at elevated temperatures,which can lower to 0.2 at $7 5 0 ^ { \\circ } \\mathrm { C }$ [17].Furthermore,in the study of D.P Singh, ${ \\sf A g V O } _ { 3 }$ powders are burnished to H13 steel disk and the tribological properties are tested against $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ ball at elevated temperatures.The wear testing results indicate that the friction coefficient of ${ \\sf A g V O } _ { 3 }$ lubricant is reduced to O.2 at $7 0 0 ^ { \\circ } \\mathrm { C } ,$ which maybe due to the fact that a self-lubricating layer containing $\\mathsf { V } _ { 2 } \\mathsf { O } _ { 5 }$ ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ and ${ \\sf A g V O } _ { 3 }$ are formed on the worn surface during high temperatures wear testing[18]. Thus,it can be deduced that silver vanadate may also be a good high temperatures lubricant for NiAl intermetallic.To our current knowledge，no study has been performed on the tribological properties of $\\mathsf { N i A l } / \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ composites. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Therefore,effect of silver vanadate $\\mathrm { \\langle A g _ { 3 } V O _ { 4 } }$ nanoparticles）on the tribological properties of NiAl intermetallic at elevated temperatures is studied in this work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The goal of this research was to prepare NiAl $/ \\mathrm { A g } _ { 3 } \\mathrm { V O } _ { 4 }$ composites with excellent tribological properties at elevated temperatures. In previous works,nanocrystalline NiAl intermetallic has been successfully synthesized in our lab [10,19]. Thus, $\\mathsf { N i A l / A g _ { 3 } V O _ { 4 } }$ composites were designed based on the hypothesis that nanocrystalline NiAl offers good mechanical properties and ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ could be the high temperatures lubricants [2O]. The tribological properties of $\\mathsf { N i A l } / \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ composites were tested from room temperature to $9 0 0 ^ { \\circ } \\mathsf C$ and NiAl intermetallic with no silver vanadate addition were prepared and tested under the same conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7d84b7550f5f4af6253ee272d4d078905e9419daea4fe84d39a03a65a11e556.jpg",
+        "table_caption": [
+            "Table 1 The density and microhardness of sintered NiAl-based composites. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Composites</td><td colspan=\"2\">Composition (wt%)</td><td rowspan=\"2\">Microhardness</td><td rowspan=\"2\">Density (g/cm²)</td></tr><tr><td>Ni-50 at% Al</td><td>AgVO4</td></tr><tr><td>NA</td><td>100</td><td>0</td><td>549.69</td><td>5.69</td></tr><tr><td>NA5V</td><td>95</td><td>5</td><td>487.53</td><td>5.88</td></tr><tr><td>NA10V</td><td>90</td><td>10</td><td>426.37</td><td>6.03</td></tr><tr><td>NA15V</td><td>85</td><td>15</td><td>384.03</td><td>6.21</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Synthesis of silver vanadate nanoparticles ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Silver vanadate $( \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 } )$ ）nanoparticles were successfully synthesized by hydrothermal method[17].Commerciallyavailable vanadium oxide $( \\mathsf { V } _ { 2 } \\mathsf { O } _ { 5 } )$ ,silver nitrate $\\left( { \\tt A g N O } _ { 3 } \\right)$ ,and sodium hydroxide (NaOH) reagents were used as received without any further purification. First, $1 0 0 ~ \\mathrm { { m l } }$ of $0 . 0 2  { \\mathrm { ~ M ~ } }  { \\mathrm { V } _ { 2 } }  { \\mathrm { O } _ { 5 } }$ solution was prepared firstly,and then $1 0 0 \\mathrm { m l }$ of $0 . 1 2 \\mathrm { M } \\mathrm { N a O H }$ solution was slowly added to $\\mathsf { V } _ { 2 } \\mathsf { O } _ { 5 }$ solution under magnetic stirring conditions at RT. Once a clear yellow solution was achieved,then the $1 0 0 \\mathrm { m l } 0 . 0 6 \\mathrm { M } \\mathrm { A g N O _ { 3 } }$ was added to the yellow solution drop by drop.The mixture solution was settled at room temperature for $^ { 7 2 \\mathrm { ~ h ~ } }$ and the liquid Was poured off to recover the orange precipitates,and then the precipitates were washed with distilled water to remove the ions (possibly remaining in the product）and finally dried under ambient conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparation of NiAl nanocomposites ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NiAl $/ \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ composites were successfully prepared by mechanical alloying（MA）and hot-pressing sintering technique.First, commerciallyavailable powders of nickel,aluminum were mixed to provide a Ni-5O at% Al powders,the contents of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ powders were selected to be 0,5,10 and 15 wt%(denoted to NA,NA5V, NA10V and NA15V,respectively). $N i - 5 0 { \\mathrm { ~ a t \\% } }$ Al intermetallic were synthesized by mechanical alloying in Fritsch Pulverisette P5 planetary ball,and then the ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ powders with average grain size about $1 0 0 \\mathrm { n m }$ were added into the mixed powder for further $^ { 5 \\mathrm { h } }$ ball milling.After milling,the mixed powders were enclosed in a graphite die and sintered undera pressure of $2 0 \\mathrm { M P a }$ in a vacuum hot-pressing furnace at $1 3 0 0 ^ { \\circ } \\mathsf C$ for $6 0 \\mathrm { m i n }$ ，followed by furnace cooling (ZT-45-2O,Shanghai Chen Hua Electric Furnace Corp Ltd., China).After sintering,the relative densities of sintered composites were measured by the Archimedes method and microhardness was measured by MH-5-VM microhardness tester equipped with a Vickers diamond pyramid indenter.For each sample,at least ten measurements were carried out usinga normal load of $3 0 0 \\mathrm { g }$ and a dwell time of $5 s$ ,the average value was shown in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e0cd8e165a08e463f41e3d305b8b2605d17589f090ed13aad7c501e3d0ca6eb.jpg",
+        "img_caption": [
+            "Fig "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The composition and crystal structure of milled powders and sintered composites was performed on Philips $\\mathbf { \\nabla } _ { X } ^ { }$ Pert-MRD X-ray diffractometer (XRD) with Cu Ka radiation and $4 0 \\mathrm { k V }$ operating voltage in the $2 \\theta$ range of $1 0 { - } 8 0 ^ { \\circ }$ .Scanning electron microscope (SEM）and transmission electron microscopy(TEM）was utilized to obtain the microstructure.The TEM foils were prepared by conventional procedures that involved mechanical polishing of the cut discs with a $3 . 0 \\mathrm { m m }$ diameter and $3 0 \\mu \\mathrm { m }$ thicknesses,and then electropolished by a Twin-jet thinning in a $5 \\%$ solution of perchloric acid in methanol at $4 5 \\mathrm { V }$ and $- 2 0 ^ { \\circ } { \\mathsf { C } } .$ （2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tribological properties of NiAl-based composites were tested by pin-on-disk tribometer under ambient conditions at different temperatures （RT, $3 0 0 ^ { \\circ } \\mathsf C$ ： $5 0 0 ^ { \\circ } \\mathsf C$ ， $7 0 0 ^ { \\circ } \\mathrm { C } ,$ and $9 0 0 ^ { \\circ } \\mathsf C ,$ （20 respectively).The pin sampleswith a size of $\\theta 5 \\ : \\mathrm { m m } \\times 1 5 \\ : \\mathrm { m m }$ were made of sintered NiAl-based nanocomposites,one tip of pin was prepared to $\\theta 5 \\mathrm { { m m } }$ hemisphere.The disk samples with a size of $\\theta 2 4 \\mathrm { m m } \\times 8 \\mathrm { m m }$ were made of Inconel 718alloy.Before test, the pin and disk specimens were polished by 8oO grit emery paper and ultrasonically cleaned in an acetone bath. During wear testing, the upper pin specimen was fixed,while the lower disk specimens were rotated at $3 0 0 \\mathrm { r p m }$ （204号 $( 0 . 2 8 7 \\mathrm { m } / s )$ for $1 0 1 7 \\mathrm { m }$ sliding distance $( 6 0 \\mathrm { m i n } )$ at $2 \\mathsf { N }$ load.The friction torque was continuously measured using a strain-gauge transducer.After wear testing，the specimens were cooled to room temperature and the worn surface was cleaned using compressed $\\mathsf { N } _ { 2 }$ gas.The morphologies and phase structure of worn surface were observed by SEM and Renishaw's inVia Micro-Raman using a $6 3 3 \\mathrm { n m }$ wavelength laser light,respectively [21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/103eb9f3e684a427d2de232508bdc33233324489032553f890eebb8eed425886.jpg",
+        "img_caption": [
+            "Fig.2.X-raydifractionpaes(a)ofsinteredA-basedomposites,SEM()andEM()aracterzationofinteredNVcoosite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3．Results and discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Material characterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The crystal structure and microstructure of silver vanadate $( \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 } )$ and $\\mathsf { N i A l / A g _ { 3 } V O _ { 4 } }$ powders are presented in Fig.1.SEM image shows that the precipitates are consisted of spherical particles with diameters in the range from $1 0 0 \\mathrm { n m }$ to $2 0 0 \\mathrm { n m }$ the inset XRD and Raman spectrum suggests that the precipitates are composed of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ phase (JCPDS:19-1154).After milling, XRDpatterns indicate that the mixed powders are consisted of NiAl phase (JCPDS:44-1188), $\\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ phase and metallic $\\mathsf { A g }$ phase (JCPDS:O4-O783).NiAl powders are synthesized by solid-state diffusion during milling process and the detail process has been descripted in our previous works [19,22].The intensities of ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ peaks increase with the addition of ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ contents and the appearance of metallic $\\mathsf { A g }$ diffraction peaks indicate that ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ nanoparticles are partly decomposed during milling process. Furthermore,the morphologies of NA15V milled powders indicate that the mixture powders are composed of nanocrystalline NiAl phasewithaparticlesizeabout $3 0 \\mathrm { n m }$ and ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ phase with a size of $1 0 0 { - } 2 0 0 ~ \\mathrm { { n m } }$ (Fig.1c). Thus,XRD and SEM results show that nanocrystalline NiAl $/ \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ powders are successfully synthesized by mechanical alloying technique. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the typical XRD pattern and microstructure of NiAl-based composites after sintering at $1 3 0 0 ^ { \\circ } \\mathsf C$ The XRD pattern (Fig.2a) indicates that sintered composites are mainly consisted of B2-ordered NiAl phase,which is consistent with the mixed powders.Nevertheless,the diffraction peaks of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ are disappeared and new peaks of metallic Ag,aluminum oxide $( \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 } )$ and vanadium oxide $( \\mathsf { V } _ { x } \\mathsf { O } _ { y } )$ are evident detected, suggesting that ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ phases are completely decomposed during sintering process.The microstructure of NiAl-based composite with 15 wt $\\mathrm { 6 \\  A g _ { 3 } V O _ { 4 } }$ addition(NA15V) is further characterized by SEM and TEM,as shown in Fig.2b and Fig.2c,respectively. Combined with the XRD results,it can be found that the sintered composites are consisted of a continuous NiAl phase and homogeneous precipitates $( \\mathsf { V } _ { x } \\mathsf { O } _ { y } )$ phase (Fig.2b).The continuous NiAl phase is densely, but the $\\mathsf { V } _ { x } \\mathsf { O } _ { y }$ particles are surrounded by numerous of pores, which is harmful for the mechanical properties of NiAl-based composites.High magnification SEM micrograph (the inset of Fig.2b）shows that the crystallite size of NiAl phase is about $1 0 0 \\mathrm { n m }$ and second $\\mathsf { V } _ { x } \\mathsf { O } _ { y }$ phase is about $3 0 0 { - } 5 0 0 \\mathrm { n m }$ Furthermore,the crystal structure and microstructure of NA15V composite are also confirmed by TEM (Fig.2c).The bright-field image indicates that the NA15V nanocomposite is consisted of dark gray phase(areaA),bright second phase (areaB),small amountof black phase (area C),and a dark area in the bright second phase. Subsequently,selected area diffraction (SAD）pattern confirms that the gray phase(area A） is NiAl matrix phase,black phase (area C) is aluminum oxide precipitates,respectively.Dark-field image and its corresponding SAD pattern confirm that the bright second phase (area B) and inset dark area is vanadium oxide and metallic Ag phase,respectively.The results of TEMare consistent with the XRD and SEM results,thus,it can be deduced that nanocrystalline NiAl-based composites are synthesized by hotpressing sintering technique. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Mechanical properties and tribological properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table1 presents the density and microhardness of NiAl-based composites with different contents of Ag VO．The density of sintered NiAl-based composites increases with the addition of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ lubricant,which can be attributed to the existence of high density metallic Ag.Furthermore,the microhardness of sintered NiAl-based composites decreases obviously with increasing of ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ contents,because metallic $\\mathsf { A g }$ and $\\mathsf { V } _ { x } \\mathsf { O } _ { y }$ particles are softer than NiAl matrix phase [23].Furthermore, $\\mathsf { V } _ { x } \\mathsf { O } _ { y }$ precipitates are surrounding by numerous of pores,which are significantly deteriorated the mechanical properties of NiAl-based composites. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The friction coefficients and wear rates of NiAl-based compositesare shown in Fig.3.It can be seen that the friction coefficient of NA composite decreases first and then increases with increasing temperature,but the friction coefficient of NiAl-based composite with the addition of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ decreases continuously except NA5V composite at $9 0 0 ^ { \\circ } \\mathsf C .$ For example,the room temperature friction coefficient of NA composite is O.52 and NA15V composite is 0.31, and the friction coefficient at $9 0 0 ^ { \\circ } \\mathsf C$ of NA composite is higher to 0.69 and NA15V composite is lower to O.06.The results show that silver vanadate isan excellent lubricant for NiAl intermetallic, the friction coefficient of NiAl-based composites decreases with the addition of silver vanadate.Furthermore,wear testing results indicate that the wear rate of all NiAl-based composites increase with increasing temperature expect NA1oV and NA15V composite exhibitsa significantlydecrease above $7 0 0 ^ { \\circ } \\mathrm { C } .$ At ${ \\mathsf { R T } } { - } 5 0 0 ^ { \\circ } { \\mathsf { C } } ,$ the wearrate of NA composite is lower than NA1oV and NA15V composite,because the wear rate isrelated to the Microhardness of composite.However,the wear rate of NA1oV and NA15V composite decreases obviouslyabove $5 0 0 ^ { \\circ } \\mathsf { C } ,$ which can be attributed the lubricating effect of silver vanadate.Thus,it can be deduced that ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ lubricants are beneficial for the improvement of the tribological propertiesofNiAl intermetallic,especially at elevated temperatures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9fc8a8b0b6c7abe19a891bc676532fca622d1bfd35b8ab3e63a59ad388e940e.jpg",
+        "img_caption": [
+            "Fig.3.Fig.3 Friction coeffcient(a)and wear rate (b)of NiAl-based composites after wear test at different temperatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3a8af113e9217a8e9a5efefc2148512bf9359496ffa37dd5c024c4bfa0be701.jpg",
+        "img_caption": [
+            "Fig.4.Worn surface morphologies of NA composite after wear testat diferent temperatures (a)Room temperature (b) $5 0 0 ^ { \\circ } { \\mathrm { C } }$ (c) $9 0 0 ^ { \\circ } \\mathsf C$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Worn surface morphologies ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The worn surface morphologies of NA composite after wear testing at different temperature are shown in Fig.4.At room temperature,larger amount of flakes and delamination pits are found on the worn surface,indicating that the worn mechanism is dominated byadhesive wear.Adhesive wear is the result of the direct contact of pin and disk,thus,the shearing of adhesive junctions produces wear particlesand flakes when relative motion takes place [24]. At $5 0 0 ^ { \\circ } \\mathsf { C } ,$ it can be observed that some plastic yielding parallel to the frictional direction,suggesting that the wear mechanism is plastic deformation and micro-cutting.At $9 0 0 ^ { \\circ } \\mathsf C ,$ ，fracture and serious adhesive wear is the main wear mechanism.The addition of suitable lubricants is an effective way to minimize the points of adhesive wear [25]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The worn surface morphologies of NA15V composite are presented in Fig.5.Itcan be seen that theaddition of silver vanadate obviously changes the worn morphologies.At room temperature, shallow grooves and some wear debris can be seen on the worn surface,suggesting that the wear mechanism is dominant by microploughing. The addition of silver lubricants indeed minimizes the points of adhesive wear. At $5 0 0 ^ { \\circ } \\mathsf { C } ,$ the worn surface is covered bya glaze layers togetherwith some wear debris (Fig.5b), implying that the main wear mechanism is plastic deformation andabrasivewear.At $9 0 0 ^ { \\circ } \\mathsf C ,$ ,awhole scale glazelayersare formed on the worn surface,indicating that the wear mechanism is dominated by plastic deformation.It is well known that metal materials often exhibit high ductility at elevated temperatures, which is benefited for the formation of glaze layers.Thus,the smooth and complete glaze layers can be easily formed by the soft debris and the formation of glaze layers is benefitted for the improvement of the tribological properties of NiAl-based composites. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.Phase composition of the worn surface ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The phase composition of the glaze layers on the worn surface of NA15V composite after wear testing at $9 0 0 ^ { \\circ } \\mathsf C$ are characterized by Micro-Raman analyzer,and the results are shown in Fig.6a. By comparing the Raman spectrum of the glaze layers and un-tested areas,it can be found that the glaze layers are composed of silver vanadate,iron oxides,and nickel oxides,but the un-tested areas are only composed of nickel oxides and aluminum oxide.The Raman results indicate that silver vanadate and iron oxides are formed by the tribo-reaction during the rubbing process,silver vanadate is reproduced by the tribo-chemical reaction of metallic $\\mathsf { A g }$ and vanadium oxide,the nickel oxide is formed by oxidationof metallic nickel,and the iron oxide is transferred from the counterpart Inconel 718 disk.It can be deduced that the rubbing process promotes the formation of oxides layers at elevated temperatures,and the formation of glaze layer is remarkable improved the tribological properties of NiAl-based composites at elevated temperatures. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/de22c1e3d93cecac56771ac172171b54206fec5d8dc727ac20d4a9e58f4e583e.jpg",
+        "img_caption": [
+            "Fig.5.Worn surface morphologiesof NA15Vcompositeafter wear testatdiferent temperatures (a)Room temperature(b) $5 0 0 ^ { \\circ } \\mathsf C$ (c) $9 0 0 ^ { \\circ } \\mathsf C .$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6b shows the phase composition of NA15V composite after wear testing. At $5 0 0 ^ { \\circ } { \\mathsf C }$ ，Raman spectrum of NA15V composite indicates that the glaze layers on the worn surface are primarily consisted of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ and ${ \\sf A g V O } _ { 3 }$ ,demonstrating that silver vanadateis reproduced by the tribo-reaction of metallic $\\mathsf { A g }$ and $\\mathsf { V } _ { x } \\mathsf { O } _ { y }$ during wear testing. At $7 0 0 ^ { \\circ } \\mathsf C$ ,Raman peaks of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ are almost disappeared but intensity of ${ \\sf A g V O } _ { 3 }$ peaks increase obviously, which is due to the fact that ${ \\sf A g V O } _ { 3 }$ is more stable than ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ at high temperatures[16].At $9 0 0 ^ { \\circ } \\mathsf C$ ,Raman results show that the worn surface is mainly consisted of ${ \\sf A g V O } _ { 3 }$ 5 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ ,andNiOphase. Thus,it can be deduced that the formation of oxide and reproduction of silver vanadate lubricantsare responsible for the decrease of friction coefficient and wear rate at high temperatures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 shows the worn morphologies of Inconel 718 alloy disk against NA and NA15V composite after wear test at $7 0 0 ^ { \\circ } \\mathrm { C }$ and $9 0 0 ^ { \\circ } \\mathsf C ,$ ，respectively.It can be seen that the worn surface are covered by larger amount of wear debris,and the particles size of wear debris increases with increasing temperature.Combined with the worn surface morphologies of pin sample at same temperatures,it can be concluded that the decrease of the mechanical properties of NiAl matrix phase at high temperature induces the adhesive wear more seriously [2,26].Thus,addition of lubricants or improvement the high temperatures mechanical properties are the effective way to improve the adhesive wear action of NiAl intermetallic [27]. In this study,silver vanadate lubricant is selected for NiAl-based composite.The worn surface morphologies of Inconel 718 disk show that a discontinuous glaze layersare formed,whichis better to minimize the adhesive wear action.Furthermore,the worn surface morphologies of NA15V pin sample at high temperature also show the main wear mechanism is plastic deformation,indicating that the adhesive wear action of NiAl intermetallic is significantly improved by the addition of suitable lubricants.Subsequently, the phase composition of the worn surface of Inconel 718 disk tested against NA15V composite at $7 0 0 ^ { \\circ } \\mathrm { C }$ and $9 0 0 ^ { \\circ } \\mathsf C$ are presented in Fig.8.At $7 0 0 ^ { \\circ } \\mathsf C ,$ Raman results indicate that the worn surface are mainly consisted of iron oxide and silver vanadate $( \\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 } )$ ，but it changes to silver vanadate $\\left( { \\tt A g V O } _ { 3 } \\right)$ ）when temperature increases to $9 0 0 ^ { \\circ } \\mathsf C$ The phase composition of Inconel 718 disk is consistent with NA15V pin sample,indicating that ${ \\sf A g V O } _ { 3 }$ is more stable than ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ at elevated temperatures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 shows the composition of the worn surface of NA15V composite at different temperatures.It can be seen that the phase composition automatically changes with increasing temperature, which is benefitted for the decrease of frication coefficient and wear rate of NiAl-based composites.First,metallic $\\mathsf { A g }$ is the main lubricants of room temperatures and lower temperature,which is easily to forma lubricating film during wear testing.At mid-high temperature,oxidation of materials isunavoidable,thus,the formation of iron oxide and $\\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ are responsible for the improvement of the tribological properties,and especially the lamellar structure ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ is main lubricant. Finally, ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ is almost disappeared but ${ \\sf A g V O } _ { 3 }$ is the primary lubricant at elevated temperatures,which is significantly decrease the frication coefficient and wear rate of NiAl-based composites.Thus,it can be deduced that the worn surface of NiAl-based composites is all composed of suitable lubricants at different temperatures.The temperature-adaptive action of the phase composition on the worn surface remarkably improves the tribological behavior of NiAl-based composites at a board temperature range. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/25048826c5337ca2517b35a94c2dfc3e814fc4427c34ed0e04bf6a67e50932d0.jpg",
+        "img_caption": [
+            "Fig.6.Raman spectra of the worn surfaces of NA15V composite after wear test.Diferent area at $9 0 0 ^ { \\circ } \\mathsf C$ (a) different temperatures of $5 0 0 ^ { \\circ } \\mathsf C$ （2 $7 0 0 ^ { \\circ } \\mathsf C$ （2 $9 0 0 ^ { \\circ } \\mathsf C ,$ respectively (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/19e9c996ccff773725f06c858c2237bccc5c74da2e5d2a2fd483500322e92cc1.jpg",
+        "img_caption": [
+            "Fig.7.Worn surface morphologies of Inconel 718 disk against NA at $7 0 0 ^ { \\circ } \\mathrm { C }$ (a) $9 0 0 ^ { \\circ } \\mathsf C$ (b)and NA15V composites at $7 0 0 ^ { \\circ } \\mathrm { C }$ (a) $9 0 0 ^ { \\circ } \\mathsf C$ (b)respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a55a9000dc2fe2a65175f38f022f20836ce0ce5ea9e14018b2dcc0f8cb88d66.jpg",
+        "img_caption": [
+            "Fig.8.Raman spectra of the worn surfaces of Inconel 718 disk against NA15V composite at $7 0 0 ^ { \\circ } \\mathsf C ,$ $9 0 0 ^ { \\circ } \\mathsf C$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c0cff9d39fbf0a5bb11a689d6433e7bb547a26ad1574eb9ab25d5d47de8d92f.jpg",
+        "img_caption": [
+            "Fig.9.Schematic of the temperature-adaptive action of NA15V composite at different temperatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this article,silver vanadate nanoparticles were successfully synthesized by hydrothermal method and $\\mathsf { N i A l / A g _ { 3 } V O _ { 4 } }$ composites were prepared by mechanical alloying and hot-pressing sintering technique.The microstructures of sintered composites were investigated and the tribological properties of NiAl-based composites were studied against Inconel 718 alloy disk from room temperature to ${ \\mathsf { 9 0 0 } } ^ { \\circ } { \\mathsf { C } } .$ The main conclusions can be drawn as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. Sintered NiAl-based composites were consisted of B2 ordered NiAl matrix,metallic Ag，and vanadium oxide precipitates, which were distributed homogeneously in the nanocrystalline NiAl matrix.The density NiAl-based composite increased but the Microhardness decreased with increasing ${ \\tt A g } _ { 3 } \\mathsf { V O } _ { 4 }$ contents, which can be attributed to the formation of high density soft metallic Ag.   \n2.Wear testing results showed that $\\mathsf { N i A l / A g _ { 3 } V O _ { 4 } }$ composites have excellent high temperature tribological properties.The excellent tribological properties (friction coefficient (O.o6)and wear ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "rate $( 1 . 0 8 \\times 1 0 ^ { - 5 } \\mathrm { m m } ^ { 3 } \\mathrm { N } ^ { - 1 } \\mathrm { m } ^ { - 1 } ) .$ ）were obtained at $9 0 0 ^ { \\circ } \\mathsf C$ owning to the reproduction of silver vanadate lubricant. 3.It was proposed that metallic Ag, $\\mathsf { A g } _ { 3 } \\mathsf { V O } _ { 4 }$ and ${ \\sf A g V O } _ { 3 }$ are the main lubricants ofNiAl-based composites at different temperatures,indicating that the temperature adaptive action of the phase composition remarkably improved the tribological properties of NiAl-based composites. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge the financial supports by the National Natural Science Foundation of China (Grant no.5117549O and 51101166)， ChinaPostdoctoralScienceFoundation(Grantno. 2014M551784),and State Key Laboratory for Mechanical Behavior of Materials Foundation (Grant no.20141605). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Yamaguchi M, Inui H, Ito K. High-temperature structural intermetallics. Acta Mater 2000;48:307-22. [2] Darolia R. NiAl alloys for high-temperature structural applications. J Oper Manage 1991;43:44-9. [3] Matsuura K, Kitamutra T, Kudoh M. Microstructure and mechanical properties of NiAl intermetallic compound synthesized by reactive sintering under pressure. JMater Process Technol 1997;63:298-302. [4] Yang S,Wang F,Wu W. Effect of microcrystallization on the cyclic oxidation behavior ofβ-NiAl intermetallicsat $1 0 0 0 ^ { \\circ } \\mathrm { C }$ inair.Intermetallics 2001;9:741-4. [5] Zhu S, Bi Q, Yang J, Qiao Z, Ma J, Li F,et al. Tribological behavior of $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ alloy at dry friction and under sea water environment. Tribol Int 2014;75:24-30. [6] Zhu S,Bi $\\textsc { Q }$ Niu M, Yang J，Liu W. Tribological behavior of NiAl matrix compositeswith additionofoxidesathigh temperatures. Wear 2012；274:423-34. [7] Shi X, Wang M, Zhai W, Xu Z, Zhang Q Chen Y. Influence of $\\mathrm { T i } _ { 3 } \\mathrm { S i C } _ { 2 }$ content on tribological_properties of NiAl matrix self-lubricating composites. Mater Des 2013;45:179-89.   \n[8] Liu E,Wang W, Gao Y,JiaJ. Tribological properties of Ni-based self-lubricating composites with addition of silver and molybdenum disulfide. Tribol Int 2013;57:235-41. [9] Hawk JA, Alman DE. Abrasive wear of intermetallic-based alloys and composites. Mater Sci Eng, A 1997;239:899-906.   \n[10] Liu E, Gao Y, Jia J, Bai Y, Wang W. Microstructure and mechanical properties of in situ NiAl- ${ \\cdot } { \\mathrm { M o } } _ { 2 } C ~$ nanocomposites prepared by hot-pressing sintering. Mater Sci Eng, A 2014;592:201-6.   \n[11] Huang C, Cheng K,Pan G, Chang W, Yang TCK. CTAB-assisted hydrothermal synthesis of silver vanadates and their photocatalytic characterization. Chem Eng Sci 2010;65:148-52.   \n[12]Hu X, Hu C. Preparation and visible-light photocatalytic activity of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ （20 powders. J Solid State Chem 2007;180:725-32.   \n[13] Dinnebier RE, Kowalevsky A, Reichert H,Jansen M. Polymorphism of ${ \\sf A g } _ { 3 } { \\sf V O } _ { 4 }$ .Z Kristall0gr 2007;222:420-6.   \n[14] Gassner G,Mayrhofer P,Kutschej K,Mitterer C,Kathrein.M.A new low friction concept for high temperatures: lubricious oxide formation on sputtered VN coatings. Tribol Lett 2004;17:751-6.   \n[15] Gulbinski W, Suszko T, Sienicki W,Warcholinski B. Tribological properties of silver-and copper-doped transition metal oxide coatings. Wear 2oo3;254: 129-35.   \n[16] Aouadi S, Singh D, Stone D, Polychronopoulou K, Nahif F, Rebholz C,et al. Adaptive VN/Ag nanocomposite coatings with lubricious behavior from 25 to $1 0 0 0 ^ { \\circ } \\mathsf C .$ Acta Mater 2010;58:5326-31.   \n[17] Luster B, Stone D, Singh D, Schneider J, Polychronopoulou K, Rebholz C,et al. Textured VN coatings with $\\mathrm { A g _ { 3 } V O _ { 4 } }$ solid lubricant reservoirs. Surf Coat Technol 2011;206:1932-5.   \n[18] Singh D，Polychronopoulou K,Rebholz C, Aouadi S. Room temperature synthesis and high temperature frictional study of silver vanadate nanorods. Nanotechnology 2010;21:325601-32608.   \n[19] Liu E, Jia J, Bai Y,Wang W, Gao Y. Study on preparation and mechanical property of nanostructured NiAl intermetallic. Mater Des 2014;53:596-601.   \n[20] Chen Y,Wang H. Microstructure and wear resistance of laser-melted TiC reinforced nickel aluminide dual-phase matrix in situ composite. Intermetallics 2006;14:325-31.   \n[21] Muratore C, Bultman J, Aouadi S, Voevodin A. in situ Raman spectroscopy for examination of high temperature tribological processes. Wear 2011;270: 140-5.   \n[22] Moshksar M,Mirzaee M. Formation of NiAl intermetallic by gradual and explosive exothermic reaction mechanism during ball milling. Intermetallics 2004;12:1361-6.   \n[23] Liu E,Wang W, Gao Y, Jia. J. Tribological properties of adaptive Ni-based composites with addition of lubricious $\\mathrm { A g _ { 2 } M o O _ { 4 } }$ at elevated temperatures. Tribol Lett 2012;47:21-30.   \n[24]Williams. JA. Wear and wear particles-some fundamentals. Tribol Int 2005;38:863-70.   \n[25]Buckley DH. Surface effects in adhesion，friction，wear,and lubrication. Elsevier;1981.   \n[26] Hutchings. IM. Tribology: friction and wear of engineering materials.London: Edward Arnold; 1992.   \n[27] Jin JH, Stephenson. D. The sliding wear behaviour of reactively hot pressed nickel aluminides. Wear 1998;217:200-7. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

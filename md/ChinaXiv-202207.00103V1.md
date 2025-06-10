@@ -1,0 +1,134 @@
+# 结直肠疾病诊疗中患者决策辅助工具应用效果的系统评价
+
+段玉霞」　李珍² 张斯齐’房志学」秦月兰4\*
+
+基金项目：湖南省卫生健康委课题项目“肠外瘘患者双套管引流舒适护理方案优化的实证研究”（项目编号：202214024303），“肠瘘患者肠内营养耐受性评估和管理最佳证据汇总及实证研究”（项目编号：202214023448）。
+
+1.410005长沙市，湖南师范大学附属第一医院（湖南省人民医院）普外一病区  
+2.410005 长沙市，湖南省人民医院（湖南师范大学附属第一医院）老年科一病区  
+3.410005长沙市，湖南省人民医院（湖南师范大学附属第一医院）骨科二病区  
+4.410005长沙市，湖南省人民医院（湖南师范大学附属第一医院）院办  
+\* 通信作者：秦月兰，主任护师；E-mail：912542420@qq.com
+
+【摘要】背景 患者决策辅助工具（patient decision aids，PDA）是在实施医患共同决策过程中，辅助患者决策的重要工具，然而在结直肠疾病的诊疗过程中，其应用效果并不一致。目的 系统评价结直肠疾病 PDA 研发的核心要素及临床应用效果。方法 计算机检索 Pubmed、Webof Science、CINAHL、Cochrane Library、Embase、PsycIFO、JBI、SCOPUS、中国知网、万方、维普、中国生物医学文献数据库，根据纳入标准逐层筛选从建库至2022年1月发表的结直肠疾病 PDA 的随机对照研究。并依据 Cochrane 偏倚风险评估工具（5.1.0版）进行文献质量评价，描述PDA 研发的核心要素，总结其临床应用效果。结果 最终纳入11篇文献，文献总体质量中等，其中1篇A级，10篇B 级。涉及结直肠癌筛查、知情选择、晚期结直肠癌患者化疗、转移性结直肠癌支持治疗、遗传性非息肉病性结直肠癌风险基因检测等临床决策主题。分析得知：（1）现阶段结直肠疾病 PDA 的研发主要参照国际患者决策辅助工具标准协作组发布的质量评价标准，工具核心要素包括信息支持、方案利弊分析、患者价值澄清；（2）11项研究中，6项提高了患者知识水平，8项降低了患者决策冲突，2项促进了知情选择。结论 结直肠疾病PDA对决策行为及结果的改变尚缺乏足够的证据，但其应用前景十分广阔。未来研究可以借鉴国外决策辅助相关理论成果，结合我国人群特点，开发出不同阶段特征的结直肠疾病患者决策辅助工具，并进一步评估其决策效果。
+
+【关键词】结直肠癌；结直肠疾病；患者决策辅助工具；医患共同决策；系统评价
+
+# Effect of Patient Decision Aids in the Diagnosis and Treatment of Colorectal Diseases: a Systematic Review
+
+DUAN Yuxia 1，LI Zhen²， ZHANG Siqi ³，FANG Zhixue1，QIN Yuelan 4\*
+
+1.TheFirstAfaedHospitalofunanoalUnivstyunanrovcaleole'sHospita),tefistwadfGeralSrger，Cga   
+410005，China   
+2.HunanProvincialPeople'sHospital(TheFirstAfiatedHospitalofHunanNomalUniversity)thfrstwardofGeratrics，Changsha   
+410005，China   
+3.HunanProvincialeople'sHospital(eFirstAfliatedHospitalofHunanNoalUniversity)thescondwardofrthopedics，Canga   
+410005，China
+
+4.HunanProvialPo'sospitaleFrstdHospialoalUvesity)oialoagsa \* Corresponding author:QIN Yuelan， Chief Nurse；E-mail: 912542420@qq.com 【Abstract】BackgroundPatient decision aids (PDA）is an essential tool toassist patients in the processof shared-decision making.However,the efects are inconsistentinshared-decision making inthediagnosisandtreatmentof colorectal disease .ObjectiveTo assessthe development factors and clinical appication effects ofpatient decisionaids in the colorectal diseases using a systematic review.MethodsFrom establishing the database to January 2O22,we retrieved and includedrandomized controlld trials（RCTs）oncolorectal disease patient decision aids inPubMed，WebofScience, CIHNAL，Cochrane Library，Embase，PsyeIFO，JBI，SCOPUS， CNKI, Wanfang, VIP and CBM bycomputer.The RCTs were screened based on inclusive criteria and were evaluated withthe Cochranerisk of bias assessment tool（5.1.0）to describe the development factors of patient decision aids andtosummarize the efect ofthe intervention.ResultsAtotalof 11literatures were included refering to clinical decisionsuch as colorectal cancerscreening，informed choice, chemotherapy for patients with advanced colorectal cancer,supportive care for metastatic colorectal cancer,and HNPCC risk genes Testing.Among 1 literatures，the overallquality is in the medium level including1 with level A and 10 with levelB.Theanalysis found that:（1)In present period，development of patientdecision aids mainlyreferredto thequality evaluation criteria publishedbytheInternational PatientDecision Aids Colaboration，andcore contentofthetoolincluded information support，advantages and disadvantages analysis of scheme as wellas theclarification ofpatient values；（2） Withthesupportofapatient decisionaid，increased patients'knowledge（six studies），reduced decisionalconflicts （eight studies）and promoted informed choice（twostudies).ConclusionsThere isstillinsufficient evidence for thechangeof decision-making behavior and results ofpatient decision-making aids in colorectal disease,yet they have broad prospect in clinical practice.Future research can learn from therelevant theoretical achievements offoreign decision aidsand combine thecharacteristics ofthe Chinese population to develop patients decisionaids forcolorectal disease with diferent stages of characteristics, and to further evaluate its effects.
+
+【Key words】 Colorectal cancer; Colorectal diseases; Patient decision aids; shared decision-making; Systematic review
+
+医患共同决策（shared decision-making，SDM）作为一种新的医疗文化模式，越来越受到学术界的关注[]。SDM是指在临床决策过程中，“以患者为中心”，基于患者的需要、偏好和期望，医患共同参与，共同制定医疗决策[2]2017年国际医患共同决策会议发布了近年来共同决策模式在世界各国取得的成果[3,SDM能够提升患者就医获得感，提高患者依从性，改善患者预后，并促进医患关系和谐[4]。PDA 是为了实现有效的共同决策而产生的工具，通过向患者提供基于循证的、与其健康状态有关的选择及相应结果的利弊信息，帮助患者做出明确的、与个人价值观相符的决策[]。
+
+近年来，随着结直肠疾病筛查及诊疗决策模式的多样性、复杂性，在诊疗过程中，除了关注方案本身，往往还需要考虑患者的偏好、意愿及其价值取向。研究表明，帮助患者考虑其偏好和促进知情决策的一种有效方法是使用 PDA[9。目前，针对 PDA在结直肠疾病的应用，国外已开展了相应的研究。然而在已有的报道中，因患者和家属健康素养能力及参与程度不一致，医务人员的重视程度与整体积极性不高，以及决策衡量指标的不统一，造成PDA在结直肠疾病中的应用效果评价并不一致。因此本研究旨在提炼结直肠疾病 PDA研发的核心要素，系统评价其临床应用效果，以期为国内相关研究提供循证依据，促进SDM的实施。
+
+# 1资料与方法
+
+1.1文献纳入和排除标准（1）文献纳入标准： $\textcircled{1}$ 研究类型：随机对照试验（RandomizedControlledTrial，RCT），研究场景不限。 $\textcircled{2}$ 研究对象： $\geqslant 1 8$ 岁的成年人，病情稳定，患有结直肠疾病（结直肠癌、克罗恩病、溃疡性结肠炎、家族性腺瘤性息肉病、巨结肠等）有待进行医疗照护决策的患者及家属。 $\textcircled{3}$ 试验干预措施：试验组采取参与医疗照护决策的PDA，工具核心要素、形式不限；对照组采用常规护理、健康教育手册。 $\textcircled{4}$ 结局指标：包括知识获取、决策参与、决策冲突、风险感知水平、决策满意度、决策选择、患者情绪状态。（2）文献排除标准。 $\textcircled{1}$ 无具体干预措施； $\textcircled{2}$ 类实验研究、会议摘要、评论、新闻报道、资料汇编、书信、综述类研究、研究计划书等文献； $\textcircled{3}$ 无法获取全文的文献。
+
+1.2数据库检索采用双人独立检索的形式，从Pubmed、Webof Science、CINAHL、Cochrane Library、Embase、PsycIFO、中国知网、万方、维普、中国生物医学文献数据库中检索自建库至 2022年1月期间发表的结直肠疾病患者决策辅助工具临床 RCT，采用主题词和自由词构造检索式。（1）中文检索式：（直肠癌OR结肠癌OR 结直肠癌OR 克罗恩病 OR溃疡性结肠炎OR 炎性肠病OR家族性腺瘤性息肉病OR巨结肠）AND（决策辅助工具OR 决策辅助OR 决策支持 OR 决策辅导）。（2）英文检索式：以Pubmed 为例的检索式为("Rectal Neoplasms"[Mesh]OR“Rectalcancer” OR"Colonic Neoplasms"[Mesh] OR “coloncancer” OR "Colorectal Neoplasms"[Mesh] OR“colorectalcancer”OR"Inflammatory Bowel Diseases"[Mesh] OR“inflammatory bowel disease”OR "Crohn Disease"[Mesh]OR“Crohn's disease” OR "Adenomatous Polyposis Coli"[Mesh] OR“familial adenomatous polyposis”OR"Megacolon"[Mesh] OR“megacolon”）AND（“Decision Support Techniques"[Mesh] OR“Decision SupportTechnique” OR “Decision Support Technic” OR “Decision Support Technics” OR “Decision Aids” OR“Decision Aid” OR “Decision Support Tool”）。
+
+1.3文献质量评价采用Cochrane偏倚风险评估工具（5.1.0版），从7个方面对纳入的文献进行质量评价[10]评价者需对每个项目做出偏倚风险低、偏倚风险高、不清楚的判断。如果研究完全满足这些标准，则发生各种偏倚的可能性小，质量等级为A；如果部分满足这些标准，发生偏倚的可能性为中度，质量等级为 B；如果完全不满足这些标准，发生偏倚的可能性高，质量等级为C。本研究采用双人独立评价，如有争议纳入第三人为评价者，并对评价者一致性信度进行检验。
+
+1.4数据提取双人独立按标准化的信息提取表进行数据提取，对不清楚信息通过邮件联系原作者。提取内容包括研究作者、年代、国籍、研究问题、疾病类型、研究场所、研究对象、样本量、干预措施、结局指标、测评工具、主要结果，以及患者决策辅助工具主要内容、理论基础、工具形式等信息。
+
+1.5资料分析对纳入文献的研究结果进行描述性分析。
+
+# 2．结果
+
+2.1文献检索结果本研究初检出文献 3635篇，经过逐层筛选，最后纳入11篇[1121]。文献筛选流程见图1。
+
+![](images/6a8090a27782b7631850df769441ae355419844fe34a96e342c0f5f4a1133b34.jpg)  
+图1文献检索和筛选流程图  
+Figure 1 Flow chart of randomized trials enrollmen
+
+2.2纳入研究的基本特征11个研究分别为来自美国[15-1,8-19,21]、澳大利亚[17,19-20]、加拿大[17]、丹麦[12-13]、西班牙[14]、阿拉伯([1]；内容涉及结直肠癌筛查[12-1518-9,1、结肠镜筛查[16]、知情选择[13,1]、遗传性非息肉病性结直肠癌风险基因检测[20]、晚期结直肠癌化疗[17]、转移性结直肠癌治疗方法[1]等方面。从研究项目的时间分布来看，5 项研究[12-13]是近5年的研究项目，6项[12-13]是5年以前的研究项目。纳入研究的基本特征见表1。
+
+表1纳入文献的一般特征  
+Table 1 Characteristics of included randomized trials   
+
+<html><body><table><tr><td rowspan="3">（年作，国家）</td><td rowspan="3">决策问题</td><td rowspan="3">样本量 （组/对</td><td rowspan="3">随前</td><td rowspan="3"></td><td colspan="2">试验措施</td><td colspan="4">PtDA 核心要素</td><td rowspan="3">结局测量</td></tr><tr><td>干预组</td><td>对照组</td><td>信息</td><td>利整折</td><td>价值清</td><td></td></tr><tr><td>AlSagheir等[11]</td><td>转移性结直 肠癌治疗</td><td>92 (51/41)</td><td></td><td>PDA+常 规护理</td><td>常规护理</td><td>√</td><td>√</td><td></td><td></td><td>理解：无显著差异 焦虑水平：降低</td></tr><tr><td>（2020，阿拉伯） Gabel等[13]</td><td>结直肠癌筛</td><td>1723</td><td>90天</td><td>筛查提</td><td>筛查提醒</td><td>√</td><td>√</td><td>√</td><td></td><td>知识水平：无显著变化</td></tr><tr><td>（2020，丹麦）</td><td>查知情选择</td><td>（863/860）</td><td></td><td>醒+PDA</td><td></td><td></td><td></td><td></td><td></td><td>态度：无显著变化 筛查率：提高</td></tr><tr><td>Perestelo 等[14]</td><td>肠癌筛查</td><td>107 (53/54)</td><td></td><td>PDA</td><td>常规护理</td><td>√</td><td></td><td>√</td><td></td><td>决策冲突水平：降低 决策冲突水平：降低(A中心)</td></tr><tr><td>（2019，西班牙） Gabel 等[12]</td><td>肠癌筛查</td><td></td><td>590（301/289）</td><td>90天 筛查提</td><td>筛查提醒</td><td></td><td></td><td></td><td>√</td><td>知识水平：提高 (B中心) 知识或知情选择：无显著差异</td></tr><tr><td>Hoffman 等[15] (2017，美国）</td><td>肠癌筛查</td><td></td><td>89（59/30)</td><td>醒+DA 1-2 PDA</td><td></td><td>教育视频</td><td></td><td></td><td>√</td><td>筛查接受率：提高 知识：提高 决策冲等：降</td></tr><tr><td>00 ■ 2222 （2016，美国） 20</td><td>Ruzek 等[16]</td><td>结肠镜筛查</td><td>61 (33/28)</td><td>PDA</td><td></td><td>常规护理</td><td></td><td></td><td></td><td>筛查的态度和意愿：无显著变化 筛查行为：无显著差异 感知和筛查意图：增加 决策冲突：降低</td></tr><tr><td>Leighl等[7]（2011, 澳大利亚、加拿大)</td><td></td><td>晚期结直肠 癌化疗</td><td>207（107/100）</td><td></td><td>工具 标准咨 询+PDA</td><td>标准咨询</td><td>√</td><td>√</td><td>√</td><td>对教育的满意度：提高 理解能力：显著提高 决策满意度、决策确认：无明显 差异、 焦虑：无明显差异</td></tr><tr><td>Schroy 等[18] （2011，美国）</td><td>肠癌筛查</td><td></td><td>443(212/231)</td><td>PDA</td><td></td><td>中心网站</td><td></td><td></td><td>异</td><td>参与决策、信息偏好：无显著差 知识：增加</td></tr><tr><td></td><td>情选择</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>基因检测</td><td></td><td></td><td>PDA</td><td></td><td>√</td><td>√</td><td>√</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>153 (69/84)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td>√</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>信息</td><td>√</td><td></td><td>√</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>决策满意度：提高</td></tr><tr><td></td><td></td><td>肠癌筛查知</td><td>572(357/173)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>筛查意向：提高</td></tr><tr><td>Smith等[19]</td><td></td><td></td><td></td><td>2周</td><td>PDA</td><td>信息手册</td><td>√</td><td></td><td></td><td></td></tr><tr><td>(2010，澳大利亚）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>知识：提高</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>筛查行为：差异具有统计学意义</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>知情选择：提高</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>决策参与：提高</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>决策冲突：降低</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>决策满意度；无显著差异</td></tr><tr><td>Wakefield 等[20]</td><td></td><td></td><td></td><td>6个</td><td></td><td>普通教育</td><td></td><td></td><td></td><td>决策冲突：显著降低</td></tr><tr><td>(2008，澳大利亚）</td><td></td><td></td><td></td><td>月</td><td></td><td>手册</td><td></td><td></td><td></td><td>知识水平：提高</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>知情选择：提高</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>家庭参与、心理：没有显著性</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>决策后悔：没有显著差异</td></tr><tr><td>Dolan 等[21] （2002，美国）</td><td>肠癌筛查</td><td></td><td>95 (49/46)</td><td></td><td>PDA</td><td>简单教育</td><td>√</td><td></td><td>√</td><td>决策冲突：减少</td></tr><tr></table></body></html>
+
+2.3方法学质量评价结果由于PDA干预试验很难对研究对象和干预实施者实施盲法，纳入的11篇文献中，1篇质量A级,10篇质量为B级，总体质量为中等。文献质量评价结果见表2。
+
+表2纳入文献的质量评价结果  
+Table 2 Quality assessment of included randomized trials   
+
+<html><body><table><tr><td>作者（年份）</td><td>1</td><td>②</td><td>③</td><td>④</td><td></td><td></td><td>?</td><td>质量等级</td></tr><tr><td>AlSagheir等[]（2020)</td><td>+</td><td>？</td><td>一</td><td>+</td><td>+</td><td>+</td><td>+</td><td>B</td></tr><tr><td>Gabel等[13]（2020）</td><td>+</td><td>+</td><td>+</td><td>？</td><td>+</td><td>+</td><td>1</td><td>B</td></tr><tr><td>Perestelo等[14]（2019）</td><td>+</td><td>+</td><td>？</td><td>？</td><td>+</td><td>+</td><td>一</td><td>B</td></tr><tr><td>(2019) Gabel等[12]</td><td>？</td><td>一</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>B</td></tr><tr><td>Hoffman等[15]（2017)</td><td>+</td><td>+</td><td>+</td><td>？</td><td>+</td><td>+</td><td>+</td><td>B</td></tr><tr><td>（2016) Ruzek 等[16]</td><td>+</td><td>？</td><td>一</td><td>+</td><td>+</td><td>+</td><td>？</td><td>B</td></tr><tr><td>(2011) Leighl等[17]</td><td>+</td><td>+</td><td>一</td><td>？</td><td>+</td><td>+</td><td>+</td><td>B</td></tr><tr><td>Schroy 等[i8]（2011）</td><td>？</td><td>？</td><td>1</td><td>+</td><td>+</td><td>+</td><td>1</td><td>B</td></tr><tr><td>（2010) Smith等[19]（</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>A</td></tr><tr><td>（2008) Wakefield等[20]</td><td>+</td><td>？</td><td>？</td><td>？</td><td>+</td><td>+</td><td>1</td><td>B</td></tr><tr><td>（2002) Dolan 等[21]</td><td>+</td><td>？</td><td>一</td><td>+</td><td>+</td><td>+</td><td>？</td><td>B</td></tr></table></body></html>
+
+注：“+”偏移风险低；“-”偏移风险高；“?”不清楚； $\textcircled{1}$ 随机序列； $\textcircled{2}$ 随机方案的分配隐藏； $\textcircled{3}$ 研究对象及干预者盲法； $\textcircled{4}$ 结果测评者盲法； $\textcircled{5}$ 结局指标数据的完整性（失访情况）； $\textcircled{6}$ 选择性报告研究结果的可能性； $\textcircled{7}$ 其他方面的偏倚来源
+
+2.4研究结果报告11篇文献中1篇描述了PDA的研发过程，9篇报道在之前发表的文献中已详细描述。其研发的理论基础主要来源于国际患者决策辅助工具标准（International Patient Decision Aids Standards，IPDAS）[115,1720]和疾病自我调节理论[16]、信息沟通理论[16]、多标准决策理论[21]、其中一篇除了以国际患者决策辅助工具标准协作指南外，三个补充模型（综合行为模型）提供了指导研究设计、干预和评估的概念框架[15]。11个患者决策辅助工具中，3个是由医生团队研发的[14,721]，8个是由多学科团队合作研发[13,5-16,18-20]，其主要团队人员包括医生、肠癌筛查专家、护士、流行病学专家、患者等。11个工具中，1个是以手册2形式呈现，2个是以手册 $+ \mathrm { D V D } ^ { [ 1 6 - 1 7 ] }$ 形式呈现，6 个是以计算机化程序呈现[12-5,18,21]，2 个是以视频[1,1]的形式呈现。患者决策辅助工具主要内容包涵工具基本信息、疾病筛检及治疗相关知识、备选方案利弊分析、患者价值澄清、个体感知体验、知情选择、知识测评、结果反馈等多方面，分析其核心要素包括疾病相关信息[121]、可选方案利分析[1121]、患者价值澄清[12-15,17-21]三方面。
+
+PDA 临床应用效果评价涉及知识、知情选择、决策参与、满意度、焦虑情绪、决策冲突等，见表2。纳入11项研究中，7项含有知识结局指标，其中6项（ $8 5 . 7 \% \AA )$ ）研究提高了知识水平[12,14-15,18-20]；结局指标含有决策冲突的8篇文献中，均（ $1 0 0 \%$ ）报道能够降低患者的决策冲突水平[12-16.9-21]，其中 1 篇文献报道在决策冲突子量表（感觉知情、价值澄清和支持）差异更为显著[16.21，证明患者决策辅助工具对降低决策冲突水平有显著影响。纳入决策参与结局指标的3项研究中2项（ $7 0 \%$ ）提高了决策参与度[19,21]，1项研究显示无明显差异[17]；纳入知情选择的3项研究中2项（ $7 0 \%$ ）证明提高了患者的知情选择[19-20]，1项研究显示无显著差异[12]；表明决策结果的8篇文献中，2篇提高了结直肠癌筛查意向[16,18]，1篇提高了筛查接受率[12]，1篇提高了筛查率[13]，4篇文献报道筛查行为和治疗决策结果无显著影响[15,17,19,21]，因此本研究尚不能证明该工具对决策行为及结果的有效性。
+
+# 3讨论
+
+SDM 的优势在于对患者自主权的充分尊重[22，决策辅助工具作为其实施的有效工具，已在不同领域得到了较广泛的开发和应用。而结直肠疾病诊疗模式复杂多样，PDA 对其筛查诊疗决策过程显示出明确而又积极的影响，其应用前景十分广阔。本研究系统评价了PDA在结直肠疾病诊疗中的临床应用效果，共纳入了11篇文献，包括 4132 例患者。
+
+首先，PDA研发的理论基础主要来源于加拿大渥太华决策支持框架（The Ottawa Decision Support Framework，ODSF）[23]和 IPDAS[24]。IPDAS 在内容上包含健康问题、获益风险概率、患者价值取向、决策指导等10个主题信息[25]。本研究提炼得出结直肠疾病 PDA包括疾病相关信息、备选方法利弊分析、患者价值澄清三方面核心要素。研究报道，随着新的医疗模式开展，许多患者希望获得有关其诊断、预后、和治疗选择的详细信息，他们希望参与有关治疗的决策，但往往由于缺乏足够的支持信息，未能做出满意的决定[17。本研究显示，在低学历人群肠癌筛查知情决策中，定制的决策信息可以有效地支持知情选择[19]，患者对决策信息的充分了解，在不增加焦虑同时，可以确定价值偏好一致的首选选项[13,1]。结直肠疾病决策辅助工具相关信息多以图形和图表形式呈现，为满足不同教育人群信息需求，设立了更多信息弹框选项，使患者能够访问更详细的信息[13]。备选方案利弊分析是患者最关注的问题，当患者不知晓决策风险、不了解决策重大利、不能权衡价值选择时就会产生决策冲突心理[26]。结直肠疾病患者决策辅助工具利弊分析的权衡借助于不同风险获益的定量数据及百分比图,治疗效益的随机数据通过图表和数字估值呈现[2,.7],如晚期结直肠癌患者系统治疗与支持性护理获益风险分析，将患者决策关注的治疗获益与风险概率、可能的潜在影响、预后等因素借助图表清晰的呈现出来，给予患者明确指导，有效降低决策冲突。决策辅助工具价值澄清方法增加了患者对利益和风险的关注[27]。患者的评分直接表达了其价值取向，同时有助于医务人员和家属直观地了解其想法。如“在测试前做肠道准备对您有多重要”“进行结肠镜检查或其他程序的成本对您有重要”等等，逐步引导患者思考，明确价值取向，最终做出满意决策。综上，PDA的研发是基于最佳循证证据，通过提供现有的利弊、风险、概率等科学信息，并结合患者偏好及价值取向帮助患者做出明智选择，是促进医患共同决策的有效手段。
+
+其次，PDA有助于提高结直肠疾病患者的认知。患者认知结果主要涉及知识水平及知情选择的提高，6项研究均证实提高了患者知识水平及对信息的理解能力，2项研究证实促进了结直肠癌筛查的知情选择。与传统健康宣教手册相比，PDA 内容设计更加简洁明了，更符合“以患者为中心”的理念[28]；PDA 以患者问题和需求为导向，注重不同治疗方案比较，将相关知识按照决策流程引导患者根据个人偏好及价值观作出决策，从而提升患者对信息的掌握程度[8]。知情选择是基于相关知识以及态度和实际行为之间的一致性的选择[2-30]。研究显示，结直肠癌筛查可降低疾病死亡率[31]，但也存在相关的危害，如筛查结果假阴性和假阳性、过度诊断、过度治疗以及结肠镜检查并发症的风险[32-3]。因此，结直肠癌筛查应该做出知情选择；同时研究表明，PDA 是一种信息材料，通过展示所有可用选项的利弊，支持知情决策[34]。
+
+再次，PDA有助于降低结直肠疾病患者的决策冲突水平。决策冲突是指由于风险或结局不确定导致的选择困难和不确定性[35]，其主要来源于三个因素：信息缺乏、价值观不明确和压力[36]。本研究结果显示，8项研究均报告了PDA 能够降低患者决策冲突水平，但其中1项研究报告在其2个研究场所（A和B），PDA对决策冲突的结果不一致，A中心决策冲突水平显著降低，而B中心没有显著影响。可能与B中心样本量较小，以及参与者之前获得过公共项目的某些指导有关。同时研究表明，在此8项研究中有6项研究显示患者知识水平改变有显著差异，由此可见，决策冲突水平的降低主要与PDA 增加了患者知识水平、提高知情程度、使之能有效地澄清个人价值、更清楚地权衡可选选项的利弊，从而对决策更为确定有关。
+
+第四，PDA对结直肠疾病患者的决策结果尚无定论。决策结果可以由筛查行为、情绪变化、治疗选择等体现。本研究结果显示，4项研究对结直肠癌筛查决策有积极影响，其中2项提高了结直肠癌筛查意向，1项提高了筛查接受率，1项提高了筛查率；但另有4项研究报告对决策结果并无显著影响，其中包括2项研究的筛查行为和2项研究对结直肠癌患者治疗选择均无显著变化。可能的原因为：第一，患者的个体差异会导致不同程度的风险感知和选择偏好；患者的价值取向表现出对不同诊疗方案的喜好不同。第二，由于干预只针对患者，医生可能并不知道如何与患者讨论方案的优缺点，在医患互动过程中，决策辅助的效果可能会发生改变。因此，在决策辅助工具实施中，医生很可能是影响决策质量的一个重要因素8。在我国未来的研究中，应该加强对医生的培训、重视医生对患者决策的参与，并将患者和医生同时纳入PDA 的研究和应用。
+
+第五，目前结直肠疾病 PDA主要涉及结直肠癌筛查、治疗相关的PDA较少。本研究中，尽管有8项研究均涉及到结直肠癌筛查，但其主要基于不同种族、不同健康素养人群，通过不同方式如娱乐教育[15]，交互式计算机程序[18]感知映射[1]等开发出不同形式的策辅助工具。其中 3项针对低教育程度人群[12.6.19]开发，5项针对所有符合条件的人群。根据美国结直肠癌筛查指南及一多学科专家小组制定的基于证据的指南3’，确定了5种推荐筛查方法(粪便隐血检测［FOBT」、乙状结肠镜检查、FOBT联合乙状结肠镜检查、双对比钡剂灌肠和结肠镜检查），根据5种不同的筛查项目，设计了1种或多种不同选项的决策辅助工具，研究报道，多种选项的比较会使决策变得更加困难。也正因为此，决策辅助工具在“以患者为中心”的共同决策理念实施中，更凸显了其重要性和必要性。
+
+# 4结论
+
+PDA 改善了决策过程，增加了对决策准备的了解，但对决策行为和结果尚缺乏足够有力的证据。同时结直肠疾病 PDA 主要涉及结直肠癌筛查、辅助化疗等方面，针对结直肠疾病治疗决策辅助工具较少，未来的研究应该开发出患者和临床医生都可以使用和接受的工具，并将医生和患者共同纳入到PDA的研究和应用中。同时借鉴国外决策辅助工具相关理论，结合我国人群特点，开发出结直肠疾病不同阶段特征的PDA，以满足不同诊疗阶段患者决策的需求，并进一步评估这些工具在结直肠疾病患者决策方面的有效性。
+
+作者贡献：段玉霞进行研究设计、实施、资料收集与整理、撰写论文并对文章负责；李珍进行研究实施、论文修改和审校；张斯齐进行资料收集与整理、论文修改；房志学进行资料收集与整理、论文修改；秦月兰进行研究设计、论文修改和审校。本文无利益冲突。
+
+# 参考文献
+
+[1] 姚抒予,张雯,罗媛慧,等.医患共同决策的研究进展[J].中国护理管理,2017,17(03):428-431.   
+[2] Hoffmann TC,Montori VM,Del Mar C.The connection between evidence-based medicine and shared de cision making[J]. JAMA,2014,312(13) :1295-1296.   
+[3] Harter M,Moumjid N,Cornuz J,et al.Shared decision making in 2017:International accomplishment s in policy， research and implementation[J].Z Evid Fortbild Qual Gesundhwes,2017,123-124:1-5.   
+[4] Stiggelbout AM,Pieterse AH,De Haes JC.Shared decision making: Concepts， evidence，and practic e[J].Patient Educ Couns,2015,98(10) :1172-1179.   
+[5] Politi MC,Dizon DS,Frosch DL，et al.Importance of clarifying patients’ desired role in shared decision making to match their level of engagement with their preferences[J].BMJ,2013,347:f7 066.   
+[6] 赵国光.医患共同决策的研究现状及展望[J].中国医院管理,2020,40(01):59-62.   
+[7] Cranley NM,Curbow B,George TJ Jr,et al.Influential factors on treatment decision making among patients with colorectal cancer:A scoping review[J].Support Care Cancer,2017,25(9):2943-2951.   
+[8] 高川,高莹,周俞余,等.冠心病诊疗中患者决策辅助工具干预效果的系统评价[J].中国全科医学,2022,25(0 5) :530-534+541.   
+[9] Volk Robert J.,Linder Suzanne K.,Lopez-Olivo Maria A.，et al.Patient Decision Aids for Colore ctal Cancer Screening: A Systematic Review and Meta-analysis[J].American Journal of Preventiv e MedicineAmerican Journal of Preventive Medicine,2016,51(5):779-791.   
+[10] 胡雁，郝玉芳.循证护理学[M].2版.北京：人民卫生出版社,2018：56-57.   
+[11] AlSagheir AI,Alrowais NA,Alkhudhair BK,et al.Comparing the use of Arabic decision aid to usu al care. A multicenter randomized controlled trial for Arabic speaking metastatic colorectal cancer patients in Saudi Arabia[J].2020,41(5):499 - 507-507.   
+[12] Gabel P.,Edwards A.,Kirkegaard P.，et al.The LEAD trial—The effectiveness of a decision aid on decision making among citizens with lower educational attainment who have not participated in FIT-based colorectal cancer screening in Denmark: A randomised controlled trial[J].Patien t Education and CounselingPatient Educ. Couns.,2020,103(2) :359-368.   
+[13] Gabel P,Larsen MB,Edwards A,et al.Effectiveness of a decision aid for colorectal cancer scre ening on components of informed choice according to educational attainment:A randomised cont rolled trial[J].PLoS One,2020,15(11) :e0241703.   
+[14] Perestelo-Perez L,Rivero-Santana A,Torres-Castano A, et al.Effectiveness of a decision aid fo r promoting colorectal cancer screening in Spain: a randomized trial[J].2019,19(1) :8-8.   
+[15] Hoffman AS,Lowenstein LM,Kamath GR,et al.An entertainment-education colorectal cancer screen ing decision aid for African American patients: A randomized controlled trial[J].Cancer,2017, 123(8) :1401-1408.   
+[16]Ruzek Sheryl B.,Bass Sarah Bauerle,Greener Judith，et al.Randomized Trial of a Computerized T ouch Screen Decision Aid to Increase Acceptance of Colonoscopy Screening in an African Americ an Population with Limited Literacy[J].HEALTH COMMUNICATION,2016,31(10):1291-1300.   
+[17]Leighl B,Shepherd L,Butow N,et al.Supporting Treatment Decision Making in Advanced Cancer: A Randomized Trial of a Decision Aid for Patients With Advanced Colorectal Cancer Considering C hemotherapy[J]. JOURNAL OF CLINICAL ONCOLOGY,2011,29(15) :2077-2084.   
+[18]Schroy PC 3rd,Emmons K,Peters E,et al.The impact of a novel computer-based decision aid on s hared decision making for colorectal cancer screening: a randomized trial[J].Med Decis Making, 2011,31(1) :93-107.   
+[19] Smith SK,Trevena L,Simpson JM, et al.A decision aid to support informed choices about bowel c ancer screening among adults with low education:randomised controlled trial[J].BMJ,2010,341: c5370.   
+[20]Wakefield CE,Meiser B,Homewood J，et al.Randomized trial of a decision aid for individuals co nsidering genetic testing for hereditary nonpolyposis colorectal cancer risk[J].2008,113(5):9 56-965.   
+[21]Dolan JG,Frisina S.Randomized controlled trial of a patient decision aid for colorectal cance r screening[J].Med Decis Making,2002,22(2) :125-139.   
+[22] 张渊.患者偏好与医患共同决策[J].协和医学杂志,2019,10(06):679-684.   
+[23] Stacey D,Légaré F,Boland L，et al.20th Anniversary Ottawa Decision Support Framework: Part 3 Overview of Systematic Reviews and Updated Framework[J].Med Decis Making,2020,40(3):379-398.   
+[24]Elwyn G,O'Connor A,Stacey D,et al.Developing a quality criteria framework for patient decisi on aids: online international Delphi consensus process[J].BMJ,2006,333(7565) :417.   
+[25] 余绍福,牟玮,靳英辉,等.医患共同决策系列之二：医患共同决策研究典范——渥太华患者决策辅助工具研究 小组［J].医学新知,2021,31(01) :59-67.   
+[26]何满兰,何虹,杨鑫.术前决策辅助在乳腺癌患者治疗决策中应用效果的Meta分析[J].解放军护理杂志,2020, 37(10) :52-56.   
+[27]Brenner A,Howard K,Lewis C，et al.Comparing 3 values clarification methods for colorectal can cer screening decision-making: a randomized trial in the US and Australia[J].J Gen Intern Med, 2014,29(3) :507-513.   
+[28]史晓誉,王海银,谢春艳,等.患者决策辅助工具促进分担决策发展的国际经验及启示[J].中国卫生质量管理， 2021,28(03) :101-105.   
+[29]Michie S,Dormandy E,Marteau TM.The multi-dimensional measure of informed choice:a validation study[J].Patient Educ Couns,2002,48(1) :87-91.   
+[30]Marteau TM,Dormandy E,Michie S.A measure of informed choice[J].Health Expect,200l,4(2):99-10 8.   
+[31]Hewitson P,Glasziou P,Irwig L，et al.Screening for colorectal cancer using the faecal occult blood test， Hemoccult[J].Cochrane Database Syst Rev,2007,2007(1) :CD001216.   
+[32]Elwyn G,Frosch D,Rollnick S.Dual equipoise shared decision making:definitions for decision a nd behaviour support interventions[J].Implement Sci,2009,4:75.   
+[33]0'Connor AM,Legaré F,Stacey D.Risk communication in practice: the contribution of decision ai ds[J].BMJ,2003,327(7417) :736-740.   
+[34] Stacey D,Legaré F,Lewis K, et al.Decision aids for people facing health treatment or screenin g decisions[J]. Cochrane Database Syst Rev,2017,4(4) :CD001431.   
+[35] 史润泽,弓宸,康晓凤.心血管领域患者决策辅助工具临床应用研究的系统评价[J].中华现代护理杂志,2019, (07):832-837.   
+[36] 廖宗峰,金迪,梅翠红,等.患者决策冲突的研究进展[J].护理学杂志,2018,33(12):106-109.   
+[37]Winawer SJ,Fletcher RH,Miller L，et al.Colorectal cancer screening:clinical guidelines and r ationale[J].Gastroenterology,1997,112(2) :594-642.

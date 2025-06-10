@@ -1,0 +1,606 @@
+[
+    {
+        "type": "text",
+        "text": "利用结构化SVM结合CNN的层次化目标检测与人体姿态估计方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙新领'，张 皓¹，赵丽²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．河南工学院 计算机科学与技术系，河南 新乡 453003;2.山西大学 软件学院，太原 030013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对现有姿态估计方法不能准确提取特征参数的问题，提出了一种基于结构化支持向量机（SSVM）与卷积神经网络（CNN)的层次化模型。首先，展示了一个基于PS部件模型的 SSVM如何实现为一个两层的神经网络，其中第一层是卷积层，另一层是损失增强推理层；通过将模型的结构化形式转换为模型中的一个神经网络，提出的方法可以同时学习结构模型和外观模型，然后反向传播误差以学习底层的可学习参数，这些参数可从外观模型特征中提取出来；最后，将 SSVM模型转换为神经网络模型，将误差反向传播到较低层，并计算确切的SSVM损失，同时通过基于次梯度的方法来学习原始SSVM。将该模型与当前较为先进的识别模型进行了对比，结果证明提出的层次化模型的识别成功率比对比方法平均高 $6 \\%$ ，具有更强的识别性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：人体姿态估计；外观模型；深度神经网络；卷积层；结构化SVM 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.11.0855 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hierarchical target detection and human body attitude estimation based on structured SVM and CNN ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun Xinling1, Zhang Haol, Zhao $\\mathrm { L i } ^ { 2 }$ (1.Dept.of Computer Science,Henan Instituteof Technology,Henan Xinxiang453003,China;2.SchoolofSoftware, Shanxi University,Taiyuan O30013,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming at the problem that the existing atitude estimation method can notaccurately extract the feature parameters,this paper proposedahierarchical modelbasedonstructured supportvector machine(SSVM)andconvolutional neural network(CNN).First,it showed how a SSVMbased on the PS component modelcould be implemented as a two-layer neural network,where thefirst layer was theconvolutional layer and theother layer was theloss-enhanced inferencelayer.Then,bytransforming thestructured formofthe model intoaneural network inthe model,the proposed method could simultaneously learnthe structural modeland the appearance model,and thenbackpropagated theerror to learn the underlying learnable parameters.These parameterscouldbederived fromthe appearance modelfeatures.Extracted out.Finally,the SSVMmodel was transformed intoaneural network model,theerror waspropagated back tothe lower layer,andtheexactSSVMlosswascalculated,whiletheoriginal SSVMwaslearned bythesub-gradient-based method. Comparing the model with the curent advanced recognition model,the resultsshow thatthe proposed successrate of the hierarchical model is $6 \\%$ higher than the comparison method and has stronger recognition performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: human pose estimation; appearance model; deep neural network;convolutional layer; structured SVM ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，深度学习和特征学习是解决分类、检测等问题的流行方法。包括使用卷积神经网络（convolutionalneuralnetwork，CNN）进行人脸检测[1,2]，使用深度神经网络(deepneuralnetworks,DNN)进行行人检测[3]，使用DNN进行人体姿态估计（human pose estimate，HPE）[4]，使用受限玻尔兹曼机(restricted Boltzmann machine,RBM)进行人脸特征跟踪[5]以及使用深度学习对物体分割进行形状先验检测以及使用深度网络进行物体检测等。为了联合使用latentSVM和深度学习，通常是使用DNN提取特征，然后用于latentSVM的学习，构建分类器。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一些学者提出了独特的解决方法，例如，文献[6]提出了一种带有附加潜变量的图形结构树模型，精心设计了叶节点变体和潜在节点，它们控制叶节点的变化，而增加了一个用于推理的循环模型。文献[7]关注的是将部位聚类为多模态可分解模型。试图通过参数化几何变量来获得更好的先验模型，从而改进图像结构。但是如果模型得到改进，所有这些方法都必须学习结构模型参数。LatentSVM是学习这些模型参数的标准方法。文献[8]在特征提取阶段从CNN中提取了一个金字塔特征，然后缓存提取的特征，再在第二阶段使用latentSVM进行学习；在第二阶段中，latentSVM通过在SVM优化和推理组合优化之间切换来学习所有模型参数。然而，这种方法存在固有的问题，因为这种方法分为两个不同的阶段进行，它不能学习由深度学习特征而提取的参数。而且由可学习的特征所提取的参数不能基于LatentSVM的误差来更新。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，为了解决现有姿态估计方法不能准确提取特征参数的问题，提出基于结构化SVM卷积神经网络的层次化模型。部件模型是视觉识别中一种重要的结构化建模方法，特别是DMP（deformable part model）和PS（pictorialstructure）模型[9,10]。DPM一元过滤器方法与DPM推理过程中的卷积操作完全相同，而PS作为部件模型与DPM有着相似的结构，该模型将部件划分为多个子类型，通过子类型的搭配组合可表示数目庞大的姿态形式。根据人体部位和人体部位类型设计PS一元滤波器，类似于CNN[II中的卷积层一样，该PS过滤器定义了外观模型的权重，因为它给出了特征相似性分数。该方法可以同时学习结构模型和外观模型，然后反向传播误差以学习底层的可学习参数。最终的对比实验也证明了提出的基于结构化SVM卷积神经网络的层次化人体姿态估计方法具有较强的识别性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 模型和检测推理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1结构化支持向量机（structured support vector machines,SSVM）两层神经网络 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决每个人体部位可能存在的不同外观，设计时使每个人体部位模型都包含多个不同的部位类型。从训练图像获得身体部位，根据它们在相对于相邻关节的图像坐标中的相对关节位置，把它们聚类成部位类型。这种聚类方法的基本假设是，同一组相关关节的位置外观上将很相似。共现模型考虑了在什么情况下，根据偏差系统两个相邻部分会共同出现[12,13]。相邻节点的每种混合类型都有相关的偏差。在众所周知的图像结构模型中结合这些措施，其边缘是根据以下假设进行量化的：假设放置部位所需的能量仅基于相对距离的二次变化，例如，从相对父节点的锚点位置拉伸或压缩弹簧所需的能量。根据文献[8]提出的方法，直接开发出了这些模型。他们将这三个模型，即共现模型、可变形模型和外观模型，组合成一个单一的大模型。在本文的研究中把前两种模型称为结构模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1展示了提出的SSVM两层神经网络，其中第一层是卷积层（图1中的SSVM-PS层），另一层是损失增强推理层（如图1中的损失增强推理层）。通过将模型的结构化形式转换为模型中的一个神经网络，使其可以同时学习结构模型和外观模型，然后通过反向传播误差以学习底层的可学习参数，这些参数可从外观模型特征中提取出来（图1中的CNN层）。本文提出的方法将SSVM模型转换为神经网络模型，因此它具有神经网络的固有能力，将误差反向传播到较低层，并计算确切的SSVM损失，同时通过基于次梯度的方法来学习原始 SSVM。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/966a045a8780a9f9278dfd025fb8290795b8ca29bf63e0b7ca8cb27da09d35fa.jpg",
+        "img_caption": [
+            "图1提出的SSVM两层神经网络 Fig.1Presented by the SSVM two-layer neural network "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于约束的 PS 模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PS 模型将人体描述成一个无向图，无向图的边表示运动学上相连的两个部件，而每个节点表示一个身体部件。通常用矩形来表示节点： $l = ( x , y , \\theta , s )$ 。其中， $\\left( x , y \\right)$ 表示部件的位置， $\\theta$ 表示部件的方向， $s$ 表示部件的尺度。则人体的姿态可定义成 $L = \\left( l _ { 1 } , l _ { 2 } , . . . , l _ { n } \\right)$ 。PS 模型方法是根据对身体各个部件之间的关系进行建模 $[ 1 4 , 1 5 ] _ { \\circ }$ 本文使用的是基于树型结构的PS模型，如图2所示，将人体的上半身分成头部、躯干、右上臂、右下臂、左上臂、左下臂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1b92acc1e372b6956d30dcd8ae991c42c6d5f773a45945c3ee1816b58f62478.jpg",
+        "img_caption": [
+            "图2上半身PS模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设人体的各个部件之间是相互独立的，设 $\\boldsymbol { L }$ 代表人体各部件位置信息， $I$ 代表的是图像信息， $D$ 代表人体结构模型参数集。估计某一幅图像 $I$ 中人体的姿态 $\\textbf { \\em L }$ ，根据Bayes理论，其后验概率可以表示为[16,17]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( L / I , D ) \\propto \\exp \\Bigg ( \\sum _ { ( x , j ) \\in E } \\psi \\big ( l _ { i } , l _ { j } \\big ) + \\sum _ { i } \\phi \\big ( I / l _ { i } , \\mathbf { D } \\big ) \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P ( L / I , D )$ 表示当模型为 $D$ 、图像 $I$ 的情况下，人体的姿态是 $\\boldsymbol { L }$ 的后验概率， $\\phi ( I / l _ { i } , \\mathbf { D } )$ 代表外观模型上的部件 $i$ 和在特定的位置 $l _ { i }$ 的图像特征的似然程度。而二元约束项 $\\psi \\big ( l _ { i } , l _ { j } \\big )$ 表示运动学上相连的两个部件 $i$ 和 $j$ 的位置的先验概率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用了一种约束的PS模型，如图3所示，它增加$\\gamma ( l _ { h e a d } )$ 和 $\\gamma ( l _ { t o r s o } )$ 来限制躯干和头部的方向是竖直的，并通过给式(1)增加约束条件来实现。这是因为通常会遇到只有上半身可见的图像，而在这时，通常是假设人体的头部处于躯干之上。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\left( L / \\operatorname { I } \\right) \\propto \\exp \\Biggl ( \\sum _ { ( i , j ) \\in E } \\psi \\left( l _ { i } , l _ { j } \\right) + \\sum _ { i } \\phi \\left( l _ { i } \\right) + \\gamma \\left( l _ { h e a d } \\right) + \\gamma \\left( l _ { t o r s o } \\right) \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了减少头部和躯干的搜索空间，提高正确估计人体姿态的可能性，式中 $\\gamma ( \\bullet )$ 表示在竖直方向附近的 $\\theta$ 值概率是均匀的，而在其他方向上的概率为零。此外，为了提高上、下手臂的姿态估计准确率，通常情况下，会在确定躯干位置后，根据运动学上的先验概率 $\\psi$ 来限制手臂动作。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0baf8e68d070bf49681dde6107fa89a4b77257d11d50cc56cf45e3673ca1c43e.jpg",
+        "img_caption": [
+            "Fig.2Upper body PS model ",
+            "图3基于约束的PS 模型 Fig.3Constraint-based PS model "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3子模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将共现模型、可变形模型和外观模型组合成一个大模型，这三个子模型定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)外观模型。外观模型包含各个部位的单独过滤器，如头部滤波器和身体滤波器。图像表示通常具有多个通道，因此这些模型都由包含滤器大小乘以通道数量的矩阵表示。对于 $5 { \\times } 5 , 3 2$ 或64通道的滤波器，其典型值分别为 $5 { \\times } 5 { \\times } 3 2$ 或 $5 { \\times } 5 { \\times } 6 4$ 。通过确定滤波器的点积和相同大小的特征，可以获得特征的特定分数。这些滤波器位于 $R ^ { s \\times c }$ 域中，其中 $s$ 是滤波器大小， $c$ 是通道数。对于每个部位和部位的每种类型，都有一个关联的外观模型滤波器。由滤波器 ${ w _ { f } ^ { t } }$ 创建的相似度分数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns c o r e _ { a p p e a r a n c e } \\left( y \\right) = w _ { f } ^ { t } \\cdot \\Phi _ { f } \\left( x _ { L } , y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)共现模型。假设某一部位有 $m$ 个混合类型，而相邻部位有 $n$ 个混合类型，那么这两个部位之间的总偏差为 $m \\times n$ 。这个模型给出了局部得分和成对得分的总和。对于父节点 $i$ 和子节点 $j$ ，共现分数 $i j$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns c o r e _ { c o o c u r r e n c e } ( t _ { i } , t _ { j } ) = b _ { i j } ^ { t _ { i } t _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以把这视为偏向一些特定局部类型的偏差，以及父类和子类之间的配对关系。例如，如果 $b _ { 3 4 } ^ { t _ { 1 } t _ { 2 } }$ 的值较高，这意味着父类部位编号为3的类型1可能会连接到子类部位编号为4的类型2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)可变形模型。从每个父类 $t _ { i }$ 到每个子类 $t _ { j }$ ，都有子类对父类的定位位置，其中从父类到子类，总共有 $t _ { i } \\times t _ { j }$ 个定位点（锚点）。训练锚点的位置，以便利用所有可能的连接类型对其进行简单的建模。在SSVM训练之前，锚点位置必须可用，因此对每种外观类型，使用简单K-均值聚类来计算部位类型，以创建关节的不同类型。本文使用组件的混合来解决可能部位外观的许多类型。令 $p \\in P$ 是第 $p$ 个身体部位，其中$P = \\{ 1 , . . . , p _ { n } \\}$ 是所有部位的集合。令 $k \\in K$ 是特定部位的第 $k$ 种类型，其中 $K = \\{ 1 , . . . , k _ { n } \\}$ 是特定部位所有类型的集合。令 $K _ { \\scriptscriptstyle p }$ 表示特定部位 $p$ 的类型 $\\boldsymbol { K }$ 的总数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先将训练图像部位 $p \\in P$ 聚类为 $K _ { p }$ 聚类。现在，定义第 $i$ 个样本的 SSVM特征函数。将一元特征 $\\Phi _ { f } \\left( x _ { i L } , y _ { i } \\right)$ 定义为$\\Phi _ { f } \\left( x _ { i L } \\right)$ ，以便在位置 $y _ { i }$ 处进行评估。定义成对特征为$\\psi _ { i j } = - \\big [ d x _ { i j } \\quad d y _ { i j } \\quad d x _ { i j } ^ { 2 } \\quad d y _ { i j } ^ { 2 } \\big ]$ 其中， $d x _ { i j } = x _ { p i } - x _ { p j } +$ 锚点x， $d y _ { i j } = y _ { p i } - y _ { p j }$ $^ +$ 锚点,。本文将 $\\Psi$ 表示为 $\\left[ \\psi _ { i j } \\right]$ ， $\\forall i j \\in E$ 。对树 $G$ 的一元特征和成对特征进行积分，得到 $\\begin{array} { r } { \\Phi _ { a } = [ \\Phi _ { f }  \\quad \\Psi ] } \\end{array}$ ，其中下标 $\\boldsymbol { a }$ 表示所有总和。由边缘 $i j$ 的可变形模型获得的分数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns c o r e _ { \\mathit { d e f r o m } } ( i , j ) = W _ { \\mathit { i j } _ { d } } \\cdot \\psi _ { \\mathit { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4组合子模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于图形结构中的每个节点和边缘，本文将所有偏差权重、可变形权重和外观滤波器权重连接成数据结构的两种类型。第一种是基于组件的结构类型，第二种是向量类型。通过使用向量类型数据结构，创建了一个包含可学习HPE参数的大向量 $W$ ，用于SSVM学习。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns c o r e ( t , y ) = \\sum _ { i \\in V } w _ { f } ^ { t } \\cdot \\Phi _ { f } \\left( x _ { L } , y \\right) + \\sum _ { i j \\in E } b _ { i j } ^ { t _ { i } t _ { j } } \\cdot W _ { i j _ { d } } \\cdot \\psi _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "或以矩阵形式表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathit { s c o r e } } ( t , y ) { = } W \\cdot \\Phi _ { \\mathit { a } } \\left( x _ { L } , y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了找到分数值最大的位置 $y$ ，上面的等式变为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { y } = \\arg \\operatorname* { m a x } _ { \\hat { y } \\in Y } W \\cdot \\Phi _ { a } \\left( x _ { L } , y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这是预测函数。 $\\hat { y }$ 的值是对一个测试图像中部位位置的预测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5SSVM的次梯度优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SSVM的目标是通过学习每个训练数据的最大边缘分类器，来产生结构预测。像马尔可夫随机场（Markovrandomfiled，MRF）或条件随机场这样的概率图模型，可以在学习阶段使用 SSVM 来学习权重参数[18,19]。SSVM 这种算法和SVM不一样，SVM可以简单地插入数据以进行学习或分类，相反，SSVM是一种在使用前需要指定推理、损失和特征模块的框架。例如，如果将SSVM应用于MRF，则必须指定SSVM将学习的MRF结构和MRF推理算法，以及MRF特征函数、损失函数和损失增强推理算法。损失增强推理算法是具有损失函数的推理算法[20]。接下来，SSVM根据训练数据学习使预测最大化的权重。SSVM学习结构预测函数，如式（9）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { \\stackrel { { i , j } } { x \\in Y } } { \\operatorname* { m i n } } \\frac { \\lambda } { 2 } \\| w \\| ^ { 2 } + \\displaystyle \\sum _ { i = 1 } ^ { l } \\xi _ { i } } \\\\ & { \\ s . t . \\forall i , W \\cdot \\Phi _ { a i } \\left( x _ { i } , y _ { i } \\right) + \\xi _ { i } } \\\\ & { \\underset { \\stackrel { { j } } { y \\in Y } } { \\operatorname* { m a x } } W \\cdot \\Phi _ { a i } \\left( x _ { i } , y \\right) + \\Delta ( y , y _ { i } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过把上述目标函数最小化，本文可以学习使预测函数等式（8）的训练精度最大化的参数 $W$ 。SSVM目标函数式（9）可以通过次梯度方法求解，目标损失函数的次梯度定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathcal { \\partial } O b j _ { i } } { \\hat { \\mathcal { O } } W } = \\Phi _ { a i } \\left( x _ { i } , \\hat { y } _ { i } \\right) - \\Phi _ { a i } \\left( x _ { i } , y _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $O b j _ { i }$ 是最小化目标函数式（9）。对于训练数据的第 $b$ 批，梯度是",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } O b j _ { b } } { \\hat { \\sigma } W } = \\frac { 1 } { b } \\sum _ { b } \\Phi _ { a b } \\left( x _ { b } , \\hat { y } _ { b } \\right) - \\Phi _ { a b } \\left( x _ { b } , y _ { b } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { y } _ { b }$ 是根据损失增强推理得到的最违反的约束条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文中，本文把损失增强推理定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\hat { y } { = } \\arg \\operatorname* { m a x } _ { y \\in Y } \\Delta ( y , y _ { i } ) { + } W \\cdot \\Phi _ { a } \\left( x _ { i } , y \\right) } } \\\\ { { - } W \\cdot \\Phi _ { a } \\left( x _ { i } , y _ { i } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：△(y,yi)=1- $\\Delta ( y , y _ { i } ) = 1 - \\frac { A r e a ( y \\bigcap y _ { i } ) } { A r e a ( y \\bigcup y _ { i } ) }$ 是标准1减去联合损失中的边界框交集。然后，应用正常的随机梯度下降来进行梯度更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 损失增强推理函数的求解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文通过反向传播进一步向下传递到神经网络的较低层，扩展了先前定义的SSVM次梯度优化，这是因为SSVM可以实现为两层神经网络。顶层是损失增强推理层，底层是神经网络中正常的线性层。在将PS作为CNN的特殊情况下，底层是标准卷积层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了通过次梯度优化来求解SSVM，必须计算损失增强推理 $\\hat { y } _ { i }$ ，以便可以计算式(10)中最违反约束的特征 $\\Phi _ { a i } \\left( x _ { i } , \\hat { y } _ { i } \\right)$ 。注意到， $\\boldsymbol { w } _ { f } ^ { t }$ 对 $\\hat { y }$ 可能位置上的所有 $\\Phi _ { f } \\left( x _ { i L } \\right)$ 的滑动点积，实际上是一个卷积运算，完全等于CNN中的卷积层，相应的前馈是",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { \\eta } ^ { t } \\left( x , y \\right) = \\sum _ { \\overline { { y } } } W _ { f } ^ { t } ( \\overline { { y } } ) \\Phi _ { a } \\left( x , y + \\overline { { y } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，式（13）将SSVM的底层定义为两层神经网络。实际上，数量是 $\\Phi _ { f } \\left( x _ { i L } \\right)$ 与PS一元滤波器 $\\boldsymbol { W } _ { f } ^ { t }$ 卷积的响应映射。这里，把 $\\Phi _ { r }$ 表示为所有 $\\Phi _ { \\eta } ^ { t }$ 的级联。使用构造的 SSVM-PS层，并在这个两层神经网络环境中定义损失增强推理层。显然，损失增强推理层执行损失增强推理并寻找目标函数的松弛损失， $\\hat { y }$ 是使损失增强推理目标函数最大化的最违反约束参数。可以使用式（6）（8）和（13）把损失增强推理目标函数式（12）重写为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { L _ { i } = \\underset { y \\in Y } { \\operatorname* { m a x } } \\Delta ( y , y _ { i } ) + \\underset { \\nu \\in V } { \\sum } \\{ \\Phi _ { r } \\left( x _ { i L } , y _ { \\nu } \\right) - \\Phi _ { r } \\left( x _ { i L } , y _ { \\nu i } \\right) \\} } \\\\ & { \\quad + \\underset { e f \\in E } { \\sum } \\left\\{ W _ { e f _ { d } } \\cdot \\Psi _ { e f } \\left( x _ { i } , y \\right) - W _ { e f _ { d } } \\cdot \\Psi _ { e f } \\left( x _ { i } , y _ { i } \\right) \\right\\} } \\\\ & { \\quad + \\underset { e f \\in E } { \\sum } \\left\\{ \\left( b _ { e f } ^ { t , t _ { f } } \\right) _ { y } - \\left( b _ { e f } ^ { t , t _ { f } } \\right) _ { y _ { i } } \\right\\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在神经网络意义上，可以把 $\\Phi _ { r } \\left( x _ { i L } , y \\right) - \\Phi _ { r } \\left( x _ { i L } , y _ { i } \\right)$ 这一项视为从下层矩阵中选取两个标量并执行减法。因此，式（14)将SSVM的上层定义为两层神经网络，可以看到式（8）中的 $W$ 现在被分成两个不同的层。外观模型方程式（3）的权重位于卷积层的底部。共现模型和可变形模型式（4）（5）的权重位于损失增强推理层的顶部。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接下来，定义两层神经网络的反向传播规则。顶层（即 损失增强推理层）的梯度是 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L _ { b } } { \\partial W } = \\frac { 1 } { b } { \\sum _ { b } \\{ \\Psi _ { b } \\left( x _ { b } , \\hat { y } _ { b } \\right) - \\Psi _ { b } \\left( x _ { b } , y _ { b } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ [ \\delta { ( \\hat { y } ^ { t _ { i } t _ { j } } ) } ] _ { b } - [ { \\delta { ( y _ { i } ^ { t _ { i } t _ { j } } ) } } ] _ { b } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\left[ \\delta ( a ) \\right]$ 是一个向量，其元素除了 $\\boldsymbol { a }$ 处位置的元素之外全部为零。目标函数对响应映射层 $\\Phi _ { r } \\left( x _ { i L } \\right)$ 的梯度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L _ { i } } { \\partial \\Phi _ { r } } = \\delta \\big ( y _ { \\nu } , \\hat { y } _ { \\nu } \\big ) - \\delta \\big ( y _ { \\nu } , y _ { i \\nu } \\big ) , \\forall y \\in Y , \\forall \\nu \\in V\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：如果 $\\scriptstyle a = b$ ，则 $\\delta ( a , b ) = 1$ ，否则 $\\delta ( a , b ) = 0$ 。这可以通过下面的方法验证：创建与 $\\Phi _ { r } \\left( x , y \\right)$ 同大小的空矩阵，然后令 $\\overline { { y } } _ { \\nu }$ 位置为 $+ 1$ ，令 $y _ { i \\nu }$ 位置为-1，但是如果存在 $\\overline { { y } } _ { \\nu } = y _ { i \\nu } ^ { }$ 的点，则令该位置的值为0。上面指定的两个梯度定义了损失增强推理层。根据SSVM-PS层的反向传播规则来定义图形结构的外观层，本文可以对CNN的卷积层使用正常的反向传播规则。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "要用最大化式（14）的方法来求解 $\\hat { y }$ ，本文使用标准最大和（max-sum）算法。最大和算法的目的是通过以下形式，在图 $G = \\{ V , E \\}$ 的情况下找到组合优化问题的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { L } = \\arg \\operatorname* { m a x } _ { L } \\sum _ { i \\in V } m _ { i } \\left( l _ { i } \\right) + \\sum _ { i j \\in E } g \\left( l _ { i } , l _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "组合优化问题式（14）的目标函数是 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\hat { y } { = } \\arg \\operatorname* { m a x } _ { y \\in { \\cal Y } } \\sum _ { \\nu \\in { \\cal V } } \\{ \\Phi _ { r } \\left( x _ { i L } , y _ { \\nu } \\right) + \\Delta \\left( y _ { \\nu } , y _ { i \\nu } \\right) \\} } } \\\\ { { \\displaystyle \\quad + \\sum _ { e f \\in { \\cal E } } \\left\\{ W _ { e f _ { d } } \\cdot \\Psi _ { e f } \\left( x _ { i } , y \\right) + \\left( b _ { e f } ^ { t _ { e } t _ { f } } \\right) _ { y } \\right\\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在神经网络的最顶层执行最大和算法，来求解这个组合目标问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与训练神经网络的方式相同，本文用随机梯度下降训练SSVM。本文网络架构是将正常的CNN与SSVM神经网络相连接，作为最后两层。在深度学习框架(convolutionarchitecture forfeature extraction,Caffe)中，把损失增强推理作为一层实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1数据准备",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用了PARSE 数据集，包括100个正面训练样本和205个正面测试样本。该数据集中的每张图像都显示了人的整个身体，通常是在运动环境中。对于每个样本，都标记了相应的人体关节位置。在图像中，一些人体部位被遮挡，但提供了人体关节位置的估计。每个样本总共标注了14个关节，包括头部、躯干、左臂、右臂、左腿和右腿。图像的大小范围为 $[ 1 1 0 - 4 5 0 ] \\times [ 1 1 0 - 4 5 0 ]$ 。在一些图像中存在一个或两个完整的人体。图像中的人体尺寸也有所不同。数据集中的人体姿态变化：从坐着到站着，腿部和手臂可能会做着诸如武术或体操等运动。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该数据集不适合直接在本文算法中使用，因此对其进行了预处理，如下所示。把训练数据与训练标签镜像翻转，然后添加到原始训练数据中。因此，本文有一组双倍大小的训练数据。然后，找到每两个关节的中间点，从而总共获得26个关节点和中间关节点。本文将这些点改变为方框，其中方框大小是通过对训练数据中关节的长度取平均值来计算的。在这个阶段，对每个方框，把本文训练算法中标签定义为$\\left( x _ { 1 } , y _ { 1 } , x _ { 2 } , y _ { 2 } \\right)$ 。每个训练标签有26个方框，包含 $y$ 个图像空间。然后，使训练图像通过HOG 金字塔特征。在这个过程中，基于同一张训练图像，调整其大小以获得具有不同尺寸的多张图像，这被称为图像金字塔。使用HOG提取图像金字塔，以获得特征金字塔，然后将其填充到零矩阵中以获得 $\\Phi _ { h } \\left( x _ { i L } \\right)$ ：把标签添加到特征金字塔参数中，以生成实际标签。然后，将这个实际标签和批处理数据转换成内存映射数据库，这样，CaffeGPU库可以更有效地处理这些数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2神经网络结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文神经网络结构如下：数据层—卷积层CnnFeat一卷积层SSVM-PS—损失增强推理层。将卷积层置于中间，以此可以在中间学习深度学习特征提取参数。另外，权重是随机初始化的。本文混合模型中每个节点类型如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i x u r e } = \\{ 5 , 5 , 5 , 6 , 6 , 6 , 5 , 5 , 5 , 5 , 5 , 5 , 5 , 6 , 6 , 6 , 5 , 5 , 5 , 5 , 5 , 5 , 5 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这意味着，第一个节点（头节点）有五种不同的混合类型，第二个节点有五种不同的混合类型，依此类推。总共有∑Mixure=138 种混合类型。SSVM-PS层的大小表示为$5 \\times 5 \\times 2 5 6 \\times 1 3 8 = 8 8 3 2 0 0$ 。该损失增强推理层有1+∑Mixwre(i)×Mixre(i-1)=702 个权重元素，以及133×4=532个$w _ { d e f o r m }$ 权重元素。因此，损失增强推理层总共有1234个权重元素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SSVM-PS层共有 $5 \\times 5 \\times 2 5 6 \\times 1 3 8 = 8 8 3 2 0 0$ 个权重元素。本文将CnnFeat 的内核大小设置为 $2 { \\times } 2 { \\times } 3 2$ ，因此CnnFeat总共有 $2 { \\times } 2 { \\times } 3 2 { \\times } 2 5 6 = 3 2 7 6 8$ 个权重元素。因此，系统总共有 $8 8 3 2 0 0 + 1 2 3 4 + 3 2 7 6 8 = 9 1 7 2 0 2$ 个权重元素。设置各批次大小为50，特征尺寸 $\\Phi _ { h }$ 为 $1 4 0 \\times 1 4 0$ 。数据层有$5 0 { \\times } 3 2 { \\times } 1 4 0 { \\times } 1 4 0 { = } 3 1 3 6 0 0 0 0$ 个元素。CnnFeat层有$5 0 \\times 2 5 6 \\times 1 3 9 \\times 1 3 9 = 2 4 7 3 0 8 8 0 0$ 个元素。SSVM-PS 层有$5 0 \\times 1 3 8 \\times 1 3 5 \\times 1 3 5 = 1 2 5 7 5 2 5 0 0$ 个元素。总共需要404421300个单元来存储本文多层神经网络数据。需求的GPU总内存为1284714404字节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以0.005的学习率训练了超过3000次迭代。使用$L _ { 2 }$ 正则化项，系数为0.1，没有动量参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 Caffe层实现 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在数据层中的 $\\Phi _ { h } \\left( x _ { i L } \\right)$ 通过CnnFeat层之后获得 $\\Phi _ { f } \\left( x _ { i L } \\right)$ ，进一步向前通过 SSVM-PS 层产生 $\\Phi _ { r } \\left( x _ { i L } \\right)$ 作为响应映射或热映射。损失增强推理层使用Caffe 库中的python层实现。损失增强推理层使用最大和算法来计算目标函数的值。最大和算法的输出包含：最优水平和最违反约束 $\\hat { y }$ ，其输出特征值分别为 $\\Phi _ { a } \\left( x _ { i L } , \\hat { y } \\right)$ 和 $\\Phi _ { a } \\left( x _ { i L } , y _ { i } \\right)$ 。通过搜索每个金字塔等级，然后找到最佳最大边际得分，从而得到最大边际值最大化方程式（18）以及损失函数 $\\Delta \\big ( \\hat { y } , y _ { i } \\big )$ 。用新金字塔等级中的较高分数取代以前的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于PARSE数据集，本文训练和测试了提出的方法。根据式（12）的损失增强推理损失 $L _ { i }$ 。将本文的结果与文献[6\\~8]得到的结果进行了比较，如图4所示。正确检测标准为PCP（percentageofcorrectparts）[8]，如果检测到的肢体端点和地面肢体端点之间的距离在肢体长度的一半之内，则认为肢体被正确检测到。本文方法在头部、躯干、左臂、右臂、左腿以及右腿共六个部位的姿态估计性能均高于其他几种对比方法。此外，将本文方法与文献[6\\~8]方法对PARSE数据集中的图像 $\\mathrm { I m 0 0 0 1 { - } I m 0 0 0 8 }$ 图像（图5）进行目标检测，结果如表1所示，类似于图5结果，本文方法对8幅图像的识别成功率也均高于对比方法。 $\\mathrm { i m } 0 0 0 1 \\mathrm { - i m } 0 0 0 8$ 是PARSE数据集中的前8个图像。识别成功率是平均pcp，这个数据是可以量化的。其中，文献[6]提出的带有附加潜变量的图形结构树模型以及文献[7]提出的多模态可分解模型，由于缺乏较好的先验模型，导致了其识别性能受到了较大限制。而文献[8]方法不能学习由深度学习特征而提取的参数。而且由可学习的特征所提取的参数不能基于LatentSVM的误差来更新。本文提出基于结构化SVM卷积神经网络的层次化模型将SSVM模型转换为神经网络模型，因此它具有神经网络的固有能力，将误差反向传播到较低层，并计算确切的SSVM损失，同时通过基于次梯度的方法来学习原始SSVM解决了这个问题。因而，对比结果均显示提出的方法具有更强的识别性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6de1a4de053df900c9bab6482b1b0e170626841467657fc98eac908ab6bdd72.jpg",
+        "img_caption": [
+            "图4几种方法姿态估计性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a1c791a0817527aeffcdc52cfa6987e083bb57628dd8c9d8f0183b8918807eb.jpg",
+        "img_caption": [
+            "Fig.4The comparison of attitude estimation performance of several methods ",
+            "图5PARSE 数据集中的图像 $\\mathrm { I m 0 0 0 1 - I m 0 0 0 8 }$ Fig.5Image $\\mathrm { I m 0 0 0 1 - I m 0 0 0 8 }$ in the PARSE dataset表1几种方法目标检测性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a0155de35e52e05faa9f8ad1f4bb1990b6f51db048695759d829d15b03c00ed.jpg",
+        "table_caption": [
+            "Table 1The comparison of target detection performance of several methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Model</td><td colspan=\"8\">识别成功率（平均PCP)</td></tr><tr><td>Im0001</td><td>Im0002</td><td>Im0003</td><td>Im0004</td><td>Im0005</td><td>Im0006</td><td>Im0007</td><td>Im0008</td></tr><tr><td>文献[6]</td><td>66.89</td><td>76.95</td><td>68.95</td><td>68.94</td><td>73.53</td><td>75.34</td><td>78.34</td><td>68.24</td></tr><tr><td>文献[7]</td><td>68.94</td><td>65.97</td><td>76.45</td><td>78.65</td><td>72.87</td><td>69.85</td><td>79.43</td><td>78.56</td></tr><tr><td>文献[8]</td><td>65.97</td><td>73.95</td><td>76.46</td><td>67.43</td><td>80.23</td><td>70.54</td><td>76.23</td><td>77.67</td></tr><tr><td>本文方法</td><td>77.76</td><td>79.98</td><td>82.85</td><td>80.34</td><td>82.73</td><td>80.43</td><td>84.83</td><td>78.76</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，许多基于部位的检测方法依靠CNN作为前端。许多研究表明，通过将分类器反向传播到深度学习特征提取器，可以获得更好的分类和特征提取性能。本文提出了一种具有深度CNN的新型SSVM神经网络层来解决基于部位的图像检测问题。实验结果证明，通过减少SSVM神经网络的损失，可以将这种方法很好地应用于基于部位的检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在未来的研究中，会创建一个完整的端到端神经网络，来解决HPE问题以及其他基于部位的检测问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]刘兴旺，王江晴，徐科．一种融合 AutoEncoder与CNN的混合算法 用于图像特征提取[J].计算机应用研究，2017,34(12)：3839-3843. (Liu Xingwang,Wang Jingqing,Xu Ke.Novel image feature extraction algorithm based on fusion AutoEncoder and CNN [J].Application Research of Computers,2017,34 (12):3839-3843.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]吴素雯，战荫伟．基于选择性搜索和卷积神经网络的人脸检测[J]. 计算机应用研究,2017,34(9):2854-2857.(Wu Suwen,Zhan Yinwei. Face detection based on selective search and Gabor optimizing convolutional neural network [J].Application Research of Computers, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2017,34(9): 2854-2857.) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]Du Xianzhi,El-Khamy M,Lee J,et al. Fused DNN:a deep neural network fusion approach to fast and robust pedestrian detection [C]// Proc of IEEE Winter Conference on Applications of Computer Vision. Piscataway,NJ: IEEE Press,2017: 953-961.   \n[4]Chan Kaichi,Koh C K,Lee C SG.An automatic design of factors in a human-pose estimation system using neural networks [J].IEEE Trans on Systems Man & Cybernetics Systems,2016,46(7): 875-887.   \n[5]Rafique MA,Azam M S,Jeon M,et al.Face-deidentification in images usingRestricted Boltzmann Machines[C]//Proc of the11th International Conference for Internet Technology and Secured Transactions.Piscataway,NJ:IEEE Press,2016:69-73..   \n[6]Steorts R C,Hall R,Fienberg S E.A Bayesian approach to graphical record linkage and deduplication [J].Publications of the American Statistical Association,2014,111 (516): 1660-1672.   \n[7]Sapp B,Taskar B.MODEC:multimodal decomposable modelsfor human pose estimation [C]//Proc ofIEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society,2013:3674-3681.   \n[8]Yang Songfan,Ramanan D.Multi-scale Recognition with DAG-CNNs [C]//Proc ofIEEE International Conference on Computer Vision. Washington DC:IEEE Computer Society,2015:1215-1223.   \n[9]宋珊，王世峰．基于可变形部件模型 HOG 特征的人形目标检测[J]. 应用光学，2016，37(3):380-384．(Song Jin，Wang Shifeng. Human-kind shape object detection using deformable parts model with HOG features [J].Journal of Applied Optics,2016,37(3):380-384.)   \n[10]李春伟，于洪涛，李邵梅，等．一种基于可变形部件模型的快速对象 检测算法[J]．电子与信息学报，2016,38(11):2864-2870.(Li Chunwei,Yu Hongwei,Li Shaomei,et al.Rapid object detection algorithm based on deformable part models [J].Journal of Electronics & Information Technology,2016,38(11): 2864-2870.)   \n[11]周飞燕，金林鹏，董军．卷积神经网络研究综述[J].计算机学报, 2017,40(6): 1229-1251. (Zhou Feiyan,Jin Linpeng,Dong Jun.Review of Convolutional Neural Network [J]. Chinese Journal of Computers,   \n[12] Marangoni MN,Brady S T,Chowdhury S A,et al. The co-occurrence of myocardial dysfunction and peripheral insensate neuropathy in a streptozotocin-induced rat model of diabetes [J].Cardiovascular Diabetology,2014,13(1): 1-10.   \n[13] Akbari M，Samadzadegan F,Weibel R.A generic regional spatio-temporal co-occurrence pattern mining model: a case study for air pollution [J].Journal of Geographical Systems，2015，17(3): 249-274.   \n[14] Navarrocompän V,Gherghe A M,Smolen J S,et al.Relationship between disease activity indices and their individual components and radiographic progression in RA:a systematic literature review[J]. Rheumatology,2015,54(6): 994-1007.   \n[15] Toderi S,Gaggia A,Mariani MG,et al. Griffin and Neal's safety model: determinants and components of individual safety performance in the Italian context.[J].La Medicina Del Lavoro,2015,106 (6): 447-459.   \n[16]董峰辉，程进．极值-I型风速预测的 Bayes 方法[J].哈尔滨工业大 学学报，2017,49(3):93-97.(Dong Fenghui,Cheng Jin.Bayesian method for extreme value-I wind speed prediction [J]. Journal of Harbin Institute of Technology,2017,49(3): 93-97.)   \n[17] Font O,Frances G,Jonsson A,et al.Probabilistic activity recognition in navigation [C]// Proc of the 11th Workshop on Positioning,Navigation and Communication.Piscataway, NJ: IEEE Press,2014:1-6..   \n[18]汤浩，何楚．全卷积网络结合改进的条件随机场-循环神经网络用于 SAR 图像场景分类[J].计算机应用,2016,36(12):3436-3441.(Tang Hao,He Chu. SAR image scene classification with fully convolutional network and modified conditional random field-recurrent neural network [J].Journal of Computer Applications,2016,36(12): 3436-3441.)   \n[19]蔡波．基于概率图模型的目标跟踪算法研究[D].南京：南京航空航 天大学,2016.(Cai Bo.Research on Target Tracking Algorithm Based on Probability Graph Model [D]. Nanjing：Nanjing University of Aeronautics and Astronautics,2016.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

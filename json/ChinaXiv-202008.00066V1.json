@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "从社会文化的视角看健康与教育的阶层差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓子谦 陈晓晨 韦庆旺（中国人民大学心理学系，北京100872）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要如何缩小健康和教育的阶层差异，促进社会公平是世界各国普遍关心的社会问题。已有的社会阶层心理研究取向中，社会文化视角从不同阶层的文化所塑造的不同自我出发，提出了解释社会阶层生产和再生产的文化循环理论和提升低阶层社会适应水平的差异教育方法，这些理论观点为教育与健康的阶层差异提供了超越个体或环境任何单一因素的系统解释，并提供了着眼于社会心理重塑的干预方案以减少健康和教育的不平等。未来社会文化视角的研究和实践工作的可能方向包括理论和干预实践的中国化，与其他社会阶层理论和社会公正视角相结合，以及考察社会流动与文化变迁背景的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 社会阶层；社会文化视角；健康；教育",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:C91",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会阶层(social class）是指在社会层次结构中处于不同地位的群体，这些群体之间存在着客观的社会资源(收入、受教育水平和职业)的差异以及主观上感知到的由此造成的社会地位差异(Kraus,Pif,Mendoza-Denton,Rheinschmidt,&Keltner,2012；郭永玉，杨沈龙，李静，胡小勇，2015）。社会阶层对人一生的影响广泛而深刻，不同阶层在健康和教育方面的差异尤其受到了社会科学界的关注。已有大量研究表明，高阶层拥有比低阶层更好的身心健康状况，如更低的癌症、高血压和心脏病发病率（Fitzmaurice etal.,2018)，更低的婴儿死亡率（Rezaei,Matin,&Rad,2015)，更低的抑郁和焦虑水平以及更高的主观幸福感（Yang＆Pang,2018；尤瑾，安蕾，沈还坤，朱颖，李彩娜，2018)。在教育领域同样存在着明显的阶层差异。国内外研究表明，低社会阶层家庭的学生在升学机会和学业表现方面都不及来自高阶层家庭的学生（e.g.,Philips，Stephens,Townsend,& Goudeau,2020;Herrmann& Varnum,2018；李春玲，2010；李忠路，2016）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何缩小健康和教育的阶层差异，促进社会公平是世界各国普遍关心的社会问题(Markus &Stephens,2017)。在我国脱贫攻坚即将收官之际，党的十九届四中全会提出，要“巩固脱贫攻坚成果，建立解决相对贫困的长效机制”。这意味着我国全面建成小康社会后，扶贫工作的重点将转向相对贫困的治理。相对贫困是指家庭或个人所拥有的收入和资源虽然可以满足基本生活需要，但不足以达到社会的平均水平（向德平，向凯，2020)。健康与教育的不平等是导致相对贫困的重要因素（刘欢，2017)，减少健康和教育的阶层差异也是促进脱贫和防止返贫的有效途径（李长健，胡月明，2017;李晓嘉，2015)。社会学、经济学、教育学和公共卫生等诸多领域的学者对这一问题开展了广泛的探索。在心理学界，社会阶层的社会文化视角对于健康和教育阶层差异的成因提供了较为系统的解释，并提供了相应的干预方案以减少健康和教育的不平等。因此，本文将系统梳理社会文化视角的理论观点，以及此视角下与健康和教育阶层差异有关的实证研究，以期为更具文化适应性的社会阶层理论的提出和我国现实问题的解决提供启示和思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2社会文化视角的理论观点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，社会阶层的社会文化视角（socioculturalperspective）用文化与自我的互构关系（themutualconstitution of culture and selves）来分析社会阶层，认为：不同社会阶层具有不同的自我建构，高阶层具有独立我(independent self)的自我建构，低阶层具有互依我(interdependent self)的自我建构;不同社会阶层与自我建构相互作用，形成社会阶层的生产（社会化）和再生产；自我建构与社会阶层文化背景不匹配会产生适应困难，通过差异教育（difference-education）进行调整可增强与阶层文化背景的匹配度，提升适应水平(Markus& Kitayama,2010; Stephens,Markus,& Fryberg,2012;Stephens,Markus,& Philips,2014; Stephens,Hamedani,& Townsend,2019)。这些观点强调超越不同社会阶层的个体心理差异去理解和分析他们所处的社会文化背景，与环境、他人和群体的互动历程，以及群体共享的文化价值、规范和意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c92630e75afc96227577e898d2b2ff00f280ca12a957f491dc6b03f79dd96a3.jpg",
+        "img_caption": [
+            "图1．对社会阶层的社会文化视角分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1社会文化视角的理论发展背景",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自我建构(self-construal)是文化心理学的经典概念之一（Markus& Kitayam,1991)。研究者普遍认为，高\"独立我\"的个体倾向于用自身的内在属性来定义自我，更关注个人的喜好、需求及目标达成；与之相对，高“互依我\"的个体倾向于在重要的社会关系中定义自我，更关注他人的情感与需求，注重人际关系的和谐（Markus& Kitayama,2003;Schooler,2007)。早期关于文化如何影响自我的研究多聚焦于西方与东亚国家被试的比较（e.g.,Triandis,1989; Morling,Kitayama,&Miyamoto,2002）。Stephens 研究团队将国家文化对于自我建构的影响迁移到了阶层文化情境中，提出了社会阶层的社会文化视角。该视角认为，与东、西方文化差异类似，高、低阶层的情境差异亦塑造了不同的自我模式（Stephens,Fryberg,Markus, Johnson,& Covarrubias,2012； Stephens, Markus,& Philips,2014）。具体地说，身处较高社会阶层的个体，由于自身所能支配的资源较多，生活环境相对安全（高收入、安全的社区)，较少受到外部环境的威胁（如饥饿、寒冷)，所以他们可以把关注点放在自己身上，更关注与自身相关的目标和结果，进而形成一个追求自身目标的“独立我”。相反，身处较低社会阶层的个体，由于自身可调用的资源较少，并且更可能暴露在具有威胁的情境下，因此低阶层个体会更关注外部环境，进而形成一个对外部环境和他人比较敏感的\"互依我”。支持该视角的一个较早研究发现：在面临选择时，高阶层因为具有独立我而选择能够显示个体独特性的选项，而低阶层因为具有互依我而倾向于选择与他人一致的非独特性选项(Stephens,Markus,& Townsend,2007)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上，如果不考虑独立我与互依我在概念上与文化心理学的广泛联系，仅就社会文化视角对高低社会阶层的差异所作的描述和解释，其观点与Kraus 研究团队提出的社会阶层的社会认知理论具有内在的一致性（Kraus etal.,2012；胡小勇,李静，芦学璋，郭永玉,2014)。后者认为，由于客观的物质资源和主观感知到的相对社会地位的不同导致不同社会阶层个体存在基本认知风格的差异。当拥有丰富的资源或者相对较高地位时，个体免受外界危险的影响，拥有更多的机会，因此在该环境下的个体更为关注自身的目标和结果；高社会阶层这种自我导向的认知模式被称为\"唯我主义”（solipsism）的认知倾向。与之相反，当资源稀缺或相对较低地位时，个体将面对更多的环境威胁和更少的机会，因此在该环境下的个体更关注外部环境因素；低社会阶层这种情境导向的认知模式被称为\"情境主义”（contextualism）的认知倾向。这里所说的唯我主义/情境主义，虽然与独立我/互依我的概念表述不同，但对高低阶层差异的描述和解释是相似的，都强调高低阶层因掌握资源的多少而产生对自我与环境关注程度的差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，与社会认知理论不同的是，社会文化视角除了描述高低阶层的心理差异，以及从个体掌握资源多少的角度来解释这种差异以外，更强调深入到社会结构和社会分层的宏观层面（Stephens&Townsend,2013)。该视角从高低阶层作为具有不同价值、观念、习俗和行为规范的文化群体角度，进一步解释高低阶层的生产和再生产，提出社会阶层的文化循环理论（SocialClass Culture Cycles），并从文化匹配角度提出减少高低阶层在健康和教育等领域的差距（gap)，提高低社会阶层适应水平的心理干预思路和方法,即差异教育(Diference-Education Intervention）（Stephens et al.,2012; Stephens,Hamedani,&Destin,2014; Stephens,Hamedani,& Townsend,2019)，如图1所示。在对社会阶层的测量方面，社会文化视角特别关注那些能够体现阶层长期社会文化背景差异的指标，比如客观的受教育水平或社区经济水平(e.g.,Stephens et al.,2012; Phillps et al.,2020)；而社会认知理论则更注重个体对自己相对社会等级的主观心理感知(e.g.,Piff, Kraus,Cote,Cheng,& Keltner,2010；韦庆旺,李木子，陈晓晨，2018)，或通过实验操纵的方式，让被试暂时切换成某一阶层的认知和行为模式（e.g.,Chen,Li, & Wei, 2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2社会阶层的文化循环",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在建立了高低社会阶层与独立我和互依我的关系之后，Stephens 研究团队进一步分析和解释了美国社会文化背景下高低社会阶层是如何被生产和再生产的，提出社会阶层的文化循环理论（Stephens,Markus,&Philips,2014)。该理论指出：高低社会阶层通过家庭、学校和职场等社会情境习得了与自己阶层相应的独立我或互依我的自我建构与行为模式，这种习得的自我与行为模式本身与他们所处的阶层社会情境是相适应的。但由于美国主导的社会文化背景鼓励独立我模式，高阶层可以更顺畅地适应，容易获得成功和保持高阶层地位；低阶层则会因适应不良而不能向高阶层流动，最终继续待在低阶层。换言之，阶层的社会化过程解释了社会阶层的生产，即一个人如何成长为高阶层或低阶层；阶层心理与社会文化背景的匹配与适应程度解释了社会阶层的再生产，即高低阶层",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如何循环复刻自身的阶层身份。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，不同阶层通过在家庭和学校的社会化过程完成自身社会阶层的生产。家庭为个体生命早期提供重要的资源支持（如，经济支持、社会支持、教育和健康保障)，以帮助个体顺利成长。个体早期通过其家庭成员的行为习得相应社会阶层背景下的文化规范（Lareau,2003)。不同阶层的家庭对孩子的教养方式存在明显差异（Kraus,Park,&Tan,2017；田丰，静永超，2018)。在高社会阶层家庭中，父母能够为子女提供资源充足、稳定和免受外部威胁的安全环境。因此，高阶层的父母注重培养孩子关注自身需求、敢于表达自我的品质。高社会阶层父母更愿意使用启发式的语句来帮助孩子表达自我（Kusserow,2004)。当孩子说错话或做错事时，高阶层父母会说，“你真的觉得现在应该说/做这些事情吗？\"或者“你觉得如果你继续说/做下去会有什么后果？”另外，高阶层的父母鼓励孩子做出属于自己的选择；在教育时注重强调积极因素，告诉孩子“什么是对的”（Weininger&Lareau,2009)。这些教养方式有利于培养孩子形成符合高阶层社会预期的\"独立型自我”。反观低社会阶层的家庭，父母不能给孩子提供丰富的资源，他们的孩子生活在一个不稳定的环境当中。因此，低阶层的父母需要教育孩子服从权威、注重人际关系，以应对环境威胁。他们在与孩子交流时更多使用简短的命令式语句，如\"你不能说这些\"或“以后不许这样干”。另外，低阶层父母在叙事时会强调消极因素，以确保孩子不去犯错（Miller,Cho,&Bracey,2005)。这些教养方式有利于培养出孩子们坚强、互助和抗逆性强的特征，最终让孩子形成一个“互依型自我\"以更好地满足低阶层的社会预期。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了在家庭的阶层社会化，由于经济条件上的差异，不同社会阶层还通过接触不同的学校进一步社会化（Batruch,Autin,Bataillard,&Butera,2019)。在以工薪阶层家庭子女为主的学校中，教育者会假定他们的学生在毕业后更多从事的是低收入的蓝领行业，因此学校会倾向于培养学生日后能用到的技能以及相应的价值观（Stephens,Markus,&Philips,2014)。有研究表明，低社会阶层学校的课堂氛围更为严肃，学生的自由度较低、强调服从（Macleod,2009)，这些学校教育措施进一步强化了学生的“互依型自我”。相反，在以中产阶层家庭子女为主的学校中，学校教育者认为他们的学生以后会进一步接受高等教育，并从事收入较高的专业技术性职业或管理工作，因此，学校会倾向于培养学生的自主性和创造性。比如，学校会提供更为丰富的课程内容和活动选择；教师会鼓励学生提问和表达自己的想法而非简单地遵守规则。这些措施进一步强化了学生的“独立型自我”以及相应的思维和行为模式（Stephens,Markus,& Philips,2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次，社会阶层的文化循环理论还可以帮助我们理解不同社会阶层的文化是如何在代际间传递的，即社会阶层的再生产。高阶层的价值观与行为方式往往会成为一个社会的主流标准（Miyamotoet al.,2018)。完成社会化的低阶层个体要么选择留在自己熟悉和适应的低阶层群体，要么由于不熟悉“游戏规则”，在向高阶层流动中较难跨越阶层间的壁垒，失败地回到原本的低阶层情境中，并把相应的阶层文化规范传递给下一代，由此形成社会阶层文化的再生产(Jack,2016)。Stephens 研究团队以美国高等教育的过程及结果为例阐释了这一过程（Stephens et al.,2012； Stephens& Townsend,2013)。虽然有越来越多的低阶层学生有上大学的机会，但是美国高校普遍倡导的注重“表达自我”“独立选择”的文化与高阶层学生所熟悉的“独立型”自我建构相一致；而习惯“互依我”文化的低阶层学生在大学适应方面存在更多困难。低阶层学生在大学中的表现往往不如其高阶层的同伴(Phillips et al.,2020)，他们毕业后获得高收入职位的概率也低于高阶层学生（Acker,2006)。能够为家庭提供的资源多少会影响父母对孩子的培养目标和教养方式，进而使得与阶层情境相适应的自我模式在代际间传递。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3差异教育作为社会心理干预思路",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社会阶层的文化循环理论指出，低阶层之所以在很多方面的表现不如高阶层，是因为低阶层环境所塑造的互依我与美国社会鼓励的独立我情境存在文化不匹配（Stephens,Markus,&Philips,2014)。如果让低阶层认识到这种不匹配，他们是否可以调整自己的自我和行为模式，更好地适应呢？回答是肯定的。社会阶层的社会文化视角在提出文化循环理论之后，进一步开发了旨在帮助低阶层提高适应水平的社会心理干预思路，即进行差异教育（Stephens,Hamedani,& Destin,2014; Stephens,Hamedani, & Townsend, 2019）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，差异教育将高低阶层产生的独立我和互依我的自我模式看作情境式的（contextual)，而不是本质式的（essential）（Stephens,Hamedani,& Townsend,2019)。对高低阶层群体差异的情境式解释将差异归因于不同的社会文化背景，而不是个体内在的固有特质。相反，对高低阶层群体差异的本质式解释将差异归因于不同个体的内在固有特质，这些特质被认为是不随社会文化背景而改变的稳定特征。这种对群体差异的情境式或本质式的解释是一种朴素理论（Lay theory)，朴素理论是人们基于常识和个体经验对事物形成的无意识内隐观（Molden&Dweck,2006)。在差异教育的干预中，常见的方式是给在特定社会情境（如大学）中遇到适应问题的低阶层群体展示不同阶层由于阶层背景的不同在该情境中会产生各种观念和行为的差异，这些差异会影响他们的适应水平，但存在差异是正常的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，一个有效的差异教育应对低阶层产生一系列积极心理功能，包括社会融入感（sense ofsocial fit）、心理授权（psychological empowerment）和心理韧性（psychologicalresilience）（Townsend,Stephens,Smallets,&Hamedani,2019)。社会融入感是指由于理解了群体差异产生于社会文化背景而平和地看待差异，在所处的有差异的社会情境中感到被接纳和认可。心理授权是指通过更好地了解挑战的社会背景原因而感到对环境产生控制感和效能感。心理韧性是指面对充满压力的挑战具有抗逆力和乐观精神。这些积极心理功能能够帮助低阶层个体在文化不匹配的社会情境中成功运用差异的知识做有效的调整，提高自己的适应水平，是差异教育所以能够发挥作用的心理机制（Townsend,et al., 2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社会阶层的社会文化视角主要关注三个问题：高低阶层在心理上有何不同？造成这些不同的原因是什么？了解这些不同及其原因有何社会实践意义？对后两个问题的回答决定了社会文化视角与其它理论视角的本质区别。首先，它将高低阶层看作两种文化群体，强调不同的社会文化背景对高低阶层产生不同的塑造作用，结合相应的社会文化背景来看，不同阶层虽然在心理上存在差异，但这些差异对各自均具有特定的适应意义。虽然社会认知理论和生命史理论等其它理论都在描述和解释高低阶层差异时关注到高低阶层的不同适应，但更多的是强调个体层面的适应(Kraus,Calaghan,& Ondish,2019)，并不像社会文化视角那样强调群体层面的适应，如群体共享的价值和规范对个体社会化的影响，以及对个体所具有的群体归属和社会认同的意义。其次，社会文化视角基于对高低阶层心理差异及其社会文化背景的解释，提出了独特的提高低阶层社会适应水平的干预思路和方法，具有重要的社会实践意义，而这恰恰是其它理论视角所忽视的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3社会文化视角对健康和教育阶层差异的理论解释与实证研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角对解释高低阶层在各种社会领域中的表现差异，提高低阶层的适应水平有普遍的意义。该视角认为低阶层所处的阶层环境特征塑造了个体的互依我，他们无法达到美国主流社会对独立我的要求，在生活中无法表现出社会认可的行为（如健康饮食、注重自我表达等)，尤其在健康和教育上处于不利地位。过去的实证研究大 多或关注社会环境特征（如医疗条件、师资水平等)，或聚焦于个体特征（如决策能力、自我效能感等)，忽视了个人和社会层面因素对健康和教育结果的交互影响。社会文化视角通过强调阶层文化背景与自我的互构，社会阶层的文化循环，以及文化匹配分析和差异教育干预，整合了个体和社会两个层面的因素，对健康和教育的阶层差异提出了更具群体文化意义和建设性的情境式解释，并提出了提高低阶层适应水平的方法（Stephens,Hamedani,&Destin, 2014; Stephens, Hamedani,& Townsend, 2019）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1健康阶层差异的理论解释与干预研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "已有研究尝试从个人特质或环境因素方面分析健康结果阶层差异的原因（Stephens etal.,2012)。关注个人特质的研究者认为，低阶层个体之所以健康结果更差，是因为他们缺少做出健康行为所需的相关技能或心理特点（如，决策能力、自我效能感等)。以个人特质为切入点的健康干预项目注重教授个体健康促进有关的技能。例如，曾在美国 50 个州开展的\"抵制物质滥用教育”（Drug AbuseResistance Education,DARE）通过一列标准化课程教授儿童青少年如何抵制同伴影响，拒绝物质滥用。该项目的设计者认为，通过提供物质滥用的相关知识，并教授学生压力管理和决策技能，提高学生的控制感就能够有效地减少青少年物质滥用。然而该项目并未取得预期成效(Johnstone,1996)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另一方面，关注环境因素的研究者认为，环境因素（如，居住条件、健康食品的可得性等）是引发行为的首要原因。以环境因素为切入点的健康干预项目注重改善低阶层个体的生活环境。例如，美国的 MTO 计划（Moving to Opportunity,Fiss,2003）帮助 6000 多个低阶层家庭迁移至更为富裕和安全的环境中。该项目希望通过环境的改善提高人们的心理健康水平以及教育成就和经济收入。但研究结果表明，尽管该项目的参与者报告有更多的安全感，可是他们的就业、收入、健康状况及教育结果并没有改善（Chetty, Hendren,& Katz,2016）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角认为，片面关注个体或环境因素无法充分解释导致健康结果阶层差异的原因，也无法提供有效的干预策略。通过整合上述两种研究取向，社会文化视角认为，个人特质和环境因素密不可分、相互影响，在解释健康的阶层差异时需同时考虑两方面的因素（Stephens et al.,2012)。该视角强调社会阶层情境塑造了自我，自我在对具体生活经历进行解释和引导行为方面发挥着重要作用。在解释健康的阶层差异时，应同时考虑个人特质、环境因素，以及特定的行为与个体的自我是否具有一致性（Stephens etal.,2012；Stephens& Townsend,2013）。例如，为什么低阶层个体相比高阶层个体更多食用垃圾食品而非健康食品？社会文化视角的分析认为，这很可能与个人特质（例如，缺少健康食品相关的知识；缺少管理自己饮食的效能感）和环境因素（例如，低阶层的社区中缺少卖健康食品的超市，而廉价的垃圾食品具有很高的可得性）都有关。同时，吃健康食品的行为也会受到自我的影响。如果低阶层个体认为吃健康食品“与我这类人无关”，那么他们就不太可能购买和食用健康食品。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与之相对应，为促进低阶层个体更多食用健康食品，除关注个人特质（例如，提供相关知识，提升效能感）和环境改善（例如，方便的购买健康食品的途径）外，社会文化视角指出，还应帮助低阶层个体建立其（互依型）自我与“吃健康食品”之间的正向连接（例如，吃健康食品有利于保持身体健康，这样就可以更好地帮助家人)。当“吃健康食品”与低阶层注重人际关系的“互依我”相一致的时候，这一行为就更可能得以保持。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角还指出，同一种应对方式对于不同社会阶层个体健康结果的影响可能存在差异。只有当个体的应对方式与其所处的阶层情境和阶层特异性自我模式相一致时，这种应对方式才是有效的（Levine,2017)。有研究表明(Townsend,Eliezer,Major,& Mendes,2014)，中产阶层的大学生由于其熟悉的阶层文化规范是“对环境施加影响”，因此，他们对于可控制性高的压力源（如，由于缺少技能而遭人际拒绝）比可控制性低的压力源（如，种族歧视）应对得更好。相反，工薪阶层的大学生由于其熟悉的阶层文化规范是“调整自我以适应环境”，因此，他们对于可控和不可控的压力应对得一样好。此外，有研究发现，低阶层个体的健康结果并非总是消极的。采用“调整并坚持(shiftand persist)\"(即调整自我以适应环境和面对困境保持乐观坚强)应对策略的低阶层个体可以有效降低心血管疾病、哮喘等的发病率，但这种应对策略对于高阶层个体的健康结果并没有影响(Chen &Miller,2012;Levine,2017)。总之，对于高阶层个体，强调独立性以及控制感的应对方式更为有效；与之相对，对于低阶层个体，强调与他人的联结以及调整自我以适应环境的应对方式更为有效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2教育阶层差异的理论解释与干预研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "低家庭社会经济地位学生的教育机会和学业成就均低于高阶层的同伴（Phillips et al.,2020;Dittmann& Stephens,2017；李春玲，2010)。与健康的阶层差异类似，已有研究主要从个体技能和环境因素两方面入手分析教育成就阶层差异的原因并提供相应的干预方案。个体视角的研究者主要关注高低阶层在与学业表现相关的技能方面的差异。例如，高阶层学生往往比低阶层学生具有更高的自我管理能力和认知能力（Hsin& Xie,2017)。相应的干预方案也关注提升低阶层学生的相关能力(e.g.,Schmitt, Mcclelland,Tominey,& Acock,2015; Vatalaro,Culp,Hahs-Vaughn,& Barnes,2018)。基于环境视角的研究主要关注高低阶层在物质资源和环境因素方面的差异（例如，学校和师资条件)，该视角的干预研究也着眼于为低阶层学生提供更多的资源和机会（e.g.,Castleman&Page,2015）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与已往仅关注个体或环境因素的研究取向不同，社会文化视角注重个体与环境的相互影响，以及阶层特异性自我对个体经历的解释和行为的引导作用（Dittmann& Stephens,2017）。该视角从自我与环境匹配的角度，对低阶层学生的适应困难问题给出了新颖独到的解释（Stephens et al.,2012;Stephens,Townsend,&Dittmann,2019)。Stephens 及其团队(2012)通过对数百位美国不同类型高校的管理者进行问卷调查和访谈发现，美国高校对于学生的培养期望更符合高阶层倡导的“独立我”文化（例如，强调“表达自我”、“成为有独立思想的人”等)。文化不匹配理论认为，高阶层学生所熟悉的独立我文化与高校中的主导文化相“匹配”，因此他们更容易适应大学生活。然而，低阶层学生由于其所熟悉的“互依我”文化（例如，强调对他人需求敏感，注重与他人的连接和与他人一起工作）与高校中倡导的独立我文化“不匹配”，因此低阶层学生容易感到迷茫焦虑、不知所措，进而损害他们的归属感和学业表现。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这些分析得到了进一步实证研究的支持。对于美国大学新生的纵向追踪研究表明（Stephens etal.,2012;Phillps et al.,2020)，第一代大学生（即父母均未接受过高等教育的大学生）相比非第一代大学生（即父母至少有一方接受过四年制本科教育）持有更高互依型的上大学动机。例如，“上大学是为了毕业后更好地帮助我的家庭”“上大学是为了让家人骄傲”等。更高的互依型动机（与大学主导的独立文化不匹配）可以部分解释两年后学习成绩的阶层差异。另外，有实验研究表明，操纵低阶层大学生对学校文化（独立vs.互依）的感知可以影响他们对于学业任务难度的评价及任务表现的成绩(Browman& Destin,2016; Stephens et al.,2012)。当低阶层大学生被告知其学校鼓励“互依”文化时（例如，注重与其它同学及老师的连接；注重合作研究等)，他们会认为随后完成的测试任务更容易，完成情况也更好。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角敏锐地指出了阶层文化差异这一相对隐形的因素对于低阶层学生大学适应的影响，并为减少教育成就阶层差异的干预项目提供了新思路。Stephens 研究团队基于社会文化视角开发了差异教育(difference education)干预方案（Stephens,Hamedani,& Destin,2014; Stephens,Townsend,Hamedani,Destin,&Manzo,2015; Townsend,et al.,2019)。该干预通过不同阶层背景的高年级学生向新生分享自己大学经历的形式，帮助新生了解到社会阶层背景对于大学生活的可能影响（包括不同阶层背景学生的优势和劣势)，以及特定阶层背景的学生如何做才能获得成功。研究结果表明，相比忽视阶层背景的控制组学生（即，高年级学生在分享大学经历时不提及自身的社会阶层背景)，接受差异教育的学生一年后有更好的心理健康和更多的学习投入。另外，差异教育通过提升低阶层学生的适应性行为（例如，主动找教授讨论）缩小了学业成就的阶层差异。社会文化视角认为，教育工作者不应忽视家庭社会阶层背景对学生的影响；相反，通过改变低阶层大学生对其所处环境的解释（例如，“我在大学的迷茫和不适应与我的阶层背景有关”）和应对方式（“像我这类人通过采取一系列行动可以获得成功\")，可以引发长期的、自我强化的积极效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3健康和教育领域的阶层差异对比",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角应用于健康和教育领域的阶层差异解释，共同点是强调不同阶层个体通过阶层环境形成的独特自我模式与环境发生相互作用，区别于以往研究将个体因素和环境因素分开的做法。然而，对比健康和教育领域的阶层差异，也存在很重要的不同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "健康的阶层差异存在更明显的积极和消极评价标准，高阶层的环境和行为都比低阶层更健康（Adler etal.,1994)。同时，健康领域所关注的低阶层更多的是不利地位短期很难改变的底层社区或群体，尤其是那些已经被边缘化甚至污名化的低阶层，消极的健康环境和行为有可能成为他们群体归属或社会认同的符号（Stephens＆ Townsend,2013)。此时，要提高低阶层个体的健康水平，着眼于理解其自我模式和尊重其群体身份的方法，比简单地改善环境条件和教给他们技能更加重要。这方面，社会文化视角强调对阶层差异情境式的解释以及注重群体和文化层面分析的做法，具有重要的启发意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与健康的阶层差异相比，教育的阶层差异研究更强调低阶层如何通过教育成功地向上进行社会流动，适应主流社会环境，进入中产阶层或高阶层。对于处在高等教育情境中的低阶层个体，造成他们学习成绩落后更根本的因素在于，低阶层情境所塑造的互依型自我与高等教育强调培养和发挥独立我的环境氛围不匹配（Stephens,Hamedani,& Destin,2014; Stephens,Townsend,&Dittmann,2019）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此时，要提高低阶层的学习成绩，需要让他们充分理解不同阶层背景对自我和行为的塑造如何影响了学业表现，然后通过调整自我和行为模式来更好地适应。这方面，社会文化视角所提出的文化匹配度分析和差异教育干预方法，比以往的解释和干预更有效（Townsend etal.,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4总评与展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "社会阶层的社会文化视角，以其超越个体层面而注重群体层面和文化背景分析的特征，区别于以往的社会阶层理论视角，不仅可以解释社会阶层生产和再生产等宏观社会结构现象，还为健康和教育等领域的阶层差异分析和减少阶层不平等的干预实践，提出了科学合理的社会心理方面的解释和方案，在推动社会阶层的心理学研究方面具有重要作用。同时，对我国急剧社会变迁背景下的扶贫工作和基于不同阶层的社会治理工作具有一定的启发意义。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1社会文化视角与健康和教育的阶层差异",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角的理论取向对未来开展缩小健康与教育阶层差异的干预工作提供了诸多启示。该视角在干预方面的核心观点是对阶层差异采取情境式的解释，而不是本质式的解释（Stephens,Hamedani,& Townsend,2019)。这有利于突破社会对不同阶层的刻板印象和偏见，也有利于低阶层在包容看待自己群体身份的同时，将“独立我”和“互依我”都看作一种可资利用的心理资源，在特定的情境中恰当地调整和运用合适的自我和行为模式，提升社会适应能力，改变自己的不利处境（Townsend etal.,2019)。这种将社会阶层看作文化，进而将文化看作可以利用的心理资源，对社会适应持建构性理解的观点，被研究者认为可以用来整合社会阶层研究的不同理论视角，对解释和改善基于阶层的整体社会公正问题具有一定的启发意义（Krausetal.,2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "就我国的健康和教育的阶层差异问题而言，社会文化视角同样具有启发意义。我们的干预工作应在努力通过医疗、教育、社会保障等政策和措施改善低阶层个体生活环境的同时，吸收借鉴社会文化视角通过差异教育等社会心理干预方法提升低阶层心理资源和社会适应能力的思路。然而，为在我国成功践行这一原则，研究者首先需通过跨文化或本土化的研究探明影响中国国民健康和教育结果的关键因素。例如，美国贫民社区暴力事件频繁，缺少健身设施，垃圾食品具有很高的可得性，肥胖问题非常严重；中国贫困地区社会环境稳定，影响农村中老年人慢性疾病的主要因素是繁重的体力劳动和营养不足的累积（余成普，2019)。又如，在教育领域，影响西方学生学业表现的动机主要是个体导向的成就动机（例如，为满足自己的兴趣而学习)；而中国学生则更多受到社会导向成就动机（例如，为给父母争光而学习）的影响，这类动机会使中国学生在学习中更加努力、取得更好的成绩，同时也会导致更多的学业焦虑（Tao&Hong,2014)。探明具有本土特色的心理和环境因素，有助于研究者制定行之有效的干预方案，并为政策制定或资助项目提供理论依据。例如，有研究表明，在针对美国华裔注重教育并且看重人情、关系的特点而设计的乳腺癌患者干预项目中，具有文化敏感性的干预内容（提供医学知识和来自病友的社会支持）有效改善了乳腺癌患者的心理健康状况（Lu, You,Man,Loh,& Young,2014）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2社会文化视角与社会公正视角",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "不管是健康领域还是教育领域的阶层差异，之所以受到较多关注，离不开社会阶层所隐含的社会公正和不平等问题。虽然社会文化视角对阶层差异采取情境式的看法，本身减少了社会对不同阶层的偏见，提升了低社会阶层的自我调适能力，从而有利于减少阶层不公平，但恰恰因此而忽视了高低阶层之间在掌握资源和机会等客观社会条件方面固有的不公平本身。因此，社会文化视角有其自身的局限性和适用条件。首先，虽然社会文化视角为高低阶层在身心健康和教育成就等方面的差异提供了系统解释，但它并不能说明阶层差异产生的根源。其次，社会文化视角聚焦于具有阶层特异性的价值体系和行为模式，但未关注同一阶层内部的个体差异。另一与之相关的问题是，该视角忽视了低阶层人口为打破世代贫困、实现阶层跃迁而付出的努力（傅安国 等，2020；傅若云，傅安国，2020)。此外，该理论视角诞生于心理学研究的前沿阵地——美国，一个阶层分化明显且相对固化的发达国家。虽然阶层作为一种社会现象普遍且长期存在，但在绝对贫困仍为主要矛盾的国家和地区，讨论基于社会文化视角的干预实践则显得过于超前。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实际上，社会阶层的研究在某种程度上离不开社会公正视角。从社会心理的角度，对社会身份、社会公平和社会流动等的看法，本身就会受到社会阶层的重要影响。研究发现，人们只需要60 秒就可以识别出正在交往的陌生人之间的社会阶层高低（Kraus&Keltner,2009），而高阶层比低阶层更认为一个人的社会阶层是不可改变的（Kraus&Keltner,2013）。对于社会公平，我国学者系统考察了高低社会阶层在社会公平感知与归因、公正世界信念和制度正当化等方面的差异（郭永玉 等，2015）。未来的社会文化视角研究需要考虑如何对高低阶层在社会公正认知方面的差异进行整合，以及探讨对社会公正的认知如何影响差异教育对低阶层个体的干预效果。尽管如此，我们认为，社会文化视角仍具有广阔的研究和应用前景。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3社会文化视角的跨文化研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角关注的是阶层文化对于个体的影响。然而，具体的社会阶层文化情境是嵌套在一个更为宏大的社会文化（国家）背景之中的。美国学者提出的社会文化视角带有明显的\"美国中心主义”，即默认社会主流文化推崇的是独立我，但这并不适用于所有国家和地区。关于社会文化对社会阶层心理影响的研究尚处于起步阶段，研究结果也存在一些不一致。有学者认为，社会阶层对个体的影响存在跨文化的一致性；另有学者认为，社会阶层对个体的影响在不同的文化下存在差异，与社会文化规范相一致的心理及行为特征和价值观在高阶层个体中更明显（see review in Grossmann&",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Varmum,2011)。与一致性假设相符，在美国和俄罗斯的被试中，高阶层个体均表现出更多的与“独立我”相一致的分析型认知风格，而两国的低阶层个体则均表现出更多的与“互依我”相一致的整体型认知风格（Grossmann&Varmum，2011)。另一方面，与交互假设相一致，有研究表明（Miyamotoet al.,2018)，美、日两国的高阶层被试均更加重视独立、自我表达等自我导向的价值；然而，在日本被试中，高阶层的个体同时更加重视服从、尊重等与互依我文化规范相一致的价值。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "考虑到我国独特的社会文化背景，该视角的基本假设在中国的适用程度仍需检验。例如，该视角认为，高阶层的父母注重培养孩子关注自身需求、敢于表达自我的品质，这些教养方式有利于培养孩子形成符合高阶层社会预期的“独立我\"；相反，低阶层的父母注重教育孩子服从权威、重视人际关系，这种教养方式有利于让孩子形成一个“互依我”以更好地满足低阶层的社会预期。值得注意的是，在以美国为代表的“独立我”文化背景下（Markus＆Kitayama,1991)，高阶层的阶层文化与社会文化规范均强调自我表达与独立，即阶层文化与（国家）社会文化的影响相一致；然而，在以东亚国家为代表的“互依我”文化背景下（Markus＆Kitayama,1991)，社会文化规范注重人系关系和提升他人福祉，即高阶层的文化与（国家）社会文化所强调的内容不同。佐藤宏和李实（2008）对于中国农村地区的家庭成份、家庭文化和教育的研究发现，地主/富农家庭的后代其受教育水平在毛泽东时代因成份歧视的影响出现了下降，而在改革开放之后又有所反弹。该研究虽从侧面佐证了社会文化视角关于阶层“再生产”的观点，但这种在社会变迁背景中的阶层起落也展示了更复杂的文化差异问题，遗憾的是，研究者并没有直接检验社会阶层对自我的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4社会与文化变迁背景下的社会阶层",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "社会文化视角将社会阶层看作一种文化的载体，其关于阶层差异的情境式解释和干预也借鉴了多元文化培训提升跨文化适应的思路。随着社会的变迁，虽然社会有贫富差异扩大的倾向，但包括地理的流动和社会身份的流动等多种社会流动也比以前更频繁。因此，社会文化视角可以扩展到解释更多的阶层文化现象，如基于阶层的双元文化认同。研究者考察了那些经历从低社会阶层到高社会阶层流动的人群，如出身寒门的第一代大学生（First-Generation College,FGC）。高低社会阶层的双重身份给FGC 带来了适应压力，如果他们能够整合这种跨阶层的双文化身份，将适应得更好，也会取得好成绩（Herrmann&Varmum,2018)。研究者进一步开发了社会阶层双元文化整合量表（SocialClass Bicultural Identity Integration,SES-BII)，题目如“我感觉很容易融合工薪阶层和中产阶层的文化”",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在更宏观的阶层与文化变迁方面，Kagitcibasi（2005）基于持续20多年的欧洲多国大型调查研究，发现：随着社会从传统的、贫穷的、集体主义社会文化背景，发展到现代的、富裕的、个人主义社会文化背景，互依型家庭模式并不必然被独立型家庭模式所取代，而是会产生第三种家庭模式，即心理依赖型家庭模式。与此同时，在这种家庭模式中成长起来的子女，将会发展出兼有独立我和互依我两种特点的“自主-关系型自我（Autonomous-Related Self)”。这种变迁模式尤其出现在经历城市化、现代化和经济发展的集体主义社会文化背景下，特别是这些社会的中产阶级群体中。来自中国的观点也认为，在我国传统的互依我文化与快速的文化变迁相叠加，可能会产生互依我与独立我“双高”的群体（黄梓航 等，2018)。这些研究和观点有望丰富社会阶层的社会文化视角，尤其对未来进一步系统考察我国不同社会阶层群体自我建构的特点，并设计相应的干预方案帮助不同阶层去更好地适应社会具有不可忽视的现实意义。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，就社会文化视角本身的理论发展而言，尚存在一些需要细化，以及与其他理论视角互相整合的空间。例如社会文化视角强调人与环境的“互构”，目前关于阶层文化对个体影响的理论阐释和实证研究较多，然而有关个体的自我模式如何塑造阶层文化情境的研究却较为少见。而就健康与教育的阶层差异问题而言，社会文化视角作为一种心理学的理论取向为这一问题的解决提供了新的思路和启示，但它只是诸多视角中的一种，而心理学的视角也是诸多学科视角中的一种。个体因素、环境因素，以及自我释义系统三者均会对重要的人生结果造成影响(Stephens etal.,2012)，而心理学工作者较为擅长的是针对意义解释系统进行干预(e.g.,Goyer et al.,2017; Claro,Paunesku,&Dweck,2016)。在未来工作中，心理学工作者应该充分借鉴其他领域开展实践工作的经验教训，并广泛开展跨学科合作，为减少健康与教育的阶层差异做出独特贡献。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "傅安国，张再生，郑剑虹，岳童，林肇宏，吴娜等.(2020)．脱贫内生动力机制的质性探究.心理学报，52(1),66-80.  \n傅若云，傅安国.(2020)．脱贫内生动力:一个中国化的心理学概念.(2020-2-14).中国社会科学报,6.  \n郭永玉，杨沈龙，李静，胡小勇.（2015）.社会阶层心理学视角下的公平研究.心理科学进展，23（8)，1299-1311.  \n胡小勇，李静，芦学璋，郭永玉．（2014）．社会阶层的心理学研究:社会认知视角.心理科学,37(6),1509-1517.  \n黄梓航，敬一鸣，喻丰，古若雷，周欣悦，张建新等.（2018）．个人主义上升,集体主义式微?——全球文化变迁与民众",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "心理变化.心理科学进展,26(11),2068-2080.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "李长健，胡月明.(2017)．城乡贫困代际传递的比较研究．财经问题研究,3,99-105.   \n李春玲.(2010).高等教育扩张与教育机会不平等——高校扩招的平等化效应考查．社会学研究,(3),82-133.   \n李晓嘉.(2015).教育能促进脱贫吗——基于CFPS农户数据的实证研究．北京大学教育评论，13（4），110-122.   \n李忠路.(2016).家庭背景、学业表现与研究生教育机会获得．社会,36(3),86-109.   \n刘欢.(2017).人力资本投入对农村贫困家庭的减贫效应分析——基于健康、教育、社会保险、外出务工比较视角.经 济经纬,34(5),43-48.   \n田丰，静永超.（2018）．工之子恒为工?——中国城市社会流动与家庭教养方式的阶层分化.社会学研究，33(06),83- 101+243-244.   \n向德平，向凯.(2020).多元与发展：相对贫困的内涵及治理．华中科技大学学报（社会科学版)，34（2)，31-38.   \n尤瑾，安蕾，沈还坤，朱颖，李彩娜.(2018)．从毕生发展的视角看健康的贫富差距．心理科学进展,26(9),1700-1710.   \n余成普.(2019).中国农村疾病谱的变迁及其解释框架.中国社会科学,(9),92-114+206.   \n韦庆旺，李木子，陈晓晨.（2018）.社会阶层与社会知觉:热情和能力哪个更重要？心理学报，50(2),243-252.   \n佐藤宏,李实.(2008).中国农村地区的家庭成份、家庭文化和教育.经济学(季刊),7(4),1105-1130.   \nAcker J.(20o6).Inequality regimes: Gender,class,and race in organizations. Gender and Society,20(4),441-464.   \nAdler,N.E.,Boyce,T.,Chesney,M.A.,Cohen,S.,Folkman,S.,Kahn,R.,&yme,L.(994).Socioeconomicstatusand health: The challenge of the gradient. American Psychologist, 49 (1),15-24   \nBatruch,A.,Autin,F.,Bataillrd,F.,&Butera,F.(19).Schoolselectioandthesocialclassdivde:Hotrackingoutes to the reproduction of inequalities.Personality and Social Psychology Bulletin, 45(3),477-490.   \nBrowman,A.S.,&Destin,M.P.(2Ol6).The efects ofa warmorchillyclimate towardsocioeconomic diversityonacademic motivation and self-concept. Personality and Social Psychology Buletin, 42(2),172-187.   \nCastleman,B.L.,& Page,L.C.(2015). Summer nudging: Can personalized text messages and peer mentor outreach increase college goingamong low-income high school graduates?JournalofEconomic BehaviorandOrganization,l15,144-160.   \nChenE.,& Miller,G.E. (2012).“Shift-and-Persist”strategies: Whybeing low socioeconomic status isn'talways badfor health. Perspectives on Psychological Science,7(2),135-158.   \nChen,X.,Li,M.,&Wei,Q. (2O19). Agencyand communion fromthe perspectiveofself versus others: The moderatingrole of social class.Frontiers in Psychology.10:2867. doi: 10.3389/fpsyg.2019.02867   \nChety,R.,Hendren,N,& Katz,L.F. (20l6).The effectsof exposuretobeter neighborhoodsonchildren: Newevidence from the moving to opportunity experiment. American Economic Review, 106 (4), 855-902.   \nClaro，S.，Paunesku，D.，& Dweck，C.S.(2016).Growth mindset tempers the effectsof poverty onacademic achievement.Proceedings ofthe National Academy ofSciences ofthe United StatesofAmerica,113(31),86648668.   \nDitmann, A.G.,& Stephens,N. M. (2017). Interventions aimedat closing the social class achievement gap:Changing individuals, structures,and construals. Current Opinion in Psychology,18,111-116.   \nFis,O.M. (23).Analternative.InO.M.Fiss,J.Cohen,J.Decker,&J.Rogers (Eds.),Awayout: America's ghettosnd the legacy ofracism (pp.28-44). Princeton, NJ: Princeton University Press.   \nFitzmaurice,C,len,C,rberR..Baregrd,L.a,A.rer,H,ghavi,.().Globaial ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "andnationalcancerincidene,mortality,yearsof lifelost,years lived withdisabilityanddisability-adjustedlife-earsfor 32 cancer groups,1990 to2015: A systematic analysis for the global burdenof disease study.JAMA Oncology,3(4),524- 548.   \nGrosma,I,&Varum,M.E.(20).Social classculture,andcognitio.Social PsychologicaandPersonality Science, 2(1), 8--89.   \nGoyer,J.P.,GarciaJ.urdievaughs,V,ining,K..Cook,J.E.eeves,S.L&CohenG.L.().el-ati facilitates minoritymiddle schooers'progress alongcollege trajectories.Proceedings ofthe National Academyof Sciences of the United States ofAmerica,114(29),7594-7599.   \nHerrmann,S.D.,& Varnum,M.E.(2o18).Integratedsocialclassidentitiesimproveacademic performance,well-eing,and workplace satisfaction. Journal of Cross-Cultural Psychology, 49(4), 635-663.   \nHsin,A.,& Xie,Y. (2O17).Life-coursechangesinthemediationofcognitiveandnon-cognitiveskilsforparentaleectson children's academic achievement. Social Science Research, 63,150-165.   \nJack,A.A. (2016).(No) Harm in asking class,acquired cultural capital，and academic engagement at an elite University. Sociology of Education,89(1),1-19.   \nJohnstone，B.M. (1996).The efectiveness of drug abuse resistance education (project dare):5-year follow-up results.Preventive Medicine,25(3),307-318.   \nKagitcibasi,C.(2oo5).Autonomyand relatednessin cultural context: Implications forselfand family.JournalofCrosCultural Psychology, 36(4), 403-422.   \nKraus,M.W.,Callaghan,B.,&Ondish,P. (2019).Social classas culture.InS.Kitayama&D.Cohen (eds.) Handbookof Cultural Psychology (Vol.2, pp.721-747). New York, NY: Guilford.   \nKraus,M.W.,&Keltner,D. ().Signs ofsocioeconomic status: Athi-slicingapproach,Psychological Scene,20(1), 99-106.   \nKraus,M.W.,&Keler,D.(20l3).Socialclassrank,essentialism,ndpunitivejudgment.JournalofPersonalitydcial Psychology,105(2),247-261.   \nKraus,M.W.,Piff,P.K.,Mendozadenton,R.,Rheinschmidt,M.L.,&Keltner,D.(20l2).Social classsolipsism,and contextualism: How the rich are different from the poor. Psychological Review, 119(3),546-572.   \nKraus,M.W.,Park,J.W.,&Tan,J.J.X. (2Ol7).Signsofsocialclass:Theexperienceofeconomicinequalityineveryday life.Perspectives on Psychological Science,12(3),422-435.   \nKusserow,A. (2004). American Individualisms: Child Rearing and Social Classin Three Neighborhoods. New York, NY: Palgrave Macmillan. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Lareau,A. (2oo3). Unequal Childhoods: Class,Race,andFamilyLife.Berkeley,CA: UniversityofCaliforiaPress. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Levine,C.S.(2017).Psychological bufers againstpoor health:Theroleofthe socioeconomic environment. Current Opinion in Psychology,18,137-140. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lu, Q.,You,J.,Man,J.,Loh,A.,&Young,L. (2O14).Evaluatingacuturallytailored peer-mentoring andeducatiopilot intervention among Chinese breast cancer survivors using a mixed-methods approach. Oncology Nursing Forum, 41(6), 629-637.   \nMacLeod, J. (2009). Ain't No Makin'It: Aspirations and Attainment in a Low-Income Neighborhood ( $3 ^ { \\mathrm { r d } }$ ed.). Boulder, CO: Westview Press.   \nMarkus,H.R.,&Kitayama,S.(1991).Cultureand theself:Implicationsforcognition,emotio,and motivation.Psychological Review, 98(2),224-253.   \nMarkus,H.R,&Kitayama,S.(2oo3).Modelsofagency:Socioculturaldiversity intheconstructionofaction.InV.MurphBerman & J. Berman (Eds.), Nebraska Symposium on Motivation: Vol.49.Cross-cultural differences in perspectives on self(pp. 1-57). Lincoln: University of Nebraska Press.   \nMarkus,H.R.,& Kitayama,S.(O10). Cultures and selves: Acycle of mutual constitution. Perspectives on Psychological Science, 5(4), 420-430.   \nMarkus,H.R.& Stephens,N.M. (2Ol7). Inequalityand social clas: The psychological and behavioral consequences of inequality and social class: A theoretical integration. Current Opinion in Psychology, 18,4-12.   \nMiler,P.J.,Cho, G.E.,&Bracey,J.R.(20o5).Working-class children'sexperience through the prism of personal storytelling. Human Development. 48(3),115-135.   \nMiyamoto,Y.,Yoo,J.,Levine,C.S.,Park,J.,Boylan,J.M,Sims,T.,..&CoeC.L. (21).Cultureandsocialhierarhy: Self-and other-oriented correlates of socioeconomic statusacross cultures.Journal of Personality and Social Psychology, 115(3), 42--455.   \nMolden,D.C.,&Dweck, C.S.(2006).Finding“meaning” in psychology: Alaytheories approach to self-regulation,social perception, and social development. American Psychologist, 61(3),192-203.   \nMorling,B.,Kitayama,S.,&Miyamoto,Y.(2oo2). Culturalpractices emphasize influenceintheUnitedStatesandadjustment in Japan. Personality and Social Psychology Bulletin,28(3),311-323.   \nPhilips,L.T.,Stephens,N.M.,Townsend,S.M,& Goudeau,S.(O2O). Accessisnot enough: Cultural mismatchpersists to limit first-generation students’opportunities forachievementthroughoutcollge.Journal of Personalityand Social Psychology. Advance online publication.   \nPif,P. K.,Kraus,M.W.,Cote,S.,Cheng,B.H,&Keltner,D.(l).HvingLe,givingmore:Teinfuenceofsocialclas on prosocial behavior. Journal of Personality and Social Psychology, 99(5),771-784.   \nRezaei,S.,Matin,B.K.,&Rad,E.H. (2015).Socioeconomic determinantsof infant mortality in Iranianchildren: A longitudinal econometricsanalysis.International Journal of Pediatrics,3(1),375-380.   \nSchmit,S.A.,Mlelland,M.M.,TomineyS.L.,&Acock,A.C.(2O15).Strengtheningschoolreadinessforeadstart children: Evaluation of aself-regulation intervention.Early Childhood Research Quarterly,30 (partA),20-31.   \nSchooler, C. (20o7). Culture and social structure: The relevance ofsocial structure to cultural psychology. In S.Kitayama & D. Cohen (Eds.), Handbook of Cultural Psychology (pp.370-388). New York,NY: Guilford Press.   \nStephens,N.M.Fryberg,S.A.,Markus,H.R.,Johnson,C.S.,&Covarrubias,R.(2012).Unseen disadvantage:How American universities'focuson independence undermines the academicperformance of first-generation college students. Journal of Personality and Social Psychology,102(6),1178-1197.   \nStephens,N.M.,Hamedani,M.G.,& Destin,M. (2014). Closing thesocial-classachievementgap: Adiference-education intervention improves first-generation students’academic performance and all students’collge transition.Psychological Science, 25(4), 943-953.   \nStephens,N.M.,Hamedani,M.G.,&Townsend,S.S.M.(2O19).Diference maters:Teachingstudentsacontextualtheory of difference can help them succeed. Perspectives on Psychological Science,14(2),156-174.   \nStephens,N.M.,Markus,H.R.,&Fryberg,S.A. (20l2).Reducing inequalityby appying a socioculturalself model of behavior. Psychological Review, 119(4),723-744.   \nStephens,N.M.,Markus,H.R.,&Phillps,L.T.(o14).Socialclass culturecycles: Howthree gatewaycontextsshapeselves and fuel inequality. Annual Review of Psychology, 65(1), 611-634.   \nStephens,N.M.,Markus,H.R.,&Townsend,S.S.(2o7).Choice asanact ofmeaning: Thecase ofsocialclass.Journalof Personality and Social Psychology, 93(5), 814-830.   \nStephens,N.M.,&Townsend,S.S. (2013). Rank is notenough: Whyweneedasocioculturalperspectivetounderstandsocial class. Psychological Inquiry, 24(2),126-130.   \nStephens,N.M.,Towsend,S..M.,&itman,A.G.(2l9).Social-classdisparitiesinghereucatioandrosoal workplaces: The role of cultural mismatch. Current Directions in Psychological Science,28(1),67-73.   \nStephens,N..,Townsend,S.S.,Hamedani,.G.,Destin,.P.,&anzoV.. (1).Adierence-educationinttio equips first-generationcollge students tothrive inthefaceofstressulcollge situations.PsychologicalScience,26(10), 1556-1566.   \nTao,V.,& Hong,Y. (2014).Whenacademicachievement isanobligation:Perspectives from social-orientedachievement motivation. Journal ofCross-Cultural Psychology, 45(1),110-136.   \nTownsend,S.S.M.,Eliezer,D.,Major,B.,&Mendes,W.B.(2014).Influencing the worldversus adjusting toconstraints: Social classmoderates responses todiscrimination.Social Psychological and Personality cience,5(2),226-234.   \nTownsend,S.S.,Stephens,N.M.,Smalets,S.,&Hamedani,M.G.(019).Empowermentthrough diference: Anonline diference-education intervention closes the social class achievement gap.Personalityand Social Psychology Buletin, 45(7),1068-1083.   \nTriandis,H.C.(1989).Theselfandsocial behaviorindiffering cultural contexts.Psychological Review96(3),506-520.   \nVatalaro,A.，Culp,M.D., Hahs-Vaughn,D.L.，& Barnes,A.C.(2018). A quasi-experiment examining expressive and receptive vocabulary knowledge of preschool head start children using mobile media apps.Early Childhood Education Journal, 46(4),451-466.   \nWeininger,E.B.,&Lareau,A.(2Oo9).Paradoxical pathways: Anethnographic extensionofKohn's findingsonclassand childrearing. Journal of Marriage and Family, 71(3),680-695.   \nYang,F.,&Pang,J.S.(20l8).Socioeconomic status,frailty,and subjective wellbeing: Amoderated mediationanalysis in elderly Chinese. Journal of Health Psychology, 23(7), 961-970. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Understanding Social Class Disparities in Health and Education from a Sociocultural Perspective ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DENG Ziqian; CHEN Xiaochen; WEI Qingwang (Department ofPsychology,Renmin University of China,Beijing 10o872,China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract:How to reduce social class disparities in health and education and improve social equality has drawn widely concerns across the world. Among current approaches in social class psychology, the sociocultural perspective emphasizes on how social class contexts shape the self and corresponding patterns of thinking,feeling,and acting. Starting from the class-specific self, sociocultural perspective further provides systematic explanations on how social class culture is produced and maintained (i.e., social class cycles),as well as diffrence education as a means to improve the adaptation of the lowerclass.These theoretical perspectives incorporate and extend previous key tenets of the individual and structural models of behavior. In addition,the sociocultural perspective provides new tools for developing social-psychological interventions which aim at reducing social class disparities in health and education. Future research from the sociocultural perspective could focus on sinicization of the theory and corresponding interventions,integration with other approaches in social class psychology and social justice perspective, and examining the effects of social mobility and cultural change on social class psychology. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words: social class; sociocultural perspective; health; education ",
+        "page_idx": 19
+    }
+]

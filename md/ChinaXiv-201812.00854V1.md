@@ -1,0 +1,256 @@
+# 一起500kV电容式电压互感器的故障处理及原因分析
+
+顾用地男1992年生，助理工程师，从事特高压变电站运维检修工作。
+
+顾用地 李显鹏董新丰 彭晨光（国网浙江省电力有限公司检修分公司 杭州310000）
+
+摘要：针对一起 $5 0 0 ~ \mathrm { k V }$ 线路电容式电压互感器（CVT）二次电压异常的故障，通过现场试验和解体检查，查明造成CVT二次电压异常的原因是由于CVT中补偿电抗器两端并联的保护避雷器故障，绝缘下降所致。通过相量定性分析了CVT中的保护避雷器故障后CVT二次输出电压数值偏小、相位超前的原因；并结合设备试验数据，定量分析了二次输出电压随负载的变化情况。
+
+关键词：电容式电压互感器 保护避雷器 相量定性分析二次输出电压中图分类号：TM451
+
+# Treatment and Analysis of $\mathbf { 5 0 0 k V }$ Capacitor Voltage TransformerFault
+
+![](images/42b1963fe30a74302e1072db04674f56b8f82a53462777bd4bb869636429025a.jpg)  
+收稿日期：2018-08-27
+
+Gu Yongdi Li Xianpeng Dong Xinfeng Peng Chenguang (Maintenance Company of State Grid Zhejiang Electrical Power Corporation Hangzhou310000China ）
+
+![](images/ac63ba14e87871826d92bf1104f6863a7f61bd39e4b6bddb54fe93538c190a3e.jpg)
+
+李显鹏男 1984年生，高级工程师，从事特高压变电站运维检修工作。
+
+Abstract: As for the abnormality of secondary voltage of $5 0 0 \mathrm { k V }$ capacitor voltage transformer(CVT) in operation, it is checked clearly by way of site inspection and disassembly at factory that the cause for such abnormality is due to the protection arrester with both ends of the compensation reactor in CVT fault and insulation strength reduction of arrester. The reasons that the secondary voltage value of CVT is small and the phase lead in CVT are qualitatively analyzed by the phasor. Combined with the test data of the equipment, the secondary output voltage of fault CVT with load is quantitatively analyzed.
+
+Keywords: Capacitor voltage transformer, protection arrester, qualitative analysis of phasor, secondary output voltage
+
+# 1 引言
+
+目前在110kV及以上的高压电力系统中，通常采用电容式电压互感器（CapacitorVoltageTransformer,CVT）作为电压、功率测量、继电保护及载波通信使用[1]。与电磁式电压互感器相比，电容式电压互感器具有绝缘结构合理、造价低及运行可靠性高等优点，因此在超、特高压系统中，电容式电压互感器被广泛应用。
+
+电容式电压互感器主要由电容分压器与电磁单元组成。电磁单元包括中间变压器、补偿电抗器及其保护装置（通常采用氧化锌避雷器）和阻尼器等组成。运行经验表明电容式电压互感器常见的故障有电容单元或电磁单元损坏、补偿电抗器两端保护用避雷器故障、阻尼器中速饱和电抗器参数不当、电容分压器末屏接地不良及二次接线松动等。这些故障将导致电容式电压互感器二次电压输出异常，对保护及测量带来严重影响，威胁电网的安全运行[2-4]。
+
+电网在运行中，由于谐振过电压、长时间受潮老化等原因导致电磁单元中避雷器故障，进而导致二次电压异常的案例[3-5]时有发生。本文以某$5 0 0 \mathrm { k V }$ 线路CVT二次电压异常为例进行详细分析。
+
+# 2 故障经过
+
+2017年12月26日21时16分，某站在对一条$5 0 0 \mathrm { k V }$ 线路检修后恢复运行。线路带电之后，监控显示两套线路保护装置均为告警信号，检查发现线路三相电压中B相电压明显偏低，且相位比正常状态超前约 $6 7 ^ { \circ }$ 。监控和保护装置显示的线路三相电压见表1。
+
+# 表1线路三相电压
+
+Tab.1The 3-phase voltage of the line   
+
+<html><body><table><tr><td>电压</td><td>A相</td><td>B相</td><td>C相</td></tr><tr><td>监控设备/kV</td><td>294.95</td><td>90.85</td><td>294.63</td></tr><tr><td>保护装置/V</td><td>59.00∠0°</td><td>19.13∠ -53°</td><td>59.00 ∠120°</td></tr></table></body></html>
+
+通过对CVT本体红外测温发现，线路B相电磁单元为 $5 3 ^ { \circ } \mathrm { C }$ ，而A、C同位置温度仅为 $5 \mathrm { { ^ circ C } }$ ，B相温度明显高于其他两相，CVT红外测温情况如图1所示。
+
+![](images/266a54a442ffad48be89468ca30cdd7c461acd6c6db6c5e82ca691e4346c7da6.jpg)  
+图1CVTB相红外测温情况 Fig.1Infrared temperature measurement of the B-phase CVT
+
+括二次接线盒在内进行了详细的检查，检查了中间变压器低压侧接地情况、末屏接地、二次绕组保护避雷器、二次端子紧固情况、CVT试验小刀开关位置状态、CVT油位等，均未发现明显异常。
+
+二次检修人员对线路CVT端子箱进行了检查，CVT端子箱内无受潮、凝露现象，CVT各二次绕组接地良好，二次线接线情况良好，通压试验无异常，测量各二次绕组绝缘电阻正常，见表2。
+
+表2CVT各二次绕组对地绝缘电阻  
+Tab.2The insulation resistance of CVT secondary coil   
+
+<html><body><table><tr><td>CVT二次绕组</td><td>第一绕组</td><td>第二绕组</td><td>第三绕组</td><td>开口三角形绕组</td></tr><tr><td>绝缘电阻/MΩ</td><td>≥2000</td><td>一</td><td>≥2000</td><td>≥2000</td></tr><tr><td>是否合格</td><td>合格</td><td>一</td><td>合格</td><td>合格</td></tr></table></body></html>
+
+注：CVT第二绕组未接至CVT端子箱。
+
+# 3.2诊断性试验
+
+本次异常CVT型号为 $\mathrm { W V B 5 0 0 - 5 H }$ ，其原理结构如图2所示。额定电压比为 $5 0 0 / \sqrt { 3 } \ : \ 0 . 1 / \sqrt { 3 } \ :$ $0 . 1 / \sqrt { 3 } ~ : ~ 0 . 1 / \sqrt { 3 } ~ : ~ 0 . 1$ ，投运日期为2012年6月1日。为进一步查明故障原因，现场试验人员对异常
+
+# 3 故障排查
+
+# 3.1一、二次检查情况
+
+停电后，现场一次检修人员对线路CVTB相包的B相CVT进行了诊断性试验。其中油化实验数据见表3。
+
+![](images/876b291c693dda224708da8a44f49a017c43c27fc1eef7bcabd8b3232e7a26bb.jpg)  
+图2 （20 $5 0 0 \mathrm { k V }$ CVT原理结构图  
+Fig.2The principle structure chart of $5 0 0 \mathrm { k V }$ CVT
+
+表3CVT油化试验数据Tab.3 Oil test data of CVT  
+
+<html><body><table><tr><td>组分名称</td><td>含量/(uL/L)</td></tr><tr><td>H</td><td>28.92</td></tr><tr><td>CH4</td><td>4.14</td></tr><tr><td>C2H6</td><td>1.53</td></tr><tr><td>CH4</td><td>1.16</td></tr><tr><td>CH</td><td>0</td></tr><tr><td>总烃</td><td>6.83</td></tr><tr><td>CO</td><td>109.39</td></tr><tr><td>CO2</td><td>485.02</td></tr></table></body></html>
+
+由表3中的油化数据可知，油中乙炔含量为0,总烃含量仅为 $6 . 8 3 \mu \mathrm { L } / \mathrm { L }$ ， $\mathrm { H } _ { 2 }$ 为 $2 8 . 9 2 \mu \mathrm { L } / \mathrm { L }$ ，上述各气体成分含量均未超过DL/T722—2004《变压器油中溶解气体分析和判断导则》[中的规定值。利用DL/T722—2004中的“三比值”法对油中特征气体进行分析，结果见表4。
+
+表4“三比值”法结果  
+
+<html><body><table><tr><td>项目</td><td>C2H/C2H4</td><td>CH4/H2</td><td>C2H4/C2H6</td></tr><tr><td>比值</td><td>0</td><td>0.143</td><td>0.758</td></tr><tr><td>对应编码</td><td>0</td><td>0</td><td>0</td></tr><tr><td>故障类型</td><td colspan="3">低温过热（低于150℃）</td></tr></table></body></html>
+
+根据表4的“三比值”法，可知该电容式电压互感器电磁单元内部存在低温过热（低于 $1 5 0 \mathrm { ^ \circ C }$ ）故障，与现场红外测温结果一致。
+
+对异常的B相CVT电容分压器的绝缘电阻、介质损耗及电容量进行试验，试验数据见表5。
+
+Tab.4The result of the "3R"   
+表5CVT元件试验数据  
+Tab.5The component test data of CVT   
+
+<html><body><table><tr><td>电容</td><td>主绝缘电阻 /MΩ</td><td>tg8(%)</td><td>C(实测)C(初始) /pF</td><td>/pF</td><td>△Cx(%)</td><td>C（总） /pF</td></tr><tr><td>C13</td><td>40000</td><td>0.064</td><td>15 430</td><td>15 480</td><td>-0.32</td><td rowspan="4"></td></tr><tr><td>C12</td><td>40000</td><td>0.076</td><td>15 470</td><td>15 440</td><td>0.19</td></tr><tr><td>C1</td><td>40 000</td><td>0.067</td><td>17 740</td><td>17 700</td><td>0.23</td></tr><tr><td>C</td><td>10000</td><td>0.106</td><td>119 000</td><td>118 900</td><td>0.08</td></tr></table></body></html>
+
+从表5可以看出，CVT各部分主绝缘正常，电容量与初始值比较未见异常，介质损耗值未超过电力设备预防性试验规程，电容分压器运行状态良好。
+
+对电磁单元中间变压器进行直流电阻测试，二次绕组的直流电阻测试结果见表6。
+
+# 表6CVT二次绕组直流电阻
+
+Tab.6The DC-resistance of CVT secondary coil   
+
+<html><body><table><tr><td>二次绕组</td><td>la-1n</td><td>2a-2n</td><td>3a-3n</td><td>da-dn</td></tr><tr><td>直流电阻/mΩ</td><td>25.07</td><td>46.93</td><td>51.78</td><td>157.6</td></tr></table></body></html>
+
+从表6可以看出，中间变压器二次绕组直流电阻数值正常，二次绕组不存在断线情况。
+
+对电磁单元中间变压器进行相关绝缘电阻、交流耐压测试，测试结果见表7。
+
+表7中间变压器试验数据  
+Tab.7Test data of the intermediate transformer   
+
+<html><body><table><tr><td>保护避雷器</td><td colspan="2">二次绕组</td><td>N点</td></tr><tr><td>绝缘电阻/MΩ</td><td>绝缘电阻/MΩ</td><td>交流耐压</td><td>交流耐压</td></tr><tr><td>0.1</td><td>8000</td><td>2kV/1min</td><td>2kV/1min</td></tr></table></body></html>
+
+由表7可知，中间变压器二次绕组绝缘电阻及交流耐压试验情况正常，补偿电抗器两端并联的氧化锌避雷器绝缘电阻仅为0.1MΩ，不符合技术要求。
+
+根据以上排查及试验结果，初步断定本次线路CVTB相电压异常的原因可能是补偿电抗器两端并联的保护避雷器故障导致。为进一步明确具体原因，现场对故障CVT进行了更换，并将故障CVT进行返厂解体检查，更换后线路重新投入运行，线路二次电压三相显示正常。
+
+# 4 解体检查
+
+为了最终确定CVT的故障原因，在日新电机（无锡）厂内对其进行解体检查，电磁单元的内部结构如图3所示。对中间变压器进行感应耐压试验，在 $1 5 0 \mathrm { { H z } }$ 下施加 $1 2 . 5 \mathrm { k V }$ 试验电压，结果正常。拆开电磁单元封板，检查发现，电磁单元内部绝缘油油色透明清澈，无任何悬浮杂质存在，排油后检查电磁单元内部接线完好，未发现放电、发热痕迹，测量补偿电抗器直流电阻为 $2 9 8 \Omega$ ，符合厂家设计要求。
+
+本产品补偿电抗器两端并联的保护避雷器在电磁单元外部，放置在二次接线盒内，如图4a所示，为西安高压电瓷厂生产的HYW-2.0/4.5型保护避雷器，额定电压2kV，持续运行电压 $1 . 6 \mathrm { k V }$ 。
+
+采用 $1 ~ 0 0 0 \mathrm { V }$ 电压测量避雷器绝缘电阻为 $0 \mathrm { M } \Omega$ ，万用表测量为 $\textrm { 1 } 4 6 1 \Omega$ 。对保护避雷器进行解体检查，发现阀片压紧弹簧歪斜，避雷器电阻阀片中部有一处放电痕迹，电阻阀片侧面、避雷器环氧绝缘筒内壁发生沿面放电并烧黑，如图 $4 \mathrm { b } \sim 4 \mathrm { d }$ 所示。
+
+![](images/df4bf5f5b5fffaf9dd6a34f0989795764366514614b31b28256307fec18fb1d0.jpg)  
+图3故障CVT电磁单元内部结构实物图
+
+![](images/692dddb60e1f8f1c22fd6dac1a5e14228409ca2a1443d20aae98c7b444b073a7.jpg)  
+Fig.3Internal structure of the fault CVT electromagnetic unit   
+图4保护避雷器解体情况  
+Fig.4Disintegration inspection of the protection arrester
+
+经过上述故障排查、返厂解体检查，可以基本断定造成本次线路CVT二次电压异常的原因是CVT电磁单元中补偿电抗器两端并联的保护用避雷器内部阀片损坏，绝缘降低导致。
+
+# 5 故障原因分析
+
+电容式电压互感器回路中有电容和非线性电感（中间变压器的励磁电感 $L _ { \mathrm { m } }$ )，当一次合闸充电时，过渡过程可能产生铁磁谐振，谐振产生的过电压超过补偿电抗器两端并联的保护避雷器的动作电压时，避雷器动作，切除电抗器，破坏谐振回路参数，从而消除内部的铁磁谐振[7-9]。下面以本次线路CVT二次电压异常为例，定性和定量分析避雷器故障后导致二次电压数值下降、相位超前的原因。
+
+# 5.1CVT工作原理
+
+CVT利用阻抗分压原理，电容分压电路如图5所示。
+
+![](images/9f5ef564ba3108ed145be5058e5612a35686bc455e5364b956258f6c5f53185b.jpg)  
+图5 CVT原理图  
+Fig.5The circuit diagram of CVT
+
+设电容器 $C _ { 1 }$ 、 $C _ { 2 }$ 和补偿电抗器 $L$ 的阻抗为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle Z _ { C 1 } = r _ { C 1 } + \frac { 1 } { \mathrm { j } \omega C _ { 1 } } } \\ { \displaystyle Z _ { C 2 } = r _ { C 2 } + \frac { 1 } { \mathrm { j } \omega C _ { 2 } } } \\ { \displaystyle Z _ { L } = r _ { L } + \mathrm { j } \omega L } \end{array} \right.
+$$
+
+式中， $r _ { C 1 }$ ， $r _ { C 2 }$ 为电容器 $C _ { 1 }$ 和 $C _ { 2 }$ 有功损耗的等效电阻； $C _ { 1 }$ 、 $C _ { 2 }$ 分别为高压电容和中压电容的电容量；$r _ { L }$ 为补偿电抗器线圈的电阻值； $L$ 为补偿电抗器电感值。
+
+由电路定律可得
+
+$$
+\begin{array} { l } { \displaystyle \int \dot { U } _ { 1 } = \dot { U } _ { 2 } + Z _ { C 1 } ( \dot { I } + \dot { I } _ { C 2 } ) + Z _ { L } \dot { I } } \\ { \displaystyle \big [ \dot { U } _ { 2 } = Z _ { C 2 } \dot { I } _ { C 2 } - Z _ { L } \dot { I } } \end{array}
+$$
+
+由式（2）可得
+
+$$
+\dot { U _ { 2 } } = \frac { Z _ { c 2 } } { Z _ { c 1 } + Z _ { c 2 } } \dot { U _ { 1 } } - \left( \frac { Z _ { c 1 } Z _ { c 2 } } { Z _ { c 1 } + Z _ { c 2 } } + Z _ { L } \right) \dot { I }
+$$
+
+其中， $Z _ { C 2 } / ( Z _ { C 1 } + Z _ { C 2 } ) \approx C _ { 1 } / ( C _ { 1 } + C _ { 2 } ) = K$ 为CVT的降压比； $Z _ { C 1 } Z _ { C 2 } / ( Z _ { C 1 } + Z _ { C 2 } ) = Z _ { C } = r _ { C } + 1 / ( \mathrm { j } \omega C )$ 为电容分压器的等值阻抗， $r _ { C }$ 、 $C$ 为等值电阻和等值电容，且$C = C _ { 1 } + C _ { 2 } ,$ 0
+
+式（3）可进一步写为
+
+$$
+\dot { U } _ { { \scriptscriptstyle 2 } } = K \dot { U } _ { { \scriptscriptstyle 1 } } - ( Z _ { { \scriptscriptstyle C } } + Z _ { { \scriptscriptstyle L } } ) \dot { I }
+$$
+
+由式（4）可得CVT的等效电路图及相量图如图6所示。当 $C _ { 1 }$ 和 $C _ { 2 }$ 固定时（即压降比 $K$ 一定），$\dot { U } _ { 2 }$ 将随 $\dot { I }$ 的变化而变化，使电压比误差无法满足精度要求，所以需要配置补偿电抗器，当参数配合恰当时， $\omega L _ { \mathrm { T } } = 1 / \omega C$ ， $\dot { U } _ { 2 }$ 就只受数值很小的电阻 $\boldsymbol { r } _ { C } + \boldsymbol { r } _ { L }$ 压降的影响，这里 $L _ { \mathrm { T } }$ 为补偿电抗器电感 $L$ 和中间变压器漏电感 $L _ { \mathrm { k } }$ 之和。由式（4）可得等效电路如图6a 所示，其中 $Z$ 为折算至一次侧的等效负载阻抗。
+
+电容分压器的输出端接中间变压器，其等效电路如图6b所示，CVT的中间变压器的励磁电流很小，几乎可以忽略，即认为中间变压器励磁阻抗接近无穷大，进一步简化等效电路如图6c所示，其中$X _ { C } = 1 / ( \mathrm { j } \omega C ) , X _ { \mathrm { k } } = \mathrm { j } \omega ( L + L _ { \mathrm { k T } } ) , r _ { \mathrm { k } } = r _ { C } + r _ { L } + r _ { \mathrm { k T } }$ ， $L _ { \mathrm { k T } }$ 和$r _ { \mathrm { k T } }$ 为中间变压器的短路电感和短路电阻，对应的电压平衡方程式为
+
+$$
+\dot { U _ { 2 } } = K \dot { U _ { 1 } } - \big [ r _ { \mathrm { k } } + \mathrm { j } ( X _ { \mathrm { k } } + X _ { c } ) \big ] \dot { I }
+$$
+
+根据式（5）可对电容式电压互感器进行理论分析和相关计算。其对应的相量图如图6d所示。
+
+![](images/a165991d7ccb889ed8a682940526b0fc54a307fb652df92e6ea2890a963490ed.jpg)  
+图6CVT等效电路及相量图  
+Fig.6The equivalent circuit and phasor diagram of CVT
+
+在补偿电抗器的工程设计上，通常使 $X _ { \mathrm { k } } = X _ { C }$ 以减小电压比误差，相位误差主要来源于电压互感器负载阻抗 $Z$ 的功率因数， $\cos \varphi = 1$ 时， $\dot { U } _ { 2 }$ 与 $\dot { U } _ { 1 }$ 同相位，另外由于电阻值 $r _ { \mathrm { k } }$ 很小，正常工况下，基本可以认为 $\dot { U } _ { 2 } \approx K \dot { U } _ { 1 }$ 。
+
+# 5.2故障后相量分析
+
+本次补偿电抗器两端并联的避雷器故障后，绝缘电阻为0，失去保护作用，万用表测得避雷器电阻为 $\textrm { 1 } 4 6 1 \Omega$ ，远小于补偿电抗器阻抗 $2 1 . 5 \mathrm { k } \Omega$ ，两者并联后近似等效为电阻 $r _ { \mathrm { { M } } } = 1 ~ 4 6 1 \Omega$ ，电容器等效电阻（约 $2 7 \Omega$ ）和中间变压器短路电阻数值很小可忽略，等效电路如图7a所示，其中 $X _ { \mathrm { k T } } = \mathrm { j } \omega L _ { \mathrm { k T } }$ 远小于 $X _ { C }$ ，此时对应的电压平衡方程式为
+
+$$
+{ \dot { U } } _ { 2 } = K { \dot { U } } _ { 1 } - [ r _ { L } + r _ { \mathrm { { M } } } - \mathbf { j } ( X _ { _ { C } } - X _ { _ { \mathrm { k T } } } ) ] { \dot { I } }
+$$
+
+由式（6）可知，故障后CVT等效电路呈容性，电流i超前电压 $\dot { U } _ { 1 }$ ，超前的角度取决于等效负载的大小及功率因数，对应的相量图如图7b所示，显然负载压降数值 $U _ { 2 }$ 也会小于 $K U _ { 1 }$ ，即会出现本次案例中的异常线路CVT二次电压数值下降、相位超前的情况。
+
+![](images/4519bfcb98a5c08530908b3c184183eccf8b0ac2fc03f2c67f83681f2eaf497f.jpg)  
+图7故障CVT的等效电路及相量图  
+Fig.7The equivalent circuit and phasor diagram of the fault CVT
+
+# 5.3故障后定量分析
+
+根据上述故障后的CVT等效电路，忽略和结合本文案例各项试验数据，进行定量计算分析，表8给出了本次计算用参数。
+
+表8计算用各参数  
+Tab.8The calculate parameters   
+
+<html><body><table><tr><td>参数</td><td>C/pF</td><td>C2/pF</td><td>X/Ω</td><td>K</td></tr><tr><td>数值</td><td>5382</td><td>119 000</td><td>25591</td><td>0.0433</td></tr><tr><td>参数</td><td>r/Ω</td><td>rm/Ω</td><td>XkT/Ω</td><td>U/kV</td></tr><tr><td>数值</td><td>296</td><td>1 461</td><td>5090</td><td>295∠-120°</td></tr></table></body></html>
+
+设中间变压器二次输出电压为 $\dot { u } _ { 2 }$ ，则根据图7a 可得
+
+$$
+\left\{ \begin{array} { l } { \dot { u } _ { \mathrm { 2 } } = \dot { U } / k _ { \mathrm { T } } } \\ { \dot { I } = \frac { K \dot { U } _ { \mathrm { 1 } } } { r _ { \mathrm { { } } } + r _ { \mathrm { { M } } } + Z - \mathrm { { j } } ( X _ { \mathrm { { c } } } - X _ { \mathrm { { M } } } ) } } \end{array} \right.
+$$
+
+式（7）中 $k _ { \mathrm { T } }$ 为中间变压器的电压比，取值为 218，根据表8中各参数，结合式（6）和式（7）得
+
+$$
+{ \dot { u } } _ { 2 } = \frac { { \dot { U } } _ { 2 } } { k _ { \mathrm { T } } } = \frac { Z } { 1 7 5 7 - { \mathrm { j } } 2 0 5 0 1 + Z } { 5 9 \angle - 1 2 0 ^ { \circ } }
+$$
+
+选取不同的等效负载阻抗，利用Matlab软件进行数值仿真计算，计算结果如图8所示。
+
+![](images/9fe3d0046367ff46252a46a7f0526cfbc38d04140d69a952b99724c0061b49c5.jpg)  
+图8 二次电压计算结果
+
+Fig.8The calculation of secondary voltage
+
+由图8可以看出，二次输出电压幅值 $u _ { 2 }$ 随着等效负载阻抗 $Z$ 的增大而增大，且二次输出电压 $u _ { 2 }$ 的相位会超前正常的角度 $( - 1 2 0 ^ { \circ } )$ ，等效负载阻抗越小，二次输出电压 $u _ { 2 }$ 的相位超前角越大；等效负载阻抗的功率因数越大，二次输出电压幅值 $u _ { 2 }$ 越小，$u _ { 2 }$ 的相位超前角也越小（与正常角度 $- 1 2 0 ^ { \circ }$ 比较）。
+
+将现场检查的二次电压 $1 9 . 1 3 \angle - 5 3 ^ { \circ }$ 代入式(8），可得 $Z = 7 \ 2 2 9 \angle 0 . 7 7 ^ { \circ } \Omega$ ，即等效负载 $Z$ 为$7 ~ 2 2 9 \angle 0 . 7 7 ^ { \circ } \Omega$ 时，将会出现本次案例中二次电压异常情况。
+
+# 6 结束语
+
+本文根据一起 $5 0 0 \mathrm { k V }$ CVT避雷器的故障处理及原因分析，研究了CVT补偿电抗器两端并联的保护避雷器故障，导致互感器二次输出电压异常的原因，得出以下结论：
+
+(1）本次CVT二次输出电压异常的原因为CVT电磁单元中补偿电抗器两端并联的保护用避雷器内部阀片损坏，绝缘降低。（2）应加强对CVT保护用避雷器的运维措施，加强对运行中CVT二次电压的监测，发现异常及时汇报。
+
+(3）随着交直流混联电网的发展，电网中谐波成分明显复杂，对CVT的各参数配合提出了新的课题，需要组织专业技术人员，优化CVT各参数配置，抑制可能出现的铁磁谐振。（4）通过相量定性分析了CVT中的保护避雷器故障后，CVT二次输出电压数值偏小、相位超前的原因。(5）结合本次试验数据，定量分析了CVT中的保护避雷器故障后，CVT二次输出电压随负载的变化情况，并通过计算得出当等效负载Z为$7 2 2 9 \angle 0 . 7 7 ^ { \circ } \Omega$ 时，将会出现二次电压异常情况。
+
+# 参考文献
+
+[1] 刘胜军．电容式电压互感器的安全运行探讨[J].变压器，2012，49(1)：73-75.Liu Shengjun. Safe operation discussion of capacitorvoltage transformer[J]. Transformer,2012,49(1): 73-75.  
+[2] 洪乐洲，吴贻志，李靖翔．电容式电压互感器二次电压异常分析处理[J]．电力电容器与无功补偿.2012，33(3): 73-76.Hong Lezhou,Wu Yizhi, Li Jingxiang. Analysis andtreatment on abnormal secondary voltage of capacitorvoltage transformers[J].Power Capacitor & ReactivePower Compensation,2012,33(3): 73-76.  
+[3] 张广东，温定筠，胡春江，等．一起CVT故障的处理及分析[J]．电力电容器与无功补偿．2015,36(1): 64-66.Zhang Guangdong, Wen Dingjun, Hu Chunjiang,et al. Treatment and analysis of one CVT fault[J].Power Capacitor & Reactive Power Compensation,2015,36(1): 64-66.  
+[4] 易冉，梁育雄，黄启泰，等．一起 $2 2 0 ~ \mathrm { k V }$ CVT二次失压故障的分析与试验[J]．电力电容器与无功补偿，2014，35(5)：86-90.Yi Ran, Liang Yuxiong, Huang Qitai, et al. Faultanalysis and test on secondary voltage loss of $2 2 0 \mathrm { k V }$ capacitor voltage transforme[J]. Power Capacitor &Reactive Power Compensation, 2014,35(5): 86-90.  
+[5] 周月，朱建军．CVT保护用避雷器故障分析[J].河北电力技术，2007，26(2)：50-51.Zhou Yue, Zhu Jianjun. Fault analysis on surgearrester of CVT[J]. Hebei Elctric Power,2007,26(2):50-51.  
+[6] 中华人民共和国电力行业标准．DL/T722—2014变压器油中溶解气体分析和判断导则[S]．北京：国家能源局，2015.  
+[7] 郜洪亮，李琼林，余晓鹏．电容式电压互感器的谐波传递特性研究[J]．电网技术，2013，37(11)：3126-3129.Gao Hongliang,Li Qionglin, Yu Xiaopeng,et al.Harmonic transfer characteristic of capacitor voltagetransformer[J].Power System Technology, 2013,37(11): 3126-3129.  
+[8] 王黎明，方斌． $5 0 0 \mathrm { k V }$ 电容式电压互感器暂态特性仿真[J]．高电压技术，2012，38(9)：2389-2396.
+
+Wang Liming,Fang Bin,Simulations on transient characteristics of $5 0 0 \mathrm { k V }$ capacitor voltage transformer[J].High Voltage Engineering,2012, 38(9): 2389-2396. [9] 杜永平，曹新义，李友忠，等．电容式电压互感 器铁磁谐振的理论分析及处理[J]．安徽电气工程 职业技术学院学报，2008，13(3)：2-5. Du Yongping,Cao Xinyi, Li Yizhong,et al. The theoretical analysis and disposal of CVT in the ferroresonance[J].Journal of Anhui Electrical Engineering Professional Technique College, 2008, 13(3): 2-5.

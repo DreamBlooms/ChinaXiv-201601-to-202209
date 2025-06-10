@@ -1,0 +1,317 @@
+# 气候变化背景下玛纳斯河流域绿洲适宜规模研究
+
+王 静，刘海隆，王玲3
+
+（1石河子大学水利建筑工程学院,新疆石河子832000；2电子科技大学资源与环境学院,四川成都610054;3西华大学理学院土木建筑与环境学院,四川成都610039)
+
+摘要：近年来干旱区人工绿洲规模不断扩大造成水资源日益紧张，其可持续利用面临新的挑战。为宏观调控水资源提供依据。基于水热平衡原理，以干旱区典型绿洲玛纳斯河流域为研究区，采用2000、2005、2010年和2015年的水文气象资料和各年(6\~8月)TM遥感影像数据，分析了玛纳斯河流域在温室气体中、高排放（RCP4.5和RCP8.5）两种气候情景下，以及理想绿洲结构（AbdEI-Ghani)、现有绿洲结构两种绿洲分布情景下的绿洲适宜规模。结果显示：玛纳斯河流域2005、2010、2015年实际绿洲面积分别为2000年实际绿洲面积的 $109 \%$ ， $1 1 4 . 9 1 \%$ . $9 2 . 3 9 \%$ ;2005、2010、2015年适宜绿洲面积分别为2000年适宜绿洲面积的111. $39 \%$ ， $1 1 8 . 8 \%$ ， $1 1 5 . 3 9 \%$ 。2020 年和2030年的结果对比发现，相同气候情景下AbdEI-Ghani绿洲结构的适宜绿洲面积低于现状结构下的绿洲面积，表明如果按照现状趋势发展，绿洲表现出过度开发的趋势。
+
+关 键 词：气候变化；绿洲适宜规模；可持续发展；玛纳斯绿洲文章编号： 1000 -6060(2019)01-0113-08(0113\~0120)
+
+绿洲是一个复杂的耗散结构体系，也是干旱区最为精华的部分。绿洲的形成是以水文条件为主导的自然因素与社会经济因素共同作用的结果。近年来，因人类活动加剧，干旱区流域水量平衡、盐量平衡、生态平衡等方面均受到破坏，对绿洲结构和稳定构成了一定威胁。绿洲适宜规模成为学者关注的焦点。
+
+以水为核心来确定绿洲稳定性与规模是当前的研究热点。胡顺军等[1]根据水量平衡原理确定了渭干河平原适宜耕地规模。王忠静等[2]进一步利用"绿度”来评价绿洲的稳定性，并计算出了河西走廊的绿洲适宜规模。李啸虎等[3]从作物水足迹和水源类型角度建立了乌鲁木齐适宜耕地规模模型。张玉进等[4]从人类活动和气候变化作用的角度阐述了土地利用变化对绿洲稳定性的影响。总的来看，水热平衡原理是当前确定绿洲适宜规模的主要方法之-[5] C
+
+玛纳斯河流域(图1)是典型的干旱区内陆河流域,荒漠化与绿洲化此消彼长[6]。流域地处天山北麓,中下游光热资源充足,种植业发达[5],耕地面积已达 $2 6 . 7 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ 。但近年由于水资源的不合理分配,绿洲生态环境呈现恶化趋势[7]。本文拟选择玛纳斯河流域为研究区，结合水热平衡原理与绿洲分带理论，研究不同来水情景下适宜绿洲开发规模，进而为干旱区经济、生态环境的协调可持续发展提供依据。
+
+# 研究区概况
+
+玛纳斯河流域分布天山北坡中段和准噶尔盆地南部,地理位置在 $4 3 ^ { \circ } 4 5 ^ { \prime } \sim 4 5 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } , 8 5 ^ { \circ } 1 7 ^ { \prime } \sim 8 7 ^ { \circ } 3 ^ { \prime } \mathrm { E }$ 之间，海拔 $3 0 0 \sim 5 ~ 2 4 2 ~ \mathrm { m }$ ;平原区年均降水量 $1 1 0 \sim$ $2 0 0 ~ \mathrm { { m m } }$ ,多年平均气温约 $6 . 8 \mathrm { ~ \textdegree C }$ 。流域水资源短缺,2005 年人工绿洲引水量 $1 6 . 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,占多年平均径流量 $7 4 . 5 \%$ 。
+
+玛纳斯绿洲分布在流域中部山前平原地段，土地总面积 $3 4 ~ 0 3 2 . 6 ~ \mathrm { k m } ^ { 2 }$ 。截至2015年末，玛纳斯流域总人口为 $8 6 . 2 7 \times 1 0 ^ { 4 }$ 人（其中农业人口占 $6 4 \%$ ，非农人口占 $36 \%$ ）。流域内绿洲生产总值年均增长
+
+![](images/f330e3c9eef93329d8c0be2f4eae4420c89bc771204bedb084b482b2bc843119.jpg)  
+图1研究区高程分布图  
+Fig.1Digital elevation map（DEM）of the Manas River Basin
+
+$1 2 . 4 \%$ ,人均生产总值超过 $1 . 7 \ \times 1 0 ^ { 4 }$ 元,其中农业占有相当的比重，随着社会经济的发展，非农经济快速增长,绿洲内用水结构也发生了很大变化[8]。研究区为出山口（西门子水文站、肯斯瓦特水文站和八家户水文站)以北区域。
+
+# 2 数据与方法
+
+# 2.1 数据来源与处理
+
+因玛纳斯河流域内山区与荒漠区气象观测资料缺乏，所以在计算流域植物蒸腾量时，本文采用欧洲中期天气预报中心（EuropeanCentreforMedium-RangeWeatherForecasts,ECMWF）发布的ERA-In-terim数据集，该数据集空间分辨率为 $0 . 1 2 5 ^ { \circ } \times$ $0 . 1 2 5 ^ { \circ }$ ,时间分辨率为1个月，时间跨度为2000—2015年。
+
+用水量数据来源于新疆统计年鉴、中国县（市）社会经济统计年鉴及新疆生产建设兵团年鉴（2000—2015年）。2020 年、2030 年温度、降雨预测数据来源于德国气候中心（https：//www.dkrz.de/)提供的大气环流模式(GCMs)降尺度数据。
+
+LandsatETM遥感影像数据（2000、2005、2010、2015年6\~8月)来源于地理资源观测中心（http：//glovis.usgs.gov/）,行列号为 $1 4 4 / 2 8 , 1 4 4 / 2 9 , 1 4 4 /$ 30，空间分辨率为 $3 0 \mathrm { ~ m ~ } \times 3 0 \mathrm { ~ m ~ }$ 。通过ENVI软件对影像数据进行辐射纠正和几何纠正，基于土地利用分类标准[9采用面向对象的方法进行分类解译,得到玛纳斯河流域 2000 年、2005 年、2010 年和 2015年的土地利用图。验证结果表明影像总体解译精度为 $80 \%$ ，达到研究所需精度。
+
+# 2.2植物蒸发蒸腾量
+
+由于研究区域中部分区域缺少辐射、相对湿度、日照时数等资料，本文采用桑斯维特（Thonthwaite）公式进行计算。桑斯维特公式通过气温与地理纬度计算参考作物蒸发蒸腾量，在国内外应用较为广泛[10]。具体计算过程如下：
+
+$$
+E ^ { \prime } = C { \biggl [ } 1 0 { \frac { T } { I } } { \biggr ] } ^ { \alpha }
+$$
+
+式中： $E ^ { \prime }$ 为未校正月蒸发能力 $\left( \mathrm { m m } \right) ; C$ 为常数，一般取为 $1 6 ; T$ 为月平均气温 $( { \mathcal { C } } ) _ { } : I$ 为热效应指数， $\alpha$ 为试验值。
+
+$$
+I = \ \sum _ { j \ = 1 } ^ { 1 2 } \ i _ { j }
+$$
+
+式中： $i _ { j }$ 为第 $j$ 月份热效应指数。
+
+$$
+i _ { j } \ = \ \Big ( \ : T _ { j } \Big / S \Big ) ^ { 1 . 5 1 4 }
+$$
+
+式中： $T _ { j }$ 为第 $j$ 月月平均气温 $( \mathrm { ‰ }$ 。
+
+$$
+\alpha = 6 . 7 5 \times 1 0 ^ { - 7 } I ^ { \mathrm { ~ 3 ~ } } - 7 . 7 1 \times 1 0 ^ { - 5 } I ^ { \mathrm { ~ 2 ~ } } +
+$$
+
+$$
+1 . 7 9 \times 1 0 ^ { - 2 } I + 0 . 4 9 2 \ 3 9
+$$
+
+通过式(1)计算所得 $E ^ { \prime }$ 之后通过白日时数予以修正,即
+
+$$
+E T _ { 0 } = E ^ { \prime } \Big [ \frac { M } { 3 0 } \frac { N } { 1 2 } \Big ]
+$$
+
+式中： $M$ 为此月份日数， $N$ 为此月份平均白日时数，通过式(6)计算。
+
+$$
+N = \frac { 2 \mid \omega _ { 0 } \mid } { 1 5 ^ { \circ } }
+$$
+
+式中： $+ \omega _ { 0 }$ 和 $- \omega _ { 0 }$ 分别为日落和日出时的时角。由于日出到正午、正午到日落的时间相等，即 $| - \omega _ { 0 } | =$ $\mid + \omega _ { 0 } \mid$ ,故全天的时角为 $2 \mid _ { \omega _ { 0 } } \mid$ 。
+
+$$
+\mathrm { c o s } \omega _ { 0 } = - \mathrm { t a n } \varphi \times \mathrm { t a n } \xi
+$$
+
+$$
+\xi = 2 3 . 2 \times \sin ( 2 9 . 5 j - 9 4 )
+$$
+
+式中： $\varphi$ 地理纬度； $\xi$ 为太阳赤纬 $\cdot j = 1 , 2 , \cdots , 1 2$ 为月序。
+
+# 2.3预测年份非植被用水因子(人口、工业用水）的计算
+
+2.3.1人 $0$ 预测人口总量预测一般有直接推算法与间接推算法两种。本文采用直接推算法计算2020年、2030年人口总数。
+
+$$
+P _ { \mathrm { \Lambda } _ { t } } = P _ { \mathrm { \Phi } _ { 0 } } \mathopen { } \mathclose \bgroup \left( 1 + k \aftergroup \egroup \right) ^ { t }
+$$
+
+式中： $\boldsymbol { P } _ { \boldsymbol { t } }$ 为第 $\mathbf { \chi } _ { t }$ 年人口总数; $P _ { 0 }$ 为现状年人口总数；  
+$k$ 为人口增长率。
+
+2.3.2 工业用水预测 首先预测工业产值：
+
+$$
+D _ { \scriptscriptstyle t } = D _ { 0 } \big ( 1 + \delta \big ) ^ { \scriptscriptstyle t - t _ { 0 } }
+$$
+
+式中： $D _ { _ t }$ 为第 $\mathbf { \chi } _ { t }$ 年工业产值( $1 0 ^ { 4 }$ 元）； $D _ { 0 }$ 为现状年工业产值( $1 0 ^ { 4 }$ 元）； $\delta$ 为工业产值年平均增长率$( \% ) { : } t _ { 0 }$ 为基准年。
+
+进一步确定出工业用水量：
+
+$$
+W _ { t } = D _ { t } H _ { 0 } ( 1 - \mu _ { { \scriptscriptstyle H } } ) ^ { t } \big ( 1 - q _ { 0 } \big ( 1 + \mu _ { q } \big ) ^ { t } \big )
+$$
+
+式中： $\textstyle \ W _ { _ { t } }$ 为第 $\mathbf { \chi } _ { t }$ 年工业用水量( $\mathrm { ^ { \prime } 1 0 ^ { 4 } ~ m } ^ { 3 }$ ） $D _ { \ t }$ 为第 $\mathbf { \chi } _ { t }$ 年工业产值( $1 0 ^ { 8 }$ 元）； $H _ { 0 }$ 为基准年万元工业产值用水量,即用水定额 $[ \mathrm { ~ m ~ } ^ { 3 } \cdot ( 1 0 ^ { 4 } \overrightarrow { \mathcal { T } } ) ^ { - 1 } ] ; q _ { 0 }$ 为现状年工业重复用水率 $( \% ) : \mu _ { { } _ { H } } . \mu _ { { } _ { q } }$ 为重复利用率的提高率$( \% )$ 。
+
+# 2.4 情景构建
+
+2.4.1气候情景选取温室气体中、高排放(RCP4.5和RCP8.5)两种气候情景为气候情景，通过DKRZ网站获取27个GCMs模式的输出数据后以ERA-Interim数据集为标准数据，采用CEE[相关分析筛选（Canoncial Correlation Analysis Filtering）—多模式集合（Multi-modelEnsemble）一极限学习机回归（Extreme Learning Machine Regression）]降尺度模型对GCMs数据进行空间降尺度。
+
+首先通过典型相关分析（CCA)筛选得到对标准数据变异解释能力最高的四个模式，组建多模式集合，然后通过极限学习机(ELM)建立多模式集合与ERA-Interim数据集之间的统计相关关系，最后输入多模式集合预测数据，获取ERA-Interim数据格点的预测数据，以此实现GCMs的空间降尺度。研究最后通过CEE 降尺度获取RCP4.5、RCP8.5情景下玛纳斯河流域2020年、2030年月平均气温、月平均降水量和年径流量
+
+2.4.2 绿洲结构情景（1）AbdEI-Ghani 绿洲结构情景(基于理想绿洲结构情景）。本文绿洲结构采用 Abd EI-Ghani[11]的绿洲划分,包括外围荒漠带、边缘弃耕地带和内部农作物种植带3个圈带（图2）。其中内圈为农田生产系统，中圈与内圈之间为防风防沙林带，外圈与中圈之间为灌草固沙带。（2）基于现状绿洲结构情景。以2015年土地利用图为划分依据，划分并分别统计林地带、草地带、农业用地带3个圈带的面积。
+
+# 2.5 绿洲适宜规模的算法
+
+绿洲是基于沙漠背景下的“湿岛”，因此确定绿洲适宜规模时应采用能够反映该区域特征的水热平衡指标。据前人研究成果[7,9,12]可知,在水热平衡基础上，考虑绿洲植被稳定性所建立的概念及理论适合绿洲规模测算。
+
+根据水热平衡原理：
+
+$$
+\begin{array} { l c r } { { W - W ^ { \prime } = ( E T _ { 0 } - r ) \times ( A _ { 1 } K _ { P N } H _ { \phantom { \prime } o N } ^ { \prime } + A _ { 2 } K _ { P B } H _ { \phantom { \prime } o B } ^ { \prime } + } } \\ { { \phantom { - } } } \\ { { A _ { 3 } K _ { P W } H _ { \phantom { \prime } o w } ^ { \prime } ) \times 1 0 ^ { - 5 } } } & { { ( 1 2 ) } } \\ { { \phantom { - } } } \\ { { A _ { 1 } = \pi R ^ { 2 } } } & { { ( 1 3 ) } } \\ { { \phantom { - } } } \\ { { A _ { 2 } = \pi ( R + B Y ) ^ { 2 } - \pi R ^ { 2 } } } & { { ( 1 4 ) } } \\ { { \phantom { - } } } \\ { { A _ { 3 } = \pi ( R + B Y + W W ) ^ { 2 } - \pi ( R + B Y ) ^ { 2 } } } & { { ( 1 5 ) } } \end{array}
+$$
+
+式中： $W$ 为绿洲可获得的水资源总量( $\textup { 1 0 } ^ { 8 } \textup { m } ^ { 3 } .$ ； $W ^ { \prime }$ 为人畜用水量及工业用水量 $( { 1 0 } ^ { 8 } { \mathrm { ~ m } } ^ { 3 } ) { ; } A _ { 1 }$ 为内圈绿洲农田生态系统面积 $\left( \mathrm { \ k m } ^ { 2 } \right) ; A _ { 2 }$ 为内圈与中圈之间防风防沙林地面积( $\mathrm { k m } ^ { 2 }$ ）； $A _ { 3 }$ 为中圈与外圈之间防风固沙灌草地面积( $\left( \mathrm { k m } ^ { 2 } \right)$ ； $K _ { P N }$ 和 $H _ { \mathrm { ~ } O N } ^ { \prime }$ 为内圈绿洲耕地植被系数和设计绿度； $K _ { P B }$ 和 $H _ { \ O B } ^ { \prime }$ 分别为防风防沙林带的植被系数和设计绿度; $K _ { P W }$ 和 $\boldsymbol { H ^ { \prime } } _ { o w }$ 分别为灌草固沙带的植被系数和设计绿度； $E T _ { 0 }$ 为参考作物蒸发蒸腾量（ $\mathbf { \chi } _ { \mathrm { m m } } ^ { \prime } ,$ ； $r$ 为绿洲内年降水量 ${ \bf \Psi } ( { \bf \Psi } _ { \bf m m } ) : R ,$ （20$B Y , W W$ 含义同图2。
+
+（1）AbdEI-Ghani绿洲结构情景下的绿洲适宜
+
+![](images/601f50cbae3e264d3e8e3e13a746baca5fcd577ea7c51a923e7c98f6d194953a.jpg)  
+图2绿洲结构平面图Fig.2Plan graph of oasis structure
+
+规模计算
+
+据前苏联生态学家柯夫达研究[13],绿洲农、林、草地比例大致为 $0 . 3 \sim 0 . 4 \ , 0 . 1 \ , 0 . 5 \sim 0 . 6$ 时生态系统较为高效。研究中取农、林、草比例分别为0.4、0.1、0.5，设绿洲耕地面积与灌溉区域总面积之比为λ[7],则有：
+
+$$
+{ \lambda } A _ { 1 } { \Big / } \left( A _ { 1 } + A _ { 2 } + A _ { 3 } \right) = 0 . 4
+$$
+
+$$
+A _ { 3 } \bigg / \left( A _ { 1 } + A _ { 2 } + A _ { 3 } \right) = 0 . 5
+$$
+
+$$
+A _ { 3 } = 1 . 2 5 \lambda \times A _ { 1 }
+$$
+
+$$
+A _ { 2 } = { \left( 1 . 2 5 \lambda - 1 \right) } \times A _ { 1 }
+$$
+
+$$
+A _ { 1 } = \frac { \left( W - W ^ { \prime } \right) \times 1 0 ^ { 5 } } { \left( E T _ { 0 } - r \right) \times \left[ K _ { P N } H _ { \phantom { 0 H } 0 H } ^ { \prime } + \left( 1 . 2 5 \lambda - 1 \right) K _ { P B } H _ { \phantom { 0 H } 0 B } ^ { \prime } + 1 . 2 5 \lambda K _ { P W } H _ { \phantom { 0 H } 0 W } ^ { \prime } \right] } ,
+$$
+
+绿洲适宜规模 $( A )$ 为：
+
+$$
+A = A _ { 1 } + A _ { 2 } + A _ { 3 }
+$$
+
+（2）基于现状绿洲结构情景下的绿洲适宜规模计算
+
+基于现状绿洲结构情景的计算是根据实际遥感数据解译分析得到的土地利用数据图中得出的数据。以2015年土地利用图为划分依据，划分并分别统计林地带、草地带、农业用地带3个圈带的面积，如下表：
+
+Tab.1Area of oasiscircle   
+
+<html><body><table><tr><td>年份</td><td>林地／km²</td><td>草地／km²</td><td>农业用地／km²</td><td>A</td></tr><tr><td>2015</td><td>1005.67</td><td>7 222.98</td><td>7 939.47</td><td>0.81</td></tr></table></body></html>
+
+模式的输出数据后以ERA-Interim数据集为标准数据，采用CEE降尺度模型对GCMs数据进行空间降尺度。CEE首先通过相关分析（CCA）筛选得到解释能力最高的四个模式，组建多模式集合，然后通过极限学习机建立多模式集合与ERA-Interim数据集之间的统计相关关系，最后输入多模式集合预测数据，获取ERA-Interim数据格点的预测数据，以此实现GCMs的空间降尺度。研究最终通过CEE降尺度获取了玛纳斯河流域在RCP4.5、RCP8.5情景下2020 年、2030 年年径流量。
+
+由上述数据得到规划年玛纳斯流域年径流量，分析玛纳斯河、塔西河与金沟河出山口水文站地下水开采量资料，发现地下水开采量稳定在 $4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 左右,故本文取地下水开采量为 $4 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。根据公式(13)计算可供绿洲植被用水，在不同的预测年
+
+# 3 结果与分析
+
+# 3.1玛纳斯河流域绿洲非植被用水(人畜和工业用水)统计与预测
+
+表1绿洲圈带面积  
+
+<html><body><table><tr><td>年份</td><td>牲畜用水量 /104m</td><td>生活用水量 /104m</td><td>工业用水量 /104m</td><td>总量 /104m³</td></tr><tr><td>2000</td><td>495</td><td>2 350</td><td>10 039</td><td>12 884</td></tr><tr><td>2005</td><td>745</td><td>2620</td><td>22 904</td><td>26 269</td></tr><tr><td>2010</td><td>996</td><td>2 890</td><td>35 769</td><td>39 655</td></tr><tr><td>2015</td><td>1 338</td><td>3255</td><td>53 724</td><td>58 317</td></tr><tr><td>2020</td><td>1 680</td><td>3620</td><td>71 679</td><td>76 979</td></tr><tr><td>2030</td><td>2 547</td><td>4 640</td><td>100 917</td><td>108 104</td></tr></table></body></html>
+
+研究依据玛纳斯河流域兵团、地方年鉴资料，结合《新疆兵团农八师石河子市国民经济和社会发展第十个五年计划纲要》、《新疆石河子市城市总体规划说明书》、《新疆兵团农八师石河子市节水规划报告》等资料统计2000、2005、2010和2015年并采用公式(9)预测2020年、2030年人口与城镇化率并采用规划牲畜数量，根据人均需水定额、单位工业产值耗水量和牲畜日用水定额预测用水量[8],结果如表2所示。
+
+# 3.2玛纳斯河流域绿洲植被可利用水资源量(W-W')
+
+玛纳斯河流域出山口以下降水稀少[14],可利用水资源量主要来源于地表径流和地下径流。研究通过选取流域RCP4.5和RCP8.5两种气候情景下的气候数据。研究通过DKRZ网站获取27个GCMs
+
+# 表2玛纳斯河流域绿洲区人、畜、工业用水量
+
+# 表3不同情景下水资源量组成
+
+Tab.2Water consumption of human, livestock and industry in the oasis of the Manas River Basin   
+Tab.3 Composition ofwater resources under different scenarios   
+
+<html><body><table><tr><td>年份</td><td>情景 模式</td><td>出山口 径流量 /108m</td><td>降水 量 /mm</td><td>地下水 可开采量 /108m</td><td>非植被 用水量 /10m</td><td>植被用 水量 /10m³</td></tr><tr><td>2020</td><td>RCP4.5</td><td>18</td><td>258.738</td><td>4</td><td>5.6</td><td>16.4</td></tr><tr><td rowspan="3">2030</td><td>RCP8.5</td><td>18.07</td><td>248.49</td><td>4</td><td>5.6</td><td>16.47</td></tr><tr><td>RCP4.5</td><td>18</td><td>280.46</td><td>4</td><td>6.5</td><td>15.5</td></tr><tr><td>RCP8.5</td><td>18.09</td><td>310.75</td><td>4</td><td>6.5</td><td>15.59</td></tr></table></body></html>
+
+份，非植被用水总量水量分别是：2020年为 $5 . 6 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,2030 年为 $6 . 5 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。综合计算结果如表3所示。
+
+# 3.3不同气候情景下植物蒸发蒸腾量的确定
+
+3.3.1土地利用类型研究从Landsat数据集中提取研究区2000、2005、2010年和2015年土地利用分布图（图3）。
+
+根据玛纳斯河流域2000、2005、2010年和2015年土地利用数据计算出流域林地、草地、农业用地面积，如表4所示。
+
+依据相关图2、农八师统计年鉴及相关文献资料[13]，设 $R = 3 0 \mathrm { \ k m } ^ { 2 } \ , B Y = 2 0 \mathrm { \ k m } ^ { 2 } \ , W W = 1 0 \mathrm { \ k m } ^ { 2 }$ ；则由公式(17)可知，绿洲面积理想时的 $\lambda$ 值为0.54。规划年的实际的 $\lambda$ 值采用2015年的 $\lambda$ 值，均为
+
+![](images/c0799c9ee6347bc74d6fd2a038b6c63d0aa214c29e60f97d29a128ad2dacc365.jpg)  
+图3玛纳斯河流域土地利用分类(2000、2005、2010年和2015年)Fig.3Land use classification in the Manas River Basin(2OoO,20O5,201O and 2015)
+
+0.81；理想值用统一的值，均为0.54。
+
+3.3.2不同气候情景下绿洲参考作物蒸发蒸腾量计算采用桑斯维特公式(1～8)计算出玛纳斯河流域现水平参考作物蒸发蒸腾量，其结果如表5所示。
+
+由表5可知，玛纳斯河流域植物蒸发蒸腾量介于 $3 8 0 \sim 4 1 0 ~ \mathrm { m m }$ 之间，平水年年份植物蒸发蒸腾量为398 mm,此结果与相关研究比较接近[12,14] 。
+
+预测年选取流域RCP4.5和RCP8.5两种气候情景下的气候数据。获取27个GCMs模式的数据，组建多模式集合，然后通过极限学习机(ELM)回归方法建立多模式集合与ERA数据集的统计相关关系，以此对GCMs输出数据进行统计降尺度，获取到RCP4.5、RCP8.5情景下2020年、2030年月平均气温，采用桑斯维特公式(1\~8)计算出玛纳斯河流域预测年参考作物蒸发蒸腾量，结果如表6所示。
+
+# 3.4玛纳斯河流域的绿洲适宜规模
+
+3.4.1不同绿洲结构发展模式下参数的确定研究依据前人研究成果[15]确定玛纳斯河流域绿洲内部区植被系数为0.9，绿度指数为1;绿洲边缘区防风防沙林带植被指数为0.8，相应绿度为0.85；绿洲外围灌草固沙带植被系数为0.7，绿度为0.75。
+
+3.4.2 近15a(2000—2015年）的绿洲规模变化依据水热平衡原理与绿洲可利用水资源总量计算流表4玛纳斯流域主要土地利用类型面积统计(2000、2005、2010年和2015年）
+
+Tab.4Area statistics of major land use types in Manas RiverBasin(2000，2005，2010 and 2015)   
+
+<html><body><table><tr><td>年份</td><td>林地／km²</td><td>草地／km²</td><td>农业用地／km²</td></tr><tr><td>2000</td><td>1 598.49</td><td>9 968.42</td><td>5932.38</td></tr><tr><td>2005</td><td>1704.02</td><td>10 693.67</td><td>6 749.86</td></tr><tr><td>2010</td><td>2072.64</td><td>9 475.93</td><td>8 561.38</td></tr><tr><td>2015</td><td>1 005.67</td><td>7 222.98</td><td>7 939.47</td></tr></table></body></html>
+
+表5现状年参考作物蒸发蒸腾量  
+
+<html><body><table><tr><td>年份</td><td>2000</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td>ETo/mm</td><td>403</td><td>402</td><td>397</td><td>390</td></tr></table></body></html>
+
+Tab.5Plant evapotranspiration in reference year   
+
+<html><body><table><tr><td>年份</td><td>RCP4.5／mm</td><td>RCP8.5／mm</td></tr><tr><td>2020</td><td>401.53</td><td>396.52</td></tr><tr><td>2030</td><td>454.76</td><td>445.13</td></tr></table></body></html>
+
+域2000、2005、2010、2015年实际绿洲面积与适宜绿洲面积如表7所示。
+
+由表7可知，2000年2005年、2010年和2015年实际绿洲面积高于适宜绿洲面积，说明当前绿洲规模开发过度，实际绿洲面积上升速率高于适宜绿洲面积增长的速率。其中，2000一2005 年实际绿洲面积较2005—2015 年实际绿洲面积上升显著，原因可能是由于2000 年前后膜下滴灌节水灌溉技术的大面积推广[12]。随着节水灌溉面积的增加,田间渗漏的地下水补给大量减少，同时随着工业的发展，水资源亏缺增大，中下游大量抽取地下水，进一步导致了下游地区地下水水位的降低，下游地区植被减少，因此造成后期实际绿洲面积有所下降。在实际调查中，发现下游地区胡杨林大面积枯死，说明研究与实际基本吻合。
+
+3.4.3不同情景下的绿洲适宜规模预测研究利用DKRZ网站提供的GCMs输出数据，预测年使用的是GCMs部分数据集降尺度之后筛选得到的RCP8.5和RCP4.5两种数据类型的降雨、温度和径流量数据，通过AbdEI-Ghani绿洲结构情景和现状绿洲结构情景，通过水热平衡原理与绿洲可利用水资源总量计算流域2020年、2030年不同情景下绿洲面积，如表8所示。
+
+由8表可知，2020 年和2030年 AbdEI-Ghani 绿洲结构情景下的绿洲面积（即预测年适宜绿洲规模)低于同年的基于现状情景下的绿洲面积，说明
+
+# 表7玛纳斯河流域现状年实际与适宜绿洲面积对比
+
+Tab.6Plant evapotranspiration in the forecasting year   
+Tab.7Comparison between suitable oasis area and actual oasisarea inthe ManasRiverBasin   
+
+<html><body><table><tr><td>年份</td><td>适宜绿洲规模 /km²</td><td>实际绿洲规模 /km²</td><td>入（为农田耕地面积占绿 洲灌溉地面积的比／%）</td></tr><tr><td>2000</td><td>13 235.46</td><td>17 499.29</td><td>0.68</td></tr><tr><td>2005</td><td>14 743.74</td><td>19 147.55</td><td>0.79</td></tr><tr><td>2010</td><td>15 724.35</td><td>20109.95</td><td>0.65</td></tr><tr><td>2015</td><td>15 343.49</td><td>16 168.12</td><td>0.81</td></tr></table></body></html>
+
+# 表8不同变化情景下玛纳斯河流域绿洲适宜规模
+
+表6预测年参考作物蒸发蒸腾量  
+Tab.8Suitable oasis area under different scenarios in the Manas River Basin   
+
+<html><body><table><tr><td rowspan="2">年份</td><td colspan="2">AbdEI-Ghani 绿洲结构情景 /km²</td><td colspan="2">基于现状绿洲结构情景 /km²</td></tr><tr><td>RCP4.5</td><td>RCP8.5</td><td>RCP4.5</td><td>RCP8.5</td></tr><tr><td>2020</td><td>15 384.74</td><td>15 140.35</td><td>18 042.54</td><td>17 704.1</td></tr><tr><td>2030</td><td>13 833.89</td><td>15 424.96</td><td>15 894.91</td><td>18 098.24</td></tr></table></body></html>
+
+研究区绿洲开发过度。
+
+表8表明，研究采用RCP8.5和RCP4.5两种情景下的数据分别计算绿洲适宜规模。基于现状绿洲结构情景下的绿洲面积大于AbdEI-Ghani绿洲结构情景下的绿洲面积。绿洲在2000—2030 年间一直扩张，随着全球变暖，径流量增加，随着科技发展，滴灌大面积推广[16],绿洲的扩张超过界限范围,说明当前规模需要调整。由表8可知，在规划2020年，两种不同情景下，RCP4.5情景得出的适宜绿洲规模大于RCP8.5情景得出的绿洲适宜绿洲规模。而在规划2030年，两种不同情景下，RCP4.5情景得出的适宜绿洲规模小于RCP8.5情景得出的绿洲适宜绿洲规模，反映了玛纳斯流域绿洲的人类活动和气候变化对玛纳斯流域绿洲规模的影响。
+
+由表7和表8可知，2020年AbdEI-Ghani绿洲结构情景下绿洲规模为2015年的 $0 . 9 8 \sim 1 . 0 1$ 倍，说明理想情景下，绿洲规模趋于稳定;2020年基于现状绿洲结构情景下绿洲规模是2015 年 $1 . 0 9 \sim$ 1.1倍，现状绿洲规模缓慢增长;2030年AbdEI-Ghani绿洲结构情景下绿洲规模为2015年的 $0 . 9 \sim$ 1.01倍，说明理想情景下，绿洲规模保持稳定状态;2030年基于现状绿洲结构情景下绿洲规模是2015年 $0 . 9 8 \sim 1 . 1 2 \$ 倍,绿洲规模趋于平缓。结果表明，随着时间变化，实际绿洲规模缓慢增长，适宜绿洲规模趋于稳定。
+
+在2020—2030年间绿洲面积有明显的下降趋势，通过对计算的各项指标分析可知，根据石河子规划纲要，随着人口的增长，人畜用水量将会增加，同时随着经济发展需要，工业用水量也将大幅增加，因此2030年绿洲规模较2020年出现下降。
+
+# 4 结论与建议
+
+# 4.1 结论
+
+本文以玛纳斯河流域为研究区，结合水热平衡原理与绿洲分带理论，研究现状年和规划年适宜绿洲规模与实际绿洲规模，以此反应干旱区绿洲规模趋势，研究结论如下：
+
+（1）玛纳斯河流域绿洲实际规模和适宜规模均随时间而变化，处于先增后减趋势。其中2000一2010年实际、适宜绿洲规模均呈上升趋势，可能与节水灌溉技术的推广相关。2010—2015 年实际、适宜绿洲规模均呈下降趋势，但流域实际绿洲面积均高于适宜绿洲面积，说明当前的绿洲结构不够合理。
+
+(2）按照现状发展，绿洲将在未来10a左右进一步过度开发。根据设定的绿洲发展情景对比分析发现，AbdEI-Ghani绿洲结构情景下的绿洲面积在情景年(2020年和2030年)低于该年基于现状情景发展的绿洲面积。
+
+干旱区绿洲规模与水资源量、绿洲结构等多种因素有关。受全球气候变化影响，冰川水源型河流短期内径流可能上升，受水资源因素约束的适宜绿洲规模不确定性增加。可以通过水资源调控、节水技术推广、产业结构优化等措施来进行绿洲优化与保护。
+
+# 4.2 绿洲发展建议
+
+通过分析表明，影响玛纳斯流域适宜绿洲规模的因素较多，涉及到水资源配置的各方面，如耕地面积与生态用水的关系、水资源利用效率、地区适宜植被、水污染处理等。因此为构建和谐的人与自然的关系，建议：（1）适当退耕还草，兼顾下游生态环境，保证生态用水；（2）提高上游水资源利用率效率;（3）适当推广耗水量少的经济作物，降低耗水作物比例；（4）进行污水处理，减轻水质恶化状况，避免陷入水质型缺水局面；（5）降低农业用水比重。
+
+# 参考文献(References)
+
+[1］胡顺军,宋郁东,田长彦,等.渭干河平原绿洲适宜规模[J].中 国科学地球科学,2006,36（增刊2）：51-57.［HU Shunjun, SONG Yudong,TIAN Changyan,et al.Suitable scale of Weigan River plain oasis[J]. Scientia Sinica(（Terrae）,2O06,36（Suppl. Ⅱ):51-57.]   
+[2］王忠静,王海峰,雷志栋.干旱内陆河区绿洲稳定性分析[J]. 水利学报,2002,33（5）：26-31.［WANGZhongjing，WANG Haifeng,LEI Zhidong.Stability analysis ofoasis in arid region[J]. JournalofHydraulicEngineering,2002,33（5）:26-31.]   
+[3］李啸虎,杨德刚,夏富强.干旱区城郊种植业水足迹分析与适 宜耕地规模测算——以乌鲁木齐为例[J].生态学报，2015，35 (9）:1-15.[LI Xiaohu,YANG Degang,XIA Fuqiang.Analysis of the water footprint of suburban planting in arid lands and determination of suitable farmland scale：A case study of Urumqi[J].ActaEcologica Sinica,2015,35(9）:1-15.]   
+[4］张玉进.干旱区土地利用与土地覆盖变化对绿洲稳定性的影 响研究［D].乌鲁木齐：新疆大学,2004.［ZHANGYujin.Study on the influence of land use and land cover change on oasis stability in arid area[D]. Urumqi:Xinjiang University,2004.]   
+[5］钱正英.关于西北地区水资源配置、生态环境建设和可持续发 展战略研究项目成果的汇报（节录）［J].中国水土保持， 2003,（5）:8-10.[QIAN Zhengying.On the results of water resources allocation,ecological environment construction and sustainable development in Northwest China strategic research project report（excerpt）[J].Soil and Water Conservation in China,2003, (5):8-10.]   
+[6]樊自立，叶茂,徐海量，等.新疆玛纳斯河流域生态经济功能区 划研究[J].干旱区地理,2010,33（4）：493－501.［FANZili， YE Mao,XU Hailiang,et al. Ecological and economical functional regionalizationin Manas River Valley of Xinjiang[J].Arid Land Geography,2010,33（4） :493-501.]   
+[7] BUYANTUYEV A,WU J.Urbanization diversifies land surface phenology in arid environments: Interactions among vegetation,climatic variation,and land use pattern in the Phoenix metropolitan region,USA[J].Landscape and Urban Planning,2012,105（1）： 149 -159.   
+[8] 新疆维吾尔自治区统计局.新疆统计年鉴［M].北京：中国统 计出版社,2000—2010.［The Xinjiang Uygur Autonomous Region Statistical Bureau.Xinjiang statistical yearbook[M].Beijing:China Statistics Press,2000 -2010.]   
+[9] 刘纪远.中国资源环境遥感宏观调查与动态研究［M].北京： 中国科学技术出版社,1996.［LIU Jiyuan.Remote sensing macro survey and dynamic study of resources and environment in China [M].Beijing:China Science and Technology Press,1996.]   
+[10］郭生练.气候变化与水面蒸发计算[J].武汉水利电力大学学 报,1994,（1）:99-106.[GUO Shenglian. Climate change and water surface evaporation calculation[J].Journal of Wuhan University of Hydraulic and Elctric Engineering,1994,（1):99-106.]   
+[11]ABD EI-GHANI M M.Flora and vegetation of Gara oasis,Egypt [J].Phytocoenologia,1992,21（1/2）:1-14. [12］冯异星，罗格平，周德成，等.近50a土地利用变化对干旱区典 型流域景观格局的影响一—以新疆玛纳斯河流域为例[J].生 态学报，2010,30（16）：4295－4305．［FENGYixing，LUO Geping,ZHOU Decheng,et al.Effects of land use change on landscape pattern of a typical arid watershed in the recent 5O years：A case study on Manas River Watershed in Xinjiang[J].Acta Ecologica Sinica,2010,30(16） :4295-4305.] [13］柯夫达，卢利坤.生物圈变化的总势趋[J].干旱区研究，1987，   
+4（1）:7O-74.[KE Fuda,LU Likun.Total potential change trend ofbiosphere[J].Arid Zone Research,1987,4（1)：70-74.] [14］姜亮亮,刘海隆,包安明,等.玛纳斯河流域景观格局演变特征 与驱动机制分析[J].水土保持研究，2014，21（4）：256-262. [JIANG Liangliang,LIU Hailong,BAO Anming,et al.Analysis of evolution characteristics and driving mechanism of landscape pattern in Manasi River Basin[J].Research on Soil and Water Conservation,2014,21(4) :256-262.] [15］杨书雅，杨会巾，刘丽娟，等.玛纳斯河流域绿洲农田防护林景 观格局评价[J].生态学杂志，2017，36（6)：1690－1698. [YANG Shuya,YANG Huijin,LIU Lijuan,et al.Evaluation of landscape pattern of oasis farmland shelterbelt in Manasi River Basin[J].Chinese Journal of Ecology,2017,36(6）:1690-1698.] [16］范文波,吴普特，马枫梅.膜下滴灌技术生态一经济与可持续 性分析—以新疆玛纳斯河流域棉花为例[J].生态学报,   
+2012,32(23）:7559-7567.[FAN Wenbo,WU Pute,MA Fengmei.Drip irrigation technology and sustainable ecological economic analysis:Taking Xinjiang cotton Manasi River Basin as an example [J].Acta Ecologica Sinica,2012,32(23）:7559-7567.]
+
+# Suitable oasis scale in Manas River Basin in the context of climate change
+
+WANG Jing'，LIU Hai-long²， WANG Ling³ (1CollegeofwaterConseruancyandArchitecturalEnginering,Shihezi University，Shihezi8320,Xinjiang,China; 2SchoolofResourcesndEironmentUniversityoflectronicScienceandTechologyofChna,Chengdu631,ichuanin; 3College of Architecture and Civil environment,Xihua University,Chengdu 611731,Sichuan,China)
+
+Abstract：The increasingly extending of the scale oftheartificial oasis has strained the water resources which has made the sustainable utilization of water resources a challenge.Based on the principleof the Water and Heat Balance,the suitable scale of oasis in the Manas River Basin,Xinjiang,China under two climate scenarios（RCP4.5 and RCP8.5）and two oasis structure distribution scenarios were analyzed using the hydro-meteorological data and the corresponding remotely sensed TM images in 2000,2005,2010 and 2015 inthe studyregion.The results show that the actual oasis area of Manas River Basin in 2OO5,2O1O and 2O15 was $109 \%$ ， $1 1 4 . 9 1 \%$ ， $9 2 . 3 9 \%$ of the actual oasis area in 2000,respectively.The suitable oasis area in 2005,201O and 2015 can be $1 1 1 . 3 9 \%$ ， $1 1 8 . 8 \%$ ， （204号 $1 1 5 . 3 9 \%$ of the oasis area in 2OOO respectively.The oasis area on ideal AbdEI-Ghani oasis structure in 202O and 2030 was lower than that of the same year based on thecurrent situation,which indicated that the oasis had atrend of overexploitation according to the development of the present situation.
+
+Key words: climate change；human activities；sustainable development；Manas oasis

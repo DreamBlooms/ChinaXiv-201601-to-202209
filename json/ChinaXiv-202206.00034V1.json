@@ -1,0 +1,612 @@
+[
+    {
+        "type": "text",
+        "text": "基于RSEI的延河流域生态环境质量监测与预估",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王丽霞¹，赵蕊¹，刘招²，张双成¹，孔金玲¹，杨耘¹(1.长安大学地质工程与测绘学院,陕西 西安710054；2.长安大学水利与环境学院,陕西 西安710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用延河流域1998年、2004年、2010年和2016年4期的Landsat遥感影像,计算遥感生态指数(RemoteSensing Ecological Index,RSEI),对流域生态环境质量的时空变化进行分析和评价,利用CA-Markov模型对2022年和2028年的生态环境进行模拟和预测。结果表明：（1）RSEI评价指数在延河流域具有较好的适用性,可用于监测和评价流域生态环境的时空变化特征。（2）时间尺度上,RSEI均值从1998年的0.392变化为2016年的0.530,呈逐年上升趋势,空间尺度上,RSEI从东南向西北逐渐增大。以0.2为间隔划分RSEI等级,发现流域生态环境质量等级以较差和中等为主，占总面积的 $6 2 . 4 \\%$ ,主要分布于流域的山谷地带，优良等级的面积占比最小，约为 $8 . 1 \\%$ ,主要分布于流域南部的山区地带。（3）自然和人为因素对流域生态环境质量变化的影响存在较大空间差异性。其中海拔在$1 2 0 0 { \\sim } 1 8 0 0 \\mathrm { m }$ 的区域，生态环境质量变化主要受自然因素影响;而海拔低于 $1 2 0 0 \\mathrm { m }$ 的区域，则主要受人类活动影响。(4)预测到2028年,流域生态环境质量会持续提升，良好和优良等级的面积占比将达到 $6 6 \\%$ ,但是流域西北部由于生态环境本底脆弱，仍存在较大的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：延河流域；RSEI；生态环境质量；主成分分析；CA-Markov模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态环境作为人类生存的基本保障和社会赖以发展的物质基础，其状态会直接影响人类生活的质量[]。党的十九大报告将\"美丽\"作为社会主义现代化强国的基本特征，把“坚持人与自然和谐共生”纳入新时代坚持和发展中国特色社会主义方略。在未来，我国将继续重点实行经济与生态环境可持续发展战略，大力加强生态环境监测工作[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态环境质量测评方法主要包括两类：一类是单因子变化分析，例如分析土地利用变化[3]植被净初级生产力变化[4和植被覆盖度变化[5等与生态环境密切相关的因子变化。另一类是多因子变化综合分析，与单因子分析相比，多因子综合分析更加全面和准确，学者们也为此提出了多种评价指标体系[6-7]。目前，应用最广泛的是我国于2006年发布的《生态环境状况评价技术规范》中提出的EI(Eco-logicalIndex)指数8和徐涵秋于2013年提出的RSEI(Remote Sensing Ecological Index)指数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RSEI是将可以反映生态问题的绿度指标（ND-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VI)、湿度指标(Wet）、干度指标(NDBSI)和热度指标(LST)通过主成分分析方法进行耦合，是一个可以量化的生态质量指数。相比于EI,它解决了权重设置合理性问题和生态环境质量可视化问题[10]。目前，RSEI多用于评价城市和矿区的生态环境质量[1-13],而针对流域系统开展生态环境质量评价研究相对较少。同时，对影响生态环境质量的驱动力分析，也多基于区域整体性，而缺乏区域内部之间的差异性对比，特别是对于流域生态环境质量的预测研究鲜见报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本文基于Landsat遥感影像、DEM数据、气象数据和人口经济数据等，采用RSEI评价指数，对延河流域1998—2016年的生态环境质量进行时空测评，对生态环境质量下降的区域进行驱动力探究，并尝试利用CA-Markov模型，对延河流域2022年和2028年的生态环境发展格局进行模拟和预测，为流域生态安全规划重点和环境治理保护的制定提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "延河流域( $\\mathrm { 1 0 8 ^ { \\circ } 4 5 ^ { \\prime } } { \\sim } 1 1 0 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E } , 3 6 ^ { \\circ } 2 3 ^ { \\prime } { \\sim } 3 7 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N } )$ 位于我国西北内陆半湿润向半干旱过渡地区（图1)，属于我国黄土丘陵沟壑区第二副区。延河是黄河的一级支流，干流河长约为 $2 8 6 . 9 \\mathrm { k m }$ ,发源于榆林市靖边县天赐湾乡的周山，流经延安市的志丹县、安塞县、宝塔区和延长县,最终汇入黄河[14-15]。延河流域地势西北高东南低，属暖温带向中温带过渡的大陆性季风气候区，多年平均气温为 $9 . 2 ~ \\mathrm { ^ { \\circ } C }$ ，降水量为 $5 0 0 \\mathrm { m m }$ ,土壤类型主要为黄绵土。流域水土流失较为严重，多年的输沙量高达 $0 . 8 3 \\times 1 0 ^ { 8 } \\mathrm { t }$ ，侵蚀模数约为 $1 . 1 2 { \\times } 1 0 ^ { 4 } \\ \\mathrm { t \\cdot k m } ^ { - 2 \\left[ 1 6 \\right] }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源及预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究选用云量低于 $1 0 \\%$ 且季节相同的Landsat影像数据，辅以DEM、降雨、温度、人口和GDP数据。各数据处理的具体方法如表1所示。其中，辐射定标是为了将遥感影像的DN值转换为传感器处的反射率，而大气校正则为了消除大气和光照等因素对地物反射的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3水体掩膜获取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获取遥感生态指数需要使用主成分变换方法，将代表环境状态的4个指标干度(NDBSI)、湿度(Wet）、绿度(NDVI)和热度(LST))进行耦合[17]。由于大面积水域会对真实地面湿度以及主成分的载荷产生影响，因此需先剔除大面积水域再进行主成分变换[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究选用改进的归一化差异水体指数(MNDWI)获取流域内的水体掩膜。该指数是将归一化差异水体指数公式中的近红外波段改为了中红外波段，以此来提高水体和建筑物的分类精度[18]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { M N D W I } = \\left( \\mathrm { G r e e n } - \\mathrm { M I R } \\right) / \\left( \\mathrm { G r e e n } + \\mathrm { M I R } \\right)$ (1)式中：Green为绿波段反射率;MIR为中红外波段反射率。分别对应Landsat5TM的第2、5波段反射率和Landsat8OLI的第3、6波段反射率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4RSEI计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RSEI选用主成分分析方法，将绿度、湿度、干度和热度4个指标的信息集中到第一主成分上，其是根据各指标在主成分上的贡献度和自身的性质来确定权重值，减少了人为赋值的误差。为了避免水体对主成分载荷的影响和指标量纲不统一对权重的影响，在进行主成分分析之前需对各指标进行如下两步处理：（1）利用水体掩膜去除水体。（2）对4个指标进行归一化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "指标归一化公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN I _ { i } { = } \\big ( I _ { i } { - } I _ { \\operatorname* { m i n } } \\big ) / \\big ( I _ { \\operatorname* { m a x } } { - } I _ { \\operatorname* { m i n } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N I _ { i }$ 为各指标的归一化结果； $I _ { i }$ 为各指标在第 $i$ 像元的值； $I _ { \\mathrm { m a x } }$ 和 $I _ { \\mathrm { m i n } }$ 分别为各指标的最大值和最小值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RSEI计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R S E I } _ { \\mathrm { 0 } } = 1 - \\mathrm { P C } 1 \\big [ f \\big ( \\mathrm { N D V I } , \\mathrm { W e t } , \\mathrm { L S T } , \\mathrm { N D B S I } \\big ) \\big ] \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c73ce3ea213ed634a0881279d79d0ed719f35ae8a8d0dfd35f5549c551bab798.jpg",
+        "img_caption": [
+            "图1延河流域地理位置",
+            "Fig.1 Geographical location ofYanhe River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1研究数据和处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7aaf1b8f8189a9e88695db72151bf89a60782fbb8d5b9daebed764fc4c9e103.jpg",
+        "table_caption": [
+            "Tab.1 Research data and processing methods "
+        ],
+        "table_footnote": [
+            "注：表中-表示无相应属性。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>数据</td><td>数据来源</td><td>时间</td><td>空间分辨率/m</td><td>处理方法</td></tr><tr><td rowspan=\"4\">影像 数据</td><td>Landsat TM</td><td>地理空间数据云 http://www.gscloud.cn/</td><td>1998年6月16日 2004年6月14日</td><td>30</td><td>辐射定标、大气校正、影像拼接和裁剪等预处理</td></tr><tr><td></td><td></td><td>2010年6月30日</td><td></td><td></td></tr><tr><td>Landsat OLI</td><td>地理空间数据云 http://www.gscloud.cn/</td><td>2016年6月17日</td><td>30</td><td>辐射定标、大气校正、影像拼接和裁剪等预处理</td></tr><tr><td>DEM</td><td>地理空间数据云</td><td>2009年</td><td>30</td><td>投影变换、拼接和裁剪</td></tr><tr><td>数据</td><td>逐日降雨和 温度数据</td><td>http://www.gscloud.cn/ 中国科学院资源环境 科学与数据中心 https://www.resdc.cn/</td><td>1996年、1998年、 2000年、2002年、 2004年、2006年、 2008年、2010年、</td><td>30</td><td>选取研究区内、外共27个站点数据,计算各站点 年均温度和年降水量,采用反距离插值法将计算 得到的数据插值为空间分辨率与遥感影像一致</td></tr><tr><td></td><td></td><td></td><td>2012年、2014年、</td><td></td><td>的栅格数据,求取均值</td></tr><tr><td></td><td>人口和GDP</td><td>陕西省统计年鉴</td><td>1998—2019年</td><td></td><td>对延河流域各县人口数据和GDP数据进行统计</td></tr><tr><td></td><td></td><td></td><td>2016年、2018年</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { R S E I } = \\left( \\mathrm { R S E I } _ { \\mathrm { 0 } } - \\mathrm { R S E I } _ { \\mathrm { 0 m i n } } \\right) / \\left( \\mathrm { R S E I } _ { \\mathrm { 0 m a x } } - \\mathrm { R S E I } _ { \\mathrm { 0 m i n } } \\right)$ (4)式中：PC1为4个归一化后的指标通过主成分分析方法所得到的第一主成分结果，为了方便分析，对其进行正负值转置[9],RSEI为转置后结果,4个指标分别参考徐涵秋[9.19-21]等的研究成果，具体计算公式如表2所示。 $\\mathrm { R S E I _ { \\mathrm { 0 m a x } } }$ 和 $\\mathrm { R S E I _ { \\mathrm { 0 m i n } } }$ 分别为 $\\mathrm { R S E I _ { 0 } }$ 的最大值和最小值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 CA-Markov模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CA-Markov是一个可以基于像元进行时空演变模拟预测的模型，它集成了元胞自动机(CA)模型的空间模拟优势和马尔科夫(Markov)模型的时间预测优势。此模型普遍适用于土地利用变化的模拟和预测，因生态环境质量也是具有高度空间自相关性的栅格数据，因此研究尝试使用CA-Markov模型对延河流域的生态环境质量进行预测",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CA模型是一种时间、空间和状态均离散的局部网格动力学模型，该模型具有模拟复杂系统时空演化过程的能力[22]。其公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2各指标公式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/88ce425af9cb0564e028ec4af27db1dce8d73be8d368f8d8fffeed10c427c767.jpg",
+        "table_caption": [
+            "Tab.2 Calculation formulaof each index "
+        ],
+        "table_footnote": [
+            "注：NDVI代表绿度指标； $\\mathrm { { W e t } }$ 代表湿度指标；NDBSI代表干度指标;LST代表热度指标。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>公式</td><td>参数说明</td></tr><tr><td>NDVI</td><td>NDVI=(NIR-Red)/(NIR + Red)</td><td>Red 为红波段反射率；NIR为近红外波段反射率。分别可对应 Landsat5TM的3、4波段反射率和Landsat8OLI的4、5波段反射率</td></tr><tr><td rowspan=\"3\">Wet</td><td>Wet(TM)=0.0315p+0.2021p+0.3102p +</td><td rowspan=\"3\">p(1、2、3、4、5、6)分别代表Landsat5TM的1、2、3、4、5、7波段反射率 和Landsat8OLI的2、3、4、5、6、7波段反射率</td></tr><tr><td>0.1594p4-0.6806ps - 0.6109p6</td></tr><tr><td>Wet(OLI)=0.1511p +0.1973p + 0.3283p +</td></tr><tr><td rowspan=\"7\">NDBSI</td><td>0.3407p4-0.7117ps- 0.4559p6</td><td rowspan=\"7\">p(1、2、3、4、5)分别代表Landsat5TM波段1、2、3、4、5的反射率和</td></tr><tr><td>(SI + IBI)</td></tr><tr><td>2 NDBSI=(</td></tr><tr><td>SI=[(ρs+p3)-(ρ+p)]/[(ρs+p3)+(p4+p)]</td></tr><tr><td></td></tr><tr><td>P4+ 0</td></tr><tr><td>P4+psP+p4P+ps</td></tr><tr><td rowspan=\"7\">LST</td><td>{,+[p+p]</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>DN为Landsat数据像元的灰度值;gain和bias分别为波段增益值和</td></tr><tr><td>LST=/Tr/[1 +(λT)/p)e]-237.15</td><td></td></tr><tr><td>=K/（+1</td><td>偏置值；L代表T/T影红外波段的值长和1.5为定标参数；</td></tr><tr><td></td><td></td></tr><tr><td>L6= gain ×DN + bias</td><td>据的第10波段中心波长10.9μm;p等于1.438×10²mK;ε为比辐 射率</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathbf { } } S _ { ( t + 1 ) } { = } f { \\big ( } S _ { ( t ) } , n { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $s$ 为元胞状态； $f$ 为局部空间的元胞转化规则；$t \\lrcorner t { + } 1$ 为各元胞时刻； $n$ 为2个时刻的间隔时间",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Markov模型认为事物的变化服从马尔可夫过程，其认为事物的后一个状态仅与前一时刻状态和转移概率矩阵有关，其公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { ( t + 1 ) } } = X _ { _ { ( t ) } } \\times P _ { _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $X _ { ( t + 1 ) } \\setminus X _ { ( t ) }$ 分别为 $\\mathbf { \\Lambda } _ { t + 1 , \\mathbf { \\Lambda } _ { \\setminus } } t$ 时刻的状态; $P _ { i j }$ 为转移概率矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1各指标主成分分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，4期的第一主成分特征值贡献率均在 $80 \\%$ 左右，且各指标的贡献率均仅在第一主成分上有着相同的正负分布，具体为代表植被覆盖度的NDVI和代表生态环境湿度的Wet在第一主成分上的贡献率为正值，代表地表温度的LST和代表建筑和裸土所用地硬化程度的NDBSI为负值，表明ND-VI和Wet对生态环境的改善起促进作用，LST和NDBSI对生态环境的改善起抑制作用[23，这与现实中4个指标对生态环境的影响相符合。因此，将选用第一主成分的结果进行RSEI计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2流域生态环境质量时空变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在时间尺度上，对各年份4个指标和RESI进行统计(表4)，由表4可以看出：（1）RSEI指数均值不断增加，从1998年的0.392增长为2016年的0.530,表明流域生态环境质量整体有所改善，特别是2010—2016年期间，RSEI指数均值增长了 $2 0 . 2 4 \\%$ ，生态环境质量提升较快。（2）1998—2016年，NDVI均值呈增长趋势，与韩磊等[24]的研究成果相符。Wet均值整体呈上升趋势。LST均值仅在2016年有所降低。NDBSI呈下降趋势，可能是由于近几年延安市实行了退耕还林政策，大面积耕地转化为林地使得裸土指数有所降低。（3）对比各指数在PC1上荷载的绝对值，发现NDVI、Wet和NDBSI近似相等且大于LST，表明该流域生态环境易受NDVI、Wet和NDBSI的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a58fb1cb54074abb2b4074356820323991930f35ba3a65e25d4d08d7bfc15368.jpg",
+        "table_caption": [
+            "表31998年、2004年、2010年和2016年各指标主成分分析结果",
+            "Tab.3Principal component analysis results of each index in 1998,2004,2010 and 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>参数</td><td>第一主成分</td><td>第二主成分</td><td>第三主成分</td><td>第四主成分</td></tr><tr><td rowspan=\"5\">1998</td><td>NDVI</td><td>0.521</td><td>0.420</td><td>-0.383</td><td>0.636</td></tr><tr><td>Wet</td><td>0.525</td><td>-0.102</td><td>0.834</td><td>0.139</td></tr><tr><td>NDBSI</td><td>-0.530</td><td>-0.340</td><td>0.166</td><td>0.759</td></tr><tr><td>LST</td><td>-0.414</td><td>0.835</td><td>0.362</td><td>0.006</td></tr><tr><td>特征值</td><td>0.137</td><td>0.022</td><td>0.008</td><td>0.000</td></tr><tr><td rowspan=\"5\">2004</td><td>特征值贡献率/%</td><td>81.640</td><td>13.350</td><td>4.850</td><td>0.160</td></tr><tr><td>NDVI</td><td>0.493</td><td>0.418</td><td>-0.478</td><td>-0.595</td></tr><tr><td>Wet</td><td>0.514</td><td>0.119</td><td>0.834</td><td>-0.161</td></tr><tr><td>NDBSI</td><td>-0.534</td><td>-0.242</td><td>0.213</td><td>-0.782</td></tr><tr><td>LST</td><td>-0.456</td><td>0.868</td><td>0.175</td><td>0.091</td></tr><tr><td rowspan=\"5\">2010</td><td>特征值</td><td>0.126</td><td>0.021</td><td>0.009</td><td>0.001</td></tr><tr><td>特征值贡献率/%</td><td>79.950</td><td>13.150</td><td>5.680</td><td>0.870</td></tr><tr><td>NDVI</td><td>0.548</td><td>0.328</td><td>-0.388</td><td>0.665</td></tr><tr><td>Wet</td><td>0.547</td><td>0.003</td><td>0.837</td><td>0.036</td></tr><tr><td>NDBSI</td><td>-0.541</td><td>-0.223</td><td>0.322</td><td>0.744</td></tr><tr><td rowspan=\"7\">2016</td><td>LST</td><td>-0.329</td><td>0.918</td><td>0.214</td><td>-0.057</td></tr><tr><td>特征值</td><td>0.138</td><td>0.019</td><td>0.006</td><td>0.001</td></tr><tr><td>特征值贡献率/%</td><td>84.050</td><td>11.610</td><td>3.570</td><td>0.770</td></tr><tr><td>NDVI</td><td>0.565</td><td>0.298</td><td>-0.548</td><td>0.541</td></tr><tr><td>Wet</td><td>0.502</td><td>0.061</td><td>0.819</td><td>0.273</td></tr><tr><td>NDBSI</td><td>-0.558</td><td>-0.216</td><td>0.093</td><td>0.796</td></tr><tr><td>LST</td><td>-0.344</td><td>0.928</td><td>0.144</td><td>-0.006</td></tr><tr><td></td><td>特征值</td><td>0.167</td><td>0.021</td><td>0.004</td><td>0.001</td></tr><tr><td></td><td>特征值贡献率/%</td><td>86.720</td><td>10.710</td><td>2.280</td><td>0.290</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f4d3b5098133d1b1dfbc642995d4b844bcc6075b36f125b4a8adba3bdefb630.jpg",
+        "table_caption": [
+            "表4各年份4个指标和RSEI的统计值",
+            "Tab.4 Statistical values of 4 indicators and RSEI for each year "
+        ],
+        "table_footnote": [
+            "注：表中-表示无相应数值。"
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>参数</td><td>NDVI</td><td>Wet</td><td>NDBSI</td><td>LST</td><td>RSEI</td></tr><tr><td>1998</td><td>均值</td><td>0.322</td><td>0.478</td><td>0.685</td><td>0.507</td><td>0.392</td></tr><tr><td></td><td>对PC1荷载值</td><td>0.521</td><td>0.525</td><td>-0.530</td><td>-0.414</td><td>1</td></tr><tr><td>2004</td><td>均值</td><td>0.323</td><td>0.507</td><td>0.675</td><td>0.513</td><td>0.410</td></tr><tr><td></td><td>对PC1荷载值</td><td>0.493</td><td>0.514</td><td>-0.534</td><td>-0.456</td><td>1</td></tr><tr><td>2010</td><td>均值</td><td>0.471</td><td>0.503</td><td>0.619</td><td>0.539</td><td>0.441</td></tr><tr><td></td><td>对PC1荷载值</td><td>0.548</td><td>0.547</td><td>-0.541</td><td>-0.329</td><td>1</td></tr><tr><td>2016</td><td>均值</td><td>0.581</td><td>0.565</td><td>0.504</td><td>0.420</td><td>0.530</td></tr><tr><td></td><td>对PC1荷载值</td><td>0.565</td><td>0.502</td><td>-0.558</td><td>-0.344</td><td>二</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考《生态评价技术规范》中的生态环境分级标准和以往学者的研究成果，将计算得到的RSEI值以0.2为间隔划分为很差、较差、中等、良好和优良5个等级（图2)，并对各等级面积进行统计（表5)，由表5可以看出：(1)空间尺度上，流域生态环境质量基础较差，总体分布特点表现为南部优于北部，主要原因是南部水热条件组合较好。生态环境质量以较差和中等等级为主，主要分布于河流两旁的山谷地带，平均面积占比为 $6 2 . 4 \\%$ 。优良等级面积占比最少，主要分布于流域南部的山区地带，平均面积占比仅为 $8 . 1 \\%$ 。（2）生态环境质量从东南向西北逐渐改善。较差和良好等级的面积占比变化显著，其中较差等级面积占比减少了 $1 9 . 3 \\%$ ，良好等级面积占比增加了 $1 6 . 5 \\%$ 。（3）2012年4月流域开展的“治沟造地”工程[25，对生态环境质量影响较大，图2中显示，到2016年流域中部新区的生态环境质",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c56b00a91ec84ef5a08849d76b400835f1f05b2ab75ee5c1a3707fe243ed401.jpg",
+        "img_caption": [
+            "图2延河流域1998年、2004年、2010年和2016年遥感生态指数",
+            "Fig.2 Remote sensing ecological index of Yanhe River Basin in 1998,2004,2010 and 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/29069a5501fbac9b780e132cbf8d3b570bcde4f24d02dd4f5b71d0e95eea0d96.jpg",
+        "table_caption": [
+            "表5流域1998—2016年遥感生态指数各等级面积统计",
+            "Tab.5Area statistics of each grade of remote sensing ecological index in watershed from 1998 to 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI 等级</td><td colspan=\"2\">1998年</td><td colspan=\"2\">2004年</td><td colspan=\"2\">2010年</td><td colspan=\"2\">2016年</td><td colspan=\"2\">均值</td></tr><tr><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td></tr><tr><td>很差</td><td>1240.430</td><td>16.2</td><td>1344.149</td><td>17.6</td><td>948.261</td><td>12.4</td><td>687.401</td><td>9.0</td><td>1055.060</td><td>13.8</td></tr><tr><td>较差</td><td>3123.612</td><td>40.9</td><td>2731.561</td><td>35.7</td><td>2563.76</td><td>33.5</td><td>1650.651</td><td>21.6</td><td>2517.396</td><td>32.9</td></tr><tr><td>中等</td><td>2177.107</td><td>28.5</td><td>2167.987</td><td>28.3</td><td>2428.126</td><td>31.8</td><td>2229.879</td><td>29.2</td><td>2250.775</td><td>29.5</td></tr><tr><td>良好</td><td>706.533</td><td>9.3</td><td>878.767</td><td>11.5</td><td>1252.57</td><td>16.4</td><td>1969.7</td><td>25.8</td><td>1201.892</td><td>15.7</td></tr><tr><td>优良</td><td>390.561</td><td>5.1</td><td>528.387</td><td>6.9</td><td>452.606</td><td>5.9</td><td>1103.360</td><td>14.4</td><td>618.729</td><td>8.1</td></tr><tr><td>合计</td><td>7638.244</td><td>100.00</td><td>7650.851</td><td>100.00</td><td>7645.323</td><td>100.00</td><td>7640.991</td><td>100.00</td><td>7643.852</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "量等级变为很差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3延河流域生态环境质量动态监测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了定量研究4期延河流域生态环境质量变化的时空分布特征和变化趋势，采用差值法对4期的RSEI进行空间对比，并划分为变好、不变和变差3个类别(图3)。由表6可以看出，流域生态环境质量保持稳定的面积占比较大，同时有所改善。而且差值的等级数为1的面积最大，说明流域生态环境质量总体表现为循序渐进地向高一等级转变",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，1998—2004年，安塞县、宝塔区和志丹县等区域生态环境质量恶化，其余各县的生态环境质量均有较大程度的改善；主要因前者多位于城市周边，建设用地扩张一定程度上影响了生态环境质量，后者生态退耕政策的实施起到了积极的作用。2004—2010年，流域西部和中部区域生态环境质量有所改善，西北部以及南部区域生态环境质量变差，可能与这个时期流域土壤侵蚀强度增加有关[26]。2010—2016年,流域生态环境质量得到全面改善。这也表明，政策因素对于生态环境的质量具有重要的驱动作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d774fad02b9707faddc9c8a457c98c06bda4af9e43a9f60d807a809ed5184424.jpg",
+        "img_caption": [
+            "图3延河流域生态环境质量变化时空分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Spatiotemporal distribution of the change of ecological environmental quality in Yanhe River Basin ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/abe151a17010456e933f55aaa577a2661612c3743997b4b4487148d9596de6dd.jpg",
+        "table_caption": [
+            "表6延河流域生态等级变化统计",
+            "Tab.6 Statistics on the change of ecological grades in Yanhe River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类别</td><td rowspan=\"2\">差值</td><td colspan=\"2\">1998—2004年</td><td colspan=\"2\">2004—2010年</td><td colspan=\"2\">2010—2016年</td><td colspan=\"2\">1998—2016年</td></tr><tr><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td></tr><tr><td>变差</td><td>-4</td><td>0.118</td><td>0.000</td><td>0.572</td><td>0.010</td><td>2.343</td><td>0.030</td><td>1.577</td><td>0.020</td></tr><tr><td></td><td>-3</td><td>2.410</td><td>0.030</td><td>6.343</td><td>0.080</td><td>12.629</td><td>0.170</td><td>13.319</td><td>0.170</td></tr><tr><td></td><td>-2</td><td>68.338</td><td>0.890</td><td>67.848</td><td>0.890</td><td>64.073</td><td>0.840</td><td>116.252</td><td>1.520</td></tr><tr><td>不变</td><td>-1</td><td>1198.591</td><td>15.690</td><td>1224.513</td><td>16.020</td><td>506.432</td><td>6.630</td><td>891.650</td><td>11.690</td></tr><tr><td></td><td>0</td><td>4499.537</td><td>58.910</td><td>4238.542</td><td>55.460</td><td>3571.693</td><td>46.770</td><td>2596.093</td><td>34.020</td></tr><tr><td>变好</td><td>1</td><td>1764.221</td><td>23.100</td><td>1737.903</td><td>22.740</td><td>2894.729</td><td>37.910</td><td>2328.290</td><td>30.510</td></tr><tr><td></td><td>2</td><td>99.059</td><td>1.300</td><td>286.970</td><td>3.750</td><td>518.229</td><td>6.790</td><td>1085.440</td><td>14.230</td></tr><tr><td></td><td>3</td><td>5.306</td><td>0.070</td><td>69.857</td><td>0.910</td><td>63.083</td><td>0.830</td><td>449.429</td><td>5.890</td></tr><tr><td></td><td>4</td><td>0.428</td><td>0.010</td><td>10.327</td><td>0.140</td><td>3.549</td><td>0.050</td><td>148.193</td><td>1.940</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4驱动力因子分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 影响生态环境质量变差的因素分析 RSEI的4个指标分别代表着流域植被覆盖、土地退化、土壤湿度和地表温度情况，是指征生态环境质量的重要指标。因此，针对生态环境质量恶化区域，分析各指标变化对RSEI变化的驱动力，有助于更加清晰地了解生态环境质量变差的原因，以便为流域生态环境改善提供科学依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用GIS的空间分析方法，可视化表达各指标1998—2016年的变化情况(图4），划分生态环境质量变差区域，由图4可以看出，其主要分布于a、b、c、d和e区域，并采用SPSS工具建立各区域的多元线性回归模型(表7)，由表7可以看出，各区域对RSEI等级降低起重要作用的指标存在差异。其中a、b和c区域主要受Wet和NDBSI变化的影响，d区域主要受Wet、NDBSI和LST变化的影响，而e区域主要受NDVI和Wet变化的影响。影响土壤湿度的因素有很多，但起重要作用的为降水量、蒸发量和土壤类型[7],土地退化则与气候变化和土壤侵蚀有着密切的关系[28]。分析流域多年的气候变化情况(图5)，可以发现气温和降水量多年变化幅度较大，这在一定程度上会加剧流域的水土流失问题，从而导致生态环境质量变差。因此， $\\mathbf { a } , \\mathbf { b } , \\mathbf { c }$ 和d区域生态环境质量变差较多受自然因素影响。植被覆盖度的变化与人为因素和自然因素都有着密切的关系，而延河流域人地矛盾问题突出，人口数量和经济收人多年呈增长趋势(图5)，加速了流域城市的开发，并且e区域为延安市新区，因此该区域生态质量变差较多",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/79585cb6f0486cf0e27a066204c0ad8103353dbeb965c53fb2bd028d1a86a286.jpg",
+        "img_caption": [
+            "图41998—2016年延河流域各指标变化",
+            "Fig.4Changes of indicators in Yanhe RiverBasin from1998 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表7多元线性回归方程",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/72af698524a69062e77eeb2edee688d2aaf4ee509d272933784cfea998ade9e0.jpg",
+        "table_caption": [
+            "Tab.7Multiple linear regression equation table "
+        ],
+        "table_footnote": [
+            "注:RSEI、NDVI、WetNDBSILST为1998—2016年各指标值差划分等级后的结果值(其划分方法与图3相同),取值为1、2、3;其中,等级变差取值为1;等级不变取值为2;等级变好取值为3;下标i为等级数，取值为1,2,3。"
+        ],
+        "table_body": "<html><body><table><tr><td>区域</td><td>样本点数</td><td>多元线性回归方程</td><td>R</td><td>R</td><td>P</td></tr><tr><td>a</td><td>158</td><td>RSEI=1.688+0.147NDVI+0.347Weti-0.363NDBSI-0.009LST</td><td>0.789</td><td>0.622</td><td><0.01</td></tr><tr><td>b</td><td>300</td><td>RSEI=2.332+0.086NDVI+0.199Wet:-0.238NDBSI-0.220LST:</td><td>0.585</td><td>0.342</td><td><0.01</td></tr><tr><td>c</td><td>250</td><td>RSEI=2.520+0.012NDVI+0.195Wet-0.384NDBSI-0.032LSTi</td><td>0.643</td><td>0.413</td><td><0.01</td></tr><tr><td>d</td><td>534</td><td>RSEI=1.335+0.150NDVI+0.368Weti-0.188NDBSI-0.090LST</td><td>0.641</td><td>0.411</td><td><0.01</td></tr><tr><td>e</td><td>100</td><td>RSEI=1.201+0.385NDVI+0.263Wetj-0.131NDBSI-0.112LSTi</td><td>0.772</td><td>0.596</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5ead42ed1d030d468ed3332e9530c6ec94fa4c43aad9174a61a87851a702bd9.jpg",
+        "img_caption": [
+            "Fig.5 Climatic and socio-economic conditions in Yanhe River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "受人为因素影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.2DEM与生态环境质量的关系基于GIS空间统计功能分析DEM与RSEI等级之间的关系，发现海拔低于 $6 0 0 \\mathrm { ~ m ~ }$ 的区域，生态环境质量为很差、较差和中等的等级面积占比超过 $9 0 \\%$ ，优良等级占比几乎为0(图6)。在海拔 $6 0 0 { \\sim } 1 8 0 0 \\mathrm { ~ m }$ ，随着海拔的升高，流域很差等级面积占比增加，海拔 $1 6 0 0 { \\sim } 1 8 0 0 \\mathrm { m }$ 很差和较差等级面积占比超过了 $8 0 \\%$ 。参考《生态环境状况评价技术规范》中对各等级的描述，以具备人类居住条件的中等、良好和优良等级为划分标准，发现生态环境质量以 $1 2 0 0 \\mathrm { ~ m ~ }$ 为分界点， $4 7 3 \\sim$ $1 2 0 0 \\mathrm { ~ m ~ }$ 随着海拔的升高具备人类居住条件的面积占比增加, $1 2 0 0 { \\sim } 1 8 0 0 \\ \\mathrm { m }$ 随着海拔的升高面积占比减少，表明延河流域在较高和较低海拔区域的生态环境质量较差，在海拔 $8 0 0 { \\sim } 1 2 0 0 ~ \\mathrm { m }$ 区域生态环境质量较好，大面积适宜人类居住。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d16922a23e834f988992b4a831ebf42d66a319c1f7e2caaf14be47408c57fed.jpg",
+        "img_caption": [
+            "图5延河流域多年气候和社会经济情况",
+            "图6不同海拔不同等级生态质量所占比",
+            "Fig.6Proportions of different levels of ecological quality at different altitudes "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a65dcda91280a50315b3af1fdec6272b47483a972a574d4383b67f1f84aa9cd6.jpg",
+        "img_caption": [
+            "图72022年(a)模拟与2028年(b)预测结果",
+            "Fig.7Simulated results in 2022 (a) and predicted results in 2028 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5CA-Markov模型预测 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于1998年、2004年和2010年的RSEI等级计算结果，运用CA-Markov模型，模拟2010年和2016年的RSEI等级，并评价模型的适用性。经过计算，2010年和2016年的模拟结果与计算结果之间的Kappa系数分别为0.6863和0.6102，属于高度一致，表明该模型在延河流域生态环境质量的预测中具有一定的适用性。因此，应用此模型对流域2022年的生态环境情况进行模拟，并基于模拟结果对2028年进行预测(图7)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经统计，2022年等级很差、较差、中等、良好和优良面积各占比为 $6 \\% 1 5 \\% . 2 4 \\% . 3 0 \\%$ 和 $2 5 \\%$ ,2028年为 $5 \\% , 1 1 \\% , 1 8 \\% , 3 1 \\%$ 和 $3 5 \\%$ 。相比于2016年,很差、较差和中等等级面积减少，其余各等级面积均增加，其中等级较差、优良面积变化最大。到2028年延河流域生态环境的改善会持续向西北方向延伸，但由于流域西北部地处半干旱地区，降水稀少、植被覆盖度较低、生态环境本底值较差。因此，未来对流域生态环境治理的重点仍应为西北部地区。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，遥感生态指数主要应用于对城市和矿区生态环境质量的评价，对流域生态环境的监测，多集中于半湿润区和湿润地区，在半湿润区向半干旱区过度地带的应用较少。因此，应用RSEI对生态环境本底脆弱、人地关系矛盾较为突出的延河流域进行生态环境监测评价具有一定挑战。研究表明，RSEI值估算结果与延河流域环境治理工程实施前后，流域生态环境质量的改善状况相吻合。同时，一些学者的研究结果表明,延安市植被覆盖度增加的总体迁移趋势是向北向西，北部植被覆盖度仍比较低[24]，这也与本研究所监测的结果一致，表明RSEI对延河流域具有较好的适用性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于此，研究利用RSEI对延河流域近20a的生态环境进行遥感监测，结果表明延河流域的生态环境本底较弱，但发展较好。海拔较高地区的生态环境质量变差主要是受自然因素影响，其中土壤十湿度和地表温度的影响较为突出，而海拔适宜地区的生态环境质量变差主要是受人类活动影响，例如城市建设用地发展等。柯锐鹏等[29]研究发现，当城镇化发展进入高级阶段，城镇化可以保持甚至改善生态环境质量，这就需要人们对城市进行合理规划。因此，需要注重流域西北部地区生态环境的综合治理以及中部地区城市规模的适度发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "文中根据各个指标的变化情况，分析了流域生态环境质量变差区域的驱动因子，但研究中着重考虑了各分区的主导驱动因素，缺乏对各因子之间的交互作用的综合考虑，也未实现各驱动因子的定量研究。因此，后续的研究中，拟采用地理探测器方法，对流域的生态环境变化的驱动因子进行定量分析。同时，在对CA-Markov模型的可适用性进行检验时,2期模拟结果的Kappa系数虽符合高度一致性，但也存在一定误差，这与影像本身的不确定性以及因素选取的全面性都有关系，也期望后续能得",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "到改进。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利用Landsat影像数据，辅以DEM、气象数据和人口经济数据，对延河流域1998年、2004年、2010年和2016年的生态环境质量进行分析和评价，并使用CA-Markov模型对2022年和2028年的生态环境进行预测。得到如下结论：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）RSEI在延河流域的生态环境质量评价中具有较好的适用性，在半干旱半湿润区的流域生态环境质量监测中可进行推广应用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）延河流域生态基础较差，但近20a来生态环境质量在不断提升。RSEI均值从1998年的0.392增长到2016年的0.530，且空间上生态环境质量从东南向西北逐渐改善。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）自然因素和人为因素对流域生态环境变化的影响存在空间差异性。其中海拔 $1 2 0 0 { \\sim } 1 8 0 0 \\mathrm { m }$ 的区域，生态环境质量变差主要受降雨量、气温变化等自然因素的影响；低于 $1 2 0 0 \\mathrm { m }$ 的区域，主要受城市扩张等人类活动的影响。在海拔 $8 0 0 { \\sim } 1 2 0 0 ~ \\mathrm { m }$ ，受自然因素、人类活动的影响均较少，生态环境质量普遍高于其他区域。因此，高海拔地区土地资源的合理优化以及中低海拔地区城市化进程的适度发展是值得关注的问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）CA-Markov模型的预测结果表明，2028年延河流域生态环境质量会得到大面积改善，良好和优良等级面积占比总和可达到 $6 6 \\%$ ，但西北部还是以很差和较差等级为主。因此，未来对于生态本底脆弱的西北部地区仍需加强保护和治理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]赵其国,黄国勤,马艳芹.中国生态环境状况与生态文明建设[J].生态学报,2016,36(19): 6328-6335.[Zhao Qiguo,HuangGuoqin,Ma Yanqin.The ecological environment conditions andconstruction of an ecological civilization in China[J].Acta Ecologi-ca Sinica,2016,36(19): 6328-6335.]  \n[2] 陈博明.遥感技术在生态环境监测及执法中的应用进展[J].矿冶工程,2020,40(4):165-168,173.[Chen Boming.Progress inthe application of remote sensing technology to ecological environ-ment monitoring and law enforcement supervision[J].Mining AndMetallurgical Engineering,2020,40(4): 165-168,173.]  \n[3] 谢芳,邱国玉,尹婧,等.泾河流域40年的土地利用/覆盖变化分区对比研究[J].自然资源学报,2009,24(8):1354-1365.[Xie",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fang,Qiu Guoyu,imu A,Zhao Y Y,et al. Evaluation of the tempo",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ral and spatial changes of ecological quality in the Haml oasis based on RSEI[J]. Sustainability,2020,12(18): 7716-7738. [4]陈福军,沈彦俊,李倩,等.中国陆地生态系统近30年NPP时空 变化研究[J].地理科学,2011,31(11):1409-1414.[Chen Fujun, Shen Yanjun,Li Qian,et al. Spatio-temporal variationan alysis of ecological systems NPP in China in past 30 years[J]. Science Geo graphica sinica, 2011, 31(11): 1409-1414.] [5]王志成,刘新华,贾付生,等.近10a阿克苏流域植被覆盖时空 演变特征及影响因素[J].长江科学院院报,2017,34(9):24-28,   \n35.[Wang Zhicheng,Liu Xinhua,Jia Fusheng, et al. Vegetation cover in Aksu River Basin over the past decade:Spatio-temporal variation and impact factors[J]. Journal of Yangtze River Scientific Research Institute,2017,34(9): 24-28, 35.] [6]林雷余,谢先德,孙鸿良,等.浙江省萧山县山—村农业结构现 状及生态农业建设对策[J].农村生态环境,1987,4(1):1-6. [Lin Leiyu, Xie Xiande,Sun Hongliang,et al. Present situation of agricultural structure and countermeasures of ecological agriculture construction in Shanyi Village of Xiaoshan County, Zhejiang Province[J].Journal of Ecology and Rural Environment,1987,4 (1): 1-6.] [7]程春明,李蔚,宋旭.生态环境大数据建设的思考[J].中国环境 管理,2015,7(6):9-13.[Cheng Chunming,Li Wei, Song Xu. Thinking on the big data construction for ecological environment [J]. Chinese Journal of Environmental Management, 2O15,7(6): 9-   \n13.] [8]高鹏文,阿里木江·卡斯木,图尔荪阿依·如孜,等.哈密市生态 环境效益时空分析[J].干旱区研究,2020,37(4):1057-1067. [Gao Pengwen, Kasim Alimujiang,Ruzi Tursunayi, et al. Temporal and spatial analysis of ecological environmentim provement in Hami City[J].Arid Zone Research,2020,37(4): 1057-1067.] [9]徐涵秋.区域生态环境变化的遥感评价指数[J].中国环境科学,   \n2013,33(5): 889-897. [Xu Hanqiu. Remote sensing evaluation indexof regional ecological environment change[J]. China Environmental Science,2013,33(5): 889-897.] [10] 张晓东,刘湘南,赵志鹏,等.农牧交错区生态环境质量遥感动 态监测——以宁夏盐池为例[J].干旱区地理,2017,40(5):   \n1070-1078.[Zhang Xiaodong, Liu Xiangnan, Zhao Zhipeng, et al. Dynamic monitoring of ecology and environment in the agro-pastral ecotone based on remote sensing: A case of Yanchi County in Ningxia Hui Autonomous Region[J]. Arid Land Geography, 2017,   \n40(5): 1070-1078.] [11] 徐涵秋,施婷婷,王美雅,等.雄安新区地表覆盖变化及其新区 规划的生态响应预测[J].生态学报,2017,37(19): 6289-6301. [Xu Hanqiu, Shi Tingting, Wang Meiya,etal. Landcover changes in the Xiong'an New Area and a prediction of ecological response to forthcoming regional planning[J].Acta Ecologica Sinica, 2017,   \n37(19): 6289-6301.] [12]Gao PW,Kasimu A,Zhao Y Y,et al. Evaluation of the temporal and spatial changes of ecological quality in the Hami oasis based on RSEI[J]. Sustainability,2020,12(18): 7716-7738.   \n[13] Huang HP,Chen W,Zhang Y,et al. Analysis of ecological quality in Lhasa Metropolitan Area during 1990-2O17 based on remote sens ing and Google Earth Engine platform[J]. Journal of Geographical Sciences,2021,31(2): 265-280.   \n[14] 韩磊,朱会利,刘钊.延安市退耕还林前后土地利用动态变化分 析[J].西北师范大学学报(自然科学版),2017,53(5):101-108. [Han Lei, Zhu Huili, Liu Zhao.Analysis on dynamic change of land use before and after conversion of farmland to forest in yan' an city[J].Journal of Northwest Normal University (Natural Science),2017,53(5): 101-108.]   \n[15] 王丽霞,任志远,任朝霞,等.延河流域 NDVI与主要气候因子 的时空相关性研究[J].干旱区资源与环境,2011,25(8):88-93. [Wang Lixia,Ren Zhiyuan,Ren Zhaoxia, et al. The temporal and spatial correlations between NDVI and main climatic factors in Yanhe watershed[J]. Journal of Arid Land Resources and Environment,2011, 25(8): 88-93.]   \n[16] 董贞凯,穆兴民,赵广举,等.延河流域侵蚀产沙对有效降雨量 及植被恢复的响应[J].泥沙研究,2020,45(5):27-33.[Dong Zhenkai, Mu Xingmin, Zhao Guangju,et al.Responseof sediment yield to effective rainfall and vegetation rehabilitation in the Yanhe River Basin[J]. Journal of Sediment Research,2020,45(5): 27-33.]   \n[17] 王丽春,焦黎,来风兵,等.基于遥感生态指数的新疆玛纳斯湖 湿地生态变化评价[J].生态学报,2019,39(8):2963-2972.[Wang Lichun,Jiao Li,Lai Fengbing,et al..Evaluation of ecological changes based on a remote sensing ecological index in a Manas Lake wetland,Xinjiang[J].Acta Ecologica Sinica,2020,39(8): 2963-2972.]   \n[18]徐涵秋.利用改进的归一化差异水体指数(MNDWI)提取水体信 息的研究[J].遥感学报,2005,4(5): 589-595.[Xu Hanqiu.A study on information extraction of water body with the modified normalized difference water index (MNDWI)[J]. Journal of Remote Sensing,2005,4(5): 589-595.]   \n[19] Sobrino JA, Jiménez-Munoz JC,Paolini L. Land surface temperature retrieval from LANDSAT TM5[J]. Remote Sensing of Environment,2004,90(4): 434-440.   \n[20] 覃志豪,Li Wenjuan,Zhang Minghua,等.单窗算法的大气参数 估计方法[J].国土资源遥感,2003,56(2):37-43.[Qin Zhihao,Li Wenjuan, Zhang Minghua,et al. Estimating of the essential atmospheric parameters of mono-window algorithm for land surface temperature retrieval from Landsat TM6[J]. Remote Sensing for Land & Resources,2003,56(2): 37-43.]   \n[21] 胡德勇,乔琨,王兴玲,等.单窗算法结合Landsat8 热红外数据 反演地表温度[J].遥感学报,2015,19(6): 964-976.[Hu Deyong, Qiao Kun,Wang Xingling,et al.Land surface temperature retrieval from Landsat 8 thermal infrared data using mono-window algorithm[J]. Journal of Remote Sensing,2015,19(6) : 964- 976.]   \n[22] 赵永华,贾夏,刘建朝,等.基于多源遥感数据的景观格局及预 测研究[J].生态学报,2013,33(8):2556-2564.[Zhao Yonghua, Jia Xia,Liu Jianchao, etal.Analysisandforecast of landscape pattern in Xi'an from 2000 to 2011[J].Acta Ecologica Sinica,2013, 33(8): 2556-2564.]   \n[23] 农兰萍,王金亮.基于RSEI模型的昆明市生态环境质量动态监 测[J].生态学杂志,2020,39(6): 2042-2050.[Nong Lanping,Wang Jinliang. Dynamic monitoring of ecological environment quality in Kunming based on RSEI model[J]. Chinese Journal of Ecology, 2020,39(6): 2042-2050.]   \n[24] 韩磊,火红,刘钊,等.基于地形梯度的黄河流域中段植被覆盖 时空分异特征—以延安市为例[J].应用生态学报,2021,32 (5): 1581-1592.[Han Lei, Huo Hong,Liu Zhao,et al.Spatial-temporal variation of vegetation cover in the middle Yellow River Basin based on topographic gradient: A case study of Yan'an City[J]. Chinese Journal of Applied Ecology,2021,32(5): 1581-1592.]   \n[25] 周易.西北地区削山填壑后的生境协同修复——以延安新区学 习书院山体公园项目为例[J].工程建设与设计,2019,63(19): 141-14.[ZouYi.Caboratieestoratioofhbiatsfterotain cutting and reclamation in Northwest China: Taking the learning academy and the mountain park project in Yan'an New District as an example[J]. Environment Engineering Design, 2019, 63 (19): 141-144.]   \n[26]翟睿洁,赵文武,贾立志.基于RUSLE、InVEST和USPED 的土 壤侵蚀量估算对比研究——以陕北延河流域为例[J].农业现 代化研究,2020,41(6):1059-1068.[Zhai Ruijie,Zhao Wenwu, Jia Lizhi.A comparative study of soil erosion estimation based on RUSLE,InVEST and USPED models: A case study of the Yanhe River Basin in Northern Shaanxi[J]. Research of Agricultural Modernization,2020,41(6): 1059-1068.]   \n[27]邓振镛,林日暖,刘丽君.影响我省土壤湿度的因素及其分布 [J].甘肃气象,1990,17(3):19-21.[Deng Zhenyong,LinRinuan, Liu Lijun.Factors afecting soil moisture and its distribution in Gansu Province[J].Gansu Meteorology,1990,17(3): 19-21.]   \n[28] 陈睿山,郭晓娜,熊波,等.气候变化、土地退化和粮食安全问 题:关联机制与解决途径[J].生态学报,2021,41(7): 2918- 2929.[Chen Ruishan,Guo Xiaona,Xiong Bo,et al.Climate change,land degradation and food insecurity: Linkages and potential solutions[J]. Acta Ecologica Sinica,2021,41(7): 2918-2929.]   \n[29] 柯锐鹏,梅志雄.城镇化与绿地退化对城市热环境影响研究[J]. 生态环境学报,2010,19(9): 2023-2030.[Ke Ruipeng, Mei Zhixiong.Analysis on the influence of urbanization and greenland-degradation on city thermal environment[J]. Ecology and Environmental Sciences,2010,19(9): 2023-2030.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Monitoring and prediction of ecological environmental quality in the Yanhe River Basin based on the remote sensing ecological index ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WANG Lixia'， ZHAO Rui'， LIU Zhao²， ZHANG Shuangcheng', KONG Jinling'， YANG Yun'   \n(1.School of Geological Engineeringand Geomatics,Chang'an University,Xi'an 710o54,Shaanxi, China;   \n2.School of Water Conservancy and Environment, Chang'an University,Xi'an 71Oo54,Shaanxi,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on Landsat remote sensing images of the Yanhe River Basin in 1998,2004,2010,and 2016, the remote sensing ecological index (RSEI) was calculated to analyze and evaluate temporal and spatial changes of environmental quality in the Yanhe River Basin.The CA-Markov model was also used to simulate and predict the ecological environment in 2022 and 2028.Results show that (1)the RSEI has good applicability in the Yanhe River Basin and can be used to monitor and evaluate temporal and spatial characteristics of the ecological environment in the basin.(2)For the time scale,the mean RSEI value changed from 0.392 in 1998 to 0.530 in 2016 and showed an increasing trend year by year. On a spatial scale,the RSEI gradually increased from southeast to northwest.RSEI grades were divided by O.2 intervals and the total area ofRSEI grades was mainly poor and moderate. These grades accounted for a total of $6 2 . 4 \\%$ ,which was distributed mainly in the valley of the basin, while the high grade area accounted for the least, at approximately $8 . 1 \\%$ , which was distributed mainly in the mountainous region ofthe southern partofthe basin.(3)There is alarge spatial diference between the effects of natural and human factors on changes in environmental qualityin the watershed.In the area with an altitude of $1 2 0 0 - 1 8 0 0 \\ \\mathrm { m }$ ,the change of eco-environmental quality was affected mainly by natural factors. However, areas below $1 2 0 0 \\mathrm { ~ m ~ }$ are affected mainly by human activities.(4) It is predicted that by 2O28，the ecological environment quality of the basin will continue to improve,and the area of good and high grade willaccount for $66 \\%$ ,but there are still big problems in the northwest of the basin because of the fragile ecological environment background. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Yanhe River Basin； remote sensing ecological index; ecological environment quality； principal com-ponent analysis； CA-Markov model",
+        "page_idx": 11
+    }
+]

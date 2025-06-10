@@ -1,0 +1,151 @@
+# Noise-enhanced chaos in a weakly coupled GaAs/(Al,Ga)As superlattice
+
+Zhizhen Yin, Helun Song,and Yaohui Zhang   
+Key Laboratory of Nano devices and Applications,   
+Suzhou Institute of Nano-tech and Nano-bionics,   
+Chinese Academy of Sciences， Suzhou 215125， China   
+Miguel Ruiz-Garcia,Manuel Carretero，and Luis L. Bonilla   
+Gregorio Millan Institute， Fluid Dynamics   
+Nanoscience and Industrial Mathematics,   
+Universidad Carlos II de Madrid, 28911 Leganés, Spain   
+Klaus Biermann and Holger T.Grahn   
+Paul-Drude-Institut fir Festkorperelektronik,   
+Leibniz-Institut im Forschungsverbund Berlin e. V.,   
+Hausvogteiplatz 5-7, 10117 Berlin, Germany   
+(Dated: January 6, 2017)
+
+# Abstract
+
+Noise-enhanced chaos in a doped， weakly coupled GaAs/Al $0 . 4 5$ Gao.55As superlattice has been observed at room temperature in experiments as well as in the results of the simulation of nonlinear transport based on a discrete tunneling model. When external noise is added,both the measured and simulated current-versus-time traces contain irregularly spaced spikes for particular applied voltages， which separate a regime of periodic current oscillations from a region of no current Oscillations at all.In the voltage region without current oscillations,the electric field profile consist of a low-feld domain near the emitter contact separated by a domain wall consisting of a charge accumulation layer from a high-feld regime closer to the collector contact.With increasing noise amplitude, spontaneous chaotic current oscillations appear over a wider bias voltage range. For these bias voltages,the domain boundary between the two electric-feld domains becomes unstable, and very smallcurrent or voltage fluctuations can trigger the domain boundary to move toward the collector and induce chaotic current spikes. The experimentally observed features are qualitatively very well reproduced by the simulations.Increased noise can consequently enhance chaotic current oscillations in semiconductor superlattices.
+
+# I. INTRODUCTION
+
+With the continuous advancement of nonlinear science and the theory of random dynamical system, we have become aware of the fact that noise should not always be considered as a disturbing factor. Actually, a small amount of noise may enhance the dynamics of a system so that it becomes better defined and controllable. Constructive effects of noise in nonlinear systems have been investigated extensively in the context of stochastic resonances and coherence resonances. By stochastic resonance, noise can optimize the response of a system to an external signal and induce stochastic phase synchronization to the external force [1, 2]. For a coherence resonance, pure noise without an external signal can generate the most coherent motion in the system, as has been mainly observed in excitable systems [3, 4].
+
+A doped， weakly coupled semiconductor superlattice (SSL） represents an almost ideal spatially one-dimensional nonlinear dynamical system with a large number of degrees of freedom, the nonlinearity of which is due to sequential resonant tunneling between adjacent quantum wells. Fluctuations of the layer thicknesses, electron density, energy levels, and inter-well coupling transform a weakly coupled SSL into a complex nonlinear system， in which the electron transport is strongly disspative. A great richness of nonlinear transport behavior has been observed in weakly coupled SSLs, including the formation of stationary electric-field domains， periodic as well as quasi-period current self-oscillations，and even driven as well as undriven chaos [5,6]. The oscillatory behavior is attributed to the localized, oscillatory motion of the domain boundary, which separates the high from the low electricfield domain. Only very recently, spontaneous chaotic [7] and quasi-periodic [8] current self-oscillations were observed at room temperature in GaAs/(Al,Ga)As SLs using an Al content of $4 5 \%$ ， which results in the largest direct barrier for this materials system.
+
+Both theoretical and experimental results have proven that noise can affect the charge transport in weakly coupled GaAs/AlAs SLs [9,10]. A noise-enhanced coherence resonance has been observed in a weakly coupled GaAs/AlAs SL at 77 K [11]. The main reason for the existence of such a coherence resonance in such a SL is related to the interaction between the noise and the two oscillation modes existing in weakly coupled SSL oscillators such as the well-to-well hopping mode and the dipole-motion mode. On this basis, numerical simulations have shown that noise enhances spontaneous chaos at room temperature [12, 13].
+
+In this paper, we report clear evidence for noise-enhanced spontaneous chaos in a doped, weakly coupled GaAs/Al $0 . 4 5$ G $\mathrm { \dot { a } _ { 0 . 5 5 } }$ As SL at room temperature. We find that, with increasing noise amplitude, the spontaneous chaotic oscillations appear over a wider range of voltages. The experimentally observed results are qualitatively very well validated by numerical simulations based on a discrete resonant tunneling model that captures the main features of vertical transport in doped， weakly coupled SSLs [12,13]. The paper is organized as follows. In the next section， we describe the sample structure and measurement techniques followed by the experimental results of the current-voltage characteristics, the current selfoscillations,and attractors extracted from the experimental results. In Sec.II, we present the discrete resonant-tunneling model and the results of the numerical simulations. Finally, we summarize the obtained results and conclude in Sec. IV.
+
+# II. EXPERIMENTALRESULTS
+
+# A. Sample structure and measurement techniques
+
+The sample consists of a doped, weakly coupled GaAs/(Al,Ga)As SL with 50 periods, each period consisting of a GaAs quantum well and an $\mathrm { A l _ { 0 . 4 5 } G a _ { 0 . 5 5 } A }$ s barrier. The central 3 nm of each 7-nm-thick GaAs well are doped with Si at a density of 1 $2 \times 1 0 ^ { 1 7 }$ $\mathrm { c m } ^ { - 3 }$ .The thickness of the Al $_ { 0 . 4 5 }$ Ga $_ { 0 . 5 5 }$ As barriers is 4 nm, resulting in a rather weak coupling between adjacent quantum wells. The SSL is sandwiched between two highly doped GaAs contact layers forming an $n ^ { + }$ $n$ $n ^ { + }$ diode. For more details of the sample structure, see Ref.14. After plasma etching and providing Ohmic contacts of AuGe/Ni/Au with 35/10/500 nm using electron beam evaporation followed by rapid thermal annealing at 420 $^ \circ$ C, square mesas with a side length of 30 $\mu$ m are investigated. Single devices are wire bonded for electrical measurements. All experimental measurements are performed at room temperature. The DC bias voltage $V _ { \mathrm { D C } }$ and the noise with amplitudes $V _ { \mathrm { n o i s e } }$ are applied using the function generator Agilent 33220A. The current-time traces and the frequency spectra are recorded with a 6 GHz oscilloscope LeCroy Wavepro 760Zi-A. For the current-time traces, the oscilloscope records voltage pulses, which are then converted in current values using the $I$ $V$ characteristics. A schematic of the measurement circuit is shown in Fig. 1,which is the same as the one in Ref.11.
+
+![](images/bb727637f94656ba76c534a52f60938aecae4304b5b0524f137ca6591b3f108c.jpg)
+
+FIG.1. Schematic of the experimental setup. The DC bias voltage $V _ { \mathrm { D C } }$ and the noise with amplitudes $V _ { \mathrm { n o i s e } }$ are supplied by a function generator. The current-time traces and the frequency spectra are recorded with a 6 GHz oscilloscope over a 50 $\Omega$ resistor.
+
+# B. Current-voltage characteristics
+
+A typical current-voltage characteristic of the the doped, weakly coupled SSL device is shown in Fig. 2. In the voltage range between 850 and 860 mV, the DC current rapidly increases from 1.24 to 1.55 mA,followed by a current plateau between 860 and 930 mV. In this voltage range, electric-field domains are formed with a charge accumulation layer forming the domain boundary. As the voltage increases further to 94O mV, the current
+
+![](images/631ade73f6af080642f804edfcefc5ff01d1b0ea00abdf5e5a966832fe8f9d9f.jpg)
+
+FIG．2． Measured current IDc versus voltage VDc of the doped， weakly coupled GaAs/Alo.45Gao.55As SL at room temperature. At $V _ { \mathrm { D C } } = 8 4 0$ and $9 4 0 ~ \mathrm { m V }$ , the frequency spectra are dominated by broad-band noise.
+
+decreases to 1.50 mA and then continues down to 1.31 mA.
+
+# C. Current self-oscillations and frequency spectra
+
+The frequency spectra displayed in Fig. 3(a） recorded between $V _ { \mathrm { D C } } = 8 0 0$ and 960 mV without any external noise do not show any current self-oscillations for $V _ { \mathrm { D C } }$ values between 840 and 940 mV. For $V _ { \mathrm { D C } }$ values outside this region, i. e., smaller than 84O or larger than 940 mV, the frequency spectra exhibit periodic oscillations with higher-order harmonics, and the fundamental frequency depends on $V _ { \mathrm { D C } }$ .At $V _ { \mathrm { D C } } = 8 4 0$ and 940 mV, where the transitions between current oscillations and no current oscillations occur, the frequency spectra are dominated by an abrupt decrease to zero frequency. These transitions are accompanied by an abrupt change of the current as shown in Fig. 2. This observation may indicate an infinite period colision of the oscillatory attractor with a homoclinic orbit. Numerical simulations confirm this scenario for the SSL model.
+
+![](images/4d02de624a79f7acbaff136caa1cb153b60e808a107835ae1804c804b9b3ad65.jpg)  
+FIG.3. Measured frequency spectra of the current versus $V _ { \mathrm { D C } }$ recorded between 800 and 960 mV
+
+(a)without noise,(b) with $V _ { \mathrm { n o i s e } } = 2 0 ~ \mathrm { m V }$ ,and(c) with $V _ { \mathrm { n o i s e } } = 8 0 ~ \mathrm { m V }$
+
+Figures 3(b) and $3 ( \mathrm { c } )$ show the frequency spectra for applying additional external noise with amplitudes of $V _ { \mathrm { n o i s e } } = 2 0$ and 80 mV, respectively. For $V _ { \mathrm { n o i s e } } = 2 0 ~ \mathrm { m V }$ in Fig. 3(b), the chaotic oscillations in the transition regions appear over a larger voltage interval than without any external noise [cf. Fig. 3(a)]. The voltage region with no current oscillations becomes narrower. Increasing the noise amplitude to 80 mV results in a further shrinkage of the voltage region with no current oscillations, and the voltage range of seemingly chaotic oscillations extends to 855 and 929 mV as shown in Fig. 3(c). At the same time, the frequency spectra become broader with increasing noise amplitude. These experimental data clearly demonstrate that noise can significantly enhance the chaos generated in doped, weakly coupled SSLs. This was shown theoretically for the case of internal (shot and thermal) noise by the results of the numerical simulations in Ref. 12. The present results show that chaos enhancement can also be achieved more generally by adding appropriate external noise.
+
+Current traces as a function of time have been recorded for two noise amplitudes at （20 $V _ { \mathrm { D C } } = 9 3 9 ~ \mathrm { m }$ V as shown in Fig. 4. Note that the current traces are recorded only with AC coupling so that the information about the DC current level is lost. For $V _ { \mathrm { n o i s e } } = 2 0 ~ \mathrm { m V }$ ．， the current trace contains several irregularly spaced spikes as shown in Fig. 4(a). When the noise amplitude is increased to 80 mV, the current trace exhibits more spikes with somewhat smaller amplitudes as shown in Fig. 4(b). Similar current traces are observed for $V _ { \mathrm { D C } } = 8 4 4 ~ \mathrm { m } \backslash$ / (not shown). There are typically two oscillation modes present in doped, weakly coupled SSLs, the dipole motion mode and the well-to-well hopping mode. When the noise level is low, the dipoles are formed at the emitter moving toward the collector with a large interval of noise spikes. As the noise amplitude is increased,a continuous motion of the well-to-well hopping of the domain boundary occurs, introducing fast current oscillations in the SSL.
+
+![](images/dc4784306a0dd4d6c5231ad7260243f472ee5810ed841eea98461aaeee6ef3fa.jpg)  
+FIG.4. Measured current oscillations $I ( t )$ recorded for different noise amplitudes (a) $V _ { \mathrm { n o i s e } } = 2 0 \mathrm { m V }$ （204号and (b) $V _ { \mathrm { n o i s e } } = 8 0 ~ \mathrm { m V }$ ， $V _ { \mathrm { D C } }$ was fixed at $9 3 9 \mathrm { m V }$ ：
+
+The power spectrum shown in Fig. 5(a) recorded at $V _ { \mathrm { D C } } = 9 4 4 ~ \mathrm { m V }$ I clearly demonstrates that, even without any external noise, the doped, weakly coupled SSL can already exhibit a broad-band spectrum, indicating the possibility of the presence of chaotic oscillations even without external noise. When noise is added as in Fig. 5(b), the power spectrum becomes even broader. At the transition regions between periodic oscillations and no oscillations, the system appears with increasing external noise amplitude to exhibit a chaotic attractor, which leads to spontaneous chaos at room temperature. As predicted by the results of the numerical simulations reported in Ref. 12, internal noise enhances spontaneous chaos. The same effect of chaos enhancement is observed when we add external noise with increasing amplitude as will be further discussed below. At the same time, the frequency spectra in the periodic region are dominated by an oscillation with a single frequency, but with increasing bandwidth as the noise amplitude is increased. Noise can significantly enhance the chaos generated in doped, weakly coupled SSLs.
+
+![](images/784ad31199eab171a27e53e1495bb8a963dce0aaa4ad2f6620a61156d00ff098.jpg)  
+FIG.5. Measured frequency spectra recorded (a) without any external noise and (b) with $V _ { \mathrm { n o i s e } } =$ 20 mV. $V _ { \mathrm { D C } }$ was fixed at $9 4 4 ~ \mathrm { m V }$ ：
+
+# D. Attractors obtained from experimental results
+
+Figures 6(a), 6(b), 6(c), and 6(d) show reconstructed Poincaré maps from the experimental current traces versus time for no noise as well as $V _ { \mathrm { n o i s e } } = 2 0$ , 80, and 120 mV, respectively, at $V _ { \mathrm { D C } } = 8 4 5$ mV. In the absence of external noise, the deterministic attractor is stationary, and the Poincaré map should consist of a single point. In Fig. 6(a), the unavoidable internal noise produces many points concentrated in a smal region. When external noise is added, the Poincaré maps explore a region that becomes larger and fuller as the external noise amplitude increases as shown in Figs. 6(b), $6 ( \mathrm { c ) }$ ，and $6 ( \mathrm { d } )$ .Similar Poincaré maps are extracted from experimental current traces versus time at $V _ { \mathrm { D C } } = 9 4 0 ~ \mathrm { m }$ V. Figure 6(e) shows the values of the capacity dimension $D _ { 0 }$ , the information dimension $D _ { 1 }$ ，and the correlation dimension $D _ { 2 }$ as a function of the external noise amplitude,which all increase with increasing noise amplitude. Without external noise, the SSL is in a stationary state with zero fractal dimension. When the external noise is turned on and increased, time-dependent oscillations appear, and the fractal dimension $D _ { 0 }$ increases abruptly demonstrating evidence of chaotic oscillations induced by noise. Figure $6 ( \mathrm { f } )$ shows the multifractal dimension for the different noise amplitudes. For large positive values of $q$ , the fractal dimension $D _ { q }$ corresponds to regions of the attractor that are more often visited by the system trajectory and does not increase that much with external noise. For $q < 0$ and $| q |$ large, $D _ { q }$ is due to the least sampled regions of the attractor, and it increases more strongly when the external noise increases. We conclude that increasing the external noise expands the regions in phase space that are visited by the system trajectory, an effect that is obvious from the sequence shown in Figs. 6(b)-6(d).
+
+![](images/b5714ee127427d441d5dda0e47de06f760f293ce95dfe0691d7b6ce5ea3f5a5b.jpg)  
+FIG.6. Poincaré maps extracted from experimental current traces versus time for (a) no external noise as well as with external noise of amplitude (b) $V _ { \mathrm { n o i s e } } = 2 0$ ，(c） 80,and (d) 120 mV. (e) Values of the capacity dimension $D _ { 0 }$ (diamonds),the information dimension $D _ { 1 }$ (squares)，and the correlation dimension $D _ { 2 }$ (circles) as a function of $V _ { \mathrm { n o i s e } }$ . (f） Multifractal spectra. $V _ { \mathrm { n o i s e } } = 2 0$ （20 (solid line), 80 (dashed line) and 12O (dash-dotted line). $V _ { \mathrm { D C } }$ was fixed at 845 mV.
+
+# III. MODEL AND SIMULATED RESULTS
+
+# A. Discrete resonant tunneling model
+
+Numerical results are obtained using a discrete resonant tunneling model that captures the main features of doped, weakly coupled SSL [5,6]. The model consists of dynamical equations describing the evolution of the variables such as the electric field $- \boldsymbol { F } _ { i } ^ { \prime }$ as well as the two-dimensional (2D) electron density $n _ { i }$ at well $i$ , the tunneling current density $J _ { i \to i + 1 }$ from well $i$ to $i + 1$ , and the SL total current density $J ( t )$
+
+$$
+\epsilon \frac { d F _ { i } } { d t } + J _ { i  i + 1 } = J ( t ) ,
+$$
+
+$$
+J _ { i \to i + 1 } = { \frac { e n _ { i } } { l } } v ^ { ( f ) } ( F _ { i } ) - J _ { i \to i + 1 } ^ { - } ( F _ { i } , n _ { i + 1 } , T ) ,
+$$
+
+$$
+J _ { i \to i + 1 } ^ { - } ( F _ { i } , n _ { i + 1 } , T ) = \frac { e m ^ { * } k _ { B } T } { \pi \hbar ^ { 2 } l } v ^ { ( f ) } ( F _ { i } ) \ln \left[ 1 + e ^ { - \frac { e F _ { i } l } { k _ { B } T } } \left( e ^ { \frac { \pi \hbar ^ { 2 } n _ { i + 1 } } { m ^ { * } k _ { B } T } } - 1 \right) \right] ,
+$$
+
+$$
+n _ { i } = N _ { D } + \frac \epsilon e ( F _ { i } - F _ { i - 1 } ) ,
+$$
+
+$$
+\sum _ { i = 1 } ^ { N } F _ { i } = { \frac { V _ { \mathrm { D C } } + \eta ( t ) } { l } } , \quad \eta ( t ) = \eta _ { t h } ( t ) + \eta _ { c } ( t ) ,
+$$
+
+$$
+J _ { 0 \to 1 } = \sigma _ { 0 } F _ { 0 } , \quad J _ { N \to N + 1 } = \sigma _ { 0 } \frac { n _ { N } } { N _ { D } } F _ { N } .
+$$
+
+Here $i = 1 , . . . , N$ ，where $N$ denotes the number of periods of the SSL. The forward electron velocity $\boldsymbol { v } ^ { ( f ) } ( \boldsymbol { F } _ { i } )$ is a function with peaks corresponding to the discrete energy levels in every well calculated using a Kronig-Penney model for the investigated SSL configuration as summarized in Tab. I. A more detailed description can be found in Refs. 6 and 12. The overall voltage drop between the ends of the SSL $\textstyle \sum _ { i = 1 } ^ { N } F _ { i } / l$ is expected to be equal to the DC voltage bias $V _ { \mathrm { D C } }$ and the noise voltage drop $\eta ( t )$ provided by the function generator in Fig.1. The numerical values of the parameters correspond to the experimental configuration described in Sec. II with an equivalent 2D doping density due to the doping of the central part of the quantum well of $N _ { D } = 6 { \times } 1 0 ^ { 1 0 } \ \mathrm { c m ^ { - 2 } }$ . The effective mass of the electrons in the GaAs/Al $x$ Ga $_ { 1 - x }$ As SL is $m ^ { * } = ( 0 . 0 6 3 + 0 . 0 8 3 x ) m _ { e }$ ,where $m _ { e }$ denotes the free-electron mass. The well and barrier widths are $l _ { w } = 7$ and $l _ { b } = 4 \ : \mathrm { n m }$ , respectively, as for the experimentally investigated SSL so that the period of the SSL is $l = l _ { b } + l _ { w } = 1 1 \ \mathrm { n m }$ . The transversal area of the SSL is assumed to be $A = s ^ { 2 }$ with $s = 3 0 \ \mu \mathrm { m }$ . Finally, the relative permittivity of the SSL is $\epsilon = l / [ l _ { w } / \epsilon _ { w } + l _ { b } / \epsilon _ { b } ]$ with $\epsilon _ { w } = 1 2 . 9 \epsilon _ { 0 }$ and $\epsilon _ { b } = 1 0 . 9 \epsilon _ { 0 }$ referring to the relative permittivity of the well and barrier material, respectively. $\epsilon _ { 0 }$ ， $- e < 0$ ， $k _ { B }$ ， $T$ ，and $\sigma _ { 0 }$ denote the vacuum permittivity, the electron charge, Boltzmann's constant, the lattice temperature, and the contact conductivity, respectively. The contact conductivity $\sigma _ { 0 }$ is derived from a linear approximation of the emitter current density $J _ { 0 \to 1 }$ , which depends on the structure of the contact. We use $\sigma _ { 0 } = 0 . 7 6 3 \mathrm { ~ A } / ( \mathrm { ~ V ~ m } )$ ， which qualitatively reproduces the experimental current-voltage characteristic shown in Fig. 2 for a barrier height $V _ { \mathrm { b a r r } } = 3 8 8 ~ \mathrm { m e l }$ 1. The voltage noise $\eta ( t )$ has two components: (i) $\eta _ { t h } ( t )$ ，which is related to the intrinsic noise of the source, and (ii) the external noise $\eta _ { c } ( t )$ . The thermal noise $\eta _ { t h } ( t )$ is simulated by picking random numbers every $5 \times 1 0 ^ { - 1 1 }$ s from a zero mean distribution with a standard deviation of $1 . 6 \times 1 0 ^ { - 3 }$ V. The external noise $\eta _ { c } ( t )$ is simulated by picking random numbers every $5 \times 1 0 ^ { - 9 }$ s from a zero mean distribution with a tunable standard deviation.
+
+TABLE I. Values of the potential barrier $V _ { \mathrm { b a r r } }$ and the first three energy levels $E _ { 1 }$ ， $E _ { 2 }$ ，and $E _ { 3 }$ for the doped, weakly coupled GaAs/Alo.45Gao.55As SL.   
+
+<html><body><table><tr><td>Vbarr (meV)</td><td>E1 (meV)</td><td>E2 (meV)</td><td>E3 (meV)</td></tr><tr><td>388</td><td>45</td><td>173</td><td>346</td></tr></table></body></html>
+
+# B. Results of numerical simulations
+
+Figure 7 depicts the simulated current-voltage characteristic for the deterministic equations of our model $[ \eta ( t ) = 0$ )]. The mean current (dashed line） should be compared with the experimental one in Fig.2. The average current for voltages at which there are current oscillations in Fig.7 is qualitatively similar to the first part of Fig.2. There is a shift between the theoretical and experimental curves due to the built-in voltage and a voltage drop at an external resistance that are absent in our model equations. In the experiment, there is a voltage region of stationary current between two regions of current oscillations. This window of stationary currents is absent in the simulations of our model. However, the end of the first voltage region with current oscillations in Fig. 2 is similar to the end of the voltage region with current oscillations in Fig. 7.
+
+Figures 8(a), 8(b),8(c),and 8(d) show the results of the numerical simulations for the current oscillations for different noise amplitudes (a) $V _ { \mathrm { n o i s e } } = 1$ (only thermal noise is present), (b) 8,(c) 33,and (d) 46 mV,respectively, at $V _ { \mathrm { D C } } = 3 8 0 ~ \mathrm { m V }$ ，which lies in the oscillatory
+
+![](images/d6ef2fed9b9c09ecf632041741c88f68cf9e82475f8b1adb4b1cca062abc5617.jpg)
+
+FIG.7. Results of the numerical simulations of the current $I _ { \mathrm { D C } }$ versus voltage $V _ { \mathrm { D C } }$ for $\sigma =$ 0.763 A/(V m). The dash-dotted, the dashed,and the solid line correspond to the maximum, mean, and minimum current, respectively. In the voltage region between 0.26 and O.4 V, current oscillations occur. The simulated curves are shifted to lower voltages compared with the experimental curve due to built-in fields and a voltage drop at an external resistance. Nevertheless, the Oscillatory region is qualitatively similar to the one found in the experiments as shown in Fig. 2.
+
+region of the current-voltage curve presented in Fig.7. The internal and external noise are numerically generated as explained above. With increasing $V _ { \mathrm { n o i s e } }$ ， the oscillations become less periodic, contain more spikes in the same time interval, and the amplitude becomes more and more irregular. The corresponding frequency spectra as determined by a numerical Fourier transform are displayed in Fig. 8(e)， 8(f)， 8(g)，and 8(h)， respectively. The number of peaks in the frequency spectra decreases with increasing noise amplitude, while the width of the frequency spectra increases. We have repeated the simulations for a voltage of 460 mV, for which the deterministic system is in a stationary state. The behavior with increasing noise amplitude is very similar to the one shown in Figs. 8(b)-8(d) with some differences in the details of the current oscillations and frequency spectra. In comparison to Fig.8(a), it looks of course diferent，because there are no current oscillations in this case. Overall, the experimental trend with increasing noise amplitude is reproduced, i. e., the larger the controlled noise amplitude, the more random the current oscillations become. Note that simulations of the field distribution (not shown) indicate that the current spikes in the simulated current traces in Figs. 8(a)-8(d) are caused by the generation of a small charge dipole， which is generated at the emitter contact and moves toward the collector contact. When the front part of the dipole reaches the collector contact, it disappears, while the back part of the dipole rebuilds the domain wall, which existed before the current spike. We have also constructed phase portraits from the calculated electric field in well number 47 versus well number 3. We can build alternative Poincaré maps based on the intersection of the trajectories in these phase portraits with an appropriate segment of a straight line. Period doubling scenarios or quasi-peridic attractors could be visualized using such Poincaré maps. Thus, these phase portraits give information on the chaotic state of the system. Figures 9(a)， 9(b)， 9(c)，and 9(d) show the phase portraits for different noise amplitude (a) $V _ { \mathrm { n o i s e } } = 1$ ， (b) 8,(c) 33,and (d) 46 mV,respectively,at $V _ { \mathrm { D C } } = 3 8 0 ~ \mathrm { m V }$ ，which lies in the oscillatory region of the current-voltage curve presented in Fig.7 and corresponds to the simulated data in Fig. 8. When only thermal noise is present [cf. Fig. 9(a)], the oscillations are periodic, even though they are somewhat distorted by noise. However, when controlled noise is added as shown in Figs. 9(b)-9(d), the oscillations loose their periodicity and become more and more distorted with increasing noise amplitude,i. e. the complexity of the phase portraits strongly increases, indicating increasing chaotic behavior. The phase portraits for a voltage of 46O mV (not shown)， for which the deterministic system is in a stationary state, look qualitatively very similar to the ones shown in Fig. 9,except for the first one with only thermal noise,because there are no current oscillations in this case. Note that the thermal noise does not distort the periodicity, since it only introduces some
+
+![](images/30fe3079abbd080d2dba418a085d499c0e69e987fbb623817987a37a2f46629e.jpg)  
+FIG.8. Results of the numerical simulations for the current oscillations $I ( t )$ for different noise amplitude (a) $V _ { \mathrm { n o i s e } } = 1$ , (b) 8, (c) 33, and (d) 46 mV at $V _ { \mathrm { D C } } = 3 8 0 ~ \mathrm { m V }$ in the oscillatory region of the current-voltage characteristics presented in Fig.7. The corresponding frequency spectra as determined by a numerical Fourier transform are shown in (e),(f),(g),and (h),respectively.
+
+![](images/e8afaed6a5bf1387936f39e688a2575a01aa1cc85b9e536e060801ddb9d11ba4.jpg)
+
+FIG.9. Results of the numerical simulations for the phase portraits,where the electric field in well number 47 is presented versus the electric field in well number 3. The noise amplitude increases from (a) $V _ { \mathrm { n o i s e } } = 1$ ，(b) 8, (c) 33, to (d) 46 mV at $V _ { \mathrm { D C } } = 3 8 0 ~ \mathrm { m V }$ in the oscillatory region of the current-voltage characteristics presented in Fig. 7. Loops correspond to oscillations depicted in Fig. 8.
+
+small fuctuations. However, by introducing a longer time-correlated (controlled) noise, clear chaotic behavior is obtained.
+
+# IV. SUMMARY AND CONCLUSIONS
+
+We have observed that the external noise can induce spontaneous chaotic oscillation in a narrow voltage interval in a doped, weakly coupled GaAs/AlAs SL at room temperature. Results of numerical simulations of nonlinear transport based on a discrete tunneling model qualitatively confirm the experimentally observed features. While in a noise-free SSL static domain boundaries are formed，the domain boundary moves into the collector， new domain wals are formed near the emitter,and chaotic current oscillations are induced, when noise is added. Therefore, with increasing noise amplitude, chaotic current oscillations can be enhanced in semiconductor superlattices. This approach is consequently a very robust method of producing chaotic current oscillations in doped， weakly coupled semiconductor superlattices.
+
+# ACKNOWLEDGEMENTS
+
+The authors would like to thank the Strategic Leading Science and Technology Special of the Chinese Academy of Sciences (grant XDA06010705)， the National Natural Science Foundation of China (grant 61204093) and the Ministerio de Economia y Competitividad of Spain (grant MTM2014-56948-C2-2-P) for financial support.
+
+[8] Y. Y. Huang, W. Li, W. Q. Ma, H. Qin, H. T. Grahn, and Y. H. Zhang, Appl. Phys. Lett. 102, 242107 (2013).   
+[9] J. Hizanidis,A. Balanov,A. Amann,and E. Scholl, Phys. Rev. Lett. 96, 244104 (2006).   
+[10] Yu. Bomze,R. Hey, H. T. Grahn,and S. W. Teitsworth,Phys.Rev. Lett.109,026801 (2012).   
+[11] Y. Y. Huang, H. Qin, W. Li, S.L. Lu, J. R. Dong, H. T. Grahn, and Y. H. Zhang, Europhys. Lett.105, 47005 (2014).   
+[12] M. Alvaro, M. Carretero,and L. L. Bonilla, Europhys. Lett.107,37002 (2014).   
+[13] L.L. Bonilla,M. Alvaro,and M. Carretero, J. Math. Ind.7:1 (2017). DOI 10.1186/s13362- 016-0026-4   
+[14] W. Li, Y. Aviad,I. Reidler, H. Song, Y. Y. Huang, K. Biermann, M. Rosenbluh, Y. H. Zhang, H. T.Grahn, and I. Kanter, Europhys. Lett.112, 30007 (2015).   
+[15] W. Li, I. Reidler, Y. Aviad, Y. Y. Huang, H. Song, Y.H. Zhang, M. Rosenbluh,and I. Kanter, Phys. Rev. Lett. 111, 044102 (2013).

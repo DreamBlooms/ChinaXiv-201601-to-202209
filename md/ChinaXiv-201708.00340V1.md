@@ -1,0 +1,183 @@
+# Top Compositeness at the Tevatron and LHC
+
+Ben Lillie $^ { a , b }$ ， Jing Shu $^ { a , b }$ ， and Tim M.P. Tait $^ { a , c }$ （204
+
+$a$ Argonne National Laboratory， Argonne, IL 60439 $\boldsymbol { b }$ University of Chicago，Chicago，IL 60637 $c$ Northwestern University, 2145 Sheridan Road, Evanston,IL 60208
+
+We explore the possbility that the right-handed top quark is composite.We examine the consequences that compositeness would have on $t \bar { t }$ production at the Tevatron，and derive a weak constraint on the scale of compositeness of order a few hundred GeV from the $t \bar { t }$ inclusive cross section.More detailed studies of differential properties of $t \bar { t }$ production could potentially improve this limit.We find that a composite top can result in an enhancement of the $t { \bar { t } } t { \bar { t } }$ production rate at the LHC (of as much as $1 0 ^ { 3 }$ compared to the Standatd Model four top rate).We explore observables which allow us to extract the four top rate from the backgrounds,and show that the LHC can either discover or constrain top compositeness for wide ranges of parameter space.
+
+PACS numbers:
+
+# I.INTRODUCTION
+
+The idea that some or all of the Standard Model (SM) of particle physics may be composite is a fascinating one,and the discovery of compositeness would radically redefine most of the fundamental questions for particle physics today,by mapping the apparent low energy degrees of freedom we see at the weak scale toa diferent set in the ultra-violet. Given the exciting ramifications of compositeness, it is natural to ask whether or not we can see signs of compositeness at the LHC,how it could manifest itself, and what characteristics would distinguish it from other forms of physics beyond the Standard Model.
+
+The standard search for compositeness looks for higher dimensional (non-renormalizable) operators [1]. The search for such operators is a powerful, model-independent means to search for compositeness, because the low energy effctive field theory is not very sensitive to the details of the theory of compositeness (which at any rate are diffcult to estimate precisely because of the strong couplings involved). Depending on the specific operator under consideration,the LHC can discover their presence up to high scales,of order tens of TeV [2]. However,the efective operator approach also has its drawbacks.Effective operators are induced by any high mass physics beyond the SM,including weakly interacting possibilities. To truly see a theory of compositeness,and recognize it unequivocaly as such, it would be preferable to see phenomena that can be more specifically associated with compositeness.
+
+Given the success of the SM in describing experimental data, it's not obvious that the LHC has much opportunity to see anything beyond the contact interactions.Precision measurements from LEP Iand SLD put limits between a few to a few tens of TeV on compositeness of the electroweak gauge or Higgs bosons [3]. LEP I bounds lepton compositeness at tens of TeV [4],and the Tevatron bounds light quark composite operators at between a few and ten TeV [5]. Even the measurements of left-handed bottom couplings at the $Z$ -pole bound compositeness of the third family quark doublet on the order of a few TeV [4].The only sector of the SM which is currently not strongly bounded by existing measurements is the right-handed top quark [6]. We thus choose to explore compositeness of $t _ { R }$ (and no other sector of the SM) as the most likely place that a low scale of compositeness might be manifest at the LHC.
+
+Models of compositeness are theoretically challenging,because the strong coupling renders them difficult to analyze.Nonetheless,we can proceed using efective field theories,with our ignorance of the underlying strong dynamics parameterized in terms of coeffcients of operators whose size we can estimate up to order one uncertainty in terms of naive dimensional analysis (NDA)[7]. While there are specific models in which the top is composite,such as the dual conformal field theory (CFT) interpretation [8]of Randall-Sundrum (RS)[9] models with gauge felds in the bulk [10],and supersymmetric constructions [11],these models invariably postulate that the Higgs and/or left-handed third family quark doublet are also composite,and thus have compositenessscales probably too high to be probed by the LHC (however, see [12]). We choose to work generically in a framework in which only $t _ { R }$ is composite,without getting attached to any specific model. Our hope is to identify interesting phenomena and features which are not specifically linked to any particular model, but might reasonably be expected to occur in a broad class of models in which the top is composite.
+
+We begin in Section II by introducing the operators describing the lowest energy consequences of $t _ { R }$ （204 compositeness.We place bounds on the scale of top compositeness by considering the efects of such operators on the $t \bar { t }$ production rate at the Tevatron in Section II,also finding observables which may improve the analysis in the future.In Section IV we go beyond the operator level,and consider some of the higher resonances which might accompany a composite $t _ { R }$ . In Section V we conclude with some outlook.
+
+# II. TOPCOMPOSITENESS:ABOTTOM-UPVIEW
+
+The first question that arises when one contemplates a composite top is: what is it made of? We imagine that there is some new force which confines at an energy scale hopefully accessible to the LHC.Above the scale of confinement,there should be a weakly coupled description in terms of a set of constituents (preons), with the SM gauge interactions forming part of the unbroken non-anomalous chiral symmetries of the new strong force. Below the scale of confinement,the physics is described by an efective feld theory containing the bound states that result，with the right-handed top among the lightest of the bound states of this new sector. Generaly,one expects that confining theories break chiral symmetries and result in massive composite fermions [13], however one can engineer masslessfermions by combining 't Hooft anomaly-matching [14] with some inspired model-building [15]. There may be additional light states (which may or may not themselves be particles familiar from the Standard Model)，and their existence would help pin down the underlying chiral symmetries of the new confining force.To minimize model-dependence we concentrate our focus on the consequences for observables involving top quarks.
+
+Using the language of effective field theory, we can parameterize the residual effects of the strong dynamics on the top quarks at the lowest energies. The residual effcts represent the deviations from point-like behavior of top,and can be represented at the lowest energies as higher dimensional operators, whose coeffcients we estimate up to order one uncertainties using NDA [7]. The largest of these operators is a four-point interaction of $t _ { R }$ . Up to color structures, there is a unique Lorentz-invariant operator at dimension six which involves only the right-handed top quark,
+
+$$
+\frac { g ^ { 2 } } { \Lambda ^ { 2 } } \left[ \bar { t } ^ { i } \gamma ^ { \mu } P _ { R } t _ { j } \right] \left[ \bar { t } ^ { k } \gamma _ { \mu } P _ { R } t _ { l } \right]
+$$
+
+where $\gamma ^ { \mu }$ are the Dirac gamma matrices, $P _ { R }$ is the right-chiral projector,and $g ^ { 2 } / \Lambda ^ { 2 }$ is the coupling of this new interaction. It can be understood that $g / \Lambda$ represents the amplitude to create the composite field,and $\Lambda$ itself characterizes the energy scale at which further elements of the composite sector become important.The effective theory is sensible provided $g \lesssim 4 \pi$ . There are several possibilities to construct $S U ( 3 ) _ { C }$ gauge-invariant combinations of the color indices $i$ ， $j$ ， $k$ ，and $\it { l }$ . Since the Lorentz structure is suggestive of (the low energy limit of) a massve vector exchange, we consider only color structures which pair $i$ with $j$ and $k$ with $\it { l }$ . The two options are contractions of two octets $( T ^ { a } ) _ { i } ^ { j } ( T ^ { a } ) _ { k } ^ { l }$ or two singlets $\delta _ { i } ^ { j } \delta _ { k } ^ { l }$ . Note that operators involving $c _ { R }$ and $u _ { R }$ are also possible, and could lead to more stringent bounds from flavor-violating processes. By ignoring such operators we are explicitly making assumptions about the flavor structure of the UV theory.
+
+At scales of order the confinement scale of the new force,we might expect to see resonances which couple strongly to $t _ { R }$ . The precise spectrum of these resonances is more model-dependent, but we can infer from the fact that $t _ { R }$ was produced as a low-lying bound state that the preons carry both hypercharge and color,and thus we can generically expect that the resonances do as well, which is significant for the
+
+LHC because it implies large production cross sections for these new states. Of course, it may be that the strong dynamics is not described by any moderately coupled resonances,and the transition to the fundamental degrees of freedom is quick and complicated.
+
+If there are resonances we can describe with an effective theory, we can hope that the low energy residual of the strong interaction parameterized in Eq. (1) is dominantly produced by among the lightest of these higher resonant states,in analogy with vector meson dominance familiar from QCD.In that case,we can expect some massive vector particles (which we will refer to as $\rho _ { \mu }$ , in analogy with QCD) transforming either as an octet or a singlet under $S U ( 3 ) _ { C }$ .From Eq. (1),we can identify (up to $\mathcal { O } ( 1 )$ coefficients) $\Lambda$ as the mass of the $\rho$ ，and $g$ its (large) coupling to right-handed top quarks. Generally, we can expect a smallcoupling to light quarks will be induced,but its size is model-dependent and for simplicity we ignore this possbility. The KK gluon in an RS model (in the dual interpretation) is an example of such a state in a theory which the induced coupling to light quarks is non-negligible [16].
+
+Far above the confnement scale of the new force,the physics depends very sensitively on the details of the new interaction and the preons which experience it.Provided the confinement scale is low enough, one can imagine that it might be possible for the LHC to explore the region where the new force is weak enough that a perturbative description in terms of the preons themselves would be appropriate. The chance to see the preons directly would be the most clear signal of compositeness one could hope for,and would reveal a lot about the underlying strong dynamics which produced the top as a bound state. Carrying the analogy with QCD further,it is easy to imagine interesting and exotic phenomena in analogy with ordinary QCD,such as production of preons followed by“showering” under their new strong force,leading to their eventual “hadronization” into a jet of top quarks. We leave such exploration for future work.
+
+# III. TOPPAIRS AT THE TEVATRON
+
+Before exploring how one might discover top compositeness at the LHC,it is worthwhile to consider the bounds on top compositeness coming from LEP/SLD and the Tevatron run II. The natural scale of contributions to the precision observables at LEP was estimated in [6],and the resulting bound is typically weaker than is expected from $t \bar { t }$ when only the right-handed top participates in the new strong interactions.
+
+At the Tevatron, phase space renders the rate for production of four tops vanishingly small and thus we consider the operators which describe the modification of the top's coupling to gluons resulting from its compositeness.At dimension six, there are two independent operators involving $t _ { R }$ which contribute at tree level [17],
+
+$$
+\frac { g _ { S } } { \Lambda ^ { 2 } } \left\{ g _ { 1 } \left[ \left( H \overline { { { Q } } } _ { 3 } \right) \sigma ^ { \mu \nu } \lambda ^ { a } P _ { R } t \right] G _ { \mu \nu } ^ { a } + g _ { 2 } \left[ \overline { { { t } } } \gamma ^ { \mu } \lambda ^ { a } D ^ { \nu } P _ { R } t \right] G _ { \mu \nu } ^ { a } \right\}
+$$
+
+where NDA provides the estimate the estimates $g _ { 1 } ( \Lambda ) \sim 1 / g$ and $g _ { 2 } ( \Lambda ) \sim 1$ ．The first operator is a chromo-magnetic moment for the top [18].The second operator will be induced by the four top operator of Eq（1） through renormalization.When $\Lambda$ is large compared to the energies of interest, the dominant contribution to $g _ { 2 }$ will be from the log-enhanced term. We therefore proceed by inserting the operator of Eq(1） into a one loop correction to $t \bar { t }$ production as shown in Figure 1.
+
+We know that measurements of the inclusive $t t$ cross section [19,20] are in rough agreement with the SM predictions [21]，,and therefore we expect the data wil limit the size of the coeffcient $g ^ { 2 } / \Lambda ^ { 2 }$ ，and thus provide a lower limit on the confinement scale of the strong dynamics responsible for binding $t _ { R }$ We consider the leading_ effect,in which the graph of Figure 1 interferes with the tree level Standard Model graph for $q \overline { { q } }  t t$ through a virtual gluon. We neglect the gluon-initiated graph,which at the Tevatron amounts to an error of roughly $1 0 \%$ or so in our estimates. The physical picture behind this process is ordinary production of a pair of top quarks through the usual strong interaction, followed by their subsequent re-scattering through the new strong force.
+
+Keeping only the log-enhanced piece,we find that its contribution to the partonic cross section is
+
+![](images/60320fe199e2976d709f7b15290a7b5cb76a59a75b0eb2a2b7ec4e6bd597600b.jpg)  
+FIG.1: Representative Feynman Diagram showing how the four top quark operator can contribute to $q \overline { { q } }  t t$ （20 at one loop.
+
+proportional to the Standard Model one,
+
+$$
+\hat { \sigma } ( q \overline { { { q } } }  t \overline { { { t } } } ) = \hat { \sigma } _ { S M } ( q \overline { { { q } } }  t \overline { { { t } } } ) \times \{ 1 + c \frac { g ^ { 2 } } { ( 4 \pi ) ^ { 2 } } \frac { s } { \Lambda ^ { 2 } } \log ( \frac { \Lambda ^ { 2 } } { m _ { t } ^ { 2 } } ) \}
+$$
+
+where $s$ is the usual Mandelstam invariant corresponding to twice the center of mass energy of the $t \bar { t }$ pair, and $c$ is a coeffcient which contains the color factors,and depends on whether the four-top operator is included in its the color singlet or color octet version,
+
+$$
+\begin{array} { l } { { c = + { \displaystyle \frac { 4 } { 3 } } \qquad \mathrm { ( c o l o r ~ s i n g l e t ) } , } } \\ { { c = - { \displaystyle \frac { 4 } { 9 } } \qquad \mathrm { ( c o l o r ~ o c t e t ) } . } } \end{array}
+$$
+
+In deriving Eq.(3) we have chosen the renormalization scale to be $\mu _ { R } = m _ { t }$ .Eq.(3) implies that the leading modification is in the distribution of the center of mass energy of the $t \bar { t }$ system. Subleading (non-log enhanced) terms can also modify the other kinematic distributions.
+
+In Figure 2 we illustrate the color singlet case, showing the differential distribution $d \sigma / d M _ { t \bar { t } }$ in terms of the center of mass energy of the top pair system, for two choices of $\Lambda$ and $g = 4 \pi$ . The behavior is a larger increase relative to the SM at higher energies,typical of higher dimension operators. The SM cross section (and convolution with the PDFs) is generated at tree level by the MadEvent code [22]. For up-to-date predictions for the SM $M _ { t \bar { t } }$ distribution，with comparison to different manifestations of new physics in $t \bar { t }$ ，see [23].
+
+We expect that the best limit on $\Lambda$ should come from comparing the $M _ { t \bar { t } }$ distribution with data,and we encourage the experimental collaborations to perform such a fit (which is very similar to the alreadyextant search for $t \bar { t }$ resonances [24]). We are unable to do such a comparison, because the data with the necessry effciencies and backgrounds unfolded is not publicly available. However,we can compare the effect on the inclusive cross section to get a rough limit on the size of $\Lambda$ . The inclusive $t t$ cross section is measured by CDF(combining several channels）[19] and DO [20] to be
+
+$$
+\sigma ( t \bar { t } ) _ { C D F } = 7 . 3 \pm 0 . 5 \pm 0 . 6 \pm 0 . 4 \mathrm { \ p b } \qquad \sigma ( t \bar { t } ) _ { D 0 } = 8 . 3 _ { 0 . 5 } ^ { + 0 . 6 } \ { } _ { - 1 . 0 } ^ { + 0 . 9 } \ \pm 0 . 4 \mathrm { \ p b }
+$$
+
+(quoted at $m _ { t } = 1 7 5$ GeV）where the errors are (in order) statistical,systematic,and arising from the luminosity measurement.Both are slightly higher than the Standard Model prediction
+
+$$
+\sigma ( t \bar { t } ) _ { S M } ~ = ~ 6 . 6 \pm 0 . 8 ~ \mathrm { p b }
+$$
+
+(we combine results from both references of [21],to obtain this estimate),but not significantly so.The CDF measurement has slightly smaler error bars,and is slightly closer to the SM,and thus results in the stricter bound. In order to be conservative, we base our limit on it,combining the various errors in quadrature to arrive at $\sigma _ { e x p } = 7 . 3 \pm 0 . 8 5$ pb.
+
+![](images/da0df57c9ec7381ed655690f18b6a58a8bc11448ee813031557b84e96fccbaf0.jpg)  
+FIG.2:Invariant mass distribution of $p \overline { { p } }  t \bar { t }$ at the Tevatron run I, both in the Standard Model,and including the singlet-mediated contact interaction with $g = 4 \pi$ ，for $\Lambda = 5 0 0$ GeV and $\Lambda = 1$ TeV.
+
+Because the data are already slightly higher than the SM theory prediction,and the error bars both experimentally and on the theory prediction are moderately large,the resulting bound is very weak. At one sigma, the data require
+
+$$
+{ \frac { \Lambda } { g } } ~ \stackrel { > } { \sim } ~ 8 0 ~ \mathrm { G e V } .
+$$
+
+This is actually low enough that the log-enhanced piece is not necessarily enhanced compared to the nonlog terms,and motivates a more careful analysis. It also is low enough that even at the Tevatron,the four top operator may not be sufcient to describe the physics of top compositeness,，with large corrections from the underlying theory in the UV.For our purposes,to derive a rough bound on the potential scale of top compositeness, it is suffcient to allow us to infer that a scale of top compositeness of order a few hundred GeV is still allowed by the inclusive $t \bar { t }$ cross section.
+
+If a description in terms of a single resonance is appropriate,Eq. (8) provides a bound on the mass divided by coupling of the new state. For couplings which saturate NDA ( $g \sim 4 \pi )$ ， $M \gtrsim 1$ TeV.
+
+![](images/4d2631502af00d24823a7a4cfc08230ba2c99876ff023b63c098388a2597d0f5.jpg)  
+FIG. 3:The rate for $t { \bar { t } } t { \bar { t } }$ at the LHC as a function of mass $M$ for several values of the coupling $g = 2 \pi , 1 , 0 . 1$ (from top to bottom),for both the case where the $\rho$ is a color octet (solid lines) or a singlet (dashed lines).Also shown for reference is the SM 4 top production rate.
+
+# IV．FOUR TOPS AT THELHC
+
+At the LHC,the energy is suffcient to explore top compositeness more directly. Clearly, Eq.(1) wil lead to an enhancement of the rate for $p p  t \bar { t } t \bar { t }$ provided there is sufficient parton luminosity at high enough energies from processes such as $p p  t \overline { { t } } ^ { * }$ followed by $\bar { t } ^ { * } \to \bar { t } t \bar { t }$ through an insertion of Eq. (1). In fact,the LHC can explore energies suffciently above the lower limit of compositeness that one could hope to directly observe effects beyond the operator level. Provided there are sufficiently narrow resonances with masses $\sim \Lambda$ ,we can search for them at the LHC.
+
+Thus, we construct an effective theory consisting of the Standard Model plus a heavy (mass $M$ ）vector boson (either octet or singlet), coupled to $t _ { R }$ with strength $g$ ，
+
+$$
+- \frac { 1 } { 4 } \left( D _ { \mu } \rho _ { \nu } - D _ { \nu } \rho _ { \mu } \right) ^ { 2 } + \frac { 1 } { 2 } M ^ { 2 } \rho ^ { \mu } \rho _ { \mu } + g \rho _ { \mu } \bar { t } \gamma ^ { \mu } P _ { R } t
+$$
+
+where $D _ { \mu }$ is a covariant derivative, containing coupling to gluons for the octet $\rho$ or not for the singlet $\rho$ For simplicity, we neglect any coupling to light quarks (in the case where there are substantial couplings
+
+<html><body><table><tr><td>Process</td><td>Raw Rate</td><td>After Cuts</td></tr><tr><td></td><td></td><td></td></tr><tr><td>W+ Zjj</td><td>6.65 pb 4.11 pb</td><td>1.12 fb 0.41 fb</td></tr><tr><td>W-Zjj W+W+ jj</td><td>0.29 pb</td><td>0.83 fb</td></tr><tr><td></td><td>0.13 pb</td><td>0.32 fb</td></tr><tr><td>W-W- jj</td><td></td><td></td></tr><tr><td>W+bb W-bb</td><td>196 pb</td><td>0.57 fb</td></tr><tr><td></td><td>136 pb</td><td>0.18 fb</td></tr><tr><td>W+W- jj(tt)</td><td>390 pb</td><td>3.16 fb</td></tr><tr><td>W+ jjj</td><td>2170 pb</td><td></td></tr><tr><td></td><td></td><td>0.32 fb</td></tr><tr><td>W-jjj</td><td>1520 pb</td><td>0.29 fb</td></tr></table></body></html>
+
+TABLEI: The background raw event rates,and rates after acceptancecuts,requiring like-sign leptons,isolation, and $H _ { t } \geq 1$ TeV.
+
+to light quarks, the resonance can be produced singly through $q q$ fusion and the physics is similar to the KK gauge bosons of a RS model[16]). At low energies,these new states simply reproduce the operator of Eq. (1), whereas at high energies, they can be resolved as broad (assuming $g \gg 1$ ) resonances. We generate events for the reaction $p p  t \bar { t } t \bar { t }$ using MadEvent [22],including parton showering and hadronization from PYTHIA [25],and simulate the detector using PGS [26] with the default LHC detector model.
+
+The inclusive signal rates at the LHC as a function of $M$ and for several values of the couplings for both color singlet and color octet $\rho$ 's are shown in Figure 3. Also shown is the SM rate for production of four tops,which is small by comparison provided $M \lesssim$ a few TeV. The cases of color octets and color singlets show a very different dependence on the coupling $g$ ; for small $g$ the color octet rate approaches a common value for small fixed $M$ ,because the production becomes dominated by the model-independent rate of $g g  \rho \rho$ [27],and under our assumptions the branching ratio for $\rho  t \bar { t }$ is one. For large $M$ it becomes kinematically favorable to produce a single $\rho$ through $p p  t t \rho$ ，and the dependence on $g$ is stronger. The color singlet rate, instead, is always proportional to $g ^ { 2 }$ , because that case always proceeds via $p p  t \bar { t } \rho$ ：
+
+Reconstructing allfour top quarks is very difficult,suffering from huge conbinatoric problems.We thus adopt the simpler signature of at least two like-sign leptons, $\ell ^ { \pm } \ell ^ { \prime \pm }$ plus two hard jets (with $p _ { T } > 2 0$ GeV and $| y | < 2 . 5 \$ ). Two well-reconstructed leptons with $p _ { T } > 3 0$ GeV, $| y | < 2 . 5$ , are sufficient to trigger, and demanding like-signs for the leptons severely reduces the physics backgrounds to processes such as $W Z j j$ and $W ^ { \pm } W ^ { \pm } j j$ . There is also a contribution from $W ^ { \pm } b \bar { b }$ (including single top),with one of the bottom quarks decaying semi-leptonicaly. We reduce this background with an isolation cut [28] around both leptons,requiring each be seperated from the nearest jet by at least $\Delta R \ge 0 . 2$ .We also consider “fake” backgrounds including $W j j j$ where the additional jet fakes a lepton and $W ^ { + } W ^ { - } j j$ where one of the leptons from the $W$ decays is mis-identified to have the wrong charge. The dominant contribution to this last signature is from $t t$ production.
+
+To extract only high center-of-mass energy events which can correspond to production of four top quarks,we require $H _ { t }$ ， defined as the scalar sum of the $p _ { T }$ of all jets, leptons,and missing transverse momentum satisfies $H _ { t } \geq 1$ TeV.In Figure 4 we plot the $H _ { t }$ distributions for the signal as well as the sum of the SM backgrounds.A cut at 1 TeV dramatically reduces the background (most of which is from $t t$ ） while only modestly reducing the signal. We begin with these simple criteria,and then consider some additional variables which can dramatically help argue for the“four top-ness of the events below. In [29],it was argued that one could also attempt to reconstruct the top quarks directly. One could attempt their procedure either after our choice of signal analysis,or instead of it,but we restrict ourselves to the more conservative choice of like-sign leptons and two hard jets outlined above. The signal acceptance is roughly $3 \%$ ,most of which comes from the fact that we have asked two of the $W$ 's with the same charges from the top decays to decay leptonically. We expect it depends weakly on the $\rho$ mass $M$ ：
+
+After applying the acceptance, isolation, and $H _ { t }$ cuts,we find the background processes yield the rates in Table I. All of the rates are estimated based on simulations with MadEvent,follwed by showering and hadronization with PYTHIA,and the detector simulation with PGS (using the default generic LHC detector model). The exception is the $W j j j$ fake rates,which we estimate by applying a $1 0 ^ { - 4 }$ probability that a jet which passes our acceptance cuts can fake a lepton. If one managed to reduce the fake backgrounds sufficiently, the $W Z j j$ rates could become significant. These are reduced by rejecting events where two of the leptons reconstruct an invariant mass close to the $Z$ boson mass ( $8 7 . 2 \mathrm { G e V } \leqslant M _ { l + l ^ { - } } \leqslant$ 95.2 GeV).
+
+![](images/6911fa82c4f638f250740dc17848f330bfef9b412ecf2d9f0cc8bf1525df6225.jpg)  
+FIG.4:Differential cross section for the signal (with $M \ = \ 1$ TeV and $g = 2 \pi$ ）and SM backgrounds with respect to the number of hard jets (upper left), number of $b$ -tagged jets (upper right), $H _ { t }$ (lower left),and missing transverse momentum (lower right).The $\boldsymbol { H } _ { t }$ distribution is plotted before the $\boldsymbol { H } _ { t }$ cut is applied; the other three distributions include all of the cuts.
+
+The backgrounds sum to about 7.2 fb,about half of which is the fake rate from a lepton whose charge is mis-reconstructed. After that, the leading backgrounds are the $W j j j$ fake rate, and $W b { \bar { b } }$ .With $\mathrm { 1 0 0 ~ f b ^ { - 1 } }$ （204号 of collected data,a $5 \sigma$ discovery requires a signal cross section greater than about 1.4 fb after cuts, or a $t { \bar { t } } t { \bar { t } }$ production rate greater than about 45 fb. From Figure 3,we see that this corresponds to color octet (and strongly coupled color singlet) $\rho$ 's up to about $2 \sim 3$ TeV. The Standard Model rate for $t { \bar { t } } t { \bar { t } }$ production,on the other hand,is extremely tiny,about 3.6fb (and so is not visible against the background using our search strategy). Our analysis is conservative,and could potentially be improved by tightening the cuts, such as requiring more hard jets and/or $b$ -tagged jets, or attempting to reconstruct the four tops, provided this can be done with sufficient efficiency.
+
+We also consider observables which could be helpful to suggest that an observed signal has been produced by a four top state. In Figure 4, we plot the diferential cross section with respect to the total number of reconstructed jets. A four top final state, even with two like-sign leptons, produces eight hard quarks (including bottom quarks). QCD radiation can increase this further,whereas at large numbers the jets initiated by the hard partons begin to fill the entire detector,and can be merged by the jetfinding process.(The number of jets from the hard process is also lessin the cases with three or four semi-leptonic decays). As can be seen in the figure,the number of jets reconstructed by PGS (for a signal with $M = 1$ TeV and strong coupling $g = 2 \pi$ ) does have a broad maximum around $n _ { j e t } = 8$ , and is quite different than any of the background processes,for which the hard process produces many fewer hard partons.
+
+Four top quarks also produce four bottom quarks when they decay. However,the probability of tagging allfour bottoms is rather smal. In Figure 4 we plot the number of bottom quarks tagged by PGS.The four top signal peaks at something around two to three bottoms being reconstructed, whereas the background peaks around zero or one (dominated by $t \bar { t }$ ). The presence of several bottom tags together with the pair of charged leptons is highly suggestive of a multi-top intermediate state.Further,the balance between the positive versus negative like-sign leptons in the signal sample provides another clue. A four top final state predicts equal numbers of positive and negative lepton pairs, whereas production of multi-Ws through electroweak processes willshow more positive lepton pairs because of the larger number of valence up quarks compared to down quarks in the protons.
+
+Other models may lead to an excess over the SM in the channel we consider. For example, in supersymmetric models one may pair produce gluinos ( $\tilde { g }$ ） which have a decay chain such as $\tilde { g } \to t \tilde { t } ^ { * } \to t \bar { t } \tilde { \chi } _ { 1 } ^ { 0 }$ ， leading to a $t \bar { t } t \bar { t } \tilde { \chi } _ { 1 } ^ { 0 } \tilde { \chi } _ { 1 } ^ { 0 }$ final state [30]. One can hope the distribution of missing transverse momentum will distinguish such a supersymmetric signal from a model of top compositeness. Another possibility is pair production of a $b ^ { \prime }$ (predicted in models with an extended custodial_symmetry to protect $Z \to b { \bar { b } }$ from receiving large corrections [31] or to explain the measurement of $A _ { b } ^ { F B }$ [32]),which decay into $b ^ { \prime } \to W ^ { - } t$ ， leading to a $W ^ { + } W ^ { - } t \bar { t }$ final state [33],which results in events typically containing less $b$ -tagged jets.
+
+# V.CONCLUSIONS AND FURTHER THOUGHTS
+
+The possibility that the top is composite is fascinating, would force us to rethink our picture of physics in the ultraviolet,and may represent the unique sector of the SMfor which the LHC has an opportunity to see constituents.We have studied bounds on top compositeness from $t \bar { t }$ production at the Tevatron,and find that constraints from the inclusive $t t$ cross section are weak, though stronger bounds could potentially be obtained by studying kinematics instead of the total rate. Some models may have moderately coupled vector resonances that describe the physics around the compositeness scale. Such models generally lead to alarge,observable excess in four top quark production at the LHC.We perform a conservative analysis that searches for an excessof events containing four top quarks decaying into at least two like-sign leptons and at least two hard jets,and find we can observe a $5 \sigma$ excess for new states up to about 2 TeV，or more if the new states are colored and/or strongly coupled to the top quark.
+
+The next step is to examine models with which one can ask questions about the phenomena most intimately tied to top compositeness,and to determine whether or not we can see such constituents at the LHC,and perhaps unravel the diference between different constructions. One could imagine seeing direct production of the top constituents,and maybe even “showering”or“hadronization” efects of the new strong force, provided the UV theory is accessible. Models of top compositeness are challenging to analyze,but they lead to unique phenomena and inspireus to consider top events with unusual kinematics we might otherwise overlook. As the LHC turn-on approaches, it behooves us to explore them!
+
+# Acknowledgments
+
+The authors are pleased to acknowledge conversations with J.Alwall, D.Amidei,E.Brubaker,D. Choudhury, B.Dobrescu, R. Erbacher,K.C. Kong,T.LeCompte,J. Lykken, R. Mahbubani, M. Peskin, J. Rosner, M. Strasser, C.E.M. Wagner,and M. Weber. Research at Argonne National Laboratory is supported in part by the Department of Energy under contract DE-AC02-06CH11357.
+
+[5]A.Abulencia et al.[CDF -Run II Colaboration],Phys.Rev.D 75,092006 (2007）[Erratum-ibid.D 75, 119901 (2007)] [arXiv:hep-ex/0701051].   
+[6]H.Georgi,L. Kaplan,D.Morin and A. Schenk,Phys.Rev.D 51,3888 (1995)[arXiv:hep-ph/9410307].   
+[7]A.Manohar and H. Georgi,Nucl.Phys.B 234,189 (1984)；H.Georgi,Phys.Lett.B 298,187 (1993) [arXiv:hep-ph/9207278]；A.G.Cohen,D.B.Kaplan and A.E. Nelson,Phys.Lett.B 412,301 (1997) [arXiv:hep-ph/9706275].   
+[8] N.Arkani-Hamed, M. Porrati and L. Randall, JHEP 0108,017 (2001) [arXiv:hep-th/0012148].   
+[9]L.Randall and R. Sundrum，Phys.Rev.Lett.83,4690 (199) [arXiv:hep-th/9906064]; L.Randalland R. Sundrum,Phys. Rev.Lett. 83,3370 (1999) [arXiv:hep-ph/9905221].   
+[10] H.Davoudiasl, J.L. Hewett and T.G.Rizzo,Phys.Lett.B 473,43 (2000)[arXiv:hep-ph/9911262]; A.Pomarol,Phys.Lett.B 486,153(2000) [arXiv:hep-ph/9911294].   
+[11] M.J. Strassler,Phys.Lett.B 376,119 (1996)[arXiv:hep-ph/9510342];A.E.Nelson and M.J. Strassler, Phys.Rev.D 56,4226 (1997) [arXiv:hep-ph/9607362]；T.Gherghetta and A.Pomarol,Phys.Rev.D 67, 085018(2003)[arXiv:hep-ph/0302001]; A. Delgado and T.M.P.Tait,JHEP 0507,023 (2005）[arXiv:hepph/0504224].   
+[12]M. Suzuki, Phys.Rev.D 44,3628 (1991).   
+[13] C.Vafa and E. Witten, Nucl. Phys.B 234,173 (1984).   
+[14] G.t Hooft,Recent Developments in Gauge Theories (Plenum Press,1980)135;reprinted in Unityof Forces in the Universe Vol.II,A. Zee ed.(World Scientific 1982) 1004.   
+[15] H. Georgi,Nucl. Phys.B 266, 274 (1986).   
+[16]K.Agashe,A.Belyaev,T.Krupovnickas,G.Perez and J.Virzi,arXiv:hep-ph/0612015;B.Lille,L.Randall and L.T.Wang,JHEP 0709,074 (2007） [arXiv:hep-ph/070116l； B.Lille,J. Shu and T.M.P.Tait, arXiv:0706.3960 [hep-ph]; K. Agashe et al.,arXiv:0709.0007 [hep-ph].   
+[17] W. Buchmuller and D.Wyler, Nucl. Phys.B 268,621 (1986).   
+[18] D.Atwood, A. Kagan and T. G. Rizzo, Phys. Rev. D 52, 6264 (1995) [arXiv:hep-ph/9407408].   
+[19] CDF Collaboration, CDF Note 8148, http://www-cdf.fnal.gov/physics/new/top/top.html   
+[20] D0 Collaboration,D0 Note 5355-CONF http://www-d0.fnal.gov/Run2Physics/WWW/results/prelim/TOP/T43/T43.pdf   
+[21] N.Kidonakis andR. Vogt,Eur.Phys.J.C33,S466 (2004)[arXiv:hep-ph/0309045]; M. Cacciari, S.Frixione, M.L.Mangano,P. Nason and G. Ridolf, JHEP 0407,033 (2004) [arXiv:hep-ph/0312132].   
+[22] J.Alwall et al.,arXiv:0706.2334 [hep-ph].   
+[23] R.Frederix and F. Maltoni, arXiv:0712.2355 [hep-ph].   
+[24] T. Aaltonen et al. [CDF Collaboration],arXiv:0709.0705 [hep-ex]   
+[25] T.Sjostrand, S.Mrenna and P. Skands,JHEP 0605,026 (2006) [arXiv:hep-ph/0603175].   
+[26] J. Conway et al, http://www.physics.ucdavis.edu/ $\sim$ conway/research/software/pgs/pgs.html   
+[27] B. A. Dobrescu, K. Kong and R. Mahbubani, arXiv:0709.2378 [hep-ph].   
+[28] Z. Sullivan and E.L. Berger, Phys. Rev.D 74, 033008 (2006) [arXiv:hep-ph/0606271].   
+[29] M. Gerbush,T. J. Khoo,D.J.Phalen,A. Pierce and D. Tucker-Smith,arXiv:0710.3i33 [hep-ph].   
+[30] J.Hisano,K.Kawagoe,R. Kitano and M.M. Nojiri,Phys.Rev.D66,115004 (2002)[arXiv:hep-ph/0204078].   
+[31] K.Agashe,R.Contino,L.Da Roldand A.Pomarol,Phys.Let.B641,62(2006)[arXiv:hep-ph/0605341]; M. S.Carena,E. Ponton, J. Santiago and C.E. M.Wagner,Phys.Rev.D 76,035006 (2007) [arXiv:hepph/0701055]; M.S. Carena,E.Ponton,J. Santiago and C.E.M.Wagner,Nucl.Phys.B 759,202(2006) [arXiv:hep-ph/0607106].   
+[32] D.Choudhury,T.M.P.Tait and C.E. M.Wagner,Phys.Rev.D65,053002 (2002)[arXiv:hep-ph/0109097].   
+[33] C. Dennis,M. Karagoz Unel, G. Servant and J. Tseng, arXiv:hep-ph/0701158.

@@ -1,0 +1,142 @@
+# 大沙鼠(Rhombomysopimus)扰动对人工梭梭林土壤理化性质的影响
+
+孟瑞玲'，徐先英}²，王立¹，刘虎俊²，赵鹏²，李逢博¹(1.甘肃农业大学林学院,甘肃 兰州730070;2.甘肃省治沙研究所,荒漠化与风沙灾害防治国家重点实验室培育基地,甘肃 兰州 730070)
+
+摘要：以人工梭梭林大沙鼠正在使用(有效洞)和已废弃(废弃洞)的洞穴为研究对象,分层测定 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土壤水分、有机质、全氮等,探讨大沙鼠挖掘活动对土壤理化性质的影响。结果表明：(1)含水量和容重在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层土壤变化规律相同，表现为废弃洞 $<$ 有效洞 $<$ 对照，且随着洞穴深度的增加含水量与容重均增大。有效洞和废弃洞各土层的含盐量均随土壤深度的增加而减小。有效洞各土层的 $\mathrm { \ p H }$ 增大，废弃洞各土层减小。(2）全氮在各土层(0\~$1 0 \mathrm { c m } \phantom { 0 } . 1 0 { \sim } 2 0 \mathrm { c m } \phantom { 0 } . 2 0 { \sim } 3 0 \mathrm { c m } \phantom { 0 }$ 有效洞比废弃洞含量高 $0 . 2 3 \ { \underline { { \mathrm { g } } } } \cdot \mathrm { k g } ^ { - 1 } \cdot 0 . 1 3 \ { \underline { { \mathrm { g } } } } \cdot \mathrm { k g } ^ { - 1 } \cdot 0 . 2 2 \ { \underline { { \mathrm { g } } } } \cdot \mathrm { k g } ^ { - 1 } \qquad $ 。相同土层的全磷、全钾表现为：有效洞 $>$ 废弃洞 $>$ 对照， $0 { \sim } 1 0 ~ \mathrm { c m }$ 含量最高。有效磷在有效洞和废弃洞各土层的变化规律相同， $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 含量最高。有效钾在各土层含量有效洞是废弃洞的1.05倍、1.01倍、1.01倍。有机质在有效洞与废弃洞的总量增加了$6 3 . 2 \% . 4 8 . 8 \%$ 。综上所述，鼠类活动有效洞的土壤养分普遍高于废弃洞,各土层呈不同程度的增加,说明大沙鼠扰动能改变土壤容重与水分格局，促进养分积累,增加土壤肥力。通过探讨大沙鼠扰动对土壤理化性质的影响,将进一步明确大沙鼠在梭梭林中的生态功能和作用。
+
+关键词：大沙鼠；扰动；人工梭梭林；土壤；洞穴
+
+在荒漠区，土壤作为生物生长发育、繁衍生息的主要载体,是荒漠生态系统主要组成部分[]。土壤理化性质的变化能改变土壤质地，对土壤蓄水保肥能力有重要的影响[2-3]。土壤养分作为土壤肥力的物质基础和营养元素的基本来源，可显著影响植物生长发育过程[4-5]。目前,关于非生物因子在土壤理化性质作用及其影响过程的作用研究较多[6-7]，而关于荒漠区动物对土壤理化性质影响的研究涉及较少[8]。鼠类的挖掘、采食、粪便等会影响土壤理化性质和土壤养分的有效性[9-10]。鼠类在植物灌丛下挖穴定居，其活动使灌丛下土壤养分含量高于灌丛间土壤,形成"肥岛”],同时能显著影响植物群落结构、植物组成,被称为"生态系统工程师”[12-13]
+
+大沙鼠是西北荒漠地区广泛分布的营穴居啮齿动物，主要栖息在梭梭林、白刺沙包和怪柳沙包等荒漠生境，其粪便及所存植物营养枝等多种有机物,可改变土壤理化性质及养分的分布[5-6.11]。杨维康等[14]研究发现，大沙鼠的挖掘活动能提高一年生植物的物种多样性，并导致半灌木衰败，植物出现次生演替特征。 $\mathrm { X u }$ 等[15]研究发现，灌木下的大沙鼠洞区土壤养分含量显著高于无大沙鼠穴居的丘间地，且相同深度土壤中，速效氮含量高出丘间地两倍。李从娟等[]研究发现,距梭梭主根 $2 5 ~ \mathrm { c m }$ 处的土壤具有低盐和低pH的特点，即存在"盐岛"效应，而鼠类活动对梭梭灌丛下土壤的酸碱度影响未知。蒋慧萍等[]研究发现大沙鼠活动能改变洞区土壤水肥状况，有利于土壤微生物的发育。徐文轩等"研究发现，大沙鼠营巢活动促进了 $1 5 { \sim } 5 0 ~ \mathrm { c m }$ 土壤养分的富集，怪柳沙包出现明显的“肥岛”效应。
+
+近年来，以大沙鼠洞区为研究单元，相继开展了植被种类、养分和微生物种群等方面的研究[1,14-15.17]然而，对大沙鼠正在使用和已废弃的洞穴土壤水肥研究鲜有报道。基于此，本文以梭梭林内大沙鼠洞穴为研究对象，主要说明以下问题：（1）不同状态洞穴土壤理化性质是否存在差异？(2）土壤水肥在洞穴不同深度是否存在规律性变化？探讨大沙鼠扰动对土壤理化性质影响程度与范围，明确大沙鼠在梭梭林中的生态功能和作用，为荒漠区生态系统稳定提供基础资料。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+研究区位于甘肃民勤荒漠草地国家野外科学观测研究站 $( 1 0 3 ^ { \circ } 0 2 ^ { \prime } { \sim } 1 0 4 ^ { \circ } 0 2 ^ { \prime } \mathrm { E }$ $3 8 ^ { \circ } 0 5 ^ { \prime } { \sim } 3 9 ^ { \circ } 0 6 ^ { \prime } \mathrm { N } )$ ，属于温带大陆性气候。日照强烈，降水稀少，蒸发量大，年内分配不均匀；年均气温 $7 . 7 ~ \mathrm { ^ { \circ } C }$ ,平均年降水量为 $1 1 8 ~ \mathrm { m m }$ ,主要集中在6一9月，占年均总降水量的 $7 0 \%$ 以上，年均蒸发量 $2 6 6 4 . 3 ~ \mathrm { m m }$ ,常年盛行西北风，年均 $^ { \cdot } { \geqslant } 8$ 级风日数为 $2 7 . 8 \mathrm { ~ d ~ }$ 。土壤以风沙土为主，养分含量低且极易被风蚀。植物以人工种植的梭梭为主，伴生有唐古特白刺（Nitraria tanguto-rum）、沙拐枣（Calligonummongolicum）红砂（Reau-muria songarica）黄花矶松(Limonium aureum）、五星蒿(Echinopsilon divaricatum）等。
+
+# 1.2样品采集
+
+2020年7一8月在甘肃省民勤荒漠草地国家野外科学观测研究站东北侧大沙鼠广泛分布的人工梭梭林地，选择洞道直径约 $1 0 \mathrm { c m }$ 的洞穴30个，先根据洞穴特征进行初步分类，其中有效洞穴表现为洞口完整，土丘新鲜并伴有大沙鼠脚印，洞口有大沙鼠粪便或梭梭枝条、黄花矶松的花朵等，废弃洞穴表现为洞口被沙土部分填塞，偶有蛛丝或枯枝，土丘残留极小部分或不存在，鼠洞四周无活动迹象[18],再用干草将洞口轻微封堵， $4 8 \mathrm { { h } }$ 后查看，若洞口被打开记为有效洞穴，保持原状记为废弃洞穴[19],最后综合两次判定结果确定有效洞与废弃洞，并进行分类编号。其中有效洞17个，废弃洞13个，取洞道上壁距地面 $1 0 \ \mathrm { c m } \ 、 2 0 \ \mathrm { c m } \ 、 3 0 \ \mathrm { c m }$ 的单位体积土壤，去除深度不足 $3 0 \mathrm { c m }$ 的洞穴6个（有效洞4个，废弃洞2个），剩余洞穴中随机各取9个有效洞和废弃洞洞道土壤，最后在附近取9个相同土层的无洞穴土壤作为对照。同时对洞道深度进行测量，洞道平均深度为
+
+$2 7 . 1 5 ~ \mathrm { c m }$ ,其中上缘平均深度 $2 1 . 8 2 \mathrm { c m }$ ，下缘平均深度为 $3 2 . 4 7 ~ \mathrm { c m }$ 。将所有样品带回实验室，用烘干法测土壤含水量，并计算土壤容重，其余样品风干后用于土壤养分的测定。
+
+# 1.3 研究方法
+
+土壤容重和含水量采用环刀法， $\mathrm { \ p H }$ 值(水土比为2.5:1)采用 $\mathrm { P B - } 1 0 ~ \mathrm { p H }$ 计测定，全盐含量(水土比5:1)采用质量法，有机质测定采用重铬酸钾容量法，全氮采用硫酸消煮-水杨酸钠法，全磷采用钼锑抗比色法，全钾采用火焰光度计法，有效磷采用 $\mathrm { \Delta N a H C O _ { 3 } }$ 侵提钼锑抗比色法,有效钾采用四苯硼钠法[20]
+
+# 1.4数据处理与分析
+
+通过MicrosoftExcel2010进行数据统计，采用SPSS20.0软件对不同类型、深度大沙鼠洞穴土壤理化指标等进行方差分析(ONE-WAYANOVA)检验，所有数值以平均值 $\cdot ^ { \pm }$ 标准误表示。
+
+# 2结果与分析
+
+# 2.1不同类型大沙鼠洞穴土壤水分与含盐量特征
+
+从表1可知，土壤 $\mathrm { \ p H }$ 值在有效洞与废弃洞内各土层深度间差异不显著( $( P { > } 0 . 0 5 )$ 。有效洞与废弃洞pH值均随着土壤深度的增加呈现先降低后增加的变化,其中，有效洞 $0 { \sim } 1 0 \ \mathrm { c m } \ . 1 0 { \sim } 2 0 \ \mathrm { c m } \ . 2 0 { \sim } 3 0 \ \mathrm { c m }$ 土层较废弃洞高 $0 . 5 1 , 0 . 4 0 , 0 . 3 3$ ，洞穴间 $\mathrm { \ p H }$ 值极差达 $0 . 6 _ { \circ }$
+
+容重在洞穴类型和土壤深度均存在差异性( $\scriptstyle { \mathrm { . } } P <$ 0.05)。土壤容重整体表现为废弃洞 $<$ 有效洞<对照，在各洞穴内，随着土壤深度的增加，容重均增大，有效洞和废弃洞容重的最大值分别为 $1 . 4 5 ~ \mathrm { g \cdot c m ^ { - 3 } }$ 、$1 . 4 3 \ \mathrm { g \cdot c m } ^ { - 3 }$ ，而有效洞各土层间差值变化最小，为$0 . 0 2 \ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ 。
+
+土壤含水量在洞穴类型和土壤深度间差异显著 $( P { < } 0 . 0 5 )$ 。有效洞与废弃洞的各土层含水量均随深度增加而增大，但都低于对照组，有效洞0\~10$\mathrm { c m } \setminus 1 0 { \sim } 2 0 \ \mathrm { c m } \setminus 2 0 { \sim } 3 0 \ \mathrm { c m }$ 土层较对照组含水量减少了 $4 0 \% , 2 2 . 2 \% , 3 0 . 8 \%$ ,废弃洞各土层较对照组含水量减少了 $4 8 \% , 2 5 . 9 \% , 3 5 . 9 \%$ 0
+
+含盐量在有效洞差异不显著( $\scriptstyle \left( P > 0 . 0 5 \right)$ ，废弃洞和对照组的部分土层存在差异( $( P { < } 0 . 0 5 )$ 。含盐量整体表现为有效洞 $>$ 废弃洞 $>$ 对照，同一洞穴各土层含盐量均随土壤深度的增加而减小，有效洞和废弃洞最高含盐量分别为 $0 . 6 9 \ \underline { { \mathrm { g } } } \cdot \mathrm { k g } ^ { - 1 } \cdot 0 . 6 6 \ \underline { { \mathrm { g } } } \cdot \mathrm { k g } ^ { - 1 }$ ，有效洞变化值为 $0 . 0 3 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 、废弃洞为 $0 . 1 9 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。
+
+表1不同类型洞穴土壤水分与含盐量  
+Tab.1 Soil moisture and salt content of different types of burrow   
+
+<html><body><table><tr><td>鼠洞类型</td><td>土壤深度/cm</td><td>pH</td><td>容重/(g·cm-3)</td><td>含水量/%</td><td>含盐量/(g·kg"1)</td></tr><tr><td rowspan="3">有效洞</td><td>0~10</td><td>9.38±0.29Aa</td><td>1.43±0.02Bb</td><td>0.15±0.01Cb</td><td>0.69±0.18Aa</td></tr><tr><td>10~20</td><td>9.18±0.31Aa</td><td>1.45±0.01Ab</td><td>0.21±0.03Bb</td><td>0.68±0.25Aa</td></tr><tr><td>20~30</td><td>9.22±0.42Aa</td><td>1.45±0.01ABb</td><td>0.27±0.05Ab</td><td>0.66±0.15Aa</td></tr><tr><td rowspan="3">废弃洞</td><td>0~10</td><td>8.87±0.22Ab</td><td>1.40±0.01Bc</td><td>0.13±0.06Bb</td><td>0.66±0.08Aa</td></tr><tr><td>10~20</td><td>8.78±0.22Ab</td><td>1.42±0.01Ac</td><td>0.20±0.08ABab</td><td>0.53±0.14ABb</td></tr><tr><td>20~30</td><td>8.89±0.21Aa</td><td>1.43±0.01Ab</td><td>0.25±0.07Ab</td><td>0.47±0.10Bb</td></tr><tr><td rowspan="3">对照</td><td>0~10</td><td>9.21±0.02Aa</td><td>1.46±0.01Ca</td><td>0.25±0.04Ba</td><td>0.62±0.06Aa</td></tr><tr><td>10~20</td><td>9.19±0.06ABa</td><td>1.51±0.02Aa</td><td>0.27±0.02Ba</td><td>0.47±0.09Bb</td></tr><tr><td>20~30</td><td>9.13±0.03Ba</td><td>1.49±0.02Ba</td><td>0.39±0.04Aa</td><td>0.49±0.12Bb</td></tr></table></body></html>
+
+注：不同大写字母表示同一洞穴不同深度间差异显著 $\cdot P < 0 . 0 5$ ),不同小写字母表示同一深度不同洞穴间差异显著 $\cdot P < 0 . 0 5$ )。下同。
+
+# 2.2不同类型大沙鼠洞穴土壤全氮、全磷、全钾变化
+
+全氮在不同类型洞穴相同土层差异性显著( $P <$ 0.05)，在同一洞穴各土层未表现出差异。有效洞的同一洞穴各土层先降低后增加，而废弃洞持续降低,其中 $0 { \sim } 1 0 \ \mathrm { c m }$ 含量最高(有效洞 $0 . 6 0 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 、废弃洞 $0 . 3 7 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } .$ ，与 $0 { \sim } 1 0 ~ \mathrm { c m }$ 相比,有效洞 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 和 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 分别降低了 $2 0 . 1 \%$ 和 $6 . 8 \%$ ,废弃洞 $1 0 \sim$ $2 0 \ \mathrm { c m }$ 和 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 分别降低了 $6 . 2 \%$ 和 $8 . 3 \%$ ;相同土层各洞穴全氮含量表现为有效洞 $>$ 对照 $>$ 废弃洞，其中有效洞比废弃洞全氮含量分别高 $0 . 2 3 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 、$0 . 1 3 \mathrm { ~ g } \bullet \mathrm { k g } ^ { - 1 } \ 、 0 . 2 2 \mathrm { ~ g } \bullet \mathrm { k g } ^ { - 1 }$ （图1a）。
+
+全磷在有效洞与废弃洞各土层间差异性不显著 $( P { > } 0 . 0 5 )$ 。有效洞与废弃洞全磷含量均呈现先减小后增大，而对照组先增加后降低，全磷总量有效洞是废弃洞的1.07倍，其中有效洞 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 含量最高 $( 0 . 3 4 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } )$ ,废弃洞 $0 { \sim } 1 0 ~ \mathrm { c m }$ 含量最高 $\left( 0 . 3 1 \ \mathrm { g } \right.$ .$\mathbf { k g } ^ { - 1 }$ )；相同土层各洞穴全磷表现为有效洞 $>$ 废弃洞>对照，与对照组相比，有效洞各土层全磷增量分别为 $1 6 . 2 \% , 6 . 8 \% , 2 2 . 1 \%$ ,废弃洞各土层全磷增量分别为 $1 3 . 0 \% \ 、 2 . 2 \% \ 、 6 . 1 \%$ （图1b）。
+
+全钾含量在洞穴与土壤深度间差异性显著( $\scriptstyle P <$ 0.05)。有效洞和废弃洞全钾含量在各土层间均呈现先降低后增加的变化， $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层全钾含量均最大,其中有效洞为 $2 9 . 6 9 \ \mathrm { m g \cdot k g ^ { - 1 } }$ ,废弃洞为25.11$\mathbf { m g \cdot k g } ^ { - 1 }$ ,对照组全钾含量持续降低;相同土层有效洞比废弃洞全钾含量分别增加了 $4 . 5 9 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 、$1 . 2 4 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 } \cdot 2 . 4 1 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ （图1c）。
+
+# 2.3不同类型大沙鼠洞穴土壤有机质、有效磷、有效钾变化
+
+有机质在同一洞穴不同深度间差异不显著( $\cdot P >$ 0.05），同一深度不同洞穴间差异显著( $_ { ( P < 0 . 0 5 ) }$ ，随土壤深度的增加，有效洞和废弃洞有机质含量逐渐增加，而对照组先增加后降低。与对照组相比，有效洞与废弃洞总量增加了 $6 3 . 2 \% . 4 8 . 8 \%$ 。有机质含量在 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 土层表现为有效洞 $>$ 废弃洞 $\mathrm { > }$ 对照，而在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层为废弃洞 $>$ 有效洞 $>$ 对照（图2a）。
+
+有效磷含量在洞穴与土层间差异性不显著( $\cdot P >$ 0.05)，有效洞和废弃洞有效磷含量均呈现先降低后增加的趋势，其中 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层含量最高(有效洞
+
+0.8[(a) ■有效洞日废弃洞□对照 0.5(b） ■有效洞日废弃洞口对照 50[(c）有效洞日废弃洞口对照 Aa Bb Aa 工 Bb 门 AaAa Aa Aa AaAa Aa AAa 30 Aa HAbAb Ca Bb Ab BaABb   
+0.4 Aq A Aq Ac 出 20   
+0.2 0.1 10   
+0.0 0.0 0 0\~10 10\~20 20\~30 0\~10 10\~20 20\~30 0\~10 10\~20 20\~30 土壤深度/cm 土壤深度/cm 土壤深度/cm
+
+Fig.1Changes insoiltotal nitrogen,total phosphorus,and total potassium content in different typesof burrow
+
+0.7[(a)有效洞日废弃洞口对照 6.0( (b) ■有效洞废弃洞□对照 0.20[(c)有效洞废弃洞口对照 Aa中 0.16AA Aa BaAbAa ABaAaAa ABab Aa 田 AaAab Ab AAb Ab Ab   
+0.2 由 王 2.0   
+0.1 1.0 0.04   
+0.0 0.0 0 0\~10 10\~20 20\~30 0\~10 10\~20 20\~30 0\~10 10\~20 20\~30 土壤深度/cm 土壤深度/cm 土壤深度/cm
+
+$3 . 5 4 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,废弃洞 $3 . 1 3 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ),相同土层有效磷含量均表现为有效洞 $>$ 废弃洞 $>$ 对照。与对照组相比，有效洞和废弃洞的有效磷总量分别增加了$1 . 8 5 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ） $0 . 9 8 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,其中有效洞各土层增幅占比分别为 $3 1 . 7 \% . 2 9 . 5 \% . 3 8 . 8 \%$ ,废弃洞各土层增幅占比分别为 $3 9 . 6 \% , 2 8 . 5 \% , 3 1 . 9 \%$ （图2b）。
+
+有效钾在洞穴与土层间差异性不显著( $\mid P >$ 0.05)，随土壤深度增加，有效洞和废弃洞有效钾含量呈先降低后增加的变化，而对照组有效钾含量不断降低，相同土层有效钾含量均表现为有效洞 $>$ 废弃洞 $>$ 对照。有效洞 $0 { \sim } 1 0 \ \mathrm { c m } \ . 1 0 { \sim } 2 0 \ \mathrm { c m } \ . 2 0 { \sim } 3 0 \ \mathrm { c m }$ 土层含量分别为 $0 . 1 4 ~ \mathrm { g \cdot k g ^ { - 1 } , 0 . 1 3 ~ \mathrm { g \cdot k g ^ { - 1 } , 0 . 1 4 ~ \mathrm { g \cdot k g ^ { - 1 } } } }$ 是废弃洞的1.05倍，1.01倍、1.01倍（图 $2 \mathrm { c }$ ）。
+
+# 3讨论
+
+# 3.1大沙鼠活动对土壤物理性质的影响
+
+大沙鼠通过挖掘活动在土壤中形成纵横交错的通道，这是对土壤最直接的影响方式。本研究中大沙鼠有效洞与废弃洞的各土层水分含量均低于未受干扰的对照组(表1)，这与蒋慧萍等[研究的大沙鼠洞区土壤水分显著高于对照区的结果相反，与田永亮[19]研究高原酚鼠(Myospalaxbaileyi)挖掘活动造成土壤水分降低的结果相同，其原因可能是大沙鼠在梭梭周围挖穴穿洞，以数十个洞口组成复杂的洞群，破坏土壤完整性[21],洞道内空气与土壤大面积接触且流动，增加了水分的蒸散发量。民勤荒漠区高温贯穿整个主降水(6—9月)时期[22]，土壤温度高，水分沿洞道大量蒸发[23]。同时，大沙鼠的挖掘、采食等活动，可导致土壤表层生物结皮破碎，提高土面水分蒸散发。鼠类为满足自身需求，在洞道内来回活动，这种行为产生的气流导致“闪急干燥”,引起洞道土壤水分含量降低[20.24-26]。大沙鼠在洞穴周围的频繁活动，导致洞道上壁土质疏松，可能引起洞道土壤容重降低，Andersen等[25]分析旗尾更格卢鼠(Dipodomys spectabilis)对荒漠草地的土壤扰动效应后，发现扰动区和对照区土壤紧实度存在显著差异，旗尾更格卢鼠扰动区土壤紧实度小，而对照区的土壤紧实度大，这说明鼠类扰动能引起土壤容重降低。有效洞挖掘时间短，大沙鼠在洞内活动频繁，尿液、粪便等在洞内堆积，引起有效洞土壤$\mathrm { \ p H }$ 高于对照组，而废弃洞中长期无鼠类活动，腐殖质风干难分解，导致 $\mathrm { \ p H }$ 低于对照组。梭梭是盐生植物，在生长发育过程中通过积盐增强抗旱能力[27-29],梭梭周围土壤盐分含量升高3，大沙鼠的采食活动将梭梭枝条拖回洞内，进食活动掉落的食物残渣、碎屑等物质与土壤直接接触，导致洞道内土壤盐分含量更高。
+
+# 3.2大沙鼠活动对土壤化学性质的影响
+
+鼠类的挖掘过程充分混合了土壤，增加了土壤内部均质性，其储藏食物、排泄粪便等活动影响了洞区土壤养分分布[28]。本文全氮含量在废弃洞的各土层都低于对照组，全磷、全钾、有机质、有效磷和有效钾的含量有效洞和废弃洞各土层均高于对照组，其中有机质表现最为明显(图2a)。土壤有机质来源于植物残体及土壤微生物分解[31],大沙鼠将梭梭枝条等地上植物拖回洞内大量存储，土壤良好的通气性，提高腐殖质分解速率，引起养分循环速率的加快[32-33],促进有机质的积累。全氮含量在有效洞各土层的增加，可能是由于大沙鼠主要在有效洞内活动，且排泄活动都在有效洞内进行引起的。大沙鼠主要活动在地下 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层中[15.17],本研究中全磷与有效磷在洞道 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 含量最高（图1b，图2b)，这可能是由于大沙鼠的频繁活动，排泄物大量堆积导致，此外，鼠类死亡后尸体的分解也有助于土壤养分的增加,国外有类似的报道[34]。全钾与有效钾在洞口富集，除了与大沙鼠的活动有关,还可能与草本植物的凋落有关[35],植被凋落物和矿物的风化是钾的主要来源，而凋落物主要聚集在土壤表层[2]。
+
+# 4结论
+
+（1）大沙鼠挖掘洞穴及活动导致土壤疏松，水分含量降低，土壤趋向于更干旱。土壤容重变小，盐分增加，土壤趋于碱化。(2）大沙鼠挖掘活动能促进洞穴土壤养分积累，土壤全磷、全钾、有机质、有效磷与有效钾含量在有效洞与废弃洞的各土层呈不同程度的增加，有效洞土壤养分含量普遍高于废弃洞。
+
+# 参考文献(References):
+
+[1]王飞,马剑平,马俊梅,等.民勤不同林龄胡杨根区土壤理化性 质及相关性分析[J].西北林学院学报，2020,35(3):23-28,54. [Wang Fei, Ma Jianping, Ma Junmei, et al.Physicochemical properties and correlations of the soils in the Populus euphratica forests with different ages in Minqin[J].Journal of Northwest Forestry University,2020,35(3):23-28,54.]   
+[2]赛牙热木·哈力甫,宋瑞清,艾克拜尔·伊拉洪,等.察布查尔县 土壤碳氮磷钾垂直分布规律研究[J].干旱区地理,2018,41(3): 582-591.[Saiyare Halpu,Song Ruiqing,Aikebaier Yilahong,et al.Vertical distribution of soil nitrogen,phosphor and potassium in Qapgal County[J].Arid Land Geography,2018,41(3):582- 591.]   
+[3]高露,张圣微,赵鸿彬,等.退化草原土壤理化性质空间异质性 及其对土壤水分的影响[J].干旱区研究,2020,37(3):607-617. [Gao Lu, Zhang Shengwei, Zhao Hongbin,et al. Spatial heterogeneity of soil physical and chemical properties in degraded grassland and their effect on soil moisture[J].Arid Zone Research,2020,37 (3): 607-617.]   
+[4]刘江,徐先英,张荣娟,等.不同退化程度人工梭梭林对土壤理 化性质与生物学特性的影响[J].草业学报,2017,26(12):1-12. [Liu Jiang,Xu Xianying, Zhang Rongjuan, et al.Physicochemical and biological properties of soil in Haloxylon ammodendron plantations with different states of degradation[J].Acta Prataculturae Sinica,2017,26(12): 1-12.]   
+[5]王琦,全占军,韩煜,等.风沙区采煤塌陷不同恢复年限土壤理 化性质变化[J].水土保持学报,2014,28(2):118-122,126. [Wang Qi, Quan Zhanjun,Han Yu,et al. Changes of soil physical and chemical properties under different coal mining subsidence years in windy desert area[J]. Journal of Soil and Water Conservation,2014,28(2): 118-122,126.]   
+[6]麦尔哈巴·尼加提,戴岳,师庆东,等.准噶尔盆地东南缘荒漠灌 丛盐生假木贼周围土壤理化性质研究[J].灌溉排水学报, 2019,38(7): 38-44.[Marhaba Nijat,Dai Yue,Shi Qingdong, et al. Physical and chemical properties of soil at southeastern edge of Anabasis salsa in Junggar Basin[J]. Journal of Irigationand Drainage, 2019,38(7): 38-44.]   
+[7]常海涛,赵娟,刘佳楠,等.退耕还林与还草对土壤理化性质及 分形特征的影响——以宁夏荒漠草原为例[J.草业学报, 2019,28(7): 14-25.[Chang Haitao,Zhao Juan,Liu Jianan,et al. Changes in soil physico-chemical properties and related fractal features during conversion of cropland into agroforestry and grassland: A case study of desertified steppe in Ningxia[J].Acta Prataculturae Sinica,2019,28(7): 14-25.]   
+[8]罗华智,刘伟,杨楠,等.高原酚鼠对若尔盖高原湿地草原土壤 性质和植物生物量的扰动效应[J].西南农业学报,2020,33(3): 626-63O.[Luo Huazhi,Liu Wei, Yang Nan,et al.Disturbing effects of plateau zokor (Myospalax baileyi) on soil properties and plant biomass in zoige plateau marshes[J]. Southwest China Journal of Agricultural Sciences,2020,33(3): 626-630.]   
+[9]G6mez-Garcia D, Giannoni S M,Reiné R,et al. Movement of seeds by the burrowing activity of mole-voles on disturbed soil mounds in the spanish pyrenees[J]. Arctic Antarctic & Alpine Research, 1999,31(4): 407-411.   
+[10] 张雷,楚新正,李艳红,等.荒漠鼠类对新疆甘家湖湿地边缘带 土壤性质的扰动效应研究[J].生物灾害科学,2014,37(1):50- 55.[Zhang Lei, Chu Xinzheng,Li Yanhong,et al. Study on soil disturbance effects of desert rodents on the Xinjiang Ganjiahu Wetland[J]. Biological Disaster Science,2014,37(1): 50-55.]   
+[11] 徐文轩,刘伟,杨维康,等.大沙鼠在怪柳沙包"肥岛"形成过程 中的作用[J].生态学杂志,2012,31(7):1756-1762.[Xu Wenxuan,Liu Wei,Yang Weikang,et al.Role of Rhombomys opimus in the developmentof“ferileisland”intamarisk moundsinJunggar Basin[J]. Chinese Journal of Ecology,2012,31(7): 1756-1762.]   
+[12] 杨维康,蒋慧萍,王雪芹,等.古尔班通古特沙漠区大沙鼠对荒 漠植物群落的扰动效应[J]).生态学杂志,2009,28(10):2020- 2025.[Yang Weikang, Jiang Huiping,Wang Xueqin,et al. Disturbance effects of Rhombomys opinms on desert plant community in Gurbantonggut Desert[J]. Chinese Journal of Ecology，2009,28 (10): 2020-2025.]   
+[13]Weltzin JF,Archer S,Heitschmidt R K. Small-mammal regulation of vegetation structure in a temperate savanna[J]. Ecology,1997, 78(3): 751-763.   
+[14] 杨维康,乔建芳,蒋慧萍,等.大沙鼠掘洞对准噶尔荒漠植物群 落的小尺度影响[J].干旱区地理,2006,29(2):219-224.[Yang Weikang, Qiao Jianfang, Jiang Huiping, et al. Impact of burrows of the great gerbil on smal-scale plant community in Junggar Desert, China[J]. Arid Land Geography,2006,29(2): 219-224.]   
+[15]Xu W X,Liu W, Yang W K,etal. Rhombomys opimus contribution to the “fertile island”effct of tamarisk mounds in Junggar Basin [J]. Ecological Research,2012,27(4): 775-781.   
+[16] 李从娟,雷加强,徐新文,等.树干径流对梭梭"肥岛"和"盐岛” 效应的作用机制[J].生态学报,2012,32(15):4819-4826.[Li Congjuan,Lei Jiaqiang,Xu Xinwen,etal.The effects of stemflow on the formation of“Fertile Island”and“Salt Island”for Haloxylon ammodendron Bge[J].Acta Ecologica Sinica,2012,32(15): 4819-4826.]   
+[17] 蒋慧萍,吴楠,杨维康.大沙鼠扰动对荒漠土壤微生物数量和水 肥状况的影响[J].干旱区研究,2007,24(2):187-192.[Jiang Huiping,WuNan,Yang Weikang,Efectsof Rhombomysoimus on microbial quantity,soil moisture content and soil nutrient content in adesert[J]. Arid Zone Research,2007,24(2):187-192.]   
+[18] 刘江,徐先英,张荣娟,等.人工梭梭(Haloxylon ammodendron)林 大沙鼠(Rhombomys opimus)鼠洞空间格局[J].中国沙漠,2017, 37(6): 118O-1188.[Liu Jiang, Xu Xianying, Zhang Rongjuan,et al. Spatial pattern of holes of Rhombomys opimus inA Haloxylon ammodendron plantation site[J]. Journal of Desert Research,2017, 37(6): 1180-1188.]   
+[19] 田永亮,姬程鹏,楚彬,等.高原酚鼠挖掘活动对采食洞道土壤 水肥的影响[J].草原与草坪,2016,36(4):16-20.[Tian Yongliang,Ji Chengpeng,Chu Bin,et al.Effect of burrowing activity of plateau zokor (Myospalax baileyi) on soil moisture and nutrition in foraging tunnel[J]. Grassland and Turf,2016,36(4): 16-20.]   
+[20]鲍士旦.土壤农化分析[M].第三版.北京:中国农业出版社, 2000.[Bao Shidan,Soil Agro-chemistrical Analysis[M].3nd ed. Beijing: China Agriculture Press,2000.]   
+[21] 马涛,郑江华,温阿敏,等.基于无人机低空遥感的荒漠林大沙 鼠鼠洞分布与地形的关系——以新疆古尔通古特沙漠南缘局 部为例[J].林业科学,2018,54(10):180-188.[Ma Tao,Zheng Jianghua,Wen Amin,et al. Relationship between the distribution of Rhombomys opimus holes and the topography in desert forests based on low-altitude remote sensing with the Unmanned Aerial Vehicle (UAV): A case study at the southern margin of the GurbantunggutDesert in Xinjiang,China[J].Scientia Silvae Sinicae, 2018,54(10): 180-188.]   
+[22] 常兆丰,马中华,王大为,等.民勤荒漠气候变化的不稳定性分 析[J].干旱区研究,2016,33(3): 601-608.[Chang Zhaofeng,Ma Zhonghua,Wang Dawei,et al.Instability of climate change in the Minqin Desert Area[J].Arid Zone Research,2016,33(3): 601-608.]   
+[23] 石红霄,于健龙.高原鼠兔洞口密度对高寒嵩草草甸植被及土 壤水分的影响[J].中国草地学报,2010,32(4):109-112,116. [Shi Hongxiao,Yu Jianlong.Influence of burrowing rodent density plots on the alpine Kobresia meadows structure and soil water content[J]. Chinese Journal of Grassland,2010,32(4): 109-112,116.]   
+[24] 周雪荣.青藏高原高寒草甸群落和土壤对高原鼠兔密度变化的 响应[D].兰州:兰州大学,2010.[Zhou Xuerong.The response of meadow plant communities and soil to density changes of Ochatona curzoniae in Qinghai-Tibetan Plateau[D]. Lanzhou: Lanzhou University,2010.]   
+[25]Andersen M C,Kay FR. Banner-tailed kangaroo rat burrow mounds and desert grassland habitats[J]. Journal of Arid Environments,1999,41(2): 147-160.   
+[26] 柏新富,朱建军,王仲礼,等.干旱区木本植物盐分积累与其耐 旱性的关系[J].林业科学,2012,48(7):45-49.[Bai Xinfu, Zhu Jianjun,Wang Zhongli,et al. Relationship between the salt accumulation and the drought resistance in several woody plants in Arid Zone[J]. Scientia Silvae Sinicae,2012,48(7): 45-49.]   
+[27] He A L,Niu S Q, Zhao Q,et al. Induced salt tolerance of perennial ryegrass by a novel bacterium strain from the rhizosphere of a desert shrub Haloxylon ammodendron[J]. International Journal of Molecular Sciences,2018,19(2): 469.   
+[28] 邵帅,何红波,张威,等.土壤有机质形成与来源研究进展[J].吉 林师范大学学报(自然科学版),2017,38(1):126-130.[Shao Shuai,He Hongbo,Zhang Wei,et al. Soil organic mater formation and origin:AReview[J]. Journal of Jilin Normal University(Natural Science Edition),2017,38(1): 126-130.]   
+[29] 李文靖,张堰铭.高原鼠兔对高寒草甸土壤有机质及湿度的作 用[J].兽类学报,2006,26(4): 331-337.[Li Wenjing,Zhang Yanming. Impacts of plateau pikas on soil organic mater and moisture content in alpine meadow[J].Acta Theriologica Sinica, 2006,26 (4): 331-337.]   
+[30] 姬程鹏,杨思维,周延山,等.祁连山东段高原酚鼠洞道土壤微 生物和土壤酶[J].兽类学报,2017,37(3):284-292.[Ji Chengpeng,Yang Siwei, Zhou Yanshan,et al. Soil microorganisms and enzymes in burrows of plateau zokor in eastern Qilian Mountain region[J].Acta Theriologica Sinica,2017,37(3): 284-29.]   
+[31] Carlson D C, White E M. Effects of prairie dogs on mound soils[J]. Soil Science Society of American Journal,1987,51(2): 389-393.   
+[32] Carlson D C,White E M.Variations in surface-layer color,texture, pH,and phosphorus content across prairie dogs mounds[J]. Soil Science Society of American Journal,1988,52(6): 1758-1761.   
+[33] 徐满厚,刘彤,姜莉.古尔班通古特沙漠南部梭梭鼠害特征及防 治生态阈值研究[J].干旱区资源与环境,2012,26(6):126-133. [Xu Manhou,Liu Tong,Jiang Li. Study on the harm characteristics of rodents to Haloxylon ammodendrom and its control for ecological threshold value in the south of Gurbantonggut Desert[J]. Journal of Arid Land Resources and Environment, 2012,26(6):126-133.]   
+[34] Carlson D C,White E M.Effects of prairie dogs on mound soils[J]. Soil Science Society of American Journal,1987,51(2): 389-393.   
+[35] 王婷,张永超,赵之重.青藏高原退化高寒湿地植被群落结构和 土壤养分变化特征[J].草业学报,2020,29(4):9-18.[Wang Ting, Zhang Yongchao,Zhao Zhizhong.Characteristicsofthe vegetation community and soil nutrient status in a degraded alpine wetland of Qinghai-Tibet Plateau[J].Acta Prataculturae Sinica,2020, 29(4): 9-18.]
+
+# Effects of Rhombomys opimus disturbance on soil physical and chemical properties of artificial Haloxylon ammodendron forest
+
+MENG Ruiling'， XU Xianying1²， WANG Li'， LIU Hujun²， ZHAO Peng²，LI Fengbo' (1. College of Forestry,Gansu Agricultural University,Lanzhou 73O07o,Gansu, China; 2.State Key Laboratory Breeding Base of Desertification and Aeolian Sand Disaster Combating,Gansu Desert Control Research Institute, Lanzhou 730070,Gansu, China)
+
+Abstract:An investigation into the influence of Rhombomys opimus disturbance on the physical and chemical properties of soil could clarify the ecological function and role that $R$ . opimus plays in artificial Haloxylon ammodendron forest.Specifically,the in-use (effective burrows)and abandoned (abandoned burrows) burrows of R.opimus in an artificial $H .$ ammodendron forest were analyzed for the layered determination of $0 { - } 3 0 ~ \mathrm { c m }$ soil moisture, organic matter, total nitrogen, and other parameters to determine how $R$ .opimus excavation activities influence the physical and chemical properties of soil.The results showed that the water content and bulk density of the $0 { - } 3 0 ~ \mathrm { c m }$ layer of soil had the same change laws: Abandoned cave $<$ effective hole $<$ control; and the water content and bulk density increased with increased burrow depth.The salt content in the soil layers in the effective and abandoned burrows decreased with increased soil depth. The $\mathfrak { p H }$ of each soil layer increased in the effective burrows, but decreased in the abandoned burrows.The total nitrogen in each soil layer ( $0 { - } 1 0 ~ \mathrm { c m }$ ， $1 0 { - } 2 0 ~ \mathrm { c m }$ ， $2 0 -$ $3 0 ~ \mathrm { c m }$ ） in the effective burrows was $0 . 2 3 \mathrm { ~ g } \cdot \mathrm { k g } ^ { - 1 } .$ ， $0 . 1 3 \mathrm { ~ g \cdot k g ^ { - 1 } }$ ，and $0 . 2 2 ~ \mathrm { g \cdot k g ^ { - 1 } }$ higher than in the abandoned burrows. The total phosphorus and total potassium in the soil layers were:Effective burrows $>$ abandoned burrows $>$ control, with the highest content in the $0 { - } 1 0 ~ \mathrm { c m }$ layer.The available phosphorus in the soil layers of both burrows had the same change rule,with the highest content in the $2 0 { - } 3 0 ~ \mathrm { c m }$ layer. The effective potassium in each soil level inthe effective burrows was 1.05,1.01,and1.01 times thatof theabandoned burrows.Organic matter: The total amount of organic matter in the effctive and abandoned burrows increased by $6 3 . 2 \%$ and $4 8 . 8 \%$ ,respectively. In summary,the soil nutrients of the effective burrows were generally higher than those of the abandoned burrows,and the soil nutrients increased in different degrees, indicating that $R$ 、opimus disturbance could change the soil bulk density and water patterns,promote nutrient accumulation,and increase soil fertility.
+
+Keywords: Rhombomys opimus； disturbance; artificial Haloxylon ammodendron forest; soil; burrow

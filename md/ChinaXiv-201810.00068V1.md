@@ -1,0 +1,546 @@
+# 具有时变时延的网络化LPV系统的容错控制
+
+黄可望1，陈冬杰²，潘丰²
+
+(1．无锡职业技术学院 物联网技术学院，江苏无锡 214121;2.江南大学 轻工过程先进控制教育部重点实验室，江苏无锡 214122)
+
+摘要：针对一类具有时变时延以及Lipschitz 非线性项的网络化线性参数变化(LPV)系统，研究了系统中存在外部扰动、执行器和传感器同时发生随机故障时的容错控制问题。用Bemoulli分布序列描述执行器和传感器发生的随机故障，利用自由权矩阵方法处理时变时延。根据Lyapunov-Krasovskii 稳定性定理和线性矩阵不等式（LMI）方法求出 $H _ { \infty }$ 容错控制器存在的充分条件，然后通过利用近似基函数和网格化技术将无限维的LMI求解问题转换为有限维的LMI问题，得到了相应的容错控制器增益。最后，通过数值仿真验证了所设计方法的有效性。
+
+关键词：容错控制；线性参数变化系统；时变时延；线性矩阵不等式 中图分类号：TP273 doi:10.3969/j.issn.1001-3695.2018.07.0369
+
+# Fault-tolerant control for networked LPV systems with time-varying delays
+
+Huang Kewangl, Chen Dongjie²,Pan Feng² (1.Scholof InternetofTingsTechnology,WuxinstituteofTchnologyWuxiJiangsu14121,China;2.KeyLaboratoryof AdvancedProcessControlforLightIndustryofMinistryofEducation,JiangnanUniversity,WuxiJiangsu141,na)
+
+Abstract: Foraclassof networked nonlinear parameter-varying (LPV)systems with time-varyingdelays and globalLipschitz nonlinearities,thispaperstudiedthefault-tolerantproblemwenextealdisturbances,randomactuatorandsensorfaultsexisted simultaneously.It modeled therandomlyoccurring faultsas Bernouli distributed whitesequences with knownconditional probability distributions,and handledtime-varyingdelays bythefree weight matrix method.BasedonLyapunov-Krasovski stabilitytheoryand linear matrix inequality(LMI) methods,thepaperderived suficientconditions for the existence of the $\mathrm { H } \infty$ fault-tolerantcontroler.Itused theapproximatebasis functionandthe gridtechiquetoturnthe problemofsolvinganfinitedimensionallnearmatrixinqualitiesintotheproblemofsolvingafinite-dimensionallinearmatrixinequalities.Thenitobtained thecorrespondingfault-tolerantcontrollergais.Finallyumericalsimulationverifidtheefectivenessofte proposedmetod. Key words: fault-tolerantcontrol;linear parameter-varying systems; time-varying delays; linear matrix inequality(LMI)
+
+# 0 引言
+
+近年来，由于实际应用中对系统性能、安全性、可靠性的要求越来越高，动态系统中的容错控制受到了极大的关注[l\~4]。容错控制（FTC）允许将系统性能保持在接近的理想状态，并在出现故障时能够保持稳定。大多数研究都是集中在线性时不变系统的容错控制方面，然而由于系统的多变性，研究线性参数变化系统的容错控制极为重要[5\~8]。
+
+与此同时，由于系统中网络的引入，通常会发生时变时延，并且大于一个周期，系统中的故障往往同时存在于执行器和传感器中。因此针对具有时变长时延的网络化LPV系统中存在的同时发生执行器及传感器故障的问题，容错控制的研究很有意义。容错控制的雏形形成于1971年[9]，正式的概念则在1986年全美控制界高峰会议上提出。之后，容错控制的研究主要可以分为两个方面，故障发生后需要重新调整控制器参数的主动容错控制[0]，以及与鲁棒控制技术类似的被动容错控制[1I]。进入21世纪以来，随着网络的兴起以及无人机、导弹等参数变化系统的控制需求，网络化LPV系统的容错控制渐渐成为研究的热门。国外的Lee等人早在2008年就提出了将LPV系统和容错系统的研究相结合[12]，提出了一种基于鲁棒控制技术的方法，得到了系统的稳定的充分条件和相应的 $H _ { \infty }$ 性能指标。国内则由华中科技大学翁正新教授和他的弟子展开了对网络化LPV系统的控制方法和容错控制系统的控制方法相结合的研究[13]。接下来，在他们的研究基础上，文献[14]针对具有长时延、参数不确定性、外部扰动等不利因素的网络化控制系统，建立了执行器出现完全失效或部分失效情况下的增广故障模型，使得闭环控制系统稳定运行。文献[15]考虑了网络存在时变时延和执行器发生未知故障的网络化控制系统，采取了改进的Jensen不等式以及Lyapunov 稳定性理论，不仅得到了闭环控制系统稳定的充分条件，还得到了满足性能的充分条件。江南大学的吴定会副教授等人则将网络化LPV系统的容错控制与风能转换系统相结合[16]，针对桨距执行器发生故障的情况，利用LPV凸分解的方法给出了凸多面体结构的系统模型，最后利用LMI技术设计出了相应的LPV容错控制器，减少了故障对发电机动态性能的影响。文献[17]针对多个传感器发生故障且故障是未知的情况，采取了分布式、零处理的策略，对各个子控制器进行逐个的设计，采取凸结合的方法得到了最终的控制器，减少了系统模型线性化存在的偏差，保障了系统的稳定运行。文献[18]考虑了网络存在时变时延和执行器发生未知故障的网络化控制系统，采取了改进的Jensen 不等式以及Lyapunov 稳定性理论，不仅得到了闭环控制系统稳定的充分条件，还得到了满足 $H _ { \infty }$ 性能的充分条件。文献[19]研究了网络控制系统具有丢包和传输延迟的保成本主动容错控制器(AFTC)的设计问题。考虑到丢包和传输时延，采用分段常数控制器。给出保成本函数，设计了与执行器数量相等的最优控制器，并将设计过程制定为一个可以通过现有软件解决的凸优化问题。
+
+上述文献中大都考虑系统中存在传感器或者执行器故障，而很少研究故障同时存在的情况，并且由于网络技术的发展，网络中的时延所带来的影响不可忽略。本文综合考虑了网络通信通道中存在的时变长时延、外部扰动以及传感器和执行器同时发生故障等不利因素对网络化LPV系统的控制产生的影响，运用文献[20]的自由权矩阵的方法处理时变时延，再利用Lyapunov-Krasovskii 稳定性定理，求出 $H _ { \infty }$ 容错控制器存在的充分条件。然后通过利用近似基函数和网格化技术[21将无限维的LMI求解问题转换为有限维的LMI问题。
+
+# 1 问题描述
+
+考虑具有图1结构的网络化LPV闭环系统模型为
+
+$$
+\left\{ \begin{array} { l l } { x ( k + 1 ) = A _ { 0 } ( \rho ( k ) ) x ( k ) + A _ { 1 } ( \rho ( k ) ) u ( k - d ( k ) ) } \\ { \qquad + B ( \rho ( k ) ) u ( k ) + R ( \rho ( k ) ) \omega ( k ) + f ( k , x ( k ) ) } \\ { z ( k ) = C ( \rho ( k ) ) x ( k ) + D ( \rho ( k ) ) \omega ( k ) } \\ { x ( k ) = 0 , \forall k \leq 0 } \end{array} \right.
+$$
+
+其中: $\ b { x } ( k ) \in \ b { R } ^ { n }$ 为状态向量， $u ( k ) \in R ^ { m }$ 为控制输入， $\smash { z ( k ) \in R ^ { r } }$ 为被控输出。 $\omega ( k ) \in R ^ { q }$ 是外部干扰输入，且属于集合 $I _ { 2 } [ 0 , \infty )$ ，$I _ { 2 } [ 0 , \infty )$ 是平方可积向量空间。 $A _ { 0 } ( \rho ( k ) ) , A _ { 1 } ( \rho ( k ) ) , B ( \rho ( k ) ) ,$ （20$C ( \rho ( k ) ) ~ , ~ D ( \rho ( k ) )$ 和 $R ( \rho ( k ) )$ 都是具有适当维数的时变参数$\rho ( k )$ 的函数。参数向量 $\rho ( k )$ 满足实时可测。为了记号方便，将 $\rho ( k )$ 简写为 $\rho$ 。
+
+$f ( k , x ( k ) )$ 是非线性向量函数并且同时满足以下的Lipschitz条件:
+
+$$
+\left\| f ( k , x ) \right\| \leq \left\| G x \right\|
+$$
+
+$$
+\| f ( k , x ) - f ( k , \mathbf { y } ) \| \leq \| G ( x - y ) \|
+$$
+
+其中: $\boldsymbol { G }$ 是具有适当维数的已知常数矩阵。
+
+![](images/15930129dde55092683ef32df91bf0850980f1a73e22b811516057b355316ca1.jpg)  
+图1网络化LPV闭环系统结构图
+
+$d ( k )$ 是时变时延,取值为正整数， $d _ { \scriptscriptstyle 1 }$ 是时变时延的下界, $d _ { 2 }$ 是时变时延的上界,那么它满足如下的不等式:
+
+$$
+0 < d _ { 1 } \leq d ( k ) \leq d _ { 2 } , \forall k
+$$
+
+定义 $\tau = d _ { 2 } - d _ { 1 }$ ，当 $\scriptstyle { \tau = 0 }$ 时表示时延是时不变的，即常数时延，当 $\tau \neq 0$ 时表示时延是时变的，即时变时延。
+
+引入故障矩阵 $H$ ，执行器的故障模型描述如下：
+
+$$
+H = \mathrm { d i a g } \{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n _ { 1 } } \}
+$$
+
+其中: $h _ { 1 } , h _ { 2 } , \cdots , h _ { n _ { 1 } } \in [ 0 , 1 ]$ 是 $n _ { \mathrm { { 1 } } }$ 个相互独立的随机变量，当 $h _ { \scriptscriptstyle i } = 1$ 时表示传感器正常，当 $h _ { i } = 0$ 时表示传感器完全失效，当 $0 < h _ { _ i } < 1$ 时，则表示传感器存在部分失效。 $h _ { \scriptscriptstyle i }$ 是随机变量，因此可以得到：
+
+$$
+\mathrm { E } ( H ) = \overline { { H } } = \sum _ { i = 1 } ^ { n _ { I } } \overline { { h } } _ { i } \Upsilon _ { i }
+$$
+
+其中： $\Upsilon _ { i } = \mathrm { d i a g } \{ \underbrace { 0 , \cdots , 0 } _ { i - 1 } , \underbrace { 0 , \cdots , 0 } _ { n _ { 1 } - i } \}$ ， $\overline { { h } } _ { i }$ 無是這 $h _ { \scriptscriptstyle i }$ 的期望。
+
+引入故障矩阵 $M$ ，传感器的故障模型描述如下：
+
+$$
+{ \cal M } = \mathrm { d i a g } \{ m _ { 1 } , m _ { 2 } , \cdots , m _ { n _ { 2 } } \}
+$$
+
+其中： $m _ { 1 } , m _ { 2 } , \cdots , m _ { _ { n _ { 2 } } } \in [ 0 , 1 ]$ 是 $n _ { 2 }$ 个相互独立的随机变量，当$m _ { i } = 1$ 时表示执行器正常，当 $m _ { i } = 0$ 时表示执行器完全失效，当$0 < m _ { i } < 1$ 时，则表示执行器存在部分失效。 $m _ { i }$ 是随机变量，因此可以得到
+
+$$
+\operatorname { E } ( M ) = { \bar { M } } = \sum _ { \mathrm { i } = 1 } ^ { n _ { 2 } } { \bar { m } } _ { i } \Upsilon _ { i }
+$$
+
+其中： $\Upsilon _ { i } = \mathrm { d i a g } \{ \underbrace { 0 , \cdots , 0 } _ { i - 1 } , \underbrace { 0 , \cdots , 0 } _ { n _ { 2 } - i } \}$ ， $\bar { m } _ { i }$ 這是 $m _ { i }$ 的期望。
+
+当考虑传感器和执行器同时存在随机故障时，则状态反馈控制器可以描述为
+
+$$
+u ( k ) = H K ( \rho ) M x ( k )
+$$
+
+其中： $K ( \rho ) \in R ^ { m \times n }$ 是控制器的增益， $H \in R ^ { m }$ 是执行器故障矩阵， $\bar { \alpha }$ 和 $\alpha ^ { 2 }$ 已知，分别是 $H$ 的期望和方差， $M \in R ^ { n }$ 是传感器故障矩阵， $\hat { \beta }$ 和 $\beta ^ { 2 }$ 已知，分别是 $M$ 的期望和方差。
+
+为了讨论系统在控制器(9)作用下的网络化LPV闭环系统(1)的 $H _ { \infty }$ 控制问题，首先定义如下式子：
+
+$$
+y ( k ) = x ( k + 1 ) - x ( k )
+$$
+
+将式(9)(10)代入式(1)中，可以把网络化LPV闭环系统描述为
+
+$$
+\left\{ \begin{array} { l l } { y ( k ) = A _ { k } \left( \rho \right) x ( k ) + \tilde { A } _ { 1 } ( \rho ) x ( k - d ( k ) ) + R ( \rho ) \omega ( k ) } \\ { z ( k ) = C ( \rho ) x ( k ) + D ( \rho ) \omega ( k ) } \\ { x ( k ) = 0 , \forall k \leq 0 } \end{array} \right.
+$$
+
+其中： $A _ { k } ( \rho ) = A _ { 0 } ( \rho ) - I + B ( \rho ) H K ( \rho ) M + G$
+
+$$
+\tilde { A } ( \rho ) = A _ { 1 } ( \rho ) H K ( \rho ) M \circ
+$$
+
+本文的目的就是设计出针对执行器和传感器随机故障同时存在的状态反馈控制器(9)，使得网络化LPV系统(11)满足如下$H _ { \infty }$ 性能约束条件：
+
+a)在 $w ( k ) = 0$ 的条件下，如果对于每个初始状态 $( \tilde { x } _ { 0 } , \sigma _ { 0 } )$ ，满足 ${ \mathrm { E } } \biggl [ \sum _ { k = 0 } ^ { \infty } \left\| \tilde { { \boldsymbol { X } } } ( k ) \right\| ^ { 2 } \biggr ] < \infty$ ，即网络化 LPV 闭环系统(11)是渐进稳定的。
+
+b)给定标量 $\gamma > 0$ ，对所有的非零 $\omega ( k ) \in L _ { 2 } [ 0 , \infty )$ ，被控输出 $z ( k )$ 满足 ${ \begin{array} { r l } { { \sum _ { k = 0 } ^ { \infty } } \mathrm { E } { \left[ z ^ { \mathrm { T } } ( k ) z ( k ) \right] } { < } \gamma ^ { 2 } { \sum _ { k = 0 } ^ { \infty } } \mathrm { E } { \left[ \omega ^ { \mathrm { T } } ( k ) \omega ( k ) \right] } } \end{array} }$ ，即网络化 LPV 闭环系统式(11)具有 $H _ { \infty }$ 性能 $\gamma$ 。
+
+# 2 稳定性分析
+
+引理 $\mathbf { 1 } ^ { [ 2 2 ] }$ Schur 补。对给定的对称矩阵 $S = \left[ { \begin{array} { l l } { S _ { 1 1 } } & { S _ { 1 2 } } \\ { S _ { 2 1 } } & { S _ { 2 2 } } \end{array} } \right] ;$ 其中 $S _ { \scriptscriptstyle { 1 1 } }$ 是 $\boldsymbol { r } \times \boldsymbol { r }$ 维的。以下的三个条件是等价的：
+
+a) $S < 0$ ：$b ) S _ { _ { 1 1 } } < 0 , S _ { _ { 2 2 } } - S _ { _ { 1 2 } } ^ { _ T } S _ { _ { 1 1 } } ^ { - 1 } S _ { _ { 1 2 } } < 0 ;$ （204号（204号 $\mathrm { c } ) S _ { 2 2 } < 0 \ , S _ { 1 1 } - S _ { 1 2 } S _ { 2 2 } ^ { - 1 } S _ { 1 2 } ^ { T } < 0 \ ,$
+
+定理1给定正整数 $d _ { 2 }$ 以及一个标量 $\gamma > 0$ ,如果存在合适维数的实数矩阵 $P ( \rho ) = P ^ { T } \left( \rho \right) > 0 , Q ( \rho ) = Q ^ { T } \left( \rho \right) > 0$ ，Z(p)=Z(p)>0，半正定矩阵X= $X = { \left[ \begin{array} { l l } { X _ { 1 1 } } & { * } \\ { X _ { 2 1 } } & { X _ { 2 2 } } \end{array} \right] } \geq 0$ 和适当维数的矩阵 $N _ { 1 } \cdot \ N _ { 2 }$ ，使得
+
+$$
+\boldsymbol { \phi } = \left[ \begin{array} { l l } { \boldsymbol { \Upsilon } _ { 1 1 } } & { \boldsymbol { \Upsilon } _ { 2 1 } ^ { \textit { \texttt { T } } } } \\ { \boldsymbol { \Upsilon } _ { 2 1 } } & { \boldsymbol { \Upsilon } _ { 2 2 } } \end{array} \right] < 0
+$$
+
+$$
+\psi = \left[ \begin{array} { c c c } { X _ { _ { 1 1 } } } & { * } & { * } \\ { X _ { _ { 2 1 } } } & { X _ { _ { 2 2 } } } & { * } \\ { N _ { _ { 1 } } ^ { T } } & { N _ { _ { 2 } } ^ { T } } & { Z ( \rho ) } \end{array} \right] \geq 0
+$$
+
+成立，那么网络化LPV系统(11)是渐近稳定的，并且具有$H _ { \infty }$ 性能 $\gamma$ 。
+
+其中：
+
+$$
+\Upsilon _ { 1 1 } = \left[ \begin{array} { c c } { \varphi _ { 1 1 } } & { \ast } \\ { \varphi _ { 2 1 } } & { \varphi _ { 2 2 } } \end{array} \right] , \Upsilon _ { 2 2 } = \left[ \begin{array} { c c c c c } { - \gamma ^ { 2 } I } & { \ast } & { \ast } & { \ast } & { \ast } \\ { R ( \rho ) } & { - P ^ { - 1 } ( \rho ) } & { \ast } & { \ast } \\ { d _ { 2 } R ( \rho ) } & { 0 } & { - d _ { 2 } Z ^ { - 1 } ( \rho ) } & { \ast } \\ { D ( \rho ) } & { 0 } & { 0 } & { - I } \end{array} \right] ,
+$$
+
+$$
+\Upsilon _ { 2 1 } = \left[ \begin{array} { c c } { \left( P ( \rho ) R ( \rho ) \right) ^ { T } } & { 0 } \\ { \bar { A } _ { k } ( \rho ) } & { \bar { A } _ { 1 } ( \rho ) } \\ { d _ { 2 } \overline { { A } } _ { k } ( \rho ) } & { d _ { 2 } \overline { { A } } _ { 1 } ( \rho ) } \\ { C ( \rho ) } & { 0 } \end{array} \right] ,
+$$
+
+$$
+\varphi _ { 1 1 } = { \cal P } ( \rho ) \overline { { { A } } } _ { \kappa } ( \rho ) + \overline { { { A } } } _ { \kappa } ^ { r } ( \rho ) { \cal P } ( \rho ) + { \cal N } _ { 1 } ^ { r } + { \cal N } _ { 1 } + ( \tau + 1 ) { \cal Q } ( \rho ) + d _ { 2 } X _ { 1 1 } ,
+$$
+
+$$
+\varphi _ { 2 1 } = \overline { { { A } } } ^ { T } ( \rho ) P ( \rho ) { - } N _ { 1 } ^ { T } + N _ { 2 } + d _ { 2 } X _ { 2 1 } ,
+$$
+
+φ2=-N-N-Q(p)+dX2,/表示单位阵,表示零矩阵。
+
+证明因为
+
+$$
+y ( l ) = x ( l + 1 ) - x ( l )
+$$
+
+可以得到
+
+$$
+x ( k + 1 ) = x ( k ) + y ( k )
+$$
+
+并且可以得到
+
+$$
+x ( k ) - x ( k - d ( k ) ) - \sum _ { l = k - d ( k ) } ^ { k - 1 } y ( l ) = 0
+$$
+
+运用自由权矩阵的方法，取Lyapunov-Krasovskii 函数如下
+
+$$
+V ( k ) = V _ { 1 } ( k ) + V _ { 2 } ( k )
+$$
+
+其中：
+
+$$
+V _ { 1 } ( k ) = x ^ { T } ( k ) P ( \rho ) x ( k ) + \sum _ { \theta = - d _ { 2 } + 1 } ^ { 0 } \sum _ { j = k - 1 + \theta } ^ { k - 1 } y ^ { T } ( j ) Z ( \rho ) y ( j )
+$$
+
+$$
+V _ { 2 } \left( k \right) = \sum _ { j = - d _ { 2 } + 1 } ^ { - d _ { 1 } + 1 } \sum _ { l = k - 1 + j } ^ { k - 1 } X ^ { T } \left( l \right) Q ( \rho ) X ( l )
+$$
+
+$P ( \rho ) = P ^ { r } ( \rho ) > 0 , Q ( \rho ) = Q ^ { r } \left( \rho \right) > 0 , \bar { Z } \left( \rho \right) = \bar { Z } ^ { r } \left( \rho \right) > 0$ 是具有合适维数的正定矩阵。
+
+定义Lyapunov-Krasovskii函数的前向差分为$\Delta V ( k ) = V ( k + 1 ) - V ( k )$ ，则有
+
+$$
+\Delta V ( k ) = \Delta V _ { 1 } ( k ) + \Delta V _ { 2 } ( k )
+$$
+
+其中：
+
+$$
+\Delta V _ { 1 } ( k ) = \operatorname { E } \{  \sum _ { k = k - d _ { 2 } } ^ { 2 X ^ { T } ( k ) P ( \rho ) y ( k ) + y ^ { T } ( k ) ( P ( \rho ) + d _ { 2 } Z ( \rho ) ) y ( k ) - } \}
+$$
+
+$$
+\Delta V _ { 2 } ( k ) \leq
+$$
+
+$$
+{ \mathrm { E } } \big \{ ( \tau + 1 ) x ^ { T } ( k ) Q ( \rho ) x ( k ) - x ^ { T } ( k - d ( k ) ) Q ( \rho ) x ( k - d ( k ) ) \big \}
+$$
+
+$\operatorname { E } \{ \bullet \}$ 表示“ $\cdot$ "的期望。首先构造自由权矩阵,根据式(16),对任意具有合适维数的矩阵 $N _ { i } ( i = 1 , 2 )$ ,都有如下等式:
+
+$$
+2 \Bigl [ X ^ { T } \left( k \right) N _ { \mathrm { \scriptscriptstyle 1 } } + X ^ { T } \left( k - d \left( k \right) \right) N _ { \mathrm { \scriptscriptstyle 2 } } \Bigr ] \times
+$$
+
+$$
+\left[ x ( k ) - x ( k - d ( k ) ) - \sum _ { l = k - d ( k ) } ^ { k - 1 } y ( l ) \right] = 0
+$$
+
+然后，通过引入任意具有合适维数的半正定矩阵$X = { \left[ \begin{array} { l l } { X _ { 1 1 } } & { X _ { 2 1 } ^ { \textit { \texttt { T } } } } \\ { X _ { 2 1 } } & { X _ { 2 2 } } \end{array} \right] } \geq 0$ ，可以得到：
+
+$$
+\begin{array} { c } { { \displaystyle \displaystyle \sum _ { l = k - d _ { 2 } } ^ { k - 1 } \zeta _ { 1 } ^ { T } \left( k \right) X \zeta _ { 1 } ( k ) - \sum _ { l = k - d ( k ) } ^ { k - 1 } \zeta _ { 1 } ^ { T } \left( k \right) X \zeta _ { 1 } ( k ) = } }  \\ { { d _ { 2 } \zeta _ { 1 } ^ { T } \left( k \right) X \zeta _ { 1 } ( k ) - \sum _ { l = k - d ( k ) } ^ { k - 1 } \zeta _ { 1 } ^ { T } \left( k \right) X \zeta _ { 1 } ( k ) \geq 0 } } \end{array}
+$$
+
+其中， $\scriptstyle \zeta _ { 1 } ( k ) = \left[ x ^ { T } ( k ) \quad x ^ { T } \left( k - d ( k ) \right) \right] ^ { T } .$
+
+将式(19)(20)的左边部分加入到式(18)的右边，则可以得到
+
+如下的不等式：
+
+$$
+\begin{array} { c } { { \Delta V ( k ) \le \zeta _ { 2 } ^ { T } ( k ) \bigl \{ \Xi + \Gamma _ { 1 } ^ { T } ( P ( \rho ) + d _ { 2 } Z ( \rho ) ) \Gamma _ { 1 } \bigr \} \zeta _ { 2 } ( k ) - } } \\ { { \displaystyle \sum _ { l = k - d ( k ) } ^ { k - 1 } \zeta _ { 3 } ^ { T } ( k , l ) \varPsi \zeta _ { 3 } ( k , l ) + \gamma ^ { 2 } \omega ^ { T } ( k ) \omega ( k ) } } \end{array}
+$$
+
+其中：
+
+$$
+\begin{array} { r } { \begin{array} { r l l } { \zeta _ { 2 } ( k ) = \relax \left[ X ^ { T } ( k ) } & { X ^ { T } \left( k - d ( k ) \right) } & { \omega ^ { T } \left( k \right) \right] ^ { T } , } \end{array} } \end{array}
+$$
+
+$$
+\scriptstyle \zeta _ { 3 } ( k , l ) = \left[ x ^ { T } ( k ) \quad x ^ { T } \left( k - d ( k ) \right) \ y ^ { T } ( l ) \right] ^ { T }
+$$
+
+$$
+\boldsymbol { \Xi } = [ \begin{array} { c c c } { \boldsymbol { \varphi } _ { 1 1 } } & { \ast } & { \ast } \\ { \boldsymbol { \varphi } _ { 2 1 } } & { \boldsymbol { \varphi } _ { 2 2 } } & { \ast } \\ { ( P ( \boldsymbol { \rho } ) R ( \boldsymbol { \rho } ) ) ^ { T } } & { \boldsymbol { 0 } } & { - \gamma ^ { 2 } I ] , } \end{array} ] , \boldsymbol { r } _ { 1 } = [ \begin{array} { c c c } { \boldsymbol { \overline { { A } } } _ { k } ( \boldsymbol { \rho } ) } & { \boldsymbol { \overline { { A } } } ( \boldsymbol { \rho } ) } & { \boldsymbol { R } ( \boldsymbol { \rho } ) } \end{array} ]
+$$
+
+$$
+\overline { { A } } _ { \ k } \left( \rho \right) = A _ { 0 } \left( \rho \right) - I + B ( \rho ) \overline { { \alpha } } K ( \rho ) \overline { { \beta } } + G , \ \overline { { A } } \left( \rho \right) = A _ { 1 } ( \rho ) \overline { { \alpha } } K ( \rho ) \overline { { \beta } }
+$$
+
+首先证明网络化LPV 系统(11)是渐近稳定的。令 $w ( k ) = 0$ 如果矩阵不等式(12)成立，则矩阵不等式(22)成立：
+
+$$
+\left[ \begin{array} { c c c c } { { \varphi _ { 1 1 } } } & { { * } } & { { * } } & { { * } } \\ { { \varphi _ { 2 1 } } } & { { \varphi _ { 2 2 } } } & { { * } } & { { * } } \\ { { \bar { A } _ { k } \left( \rho \right) } } & { { \bar { A } _ { 1 } \left( \rho \right) } } & { { - P ^ { - 1 } ( \rho ) } } & { { * } } \\ { { d _ { 2 } \bar { A } _ { k } \left( \rho \right) } } & { { d _ { 2 } \bar { A } _ { 1 } \left( \rho \right) } } & { { 0 } } & { { - d _ { 2 } Z ^ { - 1 } ( \rho ) } } \end{array} \right] < 0
+$$
+
+如果 $\psi _ { \geq 0 }$ ，利用引理1，并且结合式(21)可以得到不等式$\Delta V ( k ) < 0$ 。于是由Lyapunov-krasovskii 稳定性理论，可以得到系统式(11)是渐近稳定的。
+
+接下来证明网络化LPV闭环系统式(11)不仅是渐进稳定的， 而且同时还要满足 $H _ { \infty }$ 性能约束 $\gamma$ 。对于任意非零 $\omega ( k )$ ，由式 (22)可得
+
+$$
+\begin{array} { r l } & { \qquad \Delta V ( k ) + \mathrm { E } \left\{ Z ^ { T } \left( k \right) z ( k ) \right\} - \mathrm { E } \left\{ \gamma ^ { 2 } \omega ^ { T } \left( k \right) \omega ( k ) \right\} \leq } \\ & { \qquad \zeta _ { 2 } ^ { T } \left( k \right) \left\{ \Xi + { \varGamma } _ { 1 } ^ { T } \left( P ( \rho ) + d _ { 2 } Z ( \rho ) \right) { \varGamma } _ { 1 } + { \varGamma } _ { 2 } ^ { T } { \varGamma } _ { 2 } \right\} \zeta _ { 2 } \left( k \right) - } \\ & { \qquad \displaystyle \sum _ { l = k - d _ { k } } ^ { k - 1 } \zeta _ { 3 } ^ { T } \left( k , l \right) { \varPsi } \zeta _ { 3 } ( k , l ) } \end{array}
+$$
+
+其中： ${ \cal { { T } } } _ { 2 } = [ C ( \rho ) 0 D ( \rho ) ] \ \mathrm { ~ c ~ }$ （2号
+
+当矩阵不等式(12)和(13)成立，利用引理1可以得到：
+
+$$
+\Delta V ( k ) + \mathrm { E } \left\{ Z ^ { T } ( k ) Z ( k ) \right\} - \mathrm { E } \left\{ \gamma ^ { 2 } \omega ^ { T } ( k ) \omega ( k ) \right\} < 0
+$$
+
+对 $k$ 从0到 $\infty$ 求和，可以得到：
+
+$$
+\sum _ { k = 0 } ^ { \infty } \operatorname { E } \left\{ z ^ { T } ( k ) z ( k ) - \gamma ^ { 2 } \omega ^ { T } ( k ) \omega ( k ) \right\} < \operatorname { E } \left\{ V ( 0 ) \right\} - \operatorname { E } \left\{ V ( \infty ) \right\}
+$$
+
+在零初始条件下，即 $V ( 0 ) = 0$ ，可以得到：
+
+$$
+\sum _ { k = 0 } ^ { \infty } \mathrm { E } \big \{ z ^ { T } ( k ) z ( k ) - \gamma ^ { 2 } \omega ^ { T } ( k ) \omega ( k ) \big \} < 0
+$$
+
+即 $\left\| Z \right\| _ { 2 } < \gamma \| \omega \| _ { 2 }$ ，说明网络化LPV 系统(11)不仅是渐进稳定的，而且对所有非零 $\omega ( k )$ 满足 $H _ { \infty }$ 性能约束 $\gamma$ 。证毕。
+
+# 3容错控制器参数求解
+
+定理2对于给定的正整数 $d _ { 2 }$ 以及一个标量 $\gamma > 0$ ，如果存在具有合适维数的实数矩阵 $ { \bar { P } } ( \rho ) > 0 \cdot  { \bar { Z } } ( \rho ) > 0$ 和 $\bar { Q } ( \rho ) > 0$ ，矩阵 $\bar { \kappa } ( \rho )$ 和对称矩阵 $\boldsymbol { \bar { X } } = \left[ \begin{array} { l l } { \boldsymbol { \bar { X } } _ { 1 1 } } & { \boldsymbol { \bar { X } } _ { 2 1 } ^ { \textit { \texttt { T } } } } \\ { \boldsymbol { \bar { X } } _ { 2 1 } } & { \boldsymbol { \bar { X } } _ { 2 2 } } \end{array} \right]$ 以及适当维数的矩阵$\bar { N } _ { \scriptscriptstyle 1 }$ 和 $\bar { N } _ { 2 }$ ，使得：
+
+$$
+\boldsymbol { \phi } _ { 1 } = \left[ \begin{array} { l l } { \boldsymbol { \Omega } _ { 1 1 } } &  \boldsymbol { \Omega } _ { 2 1 } ^ { \textit { \texttt { T } } } \right] < 0 \end{array}
+$$
+
+$$
+\psi _ { _ 1 } = \left[ \begin{array} { c c c } { { \bar { X } _ { _ { 1 1 } } } } & { { * } } & { { * } } \\ { { \bar { X } _ { _ { 2 1 } } } } & { { \bar { X } _ { _ { 2 2 } } } } & { { * } } \\ { { \bar { N } _ { _ { 1 } } ^ { T } } } & { { \bar { N } _ { _ { 2 } } ^ { T } } } & { { 2 \bar { P } - \bar { Z } } } \end{array} \right] \geq 0
+$$
+
+成立，则网络化LPV 系统(11)是渐近稳定的且具有 $H _ { \infty }$ 扰动抑制率γ，并且，容错控制器矩阵为K(p)=K(p)P(p)。其中：
+
+$$
+\Omega _ { 1 1 } = \left[ { \begin{array} { c c } { v _ { 1 1 } } & { * } \\ { v _ { 2 1 } } & { v _ { 2 2 } } \end{array} } \right] , \Omega _ { 2 2 } = \left[ { \begin{array} { c c c c c } { - \gamma ^ { 2 } I } & { * } & { * } & { * } \\ { R ( \rho ) } & { - { \bar { P } } ( \rho ) } & { * } & { * } \\ { d _ { 2 } R ( \rho ) } & { 0 } & { - d _ { 2 } { \bar { Z } } ( \rho ) } & { * } \\ { D ( \rho ) } & { 0 } & { 0 } & { - I } \end{array} } \right] ,
+$$
+
+$$
+\Omega _ { 2 1 } = \left[ \begin{array} { c c } { { R ^ { T } ( \rho ) } } & { { 0 } } \\ { { \bar { \pmb { A } } _ { k } ( \rho ) \bar { \pmb { P } } ( \rho ) } } & { { \bar { \pmb { A } } _ { 1 } ( \rho ) \bar { \pmb { P } } ( \rho ) } } \\ { { d _ { 2 } \bar { \pmb { A } } _ { k } ( \rho ) \bar { \pmb { P } } ( \rho ) } } & { { d _ { 2 } \bar { \pmb { A } } _ { 1 } ( \rho ) \bar { \pmb { P } } ( \rho ) } } \\ { { { \pmb { C } } \bar { \pmb { P } } ( \rho ) } } & { { 0 } } \end{array} \right]
+$$
+
+$$
+V _ { 1 1 } = \overline { { A } } _ { \boldsymbol k } ( \rho ) \overline { { P } } ( \rho ) + \overline { { P } } ( \rho ) \overline { { A } } _ { \boldsymbol k } ^ { T } ( \rho ) + \overline { { N } } _ { 1 } ^ { T } + \overline { { N } } _ { 1 } + ( \tau + 1 ) \overline { { Q } } ( \rho ) + d _ { 2 } \overline { { X } } _ { 1 1 } .
+$$
+
+$$
+V _ { \scriptscriptstyle { 2 1 } } = \bar { P } ( \rho ) \bar { A } ^ { T } ( \rho ) - \bar { N } _ { \scriptscriptstyle { 1 } } ^ { r } + \bar { N } _ { \scriptscriptstyle { 2 } } + d _ { \scriptscriptstyle { 2 } } \bar { X } _ { \scriptscriptstyle { 2 1 } } ,
+$$
+
+$$
+V _ { \scriptscriptstyle 2 2 } = - \bar { \cal N } _ { \scriptscriptstyle 2 } - \bar { \cal N } _ { \scriptscriptstyle 2 } ^ { \scriptscriptstyle T } - \bar { \cal Q } ( \rho ) + d _ { \scriptscriptstyle 2 } \bar { \cal X } _ { \scriptscriptstyle 2 2 } ,
+$$
+
+$$
+\overline { { A } } _ { k } ( \rho ) = A _ { 0 } ( \rho ) - I + B ( \rho ) \overline { { \alpha } } K ( \rho ) \overline { { \beta } } + G ,
+$$
+
+$$
+\bar { \pmb { A } } ( \rho ) = \pmb { A } ( \rho ) \bar { \alpha } \pmb { K } ( \rho ) \bar { \beta } \circ
+$$
+
+证明：定义如下式子：
+
+$$
+H _ { \mathrm { 1 } } { = } \mathrm { d i a g } \left\{ P ^ { \mathrm { - 1 } } , P ^ { \mathrm { - 1 } } , I , I , I , I \right\}
+$$
+
+$$
+H _ { 2 } { = } \mathrm { d i a g } \{ P ^ { - 1 } , P ^ { - 1 } , P ^ { - 1 } \}
+$$
+
+将不等式(12)分别左乘右乘矩阵 $H _ { \mathrm { 1 } }$ 的转置和它自身，将不等式(13)分别左乘右乘矩阵 $H _ { 2 }$ 的转置和它自身。可以得到如下两个不等式：
+
+$$
+H _ { 2 } ^ { T } \psi H _ { 2 } = \left[ P ^ { - 1 } ( \rho ) X _ { 1 1 } P ^ { - 1 } ( \rho ) \begin{array} { c c c c } { \psi ^ { - 1 } ( \rho ) } & { * } & { * } \\ { P ^ { - 1 } ( \rho ) X _ { 2 1 } P ^ { - 1 } ( \rho ) } & { P ^ { - 1 } ( \rho ) X _ { 2 2 } P ^ { - 1 } ( \rho ) } & { * } \\ { P ^ { - 1 } ( \rho ) N _ { 1 } ^ { T } P ^ { - 1 } ( \rho ) } & { P ^ { - 1 } ( \rho ) N _ { 2 } ^ { T } P ^ { - 1 } ( \rho ) } & { P ^ { - 1 } ( \rho ) Z ( \rho ) P ^ { - 1 } ( \rho ) } \end{array} \right] \geq 0
+$$
+
+其中：
+
+$$
+\begin{array} { r l } & { \theta _ { 1 1 } = \bar { A } _ { \ast } ( \rho ) P ^ { - 1 } ( \rho ) + P ^ { - 1 } ( \rho ) \bar { A } _ { \ast } ^ { r } ( \rho ) + P ^ { - 1 } ( \rho ) N _ { \ast } ^ { r } P ^ { - 1 } ( \rho ) + } \\ & { P ^ { - 1 } ( \rho ) N _ { 1 } P ^ { - 1 } ( \rho ) + ( \tau + 1 ) P ^ { - 1 } ( \rho ) Q ( \rho ) P ^ { - 1 } ( \rho ) + d _ { 2 } P ^ { - 1 } ( \rho ) X _ { 1 1 } P ^ { - 1 } ( \rho ) } \\ & { \theta _ { 2 1 } = P ^ { - 1 } ( \rho ) \bar { A } _ { \ast } ^ { r } ( \rho ) - P ^ { - 1 } ( \rho ) N _ { 1 } ^ { r } P ^ { - 1 } ( \rho ) + } \\ & { \qquad P ^ { - 1 } ( \rho ) N _ { 2 } P ^ { - 1 } ( \rho ) + d _ { 2 } P ^ { - 1 } ( \rho ) X _ { 2 1 } P ^ { - 1 } ( \rho ) } \\ & { \theta _ { 2 2 } = - P ^ { - 1 } ( \rho ) N _ { 2 } P ^ { - 1 } ( \rho ) - P ^ { - 1 } ( \rho ) N _ { 2 } ^ { r } P ^ { - 1 } ( \rho ) - } \\ & { P ^ { - 1 } ( \rho ) Q ( \rho ) P ^ { - 1 } ( \rho ) + d _ { 2 } P ^ { - 1 } ( \rho ) X _ { 2 2 } P ^ { - 1 } ( \rho ) } \end{array}
+$$
+
+$$
+\theta _ { 4 1 } = \overline { { A } } _ { k } ( \rho ) P ^ { - 1 } ( \rho ) , \theta _ { 4 2 } = \overline { { A } } _ { 1 } ( \rho ) P ^ { - 1 } ( \rho ) , \theta _ { 5 1 } = d _ { 2 } \overline { { A } } _ { k } ( \rho ) P ^ { - 1 } ( \rho ) ,
+$$
+
+$$
+\theta _ { 5 2 } = d _ { 2 } \overline { { { \cal A } } } ( \rho ) P ^ { - 1 } ( \rho ) , \theta _ { 6 1 } = { \cal C } ( \rho ) P ^ { - 1 } ( \rho ) ,
+$$
+
+由于不等式(32)中的项 $P ^ { - 1 } ( \rho ) \bar { Z } ( \rho ) P ^ { - 1 } ( \rho )$ 是非线性的，导致无法将不等式代入到LMI工具箱中求解，所以需要对它进行变换。因为 $Z ( \rho )$ 是正定的，所以有不等式$\big ( Z ^ { - 1 } ( \rho ) - P ^ { - 1 } ( \rho ) \big ) V \big ( Z ^ { - 1 } ( \rho ) - P ^ { - 1 } ( \rho ) \big ) \geq 0$ 成立，从而得到如下不等式成立：
+
+$$
+P ^ { - 1 } ( \rho ) \bar { Z } ^ { - 1 } ( \rho ) P ^ { - 1 } ( \rho ) \ge 2 P ^ { - 1 } ( \rho ) - \bar { Z } ^ { - 1 } ( \rho )
+$$
+
+接下来令
+
+$$
+\bar { P } ( \rho ) = P ^ { - 1 } ( \rho ) , \bar { \bar { Z } } ( \rho ) = \bar { Z } ^ { - 1 } ( \rho ) , \bar { \bar { Q } } ( \rho ) = P ^ { - 1 } ( \rho ) Q ( \rho ) P ^ { - 1 } ( \rho ) ,
+$$
+
+$$
+\bar { N } _ { 1 } = P ^ { - 1 } ( \rho ) N _ { 1 } P ^ { - 1 } ( \rho ) \cdot \bar { N } _ { 2 } = P ^ { - 1 } ( \rho ) N _ { 2 } P ^ { - 1 } ( \rho ) ,
+$$
+
+$$
+\bar { X } _ { { \scriptscriptstyle 1 1 } } = P ^ { - 1 } ( \rho ) X _ { { \scriptscriptstyle 1 1 } } P ^ { - 1 } ( \rho ) ,
+$$
+
+$$
+\begin{array} { r } { \bar { X } _ { 1 2 } = P ^ { - 1 } ( \rho ) X _ { 1 2 } P ^ { - 1 } ( \rho ) , \bar { X } _ { 2 2 } = P ^ { - 1 } ( \rho ) X _ { 2 2 } P ^ { - 1 } ( \rho ) , } \end{array}
+$$
+
+$$
+\bar { K } ( \rho ) = K ( \rho ) P ^ { \scriptscriptstyle - 1 } ( \rho ) \circ
+$$
+
+将上述所有式子代入不等式(31)和(32)中，便可以得到不等式(27)和(28)。所以系统(11)不仅是渐进稳定的，而且对所有非零 $\omega _ { \boldsymbol { k } }$ 满足 $H _ { \infty }$ 性能约束 $\gamma$ 。此外，可以得到控制器的增益为$K ( \rho ) = \bar { K } ( \rho ) P ( \rho )$ 。证毕。
+
+注1由于参数在变化，不等式(27)和(28)其实是一个无限维的线性矩阵不等式组，通过利用近似基函数和网格化技术可以将其转换为有限维的线性矩阵不等式组求解问题。选取近似
+
+基函数 $\sum _ { j = 1 } ^ { n _ { f } } f _ { j } ( \rho )$ ，可得
+
+$$
+\begin{array} { l } { { P ( \rho ) = \displaystyle \sum _ { j = 1 } ^ { n _ { f } } f _ { j } ( \rho ) P _ { j } , ~ Q ( \rho ) = \sum _ { j = 1 } ^ { n _ { f } } f _ { j } ( \rho ) Q _ { j } } } \\ { { \displaystyle Z ( \rho ) = \sum _ { j = 1 } ^ { n _ { f } } f _ { j } ( \rho ) Z _ { j } } } \end{array}
+$$
+
+这样，就可以用式(27)(28)和(34)求解控制器。
+
+# 4 数值仿真
+
+本文给出一组数值仿真来验证所提方法的有效性，数据来源于风力发电机模型，其参数矩阵为
+
+$$
+A _ { 0 } = \left[ \begin{array} { c c c } { 1 . 0 5 + 0 . 2 \sin { \left( k \right) } ^ { 2 } } & { 0 } & { 0 . 1 1 } \\ { 0 . 5 7 + 0 . 3 \sin { \left( k \right) } ^ { 2 } } & { 0 . 7 6 } & { 0 } \\ { 0 } & { 0 } & { 0 . 5 1 } \end{array} \right] ,
+$$
+
+$$
+A _ { 1 } = \left[ { \begin{array} { c c c } { 0 . 2 1 } & { - 0 . 1 2 } & { 0 . 0 9 } \\ { 0 } & { 0 . 4 6 } & { 0 . 7 6 } \\ { 0 . 5 7 } & { 0 } & { - 0 . 4 8 } \end{array} } \right] ,
+$$
+
+$$
+B = \left[ \begin{array} { c c c } { 0 . 4 1 + 0 . 4 \sin ( k ) ^ { 2 } } & { 0 . 2 8 } & { 0 } \\ { 0 . 6 3 } & { 0 . 3 2 } & { 0 } \\ { 0 . 1 0 } & { - 0 . 5 1 } & { 0 . 1 2 } \end{array} \right] , R = \left[ \begin{array} { c } { 0 . 3 } \\ { 0 . 5 } \\ { 0 . 1 } \end{array} \right] ,
+$$
+
+$$
+C = [ 0 . 1 \quad 0 . 1 \quad 0 . 1 ] , D = 0 . 6 , d _ { 1 } = 1 \circ
+$$
+
+选取随机非线性项 $\boldsymbol { G }$ 和 $F ( k )$ 为
+
+$$
+G = \left[ \begin{array} { c } { { 0 . 3 \sin ( 0 . 1 k ) } } \\ { { 0 . 3 \cos ( 0 . 1 k ) } } \\ { { 0 . 3 ( \sin ( 0 . 1 k ) - \cos ( 0 . 1 k ) ) } } \end{array} \right] / k \ ,
+$$
+
+$$
+\begin{array} { r } { F ( k ) = \left[ \begin{array} { c c c } { \sin ( 0 . 1 k ) } & { 0 } & { 0 } \\ { 0 } & { \cos ( 0 . 1 k ) } & { 0 } \\ { 0 } & { 0 } & { - \cos ( 0 . 1 k ) } \end{array} \right] } \end{array}
+$$
+
+假设外部扰动信号为 $\omega ( k ) = e ^ { - 0 . 1 \mathrm { k s i n } ( \pi \mathrm { k } ) }$ 。
+
+其中： $\rho ( k ) = \sin ( k ) ^ { 2 }$ 为时变参数，本例的目的是设计一组控制器，使得LPV系统不仅是均方指数稳定的，而且对所有非零$\omega ( k )$ 满足 $H _ { \infty }$ 性能约束 $\gamma$ 。根据文献[22]选取如下的基函数：
+
+$$
+f _ { 1 } ( \rho ) { = } 1 , f _ { 2 } ( \rho ) { = } { \sin ( k ) } ^ { 2 }
+$$
+
+于是可以得到
+
+$$
+P ( \rho ) = P _ { 1 } + \sin ( k ) ^ { 2 } P _ { 2 } , Q ( \rho ) = Q _ { 1 } + \sin ( k ) ^ { 2 } Q _ { 2 } ,
+$$
+
+$$
+\begin{array} { r } { Z ( \rho ) = Z _ { 1 } + \sin ( k ) ^ { 2 } Z _ { 2 } } \end{array}
+$$
+
+用网格化技术将 $\rho ( k )$ 的参数空间划分为十个，并且应用Matlab LMI工具箱为系统(1)设计控制器，使得 $H _ { \infty }$ 性能指标γ最小化。在这个例子中，根据定理2，针对两种情形下执行器和传感器随机故障的期望和方差设计了相应的控制器。并且通过修改两种情况下的时延上界 $d _ { 2 }$ ，找出了两种情形下系统所能达到的最大时延。两种随机故障在不同 $d _ { 2 }$ 下的状态响应仿真结果如图 $2 \sim$ 图4所示，验证了网络化LPV闭环系统(11)是渐进稳定的。
+
+通过求解定理2中的不等式(27)和(28)可以得到 $H _ { \infty }$ 容错控制器增益矩阵 $\boldsymbol { \kappa }$ 和 $H _ { \infty }$ 最小扰动抑制率 $\gamma$ 。假设系统初始状态为 $\pmb { X } ( 0 ) = \left[ 0 . 2 \quad 0 . 3 \quad 0 \right] ^ { T }$ ，执行器故障参数为$\overline { { \alpha } } = \mathrm { d i a g } \{ 0 . 9 , 0 . 8 , 0 . 7 \} $ ，传感器故障参数 $\overline { { \beta } } = \mathrm { d i a g } \{ 0 . 8 , 0 . 8 , 0 . 8 \} ~ \mathrm { ~ c ~ }$
+
+网络化LPV控制系统的开环状态响应如图2所示，可以从图中看出开环的网络化LPV系统(1)在发生执行器和传感器故障时是不稳定的。
+
+![](images/6bad65cecab05ae6e9785dc6d1c4db6d63035fd8b2655920922a8645a4f8281e.jpg)  
+图2开环系统的状态响应
+
+下面针对系统执行器和传感器发生随机故障的情况分别设计 $H _ { \infty }$ 容错控制器，并给出相应的闭环系统状态响应图。
+
+情形1可以给出执行器随机故障的期望为$\overline { { \alpha } } = \mathrm { d i a g } \{ 0 . 9 0 , 0 . 9 0 , 0 . 9 0 \}$ ，均方差为 $\alpha ^ { 2 } = \mathrm { d i a g } \{ 0 . 3 , 0 . 2 , 0 . 1 \}$ ，给出传感器随机故障的期望为 $\overline { { \beta } } = \mathrm { d i a g } \{ 0 . 9 0 , 0 . 9 0 , 0 . 9 0 \}$ ，均方差β²=diag{0.2,0.2,0.1}，时延上界最大为d=3。利用MATLAB中的 LMI工具箱可以求得优化后的 $\kappa$ 和γ， $d _ { 2 } = 2$ 时分别为
+
+$$
+K = \left[ \begin{array} { c c c } { { - 1 . 3 1 9 + 0 . 1 3 3 \rho } } & { { 0 . 0 6 1 + 0 . 0 1 5 \rho } } & { { - 0 . 4 6 5 - 0 . 1 5 6 \rho } } \\ { { - 0 . 0 5 7 - 0 . 0 3 1 \rho } } & { { - 0 . 9 1 4 - 0 . 4 1 9 \rho } } & { { 0 . 3 4 6 + 0 . 0 4 7 \rho } } \\ { { - 0 . 3 7 2 - 0 . 0 9 3 \rho } } & { { - 0 . 4 6 1 - 0 . 2 1 6 \rho } } & { { - 0 . 6 3 2 - 0 . 0 8 0 \rho } } \end{array} \right] ,
+$$
+
+$$
+\gamma = 0 . 6 3 1 2
+$$
+
+$d _ { 2 } = 3$ 时分别为
+
+$$
+K = \left[ \begin{array} { c c c } { - 1 . 4 5 7 - 0 . 1 3 7 \rho } & { 0 . 0 7 2 + 0 . 0 1 7 \rho } & { - 0 . 5 2 9 - 0 . 1 0 9 \rho } \\ { - 0 . 0 4 9 - 0 . 0 1 1 \rho } & { - 0 . 1 7 4 - 0 . 0 3 0 \rho } & { 0 . 1 8 1 + 0 . 0 4 1 \rho } \\ { - 0 . 4 1 8 - 0 . 0 6 1 \rho } & { - 0 . 1 4 2 - 0 . 0 2 2 \rho } & { - 0 . 6 4 7 - 0 . 0 9 8 \rho } \end{array} \right] ,
+$$
+
+$$
+\gamma = 0 . 7 1 3 3
+$$
+
+代入上述 $H _ { \infty }$ 容错控制器增益 $\kappa$ 后，不同时延上界得到相应的LPV闭环系统状态响应曲线如图3和图4所示。
+
+情形2 可以给出执行器随机故障的期望为$\overline { { \alpha } } = \mathrm { d i a g } \{ 0 . 8 0 , 0 . 8 0 , 0 . 8 0 \}$ ，均方差为 $\alpha ^ { 2 } = \mathrm { d i a g } \{ 0 . 3 , 0 . 2 , 0 . 2 \}$ ，给出传感器随机故障的期望为 $\overline { { \beta } } = \mathrm { d i a g } \{ 0 . 8 0 , 0 . 8 0 , 0 . 8 0 \}$ ，均方差β²=diag{0.2,0.2,0.1}，时延上界最大为d=2。利用MATLAB中的LMI工具箱可以求得优化后的 $K$ 和 $\gamma$ 分别为
+
+$$
+K = \left[ \begin{array} { c c c } { - 1 . 4 3 2 - 0 . 1 4 9 \rho } & { 0 . 0 8 0 + 0 . 0 1 2 \rho } & { - 0 . 5 0 7 - 0 . 0 5 2 \rho } \\ { - 0 . 0 3 6 - 0 . 0 0 2 \rho } & { - 0 . 1 2 5 - 0 . 0 2 4 \rho } & { 0 . 1 8 2 + 0 . 0 3 2 \rho } \\ { - 0 . 4 5 5 - 0 . 0 4 8 \rho } & { - 0 . 1 5 7 - 0 . 0 3 0 \rho } & { - 0 . 6 5 7 - 0 . 0 6 3 \rho } \end{array} \right] ,
+$$
+
+$$
+\gamma = 0 . 8 0 1 1
+$$
+
+代入 $H _ { \infty }$ 容错控制器增益 $\boldsymbol { \kappa }$ 后，相应的LPV 闭环系统状态响应曲线如图5所示。
+
+情形1和情形2 中当 $\overline { { h } } _ { i } = 0$ 时，表示执行器完全失效。通过比较图3到图5发现，当执行器和传感器的随机故障概率增大，时延上界增大时，在闭环控制作用下，系统超调变大，调节时间变长， $H _ { \infty }$ 性能指标 $\gamma$ 变大，控制效果变差。但是，当时延上界不超过3个采样周期时，所设计的 $H _ { \infty }$ 容错控制器的性能指标γ并没有明显的变差，都能够使得系统保持稳定，并具有较好的 $H _ { \infty }$ 性能。
+
+![](images/f082a527865ab74f1b3c10ecc6b735bf12fb1dac664ccf3037bce2cd7f247e6d.jpg)  
+图3情形1下 $d _ { 2 } = 2$ 时的闭环系统的状态响应
+
+![](images/a098950ec8435ace9d0465a4db6cb9d4fac8612d4aa07788ae08045d46441eaf.jpg)  
+图4情形1下 $d _ { 2 } = 3$ 时的闭环系统的状态响应
+
+![](images/e0398df28526e5c99ce6b8ae1d9fe87a3ee975118cb65e34b251a19aae063585.jpg)  
+图5情形2下 $d _ { 2 } = 2$ 时的闭环系统的状态响应
+
+文献[23]只研究了执行器发生随机故障的情况，虽然仿真实例表明方法的有效性，但是当传感器发生随机故障时，在设计的控制器作用下，系统超调时间变长，甚至会发生不稳定的情况。而本文设计的控制器综合考虑了执行器和传感器的随机故障，当系统中两类故障同时存在时，在控制器的作用下，系统依然保持稳定，验证了本文设计方法的有效性。
+
+# 5 结束语
+
+本文研究了具有时变时延的网络化LPV系统，同时考虑到Lipschitz非线性项和外部干扰的影响，通过构造合适的Lyapunov函数，给出了执行器和传感器同时出现随机故障时网络化LPV系统渐进稳定的充分条件，设计出了满足相应性能指标的容错控制器。最后，仿真实例中设计的控制器均保证了系统的稳定性和良好的性能指标，验证了所提方法的有效性。
+
+# 参考文献：
+
+[1]Wang Shenquan,Feng Jian,Zhang Huaguang.Robust fault tolerant control fora class of networked control systems with state delay and stochastic actuator failures [J]. International Journal of Adaptive Control and Signal Processing,2014,28 (9): 798-811.   
+[2]Liu Bin,Qiu Bobo,Cui Yangyang,et al.Fault-tolerant $\mathrm { H } \infty$ control for networked control systems with randomly occurring missing measurements [J].Neurocomputing,2016,175 (A): 459-465.   
+[3]Gao Zhiwei,Ding S X.Actuator fault robust estimation and fault-tolerant control for a class of nonlinear descriptor systems [J].Automatica,2007,43 (5): 912-920.   
+[4]Su Lei, Shen Hao.Fault-tolerant dissipative synchronization for chaotic systems based on fuzzy mixed delayed feedback [J].Neurocomputing,2015, 151: 1407-1413.   
+[5]Rotondo D,NejariF,Puig V.Avirtual actuator and sensor approach for fault tolerant control ofLPV systems [J].Journal ofProcess Control,2014,24(3): 203-222.   
+[6]Rodrigues M,Hamdi H,Braiek B H,et al.Observer-based fault tolerant control design for a class of LPV descriptor systems [J].Journal of the Franklin Institute,2014,351(6): 3104-3125.   
+[7]Rodrigues M, Theilliol D,Aberkane S,et al.Fault Tolerant Control Design
+
+For Polytopic LPV Systems [J].International Journal of Applied
+
+Mathematics & Computer Science,2007,17(1): 27-37.   
+[8]Rabaoui B,Rodrigues M,Hamdi H,et al.Amodel reference tracking based onanactive fault tolerant control for LPV systems [J].International Journal of Adaptive Control & Signal Processing, 2018 (2).   
+[9]Tian Engang,Peng Chen,Gu Zhou.Fault tolerant control for discrete networked control systems with random faults [J]. International Journal of Control Automation and Systems,2012,10 (2): 444-448.   
+[10] Damiano R,Fatiha N, Vicenc P.Robust state-feedback controlofuncertain LPV system: An LMI-based approach [J]. Journal of the Franklin Institute. 2014,351: 2781-2803.   
+[11] Song Ziyou, Li Jianqiu,Ouyang Minggao,et al. Rule-based fault diagnosis of hall sensors and fault-tolerant control of PMSM[J]. Chinese Journal of Mechanical Engineering,2013,26 (4):13-82.   
+[12] Lee S M,Park JH.Robust Ho performance analysis and synthesis of discrete-time LPV systems [J].Journal of Applied Mathematics and Computing. 2008,26 (1-2): 419-432.   
+[13]陈华民.LPV 系统的主动容错控制[D].上海：上海交通大学,2015. (Chen Huaming.Active fault tolerant control ofLPV systems [D]. Shanghai: Shanghai Jiao Tong University,2015.)   
+[14]韩磊．长时延网络控制系统容错控制研究[D].徐州：中国矿业大学, 2014.(Han Lei.Studyon fault-tolerant trategy for long-time-delaynetwork control systems [D]. Xuzhou: China Universityof Mining and Technology 2015.)   
+[15]Li Hongjie.Cluster synchronization stability for stochastic complex dynamical networks with probabilistic interval time-varying delays [J]. JournalofPhysicsAMathematical and Theoretical,2011,44 (10): 531-542   
+[16]吴定会，李意扬，纪志成．风能转换系统的LPV 主动容错控制[J]，控 制工程,2014,21(5): 712-717.(Wu Dinghui,LiYiyang,Ji Zhicheng.Active fault tolerant LPV control of wind energy conversion system [J],Control Engineering of China,2014,21 (5): 712-717.)   
+[17]张晓林．风能转换系统 LPV 容错控制方法研究[D]．无锡：江南大学， 2017.(Zhang Xiaolin. Research on fault-tolerant LPV control method of of wind energy conversion system [D].Wuxi: Jiangnan University,2017.)   
+[18]Li Hongjie.Cluster synchronizationstability for stochastic complex dynamical networkswith probabilistic interval time-varying delays [J]. Journal ofPhysics:A Mathematical and Theoretical,2011,44(10): 531-542.   
+[19] Pan Peng,Jiang Shun，Pan Feng.Event-triggered robust control for networked control systemswith actuator failures and time-varying transmission delay [J]. International Journal of Intelligent Computing and Cybernetics,2015,8 (2): 172-186.   
+[20]吴敏，何勇．时滞系统的鲁棒控制一自由权矩阵方法[M].北京：科学 出版社,2008.73-84.(Wu Min,He Yong.Robust control of time-delay systems- Free weight matrix method [M]. Beijing: Science Press,2008. 73-84.)   
+[21]王俊玲，王常虹，高会军．时滞 LPV 系统的 H控制新方法[J].控制
+
+理论与应用.2005,22(1):144-148.(Wang Junling,Wang Changhong,Gao Huijun.Advanced H-infinity control approach for time-delayed LPV systems [J].Control Theory and Applications.2005,22(1):144-148.)
+
+[22]李炜，曹慧超.具有时延和丢包的NCSH 保性能容错控制[J].计算机应用研究，2011,28(6):2271-2276.(Li Wei,Cao Huichao.Hoguaranteed cost fault-tolerant control for NCS with delay and date packetdropouts [J].Application Research of Computers,2011,28(6): 2271-2276.)
+
+[23] Zhi Yueming,Jiang Shun,Pan Feng.Non-fragile robust $\mathrm { H } { \infty }$ control of nonlinear networked control systems with time-varying delay and unknown actuator failures [J]. International Journal of Innovative Computing, Information and Control,2017,13(1): 277-288.

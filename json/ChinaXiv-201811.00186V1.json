@@ -1,0 +1,431 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于MapReduce并行化计算的大数据聚类算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张文杰1,2，蒋烈辉1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．解放军信息工程大学 网络空间安全学院，郑州 450001;2.数字工程与先进计算国家重点实验室，郑州 450001）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：面对大数据规模庞大且计算复杂等问题，基于MapReduce 框架采用两阶段渐进式的聚类思想，提出了改进的K-means 并行化计算的大数据聚类方法。第一阶段，该算法通过Canopy算法初始化划分聚类中心，从而迅速获取粗精度的聚类中心点；第二阶段，基于MapReduce框架提出了并行化计算方案，使每个数据点围绕其邻近的Canopy中心进行细化的聚类或合并，从而对大数据实现快速、准确地聚类分析。在 MapReduce并行框架上进行算法验证，实验结果表明，所提算法能够有效地提升并行计算效率，减少计算时间，并提升大数据的聚类精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大数据；MapReduce；并行计算；数据聚类中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.05.0496",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parallel computation algorithm for big data clustering based on MapReduce ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Wenjie1,2, Jiang Liehui1, 2 (1.FacultyofCyberspaceSecurityLAInformationEngineeing UniversityZhengzhou450l,China;2.StateKeybath Engn & Adv Comp, Zhengzhou 450001, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimingat solving the problem ofbigdata's large scaleand complexcomputation,this paperadoptthe idea of twostage progresiveclustering,andproposesaparallelcomputationalgorithmforbigdataclustering basedon MapReduce.Inthe first stage,our methodacquirestheinitialized clusteringcenterthrough Canopyalgorithm,inordertofindrelativelyaccurate cluster center points quickly.In the second stage,，we present a novel scheme of paralel computation based on MapReduce framework,which makes eachdatanodeclusterormerge around itsadjacentCanopycenter node.Inthis way,thealgorithm can makethe procedureofdataclustering fastand accurately.Theresultsof the experiments deployedonMapReduce showthat our algorithmcan efectively improve the eficiencyof parallel computing,reducecomputing time,and improve big data's clustering accuracy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: big data; MapReduce; parallel computation; data clustering ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网通信、数据存储、信息处理等技术的快速发展，各行各业都需要存储、分析和处理爆炸性增长的业务数据。网络大数据的分析与处理，已经发展成为当前非常重要的研究领域。大数据体量庞大且计算复杂等问题，严重限制了信息产业的技术应用于发展[1,2]。在大数据背景下如何实现快速高效的数据聚类，已经成为大数据挖掘与分析亟需解决的重要问题[3,4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "聚类分析是大数据分析领域一个重要的研究方向，K-means 算法是其中应用较为广泛的经典算法之一。该算法具有应用简便、聚类速度快等特点[5]，但需要预设置K值（聚类中心数量)，随机选择聚类中心点可能导致聚类结果为局部最优。在大数据条件下，K-means 算法的这些问题进一步凸显，影响大数据聚类的精度和效率。针对这些问题，近年来有相关的研究工作开始展开。文献[6]提出了一种基于Hadoop 平台的 K-means并行计算的聚类方法，该算法通过引导大数据集聚类中心的初始划分，减小随机选择聚类中心的不确定性，并基于Hadoop平台提出了并行化计算方法，以改善大数据聚类的效率和准确性。文献[7]提出一种并行化的PAM聚类算法，该算法结合蚁群算法以提升聚类迭代过程中的搜索性能，从而提升PAM聚类算法的收敛速度，并改善算法的大数据聚类性能。文献[8]在MapReduce 框架上，提出一种基于样本预处理策略的K-means并行算法。该算法结合K选择排序算法进行并行采样，以提高采样效率，提升聚类算法的运行效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对K-means 聚类算法在大数据环境下效率不高等问题，本文基于MapReduce 框架，提出了改进的K-means并行化计算的大数据聚类方法。区别于传统的聚类算法，该算法采用了两阶段渐进式的聚类思想。在第一阶段，通过Canopy 算法初始化划分聚类中心，从而迅速获取粗精度的聚类中心点；在第二阶段，基于MapReduce 框架给出了并行化设计方案，使外围数据点围绕其邻近的Canopy中心完成进一步地细化聚类或合并，将每个数据点划分至距离最近的聚类中心，并重新计算每个聚类中心新的中心点，从而对大数据实现快速、准确地聚类分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引入Canopy 算法，每次只比较落在同一区域内对象与中心点之间的距离，通过减少比较次数大大降低整个聚类的运行时间，从而提高算法的计算效率，优化大数据的聚类过程。更重要的是，本文算法通过引入“最小最大原则”，避免了人工设置区域半径T1、T2 带来的干扰，使得任意两个Canopy中心点之间的距离尽可能远，从而避免聚类过程陷入局部最优。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究背景概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2004年，Google公司推出了MapReduce 编程模型以批量处理大数据集，并基于此开发出了Hadoop大数据批量处理架构。Hadoop是一个开源的高效云计算基础架构平台，利用通用的硬件就可以构建一个强大、稳定、简单，并且高效的分布式集群计算系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MapReduce提供了一种新的对海量数据的处理方式，通过抽象出分层次的编程模型，从而大大简化将大数据分片成子任务，并同时在集群计算机上运行的过程[9,10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MapReduce 框架一般将大数据并行计算划分为 Map、Combine、Reduce三个步骤。在Map 阶段，Map函数将输入数据转换为<key,value>序列；在Combine 阶段，Combine 函数对Map 函数的输出结果在本地进行合并和处理，以减小大数据聚类过程中的I/O负担；在Reduce 阶段，Reduce 函数将获得的<key，value>序列按照算法设定的规则进行聚类处理。MapReduce并行计算的框架如图1所示。通过利用MapReduce框架和接口，能够简化并行化开发过程，便于有效地组织和应用分布式资源，高效便捷地进行大数据分析和计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9357d16f7df38acccf656577e9c56625d18dd73d259e222774dde9a39d18cf53.jpg",
+        "img_caption": [
+            "图1基于MapReduce 的K-means 并行算法框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac5c205ac298b3807b460386b0d90dd8963f21bb78ad8ab644765577eea9f776.jpg",
+        "img_caption": [
+            "Fig.1K-means parallel algorithm framework based on MapReduce ",
+            "图2基于MapReduce 的并行化聚类算法流程",
+            "Fig.2Parallel clustering algorithm flow based on MapReduce "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于MapReduce 的并行化聚类算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于MapReduce的并行化聚类算法流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K-means 算法一般需要随机设置初始化的聚类中心点，使得聚类结果易受中心点选取的影响，造成聚类结果往往出现局部最优，甚至不稳定[I]。针对这些问题，本文提出一种两阶段渐进式的聚类算法。该算法在第一阶段采用Canopy 算法获取初始化的聚类中心，从而迅速获取粗精度的聚类中心点；第二阶段基于MapReduce框架采用并行化计算的改进设计，迭代计算外围数据点与其邻近聚类中心的距离，将每个数据点划分至距离最近的聚类中心，并重新计算每个聚类中心新的中心点。改进后的K-means算法通过两阶段渐进式的聚类，通过局部聚类中心和中心点的调整，实现对大数据快速、准确地聚类分析，从而大大减少计算量和复杂度，同时避免了聚类结果陷入局部最优效果的问题，有效提升了算法的整体聚类精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 初始化聚类中心",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Canopy算法计算速度快，但聚类精度较粗，适合用于获取大数据的初始化聚类中心 $\\cdot ^ { [ 1 2 , 1 3 ] }$ 。该算法需要设置两个距离阈值$T _ { 1 }$ 、 $T _ { _ 2 }$ （ $T _ { 1 } < T _ { 2 }$ ），初始化聚类中心的具体流程（图3）如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)将大数据集中的数据点存储为List集合；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)从List中随机删除一个点 $P$ ，这个点构成一个新的聚类中心 $C l u _ { p }$ ；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)搜索List中剩下的数据点，若某数据点 $\\boldsymbol { Q }$ 与点 $P$ 的间距小于 $T _ { \\scriptscriptstyle 2 }$ ，则将点 $\\boldsymbol { \\mathcal { Q } }$ 并入到聚类中心 $C l u _ { p }$ 中；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)遍历聚类中心 $C l u _ { p }$ 中所有的数据点，若数据点 $i$ 与点 $P$ 的间距小于 $T _ { 1 }$ ，则将点 $i$ 从List集合中删除；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)重复执行步骤b) ${ \\boldsymbol { \\sim } } \\mathbf { d } _ { , }$ ，将集合List中所有数据点都划分到对应的聚类中心;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)停止迭代，获取大数据集的初始化聚类中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Canopy初始中心点的个数决定了聚类类别数 $K$ ，该值一般由经验或者多次实验设定。为解决Canopy区域半径T1、T2以及初始中心点的随机选取问题，本文引入“最小最大原则\"对该算法进行改进，提出Canopy中心点的优化选取与设置方法。该方法的基本思路是：将数据集合划分为若干个Canopy，任意两个Canopy中心点之间的距离代表聚类类别间距。为了避免聚类过程陷入局部最优，初始的Canopy中心点间距应尽可能远。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Canopy算法能够以较小的代价，粗略地将大数据集划分成若干个重叠子集，每个子集可视为一个聚类中心。通过Canopy算法对数据点进行粗略划分，然后在此基础上进行进一步的聚类。而且通过聚类中心划分，每个数据点已经明确其隶属关系，从而无须计算每个点与每个中心点的距离，而只需计算该点和其所在中心点的距离，并将其归属到距离最近的聚类中心即可，从而大大减少了计算量和复杂度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据分片1 数据分片N√ ↓  \n从List中随机选择数据 从List中随机选择数据点作为Canopy的中 点作为Canopy的中心，并删除该点 心，并删除该点↓ ↓计算该点到其他 计算该点到其他数据点的距离S 数据点的距离S↓ ↓S<T1 S<T1√是 √是将数据点加入该中心 将数据点加入该中心簇，并从List删除 簇，并从List删除1  \n否 否List是否为空 List是否为空√是 是  \n得到各个Canopy簇并计 得到各个Canopy簇并计算局部中心点 算局部中心点大数据中所有的局部中心点",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "心点的距离，并将该点划分到距其最近的聚类中心。重新划分数据点后，各个聚类中心之间不会有重叠的数据点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)更新K-means中心点。获取重新划分的聚类中心后，采用K-means求平均的方法，计算并获取各个聚类中心的新中心点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)合并K-means 中心。比较各中心点之间的距离，获取距离较近的中心点及对应的聚类中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)合并聚类中心。合并聚类较近的聚类中心，并计算更新合并后的聚类中心点。采用Canopy算法思想，重复步骤a)获取新的重叠聚类中心。重复步骤b)\\~d)，对各聚类中心数据点进行聚类迭代，直至算法收敛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)形成聚类结果。在算法收敛后，将大数据集中各个数据点划分到K个聚类中心，形成K个不重叠的聚类子集，完成大数据聚类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "聚类过程中不仅要对数据点进行吸纳划分，对数据点所归属的聚类中心也要进行相应合并。合并后缠身新的聚类中心，需要重新计算聚类中心的中心点，并计算各数据点至该中心点的距离，从而反复聚类迭代，最终实现对整个大数据集的有效聚类划分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于 MapReduce 改进的聚类算法的并行化设计 （图 4)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了提升对大数据的处理能力，进一步提高聚类效率和可扩展性，基于MapReduce 框架分别在Map、Combine、Reduce这三个阶段实现本文算法，并行化聚类大规模数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选择Hadoop平台中的MapReduce 框架完成并行化计算对的聚类过程。首先，基于初始化策略，从存储在HDFS的输入数据集中选取K个数据点作为初始聚类中心点；然后，执行 K-means 改进算法的并行化计算，将计算任务分解为 Map、Combine和Reduce函数，并在并行化迭代计算过程中完成大数据聚类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）Map 阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在该阶段中，Map任务接收序列文件中的每一行作为不同的键值对 $<$ key,value>，并形成Map 函数的输入。首先，Map函数计算每个数据点与各聚类中心点之间的距离；其次，Map函数根据距离最短原则，将每个数据点划分与其距离最近的聚类中心；最后，Map 函数输出中间数据至Combine 函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）Combine 阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 聚类算法流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进后的K-means算法首先通过Canopy算法获得初始化的聚类中心，然后基于初始化聚类中心进行K-means聚类迭代，并最终获得聚类结果。聚类流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)获取初始化聚类中心。对于给定的大数据集 $X$ ，通过Canopy算法设定的距离阈值 $T _ { \\mathrm { 1 } }$ 、 $T _ { _ 2 }$ （ $T _ { 1 } < T _ { 2 }$ ），划分初始化的聚类中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)数据点划分。经Canopy算法划分聚类中心后，每个数据点至少属于一个聚类中心或多个聚类中心。数据点不需要再计算该点到各中心点的距离，而只需计算并比较该点所属聚类中",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在该阶段中，首先，Combine函数从Map函数输出的value中提取所有的数据点，并合并属于相同聚类中心的数据点；其次，Combine函数统计分配在统一聚类中心的数据点的个数，并计算数据点的均值；最后，Combine函数将数据排序、重组、分片，并输出每个中心的局部聚类结果至Reduce函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）Reduce 阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在该阶段中，首先，Reduce 函数从Combine 函数输出的value中提取所有的数据点，并聚合所有聚类中心的局部结果；其次，Reduce 函数为每个聚类中心计算新的聚类中心点；最后，Reduce函数判断准则函数是否收敛。若准则函数已收敛，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reduce 函数将输出最终结果，否则将执行下一次迭代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文算法的计算任务主要包括下三个方面：a）计算数据点与聚类中心之间的距离；b)将每个数据点划分至距离最近的聚类中心；c）重新计算每个聚类中心新的中心点。其中，Map 函数产生局部数据集的聚类中心，遍历子集中的所有数据点，判断其与聚类中心的距离；Reduce阶段收集局部中心点，并执行与 Map阶段同样的操作，合并局部的聚类中心，形成新的聚类中心和中心点，并以 $<$ 中心点ID，中心点各维度值 $>$ 形式存放在本地。最终，本文算法将局部数据点归到与其距离最近的K中心，输出 $\\mathrm { \\Sigma } < \\mathrm { \\Sigma }$ 数据点ID：数据各维值，所属中心 $\\cdot >$ ，从而获得聚类结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f3cd88fc2c7e2e60ac903cdaaa353e25b5831eb3318318fb72a590ae7499985.jpg",
+        "img_caption": [
+            "图4基于MapReduce改进的聚类算法的并行化设计",
+            "Fig.4Parallel design of improved clustering algorithm based onMapReduce "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验选择四台Lenovo台式机构建MapReduce平台，配置为 Intel(R 6Core(TM i3-3240 3.39 GHz CPU,4.0 GB 内存,Ubuntu14.04的操作系统。选择其中三台电脑为datanode，剩下一台为namenode。实验主要采用了三个典型数据集。一个是UCI数据库[14]中Iris 数据集，其中包含150 个数据样本，每个样本包括四个维度。Iris 数据集的分类已知，能够用于评估聚类算法的准确性。第二个是德国手机定位数据集Crowdflow，该数据集为1.01GB，包含13082242定位数据。第三个是MIT林肯实验室收集了9周的TCPdump网络连接数据，形成的KDDCUP99数据集。其 $10 \\%$ 的训练数据集包含23种攻击类型，494021条记录，每条记录包含41个特征属性和1个类别属性，各属性之间用逗号分隔。由于该数据集规模庞大、结构复杂，且关于聚类特征的先验信息很充分，非常适合作为大数据聚类的测试数据。这三个大数据集的每条数据都包含精度、维度、水平精度等多维属性，属于典型的大数据，能够有效验证和评估算法的聚类速度、扩展性、精度等性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将本文算法与K-means、CTK和MMKMEANS这三种典型算法进行比较，并统一在Hadoop平台上进行聚类对比。首先需要根据各个数据集的实际情况设置参数：由于Iris 数据集共包含三类数据，设置 $\\scriptstyle 1 = 3$ ；德国手机定位数据主要围绕城市地理分布形成了63个聚类中心，设置 $\\mathrm { K } { = } 6 3$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1所示为在Iris数据集上四种算法的聚类结果。由于Iris数据集较小，算法运行时间区别较小，主要比较数据聚类的准确率(precision)。相比传统的K-means 算法，本文算法将正确聚类个数从132提升到143，准确率提升了 $7 . 3 \\%$ 。相比其他两种算法，本文算法的数据点划分更为合理，聚类结果也最接近Iris数据的实际分类，聚类精度在同类算法中是最高的。在迭代次数方面，本文算法由于需要初始化聚类中心，增加了相应的迭代次数和计算量；但是在小规模数据条件下，迭代次数增加量十分有限，增加的并行化计算时间也几乎可忽略不计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Crowdflow数据集中数据点较多，数据维度也更为复杂，适合比较在MapReduce框架下的并行计算性能。表2所示为四种算法在Crowdflow 数据集上的聚类结果。KDDCUP99数据集中特征属性的维度更多，结构更加复杂，因此数据聚类的计算时间更长，聚类准确度相对较高。表3所示为四种算法在KDDCUP99数据集上的聚类结果。综合四种算法在两个大数据集上的聚类性能对比可以发现，在运行时间上，本文算法消耗时间最少，K-means算法需要的运行时间最多，说明在大数据条件下，本文算法尽管在增加了初始化聚类中心的计算过程，但该算法优化了聚类计算流程和并行化计算流程，使得本文算法在大数据条件下运行时间大大减少，计算效率大大提高。同时，相比其他算法，本文算法在聚类准确率和查全率方面都有了不同程度的提升，说明两阶段渐进式的聚类思想更适用于大数据聚类，能够有效地减少运行时间，提升数据聚类的准确率和查全率。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/58743076feb1ab181767e8f597484b30fb6286782d25c5e03292d9e104e5668e.jpg",
+        "table_caption": [
+            "Table 1 Comparison of clustering performance between four algorithms "
+        ],
+        "table_footnote": [
+            "表2四种算法在Crowdflow数据集上的聚类性能对比"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">onIris dataset</td></tr><tr><td>聚类算法</td><td>聚类个数分布</td><td>Precision/%</td><td>迭代次数</td></tr><tr><td>本文算法</td><td>(43,57,50)</td><td>95.3</td><td>9</td></tr><tr><td>K-means</td><td>(32,50,68)</td><td>88.0</td><td>6</td></tr><tr><td>CTK</td><td>(37,54,59)</td><td>91.2</td><td>8</td></tr><tr><td>MMKMEANS</td><td>(39,55,56)</td><td>89.8</td><td>8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/84a4b8c829c0e955ad7046d3adf20204dcec0de647480d3bd07ef62aa26dfee7.jpg",
+        "table_caption": [
+            "表1四种算法在Iris 数据集上的聚类性能对比"
+        ],
+        "table_footnote": [
+            "表3四种算法在KDDCUP99 数据集上的聚类性能对比"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">onCrowanowdataset</td></tr><tr><td>聚类算法</td><td>运行时间/ms</td><td>准确率/%</td><td>查全率/%</td></tr><tr><td>本文算法</td><td>83784</td><td>85.4</td><td>82.6</td></tr><tr><td>K-means</td><td>153568</td><td>63.5</td><td>60.8</td></tr><tr><td>CTK</td><td>134750</td><td>75.2</td><td>73.1</td></tr><tr><td>MMKMEANS</td><td>122943</td><td>72.9</td><td>68.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfab166983285ee50a5fefb483456c231b9b327e4333ba025444fd1c75389750.jpg",
+        "table_caption": [
+            "Table 2 Comparison of clustering performance between four algorithms on Crowdflow dataset ",
+            "Table 3Comparison of clustering performance between four algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">onKDD CUP99dataset</td></tr><tr><td>聚类算法</td><td>运行时间/ms</td><td>准确率/%</td><td>查全率/%</td></tr><tr><td>本文算法</td><td>98656</td><td>88.2</td><td>83.9</td></tr><tr><td>K-means</td><td>180250</td><td>67.4</td><td>65.8</td></tr><tr><td>CTK</td><td>141593</td><td>79.5</td><td>76.4</td></tr><tr><td>MMKMEANS</td><td>132718</td><td>83.3</td><td>71.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对传统的K-means 算法在大数据条件下聚类存在的问题，本文提出一种两阶段渐进式的聚类算法。该算法在第一阶段采用Canopy算法获取初始化的聚类中心，从而迅速获取粗精度的聚类中心点；第二阶段基于MapReduce 框架给出了并行化设计方案，使外围数据点围绕其邻近的聚类中心完成进一步地细化聚类或合并，并重新计算每个聚类中心新的中心点，从而对大数据实现快速、准确地聚类分析。通过在两个不同类型和大小的数据集进行实验，发现改进的Kmeans算法通过两阶段渐进式的聚类，大大减少计算量和复杂度，同时避免了聚类结果陷入局部最优效果的问题，有效提升了算法的整体聚类精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以海量的互联网定位数据聚类、教育数据等作为应用背景，利用MapReduce的并行计算框架，将Canopy-Kmeans算法进行并行扩展。本文算法主要基于距离指标进行聚类，对于语义分析、行为模式等复杂场景的应用还不太适应。在下一步研究中，需要对相关算法进行扩展，使大数据聚类向着更加智能、有效和自适应的方向发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]程学旗，靳小龙，王元卓，等．大数据系统和分析技术综述[J].软件 学报，2014，25(9):1889-1908.(Cheng Xueqi,Jin Xiaolong，Wang Yuanzhuo,etal. Survey on big data system and analytic technology [J]. Jourmal of Software,2014,25 (9): 1889-1908.)   \n[2]郭平，王可，罗阿理，等．大数据分析中的计算智能研究现状与展望 [J].软件学报,2015,26(11): 3010-3025.(Guo Ping,Wang Ke,Luo Ali,et al. Computational intelligence for big data analysis: current status and future prospect [J]. Journal of Software,2015,26(11): 3010-3025.)   \n[3]李馨．高等教育大数据分析：机遇与挑战[J]．开放教育研究,2016,22 (4):50-56.(Li Xin. Big Data analytics in higher education: opportunities and challenges [J]. Open Education Research,2016,22(4): 50-56.)   \n[4]杜治娟，王硕，王秋月，等．社会媒体大数据分析研究综述[J].计算 机科学与探索,2017,11(1): 1-23.(Du Zhijuan,Wang Shuo,Wang Qiuyue, et al.Survey on social media big data analytics [J]. Journal of Frontiers of Computer Science and Technology,2017,11(1): 1-23.)   \n[5]宋建林.K-means 聚类算法的改进研究[D].合肥：安徽大学，2016. (Song Jianlin.Research on improvement of K-means clustering algorithm [D]. Hefei: Anhui University,2016.)   \n[6]李晓瑜，俞丽颖，雷航，等．一种K-means 改进算法的并行化实现与应 用[J].电子科技大学学报,2017,46(1):61-68.(Li Xiaoyu,Yu Liying， Lei Hang,etal. The paralel implementation and application of an improved K-means algorithm [J]. Journal of University of Electronic Science and Technology of China,2017,46 (1): 61-68.)   \n[7]赵宝文，徐华．基于MapReduce的并行MRACO-PAM聚类算法[J].计 算机工程与科学,2017,39(10):1801-1806.(Zhao Baowen,Xu Hua.A parallel MRACO-PAM clustering algorithm based on MapReduce [J]. Computer Engineering & Science,2017,39 (10):1801-1806.)   \n[8]王永贵，崔鹏．一种基于MapReduce 高效 K-means 并行算法[J].辽宁 工程技术大学学报：自然科学版，2017,36(11):1204-1211.(Wang Yonggui,Cui Peng.An efficient K-means parallel algorithm based on MapReduce [J]. Journal of Liaoning Technical University: Natural Science Edition,2017,36 (11):1204-211.)   \n[9]陈爱平．基于 Hadoop 的聚类算法并行化分析及应用研究[D].成都： 电子科技大学,2015. (Chen Aiping. Research on paralelization analysis and application of clustering algorithm based on Hadoop [D]. Chengdu: UniversityofElectronic Science and TechnologyofChina,2015.)   \n[10]夏大文．基于 MapReduce 的移动轨迹大数据挖掘方法与应用研究[D]. 重庆：西南大学,2016.(Xia Dawen. MapReduce-based methodologies of mobile trajectory big data mining and itsapplication [D]. Chongqing: SouthwestUniversity016.)   \n[11]宋旭东，朱文辉，邱占芝．大数据 K-Means 聚类挖掘优化算法[J].大 连交通大学学报,2015,36 (3):91-94.(Song Xudong,Zhu Wenhui, Qiu Zhangzhi. Big data K-Means clustering mining optimization algorithm [J]. Journal of Dalian Jiaotong University,2015,36 (3): 91-94.)   \n[12]樊同科．云环境下基于MapReduce的用户聚类研究与实现[J].电子设 计工程,2016,24(10):35-37.(Fan Tongke.Research and implementation of user clustering based on Map Reduce in cloud environment [J]. International Electronic Elements,2016,24(10): 35-37.)   \n[13]张友海，李锋刚．基于MapReduce的 Canopy-Kmeans 算法的并行化[J]. 辽宁科技学院学报,2017,19(1):4-5.(Zhang Youhai,Li Fenggang. Paralelized canopy-K-means algorithm based on MapReduce[J]. Journal of Liaoning Institute ofScience and Technology,2017,19(1): 4-5.)   \n[14] Murphy P M,Aha D W. UCI repository of machine learning database [DB/OL]. (2006-05-12). http://www. ics.uci. edu/mlearn/MLReposi-tory html. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

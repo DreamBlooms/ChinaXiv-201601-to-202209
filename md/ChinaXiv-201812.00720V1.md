@@ -1,0 +1,207 @@
+饲料钴源和钴含量对军曹幼鱼生长性能、血液学指标和组织钴沉积的影响
+
+2 黄钦成 $^ { 1 , 2 }$ 聂家全」董晓慧1,2\*谭北平1.2迟淑艳1,2杨奇慧1.2刘泓宇1,2章双1.2  
+3 杨原志」张海涛²  
+4 （1.广东海洋大学水产动物营养与饲料实验室，湛江 524088；2.农业部华南水产与畜禽饲料  
+5 重点实验室，湛江 524000）  
+6號 摘要：本试验旨在探究在氯化钴（Co-CI）和蛋氨酸钴（Co-Met）2种钴（Co）源下饲料  
+7 Co 含量对军曹鱼幼鱼生长性能、血液学指标和组织Co沉积的影响，并比较2种Co源的生  
+8 物学效价。以脱维酪蛋白和鱼粉为主要蛋白质源配制基础饲料，在基础饲料中分别添加0（对  
+9 照）、2、4、8、16、 $3 2 \mathrm { m g / k g }$ （以Co计）的Co-Cl或Co-Met，配制11种试验饲料（共用  
+10 对照）。挑选健康的初始体重为（ $2 2 . 1 8 { \scriptstyle \pm 0 . 3 5 } .$ ） $\mathbf { g }$ 的军曹鱼幼鱼990尾，随机分为11组，每  
+11 组分配3个网箱（重复），投喂同一种试验饲料，每个网箱养殖30尾鱼，共投喂10周。结  
+12 果显示：1）2种Co源下，特定生长率（SGR）、增重率（WGR）均随饲料Co含量的增加  
+13 先上升后下降。饲料Co含量极显著影响军曹鱼幼鱼的 SGR、WGR 和饲料系数（FCR）  
+14 （ $P { < } 0 . 0 1$ ），饲粮Co源和Co含量的交互作用显著影响 SGR、WGR、成活率（SR）（ $_ { . P < 0 . 0 5 ) }$ ）。  
+15 2）饲粮Co源极显著影响红细胞计数（RBC）（ $\cdot P { < } 0 . 0 1$ ），饲料Co 含量极显著影响 RBC、  
+16 血红蛋白浓度（HGB）、红细胞压积（HCT）（ $P { < } 0 . 0 1$ ），饲料Co 源和Co含量的交互作  
+17 用极显著影响HCT（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。3）饲料Co源极显著影响脊椎骨Co含量（ $\scriptstyle { \cdot } { } < 0 . 0 1$ ），饲料  
+18 Co 含量极显著影响脊椎骨和全鱼Co含量（ $P { < } 0 . 0 1$ ），饲料Co源和Co含量的交互作用显  
+19 著影响脊椎骨和全鱼Co含量（ $\scriptstyle \cdot < 0 . 0 5$ ）。由此得出，饲料中适宜含量的Co可改善军曹鱼  
+20 幼鱼的生长性能和血液学指标，提高组织中Co沉积量。以Co-Cl和Co-Met为Co源，饲料  
+21 Co 含量分别为17.75、 $1 9 . 4 0 \mathrm { m g / k g }$ 时军曹鱼幼鱼可获得最大 SGR。以 SGR、RBC、脊椎骨  
+22 Co 含量为判据，Co-Met的生物学效价分别为Co-C1的1.47、1.49、1.12 倍。
+
+关键词：军曹鱼幼鱼；钴；生长性能；血液学指标；钴沉积；生物学效价中图分类号： ${ \mathrm { S 9 6 3 . 7 3 ^ { + } 4 } }$ 文献标识码：A 文章编号：
+
+钴（Co）是银白色铁磁性金属，在周期表中属V族，属于铁族元素，理化性质与铁、镍接近，是动物的一种必需微量矿物元素。维生素 $\mathbf { B } _ { 1 2 }$ 因含 Co 又称钴胺素，其生物功能主要有促进红细胞成熟和发育、脂肪酸代谢、高半胱氨酸的甲基化、正常叶酸循环，维生素$\mathbf { B } _ { 1 2 }$ 缺乏常导致叶酸缺乏症[1]。已有研究证明，Co可以促进动物胃肠道微生物合成维生素$\mathbf { B } _ { 1 2 }$ 来维持鱼类正常生长的需要，从而弥补饲料中维生素 $\mathbf { B } _ { 1 2 }$ 的不足[2]。另外，Co在增强血红素的分解代谢、动物抗氧化活性和抑制炎症反应上也有重要作用[3]。  
+和陆生动物不同，鱼类可以从水体吸收部分矿物元素，但水体矿物元素含量往往不足，因此饲料中必须补充适量的矿物元素来满足鱼类生长的需要[1]。动物缺Co 会出现食欲减退、生长受阻、血红蛋白或红细胞成熟因子合成不足等问题[4-5]。目前，有关Co 的需要量、促生长作用、与维生素 $\mathbf { B } _ { 1 2 }$ 的关系等研究已在点带石斑鱼（Epinephelus malabaricus）[2]、尖吻鲈（Latescalcarifer）及胡子鲶（Clarias batrachus）[4]、齐氏罗非鱼（Tilapia zilii）[6]、尼罗罗非鱼（Oreochromus niloticus）[7]、南亚野鲮（Labeo rohita）[8]、草鱼（Ctenopharyngodon idella)[9]上有所报道。生物学效价常用来评价营养物被吸收、保留和利用的效率[10-11]，不同来源的矿物元素具有不同的生物学效价。研究发现，羟基蛋氨酸锰在提高军曹鱼（Rachycentroncanadum）生长、抗氧化和脊椎骨矿物元素沉积方面比硫酸锰和甘氨酸锰效率更高[12]；在提升鲍鱼（Haliotis discus hannai Ino）增重率或碱性磷酸酶活性方面，蛋氨酸锌的 RBV 是硫酸锌的3倍左右[13]；以特定生长率和全鱼硒含量为判据，军曹鱼幼鱼对蛋氨酸硒的RBV 分别相当于亚硒酸钠的1.2 和 2.9 倍[14]。然而，也有研究报道赖氨酸铜和硫酸铜在影响牛的生长及血清铜蓝蛋白活性及免疫方面没有显著差异[15]。目前关于Co的研究大多涉及氯化钴（Co-CI）、碳酸钴、氧化钴、乙酸或丙酸钴盐等形式[9,16]，尚未见军曹鱼Co需要量及蛋氨酸钴（Co-Met）和Co-Cl生物学效价的比较研究。  
+军曹鱼隶属鲈形目(Perciformes)，军曹鱼科(Rachycentridae)，军曹鱼属，亦称海、海龙、海鲤、竹五等，为暖水性底层鱼类，我国主要产于海南、广东和台湾等省。军曹鱼是大型肉食性鱼类，生长速度快、肉质细嫩鲜美，是市场上畅销的水产品，现已是我国南方沿海海水网箱养殖的重要对象之一。目前有关军曹鱼蛋白质[17]、脂肪[17]、碳水化合物[18]、维生素[19]及矿物元素需要量[20]以及鱼粉替代[2]等营养学和饲料学问题已有大量研究。本试验拟研究饲料中不同Co源和Co含量对军曹鱼幼鱼营养生理功能的影响，并比较2种Co源的生物学效价，旨在为确定军曹鱼幼鱼Co需要量并为军曹鱼营养参数数据库的完善及高效配合饲料的研发积累基础数据。  
+1材料与方法  
+1.1试验材料  
+试验用Co-C1为分析纯，试验用Co-Met的Co含量为 $0 . 2 \%$ ，蛋氨酸(Met)含量为 $1 . 7 \%$ 均购自长沙兴嘉生物工程股份有限公司。
+
+# 1.2 试验饲料和试验设计
+
+以脱维酪蛋白和鱼粉为蛋白质源，玉米淀粉为糖源，玉米油、鱼油和大豆磷脂油为脂肪源，配制基础饲料（不添加维生素 $\mathbf { B } _ { 1 2 }$ ）。在基础饲料中分别添加0（对照）、2、4、8、16、$3 2 \mathrm { m g / k g }$ （以Co计）的Co-Cl和Co-Met，共配制出11种试验饲料（共用对照饲料）。饲料原料粉碎后过60目筛，根据饲料配方称取各原料，微量组分采用逐级扩大法混合均匀后，加鱼油、玉米油和大豆磷脂油搅拌均匀，再用V型立式混合机混合 $5 \mathrm { m i n }$ ，然后加 $3 0 \% \sim 4 0 \%$ （质量分数）的水，用F-26型双螺杆挤压机（华南理工大学，广州）制成粒径为 $3 . 0 \mathrm { m m }$ 的颗粒饲料，在避光通风处风干至饲料水分含量为 $10 \%$ 左右，封口袋封装， $- 2 0 \mathrm { ~ \textdegree C }$ 冰箱冷冻保藏。通过电感耦合等离子体-质谱仪（ICP-MS，Agilent $7 7 0 0 \mathrm { { x } }$ Agilent Technologies，美国）测定饲料中Co的含量。试验设计见表1，基础饲料组成及营养水平见表2。
+
+# 表1试验设计
+
+Table1Design of experiment   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td colspan="2">以氯化钴为钴源 Co-Cl as Co source</td><td rowspan="2">组别 Groups</td><td colspan="2">以蛋氨酸钴为钴源 Co-Met as Co source</td></tr><tr><td>钴添加量 Co addition</td><td>钴含量 Co content</td><td>添加量 Addition</td><td>钴含量Co Content</td></tr><tr><td>C-0</td><td>0</td><td>0.13</td><td>C-0</td><td>0</td><td>0.13</td></tr><tr><td>Co-C1-2</td><td>2</td><td>2.08</td><td>Co-Met-2</td><td>2</td><td>2.13</td></tr><tr><td>Co-C1-4</td><td>4</td><td>4.12</td><td>Co-Met-4</td><td>4</td><td>3.99</td></tr><tr><td>Co-C1-8</td><td>8</td><td>8.02</td><td>Co-Met-8</td><td>8</td><td>8.06</td></tr><tr><td>Co-Cl-16</td><td>16</td><td>16.25</td><td>Co-Met-16</td><td>16</td><td>16.00</td></tr><tr><td>Co-C1-32</td><td>32</td><td>32.26</td><td>Co-Met-32</td><td>32</td><td>32.38</td></tr></table></body></html>
+
+钴含量为实测值 Co content was measured value。
+
+Table 2 Composition and nutrient levels of the basal diet（air-dry basis） %
+
+表2基础饲料组成及营养水平 (风干基础)  
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">原料 Ingredients</td></tr><tr><td>脱维酪蛋白Vitamin-free caseinl)</td><td>38.00</td></tr><tr><td>鱼粉 Fish meal</td><td>11.00</td></tr><tr><td>玉米淀粉 Corn starch</td><td>25.00</td></tr><tr><td>鱼油 Fish oil</td><td>3.00</td></tr><tr><td>玉米油 Corn oil</td><td>6.00</td></tr><tr><td>大豆磷脂油 Soybean phospholipid oil</td><td>2.00</td></tr><tr><td>去维生素Bi2维生素预混料VB12-free vitamin premix2)</td><td>0.30</td></tr><tr><td>去钴矿物元素预混料 Co-fre mineral premix 3)</td><td>2.00</td></tr><tr><td>维生素CVC</td><td>0.10</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>0.50</td></tr><tr><td>乙氧基喹啉 Ethoxyquin</td><td>0.05</td></tr><tr><td>诱食剂 Attractant</td><td>0.10</td></tr><tr><td>羧甲基纤维素钠 Sodium carboxymethylcellulose</td><td>2.00</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose</td><td>9.45</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels4</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>44.09</td></tr><tr><td>粗脂肪 Crude lipid</td><td>11.94</td></tr><tr><td>粗灰分 Ash</td><td>4.76</td></tr><tr><td>水分 Moisture</td><td>8.92</td></tr><tr><td>钴 Co/(mg/kg)</td><td>0.13</td></tr></table></body></html>
+
+1'脱维酪蛋白购自美国 Sigma 公司，粗蛋白质含为 $94 \%$ 。 Vitamin-free casein provided by Sigma ChemicalCo.,St.Louis,MO,USA,and its crude protein content was $94 \%$
+
+2’去维生素 $\mathbf { B } _ { 1 2 }$ 预混料为每千克饲料提供 $\mathrm { V B } _ { 1 2 }$ -free vitamin premix provided the following per $\mathrm { k g }$ of thediet：硫胺素 thiamine hydrochloride $2 5 ~ \mathrm { m g }$ ，核黄素riboflavin $4 5 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $6 0 ~ \mathrm { m g }$ ，烟酸nicotinic acid $2 0 0 ~ \mathrm { { m g } }$ ，盐酸吡哆醇 pyridoxine hydrochloride $2 0 \mathrm { m g }$ ，生物素biotin $1 . 2 0 \mathrm { m g }$ ，肌醇inositol 800mg，叶酸 folic acid $2 0 \mathrm { m g }$ ，VA $3 2 \mathrm { m g }$ ，VE $1 2 0 ~ \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 0 \mathrm { m g }$ 。
+
+3）去钴矿物元素预混料为每千克饲料提供 Co-free mineral premix provided the following per $\mathrm { k g }$ of the  
+diet: $\mathrm { C H _ { 3 } C H O H C O O _ { 2 } C a { \cdot } 5 H _ { 2 } O 6 1 0 0 m g }$ ， $\mathrm { N a _ { 2 } H P O _ { 4 } } 6 2 0 0 \mathrm { m g }$ ，NaF $2 \ : \mathrm { m g }$ ， $\mathrm { C a ( I O _ { 3 } ) _ { 2 } 0 . 9 4 \ m g }$ ， $\mathrm { C u S O _ { 4 } } \cdot 5 \mathrm { H _ { 2 } O } \textrm { l }$ 0  
+mg， $\mathrm { M n S O _ { 4 } \bullet H _ { 2 } O \ 6 0 }$ mg， $\mathrm { F e S O _ { 4 } \bullet H _ { 2 } O }$ 240 mg， $\mathrm { 2 n S O _ { 4 } \cdot 7 H _ { 2 } O }$ 180 mg, $\mathrm { M g S O _ { 4 } } \bullet 7 \mathrm { H _ { 2 } O } \ 1 \ 2 0 0 \ \mathrm { m g }$ ，NaCl100  
+mg， $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 3 } \left( 1 \% \right) 3 0 \mathrm { m g } { \it }$ 4）实测值 Measured values 。
+
+# 1.3 试验动物与饲养管理
+
+养殖试验在广东省湛江市南三岛海上浮式鱼排中进行，试验所用的军曹鱼幼鱼购买于广东湛江市英利镇养殖户。鱼苗暂养2周，期间投喂商品饲料（粗蛋白质含量 $3 5 5 \%$ ，粗脂肪含量 $\geq 8 \%$ ）。分组前停食 $2 4 \mathrm { h }$ ，随机挑选规格一致、健康无病的初始体重为（22.18±0.35）g的军曹鱼幼鱼，根据试验设计共分为11个组，每组3个重复，以重复为单位养殖于$2 . 5 \mathrm { m } { \times } 1 . 2 \mathrm { m } { \times } 1 . 4 \mathrm { m }$ 的网箱，共33个网箱，每个网箱放30尾鱼。为减少试验误差，所有网箱均随机摆放。每种饲料投喂3个网箱，每天饱食投喂2次（07:00、18:00），日投喂量为其体重的 $6 \% { \sim } 9 \%$ 。养殖期间水体温度 $2 8 { \sim } 3 3 ^ { \circ } \mathrm { C }$ ， $\mathrm { p H } 7 . 6 { \sim } 7 . 8$ ，盐度 $2 9 { \sim } 3 1$ ，溶氧浓度 ${ > } 6 . 0 \ \mathrm { m g / L }$ ，实验期为10周。养殖海水中Co含量为 $0 . 1 2 \mu \mathrm { g / L }$ 。
+
+# 1.4样本采集及测定
+
+试验结束后禁食 $2 4 \mathrm { h }$ 后采样，以每个网箱为单位称重计数。每个网箱随机取5尾鱼（丁香酚麻醉处理），用 $2 . 5 ~ \mathrm { m L }$ 的注射器从鱼体心脏抽血，放置于 $1 . 5 \mathrm { m L }$ 的Eppendorf管中,制备抗凝血，备测血液学指标。每个网箱随机取5尾鱼，解剖后迅速取出肝脏放入防冻管，然后放入液氮罐保存，最后转移到-80℃中冰箱备用。每个网箱随机取8尾鱼，去除内脏后放入沸水中 $3 \mathrm { m i n }$ ，然后剥离肌肉，取出脊椎骨，以超纯水冲洗去掉附着的肌肉。处理后的脊椎骨在105℃烘干，然后粉碎过80目筛，以乙醚抽提 $^ { 1 2 \mathrm { ~ h ~ } }$ 去除脂肪，并再次105℃烘干。
+
+饲料营养成分分析[221：水分含量采用105℃常压干燥法测定；粗蛋白质含量采用凯氏定氮法（KjeltecTM8400，瑞典）测定；粗脂肪含量采用索氏抽提法（乙醚为抽提剂）测定；粗灰分含量采用550℃马弗炉灼烧法测定。矿物元素测定：饲料、全鱼、肝脏和脊椎骨105℃烘干后粉碎过80目筛，然后用硝酸和双氧水充分消解，用电感耦合等离子体-质谱法[22]测定饲料、全鱼、脊椎骨和肝脏中Co含量。血液学指标如红细胞计数（RBC）、血红蛋白含量（HGB）、红细胞压积（HCT）均采用法国PENTRA80全自动血细胞分析仪测定。
+
+# 1.5生长性能计算公式
+
+末均重（FBW，g） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 总末重（g）/鱼尾数；  
+增重率（WGR， $\%$ ） $\scriptstyle = 1 0 0 \times [$ 末均重 $( \mathbf { g } )$ 初均重(g)]/初均重(g);  
+特定生长率（SGR， $\% / \mathrm { d } ) \ = 1 0 0 \times [ \mathrm { l t }$ 末均重(g)-ln初均重(g)]/饲养天数(d);  
+饲料系数（FCR） $\ c =$ 摄食饲料干重(g)/[末均重(g)-初均重(g)];  
+成活率（SR， $\% ) = 1 0$ $= 1 0 0 \times$ 终末鱼尾数/初始鱼尾数。
+
+# 1.6 数据处理
+
+试验数据用平均值 $\boldsymbol { \pm }$ 标准差（mean±SE）表示，采用SPSS17.0的一般线性模型软件进行双因素方差分析（two-wayANOVA），模型的主效应分析包括Co源、Co含量以及两者之间的互作效应。若存在显著差异，再采用Duncan氏法进行多重比较。 $P { < } 0 . 0 5$ 表示差异显著，$P { < } 0 . 0 1$ 表示差异极显著。Co-Met相对于Co-Cl的生物学效价采用比斜率法[23-24]求得。
+
+2结果
+
+2.1饲料Co 源和Co含量对军曹鱼幼鱼生长性能的影响
+
+由表3可知，2种Co源下 SGR、FBW、WGR 均随饲料Co含量的增加呈先上升后下降的趋势。C-0 组的 SGR 和 WGR 均显著低于以 Co-Cl为Co源的 Co-Cl-4、Co-Cl-8、Co-Cl-16和 Co-Cl-32 组以及以Co-Met为Co 源的 Co-Met-4、Co-Met-8、Co-Met-16 和Co-Met-32 组（ $P { < } 0 . 0 5$ ）。Co-Cl-32 和Co-Met-32 组SGR 和WGR均显著低于Co-Cl-16 和Co-Met-16 组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。Co-Cl组中，WGR及FBW在Co-Cl-16组最大；Co-Met组中，WGR及FBW在 Co-Met-8组最大。Co-Cl组中，SR 在Co-Cl-32 组最低，显著低于除Co-Cl-4 组外的其他各组（ $P { < } 0 . 0 5$ ），且FCR显著高于Co-Cl-2、Co-Cl-8和Co-Cl-16组（ $P { < } 0 . 0 5$ ）；Co-Met组中，Co-Met-8 组SR相比Co-0 组显著降低（ $P { < } 0 . 0 5$ ），但其他组与Co-0组无显著差异（ $P { > } 0 . 0 5$ ），Co-Met-2组FCR显著高于Co-Met-16组（ $\cdot P { < } 0 . 0 5$ ）。双因素方差分析显示，饲料Co含量对FBW、SGR、WGR和FCR有极显著影响（ $P { \ < } 0 . 0 1$ ），对 SR无显著影响（ $P { > } 0 . 0 5$ ）；饲料Co源对FBW、SGR、WGR、FCR 和 SR均无显著影响（ $P { > } 0 . 0 5$ ）；饲料Co源与Co含量的交互作用对 SGR、WGR 和 SR有显著影响 $_ { \cdot } P { < } 0 . 0 5$ ），对FBW和FCR无显著影响 （ $P { > } 0 . 0 5$ ）。以 SGR为依据时，通过二次回归曲线分析得出饲料中添加Co-Cl137 和 Co-Met形式的 $\mathrm { C o }$ 分别至19.40 和 $1 7 . 7 5 ~ \mathrm { m g / k g }$ 时，军曹鱼幼鱼可以获得最大 SGR(图1)。138 由图2可知，以 SGR为判据，军曹鱼幼鱼对Co-Met的生物学效价（以Co-Cl为基准）相当139 于 Co-Cl的1.47倍（线性模拟结果，以Co-Cl为 $\mathrm { C o }$ 源： $y = 0 . 0 1 8 ~ 8 x + 2 . 5 2 7 ~ 6$ ， $R ^ { 2 } { = } 0 . 9 9 6 8$ ：140 以 Co-Met为Co 源： $y = 0 . 0 2 7 \ 7 x + 2 . 5 1 0 \ 8$ ， $R ^ { 2 } { = } 0 . 9 7 5 2$ ；Co-Met 相对于Co-Cl的生物学效价141 $= 0 . 0 2 7 7 / 0 . 0 1 8 8 { = } 1 . 4 7 \rangle$ 。
+
+# 表3饲料Co源和Co含量对军曹鱼幼鱼生长性能的影响
+
+Table 3Effects of dietary Co source and Co content on growth performance of juvenile cobia
+
+<html><body><table><tr><td>组别 Groups</td><td>末均重 FBW/g</td><td>特定生长率 SGR/(%/d)</td><td>增重率 WGR/%</td><td>成活率 SR/%</td><td>饲料系数 FCR</td></tr><tr><td>C-0</td><td>100.18±1.06a</td><td>2.53±0.02a</td><td>355.35±4.78a</td><td>94.44±2.94c</td><td>2.50±0.11abc</td></tr><tr><td>Co-C1-2</td><td>102.72±0.39abc</td><td>2.57±0.01abc</td><td>366.86±1.77abc</td><td>93.33±3.85c</td><td>2.41±0.15ab</td></tr><tr><td>Co-C1-4</td><td>104.76±0.97bcd</td><td>2.60±0.02bcd</td><td>376.17±4.39bcd</td><td>85.56±4.01abc</td><td>2.62±0.09bc</td></tr><tr><td>Co-C1-8</td><td>109.58±0.60ef</td><td>2.68±0.01ef</td><td>398.11±2.74ef</td><td>92.22±2.22</td><td>2.31±0.05ab</td></tr><tr><td>Co-Cl-16</td><td>110.93±1.65fg</td><td>2.70±0.02fg</td><td>404.20±7.49fg</td><td>94.44±2.94c</td><td>2.18±0.03a</td></tr><tr><td>Co-C1-32</td><td>107.61±1.01de</td><td>2.64±0.02de</td><td>386.39±4.61de</td><td>75.56±5.88a</td><td>2.86±0.22c</td></tr><tr><td>Co-Met-2</td><td>101.88±1.10ab</td><td>2.55±0.02ab</td><td>363.11±4.99ab</td><td>87.78±2.22bc</td><td>2.63±0.04bc</td></tr><tr><td>Co-Met-4</td><td>106.16±0.78cde</td><td>2.62±0.01cde</td><td>382.53±3.52cde</td><td>90.00±1.92bc</td><td>2.42±0.06ab</td></tr><tr><td>Co-Met-8</td><td>114.24±2.49g</td><td>2.74±0.04g</td><td>419.29±11.34g</td><td>80.00±3.33ab</td><td>2.55±0.16abc</td></tr><tr><td>Co-Met-16</td><td>114.09±1.45g</td><td>2.74±0.02g</td><td>418.58±6.60g</td><td>93.33±3.33</td><td>2.17±0.07a</td></tr><tr><td>Co-Met-32</td><td>104.21±0.08bcd</td><td>2.59±0.01bcd</td><td>373.67±0.38bcd</td><td>90.00±5.09bc</td><td>2.51±0.15abc</td></tr><tr><td colspan="6">双因素方差分析P值P-value of two-way ANOVA</td></tr><tr><td>钴源Co source</td><td>0.194</td><td>0.189</td><td>0.169</td><td>0.987</td><td>0.781</td></tr><tr><td>钴含量Co content 钴源×钴含量</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.064</td><td>0.007</td></tr><tr><td>Co sourcexCo content</td><td>0.056</td><td>0.044</td><td>0.047</td><td>0.019</td><td>0.095</td></tr></table></body></html>
+
+同列数据肩标不同字母表示显著差异（ $P { < } 0 . 0 5$ ）。下表同。Values in the same column with different letter superscripts differ significantly $( P { < } 0 . 0 5 )$ 'he same as below.
+
+![](images/b5c0c24414ddd3054a5db33763b04cf9c25f8d8a2ba4d73ce3394134403ff2f1.jpg)  
+图1军曹鱼幼鱼对2种Co源中Co的需要量
+
+![](images/dc81d9525842cf10afd707e7a2f09585a6a3342e3170017afcb0a9628f30a71e.jpg)  
+Fig.1Requirement of Co from two Co sources of juvenile cobia   
+图2Co-Met的相对生物学效价Fig.2Relative bioavailability of Co-Met
+
+2.2饲料Co源和Co含量对军曹鱼幼鱼血液学指标的影响
+
+由表4可知,Co-C1组中,Co-Cl-8、Co-Cl-16和Co-C-32组RBC 显著高于C-0 组( $. P { < } 0 . 0 5 )$ ；C-0 组HGB 最低且显著低于其他各组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）；C-0 和Co-Cl-2 组HCT 显著低于其他各组 $\cdot P { < } 0 . 0 5 \$ ）。Co-Met组中，C-0 组RBC、HGB、HCT显著低于其他各组（ $( P { < } 0 . 0 5 )$ ）; Co-Met-32组HGB显著低于Co-Met-16组（ $P { < } 0 . 0 5$ ）。2种 $\mathrm { C o }$ 源下RBC、HGB、HCT均随饲料Co含量的增加呈先上升后下降的趋势。双因素方差分析显示，饲料Co含量对RBC、HGB 和HCT均有极著影响（ $_ { \scriptstyle P < 0 . 0 1 }$ ）；饲料Co源对RBC有极著影响（ $\cdot P { < } 0 . 0 1$ ），对HGB和HCT无显著影响（ $\scriptstyle P > 0 . 0 5 .$ ）；饲料 $\mathrm { C o }$ 源和Co含量的交互作用对HCT有极著影响 $( P { < } 0 . 0 1 )$ ，对RBC 和HGB无显著影响 $( P { > } 0 . 0 5 )$ 。以RBC 为判据时，军曹鱼幼鱼对Co-Met的生物学效价（以Co-C1为基准)相当于Co-C1的1.49倍（线性模拟结果,以Co-Cl为 $\mathrm { C o }$ 源： $y = 0 . 0 5 4 3 x { - 0 . 4 3 2 }$ 08， $R ^ { 2 } { = } 0 . 9 4 7 \ 3$ ；以Co-Met为Co 源： $y = 0 . 0 8 0 \ 7 x - 2 . 9 1 3 \ 8$ ， $R ^ { 2 } { = } 0 . 7 7 8 0$ ；Co-Met 相对于Co-Cl的生物学效价 $= 0 . 0 8 0 7 / 0 . 0 5 4 3 { = } 1 . 4 9 \rangle$ ）。
+
+表4饲料Co源和Co含量对军曹鱼幼鱼血液学指标的影响  
+Table 4Effects of dietary Co source and Co content on hematological indexes of juvenile cobia   
+
+<html><body><table><tr><td>组别Groups</td><td>红细胞计数 RBC/(X 1012/L)</td><td>血红蛋白含量 HGB/(g/L)</td><td>红细胞压积 HCT/%</td></tr><tr><td>C-0</td><td>2.77±0.10a</td><td>60.78±2.29a</td><td>29.94±0.95a</td></tr></table></body></html>
+
+<html><body><table><tr><td>Co-C1-2</td><td>2.92±0.12ab</td><td>73.83±1.35bc</td><td>31.94±1.23a</td></tr><tr><td>Co-C1-4</td><td>2.93±0.20ab</td><td>72.90±2.20b</td><td>38.23±1.51bc</td></tr><tr><td>Co-C1-8</td><td>3.22±0.10bc</td><td>81.13±2.47cde</td><td>44.90±0.53d</td></tr><tr><td>Co-Cl-16</td><td>3.62±0.04de</td><td>85.28±3.87ef</td><td>42.10±1.52cd</td></tr><tr><td>Co-Cl-32</td><td>3.48±0.07cde</td><td>82.07±1.29def</td><td>40.10±1.06bc</td></tr><tr><td>Co-Met-2</td><td>3.20±0.10bc</td><td>76.82±1.38bcd</td><td>37.93±1.58b</td></tr><tr><td>Co-Met-4</td><td>3.37±0.09cd</td><td>78.58±1.49bcde</td><td>38.62±0.70bc</td></tr><tr><td>Co-Met-8</td><td>3.47±0.07cde</td><td>79.48±2.73bede</td><td>41.33±0.46bcd</td></tr><tr><td>Co-Met-16</td><td>3.73±0.15e</td><td>88.97±3.50f</td><td>39.25±1.60bc</td></tr><tr><td>Co-Met-32</td><td>3.55±0.08cde</td><td>81.72±1.20de</td><td>38.99±1.86bc</td></tr><tr><td colspan="4">双因素方差分析P值P-value of two-wayANOVA</td></tr><tr><td>钴源 Co source</td><td>0.002</td><td>0.168</td><td>0.778</td></tr><tr><td>钴含量Cocontent</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>钴源×钴含量Co sourcexCocontent</td><td>0.494</td><td>0.514</td><td>0.004</td></tr></table></body></html>
+
+72 2.3 饲料Co源和Co含量对军曹鱼幼鱼组织Co含量的影响
+
+由表5可知，2种Co源下，脊椎骨和全鱼Co含量随着饲料Co含量的增加而升高。双因素方差分析显示，饲料Co含量对脊椎骨和全鱼Co含量有极显著影响（ $_ { \cdot } P { < } 0 . 0 1$ ），对肝脏Co含量无显著影响（ $P { > } 0 . 0 5$ ）；饲料Co源对脊椎骨Co含量有极显著影响（ $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ ），对全鱼和肝脏Co含量无显著影响（ $. P { > } 0 . 0 5$ ）；饲料Co源和Co含量的交互作用对脊椎骨和全鱼Co含量有显著影响（ $\scriptstyle \cdot < 0 . 0 5$ ），对肝脏Co含量无显著影响（ $P { > } 0 . 0 5$ ）。以脊椎骨Co沉积量为判据时，军曹鱼幼鱼对Co-Met的生物学效价（以Co-Cl为基准）相当于Co-Cl的1.12倍（线性模拟结果，以Co-Cl为Co源： $y = 0 . 0 5 1 \ 1 x + 0 . 0 7 2 \ 1$ ， $R ^ { 2 } { = } 0 . 9 6 5 ~ 9$ ；以 Co-Met 为Co源： $y = 0 . 0 5 7 \ 1 x + 0 . 0 9 9 \ 0$ ， $R ^ { 2 } { = } 0 . 9 9 3 ~ 7$ ；Co-Met相对于Co-Cl的生物学效价=0.0571/0.051$\scriptstyle 1 = 1 . 1 2$ ）。
+
+表5饲料Co源和Co含量对军曹鱼幼鱼组织Co含量的影响(干物质基础)  
+Table 5Effects of dietary Co source and Co content on Co content in tissue of juvenile cobia   
+
+<html><body><table><tr><td colspan="2">(DM basis)</td><td colspan="2">mg/kg</td></tr><tr><td>组别 Groups</td><td>脊椎骨Vertebra</td><td>全鱼 Whole body</td><td>肝脏Liver</td></tr><tr><td>C-0</td><td>0.08±0.03a</td><td>0.10±0.01a</td><td>0.28±0.02</td></tr><tr><td>Co-C1-2</td><td>0.19±0.01a</td><td>0.27±0.02ab</td><td>0.28±0.04</td></tr><tr><td>Co-C1-4</td><td>0.21±0.01a</td><td>0.46±0.08bc</td><td>0.30±0.01</td></tr><tr><td>Co-C1-8</td><td>0.41±0.04b</td><td>0.55±0.07℃</td><td>0.27±0.02</td></tr><tr><td>Co-Cl-16</td><td>1.12±0.02c</td><td>1.33±0.05f</td><td>0.26±0.01</td></tr><tr><td>Co-C1-32</td><td>1.64±0.12d</td><td>2.15±0.04g</td><td>0.28±0.05</td></tr><tr><td>Co-Met-2</td><td>0.22±0.01a</td><td>0.41±0.02bc</td><td>0.28±0.03</td></tr><tr><td>Co-Met-4</td><td>0.39±0.01b</td><td>0.52±0.01c</td><td>0.26±0.04</td></tr><tr><td>Co-Met-8</td><td>0.48±0.07b</td><td>0.80±0.03d</td><td>0.26±0.01</td></tr><tr><td>Co-Met-16</td><td>1.07±0.06c</td><td>1.04±0.04e</td><td>0.29±0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>Co-Met-32</td><td>1.93±0.08e</td><td>2.26±0.06g</td><td>0.30±0.01</td></tr><tr><td colspan="4">双因素方差分析P值P-value of two-way ANOVA</td></tr><tr><td>钴源 Co source</td><td>0.007</td><td>0.226</td><td>0.975</td></tr><tr><td>钴含量Cocontent</td><td><0.001</td><td><0.001</td><td>0.920</td></tr><tr><td>钴源×钴含量Co sourcexCo content</td><td>0.048</td><td>0.013</td><td>0.791</td></tr></table></body></html>
+
+3讨论
+
+3.1饲料Co 源和Co含量对军曹鱼幼鱼生长性能的影响
+
+本试验条件下（去维生素 $\mathbf { B } _ { 1 2 }$ ），军曹鱼幼鱼的 SGR及WGR均随着饲料Co含量的增加呈先上升后下降趋势，以 SGR为判据，的Co分别至军曹鱼幼鱼对Co-Cl和Co-Met 形式的 Co 的需要量分别为19.40 和 $1 7 . 7 5 \mathrm { m g / k g }$ 。鱼类对Co的需要量可能受鱼的种类（海水鱼、淡水鱼）、基础饲料中维生素 $\mathbf { B } _ { 1 2 }$ 含量、养殖水体Co含量、Co源种类、鱼的规格、基础饲料组成、评定指标的影响。研究报道，以WGR为判据，点带石斑鱼对Co的需要量为10$\mathrm { m g / k g ^ { [ 2 ] } }$ ；在饲料中缺少维生素 $\mathbf { B } _ { 1 2 }$ 的情况下，草鱼幼鱼获得最佳生长时对饲料中Co 的需要量大约为 $0 . 8 8 \mathrm { m g / k g ^ { [ 2 5 ] } }$ ，在未去维生素 $\mathbf { B } _ { 1 2 }$ 的情况下，对Co的需要量为 $0 . 2 0 \mathrm { m g / k g }$ 。饲料中Co-Met的添加量为 $1 5 \mathrm { m g / k g }$ 时凡纳滨对虾（Penaeusvanmamei）生长最快[26]；尼罗罗非幼鱼对饲料中 Co 的需要量为 $0 . 3 { \sim } 3 . 0 \ \mathrm { m g / k g ^ { [ 2 7 ] } }$ ；牙鲆幼鱼（Paralichthys olivaceus）在基础饲料Co含量为 $1 . 4 3 ~ \mathrm { m g / k g }$ 时Co 的适宜添加量为 $0 . 8 ~ \mathrm { m g / k g }$ 。Co 促进动物生长的主要原因可能为：1）Co促进动物肠道微生物群合成动物生长所需的维生素 $\mathbf { B } _ { 1 2 }$ ，维生素 $\mathbf { B } _ { 1 2 }$ 是造血性维生素，是动物生长所必需的[2.28]；2）Co通过辅酶形式参与机体造血和营养物质（蛋白质、糖类、脂肪）的代谢过程，促进氮的吸收，促进生长[5]；3）适宜含量的Co改善了鱼类肠道组织学结构，保护了鱼类器官组织[7]；4）Co通过影响相关基因的表达，提升动物的抗氧化能力和增强抗炎反应[3,29]。然而，高剂量（ $3 2 \mathrm { m g / k g }$ ）添加组军曹鱼幼鱼的生长性能出现下降，SR 显著降低，这表明军曹鱼幼鱼对该剂量的Co不耐受，这与草鱼试验中0.95 和1.63mg/kg Co组在试验后期生长变缓的结果一致[25]。分析其原因，饲料Co 含量过高可能产生毒性，导致肠道出血或损伤和白血球的异常变化[30]。另外，铁、锰和Co共用部分转运通道，过量增加Co会抑制铁和锰的吸收利用[31-32]。以Co-Met为Co源，SR 在Co-Met-8组显著下降，其他Co-Met 组与C-0 组均无显著差异，WGR 和 SGR 也在该组显著提升，说明 SR 显著降低不是Co含量导致。实际养殖过程中，影响 SR的因素很多，包括饲料质量、具体养殖环境、偶然的病害因素、某种未知的偶然因素等，其原因有待探究。
+
+3.2饲料Co源和Co含量对军曹鱼幼鱼血液学指标的影响
+
+Co 增强机体造血机能的渠道有：1)Co抑制细胞多种重要酶（如细胞色素氧化酶）活性或通过其他方式使机体红细胞生成素（Epo）增多刺激造血；2)适宜含量的Co可以促进铁的吸收，使铁较易进入骨髓利用；3）Co通过维生素 $\mathbf { B } _ { 1 2 }$ 参与核糖核酸及造血有关物质的代谢，作用于造血过程[33]。研究显示，尼罗罗非鱼的红细胞比容、HGB、RBC 均受Co的影响而显著提升[27]；饲料中添加Co可以提高草鱼幼鱼的 HGB、血小板计数(PLT)、HCT 和RBC[25]。Co可以稳定低氧诱导因子低氧诱导因子 $\mathbf { \nabla } \cdot 1 \mathbf { a }$ （HIF-1α），激活促红细胞生成素基因，增强血红蛋白红血球的合成[34]。本试验中，2种Co源下添加不同水平Co后，军曹鱼幼鱼的 RBC、HGB、HCT均有不同程度是上升，与前人研究结果一致。C-0 组军曹鱼幼鱼的各血液学指标均低于各Co添加组，说明海水及基础饲料中的Co并不能满足军曹鱼幼鱼正常生理需要。2种Co源下，添加 $3 2 ~ \mathrm { m g / k g } ~ \mathrm { C o }$ 组的 RBC、HGB、HCT 均比添加 $1 6 ~ \mathrm { m g / k g } ~ \mathrm { C o }$ 组有所下降，说明Co含量过高反而会对造血能力有不利影响。
+
+3.3饲料Co源和Co含量对军曹鱼幼鱼组织Co沉积的影响
+
+鱼类肝脏、肌肉、肾脏、脊椎骨等组织中Co 含量常用来评价营养状况[9,14,29,35-36]。在珍珠龙胆（Epinephelus lanceolatu $\begin{array} { r } { \mathfrak { E } \times E . } \end{array}$ fuscoguttatus早）上的研究表明，肝脏、肠道、脊椎骨、肌肉、全鱼钴沉积量均随Co 含量的增加显著上升，且肝脏沉积速率最快，在最高Co添加组达到最大沉积量 $2 . 2 7 \mathrm { m g / k g ^ { [ 2 9 ] } }$ 。尼罗罗非鱼肝脏Co沉积量随饲料Co含量的增加而显著上升，当饲料中Co含量达到 $2 . 6 7 \mathrm { m g / k g }$ 及以上时Co沉积量稳定在 $1 . 7 3 \mathrm { \ m g / k g ^ { [ 2 7 ] } }$ 。源于Co-Met的饲料Co含量对凡纳滨对虾肌肉和肝胰脏Co含量未产生显著影响，但源于Co-Cl的饲料Co含量对凡纳滨对虾肝胰脏Co含量有显著影响，Co添加量为 $1 5 \mathrm { m g / k g }$ 时，肝胰腺Co含量达到最高值 $6 . 0 5 \mathrm { m g / k g }$ ，显著高于对照组[26]。这些研究结果显示，肝脏Co含量受饲料Co含量的影响。本试验中，军曹鱼幼鱼脊椎骨和全鱼Co含量均随着饲料Co含量的增加而升高，说明组织Co沉积量上升，与前人研究结果基本一致。肝脏通常为营养物质代谢的主要器官，或作为Co的主要储存器官[35。本试验结果显示，肝脏中Co含量不受饲料Co 源和Co含量的显著影响。与前人研究结果比较发现，不同种类鱼肝脏对Co的储存能力不同，军曹鱼幼鱼肝脏Co含量可能较易达到饱和，从而保持平稳。在草鱼幼鱼的结果中也发现，饲料Co含量在 $0 . 1 7 { \sim } 1 . 5 7 \mathrm { m g / k g }$ 时，各组肝脏Co含量无显著差异[25]。这可能也说明鱼类肝脏具有Co稳态调节机制，当其达到饱和时含量不再增加。
+
+3.4不同Co源生物学效价比较
+
+不同矿物元素在机体内的吸收利用通常存在一定的拮抗作用，如铁和铜之间，锌和铁、锰、铜之间，Co 和锰之间等[30.36]。加之，饲料原料中存在的植酸、纤维素和磷酸根等，干扰微量元素的吸收，如白鱼粉中大量的羟磷灰石会降低鱼类对锌的利用[37]。生物学效价常用来比较不同营养物被机体吸收利用的效率[10]。有机螯合物相比无机化合物通常具有较高的生物学效价[12-14]。研究显示，羟基蛋氨酸锰的生物学效价是硫酸锰的 $1 . 0 9 { \sim } 2 . 4 7$ 倍[12]，蛋氨酸锌的生物学效价是硫酸锌的3倍左右[13]，蛋氨酸硒的生物学效价是亚硒酸钠的 $1 . 2 0 \sim$ 2.90 倍[14]。本试验以 SGR、RBC、脊椎骨Co 含量为判据，Co-Met 的生物学效价分别相当于Co-Cl的1.47、1.49、1.12倍。分析其原因，Co-Met是一种新型氨基酸螯合剂，Met 与Co的螯合比为2:1，为无价态的络合物，可以顺利通过富含阴离子的细胞膜；微量元素的氨基酸螯合物可能是以氨基酸形式吸收，避免了微量元素之间的拮抗作用，不仅可以提高Co的利用，还有利其他元素的吸收[29]；同时，Co-Met 也可以提供 Met，而 Met 是鱼类的第一限制性氨基酸。因此，Co-Met具有双重营养功能，能够较好为军曹鱼幼鱼机体利用。
+
+# 4结论
+
+$\textcircled{1}$ 饲料中以Co-CI或Co-Met形式添加适宜水平的Co均有助于提升军曹鱼幼鱼的生长性能、机体造血能力，且Co-Met在促进生长、造血或组织Co沉积方面效率更高。
+
+$\textcircled{2}$ 以SGR为判据时，以Co-Cl和Co-Met为Co源，军曹鱼幼鱼对Co的需要量分别为19.4017.75 mg/kg。
+
+$\textcircled{3}$ 军曹鱼幼鱼对Co-Met的生物学效价为Co-C1的 $1 . 1 2 { \sim } 1 . 4 9$ 倍。
+
+参考文献：
+
+[1] NRC.Nutrient requirementsoffish[S].Washington,D.C.:TheNational Academies Press,1993:16-22.
+
+[2] LIN Y H,WU J Y,SHIAU S Y.Dietary cobalt can promote gastrointestinal bacterial production of vitamin $\mathbf { B } _ { 1 2 }$ insufficient amountsto supplygrowth requirementsof grouper,Epinephelus malabaricus[J].Aquaculture,2010,302(1/2):89-93.
+
+[3]GLADE M J,MEGUID M M.A glance at..antioxidant and antinflammatory properties of dietary cobalt[J].Nutrition,2018,46:62-66.   
+[4]SAPKALE P H,SINGH R K.Dietary zinc and cobalt requirements of fry of seabass (Lates calcarifer) and catfish (Clarias batrachus)[J].The Israeli Journal of Aquaculture2011,63(5):434-447.   
+[5]HERTZ Y,MADAR Z,HEPHER B.et al.Glucose metabolism in the common carp (Cyprinus carpio L.):the effects of cobalt and chromium[J].Aquaculture,1989,76(3/4):255-267.   
+[6]ANADU D I,ANOZIE O C,ANTHONY A D.Growth responses of Tilapia zili fed diets containing various levels of ascorbic acid and cobalt chloride[J].Aquaculture,1990,88(3/4):329-336.   
+[7]MAHMOUD S A.Efect of different artificial diets on growth rate,condition and histological structure of Nile tilapia (Oreochromus niloticus)[J].Acta Biotheoretica,2009,4(3/4):85.   
+[8]ABBAS S,JAVED M.Growth performance of Labeo rohita under chronic dual exposure of water-borne and dietary cobalt[J].Pakistan Journal of Zoology,2016,48(1):257-264.   
+[9]吴凡,袁丹宁,文华,等.不同钴源对草鱼生长性能、组织钴含量和部分血清指标的影响[J]. 西北农林科技大学学报（自然科学版）,2013,41(10):9-13,18.   
+[10]AMMERMAN C B,BAKER D H,LEWIS A J.Bioavailability of nutrients for animals:amino acids,minerals,and vitamins[M].San Diego,CA:Academic Press,1995.   
+[11] FAIRWEATHER-TAIT S J.Bioavailability of dietary minerals[J].Biochemical Society Transactions,1996,24(3):775-780.   
+[12]NIE J Q,DONG X H,TAN B P,et al.Effects of dietary manganese sources and levels on growth performance,relative manganese bioavailability,antioxidant activities and tissue mineral content ofjuvenile cobia (Rachycentron canadum L)[J].Aquaculture Research,2014,47(5):1402-1412.   
+[13]TAN B P,MAI K S.Zinc methionine and zinc sulfate as sources of dietary zinc for juvenile abalone,Haliotis discus hannai Ino[J].Aquaculture,2001,192(1):67-84.   
+[14]杨原志,聂家全,谭北平,等.硒源与硒水平对军曹鱼幼鱼生长性能、肝脏和血清抗氧化指
+
+标及组织硒含量的影响[J].动物营养学报,2016,28(12):3894-3904.
+
+[15]WARD J D,SPEARS J W,KEGLEY E B.Effect of copper level and source (copper lysine vs copper sulfate) on copper status,performance,and immune response in growing steers fed diets with orwithoutsupplementalmolybdenumandsulfur[J].JournalofAnimal Science,1993,71(10):2748-2755.   
+[16] TIFFANY M E,SPEARS J W,XI L,et al.Influence of dietary cobalt source and concentration on performance,vitamin $\mathbf { B } _ { 1 2 }$ status,and ruminal and plasma metabolites in growing and finishing steers[J].Journal of Animal Science,2003,81(12):3151-3159.   
+[17]CHOU R L,SU M S,CHEN H Y.Optimal dietary protein and lipid levels for juvenile cobia (Rachycentron canadum)[J].Aquaculture,2003,193(1/2):81-89.   
+[18]刘迎隆.不同添加量的糖对军曹鱼生长代谢的影响[D].硕士学位论文.青岛:中国海洋大 学,2014.   
+[19]ZHOU Q C,WANG L G,WANG H L,et al.Effect of dietary vitamin C on the growth performance and innate immunity of juvenile cobia (Rachycentron canadum)[J].Fish & Shellfish Immunology,2012,32(6):969-975.   
+[20]刘仙钦.军曹鱼（Rachycentron canadum）幼鱼饲料中适宜磷源、磷水平以及钙磷比研 究[D].硕士学位论文.广州：广东海洋大学，2010.   
+[21]ZHOU Q C,MAI K S,TAN B P,et al.Partial replacement of fishmeal by soybean meal in diets for juvenile cobia (Rachycentron canadum)[J].Aquaculture Nutrition,2015,11(3):175-182. [22] AOAC.Official methods of analysis of the Association of Official Analytical Chemists[S].16th ed.Arlington,VA:ACOC,1995.   
+[23]PARIPATANANONT T,LOVELL R T.Chelated zinc reduces the dietary zinc requirement of channel catfish,Ictalurus punctatus[J].Aquaculture,1995,133(1):73-82.   
+[24]LITTELL R C,HENRY P R,LEWIS A J,et al.Estimation of relative bioavailability of nutrients using SAS procedures[J].Journal of Animal Science,1997,75(10):2672-2683.   
+[25]袁丹宁.饲料中添加钴对草鱼幼鱼生长和生理、生化指标的影响[D].硕士学位论文.武汉: 华中农业大学,2009.   
+[26] 董晓慧,杨原志,郑石轩,等.不同形式钴对凡纳滨对虾生长和组织钴含量的影响[J].广东 海洋大学学报,2006,26(6):8-12.   
+[27]刘伟,文华,蒋明,等.尼罗罗非鱼幼鱼饲料中钴需要量的研究[J].湖北农业科 学,2011,50(19):4021-4025.   
+[28]HALVER J E,SMITH R R,TOLBERT B M,et al.Utilization of ascoibicacid in fish[J].Annals of the New York Academy of Sciences,1975,268:81-102.   
+[29]刘云.珍珠龙胆石斑鱼幼鱼对钴和锰营养需求的研究[D].硕士学位论文.上海:上海海洋 大学,2016.   
+[30] WATANABET,KIRONV,SATOHS,etal.Traceminerals infish nutrition[J].Aquaculture,1997,151(1/2/3/4):185-207.   
+[31]REUBER S,KREUZER M,KIRCHGESSNER M.Interactions of cobalt and iron in absorption and retention[J].Journal of Trace Elements& Electrolytesin Health& Disease,1994,8(3/4):151-158.   
+[32]FEHER M,BARANYAI E,SIMON E,et al.The interactive effect of cobalt enrichment in Artemia onthesurvivalandlarval growthof barramundi,Lates calcarifer[J].Aquaculture,2013,414-415:92-99.   
+[33]丁立,杨崇礼.微量元素钴锰锂与造血[J].国际输血及血液学杂志,1992,15(1):20-22. [34]BREWER K,MAYLIN G A,FENGER C K,et al.Cobalt use and regulation in horseracing:a review[J].Comparative Exercise Physiology,2016,12(1):1-10.   
+[35]HENRY P R,LITTELL R C,AMMERMAN C B.Bioavailability of cobalt sources for ruminants.1.effectsoftimeanddietarycobaltconcentrationontissuecobalt concentration[J].Nutrition Research,1997,17(6):947-955.   
+[36]KINCAID R L,LEFEBVRE L E,CRONRATH J D,et al.Effect of dietary cobalt supplementation on cobalt metabolism and performance of dairy catte[J].Journal of Dairy Science,2003,86(4):1405-1414.   
+[37]SATOH S,TABATA K,TABATA K,et al.Effect of dietary tricalcium phosphate on availability of zinc to rainbow trout[J].Nippon Suisan Gakkaishi,1987,53(7):1199-1205.
+
+Effects of Cobalt Source and Cobalt Content on Growth Performance, Hematological Indexes and Cobalt Accumulation in Tissues of Juvenile Cobia (Rachycentron canadum)
+
+HUANG Qincheng1,2NIE Jiaquan’DONG Xiaohui1,2\*TAN Beiping1,2 CHI Shuyan1,2   
+YANG Qihui1,2LIU Hongyu1,2ZHANG Shuang1,2YANG Yuanzhi' ZHANG Haitao²
+
+(1. Laboratory of Aquatic Animal Nutrition and Feed, Fisheries College, Guangdong Ocean University, Zhanjiang 524088, China; 2. Key Laboratory of Aquatic, Livestock and Poultry Feed Science and Technology in South China, Ministry of Agriculture, Zhanjiang, Guangdong 524000, China)
+
+Abstract: This experiment was carried out to investigate the effects of dietary cobalt (Co) content on growth performance,hematological indexes and Co accumulation in tissues of juvenile cobia (Rachycentron canadum) under two Co sources [cobalt chloride (Co-Cl) and cobalt methionine (Co-Met)],and to compare the bioavailability of Co-Cl and Co-Met. A basal diet was formulated with vitamin-free casein and fish meal as main protein sources,and 11 experimental diets (control diet was shared) were prepared by adding O (control), 2, 4, 8,16 and $3 2 \mathrm { m g / k g }$ Co from Co-Cl and Co-Met,respectively. A total of 990 juvenile cobia with the initial body weight of $2 2 . 1 8 { \pm } 0 . 3 5 )$ g were randomly divided into 11 groups with 3 cages（replicates）.Fish in 3 cages with 30 fish in each cage, were fed a kind of experimental diet to saturation for 1O weeks. The results showed as follows: 1） under two Co sources, the specific growth rate (SGR) and weight gain ratio (WGR) was increased firstly and then decreased with dietary Co content increasing.Dietary Co content extremely significantly affected the WGR， SGR and feed conversion ratio (FCR) $( P { < } 0 . 0 1 )$ ，and the interaction of dietary Co source and Co content significantly afected SGR, WGR and survival rate (SR) $( P { < } 0 . 0 5 )$ ). 2) Dietary Co source extremely significantly affected erythrocyte count (RBC) （204号 $( P { < } 0 . 0 1 )$ ，dietary Co content extremely significantly affected RBC， hemoglobin concentration (HGB) and hematocrit (HCT) $( P { < } 0 . 0 1 )$ ,and the interaction of dietary Co source and Co content extremely significantly affected HCT $( P { < } 0 . 0 1 )$ .3）Dietary Co source extremely significantly affected Co content in vertebra $( P { < } 0 . 0 1 )$ ，dietary $\mathrm { C o }$ content extremely significantly affected Co
+
+content in vertebra and whole body $( P { < } 0 . 0 1 )$ ，and the interaction of dietary Co source and Co content significantly affected Co content in vertebra and whole body $( P { < } 0 . 0 5 )$ . In conclusion, suitable dietary Co content can improve the growth performance and hematopoietic indexes of juvenile cobia, and enhance the Co accumulation in tissues. Using Co-Cl and Co-Met as Co sources,the highest SGR of juvenile cobia can be obtained at the Co content of 17.75 and 19.40 mg/kg,respectively. Base on SGR,RBC and Co content in vertebra, the bioavailability of Co-Met is 1.47,1.49 and 1.12 times that of Co-Cl.   
+Key words: juvenile cobia (Rachycentron canadum); cobalt; growth performance; hematological indexes; cobalt accumulation; bioavailability

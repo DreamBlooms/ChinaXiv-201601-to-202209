@@ -1,0 +1,548 @@
+[
+    {
+        "type": "text",
+        "text": "Fly-Buck拓扑在数码发电机中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜世宇‧单‧梁（南京理工大学自动化学院南京 210094)",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6e52df7dac1625bd4746eaadf00e0f60cd01aa695990a49bf9daf0b247c3776.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜世宇男 1991年生，硕士研究生，研究方向为电力电子与电力传动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：Fly-Buck 拓扑从常规的同步整流降压拓扑演变而来，不需要额外的环路反馈便可获得隔离的电源输出，使用该拓扑可以简化低功率隔离辅助电源的设计过程。本文基于Fly-Buck 拓扑电路，分析研究了Fly-Buck拓扑的工作原理，通过电路仿真证明了理论分析的正确性，并基于Fly-Buck 拓扑电路设计了数码发电机的辅助电源样机，通过实验得到了二次侧的输出特性，验证了该拓扑的可行性和实用性。文中特别分析研究了当一次侧轻载或空载时Fly-Buck 拓扑工作模式对二次侧输出的稳压性能的影响，电路仿真和实验结果表明：Fly-Buck拓扑工作在强迫连续模式下仍能保证二次侧输出具有良好的稳压性能，并跟随一次侧输出。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Fly-Buck同步整流降压拓扑辅助电源 强迫连续模式中图分类号：TM464；TM31",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application Research on Fly-Buck Topology in Digital Generator ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/762621c64d0c445ae9574c17b3927e3d52914e669e4cdc8155e0e499f100d074.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiang Shiyu Shan Liang (Nanjing University of Science and TechnologyNanjing 210094 China ) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单梁男1979年生，副教授，硕士生导师，研究方向为非线性混沌电路的控制与应用研究，交流伺服电机系统的控制及应用等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Fly-Buck topology is evolved from the conventional synchronous rectifier buck topology, and an isolated power output can be obtained without an additional feedback loop, thus using this topology could simplify the design process of low power isolated auxiliary power supply. In this paper,based on the Fly-Buck topology circuit, the working principle of Fly-Buck topology is analyzed,and then the theoretical analysis is proved to be correct by circuit simulations. Finally,a power supply prototype based on Fly-Buck topology circuit has been designed for the half-controlled bridge regulation circuit of digital generator. Experimental results including the second side output characteristics validate the feasibility and practicality of this topology. In this paper, it was especially analyzed and studied that the effects of Fly-Buck topology's operating mode on the second side output regulation performance when the primary load is light or empty. The simulation and experiment results show that Fly-Buck topology could ensure a good regulation performance of the secondary side output and follow the primary output by operating in forced continuous mode. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Fly-Buck, synchronous rectifier buck topology, auxiliary power supply, forced continuous mode ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在许多的电子系统中，例如可编程逻辑控制器、数据采集设备、医疗设备，都需要为电路提供低功率隔离辅助电源以实现电气隔离，保证设备的电气性能且保障操作人员的安全。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般情况下，设计人员会选择反激拓扑来设计低功率隔离的辅助电源[1]，但设计该辅助电源需要计算环路补偿参数，使用光电耦合器实现隔离输出的闭环反馈以及增加缓冲电路保证开关管不被振荡尖峰电压击穿[2]，并且由于二次侧输出续流时的电压折射和振荡尖峰电压[3]，选择的开关管需要有更高的电压裕量。考虑到功率等级、成本、电路复杂度和空间等因素，设计反激拓扑的隔离电源便显得复杂。相对于反激拓扑，该拓扑不需要额外的环路反馈，只需要较少的元件便可以得到隔离的电源输出，占用更小的空间，电路复杂度和成本更低，因此采用Fly-Buck拓扑便会简化隔离辅助电源的设计过程。文献[4]研究了Fly-Buck拓扑在IGBT栅极驱动器电源上的应用，文献[5]分析了Fly-Buck拓扑的工作原理，并推导得出使用该拓扑设计隔离辅助电源的一般步骤，文献[6]在理想条件下分析研究了Fly-Buck拓扑的工作原理并搭建了实验电路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对Fly-Buck拓扑的工作原理进行了分析和研究，完成了电路仿真，基于Fly-Buck拓扑电路为数码发电机的半控桥稳压电路设计搭建了辅助电源样机，并完成了实验测试，实验结果表明，电源样机的二次侧输出具有良好的稳压性能，能够满足半控桥稳压电路对电源的要求。特别分析研究了当辅助电源样机的一次侧输出轻载或空载时，该拓扑的工作模式对二次侧输出的影响。研究表明，当一次侧轻载或空载时，该拓扑工作在强迫连续模式下仍能保证二次侧输出稳定并跟随一次侧输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Fly-Buck拓扑的工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fly-Buck拓扑从常规的同步整流降压拓扑演变而来，只需将常规的同步整流降压拓扑中的电感器替换为带有二次绕组的耦合电感器 $\\mathbf { L } _ { 1 }$ ，增加整流二极管 $\\mathrm { V D } _ { 1 }$ 和滤波电容器 $\\mathrm { C } _ { 3 }$ 便可得到Fly-Buck拓扑， $V _ { \\mathrm { S E C } }$ 是隔离的辅助电源输出，如图1所示。Fly-Buck拓扑的工作原理与常规的同步整流Buck拓扑近似，下面将从工作原理和电路仿真两个方面对该拓扑进行分析研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/594bfc3987d65e436165714b7967ff9a06d9cd2b0a6c15e50acf2df94ef192bc.jpg",
+        "img_caption": [
+            "图1Fly-Buck 拓扑电路 Fig.1Fly-Buck topology circuit "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，开关管 $\\mathrm { V T } _ { 1 }$ 和 $\\mathrm { V T } _ { 2 }$ 由带有死区的互补PWM脉冲驱动，假设其占空比为 $D$ ，周期为 $T$ ；其次，当电路处于稳态时，认为一次侧输出电压 $V _ { \\mathrm { P R I } }$ 和二次侧输出电压 $V _ { \\mathrm { S E C } }$ 均为恒定值。图2为耦合电感器 $\\mathbf { L } _ { 1 }$ 的一、二次绕组的电流波形，其中， $i _ { L P }$ 为一次绕组电流， $i _ { L S }$ 为二次绕组电流， $\\nu _ { \\mathrm { H D R V } }$ 为开关管$\\mathrm { V T } _ { 1 }$ 栅极PWM脉冲驱动电压。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2c49006b7a1f75147d848e8712c3e5f6a40156e5f966bc0140db735d15f1623.jpg",
+        "img_caption": [
+            "图2绕组电流 $i _ { L P }$ 、 $i _ { L S }$ 的波形图",
+            "Fig.2Waveforms of winding current $i _ { L P }$ and $i _ { L S }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "工作原理如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）在 $0 \\sim D T$ 时间段内，开关管 $\\mathrm { V T } _ { 1 }$ 导通而开关管 $\\mathrm { V T } _ { 2 }$ 关断，耦合电感器 $\\mathbf { L } _ { 1 }$ 一次绕组的同名端电位高于其异名端，耦合电感器 $\\mathbf { L } _ { 1 }$ 储存能量，此时整流二极管 $\\mathrm { V D } _ { 1 }$ 反向偏置，二次侧回路等效断路，该拓扑的等效电路如图3所示，因此可将耦合电感器 $\\mathbf { L } _ { 1 }$ 看作只有一个绕组的电感器，一次绕组电流$i _ { \\scriptscriptstyle L P }$ 线性增加，其关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { L P } \\frac { \\mathrm { d } i _ { L P } } { \\mathrm { d } t } = V _ { \\mathrm { I N } } - V _ { \\mathrm { P R I } } \\quad ( 0 < t \\leqslant D T )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $L _ { \\mathrm { L P } }$ 为耦合电感器 $\\mathrm { L } _ { 1 }$ 一次绕组的电感值； $V _ { \\mathrm { I N } }$ 为直流电源输入电压。此时整流二极管 $\\mathrm { V D } _ { 1 }$ 承受的反向电压 $\\nu _ { \\mathrm { ~ \\tiny ~ R ~ } }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { R } } = ( V _ { \\mathrm { I N } } - V _ { \\mathrm { P R I } } ) \\frac { N _ { \\mathrm { S } } } { N _ { \\mathrm { P } } } + V _ { \\mathrm { S E C } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $N _ { \\mathrm { P } }$ 为耦合电感器 $\\mathbf { L } _ { 1 }$ 一次绕组的匝数； $N _ { \\mathrm { S } }$ 为耦合电感器 $\\mathbf { L } _ { 1 }$ 二次绕组的匝数。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/63e9cb683f3fb4feb9b750f09a6a09f3790565ab37a266eedd627365c15c306f.jpg",
+        "img_caption": [
+            "图3在 $0 \\sim D T$ 时间段内的等效拓扑电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）在 $D T \\sim T$ 时间段内，开关管 $\\mathrm { V T } _ { 1 }$ 关断而开关管 $\\mathrm { V T } _ { 2 }$ 导通，耦合电感器 $\\mathbf { L } _ { 1 }$ 一次绕组的异名端电位高于其同名端，一次绕组两端的电压差为 $V _ { \\mathrm { P R I } }$ 此时整流二极管 $\\mathrm { V D } _ { 1 }$ 正向导通，图4为在该时间段内 Fly-Buck拓扑的等效电路，二次侧回路的等效电路如图5所示。其中， $L _ { \\mathrm { L K } }$ 为耦合电感器 $\\mathrm { L } _ { 1 }$ 的漏电感折算到二次侧的电感值， $V _ { \\mathrm { F } }$ 为整流二极管 $\\mathrm { V D } _ { 1 }$ 的正向导通压降， $I _ { \\mathrm { s } }$ 为二次侧输出电流。认为 $V _ { \\mathrm { P R I } }$ $V _ { \\mathrm { S E C } }$ 和 $V _ { \\mathrm { F } }$ 均为恒定值，忽略线路的等效电阻，近似线性化可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { L K } } \\frac { \\mathrm { d } i _ { L S } } { \\mathrm { d } t } = V _ { \\mathrm { P R I } } \\frac { N _ { \\mathrm { S } } } { N _ { \\mathrm { P } } } - V _ { \\mathrm { F } } - V _ { \\mathrm { S E C } } \\quad ( D T < t \\leqslant T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1185fc40a4a7562810fb4678a49302afed3f54b65a92041df1881de95eff6af.jpg",
+        "img_caption": [
+            "Fig.3Equivalent topology circuit in $0 \\sim D T$ period ",
+            "图4在 $D T \\sim T$ 时间段内的等效拓扑电路",
+            "Fig.4Equivalent topology circuit in $D T \\sim T$ period "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c407978049ee8dc359d1d1b4bd5a4713ad058365f9c833bc38720d57644563d3.jpg",
+        "img_caption": [
+            "图5二次侧回路的等效电路",
+            "Fig.5Equivalent circuit of the secondary side circuit "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（2）可知，二次绕组电流 $i _ { L S }$ 线性增加，则二次侧输出电流 $I _ { \\mathrm { S } }$ 与二次绕组电流 $i _ { L S }$ 之间的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 2 } \\frac { T - D T } { T } i _ { L S \\operatorname* { m a x } } = I _ { \\mathrm { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $i _ { L S \\mathrm { m a x } }$ 为 $T$ 时刻的二次绕组电流 $i _ { L S }$ 的最大值。因此，可得二次绕组电流 $i _ { L S }$ 与时间的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { _ { L S } } = \\left\\{ \\begin{array} { l l } { { 0 } } & { { ( 0 < t \\leqslant D T ) } } \\\\ { { } } & { { { 2 I _ { \\mathrm { s } } } } } \\\\ { { ( 1 - D ) ^ { 2 } T } } & { { ( D T < t \\leqslant T ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当电路处于稳态时，耦合电感器 $\\mathbf { L } _ { 1 }$ 在一个开关周期内储存的能量与释放的能量相等，由伏秒平衡原则可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { \\displaystyle { { \\cal L } _ { \\mathrm { P } } } \\frac { \\mathrm { d } i _ { L P } } { \\mathrm { d } t } = { \\cal V } _ { \\mathrm { I N } } - { \\cal V } _ { \\mathrm { P R I } } \\quad ( 0 < t \\leqslant D T ) } } \\\\ { { \\displaystyle { \\cal L } _ { \\mathrm { P } } \\frac { \\mathrm { d } \\left( i _ { L P } + i _ { L S } \\frac { { \\cal N } _ { \\mathrm { S } } } { { \\cal N } _ { \\mathrm { P } } } \\right) } { \\mathrm { d } t } = - { \\cal V } _ { \\mathrm { P R I } } \\quad ( D T < t \\leqslant T ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对应的时间区间内积分，可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { L _ { \\mathrm { P } } \\Delta I _ { L P } = ( V _ { \\mathrm { I N } } - V _ { \\mathrm { P R I } } ) D T } \\\\ { - L _ { \\mathrm { P } } \\Delta I _ { L P } = - V _ { \\mathrm { P R I } } ( T - D T ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化简可得输入电压 $V _ { \\mathrm { I N } }$ 与一次侧输出电压 $V _ { \\mathrm { P R I } }$ 之间的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { P R I } } = D V _ { \\mathrm { I N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，在 $D T \\sim T$ 时间段内，耦合电感器 $\\mathrm { L } _ { 1 }$ 一次绕组电流 $i _ { L P }$ 的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { P } } \\frac { \\mathrm { d } i _ { L P } } { \\mathrm { d } t } = - L _ { \\mathrm { P } } \\frac { N _ { \\mathrm { S } } } { N _ { \\mathrm { P } } } \\frac { \\mathrm { d } i _ { L S } } { \\mathrm { d } t } - V _ { \\mathrm { P R I } } \\quad ( D T < t \\leqslant T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当耦合电感器 $\\mathrm { L } _ { 1 }$ 的漏电感 $L _ { \\mathrm { L K } }$ 较小或二次侧输",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "出电流 $I _ { \\mathrm { S E C } }$ 较小时，式（2）左侧的乘积项近似为零，整理可得一次侧输出电压 $V _ { \\mathrm { P R I } }$ 与二次侧输出电压 $V _ { \\mathrm { S E C } }$ 的关系为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { S E C } } = V _ { \\mathrm { P R I } } \\frac { N _ { \\mathrm { s } } } { N _ { \\mathrm { p } } } - V _ { \\mathrm { F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式（5）代入式（1）中，整理得到整流二极管 $\\mathrm { V D } _ { 1 }$ 承受的反向电压 $V _ { \\mathrm { ~ R ~ } }$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { _ R } } = V _ { \\mathrm { I N } } { \\frac { N _ { \\mathrm { s } } } { N _ { \\mathrm { p } } } } { - } V _ { \\mathrm { _ F } } \\approx V _ { \\mathrm { I N } } { \\frac { N _ { \\mathrm { s } } } { N _ { \\mathrm { p } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由以上分析可知，二次侧的输出电压 $V _ { \\mathrm { S E C } }$ 不需要额外的反馈环路便可以得到稳定的输出，并且当耦合电感器 $\\mathrm { L } _ { 1 }$ 的漏电感 $L _ { \\mathrm { L K } }$ 较小或二次侧输出电流 $I _ { \\mathrm { S E C } }$ 较小时，该输出能够紧密跟随一次侧的输出电压 $V _ { \\mathrm { P R I } }$ ；反激拓扑中的开关管关断时所承受的电压为 $V _ { \\mathrm { { I N } } } + V _ { \\mathrm { { S E C } } } N _ { \\mathrm { { P } } } / N _ { \\mathrm { { S } } }$ ，而 Fly-Buck 拓扑中的开关管 $\\mathrm { V T } _ { 1 }$ 和 $\\mathrm { V T } _ { 2 }$ 关断时所承受的电压为 $V _ { \\mathrm { I N } } < V _ { \\mathrm { I N } } +$ $V _ { \\mathrm { S E C } } N _ { \\mathrm { P } } / N _ { \\mathrm { S } }$ ，因而可以选择更低电压规格的开关管，并且还不需要为开关管设计缓冲电路。因此，该拓扑相比于反激拓扑只需要较少的元件便可以得到隔离的输出，具有低成本、占用空间小和电路结构简单的优点。为了获得多组的隔离输出，只需要在耦合电感器 $\\mathbf { L } _ { 1 }$ 增加对应的绕组和整流滤波电路，以上的理论分析依然成立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fly-Buck拓扑中的开关管 $\\mathrm { V T } _ { 1 }$ 和 $\\mathrm { V T } _ { 2 }$ 由带有死区的互补PWM脉冲驱动，当一次侧输出空载或者负载较轻而二次侧有负载时，由式（4）可知，在$D T \\sim T$ 时间段内耦合电感器 $\\mathrm { L } _ { 1 }$ 的一次绕组电流 $i _ { \\scriptscriptstyle L P }$ 将减少到零并反向增加，如图2所示。此时，Fly-Buck拓扑工作在强迫连续模式[下，耦合电感器$\\mathbf { L } _ { 1 }$ 在 $0 \\sim D T$ 时间段内储存的能量已全部释放，由一次侧输出向二次侧输出提供能量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显然，当一次侧空载或者轻载时，Fly-Buck 拓扑工作在强迫连续模式才能保证二次侧输出电压稳定并跟随一次侧输出的电压，式（5）才会成立；否则，变换器将工作在电流断续状态，一次侧输出无法向二次侧输出提供能量，二次侧输出电压会出现较大的跌落。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，在实际应用Fly-Buck拓扑设计低功率隔离的辅助电源时，必须选择能够工作在强迫连续模式下的同步整流控制器，可以保证当耦合电感器 $\\mathbf { L } _ { 1 }$ 的一次绕组电流 $i _ { \\scriptscriptstyle L P }$ 减小到零时开关管 $\\mathrm { V T } _ { 2 }$ 仍然保持导通，一次绕组电流 $i _ { L P }$ 能通过开关管 $\\mathrm { V T } _ { 2 }$ 的导通沟道反向流动并增加，此时由一次侧输出向二次侧输出提供能量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Fly-Buck拓扑的电路仿真 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据上节的理论分析，设计搭建了Fly-Buck的拓扑的仿真电路，仿真电路如图6所示。电路的仿",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Vi⑤ C100uF C1.5μF R243kΩ C8100pF SD,1N5819 Ci s:(CTs) ? 本 A ? L 100uF 51 V(PRI):4 2 C600pF R4 SS_SD COMP MODEL LBP10 PGND BPP555414 C2.2nF 330uF1uF C14 ① U1 TPS40057_TRANS C7 C9 Cy R104.7Ω 30.1kΩ2.7nF 100nF 1μF 2.2nF C 82pF R7.87kΩ $R _ { 3 }$ （20 CR7 R11 1.27kΩ 10nF 100Ω 20Ω ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "真结果证明了上节理论分析的正确性，验证了拓扑的可行性和实用性，还得到了当仿真电路处于稳态时，Fly-Buck拓扑工作在连续模式和强迫连续模式下的耦合电感器绕组的电流波形。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真电路的主要参数为：电源输入电压 $V _ { \\mathrm { I N } } =$ 24V，一次侧输出电压 $V _ { \\mathrm { P R I } } = 5 \\mathrm { V }$ ，PWM驱动脉冲周期 $T = 3 . 4 \\mu \\mathrm { s }$ ，整流二极管 $\\mathrm { V D } _ { 1 }$ 的正向导通压降 $\\begin{array} { r } { V _ { \\mathrm { F } } = } \\end{array}$ $0 . 5 \\mathrm { V }$ ；耦合电感器 $\\mathbf { L } _ { 1 }$ 一次绕组的电感值 $L _ { \\mathrm { L P } } { = } 2 5 \\mathrm { u H }$ 耦合电感器 $\\mathbf { L } _ { 1 }$ 的漏电感二次侧折算值 $L _ { \\mathrm { L K } } = 3 . 6 \\mathrm { u H }$ 二次侧的输出电压设计为 $5 \\mathrm { V }$ ，二次侧的负载为恒流型负载，其恒流值为 $2 0 0 \\mathrm { m A }$ ；考虑到整流二极管的正向导通压降，耦合电感器 $\\mathbf { L } _ { 1 }$ 的匝数比 $N _ { \\mathrm { P } } / N _ { \\mathrm { S } }$ 设计为 $5 / 6$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7和图8分别为仿真电路处于稳态时FlyBuck变换器工作在连续模式和强迫连续模式下耦合电感器 $\\mathrm { L } _ { 1 }$ 的一、二次绕组的电流波形图。其中，当Fly-Buck变换器工作在连续模式时，一次侧输出电流 $I _ { \\mathrm { P } } = 1 \\mathrm { A }$ ，二次侧输出电流 $I _ { \\mathrm { S } } = 2 0 0 \\mathrm { m A }$ ，二次侧输出电压 $V _ { \\mathrm { S E C } } = 5 . 1 1 \\mathrm { V }$ ；当Fly-Buck变换器工作在强迫连续模式时，一次侧输出电流 $I _ { \\mathrm { P } } = 0$ ，二次侧输出电流 $I _ { \\mathrm { S } } { = } 2 0 0 \\mathrm { m A }$ ，二次侧输出电压 $V _ { \\mathrm { S E C } } = 5 . 0 9 \\mathrm { V }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电路仿真的波形和结果很好地验证了上文对 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b6676434f5ca328b638ffc21766a95b84e4e1b729afbff338002c092653e475.jpg",
+        "img_caption": [
+            "图7连续模式下电流的仿真波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1754fdc578e4f48612cc62ca3bc7267e9cce3ef6972e09294056e7fec37c696c.jpg",
+        "img_caption": [
+            "Fig.7Simulation current waveforms in continuous mode "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fly-Buck拓扑工作原理的理论分析；二次侧的输出几乎没有受到一次侧输出的影响，并且当一次侧输出空载时，由于Fly-Buck变换器工作在强迫连续模式，二次侧输出仍可跟随一次侧输出并保持稳定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Fly-Buck拓扑在半控桥稳压电路中的应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上文的理论分析和电路仿真，基于Fly-Buck拓扑电路为数码发电机的半控桥稳压电路设计搭建了辅助电源样机，并测量了电源样机工作在连续模式和强迫连续模式的电流波形，还得到了在两种工作模式下的二次侧输出电压 $V _ { \\mathrm { S E C } }$ 与二次侧输出电流 $I _ { \\mathrm { s } }$ 之间关系的多组数据，数据表明，二次侧输出电流 $I _ { \\mathrm { S } }$ 在 $0 \\sim 5 0 0 \\mathrm { m A }$ 的范围内，二次侧输出的负载调整率小于 $\\pm 5 \\%$ ，稳压性能良好，能够满足半控桥稳压电路对辅助电源的要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数码发电机主要由汽油机、中频发电机和逆变器组成，逆变器将发电机输出的三相交流电经过AC-DC-AC 环节得到所需要的交流输出[8-9]，逆变器中的AC-DC环节如图9所示，其中，U、V、W为发电机的三相交流高压输出；A、B为发电机的单相低压输出。半控桥稳压电路通过采样直流母线电压与基准电压滞环比较后输出单相晶闸管$\\mathrm { V T } _ { 1 }$ ， $\\mathrm { V T } _ { 2 }$ ， $\\mathrm { V T } _ { 3 }$ 的触发脉冲，使直流母线电压 $V _ { \\mathrm { B U S } }$ 稳定在 $4 0 0 \\mathrm { V }$ 左右。因此，半控桥稳压电路的参考地 $\\mathrm { G N D } _ { 1 }$ 与辅助电源电路的参考地 $\\mathrm { G N D } _ { 0 }$ 之间存在$4 0 0 \\mathrm { V }$ 的电压差，需要辅助电源电路为半控桥稳压电路提供隔离的电源输出 $V _ { \\mathrm { S E C } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/627ff0eb62a446d08f0710c9ad0ed4af66a72a5285b348575a2878bc85747802.jpg",
+        "img_caption": [
+            "图8强迫连续模式下电流的仿真波形 Fig.8 Simulation current waveforms in forced continuous mode ",
+            "图9数码发电机的AC-DC环节Fig.9 AC-DC link of digital generator"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现有的方案是使用成品的隔离电源模块获得隔离的电源输出 $V _ { \\mathrm { S E C } } ^ { [ 1 0 ] }$ ，优点是可以简化辅助电源的设计过程，电路结构简单，但是逆变器的总体成本较高。为了降低成本，基于Fly-Buck拓扑电路设计了半控桥稳压电路的辅助电源样机，图10为电源样机的实物图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d79a9d9ca59274f6a08b9ca4637e20b79655348f9e893048a3099fd676e7f7c4.jpg",
+        "img_caption": [
+            "图10 辅助电源样机"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "辅助电源相关设计参数要求如下：直流电输入压 $V _ { \\mathrm { I N } }$ 在 $1 0 \\sim 2 4 \\mathrm { V }$ 之间变化；二次侧输出电压 $V _ { \\mathrm { S E C } }$ 为5V，半控桥稳压电路所消耗的电流 $I _ { \\mathrm { S } }$ 范围为$2 5 \\sim 1 7 0 \\mathrm { m A }$ ；一次侧输出电压 $V _ { \\mathrm { P R I } }$ 为5V，该输出的负载电流 $I _ { \\mathrm { P } }$ 变化范围为 $5 0 0 \\mathrm { ~ \\sim ~ } 1 ~ 3 0 0 \\mathrm { m A }$ 。设计的电源样机电路的主要参数见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/35c38d76d2e493f3d2dee94b300268f61fb8f5ee0986619a03fdb337a5de694f.jpg",
+        "table_caption": [
+            "表1辅助电源样机的主要参数",
+            "Tab.1Key parameters for auxiliary power supply prototype "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>PWM驱动脉冲周期T/us</td><td>3.3</td></tr><tr><td>整流二极管VD的正向导通压降VF/V</td><td>0.5</td></tr><tr><td>输入滤波电容器C的电容值/uF</td><td>470</td></tr><tr><td>输出滤波电容器C的电容值/uF</td><td>470</td></tr><tr><td>输出滤波电容器C的电容值/uF</td><td>220</td></tr><tr><td>耦合电感器L的一次绕组电感值LLp/μH</td><td>5.4</td></tr><tr><td>耦合电感器L的漏电感的折算值LLk/uH</td><td>0.6</td></tr><tr><td>耦合电感器L的一次侧绕组匝数 NP</td><td>9</td></tr><tr><td>耦合电感器L的二次侧绕组匝数 Ns</td><td>10</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图11和图12分别为辅助电源样机工作在连续模式和强迫连续模式下耦合电感器 $\\mathbf { L } _ { 1 }$ 的一、二次绕组的电流波形图。在两种工作模式下，辅助电源样机的输入电压 $V _ { \\mathrm { I N } } = 2 4 \\mathrm { V }$ ；当样机工作在连续模式时，一次侧输出电流 $I _ { \\mathrm { P } } = 1 . 7 0 \\mathrm { A }$ ，一次侧输出电压$V _ { \\mathrm { P R I } } = 5 \\mathrm { V }$ ，二次侧输出电流 $I _ { \\mathrm { S } } = 0 . 5 0 \\mathrm { A }$ ，二次侧输出电压 $V _ { \\mathrm { S E C } } = 4 . 8 2 \\mathrm { V }$ ；当样机工作在强迫连续模式时，一次侧输出电流 $I _ { \\mathrm { P } } = 0$ ，一次侧输出电压 $V _ { \\mathrm { P R I } } = 5 \\mathrm { V }$ 二次侧输出电流 $I _ { \\mathrm { S } } = 0 . 5 0 \\mathrm { A }$ ，二次侧输出电压 $V _ { \\mathrm { S E C } } =$ $4 . 7 6 \\mathrm { V }$ 。从电流波形和电压数据可以看出，无论电源样机工作在连续模式还是强迫连续模式下，二次绕组电流 $i _ { L S }$ 的波形几乎没有发生变化，二次侧输出电压 $V _ { \\mathrm { S E C } }$ 没有受到一次侧负载电流 $I _ { \\mathrm { P } }$ 的影响，仍能保持稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/78adf0ced92a2df6545d0f02880432674aee440fce4eda9b0a568ff143011acc.jpg",
+        "img_caption": [
+            "图11连续模式下电流的实测波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60091cc68d950954a24ffd3aae59f6e20446130bfae46e4daa56efd21c0c0ec4.jpg",
+        "img_caption": [
+            "Fig.10Auxiliary power supply prototype ",
+            "Fig.11Measured current waveforms in continuous mode ",
+            "图12强迫连续模式下电流实测波形 Fig.12Measured current waveforms in forced continuous mode "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然而在电源样机电路中，由于输出滤波电容器$C _ { 2 }$ 、 $C _ { 3 }$ 的串联等效电阻、线路的阻抗和耦合电感器$\\mathrm { L } _ { 1 }$ 绕组的电阻均不可忽略以及输出滤波电容器 $C _ { 2 }$ ，$C _ { 3 }$ 的电压并非为恒定值，因此在 $D T \\sim T$ 时间段内,耦合电感器 $\\mathrm { L } _ { 1 }$ 的绕组电流 $i _ { \\scriptscriptstyle L P }$ 和 $i _ { L S }$ 并未完全按照如式（2）的线性规律变化，但式（5）以及式（4）中$i _ { \\scriptscriptstyle L P }$ 与 $i _ { L S }$ 的关系依然成立。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由式（2）可知，随着二次侧输出电流 $I _ { \\mathrm { S } }$ 的增加，由于漏电感 $L _ { \\mathrm { L K } }$ 的存在，按式（5）计算得到的二次侧输出电压 $V _ { \\mathrm { S E C } }$ 会略有下降。因此，通过实验测得了电源样机工作在两种模式下二次侧输出电压与电流之间的多组数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2为电源样机工作在两种模式下二次侧输出电压 $V _ { \\mathrm { S E C } }$ 与二次侧输出电流 $I _ { \\mathrm { S } }$ 的对应关系。其中，当电源样机工作在连续模式时，一次侧输出电流 $I _ { \\mathrm { P } } =$ 1.70A，一次侧输出电压 $V _ { \\mathrm { P R I } } = 5 \\mathrm { V }$ ；当电源样机工作在强迫连续模式时，一次侧输出空载，一次侧输出电压 $V _ { \\mathrm { P R I } } { = } 5 \\mathrm { V }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表2中的数据可以看出，当一次侧输出空载",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2二次侧输出电压与二次侧输出电流的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4c11ab695d1e906f96c5e890c59d09de641cf60189c5751fa9c432dfb699322.jpg",
+        "table_caption": [
+            "Tab.2Relationship between the secondary side output voltage and the secondary side output current "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>二次侧输出</td><td>连续模式下二次侧</td><td>强迫连续模式下二次侧</td></tr><tr><td>电流Is/mA 0</td><td>输出电压VSEc/V</td><td>输出电压VSEC/V</td></tr><tr><td>50</td><td>5.22</td><td>5.20</td></tr><tr><td></td><td>5.14</td><td>5.08</td></tr><tr><td>100</td><td>5.09</td><td>5.02</td></tr><tr><td>150</td><td>5.06</td><td>4.99</td></tr><tr><td>200</td><td>5.02</td><td>4.95</td></tr><tr><td>250</td><td>4.98</td><td>4.92</td></tr><tr><td>300</td><td>4.94</td><td>4.88</td></tr><tr><td>350</td><td>4.91</td><td>4.85</td></tr><tr><td>400</td><td>4.88</td><td>4.82</td></tr><tr><td>450</td><td>4.85</td><td>4.79</td></tr><tr><td>500</td><td>4.82</td><td>4.76</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "时，电源样机工作强迫连续模式，二次侧输出电压$V _ { \\mathrm { S E C } }$ 仍保持稳定，几乎没有受到一次侧输出电流 $I _ { \\mathrm { P } }$ 的影响；随着二次侧输出电流 $I _ { \\mathrm { S } }$ 的增加，由于漏电感 $L _ { \\mathrm { L K } }$ 的存在，式（2）左侧的乘积项不能被忽略，二次侧输出电压略有下降，但仍保证了二次侧输出电流 $I _ { \\mathrm { S } }$ 在 $0 \\sim 5 0 0 \\mathrm { m A }$ 的范围内，二次侧输出的负载调整率小于 $\\pm 5 \\%$ ，仍有良好的稳压性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，设计的辅助电源样机能够满足半控桥稳压电路对于辅助电源的电压和电流要求，电源样机在降低逆变器成本的同时并未增加电路的复杂程度，只要将原辅助电源方案中同步降压拓扑的电感器更换为带辅助绕组的耦合电感器，并增加对应的整流滤波电路便可得到隔离的电源输出，具有电路结构简单、占用空间小和低成本的优点。在实际应用中，为了使二次侧输出的负载调整率更小，应尽量保持漏电感 $L _ { \\mathrm { L K } }$ 在较小的数值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文分析研究了Fly-Buck拓扑的工作原理，并通过电路仿真验证了理论分析的正确性，并基于Fly-Buck拓扑电路为数码发电机的半控桥稳压电路设计了辅助电源样机。试验结果表明，设计的样机的二次侧输出在一定的负载电流范围内有良好的稳压性能，能够满足半控稳压电路的对辅助电源的要求。特别分析研究了当一次侧输出空载或轻载时该拓扑的工作模式对二次侧稳压的影响，研究表明：Fly-Buck拓扑通过工作在强迫连续模式仍可保证二次侧输出稳定，几乎没有受到一次侧负载的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在理论分析的基础上，仿真和实验结果表明：不需要针对二次侧输出增加额外的反馈回路，Fly-Buck拓扑便可得到稳定二次侧输出；当该拓扑的一次侧输出空载或轻载时，Fly-Buck拓扑工作在强迫换流模式下仍可保证二次侧输出稳定。因此，Fly-Buck拓扑可以简化低功率隔离辅助电源的设计过程，具有低成本、占用空间小和电路结构简单的优点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Sanjaya Maniktala. Switching Power Suppliers A toZ[M]. USA: Elsevier,1999.  \n[2] 张兰红，陈道炼．反激变换器开关应力抑制技术的研究[J]．电力电子技术，2002，36(2)：29-31.Zhang Lanhong, Chen Daolian. Research on switchstress supression technique of flyback converters[J].Power Electronics,2002,36(2): 29-31.  \n[3] 柳树生，曹晓生，马一博．RCD钳位反激变换器的回馈能耗分析[J]．电机工程学报，2010,30(33): 9-15.Liu Shusheng, Cao Xiaosheng,Ma Yibo. Design andanalysis on feedback energy loss of RCD clampingflyback converters[J]. Proceedings of the CSEE,2010,30(33): 9-15.  \n[4] Xiang Fang, Yu Meng. Isolated bias power supply forIGBT gate drivers using the fly-buck converter[C].IEEE Applied Power Electronics Conference andExposition,2015: 2373-2379.  \n[5] Fang Xiang, Liu Wei, Chadaga Anoop.Fly-buck addswell-regulated isolated outputs to a buck withoutoptocouplers[OL]. EDN Network,2014.https://www.edn.com/design/power-management/4429791/Product-How-to--Fly-Buck-adds-well-regulated-isolated-outputs-to-a-buck-without-optocouplers-.  \n[6] 周岩，王柏林，王梦婷．一种同步整流Buck-Flyback拓扑的研究[J]．电力电子技术，2010,44(1): 39-40.Liu Yan, Wang Bolin, Wang Mengting. Study ofa synchronous rectifier buck-flyback topology[J].Power Electronics,2010,44(1): 39-40.  \n[7] 刘松．Buck变换器轻载时三种工作模式原理与应用[J]．电力电子技术，2007，41(11)：75-76.Liu Song.The principle and application of threeoperation modes of buck converter at light load[J].Power Electronics,2007,41(11): 75-76.  \n[8] 陈仁武．小型数码发电机智能控制器的研发[D].杭州：浙江大学，2012.  \n[9] 傅胜阳．汽油发电机组逆变器和控制器的研究[D].杭州：浙江大学，2007.  \n[10] 刘艳．数码发电机整流电源的控制技术研究[D].重庆：重庆大学，2010.  \n[11] 於岳祥，王青，柯贤波，等．汽轮发电机失磁保护典型判据的适应性仿真研究[J]．电气应用，2016，35(19):88-93.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

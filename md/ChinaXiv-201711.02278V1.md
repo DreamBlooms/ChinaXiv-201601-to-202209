@@ -1,0 +1,289 @@
+M. Ablikim1, M. N. Achasov $^ { 9 , e }$ , S. Ahmed14, X. C. Ai $^ { 1 }$ , O. Albayrak $^ { 5 }$ ,M.Albrecht $^ 4$ , D. J. Ambrose $^ { 4 4 }$   
+A. Amoroso $^ { 4 9 A , 4 9 C }$ ,F. F. An1, Q. An $^ { 4 6 , a }$ , J. Z. Bai1, O. Bakina $^ { 2 3 }$ ,R. Baldini Ferroli $2 0 A$ ,Y. Ban31,   
+D. W. Bennett $^ { 1 9 }$ , J. V. Bennett $^ { 5 }$ ,N. Berger $^ { 2 2 }$ ,M. Bertani $2 0 A$ ,D.Bettoni $2 1 A$ , J. M. Bian $^ { 4 3 }$ ,F.Bianchi $^ { 4 9 A , 4 9 C }$ ，   
+E.Boger ${ } ^ { 2 3 , c }$ ,1. Boyko $^ { 2 3 }$ ,R. A. Briere $^ { 5 }$ ,H.Cai $^ { 5 1 }$ ,x.Cai $^ { 1 , a }$ ,0.Cakir $^ { 4 0 A }$ , A. Calcaterra $2 0 A$ , G. F. Cao $^ { 1 }$ ，   
+S. A. Cetin $^ { 4 0 B }$ , J. Chai $^ { 4 9 C }$ , J. F. Chang $^ { 1 , a }$ ,G. Chelkov $_ { \cdot 2 3 , c , d }$ ,G. Chen1, H.S.Chen1,J. C. Chen1,M.L. Chen $_ { . } { } ^ { 1 , a }$ ，   
+S. Chen $^ { 4 1 }$ , S. J. Chen $^ { 2 9 }$ , X. Chen $_ { . } { } ^ { 1 , a }$ , X. R. Chen26, Y. B. Chen $^ { 1 , a }$ , X. K. Chu31, G. Cibineto $2 1 A$ ,H. L. Dai $^ { 1 , a }$ ，   
+J. P. Dai $^ { 3 4 , j }$ ,A. Dbeyssi $^ { 1 4 }$ , D. Dedovich $^ { 2 3 }$ , Z. Y. Deng1, A. Denig $^ { 2 2 }$ , I. Denysenko $^ { 2 3 }$ ， M. Destefanis $^ { 4 9 A , 4 9 C }$ ，   
+F. De Mori $^ { 4 9 A , 4 9 C }$ ,Y. Ding $^ { 2 7 }$ ,C. Dong30, J. Dong $^ { 1 , a }$ ,L. Y. Dong1, M. Y. Dong $^ { 1 , a }$ ,Z. L. Dou $^ { 2 9 }$ , S. X. Du $^ { 5 3 }$   
+P.F. Duan1,J. Z.Fan39,J.Fang $^ { 1 , a }$ , S. S. Fang1, X. Fang $^ { 4 6 , a }$ , Y. Fang1, R. Farinelli $^ { 2 1 A , 2 1 B }$ ,L. Fava $^ { 4 9 B } _ { \cdot }$ 49C   
+S.Fegan $^ { 2 2 }$ ,F.Feldbauer $^ { 2 2 }$ ，G. Felici $2 0 A$ ,C. Q. Feng $^ { 4 6 , a }$ ,E.Fioravanti $2 1 A$ ,M.Fritsch $^ { 1 4 , 2 2 }$ , C. D. Fu $^ 1$ ，Q. Gao $^ 1$ ，   
+X. L. Gao $^ { 4 6 , a }$ ,Y. Gao $^ { 3 9 }$ ,Z. Gao $^ { 4 6 , a }$ ,I. Garza $2 1 A$ , K. Goetzen10, L. Gong $^ { 3 0 }$ ,W. X. Gong $^ { 1 , a }$ ,W. Gradl $^ { 2 2 }$   
+M. Greco $^ { 4 9 A , 4 9 C }$ ,M. H. Gu $^ { 1 , a }$ ,Y. T.Gu $^ { 1 2 }$ , Y. H. Guan1, A. Q. Guo $^ 1$ ,L. B. Guo $^ { 2 8 }$ ,R. P. Guo $^ 1$ , Y. Guo1,   
+Y. P. Guo $^ { 2 2 }$ , Z. Haddadi $^ { 2 5 }$ ，A.Hafner $^ { 2 2 }$ , S. Han51,X. Q. Hao15,F. A. Harris $^ { 4 2 }$ , K. L. Hel, F. H. Heinsius4,   
+T. Held $^ 4$ , Y. K. Heng $^ { 1 , a }$ , T. Holtmann $^ 4$ , Z. L. Hou $^ { 1 }$ ,C. Hu $^ { 2 8 }$ ,H. M. Hu $^ { 1 }$ ,T.Hu $^ { 1 , a }$ ,Y. Hu $^ { 1 }$ , G. S. Huang $^ { 4 6 , a }$   
+J. S. Huang $^ { 1 5 }$ , X. T. Huang $^ { 3 3 }$ , X. Z. Huang29, Z. L. Huang $^ { 2 7 }$ ,T.Hussain $^ { 4 8 } _ { \cdot }$ ，W. Ikegami Andersson $^ { 5 0 }$ ,Q. Ji1,   
+Q. P. Ji15, X. B. Ji $\cdot ^ { 1 }$ ,X. L. Ji $^ { 1 , a }$ , L. W. Jiang51 X. S. Jiang $\cdot 1 , a$ , X. Y. Jiang $^ { 3 0 }$ , J.B. Jiao $^ { 3 3 }$ , Z. Jiao $^ { 1 7 }$ ,D. P. Jin $^ { 1 , a }$   
+S. Jin1,T. Johansson $^ { 5 0 }$ ，A. Julin $^ { 4 3 }$ , N. Kalantar-Nayestanaki $^ { 2 5 }$ , X. L. Kang1, X. S. Kang $^ { 3 0 }$ , M. Kavatsyuk $2 5$   
+B. C. Ke5, P. Kiese $^ { 2 2 }$ ,R. Kliemt10,B. Klos22,O.B. Kolcu $^ { 4 0 B , h }$ ,B. Kopf4, M. Kornicer $^ { 4 2 }$ ,A. Kupsc $^ { 5 0 }$ ,W. Kuhn $^ { 2 4 }$ ，   
+J. S. Lange $^ { 2 4 }$ ,M.Lara19,P.Larin14 ，H.Leithoff $^ { 2 2 }$ ,C. Leng $^ { 4 9 C }$ ，C.Li $^ { 5 0 }$ ，Cheng Li $^ { 4 6 , a }$ ,D. M.Li $^ { 5 3 }$ ,F.Li $_ { . } { } ^ { 1 , a }$ （1   
+F. Y. Li31, G.Li $^ { 1 }$ ,H.B.Li $^ { 1 }$ ,H. J. Li $\cdot ^ { 1 }$ , J. C. Li $^ { 1 }$ ， JinLi $^ { 3 2 }$ ,K.Li $^ { 1 3 }$ ,K.Li $^ { 3 3 }$ ,LeiLi $^ 3$ ,P.L. Li $^ { 4 6 , a }$ ,P.R.Li $^ { 7 , 4 1 }$   
+Q. Y. Li $^ { 3 3 }$ ,T.Li $^ { 3 3 }$ , W. D. Li1, W. G. Li1, X. L. Li $^ { 3 3 }$ ,X. N. Li $_ { . } { } ^ { 1 , a }$ ,X. Q.Li $^ { 3 0 }$ ,Y. B. Li $^ 2$ , Z. B. Li $^ { 3 8 }$ , H. Liang $^ { 4 6 , a }$ ，   
+Y. F. Liang36, Y. T. Liang $^ { 2 4 }$ , G. R. Liao $^ { 1 1 }$ , D. X. Lin $\cdot ^ { 1 4 }$ ,B.Liu $^ { 3 4 , j }$ , B. J. Liu $^ 1$ , C. X. Liu1, D. Liu $^ { 4 6 , a }$ ,F. H. Liu $^ { 3 5 }$   
+Fang Liu1, Feng Liu $^ 6$ ,H. B. Liu $^ { 1 2 }$ ,H. H. Liu1,H. H. Liu $^ { 1 6 }$ ,H. M.Liu1,J. Liu1, J. B.Liu $^ { 4 6 , a }$ , J. P. Liu $^ { 5 1 }$ , J. Y. Liu1,   
+K. Liu39, K. Y. Liu $^ { 2 7 }$ , L. D. Liu $^ { 3 1 }$ , P. L. Liu $_ { . } { } ^ { 1 , a }$ , Q. Liu $^ { 4 1 }$ , S. B. Liu $^ { 4 6 , a }$ ,X. Liu $^ { 2 6 }$ , Y. B. Liu $^ { 3 0 }$ , Y. Y. Liu $^ { 3 0 }$ ，   
+Z. A. Liu $^ { 1 , a }$ , Zhiqing Liu $^ { 2 2 }$ , H. Loehner $^ { 2 5 }$ .Lon $^ { 3 1 }$ $_ { 1 , a , g }$ ,H. J. Lu $^ { 1 7 }$ , J. G. Lu $^ { 1 , a }$ , Y. Lu1,   
+Y. P. Lu $_ { . } { } ^ { 1 , a }$ , C. L. Luo28, M. X. Luo $^ { 5 2 }$ Luo $^ { 4 2 }$ $^ { 1 , a }$ . $^ { 4 1 }$ F. C.Ma $^ { 2 7 }$ , H. L. Ma $^ { 1 }$ , L. L. Ma $^ { 3 3 }$ ，   
+M. M. Ma1,Q.M.Ma1,T.Ma1,X.N. Ma $^ { 3 0 }$ .Y.Ma $^ { 1 , a }$ .M.Ma33 , F. E. Maas14, M. Maggiora $^ { 4 9 A , 4 9 C }$ ，   
+Q.A. Malik $^ { 4 8 }$ , Y. J. Mao $^ { 3 1 }$ , Z. P. Mao $^ { 1 }$ S.Mar $^ { 4 9 A , 4 9 C }$ Messchendorp $^ { 2 5 }$ , G. Mezzadri $2 1 B$ , J. Min $_ { . } { } ^ { 1 , a }$   
+T. J. Min1,R.E. Mitchell $^ { 1 9 }$ , X. H. Mo $^ { 1 , a }$ , Y. J. Mo $^ 6$ , C. Morales Morales $^ { 1 4 }$ , G. Morello $2 0 A$ , N. Yu. Muchnoi $^ { 9 , e }$   
+H. Muramatsu43, P. Musiol4, Y. Nefedov $^ { 2 3 }$ , F. Nerling10, I. B. Nikolaev $^ { 9 , e }$ , Z. Ning $^ { 1 , a }$ , S. Nisar8, S. L. Niu $^ { 1 , a }$ ，   
+X. Y. Niu1, S. L. Olsen $^ { 3 2 }$ ,Q. Ouyang $^ { 1 , a }$ ,S. Pacetti $2 0 B$ ,Y. Pan $^ { 4 6 , a }$ , M. Papenbrock $^ { 5 0 }$ ,P.Patteri $2 0 A$ , M. Pelizaeus4,   
+H. P. Peng $^ { 4 6 , a }$ ,K. Peters $^ { 1 0 , i }$ , J. Pettersson $^ { 5 0 }$ , J. L. Ping28, R. G. Ping1, R. Poling $^ { 4 3 }$ , V. Prasad $^ 1$ ,H. R. Qi $^ 2$   
+M. Qi $^ { 2 9 }$ ,S. Qian $^ { 1 , a }$ ,C. F. Qiao $^ { 4 1 }$ ,L. Q. Qin $^ { 3 3 }$ ,N. Qin $^ { 5 1 }$ ,X. S. Qin $\cdot ^ { 1 }$ ,Z. H. Qin $_ { . } ^ { 1 , a }$ , J. F. Qiu $^ { 1 }$ , K. H. Rashid $^ { 4 8 , k }$   
+C.F. Redmer $^ { 2 2 }$ ,M. Ripka $^ { 2 2 }$ , G. Rong1, Ch. Rosner14, X. D. Ruan12, A. Sarantsev $^ { 2 3 , f }$ ,M. Savrie $^ { 2 1 B }$ , C. Schnier4,   
+K. Schoenning $^ { 5 0 }$ ,W. Shan $^ { 3 1 }$ , M. Shao $^ { 4 6 , a }$ ,C. P. Shen $^ 2$ , P. X. Shen $^ { 3 0 }$ , X. Y. Shen1, H. Y. Sheng1,W. M. Song1,   
+X Y.Song1,S.Sosi49A49CS.Spata $^ { 4 9 A , 4 9 C }$ ,G. X.Sun1,J.F.Sun $\cdot ^ { 1 5 }$ ,S. S.Sun1,X. H. Sun $\cdot ^ { 1 }$ , Y. J.Sun $^ { 4 6 , a }$ ，，   
+Y. Z. Sun1, Z. J. Sun $\cdot ^ { 1 , a }$ , Z. T. Sun $^ { 1 9 }$ , C. J. Tang $^ { 3 6 }$ , X. Tang1, I. Tapan $4 0 C$ ,E.H. Thorndike $^ { 4 4 }$ , M. Tiemens $^ { 2 5 }$ ，   
+1. Uman $^ { 4 0 D } _ { . }$ , G. S. Varner $^ { 4 2 }$ , B. Wang30, B. L. Wang41, D. Wang31, D. Y. Wang $^ { 3 1 }$ ,K. Wang $^ { 1 , a }$ ,L. L. Wang1,   
+L. S. Wang1, M. Wang $^ { 3 3 }$ ,P. Wangl,P. L. Wang1, W. Wang $^ { 1 , a }$ ,W. P. Wang $^ { 4 6 , a }$ , X. F. Wang $^ { 3 9 }$ ,Y. Wang37,   
+Y. D.Wang14, Y. F. Wang $^ { 1 , a }$ ,Y. Q. Wang Z.Wan $^ { 1 , a }$ ,Z. G. Wang $^ { 1 , a }$ ,Z. H. Wang $^ { 4 6 , a }$ ,Z. Y. Wang1,   
+Z. Y.Wang1,T.Weber $^ { 2 2 }$ ,D.H.Wei11,P.Weidenkaff $^ { 2 2 }$ ，S.P.Wen1,U.Wiedner4,M.Wolke $^ { 5 0 }$ ,L. H. Wu1,   
+L. J. Wu1, Z. Wu $_ { . } { } ^ { 1 , a }$ ,L. Xia $^ { 4 6 , a }$ ,L. G. Xia $^ { 3 9 }$ ,Y. Xia $^ { 1 8 }$ , D. Xiao1, H. Xiao $^ { 4 7 }$ , Z. J. Xiao $^ { 2 8 }$ ,Y. G. Xie $^ { 1 , a }$ ,Y. H. Xie $^ 6$ ，   
+Q.L. Xiu $^ { 1 , a }$ ,G. F. Xu1, J. J. Xu $^ 1$ ,L. Xu1, Q.J. Xu $^ { 1 3 }$ ,Q. N. Xu $^ { 4 1 }$ , X. P. Xu $^ { 3 7 }$ ,L. Yan $^ { 4 9 A , 4 9 C }$ ,W. B. Yan $^ { 4 6 , a }$ ，   
+W. C. Yan $^ { 4 6 , a }$ ,Y. H. Yan $^ { 1 8 }$ ,H. J. Yang $^ { 3 4 , j }$ ,H. X. Yang1,L.Yang51,Y.X. Yang11,M. Ye $^ { 1 , a }$ ,M. H. Ye $^ 7$ , J. H. Yin1,   
+Z. Y. You $^ { 3 8 }$ ,B. X. Yu $_ { . } { } ^ { 1 , a }$ C. X. Yu $^ { 3 0 }$ ,J. S. Yu $^ { 2 6 }$ ,C. Z. Yuan1, Y. Yuan1, A. Yuncu ${ } ^ { 4 0 B , b }$ ,A. A. Zafar $^ { 4 8 }$ ,Y. Zeng $^ { 1 8 }$ ，   
+Z. Zeng $^ { 4 6 , a }$ ,B. X. Zhang1, B. Y. Zhang $\cdot ^ { 1 , a }$ ,C.C. Zhang1, D. H. Zhang1, H. H. Zhang38, H. Y. Zhang $^ { 1 , a }$ , J. Zhang1,   
+J. J. Zhang1,J.L. Zhang1, J. Q. Zhang1,J. W. Zhang $^ { 1 , a }$ ,J. Y. Zhang1, J. Z. Zhang1,K. Zhang1,L. Zhang1,   
+S. Q. Zhang $^ { 3 0 }$ , X. Y. Zhang $^ { 3 3 }$ , Y. Zhang1, Y. Zhang1, Y. H. Zhang $^ { 1 , a }$ , Y. N. Zhang41, Y. T. Zhang $^ { 4 6 , a }$ ，   
+Yu Zhang41, Z. H. Zhang,Z. P. Zhang46 Z. Y. Zhang $^ { 5 1 }$ G. Zhao $^ 1$ , J. W. Zhao $^ { 1 , a }$ , J. Y. Zhao $^ 1$ , J. Z. Zhao $^ { 1 , a }$ （204号   
+Lei Zhao $^ { 4 6 , a }$ , Ling Zhao1, M. G. Zhao $^ { 3 0 }$ ,Q. Zhao1, Q. W. Zhao1, S. J. Zhao $^ { 5 3 }$ , T. C. Zhao1, Y. B. Zhao ${ } ^ { 1 , a }$ ，   
+Z. G. Zhao $^ { 4 6 , a }$ ， A. Zhemchugov $^ { 2 3 , c }$ ,B. Zheng $^ { 1 4 , 4 7 }$ , J. P. Zheng $^ { 1 , a }$ a,W. J. Zheng33, Y. H. Zheng41, B. Zhong28   
+L. Zhou $^ { 1 , a }$ , X. Zhou $^ { 5 1 }$ , X. K. Zhou $^ { 4 6 , a }$ , X. R. Zhou $^ { 4 6 , a }$ , X. Y. Zhou1,K. Zhu $^ { 1 }$ ,K. J. Zhu $_ { . } { } ^ { 1 , a }$ ，S. Zhu $^ 1$ ,S. H. Zhu $^ { 4 5 }$ ，
+
+X. L. Zhu $^ { 3 9 }$ , Y. C. Zhu $^ { 4 6 , a }$ , Y. S. Zhu $^ { 1 }$ , Z. A. Zhu $^ { 1 }$ , J. Zhuang $^ { 1 , a }$ ,L.Zotti $^ { 4 9 A , 4 9 C }$ ,B. S. Zou $^ { 1 }$ , J. H. Zou1
+
+(BESIII Collaboration)   
+（204号 $^ { 1 }$ Institute of High Energy Physics， Beijing 100049, People's Republic of China   
+$^ 2$ Beihang University，Beijng 10191People's Republicof China   
+$^ 3$ Beijing Instituteofetrocemicalechoogyeiin2eple'epblicn   
+$^ 4$ Bochum Ruhr-University， D-44780 Bochum， Germany   
+$^ { 5 }$ CarnegieMelonUniversityPisbgheylaia513，U   
+（ $^ 6$ Central China Normal University， Wuhan 430or9, People's Republic of China   
+$^ 7$ China Center of Aduanced Science and Technology, Beijing 100190, People's Republic of China   
+（204号 $^ { 8 }$ COMSATs Instituteof Information Technology, Lahore,Defence Road, OffRaiuind Road, 540 LahorePakistan   
+（2 $^ { 9 }$ G.I. Budker Institute of Nuclear Physics SB RAS (BINP), Nouosibirsk 630090, Russia   
+（204号 $^ { 1 0 }$ GSI HelmholtzcentreforHeauyIonResearch GmbH,D-64291Darmstadt,Germany   
+1 $^ { 1 1 }$ Guangri Normal University， Guilin 541004, People's Republic of China   
+12GuangriUniversityNaning53004，People'sRepublicofin   
+$^ { 1 3 }$ Hangzhou Normal University，Hangzhou 310036,People's Republicof China   
+（20 $^ { 1 4 }$ Helmholtz Institute Mainz，Johann-Joachim-Becher-Weg 45, D-55099 Mainz, Grmany   
+1 $^ { 1 5 }$ Henan Normal University，Xiniang 4530People'sRepublicofin   
+（20 $^ { 1 6 }$ Henan University of Science and Technology，Luoyang 47i003,People's Republicof China   
+17HuangshanColegeuangshan2450，People'sRepublicof Cia   
+（ $^ { 1 8 }$ HunanUnivesitygsh42eple'seubic   
+19 Indiana University, Bloomington, Indiana 47405， USA   
+20(A)INFN Laboratori Nazionali di Frascati, I-0044, Frascat,   
+Italy; (B)INFN and University of Perugia, I-06100, Perugia, Italy   
+21 (A)IN)i   
+22 Johannes Gutenberg University of Mainz,Johann-Joachim-Becher-Weg 45，D-55099 Mainz, Germay   
+H $^ { 2 3 }$ Joint InstituteforNuclearResearch4198DubaMoscowegionsi   
+24Justus-LGG   
+$^ { 2 5 }$ KVI-CART, University of Groningen, NL-9747 AA Groningen, The Nethrlands   
+2 $^ { 2 6 }$ LanzhouUnesityzuOelesepubf   
+$^ { 2 7 }$ Liaoning Univesityhang36epe'sepubc   
+（204号 $^ { 2 8 }$ Nanjing NoralUivesityaig0，eople'Reublcfna   
+$^ { 2 9 }$ Nanjing University，Nanjng 210093,People's Republicof China   
+30Nankai UniversityTianjin30oPeope'sRepublicofChina   
+$^ { 3 1 }$ Peking UniversityBejing0871People'sRepublicof in   
+$^ { 3 2 }$ Seoul NatioalUsitySoul5-   
+（ $^ { 3 3 }$ Shandong University， Jinan 25010，People's Republicof China   
+$^ { 3 4 }$ Shanghai JiaoTongUnesityShangha2OPeople'sepublcoa   
+3 $^ { 3 5 }$ Shanri UniversityTaiyuan O30o6,People's Republicof China   
+36Sichuan University，Chengdu 610064，People's Republic of China   
+37Soochow UniversitySuzhou 21506,People's Republic of China   
+$^ { 3 8 }$ SunYat-SenUniversityGuangzhou51075People'sRepublicofCina   
+39Tsinghua Universityen84，Peoplesepbcof   
+40(A)Ankara University， O6100 Tandogan,Ankara, Turkey; (B)Istanbul Bilgi   
+University， 34060 Eyup, Istanbul， Turkey; (C)Uludag University，16059 Bursa,   
+Turkey; (D)Near East University， Nicosia， North Cyprus， Mersin 10, Turkey   
+$^ { 4 1 }$ University of hineseAcademyofSciencesBejingo9People'sRepublicofin   
+42Universityofawai,Honolluawai68U   
+$^ { 4 3 }$ Universityofnsotaieaolisota54U   
+$^ { 4 4 }$ UniversityofRochesterRochesterNewYork1467UA   
+（204号 $^ { 4 5 }$ UniversityofScienceandTechologyLiaoningAnshan14051,People'sepublicofin   
+（ $^ { 4 6 }$ UniversityofienceandechologyofinaHefe23026People'sepublicofa   
+$^ { 4 7 }$ University of South China,Hengyang 4210o1, People's Republicof China   
+$^ { 4 8 }$ UniversityofthePunjab，Lhore54590,akistan   
+（204号 $^ { 4 9 }$ (A)Universityof Turin,I-10125，Turin,Italy; (B)University of Easter   
+Piedmont，I-15121，Alessandria，Italy;(C)INFN，I-10125，Turin，Italy   
+（204号 $^ { 5 0 }$ Uppsala University， Box 516, SE-75120 Uppsala, Sweden   
+51Wuhan University，Wuhan 430o72, People's Republicof China   
+52Zhejiang University，Hangzhou 317,People'sRepublicof Cina   
+（204号 $^ { 5 3 }$ Zhengzhou University, Zhengzhou451People's Republicof ina   
+$a$ Also at State Key Laboratory of Particle Detection and   
+Electronics， Beijing 100049， Hefei 230026, People's Republic of China   
+$b$ Also at Bogazici University， 34342 Istanbul,Turkey   
+（204号 $c$ Also at the Moscow Institute of Physics and Technology， Moscow 141700, Russia   
+（20号 $d$ Also at the Functional Electronics Laboratory， Tomsk State University， Tomsk, 634050,Russia   
+（20 $e$ Also at the Novosibirsk State University， Novosibirsk, 630090， Russia   
+（20 $f$ Also at the NRC "Kurchatou Institute", PNPI, 188300, Gatchina, Russia   
+（20 $g$ Also at University of Texas at Dallas, Richardson, Texas 75083， USA   
+（ $h$ Also at Istanbul Arel University， 34295 Istanbul, Turkey   
+（20 $^ { i }$ Also at Goethe University Frankfurt, 60323 Frankfurt am Main, Germany   
+（204号 $j$ Also at Key Laboratory for Particle Physics， Astrophysics and Cosmology， Ministry   
+of Education; Shanghai Key Laboratory for Particle Physics and Cosmology; Institute   
+ofNuclear and Particle Physics，Shanghai 200240，People's Republic of China   
+（20 $k$ Also at Government Colege Women University， Sialkot-51310, Punjab, Pakistan.   
+(Dated: March 2, 2017)
+
+Using an electron-positron collsion data sample of $2 . 9 3 ~ \mathrm { f b ^ { - 1 } }$ collected at a center-of-mass energy of $\sqrt { s } = 3 . 7 7 3$ GeV with the BESIII detector,we present the first search for the radiative leptonic decay $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ . The analysis is performed with a double tag method. We do not observe a significant $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ signal,and obtain an upper limit on the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ decay with the energy of radiative photon larger than 1O MeV of $3 . 0 \times 1 0 ^ { - 5 }$ at the $9 0 \%$ confidence level.
+
+PACS numbers:13.20.Fc,12.39.St
+
+# I.INTRODUCTION
+
+In contrast to the purely leptonic decay, the radiative leptonic decay of the charged charmed meson, $D ^ { + } $ $\gamma e ^ { + } \nu _ { e }$ , is not subject to the helicity suppression rule due to the presence of a radiative photon. With no finalstate hadron, treatment of the non-perturbative strong interaction effects in theoretical calculations is relatively simple.
+
+The radiative leptonic decays of heavy mesons have been studied with various models [1-4]. Within the perturbative quantum chromodynamics(pQCD） approach, the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ decay is predicted to be of order $1 0 ^ { - 4 }$ [1]. Much smaller branching fractions, of order $1 0 ^ { - 6 }$ , are obtained within the light front quark model [2] and the non-relativistic constituent quark model [3].In Ref.[4],the long-distance contribution is considered via the vector meson dominance (VMD） model and it is found that the decay rate may be enhanced significantly. To deal with non-perturbative effects,it is important to separate the hard and soft physics,typically with an approach known as factorization. Many approaches to factorization of the radiative leptonic decays of heavy mesons have been proposed [5-1O]. In recent papers [11,12], factorization is extended to consider the first-order corrections in the strong coupling constant $\alpha _ { s }$ and the heavy quark mass; the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ decay is predicted to be of order $1 0 ^ { - 5 }$ ：
+
+In this paper,we present the first search for the decay $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ , based on a data sample of $2 . 9 3 \mathrm { f b } ^ { - 1 }$ [13,14] collected with the BESIII detector at a center-of-mass energy $\sqrt { s } = 3 . 7 7 3 \mathrm { G e V }$ 7.No obvious signal is observed, and an upper limit on the branching fraction of $D ^ { + } $ $\gamma e ^ { + } \nu _ { e }$ decay is set at the $9 0 \%$ confidence level (C.L.). In this paper,charge conjugate modes are always implied.
+
+# II. THE BESIIIDETECTOR AND DATA SET
+
+The BESIII detector is a general purpose spectrometer with a geometrical acceptance of 93% of $4 \pi$ .It consists of a main drift chamber (MDC) for measuring the momentum and specific ionization of charged particles in a $_ { 1 \mathrm { T } }$ solenoidal magnetic field,a time of flight (TOF) system to perform particle identification,and a CsI(Tl) electromagnetic calorimeter (EMC) for measurement of deposited shower energies. These components are surrounded by a multi-layer resistive plate counter system, which is designed to identify the muons.A detailed description of the BESIII detector can be found in Ref. [15].
+
+High-statistics Monte Carlo (MC) simulated data samples are used to determine the detection efficiency and to estimate potential background contamination.A GEANT4-based [16] MC simulation program is used to simulate the interactions of particles in the spectrom eter and the detector response. For the production of $\psi ( 3 7 7 0 )$ ,KKMC [17] is used; it includes the effects of beam energy spread and initial-state radiation (ISR). The known decay modes are generated using EvTGEN [18,19] according to branching fractions from the Particle Data Group (PDG） [2O],and the remaining unknown decay modes are simulated by LUNDCHARM [21]. Final-state radiation (FSR) of charged tracks is incorporated with PHOTOs [22]. In modeling the signal events, the approach of Ref.[11] is adopted,where first-order effects in the strong coupling constant $\alpha _ { s }$ and the heavy quark mass are considered. The minimum energy of the radiative photon is set at 1O MeV to avoid the infrared divergence for soft photons. For $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ decay,which is an important background,an exclusive MC sample is generated by adopting the associated form-factor model and parameters in Ref. [23].
+
+# III. $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ DATA ANALYSIS
+
+The analysis uses a double-tag (DT） technique [24] which exploits the exclusive $D \bar { D }$ final states produced near threshold in $e ^ { + } e ^ { - }$ experiments. This technique allows one to measure absolute decay branching fractions of $D ^ { + }$ mesons independent of any direct knowledge of the total number of $D ^ { + } D ^ { - }$ events.In this analysis，the $D ^ { - }$ candidates,so-called single-tag (ST) events,are reconstructed through six specific hadronic decay modes $K ^ { + } \pi ^ { - } \pi ^ { - }$ ， $K ^ { + } \pi ^ { - } \pi ^ { - } \pi ^ { 0 }$ ， $K _ { S } ^ { 0 } \pi ^ { - }$ ， $K _ { S } ^ { 0 } \pi ^ { - } \pi ^ { 0 }$ ， $K _ { S } ^ { \cup } \pi ^ { + } \pi ^ { - } \pi ^ { - } \mathrm { a n d } K ^ { + } K ^ { - } \pi ^ { - }$ . The signal $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ is then searched for among the remaining tracks and showers recoiling against the ST $D ^ { - }$ candidates； such signal candidate events are denoted as double-tag (DT) events. The absolute branching fraction, $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } )$ ，can be obtained from the ratio of the DT yields and the ST yields,
+
+$$
+B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } ) = \frac { N _ { \mathrm { D T } } } { \sum _ { i } N _ { \mathrm { S T } } ^ { i } \varepsilon _ { \mathrm { D T } } ^ { i } / \varepsilon _ { \mathrm { S T } } ^ { i } } ,
+$$
+
+where $N _ { \mathrm { D T } }$ is the sum of signals yields for all tag modes and $N _ { S T } ^ { i }$ ， $\varepsilon _ { \mathrm { D T } } ^ { i }$ and $\varepsilon _ {  { \mathrm { S } }  { \mathrm { T } } } ^ { i }$ are the ST yields and the detection efficiencies of DT and ST for ST mode $i$ ,respectively. With this approach,the systematic uncertainties in the ST selection reconstruction are largely canceled in the branching fraction measurement.
+
+# A．Single-Tag event selection and yields
+
+For each charged track,we require the polar angle $\theta$ in the MDC to satisfy $| \cos \theta | < 0 . 9 3$ and the point of the closest approach to the interaction point (IP） of the （204 $e ^ { + } e ^ { - }$ beams to be within 1 cm in the plane perpendicular to the beam ( $V _ { r }$ )and within $\pm 1 0 \mathrm { c m }$ along the beam axis （ $V _ { z }$ ).Particle identification (PID） for charged tracks is accomplished by combining the information on the measured ionization energy loss $( \mathrm { d } E / \mathrm { d } x )$ in the MDC and the flight time in the TOF into a PID likelihood, $\mathcal { L } ( h )$ ， for each hadron hypothesis $\textit { h } = \textit { K }$ or $h \ = \ \pi$ .The $\pi$ （ $K$ ）candidates are required to satisfy $\mathcal { L } ( \pi ) > \mathcal { L } ( K )$ （ ${ \mathcal { L } } ( K ) > { \mathcal { L } } ( \pi ) { \mathrm { , } }$ 1
+
+The $K _ { S } ^ { 0 }$ candidates are reconstructed from combinations of two tracks with opposite charge which satisfy $| \cos \theta | ~ < ~ 0 . 9 3$ and $| V _ { z } | ~ < ~ 2 0 \mathrm { c m }$ ，but with no $V _ { r }$ （204号 and no PID requirements.The $K _ { S } ^ { 0 }$ candidates must have an invariant mass in the range $0 . 4 8 7 < M _ { \pi ^ { + } \pi ^ { - } } <$ $0 . 5 1 1 ~ \mathrm { G e V } / c ^ { 2 }$ , corresponding to three times our mass resolution. To reject combinatorial background,we further require the decay length of $K _ { S } ^ { 0 }$ candidates,the distance between the IP and the reconstructed secondary decay vertex provided by a vertex fit algorithm,to be larger than two standard deviations. The momenta of $\pi ^ { + } \pi ^ { - }$ pairs after the vertex fit are used in subsequent analysis.
+
+Those showers deposited in the EMC not associated with charged tracks are identified as photon candidates. The energy deposited in the nearby TOF counters is included to improve energy resolution and detection efficiency. The minimum deposited energy is required to be greater than 25 MeV in the barrel region ( $| \cos \theta | < 0 . 8 0 )$ _， or 50 MeV in the end caps regions $0 . 8 4 < | \cos \theta | < 0 . 9 2$ ） The shower time is required to be within $7 0 0 \mathrm { n s }$ after the event start time to suppress electronic noise and showers unrelated to the collision event. The $\pi ^ { 0 }$ candidates are reconstructed from pairs of photons with invariant mass satisfying $0 . 1 1 5 < M _ { \gamma \gamma } < 0 . 1 5 0 ~ \mathrm { G e V } / c ^ { 2 }$ ; those with both photons in the EMC end caps are rejected because of poorer resolution.The photon pairs of $\pi ^ { 0 }$ candidates are subject to a one-constraint (1C) kinematic fit which constrains their mass to the nominal $\pi ^ { 0 }$ mass [20]；the updated momenta are used in subsequent analysis.
+
+The ST $D ^ { - }$ signals are discriminated from backgrounds based on two kinematic variables, the energy difference, $\Delta E$ ，and the beam-constrained mass, $M _ { \mathrm { B C } }$ (encompassing energy and momentum conservation）which are defined as:
+
+$$
+\Delta E \equiv E _ { \mathrm { S T } } - E _ { \mathrm { b e a m } } ,
+$$
+
+$$
+M _ { \mathrm { B C } } \equiv \sqrt { E _ { \mathrm { b e a m } } ^ { 2 } / c ^ { 4 } - | \vec { p } _ { \mathrm { S T } } | ^ { 2 } / c ^ { 2 } } ,
+$$
+
+where $\vec { p } _ { \mathrm { S T } }$ and $E _ { \mathrm { S T } }$ are the total momentum and energy of the ST $D ^ { - }$ candidate in the rest frame of the $e ^ { + } e ^ { - }$ system, respectively, and $E _ { \mathrm { b e a m } }$ is the beam energy. The ST signals peak around zero in the $\Delta E$ distribution and around the nominal $D ^ { - }$ mass [20] in the $M _ { \mathrm { B C } }$ distribution.
+
+For each ST mode, the $D ^ { - }$ candidates are reconstructed from all possible combinations of final-state particles, and are required to have $\Delta E$ within the regions listed in Table I; these are final-state dependent and determined from data.If multiple candidates are found,only the one with the smallest $\lvert \Delta E \rvert$ is selected. To extract the ST signal yields,we perform extended unbinned maximum likelihood fts to the $M _ { \mathrm { B C } }$ distributions,as shown in Fig.1. In the fits,signal shapes derived from the signal MC events are convoluted with a Gaussian function; the free mean and width of this Gaussian compensate for imperfections in the beam energy calibration and differences in the detector resolution between data and MC simulation,respectively. The combinatorial background is modeled by a smooth ARGUS function [25]. The signal yields and the corresponding detection efficiencies in the region $1 . 8 6 2 8 < M _ { \mathrm { B C } } < 1 . 8 7 8 8 \mathrm { G e V } / c ^ { 2 }$ are summarized in Table I. A study of the inclusive $D D$ MC samples, in which both $D$ mesons decay inclusively, indicates that there are no significant backgrounds which peak in $M _ { B C }$
+
+TABLE I. Summary of the $\Delta E$ requirements, ST yields $N _ { \mathrm { S T } } ^ { i }$ in data and detection efficiencies $\varepsilon _ {  { \mathrm { S } }  { \mathrm { T } } } ^ { i }$ . The efficiencies do not include the branching fractions of $K _ { S } ^ { \cup }  \pi ^ { + } \pi ^ { - }$ and $\pi ^ { 0 }  \gamma \gamma$ ： All uncertainties are statistical only.   
+
+<html><body><table><tr><td>Tag Mode</td><td>△E (MeV)</td><td>NsT</td><td>T(%)</td></tr><tr><td>K+ππ</td><td>-27,25]</td><td>801498 ± 940</td><td>51.57 ± 0.02</td></tr><tr><td>K+π−π−π</td><td>-62,34]</td><td>242092 ± 699</td><td>24.37 ± 0.02</td></tr><tr><td>Kπ</td><td>-25,25]</td><td>98132 ± 328</td><td>54.03 ± 0.06</td></tr><tr><td>Kπ-π</td><td>[-73,41]</td><td>213976 ± 641</td><td>26.17 ± 0.02</td></tr><tr><td>0 十ππ Sπ+</td><td>-33,30]</td><td>127463 ± 415</td><td>32.46 ± 0.04</td></tr><tr><td>K+K-π</td><td>[-23,20]</td><td>70701 ± 343</td><td>41.83 ± 0.06</td></tr></table></body></html>
+
+![](images/6ffb810c30ecf9fc4b15e66dfe87cac40e50fe16c7ba690fd71b70b93096b8b4.jpg)  
+FIG.1.(color online） The $M _ { \mathrm { B C } }$ distributions for the six tag modes.Dots with error bars are data.The blue solid lines show the overall fit curves and the red dashed lines are for the background contributions.
+
+# B.Double-Tag event selection and yields
+
+We search for the signal $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ in the remaining charged tracks and showers recoiling against the ST $D ^ { - }$ candidates. Exactly one good remaining charged track is required,with charge opposite to that of the ST $D ^ { - }$ .The track must be identified as an electron by combining the information from $\mathrm { d } E / \mathrm { d } x$ ，TOF,and the EMC.The PID $\mathcal { L }$ is required to satisfy $\mathcal { L } ( e ) > 0$ and $\mathcal { L } ( e ) / ( \mathcal { L } ( e ) + \mathcal { L } ( \pi ) + \mathcal { L } ( K ) ) > 0 . 8$ .There must be at least one remaining photon to be selected as the candidate radiative photon; in the case of multiple candidates,the highest energy photon is used. However,we reject events in which any pair of photons satisfies $\chi ^ { 2 } < 2 0$ in the $\pi ^ { 0 }$ 1C kinematic fit. To improve the degraded momentum resolution of the electron due to FSR and bremsstrahlung, the energy of neighboring photons,presumably due to FSR,is added back to electron candidates. Specifically, photons with energy greater than 5O MeV and within a cone of 5 degrees around the electron direction (but excluding the radiative one) are included. To suppress the background $D ^ { + }  K _ { L } ^ { 0 } e ^ { + } \nu _ { e }$ , the radiative photon is further required to have a lateral moment [26] within the range (O.O,O.3).This lateral moment，which describes the shape of electromagnetic showers,is found in MC event studies to peak around O.15 for photons but to vary broadly from $0$ to 0.85 for $K _ { L } ^ { 0 }$ candidates.
+
+In the selection of DT events,the undetected neutrino is inferred by studying the missing energy, $E _ { \mathrm { m i s s } }$ ，and missing momentum, $\vec { p } _ { \mathrm { m i s s } }$ ,which are defined as
+
+$$
+E _ { \mathrm { m i s s } } \equiv E _ { \mathrm { b e a m } } - E _ { \gamma } - E _ { e } ,
+$$
+
+and
+
+$$
+\vec { p } _ { \mathrm { m i s s } } \equiv - [ \vec { p } _ { \gamma } + \vec { p } _ { e } + \hat { p } _ { \mathrm { S T } } \sqrt { E _ { \mathrm { b e a m } } ^ { 2 } / c ^ { 2 } - m _ { D ^ { - } } ^ { 2 } c ^ { 2 } } ] ,
+$$
+
+in the rest frame of $e ^ { + } e ^ { - }$ system. Here, $E _ { \gamma }$ ( $E _ { e }$ ）and $\vec { p _ { \gamma } }$ ( $\vec { p _ { e } }$ ）are the energy and momentum of the radiative photon (electron),respectively,and $m _ { D }$ -is the nominal mass of the $D ^ { - }$ meson [20]. In calculating $\vec { p _ { \mathrm { m i s s } } }$ ,only the direction vector of the ST $D ^ { - }$ candidate, $\hat { p } _ { \mathrm { S T } }$ , is used; the corresponding magnitude of momentum is fixed. The variable $U _ { \mathrm { m i s s } }$ is then defined as
+
+$$
+U _ { \mathrm { m i s s } } \equiv E _ { \mathrm { m i s s } } - | \vec { p } _ { \mathrm { m i s s } } | c .
+$$
+
+The distribution of $U _ { \mathrm { m i s s } }$ for the survivingDT candidates is illustrated in Fig.2；the $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ signals should peak around zero,as shown with the dotted curve.
+
+By studying the MC simulation samples,the background from the semi-leptonic decay $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ is found to have a non-trivial shape in $U _ { \mathrm { m i s s } }$ . Therefore,we study the $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ backgrounds exclusively by selecting a control sample in data with exactly the same selection criteria for the ST events and electron candidates used in the selection of signal events. The $\pi ^ { 0 }$ candidates are reconstructed from two photons with a 1C kinematic fit constraining their mass to the $\pi ^ { 0 }$ nominal value and having a fit $\chi ^ { 2 } < 2 0$ . We extract the yield of the control sample $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ ， $N _ { \mathrm { D T } } ^ { \pi ^ { 0 } }$ , by fitting the corresponding $U _ { \mathrm { m i s s } }$ distribution.The expected number of background $D ^ { + }  \pi ^ { 0 } e ^ { + } \nu _ { e }$ in the selection of signal $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ ， $N _ { \pi ^ { 0 } } ^ { \mathrm { e x p } }$ , is calculated with
+
+![](images/ce6ea4aa9d16ddf7338c446f628b6ad436198548934880aec4ebbe2b10f2c910.jpg)  
+FIG.2.(color online) The $U _ { \mathrm { m i s s } }$ distribution.Dots with error bars are data,the red solid-line histogram shows the overall fit curve,the blue dash-line histogram shows the background $D ^ { + }  \pi ^ { 0 } e ^ { + } \nu _ { e }$ ，and the green shaded histogram includes all other background. The black dotted line shows the signal MC simulation normalized to the branching fraction $B ( D ^ { + } \to$ $\gamma e ^ { + } \nu _ { e } ) = 1 0 0 \times 1 0 ^ { - 5 }$
+
+$$
+N _ { \pi ^ { 0 } } ^ { \mathrm { e x p } } = \frac { N _ { \mathrm { D T } } ^ { \pi ^ { 0 } } } { \sum _ { i } \frac { N _ { \mathrm { S T } } ^ { i } } { \varepsilon _ { \mathrm { S T } } ^ { i } } \varepsilon _ { \mathrm { D T } , \pi ^ { 0 } } ^ { i } } \sum _ { i } \frac { N _ { \mathrm { S T } } ^ { i } } { \varepsilon _ { \mathrm { S T } } ^ { i } } \varepsilon _ { \mathrm { D T } , \pi ^ { 0 } } ^ { i , \gamma } ,
+$$
+
+where $\varepsilon _ { \mathrm { D T } , \pi ^ { 0 } } ^ { i , \gamma }$ isthe raeofmis-ientfying $\varepsilon _ { \mathrm { D T } , \pi ^ { 0 } } ^ { i }$ is the DT efficiency of $D ^ { + } ~ \to ~ \pi ^ { 0 } e ^ { + } \nu _ { e }$ $D ^ { + } ~ \to ~ \pi ^ { 0 } e ^ { + } \nu _ { e }$ as $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ for the tag mode $i$ , individually. The values of the corresponding efficiencies are summarized in Table II We find $N _ { \mathrm { D T } } ^ { \pi ^ { 0 } } = 3 0 1 6 \pm 6 8$ and $N _ { \pi ^ { 0 } } ^ { \mathrm { e x p } } = 6 1 2 \pm 1 4$ respectively,where the errors are statistical only.
+
+TABLE II. Summaries of the DT efficiencies of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ 0 $\varepsilon _ { \mathrm { D T } } ^ { i } ,$ and $D ^ { + } ~ \to ~ \pi ^ { 0 } e ^ { + } \nu _ { e }$ $( \varepsilon _ { \mathrm { D T } , \pi ^ { 0 } } ^ { i } )$ ， and the rates of misidentifying D+→ne+easD+→eve ()，here the branching fraction of $K _ { S } ^ { 0 }  \pi ^ { + } \pi ^ { - }$ and $\pi ^ { 0 }  \gamma \gamma$ are not included. The uncertainties are MC statistical only.   
+
+<html><body><table><tr><td>Tag Mode</td><td>r(%)</td><td>eDT.π0 (%)</td><td>(%)</td></tr><tr><td>K+ππ</td><td>27.09 ± 0.11</td><td>27.93 ± 0.14</td><td>5.32 ±0.07</td></tr><tr><td>K+πππ</td><td>14.28 ± 0.08</td><td>13.79 ± 0.11</td><td>3.05 ± 0.05</td></tr><tr><td>Kπ-</td><td>28.97 ± 0.10</td><td>30.23 ± 0.14</td><td>5.87 ± 0.07</td></tr><tr><td>Kπ-π0</td><td>15.62 ± 0.08</td><td>15.17 ± 0.11</td><td>3.29 ± 0.06</td></tr><tr><td>Kgπ+ππ</td><td>17.86 ± 0.09</td><td>17.55 ± 0.12</td><td>3.72 ± 0.06</td></tr><tr><td>K+K-π-</td><td>21.12 ± 0.10</td><td>22.28 ± 0.13</td><td>4.19 ± 0.06</td></tr></table></body></html>
+
+An extended unbinned maximum likelihood fit is performed on the final $U _ { \mathrm { m i s s } }$ distribution as shown in Fig.2 The signal shape is derived from the simulated $D ^ { + } $ $\gamma e ^ { + } \nu _ { e }$ events convoluted with a Gaussian function to compensate for resolution differences between data and
+
+MC simulation. The parameters of this Gaussian smearing function are extracted according to the discrepancy in resolution between data and MC simulation in the control sample $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ ,and are fixed in the fit. The shape of the background $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ is extracted from the simulated $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ sample,and is normalized to $N _ { \pi ^ { 0 } } ^ { \mathrm { e x p } }$ . For the other background components, the shape from the inclusive MC sample (excluding the contribution from $D ^ { + } ~ \to ~ \pi ^ { 0 } e ^ { + } \nu _ { e }$ ） is adopted and the yield is determined in the fit.We obtain a signal yield of $N _ { \mathrm { D T } } = - 2 1 \pm 2 3$ ，and the resulting branching fraction is $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } ) = ( - 2 . 5 \pm 2 . 7 ) \times 1 0 ^ { - \upsilon }$ ，where the uncertainties are statistical only. Since no obvious signal is observed,an upper limit at the $9 0 \%$ C.L.on the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ will be set below after taking into account the effects of statistical and systematicuncertainties.
+
+# IV. SYSTEMATICUNCERTAINTIES
+
+The systematic uncertainties in the selection of the ST candidates are assumed to largely cancel,with any residual effects being negligible. Other systematic uncertainties,related to the detection efficiencies,are summarized in Table III. To evaluate the systematic uncertainty related to the model of the decay dynamics,an alternative signal MC sample based on the single pole model [1,11] is produced,and the resultant difference in the detection efficiency with respect to the nominal value, $3 . 5 \%$ ,isassigned as the systematic uncertainty. The uncertainties of electron tracking and PID are estimated to be $0 . 5 \%$ and $0 . 5 \%$ ，respectively, by studying a control sample of radiative Bhabha scattering events.The uncertainty in photon reconstruction is assigned as $1 . 0 \%$ ，based on a study of double-tagged $D ^ { 0 } \to K _ { S } \pi ^ { 0 }$ events [27]. The uncertainty related with the lateral moment requirement for the photon is estimated to be $4 . 4 \%$ by studying a photon control sample from radiative Bhabha scattering events. The quadratic sum of the above systematic uncertainties, related to detection efficiency, is $5 . 8 \%$
+
+The systematic uncertainty associated with the estimated number of background $D ^ { + }  \pi ^ { 0 } e ^ { + } \nu _ { e }$ events includes a statistical uncertainty on the size of the DT control sample ( $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ ）of $2 . 3 \%$ ,and relative uncertainties on the detection efficiency relative to signal, of $1 . 0 \%$ for the $\pi ^ { 0 }$ 1C kinematic ft,and $1 . 0 \%$ for the extra photon with respect to the signal. Adding in quadrature, the total uncertainty of the background $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ rate is $2 . 7 \%$ . Note this value is not the direct fractional change in the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ ，itis the fluctuation of background $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ and will be considered along with other effects from the fit procedure.
+
+Various sources of systematic uncertainties in the fitprocedure are considered: $( a )$ fits are redone with the fitting range being as $( - 0 . 1 5 , 0 . 2 5 ) \mathrm { G e V }$ or (-0.20,O.25) GeV;(b) the mean and width of the smearing Gaussian function for the signal shape are varied according to the corresponding uncertainties obtained from the control sample $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ ；( $^ { c ) }$ the number of the background $D ^ { + } ~ \to ~ \pi ^ { 0 } e ^ { + } \nu _ { e }$ is varied according its uncertainty (2.7%)； ( $d )$ the shape derived from the inclusive MC sample is replaced by a second order polynomial function to describe the other backgrounds excluding $D ^ { + } \to \pi ^ { 0 } e ^ { + } \nu _ { e }$ . All of these fitting procedure effects are accounted for within the upper limit evaluation described next.
+
+TABLE III. Systematic uncertainties related to detection efficiencies in the branching fraction measurement.   
+
+<html><body><table><tr><td>Source</td><td>Relative uncertainty (%)</td></tr><tr><td>Signal MC model</td><td>3.5</td></tr><tr><td>e+ tracking</td><td>0.5</td></tr><tr><td>e+ PID</td><td>0.5</td></tr><tr><td>γreconstruction</td><td>1.0</td></tr><tr><td>Lateral moment</td><td>4.4</td></tr><tr><td>π°e+ ve backgrounds</td><td>2.7a</td></tr></table></body></html>
+
+a Note,this value is a fractional change in the $\pi ^ { 0 } e ^ { + } \nu _ { e }$ rate,not in the branching fraction of $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ ：
+
+# V. THEUPPERLIMIT ON BRANCHINGFRACTION
+
+To set the upper limit on the decay branching fraction $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e , }$ )，we follow the method in Refs. [27, 28] which takes into account the effects of both systematic and statistical uncertainties.We obtain a smooth probability density function (PDF) from the data sample using the kernel estimation method [29].A large number of toy MC samples are generated according to the smooth PDF, while the number of events in each MC sample is allowed to fluctuate with a Poisson distribution according to the yield found in the fit to the data sample. The same fit procedure used for data is applied to each toy MC sample,while randomly making systematic variations in the fit procedure,as described in the previous section.In the calculation of the branching fraction $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } )$ for the toy MC sample,the DT efficiencies are varied randomly according to the detection efficiency uncertainties $\left( 5 . 8 \% \right)$ ，and the ST yields and the corresponding efficiencies are varied randomly according to the statistical uncertainty due to the size of data and MC samples. The resultant distribution of $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } )$ for all toy MC samples is shown in Fig 3. By integrating up to $9 0 \%$ of the area in the physical region $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } ) \geq 0$ ，we obtain an upper limit at the $9 0 \%$ C.L.for the branching fraction as $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } ) < 3 . 0 \times 1 0 ^ { - 5 }$ ：
+
+# VI. SUMMARY
+
+In summary,we present the first search for the radia tive leptonic decay $D ^ { + } ~ \to ~ \gamma e ^ { + } \nu _ { e }$ in the charm sector based on a DT method using a data sample of $2 . 9 3 \mathrm { f b } ^ { - 1 }$ collected with the BESIII detector at a center-of-mass energy $\sqrt { s } = 3 . 7 7 3 \mathrm { G e V }$ . No significant $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ signal is observed.With a 10 MeV cutoff on the radiative photon energy,the upper limit of the decay branching fraction for $D ^ { + } \to \gamma e ^ { + } \nu _ { e }$ is $B ( D ^ { + } \to \gamma e ^ { + } \nu _ { e } ) < 3 . 0 \times 1 0 ^ { - 5 }$ at the 90% C.L.The result approaches the theoretical predictions in Refs.[11, 12];more data may help to discriminate among the full suite of theoretical models.
+
+![](images/f6352b08a7566e753f2a746960257df50fe555975aa1a6aed9e619f46603d9fd.jpg)  
+FIG.3.Distribution of the accumulated branching fraction based on toy MC samples generated according to the data. The shaded region represents $9 0 \%$ of the physical region.
+
+# ACKNOWLEDGMENTS
+
+TheBESIII collaboration thanks the staff ofBEPCII and the IHEP computing center for their strong support. This work is supported in part by National Key Basic Research Program of China under Contract No. 2015CB85670O； National Natural Science Foundation of China (NSFC） under Contracts Nos.11125525, 11235011，11275266，11322544，11335008，11425524, 1163501O; the Chinese Academy of Sciences (CAS) Large-Scale Scientific Facility Program；the CAS Center for Excellence in Particle Physics (CCEPP); the Collaborative Innovation Center for Particles and Interactions (CICPI); Joint Large-Scale Scientific Facility Funds of the NSFC and CAS under Contracts Nos. U1232201，U1332201，U1532257，U1532258；CASunder Contracts Nos.KJCX2-YW-N29，KJCX2-YWN45，QYZDJ-SSW-SLH003；100 Talents Program of CAS; National 1000 Talents Program of China; INPAC and Shanghai Key Laboratory for Particle Physics and Cosmology; German Research Foundation DFGunder Contracts Nos.Collaborative Research Center CRC 1044，FOR 2359； Istituto Nazionale di Fisica Nucleare,Italy;Koninklijke Nederlandse Akademie van Wetenschappen (KNAW） under Contract No.530- 4CDP03；Ministry of Developmentof Turkeyunder Contract No.DPT2006K-120470；The Swedish Resarch Council;U.S.Department of Energy under Contracts Nos. DE-FG02-05ER41374,DE-SC-0010504, DE-SC-0010118,DE-SC-0012069;U.S. National Science
+
+Foundation；University of Groningen (RuG）and the Helmholtzzentrum fuer Schwerionenforschung GmbH (GSI),Darmstadt;WCUProgram of National Research Foundation of Korea under Contract No.R32-20o8-000- 10155-0.
+
+[1]G.Burdman,T.Goldman，and D.Wyler,Phys.Rev.D 51,111 (1995).   
+[2] C.Q.Geng， C.C.Lih, and W.-M. Zhang, Mod.Phys.Lett.A 15,2087 (2000).   
+[3] C.-D. Luü and G.-L. Song, Phys. Lett. B 562, 75 (2003).   
+[4] J.-C. Yang and M.-Z. Yang，Mod. Phys. Lett.A 27, 1250120 (2012).   
+[5]G.P.Korchemsky,D.Pirjol,and T.-M.Yan,Phys. Rev. D 61,114510 (2000).   
+[6] S.Descotes-Genon and C.T.Sachrajda， Nucl. Phys. B650,356 (2003).   
+[7] S.W.Bosch,R.J.Hill, B.O.Lange，and M. Neubert, Phys.Rev.D 67,094014 (2003).   
+[8]R.J.Hill and M. Neubert,Nucl.Phys.B657,229 (2003).   
+[9]E.Lunghi,D.Pirjol,and D.Wyler,Nucl. Phys.B649, 349 (2003).   
+10] J.Ma and Q.Wang,JHEP 0601,067 (2006).   
+11] J.-C. Yang and M.-Z. Yang，Nucl. Phys. B889，778 (2014).   
+12] J.-C.Yang and M.-Z. Yang, (2016), arXiv:1604.08300 [hep-ph].   
+13]M.Ablikim et al.(BESIII Collaboration),Chin.Phys.C 37,123001 (2013).   
+14] M.Ablikim et al.(BESIII Collaboration),Phys.Lett.B 753,629 (2016).   
+[15]M.Ablikim et al.(BESIII Collaboration),Nucl.Instrum. Methods Phys.Res., Sect.A 614,345 (2010).   
+[16] S.Agostinelli et al.(GEANT4 Collaboration)，Nucl. Instrum.Methods Phys.Res.,Sect.A 506,250 (2003).   
+[17] S. Jadach,B.F.L.Ward,and Z.Was,Phys.Rev.D 63, 113009 (2001).   
+[18] R.G.Ping et al., Chin.Phys.C 32,599 (2008).   
+[19] D. J. Lange,Nucl. Instrum. Methods Phys. Res., Sect.A 462,152 (2001).   
+[20]J.Beringer et al.(Particle Data Group),Phys.Rev.D 86,010001 (2012).   
+[21] J.C.Chen,G. S.Huang,X.R.Qi,D.H. Zhang，and Y.S.Zhu,Phys.Rev.D 62,034003 (2000).   
+[22]E.Richter-Was,Phys.Lett.B 303,163(1993).   
+[23] D.Besson et al.(CLEO Collaboration),Phys.Rev.D 80, 032005 (2009).   
+[24]R.MBaltrusaitis et al.(MARK-III Collaboration), Phys.Rev.Lett.56,2140 (1986).   
+[25]H.Albrecht et al.(ARGUS Collaboration),Phys.Lett. B 241,278 (1990).   
+[26] A. Drescher et al.,Nucl. Instrum.Methods Phys. Res., Sect.A 237,464 (1985).   
+[27]M.Ablikim et al.(BESIII Collaboration),Phys.Rev.D 91,112015 (2015).   
+[28] J.P.Lees et al. (BaBar Collaboration),Phys.Rev.D 85, 091107 (2012).   
+[29] K．S.Cranmer，Comput．Phys.Commun．136，198 (2001).

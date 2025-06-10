@@ -1,0 +1,199 @@
+# 不同浓度硒酸钠对茶树的生长和生理指标的影响
+
+王丹丹，黄妍，周中政，李婷婷，吴发明，姚秋阳（遵义医科大学药学院生药学教研室，贵州遵义563000）
+
+摘要：本研究旨在探索硒酸钠浓度对茶树的生长和生理的影响，为富硒茶栽培的基础研究提供参考。以一年生扦插苗为材料，采用水培试验，研究不同浓度的硒酸钠(0、0.15、0.3、1.5、$3 、 5 、 8 \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } } }$ 对茶苗的硒积累、植株生长、生理指标和根尖显微结构等参数的影响。结果表明：茶苗的根和新梢中的硒含量与营养液中的硒浓度正相关；随着硒浓度升高，茶苗的鲜重、侧根数量、根系生物量、光合色素含量、根系活力等生长指标，茶多酚、可溶性糖等茶叶质量指标均呈现先升后降趋势，而丙二醛、过氧化氢、脯氨酸含量等抗逆生理指标则呈现先降后升趋势。显微结构分析显示在不同硒浓度处理条件下根尖的显微构造存在差异。低硒浓度(0.15、0.3、 $1 . 5 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } )$ 处理的茶苗根尖的皮层薄壁细胞饱满、完好，表皮细胞较小；高硒浓度 $\mathrm { ( S e } \geqslant 3 \ \mathrm { \ m g L } ^ { - 1 } ,$ 处理的茶苗根尖的皮层薄壁细胞变形或受损，表皮细胞增厚，表现出胁迫反应。上述结果说明硒对茶树具有双重效应：合适浓度 $( 0 . 3 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ 硒对茶树生长和茶叶品质有益，表现为光合作用和根系活力增强，过氧化物和脯氨酸含量降低，生物量增加，茶叶茶多酚含量增加；硒浓度过高( ${ \bf \beta } \Rightarrow 3 \mathrm { { m g } \cdot { L } ^ { - 1 } } .$ 对茶苗的生长和茶叶品质有害，表现为茶苗出现胁迫反应，茶多酚降低。本工作为进一步研究茶硒对茶树的双重作用机制和富硒茶的栽培提供有益参考。
+
+关键词：富硒茶，茶多酚，根系活力，显微结构，双重效应中图分类号：Q945 文献标识码：A
+
+# Effects of selenate at different concentrations on growth and physiological indexes of tea tree
+
+WANG Dandan, HUANG Yan, ZHOU Zhongzheng, LI Tingting, Wu Faming, YAO Qiuyang (Pharmacognosy Department,SchoolofPharmacy,Zunyi Medical University,Zunyi 5630oo,Guizhou,China)
+
+Abstract: This research aims to comprehensively explore the effects of selenate with different concentrations on growth and plant physiology of tea tree,and provide insight into further fundamental research on the cultivation of Se-enriched tea trees. Using hydroponic experiments with one-year-old cuting seedlings,this study investigated the effects of sodium selenate (Se concentration as 0, 0.15,0.3,1.5,3,5 and $8 \ \mathrm { m g \cdot L ^ { - 1 } } .$ ） on selenium accumulation, plant growth, physiological index,and microscopic structure of tea tree. The results showed that the selenium contents in the roots and shoot of tea seedlings were positively correlated with the selenium level in the nutrient solution. With the increase of selenium level, the plant growth index including the fresh weight of tea seedling，the number of lateral roots，the root biomass,the content of photosynthetic pigments,and root activity tended to increase initially and then decrease. The tea quality index such as polyphenol, soluble protein and soluble sugar content also presented the similar trend. However，the content of malondialdehyde，hydrogen peroxide，and proline decreased in treatments of low selenium levels,and then increased in treatments of high selenium levels.Anatomical analysis of the root tips revealed different efects on the microscopic structure of roots under low and high selenium concentration. The cortex parenchyma cells of root treated with the low Se concentration (O.15, O.3 and $1 . 5 \mathrm { m g ^ { . } L } ^ { - 1 } .$ ） were intact and well-shaped, and the root epidermal cells were smaller. Treatments at high selenium level $\mathrm { ( S e } \geqslant 3 \ \mathrm { \ m g } \cdot \mathrm { L } ^ { - 1 } ,$ ）demonstrated larger root epidermal cells and damaged parenchyma cells with irregular shape，which showed stress responses.All together, the findings revealed that Se (IV） induced dual effects on tea seedlings.Se-supplementation with appropriate level (such as $0 . 3 \ \mathrm { \ m g { \cdot } L ^ { - 1 } } ,$ ）showed beneficial effects on plant growth and tea quality by improving root activity and photosynthetic efficiency, minimizing the accumulation of peroxide and proline,and increasing both of the biomass and polyphenol content. But, excessive-Se (especially at $8 \ \mathrm { m g \cdot L ^ { - 1 } \ S e } )$ showed opposite effects on the parameters mentioned above and led to the reduction of plant growth and tea quality. These data might be helpful to explore the mechanism of dual effects of selenate on the growth of tea tree and provide reference for cultivation of Se-enriched tea.
+
+Key words: Se-enriched tea, polyphenol, root activity, microscopic structure, dual effect
+
+早期，硒(Selenium，Se)被认为是有毒元素，在它被发现的一百多年后硒的重要性才逐渐被人们认识(Schwarz&Foltz,1957)。现今，硒已被证明是人和动物的必需微量元素。大量证据表明：人体缺硒会提高克山病、大骨节病等疾病的发病率(Fleet,2009；Loscalzo,2014);而合理摄入硒元素则有增强免疫力、延缓衰老、预防癌症、预防心血管疾病等有益作用(Rayman etal.,2000)。中国卫计委建议正常成人每天摄入硒元素的范围为 $5 0 { \sim } 4 0 0 ~ \mu \mathrm { g } ($ 中国卫生行业标准WS/T578.3-2017)。硒元素狭窄的安全摄入量范围体现矛盾性的两面性：一方面需要维持机体日常生活所需的合理剂量，保证不会出现摄入量不足而出现相关疾病；另一方面摄入过多剂量会使大多数生物体产生中毒反应。
+
+硒是稀缺分散元素，硒资源贫瘠是世界性问题(Zhu etal.,2009)。长期膳食补充有机硒是防治缺硒疾病的安全有效的措施，这主要靠植物直接或间接提供，因此研究硒元素对富硒农作物的生理作用有重要意义。目前科学界还没有充分证据证明硒是高等植物所必需的(Lobanovetal.,2007)。众所周知，硒作为一种微量元素，在根际土壤中硒浓度过高时会对植物产生毒害作用。但是，近年来低浓度的硒对植物生长有益的证据日趋增多，类似现象在水稻(Yin et al.,2019)，玉米(Shanker et al.,1996)、油菜(Ulhassan et al.,2019)、芥菜(Naz et al.,2015)、烟草(Jiang etal.,2015)中都有报道。相关报道显示，硒对植物的有益作用主要表现为有利于光合效率、根系生长、生物量积累，以及提高抗氧化作用和植物抗逆性等方面。研究者将硒元素对植物生长的毒害作用和有益作用称为双重效应(Hawrylaknowak et al.,2015)。目前硒对植物产生的双重效应机制尚未完全清晰，由于该机制的解析对富硒农作物的种植、人体健康、生态平衡有重要而长远的意义，此领域受到科学界的关注日益增长。
+
+茶叶是世界三大无醇饮料之一，消费群体庞大。近年来，越来越多的研究表明茶叶及茶多酚在减少肥胖、延缓衰老、防治心脑血管疾病和某些癌症等方面存在医疗保健价值(Shen etal.,2011；Khan& Mukhtar,2013；Henning et al.,2015)。茶树(Camellia sinensis)是一种富硒能力较强的作物(艾春月等，2019)，现行富硒茶的硒含量标准 $( 0 . 2 5 { \sim } 4 \ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，NY/T 600-2002)比富硒稻米的硒含量高出许多 $( 0 . 0 4 { \sim } 0 . 3 \ \mathrm { m g { \cdot } k g } ^ { - 1 }$ ,GB/T 22499-2008)。有学者认为硒与茶多酚、茶多糖等组份对茶叶的抗氧化功效有协同增效作用(Molanetal.,2009)。土壤的硒含量是决定植物体含硒量的主要因素之一，然而中国是个缺硒的大国，这导致国产茶叶的含硒量参差不齐，许多富硒茶难以达到富硒标准。外源施加硒肥被认为是生产富硒茶的主要的有效途径，而高浓度的硒对植物和人类是有害的，因此探究硒浓度对茶的生长和生理的影响对于系统阐明硒元素对茶树的生物学效应及科学施加硒肥生产富硒茶有现实意义。Huetal.(2003)报道了在叶片喷洒硒肥( $7 5 \ \mathrm { g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 可以增加产量，同时茶叶的茶多酚含量明显降低。 $\mathrm { { X u } }$ et al. (2003)发现在叶片喷洒硒肥 $( 5 0 ~ \mathrm { g } \cdot \mathrm { h m } ^ { - 2 } )$ 后茶叶中的茶多酚含量明显增加。这两个报道证实硒能影响茶叶的产量和茶多酚含量，但是由于硒浓度处理数目过少，无法解释为何不同的硒浓度作用效果存在差异。曹丹等(2019)在硒浓度为 $\mathrm { 0 { \sim } 1 \ m m o l { \cdot } L ^ { - 1 } }$ （即 $\mathrm { 0 { \sim } 8 0 \ m g { \cdot } L ^ { - 1 } }$ 范围研究沙培茶树的根、茎、叶的硒含量均得到先升后降再升的双峰走势，此结果与许多其他植物中的报道不同。例如，尚庆茂等(1997)通过水培生菜的研究发现营养液中的硒浓度与生菜的硒含量正相关。总而言之，相关研究在茶树中报道极少，关于硒元素对茶的生长和生理的影响人们还缺乏系统了解，阻碍了富硒茶栽培的基础研究和推广。以下科学问题亟需系统解决：(1)需要明确硒元素对茶树是否存在双重效应，应该利用水培或组织培养的方式开展单因素实验以便减少其他营养元素和环境因素的干扰，初步确定产生毒害作用和有益作用的硒浓度阈值；(2)需增加评价指标系统探究硒浓度与茶树生长、茶叶品质的关系，为研究植物的硒毒性和硒活性机制奠定基础；(3)硒对茶树的显微结构和抗逆生理指标的影响未见报道，应进一步搜集相关证据。鉴于此，本研究采用水培试验模型，从植物生长、植物生理、显微结构等方面较系统地探讨了不同硒浓度对茶树的硒累积、生长和生理特性的影响，为研究硒元素对茶树的双重效应机制和富硒茶的栽培提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验材料与设计
+
+供试茶苗为黔茶 601，材料来自遵义市湄潭县核桃坝御鼎茶业种植基地一年生扦插苗。实验开始前选取长势良好且相对一致的茶苗为材料。
+
+试验采用水培方式培养，以小西茂毅营养液(Shigeki,1995)培育茶苗，元素组成为 $\mathbf { N }$ $2 8 5 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $\operatorname { K } 1 0 0 0 \mu \mathrm { m o l { \cdot } L } ^ { - 1 }$ 、 $\mathrm { C a 7 5 0 \mu m o l { \cdot } L ^ { - 1 } }$ 、 $\mathrm { P } 1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $\mathbf { S } 2 1 3 0 \mu \mathrm { m o l { \cdot } L } ^ { - 1 }$ 、 $\mathbf { M g }$ $1 0 4 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、Al $4 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、Fe $6 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ $. \mathrm { B } 9 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \cdot \mathrm { M n } 1 8 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \cdot \mathrm { Z n } 1 . 5 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \cdot$ （2$\mathrm { C u } 0 . 4 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $\mathbf { M o } \ 0 . 5 \ \mu \mathrm { m o l { \cdot } L } ^ { - 1 }$ ，营养液 $\mathsf { p H }$ 调至5.5。将上述茶苗移植到通气水培箱( $\mathrm { 4 1 ~ c m \times }$ $2 4 \ \mathrm { c m } \times 1 4 \ \mathrm { c m } ,$ 中，每箱装有 $6 \mathrm { L }$ 营养液，培育6株茶苗。以 $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 4 }$ 为硒源，设置硒浓度为（ $) ( \mathrm { C K } ) , \ 0 . 1 5 , \ 0 . 3 , \ 1 . 5 , \ 3 , \ 5 , \ 8 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 共7个处理，分别记为 $\mathrm { S e 0 } , \ \mathrm { S e 0 } . 1 5 , \ \mathrm { S e 0 } . 3 , \ \mathrm { S e l } . 5 , \$ Se3、Se5、Se8，每个处理3个重复。实验于2019年6月在遵义医科大学室内进行，实验条件是光照 $1 2 \mathrm { h }$ ，黑暗 $1 2 \mathrm { h }$ ，温度 $2 5 ^ { \circ } \mathrm { C }$ 。每周更换一次营养液，培养 $3 0 \mathrm { d }$ 后进行形态观察和相关指标的测量。
+
+# 1.2测定方法
+
+# 1.2.1茶树生长和茶叶品质指标的测定
+
+茶苗培养30d后，用卷尺(精度 $0 . 1 \mathrm { c m } )$ 测量每处理组茶苗的株高，重复测定3次取均值。硒处理前后均用电子天平准确称量茶苗鲜重，二者相减得到鲜重增量。采集各组茶苗根系，用蒸馏水清洗后将根系分为新根和老根，将其放入烘箱设定 $6 5 ^ { \circ } \mathrm { C }$ 分别烘至恒重，用分析天秤称量。总根干重为新根与老根的干重之和。
+
+采集不同处理组相同部位的成熟茶苗叶片测定叶绿素含量、可溶性糖含量、可溶性蛋白含量等各项指标，叶绿素含量测定：取鲜叶 $\boldsymbol { 0 . 2 \mathrm { ~ g ~ } }$ 剪碎至均匀的细条，共三份，用 10$\mathrm { m L 9 5 \% ( V / V ) }$ 乙醇在弱光下研磨至组织全部变白滤入 $2 5 ~ \mathrm { m L }$ 棕色容量瓶中，最后在波长为$6 6 5 \mathrm { n m }$ 、 $6 4 9 \mathrm { n m }$ 和 $4 7 0 \mathrm { n m }$ 下测量吸光度值(李和生，2000)。
+
+可溶性糖含量测定：取鲜叶 $\boldsymbol { 0 . 3 \mathrm { ~ g ~ } }$ ，共三份，加入蒸馏水，于沸水中提取 $3 0 ~ \mathrm { m i n }$ ，共提取两次，提取液过滤入 $2 5 ~ \mathrm { m L }$ 容量瓶中，在 $6 3 0 \mathrm { n m }$ 处测量吸光度值(李和生，2000)。
+
+可溶性蛋白含量：取鲜叶 $\boldsymbol { 0 . 5 \mathrm { ~ g ~ } }$ ，共三份，加蒸馏水研磨后离心 $1 0 ~ \mathrm { { m i n } }$ ，提取和收集上清液。取上清液 $1 . 0 \mathrm { m L }$ 加入考马斯蓝G-250 溶液 $5 \mathrm { m L } _ { \circ }$ 在波长为 $5 9 5 \mathrm { n m }$ 下测量吸光度值(李和生，2000)。
+
+茶多酚含量参照GB/T8313-2008茶叶中的检测方法，取 $0 . 2 \ \mathrm { g }$ 烘干磨碎后的试样于离心管中，加入 $70 \%$ 甲醇溶液，水浴浸提，离心后将上清液转移至 $1 0 ~ \mathrm { m L }$ 容量瓶，移取 $1 . 0 ~ \mathrm { m L }$ 茶样提取液于用水定容至 $1 0 0 ~ \mathrm { { m L } }$ ，再移取茶样溶液 $1 . 0 ~ \mathrm { m L }$ 加入 $5 ~ \mathrm { m L }$ 的福林酚试剂，反应$5 \mathrm { m i n }$ 左右，加入 $7 . 5 \% \mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ 溶液。在波长为 $7 6 5 \mathrm { n m }$ 下测量吸光度值。
+
+# 1.2.2茶苗抗逆生理指标的测定
+
+硒处理 $3 0 \mathrm { ~ d ~ }$ 后，取采集不同处理组茶苗的先端一芽三叶测定丙二醛(MDA)、脯氨酸含量、过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ 等指标。丙二醛(MDA)：取鲜叶 $0 . 5 \mathrm { \ g }$ 用 $5 \mathrm { m L }$ 三氯乙酸[TCA, $5 \% \mathrm { ( W / V ) } ]$ 研磨，取上清液与 $0 . 6 7 \%$ 硫代巴比妥酸混合后，在波长为 $5 3 2 \mathrm { n m }$ 、 $4 5 0 \mathrm { n m }$ 和 $6 0 0 \mathrm { n m }$ 下测量吸光度值(李和生，2000)。
+
+根系活力：取根尖样品 $0 . 5 \mathrm { ~ g ~ }$ ，加人 $0 . 4 \%$ TTC 溶液和磷酸缓冲液的等量混合液 $1 0 ~ \mathrm { m L }$ ，反应后根取出，与乙酸乙酯和少量石英砂一起在研钵内磨碎，提出甲。在波长为 $4 8 5 \ \mathrm { n m }$ 下测量吸光度值(李和生，2000)。
+
+脯氨酸含量：取鲜叶 $0 . 5 \ : \mathrm { g }$ ，加人 $3 \%$ 的磺基水杨酸溶液，在沸水浴中提取滤液即为脯氨酸的提取液。吸取 $2 { \mathrm { m L } }$ 提取液于另一干净的带玻塞试管中，加入冰醋酸及酸性芘三酮试剂，后加入 $4 ~ \mathrm { m L }$ 甲苯，吸取上层脯氨酸淡红色甲苯溶液在波长为 $5 2 0 \mathrm { n m }$ 下测量吸光度值(李和生，2000)。
+
+过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 } )$ 含量：取 $0 . 1 \ \mathrm { g }$ 鲜叶，在冰浴中用加入三氯乙酸 $[ 0 . 1 \% ( \mathrm { W } / \mathrm { V } ) ]$ 、KI和磷酸钾缓冲液研磨，匀浆离心后取上清液在波长为 $3 9 0 \mathrm { n m }$ 下测量吸光度值(Velikova et al.,2000)。
+
+# 1.2.3茶苗硒含量的测定
+
+硒含量测定采用石墨炉原子分光光度法(潘虹等，2017)。分别采集不同处理组茶苗的先端一芽三叶和根系，共三份，先用去离子水冲洗鲜叶和根表面，再用去离子水反复冲洗以去除鲜叶和根表面吸附的离子。将鲜叶和根分别烘干并研磨成粉，取 $0 . 2 \ \mathrm { g }$ 后加入 $1 0 ~ \mathrm { m L }$ 硝酸-高氯酸 $( 5 : 1 )$ 于电热板上消解，将消解后溶液定容至 $2 5 ~ \mathrm { m L }$ 。利用石墨炉原子分光光度计测定样品的原子荧光强度，结合硒标准曲线计算总硒含量。
+
+# 1.2.4茶苗根尖显微特征
+
+取新生根尖 $0 . 5 { \sim } 1 ~ \mathrm { c m }$ 根段，使用番红\固绿染色法制备石蜡组织切片(邹江斌等，2013)，显微镜镜检，采集图像分析。
+
+# 1.3数据处理
+
+采用 SPSS17.0 统计分析软件计算各指标的平均值和标准误，使用LSD与Dunnett 检验进行差异显著性分析，所得统计结果使用Graphpad prism7.0 进行图形绘制。
+
+# 2结果分析
+
+# 2.1不同硒浓度处理对茶苗硒积累的影响
+
+以黔茶601茶苗为试验材料实施单因素水培试验，采用石墨炉原子分光光度法研究了硒酸钠浓度 $\mathrm { \cdot } \mathrm { s e } 0 { \sim } 8 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 } )$ 对茶苗的硒积累的影响。图1显示，在水培条件下随着硒浓度的增加，茶苗根部和新梢部分的总硒含量均明显增加。地上部分的硒积累曲线与根部高度相似，但是能比根部积累更多的硒元素。
+
+不同小写字母表示不同硒浓度处理间的差异显著 $\scriptstyle ( P < 0 . 0 5 )$ 。下同。
+
+![](images/53672f0c1bd2bdfe639ad66e8067e726c1a01eb0db2c06ecfaf4f91df8a4bea5.jpg)  
+图1不同硒浓度处理下水培茶树新稍部分和根部的总硒含量
+
+Different lowercase letters indicate significant diferences between different Se treatment levels( $\scriptstyle \phantom { + } P < 0 . 0 5 )$ .The same below.
+
+Fig.1 Total selenium contents in tea shoots and roots under different Se treatment levels in the hydroponic system
+
+# 2.2不同硒浓度下茶苗生长和光合色素含量的变化情况
+
+图2和图3显示，合适的硒浓度处理对茶苗根部和茎叶部分的生长有利，随着硒浓度升高茶苗的生长逐渐受到抑制并不断加重。与对照组 Se0 相比(图2)，Se0.3 组茶苗生长较好，叶片翠绿，根系颜色较白，新生侧根数量较多。Se5、Se8 组茶苗的成熟叶片出现枯斑，根系颜色逐渐褐黄，新生侧根减少。Se0.3、Se1.5 组茶苗的鲜重与 Se0 相比显著增加，Se3、Se5、Se8 组茶苗的鲜重则显著减少(图3：A)。Se0.15、Se0.3、Se1.5 组的株高增长量与 Se0无显著差异，Se3、Se5、Se8 组茶苗的株高增长量则显著减小（图3：C)。对于茶苗根系生物量而言，Se0.3组茶苗根系总干重以及新根干重与Se0 组相比显著增长；而其他硒浓度处理组的新根根系生物量都比Se0 低，但无显著差异(图3：B)。
+
+图4 显示不同的硒酸钠浓度能够影响茶苗的叶绿素和类胡萝卜素含量。与 Se0 相比，茶苗在 Se0.15、Se0.3处理下叶绿素a、叶绿素b、类胡萝卜素含量均有所增加，其中叶绿素a最明显。Se3、Se5、Se8组与对照组Se0 相比，茶苗的叶绿素和类胡萝卜素含量有降低趋势(图4)。
+
+![](images/b8a11d8b68655632e9a15dadc7230ce25458005e1be1762430c5ce01453499ab.jpg)
+
+0,0.15,0.3,1.5,3,5,8分别代表 Se0、Se0.15、Se0.3、Se1.5、Se3、Se5、Se8 组茶苗。下同。
+
+0,0.15,0.3,1.5,3,5,8indicate teaseedlings underdierentSetreatmentlevels: SeO,SeO.15,SeO.3,Se1.5,Se3, Se5,Se8.The same below.
+
+![](images/82901dc23ce6a7a0c7be7fe8a9dbc508a52775fd511ab9e2b6471f307d5a19e8.jpg)  
+图2不同硒浓度培养后茶苗的形态表现
+
+![](images/d9e58d051b9931eb550cd9caaa97dd232979caf6c9480e86859d9db31d5e8537.jpg)  
+图3不同硒浓度处理对茶苗鲜重增加量(A)、根干重 $\mathbf { \tau } ( \mathbf { B } )$ 、株高增长量(C)的影响 Fig.3 Effects of different Se treatment levels on fresh weight increase (A), roots dry weight (B), and plant height increase of tea plant (C)
+
+Fig.4 Effects of different Se treatment levels on the photosynthetic pigment contents of tea plant 2.3不同硒浓度对茶叶品质生理特性的影响
+
+由图5可知，茶苗新梢中的可溶性糖、可溶性蛋白和茶多酚含量变化规律相近，均随硒酸钠浓度的增加呈现先上升后下降的趋势。 $\mathrm { s e } 0 . 3$ 组与 Se0相比可溶性糖含量显著增加；Se3、Se5、Se8 组可溶性糖含量均显著减少(图5：A)。与 Se0 相比，Se0.3 组时可溶性蛋白含量增加明显；而 Se8 组可溶性蛋白则显著减少(图5：B)。Se0.3 组茶多酚含量最高；Se3、Se5 和Se8 组则显著减少(图5：C)。上述结果表明，硒对茶苗叶品质生理特性的影响有两面性，在低浓度时有一定的促进作用，而在高浓度时有损害作用。
+
+![](images/b912e73a48f9065c38c9b3c5665c737ca77dd1145ff86a1053217d7c7ebfed4a.jpg)  
+图4不同硒浓度对茶苗光合色素含量的影响  
+图5不同硒浓度硒酸钠对茶苗可溶性糖(A)、可溶性蛋白(B)、茶多酚(C)含量的影响Fig.5 Effects of different Se treatment levels on the contents of soluble sugar (A), soluble protein(B), and polyphenol(C) in tea plants
+
+# 2.4不同硒浓度对茶苗抗逆生理特性的影响
+
+图6：A显示茶苗的MDA含量会随硒酸钠浓度的增加呈现先降后升的趋势。与 Se0 相比，Se0.15、Se0.3组MDA含量显著减少；Se1.5、Se3、Se5 和 Se8组MDA含量则逐渐上升，其中Se8 组达到显著差异水平(图6：A)。图6：B和6：C显示茶苗的脯氨酸和过氧化氢含量的变化规律一致，均随硒浓度的增加呈现先降后升的趋势。与 Se0对照组相比，Se0.3、Se1.5 组茶苗的脯氨酸显著减少；Se3、Se5、Se8 组则显著增加(图6：B)。与 Se0 对照组相比， $_ { \mathrm { S e 0 } . 3 , \mathrm { S e 1 } . 5 }$ 组叶片的 $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ 含量显著减少；Se3、Se5和Se8组的过氧化氢则显著增加(图6：C)。此外，硒浓度对茶苗根系活力也有显著影响，随着硒浓度的增加根系活力呈先升后降的趋势(图6：D)。Se0.15、Se0.3、Se1.5 组的根系活力比对照 Se0 均有所增加，其中 Se0.3组达到最大值，比 Se0 增加了 $7 8 . 1 9 \%$ (图6：D)。Se3、Se5、Se8 组根系活力逐步降低。
+
+![](images/2f0f9aca22a1615de564bfb37952884112732506e110d923365d0352034a4633.jpg)  
+图6不同硒浓度对茶苗MDA(A)、脯氨酸(B)、过氧化氢含量(C)和根系活力 $\mathbf { \tau } ( \mathbf { D } )$ 的影响Fig.6 Effects of different Se treatment levels on the malondialdehyde content (A),proline content(B), hydrogen peroxide content (C) and root activity $\mathbf { \tau } ( \mathbf { D } )$ of tea plants
+
+# 2.5不同硒浓度处理下茶苗根尖显微特征的变化
+
+通过根尖横切片的显微观察可知，茶树根尖成熟区的初生结构由表皮、皮层、维管柱组成，其中皮层由外皮层、皮层薄壁组织、内皮层构成(图7：A-G)。内皮层的绝大部分细胞能被番红染色，为全面增厚、木栓化的凯氏带；少部分被固绿染色，推测为通道细胞(图7：A,C,E,G)。维管柱中的初生木质部和初生韧皮部相间排列，初生木质部在横切面上呈星角状排列，可观察到三原型(图7：A,D)、四原型(图7：B,C,E,FG)两种。
+
+图7：A-G显示硒浓度能影响茶苗根尖成熟区的显微特征。在对照组Se0 中：表皮层细胞较小，不规则排列于外周；皮层细胞的大小由外向内细胞大小逐渐变小，内皮层凯氏带明显，外皮层细胞外侧番红染色的圈带隐约可见；维管柱的木质部较明显，由外往里细胞逐渐增大(图7：A)。Se0.15、Se0.3、Se1.5 组的显微结构相似；表皮层细胞比 Se0 增大，排列较规则、整齐；外皮层细胞外侧的番红染色带比 Se0 清晰；皮层薄壁细胞比SeO 更圆润饱满(图7：B.C,D)。随着硒酸钠浓度的增加，Se3、Se5和 Se8 组根尖的初生结构及内部细胞形态的变化更明显：根尖表皮细胞更大、排列更整齐；外皮层细胞变大，形态排列与表皮细胞接近，番红染色带更明显；皮层薄壁细胞变形、干瘪受损；内皮层凯氏带结构有所变化，被染成绿色的细胞增加；维管柱也随着发生形变，维管柱与根径的比例比Se0有所减小，中央薄壁细胞变小、变形甚至受损(图7：E,FG)。值得一提的是，上述表征在 Se8 时最为明显，表明该浓度下细胞受到严重的硒胁迫作用。
+
+![](images/30cd759a76c18de96419e89b79b574bdb9822740b0d0fe00d484a1ed360bd4e2.jpg)  
+图7不同硒浓度对茶苗根尖显微特征的影响
+
+A-G 分别代表 Se0、Se0.15、Se0.3、Se1.5、Se3、Se5、Se8 处理的茶苗根尖横切片。epi.表皮；exo．外皮 层；par．皮层薄壁细胞；xyl．木质部；phl.韧皮部；end．内皮层；pas.通道细胞。 A-G represents the transversesectionof the root tipof tea seedlings treated with SeO,SeO.15,SeO.3,Se1.5,Se3, Se5 and Se8,respectively.epi. Epidermis; exo. Outer cortex; par. Cortical parenchyma cels; xyl. Xylem; phl. Phloem; end. Endodermis; pas.Passage cell.
+
+Fig.7 Microscopic feature of root tips of tea plants exposed to the different Se treatment levels
+
+# 3讨论
+
+# 3.1硒浓度与茶苗硒含量、硒分布的关系
+
+硒酸钠是可被植物直接利用的硒源的主要形式之一。植物根尖从土壤吸收硒元素后，转移至地上部分，在叶绿体和细胞质中转化为有机硒后转移并积累于不同的器官或组织中(White,2018)。植物种类和器官类型不同，硒元素的积累能力及其在器官或组织中的分布样式通常也会有所差异。生产富硒农产品的本质是在食用或药用部位富集硒元素，因此了解培养基质中的硒浓度与植物硒含量的关系以及硒元素在植物体内的分布非常必要。茶苗在多个浓度的硒处理下茶叶的含硒量均比根部高，说明茶叶对硒的蓄积能力比根部强，硒酸钠被茶苗吸收后，更多的硒元素转移到植株的地上部分。这既有利于减少硒在根积累产生的毒害作用，也可为外源添加硒肥生产富硒茶叶提供有利条件。生长基质的硒含量是富硒茶生产的主要限制因素。我国大部分地区的土壤硒含量的背景值很低，全国均值只有 $0 . 2 9 \mathrm { \ m g ^ { . } L ^ { - 1 } }$ （魏复盛等,1991)，因此许多地区生产的茶叶含硒无法满足富硒茶的硒含量标准，例如广东茶区所抽取的35个天然茶叶样品的硒含量为 $0 . 1 2 4 ~ \mathrm { { m g } \cdot \mathrm { { k g } ^ { - 1 } } }$ (梁春燕等,2014)。本研究基于水培实验证实，茶叶硒积累与营养液的硒酸钠浓度呈正相关。曹丹等(2019)在硒浓度为 0\~1mmol·L(即 $\mathrm { 0 { \sim } 8 0 \ m g { \cdot } L ^ { - 1 } } ,$ 范围研究沙培茶树的根、茎、叶的硒含量均得到先升后降再升的双峰走势,这与本研究结果不同。我们推测栽培方式和浓度范围不同可能是造成二者差异原因。尚庆茂等（1997）研究了不同浓度下水培生菜的硒含量情况也证实硒积累与营养液的硒浓度呈正相关。由此可见，土壤或培养基质中的添加足量的硒元素即可达到富硒茶所需的硒标准。根据图1测算，约需要加入超过 $0 . 3 \mathrm { m g \cdot L ^ { - 1 } ( S e ) }$ 的硒酸钠，才可能生产出符合农业部标准的富硒茶 $( 0 . 2 5 \mathrm { m g ^ { . } k g ^ { - 1 } } ,$ 。外源添加硒肥作为低硒地区富硒茶栽培的有效途径，并非意味着硒肥多多益善。众所周知，高浓度的硒会对植物产生毒害作用，因此，添加硒肥生产富硒茶有必要继续探讨硒浓度对茶树的生长和生理的影响。
+
+# 3.2硒浓度对茶苗生长的影响
+
+高等植物没有类似动物特异性合成硒蛋白的机制，因此随着体内硒浓度的积累，许多植物在蛋白质合成过程中会非特异性引入硒代氨基酸，从而造成植物体内原有蛋白质结构改变或功能失活(Terry etal.,2000)，情况严重即会表现出硒毒性。我们发现在营养液中的硒浓度达到 $3 \mathrm { m g } \mathrm { \cdot L } ^ { - 1 }$ 以上就会对茶苗生长有抑制作用，表现为株高降低，鲜重减少。在此硒浓度下，光合色素a和类胡萝卜素显著下降。这表明高浓度的硒酸钠能抑制叶片的光合作用。硒浓度能通过影响光合作用而改变植物多糖等有机物的积累，从而影响植物生长。
+
+与上述高浓度对茶苗生长的抑制作用不同，低浓度的硒可以促进茶苗的生长。茶苗在硒浓度为 $0 . 3 \mathrm { m g ^ { . } L } ^ { - 1 }$ 营养液中生长最好，此硒浓度对地上部分和根部的生长都有明显的促进作用。这些结果与在豌豆、小麦等植物中的报道相似(Guerrero et al.,2014;Lehotai et al.,2016)。胡玉荣(2016）基于转录组分析发现添加 $0 . 5 \mathrm { \ m g ^ { . } L ^ { - 1 } }$ 硒酸钠的茶苗与对照相比能增加光合作用途径相关基因的表达使之呈现富集状态。由此可见，调控茶树光合色素的生物合成是硒酸钠影响茶苗生物量和生长状态的重要途径，此途径是硒浓度敏感的。在硒促进茶苗生长的过程中，硒胁迫的补偿效应可能发生重要作用。在受到轻度胁迫时，机体或细胞能产生补偿效应，用以减小或抵消环境胁迫带来的不利影响，这是生物界普遍存在的一种适应能力(袁昌洪等，2020)。植物吸收硒元素后转化形成的硒代氨基酸能使体内部分原有的蛋白质结构改变或功能失活，这种胁迫作用是浓度敏感型的，在低浓度下可控的，植物通过合成更多蛋白质表现补偿效应。茶苗在硒浓度为 $0 . 3 \mathrm { m g ^ { . } L } ^ { - 1 }$ 营养液中，其可溶性蛋白显著增加，从而表现出适应性生长、生物量增加。综上所述，硒酸钠对茶树的生长表现出硒浓度敏感型的双重作用，高硒浓度具有抑制甚至毒害作用，合适浓度下具有有益作用。我们推测调控茶树光合色素的生物合成和硒胁迫的补偿效应是硒酸钠浓度影响茶苗生长的重要生理机制。
+
+# 3.3硒浓度对茶苗抗逆生理特性的影响
+
+硒与植物的互作起始于根部，根的生长对硒浓度较为敏感。在低硒浓度(Se0.15、Se0.3、Se1.5)下茶苗的根系活力比对照 Se0均有所增加，而在高硒浓度(Se3、Se5、Se8)茶苗的根系活力明显降低。该结果与根尖解剖的显微观察结果相吻合。在低硒浓度下(小于 $1 . 5 \mathrm { m g ^ { . } k g ^ { - 1 } } .$ ）皮层薄壁细胞更圆润饱满、排列更规则整齐，表皮层相对较薄；而在高硒浓度(大于 $3 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 } .$ ）
+
+下出现胁迫表征，皮层薄壁细胞变形、干瘪，表皮层加厚，中柱细胞受损。这证实了硒对根的形态和功能有双重作用，在高浓度是表现为毒害作用，在低硒浓度时表现有益作用。
+
+$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和 MDA是脂质过氧化和多种细胞损伤的重要生化标志物，被广泛作为植物抗逆生理的重要指标。正常情况下生物体内过氧化物ROS(如活性氧、过氧化氢等)的生成与清除处于动态平衡状态，当病理、胁迫等因素打破该平衡致使ROS 浓度超过生理限度时就会损伤生物大分子，包括脂质过氧化、蛋白质的氧化和DNA的氧化损伤等。低硒浓度培养时，茶苗的MDA和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量显著降低；高硒浓度培养时，茶苗的MDA和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量显著增加。此变化模式与水稻、莴苣等植物在不同硒浓度培养下的结果一致(Rios et al.,2009;Luo et al.,2019)。许多学者认为硒对植物的有益作用与其抗氧化作用有关，理由是硒使CAT等抗氧化酶活性增强(Ulhassan et al.,2019)。Hartikainen et al.(2000)则认为高浓度的硒元素是促氧化剂，理由是高浓度下硒引发ROS大量积累，使抗氧化酶活性受损，造成细胞损伤或细胞凋亡。硒的促氧化作用从根本上可能是由硒胁迫引起的，细胞硒浓度高时在蛋白质合成过程中会非特异性引入大量硒代氨基酸而造成原有抗氧化酶结构改变或功能失活，从而促发了ROS 大量积累。综上所述，不同硒浓度培养可以影响茶树细胞内环境中的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和MDA的平衡，从而影响植物的适应性。
+
+脯氨酸过去一直被认为是一种重要的渗透调节物质，现在发现它具有多种生理功能，在多种胁迫条件下对植物起到调节和保护作用(Kishor etal.,2005；Szabados& Savoure,2010)。在本研究中，茶苗的脯氨酸含量随硒浓度的增加呈现先降后升的趋势。该结果与Ulhassan etal.(2019)在油菜研究中的结果一致。结合可溶性糖和可溶性蛋白含量在低硒浓度培养条件下增加而在高硒浓度条件下降低的变化模式，我们认为不同硒浓度会激发茶树对细胞渗透性的调节。由此可推测：在低硒浓度下由于补偿效应，细胞增加了可溶性蛋白和可溶性糖积累，同时为了平衡内外的渗透平衡而减少了脯氨酸的积累；在高硒浓度下则相反，细胞受到严重硒胁迫，光合作用降低，可溶性蛋白和可溶性糖的合成受到抑制打破了细胞原有的渗透平衡，此时需要促进脯氨酸的积累而提高茶苗的抗逆性。胡玉荣(2016)利用转录组测序研究了茶苗对硒酸钠的吸收代谢情况，通过组间比较发现脯氨酸代谢基因在硒酸钠处理组显著富集。这些证据表明植物可以通过调节脯氨酸的合成与代谢来实现对硒酸盐的响应，在硒胁迫条件下可以提高脯氨酸含量增加植物的耐受性。
+
+# 3.4硒浓度对茶叶品质生理特性的影响
+
+茶叶含有茶多酚、茶多糖、蛋白质、茶氨酸、矿质元素等多种功能组份，被认为具有养生、保健、防癌等功效。其中，茶多酚主要为黄酮类物质，具有抗氧化、防衰老、防辐射和助消化等多种保健功能而被认为是茶叶的核心品质指标(Khan& Mukhtar,2007)。胡玉荣(2016)利用转录组测序研究了茶苗对硒酸钠的吸收代谢情况，通过组间比较发现黄酮类生物合成基因在硒酸钠处理组显著富集。该结果表明硒酸钠能影响黄酮类的生物合成。Hu 的研究团队报道了在叶片喷洒硒肥 $( 7 5 ~ \mathrm { g } \cdot \mathrm { h m } ^ { - 2 } )$ 后茶叶中的茶多酚含量显著降低(Hu et al.,2003)。Xuetal.(2003)报道了，在叶片喷洒硒肥 $( 5 0 ~ \mathrm { g } \cdot \mathrm { h m } ^ { - 2 } )$ 后茶叶中的茶多酚含量明显增加。这表明叶片施加硒肥，采用不同浓度时，茶叶中的茶多酚含量不同。本研究在水培营养液中添加施肥，结果显示茶苗新梢中的可溶性糖、可溶性蛋白和茶多酚含量均随硒浓度的增加呈现先上升后下降的趋势。这些证据表明添加硒肥料对茶叶的品质也具有双重效应，在合适浓度时能增加茶多酚、茶多糖、茶蛋白等品质指标，浓度过高可降低茶叶品质。
+
+# 4结论
+
+本研究考察了硒浓度 $( 0 { \sim } 8 \ \mathrm { \ m g { \cdot } L } ^ { - 1 } ) $ 对茶苗硒积累、生长、生理特性和显微特征的影响。结果显示：茶苗的根和新梢中的硒含量与营养液中的硒浓度与正相关，茶苗的多个生长和生理指标对硒浓度的敏感性差异明显。在合适硒浓度 $\left( 0 . 3 \mathrm { m g ^ { . } L } ^ { - 1 } \right)$ 时硒酸钠对茶树有益，有利于植物生长，能增强根系活力，提高茶叶茶多酚含量，降低过氧化物和脯氨酸含量；在硒浓度过高时 ${ \bf \Lambda } \Rightarrow 3 { \bf \Lambda } \mathrm { m g } { \bf \cdot } { \bf L } ^ { { \bf - 1 } } \mathrm { , }$ ，硒酸钠对茶苗有害，使茶苗出现胁迫反应，抑制植物生长，降低茶叶品质。根尖横切片显微特征也支持上述观点，低硒浓度(0.15、0.3、 $1 . 5 \mathrm { m g ^ { . } L } ^ { - 1 } .$ 处理的茶苗根尖的皮层薄壁细胞饱满、完好，表皮细胞较小；高硒浓度(3、5、 $8 \ \mathrm { m g { \cdot } L ^ { - 1 } } .$ 处理的茶苗根尖的皮层薄壁细胞变形或受损，表皮细胞增厚，表现出胁迫反应。上述结果表明，硒对茶苗的生长具有双重效应。硒的有益作用可能是由低硒浓度培养时产生的补偿效应、光合作用和抗氧化作用增强等因素引起的；而硒的毒害作用主要与硒胁迫效应有关，高浓度的硒能降低光合作用，激发ROS 和渗透性失衡。总之，本研究初步明确了水培茶苗在硒浓度为0.3\~1.5$\mathrm { \ m g { \cdot } L ^ { - 1 } }$ 时对生长和茶叶品质有益，并能获得含硒量符合富硒茶标准的茶叶；在硒浓度 $\geqslant 3$ $\mathrm { { m g } { \cdot } L ^ { - 1 } }$ 时显现胁迫效应，能抑制生长和降低茶叶品质。本工作可为进一步研究硒对茶树的双重作用机制和富硒茶栽培技术奠定基础。
+
+# 参考文献：
+
+AI CY,ZHANG BJ, YUAN P, et al.,2019. Characteristics of organic selenium contents in natural tea of china and discussion on the quality standard [J]. Food Nutr Sci, 8(2): 155-166.[艾春月, 张宝军，袁萍，等，2019.中国天然茶叶硒的含量特征及其质量标准探讨［J]．食品与营 养科学，8(2)：155-166.]   
+CAO D, MALL,LIU YL, et al.,2020. Absorption and accumulation characteristics of selenium in tea plant (Camellia sinensis) and expression analysis of genes related to selenium regulation [J].JTea Sci,40(1):77-84.[曹丹，马林龙，刘艳丽，等，2020．茶树对硒吸收累积特性 及其硒调控相关基因的表达分析[J]．茶叶科学，40(1)：77-84.]   
+FLEET JC, 2O09. Dietary selenium repletion may reduce cancer incidence in people at high risk who live in areas with low soil selenium [J]. Nutr Rev, 55 (7): 277-279.   
+GUERRERO B,LLUGANY M, PALACIOS O, et al., 2014.Dual effects of different selenium species on wheat [J].Plant Physiol Biochem,83:3OO-307.   
+HAWRYLAKNOWAK B, MATRASZEK R,POGORZELEC M, et al., 2015. The dual effects of two inorganic selenium forms on the growth， selected physiological parameters and macronutrients accumulation in cucumber plants [J]. Acta Physiol Plant, 37(2).   
+HARTIKAINEN H, XUE T, PIIRONEN V, et al.， 2OOO. Selenium as an anti-oxidant and pro-oxidant in ryegrass[J].Plant Soil, 225(2): 193-200.   
+HENNING SM, WANG P, SAID JW, et al., 2O15. Randomized clinical trial of brewed green and black tea in men with prostate cancer prior to prostatectomy [J]. Prostate,75(5): 550-559.   
+HU Q,XU J,PANG G, et al., 2OO3. Effect of selenium on the yield and quality of green tea leaves harvested in early spring [J]. JAgric Food Chem, 51(11): 3379-3381.   
+HU YR，2016. Identification and analysis of genes related to selenium assimilation and metabolism in tea plant roots [D]. Beijing: Chinese Academy of Agricultural Aciences.[胡玉 荣，2016.茶树根系硒吸收和代谢的关键基因发掘与分析[D」．北京：中国农业科学 院.]   
+JIANG C, ZU C, SHEN J, et al., 2015. Effects of selenium on the growth and photosynthetic characteristics of flue-cured tobacco (Nicotiana tabacum L.) [J]. Acta Soc Bot Pol, 84(1): 71-77.   
+KHAN N,MUKHTAR H,2O13.Tea and health: studies in humans [J]. Curr Pharm Design,19(34): 6141-6147.   
+KISHOR PB, SANGAM S,AMRUTHA R N, et al., 2005. Regulation of proline biosynthesis, degradation，uptake and transport in higher plants: Its implications in plant growth and abiotic stress tolerance [J]. Curr Sci, 88(3): 424-438.   
+KHAN N, MUKHTAR H, 2007. Tea polyphenols for health promotion Khan [J]. Life Sci, 81(7): 519-533.   
+LIANG CY, TANG H, LUO YF, 2014.Preliminary investigation and analysis on tea selenium content in Guangdong tea area[J].Guangdong Agric Sci, 41(8):43-46.[梁春燕，唐颢，罗一 帆，2014．广东茶区茶叶含硒量初步调查分析[J]．广东农业科学，41(8)：43-46.]   
+LI HS,2O00. Principle and technology of plant physiology and biochemical experiments[M]. Beijing:Higher Education Press:350-550.[李合生，2000．植物生理生化实验原理和技术 [M]．北京：高等教育出版社：350-550.]   
+LEHOTAI N, LYUBENOVA L, SCHRODER P, et al., 2016. Nitro-oxidative stress contributes to selenite toxicity in pea (Pisum sativum L.) [J]. Plant Soil: 1O7-122.   
+LOBANOV AV, FOMENKO DE, ZHANG Y, et al., 20O7. Evolutionary dynamics of eukaryotic selenoproteomes: large selenoproteomes may associate with aquatic life and small with terrestrial life [J]. Genome Biol, 8(9): 1-16.   
+LOSCALZO J, 2014. Keshan disease, selenium deficiency, and the selenoproteome [J]. N Engl J Med, 370(18): 1756-1760.   
+LUO H, DU B,HE L,et al.,2O19. Foliar application of sodium selenate induces regulation in yield formation, grain quality characters and 2-acetyl-1-pyrroline biosynthesis in fragrant rice [J]. Bmc Plant Biol, 19(1): 1-12.   
+SHANG QM, LI PL, GAO LH, 1997. Selenium uptake and inversion by hydroponic lettuce [J]. Acta Hortic Sin,24(3):255-258.[尚庆茂，李平兰，高丽红，1997．水培生菜对硒的吸收 和转化[J]．园艺学报，24(3)：255-258.]   
+MOLAN AL, FLANAGAN J, WEI W, et al., 2009. Selenium-containing green tea has higher antioxidant and prebiotic activities than regular green tea [J]. Food Chem, 114(3): 829-835.   
+NAZ FS, YUSUF M, KHAN TA, et al., 2015. Low level of selenium increases the efficacy of 24-epibrassinolide through altered physiological and biochemical traits of Brassica juncea plants [J]. Food Chem,185: 441-448.   
+PAN H, HUANG YL,LI Y,et al., 2O17. Determination of selenium in rat tissues after oral administration of selenium-enriched green tea by graphite furnace atomic absorption spectrometry [J].Mod Food Sci Technol,33(7): 231-237.[潘虹，黄琳艳，李义，等，2017. 石墨炉原子吸收法测定大鼠饮用富硒绿茶后硒元素在大鼠组织中的含量［J]．现代食品 科技，33（7)：231-237.]   
+RAYMAN MP, 2000. The importance of selenium to human health [J]. Lancet, 356(9225): 233-241.   
+RIOS JJ, BLASCO B, CERVILLA LM, et al.，2009.Production and detoxification of $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ in lettuce plants exposed to selenium [J]. Ann Appl Biol, 154 (1): 107-116.   
+SCHWARZ K, FOLTZ CM, 1957. Selenium as an integral part of Factor 3 against dietary necrotic liver degeneration [J]. JAm Chem Soc,79(12): 3292-3293.   
+SHEN C, YEH JK, CAO JJ, et al.， 2011. Green tea and bone health: evidence from laboratory studies [J]. Pharmacol Res, 64(2): 155-161.   
+SHANKER K, MISHRA S, SRIVASTAVA S, et al.,1996. Effect of selenite and selenate on plant uptake of cadmium by maize (Zea mays)[J]. Bull Environ Contam Toxicol, 56(3): 419-424.   
+SZABADOS L, SAVOURE A, 2010. Proline: a multifunctional amino acid [J]. Trends Plant Sci, 15(2): 89-97.   
+TERRY N, ZAYED AM, DE SOUZA MP, et al., 2000. Selenium in higher plants [J]. Ann Rev Plant Physiol Plant Mol Biol, 51:4O1-432.   
+ULHASSAN Z, GILL RA,ALI S,et al.， 2019. Dual behavior of selenium: Insights into physio-biochemical, anatomical and molecular analyses of four Brassica napus cultivars [J]. Chemosphere, 225: 329-341.   
+VELIKOVA V, YORDANOV I, EDREVA A, et al., 20O0. Oxidative stress and some antioxidant systems in acid rain-treated bean plants protective role of exogenous polyamines [J].Plant Sci, 151 (1): 59-66.   
+WEI FS,CHEN JS,WU YY, et al., 1991. Study on the backeground contents on elements of soils in China[J].Environ Sci,12(4):12-19.[魏复盛，陈静生，吴艳云，等，1991．中国土 壤环境背景值研究[J]．环境科学，12(4)：12-19.]   
+WHITE PJ, 2018. Selenium metabolism in plants[J]. Biochim Biophys Acta,1862(11): 2333-2342   
+SHIGEKI K，1995.Promotional effect of aluminum on the growth of tea trees [J].J Tea, 21(3):18-22.[小西茂毅，1995．铝对茶树生长的促进作用[J].茶叶，21(3)：18-22.]   
+XU J, ZHU S, YANG F, et al., 2OO3.The influence of selenium on the antioxidant activity of green tea [J]. J Sci Food Agric, 83(5): 451-455.   
+YUAN H, YANG ZQ, ZHAO HL, 2020. Compensatory growth of tomato after high temperature and high humidity stress[J].JEcol,39(2):487-496.[袁昌洪，杨再强，赵和丽，2020．番茄 高温高湿胁迫后的补偿生长[J]．生态学杂志，39(2)：487-496.]   
+YIN H, QI Z,LI M, et al.， 2O19. Selenium forms and methods of application differentially modulate plant growth, photosynthesis,stress tolerance,selenium content and speciation in Oryza sativa L.[J]. Ecotoxicol Environ Safety, (169): 911-917.   
+ZOU JB,LU JZ, ZHANG JJ, 2013. Precautions and method improvement of paraffin section in traditional Chinese medicine preparation [J]. Jiangxi J Trad Chin Med, 44(12): 71-72.[邹江 斌，卢建中，张娟娟，2013．石蜡切片在中药制片中注意事项及方法改良［J]．江西中医 药，44(12):71-72.]   
+ZHU Y, PILONSMITS EA, ZHAO F, et al.， 2O09. Selenium in higher plants: understanding mechanisms for biofortification and phytoremediation [J]. Trends Plant Sci, 14(8): 436-442.

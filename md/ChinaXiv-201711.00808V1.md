@@ -1,0 +1,214 @@
+1 饲粮非纤维性碳水化合物/中性洗涤纤维对黔北麻羊瘤胃发酵参数、血浆生化指标、养分消  
+2 化率的影响  
+3 赵　鹏’吴文旋1,2\*吴佳海3\*朱伦琴」莘海亮4袁　鑫」　杨春红」　杨　康」孙　伦l  
+4 韩娥'  
+5 （1.贵州大学动物科学学院，贵阳 550025；2.贵州大学新农村发展研究院，贵阳 550025；  
+6號 3.贵州省草业研究所，贵阳 550006；4.黔东南民族职业技术学院，凯里 556000)  
+7 摘要：本试验旨在研究不同饲粮非纤维性碳水化合物（NFC）/中性洗涤纤维（NDF）对  
+8 黔北麻羊瘤胃发酵参数、血浆生化指标、养分消化率的影响。采用 $3 { \times } 3$ 拉丁方试验设计，  
+9 选取6只健康成年黔北麻羊为试验动物，将其分为3组，每组2个重复，每个重复1只羊。  
+10 试验I组、试验ⅡI组、试验III组饲粮 NFC/NDF 分别为 2.14:1.00、1.05:1.00、0.40:1.00。试  
+11 验分3期，每期15 d，包括10d预试期和5d正试期。检测指标包括：饲粮养分消化率、瘤  
+12 胃发酵参数（pH、缓冲力、氨态氮和挥发性脂肪酸浓度、纤维素酶活性）、血浆生化指标  
+13 （脂多糖、白蛋白、尿素氮、葡萄糖含量及过氧化氢酶、谷草转氨酶、超氧化物歧化酶、谷  
+14 胱甘肽过氧化物酶活性）。结果显示：1）3个试验组干物质采食量差异不显著（ $P { > } 0 . 0 5$ ），  
+15 试验II组各养分消化率均显著低于试验I组、试验Ⅱ组（ $P { < } 0 . 0 5$ ）。2）试验I组瘤胃液 $\mathsf { p H }$   
+16 显著低于试验ⅡI组、试验III组( $. P { < } 0 . 0 5 ^ { \cdot }$ );试验II组瘤胃液缓冲力显著高于试验I组( $. P { < } 0 . 0 5 )$ ，  
+17 纤维二糖酶活性、乙酸浓度显著低于试验I组（ $. P { < } 0 . 0 5$ ），总挥发性脂肪酸、丁酸浓度显著  
+18 低于另外2组（ $. P { < } 0 . 0 5$ ）；试验I组、试验Ⅱ组、试验II组瘤胃液乙酸/丙酸依次升高、丙  
+19 酸浓度依次下降，各组间差异显著（ $_ { _ { P < 0 . 0 5 } }$ ）；3 组间瘤胃液羧甲基纤维素酶、木聚糖酶、  
+20 微晶纤维素酶活性差异不显著（ $. P { > } 0 . 0 5$ ）。3）试验I组、试验Ⅱ组、试验组血浆脂多糖  
+21 含量依次显著下降（ $. P { < } 0 . 0 5$ ），其余血浆生化指标差异不显著（ $. P { > } 0 . 0 5$ ）。综合来看，过高  
+22 NFC/NDF 对黔北麻羊瘤胃发酵参数和血浆生化指标有不良影响，本试验条件下，饲粮  
+23 NFC/NDF 以 1.05:1.00 为宜。
+
+关键词：非纤维性碳水化合物/中性洗涤纤维；瘤胃发酵参数；血浆生化指标；养分消化率;
+
+黔北麻羊中图分类号：S826
+
+碳水化合物是山羊饲粮的主要化学组分，在瘤胃中被瘤胃微生物降解成乙酸、丙酸、丁酸等挥发性脂肪酸(VFA)，为动物自身和瘤胃微生物繁殖提供能量。碳水化合物分为纤维性碳水化合物（FC）与非纤维性碳水化合物（NFC），NFC为除中性洗涤纤维（NDF）以外的碳水化合物成分。前人常用精粗比来反映饲粮碳水化合物结构与营养水平。近年研究认为，NFC/NDF较精粗比更能准确体现饲粮中碳水化合物间的关系，已成为学界公认用来衡量饲粮发酵程度的指标。文献报道，不同NFC/NDF可影响瘤胃发酵模式[I、养分消化率[2]、微生物区系[3]等。适宜的NFC/NDF是保证动物健康的前提和提高生长性能的有效措施之一[4]。研究表明，NFC/NDF还与亚急性瘤胃酸中毒有关[5]，能调控瘤胃总细菌、乳酸杆菌数量[。张立涛等[7指出，肉用绵羊的适宜饲粮NFC/NDF为0.82:1.00，或适宜饲粮NDF水平为 $4 2 . 2 1 \%$ 。黔北麻羊属贵州独有，主产于贵州习水、仁怀等地，是贵州三大地方优良山羊品种之一，耐粗饲、抗病力强、适应性广、肉质好，经济价值大，深受当地政府部门及养殖场重视。由于种种原因，黔北麻羊于 2009 年12月才被农业部认定为新的山羊遗传资源，属新发现的山羊品种，具有独特的学术研究价值。目前有关黔北麻羊营养调控的研究报道较为缺乏，主要来源于本课题组所开展的过瘤胃胆碱、酒糟、饲粮阴阳离子差等方面，尚未涉及到饲粮NFC/NDF 对其瘤胃发酵影响的报道。而瘤胃发酵是山羊饲粮研究的重要领域，与山羊健康养殖密切相关。据此，本试验着重从瘤胃发酵角度并辅以血浆生化指标与养分消化率，探讨饲粮 NFC/NDF 对黔北麻羊的影响，为提升黔北麻羊养殖效益提供技术积累和参考。
+
+1材料与方法
+
+# 1.1 试验动物与试验设计
+
+采用 $3 { \times } 3$ 拉丁方试验设计，选取6头年龄(4周岁）、体重[（ $4 6 . 4 { \pm } 2 . 3$ ）kg]基本一致的成年黔北麻羊，作为试验动物，将其分为3组，每组2个重复，每个重复1头羊。设计试验I组、试验ⅡI组、试验III组饲粮 NFC/NDF分别为 2.00:1.00、1.00:1.00、0.50:1.00。其中，为避免试验I组山羊发生瘤胃酸中毒导致试验失败，在其饲粮中添加少量碳酸氢钠。试验饲粮参照文献[8]配制，其组成及营养水平见表1。实测 NFC/NDF与设计水平有细微变化。
+
+表1试验饲粮组成及营养水平(干物质基础)
+
+Table 1 Composition and nutrient levels of experimental diets (DM basis)   
+
+<html><body><table><tr><td>项目</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td></tr><tr><td>Items</td><td>Trial groupI</td><td>Trial group II</td><td>Trial group III</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>羊草干草Chinese wildrye</td><td>20.0</td><td>50.0</td><td>80.0</td></tr><tr><td>玉米Corm</td><td>54.6</td><td>35.0</td><td>15.5</td></tr><tr><td>麦麸 Wheat bran</td><td>9.7</td><td>5.0</td><td>0.25</td></tr><tr><td>豆粕 Soybean meal</td><td>4.0</td><td>3.0</td><td>2.0</td></tr><tr><td>菜籽饼 Rapeseed meal</td><td>9.7</td><td>5.0</td><td>0.25</td></tr><tr><td>碳酸钙CaCO3</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>预混料 Premix1)</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>代谢能ME/（MJ/kg）</td><td>12.82</td><td>11.72</td><td>10.63</td></tr><tr><td>粗蛋白质CP</td><td>15.04</td><td>14.95</td><td>14.84</td></tr><tr><td>粗脂肪 EE</td><td>3.41</td><td>3.11</td><td>2.80</td></tr><tr><td>粗灰分 Ash</td><td>4.99</td><td>6.12</td><td>8.47</td></tr><tr><td>中性洗涤纤维NDF</td><td>24.37</td><td>36.98</td><td>52.79</td></tr><tr><td>酸性洗涤纤维ADF</td><td>13.06</td><td>19.72</td><td>33.47</td></tr><tr><td>非纤维性碳水化合物NFC</td><td>52.19</td><td>38.84</td><td>21.10</td></tr><tr><td>非纤维性碳水化合物/中性洗涤纤维 NFC/NDF</td><td>2.14:1.00</td><td>1.05:1.00</td><td>0.40:1.00</td></tr></table></body></html>
+
+1)每千克预混料含 One kg of premix contained:VA 300\~500 IU, $\mathrm { V D } _ { 3 } 1 5 0 { \sim } 2 0 0 \mathrm { I U }$ ， $\mathrm { V _ { E } } 8 5 0 \mathrm { I U }$ ，Fe 1 500\~5$0 0 0 \mathrm { m g }$ ， $\mathrm { C u } 5 0 0 { \sim } 6 2 0 \mathrm { m g }$ ,Mn 1 500\~4 000 mg, Zn 2 000\~3 500 mg, $\mathrm { ~ I ~ } 5 0 { \sim } 2 0 0 ~ \mathrm { m g }$ ，Se $1 0 { \sim } 2 0 ~ \mathrm { m g }$ ， $\mathrm { C o } 2 0 { \sim } 4 0 \mathrm { m g }$ ，Lys $1 0 \mathrm { { g } }$ 。
+
+2)除非纤维性碳水化合物及代谢能为计算值外，营养水平均为实测值。非纤维性碳水化合物 $( \% ) = 1 0 0 \cdot$ （2 中性洗涤纤维-粗蛋白质-粗脂肪-粗灰分。Nutrient levels were measured values except that NFC and ME were measuredvalues.NFC（ $\%$ ） $_ { = 1 0 0 }$ -NDF-CP-EE-ash.
+
+试羊单饲于代谢笼中，试验开始前，先进行健康状况观察，持续 $1 0 \mathrm { d }$ ；之后进入试验期，持续 45d。试验分为3期，每期15d，包括预试期10d和正试期（采样期）5d。预试期主要用于观察山羊对饲粮的适应性，少量逐步调整至预定NFC/NDF。试羊统一进行驱虫、消毒等管理，每天09:00、13:00、18:00 饲喂3次，自由饮水，保证笼舍光照、干燥通风。
+
+1.2样品采集和分析测定
+
+# 1.2.1 饲粮营养水平及养分消化率
+
+正试期每天晨饲前准确称重每头羊前1d剩余的饲粮，计算干物质采食量（DMI），同
+
+时采集饲粮样品，混匀后制备成分析试样。在正试期每天10:00及17:00采集新鲜粪样，连  
+续收集5d后混匀，加入 $10 \%$ 的盐酸固氮，按四分法取样，在65℃烘箱烘干后置于室温回  
+潮，粉碎，制备成分析试样。干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、粗灰分（ash）、NDF、酸性洗涤纤维（ADF）、酸不溶灰分（AIA）含量参照《饲料分析及饲料  
+质量检测技术》[9]进行检测。试验采用内源指示剂法（AIA法）计算养分消化率，公式如下：  
+养分消化率 $( \% ) \ { = } 1 0 0 { \cdot } [ 1 0 0 { \times } ($ 饲粮中AIA含量/粪中AIA含量 $) { \times }$ 粪中养分含量/饲粮中养分含量）]。
+
+# 1.2.2瘤胃发酵参数
+
+在每期试验正试期最后1d晨饲前，用胃管式瘤胃液采样器经口腔抽取足量瘤胃液，4层纱布过滤后，取适量瘤胃液用便携式 $\mathsf { p H }$ 仪（FG2-ELK，瑞士METTLER-TOLEDO）测定pH，同时采用Tucker 等[10]的方法测定瘤胃液缓冲力。剩余瘤胃液经 $3 0 0 0 \mathrm { r / m i n }$ 离心后取上清液，采用冯宗慈等[11]的方法测定氨态氮 $( \mathrm { N H } _ { 3 }  – \mathrm { N } )$ 浓度，采用王加启[12]的方法测定纤维素酶活性，采用王洪荣等[13]的方法测定VFA浓度。VFA浓度采用气相色谱仪（GC-9A，日本岛津）测定。色谱条件：色谱柱CP-WAX（ $3 0 . 0 0 ~ \mathrm { m } { \times } 0 . 5 3 ~ \mathrm { m m } { \times } 1 . 0 0 ~ \mu \mathrm { m } )$ ）；火焰氢离子检测器（FID）、气化室温度均为 $2 0 0 \mathrm { ~ \textdegree ~ }$ ；柱温从 $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 升至 $1 5 0 \mathrm { ~ \textdegree ~ }$ （程序升温法），每分钟升高3℃，灵敏度为101，衰减为52；以巴豆酸为内标物。
+
+1.2.3 血浆生化指标
+
+正试期第4天晨饲前，用一次性装有肝素钠的采血管经颈静脉采血 $1 0 ~ \mathrm { m L }$ ， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，收集血浆于 $1 . 5 ~ \mathrm { m L }$ 离心管中，用于分析脂多糖（LPS）、葡萄糖（Glu）、尿素氮（UN）、白蛋白（AIb）含量及过氧化氢酶（CAT）、谷草转氨酶（AST）、超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）活性。检测试剂盒购自南京建成生物工程研究所。
+
+# 1.3 数据统计与分析
+
+数据利用SPSS17.0软件进行单因素方差分析，采用LSD 法进行平均值多重比较，各组间差异性显著水平定为 $P { < } 0 . 0 5$ ，试验数据以平均值±标准差（mean±SD）表示。
+
+# 2结果与分析
+
+# 2.1养分采食量及消化率
+
+根据观察，试验I组山羊在试验前期采食速度较快、DMI较高，后期则有所下降；试验ⅡI组、试验III组较为稳定，未表现出较大的波动。由表2可知，不同NFC/NDF对黔北麻羊全期的DMI影响不大，3组无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+对DM消化率，试验I组、试验ⅡI组较试验II组分别高 $1 8 . 9 0 \%$ 、 $1 3 . 9 5 \%$ 。对有机物（OM）消化率，试验I组、试验Ⅱ组较试验II组分别高 $1 3 . 3 9 \%$ 、 $1 0 . 0 5 \%$ 。对CP 消化率，试验I组、试验Ⅱ组较试验II组分别高 $1 9 . 9 1 \%$ 、 $1 6 . 4 4 \%$ 。对 EE 消化率，试验I组、试验Ⅱ组较试验II组分别高 $2 3 . 5 4 \%$ 、 $1 8 . 0 0 \%$ 。对NDF消化率，试验I组、试验Ⅱ组较试验III组分别高$1 6 . 9 9 \%$ 、 $1 8 . 4 2 \%$ 。对ADF消化率，试验I组、试验Ⅱ组较试验II组分别高 $1 3 . 4 2 \%$ 、 $1 7 . 3 0 \%$ 。各养分消化率均为试验I组、试验ⅡI组显著高于试验IⅢ组（ $P { < } 0 . 0 5$ ），试验I组与试验Ⅱ组无显著差异（ $\cdot P { > } 0 . 0 5 )$ ）。
+
+表2不同NFC/NDF对黔北麻羊养分采食量及消化率的影响  
+Table2Effects of different NFC/NDF on nutrient intakes and digestibility of Qianbeima goats %   
+
+<html><body><table><tr><td>项目</td><td>试验I组 Trial groupI</td><td>试验Ⅱ组 Trial group II</td><td>试验Ⅲ组 Trial group III</td><td>SEM</td></tr><tr><td>Items 干物质 DM</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>1 207.56±95.14</td><td>1 261.67±105.60</td><td>1 243.11±102.42</td><td>21.32</td></tr><tr><td>消化率Digestibility/%</td><td>64.60±2.31a</td><td>61.91±2.53a</td><td>54.33±1.68b</td><td>1.16</td></tr><tr><td>有机物OM</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>1 147.30±90.39</td><td>1 184.35±99.14</td><td>1 137.82±93.75</td><td>19.92</td></tr><tr><td>消化率Digestibility/%</td><td>62.76±2.32a</td><td>60.91±2.55a</td><td>55.35±1.98b</td><td>1.32</td></tr><tr><td>粗蛋白质 CP</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/（g/d)</td><td>181.62±14.31</td><td>188.73±15.95</td><td>184.46±15.03</td><td>3.20</td></tr><tr><td>消化率Digestibility/%</td><td>47.04±1.91a</td><td>45.68±2.55a</td><td>39.23±2.37b</td><td>1.32</td></tr><tr><td>粗脂肪 EE</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>41.18±3.24a</td><td>39.24±3.28b</td><td>34.81±2.87c</td><td>0.66</td></tr><tr><td>消化率Digestibility/%</td><td>62.93±2.74a</td><td>60.11±2.55a</td><td>50.94±2.58b</td><td>1.52</td></tr><tr><td>中性洗涤纤维 NDF</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/（g/d)</td><td>294.28±23.19c</td><td>459.70±37.88b</td><td>666.03±55.75a</td><td>8.67</td></tr><tr><td>消化率Digestibility/%</td><td>42.62±2.68a</td><td>43.14±2.63a</td><td>36.43±3.02b</td><td>1.61</td></tr><tr><td>酸性洗涤纤维 ADF</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化率Digestibility/%</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+106 同行数据肩标相同字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同字母表示差异显著（ $. P { < } 0 . 0 5$ ）。下107 表同。
+
+In the column,values with no letter or the same lettr superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ .The same as below.
+
+# 2.2 瘤胃发酵参数
+
+由表3可知，在NFC/NDF为最大值的试验I组，瘤胃液 $\mathsf { p H }$ 最低，试验I组显著低于试验ⅡI组与试验组（ $P { < } 0 . 0 5$ ）。对瘤胃液缓冲力，试验I组显著高于试验I组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。对瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度，试验I组显著高于试验IⅢ组（ $P { < } 0 . 0 5$ ）。各组间瘤胃液羧甲基纤维素酶、微晶纤维素酶、木聚糖酶活性差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）；纤维二糖酶酶活性以试验II组最高，显著高于试验I组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。
+
+试验I组、试验ⅡI组瘤胃液总挥发性脂肪酸（TVFA）浓度较试验III组分别高 $5 . 0 3 \%$ 、$5 . 3 0 \%$ ，差异显著（ $P { < } 0 . 0 5$ ）。乙酸浓度为试验I组 $\angle$ 试验I组 $\angle$ 试验IⅢ组，试验I组显著低于试验II组（ $_ { . P < 0 . 0 5 }$ ）。丙酸浓度趋势正好相反，试验I组 $>$ 试验Ⅱ组 $>$ 试验IⅢ组，3组互为差异显著（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。试验IⅢ组丁酸浓度最低，显著低于试验I组、试验Ⅱ组（ $P { < } 0 . 0 5$ ）。试验I组、试验Ⅱ组、试验II组乙酸/丙酸依次显著增加（ $_ { . } { P < } 0 . 0 5$ ）。
+
+表3不同NFC/NDF对黔北麻羊瘤胃发酵参数的影响  
+Table 3Effects of different NFC/NDF on rumen fermentation parameters of Qianbeima goats   
+
+<html><body><table><tr><td>项目 Items</td><td>试验I组 Trial group I</td><td>试验Ⅱ组 Trial group II</td><td>试验Ⅲ组 Trial group III</td><td>SEM</td></tr><tr><td>pH</td><td>6.31±0.27b</td><td>6.68±0.21a</td><td>6.76±0.20a</td><td>0.13</td></tr><tr><td>缓冲力 Buffer capacity/(ml/L)</td><td>27.79±3.39b</td><td>31.79±3.65ab</td><td>34.25±2.56a</td><td>1.87</td></tr><tr><td>氨态氮 NH3-N/(mg/dL)</td><td>15.30±1.28a</td><td>13.59±0.75ab</td><td>12.47±1.14b</td><td>0.62</td></tr><tr><td>羧甲基纤维素酶 Carboxymethyl</td><td>1.09±0.16</td><td>0.97±0.21</td><td>0.92±0.24</td><td>0.12</td></tr><tr><td>cellulose//[μmol/（min·mL）] 木聚糖酶 Xylanase//[umol/（min•mL）]</td><td></td><td></td><td></td><td></td></tr><tr><td>微晶纤维素酶 Microcrystalline</td><td>8.37±1.94 0.73±0.09</td><td>7.81±1.55 0.82±0.16</td><td>6.65±1.21 0.93±0.20</td><td>0.92 0.09</td></tr><tr><td>cellulose//[μmol/（min•mL）]</td><td></td><td></td><td></td><td></td></tr><tr><td>纤维二糖酶 Cellobiase//[umol/（min·mL）]</td><td>2.21±0.52b</td><td>2.42±0.39ab</td><td>2.98±0.60a</td><td>0.29</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>60.82±2.15a</td><td>60.98±1.35a</td><td>57.91±1.51b</td><td>0.98</td></tr><tr><td>乙酸 Acetate/(mmol/L)</td><td>34.24±1.43b</td><td>37.22±1.22ab</td><td>39.54±2.12a</td><td>0.95</td></tr><tr><td>丙酸Propionate/(mmol/L)</td><td>16.90±1.07a</td><td>14.49±0.66b</td><td>11.33±0.95c</td><td>0.52</td></tr><tr><td>丁酸Butyrate/(mmol/L)</td><td>9.68±0.72a</td><td>9.27±0.93a</td><td>7.04±0.39b</td><td>0.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸/丙酸 Acetate/propionate</td><td>2.03±0.16c</td><td>2.58±0.19b</td><td>3.52±0.45a</td><td>0.17</td></tr></table></body></html>
+
+# 123 2.3 血浆生化指标
+
+由表4可知，血浆LPS含量随NFC/NDF的降低而下降，3 组间互为差异显著( $( P { < } 0 . 0 5 )$ 。
+
+3 组黔北麻羊其余血浆生化指标（AIb、UN、Glu含量及CAT、AST、SOD、GSH-Px活性），均未表现出显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表4不同NFC/NDF对黔北麻羊羯羊血浆生化指标的影响  
+Table 4Effects of different NFC/NDF on plasma biochemical indexes of Qianbeima goats   
+
+<html><body><table><tr><td>项目</td><td>试验I组</td><td>试验Ⅱ组 Trial group II</td><td>试验Ⅲ组 Trial group III</td><td>SEM</td></tr><tr><td>Items</td><td>Trial group I</td><td>0.79±0.49b</td><td>0.73±0.04c</td><td>0.03</td></tr><tr><td>脂多糖 LPS/(EU/mL)</td><td>0.87±0.04a</td><td>30.49±2.01</td><td>27.94±2.98</td><td>1.45</td></tr><tr><td>白蛋白 Alb/(g/L) 尿素氮 UN/(mmol/L)</td><td>29.28±2.47</td><td>5.72±0.61</td><td>5.71±0.84</td><td>0.36</td></tr><tr><td>葡萄糖 Glu/(mmol/L)</td><td>6.38±0.31 3.38±0.59</td><td>3.36±0.59</td><td>3.26±0.39</td><td>0.31</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>40.03±4.03</td><td>42.23±4.94</td><td>46.53±6.66</td><td>3.07</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>6.99±0.95</td><td>6.46±0.79</td><td>6.41±1.20</td><td></td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>75.90±5.79</td><td>75.37±6.05</td><td>71.08±4.69</td><td>0.61 3.20</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>242.13±23.10</td><td>233.34±16.22</td><td>229.48±21.71</td><td>11.87</td></tr></table></body></html>
+
+3讨论
+
+# 3.1NFC/NDF对养分采食量及消化率的影响
+
+采食量可反映动物对饲粮的喜爱程度，是保证动物养分摄入量的指标，饲粮中过高或过低的 NFC均会影响动物对饲粮的采食量。徐志军等[14报道，以柠条青贮为粗饲料的4种饲粮（精粗比为 70:30、60:40、50:50、40:60）饲喂小尾寒羊公羔羊，DMI 以精粗比为 50:50组最高，70:30 组最低。唐志高等[15]研究指出，饲喂小尾寒羊母羊以玉米秸秆为粗饲料（精粗比为20:80、30:70、40:60）饲粮，妊娠前、后期 DMI均以精粗比40:60 组最高，其余 2组无显著差异。本试验结果显示，3组DMI差异不大。根据观察，在每一时期的试验前期，试验I组由于饲粮高精料符合山羊的天然选择食性，采食速度与DMI均优于试验Ⅱ组、试验II组，但进入试验后半段，采食速度与DMI随之下降。其原因可能是，山羊采食该组饲粮高比例精料（ $80 \%$ ）一段时间后，经瘤胃微生物发酵NFC产生的乳酸不断积累，瘤胃液pH随之降低，抑制了纤维分解菌酶的活性，扰乱微生物区系，反馈降低了试验后期的DMI，导致3个试验组在整个阶段的DMI差异不显著。这一推论也在其他养分采食量和消化率及瘤胃发酵参数的结果中得到验证。相比之下，试验ⅡI组DMI 高于试验II组，提示就 DMI而言，在本试验中适宜的NFC/NDF为1.05:1.00。
+
+保持高NFC/NDF不仅可以促进瘤胃微生物繁殖、促进蛋白质利用，同时可提高DM和有机物的消化率[16]。王文奇等[4]指出，母羊（萨福克羊×阿勒泰羊）饲粮 DM、OM 消化率均随饲粮NFC水平（ $3 3 . 9 6 \%$ 、 $3 7 . 7 8 \%$ 、 $4 5 . 8 0 \%$ 、 $4 9 . 4 0 \%$ 、 $5 0 . 0 3 \%$ 、 $5 3 . 2 9 \%$ ）升高而显著升高，前4个NFC 水平组NDF 消化率显著低于后2个NFC水平组。Valdés 等[7通过羊自由采食试验（NDF水平为 $3 3 . 2 \%$ 、 $2 8 . 7 \%$ 、 $2 4 . 1 \%$ 、 $1 9 . 5 \%$ ）发现，随着饲粮NDF水平降低，OM、DM消化率逐渐升高，而ADF、NDF 消化率以NDF水平为 $2 4 . 1 \%$ 组最高。本试验结果显示，随着NFC/NDF减少，饲粮养分消化率逐渐降低，均表现为试验I组、试验ⅡI组显著高于试验II组。该结果与上述DMI结果讨论相符，因为试验的采粪时段为每期的最后5d,试验动物为成年山羊，虽然在正试期DMI有所降低，但为了维持营养需要，机体会通过减少粪便排泄来维持较高的利用率。张立涛等7在黑头杜泊羊 $\times$ 小尾寒羊F1代肉用绵羊的试验结果与本试验结论一致。但综合来看，结合瘤胃发酵参数、血浆生化指标结果来看，生产实践中应尽量避免NFC 水平过高。
+
+# 3.2NFC/NDF对瘤胃发酵参数的影响
+
+瘤胃液pH是反映瘤胃发酵是否正常的核心指标，其主要受饲粮组成、唾液缓冲液分泌的影响[18]。对反刍动物而言，适宜pH 范围为 6.2\~6.8，这是瘤胃正常发酵的前提。在生产实践中，由于精料水平过高导致pH过度降低（ $\mathrm { p H } { < } 5 . 5$ ）可引起瘤胃酸中毒，是危害山羊瘤胃健康的主要因素。本试验结果显示，随着 NFC/NDF 的升高，试验III组、试验Ⅱ组、试验I组瘤胃液pH依次显著降低。这是因为饲粮 NFC 水平越高，提供的易发酵碳水化合物就越多，越容易被瘤胃微生物优先发酵生成乳酸，当乳酸累积超过一定水平时，pH随之下降，诱发瘤胃酸中毒（pH<5.5）。这得到前人在体内[19]和体外[20]研究结果的支持。事先考虑到最高 NFC/NDF（2.14:1.00）可能会引起瘤胃酸中毒，试验在该组饲粮中加入了少量碳酸氢钠，使其瘤胃液pH降低程度有限（最低6.31），虽然试验I组统计学上显著低于试验ⅡI组、试验II组，但总体来看处于瘤胃适宜范围，未影响瘤胃正常发酵。刘洁等[21发现，肉羊采食 NFC/NDF为2.17:1.00 的饲粮，08：00瘤胃液 pH为6.31，这与本试验结果一致。瘤胃稳定而强大的缓冲力是反刍动物区别于单胃动物的主要生理特征。瘤胃液缓冲力与饲粮组成、唾液和瘤胃壁的分泌密切相关，受pH、TVFA 浓度的影响。一般而言，高水平NDF 能更有效刺激口腔咀嚼分泌唾液进入瘤胃，提高瘤胃液缓冲力。Miler 等[22l和 Tucker等[10]指出，饲粮NFC 水平越高，瘤胃液缓冲力越低。本试验条件下，随饲粮 NFC 水平降低，瘤胃液缓冲力逐渐升高，试验I组瘤胃液缓冲力还显著低于试验I组。这与上述试验结论一
+
+致。张显东[23报道，在精粗比为60:40（以羊草为粗饲料）的饲粮中添加 $1 . 5 \%$ 及 $3 . 0 \%$ 的缓冲剂（碳酸氢钠:氧化镁 ${ \cdot = } 2 { : } 1$ ）， $3 . 0 \%$ 组绵羊瘤胃液缓冲力显著高于对照组。本试验中，即使在试验I组饲粮添加了少量碳酸氢钠，但该试验组山羊瘤胃液缓冲力仍然显著低于试验I组，这也从侧面说明饲粮NFC/NDF不宜过高。
+
+作为饲粮蛋白质、内源蛋白质和其他非蛋白氮化合物在瘤胃的降解产物， $\mathrm { N H } _ { 3 }$ -N是瘤胃微生物在有能量和碳架存在的情况下合成菌体蛋白的主要原料[24]。 $\mathrm { N H } _ { 3 }$ -N浓度在一定程度上反映了瘤胃微生物对饲粮氮的利用率。 $\mathrm { N H } _ { 3 }$ -N浓度过高，说明瘤胃微生物降解氮源释放氨气的速率超过微生物合成菌体蛋白的速率，会增加氮循环中氮素的损失；反之，则会限制瘤胃微生物合成菌体蛋白[25]。本试验发现，随着NFC/NDF逐渐降低， $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度也随之下降，试验I组、试验Ⅱ组、试验II组依次降低。这得到了诸多文献的支持。赵国琦等[26]研究通过饲喂徐淮白山羊NDF水平分别为 $6 0 . 4 7 \%$ 、 $5 2 . 0 5 \%$ 、 $4 3 . 6 4 \%$ 、 $3 5 . 2 3 \%$ 的饲粮发现，瘤胃液NH3-N浓度NDF水平为 $6 0 . 4 7 \%$ 组显著低于其余各组，认为高水平饲粮NDF（ $\mathrm { N D F } { > } 6 0 . 4 7 \%$ ）是限制瘤胃微生物对 $\mathrm { N H } _ { 3 }$ -N利用的主要因素，适当降低饲粮NDF水平，能促进瘤胃微生物对$\mathrm { N H } _ { 3 }$ -N的利用。蔡晶晶等[27]和Agle等[28]在奶牛上也有类似报道。  
+羧甲基纤维素酶、木聚糖酶、微晶纤维素酶、纤维二糖酶是瘤胃内能分解纤维素的纤维素酶，其活性主要受瘤胃液pH的影响。当 $\mathrm { p H } { < } 6$ 时，上述酶活性就会降低[29]。汪水平等[30]饲喂泌乳奶牛NDF水平为 $5 0 . 2 2 \%$ 、 $4 4 . 8 9 \%$ 、 $3 5 . 5 3 \%$ 、 $2 8 . 6 3 \%$ 饲粮，发现饲粮精粗比对奶牛瘤胃液羧甲基纤维素酶、微晶纤维素酶、木聚糖酶、纤维二糖酶活性无显著影响。王海荣[31]报道，饲喂苏尼特绵羊精粗比分别为10:90、30:70和50:50（NDF水平分别为 $6 4 . 3 8 \%$ 、 $5 4 . 5 9 \%$ 、42.71%）的饲粮，其瘤胃液纤维素酶活性差异不显著。本试验结果显示，试验I组纤维二糖酶活性显著低于试验III组，说明降低NFC水平（即降低NFC/NDF）有利于增强瘤胃微生物纤维分解能力，这与上述文献报道结果不太一致，可能与饲粮组成、饲养管理不同有关。瘤胃微生物发酵饲粮后产生VFA是反刍动物能量的主要来源，饲粮组成是影响VFA组成的主要因素，决定了瘤胃发酵类型。NFC/NDF高的饲粮，在瘤胃进行丙酸型发酵，丙酸浓度高；反之则为乙酸型发酵，乙酸浓度高。本试验中，随着NFC/NDF的减小，乙酸浓度逐渐增加、丙酸浓度逐渐降低、乙酸/丙酸逐渐升高，符合上述规律。前人也有类似报道。张莹莹等[32]以NDF水平分别为 $7 7 . 0 3 \%$ 、 $6 3 . 7 5 \%$ 、 $5 0 . 3 9 \%$ 、 $3 7 . 2 9 \%$ 的饲粮饲喂晋南牛，指出随
+
+饲粮NDF水平的降低（即NFC/NDF增大），瘤胃液乙酸、丁酸浓度逐渐减少，丙酸浓度逐渐增多。朱丹等[33饲喂奶牛NDF/淀粉分别为0.83、1.13、1.56、2.38的饲粮，通过体外瘤胃发酵也得到类似结果。魏德泳等采用自身对照法，饲喂长江珠三角阉割白山羊NFC/NDF分别为0.42:1.00、1.04:1.00、2.73:1.00的饲粮，发现随NFC/NDF升高，乙酸/丙酸逐渐降低，表明山羊瘤胃由乙酸型发酵转为丙酸型发酵。以上试验结果均与本试验结论一致。
+
+# 3.3 NFC/NDF对血浆生化指标的影响
+
+内毒素（endotoxin）是存在于革兰氏阴性菌细胞壁外膜中主要含LPS 的复合物，LPS是其主要抗原性及致病性部分。瘤胃液pH降低可引起革兰氏阴性菌死亡和裂解，使瘤胃中游离 LPS 含量增加，增强肠道对LPS 的通透性[34l，导致血液 LPS 含量上升，使肝脏受损，引起代谢疾病。王林枫等[35]研究表明，外源注射 LPS 能引起山羊肝脏损伤，影响肝脏营养代谢。胡红莲等[36饲喂奶山羊 NFC/NDF 分别为 1.02:1.00、1.24:1.00、1.63:1.00、2.58:1.00的饲粮，结果显示，高 NFC/NDF（2.58:1.00）组山羊血液 LPS 含量显著高于低 NFC/NDF（1.02:1.00）组。章森等[37]在奶牛上也有类似结论。本试验结果表明，NFC/NDF与血浆LPS含量在数值上具有相同的趋势，试验II组、试验ⅡI组、试验I组血浆LPS 含量逐渐升高，由于瘤胃液pH最低值（6.31）仍处于6.2\~6.8正常范围，虽然血浆LPS 含量在数值上表现出统计学差异，但其数值波动不大。这提示生产中应将 NFC/NDF 调控在适宜的范围内。Alb、UN、Glu是分别反映机体免疫、蛋白质代谢、糖代谢能力的重要指标，对了解机体状况具有重要的意义。崔晓鹏等[38]补饲妊娠后期藏母羊不同NDF水平（ $3 7 . 5 5 \%$ 、 $3 3 . 6 1 \%$ 、$2 9 . 6 7 \%$ ）饲粮，发现 $2 9 . 6 7 \%$ 组血浆Glu含量显著高于 $3 7 . 5 5 \%$ 组，其余组Alb、Glu含量均无显著差异。门小明[39]饲喂空怀小尾寒羊母羊精粗比分别为20:80、30:70、40:60的饲粮，指出Glu含量随精粗比的增大而增加，血浆UN、AIb含量则相反。燕文平等[40]指出，晋南牛采食不同NDF水平（ $7 7 . 0 3 \%$ 、 $6 3 . 7 5 \%$ 、 $5 0 . 3 9 \%$ 、 $3 7 . 2 9 \%$ ）的饲粮时，血清UN含量以NDF水平为$3 7 . 2 9 \%$ 组最高；NDF水平为 $5 0 . 3 9 \%$ 、 $3 7 . 2 9 \%$ 组肉牛血清AIb含量显著高于 $7 7 . 0 3 \%$ 、 $6 3 . 7 5 \%$ 组。本试验结果显示，各组间血浆AIb、UN、Glu含量差异均不显著，与上述试验结论有所差异。这可能与试验动物品种、性别、生理阶段、饲养管理的差异有关。
+
+AST是反映肝功能的重要指标。当肝功能受到影响时，会导致血液中转氨酶活性上升。本试验中AST活性未表现统计学差异，说明本试验条件下山羊肝脏功能没有受到影响。徐相
+
+亭等[41]在杜泊羊有类似报道。
+
+CAT、SOD、GSH-Px是清除体内自由基的酶促系统，是衡量抗氧化应激能力的指标。施力光等[42]用精粗比分别为50:50、20:80、80:20（NDF水平分别为 $4 4 . 0 5 \%$ 、 $5 4 . 4 6 \%$ 、 $3 4 . 2 3 \%$ ）饲粮饲喂海南黑山羊，发现血浆CAT、SOD、GSH-Px活性均无差异显著。本试验条件下，3组NDF水平分别为 $2 4 . 3 7 \%$ 、 $3 6 . 9 8 \%$ 、 $5 2 . 7 9 \%$ ，各组间血浆CAT、SOD、GSH-Px活性无显著差异，上述结论与本试验结果一致。但也有不同结果的报道，通过饲喂45头生长期贵州黑山羊不同NDF水平饲粮得出，山羊血浆SOD、GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ 活性随饲粮NDF水平降低而增加，NDF水平 $3 4 . 7 \%$ 、 $2 5 . 8 \%$ 组显著高于 $4 4 . 4 \%$ 组[43]。Sgorlon等[44]在哺乳期绵羊得到类似结果。这与本试验结果有差异，可能由于试验动物种类、不同生理时期、饲养管理不同导致。
+
+4结论高 NFC/NDF（2.14:1.00）有利于黔北麻羊养分消化率，但对采食量没有显著影响，且  
+对瘤胃发酵参数和血浆生化指标均会产生不利影响，生产实践中应将 NFC/NDF 调控在适宜  
+水平。在本试验条件下，NFC/NDF 以1.05:1.00 为宜。  
+参考文献：  
+[1] 陈宁.日粮精粗比对断奶初期犊牛瘤胃内环境及粗饲料降解的影响[D].硕士学位论文.重庆:西南大学,2006.  
+[2] ROTGER A,FERRET A,CALSAMIGLIA S,et al.Changes in ruminal fermentation and proteindegradation in growing Holstein heifers from 80 to $2 5 0 ~ \mathrm { k g }$ fed high-concentrate diets withdifferent forage-to-concentrate ratios[J].Journal of Animal Science,2005,83(7):1616-1624.  
+[3]孙德成,赵智力,魏曼琳,等.不同精粗料比全混合日粮对奶牛瘤胃指标的影响[J].饲料研究,2008(10):47-50.  
+[4] 王文奇,侯广田,罗永明,等.不同精粗比全混合颗粒饲粮对母羊营养物质表观消化率、氮代谢和能量代谢的影响[J].动物营养学报,2014,26(11):3316-3324.  
+[5] OWENS F N,SECRIST D S,HILL W J,et al.Acidosis in cattle:a review[J].Journal of AnimalScience,1998,76(1):275-286.  
+[6] 魏德泳,朱伟云,毛胜勇.日粮不同 NFC/NDF 比对山羊瘤胃发酵与瘤胃微生物区系结构的影响[J].中国农业科学,2012,45(7):1392-1398.
+
+[7] 张立涛,王金文,李艳玲,等.35— ${ \it 5 0 } ~ \mathrm { k g }$ 黑头杜泊羊 $\times$ 小尾寒羊 F1 代杂交羊饲粮中适宜NFC/NDF比例研究[J].中国农业科学,2013,46(21):4620-4632.
+
+[8]兰云贤.动物饲养标准[M].重庆:西南师范大学出版社,2008.
+
+[9] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.  
+[10] TUCKER W B,HOGUE J F,ASLAM M,et al.A buffer value index to evaluate effects ofbuffers on ruminal milieu in cows fed high or low concentrate,silage,or hay diets[J].Journalof Dairy Science,1992,75(3):811-819.  
+[11]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].内蒙古畜牧科学,1993(4):40-41.  
+[12]王加启.反刍动物营养学研究方法[M].北京:现代教育出版社,2011.  
+[13]王洪荣,张洁.不同碳水化合物结构日粮对山羊瘤胃发酵和微生物氨基酸组成的影响[J].中国农业科学,2011,44(5):1071-1076.  
+[14] 徐志军,胡燕,董宽虎.不同精粗比柠条青贮日粮对羔羊生产性能和消化代谢的影响[J].草地学报,2015,23(3):586-593.  
+[15] 唐志高,雒秋江,闫爱荣,等.妊娠小尾寒羊对3 种不同精粗比日粮的消化与代谢[J].新疆农业大学学报,2008,31(1):71-77.  
+[16] 史仁煌,董双钊,付瑶,等.饲粮中性洗涤纤维水平对泌乳高峰期奶牛生产性能、营养物质表观消化率及血清指标的影响[J].动物营养学报,2015,27(8):2414-2422.  
+[17] VALDES C,CARRO M D,RANILLA M J,et al.Effect of forage to concentrate ratio incomplete diets offered to sheep on voluntary food intake and some digestiveparameters[J].Animal Science,2000,70(1):119-126.  
+[18] ANANTASOOK N,WANAPAT M,CHERDTHONG A,et al.Eect of plants containingsecondary compounds with palm oil on feed intake,digestibility,microbial protein synthesisandmicrobial population in dairy cows[J].Asian-Australasian Journal of AnimalSciences,2013,26(6):820-826.  
+[19] 贾媛媛,王绍庆,常广军,等.高精料诱导的 SARA 对泌乳期山羊血液和瘤胃液中皮质醇的影响[J].草业学报,2012,21(4):259-266
+
+[20] 陈安,吴建平,周传社,等.C3和C4 植物粗料及底物精粗比对山羊瘤胃体外发酵特性的影响[J].动物营养学报，2015,27(1):112-123.
+
+[21] 刘洁,刁其玉,赵一广,等.饲粮不同NFC/NDF 对肉用绵羊瘤胃 pH、氨态氮和挥发性脂肪酸的影响[J].动物营养学报，2012,24(6):1069-1077.
+
+[22] MILLER T P,TUCKER W B,LEMA M.et al.Influence of dietary buffer value index on the ruminal milieu of lactating dairy cows fed sorghum silage and grain[J].Journal of Dairy Science,1993,76(11):3571-3579.
+
+[23] 张显东.不同种类粗饲料及添加缓冲剂对绵羊瘤胃发酵的影响[D].硕士学位论文.哈尔滨:东北农业大学,2004.
+
+[24] LABURN H P,FAURIE A,MITCHELL D.The fetus and fever[J].Journal of Thermal Biology,2003,28(2):107-116.
+
+[25] HRISTOV A N,ROPP J K,HUNT C W.Efect of barley and its amylopectin content on ruminal fermentation and bacterial utilization of ammonia-N in vitro[J].Animal Feed Science and Technology,2002,99(1/2/3/4):25-36.
+
+[26] 赵国琦,贾亚红,陈小连,等.不同 NDF/NFE 比的日粮对山羊瘤胃发酵参数影响的研究[J].中国畜牧杂志,2006,42(13):29-33.
+
+[27] 蔡晶晶,王洪荣,付聪,等.不同NFC/NDF饲粮和硫胺素对奶牛瘤胃代谢的影响[J].动物营养学报，2013,25(9):2012-2020.
+
+[28] AGLE M,HRISTOV A N,ZAMAN S,et al.Effect of dietary concentrate on rumen fermentation,digestibility,andnitrogenlossesindairycows[J].Journal of Dairy Science,2010,93(9):4211-4222.
+
+[29] RUSSELL JB,WILSON D B.Why are ruminal cellulolytic bacteria unable to digest cellulose at low pH?[J].Journal of Dairy Science,1996,79(8):1503-1509.
+
+[30] 汪水平,王文娟,王加启,等.日粮精粗比对奶牛瘤胃发酵及泌乳性能的影响[J].西北农林科技大学学报：自然科学版，2007,35(6):44-50.
+
+[31] 王海荣.不同日粮精粗比及氮源对绵羊瘤胃纤维降解菌群和纤维物质降解的影响[D].博士学位论文.呼和浩特:内蒙古农业大学,2006
+
+[32] 张莹莹,王聪,刘强,等.不同精粗比饲粮对晋南牛瘤胃发酵特性和养分消化代谢的影响[J].动物营养学报,2014,26(8):2365-2372.
+
+[33] 朱丹,张佩华,赵勐,等.不同中性洗涤纤维与淀粉比例饲粮对体外瘤胃发酵的影响[J].动物营养学报,2015,27(8):2580-2588.  
+[34]CHIN A C,FLYNNA N,FEDWICK J P,et al.Therole of caspase-3inlipopolysaccharide-mediated disruption of intestinal epithelial tight junctions[J].CanadianJournal of Physiology and Pharmacology,2006,84(10):1043-1050.  
+[35] 王林枫,赵志伟,杨改青,等.急性内毒素损伤对奶山羊肝脏营养代谢的影响[J].动物营养学报,2012,24(12):2366-2374.  
+[36] 胡红莲,刘大程,卢德勋,等.日粮不同非纤维性碳水化合物与中性洗涤纤维的比值对奶山羊瘤胃液和血液中内毒素、组织胺含量的影响[J].中国畜牧兽医,2012,39(3):104-109.  
+[37] 章森,董国忠,周俊,等.饲粮粗饲料组成和营养水平对奶牛血浆内毒素和代谢产物含量的影响[J].动物营养学报,2014,26(1):227-235.  
+[38] 崔晓鹏,侯生珍,王志有,等.补饲日粮不同精粗比对妊娠后期藏母羊生产性能及血清指标的影响[J].饲料工业,2016,37(13):40-44.  
+[39]门小明.三种精粗比日粮条件下空怀小尾寒羊母羊的消化代谢及部分血液指标的研究[D].硕士学位论文.乌鲁木齐:新疆农业大学,2006.  
+[40] 燕文平,张莹莹,王聪,等.不同精粗比日粮对肉牛生产性能和血液指标的影响[J].饲料研究,2014(21):54-57.  
+[41] 徐相亭,王宝亮,程光民,等.不同精粗比日粮对杜泊绵羊生长性能、血清生化指标及经济效益的影响[J].中国畜牧兽医,2016,43(3):668-675.  
+[42] 施力光,赵春萍,曹婷,等.不同日粮精粗比对海南黑山羊抗氧化性能的影响[J].中国草食动物科学,2015,35(1):29-31.  
+[43] 吴文旋,段永邦.补饲精料对贵州黑山羊血浆抗氧化应激能力和生化指标的影响[J].家畜生态学报,2013,34(1):60-65.  
+[44] SGORLON S,STRADAIOLI G,GABAI Get al.Variation of starch and fat in the diet affectsmetabolic status and oxidative stress in ewes[J].Small Ruminant
+
+Effects of Non-Fiber Carbohydrate to Neutral Detergent Fiber Ratio on Rumen Fermentation Parameters, Plasma Biochemical Indexes and Nutrients Digestibility of Qianbeima Goats²
+
+ZHAO Peng1WU Wenxuan1,2\*WU Jiahai3\*ZHU Lunqin1XIN Hailiang4YUAN Xin1 YANG Chunhong1 YANG Kang1SUN LunlHAN E1   
+(1. College of Animal Science, Guizhou University, Guiyang 550025, China; 2. Institute of New   
+Rural Development, Guizhou University, Guiyang 55oO25, China; 3. Institute of Pratacultural   
+Science of Guizhou Province, Guiyang 55ooo6, China; 4. Qiandongnan National Polytechnic, Kaili 556000, China)
+
+Abstract: The present study was conducted to investigate the effects of non-fiber carbohydrate to neutral detergent fiber ratio (NFC/NDF) on rumen fermentation parameters,plasma biochemical indexes and nutrients digestibility of Qianbeima goats. Six healthy adult Qianbeima goats were selected and allocated to 3 groups with 2 replicates per group and 1 goat per replicate using $3 { \times } 3$ Latin square design. Trial group I,trial group II,and trial group II were fed diet with varying NFC/NDF at 2.14:1.00,1.05:1.00 and 0.40:1.00,respectively. The trial lasted for 45 d consisted of 3 periods with $1 0 \mathrm { ~ d ~ }$ of pre-trial period and $5 \mathrm { ~ d ~ }$ trial period each. The detecting indexes were as follows: dietary nutrient digestibility，rumen fermentation parameters (pH,buffer capacity, ammonia nitrogen and volatile fatty acid concentrations，and cellulose activity） and plasma biochemical indexes [the contents of lipopolysaccharide, albumin and urea nitrogen glucose,and the activities of hydrogen peroxidase， glutamic-oxal(o)acetic transaminase and superoxide dismutase and glutathione peroxidase]. The results showed as follows: 1) there was no significant difference for dry matter intake among 3 groups $( P { > } 0 . 0 5 )$ ; trial group II showed significantly lower nutrient digestibility compared with trial group I and trial group I $( P { < } 0 . 0 5 )$ . 2)Trial group I resulted in significantly decreased rumen fluid $\mathsf { p H }$ over trial group $\mathrm { I I }$ and trial group Ⅲ $( P { < } 0 . 0 5 )$ ; trial group II significantly increased rumen buffer capacity compared with trial groupI $( P { < } 0 . 0 5 )$ ，but significantly decreased cellbiase activity and acetic acid concentration compared with trial group I $( P { < } 0 . 0 5 )$ ，and also significantly decreased total volatile fatty acids and butyrate concentrations compared with the other two groups $( P { < } 0 . 0 5 )$ ; trial group I，trial group II and and trial group III resulted in gradually increased acetate to propionate ratio and gradually decreased propionate concentration,and the differences among groups were significant $( P { < } 0 . 0 5 )$ ；the activities of carboxymethyl cellulose， xylanase and microcrystalline cellulose in rumen fluid were not significantly affected $( P { > } 0 . 0 5 )$ .3）Plasma lipopolysaccharide content was gradually significantly decreased in trial group I,trial group II and trial group III $( P { < } 0 . 0 5 )$ ，while there were no significant differences for other plasma biochemical indexes $( P { > } 0 . 0 5 )$ . It is indicated from the results that over-high NFC/NDF was not beneficial to rumen fermentation parameters and plasma biochemical index of Qianbeima goats, and 1.05:1.OO is the appropriate level under the conditions of the present study. Key words: non-fiber carbohydrate to neutral detergent fiber ratio; rumen fermentation parameter; plasma biochemical index; nutrient digestibility; Qianbeima goat

@@ -1,0 +1,229 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "血红蛋白与血小板比值预测急诊消化道出血的灵敏度及特异度 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈笑英东莞市第五人民医院运河院区内科，广东东莞523900摘要：目的评价血红蛋白(Hb)与血小板(PLT)比值在预测急诊消化道出血(GIB)患者的灵敏度及特异度。方法 收集GIB患者103例,观察在院期间是否再次出现GIB(RGIB),比较其Hb、PLT及Hb/PLT三者在预测RGB的差异。结果以上患者当中22例出现RGIB,发生率为 $2 1 . 4 \\%$ 。Hb与RGIB无显著相关性( $\\scriptstyle P = 0 . 6 8 2 ,$ ;PLT及Hb/PLT与RGIB存在显著相关性( $P { = } 0 . 0 0 7 , 0 . 0 0 4 ,$ 。PLT的曲线下面积(AUC)为0.160( $9 5 \\% \\mathrm { C I }$ :-0.058\\~0.378);显著低于Hb/PLT的AUC值 $0 . 8 6 0 ( 9 5 \\% \\mathrm { C I } \\colon 0 . 6 5 7 \\sim 1 . 0 6 3 )$ 。当Hb/PLT比值为2.660时，其预测RGIB的敏感度为0.840，特异度为 $0 . 8 5 7$ 。结论Hb/PLT比值预测RGIB优于单纯Hb或PLT，且该比值的敏感度及特异度均高，有望成为防治急诊GIB患者的简化、实用性指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：消化道出血;血红蛋白/血小板比值;危险因素;敏感度;特异度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clinical significance of hemoglobin/platelet ratio in predicting the risks for patients with gastrointestinal bleeding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Xiaoying DepartmentofInternaledicine,YunheBranchofongguan5thPeople'sHospital,Dongguan 52390,Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To evaluate the hemoglobin (Hb)and platelets (PLT)ratio inthe predictionof emergency gastrointestinal bleding (GIB)in patients with sensitivityand sensitivity. Methods103 patients with collecting GIBobserve whether during the period of shoolonce againGIB (RGIB),compare the Hb,PLTand Hb/PLT inpredicting theRGB diference.ResultsThe patients of 22 cases with RGIB, rate of $2 1 . 4 \\%$ . Hb no significant correlation with RGIB $\\scriptstyle ( P = 0 . 6 8 2 )$ ; PLT and Hb/PLT and RGIB exist significant correlation ( $P { = } 0 . 0 0 7 ,$ 0.007). PLT area under curve (AUC) was 0.160 ( $9 5 \\%$ CI: 0.058\\~0.058); Significantly lower than that of Hb/PLT AUC value of 0.860 ( $9 5 \\%$ CI: 0.657\\~0.657). When Hb/PLT ratio is 2.660, the predicted RGIB sensitivity of 0.840,0.857.Conclusion Hb/PLTRGIBratiopredictionisbetter thanthatof pure HborPLT,andthesensitivityofthis ratio andspecificdegreeisigh,isexpected tobesimplifiedand practicalindicatorofpreventionand treatmentofpatients with emergency GIB. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: gastrointestinal bleeding; hemoglobin/platelet ratio; risk factors; sensitivity; specificity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "临床意义，过程如下。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "消化道出血(GIB)是内科常见急症，其病因包括消化系、神经系、心血管系疾病等。GIB最大的危险性在于其可导致大出血而引起休克，后者直接威胁患者生命2及医疗安全，故GIB是急诊的重点病种。然而，急诊科医师对于GIB更需要做的临床工作为病情评估，亦即GIB患者是否再度出现消化道出血(RGIB)，其危险性如何？目前已有不少研究发现RGIB的独立危险因素，如幽门螺旋杆菌（ $\\mathrm { \\cdot H p } \\mathrm { \\cdot }$ 感染、既往溃疡出血史、使用抗凝药等，但是上述指标多为定性指标[3-4],难以量化，且缺乏特异性，故不易运用到临床。为此，笔者结合自身临床体会及文献报道，观察了血红蛋白与血小板的比值(Hb/PLT)在预测RGIB的作用，发现该比值的敏感度及特异度均高于单纯HB或PLT,具有一定",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 患者资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "回顾性分析2012年1月 ${ \\sim } 2 0 1 5$ 年12月我院内科收治的GIB患者，其人选标准如下：经临床表现、胃镜或肠镜及实验室检查确诊为GIB;合并血液系统原发性疾病者除外[5。共入选103例，其中男性69例，女性34例;年龄19\\~78岁，平均 $4 9 . 5 6 \\pm 2 9 . 6 3$ 岁；上消化道出血(UGIB)84例，下消化道出血(LGIB)19例。原发病为消化系统67例，神经系统21例，心血管系统11，其他为4例。以上患者均经抢救室、急诊病房进行处理，或收治至专科病房。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2观察指标与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "观察急诊留观或住院期间是否出现RGIB；以上患",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "者在不同时间点进行血常规等检查，重点在于Hb及PLT的观察，并比较再出血与未再出血(NGIB)患者Hb、PLT及HB/PLT的比值差异",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定量资料采用均数±标准差表示，使用两独立样本 $\\mathbf { \\Phi } _ { t }$ 检验比较两组间上述3项指标的差异；使用受试者工作曲线法(ROC)比较上述指标再预测RGIB的敏感度及特异度[。使用SPSS17.0处理数据,当 $P { < } 0 . 0 5$ 认为是差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1两组的大体情况比较",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上103例患者当中有22例出现RGIB，发生率为$2 1 . 4 \\%$ 。其发生首次RGIB的时间间隔为到达急诊科后的 $3 { \\sim } 1 6 \\mathrm { ~ h ~ }$ ,平均 $9 . 6 2 { \\scriptstyle \\pm 6 . 7 1 } \\mathrm { h }$ 。死亡患者5例，病死率为$4 . 9 \\% ( 5 / 1 0 3 )$ ；其中3例为消化道大出血，1例为脑疝，1例为心源性休克。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2HB、PLT及Hb/PLT比值的差异 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RGIB患者的Hb及PLT均显著低于NGIB组( $P =$ 0.028,0.019);但RGIB组Hb/PLT比值显著高于NGIB 组 $\\mathrm { P > 0 . 0 5 }$ ，表1)。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/548f8e717a90fda03390e6b370ef6924ee2b3b6edf5b933432c1167733eeae21.jpg",
+        "table_caption": [
+            "表1两组GIB患者Hb、PLT及HB/PLT比值的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分组</td><td>n</td><td>Hb(T/L)</td><td>PLT (G/L)</td><td>Hb/PLT</td></tr><tr><td>RGIB</td><td>22</td><td>68.29±17.34</td><td>79.32±43.64</td><td>3.72±2.18</td></tr><tr><td>NGIB</td><td>81</td><td>87.61±24.17</td><td>103.27±54.35</td><td>1.06±0.51</td></tr><tr><td>t</td><td></td><td>-7.678</td><td>-9.624</td><td>3.023</td></tr><tr><td>P</td><td></td><td>0.028</td><td>0.019</td><td>0.012</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 ROC分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.1指标间分析HB与RGIB无显著相关性( $P =$ 0.682)；PLT及Hb/PLT与RGIB存在显著相关性( $P =$ 0.007，0.004)。PLT的曲线下面积(AUC)为0.160( $9 5 \\%$ CI:-0.058\\~0.378);显著低于Hb/PLT的AUC值0.860中 $9 5 \\%$ CI: 0.657\\~1.063)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.2AUC及截点分析Hb/PLT的曲线在HB及PLT的左上方，且Hb/PLT所对应的AUC显著大于另外两者(图1)。在当Hb/PLT比值的截点(cut-off)为2.660时，其预测RGIB的敏感度为0.840,特异度为 $0 . 8 5 7$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "疾病风险预测是近年的医学研究热点，其难度在于寻找敏感性及特异性均高的诊断(预测)指标，前者意味阳性率高，后者意味误诊率低。然而，以上是该类指标的理想状态，在实际工作中往往难以发现符合上述条件的指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于GIB而言，目前已经发现多种诊断指标有助于预测RGIB，当中不乏定量指标，如Rockcall评分、Glasgow-Blatchford评分、门静脉直径、血清甘氨酰脯氨酸二肽氨基肽酶(GPDA)等[8-9]。尽管上述指标在一定程度上可以较精确的预测RGIB，但还存在以下不足：(1)测量或评估过程复杂；(2)只针对某些病种，适用性受限制；(3)需要特别的诊疗设备或试剂盒等。后两种注：横轴代表误诊率(1-特异度),纵轴代表敏感度;最左侧的蓝色曲线为Hb/PLT比值，中间的绿色曲线为Hb,最右侧的黄色曲线为PLT;紫色的对角线为诊断参考线.",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/90184638a974a6dee7ad920150b64fef3c380ae7d20cea9b52e310029e9f1106.jpg",
+        "img_caption": [
+            "图1ROC曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原因显然不适合病种繁多、工作量极大而设备又相对简陋的基层医院内科。因此，寻找简单可行、适用范围广的新型RGIB评估指标非常有必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "笔者认为，不论何种病因导致的GIB，其一定伴随Hb的变化;另一方面，PLT作为止血的重要血细胞成分，不论其是否因原发病导致数量变化，只要出现GIB，机体势必动员更多的PLT参与止血及预防再出血，亦即所谓的负反馈机制[，因此GIB可间接导致PLT的减少。在上述情况下，Hb/PLT作为衡量贫血及出血倾向的指标，在理论上可以构成一对平衡，而为后续的ROC分析提供可能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究发现，所分析的103例GIB患者在被送往急诊后再出血的发生率为 $2 1 . 4 \\%$ ,该发生率较高，主要有以下几方面的原因：(1)极大多数GIB为急性，在短时内即被送往急诊，此时胃腔及肠腔内仍有较多积血，在压力驱动下再度出血\";(2)病因未能在短时间内去除;(3)专科会诊及处理未能及时奏效，如内镜下止血等。本研究还观察了接诊至首次RGIB的时间间隔为 $3 { \\sim } 1 6 \\mathrm { h }$ ，平均 $9 . 6 2 { \\scriptstyle \\pm 6 . 7 1 \\mathrm { ~ h ~ } }$ ，提示在接诊的 $1 6 \\mathrm { h }$ 内需重点观察病情，尤其在前 $1 0 \\mathrm { { h } }$ ，在条件许可下应进行心电监护，并在该时间点内做好交接班。本组所观察的病死率为 $4 . 9 \\%$ ，显著低于文献报道的 $10 \\%$ 左右[12]，原因为大多数GIB患者能够被有效预测RGIB,且当中较大比例患者接受内镜治疗(约 $57 \\%$ )。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在统计学分析方面，Hb与GIB无明显相关性，提示Hb敏感度及特异度均低而被剔除。通过AUC及P值的比较，可以看出Hb/PLT明显优于PLT。至于该比值由于单纯Hb及PLT，原因可能是比值更能够反映两者的平衡，因而具有全面性。为实现最低误诊率及最大灵敏度，笔者截取了2.660,此点Hb/PLT比值的对应的敏感度为0.840，特异度为0.857，两者均超过了0.8，是最理想的截点，提示当Hb/PLT比值波动在2.66时，需高度警惕RGIB的可能,取采取进一步临床措施，如加强止血、制酸等药物治疗，必要时重复胃镜检查，加强原发病治疗等[13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过本研究发现，Hb/PLT比值预测RGIB优于单纯Hb或PLT，且该比值的敏感度及特异度均高，简单易行,对仪器设备要求低,适合于各级医院的内科开展，有望成为防治内科GIB患者的新型、实用性指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Cerqueira RM,Andrade L,Correia MR,et al.Risk factors for in-hospital mortality in cirrhotic patients with oesophageal variceal bleeding[J].Eur JGastroenterol Hepatol,2012,24(5): 551-7.   \n[2]马娟,邓卫平,曾志刚,等.938例下消化道出血的临床病因分析[J]. 中华急诊医学杂志,2014,23(12):1358-61.   \n[3］罗爱华.急性冠脉综合征患者抗血小板治疗过程中发生上消化道出 血的危险因素[J].中国医药指南,2013,11(2):463-4.   \n[4]易欣,刘长,聂绍平.肠溶阿司匹林和氯吡格雷在抗血小板治疗中上 消化道出血的相关危险因素分析[J].医学临床研究,2014,31(9): 1724-5, 1728.   \n[5]洪 流,王 平,黄 胜,等.肝病患者红细胞和血小板及凝血功能指标检 测的临床意义[J].中国热带医学,2008,8(8):1371-2,1376.   \n[6]乔 辉.肝硬化患者红细胞与血小板参数检测的临床应用分析[J].中 国医药指南,2015,13(20):149-50.   \n[7]Bhaskar E, Sowmya G,Moorthy S,et al.Prevalence,patterns,and factors associated with bleeding tendencies in dengue[J].J Infect Dev Ctries,2015,9(1): 105-10.   \n[8]Kawasaki K,Kurahara K,Yanai S,et al.Low-Dose aspirin and non-steroidal anti-inflammatory drugs increase the risk of bleeding in patients with gastroduodenal ulcer[J]. Dig Dis Sci,2015,60(4): 1010-5.   \n[9]Abraham NS.Gastrointestinal bleeding in cardiac patients: epidemiology and evolving clinical paradigms [J].Curr Opin Gastroenterol, 2014,30(6): 609-14.   \n[10]张秋瓒,王艳荣,杨 倩,等.双联抗血小板治疗合并上消化道出血的危 险因素[J].世界华人消化杂志,2015,10(16):2600-4.   \n[11]高 杰,苏丕雄,刘岩,等.冠状动脉搭桥术后患者上消化道出血的危 险因素分析[J].中华急诊医学杂志,2015,24(4):401-2.   \n[12]Bosch MA,Contreras E,Madoz P,et al. The epidemiology of blood component transfusion in Catalonia, Northeastern Spain [J]. Transfusion,2011,51(1): 105-16.   \n[13]中华内科杂志社,中华医学杂志社,中华消化杂志社,等.急性非静脉 曲张性上消化道出血诊治指南(2015年,南昌)[J].中华消化杂志, 2015,35(12): 793-8. ",
+        "page_idx": 2
+    }
+]

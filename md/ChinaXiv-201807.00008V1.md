@@ -1,0 +1,200 @@
+# 莫索湾地区典型沙丘土壤因子与短命植物物种多样性的关系研究
+
+李亚萍1²，蒋进'，宋春武',²，李浙华1,2（1．中国科学院新疆生态与地理研究所,新疆 乌鲁木齐83000；2．中国科学院大学,北京100049)
+
+摘要：以古尔班通古特沙漠南缘莫索湾为研究区，选取植被盖度依次为 $10 \%$ ） $1 5 \%$ 的固定半固定沙丘以及植被盖度为 $3 0 \%$ 的固定沙丘作为典型样地，用典范排序(CCA)的方法对该地区样方、环境因子与物种多度之间进行对应分析,用典型相关分析的方法对各样地物种多样性与地形因子、土壤理化因子之间进行相关分析。结果表明：物种与环境因子之间存在显著的相关关系，前4轴可以解释物种总变异的 $8 4 . 4 \%$ ,土壤砂粒是影响物种分布一个较为敏感的指示性因子,物种大量分布在土壤砂粒所在的排序轴上;受地形影响较大的物种有硬萼软紫草、黄花珀菊、砂蓝刺头、刺沙蓬;受土壤有机质、土壤水分、土壤 $\mathrm { \Delta p H }$ 影响显著的物种有齿稃草、角果藜、黄耆、尖喙牦牛儿苗。不同指标体系的典型相关分析结果表明：地形与物种多样性因子之间第1对典范相关系数为0.54,土壤理化因子与物种多样性的第一对典范系数分别为0.93、0.96,第二对典范系数分别为0.79、0.80,存在着显著的相关关系。地形因子中,坡向主要影响物种丰富度指数 Simpson;土壤理化因子中,砂粒和土壤有机质主要影响优势度指数Shannon,土壤含水量和pH主要影响均匀度指数 Pielou。该区域物种分布状态是由地形和土壤因子共同作用。
+
+关键词：土壤因子、短命植物；物种多样性；典范排序(CCA)；典范相关分析；莫索湾；新疆
+
+短命植物是一种生活周期或者年生长周期很短的特殊草本植物类群，其主要利用开春后积雪融化、春雨开始、气温和暖、土壤湿润的有利条件，在2个月左右的时间迅速完成整个生长发育过程[]。其主要分布于中亚、准噶尔盆地、地中海沿岸、西亚和北非等地，我国仅新疆北部有分布，准噶尔盆地东缘是其最东的界限。在古尔班通古特沙漠，短命植物种数占该沙漠植物总数的 $3 7 . 1 \%$ ,春季绿色产量占到群落产量的 $6 0 \%$ 以上，是我国荒漠植物区系中重要而独特的组成部分[2-4]。短命植物鲜明的时空分布特点可反映在沙丘不同地貌部位上，其实质是对环境条件综合适应的一种生态表现。作为该类植物的限制性生态因子，土壤水分在个体沙丘不同部位分异明显，致使短命植物呈相应的选择性分布。植被、地形、土壤三者在不同尺度上存在着密切联系[5-6],植物多样性恢复是植被恢复过程中的直接体现，揭示植物分布与土壤因子和物种多样性之间的关系，可以了解不同类型植物的生长条件，对沙漠地区防风固沙有重要的意义。数量生态学中的排序理论已成为现代植被生态学研究中必不可少的手段，应用排序理论能客观地反映植被空间分布与环境之间的关系[7-17]。典范对应分析方法（CanonicalcorrespondenceanalysisCCA）可以结合多个环境因子进行分析，从而更好地反映群落与环境的关系，CCA三序图中一个非常引人瞩目的特征，是物种在典范轴的排序位置反映其生态梯度最适点。这个特征使物种组成的生态解释更加直观和容易。
+
+早春短命植物根据生长环境可分为林下早春短命植物和荒漠早春短命植物。本文以古尔班通古特沙漠南缘莫索湾地区的早春短命植物为研究对象，此类植物在荒漠生态系统中拥有较大的生产力，对稳定沙面有不可替代的作用，群落学意义十分突出。通过CCA排序方法对该地区短命植物的分布与环境因子的关系进行分析，进而用典型相关分析的方法研究植被、地形、土壤因子之间的定量耦合关系。研究结果有助于了解当地物种的分布状况，为保护该地区沙漠短命植物资源提供基本资料。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区地理坐标为 $8 6 ^ { \circ } 0 6 ^ { \prime } \sim 8 6 ^ { \circ } 5 0 ^ { \prime } \mathrm { E }$ ， $4 4 ^ { \circ } 4 0 ^ { \prime } \sim$ $4 5 ^ { \circ } \mathrm { N }$ ,平均海拔高度 $3 4 6 . 8 \mathrm { ~ m ~ }$ 。沙丘多为垄状沙丘，高度 $5 \sim 2 0 \mathrm { ~ m ~ }$ 。该区域年平均气温 $4 \sim 6 ~ \mathrm { { ‰ } }$ ,年降水量 $1 1 4 . 8 9 ~ \mathrm { m m }$ ,潜在蒸发量 $1 ~ 9 4 2 . 1 ~ \mathrm { m m }$ ,干燥度为$1 6 . 9 , \geq 1 0 \mathrm { ~ \ } \mathrm { \mathcal { C } }$ 的活动积温 $3 \ 0 0 0 \sim 3 \ 5 0 0 \ \mathrm { ~ \textdegree C }$ ,年平均日照时数为 $3 ~ 1 0 0 \sim 3 ~ 2 0 0 ~ \mathrm { h }$ ；春夏两季为风季，最大风速达 $2 0 \ \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。该区冬季积雪厚度约为 $1 3 \ \mathrm { c m }$ ，最厚可达 $2 7 ~ \mathrm { c m } ^ { \left[ 1 8 \right] }$ 。主风向为 WNW 和 ESE 风向。
+
+# 1.2 试验设计
+
+选择古尔班通古特沙漠的主要沙丘形态 SN 向的纵向沙垄，按照植被群落密度分布的不同，选择3个典型的沙丘，即以植被盖度分别为 $10 \%$ 和 $1 5 \%$ 的固定半固定沙丘，植被盖度为 $30 \%$ 的固定沙丘作为试验样地，每两沙丘垄顶间距约 $2 0 0 \mathrm { ~ m ~ }$ ，沙垄顶部与垄间地的最大落差为 $7 \mathrm { ~ m ~ }$ 。使用 $3 6 0 ^ { \circ }$ 罗盘测定坡向，沙丘A(阳坡)东坡(背风坡，后同)坡长27.6$\mathbf { m }$ ,坡度 $2 1 ^ { \circ }$ ，西坡(阴坡、迎风坡，后同)坡长13.4$\mathbf { m }$ ,坡度 $1 6 ^ { \circ }$ ;沙丘B阳坡坡长 $8 \mathrm { ~ m ~ }$ ，坡度 $1 2 ^ { \circ }$ ，阴坡坡长 $2 4 . 3 \mathrm { ~ m ~ }$ ,坡度 $1 6 ^ { \circ }$ 。沙丘C 阳坡坡长 $1 2 . 7 \mathrm { ~ m ~ }$ 坡度 $1 9 ^ { \circ }$ ,西坡阴坡坡长 $4 \mathrm { ~ m ~ }$ ,坡度 $2 0 ^ { \circ }$ 。不同沙丘沙漠化地表植被状况和蚀积特征描述见表1。
+
+基于大范围野外调查，采用样线法按照沙垄的走向设置 $2 \mathrm { ~ m ~ }$ 宽的样带，每个样地选择3个重复，每条样线长度不一，之后再沿每条样线每 $1 \mathrm { ~ m ~ }$ 设置1.$0 \ \mathrm { m } \times 1 . 0 \ \mathrm { m }$ 的样方，记录每个样方中植物的名称、株数、高度和冠幅。
+
+1.2.1土样的采集各样点分 $0 \sim 1 0 \ \mathrm { c m } \ . 1 0 \sim 2 0$ cm和 $2 0 \sim 3 0 ~ \mathrm { c m }$ 三层取样。将直径 $5 0 ~ \mathrm { m m }$ 、高100$\mathbf { m } \mathbf { m }$ 的环刀垂直压入土中，使环刀与土壤表层相平齐，用环刀托取出环刀后将土样装入自封袋，每个样点土样为3次环刀取样混合而成。 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土样采集时，用铁锹铲去表层 $1 0 \ \mathrm { c m }$ 厚土壤，按相同方法采集 $1 0 \sim 2 0 ~ \mathrm { c m }$ 的土样。最终将土样均匀混合，带回实验室进行测试和分析。
+
+1.1.2指标测定将各土样过 $0 . 5 \ \mathrm { m m }$ 的筛子，称取枯落物的重量，根据环刀尺寸计算沙堆各部位枯落物百分含量。过筛后的土样全部送实验室进行有机质、全N、全P、全K。有机质采用重铬酸钾法测定，全氮采用凯氏法利用FOSS全自动定氮仪测定，全磷用DU800紫外分光光度计测定，全钾用火焰光度计测定。土壤粒径采用BT-2001型激光粒度分布仪（湿法），结果以体积百分量表示。
+
+# 1.3群落 $\mathbf { \alpha } _ { \mathbf { { \alpha } } } ( \mathbf { \alpha } _ { \mathbf { { \alpha } } } )$ 多样性指数的计算
+
+丰富度指数 $R = S$
+
+Shannon-Wiener多样性指数
+
+$$
+H = - \sum _ { i = 1 } ^ { s } ( P i \ln P i ) ( P i - n i / N )
+$$
+
+Simpson多样性指数
+
+$$
+D = 1 - \sum _ { i = 1 } ^ { s } P i ^ { 2 }
+$$
+
+Pielou均匀度指数
+
+$$
+E = H / \mathrm { l n } S
+$$
+
+式中： $s$ 为物种总数， $P i$ 为第 $i$ 个物种的相对重要值； $n i$ 为第 $i$ 个物种的重要值; $N$ 为群落中所有物种的重要值之和； $n i =$ （相对盖度 $^ +$ 相对密度 $^ +$ 相对高度 $^ +$ 相对频度) $\times 1 0 0 \mathrm { / 4 }$
+
+# 1.4 数据处理
+
+用Canoco4.5软件对物种相对重要值进行除趋势对应分析（detrended correspondence analysis,简称 DCA），可得Lengthsofgradient 的第一轴为4.253，应选择典范对应分析（redundancyanalysis,简称CCA）对物种和土壤因子排序。Shannon指数、Simpson指数和Pielou均匀度指数用R软件平台的Spaa包进行计算。主成分分析用R语言labdsv包进行分析，物种各多样性指数和地形因子以及土壤因子的典范分析使用R语言中Cancor函数做典型相关分析。
+
+表1各样地沙丘形态特征   
+Tab.1features of various dune morphology   
+
+<html><body><table><tr><td>沙丘类型</td><td>植被特征的描述</td><td>沙丘积蚀强度描述</td></tr><tr><td>沙丘A</td><td>以白梭梭为主。短命 植物覆盖度26.2%。</td><td>沙垄剖面呈近对称性，沙 丘的阳面有明显的藻结 皮，盖度30%，丘间地无积 沙，结皮盖度达到70%。</td></tr><tr><td>沙丘B</td><td>以白梭梭为主，伴随 有沙拐枣。短命植物 盖度14.4%。</td><td>沙垄剖面微成不对称形 态。丘间地为沙土平地。 沙丘整体结皮盖度很小。</td></tr><tr><td>沙丘C</td><td>以怪柳为主。短命植 物盖度50%。</td><td>基部到顶部差异性不显 著，呈半球体状。结皮盖 度达到80%以上。</td></tr></table></body></html>
+
+# 表2不同立地条件下早春短命植物的分布状况
+
+Tab.2 distribution of short-lived plants in early spring   
+
+<html><body><table><tr><td rowspan="2">属名</td><td rowspan="2">种名(代号)</td><td rowspan="2">拉丁种名</td><td colspan="5">沙丘</td><td colspan="5">沙丘</td><td colspan="4">沙丘</td></tr><tr><td></td><td>阴坡 阳坡 坡顶 丘间</td><td></td><td></td><td></td><td></td><td></td><td></td><td>阴坡 阳坡 坡顶 丘间</td><td></td><td>阴坡</td><td></td><td></td><td>阳坡 坡顶 丘间</td></tr><tr><td>鹤虱属</td><td>狭果鹤虱(La)</td><td>Lappula myosotis</td><td>+</td><td>+</td><td>+</td><td></td><td></td><td>+</td><td></td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td></td><td>+</td></tr><tr><td>旱麦草属</td><td>东方旱麦草(Er)</td><td>Eremopyrum orientale</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td>+</td><td></td><td></td><td></td><td></td><td>+</td></tr><tr><td>齿稃草属</td><td>齿稃草(Sc)</td><td>Schismus arabicus</td><td>+</td><td></td><td></td><td></td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>牛儿苗属</td><td>尖喙牛儿苗(Ero)</td><td>Erodium oxyrrhynchum</td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td></tr><tr><td>软紫草属</td><td>硬萼软紫草(Ar)</td><td>Arnebia decumbens</td><td>+</td><td>+</td><td></td><td></td><td></td><td>+</td><td></td><td>+</td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td></tr><tr><td>大戟属</td><td>土大戟(Eu)</td><td>Euphorbia turczaninowii</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td>+</td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>千里光属</td><td>梳齿千里光(Se)</td><td>Senecio scandens</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>三芒草属</td><td>三芒草(Ari)</td><td>Aristida adscensionis</td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>天芥菜属</td><td>天芥菜(He)</td><td>Heliotropium europaeum</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>四齿芥属</td><td>弯曲四齿芥(Te)</td><td>Tetracme quadricornis</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>虫实属</td><td>倒披针叶虫实(Co)</td><td>Corispermumlehmannianum</td><td>+</td><td></td><td></td><td></td><td></td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>琉苞菊属</td><td>琉苞菊(Hy)</td><td>Hyaleapulchella</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td></tr><tr><td>卷蒿属</td><td>沙漠绢蒿(Ser)</td><td>Seriphidium santolinum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>角果藜属</td><td>角果藜(Ce)</td><td>Ceratocarpusarenarius</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td></td><td>+</td></tr><tr><td>蓝刺头属</td><td>砂蓝刺头(Ec)</td><td>Echinopsgmelinii</td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>猪毛菜属</td><td>猪毛菜(Sa)</td><td>Salsola collina</td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td>+</td><td>+</td></tr><tr><td>黄耆属</td><td>黄耆(As)</td><td>Astragalus membranaceus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>沙蓬属</td><td>沙蓬(Ag)</td><td>Agriophyllum aquarrosum</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>珀菊属</td><td>黄花珀菊(Am)</td><td>Amberboa turanica</td><td>+</td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>簇花芹属</td><td>簇花芹(So)</td><td>Soranthus meyeri</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：“ $^ +$ ”代表该物种在样方中出现。
+
+# 2结果与分析
+
+# 2.1各沙丘短命植物的分布状况
+
+从沙丘A到沙丘C所有调查样方中，共鉴定出20种荒漠短命植物（表2），分属9科。其中，菊科植物最多，代表物种有稀疏千里光、沙漠绢蒿;藜科植物次之，代表植物有倒披针叶虫实、沙蓬;还有十字花科的弯曲四齿芥、牻牛儿苗科的尖喙牻牛儿苗、豆科的黄耆、伞形科的簇花芹;沙丘A主要以鹤虱、天芥菜、硬萼软紫草、齿稃草为优势物种,其他物种有黄花珀菊、三芒草等;沙丘B主要以倒披针叶虫实、三芒草、硬萼软紫草为优势种，丘间地(沙地)主要以齿稃草、沙漠绢蒿为主要的物种，同时伴随有大量的簇花芹、黄耆、补血草、琉苞菊;沙丘C主要以猪毛菜、鹤虱、角果黎为主要物种。这些植物对沙漠地区的自然条件有很强的适应性，能够防风固沙，是荒漠植被的主要成分。
+
+# 2.2 各沙丘环境因子与物种多样性的主成分(PCA)分析
+
+为了满足数据分析的要求，将地形因子的非数值指标按经验公式建立隶属函数换算成编码。坡向：阳坡(0.3），阴坡(1.0);坡位：上坡位(0.4）、中坡位（1.0）下坡位(0.8）、丘间地(0.9）。
+
+地形因子有3个：坡向 $( a s p e ) X _ { 1 }$ 、坡度 $( s l o p ) X _ { 2 }$ ）坡位 $( p o s i ) X _ { 3 }$ ：
+
+土壤因子有8个：土壤含水量（sow） $X _ { 4 }$ 、土壤$( \mathrm { p H } ) X _ { 5 }$ 、土壤电导率 $( { \mathrm { E c } } ) X _ { 6 }$ 、土壤有机质 $( \arg ) X _ { 7 }$ 、土壤全氮 $( \mathrm { ~ N ~ } ) X _ { 8 }$ 、土壤全磷 $( { \mathsf { P } } ) X _ { 9 }$ 、土壤全钾（K)$X _ { 1 0 }$ 、土壤黏粒 $( \mathrm { c l a y } ) X _ { 1 1 }$ 、土壤粉粒 $\left( \sinh \right) X _ { 1 2 }$ 、土壤砂粒 $( { \mathrm { s a n d } } ) X _ { 1 3 }$ ：
+
+$\alpha$ 多样性因子：多样性指数（simpson） $X _ { 1 4 }$ 、优势度指数(shannon) $X _ { 1 5 }$ 、均匀度指数 $\mathrm { ( \ p i e l o u ) } X _ { 1 6 }$ 。
+
+沙丘各因子原始数据的平均值如表3所示，因各项指标的量纲各异，故需对指标的原始数据进行标准化处理[19]
+
+有：Ui=x-xi
+
+式中：Uij为第 $i$ 个指标的第 $j$ 个样地观测值的标准化数据，为无量纲的相对值， $X \dot { \boldsymbol { { i } } }$ 为第 $i$ 个指标第 $j$ 个样地观测值， $X i , S i$ 分别为第 $i$ 个指标的平均值及标准差。
+
+由表4可知，沙丘A、沙丘B以及沙丘C前两个轴的累积贡献率都达到 $7 5 \%$ 以上，沙丘A中第一主成分砂粒的得分系数最大，与第一轴呈显著的正相
+
+Tab.3The basic statistics of the average of each factor different dune   
+
+<html><body><table><tr><td rowspan="2">沙丘 类型</td><td rowspan="2">方位坡向</td><td rowspan="2"></td><td rowspan="2">坡度 /()</td><td rowspan="2">坡位</td><td rowspan="2">含水量 /%</td><td rowspan="2">pH</td><td>电导率</td><td>有机质</td><td>全N</td><td>全P</td><td>全K</td><td>粘粒</td><td>粉粒</td><td>砂粒</td><td>多样性</td><td>优势度</td><td>均匀度</td></tr><tr><td>/(ms·cm-1)</td><td></td><td>/（g·kg-1)</td><td></td><td></td><td></td><td>/%</td><td></td><td>指数</td><td>指数</td><td>指数</td></tr><tr><td rowspan="4">沙丘A</td><td>S</td><td>1</td><td>16</td><td>1</td><td>3.45</td><td>7.8</td><td>124.3</td><td>1.62</td><td>0.25</td><td>0.25</td><td>6.47</td><td>0</td><td>36.54</td><td>61.75</td><td>0.51</td><td>0.98</td><td>0.45</td></tr><tr><td>W</td><td>0</td><td>3</td><td>0.4</td><td>3.33</td><td>7.86</td><td>219.7</td><td>1.85</td><td>0.17</td><td>0.11</td><td>5.99</td><td>0</td><td>37.97</td><td>61.01</td><td>0.42</td><td>0.88</td><td>0.54</td></tr><tr><td>E</td><td>0.3</td><td>12</td><td>1</td><td>3.06</td><td>7.74</td><td>132.4</td><td>1.86</td><td>0.16</td><td>0.06</td><td>7.94</td><td>0</td><td>29.86</td><td>69.28</td><td>0.61</td><td>1.03</td><td>0.75</td></tr><tr><td>T</td><td>0</td><td>5</td><td>0.9</td><td>3.57</td><td>7.98</td><td>154.7</td><td>2.77</td><td>0.25</td><td>0.25</td><td>6.18</td><td>0</td><td>39.66</td><td>57.73</td><td>0.29</td><td>0.74</td><td>0.32</td></tr><tr><td rowspan="4">沙丘B</td><td>S</td><td>1</td><td>16</td><td>1</td><td>3.54</td><td>7.79</td><td>148</td><td>2.77</td><td>0.21</td><td>0.28</td><td>5.13</td><td>25.8</td><td>32.04</td><td>38.27</td><td>1.47</td><td>0.66</td><td>0.59</td></tr><tr><td>W</td><td>0</td><td>3</td><td>0.4</td><td>3.82</td><td>7.29</td><td>99.85</td><td>2.34</td><td>0.23</td><td>0.14</td><td>6.33</td><td>0</td><td>36.63</td><td>62.29</td><td>1.46</td><td>0.73</td><td>0.71</td></tr><tr><td>E</td><td>0.3</td><td>12</td><td>1</td><td>3.27</td><td>7.42</td><td>166.7</td><td>1.38</td><td>0.17</td><td>0.13</td><td>7.72</td><td>0</td><td>32.71</td><td>66.69</td><td>1.16</td><td>0.57</td><td>0.72</td></tr><tr><td>T</td><td>0</td><td>2</td><td>0.9</td><td>3.21</td><td>7.75</td><td>118.7</td><td>1.16</td><td>0.15</td><td>0.01</td><td>4.03</td><td>0</td><td>29.73</td><td>69.71</td><td>1.31</td><td>0.68</td><td>0.59</td></tr><tr><td rowspan="4">沙丘C</td><td>S</td><td>1</td><td>19</td><td>1</td><td>4.56</td><td>8.02</td><td>504.5</td><td>4.45</td><td>0.22</td><td>0.25</td><td>6.86</td><td>3.22</td><td>41.64</td><td>41.72</td><td>0.81</td><td>0.34</td><td>0.37</td></tr><tr><td>W</td><td>0</td><td>2</td><td>0.4</td><td>3.48</td><td>8.12</td><td>739.5</td><td>4.66</td><td>0.24</td><td>0.24</td><td>6.68</td><td>7.24</td><td>37.4</td><td>29.34</td><td>0.88</td><td>0.53</td><td>0.42</td></tr><tr><td>E</td><td>0.3</td><td>20</td><td>1</td><td>3.12</td><td>8.25</td><td>705.5</td><td>4.42</td><td>0.21</td><td>0.08</td><td>3.35</td><td>5.42</td><td>34.04</td><td>26.76</td><td>0.84</td><td>0.41</td><td>0.41</td></tr><tr><td>T</td><td>0</td><td>3</td><td>0.9</td><td>4.64</td><td>8.09</td><td>471.5</td><td>3.51</td><td>0.15</td><td>0.02</td><td>7.03</td><td>6.22</td><td>31.23</td><td>11.14</td><td>1.06</td><td>0.49</td><td>0.48</td></tr></table></body></html>
+
+注：S、WE、T分别代表的是各沙丘的阴坡、坡顶、阳坡、丘间地。
+
+# 表4主成分(PCA)的得分系数、特征根与贡献率
+
+表3不同沙丘各因子基本统计量的平均值  
+
+<html><body><table><tr><td rowspan="2">因子</td><td colspan="2">沙丘A</td><td colspan="2">PereeregeorPrreiPr 沙丘B</td><td colspan="2">沙丘C</td></tr><tr><td>I</td><td>II</td><td>I</td><td>ⅡI</td><td>I</td><td>II</td></tr><tr><td>坡向</td><td>-0.214</td><td>-0.398</td><td>-0.278</td><td>-0.268</td><td>0.293</td><td>0.302</td></tr><tr><td>坡度</td><td>-0.343</td><td>-0.477</td><td>0.257</td><td>0.245</td><td>0.236</td><td>0.172</td></tr><tr><td>坡位</td><td>-0.236</td><td>-0.358</td><td>-0.277</td><td>-0.221</td><td>-0.202</td><td>-0.176</td></tr><tr><td>土壤含水量</td><td>0.350</td><td>0.000</td><td>0.132</td><td>0.332</td><td>0.000</td><td>-0.826</td></tr><tr><td>土壤pH</td><td>-0.229</td><td>0.221</td><td>-0.132</td><td>-0.149</td><td>-0.309</td><td>0.375</td></tr><tr><td>土壤电导率</td><td>0.000</td><td>0.000</td><td>0.227</td><td>0.000</td><td>-0.204</td><td>-0.154</td></tr><tr><td>土壤有机质</td><td>0.101</td><td>0.000</td><td>0.816</td><td>0.000</td><td>0.568</td><td>0.000</td></tr><tr><td>土壤全氮</td><td>-0.212</td><td>-0.286</td><td>0.132</td><td>-0.237</td><td>0.528</td><td>0.000</td></tr><tr><td>土壤全磷</td><td>-0.240</td><td>-0.285</td><td>0.000</td><td>-0.209</td><td>-0.229</td><td>0.000</td></tr><tr><td>土壤全钾</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.105</td><td>0.000</td></tr><tr><td>土壤黏粒</td><td>-0.148</td><td>-0.164</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>土壤粉粒</td><td>0.135</td><td>-0.173</td><td>0.000</td><td>0.268</td><td>0.000</td><td>0.000</td></tr><tr><td>土壤砂粒</td><td>0.670</td><td>0.000</td><td>0.000</td><td>0.453</td><td>0.000</td><td>0.000</td></tr><tr><td>多样性指数</td><td>0.000</td><td>0.290</td><td>0.000</td><td>-0.321</td><td>0.000</td><td>0.000</td></tr><tr><td>优势度指数</td><td>0.000</td><td>0.164</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>均匀度指数</td><td>0.000</td><td>-0.314</td><td>0.000</td><td>-0.435</td><td>0.000</td><td>0.000</td></tr><tr><td>特征根</td><td>2.94</td><td>2.01</td><td>2.65</td><td>2.25</td><td>2.91</td><td>2.07</td></tr><tr><td>贡献率%</td><td>53.9</td><td>78.9</td><td>43.8</td><td>31.7</td><td>52.8</td><td>26.7</td></tr><tr><td>累积贡献率%</td><td>53.9</td><td>78.9</td><td>43.8</td><td>75.5</td><td>52.8</td><td>79.5</td></tr></table></body></html>
+
+注：I、Ⅱ分别代表第一、二主成分。
+
+关，土壤电导率以及物种因子的得分系数都为零，第二主成分与坡向、坡位以及坡度呈负相关，主要代表的是地形的指示因子；沙丘B第一主成分得分系数最大的是土壤有机质，全P和全K的得分系数为零,第二主成分与土壤含水量、土壤砂粒呈正相关，都代表土壤物理因子，其中黏粒的得分系数极小，同时与物种均匀度指数Pielou呈负相关;沙丘C第一主成分土壤有机质和土壤全N的得分系数最大，且呈正相关关系，第二主成分与土壤含水量呈显著的负相关，得分系数最大，其次是土壤pH,得分系数为正。
+
+由于不同沙丘主要影响因子不相同，各因子的得分系数相当，剔除对各沙丘影响都较小的因子，进行CCA典范对应分析，可以直观地了解样地物种多度与环境因子的关系。
+
+# 2.3群落与环境的CCA排序分析结果
+
+将所有的样方、物种多度、环境因子相结合进行典范对应分析（CCA）。CCA排序一般将其种类、样方和环境因子绘在一张图上,箭头表示环境因子,箭头所处的象限表示环境因子与排序轴之间相关性的正负。箭头连线的长度代表着某个环境因子与群落分布和种类分布间相关程度的大小，即连线越长，相关性越大，反之越小。箭头连线与排序轴的夹角代表着某个环境因子与排序中相关性的大小，夹角越小，相关性越高；反之越低。CCA排序的特征值，物种-环境相关系数，以及排序轴与环境因子的相关系数见表5和表6。
+
+Tab.4Factor loading，Eigenvalue and cumulative percentage of principle analysis   
+表5CCA排序轴特征值及物种环境相关系数 Tab.5Eigenvalues and species environment correlations coefficient of CCA axis   
+
+<html><body><table><tr><td>项目</td><td>AX1</td><td>AX2</td><td>AX3</td><td>AX4</td></tr><tr><td>特征值</td><td>0.801</td><td>0.551</td><td>0.527</td><td>0.316</td></tr><tr><td>物种-环境相关系数</td><td>0.944</td><td>0.932</td><td>0.927</td><td>0.906</td></tr></table></body></html>
+
+注：AX1、AX2、AX3、AX4分别表示第一、第二、第三、第四排序轴
+
+表6环境因子与CCA排序轴的典范系数和相关系数  
+Tab.6Canonical Coefficientsand Correlation Coefficients of Environmental variables and theaxis of CCA   
+
+<html><body><table><tr><td rowspan="2">环境因子</td><td colspan="4">典范系数</td><td colspan="4">相关系数</td></tr><tr><td>AX1</td><td>AX2</td><td>AX3</td><td>AX4</td><td>AX1</td><td>AX2</td><td>AX3</td><td>AX4</td></tr><tr><td>有机质</td><td>0.757</td><td>-0.333</td><td>0.033</td><td>-0.045</td><td>0.732</td><td>-0.386</td><td>-0.025</td><td>-0.048</td></tr><tr><td>土壤全氮</td><td>0.251</td><td>-0.462</td><td>-0.104</td><td>-0.119</td><td>0.250</td><td>-0.458</td><td>-0.101</td><td>-0.119</td></tr><tr><td>土壤含水量</td><td>0.221</td><td>-0.148</td><td>-0.338</td><td>-0.269</td><td>0.222</td><td>-0.154</td><td>-0.345</td><td>-0.273</td></tr><tr><td>土壤pH</td><td>0.695</td><td>-0.08</td><td>0.399</td><td>0.045</td><td>0.699</td><td>-0.081</td><td>0.404</td><td>0.051</td></tr><tr><td>土壤粉粒</td><td>0.182</td><td>-0.480</td><td>-0.179</td><td>-0.366</td><td>0.188</td><td>-0.488</td><td>-0.218</td><td>-0.340</td></tr><tr><td>土壤砂粒</td><td>-0.780</td><td>0.164</td><td>0.027</td><td>-0.073</td><td>-0.782</td><td>0.167</td><td>0.092</td><td>-0.084</td></tr><tr><td>坡</td><td>-0.153</td><td>-0.563</td><td>0.338</td><td>0.001</td><td>-0.159</td><td>-0.564</td><td>0.128</td><td>0.001</td></tr><tr><td>坡向</td><td>-0.198</td><td>-0.548</td><td>0.171</td><td>0.297</td><td>-0.198</td><td>-0.552</td><td>0.176</td><td>0.298</td></tr><tr><td>坡位</td><td>-0.171</td><td>-0.41</td><td>0.687</td><td>0. 173</td><td>-0.178</td><td>0.687</td><td>0.191</td><td>0.178</td></tr></table></body></html>
+
+![](images/b012bc766bee66951e4d5b2371adbb6fb2f36534825d90e9a31e6b930a65309b.jpg)  
+图1样地－土壤因子和物种－土壤因子的CCA二维排序 Fig.1The CCA of the ground - soil factor and species - soil factol
+
+由表4可知，第一轴特征值最大，第二轴次之，分别为0.777和0.545，第一轴解释了 $3 0 . 3 \%$ 的物种组成,第二轴解释了 $5 1 . 1 \% - 3 0 \% = 2 1 . 1 \%$ 的物种组成，第三轴解释 $1 9 \%$ 的物种组成，第四轴解释了 $1 3 . 5 \%$ 的物种组成，前四个轴总共解释了83.99$\%$ 的物种组成。由CCA分析可知（图1），第一轴基本上反映植物群落所处的土壤砂粒的变化趋势，砂粒与CCA第一轴相关系数为-0.782（表5），短命植物天芥菜、三芒草、倒披针叶虫实、沙米主要分布在固定半固定沙丘迎风坡上部和坡顶，天芥菜大量分布在坡顶，倒披针叶虫实迎风坡的上部分布较多；沙漠绢蒿、东方旱麦草主要分布在沙丘丘间地;第二轴基本变化是呈出植物群落所在地地形因子的变化趋势，坡度、坡向与第二轴的相关系数为-0.564和-0.552（表5），表现出负的相关性，坡位与第二轴的相关系数为0.687，为正的相关性。坡度是影响物种分布格局的重要因子，它能通过影响土壤水分、养分等环境要素的梯度变化，进而影响着物种的分布。该区域主要物种有硬萼软紫草、黄花柏菊、砂蓝刺头。第三轴主要出现在土壤因子所在的区域，主要的物种有齿稃草、角果藜、黄耆，土壤电导率、有机质对该区域物种的影响最显著，土壤含水量的影响较小。角果藜、猪毛菜在固定沙丘上分布较多，该样地土壤养分充足，有大量的苔藓结皮。
+
+# 2.4地形、土壤因子与物种多样性的典型相关分析
+
+把地形中的坡向( $\mathbf { \nabla } \cdot \mathbf { X } _ { 1 } \mathbf { \sigma }$ ）、坡度( $\mathrm { ~ \ : ~ } \cdot \mathrm { ~ X } _ { 2 } \mathrm { ~ . ~ }$ ）、坡位 $\left( \mathrm { X } _ { 3 } \right)$ 构成第一体系，把土壤理化性质因子中的物理因子粉粒 $\left( \mathrm { X } _ { 1 } 3 \right)$ 、砂粒( $\mathrm { X } _ { 1 4 }$ )以及土壤含水量 $\mathrm { ( X _ { 4 } ) }$ 构成第二体系，把土壤化学因子中的土壤 $\mathrm { \ p H }$ 、有机质 $( \mathrm { X } _ { 7 } )$ 、全氮 $( \mathrm { X } _ { 8 } )$ )构成第三体系，用典型相关分析方法来研
+
+# 表7典范分析
+
+Tab.7 Results of canonical analysis   
+
+<html><body><table><tr><td>典范相关与变量</td><td>地形与物种多样性</td><td>土壤物理性质与物种多样性</td><td>土壤化学性质与物种多样性</td></tr><tr><td>第一对典范相关系数</td><td>0.54</td><td>0.93</td><td>0.96</td></tr><tr><td rowspan="2">第一对典范变量</td><td>U1=-0.437X-0.546X-0.003X3</td><td>U1=0.284X4-0.213X2 +0.352X13</td><td>U1=0.469X5-0.026X+0.228Xg</td></tr><tr><td>V =0. 424X14 +0.427X15-0.31X16</td><td>V1=209X14 +0.331X15-0.034X16</td><td>V =0.142X14 +0.165X12-0.425X16</td></tr><tr><td rowspan="3">第二对典范相关系数 第二对典范变量</td><td>0.07</td><td>0.79</td><td>0.8</td></tr><tr><td>U= -0.032X +0.27X-0.419X</td><td>U2=-0.213X4+0.078X12+0.189X13</td><td>U=-0.235X5 +0.264X-0.23X8</td></tr><tr><td>V2= -0.245X14 +0.018X15 +0.318X16</td><td>V=-0.276X14 +0.022X15 +0.293X16</td><td>V= -0.142X14-0.402X12 +0.158X16</td></tr></table></body></html>
+
+注：表中 $U , V$ 分别代表典范变量的线性组合。
+
+究地形因子、土壤物理性质、土壤化学性质与多样性指数( $\mathrm { X } _ { 1 4 }$ ）、优势度指数（ $\mathrm { X } _ { 1 5 }$ ）、均匀度指数( $\mathrm { X } _ { 1 6 }$ )之间的相关关系。
+
+由表7可知，地形因子与物种多样性因子的第一对典范相关系数是0.54，用Barlett检验，在 $\alpha =$ 0.05的水平上，仅第一典范相关系数是显著的，其余都不显著。故仅分析第一对典范变量。 $U _ { 1 }$ 和 $V _ { 1 }$ 组成第一对典范变量， $U _ { 1 }$ 是地形因子的线性组合，其中坡度载荷量最大（0.546），其次是坡向（0.437）， $V _ { 1 }$ 是 $\mathbf { \alpha } _ { a }$ 多样性因子的线性组合，其中Simpson优势度指数的载荷量最大（0.427），由此可见，坡向和坡位对优势物种的影响最大。因为就立地类型来说，坡向可以转变局部的温度和水分，坡向和坡度的差异可能会导致多样的微生境。阳坡光照充足、温度较适宜，有利于早春短命植物的生长，阴坡林分内温度低，光照不足，尽管水分蒸腾较少，土壤含水量较稳定，但幼苗发育的数量较少。由于生境条件的限制，物种会选择适宜自身生长的微环境，并局限在一定的范围。
+
+对于土壤物理因子，第一对典范系数为0.93，用Barlett检验，证明它们之间的相关性十分显著( $P$ $< 0 . 0 1$ )，在土壤物理因子的线性组合 $U _ { 1 }$ 中，土壤砂粒的载荷量最大（0.352）， $\alpha$ 多样性因子的线性组合,Shannon多样性指数载荷量最大0.331,Shannon指数基于物种数量反映群落种类多样性，群落所含的信息量较大，由CCA排序可知，砂粒所在的排序轴，物种种类最多，砂粒土壤孔隙度较好，水分易于入渗，对于早期短命植物来说，能够达到生长的最适宜环境。第二对典范系数为0.79，仍用Barlett检验，相关性显著( $P < 0 . 0 1 )$ ，土壤物理因子的线性组合中，土壤含水量的负荷量最大（0.213）， $\alpha$ 多样性因子的线性组合中Pielou均匀度指数载荷量最大(0.293），说明土壤含水量主要决定物种的分布均匀状况。土壤水分的影响主要体现在古尔班通古特沙漠极端环境下，水分状况决定了地表植被的类型和数量[20],水分的优劣在一定程度上反映了植物的生长速率以及植物对所处环境的适应能力[21 -22] 。
+
+对于土壤化学因子，第一、二对典范系数分别为0.96和0.80;经检验在 $\alpha = 0 . 1$ 水平上显著，第一对典范轴土壤 $\mathrm { \ p H }$ 的载荷量最大（0.469），物种多样性指数中，均匀度指数Pielou的载荷量最大（0.425）。《中国土壤》将我国土壤酸碱度划分为5个等级，由此可知，研究区内沙丘A和沙丘C各立地下沙土类型都属于碱性土，沙丘B阴坡和丘间平沙地属于碱土，垄顶与阳坡属于中性土(表3)。主要影响的物种有藜科植物猪毛菜、角果藜以及禾本科植物齿稃草。第二对典范变量中，土壤有机质的载荷量最大（0.267），物种多样性因子中，多样性指数Shannon的载荷量最大(0.402）。因此土壤有机质与群落种类多样性有很大的影响，土壤有机质主要影响植物物种与土壤养分间的相互联系、相互制约的，土壤养分在数量和组成上的变化，都将对植物群落的生物量形成、物种组成和群落演替产生显著的影响[23]
+
+# 3结论
+
+采用主成分方法可以消除不同因子之间的重叠信息。将莫索湾地区物种多度、环境因子相结合的典范分析(CCA)排序结果表明：不同沙丘林下植被分布的差异和物种多样性主要由土壤因子的空间异质性所致，表现为不同立地类型内物种的分布状况产生的差异，砂粒与CCA第一轴相关系数为-0.78。该研究区物种大量分布在土壤砂粒所在的排序轴上;坡位、坡度和坡向与CCA第二轴相关系数分别为0.687、-0.564和-0.552，第二轴主要受地形的影响，相应的物种有硬萼软紫草、黄花柏菊、砂蓝刺头、刺沙蓬;土壤含水量和土壤 $\mathrm { \ p H }$ 与第三轴的相关系数分别为-0.345和0.404，主要分布的植物有齿稃草、角果藜、黄耆、尖喙牦牛儿苗，该类型的植物主要分布在固定沙丘。
+
+在物种 $\alpha$ 多样性与地形因子的典范分析中，坡度和坡向主要影响物种丰富度指数Shannon和优势度指数Simpson;在与土壤物理、化学因子的典范分析中，其第一、二轴典范系数都达到极显著的水平，不同的典范轴下对物种的多样性、物种的优势度以及物种的均匀度产生不同程度的影响，土壤砂粒、土壤有机质主要影响物种的丰富度指数Shannon，土壤含水量、土壤pH主要影响物种的均匀度指数Pielou。上述结果表明，土壤、植被、地形因子三者之间相互作用，地形因子影响物种的分布状况，土壤因子对物种多样性也产生影响，反过来，各物种之间对水分、养分的竞争同样也影响着土壤的理化因子。
+
+# 参考文献（References）：
+
+[1]钱亦兵,吴兆宁，张立运,等.古尔班通古特沙漠短命植物的空 间分布特征[J].科学通报,2007,52（19)：2 299-2306. [Qian Yibing,Wu Zhaoning,Zhang Liyun,et al.The spatial distribution of ephemeral plants in Gurbantunggut desert[J].Chinese Science Bulletin,2007,52(19):2 299-2 306.]   
+[2]王雪芹,蒋进,雷加强,等.古尔班通古特沙漠短命植物分布及 其沙面稳定意义[J].地理学报，2003,58（4）：598－605. [Wang Xueqin,Jiang Jin,Lei Jiaqiang,et al.The distribution of ephemeral vegetation on the longitudinal dune surface and its stabilization significance in the Gurbantunggut desert[J].Acta Geographica Sinica,2003,58(4） :598-605.]   
+[3]王雪芹,蒋进,雷加强,等.短命植物分布与沙垄表层土壤水分 的关系——以古尔班通古特沙漠为例[J].应用生态学报, 2004,15(4）:556-560.[Wang Xueqin,Jiang Jin,Lei Jiaqiang,et al.Relationship between ephemeral plants distribution and soil moisture on longitudinal dune surface in Gurbantonggut desert [J].Chinese Journal of Applied Ecology,2004,15（4）:556- 560.]   
+[4]张立运.新疆莫索湾地区短命植物的初步研究[J].植物生态 学与地植物学丛刊,1985,9（3）：213-222.［Zhang Liyun.A preliminary study on the ephemerals in the mosowan district,XinJing[J].Chinese Journal of Plant Ecology,1985,9（3）:213- 222.]   
+[5]贾风勤,任娟娟,张元明.古尔班通古特沙漠沙丘微地形变化 对草本植物多样性影响[J].生态学杂志,2017,11（3)：1-10. [Jia Fengqin,Ren Juanjuan,Zhang Yuanming. Effect of slope aspect and terrain of sand dune on herbaceous diversity in Gurbantunggut desert[J].Chinese Journal of Ecology,2018,11（1）:26 -34.]   
+[6]袁素芬,唐海萍,张宏锋.短命植物层群落年内变化与水热条 件的关系[J].干旱区研究,2015,32（05）:941-946.[Yuan Sufen,Tang Haiping,Zhang Hongfeng.On the relationships between Intra-annual variation of ephemeral synusia and hydrothermal conditions[J].Arid Zone Research,2015,32（5）:941 - 946.]   
+[7]王恒方,吕光辉,周耀治,等.不同水盐梯度下功能多样性和功 能冗余对荒漠植物群落稳定性的影响[J].生态学报,2017， (23）:1-11.[Wang Hengfang,Lu Guanzhi,Zhou Yaozhi,et al. Effectsof functional diversity and functional redundancy on the stability of desert plant communities under different water and salt gradients[J]. Acta Ecologica Sinica,2017,（23）: 7 928-7 937.]   
+[8］张荣,刘彤.古尔班通古特沙漠南部植物多样性及群落分类 [J].生态学报,2012,32（19）:6 056-6 066.[Zhang Rong,Liu Tong.Plant species diversity and community classification in the southern Gurbantunggut Desert[J].Acta Ecologica Sinica,2012, 32(19):6 056-6 066.][9]刘忠权,刘彤,张荣,等.古尔班 通古特沙漠南部短命植物群落物种多样性及空间分异[J].生 态学杂志,2011,30（1）:45-52.[Liu Zhongquan,Liu Tong, Zhang Rong,et al.Species diversityand spatial diferentiation of ephemeral plant community in southern Gurbantunggut Desert[J]. Chinese Journal of Ecology,2013,30(1）:45-52.]   
+[10］张元明,陈亚宁,张小雷.塔里木河下游植物群落分布格局及 其环境解释[J].地理学报,2004,59（6）：903－910.［Zhang Yuanming,Chen yaning, Zhang xiaolei. Plant communitiesand their interrelations with environmental factors in the lower reaches of tarim river[J].Acta Geographica Sinica,2004,59(6）:903- 910.]   
+[11］闫东锋,杨喜田.宝天曼木本植物群落数量排序与环境解释 [J].生态环境学报,2010,19（12）:2 826-2 831.[Yan Dongfeng,Yang Xitian.Quantitative ordination and environmental analysis of woody plant communities in Baotianman,Henan Province [J].Ecology And Environment,2010,19(12）:2 826-2 831.]   
+[12]王景升,姚帅臣,普穷,等.藏北高原草地群落的数量分类与排 序[J].生态学报,2016,36(21）:6 889- 6896.[Wang Jingsheng,Yao Shuaichen,Pu Qiong,et al. Quantitative classification and ordination of grassland communities on the northern Tibetan Plateau[J].Acta Ecologica Sinica,2016,36(21）:6 889 -6 896.]   
+[13］叶琴,周华荣,袁蕾,等.土壤环境因子对乌鲁木齐地区灌木群 落分布的影响[J].干旱区研究,2016,33（5）:1119-1124. [Ye Qing,Zhou Huarong,Yuan Lei,et al.Effect of soil environmental factors on the distribution of shrub communities in Urumqi [J].Arid Zone Research,2016,33(5）:1 119-1 124.]   
+[14］臧润国,井学辉,丁易,等.新疆阿尔泰山小东沟林区木本植物 群落数量分类、排序及其环境解释[J].林业科学,2010,46 (2）:24-31.[Zang Runguo,Jing Xuehui,Ding Yi,et al. Quantitative clasification,ordination and environmental analysis of woody plant communities in Xiaodonggou forest area of the Altai mountain,Xinjiang[J].scientia silvae sinicae,2010,46(2）:24-31.]   
+[15］赵鹏,徐先英,屈建军,等.民勤绿洲－荒漠过渡带白刺群落空 间分布及其环境解释[J].干旱区研究,2016,33(5):1003 -1 011.[Zhao Peng,Xu Xianying,Qu Jianjun,et al.Spatial Distribution of Nitraria tangutorum Communities and Its Environmental Interpretations in the Minqin Oasis-desert Ecotone[J].Arid Zone Research,2016,33(5):1003-1011.]   
+[16］史作民,程瑞梅,刘世荣,等.河南宝天曼化香林特征及物种多样 性[J].山地学报,2005,23（3）:374-380.[Shi Zuoming,Cheng Ruimei,Liu Shirong,et al.Community Structure and Species Diversity of Platycarya Strobilacea Forest in Baotianman,Henan Province [J].Journal of Mountain Science,2005,23(3）:374-380.]   
+[17］唐达.王辉.张谭.等.柴达木盆地沙棘芝流速率与环境因子的
+
+关系[J].干旱区研究,2017,34（3）:630-637.[TangDa,Wang Hui,Zhang Tan,etal.Relationshipsbetween Sap Flow Velocityof Hippophae rhamnoides Linn.and Meteorological Factors in the Qaidam Basin[J].Arid Zone Research,2017,34（3）:630- 637.]
+
+[18]丁改改,蒋进，宋春武，等.古尔班通古特沙漠人工梭梭林群落生态特征研究[J].中国生态农业学报，2017，25（10)：1423-1 432.［Ding Gaigai,Jiang Jin,Song Chunwu,et al.Ecologicalcharacteristics of cultivated Haloxylon ammodendron communitiesin Gurbantunggut desert[J].Chinese Journal of Eco - Agriculture,2017，25(10):1 423-1 432.]
+
+[19］刘世梁,马克明,傅伯杰,等.北京东灵山地区地形土壤因子与植物群落关系研究[J].植物生态学报，2003，27（4）：496-502.[Liu Shiliang,Ma keming,Fu Bojie,et al.The relationshipbetween landform,Soil characteristics and plant community struc-ture in the DongLinhShan mountain region,BeiJing〔J].Acta Phy-toecologica Sinica,2003,27(4）:496-502.]
+
+[20]刘国军，张希明，吕朝燕,等.不同供水条件下梭梭幼苗生长动态的研究[J].中国沙漠,2012,32(2）:388-394.[Liu Guojun,
+
+Zhang Ximing,Lu Zhaoyan,et al.Study on the growth dynamics of the young seedlings under different water supply conditions[J]. Journal of Desert Research,2012,32(2):388-394.]
+
+[21]何维明.水分因素对沙地柏实生苗水分和生长特征的影响[J].植物生态学报,2001,25（1）:11-16.[HeWeiming.Effectsof water factor on hydraulic and growth characteristics of sabinavulgaris seedlings[J].Acta Phytoecologica Sinica,2001,25（1）：11 -16.}
+
+[22]肖春旺,董鸣,周广胜，等.鄂尔多斯高原沙柳幼苗对模拟降水 量变化的响应[J].生态学报,2001,21（1）：171-176.［Xiao Chunwang,Dong Ming,Zhou Guangsheng,et al.Response of Salix psammophila seedlings to simulated precipitation change in Ordas plateau[J].Acta Ecologica Sinica,2001,21(1）:171-176.]
+
+[23]王彦武，柴强，欧阳雪芝，等.民勤绿洲边缘固沙植物土壤养分 及土壤生物学性质演变规律[J].水土保持学报,2016,30（1)： 141-146.[Wang Yanwu,Chai Qiang,Ouyang Xuezhi,et al.Evolution of Soil Nutrition and Biological Prosperities Under Sand - fixing Plants in Fringe Area of Minqin Oasis[J].Journal of Soil and Water Conservation,2013,30(1）:141-146.]
+
+# Relationship between soil factors and ephemeral plant species diversity in the typical sand dunes in the Mosuowan
+
+LI Yaping1,2,JIANG Jin1,SONG Chunwu1,2,LI Zhehua1,2 (1. Xinjiang Institute of Ecology and Geography，Chinese Academy of Sciences， Urumqi 83000o，China; 2．University ofChinese Academy of Sciences，Beijing1Ooo49，China）
+
+Abstract:Taking Mosuowan,the southern margin of the Gurbantunggut Desert，as the study area，fixed dunes with $10 \%$ and $1 5 \%$ vegetation cover and fixed dunes with vegetation cover of $30 \%$ were selected as the typical plots，and using Canonical Corelation （CCA）method to analyze the quadrats，environmental factors and species abundance inthis area，andby means of canonical correlation analysis，the relationship between species diversity and terrain factors and soil physico-chemical factors analysis.The results showedthat there was a significant correlation between species and environmental factors，the first 4 axes could explain $8 4 . 4 \%$ of total species variation, Grit was a sensitive indicator of species distribution.Species were distributed ina large number of axes.Affected by the terrain of the larger species Arnebia decumbens，Echinopsgmelinii，Amberboa turanica，Agriophylum aquarrosum；Species that were significantly affected bysoil organic mater，soil moisture，and soil pH were Schismus arabicus Nees，Ceratocarpusarenarius，Astragalus membranaceus，Erodium oxyrrhynchum.The typical correlationanalysis resultsof diferent indicator groups show that the first model-correlation coefficient between topography and species diversity was O.54.The first pair of model coefficients of soil physico-chemical factors and speciesdiversity wereO.93andO.96,and the second pairof model coefficients wereO.79,0.80,there isa significant corelation.Among the topographical factors，the slope index mainly affects the species richness index Simpson; Soil physical and chemical factors，sand and soil organic matter mainly afect the dominance index Shannon，soil moisture and $\mathrm { \ p H }$ mainly affect the evenness index Pielou.The distribution of species in this area is influenced by both topography and soil factors.
+
+KeyWords:Soil factor；Ephemeral plant；Species diversity；Canonical Correlation；Canonical corelation analy sis ; Mosuowan ; XinJiang

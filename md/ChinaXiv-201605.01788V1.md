@@ -1,0 +1,164 @@
+# Supersymmetric QCD Corrections to Single Top Quark Production at the Fermilab Tevatron
+
+Chong Sheng Li $\boldsymbol { a }$ ， Robert J. Oakes $\boldsymbol { b }$ ， Jin Min Yang $^ { b , c }$ , and Hong-Yi Zhou $d$
+
+（204号 $a$ Department of Physics, Peking University,   
+Beijing 100871, China   
+（204 $b$ Department of Physics and Astronomy, Northwestern University,   
+Evanston，Illinois 60208,USA   
+（204号 $c$ Department of Physics and IITAP, Iowa State University,   
+Ames,Iowa 50011,USA   
+（204号 $d$ Institute of Modern Physics, Tsinghua University,   
+Beijing 100034, China
+
+# ABSTRACT
+
+We evaluate the supersymmetric QCD corrections to single top quark production via $q \bar { q } ^ { \prime } \to t b$ at the Fermilab Tevatron in the minimal supersymmetric model. We find that within the allowed range of squark and gluino masses the supersymmetric QCD corrections can only enhance the cross section by a few percent.The combined effects of SUSY QCD,SUSY EW and the Yukawa couplings can exceed $1 0 \%$ for minimum tan $\beta ( \simeq 0 . 2 5 )$ but are only a few percent for $\tan \beta > 1$
+
+# 1. Introduction
+
+Even with less expected events, single top productions at the Tevatron are also important because they involve the electroweak interaction and, therefore, can probe the electroweak sector of the theory, in contrast to the QCD pair production mechanism, and provide a consistency check on the measured parameters of the top quark in the QCD pair production. At the Tevatron single top quarks are produced primarily via $W$ -gloun fusion process[1] and the Drell-Yan type single top process, $q \bar { q } ^ { \prime }  W ^ { * }  t \bar { b } ( W ^ { * }$ process)[2]，which can be reliably predicted in the SM and the theoretical uncertainty in the cross section is only about a few percent due to QCD corection[3]. As analysed in Ref.[4],a high-luminosity Tevatron would allow a measurement of the cross section with a statistical uncertainty of about 6%. At this level of experimental accuracy a calculation of the radiative corrections is necessary in the SM and beyond the SM.
+
+In Ref.[4] the QCD and Yukawa corrections to $W ^ { * }$ process have been calculated in the SM. In the Minimal Supersymmetric Model(MSSM)[5], the Yukawa corrections from the Higgs sector and the electroweak corrections from chargino and neutralino couplings have also been evaluated [6,7]. Very recently the effects of R-parity-violating couplings were investigated[8]. Besides these effects, the SUSY QCD corrections may also be significant and have to be considered. In this paper we evaluate the SUSY QCD corrections to single top production from $W ^ { * }$ process at the Fermilab Tevatron in the MSSM. In Sec. II, we present the analytic results in terms of the well-known standard notation of one-loop Feynman integrals. In Sec. III, we give some numerical examples and discuss the implication of our results.
+
+# 2. Calculations
+
+The tree-level Feynman diagram for single top quark production via $q \bar { q } ^ { \prime } \to t b$ is shown in Fig.1(a). The SUSY QCD corrections to the process $q \bar { q } ^ { \prime } \to t b$ arise from the Feynman diagrams shown in Figs.1(b-g). In our calculations, we used dimensional regularization to control all the ultraviolet divergences in the virtual loop corrections and we adopted the on-mass-shell renormalization scheme[9]. Including the SUSY QCD corrections, the renormalized amplitude for $q \bar { q } ^ { \prime } \to t \bar { b }$ can be written as
+
+$$
+M _ { r e n } = M _ { 0 } + \delta M
+$$
+
+where $M _ { 0 }$ is the tree-level matrix element and $\delta M$ represents the SUSY QCD corrections.
+
+$M _ { 0 }$ is given by
+
+$$
+M _ { 0 } = i \frac { g ^ { 2 } } { 2 } \frac { 1 } { \hat { s } - m _ { W } ^ { 2 } } \bar { v } ( p _ { 2 } ) \gamma _ { \mu } P _ { L } u ( p _ { 1 } ) \bar { u } ( p _ { 3 } ) \gamma ^ { \mu } P _ { L } v ( p _ { 4 } ) ,
+$$
+
+where $p _ { 1 }$ and $p _ { 2 }$ denote the momentum of the incoming quarks $q$ and $\bar { q } ^ { \prime }$ ，while $p _ { 3 }$ and （204 $p _ { 4 }$ are used for the outgoing $t$ and $b$ quarks,and $\hat { s }$ is the center-of-mass energy of the subprocess. $\delta M$ is given by
+
+$$
+\delta M = \delta M _ { W t \bar { b } } + \delta M _ { W q \bar { q } ^ { \prime } }
+$$
+
+where $\delta M _ { W t \bar { b } }$ and $\delta M _ { W q \bar { q } ^ { \prime } }$ represent the correction to vertices $W t b$ and $W q { \bar { q } } ^ { \prime }$ ， respectively. From the calculation of vertex and self-energy diagrams, we have
+
+$$
+\begin{array} { r c l } { { \delta M _ { W t \bar { b } } } } & { { = } } & { { \displaystyle i \frac { g ^ { 2 } } { 2 } \frac { 1 } { \hat { s } - m _ { W } ^ { 2 } } \bar { v } ( p _ { 2 } ) \gamma _ { \mu } P _ { L } u ( p _ { 1 } ) \ \bar { u } ( p _ { 3 } ) [ \gamma ^ { \mu } P _ { L } ( \frac { 1 } { 2 } \delta Z _ { t } ^ { L } + \frac { 1 } { 2 } \delta Z _ { b } ^ { L } + f _ { 1 } ^ { L } )  } } \\ { { } } & { { } } & { { \displaystyle + \gamma ^ { \mu } P _ { R } f _ { 1 } ^ { R } + p _ { 3 } ^ { \mu } P _ { L } f _ { 2 } ^ { L } + p _ { 4 } ^ { \mu } P _ { L } f _ { 3 } ^ { L } + p _ { 3 } ^ { \mu } P _ { R } f _ { 2 } ^ { R } + p _ { 4 } ^ { \mu } P _ { R } f _ { 3 } ^ { R } ] v ( p _ { 4 } ) , } } \\ { { } } & { { \delta M _ { W q \bar { q } ^ { \prime } } } } & { { = } } & { { \displaystyle i \frac { g ^ { 2 } } { 2 } \frac { 1 } { \hat { s } - m _ { W } ^ { 2 } } \bar { u } ( p _ { 3 } ) \gamma _ { \mu } P _ { L } v ( p _ { 4 } ) \ \bar { v } ( p _ { 2 } ) [ \gamma ^ { \mu } P _ { L } ( \frac { 1 } { 2 } \delta Z _ { q } ^ { L } + \frac { 1 } { 2 } \delta Z _ { q ^ { \prime } } ^ { L } + f _ { 1 } ^ { \prime L } )  } } \\ { { } } & { { } } & { { \displaystyle  + \gamma ^ { \mu } P _ { R } f _ { 1 } ^ { \prime R } + p _ { 1 } ^ { \mu } P _ { L } f _ { 2 } ^ { \prime L } + p _ { 2 } ^ { \mu } P _ { L } f _ { 3 } ^ { \prime L } + p _ { 1 } ^ { \mu } P _ { R } f _ { 2 } ^ { \prime R } + p _ { 2 } ^ { \mu } P _ { R } f _ { 3 } ^ { \prime R } ] u ( p _ { 1 } ) . } } \end{array}
+$$
+
+Here the renormalizationconstants $\delta Z _ { q } ^ { L } ( q = t , b , q , q ^ { \prime } )$ and the form factors $f _ { 1 , 2 , 3 } ^ { L }$ are found to be
+
+$$
+\begin{array} { l l l } { { \displaystyle { \bar { 5 } Z _ { q } ^ { L } } } } & { { = } } & { { \frac { \alpha _ { s } C _ { F } } { 4 \pi } [ ( \alpha _ { \bar { q } _ { i } } - b _ { \bar { q } _ { i } } ) ^ { 2 } ( - \frac { \Delta } { 2 } + F _ { 1 } ^ { ( \bar { q } \bar { q } \bar { q } _ { i } ) } + 2 m _ { q } ^ { 2 } ( a _ { \bar { q } _ { i } } ^ { 2 } + b _ { \bar { q } _ { i } } ^ { 2 } ) C _ { 1 } ^ { ( \bar { q } \bar { q } \bar { q } _ { i } ) }  } } \\ { { } } & { { } } & { {    + 2 m _ { q } m _ { \bar { q } } ( a _ { \bar { q } _ { i } } ^ { 2 } - b _ { \bar { q } _ { i } } ^ { 2 } ) C _ { 1 } ^ { ( \bar { q } \bar { q } \bar { q } \bar { i } ] } ] , } } \\ { { \displaystyle f _ { 1 } ^ { L } } } & { { = } } & { { \frac { \alpha _ { s } C _ { F } } { 2 \pi } \alpha _ { i , \bar { b } _ { \lambda } } \lambda _ { \bar { t } , \bar { b } _ { i } } , e _ { 2 4 } , } } \\ { { \displaystyle f _ { 2 } ^ { L } } } & { { = } } & { { - \frac { \alpha _ { s } C _ { F } } { 4 \pi } \alpha _ { \bar { t } \bar { b } _ { \bar { t } } } [ m _ { \bar { q } } \eta _ { \bar { t } \bar { b } _ { j } } ^ { \prime } ( c _ { 0 } + 2 c _ { 1 1 } - 2 c _ { 1 2 } )  } } \\ { { } } & { { } } & { {   + m _ { t } \lambda _ { \bar { t } \bar { b } _ { \bar { t } } } ( c _ { 1 2 } - c _ { 1 1 } - 2 c _ { 2 1 } - 2 c _ { 2 2 } + 4 c _ { 2 3 } ) ] , } } \\ { { } } & { { } } & { { f _ { 3 } ^ { L } } } \end{array}
+$$
+
+where $C _ { F } = 4 / 3$ and the sum over $i = 1 , 2$ and $j = 1 , 2$ is implied. the functions $c _ { i j } ( - p _ { 3 } , p _ { 3 } + p _ { 4 } , m _ { \tilde { g } } , m _ { \tilde { t } _ { i } } , m _ { \tilde { b } _ { j } } )$ in $f _ { n } ^ { L }$ ，are the Feynman integrals[12]. The functions $F _ { 0 , 1 } ^ { ( i j k ) } , G _ { 0 , 1 } ^ { ( i j k ) }$ are defined as
+
+$$
+\begin{array} { r c l } { { F _ { n } ^ { ( i j k ) } } } & { { = } } & { { \displaystyle \int _ { 0 } ^ { 1 } d y y ^ { n } \log \left[ \frac { m _ { i } ^ { 2 } y ( y - 1 ) + m _ { j } ^ { 2 } ( 1 - y ) + m _ { k } ^ { 2 } y } { \mu ^ { 2 } } \right] , } } \\ { { G _ { n } ^ { ( i j k ) } } } & { { = } } & { { \displaystyle - \int _ { 0 } ^ { 1 } d y \frac { y ^ { n + 1 } ( 1 - y ) } { m _ { i } ^ { 2 } y ( y - 1 ) + m _ { j } ^ { 2 } ( 1 - y ) + m _ { k } ^ { 2 } y } , } } \end{array}
+$$
+
+Other form factors can obtained through the following substitutions
+
+$$
+\begin{array} { r c l } { { f _ { 1 , 2 , 3 } ^ { R } } } & { { = } } & { { f _ { 1 , 2 , 3 } ^ { L } \bigg | \lambda _ { \tilde { t } _ { i } \tilde { b } _ { j } } {  } \eta _ { \tilde { t } _ { i } \tilde { b } _ { j } } \mathrm { , ~ } \eta _ { \tilde { t } _ { i } \tilde { b } _ { j } } ^ { \prime } {  } \lambda _ { \tilde { t } _ { i } \tilde { b } _ { j } } ^ { \prime } \mathrm { , ~ } } } \\ { { f _ { n } ^ { \prime L , R } } } & { { = } } & { { f _ { n } ^ { L , R } \bigg | \tilde { t } _ { i } \tilde { b } _ { j } {  } \tilde { q } _ { j } ^ { \prime } \tilde { q } _ { i } \mathrm { , ~ } m _ { t } {  } 0 \mathrm { , ~ } p _ { 3 } {  } p _ { 1 } \mathrm { , ~ } m _ { \tilde { t } _ { i } } {  } m _ { \tilde { q } _ { i } } \mathrm { , ~ } m _ { \tilde { b } _ { j } } {  } m _ { \tilde { q } _ { j } ^ { \prime } } \mathrm { , ~ } } } \end{array}
+$$
+
+The constants $a _ { \tilde { q } _ { i } } , b _ { \tilde { q } _ { i } } , \alpha _ { \tilde { q } _ { i } \tilde { q } _ { j } ^ { \prime } } , \eta _ { \tilde { q } _ { i } \tilde { q } _ { j } ^ { \prime } } , \eta _ { \tilde { q } _ { i } \tilde { q } _ { j } ^ { \prime } } ^ { \prime } , \lambda _ { \tilde { q } _ { i } \tilde { q } _ { j } ^ { \prime } }$ and $\lambda _ { \tilde { q } _ { i } \tilde { q } _ { j } ^ { \prime } } ^ { \prime }$ appearing in the above are defined as
+
+$$
+\begin{array} { r c l } { { a _ { 1 } } } & { { = } } & { { - \delta _ { 0 , 2 } = { \frac { 1 } { \sqrt { 2 } } } \displaystyle \langle \cos \theta _ { i } - \sin \theta _ { i } \rangle } } \\ { { } } & { { } } & { { } } \\ { { a _ { 2 } } } & { { = } } & { { \lambda _ { 0 } = - { \frac { 1 } { \sqrt { 2 } } } \displaystyle \langle \cos \theta _ { i } - \sin \theta _ { i } \rangle } } \\ { { } } & { { } } & { { } } \\ { { a _ { 2 } } } & { { = } } & { { \cos \theta _ { i } \cos \theta _ { i } } } \\ { { } } & { { } } & { { } } \\ { { \alpha _ { 3 } a _ { 2 } } } & { { = } } & { { \sin \theta _ { i } \sin \theta _ { i } \sin \theta _ { i } , } } \\ { { } } & { { } } & { { } } & { { } } \\ { { a _ { 3 } a _ { 3 } } } & { { = } } & { { - \sin \theta _ { i } \cos \theta _ { i } \sin \theta _ { i } , } } \\ { { } } & { { } } & { { } } & { { } } \\ { { a _ { 4 } a _ { 4 } } } & { { = } } & { { - \sin \theta _ { i } \cos \theta _ { i } \cos \theta _ { i } , } } \\ { { } } & { { } } & { { } } & { { } } \\ { { \gamma _ { 3 } a _ { 5 } } } & { { = } } & { { ( a _ { < } + b _ { 4 } ) ( a _ { \theta } ^ { 2 } + b _ { \theta } ^ { 2 } ) , } } \\ { { } } & { { } } & { { } } & { { } } \\ { { \tilde { H } _ { i \xi \eta } } } & { { = } } & { { ( b _ { 4 \eta } ( b _ { \xi } + b _ { \theta } ) ( b _ { \xi } + b _ { \eta } ) ,  } } \\ { { } } & { { } } & { { } } \\ { { \lambda _ { 4 \eta } } } & { { = } } & { {  ( b _ { \xi } ) ( b _ { \xi } ) ( b _ { \eta } \theta _ { i } - b _ { \eta } ) | , } } \\ { { } } & { { } } & { { } } \\ { { \tilde { A } _ { i \xi \eta } } } & { { = } } & { {  \langle a _ { \eta } \tilde { b } _ { \xi } | ( b _ { \xi } + b _ { \eta } ) | ( b _ { \xi } ) ( b _ { \xi } ) , } } \end{array}
+$$
+
+where $\theta _ { \tilde { q } }$ is the mixing angel of left- and right-handed squarks $\tilde { q } _ { L }$ ， ${ \tilde { q } } _ { R }$ （22
+
+The renormalized differential cross section of the subprocess is
+
+$$
+\frac { d \hat { \sigma } } { d \cos \theta } = \frac { \hat { s } - m _ { t } ^ { 2 } } { 3 2 \pi \hat { s } ^ { 2 } } \overline { { { \sum } } } | { \cal M } _ { r e n } | ^ { 2 } ,
+$$
+
+where $\theta$ is the angle between the top quark and incoming quark. Integrating this differential cross section over $\cos \theta$ one gets the cross section for subprocess
+
+$$
+\hat { \sigma } = \hat { \sigma } _ { 0 } + \Delta \hat { \sigma }
+$$
+
+where the tree-level cross section is given by
+
+$$
+\hat { \sigma } _ { 0 } = \frac { g ^ { 4 } } { 1 2 8 \pi } \frac { \hat { s } - m _ { t } ^ { 2 } } { \hat { s } ^ { 2 } ( \hat { s } - m _ { W } ^ { 2 } ) ^ { 2 } } [ \frac { 2 } { 3 } ( \hat { s } - m _ { t } ^ { 2 } ) ^ { 2 } + ( \hat { s } - m _ { t } ^ { 2 } ) ( m _ { t } ^ { 2 } + m _ { b } ^ { 2 } ) + 2 m _ { t } ^ { 2 } m _ { b } ^ { 2 } ] .
+$$
+
+The total hadronic cross section for the production of single-top-quark via $q \bar { q } ^ { \prime }$ can be written in the form
+
+$$
+\sigma ( s ) = \sum _ { i , j } \int d x _ { 1 } d x _ { 2 } \hat { \sigma } _ { i j } ( x _ { 1 } x _ { 2 } s , m _ { t } ^ { 2 } , \mu ^ { 2 } ) [ f _ { i } ^ { A } ( x _ { 1 } , \mu ) f _ { j } ^ { B } ( x _ { 2 } , \mu ) + ( A  B ) ] ,
+$$
+
+where
+
+$$
+\begin{array} { r c l } { { s } } & { { = } } & { { ( P _ { 1 } + P _ { 2 } ) ^ { 2 } , } } \\ { { } } & { { } } & { { } } \\ { { \hat { s } } } & { { = } } & { { x _ { 1 } x _ { 2 } s , } } \\ { { } } & { { } } & { { } } \\ { { p _ { 1 } } } & { { = } } & { { x _ { 1 } P _ { 1 } , } } \end{array}
+$$
+
+and
+
+$$
+p _ { 2 } = x _ { 2 } P _ { 2 } .
+$$
+
+Here $A$ and $B$ denote the incident hadrons and $P _ { 1 }$ and $P _ { 2 }$ are their four-momenta, while $i , j$ are the initial partons and $x _ { 1 }$ and $x _ { 2 }$ are their longitudinal momentum fractions. The functions $f _ { i } ^ { A }$ and $f _ { j } ^ { B }$ are the usual parton distributions[10,11]. Finally, introducing the convenient variable $\tau = x _ { 1 } x _ { 2 }$ ，and changing independent variables, the total cross section becomes
+
+$$
+\sigma ( s ) = \sum _ { i , j } \int _ { \tau _ { 0 } } ^ { 1 } \frac { d \tau } { \tau } ( \frac { 1 } { s } \frac { d L _ { i j } } { d \tau } ) ( \hat { s } \hat { \sigma } _ { i j } )
+$$
+
+where $\tau _ { 0 } = ( m _ { t } + m _ { b } ) ^ { 2 } / s$ . The quantity $d L _ { i j } / d \tau$ is the parton luminosity, which is defined to be
+
+$$
+{ \frac { d L _ { i j } } { d \tau } } = \int _ { \tau } ^ { 1 } { \frac { d x _ { 1 } } { x _ { 1 } } } [ f _ { i } ^ { A } ( x _ { 1 } , \mu ) f _ { j } ^ { B } ( \tau / x _ { 1 } , \mu ) + ( A  B ) ]
+$$
+
+# 3. Numerical results and conclusion
+
+In the following we present numerical results for the corrections to the total cross section for single top quark production via $q \bar { q } ^ { \prime } \to t b$ at the Fermilab Tevatron with $\sqrt { s } ~ = ~ 2$ TeV. In our numerical calculations, we use the MRSA’ parton distribution functions[11]. For the parameters involed,we choose $m _ { W } = 8 0 . 3 3 \mathrm { G e V } , \mathrm { m _ { t } = }$ 176GeV,mb = 4.9GeV, $\alpha _ { \mathrm { e w } } = 1 / 1 2 8 . 8$ . Also the cuts of $| \eta | < 2 . 5$ and $p _ { t } > 2 0$ GeV are applied.
+
+In our anlytical results several different squarks are involved, i.e., $\tilde { t } _ { i }$ ， $\tilde { b } _ { i }$ ， ${ \tilde { q } } _ { i }$ and $\tilde { q } _ { i } ^ { \prime }$ The mixing between left- and right-handed squarks are negligible except for stops. But in our calculation we, for simplicity, consider a special case: no mixing between left- and right-handed stops and assuming all squark masses are degenerate. Thus the SUSY parameters involved in our calculation are reduced to only two,i.e., gluino mass and squark mass.
+
+Figure 2 shows the SUSY QCD correction $\Delta \sigma / \sigma _ { 0 }$ as a function of gluino mass, assuming squark mass of 100GeV. The corrections are positive except for squark mass in the range of 76 GeV $< m _ { \tilde { g } }$ <100 GeV. Note that there is a peak at $m _ { \tilde { g } } = 7 6$ GeV due to the fact that $m _ { t } = 1 7 6$ GeV and the threshold for open top decay into gluino and stop is crossed in this region. Near the peak the correction is negative and quite large, for example at $m _ { \tilde { g } } = 8 0$ GeV the correction is - $7 . 5 \%$ . But,as shown in Fig.2, only in a very narrow range around the peak that the magnitude of correction can exceed 5%.For $m _ { \tilde { g } } > 1 0 0$ GeV,the correction is completely negligible.
+
+Figure 3 is the SUSY QCD correction $\Delta \sigma / \sigma _ { 0 }$ as a function of the stop mass, assuming $m _ { \tilde { g } } = 2 0 0$ GeV. The correction is positive. With the increase of squark mass the magnitude of the correction decreases, showing the decoupling effects. The corrections reach a few percent for squark mass of 1Oo GeV and below one percent for heavier squark mass.
+
+As shown in Fig.4 of Ref.[7], for minimum $\tan \beta ( \simeq 0 . 2 5 )$ , the Yukawa corrections can enhance the cross section by $1 0 \%$ while the electroweak corrections can decrease the cross section by more than 2O%.However, for $\tan \beta > 1$ the Yukawa corrections are below $1 \%$ and electroweak corrections are $- 4 \%$ . As shown in Fig.2, the SUSY QCD corrections are below 2% for gluino mass larger than 10o GeV. Therefore, for $\tan \beta > 1$ the combined effects of SUSY QCD, SUSY EW and the Yukawa corrections can only reach a few percent which is difficult to be detected at the Tevatron. Note that the R-parity-violating couplings in MSSM can give rise to observable effects at the upgraded Tevatron, as shown in Ref.[8]. In the R-parity-violating MSSM the total effect of SUSY is the sum of all these contributions. When using the upgrated Tevatron to set constraints to the R-parity-violating couplings,one should take into account all these contributions.
+
+This work was supported in part by the U.S. Department of Energy, Division of High Energy Physics,under Grant No. DE-FG02-91-ER4086.
+
+# References
+
+[1] S.Dawson, Nucl.Phys. B249, 42(1985) S.Willenbrock and D.Dicus, Phys.Rev.l 155(1986); S.Dawson and S.Willenbrock, Nucl.Phys.B284, 449(1987); C.P.Yuan, Phys.Rev.D41, 42(1990); F.Anselmo, B.van Eijk and G.Bordes, Phys.Rev.D45, 2312(1992); R.K.Ellis and S.Parke, Phys.Rev.D46,3785(1992); D.Carlson and C.P.Yuan, Phys.Lett.B306,386(1993); G.Bordes and B.van Eijk, Nucl.Phys.B435, 23(1995); A.Heinson，A.Belyaev and E.Boos,hep-ph/9509274.   
+[2] S.Cortese and R.Petronzio, Phys.Lett. B306, 386(1993).   
+[3] T.Stelzer and S.Willenbrock, Phys.Lett. B357, 125(1995).   
+[4] M.Smith and S.Willenbrock, hep-ph/9604223.   
+[5] H. E. Haber and C.L. Kane, Phys. Rep. 117,75(1985); J. F.Gunion and H. E. Haber, Nucl. Phys. B272,1 (1986).   
+[6] C.S.Li, R.J.Oakes and J.M.Yang, Phys.Rev.D55, 1672(1997).   
+[7] C.S.Li, R.J.Oakes and J.M.Yang, hep-ph/9611455, to appear in Phys.Rev.D.   
+[8] A.Datta, J. M. Yang, B.-L. Young and X.Zhang, hep-ph/9704257.   
+[9] A. Sirlin, Phys. Rev. D22(1980)971; W.J. Marciano and A. Sirlin, ibid. 22, 2695(1980); 31,213(E)(1985); A. Sirlin and W.J. Marciano, Nucl.Phys.B189(1981)442; K.I.Aoki et al., Prog.Theor.Phys.Suppl. 73(1982)1.   
+[10] H.L. Lai et.al., Phys.Rev.D51, 4763(1995).   
+[11] A.D.Martin, R.G. Roberts and W.J. Stirling, Phys. Lett. B354,155(1995).   
+[12] G. Passarino and M. Veltman, Nucl. Phys. B160(1979)151.
+
+# Figure Captions
+
+Fig.1 Feynman diagrams of single top quark production via $q \bar { q } ^ { \prime }  W ^ { * }  t b$ ： (a) tree-level, (b)-(g) SUSY-QCD corrections. Fig.2 The SUSY QCD correction $\Delta \sigma / \sigma _ { 0 }$ as a function of gluino mass,assuming squark mass of 100GeV. Fig.3 The SUSY QCD correction $\Delta \sigma / \sigma _ { 0 }$ as a function of squark mass, assuming gluino mass of 200GeV.
+
+![](images/ec9e5afaea8a98cde3565eafe393f371fe085f245e12800a8e82eb7b3e344adb.jpg)  
+Fig.1
+
+![](images/f103cb7519a313e44fe2c331f7e413dd81093df001aba883268b2e23c0558805.jpg)
+
+![](images/a7dff940b7435bbf076cae43c02faaa6825b992aea8a8f6d33202ff6e37bd243.jpg)

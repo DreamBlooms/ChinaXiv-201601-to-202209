@@ -1,0 +1,232 @@
+# 葱属植物S-烷(烯)基半胱氨酸亚砜代谢途径研究进展
+
+张华敏1,²，张新岭，尹守恒²，王利亚²，李冰冰1\*
+
+1.河南城建学院生命科学与工程学院，河南省健康食品工程技术研究中心，河南平顶山 467036；2.河南省韭菜工程技术研究中心，河南 平顶山 467003；
+
+3．郑州市蔬菜研究所，郑州450015)
+
+摘要：葱属植物是被子植物最大的属之一，包括大蒜、洋葱、大葱、韭菜等多种具有独特辛辣风味的蔬菜作物。S-烷(烯)基半胱氨酸亚砜是葱属植物特有的次生代谢产物，是葱属植物各种挥发性含硫化合物的前体物质，赋予葱属植物独特的辛辣风味和药用价值。因此，研究葱属植物 S-烷(烯)基半胱氨酸亚砜的代谢途径具有重要意义。在葱属植物中已发现了7种 S-烷(烯)基半胱氨酸亚矾，这些 S-烷(烯)基半胱氨酸亚矾主要在叶片中经谷胱甘肽途径合成，然后转运到鳞茎等贮藏器官的细胞质中积累。目前，关于葱属植物 $S \mathrm { . }$ -烷(烯)基半胱氨酸亚矾降解的研究较多，而 S-烷(烯)基半胱氨酸亚矾生物合成的研究较少。S-烷(烯)基半胱氨酸亚砜是植物硫代谢的下游产物，上游还涉及含硫化合物的吸收、转运、半胱氨酸和谷胱甘肽的代谢等过程，这些代谢过程的变化也可能影响 S-烷(烯)基半胱氨酸亚砜生物合成。今后应加强两方面的研究，一是继续克隆鉴定S-烷(烯)基半胱氨酸亚矾生物合成途径中的关键酶基因并研究其功能；二是加强葱属植物硫代谢的研究，为研究 S-烷(烯)基半胱氨酸亚砜生物合成的调控奠定基础。这些研究将为深入解析葱属植物 S-烷(烯)基半胱氨酸亚砜的代谢途径和利用分子育种技术调控葱属植物的风味提供参考。
+
+关键词：葱属植物，S-烷(烯)基半胱氨酸亚砜，蒜氨酸酶，风味物质，代谢途径中图分类号： 文献标志码：A 文章编号：
+
+# Research progress on metabolic pathway of $s$ -alk(en)ylcysteine sulfoxides in Allium
+
+ZHANG Huamin1,²， ZHANG Xinling³，YIN Shouheng²，WANG Liya²，LI Bingbing1\*   
+(1.College ofLife Sciencesand Engineering，Henan health food engineering technology research center，Henan   
+University of Urban Construction，Pingdingshan，Henan 467036，China；2.Henan Chinese Chive Engineering   
+Technology Research Center，Pingdingshan，Henan 467003，China；3. Zhengzhou Vegetable Research Institute, Zhengzhou 450015，China)
+
+Abstract: Allium, including garlic, onion, green Chinese onion, Chinese chive and other important vegetablecropswithuniquespicyflavor， isoneofthelargestgeneraof angiosperms. $S .$ -alk(en)ylcysteine sulfoxides, the unique secondary metabolites of Allium, which giving Allium spicy flavor and medicinal value,are the precursors of various volatile sulfur compounds. Therefore， it is of great significance to study the metabolic pathway of S-alk(en)ylcysteine sulfoxides in Allium. Seven $S .$ -alk(en)ylcysteine sulfoxides have been found in Allium plants.These $S$ -alk(en)ylcysteine sulfoxides are mainly synthesized in leaves through glutathione pathway, and then transported to the cytoplasm of storage organs such as bulbs for accumulation. At present, there are many studies on the catabolism of $S$ -alk(en)ylcysteine sulfoxides in Allium,while few studies on the biosynthesis of $S .$ -alk(en)ylcysteine sulfoxides. Only twobiosyntheticenzymes， $\gamma$ glutamyltranspeptidase(GGT） andflavin-containing monooxygenase (FMO)， have been confirmed at the molecular level. In addition, $S .$ -alk(en)ylcysteine sulfoxides are the downstream product of plant sulfur metabolism. The upstream of S-alk(en)ylcysteine sulfoxides metabolism involves the absorption and transport of sulfur compounds,the metabolism of cysteine and glutathione,and the changes of these metabolic processes will also affect the biosynthesis of $S .$ -alk(en)ylcysteine sulfoxides.With the rapid development of omics technology, genomics, transcriptomics and metabolomics have been applied in the study of Allium plants， especially the completion of garlic genome sequence assembly, which provides great convenience for the study of $S$ -alk(en)ylcysteine sulfoxides metabolism pathway in Alium plants. Two aspects of research should be strengthened in the future. One is to continue to clone and identify the key enzyme genes in the biosynthesis pathway of S-alk(en)ylcysteine sulfoxides and study their functions.Another is to strengthen the study of sulfur metabolism in Allium plants, so as to lay a foundation for the study of the regulation of S-alk(en)ylcysteine sulfoxides biosynthesis.These studies will provide a reference for further analyzing the metabolic pathway of $S .$ -alk(en)ylcysteine sulfoxides in Allium and regulating the flavor of Allium by molecular breeding technology.
+
+Keywords: Allium, S-alk(en)ylcysteine sulfoxide, allinase, flavor compound, metabolic pathway
+
+葱属（Allium L.）是被子植物中最大的属之一，约有 920 个种（Herden et al.,2016）。在最新的APGIV 分类系统中,葱属被分在了天门冬目（Asparagales）石蒜科（Amaryllidaceae）葱亚科（Allioideae）葱族（Allieae）（The angiosperm phylogeny group,2016)。大蒜（A. sativum）、洋葱（A.cepa）、大葱（A.fistulosum）、韭菜（A.tuberosum）等大多数葱属植物都具有独特的辛辣风味，常被作为蔬菜、调味料、药用和观赏植物利用。现代科学研究证明，葱属植物具有预防心血管疾病、抗氧化、抗癌护肝、抗菌消炎、提高机体免疫能力、预防糖尿病和肠胃疾病等作用（黄晴等，2018；李莎莉等，2018；Yoshimoto& Saito,2019；Yamaguchi&Kumagai,2020），在农业和医药行业有很大的应用潜力，具有重要的经济价值。
+
+$S \mathrm { . }$ -烷(烯)基半胱氨酸亚砜（S-alk(en)ylcysteine sulfoxides）是葱属植物特有的次生代谢产物。 $S \mathrm { . }$ 烷(烯)基半胱氨酸亚矾分解生成的各种挥发性含硫化合物使葱属植物具有独特辛辣风味和生物活性。S-烷(烯)基半胱氨酸亚砜是一种非蛋白氨基酸，本身无挥发性，无刺激性气味，一般存在于细胞质中，而裂解 S-烷(烯)基半胱氨酸亚矾的蒜氨酸酶(allinase）存在于液泡中。当细胞受到破坏时，贮存在液泡中的蒜氨酸酶与细胞质中的 S-烷(烯)基半胱氨酸亚砜相遇，快速发生反应，形成多种挥发性含硫化合物，从而使葱属植物具有独特的风味和药用价值（Lancaster&Collin,1981；Rose et al.,2005）。因此，S-烷(烯)基半胱氨酸亚砜是葱属植物风味物质的前体，研究其代谢途径具有重要意义。本文主要从葱属植物中 S-烷(烯)基半胱氨酸亚砜的种类、代谢途径及参与代谢的酶等方面进行概述，以期为今后葱属植物S-烷(烯)基半胱氨酸亚矾的代谢途径研究提供参考。
+
+1葱属植物中的S-烷(烯)基半胱氨酸亚砜及其生物合成的中间产物
+
+# 1.1葱属植物中的S-烷(烯)基半胱氨酸亚砜
+
+目前，已经从葱属植物中分离和鉴定出了7种 S-烷(烯)基半胱氨酸亚砜（图1）。Stoll和 Seebeck（1948）最先从大蒜中分离出了S-烯丙基半胱氨酸亚砜（ $S .$ -allylcysteine sulfoxide,俗称蒜氨酸，alliin）。随后，Virtanen 和Matikkala（1959）在洋葱中鉴定出 S-丙烯基半胱氨酸亚砜（S-1-propenylcysteine sulfoxide，俗称异蒜氨酸，isoalliin）、S-甲基半胱氨酸亚砜（ $S .$ -methylcysteine sulfoxide，俗称甲基蒜氨酸，methiin）和 $S \mathrm { . }$ 丙基半胱氨酸亚矾（ $S .$ -propylcysteine sulfoxide，俗称丙基蒜氨酸，propiin）。这4种 S-烷(烯)基半胱氨酸亚砜是葱属植物独特风味和药用价值的主要来源。除了这4种 S-烷(烯)基半胱氨酸亚砜外，在葱属植物中还发现了3种低含量的 S-烷(烯)基半胱氨酸亚砜，分别是S-乙基半胱氨酸亚砜（S-ethylcysteinesulfoxide，俗称乙基蒜氨酸，ethin）、S-丁基半胱氨酸亚砜（S-n-butylcysteine sulfoxide，俗称丁基蒜氨酸，butiin）和环蒜氨酸（cycloaliin）（Ueda et al.,1994；Kubec et al.,2000；Kubecet al.,2002）。在7种 S-烷(烯)基半胱氨酸亚矾中，蒜氨酸、异蒜氨酸和环蒜氨酸为同分异构体。
+
+不同葱属植物由于含有不同种类的 S-烷(烯)基半胱氨酸亚矾而产生不同的风味。蒜氨酸在大蒜的鳞茎中的含量最高，而洋葱和大葱中几乎不含蒜氨酸。洋葱鳞茎和大葱中含量最高的是异蒜氨酸，而韭菜中甲基蒜氨酸的含量最高（Edwards et al.,1994b；Kubec et al.,2000;Fritsch&Keusgen,2006；Yamazaki etal.,2011）。甲基蒜氨酸在葱属植物中普遍存在，而丙基蒜氨酸只在部分葱属植物中检测到，且含量较低（Fritsch&Keusgen,2006）。
+
+1.2葱属植物中S-烷(烯)基半胱氨酸亚矾生物合成的中间产物
+
+除了S-烷(烯)基半胱氨酸亚矾外，葱属植物还存在很多 S-烷(烯)基半胱氨酸亚矾代谢的中间产物，包括 $\gamma \cdot$ 谷氨酰-S-烷(烯)基半胱氨酸（γ-glutamyl-S-alk(en)ylcysteine）、 $\gamma \cdot$ -谷氨酰-S-烷(烯)基半胱氨酸亚砜（γ-glutamyl-S-alk(en)ylcysteine sulfoxide）、 $S \mathrm { . }$ 烷(烯)基谷胱甘肽(S-alk(en)ylglutathione）和 S-烷(烯)基半胱氨酸（S-alk(en)ylcysteine）等（Whitaker,1976）。这些中间产物不仅能够合成 S-烷(烯)基半胱氨酸亚砜，还能起到贮存氮和硫的作用(Jones etal.,2004；Rose et al.,2005）。
+
+研究表明，这些S-烷（烯）基半胱氨酸亚矾生物合成途径中的中间产物也具有药用和保健功能。大蒜中的S-烯丙基半胱氨酸不仅在抗癌和降低胆固醇有作用，在预防和治疗阿兹海默症方面也有应用前景（Ray et al.,2011；Ng et al.,2012；Colin-Gonzalez et al.,2015）。另外，S-烯丙基半胱氨酸的立体异构体 S-1-丙烯基半胱氨酸，在预防和缓解心血管疾病特别是高血压方面有很好的效果（Kodera etal.,2017；Matsutomo etal.,2017）。
+
+![](images/9e1779a4af4f4e85e3b10216b896c7a2ca15fc1e78af247ce6fc696e6cf4c96f.jpg)  
+图1葱属植物中鉴定出的S-烷(烯)基半胱氨酸亚矾 Fig.1 The S-alk(en)ylcysteine sulfoxides identified fromAllium
+
+# 2葱属植物S-烷(烯)基半胱氨酸亚矾的生物合成
+
+# 2.1葱属植物S-烷(烯)基半胱氨酸亚矾的生物合成途径
+
+放射性示踪法研究表明，葱属植物 S-烷(烯)基半胱氨酸亚砜中的半胱氨酸部分主要来自于谷胱甘肽中的半胱氨酸残基，S-烷(烯)基部分的烯丙基、丙烯基和丙基来自于缬氨酸代谢产生的甲基丙烯酸，而甲基、乙基和丁基的来源还不清楚（Lancaster＆ Shaw,1989；Edwardset al.,1994a）。环蒜氨酸和异蒜氨酸是同分异构体，常温条件下在洋葱中的很少，在加热的条件下，异蒜氨酸会大量转化为环蒜氨酸（UedaYetal.,1994）。
+
+目前科学家普遍认可的葱属植物S-烷(烯)基半胱氨酸亚矾的生物合成途径是谷胱甘肽途径（图2）。在谷胱甘肽途径中，谷胱甘肽先与来自于缬氨酸代谢的甲基丙烯酸结合生成S-(2-羧丙基)谷胱甘肽，然后脱去甘氨酰基，生成γ-谷氨酰-S-(2-羧丙基)半胱氨酸，其中的 S-2-羧丙基经脱羧氧化后形成 $\gamma \cdot$ -谷氨酰-S-烯丙基半胱氨酸或 $\gamma \cdot$ -谷氨酰-S-丙烯基半胱氨酸（Chhabria & Desai,2014；Yoshimoto & Saito,2019；Sun et al.,2020）。 $\gamma \cdot$ -谷氨酰-S-烯丙基半胱氨酸和 $\lvert \gamma \rvert$ -谷氨酰-S-丙烯基半胱氨酸是可以相互转化的同分异构体，其中的 $S \mathrm { . }$ 烯丙基和S-丙烯基可发生还原反应生成γ-谷氨酰 $. S - n \cdot$ -丙基半胱氨酸（Lancaster& Shaw,1989）。 $\gamma \cdot$ 谷氨酰-S-烯丙基半胱氨酸、 $\gamma \cdot$ -谷氨酰-S-丙烯基半胱氨酸和y-谷氨酰-S-n-丙基半胱氨酸经过S-加氧反应和脱谷氨酰基反应后生成蒜氨酸、异蒜氨酸和丙基蒜氨酸。 $S \mathrm { . }$ 加氧反应和脱 $\cdot \gamma \cdot$ 谷氨酰基反应发生的先后顺序因葱属植物种类和S-烷(烯)基半胱氨酸亚矾种类的不同而不同。洋葱异蒜氨酸的生物合成中 S-加氧反应可能在脱谷氨酰基反应之前（Lancaster＆ Shaw,1989)，而大蒜的蒜氨酸生物合成则与洋葱的异蒜氨酸相反，S-加氧反应发生在脱 $\cdot \gamma \cdot$ -谷氨酰基反应之后（Yoshimoto etal.,2015a；Yoshimoto etal.,2015b）。甲基蒜氨酸的生物合成与蒜氨酸、异蒜氨酸和丙基蒜氨酸相似（Lancaster and Shaw，1989）。除了谷胱甘肽途径外，葱属植物中还可能存在一种不经过谷胱甘肽，由半胱氨酸直接烷（烯）基化或 $O .$ -乙酰基丝氨酸直接硫代烷（烯）基化，生成 S-烷(烯)基半胱氨酸，然后发生S-加氧反应生成各种 S-烷(烯)基半胱氨酸亚砜的途径（Ikegami&Murakoshi,1994）。
+
+# 2.2葱属植物中参与S-烷(烯)基半胱氨酸亚矾生物合成的酶
+
+植物次生代谢物生物合成的每一个步骤大多数都需要特定的酶催化，葱属植物 S-烷(烯)基半胱氨酸亚砜的生物合成也不例外。但是，目前对葱属植物中参与 S-烷(烯)基半胱氨酸亚矾生物合成的酶研究较少，只有大蒜中催化脱 $\boldsymbol { \cdot } \boldsymbol { \gamma } \cdot$ -谷氨酰基反应的 $\gamma \cdot$ 谷氨酰转肽酶（ $\gamma \cdot$ glutamyltranspeptidase，GGT；EC2.3.2.2）和催化 S-加氧反应的含黄素的单加氧酶（flavin-containingmonooxygenase,FMO；EC1.14.13.8）在分子水平得到了确认（Yoshimoto et al.,2015a;Yoshimotoetal.,2015b）。在拟南芥谷胱甘肽代谢途径中， $\gamma \cdot$ 谷氨酰半胱氨酸合成酶（ $\gamma$ -glutamylcysteine synthetase，GSH1；EC 6.3.2.2）、谷胱甘肽合成酶（glutathione synthetase,GSH2；EC6.3.2.2)是谷胱甘肽生物合成途径中的两个关键酶，植物螯合肽合酶(phytochelatinsynthase，PCS；EC 2.3.2.15）是催化谷胱甘肽结合物脱去甘氨酰基反应的酶（May&Leaver,1994；Rawlins et al.,1995；Blum etal.,2007）。Sun 等（2020）参考拟南芥的谷胱甘肽代谢途径，在大蒜基因组中鉴定出了4个拟南芥GSHI的同源基因，1个拟南芥GSH2的同源基因和1个拟南芥PCS的同源基因作为参与大蒜蒜氨酸生物合成的候选基因，并研究了这些基因的时空表达，但是未对这些基因的功能做进一步研究。
+
+2.2.1葱属植物S-烷(烯)基半胱氨酸亚矾生物合成中的脱y-谷氨酰基反应
+
+目前，植物中具有脱 $\cdot \gamma \cdot$ -谷氨酰基功能的酶有两类：一类是GGTs家族，在拟南芥中有4个成员，主要在细胞外或液泡内催化谷胱甘肽和谷胱甘肽结合物脱去γ-谷氨酰基（Martin etal.,2007）；另一类是γ-谷氨酰肽酶（γ-glutamyl peptidases,GGPs）家族，在拟南芥中有5个成员，可催化植物细胞质中的谷胱甘肽结合物脱去γ-谷氨酰基（Geu-Flores et al.,2011）。在葱属植物 S-烷(烯)基半胱氨酸亚砜的生物合成途径中，其中间产物γ-谷氨酰-S-烷(烯)基半胱氨酸必需完成脱 $\cdot \gamma \cdot$ -谷氨酰基反应才能最后生成S-烷(烯)基半胱氨酸亚矾。因此，推测葱属植物S-烷(烯)基半胱氨酸亚矾的生物合成途径中一定有脱y-谷氨酰基功能的酶参与。
+
+Cho 等（2012）在大蒜中克隆了一个AsGGT序列片段，在低温贮藏条件下其表达量有显著上升，推测其可能参与了低温冷藏期间大蒜变绿过程中的蒜氨酸合成。Yoshimoto 等（2015a）从大蒜中克隆了3个GGT基因，分别命名为AsGGT1、AsGGT2和AsGGT3，其中AsGGT3与Cho等（2012）克隆的AsGGT是同一个基因。系统进化树分析表明，AsGGT1和AsGGT2与拟南芥的AtGGT4亲缘关系最近，AsGGT3与拟南芥的AtGGT1和AtGGT2亲缘关系最近。体外酶活性测定表明，这三个GGTs都具有催化γ-谷氨酰-S-烯丙基半胱氨酸脱去γ-谷氨酰基生成 S-烯丙基半胱氨酸的活性，但是对γ-谷氨酰-S-烯丙基半胱氨酸亚砜则几乎没有活性，表明大蒜中 $\gamma \cdot$ -谷氨酰-S-烯丙基半胱氨酸的脱γ-谷氨酰基反应发生在S-加氧反应之前。亚细胞定位分析表明，AsGGT2主要定位在液泡，而AsGGT1和AsGGT3 没有明显的信号肽，它们可能定位在细胞质中。在拟南芥中，AtGGT1和AtGGT2定位在细胞质膜外，AtGGT3 和 AtGGT4 定位在液泡中，未见有GGTs 定位于细胞质的报道（Grzam etal.,2007;Ohkama-Ohtsu et al., $2 0 0 7 \mathrm { a }$ ；Ohkama-Ohtsu etal.,2007b）。因此，AsGGT2与 AtGGT4可能有相似的功能，而AsGGT1和AsGGT3是否在大蒜的细胞质中执行脱 $\cdot \gamma \cdot$ -谷氨酰基反应还需要进一步研究。到目前为止，在洋葱中也发现了2个AcGGT基因，其中一个AcGGT是从发芽的洋葱鳞茎中纯化出来了，对 S-烷(烯)基半胱氨酸亚矾合成过程中的中间产物有很高的底物特异性（Lancaster and Shaw,1994），另一个AcGGT 则对谷胱甘肽和谷胱甘肽 S-结合物有很高的底物特异性，而对 $\mathsf { \Psi } _ { \mathsf { Y } } .$ -谷氨酰-S-丙烯基半胱氨酸亚矾没有活性（Shawetal.,2005）。
+
+在葱属植物中还未见有GGPs 家族基因功能的报道。拟南芥中，GGP1和GGP3 在硫代葡萄糖苷和植保素的生物合成中有重要作用，主要在细胞质中催化谷胱甘肽 $S .$ -结合物的脱γ-谷氨酰基反应（Geu-Flores etal.,2011）。在洋葱细胞中，S-烷(烯)基半胱氨酸亚砜和其中间产物γ-谷氨酰肽主要在细胞质中积累(Lancaster etal.,1989）。因此，推测葱属植物 S-烷(烯)基半胱氨酸亚砜生物合成过程中的脱γ-谷氨酰基反应发生在细胞质中。拟南芥的GGP1和GGP3定位于细胞质，它们是否参与S-烷(烯)基半胱氨酸亚砜生物合成过程中的脱y-谷氨酰基反应还需要进一步的研究。
+
+![](images/6420c088a8b18d122eb15aebb1eea7a48efef82073206cdacf88b3ea8bd75633.jpg)  
+图2葱属植物中S-烷(烯)基半胱氨酸亚矾可能的代谢途径Fig. 2 Putative metabolic pathway for S-alk(en)ylcysteine sulfoxides in Allium
+
+虚线表示推测途径。（参考Yoshimoto& Saito,2019；Sun etal.,2020） Dashed lines indicate speculative pathways. (referenced Yoshimoto & Saito,2019; Sun et al., 2020)
+
+2.2.2葱属植物S-烷(烯)基半胱氨酸亚砜生物合成中的S-加氧反应
+
+$S .$ -加氧反应是葱属植物 S-烷(烯)基半胱氨酸亚砜生物合成途径中最重要的步骤之一。因为蒜氨酸酶只对 S-烷(烯)基半胱氨酸亚矾有活性，而对生物合成过程中的其它含硫中间产物没有活性。含黄素的单加氧酶（FMOs）是在动物、植物和微生物中广泛存在一类催化加氧反应的酶。在辅基 FAD 和辅因子NADPH存在的条件下，FMOs可以将羟基转移到各种小的、亲核的、含杂原子的（例如氮、硫、硒或碘）底物上（Krueger&Williams,2005；Schlaich,2007）。植物的FMOs根据氨基酸序列的相似性分成了3个进化枝，在植物天然产物的生物合成过程中发挥着重要作用（Schlaich,2007）。例如，植物FMOs第1进化枝的成员FMO1参与了植物获取系统获得性抗性的重要调控因子N-羟基化哌啶酸（N-hydroxypipecolic acid)的生物合成（Hartmann etal.,2018），第2进化枝的成员在植物生长素合成中有重要作用（Yamamoto et al.,2007；Mashiguchi et al.,2011），第3进化枝的FMOs 成员可催化 S-甲硫烷基硫代葡萄糖苷的S-加氧反应，在脂肪族硫代葡萄糖苷的侧链修饰中发挥重要作用（Hansen et al.,2007；Li etal.,2008；Kong et al.,2016）。在研究哺乳动物FMOs 的功能时，发现一些哺乳动物的FMOs 能够催化 S-丙烯基半胱氨酸形成蒜氨酸（Krause etal.,2002;Novick&Elfarra,2008）。
+
+综上所述，推测葱属植物中执行S-加氧反应的酶也是FMO蛋白。在葱属植物S-加氧酶被克隆之前，人们对其特性已经有了一定的了解。不同葱属植物的 $S .$ -加氧酶对不同种类 $S \mathrm { - }$ （204号烷(烯)基半胱氨酸底物没有选择性，如洋葱中的S-加氧酶不仅能催化S-丙烯基半胱氨酸形成异蒜氨酸，还能催化S-甲基半胱氨酸、S-乙基半胱氨酸和S-烯丙基半胱氨酸分别形成甲基蒜氨酸、乙基蒜氨酸和蒜氨酸。另外，不同葱属植物的S-加氧酶也都能催化S-烯丙基半胱氨酸产生蒜氨酸（Ohsumi etal.,1993）。采用同源序列法，Yoshimoto等（2015b）在大蒜克隆了一个位于植物FMO家族第3进化枝，定位于细胞质，长1371bp，编码457个氨基酸的FMO 基因，命名为AsFMO1，对葱属植物 S-烷(烯)基半胱氨酸亚砜生物合成途径中的 S-加氧反应有了更深入的了解。体外蛋白活性试验表明，大蒜AsFMO1重组蛋白不仅有很强的立体选择性，只能催化形成 $( + )$ -蒜氨酸（RcSs-S-allycysteine sulfoxide），还有很强的底物选择性，对S-烯丙基半胱氨酸的活性很强而对γ-谷氨酰-S-烯丙基半胱氨酸的活性很弱。但是葱属植物FMOs家族的其它成员是否也参与S-烷(烯)基半胱氨酸亚砜生物合成还有待进一步研究。
+
+# 2.3葱属植物S-烷(烯)基半胱氨酸亚矾生物合成与积累部位
+
+葱属植物不同组织中积累 S-烷(烯)基半胱氨酸亚矾的含量差异很大。大蒜和洋葱的鳞茎是积累 S-烷(烯)基半胱氨酸亚矾的主要组织，而韭菜韭花中 S-烷(烯)基半胱氨酸亚矾的含量最高（Yoshimoto& Saito,2019；Liu etal.,2021）。葱属植物 S-烷(烯)基半胱氨酸亚砜主要是在绿色营养叶中合成的，叶绿体是 $S .$ -烷(烯)基半胱氨酸亚砜生物合成所必需的（Lancasteretal.,1988；Yoshimoto& Saito,2019）。绿色营养叶合成的 S-烷(烯)基半胱氨酸亚砜通过维管系统转运到正在发育的鳞茎中（Yamazakietal.,2002）。大蒜成熟鳞茎中不仅积累大量的蒜氨酸，还在贮藏叶中积累一定量的 $\gamma \cdot$ -谷氨酰-S-烯丙基半胱氨酸。在大蒜鳞茎萌发的过程中，γ-谷氨酰-S-烯丙基半胱氨酸经过脱γ-谷氨酰基反应和S-加氧反应转化为蒜氨酸，在保护嫩芽不受病原菌和食草动物危害方面有一定的作用（Ichikawa et al.,2006;Yoshimoto et al.,2015a;Yoshimoto&Saito,2019）。在亚细胞水平，S-烷(烯)基半胱氨酸亚砜主要在细胞质中积累，但是其具体的合成部位还不是十分清楚，有待于进一步研究。因为，参与S-烷(烯)基半胱氨酸亚砜生物合成的谷胱甘肽主要在细胞质和叶绿体中合成，而另一个参与 S-烷(烯)基半胱氨酸亚矾生物合成的甲基丙烯酸是由缬氨酸代谢产生的，氨酸代谢发生在线粒体或过氧化物酶体中（Lancaster et al.,1989；Binder et al.,2007）。
+
+# 2.4硫肥和硒肥对葱属植物 $S \mathrm { . }$ 烷(烯)基半胱氨酸亚矾生物合成的影响
+
+葱属植物 $S \mathrm { . }$ 烷(烯)基半胱氨酸亚矾的生物合成会受到土壤中硫肥含量的影响。增施硫肥能够明显增加大蒜和洋葱鳞茎等葱属植物中 S-烷(烯)基半胱氨酸亚砜的生物合成 (Randle etal.,1995；Bloem etal.,2004；Lundegärdh etal.,2008）。硫肥含量还能影响 $S .$ 烷(烯)基半胱氨酸亚砜在总含硫化合物中比例以及异蒜氨酸和甲基蒜氨酸的比例。在缺硫条件下，S-烷(烯)基半胱氨酸亚砜在总含硫化合物中的比例会升高。另外，在硫肥充足条件下，洋葱鳞茎中异蒜氨酸是主要的 S-烷(烯)基半胱氨酸亚矾，在缺硫条件下，甲基蒜氨酸是洋葱鳞茎中的主要S-烷(烯)基半胱氨酸亚砜（Randle etal.,1995）。
+
+硒是人体必需的微量元素，对维持人体健康有十分重要的作用。葱属植物积累含硫化合物的能力使其成为潜在的硒生物强化作物。硒和硫有相似的化学性质，很多参与硫代谢的酶对硒代谢有相同的功能。葱属植物吸收硒后可以代替硫参与到含硫化合物的代谢途径中，形成 $S e$ -烷(烯)基硒代半胱氨酸亚砜（Trippe II and Pilon-Smits,2021；Gonzalez-Morales et al.,2017）。富硒葱属植物主要以硒-甲基硒代半胱氨酸（ $S e$ -methyl selenocysteine）和γ-谷氨酰-硒-甲基硒代半胱氨酸（γ-glutamyl- $. S e$ -methyl selenocysteine）等有机硒化合物的形式积累硒（Dong etal.,2001；Shah et al.,2004；Armault＆ Auger,2006），这些有机硒化合物在抗肿瘤方面有很好的效果。因此，在葱属植物栽培过程中，适当增施硒肥可明显提高葱属植物中的有机硒含量，提高葱属植物的保健功能和经济价值。
+
+# 3葱属植物中 $S ^ { - }$ 烷 (烯)基半胱氨酸亚矾的降解
+
+# 3.1葱属植物S-烷(烯)基半胱氨酸亚矾的降解途径
+
+$S .$ -烷(烯)基半胱氨酸亚矾是葱属植物各种风味活性活性物质的前体物质。亚细胞分离技术和免疫组化技术研究表明，S-烷(烯)基半胱氨酸亚砜在叶肉细胞的细胞质中积累，而蒜氨酸酶则被隔离在维管束鞘细胞的液泡中（Lancaster&Collin,1981；Ellmore&Feldberg,1994;Yamazakietal.,2002）。当葱属植物细胞受到破坏后，蒜氨酸酶与 S-烷(烯)基半胱氨酸亚砜接触，S-烷(烯)基半胱氨酸亚砜在蒜氨酸酶的作用下形成烷(烯)基次磺酸、丙酮和氨（Rose etal.,2005）。除了洋葱中存在一种催泪因子合成酶（lachrymatory factor synthase,LFS），可催化 $( E )$ -1-丙烯基次磺酸[ $( E )$ -1-propenylsulfenic acid]转化为催泪因子[(Z)-丙硫醛-S-氧化物,(Z)-propanthial S-oxide]外，其它葱属植物中都不含有催化烷(烯)基次磺酸反应的酶(Imai et al,2002）。烷(烯)基次磺酸很不稳定，不需要酶的催化，即可自发的发生一系列反应，最终可形成 50 多种含硫化合物（Nohara etal.,2017；Yoshimoto& Saito,2019；Nohara et al.,2021）。两分子的烷(烯)基次磺酸可自发的发生缩合反应，脱去1个 $_ \mathrm { H _ { 2 } O }$ 后形成烷(烯)基硫代亚磺酸酯（thiosulfinate）。第一个得到鉴定的烷(烯)基硫代亚磺酸酯是来自于大蒜的二烯丙基硫代亚磺酸酯（diallyl thiosulfinate），又被称为大蒜素（allicin）（Cavallito&Bailey,1944）。烷(烯)基硫代亚磺酸酯也不稳定，可进一步发生一系列自发的反应形成多种含硫化合物。这些自发的反应包括[3,3]-o移位重排反应、分子内环加成反应和狄尔斯-阿尔德反应等，产生的含硫化合物包括阿焦烯（ajoene）、二烯丙基三硫醚（diallyl trisulfide,DATS）、二烯丙基二硫醚（diallyl disulfide,DADS）、二烯丙基硫醚（diallyl sulfide,DAS）、2-乙烯基-4H-1,3-二噻烯（2-vinyl-4H-1,3-dithiin）、3,4-二甲基硫醇烷(3,4-dimethiolane)等（Nohara etal.,2017;Block etal.,2018；Kubec etal.,2018）。这些含硫化合物不仅赋予了葱属植物特有的刺激性风味，其各种理化性质还使得葱属植物具有很高的药用和保健价值。
+
+葱属植物在加工和贮藏过程发生的绿变或红变反应也与 S-烷(烯)基半胱氨酸亚矾降解有关。葱属植物变色反应中产生的颜色是由多种色素物质组成的，不同葱属植物的变色反应，如大蒜的绿变和洋葱的红变积累的色素物质并不相同，但是色素物质的合成机制很相似（Kubec et al.,2004；Imai et al.,2006；Kato et al.,2013；何贵山等，2017；Kubec et al.,2017）。多数研究都证明异蒜氨酸是葱属植物发生变色反应的关键化合物（Lukes,1986；Kubec et al.,2004；Cho etal.,2009；Dong etal.,2010）。异蒜氨酸经蒜氨酸酶裂解后产生的1-丙烯基次磺酸可自发的发生缩合反应生成1-丙烯基硫代亚磺酸酯，也可与其它次磺酸发生分子间的缩合反应生成含有1-丙烯基的硫代亚磺酸酯（Kubec and Velisek,2007）。含有1-丙烯基的硫代亚磺酸酯可与葱属植物中几乎所有的氨基酸反应生成色素物质的前体吡咯基氨基酸（Cho etal.,2009；Lee etal.，2012）。作为色素物质的前体，吡咯基氨基酸又与葱属植物中天然存在的（硫代）羰基反应，最终生成色素类物质（Kato et al.,2013；Kubec et al.,2017)。
+
+# 3.2S-烷(烯)基半胱氨酸亚矾降解途径中的关键酶
+
+# 3.2.1蒜氨酸酶
+
+蒜氨酸酶，又名蒜氨酸裂解酶或S-烷（烯）基半胱氨酸亚矾酶，属于I型依赖于 $5 ^ { \circ }$ 磷酸吡哆醛（pyridoxal 5'-phosphate，PLP）的C一S键裂解酶，能够水解 S-烷（烯）基半胱氨酸亚矾生成烷(烯)基次磺酸、丙酮和氨，是形成葱属植物风味物质和生物活性物质的关键酶（Nock&Mazelis,1987；Manabe etal.,1998）。值得一提的是洋葱中蒜氨酸酶基因表达量的显著降低会影响催泪因子和各种风味物质的合成，产生不催泪和没有辛辣味的洋葱（Kato etal.,2016）。因此，蒜氨酸酶基因是人工调控葱属植物风味物质含量的重要基因。前人研究表明，葱属植物的蒜氨酸酶是由多基因家族编码的（Ovesnaet al.,2015；Sayadi et al.,2020)。大蒜、洋葱、韭菜和火葱（Allium cepavar.aggregatum）等多种葱属植物的蒜氨酸酶基因都已经得到了克隆（Van Damme et al.,1992；Manabe et al.,1998;Lancaster et al.,2000；Do et al.,2004；唐巧玲，2013；白芙荣，2017）。由于缺乏葱属植物基因组信息，蒜氨酸酶基因在葱属植物基因组中的具体数量和染色体分布情况一直不清楚，直到2020年，Sun 等对大蒜基因组进行了测序，从中鉴定出了60个蒜氨酸酶基因，其中38个可以在不同的组织中表达。葱属植物鳞茎和叶中的蒜氨酸酶与根中的并不相同，相同组织中的蒜氨酸酶有较高的同源性，而不同组织中的蒜氨酸酶的同源性较低（Rabinkov etal.,1994；唐巧玲，2013）。
+
+葱属植物的蒜氨酸酶基因大多都编码大约480个氨基酸，其中N-末端约 $3 0 { \sim } 4 0$ 个氨基酸为液泡定位的信号肽（VanDamme et al.,1992；Manabe et al.,1998）。大多数葱属植物中的蒜氨酸酶是以同聚体的形式存在的，如大蒜中的蒜氨酸酶为二聚体，由两个分子量均为$5 1 5 0 0 { \mathrm { u } }$ 的小亚基组成，洋葱中的蒜氨酸酶为三聚体或四聚体，由3\~4个分子量均为 50000u 的小亚基组成（Nock & Mazelis,1986；Nock& Mazelis,1987；Rabinkov et al.,1994）。蒜氨酸酶有多种底物，除环蒜氨酸外，其它6种蒜氨酸都可作为蒜氨酸酶的底物，不同葱属植物的蒜氨酸酶，同一种酶对不同底物的酶活性都有差异（程龙军和郭得平,2001）。温度、pH、金属离子等因素对蒜氨酸酶的活性都会产生影响（Jansen etal.,1989；Krest&Keusgen,1999）。
+
+通过比较已经克隆的葱属植物的蒜氨酸酶的氨基酸序列，发现蒜氨酸酶都有4类保守的结构域，分别是类表皮生长因子结构域（EGF-likedomain）、PLP结合域、天冬氨酸氨基转移酶超家族结构域和催化结构域（唐巧玲，2013）。其中关于PLP结合域的研究较多，PLP结合域位于蒜氨酸酶的中部，辅因子PLP的结合位点就在这个结构域的赖氨酸上。不同葱属植物蒜氨酸酶的PLP结合位点研究的比较清楚，如大蒜蒜氨酸酶的PLP结合位点是成熟蛋白的第251位赖氨酸，韭菜蒜氨酸酶是第280位赖氨酸，洋葱鳞茎蒜氨酸酶是第285位赖氨酸（Kitamura et al.,1997；Manabe et al.,1998；Shimon et al.,2007）。类表皮生长因子结构域位于蒜氨酸酶的N-末端，由含有6个半胱氨酸残基的一段序列以$\mathbf { C - X _ { 1 8 - 1 9 - } C - x - C - X _ { 2 } - C - X _ { 5 } - C - X _ { 6 } - C }$ 的方式排列，其确切功能还不清楚，推测可能与蒜氨酸酶最终定位于液泡有关（Kuetner etal.,2002）。这个结构域在植物蛋白中很少见，但在蒜氨酸酶中十分保守，可以作为识别新的蒜氨酸酶的结构域（Sayadi etal.,2020）。大蒜蒜氨酸酶晶体结构分析表明，蒜氨酸酶的10个半胱氨酸残基中的8个可以形成4个二硫键，分别是Cys20-Cys39、Cys41-Cys50、Cys44-Cys57和Cys368-Cys376，其中前3个位于类表皮生长因子结构域中，第4个位于酶的C-末端，在保持催化区域的稳定和底物、辅助因子的相对方向中有重要作用，另外两个半胱氨酸残基Cys220 和Cys350是2个自由的硫醇，距离酶的活性位点较远，其化学修饰对酶的活性没有影响（Weiner etal.,2009）。蒜氨酸酶还是一种糖蛋白，每一个蒜氨酸酶单体的肽链上都有多个糖基化位点。氨基酸序列分析表明，大蒜蒜氨酸酶有4个潜在的糖基化位点，分别是：Asn19、Asn146、Asn191和Asn328（Rabinkovet al.,1995）。晶体结构分析发现，只有位点Asn146 和位点Asn328可以被利用，其中位点Asn146位于两个亚基的连接处，通过糖链把2个亚基结合起来，保持二聚体的稳定性，位点 Asn328 则位于二聚体的表面，不与酶中的任何原子接触（Kuettner etal.,2002；Shimon etal.,2007）。
+
+# 3.2.2 催泪因子合成酶
+
+当洋葱细胞受到破坏时，会释放出让人流泪的挥发性物质，人们称其为催泪因子。早在1971年，Brodnitz 和 Pascale 就鉴定出洋葱中的催泪因子是(Z)-丙硫醛-S-氧化物[(Z)-propanthial S-oxide]。在很长一段时间内，人们认为 $( E )$ -1-丙烯基次磺酸形成催泪因子是一种自发的反应，没有酶参与的。直到 2002年，Imai等首次在洋葱中鉴定出了催化 $( E )$ -1-丙烯基次磺酸形成催泪因子的酶，将其命名为催泪因子合成酶，并因此获得了2013年的搞笑诺贝尔化学奖。洋葱的 LFS全长 737 bp，编码 169 个氨基酸，LFS 对(Z)-1-丙烯基次磺酸没有活性，但其产物却是 $( Z )$ -丙硫醛-S-氧化物，因此LFS 被认为是一种(E)-1-丙烯基次磺酸异构酶（Masamura etal.,2012）。
+
+洋葱加工过程中催泪因子的释放给工厂或厨房的操作人员带来了很大的不便。LFS 的发现给创制不催泪的洋葱提供的可能。当采用RNAi技术干扰LFS 的表达时，洋葱中LF 的合成量大幅度降低，(E)-1-丙烯基次磺酸主要转化为二丙烯基硫代亚磺酸酯（di-1-propenylthiosulfinate），进而转化为各种硫醇烷型化合物（thiolane-type compounds）（Eady etal.,2008;Aoyagi et al.,2011）。这种不催泪的洋葱可以显著降低人体内环氧化酶-1（cyclooxygenase-1)和 ${ \mathfrak { a } } .$ -葡萄糖苷酶（ $\mathfrak { a }$ -glucosidase）的活性，并减少血小板的聚集（Aoyagi etal.,2011；Thomsometal.,2013）。因此，通过基因操作技术创制的不催泪洋葱种质资源，不仅可以大大减轻洋葱加工过程给操作人员带来的不便，还能够增加对人体有益的活性物质的含量。
+
+# 4展望
+
+自从20 世纪中期发现 S-烷(烯)基半胱氨酸亚砜和大蒜素以来，由于其在药用和保健方面的重大价值，阐明 S-烷(烯)基半胱氨酸亚矾代谢产物的化学结构、生物活性以及含硫化合物药物代谢动力学特性的研究越来越多。随着 S-烷(烯)基半胱氨酸亚砜代谢产物生物活性研究的深入，学者们越来越认识到研究S-烷(烯)基半胱氨酸亚砜代谢途径的重要性。但是，关于葱属植物S-烷(烯)基半胱氨酸亚矾降解的研究较多，特别是有关蒜氨酸酶和催泪因子合成酶的研究较多，而关于S-烷(烯)基半胱氨酸亚矾生物合成的研究还比较少，仅在大蒜和洋葱中有少量报道（Jones et al.,2004；Yoshimoto& Saito,2019）。S-烷(烯)基半胱氨酸亚砜代谢是植物硫代谢的重要组成部分，同时涉及到半胱氨酸、谷胱甘肽和缬氨酸的代谢。到目前为止，得到鉴定的葱属植物 S-烷(烯)基半胱氨酸亚砜生物合成途径中的关键酶只有大蒜的催化脱y-谷氨酰基反应的 $\gamma \cdot$ -谷氨酰转肽酶（AsGGT1、AsGGT2和AsGGT3）和催化S-加氧反应的含黄素的单加氧酶（AsFMO1）（Yoshimoto et al.,2015a；Yoshimoto et al.,2015b）。GGTs和FMOs 都是多基因家族，除了已经鉴定功能的GGTs和FMOs外，家族中的其它成员是否参与烷(烯)基半胱氨酸亚砜的生物合成还需要进一步研究。拟南芥等模式植物中有关半胱氨酸、谷胱甘肽、硫代葡萄糖苷等含硫化合物的代谢途径研究也为葱属植物 S-烷(烯)基半胱氨酸亚砜的代谢途径研究提供了参考。Sun 等（2020）参考拟南芥谷胱甘肽代谢途径，研究了大蒜AsGSHla，AsGSHIb，AsGSHlc，AsGSHld，AsGSH2 和AsPCS1的时空表达模式,但未见有进一步基因功能研究的报道。前人已经证实缬氨酸的代谢产物甲基丙烯酸也参与S-烷(烯)基半胱氨酸亚砜生物合成，但具体的代谢途径和参与的关键酶还不清楚。因此，下一步研究的重点仍然是S-烷(烯)基半胱氨酸亚砜生物合成途径中关键酶的鉴定与功能研究。
+
+在葱属植物 S-烷(烯)基半胱氨酸亚矾代谢调控方面，仅有少量调控S-烷(烯)基半胱氨酸亚砜降解的报道（Aoyagi et al.,2011；Thomson et al.,2013；Kato et al.,2016）。另有关于组培和施肥对 S-烷(烯)基半胱氨酸亚砜含量和成份的影响的研究（Prince etal.,1997；许真等，2007），但未见有S-烷(烯)基半胱氨酸亚矾生物合成分子调控方面的报道。造成这种现状的主要原因是由于 S-烷(烯)基半胱氨酸亚砜的生物合成途径还不十分清楚。此外，S-烷(烯)基半胱氨酸亚砜是植物硫代谢的下游产物，上游还涉及到含硫化合物的吸收、转运和半胱氨酸的合成等过程，这些代谢过程的变化也都会影响到S-烷(烯)基半胱氨酸亚砜生物合成。但是，关于葱属植物硫代谢的研究也很少，今后还要加强葱属植物硫代谢途径的研究，为S-烷(烯)基半胱氨酸亚矾生物合成的调控研究奠定基础。
+
+随着组学技术的快速发展，基因组学、转录组学和代谢组学等组学技术在大蒜、大葱和韭菜等葱属植物的研究中得到了应用，特别是大蒜基因组序列组装的完成（Khandagale et al,2020；李延龙等,2020；Liu et al.,2021；Sun etal.,2016；Sun et al.,2020），为葱属植物烷(烯)基半胱氨酸亚砜代谢途径的研究提供了大量的参考序列。总之，明确葱属植物S-烷(烯)基半胱氨酸亚矾生物合成途径中的关键中间产物和关键酶及其相关基因的功能，全面解析 S-烷(烯)基半胱氨酸亚砜代谢途径，明确各合成反应的细胞分区、亚细胞定位、产物转运以及各代谢途径之间的相互关系和基因调控网络是今后研究的重点。这些研究将为利用分子育种技术调控葱属植物的S-烷(烯)基半胱氨酸亚砜代谢提供理论依据。
+
+# 参考文献：
+
+AOYAGI M, KAMOI T,KATO M, et al., 2011. Structure and bioactivity of thiosulfinates resulting from suppression of lachrymatory factor synthase in onion[J]. J Agric Food Chem, 59(20): 10893-10900.   
+ARNAULT I,AUGER J,2006. Seleno-compounds in garlic and onion[J]. J Chromatogr A, 1112(1-2): 23-30.   
+BAI FR,2017. Cloning and expression analysis of a aliinase gene (AsALyl) full-length cDNA from Allium senescens L[D]. Huhehaote: Inner Mongolia Normal University: 1-54.[白芙荣, 2017．山韭蒜氨酸酶基因（AsALyl）全长cNDA的克隆及表达分析[D]．呼和浩特：内蒙 古师范大学：1-54.]   
+BINDER S, KNILL T, SCHUSTER J, 2007. Branched-chain amino acid metabolism in higher plants[J]. Physiol Plantarum,129(1): 68-78.   
+BLOCK E,DETHIER B, BECHAND B, et al.,2018. Ajothiolanes: 3, 4-dimethylthiolane natural products from garlic (Allium sativum) [J]. JAgric Food Chem, 66(39): 10193-10204.   
+BLOEM E, HANEKLAUS S, SCHNUG E. 2004. Influence of nitrogen and sulfur fertilization on the allin content of onions and garlic[J]. J Plant Nutr, 27(10): 1827-1839.   
+BLUM R, BECK A, KORTE A, et al., 2007. Function of phytochelatin synthase in catabolism of glutathione-conjugates[J]. Plant J, 49(4): 740-749.   
+BRODNITZ MH, PASCALE JV, 1971. Thiopropanal S-oxide: a lachrymatory factor in onions[J]. JAgric Food Chem, 19(2): 269-272.   
+CAVALLITO CJ, BAILEY JH, 1944. Allcin, the antibacterial principle of Allium sativum. I . Isolation， physical properties and antibacterial action[J]. J Amer Chem Soc, 66(11): 1950-1951.   
+CHENG L, GUO D, 2001. Alliinase in garlic and allied species[J]. Plant Physiol Comm, 37(5): 471-474.[程龙军，郭得平，2001．葱蒜类作物中的蒜氨酸酶[J]．植物生理学通讯，37(5): 471-474.]   
+CHHABRIA S, DESAI K,2014..[J]. Helix, 3: 541-545.   
+CHO J,LEE EJ, YOO KS,et al., 2009. Identification of candidate amino acids involved in the formation of blue pigments in crushed garlic cloves (Allium sativum L.)[J]. J Food Sci, 74(1): C11-C16.   
+CHO J, PARK M, CHOI D, et al., 2012. Cloning and expresson of γ-glutamyl transpeptidase and its relationship to greening in crushed garlic (Allium sativum) cloves[J]. J Sci Food Agric, 92(2): 253-257.   
+COLiN-GONZALEZ AL, ALI SF, TUNEZ I, et al.,2015. On the antioxidant, neuroprotective and anti-inflammatory properties of $S .$ -allyl cysteine: An update[J]. Neurochem Int, 89: 83-91.   
+DO GS, SUZUKI G, MUKAI Y, 2004. Genomic organization of a novel root allinase gene, ALL1, in onion[J]. Gene, 325:17-24.   
+DONG Y,LISK D，BLOCK E,et al.，2001. Characterization of the biological activity of $\gamma$ glutamyl-Se-methylselenocysteine: a novel， naturally occurring anticance agent from garlic[J]. Cancer Res, 61(7): 2923-2928.   
+DONG Y, WANG D, LI M, et al., 2010. One new pathway for Allium discoloration[J]. Food Chem, 119(2): 548-553.   
+EADY CC,KAMOI T, KATO M, et al.，2008. Silencing onion lachrymatory factor synthase causes a significant change in the sulfur secondary metabolite profile[J]. Plant Physiol, 147(4): 2096-2106.   
+EDWARDS SJ，BRITTON G，COLLIN HA，1994a. The biosynthetic pathway of the （20 $S$ -alk(en)yl-L-cysteine sulphoxides (flavour precursors) in species of Allium[J]. Plant Cell Tiss Organ Cult, 38(2): 181-188.   
+EDWARDS SJ, MUSKER D, COLLIN HA, et al., 1994b. The analysis of S-alk(en)yl-L-cysteine sulphoxides (flavour precursors) from species of ALlium by high performance liquid chromatography[J]. Phytochem Analy, 5(1): 4-9.   
+ELLMORE GS, FELDBERG RS,1994. Alliin lyase localization in bundle sheaths of the garlic clove (Allium sativum)[J]. Amer JBot, 81(1): 89-94.   
+FRITSCH RM， KEUSGEN M, 2006.Occurrence and taxonomic significance of cysteine sulphoxides in the genus Allium L. (Alliaceae)[J]. Phytochemistry, 67(11): 1127-1135.   
+GEU-FLORES F, MOLDRUP ME, BOTTCHER C, et al., 2011. Cytosolic γ-glutamyl peptidases process glutathione conjugates in the biosynthesis of glucosinolates and camalexin in Arabidopsis[J]. Plant Cell, 23(6): 2456-2469.   
+GONZALEZ-MORALES S， PEREZ-LABRADA F, GARCIA-ENCISO EL， et al.， 2017. Selenium and sulfur to produce Allium functional crops[J]. Molecules, 22(4): 558.   
+GRZAM A, MARTIN MN,HELL R, et al., 2007. $\gamma$ Glutamyl transpeptidase GGT4 initialtes vacuolar degradation of glutathione $S .$ conjugates in Arabidopsis[J]. FEBS Letters, 581(17): 3131-3138.   
+HANSENBG， KLIEBENSTEIN DJ， HALKIERBA， 2007. Identificationofa flavin-monooxygenase as the $S .$ oxygenating enzyme in aliphatic glucosinolate biosynthesis in Arabidopsis[J]. Plant J, 50(5): 902-910.   
+HARTMANN M, ZEIER T, BERNSDORFF F, et al.，2018. Flavin monooxygenase-generated N-hydroxypipecolic acid is a critical element of plant systemic immunity[J]. Cell,173(2): 456-469.e16.   
+HE GS,WANG Y, WANG SY. 2017. The synthesis of pyrrolyl amion acid of garlic green pigment material precursor[J].Food Nutr Chin,23(12): 33-36.[何贵山，王燕，王赛元,2017. 大蒜绿色素前体物吡咯基氨基酸的成因研究[J]．中国食物与营养，23(12)：33-36.]   
+HERDEN T, HANELT P, FRIESEN N. 2016. Phylogeny of Allium L. subgenus Anguinum (G. Don. ex W.D.J. Koch) N. Friesen (Amaryllidaceae) [J]. Mol Phylogenet Evol, 95: 79-93.   
+HUANG Q，WU ZK, WU ZQ, et al.， 2018. The research progress of antioxidant activity of organic sulfides in Allium plants[J].Food Res Dev,39(1): 214-220.[黄晴，吴忠坤，吴中琴, 等，2018．葱属类植物中有机硫化物的抗氧化性研究进展[J]．食品研究与开发，39(1)： 214-220.]   
+ICHIKAWA M, IDE N, YOSHIDA J，et al.， 2006. Determination of seven organosulfur compounds in garlic by high-performance liquid chromatography[J]. J Agric Food Chem, 54(5): 1535-1540.   
+IKEGAMI F, MURAKOSHI I, 1994. Enzymic synthesis of non-protein $\beta$ -substituted alanines and some higher homologues in plants[J]. Phytochemistry, 35(5): 1089-1104.   
+IMAI S, AKITA K, TOMOTAKE M, et al., 2006. Model studies on precursor system generating blue pigment in onion and garlic[J]. JAgric Food Chem, 54(3): 848-852.   
+IMAI S, TSUGE N,TOMOTAKE M, et al., 2002. An onion enzyme that makes the eyes water [J]. Nature, 419(6908): 685.   
+JANSEN H, MULLER B, KNOBLOCH K. 1989. Allin lyase from garlic, Allium sativum: investigations on enzyme/substrate, enzyme/inhibitor interactions, and on a new coenzyme[J]. Planta Med, 55(5): 440-445.   
+JONES MG, HUGHES J, TREGOVA A, et al., 2004. Biosynthesis of the flavour precursors of onion and garlic[J]. J Exp Bot, 55(404): 1903-1918.   
+KATO M, KAMOI T, SASAKI R, et al.,2013. Structures and reactions of compounds involved in pink discolouration of onion[J]. Food Chem, 139(1-4): 885-892.   
+KATO M, MASAMURA N, SHONO J, et al., 2016. Production and characterization of tearless and non-pungent onion[J]. Sci Rep, 6: 23779.   
+KHANDAGALE K, KRISHNA R, ROYLAWAR P, et al., 2020. Omics approaches in Allium research: progress and way ahead[J]. Peer J, 8: e9824   
+KITAMURA N, SHIMOMURA N, ISEKI J, et al., 1997. Cysteine-S-conjugate $\beta \mathrm { . }$ -lyase activity and pyridoxal phosphate binding site of onion alliin lyase[J]. Biosci Biotechnol Biochem, 61(8): 1327-1330.   
+KODERA Y, USHIJIMA M, AMANO H, et al.，2017. Chemical and biological properties of S-1-propenyl-L-cysteine in aged garlic extract[J]. Molecules, 22(4): 570.   
+KONG W, LI J, YU Q, et al., 2016. Two novel flavin-containing monooxygenases involved in biosynthesis of aliphatic glucosinolates[J]. Front Plant Sci, 7: 1292.   
+KUBER R, CURKO P, URAJOVA P, et al., 2017. Alium discoloration: color compounds formed during greening of processed garlic[J]. J Agric Food Chem, 65(48): 10615-10620.   
+KUBEC R, HRBACOVA M, Musah RA, et al., 2004. Allium Discoloration: precursors involved in onion pinking and garlic greening[J]. JAgric Food Chemistr, 52(16): 5089-5094.   
+KUBEC R, KIM S,MCKEON DM, et al., 2002. Isolation of $n$ -butylcysteine sulfoxide and six $n$ -butyl-containing thiosulfinates from Allium siculum[J]. J Nat Prod, 65(7): 960-964.   
+KUBEC R, STEFANOVA M, MOOS M, et al., 2018. Alithiolanes: nine groups of a newly discovered family of sulfur compounds responsible for the bitter off-taste of processed onion[J]. JAgric Food Chem, 66(33): 8783-8794.   
+KUBEC R, SVOBODOVA M, VELISEK J, 2000. Distribution of $S .$ alk(en)ylcysteine sulfoxides in some Allium species. Identification of a new flavor precursor: ethylcysteine sulfoxide (Ethiin)[J]. JAgr Food Chem, 48(2): 428-433.   
+KUBEC R, VELiSEK J, 2007. Allium discoloration: the color-forming potential of individual thiosulfinates and amino acids: structural requirements for the color-developing precursors[J]. J Agric Food Chem, 55(9): 3491-3497.   
+KUETTNER EB, HILGENFELD R, WEISS MS,2002. The active principle of garlic at atomic resolution[J]. JBiol Chem, 277(48): 46402-46407.   
+KRAUSE RJ，GLOCKE SC，ELFARRA AA， 2002. Sulfoxides as urinary metabolites of S-allyl-L-cysteineinrats:evidencefortheinvolvementofflavin-containing monooxygenases[J]. Drug Metab Disp, 30(10): 1137-1142.   
+KREST I, KEUSGEN M, 1999. Quality of herbal remedies from Allium sativum: differences betoeen allinase from garlic powder and fresh garlic[J]. Planta Med, 65(2): 139-143.   
+KRUEGER SK， WILLIAMS DE， 2005. Mammalian flavin-containing monooxygenases: structure/function, genetic polymorphisms and role in drug metabolism[J]. Pharmacol Ther, 106(3): 357-387.   
+LANCASTER JE, COLLIN HA,1981. Presence of aliinase in isolated vacuoles and of alkyl cysteine sulphoxides in the cytoplasm of bulbs of onion (Allium cepa)[J]. Plant Sci Lett, 22(2): 169-176.   
+LANCASTER JE，DOMMISSE EM，SHAW ML，1988.Production of flavour precursors [S-alk(en)yl-L-cysteine sulphoxides] in photomixotrophic callus of garlic[J]. Phytochemistry, 27(7): 2123-2124.   
+LANCASTER JE, REYNOLDS PHS, SHAW ML, et al., 1989. Intra-celular localization of the biosynthetic pathway to flavour precursors in onion[J]. Phytochemistry,28(2): 461-464.   
+LANCASTER JE， SHAW ML，1989. $\gamma$ Glutamyl peptidesin the biosynthesisof （204 $S .$ alk(en)yl-L-cysteine sulphoxides (flavor precursors) in Allium[J]. Phytochemistry, 28(2): 455-460.   
+LANCASTER JE, SHAW ML,1994. Characterization of purified $\gamma$ glutamyl transpeptidase in onions: evidence for in vivo role as a peptidase[J]. Phytochemistry,36(6): 1351-1358.   
+LANCASTER JE, SHAW ML, JOYCE MDP, et al.， 2000. A novel allinase from onion roots. Biochemical characterization and cDNA cloning[J]. Plant Physiol, 122(4): 1269-1279.   
+LEE EJ,REZENOM YH, RUSSELL DH, et al.，2012. Elucidation of chemical structures of pink-red pigments responsible for‘pinking’ in macerated onion (Allum cepa L.） using HPLC-DAD and tandem mass spectrometry[J]. Food Chem, 131(3): 852-861.   
+LI J, HANSEN BG, OBER JA,et al.， 2008. Subclade of flavin-monooxygenases involved in aliphatic glucosinolate biosynthesis[J]. Plant Physiol, 148(3): 1721-1733.   
+LI SL,WU Q, XU S, et al.,2018. Advances in the bio-activities and the drup and food resources development of chives[J].Food Res Devel,39(9):197-202.[李莎莉，吴琦，徐帅，等，2018. 韭菜生物活性及其药食资源开发进展[J]．食品研究与开发，39(9)：197-202.]   
+LI Y, ZHANG H, CUI Y, et al., 2020. Analysis on SSR information in full-length transcriptome and development of molecular markers in Allium tuberosum[J]. Acta Hort Sinica, 47(4): 759-768.[李延龙，张华敏，崔蕴刚，等，2020.韭菜全长转录组SSR 信息分析及分子 标记开发[J]．园艺学报，47(4):759-768.]   
+LIU N, TONG J, HU M, et al., 2021. Transcriptome landscapes of multiple tissues highlight the genes involved in the flavor metabolic pathway in Chinese chive (Allium tuberosum)[J]. Genomics,113(4): 2145-2157.   
+LUKES TM, 1986. Factors governing the greening of garlic puree[J]. J Food Sci, 51(6): 1577, 1582.   
+LUNDEGARDH B, BOTEK P, SCHULZOV V, et al., 2008. Impact of different green manures on the content of S-alk(en)yl-L-cysteine sulfoxides and L-ascorbic acid in leek (Allium porrum)[J]. JAgric Food Chem, 56(6): 2102-2111.   
+MANABE T, HASUMI A， SUGIYAMA M,et al.，1998. Allinase [s-alk(en)yl- 1-cysteine sulfoxide lyase] from Allium tuberosum (chinese chive): purification, localization, cDNA cloning and heterologous functional expression[J]. Eur JBichem, 257(1): 21-30.   
+MARTIN MN, SALADORES PH, LAMBERT E, et al., 2007. Localization of members of the $\gamma$ glutamyl transpeptidase family identifies sites of glutathione and glutathione $S .$ -conjugate hydrolysis[J]. Plant Physiol, 144(4): 1715-1732.   
+MASAMURA N, AOYAGI M, TSUGE N, et al., 2012. Proton transfer in a reaction catalyzed by onion lachrymatory factor synthase[J]. Biosci Biotechnol Biochem, 76(9): 1799-1801.   
+MASHIGUCHI K, TANAKA K, SAKAI T, et al., 2011. The main auxin biosynthesis pathway in Arabidopsis[J]. Proc Nat Acad Sci USA, 108(45): 18512-18517.   
+MATSUTOMO T, USHIJIMA M，KODERA Y,et al.， 2017. Metabolomic study on the antihypertensive effect of S-1-propenylcysteine in spontaneously hypertensive rats using liquid chromatographycoupled with quadrupole-Orbitrap massspectrometry[J].J Chromatograph B,1046: 147-155.   
+MAY MJ, LEAVER CJ，1994. Arabidopsis thaliana gamma-glutamylcysteine synthetase is structurally unrelated to mammalina, yeast, and Escherichia coli homologs[J]. Proc Nat Acad Sci USA, 91(21): 10059-10063.   
+NG KT, GUO DY, CHENG Q, et al.,2012. A garlic derivative, S-allylcysteine (SAC), supprsses proliferation and metastasis of hepatocellular carcinoma[J]. PLoS One,7(2): e31655.   
+NOCK LP, MAZELIS M, 1986. The C-S lyases of higher plants: preparation and properties of homogeneous alin lyase from garlic (Allium sativum)[J]. Arch Biochem Biophys, 249(1): 27-33.   
+NOCK LP, MAZELIS M,1987. The C-S lyases of higher plants: direct comparison of the physical properties of homogeneous allin lyase of garlic (Allium sativum) and onion (Allium cepa)[J]. Plant physiol, 85(4): 1079-1083.   
+NOHARA T, FUJIWARA Y, EL-AASR M, et al.， 2017. Antitumor Allium sulfides[J]. Chem Pharm Bull (Tokyo), 65(3): 209-217.   
+NOHARA T,FUJIWARA Y,EL-AASR M, et al., 2021. Thiolane-type sulfides from garlic, onion, and Welsh onion[J]. J Nat Med, 75(4): 741-751.   
+NOVICK RM， ELFARRA AA, 2008.Purification and characterization of flavin-containing monooxygenase isoform 3 from rat kidney microsomes[J]. Drug Metab Dispos,36(12): 2468-2474.   
+OHKAMA-OHTSU N， RADWAN S，PETERSON A，et al.， 2007a. Characterization of the extracellular $\gamma$ -glutamyl transpeptidase, GGT1 and GGT2, in Arabidopsis[J]. Plant J, 49(5): 865-877.   
+OHKAMA-OHTSU N, ZHAO P, XIANG C, et al., 2007b. Glutathione conjugates in the vacuole are degraded by $\gamma$ glutamyl transpeptidase GGT3 in Arabidopsis[J]. Plant J, 49(5): 878-888.   
+OHSUMI C, HAYASHI T, SANO K,1993. Formation of allin in the culture tissues of Allium sativum. Oxidation of S-allyl-L-cysteine[J]. Phytochemistry,33(1): 107 -111.   
+OVESNA J， MITROVA K, KUCERA L， 2015. Garlic (A. sativum L.） aliinase gene family polymorphism reflects bolting types and cysteine sulphoxides content[J]. BMC Genet, 16: 53.   
+PRINCE CL, SHULER ML, YAMADA Y,1997. Altering flavor profiles in onion (Allium cepa L.) root cultures through directed biosynthesis[J]. Biotechnol Prog, 13(4): 506-510.   
+RABINKOV A, WILCHEK M, MIRELMAN D, 1995. Allinase (allin lyase) from garlic (Allium sativum) is glycosylated at $\mathrm { A S N ^ { 1 4 6 } }$ and forms a complex with a garlic mannose-specific lectin[J]. Glycoconjugate J, 12(5): 690-698.   
+RABINKOV A, ZHU XZ,GRAFI G, et al., 1994. Allin lyase (allinase) from garlic (Allium sativum): biochemical characterization and cDNA cloning[J]. Appl Biochem Biotechnol, 48(3): 149-171.   
+RANDLE WM, LANCASTER JE, SHAW ML, et al., 1995. Quantifying onion flavor compounds responding to sulfur fertility-sulfur increases levels of alk(en)yl cysteine sulfoxides and biosynthetic intermediates[J]. JAm Soc Hortic Sci, 120(6): 1075-1081.   
+RAWLINS M, LEAVER C, MAY M, 1995. Characterisation of an Arabidopsis thaliana cDNA encoding glutathione synthetase[J]. FEBS Lett, 376(1-2): 81-86.   
+RAY B, CHAUHAN NB,LAHIRI DK, 2011. The‘aged garlic extract': (AGE) and one of its active ingredients S-allyl-L-cysteine (SAC) as potential preventive and therapeutic agents for Alzheimer's disease (AD)[J]. Curr Med Chem,18(22): 3306-3313.   
+ROSE P,WHITEMAN M, MOORE PK,et al.， 2005.Bioactive S-alk(en)ylcysteine sulfoxide metabolites in the genus Allium: the chemistry of potential therapeutic agents[J]. Nat Prod Rep,22(3): 351-368.   
+SAYADI V, KARIMZADEH G, MONFARED SR, et al.， 2020. Identification and expression analysis of S-alk(en)yl-L-cysteine sulfoxide lyase isoform genes and determination of allicin contents in Allium species[J]. PLoS ONE,15(2): e0228747.   
+SCHLAICH NL. 2007. Flavin-containing monooxygenases in plants: looking beyond detox[J]. Trends Plant Sci, 12(9): 412-418.   
+SHAH M， KANNAMKUMARATH SS，WUILLOUD JCA，et al.， 2004. Identification and characterization of selenium species in enriched green onion (Allium fistulosum） by HPLC-ICP-MS and ESI-ITMS[J]. J Anal At Spectrom, 19(3): 381-386.   
+SHAW ML，PITHER-JOYCE MD，MCCALLUM JA，2005. Purification and cloning of a （204号 $\gamma$ -glutamyl transpeptidase from onion (Allium cepa)[J]. Phytochemistry, 66(5): 515-522.   
+SHIMON LJ, RABINKOV A, SHIN I, et al., 2007. Two structures of allinase from Allium sativum L.: apo form and ternary complex with amionacrylate reaction intermediate covalently bound to the PLP cofactor[J]. JMol Biol, 366(2): 611-625.   
+STOLL A, SEEBECK E,1948. Allium compounds. l. Aliin, the true mother compound of garlic oil[J]. Helv Chim Acta, 31: 189-210.   
+SUN X,Yu X, Zhou S,et al., 2016. De novo assembly and characterization of the Welsh onion (Allium fistulosum L.） transcriptome using Illumina technology[J]. Mol Genet Genomics, 291(2): 647-659.   
+SUN X, ZHU S,LI N, et al., 2020.A chromosome-level genome assembly of garlic (Allium sativum) provides insightsinto genome evolution and allicin biosynthesis[J]. Mol Plant, 13(9): 1328-1339.   
+TANG QL, 2013. Cloning and expression of a novel allinase gene from garlic roots and selencing of allinase genes by RNAi[D]. Beijing: Chinese Academy of Agricultural Sciences: 1-74. [唐巧玲，2013．大蒜根蒜氨酸酶基因的克隆和表达及RNAi沉默研究[D].北京：中国 农业科学院：1-74.]   
+THE ANGIOSPERM PHYLOGENY GROUP, 2016. An update of the agniosperm phylogeny group classification for the orders and families of flowering plants: APG IV[J]. Bot J Linn Soc, 181(1): 1-20.   
+THOMSOM SJ，RIPPON P,BUTTS C，et al.，2013.Inhibition of platelet activation by lachrymatory factor synthase (LFS)-silenced (tearless) onion juice[J]. JAgricultural and Food Chem, 61(44): 10574-10581.   
+TRIPPE II RC，Pilon-Smits EAH.2021. Selenium transport and metabolism in plants: Phytoremediation and biofortification implications[J]. J Hazard Mat, 404(Part B): 124178.   
+UEDA Y, TSUBUKU T, MIYAJIMA R. 1994. Composition of sulfur-containing components in onion and their flavor characters[J]. Biosci Biotechnol Biochem, 58(1):108-110.   
+VAN DAMME EJ， SMEETS K, TORREKENS S,et al., 1992. Isolation and characterization of alliinase cDNA clones from garlic (Allium sativum L.) and related species[J]. Eur JBiochem, 209(2): 751-757.   
+VIRTANEN AI， MATIKKALA EJ,1959. The isolation of $S$ -methylcysteine sulphoxide and S-n-propylcysteine sulphoxide from onion (Allium cepa) and the antibiotic activity of crushed onion[J].Acta Chem Scand, 13:1898-1900.   
+WEINER L， SHIN I， SHIMON JW,et al.，2009.Thiol-disulfide organization in aliin lyase (alliinase) from garlic (Allium sativum)[J]. Protein Sci, 18(1): 196-205.   
+WHITAKER JR， 1976. Development of flavor, odor, and pungency in onion and garlic[M]// CHICHESTER CO，MRAK EM， STEWART GF. Advances in Food Research (22), Academic Press: 73-133.   
+XU Z, UM Y,LU G, et al., 2007. The biosynthetic pathways of flavor precursors and its control in Alliums[J].ChinJCell Bio,29(4):508-512.[许真，严永哲，卢钢，等，2007．葱属蔬菜 植物风味前体物质的合成途径及调节机制[J]．细胞生物学杂志，29(4):508-512.]   
+YAMAGUCHI Y, KUMAGAI H, 2020. Characteristics, biosynthesis, decomposition, metabolism and functions of the garlic odour precursor, S-alyl-L-cysteine sulfoxide (Review)[J]. Exp Ther Med, 19(2): 1528-1535.   
+YAMAMOTO Y, KAMIYA N, MORINAKA Y, et al., 2007. Auxin biosynthesis by the YUCCA genes in rice[J]. Plant Physiol, 143(3): 1362-1371.   
+YAMAZAKI M, SUGIYAMA M, SAITO K, 2002. Intercellular localization of cysteine synthase and allinase in bundle sheaths of Allium plants[J]. Plant Biotechnol, 19(1): 7-10.   
+YAMAZAKI Y, IWASAKI K, MIKAMI M, et al., 2011. Distribution of eleven flavor precursors, S-alk(en)yl-L-cysteine derivatives,in seven Allium vegetables[J]. Food Sci Technol Res, 17(1): 55-62.   
+YOSHIMOTO N, SAITO K, 2019. S-Alk(en)ylcysteine sulfoxides in the genus Allium: proposed biosynthesis, chemical conversion,and bioactivities[J]. JExp Bot, 70(16): 4123-4137.   
+YOSHIMOTO N, ONUMA M, MIZUNO S, et al., 2015a. Identification of a flavin-containing $S .$ oxygenating monooxygenase involved in aliin biosynthesis in garlic[J]. Plant J，83(6): 941-951.   
+YOSHIMOTO N, YABE A， SUGINO Y, et al.， 2015b. Garlic $\gamma$ -glutamyl transpeptidases that catalyze deglutamylation of biosynthetic intermediate of alliin[J]. Front Plant Sci, 5: 758.

@@ -1,0 +1,216 @@
+[
+    {
+        "type": "text",
+        "text": "社交媒体使用对执行功能的影响：有益还是有害？\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "麻雅洁1,2 赵鑫1,2 贺相春任丽萍1,2(1甘肃省行为与心理健康重点实验室，兰州730070)(²西北师范大学心理学院，兰州730070)(3西北师范大学教育技术学院，兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 社交媒体使用对执行功能的影响尚存争议，这与社交媒体使用强度起到的调节作用有关。中等强度的社交媒体使用会产生社交媒体心流体验，使注意集中于目标信息，并为个体提供了持续不断的社会奖励和情感支持，对执行功能有益，但高、低强度社交媒体使用则会损害执行功能。今后该领域的研究应该探讨社交媒体使用影响执行功能的“剂量效应”以及社交媒体使用类型对执行功能的具体影响，还应关注不同认知水平的个体，以进一步明确社交媒体使用与执行功能发展的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词社交媒体，执行功能，心流体验",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社交媒体（socialmedia）是一种是建立在互联网技术，特别是Web2.0基础之上的用以构建社会关系和获取信息的应用平台（Andreas&Michael,2010)。社交媒体使用则是基于社交媒体开展的各种活动的总称，目前研究者主要从使用频率、使用时间、使用强度及使用成瘾等角度来衡量社交媒体的使用程度（Mieczkowski et al.,2020；张亚利 等,2021)。已有研究表明，社交媒体的使用可以帮助个体形成积极的自我概念（Gentile etal.,2012）、促进人际交流（Torous&Keshavan,2016)、获得社会支持（Huang&Liu,2017)，发展社会资本（Buccietal.,2019)。但是，社交媒体使用也会给个体带来一系列负面的影响，如，可能会导致抑郁症状（Lin et al.,2016; Twenge& Campbell,2019）、自尊水平下降（Sherlock & Wagstaff,2019）、睡眠障碍（van der Schuur et al.,2019）、外貌焦虑（Vannucci et al.,2017）和身材焦虑（Frost&Rickwood,2017; Sherlock&Wagstaff,2018）等不良结果。同时，社交媒体使用还会导致个体的认知能力下降，尤其是对个体的执行功能（executive function,EF）有消极影响（Baumgartner et al.,2014;Parry&Roux,2019)。执行功能是指以目标为导向对多种认知加工进行监控和管理的能力（Miler&Cohen,2001;Miyake et al.,2000)，包括一系列的高级认知加工过程，其中转换（“switching\"or“shifting\"）、刷新（updating）、抑制（inhibition）三个独立的成分一直受到研究者的诸多关注。但近期有研究发现，使用社交媒体反而对个体的执行功能有益，如练习使用社交媒体的新手用户在刷新和抑制能力上表现出显著提高（Myhre etal.,2017;Quinn,2018)。而Shin 等人（2020）认为，社交媒体使用可能与个体的执行功能之间呈倒U型关系，即中等程度的社交媒体使用是促进执行功能的最佳水平。因此，社交媒体使用对执行功能的影响还存在一定的争议，本文旨在系统回顾社交媒体使用对个体执行功能影响的研究现状，为未来针对如何降低社交媒体使用对执行功能的消极影响，促进其积极作用提供思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2社交媒体使用影响执行功能的表现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1社交媒体使用对执行功能的积极效应",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有研究发现，社交媒体的使用对个体的执行功能有促进作用。随着社交媒体在个人、社会和工作环境中的日益普及，个体使用媒体时出现了一种习惯化行为模式——媒体多任务处理（media multitasking,Brasel&Gips,2011)，即同时对两个及两个以上的电子或非电子媒体任务进行处理，研究者一般采用媒体多任务指数（media multitasking index,MMI）来表示个体媒体多任务的程度，公式为： ${ \\mathrm { M M I } } { = } \\sum _ { i = 0 } ^ { 1 1 } \\frac { m _ { i } { \\times } h _ { i } } { h _ { t o t a l } }$ ∑mca，其中，htota为所有首要媒体使用时间总和， $m _ { i }$ 为在使用首要媒体时通常使用的其他媒体个数， $h _ { i }$ 为每周使用首要媒体时间（Ophir etal.,2009)。由于认知资源分配的有限性，真正意义上同时进行多个媒体任务难以实现，因此，媒体多任务处理可视作快速而自动地在多个媒体任务间频繁切换（Judd et al.,2011)。转换属于执行功能的一个子成分，指的是个体在心理操作、心理状态，或者在不同任务规则之间进行转换的能力（Miyake et al.,2000;Monsell,2003)。研究发现，高强度媒体多任务者（经常进行媒体多任务处理的个体）在Eriksen Flanker任务、Dot-Triangle任务、DigitSpan任务中反应速度均快于低强度媒体多任务者（不常进行媒体多任务处理的个体)，即具有更强的转换和干扰抑制能力（Rogobete etal.,2020)，并且媒体多任务处理的程度越强，个体的认知控制能力越好（Alzahabi& Becker,2013; Elbe et al.,2019; Seddon et al.,2021)。研究者认为，日常生活中的媒体多任务处理可以作为一种认知训练，其干预效果可以迁移到转换任务或双任务范式中去（Uncapher&Wagner,2018)。在多个复杂媒体任务中，高强度媒体多任务者可以更好地整合多通道信息（Lui&Wong,2012)，并且已获得了大量在任务之间来回切换的经验，这些丰富的任务切换经验使得他们能够快速重新适应新任务或更完全地抑制旧任务，从而减少任务切换成本，更好地在任务间转换（Rogobete etal.,2020)。有纵向研究对65岁以上的社交媒体新手用户进行Facebook使用训练，发现训练后老年人的刷新能力和抑制控制能力表现出显著提高，这表明使用社交媒体可以作为有效维持或增强老年人执行功能的一项干预措施（Myhre et al.,2017;Quinn,2018)，最近的一项研究表明，社交媒体的使用有助于为中老年人提供更稳定的社会支持，加强了他们自我效能感的内化和控制感，可以减缓老年人的执行功能老化（Khoo&Yang,2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2社交媒体使用对执行功能的消极效应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然已有研究发现社交媒体使用会对个体的执行功能有促进作用，但是另外一些研究发现，社交媒体使用会损害个体的执行功能（van der Schuur et al.,2019;Wiradhany&Nieuwenstein,2017; Wiradhany & Koerts,2019; Madore et al.,2020; Parry et al.,2020)。通过纵向研究发现，由于越来越多的社交媒体使用取代了对幼儿认知发展有重要作用的活动，例如操纵游戏和想象力游戏等，从而可能导致日后幼儿的执行功能整体的发展受到永久性的负面影响（Mchargetal.,2020)。有研究对185名学龄前儿童进行为期一年的追踪，发现在控制相关协变量之后，大量使用应用程序 $( \\geq 3 0$ 分钟/天）的学龄前儿童与少量使用应用程序（<30 分钟/天）的相比，抑制控制能力更差（Mcneilletal.,2019)。针对青少年群体进一步展开研究，结果表明，较高的媒体多任务处理得分与个体执行功能的表现（包括工作记忆、转换和抑制任务）均呈负相关（Baumgartner et al.,2014;Cain et al.,2016)。高强度媒体多任务的大学生在完成 Eriksen Filter 任务、AX-CPT 任务、2-back 和3-back任务时，其反应速度和准确性均差于低强度组，难以将注意力集中在当前的任务上，并且具有更多自下而上的注意偏向（Ophir et al.,2009）。Magen（2017）以 $1 8 { \\sim } 3 6$ 岁个体为研究对象，使用健康成人执行功能行为评分量表（BRIEF-A,Roth etal.,2013）测验发现，频繁在电子媒体上同时处理多项任务与较差的执行功能有关，并且社交媒体使用频率越高，执行功能方面存在越多的困难（Zurcher etal.,2020），尤其表现在反应抑制能力上（Murphy& Creux,2021)。研究者发现，高强度媒体多任务者比低强度媒体多任务者倾向于更多地使用直觉反应系统，并且关注即时满足而非延迟满足（Schutten etal.,2017)，这表明媒体多任务处理可能损害个体的抑制控制能力（Baumgartner& Wiradhany,2021）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3社交媒体使用与执行功能之间呈倒U型关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大多数研究表明，社交媒体使用与认知能力之间存在线性关系（Ophir etal.,2009;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alzahabi & Becker,2013; Ralph et al.,2017; Elbe et al.,2019; Zurcher et al., 2020; Murphy &Creux,2021)，而有研究者提出，社交媒体使用可能与个体的执行功能水平之间呈倒U型关系，社交媒体使用并不是一味地损害或促进执行功能的发展，而是在二者之间存在一个最佳临界点。研究表明，在 $n$ -back任务中，中等强度媒体多任务者比高、低强度媒体多任务者表现更好（Minear et al.,2013;Shin et al.,2020)，中等强度的媒体多任务处理与最佳水平的认知控制相关（例如，刷新工作记忆中的信息，过滤干扰刺激）（Cardoso-Leite et al.,2016)。高强度媒体多任务者在 $n$ -back任务中更容易出现注意力缺失，更难以专注于任务，这导致他们停止刷新短时记忆中的字母，因此更难记住字母顺序，抑制控制能力更差（Ralph &Smilek,2017)。低强度媒体多任务者在执行功能任务中的表现比中等媒体多任务者更差，与高强度媒体多任务者无显著差异（Cardoso-Leite etal.,2016)。研究者认为，这可能是由于低强度媒体多任务处理与消极情绪状态有关，使个体自我控制能力和成就感降低，进而阻碍执行功能的发展（Sanbonmatsu et al.,2013）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3使用强度调节社交媒体使用与执行功能之间的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "社交媒体使用与个体的执行功能呈倒U 型关系，中等程度的社交媒体使用之所以是促进执行功能的最佳水平，一个重要原因可能是，相比于高强度或低强度的社交媒体使用水平，中等强度的社交媒体使用会引发更高水平的社交媒体心流（Katahira et al.,2018;Barros etal.,2018; Harmat et al.,2015; Keller & Bless,2008; Keller et al.,2011; Yoshida et al.,2014)。社交媒体心流（socialmedia flow,SMflow）是当人们完全沉浸于使用智能手机等电子工具进行娱乐、信息搜索和社交活动时，所产生的一种最佳体验，表现为在使用社交媒体时持续专注和愉悦的心理状态（Leung,2020)。通常采用专注、时间失真、临场呈现、享受和好奇五个维度来评估社交媒体心流的程度（Kwak et al.,2014)。当社交媒体使用强度处于适中水平时，社交媒体心流处于一种无需任何心理努力的特殊注意状态（Ullen et al.,2010)，与个体高水平的认知控制、专注投入有关（Katahira et al.,2018;Wu et al.,2013)，使得个体在面对社交媒体中各种复杂的信息刺激时，过滤各种干扰信息，将注意集中于有用的信息，目标信息则不断地被储存和更新，个体的执行功能（尤其是刷新功能）在这样的要求下得到长期而反复的锻炼，最终得以提升（Alloway etal.,2013)。此外，社交媒体使用所产生的心流体验可以作为一种内在使用动机，通过增加社交网络的互动，使得人际关系的积极变化（Kwak et al,2014)，这也为个体提供了持续不断的社会奖励，包括各种关于社交联系或声誉提升的功能（Meshi etal.,2015)。形成和维持社会互动与奖赏相关的神经系统有关，当个体接收来自社交媒体的积极社会反馈时（例如，得到别人的点赞、评论等）可以激活有关社会奖励的大脑区域（Sherman et al.,2016)，包括纹状体和腹侧被盖区（Fareri,2014; Ruff,2014; Sherman etal.,2018)。因此，当个体适度使用社交媒体，作为改善其现有社会资本的工具时，则会对执行功能起到保护作用（Sanbonmatsu et al.,2013; Khoo& Yang,2020; Baumgartner& Wiradhany,2021)，能在一定程度上缓冲过度使用社交媒体对认知功能的消极影响，减缓与年龄有关的执行功能衰退（Myhre et al.,2017;Quinn,2018; Glaser et al.,2018)。社交媒体心流可以扩大和维护社会关系来获得更多的情感支持，从而对执行功能(尤其是抑制能力)有益(Zuelsdorffet al., 2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，中等强度的社交媒体使用会产生更高水平的社交媒体心流，使注意集中于目标信息，并为个体提供了持续不断的社会奖励和情感支持，从而使得执行功能最终得以提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前人通过研究发现，社交媒体心流与注意活动的神经生理学指标高度相关（Yoshida etal.,2014），即个体在社交媒体使用时所产生的心流体验与外侧额叶皮层（额下回）的激活增加和内侧前额叶皮层的激活减少有关（Ulrich et al.,2014;Yoshida etal.,2014），由于额顶叶网络的外侧部分通常参与自上而下的注意和任务中的持续注意（Corbetta＆ Schulman,2002），而内侧额叶皮层经常与任务中出现的思维游离和自我专注有关(Esterman et al.,2014)，当自我控制资源由于执行其他媒体任务而处于损耗状态时，这种自上而下的认知控制损耗会降低前额叶功能的相对优势，进而导致执行功能失败（Berkman&Miller-Ziegler,2012），从而导致个体无法控制自己的注意力或自我调节行为，而注意力的集中以及忽视干扰刺激的能力是执行功能的核心（Farah,2017）。因此在频繁进行媒体多任务的过程中，个体会接收和处理大量杂乱且分散的信息，这种高强度的社交媒体使用导致个体担心他们在任务中的表现（Barros etal.,2018），从而形成一定的注意偏好（认知倾向)，即保持更广的注意范围，倾向于同时平行加工多个信息（包括无关信息)，这使个体更容易受到无关信息的干扰（Ophiret al.,2009;Cain&Mitroff,2011)。在这种易受干扰的状态下，个体难以将注意集中于目标信息，从而对个体执行功能有消极影响（Magen,2017）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而低强度社交媒体使用与低感觉寻求有关（Chang,2017），不仅会降低社交媒体心流水平，导致个体处于缺乏积极主动性的状态，缺乏愉悦感，负面情绪增加（Linet al.,2016;Brailovskaia etal.,2020;Dube et al.,2020），并且因为社交媒体本身就具有存储信息的功能，个体会更少地加工和存储信息，这使得信息加工的心理努力过程缩减甚至消失（Sparrow &Wegner,2011），任务投入度降低（Wuetal.,2013），人们只需记住一些关于信息的线索而无需记住信息本身，个体大脑的认知功能被社交媒体所替代，久而久之，个体的认知功能失去训练的机会，当脱离了社交媒体后，便无法对当前信息进行有效地存储和加工，信息处理不足，从而对个体的执行功能有负面影响（Kahn&Martinez,2020）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，高强度的社交媒体使用导致个体担心他们在任务中的表现，从而倾向于保持更广的注意范围，更易受到无关信息的干扰，而低强度的社交媒体使用导致个体处于缺乏积极主动性的状态，信息加工的心理努力过程缩减甚至消失，从而对执行功能产生消极影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，社交媒体使用对执行功能的影响尚存争议，使用强度可能在二者关系中起调节作用，未来仍有一些问题需要进一步探索。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，关注社交媒体使用对执行功能的“剂量效应”，即社交媒体使用不同测量指标（社交媒体使用成瘾；使用时间；使用频率；使用强度）单独和交互作用对执行功能的影响。研究发现，社交媒体纵向地以“特质”的方式，而不是简单地以短期的“状态”效应影响执行功能发展（McHarg,2020)，如果个体保持适度的使用时间和频率，社交媒体使用对执行功能的消极影响可能不会出现（Mcneill et al.,2019)。因此，社交媒体使用对执行功能的积极影响可能需要一个相对较长和持续使用社交媒体的过程（Khoo&Yang,2020)。是否能确定一个最佳的社交媒体使用水平，使得个体的执行功能得到最大提升？今后研究可以未来应展开更多的追踪研究，考察社交媒体使用作为连续变量时对执行功能的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，进一步明晰不同类型的社交媒体使用与执行功能子成分之间的关系。目前研究主要侧重于社交媒体使用频率对个体日常生活中执行功能的影响研究（Cardoso-Leite et al,2016;Khoo&Yang,2020)，而缺乏对社交媒体使用类型对执行功能中的单个子成分发展变化的考察。已有研究发现，主动性社交媒体使用有助于个体的认知发展（Wang etal,2014;Xie,2014)，而被动性社交媒体使用会对个体的认知发展有害（Tandoc etal.,2015;Verduyn etal.,2015;Frison&Eggermont,2015)，致使这种分离效应的原因在于二者的“目的性”明确与否。此外，媒体多任务处理作为个体在日常生活中的一种习惯化媒体使用模式，具有很高的自主选择性（Seddon etal.,2021)，个体如何根据个人的注意中心和认知资源选择高效率的媒体多任务类型，避免媒体多任务间的相互影响，最大化利用媒体多任务处理达到社交媒体心流状态，从而对个体的执行功能具有促进作用?未来的研究应进一步细化探究社交媒体使用类型对执行功能的具体影响，为改善个体的认知状况，提高执行功能提供相应的建议。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后，未来研究需要关注不同认知水平的个体，以进一步明确社交媒体使用与执行功能发展的关系。已有研究表明，执行功能与前额叶密切相关（Gianaros etal.,2007)，社交媒体使用与前额叶的关联在不同的年龄阶段存在差异，社交媒体使用的提升效应可能在大脑结构处于变化时期的群体中更为显著，例如，相较于大脑结构相对稳定的成年人，处于发育阶段的学龄前儿童和处于退化阶段的老年人在使用社交媒体后，执行功能获益更多（Chan et al.,2016; McNeill et al., 2019; Myhre et al,2017; Quinn, 2018; Huber et al.,2018; Khoo & Yang,2020)。以往研究大多只表明了社交媒体使用会改变个体的神经通路或大脑的反应模式（Meshi et al.,2015; Sherman et al.,2018;Kei etal.,2020)，而对于有关执行功能的生理结构变化是否存在社交媒体使用者认知水平的影响知之甚少，因此，未来研究应结合行为与认知神经方法，考察不同认知水平社交媒体使用者在执行功能特定任务中脑区激活的差异，从而使社交媒体使用影响执行功能的神经机制研究更精确也更全面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n张亚利，李森，俞国良.(2021).社交媒体使用与错失焦虑的关系：一项元分析．心理学报,53(3),273-290.   \nAlloway,T.P.,Horton,J.,Aloway,R.G.,&Dawson,C. (20l3).Social networkingsitesandcognitive abilities: Do they make you smarter ? Computers & Education, 63,10-16.   \nAlzahabi, R.,& Becker,M. W. (2013).The association between media multitasking,task-switching,and dual-task performance. Journal of Experimental Psychology: Human Perception & Performance,39(5),1485-1495.   \nAndreas M. Kaplan & Michael Haenlein. (2Ol0). Users of the world, unite! The challenges and opportunities of Social Media, Business Horizons,53(1),59-68.   \nBarros,M.F.d.S.,Araujo-Moreira,F.M.,Trevelin,L.C.,&Radel,R. (2018).Flow experience andthe mobilization of attentional resources. Cognitive, Affective & Behavioral Neuroscience,18(4),810-823.   \nBaumgartner,S.E., Weeda, W.D., van der Heijden,L.L.,& Huizinga,M. (2014). The relationship between media multitasking and executive function inearly adolescents. Journal ofEarly Adolescence,34(8),1120-1144.   \nBaumgartner, S.E.,& Wiradhany, W. (2021). Not all media multitasking is the same: The frequencyof media multitasking depends on cognitive and afective characteristics of media combinations.Psychology of Popular Media. Advance online publication. http://dx.doi.org/10.1037/ppm0000338.   \nBerkman,E.T.,& Miller-Ziegler,J.S. (20l2). Imaging depletion: FMRI provides new insights into the proceses underlying ego depletion. Social Cognitive and Affective Neuroscience, 8(4),359-361.   \nBrailovskaia,J.,Schillck,H.,& Jirgen Margraf. (2020). Tell me whyare youusingsocial media (sm)! relationship between reasons for use ofsm,sm flow,daily stress,depression,anxiety,and addictive smuse -an exploratory investigation of young adults in germany - sciencedirect. Computers in Human Behavior,113,Article e106511. https://doi.0rg/10.1016/j.chb.2020.106511.   \nBrasel，S.A.,& Gips,J. (2011). Media multitasking behavior: Concurrent television and computer usage. Cyberpsychology， Behavior, and Social Networking, 14(9), 527-534.   \nBucci,S.,Schwannauer, M.,& Berry,N. (2019). The digital revolution and its impact on mental health care. Psychology and Psychotherapy: Theory, Research and Practice,92(2),277-297.   \nCain,M.S.,Leonard,J.A., Gabrieli,J.D.E.,&Finn,A.S. (2016).Media multitasking inadolescence. Psychonomic Bulletin & Review,23(6),1932-1941.   \nCain,M. S.,& Mitroff,S.R. (2011). Distractor filtering in media multitaskers.Perception,40(10),183-1192.   \nCardoso-Leite,P.,Kludt,R., Vignola,G.,MaW.J., Green,C.S.,&Bavelier,D.(2016).Technologyconsumption and cognitivecontrol: Contrasting action video gameexperience with media multitasking. Atention,Perception, & Psychophysics,78(1),218-241.   \nChan,M.Y.,Haber,S.,Drew,L.M.,& Park,D.C.(2016).Training older adults to use tabletcomputers: Does it enhance cognitive function? The Gerontologist, 56(3), 475-484.   \nChang,Y. (2017). Why do young people multitask with multiple media? Explicating the relationships among sensation seeking, needs,and media multitasking behavior. Media Psychology,20(4), 685-703.   \nCorbetta, M.,& Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience,3(3),201-215.   \nDube,S.L.,igmon,S.,Althoff,R.R.,Dittus,K.,alema,D.E.,Ogden,D.E.,Poter,A.S.(2).Assiation of self-reported executive function and mood with executive function task performance acrossadult populations. Applied Neuropsychology: Adult. Article e23279095. htps:/doi.org/10.1080/23279095.2020.1794869.   \nDux,P.E.,Tombu,M.N.,Haison,S.,Rogers,B.P.,Tong,F.,&arois,R. (2o9).Training improves mulitasking performance by increasing the speed ofinformation processng in human prefrontal cortex. Neuron, 63(1),127- 138.   \nElbe,P.，Sorman,D.E., Mellqvist,E.，Brandstrom,J.,& Ljungberg,J. K. (2019). Predicting attention shifting abilities from self-reported media multitasking. Psychonomic Bulletin & Review, 26(4),1257-1265.   \nEsterman,M.,Rosenberg,M.D.,&Koonan,S.K. (2o14).Intrinsic fluctuations insustained attentionanddistractor processing. Journal of Neuroscience, 34(5), 1724-1730.   \nFarah,& Martha,J.(2o17). The neuroscience ofsocioeconomic status: Correlates,causes,and consequences.Neuron, 96(1), 56-71.   \nFareri,D.S., & Delgado,M.R.(2014). Socialrewards and social networks in the human brain. The Neuroscientist, 20(4), 387-402.   \nFrost,R.L.,&Rickwood,D.J.(2017).Asystematic reviewofthe mental health outcomes asociated with Facebook use. Computers in Human Behavior, 76,576-600.   \nGentile,B.,Twenge,J.M.,Freeman,E. C.,& Campbel, W. K. (2012).The effect ofsocial networking websiteson positive self-views: An experimental investigation. Computers in Human Behavior,28,1929-1933.   \nGianaros,P.J.,Horenstein,J.A., Cohen,S.,Mathews,K.A.,Brown,S.M.,&Flory,J.D.(2007).Perigeual anterior cingulate morphology covaries with perceived social standing. Social Cognitive and Afective Neuroscience,2(3),161-173.   \nGlaser,P.,Liu,J.H.,Hakim,M.A.,Vilar,R.,& Zhang,R.(2018).Issocial mediause for networking positiveor negative? Ofline social capital and internet addiction as mediators for the relationship between social media use and mental health. New Zealand Journal of Psychology, 47(3),12-18.   \nHarmat,L.,de Manzano,O.,Theorell,T.,Hogman,L.,Fischer,H.,& Ullen,F. (2015).Physiological corlatesof theflow experience during computer game playing. International Journal of Psychophysiology,97(1),1-7.   \nHuang,C. (2010). Internet use and psychological wel-being: A meta-analysis.Cyberpsychology，Behaviorand Social Networking,13(3),241-249.   \nHuang,L.V.,&Liu,P.L.(2o17).Tiesthat work: Investigating therelationships among coworker connections,workrelated facebookutility,online social capital,and employeeoutcomes.Computers in Human Behavior,72,512- 524.   \nHuber, B.,Yeates,M.,Meyer,D.,Fleckhammer,L.,& Kaufman,J. (2018).The efectsofscreen media contenton young children's executive functioning.Journal of Experimental Child Psychology,170,72-85.   \nJudd,T., & Kennedy, G. (2011). Measurement and evidence ofcomputer-based task switching and multitasking by 'Net generation' students. Computers & Education, 56(3), 625-631.   \nKahn, A. S.,& Martinez, T. M. (202O). Text and you might missit? Snap and you might remember? Exploring \"Google effects on memory” and cognitive self-esteem in the context of Snapchat and text messaging. Computers in Human Behavior,104,Article e106166. htps://doi.0rg/10.1016/j.chb.2019.106166.   \nKatahira,K.,Yamazaki,Y.,Yamaoka,C.,Ozaki,H.,Nakagawa,S.,&Nagata,N. (2o18).EEG correlates ofthe flow state: A combination of increased frontal theta and moderate frontocentral alpha rhythm in the mental arithmetic task. Frontiers in Psychology, 9,1-11.   \nKeller, J.,& Bles,H. (2008).Flowand regulatory compatibility: An experimental approach to the flow model of intrinsic motivation. Personality and Social Psychology Buletin,34(2),196-209.   \nKeller,J., Ble,H.,lomann,F.,&Kleinbhl,D.(21).hysiologicalaspectsoffloexperiences: Sil-eadcompatibility efects on heart rate variability and salivary cortisol. Journal of Experimental Social Psychology, 47(4), 849-852.   \nKei,K.,Naoya,O.,Sayaka,Y.,Tsukasa,U.,Takashi,M.,Toshiya,M,&Hironobu,F. (2O2o). Relationship between media multitasking and functional connectivity in the dorsal attention network. Scientific Reports, $I O ( 1 )$ ,Article e20452322. htp://dx.doi.org/10.1038/s41598-020-75091-9.   \nKhoo,S. S.，& Yang,H. (2020). Social media use improves executive functions in middle-aged and older adults:A structural equation modeling analysis. Computers in Human Behavior,1,Article e10638 8.https://doi.0rg/10.1016/j.chb.2020.106388.   \nKwak,K.T.,Choi, S.K.,&Lee,B. G. (2O14).SNS flow,SNSself-disclosureand post hoc interpersonalrelations change: Focused on Korean Facebook user. Computers in Human Behavior,31,294-304.   \nLeung,L.(2020).Exploring the relationship between smart phone activities,flow experience,and boredom in free time.Computers in Human Behavior,103,130-139.   \nLin,L.Y.,Sidani,J.E.,hensa,A.,adovic,A.,Miller,E.,Colditz,J.B.,..rimack,B.A. (216).Association between social media use and depression among U.S. young adults. Depression and Anxiety,33(4), 323-331.   \nLoh, K.K.,& Kanai,R. (2014). Higher media multitasking activity is associated with smaller gray-matter density in the anterior cingulate cortex. PLoS ONE,9(9),Article e106698. https:/doi:10.1371/journal.pone.0106698.   \nLui, K. F. H.,& Wong,A. C. -N. (20l2). Does media multitasking always hurt? A positive correlation between multitasking and multisensory integration. Psychonomic Bulletin & Review,19(4),647-653.   \nMadore,K.P.,Khazenzon,A.M.,Backes,C.W.,Jiang,J.,Uncapher,M.R.,Norcia,A.M.,& Wagner,A.D.(2020). Memory failure predicted by atention lapsing and media multitasking. Nature, 587(7832),87-91.   \nMagen,H. (2017).The relations between executive functions, media multitasking and polychronicity. Computers in Human Behavior,67,1-9.   \nMcharg,G.,Ribner,A.D.,Devine,R.T.,& Hughes, C. (2020).Screen timeand executive function in toddlerhood: Alongitudinal study.Frontiers inPsychology,11,Article e570392. htps://doi.org/10.3389/fpsyg.2020.570392.   \nMcneill,J.,Howard,S.J.,Vella,S.A.,&Cif,D.P.(9).Longitudinalassoiationsofelectronicapplicationse and media program viewing with cognitive and psychosocial development in preschoolers. Academic Pediatrics,19(5),520-528.   \nMeshi,D., Tamir,D.I.,& Heekeren, H.R. (2015). The emerging neuroscience ofsocial media. Trends in Cognitive Sciences,19(12),771-782.   \nMieczkowski, H.,Lee, A. Y.,& Hancock, J.T. (2020). Priming efects of social media use scales on well-being outcomes: The influence of intensity and addiction scales on self-reported depresson. Social Media $^ +$ Society, 6(4), 1-15.   \nMiler,E. K.,& Cohen,J.D. (2001).An integrative theory of prefrontal cortex function.Annual Review of Neuroscience, 24(1),167-202 .   \nMinear,M.,Brasher,F., McCurdy,M.,Lewis,J.,& Younggren,A. (2o13). Working memory,fluid inteligence,and impulsiveness in heavy media multitaskers. Psychonomic Bulletin & Review, 20(6),1274-1281.   \nMiyake,A.,Friedman, N.P.,Emerson, M.J., Witzki,A.H.,Howerter,A.,& Wager,T.D. (2ooo). The unityand diversity of executive functions and their contributions to complex “Frontal Lobe” tasks: A latent variable analysis. Cognitive Psychology, 41(1),49-100.   \nMonsel,S.(03).Task switching. Trends in Cognitive Sciences,7(3),134140   \nMurphy,K.,& Creux, O. (2021). Examining the association between media multitasking, and performance on working memory and inhibition tasks. Computersin Human Behavior，114，Article e106532. https://doi.0rg/10.1016/j.chb.2020.106532.   \nMyhre,J. W.,Mehl,M.R.,& Glisky,E.L. (2017). Cognitivebenefits ofonlinesocial networking for healthyolder adults.The Journals of Gerontology Series B, 72(5),752-760.   \nOphir,E.,Nass, C.,& Wagner,A.D. (2o09). Cognitive control in media multitaskers. Proceedings ofthe National Academy of Sciences of the United States of America,106(37),15583-15587.   \nParry,D.A.，& Roux,D. B.L. (2019). Media multitasking and cognitive control: A systematic review of interventions. Computers in Human Behavior, 92,316-327.   \nParry, D.A.,Roux,D.B.L., & Bantjes,J.R.(2O20). Testing the feasibilityof a media multitaskingself-regulation intervention for students: Behaviour change,attention,and self-perception. Computers in Human Behavior, 104, Article e106182. https://oi.0rg/10.1016/j.chb.2019.106182.   \nQuinn,K. (2018). Cognitive effcts of social media use: A case of older adults.Social Media $^ +$ Society, 4(3), Article e20563051. htps://doi.0rg/10.1177/2056305118787203.   \nRalph,B. C.W., & Smilek,D. (2017). Individual differences in media multitasking and performance on the $n$ -back. Attention, Perception,& Psychophysics,79(2),582-592.   \nRogobete,D.A.，Ionescu, T.，& Miclea, M. (2020). The relationship between media multitasking behavior and executive function in adolescence: A replication study. The Journal of Early Adolescence,41(5), 1-29.   \nRoth,R.M.,Lance, C.E., Isquith,P.K.,Fischer,A.S.,& Giancola, P.R. (2013). Confirmatory factor analysisof the behavior rating inventory of executive function-adult version in healthy adults and application to attentiondeficit/hyperactivity disorder. Archives of Clinical Neuropsychology,28(5),425-434.   \nRuff, C.C.& Fehr,E. (2014).The neurobiology ofrewards and values in social decision making. Nature Reviews Neuroscience. 15(8), 549-562.   \nSanbonmatsu,D., Strayer, D.,Medeiros-Ward,N.,& Watson,J. (2013). Who multitasks and why? Multitasking ability, perceived multitasking ability,impulsivity and sensation seeking.PLoS ONE,8(1),Article e0054402. https://doi.org/10.1371/journal.pone.0054402.   \nSchutten, D.,Stokes,K.A.,& Armell, K.M. (2Ol7).Iwant to media multitask andIwant todo it now: Individual diferences in media multitasking predict delay of gratification and system-1 thinking: Principles and implications. Cognitive Research, 2(1), 8-18.   \nSeddon,A.L.,Law,A.S., Adams,A. M.,& Simmons,F.R. (2021). Individual diferences in media multitasking ability: The importance ofcognitive flexibility. Computers in Human Behavior Reports,3(1),Article e100068. https://doi.org/10.1016/j.chbr.2021.100068.   \nSherlock, M.,& Wagstaff,D.L. (2018). Exploring the relationship between frequency of instagram use, exposure to idealized images,and psychological well-being in women. Psychology of Popular Media Culture,8(4). 482- 490.   \nSherman,L.E.,Payton,A.A.,Hernandez,L. M., Greenfield,P.M.,& Dapretto,M. (2016).The powerof the like in adolescence: Efects of peer influence on neural and behavioral responses to social media.Psychological Science,27(7),1027-1035.   \nSherman,L.E.,Hermandez,L.M., Greenfield,P.M.,&Dapreto,M. (2018). What thebrain‘likes': Neuralcorelates of providing feedback on social media. Social Cognitive and Affective Neuroscience,13(7), 699-707.   \nShin,M.,Linke,A.,& Kemps,E. (202o). Moderate amounts of media multitasking are associated with optimal task performance and minimal mind wandering. Computers in Human Behavior， ll，Article e106422. https://doi.0rg/10.1016/j.chb.2020.106422.   \nSparrow,B.,Liu,J.,& Wegner,D. M. (2011). Google efcts on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043),476-478.   \nStrayer,D.L.,& Watson,J.M. (2o12).Supertaskers and the multitasking brain. Scientific American Mind,23(1), 22-29.   \nTandoc,E. C.,Ferrucci, P.,& Duffy,M. (2015).Facebook use, envy,and depression among collge students: is facebooking depressing? Computers in Human Behavior, 43,139-146.   \nTwenge,J.M.,& Campbell, W.K.(2019). Media use is linked to lower psychological well-being:Evidence from three datasets.Psychiatric Quarterly, 90(2),311-331.   \nTorous,J.,& Keshavan, M. (2016). The role of social media in schizophrenia: Evaluating risks,benefits,and potential. Current Opinion in Psychiatry,29(3),190-195.   \nUlen,F.,de nanoO.,heorell,T.,&Harmat,L.().Thepysiologyfeffortlesstention: Corelatesof state flowand flow proneness InB.Bruya (Ed.),Effrtless attention:A newperspective in thecognitive science of attention and action (pp.205-217, Chapter vii, 449 Pages). MIT Press, Cambridge, MA.   \nUlrich,M.,Keller,J.,Hoenig,K., Walter,C.,& Gron, G. (2014).Neural correlatesof experimentally induced flow experiences.NeuroImage,86,194-202.   \nUncapher, M.R.,& Wagner,A. D.(2O18). Minds and brains of media multitaskers: Current findings and future directions. Proceedings of the National Academy of Science,115(40), 9889-9896.   \nVan der Schuur,WinnekeA.,Baumgartner, S.E.,&Sumter,S.R. (2O19).Social media use,social media stress,and sleep: Examining cros-sectional and longitudinal relationships in adolescents. Health Communication,34(5), 552-559.   \nVannucci, A., Flannery,K. M.,& Ohannessian, C.M. (2017). Social media use and anxiety in emerging adults. Journal ofAffective Disorders,207,163-166.   \nWang, J.,Jackson,L.A., Gaskin,J.,& Wang, H. (2014).The effects ofsocial networking site(SNS)use on college students' friendship and wel-being. Computers in Human Behavior,37,229-236.   \nWiradhany,W.,& Koerts,J. (2O19).Everyday functioning-relatedcognitive correlates ofmedia multitasking: Amini meta-analysis.Media Psychology,Article e1685393. htp://dx.doi.org/10.1080/15213269.2019.1685393.   \nWiradhany, W.,& Nieuwenstein,M. R. (2017). Cognitive controlin media multitaskers: Two replication studies and a meta-analysis.Attention,Perception,& Psychophysics,79(8),2620-2641.   \nWu,T.C.,ScotD.,&Yang,C.(20l3).Advanced oraddicted?Exploring the relationshipofrecreation specialization to flow experiences and online game addiction. Leisure Sciences,35(3),203-217.   \nXie,W. (2014). Social network site use, mobile personal talk and social capital among teenagers. Computers in Human Behavior,41,228-235.   \nYoshida,K.,Sawamura,D.,Inagaki,Y.,Ogawa,K.,Ikoma,K.,& Sakai,S.(2O14).Brain activityduring the flow experience: A functional near-infrared spectroscopy study. Neuroscience Letters, 573,30-34.   \nZuelsdorf,M.L.,Engelman,C.D.,Friedman,E.M., Koscik,R.L.,Jonaitis,E.M.,Rue,A.L.,& Sager,M.A. (2013). Stressful events,social support,and cognitive function in middle-aged adults with a family historyof Alzheimer's disease. Journal of Aging and Health, 25(6), 944-959.   \nZuelsdorf,.L,Koscik,R.L,Okonkwo,O.C.,eppard,P.E.,Hermann,B.P.,Sager,M.A.,..Engelman, C.D. (2019).Social support and verbal interaction are differentially associated with cognitive function in midlife and older age. Aging, Neuropsychology, and Cognition,26(2),144-160.   \nZurcher, J.D., King, J., Calister, M.,Stockdale,L.,&Coyne,S.M. (2020).“Ican multitask\": The mediating role of media consumption on executive function's relationship to technoference atitudes.Computers in Human Behavior,113,Article e106498.http://dx.doi.0rg/10.1016/j.chb.2020.106498. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The impact of social media on executive functions: Beneficial or harmful ? ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "MA Yajie, ZHAO Xin, HE Xiangchun, REN Liping (KeyLaboratoryofBehavioralandMentalHealthofGansuprovince,NorthwestNormalUniversity,Lanzhou73oo,China) (² School ofPsychology,Northwest Normal University,Lanzhou 73oo7,China) ( SchoolofEducational Technical,NorthwestormalUniversityLanzhouo,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The effect of social media on executive functions remain controversial. it has to do with social media use intensity inverted U-shaped regulating effect on moderate social media use will generate social media flow, make the atention focused on the target information,and provides individuals with ongoing social rewards and emotional support, beneficial to perform functions, but high and low intensity use social media will damage the executive function. Future research in this area should examine the implications of using social media to further clarify the link between social media use and the development of executive functions.The research should include the dose-effect of social media on executive functions and the use of social media to perform functions, taking individuals' different cognitive levels into account. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: social media, executive function, flow experience ",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "type": "text",
+        "text": "Analysis of $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ Semileptonic Decays ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M.Ablikim1,.N.Achasov9,d,S.Amed14,X.C.Ai,O.bayrak,.Abrecht4,D.JAmbrose45,A.Amros50A,5,FFA1,   \nQ An4738,J.Z.Bai1,O.Baina23,R.BaldiniFerolA,YBan31,D.WBenet19，JVBenett,NBerger22,M.Berta0A   \nD.Beton4Fc5gerbBo3，R.ABere，H2C，OkiAat   \nG.F.Cao142,S.A.Ceti41B,JChai50C,J.FChang，G.Chelko $^ { 2 3 , b , c }$ ,G.Chen4,H.S.Chen142,J.C.Chen1,M.L.Chen138   \nS. Chen42,S.J.Chen29, X Chen1,3, X. R.Chen26, Y. B.Chen1,38, X. K. $\\mathrm { { C h u } ^ { 3 1 } }$ G.CibinettA,H.L.D3J.PD4,h,A.i4   \nD.Dedovich3，Z.Yg1,Ag2,Dee3，este5FDe5in ,C.Dong30,J. Dong1,38   \nLYDon42YDo42ZLDuSDu4，PFDuanJ.ZFanJFa3.a4.Fan47   \nRFa $\\mathrm { F u ^ { 1 } }$ Q.Gao1   \nX.L.Gao473YGZ.Ga4738IGrAK.Getzen0，L.GngW.XGog3，Wradl，Greco50AC.H.G   \nY.T.Gu12,Y.H.Guan,A.Q.Guo,L.B.Gu28,R.P.Gu,Y Gu,Y.P.Guo22,Z.Haddadi25,A.Hafner2,S.Han52,X.Q.Ho15   \nF.A.Harrs3,K.L.He142,F.HHeisius4,THeld4,Y.K.Heng138,42,THolmann,Z.L.Hou1,C.Hu28,H.Hu14, $\\mathrm { \\hat { H } u ^ { 1 , 3 8 , 4 2 } }$ ，   \nY $\\mathrm { H u } ^ { 1 }$ G.S.Huang4738J.Huang5，Huag3,.Zang2，ZLHuag7Hu，WegAderoJ   \nQ.P. $\\mathrm { J i ^ { 1 5 } }$ ,X. B. $\\mathrm { J i ^ { 1 , 4 2 } }$ ,X L Ji38,L.LJa,L.WJiag2,X.SJa4YJg0JBa,ZJ7,D.PJ4   \nS.Jin1,42,T.Johanon51,A.Julin44,N.Kalantar-Nayestanaki25,X.L. Kang1,XS.Kang30,M.Kavatsyuk25，B.C. $\\mathrm { K e ^ { 5 } }$ ,P. Kiese22,   \nR. Kliemt10,B.Kloss2,O.B.Kolu4B,B.Kopf,.Koice43,A.Kup51,W.Kuh24,J.S.Lange24,.Lra9,ri14,   \nH. Leithoff22，C.Leng50C, C.Li51,Cheng Li4738,D.M. $\\mathrm { L i } ^ { 5 4 }$ ,F Li1,38, F. Y Li31, G. $\\mathrm { L i } ^ { 1 }$ ,H. B.Li142,H.J.Li1,J.C.Li,Jin $\\mathrm { L i ^ { 3 2 } }$ ,K.Li13,   \nK.Li33,Lei $\\mathrm { L i ^ { 3 } }$ ,P. R. Li42.7,Q. Y. $\\mathrm { L i ^ { 3 3 } }$ ,T. Li33, W. D. $\\mathrm { L i ^ { 1 , 4 2 } }$ ,W. G. $\\mathrm { L i } ^ { 1 }$ ,X.L. Li33, X. N. Li1,38,X. Q. Li30, Y B. $\\mathrm { L i ^ { 2 } }$ Z. B. $\\mathrm { L i ^ { 3 9 } }$   \nH.Liang478YFLing6，YTag4,GRio1,D.XLn14,B.L34BJLi,C.LLiu,C.XLiu,D.L47，FHLi5，   \nFangLiu1,FengLu,HB.Liu12,H.H.Liu1,H.HLiu16,H.M.Liu1,42,J.Liu1,J.B.Liu4738,J.P.Liu52,J.Y.Liu1,K.Li40   \nK.Y Liu27,L.D.Liu31,PL.Liu38，Q.Liud2,S.B.Lu4738,X Liu26,YB.Liu3,Y YLiu30,Z.ALiu3842，ZhqiLiu2   \nH.Loehner25,Y.FLog31,X.CLou842,H.J.Lu17,J.G.Lu138,Y.Lu1,Y.PLu3，C.L.Luo28,M.X.Luo53TLu43   \nX L.Luo1,38，X R.Lyu42,F C.Ma7,H.L. $\\mathbf { M } \\mathrm { a } ^ { 1 }$ ,L.L. $\\mathrm { M a ^ { 3 3 } }$ ,M.M. Ma1, Q.M.Ma1,T Ma1,X N.Ma30, X.Y Ma1,38,Y M.Ma33,   \nF.E.Maas14,.Mga505CQ.A.Malik9，Y.JaZ.,SMrceo55，J.G.Mechendop25,G.Med   \nJ.Min138,T.J.Min1, R.E.Mitchell19, X.H.M3842，Y.J.M,C.MoralesMorales14,G.Morell20A,N.Yu.Mucid   \nH.Muramatsu4,Musil,YNefedoFNer101BkoevdZng3SNsar,S.L.N,XYNu,S.LO   \nQ.Ouyan42Pace7，pebPaePes,H.e7，Ketee   \nJ.L.Ping28, R. G. Ping1,42, R. Poling44 V. Prasad1,H. R. $\\mathrm { Q i ^ { 2 } }$ ,M Qi29,S. Qian138,C.F Qia42,L. Q. Qin33,N.Qi52,X. S.Qin1,   \nZ.HQin13Qi,KRshReder2ipka2GRo42CRose4,ua2,Ae   \nM.Savriei,C.Shier4,K.Shoeg51,W.Shan31,.So7,38,C.P.Sen2,P.X.Sen30,X.Y.Sen42,H.Y.g,   \nW.M.Song1,X.YS1,S.Sosi5A50C,S.Spataro50A50CG.X.Sun1,J.FSun5,S.S.Sun142,X H.Sun1,Y.J.Su473Z $\\mathrm { S u n ^ { 1 } }$ ，   \nZ.J Sun13,Z.T.un19,C.J.Tag36,X.Tang,LTapan4CE.H.Todike45,.Temes5,LUmanD,GSVaer43,B.Wang0   \nB.L.Wang42,D.Wang31,D.Y.Wang31,K.Wang1,38,L.L.Wang1,L.S.Wang1,M.Wang33,P.Wang1,P.L.Wang1,W.Wang138   \nW.P Wang4738,.FWang,Y.Wang7,YDWag4Y.FWan384YQ.Wang22,ZWangZGWang38Z.H.Wa7   \nZ.Y.Wang1,Z.Y.Wang1,T.Weber2,D.HWei1,P.Weidenkaff2,.P.Wen1,U.Wiedner4,.Wolke51,L.HWu1,L.JWu1,   \nZ.Wu1.38,L Xia4738,L.G.Xia0,Y. Xia8,D.Xiao,H.Xiao48,Z.J.Xiao28,Y.G.Xie138Y.H.XieQ.L Xi8G.F $\\mathrm { { X u ^ { 1 } } }$ ,J.J. $\\mathrm { { X u ^ { 1 } } }$ ，   \nL. Xu1,Q.J. $\\mathrm { { X u ^ { 1 3 } } }$ ,Q.N. $\\mathrm { { X u ^ { 4 2 } } }$ x.P. $\\mathrm { { X u ^ { 3 7 } } }$ LYan50A50CW.B.Ya478,W.CYan73，Y.H.Yan18,H.JYag4HXYag   \nL Yang52,YX.Yang,M.Ye,M.HYe7J.HYin1,Z.YYo39,B.X.Y8C. $\\mathrm { Y u ^ { 3 0 } }$ ,J.S.Yu26,C.ZYua42YYuan   \nA.Yuncu41Ba,A.A.Zfar9,YZeng18,Z.Zeng4738,B.XZhang,B.YZhang3,C.C.Zhang,D.H.Zhang,H.HZang   \nH.YZhang38Zhang,JJ.Zhang,J.LZang,JQZhang,JZhang3842Y.Zhang,JZZang42,KZha,Za,   \nS.Q.Zhang30,X.YZhang3,YZhang1,YZhang1,Y.H.Zhang，YN.Zhang42,YZhang47，YuZhang42,Z.HZhang   \nZ.P.Zhang47,ZYZhang52,G.Zhao,J.W.Zhao138J.YZhao,I.Z.Zhao1,38,LeiZhao4738,LingZhao,M.G.Zhao30,Qhao1,   \nQ.W.Zhao,S.J.Zao4,T.C.Zao,YB.Z38ZG.Zo4738,A.Zemchg3bB.Zheng48,14J.PZheng38WJ.Zg   \nY H.Zheng42,B.Zhong28,L.Zhou8,X.Zhou2,X K.Zhou4738,X.R.Zhou478,X.YZhou,K.Zhu1,K.JZu3842.Zhu   \nS.H.Zhu46,X.L.Zu4,Y.C.Zu4738,Y.S.Z142,Z.A.Zu142,J.Zang38,L.Zoti5A5C,B.S.Zou,J.H.Zo ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(BESII Collaboration) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ 1$ Institute ofHigh Energy Physics,Beijing 100049,People's Republic of China 2 Beihang University,Beijing 10o191,People'sRepublicofChina （20 $^ 3$ BeijingInstitutefetroceiclhoee'epbc 4 Bochum Ruhr-University,D-44780 Bochum, Germany 5 Carnegieelln Uversityittsburghennsyvania5U （204号 $^ 6$ Central China Normal University, Wuhan 430079,People's Republic ofChina （ $^ 7$ China CenterofdvancedcienceandTchnologyBeijing090People'sRepublicoin $^ { 8 }$ COMASeef （20 $^ { \\mathrm { ~ 9 ~ } }$ G.I. BudkerInstituteofNuclearhysicsSBRA(),Novoibirsk 630usia （204 $^ { 1 0 }$ GSI Helmholzcentreforavneachb4msta （2 $^ { 1 1 }$ Guangxi Normal University, Guilin 541004,People's RepublicofChina $^ { 1 2 }$ Guangxi Univesityngoeple'sepublicin $^ { 1 3 }$ HangzhouNoalUivesityngzhou6,eople'sepublicin （204号 $^ { 1 4 }$ Helmholtz Istitute inzJn-JoacmBecher-Weg45D55o99inz （204号 $^ { 1 5 }$ Henan Normal University, Xinxiang 453007,People's RepublicofChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 6 }$ Henan University of Science and Technology, Luoyang 4/IOos,People's Republic of China   \n（204 $^ { 1 7 }$ Huangshan Colege,Huangshan2450oo,People's Republicofhina   \n（204号 $^ { 1 8 }$ HunanUniveit2esb   \n$^ { 1 9 }$ IndianaUi   \n（204号 $^ { 2 0 }$ (A)INFNl   \n（ $^ { 2 1 }$ (A)INFN   \n（ $^ { 2 2 }$ JohannesGutebergUivesityfinzJoaJochiBechrWeg45509in   \n$^ { 2 3 }$ Joint InstitutefoNuceareeach98ubocowegio   \n（ $^ { 2 4 }$ Justub   \n$^ { 2 5 }$ KVI-CART,UivesityfrogenN977AGrogeneN   \n$^ { 2 6 }$ LanzhouUvetle'sb   \n27LiaoningUvesityeang6le'sepbic   \n（ $^ { 2 8 }$ NanjingNoaUiveiyleseb   \n（204号 $^ { 2 9 }$ Nanjing University,Nanjing210o93,People'sRepublicofina   \n（204号 $^ { 3 0 }$ Nankai Univesityjile'seb   \n$^ { 3 1 }$ Peking Univesitlebc   \nT $^ { 3 2 }$ Seoul NatolUiyl   \n33ShandongUie'sb   \n$^ { 3 4 }$ ShanghiJogsityage'sub   \n35Shanxi Universityuano,People'sepublic   \n36SichuanUnivestChngdueplesepubcC   \n37SoochowUvsityzou5ole'spub   \n38StateKeyfeHeb   \n： $^ { 3 9 }$ SunYat-SenUivesityGuagzhou75,eople'sepublicofa   \n， $^ { 4 0 }$ TsinghuaUivsitye'sb   \n41 (A)Anarii   \nUniversity6059 Bursa,Turkey; (D)Near EastUniversityNicosia,North Cyprus,Mersin0,urkey   \n$^ { 4 2 }$ Universityofecadyfencegoplesepub   \n） $^ { 4 3 }$ UniversityofHawaii,onoluluHawaii96822UA   \n$^ { 4 4 }$ UniversityofneotneaolisesotaU   \n$^ { 4 5 }$ UniversityofRohesterRochsterNework4U   \n（204 $^ { 4 6 }$ UniversitofiencendTechnologyLiaoningAshanl14People'sRepublicfin   \n$^ { 4 7 }$ UniversityofcienceandTechnoogyofinaHefei306eple'sepublicfin   \n$^ { 4 8 }$ Universityofouthinengyeople'sepubic   \n$^ { 4 9 }$ Universityfejabe49t   \n(A)Univei(   \nItaly   \n$^ { 5 1 }$ UppsalaUnivesityox16SE72Upae   \n52WuhanUnivesityub   \n$^ { 5 3 }$ Zhejiang Uivesitngzou0epe'epubc   \n54 Zhengzhou UniversityZhengzhou45ool,People's RepublicfCina ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\boldsymbol { \\mathscr { a } }$ Also at Bogazici University,34342 Istanbul,Turkey （20 $^ b$ Also at the oscow InstituteofPhysics and TechnologyMoscow1417oo,Russia （20 $c$ Also atthe Functional ElectronicsaboratoryTomskStateUniversityomsk,6345osi （20 $^ d$ Also attheNovosibirsk State University,Novosibirsk,63oo90,sia （20 $e$ Also at the NRC \"Kurchatov Institute\",PNPI,18830,Gatchina,Russia fAlso at IstanbulArel University,34295 Istanbul,Turkey （204号 $g$ Also at Goethe University Frankfurt, 60323 Frankfurt am Main, Germany $\\boldsymbol { h }$ AlsoatKeyLbratoyforticlectroidoostofucatiogaKeyboorice Physics and Cosmology; Institute of Nuclear and Particle Physics,Shanghai 20o240,People'sRepublicof China i Government Colege Women University, Sialkot - 5131o.Punjab,Pakistan. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Dated: March 28,2017) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using $2 . 9 3 ~ \\mathrm { f b } ^ { - 1 }$ of data taken at $3 . 7 7 3 \\ \\mathrm { G e V }$ with the BESIII detector operated at the BEPCII collider, we study the semileptonic decays $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ . We measure the absolute decay branching fractions ${ \\mathcal B } ( D _ { . } ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 8 . 6 0 \\pm 0 . 0 6 \\pm 0 . 1 5 ) \\times 1 0 ^ { - 2 }$ and $B ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 3 . 6 3 \\pm 0 . 0 8 \\pm$ $0 . 0 5 ) \\times 1 0 ^ { - 3 }$ ,where the first uncertainties are statistical and the second systematic.We also measure the differential decay rates and study the form factors of these two decays.With the values of $| V _ { c s } |$ and $| V _ { c d } |$ from Particle Data Group fits assuming CKM unitarity,we obtain the values of the form factors at $q ^ { 2 } = 0$ $f _ { + } ^ { K } ( 0 ) =$ $0 . 7 2 5 \\pm 0 . 0 0 4 \\pm 0 . 0 1 2$ and $f _ { + } ^ { \\pi } ( 0 ) = 0 . 6 2 2 \\pm 0 . 0 1 2 \\pm 0 . 0 0 3$ . Taking input from recent lattice QCD calculations of these form factors,we determine values of the CKM matrix elements $| V _ { c s } | = 0 . 9 4 4 \\pm 0 . 0 0 5 \\pm 0 . 0 1 5 \\pm 0 . 0 2 4$ （204号 and $| V _ { c d } | = 0 . 2 1 0 \\pm 0 . 0 0 4 \\pm 0 . 0 0 1 \\pm 0 . 0 0 9$ ,where the third uncertainties are theoretical. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the Standard Model (SM) of particle physics,the mixing between the quark flavours in the weak interaction is parameterizedbythe Cabibbo-Kobayashi-Maskawa(CKM) matrix, which is a $3 \\times 3$ unitary matrix.Since the CKM matrix elements are fundamental parametersof the SM,precise determinations of these elements are very important for tests of the SM and searches for New Physics (NP) beyond the SM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the effects of strong and weak interactions can be well separated in semileptonic $D$ decays,these decays are excellent processes from which we can determine the magnitude of the CKM matrix element $V _ { c s ( d ) }$ . In the SM, neglecting the lepton mass,the differential decay rate for $D ^ { + } ~ \\to ~ P e ^ { + } \\nu _ { e }$ （ $\\bar { \\cal P } = \\bar { \\cal K } ^ { 0 }$ or $\\pi ^ { 0 }$ ) is given by [1] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d \\Gamma } { d q ^ { 2 } } = X \\frac { G _ { F } ^ { 2 } } { 2 4 \\pi ^ { 3 } } | V _ { c s ( d ) } | ^ { 2 } p ^ { 3 } | f _ { + } ( q ^ { 2 } ) | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $G _ { F }$ is the Fermi constant, $V _ { c s ( d ) }$ is the corresponding CKM matrix element, $p$ is the momentum of the meson $P$ in the rest frame of the $D$ meson, $q ^ { 2 }$ is the squared four momentum transfer,i.e.,the invariant mass of the lepton and neutrino system,and $f _ { + } ( q ^ { 2 } )$ is the form factor which parameterizes the effect of the strong interaction. In Eq.(1), $X$ is a multiplicative factor due to isospin,which equals to 1 for the decay ${ \\mathrm { \\bar { \\cal D } } } ^ { + } \\to { \\bar { \\cal K } } ^ { 0 } e ^ { + } \\nu _ { e }$ and $1 / 2$ for the decay $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this article, we report the experimental study of $D ^ { + } $ $\\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays using a $2 . 9 3 \\mathrm { f b ^ { - 1 } }$ [2] data set collected at a center-of-mass energy of $\\sqrt { s } = 3 . 7 7 3 \\mathrm { G e V }$ with the BESIII detector operated at the BEPCII collider. Throughout this paper, the inclusion of charge conjugate channels is implied. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The paper is structured as follows.We briefly describe the BESIII detector and the Monte Carlo(MC） simulation in Sec.II. The event selection is presented in Sec.III. The measurements of the absolute branching fractions and the differential decayrates are describedin Sec.IV andV,respectively.In Sec.VIwe discuss the determination offormfactors from the measurements of decay rates,and finally, in Sec.VI, we present the determination of the magnitudes of the CKM matrix elements $V _ { c s }$ and $V _ { c d }$ ．Abrief summary is given in Sec. VIII. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. BESIIIDETECTOR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The BESIII detector is a cylindrical detector with a solidangle coverage of $9 3 \\%$ of $4 \\pi$ ,designed for the study of hadron spectroscopy and $\\tau$ -charm physics.The BESIII detector is described in detail in Ref.[3].Detector components particularly relevant for this work are (1) the main drift chamber (MDC) with 43 layers surrounding the beam pipe,which performs precise determination of charged particle trajectories and provides a measurement of the specific ionization energy loss $( d E / d x )$ ; (2)a time-of-flight system(TOF) made of plastic scintillator counters,which are located outside of the MDC and provide additional charged particle identification information;and(3) the electromagnetic calorimeter(EMC) consisting of $6 2 4 0 \\mathrm { C s I ( T l ) }$ crystals,used to measure the energy of photons and to identify electrons. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A GEANT4-based[4] MC simulation software [5],which contains the detector geometry description and the detector response,is used to optimize the event selection criteria, study possible backgrounds,and determine the reconstruction efficiencies.The production of the $\\psi ( 3 7 7 0 )$ ,initial state radiation production of $\\psi ( 3 6 8 6 )$ and $J / \\psi$ ,as well as the continuum processes of $e ^ { + } e ^ { - } \\to \\tau ^ { + } \\tau ^ { - }$ and $e ^ { + } e ^ { - } \\to q \\bar { q }$ $( q = u , d , s )$ are simulated by the MC event generator KKMC [6]; the known decay modes are generated by EVTGEN [7] with the branching fractions set to the world average values from the Particle Data Group (PDG) [8]; while the remaining unknown decay modes are modeled by LUNDCHARM [9]. We also generate signal MC events consisting of $\\psi ( 3 7 7 0 ) \\to D ^ { + } D ^ { - }$ events in which the $D ^ { - }$ meson decays to all possible final states and the $D ^ { + }$ meson decays to a hadronic or a semileptonic decay final state being investigated.In the generation of signal MC events, the semileptonic decays $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } ~ \\to ~ \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ are modeled by the the modified pole parametrization (see Sec. VIA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. EVENTRECONSTRUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The center-of-mass energy of $3 . 7 7 3 \\mathrm { G e V }$ corresponds to the peak of the $\\psi ( 3 7 7 0 )$ resonance,which decays predominantly into $D \\bar { D }$ （ $D ^ { 0 } \\bar { D } ^ { 0 }$ or $D ^ { + } D ^ { - }$ ） meson pairs. In events where a $D ^ { - }$ meson is fully reconstructed, the remaining particles must all be decay products of the accompanying $D ^ { + }$ meson. In the following,the reconstructed meson is called “tagged $D ^ { - } { } ^ { , , }$ or“ $\\cdot D ^ { - } ~ \\mathrm { t a g } ^ { , }$ . In a tagged $D ^ { - }$ data sample,the recoiling $D ^ { + }$ decays to $\\breve { K } ^ { 0 } e ^ { + } \\nu _ { e }$ or $\\bar { \\pi ^ { 0 } } e ^ { + } \\nu _ { e }$ can be cleanly isolated and used to measure the branching fraction and differential decay rates. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A．Selection of $D ^ { - }$ tags ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We reconstruct $D ^ { - }$ tags in the following nine hadronic modes: $D ^ { - } \\to K ^ { + } \\pi ^ { - } \\pi ^ { - }$ ， $D ^ { - } \\to K _ { S } ^ { 0 } \\pi ^ { - }$ ， $\\bar { D } ^ { - } \\to K _ { S } ^ { 0 } K ^ { - }$ $D ^ { - } \\to K ^ { + } K ^ { - } \\pi ^ { - }$ ， $D ^ { - } \\to K ^ { + } \\pi ^ { - } \\pi ^ { - } \\tilde { \\pi ^ { 0 } }$ ， $D ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\pi ^ { - } ^ { ~ 1 }$ $D ^ { - } \\ \\to \\ K _ { S } ^ { 0 } \\pi ^ { - } \\pi ^ { 0 }$ ， $D ^ { - } \\ \\to \\ K ^ { + } \\pi ^ { - } \\pi ^ { - } \\pi ^ { - } \\pi ^ { + }$ ，and $D ^ { - } $ $K _ { S } ^ { 0 } \\pi ^ { - } \\pi ^ { - } \\pi ^ { \\tilde { + } }$ .The selection criteria of $D ^ { - }$ tags used here are the same as those described in Ref.[1O]. Tagged $D ^ { - }$ mesons are identified by their beam-energy-constrained mass $M _ { \\mathrm { B C } } \\equiv \\sqrt { E _ { \\mathrm { b e a m } } ^ { 2 } / c ^ { 4 } - | \\vec { p } _ { \\mathrm { t a g } } | ^ { 2 } / c ^ { 2 } }$ ,where $E _ { \\mathrm { { b e a m } } }$ is the beam energy,and $\\vec { p _ { \\mathrm { t a g } } }$ is the measured 3-momentum of the tag candidate 2.We also use the variable $\\Delta E \\equiv E _ { \\mathrm { t a g } } - E _ { \\mathrm { b e a m } }$ where $E _ { \\mathrm { t a g } }$ is the measured energy of the tag candidate,to select the $D ^ { - }$ tags.Each tag candidate is subjected to a tag mode-dependent $\\Delta E$ requirement as shown in Table I.If there are multiple candidates per tag mode for an event, the one with the smallest value of $\\lvert \\Delta E \\rvert$ is retained. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $M _ { \\mathrm { B C } }$ distributions for the nine $D ^ { - }$ tag modes are shown in Fig.1.A binned extended maximum likelihood fit is used to determine the number of tagged $D ^ { - }$ events for each of the nine modes.We use the MC simulated signal shape convolved with a double-Gaussian resolution function to represent the beam-energy-constrained mass signal for the $D ^ { - }$ daughter particles,and an ARGUS function [11] multiplied by a third-order polynomial[12,13] to describe the background shape for the $M _ { \\mathrm { B C } }$ distributions.In the fits all parameters of the double-Gaussian function,the ARGUS function,and the polynomial function are left free.The solid lines in Fig.1 show the best fits,while thedashedlinesshow the fitted background shapes.The numbers of the $D ^ { - }$ tags $( N _ { \\mathrm { t a g } } )$ within the $M _ { \\mathrm { B C } }$ signal regions given by the two vertical lines in Fig.1 are summarized in TableI.In total,we find $1 7 0 3 0 5 4 \\pm 3 4 0 5$ single $D ^ { - }$ tags reconstructed in data.The reconstruction efficiencies of the single $D ^ { - }$ tags, $\\epsilon _ { \\mathrm { t a g } }$ ,as determined with the MC simulation,are shown in TableI. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Reconstruction of semileptonic decays ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Candidates for semileptonic decays are selected from the remaining tracks in the system recoiling against the $D ^ { - }$ tags. The $d E / d x$ ,TOF and EMC measurements (deposited energy and shape of the electromagnetic shower） are combined to form confidence levels for the $e$ hypothesis $( C L _ { e } )$ ，the $\\pi$ hypothesis $( C L _ { \\pi } )$ ,and the $K$ hypothesis $( C L _ { K } )$ . Positron candidates are required to have $C L _ { e }$ greater than $0 . 1 \\%$ and to satisfy $C L _ { e } / ( C L _ { e } + C L _ { \\pi } + C L _ { K } ) > 0 . 8$ 、In addition,we include the 4-momenta of near-by photons within $5 ^ { \\circ }$ of the direction of the positron momentum to partially account for final-state-radiation energy losses (FSR recovery). The neutral kaon candidates are built from pairs of oppositely charged tracks that are assumed to be pions.For each pair of charged tracks,a vertex fit is performed and the resulting track parameters are used to calculate the invariant mass, $M ( \\pi ^ { + } \\pi ^ { - } )$ .If $M ( \\pi ^ { + } \\pi ^ { - } )$ is in the range $( 0 . 4 8 4 , 0 . 5 1 2 ) \\mathrm { G e V } / c ^ { 2 }$ ,the $\\pi ^ { + } \\pi ^ { - }$ pair is treated as a $K _ { S } ^ { 0 }$ candidate and is used for further analysis. The neutral pion candidates are reconstructed via the $\\pi ^ { 0 }  \\gamma \\gamma$ decays. For the photon selection, we require the energy of the shower deposited in the barrel (end-cap) EMC greater than 25(5O)MeV and the shower time be within 700 ns of the event start time.In addition,the angle between the photon and the nearest charged track is required to be greater than $1 0 ^ { \\circ }$ . We accept the pair of photons as a $\\pi ^ { 0 }$ candidate if the invariant mass of the two photons, $M ( \\gamma \\gamma )$ is in the range $( 0 . 1 1 0 , 0 . 1 5 0 ) \\mathrm { G e V } / c ^ { 2 }$ . A1-Constraint (1-C) kinematic fit is then performed to constrain $M ( \\gamma \\gamma )$ to the $\\pi ^ { 0 }$ nominal mass,and the resulting 4-momentum of the candidate $\\pi ^ { 0 }$ is used for further analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We reconstruct the $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ decay by requiring exactly three additional charged tracks in the rest of the event. One track with charge opposite to that of the $D ^ { - }$ tag is identified as a positron using the criteria mentioned above,while the other two oppositely charged tracks form a $K _ { S } ^ { 0 }$ candidate. For the selection of the $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decay, we require that thereis only one additional charged trackconsistentwith the positron identification criteria and at least two photons that are used to form a $\\pi ^ { 0 }$ candidate in the rest of the event. If there are multiple $\\pi ^ { 0 }$ candidates,the one with the minimum $\\chi ^ { 2 }$ from the 1-C kinematic fit is retained. In order to additionally suppress background due to wrongly reconstructed or background photons,the semileptonic candidate is further required to have the maximum energy of any of the unused photons, $E _ { \\gamma , \\mathrm { { m a x } } }$ ,less than $3 0 0 { \\mathrm { M e V } } .$ （ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the neutrino is undetected,the kinematic variable $U _ { \\mathrm { m i s s } } \\equiv E _ { \\mathrm { m i s s } } - c | \\vec { p _ { \\mathrm { m i s s } } } |$ is used to obtain the information about the missing neutrino,where $E _ { \\mathrm { m i s s } }$ and $\\vec { p _ { \\mathrm { m i s s } } }$ are,respectively,the total missing energy and momentum in the event. The missing energy is computed from $E _ { \\mathrm { m i s s } } = E _ { \\mathrm { b e a m } } - E _ { P } -$ $E _ { e ^ { + } }$ ，where $E _ { P }$ and $E _ { e ^ { + } }$ are the measured energies of the pseudoscalar meson and the positron,respectively. The missing momentum $\\vec { p _ { \\mathrm { m i s s } } }$ is given by $\\vec { p } _ { \\mathrm { m i s s } } = \\vec { p } _ { D ^ { + } } - \\vec { p } _ { P } - \\vec { p _ { e ^ { + } } }$ where $\\vec { p } _ { D ^ { + } }$ ， $\\vec { p _ { P } }$ and $\\vec { p _ { e ^ { + } } }$ are the 3-momenta of the $D ^ { + }$ meson,the pseudoscalar meson and the positron,respectively. The 3-momentum of the $D ^ { + }$ meson is taken as $\\begin{array} { r l } { \\vec { p } _ { D ^ { + } } } & { { } = } \\end{array}$ $- \\hat { p } _ { \\mathrm { t a g } } \\sqrt { ( E _ { \\mathrm { b e a m } } / c ) ^ { 2 } - ( m _ { D ^ { + } } c ) ^ { 2 } }$ ,where $\\hat { p } _ { \\mathrm { t a g } }$ is the direction of the momentum of the single $D ^ { - }$ tag,and $m _ { D ^ { + } }$ is the $D ^ { + }$ mass.If the daughter particles from a semileptonic decay are correctly identified, $U _ { \\mathrm { m i s s } }$ is near zero, since only one neutrino is missing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the $U _ { \\mathrm { m i s s } }$ distributions for the semileptonic candidates,where the potential backgrounds arise from the $D \\bar { D }$ processes other than signal, $\\psi ( 3 7 7 0 ) \\to \\mathrm { n o n } \\lnot D \\bar { D }$ decays, $e ^ { + } e ^ { - } \\to \\tau ^ { + } \\tau ^ { - }$ ,continuum light hadron production, initial state radiation return to $J / \\psi$ and $\\psi ( 3 6 8 6 )$ ．The background for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ is dominated by $D ^ { + } \\stackrel { \\cdot } {  } \\bar { K } ^ { * } ( 8 9 2 ) ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\bar { K } ^ { 0 } \\mu ^ { + } \\nu _ { \\mu }$ .For $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ , the background is mainly from $D ^ { + }  \\dot { K } _ { L } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to K _ { S } ^ { 0 } ( \\pi ^ { 0 } \\pi ^ { 0 } ) \\bar { e } ^ { + } \\nu _ { e }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Following the same procedure described in Ref.[13],we perform a binned extended maximum likelihood fit to the $U _ { \\mathrm { m i s s } }$ distribution for each channel to separate the signal from the background component. The signal shape is constructed froma convolution of a MC determined distribution and a Gaussian function that accounts for the difference of the $U _ { \\mathrm { m i s s } }$ resolutions between data and MC simulation. The background shape is formed from MC simulation.From the fits shown as the overlaid curves in Fig.2,we obtain the yields of the observed signal events to be $\\bar { N _ { \\mathrm { o b s } } } ( D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\bar { \\nu } _ { e } ) =$ $2 6 0 0 8 \\pm 1 6 8$ and $N _ { \\mathrm { o b s } } ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) = 3 4 0 2 \\pm 7 0$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To check the quality of the MC simulation,we examine the distributions of the reconstructed kinematic variables. Figure 3 shows the comparisons of the momentum distributions of data and MC simulation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dbb94d6ec573cea892bc4d5fdaf5d77beb59e3d573d8f3debf8bb80eb9404cf.jpg",
+        "table_caption": [
+            "TABLE I. The $\\Delta E$ requirements,the $M _ { \\mathrm { B C } }$ signal regions,the yields of the $D ^ { - }$ tags $( N _ { \\mathrm { t a g } } )$ reconstructed in data,and the reconstruction efficiency $( \\varepsilon _ { \\mathrm { t a g } } )$ of $D ^ { - }$ tags.The uncertainties are statistical only "
+        ],
+        "table_footnote": [
+            "Sum ",
+            "1703054 ± 3405 "
+        ],
+        "table_body": "<html><body><table><tr><td>Tag mode</td><td></td><td>△E (MeV)</td><td>MBc (GeV/c²)</td><td>Ntag</td><td>Etag (%)</td></tr><tr><td></td><td>D→K+ππ</td><td>(-45,45)</td><td>(1.8640, 1.8770)</td><td>806830 ±1070</td><td>51.8 ± 0.1</td></tr><tr><td></td><td>D-→Kgπ−</td><td>(-45,45)</td><td>(1.8640,1.8770)</td><td>102755 ± 372</td><td>56.2 ± 0.2</td></tr><tr><td></td><td>D−→KgK-</td><td>(-45,45)</td><td>(1.8650,1.8770)</td><td>19566 ± 185</td><td>52.1 ± 0.5</td></tr><tr><td></td><td>D−→K+K-π−</td><td>(-50,50)</td><td>(1.8650,1.8780)</td><td>68216 ± 966</td><td>41.2 ± 0.3</td></tr><tr><td></td><td>D−→K+π-ππ</td><td>(-78,78)</td><td>(1.8620,1.8790)</td><td>271571 ± 2367</td><td>27.3 ± 0.1</td></tr><tr><td></td><td>D− →π+ππ−</td><td>(-45,45)</td><td>(1.8640,1.8770)</td><td>32150 ± 371</td><td>56.9 ±0.7</td></tr><tr><td></td><td>D−→Kgπ-π</td><td>(-75,75)</td><td>(1.8640,1.8790)</td><td>245303 ± 1273</td><td>31.3 ± 0.1</td></tr><tr><td></td><td>D²→K+π π π π+</td><td>(-52,52)</td><td>(1.8630, 1.8775)</td><td>30923 ± 733</td><td>22.1 ± 0.2</td></tr><tr><td></td><td>D→Kgπππ+</td><td>(-50,50)</td><td>(1.8640, 1.8770)</td><td>125740 ± 1203</td><td>33.0 ± 0.2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/436f43271f0e5e62142c539a15ac94cc7c333f4c6efe04c0a2c58cd3a5555512.jpg",
+        "img_caption": [
+            "FIG.1.Fits (solid lines) to the $M _ { \\mathrm { B C } }$ distributions (points with error bars) in data for nine $D ^ { - }$ tag modes. The two vertical lines show the tagged D-massregions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/987df1ee9f29e0e4560c2aec304e8f0320cf88081c1f091c64f30734b6b3344b.jpg",
+        "img_caption": [
+            "FIG.2．Distributions of $U _ { \\mathrm { m i s s } }$ for the selected (a) $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and (b) $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ candidates (points with error bars） with fit projections overlaid (solid lines).The dashed curves show the background determined by the fit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. BRANCHINGFRACTIONMEASUREMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.Determinations of branchingfractions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The branching fraction of the semileptonic decay $D ^ { + } $ $P e ^ { + } \\nu _ { e }$ is obtained from ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { B } ( D ^ { + } \\to P e ^ { + } \\nu _ { e } ) = \\frac { N _ { \\mathrm { o b s } } ( D ^ { + } \\to P e ^ { + } \\nu _ { e } ) } { N _ { \\mathrm { t a g } } \\varepsilon ( D ^ { + } \\to P e ^ { + } \\nu _ { e } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\mathrm { t a g } }$ is the number of $D ^ { - }$ tags (see Sec. IIIA), $N _ { \\mathrm { o b s } } ( D ^ { + } \\ \\stackrel { \\sim } {  } \\ P e ^ { + } \\nu _ { e } )$ is the number of observed $D ^ { + } $ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b65f76ea828a127562e798023c1d40d6bc260d282368b265f2c011e30eb91e77.jpg",
+        "img_caption": [
+            "FIG.3.Momentum distributions of selected events(with $| U _ { \\mathrm { m i s s } } | <$ $\\mathrm { 6 0 \\mathbf { M e } V ) }$ for(a) $\\bar { K } ^ { 0 }$ ， $( { \\mathfrak { b } } ) e ^ { + }$ from $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ ，（c) $\\pi ^ { 0 }$ ,and (d) $e ^ { + }$ from $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ . The points with error bars represent data, the (blue)open histograms are MC simulated signal plus background, the shaded histograms are MC simulated background only. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$P e ^ { + } \\nu _ { e }$ decays within the $D ^ { - }$ tags (see Sec. IIB),and $\\varepsilon ( D ^ { + } \\to P e ^ { + } \\nu _ { e } )$ is the reconstruction efficiency. Here the $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ efficiency includes the $K _ { S } ^ { 0 }$ fraction of the ${ \\bar { K } } ^ { 0 }$ and $K _ { S } ^ { 0 }  \\pi ^ { + } \\pi ^ { - }$ branching fraction, the $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ efficiency includes the $\\pi ^ { 0 }  \\gamma \\gamma$ branching fraction [8]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to the difference in the multiplicity, the reconstruction efficiency varies slightly with the tag mode. For each tag mode $i$ ,the reconstruction efficiency is given by $\\varepsilon ^ { i } \\ =$ $\\varepsilon _ { \\mathrm { t a g , S L } } ^ { i ^ { - } } / \\varepsilon _ { \\mathrm { t a g } } ^ { i }$ ，where theeficiency for simultaneously finding the $D ^ { + } \\to P e ^ { + } \\nu _ { e }$ semileptonic decay and the $D ^ { - }$ meson tagged with mode $i$ $\\varepsilon _ { \\mathrm { t a g , S L } } ^ { i }$ , is determined using the signal MC sample, and $\\varepsilon _ { \\mathrm { t a g } } ^ { i }$ is the corresponding tagefficiency shown in Table I. These efficiencies are listed in Table II. The reconstruction efficiency for each tag mode is then weighted according to the corresponding tag yield in data to obtain the average reconstruction efficiency, $\\begin{array} { r } { \\bar { \\varepsilon } = \\sum _ { i } ( N _ { \\mathrm { t a g } } ^ { i } \\varepsilon ^ { i } ) / N _ { \\mathrm { t a g } } . } \\end{array}$ as listed in the last row in Table II. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using the control samples selected from Bhabha scattering and $D \\bar { D }$ events,we find that there are small discrepancies between data and MC simulation in the positron tracking efficiency,positron identification efficiency, $K _ { S } ^ { 0 }$ and $\\pi ^ { 0 }$ reconstruction efficiencies.We correct forthese differences by multiplying the raw efficiencies $\\varepsilon ( D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } )$ and $\\bar { \\varepsilon ( D ^ { + } \\ {  } \\ \\bar { \\pi } ^ { 0 } \\bar { e } ^ { + } \\nu _ { e } ) }$ determined in MC simulation by factors of 0.9957 and O.9910,respectively. The corrected efficiencies are found to be $\\epsilon ^ { \\prime } ( D ^ { + }  \\bar { K } ^ { 0 } e ^ { + } \\bar { \\nu } _ { e } ) = ( 1 7 . 7 5 \\pm 0 . 0 3 ) \\%$ and $\\epsilon ^ { \\prime } ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 5 5 . 0 2 \\pm 0 . 1 0 ) \\%$ ,where the uncertainties are only statistical. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inserting the corresponding numbers into Eq.(2) yields the absolute decay branching fractions ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal B } ( D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 8 . 6 0 \\pm 0 . 0 6 \\pm 0 . 1 5 ) \\times 1 0 ^ { - 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal B } ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 3 . 6 3 \\pm 0 . 0 8 \\pm 0 . 0 5 ) \\times 1 0 ^ { - 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the first uncertainties are statistical and the second systematic. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B.Systematic uncertainties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The systematic uncertainties in the measured branching fractions of $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays include the following contributions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Number of $D ^ { - }$ tags. The systematic uncertainty of the number of $D ^ { - }$ tags is $0 . 5 \\%$ [10]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$e ^ { + }$ tracking efficiency. Using the positron samples selected from radiative Bhabha scattering events, the $e ^ { + }$ tracking efficiencies are measured in data and MC simulation.Considering both the polar angle and momentum distributions of the positrons in the semileptonc decays,a correction factor of $1 . 0 0 2 1 \\pm 0 . 0 0 1 9$ 1 $( 1 . 0 0 1 1 \\pm 0 . 0 0 1 5 )$ is determined for the $e ^ { + }$ tracking efficiency in the branching fraction measurement of $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ $( D ^ { + }  \\pi ^ { 0 } e ^ { + } \\nu _ { e , }$ ） decay.This correction is applied and an uncertainty of $0 . 1 9 \\%$ $( 0 . 1 5 \\% )$ is used as the corresponding systematic uncertainty. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$e ^ { + }$ identification effciency. Using the positron samples selected from radiative Bhabha scattering events,we measure the $e ^ { + }$ identification efficiencies in data and MC simulation. Taking both the polar angle and momentum distributions of the positrons in the semileptonic decays into account,a correction factor of $0 . 9 9 9 3 \\pm 0 . 0 0 1 6$ 1 $\\langle 0 . 9 9 8 4 \\pm 0 . 0 0 1 4 \\rangle$ is determined for the $e ^ { + }$ identification efficiency in the measurement of $B ( D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } )$ 0 ${ \\cal B } ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) ;$ .This correction is applied,and an amount of $0 . 1 6 \\%$ $( 0 . 1 4 \\% )$ is assigned as the corresponding systematic uncertainty. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$K _ { S } ^ { 0 }$ and $\\pi ^ { 0 }$ reconstruction efficiency. The momentumdependent efficiencies for $K _ { S } ^ { 0 } ( \\bar { \\pi } ^ { 0 } )$ reconstruction in data and in MC simulation are measured with $D \\bar { D }$ events.Weighting these efficiencies according to the $K _ { S } ^ { 0 } ~ ( \\pi ^ { 0 } )$ momentum distribution in the semileptonic decay leads to a difference of $( - 0 . 5 7 \\pm 1 . 6 2 ) \\%$ 1 $( - 0 . 8 5 \\pm 1 . 0 0 ) \\% )$ between the $K _ { S } ^ { 0 } ~ ( \\pi ^ { 0 } )$ reconstruction efficiencies in data and MC simulation.Since we correct for the systematic shift, the uncertainty of the correction factor, $1 . 6 2 \\%$ （204号 $( 1 . 0 0 \\% )$ , is taken as the corresponding systematic uncertainty in the measured branching fraction of $\\dot { D } ^ { + }  \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ 1 $\\langle D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e , }$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Requirement on $E _ { \\gamma , \\mathrm { { m a x } } }$ .By comparing doubly tagged $D \\bar { D }$ hadronic decay events in the data and MC simulation,the systematic uncertainty due to this source is estimated to be $0 . 1 \\%$ 业 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fit to the $U _ { \\mathrm { m i s s } }$ distribution. To estimate the uncertainties due to the fits to the $U _ { \\mathrm { m i s s } }$ distributions,we refit the $U _ { \\mathrm { m i s s } }$ distributions by varying the bin size and the tail parameters (which are used to describe the signal shapes and are determined from MC simulation) to obtain the number of signal events from $D ^ { + }$ semileptonic decays. We then combine the changes in the yields in quadrature to obtain the systematic uncertainty ( $0 . 1 2 \\%$ for $\\bar { D ^ { + } }  \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ ， $0 . 5 2 \\%$ for $D ^ { + }  \\pi ^ { 0 } e ^ { + } \\nu _ { e } ,$ .Since the background function is formed from many background modes with fixed relative normalizations,we also vary the relative contributions of several of the largest background modes based on the uncertainties in their branching fractions( $0 . 1 2 \\%$ for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ ， $0 . 0 1 \\%$ for ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e288d9fe3d2d84b6995e4d0be4073d4a5f2612f0dafe23763fc0e5f1c9fb970.jpg",
+        "table_caption": [
+            "TABLE II. The reconstruction efficiencies for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ determined from MC simulation. The efficiencies include the branching fractions for $\\bar { K } ^ { 0 }$ and $\\pi ^ { 0 }$ .The uncertainties are statistical only. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Tag mode</td><td></td><td>Etag,SL(D+→Ke+ve)(%) ∈(D+ →Ke+ve)(%) εtag,SL(D+→πe+ve)(%) ∈(D+→πe+vc)(%)</td><td></td><td></td><td></td></tr><tr><td></td><td>D→K+ππ</td><td>9.21 ± 0.02</td><td>17.77 ± 0.04</td><td>28.44 ± 0.06</td><td>54.88 ± 0.13</td></tr><tr><td></td><td>D→Kgπ-</td><td>10.14 ± 0.05</td><td>18.05 ± 0.11</td><td>31.15 ± 0.15</td><td>55.43 ± 0.34</td></tr><tr><td></td><td>D→KK-</td><td>9.30 ±0.08</td><td>17.84 ± 0.22</td><td>28.68 ± 0.23</td><td>55.02 ± 0.67</td></tr><tr><td></td><td>D−→K+Kπ-</td><td>7.39 ± 0.06</td><td>17.92 ± 0.18</td><td>22.53 ± 0.16</td><td>54.66 ± 0.53</td></tr><tr><td></td><td>D−→K+π-π-π</td><td>4.98 ±0.02</td><td>18.25 ± 0.09</td><td>15.49 ± 0.06</td><td>56.72 ± 0.29</td></tr><tr><td></td><td>D²→π+π-π−</td><td>10.44 ± 0.11</td><td>18.34 ± 0.30</td><td>32.93 ± 0.33</td><td>57.82 ± 0.94</td></tr><tr><td></td><td>D→Kgπ-π</td><td>5.67 ± 0.01</td><td>18.11 ± 0.08</td><td>17.83 ± 0.04</td><td>56.92 ± 0.25</td></tr><tr><td></td><td>D−→K+π-π−π-π+</td><td>3.50 ± 0.04</td><td>15.88 ± 0.25</td><td>11.74 ± 0.14</td><td>53.20 ± 0.81</td></tr><tr><td></td><td>D→Kgπππ+</td><td>5.55 ± 0.02</td><td>16.84 ± 0.14</td><td>18.12 ± 0.06</td><td>54.97 ± 0.45</td></tr><tr><td colspan=\"2\">Average</td><td></td><td>17.83 ± 0.03</td><td></td><td>55.52 ± 0.10</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } )$ .In addition,we convolute the background shapes formed from MC simulation with the same Gaussian function in the fits ( $0 . 0 2 \\%$ for $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ ， $0 . 3 0 \\%$ for $D ^ { + }  \\pi ^ { 0 } e ^ { + } \\nu _ { e , }$ ). Finally we assign the relative uncertainties to be $0 . 2 \\%$ and $0 . 6 \\%$ for ${ \\bf \\tilde { \\it D } } ^ { + }  \\bar { \\bar { K } } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ ， respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Form factor In order to estimate the systematic uncertainty associated with the form factor used to generate signal events in the MC simulation,we re-weight the signal MC events so that the $q ^ { 2 }$ spectra agree with the measured spectra.We then remeasure the branching fraction (partial decay rates in different $q ^ { 2 }$ bins) with the newly weighted efficiency (efficiency matrix).The maximum relative change of the branching fraction (partial decay rates in different $q ^ { 2 }$ bins)is $0 . 2 \\%$ and is assigned as the systematic uncertainty. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FSR recovery. The differences between the results with FSR recovery and the ones without FSR recovery are assigned as the systematic uncertainties due to FSR recovery.We find the differences are $0 . 1 \\%$ and $0 . 5 \\%$ for $D ^ { + }  \\bar { K } ^ { \\bar { 0 } } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ ,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MC statistics. The uncertainties in the measured branching fractions due to the MC statistics are the statistical fluctuation of the MC samples,which are $0 . 2 \\%$ for both of $D ^ { + } $ $\\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ semileptonic decays. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$K _ { S } ^ { 0 }$ and $\\pi ^ { 0 }$ decay branching fractions. We include an uncertainty of $0 . 0 7 \\%$ $( 0 . 0 3 \\% )$ on the branching fraction measurement of $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ $( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } )$ to account for the uncertainty of the branching fraction of $K _ { S } ^ { 0 }  \\pi ^ { + } \\pi ^ { - }$ $( \\pi ^ { 0 } \\to \\gamma \\gamma )$ decay [8]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table III summarizes the systematic uncertainties in the measurement of the branching fractions.Adding all system atic uncertainties in quadrature yields the total systematic uncertainties of $1 . 7 6 \\%$ and $1 . 4 1 \\%$ for $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ , respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C.Comparison ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The comparisons of our measured branching fractions for $D ^ { + }  \\bar { K } ^ { 0 } \\bar { e } ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays with those previously measured at the BES-II [14],CLEO-c [15] and BESIII [16,17] experiments as well as the PDG values [8] are shown in Fig.4.Our measured branching fractions are in agreement with the other experimental measurements,but are more precise.For $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ , our result is lower than the only other existing measurement by CLEO- $\\mathrm { ~ c ~ }$ [15] by $2 . 0 \\sigma$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1676a8b5fcbf43f7a05a6c0f3aecb01e64b2275a37033a64e4879975c4f9e30.jpg",
+        "table_caption": [
+            "TABLE III. Summary of the systematic uncertainties considered in the measurements of the branching fractions of $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Source</td><td colspan=\"2\">Systematic uncertainty (%) D+→Ke+ve D+→π+ve</td></tr><tr><td>Number of D tags</td><td>0.5</td><td>0.5</td></tr><tr><td>Tracking for e+</td><td>0.19</td><td>0.15</td></tr><tr><td>PID for e+</td><td>0.16</td><td>0.14</td></tr><tr><td>K reconstruction</td><td>1.62</td><td>：</td></tr><tr><td>π reconstruction</td><td>：</td><td>1.00</td></tr><tr><td>Requirement on Eγ,max</td><td>0.1</td><td>0.1</td></tr><tr><td>Fit to Umiss distribution</td><td>0.2</td><td>0.6</td></tr><tr><td>Form factor</td><td>0.2</td><td>0.2</td></tr><tr><td>FSR recovery</td><td>0.1</td><td>0.5</td></tr><tr><td>MC statistics</td><td>0.2</td><td>0.2</td></tr><tr><td>Kg/π° branching fraction</td><td>0.07</td><td>0.03</td></tr><tr><td>Total</td><td>1.76</td><td>1.41</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Using our previous measurements of $B ( D ^ { 0 } \\to K ^ { - } e ^ { + } \\nu _ { e } )$ and $B ( D ^ { 0 } \\to \\pi ^ { - } e ^ { + } \\nu _ { e } )$ [13], the results obtained in this analysis,and the lifetimes of $D ^ { 0 }$ and $D ^ { + }$ mesons [8],we obtain the ratios ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { K } \\equiv \\frac { \\Gamma ( D ^ { 0 }  K ^ { - } e ^ { + } \\nu _ { e } ) } { \\Gamma ( D ^ { + }  \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } ) } = 1 . 0 3 \\pm 0 . 0 1 \\pm 0 . 0 2\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\pi } \\equiv \\frac { \\Gamma ( D ^ { 0 } \\to \\pi ^ { - } e ^ { + } \\nu _ { e } ) } { 2 \\Gamma ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) } = 1 . 0 3 \\pm 0 . 0 3 \\pm 0 . 0 2 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which are consistent with isospin symmetry. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/00e1b65d2b69d5e9f9cbcca0bfab696f13bca26a0a5b21b0b8b2ce861c15f2a2.jpg",
+        "img_caption": [
+            "FIG. 4.Comparison of the branching fraction measurements for $D ^ { + }  \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ (left) and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ (right). The green band correspond to the $1 \\sigma$ limits of the world averages. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V.PARTIALDECAYRATEMEASUREMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Determinations of partial decayrates ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To study the differential decay rates,we divide the semileptoniccandidates satisfying the selection criteriadescribed in Sec.III into bins of $q ^ { 2 }$ .Nine (seven) bins are used for $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ $( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } )$ . The range of each bin is given in Table IV.The squared four momentum transfer $q ^ { 2 }$ is determined for each semileptonic candidate by $q ^ { 2 } \\ =$ $( E _ { e ^ { + } } + E _ { \\nu _ { e } } ) ^ { 2 } / c ^ { 4 } - ( \\vec { p _ { e ^ { + } } } + \\vec { p _ { \\nu _ { e } } } ) ^ { 2 } / c ^ { 2 }$ ,where the energy and momentum of the missing neutrino are taken to be $E _ { \\nu _ { e } } = E _ { \\mathrm { m i s s } }$ and $\\begin{array} { r l r } { \\vec { p _ { \\nu _ { e } } } } & { { } = } & { E _ { \\mathrm { m i s s } } \\hat { p } _ { \\mathrm { m i s s } } / c } \\end{array}$ ，respectively.For each $q ^ { 2 }$ bin, we perform a maximum likelihood fit to the corresponding $U _ { \\mathrm { m i s s } }$ distribution following the same procedure described in Sec.IIB and obtain the signal yields as shown in Table IV. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To account for detection efficiency and detector resolution, the number of events $N _ { \\mathrm { { o b s } } } ^ { i }$ observed in the $i$ th $q ^ { 2 }$ bin is extracted from the relation ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { o b s } } ^ { i } = \\sum _ { j = 1 } ^ { N _ { \\mathrm { b i n s } } } \\varepsilon _ { i j } N _ { \\mathrm { p r d } } ^ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\mathrm { b i n s } }$ is the number of $q ^ { 2 }$ bins, $N _ { \\mathrm { p r d } } ^ { j }$ is the number of semileptonic decay events produced in the tagged $D ^ { - }$ sample with the $q ^ { 2 }$ filled in the $j$ th bin,and $\\varepsilon _ { i j }$ is the overall efficiency matrix that describes the efficiency and smearing across $q ^ { \\mathrm { 2 } }$ bins.The efficiency matrix element $\\varepsilon _ { i j }$ is obtained by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { i j } = \\frac { n _ { i j } ^ { \\mathrm { r e c } } } { n _ { j } ^ { \\mathrm { g e n } } } \\frac { 1 } { \\varepsilon _ { \\mathrm { t a g } } } f _ { i j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { i j } ^ { \\mathrm { r e c } }$ is the number of the signal MC events generated in the $j$ h $q ^ { 2 }$ bin and reconstructed in the ith $q ^ { 2 }$ bin, $n _ { j } ^ { \\mathrm { g e n } }$ is the total number of the signal MC events which are generated in the $j$ th $q ^ { 2 }$ bin,and $f _ { i j }$ is the matrix to correct for dataMC differences_in the efficiencies for $e ^ { + }$ tracking, $e ^ { + }$ identification,and $\\bar { K } ^ { 0 } \\ ( \\pi ^ { 0 } )$ reconstruction．Table $\\mathrm { \\Delta V }$ presents the average overall efficiency matrices for $D ^ { + }  \\bar { K ^ { 0 } } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\stackrel { - } {  } \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays. To produce this average overall efficiency matrix,we combine the efficiency matrices for each tag mode weighted by its yield shown in Table I. The diagonal elements of the matrix give the overall efficiencies for $D ^ { + } \\to P e ^ { + } \\nu _ { e }$ decays to be reconstructed in the correct $q ^ { 2 }$ bins in the recoil of the single $D ^ { - }$ tags, while the neighboring off-diagonal elements of the matrix give the overall efficiencies for cross feed between different $q ^ { 2 }$ bins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The partial decay width in the $i$ th binisobtainedby inverting the matrix Eq. (7), ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\Gamma _ { i } = \\frac { N _ { \\mathrm { p r d } } ^ { i } } { \\tau _ { D ^ { + } } N _ { \\mathrm { t a g } } } = \\frac { 1 } { \\tau _ { D ^ { + } } N _ { \\mathrm { t a g } } } \\sum _ { j } ^ { N _ { \\mathrm { b i n s } } } ( \\varepsilon ^ { - 1 } ) _ { i j } N _ { \\mathrm { o b s } } ^ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau _ { D ^ { + } }$ is the lifetime of the $D ^ { + }$ meson [8]． The $q ^ { 2 }$ dependent partial widths for $D ^ { + } ~ \\to ~ \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } $ $\\pi ^ { 0 } \\bar { e } ^ { + } \\nu _ { e }$ are summarized in Table VI. Also shown in Table VI are the statistical uncertainties and the associated correlation matrices. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B.Systematic covariance matrices ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For each source of systematic uncertainty in the measurements of partial decay rates, we construct an $N _ { \\mathrm { b i n s } } \\times N _ { \\mathrm { b i n s } }$ systematic covariance matrix.Abrief description of each contribution follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$D ^ { + }$ lifetime. The systematic uncertainty associated with the lifetime of the $D ^ { + }$ meson $( 0 . 7 \\% )$ [8] is fully correlated across $q ^ { 2 }$ bins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Numberof $D ^ { - }$ tags. The systematic uncertainty from the number of the single $D ^ { - }$ tags $( 0 . 5 \\% )$ is fully correlated between $q ^ { 2 }$ bins. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$e ^ { + }$ ， $K _ { S } ^ { 0 }$ and $\\pi ^ { 0 }$ reconstruction. The covariance matrices for the systematic uncertainties associated with the $e ^ { + }$ tracking, $e ^ { + }$ identification, $K _ { S } ^ { 0 }$ ，and $\\pi ^ { 0 }$ reconstruction efficiencies are obtained in the following way. We first vary the corresponding correction factors according to their uncertainties, then remeasure the partial decay rates using the effciency matrices determined from the re-corrected signal MC events. The covariance matrix due to this source is assigned via $C _ { i j } = \\delta ( \\Delta \\Gamma _ { i } ) \\delta ( \\Delta \\Gamma _ { j } )$ ,where $\\delta ( \\Delta \\Gamma _ { i } )$ denotes the change in the partial decay rate measurement in the ith $q ^ { 2 }$ bin. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/18203449b9097bb426a5f17ab0618ee4933b8f154782ddd948681fbafa070a73.jpg",
+        "table_caption": [
+            "TABLE IV. Summary of the range of each $q ^ { 2 }$ bin, the number of the observed signal events for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ in data. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">D+→Ke+ve</td></tr><tr><td>Bin No. q² (GeV²/c4)</td><td>1 [0.0, 0.2)</td><td>2 [0.2, 0.4)</td><td>3 [0.4, 0.6)</td><td>4 [0.6, 0.8)</td><td>5 [0.8, 1.0)</td><td>6 [1.0, 1.2)</td><td>7 [1.2, 1.4)</td><td>8 [1.4, 1.6)</td><td>9 [1.6,max）</td></tr><tr><td colspan=\"10\">4935 ± 73 4180 ± 67 3515 ± 62</td></tr><tr><td>Bin No.</td><td>1</td><td>2</td><td>3</td><td>D+→πe+ve 4</td><td>5</td><td>6</td><td>7</td><td></td><td></td></tr><tr><td>q² (GeV²/c4) Nobs</td><td>[0.0, 0.3) 658± 29</td><td>[0.3, 0.6) 562 ± 27</td><td>[0.6, 0.9) 467 ± 25</td><td>[0.9, 1.2) 448 ± 24</td><td>[1.2, 1.5) 401 ± 24</td><td>[1.5,2.0) 470 ± 26</td><td>[2.0,qmax) 404 ±30</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac03ff48083ff21d4655bead3eeffd5c40825d064bfd2217f83449547fa7bfe8.jpg",
+        "table_caption": [
+            "TABLE V. Efficiency matrices $\\varepsilon _ { i j }$ given in percent for $D ^ { + }  \\bar { K ^ { 0 } } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays. The column gives the true $q ^ { 2 }$ bin $j$ xhile the row gives the reconstructed $q ^ { 2 }$ bin $i$ .The statistical uncertainties in the least significant digits are given in the parentheses. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">K0+ Ve D+</td></tr><tr><td>Rec.q²</td><td>True q² (GeV² /c4)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(GeV2/c4)</td><td>[0.0,0.2)</td><td>[0.2,0.4)</td><td>[0.4,0.6)</td><td>[0.6, 0.8)</td><td>[0.8, 1.0)</td><td>[1.0, 1.2)</td><td>[1.2, 1.4)</td><td>[1.4,1.6)</td><td>[1.6,qmax)</td></tr><tr><td>[0.0,0.2)</td><td>18.53(6)</td><td>0.95(1)</td><td>0.07(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td></tr><tr><td>[0.2, 0.4)</td><td>0.37(1)</td><td>16.86(6)</td><td>1.03(2)</td><td>0.05(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td></tr><tr><td>[0.4, 0.6)</td><td>0.00(0)</td><td>0.40(1)</td><td>16.03(6)</td><td>1.03(2)</td><td>0.03(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td></tr><tr><td>[0.6, 0.8)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.46(1)</td><td>15.72(6)</td><td>0.95(2)</td><td>0.02(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td></tr><tr><td>[0.8,1.0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.01(0)</td><td>0.44(1)</td><td>15.78(7)</td><td>0.93(2)</td><td>0.01(0)</td><td>0.00(0)</td><td>0.00(0)</td></tr><tr><td>[1.0, 1.2)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.01(0)</td><td>0.46(1)</td><td>15.76(8)</td><td>0.80(2)</td><td>0.01(0)</td><td>0.00(0)</td></tr><tr><td>[1.2, 1.4)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.42(1)</td><td>15.58(9)</td><td>0.74(3)</td><td>0.00(0)</td></tr><tr><td>[1.4, 1.6) [1.6,qmax)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.38(2)</td><td>15.45(12)</td><td>0.78(5)</td></tr><tr><td></td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.28(2)</td><td>15.98(19)</td></tr><tr><td colspan=\"10\">D+→πe+ve</td></tr><tr><td>Rec.q²</td><td>True q² (GeV²/c4)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(GeV2/c4)</td><td>[0.0,0.3)</td><td>[0.3,0.6)</td><td>[0.6, 0.9)</td><td>[0.9, 1.2)</td><td>[1.2, 1.5)</td><td>[1.5, 2.0)</td><td>[2.0,qmax)</td><td></td><td></td></tr><tr><td>[0.0,0.3)</td><td>53.84(15)</td><td>2.27(3)</td><td>0.17(1)</td><td>0.01(0)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.00(0)</td><td></td><td></td></tr><tr><td>[0.3,0.6)</td><td>4.00(5)</td><td>48.24(15)</td><td>2.31(4)</td><td>0.14(1)</td><td>0.00(0)</td><td>0.00(0)</td><td>0.01(0)</td><td></td><td></td></tr><tr><td>[0.6,0.9)</td><td>0.14(1)</td><td>5.66(6)</td><td>46.15(15)</td><td>2.34(4)</td><td>0.10(1)</td><td>0.00(0)</td><td>0.00(0)</td><td></td><td></td></tr><tr><td>[0.9, 1.2)</td><td>0.04(0)</td><td>0.22(1)</td><td>6.24(6)</td><td>44.51(16)</td><td>2.16(4)</td><td>0.05(0)</td><td>0.00(0)</td><td></td><td></td></tr><tr><td>[1.2, 1.5)</td><td>0.04(0</td><td>0.08(1)</td><td>0.31(1)</td><td>6.33(7)</td><td>43.33(17)</td><td>1.36(3)</td><td>0.02(0)</td><td></td><td></td></tr><tr><td>[1.5,2.0)</td><td>0.03(0)</td><td>0.08(1)</td><td>0.22(1)</td><td>0.58(2)</td><td>6.52(8)</td><td>45.48(16)</td><td>1.12(3)</td><td></td><td></td></tr><tr><td>[2.0,qmax)</td><td>0.13(1)</td><td>0.21(1)</td><td>0.34(1)</td><td>0.68(2)</td><td>1.30(3)</td><td>5.52(6)</td><td>50.46(19)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Requirement on $E _ { \\gamma , \\mathrm { { m a x } } }$ .We take the systematic uncertainty of $0 . 1 \\%$ due to the $E _ { \\gamma , \\mathrm { { m a x } } }$ requirement on the selected events in each $q ^ { 2 }$ bin,and assume that this uncertainty is fully correlated between $q ^ { 2 }$ bins. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fit to the $U _ { \\mathrm { m i s s } }$ distribution. The technique of fitting the $U _ { \\mathrm { m i s s } }$ distributions affects the number of signal events observed in the $q ^ { 2 }$ bins. The covariance matrix due to the $U _ { \\mathrm { m i s s } }$ fits is determined by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i j } = \\left( \\frac { 1 } { \\tau _ { D ^ { + } } N _ { \\mathrm { t a g } } } \\right) ^ { 2 } \\sum _ { \\alpha } \\epsilon _ { i \\alpha } ^ { - 1 } \\epsilon _ { j \\alpha } ^ { - 1 } [ \\delta ( N _ { \\mathrm { o b s } } ^ { \\alpha } ) ] ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta ( N _ { \\mathrm { o b s } } ^ { \\alpha } )$ is the systematic uncertainty of $N _ { \\mathrm { o b s } } ^ { \\alpha }$ associated with the fit to the corresponding $U _ { \\mathrm { m i s s } }$ distribution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Form factor To estimate the systematic uncertainty associated with the form factor model used to generate signal events in the MC simulation,we re-weight the signal MC events so that the $q ^ { 2 }$ spectra agree with the measured spectra.We then re-calculate the partial decay rates in different $q ^ { 2 }$ bins with the new efficiency matrices which are determined using the weighted MC events.The covariance matrix due to this source is assigned via $C _ { i j } = \\delta ( \\Delta \\Gamma _ { i } ) \\delta ( \\Delta \\Gamma _ { j } )$ ,where $\\delta ( \\Delta \\Gamma _ { i } )$ denotes the change of the partial width measurement in the $i$ th $q ^ { 2 }$ bin. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FSR recovery. To estimate the systematic covariance matrix associated with the FSR recovery of the positron momentum, we remeasure the partial decay rates without the FSR recovery.The covariance matrix due to this source is assigned via $C _ { i j } = \\delta ( \\Delta \\Gamma _ { i } ) \\delta ( \\Delta \\Gamma _ { j } )$ ，where $\\delta ( \\Delta \\Gamma _ { i } )$ denotes the change of the partial decay rate measurement in the $i$ th $q ^ { 2 }$ bin. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MC statistics. The systematic uncertainties due to the limited size of the MC samples used to determine the effciency matricesare translatedto the covariancevia ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7c8ec4f1fcdc843d8d1fb65f84b991a78f54fbdf9fab3560ff7b382dce87073.jpg",
+        "table_caption": [
+            "TABLEVI.umryofesedrtacaytseiiace,teaticetdesplation matrices for $\\tilde { D ^ { + } } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } \\bar { e } ^ { + } \\nu _ { e }$ ："
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">→Ke+ve D+</td></tr><tr><td>q² bin No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>△r (ns-1)</td><td>16.97</td><td>15.29</td><td>13.57</td><td>11.65</td><td>9.33</td><td>7.06</td><td>4.96</td><td>2.97</td><td>1.01</td></tr><tr><td>stat.uncert.(%)</td><td>1.45</td><td>1.61</td><td>1.75</td><td>1.91</td><td>2.12</td><td>2.44</td><td>2.92</td><td>3.77</td><td>6.56</td></tr><tr><td>stat. correl.</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-0.073</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.001</td><td>-0.084</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.003</td><td>-0.091</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.004</td><td>-0.085</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.004</td><td>-0.085</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.004</td><td>-0.075</td><td>1.000</td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.004</td><td>-0.069</td><td>1.000</td><td></td></tr><tr><td></td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.003</td><td>-0.059</td><td>1.000</td></tr><tr><td>syst.uncert.(%)</td><td>3.24</td><td>3.10</td><td>2.95</td><td>2.88</td><td>3.02</td><td>3.05</td><td>2.85</td><td>2.54</td><td>2.93</td></tr><tr><td>syst. correl.</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.981</td><td>1.000 0.976</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.979</td><td>0.977</td><td>1.000 0.973</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.979 0.978</td><td>0.976</td><td></td><td>1.000</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.973</td><td>0.970</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.974</td><td>0.972</td><td>0.970</td><td>0.970</td><td>0.965</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>0.966</td><td>0.964</td><td>0.963</td><td>0.962</td><td>0.960</td><td>0.954</td><td>1.000</td><td></td><td></td></tr><tr><td>0.891</td><td>0.932</td><td>0.930 0.889</td><td>0.929</td><td>0.929</td><td>0.926 0.886</td><td>0.923 0.883</td><td>0.911 0.875</td><td>1.000 0.840</td><td></td></tr><tr><td></td><td></td><td>0.886</td><td></td><td>0.888</td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td></td><td></td><td></td><td></td><td>D+ →πe+ve</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>q² bin No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td></td><td></td></tr><tr><td>△Γ (ns-1)</td><td>0.664</td><td>0.578</td><td>0.474</td><td>0.477</td><td>0.432</td><td>0.503</td><td>0.372</td><td></td><td></td></tr><tr><td>stat. uncert. (%) stat. correl.</td><td>4.55</td><td>5.53</td><td>6.60</td><td>6.48</td><td>7.28</td><td>6.52</td><td>8.97</td><td></td><td></td></tr><tr><td></td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-0.122</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.011</td><td>-0.171</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-0.002</td><td>0.019</td><td>-0.190</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>-0.003</td><td>0.021</td><td>-0.190</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.000</td><td>-0.001</td><td>-0.005</td><td>0.016</td><td>-0.167</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>-0.002</td><td>-0.003</td><td>-0.003</td><td>-0.008</td><td>-0.004</td><td>-0.128</td><td>1.000</td><td></td><td></td></tr><tr><td>syst.uncert.(%)</td><td>1.53</td><td>1.52</td><td>1.51</td><td>1.61</td><td>1.88</td><td>1.92</td><td>1.73</td><td></td><td></td></tr><tr><td>syst. correl.</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.739</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.742</td><td>0.664</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.758</td><td>0.737</td><td>0.650</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.772</td><td>0.740</td><td>0.712</td><td>0.698</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.781</td><td>0.749</td><td>0.711</td><td>0.760</td><td>0.772</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>0.760</td><td>0.730</td><td>0.697</td><td>0.727</td><td>0.756</td><td>0.740</td><td>1.000</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i j } = \\biggl ( \\frac { 1 } { \\tau _ { D } + N _ { \\mathrm { t a g } } } \\biggr ) ^ { 2 } \\sum _ { \\alpha \\beta } ( N _ { \\mathrm { o b s } } ^ { \\alpha } N _ { \\mathrm { o b s } } ^ { \\beta } \\mathrm { c o v } [ \\epsilon _ { i \\alpha } ^ { - 1 } , \\epsilon _ { j \\beta } ^ { - 1 } ] ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where the covariance of the inverse efficiency matrix elements are given by [18] ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c o v } [ \\epsilon _ { \\alpha \\beta } ^ { - 1 } , \\epsilon _ { a b } ^ { - 1 } ] = \\sum _ { i j } ( \\epsilon _ { \\alpha i } ^ { - 1 } \\epsilon _ { a i } ^ { - 1 } ) [ \\sigma ^ { 2 } ( \\epsilon _ { i j } ) ] ^ { 2 } ( \\epsilon _ { j \\beta } ^ { - 1 } \\epsilon _ { j b } ^ { - 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$K _ { S } ^ { 0 }$ and $\\pi ^ { 0 }$ decay branching fractions. The systematic uncertainties due to the branching fractions of $K _ { S } ^ { 0 } \\  \\ \\pi ^ { + } \\pi ^ { - }$ $( 0 . 0 7 \\% )$ and $\\pi ^ { 0 } \\to \\gamma \\gamma ( 0 . 0 3 \\% )$ are fully correlated between $q ^ { 2 }$ bins. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The total systematic covariance matrix is obtained by summing all these matrices. Table VI summarizes the relative size of systematic uncertainties and the corresponding correlations in the measurements for the partial decay rates of the $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ semileptonic decays. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VI.FORMFACTORS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To determine the product $f _ { + } ( 0 ) | V _ { c s ( d ) } |$ and other form factor parameters,we fit the measured partial decay rates using Eq.(1） with the parameterization of the form factor $f _ { + } ( q ^ { 2 } )$ In this analysis,we use several forms of the form factor parameterizationswhicharereviewedinSec.VIA. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A.Form factor parameterizations ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In general, the single pole model is the simplest approach to describe the $q ^ { 2 }$ dependence of the form factor. The single polemodel is expressed as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q ^ { 2 } ) = \\frac { f _ { + } ( 0 ) } { 1 - q ^ { 2 } / m _ { \\mathrm { p o l e } } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { + } ( 0 )$ is the value of the form factor at $q ^ { 2 } = 0$ ，and $m _ { \\mathrm { p o l e } }$ is the pole mass,which is often treated as a free parameter to improve fit quality. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The modified pole model [19] is also widely used in Lattice QCD (LQCD) calculations and experimental studies of these decays.In this parameterization, the form factor of the semileptonic $D  P e ^ { + } \\nu _ { e }$ decays is written as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q ^ { 2 } ) = { \\frac { f _ { + } ( 0 ) } { ( 1 - q ^ { 2 } / m _ { D _ { ( s ) } ^ { * + } } ^ { 2 } ) \\left( 1 - \\alpha q ^ { 2 } / m _ { D _ { ( s ) } ^ { * + } } ^ { 2 } \\right) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { D _ { ( s ) } ^ { * + } }$ is the mass of the $D _ { ( s ) } ^ { * + }$ meson,and $\\alpha$ is a free parametertobefitted. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TheISGW2 model [20] assumes ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q ^ { 2 } ) = f _ { + } ( q _ { \\mathrm { m a x } } ^ { 2 } ) \\left( 1 + \\frac { r ^ { 2 } } { 1 2 } ( q _ { \\mathrm { m a x } } ^ { 2 } - q ^ { 2 } ) \\right) ^ { - 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $q _ { \\mathrm { m a x } } ^ { 2 }$ is the kinematical limit of $q ^ { 2 }$ ,and $r$ is the conventional radius of the meson. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The most general parameterization of the form factor is the series expansion [21],which is based on analyticity and unitarity.In this parameterization,the variable $q ^ { 2 }$ is mapped to a newvariable $z$ through ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ( q ^ { 2 } , t _ { 0 } ) = \\frac { \\sqrt { t _ { + } - q ^ { 2 } } - \\sqrt { t _ { + } - t _ { 0 } } } { \\sqrt { t _ { + } - q ^ { 2 } } + \\sqrt { t _ { + } - t _ { 0 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "with $t _ { \\pm } = ( m _ { D ^ { + } } \\pm m _ { P } ) ^ { 2 }$ and $t _ { 0 } = t _ { + } ( 1 - \\sqrt { 1 - t _ { - } / t _ { + } } )$ The form factor is then expressed in terms of the new variable $z$ as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q ^ { 2 } ) = \\frac { 1 } { P ( q ^ { 2 } ) \\phi ( q ^ { 2 } , t _ { 0 } ) } \\sum _ { k = 0 } ^ { \\infty } a _ { k } ( t _ { 0 } ) [ z ( q ^ { 2 } , t _ { 0 } ) ] ^ { k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { k } ( t _ { 0 } )$ are real coefficients. The function $P ( q ^ { 2 } )$ is $P ( q ^ { 2 } ) = z ( t , m _ { D _ { s } ^ { * } } ^ { 2 } )$ for $D \\to K$ and $P ( q ^ { 2 } ) = 1$ for $D \\to \\pi$ ， The standard choice of $\\phi ( q ^ { 2 } , t _ { 0 } )$ is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c c } { { \\phi ( q ^ { 2 } , t _ { 0 } ) = \\left( \\displaystyle { \\frac { \\pi m _ { c } ^ { 2 } } { 3 } } \\right) ^ { 1 / 2 } \\left( \\displaystyle { \\frac { z ( q ^ { 2 } , 0 ) } { - q ^ { 2 } } } \\right) ^ { 5 / 2 } \\left( \\displaystyle { \\frac { z ( q ^ { 2 } , t _ { 0 } ) } { t _ { 0 } - q ^ { 2 } } } \\right) ^ { - 1 / 2 } } } \\\\ { { \\times \\left( \\displaystyle { \\frac { z ( q ^ { 2 } , t _ { - } ) } { t _ { - } - q ^ { 2 } } } \\right) ^ { - 3 / 4 } \\displaystyle { \\frac { ( t _ { + } - q ^ { 2 } ) } { ( t _ { + } - t _ { 0 } ) ^ { 1 / 4 } } } , } } & { { ( 1 \\displaystyle { \\vphantom { \\frac { z ( q ^ { 2 } , t _ { - } ) } { t _ { 0 } - q ^ { 2 } } } } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { c }$ is the mass of the charm quark. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In practical use,one usually makes a truncation of the above series.After optimizing the form factor parameters,we obtain ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q ^ { 2 } ) = \\frac { f _ { + } ( 0 ) P ( 0 ) \\phi ( 0 , t _ { 0 } ) ( 1 + \\sum _ { k = 1 } ^ { k _ { \\operatorname* { m a x } } } r _ { k } [ z ( q ^ { 2 } , t _ { 0 } ) ] ^ { k } ) } { P ( q ^ { 2 } ) \\phi ( q ^ { 2 } , t _ { 0 } ) ( 1 + \\sum _ { k = 1 } ^ { k _ { \\operatorname* { m a x } } } r _ { k } [ z ( 0 , t _ { 0 } ) ] ^ { k } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { k } \\equiv a _ { k } ( t _ { 0 } ) / a _ { 0 } ( t _ { 0 } )$ . In this analysis we fit the measured decay rates to the two- or three-parameter series expansion, i.e., we take $k _ { \\operatorname* { m a x } } = 1$ or 2. In fact, the $z$ expansion with onlya linear termis sufficient to describe the data. Therefore we take the two-parameter series expansion as the nominal parameterization to determine $f _ { + } ^ { K ( \\pi ) } ( 0 )$ and $| V _ { c s ( d ) } |$ . ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "B.Fitting partial decay rates to extract form factors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the form factor parameters,we fit the theoretical parameterizations to the measured partial decay rates.Taking into account the correlations of the measured partial decay rates among $q ^ { 2 }$ bins,the $\\chi ^ { 2 }$ to be minimized in the fit is defined as ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { i j } ( \\Delta \\Gamma _ { i } - \\Delta \\Gamma _ { i } ^ { \\mathrm { t h } } ) \\mathcal { C } _ { i j } ^ { - 1 } ( \\Delta \\Gamma _ { j } - \\Delta \\Gamma _ { j } ^ { \\mathrm { t h } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta \\Gamma _ { i }$ is the measured partial decay rate in the ith $q ^ { 2 }$ bin, （204 $ { \\mathcal { C } } _ { i j } ^ { - 1 }$ is the inverse matrix of the covariance matrix $\\mathcal { C } _ { i j }$ . In the （204号 $i$ th $q ^ { 2 }$ bin, the theoretical expectation of the partial decay rate is obtained by integrating Eq.(1), ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\Gamma _ { i } ^ { \\mathrm { t h } } = \\int _ { q _ { \\mathrm { m i n } , i } ^ { 2 } } ^ { q _ { \\mathrm { m a x } , i } ^ { 2 } } X \\frac { G _ { F } ^ { 2 } } { 2 4 \\pi ^ { 3 } } | V _ { c s ( d ) } | ^ { 2 } p ^ { 3 } | f _ { + } ( q ^ { 2 } ) | ^ { 2 } d q ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $q _ { \\mathrm { m i n } , i } ^ { 2 }$ and $q _ { \\mathrm { m a x } , i } ^ { 2 }$ are the lower and upper boundaries of that $q ^ { 2 }$ bin, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the fits,all parameters of the form factor parameterizations are left free. The central values of the form factor parameters are taken from the results obtained by fitting the data with the combined statistical and systematic covariance matrix together. The quadratic difference between the uncertainties of the fit parameters obtained from the fits with the combined covariance matrix and the uncertainties of the fit parameters obtained from the fits with the statistical covariance matrix only is taken as the systematic error of the measured form factor parameter. The results of these fits are summarized in TableVII,where the first errorsare statistical and the second systematic. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows the fits to the measured differential decay rates for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ . Figure 6 shows the projection of the fits onto $f _ { + } ( q ^ { 2 } )$ for the $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { \\bar { + } }  \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ decays, respectively. In these two figures,the dots with error bars show the measured values of the form factors, $f _ { + } ( q ^ { 2 } )$ , in the center of each $q ^ { 2 }$ bin,which are obtained with ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ( q _ { i } ^ { 2 } ) = \\sqrt { \\frac { \\Delta \\Gamma _ { i } } { \\Delta q _ { i } ^ { 2 } } \\frac { 2 4 \\pi ^ { 3 } } { X G _ { F } ^ { 2 } { p _ { i } ^ { \\prime } } ^ { 3 } | V _ { c q } | ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "in which ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } ^ { \\prime 3 } = \\frac { \\int _ { q _ { \\mathrm { m i n } , i } ^ { 2 } } ^ { q _ { \\mathrm { m a x } , i } ^ { 2 } } p ^ { 3 } | f _ { + } ( q ^ { 2 } ) | ^ { 2 } d q ^ { 2 } } { | f _ { + } ( q _ { i } ^ { 2 } ) | ^ { 2 } ( q _ { \\mathrm { m a x } , i } ^ { 2 } - q _ { \\mathrm { m i n } , i } ^ { 2 } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/8df7badee84da6f53d04f6daa843e3b6b954a2a236d35faa117d221153f99fb8.jpg",
+        "table_caption": [
+            "TABLE VI. Summary of results of form factor fits for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ ， where the first errors are statistical and the second systematic. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Single pole model</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td></td><td>mpole (GeV/c2)</td></tr><tr><td>D</td><td>0.04000</td><td>1.935 ±0.017± 0.006</td></tr><tr><td colspan=\"3\">Modified pole model</td></tr><tr><td>Decay mode</td><td>f+(0)Vcql</td><td></td></tr><tr><td>D+→Ke+ve</td><td>0.7052 ± 0.0038 ± 0.0112</td><td>0.294 ±0.031 ± 0.010</td></tr><tr><td>D+→πe+Ve</td><td>0.1400 ±0.0024±0.0010</td><td>0.285 ± 0.057 ± 0.010</td></tr><tr><td colspan=\"3\">ISGW2 model</td></tr><tr><td>Decay mode</td><td></td><td>r (GeV-1c2)</td></tr><tr><td>D+→Re+ve</td><td>f+(0)IVcql 0.7039 ± 0.0037 ± 0.0111</td><td>1.587 ± 0.023 ± 0.007</td></tr><tr><td>D+→πe+Ve</td><td>0.1381 ± 0.0023 ± 0.0007</td><td>2.078 ±0.067 ± 0.011</td></tr><tr><td colspan=\"3\">Two-parameter series expansion</td></tr><tr><td>Decay mode</td><td>f+(0)|Vcal</td><td>r1</td></tr><tr><td>D+→Ke+ve D+→πe+ve</td><td>0.7053 ± 0.0040 ± 0.0112</td><td>-2.18 ±0.14 ±0.05</td></tr><tr><td></td><td>0.1400 ±0.0026 ±0.0007</td><td>-2.01±0.13±0.02</td></tr><tr><td colspan=\"3\">Three-parameter series expansion</td></tr><tr><td></td><td></td><td>−1.76 ± 0.25 ± 0.06</td></tr><tr><td>D+→RoeVe D+→πe+Ve</td><td>0.6983 ±(0)V6±0 02</td><td></td><td>-13.4 ± 6.3 ± 1.4</td></tr><tr><td></td><td>0.1413 ± 0.0035 ± 0.0012</td><td>-2.23±0.42 ±0.06</td><td>1.4 ± 2.5 ± 0.4</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "100 2.5 D+→Ke+ve D+→πe+ve sup ModifiedPole Model Single Pole Model sup ·ModifiedPole Model Single Pole Model ISGW2Model · ISGW2 Model Z series (2 par.) Z series (2 par.) Z series (3 par.) Z series (3 par.) 0 0.0 0 0.5 1 1.5 2 0 1 2 3 q² (GeV2/c4) q² (GeV2/c4) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $| V _ { c s } | = 0 . 9 7 3 5 1 \\pm 0 . 0 0 0 1 3$ and $| V _ { c d } | = 0 . 2 2 4 9 2 \\pm$ 0.0005O are taken from the SM constraint fit [8]. In the calculation of ${ p _ { i } ^ { \\prime } } ^ { 3 }$ $f _ { + } ( q ^ { 2 } )$ is computed using the two parameter series parameterization with the measured parameters. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C.Determinations of $f _ { + } ^ { K } ( 0 )$ and $f _ { + } ^ { \\pi } ( 0 )$ ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Using the $f _ { + } ^ { K ( \\pi ) } ( 0 ) | V _ { c s ( d ) } |$ values from the two-parameter series expansion fits and taking the values of $| V _ { c s ( d ) } |$ from the SM constraint fit [8] as inputs,we obtain the form factors ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ^ { K } ( 0 ) = 0 . 7 2 5 \\pm 0 . 0 0 4 \\pm 0 . 0 1 2\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c31ce7e6715b843479f10852114db7cc091c603065d5e2e421159057355d4086.jpg",
+        "img_caption": [
+            "FIG. 6.Projections on $f _ { + } ( q ^ { 2 } )$ for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ (left) and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ (right) as function of $q ^ { 2 }$ , where the dots with error bars show the data and the lines give the best fits to the data with different form factor parameterizations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { + } ^ { \\pi } ( 0 ) = 0 . 6 2 2 \\pm 0 . 0 1 2 \\pm 0 . 0 0 3 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the first errors are statistical and the second systematic ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VII．DETERMINATIONS OF $| V _ { c s } | \\mathbf { A N D } | V _ { c d } |$ ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Using the values of $f _ { + } ^ { K ( \\pi ) } ( 0 ) | V _ { c s ( d ) } |$ from the twoparameter $z$ -series expansion fits and in conjunction with the form factor values $f _ { + } ^ { \\dot { K } } ( 0 ) = 0 . 7 4 7 \\pm 0 . 0 1 1 \\dot { \\pm } 0 . 0 1 5$ [22] and $f _ { + } ^ { \\pi } ( 0 ) = 0 . 6 6 6 \\pm 0 . \\dot { 0 } 2 0 \\pm 0 . 0 2 1$ [23] calculated from LQCD, we obtain ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| V _ { c s } | = 0 . 9 4 4 \\pm 0 . 0 0 5 \\pm 0 . 0 1 5 \\pm 0 . 0 2 4\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| V _ { c d } | = 0 . 2 1 0 \\pm 0 . 0 0 4 \\pm 0 . 0 0 1 \\pm 0 . 0 0 9 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where the first uncertainties are statistical, the second systematic,and the third are due to the theoretical uncertainties in the LQCD calculations of the form factors. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VIII. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In summary,by analyzing $2 . 9 3 ~ \\mathrm { f b ^ { - 1 } }$ of data collected at $3 . 7 7 3 \\ \\mathrm { G e V }$ with the BESIII detector at the BEPCII, the semileptonic decays for $D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ have been studied. From a total of $1 7 0 3 0 5 4 \\pm 3 4 0 5 \\ : D ^ { - }$ tags, $2 6 0 0 8 \\pm 1 6 8 ~ D ^ { + }  \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e }$ and $3 4 0 2 \\pm 7 0 D ^ { + }  \\pi ^ { 0 } e ^ { + } \\nu _ { e }$ signal events are observed in the system recoiling against the $D ^ { - }$ tags.These yield the absolute decay branching fractions to be ${ \\cal B } ( D ^ { + } \\to \\bar { K } ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 8 . 6 0 \\pm 0 . 0 6 \\pm 0 . 1 5 ) \\times 1 0 ^ { - 2 }$ and ${ \\mathcal B } ( D ^ { + } \\to \\pi ^ { 0 } e ^ { + } \\nu _ { e } ) = ( 3 . 6 3 \\pm 0 . 0 8 \\pm 0 . 0 5 ) \\times 1 0 ^ { - 3 } .$ （20 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We also study the relations between the partial decay rates and squared 4-momentum transfer $q ^ { 2 }$ for these two decays and obtain the parameters of different form factor parameterizations.The products of the form factors and the related CKM matrix elements extracted from the two-parameter series expansion parameterization are selected as our primary results.We obtain $f _ { + } ( 0 ) | V _ { c s } | = 0 . 7 0 5 3 \\pm 0 . 0 0 4 0 \\pm 0 . 0 1 1 2$ and $f _ { + } ( 0 ) | V _ { c d } | ~ = ~ 0 . 1 4 0 0 \\pm 0 . 0 0 2 6 \\pm 0 . 0 0 0 7$ ，Using the global SM fit values for $| V _ { c s } |$ and $| V _ { c d } |$ ，we obtain the form factors $f _ { + } ^ { K } ( 0 ) ~ = ~ 0 . 7 2 5 \\pm 0 . 0 0 4 \\pm 0 . 0 1 2$ and $f _ { + } ^ { \\pi } ( 0 ) ~ =$ $0 . 6 2 2 \\pm 0 . 0 1 2 \\pm 0 . 0 0 3$ .Furthermore,using the form factors predicted by the LQCD calculations,we obtain the CKM matrix elements $| V _ { c s } | = 0 . 9 4 4 \\pm 0 . 0 0 5 \\pm 0 . 0 1 5 \\pm 0 . 0 2 4$ and $| V _ { c d } | = 0 . 2 1 0 \\pm 0 . 0 0 4 \\pm 0 . 0 0 1 \\pm 0 . 0 0 9$ ,where the third errors are dominated by the theoretical uncertainties in the LQCD calculations of the form factors. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "TheBESIII collaboration thanks the staff ofBEPCII and the IHEP computing center for their strong support. This work is supported in part by National Key Basic Research Program of China under Contract Nos. 2OO9CB825204, 2015CB8567OO；National Natural Science Foundation of China (NSFC) under Contracts Nos．10935007,11235011, 11305180，11322544，11335008，11425524，11635010；the Chinese Academy of Sciences(CAS) Large-Scale Scientific Facility Program;the CAS Center forExcellence in Particle Physics (CCEPP); the Collaborative Innovation Center for Particles and Interactions (CICPI); Joint Large-Scale Scientific Facility Funds of the NSFC and CAS under Contracts Nos.U1232201，U1332201，U1532257，U1532258；CAS under Contracts Nos. KJCX2-YW-N29，KJCX2-YW-N45; 100 Talents Program of CAS; National 1OoO Talents Program of China; INPAC and Shanghai Key Laboratory for Particle Physics and Cosmology；German Research Foundation DFG under Contracts Nos.Collaborative Research Center CRC 1044,FOR 2359; Istituto Nazionale di Fisica Nucleare, Italy；Koninklijke Nederlandse Akademie van Wetenschappen（KNAW） under Contract No. 530-4CDP03；Ministry of Development of Turkey under Contract No.DPT2006K",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "120470; The Swedish Resarch Council; U.S.Department of Energyunder Contracts Nos.DE-FG02-05ER41374,DE-SC0010118,DE-SC-0010504,DE-SC-0012069；U.S.National Science Foundation; University of Groningen (RuG) and the Helmholtzzentrum fuer Schwerionenforschung GmbH(GSI), Darmstadt;WCUProgram ofNational ResearchFoundation ofKoreaunder Contract No.R32-2008-000-10155-0. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]J.G.Köerner and G.A. Schuler, Z.Phys.C 46,93 (1990); F.J. Gilman and R.L. Singleton,Jr.,Phys.Rev.D 41,142(1990).   \n[2]M.Ablikim et al.(BESIII Collaboration),Chin.Phys.C 37, 123001 (2013); Phys.Lett.B 753,629 (2016).   \n[3]M.Ablikimet al.(BESIIICollaboration),Nucl.Instrum.Methods Phys.Res., Sect.A 614,345 (2010).   \n[4]S.Agostinelli et al.(GEANT4 Collaboration),Nucl.Instrum. MethodsPhys.Res.,Sect.A506,250(2003).   \n[5]Z.Y.Deng et al.,Chin.Phys.C30,371 (2006).   \n[6]S.Jadach,B.F.L.Ward,and Z.Was,Comput.Phys.Commun. 130,260 (2000).   \n[7]D.J.Lange,Nucl.Instrum.Meth.A 462,152 (2001)；R.-G. Ping,Chin.Phys.C32,599 (2008).   \n[8] C.Patrignani et al.(Particle Data Group),Chin.Phys.C 40, 100001 (2016).   \n[9]J.C.Chen,G. S.Huang,X.R.Qi,D.H. Zhang and Y.S. Zhu, Phys.Rev.D62,034003 (2000).   \n10]M.Ablikim et al.(BESII Collaboration),Phys.Rev.D 89, 051104(R) (2014).   \n11]H.Albrecht et al.(ARGUS Collaboration),Phys.Lett.B 241, 278 (1990).   \n12]M.Ablikim et al. (BES Collaboration),Phys.Lett.B 597,39 (2004).   \n[13]M.Ablikim et al. (BESII Collaboration),Phys.Rev.D 92, 072012 (2015).   \n[14] M.Ablikim et al.(BES Collaboration),Phys.Lett.B 608,24 (2005).   \n[15] D.Besson et al. (CLEO Collaboration)，Phys.Rev. D 80, 032005(2009).   \n[16] M.Ablikim et al. (BESII Collaboration),Phys.Rev.D 92, 112008 (2015).   \n[17] M.Ablikim et al.(BESIII Collaboration),Chin.Phys.C 40, 113001 (2016).   \n[18]M.Lefebvre,R.K.Keeler,R.Sobie,andJ.White,Nucl.Instrum.Methods Phys.Res., Sect.A 451, 520 (2000).   \n[19]D.Becirevcic and A.B.Kaidalov,Phys.Lett.B 478,417 (2000).   \n[20]D. Scora and N.Isgur,Phys.Rev.D 52,2783(1995).   \n[21]T.Becher and R.J.Hill,Phys.Lett.B 633,61 (2006).   \n[22]H.Na et al.(HPQCD Collaboration),Phys.Rev.D 82,114506 (2010).   \n[23]H.Na et al. (HPQCD Collaboration),Phys.Rev.D 84,114505 (2011). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

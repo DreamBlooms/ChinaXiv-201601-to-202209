@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609211902 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘富强,吴涛,蒋国俊,Xuelian Meng,童丽颖,张勇,索安宁,朱丽东.海岸线与海岸景观格局对人为干扰度的动态响应——以营口市南部海岸为 例.生态学报,2017,37(22)：7427-7437.   \nLiuFQ,WuT,iagGJueliag,ogLZagYuoNZuLacesposeoftoastindoastalladsaeo Hemeroby:A case study along the south coast of Yingkou.Acta Ecologica Sinica,2017,37(22）:7427-7437. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "海岸线与海岸景观格局对人为干扰度的动态响应以营口市南部海岸为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘富强¹，吴涛1,2,\\*,蒋国俊¹,Xuelian Meng²，童丽颖¹,张勇¹,索安宁³,朱丽东¹",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1浙江师范大学 地理与环境科学学院，金华321004  \n2 Louisiana State University,College of Humanities & Social Sciences，Baton Rouge，USA,70803  \n3国家海洋环境监测中心，大连116023",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用多期遥感数据,提取营口南部海岸五期岸线变化信息、分维值,并利用 Arcgis10.2中渔网工具创建评价单元。计算景观格局指数,构建人为干扰强度指标,并进一步探讨岸线变化和景观格局变化对人类活动的动态响应。结果表明：（1)研究区围垦导致岸线长度增长、岸线分形维数的增大,1990—2015 年四个时段中岸线年增长速率为 $0 . 5 2 \\% 0 . 5 3 \\% 4 . 9 8 \\%$ 和 $0 . 9 6 \\%$ ;（2)景观格局指数反映 2005年之前景观边界、形状复杂程度与破碎程度有所增加;2005年之后景观形状趋于规则化、土地利用趋于均衡化;(3)研究期间强干扰和弱干扰区域面积均有所增加,中等干扰强度区域面积减小;(4)斑块密度、总边缘长度、边缘密度、景观形状指数和平均分维值均与平均干扰强度指数变化同步。Shanon 多样性指数与人为干扰强度变化呈反相关；（5）岸线长度变化和岸线分形维数变化都与人类干扰度呈反相关,相关性分别为-0.97 和 $- 0 . 9 8$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：景观格局指数；人为干扰度；分形维数；岸线变化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dynamic response of the coastline and coastal landscape patterns to Hemeroby : A case study along the south coast of Yingkou ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Fuqiang¹,，WU Tao1,2,\\*,JIANG Guojun’， Xuelian Meng²,TONG Liying',ZHANG Yong',SUO Anning? Zhu Lidong1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College ofGeographyand Environmental Science，Zhejiang Normal University，Jinhua 321004 China   \n2Louisiana State University，College of Humanities& Social Sciences，BatonRouge，USA,70803   \n3National Marine Environmental Monitoring Center,Dalian 116O23,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Multi-temporal remote sensing data wereused to extract coastline change informationandcalculate fractal dimensions from199O to2O15forthesouth coastof Yingkou.FishnettolsinArcgis10.2 wereusedtocreatetheanalysis units.This study exploredthedynamic response of thecoastline andcoastallandscapepaterns to Hemerobyalong the south coastof Yingkouusing landscape patern and Hemeroby indexes.The results showed that（1）Reclamation increased the shoreline and coastline fractal dimensions. Shoreline annual growth rate were $0 . 5 2 \\%$ （1990—2000）， $0 . 5 3 \\%$ (2000— 2005）， $4 . 9 8 \\%$ （2005—2010），and $0 . 9 6 \\%$ （2010—2O15）；（2）The landscape pattern index reflected the landscape boundary，complexity，and fragmentationofthelandscape，which increased priorto2Oo5，but exhibitedadecreasing trend thereafter.（3）During thestudy period，theareasof lowand high Hemeroby increased，whereas theareaof moderate intensity decreased.（4）Synchronouschangesoccurrd in Patch Density,Edge Density,Total Edge,Landscape Shape ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index,MeanFractal Dimensionand the Hemeroby Index.The Shannondiversity index wasinverselyrelated to human disturbance intensity.（5）Thechange inshorelinelengthand shorelinefractaldimensions was negativelycorelated with the degree of human disturbance，with correlation coefficients of $- 0 . 9 7$ and $- 0 . 9 8$ ，respectively.This indicated that the weaker human activity was，the longer and more complex the shoreline became. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:landscape pattern index；Hemeroby； fractal dimension；shoreline change",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海岸带地区是海洋与陆地相互作用形成的独特生态过渡带[1-2]。具有复杂的生态系统结构,多样的功能,在防灾减灾、调节气候、维持生物多样性和区域生态安全等方面发挥着及其重要的作用,是沿海地区经济社会可持续发展的重要生态保障[3]。同时,海岸带地区又是人类活动影响最密集,强度最大的地区之一。近年来,我国沿海地区经济发展和沿海城市人口快速增长,海岸带地区人地矛盾日益突出,生态系统完整性受到严重的威胁[4-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人为干扰与景观格局变化响应机理分析已成为地理学与景观生态学研究领域的国际热点,被广泛地应用于农业、林业、环境以及城市等诸多领域的生态评价研究[6-10]。本文以营口南部海岸带为研究对象,通过分析不同时期人类地表活动过程及其干扰强度对海岸线及海岸带景观类型演化的响应机制分析,希翼对深入理解海岸带人为干扰过程及景观变迁响应有所裨益,为我国海岸带开发及其保护规划提供科学借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "营口市南部海岸 $\\langle 1 2 2 ^ { \\circ } 5 ^ { \\prime } - 1 2 2 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { E } , 4 0 ^ { \\circ } 2 5 ^ { \\prime } - 4 0 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { N } \\rangle$ 位于辽东湾顶部,大辽河入海口以南,营口市区渤海大街至盖州团山基岩海岸之间,区域总面积 $3 0 0 \\mathrm { k m } ^ { 2 }$ 。该区域原为平坦开阔的辽东湾淤泥质滩涂湿地,1950年代的在全国围海晒盐热潮下,淤泥质滩涂被围海建造盐田,发展海水晒盐产业。20 世纪末海盐业发展缓慢,沿海部分水交换通畅的盐田、滩涂被划分改造成鱼、虾等水产养殖池塘,形成盐田-养殖池塘复合景观格局。新世纪以来,随着辽宁沿海经济带发展战略规划的提出与实施，大片低产盐田被回填成为营口市城市规模扩展、沿海产业基地建设的拓展空间,海岸景观转变为工业城镇-盐田-围海养殖复合景观格局。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据获取与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文收集到能够完全覆盖研究区域且影像质量较好的5期卫星遥感影像，各期卫星遥感影像数据源参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/01e864fd8ad9e9ef3308d722a45b1bee163f3644059b7ccd344dd8e5b41bfcc3.jpg",
+        "table_caption": [
+            "表1本文采用的各期卫星遥感影像参数",
+            "Table1 Parametric of satellite remote sensing images in the study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号No.</td><td>数据资料 Data</td><td>轨道 Track number</td><td>获取时期 Acquisition time</td><td>分辨率/m Resolution</td></tr><tr><td>1</td><td>Landsat TM</td><td>51/40</td><td>Aug./1990</td><td>28.5</td></tr><tr><td>2</td><td>Landsat ETM</td><td>120/32</td><td>Jul./2000</td><td>28.5</td></tr><tr><td>3</td><td>Spot5</td><td>292/268</td><td>Aug./2005</td><td>5.0</td></tr><tr><td>4</td><td>Spot5</td><td>292/268</td><td>Sep./2010</td><td>5.0</td></tr><tr><td>5</td><td>GaoFen1</td><td>ZY2108</td><td>Jun./2015</td><td>2.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究区域内均匀布设并测量地面控制点25个,利用ERDAS IMAGE9.2对各期卫星遥感影像进行精校正,校正方法参考相关文献[11]。利用精校正好的高分一号卫星遥感影像和 SPOT5 卫星遥感影像对比检查其他精校正影像的校正效果。在现场踏勘基础上,将研究区域景观类型划分为盐田、养殖池塘、建设地、道路、堤坝、农田、草地、湖泊、湿地、取排、荒草地、芦苇湿地、水口共13种景观类型,并建立每种景观类型的遥感影像特征库,各景观类型描述见表2。以遥感影像特征库为基础,在 ArcGIS10.0软件支持下,首先对 2005 年采集的 SPOT5卫星遥感影像和2015 年采集的高分一号遥感影像进行人机交互式判读[12],目视解译得到 2005 年和2015年研究区景观格局矢量数据。然后以2005 年研究区景观格局矢量数据为基础,叠加1990 年和 2000年卫星遥感影像，根据遥感影像信息，目视解译修改成1990年和2000 年研究区景观格局矢量数据；以2015年研究区景观格局矢量数据为基础,叠加2010年卫星遥感影像,根据遥感影像信息，目视解译修改成2010年研究区景观格局矢量数据。采用现场GPS验证点，对遥感影像解译的各期数据景观斑块类型进行精度评价,计算得出1990年、2000年、2005年、2010年和2015年遥感影像整体解译精度分别为$9 5 \\%$ ） $9 6 \\%$ ） $9 9 \\%$ ） $9 8 \\%$ 和 $100 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7fdb12710a710a9d72a59b124f2788140d06308c72dc284d69a8caf14520056.jpg",
+        "img_caption": [
+            "图1研究区范围示意图",
+            "Fig.1Schematic diagram of study "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e1acd86d1d5281961cba1b457b02a9def33fe29b087279795f88ef165d33d54.jpg",
+        "table_caption": [
+            "表2海岸景观类型分类描述与影像特征",
+            "Table 2 Coastal landscape types describe and image characteristics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>景观类型 Landscape Type</td><td>类型描述 Type discription</td><td>影像特征 Image feature</td></tr><tr><td>01</td><td>盐田</td><td>用于滩涂海水晒盐的围堰池塘</td><td>大小依次有序排列的矩形围塘区域</td></tr><tr><td>02</td><td>养殖池塘</td><td>用于滩涂水产养殖的围堰池塘</td><td>形状相近并列排列的矩形围塘区域</td></tr><tr><td>03</td><td>堤坝</td><td>用于分割形成养殖池塘和盐池的土石质堤坝</td><td>呈网格状分割围堰水域的条带状区域</td></tr><tr><td>04</td><td>取排水口</td><td>用于海水养殖池塘、盐池汲取海水、排出废水的水域 通道及泄洪、径流通道</td><td>分布于盐池和养殖池塘镶嵌体中，且与海域联通的条带 状水域空间</td></tr><tr><td>05</td><td>湿地</td><td>长期处于积水或半积水状态的低洼滩地</td><td>呈灰褐色或绿色的低洼坑地及废气围塘区域</td></tr><tr><td>06</td><td>芦苇湿地</td><td>长期处于积水或半积水状态的芦苇滩地</td><td>分布在滩涂上的绿色植被</td></tr><tr><td>07</td><td>湖泊</td><td>地表相对封闭且蓄水的天然或人工洼地</td><td>处于建设地区域被草地围绕且具有相对规则边缘的 水域</td></tr><tr><td>08</td><td>草地</td><td>覆盖自然和人工草本植被的区域</td><td>呈浅绿色的规则或不规则陆地斑块区域</td></tr><tr><td>09</td><td>荒草地</td><td>树木郁闭度小于10% 表层为土质且生长杂草</td><td>浅绿色与土黄色相间分布有地面裸露的区域</td></tr><tr><td>10</td><td>建设地</td><td>用于开发居住区、商业区和工业区等建设土地</td><td>处于被道路纵横交错分割形成的具有明显建筑物密集 分布的矩形陆地区域</td></tr><tr><td>11</td><td>道路</td><td>用于交通通行的各类铁路、公路、乡村道路</td><td>呈网格状或条带状连接各个建设地、养殖池塘区、盐池 区的灰褐或灰亮条带状区域</td></tr><tr><td>12</td><td>农田</td><td>用于农业种植的各类耕地和园地</td><td>具有镶嵌分布的耕地斑块或种植设施斑块区域</td></tr><tr><td>13</td><td>绿地</td><td>城区或居住区人工草地</td><td>镶嵌在城市居民区建筑周边的规则斑块区域</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 评价单元构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将营口南部海岸的五期(1990 年、2000年、2005 年、2010 年和 2015 年)矢量数据添加到 Arcmap10.2中，以研究区域作为底图,利用ArcGIS10.2数据管理模块下的创建渔网工具,构建以研究区为范围的 $8 0 0 ~ \\textcircled { m } \\times 8 0 0$ $\\mathbf { m }$ 网格，每个网格作为一个评价单元。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2人为干扰度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用干扰度7分制的分级标准如表3所示。该标准经过前人大量的实证和改进[13-15],对比其它相关分级标准,该标准以遥感数据和土地分类系统为基础,更具有可操作性和可对比性。‘",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb09cd6971544bd61c02ccbad74e3fcddaacb7a8cafdb2fe906bd198e49b17c8.jpg",
+        "table_caption": [
+            "表3干扰强度等级及说明[13-15]",
+            "Table 3Degreen of hemeroby level and description[13-15] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干扰强度 Hemeroby</td><td>覆被类型说明 Cover type discription</td><td>干扰强度 Hemeroby</td><td>覆被类型说明 Cover type discription</td></tr><tr><td>1几乎不受人为影响 Ahemerobic</td><td>裸露的岩石冰川和永久积雪</td><td>5 较强的人为影响 α-euhemerobbic</td><td>体育休闲设施/非灌溉耕地/葡萄 园/水果种植园/复合栽培</td></tr><tr><td>2 微弱的人为影响 Oligohemerobic</td><td>针叶林/混交林/海滩、沙丘、沙 滩/内陆沼泽/泥潭沼泽/盐地沼 泽/潮间带/沿海泻湖/河口/海 与洋</td><td>6 非常强的人为影响 Polyhemerobic</td><td>不连续的城市区/矿区/垃圾场/施 工地</td></tr><tr><td>3中度的人为影响 Mesohemerobic</td><td>人工针叶林/人工混交林/天然 草地/沼泽和荒野/林地灌丛/植 被稀疏区/烧地区</td><td>7过分强度的人为影响，生物群 落已破坏Metahemerobic</td><td>连续的城市区/工业或商业区/公 路与铁路线及其附属物/港口/ 机场</td></tr><tr><td>4 中偏强度的人为影响</td><td>城市绿地/牧场/种植农用地/河</td><td></td><td></td></tr><tr><td>β-euhemerobic</td><td>道/水体</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考前人研究成果，给出干扰指数的计算方法，如公式3",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\sum _ { i = 1 } ^ { n } f _ { n } \\cdot h\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $M$ 为干扰指数， $n$ 为干扰度等级( $n = 7 \\cdot$ ）， $h$ 为干扰度 ${ \\mathcal { I } } _ { n }$ 为干扰度等级为 $h$ 的用地类型面积比值。计算每个评价单元的干扰指数,并将计算结果作为网格中心点值,在 ArcGIS 空间分析模块中,进行栅格差值,生成营口南部海南人类活动干扰度时空分布图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3分形维数计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用网格法计算岸线分形维数，计算公式如(2)所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { N } ( r ) = \\boldsymbol { r } ^ { - D }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当网格长度 $\\boldsymbol { r }$ 取不同值时， $N ( r )$ 也对应不同的值。然后在双对数坐标轴中以 $\\boldsymbol { r }$ 为横轴, $\\mathrm { l n } {  { N ( r ) } }$ 为纵轴作散点图,然后对点做回归分析可以得到公式（3)：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l n } N ( r ) = - \\ D \\mathrm { l n } r + \\mathrm { l n } C\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $C$ 为待定常数， $D$ 即为被测海岸线的分形维数。采用不同的 $\\boldsymbol { r }$ 值和对应的 $N ( r )$ 值，通过拟合分析即可得到分形维数 $D$ （ $\\boldsymbol { r }$ 的取值分别为 $5 0 \\ 、 1 0 0 \\ 、 2 0 0 \\ 、 4 0 0 \\ 、 8 0 0 0 \\ 、 1 6 0 0 \\ 、 3 2 0 0 \\mathrm { ~ m } ) \\mathrm { ~ } _ { \\mathrm { ~ c ~ } }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到岸线分形维数后，引进公式（4），计算分形维数的变化强度。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F C I } _ { i j } = \\frac { F _ { j } - F _ { i } } { j - i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { F C I } _ { i j }$ 为第 $i$ 年至第 $j$ 年岸线分形维数的变化强度； $F _ { i }$ 为第 $i$ 年海岸线的分形维数； $F _ { j }$ 为第 $j$ 年海岸线分形维数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4岸线长度变化强度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了客观对比各个时段海岸线长度变化速度的时空差异,采用某一段时段内海岸线长度的平均变化百分比来表示海岸线的变化强度[16]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L C I } _ { i j } = \\frac { L _ { j } - L _ { i } } { j - i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { L C I } _ { i j }$ 为第 $i$ 年至第 $j$ 年海岸线长度变化强度（LengthChange Intensity）; $L _ { i }$ 为第 $i$ 年海岸线的长度； $L _ { j }$ 为第j年海岸线长度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 景观格局指数计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观格局指数在景观生态学研究中被广泛应用[17-18]。本文根据研究区域景观分布特征、研究目的、研究内容以及景观格局指数的生态学意义,在类型、斑块及景观水平尺度上选取7个景观格局指数,分别为景观面积（TA）、Shannon 多样性指数（SHDI）、斑块密度（PD）、边缘密度（ED）、景观形状指数（LSI）、平均分维数（FRAC_MN）、总边缘长度（TE）。在fragstats软件中进行相关计算。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1岸线长度及分形维数变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自1990—2015 年,营口南部海岸岸线长度逐年递增,从1990 年的 $4 1 . 7 ~ \\mathrm { k m }$ ,增长到 2000 年的 $4 3 . 8 6 ~ \\mathrm { k m }$ ，2005 年的 $4 6 . 1 7 ~ \\mathrm { k m } , 2 0 1 0$ 年的 $6 9 . 1 5 ~ \\mathrm { k m }$ ,最后2015年达到了 $7 5 . 8 \\mathrm { k m }$ （图2、图3）。其中1990—2000年间，岸线年增长速率为 $0 . 5 2 \\%$ ,2000—2005年间岸线年增长速率为 $0 . 5 3 \\%$ ,2005—2010年间，岸线年增长速率突然增大到 $4 . 9 8 \\%$ ,2010一2015年间，岸线年增长速率降低为$0 . 9 6 \\%$ 。岸线长度的变化导致了岸线分形维数的变化，根据公式2,3计算岸线分形维数值，从图3中看出，分形维数的变化趋势与岸线变化趋势保持一致，即随岸线的增长而增大。岸线长度与分形维数的相关系数为0.93，而岸线变化强度与分形维数变化强度的相关系数为0.99。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2海岸带景观格局指数变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在fragstats 软件中计算出整个研究区域1990 年、2000年、2005年、2010年以及2015年7个类型及景观水平尺度上的景观格局指数,分别为景观面积（TA）、Shannon多样性指数（SHDI）、斑块密度（PD）、边缘密度ED）景观形状指数（LSI）、平均分维数（FRAC_MN）、总边缘长度（TE），计算结果如表4所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4分析可知，景观面积（TA）自1990年至2015年逐渐增大，而2005年至2015年此阶段增加速度最快，此种变化主要与营口南部海岸围垦面积增大有关。研究期间营口市南部海岸地区在研究期间斑块密度和边缘密度大体呈现出“低一高一低”的动态过程，表明从1990年到2005年期间，研究区域生态过程越来越活跃，而2005年至2015年期间，研究区生态过程逐渐趋于稳定。而景观形状指数（LSI）与平均分形维数（FRAC_MN)也呈现出同样的变化趋势，说明从1990 年至2005年期间，整体的景观边界形状复杂程度与破碎程度都有所增加，2005年后变化相反，表明景观形状趋于规则化发展。Shannon多样性指数（SHDI），SHDI反映在研究期间，从2005年至2010年SHDI呈现出明显增大趋势，表明在此段时期内，土地利用类型在自然状态下增加且趋于均衡化分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bd99708fc5a4c6bc525e82157c8457ebfd75db2345e78bbfc4cdaf7f097371b.jpg",
+        "img_caption": [
+            "图2不同时期的岸线变化",
+            "Fig.2The shoreline changes in different periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3海岸带人为干扰指数变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为进一步探索营口南部海岸带人为干扰度时空动",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.17 80000  \n1.16 分维度 70000  \n1.14 60000 ionrrr eeeitrt  \n1.13 50000  \n1.12  \n1.11 40000  \n1.10 30000  \n1.09 20000  \n1.08  \n1.07 10000  \n1.06 0  \n1990 2000 2005 2010 2015  \n年份Year",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "态变化,在ArcGIS10.2中的渔网工具创建 $8 0 0 ~ \\mathrm { m } { \\times } 8 0 0 ~ \\mathrm { m }$ 的网格，每个网格作为一个评价单元,利用公式(1)计算出每个评价单元的干扰强度。并将计算结果作为网格中心点值,然后利用ArcGIS 空间分析功能进行栅格插值,生成营口南部海南人类活动干扰度时空分布图如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/35d089e9aff86ec99ef233593542921274ba5708b0665188eb1968a678786ada.jpg",
+        "table_caption": [
+            "表4景观格局指数计算结果",
+            "Table 4Calculation results of landscape pattern index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>景观面积 TA</td><td>斑块密度 PD</td><td>总边缘长度 TE</td><td>边缘密度 ED</td><td>景观形状指数 LSI</td><td>平均分形维数 FRAC_MN</td><td>Shannon 多样性指数 SHDI</td></tr><tr><td>1990</td><td>27574.24</td><td>30.10</td><td>2276980</td><td>82.5763</td><td>36.0227</td><td>1.0852</td><td>1.217</td></tr><tr><td>2000</td><td>27758.20</td><td>2.9253</td><td>2089760</td><td>75.2844</td><td>33.1433</td><td>1.082</td><td>1.2124</td></tr><tr><td>2005</td><td>27941.21</td><td>3.0636</td><td>2371770</td><td>84.8843</td><td>37.3088</td><td>1.0866</td><td>1.2246</td></tr><tr><td>2010</td><td>29658.29</td><td>2.2624</td><td>1959300</td><td>66.0625</td><td>30.7329</td><td>1.0772</td><td>1.8928</td></tr><tr><td>2015</td><td>30239.15</td><td>1.9974</td><td>1765545</td><td>58.3861</td><td>27.7716</td><td>1.0742</td><td>1.8712</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从整体变化看,研究区域北部地区,人为干扰度从1990年到2015年显著增强,并逐渐向南扩张,主要是因为城市化的发展,人类活动聚集地向南蔓延,大量原有的盐田和低洼坑塘转变为建筑用地和工业区。在研究区西部离海域较近的地区,自1990年到2015年人为干扰强度逐渐变弱,并且有从靠海较近向较远的内陆地区蔓延的趋势,原因在于围垦养殖加剧,出现大量养殖池塘,使得干扰强度数值降低。东部地区人为干扰强度在1990 年到2005年期间变化并不明显,在2005年到2015 年期间,朝着人为干扰强度较弱的方向发展,主要是由于大量的盐田变为了湿地和草地。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别计算出研究区域1990年、2000年、2005年、2010年以及2015 年各干扰等级的面积变化,并结合实际将海岸带人为干扰强度划分为五个等级（低干扰强度：干扰等级 $\\leqslant 3$ 、中低干扰强度： $3 <$ 干扰等级 $\\leqslant 4$ 、中干扰强度：4<干扰等级≤5、中高干扰强度： $5 <$ 干扰等级 $\\leqslant 6$ 、高干扰强度： $6 <$ 干扰等级 $\\leqslant 7$ )；通过分析(表5)可以看出1990 年到2005年间干扰等级为2（湿地)的面积逐步减少,主要因为人类活动使得天然湿地的面积逐步缩小,2005 年到2010 年间迅速增加,主要原因是人工湿地面积的大幅度增加,尤其是 2008 年营口市实施的五大工程之一的西炮台湿地公园的建立,也是东北地区最大的城市湿地公园,人工湖区和湖心岛及进入园区的林地面积达到30万平方米,芦苇荡面积10万平方米。而2010年至2015年间面积呈现下降趋势主要是因为研究区东部大面积的湿地转变为草地。干扰等级为3的区域面积在1990到2000年间完全消失,而在 2005年到2010 年迅速增加主要是研究区西北部大面积的盐田转变为荒草地,2010年到2015年间增加主要是研究区东部大面积湿地转变为草地。干扰等级为4的区域面积在研究期间均呈上升趋势而干扰等级为5的面积呈下降趋势,主要原因是研究区域大量低效盐田转变为养殖池塘、建设用地、低洼坑塘等[19]。干扰等级为6的区域面积持续增加主要是因为城市化的扩张,使得建设用地面积增加。干扰等级为7的区域面积在研究期间变化较小,主要为道路与堤坝。从整体变化来看,随着时间变化,干扰强度相对较弱区域的面积和相对较强区域的面积都有所增加,干扰强度较弱区域的面积增长更多,且2005年之前变化相对较小,而 2005 年之后变化较为强烈。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/18aa6a8d011572534a77fc4022e7345b8d18a6a16af4e69f73a70a2b7d76ce3d.jpg",
+        "img_caption": [
+            "图4研究区干扰强度变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a71935181f0aed6380023fb757ef622959e57c45640cbec7b25bd9aee30a1404.jpg",
+        "img_caption": [
+            "Fig.4Heremoby variation ",
+            "图5不同干扰等级的面积变化",
+            "Fig.5Area variation of different disturbance levels "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4海岸带景观格局指数对人为干扰强度的动态响应",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "海岸带人为活动的不断加强,导致其景观空间结构、景观多样性和景观破碎度对人类活动做出不同程度的响应。从景观格局指数计算结果和干扰强度计算结果分析,可以看出景观格局指数反映出来的信息和干扰强度变化反映出的信息具有一定的同步性。为进一步研究景观格局指数对不同干扰强度的动态响应,计算出1900 年、2000年、2005年、2010年以及2015年整个研究区域的平均干扰强度分别为4.94、4.96、5.51、4.59 和4.46。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b08fbd646446737c1ed38272e46d74abb27bdc06870c4b93eefb54649a06f673.jpg",
+        "img_caption": [
+            "图6平均干扰强度与景观格局指数变化趋势",
+            "Fig.6The dynamic tendency of landscape pattern index and average Heremoby "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图6可以明显看出,在研究期间景观格局指数斑块密度（PD）、总边缘长度（TE）、边缘密度（ED）、景观形状指数(LSI)和平均分维值(FRAC_MN)均与平均干扰强度指数拥有同步变化趋势,当人类活动在海岸带地区加强时,斑块密度(PD）、总边缘长度（TE）、边缘密度（ED）、景观形状指数（LSI)和平均分维值（FRAC_MN)也随之增大，而人类活动减弱时,这几个景观格局指数趋于减小。此结果与孙永光[20]对大洋河口景观格局对人为干扰动态响应研究结果基本一致,海岸带景观格局指数表明人类活动是影响区域景观格局变化的驱动力之一。表明人类活动从1990 年至2005 年间人类活动不断增强,生态过程较为活跃,景观边界形状复杂程度与破碎程度都有所增加,2005年后变化相反,表明景观形状趋于规则化发展。2005年为此段时期内人类活动最为强烈、生态最为活跃的一个年份。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "选取景观格局指数中的 Shannon 多样性指数(SHDI)来进一步探讨景观格局指数与人为干扰度之间的关系,在研究区域选取了30个评价单元,选取原则为以岸线附近人类活动较强的区域为主，同时兼顾离海岸较远区域。通过计算每个评价单元的人为干扰强度和 Shannon多样性指数，所得结果如图7所示，在选取的 30个评价单元中 Shannon 多样性指标与人为干扰度指数大致呈现出反相关的特征,人为干扰强度越高,Shannon多样性指数数值越小,图中矩形区域内的评价单元的 Shannon多样性指数和人为干扰度指数都能够很好的一一对应。说明 Shannon 多样性指数可以较好的表征人类活动的方向与强弱。因此,同样可以说明人为干扰强",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "度变化也是影响景观格局变化的驱动因素之一。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfe688c810d97f31db473475e9a2ae493790436044efde0f1aa86a7768b448e0.jpg",
+        "img_caption": [
+            "图7人为干扰度与Shannon多样性指数 Fig.7Relationship between Heremoby and SHDI "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5人为干扰度对岸线变化的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "营口南部海岸岸线增长的主要原因是沿海地区围海养殖用地的快速发展,导致岸线向海扩张。1990—2000 年共新增土地面积 $2 5 2 . 9 \\times \\widehat { 1 0 } ^ { 4 } \\mathrm { ~ m } ^ { 2 }$ ,其中围海养殖用地占用地比例的 $7 4 \\%$ ,2000—2005 年间,新增土地面积约 $1 8 0 . 6 { \\times } 1 0 ^ { 4 } \\ \\mathrm { m } ^ { 2 }$ ,围海养殖用地占 $9 6 \\%$ ,2005—2010 年间新增土地面积约 $1 7 1 8 \\times 1 0 ^ { 4 } \\ \\mathrm { m } ^ { 2 }$ ,围海养殖用地占$8 5 \\%$ ,2010—2015 年间新增土地面积约 $5 8 1 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 2 }$ ,围海养殖用地占 $9 9 . 9 8 \\%$ （表5），围垦面积变化与岸线长度变化速率和岸线分形维数变化强度保持一致。从表5中可以看出,围海养殖用地的快速发展导致岸线形态发生了剧烈改变, $2 0 0 5 - 2 0 1 0$ 年为该地区岸线变化最为剧烈的时段,岸线年变化强度达到了 $4 . 9 8 \\%$ ,而这一时段的围垦总面积占近25年来的 $6 3 \\%$ 。同时通过研究发现,营口南部海岸围垦类型属于岸线增长型围垦,该类型围垦以某个区域为核心,不断向海凸,导致海岸线向外海延伸,岸线变长。该类型的人类围垦活动使岸线",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c38e283bb15ee1599d5b0c42a37e5c1136ff9975def8e62c1142e8be8511515.jpg",
+        "table_caption": [
+            "表5不同时间段新增土地面积及其利用类型 $' \\mathrm { m } ^ { 2 }$ ",
+            "Table 5New land area and its utilization in different time periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 Time</td><td colspan=\"11\">土地利用类型Land use type</td><td rowspan=\"2\">增面积 Increased area</td></tr><tr><td>道路 Road</td><td>堤坝 Dam</td><td>荒草地 Grassland</td><td>建设地 Construction land</td><td>芦苇湿地 Reed land</td><td>绿地 Green land</td><td>湿地 Wetland</td><td>水口 Weir</td><td>盐田 Seltern</td><td>养殖池塘 Aquatics pond</td><td></td></tr><tr><td>1990—2000</td><td>9278</td><td>58104</td><td>0</td><td>951</td><td>0</td><td>0</td><td>0</td><td>0</td><td>597303</td><td>1863246</td><td>2528883</td></tr><tr><td>2000- -2005</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>64150</td><td>12</td><td>1741955</td><td>1806117</td></tr><tr><td>2005- -2010</td><td>705394</td><td></td><td>891543</td><td>45136</td><td>13557</td><td>160286</td><td>716854</td><td>7747</td><td></td><td>14640345</td><td>17180861</td></tr><tr><td>2010- -2015</td><td>105</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>324</td><td>217</td><td>5812802</td><td>5813447</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "形态由“简单”变为“复杂”。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "岸线长度 △—岸线平均干扰 岸线平均干扰 岸线分形维数 线性(岸线分形维数) t 50000 40000 8000 5.0 Srieeerereeeeeere 士大彩 Snoeeererereeeeeere 4030 5.0 b 1.14 1.12 1.18 众 tirrrleriereaitrt 30000 2.0 2.0 1.10 20000 1.0 1.0 10000 1.08 0 0 0 1.06 1990 2000 2005 2010 2015 1990 2000 2005 2010 2015 年份Year ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a 为岸线长度与干扰强度的关系;b为岸线分析与干扰强度的关系",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "营口南部海岸岸线长度增长,岸线长度变化与人为干扰强度呈现明显的负相关(图8a)。尤其是 2005 年后,营口南部海岸大范围围垦养殖,岸线向海突出,使得人为干扰指数趋于下降,岸线长度急剧增长。而分形维数的变化趋势与人为干扰强度指数的变化也大致呈负相关。其中岸线长度与人为干扰强度的相关性达到了-0.97，岸线分形维数与人为干扰强度的相关性达到了 $- 0 . 9 8 _ { \\circ _ { \\circ _ { \\circ } } }$ 表明人类活动越弱，岸线长度变长，岸线的复杂程度越大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1)自1990年到2015年期间,围海养殖快速发展导致岸线形态发生了剧烈改变,岸线长度逐年递增,其中1990—2000 年间岸线年增长速率为 $0 . 5 2 \\% , 2 0 0 0 { - 2 0 0 5 }$ 年间岸线年增长速率为 $0 . 5 3 \\%$ ,2005—2010 年间岸线年增长速率突然增大到 $4 . 9 8 \\%$ ,2010一2015年间岸线年增长速率降低为 $0 . 9 6 \\%$ 。岸线长度的变化导致了岸线分形维数的同步变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)景观格局指数变化表明1990年至2005年期间整体的景观边界、形状复杂程度与破碎程度都有所增加,而 2005 年至2015年期间,景观边界形状的复杂度与破碎度趋于减小,表明景观形状趋于规则化、土地利用趋于均衡化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)从整体变化来看,研究区北部干扰强度指数随着城市化的推进而不断增强;西南部沿海地区由于围垦养殖而出现大量养殖池塘,使得干扰强度指数变低;东部地区 2005 年之前干扰强度指数变化不大,2005 年以后东部地区大部分低效盐田转变为湿地、草地和受围垦围堰池塘致使干扰度指数降低。随着时间变化,干扰强度相对较弱区域的面积和相对较强区域的面积都有所增加,且2005 年之后增速较快。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4)人类活动对营口南部海岸的景观格局变化产生了巨大的影响。主要表现在景观形状、景观边界复杂度、景观破碎化程度和景观多样性的变化;研究表明：1990年到 2005 年间,人类活动逐渐增强,景观边界、形状复杂程度与破碎程度都有所增加,而2005年以后人类活动强度下降,景观形状、边界复杂度和破碎化程度也随之变小,景观逐渐趋于规则化。景观 Shannon 多样性指数则与人为干扰强度变化呈反相关,在所选取的评价单元可以看出当人为干扰越大的区域、干扰活动越强,Shannon 多样性指数变小,因此说明人为干扰强度变化也是影响景观格局变化的驱动因素之一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5)研究期间,营口南部海岸岸线长度变化与人类干扰度呈反相关,岸线分形变化与人为干扰强度变化也大致呈反相关。相关性分别为-0.97和-0.98。表明人类活动越弱,岸线长度变长,岸线的复杂程度越大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1］王栋，孙娟，玉永雄.我国海岸带生态现状研究进展.河北渔业，2007，（9)：10-13.  \n［2］王江涛.海洋功能区划若干理论研究[D].青岛：中国海洋大学，2011.  \n[3］刘伟，刘百桥.我国围填海现状、问题及调控对策.广州环境科学，2008，23(2)：26-30.  \n［4］韩丕龙.填海新区海岸带景观生态化建设——以深圳前海合作开发区为例[D].济南：山东大学，2014.  \n［5］许玲.基于海洋资源价值评估的围填海管理方法研究[D].青岛：中国海洋大学，2014.  \n[6］肖翠，解雪峰，吴涛，蒋国俊，边华菁，徐伟.浙江西门岛湿地景观格局与人为干扰度动态变化.应用生态学报，2014，25（11)：3255-3262.  \n[7］梁发超，刘黎明.景观格局的人类干扰强度定量分析与生态功能区优化初探——以福建省闽清县为例.资源科学，2011，33（6)：1138- 1144.  \n[8］孙永光,李秀珍，郭文永，何彦龙，贾悦.基于CLUE-S 模型验证的海岸围垦区景观驱动因子贡献率．应用生态学报，2011,22（9)：2391-2398.  \n［9］彭建.海岸带土地持续利用的景观生态研究—以山东省无棣县为例[D].北京：北京大学，2002.  \n[10] WanRR，YangGS.Changesoflanduseandlandscapepatem inTaiuLake Basin.ChineseJoualofAppliedEcology，2Oo5，16（3）：475-480.  \n[11］吴涛，赵冬至，张丰收，卫宝泉.基于高分辨率遥感影像的大洋河河口湿地景观格局变化.应用生态学报，2011,22（7)：1833-1840.  \n[12] WalzU,Steidobfohogfsasinalfeseatio）9.  \n[13] Glawion R.Ecosystems and land use.Physical Geography of Germany，2002,62： 289-319.  \n[14] MarksR，chultualdapigisructiosforgeoicalap.gnutndsude9826.  \n5]RdissasUistcseataaotdseecIndicators，2012，15(1）:208-216.  \n[16］刘永超，李加林，袁麒翔，史小丽，浦瑞良，杨磊，卢雪珠.人类活动对港湾岸线及景观变迁影响的比较研究——以中国象山港与美国坦帕湾为例.地理学报，2016，71（1)：86-103.  \n[17］朱明，濮励杰，李建龙.遥感影像空间分辨率及粒度变化对城市景观格局分析的影响.生态学报，2008，28（6)：2753-2763.  \n[18] 陈爱莲，朱博勤，陈利顶，吴艳华，孙然好.双台河口湿地景观及生态干扰度的动态变化.应用生态学报，2010,21（5）：1120-1128.  \n[19］索安宁，王鹏，袁道伟，于永海，张明慧.基于高空间分辨率卫星遥感影像的围填海存量资源监测与评估研究——以营口市南部海岸为例.海洋学报，2016，38(9)：54-63.  \n[20］孙永光，赵冬至，吴涛，卫宝泉，高树刚，李媛，曹芳芳.河口湿地人为干扰度时空动态及景观响应——以大洋河口为例.生态学报，2012，32(12):3645-3655.",
+        "page_idx": 10
+    }
+]

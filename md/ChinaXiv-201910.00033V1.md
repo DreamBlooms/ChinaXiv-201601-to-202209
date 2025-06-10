@@ -1,0 +1,178 @@
+# 砂生槐根瘤内生菌对青稞种子萌发及幼苗的促生作用
+
+卢玉君¹，王孝先²，赵伟进¹，刘晓凤¹，付彩青¹，何建清（1.西藏农牧学院植物科学学院，西藏 林芝市860000;2.西藏农牧学院食品科学学院，西藏林芝市 860000)
+
+摘要：为研究接种不同砂生槐根瘤内生菌对黑青稞种子萌发及生理性状的影响，筛选出促进黑青稞幼苗生长的优良砂生槐根瘤内生菌。以接种不同砂生槐根瘤内生菌的黑青稞种子和不接种菌株的黑青稞种子为研究材料，采用培养皿作为基质，观察黑青稞种子萌发及幼苗生长情况。测定接种不同根瘤内生菌后的黑青稞发芽率、发芽势、发芽指数、株高、根长、须根数、根冠比、植株全株干/鲜重的生理性状，并对各不同处理进行隶属函数综合评价。结果表明：菌株R7和R17的发芽率均达到了 $100 \%$ ，R17、R18及R19的发芽势达到了 $90 \%$ ，R17和R18的发芽指数变化量与CK1对比分别为 $45 . 3 8 \%$ 和 $32 . 0 5 \%$ 。在不同处理下，R21、R14与R7的平均根长与CK1对比呈抑制作用，其变化量分别为- $50 \%$ 、 $- 3 4 . 2 8 \%$ 及 $- 2 8 . 9 9 \%$ ：黑青稞幼苗植株高与CK1对比，仅有4株菌对株高产生促进作用，分别是R5、R18、R22及R28；黑青稞幼苗须根数与CK1对比，除R15与R21呈抑制作用外，其余菌株均对幼苗须根数产生促进作用，但R17、R18及R19处理下须根数无显著差异 $( P { > } 0 . 0 5 )$ 。与CK1对比，对植株全株鲜重产生促进作用的仅有4株菌，分别为R2、R18、R22和R28；菌株R5、R6及R14的全株干重均低于对照CK1，其余与CK1对比差异显著 $( P { < } 0 . 0 5 )$ 。试验结果说明了不同砂生槐根瘤内生菌菌株对黑青稞的种子萌发及幼苗生理性状影响差异显著 $( P { < } 0 . 0 5 )$ ；接种不同根瘤内生菌效应的综合评价结果显示，接种R17、R18、R28、R20、R19 菌株的黑青棵种子隶属函数值为6.71、6.45、6.31、5.81、5.76，可初步选为优良的促生菌株。
+
+关键词：砂生槐，根瘤内生菌，黑青稞，种子萌发，促生中图分类号：S4 文献标识码：A
+
+# Effects of Sophora moorcroftiana endophytic bacteria on germination of highland barley seeds and seedling growth
+
+LU Yujun1, WANG Xiaoxian², ZHAO Weijin1, LIU Xiaofeng1, FU Caiqing1, HE Jianqing1\* (1.College of Plant Sciences, Tibet Agriculture & Animal Husbandry University, Nyingchi City 860oo0, Tibet, China; 2. College of Food Science, Tibet Agriculture & Animal Husbandry University,Nyingchi City 860000, Tibet, China)
+
+基金项目：国家自然科学基金项目（31560001）；西藏自治区重点科技项目（XZ201702NB08）[Supportedby the National Natural Science Foundation of China（31560o01）；Key Scientific and Technological Projects inTibet Autonomous Region（XZ 201702NB 08）]。  
+作者简介：卢玉君(1994-)，女，广西南宁市，在读硕士研究生，主要研究方向为植物病理学，(E-mail)782977456@qq.com。  
+\*通信作者：何建清，硕士，教授，研究方向为微生物资源与微生物肥料，(E-mail) hejianqingxz@163.com。
+
+Abstract: In order to study the effects of inoculating different sophora moorcroftiana nodule endophytes on the germination and physiological traits of black highland barley seeds,the endophytic bacteria of sophora moorcroftiana nodules which promoted the growth of black highland barley seedlings were screened. Black highland barley seeds inoculated with endophytic bacteria of different sophora moorcroftiana nodules and black highland barley seeds not inoculated with strains were used as research materials,and culture dishes were used as substrates to observe the seed germination and seedling growth of black highland barleys. The germination rate, germination potential, germination index, plant height, root length, root number, root-shoot ratio，physiological characteristics of plant dry/fresh weight of black highland barley after inoculation with different endophytic bacteria were determined,and the different treatments were subordinated. Comprehensive evaluation of functions. The results showed that the germination rate of strains R7 and R17 reached $100 \%$ , the germination potential of R17, R18 and R19 reached $90 \%$ ， and the germination index of R17 and R18 was $4 5 . 3 8 \%$ and $3 2 . 0 5 \%$ ，respectively. Under different treatments, the average root length of R21, R14 and R7 was inhibited by CK1,and the changes were $- 5 0 \%$ 0 $- 3 4 . 2 8 \%$ and $- 2 8 . 9 9 \%$ , respectively. The plant height of black highland barley seedlings was compared with CK1,only 4 strains. The bacteria promoted plant height, which were R5,R18,R22 and R28.The number of roots of black highland barley seedlings was compared with CK1. Except that R15 and R21 inhibited, the other strains promoted the number of seedlings of seedlings, but R17 and R18.There was no significant difference in the number of roots under R19 treatment( $( P { > } 0 . 0 5 )$ . Compared with CK1, there were only 4 strains that promoted the fresh weight of plants, which were R2, R18, R22 and R28. The dry weight of strains R5, R6 and R14 were lower than that of control CKl，and the rest were related to CK1. The contrast is significant $( P { < } 0 . 0 5 )$ .The results showed that the different endophytic strains of different sophora moorcroftiana nodules had significant effects on the seed germination and seedling physiological traits of black highland barley $( P { < } 0 . 0 5 )$ . The comprehensive evaluation results of inoculating different nodule endophytic effects showed that R17,R18,R28 and R20 were inoculated. The sub-function value of the black highland barley seed of R19 strain is 6.71, 6.45,6.31,5.81,5.76, which can be initially selected as an excellent growth-promoting strain.
+
+Key words: Sophora moorcroftiana, endophytic bacteria in root nodules, black highland barley, seed germination, promote growth
+
+青稞(Hordeumvulgarevar.coeleste)起源于西藏，不仅是藏族人民的主粮，还是西藏的第一大作物，在西藏的种植面积达14.18万 $\mathrm { h m } ^ { 2 }$ （梁珠英，2014；朱丹等，2014；黄海蛟和李杨，2019）。青稞通常还被分为白、黑、紫、墨绿青稞等类型，研究表明，青稞除了具有高蛋白、高纤维、高维生素、低脂肪以及低糖（三高两低）的特点，还富含β-葡聚糖、母育酚、黄酮、花青素、维生素、膳食纤维等功能性成分，其中黑青稞在营养品质和抗氧化活性物质含量方面优于白青稞，在功能性保健产品开发方面有较高的利用价值，因此越来越受消费者的欢迎（汪丽萍等，2012；朱睦元和张京，2015；徐菲等，2016；张帅等，2017；林津等，2016；杜道坤等，2017）。西藏耕种土壤养分氮素偏低，缺乏磷素，为了保证黑青稞产量长期施用氮磷钾复混肥，但长期施肥会引起土壤污染问题，阻碍作物生长和降低农产品质量（钟国辉等，2005；任顺荣等，2005；周丽萍和戚瑞生，2017）。因此，发掘能够替代化学肥料的微生物菌肥势在必行。
+
+植物内生菌(Endophytes)是植物体内微生物群体的主要成员，大多数内生菌对宿主植物产生有益生物学作用，如促生、抗病、固氮、溶磷、解钾等，同时还是微生物肥料的重要菌源之一（何红等，2004；高阳等，2017）。赵龙飞等（2016）在接种内生菌试验中发现，内生菌DD132对小麦幼苗生长具有明显的促生作用。周怡等（2009）从大豆种子中分离到的1株内生芽孢杆菌 SN10E1，其对豆芽长度增长 $41 \%$ ，百株鲜重增长 $2 8 \%$ 。研究表明，干旱胁迫对植物种子萌发与幼苗生长会产生一定的影响（孙景宽等，2006；王霞等，2001），如 Saravanakumar 等（2011）接种 P.fluorescens Pf1 菌株的绿豆苗在干旱胁迫下的活力指数、干重与鲜重、CAT与POD 活性，脯氨酸的积累量均高于对照，提高了植株的干旱胁迫能力。此外，经产IAA内生菌浸种处理后的玉米种子萌发率在适宜的PEG 浓度下均有不同程度的提高，表明了产IAA内生菌缓解玉米种子干旱胁迫的影响(高阳等，2017)。
+
+为此，本研究以西藏山南隆子黑青稞为原材料，采用分离自西藏特有物种“砂生槐”[Sophoramoorcroftiana (Benth.)Baker]的根瘤内生细菌，研究砂生槐根瘤内生细菌对非豆科植物黑青稞种子萌发和幼苗的促生作用，以期筛选出优良的根瘤内生细菌，为西藏青稞微生物菌肥研制提供科学合理的理论依据。
+
+# 1.材料与方法
+
+# 1.1试验材料
+
+# 1.1.1供试青稞种子
+
+黑青棵种子于2018年由西藏山南隆子县农牧局提供。
+
+1.1.2供试根瘤内生菌菌株
+
+供试的28个菌株采集自西藏米林县、朗县、加查县、林周县、白朗县、拉萨市、日喀则市、贡嘎县、扎囊县等地的盛花期和结荚期砂生槐根瘤样品，分离筛选后保存在西藏农牧学院生物技术中心真菌实验室的冰箱中（何建清等，2019）。
+
+# 1.1.3供试培养基
+
+保存菌株的培养基使用LB培养基，LB固体培养基配方如下（张丹凤等，2018）：蛋白脉 $\boldsymbol { 1 0 } \mathrm { g }$ 、酵母粉 $\boldsymbol { 5 } \ : \mathrm { g }$ ， $\mathrm { { N a C l 1 0 \mathrm { g } } }$ 、琼脂 $1 6 { \sim } 1 8 ~ \mathrm { g }$ ， $\mathfrak { p H }$ 值： $7 . 4 { \sim } 7 . 6$ 。
+
+培养菌株的培养基使用蒙金娜有机磷液体培养基，蒙金娜有机磷液体培养基配方如下（李海云等，2018）： $\mathrm { M n S O _ { 4 } } \cdot 4 \mathrm { H _ { 2 } O } \ : 0 . 0 3 \ : \mathrm { g }$ 、 $\mathrm { F e S O _ { 4 } \bullet 7 H _ { 2 } O 0 . 0 3 \ g }$ 、 $\mathrm { C a C O _ { 3 } } 5 . 0 \ \mathrm { g }$ 、葡萄糖 $1 0 . 0 \ \mathrm { g }$ 、 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } 0 . 5 g }$ 、卵磷脂 $0 . 2 { \mathrm { ~ g ~ } }$ 、 $\mathrm { N a C l } \ : 0 . 3 \ : \mathrm { g }$ 、 $\operatorname { K C l } 0 . 3 \ \mathrm { g }$ 、酵母膏 $0 . 4 \ \mathrm { g }$ 、琼脂$2 0 \mathrm { g }$ ， $\mathrm { p H } 7 . 0 { \sim } 7 . 5 \$ 。
+
+配制时用蒸馏水定容至 $1 0 0 0 \mathrm { m L }$ ， $1 2 1 ^ { \circ } \mathrm { C }$ 灭菌 $3 0 \mathrm { m i n }$ 。
+
+# 1.2 试验方法
+
+# 1.2.1根瘤内生菌株的培养
+
+将存放于冰箱中的菌株分别挑起单菌落接种到蒙金娜有机磷液体培养基中， $2 8 \mathrm { ~ \textdegree ~ }$ 恒温、$1 6 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 震荡培养7d（赵伟进等，2018）。
+
+1.2.2有效磷含量及IAA含量测定
+
+采用钼锑抗比色法定量测定有机磷和无机磷细菌的有效磷含量（康慧颖等，2015），采用Salkowski比色法测定菌株IAA含量（Glickmann&Dessaux，1995）。
+
+# 1.2.3 黑青棵种子处理
+
+挑选大小、饱满度一致的黑青稞种子，先用 $2 \%$ 的 $\mathrm { { N a C l O } }$ 溶液将种子消毒 $2 0 \mathrm { m i n }$ ，再用 $70 \%$ 乙醇消毒 $3 0 ~ \mathrm { s }$ ，最后取出用无菌水冲洗3次后备用（罗巧芝等，2018）。将消毒后的黑青稞种子分别浸入菌液中， $2 5 \ \mathrm { { ^ \circ C } }$ 吸附 $2 \mathrm { h }$ ，置于无菌操作台上风干后，各取10粒种子播种于直径 $9 0 ~ \mathrm { m m }$ 、垫有2层润湿滤纸的无菌培养皿中，之后将培养皿置于光照培养箱中催芽， $( 2 5 \pm 1$ ） $\mathrm { { ^ \circ C } }$ 黑暗培养7d，每个处理设3次重复（安海梅和姚晓华，2017）。以浸泡无菌水的黑青稞种子做阴性对照，以不接菌的蒙金娜有机磷培养液做阳性对照。
+
+# 1.2.4样品采集与测定
+
+在培养的过程中，每天记录黑青稞的生长情况，培养结束后，选取长势良好的黑青稞幼苗测量其株高、根长，计数须根数，分别称其植株、须根及全株鲜重，烘干后，称其干重，记录重量。
+
+发芽势和发芽率观察测定：每日观察并记录发芽种子数，种子发芽的判断依据以种子露白为标准。每天观察其发芽情况，缺水时补充无菌水，补充无菌水时要在无菌条件下补充，避免杂菌进入感染。按照3d发芽势，7d发芽率进行发芽种子数统计，计算种子发芽势、发芽率（谭勇等，2019）。
+
+计算公式如下：发芽势 $( \% ) = ( 3 \mathrm { ~ d ~ }$ 内发芽的种子数/供试种子数) $\times 1 0 0$ ；发芽率 $( \% ) { = } ( 7 \mathrm { ~ d ~ }$ 内发芽的种子数/供试种子数) $\times 1 0 0$ ；发芽指数（GI） ${ } = \mathrm { \sum G t / D t }$ 。
+
+公式中：Gt为在t日的发芽种子数，Dt为表示对应的天数（殷丽丽等，2019）。1.3分析统计
+
+分别采用Excel2019软件和DPS数据处理系统软件对试验数据进行分析和处理。
+
+# 2.结果与分析
+
+2.1砂生槐根瘤内生菌的初筛与复筛结果
+
+由表1可知，菌株R2、R10、R24以及R26产有机磷菌较高，其中菌株R26产有机磷高达 $1 3 5 . 2 \ \underline { { \mathrm { m g } } } ^ { \bullet } \mathrm { L } ^ { - 1 }$ ，菌株 R1、R5、R7、R10、R12以及R21产无机磷较高，均在 $1 0 0 \underline { { \mathrm { m g } } } ^ { \bullet }$ L1，其中菌株R1产无机磷高达 $1 2 8 . 7 1 \ \underline { { \mathrm { m g } } } \bullet \underline { { \mathrm { L } } } ^ { - 1 }$ 。菌株R17、R19、R20、R21、R22以及R27产IAA较高，均在 $4 0 \ : \underline { { \mathrm { m g } ^ { \bullet } \mathrm { L } ^ { - 1 } } }$ 以上，其中菌株R27产IAA最高，高达 $5 5 . 9 1 6 \underline { { \mathrm { m g } ^ { \bullet } \mathrm { L } ^ { - 1 } } }$ 。））不同根痴菌内牛菌株寸書稗种子茹发的影响
+
+表1砂生槐根瘤菌有效磷及IAA含量测定结果  
+Table 1 Results of determination of available phosphorus and IAA content in Rhizobium   
+
+<html><body><table><tr><td>菌株 编号 No. of strains</td><td>有机磷含量 Organic phosphorus content (mg·L-1)</td><td>无机磷含量 Inorganic phosphorus content</td><td>IAA (mg·L-1)</td><td>菌株 编号 No.of strains</td><td>有机磷含量 Organic phosphorus content</td><td>无机磷含量 Inorganic phosphorus content</td><td>IAA (mg·L-1)</td></tr><tr><td>R1</td><td>31.8</td><td>(mg·L-1) 128.8</td><td>37.7</td><td>R16</td><td>(mg·L-1) 45.3</td><td>(mg·L-1) 22.2</td><td>18.4</td></tr><tr><td>R2</td><td>56.8</td><td>52.4</td><td>18.2</td><td>R17</td><td>16.8</td><td>14.0</td><td>49.2</td></tr><tr><td>R3</td><td>18.5</td><td>29.5</td><td>21.2</td><td>R18</td><td>32.5</td><td>94.4</td><td>10.6</td></tr><tr><td>R4</td><td>25.1</td><td>31.4</td><td>9.5</td><td>R19</td><td>20.8</td><td>39.6</td><td>47.7</td></tr><tr><td>R5</td><td>24.8</td><td>116.3</td><td>7.0</td><td>R20</td><td>13.0</td><td>60.9</td><td>48.4</td></tr><tr><td>R6</td><td>37.3</td><td>52.3</td><td>11.2</td><td>R21</td><td>5.2</td><td>122.8</td><td>45.8</td></tr><tr><td>R7</td><td>42.6</td><td>112.5</td><td>29.2</td><td>R22</td><td>12.4</td><td>30.4</td><td>43.3</td></tr><tr><td>R8</td><td>42.8</td><td>99.5</td><td>8.0</td><td>R23</td><td>12.6</td><td>23.5</td><td>24.1</td></tr><tr><td>R9</td><td>16.8</td><td>57.4</td><td>7.2</td><td>R24</td><td>92.7</td><td>15.5</td><td>38.2</td></tr><tr><td>R10</td><td>54.8</td><td>107.0</td><td>14.2</td><td>R25</td><td>4.7</td><td>30.0</td><td>32.1</td></tr><tr><td>R11</td><td>24.6</td><td>27.8</td><td>10.0</td><td>R26</td><td>135.2</td><td>51.2</td><td>36.2</td></tr><tr><td>R12</td><td>32.5</td><td>111.0</td><td>11.3</td><td>R27</td><td>27.2</td><td>46.7</td><td>55.9</td></tr><tr><td>R13</td><td>39.4</td><td>47.0</td><td>9.5</td><td>R28</td><td>3.7</td><td>23.8</td><td>35.8</td></tr><tr><td>R14</td><td>31.0</td><td>29.3</td><td>12.1</td><td>R29</td><td>11.9</td><td>35.5</td><td>14.5</td></tr><tr><td>R15</td><td>34.4</td><td>28.5</td><td>9.4</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+由表2可知，黑青稞在不同砂生槐根瘤内生菌处理下，发芽率以菌株R7效果为最优，菌株R15 效果次之（表2）。菌株R4、R6、R7、R17、R18、R19、R20、R21以及R28的发芽率均达到了 $80 \%$ ，其中R7较CK1（ $80 \%$ ）差异显著 $( P { < } 0 . 0 5 )$ ，R28较CK1无显著差异
+
+中 $( P { > } 0 . 0 5 )$ ），说明了这几株菌株均促进了青稞种子的萌发；表2中菌株R4、R6、R17、R18、R19、R20以及R28的发芽势和CK1（ $80 \% )$ 相比，分别增加了 $6 . 6 7 \%$ 、 $6 . 6 7 \%$ 、 $20 \%$ 、 $20 \%$ 、$20 \%$ 、 $13 . 3 3 \%$ 以及 $6 . 6 7 \%$ 。菌株R4、R7、R17、R18、R21和R28的发芽指数均比CK1高，其中R17的发芽指数与发芽指数变化量最高，分别为9.45和 $45 . 3 8 \%$ ，由此表明，与CK1对比，经这几株不同菌株菌液处理之后提高了青稞种子活力。
+
+表2不同菌株浸种对黑青稞种子萌发的影响  
+
+<html><body><table><tr><td colspan="6">Table 2 Effects of soaking seeds with different strains on seed germination of black highland barley</td></tr><tr><td>菌株</td><td>发芽率</td><td>发芽率变化量</td><td>发芽势</td><td>发芽势变化量</td><td></td><td>发芽指数变化量</td></tr><tr><td>编号 No. of</td><td>Germination rate</td><td>Germination rate change</td><td>Germination</td><td>Germination potential change</td><td>发芽指数 Germination index</td><td>Germination index change</td></tr><tr><td>strains</td><td>（%）</td><td>（%）</td><td>（%）</td><td>（%）</td><td></td><td>（%）</td></tr><tr><td>R2</td><td>70±1.85g</td><td>-12.50</td><td>60±1.59g</td><td>-20.00</td><td>5.59±0.15g</td><td>-14.05</td></tr><tr><td>R4</td><td>85±2.25d</td><td>6.25</td><td>80±2.12c</td><td>6.67</td><td>7.87±0.21c</td><td>21.03</td></tr><tr><td>R5</td><td>65±1.95h</td><td>-18.75</td><td>40±1.20j</td><td>-46.67</td><td>4.92±0.15h</td><td>-24.36</td></tr><tr><td>R6</td><td>90±0.90c</td><td>12.50</td><td>80±0.80c</td><td>6.67</td><td>6.50±0.07e</td><td>0.00</td></tr><tr><td>R7</td><td>100±1.73a</td><td>25.00</td><td>75±1.30d</td><td>0.00</td><td>6.70±0.12e</td><td>3.13</td></tr><tr><td>R14</td><td>55±0.55i</td><td>-31.25</td><td>40±0.40j</td><td>-46.67</td><td>4.17±0.04i</td><td>-35.85</td></tr><tr><td>R15</td><td>55±1.46i</td><td>-31.25</td><td>50±1.32i</td><td>-33.33</td><td>4.33±0.11i</td><td>-33.33</td></tr><tr><td>R17</td><td>100±2a</td><td>25.00</td><td>90±1.80a</td><td>20.00</td><td>9.45±0.19a</td><td>45.38</td></tr><tr><td>R18</td><td>95±2.85b</td><td>18.75</td><td>90±2.70a</td><td>20.00</td><td>8.58±0.26b</td><td></td></tr><tr><td></td><td>90±2.38c</td><td>12.50</td><td>90±2.38a</td><td></td><td>6.50±0.17e</td><td>32.05</td></tr><tr><td>R19</td><td>95±2.51b</td><td></td><td>85±2.25b</td><td>20.00</td><td></td><td>0.00</td></tr><tr><td>R20</td><td>90±2.70c</td><td>18.75</td><td></td><td>13.33</td><td>8.00±0.21c</td><td>23.08</td></tr><tr><td>R21</td><td></td><td>12.50</td><td>70±2.10e</td><td>-6.67</td><td>7.57±0.23d</td><td>16.41</td></tr><tr><td>R22</td><td>75±0.75f</td><td>-6.25</td><td>55±0.55h</td><td>-26.67</td><td>5.83±0.06fg</td><td>-10.26</td></tr><tr><td>R28</td><td>80±1.39e</td><td>0.00</td><td>80±1.39c</td><td>6.67</td><td>7.50±0.13d</td><td>15.44</td></tr><tr><td>CK1</td><td>80±0.80e</td><td>0.00</td><td>75±0.75d</td><td>0.00</td><td>6.50±0.07e</td><td>0.00</td></tr><tr><td>CK2</td><td>85±1.70d</td><td>6.25</td><td>85±1.70b</td><td>13.33</td><td>7.33±0.15d</td><td>12.82</td></tr></table></body></html>
+
+注：同列不同小写字母分别表示处理间在0.05水平有显著差异。下同。 Note:Differentlowercase leters inthesamecolumn indicatesignificant diffrencesbetween the treatmentlevelsatthe0.05 level. The same below.
+
+# 2.3不同根瘤内生菌株对青稞幼苗生长的影响
+
+由表3可知，黑青稞分别接菌不同砂生槐根瘤内生菌后，R2、R4、R5、R6、R15、R17、R18、R19、R20、R22和R28处理下植株根长均高于CK1（ ${ 8 . 1 4 } \mathrm { c m } \dot { } , $ ），说明在不同处理下促进了植株根长，其中R6较CK1显著高 $54 . 5 5 \%$ ；R5、R18、R22和R28处理的植株高均高于CK1（ $1 1 . 2 8 ~ \mathrm { c m } ^ { \cdot }$ ），其中R18与CK1间差异显著 $( P { < } 0 . 0 5 )$ ，R2、R4、R6、R7、R14、R15、R17、R19、R20 和R21处理的株高均显著低于CK1；14 种不同砂生槐根瘤内生菌处理下的植株平均须根数除R15和R21低于CK1（5.3根）外，其余均高于CK1，说明不同砂生槐根瘤内生菌处理下促进了植株须根的生长，增加了植株须根数。
+
+Table 3 Effect of soaking seeds with different strains on the growth of black highland barley seedlings   
+
+<html><body><table><tr><td colspan="2">菌株 编号</td><td rowspan="2">根长</td><td rowspan="2">根长变化量</td><td rowspan="2">植株高 Plant height（cm）</td><td rowspan="2">植株高变化量 Plant high variation（%）</td><td rowspan="2">须根数 Number of roots</td><td rowspan="2">须根数变化量 Number of roots （%）</td></tr><tr><td>No.of Root length（cm）</td><td>Root length change（%）</td></tr><tr><td> strains</td><td></td><td></td><td></td><td></td><td>(根)</td><td></td></tr><tr><td>R2</td><td>9.97±0.30c</td><td>22.48</td><td>10.17±0.31ef</td><td>-9.84</td><td>5.38±0.17gh</td><td>1.45 15.47</td></tr><tr><td>R4</td><td>9.45±0.19d</td><td>16.09</td><td>9.94±0.20f</td><td>-11.88</td><td>6.12±0.12bc</td><td></td></tr><tr><td>R5</td><td>10.19±0.27bc</td><td>25.18</td><td>11.54±0.12bc</td><td>2.30</td><td>5.91±0.16cde</td><td>11.51</td></tr><tr><td>R6</td><td>12.58±0.13a</td><td>54.55</td><td>7.24±0.07j</td><td>-35.82 -40.60</td><td>5.79±0.06def 5.60±0.15fg</td><td>9.25 5.66</td></tr><tr><td>R7 R14</td><td>5.78±0.15i 5.35±0.05j</td><td>-28.99</td><td>6.70±0.12k 10.64±0.11d</td><td>-5.67</td><td>6.64±0.07a</td><td>25.22</td></tr><tr><td>R15</td><td>8.15±0.08g</td><td>-34.28 0.12</td><td>8.87±0.24g</td><td>-21.37</td><td>5.09±0.05i</td><td>-3.96</td></tr><tr><td>R17</td><td>9.88±0.10c</td><td>21.38</td><td>7.80±0.08i</td><td>-30.85</td><td>6.25±0.06b</td><td>17.92</td></tr><tr><td>R18</td><td>9.24±0.19de</td><td>13.51</td><td>11.57±0.23bc</td><td>2.57</td><td>6.26±0.13b</td><td>18.18</td></tr><tr><td>R19</td><td>8.50±0.26f</td><td>4.42</td><td>10.31±0.31de</td><td>-8.60</td><td>6.26±0.19b</td><td>18.18</td></tr><tr><td>R20</td><td>9.02±0.24e</td><td>10.81</td><td>8.32±0.22h</td><td>-26.24</td><td>5.80±0.15def</td><td>9.50</td></tr><tr><td>R21</td><td>4.07±0.07k</td><td>-50.00</td><td>3.79±0.101</td><td>-66.40</td><td>4.47±0.08j</td><td>-15.60</td></tr><tr><td>R22</td><td>10.38±0.28b</td><td>27.52</td><td>11.83±0.31b</td><td>4.88</td><td>5.75±0.15ef</td><td>8.55</td></tr><tr><td>R28</td><td>12.30±0.33a</td><td>51.11</td><td>13.88±0.37a</td><td>23.05</td><td>6.31±0.16b</td><td>19.12</td></tr><tr><td>CK1</td><td>8.14±0.08g</td><td>0.00</td><td>11.28±0.11c</td><td>0.00</td><td>5.30±0.16hi</td><td>0.00</td></tr><tr><td>CK2</td><td>6.86±0.21h</td><td>-15.72</td><td>9.90±0.30f</td><td>-12.23</td><td>6.00±0.18cd</td><td>13.21</td></tr></table></body></html>
+
+2.4不同根瘤内生菌株浸种对青稞干重与鲜重的影响
+
+由表4可知：经不同菌株菌液处理对黑青稞全株干重/鲜重均有一定的影响，其中 R2、R18、R22和R28的干重/鲜重与CK1( $0 . 6 5 { \bf g } / 4 . 7 7 { \bf g } )$ 对比显著差异 $( P { < } 0 . 0 5 )$ ；但全株鲜重除R2、R18、R2和R28外均低于 $\mathrm { C K 1 } ( 4 . 7 7 \ \mathrm { g } )$ ，全株干重除R5、R6和R14外，均超过了 $\mathrm { C K } 1 ( 0 . 6 5 \ : \mathrm { g } )$ 。
+
+表4不同菌株菌液浸种对黑青稞全株幼苗鲜重、干重的影响 Table 4Effect of soaking seeds of different strains on_fresh weight and dry weight of seedlings ofblack highland barley   
+
+<html><body><table><tr><td rowspan="2">菌株 编号 No. of strains</td><td>全株鲜重</td><td>鲜重变化量</td><td>全株干重</td><td rowspan="2">干重变化量 Dry weight change(%)</td></tr><tr><td>Whole plant fresh weight(g)</td><td>Fresh weight change(%)</td><td>Whole plant dry weight(g)</td></tr><tr><td>R2</td><td>5.84±0.18b</td><td>22.43</td><td>0.82±0.03e</td><td>26.15</td></tr><tr><td>R4</td><td>3.69±0.07g</td><td>-22.64</td><td>0.74±0.02f</td><td>13.85</td></tr><tr><td>R5</td><td>2.68±0.07jk</td><td>-43.82</td><td>0.48±0.01j</td><td>-26.15</td></tr><tr><td>R6</td><td>3.40±0.03h</td><td>-28.72</td><td>0.52±0.01i</td><td>-20.00</td></tr><tr><td>R7</td><td>2.93±0.08i</td><td>-38.57</td><td>0.97±0.03a</td><td>49.23</td></tr><tr><td>R14</td><td>2.55±0.03kl</td><td>-46.54</td><td>0.53±0.01i</td><td>-18.46</td></tr><tr><td>R15</td><td>2.79±0.03ij</td><td>-41.51</td><td>0.89±0.01bc</td><td>36.92</td></tr><tr><td>R17</td><td>4.14±0.04f</td><td>-13.21</td><td>0.89±0.01bc</td><td>36.92</td></tr><tr><td>R18</td><td>5.26±0.11c</td><td>10.27</td><td>0.80±0.02e</td><td>23.08</td></tr><tr><td>R19</td><td>4.47±0.13e</td><td>-6.29</td><td>0.82±0.03e</td><td>26.15</td></tr></table></body></html>
+
+<html><body><table><tr><td>R20</td><td>4.28±0.11f</td><td>-10.27</td><td>0.87±0.02cd</td><td>33.85</td></tr><tr><td>R21</td><td>2.49±0.041</td><td>-47.80</td><td>0.86±0.02d</td><td>32.31</td></tr><tr><td>R22</td><td>5.20±0.14c</td><td>9.01</td><td>0.91±0.02b</td><td>40.00</td></tr><tr><td>R28</td><td>6.09±0.16a</td><td>27.67</td><td>0.73±0.02fg</td><td>12.31</td></tr><tr><td>CK1</td><td>4.77±0.09d</td><td>0.00</td><td>0.65±0.01h</td><td>0.00</td></tr><tr><td>CK2</td><td>4.13±0.12f</td><td>-13.42</td><td>0.71±0.02g</td><td>9.23</td></tr></table></body></html>
+
+# 2.5接种不同根瘤菌效应的综合评价
+
+将发芽率、发芽势、发芽指数、株高、根长、须根数、根冠比、全株鲜重以及全株干重作为隶属函数综合评价指标（李春旭等，2017），评价结果表明（表5）：对黑青稞幼苗生长生理促进效应最为显著的前5个菌株号为R17、R18、R28、R20以及R19，可初步作为促进黑青棵生长的优良菌株。
+
+表5接种不同根瘤内生菌效应的综合评价  
+Table 5 comprehensive evaluation of the effects of different endophytic bacteria inoculation   
+
+<html><body><table><tr><td colspan="7">菌株 发芽率</td><td rowspan="2">根冠比</td><td rowspan="2">全株鲜重 Whole plant fresh weight</td><td rowspan="2">全株干重 Whole plant dry weight</td><td rowspan="2">综合值 Compre- hensive</td><td rowspan="2">排序 Aequence</td></tr><tr><td>编号 No.of strains</td><td>Germina- tion rate</td><td>发芽势 Germi- nation</td><td>发芽指数 Germina- tion index</td><td>株高 Plant height</td><td>根长 须根数 Root Number length of roots</td><td>Root to crown ratio</td></tr><tr><td>R17</td><td>0.33</td><td>0.40</td><td>0.27</td><td>0.63</td><td>0.69</td><td>0.42</td><td>0.42</td><td>0.93</td><td>0.69</td><td>value 6.71</td><td>1</td></tr><tr><td>R18</td><td>0.67</td><td>0.80</td><td>0.70</td><td>0.61</td><td>0.63</td><td>0.76</td><td>0.31</td><td>0.33</td><td>0.53</td><td>6.45</td><td>2</td></tr><tr><td>R28</td><td>0.22</td><td>0</td><td>0.14</td><td>0.77</td><td>0.72</td><td>0.66</td><td>0.11</td><td>0.05</td><td>0</td><td>6.31</td><td>3</td></tr><tr><td>R20</td><td>0.78</td><td>0.80</td><td>0.44</td><td>0.34</td><td>1</td><td>0.61</td><td>0.33</td><td>0.25</td><td>0.08</td><td>5.81</td><td>4</td></tr><tr><td>R19</td><td>1</td><td>0.70</td><td>0.48</td><td>0.29</td><td>0.20</td><td>0.52</td><td>0.19</td><td>0.12</td><td>1</td><td>5.76</td><td>5</td></tr><tr><td>R22</td><td>0</td><td>0</td><td>0</td><td>0.68</td><td>0.15</td><td>1</td><td>0.27</td><td>0.02</td><td>0.10</td><td>5.36</td><td>6</td></tr><tr><td>R4</td><td>0</td><td>0.20</td><td>0.03</td><td>0.50</td><td>0.48</td><td>0.29</td><td>0.38</td><td>0.08</td><td>0.84</td><td>5.35</td><td>7</td></tr><tr><td>CK2</td><td>1</td><td>1</td><td>1</td><td>0.40</td><td>0.68</td><td>0.82</td><td>0.51</td><td>0.46</td><td>0.84</td><td>5</td><td>8</td></tr><tr><td>R2</td><td>0.89</td><td>1</td><td>0.84</td><td>0.77</td><td>0.61</td><td>0.83</td><td>0.10</td><td>0.77</td><td>0.65</td><td>4.79</td><td>9</td></tr><tr><td>R6</td><td>0.78</td><td>1</td><td>0.44</td><td>0.65</td><td>0.52</td><td>0.83</td><td>0.30</td><td>0.55</td><td>0.69</td><td>4.64</td><td>10</td></tr><tr><td>CK1</td><td>0.89</td><td>0.90</td><td>0.73</td><td>0.45</td><td>0.58</td><td>0.61</td><td>0.36</td><td>0.50</td><td>0.80</td><td>4.53</td><td>11</td></tr><tr><td>R7</td><td>0.78</td><td>0.60</td><td>0.64</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0.78</td><td>4.50</td><td>12</td></tr><tr><td>R21</td><td>0.44</td><td>0.30</td><td>0.32</td><td>0.80</td><td>0.74</td><td>0.59</td><td>0.54</td><td>0.75</td><td>0.88</td><td>3.80</td><td>13</td></tr><tr><td>R15</td><td>0.56</td><td>0.80</td><td>0.63</td><td>1</td><td>0.97</td><td>0.85</td><td>0</td><td>1</td><td>0.51</td><td>2.80</td><td>14</td></tr><tr><td>R5</td><td>0.56</td><td>0.70</td><td>0.44</td><td>0.74</td><td>0.48</td><td>0.38</td><td>0.25</td><td>0.63</td><td>0.35</td><td>2.68</td><td>15</td></tr><tr><td>R14</td><td>0.67</td><td>0.90</td><td>0.60</td><td>0.61</td><td>0.33</td><td>0.71</td><td>0.27</td><td>0.46</td><td>0.47</td><td>2.22</td><td>16</td></tr></table></body></html>
+
+# 3.结论与讨论
+
+非豆科植物接种根瘤内生菌后，植物幼苗生长生理促进效应显著提高，其主要原因是：$\textcircled{1}$ 根瘤菌提高了非豆科植物对氮和磷等矿质元素的吸收率（Yanniet al., $2 0 0 1 ; { \mathrm { K i m } } _ { \cdot } 1 9 9 8 { \mathrm { ) } }$ 。氮、磷元素是植物重要的营养限制因子，氮、磷添加可以缓解青藏高原高寒草甸植物生长的营养限制，促进植物地上部分的生长（杨晓霞等，2014）。 $\textcircled{2}$ 感染内生菌的植物比未感染内生菌的植物具有更强的抗干旱、盐碱等胁迫能力（石晶盈等，2006）。已感染内生菌的植株侧重于根系的生长，而未经感染的植株则偏重于地上部分的生长，植株有了发达的根系，抗旱能力则会随之提高(王瑶瑶等，2008)。 $\textcircled{3}$ 内生根瘤菌能产生调节植物生长的吲哚乙酸(IAA)和赤霉素植物激素，从而扩大根对营养物质的吸收面积（李龚程等，2015），如草生欧文氏菌(Erwinia herbicola)在产生生长素吲哚乙酸的同时还能产生细胞分裂素(cytokinin,CTK)，在促进细胞生长的同时也促进细胞的分裂和发育（Hamayun etal.,2009）。细胞分裂素是促进植物细胞分裂的激素，它在根部合成后由根部向茎部运输，由此调节植物地上部的生长（王三根，2000）。在本试验中，黑青稞种子经过不同砂生槐根瘤内生菌浸种后，黑青稞幼苗的发芽率、地上部分和地下部分等指标与CK1对比均存在显著差异 $( P { < } 0 . 0 5 )$ ，表明西藏砂生槐根瘤内生细菌遗传多样性丰富，具有良好的促生能力（何建清等，2019）。
+
+发芽率是评价田间出苗率的指标之一，发芽势直接影响幼苗出土后的整齐程度，而发芽指数反映的是发芽速率以及发芽的整齐度，它们都是评价种子萌发的重要指标（白靖怡和刘冬云，2019）。已知内生根瘤菌能产生调节植物生长的激素，激素能对植物的种子萌发有比较明显的促进作用，这主要是由于赤霉素的加入改变了种子内的激素比例，使处于休眠状态的种胚恢复伸长生长，当种胚长度达到一定程度时，种皮破裂种子萌发（柴淳等，2010）。接菌后，部分黑青稞种子的发芽率、发芽势与发芽指数均有不同程度的提高，说明这一部分砂生槐根瘤内生菌对黑青棵种子萌发具有显著的促进作用。有学者指出，Kundson早在1922年将固氮细菌和根瘤杆菌混合接种到卡特兰(Cattleya labiata)种子上，结果表明显著促进了种子的萌发(张萍和宋希强，2012)，本试验与前人研究结果相似。菌株R2、R5、R14与 R22对种子萌发呈抑制状态，这也许是因为内生菌在侵染宿主的初期或在长期的共存中，外界环境的改变以及非寄主生物的入侵产生了有毒物质或溶解酶(方珍娟等，2012)，从而抑制其生长。至于根瘤内生菌对非豆科植物青稞的促生机制为何，有待进一步研究。
+
+根系是植物吸收水分和养分的主要器官，接种根瘤菌促进了根系生长和根系对养分及水分的吸收利用（段如雁等，2018）。从本试验中可看出，黑青棵种子经过浸种处理后，大部分植株的根长明显大于CK1，所以根的表面积和纤维结构也就增大了，因此提高了根在土壤中，尤其是在贫瘠的土壤中对营养物质的吸收。此外，前人研究发现，有许多根瘤菌在非豆科植物（如水稻、油菜、小麦及棉花等）的根圈和根际具有较强的定殖能力，并且对植物根系及地上部分的生长有良好的促进作用（王平等，2019；张晓霞等，2003；Baset&Shamsuddin，2010；马天瑞和蓝祖庆，2010）。内生菌能够产生或促进宿主植物产生某些植物生长调节物质，包括植物生长素、赤霉素以及细胞激动素等，此类生长激素直接影响了侵染植株体内的物质代谢，与宿主植物互利共生，促进了植株对矿物质和其它营养物质的吸收，提高了植物的资源利用效率，因此能够直接促进植株的生长(宋薇薇等，2018)。本试验结果表明：接菌后，根瘤内生菌对部分黑青稞植株的株高、根长与植株全株的干/鲜重较CK1都具有显著的促进作用，这与陈明等（1999）的研究结果基本一致，经A1501与A1513菌处理过的水稻植株，其株高及秸秆干重显著高于CK1。
+
+黑青稞与根瘤内生菌共生关系的建立是菌株、宿主植物与环境三方相互作用的结果，而不仅仅是菌株与宿主植物之间的互作。在本研究中，相同条件下，分别使用不同砂生槐根瘤内生菌浸泡黑青稞种子，虽然大部分黑青稞的生物量均有所增长，但是还有小部分黑青稞并未获得同样的接种效果，说明了根瘤内生菌与宿主植物之间的共生匹配关系存在差异。在根瘤菌-宿主植物共生固氮的体系中，不仅要选择合适的菌株，还需要综合考虑宿主菌株与环境的相互关系，这样才有利于充分发挥共生固氮的作用，促进宿主植物的生长。本研究所采集的砂生槐根瘤内生菌均来自西藏，西藏地形地貌和气候环境复杂，虽然寄主植物都是来自同一地区，但是不同区域的砂生槐根瘤内生菌各自有其适合生长的环境条件，宿主植物需要与适应当地环境的根瘤内生菌种建立共生关系，才能表现出最佳效果。因此，即使在相同条件下接种根瘤内生菌，产生的效果也会不一致。所以本研究中筛选出的高效根瘤内生菌与黑青稞共生体系，不仅要做到适地适菌，而且要做到适苗适菌。此外，本研究采用培养基来作为种子萌发的基质，黑青稞与砂生槐根瘤内生菌的共生环境比较单一，所以筛选的5株优良菌株在土壤基质中对黑青稞是否能够产生相同的促生效应，有待进一步深入研究。
+
+#
+
+参考文献：  
+AN HM, YAO XH, 2017. Efects of 2, 4-D pretreatment on seed germination, seedling growth andphysiological characteristics of Highland barley[J]. Jiangsu Agric Sci, 45(21): 90-93.[安海梅，姚晓华，2017.2，4-D 预处理对久置青稞种子萌发、幼苗生长和生理特性的影响[J].江苏农业科学， $4 5 \left( 2 1 \right) \underline { { : } } 9 0 \underline { { - } } 9 3 \underline { { - } } ]$   
+BAI JY, LIU DY,2019. Effects of salt stress on seed germination of Clausia aprica[J]. J_HebeiAgric Sci:1-6.[白靖怡，刘冬云，2019.盐胁迫对蓝香芥种子萌发的影响[J].河北农业科学： $1 ^ { - 6 } \underline { { \cdot } } \underline { { ] } }$   
+BASET MIA MA, Shamsuddin Z H, 2010. Rhizobium as a cropenhancer and biofertilizer forincreased cereal production[J]. African J_Biotech, 9 (37) : 6001-6009.  
+CHAI C, LI YX, CHEN GD, et al., 2010. Effects of exogenous hormones on the germination andseedling growth of Lycium barbarum[J]. Agric_Res Arid Areas,28(05):149-153.[柴淳，黎云祥,陈光登，等，2010.外源植物激素对宁夏枸杞种子萌发和幼苗生长的影响[J]_干旱地区农业研究，28(05):149-153.]  
+CHEN M, ZHANG W, LIN M, 1999. Association nitrogen fixation of Rice inoculated withammonia resistant engineering strain (Alcaligenes faecalis)[J]. Acta_Agric Nucl_Sin, 13(6):373-376.[陈明，张维，林敏，1999.粪产碱菌耐铵工程菌与水稻联合共生固氮作用[J].核农学报，13(6):373-376.]  
+DU DK, HE J, MENG LD, et al., 2017. Extraction of anthocyanin from black highland barley andanalysis of its antioxidant activity[J]. Jiangsu Agric Sci, 45(18):173-179.[杜道坤，贺娟，孟利东,等，2017.黑青稞花色苷提取及抗氧化活性的分析[J].江苏农业科学，45(18):173-179.]DUAN RY, WEI XL, AN CR, 2018. Growth of Ormosia henryi seedlings and photosynthetic andphysiological characteristics with rhizobia inoculation[J]. J Zhejiang Agric For Univ, 5(6):1098-1106.[段如雁，韦小丽，安常蓉，2018.接种不同根瘤菌对花榈木幼苗光合生理的影响及促生效应［J].浙江农林大学学报，5(6):1098-1106.]  
+FANG ZJ， ZHANG XX, MA LA，2018. Research progress on endophytic bacteria[J]._JChangjiang Univ_(Nat_Sci_Ed),15(10):41-45.[方珍娟，张晓霞，马立安，2018.植物内生菌研究进展［J].长江大学学报（自然科学版)，15(10):41-45.]  
+GAO Y, ZHU SL，WU QS,et al., 2017. Screening of IAA producing endophytic bacteria indendrobium nobile lindl and effect on zea mays seed germination under drought stress[J].Seed,36(04):36-41.[高阳，朱双丽，吴庆珊，等，2017．金钗石斛IAA内生细菌筛选及对干旱胁迫下玉米种子萌发的影响［J].种子，36(04):36-41.]  
+GLICKMANN E, DESSAUX Y,1995. A critical examination of the specificity_of the Salkowskireagent for indolic compounds producedbyphytopathogenic bacteria[J]. Appl Envir MicrQ, 619(2) : 793-796.  
+HAMAYUN M，KHAN SA，KHAN AL，et al.，2009. Phoma herbarum as a newgibberellin-producing and plant growth-promoting fungus[J]. J Micro Biotechnol， 19(10):1244-1249.  
+HE H,_QIU SX,_HU FP,_2004._Advance in biological effects of endophytic bacteria[J].JMicrobiol,(03):40-45.[何红，邱思鑫，胡方平，2004.植物内生细菌生物学作用研究进展[J].微生物学杂志，（03):40-45.]  
+HE JQ，ZHANG GJ， ZHAO WJ，et al.， 2019. Endophytic bacterial diversity andgrowth-promoting potential of root nodules[J]. Jiangsu Agric Sci, 47(12): 297-301.[何建清，张格杰，赵伟进，等，2019.砂生槐根瘤内生细菌多样性及其促生潜力研究［J].江苏农业科学，47(12) : 297-301.]  
+HUANG HJ,LI Y， 2019. Current situation， problems and suggestions of Highland barleyproduction in Tibet[J].Tibet Agric Sci Technol,41(02):56-58.[黄海皎，李杨，2019.浅谈西藏青稞生产发展现状、存在问题及建议[J].西藏农业科技，41(02):56-58.]  
+KANG HY, WANG W,LIU JL,et al., 2015. Isolation and identification of two plant-growthpromoting endophytes from Alfalfa[J].Mocrobiology,42(2): 280-288.[康慧颖，王伟，刘佳莉，等，2015.两株具促生作用的苜蓿内生菌的分离纯化与鉴定[J].微生物学通报，42(2):280-288.]  
+Kim K Y, 1998. Efect of phosphate-solubilizing bacteria andvesicular-arbuscular mycorrhizae ontomato growth and soilmicrobial activity[J]. Biol. Fert. Soil, 26: 79-87.  
+LI CX,LIU GF,LIU Y, et al.， 2017. Preliminary sedling selection of superior clones of potculture Betula platyphylla[J].JBeijing For_Univ,39(2): 16-23.[李春旭,刘桂丰,刘宇,等,2017.盆栽白桦优良无性系苗期的初步选择[J].北京林业大学学报，39(2):16-23.]  
+LI GC, ZHANG SY, XIAO W, et al.， 2015. Research progress on endophytes in rice[J]. ChinAgric SciBul,31(12):157-162.[李龚程,张仕颖,肖炜,等,2015.水稻中内生菌研究进展［J].中国农学通报，31(12):157-162.]  
+LI HY, JIANG YM, YAO T, et al., 2018. Isolation, screening, identification and growth promotingcharacteristics of plant growth promoting rhizobacteria of vegetable crops[J]. J_Plant Prot, 45(04):836-845.[李海云，蒋永梅，姚拓，等，2018.蔬菜作物根际促生菌分离筛选、鉴定及促生特性测定[J].植物保护学报，45(04):836-845.]  
+LIANG ZY， 2014. Present situation and countermeasures on Tibetan barley industrydevelopment[J]._Sci Tech_Qinghai Agric For,(03):41-45.[梁珠英，2014.论藏区青稞产业发展现状及对策措施[J].青海农林科技，(03):41-45.]  
+LIN J,LUOSANG RQ, ZHOU TH, et al., 2016. Analysis of nutrient ingredients and physiologicalactive substances in black and white hulless_barley from Shannan Longzi in Tibet[J].F Sci & T,41(10):88-92.［林津，洛桑仁青，周陶鸿，等，2016.西藏山南隆子县黑青稞与白青稞的营养成分及生理活性物质的比较分析[J].食品科技，41(10):88-92.]  
+LUO QZ,WU ZC,MA YG,et al., 2018. Effects on different varieties of naked highland barley togermination and seeding growth[J]. JQinghai Norm_Univ(Nat_Sci_Ed),34(1): 67-72.[罗巧芝，吴志仓，马永贵，等，2018.不同品种青棵种子萌发和幼苗生长的综合分析［J].青海师范大学学报(自然科学版)， $3 4 \left( 1 \right) : 6 7 – 7 2 . ]$ （  
+MA TR,LAN ZQ, 2010. The selection of Wheat growth-promoting Alfalfa rhizobia[J]. AnhuiAgric SciBull,16(21):32-33.[马天瑞，蓝祖庆，2010.对小麦有促生作用的苜蓿根瘤菌筛选初报［J].安徽农学通报，16(21):32-33.]  
+REN SR，SHAO YC,GAO BY, et al.， 2005. Effects of long-term located fertilization onheavy-metal content of soil[J]. J_Soil Water Conserv,2005(04): 96-99.[任顺荣，邵玉翠，高宝岩，等,2005.长期定位施肥对土壤重金属含量的影响[J].水土保持学报,2005(04):96-99.]SARAVANAKUMAR, D., KAVINO, etc, 2011. Plant growth promoting bacteria enhance waterstress resistance in green gram plants[J]. Acta Phys Plant, 1[1].  
+SHI JY, CHEN WX,LIU AY, 2006.Advances in the study of endophytes and their effects oncontrol of plant diseases[J].Acta Ecol_Sin,26(7):2395-2401.[石晶盈，陈维信，刘爱媛，2006.植物内生菌及其防治植物病害的研究进展［J].生态学报，26(7):2395-2401.]  
+SONG WW, ZHU H, YU FY, et al., 2018.Plant endophytes and their control effects on plantdiseases: a review[J].Jiangsu Agric Sci,46(06):12-16.[宋薇薇，朱辉，余凤玉，等，2018.植物内生菌及其对植物病害的防治作用综述［J].江苏农业科学，46(06):12-16.]  
+SUN JK， ZHANG WH， ZHANG JM，et al.， 2006.Response to droughty stresses anddrought-resistancesevaluation of fourspeciesduring seed germination[J]. Acta BotBoreal-Occident Sin,(09):1811-1818.[孙景宽，张文辉，张洁明，等，2006.种子萌发期4种植物对干旱胁迫的响应及其抗旱性评价研究[J].西北植物学报，(09):1811-1818.]TANG Y，LIU YT， RU M, et al.,2019. Effects of drought and salt stress on the germination ofAnemarrhena asphodeloides seed[J].NHortic,(11): 112-116.[谭勇，刘雨婷，汝梅，等，2019.干旱和盐胁迫对知母种子发芽的影响[J].北方园艺，(11):112-116.]  
+WANG LP, TAN B, LIU M, et al., 2012. Research progress and prospect of bioactive componentsin Whole grain[J].Acta Food Sin,12(08):141-147.[汪丽萍，谭斌，刘明，等，2012．全谷物中生理活性物质的研究进展与展望［J].中国食品学报，12(08):141-147.]  
+WANG P, WANG Q, FENG XM, 1999. Root colonization of non-legume plants by luxAB andgusA genes marked huakuii JS5A16[J]. J_Huazhong Agric_Univ,18(3): 238-241.[王平，王勤，冯新梅，1999.华癸根瘤菌在非豆科植物根圈定殖能力的研究［J].华中农业大学学报，18(3)：238-241.]  
+WANG SG, 20o0. Roles of cytokinin on stress-resistance and delaying senescence in plants[J].Chin_Bull_Bot, (2):121- $1 2 6 { + } 1 6 7$ .[王三根，2000.细胞分裂素在植物抗逆和延衰中的作用［J].植物学通报，(2)： $: 1 2 1 - 1 2 6 + 1 6 7 .$ ]  
+WANG X, HOU P, YIN LK, 2001. Plant Adapation on physiology under drought stressJ]. AridZone Res,(2):42-46.[王霞，侯平，尹林克，2001.植物对干旱胁迫的适应机理[J].干旱区研究， (2) :42-46.]  
+WANG YY, HAN LB, ZENG HM, 2O08. The Summarize About Recent Research Process onGramineae Endophyte Symbiosis[J].Biotech Bull, (3):33-38.[王瑶瑶，韩烈保，曾会明，2008.禾本科植物内生菌研究进展［J].生物技术通报，(3):33-38.]  
+XU F,DANG B, YANG XJ, et al., 2016. Evaluation of nutritional quality of different hullessbarleys[J].JTriticeae Crops,36(9):1249-1257.[徐菲，党斌，杨希娟，等，2016.不同青稞品种的营养品质评价［J].麦类作物学报，36(9):1249-1257.]  
+YANG XX, REN F, ZHOU HK, et al., 2014. Responses of plant community biomass to nitrogenand phosphorus additions in an alpine meadow on the Qinghai-Xizang plateau[J]. Acta EcologySin,38(2):159-166.[杨晓霞，任飞，周华坤，等，2014.青藏高原高寒草甸植物群落生物量对氮、磷添加的响应［J].植物生态学报，38(2):159-166.]  
+Yanni Y G, Rizk R Y, Abd EI-Fattah F K, et al., 2001. Thebeneficial plant growth-promotingassociation of Rhizobium leguminosarum bv. trifolii with rice roots[J]. Australlia J. Plant Phys. 28(9) : 845-870.  
+YIN LL, CHEN XL, CHEN LL, et al., 2019.Effects of NaCl, ${ \tt N a } _ { 2 } { \tt S O } _ { 4 }$ and $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ stress on theseed germination of Mung bean[J].Crops,(03):192-196.[殷丽丽，陈晓亮，陈璐璐，等，2019.NaC1、 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 和 $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ 对绿豆种子萌发的影响[J].作物杂志，(03):192-196.]  
+ZHANG DF, CAI YL, LAN HH, et al., 2018. Formation of proteus mirabilis persister in chickenunder gentamicin sulphate treatment[J].Fujian JAgric Sci,33(08): 781-786.[张丹凤，蔡雅玲，兰汉红，等，2018.基于硫酸庆大霉素处理鸡源奇异变形杆菌持留菌形成特征的研究［J].福建农业学报，33(08):781-786.]  
+ZHANG P, SONG XQ,2012. Advances in diversity and promotion mechanism of endophyticbacteria associated with orchids[J]. J_Trop&_Subtrop_ Bot,20(01):92-98.[张萍，宋希强，2012.兰科植物内生细菌物种多样性及其促生机理研究进展[J].热带亚热带植物学报，20(01):92-98.]  
+ZHANG S,WU KL，YAO XH, et al.， 2017. Difference analysis of nutritional quality andantioxidant activity material in diffrent grain color of hulless barleys[J]. J_Qinghai Univ,35(02):19-27.[张帅，吴昆仑，姚晓华，等，2017.不同粒色青稞营养品质与抗氧化活性物质差异性分析［J].青海大学学报，35(02):19-27.]  
+ZHANG XX, WANG P, FENG XM, et al., 2003. Study on root colonazition of Rice by genesmarked rhizobium Hedysarum pseudastragalus[J]. Acta Ecol_Sin, 23(4): 771-776.[张晓霞，王平，冯新梅，等，2003.外源基因标记的紫云英根瘤菌在水稻根部的定殖研究［J].生态学报，23(4): 771-776.]  
+ZHAO LF, XU YJ, CHANG JL, et al., 2016. Screening, Resistance and Growth-promoting effectof endophytic bacteria with ACC deaminase activity isolated from soybean nodules[J]. ActaMicrobiol Sin_,56(06):1009-1021.[赵龙飞，徐亚军，常佳丽，等，2016．具ACC 脱氨酶活性大豆根瘤内生菌的筛选、抗性及促生作用[J].微生物学报，56(06):1009-1021.]ZHAO WJ，WANG XX，YANG Y，et al.， 2018. Selection of rhizotrophic bacteria fromRhizosphere and its effect on seed germination of black highland barley[J]. Seed, 37(12): $1 - 5 + 1 0$ [赵伟进，王孝先，杨洋，等，2018.黑青稞根际促生菌筛选及其对种子萌发的影响［J].种子，37(12) : $\displaystyle { 1 - 5 + 1 0 } .$ ]  
+ZHONG GH, TIAN FY, WANG M, et al., 2005. Soil fertility of croplands in major agriculturalareas in Tibet[J].Acta Pedol_Sin,(06):1030-1034.[钟国辉，田发益，旺姆，等，2005.西藏主要农区农田土壤肥力研究［J].土壤学报，(06):1030-1034.]  
+ZHOU LP, QI RS,2017. Effect of unreasonable fertilizer on soil property and its controllingmeasures[J].Gansu Agric Sci_Tech,(01):74-78.[周丽萍，戚瑞生，2017.不合理施肥对土壤性质的影响及其防治措施探讨［J].甘肃农业科技， (01):74-78.]  
+ZHOU Y, MAO L, ZHANG TT, et al., 2009. Isolation of endophytic bacillus from soybean seedand screening and identification of promoting strain[J]. Soybean Sci_28(03):502-506.[周怡，毛亮，张婷婷，等，2009.大豆内生芽孢杆菌的分离和促生菌株的筛选及鉴定［J].大豆科学，28(03) :502-506.]  
+ZHU D, ZHANG L,WEI ZX, et al., 2014. Effects of bacterial manure on soil physicochemicalproperties and microbial community diversity in rhizosphere of Highland barley[J]. Acta PedolSin,51(03):627-637.[朱丹，张磊，韦泽秀，等，2014.菌肥对青稞根际土壤理化性质以及微生物群落的影响[J].土壤学报，51(03):627-637.]  
+ZHU MY, ZHANG J, 2015.Barley(Hulless barley) _Nutritional Analysis and Food Processing[M].Hangzhou: Zhejiang Univ Press:5.[朱睦元，张京，2015.大麦(青稞)营养分析及其食品加工[M].杭州:浙江大学出版社:5.]

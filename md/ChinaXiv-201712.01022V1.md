@@ -1,0 +1,119 @@
+临床研究
+
+# $^ { 9 9 } \mathrm { T r } ^ { \mathrm { m } } ,$ -MIBI SPECT/CT及 $\mathbf { ^ { 1 8 } F }$ -FDG SPECT/CT对孤立性肺结节 的诊断效能比较
+
+贾茜，薛建军，高 蕊，邓惠兴，张芬茹，杨爱民西安交通大学第一附属医院核医学科，陕西西安710061摘要：目的 比较 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT及IF-FDG符合线路SPECT/CT两种显像方法对孤立性肺结节的诊断效能,为中低收入患者寻找更为经济有效的检查方式。方法 回顾性分析经IF-FDG符合线路SPECT/CT显像36例和经 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT显像52例，共88例孤立性肺结节患者。根据病理或随访 $\cdot > 2$ 年)结果将其分为恶性组和良性组。比较良恶性病灶组间差异、并采用ROC曲线评价不同本底鉴别诊断良恶性病灶效能。病灶大小和病理学分级与L/N比值关系采用Spearman进行相关性分析。结果F-FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像的良恶性组L/N比值ROC曲线下面积分别为0.92、0.88,差异无统计学意义（ $\scriptstyle P = 0 . 5 6 5 ,$ )。所对应的灵敏度及特异度分别为 $7 6 . 9 2 \% ( 2 0 / 2 6 )$ $. 1 0 0 \% ( 1 0 / 1 0 )$ 和 $8 0 . 7 7 \% ( 2 1 / 2 6 ) , 8 8 . 4 6 \%$ (23/26)。病灶直径 ${ \leqslant } 2 \ \mathrm { c m }$ 的孤立性肺结节经 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像的L/N比值曲线下面积分别为1.00及 $0 . 9 0 ( P { = } 0 . 7 4 6 ) , 2 \mathrm { c m } <$ 病灶直径 $\leq 3 \ \mathrm { c m }$ 的孤立性肺结节经'F-FDG符合线路 SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像的L/N比值曲线下面积分别为0.79及0.89 $) ( P { < } 0 . 0 0 1$ )。相关性检验结果显示两种检查方式恶性病灶病理分级与病灶L/N比值无相关性( $P$ 为0.771及0.077)， ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像病灶大小与病灶L/N比值亦无相关性 ${ \it P } { = } 0 . 5 1 6 { \it \Delta }$ ，I8F-FDG 符合线路 SPECT/CT显像病灶大小与L/N比值有相关性( $_ { \tiny { P = 0 . 0 1 6 } }$ 。结论对于 $2 \mathrm { c m }$ 以上的孤立性肺结节 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像的诊断效能显著高于F-FDG符合线路SPECT/CT显像,可作为中低收人患者临床鉴别良恶性的首选。关键词：体层摄影术;发射型计算机;单光子； $^ { 9 9 } \mathrm { m }$ 得甲氧基异丁基异腈;18氟代脱氧葡萄糖;孤立性肺结节;诊断显像
+
+# Diagnostic efficacy of ${ } ^ { 9 9 } \mathbf { T } \mathbf { c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT and ${ } ^ { 1 8 } \mathbf { F } .$ -FDG coincidence SPECT/CT for solitary pulmonary nodules: a comparative study
+
+JIAXi,XUEJianjun,GAORui,ENGHuixing,ZHANGFenru,YANGiin Departmentofuclearedicine,irstHospitalofXi'anJiaotongnioersityXi'an7o61,ina
+
+Abstract: Objective To compare the diagnostic accuracy of ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT and $\mathrm { ^ { 1 8 } F }$ -FDG coincidence SPECT/CT for solitary pulmonary nodules.Methods A total of 88 cases suspected of solitary pulmonary nodules were analyzed retrospectively, of whom 36 were examined with $^ { 1 8 } \mathrm { F }$ -FDG coincidence SPECT/CT and 52 with ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT. The nature of the solitary pulmonary nodules (malignant or benign)were determined according to the pathological or follow-up (>2 years)results.The diagnosticacuracyof the twomodalitiesfor solitary pulmonary nodules was evaluated byROCcurve.The correlation ofthelesionsizeand pathological gradedeterminedbythetwomodalities withtheL/Nratio wasasesed using Spearman correlation analysis. Results $^ { 1 8 } \mathrm { F }$ -FDG coincidence SPECT/CT and ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT showed a similar area under curve (AUC) of the $\mathrm { L } / \mathrm { N }$ ratio (0.92 vs 0.88, $\scriptstyle P = 0 . 5 6 5$ ）withdiagnostic sensitivities of $7 6 . 9 2 \%$ (20/26) and $8 0 . 7 7 \%$ (21/26) and specificities of $1 0 0 \%$ (10/10) and $8 8 . 4 6 \%$ (23/26), respectively. For solitary pulmonary nodules with lesion diameter $\leq 2 \ \mathrm { c m } ,$ the AUC was 1.00 with $^ { 1 8 } \mathrm { F }$ -FDG coincidence SPECT/CT and 0.90 with ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT $\scriptstyle ( P = 0 . 7 4 6 )$ , while for nodules beyond 2 cm but below $3 \mathrm { c m }$ ,theAUCswere 0.79 and 0.89,respectively $( P { < } 0 . 0 0 1 )$ . In either of the two modalities, correlation analysis revealed no correlation of the $\mathrm { L } / \mathrm { N }$ ratio with the pathological grade of the malignant lesions ( ${ \it P } { = } 0 . 7 7 1$ and 0.077, respectively). The L/N ratio was not correlated with the size of the malignant lesion detected by ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT $( P { = } 0 . 5 1 6 )$ but was significantly correlated with the size of the malignant lesions detected by $^ { 1 8 } \mathrm { F }$ -FDG coincidence SPECT/CT $_ { ( P = 0 . 0 1 6 ) }$ Conclusion ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT has a greater diagnostic accuracy than $^ { 1 8 } \mathrm { F }$ FDG coincidence SPECT/CT for solitary pulmonary nodules with lesion a diameter beyond $2 \mathrm { c m }$ , and is therefore the primary choice for low-income patients.
+
+Key words: tomography; emission-computed; single-photon; technetium Tc ${ } ^ { 9 9 } \mathrm { m }$ sestamibi; $^ { 1 8 } \mathrm { F }$ -fludeoxyglucose; solitary pulmonary nodule; diagnostic imaging
+
+孤立性肺结节典型特征为正常肺组织所包绕、直径不超过 $3 \mathrm { c m }$ 的肺部实性结节，不伴淋巴结肿大，不伴肺不张或胸膜渗出。此类患者通常无症状，由常规胸部影像学检查时发现[。孤立性肺结节的鉴别诊断核心问题在于确定其良恶性，常规CT和血清学检查如出现特征性改变则可以进一步行穿刺活检或手术，但部分临床病人无法通过CT和血清学常规手段进行确认。及时、准确的诊断不仅可以避免延误恶性结节最佳手术时机，同时可以免除良性病变因手术而承受的并发症风险及随诊低剂量CT所造成不必要的辐射暴露[2-3]。近年${ } ^ { 1 8 } \mathrm { F } .$ -FDG及Tc"-MIBI作为常用的肿瘤显像剂已广泛应用于临床良恶性疾病鉴别诊断中，可以提供病灶部位代谢信息,并显示出了良好的诊断效能[48]。但由于${ } ^ { 1 8 } \mathrm { F } .$ -FDGPET/CT检查费用昂贵，难于为中低收入患者接受。 $^ { 1 8 } \mathrm { F } \cdot$ -FDG 符合线路SPECT/CT显像又被称为经济型PET,以其较为低廉的价格和更低的准入标准广泛应用于中低收入的患者[10-13],并表现出了良好的诊断效能[14]。18F-FDG 符合线路SPECT/CT显像的诊断费用只需PET/CT的1/4至1/5,而 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT显像的诊断费用只需PET/CT的1/5至1/10。作为同样以经济实用考量的两种检查方法，本研究通过受试者工作特性曲线(receiver operating characteristic,ROC)比较两者对孤立性肺结节诊断效能差异,寻找更为经济、有效的诊断方式。
+
+# 1资料和方法
+
+# 1.1 一般资料
+
+回顾性分析2011年6月\~2015年10月于本院经CT检查发现肺孤立性结节患者88例，其中经 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像36例,男27例，女9例,年龄 $2 6 \sim$ 81岁，平均61.1岁。经 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像52例，男27例，女25例，年龄25\~84岁，平均58.1岁。病灶直径 $9 { \sim } 3 0 \mathrm { m m }$ ，平均 $2 3 . 5 0 \mathrm { m m }$ 。所有病例均经活检或手术病理证实，根据病理或随访( $\mathord { > } 2$ 年)结果将其分为恶性组和良性组。
+
+# 1.2仪器和方法
+
+1.2.1 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT显像采用SiemensSymbiaT16SPECT/CT显像系统，滑环机架16排螺旋低剂量CT，分子成像探测采用全数字探头，配以低能高分辨率准直器，能峰 $1 4 0  { \mathrm { k e V } } \pm 2 0 \%$ 。CT采集条件：球管电压 $1 3 0 ~ \mathrm { k V }$ ，电流 $2 5 ~ \mathrm { m A }$ ，层厚 $0 . 6 ~ \mathrm { m m }$ ，,扫描视野$5 1 . 2 \mathrm { c m }$ ，采集时间 $5 . 9 ~ \mathrm { s } \iota$ 帧。断层SPECT采集及重建条件；矩阵 $1 2 8 \times 1 2 8$ ，采集时间 $1 5 ~ \mathrm { m i n } /$ 床位。对受检者经静脉注射 $^ { 9 9 } \mathrm { T c ^ { m } - M I B I ~ 9 2 5 ~ m B q }$ ,即刻行血流灌注相显像，于 $1 0 . 1 2 0 \mathrm { m i n }$ 分别采集平面早期相及延迟相平面显像， $9 0 \mathrm { m i n }$ 采集断层SPECT/CT图像。断层采集数据经Siemens专用软件TOMO-RECON重建后，再使用NuclearmedicineandCTfusion融合处理软件与CT图像进行融合。
+
+1.2.2 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像：使用仪器为GE公司InfiniaVc Hawkeye4 SPECT/CT显像系统,该设备又被称为经济型PET/CT(economicPET/CT,ePET/CT),滑环机架4排螺旋低剂量CT，分子成像探测采用1英寸切割的NaI(TI)晶体，95支光电倍增管配以正电子符合探测成像系统和高能高分辨率准直器显像剂为 ${ } ^ { 1 8 } \mathrm { F } .$ -FDGCT采集条件；球管电压 $1 4 0 \mathrm { K V }$ ，电流
+
+$2 . 5 \mathrm { m A }$ ，层厚 $4 \ : \mathrm { m m }$ ，矩阵 $2 5 6 \times 2 5 6$ ，扫描视野 $4 0 \ \mathrm { c m }$ ，采集时间 $4 ~ \mathrm { m i n } /$ 床位。SPECT采集及重建条件：层厚4$\mathrm { m m }$ ，,矩阵 $2 5 6 \times 2 5 6$ ，采集时间 $1 5 \mathrm { m i n } /$ 床位，断层采集数据经OSEM迭代重建后，使用GE专用Functionalana-tomicalfusion融合处理软件与CT图像进行融合。被检查者禁食 $6 \mathrm { { h } }$ 以上，检查当日禁止做剧烈运动。检查前血糖要求在正常范围(非糖尿病被检者 ${ < } 1 2 0 ~ \mathrm { m g / d l }$ 糖尿病被检者血糖控制在 $1 5 0 { \sim } 2 0 0 \ \mathrm { m g / d l }$ 范围内)。测量身高。体质量，显像剂注射剂量 $5 . 5 5 ~ \mathrm { M B q / k g }$ 体质量。注射后 $4 5 { \sim } 6 0 \mathrm { m i n }$ 进行全身显像。
+
+# 1.3影像分析
+
+由两名经验丰富的核医学医师共同对断层显像图像进行处理分析。勾画肺部病灶作为ROI,获得该病灶(L)的平均计数值。于同层面对侧软组织上分别勾画等体积ROI,获得平均计数值[15]。计算病灶(L)与本底(N)平均计数比值。
+
+# 1.4 统计学分析
+
+采用SigmaPlot12.0统计软件，计量资料以均数 $\dot { \bf { \varepsilon } } \pm { \bf { \varepsilon } }$ 标准差表示，采用Mann-Whitney检验比较良恶性组间不同本底T/N比值的统计学差异，以 $P { < } 0 . 0 5$ 为差异有统计学意义。ROC曲线评价其用于鉴别诊断肺结节良恶性的效能。病灶与病理学分级采用Spearman进行相关性分析，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1病理结果
+
+${ } ^ { 1 8 } \mathrm { F } .$ -FDG 符合线路SPECT/CT显像检查的36例患者中，良性10例（良性组)，包括机化性肺炎 $\scriptstyle ( n = 3 )$ ，纤维组织增生( $\scriptstyle { \bar { n } } = 1$ ）、硬化血管瘤 $\scriptstyle { \bar { n } } = 1 $ ）、肉芽肿性炎 $\scriptstyle ( n = 1 )$ ，随访阴性（ $\scriptstyle ( - 4 )$ ;肺癌病灶26例(恶性组)，包括鳞癌4例（中分化2例,中-低分化1例,低分化1例）腺癌18例(高分化2例，中分化2例，中-低分化3例，低分化11例）、小细胞未分化癌3例、粘液表皮癌1例。
+
+${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT显像检查的52例患者中,良性26例(良性组),包括肺或气管慢性炎 $\scriptstyle ( n = 1 2 )$ ，机化性肺炎 $\scriptstyle ( { n = 4 } )$ ,纤维组织增生( $\scriptstyle ( n = 2 )$ 、神经纤维组织增生( $\overset { \prime } { \underset { \mathrm { \tiny ~ 1 } } { \mathrm { \tiny ~ 2 } } } =$ 1）、肉芽肿性炎 $\scriptstyle ( n = 5 )$ ，随访阴性 $\scriptstyle ( n = 2 )$ ；肺癌病灶26例(恶性组)，包括鳞癌4例(中分化3例，低分化1例)腺癌19例(高分化2例，高-中分化1例，中分化6例，中-低分化1例，低分化9例)小细胞未分化癌2例，随访骨转移1例。
+
+# 2.2良恶性组差异分析
+
+经Mann-Whitney检验 $^ { 1 8 } \mathrm { F } \cdot$ -FDG符合线路SPECT/CT显像良恶性组比较 $u$ 值为21， $( P { < } 0 . 0 0 1 )$ 。 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像良恶性组比较 $u$ 值为78, $( P { < } 0 . 0 0 1 )$ 。差异均具有显著统计学意义。
+
+# 2.3ROC曲线分析
+
+$^ { 1 8 } \mathrm { F }$ -FDG 符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像的良恶性组L/N比值进行ROC曲线分析，曲线下面积分别为0.92、0.88，差异无统计学意义中 ${ \it P } { = } 0 . 5 6 5$ ，图1，2)。其最佳截断值分别为3.1、1.86;所对应的灵敏度及特异度分别为 $7 6 . 9 2 \% ( 2 0 / 2 6 ) \cdot 1 0 0 \%$ (10/10)和 $8 0 . 7 7 \%$ (21/26)， $8 8 . 4 6 \% ( 2 3 / 2 6 )$ 0
+
+![](images/00bd436ce9842528b85aa6e16d0556d5c680db600df8a9857c22a8df7aa5bfad.jpg)  
+图 $1 ~ ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ MIBISPECT/CT显像L/N比值散点图
+
+Fig.1 L/N ratio scatter plot of ${ } ^ { 1 8 } \mathrm { F } .$ -FDG coincidence SPECT/CT imaging and ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT imaging. MIBI-M and MIBI-B were malignant and benign lesions defined by ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT, and $^ { 1 8 } \mathrm { F }$ -M and $^ { 1 8 } \mathrm { F - B }$ were malignant and benign lesions defined by $^ { 1 8 } \mathrm { F }$ -FDG coincidence SPECT/CT, respectively.
+
+![](images/069ea653b28743582316fb3b67eb52e5bd62746ca0fea106cbe1451ecd8eecda.jpg)  
+图 $2 ~ ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT显像L/N比值ROC曲线 Fig.2 ROC curve of $\mathrm { L } / \mathrm { N }$ ratio of $\mathrm { ^ { 1 8 } F }$ -FDG coincidence SPECT/CT and ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBI SPECT/CT.
+
+病灶直径 ${ \leqslant } 2 \ \mathrm { c m }$ 的孤立性肺结节经 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像的L/N比值进行ROC曲线分析，如图3所示，曲线下面积分别为1.00及0.9 $) ( P { = } 0 . 7 4 6 )$ ） $2 \mathrm { c m }$ <病灶直径 $\leq 3 \ \mathrm { c m }$ 的孤立性肺结节经 $^ { 1 8 } \mathrm { F } \cdot$ -FDG符合线路SPECT/CT显像及${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像的L/N比值进行ROC曲线分析，曲线下面积分别为0.79及 $0 . 8 9 ( P { < } 0 . 0 0 1 \$ )。
+
+![](images/4dd6dfc495e90db69e084ef3aa31e0d4fb821dcb6895d361f8e1fd6a042cd3e9.jpg)  
+图 $3 ~ { ^ { 1 8 } \mathrm { F } } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } { - } \mathrm { M I }$ #BISPECT/CT显像L/N比值分病灶大小ROC曲线
+
+Fig.3 ROC curve of $\mathrm { L } / \mathrm { N }$ ratio for the lesion size detected by $^ { 1 8 } \mathrm { F }$ -FDG coincidence $\mathrm { { S P E C T / C T } }$ and ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ MIBI SPECT/CT. $^ { 1 8 } \mathrm { F } 2$ and MIBI2 were solitary pulmonary nodules with a diameter $\leqslant 2 \ \mathrm { c m } ,$ and 18F3 and MIBI3 were solitary pulmonary nodules withadiameterbetween2and $3 \mathrm { c m }$ ：
+
+# 2.4病灶L/N比值与病理分化程度及病灶大小的相关 性分析
+
+Spearman相关性分析结果显示， ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像恶性病灶L/N比值与病理分化程度无相关性( $P$ 值分别为0.771及0.077）。Pearson相关性分析结果显示${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像病灶L/N比值与病灶大小无相关性(相关系数 $0 . 0 9 2 , P { = } 0 . 5 1 6 )$ ， ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像病灶L/N比值与病灶大小呈正相关（相关系数 $0 . 3 9 7 , P { = } 0 . 0 1 6$ ）
+
+# 2.5 显像结果简析
+
+$^ { 1 8 } \mathrm { F } \cdot$ -FDG 符合线路SPECT/CT显像的患者中,有3例发现纵膈淋巴结转移；1例发现骨转移灶(图4)；1例发现肠道异常浓聚灶，手术证实肺鳞癌，十二指肠腺癌双原发恶性病变(图5); ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像的患者中，2例发现纵膈淋巴结转移。
+
+![](images/7cc60bd525c35c6f47d0c57d0c97752cc264c150d2d2f3d7485205c82b412e09.jpg)  
+图4孤立性肺结节证实高分化腺癌伴发股骨转移1例 Fig.4Solitary pulmonary nodules confirmed adenocarcinoma with femur metastasis.A: Solitary lung nodule with increased glucose metabolism; B:Left femur with increased glucose metabolism and local cortical abnormalities.
+
+![](images/4727d9125f713f7cd93f988f1f2436cfd4f3a8c62cf610a6001fac3d95059963.jpg)  
+图5孤立性肺结节证实鳞癌，十二指肠腺癌双原发1例 Fig.5 A case of multiple primary cancers presenting with a solitary pulmonary nodule (confirmed as squamous cell carcinoma)andduodenallesions(confirmedas adenocarcinoma).A: Solitary lung nodule with increased glucose metabolism; B:Descending duodenum lesions with increased glucose metabolism.
+
+# 3讨论
+
+# 3.1两种显像方法诊断效能比较
+
+${ } ^ { 1 8 } \mathrm { F } .$ -FDG 符合线路SPECT/CT显像及 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像近年来广泛应用于临床对肿瘤良恶性的鉴别。本研究经过ROC曲线下面积分析， ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像诊断效能较 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像略高，但并无统计学差异。两种方法所显示出的诊断效能均不逊色于既往文献中报道${ } ^ { 1 8 } \mathrm { F } .$ -FDGPET/CT对孤立性肺结节的诊断准确度[16。对于病灶直径 $\leq 2 \ \mathrm { c m }$ 的结节， ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像显示出了一定的优越性，但亦无统计学差异，此结果与既往常规认识并不一致，考虑与样本量较小可能产生偏差有关，尚有待进一步增大样本量进行研究;而${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像中直径较大的结节诊断效能高于 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像，此结果具有显著性的统计学意义，与既往认知相符合。本研究最小病灶直径为 $9 \mathrm { m m }$ ,这两种显像方法对于直径 $8 \mathrm { m m }$ 以下的病灶假阴性率过高[10.17],临床多结合其危险因素随访观察或其他检查手段进行鉴别。
+
+# 3.2病理分级及病灶大小与L/N比值大小无关
+
+病理结果显示恶性患者中均为原发性肺癌，腺癌为主，鳞癌次之，小细胞未分化癌仅数例，粘液表皮样癌仅1例；良性患者中以慢性炎、机化性肺炎及肉芽肿为主，此结果与孤立性肺结节病理来源相符合[1.18]。 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG
+
+PET/CT假阴性的6例患者中，除1例粘液表皮样癌外，其余多为分化程度较好的腺癌； ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT的3例假阳性患者中，2例为机化性肺炎，1例为肺组织慢性炎，此结果证实机化性肺炎是假阳性结果主要构成之一； ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT的5例假阴性患者中，除小细胞肺癌1例外，其余主要为分化程度较好的腺癌3例及鳞癌1例。但相关性检验结果显示恶性病灶病理分级与病灶L/N比值无相关性， ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } } .$ -MIBISPECT/CT显像病灶大小与病灶L/N比值亦无相关性，但 ${ } ^ { 1 8 } \mathrm { F } .$ FDG符合线路SPECT/CT显像病灶大小与L/N比值有相关性。此结果与既往多数研究结果相符，考虑由于18F-FDG的聚集取决于病灶局部葡萄糖代谢的活跃程度，而病灶越大其所需葡萄糖供能越多[19]；而 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI其显像原理尚未阐明，目前研究表明其摄取与肿瘤细胞胞浆及线粒体表面负电位相关，而局部血流及氧供也影响局部显像剂浓聚[20]，多因素影响致使其显像剂浓聚程度与其大小无明显相关性。
+
+同属价格低廉、安全无创的检查方法， ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像一次成像即可清晰直观的显示全身病灶情况，有无转移灶，可供临床医师有针对性的选择;而对于 $2 \ \mathrm { c m }$ 以上的孤立性肺结节 ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBISPECT/CT显像的诊断效能显著高于 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG符合线路SPECT/CT显像,可作为低收入患者临床鉴别良恶性的首选。
+
+# 参考文献：
+
+[1]Saclarides,Theodore J.Common surgical diseases [M].SpringerNew York,2008.  
+[2]Li WB,Pang H,Liu Q,et al.The role of $^ { 1 8 } \mathrm { F }$ -FDG PET or18F-FDG-PET/CT in the evaluation of solitary pulmonary nodules[J].EurJRadiol,2015,84(10): 2032-7.  
+[3]Harzheim D,Eberhardt R,Hoffmann H,et al． The solitarypulmonary nodule[J].Respiration,2015,90(2):160-72.  
+[4]Groheux D,Giacchetti S,Delord M,et al.Prognostic impact of18F-FDG PET/CT stagingand ofpathological response toneoadjuvant chemotherapy in triple-negative breast cancer[J].Eur JNucl Med Mol Imaging,2015,42(3): 377-85.  
+[5]Zegers CL,Van EW,Reymen B,et al. In vivo quantification ofhypoxic and metabolic status of NSCLC tumors using F-18 HX4and r- rDU-rE1/C1 maging LJ」. CIIn Canc Kes,ZU14,ZU(24):6389-97.  
+[6]孙 蕊,陈秋松,蔡 莉,等.F-FDGPET/CT在小细胞肺癌分期和预后评估中的价值[J].中国医学影像技术,2011,27(4):743-6.  
+[7」董燕玉，刘长江,张立广，等.氧介人Tc-MIBISPECT/CT同机融合鉴别诊断孤立性肺结节[J].中国医学影像技术,2012,28(3):503-6.  
+[8]邓智勇,李高峰,向旭东,等.Tc"-MIBI-SPECT与定位CT融合显像和F-FDG-PET/CT融合显像鉴别孤立性肺结节的对比研究[J].南方医科大学学报,2015,35(3):422-6.  
+[9]贾 茜,薛建军,高 蕊,等.肿瘤/肝脏比值在18F-FDG符合线路SPECT/CT显像在肺癌诊断中的价值[J].现代生物医学进展,2014,14(19): 3687-90,3702.  
+[10]刘永,陆 武,宋长祥,等.氟-脱氧葡萄糖双探头符合线路断层显像在39 例乳腺癌术前诊断中的应用[J].重庆医学,2012,41(13):1293-4,1296,封3,封4.  
+[11]李 艳,郝军辉,季颖,等.F-FDG符合线路SPECT显像联合CT、B超、MRI在结直肠癌术后复发及转移中的诊断价值[J].中国医学影像学杂志,2012,20(9): 707-10.  
+[12] Zhang Q，Shan C,WuP,et al.Clinical value of dual-phaseF-18-FDG SPECT with serum procalcitonin for identification ofetiology in tumor patients with fever of unknown origin[J].AsianPacif JCanc Prev,2014,15(2): 683-6.  
+[13]陈 鹏,汪瑞,刘永,等.F-FDG符合线路SPECT/CT显像对乳腺癌腋窝淋巴结转移的诊断价值[J].中国医学影像学杂志,2013,21(1):16-9.  
+[14]陆武,陈 鹏,刘永,等.F-FDG符合线路SPECT/CT显像半定量分析对肺部病变的诊断价值[J].放射学实践,2014,29(9):1046-9.  
+[15]贾茜,薛建军,高蕊,等. ${ } ^ { 9 9 } \mathrm { T c } ^ { \mathrm { m } }$ -MIBI SPECT/CT显像诊断肺结节时本底的选取[J].中国医学影像技术,2015,31(12):1835-9.  
+[16]Zhao M,Chang B,Wei Z,et al.The role of $^ { 1 8 } \mathrm { F }$ -FDGuptakefeatures in the differential diagnosis of solitary pulmonary lesionswith PET/CT[J].WorldJSurg Oncol,2015,13: 271.  
+[17]韦 璐,陈 刚,肖运平,等.多层螺旋CT联合 $^ { 9 9 \mathrm { m } } \mathrm { T c }$ 甲氧异丁基异腈亲肿瘤显像对孤立性肺结节的诊断价值[J].中国老年学杂志,2014,34(17): 4965-6.  
+[18]韦 璐,陈 刚.孤立性肺结节的影像学诊断研究进展[J].中国老年学杂志,2014,34(22): 6521-3.  
+[19]李 艳,马红霞,王瑞峰,等."F-FDGPET/CT的SUV值与肺癌患者的临床特征、病理类型及肿瘤标记物的关系研究[J].中华临床医师杂志:电子版,2012,6(21):6881-4.  
+[20]Nikoletic K,Lucic S,Peter A, et al.Lung 9mTc-MIBI scinti- graphy:impact on diagnosis of solitary pulmonary nodule[J].Bosnian JBasic Med Sci,2011,11(3):174-9.(编辑：经媛)

@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201808014 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "青钱柳的快速繁殖技术",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄宁珍，苏江，洗康华，付传明，龚庆芳，黄惠锦，何金祥\\*（广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植物研究所，广西 桂林，541006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：青钱柳是中国特有的胡桃科青钱柳属单种属速生乔木，有重要地医用价值，被誉为医学界的第三棵树，但其种苗繁育难大、效率低，因此，以青钱柳幼嫩茎段为外植体，研究其种苗快速繁殖技术，为其优良无性系的规模化繁育奠定基础。研究结果表明，青钱柳最佳采样时间为4一6月，最佳外植体为轻微木质化茎段；最佳的外植体表面消毒方法为用 $0 . 1 \\% \\mathrm { H g C l } _ { 2 }$ 浸泡 $5 \\mathrm { \\sim } 7 \\mathrm { m i n }$ ，消毒成功率 $54 . 1 \\%$ ，无菌外植体存活率 $8 8 . 7 \\%$ ；初代芽诱导培养基为 $\\mathrm { M S + 6 - B A 2 . 0 \\ m g { \\cdot } L ^ { - 1 } + I B A 0 . 2 \\ m g { \\cdot } L ^ { - 1 } + j }$ 蔗糖 $3 0 . 0 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ，芽诱导率$80 . 5 \\%$ ，培养21d初代芽苗平均高度 $3 . 0 \\ \\mathrm { c m }$ ；最佳继代增殖培养基为 ${ \\mathrm { M S } } { + } 6$ -BA $0 . 5 \\ \\mathrm { m g \\cdot L ^ { - 1 } + I B A } \\ 0 . 0 5$ mg:L-1+TIBA $0 . 0 2 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } } + .$ 蔗糖 $3 0 . 0 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ，培养 $3 5 \\mathrm { d }$ ，增殖系数 $7 . 0 / 3 5 \\mathrm { d }$ ，平均苗高 $4 . 5 \\mathrm { c m }$ ，芽苗健壮且无玻璃化；生根前的壮苗培养基为 $\\mathrm { M S + 6 - B A 0 . 5 \\ m g { \\cdot } L ^ { - 1 } + I B A 0 . 0 5 \\ m g { \\cdot } L ^ { - 1 } + }$ 蔗糖 $3 0 . 0 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ，培养 $3 5 \\mathrm { d }$ ，长出的芽苗高大健壮，平均苗高 $6 . 0 \\mathrm { c m }$ ；生根培养基为 $1 / 2 \\mathrm { W P M + I B A } 1 . 5 \\mathrm { m g } \\mathrm { \\cdot L ^ { - 1 } + 5 \\mathrm { - } N G S } 4 . 5 \\mathrm { m g } \\mathrm { \\cdot L ^ { - 1 } + } \\vec { \\Sigma }$ 蔗糖20.0$\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ ，培养 $4 0 \\mathrm { d }$ ，最高生根率 $8 3 . 3 \\%$ ；生根苗较适合的移栽基质为泥碳土，较好的移栽季节为3一5月和10—11月，移栽后在遮光度 $70 \\%$ 的大棚中培养40天，移栽成活率 $5 4 . 3 \\% { \\sim } 6 5 . 6 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：青钱柳，幼嫩茎段，快速繁殖 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rapid propagation technology of Cyclocarya paliurus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANG Ningzhen, SU Jiang, XIAN Kanghua, Fu Chuanming, GONG Qingfang, HUANG Huijin, He Jinxiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Guangxi KeyLaboratoryofPlantConservationandRestorationEcologyinKarstTerrainGuangxi InstituteofBotanyGuangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541o06 , Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Cyclocarya paliurus is a unique fast-growing tree in China and a mono species of Cyclocarya genus in Juglandaceae family.It has important medical value and is honored as“the third treein the medical field\".But its seedling breeding is difficult and inefficient.Therefore,tissue culture and rapid propagation of Cyclocarya paliurus were studied by using the young stem segments as explants. This work would lay a foundation for large-scale breeding of its superior clones.The results showed as folows: The optimal sampling time of explants is from April to June.The best explants fortisse culture are the slight lignification stem segments.And the best explants surface disinfection method is to soak stem segments in $0 . 1 \\% \\mathrm { H g C l } _ { 2 }$ about 5-7 min. The success rate of disinfection is $54 . 1 \\%$ and the survival rate of aseptic explants is $8 8 . 7 \\%$ .The medium of MS $+ 6$ -BA 2.0 $\\mathrm { m g { \\cdot } L ^ { - 1 } + I B A 0 . 2 \\ m g { \\cdot } L ^ { - 1 } + S u g a r \\ 3 0 . 0 \\ g { \\cdot } L ^ { - 1 } }$ is suitable for primary bud induction culture,and the bud induction rate is $80 . 5 \\%$ . After 21 days of cultivation, the average height of primary buds is $3 . 0 \\mathrm { c m }$ . The best subculture medium for multiplication is ${ \\mathrm { M S } } ^ { + 6 }$ -BA $0 . 5 \\ \\mathrm { m g \\cdot L ^ { - 1 } + I B A \\ 0 . 0 5 \\ m g \\cdot L ^ { - 1 } + T I B A \\ 0 . 0 2 \\ m g \\cdot L ^ { - 1 } + S u g a r \\ 3 0 . 0 \\ g \\cdot L ^ { - 1 } }$ After 35 days Key words: Cyclocarya paliurus, young stem segments, rapid propagation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of cultivation, the proliferation coefficient is $7 . 0 / 3 5 \\mathrm { d }$ ,and the shoots are strong and free of vitrification with average height of $4 . 5 \\mathrm { c m }$ . The medium for strong shoots before rooting is ${ \\mathrm { M S } } { + } 6 { \\mathrm { . } }$ -BA $0 . 5 ~ \\mathrm { m g \\cdot L ^ { - 1 } + I B A } ~ 0 . 0 5$ $\\mathrm { m g { \\cdot } L ^ { - 1 } { + } S u g a r } 3 0 . 0 \\mathrm { g \\cdot } \\mathrm { L } ^ { - 1 }$ . Cultivation 35 days in this medium, the shoots grow tall and strong, with an average height of $6 . 0 \\mathrm { c m }$ . The rooting medium is $1 / 2 \\mathrm { W P M } + \\mathrm { I B A } 1 . 5 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } + 5 \\mathrm { - N G S } 4 . 5 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } + \\mathrm { S u g a r } 2 0 . 0 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ Cultivation 40 days in this medium, the highest rooting rate is $8 3 . 3 \\%$ . The suitable transplanting matrix for rooting seedlings is slimy soil. And the best transplanting seasons are the periods from March to May and from October to November. After transplanting,the rooting seedlings were cultured for 40 days in a greenhouse with a shade of $70 \\%$ . the survival rates were $5 4 . 3 \\% { \\sim } 6 5 . 6 \\%$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青钱柳（Cyclocarya paliurus）是胡桃科青钱柳属单种属植物，又名摇钱树、麻柳等，是冰川四纪幸存下来的珍稀树种，是我国独有的单种属乔木植物和国家重点保护濒危植物之一。青钱柳被誉为植物界的大熊猫，医学界的第三棵树，据记载，青钱柳的树皮、树叶具有清热解毒、止痛等功能，用于治疗顽癣，民间用其叶制成保健茶饮用已有约200年历史（中国药材公司,1994；付燕等,2017）。近期研究表明，青钱柳富含多糖、黄酮类化合物、齐墩果酸、萜类化合物、有机酸、生物碱以及甾醇等多种有效成分（李俊等,2008;LIJetal,2008；唐梅等,2017），具有降血糖、降血压、降血脂、增加机体免疫力、抗氧化、抗衰老、抗肿瘤等作用（唐梅等,2017；邹荣灿等,2018；韩澄等,2009）。目前，青钱柳制成的保健茶，不仅在国内得到广大消费者认可，并得到美国食品与药品管理局、日本厚生省和德国卫生部的认可，是我国第一个获得美国 FDA 认证的保健茶产品（谢明勇和谢建华,2008)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有的青钱柳不仅资源数量少，且大多零星分布于深山老林和自然保护区中，可供利用的资源有限，严重制约了青钱柳的研究、开发和应用。而且，青钱柳种子具有硬质种皮和深度休眠双重特性，种子败育严重，空壳率高达 $90 \\%$ 左右，一般播种后需隔年才能萌发，自然发芽率低至 $0 . 1 \\% { \\sim } 0 . 5 \\%$ （徐庆和宋芸娟,2004）；同时，根据我们的经验及国内发表的扦插相关文献，发现青钱柳扦插育苗普遍存在插穗生根难、生根率不高等问题（李先民等,2014；何志国,2016）；少数获得较高的生根率，但长出的根为肉质根，其移栽成活率相当低，到目前为止，还未被广泛应用于林业生产(童方平等,2016；姚甲宝和曾平生,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，关于青钱柳的组培快繁研究报道虽然不多（上官新晨等,2006；谢寅峰等,2009,2011,2012；鲁萌等,2013；王纪等,2016；付燕等,2017；张文泉等,2018），但均获得不错的效果和独到的发现，为后续的研究提供了良好的科学参考，如王纪（2016）的研究结果揭示，青钱柳茎段的初代诱导和继代增殖无需使用高浓度激素培养基，有较高的参考价值。但在这些研究中，仍存在实验规模小、继代材料质量不理想、生根率低等问题。针对这些问题，本文以青钱柳幼嫩茎段为外植体，对其种苗组培快繁的全过程进行系统研究，为进一步完善青钱柳种苗组培快繁技术体系提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1植物材料及消毒方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物材料：用于实验的青钱柳种源来自于湖北玉峰山。采样株为定植于广西植物研究所内2\\~3年的植株。于每年的 $4 { \\sim } 6$ 月和8\\~10月采样。采样部位为带 $5 { \\sim } 6$ 个腋芽的嫩枝。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "外植体处置和消毒：将采回的青钱柳嫩枝去掉叶片后，用 $0 . 1 \\% { \\sim } 0 . 2 \\%$ 的洗衣粉水浸泡约 $5 \\mathrm { m i n }$ ，用自来水冲洗干净，将材料转至超净工作台内，剪成带1个腋芽、长约 $3 { \\sim } 5 ~ \\mathrm { c m }$ 的节段；将未木质化（顶端1\\~2芽）和轻微木质化（顶芽以下第 $3 { \\sim } 5$ 芽）的材料分类消毒。消毒时先用 $7 5 \\%$ 酒精浸泡30S；再用 $0 . 1 \\% \\mathrm { H g C l } _ { 2 }$ 浸泡 $5 { \\sim } 7 \\ \\mathrm { m i n }$ 和 $8 { \\sim } 1 0 \\mathrm { m i n }$ ；取出后用无菌水漂洗 $4 { \\sim } 5$ 次；之后放置到无菌不锈钢盘中，剪掉两端伤口，保留$2 { \\sim } 4 ~ \\mathrm { c m }$ 的带腋芽茎段，接种到初代诱导培养基中。培养14d后，统计消毒污染率和存活率（表1）。污染率 $\\scriptstyle :$ 污染的外植体数/总外植体数 $\\times 1 0 0 \\%$ ；存活率 $\\backslash =$ 存活的无菌外植体数/(总外植体数一污染的外植体数)$\\times 1 0 0 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2培养基制备及筛选 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初代培养基：以MS 和WPM为基本培养基；通过初步的预实验，按10:1的比例，添加6-BA(1.0,2.0,4.0, $8 . 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ）和IBA $\\mathrm { ( 0 . 1 , 0 . 2 , 0 . 4 , 0 . 8 \\ m g { \\cdot } L ^ { - 1 } ) }$ ），附加蔗糖 $3 0 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、琼脂 $3 . 3 ~ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ， $\\mathrm { p H } 5 . 8$ （表2）。通过观测统计不同培养基芽诱导率及芽苗生长情况，筛选出最佳初代诱导培养基配方。芽诱导率 $\\scriptstyle \\cdot = ($ 萌芽的外植体数/消毒成功的外植体数) $\\times 1 0 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "继代增殖培养基：以MS 为基本培养基，添加不同浓度和组合的植物生长调节剂，附加蔗糖 $3 0 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、琼脂 $3 . 3 ~ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ， $\\mathrm { p H } 5 . 8$ ；所用的植物生长调节剂包括6-BA、KT、ZT、IBA、NAA、IAA和TIBA（三碘苯钾酸）（表3和表4）。筛选增殖系数高、继代芽苗健壮、效果稳定的继代增殖和壮苗培养基配方。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生根培养基：以1/2MS 和1/2WPM为基本培养基，添加不同种类、浓度和组合的 IBA、NAA、IAA、DA-6（己酸二乙氨基乙醇酯，又名胺鲜脂）和5-NGS（5-硝基愈创木酚钠）；附加蔗糖 $2 0 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、琼脂3.3$\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ ， $\\mathsf { p H } 5 . 8$ （表5和表6）。筛选合适的生根培养基配方。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述每次实验每个处理 $1 0 { \\sim } 6 0$ 瓶，初代培养每瓶1个外植体，继代和生根培养每瓶 $8 \\sim 1 0$ 个外植体;每个处理重复3次。培养基配制分装后，于 $1 2 5 \\ \\mathrm { { ^ \\circ C } }$ 灭菌 $2 5 \\mathrm { m i n }$ ，冷却待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3接种和培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "继代接种：当继代芽苗长到 $4 { \\sim } 7 \\ \\mathrm { c m }$ 时，将再生芽分成单芽，剪掉叶片后切成含1个腋芽节段，接种于继代培养基上，每瓶 $8 { \\sim } 1 0$ 个接种点，培养时间 $3 0 { \\sim } 4 0 \\mathrm { d } .$ 。；生根接种：选择高度 $4 . 5 \\mathrm { c m }$ 以上、植株健壮的继代芽苗，从基部剪下，整株接入生根培养基中，每瓶接种8\\~10株，培养时间 $3 0 { \\sim } 4 0 \\mathrm { d }$ 。培养条件：培养温度（ $2 8 { \\pm } 3$ ） $\\mathrm { { } ^ { \\circ } C }$ ，光照时间为 $1 0 { \\sim } 1 2 \\ \\mathrm { h } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、光照强度为 $3 0 { \\sim } 4 0 ~ { \\mu \\mathrm { m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } } }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4生根苗炼苗移栽",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当青钱柳组培苗长出2-5条根、根长 $2 . 0 \\mathrm { c m }$ 以上时，将生根瓶苗开盖炼苗 $3 { \\sim } 5 \\mathrm { d }$ ，洗净植株根部附着的培养基，在1000 倍的“枯萎根腐特效灵一噁霉·嘧啶·申嗪”溶液中消毒 $2 { \\sim } 3 ~ \\mathrm { m i n }$ ；同时用该药剂喷洒消毒移栽基质（园土、泥碳土和椰糠）后，装于营养杯中，栽种上青钱柳生根苗，在阴蔽度 $70 \\%$ 的大棚中培养，注意保持环境及基质湿度，并每周喷上述药剂预防病害。 $4 0 \\mathrm { d }$ 后统计移栽成活率（表7）。根据不同移栽基质、移栽季节的移栽成活率，确定适合青钱柳组培苗移栽的基质和时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5实验数据统计方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "外植体消毒处理与初代培养实验每个处理60瓶，重复3次；继代与生根培养实验每个处理10瓶，重复3次。所有数据用 SPSS统计软件进行统计分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1外植体采集及消毒 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比较不同采样时间、外植体部位和消毒时间对青钱铆消毒成功率和存活率的影响（表1）。结果发现：（1）在8—10月份采样，不论是顶芽、未木质化茎段或轻微木质化茎段，也不论消毒时间长短，污染率均较高，为 $67 . 6 \\%$ ；且所有的外植体在后续的培养过程中全部褐化死亡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）在4一6月份采样，顶芽及未木质化茎段为外植体，消毒后 $2 { \\sim } 3 \\mathrm { ~ d ~ }$ 内全部褐化死亡。而轻微木质化茎段为外植体，消毒 $5 { \\sim } 7 \\ \\mathrm { m i n }$ ，污染率 $45 . 9 \\%$ ，存活率高达 $8 8 . 7 \\%$ ；轻微木质化茎段消毒 $8 { \\sim } 1 0 \\ \\mathrm { m i n }$ ，污染率 $43 . 9 \\%$ ，褐化死亡率增多，存活率下降至 $6 5 . 3 \\%$ 。统计结果显示， $5 { \\sim } 7 \\mathrm { m i n }$ 和 $8 { \\sim } 1 0 \\mathrm { m i n }$ 的消毒处理，污染率差异不明显，但存活率差异较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，青钱铆外植体最佳的采集时间为4一6月；最佳外植体部位为轻微木质化茎段；最佳消毒方法为 $0 . 1 \\% \\mathrm { H g C l } _ { 2 }$ 浸泡 $5 { \\sim } 7 \\ \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 初代培养",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将经表面消毒的青钱柳轻微木质化茎段接种于不同初代诱导培养基上（表2），培养3周后发现，在以MS和WPM为无机盐的培养基上均能生长，但以MS为无机盐的培养基的芽诱导率和芽苗高度均优于WPM。培养基中的6-BA和IBA在低浓度（ $\\cdot 1 . 0 { \\sim } 2 . 0 \\mathrm { m g } \\mathrm { L } ^ { - 1 + 0 . 1 \\sim 0 . 2 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } ) }$ 芽苗生长较快；在高浓度（8.0$\\mathrm { m g { \\cdot } L ^ { - 1 } } { + } 0 . 8 \\mathrm { m g { \\cdot } L ^ { - 1 } } \\rangle$ ）时，腋芽萌发和芽苗生长均显著受到抑制。总体上看，青钱柳在初代培养阶段耐受的植物生长调节剂浓度范围较宽，在6-BA $\\mathrm { 1 . 0 { \\sim } 4 . 0 \\ m g { \\cdot } L ^ { - 1 } } + \\mathrm { I B A } \\ 0 . 1 { \\sim } 0 . 4 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 浓度范围内，初代芽率诱导率均在 $4 0 . 0 \\%$ 以上，其中，以 ${ \\mathrm { M S } } ^ { + 6 }$ -B $\\mathrm { 4 } ~ 2 . 0 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } + I B A } ~ 0 . 2 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 培养基的初代诱导效果最好，芽诱导率和芽苗高度均达到最高，分别 $80 . 5 \\%$ 和 $3 . 5 \\mathrm { c m }$ （表2，图1-A），可以作为初代诱导培养基。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d55beb3a22f4210c9fa257ceeb6bb29f23d4173c7ee1de1fbc82c668e664563e.jpg",
+        "table_caption": [
+            "able1Effects ofexplants type,sampling seasonanddisinfectiontime ondisinfection effcacyof Cyclocarya paliurus（14d "
+        ],
+        "table_footnote": [
+            "注：同一列不同的小写字母表示0.05水平差异显著。下同。 Note:Differentlowercaseletersinthesamecolumn indicate thattherearesignificantdifferencesattheO.O5levelbetween different treatments.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>采样时间 Sampling time</td><td>采样部位 Sampling part</td><td>0.1% HgCl2 消毒时间 Disinfection time of 0.1% HgCl2</td><td>污染率 Pollution rate (%)</td><td>存活率 Survival rate (%)</td><td>外植体 褐化情况 Browning of explants</td></tr><tr><td>1</td><td>8~10月 Aug to Otc</td><td>顶芽、未木质化及轻微木质化茎段 Apical buds, non-lignified and slightly-lignified stem segments</td><td>5~10 min</td><td>67.6</td><td>0</td><td>全部褐化死亡 All browning and death 全部褐化死亡</td></tr><tr><td>2</td><td>4~6月 Apr to Jun</td><td>顶芽及未木质化茎段Apical buds and non-lignified stem segments</td><td>5~10 min</td><td>49.1</td><td>0</td><td>All browning and death 少数褐化死亡</td></tr><tr><td>3</td><td>4~6月 Apr to Jun</td><td>轻微木质化茎段 Slightly-lignified stem segments</td><td>5~7 min</td><td>45.9±7.2 a</td><td>88.7±5.4 a</td><td>A few browning and death 部分褐化死亡</td></tr><tr><td>4</td><td>4~6月 Apr to Jun</td><td>轻微木质化茎段 Slightly-lignified stem segments</td><td>8~10 min</td><td>43.9±5.3 a 65.3±7.9 b</td><td></td><td>Partial browning and death</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae11080f14782f4615befac3ebbb3bb1e351ef2773b0309b77e89981a5c47a31.jpg",
+        "table_caption": [
+            "表1青钱柳外植体类型、采样季节和消毒时间对消毒效果的影响(14d)",
+            "表2青钱柳初代诱导培养基及培养效果 (21d)",
+            "Table 2Primary culture media and the culture effect of Cyclocarya paliurus (21 d) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>培养基 Medium (mg·L-1)</td><td>芽诱导率 Bud induction rate (%)</td><td>芽高(cm) Height of shoot</td></tr><tr><td>1</td><td>MS+6-BA1.0+IBA 0.1</td><td>68.7±5.6 b</td><td>3.5±0.3 a</td></tr><tr><td>2</td><td>MS+6-BA 2.0+IBA 0.2</td><td>80.5±6.8 a</td><td>3.5±0.2 a</td></tr><tr><td>3</td><td>MS+6-BA 4.0+IBA 0.4</td><td>52.4±6.5 c</td><td>1.5±0.5 b</td></tr><tr><td>4</td><td>MS+6-BA 8.0+IBA 0.8</td><td>20.8±3.8 e</td><td>1.0±0.3 b</td></tr><tr><td>5</td><td>WPM+6-BA1.0+IBA0.1</td><td>55.2±5.5c</td><td>3.0±0.2 a</td></tr><tr><td>6</td><td>WPM+6-BA2.0+IBA0.2</td><td>68.5±6.4 b</td><td>3.0±0.2 a</td></tr><tr><td>7</td><td>WPM+6-BA4.0+IBA0.4</td><td>40.2±5.3 d</td><td>1.5±0.4 b</td></tr><tr><td>8</td><td>WPM+6-BA 8.0+IBA 0.8</td><td>9.7±2.3 f</td><td>1.0±0.4 b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3继代增殖及壮苗培养 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1初步继代增殖培养 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据初代培养结果设计表3培养基，青钱柳初步继代增殖培养结果如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）青钱柳比较适合在含有 $6 { \\cdot } \\mathrm { B A } { \\cdot } \\mathrm { I B A }$ 或 $6 { \\cdot } \\mathrm { B A } { \\cdot } \\mathrm { I A A }$ 激素组合的培养基上生长；但在诱导丛生芽方面，前者优于后者。（2）当6-BA浓度为 $0 . 5 { \\sim } 2 . 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、IBA或IAA浓度为 $0 . 0 5 { \\sim } 0 . 2 \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 时，所诱导的再生芽以单芽为主；在6-BA浓度为 $4 . 0 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 时，所诱导的再生芽中有一定数量的丛生芽，但玻璃化比较严重。（3）青钱柳在继代增殖培养中易玻璃化，当培养基中 ${ \\bf 6 - B A } \\mathrm { \\gtrsim 1 . 0 \\ m g { \\cdot } L ^ { - 1 } }$ ，IBA或IAA浓度在",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 . 1 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 以上时，随着激素浓度升高和培养代数增多，玻璃化程度越加严重（图1-B）。（4）以KT或ZT代替6-BA，直接诱导出大量愈伤，无法诱导出下一代芽苗。（5）以NAA代替IBA或IAA，诱导的愈伤过多，虽能诱导出芽苗，但随着培养进程的后延，芽苗逐渐黄化。因此，可用于青钱柳继代培养的激素组合和浓度为 $\\mathrm { 5 - B A ~ 0 . 5 ~ m g { \\cdot } L ^ { - 1 } } + 0 . 0 5 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ，在此条件下所诱导的再生芽以单芽为主，增殖系数偏低、为 $3 . 5 / 3 5 \\mathrm { d }$ ，但芽苗高壮，培养 $3 5 \\mathrm { d }$ ，平均苗高 $6 . 0 \\mathrm { c m }$ （表3，图1-C和D），适用于生根前的壮苗培养。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b08b90f28289735ecc449b00e526ae1d15e12ec397283a5f8cd7c94a88e3496.jpg",
+        "table_caption": [
+            "表3青钱柳的初步继代培养基及培养效果 (35d) Table 3Preliminary subculture media and the culture effect of Cyclocarya paliurus (35 d) ",
+            "2.3.2后续继代增殖培养研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>MS+ZT 2.0+IBA 0.2 MS+ZT 1.0+IBA 0.1 MS+ZT 0.5+IBA 0.05 MS+KT 2.0+IBA 0.1 MS+KT 1.0+IBA 0.1 MS+KT 0.5+IBA 0.05 MS+6-BA 2.0+NAA 0.2 MS+6-BA 1.0+NAA 0.1 MS+6-BA 0.5+NAA 0.05 I I I I I 2.5±0.3 2.5±0.4 2.4±0.2 2.3±0.2 2.1±0.3 2.0±0.2 2.7±0.4 2.6±0.3 2.5±0.3 00o 0 0 0 0 0 0 2.0±0.2 h 2.0±0.1 h 2.5±0.1 g 0 0 0 0 0 0 1.0±0.2 c 1.0±0.1 c 1.0±0.1 c 0 0 0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "初步的继代增殖培养研究表明，相对适合于青钱柳继代增殖的培养基为 ${ \\mathrm { M S } } { + } 6 { \\mathrm { . } }$ -BA $0 . 5 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } { + } I B A }$ $0 . 0 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，但增殖系数偏低，仅为 $3 . 5 / 3 5 \\mathrm { d } .$ 。因此，在后续的继代增殖培养研究中，在低浓度范围内，通过调整6-BA和IBA比例，并向培养基中添加TIBA，在有效控制玻璃化的前提下，提高丛生芽的诱导率和增殖系数（表4）。通过综合分析，得到如下结果：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）经过多次继代培养后，培养基中的6-BA浓度相对较高（ $0 . 8 \\mathrm { m g } \\mathrm { \\cdot L } ^ { - 1 }$ ）时，再生芽苗长势偏弱，玻璃化率高达 $70 \\%$ 以上，增殖系数低；6-BA浓度过低（ $\\cdot 0 . 2 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ）时，虽未出现玻璃化，但芽苗普遍矮小，增殖系数也较低；当6-BA浓度为 $0 . 5 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 时，芽苗高壮，无玻璃化苗，增殖系数相对较高；说明6-BA $0 . 5 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 是维持青钱柳继代苗正常生长的细胞分裂素浓度水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）在 $6 { \\cdot } \\mathrm { B A } : \\mathrm { I B A }$ 为 $2 0 : 1$ 、 $5 : 1$ 和 $1 0 : 1$ 的培养基中，前两者的丛芽率、芽苗高度和增殖系数均低于后者，因此，合适的6-BA和IBA比例应为 $1 0 : 1$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）在相对较高的6-BA（ $\\mathrm { \\cdot } 1 . 0 \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ）和IBA $\\mathrm { ( 0 . 1 \\ m g { \\cdot } L ^ { - 1 } }$ ）浓度下，添加TIBA后，合适的6-BA、IBA和TIBA浓度配比（1.0：0.1：0.04）玻璃化率比较低，仅 $20 . 5 \\%$ ；而不合适的配比则使玻璃化十分严重（1.0：0.1：0.06玻璃化率 $80 . 0 \\%$ ，1.0：0.1：0.02玻璃化率 $100 \\%$ ）。可见，玻璃化苗的产生不仅与培养基中各个激素的浓度有关，更与激素之间的浓度配比相关；合适的激素配比能够在很大程度上阻抑玻璃化的产生。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/87bb7a1e049bcc0a46ebf116a5c258dd8e06520e74c52400cdba3ee29cdf87bc.jpg",
+        "table_caption": [
+            "表4青钱柳后续的继代增殖培养基及培养效果（ $( 3 5 { \\bf d } )$ ",
+            "Table 4Subsequent subculture media and the culture effect of Cyclocarya paliurus （35 d) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>培养基 (mg·L-1) Media</td><td>丛芽率(%) Rate of clustered buds</td><td>苗高(cm) Height of</td><td>玻璃化率(%) Rate of</td><td>增殖系数/35d Multiplication</td></tr><tr><td></td><td>MS+6-BA1.0+IBA0.05</td><td>5.6±1.5 c</td><td>shoots 1.5+0.2 g</td><td>Vitrification 70.0±5.0 b</td><td>coefficient 0.5±0.2 e</td></tr><tr><td>1 2</td><td>MS+6-BA1.0+IBA 0.1</td><td>8.0±3.2 c</td><td>2.5±0.2 e</td><td>70.0±6.0 b</td><td>1.6±0.2 d</td></tr><tr><td>3</td><td>MS+6-BA1.0+IBA0.2</td><td>5.0±2.0 c</td><td>1.5±0.2 g</td><td>70.0±5.0 b</td><td>0.5±0.2 e</td></tr><tr><td>4</td><td>MS+6-BA0.5+IBA0.025</td><td>3.5±1.5 c</td><td>3.5±0.3 c</td><td>0</td><td>2.5±0.2 c</td></tr><tr><td>5</td><td>MS+6-BA 0.5+IBA 0.05</td><td>5.5±2.5 c</td><td>6.0±0.2 a</td><td>0</td><td>2.8±0.5 c</td></tr><tr><td>6</td><td>MS+6-BA0.5+IBA0.10</td><td>0</td><td>3.0±0.2 d</td><td>0</td><td>2.3±0.1 c</td></tr><tr><td>7</td><td>MS+6-BA 0.2+IBA 0.01</td><td>0</td><td>2.5±0.1 e</td><td>0</td><td>1.5±0.4 d</td></tr><tr><td>8</td><td>MS+6-BA0.2+IBA0.02</td><td>0</td><td>3.5±0.2 c</td><td>0</td><td>2.4±0.2 c</td></tr><tr><td>9</td><td>MS+6-BA0.2+IBA0.04</td><td>0</td><td>2.0±0.1 f</td><td>0</td><td>1.2±0.2 d</td></tr><tr><td>10</td><td>MS+6-BA1.0+IBA0.1+TIBA0.02</td><td>78.0±9.9 a</td><td>3.5±0.3 c</td><td>80.0±10.0 b</td><td>1.5±0.2 d</td></tr><tr><td>11</td><td>MS+6-BA1.0+IBA0.1+TIBA0.04</td><td>81.4±12.0 a</td><td>3.5±0.2 c</td><td>20.5±2.0 c</td><td>5.0±0.2 b</td></tr><tr><td>12</td><td>MS+6-BA1.0+IBA0.1+TIBA0.06</td><td>80.3±11.5 a</td><td>2.5±0.3 e</td><td>100.0±0.0 a</td><td>0.5±0.1 e</td></tr><tr><td>13</td><td>MS+6-BA0.5+IBA0.05+TIBA0.01</td><td>65.0±11.2 b</td><td>4.5±0.2 b</td><td>4.0±1.0 e</td><td>4.0±0.2 b</td></tr><tr><td>14</td><td>MS+6-BA0.5+IBA 0.05+TIBA 0.02</td><td>80.5±18.2 a</td><td>4.5±0.2 b</td><td>0</td><td>7.0±0.2 a</td></tr><tr><td>15</td><td>MS+6-BA 0.5+IBA 0.05+TIBA0.03</td><td>78.5±10.3 a</td><td>3.5±0.1 c</td><td>17.8±1.6 c</td><td>5.0±0.3 b</td></tr><tr><td>16</td><td>MS+6-BA 0.5+IBA 0.05+TIBA0.04</td><td>80.2±12.2 a</td><td>3.5±0.2 c</td><td>28.5±3.5 c</td><td>4.2±0.4 b</td></tr><tr><td>17</td><td>MS+6-BA0.5+IBA0.05+TIBA0.05</td><td>82.3±13.2 a</td><td>3.5±0.2 c</td><td>38.6±3.5 c</td><td>4.3±0.4 b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）在适合6-BA（ $0 . 5 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ）和IBA（ $\\mathrm { ( 0 . 0 5 \\ m g { \\cdot } L ^ { - 1 } }$ ）浓度下，添加TIBA $0 . 0 1 { \\sim } 0 . 0 5 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 后，当TIBA为0.01、0.03、0.04、 $0 . 0 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时，大多数丛芽率诱导率为 $6 5 . 0 \\% { \\sim } 8 2 . 3 \\%$ ，但芽苗相对较弱，玻璃化率 $2 0 . 8 \\% { \\sim } 3 2 . 0 \\%$ ，增殖系数偏低 $( 4 . 0 { \\sim } 5 . 0 / 3 5 \\mathrm { d } )$ ;当 TIBA为 $0 . 0 2 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时，丛芽率诱导率高达 $80 . 5 \\%$ ，芽苗较壮，培养35天平均高度 $4 . 5 \\mathrm { c m }$ ，无玻璃化苗，增殖系数 $7 . 0 / 3 5 \\mathrm { d }$ （表4，图1-E和F），在这一条件下连续继代10代以上，均获得良好且稳定的效果。说明6-BA、IBA和TIBA合适的浓度水平及配比为 $0 . 5 { : 0 . 0 5 } { : 0 . 0 2 } ~ \\mathrm { m g ^ { . } L ^ { - 1 } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合上述两个阶段的继代增殖培养研究结果得出，青钱柳的最佳继代增殖培养基为 $\\mathrm { M S } { + } 6 { \\mathrm { - } } \\mathrm { B A } 0 { . } 5$ $\\mathrm { m g { \\cdot } L ^ { - 1 } { + } I B A               0 . 0 5 \\ m g { \\cdot } L ^ { - 1 } { + } T I B A 0 . 0 2 \\mathrm { m g { \\cdot } L ^ { - 1 } } }$ ，在此培养基中培养35d，3-5芽的丛生芽诱导率 $80 . 5 \\%$ ，芽苗健壮、平均苗高 $4 . 5 \\mathrm { c m }$ ，长期继代玻璃化率为0，增殖系数 $7 . 0 / 3 5 \\mathrm { d }$ ；最佳壮苗培养基为MS+6-BA0.5$\\mathrm { m g { \\cdot } L ^ { - 1 } { + } I B A 0 . 0 5 \\ m g { \\cdot } L ^ { - 1 } } + ,$ 蔗糖 $3 0 . 0 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ( $\\mathrm { p H } 5 . 8 \\dot { . }$ ），培养 $3 5 \\mathrm { d }$ ，长出的芽苗高大健壮、无玻璃化，平均苗高 $6 . 0 \\mathrm { c m }$ ，适用于生根前的壮苗培养。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 生根培养",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以1/2MS 和1/2WPM为基本培养基，添加不同浓度 IBA、NAA或IAA，筛选能够诱导青钱柳生根的基本培养基及生长素种类和浓度（表5），结果发现，以1/2MS为基本培养基添加不同浓度IBA不能诱导青钱柳生根；而1/2WPM为基本培养基添加不同浓度 IBA、NAA或IAA 诱导生根存在差异，其中 NAA在 $0 . 5 { \\sim } 4 . 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 的浓度范围内诱导的生根率为0，且随着浓度增高愈伤增多、褐化严重；IAA在 $\\phantom { - } 0 . 5 { \\sim } 4 . 0$ $\\mathrm { { m g } { \\cdot } L ^ { - 1 } }$ 的浓度范围，均能不同程度诱导生根，当浓度为 $2 . 0 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 时，生根率最高、为 $20 . 0 \\%$ ; IBA在 $\\phantom { - } 0 . 5 \\mathord { \\sim } 4 . 0$ （204$\\mathrm { { m g } { \\cdot } L ^ { - 1 } }$ 的浓度范围内，均能不同程度诱导生根，其中，当IBA为 $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时生根率最高，为 $5 5 . 2 \\%$ 。另外，以不同浓度的IBA 和IAA 组合诱导生根，生根率不仅未见提高、反而有所下降。在生根培养过程中，所有的处理均出现不同程度的焦叶现象，焦叶率为 $2 8 \\% { \\sim } 5 0 \\%$ ，焦叶率会随着IBA、NAA或IAA浓度的升高有所提升,但未导致植株死亡。综合表5结果,青钱柳相对比较适合的生根培养基配方为1/2WPM+IBA$1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，但在后续的实验中发现，在此培养基中进行生根诱导，不同的实验批次起伏波动较大，最高生根率仅为 $5 5 . 2 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8effaf60b384a568839f4126fb3ae233d21d1881f617744c0f35a37711719b8b.jpg",
+        "table_caption": [
+            "表5基本培养基和不同浓度IBA、NAA或IAA对青钱柳生根影响（40d）",
+            ": medium and diferent concentrations of IBA, NAA or IAA on rooting of Cyclocarya paliurus (40 d) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>培养基 Medium (mg;L-1)</td><td>平均焦叶率 Average rate of withered</td><td>生根率 Rooting rate (%)</td><td>平均根数/株 Root number of per plant</td></tr><tr><td>1</td><td>1/2WPM+IBA0.5</td><td>leaves (%) 30.5</td><td>2.0±0.8 d</td><td>2.5</td></tr><tr><td>2</td><td>1/2WPM+IBA 1.0</td><td>34.3</td><td>19.2±3.2 b</td><td>2.5</td></tr><tr><td>3</td><td>1/2WPM+IBA1.5</td><td>35.5</td><td>55.2+5.5 a</td><td>3.0</td></tr><tr><td>4</td><td>1/2WPM+IBA2.0</td><td>35.6</td><td>11.5±2.2 c</td><td>2.5</td></tr><tr><td>5</td><td>1/2WPM+IBA4.0</td><td>40.7</td><td>18.5±3.0 b</td><td>2.0</td></tr><tr><td>6</td><td>1/2WPM+IAA 0.5</td><td>28.8</td><td>3.7±1.2 d</td><td>2.5</td></tr><tr><td>7</td><td>1/2WPM+IAA1.0</td><td>35.6</td><td>4.0±1.0 d</td><td>2.5</td></tr><tr><td>8</td><td>1/2WPM+IAA1.5</td><td>38.8</td><td>11.4 ±2.6 c</td><td>2.5</td></tr><tr><td>9</td><td>1/2WPM+IAA 2.0</td><td>36.6</td><td>20.0±4.2 b</td><td>2.5</td></tr><tr><td>0</td><td>1/2WPM+IAA 4.0</td><td>40.2</td><td>18.7 ±2.8b</td><td>2.0</td></tr><tr><td>11~15</td><td>1/2WPM+NAA 0.5~4.0</td><td>46.3</td><td>0</td><td>0</td></tr><tr><td>16~20</td><td>1/2MS+IBA 0.5~4.0</td><td>36.8</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，以 $1 / 2 \\mathrm { W P M } \\mathrm { + } \\mathrm { I B A } 1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 为基础,添加特殊促生根试剂DA-6(己酸二乙氨基乙醇酯)和5-NGS（5-硝基愈创木酚钠），进一步开展青钱柳组培苗生根诱导实验（表6），以获得更高的生根效率。结果发现， $\\mathrm { I B A l . } 5 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 与不同浓度的DA-6 组合使用，在DA-6所试的浓度范围内（ $\\mathrm { . 1 . 0 { \\sim } 8 . 0 \\ m g { \\cdot } L ^ { - 1 } }$ ），青钱柳组培苗的生根率最高仅为 $6 . 9 \\%$ ，远低于单独使用IBA $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的生根率。而IBA $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 与不同浓度 5-NGS 组合使用，当5-NGS 浓度低于 $2 . 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 、高于 $8 . 0 \\mathrm { m g \\cdot L ^ { - 1 } }$ 时，青钱柳组培苗的生根率较低（低于 $2 2 . 0 \\%$ ）；当5-NGS 浓度在 $3 . 0 { \\sim } 5 . 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 时，其促生根效果与IBA有一定程度的叠加作用，其中促生根效果最佳的浓度组合为IBA $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 } { + } 5 { \\cdot } \\mathrm { N G S } 4 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，诱导的生根率达到 $8 3 . 3 \\%$ ，明显高于单独使用IBA $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时的生根率 $54 . 6 \\%$ 。因此，适合青钱柳的生根培养基为 $1 / 2 \\mathrm { W P M + I B A ~ } 1 . 5 ~ \\mathrm { m g } \\mathrm { \\cdot } \\mathrm { L ^ { - 1 } } \\mathrm { + } 5 \\mathrm { \\cdot } \\mathrm { N G S }$ $4 . 5 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ，培养40天，生根率 $8 3 . 3 \\%$ ，植株健壮，长势良好，焦叶率有所下降（图1-I和J）。但后续的生根培养实验证明，在这一培养基中，同样存在不同批次实验生根率起伏波动较大，其中生根率最高的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "培养季节为11月底 ${ \\sim } 1 2$ 月底。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/406988eb3e8442e619de981b575d9bc7d1523d839141e68c2240c4f5a730e9c3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：DA-6.己酸二乙氨基乙醇酯；5-NGS.5-硝基愈创木酚钠。 Note:DA-6.Diethyl aminoethyl hexanoate; 5-NGS.5-Nitroguaiacol Sodium Salt. "
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>培养基(mg·L-1)</td><td>愈伤</td><td>平均焦叶率(%) Rate of dry leaves</td><td>生根率(%) Rate of rooting</td><td>平均根数/株 Root number of per plant</td></tr><tr><td>No. CK</td><td>Medium 1/2WPM+IBA 1.5</td><td>Callus 中 Moderate</td><td>35</td><td>54.6±3.8 d</td><td>3.0</td></tr><tr><td>1</td><td>1/2WPM+IBA1.5+DA-6 1.0</td><td>中 Moderate</td><td>10</td><td>0</td><td>0</td></tr><tr><td>2</td><td>1/2WPM+IBA1.5+DA-62.0</td><td>中 Moderate</td><td>10</td><td>0</td><td>0</td></tr><tr><td>3</td><td>1/2WPM+IBA1.5+DA-6 4.0</td><td>大Large</td><td>20</td><td>6.9±1.1 f</td><td>3.0</td></tr><tr><td>4</td><td>1/2WPM+IBA1.5+DA-6 8.0</td><td>大Large</td><td>20</td><td>6.9±1.3 f</td><td>3.0</td></tr><tr><td>5</td><td>1/2WPM+IBA1.5+5-NGS1.0</td><td>中 Moderate</td><td>30</td><td>16.0±1.0 e</td><td>3.0</td></tr><tr><td>6</td><td>1/2WPM+IBA1.5+5-NGS 2.0</td><td>中 Moderate</td><td>30</td><td>22.2±6.2 e</td><td>3.0</td></tr><tr><td>7</td><td>1/2WPM+IBA1.5+5-NGS 4.0</td><td>中 Moderate</td><td>20</td><td>73.4±2.1 b</td><td>3.0</td></tr><tr><td>8</td><td>1/2WPM+IBA1.5+5-NGS 8.0</td><td>中 Moderate</td><td>40</td><td>9.0±1.0 g</td><td>3.0</td></tr><tr><td>9</td><td>1/2WPM+IBA1.5+5-NGS 3.0</td><td>中 Moderate</td><td>20</td><td>60.0 ±3.4 c</td><td></td></tr><tr><td>10</td><td>1/2WPM+IBA1.5+5-NGS 3.5</td><td>中 Moderate</td><td>20</td><td>61.7±2.9 c</td><td>3.0 3.0</td></tr><tr><td>11</td><td>1/2WPM+IBA1.5+5-NGS4.5</td><td>中 Moderate</td><td>20</td><td>83.3±5.2 a</td><td>3.0</td></tr><tr><td>12</td><td>1/2WPM+IBA1.5++5-NGS 5.0</td><td>中 Moderate</td><td>35</td><td>71.4±2.0 b</td><td>3.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5生根苗炼苗移栽",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "青钱柳喜温暖潮湿、土层深厚肥沃、排水良好的酸性土壤环境。根据这些生长习性，分别选择疏松园土、泥碳土和椰糠为移栽基质，在3—6月和9—11月进行移栽（表7）。移栽 40d后观测并统计成活率，结果发现，泥碳土和椰糠为移栽基质的移栽成活率明显高于园土；不同的移栽季节成活率差异较大，其中较好的移栽季节为3一5月和10—11月，在此期间移栽，成活率在 $5 4 . 3 \\% { \\sim } 6 5 . 6 \\%$ ，移栽 $4 0 \\mathrm { d }$ 小苗长出新根新叶，苗高约 $8 { \\sim } 1 0 \\ \\mathrm { c m }$ （图1-K）。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c8439736b60f1066ebcff7af7092e6aa5a908a2936bb2ed44f4211185dac479.jpg",
+        "table_caption": [
+            "表6促生根试剂DA-6或5-NGS与IBA组合对青钱柳生根的影响（40天） Table 6Effects of DA-6 or 5-NGS combined with IBA on rooting of Cyclocarya paliurus （40 d) ",
+            "表7不同移栽基质及移栽时间青钱柳组培苗的移栽成活率",
+            "Table7Survivalrateof the tisse culture sedlings of Cyclocarya paliurus indiferenttransplanting monthand matrix (40d "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>移栽月份 Transplanting month</td><td>移栽基质 Transplanting matrix</td><td>成活率(%) Survival rate</td><td>苗高(cm) Seedling height</td></tr><tr><td>CK</td><td>3</td><td>园土 Garden soil</td><td>36.0±2.0 c</td><td>8.0</td></tr><tr><td>1</td><td>3</td><td>泥碳土 Slimy soil</td><td>64.8±2.7 a</td><td>9.0</td></tr><tr><td>2</td><td>3</td><td>椰糠 Coconut bran</td><td>65.3±4.1 a</td><td>9.2</td></tr><tr><td>3</td><td>4</td><td>泥碳土 Slimy soil</td><td>65.5±3.9 a</td><td>10.2</td></tr><tr><td>4</td><td>5</td><td>泥碳土 Slimy soil</td><td>57.1±1.3 b</td><td>12.0</td></tr><tr><td>5</td><td>6</td><td>泥碳土 Slimy soil</td><td>30.2±1.9 c</td><td>11.3</td></tr><tr><td>6</td><td>9</td><td>泥碳土 Slimy soil</td><td>15.7±3.0 e</td><td>8.9</td></tr><tr><td>7</td><td>10</td><td>泥碳土 Slimy soil</td><td>54.3±2.4 b</td><td>10.3</td></tr><tr><td>8</td><td>11</td><td>泥碳土 Slimy soil</td><td>65.6±3.6 a</td><td>10.2</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13eb7643c5781b7a7a8daa3a99c66e4e32f1fb989d92bbd79574c007258505d9.jpg",
+        "img_caption": [
+            "注：A.初代诱导获得的再生芽；B.玻璃化苗；C,D.继代培养获得的单生芽；E,F.继代培养获得的单生芽;G,H.健壮的继代瓶苗；I,J.生根苗；K.移栽小苗。"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "onshootsdevelopedfromleafduringinitialculture;B.Vitrficationbuts;C,D.ingleshotsfromsubculture;E,F.Clusteredoots from subculture; G,H. Strong plantlets from subculture;I,J.Rooting plantlets;K.Transplanted seedlings. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "外植体采集时间和部位对青钱柳初代培养十分重要。王纪等（2016）研究了取样时间对青钱柳茎段腋芽诱导的影响，发现4月采样茎段腋芽萌发率最高，8月以后采样萌发率降为0。付燕等（2017）研究发现，青钱柳茎段培养最佳取样时间为5月，顶芽下1、2段萌芽率最高。在本研究中我们发现，4月至6月中旬采样，以轻微木质化茎段为外植体， $0 . 1 \\%$ 的升汞消毒 $5 { \\sim } 7 \\ \\mathrm { m i n }$ ，获得比较好的消毒效果，消毒成功率和成活率分别为 $54 . 1 \\%$ 和 $8 8 . 7 \\%$ ；而8月份以后采样，无论用任何消毒及培养方法，所有的外植体均逐渐褐化死亡，成活率和初代芽诱导率均为0。另外，值得注意的是，青钱柳在消毒过程中容易褐化死亡，褐化死亡率与升汞处理时间呈正相关，因此，消毒时间不宜过长。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在青钱柳的初代诱导培养中，不同的研究者所用的培养基不同，所获得的结果差异也较大。付燕等（2017）用改良 ${ \\mathrm { M S + T D Z ~ 0 . 5 ~ m g { \\cdot } L ^ { - 1 } + N A A ~ 0 . 0 5 ~ m g { \\cdot } L ^ { - 1 } } }$ 培养基，获得 $5 7 . 1 \\%$ 的芽萌发率；谢寅峰等（2011)用WPM+6-BA $3 . 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } { + } 2 i p \\ 1 . 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } { + } N A A \\ 0 . 1 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } } } }$ 培养基，获得高达 $8 3 . 3 \\%$ 的芽萌发率；鲁萌等（2013）研究发现，在合适的培养基中，青钱柳腋芽萌芽率可高达 $86 \\%$ 。在本研究中，我们发现，在正确的采样季节和采样部位的前提下，以 $\\mathrm { M S ^ { + 6 - B A } } 2 . 0 \\mathrm { m g } \\mathrm { \\cdot } \\mathrm { L } ^ { - 1 } \\mathrm { + I B A } 0 . 2 \\mathrm { m g } \\mathrm { \\cdot } \\mathrm { L } ^ { - 1 }$ 为初代培养基，可获得高达$80 . 5 \\%$ 的初代芽诱导率；同时也发现，青钱柳初代培养对基本培养基及激素种类和浓度要求并不严格，适应范围较宽。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在继代增殖培养中，鲁萌等（2013）发现，培养基 $\\mathrm { W P M + T D Z 0 . 3 \\ m g \\cdot L ^ { - 1 } + 6 { \\mathrm { - } } B A 0 . 3 \\ m g \\cdot L ^ { - 1 } }$ 对青钱柳的增殖效果最佳，增殖系数为 $6 . 8 / 2 0 \\mathrm { d }$ ；胡冬南等（2009）用细胞分裂素ZT得到了大量增殖芽；尚旭岚（2007）等通过离体胚培养诱导出丛生芽，增殖系数最高为3.45；张金凤和方升佐（2012）以及鲁萌等（2013）在实验中虽然获得了高达6.71和6.78的增殖系数，但芽很小，芽基部均包裹大量的愈伤组织，再次继代的效果很差；谢寅峰等（2011）发现，在培养基 $\\mathrm { W P M + T D Z 0 . 1 \\ m g \\cdot L ^ { - 1 } \\mathrm { + N A A 0 . 1 \\ m g \\cdot L ^ { - 1 } } }$ 中继代,青钱柳增殖系数为 $7 . 3 / 1 5 \\mathrm { d }$ ，并且发现在培养基中添加 $\\mathrm { G A } _ { 3 } 2 . 0 \\mathrm { m g / L }$ 能有效地促进丛生芽的伸长及健壮生长。根据上述这些研究结果，我们也曾用WPM为基本培养基进行继代增殖，但发现会导致继代芽苗叶片黄化；也在继代培养基中添加 $\\mathrm { G A } _ { 3 }$ ，发现不仅不能诱导继代芽苗节间伸长、增加植株高度，反而出现茎节不能伸长、新生芽苗矮缩、诱发的愈伤过多、叶片狭长弯曲等不良效果；这些结果的差异和这些现象发生的深层原因还有待探讨。通过本文实验研究发现，ZT、KT和NAA在青钱柳继代增殖培养中均诱发大量愈伤，对再生芽的生长有抑制作用；青钱柳继代再生苗比较容易玻璃化，玻璃化程度会随着6-BA浓度的提高和继代培养代数的增加而加重，但6-BA浓度过低则不能维持青钱柳继代再生苗的正常生长；在继代培养基中添加TIBA，可以明显提高青钱柳丛生芽诱导率和增殖系数，这应该与该化合物具有微弱的抗生长素作用、抑制顶端优势、从而促进丛芽产生有关。通过长期的筛选、研究和验证，我们发现，MS+6-BA $\\mathrm { 3 . 0 . 5 \\ m g \\cdot L ^ { - 1 } \\mathrm { + I B A \\ 0 . 0 5 \\ m g \\cdot L ^ { - 1 } \\mathrm { + T I B A 0 . 0 2 \\ m g \\cdot L ^ { - 1 } } } }$ 可以作为青钱柳长期继代增殖的培养基，在此培养基上长期继代培养，丛生芽诱导率 $80 . 0 \\%$ 以上，玻璃化率为0，芽苗健壮，平均增殖系数 $7 . 0 / 3 5 \\mathrm { d }$ ，其重复性和稳定性好，可用于产业化生产。而在已有的相关文献报道中，未见有提到有关青钱柳在继代增殖中的玻璃化和壮苗培养等问题，可能与这些研究所进行的继代增殖的次数不多有关。因此，本研究结果对青钱柳的长期继代增殖和种苗组培快繁生产有一定的参考价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在青钱柳的生根培养中，诸多报道指出诱导茎段不定根产生的适合外源激素为IBA，乔卿梅等（2009）研究表明IBA的浓度为 $5 . 0 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 时生根率最高，为 $40 \\%$ ；王纪等（2009）发现IBA $0 . 1 \\mathrm { m g \\cdot L ^ { - 1 } } +$ 多效唑$0 . 5 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 诱导的生根率最高，为 $3 7 . 5 \\%$ ，但叶片有凋落现象；而鲁萌等（2013）研究发现，培养基$\\mathrm { W P M + G G R - 6 1 0 . 0 \\ m g { \\cdot } L ^ { - 1 } + I B A 1 . 0 \\ m g { \\cdot } L ^ { - 1 } }$ 生根效果较好，生根率为 $2 5 \\%$ ；谢寅峰等（2009）发现，培养基$\\mathrm { W P M + I B A } 0 . 2 \\ \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 } + ,$ 蔗糖 $2 0 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的生根率为 $1 6 . 6 7 \\%$ ，若先经过15d暗诱导处理，生根率可提高到$23 . 3 3 \\%$ ；张文泉等（2018）发现，培养基 $1 / 2 ~ { \\mathrm { M S } } { + } { \\mathrm { I B A } } 1 . 5 ~ { \\mathrm { m g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ 诱导的生根率为 $2 7 . 0 \\%$ 。这些研究结果显示，青钱柳组培苗生根较难，诱导的生根率低。而我们研究发现，1/2MS为基本培养基很难诱导生根适宜诱导青钱柳组培苗生根的基本培养基为1/2WPM，适合的外源激素和浓度为IBA $1 . 5 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，在此基础上添加 $\\mathrm { 5 - N G S ~ 4 . 5 ~ m g { \\cdot } L ^ { - 1 } }$ 可以大幅度提高生根率，但还存在不同实验批次生根率波动大、重复性差等问题，这种起伏波动是否与植物的生物钟和培养季节有关仍待验证。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在青钱柳组培生根苗移栽方面，目前还未见有相应的文献报道，我们研究发现，青钱柳组培生根苗在移栽过程中比较容易褐化死亡，移栽成活率比较低，目前所获得的最高移栽成活率也仅 $6 5 . 6 \\%$ ，离产业化生产的要求还有较大距离。另外，值得注意的是，在相关研究中我们还发现，不同的青钱柳种源，在初代培养阶段用相同的培养可能都获得比较好的结果，但到后期的继代增殖及生根培养阶段，其对培养基成分的要求则有明显的种源特异性。这可能是不同的研究者所得的研究结果不同、也是我们的研究结果与诸多已报道的研究结果相左的主要原因。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHINESE HERBAL MEDICINE MOMPANY,1994. Chinese traditional Chinese medicineresources[M].Beijing:Chinese Science Press[中国药材公司．中国中药资源志要 [M].北京：科学出版社,1994.]   \nHAN C,NIESP,HUANGDF,et al,2009.Effectsof polysaccharides from Cyclocarya paliurus (Batal.)Ijinskjk ongrowthof MGC-803 cels[J].Nat Prod Res Dev,21(6):952-955.[韩澄，聂少平，黄丹菲，等,2009.青钱柳多糖对人胃癌 MGC_803 细胞生长的影响[J]．天然产物研究与开发,21(6):952-955.]   \nHE ZG,2016.CutingPropagationofCyclocarya paliurus [J].CentSForest InvandPla,35(1):5-61.[何志国,2016.青钱 嫩枝扦插繁殖技术[J].中南林业调查规划,35(1):58-61.]   \nHU DN,SHANGGUANXC,IULY,etal,2009.InitrocultureofstemsegmentsofCycocaryapaliurus[J].HubeiAgricSci48 (6):1300-1303.[胡冬南，上官新晨，刘亮英,等,2009.青钱柳茎段离体培养研究[J].湖北农业科学,48(6):1300-1303.]   \nFUY,HEXJ,ZHUL,etal,17.Priarycuresysteoftemsegmetsofycocaryapalus[J].ChinHortict:8-0. [付燕，何宪江，周黎,等,2017．青钱柳茎段初代培养体系的建立[J]．中国园艺文摘,2:8-10.]   \nLIJ,HUANGX,U,etal,.Cicaositentsofyocayrus[J].inaditateted,3():-4. [李俊，黄锡山，陆圆圆,等,2008．青钱柳化学成分的研究[J]．中成药,30(2):238-240.]   \nLI J,LUYY,uXJ,etal,8.Ansequterpeelactoneadabeicaciddervativefrotheleavesflocarlus and their glucosidase and glycogen phosphorylase inhibiting activites [J].Planta Med,74: 287-289.   \nLI XM,FANGSZ,LUJ,2014.CutingraisingtechiquesonCyclocaryapaliurus[J].ChinaForestSciandTechnol,8 (5): 125-127.[李先民，方升佐，刘晶晶,2014．青钱柳扦插育苗试验 [J]．林业科技开发,2014,28(5):125-127.]   \nLUM,RUANSC,WANGJ,etal,2013.Ivitroculture techniqueofaxilarybuds fromstemofCyclocarya paliurus [J].Janjing Fore Univ(Natural Sciences Edition),37(6):6-10.[鲁萌，阮氏，王纪，等,2013．青钱柳茎段腋芽的离体培养技术 [J]. 南京林业大学学报(自然科学版),37(6):6-10.]   \nQIAO QM,CHENGMG,WEIZH,etal209.Effectofdiferent exogenous hormonesontissuecultureofCyclocarya palurus (Batal.)Iljisk stem section[J].NHortic,7:125-127.[乔卿梅，程茂高，魏志华，等,2009．不同外源激素对青钱柳茎段组 织培养的影响[J]．北方园艺,7:125-127.]   \nSHANGGUAN XC,GUO CL,JIANGY,et al,2006.A studyoneffectsof media andplant hormones oncalus inductionof Cyclocarya paliurus (Batal.)Ijinskaja stemsandleaves invitro[J].Acta AgricUnivJiangxiensis,28(5): 678-681.上官新晨, 郭春兰，蒋艳，等,2006.培养基和植物生长调节剂对青钱柳茎段和叶片愈伤组织诱导的研究[J].江西农业大学学报， 28 (5): 678-681.]   \nSHANG XL,XU XZ,FANG SZ,2007.A preliminary study onembryo culture and rapid propagation in vitroof Cyclocarya paliurus[J].JNanjing Fore Univ(Natural Sciences Edition),31(1):101-105.[尚旭岚，徐锡增，方升佐,2007．青钱柳离体 胚的培养及快速繁殖 [J]．南京林业大学学报(自然科学版),31(1):101-105.]   \nTANGM,ZHAOC,HUZY,etal017.Chemicalconsitentsadpamacoogicalactiviiesofycocarypaurus（Btal.) Iljinskaja: Research advances [J].JInt Pharm Res,44(9):851-859.[唐梅，赵立春，扈芷怡，等,2017.青钱柳化学成分及药 理作用研究进展[J].国际药学研究杂志,44(9):851-859.] TONGFP,LIG,IUZH,etal16.CuttngPropagationTecqusofCylocarypalurus[J].CnAgrciBull,32():712. [童方平，李贵，刘振华,等,2016．青钱柳高效扦插繁殖技术研究[J]．中国农学通报,32(10):7-12.] WANGJ& XIEYF,2009.Preliminary studies on tisue culture andsecondary metabolitesof Cyclocaryapaliurus[M].Graduate thesis of Nanjing Forestry University.[王纪和谢寅峰,2009.青钱柳组织培养及次生代谢物调控的初步研究[M].南京林业 大学硕士毕业论文.] WANGJ,YANG J,YANGWX,etal,2016.Eectsofsampling timeanddisinfectionmethodsonaxillrybudinductionof Cyclocarya paliurus[J].JofAnhui Agr Sci,44(34):154-156.[王纪，杨静，杨万霞，等,2016.取样时间和消毒方法对青钱 柳茎段腋芽诱导的影响 [J].安徽农业科学,44(34):154 -156.] XIE MY&XIEJH,2008.ReviewabouttheResearchon Cyclocarya paliurus (Batal.)Ijinskaja[J].JofFoodSciandBiotechol,   \n27(1):113-121．[谢明勇和谢建华,2008．青钱柳研究进展 [J]．食品与生物技术学报,27(1):113-121.] XIE YF,WANGY,SHANG XL,etal,2O09.Preliminarysudyonthetissuecultureandrapid propagationsystemofCylocara paliurus [J].Acta Bot Boreali-Occident Sin,29(1):2331-2338.[谢寅峰，王莹，尚旭岚，等,2009.青钱柳组培快繁体系的 初步研究[J]．西北植物学报,29(11):2331-2338.] XIE YF, ZHANG ZM,SHANG XL,et al,2011.Germinationofaxilarybuds from stemsegmentsand proliferationof ultiple shoots of Cyclocarya paliurus[J].Sci Silva Sin,47(1): 50-55.[谢寅峰，张志敏，尚旭岚，等，2011．青钱柳茎段腋芽萌发 和丛生芽增殖 [J].林业科学,47(1):50-55.] XIEYF,ZHANGZM,ZHYY,etal,212.ProliferationofCyclocaryapaliuruscalls[J].JNortheastFore Univ,4(6):6-8. [谢寅峰，张志敏，张颖颖,等,2012．青钱柳愈伤组织增殖 [J]．东北林业大学学报,40(6):16-18.] XUQ&SONGYJ,2004.Research status on Cyclocarya paliurus[J].Acta Med Sinica,17(3): 451-453.[徐庆和宋芸娟,2004. 青钱柳的研究概况[J]．华夏医学,17(3):451-453.] YAO JB & ZENGPS,2017.Research Progresson Cuting PropagationofCyclocarya paliurus [J].Eucalpt Sci &Technol,34(1):   \n52-56.[姚甲宝和曾平生,2017．青钱柳扦插繁殖研究进展 [J].桉树科技,34(1):52-56.] ZHANG JF & FANG SZ,2012. Studies on tisue culture technology of young embryos ofCyclocarya paliurus [M]. Graduate thesis ofNanjing Forestry University.[张金凤和方升佐,2012．青钱柳幼胚组织培养技术的研究[M]．南京林业大学硕士 毕业论文.] ZHANG WQ,DENGJ,LUOGT,etal,2018.Studyon tssuecultureofCyclocaryapaliurus[J].JCent S UnivofFore&Techol,   \n38(3):13-19.[张文泉，邓洁，罗国涛，等,2018．青钱柳组织培养研究[J].中南林业科技大学学报,38(3):13-19.] ZOURC,WUJ,AQ,eall8.seachroesstrctiosatiorifatidactiisf from Cyclocarya Paliurus[J].Chin JMod Appl Pharm,35(4):603-608.[邹荣灿，吴少锦，焦思棋，等,2018．青钱柳多糖提 取分离纯化及生物活性的研究进展 [J]．中国现代应用药学,35(4):603-608.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

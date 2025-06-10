@@ -1,0 +1,670 @@
+[
+    {
+        "type": "text",
+        "text": "投资者情绪、股市流动性与波动性的时变研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于深度学习BERT模型和TVP-VAR模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张宸瑞，吴心怡，邓海露，张荟蔚（华南理工大学 经济与金融学院，广州510006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】基于2018年1月1日至2019年12月31日东方财富网深证成指股吧的评论数据，本文通过使用深度学习 BERT 模型提取了其中蕴含的投资者情绪，并应用 TVP-VAR模型对投资情绪、股市流动性以及波动性三者之间的时变联动关系进行了研究。实验结果表明,投资者情绪对股市流动性和波动性的冲击更为强烈，而反向的影响虽然相对较小，但其随股市状态变化更为显著。此外，在所有情况下，短期的响应都比中长期更显著，且影响具有非对称性，市场下行时期的冲击更为强烈。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BERT模型；TVP-VAR 模型；深证成指；投资者情绪；股市流动性；股市波动性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A time-varying study of investor sentiment, stock market liquidity and volatility ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on deep learning BERT model and TVP-VAR model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Chenrui, WU Xinyi, DENG Hailu, ZHANG Huiwei (School of Economics and Finance, South China University of Technology, Guangzhou 510006, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] Based on the review data of Shenzhen stock index BBS from January 1, 2018 to December 31,2O19, this paper extracts the investor sentiment contained in it by using the deep learning BERT model， and studies the time-varying linkage relationship among investment sentiment, stock market liquidity and volatility by using TVP-VAR model. The experimental results show that investor sentiment has a stronger impact on the liquidity and volatility of the stock market, while the reverse impact is relatively small, but it changes more significantly with the state of the stock market. In addition, in all cases, the short-term response is more significant than that in the medium and long term,and the impact is asymmetric, and the impact in the market downturn is stronger. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Key words] Bert model; TVP-VAR model; Shenzhen Stock Index; Investor sentiment; Stock market liquidity; Stock market volatility ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "股市的相对稳定是股市发展壮大的基础，它有利于国内外投资者的进入，也有利于避免金融危机的爆发。股市的异常波动将会使大部分投资者对市场失去信心，也会使作为资产配置指标的股价信号失真，进而增加整个金融体系的系统性风险。相对于欧美国家成熟的股市，中国股市波动性较大。2014年至2015年上证综指暴涨暴跌事件引发了股票市场和投资者的反思，其成因可以从行为金融和分形市场理论两个角度来解释，前者突出投资者的行为和情绪的重要影响，后者强调市场流动性因素。由此可见，投资者情绪和市场流动性的动态变化已经成为市场波动性的重要影响因素。随着股票交易的互联网化和大众化，对投资者情绪、股票市场流动性及波动性间互动机制进行探究的重要性日益凸显。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文预期的边际贡献为：（1）对当前计算机文本处理领域最前沿的深度学习模型之—BERT 预训练模型进行微调，实现一个更适合更可靠判断中文投资者文本情绪的BERT 模型，并将其开放开源以供后续研究者共同使用和改进；（2）当前学界中较多文献探究投资者情绪与股票市场流动性、股票市场波动性其中一者的影响关系，但较少文献研究三者之间的联动关系，本文通过使用TVP-VAR 模型对其进行研究，以期进一步丰富学界相关领域的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、 文献综述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着股票市场交易的互联网化和大众化，探究投资者情绪对市场的影响机制在行为金融研究领域的重要性日益凸显。通过阅读文献综述，本文将项目的研究工作分成了探究“投资者情绪测度”以及“投资者情绪与股票市场的联动关系”的两部分，并基于此进一步细化了文献阅读和研究学习的方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（一） 投资者情绪",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "直接调查法需要耗费研究者大量的时间精力，且样本容量有限偏误较大，在近期的研究中已较少被使用。市场代理指标法常通过选择封闭基金折价、换手率等代理变量并使用主成分分析法构建投资者情绪代理指标。该方法较易实现且研究效果较为显著，因此仍被广泛使用。但它也存在只能间接反映投资者情绪的缺陷。而词典法则是通过将金融文本中出现的情绪词与词典进行对照进而得到加权的投资者情绪指标。该方法能直接反映投资者情绪，极大地促进了国内外对金融文本分析的研究，但也存在情绪指标受词典质量的影响较大的问题，且构建词典的工作量比较繁琐。随着计算机算力的提升和自然语言处理领域的算法不断更新，许多学者开始借用支持向量机（SVM)、递归神经网络（RNN）和长短期记忆单元（LSTM）等模型算法并利用机器学习的方法直接提取金融文本中的投资者情绪，并构建指标，此类研究随着机器学习模型算法的改进不断提高准确率。HuichengLiu 利用双向LSTM对新闻文本进行编码并搜捕上下文情绪信号特征；YaoQin 利用非线性自回归模型，构建出一种基于双阶段递归神经网络时间序列的预测方法来研究投资者情绪。目前，机器学习法是投资者情绪测度领域最前沿的方向，因此本文考虑采用机器学习的方法研究投资情绪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情感分类是自然语言处理任务中的一个子任务，其本质上是对带有情感色彩的主观性文本进行分析、处理、归纳和推理的过程，而本文研究的是对股吧情绪的分析处理，情感分类有利于对股市舆情监测进行合理检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着计算机硬件的发展，一种网络结构更深、更复杂的深度学习模型——BERT 由此而被设计出来。研究发现 BERT 更多地用于媒体、政治评论研究，例如Guoshuai Zhang等（2020）利用 BERT 语言模型分析《纽约时报》发布的新闻，预测美国未来短期内的政策变化；Jiaqi Hou 等（2020）结合 transformer 的双向编码器的 BERT 模型，提出一种新的 BERT-att，并证明这种模型比领先的基线模型更有效，可用于安全风险评估等领域。然而在金融研究领域，仍鲜有学者在研究中使用 BERT 模型，也较少有学者将其调试好后的可以直接使用的情绪判断机器模型进行开源，研究希望能为本领域填补上这方面的差距和空白，以便未来的研究能在该方向上持续推进和优化，本文的研究对当前计算机文本处理领域最前沿的深度学习模型之一——BERT预训练模型进行微调，实现一个更适合更可靠判断中文投资者文本情绪 BERT模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（二） 市场流动性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "股市流动性是指股市迅速地、低成本地执行大量交易并且不会造成价格大幅变化的现象。流动性包括几个方面的内容：一是交易的即时性；二是交易的低成本性；三是可交易的股票数量巨大；四是价格偏低程度小。目前研究中用的的流动性指标众多，可以根据研究方向的需要构建不同的流动性指标。杨朝军(2008)借鉴 Amivest 流动性比率与Hui-Heubel流动性比率思想的基础上,提出新的流动性指标；曾志坚和罗长青(2008)以换手率为流动性变量，利用一年上交所数据研究了两个市场流动性之间的联动关系。研究发现股票市场和债券市场月度流动性之间不存在领先滞后关系；王茵田等（2010）对股票市场和债券市场的流动性溢出效应进行研究，构建出基于价格影响的流动性衡量方法的流动性指标；韩金晓等（2017）用Crowin和 Schultz（2012）价差类指标可以有效地度量中国股票市场流动性。在股票市场，换手率是最简单的流动性指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（三） 市场波动性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "股票市场波动性是指由于经济因素、政策因素和市场参与者自身因素的变化引起对市场预期的变化而产生的股票价格的变化。股票市场波动受基本面、资金面、投资者情绪等多方面因素的影响。对于金融市场来说，波动性是非常重要的特征之一，它反映金融资产回报随之间的变化。对于波动性的测算方法，已有文献中较为普遍的方法有：收益率的方差或标准差、收益率的条件方差、震荡幅度等。Engle（1982）的研究中将方差和条件方差进行区分，建立了ARCH 模型，开创了波动性研究的新思路。Bollerslev（1896）在此基础上提出了GARCH模型。黄海南和钟伟（2007）提出运用GARCH类模型来预测上证指数的收益波动率。戴雯（2018）利用ARMA-GARCH模型族对 ST类股票收益率进行实证分析。现有文献对于股票市场波动性研究方面揭示了证券价格波动的聚集性、持续性和非对称性，验证了ARCH 族模型在证券价格波动建模中的适用性。目前国内外学者提出的多种模型从不同方面考量股市波动性，可以根据研究所需进行选择，基于实际情况，本文参考国泰安数据库中的已实现波动率来构建股市波动性指标",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（四）投资者情绪与股票市场流动性、股票市场波动性相关研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在投资者情绪对流动性的影响方面，Chen 等（2009）研究了投资者情绪、市场流动性和投资者交易行为之间的联系，结果发现投资者的情绪倾向于悲观时，更多的投资者会选择卖出，减少了市场的净买入量，进而降低了市场流动性，同时个人投资者对于情绪变化的反应程度高于机构投资者。李春红和彭光裕（2011）运用格兰杰因果关系发现投资者情绪是股票流动性的格兰杰原因，投资者情绪通过影响股票流动性进而间接影响股票市场的资本化率和经济增长水平。王丹枫和梁丹（2012）发现投资者情绪变化会增加市场流动性，对股票预期收益的流动性溢价的影响也变得显著。刘晓星等（2016）发现投资者情绪会正向影响市场流动性，且投资者对于股市信息的认知能力越高时，股市流动性相对减弱。此外，研究发现投资者的积极情绪和消极情绪对于股市流动性的影响程度存在差异。杨晓兰等（2016）通过本地偏好、投资者情绪对股市的影响研究，发现本地关注对股票交易量的正向影响在积极情绪下比消极情绪下的影响程度更大。石广平等（2016）利用TVP-SV-SVAR 模型分析投资者情绪、市场流动性对股市泡沫的影响，发现投资者情绪对股市流动性的影响，且在牛市中乐观情绪的影响比在熊市中悲观情绪的影响更加显著。上述文献从不同视角研究了投资者情绪对股市流动性的影响，并在一定程度上发现了不同类型的情绪对于股市的差异化影响以及在不同时期下的差异化表现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在投资者情绪对股票市场波动的影响方面，Lee 等(2002)发现投资者情绪对股票市场波动性有显著影响，其中积极情绪会减弱市场波动，消极情绪会增大市场波动。张宗新和王海亮（2013）运用主成分分析法构建投资者情绪指数，分析投资者情绪与股市波动之间的关系，发现投资者情绪对市场收益率和波动率存在显著的正面影响，情绪水平越高，股市收益率变化越大，股价偏离内在价值越远，股市波动越大。胡昌生和池阳春（2013）发现理性投资者和非理性投资者都是市场波动的制造者，投资者的情绪会使市场偏离理性框架，导致异常波动。陆剑清和陈明珠（2013）提出“预期情绪溢出效应”假说，认为微观层面的投资者的心理预期激发了羊群效应，诱发了宏观层面的“股市同频共振效应”，加剧了股市波动。巴曙松（2016）指出融资融券将助长投资者情绪，并对市场波动性具有加剧效应。上述文献从不同角度出发，证实了投资者情绪是股市系统性风险因素之一，也是影响股市收益波动的重要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、 数据处理与模型构建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（一） 数据的选取",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "考虑研究对象的选取，需要对整个A股市场有一个较好的概括，能够全方位的反映投资者情绪的实际状况，本文选取东方财富网股吧作为文本数据来源，选取已实现波动率 $( R V _ { t }$ ）、换手率（ $. T u r n _ { t }$ ）作为变量来研究投资者情绪的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1．文本数据的选取",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文爬取东方财富网²股吧2018年1月1日至2019年12月31日的股吧数据，横向对比多个个股以及指数股吧数据，最终选择深证成指的股吧。相比上证综指以及其他指数股吧数据，深证成指股吧具有数据量合适、浏览人数多、代表性强等特征。其次，深证成指包含了在深交所上市的具有一定规模的 500 支优质公司股，涵盖了各个行业的数据。因此深证成指能很好的反应股票市场的情况。在文本处理上，遵循文本分析标准，删除了重复数据、数据中的表格、HTML标签等非文本项目。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8e7cea006183c1bf04d5ef658899ad48827249be58c9c24c29d5aff217a2ffc.jpg",
+        "table_caption": [
+            "表12018年1月1日深证成指部分成分股"
+        ],
+        "table_footnote": [
+            "注：数据来源同花顺iFind数据库。"
+        ],
+        "table_body": "<html><body><table><tr><td>排名</td><td>代码</td><td>简称</td><td>权重(%)</td><td>总股本（万亿）</td></tr><tr><td>1</td><td>000333.SZ</td><td>美的集团</td><td>3.63</td><td>65.61</td></tr><tr><td>2</td><td>000651. SZ</td><td>格力电器</td><td>3.10</td><td>60.16</td></tr><tr><td>3</td><td>000858. SZ</td><td>五粮液</td><td>2.20</td><td>37.96</td></tr><tr><td>4</td><td>000725. SZ</td><td>京东方A</td><td>2.19</td><td>347.98</td></tr><tr><td>5</td><td>000002.SZ</td><td>万科A</td><td>1.88</td><td>110.39</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f0055ca7747b9f6e417d44e5f5f744adc0bbb2ddd8307b4b923aebed9b5b2bd.jpg",
+        "table_caption": [
+            "表2每日评论统计汇总信息"
+        ],
+        "table_footnote": [
+            "由于股票市值是不断变动的，因此成分股也是不断变化的，表1是2018 年1"
+        ],
+        "table_body": "<html><body><table><tr><td>时间</td><td>评论</td><td>阅读量</td><td>评论数</td></tr><tr><td>2019-1-2</td><td>不可否认，今日又是涨幅巨大股票甩抛机会。必须用平 静心态面对涨涨跌跌</td><td>2115</td><td>0</td></tr><tr><td>2019-1-2</td><td>北向外资流入A股，净流入逾3100亿元，利好。</td><td>1159</td><td>2</td></tr><tr><td>2019-1-2</td><td>股市内外环境发生根本改变，别用陈旧熊市眼光看待股 市，股市大开放股价必须步步上台阶</td><td>921</td><td>0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "月1日深证成指部分成分股，但在本文研究期间内，成分股变化不大，因此可以不考虑成分股变化带来的影响。此外，我们对每日股吧爬取的信息包括时间、评论内容、阅读数和评论数等内容，如表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3所得到的统计信息可以看出，每天平均评论标题长度为62.7个字符，且内容呈右偏分布。与传统的（相对较短的）评论不同的是，股吧数据中一些字数较多的股评通常是从其他来源复制和粘贴而来的，如新闻报道和分析报告。在这里我们使用简单的处理来消除这些潜在的潜在影响离群值，仅保留少于150个汉字的股评。此外考虑到每日评论数参差不齐以及考虑不同阅读量对结果的影响，我们选择了按阅读量排序，由高到低每日选取了前50条数据进行研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6872b3c0abbda02b8c8c5afd431a5eb50a9c5e3e2514cdce7341e46c04ed4c0a.jpg",
+        "table_caption": [
+            "表3经预处理的股吧评论文本数据的基本统计描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Mean</td><td>S.D</td><td>Skewness</td><td>Min</td><td>Max</td><td>Count</td></tr><tr><td>数据长度 (字符)</td><td>62.6754</td><td>169.0293</td><td>7.9438</td><td>2</td><td>2921</td><td>39784</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：此表为每天评论长度的汇总统计信息。变量的样本均值、标准差（S.D.）、最大最小数和评论总数。  \n该样本包含 2018 年1月1日至 2019 年 12月31 日样本期内深证成指股吧评论数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2．股票交易数据的选取",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文选取深证成指作为研究对象，借助其每日交易行情指数进行研究，包括当天的总市值、流通市值、总股本、流通股本、换手率、市盈率、市净率额等数据。本文通过开源的Python 数据 API——Tushare 获取，返回的结果为Pandas.DataFrame 数据类型。表 42018-2019年各指标的基本统计描述",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fd6740d22e2ae0a2b71f456f353a2125d2b3f8c7bd36528abc716643449f1cf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Mean</td><td>S.D</td><td>Skewness</td><td>Min</td><td>Max</td></tr><tr><td>股市换手率（%）</td><td>1.2565</td><td>0.5268</td><td>2.3546</td><td>0.66</td><td>3.99</td></tr><tr><td>股市波动率（%)</td><td>1.1936</td><td>1.0730</td><td>3.6074</td><td>0.21</td><td>12.02</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，股市波动性与换手率平均值在 $1 . 2 \\%$ 左右，且二者均呈现右偏分布，其中股市波动率较大，最大最小值之间相差约 $10 \\%$ 可见波动较为剧烈。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（二） 模型构建",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1．基于金融语料的深度学习模型设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "深度学习时代中的NLP（自然语言处理）预训练工作广泛使用词嵌入（WordEmbedding），使用深度学习模型进行训练的时候，会将所训练的次转化为词向量作为神经网络的输入层，而在深度学习模型训练的过程中，训练结果的好坏水平很大程度取决于训练集的大小，较大的训练集可以训练出较好的词向量，目前在自然语言处理领域绝大部分的任务模型都会采用训练好的词向量。在词向量的训练过程中，词向量忽略了上下文的表意，当词汇出现一词多义的情况，往往对应的是相同的词向量。因此，2018年Devlin等人（2019）提出预训练语言模型BERT，问鼎11个NLP任务的榜单，是NLP 领域前进的一大步。BERT 模型的结构如图1所示，其中 Ei,E2,..,EN 是模型的输入字符，输入字符通过双向的 Transformer 特征提取器获取文本特征，输入字符训练后输出相应的向量 $\\mathrm { T } _ { 1 } , \\mathrm { T } _ { 2 } , . . . , \\mathrm { T } _ { \\mathrm { N } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfc3d16d7799b22cef4ae8787d34a6da6266f2df4364c5ad3a2129aeeecf2709.jpg",
+        "img_caption": [
+            "图1BERT模型结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dc38e14374f3fddcfff90cdd63b5cab73f2aec2ef27e0247fe17301140febc1.jpg",
+        "img_caption": [
+            "图2BERT模型的训练方式"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，BERT作为一个所有层都能够结合上下文语义进行训练的模型，其输入由字嵌入（Token Embeddings）、段嵌入（Segment Embeddings）以及位置嵌入（PositionEmbeddings）三个向量组成，与此同时，BERT采用的是MLM模型（遮盖语言模型），MLM通过遮盖（Mask）一部分字，类似填空，然后去预测被遮盖的模型，通过迭代来达到上下文训练的目的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BERT本质上是两段式NLP 模型。第一个阶段叫做：Pre-training（预训练），利用现有无标记的语料训练一个语言模型。为了提高在预测中的准确率这里采用哈工大讯飞联合实验室发布基于全词覆盖（WholeWordMasking，wwm）的中文BERT预训练模型Chinese-BERT-wwm 作为预训练模型。BERT在完成预训练后，可将其用于金融实体情感识别的任务，在情感分析中将作为下一网络的输出。根据金融文本的特殊性，在本地使用GPU 将带情感标注的金融文本进行第二阶段 Fine-tuning（微调），就可以训练出在金融等特定领域精度更高的模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）模型训练 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文模型选用工大讯飞联合实验室发布的chinese_roberta_wwm_large_ext_L-24_H-1024_A-16（24-layer,1024-hidden,16-heads）预训练模型，采用了24层Transformer，其隐层维度为1024，多头注意力参数为16，参数模型总大小为330MB。模型训练方面批次大小（batch size）为16，学习率（learming rate）为 2e-5，序列最大长度（max seqlength）为128。本文使用三分类对情绪进行标注，0表示负向情绪、1表示中性情绪、2表示正向情绪，在所爬取的 2018年1月1日至 2019年12月30日的数据中，随机选取4000条数据，进行人工情绪的标注，并对所标注的数据按8:2的比例划分训练集及测试集，进行训练。如表5所示，处理的数据包括情绪（Sentiment）0代表消极，1代表中性，2代表积极，Positive_Pro指文本属于积极情绪的概率，Negtive_Pro 表示属于消极情绪的概率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/70e852cc7e4cbc0b44a4da37f4b9591c5734cc20c011039324472b49d8998f4b.jpg",
+        "table_caption": [
+            "表5部分样例数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Date</td><td>Context</td><td>Sentiment</td><td>Positive_Pro</td><td>Negtive_Pro</td></tr><tr><td>2018-12-21</td><td>10 年一次的财富翻倍机会，你想实 现财富自由吗？现在抄底让你实现 梦想[大笑][牛]</td><td>2</td><td>0.99148</td><td>0.00852046</td></tr><tr><td>2018-12-21</td><td>上联，［牛]借东墙补西墙，年年没 钱。[牛]下联，[牛]借新帐还旧账， 年年亏损。</td><td>0</td><td>0.0499047</td><td>0.950095</td></tr><tr><td>2018-12-21</td><td>A股离完蛋有多远？</td><td>0</td><td>0.042031</td><td>0.957969</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）基于股评的投资者情绪指标 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "借鉴Antweiler 和Frank(2004)提出的基于股吧帖子分类构建看涨指标的方法，即：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS e n t _ { t } = \\frac { M _ { t } ^ { p o s } - M _ { t } ^ { n e g } } { M _ { t } ^ { p o s } + M _ { t } ^ { n e g } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "式(1)中 $\\begin{array} { r } { M _ { t } ^ { c } = \\sum _ { i \\in D ( t ) } \\omega _ { i } \\chi _ { i } ^ { c } } \\end{array}$ 表示类型为 $\\mathsf { c } \\in \\{ \\mathsf { p o s } , \\mathsf { n e u } , \\mathsf { n e g } \\}$ 的消息在一段时间D(t）内的加权数量之和其中 pos 代表积极情绪，neg 代表消极情绪，neu 代表中性情绪 $\\chi _ { i } ^ { c }$ 是指示变量，如果消息属于某种类型c，其值为1，否则为0；特别地，当权重全部等于1时， $\\boldsymbol { M _ { t } ^ { c } }$ 就等于D(t）时段内类型为 $\\mathrm { ~  ~ c ~ }$ 的消息总量，股评情绪指标 $S e n t _ { t }$ ，介于-1和1之间，表达了投资者们相对看涨的程度，该指标与帖子总数量无关。由图3及表6可以看出情绪以负向居多，负向情绪在2018年为集中，这与2018年单边下行趋势有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/83d5a65934d4ffeb6b4b59c8aca46529ce109bc1d33cf6b8befcec78c4c999b8.jpg",
+        "img_caption": [
+            "图3情绪分布散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四、实证分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（一） 平稳性检验",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先对投资者情绪 $( S e n t _ { t } )$ 、已实现波动率（ $\\cdot R V _ { t }$ ）以及换手率（ $. T u r n _ { t }$ ）这三项指标进行平稳性检验。实验结果表明，在 $1 \\%$ 的显著性水平下，投资者情绪（ $\\cdot S e n t _ { t }$ ）和已实现波动率 $( R V _ { t }$ ）序列为零阶单整，而换手率（ $T u r n _ { t }$ ）序列为一阶单整。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/b690f9b61eb647327a6de35dc2ae7359920d0ff1e62030c84d3df7c0552867be.jpg",
+        "table_caption": [
+            "表6变量平稳性检验结果汇总表"
+        ],
+        "table_footnote": [
+            "$( C , T , L )$ 分别表示 ADF 检验模型中的截距项、趋势项、滞后阶数；\\*\\*\\*表示在1%的置信水平下显著"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>检验形式(C,T,L)</td><td>t统计量</td><td>p值</td></tr><tr><td>Sentt</td><td>(1,0,1)</td><td>-10.89045</td><td>0.0000***</td></tr><tr><td>RVt</td><td>(1,0,2)</td><td>-6.132106</td><td>0.0000***</td></tr><tr><td>dTurnt</td><td>(1,0,4)</td><td>-14.31729</td><td>0.0000***</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（二） TVP-VAR模型的建立",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TVP-VAR模型假设系数和误差项的方差具有时变性，满足一阶随机游走过程。时变性使得模型能够更好地捕捉投资者情绪以及股市波动间可能存在的、非线性的、渐进性的联动变化或者是结构性的转变。然而，时变性也使得传统的似然函数法难以可靠地估计参数。Nakajima(2011)提出借助马尔可夫蒙特卡洛算法（MCMC）来克服传统估计法的缺陷。首先，根据经验设定时变参数的先验分布；其次，通过马尔可夫蒙特卡洛算法迭代抽取状态向量的随机样本。当满足相关条件时，马尔科夫链的状态转移矩阵将收敛到一个稳定的概率分布，选取收敛后、满足平稳分布的样本集即可有效地模拟时变参数的条件后验分布，进而实现参数的统计推断。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据六项评判指标准则（LogL、LR、FPE、AIC、SC、HQ）综合的结果，判断VAR 模型的最佳滞后阶数为3阶。借鉴 Nakajima(2011)和郑挺国等（2018）的研究，本文对投资者情绪 $( S e n t _ { t } )$ ）、已实现波动率（ $\\cdot R V _ { t }$ ）以及换手率一阶差分序列（ $d T u r n _ { t }$ ）建立如下时变参数向量自回归（TVP-VAR）模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { t } y _ { t } = F _ { 1 t } y _ { t - 1 } + F _ { 2 t } y _ { t - 2 } + F _ { 3 t } y _ { t - 3 } + u _ { t } , \\quad u _ { t } { \\sim } N ( \\mathbf { 0 } , \\sum _ { t } \\sum _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中， $y _ { t }$ 为 $3 \\times 1$ 维列向量（Sentt，RVt，dTurnt）， $F _ { 1 t }$ ， $F _ { 2 t }$ ， $F _ { 3 t }$ 为 $3 \\times 3$ 维时变系数矩阵，随机扰动项 $\\varepsilon _ { t }$ 为 $3 \\times 1$ 维列向量，能反映结构冲击， $\\textstyle \\sum _ { t }$ 为以随机扰动项标准差$( \\sigma _ { 1 t } , \\sigma _ { 2 t } , \\sigma _ { 3 t } )$ 为元素的对角矩阵。 $A _ { t }$ 为对角线元素为1的下三角矩阵，能反映通过递归识别得到的、由结构冲击带来的、不同变量间相互影响的同时关系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对方程（1）式进行变形，并增加截距项，可以得到方程的最终形式：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { t } = C _ { t } + B _ { 1 t } y _ { t - 1 } + B _ { 2 t } y _ { t - 2 } + B _ { 3 t } y _ { t - 3 } + e _ { t } , \\quad e _ { t } { \\sim } N ( \\mathbf { 0 } , A _ { t } ^ { - 1 } \\Sigma _ { t } \\sum _ { t } A _ { t } ^ { \\prime - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其中， $B _ { i t } = A _ { t } ^ { - 1 } F _ { i t }$ ? $\\langle i = 1 , 2 , 3 \\rangle$ ，将 $B _ { i t }$ 的元素按行堆叠形成 $2 7 \\times 1$ 维的列向量 $\\beta _ { t }$ ，将 $A _ { t }$ 非对角线上的下三角元素按行堆叠形成列向量 $\\begin{array} { r } { a _ { t ^ { \\circ } } \\ e _ { t } = A _ { t } ^ { - 1 } { \\sum } \\varepsilon _ { t } \\ ( \\ \\varepsilon _ { t } { \\sim } N ( 0 , I _ { 3 } ) ) , \\ h _ { t } = } \\end{array}$ $( h _ { 1 t } , h _ { 2 t } , h _ { 3 t } ) ^ { \\prime }$ ，并且满足 $h _ { j t } = l o g \\sigma _ { j t } ^ { 2 } \\quad ( j = 1 , 2 , 3 ) ,$ 0",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "假设方程（2）式中所有的参数满足一阶随机游走过程，并且误差项服从如下分布：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { t + 1 } = \\beta _ { t } + u _ { \\beta t } , \\qquad a _ { t + 1 } = a _ { t } + u _ { a t } , \\qquad h _ { t + 1 } = h _ { t } + u _ { h t }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\begin{array} { c } { \\varepsilon _ { t } } \\\\ { u _ { \\beta t } } \\\\ { u _ { a t } } \\\\ { u _ { h t } } \\end{array} ) \\sim N ( \\begin{array} { c } { 0 } \\\\ { 0 , } \\\\ { 0 } \\end{array} \\begin{array} { c c c c } { I } & { O } & { O } & { O } \\\\ { O } & { \\Sigma _ { \\beta } } & { O } & { O } \\\\ { O } & { O } & { \\Sigma _ { a } } & { O } \\\\ { O } & { O } & { O } & { \\Sigma _ { h } } \\end{array} ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\Sigma _ { \\beta } ) _ { i } ^ { - 2 } { \\sim } G a m m a ( 2 0 , 1 0 ^ { - 4 } ) , \\qquad ( \\Sigma _ { a } ) _ { i } ^ { - 2 } \\sim G a m m a ( 4 , 1 0 ^ { - 4 } ) , \\qquad ( \\Sigma _ { h } ) _ { i } ^ { - 2 } \\sim G a m m a ( 4 , 1 0 ^ { - 4 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考郑挺国（2018）的模型设定，假设初始状态如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\beta _ { 0 } { \\sim } N ( \\mu _ { \\beta _ { 0 } } , \\sum _ { \\beta _ { 0 } } ) , \\quad a _ { 0 } { \\sim } N ( \\mu _ { a _ { 0 } } , \\sum _ { a _ { 0 } } ) , } & { h _ { 0 } { \\sim } N ( \\mu _ { h _ { 0 } } , \\sum _ { h _ { 0 } } ) } \\\\ & { } & \\\\ & { \\mu _ { \\beta _ { 0 } } = \\mu _ { a _ { 0 } } = \\mu _ { h _ { 0 } } = 0 , \\qquad \\sum _ { \\beta _ { 0 } } = \\sum _ { a _ { 0 } } = \\sum _ { h _ { 0 } } = 1 0 \\times I } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（三） 格兰杰因果检验",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "对投资者情绪 $( S e n t _ { t } )$ 、已实现波动率 $( R V _ { t }$ ）以及换手率一阶差分序列（ $\\mathrm { . } d T u r n _ { t }$ ）进行格兰杰因果检验。滞后阶数与TVP-VAR模型一致（3阶)，实验结果如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5af2bd4d83a28d3be36e1ec154b2ab42a00397a426183013a8c2550820fea2f.jpg",
+        "table_caption": [
+            "表7格兰杰因果检验表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原假设</td><td>F统计量</td><td>p值</td></tr><tr><td>Sentt不是引起dTurnt变化的格兰杰原因</td><td>2.48165</td><td>0.0603</td></tr><tr><td>dTurnt不是引起Sentt变化的格兰杰原因</td><td>3. 14444</td><td>0.0250</td></tr><tr><td>RVt不是引起dTurnt变化的格兰杰原因</td><td>9.50156</td><td>4.E-06</td></tr><tr><td>dTurnt不是引起RVt变化的格兰杰原因</td><td>1. 16143</td><td>0.3240</td></tr><tr><td>RVt不是引起Sentt变化的格兰杰原因</td><td>0.87328</td><td>0. 4548</td></tr><tr><td>Sentt不是引起RVt变化的格兰杰原因</td><td>2.84445</td><td>0. 0373</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "检验结果表示，在 $1 0 \\%$ 的显著性水平下，拒绝“投资者情绪（Sentt）不是引起换手率 $( d T u r n _ { t }$ )变化的格兰杰原因\"的原假设；在 $5 \\%$ 的显著性水平下,拒绝\"换手率 $( d T u r n _ { t } )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "不是引起投资者情绪 $( S e n t _ { t } )$ ）变化的格兰杰原因”以及投资者情绪（ $\\cdot s e n t _ { t }$ ）不是引起已实现波动率 $( R V _ { t }$ ）变化的格兰杰原因”的原假设；在 $1 \\%$ 的显著性水平下，拒绝“已实现波动率（ $R V _ { t }$ ）不是引起换手率（ $\\mathrm { . } d T u r n _ { t }$ ）变化的格兰杰原因”的原假设。即投资者情绪的前期变化能有效地解释换手率和波动率的波动；换手率的前期变化能有效地解释投资者情绪的前期变化；已实现波动率的前期变化能有效地解释换手率的波动。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（四） 实验结果分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "设定马尔科夫蒙特卡洛算法迭代次数为11000次，舍弃前1000次的“预烧”抽样，利用后10000 次满足平稳分布的抽样进行估计。基于马尔科夫蒙特卡洛算法的TVP-VAR模型估计结果如下：",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5ed8c8456c6b69abc1189c1268b64ef2d948bda38bc2d29c363709000d0563b.jpg",
+        "table_caption": [
+            "表6基于MCMC算法的TVP-VAR模型估计结果表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>均值</td><td>标准差</td><td>95%置信区间</td><td>Geweke诊断值</td><td>无效影响因子</td></tr><tr><td>(£β)1</td><td>0.0023</td><td>0.0003</td><td>[0.0018,0.0029]</td><td>0.864</td><td>28.76</td></tr><tr><td>(Σβ)2</td><td>0.0023</td><td>0.0003</td><td>[0.0018,0.0029]</td><td>0.928</td><td>21.76</td></tr><tr><td>(Σa)1</td><td>0.0068</td><td>0.0021</td><td>[0.0038,0.0113]</td><td>0.900</td><td>99.99</td></tr><tr><td>(Σh)1</td><td>0.0064</td><td>0.0028</td><td>[0.0033,0.0135]</td><td>0.204</td><td>168.34</td></tr><tr><td>(Σn)2</td><td>0.7354</td><td>0.0841</td><td>[0.5844,0.9123]</td><td>0.374</td><td>45.01</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，所有估计的参数值都落在其 $9 5 \\%$ 置信区间内，所有参数的Geweke诊断值都未超过 $5 \\%$ 显著性水平的临界值，即所有参数估计的马尔科夫链都是满足收敛性的。综上可知，参数估计具备有效性特征。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1． 不同滞后期的脉冲响应分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考杨文祺等（2020）和任永平等（2020）的研究，本文分别选取1天、7天（一个星期）以及14天（两个星期）的滞后期为代表来研究单位冲击变量对被冲击变量在短期、中期和长期内形成的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（1）不同滞后期投资者情绪与股市流动性间的影响机制",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在整个研究时间段内，投资者情绪对股市流动性指标的脉冲响应恒为正值，并存在一定的时变效应。在2018年6月（ $_ { \\mathrm { t = 1 0 0 } }$ 附近）至2019年7月（ $\\scriptstyle 1 = 3 6 0$ 附近）期间，滞后1期的来自投资者情绪变动的冲击对股市流动性的影响缓慢增加。即当投资者面对股票市场的变化并经过一段时间确认进入熊市（ $\\scriptstyle \\mathrm { t = 2 0 }$ 附近）后，由于对后市走势以及持续时间的不确定性以及风险厌恶的偏好，可能会导致其频繁交易从而使得市场过度反应。这样的影响一直持续至投资者经过一段时间确认进入牛市（ $\\scriptstyle { \\mathrm { t } } = 2 4 6$ 附近)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外，滞后1期（短期）的影响显著强于滞后7期和14期（中长期）的影响。这也反映了股票市场的信息效率，与杨文祺（2020）的研究结果一致。反向地，虽然市场流动性指标对投资者情绪的影响相对较小，但是其时变效应更显著（受股市状态变化影响更强烈)。实验结果如图4所示。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/357bf163035190d103b2762246a535309528e60d572bd82ebd8cdac2ba74c1cf.jpg",
+        "img_caption": [
+            "图4不同滞后期投资者情绪与股市流动性间的脉冲响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2）不同滞后期投资者情绪与股市波动性间的影响机制",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验结果如图5所示，在研究时间段内，滞后1期的投资者情绪对股市波动率的脉冲响应恒为负值，且熊市时冲击更强烈，中长期的影响微弱。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/23420e3d11846e560cfd6fd6957b1a622ec2eb5cfd27d80788af7385b5c772f3.jpg",
+        "img_caption": [
+            "图5不同滞后期投资者情绪与股市波动性间的脉冲响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2. 不同时间点的脉冲响应分析",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文研究的时间段内覆盖了一段慢牛市的末期（2018年1月2日至2018年1月 29日）、一段熊市（2018年1月30日至2019年1月4日）和一段新牛市的前中期（2018年1月5日至2019年12月31日）。通过选取2018年1月15日（ $_ \\mathrm { t = 1 0 }$ ）、2018年7月2日（ $\\scriptstyle \\mathrm { t = 1 2 0 }$ ）以及2019年6月27日（ $\\scriptstyle { \\mathrm { t } } = 3 6 0$ ）三个时间点可以具有代表性地探究在牛市末期、熊市中以及牛市前中期单位冲击变量对被冲击变量影响的差异。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（1）不同时间点投资者情绪与股市流动性间的影响机制",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在三个时间点上，投资者情绪对股市流动性指标的冲击响应恒为正值，且短期影响强于长期影响，滞后3期的情绪对股市流动性的影响显著减弱。牛市时投资者情绪对股市流动性的冲击稍强。实验结果支持情绪对股票市场影响具有不对称性的认识。乐观情绪更容易推动股票价格向上偏离基本价值，进而容易导致频繁交易，股价泡沫产生。反向地，市场流动性指标对投资者情绪的冲击响应在滞后2期内为正值，随后下降为负值，影响缓慢减弱为0。可能的传导机制为：在投资者观察到市场交易频繁，股票换手率提高的初期，其情绪会容易随之高涨并也跟随交易，即羊群效应。个体的非理性决策容易演变成趋同的市场群体情绪和行动，从而造成频繁交易，资产价格的偏离以及市场的波动等现象。然而在投资者处理信息做出理性判断后，股市流动性变化的冲击即会减弱。此外，值得注意的是，熊市时市场流动性变化对投资者情绪的冲击显著强烈于牛市。实验结果如图6所示。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/173d716eaaf9aea89aeec1403eca77322b2d8e66a99d6f00ffac9f26b0dfc261.jpg",
+        "img_caption": [
+            "图6不同时间点投资者情绪与股市流动性间的脉冲响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2）不同时间点投资者情绪与股市波动性间的影响机制",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明投资者情绪在熊市时比在牛市时对股市波动性指标的影响更为强烈，且影响力大小在后5日内经历反复变化后逐渐衰弱。这可能与投资者接受并处理信息的能力以及信息传播的效率有关。",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/83ebbdd77885ca40129e6a25bd77fd3078287c46cc33a31bbd5b1d8d2d052a14.jpg",
+        "img_caption": [
+            "图7不同时间点投资者情绪与股市波动性间的脉冲响应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "五、 结论与建议",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文就投资者情绪对股市的影响做出研究，提出使用深度学习的方法研究大量的市场情绪，基于东方财富网和深证成指的数据，使用 BERT 模型构建投资者情绪，同时引入市场流动性、市场波动性指标。实验结果显示相关性较高，说明投资者情绪确实对股票市场有较大影响。剩余的结果偏离可能是由于实证分析中数据爬取不完善、股吧数据噪声较大、分析模型有微小偏差引起的。但在大的方面符合假设，实验结果也说明了该模型具有较强的稳健性。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文的研究结论包括：1）BERT 模型能有效地挖掘出股吧中的投资者情绪。2）TVP-VAR模型能够有效搭建投资者情绪、流动性和波动性三者之间的关系。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "基于本次研究的政策建议有：1）中国股票市场投资者情绪对股市影响较大，尤其是个人投资者情绪容易受到股吧等社交平台情绪的影响，这对进一步完善国家市场经济制度做出要求。随着股票市场的完善，机构投资者的增多，股价对投资者情绪的敏感度会降低，市场风险也将降低。2）把发展机构投资者作为我国证券市场重要发展战略的同时,如何提高机构投资者的素质、增强其投资行为的理性化程度也是一个同等重要的问题。这一问题解决得好，才能提高个体投资者素质，进而提高市场效率。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文存在着一些未完善之处有待学者进一步研究。例如：未来的工作可以尝试研究国家政策、市场、突发事件等不确定性因素影响，也可以在模型中加入更多解释变量减少噪声，尝试使用长周期样本以及更小的样本来进一步试验完善模型和参数，提高模型的性能。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[1」 Leveraging Financial News Ior Stock Irena Preaiction witn Attention-basea KecurrentNeural Network; Huicheng Liu  \n[2] A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction;Yao Qin et al  \n[3] Learning to Predict U.S. Policy Change Using New York Times Corpus with Pre-TrainedLanguage Model; Guoshuai Zhang  \n[4] A Neural Relation Extraction Model for Distant Supervision in Counter-TerrorismScenario; Jiaqi Hou  \n[5] 廖士光,杨朝军.中国股票市场流动性价值研究——双重上市 A、B 股经验证据[J].南方经济,2008(12) :64-78.  \n[6] 曾志坚，罗长青．股票与债券市场流动性联动的实证研究［J].财经理论与实践,2008(04) :45-49.  \n[7] 王茵田，文志瑛．股票市场和债券市场的流动性溢出效应研究［J].金融研究,2010(03) :155-166.  \n[8] 韩金晓,吴卫星.流动性与资产定价—一基于一个新的价差类流动性度量指标的实证研究［J].上海金融,2017(12):51-57.D0I:10.13910/j.cnki.shjr.2017.12.008.  \n[9] Engle,R..Autoregressive Conditional Heteroskedasticity with estimates of thevariance of United Kingdom inflation[J].Econometrica， 1982,(50) :987-1007.  \n[10]Bollerslev T.Generalied autoregressive conditional heteroskedasticity [J]. Journalof Econometrics,1986,(31) :307-327.  \n[11] 戴雯.ST 类股票收益率波动性的实证分析—一基于 ARMA-GARCH 模型族［J].当代会计,2018(10) :9-10.  \n[12] 黄海南，钟伟.GARCH类模型波动率预测评价［J]．中国管理科学,2007(06) :13-19. D0I:10.16381/j.cnki. issn1003-207x.2007.06.020.  \n[13]Chen W， Chiu J,Chung H. Investor Trading Behavior，Market Liquidity，and the Roleof Investor Sentiment[C]. 2009 FMA Annual Meeting. 2009.  \n[14] 李春红，彭光裕.投资者情绪、股票市场流动性和经济增长［J].技术经济,2011,30(05) : $1 0 5 \\substack { - 1 0 8 + 1 2 3 }$   \n[15] 王丹枫,梁丹.从投资情绪角度看股票市场流动性——来自B股向境内居民开放的研究［J].数理统计与管理,2012,31(02) :363-373.D0I:10.13860/j.cnki.s1tj.2012.02.023.  \n[16] 刘晓星,张旭,顾笑贤，姚登宝.投资者行为如何影响股票市场流动性?—一基于投资者情绪、信息认知和卖空约束的分析[J].管理科学学报,2016,19(10):87-100.  \n[17] 杨晓兰,沈翰彬,祝宇.本地偏好、投资者情绪与股票收益率:来自网络论坛的经验证据［J].金融研究,2016(12):143-158.  \n[18] 石广平,刘晓星,魏岳嵩.投资者情绪、市场流动性与股市泡沫——基于 TVP-SV-SVAR 模型的分析［J].金融经济学研究,2016,31(03):107-117.  \n[19] 张宗新,王海亮.投资者情绪、主观信念调整与市场波动[J].金融研究,2013,(04):142-155.  \n[20] 胡昌生,池阳春.投资者情绪、资产估值与股票市场波动[J].金融研究,2013,(10):181-193.  \n[21] 陆剑清，陈明珠.投资者情绪对股市波动影响的内在机制探析［J].山东社会科学,2015(S2) :122-123.D0I:10.14112/j.cnki.37-1053/c.2015.s2.047.  \n[22] 巴曙松，朱虹．融资融券、投资者情绪与市场波动［J].国际金融研究,2016(08) :82-96.D0I:10.16475/j.cnki.1006-1029.2016.08.008.  \n[23]童元松.投资者情绪、股市流动性与波动性的关系研究［J].技术经济与管理研究,2021(02) :76-82.  \n[24] 何基报,鲁直.什么影响着投资者选择卖出或继续持有?[J].管理科学学报,2006(06):53-63.  \n[25] Pang B, Lee L. A sentimental education: Sentiment analysis using subjectivitysummarization based on minimum cuts. In: Scott D, ed. Proc. of the ACL 2004.Morristown: ACL， 2004. 271-278.  \n[26] 王靖一，黄益平.金融科技媒体情绪的刻画与对网贷市场的影响［J].经济学（季刊),2018,17(04) :1623-1650.D0I:10.13821/j.cnki.ceq.2018.03.15.  \n[27] . Al-Nasseri A,Ali F M.What Does Investors’ Online Divergence of Opinion Tell UsAbout Stock Returns and Trading Volume?[J]. Journal of Business Research,2018,86(1).  \n[28] . Pawar K, Jalem R S,Tiwari V.Stock Market Price Prediction Using LSTM RNN[M]EmergingTrends in Expert Applications and Security.Singapore:Springer,2019:493-503.  \n[29] DEVLIN J， CHANG M W， LEE K， et al. Bert: pre-training of deep bidirectionaltransformers for language understanding[C]//Proceedings of the 2019 Conference ofthe North American Chapter of the Association for ComputationalLinguistics:HumanLanguage Technologies. Stroudsburg， PA: Association for Computational Linguistics,2019: 4171-4186.  \n[30] Antweiler， W.， Frank， M.Z.Is All That Talk Just Noise? The Information Contentof Internet Stock Message Boards[J].The Journal of Finance， 2004， 59（3):1259-1294  \n[31] Nakajima, J. Time-varying parameter VAR model with stochastic volatility: Anoverview of methodology and empirical applications[J]. Monetary and Economic Studies,2011(29): 107-142.  \n[32] 郑挺国，刘堂勇.股市波动溢出效应及其影响因素分析［J].经济学（季刊），2018,17(02) :669-692.  \n[33] 杨文祺,李珂涵.投资者情绪和市场流动性如何影响股票市场稳定性?——基于股价崩盘视角的科创板市场TVP-VAR 模型时变研究［J].制度经济学研究,2020(04):73-93.  \n[34] 任永平,李伟.经济政策不确定性、投资者情绪与股价同步性——基于 TVP-VAR 模型的时变参数［J].上海大学学报（自然科学版),2020,26(05):769-781.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

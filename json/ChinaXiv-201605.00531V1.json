@@ -1,0 +1,673 @@
+[
+    {
+        "type": "text",
+        "text": "Bioethanol potential from miscanthus with low ILUC risk in the province of Lublin, Poland ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SARAHJ. GERSSEN-GONDELACH1,BIRKA WICKE¹,MAGDALENA BORZECKA  \nWALKER²,RAFAL PUDELKO² and ANDREP.C.FAAIJ³   \n1CopernicusInstituteofustainableDeelopment,Utrechtnersity,Heidelberglaan23584CStrecht,TheNetrlads,   \n2Departmentof Agrometeorologyand Applied Informatics,Institute of Soil Science and Plnt Cultioation State Research   \nInstitute,8Czartorysichtr.4-OutayolandEnergydustainabilityesearchsituteniesityofoge   \nBlauwborgje6，9747AC Groningen,TheNetherlands ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Increasing production of biofuels has led to concerns about indirect land-use change (ILUC).So far,significant efforts have been made to assess potential ILUC effects.But limited atention has been paid to strategies for reducing the extent of ILUC and controling the type of LUC.This case study assesses five key ILUC mitigation measures to quantifythe low-ILUC-risk production potential of miscanthus-based bioethanol inLublin province (Poland) in2020.In 2020,a total area of196 to 818 thousand hectareof agriculturallandcould be made available for biomass production by realizing above-baseline yield developments (95-413 thousand ha),increased food chainefficiencies(9-30 thousand ha)and biofuel feedstock production onunderutilized lands(92-375 thousand ha).However,a maximum 203-269 thousand hectare is considered legallavailable (not protected) and biophysically suitable for miscanthus production. The resulting low-ILUC-risk bioethanol production potential ranges from 12 to 35 PJ per year.The potential from this region alone is higher than the nationalPolish target for second-generation bioethanol consumption of 9 PJ in 2020. Although the sustainable implementation potential may be lower,the province of Lublin could play a key role in achieving this target.This study shows that the mitigation or prevention of ILUC from bioenergy is only possble when an integrated perspective is adopted on the agricultural and bioenergy sectors. Governance and policies on planning and implementing ILUC mitigation are considered vital for realizing a significant bioenergy potential with low ILUC risk. One important aspect in this regard is monitoring the risk of ILUC and the implementation of ILUC mitigation measures. Key parameters for monitoring are land use,land cover and crop yields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: case study, ILUC mitigation and prevention, land-use change, miscanthus $\\times$ giganteus， policies and governance technical biofuel potential ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 29May 2015;accepted 3 August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From 2002 to 2012，the production of biofuels has expanded significantly in the EU (Observ'ER，2015). This growth is largely policy driven,based on the idea that biofuels can play an important role in reducing GHG emissions and mitigating climate change (Euro pean Parliament and Council of the European Union, 2003).However，in recent years,this assumption has been widely debated. One of the main topics of concern is land-use change (LUC),and especially indirect landuse change (ILUC). Here, ILUC is defined as a change in land use that takes place if biofuel feedstock production displaces agricultural production of food, feed and fibers and this displacement results in 1) food, feed and fibers being produced elsewhere to continue to meet the demand,or 2) more land being taken into agricultural production because of increased food prices (Searchingeret al.，2008;Plevin et al.，2010;Wicke et al.，2012). When ILUC entails the conversion of high carbon stock lands,for example,forests or grasslands,this can lead to increased GHG emissions which reduces or even cancels out the GHG benefits of biofuels compared with fossil fuels (Searchinger et al.,2Oo8). Since the first publication on the negative effects of ILUC by Searchinger et al.(2oo8),multiple studies have attempted to model and quantify the extent of (I)LUC and the level of related GHG emissions caused by biofuel production (e.g.,Al-Riffai et al.,2010;EPA,2010;Hertel et al.,2010; Tyner et al.,2010;Laborde,2011).However,the modeling of LUC and (I)LUC-related GHG emissions is characterized by major limitations and challenges (Warner et al.,2014). Results vary significantly between studies, and outcomes are expected to remain uncertain (Plevin et al.,2010,2015;Wicke et al.,2012). Therefore,investigating how ILUC can be mitigated or prevented may be more important than assessing the scale ofILUC under current assumptions (Wicke et al.,2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ILUC of biofuels can only be prevented when the direct LUC (DLUC) ofthe displaced activityis addressed as well. Therefore,it is necessary to take an integrated perspective on all land use,whether for food, feed，fiber and fuels.Previous research has identified the following key measures to reduce the extent of ILUC and control the type of land-use change: abovebaseline yield development，improved integration of food and biofuel chains,increased chain efficiencies, biofuel feedstock production on underutilized lands and land zoning (van de Staaij et al., 2012; Wicke et al., 2012;Witcover et al.,2013; Brinkman et al.,2014).Very few studies,however,have investigated the potential of producing biofuels with low ILUC risk (van de Staaij et al.,2012).For the assessment of low-ILUC-risk biofuel potentials，regional analyses are of great importance because of several reasons.First,a regional analysis considers the specific characteristics of a region,for example，biophysical conditions，agricultural practices and the socio-economic context. Such factors are needed to define a feasible and suitable biofuel target for the region and develop appropriate policy strategies for realizing this target and mitigating ILUC.Second，a regional analysis is important to assess the availability and quality of data and to translate this into parameters for monitoring the implementation of ILUC mitigation measures and ILUC risks.Monitoring is required for correct certification of low-ILUC-risk biofuels. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this case study was (1） to assess how much additional biofuel can be produced in 2020 by implementing ILUC mitigation measures (i.e., the lowILUC-risk biofuel production potential),and (2) to identifyparameters required formonitoring the risk of ILUC and the implementation of ILUC mitigation measures. The case study focuses on bioethanol production from miscanthus,in the Polish province of Lublin (Lubelskie voivodship).Lublin is located in the southeastof Poland. Diverse studies have shown that this province hasa significant technical and economic potential for biomass production (Fischer et al.,201O;de Wit & Faaij, 2010;Szymanska & Chodkowska-Miszczuk,2011;Faber etal.,2012;Pudelko et al.,2012). In addition, the development level of agricultural systems and the agricultural yields in Eastern Poland are lower compared with Western regions (Eurostat, 2013; CSO, 2014a). This suggests that agricultural productivity can improve significantly and thereby make land available for bioenergy feedstock production without ILUC. The choice to conduct the case study at province level is based on the good availability of data and regional differences in agricultural characteristics in Poland.Miscanthus is chosen because it has the potential to contribute to the development of the rural economy by the diversification offarms,which often enhances their economic resilience and profitability (Agricultural Sustainability Institute). In addition, crop diversity helps to maintain or improve the agroecosystem (Dauber et al.,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methodsandmaterials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The case study presented here is based on a report by Gerssen Gondelach et al. (2014). The general method to quantify ILUC mitigation measures was developed by Brinkman et al. (2015). This section describes the main aspects of the method and pro vides case-specific details.For more details,the reader is referred to Gerssen-Gondelach et al. (2014) and Brinkman et al. (2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assessment of low-ILuC-risk biofuel potential ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The assessment of the low-ILUC-risk biofuel production potential is based on a combination of a top-down and bottom-up approach and distinguishes three main components,see Fig. 1. Below,these components are shortly described. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Step 1:Top-down assessment of agricultural production in thebaseline and target scenario in 2O2O.From an economic model used to analyze ILUC factors (top-down approach)，a biomass production baseline (without additional biofuels) and target (with a biofuel mandate) for the case study region in 2020 are established.The current study uses the outputs from the computable general equilibrium model MIRAGE-BioF (Modeling International Relationships in Applied General Equilibrium for Biofuel,hereafter referred to as MIRAGE)as generated for a study for DG Trade of the European Commission (Laborde,2011).The baseline indicates the production of biomass for food,feed and fiber applications in the absence of the biofuels mandate (i.e.,assuming current biofuel production to remain approximately constant).The target refers to the total biomass production when a biofuels mandate is implemented; it includes food,feed and fiber demand as well as the extra feedstocks for biofuels needed to meet the biofuels mandate. The difference between the target and baseline is the extra agricultural production inducedby themandate (whether directly caused by increased demand for meeting the mandate or induced by increased crop prices).In MIRAGE, this amount is projected to cause LUC (both direct and indirect). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The MIRAGE study (Laborde,2011） includes two biofuel mandate scenarios which differ in their assumptions regarding future trade policy (business as usual or BAU vs.free trade).In the present study, the BAU scenario is applied,which means that all existing import tariffs on biofuels remain unchanged in 2020.The mandate includes first-generation biofuels:biodiesel from oil palm,rapeseed,soybean and sunflower and bioethanol from maize,wheat,sugar cane and sugar beet (Laborde, 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/28f103bd4ef97ed460c94ff5f96f5492538fa7620f6aead9606401708b3c347a.jpg",
+        "img_caption": [
+            "Fig.1GeneralaroachtoanalyzeandquantifybiomassproductionpotentialwithlowILUCisks(Brnkmanetal.,015).Tere steps (1-3) of the analysis are described in the main text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study considers both crop and cattle (beef and milk) production. The MIRAGE model outputs for crop production volumes in the baseline and target scenario are onlyavailable on the EU27 level.Therefore, the outputs are disaggregated to the case study region,based on the current share of crop production in Lublin compared to the EU27 (see Brinkman et al., 2015).The production of beef and milk in 2020 cannot be derived from the MIRAGE model. Therefore, the production in 2020 is estimated by assuming that the production trend will be in line with the recent trend in the European Union (1991- 2012).It is assumed that the production is unaffected by a biofuel mandate and thus equal in the baseline and target scenario.In both the baseline and target scenario for 2020,the production volumes for crops and beef are projected to be lower than in 2010, see Data S2.The production volume of milk is projected to remain constant compared to 2010. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step2:Bottom-upassessmentoflow-ILUC-riskmiscanthusbased ethanol production potential.It was shown that in MIRAGE,no mandate for miscanthus-based bioethanol is included.Therefore, the production of miscanthus-based ethanol further increases the biomass production volume above the level of the target scenario.Only when the total biomass production potential with low ILUC risk is higher than the production induced by the target scenario,production of lowILUC-risk miscanthus-based ethanol is possible.To determine the potential to produce ethanol from miscanthus with low ILUC risk,it is assessed how much agricultural land can be made available for miscanthus cultivation by implementing ILUC mitigation measures.First,a baseline yield scenario is defined to determine the initial total agricultural land area required in 2020 for the projected biomass production volume in the target scenario.Then,it is assessed to what extent the different ILUC mitigation measures can contribute to reducing thisland requirement and making the surplus land (i.e.,land no longer needed for the targeted biomass production） available for bioenergy (section Assessment of ILUC mitigation measures).To this aim, this study takes an integrated view on all land uses and looks for synergies between agriculture, forestry and bioenergy.The following ILUC mitigation measures areassessed (bottom-up approach):above-baselineyield development,improved chain integration,increased food chain efficiency,biofuel feedstock production on underutilized lands and land zoning.The latter measure,land zoning,is distinct from the first four measures.It does not reduce land requirements for agricultural production,but establishes constraints onfuture production areas to avoid the conversion of protected and biophysically unsuitable areas to miscanthus cultivation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Finally, the total surplus land resulting from integrating all ILUC mitigation measures and the potential bioethanol production on this land are calculated.This potentialis the technical potential,which takes into account the demand for land for food and feed production,legal requirements regarding environmental conservation and minimal biophysical requirements for miscanthus cultivation.In the present paper, this potential is called the low-ILUC-risk potential. Although the implementation of ILUC mitigation measures reduces the risk of ILUC,it not necessarily decreases the risk to zero.The ILUC risk will only be zero if it is guaranteed that biofuel feedstocks are only produced on land that is made available by one of the ILUC mitigation measures.This requires legislation and enforcement of regulations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the general approach, the baseline yield scenario for crops is derived from MIRAGE (Brinkman et al.,2015).However,in this case study,the MIRAGE projections are not in line with recent yield trends in Lublin.As it is found that crop yields often followa linear trendover time (Rayetal.,2012;GerssenGondelach et al.,2015),the baseline scenario in this case study is based on linear extrapolation of historical yield trends (1999- 2012)in Lublin.For cattle,the selected parameters for yield are the beef and milk productivity (beef or milk production per animal per year) and the cattle density on meadows and pastures.The productivity and density values in 2O2O are defined similar to crop yields.Currently,the total agricultural area needed for the production of the selected crops and for cattle in Lublin covers 1224 thousand ha $( 8 7 \\%$ of the utilized agricultural land area). Because of the increasing yields and the pro jected reduction in the total agricultural production volume in the target scenario compared to the level in 2010, the total land use reduces to 944 thousand ha in 2020 (see Data S2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step3:Comparisonoflow-ILUC-risk bioethanol potential to biofuel production target.The low-ILUC-risk biofuel production potential is compared to the biofuel production target.In the general method,this target is derived from MIRAGE's biofuel mandate scenario.As MIRAGE includes no target for miscanthus-based bioethanol, the production potential can only be compared to MIRAGE's production target for first-generation bioethanol. The bioethanol production target from MIRAGE for the EU27 is disaggregated to the Polish national level based on the share of bioethanol production in Poland compared to the EU27 (Table 1).The target is not disaggregated to the level of Lublin province because no information is available about current biofuel production levels at the provincial level. In addition to the bioethanol production target from MIRAGE，the low-ILUC-risk biofuel potential is compared to the targets for biofuel consumption in 202O as set in the Polish National Renewable Energy Action Plan (NREAP） for meeting the requirements of Directive 2009/28/EC (Table1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Assessment of ILuC mitigation measures ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The contribution of the ILUC mitigation measures to the miscanthus-based ethanol production potential is investigated for three scenarios;low,medium and high.Each scenario includes all ILUC mitigation measures,and for each measure,assumptions are made about how this measure contributes to the generation of surplus land compared to the target scenario from step 2.For example,the scenarios assume more rapid developments in agricultural productivity and food chain eficiency compared to the baseline projections in the target scenario. The rates of development increase from the low to the high scenario to indicate thevariabilityanduncertainty in the dataand to test the effect on the low-ILUC-risk potential. The next subsections explain the assumptions per measure for the different scenarios.Where the methods to assess the ILUC mitigation measures deviate from the general approach (Brinkman et al.,2015),this is also explained in these sections.Finally,it is described how the total low-ILUC-risk biofuel potential in each scenario is calculated by integrating the results of all individual measures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Above-baselineyielddevelopment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Increases in crop yield,beef and milk productivity and cattle density above the baseline projection result in a reduction in agricultural land required for crop and livestock production (assuming the production volume remains constant).On the resulting surplus land area,biomass can be produced with low ILUC risk (see Brinkman etal.(2015) fora detailed description of the calculation).The baseline yield scenario was defined based on the finding that crop yields often follow a linear trend over longer terms (Ray et al.,2012;Gerssen-Gondelach et al., 2015)．Over shorter time periods,however，higher yield increases are possible,especially when the yield gap is still large (Gerssen-Gondelach et al.,2015). The average yields and management levels in Lublin are lower compared with regions in Western Poland and Germany (see Table S2in Data S1). Therefore,measures such as scaling up of farms,mechanization and improved use of chemicals,as already applied in these other regions,can enable higher annual yield growth rates compared to the baseline.Also,when crop yields increase and less land is needed for production,the use of lower quality land for production is likely to decrease which has a positive effect on the average yield levels.The crop yields in Western Poland and Germany give an indication of what yields can be attained in Lublin,but also maximum attainable crop yields based on,for example,climate and land suitability are taken into account. Similarly,for cattle production,cattle density and productivity levels in Poland and Germany (CSO,2014a; FAO, 2014）are assumed to be appropriate indicators of what improvements are attainable in Lublin.Data on historical and current crop-specific yields,cattle density and beef and milk productivity are collected or derived from the Central Statistical Office in Poland (CSO) (CSO,2014a) and the FAO (FAO, 2014). The agro-ecological potential crop yield is derived from the Global Agro-Ecological Zones database (FAO and IIASA, 2014).As an example, Table 2 compares the current average wheat yield to the yield level in the baseline and the low,medium and high scenarios. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Improved chain integration ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The production of second-generation bioethanol generates various by-products such as lignin，proteins and carbon dioxide released during fermentation. These by-products can be used to produce a variety of value-added co-products (see,e.g.,Patton,n.d.).Depending on the potential uses of these co-products and following the principles of consequential LCA (see Ekvall &Weidema，2004;Finnveden et al.，2009;Reinhard & Zah, ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab96e73e10114745b5bb5e01c97840789ad8e8ff39720a2af5da622ec6b20df3.jpg",
+        "table_caption": [
+            "Table 1 Current and targeted production of first- and second-generation bioethanol in Poland "
+        ],
+        "table_footnote": [
+            "\\*Current: average 2009-2011 (Observ'ER,2011,2012,2013). †Derived from MIRAGE output for EU27. fTargets as set in 2010 in the National Renewable Energy Action Plan (Ministry of Economy,2010). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Current production*</td><td>2020 projected baseline production without mandatet</td><td>2020 production target with mandatet</td><td>2020 consumption target Poland‡</td></tr><tr><td colspan=\"5\">First-generation bioethanol</td></tr><tr><td>Million liter</td><td>177.5</td><td>174.9</td><td>567</td><td>760</td></tr><tr><td>PJ</td><td>4.2</td><td>4.1</td><td>13.3</td><td>17.8</td></tr><tr><td colspan=\"5\">Second-generation bioethanol</td></tr><tr><td>Million liter</td><td>1</td><td>n/a</td><td>n/a</td><td>376</td></tr><tr><td>PJ</td><td>1</td><td>n/a</td><td>n/a</td><td>8.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c11efc77a3866ac1e05c71edd7203157c035085f8ce36fd9def618af16579626.jpg",
+        "table_caption": [
+            "Table 2 Current and projected average wheat yields and losses in transport and storage.Projections are given for the baseline and the low,mediumandhigh scenarios "
+        ],
+        "table_footnote": [
+            "\\*Current wheat yield:average 2008-2012; current wheat losses: average 2008-2011. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Average wheat yield Lublin (t ha-1 yr-1)</td><td>Wheat losses</td></tr><tr><td>Current*</td><td>3.7</td><td>5.0</td></tr><tr><td>Baseline scenario 2020</td><td>4.1</td><td>5.0</td></tr><tr><td>Low scenario 2020</td><td>4.5</td><td>3.8</td></tr><tr><td>Medium scenario 2020</td><td>5.7</td><td>2.5</td></tr><tr><td>High scenario 2020</td><td>7.5</td><td>0.8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2011;Brinkman et al.,2015),these co-products could be argued to reduce land demand and thereby help to mitigate ILUC.For example,when co-products can substitute livestock feed from crops,a certain amount of land can be freed up from crop cultivation.In this case study，no co-products are included that have the potential to generate surplus land in 2O20 (see the biofuel chain design in Data S3). Therefore,this measure is not further investigated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Increased food chain efficiency ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This ILUC mitigation measure addresses the reduction in food losses in transport,storage,(un)loading,etc.,such that a higher share of the produced goods reaches the consumer. Therefore, the less land is needed to deliver the same amount of goods [see Brinkman et al. (2015) for a detailed description of the calculation]. In Poland, $2 7 \\%$ of all food losses and food waste take place in the stages between farms and consumers (Rutten et al., 2013).These losses are equal to $1 5 \\%$ of the total national food production； for comparison, the average percentage in the EU27 is $7 \\%$ (Rutten et al.,2013). To analyze the land-saving potential of food chain efficiency improvements,regional figures are not available.Therefore,national figures on food losses occurring during storage and transportation from FAO food balances are used (FAO,2014). These figures give estimated volumes of food losses for each separate agricultural product. In Table 2,the example of projected food losses is given for wheat in the baseline and the low,medium and high scenarios. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Biofuel feedstock production onunderutilized lands ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Underutilized land includes set-aside land,abandoned land, marginal lands or degraded land,which often has lower productivity than conventional agricultural land. The share of this land type that does not provide other services (e.g.,agriculture biodiversity,high carbon stocks or other ecosystem services) can be used for the production of biomass with low risk of ILUC.The total area of underutilized land in 202O depends on the current area of underutilized land and an increase in this area due to reduced agricultural land use from 2010O to 2020 as projected in the biofuel target scenario based on MIRAGE (see step 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Regarding the amount of underutilized land currently available in the case study area, the use of spatially explicit data about the location and extent of these types of land,its current usesand functions,and its suitability for the biofuel feedstock investigated in the case study is ideal.For Lublin province, however,spatially explicit data about the location of underutilized lands is not available.Therefore,the current area of underutilized agricultural land is estimated based on statistical dataabout set-aside,fallowand marginalland from the Central Statistical Office of Poland (CSO,2013,2014a,b),Eurostat (Eurostat,2012)and FAO (FAO,2003).In addition,it is estimated what part of the agricultural land notunderagricultural activity can be considered as abandoned land potentially available formiscanthus.This is based on statistics and own estimates (for more details,see Data S4).Additional abandoned land available in 2O2O is estimated based on the area of agricultural land no longer required because of the projected reduction in agricultural production and increase in yields (see step 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Often,the bioenergy crop yield on underutilized lands is expected to be lower than average.However,not in all cases yields on underutilized land are actually lower than on agriculturalland as it depends on the soil and climate conditions.As the location and biophysical characteristics of underutilized lands are unknown, the suitability and the attainable miscanthus yield on these lands cannot be assessed.Therefore，the impact of the yield level on the miscanthus production potentialis assessed in a sensitivity analysis (see methods section Integrated analysis of overall low-ILUC-risk biofuel potential). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Land zoning ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While the previously described measures attempt to mitigate ILUC,land zoning aims at reducing the impacts of LUC, here especially the associated biodiversity losses and GHG emissions.This study includes land zoning to prevent the conversion of protected areas,including (primary and secondary) forest and high conservation value areas,for the production of biomass.In addition,in this case study, this measure also considers the land suitability for miscanthus production. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The land not excluded by land zoning for protection purposesisreferredtoaslegallyauailableland.Suitablelandrefers to land that is biophysically suitable for miscanthus production,considering minimal climate and soil requirements.The calculation of the legally available and suitable agricultural land area for miscanthus cultivation is based on the method applied by Pudelko et al.(2012) to assess the technical potential of perennial energy crops in Poland. Spatial analyses for Lublin province are performed in the geographic information system (GIS),using the following data sets:agricultural soil suitability (IUNG,1974),Corine land cover (Nunes de Lima,2005),digital elevation model,hydrogeological map (Institute of Geology, 1957)，annual rainfall based on the Agroclimate Model of Poland (Górski & Zaliwski,2002）and protected areas (European Commission,1992;Ministry of the Environment, 2003). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First,to determine the legally available land,the following criterion is applied: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "·Soils located on protected areas of land are removed.Protected areas include all forests,national parks,landscape parks,nature reserves,strict protection areas,Natura 2000 sites and their buffer zone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Second,to assess what share of the total agricultural area is biophysically suitable for miscanthus cultivation, the following criteria are applied: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "·Miscanthus roots can extract water to a depth of approximately $2 \\textrm { m }$ (Caslin et al.,2011).Therefore, the ground water level is set at a depth up to $2 \\mathrm { ~ m ~ }$ for all soils.The areas with alower ground water table are excluded;   \n·The minimal average annual precipitation is $5 5 0 ~ \\mathrm { m m ~ y r ^ { - 1 } }$ for all soils [see,e.g.,Kus and Faber,2009 in Sliz-Szkliniarz (2013)].Areas where the precipitation did not exceed this minimum are removed;   \n·Boggy and wet areas are excluded because the accessibility of machinery to waterlogged sites is limited and can cause soil damage.Also, the release of carbon dioxide due to land conversion will negatively affect the GHG emission balance of the biofuel;   \n·Areas over $3 5 0 \\mathrm { ~ m ~ }$ above sea level are excluded because production and transportation conditions are hampered in these regions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Land not complying with these suitability criteria is only very marginally suitable for miscanthus production.On these lands,miscanthus yields would be significantly lower than on suitable lands (see Data S3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Finally,the criteria for legally available land and suitable land are combined,resulting in the total agricultural area legally available and suitable.Although considered suitable,the soil quality and degree of suitability of the areas included varies.Therefore,in the results,it is shown how land is distributedamongsuitabilityclasses.Thisdistributionis determined using the Polish classification system that distinguishes twelve soil suitability classes or complexes (Terelak & Witek,1995).Nine of these classes apply to arable land and can be categorized into very good and good quality soils,lower quality soils and very weak soils. Three classes apply to grasslands (meadows and pastures) of various qualities. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pudetko et al.,(2012) excluded good and very good quality soils from their analysis,based on the guideline that bioenergy crops should not be cultivated on these lands.However, ILUC mitigation measures may free some areas that have good or very good quality soils while this would not result in displacement of crop production.Therefore, the present study includes all soil classes. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The land zoning criteria applied in this study do not include specific conditions on maximum carbon stocks to allow landuse conversion. However, the analysis excludes all areas that are prohibited by the Renewable Energy Directive (EU） to be used for biomass production because of high carbon stocks (i.e.,wetlands,forested areas and peat land). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the criteria described above,all protected areas currently under agricultural use (e.g., parts of the Natura 2ooo network) are excluded from bioenergy production to ensure the conservation of biodiversity (European Parliament and Council of the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "European Union,20o9).However,some of the protected areas mayactually be designated as legally available for miscanthus cultivation because miscanthus can have a positive impact on the biodiversity of agricultural land. The biodiversity in miscanthus fields is found to be higher compared with annual crops (Smeets et al.,2009;Dauber et al.,2010). This is potentiallyalso true for grasslands,but the number of studies is limited yet and more research is needed (Dauber et al.，2010; Donnelly et al.,2011).In the medium and high scenarios,it is assumed that a part of the suitable agricultural areas with high conservationvalue can bemadelegallyavailable for miscanthus cultivation.Areas with high carbon stocks are excluded in all scenarios. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Integrated analysisofoverall low-ILuC-riskbiofuel potential ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 3 provides a summary of the scenario assumptions per ILUC mitigation measure.Having evaluated the individual measures,the total potential biomass production without ILUC isanalyzed.This is an integrated assessment that accounts for theinteractionsand feedback betweendifferentmeasures.An example of this is a reduction in food losses that decreases the food production volume required for supplying the same amount of food,which influences the effect of above-baseline yield developments.The order in which the measures are considered in the integrated analysis influences the outcome of the assessment.In this study,the integration calculations are performed as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "i The agricultural land area required for food,feed,fuel and fiber production in 202O as derived from the MIRAGE target scenario is taken as the initial land base.   \nii The measure increased food chain efficiency is implemented: the biomass production volume required after a reduction in food losses is calculated. The surplus area generated by this measure is calculated using the baseline yield development scenario.   \nii The measure above-baseline yield increases is applied: based on the required food production as determined in step ii, the additional surplus area generated through above-baseline yield developments is calculated.   \niv The measure use of underutilized land is taken into account: the area of underutilized land is added to the total surplus land area from steps ii and ii.   \nv The measure land zoning is implemented: The total surplus land area from steps ii to iv is compared to the total land areasuitable and legallyavailable formiscanthusproduction.In the case that the surplus land area is larger than the area suitable and legally available,the use of surplus land for biomass production is limited by land zoning restrictions.The total surplus land area resulting from applyingall five measures is presented for a low,medium andhigh integrated scenarios in which the low,medium and high scenarios of each measure are combined,respectively.In addition,a distinction in the results is made between the surplus area of cropland and of meadow and pastureland. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/330a2507e20b235125c2fa2ba476a871fe1409c1d26b0fe887276acd2a4566ad.jpg",
+        "table_caption": [
+            "rrrrr prr eaerrnrnrlrrilnvais rrnnerrtrs gi rrt 3 aqe "
+        ],
+        "table_footnote": [
+            "ernlrrstlresesnrllitelrtlesillnrraer renrlrrelntrerllrlnlirinerlntlreeerrelrllrsrlrrrne ",
+            "武",
+            "",
+            "eee ",
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Baseline</td><td>Low</td><td>Medium</td><td>High</td></tr><tr><td>Above-baseline yield developments- crops*</td><td>Extrapolation of the historical linear yield trends in Lublin for the period 1999-2012 to 2020.The average annual yield increase is 1.8%, but varies between crops</td><td>Annual yield increase of 2.3% for a period of 10 years for all crops, based on the REFUEL projection for Central and Eastern European countries (de Wit et al.,2011)</td><td>Crop-specific yields are set to the current maximum yield level attained in Poland at the province level (average 2008-2012) (CSO,2014a). The average annual yield increase is 3.2%,but varies</td><td>Crop-specific yields are set to the current yield level attained in Germany (average 2008-2012) (FAO,2014). The average annual yield increase is 7.6%, but varies between crops</td></tr><tr><td>Above-baseline yield developments-catle</td><td>Extrapolation of the historical linear trends in cattle density and milk productivity in Lublin for the period 1999-2012 to 2020 (CSO,2014a); In 2020, beef productivity attains current average productivity level of Poland</td><td>Beef and milk productivity are set equal to baseline scenario, and cattle density is set equal to the current cattle density level in Germany (average 2008-2011) (FAO,2014)</td><td>Both beef and milk productivity and cattle density are set equal to the current level attained in Germany (average 2008-2012 for beef and milk productivity; average 2008-2011 for cattle</td><td>Both beef and milk productivity and cattle density are set equal to the current maximum level attained in Poland at the province level (average 2008-2012) (CSO,2014a)</td></tr><tr><td>Improved food chain efficiencyt</td><td>i are similar to average losses in Poland for the period 2008-2011 (FAO,2014)</td><td>Product-specific food losses reduce with 25%</td><td>Prodiuy)(FAO20d oses reduce with 50%</td><td>Product-specific food losses reduce to the 15th percentile‡ of the loss percentages of all EU countries (FAO,2014)</td></tr><tr><td>Biomass production on underutilized land</td><td>n.a.</td><td>Low estimation of underutilized land area,based on statistics</td><td>Medium estimation of underutilized land area,based on statistics</td><td>High estimation of underutilized land area,based on statistics Miscant Miscanthus cultivation is</td></tr><tr><td>Land zoning</td><td>n.a.</td><td>All protected areas are excluded</td><td>Miscanthus cultivation is possible on a limited area of protected land where miscanthus cultivation could support</td><td>possible on a limited area of protected land (larger than in the medium scenario)where miscanthus cultivation could</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "vi For each integrated scenario，the potential miscanthus and bioethanol production on the total surplus land area is calculated. These potentials depend on the miscanthus yield and the biofuel chain efficiency.Therefore, to assess the impact of the value chain design,the total chain productivity is defined for a medium scenario and two sensitivity scenarios(low and high)， see Table 4. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results: ILUC mitigation potentials ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Above-baselineyielddevelopment ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 5 presents the land savings for the low,medium and high above-baseline yield developments in crop and cattle production compared to the target scenario. The saving potentials of crops are higher compared to cattle.This is in line with the fact that the cropland area is larger than the area of meadows and pastures (Table S1,Data S1).In all three scenarios,wheat yield improvements account for the largest area saved，followed by barley，triticale and rapeseed.For potatoes, sugar beets and apples，the yields in the low and medium above-baseline scenarios are actually lower compared with the baseline projection, because extrapo lation of the recent yield trend results in a high yield increase. The additional area required for these crops compared to the target scenario is lower than the area saved by other crops,but reduces the total area saved. With regard to cattle, increasing the cattle density on meadows andpastureshasalargereffect on thearea saved than increasing the beef and milk productivity. The impacts of improvements in beef and milk productivityare comparable to each other. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Increased food chain efficiency ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The agricultural area saved in the increased food chain efficiency scenarios is presented in Table 5.The potentials are significantly lower compared with the potential fromabove-baselineyield development. Improved chain efficiencies of crops result in considerably higher land saving compared with cattle. Similar to the abovebaseline yield improvement scenarios，wheat has the highest land-saving potential， followed by oats and rapeseed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bb7af0b30799d5218b1e4ee089cce774ae928d31ef8eb8cd5d7a5b6011c4056.jpg",
+        "table_caption": [
+            "Table4Componentsand productivityofthevaluechainformiscanthus-basedbiofuel production(fordetailedexplanationeData S3) "
+        ],
+        "table_footnote": [
+            "\\*Biomass losses during transport are assumed to be negligible. tThelowconersioeiienyfortsensiivityaysisisaltothaseeeiencyecauseelyuildplantsldain thebaselineefiieydental;Hamelick&Faij,06;o&den;saletl;bgoaio; POET-DSM Advanced Biofuels, 2014). tCalculated from combining the miscanthus yield, storage and transportation losses and conversion efciency. "
+        ],
+        "table_body": "<html><body><table><tr><td>Chain component</td><td>Assumptions</td><td>Parameter</td><td>Baseline</td><td>Sensitivity range (low-high)</td><td>References</td></tr><tr><td>Miscanthus cultivation and harvest</td><td>Spring yield, farming conditions are suboptimal and plantations have not reached plateau yields yet</td><td>Yield (t dm ha-1)</td><td>13</td><td>10-17</td><td>Stampfl et al. (2007); Borkowska & Molas (2013); Matyka & Kus (2011); van Dam</td></tr><tr><td>Storage</td><td>On-farm storage of bales in the open air covered with plastic sheeting or storage in</td><td>Biomass loss (% dry matter)</td><td>3%</td><td>1-5% dry matter</td><td>Monti et al. (2009); Shinners et al. (2010); Smeets et al. (2009)</td></tr><tr><td>Transport</td><td>a silo or under a bale tarp Truck transport</td><td>Biomass loss (% dry matter)</td><td>0%*</td><td>一</td><td></td></tr><tr><td>Conversion</td><td>Biochemical conversion</td><td>Biomass-to-ethanol conversion efficiency (% HHV)</td><td>35%</td><td>35-40%t</td><td>Bansal et al. (2013); Hamelinck & Faaij (2006); Tao & Aden (2009);Aden et al. (2002); POET-DSM Advanced</td></tr><tr><td>Overall ethanol yield</td><td></td><td></td><td>84 GJ ha-1</td><td>64-129 GJ ha-1</td><td>Bioenergy, (2014) Own calculationt</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/45a62267e733431fbda96faad97ef81f6ce31890a9ad1a0e0f7deb6961062c62.jpg",
+        "table_caption": [
+            "Table 5Landsavedbycropsandcatleintheabove-baselineyieldscenariosand increasedfoodchainefciencyscenarios "
+        ],
+        "table_footnote": [
+            "\\*The land saved by catle is meadow and pastureland. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"6\">Area saved (1000 ha)</td></tr><tr><td></td><td colspan=\"3\">Above-baseline yield scenarios</td><td colspan=\"3\">Increased food chain efficiency scenarios</td></tr><tr><td>Product</td><td>Low</td><td>Medium</td><td>High</td><td>Low</td><td>Medium</td><td>High</td></tr><tr><td>Wheat</td><td>25</td><td>80</td><td>132</td><td>3.7</td><td>7.4</td><td>12.5</td></tr><tr><td>Rapeseed</td><td>12</td><td>16</td><td>26</td><td>0.7</td><td>1.5</td><td>2.0</td></tr><tr><td>Potatoes,sugar</td><td>-6</td><td>-13</td><td>9</td><td>0.6</td><td>1.2</td><td>1.9</td></tr><tr><td>beetsand apples</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other crops</td><td>35</td><td>67</td><td>126</td><td>3.4</td><td>6.7</td><td>11.4</td></tr><tr><td>Cattle*</td><td>30</td><td>74</td><td>132</td><td>0.8</td><td>1.7</td><td>2.8</td></tr><tr><td>Total</td><td>96</td><td>224</td><td>426</td><td>9.2</td><td>18.4</td><td>30.5</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/63890511279c753c21b9ef04ad7586b7373be1c34eb8688f2817e5d23c5b1595.jpg",
+        "table_caption": [
+            "Table 6Estimated underutilized land area available in 2O2O in the low,medium and high scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">Area Lublin (1000 ha)</td><td></td></tr><tr><td>Scenario</td><td>Low</td><td>Medium</td><td>High</td><td>References</td></tr><tr><td>Set-aside and fallow land</td><td>45</td><td>60</td><td>75</td><td>Eurostat,(2012); FAO,(2003);CSO,(2014a)</td></tr><tr><td>Abandoned land not held for agricultural activity</td><td>5</td><td>15</td><td>20</td><td>CSO, (2014a) and own estimates</td></tr><tr><td>Abandoned land baseline scenario</td><td>42</td><td>98</td><td>280</td><td>MIRAGE projection (Laborde, 2011)</td></tr><tr><td>Of which Cropland</td><td>34</td><td>80</td><td>229</td><td>and own estimates</td></tr><tr><td>Grassland</td><td>8</td><td>18</td><td>51</td><td></td></tr><tr><td>Marginal land</td><td>0</td><td>0</td><td>0</td><td>CSO, (2014b,2013)</td></tr><tr><td>Total underutilized land</td><td>92</td><td>173</td><td>375</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Biofuel feedstock production onunderutilized lands ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The total area of set-asideand fallowland isestimated to be 45-75 thousand hectare (Table $6 ,$ see Data S4 for a more detailed explanation).In addition, the area of agricultural land thatis held by owners who do not conduct agricultural activities and that could potentially be considered as abandoned land suitable for miscanthus productionisestimatedto be 5-2O thousand hectare (Data S4).Finally,according to the biofuel target scenario for 2020 based on MIRAGE and own estimates for cattle production,a total area of 280 thousand hectare will be abandoned compared to 2010 (see step 2 in Methods and materials).However, the projected rate of reduction in the agricultural land area is high compared to what is expected based on recent developments in Lublin and Poland.In addition, several factors could result in more land use than projected.Both issues are considered in more detail in the discussion.For this measure, the area ofabandonedland in thelowand medium scenariosis estimated to be significantly smaller than 280 thousand hectare.In the high scenario,the total abandoned land area of 28O thousand hectare is included. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In statistics,only $2 0 2 \\ \\mathrm { h a }$ of land was defined as degraded land (CSO,2013,2014b).Therefore,the share of marginal land in the total area of agricultural land is considered to be negligible. The resulting total estimated area of underutilized in each scenario is presentedin Table 6. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Land zoning ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the methods,criteria were given to assess both the legal availability and the biophysical suitability of agricultural land for miscanthus production. When only applying the protection criterion, the total agricultural area that is legallyavailable is 1267 thousand ha,see Table 7.When only considering the suitability criteria，the total agricultural area that is suitable for miscanthus production is 269 thousand ha. Other agricultural areas are considered very marginally suitable for miscanthus because of limited (soil)water availability,which islow in summer due to droughts (Mioduszewski， 2014). Although miscanthus has a good water-use eficiency compared with many othercrops,itis found to be sensitive to water stress (Lewandowski et al.,2000;Richteret al.,2008).When combing the protection and suitability criteria,the total area suitable and legally available is 2O3 thousand hectare, which is equal to $12 \\%$ of the total agricultural area.This value is used for the low scenario.Assuming that some protected areas could be made available for miscanthus production (as described in the methods section Land zoning)，the suitable and legally available land area increases to 236 thousand ha in the medium scenario and 269 thousand ha in the high scenario. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/615e4661451e324dd07797ca8730520b595a60259534c6cf2334e6afdb8f37e7.jpg",
+        "table_caption": [
+            "Table7Agricultural area legally available and suitable for miscanthus production "
+        ],
+        "table_footnote": [
+            "\\*Equal to average of agricultural land area in 201O and 2012. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Resulting land area</td><td rowspan=\"2\">Area (1000 ha)</td><td rowspan=\"2\">% of total agricultural area</td><td colspan=\"3\">Area by soil quality (1000 ha) Arable land</td><td rowspan=\"2\">Grassland total</td></tr><tr><td>& good</td><td>Lower</td><td>Very weak</td></tr><tr><td>None</td><td>Total agricultural land area*</td><td>1745</td><td>100</td><td>885</td><td>499</td><td>75</td><td>316</td></tr><tr><td>Protection</td><td>Total area legally available</td><td>1267</td><td>73</td><td>631</td><td>391</td><td>49</td><td>195</td></tr><tr><td>Suitability</td><td>Total area suitable</td><td>269</td><td>15</td><td>55</td><td>134</td><td>0</td><td>80</td></tr><tr><td>Protection and suitability</td><td>Total area suitable and legally available for miscanthus</td><td>203</td><td>12</td><td>40</td><td>114</td><td>0</td><td>50</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/aef862234907a9292e6b210c5203aa344bb82c746ef071d78653345fada95214.jpg",
+        "img_caption": [
+            "Fig.2Surplusareainthethree integratedscenarios,breakdownbymeasures (al)andagriculturalcroplandandgrasland(a2) cropland and grassland area suitable for miscanthus cultivation and corrected for land zoning (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Integratedanalysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 presents the combined potential surplus land area generated by the measures increased food chain efficiency，above-baselineyielddevelopmentandbiofuel feedstock production on underutilized lands and compares this land area to the area suitable and legally available for miscanthus based on the measure land zoning. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The ILUC mitigation measures above-baseline yield development and biofuel feedstock production on underutilized lands have the largest potential to make land available for biomass production. For the measure biofuel feedstock productiononunderutilized lands,alargeshareof the potential is related to the projected reduction in demand for agricultural land in the biofuel target scenario of MIRAGE compared to the current situation. The largest share of the area saved is considered to be cropland. The suitability and legal availability criteria for agricultural land limit the use of the arable land area saved in all scenarios and of the grassland area saved in the medium and high scenarios.The resulting ethanol production potential in each scenario is presented in ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3.This figure also presents the sensitivity of the biofuel potential to the miscanthus-ethanol chain pro ductivity,as definedin the methods.The total bioethanol production potential ranges from 12.2PJ per year in the case ofa low ethanol yield in the low integrated scenario to 34.6 PJ per year in the case of a high ethanol yieldin the high integrated scenario (i.e., 522-1479 million liter per year). The second-generation bioethanol consumption target for Poland as set in the NREAP is 8.8 PJ or 376 million liter in 2020. Thus,in all scenarios, the miscanthus-based ethanol production potential of only the province of Lublin is higher than this national target.In addition,in the NREAP,the total target for the national consumption of all first- and second-generation biofuels in Polandis 60.5PJ (2582million liter) in 2020 (Ministry of Economy,2010).Thus, $2 0 \\%$ to $57 \\%$ of this target could be met by bioethanol production from miscanthus in the province of Lublin. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MonitoringILUCandILUCmitigationmeasures ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The analysis shows that technically it is possible to producelarge additional amounts of biofuelin Lublin with a low risk of causing ILUC.For certification,it needs to beverified that biofuel feedstock is indeed produced withlowILUCrisk,thatis,therisksofland conversion elsewhere or undesired land-use change in the case study region as a result of biofuel feedstock production arewithin certain thresholds.Also，to control and manage the expansion of biofuel feedstock production, the implementation of the ILUC mitigation measures should be monitored. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4dab94704ec6a0656bd923be4c729acb49a6ae753a894cfba100ff2cae79d371.jpg",
+        "img_caption": [
+            "Fig.3 Bioethanol production potentials in Lublin province in 2020 for medium ethanol yield and sensitivity bars for low ethanol yield andhigh ethanol yield,see Table 3.TheNational Renewable Energy Action Plan target is the Polish national consumption target for second-generation bioethanol of 8.8 PJ in 2020,as stated in the polish National Renewable Energy Action Plan. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For this case study,several parameters are identified that are important for monitoring ILUC risk (Table 8). First, the observation of land use (e.g., for agricultural or bioenergy production,or for forestry） and land-use change over time is vital. For this,it is required to frequently compose land use and land cover maps. This can be carried out using remote sensing (satellite monitoring)，supplemented with field data for validation. Important is the detail of the land use and land cover maps. This means that maps should differentiate between, for example,forest and agricultural land, land under agricultural activity and abandoned or set-aside land,and between agricultural and bioenergy crops. In addition，appropriate spatial and temporal resolutions should be chosen.As farms in Lublin are often small, the spatial resolution should be high to enable the identification of differences in land use and land cover. It is especially important to observe areas that are excluded from bioenergy production through land zoning regulations. When land-use change would occur in these areas or their buffer zone,this is a sign for potential ILUC risk. The observation of land use and land-use change could be supported by monitoring land management, as this is a good indicator of how and for what purpose(s) land is used.Aspects of land management include, among others, the type (e.g. tillage or no tillage), intensity(e.g.， full tillage or reduced tillage) and timing of management.However，collecting this type of data could be very time-consuming. Second, changes in food and trade balances could be an indicator for increasing ILUC risk.For example,when agricultural production volumes increase at a higher rate than expected, the land area required for food, feed and bioenergy production is potentially larger than the area available without ILUC.In addition, changes in imports or exports of agricultural products might indicate growing production demand in the region or relocation of local production to other regions,which can both cause ILUC. Small changes compared to the projected production and trade volumes，however，should be considered to be within the uncertainty range of the projection. It should therefore be assessed what an appropriate threshold would be. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The key indicators to monitor the implementation of the ILUC mitigation measures are as follows.First,for above-baseline yield development,the most important parameter is the crop-specific annual yield.As yields fluctuate over time,it is recommended to monitor the 5- year moving average yield.In addition,the targeted yield should be defined as a range within which the average yield should be in a certain year.Statistics on provincial average crop yields are generally made availableannually (CSO，2014a).However，information about the performance of individual farmers is lacking. This information is useful to identify where efforts and investments for yield improvements are needed most. In addition,monitoring developments in farm size and management (e.g., the level and efficiency of fertilizers use)is valuable to assesswhether subsidies and other stimulatingpolicies are effective,and whether advances in farm management are substantial enough to realize the expected or targeted yield improvements.Second, monitoring of food chain efficiency requires data on food losses in the whole supply chain，specified per agricultural product and per process in the chain. In this study,data availability and quality are poor (see Table 8).More and better data need to be collected periodically to set targets for chain efficiency and monitor whether developments are in line with these targets. Third,land zoning and the use of underutilized lands can be mainly monitored by periodically assessing land use and land cover (see also above).When remote sensingis used, the ability to differentiate between miscanthus and other crops is very important， because miscanthus may be cultivated in areas where the production of other crops is undesired or prohibited.As the information on the location and size of underutilized lands is much more limited compared to protected areas,remote sensingand improved field data collection are important to set a baseline for monitoring this measure. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a654c7ab151d9b8cc99161323367d7e897ed6e6efa1214ba4755e22e39095ed.jpg",
+        "table_caption": [
+            "Table8ParametersformonitoringILUCriskandimplementationofILUCmitigationmeasuresanddata availabityandqualityfor these parameters "
+        ],
+        "table_footnote": [
+            "$^ { * } \\mathrm { A }$ nationalagriculturalcensusisakenevery6-8yearsandincludesdataaboutagriculturalmachinery(CSO,014a).Currntlythe dataisonlyprovidedataggregatedlevels (CSO201a).Itsouldbefurtherasssedwhetherdataforindividualfarmerscanbe made available and used for monitoring. $\\dag \\mathrm { O n }$ provinciallevel,dataisonlyvailableforproductionvolumesandforthemostimportantagriculturalproducts(C4a). $\\ddagger$ Tradefiguresonprovince level werenotfound duringthisstudy.Itisrecommendedtofurther investigate whethersuchdatais already collected and available and how missing data can be collected in the future. $\\ S \\mathrm { A }$ national agricultural census is taken every 6-8 years,but does not include yields (CSO,2014a). "
+        ],
+        "table_body": "<html><body><table><tr><td>Monitoring</td><td>Parameter for monitoring</td><td>Availability of data</td><td>Quality of available data</td></tr><tr><td rowspan=\"5\">ILUC risk</td><td>Land use and land cover</td><td>Good (Nunes de Lima,2005)</td><td>It needs to be assessed whether the spatial and temporal resolution of the data is appropriate for</td></tr><tr><td>Land management</td><td>Some aggregated data on provincial level, for example, about amount of machinery and level of fertilizer use</td><td>monitoring Potentially data for individual farmers*</td></tr><tr><td>Food balance</td><td>(CSO,2014a) Available at provincial and national level (CSO,2014a;</td><td>To be assessed</td></tr><tr><td>Trade balance</td><td>FAO,2014)† Available at national level</td><td>To be assessed</td></tr><tr><td>Annual yield</td><td>(FAO, 2014)‡ Good for most important products, statistics are updated annually (CSO,2014a). For other products, data is lacking or only provided</td><td>Only provincial averages, no data for individual farmers§.</td></tr><tr><td></td><td>Farm size and management</td><td>onaggregated level and/or for selected years (CSO,2014a,b) Only aggregated data on provincial level (CSO,2014a)</td><td>Potentially data for individual farmers*</td></tr><tr><td></td><td>Increased food chain eficiencyFood losses in supply chain</td><td>Available per agricultural product, but only at national level and not specified per process step in the</td><td>Poor,only estimates are provided and specification per process step is lacking</td></tr><tr><td>Land zoning and use of underutilized land</td><td>Land use and land cover</td><td>supply chain (FAO,2014) Good for protected areas (European Commission,1992; Ministry of the Environment, 2003),no spatially explicit data available for</td><td>It needs to be assessed if the temporal resolution of the data is appropriate for monitoring protected areas.</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Potential surplus land area ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This case study assessed the production potential of miscanthus-based bioethanol withlow ILUC risk in the Polish province of Lublin in 2020.Five measures have beenanalyzed that reduce the extentof ILUC and control the type of land-use change.The total potential of these measures has been investigated fora low,medium and high scenarios that refers to developments above the baseline projections.In 2020,a total area of 196 to 818 thousand hectare of agricultural land could become available for biomass production. This is equal to $1 1 \\%$ to $4 7 \\%$ of the total agricultural area in Lublin. The largest potential to generate surplus land comes from above-baselineyield developments (95-413thousand hectare).Increasing especially wheat yields adds significantly to the total potential of this measure.Also,the projected area of underutilized land,92-375 thousand hectare,is considerable.The large effect of these two ILUC mitigation measures illustrates the importance of improving land management.This finding is supported byassessments of land availability in Eastern Romania, Hungaria andNorth-East Kalimantan(Indonesia) (Wicke et al.， 2015) andinBrazil (Woods et al., 2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The potentials differ substantially between the scenarios,and also the feasibility and likelihood of the scenarios vary significantly.For example，the yields applied in the high scenario are considered to be feasible based on existing farming practices in Germany. But it is questionable whether the adoption of these practices can take place in the limited timeframe to 2020.Second，based on the disaggregation of results from the MIRAGE model, the production of crops in Lublin is projected to decline in both the baseline and biofuel target scenarios.This reduction strongly affects land use.The decline in crop production is primarily caused by a reduction in the cultivation of potatoes and cereals (except wheat and maize) as projected by MIRAGE for the EU27. These crops account for a significant part of the agricultural production in Lublin. Furthermore,according to MIRAGE,the production of especially oil crops (e.g.，rapeseed，sunflower）and also other first-generation bioenergy crops (e.g.，wheat, maize，sugar beet）will increase.In the province of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lublin, however，the current production of oil crops and maize is very small. Therefore，the total decline in the production of potatoes and cereals (except wheat and maize) is larger than the total growth in the production of wheat，sugar beet and other crops (see Data S2).But the resulting reduction in land use is not in line with recent developments in Lublin and Poland (CSO，2014a).In addition,other competitive uses for released land，such as afforestation，exist. These are not taken into account in this analysis. It is recommended to further assess the potential pathways for crop production and land use and specifying under which conditions each scenario could be realized. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Legally aoailableand suitable area ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although the surplus land area available in 2020 is potentially very large,a limited area of 203-269 thousand hectare $( 1 2 - 1 5 \\%$ of the total agricultural area) is considered to be legally available and biophysically suitable for miscanthus production based on the criteria for protecting high conservation areas and minimum requirements for land suitability. As a result, in all scenarios,the amount of surplus land that could be used for miscanthus production is restricted. The limitation onland use is mainly caused by the suitability criteria and especially the sensitivity of miscanthus to water stress.However, this study only assessed the land suitability based ona few simple criteria like the minimum ground water level. It did not take into account other parameters such as soil characteristics (see, e.g., van der Hilst et al., 2010) or the influence of the current vegetation and the conversion to miscanthus on the water balance andwateravailability.Itistherefore recommended to further investigate how these factors affect the land suitability and the potential yield for miscanthus.The insights can be used to set a maximum area for growing miscanthus.In addition,lands that are only very marginally suitable for miscanthus may be suitable for other crops that have a higher tolerance to water stress,for example,reed canary grass and switchgrass (Lewandowski et al.，2000，2003；Richter et al., 2008).Agro-ecological zoning data (FAO and IASA, 2014)shows that in Poland, the soil suitability for reed canary grass,and to a lesser extent also switchgrass,is considerably higher than the suitability for miscanthus. Fischer et al.(Fischer et al.,，201O) found that a total of $6 1 \\%$ of the agricultural land in Poland is moderately to very suitable for reed canary grass,miscanthus and/or switchgrass.Thus,selection of the most appropriate crop for each area could significantly increase the use of the surplus land area and raise the total biomass production potential. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Low-ILuC-risk bioethanol potential ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Depending on the productivity of the bioethanol value chain,the low-ILUC-risk bioethanol production potential ranges from 12 to 35 PJ per year (522-1479 million liter per year). For comparison, the national Polish target for second-generation bioethanol consumption is almost 9 PJ. This means that the province of Lublin could play a key role in achieving this target and help Poland even become an exporter of second-generation bioethanol. This potential,however，is the technical potential that accounts only for key environmental aspects such as the protection of high conservation value areas. However, the (sustainable) implementation potential may be lower than the technical potential. The implementation potential is the fraction of the technical potential that can be produced at economically profitable levels and implemented within the considered timeframe,taking into account local constraints and policies (Smeets et al., 2007). For Lublin, several factors are identified that could significantly affect the implementation potential. First， the agricultural sector in Lublin is characterized by a large number of small farms and low average management levels compared with regions such as Western Poland and Germany (see Table S2 in Data S1).To realize above-baseline yield increases,scaling up,modernization and intensification of agricultural production are needed. However, farmers have litte capital to invest, and land prices are considered too low for selling or leasing land. Second, when the ILUC mitigation measures are implemented and land is made available for biomass production, several hurdles exist for farmers to start cultivating bioenergy crops. For example,in recent years,the production and trade of biomass for heat and electricity in Lublin province have been constrained by the lack of a stable market. Large amounts of biomass were imported from the Ukraine and,according to local experts,biomass prices offered to farmers in Lublin were too low (Faber, 2014; Galczynska, 2014; Gradziuk,2014). With regard to miscanthus,a potential additional hurdle may be the high establishment costs compared with other energy crops (Lewandowski et al.，2003). The sustainable biofuel potential is the fraction of the technical potential that can be implemented while delivering positive environmental， social andeconomicimpacts. To assessthe sustainability ofbiofuels， sustainability criteria and indicators have been developed [see, e.g., Cramer et al. (2007)，Franke et al． (2012)，McBride et al.(2011) and Dale et al. (2013)]. It is unknown yet what will be the environmental and socioeconomic impacts of implementing ILUC mitigation measures in Lublin. These aspects should be addressed in future research. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To maximize the implementation potential，governance and policies are considered vital.First, this could, for example,include financial support to farmers to facilitate improved production practices. Such support is already included in European and Polish agricultural and rural development policies (European Commission, 2014;Ministry of Agriculture and Rural Development), but should be increased to realize the full potential. Second, in the medium and high scenarios,it was assumed that miscanthus production in some protected areas with high conservation value mayactuallylead to improved biodiversity. Therefore, land-use policies should clearly define which areas are allowed to take into production for biomass.Third,it is recommended to further assess the potential barriers for implementing ILUC mitigation measures and producing bioenergy crops and biofuels at large scale. In addition, it should be investigated how these hurdles could be addressed. Fourth，monitoring ILUC risks and the implementation of ILUC mitigation measures is important.This case study identified several parameters that are useful for monitoring, for example, land use,land cover and annual yields.However，the availability and quality of the data required for monitoring vary for the different parameters; especially,data about losses in the food supply chain and underutilized lands should be improved.Finally,the assessment of the ILUC mitigation measures and the miscanthus-based bioethanol production potential with low ILUC risk in Lublin province in Poland shows that the mitigation or prevention of ILUC from bioenergy is only possible when the close link between the agricultural and bioenergy sectors is recognized. Therefore,an integrated perspective on these sectors in planning and implementing policies on ILUC prevention specifically (as well as on land use in general) is essential. Doing so would allow realizing a significant bioenergy potential with a low risk of causing ILUC while boosting the performance of the agricultural sectors as a whole. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank David Laborde for sharing data from the MIRAGE model. The research presented in this paper was conducted within the ILUC prevention project' which was funded by the Netherlands Enterprise Agency, the Dutch Ministry of Infrastructure and the Environment,the Dutch Sustainable Biomass Commission and the Rotterdam Climate Initiative/Port of Rotterdam.This case study on miscanthus-based ethanol was funded by Shell. The funder contributed to the data collection and commented on the original report,but the authors take complete responsibility for the integrity of the data and the accuracy of the dataanalysis.The views expressed in this paper are those of the authors and do notnecessarilyreflect those of the fundingagency.Magdalena Borzecka-Walker and Rafal Pudelko were financed by the S2Biom project under grant agreement No FP7-608622. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abengoa Bioenergy (2014) Abengoa celebrates grand opening of its first commercialscale next generation biofuels plant.Available at: http://www.abengoabioenergy.com/web/en/prensa/noticias/historico/2014/abg_20141017.html (accessed 19 December 2014).   \nAden A,Ruth M, Ibsen K,Jechura J,Neeves K,Sheehan J,Wallace B (2002) Lignocellulosic Biomassto Ethanol Process Design and Economics Utilizing Co-Current Dilte AcidPrehydrolysisand EnzymaticHydrolysis for Corn Stover.National Renewable Energy Laboratory, Golden, CO, USA.   \nAgricultural Sustainability Institute,UCDAVIS.What is sustainable agriculture? Available at: http://www.sarep.ucdavis.edu/about-sarep/def (accessed 7 May 2015).   \nAl-Riffai P,Dimaranan B,Laborde D (2O1o)Global Tradeand Enoironmental Impact Study of the EU Biofuels Mandate. International Food Policy Research Institute, Washington, DC, USA.   \nBansal A,Ilukpitiya P, Singh SP,Tegegne F(2013) Economic competitiveness of ethanol production from cellulosic feedstock in tennessee. Renewable Energy,59, 53–57.   \nBorkowska H,Molas R (2013) Yield comparison of four lignocelllosic perennial energy crocies.omssdenergy,1.   \nBrinkman M,Wicke B,Gerssen-Gondelach S,van der Laan C,Faaij A (2014) Methodology for Assessing ILUC Prevention. Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, The Netherlands.   \nBrinkman MLJ, Wicke B,Gerssen-Gondelach SJ,van der Laan C,Faaij APC (2015) Methodology for Assessing and Quantifying ILuC Prevention Options.Copernicus Institute of Sustainable Development,Utrecht University,Utrecht,The Netherlands.   \nCaslin B,Finnan J,Easson L (2011) 1 crop production. In: Miscanthus Best Practice Guidelines (eds Caslin B,Finnan J,Easson L),pp.5-26.Teagasc and Agri-Food and Bioscience Institute, Carlow and Hillsborough, Ireland.   \nCramerJ,Wissema E,deBruijne M et al.(2oo7) Testing framework for sustainable biomass,final report from the project group“Sustainable production of biomass\".Project group Sustainable Production of Biomass, The Hague, The Netherlands.   \nCSO (2013) Rural Areas in Poland -National Agricultural Census 2010.Central Statistical Office (CSO),Warsaw,Poland.   \nCSO (2014a) Local data bank.Available at: htp://www.stat.gov.pl/bdlen/app/ strona.html?p_name=indeks (accessed 2013, 2014).   \nCSO (014b)Statistical Yearbook of Agriculture 2013.Central Statistical Ofice (CSO), Agricultural Department,Warsaw,Poland.   \nDale VH,Efroymson RA,Kline KL et al. (2013) Indicators forassessing socioeconomic sustainability of bioenergy systems: a short list of practical measures.Ecological Indicators,26,87-102.   \nvan Dam J,Faaij APC,Lewandowski I, Fischer G (2007) Biomass production potentials in Central and Eastern Europe under diffrent scenarios. Biomass and Bioenergy,31,345-366.   \nDauber J, Jones MB, Stout JC (2010) The impact of biomass crop cultivation on temperate biodiversity.GCB Bioenergy,2,289-309.   \nDonnelly AStyles D,FitzgeraldJ,FinnanJ(2ol1)A proposed framework foretermining the environmental impact of replacing agricultural grassland with miscanthus in Ireland.GCB Bioenergy,3,247-263.   \nEkvall T,Weidema BP (2004)System boundariesand input data in consequential life cycle iventoryanalysis.The International Journalof LifeCycleAssessment,9,161- 171   \nEPA(2010)Renewable Fuel Standard Program (RFS2) Regulatory Impact Analysis.Environmental Protection Agency, Washington, DC, USA. EPA-420-R-10-006.   \nEuropean Commission (1992) Directive 92/43/EEC of 21 may 1992 on the conservation of natural habitats and of wild fauna and flora. Official Journal of the European Communities,206,7-50.   \nEuropean Commission (2014) Rural development 2014-2020 -agriculture and rural development.Available at: http://ec.europa.eu/agriculture/rural-development2014-2020/index_en.htm (accessed 29 September 2014).   \nEuropean Parliament,and Council of the European Union (2o03) Directive 2003/30/ EC of the european parliament and of the council of 8 may 20o3 on the promotionofthe use of biofuelsor other renewable fuels for transport.Offcial Journal of the European Union L 123,46,42-46.   \nEuropean Parliament,and Council of the European Union (2009) Directive 2009 /28/ EC of the european parliament and of the council of $2 3 \\mathrm { \\ A p r i l { \\ } } 2 0 0 9$ on the promotion of the use of energy from renewable sources and amending and subsequently repealing directives 2001/77/EC and 2003/30/EC.Official Journal of the European Union,140,16-62. farms and areas by size of farm (UAA)and size of arable area.Available at: http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ef_lu_ofsetasid&lang=en (accessed 8/15/2014).   \nEurostat (2013) Eurostat - data explorer.Key farm variables:Area, livestock (LSU), labour force and standard output (SO) by agricultural size of farm (UAA), legal status of holding and NUTS 2 regions.Available at: http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ef_kvaareg&lang=en (accessed 29 July 2014).   \nFaber A(2014) Personal Communication.Institute of Soil Science and Plant Cultivation (IUNG), Pulawy,Poland.   \nFaber A,Pudetko R,Borek R,Borzecka-Walker M, Syp A,Krasuska E,MathiouP (2012)Economic potential of perennial energy crops in poland.Journal of Food, Agriculture $\\boldsymbol { \\mathcal { E } }$ Environment,10,1178-1182.   \nFAO (2003) Chapter 1. introduction.In: Fertilizer Use by Crop in Poland.Food and Agriculture Organisation of the United Nations (FAO),Rome,Italy.   \nFAO (2014) FAOSTAT. Available at:http://faostat.fao.org (accessed 2014).   \nFAO，and IIASA (2014) GAEZ global agri-ecological zones.Available at: http://gaez.fao.org/Main.html# (accessed 19 June 2014).   \nFinvedenG,HauschildMZ,EkvallTet al. (20o9)Recentdevelopments in life cycle assessment.Journalof Enironmentalanagement,91,-21.   \nFischer G,Sylvia P,van Velthuizen H, Lensink SM,LondoM,de Wit M(2010) Biofuel production potentials in europe: sustainable use of cultivated land and pastures. part I: land productivity potentials. Biomass and Bioenergy,34,159-172.   \nFranke B,ReinhardtG,MalavelleJ,Faaij A,Fritsche U(22) Globalasessmentsnd guidelines for sustainable liquid biofuel production in developing countries.AGEF targeted research project.Heidelberg/Paris/Utrecht/Darmstadt.   \nGalczynska M (2014) Personal communication. Foundation for Lubelskie Development.   \nGerssen-GondelachS,WickeB,Faaij A (2014)ILUCPrevention Strategies forSustainable Biofuels.Case Study on the Bioethanol ProductionPotential from Miscanthus with Low ILUC Risk in the Province of Lublin,Poland.Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, The Netherlands.   \nGerssen-Gondelach S,Wicke B,Faaij A (2015)Assessment of drivingfactors for yield and productivity developments in crop and catte production as key to increasing sustainablebiomasspotentials.Food and Energy Security,46-75.   \nG6rski T,Zaliwski A (2002) Agroclimate model of Poland (in Polish).Pamietnik Putawski,30,251-60.   \nGradziuk P (2014) Personal communication.Polish Chamber of Biomass.   \nHamelinck CN,Faaij APC (2006) Outlook for advanced biofuels.Energy Policy,34, 3268-3283.   \nHertel TW,Golub AA,Jones AD,O'Hare M, Plevin RJ,Kammen DM(2010) Effects of US maize ethanol on global land use and greenhouse gas emissions: estimating market-mediated responses.BioScience, 60,223-231.   \nvan der HilstF,Dornburg V,Sanders JPMetal. (2O10)Potential,spatial distribtion and economic performance of regional biomass chains: the north of the Netherlands as example.Agricultural Systems,103,403-417.   \nInstituteof Geology(1957)Hydrogeological mapof Poland.Scale1:300,0o0.Instituteof Geology, Warsaw,Poland.   \nIUNG(1974)TheAgricultural soil SuitabilityMapof Poland.Scale1:100,0o.Instituteof Soil Science and Plant Cultivation (IUNG),Pulawy,Poland.   \nLaborde D (2O11) Assessing the Land use Change Consequences of European Biofuels Policies. International Food Policy Research Institute,Washington,DC,USA.   \nLewandowski I, Clifton-Brown JC, Scurlock JMO,Huisman W (20o0) Miscanthus: European experience with a novel energy crop.Biomassand Bioenergy,19,209- 227.   \nLewandowski I, Scurlock JMO,Lindvall E,Christou M (2003) The development and current status of perennial rhizomatous grasses as energy crops in the US and Europe.Biomass and Bioenergy,25,35-61.   \nMatyka M, Kus J(2O11) Yielding and biometric characteristics of selected miscanthus genotypes.obleyyieriioiczej,   \nMcBride AC,Dale VH, Baskaran LMet al. (011) Indicators to support environmental sustainabilityofioenergysems.Ecological Indicators,11,7-9.   \nMinistry of Agriculture and Rural Development. Program rozwoju obszarow wiejskich 2014-2020. Available at: https://www.minrol.gov.pl/Wsparcie-rolnictwa-irybolowstwa/PROW-2014-2020 (accessed 26 September 2014).   \nMinistry of Economy (2O1o) National Renewable Energy Action Plan.Ministry of Economy, Warsaw,Poland.   \nMinistry of the Environment (2003) National System of Protected Areas (KSOCH) 2003. Ministry of the Environment,Poland.   \nMioduszewski W (2014) Small(natural) water retention in rural areas.Journal of Water and Iand Develomment. 20.19-29.   \nMonti A,Fazio S,Venturi G (2009) The discrepancy between plot and field yields: harvest and storage losses of switchgrass.Biomass and Bioenergy,33,841- 847.   \nNunes de Lima LimaMV (2005) Image 2000 and CLC 2000-Products and Methods. CORINE land Cover Updating for theYear 2ooo.JRC,Ispra,Italy.   \nObservER (2011) Biofuelsbarometer.Systemes SolairesLeJournal DesEnergies Renouvelables 204: 68-93.   \nObserv'ER (2012) Biofuels barometer.Systemes Solaires Le Journal Des Energies Renouvelables 210: 42-62.   \nObservER (20l3) Biofuels barometer.Systemes Solaires Le Journal Des Energies Renouvelables 216: 48-63.   \nObservER (2015) Biofuels barometer.Observ'ER,Observatoire des énergies renouvelables.   \nPatton J (n.d.) Value-Added Coproducts from the Production of Cellulosic Ethanol. North Dakota State University.   \nPlevin RJ,O'Hare M,Jones AD,Torn MS,Gibbs HK (2010) Greenhouse gas emissions from biofuels' indirect land use change are uncertain but may be much greater than previously estimated. Environmental Science $\\boldsymbol { \\mathscr { E } }$ Technology,44,8015 8021.   \nPlevin RJ, Beckman J, Golub AA,Witcover J,O'Hare M (2015) Carbon accounting and economic model uncertainty of emissions from biofuels-induced land use change. Environmental Science & Technology,49,2656-2664.   \nPOET-DSM Advanced Biofuels (2014) First commercial-scale cellulosic ethanol plant in the U.S.opens for business -POET-DSM advanced biofuels.Available at: http://poetdsm.com/pr/first-commercial-scale-cellulosic-plant(accessed19 December 2014).   \nPudelko R, Borzecka-Walker M,Faber A,Borek R,Jarosz Z,Syp A (2012) The technical potential of perennial energy crops in Poland.Journalof Food,Agriculture $\\mathcal { E }$ （20 Environment,10,7-84.   \nRay DK,Ramankutty N, Mueller ND,West PC,Foley JA (2012) Recent patterns of crop yield growth and stagnation.Nature Communications,3,1293.   \nReinhard J, Zah R (2011) Consequential life cycle assessment of the environmental impacts of an increased rapemethylester (RME) production in Switzerland. Biomass and Bioenergy,35,2361-2373.   \nRichter GM,Riche AB,DaileyAG,Gezan SA,Powlson DS (2008)Is UK biofuel supply frommiscanthus water-limited?Soil use and Management,24,235-245.   \nRuten M,Nowicki P,Boogaardt MJ,Aramyan L (2013)Reducing Food Waste by Householdsand in Retail in theEU:APrioritisation Using Economic,LandUse and Food Security Impacts.LEI Wageningen UR, The Hague,The Netherlands. 2013- 2035.   \nSearchinger T,Heimlich R,Houghton RA et al.(2008) Use of U.S.croplands for biofuels increases greenhouse gases through emissions from land-use change. Science,319,1238-1240.   \nShinners KJ, Boettcher GC,Muck RE,Weimer PJ, Casler MD (2010) Harvest and storage of two perennial grassesas biomass feedstocks. Transactions of the ASABE, 53,359-370.   \nSliz-Szkliniarz B (2013).4 methodological approach for bioenergy potential assess ment.In: Energy Planning in Selected European Regions-Methods for Eoaluating the Potential of Renewable Energy Sources (ed. Sliz-Szkliniarz B).Karlsruher Institut fuir Technologie(KIT).Availableat:http://www.ksp.kit.edu/9783866449510 (accessed 12 December 2013).   \nSmets EMW,Faij APC,Lewandowski IM,Turkenburg WC (2007)A bottom-up assessment and review of global bio-energy potentials to 2050.Progressin Energy and Combustion Science,33,56-106.   \nSmeets EMW,Lewandowski IM,Faaij APC (2009) The economical and environmental performance of miscanthus and switchgrass production and supply chains in a European setting.Renewable and Sustainable Energy Reviews，13, 1230-1245.   \nvan de Staaij J,Peters D,Dehue B et al. (2012) Low indirect impact biofuel (LIB) methodology- version zero.   \nStampfl PF, Clifton-Brown JC,Jones MB (2007) European-wide GIS-based modelling system for quantifying the feedstock from miscanthus and the potential contribu283_2205   \nSzymanska D, Chodkowska-Miszczuk J (2011) Endogenous resources utilization of rural areas in shaping sustainable development in Poland.Renewable and Sustainable Energy Reviews,15,1497-1501.   \nTao L,Aden A (2O09) The economics of current and future biofuels. Vitro Cellular& Developmental Biology-Plant,45,199-217.   \nTerelak H,Witek T(1995)Poland.In:Soil Survey:Perspectivesand Strategies for the 21st Century (ed. Zinck JA), pp.100-103.Land and Water Development Division, FAO, Rome, Italy.   \nTynerWE,TaheripourF,Zhuang $\\mathrm { Q } ,$ Birur DK,BaldosU (2010) Land use Changes and Consequent CO2 Emissions Due to US Corn Ethanol Production:A Comprehensive Analysis.Center for Global Trade Analysis,Purdue University,West Lafayette, IN, USA.   \nWarner E,Zhang Y, Inman D,Heath G (2014) Challenges in the estimation of greenhouse gas emissions from biofuel-induced global land-use change. Biofuels, Bioproducts and Biorefining,8,114-125.   \nWicke B,Verweij P,van Meijl H,van Vuuren D,Faaij A (2012) Indirect land use change:review of existing models and strategies for mitigation. Biofuels,3, 87- 100.   \nWicke B, Brinkman M,Gerssen-Gondelach S,van der Laan C,Faaij A (2015) ILUC Prevention Strategies for Sustainable Biofuels:Synthesis Report from the ILUC Prevention Project.Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, The Netherlands.   \nde Wit M,Faaij A (2010) European biomass resource potential and costs. Biomass and Bioenergy,34,188-202.   \nde Wit M,Londo M,Faaij A (2011) Productivity developments in Europeanagriculture:relations to and opportunities for biomass production. Renewable and SustainableEnergyReviews,15,2397-2412.   \nWitcover J,Yeh S,Sperling D (2013) Policy options to address global land use change from biofuels. Energy Policy, 56,63-74.   \nWoods J,Lynd LR,Laser M,Batistella M,deCastro VictoriaD,Kline K,Faaij A (2015) Chapter 9.land and bioenergy.In:Bioenergy& Sustainability:Bridging the Gaps (eds Souza GM,Victoria RL,Joly CA,Verdade LM),pp.258-300. Scientific Committee on Problems of the Environment (SCOPE),Paris,France. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Data S1. Characteristics of case study region.   \nTable S1.Land uses in Lublin province (CSO,2013b; CSO, 2014b).   \nTable S2. Characteristics of agriculture in Lublin and comparison to Poland and Germany.   \nData S2.Projection agricultural production.   \nTable S3.Current crop production in Lublin and projected production in 2020 in the MIRAGE-based baseline (without biofuel target) and biofuel target scenarios.   \nData S3. Biofuel chain design and efficiencies.   \nTable S4.Miscanthus yield potentials for various classes of land suitability.   \nData S4.Estimations of underutilized land area.   \nTable S5.Estimations of area of land potentially available and suitable for miscanthus production that is currently designated as set-aside land or agricultural land not under agricultural activity. ",
+        "page_idx": 15
+    }
+]

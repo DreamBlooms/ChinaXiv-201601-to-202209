@@ -1,0 +1,187 @@
+不同油脂对肉仔鸡生长性能、屠宰性能和肉品质的影响张亚男　齐　博　张海军\*王　晶　武书庚\* 齐广海
+
+（中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081）摘要：本试验旨在研究饲粮中添加不同油脂对肉仔鸡生长性能、屠宰性能、肉品质以及血浆脂质代谢的影响。选取健康的1日龄爱拔益加肉仔鸡公雏 360 只，随机分成4个组，分别采食含有豆油（SO，对照）、鸡油（CO）、亚麻油（LO）和鱼油（FO）的饲粮，油脂添加水平前期（1\~21日龄）为 $3 . 0 \%$ ，后期（22\~42日龄）为 $3 . 5 \%$ 。结果表明：1）FO 组肉仔鸡42日龄体重（BW）、后期和全期的平均日增重（ADG）显著低于SO和CO组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。2）与SO组相比，21日龄时CO组的胸肌率显著降低（ $P { < } 0 . 0 5 )$ ，42日龄时FO组的胸肌率显著降低（ $P { < } 0 . 0 5$ ）。3）与 SO 组相比，CO 和FO 组的滴水损失显著增加（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ ；CO和 LO 组胸肌肌肉的 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 和 $\Delta \mathrm { p H }$ 显著增加 ( $( P { < } 0 . 0 5 )$ ；CO组屠宰后 $4 5 \mathrm { m i n }$ 亮度 $( \mathrm { L } ^ { * } 4 5 \operatorname* { m i n } )$ 值显著增加 （ $. P { < } 0 . 0 5 \$ ，FO组 ${ \mathrm { ~ L ~ } } _ { 4 5 \operatorname* { m i n } } ^ { * }$ 和 $\boldsymbol { \mathrm { L } } _ { 2 4 \mathrm { h } } ^ { * }$ 值显著降低（ $. P { < } 0 . 0 5 )$ ；LO 和FO 组屠宰后45min红度（ $\mathrm { \dot { ~ a } ^ { * } { } _ { 4 5 } } \operatorname* { m i n }$ ）值显著增加（ $. P { < } 0 . 0 5 )$ ，CO组 $\mathbf { a } _ { ~ 2 4 ~ \mathrm { h } } ^ { * }$ 值显著降低（ $. P { < } 0 . 0 5 \$ ；CO 和LO组屠宰后 $4 5 \mathrm { m i n }$ 黄度 $( \mathsf { b } _ { 4 5 \operatorname* { m i n } } ^ { * } )$ 和 $\boldsymbol { \mathsf { b } } _ { 2 4 \mathrm { h } } ^ { * }$ 值显著增加( $. P { < } 0 . 0 5 \$ ,FO组 $\boldsymbol { \mathsf { b } } _ { 2 4 \mathrm { h } } ^ { * }$ 值显著增加( $. P { < } 0 . 0 5 \rangle$ ）°4）与CO 组相比，LO 组21和42 日龄血浆总胆固醇含量显著降低（ $P { < } 0 . 0 5 )$ ；与SO组相比，42 日龄LO 组甘油三酯、低密度脂蛋白胆固醇含量显著降低（ $P { < } 0 . 0 5 )$ ；与 SO 组相比，CO 组42日龄高密度脂蛋白胆固醇含量显著增加（ $_ { \cdot } P { < } 0 . 0 5 { \mathrm { : } }$ )。可见，与SO 相比，CO不影响肉仔鸡生长性能，可致肉色变差和滴水损失增加；FO 降低了肉仔鸡的生长性能，可改善肉色，但肌肉滴水损失增加；LO不影响肉仔鸡生长性能，可调节血浆脂质代谢，并改善肉色。
+
+关键词：油脂；生长性能；肉品质；肉仔鸡中图分类号：S831.5 文献标识码： 文章编号：
+
+随着现代育种的进展，肉鸡生长速度加快，需要的营养物质浓度越来越高，饲粮中添加油脂，已成为促进动物生长和提高饲料转化效率的有效手段。油脂因适口性好、提供必需脂肪酸、促进营养素消化吸收、减少粉尘等，广泛用于饲料中。饲用油脂有动物源和植物源，前者饱和脂肪酸（SFA）含量多，后者不饱和脂肪酸（UFA）较多，因UFA更易吸收且代谢能值高，脂肪的利用率高[1]，常用于幼龄等经济价值高的动物。此外，近来价格相对低廉的牛油、鸡油（chicken oil，CO）、猪油等也成为常用油脂，但关于CO在肉鸡生产中的研究较少。根据双键个数，可将UFA分为单不饱和脂肪酸（MUFA）和多不饱和脂肪酸（PUFA），PUFA 又包括n-6和n-3等系列，其中n-6 PUFA包括亚油酸、花生四烯酸等，n-3PUFA 包括亚麻酸、二十碳五烯酸（EPA）和二十二碳六烯酸（DHA）等。n-3 PUFA 与心血管等疾病密切相关，系机体必须，且本身不能合成，须由饲粮供给[2]，目前关于肉鸡饲粮中添加富含 n-3 PUFA油脂的研究较多，多集中于沉积规律，而对肌肉的外观品质、肉色等影响的研究较少。PUFA 对肉品质具有负面影响，使脂肪变得松软、易氧化[3]，但也有研究表明不同饱和度的油脂构成的饲粮，对肉鸡的肌肉韧度，咀嚼性和风味均无显著影响[4]。饲粮添加PUFA 可降低血浆甘油三酯（TG）和低密度脂蛋白胆固醇（LDL-C）含量，提高高密度脂蛋白胆固醇（HDL-C）含量[5]，但也有研究表明，鱼油（fish oil，FO）和豆油（soybean oil,SO）不影响鸡血浆的 TG 和 LDL-C 含量[6]。SO 富含亚油酸（ $5 5 . 5 5 \%$ )，亚麻籽油富含亚麻酸（ $5 5 . 8 4 \%$ )，FO 富含 EPA 和 DHA，占总脂的 $30 \%$ 以上，CO 的 SFA含量较高，如棕榈酸。因此，本试验以常用 SO为对照组，研究饲粮分别添加CO、亚麻油（linseed oil，LO）和FO 对肉仔鸡的生长性能、屠宰性能、肌肉品质和血浆脂质代谢的影响，以期为油脂在肉鸡生产上的应用提供支撑。
+
+# 1材料与方法
+
+1.1试验材料
+
+CO：购自华都肉鸡公司；SO、LO 和FO：均由超市购买；油脂理化指标和脂肪酸的组
+
+成见表1。
+
+# 表1油脂理化指标及脂肪酸组成
+
+Table 1 Characteristics and the fatty acids of different oils   
+
+<html><body><table><tr><td>项目Items</td><td>豆油 SO</td><td>鸡油CO</td><td>亚麻油LO</td><td>鱼油FO</td></tr><tr><td>极性组分 Polar compounds/(x10 g/kg)</td><td>7.52</td><td>3.52</td><td>17.00</td><td>8.92</td></tr><tr><td>酸价 Acid value/(mg KOH/g)</td><td>0.041</td><td>1.100</td><td>2.100</td><td>0.860</td></tr><tr><td>过氧化值 Peroxide value/(mmol/kg)</td><td>0.84</td><td>3.4</td><td>2.8</td><td>4.3</td></tr><tr><td>碘值 Iodine value/(x10 g/kg)</td><td>134</td><td>80</td><td>178</td><td>174</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>12.5</td><td>19.2</td><td>10.3</td><td>13.8</td></tr><tr><td>C12:0/%</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.15</td></tr><tr><td>C14:0/%</td><td>0.01</td><td>1.48</td><td>0.06</td><td>5.07</td></tr><tr><td>C16:0/%</td><td>11.18</td><td>40.86</td><td>6.76</td><td>15.80</td></tr><tr><td>C16:1/%</td><td>0.01</td><td>9.90</td><td>0.10</td><td>6.56</td></tr><tr><td>C18:0/%</td><td>4.43</td><td>16.98</td><td>4.70</td><td>5.71</td></tr><tr><td>C18:1/%</td><td>22.33</td><td>2.88</td><td>0.84</td><td>17.37</td></tr><tr><td>C18:2/%</td><td>51.49</td><td>17.28</td><td>19.73</td><td>3.44</td></tr><tr><td>C18:3/%</td><td>6.90</td><td>0.31</td><td>62.62</td><td>0.24</td></tr><tr><td>C20:0/%</td><td>0.35</td><td>0.30</td><td>0.28</td><td>0.37</td></tr><tr><td>C20:1/%</td><td>0.02</td><td>0.98</td><td>1.36</td><td>3.46</td></tr><tr><td>C20:2/%</td><td>0.00</td><td>0.30</td><td>0.03</td><td>0.27</td></tr><tr><td>C20:4/%</td><td>0.15</td><td>0.45</td><td>0.01</td><td>1.92</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>C20:5/%</td><td>0.01</td><td>1.80</td><td>0.01</td><td>15.28</td></tr><tr><td>C22:6/%</td><td>0.01</td><td>1.78</td><td>0.01</td><td>16.05</td></tr><tr><td>C22:0/%</td><td>0.01</td><td>0.02</td><td>0.22</td><td>0.32</td></tr><tr><td>C22:1/%</td><td>0.01</td><td>0.01</td><td>2.46</td><td>1.23</td></tr><tr><td>C24:0/%</td><td>0.00</td><td>0.01</td><td>0.14</td><td>0.86</td></tr><tr><td>饱和脂肪酸 SFA²/%</td><td>15.98</td><td>59.65</td><td>12.17</td><td>28.28</td></tr><tr><td>单不饱和脂肪酸MUFA/%</td><td>22.37</td><td>13.77</td><td>4.76</td><td>28.62</td></tr><tr><td>多不饱和脂肪酸PUFA4/%</td><td>58.56</td><td>21.92</td><td>82.41</td><td>37.20</td></tr></table></body></html>
+
+数据均为实测值Values were all measured values。饱和脂肪酸SFA $\ c =$ C12:0+C14:0+C16:0+C18:0+C20:0+C22:0+C24:0 ； 单不饱和脂肪酸MUFA $=$ C16:1+C18:1+C20:1+C22:1 ； 多時 不 饱和 脂肪酸PUFA $\ c =$ C18:2+C18:3+C20:2+C20:4+C20:5+C22:6。
+
+# 1.2试验设计及饲粮
+
+采用单因子试验设计，从1日龄爱拔益加（AA）雄性雏鸡中选取360 只平均体重（BW）约 $ { 4 4 . 0 3 \mathrm { ~ g ~ } }$ 的肉仔鸡，随机分成4组，分别采食含有 SO、CO、LO和 FO 的饲粮，1\~21日龄油脂添加水平为 $3 . 0 \%$ ，22\~42日龄为 $3 . 5 \%$ 。每组6个重复，每个重复15只鸡。采用 4层立体网上养殖。试验饲粮参照NRC（1994）和《鸡饲养标准》（NY/T33-2004），结合《AA肉仔鸡饲养手册》配制，试验饲粮组成及营养水平见表2。
+
+# 表2试验饲粮组成及营养水平 (风干基础)
+
+Table 2Composition and nutrient levels of the experimental diets (air-dry basis） $\%$ （204号
+
+原料 Ingredients玉米 Corn
+
+<html><body><table><tr><td>豆粕 Soybean meal</td><td>36.55</td><td>29.24</td></tr><tr><td>油Oil</td><td>3.00</td><td>3.50</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.24</td><td>0.72</td></tr><tr><td>石粉 Limestone</td><td>1.61</td><td>1.67</td></tr><tr><td>食盐NaCl</td><td>0.35</td><td>0.35</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.28</td><td>0.30</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCI</td><td>0.19</td><td>0.27</td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.09</td><td>0.15</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.02</td><td>0.02</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.20</td><td>0.20</td></tr><tr><td>50%氯化胆碱 50% choline chloride</td><td>0.10</td><td>0.10</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.55</td><td>12.97</td></tr><tr><td>粗蛋白质CP</td><td>21.00</td><td>19.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.35</td><td>0.25</td></tr><tr><td>赖氨酸Lys</td><td>1.15</td><td>1.05</td></tr><tr><td>蛋氨酸Met</td><td>0.55</td><td>0.48</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.81</td><td>0.78</td></tr><tr><td>苏氨酸Thr</td><td>0.74</td><td>0.74</td></tr><tr><td>色氨酸 Trp</td><td>0.21</td><td>0.21</td></tr></table></body></html>
+
+diets: VA 12 500 IU,VD3 2 500 IU,VE 15 IU, VK3 2.65 mg,VB1 2 mg, VB2 6 mg,VB12 0.025  
+mg，生物素 biotin $0 . 3 5 \mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 \mathrm { m g }$ ，  
+烟酸 niacin $5 0 \mathrm { m g }$ （2矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of the  
+diets: Cu (as copper suloile) $8 \ : \mathrm { m g }$ ， Zn (as zinc suloile) $7 5 \mathrm { m g }$ ，Fe (as ferrous suloile) $8 0 \mathrm { m g }$   
+Mn (as manganese suloile) $1 0 0 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 1 5 \mathrm { m g }$ ， I(as potassium iodide) 0.35  
+mg.  
+1.3饲养管理试验期间自由饮食、饮水， $2 4 \mathrm { h }$ 光照。试验前3d室温 $3 3 ^ { \circ } \mathrm { C }$ ，此后每周降低 $2 \ \mathrm { { ^ circ C } }$ ，直  
+到 $2 4 ^ { \circ } \mathrm { C }$ 并维持。按照AA肉仔鸡饲养管理指南操作，正常防疫和消毒，试验鸡舍良好通风。  
+试验过程中，每日 $2 4 \mathrm { h }$ 制记录鸡舍温度和湿度，清扫卫生，记录死淘鸡数。  
+1.4 指标测定与方法  
+1.4.1 样品采集与制备分别于1、21和42日龄，以重复为单位称重鸡只及余料，计算平均BW、平均日增重  
+（ADG）、平均日采食量（ADFI)、料重比（F/G）和死亡率。分别于21和42日龄，每重复随机选取一只BW 接近该重复平均值的肉仔鸡，翅静脉  
+采血 $4 ~ \mathrm { m L }$ ，抗凝管存放，自然析出血浆， $3 \mathrm { \ t \ 0 0 0 \Delta r / m i n }$ 离心 $1 0 \ \mathrm { m i n }$ ，上清液分装于 $0 . 5 ~ \mathrm { m L }$   
+Eppendorf 管， ${ \sf - 2 0 } ~ ^ { \circ } \mathsf { C }$ 保存。屠宰，分离得全净膛、胸肌、腿肌和腹脂并称重，按照全国家  
+禽育种委员会的《家禽生产性能计算方法》计算全净膛率、胸肌率、腿肌率和腹脂率。于 42 日龄末，放血致死后的肉仔鸡完全剥离右侧胸肌，称重，测定肌肉pH、肉色、滴  
+水损失、蒸煮损失和剪切力。  
+1.4.2 测定方法nH 测定，分别干屠宰后 $4 5 ~ \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ （ $4 ^ { \circ } \mathrm { C }$ 存放)．利用 $\mathsf { p H }$ 计（CvherScan nH310 防
+
+水笔型，EUTECH公司，新加坡)，将探针刺入待测胸肌约1cm 深处，测定pH，计为 $\mathrm { p H } _ { 4 5 }$   
+$\operatorname* { m i n }$ 和 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ ，计算 $\mathsf { p H }$ 的下降值（△pH)。测定时，电极头完全包埋在肉样中，每个样品测定  
+3次，取其平均值。肉色测定：分别于屠宰后 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h } ( 4 ^ { \circ } \mathrm { C }$ 存放）测定。采用CIE-Lab 评分，用WSC-S  
+型测色色差计（上海精密科学仪器有限公司，上海）测定待测胸肌的亮度（ $\boldsymbol { \mathrm { ~ L ~ } } ^ { * }$ ）、红度(a\*)  
+和黄度（b\*）值。每个样品测定3次，取平均值。滴水损失：屠宰后 $4 5 \mathrm { m i n }$ 内，称取剪切纹理相似、形状规则的胸肌约 $3 0 \mathrm { g }$ ，称重（ $\mathbf { \widetilde { W } } _ { 1 } )$ ，  
+放置于自封袋中，充入氮气使之膨胀，减少肉样与自封袋内壁的接触，用尼龙绳悬吊于 $4 ^ { \circ } \mathrm { C }$   
+冰箱内，宰后 $2 4 \mathrm { ~ h ~ }$ 时，取出肉样用滤纸轻轻拭干表面水分再称重（ $\mathbf { \nabla } [ \mathbf { W } _ { 2 }$ )。滴水损失（ $( \%$ ）  
+=[（W1-W2）/Wi]×100。蒸煮损失：测定 $2 4 \mathrm { ~ h ~ }$ 滴水损失后的肉样，重新置于新自封袋中，务必使肉样表面与塑  
+料袋紧贴。将装有肉样的自封袋放入 $8 0 ~ ^ { \circ } \mathrm { C } .$ 水浴中，加热至样品中心的温度达 $7 5 ^ { \circ } \mathrm { C }$ ，取出，  
+流水冷却至室温。打开自封袋用滤纸轻拭肉样表面的水分后称重（ $\mathbf { W } _ { 3 }$ )。蒸煮损失（%）  
+=[（W2-W3） $/ W _ { 2 } ] { \times } 1 0 0 \$ 。剪切力：将测完蒸煮损失的肉样，按肌纤维走向修成2块长宽高分别为 $2 \mathrm { c m } { \times } 2 \mathrm { c m } { \times } 1$ cm  
+的条形肉样，测定过程中肌纤维走向与刀口垂直。采用TMS-Pro 嫩度分析仪（弗吉尼亚食  
+品技术有限公司，美国)，参数设置为传感器最大负荷 $1 0 0 \mathrm { N }$ ，垂直位移速度 $1 5 0 \mathrm { m m / m i n }$   
+跨度 $6 \mathrm { m m }$ 。每个肉样测试3次，取2块肉样的6次测定值的平均值为最终剪切力。血浆脂质代谢指标：TG、总胆固醇（TC）、HDL-C及LDL-C 含量，采用上海科华生物  
+技术有限公司生产的试剂盒，在KHB卓越310 型半自动生化分析仪上测定。  
+1.5 数据处理数据以平均值±标准差表示。采用 SPSS（16.0）软件的onewayANOVA 对4个组先进  
+行方差检验，再进行F检验和Duncan 氏法多重比较，以 $P { < } 0 . 0 5$ 为差异显著。  
+2.1不同油脂对肉仔鸡生长性能的影响由表3可知，21日龄时，各组间BW无显著差异（ $. P { > } 0 . 0 5 \$ )；42日龄时，与SO组相比，  
+FO组BW显著降低（ $. P { < } 0 . 0 5 \ '$ )，CO与LO组BW均无显著差异（ $( P { > } 0 . 0 5 )$ ，且FO组BW显  
+著低于CO组（ $. P { < } 0 . 0 5 )$ 。1\~21日龄，各组间ADG无显著差异（ $. P { > } 0 . 0 5 .$ )，但22\~42日龄和1\~42日龄，与SO组  
+相比，FO组ADG显著降低（ $P { < } 0 . 0 5$ ），CO与LO组均无显著差异（ $. P { > } 0 . 0 5 \ '$ ，且FO组显  
+著低于CO组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）。各组肉仔鸡的ADFI在1\~21日龄、22\~42日龄和1\~42 日龄无显著差异（ $P { > } 0 . 0 5 \$ ），但  
+在 22\~42日龄（ ${ \mathrm { \cdot } } P { = } 0 . 0 6 2$ ）和1\~42日龄（ $_ { P = 0 . 0 8 7 }$ ）有变化的趋势，SO组ADFI最高，FO  
+组最低，CO 组和LO 组居中。各组的料重比及死亡率在各生长期均无显著差异（ $P { > } 0 . 0 5$ ）。
+
+表3不同油脂对肉仔鸡生长性能的影响  
+Table 3Effects of dietary supplementation with different oils on growth performance in broilers   
+
+<html><body><table><tr><td>项目Items</td><td>豆油 SO</td><td>鸡油 CO</td><td>亚麻油 LO</td><td>鱼油FO</td><td>P-值P-valu</td></tr><tr><td>21日龄体重</td><td>913.00±44.20</td><td>925.60±43.21</td><td>875.56±59.22</td><td>873.67±45.18</td><td>0.302</td></tr><tr><td>BW of 21 days of age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42日龄体重</td><td></td><td></td><td>2 598.07±90.25a 2 632.59±88.81a 2 535.60±120.48ab 2 414.47±135.21b</td><td></td><td>0.020</td></tr><tr><td>BW of 42 days of age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1~21 日龄 Aged from1 to 21 days</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重ADG/g</td><td>40.51±1.82</td><td>41.54±2.07</td><td>38.76±3.89</td><td>39.23±2.32</td><td>0.317</td></tr><tr><td>平均日采食量ADFI/g</td><td>53.77±2.31</td><td>54.69±2.47</td><td>52.92±5.42</td><td>52.62±2.28</td><td>0.740</td></tr><tr><td>料重比F/G</td><td>1.33±0.03</td><td>1.32±0.02</td><td>1.37±0.05</td><td>1.34±0.03</td><td>0.126</td></tr></table></body></html>
+
+<html><body><table><tr><td>死亡率Mortality/%</td><td>6.82±4.55</td><td>4.55±7.61</td><td>6.06±7.42</td><td>3.03±4.69</td><td>0.781</td></tr><tr><td>22~42 日龄 Aged from1 to 21 days</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>79.62±3.32a</td><td>81.22±5.59a</td><td>78.91±6.23a</td><td>71.46±5.53b</td><td>0.031</td></tr><tr><td>平均日采食量 ADFI/g</td><td>154.99±7.77</td><td>148.21±7.19</td><td>142.26±13.67</td><td>135.52±12.21</td><td>0.062</td></tr><tr><td>料重比F/G</td><td>1.95±0.09</td><td>1.83±0.12</td><td>1.81±0.18</td><td>1.91±0.25</td><td>0.561</td></tr><tr><td>死亡率Mortality/%</td><td>2.78±5.56</td><td>0.00±0.00</td><td>1.67±4.08</td><td>5.00±8.37</td><td>0.461</td></tr><tr><td>1~42 日龄 Aged from1 to 21 days</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>58.59±1.83a</td><td>60.06±2.38a</td><td>57.35±2.93ab</td><td>54.23±2.75b</td><td>0.008</td></tr><tr><td>平均日采食量 ADFI/g</td><td>100.48±4.47</td><td>98.36±4.27</td><td>94.24±7.41</td><td>91.22±6.33</td><td>0.087</td></tr><tr><td>料重比 F/G</td><td>1.72±0.05</td><td>1.64±0.06</td><td>1.64±0.09</td><td>1.69±0.14</td><td>0.575</td></tr><tr><td>死亡率Mortality/%</td><td>9.09±7.42</td><td>4.55±7.61</td><td>7.58±6.84</td><td>7.58±6.84</td><td>0.772</td></tr></table></body></html>
+
+2 同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。   
+3 In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$   
+4 while with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2不同油脂对肉仔鸡屠宰性能的影响
+
+由表4可知，各组除肉仔鸡的胸肌率差异显著（ $. P { < } 0 . 0 5 )$ ，其他屠宰性能指标均未见显著变化（ $( P { > } 0 . 0 5 )$ ；与SO组相比，21日龄时CO组的胸肌率显著降低（ $. P { < } 0 . 0 5 )$ ，42日龄时FO 组的胸肌率显著降低（ $. P { < } 0 . 0 5 )$ 。
+
+# 表4不同油脂对肉仔鸡屠宰性能的影响
+
+Table 4Effects of different oils on carcass quality in broilers %   
+
+<html><body><table><tr><td>项目Items</td><td>日龄 Days of age</td><td>豆油 SO</td><td>鸡油 CO</td><td>亚麻油 LO</td><td>鱼油 FO</td><td>P-值P-value</td></tr><tr><td>全净膛率 Dressing</td><td>21</td><td>70.73±1.80</td><td>70.07±3.08</td><td>70.95±2.13</td><td>69.50±2.87</td><td>0.822</td></tr><tr><td>percentage</td><td>42</td><td>73.04±1.27</td><td>72.95±0.77</td><td>73.77±2.75</td><td>73.15±2.18</td><td>0.891</td></tr></table></body></html>
+
+<html><body><table><tr><td>胸肌率 Breast</td><td>21</td><td>21.64±0.87a</td><td>19.47±0.72b</td><td>20.56±1.80ab</td><td>21.99±1.41a</td><td>0.021</td></tr><tr><td>muscle rate</td><td>42</td><td>25.89±0.80a</td><td>26.28±1.91a</td><td>24.88±1.36a</td><td>21.93±2.10b</td><td>0.002</td></tr><tr><td>腿肌率Leg muscle</td><td>21</td><td>17.84±0.77</td><td>17.93±1.72</td><td>17.78±1.05</td><td>18.24±0.85</td><td>0.909</td></tr><tr><td>rate</td><td>42</td><td>20.64±1.91</td><td>19.20±1.61</td><td>20.31±1.38</td><td>19.25±1.03</td><td>0.302</td></tr><tr><td>腹脂率 Abdominal</td><td>21</td><td>1.47±0.23</td><td>1.43±0.25</td><td>1.34±0.13</td><td>1.48±0.23</td><td>0.665</td></tr><tr><td>fat</td><td>42</td><td>1.92±0.27</td><td>1.89±0.18</td><td>1.94±0.30</td><td>1.89±0.59</td><td>0.996</td></tr></table></body></html>
+
+# 131 2.3 不同油脂对肉仔鸡肌肉品质的影响
+
+由表5可知，与SO组相比，CO和FO组的滴水损失均显著增加（ $_ { \cdot } P { < } 0 . 0 5 { \mathrm { : } }$ ；各组肌肉的蒸煮损失和剪切力无显著差异（ $P { > } 0 . 0 5 \$ ；各组胸肌肌肉的 $\mathrm { \ p H } _ { 4 5 } ~ \mathrm { { \ m i n } }$ 和 $\Delta \mathfrak { p } \mathrm { H }$ 差异显著（ $\cdot P { < } 0 . 0 5 )$ ，CO 和LO组显著高于SO组（ $P { < } 0 . 0 5 )$ ；与 SO 组相比，CO 组胸肌肌肉 ${ \mathrm { L } } _ { 4 5 \operatorname* { m i n } } ^ { * }$ 值显著增加（ $\scriptstyle P < 0 . 0 5 .$ )，FO组显著降低（ $P { < } 0 . 0 5 \mathrm { : }$ )，LO组无显著差异（ $P { < } 0 . 0 5 )$ ，放置 $2 4 \mathrm { ~ h ~ }$ 后，仅FO 组肌肉的 $\boldsymbol { \mathrm { L } ^ { * } { } _ { 2 4 \mathrm { ~ h ~ } } }$ 值显著降低（ $P { < } 0 . 0 5 \rangle$ ；与SO组相比，胸肌肌肉 $\mathrm { a ^ { * } { } _ { 4 5 } \ m i n }$ 值在LO和FO 组显著增加（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，CO组无显著差异（ $( P { > } 0 . 0 5 )$ ，放置 $2 4 \mathrm { h }$ 后， $\mathbf { a } _ { 2 4 \mathrm { h } } ^ { * }$ 值仅CO组显著降低（ $( P { < } 0 . 0 5 )$ ；与 SO 组相比，肌肉 $\boldsymbol { \ b } _ { 4 5 \operatorname* { m i n } } ^ { * }$ 值在CO 和LO 组显著增加（ $. P { < } 0 . 0 5 )$ ， $\boldsymbol { \ b } _ { \ 2 4 } ^ { * }$ h值在CO、LO 和FO 组均显著增加（ $_ { . } { P } { < } 0 . 0 5 )$ 。
+
+# 表5不同油脂对肉仔鸡胸肌肉品质的影响
+
+Table 5Effects of different oils on meat quality of breast muscle in broilers   
+
+<html><body><table><tr><td>项目Items</td><td>豆油 SO</td><td>鸡油 CO</td><td>亚麻油 LO</td><td>鱼油 FO</td><td>P值P-value</td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.34±0.52b</td><td>4.28±1.57a</td><td>3.11±0.93ab</td><td>3.78±0.73a</td><td>0.043</td></tr><tr><td>蒸煮损失 Cooking loss/%</td><td>21.98±2.09</td><td>21.63±2.19</td><td>19.82±2.39</td><td>21.43±2.28</td><td>0.400</td></tr><tr><td>剪切力 Shear value/N</td><td>58.21±6.53</td><td>57.02±4.00</td><td>56.91±6.88</td><td>61.94±6.36</td><td>0.466</td></tr><tr><td>pH45 min</td><td>6.58±0.03b</td><td>6.69±0.07a</td><td>6.69±0.10a</td><td>6.60±0.03ab</td><td>0.029</td></tr><tr><td>pH24 h</td><td>5.99±0.07</td><td>5.86±0.03</td><td>5.97±0.13</td><td>5.93±0.14</td><td>0.199</td></tr></table></body></html>
+
+<html><body><table><tr><td>△pH</td><td>0.57±0.04b</td><td>0.81±0.09a</td><td>0.78±0.14a</td><td>0.71±0.14ab</td><td>0.040</td></tr><tr><td>45 min 亮度 L*45 min</td><td>47.64±1.45b</td><td>53.27±1.76a</td><td>45.31±2.46bc</td><td>44.39±2.22c</td><td><0.001</td></tr><tr><td>45 min 红度 a45 min</td><td>6.66±0.48b</td><td>5.62±0.96b</td><td>8.37±0.51a</td><td>8.37±0.87a</td><td><0.001</td></tr><tr><td>45 min 黄度 b 45 min</td><td>14.41±1.83b</td><td>18.35±0.82a</td><td>18.29±1.42a</td><td>14.78±0.63b</td><td><0.001</td></tr><tr><td>24h亮度L*24h</td><td>57.47±2.72a</td><td>57.05±2.13a</td><td>54.03±3.06ab</td><td>51.08±2.44b</td><td>0.004</td></tr><tr><td>24h红度a*24h</td><td>6.41±0.19a</td><td>4.31±1.44b</td><td>6.74±0.49a</td><td>6.61±0.63a</td><td>0.003</td></tr><tr><td>24h黄度 b24h</td><td>13.19±0.77c</td><td>18.17±1.96a</td><td>16.96±1.53ab</td><td>15.20±0.68b</td><td><0.001</td></tr></table></body></html>
+
+2.4不同油脂对肉仔鸡血浆脂质代谢指标的影响
+
+由表6可知，与CO组相比，21和42日龄血浆TC含量在LO组显著降低（ $P { < } 0 . 0 5 )$ 一在 SO 和FO 组未见显著差异（ $. P { > } 0 . 0 5 )$ ；与 SO 组相比，42日龄时血浆TG含量在LO组显著降低（ $\scriptstyle P < 0 . 0 5 .$ )，在CO和FO组未见显著差异（ $P { > } 0 . 0 5 \$ )；与SO 组相比，42日龄HDL-C含量在CO组显著增加（ $. P { < } 0 . 0 5 )$ ，在LO和FO组无显著差异（ $( P { > } 0 . 0 5 )$ ；与SO 组相比，42日龄时，LO组LDL-C含量显著降低（ $P { < } 0 . 0 5 )$ ，CO和FO组均无显著差异（ $( P { > } 0 . 0 5 )$ ：21日龄血浆TG 和LDL-C含量在各组间均无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 表6不同油脂对血浆脂质代谢指标的影响
+
+Table 6Effects of different oils on plasma lipid metabolism parameters in broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">日龄 Days</td><td rowspan="2">亚麻油 LO</td><td rowspan="2">鱼油FO</td><td>P值</td></tr><tr><td>of age</td><td>豆油 SO</td><td>鸡油 CO</td><td>P-value</td></tr><tr><td rowspan="3">总胆固醇 TC/(mmol/L)</td><td>21</td><td>2.80±0.23ab</td><td>3.09±0.17a</td><td>2.68±0.23b</td><td>2.76±0.26ab</td><td>0.049</td></tr><tr><td>42</td><td>3.00±0.40ab</td><td>3.37±0.47a</td><td>2.37±0.56b</td><td>3.03±0.20ab</td><td>0.028</td></tr><tr><td>21</td><td>0.42±0.08</td><td>0.46±0.06</td><td>0.43±0.05</td><td>0.45±0.10</td><td>0.838</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>42</td><td>0.64±0.10a</td><td>0.69±0.07a</td><td>0.50±0.08b</td><td>0.68±0.12a</td><td>0.013</td></tr><tr><td>高密度脂蛋白胆固醇</td><td>21</td><td>2.48±0.42ab</td><td>2.74±0.05a</td><td>2.42±0.11ab</td><td>2.17±0.26b</td><td>0.028</td></tr></table></body></html>
+
+<html><body><table><tr><td>HDL-C/(mmol/L)</td><td>42</td><td>2.42±0.22b</td><td>2.87±0.12a</td><td>2.14±0.58b</td><td>2.33±0.12b</td><td>0.015</td></tr><tr><td>低密度脂蛋白胆固醇</td><td>21</td><td>0.44±0.07</td><td>0.44±0.07</td><td>0.41±0.08</td><td>0.44±0.07</td><td>0.869</td></tr><tr><td>LDL-C/(mmol/L)</td><td>42</td><td>0.48±0.13a</td><td>0.60±0.12a</td><td>0.28±0.01b</td><td>0.46±0.07a</td><td>0.002</td></tr></table></body></html>
+
+3讨论
+
+3.1不同油脂对肉仔鸡生长性能的影响
+
+本试验发现，FO 显著降低了肉仔鸡42日龄的BW、22\~42日龄和1\~42日龄的ADG，生长速度显著低于SO组，可能与采食量降低有关。本试验中，FO组肉仔鸡在22\~42日龄和1\~42 日龄的采食量均较低，与FO 腥味影响适口性有关；FO不饱和程度高，贮存过程中易被氧化、酸败，致饲料品质下降，影响动物对其利用；研究表明FO降低了肉仔鸡[7]和大鼠[8]的ADFI、ADG 和BW，与本试验结果一致。此外，饲粮添加不同浓度（0、 $2 . 5 \%$ 、 $3 . 0 \%$ 、3.5%）的FO对肉仔鸡的生长性能影响不同，综合考虑采食量和饲料转化率， $2 . 5 \%$ 的FO添加量效果最佳[9]，而林媛媛[10]研究表明，饲粮添加 $2 \%$ 的FO 较 SO 组的ADG 和饲料转化效率显著下降，因此FO 的使用应注意添加剂量。本试验中CO组的生长性能好于SO组，可能与CO 中含有较高水平的棕榈酸有关，本试验用CO 中含有 $4 0 . 8 6 \%$ 的棕榈酸。研究表明，添加以棕榈油为主的配比油脂，肉仔鸡试验前期的 ADG 和采食量均显著增加[1]，与 SO 和FO 相比，棕榈油可提高肉仔鸡的免疫机能[12]，饲粮添加以棕榈油为主的油脂，可提高十二指肠的绒毛高度与隐窝深度的比值，改善肉仔鸡小肠组织形态[13]，以CO为脂肪源，可提高营养物质消化率[14]，从而促进肉仔鸡生长。
+
+# 3.2不同油脂对肉仔鸡屠宰性能的影响
+
+本试验中CO组肉仔鸡的胸肌率在21日龄较低，可能是由于BW 增加而骨骼比例较高，肉仔鸡在生长前期主要为骨骼的生长和发育，CO促进了骨骼生长，从而导致胸肌比例略低。而 42 日龄时，FO 组胸肌率显著降低，可能与其易氧化，生长性能显著降低有关。这与Navidshad[7的研究结果一致，饲粮中分别添加 $7 . 0 \% 5 0$ 、 $7 . 0 \% \mathrm { F O }$ 、 $3 . 5 \% \mathrm { S O }$ 和 $3 . 5 \% \mathrm { F O }$ 的混合油脂，肉仔鸡的ADG、BW和胸肌率在 $7 . 0 \% \mathrm { F O }$ 组显著下降，与血浆TG含量在7.0%FO组显著降低有关，EPA 和DHA 可降低TG 合成过程中酶的活性[15]，降低脂肪沉积。
+
+# 3.3不同油脂对肉仔鸡肌肉品质的影响
+
+滴水损失是反映肌肉系水能力的量化指标。肌肉的pH与动物肌肉糖原含量及降解速度有关[16]，是影响系水力的主要因素。屠宰后，肌肉从有氧代谢转化为无氧酵解，乳酸的产生和沉积致pH快速下降，引起肌肉蛋白质变性，影响肌肉品质[17]。同时，肌肉品质与其氧化状态有关，肌肉氧化和抗氧化的平衡状态决定脂类和蛋白质氧化的稳定性[18-19]，蛋白质的氧化变性会降低脂肪酸的消化利用率，影响肉品质[20]。本试验中，LO 组 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 显著升高，表明短时间内，肌肉品质较好。LO 组 $\Delta \mathrm { p H }$ 显著升高，且滴水损失稍有增加，一方面由于pH45 min较高所致，另一方面，肉仔鸡肌肉中PUFA沉积增加，肌肉更易被氧化，放置 $2 4 \mathrm { ~ h ~ }$ （204号后，无氧酵解增加，乳酸生成增多，使得 $\Delta \mathrm { p H }$ 增加，降低了肌肉的系水力。此外，LO 和FO 组肌肉肉色均得到改善，肌肉a\*值增加， $\mathbf { L } ^ { * }$ 值降低，可能是PUFA与肌肉肌红蛋白分子的氧化抗性有关。鲜肉的红色与肌肉中的肌红蛋白的种类、数量和化学性质有关[2]，但动物体内的物质如过氧化物、羟自由基等，均可诱发亚铁 $( \mathrm { F e } ^ { 2 + } )$ 肌红蛋白氧化形成高铁 $( { \mathrm { F e } } ^ { 3 + } .$ ）肌红蛋白，降低肉色[22]。CO 增加了肌肉滴水损失和 $\Delta \mathfrak { p } \mathrm { H }$ ，恶化了肉色（ $\boldsymbol { \mathrm { ~ L ~ } } ^ { * }$ 值、b\*值升高,a\*值降低）和肉品质，可能与SFA对肌纤维的类型和能量代谢的影响有关。肌纤维类型及其组成决定肌肉的能量代谢方式，氧化型肌纤维含量高，酵解型肌纤维含量低，肉质较好。研究表明，SFA（主要成分是棕榈酸）与UFA（主要成分是亚油酸）相比，氧化型肌纤维比例在 SFA组显著降低，肉品质降低[23]。而且，饲粮添加以棕榈油为主的配比油脂，与添加 SO相比，肉仔鸡胸肌24 和 $^ { 4 8 \mathrm { { h } } }$ 的滴水损失均显著增加[]，与本试验结果一致。可见，饲粮添加CO后，肉仔鸡的肉品质较差。
+
+3.4不同油脂对肉仔鸡血浆脂质代谢指标的影响本试验中LO降低了血浆TG、TC和LDL-C含量，与李志琼[24]的研究结果一致。研究表明，α-亚麻酸可降低蛋鸡血清和肝脏中的TG、TC和LDL-C含量，其主要通过改变血浆和肝脏中载脂蛋白（apo-B）含量，降低乙酰辅酶羧化酶（ACC）和HMG-CoA还原酶（HMGR）的活性，限制胆固醇和TG的合成。FO对血浆TG、TC和LDL-C的含量均无显著影响，与Royan等[25]的研究结果相似，但也有研究表明，饲粮中添加7.0%FO可降低肉仔鸡血浆TC含量[7],随着FO（ $0 \sim 2 \%$ ）添加量的增加，肉仔鸡血清TC、LDL-L含量显著下降，HDL-L含量上升[26],产生上述差异的原因可能是剂量和FO品质的不同。而Safamehr等[27]研究表明，随着FO添加量（ $0 { \sim } 4 \%$ ）的增加，TC的含量在饲喂7d后显著降低，而饲喂42d后TC、TG和LDL-L的含量并没有显著下降，表明FO对肉仔鸡脂质代谢的影响在生长早期效果明显，而后期并无显著影响。本试验中，CO组血浆HDL-C含量显著增加，可能是由于TC含量增加的缘故，同时LDL-C含量也相应增加。CO的SFA含量较高，饲粮中添加SFA，大鼠血清的TC和LDL-C含量均显著增加，这可能与SFA降低胆固醇 $7 a$ -羟化酶（CYP7Ai）的表达量阻止胆固醇代谢有关[8]，且研究表明，肉仔鸡血浆中TC的含量与饲粮中PUFA的含量成反比，与SFA的含量成正比[28]。
+
+# 3结论
+
+与饲喂SO相比，CO不影响肉仔鸡的生长性能，但肉色较差，且系水力不佳；FO降低了肉仔鸡的生长性能和肌肉系水力，但肉色较好；LO对肉仔鸡的生长性能无不良影响，可改善肉仔鸡的肉色，且提高血浆脂质代谢水平。因此，LO可广泛应用于肉仔鸡的生产，FO和CO单独饲喂会影响肉仔鸡的生长性能或肉品质，使用时应注意添加剂量或考虑与其他油脂混合使用。  
+参考文献:  
+[1] KROGDAHL A.Digestion and absorption of lipids in poultry[J].Journal of  
+Nutrition,1985,115(5):675-685.  
+[2] SCHWALFENBERG G K.Omega-3 fatty acids:their beneficial role in cardiovascular
+
+health[J].Canadian Family Physician,2006,52(6):734-740.
+
+[3] LUCIANO G,MOLONEY A P,PRIOLO A,et al. Vitamin E and polyunsaturated fatty acids in bovine muscle and the oxidative stability of beef from cattle receiving grass or concentrate-based rations[J].Journal of Animal Science,2010,89(11):3759-3768.   
+[4] UCHEWA E N.Fatty acid content and carcass quality of broiler chicken fed diet formulated with saturated and unsaturated oils[J].International Journal of Agriculture Innovations and Research,2013,2(2):221-228.   
+[5] SAEZ G,BAEZA E,BERNADET M D,et al.Is there a relationship between the kinetics of lipoprotein lipase activity after a meal and the susceptibility to hepatic steatosis development in ducks?[J].Poultry Science,2010,89(11):2453-2460.   
+[6] ALPARSLAN G,OZDOGAN M.The effects of diet containing fish oil on some blood parameters and the performance values of broilers and cost eficiency[J].International Journal of Poultry Science,2006,5(5):415-419.   
+[7] NAVIDSHAD B.Effects of fish (Clupeonella cultriventris,Caspian sea originated） oil supplement on the serum lipoproteins and production of @-3 fatty acids enriched broiler meat[J].Journal of Veterinary Research,2013,68(4):405-414.   
+[8]时皎皎.不同膳食脂肪酸构成对大鼠脂质代谢的影响及其分子机制研究[D].硕士学位论 文.重庆:第三军医大学,2007.   
+[9] DAS G B,HOSSAIN M E,AKBAR M A.Effects of different levels of fish oil supplementation on performance of broilers[J].Iranian Journal of Applied Animal Science,2O15,5(2):377-384. [10] 林媛媛.不同油脂对不同品种肉鸡生产性能及肌肉品质影响的研究[D].硕士学位论文.南 昌：江西农业大学,2003.   
+[11] 安文俊.日粮中添加不同配比油脂对肉鸡生产性能、肉品质及脂肪代谢影响的研究[D]. [12] DAS G B,AHAD A,HOSSAIN M E,et al.Eect of different oil supplements on humoral immune responseandlipidprofileincommercialbroiler[J].PakistanVeterinary Journal,2014,34(2):229-23.   
+[13]寇涛,董丽,安文俊,等.日粮中不同油脂对肉鸡小肠组织形态的影响[J].中国粮油学 报,2014,29(1):72-77.   
+[14] 杨颖,张铁涛,岳志刚,等.饲粮脂肪源对育成期水貂生长性能和营养物质消化代谢的影响 [J].动物营养学报,2014,26(2):380-388.   
+[15] RUSTAN A C,NOSSEN J O,CHRISTIANSEN E N,et al.Eicosapentaenoic acid reduces hepatic synthesis and secretion of triacylglycerol by decreasing the activity of acyl coenzyme A:1,2-diacylglycerol acyltransferase[J].Journal of Lipid Research,1988,29(11):1417-1426. [16] BENDALL J R,SWATLAND HJ.A review of the relationships of $\mathrm { p H }$ with physical aspects of pork quality[J].Meat Science,1988,24(2):85-126.   
+[17] FLETCHER D L,QIAO M,SMITH D P.The relationship of raw broiler breast meat color and pH to cooked meat color and pH[J].Poultry Science,2000,79(5):784-788.   
+[18] LUCIANO G,PAUSELLI M,SERVILI M,et al.Dietary olive cake reduces the oxidation of lipids,including cholesterol,in lamb meat enriched in polyunsaturated fatty acids[J].Meat Science,2013,93(3):703-714.   
+[19] GRAVADOR R S,JONGBERG S,ANDERSEN M L,et al.Dietary citrus pulp improves protein stability in lamb meat stored under aerobic conditions[J].Meat Science,2014,97(2):231-236.   
+[20] LUND M N,HEINONEN M,BARON C P,et al.Protein oxidation in muscle foods:a review[J].Molecular Nutrition & Food Research,2011,55(1):83-95.
+
+[21] 程志斌,苏子峰,廖启顺,等.肌红蛋白影响畜禽活体肌肉和宰后鲜肉肉色的研究进展[J].中国畜牧杂志,2009,45(21):56-60.
+
+[22] 王玮,汤祥明,金邦荃.高铁肌红蛋白含量和高铁肌红蛋白还原酶活性与冷鲜肉肉色稳定 性关系的研究[J].食品科学,2008,29(7):94-97.   
+[23] 任阳.饱和与不饱和脂肪酸对猪肌纤维组成的影响及其AMPK途径研究[D].博士学位论 文.杭州:浙江大学,2014.   
+[24] 李志琼.α-亚麻酸对产蛋鸡脂质代谢及蛋黄胆固醇沉积的影响及其机理[D].博士学位论 文.雅安:四川农业大学,2007.   
+[25] ROYAN M,MENG G Y,OTHMAN F,et al.Effects of dietary conjugated linoleic acid,fish oil and soybean oil on body-fat deposition and serum lipid fractions in broiler chickens[J].African Journal of Biotechnology,2013,12(51):7133-7137.   
+[26] 刘卫国.不同油脂组合对鸡肉n-3多不饱和脂肪酸富集的影响[D].硕士学位论文.郑州:河 南农业大学,2010.   
+[27] SAFAMEHR A,AGHAEI N,MEHMANNAVAZ Y.The influence of different levels of dietary fish oil on the performance,carcass traits and blood parameters of broiler chickens[J].Research Journal of Biological Sciences,2008,3(10):1202-1207.   
+[28] DURAISAMY K,SENTHILKUMAR M,MANI K.Effect of saturated and unsaturated fat on the performance,serum and meat cholesterol level inbroilers[J].Veterinary World,2013,6(3):159-162.   
+Effects of Different Oils on Growth Performance, Carcass Quality and Meat Quality in Broilers ZHANG Yanan QI Bo ZHANG Haijun\* WANG JingWU Shugeng\*QI Guanghai (Key Laboratory of Feed Biotechnology of Ministry ofAgriculture, Feed Research Institute,
+
+Abstract: The current study was aim to investigate the effects of diet supplemented different oils on growth performance,carcass quality， meat quality and plasma lipid metabolism in broilers. Three hundred and sixty 1-d-old healthy male Arbor Acres broilers were randomly assigned to 4 groups fed 4 diets supplemented with soybean oil (SO,control),chicken oil (CO),linseed oil (LO) and fish oil (FO), respectively. The supplemental level of oil was $3 . 0 \%$ during starter phase (1 to 21 days of age) and $3 . 5 \%$ during later phase (22 to 42 days of age), respectively. The results showed as follows: 1) body weight at 42 days of age and average daily gain (ADG) in later phase and whole phase in broilers of FO group were significantly decreased compared with SO and CO groups $( P { < } 0 . 0 5 )$ . 2) Compared with SO group, breast muscle percentage of CO group at 21 days of age was significantly decreased $( P { < } 0 . 0 5 )$ , however that of FO group at 42 days of age was significantly decreased ( $( P { < } 0 . 0 5 )$ . 3) Compared with SO group, drip loss of CO and FO groups was significantly increased $( P { < } 0 . 0 5 )$ $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ and $\Delta \mathrm { p H }$ of CO and LO groups were significantly increased $( P { < } 0 . 0 5 )$ ; light intensity value after $4 5 ~ \mathrm { { m i n } }$ of slaughter( $\cdot \mathrm { L } ^ { \ast } { } _ { 4 5 \mathrm { m i n } }$ ）of CO group was significantly increased $( P { < } 0 . 0 5 )$ ，while ${ \mathrm { L } } ^ { * } { } _ { 4 5 { \mathrm { ~ m i n } } }$ and ${ \mathrm { ~ L ~ } } _ { 2 4 \mathrm { ~ h ~ } } ^ { * }$ values of FO group were significantly decreased $( P { < } 0 . 0 5 )$ ; red value after $4 5 \ \mathrm { m i n }$ of slaughter $( \mathrm { a } ^ { * } \mathrm { 4 5 ~ m i n } )$ of LO and FO groups was significantly increased $( P { < } 0 . 0 5 )$ ，but $\mathbf { a } _ { ~ 2 4 ~ \mathrm { ~ h ~ } } ^ { * }$ value in broilers fed CO was significantly lower $( P { < } 0 . 0 5 )$ ; yellow value after $4 5 ~ \mathrm { { m i n } }$ of slaughter $( \mathrm { b } ^ { \ast } _ { 4 5 \mathrm { m i n } } )$ and $\boldsymbol { \mathbf { b } } _ { 2 4 \mathrm { ~ h ~ } } ^ { * }$ value of CO and LO groups were significantly higher $( P { < } 0 . 0 5 )$ ，and $\boldsymbol { \mathbf { b } } _ { \ 2 4 \mathrm { ~ h ~ } } ^ { * }$ value of FO group was significantly increased （2 $( P { < } 0 . 0 5 )$ . 4) Total cholesterol (TG) content in plasma of LO group at ages of 21 and 42 days was significantly lower than that of CO group. Compared with SO group, triglyceride (TC) and low density lipoprotein cholesterol (LDL-C) contents in plasma at age of 42 days of LO group were significantly decreased $( P { < } 0 . 0 5 )$ ; high density lipoprotein cholesterol (HDL-C) content at age of
+
+42 days of CO group was significantly higher $( P { < } 0 . 0 5 )$ .Therefore,comparison with SO,growth performance in broilers fed CO is not affected but the meat color is lower and drip loss are higher; better meat color,lower growth performance and higher drip loss of muscle are obtained in broilers fed FO; LO has no effect on the growth performance of broilers,can regulate the plasma lipid metabolism, and improve meat color.   
+Key words: lipid oil; growth performance; meat quality; broilers

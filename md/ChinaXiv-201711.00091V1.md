@@ -1,0 +1,171 @@
+# DOI:10.5846/stxb201511112283
+
+鲁绍伟，李少宁,陈波，刘海龙,赵东波，陈鹏飞.北京西山不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度及叶片吸附量变化规律.生态学报，2017，37(19)：6588-6596. Lu SW,LiSN,Chen B,LiuHL,ZhaoDB,ChenPF.Variations in $\mathrm { P M } _ { 2 . 5 }$ concentration and leaf adsorption capacity of Pinus tabulaeformis forests at different altitudes on Beijing Xishan Mountains.Acta Ecologica Sinica,2O17,37(19）:6588-6596.
+
+# 北京西山不同海拔油松林 $\mathbf { P } \mathbf { M } _ { 2 . 5 }$ 浓度及叶片吸附量变化规律
+
+鲁绍伟1,²，李少宁1,²，陈波1，\*，刘海龙³，赵东波³，陈鹏飞
+
+1北京市农林科学院林业果树研究所,北京燕山森林生态系统定位观测研究站,北京100093  
+2 林果业生态环境功能提升协同创新中心，北京100093  
+3北京市西山试验林场，北京100093
+
+摘要：以北京西山不同海拔梯度油松人工林为研究对象,对油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度变化和叶片 $\mathrm { P M } _ { 2 . 5 }$ 吸附量进行分析,并应用电子显微镜对不同海拔油松叶表面微形态特征进行观察,阐释叶片吸附 $\mathrm { P M } _ { 2 . 5 }$ 差异。结果表明：随着海拔升高 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度逐渐降低,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化均呈典型的双峰曲线,7:00 和19:00是一天的两个峰值,最小值出现在13:00—15:00左右;从不同月份看,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度最高值出现在冬季的2月，最低值在8月；不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度全年均值为 $8 4 ~ \mathrm { m } ( \mathrm { ~ ( ~ } 1 0 2 . 2 8 \pm 1 8 . 4 4 \mathrm { ) } \mathrm { ~ \textmu g } / \mathrm { m } ^ { 3 } \mathrm { ~ ) } > 1 1 0 \mathrm { ~ m } ( \mathrm { ~ ( ~ } 9 4 . 1 8 \pm 1 8 . 3 4 \mathrm { ) }$ $) \ | \arcsin ^ { 3 } \rangle > 1 1 0 \mathrm { ~ m ( ( 9 4 . 1 8 \pm 1 8 . 3 4 ) ~ \mu g / m ^ { 3 } ~ ) > 1 6 0 ~ m ( ( 8 1 . 5 3 \pm 1 9 . 2 3 ) ~ \mu g / m ^ { 3 } ) > 2 3 0 ~ m ( ( 7 5 . 3 9 \pm 1 0 . 0 0 0 ) ~ \mu g / m ^ { 3 } ) > 1 1 0 8 . 3 4 5 , } $ 15.71) ${ \mu } \mathrm { g } / \mathrm { m } ^ { 3 }$ );随着海拔升高单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量逐渐减小,每升高 $5 0 ~ \mathrm { m }$ ,单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量降低 $2 3 . 2 5 \%$ ,每公顷$\mathrm { P M } _ { 2 . 5 }$ 吸附量下降 $2 6 . 4 3 \%$ ,不同海拔油松林每公顷 $\mathrm { P M } _ { 2 . 5 }$ 吸附量全年均值为 $8 4 ~ \mathrm { m } ( \textrm { ( 8 . 6 1 \pm 1 . 0 8 ) } ~ \mathrm { k g / h m ^ { 2 } } ) > 1 1 0 ~ \mathrm { m } ( \textrm { ( 7 . 3 0 \pm 0 . 9 4 ) }$ （20$\mathrm { k g / h m ^ { 2 } } ) > 1 6 0 \mathrm { ~ m } ( ( 6 . 3 5 \pm 0 . 9 9 ) \mathrm { k g / h m ^ { 2 } } ) > 2 3 0 \mathrm { ~ m } ( ( 4 . 3 4 \pm 1 . 1 4 ) \mathrm { k g / h m ^ { 2 } } ) > 1 2 0 \mathrm { ~ m } ( ( 4 . 3 4 \pm 1 . 1 4 ) \mathrm { k g / h m ^ { 2 } } )$ ;处于低海拔的油松叶表面较粗糙,气孔内部和周围聚集大量颗粒物,在叶面形态上更有利于吸附 $\mathrm { P M } _ { 2 . 5 }$ ,高海拔则相反。高海拔空气质量优于低海拔,低海拔的植物吸附颗粒物多于高海拔。研究结果可为城市造林和森林净化大气提供数据支持。
+
+关键词：不同海拔;油松林； $\mathrm { P M } _ { 2 . 5 }$ 浓度； $\mathrm { P M } _ { 2 . 5 }$ 吸附量；叶表面形态
+
+# Variations in $\mathbf { P M } _ { 2 . 5 }$ concentration and leaf adsorption capacity of Pinus tabulaeformis forests at different altitudes on Beijing Xishan Mountains
+
+LU Shaowei1,²,LI Shaoning1'²,CHEN Bo1,\*，LIU Hailong²， ZHAO Dongbo³，CHEN Pengfei³   
+1ForetrydoedefedtoRee，   
+Beijing 100093,China   
+2HorticultureEcologicalEnvironmentFunctionPromoteCollborativeInnovationCenter,Beijing1O93,China   
+3 Xishan Experimental Forest Farm of Beijing，Beijing 10o093，China
+
+Abstract : $\mathrm { P M } _ { 2 . 5 }$ concentration and leaf $\mathrm { P M } _ { 2 . 5 }$ adsorption capacity of Pinus tabulaeformis artificial forests at different altitudes onBeijing Xishan Mountains were analyzed，surface micro-morphological characteristicsof Pinus tabulaeformisatdiferent altitudes were observed using electron microscopy，and diffrences in leaf $\mathrm { P M } _ { 2 . 5 }$ adsorption were then interpreted. The results revealed the following : $\mathrm { P M } _ { 2 . 5 }$ concentration decreased as the altitude increased；diurnal variations in $\mathrm { P M } _ { 2 . 5 }$ concentration displayedatypical bimodalcurveforthePinus tabulaeformis forestsatdiferent altitudes；thehighestpeaks wereobserved at 7:00 and 19:O0，while minimum concentrations were detected at 13:OO—15:00; $\mathrm { P M } _ { 2 . 5 }$ concentration was the highest in the winter month of February and the lowest in August；annual mean $\mathrm { P M } _ { 2 . 5 }$ concentration at varying forest altitudes was $8 4 ~ \mathrm { m }$ （20 ( $\left( 1 0 2 . 2 8 \pm 1 8 . 4 4 \right.$ ） $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ） $> 1 1 0 \mathrm { ~ m ~ }$ （ $( 9 4 . 1 8 ~ \pm ~ 1 8 . 3 4 ~ \$ ） $\mu \mathrm { g } / \mathrm { m } ^ { 3 } ) ~ > ~ 1 6 0 \mathrm { ~ m ~ }$ ( $( 8 1 . 5 3 ~ \pm ~ 1 9 . 2 3 ~ \$ ） $\mu \mathrm { { g } / m } ^ { 3 } ) \ > \ 2 3 0 \ \mathrm { { m } }$ ( $( 7 5 . 3 9 \pm 1 5 . 7 1 \$ ） ${ \mu } \mathrm { { g } } / \mathrm { { m } } ^ { 3 }$ )； $\mathrm { P M } _ { 2 . 5 }$ adsorption amount per unit leaf area decreased as the altitude increased ( $\mathrm { P M } _ { 2 . 5 }$ （204 adsorption amount per unit leaf area reduced by $2 3 . 2 5 \%$ as the altitude increased by $5 0 \mathrm { ~ m ~ }$ ）； $\mathrm { P M } _ { 2 . 5 }$ adsorption amount per hectare decreased by $2 6 . 4 3 \%$ ，with the Pinus tabulaeformis forests at diferent altitudes exhibiting annual mean values of 84 $\mathbf { m }$ ( $( 8 . 6 1 \pm 1 . 0 8 \$ ） $\mathrm { k g / h m } ^ { 2 } ) > 1 1 0 \mathrm { ~ m ~ }$ （ $( 7 . 3 0 \pm 0 . 9 4 _ { . }$ ） $\mathrm { k g / h m } ^ { 2 } ) > 1 6 0 \mathrm { ~ m ~ }$ ( $( 6 . 3 5 \pm 0 . 9 9$ ） $\mathbf { k g } / \mathrm { h m } ^ { 2 }$ ） $> 2 3 0 \mathrm { ~ m ~ }$ （ $( 4 . 3 4 \pm$ 1.14) $\mathbf { k g } / \mathrm { h m } ^ { 2 }$ ）；leaf surface texture was rough at the lower altitudes，with a high number of particles inside and around the stomata （a function more conducive to $\mathrm { P M } _ { 2 . 5 }$ adsorption with respect to leaf morphology）；and leaf surface texture at the high altitudes exhibitedoppositefeatures.Airqualityatthehighaltitudes wassuperiortothatatthelowaltitudes，and plant adsorption particles were higheratthelowaltitudesthan atthe high altitudes.Theresultscanprovidedata supportforurban afforestation and purification of the atmosphere using forests.
+
+Key Words: varying altitude； Pinus tabulaeformis forest; $\mathrm { P M } _ { 2 . 5 }$ concentration ； $\mathrm { P M } _ { 2 . 5 }$ adsorption capacity；leaf surface morphology
+
+随着社会经济的快速发展、城市化进程的加快以及能源消耗的不断攀升,颗粒物已成为我国城市大气的首要污染物,其中细颗粒物 $\mathrm { P M } _ { 2 . 5 }$ 不仅会导致大气能见度下降,还会增加死亡率和呼吸道系统疾病发病率,引起了人们的广泛关注[1]。北京作为我国的首都,随着城市化进程加快,2014年2月北京 $\mathrm { P M } _ { 2 . 5 }$ 浓度一度高达$9 0 0 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ,2014 年平均 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度为 $8 3 . 2 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ,超过国家二级标准 $1 3 7 . 7 1 \%$ ,北京的空气质量距离建设国际化大都市的环境要求还有较大差距。近年来,不同学者已经从不同角度对北京大气颗粒物进行了大量研究。城市大气颗粒物浓度变化和分布特征的研究,对揭示城市大气颗粒物的基本特征及变化规律具有重要的意义。大量研究证明,植物能净化空气中的颗粒物,特别是在消纳吸收大气污染物,提高空气环境质量上具有显著的效果[2]。树木可直接从大气中颗粒物中去除颗粒,或通过植物叶表面捕获悬浮颗粒。一些捕获的粒子可以吸收到树体,虽然大部分的颗粒截留在植物表面[3-4],城市植被对颗粒污染物的滞留已成为研究的热点[5]。在国内,部分学者关注不同植物单位叶面积/叶重的滞尘量以及年滞尘量,广州市18种行道树的滞尘量在 $0 . 0 6 6 { - } 1 . 8 3 1 ~ \mathrm { g / m } ^ { 2 [ 6 ] }$ 。惠州建成区大叶榕、小叶榕、高山榕(Ficus altissima)和红花羊蹄甲单位叶面积的滞尘量分别为 $0 . 9 8 \ 、 0 . 7 5 、 0 . 6 4 \mathrm { ~ g } / \mathrm { m } ^ { 2 }$ 和 $6 . 4 1 \ \mathrm { \ g } / \mathrm { m } ^ { 2 }$ ,年滞尘量为 $4 4 3 1 ~ \mathrm { t } ^ { [ 7 ] }$ 。京西门头沟自然植被的年滞尘量可达$3 9 . 4 7 \times 1 0 4 \ { \mathrm { t } } ^ { [ 8 ] }$ 。在西米德兰兹郡随着森林覆盖率从 $3 . 7 \%$ 增加到 $1 6 . 5 \%$ ， $\mathrm { P M } _ { 1 0 }$ 浓度将平均减少 $10 \%$ ，从2.3$\mathrm { m g / m } ^ { 3 }$ 降低到 $2 . 1 ~ \mathrm { m g } / \mathrm { m } ^ { 3 }$ （每年减少 $1 1 0 \mathrm { ~ t ~ } )$ ;在哥斯拉格树木覆盖率从 $3 . 6 \%$ 提高到 $8 \%$ ， $\mathrm { P M } _ { 1 0 }$ 浓度将平均较少（204号 $2 \%$ （每年移除 $4 \mathrm { ~ t ~ }$ )[9]。在伦敦城市树木估计每年移除 $8 5 2 \mathrm { ~ t ~ }$ 到 $2 1 2 1 \mathrm { ~ t ~ }$ 的 $\mathrm { P M } _ { 1 0 }$ ,这相当于提高 $0 . 7 \%$ $\cdot 1 . 4 \%$ 的（20 $\mathrm { P M } _ { 1 0 }$ 空气质量[10]。在伦敦一个 $1 0 \ \mathrm { k m } \times 1 0 \ \mathrm { k m }$ 的 $2 5 \%$ 的树木覆盖率的绿地每年减少 $9 0 . 4 \mathrm { ~ t ~ }$ 的 $\mathrm { P M } _ { 1 0 }$ ,这相当于每年可以减少2个人的死亡和2家医院的全年废品排放量[11]。可见,森林消减颗粒物的强大功能。
+
+随着北京社会经济和城市的发展,生态旅游逐渐成为城市居民的重要需求。北京西山是北京市民和外地游客进行徒步旅行、登高、健身、摄影等各种游憩活动的重要区域,游憩林空气质量的好坏是判断森林生态旅游适宜性的决定性因素[12]。目前有关空气颗粒物的详细研究主要集中在时空变化[13]、来源分析[14]、成分解析[15]和危害评价6]上,对城市游憩林空气颗粒物的变化多是些零散的、断断续续的研究,而对不同海拔游憩林内空气颗粒物浓度的时空变化和颗粒物吸附量连续完整的研究未见报道。为此,本文在北京西山国家森林公园选取4个海拔梯度的油松人工林,对不同海拔的油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度及叶片 $\mathrm { P M } _ { 2 . 5 }$ 吸附量进行研究,以揭示$\mathrm { P M } _ { 2 . 5 }$ 在垂直高度上的变化趋势,探寻森林植被对 $\mathrm { P M } _ { 2 . 5 }$ 的影响,阐释森林净化环境空气功能,为森林生态建设及环境保护提供科学依据。
+
+# 1研究方法
+
+# 1.1 研究地概况
+
+北京西山国家森林公园位于北京西郊小西山，以北京西山试验林场为基础，总面积 $5 9 7 0 \ \mathrm { h m } ^ { 2 }$ ,有林地
+
+$5 1 9 6 . 8 \ \mathrm { h m } ^ { 2 }$ ,林木覆盖率 $8 7 \%$ ,年降雨量 $6 3 4 . 2 ~ \mathrm { m m }$ ,相对湿度 $4 3 \% - 7 9 \%$ ,是距北京市区最近的一座国家级森林公园;公园空气质量相对于城区较好，但整体空气质量不高，全年 $4 8 . 3 9 4 \%$ 的天数为污染天气。地带性植被为暖温带落叶阔叶林,园内动植物资源丰富,有植物共计250多种,分属73科。主要乔木树种包括油松（Pinus tabuliformis）、侧柏（Platycladusorientalis）、白皮松（Pinus bungeana）、杨树（Populus）等,主要的灌木有连翘（Forsythia suspensa）迎春(Jasminum nudiflorum）等。
+
+# 1.2 树种选择
+
+油松是北方的主要园林绿化树种，油松因其叶表面分布大量的油脂、粗糙度较大可以大量吸附颗粒物，同时油松也是西山国家森林公园的主要树种,在公园内大面积栽植。本文选择北京西山国家森林公园林龄相近,根据实地境况和海拔高度变化,选取不同海拔高度 $( 8 4 , 1 1 0 , 1 6 0 , 2 3 0 \ m )$ 的油松,4个海拔的统计分析结果为峰度为-0.35,偏度为0.83,基本符合正态分布，基本信息如表1所示。
+
+表1不同海拔油松基本信息  
+Table1 Basic information of Pinus tabulaeformis forestat different altitudes   
+
+<html><body><table><tr><td rowspan="2">海拔高度 Altitude/m</td><td rowspan="2">树龄 Age/ a</td><td rowspan="2">树高 Tree height/m</td><td rowspan="2">胸径 Diameter at breast height/cm</td><td colspan="2">冠幅Crown/m</td></tr><tr><td>东西/EW</td><td>南北/SN</td></tr><tr><td>84</td><td>12</td><td>6.53±0.45</td><td>7.34±0.55</td><td>2.30±0.51</td><td>1.54±0.25</td></tr><tr><td>110</td><td>13</td><td>6.12±0.78</td><td>6.98±0.24</td><td>2.11±0.22</td><td>2.05±0.24</td></tr><tr><td>160</td><td>13</td><td>5.43±0.65</td><td>5.66±0.45</td><td>1.82±0.36</td><td>1.76±0.36</td></tr><tr><td>230</td><td>12</td><td>6.88±1.22</td><td>8.36±0.87</td><td>2.03±0.27</td><td>1.88±0.43</td></tr></table></body></html>
+
+# 1.3 叶片采集方法
+
+在采集树叶之前先用喷雾器清洗整个单株树木，以月为单位,在清洗完7d之后每个树种分别选择3棵样树(林龄相近)采样,采样时避开雨天,遇到降雨时顺延至雨后7d,在树冠的上、中、下部位及东、南、西、北4个方向各采集针阔树种功能叶片,将采集的叶片封存于纸质采集袋(无静电)中带回实验室处理。
+
+# 1.4 $\mathrm { P M } _ { 2 . 5 }$ 浓度观测
+
+用 Dustmate 手持粉尘检测仪测定距地 $1 . 5 \mathrm { ~ m ~ }$ 高处空气的 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度( $d { \leqslant } 2 . 5 ~ \mu \mathrm { m }$ ,可吸入颗粒物）,每天均从5:00—19:00进行观测,每隔2h观测1次,每次4个海拔梯度油松林均同步观测,每次观测进行3个重复。
+
+# 1.5 $\mathrm { P M } _ { 2 . 5 }$ 吸附量计算
+
+叶片的 $\mathrm { P M } _ { 2 . 5 }$ 吸滞量应用气溶胶再发生器(QRJZFSQ-ⅡI)获得,气溶胶再发生器是本课题组研究人员研发用来测定植物叶片 $\mathrm { P M } _ { 2 . 5 }$ 含量的仪器,通过风蚀原理,将待测树种叶片放入气溶胶再发生器的料盒,通过搅动、吹风、去静电等处理,气溶胶再发生器将叶片上的颗粒物吹起,制成气溶胶,再结合Dustmate 手持粉尘监测仪获取制成气溶胶中 $\mathrm { P } \widehat { \mathbf { M } } _ { 2 . 5 }$ 的质量浓度,进而推算出叶片上 $\mathrm { P M } _ { 2 . 5 }$ 的吸附量 $( m )$ ，每个树种进行3次重复;再利用叶面积扫描仪和叶面积软件计算放入料盒中所有叶片的叶面积 $( S )$ ,由公式(1)计算单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量(M)，由公式(2)计算单位公顷林地吸附 $\mathrm { P M } _ { 2 . 5 }$ 含量 $\mathrm { ^ { ' } k g \ h m ^ { - 2 } \ a ^ { - 1 } }$ )。目前,气溶胶再发生器应用情况较好,已得到学界认可[17-18]。
+
+$$
+M = m / S
+$$
+
+$$
+Q = M \times \mathrm { L A I } \times 0 . 1 \times k
+$$
+
+式中， $M$ 为单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量 $( \mu \mathrm { g } / \mathrm { c m } ^ { 2 }$ ） $m$ 为放入气溶胶再发生器中叶片的 $\mathrm { P M } _ { 2 . 5 }$ 吸附量 $( \mu \mathrm { g } ) ; S$ 为放入气溶胶再发生器料盒中所有叶片的叶面积( $\mathrm { c m } ^ { 2 }$ ）； $Q$ 为每公顷林地吸附 $\mathrm { P M } _ { 2 . 5 }$ 含量 $\mathrm { ^ { ' } k g \ h m ^ { - 2 } \ a ^ { - 1 } }$ );LAI为叶面积指数;0.1为单位转化系数; $k$ 为 $\mathrm { P M } _ { 2 . 5 }$ 年洗脱次数。
+
+# 1.6叶表面微形态结构
+
+摘取适量叶片,立即封存于塑料纸内以防挤压或叶毛被破坏;在叶脉两侧的中部将新鲜叶片切成边长约
+
+$5 ~ \mathrm { m m }$ 的小立方块，立即用 $2 . 5 \%$ (体积分数)戊二醛溶液进行固定;用磷酸缓冲溶液冲洗3次;用梯度乙醇脱水,分为 $7 0 \% . 8 0 \% . 9 0 \% . 9 5 \%$ 和 $100 \%$ 的5个梯度;样品经过喷金处理后，采用FEIQuanta-200 环境扫描电子显微镜(荷兰，FEI公司)观察叶片的表面,选择适合的比例进行拍摄。
+
+# 2结果与分析
+
+# 2.1 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化
+
+不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化(5:00—19:00)特征如图1所示,整体来看不同月份 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度表现为相似的变化趋势，低海拔 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度大于中高海拔 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度。不同月份中，二者均变现出大致相同的日变化趋势,呈典型的双峰型变化趋势,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化均从5：00左右开始逐渐增大，至7：00左右达到第1次峰值，7：00之后其 $\mathrm { P M } _ { 2 . 5 }$ 浓度逐渐降低，至13：00—15：00左右达到一天当中的最小值，15：00 之后 $\mathrm { P M } _ { 2 . 5 }$ 浓度又逐渐开始增大,在19：00 左右 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度达到本文观测时段内的第2次峰值。从不同月份来看,6月和7月不同海拔油松林的 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度变化趋势比较平缓,其他月份变化比较剧烈;1—5月和10—12月的 $\mathrm { P M } _ { 2 . 5 }$ 浓度最高值均大于 $1 0 0 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ,6-9月的 $\mathrm { P M } _ { 2 . 5 }$ 浓度最高值均低于80$\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ 。
+
+![](images/e2a619922b99fd34f0bfff7551367b02d60f16aafc4bf24fe175c525af8d4bc0.jpg)  
+图1不同海拔油松林 $\mathbf { P M } _ { 2 . 5 }$ 质量浓度日变化  
+Fig.1Diurnal variation of $\mathbf { P M } _ { 2 . 5 }$ concentration at different altitudes for Pinus tabulaeformis
+
+从不同月份 $\mathrm { P M } _ { 2 . 5 }$ 浓度日均值来看， $8 4 \mathrm { ~ m ~ }$ 海拔为2月( $1 0 5 . 8 8 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ )最大，其次是1月( $9 8 . 5 0 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 } / ,$ 8月 $( 4 4 . 2 0 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ )最小； $1 1 0 \mathrm { ~ m ~ }$ 和 $1 6 0 \mathrm { ~ m ~ }$ 海拔均为2月、3月、11月排前三,8月最小; $2 3 0 \mathrm { ~ m ~ }$ 海拔12月（80.66${ \mu } \mathrm { g } / \mathrm { m } ^ { 3 } .$ )最大，其次是11月（ $7 9 . 1 6 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ），2月（ $7 9 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 } ,$ 第三，8月最小。
+
+可见，不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度日均值均在8月最小,低中海拔的最高值在2月，高海拔的最高值在12月；1—3月和11—12月是 $\mathrm { P M } _ { 2 . 5 }$ 浓度日均值较高的月份，6—9月是 $\mathrm { P M } _ { 2 . 5 }$ 浓度日均值较低的月份。
+
+# 2.2 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度年变化
+
+不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度年变化趋势基本一致(图2)但差异显著(方差组间 $F { = } 9 . 4 3 , P { = } 0 . 0 0 0 3 )$ ，在 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度年均值最高的2月,表现为 $8 4 \ \mathrm { m } ( 1 2 5 . 8 7 \ \mu \mathrm { g } / \mathrm { m } ^ { 3 } ) > 1 1 0 \ \mathrm { m } ( 1 1 5 \ \mu \mathrm { g } / \mathrm { m } ^ { 3 } ) > 1 6 0 \ \mathrm { m } ( 1 1 0 . 8 3 \ \mu \mathrm { g } / \mathrm { m } ^ { 3 } )$ $\mathrm { m } ^ { 3 } ) { > } 2 3 0 \mathrm { ~ m } ( 9 9 \mathrm { ~ } \mu \mathrm { g } / \mathrm { m } ^ { 3 } )$ ；在 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度年均值最低的8月,也表现为 $8 4 ~ \mathrm { m } ( 6 4 . 2 ~ \mu \mathrm { g } / \mathrm { m } ^ { 3 } ) > 1 1 0 ~ \mathrm { m } ( 5 8 . 3 7 ~ \mu \mathrm { g } /$ $\mathrm { m ^ { 3 } } ) { > } 1 6 0 \ \mathrm { m } ( 5 1 . 5 7 \ \mu \mathrm { g / m ^ { 3 } } ) { > } 2 3 0 \ \mathrm { m } ( 4 6 . 8 3 \ \mu \mathrm { g / m ^ { 3 } } )$ ;在其他月份也表现出与此一致的变化趋势,可见 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度年均值均呈现出随海拔升高逐渐减小的趋势。从不同月份来看,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度年均值表现为 $8 4 \mathrm { ~ m ~ }$ 海拔2月、1月和4月最大,8月最小; $1 1 0 \mathrm { ~ m ~ }$ 海拔2月、4月和3月最大,8月最小; $1 6 0 \mathrm { ~ m ~ }$ 海拔2月、4月和1月最大,8月最小; $2 3 0 \mathrm { ~ m ~ }$ 海拔也为2月、4月和1月最大,8月最小;1—4月和11—12月是不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 浓度年均值较高的月份,6—8月是不同海拔油松林 $\mathrm { P M } _ { 2 . 5 } ^ { }$ 浓度年均值较低的月份,不同海拔油松林$\mathrm { P M } _ { 2 . 5 }$ 质量浓度均在2月出现最高值,8月出现最低值。不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度全年均值为 $8 4 \mathrm { ~ m ~ }$ （（ $1 0 2 . 2 8 \pm 1 8 . 4 4 ) ~ \mu \mathrm { g / m ^ { 3 } } ) > 1 1 0 \mathrm { m } ( \left( 9 4 . 1 8 \pm 1 8 . 3 4 \right) \left( \mu \mathrm { g / m ^ { 3 } } \right) > 1 6 0 ~ \mathrm { m } ( ( 8 1 . 5 3 \pm 1 9 . 2 3 ) ~ \mu \mathrm { g / m ^ { 3 } } ) > 2 3 0 ~ \mathrm { m }$ ((75.39±15.71) $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ),在海拔较低的区域颗粒物污染浓度较高,随着海拔每升高 $5 0 \ \mathrm { m } , \mathrm { P M } _ { 2 . 5 }$ 质量浓度降低 $1 0 . 7 5 \%$ 。
+
+![](images/72e8460ce53ade6ec8f476687d7875ddafd6d0a1b0267700c9c436c4d5821297.jpg)  
+图2不同海拔油松林 $\mathbf { P M } _ { 2 . 5 }$ 质量浓度年变化  
+Fig.2Annual variation of $\mathbf { P M } _ { 2 . 5 }$ concentration at different altitudes for Pinus tabulaeformis
+
+# 2.3 叶片 $\mathrm { P M } _ { 2 . 5 }$ 吸附量
+
+由图3可知不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量差异明显（方差组间 $F = 2 . 6 3 , P { < } 0 . 0 5 ;$ ,在单位叶面积$\mathrm { P M } _ { 2 . 5 }$ 吸附量最高的2月,表现为 $3 4 \mathrm { ~ m ~ } ( \left( 3 . 1 1 \pm 0 . 9 5 \right) \mathrm { ~ \textmu } _ { \mathrm { c } } ^ { \mathrm { g } } / \mathrm { m } ^ { 3 } ) > 1 1 0 \mathrm { ~ m ~ } ( \left( 2 . 6 8 \pm 0 . 4 5 \right) \mathrm { ~ \textmu } _ { \mathrm { c } } ^ { \mathrm { g } } / \mathrm { m } ^ { 3 } ) > 1 6 0 \mathrm { ~ m ~ } ( \left( 2 . 4 1 \pm 0 . 0 5 \right) \mathrm { ~ \textmu ~ } _ { \mathrm { c } } ^ { \mathrm { g } } / \mathrm { m } ^ { 3 } ) > 1 0 0 \mathrm { ~ m ~ } ( \left( 3 . 8 8 \pm 0 . 4 5 \right) \mathrm { ~ \textmu ~ } _ { \mathrm { c } } ^ { \mathrm { g } } / \mathrm { m } ^ { 3 } ) > 1 0 0 \mathrm { ~ m ~ } ( \mathrm { ~ \textmu ~ } _ { \mathrm { c } } / \mathrm { m } ^ { 3 } ) > 1 0 0 0 \mathrm { ~ m ~ } ( \mathrm { ~ \mu ~ } _ { \mathrm { c } } / \mathrm { m } ^ { 3 } ) > 1 0 0 0 ) .$ 0.21) $\mu \mathrm { g } / \mathrm { m } ^ { 3 } ) > 2 3 0 \textrm { m } ( ( 2 . 0 5 \pm 0 . 3 4 9 9 )$ $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ );在单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量最低的8月,也表现为 $8 4 \mathrm { ~ m ~ }$ ( $( 1 . 7 7 { \scriptstyle \pm 0 . 1 3 } )$ μg/m³)>110 m(（1.39±0.25） $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ )>160 m(（1.23±0.10）μg/m³)>230 m(（0.61±0.19) $\mu \mathrm { g / }$ $\mathbf { m } ^ { 3 }$ );在其他月份也表现出与此一致的变化趋势,可见不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量均呈现出随海拔升高逐渐减小的趋势。从不同月份来看,不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量年均值表现为 $8 4 \mathrm { ~ m ~ }$ 海拔2月、3月和1月最大,8月最小； $1 1 0 \mathrm { ~ m ~ }$ 海拔2月、1月和3月最大,8月最小; $1 6 0 \mathrm { ~ m ~ }$ 海拔2月、1月和12月最大，8月最小； $2 3 0 \mathrm { ~ m ~ }$ 海拔也为2月、3月和1月最大,8月最小;1—4月和11—12月是不同海拔油松单位叶面积$\mathrm { P M } _ { 2 . 5 }$ 吸附量年均值较高的月份,6—8月是不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量年均值较低的月份,不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量均在2月出现最高值,8月出现最低值。不同海拔油松单位叶面积 $\mathrm { P M } _ { 2 . 5 } ^ { }$ 吸附量全年均值为 $8 4 ~ \mathrm { m } ( ( 2 . 5 2 \pm 0 . 7 8 ) ~ \mu \mathrm { g / m } ^ { 3 } ) > 1 1 0 ~ \mathrm { m } ( ( 2 . 1 4 \pm 0 . 7 4 ) ~ \mu \mathrm { g / m } ^ { 3 } ) > 1 6 0 ~ \mathrm { m } ( ( 1 . 9 3 \pm 0 . 6 9 ) )$ $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ）） $> 2 3 0 ~ \mathrm { ~ m ~ }$ ( $( 1 . 3 7 { \pm } 0 . 8 4 ) \$ ） $\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ ）,在海拔较低的区域单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量较高,随着海拔升高单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量逐渐减小,每升高 $5 0 \mathrm { ~ m ~ }$ ,单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量降低 $2 3 . 2 5 \%$ ;不同海拔油松林每公顷 $\mathrm { P M } _ { 2 . 5 } ^ { \setminus }$ 吸附量全年均值为 $8 4 \ \mathrm { m } ( ( 8 . 6 1 \pm 1 . 0 8 ) \mathrm { k g / h m ^ { 2 } } ) > 1 1 0 \ \mathrm { m } ( ( 7 . 3 0 \pm 0 . 9 4 ) \mathrm { k g / h m ^ { 2 } } ) > 1 6 0 \ \mathrm { m } ( ( 6 . 3 5 \pm 0 . 9 9 ) \mathrm { k g / \tilde { h m } ^ { 2 } } ) \geqslant 2 3 0 \$ m((4.34±1.14) $ { \mathrm { k g } } /  { \mathrm { h m } } ^ { 2 }$ ), $8 4 \mathrm { ~ m ~ }$ 的油松林每公顷 $\mathrm { P M } _ { 2 . 5 }$ 吸附量是 $2 3 0 \mathrm { ~ m ~ }$ 的1.98倍,随着海拔升高每公顷 $\mathrm { P M } _ { 2 . 5 }$ 吸附量逐渐减小,减小的比例在 $1 4 . 8 2 \% - 4 6 . 5 3 \%$ 之间,海拔每升高 $5 0 \mathrm { ~ m ~ }$ ,每公顷 $\mathrm { P M } _ { 2 . 5 }$ 吸附量下降 $2 6 . 4 3 \%$ （图4)。可见，低海拔因其较高的 $\mathrm { P M } _ { 2 . 5 }$ 浓度,植物能吸附更多的 $\mathrm { P M } _ { 2 . 5 }$ 。
+
+![](images/b8e0ced6c2b42743de4b730fe1abec8714fbe17d31dc2dd9efe9439b12978c57.jpg)  
+图3不同海拔油松单位叶面积 $\mathbf { P M } _ { 2 . 5 }$ 吸附量
+
+Fig.3 PM2.5 adsorption amount of per unit leaf area for different altitude Pinus tabulaeformis
+
+# 2.4，叶表面微形态特征
+
+不同海拔油松在叶表面形态上表现出较大的差异（图5）,海拔为 $8 4 \mathrm { m }$ 的油松叶片表面布满颗粒物,叶片粗糙度较大,气孔密度较大,但是气孔开度较小,大量颗粒去进入气孔,叶表面的纹理不清晰,有大量的油脂和粘液存在,容易使 $\mathrm { P M } _ { 2 . 5 }$ 等颗粒物吸附;海拔为 $1 1 0 \mathrm { ~ m ~ }$ 的油松叶表面具有大量的颗粒物,叶片较粗糙度较大，叶表面有大量的褶皱和凹槽,气孔密度较大,但是气孔开度较小,气孔内部和周围有大量的颗粒物;海拔为160m 的油松叶表面具有颗粒物数量较少，叶片粗糙度较小,叶表面有大量的纹理清晰可见,气孔密度和气孔开度较大，气孔内部和周围的颗粒物数量较少，叶表面的油脂较少;海拔为 $2 3 0 \mathrm { ~ m ~ }$ 的油松叶表面颗粒物数量少，叶片粗糙度小于低海拔的油松,叶表面有大量的褶皱和凹槽，气孔密度和气孔开度大,气孔内部和周围的颗粒物数量很少,气孔清晰可见,叶表面的纹理和褶皱排列紧密,而且非常清晰。综上可知,处于低海拔的油松叶表面粗糙度较大,褶皱和纹理均不清晰,气孔被大量的颗粒物包裹,气孔开度较小,而且叶片上存在油脂,处于高海拔的油松叶片表现出相反的变化特征，叶片上的颗粒物数量也较少。
+
+# 3讨论
+
+# 3.1不同海拔 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度时空变化特征
+
+不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度白天日变化呈“双峰单谷”性，在7：00 和19：00 处于两个峰值，白天11：00—15：00均处在低值期间。这是因为早晚的温度较低，湿度较大，不利于大气的输送和扩散， $\mathrm { P M } _ { 2 . 5 }$ 容易积聚[12];早晨近地面向外辐射而迅速冷却降温,出现逆温现象，造成近地层大气对流较弱，不利于颗粒物的扩散;而且早晚是上下班的高峰期，人流量和车流量都相对较大[19],增加了 $\mathrm { P M } _ { 2 . 5 }$ 浓度;傍晚由于云层笼罩,大气保温效应持续存在，污染物聚集，短时间内不易扩散，均造成 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度维持在较高水平;白天温度高，光照强,湿度相对较小,大气层不稳定,大气对流和湍流强烈,有利于大气的扩散运动,再加上白天植物生理活动旺盛,进行光合作用,致使白天的 $\mathrm { P M } _ { 2 . 5 }$ 的浓度较早晚低;15：00左右,温度一般达到当天较高值,空气压较高，空气流通性较高，致使 $\mathrm { P M } _ { 2 . 5 }$ 浓度被稀释，随空气流动，不易滞留在空气当中，导致下午时段内 $\mathrm { P M } _ { 2 . 5 }$ 浓度达到一天当中最低值。王月容[20]等研究北京市道路绿地对 $\mathrm { P M } _ { 2 . 5 }$ 浓度的削减作用发现， $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化曲线呈
+
+![](images/8bf1ce139d04b917878549a7627e0d6d87e596a663355e6c1e0bc903a4cf08ea.jpg)  
+图4不同海拔油松林每公顷 $\mathbf { P M } _ { 2 . 5 }$ 吸附量 Fig.4 $\mathbf { P M } _ { 2 . 5 }$ adsorption amount of per hectare for different altitudePinustabulaeformis
+
+![](images/0b14255eb726b5365e1c133cf4193de711e8f20cb8038d0272d56aa8e0b6c83b.jpg)  
+图5不同海拔油松叶表面形态  
+Fig.5The leaf surface morphology of different altitude Pinus tabulaeformis
+
+http://www.ecologica.cn
+
+现出“双峰单谷"型,早晚高、白天低,14:00—16:00左右出现一天当中的最小值,最大值出现在6:00—8:00或22:00左右;表明午后由于地面增温造成近地面层的湍流垂直输送增强,混合层高度增高，从而使近地面颗粒物质量浓度减小,该时段的多数污染物质量浓度呈低值[21]；本研究中不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 日变化最大值分别出现在7:00左右,最小值大多出现在13:00—15:00左右,这与以上研究结果完全一致,进一步证实了$\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化特征。
+
+从不同月份来看,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度均在1—4月和11—12月呈现出较高值，在6—9月为较低值,8月为全年 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度最低的月份。这是因为1—4月和11—12月是冬季和春季,冬季是北京的燃煤季节,燃烧煤使大量的粉尘颗粒和硫化物排放到大气中,加剧空气污染,同时冬季气温低,对流较弱,也加剧了颗粒物的积聚，使 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度升高;春季是北京多沙季节,随着西北风和东南风的盛行,将周围地区的污染物和风沙吹拂到北京，增加了北京地区空气中 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度。6一9月是夏季，夏季是北京的多雨季节，降雨可以有效的消减大气中的 $\mathrm { P M } _ { 2 . 5 }$ ，使 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度降低;另一方面,夏季温度高,大气对流旺盛,颗粒物容易扩散;另外,夏季万物复苏,植物生长繁茂,而植物的枝叶可以有效的吸附大气中的 $\mathrm { P M } _ { 2 . 5 }$ 等颗粒物,这也使6-9月 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较低。汪永英[22]等对哈尔滨 $\mathrm { P M } _ { 2 . 5 }$ 污染状况进行研究表明，2014年全年达到污染级别天气为121天,出现重度污染现象的天气主要集中在冬季的11月、12月、1月 $\cdot 2$ 月和3月；王占山[23]等对北京市 $\mathrm { P M } _ { 2 . 5 }$ 时空分布研究结果表明，冬季(1月、2月和12月) $\mathrm { P M } _ { 2 . 5 }$ 质量浓度明显高于其他3个季节,最高值出现在1月份，最低值出现在8月份;王成[19等对北京西山典型城市森林内 $\mathrm { P M } _ { 2 . 5 }$ 动态变化规律研究发现，北京西山游憩型城市森林内 $\mathrm { P M } _ { 2 . 5 }$ 浓度在冬季最高。这均与本研究结果完全一致,说明空气 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度的变化主要受天气、污染源和植被状况的影响。 2
+
+从不同海拔高度来看,随着海拔升高 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度逐渐降低,本文得出海拔每升高 $5 0 \ \mathrm { m } , \mathrm { P M } _ { 2 . 5 }$ 质量浓度降低 $1 0 . 7 5 \%$ 。这是因为 $\mathrm { P M } _ { 2 . 5 }$ 作为一种颗粒物,本身具有质量,具有质量的 $\mathrm { P M } _ { 2 . 5 }$ 更容易在低海拔地区漂浮，高海拔地区的 $\mathrm { P M } _ { 2 . 5 }$ 也会随时间的推移逐渐的下沉,在低海拔区域聚集,故低海拔地区PM2.5质量浓度高于高海拔地区;另一方面，随着海拔升高气温逐渐降低,每升高 $1 0 0 \mathrm { ~ m ~ }$ ,温度下降 $0 . 6 ^ { \circ } \mathrm { C }$ ,低海拔气度温度高于高海拔地区,温度高使大气压升高,空气对流增强,增加了 $\mathrm { P M } _ { 2 . 5 }$ 等颗粒物的流动性,而高海拔地区温度低于低海拔地区,高海拔地区的空气对流较弱， $\mathrm { P M } _ { 2 . 5 } ^ { }$ 等颗粒物的流动性较差,故低海拔地区 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较高，而高海拔地区 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较低。
+
+# 3.2 不同海拔 $\mathrm { P M } _ { 2 . 5 }$ 吸滞特征
+
+不同海拔油松叶片 $\mathrm { P M } _ { 2 . 5 }$ 吸附量均在1—4月和11—12月呈现出较高值,在6—9月为较低值,8月为全年$\mathrm { P M } _ { 2 . 5 }$ 吸附量最低的月份。这是因为1—4月和11—12 是冬季和春季,外界 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较高,6-9月是夏季,外界 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较低，在外界 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度较高的月份外界的污染源较多，不同海拔的油松可以有大量的颗粒被吸附在叶片表面。
+
+叶表面特性的差异是植物吸滞空气颗粒物能力不同的重要影响因素,叶表面气孔密度和开度、绒毛状况、粗糙程度和油脂层等都直接影响叶片吸附 $\mathrm { P M } _ { 2 . 5 }$ 等颗粒物的能力[6。叶表面具有沟状组织或密集纤毛的树种滞尘能力较强,其微形态结构越密集、深浅差别越大,越有利于吸附空气颗粒物,叶表面平滑的树种滞尘能力较弱[24]。本研究显示随着海拔升高叶片 $\mathrm { P M } _ { 2 . 5 }$ 吸附量逐渐降低,得出海拔每升高 $5 0 \mathrm { ~ m ~ }$ ,油松单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量降低 $2 3 . 2 5 \%$ ,每公顷油松林 $\mathrm { P M } _ { 2 . 5 }$ 吸附量减小 $2 6 . 4 3 \%$ ,处于低海拔的油松叶表面的粗糙度较大,气孔开度较小,褶皱和纹理均布清洗,在气孔内部和周围聚集着大量的颗粒物,而处于高海拔的油松则相反。Sabin等[25认为表面粗糙的叶片,且具有绒毛、沟状凸起、粘液油脂的叶柄,其吸附 $\mathrm { P M } _ { 2 . 5 }$ 等颗粒物的能力则较强，本研究中海拔在 $8 4 \mathrm { ~ m ~ }$ 和 $1 1 0 \mathrm { ~ m ~ }$ 的低海拔油松叶表面存在油脂,且叶表面存在凹陷和凸起,粗糙度较大,从而使其 $\mathrm { P M } _ { 2 . 5 }$ 吸滞能力显著高于 $1 6 0 \mathrm { ~ m ~ }$ 和 $2 3 0 \mathrm { ~ m ~ }$ 处的油松。贾彦等[26认为,粗糙程度大、微形态结构密集和深浅差别大的叶面,会增加其与颗粒物的接触面积,使得叶片对颗粒物的吸附量较高,本研究中 $8 4 \mathrm { ~ m ~ }$ 和 $1 1 0 \mathrm { ~ m ~ }$ 的低海拔油松的叶片粗糙度均大于 $1 6 0 \mathrm { ~ m ~ }$ 和 $2 3 0 \mathrm { ~ m ~ }$ 处的油松,故吸附 $\mathrm { P M } _ { 2 . 5 }$ 能力较强，而 $1 6 0 \mathrm { ~ m ~ }$ 和 $2 3 0 \mathrm { ~ m ~ }$ 处的油松叶片粗糙度较小，叶片较光滑，从而导致不适合吸附 $\mathrm { P M } _ { 2 . 5 }$ 等细颗粒物，故 $1 6 0 \mathrm { ~ m ~ }$ 和 $2 3 0 \mathrm { ~ m ~ }$ 处的油松吸附$\mathrm { P M } _ { 2 . 5 }$ 能力较弱。可见,叶表面存在大量凸起和沟壑组织的叶片,粗糙度大,从而其 $\mathrm { P M } _ { 2 . 5 }$ 吸附能力强;反之，$\mathrm { P M } _ { 2 . 5 }$ 吸滞能力则逐渐下降,处于低海拔的油松在叶面形态上更有利于吸附 $\mathrm { P M } _ { 2 . 5 }$ 。
+
+# 4结论
+
+随着海拔升高 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度逐渐降低,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度日变化均呈典型的双峰曲线，7:00和19:00是一天中的两个峰值,最小值出现在13:00—15:00左右;从不同月份看,不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度最高值出现在冬季的2月，最低值在8月，不同海拔油松林 $\mathrm { P M } _ { 2 . 5 }$ 质量浓度全年均值表现为随海拔升高逐渐减低;随着海拔升高单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量逐渐减小，每升高 $5 0 \mathrm { ~ m ~ }$ ,单位叶面积 $\mathrm { P M } _ { 2 . 5 }$ 吸附量降低$2 3 . 2 5 \%$ ,每公顷 $\mathrm { P M } _ { 2 . 5 }$ 吸附量下降 $2 6 . 4 3 \%$ ;处于低海拔的油松林在叶面形态上更有利于吸附 $\mathsf { P M } _ { 2 . 5 }$ ,高海拔则相反。高海拔空气质量优于低海拔,低海拔的植物吸附颗粒物能力强。
+
+# 参考文献（References）：
+
+［1］王占山,李云婷，刘保献，孙峰，张大伟，周健楠，刘兆莹，潘丽波.北京市 $\mathrm { P M } _ { 2 . 5 }$ 化学组分特征.生态学报，2016，36（8）：2382-2392.  
+[2］周志翔，邵天一，王鹏程,高翅，徐永荣,郭尔祥，徐隆辉，叶贞清，彭行梅，于春杰.武钢厂区绿地景观类型空间结构及滞尘效应.生态学报，2002，22（12)：2036-2040.  
+[3]BeckeKrrylorGfeivetrespfloalialitaagtalofrbue,6（）19.  
+[4] Frer-SmithPH,taloG.aptureofpriclatepltioyre：pisoofspeistycalofadas（csnitidandEucalyptusglobulus）withEuropeanandNorthAmericanspecies.Water，Air，andSolPolution,O04,155(1/4）：173-187.  
+[5] 王会霞，石辉，王彦辉.典型天气下植物叶面滞尘动态变化.生态学报,2015，35(6)：1696-1705.  
+[6] 刘璐，管东生，陈永勤.广州市常见行道树种叶片表面形态与滞尘能力.生态学报，2013,33(8)：2604-2614.  
+[7] 邱媛，管东生，宋巍巍，Peart MR.惠州城市植被的滞尘效应.生态学报，2008，28(6)：2455-2462.  
+[8] 冯朝阳，高吉喜，田美荣，林栋，吕世海，刘尚华.京西门头沟区自然植被滞尘能力及效益研究.环境科学研究，2007，20（5）：155-159.  
+[9] McDonaldAG,ealeyWJ,FowlerD,DragitsU,baUmhRDoovanRG,rettHE,HewitC,NemitzE.Quantifyngetof urban tree planting on concentrations and depositions of $\mathrm { P M } _ { 1 0 }$ in two UK conurbations. Atmospheric Environment，2007,41（38）: 8455-8467.  
+[10]TalsalG,taiglfoscrtiaebarodounder currnt and future environments.Landscape and Urban Planning，2011，103(2）：129-138.  
+[11]Tiwary,etD,eachyC,aabiZ,VrdoulakisS,Fetchr,LeordiG,rundyC,AapagicA,HutchngsR.Anteeolto assess the role of new planting in $\mathrm { P M } _ { 1 0 }$ capture and the human health benefits：A case study in London.Environmental Pollution，2O09,157(10):2645-2653.  
+[12］郭二果,王成，郄光发，房城，孙志伟，周志海.北京西山典型游憩林空气颗粒物不同季节的日变化.生态学报，2009，29（6)：3253-3263.  
+[13] 王占山，张大伟，李云婷，冯鹏，董欣，孙瑞雯，潘丽波.2014年春节期间北京市空气质量分析.环境科学学报，2015，35（2）：371-378.  
+[14] Yue WS,Lia XL,LiuJF,Li,Y,Yu X H,DengB,WanTM,Zhang GL,HuangYY,He W,Hua W,ShaoLY,Li WJ,Yang SS.Characterization of $\mathrm { P M } _ { 2 . 5 }$ intheambientairofShanghai Citybyanalyzing individualparticles.ScienceoftheTotal Environment,2O06,368（2/3）)：916-925.  
+[15]Rodriguez S,Querol X,Alastuey A,Viana M M,Alarcón M,Mantilla E,Ruiz C R. Comparative $\mathrm { P M } _ { 1 0 } – \mathrm { P M } _ { 2 . 5 }$ source contribution study at rural,urbanandindustrialsitesduringPMEpisodesinEaster Spain.Sienceof theTotalEnvironment,2O04,328(1/3）：9-13.  
+[16]PoweNA，Wilis K G. Mortality and morbidity benefits of air pollution ( $\mathrm { S O } _ { 2 }$ and $\mathrm { P M } _ { 1 0 }$ ）absorption attributable to woodland in Britain.JouralofEnvironmental Management,2004，70(2）: 119-128.  
+[7]ZangaguXudotioaifortatefapeatsifetesi（China).International Journal of Environmental Research and Public Health，2015,12(8)：9623-9638.  
+[18] 房瑶瑶，王兵，牛香.叶片表面粗糙度对颗粒物滞纳能力及洗脱特征的影响.水土保持学报，2015，29(4）：110-115.  
+19] 王成，郭二果，郄光发.北京西山典型城市森林内 $\mathrm { P M } _ { 2 . 5 }$ 动态变化规律.生态学报，2014，34（19)：5650-5658.  
+[20] 王月容，李延明，李新宇，赵松婷，郭佳.北京市道路绿地对 $\mathrm { P M } _ { 2 . 5 }$ 浓度分布与消减作用的影响.湖北林业科技，2013，42(6)：4-9.  
+[21] 王绪鑫，王冀，向旬，董秀辉，刘宁微.鞍山大气颗粒物浓度的变化特征.环境科学研究，2009,22(6)：656-662.  
+[22] 汪永英，张雪梅，韩冬荟，孟琳，郭敏，段文标.哈尔滨供暖期间 $\mathrm { P M } _ { 2 . 5 }$ 污染状况及其与气象因子的相关性分析.安徽农业科学，2015，43(19):185-189.  
+[23] 王占山，李云婷，陈添，张大伟，孙峰，潘丽波.2013年北京市 $\mathrm { P M } _ { 2 . 5 }$ 的时空分布.地理学报，2015，70（1)：110-120.  
+[24] 李海梅，刘霞.青岛市城阳区主要园林树种叶片表皮形态与滞尘量的关系.生态学杂志，2008，27(10)：1659-1662.  
+[25] SabinLD,LiJVe,nehfKoacKDryeposidspeftcdfreeway in Los Angeles.Atmospheric Environment，2006，40(39）：7528-7538.  
+[26]贾彦，吴超，董春芳,李常平，廖慧敏.7种绿化植物滞尘的微观测定.中南大学学报：自然科学版,2012,43（11）：4547-4553.

@@ -1,0 +1,160 @@
+# 北方须鳅幼鱼的饲料蛋白质需求量
+
+韩如政」　骆小年」　韩雨哲 2\* 刘宗英」　徐浩然」　蒋湘辉1（1.辽宁省淡水水产科学研究院，辽阳111000；2.大连海洋大学，水产与生命学院，大连116023)
+
+摘要：为确定北方须鳅幼鱼对饲料蛋白质的需求量，进行了为期60d的生长试验。以鱼粉、发酵豆粕和酪蛋白作为蛋白质源，设计了蛋白质水平分别为 $2 2 . 8 5 \%$ 、 $3 1 . 0 9 \%$ 、 $4 0 . 7 2 \%$ 、$4 7 . 2 1 \%$ 和 $5 4 . 0 8 \%$ 的5 种等脂等能试验饲料。每种饲料设3个重复，每个重复放养平均体重为（ $\phantom { - } 0 . 7 7 { \pm } 0 . 0 2$ ） $\mathrm { \bf { g } }$ 的北方须鳅幼鱼40尾，以重复为单位养殖于水体为 $8 0 \mathrm { c m } { \times } 5 0 \mathrm { c m } { \times } 2 0 \mathrm { c }$ m的水槽中。结果表明：饲料蛋白质水平为 $2 2 . 8 5 \% \sim 4 0 . 7 2 \%$ 时，随着饲料蛋白质水平的升高，增重率和特定生长率显著升高（ $. P { < } 0 . 0 5 )$ ；再继续升高饲料蛋白质水平，增重率和特定生长率反而显著降低（ $( P { < } 0 . 0 5 \underline { { ) } }$ 。在饲料蛋白质水平为 $2 2 . 8 5 \% \sim 4 0 . 7 2 \%$ 时，饲料转化效率和存活率随着饲料蛋白质水平的升高呈升高趋势；当饲料蛋白质水平为 $4 0 . 7 2 \% \sim 5 4 . 0 8 \%$ 时，饲料转化率和存活率随着饲料蛋白质水平的升高呈下降趋势。在饲料蛋白质水平为 $4 0 . 7 2 \%$ 时，试验鱼获得最高的增重率、特定生长率、饲料转化效率和存活率。饲料蛋白质水平对北方须鳅幼鱼的肥满度、脏体比、肝体比以及全鱼粗蛋白质和水分含量均未产生显著影响( $( P { > } 0 . 0 5 )$ 。饲料蛋白质水平高于 $4 0 . 7 2 \%$ 后，全鱼粗脂肪含量显著降低（ $. P { < } 0 . 0 5 \$ ，并且饲料蛋白质水平为 $3 1 . 0 9 \% { \sim } 5 4 . 0 8 \%$ 时全鱼粗脂肪含量随着饲料蛋白质水平的升高而下降。由增重率与饲料蛋白质水平建立二次回归方程，得出北方须鳅幼鱼达到最大生长速度时的饲料蛋白质需求量为 $4 1 . 5 7 \%$ 。
+
+关键词：北方须鳅幼鱼；生长；蛋白质；需求量中图分类号：S963 文献标识码：A 文章编号:
+
+北方须鳅（Barbatulabarbatula nuda）又名北方条鳅、花泥鳅，属鲤形目，鳅科，条鳅亚科，须鳅属，是一种杂食性淡水鱼类，在东北地区分布于黑龙江中上游、鸭绿江、辽河等水域中[I]。因其蛋白质含量高且肉质细嫩鲜美等特点而深受群众喜食，价格也高于其他品种的泥鳅1倍多，具有较高的经济价值。目前，北方须鳅的市场供应只依靠天然捕捞天然的北方须鳅，由于过量捕捞及栖息场所环境的恶化，使其天然资源锐减，无法满足市场需求，因而人工养殖北方须鳅尤为迫切。鉴于此，辽宁省淡水水产科学研究院对北方须鳅进行了人工繁殖并获得成功，为该鱼进行规模化人工养殖奠定了基础。
+
+要对北方须鳅进行人工养殖，就必须提供优质的人工配合饲料，但目前有关北方须鳅营养需求量的研究尚未见报道。北方须鳅是刚从野生转为人工养殖的一个品种，因此，有关其各种营养素需求量的研究均有待进行，其中最重要的便是蛋白质需求量的研究。蛋白质是决定鱼类生长的关键营养物质之一，当饲料蛋白质水平达到需求量时，鱼类可达到最高生长速度；当饲料蛋白质水平不足时，则鱼类生长速度缓慢且饲料转化率低；而当饲料蛋白质水平过高时，会增加鱼类氮代谢负荷，使其生长速度和饲料蛋白质转化率降低[2。因此，确定北方须鳅的饲料蛋白质需求量对其营养学研究和人工养殖均具有重要的理论和实用意义。本试验采用不同蛋白质水平的等脂等能饲料饲喂北方须鳅幼鱼，研究其获得最大生长速度时的饲料蛋白质需求量，为开发北方须人工配合饲料提供依据。
+
+# 1材料与方法
+
+# 1.1 试验饲料
+
+以鱼粉（超级蒸汽鱼粉，秘鲁）、发酵豆粕（青岛根源生物集团）和酪蛋白（上海生工生物工程股份有限公司）为蛋白质源，大豆油为主要脂肪源，配制蛋白质水平分别为 $2 2 . 8 5 \%$ 、$3 1 . 0 9 \%$ 、 $4 0 . 7 2 \%$ 、 $4 7 . 2 1 \%$ 和 $5 4 . 0 8 \%$ 的5种等脂等能等脂试验饲料。试验饲料组成及营养水平见表1。各饲料原料均经粉碎过80 目筛，用小型绞肉机制粒后置于阴凉处阴干，然后破碎分筛，制成粒径为 $0 . 3 { \sim } 1 . 2 \ \mathrm { m m }$ 破碎饲料(随试验鱼的生长而调整饲料粒径)，分装后置于阴凉干燥处保存备用。
+
+# 表1试验饲料组成及营养水平(风干基础)
+
+<html><body><table><tr><td>Items</td><td>22.85</td><td>31.09</td><td>40.72</td><td>47.21</td><td>54.08</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>18.0</td><td>31.0</td><td>45.0</td><td>55.0</td><td>65.0</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td></tr><tr><td>豆油 Soybean oil</td><td>5.0</td><td>3.8</td><td>2.4</td><td>1.4</td><td>0.5</td></tr><tr><td>羧甲基纤维素 CMC</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td></tr><tr><td>微晶纤维素 Micro-cellulose</td><td>0.4</td><td>1.6</td><td>3.0</td><td>4.0</td><td>4.9</td></tr><tr><td>卡拉胶 Carrageenan</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>酪蛋白Casein</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td></tr><tr><td>矿物质预混料 Mineral premix1)</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>维生素预混料 Vitamin premix2)</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td></tr><tr><td>玉米淀粉 Corn starch</td><td>48.4</td><td>35.4</td><td>21.4</td><td>11.4</td><td>1.4</td></tr><tr><td>合计Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平_(湿重基础） Nutrient levels- (wet weight basis)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>10.19</td><td>10.02</td><td>10.18</td><td>10.20</td><td>10.31</td></tr><tr><td>粗蛋白质 Crude protein</td><td>22.85</td><td>31.09</td><td>40.72</td><td>47.21</td><td>54.08</td></tr><tr><td>粗脂肪 Crude lipid</td><td>6.83</td><td>6.85</td><td>6.75</td><td>6.78</td><td>6.71</td></tr><tr><td>粗纤维 Crude fiber</td><td>4.74</td><td>5.83</td><td>7.22</td><td>8.21</td><td>9.11</td></tr><tr><td>粗灰分 Ash</td><td>6.22</td><td>8.07</td><td>10.02</td><td>11.18</td><td>10.29</td></tr><tr><td>无氮浸出物 Nitrogen free extract3)</td><td>49.17</td><td>38.14</td><td>25.07</td><td>16.42</td><td>7.70</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总能 Gross energy/(MJ/kg)</td><td>17.49</td><td>17.48</td><td>17.62</td><td>17.66</td><td>17.75</td></tr></table></body></html>
+
+1’矿物质预混料为每千克饲料提供 Mineral premix provided the following per $\mathrm { k g }$ of diets : $\mathrm { N a C l } 3 0 0 0 \mathrm { m g }$ MgSO4:7HO5 782 mg, $\mathrm { F e S O _ { 4 } }$ $7 \mathrm { H } _ { 2 } \mathrm { O }$ 1 000 mg, $\mathrm { Z n S O _ { 4 } }$ $7 \mathrm { H } _ { 2 } \mathrm { O }$ （204号 $1 5 0 ~ \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } }$ $\mathrm { 4 H _ { 2 } O }$ 50.3 mg, $\mathrm { C u S O _ { 4 } } .$ （24号 $5 \mathrm { H } _ { 2 } \mathrm { O }$ 15 mg， $\mathrm { C o C l } _ { 2 }$ 6H2O 1.2 mg， $\mathrm { K I } 1 . 5 \mathrm { m g }$ 。
+
+2维生素预混料为每千克饲料提供 Vitamin premix provided the following per kg of diets: $\mathrm { V B } _ { 1 } 2 0 ~ \mathrm { m g }$ $\mathrm { V B } _ { 2 }$
+
+$2 0 ~ \mathrm { m g }$ ，VB6 $3 0 ~ \mathrm { m g }$ ，泛酸钙 Ca-pantothenate $5 0 \mathrm { m g }$ ，烟酸nicotinic acid $8 0 ~ \mathrm { { m g } }$ ，VA7000 IU，VD32 000 IU,VE $5 0 \mathrm { m g }$ ，VK310 mg，叶酸 folic acid $6 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 1 \mathrm { m g }$ ，生物素biotin $1 \mathrm { m g }$ ，肌醇inositol $8 0 ~ \mathrm { m g }$ ，VC100mg。
+
+3’无氮浸出物 $= 1 0 0 -$ （水分 $^ +$ 粗蛋白质 $^ +$ 粗脂肪 $^ +$ 粗纤维 $^ +$ 粗灰分）Nitrogen free extrac $\scriptstyle 1 = 1 0 0$ （20(moisture $^ +$ crudeprotein $^ +$ crude lipid+crude fiber+ash）。
+
+# 1.2试验鱼及饲养管理
+
+试验用北方须鳅幼鱼是辽宁省淡水水产研究院自行繁殖的幼鱼，取回后先驯养2周，期间投喂各组试验饲料的混合料。试验开始时将驯养的北方须鳅幼鱼禁食 $2 4 \mathrm { ~ h ~ }$ 后，选择体质健壮、规格一致的个体随机分配到15个水槽中，水体体积为 $8 0 ~ \mathrm { c m } { \times } 5 0 ~ \mathrm { c m } { \times } 2 0 ~ \mathrm { c m }$ ，每个水槽放养40尾，平均体重为‘ $\langle 0 . 7 7 { \scriptstyle \pm 0 . 0 2 }$ ） $\mathbf { g }$ 。每种试验饲料投喂3个水槽（重复)。每日投喂2 次（10:00 和18:00)，日投喂量接近鱼体体重的 $3 \%$ ，根据摄食情况做相应调整。投喂时在1h 内分多次投喂，以 $1 5 ~ \mathrm { m i n }$ 内食完为宜，残饵吸出并晾干称重。试验水槽 $2 4 \mathrm { ~ h ~ }$ 充气，水源为晾晒 $4 8 \mathrm { { h } }$ 的深井水，日换水量为全量的2/3，并吸出粪便。饲养期为 $6 0 \mathrm { d }$ ，试验期间用加热棒控制水温，水温为（ $2 0 . 0 { \pm } 1 . 0 \$ ） $^ { \circ } \mathrm { C }$ ，溶解氧浓度大于 $6 \mathrm { m g / L }$ ， $\mathrm { p H } 7 . 2 { \pm } 0 . 5$ 。
+
+# 1.3 测定指标
+
+饲养试验结束后，停食 $2 4 \mathrm { h }$ ，统计各水槽中剩余试验鱼数量，并计算存活率；分别测定各水槽中北方须鳅的体重，并计算增重率、饲料转化效率和特定生长率。计算公式如下：
+
+增重率 $( \% ) \ = 1 0 0 \times$ （终末体重-初始体重）/初始体重;
+
+饲料转化效率 $( \% ) = 1 0 0 \times$ （终末体重-初始体重）/摄食量;
+
+存活率 $( \% ) \ = 1 0 0 \times$ 试验结束时试验鱼的数量/初始试验鱼的数量；
+
+特定生长率 $( \% / \mathrm { d } ) \ = 1 0 0 \times$ （ln终末体重-ln初始体重）/60。
+
+同时，在每个水槽中随机取6尾试验鱼，测定体长、体重、内脏团重和肝脏重，根据公式计算肥满度、脏体比和肝体比：
+
+肥满度 $( \mathbf { g } / \mathrm { c m } ^ { 3 } ) \mathbf { \tau = } 1 0 0 \times$ 体重/体长;
+
+脏体比 $( \% ) = 1 0 0 \times$ 内脏团重/体重；
+
+肝体比 $( \% ) \ = 1 0 0 \times$ 肝脏重/体重。
+
+每个水槽中再随机取16尾试验鱼，放于 ${ } ^ { - 2 0 } \ { } ^ { \circ } { \mathrm { C } } .$ 冰箱中保存，用于测定鱼体成分。试验饲料和鱼体中粗蛋白质、粗脂肪和水分含量分别采用凯氏定氮法、索氏抽提法和105℃烘箱干燥法测定。试验饲料的粗灰分和粗纤维含量分别按照GB/T 6438-2007和GB/T 6434-94中方法测定，并根据试验饲料的水分、粗蛋白质、粗脂肪、粗灰分和粗纤维含量计算无氮浸出物含量。试验饲料的总能值用氧弹测热仪（HDC6000 自动量热仪，湖南华德电子有限公司）测定。
+
+# 1.4 统计分析
+
+试验数据用 SPSS15.0软件进行单因素方差分析（one-way ANOVA)，当组间差异显著（ $P { < } 0 . 0 5$ ）时，用Duncan 氏法进行多重比较检验。结果用平均值±标准误表示。根据饲料蛋白质水平和试验鱼增重率进行二次曲线回归分析，通过回归方程计算出北方须鳅幼鱼获得最大生长速度时的饲料蛋白质需求量[3]。
+
+# 2结果
+
+# 2.1饲料蛋白质水平对北方须鳅幼鱼生长指标的影响
+
+经过 $6 0 \mathrm { d }$ 的饲养，各组试验鱼的生长指标见表2。可以看出，随着饲料蛋白质水平的升高，北方须鳅幼鱼的生长速度（增重率和特定生长率）先出现显著升高（ $_ { . P < 0 . 0 5 } )$ ，当饲料蛋白质水平为 $4 0 . 7 2 \%$ 时试验鱼的生长速度达到最大，但再继续升高饲料蛋白质水平，试验鱼的生长速度反而显著下降（ $. P { < } 0 . 0 5 )$ 。在饲料转化效率和存活率上也得到了相似的趋势，即在饲料蛋白质水平为 $2 2 . 8 5 \% \sim 4 0 . 7 2 \%$ 时，饲料转化效率和存活率随着饲料蛋白质水平的升高而升高，当饲料蛋白质水平为 $4 0 . 7 2 \% \sim 5 4 . 0 8 \%$ 时，随着饲料蛋白质水平的升高，北方须鳅幼鱼的饲料转化效率和存活率均呈下降趋势。在饲料蛋白质水平为 $4 0 . 7 2 \%$ 时，试验鱼获得最高的饲料转化效率和存活率，分别为 $7 4 . 0 7 \%$ 和 $9 6 . 3 \%$ ，其饲料转化效率与饲料蛋白质水平为 $2 2 . 8 5 \%$ 和 $3 1 . 0 9 \%$ 时差异显著（ $( P { < } 0 . 0 5 )$ ，其存活率与饲料蛋白质水平为 $2 2 . 8 5 \%$ 时差异显著（ $_ { . } { P } { < } 0 . 0 5 )$ 。
+
+表2饲料蛋白质水平对北方须鳅幼鱼生长指标的影响 Table 2Effects of dietary protein level on growth indices of Barbatula barbatula nuda juvenile   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料蛋白质水平Dietaryprotein level/%</td></tr><tr><td>22.85</td><td>31.09</td><td>40.72</td><td>47.21</td><td>54.08</td></tr><tr><td>初始体重 Initial body</td><td>0.77±0.01</td><td>0.78±0.01</td><td>0.78±0.01</td><td>0.77±0.01</td><td>0.78±0.01</td></tr></table></body></html>
+
+weight/g
+
+<html><body><table><tr><td colspan="5">终末体重 Final body</td></tr><tr><td></td><td>2.01±0.01a</td><td>2.40±0.08b</td><td>2.90±0.13c</td><td>2.54±0.17b</td><td>2.40±0.01b</td></tr><tr><td>weight/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>增重率Weight gain</td><td>161.0±1.3a</td><td>211.0±3.1b</td><td>272.0±16.3c</td><td>227.9±17.6b</td><td>213.7±0.7b</td></tr><tr><td>rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>特定生长率 Specific</td><td>1.61±0.00a</td><td>1.88±0.05b</td><td>2.19±0.03c</td><td>1.99±0.06b</td><td>1.88±0.02b</td></tr><tr><td>growth rate/(%/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料转化效率 Feed</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>45.9±2.6a</td><td>64.1±1.5b</td><td>74.1±2.3c</td><td>71.9±3.2bc</td><td>70.9±1.8bc</td></tr><tr><td>efficiency/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>存活率 Survival rate/%</td><td>87.5±0.0a</td><td>91.3±3.8ab</td><td>96.3±1.3b</td><td>95.0±2.5ab</td><td>91.3±1.3ab</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。
+
+Values in the same row with different small leter superscripts mean significant differences（ $P { < } 0 . 0 5 \$ ）.The same as below.
+
+试验鱼的增重率（y）与饲料蛋白质水平 $( x )$ 符合二次曲线模型，结果见图1。由二次回归方程得出北方须鳅幼鱼获得最大生长速度时的饲料蛋白质需求量为 $4 1 . 5 7 \%$ 。
+
+![](images/9a0c0d3b5a9ecc497f87fbd5276a2372eeaf9e87144153fd635faf5e6ee6d877.jpg)  
+图1饲料蛋白质水平与北方须鳅幼鱼增重率的关系
+
+Fig.1The relationship between dietary protein level and weight gain rate of Barbatula barbatula nuda juvenile
+
+2.2饲料蛋白质水平对北方须鳅幼鱼肥满度、脏体比、肝体比和鱼体成分的影响
+
+各组试验鱼的肥满度、脏体比、肝体比及鱼体成分分析结果见表3。可以看出，试验鱼的肥满度、脏体比、肝体比以及全鱼水分和粗蛋白质含量各组之间均无显著差异（ $( P { > } 0 . 0 5 )$ 。但是，当饲料蛋白质水平在 $2 2 . 8 5 \% \sim 4 0 . 7 2 \%$ 时，随着饲料蛋白质水平的升高，试验鱼的肥满度和脏体比都有随之增高的趋势；当饲料蛋白质水平超过 $4 0 . 7 2 \%$ 时，则都随之有所下降。同时，当饲料蛋白质水平在 $2 2 . 8 5 \% \sim 4 0 . 7 2 \%$ 时，随着饲料蛋白质水平的升高，全鱼粗蛋白质含量有随之增高的趋势；当饲料蛋白质水平超过 $4 0 . 7 2 \%$ 时，全鱼粗蛋白质含量保持平稳。饲料蛋白质水平高于 $4 0 . 7 2 \%$ 后，全鱼粗脂肪含量显著降低（ $\scriptstyle \cdot < 0 . 0 5 .$ ，并且饲料蛋白质水平为 $3 1 . 0 9 \% { \sim } 5 4 . 0 8 \%$ 时全鱼粗脂肪含量随着饲料蛋白质水平的升高而下降。
+
+表3饲料蛋白质水平对北方须鳅幼鱼肥满度、脏体比、肝体比及鱼体成分（湿重基础）的影响
+
+Table 3Effects of dietary protein levels oncondition factor,viscerasomatic index,hepatosomatic index and whole body composition（wet weight basis） of Barbatula barbatula nuda juvenile   
+
+<html><body><table><tr><td></td><td colspan="5">饲料蛋白质水平 Dietary protein level/%</td></tr><tr><td>项目Items</td><td>22.85</td><td>31.09</td><td>40.72</td><td>47.21</td><td>54.08</td></tr><tr><td>肥满度 Condition factor/（g/cm）</td><td>0.97±0.04</td><td>0.99±0.05</td><td>1.03±0.02</td><td>1.02±0.03</td><td>1.01±0.01</td></tr><tr><td>脏体比Viscerasomatic index/%</td><td>11.20±0.08</td><td>11.88±0.29</td><td>13.13±1.50</td><td>12.88±0.17</td><td>11.44±0.28</td></tr><tr><td>肝体比 Hepatosomatic index/%</td><td>1.36±0.03</td><td>1.32±0.12</td><td>1.35±0.02</td><td>1.36±0.17</td><td>1.30±0.16</td></tr><tr><td>全鱼水分含量 Moiture content of whole body/%</td><td>74.56±0.52</td><td>73.17±0.38</td><td>73.65±0.66</td><td>74.21±0.27</td><td>74.29±0.43</td></tr><tr><td>全鱼粗脂肪含量 Crude lipid content of whole</td><td>6.89±0.26a</td><td>7.48±0.39a</td><td>6.79±0.17a</td><td>5.86±0.31b</td><td></td></tr><tr><td>body/% 全鱼粗蛋白质含量 Crude protein content of whole</td><td></td><td></td><td></td><td></td><td>5.63±0.22b</td></tr><tr><td>body/%</td><td>14.13±0.26</td><td>14.67±0.32</td><td>14.92±0.24</td><td>14.98±0.41</td><td>14.99±0.35</td></tr></table></body></html>
+
+# 3讨论
+
+蛋白质对鱼类的生长、繁殖及健康都起着至关重要的作用。蛋白质还是鱼体组成的主要有机质，占鱼体干重的 $6 5 \% \sim 7 5 \%$ 。饲喂养殖鱼类的过程就是一个蛋白质生产和积累的过程。
+
+因此，鱼类对饲料蛋白质需求量的研究在鱼类营养与饲料科学中占重要地位。目前，国内外学者在鱼类蛋白质需求量的研究方面作了大量工作，研究得出草食性的草鱼（Ctenopharyngodonidellus）幼鱼的饲料蛋白质需求量为 $41 \% \sim 4 3 \%$ (占饲料干物质百分比)[4]，杂食性的鲤鱼（Cyprinuscarpio）幼鱼的饲料蛋白质需求量为 $4 3 \% \sim 4 7 \%$ （占饲料干物质百分比）[5]，肉食性的美洲鳗（Anguilla rostrata）幼鱼的饲料蛋白质需求量为 $47 \%$ （占饲料干物质百分比）[6]。本试验得出北方须鳅幼鱼的饲料蛋白质需求量为 $4 1 . 5 7 \%$ （占饲料百分比)，折算成占饲料干物质百分比为 $4 6 . 3 \%$ ，高于草食性草鱼，略低于肉食性的美洲鳗，而与杂食性的鲤鱼相近。这表明北方须鳅是一种杂食且偏肉食性的鱼类。鱼类对饲料蛋白质的需求量与鱼的品种、规格及饲料蛋白质源等有关。在其他的研究中发现，泥鳅幼鱼的饲料蛋白质需求量占饲料百分比为 $3 9 . 5 2 \% [ 7 ]$ ，占饲料干物质百分比为 $4 5 . 5 \% [ 8 ]$ ，略低于本研究得到的北方须鳅幼鱼的饲料蛋白质需求量（占饲料百分比为 $4 1 . 5 7 \%$ ，占饲料干物质百分比为 $4 6 . 3 \%$ )，表明北方须鳅虽然与泥鳅同为鳅科鱼类，但北方须鳅比泥鳅更偏肉食性。本试验结果显示，在饲料蛋白质水平为 $2 2 . 8 5 \% \sim 5 4 . 0 8 \%$ 时，北方须鳅全鱼粗蛋白质含量为$1 4 . 1 3 \% \sim 1 4 . 9 8 \%$ 、粗脂肪含量为 $5 . 6 3 \% \sim 7 . 4 8 \%$ 、水分含量为 $7 3 . 1 7 \% \sim 7 4 . 5 6 \%$ 。而叶文娟等[8]的研究报道,在饲料蛋白质水平为 $2 2 . 8 2 \% \sim 5 1 . 9 7 \%$ 时，泥鳅全鱼粗蛋白质含量为 $1 4 . 0 5 \% \sim$ $1 4 . 7 7 \%$ 、粗脂肪含量为 $4 . 0 7 \% \sim 4 . 7 4 \%$ 、水分含量为 $7 6 . 5 0 \% \sim 7 7 . 7 3 \%$ 。对比可知，北方须鳅的全鱼粗蛋白质含量与泥鳅基本一致，但其粗脂肪含量较高，水分含量较低。
+
+在鱼类营养研究中，确定营养需求量大都是根据剂量-反应的数据资料而得到的。本试验得到的北方须鳅幼鱼的饲料蛋白质水平与增重率的关系符合典型的二次曲线模型，这一规律在其他鱼类中也有类似的报道[6.9-13]。北方须鳅幼鱼的饲料蛋白质水平在其需求量以下时，增重率和特定生长率均随着饲料蛋白质水平的升高而显著升高，当饲料蛋白质水平高于需求量时，增重率和特定生长率则随着饲料蛋白质水平的升高而下降，即饲料蛋白质水平超过需求量时会抑制北方须鳅幼鱼的生长，这一结果与其他鱼类上的研究结果[14-16]一致。饲料蛋白质水平高于其需求量时，北方须鳅幼鱼全鱼粗蛋白质含量不再随饲料蛋白质水平的升高而升高，而饲料转化效率则持续降低，进而影响了鱼体蛋白质的沉积效率，从而造成了饲料蛋白质的浪费，这与前人的研究报道结果[8:17-18]类似。而饲料蛋白质水平为 $3 1 . 0 9 \% \sim 5 4 . 0 8 \%$ 时，北方须鳅幼鱼的全鱼粗脂肪含量随饲料蛋白质水平的升高而降低，这与相关研究结果[9-22]一致。鱼类饲料中的可消化糖类能改善饲料蛋白质的利用，减少蛋白质的分解供能，从而提高饲料蛋白质的利用率。本试验中，蛋白质水平为 $4 7 . 2 1 \%$ 和 $5 4 . 0 8 \%$ 的试验饲料的无氮浸出物含量（分别为 $1 6 . 4 2 \%$ 和 $7 . 7 0 \%$ ）较低是否也是造成这2 组饲料蛋白质浪费的原因之一有待进一步研究。此外，有关北方须鳅饲料的适宜糖类水平也有待进一步研究测定，以便将糖类水平调控在适宜范围内，从而去除糖类可能对蛋白质需求量产生的影响。本试验的结果还表明，在饲料蛋白质水平达到需求量时，北方须鳅的生长速度达到最高，同时饲料转化效率和存活率均表现出最佳水平，这为在实际生产中配制北方须鳅实用饲料提供了重要依据。
+
+# 4结论
+
+用鱼粉、发酵豆粕和酪蛋白为蛋白质源，经过60d饲养试验，由增重率与饲料蛋白质水平建立二次回归方程，得出北方须鳅幼鱼达到最大生长速度时的饲料蛋白质需求量为$4 1 . 5 7 \%$ 。
+
+参考文献：
+
+[1]解玉浩.东北地区淡水鱼类[M].沈阳:辽宁科学技术出版社,2007:236-237.
+
+[2] 麦康森.水产动物营养与饲料学[M].2版.北京:中国农业出版社,2011:18-22.
+
+[3]美国科学院国家研究委员会.鱼类与甲壳类营养需要[M].麦康森,李鹏,赵建民,译.北京:科学出版社，2015:12-14.
+
+[4] DABROWSKI K.Protein requirements of grass carp fry (Ctenopharyngodon idella Val.)[J].Aquaculture,1977,12(1):63-73.
+
+[5] NRC.Nutrient requirements of fish[S].Washington,D.C.:National Academy Press,1933:16.
+
+[6] TIBBETTS S M,LALL S P,ANDERSON D M.Dietary protein requirement of juvenile American eel (Anguilla rostrata) fed practical diets[J].Aquaculture,2000,186(1/2):145-155.
+
+[7]罗艳萍,张家国,冷向军.泥鳅幼鱼对饲料中蛋白质的适宜需要量研究[J].安徽农业科学,2009,37(18):8541-8543,8692.
+
+[8]叶文娟,韩冬,朱晓鸣,等.饲料蛋白水平对泥鳅幼鱼生长和饲料利用的影响[J].水生生物学报,2014,38(3):571-575.
+
+[9] 邵庆均,苏小凤,许梓荣,等.饲料蛋白水平对宝石鲈生长和体组成影响研究[J].水生生物学报，2004,28(4):367-373.
+
+[10] 林黑着,江琦,黄剑南,等.配合饲料适宜蛋白含量及蛋白能量比的初步研究[J].上海水产大学学报,1998,7(3):187-192.
+
+[11] 石英,冷向军,李小勤,等.饲料蛋白水平对血鹦鹉幼鱼生长、体组成和肠道蛋白消化酶活性的影响[J].水生生物学报,2009,33(5):874-880.
+
+[12] 刘永坚,刘栋辉,田丽霞,等.饲料蛋白质和能量水平对红姑鱼生长和鱼体组成的影响[J].水产学报,2002,26(3):242-246.
+
+[13] CHOU R L,SU M S,CHEN H Y.Optimal dietary protein and lipid levels for juvenile cobia (Rachycentron canadum)[J].Aquaculture,2001,193(1/2):81-89.
+
+[14] ELANGOVAN A,SHIM K F.Growth response of juvenile Barbodes altus fed isocaloric diets with variable protein levels[J].Aquaculture,1997,158(3/4):321-329.
+
+[15]JAUNCEY K.The effects of varying dietary protein level on the growth,food conversion,protein utilization and body composition of juvenile tilapias(Sarotherodon mossambicus)[J].Aquaculture,1982,27(1):43-54.
+
+[16] OZORIO R O A,VALENTE L M P,CORREIA S,et al.Protein requirement for maintenance and maximum growth of two-banded seabream (Diplodus vulgaris） juveniles[J].Aquaculture Nutrition,2009,15(1):85-93.
+
+[17] SHIAU S Y,HUANG S L.Optimal dietary protein level for hybrid tilapia (Oreochromis niloticusxO.aureus) reared in seawater[J].Aquaculture,1989,81(2):119-127.
+
+[18] KIM S S,LEE K J.Dietary protein requirement of juvenile tiger puffer (Takifugu rubripes) [J].Aquaculture,2009,287(1/2):219-222.
+
+[19]YANG S D,LIOU C H,LIU F G.Effects of dietary protein level on growth performance,carcass composition and ammonia excretion in juvenile silver perch (Bidyanus bidyanus)[J].Aquaculture,2002,213(1/2/3/4):363-372.
+
+[20] 邹社校.黄颡鱼幼鱼蛋白质需要量的研究[J].湖北农学院学报,1999,19(2):143-145. [21] LUO Z,LIU Y J,MAI K S,et al.Optimal dietary protein requirement of grouper Epinephelus coioidesjuvenilesfed isoenergeticdiets in floatingnetcages[J].Aquaculture Nutriti0n,2004,10(4):247-252.
+
+[22] CHEN H Y,TSAI J C.Optimal dietary protein level for the growth of juvenile grouper,Epinephelus malabaricus,fed semipurified diets[J].Aquaculture,1994,119(2/3):265-271.
+
+Dietary Protein Requirementof Barbatula barbatula nuda Juvenile HANRuzheng1LUO Xiaonian1HAN Yuzhe²\*LIU ZongyinglXU Haoran1JIANG Xianghui1
+
+(1.Freshwater Fisheries Research Academy ofLiaoning Province,Liaoyang 11Ooo, China; 2. College of Fisheries and Life Sciences,Dalian Ocean University,Dalian 116O23, China)
+
+Abstract: A 6O-day feeding trial was conducted to investigate the dietary protein requirement of Barbatula barbatula nuda juvenile. Fish meal, fermented soybean meal and casein were used as the protein sources to formulate 5 isolipidic and isocaloric experimental diets containing different protein levels of $2 2 . 8 5 \%$ ， $3 1 . 0 9 \%$ ， $4 0 . 7 2 \%$ ， $4 7 . 2 1 \%$ and $5 4 . 0 8 \%$ ， respectively. Triplicate tanks were assigned to each experimental diet, and 4O fish with initial body weight of $( 0 . 7 7 { \scriptstyle \pm 0 . 0 2 } )$ g were assigned to each tank (water body volume: $8 0 \ \mathrm { c m } { \times } 5 0 \ \mathrm { c m } { \times } 2 0 \ \mathrm { c m } ,$ ). The result showed as follows: when dietary protein levels were $2 2 . 8 5 \%$ to $4 0 . 7 2 \%$ ， the weight gain rate (WGR） and special growth rate (SGR) were significantly increased with the dietary protein level increasing （ $( P { < } 0 . 0 5 )$ , but with-continued to increasing ofe the dietary protein levelinereasing, the WGR and SGR were significantly decreased ( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 ) ,$ .When dietary protein levels were $2 2 . 8 5 \%$ to $4 0 . 7 2 \%$ the feed efficiency (FE) and survival rate (SR) showed an increase trend with the dietary protein level increasing;when dietary protein levels were $4 0 . 7 2 \%$ to $5 4 . 0 8 \%$ ,the FE and SR showed a decrease trend with the dietary protein level increasing.The WGR,SGR FE and SR of Barbatula barbatula nuda juvenile reached the maximum values when dietary protein level was $4 0 . 7 2 \%$ Condition factor (CF), viscerosomatic index (VSI),hepatosomatic index (HSI) and the contents of whole body moisture and crude protein were not significantly affected by dietary protein level （2 $( P { > } 0 . 0 5 )$ . The crude lipid content of whole body was significantly decreased when dietary protein level over $4 0 . 7 2 \%$ （ $P { < } 0 . 0 5 )$ ），it was decreased with the dietary protein level increased from
+
+$3 1 . 0 9 \%$ to $5 4 . 0 8 \%$ . Base on the quadratic regression equation of WGR and dietary protein level, dietary protein requirement of Barbatula barbatula nuda juvenile to reach the maximum growth rate is $4 1 . 5 7 \%$ ·
+
+Key words: Barbatula barbatula nuda juvenile; growth; protein; requirement

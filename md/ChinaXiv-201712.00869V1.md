@@ -1,0 +1,90 @@
+临床研究
+
+# 鼻咽癌患者外周血端粒酶hTERTmRNA的定量检测及其临床意义
+
+付新洒，申聪香，李冠雪，张鑫雨，文忠南方医科大学珠江医院耳鼻咽喉-头颈外科，广东广州510282摘要：目的 定量检测鼻咽癌患者外周血中端粒酶逆转录酶催化亚单位(hTERT）mRNA的表达，并探讨其在鼻咽癌中的诊断及治疗意义。方法 采用实时荧光定量PCR技术(QPCR)检测33例鼻咽癌患者治疗（放疗或化疗)前后血浆中hTERT mRNA的表达,并分析其与临床病理因素的关联,以24例健康志愿者作为对照。结果结果显示,健康志愿者血浆中hTERTmRNA相对表达量为 $0 . 9 5 { \scriptstyle \pm 0 . 3 7 }$ ，鼻咽癌患者血浆中hTERTmRNA含量达到 $1 0 . 7 5 { \scriptstyle \pm 4 . 2 9 ( P < 0 . 0 5 ) }$ 。鼻咽癌患者血浆中hTERTmRNA的表达与年龄、性别无统计学差异( ${ \mathrm { \ P } } { > } 0 . 0 5 { \mathrm { ) } }$ ,而与临床分期、T分期及N分期有显著性差异 $( P { < } 0 . 0 5 )$ 。早期患者(I、Ⅱ期),放疗后其表达量 $3 . 4 3 { \pm } 1 . 4 2 \$ 较治疗前 $5 . 6 0 { \scriptstyle \pm 2 . 3 3 }$ 明显下降;晚期患者(ⅡI、IV期)诱导化疗及放疗后其表达量较治疗前 $1 2 . 6 8 { \pm } 3 . 0 8 \$ 分别降为$1 0 . 6 8 { \pm } 2 . 4 8 \ . 3 . 1 3 { \pm } 1 . 6 9 ( P { < } 0 . 0 5 )$ 。结论 鼻咽癌患者血浆中hTERTmRNA的表达明显升高，放化疗能够有效抑制该基因的表达，而且该基因的含量与肿瘤的临床分期、大小及淋巴结浸润范围等临床病理因素密切相关,从而提示检测鼻咽癌患者外周血中hTERTmRNA的含量,有可能为鼻咽癌患者早期诊断及疗效判断提供重要信息。
+
+关键词：鼻咽癌;血浆;实时荧光定量;hTERTmRNA
+
+# Quantitative detection of plasma level of human telomerase reverse transcriptase mRNA in patients with nasopharyngeal carcinoma
+
+FU Xinsa, SHEN Congxiang, LI Guanxue, ZHANG Xinyu,WEN Zhong Departmentoftolaygology-HeddNeckrgeryujngHspitalouternedicalUersityangzouin
+
+Abstract: Objective To quantitatively measure plasma level of human telomerase reverse transcriptase (hTERT) mRNA in patients with nasopharyngeal carcinoma (NPC)and explore its implications forNPCdiagnosis and treatment. Methods With 24 healthyvoluntersservingas controls,te plasma level of hTERTmRNA was detected in33NPCpatients byreal-time PCR beforeandafter treatmentswithmotherapyoradiotherapyanditsssociationwiththeclinicopathologicalpramtersof the patients were analyzed.Results The NPC patients showed a significantly higher mean plasma level of hTERTmRNA than the healthy volunteers ( $1 0 . 7 5 { \scriptstyle \pm 4 . 2 9 }$ Us $0 . 9 5 { \scriptstyle \pm 0 . 3 7 } ,$ $P { < } 0 . 0 5 \mathrm { \cdot }$ ). The plasma hTERT mRNA level in the NPC patientswassignificantly correlated with clinical staging, tumor size,and degree of nodal metastasis $_ { ( P < 0 . 0 5 ) }$ but with gender or age $( P { > } 0 . 0 5 )$ . In patients with stage I and II NPC, the plasma hTERT mRNA level decreased significantly after radiotherapy ( $5 . 6 0 { \scriptstyle \pm 2 . 3 3 }$ Us $3 . 4 3 { \scriptstyle \pm 1 . 4 2 } ^ { }$ ;in patients in advanced stages (II and IV), plasma hTERT mRNA level decreased significantly from $1 2 . 6 8 { \scriptstyle \pm 3 . 0 8 }$ to $1 0 . 6 8 { \scriptstyle \pm 2 . 4 8 }$ 0 $P <$ 0.05)after chemotherapy and to $3 . 1 3 \pm 1 . 6 9$ $_ { ( P < 0 . 0 5 ) }$ after radiotherapy. Conclusion Radiotherapy and chemotherapy can fectively suppesselevated plasma hTERT mRNA levels inNPC patients.PlasmahTERT mRNA level is closely related to the clinicopathological factorsand provides importantinformationforearlydiagnosis andtherapeutic efectevaluationof NPC.
+
+Key words: nasopharyngeal carcinoma; plasma; real-time fluorescent quantitative PCR; human telomerase reverse transcriptase
+
+鼻咽癌(nasopharyngeal carcinoma,NPC)是我国南方和东南亚地区高发的一种恶性肿瘤[1-2]。鼻咽癌在中国的发病率和死亡率分别为3.16/10万和1.53/10万[3]，且广东省发病率高达20/10万[4]。然而由于疾病早期缺乏典型的临床表现，且病变部位隐蔽，早期肿瘤不易被发现,其5年生存率仍只有 $4 7 . 9 6 \% ^ { [ 5 ] }$ 。如何早期发现鼻咽癌成为临床与实验室的重要课题。目前应用于鼻咽癌高危人群筛查的主要方法有EB病毒血清标志物检测(VCA-IgA及EA-IgA),但临床应用结果不理想[6-7]。肿瘤分子标志物的发现及其检测方法的完善给肿瘤的早期诊断、疗效监测及预后随访提供了一个崭新的检测指标。血浆游离RNA与肿瘤之间的关系受到了众多研究者的重视，现已在不同肿瘤中检测到游离RNA的存在。一些调查者已经报道血浆游离RNA的敏感性和组织特异性均高于传统的肿瘤标志物[8-10]。循环血浆游离RNA在诊断、疗效判断和评估肿瘤预后方面为我们开启了一个崭新的视野。近些年来，血浆hTERTmRNA已经在多种肿瘤的血浆中被检测到，例如前列腺癌、肺癌及胃癌[8-9,]等,并已证实升高的hTERTmRNA与肿瘤患者的临床病理参数、疗效判断及其他肿瘤标志物之间都有着密切的关系。因此我们定量检测鼻咽癌患者外周血浆中hTERTmRNA水平，并观察其在肿瘤诊断与疗效观察中的意义。
+
+# 1材料与方法
+
+# 1.1临床标本
+
+33例鼻咽癌患者均来自南方医科大学珠江医院耳鼻喉科，按鼻咽癌2008临床分期标准进行系统分期，其中4例I期,5例Ⅱ期,17例Ⅲ期,7例V期;11例T1,6例T2,13例T3,3例T4;4例N0,5例N1,17例N2,7例N3;所有病例均为M0，病理学检测全部为未分化型鳞状细胞癌。33例患者年龄跨度为23\~70岁，中位年龄为49岁，其中男16例,女17例。其中I、Ⅱ期患者直接行放疗，ⅢI、V期行两个疗程诱导化疗后再行放疗，治疗前、诱导化疗后及放疗后分别于上午6时到9时之间采集外周血 $2 { \mathrm { m L } }$ ,EDTA抗凝， $2 \mathrm { h }$ 内 $2 0 0 0 ~ \mathrm { r / m i n }$ ，离心 $1 0 \mathrm { m i n }$ 分离血浆并保存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱备用。24名健康对照来自珠江医院耳鼻喉科住院患者，标本处理同前。
+
+# 1.2主要试剂与仪器
+
+TRIZOL(invitrogen） ;PrimeScript RT reagent Kit逆转录试剂盒(Takara);SYBRPremixExTaqI试剂盒(Takara);ABI7500荧光定量PCR仪(美国ABI)。
+
+# 1.3 引物
+
+内参 $\beta$ -action引物及hTERT引物采用“Primerexpress"设计，引物序列分别为：hTERT：上游引物5'-CGGAAGAGTGTCTGGAGCAA-3'，下 游 引物5'-GGATGAAGCGGAGTCTGGA-3'; $\beta$ -action:上游引物5'-TGACACCTCACCTCACCCAC-3'，下游引物5'-CACTGTCTTCCGCAAGTTCAC-3'。引物由上海生工公司合成。
+
+# 1.4实时荧光RT-PCR法
+
+$2 5 0 ~ \mu \mathrm { L }$ 血浆加入 $7 5 0 ~ \mu \mathrm { L }$ Trizol试剂,混匀,按Trizol操作说明书进行RNA提取，紫外分光光度计检测总RNA的浓度，按样品在 $2 6 0 \mathrm { n m }$ 和 $2 8 0 \mathrm { n m }$ 的光吸收值确定RNA的质量，A260/280在 $1 . 8 { \sim } 2 . 0$ 视为抽提的总RNA纯度高， $- 8 0 \mathrm { { ^ circ C } }$ 保存。分别取总RNA $1 ~ { \mu \mathrm { g } }$ ，按反转录试剂盒说明书操作，逆转录反应合成cDNA，以反应所得cDNA进行PCR扩增。反应体系为SYBRPremix$1 0 ~ \mu \mathrm { L }$ 、上下游引物各 $0 . 4 ~ \mu \mathrm { L }$ 、ROXReference Dye II$0 . 4 ~ \mu \mathrm { L }$ 、cDNA模板 $1 ~ \mu \mathrm { L }$ 和灭菌去离子水 $7 . 8 ~ \mu \mathrm { L }$ 共$2 0 ~ \mu \mathrm { L }$ 。反应条件如下：预变性： $9 5 \mathrm { ~ \textdegree C ~ } 3 0 \mathrm { ~ s ~ }$ ;PCR反应：$9 5 ~ \mathrm { { ^ { \circ } C } }$ 变性 $1 5 ~ \mathrm { s } ; 6 0 ~ \mathrm { ^ { \circ } C }$ 退火 $2 0 \ \mathrm { s } , 7 2 \ \mathrm { ^ c }$ 延伸 $3 4 \mathrm { ~ s } , 4 0$ 个循环；溶解曲线分析。实验重复3次。 $\beta$ -actin作为内参照。实时荧光定量PCR由荧光定量PCR仪自动采集目的基因与内参基因的Ct值，基因表达量用实验组/对照组 $= 2 ^ { - \Delta \Delta \mathrm { C t } }$ 计算。
+
+# 1.5统计学分析
+
+采用SPSS13.0软件进行处理，多组间样本均数的比较采用方差分析检验，治疗前后采用配对样本 $t$ 检验，两独立样本采用独立样本 $\mathbf { \Phi } _ { t }$ 检验， $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1hTERTmRNA在鼻咽癌和正常对照组的相对表达量
+
+实验结果显示，健康志愿者血浆中hTERTmRNA 相对表达量为 $0 . 9 5 { \scriptstyle \pm 0 . 3 7 }$ ,鼻咽癌患者血浆中hTERT mRNA含量升高至 $1 0 . 7 5 { \scriptstyle \pm 4 . 2 9 ( P < 0 . 0 5 ) }$ O
+
+# 2.2hTERTmRNA与鼻咽癌临床病理因素的关系
+
+鼻咽癌患者血浆中hTERTmRNA的表达与性别无统计学相关（ $( P { > } 0 . 0 5 )$ ，而与临床分期、肿瘤大小及淋巴结浸润范围有显著性差异 $( P { < } 0 . 0 5$ ,表1)。实验结果显示，健康志愿者血浆中hTERTmRNA相对表达量为$0 . 9 5 { \scriptstyle \pm 0 . 3 7 }$ ，I期为 $3 . 3 5 { \pm } 1 . 0 7$ ,Ⅱ期为 $7 . 4 6 { \pm } 0 . 9 1 \$ ,Ⅲ期为$1 1 . 1 7 { \scriptstyle \pm 2 . 0 6 }$ ,IV期为 $1 5 . 1 8 { \pm } 2 . 9 3 \$ 。N0为 $3 . 3 5 { \scriptstyle \pm 1 . 0 7 }$ ,N1为 $7 . 4 0 { \scriptstyle \pm 0 . 9 5 , \mathrm { N } 2 }$ 为 $1 2 . 0 4 { \pm } 3 . 1 5$ ，N3为 $1 4 . 2 3 { \pm } 2 . 4 4$ ;T1为 $6 . 9 3 { \scriptstyle \pm 3 . 3 4 }$ ，T2为 $9 . 6 7 { \scriptstyle \pm 2 . 6 6 , \mathrm { T } 3 }$ 为 $1 2 . 6 5 { \scriptstyle \pm 1 . 7 2 , \mathrm { T } 4 }$ 为$1 8 . 6 7 { \scriptstyle \pm 1 . 5 3 }$ ，各期之间均具有统计学差异 $( P { < } 0 . 0 5 )$ ，且分期越晚，含量越高。
+
+# 2.3hTERTmRNA与鼻咽癌疗效检测的关系
+
+I、Ⅱ期共9例患者直接行放疗，Ⅱ、IV期共24例患者行两个疗程诱导化疗后再行放疗。可见I、Ⅱ期行单纯放疗后hTERTmRNA由 $5 . 6 0 { \pm } 2 . 3 3 \$ 降为 $3 . 4 3 { \pm } 1 . 4 2$ 放疗能够使其表达量明显下降。ⅡI、IV期共24例患者行两个疗程诱导化疗后再行放疗，治疗前，诱导化疗后及诱导化疗 $^ +$ 放疗后其表达量分别为 $1 2 . 6 8 \pm 3 . 0 8$ $1 0 . 6 8 { \pm } 2 . 4 8 \$ 及 $3 . 1 3 { \pm } 1 . 6 9$ ，可见诱导化疗后其表达量较治疗前稍降低，放疗后出现明显下降。表4结果可看出，Ⅲ、IV期诱导化疗 $\dot { + }$ 放疗后 $( 3 . 1 3 \pm 1 . 6 9 , P { < } 0 . 0 0 1 )$ 较单纯放疗后( $1 0 . 6 8 { \scriptstyle \pm 2 . 4 8 , P = 0 . 0 0 7 } ;$ 下降幅度更明显。
+
+# 3讨论
+
+本实验中对鼻咽癌患者和正常对照组的血浆hTERTmRNA进行定量检测，鼻咽癌患者血浆中hTERTmRNA的表达量较正常对照组显著升高，且具有统计学意义，结果与国外作者在不同肿瘤中的研究一致[10-16]。说明外周血浆中hTERTmRNA的定量检测可能对鼻咽癌的诊断有重要的临床意义。我们按鼻咽癌2008临床分期标准进行系统分期后进行统计分析，结果显示，早期鼻咽癌患者外周血血浆中hTERTmRNA即明显升高，且肿瘤分期越晚，含量越高(从临床分期、T分期及N分期都可看出升高趋势)。可见血浆中hTERTmRNA在鼻咽癌发病早期即出现升高，现阶段尚缺乏更好的鼻咽癌早期检测手段的时候，本研究结果有可能有助于对鼻咽癌患者临床早期诊断提供有价值的生物学指标。
+
+表1鼻咽癌患者外周血hTERTmRNA的表达量与临床病理参数的关系  
+Tab.1Relative expression of hTERT mRNA in plasma in nasopharyngeal carcinoma and itsassociation with the clinicopathological factors   
+
+<html><body><table><tr><td>Parameters</td><td>No.of patients</td><td>Mean±SD</td><td>F/t</td><td>P</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>16</td><td>10.48±4.39</td><td>-0.346</td><td>0.731</td></tr><tr><td>Female</td><td>17</td><td>11.00±4.31</td><td></td><td></td></tr><tr><td>Age</td><td></td><td></td><td></td><td></td></tr><tr><td><50 years</td><td>17</td><td>11.04±4.84</td><td>0.395</td><td>0.696</td></tr><tr><td>≥50 years</td><td>16</td><td>10.44±3.75</td><td></td><td></td></tr><tr><td>Clinical stage</td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>4</td><td>3.35±1.07</td><td>32.457</td><td><0.001</td></tr><tr><td>ⅡI</td><td>5</td><td>7.46±0.91*</td><td></td><td></td></tr><tr><td>IⅢI</td><td>17</td><td>11.17±2.06*</td><td></td><td></td></tr><tr><td>IV</td><td>7</td><td>15.18±2.93*</td><td></td><td></td></tr><tr><td>Regional lymph nodes metastasis</td><td></td><td></td><td></td><td></td></tr><tr><td>N0</td><td>4</td><td>3.35±1.07</td><td>18.625</td><td><0.001</td></tr><tr><td>N1</td><td>5</td><td>7.40±0.95*</td><td></td><td></td></tr><tr><td>N2</td><td>17</td><td>12.04±3.15*</td><td></td><td></td></tr><tr><td>N3</td><td>7</td><td>14.23±2.44*</td><td></td><td></td></tr><tr><td>Invasion depth</td><td></td><td></td><td></td><td></td></tr><tr><td>T1</td><td>11</td><td>6.93±3.34</td><td>20.839</td><td><0.001</td></tr><tr><td>T2</td><td>6</td><td>9.67±2.66*</td><td></td><td></td></tr><tr><td>T3</td><td>13</td><td>12.65±1.72*</td><td></td><td></td></tr><tr><td>T4</td><td>3</td><td>18.67±1.53*</td><td></td><td></td></tr></table></body></html>
+
+血浆hTERTmRNA的含量与胃癌、前列腺癌患者的临床病理参数密切相关(与年龄、性别等无关，与临床分期、淋巴结浸润范围等相关)[1I,16]。本研究中也进一步发现，鼻咽癌患者血浆中hTERTmRNA的表达与性别、年龄无统计学相关( $( P { > } 0 . 0 5 )$ ,但与鼻咽癌临床分期、局部肿瘤大小及淋巴结浸润范围有显著性差异( $\scriptstyle ( P <$ 0.05)。且肿瘤分期越晚，含量越高提示血浆hTERTmRNA可能对于评判鼻咽癌严重程度也有重要意义。
+
+血浆hTERTmRNA检测在评判恶性肿瘤的治疗效果方面也显示出了潜在的重要价值。Salvatore等[17]报道，直肠癌患者接受新辅助放化疗中，血浆hTERTmRNA可以用于放化疗疗效的评估。鲁荣玖等[18发现AML(急性粒细胞性白血病)首治患者经化疗达到完全缓解时hTERTmRNA水平 $( 2 . 4 \pm 2 . 0 ) \$ 大部分恢复正常（正常人为 $1 . 2 { \pm } 0 . 8 )$ ，较首次治疗前（ $\phantom { - } 1 3 . 5 { \pm } 8 . 5 ) \$ 明显下降$\scriptstyle ( P < 0 . 0 0 1 )$ 。喉鳞状细胞癌患者血浆hTERTmRNA手术后 $( 1 1 . 8 { \pm } 8 . 3 ) \$ 较手术前 $( 8 . 0 { \pm } 5 . 7 ) \$ 显著降低 $\scriptstyle ( P = 0 . 0 3 )$ ，暗示血浆hTERTmRNA是肿瘤患者疗效观察的重要指标。我们的实验结果也发现，晚期(Ⅱ、V期)鼻咽癌患者疗前血浆中hTERTmRNA含量达到 $1 2 . 6 8 { \pm } 3 . 0 8$ ，诱导化疗和放疗后其表达量分别降为 $1 0 . 6 8 { \pm } 2 . 4 8 \$ 和 $3 . 1 3 \pm$ $1 . 6 9$ 。从结果看出，诱导化疗后血浆hTERTmRNA比治疗前稍降低，个别患者无明显下降，而放疗后几乎所有患者血浆hTERTmRNA均有大幅度的下降。早期（I、ⅡI期)行单纯放疗后hTERTmRNA也由 $5 . 6 0 { \pm } 2 . 3 3 \$ 降为 $3 . 4 3 { \pm } 1 . 4 2 \$ 。所有结果提示，放疗比诱导化疗对血浆hTERTmRNA的影响更明显，可能是鼻咽癌对放射治疗更敏感，放疗作用时间比化疗作用时间长等所致。这一结果也支持鼻咽癌放疗为主,化疗为辅的治疗模式[19]。
+
+总之，鼻咽癌患者外周血血浆中hTERTmRNA的表达明显升高，放化疗能够有效抑制其表达，而且该基因的含量与肿瘤的临床分期、大小及淋巴结浸润范围等临床病理因素密切相关，从而提示检测鼻咽癌患者外周血中hTERTmRNA的含量，有可能为鼻咽癌患者早期诊断及治疗监测提供重要信息。血浆hTERTmRNA作为一种新的非侵入性的早期检测手段，可在各种肿瘤中广泛地应用，国内外的相关研究已显示出了良好的发展前景，但目前大部分研究者测定的血浆hTERTmRNA的样本量都十分有限(至多100余例癌症患者)，因此，进一步的大样本实验是十分必须的。在今后的研究中我们还需进行肿瘤患者血浆hTERTmRNA来源的探讨及与其它作用因素的相互作用影响的研究
+
+# 参考文献：
+
+[1]Bhattacharyya N.The impact of race on survival in nasopharyngeal carcinoma:a matched analysis[J].AmJ Otolaryngol,20O4,25(2): 94-7.   
+[2]Mcdermott AL，Dutt SN，Watkinson JC.The aetiology of nasopharyngeal carcinoma[J]. Clin Otolaryngol Allied Sci, 2001,26 (2):82-92.   
+[3]Wei KR,Zheng RS,Zhang SW, et al. Nasopharyngeal carcinoma incidence and mortality in China in 2O1o[J].Chin J Cancer,2014, 33(8):381-7.   
+[4]邓 伟,黄天壬,陈万青,等.中国2003-2007年鼻咽癌发病与死亡分析 [J].肿瘤,2012,32(3):189-93.   
+[5]何艳梅,蔡巧玲,黄彩云,等.3028 例鼻咽癌生存率统计[J].中国病 案,2008,9(3):38-9.   
+[6]Sener AG,Afsar I,Pinar E.Evaluation of Epstein-Barr virus antibodies, anti-VCA aviditybyimmunofluorescenceand immunoblotassaysforassessmentofEpstein-Barrvirus immunologic state[J].J Virol Methods,2009,159(2):300-2.   
+[7]Macouzet M, Simpson BK,Lee BH.Expression of a cold-adapted fish trypsin in Pichia pastoris[J].FEMS Yeast Res,20O5,5(9): 851-7.   
+[8]Dasi F,Martinez-Rodes P, March JA,et al. Real-time quantification of human telomerase reverse transcriptase mRNA in the plasma of patients with prostate cancer[J].Ann NY Acad Sci, 2006,1075(8): 204-10.   
+[9]Miura N,Nakamura H, Sato R,et al. Clinical usefulness of serum telomerase reverse transcriptase (hTERT）mRNA and epidermal growth factor receptor(EGFR)mRNA as a novel tumor marker for lung cancer[J].Cancer Sci, 2006,97(12):1366-73.   
+[10] Schwarzenbach H,Hoon DS,Pantel K.Cell-free nucleic acids as biomarkers in cancer patients [J].Nat Rev Cancer, 2O11,11(6): 426-37.   
+[11] Kang Y, Zhang J， Sun P,et al. Circulating cel-free human telomerase reverse transcriptase mRNA in plasma and its potential diagnostic and prognostic value for gastric cancer[J].Int J Clin Oncol,2013,18(3): 478-86.   
+[12]El-Mazny A,Sayed M,Sharaf S.Human telomerase reverse transcriptase messenger RNA（TERT mRNA）as a tumour marker forearly detection of hepatocellular carcinoma [J].Arab J Gastroenterol,2014,15(2): 68-71.   
+[13]Perhavec A,Cerkovnik P,Novakovic S,etal.The hTERT mRNA in plasma samples of early breast cancer patients,non-cancer patients and healthy individuals[J].Neoplasma,20o8,55(6): 549-54.   
+[14]Pelosi G,Schianchi E,Dell'orto P,et al.Detecting cell-free circulating hTERT mRNA in the plasma May identify a subset of nonsmall cell lung cancer patients[J].Virchows Arch,2Oo6,448(1): 7-15.   
+[15] Terrin L,Rampazzo E,Pucciarelli S,et al.Relationship between tumor and plasma levels of hTERT mRNA in patients with colorectal cancer:implications for monitoring of neoplastic disease [J].Clin Cancer Res,2008,14(22): 7444-51.   
+[16]March-Villalba JA，Martinez-Jabaloyas JM,Herrero MJ,et al. Cell-free circulating plasma hTERT mRNA is a useful marker for prostate cancer diagnosis and is associated with poor prognosis tumor characteristics[J].PLoS One,2012,7(8):e43470.   
+[17]Pucciarelli S,Rampazzo E,Briarava M,et al.Telomere-specific reverse transcriptase (hTERT）and cell-free RNA in plasma as predictors of pathologic tumor response in rectal cancer patients receiving neoadjuvant chemoradiotherapy [J].Ann Surg Oncol, 2012,19(9): 3089-96.   
+[18]鲁荣玖,李一荣,陈凤花,等.AML和喉鳞状细胞癌患者血浆中 hTERTmRNA的定量检测及其临床意义[J].分子诊断与治疗杂志, 2009,1(4):222-6.   
+[19]韦军葆.鼻咽癌放化疗综合治疗的现状[J].实用肿瘤杂志,2014,29 (3):294-8. (编辑:孙昌朋)

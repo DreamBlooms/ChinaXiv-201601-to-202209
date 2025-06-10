@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "祁连山东部大气降水 $\\mathbf { \\delta } ^ { \\mathfrak { d } ^ { 7 } } \\mathbf { O }$ 变化特征及水汽输送",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马兴刚'，贾文雄'，丁丹'，朱国锋,²，巩宁刚'，徐秀婷}，袁瑞丰}（1西北师范大学地理与环境科学学院,甘肃兰州730070;2中国科学院西北生态资源环境研究院冰冻圈科学国家重点实验室,甘肃兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：祁连山作为我国西部重要生态安全屏障，是河西走廊内陆河流域核心水源区。通过测定2013年7月 $\\sim 2 0 1 4$ 年7月收集的降水样品中 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 与 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 值，分析了祁连山东部乌鞘岭大气降水中 $8 ^ { 1 7 } 0$ 的特征，在此基础上对水汽来源进行了研究。结果表明：降水稳定同位素 $^ { 1 7 } 0$ 存在夏高冬低的变化特征; $^ { 1 7 } 0$ 存在显著的温度效应而不存在降水量效应， $^ { 1 7 } 0$ 与水汽压在干季呈现正相关关系。研究区大气降水的氧同位素降水线方程为： $\\tilde { \\mathbf { \\delta } } ^ { \\prime 1 7 } 0 ~ = ~ 0 . 5 0 9 \\tilde { \\mathbf { \\otimes } } ^ { \\prime 1 8 } \\mathbf { O } ~ - 0 . 1 6$ ，低于氧同位素全球降水线斜率；过量 $8 ^ { 1 7 } 0$ 表现出夏低冬高的特点；综合分析氧同位素大气降水方程线和过量 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 变化，发现该区域大气降水主要受局地水循环和大陆气团控制。祁连山东部地区主要受到西风和东南季风携带水汽影响，东南季风携带水汽对于祁连山东部的影响主要集中于夏季。研究可提高对祁连山区降水同位素演化的认知，为寒旱区同位素水文学的进一步研究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大气降水； $\\boldsymbol { \\mathfrak { \\mathfrak { d } } } ^ { 1 7 } \\boldsymbol { 0 }$ ；水汽输送；祁连山文章编号： 1000 -6060(2019)03-0517-09(0517\\~0525)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大气降水是地理学的研究热点之一[1-2],作为流域水资源的基本来源，在水循环过程中占据重要地位[3-6],人类对大气降水的研究程度直接关系到水资源的合理开发应用及保护[7]。稳定同位素作为水体的重要组成部分，虽然其含量很低，但是对于环境的变化具有十分敏感的响应，且完整记载了水循环的信息[8]；由于水体在相变过程中稳定同位素存在动力分馏和平衡分馏，导致不同来源水体的稳定同位素构成呈现出差异性[9]，利用这种差异可以对水循环过程进行研究，对大气降水稳定同位素的研究是利用同位素技术研究区域水循环的前提和条件[7,10]。应用稳定同位素对水循环过程进行研究始于 20 世纪 50 年代[11],1961年国际原子能机构IAEA（International Atomic EnergyAgency）与世界气象组织WMO（WorldMeteorologicalOrganization）合作在全球建立了降水稳定同位素比率监测网，对降水中稳定同位素进行连续的跟踪监测，以建立全球降水模型。CRAIG[12]在1961年率先提出了全球降水线公式,揭示了大气降水中8D 和 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 的关系，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1964 年DANSGAARD[13]根据大气降水观测资料又提出了“降水量效应”、“温度效应”等概念。我国对于大气降水中稳定同位素的研究于1989年在青藏高原展开[14],至今已取得了许多成果。从全国范围来看，降水稳定同位素有显著的大陆效应和高程效应，沿海和西南等季风区稳定同位素具有显著降水量效应，北方非季风区温度效应起主要作用，交叉地带则同时受到两种效应的影响[15-17]。李小飞等[通过分析降水同位素并结合HYSPLIT 模型,得出西北地区降水同位素具有明显的温度效应，全年有两条水汽路径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水同位素的研究目前主要集中于D和 $^ { 1 8 } 0$ 对于 $^ { 1 7 } 0$ 的研究较少,主要是由于 $^ { 1 7 } 0$ 在自然界中的丰度较低,测量难度远高于 $^ { 1 8 } 0$ ,而且依照氧同位素质量分馏原理, $^ { 1 8 } 0$ 的变化约为 $^ { 1 7 } 0$ 的两倍[18]因而不能为大气水循环提供更多的有效信息，所以在早期 $^ { 1 7 } 0$ 的研究被忽略；随着氧同位素非质量分馏效应的发现[19],以及技术的不断发展,高精度测试 $^ { 1 7 } 0$ 成为可能,类似于过量氘的另一个二级参数过量 $^ { 1 7 } 0$ 也随之提出， $^ { 1 7 } 0$ 与过量 $^ { 1 7 } 0$ 因具有更低的温度敏感性，且对于 $^ { 1 8 } 0$ 变化不敏感，利用 $^ { 1 7 } 0$ 和过量 $^ { 1 7 } 0$ 来反演水汽源区历史气候环境变化和定量恢复水汽源区单一气象信息成为一种新方法[18],在大气水循环的研究中将优于传统的氢氧同位素。位于祁连山东部的乌鞘岭，处于过渡区的地理区位易受不同气候条件与天气系统的影响，进而导致降水过程复杂多变。本文基于祁连山东部乌鞘岭的一个完整水文年的降水样品测试结果，结合其他气象指标，分析了该区域大气降水中 $^ { 1 7 } 0$ 的特征及水汽输送变化,以期对该区域水循环的研究提供科学依据和理论参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "祁连山 $\\langle 9 2 ^ { \\circ } \\sim 1 0 7 ^ { \\circ } \\mathrm { E } , 3 6 ^ { \\circ } \\sim 4 3 ^ { \\circ } \\mathrm { N } \\rangle$ 位于我国青藏高原的东北边缘，东起乌鞘岭，西至当金山口，东西长约 $8 5 0 ~ \\mathrm { k m }$ ,南北宽 $2 0 0 \\sim 4 0 0 ~ \\mathrm { k m }$ ，面积2062$ { \\mathrm { k m } } ^ { 2 }$ ,由一系列平行的山脉和宽谷组成,地势西北高,东南低，最高峰为疏勒南山的团结峰,海拔$5 \\ 8 2 8 . 6 \\ \\mathrm { m }$ 。祁连山具有典型的大陆性气候特征，气候具有垂直地带性，山前低山属荒漠气候，年降水量约 $1 5 0 ~ \\mathrm { m m }$ ,年均温 $6 ~ \\mathrm { { ^ \\circ C } }$ 左右;中山下部属半干旱草原气候，年降水量 $2 5 0 \\sim 3 0 0 ~ \\mathrm { m m }$ ,年均温 $2 \\sim 5 ~ \\mathrm { { ‰ } }$ ；中山上部为半湿润森林草原气候，年降水量 $4 0 0 \\sim 5 0 0$ $\\mathbf { m } \\mathbf { m }$ ,年均温 $0 \\sim 1 \\mathrm { ~ \\textdegree C }$ ；亚高山和高山属寒冷湿润气候,年降水量约 $8 0 0 ~ \\mathrm { m m }$ ,年均温 $- 5 \\mathrm { ~ \\textdegree C }$ 左右。由于气候垂直地带性明显,植被和土壤类型也具有垂直地带性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鞘岭地处祁连山东部（ $1 0 2 ^ { \\circ } ~ 5 2 ^ { \\prime } ~ 1 2 ^ { \\prime \\prime } ~ \\mathrm { E }$ .$3 7 ^ { \\circ } 1 1 ^ { \\prime } 5 5 ^ { \\prime \\prime } \\mathrm { N } ^ { \\cdot }$ ），东西长约 $1 7 ~ \\mathrm { k m }$ ,南北宽约 $1 0 ~ \\mathrm { k m }$ ，主峰海拔 $3 ~ 5 6 2 ~ \\mathrm { m }$ ,年均气温 $- 2 . 2 \\mathrm { ~ \\textdegree C }$ ,无霜期 $5 9 \\mathrm { ~ d ~ }$ ,年降水量约 $3 9 0 ~ \\mathrm { m m }$ ,蒸发量约 $1 ~ 5 4 7 ~ \\mathrm { m m }$ 。乌鞘岭地处黄土高原、青藏高原、内蒙古高原的交汇处，是我国季风区与非季风、内流区域与外流区域的分界线。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "程结果后立即对雨水样品进行收集，装入 $5 0 ~ \\mathrm { m L }$ 的聚乙烯采样瓶中，盖紧瓶盖，并用封口膜将瓶口密封。降雪样品采集后先装入自封袋内，在室温下待其融化然后转移至聚乙烯瓶中；所有降水样品冷藏储存直至分析，最大程度上避免了由蒸发所造成的误差，共采集大气降水样品123个。同时利用自动气象观测站记录气温、降水、水汽压和相对湿度等指标。将收集到的样品在冷冻状态下运抵中国科学院西北生态资源环境研究院，立即存放于 $- 1 8 \\mathrm { ~ } \\mathrm { { ~ ‰ ~ } }$ 的低温室保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 样品测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次采集大气降水样品送中国科学院西北生态资源环境研究院内陆河流域生态水文重点实验室测试分析，测试仪器为LGRIWA-45EP水同位素分析仪，样品分析结果用相对于维也纳标准平均海洋水（V-SMOW)的千分差表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathfrak { s } } ^ { 1 7 } \\mathbf { O } ( \\mathrm { ~ o r ~ } \\mathfrak { s } ^ { 1 8 } 0 ) \\ = \\ ( R _ { s } / \\ R _ { \\scriptscriptstyle { V } . \\scriptscriptstyle { S M O W } } - 1 ) \\times \\ 1 \\ 0 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { s }$ 为水样中 ${ } ^ { 1 7 } 0 / { } ^ { 1 6 } 0$ （或 ${ } ^ { 1 8 } 0 / { } ^ { 1 6 } 0 \\dot { }$ 的比率， $R V _ { - }$ SMOW为维也纳标准平均海洋水中 ${ } ^ { 1 7 } 0 / { } ^ { 1 6 } 0$ （或18$0 / { } ^ { 1 6 } 0 \\mathrm { \\ } ^ { \\mathrm { i } }$ ）的比率，测量精度： $^ { 1 7 } \\mathrm { ~ O ~ }$ 为 $0 . ~ 1 \\text{‰}$ ,180为$0 . 1 \\text{‰}$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3水汽通量输送计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前国内分析水汽输送主要采用美国国家环境预报中心（NationalCentersforEnvironmentalPre-diction，NCEP）的NCEP/NCAR再分析资料。NCEP/NCAR再分析资料对于研究亚洲季风环流起到了十分重要的作用。且已经成为研究气候的常用分析资料。而本文则采用了ECMWF（Europe-anCenterforMedium-RangeWeatherForecasts）再分析资料，该套资料空间分辨率较高且在国内研究的例子还比较少。本文采用1979一2016年空间分辨率为 $1 . 5 ^ { \\circ } \\times 1 . 5 ^ { \\circ }$ 的ECMWF逐月再分析资料,在计算时大气上界采用 $3 0 0 \\ \\mathrm { h P a }$ 来研究祁连山地区水汽输送变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 样品采集与测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为研究祁连山东部地区大气降水中稳定同位素的变化特征，研究人员依托乌鞘岭国家级气象站工作人员在2013年7月 $\\sim 2 0 1 4$ 年7月利用雨水收集器采集了一个完整水文年的降水样品。每次降水过",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 降水中 $8 ^ { 1 7 } 0$ 变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据祁连山东部地区2013年7月 $\\sim 2 0 1 4$ 年7月期间大气降水数据,通过分析发现 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 的变化介于 $- 1 3 . 4 5 \\% o \\sim 1 . 5 6 \\% o$ 之间,平均值为 $- 3 . 9 6 \\% o$ ；月均加权平均值的波动变小，介于 $- ~ 9 . ~ 0 6 \\% o$ \\~",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 . 5 8 \\text{‰}$ 之间； $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathrm { O }$ 存在显著的年内变化，12月 $\\sim$ 翌年6月 $8 ^ { 1 7 } 0$ 值呈现上升趋势， $6 \\sim 1 2$ 月逐渐降低，最小值出现在12月（图1）。将全年划分为雨季(4\\~9月）和干季(10月 $\\sim$ 翌年3月)进一步统计分析，雨季 $8 ^ { 1 7 } 0$ 的平均值为 $- 2 . 6 \\text{‰}$ ,干季 $8 ^ { 1 7 } 0$ 的平均值为 $- 7 . 3 9 \\text{‰}$ ,可见，降水中的稳定同位素$\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 具有夏高冬低的特点,这与研究区地处中纬度大陆干旱区有关，因为气温冬夏差异大，降水在雨季的二次蒸发更为显著，使得雨季降水中的重同位素相对干季更为富集。这与郭小燕等[19]在敦煌地区和柳鉴容等8在西北干旱区对于 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 的研究变化相似，表明大气降水中 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 与 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 的值变化具有一致性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无论是干季还是雨季，持续性降水过程都会导致降水中的 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\mathrm { \\mathrm { ~ O ~ } }$ 值逐渐亏损，即表现出淋溶效应[20]。如干季的2014年3月 $2 9 \\sim 3 1$ 日的持续降雪过程中，随着降雪时间延续，降雪中 $8 ^ { 1 7 } 0$ 从最初的 $- 5 . 6 9 \\% o$ 减少至 $- 7 . 4 2 \\% o$ ,减少了 $1 . 7 3 \\text{‰}$ ，减少幅度约为 $30 \\%$ ;在雨季的2014年6月15～18日的连续降雨过程中，随着降雨时间延续,降雨中 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\boldsymbol { 0 }$ 值从最初的 $- 1 . 1 9 \\mathrm { ~ ‰ ~ }$ 减少至 $- \\ : 2 . \\ : 9 1 \\% o$ ，减少了$1 . 7 2 \\text{‰}$ ,减少幅度约为 $145 \\%$ （表1）。降水中的 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 表现出淋溶效应，主要是由于持续性降水一般都具有相同的水汽来源,降水开始时水汽云团中 $^ { 1 7 } 0$ 相对富集，水汽凝结过程中富含 $^ { 1 7 } 0$ 的水汽由于其质量相对较重优先凝结为降水，因而降水初期降水中 $^ { 1 7 } 0$ 值较高;随着降水过程的进行，水汽云团中 $^ { 1 7 } 0$ 逐渐贫化，测得大气降水中的 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathrm { O }$ 值也逐步降低。其次，由于祁连山地处中纬度大陆内部，云下二次蒸发严重，而随着降水过程的持续进行，大气中水汽逐渐饱和，云下二次蒸发效应逐渐减弱，云下二次蒸发与大气降水中稳定氢氧同位素值呈正相关关系，因而测得降水中 $8 ^ { 1 7 } 0$ 值也逐渐降低。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3664e89f750415464a99ce7e7e70b2ff73c42100b83358fce4b8571b3cef3c4.jpg",
+        "img_caption": [
+            "图1祁连山东部月均加权 $8 ^ { 1 7 } 0$ 与降水量变化 Fig.1Variations of volume-weighted $\\boldsymbol { \\mathfrak { \\mathfrak { s } } } ^ { 1 7 } \\boldsymbol { 0 }$ and monthly precipitation amount in the eastern Qilian Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f05b5747908359559c96e3e8623d4bfa39708e94fdfcd617bd3a0c641ab2785f.jpg",
+        "table_caption": [
+            "表1祁连山东部持续降水中 ${ \\mathfrak { \\delta } } ^ { 1 7 } { \\mathbf { 0 } }$ 的变化 Tab.1Variations of ${ \\mathfrak { s } } ^ { 1 7 } { \\mathbf { 0 } }$ in continuous precipitation in the eastern Qilian Mountains "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>日期</td><td>降水类型</td><td>降水量／mm</td><td>8170/%0 T/℃</td></tr><tr><td>2014-03-29</td><td>降雪</td><td>7.8</td><td>-5.69 0.1</td></tr><tr><td>2014-03-30</td><td>降雪</td><td>5.3</td><td>-6.80 -3.8</td></tr><tr><td>2014-03-31</td><td>降雪</td><td>3.9</td><td>-7.42 -2.5</td></tr><tr><td>2014-06-15</td><td>降雨</td><td>4.2</td><td>-1.19 9.4</td></tr><tr><td>2014-06-16</td><td>降雨</td><td>7.8</td><td>-2.26 8.1</td></tr><tr><td>2014-06-17</td><td>降雨</td><td>2.9</td><td>-2.72 10.5</td></tr><tr><td>2014 -06-18</td><td>降雨</td><td>6.9</td><td>-2.91 5.6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2降水中 ${ \\mathfrak { \\delta } } ^ { 1 7 } { \\mathbf { 0 } }$ 与气象要素的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 $\\hat { \\mathbf { 0 } } ^ { 1 7 } \\mathbf { O }$ 与气温的关系对研究区日降水的$\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 值与气温进行回归分析(图2）,发现在年尺度上有较显著的正相关关系： $\\delta ^ { 1 7 } 0 = 0 . 3 1 T - 4 . 9 2$ ，$\\mathit { \\Omega } ^ { ' } R ^ { 2 } = 0 . 6 , P < 0 . 0 1 \\rangle$ ），表明随温度升高， $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathrm { O }$ 逐渐富集。雨季和干季 $8 ^ { 1 7 } 0$ 值与温度也分别呈正相关关系： $\\delta ^ { 1 7 } ( \\mathrm { ~ \\ r ~ { ~ \\alpha ~ } ~ } = 0 . 2 8 \\mathrm { ~ \\ r ~ { ~ - ~ } ~ } 4 . 6 4$ （ $R ^ { 2 } = 0 . 3 4 , P < 0 . 0 1 ;$ 和$\\delta ^ { 1 7 } 0 \\ = 0 . 2 9 \\ T - 5 . 1 7$ （ $R ^ { 2 } = 0 . 3 1 { , } P < 0 . 0 1 )$ 。本研究区降水中 $8 ^ { 1 7 } 0$ 存在较为显著的温度效应，这主要是由于祁连山研究区干季气温低，降水中同位素的分馏系数较大，降水中的 $8 ^ { 1 7 } 0$ 值较低，雨季气温较高，同位素分馏系数较小，降水中 $8 ^ { 1 7 } 0$ 值较高。此外，高温导致的强蒸发也可能会使得 $8 ^ { 1 7 } 0$ 值较高的局地水汽进入大气降水云团，使得降水中 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 值较高。以上结果验证了温度效应主要出现在高纬度地区和内陆地区的理论[21-22],也反映了研究区全年主要受中纬度大陆性气候控制的特点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 ${ \\mathfrak { \\delta } } ^ { 1 7 } { \\mathbf O }$ 与降水量的关系对研究区日降水量与对应的 $8 ^ { 1 7 } 0$ 值进行回归分析（图3），发现在年尺度上 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\mathrm { ~ 0 ~ }$ 值与降水量不存在相关性： $\\delta ^ { 1 7 } { \\mathrm { ~ O ~ } } =$ $0 . 0 4 8 \\ P - 4 . 2 3 , R ^ { 2 }$ 值极低（0.0071），且未通过0.05置信度检验。干季降水量与 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\mathbf { 0 }$ 呈正相关： $\\delta ^ { 1 7 } 0 =$ $0 . 8 2 ~ P - 1 0 . 0 8 ~ \\$ （ $R ^ { 2 } = 0 . 2 6 , P < 0 . 0 1 ;$ ，这与降水量效应不相符合;雨季降水量与 $8 ^ { 1 7 } 0$ 值线性关系为：$\\begin{array} { r l } { \\hat { \\mathbf { \\delta } } ^ { 1 7 } \\mathbf { O } = } & { { } - 0 . 0 5 5 ~ P - 2 . 4 3 } \\end{array}$ （ $R ^ { 2 } = 0 . 0 2 3$ ），未通过0.05置信度检验，表明在雨季降水量与 $8 ^ { 1 7 } 0$ 值不存在相关关系；综上可以得出研究区 $8 ^ { 1 7 } 0$ 不存在降水量效应，这可能与研究区地处内陆干旱半干旱区，降水仅在雨季受到东部季风的部分影响，且蒸发量远大于降水量，在降雨过程中存在强烈的二次蒸发，导致降水稳定同位素值较高有关，也进一步验证了陈中笑等[5]的研究随着向内陆地区延伸,温度逐渐代替降水量成为影响稳定同位素变化的主要因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b7eb8c1396212b45bc0f03642de87104a836ecaaeef1292b7f8abe4154e217.jpg",
+        "img_caption": [
+            "Fig.2Relationship between $8 ^ { 1 7 } 0$ in precipitation with temperature in the eastern Qilian Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac9175b05ca9924d4e659c45c2daa1d9d5fde8a791e8a9e52b6c10a1bbfdb796.jpg",
+        "img_caption": [
+            "图2祁连山东部降水中 $8 ^ { 1 7 } 0$ 与温度的关系",
+            "图3祁连山东部降水中 $8 ^ { 1 7 } 0$ 与降水量的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 ${ \\mathfrak { \\bullet } } ^ { 1 7 } { \\mathbf { O } }$ 与水汽压的关系对研究区日降水的$8 ^ { 1 7 } 0$ 值于对应的水汽压进行回归分析（图4）,发现在年尺度上 $8 ^ { 1 7 } 0$ 值与水汽压呈现显著正相关关系：$\\delta ^ { 1 7 } \\mathrm { O } = 0 . 0 6 3 \\ e - 8 . 0 3$ （， $R ^ { 2 } = 0 . 3 9 , P < 0 . 0 1 ;$ ，表明随水汽压增大， $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathbf { 0 }$ 逐渐富集;雨季和干季 $8 ^ { 1 7 } 0$ 值与水汽压也呈现正相关关系： $\\delta ^ { 1 7 } \\mathrm { ~ O ~ } = 0 . \\ 0 3 \\ e \\mathrm { ~ - ~ } 4 . 8$ 号 $^ { \\prime } R ^ { 2 } = 0 . \\ 0 9 , P < 0 . \\ 0 1 \\ )$ 和 $\\delta ^ { 1 7 } 0 = 0$ .16e -11.37（ $\\left( R ^ { 2 } = 0 . 2 9 , P < 0 . 0 1 \\right)$ ,且干季的相关性要高于雨季。主要是研究区地处大陆内部中纬度地区，干季温度较低，降水量少，空气中水汽含量较低，水汽压低，大气降水因蒸发而产生的稳定同位素富集作用很小,使其具有较低的 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 值,而雨季随着温度的升高，降水量增大，空气中水汽含量增加，水汽压亦增大，温度的影响以及因蒸发产生的稳定同位素富集均使降水中 $8 ^ { 1 7 } 0$ 值升高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9e7a0b661020ca3be728dc6a33691dbc30305cf56a55741a7a629ec0ce37d6c.jpg",
+        "img_caption": [
+            "Fig.3Relationship between $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ in precipitation with precipitation amount in the eastern Qilian Mountains ",
+            "图4祁连山东部降水中 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 与水汽压的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Relationship between $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ in precipitation with vapor pressure in the eastern Qilian Mountains ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1氧同位素降水线方程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LUZ 等[23]通过测试全球多个国家和地区大气降水样品的氧同位素组成，从而提出氧同位素的全球大气降水线（GMWL）为： $\\delta ^ { \\prime 1 7 } 0 = 0 . 5 2 8 \\delta ^ { \\prime 1 8 } 0 \\ +$ 0.000 033( $R ^ { 2 } = 0$ .999 99);其中 ${ \\mathfrak { d } } ^ { \\prime } ^ { * } 0 = \\ln ( { \\mathfrak { d } } ^ { * } 0 +$ 1)， $*$ 为17或18。研究区氧同位素的大气降水线方程为： $\\delta ^ { \\prime 1 7 } 0 = 0 . 5 0 9 \\delta ^ { \\prime 1 8 } 0 - 0 . 1 5 9$ （ $R ^ { 2 } = 0 . 9 7 , P <$ 0.01)（图5），大气降水线斜率低于全球氧同位素大气降水线斜率。氧同位素大气降水线斜率在海面上处于平衡分馏状态下海水蒸发时其斜率为0.529，随后扩散到干空气中时斜率会逐渐降低至0.518，祁连山东段降水中氧同位素大气降水线的斜率为0.507，表明影响该区域大气降水的气团主要为大陆气团。从拟合出各季节的大气水线方程(表2)来看，春季和夏季大气降水线的斜率为 $0 . 5 2 6 \\AA . 0 . 5 2 2$ 介于 $0 . 5 1 8 \\sim 0 . 5 2 9$ 之间，表明研究区春夏季处于海洋气团向内陆干旱区迁移的路径上，大气降水受到海洋气团影响；秋冬季节斜率小于0.518，表明研究区在秋冬季节大气降水主要受大陆气团控制。大气降水形成过程中氧同位素组成的变化主要受到平衡",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bae35e3b8e73a68b28fd6d46f10b0f3c7f5a6bb27fe03c37b68d1cc67fc73034.jpg",
+        "img_caption": [
+            "图5祁连山东部氧同位素降水线方程 Fig.5Local meteoric water line of oxygen isotopes in the eastern Qilian Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2祁连山东部各季节大气降水线方程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/42117aaec6646859a73cc54eddf9ac15e0b60d5148d12d9d775b288a07dd492f.jpg",
+        "table_caption": [
+            "Tab.2Equation of local meteoric water line of the eastern Qilian Mountains in different seasons "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示通过0.01置信度检验"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>大气水线方程</td><td>相关系数</td><td>样本数</td></tr><tr><td>春季</td><td>8'170 =0.5268'180 +0.0394</td><td>0.9849 *</td><td>31</td></tr><tr><td>夏季</td><td>8'170=0.5228'180 -0.0997</td><td>0.9335 *</td><td>57</td></tr><tr><td>秋季</td><td>8'170=0.4878'18O -0.4741</td><td>0.9499 *</td><td>21</td></tr><tr><td>冬季</td><td>8'70=0.4918'180 -0.5522</td><td>0.9605 *</td><td>14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分馏和动力分馏过程的控制，两种分馏效应大气降水线的斜率存在差异，一般认为平衡分馏过程斜率要大于动力分馏过程。从各季节大气降水线的斜率可以看出，春、夏季大气降水线的斜率（0.526、0.522)明显大于秋、冬季(0.487、0.491），这表明春夏季以平衡分馏为主，秋冬季受动力分馏影响明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 过量 $^ { 1 7 } 0$ 的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "过量 $^ { 1 7 } 0$ 作为指示水汽源区状况的重要示踪剂，记为： $^ { 1 7 } 0$ -excess $= { \\ 8 ^ { \\prime } } ^ { 1 7 } 0 - 0 . 5 2 8 { \\ 8 ^ { \\prime } } ^ { 1 8 } 0$ ，单位为$10 \\text{‰}$ 或 per meg。通过对南大洋上空水汽氧同位素的分析表明[24]：过量 $^ { 1 7 } 0$ 主要受控于水汽源区的相对湿度，对过饱和条件下稳定同位素扩散分馏响应方式相反，且不受水汽源区温度的影响。AMAELLE等[25]通过对东南极特拉诺瓦湾至DomeC 断面表层雪中过量 $^ { 1 7 } 0$ 的分析表明，过量 $^ { 1 7 } 0$ 的变化不受降水点温度的控制，通过过量 $^ { 1 7 } 0$ 定量恢复水汽源区单一气象要素是一种切实可行的办法。祁连山东部过量 $^ { 1 7 } 0$ 平均值为61.75 per meg,全年变化幅度较大（图6），与陈曦等[2对于黄土塬区过量 $^ { 1 7 } 0$ 的研究平均值为71.63permeg 的研究结果相近,而LUZ等[23]对于太平洋和大西洋等地过量 $^ { 1 7 } 0$ 研究的平均值为 $5 { \\mathrm { ~ p e r ~ m e g } }$ ,表明随着向大陆内部的延伸,过量 $^ { 1 7 } 0$ 经历了严重的富集。过量 $^ { 1 7 } 0$ 的年内变化表现出9\\~4月呈上升趋势,5\\~8呈下降趋势，最小值出现在8月，最大值出现在12月，这与LAN-DAIS 等[27]对于格陵兰雪冰中过量 $^ { 1 7 } 0$ 的研究一致。LUZ 等[23]通过实验证明在温度不变的条件下,蒸发导致水残留比率不断下降， $8 ^ { \\prime 1 8 } 0$ 不断增加而过量$^ { 1 7 } 0$ 逐渐降低并下降为负值,可见祁连山东部地区至少 $3 8 \\%$ 的大气降水都经历了强烈的二次蒸发。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/26fddfe21d9320b62d624bcf6e3da9b567f1ef9246ca33e399fdcc9263a046e0.jpg",
+        "img_caption": [
+            "图6祁连山东部降水中过量 $^ { 1 7 } 0$ 的变化 Fig. 6Variations of $^ { 1 7 } 0$ -excess in precipitation in the eastern of Qilian Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/20f37dd4c85bbb6d8cada82e087a3e4e868e913de967deeaf2230cb29dc651d6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3水汽输送的变化 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "祁连山地区作为西北干旱区大气水循环的重要场所[28],其水汽输送过程受到西风模态的影响，且由于青藏高原的阻挡作用，使得祁连山东西部地区水汽含量具有明显差异[29]。祁连山地区主要受西风和偏北风携带水汽的影响，而祁连山东部主要受到西风和东南季风携带水汽的影响(图7）。从季节分布来看，春季祁连山地区主要受西风和弱偏北风携带水汽的影响，而祁连山东部主要受偏北风携带水汽的控制；夏季整体受偏北风携带水汽的影响，研究区在夏季受到位于青藏高原中部的气旋和位于西太平洋地区的反气旋的共同作用，气旋导致的低压和反气旋的高压使得青藏高原表现出强烈的夏季风环流，沿着青藏高原东缘到达祁连山东段，使得研究区夏季降水受到东南季风和偏北风的共同作用;秋、冬两季祁连山地区主要受西风携带水汽的影响。总体来看西风在祁连山地区影响范围广，但偏北风对该地区的水汽输送量较大，东南季风对于祁连山东部的影响主要集中于夏季。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）祁连山东部地区大气降水中 $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\mathrm { O }$ 表现出夏高冬低的季节变化特征， $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 高值主要出现在6月,低值主要出现在12月， $\\boldsymbol { \\mathfrak { s } } ^ { 1 7 } \\boldsymbol { 0 }$ 平均值为 $- 3 . 9 6 \\% o$ ，这是由于研究区地处中纬度大陆干旱区，气温冬夏差异大，降水在夏季的云下二次蒸发更为显著，使得夏季降水中的重同位素相对冬季更为富集。同时$^ { 1 7 } 0$ 还表现出显著的淋溶效应,主要是由于持续性降水一般都具有相同的水汽来源，随着降水过程的进行，水汽云团中 $^ { 1 7 } 0$ 逐渐贫化，测得大气降水中的$\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\boldsymbol { 0 }$ 值也逐渐降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）祁连山东部地区大气降水中 $^ { 1 7 } 0$ 值与气温呈正相关关系，具有明显的温度效应，而与降水则无明显的相关性，不存在降水量效应， $^ { 1 7 } 0$ 值与水汽压呈正相关关系；主要是由于向内陆地区延伸，温度逐渐代替降水量成为影响稳定同位素变化的主要因子,研究区大气降水中 $^ { 1 7 } 0$ 值受气温影响最为显著。（3）祁连山东部地区氧同位素的大气降水线为： $\\delta ^ { \\prime } { } ^ { 1 7 } 0 = 0 . 5 0 7 \\delta ^ { \\prime } { } ^ { 1 8 } 0 \\mathrm { ~ - ~ } 0 . 1 6$ （ $R ^ { 2 } = 0$ 97， $P <$ 0.01），其斜率低于氧同位素全球大气水线方程，大气降水主要受大陆气团控制。研究区过量 $^ { 1 7 } 0$ 平均值为 $6 1 . 7 5 \\mathrm { \\ p e r \\ m e g }$ ，呈现夏低冬高的变化特征，且",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "至少 $3 8 \\%$ 的大气降水都经历了严重的二次蒸发。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）祁连山地区主要受西风和偏北风携带水汽的影响，祁连山东部地区主要受到偏北风和东南季风携带水汽的影响，东南季风携带水汽对于祁连山东部的影响主要集中于夏季。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］李宗杰,宋玲玲,田青.河西走廊东段大气降水特征及水汽来 源分析［J].环境化学,2016,35（4）：721-731.[LI Zongjie, SONG Lingling,TIAN Qing.Analysis of precipitation characteristics and water vapor sources in the east of Hexi Corridor[J].Environmental Chemistry,2016,35(4）:721-731.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]LI Z J,SONG LL,TIAN Q,et al.Characteristics and sources of atmospheric composition based on precipitation chemistry in the Shiyang River Basin,northwestern China[J].Arabian Journal of Geosciences,2017,10(2） :40. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3] PENGTR,WANGCH,HUANGCC,etal.Stable isotopic characteristic of Taiwan's precipitation:A case study of western Pacific monsoon region[J].Earth and Planetary Science Letters,2010, 289(3-4) :357 -366. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4］章新平,刘晶淼,孙维贞,等.中国西南地区降水中氧稳定同位 素比率与相关气象要素之间关系的研究[J」.中国科学（地球 科学）,2006,36（9）:850-859.［ZHANG Xinping,LIU Jingmiao,SUN Weizhen,et al.Study on relationship between stable oxygen isotope in precipitation and relative metrological parameters in southwest China[J].Scientia Sinica（Terrae）,2006,36（9）:850 -859.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]陈中笑,程军,郭品文，等.中国降水稳定同位素的分布特点及其影响因素［J].大气科学学报，2010，33（6）：667-679.[CHEN Zhongxiao,CHENG Jun,GUO Pinwen,et al.Distributioncharacters and its control factors of stable isotope in precipitation o-ver China[J].Transactions of Atmospheric Sciences,2O10,33(6) :667 -679.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]李小飞,张明军,李亚举,等.西北干旱区降水中 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 变化特征及其水汽输送[J].环境科学，2012，33（3）：711-719.［LIXiaofei,ZHANG Mingjun,LI Yaju,etal.Characteristics of $\\mathfrak { F } ^ { 1 8 } 0$ inprecipitation and moisture transports over the arid region in north-west China［J].Environmental Science,2012,33（3）：711-719.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］黄荷,罗明明,陈植华,等.香溪河流域大气降水稳定氢氧同位 素时空分布特征[J].水文地质工程地质，2016，43（4)：36- 42.[HUANG He,LUO Mingming,CHEN Zhihua,et al.The spatial and temporal distribution of stable hydrogen and oxygen isotope ofmeteoricwaterin Xiangxi RiverBasin[J].Hydrogeology&Engineering Geology,2016,43（4）:36-42.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8］柳鉴容，宋献方，袁国富，等.西北地区大气降水 $\\mathfrak { \\delta } ^ { 1 8 } 0$ 的特征 及水汽来源[J].地理学报，2008，63（1）：12－22.［LIUJian rong,SONGXianfang,YUANGuofu,et al.Characteristics of $\\mathfrak { 8 } ^ { 1 8 }$ 0 in precipitation over Northwest China and its water vapor sources ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[J].Acta Geographica Sinica,2008,63(1）:12 -22.] [9]李佳芳,石培基,朱国锋,等.河西走廊中部大气降水 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 变 化特征及水汽输送［J].环境科学学报,2015,35（4）：947-   \n955.[LI Jiafang,SHI Peiji,ZHU Guofeng,et al. Characteristics of （20 $\\mathfrak { 8 } ^ { 1 8 } 0$ in precipitationand moisture transports in the central Hexi Corridor[J].Acta Scientiae Circumstantiae,2015,35（4）:947-   \n955.] [10]MA J,ZHANG P,ZHU G,et al. The composition and distribution of chemicals and isotopes in precipitation in the Shiyang River system,northwestern China[J]. Journal of Hydrology,2012,436-   \n437(3) :92 -101. [11]DANSGAARD W. The abundance of $\\ S ^ { 1 8 } \\mathrm { O }$ in atmospheric water and water vapor[J].Tellus,1953,5(4):461-469. [12]CRAIG H. Isotopic variations in meteoric waters[J]. Science,   \n1961,133（3465）:1702-1703. [13]DANSGAARD W.Stable isotopes in precipitation[J]. Telus,   \n1964,16(4) :436 -468. [14]YAO T D,MASSON V,JOUZEL J,et al.Relationships between $8 ^ { 1 8 } 0$ in precipitation and surface air temperature in the Urumqi River Basin,east Tianshan Mountains,China[J].Geophysical Research Letters,1999,26(23）:3473 -3476. [15］郑淑慧,侯发高,倪葆龄.我国大气降水的氢氧稳定同位素研 究[J].科学通报,1983,28（13）:801-806.[ZHENG Shuhui, HOU Fagao,NI Baoling.Study on the hydrogen and oxygen stable isotopes in precipitation in China[J].Chinese Science Bulletion,   \n1983,28(13) :3473 -3476.] [16］柳鉴容,宋献方,袁国富,等.中国东部季风区大气降水 $\\delta ^ { 1 8 } 0$ 的特征及水汽来源[J].科学通报,2009,54（22）：3521-3531. [LIU Jianrong,SONG Xianfang,YUAN Guofu,et al. Characteristics of $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } 0$ in precipitation over Eastern Monsoon China and the water vapor sources[J].Chinese Science Buletion,2009,54 （22):3521 -3531.] [17］章新平,姚檀栋.我国降水中的 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 的分布特点[J]．地理学 报,1998,53（4）:356-364.[ZHANG Xinping,YAO Tandong. Distributional features of $\\textup { \\AA } ^ { 1 8 } \\textup { O }$ in precipitation in China[J].Acta Geographica Sinica,1998,53（4） :356-364.] [18］马红梅,李院生,姜苏,等.非质量氧同位素分馏效应研究进展 [J].地球与环境,2010,38（1）:91-97.［MA Hongmei,LI Yuansheng,JIANG Su,et al.Advance in the study of mass independent oxygen isotope fractionation[J].Earth and Environment,   \n2010,38(1) 91-97. ] [19］郭小燕,冯起,李宗省,等.敦煌盆地降水稳定同位素特征及水 汽来源[J].中国沙漠,2015,35(3）:715-723.[GUO Xiaoyan, FENG Qi,LI Zongxing,et al.Variationof stable isotopes and moisture sources in precipitation at the Duhuang Basin in northwest China[J].Journal of Desert Research,2015,35(3）:715-723.]   \n[20] CLAYTON R N,GROSSMAN L,MAYEDA T K. A component of primitive nuclear composition in carbonaceous meteorites[J].Science,1973,182(4111) :485 -488.   \n[21］何静,庞洪喜,侯书贵.极地雪冰中过量 $^ { 1 7 } 0$ 研究进展[J].极地 研究,2015,27（4）:392-401.[HE Jing,PANG Hongxi,HOU Shugui. Progress in the study of $^ { 1 7 } 0$ -excess in snow and ice over polar regions[J].Chinese Journal of Polar Research,2015,27 (4):392 -401.]   \n[22]WU JK,DING Y,YE B,et al. Spatio-temporal variation of stable isotopes in precipitation in the Heihe River Basin,northwestern China[J].Environmental Earth Sciences,2010,61（6）:1123- 1134.   \n[23]LUZ B,BARKAN E.Variations of $^ { 1 7 } 0 / ^ { 1 6 } 0$ and $^ { 1 8 } 0 / ^ { 1 6 } 0$ in meteoric waters[J].Geochimica et Cosmochimica Acta,2010,74 (22):6276 -6286.   \n[24 UEMURA R,BARKAN E,ABE O,et al. Triple isotope composition of oxygen in atmospheric water vapor[J].Geophysical Research Letters,2010,37(4) :307 -328.   \n[25]AMAELLE L,EUGENI B,BOAZ L.Record of $\\ S ^ { 1 8 } \\mathrm { O }$ and $^ { 1 7 } 0$ -excess in ice from Vostok Antarctica during the last 150 O0O years [J]. Geophysical Research Leters,2008,35(23）:175-195.   \n[26]陈曦,李志,程立平,等.黄土塬区大气降水的氢氧稳定同位素 特征及水汽来源[J].生态学报,2016,36(1):98-106.［CHEN Xi,LI Zhi,CHENG Liping,et al. Analysis of stable isotopic composition and vapor source of precipitation at the Changwu Loess Tableland[J].Acta Ecologica Sinica,2016,36(1）:98-106.]   \n[27]LANDAIS A,STEEN-LARSEN H C,GUILLEVIC M,et al. Triple isotopic composition of oxygen in surface snow and water vapor at NEEM（Greenland）[J].Geochimica et Cosmochimica Acta, 2012,77(1) :304 -316.   \n[28]LI Z,FENG Q,YONG S,et al. Stable isotope composition of precipitation in the south and north slopes of Wushaoling Mountain, northwestern China[J]. Atmospheric Research,2016,182:87 - 101.   \n[29］巩宁刚,孙美平,闫露霞,等.1979—2016 年祁连山地区大气水 汽含量时空特征及其与降水的关系[J].干旱区地理,2017,40 (4）:762-771.[GONG Ninggang,SUN Meiping,YAN Luxia,et al.Temporal and spatial characteristics of atmospheric water vapor and its relationship with precipitation in Qilian Mountains during 1979——2016[J].Arid Land Geography,2017,40（4）:762- 771.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Variation characteristics of ${ \\mathfrak { \\bullet } } ^ { 1 7 } { \\mathbf { O } }$ in precipitation and moisture transports in eastern Qilian Mountains ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MA Xing-gang'，JIA Wen-xiong'，DING Dan¹，ZHU Guo-feng1,2，GONG Ning-gang', XU Xiu-ting¹， YUAN Rui-feng1   \n(1Collegeof Geographyand Environment Science,Northwest Normal University,Lanzhou73oo7O,Ganu,China;   \nState Key Laboratoryof Cryosphere Sciences,Northwest InstituteofEco-EnvironmentandResources,ChineseAcademy ofSciences,Lanzhou 73oooo,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Qilian Mountains in western China are an important ecological security barrierand arethe primary water sources for the inland river basins inthe region.In this paper,we colected precipitation samples and meteorological data in eastern Qilian Mountains fromJuly 2O13 to July 2O14 to analyze the temporal variations of the $8 ^ { 1 7 } 0$ （20 in precipitation and to discuss the influence of temperature,precipitation amount and vapor pressure on the $8 ^ { 1 7 } 0$ （204号 content.Based on this,the moisture sources of the studyarea were studied.The results show thatthe isotopic composition exhibited an obvious seasonal variation which indicated the higher $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 7 } \\boldsymbol { 0 }$ values in summer and autumn,and the lower values in winter and spring, $^ { 1 7 } 0$ has significant temperature effect without precipitation effect, $^ { 1 7 } 0$ has a positive correlation with water vapor pressure in dry season.The local meteoric water line（LMWL）was established as $8 ^ { \\prime 1 7 } 0 \\ = \\ 0 . 5 0 9 8 ^ { \\prime 1 8 } 0 \\ - 0 . 1 5 7 \\ 8$ （ $R ^ { 2 } = 0 . 9 7 , P < 0 . 0 1 )$ ,and its slope was lower than the slope of the global meteoric water line（GMWL）,which indicated thatthe precipitation was mainly controlld by continental air masses. The $^ { 1 7 } 0$ -excess values were low in summer and high in winter and at least $3 8 \\%$ of the precipitation events underwent strong sub-cloud evaporation.Based on the comprehensive analysis of the local meteoric water line and $^ { 1 7 } 0$ -excess,we foundthat the precipitation instudyarea is mainly controlldbylocal moisture recyclingandcontinental air mass.The precipitation in the eastern Qilian Mountains was mainly controlld by westerly and southeastern monsoon carrying water vapor,while the efect of southeastern monsoon is mainly concentrated in the summer.This study improves knowledgeofthe isotope evolutionof precipitation inthe Qilian Mountains,andlays the foundation forfurther research on isotope hydrology in the cold and arid regions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:precipitation; $8 ^ { 1 7 } 0$ ； moisture transports ； Qilian Mountains",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,627 @@
+[
+    {
+        "type": "text",
+        "text": "2 孙雨晴1,2 陶新」徐子伟1\\*（1.浙江省农业科学研究院畜牧兽医研究所，杭州3110021；2.南京农业大学动物科技学院，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 南京 210095)  \n5 摘要：从石榴皮中提取的多酚具有抗炎、抗氧化、抗癌等多种生物活性，但是其中的大分  \n6 子的鞣花单宁如安石榴苷（PG）不能被动物胃肠道直接吸收，需要先水解成小分子物质如鞣  \n7 花酸（EA）才能被吸收进入血液来发挥其生物功能。本试验利用单宁酶将石榴皮多酚中的大  \n8 分子单宁（相对分子质量 $> 5 0 0$ ）水解为小分子酚酸，旨在优化酶解工艺及产物纯化工艺，阐  \n9 明酶解前后石榴皮多酚在成分上的变化，为石榴皮多酚作为促进动物健康的功能性饲料添加  \n10 剂的开发利用提供基础数据。通过比较单宁酶水解前后石榴皮多酚的高效液相色谱指纹图  \n11 谱，确定PG降解率和EA生成率为水解程度检测指标后，利用单因素试验和正交试验优化酶  \n12 解条件。通过静态吸附和动态吸附试验确定大孔树脂纯化条件，并用液相色谱-质谱联用技术  \n13 鉴定酶解前后石榴皮多酚在成分上的变化。结果显示：最佳酶解条件为pH5.2、温度 $4 5 \\ \\mathrm { ^ \\circ C }$ 、  \n14 加酶量 $3 0 \\mathrm { m L / g } ,$ 底物、底物浓度 $4 \\mathrm { g / L }$ ，时间 $1 6 \\mathrm { h }$ 。最佳酶解产物纯化条件为D101型大孔树脂，  \n15 $9 5 \\%$ 乙醇为洗脱剂，上样体积为 $3 0 0 ~ \\mathrm { m L }$ ，洗脱体积为 $1 2 0 ~ \\mathrm { m L }$ 。高效液相色谱检测显示原石榴  \n16 皮多酚中含有 $4 3 . 6 4 \\%$ 的PG（相对分子质量1084）、 $4 . 8 5 \\%$ 的EA（相对分子质量302），酶解  \n17 产物中PG含量为 $0 . 0 0 \\%$ 、EA含量为 $45 . 7 3 \\%$ 。原石榴皮多酚中分析出7种主要多酚化合物，质  \n18 荷比 $\\mathrm { { ( m / z ) } }$ ）分别为1083、1083、783、757、633、401、300，相对分子质量分布在 $3 0 2 { \\sim } 1 0 8 4$   \n19 酶解产物中分析出4个主要多酚化合物， $\\mathrm { m } / \\mathrm { z }$ 分别为600、300、291、247，相对分子质量分布  \n20 在 $2 4 8 { \\sim } 6 0 2$ 。本试验利用单宁酶将含大量以PG为主的鞣花单宁的石榴皮多酚水解成富含小分  \n21 子多酚EA的酶解产物，并优化建立了最佳酶解条件及酶解产物纯化条件，可为石榴皮多酚的  \n22 开发及其在饲料生产中的应用提供基础数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：石榴皮多酚；单宁酶；酶解；工艺优化中图分类号：S665.4 文献标识码：A 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在畜禽养殖过程中，高密度饲养、断奶应激、热应激、细菌病毒感染、霉变饲料、过氧化饲料等能够引起动物的应激反应，导致疾病或生理异常。研究表明氧化应激与人和动物绝大多数应激反应和疾病有密切的关系。氧化应激不仅引发动物脓血症、乳房炎、肠炎、肺炎和关节炎等疾病，还增加机体脂质过氧化反应，减少肌肉中多不饱和脂肪酸含量，导致肉品质降低[1]。通过摄入外源性抗氧化物质有助于维护机体氧化还原状态平衡，缓解氧化应激，提高畜禽的健康水平和肉品质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "石榴是富含抗氧化活性成分的水果，其果皮抗氧化活性成分含量尤其高[2]。有研究表明石榴皮提取物的体外抗氧化活性在1000多种植物提取物中位列第一[3]，且多酚是其发挥抗氧化作用的主要成分。除了抗氧化以外，石榴皮多酚还具有抗炎、抑菌、抗病毒、促进伤口愈合等作用[4]。我国是石榴生产大国，栽种面积居世界第一，年产量超过120万t[5]，石榴皮作为果汁加工副产物产量巨大，石榴皮多酚资源丰富。因此，石榴皮多酚做为调控动物健康的饲料添加剂具有非常好的开发应用前景。但石榴皮多酚含有大量单宁[以安石榴苷（punicalagin,PG）等鞣花单宁为主]，这是一类相对分子质量介于 $5 0 0 { \\sim } 3 ~ 0 0 0$ 之间的多酚化合物，根据Lipinski等[7]的规则，它们具备氢键供体数目大于5、相对分子质量大于500、氢键受体数目大于10的几个特征，因而吸收或渗透性很差。大量研究也证实这些大分子单宁无法被消化道完整吸收[8-9]，这限制了其体内抗氧化活性的发挥。此外，大分子单宁还具有抗营养作用，容易与蛋白质、金属离子形成沉淀，影响营养物质的消化吸收[10]。单宁酶是一种能水解酯键和缩酚羧键的单宁酰基水解酶，广泛存在于细菌、真菌等微生物中，被美国食品药品监督管理局（FDA）及我国卫生部确认为安全的食品添加剂[11]。单宁酶可水解PG等鞣花单宁为鞣花酸（ellagic acid，EA）等小分子酚酸[12]。EA被口服后可主要经胃吸收[13]，也可以在肠道后段经微生物进一步转化为代谢产物后被肠道吸收[8]，因而能在体内发挥抗氧化等生理活性。鉴于此，本试验利用单宁酶对石榴皮多酚中的大分子单宁进行降解，探讨单宁酶水解石榴皮多酚的最佳条件和酶解产物纯化工艺，分析酶解前后石榴皮多酚在成分组成上的差异，旨在为石榴皮多酚的开发及其在饲料生产中的应用提供思路和指导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 主要材料、试剂和仪器",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单宁酶制剂（粉末状），购自湖北佳诺信生物化工有限公司；石榴皮多酚（纯度为 $60 \\%$   \n粉末状），购自陕西慈缘生物技术有限公司；D101大孔树脂，购自安徽三星树脂科技有限  \n公司；ADS-17大孔树脂，购自天津南开和成科技有限公司；SP-700 大孔树脂，购自日本三  \n菱化学公司；PG、EA 标准品，购自美国 Sigma 公司；色谱级甲醇、乙腈和三氟乙酸（TFA）  \n以及其他分析纯化学试剂均购自杭州常青化工有限公司。Agilent 1200反相高效液相色谱（HPLC）仪，美国Life公司；UPLC-Triple TOF $5 6 0 0 \\mathrm { + }$ 飞  \n行时间液质联用仪，加拿大Sciex公司；SpectraMaxM5多功能酶标仪，美国Molecular公司；  \nDSK-24电热水浴锅，杭州蓝天仪器公司；DGG-9140BD恒温干燥箱，上海森信实验仪器有限  \n公司；DL-720D超声波清洗机，上海之信仪器有限公司。  \n1.2 石榴皮多酚溶液和单宁酶溶液配制石榴皮多酚溶液：根据要配制的浓度精确称量一定量的石榴皮多酚粉末加入所需的不同  \npH 的磷酸盐缓冲液（PBS）中，超声波处理 $3 0 \\mathrm { m i n }$ 后过滤，滤液则为石榴皮多酚溶液，测  \n定其多酚浓度。单宁酶溶液：称取单宁酶制剂粉末，按照酶：水（质量体积比） $\\scriptstyle = 1 : 2$ 的比例混合，磁力  \n搅拌1h，用不锈钢过滤器过滤，再经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 微孔滤膜过滤，测定滤液中单宁酶活性，为  \n41U/L，1U表示 $ { \\mathrm { ~ 1 ~ m i n ~ } }$ 内降解 $1 \\ \\mathrm { \\mu m o l }$ 单宁酸。PBS 的配制：配制 $2 8 . 4 \\ \\mathrm { g / L }$ 的磷酸氢二钠溶液（即 $0 . 2 \\mathrm { m o l / L }$ 的磷酸氢二钠）， $2 1 . 0 1 \\ \\mathrm { g / L }$   \n的柠檬酸溶液（即 $0 . 1 \\mathrm { m o l / L }$ 的柠檬酸），然后不同体积的2种溶液混合并用 $\\mathfrak { p H }$ 计标定测量,  \n制备出不同 pH的缓冲液。  \n1.3 最佳酶解条件的单因素试验设计对温度、pH、反应时间、加酶量和底物浓度（即多酚浓度）进行单因素试验，考察各因  \n素对反应液中PG 降解率和 EA生成率的影响。按照表1所列因素条件混合酶解反应液使之  \n开始反应,结束后放入 $9 5 ^ { \\circ } C )$ 水浴终止反应 $8 ~ \\mathrm { m i n }$ ，冷却至室温后经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 滤膜过滤,用HPLC  \n仪测定上清液中PG 和EA含量，每个反应条件设3个重复。PG 降解率(%）=(1-反应结束后反应液中PG的浓度/反应前反应液中PG的浓度) $\\times 1 0 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EA生成率 $( \\% ) = ($ 反应结束后反应液中EA的浓度/反应前反应液中EA的浓度-1) $\\times 1 0 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1石榴皮多酚酶解反应的单因素试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/791574870db32b12077de549fa2c08a3532aed1630fc819e21f0a7493d5efd5f.jpg",
+        "table_caption": [
+            "Table 1Single factor design for enzymatic hydrolysis of pomegranate peel polyphenols "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素 Factors</td><td>水平Levels</td></tr><tr><td>温度Temperature/℃</td><td>30、35、40、45、50</td></tr><tr><td>pH</td><td>4.0、4.5、5.0、5.5、6.0</td></tr><tr><td>时间Time/h</td><td>4、6、8、10、12、16、20、24</td></tr><tr><td>加酶量 Volume of enzyme/(mL/g底物)</td><td>10、20、30、40、50</td></tr><tr><td>底物浓度 Substrate concentration/(g/L)</td><td>0.25、0.50、1.00、2.00、3.00、4.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4最佳酶解条件的正交试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据单因素试验结果，对pH、温度、加酶量、时间4个因素在最佳反应条件下的水平附近设置更精细的水平变化，进行正交组合设计。按照表2将石榴皮多酚溶液（ $\\scriptstyle \\mathbf { \\log \\left( L \\right. }$ ）和酶液混合、摇匀，相应条件下进行反应。反应结束后反应液放入 $9 5 ^ { \\circ } \\mathrm { C } ,$ 水浴中终止反应 $8 \\mathrm { m i n }$ 经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 滤膜过滤，测定上清液中PG和EA含量，每个反应条件设3个重复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2石榴皮多酚酶解反应的正交试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6f84970739ff4abdcb5fdfa46316bf6e41850b5ddf8edb729600d4302180f42.jpg",
+        "table_caption": [
+            "Table 2Orthogonal experimental design for enzymatic hydrolysis of pomegranate peel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">polyphenol</td></tr><tr><td rowspan=\"3\">水平Levels</td><td colspan=\"4\">因素 Factors</td></tr><tr><td>pH</td><td>温度Temperature/℃</td><td>加酶量Volume of enzyme/(mL/g 底物)</td><td>时间Time/h</td></tr><tr><td>1</td><td>43</td><td>30</td><td>12</td></tr><tr><td>2</td><td>4.8 5.0</td><td>45</td><td>35</td><td>14</td></tr><tr><td>3</td><td>5.2</td><td>47</td><td>40</td><td>16</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5酶解反应液的大孔树脂纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在最佳酶解条件下将石榴皮多酚与单宁酶进行反应，反应结束后过滤沉淀，上清液 $9 5 \\mathrm { ^ \\circ C }$ 水浴加热 $8 \\mathrm { m i n }$ 以灭活单宁酶，不锈钢过滤器去除蛋白质沉淀，将此上清液进行纯化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1大孔树脂的选择 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献[14-15]报道，选择 D101、ADS-17、SP-700这3 种型号的大孔树脂进行比较。树脂预处理后，采用静态吸附和静态洗脱方法测定3种型号的大孔树脂对石榴皮多酚的吸附率和解吸率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）静态吸附：称取 $\\mathrm { ~ 1 ~ g ~ }$ 不同型号干燥树脂加入锥形瓶中，加入无水乙醇浸过树脂，静置 $1 5 \\mathrm { m i n }$ 后，用水将乙醇不断替换出，用滤纸吸干树脂表面的水分。向锥形瓶内加入 $5 0 ~ \\mathrm { m L }$ 石榴皮多酚酶解液，密封， $1 2 0 ~ \\mathrm { r / m i n }$ 室温振荡 $2 4 \\mathrm { h }$ 。结束后测定上清液中多酚浓度，计算吸附率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "吸附率 $( \\% ) = 1 0 0 \\times$ （酶解液初始多酚浓度-酶解液平衡时多酚浓度）/酶解液初始多酚浓度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）静态洗脱：倒掉静态吸附好的树脂上清液，并用去离子水冲洗1遍，滤纸吸干表面水分，加入 $9 5 \\%$ 乙醇 $5 0 ~ \\mathrm { m L }$ ，密封， $1 2 0 ~ \\mathrm { r / m i n }$ 室温振荡 $2 4 \\mathrm { h }$ ，测定上清液中多酚浓度，计算解吸率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "解吸率 $( \\% ) = 1 0 0 \\times$ 解吸液多酚浓度 $\\times$ 解吸液体积/[(酶解液初始多酚浓度-酶解液平衡时多酚浓度) $| \\times \\rrangle$ 酶解液体积]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2洗脱剂浓度确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用静态洗脱方法测定乙醇浓度为 $50 \\%$ 、 $70 \\%$ 、 $90 \\%$ 、 $9 5 \\%$ 时的解吸率。向含有 $\\mathrm { ~ 1 ~ g ~ }$ 饱和吸附树脂的锥形瓶中加入 $5 0 ~ \\mathrm { m L }$ 不同浓度的乙醇溶液，密封后 $1 2 0 ~ \\mathrm { r / m i n }$ 室温振荡 $2 4 \\mathrm { h }$ ，测定上清液中多酚浓度，计算解吸率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.3上样体积确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用湿法装柱，将大孔树脂装入 $\\varphi 2 . 0 \\mathrm { c m } { \\times } 3 0 . 0 \\mathrm { c m }$ 玻璃层析柱中。石榴皮多酚酶解液以 $1 . 5 ~ \\mathrm { m L / m i n }$ 的流速上样，流出液每 $5 0 ~ \\mathrm { m L }$ 收集1管，测定每管多酚浓度，绘制多酚浓度动态 曲线。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.4洗脱体积确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "去离子水冲洗上样后的层析柱至流出液无色，用洗脱剂以 $1 . 5 ~ \\mathrm { m L / m i n }$ 的流速洗脱，流出液每 $1 0 ~ \\mathrm { m L }$ 收集1管，测定其多酚浓度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 PG 和EA含量的HPLC检测",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "色谱柱为 ZORBAX SB-C18( $( 4 . 6 ~ \\mathrm { m m } { \\times } 2 5 0 ~ \\mathrm { m m }$ ， ${ 5 } \\mu \\mathrm { m } )$ ，柱温 $3 0 \\ \\mathrm { ^ { \\circ } C } ,$ 检测器为紫外（UV）检测器，检测波长为 $2 8 0 \\mathrm { n m }$ ，进样体积为 $2 0 \\mu \\mathrm { L }$ ，流动相为甲醇和 $0 . 1 \\%$ 三氟乙酸（TFA）水溶液，流速为 $1 . 0 \\ : \\mathrm { m L / m i n }$ 。线性洗脱程序为： $0 { \\sim } 1 0 ~ \\mathrm { m i n }$ ， $3 \\% \\sim 1 4 \\%$ 甲醇； $1 0 { \\sim } 2 0 ~ \\mathrm { m i n }$ ， $1 4 \\% \\sim$ $40 \\%$ 甲醇； $2 0 { \\sim } 4 0 ~ \\mathrm { m i n }$ ， $4 0 \\% \\sim 1 0 0 \\%$ 甲醇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7多酚含量检测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考孙雨晴[1描述的Folin-Ciocaileu法，以没食子酸为标准品，绘制标准曲线，拟合回归方程。采用同方法测定待测样品吸光度值，根据回归方程计算多酚含量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.8酶解产物的收集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在最佳酶解条件下将石榴皮多酚与单宁酶进行反应，反应结束后用不锈钢过滤器过滤，收集沉淀并烘干保存。上清液 $9 5 ^ { \\circ } C ,$ 水浴加热 $8 ~ \\mathrm { m i n }$ ，不锈钢过滤器去除蛋白质沉淀，上清液在最佳纯化条件下纯化，纯化所得多酚溶液 $8 0 ~ \\mathrm { { ^ circ C } }$ 水浴蒸干。将沉淀和纯化后的上清液的干物质合并、充分研磨混匀，即所得干燥的粉末状酶解产物。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.9成分的液相色谱-质谱鉴定 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "准确称取 $1 0 \\mathrm { m g }$ 纯化后的石榴皮多酚或其酶解产物粉末，溶于 $1 0 ~ \\mathrm { m L }$ 甲醇，经 $0 . 4 5 \\mu \\mathrm { m }$ 微孔滤膜过滤后用于液质检测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "液相色谱条件：色谱柱为Agilent Zorbax SB-C18（ $2 5 0 \\ \\mathrm { m m } { \\times } 4 . 6 \\ \\mathrm { m m }$ ， $5 ~ { \\mu \\mathrm { m } }$ ）；以 $0 . 1 \\%$ 甲酸溶液为流动相A，以 $0 . 1 \\%$ 甲酸-乙晴为流动相B，进行线性梯度洗脱： $0 \\mathrm { \\sim } 1 0 ~ \\mathrm { m i n }$ ， $3 \\% \\sim 1 4 \\%$ 流动相B； $1 0 { \\sim } 2 0 ~ \\mathrm { m i n }$ ， $14 \\% { \\sim } 4 0 \\%$ 流动相B； $2 0 { \\sim } 4 3 ~ \\mathrm { m i n }$ ， $4 0 \\% \\sim 1 0 0 \\%$ 流动相B，流速为1$\\mathrm { { \\ m L / m i n } }$ ；柱温为 $2 0 \\mathrm { { ^ circ C } ; }$ 紫外可变波长检测器，检测波长为 $2 8 0 \\mathrm { n m }$ ；进样量 $1 0 ~ \\mu \\mathrm { L }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "质谱条件：采用负离子模式，质荷比 $\\mathrm { ( m / z ) }$ ）扫描范围为 $1 0 0 { \\sim } 1 5 0 0$ ；雾化气压1(GS1) 50psi，雾化气压2(GS2)50psi，气帘气压(CUR)30 psi；离子源温度(TEM) $5 5 0 \\mathrm { ^ { \\circ } C } ,$ 离子源电压(IS) $4 5 0 0 \\mathrm { V }$ ；一级扫描去簇电压 $1 0 0 { \\mathrm { V } }$ ；聚焦电压 $1 0 \\mathrm { V }$ ；二级扫描模式为信息依赖扫描(IDA)，碰撞诱导解离（CID）能量为20、40和 $6 0 \\mathrm { V }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.10 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "单因素分析及正交试验部分的数据以平均值±标准差表示。正交试验设计及结果分析采用正交设计助手V3.1软件设计与分析。质谱数据分析采用NIST数据库比对。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1酶解对主要多酚化合物的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由 HPLC 指纹图谱（图1）的峰面积可以看出，原石榴皮多酚中含有很高比例的PG 成分[包括安石榴苷a（PGa）和安石榴苷b（PGb）2个同分异构体]，而EA的比例则较低。而单宁酶和石榴皮多酚在一定条件下反应之后，PG 峰面积明显变小，EA峰面积明显变大，可",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "见PG 在单宁酶的作用下发生了水解，大量生成了EA。因此，本试验选用PG 的降解率和EA的生成率这2个指标来标定酶解反应的反应效率和程度。  \n2.2酶解条件的单因素分析",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1温度对石榴皮多酚酶解反应的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，在 $3 0 { \\sim } 4 5 ~ \\mathrm { \\vec { C } } \\dot { \\ Z }$ 间，PG 降解率和 EA生成率都呈现上升的趋势，在 $4 5 \\mathrm { { ^ \\circ C } }$ 达到顶点后，继续升温至 $5 0 \\ \\mathrm { ^ { \\circ } C }$ 则出现急剧下降的趋势，该数据说明该酶解反应在45℃时具有最高的反应效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2 . 2 \\mathrm { p H }$ 对石榴皮多酚酶解反应的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，在pH小于5.0时PG 降解率较高，超过5.0则PG 降解率急剧下降。而 EA生成率则随着pH的变化而发生波动，在pH为5.0时EA生成率达到最高，低于5.0以及高于5.0都明显降低，因此本试验选择5.0为最佳反应 $\\mathfrak { p H }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1e2fa616fda4213c5356ee8007bf1d4db3c890f97b82cf95ef4cfbe120b752b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/af18af4dd6b6dc2e0f09ff018429c65bde82cfaf56ae405eb77e9978eebf58ab.jpg",
+        "img_caption": [
+            "图1石榴皮多酚及其酶解产物的HPLC指纹图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/731b6ce5cdb288ee5ed7df9e926df9337e9b4a535a8e70bdc35d2028913da6c1.jpg",
+        "img_caption": [
+            "Fig. 1HPLC fingerprints of pomegranate peel polyphenols and their enzymatic hydrolysis ",
+            "图2温度对石榴皮多酚酶解反应的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdd143a91bd594afdee7bb4d4a12ad4fff7426154b04139ac74790ff6c5919b8.jpg",
+        "img_caption": [
+            "Fig.2Effect of temperature on enzymatic hydrolysis of pomegranate peel polyphenols "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/98be8f38a199ed4e8ebe9cb5b4329155930e86b6551a14ca0434469e33b80e10.jpg",
+        "img_caption": [
+            "图3pH对石榴皮多酚酶解反应的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/69eb12e270cbe615adc617ea5022e57f8694d3422d6507ac7be6ab241272a047.jpg",
+        "img_caption": [
+            "Fig.3Effect of pH on enzymatic hydrolysis of pomegranate peel polyphenols ",
+            "图4时间对石榴皮多酚酶解反应的影响",
+            "Fig.4Effect of time on enzymatic hydrolysis of pomegranate peel polyphenols "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a876a47eb602ff92bfa9a3c3c2a07022bb2d6f1093cccb16e0e0eea3da864e2.jpg",
+        "img_caption": [
+            "图5加酶量对石榴皮多酚酶解反应的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd34427d6bf2eb8be19bdcaf24040560d972a6e446a2d9a3caf0a89e2ff8c434.jpg",
+        "img_caption": [
+            "Fig.5Effect of volume of enzyme on enzymatic hydrolysis of pomegranate peel polyphenols ",
+            "图6底物浓度对石榴皮多酚酶解反应的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Eect of substrate concentration on enzymatic hydrolysis of pomegranate peel polyphenols ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.3时间对石榴皮多酚酶解反应的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出，PG 降解率和EA生成率随着时间的延长都呈现上升的趋势。对于PG降解率而言， $4 \\mathord { \\sim } 1 0 \\mathrm { h }$ 表现为快速上升， $1 0 \\mathrm { { h } }$ 以后上升放缓， $1 6 \\mathrm { h }$ 以后上升曲线更加平滑。对于EA生成率而言， $4 \\mathord { \\sim } 8 \\mathrm { h }$ 上升缓慢， $8 \\sim 1 6 \\mathrm { { h } }$ 呈现快速上升趋势， $1 6 \\mathrm { h }$ 以后曲线基本水平，即达到平台。综合考虑反应程度和效率，本试验选择 $1 6 \\mathrm { h }$ 为最佳反应时间。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.4加酶量对石榴皮多酚酶解反应的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，当加酶量为 $1 0 { \\sim } 3 0 ~ \\mathrm { m L / g }$ 底物时 PG 降解率快速上升，大于 $3 0 \\mathrm { m L / g }$ 底物以后趋于平缓。对于EA生成率而言，加酶量为 $1 0 { \\sim } 2 0 ~ \\mathrm { m L / g }$ 底物时快速升高，大于 20mL/g底物以后增加缓慢，当高于 $4 0 \\mathrm { m L / g }$ 底物时反而出现下降趋势。从反应效率以及节约酶用量2个方面综合考虑，本试验选择 $3 0 \\mathrm { m L / g }$ 底物为最佳加酶量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.5底物浓度对石榴皮多酚酶解反应的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图6可以看出，底物浓度小于 $1 \\ \\mathrm { g / L }$ 时，PG 降解率快速上升，这说明相对于底物多酚，单宁酶没有被饱和，酶的活性没有得到充分发挥，超过 $1 \\ \\mathrm { g / L }$ 后PG 降解率变化不大，基本能够保持在 $9 5 \\%$ 左右。底物浓度超过 $2 \\mathrm { g } / \\mathrm { L }$ 后 EA生成率基本恒定，说明在此底物浓度下EA 生成效率较高。从反应效率的角度考虑，底物浓度在 $0 { \\sim } 4 \\ \\mathrm { g / L }$ 范围内越高越好。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3酶解条件的正交分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，各因素影响PG降解率的顺序为 $\\mathrm { p H > }$ 温度 $\\mathrm { \\dot { > } }$ 加酶量 $\\mathrm { > }$ 时间，但这些因素对PG 降解率的影响很小，在上述任意条件下，PG 降解都达到 $9 5 \\%$ 以上，降解已经比较彻底，因此主要考虑对 EA生成率的影响。各因素对 EA生成率的影响顺序为 $\\mathrm { p H > }$ 时间 $>$ 温度 $\\mathrm { \\dot { > } }$ 加酶量，且pH为3水平、温度为2水平、加酶量为1水平、时间为3水平时是最佳反应条件，即 $\\mathrm { p H } { = } 5 . 2$ 、温度 $= 4 5 ^ { \\circ } \\mathrm { C }$ 、加酶量 ${ \\it \\Omega } = 3 0 \\mathrm { m L / g }$ 底物、时间 $= 1 6 \\mathrm { ~ h ~ }$ 为最佳反应条件，该试验条件正好为正交表（表3）中的试验号8，该条件下的EA生成率为各组中最高，因此选用该条件为最佳酶解反应条件。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表3石榴皮多酚酶解条件的正交试验结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/90ba40924e51638010a68b9b1cc7abe301d38a1a7f526a3be8d98d2bb0058dd5.jpg",
+        "table_caption": [
+            "Table 3Orthogonal experimental results of enzymatic hydrolysis conditions of pomegranate peel polyphenols "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验号 Trail No.</td><td>因素Factors 结果Results</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6412a36dfba801a7f5e848d9d8cc3af47db60ec551f71f030f7d6df9be3a85db.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>pH</td><td>温度 Temperature/℃</td><td>加酶量 Volume of enzyme/(mL/g底物)</td><td>时间 Time/h</td><td>PG 降解率 PG degradation rate 1%</td><td>EA生成率 EA production rate /%</td></tr><tr><td>1</td><td></td><td>4.8</td><td>43 30</td><td>12</td><td>96.90±0.04</td><td>166.12±25.21</td></tr><tr><td>2</td><td></td><td>4.8 45</td><td>35</td><td>14</td><td>97.03±0.03</td><td>194.25±2.08</td></tr><tr><td>3</td><td></td><td>4.8 47</td><td>40</td><td>16</td><td>96.70±0.04</td><td>194.45±0.45</td></tr><tr><td>4</td><td></td><td>5.0 43</td><td>35</td><td>16</td><td>97.16±0.02</td><td>200.55±1.54</td></tr><tr><td>5</td><td>5.0</td><td>45</td><td>40</td><td>12</td><td>96.91±0.04</td><td>193.38±1.61</td></tr><tr><td>6</td><td>5.0</td><td>47</td><td>30</td><td>14</td><td>96.32±0.04</td><td>215.84±1.66</td></tr><tr><td>7</td><td>5.2</td><td>43</td><td>40</td><td>14</td><td>96.60±0.07</td><td>206.62±1.95</td></tr><tr><td>8</td><td>5.2</td><td>45</td><td>30</td><td>16</td><td>96.19±0.11</td><td>225.32±0.94</td></tr><tr><td>9</td><td>5.2</td><td>47</td><td>35</td><td>12</td><td>95.82±0.11</td><td>201.04±1.23</td></tr><tr><td>PG 降解率</td><td>k1 96.87</td><td></td><td>96.90 96.47</td><td>96.53</td><td></td><td></td></tr><tr><td>PG degradation</td><td>k2 96.80</td><td>96.70</td><td>96.67</td><td>96.63</td><td></td><td></td></tr><tr><td>rate/%</td><td>k3 96.20</td><td>96.23</td><td>96.73</td><td>96.70</td><td></td><td></td></tr><tr><td></td><td>R 0.67</td><td>0.63</td><td>0.27</td><td>0.17</td><td></td><td></td></tr><tr><td>EA生成率</td><td>k1 184.67</td><td>191.00</td><td>202.33</td><td>186.67</td><td></td><td></td></tr><tr><td>EA production rate</td><td>k2 203.00</td><td>204.00</td><td>198.33</td><td>205.67</td><td></td><td></td></tr><tr><td>1%</td><td>k3 211.00</td><td>203.67</td><td>198.00</td><td>206.33</td><td></td><td></td></tr><tr><td></td><td>R 26.33</td><td>13.00</td><td>4.33</td><td>19.67</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "212 k1、k2、k3代表结果在水平1、水平2、水平3下的平均值。R代表k1、k2、k3在各因素下  \n213 的极差。  \n214 k1, k2 and k3 stand for the mean value of the results under level 1,level 2 and level 3,respectively.  \n215 R stands for the range of k1,k2 and k3 under each factor.  \n216 2.4石榴皮多酚纯化工艺参数优化结果  \n217 2.4.13种型号大孔树脂的吸附和解吸附特性比较  \n218 由表4可以看出，D101、ADS-17、SP-700 大孔树脂对石榴皮多酚的吸附率都在 $90 \\%$ 左  \n219 右，解吸率在 $9 5 \\%$ 以上，其中D101的解吸率达到 $9 9 . 8 \\%$ ，因此确定D101为终选树脂类型。  \n220",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2610400a1e963ff9106247a66414a9ad2d697f96607874e5a4c68be4764287b.jpg",
+        "table_caption": [
+            "221 表43种型号大孔树脂的性能参数以及对石榴皮多酚的吸附及解吸附特性 222 Table 4The characteristic parameters of three kinds of macroporous resins and their adsorption 223 and desorption properties for pomegranate peel polyphenols "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>树脂型号</td><td>比表面积Specific</td><td>孔径Bore diameter/nm</td><td>吸附量 Absorption/(mg/g)</td><td></td><td>吸附率 Absorption 解吸量Desorption/解吸率</td><td></td></tr><tr><td>Resin types D101</td><td>surface area/(m/g) 480～550</td><td>25~28</td><td>51.2</td><td>rate/% 89.7</td><td>(mg/g) 51.1</td><td>Desorption rate/% 99.8</td></tr><tr><td>ADS-17</td><td>90～150</td><td>25~30</td><td>51.1</td><td>89.4</td><td>48.6</td><td>95.1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4.2洗脱剂浓度对石榴皮多酚解吸率的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出，随着乙醇浓度的提高，石榴皮多酚解吸率逐渐增加，当洗脱剂为 $9 5 \\%$ 乙醇时，解吸率最高，为终选洗脱剂浓度。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe6b0f589153829cf9ef2d06961243d2980faba8a426ea17bdfff43e9da1fb42.jpg",
+        "img_caption": [
+            "图7洗脱剂浓度对石榴皮多酚解析吸率的影响",
+            "Fig.7Effect of eluent concentration on desorption rate of pomegranate peel polyphenols "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4.3上样体积对吸附效果的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由图8可以看出，上样量小于 $3 0 0 ~ \\mathrm { m L }$ 时，流出液多酚浓度随着上样量增加快速增加;上样量大于 $3 0 0 ~ \\mathrm { m L }$ 时，流出液多酚浓度基本恒定，说明大孔树脂对石榴皮多酚的吸附达到饱和。因此， $3 0 0 ~ \\mathrm { m L }$ 为本试验终选上样体积。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/31403bd9051cf25f27fcb9648216dd8a8dd60021c11ff114ede2b10a01d78f7c.jpg",
+        "img_caption": [
+            "图8上样体积与流出液多酚浓度的动态曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.4.4洗脱体积对洗脱效果的影响",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由图9可以看出，随着洗脱体积的增加，流出液多酚浓度呈现先增加后降低的峰形，当洗脱体积大于 $1 2 0 ~ \\mathrm { m L }$ 时，流出液多酚浓度接近0，因此确定 $1 2 0 ~ \\mathrm { m L }$ 为终选洗脱体积。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a813be3a5e2a54e0135e62fcd256364c2174e63bc182d0fcd5ccf9b715e156fb.jpg",
+        "img_caption": [
+            "Fig.8Dynamic curve of loading volume and polyphenol concentration in eluate ",
+            "图9洗脱体积与流出液多酚浓度的动态曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Dynamic curve of eluent volume and polyphenol concentration in eluate ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.5石榴皮多酚及其酶解产物中多酚含量及PG、EA含量",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "经测定，石榴皮多酚中PG含量为 $4 3 . 6 4 \\%$ ，EA含量为 $4 . 8 5 \\%$ 。在最佳酶解条件及最佳大孔树脂纯化条件下获得石榴皮多酚酶解产物，其多酚含量为 $8 0 . 4 0 \\%$ ，PG 未检测到，即含量为 $0 . 0 0 \\%$ ，EA含量为 $45 . 7 3 \\%$ 。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.6石榴皮多酚及其酶解产物成分的质谱分析",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "石榴皮多酚及其酶解产物的紫外吸收光谱图见图10，石榴皮多酚及其酶解产物质谱总离子流图见图11。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "石榴皮多酚中鉴定出7个化合物峰：1）保留时间 $= 1 5 . 3 1$ ， $\\scriptstyle \\mathrm { m / z = 1 } ~ 0 8 3 . 0 6 1 ~ 8$ ，PGa；2）保留时间 $= 1 5 . 8 8$ ， $\\mathrm { m } / \\mathrm { z } { = } 7 8 3 . 0 7 0 0$ ，花梗鞣素（pedunculagin）；3）保留时间 $= 1 7 . 3 8$ ， $\\mathrm { m / z } { = } 1$ 083.0614,PGb；4）保留时间 $= 2 0 . 9 2$ ， $\\mathrm { m / z } { = } 7 5 7 . 0 9 0 \\ 0$ ，特里马素（tellimagrandin）；5）保留时间 $= 2 2 . 2 7$ ，$\\scriptstyle \\mathrm { m / z = } 6 3 3 . 0 7 3 7$ ，柯里拉京（corilagin）；6）保留时间 $= 3 0 . 4 1$ ， $\\mathrm { m / z } { = } 3 0 0 . 9 9 9 6$ ，EA；7）保留时间 $= 3 6 . 6 0$ ， $\\mathrm { m / z { = } } 4 0 1 . 0 8 7 9$ ，冰岛衣酸（cetraric acid）。由 $\\mathrm { m } / \\mathrm { z }$ 可以看出，石榴皮多酚中化合物的相对分子质量分布在 $3 0 2 { \\sim } 1 \\ 0 8 4$ 。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "石榴皮多酚酶解产物中鉴定出4个化合物峰：1）保留时间 $= 2 3 . 1 4$ ， $\\mathrm { m / z } { = } 2 9 1 . 0 1 5 2$ ，短叶苏木酚酸（brevifolin carboxylic acid）；2）保留时间 $= 2 5 . 6 8$ ， $\\mathrm { m / z = } 6 0 0 . 9 8 9 ~ 5 \\$ ，没食子酸（gallagicacid）；3）保留时间 $= 2 6 . 2 0$ ， $\\scriptstyle \\mathrm { m / z = } 2 4 7 . 0 2 5 8$ ，短叶苏木酚（brevifolin）；4）保留时间 $= 3 0 . 3 3$ .$\\mathrm { m / z } { = } 3 0 0 . 9 9 9 5$ ，EA。由 $\\mathrm { m } / \\mathrm { z }$ 可以看出，石榴皮多酚酶解产物中化合物的相对分子质量分布在$2 4 8 { \\sim } 6 0 2$ ，与石榴皮多酚相比，小分子化合物的种类增多，大分子化合物消失。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d193325dd85ccabc7fb4640d5e9091ee9ef975c2f393701a20a5b5a3912cc280.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d50866842f9f9cf7584fa874c362a6ddd908b4af43cf17d5c779f7a2691c848e.jpg",
+        "img_caption": [
+            "Fig.10Ultraviolet absorption spectrogram of pomegranate peel polyphenols and its enzymatic products "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/46051ec4f620af8e19b230929ef23d839b20559a8e18bd43e7264e7bb689b0d7.jpg",
+        "img_caption": [
+            "图10石榴皮多酚及其酶解产物的紫外吸收光谱图",
+            "图11石榴皮多酚及其酶解产物质谱总离子流图",
+            "Fig.11Total ion current of mass spectra of pomegranate peel polyphenols and its enzymatic products "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "单宁酶广泛存在于曲霉类真菌微生物中，在食品工业中使用广泛，常用于降解啤酒中的单宁，防止其与蛋白质结合生成沉淀，使溶液澄清透明；单宁酶也用于制造速溶茶，防止发酵茶中大分子单宁相互结合发生混浊[]。据国外已有报道，利用产单宁酶的黑曲霉对石榴皮进行固态发酵可获得 EA[17-18]。程艳[19]利用石榴皮单宁为诱导物，诱导黑曲霉产生单宁酶，",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "提取酶后将该酶与石榴皮单宁进行反应，用酸碱溶解法纯化获得EA。与以往单纯获得 EA 的研究不同，在本试验以PG降解率和 EA生成率为目标，优化了单宁酶水解石榴皮多酚的反应条件和纯化工艺。这样做可以保持水解产物多样性，而不是彻底生成 EA单一化合物，旨在从PG 水解过程中获得更多活性化合物成分，不破坏石榴皮多酚酶解产物的综合活性。本试验的酶解过程中，单宁酶使石榴皮多酚在化合物成分和比例上发生了变化。由酶解前后HPLC指纹图谱可以看出，酶解前的石榴皮多酚在保留时间靠前时出峰较多且峰面积较大，而酶解后石榴皮多酚在保留时间靠后时出峰增多且峰面积较大。经质谱鉴定发现，单宁酶水解使石榴皮多酚化合物的种类明显减少、相对分子质量降低，代表性大分子化合物PG已经被水解完全。化合物结构比较发现，单宁酶水解主要导致了酰基和糖苷键裂解，生成以EA为主的小分子多酚化合物。根据液相色谱的洗脱条件，结合相似相溶原理，先出峰的为极性大的水溶性物质，越往后极性越小，脂溶性也越大，本试验测定结果说明石榴皮多酚经酶解后极性物质减少，脂溶性物质增加，而脂溶性物质的增加将有利于透过细胞膜脂质双分子层，进入细胞内部发挥作用。本实验室前期研究了石榴皮中3种结构单元相似、相对分子质量不同的多酚化合物——PG（相对分子量1084）、安石榴林（相对分子量783）、EA（相对分子量302）的体内抗氧化活性，发现EA对氧化鱼油导致的小鼠氧化损伤缓解作用最强，表现为缓解小鼠体重下降、提高肝脏和血液抗氧化酶活性，降低脂质过氧化产物丙二醛（MDA）含量[20]。因此，酶解PG等大分子鞣花单宁为EA等小分子酚酸，有利于石榴皮多酚在动物体内抗氧化活性的发挥，对石榴皮作为功能性饲料添加剂的开发有现实意义。在本试验的酶解条件优化过程中，温度和pH对酶解反应影响最大。随着温度的升高，EA  \n302 生成率和PG降解率都出现先升高后降低的趋势,45C后EA生成率比PG降解率下降更加迅速。  \n303 产生这种现象的主要原因在于：一方面，单宁酶具有特异性生成EA的特点；另一方面，当温  \n304 度升至最适温度时，EA生成率和PG降解率都升至最高，超过最适温度后单宁酶逐渐失活，  \n305 从而导致EA生成率骤然下降，而PG降解率随着温度升高可发生自身水解，即不依赖酶的作  \n306 用，其产物也可能不以EA为主。pH变化对EA生成率和PG降解率的影响不同。在pH小于5.0  \n307 条件下，PG降解率一直保持较高水平，pH等于5.0时开始迅速下降。这种现象主要原因在于  \n308 PG可以在酸性环境中发生自身水解，最终产物同样是EA，随着pH升高，PG自身水解效率和  \n309 程度降低，还可能发生不完全水解，生成结合1分子葡萄糖的EA衍生物。当pH为4.5时，PG",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "不完全水解明显，EA生成率较之前降低；随着pH继续升高至最适酶促反应，单宁酶水解生成EA达到峰值，之后随着PG自身水解和单宁酶作用双重降低，导致EA生成率也迅速下降。由此可见，单宁酶水解石榴皮多酚的程度不完全取决于酶促反应过程，需要充分考虑不同反应条件的综合作用。本研究最终通过正交设计获得了最佳酶解条件。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，为保证酶解过程pH的稳定，加入了大量PBS，酶解产物无机盐含量较高。同时，PE等酶解过程有葡萄糖基脱落，产物中也会存在葡萄糖。为了去除酶解过程中产生的无机盐和葡萄糖，以多酚含量为指标，通过静态吸附和解吸附试验选择D101大孔树脂，并优化了纯化工艺参数。D101型大孔树脂是苯乙烯型非极性共聚体，对于不带极性或弱极性的化合物具有较强吸附能力，适用范围比较广。石榴皮多酚以鞣花单宁为主，虽然鞣花单宁分子中含多个酚羟基，但其中的酰基和鞣花酰基结构具有一定的疏水性，适于使用非极性树脂吸附。张立华等[21]比较了D101、AB-8、DA-201大孔树脂对石榴皮提取物中多酚的吸附效果，发现D101吸附和解吸效果最好，这与本试验结果相似。我国是石榴生产大国，石榴年产量巨大。现代果汁加工业中，采用石榴全果压榨取汁，果皮作为废弃物资源丰富，价格低廉。石榴皮酶解技术的主要成本来自于单宁酶，为节约成本，将来要将本技术应用于饲料领域，可开展利用黑曲霉等微生物制备粗酶液水解石榴皮多酚，或者直接用产单宁酶微生物发酵石榴皮。从提高酶的利用率角度考虑，单宁酶固定化研究也值得开展。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 本试验建立的单宁酶水解石榴皮多酚的最佳酶解条件为 $\\mathrm { p H } 5 . 2$ 、温度 $4 5 \\ \\mathrm { ^ \\circ C }$ 、加酶量 $3 0 ~ \\mathrm { m L / g } ,$ 底物、时间 $1 6 \\mathrm { h }$ 、底物浓度 $4 \\mathrm { g / L }$ 。$\\textcircled{2}$ 酶解反应液选择用D101型大孔树脂进行纯化，确定 $9 5 \\%$ 乙醇为洗脱剂，使用 $\\ L _ { \\Phi } 2 . 0$ $\\mathrm { c m } { \\times } 3 0 . 0 \\mathrm { c m }$ 的玻璃层析动态吸附时，上样体积为 $3 0 0 ~ \\mathrm { m L }$ ，洗脱体积为 $1 2 0 ~ \\mathrm { m L }$ 。$\\textcircled{3}$ 在以上条件下获得的石榴皮多酚酶解产物多酚含量为 $8 0 . 4 0 \\%$ ，大分子多酚化合物PE含量由酶解前的 $4 3 . 6 4 \\%$ 降低至 $0 . 0 0 \\%$ ，小分子多酚EA含量由酶解前的 $4 . 8 5 \\%$ 提高至 $45 . 7 3 \\%$ ，石榴皮多酚中化合物相对分子质量分布由酶解前的 $3 0 2 { \\sim } 1 \\ 0 8 4$ 降低至 $2 4 8 { \\sim } 6 0 2$ 。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "336 参考文献：",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "337 [1]李昊阳,钟荣珍,房义,等.动物氧化应激与免疫的研究进展[J].动物营养学   \n338 报,2014,26(11):3217-3221.   \n339 [2]PEREZ-JIMENEZ J,NEVEU V,VOS F,et al.Identification of the 100 richest dietary sources   \n340 of polyphenols:an application of the Phenol-Explorer database[J].European Journal of Clinical   \n341 Nutrition,2010,64:S112-S120.   \n342 [3]NIWANO Y,SAITO K,YOSHIZAKI F,et al.Extensive screening for herbal extracts with   \n343 potent antioxidant properties[J].Journal of Clinical Biochemistry and   \n344 Nutriton,2011,48(1):78-84.   \n345 [4]GONZALEZ-TRUJANO M E,PELLICER F,MENA P,et al.Antinociceptive and anti-inflammatory   \n346 activities of a pomegranate (Punica granatum L.) extract rich in ellagitannins[J].International   \n347 Journal of Food Sciences and Nutrition,2015,66(4):395-399.   \n348 [5]牛洪波,王正兴,孙志强.中国石榴产销情况[J].中国果菜,2014(8):1-5.   \n349 [6]吕忠蕾,李成云.饲粮中添加不同分子量缩合单宁对延边黄牛瘤胃内环境的影响[J].饲料工   \n350 业,2014,35(7):43-47.   \n351 [7]LIPINSKI C A,LOMBARDO F,DOMINY B W,et al.Experimental and computational approaches   \n352 to estimate solubility and permeability in drug discovery and development settings[J].Advanced   \n353 Drug Delivery Reviews,1997,23(1/2/3):3-25.   \n354 [8]周本宏,邱振鹏,易慧兰,等.鞣花鞣质肠道代谢产物urolithins 研究进展[J].中国中药杂   \n355 志,2016,41(16):2968-2974.   \n356 [9]GONZALEZ-SARRIAS A,GARCIA-VILLALBAR, NUNEZ-SANCHEZ M A,et al.Identifying   \n357 the limits for ellagic acid bioavailability:a crossover pharmacokinetic study in healthy volunteers   \n358 after consumption of pomegranate extracts [J].Journal of Functional Foods,2015,19:225-235.   \n359 [10]DURMIC Z,BLACHE D.Bioactive plants and plant products:effects on animal   \n360 function,health and welfare[J].Animal Feed Science and   \n361 Technology,2012,176(1/2/3/4):150-162.   \n362 [11]焦天慧,吕长鑫,冯叙桥,等.单宁酶的分离纯化及其在软饮料工业中的应用[J].食品与发酵工   \n363 业,2016,42(11):262-269.   \n364 [12] DEL RIO D,COSTA L G,LEAN M E J,et al.Polyphenols and health:what compounds are   \n365 involved?[J].Nutrition Metabolism and Cardiovascular Diseases,2010,20(1):1-6.   \n366 [13]LEI F,XING D M,XIANG L,et al.Pharmacokinetic study of ellagic acid in rat after oral   \n367 administrationofpomegranateleafextract[J].JournalofChromatography   \n368 B,2003,796(1):189-194.   \n369 [14]郭珊珊.石榴中类单宁的分离纯化、结构及活性研究[D].硕士学位论文.武汉:华中农业大   \n370 学,2007:36-39. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[15]朱静.石榴皮中生物活性成分的提取纯化[D].硕士学位论文.北京:北京化工大 学,2009:23-32.   \n[16]孙雨晴.复合植物提取物的组方、安全性评价及其在小鼠上的应用研究[D].硕士学位论 文.金华:浙江师范大学,2012:9-11.   \n[17]AGUILAR C N,AGUILERA-CARBO A,ROBLEDO A,et al.Production of antioxidant nutraceuticals by solid-state cultures of pomegranate (Punica granatum) peel and creosote bush (Larrea tridentata) leaves[J].Food Technology and Biotechnology,2008,46(2):218-2.   \n[18]HERNANDEZ J S,AGUILERA-CARBO A F,RODRIGUEZ HERRERA R,et al.Kinetic production of the antioxidant ellagic acid by fungal solid state culture[C]/Proceedings of the 10th International Chemical and Biological Engineering Conference.Portugal:CHEMPOR,2008:1849-1854.   \n[19]程艳.石榴皮为原料酶法生产鞣花酸[D].硕士学位论文.北京:北京化工大学,2008:1-2.   \n[20]SUN YQ,TAO X,MEN X M,et al.In vitro and in vivo antioxidant activities of three major polyphenolic compounds in pomegranate peel:ellagic acid,punicalin and punicalagin[J].Journal of Integrative Agriculture,2017,doi:10.1016/S2095-3119(16)61560-5.   \n[21]张立华,张元湖,安春艳,等.石榴皮提取物的大孔树脂纯化及其抗氧化性能[J].农业工程 学报,2009,25(增刊1):142-147. Process Optimization of Hydrolysis of Pomegranate Peel Polyphenols by Tannase and Hydrolysates Identification SUN Yuqing1² TAO Xin’XU Ziwei1\\* (1. Institute of Animal Husbandry and Veterinary Science, Zhejiang Academy of Agricultural Sciences,Hangzhou 310021, China; 2. College of Animal Science and Technology, Nanjing Agricultural University, Nanjing 210095,China)   \nAbstract: Polyphenols from pomegranate peel has multiple biological activities such as   \nanti-inflammatory， antioxidant and anti-cancer activities. However， the high molecular   \nellgitannins such as punicalagin in pomegranate peel polyphenols can not be absorbed by animal   \ngastrointestine directly,but have to be hydrolyzed into small molecules such as ellgic acid first   \nand then be absorbed into bloodstream and exerts physiological effects. This study was conducted ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "polyphenols into small molecule phenolic acids by using tannase, optimize the hydrolysis process and hydrolysates purification process,and clarify the composition changes before and after the hydrolysis. By doing this,we hope it could provide basic data for the exploration of pomegranate peel polyphenols as functional feed additives promoting animal health. By comparing the high performance liquid chromatography fingerprints before and after the hydrolysis,we determined ellgic acid increasing rate and punicalagin degradation rate as indicators of enzymolysis degree. Using the single factor design and orthogonal combination design, we optimized the enzymolysis conditions,and established the macroporous resin purification conditions of hydrolysates by using the methods of static adsorption and dynamic adsorption. Moreover, the composition changes before and after hydrolysis of pomegranate peel polyphenols were determined by a liquid chromatography-mass spectrometry. The results showed that the optimum reaction conditions for the enzymolysis were pH 5.2, $4 5 \\ \\mathrm { ~ \\textdegree C }$ , enzyme volume $3 0 \\mathrm { m L / g }$ substrate, substrate concentration 4 g/L,16 h. For enzymatic products purification parameters,D10l macroporous resin was tested to be the best absorbing material, the best elution was $9 5 \\%$ ethanol, the best loading volume was 300 mL,and the best collecting volume of elution was $1 2 0 ~ \\mathrm { m L }$ . The contents of punicalagin (relative molecular mass was 1 O84) and elagic acid (relative molecular mass was 302) in the pomegranate peel polyphenols were $4 3 . 6 4 \\%$ and $4 . 8 5 \\%$ , respectively. Under the optimal enzymatic hydrolysis conditions and the optimal purification conditions, the enzymatic products of pomegranate peel polyphenols was obtained, the punicalagin content of which was $0 . 0 0 \\%$ ， and the ellagic acid content of which was $45 . 7 3 \\%$ . There were seven kinds of main polyphenols in the pomegranate peel polyphenols had been determined, the mass-to-charge ratio ( $\\cdot \\mathbf { m } / z$ ）of them were 1 083,1 083, 783, 757, 633,401 and 300,respectively,and the relative molecular mass was from 302 to 1 084. There were four kinds of main polyphenols in the enzymatic products pomegranate peel polyphenols had been determined, the $\\mathbf { m } / z$ of them were 600,300,291 and 247,respectively,and the relative molecular mass was from 248 to 602. This experiment optimized the reaction conditions of tannase hydrolyzing pomegranate peel polyphenols and the hydrolysates purification conditions of the enzymatic products of pomegranate peel polyphenols, obtained hydrolysates rich in small molecular polyphenols,and this work could provide basic data for the development and utilization of pomegranate peel polyphenols as new functional animal feed additives. Key words: pomegranate peel polyphenols; tannase; enzymolysis; process optimization ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

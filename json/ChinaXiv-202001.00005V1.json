@@ -1,0 +1,528 @@
+[
+    {
+        "type": "text",
+        "text": "塔克拉玛干沙漠输沙势时空分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙小雲，房彦杰，赵景峰}，何清²，周杰³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1四川师范大学地理与资源科学学院,四川成都610101；2中国气象局乌鲁木齐沙漠气象研究所新疆乌鲁木齐830002；3中国科学院新疆生态与地理研究所,新疆乌鲁木齐830002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用塔克拉玛干沙漠22个气象站(周边21个站和沙漠腹地1个塔中站)2005—2007年的逐时风记录数据，首先基于输沙势定义计算了2007年各测站的16个方位的输沙势;其次以内积相似度指数聚类分析为基础，再结合其空间分布特点，把该沙漠的动力输沙环境划分为5种类型：沙漠东部库尔勒型(西西南型）、北部新和型（偏南型）、西部策勒型（偏东型)、南部民丰型（东东北型)和一种特殊类型;其中策勒型输沙势最大、新和型最小；民丰型输沙势方向稳定性最好、库尔勒型最差;此外，输沙势的季节差异上(2007年为例)，各测站春夏季(3\\~8月)的输沙势都很强，占年均输沙势的 $8 1 . 2 9 \\% \\sim 9 8 . 7 9 \\%$ ，尤其是5月份占年输沙势的 $2 2 . 7 \\% \\sim 5 6 . 8 \\%$ ，冬季(11月\\~次年2月)几乎无起沙风；沙漠合成输沙势年际变化表现为：输沙势变幅为 $\\pm 3 3 \\%$ ，输沙方向变幅为$\\pm 9 . 6 ^ { \\circ }$ ，其中输沙势值变幅最大是阿拉尔站( $\\pm 8 0 \\%$ )，方向变幅最大的是库车站( $\\pm 2 4 . 4 ^ { \\circ } \\rangle$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：塔克拉玛干沙漠；输沙势空间分布；季节变化；年际变化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔克拉玛干沙漠(简称塔干沙漠)位于塔里木盆地中央,属于温带流动性沙漠[1]。它不仅是我国最大的沙漠,也是世界第二大流动沙漠,而且具有气候极端干旱、流动沙丘大面积分布和沙丘类型复杂的独特性;塔干沙漠边缘绿洲虽受风沙危害，但仍是新疆重要的农业地区之一[2]。风是塑造风沙地貌的主要营力,也是风沙灾害的动力根源[3],塔干沙漠四周高山环绕，风沙动力环境十分复杂，阐明不同地区风沙地貌类型形成的独特机制及其整体的演变趋势，必须考虑风速风向的空间分布差异。FRY-BERGER的输沙势 $( D P )$ 方法是评价区域风沙动力环境最常用的方法，尤其对数据采样不一致的大范围区域来说，该方法计算简便且各区域可以比较。FRY-BERGER[4]于1979 年对13个沙漠的输沙势进行了计算,并对其风能环境进行了分级评价；之后，FRY-BERGER 等[5]、KALMA 等[6]、HEREHER 等[7-8]JEWEEL等[9]和 MESBAHZADEH等[10-11]分别对沙特伯贾夫拉沙海、澳大利亚全域、埃及西部、美国大盆地和伊朗阿尔达坎地区的月际输沙势进行了计算。国内也曾利用该方法对库姆塔格沙漠、巴丹吉林沙漠以及青藏铁路沿线、黑河流域的沙漠地区进行风能环境评价[12-16]。针对塔干沙漠,FRYBERG-ER 等[4]计算11个站点的平均年 ${ D P }$ 为81VU;李红军等[17]基于1961—2001年气象台站每日4次风资料得出南疆地区的RDP平均值为12.1VU,其中塔中站为4.6VU,这与周成龙等[18]利用 2006—2012年塔中气象站数据计算出的RDP（227.4VU)相差甚远;俎瑞平等[19-20]利用1996—2000 年沙漠内部和边缘的风观测计算了16个站点的 ${ D P }$ 值，指出大多站点DP值均低于100VU，最大值是若羌站（399.0 VU);邢文娟等[21]与王雪芹等[22]分别采用中科院策勒野外观测站2005—2006年和2005—2009 年的风数据计算的策勒站RDP比较一致，分别为26.2VU和 $2 8 . 0 \\mathrm { \\ V U }$ 。这些计算结果上的差异对人们正确认识塔干沙漠风动力环境以及定量比较不同沙漠之间动力差异都造成了一定影响。为什么不同学者计算的塔干沙漠输沙势差异很大？BULL-ARD[23]曾指出在FRYBERGER方法中采用不同的风速单位 $( \\mathrm { k n o t } \\cdot \\mathrm { h } ^ { - 1 } , \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 } , \\mathrm { m } \\cdot \\mathrm { h } ^ { - 1 } )$ ,必然导致$D P$ 的矢量单位 $( V U )$ 含义和计算值不同，就不能按统一的风能分级标准进行评价。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于塔干沙漠22个气象站2005—2007年的实测风数据，先是根据输沙势定义，给出具体计算公式及其各参数的定义和含义;其次计算出各测站的 ${ D P }$ 和 $R D P$ ，再利用内积相似度的聚类方法把RDP划分为5个类型;然后以2007年为例对各月输沙势的空间分布进行了分析，同时定量地评价了2005—2007年输沙势的年际变化；最后本文讨论了不同学者之间输沙势计算结果差异大的原因。本研究对揭示塔干沙漠风动力环境特征，认识风沙地貌分异规律具有一定的科学意义，也可为各地区防风固沙对策提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2005—2007年塔干沙漠22个气象站的逐时实测风数据，风速风向为 $1 0 ~ \\mathrm { m i n }$ 的平均值，其中21个气象站为常规气象站（沙漠周边20个站，沙漠腹地1个塔中站);另一个是策勒自动气象观测站(中科院策勒野外观测站），其观测高度 $1 0 \\mathrm { ~ m ~ }$ 。各测站风速单位为 $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ，风向以 $0 \\sim 3 6 0 ^ { \\circ }$ 方位角（精度$3 ^ { \\circ } \\sim 5 ^ { \\circ } )$ 表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2输沙势定义与FRYBEGER计算模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）输沙势定义",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1978 年LETTAU等[24]提出了输沙率计算公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ \\propto V ^ { 2 } \\times ( V - V _ { t } ) \\times t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q$ 为输沙率; $V$ 为 $1 0 \\mathrm { ~ m ~ }$ 高处风速; $\\textstyle V _ { _ t }$ 为 $1 0 \\mathrm { ~ m ~ }$ 高处的临界起沙风风速； $\\mathbf { \\chi } _ { t } ^ { }$ 为起沙风作用时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "之后,FRYBERGER[4]把某一时间段内的相对输沙率定义为输沙势 $( D P )$ ,将式(1）中的 $\\textstyle V ^ { 2 } ( V -$ $\\textstyle V _ { _ t }$ )称为权重因子， $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { t }$ 替换为起沙风时间占观测时段的比值（以百分数表示，通常观测时段以1a为周期)，提出了年 ${ D P }$ 的计算公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD P = V ^ { 2 } \\times \\left( V - V _ { t } \\right) \\times t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：风速单位knol $\\mathrm { ~ s ( 1 . 0 ~ k n o t } = 0 . 5 1 4 \\ 4 \\ \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } )$ ，${ D P }$ 单位为矢量单位（VU）。若风速单位不同，则${ D P }$ 值及其矢量单位也不同，也就不能按照REY-BERGER标准来评价风能环境。为此，BULLARD给出了风速以 $\\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } \\cdot \\mathrm { k m } \\cdot \\mathrm { ~ h ~ } ^ { - 1 }$ 和 knots 为单位，所对应 $D P$ 值之间的换算关系[23],比如：若风速单位为 $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ,对应的矢量单位记作VU',则有1.0VU$= 0 . 1 3 6 ~ \\mathrm { V U ^ { \\prime } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2)FRYBEGER计算模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若采用公式(2)计算输沙势则需要每个站点的逐次实测风速数据，而这一点在实际中很难实现。为了简化数据要求和计算，FRYBEGER对公式（2）进行了改进： $\\textcircled{1}$ 把风力划为5个等级，给每一风级赋予一个常数值（简称FRYBERGER中间值），因此权重因子 $V _ { 2 } \\left( V - V _ { t } \\right)$ 无需实测数据就可以确定。$\\textcircled{2} t$ 值替换为与观测间隔无关的相对频率 $( n _ { j } / N \\mathbf { \\epsilon } )$ ，通常 $N$ 为1a的总观测次数， $n _ { j }$ 是其中第 $j$ 风级的次数 $( j = 1 , 2 , \\cdots , 5$ ;起沙风分级），因此公式（2）可改写为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD P ^ { \\prime } = \\sum _ { j = 1 } ^ { K } \\overline { { { V } } } _ { j } ^ { 2 } \\times ( \\overline { { { V } } } _ { j } - V _ { t } ) \\times t _ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( t _ { j } \\ = \\ \\frac { n _ { j } } { N } , K \\ = \\ 5 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "公式（3)被称作FRYBEGER 模型[4],其优点在于无需逐次观测数据，只要有5个风级16个方位的相对频率(该统计值大小理论上与观测间隔无关)就可以计算 $D P$ ，因而被广泛采用。FRYBEGER、李红军、俎瑞平、王雪芹等学者在计算输沙势时，都是采用的FRYBEGER模型。关于FRYBEGER模型的计算偏差,房彦杰[25]、PEARCE[26]以及张正傯[27]都进行过比较分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)本文输沙势的计算方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于输沙势定义，对于公式(2）中的权重因子$V ^ { 2 } \\left( \\hat { V } - V _ { t } \\right)$ 采用逐时实测值, $t _ { i }$ 采用相对频率表示，其中，风速单位为knots,设 $V _ { t } = 1 1 . 6$ knots（相当于$6 . 0 \\textrm { m } \\cdot \\textrm { s } ^ { - 1 } ) \\ : ^ { [ 2 8 - 2 9 ] }$ 。具体计算公如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD P = \\sum _ { i = 1 } ^ { n } V _ { t } ^ { 2 } \\times ( V _ { i } - V _ { t } ) \\times t _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( t _ { i } \\ = \\ { \\frac { 1 } { N } } , V _ { i } \\geqslant V _ { t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为1a观测总次数( $N = 2 4$ 次· $\\mathbf { d } ^ { - 1 } \\times 3 6 5$ d$= 8 \\ 7 6 0$ 次）； $n$ 为其间起沙风的次数,由此计算的年$D P$ 值对应的年合成输沙势、合成输沙方向和风向变率指数，分别记作 $R D P , R D D$ 和 $R D P / D P$ 。这些计算值不仅与REYBERGER的风能分级标准要求一致，因采用逐时观测数据，还避免了采用FRYBE-GER模型带来的偏差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 输沙势的空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1空间分布特征塔干沙漠22个观测站年输沙势的计算结果如图1所示：2007年各站的 ${ D P }$ 值在 $0 . 8 \\sim 3 4 . 6 ~ \\mathrm { V U }$ 之间（ $R D P$ 变化于 $0 . 7 \\sim 3 3 . 4$ VU), $D P$ 平均值为9.6VU（平均 $R D P = 7 . 5 ~ \\mathrm { V U } ;$ ，$R D P / D P$ 比值在0.36（且末） $\\sim 0 . 9 8$ （民丰)之间；其中策勒站输沙势最大( $D P = 3 4 . 6 ~ \\mathrm { V U }$ ， $R D P = 3 3 . 4 \\$ VU）,皮山站最小（ $D P = 0 . 8$ VU, $R D P = 0 . 7 \\mathrm { \\ V U } ;$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照FRYBERGER的风动力环境划分标准，塔干沙漠属于低风能环境，风向变率指数属于中、高比率。2.1.2输沙势类型及其特征为了比较各测站年输沙势的异同点，将22个测站的RDP矢量绘制在一个平面上，每个矢量以坐标原点为起点。首先利用内积相似度指数对RDP进行聚类分析，得到塔干沙漠4种RDP类型（图2）;然后，依据各RDP类型的分布区域，将分布区域相同的RDP类型归纳为一种输沙势类型，并以代表测站来命名该类型。如：沙漠北部的西西南型RDP，称作库尔勒型输沙势，但",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "75°E 78E 81°E 84°E 87°E 90°E W   \nN 新和 p 库车 Q 库尔勒尉犁 8.6 Φ51 铁干里克 2 尔 柯坪 Q 2-0.9 =0.94 r=0.78 6.5 R 1201.82 阿图仕 巴楚 13 20.8 21-0.90 2.80 11.0 1 r=0.88   \nN68 喀什3.3 r=0.78 r=0.85 r=0.63 送 1 塔中 且末 1.6 若羌 111 R N.68 莎车 4.4 23.2 0.89 0 23% r=0.58 r-0.36 r=0.48 1=0.94r=094,   \nN.98 ikm N.98 /VU 0 15 75°E 78E 81°E 84°E 87°E 90°E 注： $r = R D P / D P$ ，下同 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d7a39a05cab80c5a76fb24a7d24879fbe01cb6dd940f50e3ea928d6e956b481.jpg",
+        "img_caption": [
+            "图1塔克拉玛干沙漠2007年各测站 ${ D P } , { R D P }$ 和 $\\boldsymbol { r }$ 的计算结果Fig.1DP,RDP and $r$ of each station in Taklimakan Desert in 2007",
+            "注：用 $\\smash { \\mathbf { o } _ { 3 } + \\mathbf { \\varepsilon } _ { \\ast } \\mathbf { * } }$ 、△表示4种类型",
+            "图2基于内积相似度指数聚类分析法划分的4种RDP类型",
+            "Fig.2Four types of RDP based on cluster analysis of inner product similarity "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RDP同为西西南的尉犁站，因其区域不同（沙漠东部），则划为另类。因此将塔中站、尉犁站和巴楚站的输沙势归为特殊类型。以下就上述5种输沙势类型（表1），分别阐述它们的共同特征：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）库尔勒型（西西南型)：4个测站分布于沙漠东部，合成输沙势方位角( $( R D D )$ 在 $2 4 3 ^ { \\circ } \\sim 2 5 3 ^ { \\circ }$ 之间。 $. D P , R D P$ 范围分别为 $4 . 4 \\sim 2 3 . 2 ~ \\mathrm { V U }$ 和 $1 . 6 \\sim$ 15.8VU, $R D P / D P$ 比值为 $0 . 3 6 \\sim 0 . 9 4$ 。其中,偏东侧的铁干里克、若羌站输沙势 $( D P , R D P )$ 为高值区;北侧库尔勒站( $D P = 9 . 1 ~ \\mathrm { V U } ^ { \\cdot }$ ），略低于沙漠平均值，但因风向一致较好，其RDP高于沙漠平均值（ $R D P = 7 . 5 ~ \\mathrm { V U }$ );南侧且末站输沙势为区域最小值0 $\\mathit { D P } = 4 . 4 \\ \\mathrm { V U }$ ， $R D P = 1 . 6 ~ \\mathrm { V U }$ )，风向一致性在整个沙漠中最差( $\\cdot R D P / D P = 0 . 3 6 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）新和型（偏南型)：5个测站位于沙漠北缘，RDD为 $1 6 5 ^ { \\circ } \\sim 2 0 1 ^ { \\circ }$ 。 $R D P / D P$ 比值介于 $0 . 6 2 \\sim$ 0.9，风向一致性较好。输沙势为低值区（ $D P < 9 . 1$ VU, $R D P < 5 . 7 ~ \\mathrm { V U } ^ { \\cdot }$ )，平均值为各类型中最小;各测站的各项参数差异不大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1塔克拉玛干沙漠各测站输沙势",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/89a3719692ae30a80532c8bdab75678e184c20319fd75cf999891deed1426a04.jpg",
+        "table_caption": [
+            "Tab.1Annual ${ \\pmb D } { \\pmb P }$ of 22 stations in Taklimakan "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Desert in 2007</td></tr><tr><td>类型</td><td>测站</td><td>区域</td><td>RDD/(方位)</td><td>RDP/VU</td><td>DP</td><td>RDP/DP</td></tr><tr><td>库尔勒型 且末</td><td></td><td>东部</td><td>252.9(WSW)</td><td>1.6</td><td>4.4</td><td>0.36</td></tr><tr><td></td><td>若羌</td><td>东部</td><td>243.00(WSW)</td><td>11.1</td><td>23.2</td><td>0.48</td></tr><tr><td></td><td>铁干里克</td><td>东部</td><td>249.4(WSW)</td><td>15.8</td><td>21.8</td><td>0.72</td></tr><tr><td></td><td>库尔勒</td><td>东部</td><td>243.3（WSW)</td><td>8.6</td><td>9.1</td><td>0.94</td></tr><tr><td>新和型</td><td>轮台</td><td>北部</td><td>165.4(SSE)</td><td>1.6</td><td>2.4</td><td>0.69</td></tr><tr><td></td><td>库车</td><td>北部</td><td>190.6 (S)</td><td>5.7</td><td>9.1</td><td>0.62</td></tr><tr><td></td><td>新和</td><td>北部</td><td>188.4 (S)</td><td>2.1</td><td>2.4</td><td>0.90</td></tr><tr><td></td><td>沙雅</td><td>北部</td><td>200.6(SSW)</td><td>1.2</td><td>1.3</td><td>0.88</td></tr><tr><td></td><td>阿拉尔</td><td>北部</td><td>167.5(SSE)</td><td>1.5</td><td>2.3</td><td>0.63</td></tr><tr><td>策勒型</td><td>阿克苏</td><td>西部</td><td>107.7(ESE)</td><td>14.4</td><td>16.1</td><td>0.90</td></tr><tr><td></td><td>柯坪</td><td>西部</td><td>121.6(ESE)</td><td>9.3</td><td>11.0</td><td>0.85</td></tr><tr><td></td><td>阿图什</td><td>西部</td><td>113.5(ESE)</td><td>18.8</td><td>20.8</td><td>0.90</td></tr><tr><td></td><td>喀什</td><td>西部</td><td>122.6(SE)</td><td>2.9</td><td>3.3</td><td>0.89</td></tr><tr><td></td><td>莎车</td><td>西部</td><td>129.2(SE)</td><td>1.4</td><td>1.5</td><td>0.97</td></tr><tr><td></td><td>皮山</td><td>西部</td><td>117.3(ESE)</td><td>0.7</td><td>0.8</td><td>0.85</td></tr><tr><td></td><td>和田</td><td>西部</td><td>93.3 (E)</td><td>2.2</td><td>2.3</td><td>0.94</td></tr><tr><td></td><td>策勒</td><td>西部</td><td>105.8(ESE)</td><td>33.4</td><td>34.6</td><td>0.97</td></tr><tr><td>民丰型</td><td>于田</td><td>南部</td><td>63.1(ENE)</td><td>1.4</td><td>1.6</td><td>0.90</td></tr><tr><td></td><td>民丰</td><td>南部</td><td>69.0(ENE)</td><td>9.6</td><td>9.8</td><td>0.98</td></tr><tr><td>特殊型</td><td>尉犁</td><td>东部</td><td>184.9 (S)</td><td>5.1</td><td>6.5</td><td>0.78</td></tr><tr><td></td><td>巴楚</td><td>西部</td><td>217.0(SW)</td><td>2.1</td><td>2.8</td><td>0.78</td></tr><tr><td></td><td>塔中</td><td>腹地</td><td>195.1(SSW)</td><td>13.7</td><td>23.4</td><td>0.58</td></tr><tr><td></td><td>平均值</td><td></td><td>/</td><td>7.5</td><td>9.6</td><td>0.80</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）策勒型（偏东型）：分布于沙漠西部包含8个测站， $R D D$ 介于 $9 3 ^ { \\circ } \\sim 1 2 9 ^ { \\circ }$ 之间。风向一致性仅次于民丰型( $R D P / D P$ 为 $0 . 8 5 \\sim 0 . 9 7$ )。测站之间$D P$ 空间差异最大 $( 0 . 7 \\sim 3 3 . 4 \\mathrm { ~ V U } ^ { \\cdot }$ ），其中西南部策勒站 ${ D P }$ 为塔干沙漠的峰值（34.6VU），“和田一喀什”区间输沙势为低值区（ $\\mathit { ^ { \\prime } D P } < 3 . 3 \\mathrm { \\ V U } , R D P < 2 . 9$ VU）,皮山站输沙势为沙漠最小值( $D P = 0 . 8 ~ \\mathrm { V U }$ ，$R D P = 0 . 7 \\mathrm { \\ V U } ,$ )；其西北部“阿图什—阿克苏”区间为 $R D P$ 高值区 $( 9 . 3 \\sim 1 8 . 8 { \\mathrm { ~ V U } } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）民丰型（东东北型）：沙漠南缘的民丰、于田站， $R D D$ 为 $6 3 ^ { \\circ } \\sim 6 9 ^ { \\circ }$ 。该输沙类型的风向一致性最好 $\\cdot R D P / D P > 0 . 9 \\$ )，但测站间 ${ D P }$ 值差异很大（204号 $( 1 . 6 \\sim 9 . 8 { \\mathrm { ~ V U } } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5）特殊型：尉犁、巴楚和塔中3个测站。尉犁位于沙漠东部，其合成输沙方向（S）与东部的库尔勒型（WWS)明显不同;巴楚按地理位置应属策勒型（偏E），可实际上合成输沙势为SW方向;塔中站地处沙漠腹地，从RDD看应为新和型（SSW），但其区域独特且RDP也有很大差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，塔干沙漠东部（库尔勒型，包括尉犁）、北部(新和型)以及塔中站(其他型)的合成输沙势的偏西、偏南分量占优势，可归纳为一大类；另一类分布于沙漠西部(策勒型)和南部(民丰型）,其合成输势中的偏东分量占优势。由此可以看出，塔干沙漠起沙风主要有两种风向，西部为西北风，东部为东北风;两大起沙风的交汇带大致是一条“北北西一东南”的曲线：起点位于“阿克苏一新和”之间，再经阿拉尔东侧和塔中西侧，最后终止于“民丰一且末”之间。这一结果与塔干沙漠南缘气流辐合线摆动于克里雅河和尼雅河的认识相比[2-3,30],表明起沙风气流的辐合线明显东移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2年输沙势的季节变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "塔干沙漠22个测站各月 $D P$ 计算结果如表2所示。春季(3\\~5月）、夏季(6\\~8月)输沙势对年$D P$ 的贡献率为 $8 1 . 2 9 \\% \\sim 9 8 . 7 9 \\%$ ;尤其4\\~7月的$D P$ 值更为突出，大多数测站的 ${ D P }$ 峰值发生在5月份（库尔勒、且末为4月；于田、和田为6月，民丰为7月），占年 ${ D P }$ 的 $2 5 . 0 \\% \\sim 5 6 . 8 \\%$ 。秋季(9\\~11月）、冬季(12月和次年1、2月)输沙势对年输沙势的贡献率仅为 $0 . 2 0 \\% \\sim 1 3 . \\ 1 5 \\%$ ,其中冬季起沙风主要发生在2月份。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b80170c1268e5359df93e70e2793069e535130b072c62500670b703087c64e76.jpg",
+        "table_caption": [
+            "表22007年各月输沙势 $D P / V U$ ",
+            "Tab.2 Calculations of $D P$ foreach monthin 2007/VU "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>测站</td><td>1月</td><td>2月</td><td>3月</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td><td>11月</td><td>12月</td><td>年均</td></tr><tr><td>库尔勒型</td><td>且末</td><td>/</td><td>0.06</td><td>0.89</td><td>1.37</td><td>1.00</td><td>0.01</td><td>0.88</td><td>0.07</td><td>0.02</td><td>0.08</td><td>/</td><td>/</td><td>4.39</td></tr><tr><td></td><td>若羌</td><td>/</td><td>0.70</td><td>3.72</td><td>4.25</td><td>5.80</td><td>0.84</td><td>4.71</td><td>0.88</td><td>1.74</td><td>0.19</td><td>0.37</td><td>0.01</td><td>23.22</td></tr><tr><td></td><td>铁干里克</td><td>/</td><td>0.18</td><td>1.50</td><td>6.63</td><td>8.57</td><td>2.15</td><td>0.81</td><td>0.8</td><td>0.79</td><td>0.39</td><td>/</td><td>/</td><td>21.83</td></tr><tr><td></td><td>库尔勒</td><td>0.01</td><td>0.84</td><td>0.32</td><td>2.87</td><td>2.60</td><td>0.47</td><td>0.11</td><td>1.11</td><td>0.47</td><td>0.18</td><td>0.09</td><td>0.03</td><td>9.11</td></tr><tr><td>新和型</td><td>轮台</td><td>/</td><td>/</td><td>0.09</td><td>0.48</td><td>0.99</td><td>0.34</td><td>0.07</td><td>0.21</td><td>0.20</td><td>/</td><td>/</td><td>/</td><td>2.38</td></tr><tr><td></td><td>库车</td><td>/</td><td>/</td><td>0.70</td><td>0.70</td><td>3.62</td><td>2.01</td><td>0.28</td><td>1. 65</td><td>0.13</td><td>/</td><td>/</td><td>/</td><td>9.1</td></tr><tr><td></td><td>新和</td><td>/</td><td>/</td><td>0.05</td><td>/</td><td>1.00</td><td>0.28</td><td>0.39</td><td>0.59</td><td>0.04</td><td>0.01</td><td>/</td><td>/</td><td>2.36</td></tr><tr><td></td><td>沙雅</td><td>/</td><td>/</td><td>0.05</td><td>0.04</td><td>0.66</td><td>0.33</td><td>0.01</td><td>0.17</td><td>0.03</td><td>0.06</td><td>/</td><td>/</td><td>1.34</td></tr><tr><td></td><td>阿拉尔</td><td>/</td><td>/</td><td>0.11</td><td>0.48</td><td>0.68</td><td>0.30</td><td>0.32</td><td>0.28</td><td>/</td><td>0.14</td><td>/</td><td>/</td><td>2.32</td></tr><tr><td>策勒型</td><td>阿克苏</td><td>/</td><td>0.01</td><td>1.22</td><td>0.45</td><td>4.24</td><td>3.11</td><td>3.83</td><td>1.77</td><td>1.21</td><td>0.20</td><td>/</td><td>/</td><td>16.05</td></tr><tr><td></td><td>柯坪</td><td>/</td><td>/</td><td>0.13</td><td>1.01</td><td>2.82</td><td>0.66</td><td>2.33</td><td>3.00</td><td>0.99</td><td>0.04</td><td>/</td><td>/</td><td>10.98</td></tr><tr><td></td><td>阿图什</td><td>/</td><td>/</td><td>2.08</td><td>0.47</td><td>6.75</td><td>3.44</td><td>5.26</td><td>1.87</td><td>0.77</td><td>0.16</td><td>/</td><td>/</td><td>20.8</td></tr><tr><td></td><td>喀什</td><td>/</td><td>/</td><td>/</td><td>0.03</td><td>1.37</td><td>0.29</td><td>0.97</td><td>0.40</td><td>0.18</td><td>0.22</td><td>/</td><td>/</td><td>3.46</td></tr><tr><td></td><td>莎车</td><td>/</td><td>/</td><td>/</td><td>0.03</td><td>0.49</td><td>0.21</td><td>0.70</td><td>0.01</td><td>0.02</td><td>/</td><td>/</td><td>/</td><td>1.46</td></tr><tr><td></td><td>皮山</td><td>/</td><td>0.08</td><td>0.06</td><td>/</td><td>0.25</td><td>0.13</td><td>0.19</td><td>0.03</td><td>0.06</td><td>/</td><td>/</td><td>0.01</td><td>0.81</td></tr><tr><td>和田</td><td></td><td>/</td><td>/</td><td>0.03</td><td>/</td><td>0.43</td><td>0.95</td><td>0.60</td><td>0.01</td><td>0.15</td><td>0.15</td><td>/</td><td>/</td><td>2.33</td></tr><tr><td></td><td>策勒</td><td>/</td><td>0.25</td><td>0.22</td><td>0.33</td><td>8.89</td><td>6.67</td><td>9.90</td><td>4.25</td><td>2.68</td><td>1.30</td><td>0.10</td><td>/</td><td>34.6</td></tr><tr><td>民丰型</td><td>于田</td><td>/</td><td>0.04</td><td>/</td><td>/</td><td>0.53</td><td>0.74</td><td>0.04</td><td>0.22</td><td>/</td><td>/</td><td>/</td><td>/</td><td>1.56</td></tr><tr><td></td><td>民丰</td><td>/</td><td>0.28</td><td>/</td><td>/</td><td>3.05</td><td>0.52</td><td>4.03</td><td>0.74</td><td>0.94</td><td>0.25</td><td>/</td><td>/</td><td>9.8</td></tr><tr><td>特殊型</td><td>尉犁</td><td>/</td><td>0.01</td><td>0.01</td><td>0.34</td><td>3.68</td><td>1.60</td><td>0.47</td><td>0.64</td><td>0.14</td><td>/</td><td>/</td><td>0.02</td><td>6.91</td></tr><tr><td></td><td>巴楚</td><td>/</td><td>/</td><td>1.32</td><td>0.11</td><td>1.03</td><td>0.15</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.12</td><td>0.02</td><td>/</td><td>2.77</td></tr><tr><td></td><td>塔中</td><td>/</td><td>0.01</td><td>0.93</td><td>2.73</td><td>8.07</td><td>4.76</td><td>4.91</td><td>1. 13</td><td>0.77</td><td>0.13</td><td>/</td><td>/</td><td>23.43</td></tr><tr><td></td><td>平均值</td><td>/</td><td>0.25</td><td>0.75</td><td>1.31</td><td>3.02</td><td>1.36</td><td>1.86</td><td>0.90</td><td>0.57</td><td>0.23</td><td>0.15</td><td>0.02</td><td>9.59</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以5月代表春季的强风、2月代表冬季的弱风，绘制了风沙玫瑰图(图3、图4)。由图可知：在春季和冬季,塔干沙漠主要受东北、西北两大风系控制，沙漠东部为东北风，西部为西北风（包括南缘、南缘和东南缘，依次为西西北、西西南风）。两大风系的风力及其范围随季节不同有很大差异，尤其是输沙势大小。比如5月份22个测站的RDP总和约是2月份的23倍多；此外5月份西北风增强且范围扩大（向东推进），2月份东北风势力范围要大些（向西推进）。具体特征如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）与全年RDD相比，5月份RDD变化显著的测站是：且末（从WSW变为NE）、库车（由S变为SSE)和塔中（SSW变为S）。尤其是且末站,5月份的RDD为反方向，显示强劲的西风可以越过“策勒型”界线；另外两个测站的RDD变化也很明显，表明辐合过渡带内风向不稳定，存在季节性变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）与5月份相比，2月份RDP几乎为零的测站就占了一半以上（12个测站），主要集中于北部和西北部。另外，东部“库尔勒型”的RDD呈增加趋势(若羌站例外)，尤以且末和尉犁突出，表明冬季起沙风呈现向东偏转；南部的“民丰型”以及策勒站的 RDD均向南偏转了 $3 ^ { \\circ } \\sim 1 8 ^ { \\circ }$ （皮山站相反，向北偏转了 $1 8 ^ { \\circ }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3年输沙势的年际变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2005—2007年22个测站的逐年输沙势参数$( R D P , R D D$ 和 $R D P / D P$ 比值)及其统计值（表3），反映这一时期输沙势的年际变化。对于上述3项参数的年际变化，除 $R D P$ 参数（因 $R D P$ 平均值相差悬殊，故采用相对平均偏差)外，其它参数均采用平均偏差来衡量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）东北风系控制的“库尔勒型”平均 $R D P$ 为8.13VU，其年际变动最大（平均变辐 $41 \\%$ ），但RDD年际变动最小（平均 $\\triangle R D D = \\pm 6 . 3 ^ { \\circ }$ ,变幅最大的是铁干里克站为 $\\pm 1 1 . 1 ^ { \\circ }$ )。受西北风控制的“策勒型”，平均RDP较高( $R D = 9 . 1 4 ~ \\mathrm { V U }$ ，位列第一），年际变幅较低（ $2 5 \\%$ ,阿克苏站为 $6 6 \\%$ 例外），RDD 年际变化较大（平均 $\\triangle R D D = \\pm 1 0 . 0 ^ { \\circ }$ ,变幅最大的是和田站为 $\\pm 1 5 . 3 ^ { \\circ } ;$ ）。从风沙灾害防治来看，西北风系不仅比东北风影响范围大，而且风力强劲稳定、风向易变。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "75E 78E 81°E 84°E 87E 90°EN  \n37VN.68 新和 NN681=0.90-0.9QR莎车 r=0.27 r=0.54r=0.99 Q r=0.96 Q =0.82 QD 低：-150  \nN.98 输沙势 04080160 km N 98/VU0 575°E 78E 81°E 84°E 87°E 90°E",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b7e98403184570438a730626599511925ee4fa5d2e7657b5769a0dc553b4814.jpg",
+        "img_caption": [
+            "图3输沙势5月份的空间分布",
+            "Fig.3 Distribution of the $D P$ in May at the 22 stations ",
+            "图42月与5月输沙势方向对比(RDD)",
+            "Fig.4Comparison of the drift potential between February and May "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）“新和型”与“民丰型”，二者处于两大风系交汇带的北部和南部,平均RDP分别为 $2 . 5 4 ~ \\mathrm { V U }$ 、8.14VU，明显低于沙漠东、西部。前者RDP和RDD 的年际变辐最大的分别是阿拉尔、库车站（变幅 $8 0 \\% _ { \\textrm { \\scriptsize 1 } } \\pm 2 4 . \\ 4 ^ { \\circ } )$ ，后者最大的是于田站（变幅$54 \\%$ ， $\\pm 1 6 . 2 ^ { \\circ } ;$ 。由此可见：无论“新和型”或“民丰型\"输沙势,其 $R D P , R D D$ 的年际变幅都大于沙漠的东、西部;这表明两大风系的较量，随年份不同其势力有所变动，尤其是交汇带西北边界（阿拉尔站）及其西北方向的阿克苏站附近更为显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）“特殊型”的3个测站相比，巴楚站 $R D P$ 与RDD的变动幅度最大 $\\langle 5 0 \\% , \\pm 1 5 . 4 ^ { \\circ } ,$ ），变动最小的是尉犁站。塔中站 $R D P = 1 9 . 2 { \\mathrm { ~ V U } }$ （高于沙漠东、西部的平均值），年际变幅为 $1 9 \\%$ （低于东、西部），其$\\triangle R D D = \\pm 1 1 . 6 ^ { \\circ }$ 显示 $R D D$ 变动范围为 $1 9 7 ^ { \\circ } \\sim 2 2 1 ^ { \\circ }$ （SSW、SW方向），表明塔中站处于两大风系过渡带，其中东北风系造成的起沙风影响更大（图1中的 $D P$ 方位）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3各测站2005—2007年年输沙势差异",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f40eda7fb34107d12ac5fe9a579a54eca6ce53b69477bca0dd8dd9efabfa7816.jpg",
+        "table_caption": [
+            "Tab.3Inter-annual variations of the annual ${ \\pmb D } { \\pmb P }$ from 2005 to 2007 for the 22 meteorological stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>测站</td><td>平均 RDP /VU</td><td>RDP 相对平 均偏差 /%</td><td>RDD范围 /</td><td>RDP/DP 范围</td></tr><tr><td>库尔勒型且末</td><td></td><td>2.59</td><td>44.0</td><td>247.23 ±6.68</td><td>0.60 ±0.16</td></tr><tr><td></td><td>若羌</td><td>13.69</td><td>49.3</td><td>247.11 ±3.84</td><td>0.52 ±0.08</td></tr><tr><td></td><td>铁干里克</td><td>9.47</td><td>44.7</td><td>234.27±11.08 0.54 ±0.12</td><td></td></tr><tr><td></td><td>库尔勒</td><td>6.82</td><td>28.4</td><td>237.60±3.79</td><td>0.87 ±0.04</td></tr><tr><td>新和型</td><td>轮台</td><td>1.16</td><td>28.4</td><td>167.55 ±1.42</td><td>0.75 ±0.07</td></tr><tr><td></td><td>库车</td><td>3.48</td><td>42.0</td><td>196.53 ±24.37 0.57 ±0.05</td><td></td></tr><tr><td></td><td>新和</td><td>2.98</td><td>28.5</td><td>190.19 ±1.82</td><td>0.86±0.04</td></tr><tr><td></td><td>沙雅</td><td>1.44</td><td>17.4</td><td>194.99 ±5.62</td><td>0.83 ±0.06</td></tr><tr><td></td><td>阿拉尔</td><td>3.63</td><td>80.4</td><td>193.10 ±17.11 0.69 ±0.1</td><td></td></tr><tr><td>策勒型</td><td>阿克苏</td><td>7.25</td><td>66.2</td><td>113.63 ±4.94</td><td>0.71 ±0.13</td></tr><tr><td></td><td>柯坪</td><td>9.84</td><td>16.2</td><td>112.73 ±14.97 0.74 ±0.09</td><td></td></tr><tr><td></td><td>阿图什</td><td>19.25</td><td>2.2</td><td>111.82 ± 1.63</td><td>0.92 ±0.02</td></tr><tr><td></td><td>喀什</td><td>2.05</td><td>27.8</td><td>120.43 ±10.72 0.86±0.03</td><td></td></tr><tr><td></td><td>莎车</td><td>1.52</td><td>43.4</td><td>132.52 ±13.79 0.81 ±0.16</td><td></td></tr><tr><td></td><td>皮山</td><td>0.56</td><td>16.1</td><td>99.01±12.16 0.76 ±0.12</td><td></td></tr><tr><td></td><td>和田</td><td>1.64</td><td>22.0</td><td>83.99±15.32 0.84±0.06</td><td></td></tr><tr><td></td><td>策勒</td><td>31.04</td><td>6.1</td><td>96.61 ±6.16</td><td>0.95 ±0.02</td></tr><tr><td>民丰型</td><td>于田</td><td>0.86</td><td>53.5</td><td></td><td>68.97 ±16.16 0.86±0.08</td></tr><tr><td></td><td>民丰</td><td>7.37</td><td>25.1</td><td>65.31 ±2.67</td><td>0.93 ±0.04</td></tr><tr><td>特殊型</td><td>尉犁</td><td>6.17</td><td>11.7</td><td>186.32 ±9.49</td><td>0.84 ±0.04</td></tr><tr><td></td><td>巴楚</td><td>2.74</td><td>49.6</td><td>207.27 ±15.39 0.77 ±0.11</td><td></td></tr><tr><td></td><td>塔中</td><td>19.24</td><td>19.2</td><td>208.96±11.57 0.62±0.03</td><td></td></tr><tr><td></td><td>平均值</td><td>7.04</td><td>32.8</td><td>±9.2</td><td>±0.07</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个站点）、俎瑞平等[20]的 $D P = 6 8 . 8 \\$ VU（16个站点）、李红军等[17]给出南疆地区 $R D P = 1 2 . 1 \\mathrm { \\ V U }$ （南北疆共计100站点），虽然上述学者的计算值差异很大，按低风能环境标准( $D P < 2 0 0 ~ \\mathrm { V U } ^ { \\cdot }$ )都属于低风能环境。上述计算值差异可能是由年份、站点及其数目或选择不同计算模型误差造成的。对于FRYBERGER、俎瑞平的计算值显著偏大的原因，可能与早期的气象站环境有关（伴随城镇和绿洲建设，导致气象站风速值减小）。例如：和田站（绿洲内部)输沙势明显偏低，而策勒站(绿洲边缘)和塔中站(沙漠腹地)输沙势计算值却很大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）个别测站输沙势计算值的异同对比。以策勒站为例,王雪芹等[22]、邢文娟等[21]的数据来源为策勒野外观测站，其 $R D P$ 值（26.2VU和28.0VU)与本文计算的 $R D P ( 3 3 . 4 \\mathrm { V U } )$ 相近。对于塔中站而言，不同学者计算的 $R D P$ 值相差十分悬殊,如：李红军等[17]的RDP值偏低（4.6VU）,李恒鹏等[31]的$R D P ^ { * } = 6 9 ~ 8 0 7 . 8 ~ \\mathrm { V U }$ （其 $R D P ^ { * }$ 为1a内的总值,相当于 $R D P \\times N \\times t$ ,折算后 $R D P = 8 . 0 { \\mathrm { ~ V U } }$ )与本文接近,但还有学者,如张家武等[32]、周成龙等[18]等,其RDP计算值远远高于前者（123.0VU和136.6VU）,俎瑞平等[20]的 $R D P$ 值(67.0 VU)也很高；导致巨大差异原因究竟是数据源造成的（野外站址、采样频率和采样时距的差异），还是计算方法引起的，仍需进一步探究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）输沙势 $( D P )$ 是指 $T$ 时段内起沙风产生的相对输沙能力分配到总观测次数 $( N )$ 的平均值;若观测间隔为s,则有N=T/s，N $N = T / s , \\frac { \\sum n _ { i } } { N } < 1 . \\mathrm { ~ 0 ~ } , ( n$ Σni<1.0,(n为T时段内的第 $\\mathbf { \\chi } _ { i }$ 级起沙风次数），故 ${ D P }$ 与 $T$ 的时段范围密切相关。FRYBERGER[4]提出的 $D P$ 概念时，采用${ T = 3 6 5 \\ \\mathrm { d } ( 1 }$ a为周期)来计算年 $D P$ ;如果求算 $T$ 时段内的总输沙势时，则有总输沙势 $\\mathbf { \\Psi } = D P \\times N \\times t$ 。由上可知：不同地区的 $D P$ 值能否使用同一个标准对比，不仅与计算误差有关,还与风速单位（knots、$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ 或 $ { \\mathrm { k m } } \\cdot  { \\mathrm { h } ^ { - 1 } }$ )和时间段 $( T )$ 是否一致有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）本文22个站点计算的 ${ D P }$ 平均值为9.6VU,塔中、策勒站的 $R D P$ 分别为 $1 3 . 7 ~ \\mathrm { V U } \\ 、 3 3 . 4 ~ \\mathrm { V U }$ 对比FRYBERGER等[4]的计算值 $D P = 8 1$ VU（11",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）塔干沙漠的风动力环境，按照FRYBERG-ER风动力环境标准划分属于低风能环境（年 $D P <$ 200VU），各测站风向变率属于中比率、高比率（平均 $R D P / D P = 0 . 8$ ，变幅为 $0 . 3 6 \\sim 0 . 9 8 \\$ ），表明起沙风风向一致性较好，但输沙势的空间差异很大。年输沙势平均值及其范围分别为 $D P = 9 . 6 ~ \\mathrm { V U } ( 0 . 8 \\sim$ 34.6 VU) $\\mathit { \\Omega } . R D P = 7 . 5 \\mathrm { \\ V U } ( 0 . 7 \\sim 3 3 . 4 \\mathrm { \\ V U } )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）按照 $R D P$ 输沙方向( $R D D _ { \\cdot } ^ { \\cdot }$ )和空间分布划分了5个输沙势类型。 $\\textcircled{1}$ 输沙方向以偏东为主（含偏南分量)的“策勒型”，不仅分布面积大、测站最多 $, R D P$ 平均值最高（10.4VU），而且风向一致性仅次于“民丰型”。 $\\textcircled{2}$ 输沙方向以西为主，覆盖面积及平均输沙势位列第二的\"库尔勒型”，风向一致性的差异最大（RDP/DP为 $0 . 3 6 \\sim 0 . 9 4$ 。 $\\textcircled{3}$ “新和型”",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分布于两大风系(西北风、东北风)之间，输沙势最低（ $R D P = 2 . 4 ~ \\mathrm { V U } ;$ ），输沙风向较为稳定。 $\\textcircled{4}$ “民丰型”虽然位于气流辐合带，但在强风天气中受西风影响，加之南面山脉阻挡影响起沙风向偏转，而区别于“策勒型”。 $\\textcircled{5}$ “特殊型”中的塔中站地处沙漠腹地，巴楚、尉犁站可能受局部地形影响，而有别于前4个类型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）塔干沙漠全年主要受两大风系控制。沙漠东部为东北风系，西部为西北风系，其中沙漠南缘和东南缘，因高大山脉阻挡西北风依次转为西西北、西西南风。此外输沙势季节差异很大：春、夏季(3～8月)对年 ${ D P }$ 的贡献率达 $8 0 \\%$ 以上，其中5月份更甚；秋、冬季(9月\\~次年2月)输沙势很弱，冬季更弱。在沙漠东南缘,5月份西北风系向东可推进至“且末一若羌”之间（东北风系退缩);2月份相反，西北风退缩至“塔中”以西及“民丰一且末”之间。一般天气条件下的气流辐合带，通常在“于田一民丰”之间，这说明强气流天气（起沙风)下辐合带有明显东移趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）合成输沙势年际变化表现为： $R D P$ 变幅为$\\pm 3 3 \\%$ ， $R D D$ 变幅为 $\\pm 9 . 6 ^ { \\circ }$ ,其中RDP 变幅最大是阿拉尔站 $( \\pm 8 0 \\%$ ）， $R D D$ 变幅最大的是库车站（204号 $( \\ \\pm 2 4 . 4 ^ { \\circ } )$ 。在东北、西北两大风系的作用下，沙漠东、西部的RDP平均值偏高。沙漠南、北部的RDP和RDD年际变幅都偏大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］李江风.塔克拉玛干沙漠和周边山区天气气候[M].北京：科 学出版社,2003：1-43.［LI Jiangfeng.Weatherand climate in the Taklimakan Desert and surrounding mountains[M]. Beijing: Science Press,2003:1-43.]   \n[2] 朱震达.塔克拉玛干沙漠风沙地貌研究[M].北京：科学出版 社,1981:1- 26.［ZHU Zhenda.Aeolian geomorphology study in Taklimakan Desert[M].Beijing:Science Press,1981:1 - 26.]   \n[3] 朱震达.中国沙漠、沙漠化、荒漠化及其治理对策[M].北京： 中国环境出版社,1999;33-47.［ZHU Zhenda.Desert,desertization,desertification in China with the solution[M].Beijing:China Environmental Press,1999:33-47.]   \n[4] FRYBERGERSG,DEANG.Dune forms and wind regime[M]. Washington: United States Government Printing Office,1979.   \n[5] FRYBERGERSG,AL-SARIA M,CLISHAMTTJ,etal.Wind sedimentation in the Jafurah sand sea,Saudi Arabia[J].Sedimentology，1984,31（3):413-431.   \n[6]KALMA JD,SPEIGHT JG,WASSON R J. Potential wind erosion in Australia:A continental perspective[J]. Journal of Climatology, 1988,8(4) :411 -428.   \n[7]AHMADI H,MESBAHZADEH T. Comparison of sand drift potential[J].Journal of Water and Soil,2011,25(1):11 -18.   \n[8]HEREHER M E.Sand movement paterns in the Western Desert of Egypt:An environmental concern[J].Environmental Earth Sciences,2010,59(5) :1119 -1127.   \n[9]JEWEL P W,NICOLL K. Wind regimes and aeolian transport in the Great Basin,U.S.A[J].Geomorphology,2011,129（1）:1- 13.   \n[10]MESBAHZADEH T,AHMADI H.Investigation of sand drift potential（case study:Yazd-Ardakan Plain）[J]. Journal of Agricultural Science & Technology,2012,14（4）:919 -928.   \n[11]MESBAHZADEHA T,AHMADIB H. Sand movement patterns in southern Iran[J].Desert,2014,19(1):11-15.   \n[12］张正傯,董治宝,赵爱国,等.库姆塔格沙漠风沙活动特征[J]. 干旱区地理,2010,33（6）:939 -946.[ZHANG Zhengsi,DONG Zhibao,ZHAO Aiguo,et al. Characteristics of blownsand activity in the Kumtagh Desert[J].Arid Land Geography,2010,33（6）: 939 -946.]   \n[13］张克存,奥迎焕,屈建军,等.巴丹吉林沙漠湖泊一沙山近地表 风沙动力环境[J].干旱区地理,2013,36（5）：790－ 794. [ZHANG Kecun,AO Yinghuan,QU Jianjun,et al. Dynamical environments of wind-blown sand near lakes surrounded by sandmountains in the Badain Jaran Desert[J].Arid Land Geography, 2013,36(5) :790 - 794.]   \n[14]YANG X,SCUDERI L,LIU T,et al.Formation of the highest sand dunes on Earth[J].Geomorphology,2011,135(1):108-116.   \n[15］张克存,屈建军,姚正毅,等.青藏铁路格拉段风沙危害及其防 治[J].干旱区地理,2014,37(1）:74-80.[ZHANG Kecun,QU Jianjun,YAO Zhengyi,et al. Sand damage and its control along the Golha Section of the Qinghai-Tibet Railway[J].Arid Land Geography,2014,37(1) :74 -80.]   \n[16］张正傯,董治宝.黑河流域中游沙漠风能环境与风沙地貌[J]. 中国沙漠,2014,34（2）:332-341.[ZHANG Zhengsi,DONG Zhibao.Dune field patterns and wind environments in the midle reaches of the Heihe Basin[J].Journal of Desert Research,2014, 34(2) :332 -341.]   \n[17］李红军,何清,杨青.近40a新疆输沙势的分析[J].中国沙漠， 2004,24(6）:46-50.[LI Hongjun,HE Qing,YANG Qing. Analysis of drift potential in Xinjiang in recent 4O years[J].Journal of Desert Research,2004,24(6) :46 -50.]   \n[18］周成龙,杨兴华,刘厚勇,等.塔克拉玛干沙漠腹地塔中地区的 风动力环境[J].水土保持通报,2014,34（3）:218- 222. [ZHOU Chenglong,YANG Xinghua,LIU Houyong,et al. Wind power environment of Tazhong area in hinterland of Taklimakan Desert[J].Buletin of Soil and Water Conservation,2014,34（3）: 218 -222.]   \n[19］俎瑞平,张克存,屈建军,等.塔克拉玛干沙漠风况特征研究 [J].干旱区地理,2005,28（2）:167－170.[ZU Ruiping, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Kecun,QU Jianjun,et al. Study on wind regime characteristics in the Taklimakan Desert[J].Arid Land Geography,2005, 28(2):167 -170.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］俎瑞平，张克存，屈建军.塔克拉玛干沙漠风沙活动强度特征 [J].地理研究,2005,24（5）:699-707.［ZURuiping,ZHANG Kecun,QUJianjun.The intensity of sand-drift activities in Taklimakan Desert[J].Geographical Research,2005,24（5）:699- 707.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］邢文娟，雷加强，王海峰，等.荒漠一绿洲过渡带风况及输沙势 分析——以策勒县为例[J].干旱区研究，2008，25(6)：894- 898.[XINGWenjuan,LEI Jiaqiang,WANGHaifeng,etal.Analysis on wind regime and wind borne sand potential in a desert-oasis ecotone:A case study in Qira County,Xinjiang[J].Arid Zone Research,2008,25(6) :894-898.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22］王雪芹,胡永锋,杨东亮,等.绿洲一沙漠过渡带骆驼刺群落的 防风阻沙作用[J].干旱区地理,2011，34（6）：919－925. [WANGXueqin,HUYongfeng,YANGDongliang,et al.Effect of Alhagi sparsifolia community on wind block and drift sand control in the oasis-desert ecotone[J].Arid Land Geography,2O11,34 (6):919 -925.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23］BULLARD,JOANNA E.A note on the use of the Fryberger method for evaluating potential sand transport by wind[J].Journal of Sedimentary Research,1997,67(3) :499-501. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24]LETTAUK,LETTAU HH.Experimental and micro-meteorological field studies of dune migration,exploring the world's driest climate [C]//LETTAU K,LETTAU H. Exploring the world's driest climate.University of Wisconsin-Madison,IES Report 101,1977:110 - 147. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25］房彦杰，赵景峰，郭永平，等.FRYBERGER输沙势计算方法及其估算值偏差分析——以塔克拉玛干沙漠为例[J].干旱区地理,2015,38(1）:95-102.[FANGYanjie,ZHAOJingfeng,GUOYongping,et al.Magnitude deviations of sand drift potential calcu-lationin the‘FRYBERGER’model:Acaseofthe TaklimakanDes-ert[J].AridLand Geography,2015,38（1） :95-102.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26］PEARCEKI,WALKERIJ.Frequency and magnitude biases in the Fryberger model,with implications for characterizing geomorphically effective winds[J].Geomorphology,2005,68（1）:39- 55. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27］张正傯，董治宝，赵爱国.输沙势计算中的\"时距”问题[J].干旱区地理,2010,36（2）：177-182.［ZHANG Zhengsi，DONGZhibao,ZHAO Aiguo.Effect of different time intervals in assessingsand drift potential[J].Arid Land Geography,2O1O,36（2）：177 -182.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28］陈渭南，董治宝，杨佐涛,等.塔克拉玛干沙漠的起沙风速[J].地理学报，1995，50（4）：360-367.［CHENWeinan，DONGZhibao,YANG Zuotao,et al.Threshold velocities of sand-drivingwind in the Taklimakan Desert[J].Acta Geographica Sinica,1995,50(4) :360 -367.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29］李振山，陈广庭.塔克拉玛干沙漠起沙风况[J].中国沙漠， 1999,19(1）:44-46.［LI Zhenshan,CHENGuangting.Effective windregime in the TaklimakanDesertJ」.Journal ofDesert Research,1999,19(1):44-46.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30］毛东雷，蔡富艳，雷加强，等.新疆策勒河下游塔克拉玛干沙漠 南缘风沙活动特征［J].干旱区资源与环境，2016,30（7）： 169-174.［MAO Donglei,CAIFuyan,LEIJiaqiang,et al.The characteristicsof aeolian activityon sandblown frontier inlower reaches of Cele River,Xinjiang［J].Journal ofArid Land Resources and Environment,2016,30(7):169-174.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31］李恒鹏，陈广庭.塔克拉玛干沙漠腹地复合沙垄间地新月形沙 丘的逆向演变[J].中国沙漠,1999,19(2）:39-43.［LI Hengpeng,CHEN Guangting.Retrograde evolution of barchan on interdune corridor of complex ridges in central Taklimakan Desert[J]. Journal of Desert Research,1999,19(2）:39 -43.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[32］张家武，陈广庭,陈发虎,等.塔克拉玛干沙漠中部地区线形沙丘表面动力学过程[J].中国沙漠，1999，19（2）：33－38.[ZHANG Jiawu,CHEN Guangting,CHENFahu,et al.Dynamicprocesses of linear dunes in central Taklimakan Desert[J].Journalof Desert Research,1999,19(2):33-38.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal distribution characteristics of sand drift potential in Taklimakan Desert ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUN Xiao-yun'，FANG Yan-jie'， ZHAO Jing-feng'，HE Qing²， ZHOU Jie³ (1Department of Geography and Resources Science,Sichuan Normal University,Chengdu 6101o1,Sichuan,China; 2Urumqi Institute of Desert Meteorology,Meteorological Bureau of China,Urumqi 830o02,Xinjiang,China; 3Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences,Urumqi 830o02,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Taklimakan Desert is the largest sand desert in China,which is located in the Tarim Basin,Xinjiang. The ratesof sand transport by wind plays the most important role in its aeolian surface processes.The“Fryberger Method”provides auseful and accessble wayof evaluatingthe relative rates of sand transport （drift potential, $D P$ ） from measurements of wind data.With this method,a number of different estimations of $\\mathit { D P }$ about Taklimakan Desert have been proposed for the past decades.In this paper,we recalculated the $D P s$ using the definition equation in which thearguments arethe every measurements of wind velocity rather than the calculation model in which the argumentsreplaced bythemidpointof each velocitycategory,inorder to clarifythecognitionof the wind-energy environments in the sand sea. The calculations in the paper shows that the $\\mathit { D P }$ values of 22 meteorological stations ranged from O.7VU to33.4VUin 2007,thusthe wind regimesshouldbe clasified into the Low-energy wind environments by using of the“Fryberger clasification”.Based on the analysis of resultant drift potential ( $R D P$ ）,involving the RDP similarity（Cluster Analysis of Inner Product Similarity）and the region adjacency of a $R D P$ type,the RDPs have been classified into five types,namely,Korla type in eastern Taklimakan with the $R D P s$ showing W-S directions (abbr.W-S type）,Xinhe type in the northern region as S type,Cele type in the western region as E type, Minfeng type in the southern region as E-NE type,and Special type with the $R D P s$ at three stations being obviously different from their adjacent regions. The maximum average ${ \\cal D } P$ was caused by the NW wind regime,which happened in Cele type,and the lowest ratio of the directional variability of the winds $( R D P / D P )$ ）was induced by the NE wind regime,which happened in Korla type.As a contrast,in the convergence zone between the NW and the NE wind regimes,the $D P s$ was relative lower（Xinhe type with the minimum of ${ \\cal D } P$ ）,and the ratio of $R D P / D P$ was higher（Minfeng type with the multi-direction effective winds）than the above two types.The cumulative $D P$ from spring to summer in 2007 had reached to $8 1 . 2 9 \\% - 9 8 . 7 9 \\%$ of the annual ${ D P }$ ,only in May it accounted for $2 2 . 7 \\%$ to $5 6 . 8 \\%$ of the annual ${ D P }$ ；whereas in winter except for February,almost no effective sand-driving winds had occurred over Taklimakan.Inthe southeast edge of the desert,under the normal weather condition,the northwest wind system moved eastwards between Qiemo and Ruoqiang County in May however it retreated back to the west of Tazhong region and between Minfengand Qiemo in February.This indicated that the positions of the wind convergence zone under the strong wind weather were shifted eastwards.During the period from 2O05 to 207,the inter-annual variation of $R D P$ showed as $\\pm 3 3 \\%$ in magnitude and $\\pm 9 . 6 ^ { \\circ }$ in direction as a whole；but some specific stations displayed larger variations of the $R D P s$ ,such as a variation of $\\pm 8 0 \\%$ in magnitude at Aral station and a variation of $\\pm 2 4 . 4 ^ { \\circ }$ in direction at Kuqa station. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words：Taklimakan Desert；spatial distribution characteristics of sand drift potential；seasonal change；inter-annual variation ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,199 @@
+# A Supersymmetry Model of Leptons
+
+Chun Liu
+
+Institute of Theoretical Physics， Chinese Academy of Sciences,
+
+P. O. Box 2735， Beijing 100080， China\* (Dated: November 12, 2013)
+
+Abstract
+
+If supersymmetry (SUSY） is not for stabilizing the electroweak energy scale, what is it used for in particle physics? We propose that it is for flavor problems. A cyclic family symmetry is introduced. Under the family symmetry, only the $\tau$ -lepton is massive due to the vacuum expectation value (VEV) of the Higgs field. This symmetry is broken by a sneutrino VEV which results in the muon mass. The comparatively large sneutrino VEV does not result in a large neutrino mass due to requiring heavy gauginos. SUSY breaks at a high scale $\sim 1 0 ^ { 1 3 }$ GeV. The electroweak energy scale is unnaturally small. No additional global symmetry, like the R-parity, is imposed. Other aspects of the model are discussed.
+
+PACS numbers: 12.15.Ff,11.30.Pb,11.30.Hv
+
+In elementary particle physics, SUSY [1] was proposed for stabilizing the electroweak (EW) scale [2] which is otherwise unnaturally smal compared to the grand unification scale [3]. The study of the cosmological constant [4], however, suggests that unnaturalness of $1 0 ^ { 1 2 0 }$ （204号 or $1 0 ^ { 5 5 }$ fine tuning might be just so from the anthropic point of view. It was argued that the string theory even supports the emergence of the anthropic landscape [5]. This led to a consideration of giving up naturalness of the EW scale [6,7]. If SUSY is not for stabilizing the EW scale, what else job does it do in particle physics? Refs. [6, 7] maintained its roles in grand unification and the dark matter.
+
+In this paper, we advocate that SUSY is for flavor physics. The flavor puzzle, namely the fermion masses, mixing and CP violation, in the Standard Model (SM) needs new physics to be understood. The empirical fermion mass pattern is that the third generation is much heavier than the second generation which is also much heavier than the first. This may imply a family symmetry [8, 9, 10]. Let us consider the charged leptons. By assuming a $Z _ { 3 }$ （204号 cyclic symmetry among the $S U ( 2 )$ doublets $L _ { i }$ ( $i = { 1 , 2 , 3 }$ ）of the three generations [9,10], the Yukawa interactions result in a democratic mass matrix which is of rank 1. Therefore only the tau lepton gets mass, the muon and electron are still massless.
+
+The essential point is how the family symmetry breaks. Naively the symmetry breaking can be achieved by introducing family-dependent Higgs fields. We consider this problem within SUSY. We observe that SUSY naturally provides such Higgs-like fields, which are the scalar neutrinos. If the VEVs of the sneutrinos are non-vanishing, $v _ { i } \neq 0$ , the R-parity violating interactions $L _ { i } L _ { j } E _ { k } ^ { c }$ [11],with $E _ { k } ^ { c }$ denoting the anti-particle superfields of the SU(2) singlet leptons, contribute to the fermion masses, in addition to the Yukawa interactions. We think that this is the origin of family symmetry breaking.
+
+The above idea has been proposed for some time [9, 10]. Because SUSY was used to stabilize the EW scale, that idea suffers from severe constraints. For example, the $\tau$ -neutrino should be 10 MeV heavy [12]. It is a liberation if SUSY has nothing to do with the EW scale. While the $\tau$ -lepton mass is from the Higgs VEV $\sim 1 0 0$ GeV,the $\mu$ mass is due to $v _ { i }$ ， $m _ { \mu } \sim \lambda v _ { i }$ with $\lambda$ standing for the trilinear R-parity violation couplings. It is natural （204号 $\lambda \sim 1 0 ^ { - 2 }$ like the Yukawa couplings for the $\tau$ mass. The muon mass tells us then $v _ { i } \sim 1 0$ （204 GeV.10 GeV $v _ { i }$ 's could induce a large lepton number violating effect, namely a large neutrino Majorana mass if the neutralinos are not heavy, due to $m _ { \nu } \simeq ( g _ { 2 } v _ { i } ) ^ { 2 } / M _ { \tilde { Z } }$ ，where $g _ { 2 }$ is the （204 $S U ( 2 ) _ { L }$ gauge coupling constant, and $M _ { \tilde { Z } }$ is the gaugino mass. When we get the freedom to take $M _ { \tilde { Z } }$ arbitrarily high, the above formula can produce a neutrino mass in the safe range.
+
+In this model the $Z _ { 3 L }$ family symmetry mentioned above is assumed, which however is softly broken. The gauge symmetries and the matter contents in the fulltheory are the same as those in the SUSY SM. Under the family symmetry, the relevant kinetic terms generally include
+
+$$
+\begin{array} { l } { { \mathcal { L } \supset \Big ( H _ { 1 } ^ { \dagger } H _ { 1 } + H _ { 2 } ^ { \dagger } H _ { 2 } + \alpha L _ { i } ^ { \dagger } L _ { i } + \beta ( L _ { 1 } ^ { \dagger } L _ { 2 } + L _ { 2 } ^ { \dagger } L _ { 3 } + L _ { 3 } ^ { \dagger } L _ { 1 } + h . c . ) } } \\ { { \qquad +  \frac { \gamma } { \sqrt { 3 } } ( H _ { 2 } ^ { \dagger } \sum _ { i } L _ { i } + h . c . ) ) | _ { \theta \theta \bar { \theta } \bar { \theta } } , } } \end{array}
+$$
+
+where $H _ { 1 }$ and $H _ { 2 }$ are the two Higgs doublets, $\alpha$ ， $\beta$ ， $\gamma$ are $O ( 1 )$ coefficients. The case of that （20 $\alpha = 1$ and $\beta = \gamma = 0$ is a special one of above expression. Note that the gauge field $e ^ { V }$ is not explicitly written, which does not afect our discussion on favor physics. The superpotential is
+
+$$
+{ \mathcal W } = \frac { \tilde { y } _ { j } } { \sqrt { 3 } } ( \sum _ { i } L _ { i } ) H _ { 2 } E _ { j } ^ { c } + \tilde { \lambda } _ { j } ( L _ { 1 } L _ { 2 } + L _ { 2 } L _ { 3 } + L _ { 3 } L _ { 1 } ) E _ { j } ^ { c } + \tilde { \mu } H _ { 1 } H _ { 2 } + \tilde { \mu } ^ { \prime } H _ { 1 } \sum _ { i } L _ { i } .
+$$
+
+where $\tilde { y } _ { j }$ 's and $\tilde { \lambda } _ { j }$ 's are the coupling constants. $\tilde { \mu }$ and $\tilde { \mu } ^ { \prime }$ are mass terms. It is natural that they are about the scale of soft SUSY breaking masses. The Lagrangian of soft SUSY breaking masses is
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \mathcal { L } _ { s o f t 1 } = M _ { \tilde { W } } \tilde { W } \tilde { W } + M _ { \tilde { Z } } \tilde { Z } \tilde { Z } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { + m _ { h } ^ { 2 } h _ { 1 } ^ { \dagger } h _ { 1 } + m _ { h } ^ { 2 } h _ { 2 } ^ { \dagger } h _ { 2 } + m _ { l L _ { i j } } ^ { 2 } \tilde { l } _ { i } ^ { \dagger } \tilde { l } _ { j } + m _ { l R _ { i j } } ^ { 2 } \tilde { e } _ { i } ^ { * } \tilde { e } _ { j } } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { + ( B _ { \tilde { \mu } } h _ { 1 } h _ { 2 } + B _ { \tilde { \mu } _ { i } } h _ { 1 } \tilde { l } _ { i } + m _ { i } ^ { \prime 2 } h _ { 2 } ^ { \dagger } \tilde { l } _ { i } + h . c . ) , } } \end{array}
+$$
+
+where $\tilde { W }$ and $\tilde { Z }$ stand for the charged and neutral gauginos, respectively, $h _ { 1 }$ ， $h _ { 2 }$ ， $\ddot { l } _ { i }$ and ${ \tilde { e } } _ { i }$ are the scalar components of $H _ { 1 }$ ， $H _ { 2 }$ ， $L _ { i }$ and $E _ { i } ^ { c }$ respectively. Note that explicitly breaking of $Z _ { 3 L }$ is introduced in the soft mass terms. The soft masses are assumed to be very large around a typical mass $m _ { S }$ . The trilinear soft terms should be also included,
+
+$$
+{ \mathcal { L } } _ { s o f t 2 } = { \tilde { m } } _ { i j } { \tilde { l } } _ { i } h _ { 2 } { \tilde { e } } _ { j } + { \tilde { m } } _ { i j k } { \tilde { l } } _ { i } { \tilde { l } } _ { j } { \tilde { e } } _ { k } + h . c . .
+$$
+
+The mass coefficients which we denote generally as $\tilde { m } _ { S }$ can be close to $m _ { S }$ ：
+
+The expression of the kinetic terms is not yet in the normalized standard form. The standard form
+
+$$
+\mathcal { L } \supset H _ { u } ^ { \dagger } H _ { u } + H _ { d } ^ { \prime \dagger } H _ { d } ^ { \prime } + L _ { e } ^ { \dagger } L _ { e } + L _ { \mu } ^ { \dagger } L _ { \mu } + L _ { \tau } ^ { \prime \dagger } L _ { \tau } ^ { \prime }
+$$
+
+isachieved by the field re-definition:
+
+$$
+\begin{array} { l } { { H _ { u } = H _ { 1 } } } \\ { { H _ { d } ^ { \prime } = c _ { 1 } \left( H _ { 2 } + \displaystyle \frac { c _ { 2 } } { \sqrt { 3 } } \displaystyle \sum _ { i } L _ { i } \right) } } \\ { { L _ { \tau } ^ { \prime } = c _ { 1 } ^ { \prime } \left( H _ { 2 } - \displaystyle \frac { c _ { 2 } } { \sqrt { 3 } } \displaystyle \sum _ { i } L _ { i } \right) } } \\ { { L _ { \mu } = \displaystyle \frac { c _ { 3 } } { \sqrt { 2 } } ( L _ { 1 } - L _ { 2 } ) \cos \theta + \displaystyle \frac { c _ { 3 } } { \sqrt { 6 } } ( L _ { 1 } + L _ { 2 } - 2 L _ { 3 } ) \sin \theta } } \\ { { L _ { e } = - \displaystyle \frac { c _ { 3 } } { \sqrt { 2 } } ( L _ { 1 } - L _ { 2 } ) \sin \theta + \displaystyle \frac { c _ { 3 } } { \sqrt { 6 } } ( L _ { 1 } + L _ { 2 } - 2 L _ { 3 } ) \cos \theta \ , } } \end{array}
+$$
+
+where
+
+$$
+{ \begin{array} { l } { c _ { 1 } = { \cfrac { 1 } { \sqrt { 2 } } } { \sqrt { 1 + { \cfrac { \gamma } { c _ { 2 } } } } } } \\ { c _ { 1 } ^ { \prime } = { \cfrac { 1 } { \sqrt { 2 } } } { \sqrt { 1 - { \cfrac { \gamma } { c _ { 2 } } } } } } \end{array} } c _ { 2 } = { \sqrt { \alpha + 2 \beta } } c _ { 3 } = { \sqrt { \alpha - \beta } }
+$$
+
+and $\theta$ can not be determined until muon mass basis is fixed.
+
+The superpotential is then
+
+$$
+\begin{array} { l } { { \mathcal W = \sqrt { \sum _ { j } | y _ { j } | ^ { 2 } } H _ { d } ^ { \prime } L _ { \tau } ^ { \prime } E _ { \tau } ^ { c } + L _ { e } L _ { \mu } ( \lambda _ { \tau } E _ { \tau } ^ { c } + \lambda _ { \mu } E _ { \mu } ^ { c } ) } } \\ { { { } } } \\ { { + \mu H _ { u } H _ { d } ^ { \prime } + \mu ^ { \prime } H _ { u } L _ { \tau } ^ { \prime } , } } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { l l } { { y _ { j } = \displaystyle \frac { 2 } { \sqrt { \alpha + 2 \beta - \gamma ^ { 2 } } } \tilde { y } _ { j } \nonumber , } } & { { \lambda _ { j } = - \displaystyle \frac { \sqrt { 3 } } { \alpha + \beta } \tilde { \lambda } _ { j } \nonumber , } } \\ { { \mu \nonumber = \displaystyle \frac { 1 } { 2 c _ { 1 } } \left( \tilde { \mu } + \displaystyle \frac { \tilde { \mu } ^ { \prime } } { c _ { 2 } } \right) \nonumber , } } & { { \mu ^ { \prime } = \displaystyle \frac { 1 } { 2 c _ { 1 } ^ { \prime } } \left( \tilde { \mu } - \displaystyle \frac { \tilde { \mu } ^ { \prime } } { c _ { 2 } } \right) \nonumber , } } \end{array}
+$$
+
+$E _ { \tau } ^ { x }$ is defined as
+
+$$
+E _ { \tau } ^ { c } = \frac { 1 } { \sqrt { \sum _ { j } | y _ { j } | ^ { 2 } } } y _ { j } E _ { j } ^ { c } ,
+$$
+
+$E _ { \mu } ^ { c }$ is orthogonal to $E _ { \tau } ^ { c }$ ， $\lambda _ { \tau }$ and $\lambda _ { \mu }$ are combinations of $y _ { j }$ 's and $\lambda _ { j }$ 's. Because of the $Z _ { 3 L }$ symmetry, the superpotential is without the field $E _ { e } ^ { c }$ which is orthogonal to both $E _ { \tau } ^ { \mathrm { r } c }$ and $E _ { \mu } ^ { c }$ ：
+
+To look at the fermion masses, we simply rotate the bilinear R-parity violating term away via the field re-definition,
+
+$$
+\begin{array} { l } { { \displaystyle H _ { d } = \frac { 1 } { \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } } ( \mu H _ { d } ^ { \prime } + \mu ^ { \prime } L _ { \tau } ^ { \prime } ) \ : , } } \\ { { \displaystyle L _ { \tau } = \frac { 1 } { \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } } ( \mu ^ { \prime } H _ { d } ^ { \prime } - \mu L _ { \tau ^ { \prime } } ) \ : . } } \end{array}
+$$
+
+It is trivial to see that the kinetic terms are diagonal in terms of $H _ { d }$ and $L _ { \tau }$ . The superpotential is
+
+$$
+\begin{array} { l } { { { \mathcal W } = - \sqrt { \sum _ { j } | y _ { j } | ^ { 2 } } H _ { d } L _ { \tau } E _ { \tau } ^ { c } + L _ { e } L _ { \mu } ( \lambda _ { \tau } E _ { \tau } ^ { c } + \lambda _ { \mu } E _ { \mu } ^ { c } ) } } \\ { { { } } } \\ { { \ + \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } H _ { u } H _ { d } . } } \end{array}
+$$
+
+The $Z _ { 3 L }$ family symmetry keeps the trilinear R-parity violating terms invariant. As we have expected Higgs field $H _ { d }$ contributes to the tauon mass only and the sneutrinos in $L _ { e }$ and （204号 $L _ { \mu }$ contribute to the muon mass, after they get VEVs. The VEVs of $L _ { e }$ and $L _ { \mu }$ imply the breaking of the $Z _ { 3 L }$ symmetry as can be seen explicitly from Eq. (6). The electron remains massless because of absence of the $E _ { e } ^ { c }$ field in $\mathcal { W }$ . A hierarchy among charged leptons is obtained. Without losing our essential points,we could take $\lambda _ { \tau } = 0$ . In that case, $L _ { \tau }$ is in the mass eigenstate. And the tau number is conserved. The tauon number conservation justifies the field rotation Eq. (11).
+
+The breaking of the family symmetry originates from the soft SUSY masses. For simplicity and without losing generality, we assume that the soft terms in Eqs. (3) and (4) are rewritten as
+
+$$
+\begin{array} { r l } { \mathcal { L } _ { s o f t } = } & { M _ { \tilde { W } } \tilde { W } \tilde { W } + M _ { \tilde { Z } } \tilde { Z } \tilde { Z } } \\ & { + m _ { h _ { u } } ^ { 2 } h _ { u } ^ { \dagger } h _ { u } + m _ { h _ { d } } ^ { 2 } h _ { d } ^ { \dagger } h _ { d } + m _ { h _ { d } } ^ { 2 } \tilde { l } _ { \alpha } ^ { \dagger } \tilde { l } _ { \alpha } + m _ { l R _ { \alpha \beta } } ^ { 2 } \tilde { e } _ { \alpha } ^ { * } \tilde { e } _ { \beta } } \\ & { + ( B _ { \mu } h _ { u } h _ { d } + B _ { \mu _ { e } } h _ { u } \tilde { l } _ { e } } \\ & { + \tilde { m } _ { \alpha \beta } \tilde { l } _ { \alpha } h _ { d } \tilde { e } _ { \beta } + \tilde { m } _ { \alpha \beta \gamma } \tilde { l } _ { \alpha } \tilde { l } _ { \beta } \tilde { e } _ { \gamma } + h . c . ) , } \end{array}
+$$
+
+vhere $\alpha = e , \mu , \tau$ . Mostof thesquared masses are expected tobepositive,except $m _ { h _ { u } } ^ { 2 }$ （
+
+The key point of the form of the soft masses lies in the $( h _ { u } ~ h _ { d } ^ { \dagger } ~ \tilde { l } _ { e } ^ { \dagger } )$ mass-squared matrix.
+
+$$
+\mathcal { M } ^ { ( h _ { u } , h _ { d } ^ { \dagger } , \tilde { l } _ { e } ^ { \dagger } ) } = \left( \begin{array} { c c c } { { m _ { h _ { u } } ^ { 2 } } } & { { B _ { \mu } } } & { { B _ { \mu _ { e } } } } \\ { { B _ { \mu } } } & { { m _ { h _ { d } } ^ { 2 } } } & { { 0 } } \\ { { B _ { \mu _ { e } } } } & { { 0 } } & { { m _ { h _ { d } } ^ { 2 } } } \end{array} \right)
+$$
+
+of which the eigenvalues are
+
+$$
+\begin{array} { l } { { M _ { 1 } ^ { 2 } = \bar { m } - \sqrt { \Delta ^ { 2 } + ( B _ { \mu } ) ^ { 2 } + ( B _ { \mu _ { e } } ) ^ { 2 } } } } \\ { { M _ { 2 } ^ { 2 } = \bar { m } + \sqrt { \Delta ^ { 2 } + ( B _ { \mu } ) ^ { 2 } + ( B _ { \mu _ { e } } ) ^ { 2 } } } } \\ { { M _ { 3 } ^ { 2 } = m _ { h _ { d } } ^ { 2 } , } } \end{array}
+$$
+
+where $\bar { m } = \frac { m _ { h _ { u } } ^ { 2 } + m _ { h _ { d } } ^ { 2 } } { 2 }$ +mnd, $\Delta = \frac { m _ { h _ { u } } ^ { 2 } - m _ { h _ { d } } ^ { 2 } } { 2 }$ The analysis goes in the similar way as in Ref.
+
+[6]. By fine-tuning, $M _ { 1 } ^ { 2 } \sim - m _ { E W } ^ { 2 }$ ， namely the EW symmetry breaking is achieved. The tuning is at the order of $m _ { S } ^ { 2 } / m _ { E W } ^ { 2 }$ ：
+
+In our case, in addition to the Higgs doublets, $\tilde { l } _ { e }$ field also gets a VEV,
+
+$$
+v _ { u } \neq 0 , v _ { d } \neq 0 , v _ { l e } \neq 0 .
+$$
+
+The relative size of these values are determined by the soft mass parameters. It is natural to expect the $Z _ { 3 L }$ symmetry breaking is not large, a hierarchy between $v _ { u , d }$ and $v _ { l _ { e } }$ is possible. In the extreme case of that $B _ { \mu _ { e } } \ll B _ { \mu }$ ， ${ \boldsymbol { v } } _ { l _ { e } }$ vanishes. As an illustration, a prefered VEV pattern $v _ { u } > v _ { d } > v _ { l _ { e } }$ is expected if $| m _ { h _ { u } } ^ { 2 } | < | m _ { h _ { d } } ^ { 2 } |$ and $B _ { \mu _ { e } } < B _ { \mu }$ are assumed. Note that the $L _ { e }$ number breaks explicitly in the soft mass terms, ${ \boldsymbol { v } } _ { l _ { e } }$ does not result in any massless scalar.Because there is only one light Higgs doublet,the tree-level flavor changing neutral current (FCNC) does not appear. Therefore, a vanishing $\lambda _ { \tau }$ keeps generality of the model. The fact $v _ { l _ { e } } \neq 0$ results in $\cos \theta = 1$ , and it is at this stage that $E _ { \mu } ^ { c }$ just corresponds to the mass eigenstate of the muon. The hierarchical charged lepton mass pattern is obtained from Eq. (12) explicitly,
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { m _ { \tau } = \sqrt { \sum _ { j } | y _ { j } | ^ { 2 } } v _ { d } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { m _ { \mu } = \lambda _ { \mu } v _ { l _ { e } } , } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { m _ { e } = 0 . } } \end{array}
+$$
+
+Numerically it is required that $v _ { d } \sim 1 0 0$ GeV and $v _ { l _ { e } } \sim 1 0$ GeV.
+
+Whethera a large ${ \boldsymbol { v } } _ { l _ { e } }$ is safe or not should be studied. In addition，it should be also considered that a huge $\boldsymbol { B } _ { \mu _ { e } }$ induces a large lepton-Higgsino mixing. The inducement happens at the loop-level through the gaugino exchange,as shown in Ref. [12], meh = $m _ { e h } = \frac { g _ { 2 } ^ { 2 } B _ { \mu _ { e } } } { 1 6 \pi ^ { 2 } M _ { \tilde { Z } } }$ which is about $1 0 ^ { - 3 } m _ { S }$ . By denoting $\tilde { h }$ as Higgsinos, the mass matrix of $\nu _ { e }$ and the other neutralinos is given as
+
+$$
+- i \left( \nu _ { e } \widetilde { h } _ { d } ^ { 0 } \widetilde { h } _ { u } ^ { 0 } \widetilde { Z } \right) \left( \begin{array} { c c c c } { { 0 } } & { { 0 } } & { { m _ { e h } } } & { { a v _ { l _ { e } } } } \\ { { 0 } } & { { 0 } } & { { - \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } } } & { { a v _ { d } } } \\ { { m _ { e h } } } & { { - \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } } } & { { 0 } } & { { - a v _ { u } } } \\ { { a v _ { l _ { e } } } } & { { a v _ { d } } } & { { - a v _ { u } } } & { { M _ { \widetilde { Z } } } } \end{array} \right) \left( \begin{array} { c } { { \nu _ { e } } } \\ { { \widetilde { h } _ { d } ^ { 0 } } } \\ { { \widetilde { h } _ { u } ^ { 0 } } } \\ { { \widetilde { Z } } } \end{array} \right) ,
+$$
+
+where $a = ( \frac { g _ { 2 } ^ { 2 } + g _ { 1 } ^ { 2 } } { 2 } ) ^ { 1 / 2 }$ +9²)1/2 with gbeing the SM U(1)ycoupling constant.We simplyobtain the mass eigenvalues (denoted as $\Lambda _ { 1 } , \Lambda _ { 2 } , \Lambda _ { 3 } , \Lambda _ { 4 } )$ of the above mass matrix by reasonably
+
+taking $v _ { l _ { e } } \ll v _ { d } < v _ { u } \ll \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } } \sim M _ { \tilde { Z } }$
+
+$$
+\begin{array} { l } { { \Lambda _ { 1 } \simeq M _ { \tilde { Z } } , } } \\ { { \Lambda _ { 2 } \simeq \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } + m _ { e h } ^ { 2 } } , } } \\ { { \Lambda _ { 3 } \simeq - \sqrt { \mu ^ { 2 } + \mu ^ { \prime 2 } + m _ { e h } ^ { 2 } } , } } \\ { { \Lambda _ { 4 } \simeq - \frac { \left( a v _ { l e } \right) ^ { 2 } } { M _ { \tilde { Z } } } . } } \end{array}
+$$
+
+Therefore the $\nu _ { e }$ mass $m _ { \nu _ { e } } \simeq \frac { ( a v _ { l _ { e } } ) ^ { 2 } } { M _ { \tilde { Z } } }$ It is very small $\sim 1 0 ^ { - 3 }$ eV when $M _ { \tilde { Z } } \sim 1 0 ^ { 1 3 }$ GeV.
+
+To accommodate the neutrino oscillation data, the neutrino sector should be extended. Three right-handed neutrinos $N _ { i }$ $( i = 1 , 2 , 3$ ） which are singlet under the SM gauge groups, are introduced. The following terms should be included in the $Z _ { 3 L }$ symmetric superpotential Eq. (2),
+
+$$
+\mathcal { W } \supset \frac { y _ { j } ^ { \prime } } { \sqrt { 3 } } \sum _ { i } L _ { i } H _ { 1 } N _ { j } + M _ { i j } N _ { i } N _ { j } + \tilde { c } _ { j } H _ { 1 } H _ { 2 } N _ { j } ,
+$$
+
+with $y _ { j } ^ { \prime }$ 's and $\tilde { c } _ { j }$ 's being the coupling constants of $\mathcal { O } ( 1 0 ^ { - 2 } )$ ，and $M _ { i j }$ the Majorana masses. （204号 $\mathcal { W }$ does not include purely linear terms of $N _ { i }$ 's with large mass-squared coefficients, because （204号 $N _ { i }$ 's are supposed to be charged under a larger gauge group beyond the SM. The soft masses of $N _ { i }$ 's are simply assumed to be large enough that $N _ { i }$ 's do not develop non-vanishing VEVs. The trilinear soft terms associated with $N _ { i }$ 's can be written explicitly, which however, play little roles in the analysis. Through the previous field redefinition, Eq. (12) then includes
+
+$$
+\mathcal { W } \supset y _ { \tau } ^ { \prime } H _ { u } L _ { \tau } N _ { \tau } + M _ { \alpha \beta } N _ { \alpha } N _ { \beta } + H _ { u } H _ { d } ( \tilde { c } _ { \tau } N _ { \tau } + \tilde { c } _ { \mu } N _ { \mu } + \tilde { c } _ { e } N _ { e } ) ,
+$$
+
+where $N _ { \alpha }$ 's are combinations of $N _ { i }$ 's with $N _ { \tau }$ being that which couples to $H _ { u } L _ { \tau }$ ： $y _ { \tau } ^ { \prime }$ and $\tilde { c } _ { \alpha }$ are combinations of $y _ { i } ^ { \prime }$ 's, $\ddot { c } _ { i }$ ， $c _ { 1 } ^ { ( \prime ) }$ ， $c _ { 2 }$ and $\mu ^ { \prime } / \mu$ .The $\nu _ { \tau }$ mass is determined by the see-saw mechanism from Eq. (21),
+
+$$
+m _ { \nu _ { \tau } } \simeq { \frac { ( y _ { \tau } ^ { \prime } v _ { d } ) ^ { 2 } } { M _ { \alpha \beta } } } \simeq 3 \times 1 0 ^ { - 2 } \mathrm { e V }
+$$
+
+by taking $M _ { \alpha \beta } \sim ( 1 0 ^ { 1 0 } - 1 0 ^ { 1 1 } )$ GeV. The Dirac neutrino mass matrix is diagonal in the $e$ μ $\tau$ basis. A bi-large neutrino mixing originates from the mass matrix $M _ { \alpha \beta }$
+
+The electron mass comes from the soft trilinear R-parity violating terms in Eq. (13) [9]. Their soft breaking of $Z _ { 3 L }$ generates non-vanishing masses for the charged leptons through the one loop diagram with a gaugino exchange. The mixing of the scalar leptons
+
+associated with different chiralities is due to the soft trilinear terms,which is then about $\sqrt { \textstyle { \sum _ { j } | y _ { j } | ^ { 2 } } } \hat { m } _ { S } v _ { d }$ . The one loop contribution to the charged lepton masses is about
+
+$$
+\delta M _ { \alpha \beta } ^ { l } \simeq \frac { \alpha } { \pi } \frac { \sqrt { \sum _ { j } | y _ { j } | ^ { 2 } } \tilde { m _ { S } } v _ { d } } { m _ { S } } .
+$$
+
+Taking $m _ { S } / m _ { S } \simeq 0 . 1$ ， $\delta M _ { \alpha \beta } ^ { l } \sim \mathcal { O } ( \mathrm { M e V } )$ which determines the electron mass.
+
+The lepton mixing mainly depend on the neutrino mass matrix. In the charged lepton mass matrix, $m _ { \mu }$ and $m _ { \tau }$ are at the diagonal positions, the non-diagonal elements are $\delta M _ { \alpha \beta } ^ { l }$ （20 The mixing fromtheargdleposaethensicallyall Um Ue=m If the mixing due to the neutrino mass matrix is bi-large, the lepton mixing required by the neutrino oscillation data can be obtained.
+
+Let us briefly comment on the quark masses. Like that of the charged leptons,the quark masses also have three origins: the Higgs VEVs, the sneutrino VEV and soft trilinear Rparity violating terms. However, the roles of the sneutrino VEV and the soft trilinear terms are switched [10]. The sneutrino VEV contributes to the first generation quark masses, and the soft trilinear R-parity violating terms to the charm and strange quark masses. More details will be in a separate work [13]. One important merit of this framework is that we do not need to introduce baryon number conservation. Because the sparticles are very heavy, they suppress baryon number violating processes to be unobservable [13]. An essentially same observation was pointed out in split SUSY [14].
+
+In summary， we have proposed that SUSY is for flavor problems in particle physics. A family symmetry $Z _ { 3 L }$ ， which is the cyclic symmetry among the three generation $S U ( 2 ) _ { L }$ doublets, is introduced. No R-parity is imposed. SUSY breaks at a high scale $\sim 1 0 ^ { 1 3 }$ GeV. The electroweak energy scale is unnaturally small. Under the family symmetry, only the $\tau$ lepton gets its mass. This symmetry is broken by a sneutrino VEV which results in the muon mass. A hierarchical pattern of the charged lepton masses are obtained. The comparatively large sneutrino VEV does not result in a large neutrino mass because of the gaugino masses are very heavy. The quark masses and other aspects of the model have been also discussed.
+
+At low energies, the model is basically the same as the SM. One essential feature of this model is that the unnaturally light Higgs has a component of a slepton. Related to this point, the model allows for relatively long-lived Higgsinos. We may consider a case where their masses are lower than $m _ { S }$ . If they are loop induced, the Higgsino masses are thousand times smaller than $m _ { S }$ . A Higgsino decays to a Higgs and a virtual gaugino which further goes into a lepton and a virtual slepton, the slepton decays to a lepton pair via R-parity violating interaction. Because this four body decay is suppressed by the R-parity violating coupling and double suppressed by $m _ { S }$ ，a $1 0 ^ { 1 0 }$ GeV heavy Higgsino has a lifetime of $1 0 ^ { - 1 2 }$ （20 sec. The cosmological and astrophysical implications should be studied in future works.
+
+# Acknowledgments
+
+The author acknowledges support from the National Natural Science Foundation of China.
+
+[1] J. Wess and B. Zumino, Nucl. Phys. B 7O (1974) 39; Y. Gol'fand and E. Likhtman, JETP Lett.13 (1971) 323; D.V. Volkov and V. Akulov, Phys. Lett.B 46 (1973) 109. [2] E.Witten,Nucl. Phys.B 188 (1981) 513; S. Dimopoulos and H. Georgi, Nucl. Phys.B 193,150 (1981). [3] J.C. Pati and A. Salam, Phys. Rev. D 10 (1974)275; H. Georgi and S.L. Glashow, Phys.Rev. Lett. 32 (1974) 438. [4] S. Weinberg, Phys. Rev. Lett.59, 2607 (1987). [5] R. Bousso and J. Polchinski, JHEP O006, OO6 (2000); J. L. Feng, J. March-Russell, S. Sethi, F. Wilczek, Nucl. Phys.B 602,307 (2001). [6] N. Arkani-Hamed and S. Dimopoulos, hep-th/0405159. [7] G. F. Giudice and A. Romanino, Nucl. Phys. B 699, 65 (2004). [8]H. Fritzsch,Phys.Lett. B 70,436 (1977); S. Adler,Phys.Rev. D 59 (1999) 015012,Erratum D 59 (1999) O99902. For recent studies, see e.g. T. Kitabayashi and M. Yasué, Phys. Rev. D 67(2003) 015006; P. F. Harrison,W. G. Scott, Phys.Lett.B 557(2003) 76. [9] D. Du and C. Liu, Mod. Phys. Lett. A 8, 2271 (1993); A 10,1837 (1995); For a review， see C. Liu， in Beijing 1999，Frontier of Theoretical Physics，p. 131 [hep-ph/0005061]. [10] C. Liu, Int. J. Mod. Phys. A 11, 4307 (1996). [11] C.Aulakh and R. Mohapatra, Phys. Lett. B 119, 136 (1982); S. Weinberg, Phys. Rev. D 26, 287 (1982); For reviews, see G. Bhattacharyya, hep-ph/9709395, O.C.W. Kong, Int. J. Mod. Phys. A 19, 1863 (2004). [12] C. Liu and H. S. Song, Nucl. Phys. B 545,183 (1999). [13] C. Liu, in preparation. [14] S.K. Gupta, P. Konar, B. Mukhopadhyaya, hep-ph/O408296.

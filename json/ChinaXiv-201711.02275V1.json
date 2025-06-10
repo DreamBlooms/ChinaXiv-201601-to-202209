@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "Measurement of $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ from 4.008 to 4.600 GeV and observation of a charged structure in the $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ mass spectrum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. Ablikim1, M. N. Achasov $^ { 9 , d }$ , S. Ahmed14, X. C. Ai1, O. Albayrak $^ { 5 }$ ， M.Albrecht $^ 4$ , D. J. Ambrose $^ { 4 5 }$ ，   \nA. Amoroso $5 0 A , 5 0 C$ ,F. F. An1, Q. $\\mathrm { A n ^ { 4 7 , 3 8 } }$ , J. Z. Bai1, O.Bakina23, R.Baldini Ferroli $2 0 A$ ,Y. Ban $^ { 3 1 }$   \nD.W. Bennett19, J. V. Bennett5, N. Berger22，M.Bertani $2 0 A$ ,D.Bettoni $2 1 A$ , J. M. Bian $^ { 4 4 }$ ,F. Bianchi50A,50C,   \nE.Boger ${ } ^ { 2 3 , b }$ ,I. Boyko $^ { 2 3 }$ , R. A. Briere5, H. Cai52, X. Cai $^ { 1 , 3 8 }$ ,O. Cakir $^ { 4 1 A }$ ， A. Calcaterra $2 0 A$ ,G. F. Cao $^ { 1 , 4 2 }$ ，   \nS. A. Cetin $^ { 4 1 B }$ , J. Chai $5 0 C$ , J. F. Chang1,38, G. Chelkov $^ { 2 3 , b , c }$ ,G. Chen1, H. S. Chen $^ { 1 , 4 2 }$ , J. C. Chen $^ { 1 }$ , M. L. Chen $^ { 1 , 3 8 }$   \nS. Chen42, S. J. Chen29, X. Chen $^ { 1 , 3 8 }$ , X. R. Chen26, Y. B. Chen $^ { 1 , 3 8 }$ , X. K. Chu $^ { 3 1 }$ , G. Cibinetto $2 1 A$ , H. L. Dai $^ { 1 , 3 8 }$ ，   \nJ. P. Dai $^ { 3 4 , h }$ ，A. Dbeyssi $^ { 1 4 }$ , D. Dedovich $^ { 2 3 }$ , Z. Y. Deng1, A. Denig $^ { 2 2 }$ , I. Denysenko $^ { 2 3 }$ ,M. Destefanis $^ { 5 0 A , 5 0 C }$ ，   \nF. De Mori $^ { 5 0 A , 5 0 C }$ ,Y. Ding $^ { 2 7 }$ ,C. Dong30， J. Dong $^ { 1 , 3 8 }$ ,L. Y.Dong $^ { 1 , 4 2 }$ , M. Y. Dong $^ { 1 , 3 8 , 4 2 }$ ,Z. L. Dou $^ { 2 9 }$ ,S. X. Du $^ { 5 4 }$ ，   \nP. F. Duan1, J. Z. Fan $^ { 4 0 }$ ,J. Fang $^ { 1 , 3 8 }$ ,S. S. Fang $^ { 1 , 4 2 }$ ,X. Fang4738，Y.Fang1,，R.FarieliL.Fava $5 0 B$ 50C，   \nF. Feldbauer $^ { 2 2 }$ ,G. Felici $2 0 A$ ,C. Q.Feng $^ { 4 7 , 3 8 }$ ,E.Fioravanti $2 1 A$ ,M.Fritsch $^ { 2 2 , 1 4 }$ ,C. D. Fu $^ { 1 }$ ,Q. Gao1, X. L. Gao $^ { 4 7 , 3 8 }$ ，   \nY. Gao $^ { 4 0 }$ Z.Gao $^ { 4 7 , 3 8 }$ ,I. Garzia $2 1 A$ ,K. Goetzen $\\cdot ^ { 1 0 }$ ,L. Gong $3 0$ ,W. X. Gong $^ { 1 , 3 8 }$ ,W. Gradl $^ { 2 2 }$ ,M. Greco $5 0 A , 5 0 C$ ，   \nM. H. Gu $^ { 1 , 3 8 }$ ,Y. T. Gu $^ { 1 2 }$ , Y. H. Guan $^ { 1 }$ , A. Q. Guo1, L. B. Guo $^ { 2 8 }$ , R. P. Guo $^ { 1 }$ ,Y. Guo1, Y. P. Guo $^ { 2 2 }$ , Z. Haddadi $^ { 2 5 }$ ，   \nA. Hafner $^ { 2 2 }$ , S. Han $^ { 5 2 }$ , X. Q. Hao $^ { 1 5 }$ ,F. A. Harris $^ { 4 3 }$ ,K. L. He $^ { 1 , 4 2 }$ , F. H. Heinsius4, T. Held $^ 4$ , Y. K. Heng1,38,42,   \nT. Holtmann $^ { 4 } _ { . }$ Z. L. Hou1, C. Hu $^ { 2 8 }$ ,H. M. Hu $^ { 1 , 4 2 }$ ,T.Hu $^ { 1 , 3 8 , 4 2 }$ ,Y.Hu $^ { 1 }$ , G. S. Huang $^ { 4 7 , 3 8 }$ , J. S. Huang15,   \nX. T. Huang $^ { 3 3 }$ , X. Z. Huang $^ { \\cdot 2 9 }$ , Z. L. Huang $^ { 2 7 }$ , T. Hussain49, W. Ikegami Andersson $^ { 5 1 }$ ，Q.Ji $^ 1$ ,Q. P. Ji $^ { 1 5 }$ ，   \nX. B. Ji $^ { 1 , 4 2 }$ ,X.L. Ji $^ { 1 , 3 8 }$ ,L. W. Jiang $^ { . 5 2 }$ , X. S. Jiang $^ { 1 , 3 8 , 4 2 }$ , X. Y. Jiang $^ { 3 0 }$ , J. B. Jiao $^ { 3 3 }$ ,Z. Jiao $^ { 1 7 }$ , D. P. Jin1,38,42,   \nS. Jin $^ { 1 , 4 2 }$ , T. Johansson $^ { 5 1 }$ ，A. Julin $^ { 4 4 } _ { . }$ , N. Kalantar-Nayestanaki $^ { 2 5 }$ , X. L. Kang1, X. S. Kang $^ { 3 0 }$ , M. Kavatsyuk $^ { 2 5 }$ ，   \nB. C. Ke $^ { \\mathrm { ~ 5 ~ } }$ ,P.Kiese $^ { 2 2 }$ ,R. Kliemt $^ { 1 0 }$ ,B.Kloss $^ { 2 2 }$ ,O. B. Kolcu $^ { 4 1 B , f }$ ,B. Kopf4, M. Kornicer $^ { 4 3 }$ ,A.Kupsc $^ { 5 1 }$ ，   \nW. Kuhn $2 4$ , J. S. Lange $^ { 2 4 }$ ,M. Lara $^ { 1 9 }$ ,P.Larin $^ { 1 4 }$ ,H. Leithoff $^ { 2 2 }$ , C. Leng $5 0 C$ ,C.Li $^ { 5 1 }$ ,Cheng Li $^ { 4 7 , 3 8 }$ ,D. M. Li $^ { 5 4 }$   \nF.Li $^ { 1 , 3 8 }$ ,F. Y.Li $^ { 3 1 }$ ，G.Li $^ { 1 }$ ,H. B. Li $^ { 1 , 4 2 }$ ,H. J. Li1, J. C. Li1, Jin Li $^ { 3 2 }$ ,K.Li $^ { 3 3 }$ ,K.Li $^ { 1 3 }$ ,Lei Li $^ 3$ ,P. R. Li $^ { 4 2 , 7 }$ ，   \nQ. Y. Li $^ { 3 3 }$ ，T.Li $^ { 3 3 }$ ,W. D. Li $^ { 1 , 4 2 }$ ,W. G. Li $^ { 1 }$ , X. L. Li $^ { 3 3 }$ , X. N. Li $^ { 1 , 3 8 }$ ,X. Q.Li $3 0$ ,Y. B. Li $^ 2$ , Z. B. Li $^ { 3 9 }$ ，   \nH. Liang $^ { 4 7 , 3 8 }$ ,Y. F. Liang $^ { 3 6 }$ , Y. T. Liang $^ { 2 4 }$ , G. R. Liao11, D. X. Lin $\\cdot ^ { 1 4 }$ , B. Liu $^ { 3 4 , h }$ ,B. J. Liu $^ { 1 }$ , C. X. Liu $^ { 1 }$ , D. Liu $^ { 4 7 , 3 8 }$ ，   \nF. H. Liu $^ { 3 5 }$ ,Fang Liu $^ { 1 }$ Feng Liu $^ 6$ ,H. B. Liu $^ { 1 2 }$ ,H. H. Liu $^ { 1 6 }$ ,H. H. Liu $^ { 1 }$ ,H. M. Liu $^ { 1 , 4 2 }$ , J. Liu $^ 1$ J. B. Liu $^ { 4 7 , 3 8 }$ ，   \nJ. P. Liu $^ { 5 2 }$ , J. Y. Liu $^ { 1 }$ ,K. Liu $^ { 4 0 }$ , K. Y. Liu $^ { 2 7 }$ , L. D. Liu $^ { 3 1 }$ , P. L. Liu $^ { 1 , 3 8 }$ ，Q.Liu $^ { 4 2 }$ , S. B. Liu $^ { 4 7 , 3 8 }$ , X. Liu $^ { 2 6 }$ ，   \nY. B. Liu $^ { 3 0 }$ , Y. Y. Liu $^ { 3 0 }$ , Z. A. Liu $^ { 1 , 3 8 , 4 2 }$ , Zhiqing Liu $^ { 2 2 }$ ,H. Loehner $^ { 2 5 }$ ,Y. F. Long $^ { 3 1 }$ , X. C. Lou $^ { 1 , 3 8 , 4 2 }$ ,H. J. Lu $^ { 1 7 }$ ，   \nJ. G. Lu $^ { 1 , 3 8 }$ ,Y. Lu $^ 1$ ,Y. P. Lu $^ { 1 , 3 8 }$ , C. L. Luo28, M. X. Luo $^ { 5 3 }$ ,T. Luo $^ { 4 3 }$ , X. L. Luo $^ { 1 , 3 8 }$ , X. R. Lyu $^ { 4 2 }$ ,F. C. Ma $^ { 2 7 }$ ，   \nH. L. Ma1, L. L. Ma $^ { 3 3 }$ , M. M. Ma1, Q. M. Ma1, T. Ma1, X. N. Ma $^ { 3 0 }$ , X. Y. Ma $^ { 1 , 3 8 }$ , Y. M. Ma $^ { 3 3 }$ ,F. E. Maas14,   \nM. Maggiora $^ { 5 0 A , 5 0 C }$ ,Q.A. Malik $^ { 4 9 }$ ,Y. J. Mao $^ { 3 1 }$ , Z. P. Mao $^ { 1 }$ , S. Marcello $^ { 5 0 A , 5 0 C }$ , J. G. Messchendorp $^ { 2 5 }$ ，   \nG. Mezzadri $2 1 B$ ,J. Min $^ { 1 , 3 8 }$ , T. J. Min1,R.E. Mitchel $^ { 1 9 }$ , X. H. Mo $^ { 1 , 3 8 , 4 2 }$ ,Y. J. Mo $^ 6$ , C. Morales Morales $^ { 1 4 }$ ，   \nN. Yu. Muchnoi $^ { 9 , d }$ , H. Muramatsu $^ { 4 4 }$ , P. Musiol4, Y. Nefedov $^ { 2 3 }$ ,F. Nerling $^ { - 1 0 }$ , I. B. Nikolaev $^ { 9 , d }$ , Z. Ning1,38,   \nS. Nisar8, S. L. Niu $^ { 1 , 3 8 }$ , X. Y. Niu $^ { 1 }$ , S. L. Olsen $^ { 3 2 }$ ,Q.Ouyang $^ { 1 , 3 8 , 4 2 }$ S.Pacetti $2 0 B$ ,Y. Pan $^ { 4 7 , 3 8 }$ , M. Papenbrock $^ { 5 1 }$ ，   \nP. Patteri $2 0 A$ , M. Pelizaeus $^ 4$ ,H. P. Peng $^ { 4 7 , 3 8 }$ ,K.Peters $^ { 1 0 , g }$ , J. Pettersson $^ { 5 1 }$ , J. L. Ping $^ { 2 8 }$ ,R. G. Ping $^ { 1 , 4 2 }$   \nR. Poling $^ { 4 4 }$ , V. Prasad1, H. R. Qi $^ 2$ ，M. Qi $^ { 2 9 }$ ,S. Qian $^ { 1 , 3 8 }$ , C. F. Qiao $^ { 4 2 }$ ,L. Q. Qin $^ { 3 3 }$ ,N. Qin $^ { 5 2 }$ , X. S. Qin1,   \nZ. H. Qin $^ { 1 , 3 8 }$ , J. F. Qiu1, K.H. Rashid $^ { 4 9 , i }$ , C. F. Redmer $^ { 2 2 }$ ,M.Ripka $^ { 2 2 }$ ,G. Rong $^ { 1 , 4 2 }$ , Ch. Rosner $^ { 1 4 }$ , X. D. Ruan12,   \nA. Sarantsev ${ } ^ { 2 3 , e }$ ,M. Savrie $2 1 B$ , C. Schnier $^ 4$ , K. Schoenning51, W. Shan $^ { 3 1 }$ ,M.Shao $^ { 4 7 , 3 8 }$ ,C. P. Shen2, P. X. Shen $^ { 3 0 }$   \nX. Y. Shen $^ { 1 , 4 2 }$ ,H.Y.Sheng1, W. M.Song1, X.Y.Song1,S.Sosio $^ { 5 0 A , 5 0 C }$ , S. Spataro $5 0 A , 5 0 C$ ,G. X. Sun1,   \nJ. F. Sun15, S. S. Sun $^ { 1 , 4 2 }$ , X. H. Sun $^ { 1 }$ ,Y. J. Sun $^ { 4 7 , 3 8 }$ ,Y. Z. Sun $\\cdot ^ { 1 }$ , Z. J. Sun $^ { 1 , 3 8 }$ , Z. T. Sun $^ { 1 9 }$ , C. J. Tang $^ { 3 6 }$ , X. Tang1,   \nI. Tapan $^ { 4 1 C }$ ,E. H. Thorndike $^ { 4 5 }$ ,M. Tiemens $^ { 2 5 }$ , I. Uman $^ { 4 1 D }$ ,G. S. Varner $^ { 4 3 }$ , B. Wang $^ { 3 0 }$ ,B. L. Wang $^ { 4 2 }$ ,D. Wang $^ { 3 1 }$   \nD. Y. Wang $^ { 3 1 }$ , K. Wang $^ { 1 , 3 8 }$ , L. L. Wang1, L. S. Wang1, M. Wang $^ { 3 3 }$ , P. Wang1, P. L. Wang1, W. Wang $^ { 1 , 3 8 }$   \nW. P. Wang47,38, X. F. Wang $^ { . 4 0 }$ , Y. Wang37, Y. D. Wang14, Y. F. Wang1,38,42, Y. Q. Wang $^ { 2 2 }$ , Z. Wang $^ { 1 , 3 8 }$ ，   \nZ. G. Wang $^ { 1 , 3 8 }$ , Z. H. Wang $^ { 4 7 , 3 8 }$ ,Z. Y.Wang1, Z. Y. Wang1,T. Weber22,D. H. Wei $^ { 1 1 }$ , P. Weidenkaff²2,   \nS. P. Wen1, U. Wiedner4, M. Wolke $^ { 5 1 }$ , L. H. Wu1, L. J. Wu $^ { 1 }$ , Z. Wu $^ { 1 , 3 8 }$ ,L. Xia $^ { 4 7 , 3 8 }$ , L. G. Xia $^ { 4 0 }$ , Y. Xia $^ { 1 8 }$   \nD. Xiao1, H. Xiao $^ { 4 8 }$ ,Z. J. Xiao $^ { 2 8 }$ ,Y. G. Xie $^ { 1 , 3 8 }$ ,Y. H. Xie $^ 6$ Q. L. Xiu $^ { 1 , 3 8 }$ ,G. F. Xu $^ 1$ ,J. J. Xu $^ 1$ ,L. Xu1,   \nQ. J. Xu $^ { 1 3 }$ Q. N. Xu $^ { 4 2 }$ , X. P. Xu $^ { 3 7 }$ ,L. Yan504,50C,W. B. Yan $^ { 4 7 , 3 8 }$ ,W. C. Yan $^ { 4 7 , 3 8 }$ ,Y. H. Yan $^ { 1 8 } _ { \\cdot }$ ,H. J. Yang $^ { 3 4 , h }$   \nH. X. Yang1, L. Yang52, Y. X. Yang11,M. Ye $^ { 1 , 3 8 }$ ,M. H. Ye $^ 7$ , J. H. Yin $^ { 1 }$ , Z. Y. You $^ { 3 9 }$ , B. X. Yu1,38,42, C. X. Yu $^ { 3 0 }$   \nJ. S. Yu $^ { 2 6 }$ , C. Z. Yuan $^ { 1 , 4 2 }$ , Y. Yuan1, A. Yuncu $^ { 4 1 B , a }$ ,A. A. Zafar $^ { 4 9 }$ ,Y. Zeng18, Z. Zeng $^ { 4 7 , 3 8 }$ , B. X. Zhang1,   \nB.Y. Zhang138，C.C.Zhang1,D. H.Zhang1,H.H.Zhang39,H.Y.Zhang1,38,J.Zhang1,J.J.Zhang1,   \nJ. L. Zhang1, J. Q. Zhang1, J. W. Zhang1,38,42, J. Y. Zhang1, J. Z. Zhang $^ { 1 , 4 2 }$ , K. Zhang $^ { 1 }$ ,L. Zhang1, S. Q. Zhang30,   \nX. Y. Zhang $^ { 3 3 }$ , Y. Zhang1, Y. Zhang1, Y. H. Zhang $^ { 1 , 3 8 }$ , Y. N. Zhang $^ { 4 2 }$ , Y. T. Zhang $^ { 4 7 , 3 8 }$ , Yu Zhang $^ { 4 2 }$ , Z. H. Zhang6,   \nZ. P. Zhang47, Z. Y. Zhang $^ { 5 2 }$ ,G. Zhao1, J. W. Zhao $^ { 1 , 3 8 }$ , J. Y. Zhao $^ { 1 }$ , J. Z. Zhao $^ { 1 , 3 8 }$ , Lei Zhao $^ { 4 7 , 3 8 }$ , Ling Zhao1, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. G. Zhao $^ { 3 0 }$ ，Q. Zhao $^ { 1 }$ , Q. W. Zhao $^ { 1 }$ , S. J. Zhao $^ { 5 4 }$ , T. C. Zhao $^ { 1 }$ , Y. B. Zhao $^ { 1 , 3 8 }$ , Z. G. Zhao $^ { 4 7 , 3 8 }$ A. Zhemchugov ${ } ^ { 2 3 , b }$ , B. Zheng $^ { 4 8 , 1 4 }$ , J. P. Zheng $^ { 1 , 3 8 }$ ,W. J. Zheng $^ { 3 3 }$ , Y. H. Zheng $^ { 4 2 }$ ,B. Zhong $^ { 2 8 }$ ,L. Zhou $^ { 1 , 3 8 }$ ， x L. Zhu X. Zhou $^ { 4 0 }$ $^ { 5 2 }$ , X. K. Zhou Y C. zhu $^ { 4 7 , 3 8 }$ $^ { 4 7 , 3 8 }$ ,X. R. Zhou Y s. Zhu $^ { 1 , 4 2 }$ $^ { 4 7 , 3 8 }$ , Z. A. Zhu ,X. Y. Zhou $^ { 1 , 4 2 }$ $^ 1$ ,K. Zhu Zhuang $^ { 1 , 3 8 }$ $^ { 1 }$ ，K.J.Zhu L. zott $5 0 A , 5 0 C$ $^ { 1 , 3 8 , 4 2 }$ S. Zhu , B. S. Zou $^ { 1 }$ ,S. H. Zhu $^ 1$ , J. H. Zou1 $^ { 4 6 }$ ，， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(BESIII Collaboration)   \n（ $^ { 1 }$ Institute of High Energy Physics，Beijing 10049,People's Republic of China   \n$^ 2$ Beihang University， Beijing 100191， People's Republic of China   \n（ $^ 3$ Beijing Instituteof etrocemical Techology，ejig2617eople'sRepblicofCin   \n（20 $^ 4$ Bochum Ruhr-University， D-44780 Bochum， Germany   \n5 Carnegie Mellon University,Pitsburgh,Pennsylvania 15213,USA   \n$^ 6$ Central China Normal University， Wuhan 43079,People's RepublicofChina   \n$^ 7$ China Center of Aduanced Science and Technology, Beijing 100190, People's Republic of China   \n（20 $^ 8$ COMSATS Instituteof Information Technology, Lahore,Defence Road,Off Raiwind Road,540 Lahore,Pakistan   \n（20 $^ { \\mathrm { ~ 9 ~ } }$ G.I. Budker Institute of Nuclear Physics SB RAS (BINP), Novosibirsk 63090, Russia   \n（ $^ { 1 0 }$ GSI HelmholtzcentreforHeayIonResearch GmbH,D-64291Darmstadt,Gerany   \n$^ { 1 1 }$ Guangri Normal University，Guilin 541004，People's Republic of China   \n$^ { 1 2 }$ Guangri UniversityNanning53，People'sRepublicofin   \n13Hangzhou Normal University，Hangzhou 310036,People's Republicof China   \n（204号 $^ { 1 4 }$ HelmholtzIstituteaizJohanJoachm-Becher-Weg45D5509izG   \n$^ { 1 5 }$ Henan Normal University，Xiniang 453oPeople'sRepublicofin   \n16Henan University of Science and Technology,Luoyang 471o3,People's Republicof China   \n$^ { 1 7 }$ Huangshan Colege, Huangshan245000,People's Republicof China   \n（20 $^ { 1 8 }$ Hunan Universityngsh4082eople'sepublicf   \n19 Indiana University， Bloomington, Indiana 47405， USA   \n20(A)INFNLaboratoriNazionalidiracati-044rascat   \nItaly; (B)INFN and University of Perugia, I-06100, Perugia, Italy   \n21(A)INF   \n22JohanmesGtegeityfoBe455   \nSI $^ { 2 3 }$ JointInstitutefoNucearesach498bMocoegi   \n24Justus-LG   \n$^ { 2 5 }$ KVI-CART, University of Groningen, NL-9747 AA Groningen, The Netherlands   \n12 $^ { 2 6 }$ Lanzhou UniversityLanzhou30o，Peple'sRepublicofin   \n27Liaoning UniversityShenyang036,People'sRepublicofna   \n（ $^ { \\mathrm { 2 8 } }$ Nanjing Normal University，Nanjng 21023,People's Republicof China   \n$^ { 2 9 }$ Nanjing UnivesityNanjing0People'sepubcof   \n（ $^ { 3 0 }$ Nankai UniversityTianjin3OoPeople'sRepublicof ia   \n$^ { 3 1 }$ Peking University，Beijing 1871,People's Republicof Chna   \n$^ { 3 2 }$ Seoul National UniversitySeoul,151-747 Korea   \n（ $^ { 3 3 }$ Shandong UniversityJinan 25oPeople'sRepublicof Chin   \n$^ { 3 4 }$ Shanghai JiaTongUniversityShanghai2O240People'sRepublcon   \n3 $^ { 3 5 }$ Shanvi Universityiyuan30ooPeople'sepublicf   \n36SichuanUniversityChengdu 61064，People'sRepublicofina   \n（2 $^ { 3 7 }$ Soochow UniversitySuzhou215o6,People'sRepublicof ina   \n（20 $^ { 3 8 }$ StateKey Laboratoryof ParticleDetectionand Electronics，   \nBeijing 100049，Hefei 230026， People's Republic of China   \n$^ { 3 9 }$ SunYat-SenUniversityGuangzhou51075，PeoplesRepublicon   \n40Tsinghua University，Bejing04，People'sRepublicof Cin   \n41(A)AnkarUeityognAarke；()   \nUniversity， 3406O Eyup， Istanbul, Turkey; (C)Uludag University， 16059 Bursa,   \nTurkey; (D)Near East University， Nicosia, North Cyprus, Mersin 10, Turkey   \n（ $^ { 4 2 }$ University of hineseAcademyofSciencesBejingo9People'sRepublicofin   \n$^ { 4 3 }$ University ofHawaii，HonoluluHawaii96822U   \n（20 $^ { 4 4 }$ Universityofinsotaineapolis，nesota554U 45University of Rchester，Rochester，New York 14627，USA   \n$^ { 4 6 }$ University of Science and Technology Liaoning,Anshan 114051, People's Republic of China   \n（20 $^ { 4 7 }$ UniversityofScienceandTechnologyofChinaHefei 23026People'sRepublicof China $^ { 4 8 }$ University of South China, Hengyang 421001,People's Republic of China $^ { 4 9 }$ University of thePunjab，Lahore-54590，Pakistan （20 $^ { 5 0 }$ (A)UniversityofTurin,-1025，TurinItaly; (B)Uniersityof Este Piedmont, I-15121， Alessandria, Italy; (C)INFN, I-10125， Turin， Italy 51 Uppsala University， Box 516, SE-75120 Uppsala, Sweden 52Wuhan University，Wuhan 430o72, People's Republicof China 53Zhejiang University， Hangzhou 31027, People's Republicof hina （20 $^ { 5 4 }$ Zhengzhou University， Zhengzhou 450o01,People's Republic of China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（20 $a$ Also at Bogazici University， 34342 Istanbul, Turkey （204号 $\\boldsymbol { b }$ Also at the Moscow Institute of Physics and Technology, Moscow 141700, Russia $c$ Also at the Functional Electronics Laboratory， Tomsk State University, Tomsk, 634050, Russia （ $d$ Also at the Novosibirsk State University， Novosibirsk, 630090, Russia （204号 $e$ Also at the NRC \"Kurchatov Institute”,PNPI, 188300,Gatchina, Russia $f$ Also at Istanbul Arel University， 34295 Istanbul, Turkey （20 $g$ Also at Goethe University Frankfurt, 60323 Frankfurt am Main， Germany $h$ Also at Key Laboratory for Particle Physics，Astrophysics and Cosmology， Ministry of Education; Shanghai Key Laboratory for Particle Physics and Cosmology; Institute of Nuclear and Particle Physics，Shanghai 200240，People's Republic of China $\\textit { i }$ Government College Women University， Sialkot - 51310. Punjab， Pakistan. (Dated: September 11,2017) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We study the process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ using $5 . 1 ~ \\mathrm { { f b } ^ { - 1 } }$ of data collected at 16 center-of-mass energy ( $\\sqrt { s }$ ) points from 4.008 to 4.600 GeV by the BESIII detector operating at the BEPCII collider. The measured Born cross sections for $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ are consistent with previous results, but with much improved precision.A fit to the cross section shows contributions from two structures: the first has $M = 4 2 0 9 . 5 \\pm 7 . 4 \\pm 1 . 4 ~ \\mathrm { M e V } / c ^ { 2 }$ and $\\Gamma ^ { \\prime } = 8 0 . 1 \\pm 2 4 . 6 \\pm 2 . 9$ MeV,and the second has $M = 4 3 8 3 . 8 { \\pm } 4 . 2 { \\pm } 0 . 8 \\ \\mathrm { M e V / c ^ { 2 } }$ and $\\Gamma = 8 4 . 2 { \\pm } 1 2 . 5 { \\pm } 2 . 1 \\ .$ MeV,where the first errorsare statistical and the second systematic.The lower-mass resonance is observed in the process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ for the first time with a statistical significance of $5 . 8 \\sigma$ .A charged charmonium-like structure is observed in the $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ invariant mass spectrum for data at $\\sqrt { s } = 4 . 4 1 6$ GeV.A fit with an $S$ wave Breit-Wigner function yields a mass $M = 4 0 3 2 . 1 \\pm 2 . 4 ~ \\mathrm { M e V } / c ^ { 2 }$ ,where the errors are statistical only.However,there are stillunresolved discrepancies between the fit model and data.The width of the intermediate state varies in a wide range for different kinematic regions within the data set. Therefore no simple interpretation of the data has been found,and a future data sample with larger statistics and more theoretical input will be required to better understand this issue. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:14.40.Rt,14.40.Pq,13.66.Bc ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,a series of new vector ( $\\begin{array} { r l } { J ^ { P C } } & { { } = } \\end{array}$ $1 ^ { -- }$ )charmoniumlike states,e.g., the $Y ( 4 2 6 0 )$ ， $Y ( 4 3 6 0 )$ . and $Y ( 4 6 6 0 )$ ，have been observed in $e ^ { + } e ^ { - }$ annihilation through dipion hadronic transitions to low mass charmonium states [1-5]. Many theoretical interpretations have been proposed to understand the underlying structure of the $Y$ family of states,such as hybrid charmonium[6], tetraquark [7],or hadronic molecule [8] etc. The $Y ( 4 3 6 0 )$ was first observed in $e ^ { + } e ^ { - } \\to \\gamma _ { \\mathrm { I S R } } Y ( 4 3 6 0 ) \\to$ $\\gamma _ { \\mathrm { I S R } } \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ by BaBar [4] and subsequently con firmed by Belle [5].Recently, two resonant structures were observed in the processes $e ^ { + } e ^ { - } \\ \\to \\ \\pi ^ { + } \\pi ^ { - } J / \\psi$ at BESIII [9],indicating the $Y ( 4 2 6 0 )$ resonance reported by previous experiments [1-3] actually consists of two structures.There are two resonances observed in the process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } h _ { c }$ [10] in the mass region between 4.2 and $4 . 4 \\ : \\ : \\mathrm { G e V } / c ^ { 2 }$ .The lower mass state, $Y ( 4 2 2 0 )$ ， has a mass consistent with the lower mass state observed in $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } J / \\psi$ [9],but has a somewhat larger width. The higher mass state, $Y ( 4 3 9 0 )$ ，does not match any known vector charmonium or charmoniumlike states. Therefore,a more precise measurement of the cross section of $e ^ { + } e ^ { - } ~ \\to ~ \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ at BESIII will help to clarify the spectrum of vector particles. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In recent years,another mysterious and interesting new pattern of charmoniumlike states,the $Z _ { c } ^ { \\pm }$ 's,have been observed both in final states containing a charged pion and a low mass charmonium state [3,11-13],and in pairs of charmed mesons $( D ^ { ( * ) } \\bar { D } ^ { * } ) ^ { \\pm }$ [14-16]. A similar pattern of states is also observed in the bottomonium system [17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All of these states contain a minimum of four quarks as they are electrically charged and their constituents include a $c c$ pair.They are good candidates for mesonmeson molecules or tightly bound tetraquark states.To clarify their true nature,it is essential to search for this kind of exotic state in other final states.Belle's recently updated result of $e ^ { + } e ^ { - } \\to \\gamma _ { \\mathrm { I S R } } \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ ,using their full data samples,shows evidence for a new $Z _ { c } ^ { \\pm }$ state in the mass spectrum of $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ with a mass around $4 . 0 5 ~ \\mathrm { G e V } / c ^ { 2 }$ and a statistical significance of $3 . 5 \\sigma$ [5].It is important to confirm the existence of this new $Z _ { c } ^ { \\pm }$ candidate in other experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this paper， we present a study of $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ ，with two decay modes $\\begin{array} { r l } { \\psi ( 3 6 8 6 ) } & { { } \\to } \\end{array}$ $\\pi ^ { + } \\pi ^ { - } J / \\psi$ (mode I） and $\\psi ( 3 6 8 6 ) \\  \\ \\mathrm { n e u t r a l s } \\ + \\ J / \\psi$ （20 (mode II)，where ‘neutrals’ refers to $\\pi ^ { 0 } \\pi ^ { 0 } , \\ \\pi ^ { 0 } ,$ $\\eta$ and $\\gamma \\gamma$ ，at center-of-mass (c.m.） energies $\\sqrt { s }$ from 4.008 to 4.600 GeV.The $J / \\psi$ is reconstructed in its prominent decay mode $J / \\psi \\to \\ell ^ { + } \\ell ^ { - }$ ( $\\ell = e / \\mu$ ). The actual c.m.energies are measured by studying the process $e ^ { + } e ^ { - } \\to \\mu ^ { + } \\mu ^ { - }$ [18]. The data samples used in this analysis were collected with the BESIII detector at the BEPCII collider at 16 different c.m.energy points with a total integrated luminosity of 5.1 fb $^ { - 1 }$ [19]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the signal and background MC samples.The $e ^ { + } e ^ { - }$ collision is simulated with the KKMC [23] generator taking into account the beam energy spread and Initial State Radiation (ISR),where the line shape of the $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ cross section is taken from the latest Belle results [5].The QEDFinal State Radiative(FSR) correction for $J / \\psi \\to \\ell ^ { + } \\ell ^ { - }$ is incorporated with PHOTOs [24]. Large signal MC samples $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ as well as the dominant backgrounds are generated exclusively at each c.m.energy，where the decay $\\psi ( 3 6 8 6 ) \\ $ $\\pi ^ { + ( 0 ) } \\pi ^ { - ( 0 ) } J / \\psi$ is simulated with the JPIPI model [25], and the decay $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ is generated with both the JpIPI model and a model distributed uniformly in phase space (PHSP).The JPIPI model is constructed with an effective Lagrangian for the hadronic decays and the coupling constants in the model are obtained by a fit to the invariant $\\pi ^ { + } \\pi ^ { - }$ mass distributions in $\\psi ( 3 6 8 6 ) \\to \\pi ^ { + } \\pi ^ { - } J / \\psi$ . The generic inclusive MC samples at $\\sqrt { s } = 4 . 2 5 8$ and 4.358 GeV,with integrated luminosity equivalent to that of data,are generated to study the potential background contributions,where the known decay modes are generated with EvTGEN [26] with branching fractions set to values in the Particle Data Group (PDG) [27],and the remaining unknown ones are generated with LUNDCHARM [28]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. THEBESIIIEXPERIMENTANDTHEDATA SETS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. EVENTSELECTION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BEPCII is a double-ring $e ^ { + } e ^ { - }$ collider running at c.m.energies between 2.0 and 4.6 GeV,reaching a peak luminosity of $1 . 0 \\times 1 0 ^ { 3 3 } \\mathrm { { c m } ^ { - 2 } \\mathrm { { s } ^ { - 1 } } }$ at a c.m. energy of 3770 MeV. The cylindrical BESIII detector has an effective geometrical acceptance of $9 3 \\%$ of $4 \\pi$ and is divided into a barrel section and two endcaps.It contains a small cell,helium-based (6o% He,40% O $\\mathrm { { \\dot { 3 } } } ^ { \\mathrm { H } _ { 8 } }$ ）main drift chamber (MDC）which provides a momentum measurement of charged particles with a resolution of $0 . 5 \\%$ at a momentum of1 GeV/c in a magnetic field of1 Tesla. The energy loss measurement $( d E / d x )$ provided by the MDC has a resolution better than $6 \\%$ .A time-of-flight system(TOF） consisting of 5-cm-thick plastic scintillators can measure the flight time of charged particles with a time resolution of 80 ps in the barrel and 11O ps in the endcaps.An electromagnetic calorimeter (EMC) consisting of 624O CsI (Tl) in a cylindrical structure and two endcaps is used to measure the energies of photons and electrons. The energy resolution of the EMC is $2 . 5 \\%$ in the barrel and $5 . 0 \\%$ in the endcaps for photon/electrons with an energy of 1 GeV.The position resolution of the EMC is 6 mm in the barrel and 9 mm in the endcaps.A muon system(MUC) consisting of $1 0 0 0 ~ \\mathrm { m } ^ { 2 }$ of Resistive Plate Chambers (RPC)is used to identify muons and provides a spatial resolution better than 2 cm. A detailed description of the BESIII detector can be found in Ref. [20]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The GEANT4-based [21] Monte Carlo (MC) simula tion software package BoosT [22] is used to generate ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The final states of the decay $e ^ { + } e ^ { - } ~ \\to ~ \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ have topologies $\\pi ^ { + } \\pi ^ { - } \\pi ^ { + } \\pi ^ { - } \\ell ^ { + } \\ell ^ { - }$ and $\\pi ^ { + } \\pi ^ { - } \\ell ^ { + } \\ell ^ { - } + \\nonumber$ $N \\gamma$ ( $N \\geq 2$ ）for mode I and II,respectively. A good charged track must have a polar angle $| \\cos \\theta | < 0 . 9 3$ in the MDC,and have the point of closest approach to the interaction point within 1 cm in the plane perpendicular to the beam and within $\\pm 1 0$ cm along the beam. Candidate events are required to have five (with $\\pm 1$ net charge) or six (with zero net charge) charged tracks for mode I and four (with zero net charge) charged tracks for mode II. Photon candidates are reconstructed by clustering EMC energy deposits. They must have a minimum energy of 25 MeV for $| \\cos \\theta | < 0 . 8$ or 50 MeV for $0 . 8 6 < | \\cos \\theta | < 0 . 9 2$ ，and be isolated from all charged tracks by an angle $> 1 0 ^ { \\circ }$ .EMC timing is used to suppress electronic noise and energy deposition unrelated to the event.At least two photon candidates are required for mode I. Since pions and leptons are kinematically well separated for the signal process,charged tracks with momentum $p > 1 . 0$ GeV/ $c$ are assumed to be leptons, while those with $p \\ < \\ 0 . 6 5 \\ \\mathrm { G e V } / c$ are pions． Electron and muon separation is performed with the deposited energy $E$ in the electromagnetic calorimeter.Electrons must have $E / p c > 0 . 7$ ,while muons have $E < 0 . 4 5$ GeV. Candidate events are required to have one lepton pair $\\ell ^ { + } \\ell ^ { - }$ ,and the other tracks must be pions.The number of hits in the muon counter is further required to be not less than 5 for $J / \\psi \\to \\mu ^ { + } \\mu ^ { - }$ candidates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In mode I,a four-constraint (4C) kinematic fit imposing energy-momentum conservation under the $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\pi ^ { + } \\pi ^ { - } \\ell ^ { + } \\ell ^ { - }$ hypothesis is applied for the event candidates with six charged tracks,and a one-constraint (1C) kinematic fit with one missing pion is applied for the candidates with five charged tracks. The corresponding $\\chi ^ { 2 }$ of the fit must be $\\chi _ { 4 C } ^ { 2 } < 6 0$ or $\\chi _ { 1 C } ^ { 2 } < 1 5$ , respectively. The $J / \\psi$ signal appears with low background in the spectrum of the $\\ell ^ { + } \\ell ^ { - }$ invariant mass, $M ( \\ell ^ { + } \\ell ^ { - } )$ ，calculated with the corrected momentum after the kinematic fit,and is required to be within $3 . 0 5 < M ( \\ell ^ { + } \\ell ^ { - } ) < 3 . 1 5 \\mathrm { G e V } / c ^ { 2 }$ # To improve the mass resolution of the $\\psi ( 3 6 8 6 )$ , the selected candidates with six or five good charged tracks are further fed into a five-constraint (5C) or two-constraint (2C) kinematic fit with an additional constraint on $M ( \\ell ^ { + } \\ell ^ { - } )$ to the nominal $J / \\psi$ mass $( M ( J / \\psi ) )$ [27]，respectively. The $\\psi ( 3 6 8 6 )$ signal is reconstructed with the $\\pi ^ { + } \\pi ^ { - } J / \\psi$ system (four combinations per event）whose invariant mass $M ( \\pi ^ { + } \\pi ^ { - } J / \\psi )$ ,calculated with the corrected momentum after the 5C or 2C fit,is closest to the nominal $\\psi ( 3 6 8 6 )$ mass $M ( \\psi ( 3 6 8 6 ) ) )$ [27]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In mode $\\mathrm { I I }$ ，no kinematic fit is applied. The $J / \\psi$ signal is extracted by requiring $3 . 0 5 < M ( \\ell ^ { + } \\ell ^ { - } ) <$ 3.15 $\\mathrm { G e V } / c ^ { 2 }$ ．The $\\psi ( 3 6 8 6 )$ signal is reconstructed using the mass recoiling against the $\\pi ^ { + } \\pi ^ { - }$ system $M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } )$ The requirement $\\mid M _ { \\psi ( 3 6 8 6 ) } ^ { \\mathrm { c o r r } } ~ -$ $M ( \\psi ( 3 6 8 6 ) ) | \\ > \\ 8 \\ M \\mathrm { e V } / c ^ { 2 }$ is imposed to veto the background $e ^ { + } e ^ { - } \\  \\ \\mathrm { n e u t r a l s } + \\psi ( 3 6 8 6 ) \\ ( \\psi ( 3 6 8 6 ) \\ $ $\\pi ^ { + } \\pi ^ { - } J / \\psi ,$ ，where $\\begin{array} { c c c } { { M _ { \\psi ( 3 6 8 6 ) } ^ { \\mathrm { c o r r } } } } & { { = } } & { { M ( \\pi ^ { + } \\pi ^ { - } \\ell ^ { + } \\ell ^ { - } ) } } \\end{array} - \\nonumber$ $M ( \\ell ^ { + } \\ell ^ { - } ) + M ( J / \\psi )$ .A requirement $\\left| M ( \\gamma \\gamma \\pi ^ { + } \\pi ^ { - } ) ~ - \\right.$ $M ( \\eta ) 1 > 5 0 \\mathrm { M e V } / c ^ { 2 }$ is used to eliminate the background $e ^ { + } e ^ { - } \\to \\eta J / \\psi$ 0 $\\eta  \\pi ^ { + } \\pi ^ { - } \\pi ^ { 0 } .$ )，where $\\gamma \\gamma$ are the two photons with largest energy， and $M ( \\eta )$ is the nominal $\\eta$ mass [27]. A requirement $\\cos \\theta _ { \\pi ^ { + } \\pi ^ { - } } < 0 . 9$ is also applied to remove the radiative Bhabha and dimuon background in which a photon converts into a $e ^ { + } e ^ { - }$ pair and is misidentified as a $\\pi ^ { + } \\pi ^ { - }$ pair. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. EXTRACTION OF THEBORNCROSS SECTION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the above selection criteria,a prominent $\\psi ( 3 6 8 6 )$ signal over a small background is observed in the $M ( \\pi ^ { + } \\pi ^ { - } J / \\psi )$ and $M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } )$ spectra for Mode Iand Mode I,respectively,as shown in Fig. 1 for data at $\\sqrt { s } = 4 . 4 1 6$ GeV as an example. Potential backgrounds without a $J / \\psi$ in the final state are explored with events within the $J / \\psi$ sideband regions. Backgrounds including a $J / \\psi$ in the final state are studied with both inclusive and exclusive MC samples.From these studies,no peaking background is expected in the range of interest in the two $\\psi ( 3 6 8 6 )$ decay modes.To determine the signal yields,unbinned maximum likelihood fits are performed to the $M ( \\pi ^ { + } \\pi ^ { - } J / \\psi )$ and $M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } )$ spectra for the two modes,respectively.Here,the signal probability density function (PDF)is described with the MC simulated shape convoluted with a Gaussian function to account for the mass resolution difference between data and MC simulation,and the PDF for background is presented as a linear function.Simultaneous fits to data at 16 different c.m.energies are performed.The c.m.energies share a common background shape and a common data/MC resolution difference. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b134a36bc29a840f608f88c3ba7fafdf2fd9b72ca868de4e7a09124da825596f.jpg",
+        "img_caption": [
+            "FIG.1.Distributions of (left) $M ( \\pi ^ { + } \\pi ^ { - } J / \\psi )$ for mode Iand (right) $M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } )$ for mode I at $\\sqrt { s } = 4 . 4 1 6$ GeV,with the integrated luminosity of $\\mathrm { 1 0 7 4 ~ p b ^ { - 1 } }$ .Dots with error bars are data,the shaded histograms are background from $J / \\psi$ sideband,and the curves are the fit described in the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Born cross section is determined from ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { i } ^ { \\mathrm { B } } = \\frac { N _ { i } ^ { \\mathrm { o b s } } } { \\mathcal { L } _ { \\mathrm { i n t } } \\left( 1 + \\delta ^ { r } \\right) \\left( 1 + \\delta ^ { v } \\right) \\mathcal { B } r _ { i } \\ \\epsilon _ { i } } \\ ( i = 1 , \\ 2 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { i } ^ { \\mathrm { o b s } }$ is the signal yield extracted from the ft, ${ \\mathcal { L } } _ { \\mathrm { i n t } }$ is the integrated luminosity, $1 + \\delta ^ { r }$ is the ISR correction factor, $1 + \\delta ^ { v }$ is the vacuum polarization factor, $_ { B r }$ is the product of the decay branching fractions of the intermediate states in the cascade decay (4.11% for mode I and $2 . 9 5 \\%$ for mode I),and $\\epsilon$ is the detection efficiency. The various numbers used in the Born cross section calculation are summarized in Table I. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Several sources of systematic uncertainty are consideredin the measurement of the Born cross section.The uncertainty in the tracking efficiency for leptons and pions are $1 . 0 \\%$ per track [3O]. The uncertainty in the photon efficiency is $1 . 0 \\%$ per photon [31]. The uncertainty related to the requirement on the number of hits in the muon counter is $4 . 2 \\%$ , determined by studying a control sample of $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } J / \\psi$ .The uncertainty associated with the kinematic fit is estimated with the same technique as in Ref. [32]. The uncertainty associated with the $J / \\psi$ mass requirement is estimated by smearing the $M ( \\ell ^ { + } \\ell ^ { - } )$ distribution of MC samples according to the resolution of $M ( \\ell ^ { + } \\ell ^ { - } )$ in data,and the difference in MC efficiencies is taken as the uncertainty. In mode II, the uncertainties associated with the requirements on $M _ { \\psi ( 3 6 8 6 ) } ^ { c o r r }$ $M ( \\gamma \\gamma \\pi ^ { + } \\pi ^ { - } )$ and $\\cos \\theta _ { \\pi ^ { + } \\pi ^ { - } }$ are evaluated by changing the requirements. The uncertainty associated with the fit procedure is investigated by varying the ft range, replacing the linear function by a second-order polynomial function for the background,and varying the width of the Gaussian function for signal. For data sets with largeluminosity, the detection efficiency is estimated with a MC sample weighted according to the observed Dalitz plot $M ^ { 2 } ( \\pi ^ { + } \\psi ( 3 6 8 6 ) )$ versus $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ .The corresponding uncertaintyis estimated by varying the weight factors according to the statistical uncertainty of data in each bin on the Dalitz plane.For data sets with low luminosity the detection efficiency is estimated using MC samples with the JPIPI model; the corresponding uncertainty is evaluated with large luminosity data sets,by taking the largest difference of efficiencies between the JpIPI model MC sample and their nominal values with weighted MC.The uncertainty related with the ISR correction factor is studied by replacing the input cross section line shape with the latest results from BaBar [4] in KKMC, and the change on $( 1 + \\delta ^ { v } )$ $\\epsilon$ is taken as an uncertainty. The uncertainty in the vacuum polarization factor is $0 . 5 \\%$ taken from a QED calculation [33]. The uncertainty on the integrated luminosity is $1 \\%$ ，determined with large angle Bhabha events [19]. The uncertainties in the decay branching fractions of intermediate states are quoted from the PDG [27]. The uncertainty from others sources,such as lepton separation,trigger efficiency,and FSR are negligible,and are conservatively taken to be $1 . 0 \\%$ . Assuming all sources of systematic are independent,the total uncertainties are obtained by adding the individual values in quadrature,and are in a range between 7.7% to $1 4 . 1 \\%$ and 7.4% to $2 0 . 1 \\%$ , depending on c.m.energy, for mode I and II, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cd6ce2dd3deb12df05dcc9506abb79f7999d0fa3771475ee57a97203c9638d1.jpg",
+        "table_caption": [
+            "TABLE I. Summary of the measurement of the Born cross section $\\sigma ^ { B }$ at individual c.m.energies. The subscript 1 or 2 denotes modeIorII,respectively.Thefirstuncertaintiesarestatistical,andthesecondsystematic.Anupper limitatthe $9 0 \\%$ （20 confidence level(C.L.）isdeterminedbyaprofile likelihood method[29]fordata samples with low signal significance. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>√s(GeV)L(pb-1)</td><td></td><td>Nobs</td><td>∈1 (%)</td><td>Nobs</td><td></td><td></td><td>€2（%）（1+δ）（1+δ）</td><td>σ (pb)</td><td>(pb)</td><td>σB (pb)</td></tr><tr><td>4.008</td><td>482</td><td>0.0±0.6</td><td>22.6</td><td>0.2±2.3</td><td>4.7</td><td>0.70</td><td>1.056</td><td><0.9</td><td><23.3</td><td><0.9</td></tr><tr><td>4.085</td><td>52.6</td><td>4.0±2.0</td><td>36.1</td><td>1.0 ± 1.0</td><td>20.9</td><td>0.75</td><td>1.056</td><td>6.5 ± 3.2 ± 0.9</td><td>3.9±3.9 ±0.3</td><td>5.4± 2.5 ±0.6</td></tr><tr><td>4.189</td><td>43.1</td><td>3.8±2.0</td><td>39.2</td><td>2.8 ±2.2</td><td>27.7</td><td>0.76</td><td>1.056</td><td>6.8±3.6±0.7</td><td>9.9± 7.8 ±1.5</td><td>7.3± 3.3± 0.7</td></tr><tr><td>4.208</td><td>54.6</td><td>8.9 ±3.3</td><td>40.7</td><td>7.0±3.0</td><td>27.5</td><td>0.76</td><td>1.057</td><td>12.2 ± 4.5 ±1.7</td><td>20.0 ±8.4 ±1.9</td><td>14.0 ± 4.0 ±1.5</td></tr><tr><td>4.217</td><td>54.1</td><td>13.0 ± 3.6</td><td>40.9</td><td>0.0±0.7</td><td>27.3</td><td>0.76</td><td>1.057</td><td>17.8 ± 4.9 ±1.5</td><td><30.4</td><td>17.8 ± 4.9 ±1.5</td></tr><tr><td>4.226</td><td>1092</td><td>315±18</td><td>39.2</td><td>141 ± 14</td><td>28.1</td><td>0.76</td><td>1.056</td><td>22.3 ± 1.3 ±1.7</td><td>19.4± 1.9 ± 2.0</td><td>21.3 ± 1.1 ± 1.6</td></tr><tr><td>4.242</td><td>55.6</td><td>11.0 ± 3.3</td><td>41.4</td><td>7.9 ± 3.1</td><td>28.0</td><td>0.76</td><td>1.053</td><td>14.6 ± 4.4 ± 1.3</td><td>21.5 ±8.4± 1.8</td><td>16.0 ± 3.9 ±1.2</td></tr><tr><td>4.258</td><td>826</td><td>241 ±16</td><td>40.3</td><td>84±11</td><td>23.5</td><td>0.76</td><td>1.054</td><td>22.0 ± 1.4±1.7</td><td>18.3 ± 2.5 ± 1.8</td><td>20.9 ± 1.2 ± 1.5</td></tr><tr><td>4.308</td><td>44.9</td><td>17.0 ± 4.2</td><td>41.6</td><td>15.0 ± 4.1</td><td>27.3</td><td>0.74</td><td>1.053</td><td>28.2 ±6.9± 2.6</td><td>53.2 ± 14.5 ± 7.4</td><td>32.1 ± 6.2 ± 2.8</td></tr><tr><td>4.358</td><td>540</td><td>439±21</td><td>41.2</td><td>275±19</td><td>29.8</td><td>0.79</td><td>1.051</td><td>57.8 ± 2.8 ± 4.4</td><td>69.8±4.8±5.2</td><td>61.0± 2.4± 4.3</td></tr><tr><td>4.387</td><td>55.2</td><td>56.6± 7.6</td><td>39.4</td><td>25.7 ± 6.1</td><td>29.4</td><td>0.86</td><td>1.051</td><td>70.1 ± 9.4±6.7</td><td>59.4 ± 14.1 ± 5.6</td><td>66.4± 7.8± 5.5</td></tr><tr><td>4.416</td><td>1074</td><td>693± 27</td><td>37.8</td><td>415 ± 24</td><td>27.4</td><td>0.96</td><td>1.053</td><td>41.0 ± 1.6± 3.2</td><td>47.3 ± 2.7 ± 3.7</td><td>42.8±1.4± 3.0</td></tr><tr><td>4.467</td><td>110</td><td>15.1 ± 4.2</td><td>32.6</td><td>8.3±4.2</td><td>23.9</td><td>1.10</td><td>1.055</td><td>8.8 ± 2.5 ± 1.0</td><td>9.2 ± 4.7 ±1.9</td><td>8.9 ± 2.2 ±0.9</td></tr><tr><td>4.527</td><td>110</td><td>13.4 ± 4.0</td><td>29.1</td><td>7.0 ± 3.6</td><td>20.8</td><td>1.25</td><td>1.055</td><td>7.7 ± 2.3 ± 0.9</td><td>7.8 ± 4.0 ± 1.2</td><td>7.7 ± 2.0±0.8</td></tr><tr><td>4.575</td><td>47.7</td><td>4.5 ± 2.3</td><td>28.3</td><td>5.7 ± 3.2</td><td>20.2</td><td>1.23</td><td>1.055</td><td>6.2±3.2±0.8</td><td>15.4 ± 8.7 ± 1.8</td><td>7.3± 3.0±0.8</td></tr><tr><td>4.600</td><td>567</td><td>106 ±11</td><td>31.8</td><td>71 ±10</td><td>21.5</td><td>1.08</td><td>1.055</td><td>12.6 ± 1.3 ±1.2</td><td>17.2 ± 2.4 ± 1.6</td><td>14.6 ± 1.1 ± 1.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The measured Born cross sectionsof $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ at individual c.m.energies for the two $\\psi ( 3 6 8 6 )$ decay modes are consistent with each other within their uncertainties. The measurements are therefore combined by considering the correlated and uncorrelated uncertainties between the two modes,according to Refs.[34,35]. The comparison of the combined Born cross section of $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ with those from previous experimental results is shown in Fig. 2. The results are consistent with former experiments,and have much improved precision. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/54b8ffc1c08f27eefae9855c8a5d15b80a3ae2e5da751670778c7aee518d5052.jpg",
+        "img_caption": [
+            "FIG.2. Born cross section of $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ ．The dots (red) are the results obtained in this analysis, the triangles(green) and squares (blue) are from BELLE and Babar's latest updated results,respectively.The solid curve is the fit to BESIII results with the coherent sum of three Breit-Wigner functions.The dashed curve (pink) is the fit to BESIII results with the coherent sum of two Breit-Wigner functions without the $Y ( 4 2 2 0 )$ hypothesis. The arrows mark the locations of four energy points with large luminosities. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V. FIT TO THECROSSSECTION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To study the possible resonant structures in $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ ，a binned $\\chi ^ { 2 }$ fit is applied to describe the cross section obtained in this analysis in a energy region from 4.085 GeV to 4.600 GeV.Assuming that three resonances exist,the PDF can be parameterized as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } = f _ { 1 } e ^ { i \\phi _ { 1 } } + f _ { 2 } + f _ { 3 } e ^ { i \\phi _ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { 1 }$ is for the $Y ( 4 2 2 0 )$ ， $f _ { 2 }$ is for the $Y ( 4 3 9 0 )$ ， $f _ { 3 }$ is for the $Y ( 4 6 6 0 )$ ， $\\phi _ { 1 }$ is the phase angle between $Y ( 4 3 9 0 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and $Y ( 4 2 2 0 )$ ,and $\\phi _ { 2 }$ is the phase angle between $Y ( 4 3 9 0 )$ and $Y ( 4 6 6 0 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The amplitude $f _ { i }$ 0 $i = 1 , 2 , 3$ ）for each resonance is a $P$ -wave Breit-Wigner function, defined as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } = \\frac { M _ { i } } { M } \\frac { \\sqrt { 1 2 \\pi B _ { i } \\Gamma _ { i } ^ { e ^ { + } e ^ { - } } \\Gamma _ { i } } } { M ^ { 2 } - M _ { i } ^ { 2 } + i M _ { i } \\Gamma _ { i } } \\sqrt { \\frac { \\Phi ( M ) } { \\Phi ( M _ { i } ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { i }$ is the mass of the resonance, $\\Gamma _ { i } ^ { e ^ { + } e ^ { - } }$ is the partial width to $e ^ { + } e ^ { - }$ ， $\\Gamma _ { i }$ is the total width, $B _ { i }$ is the branching fraction of the resonance decaying to $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ . and $\\Phi ( M _ { i } )$ is the three-body PHSP factor.In the fit, $M _ { i }$ ， $\\Gamma _ { i }$ , the product $B _ { i } \\Gamma _ { i } ^ { e ^ { + } e ^ { - } }$ , and the relative phase angle $\\phi _ { i }$ $( i \\ = \\ 1 , 2$ ）are free parameters. The parameters of the $Y ( 4 6 6 0 )$ are fixed to Belle's latest results [5]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The fit result is shown in Fig.2 as the solid curve and the resulting parameters of the resonances are summarized in Table II. There are two solutions with equally good fit quality, $\\chi ^ { 2 } / \\mathrm { n d f } = 9 . 9 8 / 7$ ,where ndf is the number of degrees of freedom. An alternative fit without $Y ( 4 2 2 0 )$ is performed as shown by the dashed curve in Fig. 2,yielding $\\chi ^ { 2 } / n d f = 5 4 . 5 4 / 1 1$ . The significance of the $Y ( 4 2 2 0 )$ is determined to be $5 . 8 \\sigma$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/00fffd31242af7511218afd3c73858fb6dded20da6b8660413eface3bbb7e49b.jpg",
+        "table_caption": [
+            "TABLE II. Results of the fit to the $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ （204号 cross section. The error is statistical only. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Solution I</td></tr><tr><td>M(Y4220)(MeV/c2) T(Y(4220)) (MeV) Bre+e-(Y(4220))(eV)</td><td>4209.5 ± 7.4 80.1 ± 24.6</td></tr><tr><td>M(Y4390)(MeV/c2)</td><td>0.8±0.7 0.4±0.3 4383.8 ±4.2</td></tr><tr><td>T(Y(4390))(MeV) (eV)</td><td>84.2 ± 12.5</td></tr><tr><td>Bre+e- (Y(4390))</td><td>2.7 ± 1.0</td></tr><tr><td></td><td>3.6 ± 1.5</td></tr><tr><td>1 (rad)</td><td>3.3 ± 1.0</td></tr><tr><td>Φ2 (rad)</td><td>0.8±0.9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The systematic uncertainties accociated with the resonance parameters include the following.The uncertainty from the c.m.energy measurement is studied by taking the uncertainty of the c.m.energy $\\Delta ( { \\sqrt { s } } )$ =0.8 GeV[18] into consideration. The uncertainty due to the c.m.energy spread is estimated by convoluting the fit PDF with a Gaussian function with a width of 1.6 MeV,which is the energy spread determined by the Beam Energy Measurement System [36]. The uncertainty from the fit range is investigated by including the first energy point $\\sqrt { s } ~ = ~ 4 . 0 0 8$ GeV or excluding the energy point $\\sqrt { s } ~ = ~ 4 . 0 8 5$ GeV.The uncertainty from the $Y ( 4 6 6 0 )$ resonance is studied by varying the parameters of the $Y ( 4 6 6 0 )$ within its uncertainties.Table III summarizes the systematic uncertainties for the mass and total width of the resonances $Y ( 4 2 2 0 )$ and $Y ( 4 3 9 0 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A comparison of the masses and widths of the $Y ( 4 2 2 0 )$ and $Y ( 4 3 9 0 )$ determined in this work to those of other vector states observed at BESIII in the mass region between 4.2 and $4 . 4 \\ : \\mathrm { G e V } / c ^ { 2 }$ are shown in Table IV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/28b1f5ac8ebbbe1517605350b9d755b7e452224d6951bd147c2a58546e103d09.jpg",
+        "table_caption": [
+            "TABLE III. Systematic uncertainty in the measurement of resonance parameters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sources</td><td>Y(4220) M(MeV/c²）Γ (MeV)</td><td colspan=\"2\">Y (4390) M(MeV/c²)Γ</td></tr><tr><td>Energy scale</td><td>0.1</td><td></td><td>(MeV) 0.0</td></tr><tr><td>Energy spread</td><td>1.3</td><td></td><td>1.6</td></tr><tr><td>Fit range</td><td>0.2</td><td></td><td>0.5</td></tr><tr><td>Y(4660)</td><td>0.6</td><td></td><td>1.2</td></tr><tr><td>Total</td><td>1.4</td><td></td><td>2.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VI. STUDYOFINTERMEDIATESTATES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Intermediatestatesintheprocess $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ are investigated in the data samples that have large integrated luminosity. A requirement of $3 . 6 8 < M ( \\pi ^ { + } \\pi ^ { - } J / \\psi ) ( M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } ) ) < 3 . 7 0 \\mathrm { G e V } / c ^ { 2 }$ is applied to extract the $\\psi ( 3 6 8 6 )$ signal,and the sideband regions, $3 . 6 3 < M ( \\pi ^ { + } \\pi ^ { - } J / \\psi ) ( M ^ { \\mathrm { r e c o i l } } ( \\pi ^ { + } \\pi ^ { - } ) ) <$ $3 . 6 5 \\ \\mathrm { G e V } / c ^ { 2 }$ or $3 . 7 3 < M ( \\pi ^ { + } \\pi ^ { - } J / \\psi ) < 3 . 7 5 \\mathrm { G e V } / c ^ { 2 }$ are used to explore the potential non- $\\psi ( 3 6 8 6 )$ backgrounds，where only the left side sideband region is used in mode II since a long tail appears on the right side of the $\\psi ( 3 6 8 6 )$ signal due to ISR. The non- $\\psi ( 3 6 8 6 )$ backgrounds are found to be small,and do not produce peaks in the various distributions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the above selection criteria, the Dalitz plots of $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ versus $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ and the corresponding one-dimensional projections are shown in Fig.3 for data samples at $\\sqrt { s } = 4 . 4 1 6 , 4 . 3 5 8 , 4 . 2 5 8$ and 4.226 GeV, individually,where the plots include the candidates of the two $\\psi ( 3 6 8 6 )$ decay modes.It should be noted that the two higher energy points are from the $Y ( 4 3 9 0 )$ peak region,while the other two are from the $Y ( 4 2 2 0 )$ peak region.These four points are marked with vertical arrows in Fig. 2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For data at $\\sqrt { s } ~ = ~ 4 . 4 1 6$ GeV，a prominent narrow structure is observed around 4030 MeV/ $c ^ { 2 }$ in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum.The structure is also evident in the corresponding Dalitz plot,but it appears to be more complex when looking at high and low $M ( \\pi ^ { + } \\pi ^ { - } )$ ranges. In the low $M ( \\pi ^ { + } \\pi ^ { - } )$ region,there seem to be two separate $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ structures,presumably corresponding to a physical structure and its kinematic reflection. But in the high $M ( \\pi ^ { + } \\pi ^ { - } )$ region,only one broad $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ structure is seen. For data at $\\sqrt { s } =$ 4.358 GeV，there is no obvious structure observed in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum,but a cluster of events appear in the low $M ( \\pi ^ { + } \\pi ^ { - } )$ region on the corresponding Dalitz plot. It is worth noting that，at this c.m.energy,a physical structure with a mass of $4 0 3 0 ~ \\mathrm { M e V } / c ^ { 2 }$ （204号 in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum has a reflection at the same mass position.For data at $\\sqrt { s } = 4 . 2 5 8$ GeV,two bumps around 39oo and $4 0 3 0 \\mathrm { M e V } / c ^ { 2 }$ are visible in both the Dalitz plot and in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum. For data at $\\sqrt { s } = 4 . 2 5 8$ GeV，the possible structures with masses of 3900 and $4 0 3 0 ~ \\mathrm { M e V } / c ^ { 2 }$ in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ （20 spectrum have kinematic reflections at each other's mass positions. For data at $\\sqrt { s } = 4 . 2 2 6$ GeV,no structure is clearly seen,which is very different from the behavior at the energy point close by, $\\sqrt { s } = 4 . 2 5 8$ GeV.A further striking feature for data at $\\sqrt { s } = 4 . 2 2 6$ GeV is a very different $M ( \\pi ^ { + } \\pi ^ { - } )$ distribution from those at the other three energy points. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f819f185ea0cd1c0922fa66916179f7dc8022577332fc9697b5ef6bc39ae0fc.jpg",
+        "table_caption": [
+            "[ABLEIV.Massesand widthsof the vectorcharmonium statesobserved from diferent procesesat BESIIinthe massregion between4.2and $4 . 4 \\ : \\mathrm { G e V } / c ^ { 2 }$ .The subscript 1 or 2 denotes the lower mass state or higher mass state. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Process</td><td>M1 (MeV/c²)</td><td>Γ1 (MeV)</td><td>M2 (MeV/c²)</td><td>I2 (MeV)</td></tr><tr><td>e+e-→wxco</td><td>4230±8±6</td><td>38 ±12 ±2 [37]</td><td></td><td></td></tr><tr><td>e+e- →π+π-J/φ</td><td>4220.0 ± 3.1 ± 1.4</td><td>44.1 ± 4.3± 2.0</td><td>4320.0±10.4 ± 7.0</td><td>101.4+25.3± 10.2[9]</td></tr><tr><td>e+e−→π+π-hc</td><td>4218.4±0.9</td><td>66.01±0.4</td><td>4391.568 ±1.0</td><td>139.58 5-20.6±0.6 [10]</td></tr><tr><td>e+e− →π+DD*- +c.c</td><td>4224.8 ± 5.6 ± 4.0</td><td>72.3 ± 9.1± 0.9</td><td>4400.1 ± 9.3 ± 2.1</td><td>181.7 ± 16.9 ± 7.4 [38]</td></tr><tr><td>e+e−→π+πγ(3686)</td><td>4209.5 ± 7.4± 1.4</td><td>80.1 ± 24.6 ± 2.9</td><td>4383.8 ± 4.2 ±0.8</td><td>84.2 ± 12.5 ± 2.1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/16c166d2d3c845d638edf4896f3b98a6dfaa75972f7b00065c7aa5617fd5479c.jpg",
+        "img_caption": [
+            "FIG.3.Dalitz plots of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ versus $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ ，distributions of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ (two entries per event),and $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ for data at $\\sqrt { s } = 4 . 4 1 6$ ,4.358,4.258 and 4.226 GeV,with integrated luminosities of 1074, 540,826 and $1 0 9 2 \\mathrm { p b } ^ { - 1 }$ ,respectively.Dots with errors are data. For the plots at $\\sqrt { s } = 4 . 4 1 6$ ,4.358 and 4.258 GeV, the solid curves (red)are projections from the fit;the dashed curves (pink)show the shape of the intermediate state;the dash-dotted curves (blue） show the shape from the direct process $e ^ { + } e ^ { - } ~ \\to ~ \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ obtained from the JPIPI MC model; the shaded histograms (green） show the non- $\\psi ( 3 6 8 6 )$ background estimated with the $\\psi ( 3 6 8 6 )$ sideband.For plots at $\\sqrt { s } = 4 . 2 2 6$ GeV,the dashed (pink) and dash-dotted (blue) curves show the shapes from the intermediate state and the direct process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ (with arbitrary scale).In all plots, the two $\\psi ( 3 6 8 6 )$ decay modes are combined. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tocharacterizethestructure observed on the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum for data at $\\sqrt { s } = 4 . 4 1 6$ GeV, an unbinned maximum likelihood fit is carried out on the Dalitz plot of $M ^ { 2 } ( \\pi ^ { + } \\psi ( 3 6 8 6 ) )$ versus $M ^ { 2 } ( \\pi ^ { - } \\psi ( 3 6 8 6 ) )$ （20 (denoted as $x$ and $y$ in formula 4). Assuming an intermediate state with spin parity $1 ^ { + }$ ，the Dalitz plot is parameterized by the coherent sum of the process with an intermediate state and the direct process $e ^ { + } e ^ { - } \\to$ $\\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ .The PDF of the intermediate state is described with an $S$ -wave Breit-Wigner function without considering interference among the charged conjugate modes, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { p \\cdot q / c ^ { 2 } } { ( M _ { R } ^ { 2 } - x ) ^ { 2 } + M _ { R } ^ { 2 } \\cdot \\Gamma ^ { 2 } / c ^ { 4 } } + \\frac { p \\cdot q / c ^ { 2 } } { ( M _ { R } ^ { 2 } - y ) ^ { 2 } + M _ { R } ^ { 2 } \\cdot \\Gamma ^ { 2 } / c ^ { 4 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $p$ 0 $( q )$ is the $\\psi ( 3 6 8 6 )$ (intermediate state) momentum in the $\\pi ^ { \\pm } \\psi ( 3 6 8 6 )$ (initial $e ^ { + } e ^ { - }$ ）rest frame,and $M _ { R }$ and $\\Gamma$ are the mass and width of the intermediate state. The 2-dimensional mass resolution and the detection efficiency, determined from MC simulations,are incorporated in the PDF for the intermediate states in the fit.The PDF of the direct process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ is taken from a MC-simulated shape using the JPIPI model, and that of the non- $\\psi ( 3 6 8 6 )$ background is described with the distribution of events in the $\\psi ( 3 6 8 6 )$ sideband region.A simultaneous fit constraining the mass and width of the intermediate state is carried out by maximize the product of the likelihood values of the two $\\psi ( 3 6 8 6 )$ decay modes. The fit process is validated using MC samples. The distributions of mass resolution and detection efficiency are provided in the appendix. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The fit yields a mass of $M = 4 0 3 2 . 1 \\pm 2 . 4 ~ \\mathrm { M e V } / c ^ { 2 }$ and a width of $\\Gamma = 2 6 . 1 \\pm 5 . 3$ MeV for the intermediate state with a significance of $9 . 2 \\sigma$ , evaluated by comparing the likelihood values with or without the intermediate states included. The fit projections on $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ （20 and $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ for data at $\\sqrt { s } = 4 . 4 1 6$ GeV are shown in Fig.3.It can be seen that the overall fit curve does not match the peaking structure on the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum in data,and the corresponding confidence level (C.L.) of the fit is only 8%,as estimated by toy-MC tests.Alternative fits with different assumptions of the spin parity of the intermediate state,including the interference among the charge conjugated modes,and including the contribution of $Z _ { c } ( 3 9 0 0 ) ^ { \\pm }$ are explored.In these fits the parameters of the intermediate state are close to the norminal fit result and the fit qualities are not improved significantly. As shown in the Dalitz plot, the behavior of the structure is very different between the high $M ( \\pi ^ { + } \\pi ^ { - } )$ region and the low $M ( \\pi ^ { + } \\pi ^ { - } )$ region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A similar fit to data with the additional requirement $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } ) > 0 . 3$ (GeV/c²)² is performed,which yields a mass of $M = 4 0 3 0 . 3 \\pm 0 . 1$ MeV/ $c ^ { 2 }$ and a width of $\\Gamma = 5 . 1 \\pm 0 . 2$ MeV. The corresponding projection of the fit and data on the $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ distribution is shown in Fig. 4,and the fit C.L.is $5 0 \\%$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d1b3ced75137f5dd43db1da53c68defd4a0b6da66773a39e18cba819b054171.jpg",
+        "img_caption": [
+            "FIG.4.Projection of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ at $\\sqrt { s } = 4 . 4 1 6$ GeV with a requirement of $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } ) > 0 . 3 ( \\mathrm { G e V } / c ^ { 2 } ) ^ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similar fits are carried out to data at $\\sqrt { s } ~ = ~ 4 . 3 5 8$ and 4.258 GeV,where the parameters of the intermediate state are fixed to those from the ft to data at $\\sqrt { s } = 4 . 4 1 6$ GeV.The projections on $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ and $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ are also shown in Fig.3. The statistical significance of the intermediate state is $3 . 6 \\sigma$ and $9 . 6 \\sigma$ for data at $\\sqrt { s } \\ : = \\ : 4 . 3 5 8$ and 4.258 GeV,respectively. For data at $\\sqrt { s } = 4 . 3 5 8$ GeV,as shown in the Dalitz plot, a cluster of events appears in the $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum at low $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ ，which also shows a hint of an intermediate structure.As mentioned previously, for data at $\\sqrt { s } ~ = ~ 4 . 2 5 8$ GeV，the structures with masses of 3900 and $4 0 3 0 ~ \\mathrm { M e V } / c ^ { 2 }$ on the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum are kinematic reflections of each other,so the fit results are strongly dependent on whether the $Z _ { c } ( 3 9 0 0 ) ^ { \\pm }$ is included in the fit or not.For data at $\\sqrt { s } = 4 . 2 2 6$ GeV, an intermediate state with a mass of 4o3o MeV and its reflection are very close to the kinematic boundary of the three-body decay, so no obvious peak is observed in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum.The anomalous distribution on the $M ( \\pi ^ { + } \\pi ^ { - } )$ spectrum is,however,discussed in Ref. [39]. For the other energy points with high statistics,such as $\\sqrt { s } = 4 . 3 8 7$ and 4.600 GeV, the Dalitz plots and the distribution of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ and $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ are shown in Fig. 5. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VII. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary, based on $5 . 1 ~ \\mathrm { f b ^ { - 1 } }$ of $e ^ { + } e ^ { - }$ collision data with c.m.energies between 4.008 and 4.600 GeV，collected with the BESIII detector,the Born cross sections of $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ are measured. The measured cross sections are in good agreement with those from Babar and Belle [4,5],but with significantly improved precision.The cross section is fit with three coherent Breit-Wigner functions. The parameters of two resonances，the $Y ( 4 2 2 0 )$ and $Y ( 4 3 9 0 )$ ,are determined from the fit to be $M = 4 2 0 9 . 5 \\pm 7 . 4 \\pm 1 . 4 ~ \\mathrm { M e V } / c ^ { 2 }$ and $\\Gamma = 8 0 . 1 \\pm 2 4 . 6 \\pm 2 . 9$ MeV for the $Y ( 4 2 2 0 )$ ，and $M =$ $4 3 8 3 . 8 { \\pm } 4 . 2 { \\pm } 0 . 8 ~ \\mathrm { M e V / c ^ { 2 } }$ and $\\Gamma = 8 4 . 2 \\pm 1 2 . 5 \\pm 2 . 1$ MeV for the $Y ( 4 3 9 0 )$ ，where the first errors are statistical and the second systematic. The resonance $Y ( 4 2 2 0 )$ is observed in the process $e ^ { + } e ^ { - } ~ \\to ~ \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ for the first time with a significance of $5 . 8 \\sigma$ .Both of the resonances $Y ( 4 2 2 0 )$ and $Y ( 4 3 9 0 )$ are consistent with the vector resonances observed in $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } h _ { c }$ [10].The $Y ( 4 2 2 0 )$ state is possibly the same state as observed in $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } J / \\psi$ [9] and $e ^ { + } e ^ { - } \\to \\omega \\chi _ { c 0 }$ [37], and an attempt was made with a combined fit to the $e ^ { + } e ^ { - } \\to \\omega \\chi _ { c 0 }$ ， $\\pi ^ { + } \\pi ^ { - } J / \\psi$ ， $\\pi ^ { + } \\pi ^ { - } h _ { c }$ ，and $\\pi ^ { + } D ^ { 0 } D ^ { * - } + c . c$ cross sections measured by BESIII to determine the resonant parameters of the $Y ( 4 2 2 0 )$ [40].Peaking at a similar mass was also observed in the process $e ^ { + } e ^ { - } \\to \\eta J / \\psi$ [41] at BESIII. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/81ada61d14713d59442fcfe2551a8ef4251d8500abda78500dc0460b0d964f4a.jpg",
+        "img_caption": [
+            "FIG.5.Dalitz plots of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ versus $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ ，distributions of $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ (two entries per event)，and $M ^ { 2 } ( \\pi ^ { + } \\pi ^ { - } )$ for data at $\\sqrt { s } = 4 . 3 8$ and 4.60o GeV,Dots with errors are data,the dashed (pink) and dash-dotted (blue) curves show the shapes from intermediate state and direct process $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ (with arbitrary scale). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A charged charmonium-like structure is observed in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum for data at $\\sqrt { s } = 4 . 4 1 6$ GeV. A fit to the structure,assuming the existence of a spinparity $1 ^ { + }$ charmonium-like state,yields a mass $M \\ =$ $4 0 3 2 . 1 { \\pm } 2 . 4 \\mathrm { M e V } / c ^ { 2 }$ ,where the errors are statistical only. However, the fit cannot describe data well.The width of the intermediate state varies over a wide range for different kinematic regions of data at $\\sqrt { s } ~ = ~ 4 . 4 1 6$ GeV. Similar fits are carried out to data at $\\sqrt { s } = 4 . 2 5 8$ and 4.358 GeV,where there is also evidence for the new structure at 4030 MeV/ $c ^ { 2 }$ in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectra.For data at $\\sqrt { s } ~ = ~ 4 . 2 2 6$ GeV,no obvious structure in the $M ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ spectrum is observed,but the $M ( \\pi ^ { + } \\pi ^ { - } )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "spectrum shows an anomalous distribution. The measured mass of the intermediate state deviates from that of the structure observed by Belle with their full data sample [5]by over $3 \\sigma$ . Larger data sets,as well as additional theoretical input,are necessary for further understanding of the intermediate structures in $e ^ { + } e ^ { - } \\to \\pi ^ { + } \\pi ^ { - } \\psi ( 3 6 8 6 )$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VIII. ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The BESIII collaboration thanks the staff of BEPCII, the IHEP computing center and the supercomputing center of USTC for their strong support. This work issupported in part by National Key Basic Research Program of China under Contract No. 2O15CB856700; National Natural Science Foundation of China (NSFC) under Contracts Nos.11235011，11322544，11335008, 11375170，11275189，11425524，11475164，11475169, 11625523，11605196，11605198，11635010；the Chinese Academy ofSciences(CAS) Large-Scale Scientific Facility Program；the CAS Center for Excellence in Particle Physics (CCEPP)；Joint Large-Scale Scientific Facility Funds of the NSFC and CAS under Contracts Nos.U1332201，U1532257，U1532258，U1532102；CAS under Contracts Nos. KJCX2-YW-N29，KJCX2-YWN45，QYZDJ-SSW-SLH003；100 Talents Program of CAS;National 10oo Talents Program of China; INPAC andShanghaiKeyLaboratory forParticlePhysics and Cosmology;German Research Foundation DFG under Contracts Nos.Collaborative Research Center CRC 1044,FOR 2359; Istituto Nazionale di Fisica Nucleare, Italy;Joint Large-Scale Scientific Facility Funds of the NSFC and CAS;Koninklijke Nederlandse Akademie vanWetenschappen(KNAW) under ContractNo. 530-4CDPO3;Ministry of Development of Turkey under ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Contract No.DPT2006K-120470； National Natural Science Foundation of China (NSFC)；National Science and Technology fund; The Swedish Resarch Council;U. S.Department of Energy under Contracts Nos. DEFG02-05ER41374， DE-SC-0010118， DE-SC-0010504, DE-SC-0012069; University of Groningen (RuG) and the Helmholtzzentrum fuer Schwerionenforschung GmbH (GSI),Darmstadt;WCU Program of National Research Foundation of Korea under Contract No. R32-2oo8-000- 10155-0. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix A:Distribution of $\\epsilon ( x , y )$ and $\\sigma ( x , y )$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Eq. A1， the fit procedure can be carried out by the Breit-Wigner function for $M ^ { 2 } ( \\pi ^ { + } \\psi ( 3 6 8 6 ) )$ and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]B.Aubert et al. [BaBar Collaboration]，Phys. Rev. Lett：95，142001 (2005)；J.P. Lees et al.[BaBar Collaboration], Phys. Rev.D 86,051102(R) (2012);   \n[2] Q.He et al.[CLEO Collaboration],Phys. Rev.D 74, 091104(R) (2006);   \n[3] C.Z.Yuan et al. [Belle Collaboration],Phys.Rev.Lett. 99,182004 (2007); Z. Q. Liu et al. [Belle Collaboration], Phys.Rev.Lett.110,252002 (2013).   \n[4] B.Aubert et al. [BaBar Collaboration],Phys.Rev.Lett. 98,212001 (2007); Phys.Rev.D 89,111103 (2014).   \n[5]X.L.Wang et al.[Belle Collaboration],Phys.Rev.Lett. 99,142002 (2007); Phys.Rev.D 91,112007 (2015).   \n[6] F.E.Close and P.R.Page，Phys.Lett.B 628，215 (2005);   \n[7] L.Maiani,V.Riquer,F. Piccinini and A.D. Polosa, Phys.Rev.D 72,031502 (2005);   \n[8] M.B.Voloshin and L.B.Okun，JETP Lett.23，333 (1976);A.De Rujula,H.Georgi and S.L.Glashow, Phys. Rev. Lett. 38, 317 (1977); X. Liu, X. Q. Zeng and X. Q. Li,Phys.Rev.D 72,054023 (2005);   \n[9] M.Ablikim et al. [BESIII Collaboration],Phys.Rev. Lett.118,092001 (2017).   \n[10]M.Ablikim et al.[BESIII Collaboration],Phys.Rev. Lett.118,092002 (2017).   \n[11]M.Ablikim et al.[BESIII Collaboration]，Phys.Rev. Lett.110,252001 (2013).   \n[12] T.Xiao et al.,Phys.Lett.B 727,366 (2013).   \n[13] M.Ablikim et al. [BESIII Collaboration],Phys.Rev. Lett.111,242001 (2013).   \n[14] M.Ablikim et al.[BESIII Collaboration],Phys.Rev. Lett.112,022001 (2014).   \n[15]M.Ablikim et al.[BESIII Collaboration],Phys.Rev.D 92,092006 (2015).   \n[16]M.Ablikim et al.[BESIII Collaboration]，Phys.Rev. Lett.112,132001 (2014)   \n[17]A.Bondar et al.[Belle Collaboration],Phys.Rev.Lett. 108,122001(2012).   \n[18] M.Ablikim et al. [BESIII Collaboration],Chin.Phys.C 40,063001 (2016).   \n[19]M.Ablikim et al.[BESIII Collaboration],Chin.Phys.C 39,093001 (2015). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$M ^ { 2 } ( \\pi ^ { - } \\psi ( 3 6 8 6 ) )$ (denoted as $x$ and $y$ ） convoluted with a resolution function $\\sigma ( x )$ ， $\\sigma ( y )$ ，respectively,and then each of them multiplies by a flat polynomial on $y$ and $x$ to form a 2-dimensional function. The signal shape can then be obtained by multiplying a 2-dimensional resolution function $\\epsilon ( x , y )$ after adding the above two 2- dimensional functions together. ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( x , y ) \\cdot ( { \\frac { p \\cdot q } { ( M _ { R } ^ { 2 } - x ) ^ { 2 } + M _ { R } ^ { 2 } \\cdot \\Gamma ^ { 2 } } } + { \\frac { p \\cdot q } { ( M _ { R } ^ { 2 } - y ) ^ { 2 } + M _ { R } ^ { 2 } \\cdot \\Gamma ^ { 2 } } } ) \\otimes \\sigma ( x , y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The resolution for distributions $M ^ { 2 } ( \\pi ^ { + } \\psi ( 3 6 8 6 ) )$ and $M ^ { 2 } ( \\pi ^ { - } \\psi ( 3 6 8 6 ) )$ are shown in Fig.6 for c.m.energies $\\sqrt { s } = 4 . 4 1 6$ ，4.358,4.258 and 4.226 GeV. It can be parameterised by a double-Gaussian with the parameters listed in Table V.The distributions of 2-dimensional efficiency function are shown in Fig.7. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20] M.Ablikim et al. [BESIII Collaboration],Nucl. Instrum. Meth.A 614,3 (2010).   \n[21] S. Agostinelli et al. [GEANT4 Collaboration]， Nucl. Instrum.Meth.A 506,250 (2003).   \n[22] Z.Y.Deng et al.,HEP&NP 30,371 (2006).   \n[23] S. Jadach, B.F.L. Ward,and Z. Was,Phys. Rev. D 63, 113009 (2001).   \n[24] E.Barberio and Z.Was,Comput.Phys.Commum.79, 219 (1994).   \n[25] T. Mannel and R. Urech,Z. Phys. C 73,541 (1997); S. Chakravarty and P.Ko,Phys.Rev.D 48,1205 (1993); S. Chakravarty, S.M.Kim and P.Ko, Phys.Rev.D 50, 389 (1994).   \n[26] R. G. Ping, Chin. Phys. C 32,599 (2008); D. J. Lange, Nucl.Instrum.Meth.A 462,152 (2001).   \n[27] K.A. Olive et al. [Particle Data Group],Chin. Phys. C, 38, 090001 (2014).   \n[28] J. C. Chen,G. S.Huang,X.R.Qi, D.H. Zhang and Y. S.Zhu,Phys.Rev.D 62,034003 (2000).   \n[29] W.A.Rolke et al.Nucl.Instrm.Meth.A 551,493 (2005).   \n[30]MAblikim et al.[BESIII Collaboration]，Phys.Rev. Lett．112，022001 (2014)；Phys.Rev.D 83，112005 (2015).   \n[31]M.Ablikim et al.[BESIII Collaboration],Phys.Rev.D 81,052005 (2010).   \n[32] M.Ablikim et al.[BESII Collaboration],Phys.Rev.D 87,012002 (2013).   \n[33] E.A. Kuraev and V. S.Fadin,Sov.J. Nucl. Phys. 41, 466 (1985)[Yad.Fiz.41,733 (1985)].   \n[34] G.D'Agostini,Nucl. Instrum.Meth.A 346,306 (1994).   \n[35]M.Ablikim et al.[BESIII Collaboration],Phys.Rev.D 89, 074039 (2014).   \n[36]E.V.Abakumova et al.Nucl.Instrum.Meth.A 659,21 (2011).   \n[37]M.Ablikim et al.[BESII Collaboration]，Phys.Rev. Lett.114,092003 (2015).   \n[38] Chang-Zheng Yuan forthe BESIII Collaboration, 2 $e ^ { + } e ^ { - }$ annihilation cross sectionmeasurements at BESIII\", talk at\"the1Othworkshopof theFrance ChinaParticlePhysicsLaboratory\" http://indico.ihep.ac.cn/event/6651/timetable/#2( \\*\\*\\*\\* 2000 \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*   \n(a) (b) 2500 （c） 1500 2000   \n100000 1 1500 1000 500   \n8.0 -0.05 0.00 0.05 0.10 0.15 -8.0 -0.05 0.00 0.05 0.10 0.15 .8.10 -0.05 0.00 0.05 0.10 0.15 △(M(πy(3686))) (GeV/c)2 △(M(π+y(3686))) (GeV/c²)² △(M(π=y(3686))) (GeV/c²)² 85 6 \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* 1   \n800 1000 1   \n00 800 ssuen 600 400   \n200F 11 200 400 0 -8   \n-8.10 -0.05 0.00 0.05 0.10 0.15 -8.10 -0.05 0.00 0.05 0.10 0.15 -0.05 0.00 0.05 0.10 0.15 △(M(π+y(3686)) (GeV/c2)² △(M(π+y(3686))) (GeV/c²)2 △(M(πy(3686))) (GeV/c)2 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/d42b1cc31b70d1dc8f718c8a5e000ffdf6db523079fe59a88987a652a49d45fc.jpg",
+        "table_caption": [
+            "TABLE V. Parameters of the resolution for $M ^ { 2 } ( \\pi ^ { \\pm } \\psi ( 3 6 8 6 ) )$ ， $M$ and $\\sigma$ are the mean and resolution of Gaussian function respectively. The subscript 1 or 2 denote Gaussian function one or two. $f r a$ is the fraction of Gaussian function one. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>√s (GeV)</td><td>Mi (GeV/c²)²</td><td>σ1 (GeV/c²)2</td><td>M2 (GeV/c²)²</td><td>02 (GeV/c²)²</td><td>fra</td></tr><tr><td>4.416 (Mode I)</td><td>0.00088 ± 0.00017</td><td>0.01611 ± 0.00016</td><td>0.0377 ± 0.0014</td><td>0.0543 ± 0.0010</td><td>0.7862±0.0064</td></tr><tr><td>4.416 (Mode II)</td><td>0.00014 ± 0.00047</td><td>0.01918 ± 0.00031</td><td>0.0581 ± 0.0046</td><td>0.0311 ± 0.0023</td><td>0.841 ± 0.019</td></tr><tr><td>4.358 (Mode I)</td><td>0.00114 ± 0.00015</td><td>0.01585 ± 0.00014</td><td>0.0376 ± 0.0013</td><td>0.0567 ± 0.0010</td><td>0.7809 ± 0.0057</td></tr><tr><td>4.358 (Mode II)</td><td>0.00011 ± 0.00037</td><td>0.01839 ± 0.00029</td><td>0.0508 ± 0.0049</td><td>0.0335 ± 0.0021</td><td>0.839 ± 0.020</td></tr><tr><td>4.258 (Mode I)</td><td>0.00037 ± 0.00012</td><td>0.01562 ± 0.00011</td><td>0.0326 ±0.0010</td><td>0.05346 ± 0.00079</td><td>0.7974 ± 0.0048</td></tr><tr><td>4.258 (Mode II)</td><td>-0.001167 ± 0.00026</td><td>0.01724 ± 0.00023</td><td>0.0432 ± 0.0032</td><td>0.0344 ± 0.0013</td><td>0.841 ± 0.014</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "March 27-30, 2017,Tsinghua University,Beijing,China. [39] M.B.Voloshin，JETPLett.37，69(1983); V.V.Anisovich，D.V. Bugg，A.V.Sarantsev and B. S. Zou, Phys.Rev.D 51,R4619 (1995). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "95,092007 (2017). [41]M.Ablikim et al.[BESIII Collaboration],Phys.Rev.D 91,112005 (2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[40]X.Y.Gao,C.P. Shen and C.Z.Yuan,Phys.Rev.D ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f73b21baffa2f6daa922c989ec0c88cbb07b71e12b8ba1b050cb046f733d6b6.jpg",
+        "img_caption": [
+            "FIG.7. The 2-dimensional efficiency curve $\\epsilon ( x , y )$ for $M ^ { 2 } ( \\pi ^ { + } \\psi ( 3 6 8 6 ) )$ versus $M ^ { 2 } ( \\pi ^ { - } \\psi ( 3 6 8 6 ) )$ at (a) 4.416, (b) 4.358,(c) 4.258 and (d) $4 . 2 2 6 ~ \\mathrm { G e V }$ .The upper plots for mode I and bottom for mode II. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b81b3b00624e618c0eb72cc45959e246446c1313e2c6791564b4360375038aa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/f72f4d2e33b46be08e0ef4435d01b35260e664cea039e17a50d51477f5565c18.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebc6e5bbd20d2101efc02ab496cfc84a0087db7c4a71e12c291c9d24a2a3eab1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb8659bb67933c022b10791298379edc085905af3d37dfd13d2450ec7e1bdfc0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.0   \n0.3 三 \" 1.5   \n0.2 1.0   \n0.1 0.5   \n0.0 0.0 15.0 15.5 16.0 16.5 M² $( \\Psi ( 3 6 8 6 ) \\pi ^ { \\pm } )$ (GeV/c2)2 ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/71df9ea6c35ae0350a4e8de384e9013c7dd942a4994e7f223b4d06043b4db3a7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/76ea10488e61f51d054fccb6a3303629dae860132c2dd08e6059e12bcb38532c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/f19dc80e4f90e4874b22bb2a12d11867b66ced7120e475c04bf5cb52055e1472.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    }
+]

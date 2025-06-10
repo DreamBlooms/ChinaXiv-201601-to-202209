@@ -1,0 +1,179 @@
+# 国史知识的语义揭示与组织方法研究
+
+# 王颖张智雄 孙辉雷枫
+
+摘要深人开展中华人民共和国国史的教育和研究一直是各方高度重视的工作。将国史知识进行语义揭示和组织,对于国史的教育和研究具有重要意义。在参考相关研究成果的基础上,本文提出了“向下挖掘,向上组织”的国史知识语义揭示与组织方法。这一方法以国史本体为基础，在对隐藏于国史资源文本条目中的国史知识对象和相关事实进行语义挖掘和揭示的基础之上，通过国史知识对象的关联,构建国史知识网络,并基于时间、类属、层级及统计等关系,对国史知识内容进行更高层次的多维组织展示,并基于这一思路开发了相应的系统平台，实现了国史知识的揭示、重组和其他创新应用。本文所提出的国史知识语义揭示和组织方法对其他类型知识的开发利用具有参考价值。图7。参考文献12。
+
+关键词 国史本体文本挖掘知识组织分 G250
+
+# A Method of Semantic Representation and Organization of the His toric Knowledge on Contemporary China
+
+6WANG Ying， ZHANG Zhixiong， SUN Hui & LEl Feng
+
+China has a huge volume of historic resources on its contemporary history. However the organization of those historic resources is not satisfactory.Lots of valuable knowledge are hidden in those resources and can not bediscovered and utilized easily.It isan urgent problem to mine the implicit semantic knowledge scattered in a large number of historic resources and to organize the knowledge based on its internal relations.The authorsbelieve that it will benefit the education and research of contemporary China history to represent and organize those historic resources semanticly.Based on the historic encyclopedia of the contemporary China, the authors try to explore anew method to semantically represent and organize the historic knowledge hidden in the text resources，soas to help the users to represent the historic knowledge in a fine-grained manner, to reorganize the historic knowledge in a more semanticly enriched way，and to develop more innovative applicationby using the historic knowledge.
+
+On the basis of related researches，this paper proposes a method，which is called“Mining down,Organizing up”,to represent and organize historic knowledge on contemporary China.Based on contemporary Chinese historic ontology，this method extracts knowledge objects and facts from the unstructured historic text items,forms a historic knowledge network of the contemporary China,and realizes the multidimensional knowledge organization ona higher level bythe relations such as time，subclass,hierarchy，and statistics. Aiming at the key problems in the method,this paper puts forward specific procedures of representing and organizing historic knowledge of the contemporary China.Firstlly，the paper builds an ontology conceptual model as the basic organization mode dscribing the skeleton of historic knowledge of the contemporary China； Secondly，the paper determines core objects to populate ontology instance library served as corpus for automatic identification.After that,the paper extracts facts automaticaly from text items by unitilizing text mining technology，then ensures the reliability of these facts through judgment and complement of domain experts；Moreover,the paper builds historic knowledge network based on the association among knowledge objects；Finally，the paper realizes multidimensional knowledge organization on the basis of the network.
+
+Based on this method，the authors represented and organized historic knowledge of the contemporary China from text resources，and developed a system to implement historic knowledge visualization,reorganization and other new applications including knowledge maps，relatedness analysis，and national history facts reconstruction and etc.
+
+Thelimitations of this research are that 1）the accuracy of recognizing knowledge objects and relevant facts from text should be improved，especially the identification and recommendation of relevant national history facts；it willfurther reduce the workload of domain experts；2）The association calculation method of historic knowledge network is simple and has not fully applied current semantic similarity calculation and graph mining methods.These are key problems that need to be solved in our future studies.
+
+Studies show that the“Mining down,Organizing up”method can realize fine-grained representation of historic knowledge of the contemporary China and innovative applicationof knowledge organization based on historic knowledge objects；itcanbe used as a kind of new knowledge representation and organization methods applicable in other fields.
+
+This paper proposes an original method for semantic representation and organization，which uses contemporary Chinese historic ontology as basic organization mode,extracts important knowledge objects and facts from the historic text items with text mining technology，forms a complex network,and realizes multidimensional knowledge organization by assocation calculation on the network.The“Mining down，Organizing up” method effectivelyrealized the fine-grained representationand deep-level organization of historic knowledge of the contemporary China.7 figs.12 refs.
+
+# KEYWORDS
+
+Chinese national history.Ontology.Text mining. Knowledge organization.
+
+# 0引言
+
+华民族的向心力，正确认识当代中国的社会现实有着重要的意义。
+
+深入开展中华人民共和国国史的教育和研究一直是各方高度重视的工作。国史知识的宣传、普及和研究对于弘扬爱国主义精神，增强中
+
+随着社会的数字化和网络化发展，国史信息资源的规模日益庞大而且种类繁杂，内容多样，其组织和管理方式较为简单，一些有价值的信息往往淹没于其中无法被揭示和利用。如何将散布于大量信息资源中的细粒度国史知识和事实挖掘出来，按照知识之间内在相关关系来组织表示，成为亟待深入研究和解决的问题。这对于“国史"信息资源的进一步加工和研究以及开放共享都具有重要的促进作用，有助于推动国史知识的宣传与普及，帮助国史研究人员有效获取和利用相关信息产出科研成果。
+
+近年来,在历史领域,一些研究者已经开始了历史知识组织、语义内容揭示、知识发现等研究工作。如，构建了国共合作历史本体[1」、东北抗战史本体[2]、《资治通鉴》本体[3]、《三国志》历史领域本体[4],利用本体对历史知识进行语义描述和组织。武汉大学董慧教授带领的团队[5]以二十四史为基础,采用语义技术对史籍语料进行组织，构建了二十四史语义知识库，通过应用语义推理技术发掘史籍资源中的潜在知识，搭建了中华基本史籍分析平台，为用户提供语义化的知识服务，为后续的研究工作奠定了实践基础。在国外，Hyvonen等人[构建了芬兰历史事件本体，并将其应用在芬兰文化语义网门户CultureSampo 中,Corda 等人[提出事件本体的逻辑模型，用于发现历史领域事件之间的联系，Ide等人[提出历史本体的模型，可以反映历史领域在不同时间段实体之间关系的演化。
+
+本文在借鉴国内外相关研究成果的基础上，提出了“向下挖掘，向上组织”的国史知识语义揭示与组织的思路和方法,并基于这一思路开发了相应的系统平台，实现国史知识的揭示、重组和其他创新应用。
+
+# 1主要思路
+
+“中华人民共和国史教育网"项目的目标是普及国史知识、辅助国史教育。其中，面临的主要问题在于，如何利用信息自动处理技术，辅助国史专家从国史信息资源如《中国共产党历史大辞典》《中华人民共和国国史百科全书》《中国近现代史纲要》《中华人民共和国编年史》等工具书中，提炼和展示建国60多年来重要国史知识点和知识点之间的相关关联，组织相关文本信息资源。
+
+针对这一实际情况，本文提出了“向下挖掘，向上组织"的国史知识语义揭示与组织的思路方法。这一方法以国史本体为基础，在对隐藏于国史资源文本条目中的国史知识对象和相关事实进行语义挖掘和揭示的基础之上，通过国史知识对象的关联,构建国史知识网络，并基于时间、类属、层级及统计等关系，对国史知识内容进行更高层次的多维组织展示。整体思路方法如图1所示。
+
+具体而言，“向下挖掘”是一个解构的过程，它将国史资源文本条目中的知识转化成为一系列由知识对象、重要国史事实和文本条目组成的国史知识网络。具体而言，这一过程通过文本挖掘技术识别出国史资源文本条目中的重要知识对象，标注出这些知识对象在文本条目中的重要句子，抽取事实句子中的重要事实，在专家判断的基础之上，形成由“知识对象 $^ { 1 + }$ 关系 $^ +$ 知识对象2”或“知识对象 $^ +$ 属性 $^ +$ 属性值”方式表示的、结构化的重要国史事实。根据同一知识对象在相同或不同国史文本条目中出现的情况，可以抽取形成由同一知识对象关联的多条国史事实，同样也获得不同知识对象直接或间接的关联以及文本条目之间的关联。以此方法，国史知识可以被转化为由知识对象、重要国史事实和文本条目组成的国史知识网络。在这一国史知识网络的基础之上，可以提供国史知识的检索、关联、排序、聚类、重组等功能，实现国史知识的探索。
+
+“向上组织”是一个建构的过程,它利用向下挖掘产生的国史知识网络，通过关联重组，实现对国史知识和国史文本条目更深层次的组织和应用。由于原先的国史信息资源仅仅通过时间维度(如基本完成社会主义改造时期、开始全面建设社会主义时期、“文化大革命”时期等)和类型维度(如事件、会议、组织、路线方针、文件等)对文本条目进行简单的组织，不能有效揭示文本条目中更深层的知识关系。针对这一情况，“向上组织”基于“向下挖掘”所形成的国史知识对象网络，利用事实关系、共现关系、统计关系实现对知识内容的关联重组，以时间、类属、层级等多个维度来组织重要国史知识对象、国史事实及各种相关关系，用于国史知识的导航、浏览，形成大事记或编年等新的国史知识组织应用，扩展和丰富国史信息资源的组织方式。
+
+![](images/c468208ac218e5f58a1c992d60f122db622ffef364599edc8029c8de80b8330d.jpg)  
+图1国史知识的语义揭示与组织思路
+
+通过“向下挖掘，向上组织”，将细粒度的国史知识从国史信息资源中挖掘出来，进行组织和关联，可实现国史知识可视化、知识检索、知识关联、知识重组等应用效果。
+
+# 2国史知识语义揭示与组织的具体方法
+
+在"向下挖掘，向上组织”的国史知识语义揭示和组织方法中，有几个核心问题需要解决。具体包括：如何抽象国史知识的基础组织模式，以此确定国史知识对象的基本类型和相互关联；需要圈定哪些核心国史知识对象，以作为自动识别的基础；如何从文本资源中抽取与知识对象相关的事实；如何进一步实现深层次组织。
+
+针对这些问题，本文提出了国史知识语义揭示与组织的具体方法。
+
+# 2.1构建国史本体概念模型作为基础组织模式
+
+国史资料内容翔实，历史细节丰富而复杂，有必要明确哪些知识需要重点关注，哪些历史细节需要展现，也就是确定国史知识的基础组织模式。为了实现这个目标，本研究以本体组织国史知识的核心框架，利用抽象类揭示核心知识对象的类型，通过属性和关系揭示知识对象的特征与关联，以此为基础揭示国史知识骨架，梳理国史知识脉络，实现对国史知识的整体认识，支撑国史知识语义揭示与组织的具体实现。
+
+本研究参考骨架法[9]、七步法[10]等本体构建方法，在国史专家的协助下根据领域特性提出国史本体的概念模型。通过分析文本资源发现，国史发展脉络主要围绕重大历史事件、重要会议、重要人物、重要文献等展开。为此，在国史本体中首先定义了事件、会议、人物、机构、文件、理念或术语等15个核心类(见图2)。其次，根据事件、会议、人物等所涉及的描述信息，确定表示各类知识对象的属性信息以及知识对象之间的关系，在本体中定义了20个数值属性和76个对象属性。例如，为展现历史事件的细节，定义了名称、别称、文字描述等数值属性，定义了父事件、子事件、相关人物、相关机构、事件发生时间、地点等对象属性以及对象属性值域，如图3所示。再次，根据国史知识中属性描述与关系特性，确定了国史本体的属性约束，如子事件和父事件互为逆关系并都具有传递属性，名称、民族都为函数属性等。具体国史本体的概念模型可参考文献[11]。
+
+![](images/b7ceb2b11324996a6b162c7bf477a014fb5af2bdaedb794ab1e2a693521dbdc5.jpg)  
+图2国史本体核心类
+
+![](images/1d777c79a95db99418db6a1a4ace5205da0d9c0d6403957d4d7fae4dc96cf9a0.jpg)  
+图3事件类的属性及关系
+
+# 2.2确定核心对象作为自动识别的基础
+
+在确定基本组织模式之后，需要收集和整理一些知识对象，作为国史本体的基础实例，也为自动识别奠定基础。本研究从历史大辞典、国史百科等国史信息资源中提取元数据和结构化数据，如作为文本条目标题的事件、文件、会议、人物名称等,在此过程中建立了文本条目与知识对象之间的直接关联。同时也充分利用人名、机构、党派、地名等现有的主题词表，通过消歧、名称规则转换等自动处理和人工修订的方式实现数据规范化。更为重要的是，由国史专家筛选和整理了建国以来各个历史时期的重大历史事件和会议，并梳理了事件、会议之间的层次与关联，将这些重要的事件和会议作为核心知识对象,并作为对国史知识进一步揭示和组织的支撑数据。
+
+经过规范的知识对象包括1685个事件、761个会议、3508个人物、2621个机构、155个组织团体、107个特殊群体等，梳理的事件/会议层级关系共1861条，将这些知识对象和关系根据本体模型中定义的属性和关系分别进行URI命名，类型定义，确定规范名称、别称，构建层级关系等RDF转换，生成实例数据和实例关系，加入国史本体。以这些知识对象的实例名称、别称等为词典，为进一步自动识别提供基础数据。
+
+# 2.3利用文本挖掘技术实现事实发现
+
+围绕核心知识对象，通过对国史信息资源文本条目的向下挖掘，从文本中发现知识对象的相关事实，依据这些事实完善知识对象对应本体实例的属性和关系，以此将文本中隐藏的知识揭示出来，使其变成显性的、可计算的知识。由于国史信息资源文本内容丰富，人工完成重要知识对象的识别和关系发现需要耗费大量的时间和精力，为此利用文本挖掘技术开展相关实验，对文本资源进行自动语义揭示，辅助国史专家建立知识对象之间明确的语义关联。
+
+# (1)知识对象的自动识别
+
+借助上面整理的知识对象名称词典,利用自动标注技术对文本条目进行语义标注，通过名称和别称识别出现在多个文本条目中的知识对象。此外，自定义命名实体识别规则，实现时间、人物、机构、会议等知识对象的自动抽取，发现新的知识对象，推荐给国史专家。
+
+# (2)知识对象的事实发现
+
+利用关系抽取技术从文本条目中自动发现知识对象的相关事实，提取揭示知识对象相关事实的句子，推荐给国史专家。例如，《中华人民共和国国史百科全书》中的文本条目“中共十一届三中全会"描述了中共十一届三中全会的内容。其中，“中共十一届三中全会是中华人民共和国建立以来我党历史上具有深远意义的一次中央全会，于1978年12月18日至22日在北京召开”隐含了一些事实：“中共十一届三中全会”的召开时间为"1978年12月18日至22日”，地点为"北京”，等等。根据国史本体中定义的对象属性和数值属性，人工整理了一些相关的谓语动词,如“举办”“召开”“举行”等,有针对性地制定了关系抽取规则，如"会议一召开一地点”，“会议一举行一时间"等，借助句法分析和抽取规则发现文本中潜在的语义关系,形成一系列事实三元组，以及揭示知识对象相关事实的句子，作为构建知识对象实例属性和关系的依据。
+
+尽管通过机器自动处理能够发现一些潜在的知识，但由于自然语言的复杂性，文本挖掘结果的准确性仍然难以保证，无法直接加入本体中，需要国史专家结合自身领域知识，并参照知识来源条目，判断这些事实是否正确，同时补充一些相关知识，经过多次复审和修订，才能保证相关国史事实的准确性。
+
+# 2.4基于知识对象关联构建知识网络
+
+经过上述过程，对国史相关工具书和著作实现了条目内容的细粒度揭示，文本条目变成了体现知识内容的对象化的知识单元，从这些文本条目中挖掘出知识对象和知识对象之间的联系，形成了“书 $$ 条目 $$ 事实 $$ 知识对象”的国史知识向下挖掘过程。挖掘过程中不断发现知识对象和事实，构成了揭示国史重要知识的国史本体，以此形成知识对象层和事实层。同时，建立知识对象和事实与文本条目之间的关联，构成文本条目层、事实层、对象层交叉关联的复杂网络。
+
+如图4所示，《中国共产党历史大辞典》中“中共十一届三中全会”条目揭示了“中共十一届三中全会"的召开时间、地点、参会人物、相关事件等事实；《中华人民共和国国史百科全书》和《中华人民共和国编年史》中的“中共十一届三中全会”条目同样揭示了召开时间、地点，此外还揭示了“解放思想”“实事求是”等相关的理念与术语；《中国近现代史纲要》的“伟大的历史性转折”条目中，揭示出“中共十一届三中全会”的召开时间、地点、相关会议、相关事件等事实，同时在这一条目中也包含其他知识对象的相关事实，如"中共十一大"事件的相关人物、相关会议，“揭批‘四人帮'运动”的相关人物等。借助于文本挖掘技术和国史专家的领域知识，从文本中不断揭示知识对象之间的关联，同时也依据文本内部知识对象发现这些文本条目之间的内在关联，以此形成复杂的国史知识网络。
+
+![](images/5412c7e53e30da15be3c5e0b92088bbed93b608feb218c06dafe4691eb03b0c6.jpg)  
+图4“中共十一届三中全会"的知识网络构建
+
+# 2.5基于知识网络实现多维知识组织
+
+通过国史知识的语义揭示，形成条目层、事实层、对象层以及各个层级之间关联的复杂网络，可以形成国史知识内容的多个维度，并基于时间、类属、层级及统计等关系，对国史知识内容进行更高层次的多维组织和展示。
+
+# (1)基于时间维度的组织
+
+时间维度是展现历史发展进程最直接的角度。依据时间序列，可以将不同书籍的文本条目按历史时期进行组织，同时也可以根据国史本体的时间类将知识对象按出现时间排序，将同一知识对象的事实按时间排序。此外，展现同一历史时期、时间点发生的重大事件、重要会议，提出的路线方针，出现的重要人物、重要机构，出版的著作、文件，发表的重要讲话,等等。
+
+(2)基于知识对象的文本条目组织
+
+从文本条目内部揭示出的知识对象和事实，为文本条目的深层组织提供了依据。相同事实的多个来源条目既验证了事实的准确性，同时也反映出文本条目之间的密切关系。将涉及相同知识对象或事实的文本条目组织在一起，可以为人物传记、机构沿革、相关史实资料整理、新书撰写等提供丰富的素材，也可为国史研究提供参考依据。
+
+(3)基于事实/对象维度的语义组织
+
+通过建立国史本体，实现了对国史知识的有效组织，能够对国史知识对象和事实进行规范的语义表示，也使得对国史知识进行检索、关联、排序、聚类、重组等知识探索成为可能。一方面，支持细粒度知识的检索，直接展示的是知识,而不仅仅是文本资源，同时，利用SPARQL检索国史本体可以实现基于事实的结构化查询。另一方面，通过语义关联能够实现同一类型知识对象的聚集，利用同一个知识对象的事实能构建描述知识对象的地图，灵活地实现面向不同应用的知识组织与知识集成。
+
+通过以上步骤，实现了对国史知识更高层次的多维组织展示。同时，依据这些事实和对象，也可以将所涉及的国史知识素材与其他史籍、文献、历史资料、网页或各种数据库等外部资源进行关联，构建基于国史知识的其他扩展应用。
+
+# 3国史知识语义揭示与组织的应用效果
+
+在上述方法具体实现的基础之上，笔者开发了相应的系统平台，支持国史知识的揭示、重组、关联,并进一步实现国史知识的地图揭示、关联分析，国史事实的重组构建等创新应用。
+
+# 3.1实现国史知识地图揭示
+
+知识地图能够实现知识间导航，提供领域知识浏览的渐进式引导服务[12]。基于国史知识网络，笔者实现了国史知识地图揭示。通过可视化方式，提供国史知识内容的关联网络展示，利用节点代表知识对象，边代表各种语义关系（见图5)。用户不需要阅读文本信息就可以直观地了解国史知识，同时也可以作为国史知识浏览的可视化导航，通过对于知识节点的点击操作，可以进行延展性阅读，使得知识的获取更有效率。
+
+图5是国史知识地图的片段，在浏览知识对象“中共十一届三中全会”时，根据其关联关系可以看到参会者“邓小平”，点击该节点后可进一步浏览邓小平提出的“一国两制"理念，继续点击可以获得“一国两制”的提出时间为“1984年2月22日”,在“政府工作报告（1984年)"中宣布了该理念等相关知识。右键单击“一国两制—理念提出时间—1984年2月 22日”这一条边，可以查看其知识来源，即《中华人民共和国国史百科全书》的“一国两制”条目，其中的事实描述文字为“1984年2月22日，邓小平在会见美国客人时明确提出了‘一个中国，两种制度'的概念。同年5月15日，六届全国人大二次会议通过的《政府工作报告》把‘一国两制”的构想确定为实现国家统一的基本方针”。同样继续点击“政府工作报告（1984年）”节点可以进一步浏览相关国史知识。如此完成了“会议 $$ 人物 $$ 理念 $$ 报告”的地图式导航与浏览。
+
+![](images/562afd881a3b70fc42e2134072aca91d70408aa1fa391cd9f6b31e2f11d3610f.jpg)  
+图5国史知识地图示例
+
+# 3.2实现国史知识对象的关联分析
+
+借助国史知识语义揭示和组织形成的复杂网络，通过图遍历可以实现知识对象之间的关联分析,发现其中蕴含的知识。例如，查询“毛泽东"和"中共十一届三中全会”的路径小于等于3的相互关联，可获得如图6所示的复杂知识网络。图中显示了“毛泽东”和“中共十一届三中全会"相关的会议、文件、事件、人物、机构等，以及它们之间的相互联系，尽管中共十一届三中全会在毛主席逝世后召开，但仍然可以通过关联分析，发现他们之间的多重间接关联，从中挖掘知识对象之间的潜在关系，加强对相关国
+
+史知识的认识和了解。
+
+# 3.3实现国史事实的重组构建
+
+国史知识最典型的应用是展现历史脉络。区别于原有文本条目的时期元数据，构建国史本体后计算时间可以精确到“月”和“日”，并且揭示的知识更加准确。如，某个时间段或时间点相关的知识对象、重要的事实，党派、机构、社会团体与组织的成立时间，事件、会议的发生时间,理念与术语的提出和宣布时间,等等，由此形成大事记、编年等重要应用。同时，通过间接关系也可以发现某一个知识对象在一个时间点
+
+毛泽东周恩来访问苏联并举行中苏会谈 汪东兴  
+1956-1967年科学技术发展远景规划的制定和实施  
+1卢郁文事件 解放启用干部和平反冤家错案 胡乔木电影《创业》和《海霞》事件 . “无产阶级专政下继续革命的理论”南宁会议（1958年） 反右派斗争中共九大 反反冒进 给之月逆流充案平反1956年经济建设战线上的反冒进 李先念全国战斗英雄和劳动模范代表大会（1950年） 中共七届六中全会 “儒法斗争 批孔批的舆论动员西楼会议 .荆江分洪工程 江青集团组阁活动判《海瑞黑华人民共和国第一部宪法的制定和通过 叶剑英四人帮批邓反周 成都会议（1958年评《水》运动 .统战工作调整 中共八大 清华上书事件 中央人民 陈云老一辈革命家二月抗争 中共七届三中全会 邓小平毛泽 鲁晓198年福华开关会议 七千人大1961年全党大兴调查研究之风 古月超邦 中共届三中全会第一个五年计划第五次编制工作组事件中共八大之次会议反对四人帮的天安门事件四五计划的制定与调整 扩大的中共中央八届三中全会1957年的整风运动 平定西藏上层反动集团叛乱 华国锋组建国务院政治研究室毛泽东批评四人帮全民整风运动 批邓、反击右倾翻案风运动 高岗饶漱石事件 教育革命大辩论 习仲勋围绕反经验主义问题的较量 60年代初党员干部甄别平反第一次包产到户“实验及对包产到户的批判1975年文艺政策调整 小说《刘志丹》事件炮打司部 我的一张大字报毛泽东视察南方以陈云为组长的中央财经小组成立与开展工作 批判黑暗风、“单干风、“翻案风彭罗陆杨冤案酿成 为彭真、罗瑞卿、陆定一、杨尚昆的冤案平反庐山会议（1959年） 黄克诚彭德怀八万言书 为彭德怀平反
+
+或时间段的相关事实。例如“毛泽东在1949 年10月的历史活动”，通过时间类与党派、机构、社会团体与组织、事件、会议等的关联，以及这些类与人物类的关联，可以获得人物类与时间类的间接联系，进而查询到知识对象“毛泽东”在指定时间点的相关事实，如“毛泽东”参加了“中央人民政府委员会第一次会议”，由“中央人民政府委员会第一次会议”的召开时间可以得知“毛泽东"在这个时间点的历史活动（见图7），同理可以揭示其整个生平的历史活动。
+
+1947： 1949_--- 1949年1月至2月间 打扫干净屋子再请客理念提出者1949年3月 中共七届二中全会发言人或报告人！  
+1948 1 1949年6月15日至19日 新政治协商会议筹备会发言人或报告人1949年9月21日至30日 中国人民政治协商会议第一届全体会议发言人或报告人11 1949年10月1日下午 中央人民政府委员会第一次会议发言人或报告人！11 1949年10月1日下午3时整开始 开国大典相关人物  
+1949 1949年10月1日 人民革命军事委员会主席任命职务1 11 1949年12月6 日 至1950年3月4日 毛泽东周恩来访问苏联并举行中苏会谈 相关人物！ 1949年12月至1950年2月 缔结《中苏友好同盟互助条约》 相关人物！  
+195011
+
+# 4结论
+
+为实现国史知识的有效组织与利用，本文提出了“向下挖掘，向上组织”的揭示与组织国史知识的思路和方法,通过文本挖掘和国史专家判断相结合的方式，从国史信息资源文本条目中提取重要的知识对象和事实，利用国史本体进行语义组织，建成了用于知识发现和利用的国史本体，以此实现国史信息资源和国史知识的有机组织和知识的丰富，并在此基础上实现了国史知识的地图揭示、国史知识对象的关联分析、国史事实的重组构建等新的应用。
+
+研究表明，本文提出的“向下挖掘，向上组织"方法能够有效实现国史知识内容的细粒度揭示和基于知识对象的国史知识创新组织应用，可以作为一种新的知识揭示和组织方法应用于其他领域。本研究也存在一些不足，主要体现在： $\textcircled{1}$ 从文本中识别国史知识对象及相关事实的准确程度有待进一步提高，特别是在相关国史事实识别和推荐方面，如果准确度提高，将更进一步减少领域专家的劳动； $\textcircled{2}$ 在国史知识网络的关联计算挖掘方面方法较为简单，没有充分使用当前的语义相似性计算和图挖掘方法。这些都是未来研究需要重点解决的问题。
+
+# 参考文献
+
+［1］董慧,余传明,杨宁,等.基于本体的数字图书馆检索模型研究（ⅢI）——历史领域资源本体构建[J].情报学报,2006,25(5）:564-474.（Dong Hui,Yu Chuanming，Yang Ning,et al.Research on the ontology-basedretrievalmodelofdigital library—historydomainontologybuilding[J].Journal of theChina Societyfor Scientificand Technical Information，2006,25(5）:564-474.)  
+[2］吴丽杰.基于本体的特色数据库知识组织研究[J].图书馆学刊，2012（3)：41-43.（Wu Lijie.Research onknowledgeorganization of characterized database basedonontology[J].Journal of Library Science,2Ol2(3):41-43.）  
+［3］彭炜明，宋继华.《资治通鉴》历史领域本体构建及其应用研究[J].中文信息学报，2010（2）：33-38.(Peng Weimin,Song Jihua,Research on Zizhi Tongjian historicalontology constructionandapplication[J].Jour-nal of Chinese Information Processing,2010(2):33-38.)  
+[4] 廖作芳.《三国志》历史领域本体的构建与推理研究[D].武汉;华中师范大学，2011.（Research on domainontologyconstructing and reasoning of the thre kingdoms[D].Wuhan：Central China Normal University,2011.）  
+[5］董慧,徐雷,王菲,等.语义分析系统研究(Ⅲ)——中华史籍语义分析系统实现[J].情报学报，2014,33(2）:204-214.（Dong Hui,Xu Lei，,Wang Fei，,et al. Study onsemantic analysis system(II）— implementationofChinese historical records semantic analysis system[J].Journal of theChina Society for Scientificand TechnicalInformation，2014,33(2):204-214.)  
+[6] Hyvonen E,AlmO,Kuitinen H.Using an ontologyof historical events insemantic portals for cultural heritage[C]//Proceedings of the Cultural Heritage on the Semantic Web Workshop at the 6th International Semantic WebConference（ISWC 2007），2007.  
+[7] CordaI,BennettB,Dimitrova V.Alogical model ofan eventontology forexploring connections in historicaldo-mains[C]//Workshop on Detection，Representation and Exploitation of Events in Semantic Web（DeRIVE2011），Proceedings of the Tenth International Semantic Web Conference（ISWC'11）,2011.  
+[8] Ide N，Woolner D.Historical ontologies[M]//Words and intellgence II：essays in honor of Yorick Wilks.Springer,2007:137-152.  
+[9] Uschold M,King M.Towards a methodologyfor building ontologies[C]//Workshop on Basic Ontological Isuesin Knowledge Sharing，held in conjunction with IJCAI-95，Montreal,Canada，1995.  
+[10] Noy NF,McGuinness DL.Development 101:a guide to creating your first ontology[EB/OL].[2015-03-25].http :// wenku.baidu.com/view/30fb4b956bec0975f465e2bf.html.  
+[11] 孙辉，雷枫．中华人民共和国史本体构建初探[J].现代情报,2014,34（2):32-42.（Sun Hui，Lei Feng.Research on the contemporary Chinese historyontology building[J].Journal of Modern Information，2014,34(2):32-42.)  
+[12] 王昊，谷俊，苏新宁．本体驱动的知识管理系统模型及其应用研究[J].中国图书馆学报，2013，39（2)：98-110.（Wang Hao,Gu Jun,Su Xinning.Research on the model and itsapplication ofontology-driven knowl-edge management system[J]. Journal of Library Science in China,2013,39(2）：98-110.)王颖 中国科学院文献情报中心馆员。北京100190。  
+张智雄 中国科学院文献情报中心研究馆员，博士生导师。北京100190。  
+孙辉 当代中国研究所副编审。北京100009。  
+雷枫当代中国研究所高级工程师。北京100009。
+
+(收稿日期:2015-04-14)

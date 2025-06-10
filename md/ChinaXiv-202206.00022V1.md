@@ -1,0 +1,160 @@
+# 新疆自来水中氢氧稳定同位素时空变化
+
+夏怡洁1²，王圣杰1²，张明军1.2（1.西北师范大学地理与环境科学学院,甘肃 兰州730070;2.甘肃省绿洲资源环境与可持续发展重点实验室，甘肃 兰州730070)
+
+摘要：氢氧稳定同位素是描述水循环过程的天然示踪剂，自来水是重要的生活用水,研究自来水中氢氧稳定同位素的变化特征有助于示踪城乡居民用水来源,为合理规划水资源调配提供参考。基于新疆352个自来水样品，对氢氧稳定同位素以及氘盈余( $d { = } \delta ^ { 2 } \mathrm { H } { - } 8 \delta ^ { 1 8 } \mathrm { O }$ )的时空分布进行分析。结果表明：(1）新疆自来水水线为 $\delta ^ { 2 } \mathrm { H } { = } 7 . 6 7 \delta ^ { 1 8 } \mathrm { O } { + }$ 10.54( $R ^ { 2 } { = } 0 . 9 2$ ）， $\delta ^ { 2 } \mathrm { H }$ 月均值的变化范围为 $- 1 0 5 . 5 7 \% o \sim - 3 7 . 8 2 \% o$ $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 的月均值在 $- 1 4 . 4 8 \% o \sim - 6 . 6 7 \% o$ 之间， $d$ 的月均值在 $1 . 8 9 \% o \sim 2 4 . 3 8 \% o$ 之间波动。（2)北疆和南疆的氢氧稳定同位素及氘盈余都存在季节变化，并且南疆的季节差异比北疆大。（3）利用BW模型对新疆自来水中氢氧稳定同位素的空间分布进行模拟,发现南疆氢氧稳定同位素值普遍高于北疆的同位素值，并且山区同位素值低于盆地的同位素值。
+
+关键词：自来水；氢氧同位素；氘盈余；时空分布；新疆
+
+氢氧稳定同位素是水循环过程的天然示踪剂，被广泛运用于水文循环过程的研究中[1-4]。自来水是人文环境与自然环境联系的纽带，自来水中氢氧稳定同位素可以示踪水源以及分析水源地的环境特征[5-6]。关于自来水中氢氧稳定同位素的研究多关注大尺度的空间调查，通过广泛的采样获知自来水同位素的分布规律。Bowen等7对美国自来水中的氢氧稳定同位素进行了时空调查，获取了美国第一份自来水稳定同位素景观图谱，并发现其与降水同位素在大尺度上的空间相关性;West等8研究了南非自来水稳定氢氧同位素景观图谱，发现自来水中同位素与地下水中的氢氧稳定同位素在空间变化上具有一致性;此外，其他全国或区域尺度的研究也有不少[9-13]。随着研究的深人,科学家们越来越关注自来水同位素在水资源管理中的应用。一般认为，自来水的处理工艺，不会产生较为明显的同位素分馏[14],因此，可以对水分来源有较好的指示意义。Good等[15]从水资源调配的角度对自来水进行解读，发现在大多数情况下，美国西部自来水中的氢氧稳定同位素与当地降雨中的氢氧稳定同位素差异较大，而与当地地表水中的氢氧稳定同位素相似；Tipple等对比了不同年份旧金山自来水同位素的差异，发现水源地的年际丰枯特征可以体现在自来水同位素中;Jameel等[7]在城市地区采用自来水中的同位素质量平衡分析了自来水蒸发损失在年内与年际上的变化;Wang等[18]利用覆盖全国的实测样品，绘制了高分辨率的中国自来水同位素景观图谱，并且进一步发现地表水和地下水的不同水体来源可以体现在自来水同位素的年内变化上;Du等[也发现不同水源类型的差异可以明显地体现在甘肃南部的自来水中，从而可以辨识地下水和地表水的贡献。
+
+新疆位于亚洲内陆腹地，气候干旱，降水匮乏，城乡居民用水的供给极大受到山区降水影响。研究该地区自来水中氢氧稳定同位素的变化特征能够加强对干旱区水资源的认识，为优化水资源管理提供依据。前人虽对新疆自来水中的氢氧稳定同位素变化开展过部分监测工作[.18]，但采样点仍相对较少，影响了对自来水同位素时空格局的认识。因此，本研究利用新疆352个自来水样品，分析了自来水中氢氧稳定同位素的年内变化和空间分布，同时利用BW模型对新疆自来水中氢氧稳定同位素进行模拟。
+
+# 1数据与方法
+
+# 1.1样品采集
+
+于2018年5月—2020年10月在新疆的35个站点采集了186个自来水样品。其中，采集自来水样品个数在8个及以上的采样点有10个（库尔勒、阿图什、乌恰、喀什、巴楚、莎车、塔什库尔干、岳普湖、皮山、铁干里克），均以月频次进行采样;其余采样点分别有1次采样。每次采样时，在打开水龙头10s后，将水样收集在 $5 0 ~ \mathrm { m L }$ 的高密度聚乙烯瓶中，然后拧紧瓶盖并用防水胶带密封。随后将样品送至西北师范大学地理与环境科学学院稳定同位素实验室，为了防止样品蒸发，在分析前将样品储存在 $4 \mathrm { { ^ circ C } }$ 的阴凉环境下。
+
+除此之外，还收集了Zhao等9自2014年12月一2015年12月新疆的5个采样点(乌鲁木齐、库尔勒、阿克苏、喀什、克拉玛依)所采集的43个样品数据以及Wang等[18]自2014年8月—2015年11月的12个站点(乌鲁木齐、哈密、库尔勒、阿克苏、拜城、阿图什、乌恰、伊宁、奎屯、沙湾、福海、五家渠)采集的123个样品数据(图1)。Zhao等[采样点中采集样品个数在8个及以上的采样点有4个，Wang等[18]采样点中采集样品个数在8个及以上的采样点有10个。
+
+为了得到覆盖全年的自来水同位素月序列，本研究将3个数据源中站点相同的数据进行整合，对连续缺测不多于3个月的站点（克拉玛依、五家渠、塔什库尔干、皮山、阿克苏)进行了内插，从而得到20个月序列完整的站点。
+
+# 1.2 实验分析
+
+收集的自来水样品在西北师范大学地理与环境科学学院稳定同位素实验室利用T-LWIA-45-EP型液态水同位素分析仪（ABB-LosGatosResearch公司)进行分析测定，其中 $\cdot \delta ^ { 2 } \mathrm { H }$ 的测试误差不超过 $\pm 1 \text{‰}$ ，$\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 的测试误差不超过 $\pm 0 . 3 \% o$ 。分析得出的 $\delta ^ { 2 } \mathrm { H }$ 和$\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 以相对于维也纳标准平均海洋水(V-SMOW)的千分差值表示：
+
+$$
+\begin{array} { r }  \delta = \left( \frac { R _ { \ast \ast } } { R _ { \ast \ast } } - 1 \right) \times 1 0 0 0 \% \ \end{array}
+$$
+
+![](images/ba265f526c4d9c1532acdf19199d5c52b8022384424271244c8c8383336937ed.jpg)  
+Fig.1Spatial distribution of the sampling sites of tap water in Xinjiang
+
+注：底图采用新疆维吾尔自治区自然资源厅标准地图制作，审图号为新S(2021)023号，对底图边界无修改。下同。图1新疆自来水采样点空间分布
+
+式中： $R _ { \# _ { \mathbb { H } } ^ { \mathbb { H } } }$ 为自来水中的氢氧稳定同位素比率; $R _ { \mathrm { f i v \thinspace \forall \mathbb { E } } }$   
+为维也纳标准平均海洋水的同位素比率。
+
+虽然本研究与Zhao等[9]和Wang等[18]使用了不同型号的分析仪器，但其测量原理一致，均为激光光谱法，且每月取样过程和分析程序基本相同。Zhao等采用Picarro水同位素分析仪(L2130i)，其 $\mathrm { \partial ^ { \cdot } \delta ^ { 2 } H }$ 的测试误差不超过 $\pm 1 \text{‰}$ ， $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 的测试误差不超过$\pm 0 . 1 \% o$ ;Wang等[18]利用LosGatosResearch水同位素分析仪(DLT-100)对样品进行分析，其 $\cdot \delta ^ { 2 } \mathrm { H }$ 的测试误差不超过 $\pm 0 . 6 \% o \mathrm { , } \delta ^ { 1 8 } \mathrm { O }$ 的测试误差不超过 $\pm 0 . 2 \% o$ O
+
+氘盈余是基于氢氧稳定同位素的参数[20]，可用于评价降水氢氧同位素偏离全球平均水平的程度，即：
+
+$$
+d = \delta ^ { 2 } \mathrm { H } - 8 \delta ^ { 1 8 } \mathrm { O }
+$$
+
+# 1.3BW模型
+
+Bowen和Wilkinson[21]根据纬度效应和海拔效应对全球降水氢氧稳定同位素进行空间模拟，又称为BW模型，该方法利用了二阶回归数学模型，其公式如下
+
+$$
+\delta = a \vert L \vert ^ { 2 } + b \vert L \vert + c A + d
+$$
+
+式中： $L$ 是纬度； $A$ 是海拔； $\boldsymbol { a } , \boldsymbol { b } , \boldsymbol { c } , d$ 是经验参数。将BW模型得到的各采样点模拟值与相应的实测值相减得到残差，在ArcGIS软件中利用反距离加权的方法，将各采样点的残差插值到整个区域，最后将插值的残差结果与BW模型得到的预测值叠加，从而实现对预测结果的订正
+
+# 2结果与分析
+
+# 2.1 自来水水线
+
+在降水、地表水和地下水等自然水体中， $\delta ^ { 2 } \mathrm { H }$ 与$\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 一般存在着明显的正相关关系，二者的变化存在同步性，以自然水体为水源的自来水中同样也会保留这样的相关性。本文利用最小二乘法分析了新疆352个自来水样品中 $\delta ^ { 2 } \mathrm { H }$ 与 $\mathbf { \delta } ^ { \mathrm { \delta \delta } } \delta ^ { \mathrm { 1 8 } } \mathbf { 0 }$ 的关系，从而得出新疆的自来水水线(图2a)，即 $\delta ^ { 2 } \mathrm { H } = 7 . 6 7 \delta ^ { 1 8 } \mathrm { O } + 1 0 . 5 4$ $\scriptstyle \left( R ^ { 2 } = 0 . 9 2 , n = 3 5 2 \right)$ ，该自来水水线的斜率(7.67)低于全球大气降水线2斜率(8)。就降水来说，如果大气降水线的斜率低于8,则意味着降水很可能受到了蒸发的影响，使其斜率发生偏离。新疆气候干旱，自来水的水源同样也容易受到蒸发的影响，使得自来水水线斜率低于全球平均水平。相较于以往文献中西北地区的大气降水线 $\delta ^ { 2 } \mathrm { H } { = } 7 . 4 8 \delta ^ { 1 8 } \mathrm { O } { + } 1 . 0 1$ $R ^ { 2 } { = } 0 . 9 4$ [23]和 $\delta ^ { 2 } \mathrm { H } = 7 . 2 4 \delta ^ { 1 8 } \mathrm { O } + 1 . 9 6 \left( R ^ { 2 } { = } 0 . 9 5 \right) ^ { [ 2 4 ] }$ ,本研究得到的新疆自来水水线斜率略高。
+
+此外，以往国内学者曾基于实测资料提出过全国尺度的自来水水线，Zhao等通过全国780个自来水样品得出自来水水线为 $\delta ^ { 2 } \mathrm { H } = 7 . 7 2 \delta ^ { 1 8 } \mathrm { O } + 6 . 5 7 ( R ^ { 2 } =$ 0.95, $\scriptstyle n = 7 8 0 .$ ，而 $\mathbb { W } \mathrm { a n g }$ 等[18根据全国2879个样品得出自来水水线为 $\delta ^ { 2 } \mathrm { H } { = } 7 . 5 7 \delta ^ { 1 8 } \mathrm { O } + 5 . 1 4$ （ $R ^ { 2 } { = } 0 . 9 3$ ， $n { = }$ 2879)。本研究所得到的新疆自来水水线与Zhao等[9]、$\mathrm { { W a n g } }$ 等[得到的全国自来水水线相比(图2b)，其斜率接近，但新疆自来水水线的截距相对较大。
+
+# 2.2同位素的月变化和季节变化
+
+鉴于部分站点采样频次较少，不能反映出自来水中氢氧稳定同位素的年内变化，下面主要分析20个完整序列站点的逐月自来水氢氧稳定同位素值(表1)。研究表明，新疆自来水中氢氧稳定同位素值存在年内波动。北疆 $\delta ^ { 2 } \mathrm { H }$ 月均值在 $- 8 2 . 5 \% o$ $- 8 0 . 0 \% o$ 之间变化，算数平均值为 $- 8 1 . 0 \% o ; \delta ^ { 1 8 } 0$ 月均值在 $- 1 2 . 1 \% o \sim - 1 1 . 6 \% o$ 之间变化，算数平均值为$- 1 1 . 8 \% o$ 。南疆 $\cdot \delta ^ { 2 } \mathrm { H }$ 月均值在 $- 6 8 \% \sim - 6 4 . 2 \% o$ 之间变化，算数平均值为 $- 6 6 . 0 \% o ; \delta ^ { 1 8 } 0$ 月均值在 $- 1 0 . 4 \% o \sim$ $- 9 . 7 \% o$ 之间变化，算数平均值为 $- 1 0 . 1 \%$ 。北疆 $\cdot \delta ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { \scriptscriptstyle 1 8 } 0 \rrangle$ 在3月或者5月达到最大值，其最小值都出现在8月。南疆 $\cdot \delta ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { \scriptscriptstyle 1 8 } 0 \rrangle$ 的最大值都出现在5月，最小值都出现在10月。总体而言，无论是 $\delta ^ { 2 } \mathrm { H }$ 还是$\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ ,南疆的年均值普遍高于北疆,南疆的 $\delta ^ { 2 } \mathrm { H }$ 较北疆的 $\delta ^ { 2 } \mathrm { H }$ 高 $1 5 . 0 \% o$ ，南疆的 $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 较北疆的 $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 高$1 . 8 \% o$ 。这与新疆大气降水同位素的分布规律[25]具有一定的相似性，即南疆更为干旱的气候背景使得降水中重同位素更容易富集，但是相较于降水同位素，自来水中氢氧稳定同位素的年内变化要小得多。此外,北疆的 $d$ 在 $1 1 . 8 \% o { \sim } 1 4 . 9 \% o$ 之间波动,平均值为 $1 3 . 5 \% o$ ,北疆 $d$ 的最大值出现在4月，最小值出现在1月；南疆的 $d$ 在 $1 3 . 5 \% o { \sim } 1 5 . 3 \% o$ 之间波动，平均值为 $1 4 . 5 \% o$ ，南疆 $d$ 的最大值出现在9月，最小值出现在5月。
+
+从季节变化上看(图3)，自来水同位素值总体呈现春季最大的特点。北疆的 $\delta ^ { 2 } \mathrm { H }$ 和 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathbf { 0 }$ 最大值均出现在春季( $- 8 0 . 2 \% o$ 和 $- 1 1 . 7 \% o$ )，南疆的 $\delta ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { \scriptscriptstyle 1 8 } 0 |$ 最大值也都出现于春季( $- 6 5 . 0 \% o$ 和 $- 9 . 9 \% o$ )。在新疆，山区降水是重要的水资源，并在山区形成了冰川、积雪和冻土，发源于山区的诸多河流为中下游的绿洲生态和居民生产生活用水提供了基本保障[26]进入春季以后，随着温度的升高，山区的冰雪融水开始汇人河流、水库，补给地表水和地下水，而湖泊、水库等水面的蒸发逐渐增强，雪的升华和冻土中水分蒸发也会引起融水中的同位素值发生变化[27]。在夏秋季新疆山区的降雨较盆地多[28],特别是短时间的强降雨会使得自来水水源地中的氢氧稳定同位素贫化，降水迅速补给地表水和地下水进而转化为自来水的水源，同时夏季用水需求增大，不同地表水或地下水为主的水源地转换可能在一定程度上还受到水资源调配管理的影响。北疆 $d$ 的最大值出现在夏季，最小值出现在冬季；南疆 $d$ 的最大值出现在秋季，最小值出现在夏季。总体而言，南疆的 $d$ 整体上比北疆高 $1 . 2 \% o$ ,这也从侧面反映了南疆更为干旱的气候背景。
+
+![](images/845d44987bac3797ad10c944a36c82e151e003c021f28d37dcbd73ea70e60f2e.jpg)  
+图2新疆自来水水线及其在全国自来水水线中的位置  
+Fig.2Tap water line of Xinjiang and its position in the Chinese tap water line
+
+表1新疆自来水中的 $\delta ^ { 2 } \mathbf { H }$ 和 ${ \delta } ^ { 1 8 } { \bf { O } }$ 以及d的月变化  
+Tab.1 Monthly variations of $\delta ^ { 2 } \mathbf { H }$ ${ \delta } ^ { 1 8 } { \bf O }$ and d of tap water in Xinjiang   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="2">8²H/%0</td><td colspan="2">8180/%0</td><td colspan="2">d/%</td></tr><tr><td>北疆</td><td>南疆</td><td>北疆</td><td>南疆</td><td>北疆</td><td>南疆</td></tr><tr><td>1</td><td>-81.5</td><td>-66.5</td><td>-11.7</td><td>-10.1</td><td>11.8</td><td>14.4</td></tr><tr><td>2</td><td>-81.1</td><td>-66.1</td><td>-11.9</td><td>-10.1</td><td>13.8</td><td>15.0</td></tr><tr><td>3</td><td>-80.0</td><td>-66.4</td><td>-11.6</td><td>-10.2</td><td>13.2</td><td>15.0</td></tr><tr><td>4</td><td>-80.3</td><td>-64.5</td><td>-11.9</td><td>-9.9</td><td>14.9</td><td>14.6</td></tr><tr><td>5</td><td>-80.2</td><td>-64.2</td><td>-11.6</td><td>-9.7</td><td>12.7</td><td>13.5</td></tr><tr><td>6</td><td>-80.2</td><td>-65.9</td><td>-11.8</td><td>-10.0</td><td>13.5</td><td>13.7</td></tr><tr><td>7</td><td>-81.3</td><td>-66.9</td><td>-12.0</td><td>-10.1</td><td>13.9</td><td>14.2</td></tr><tr><td>8</td><td>-82.5</td><td>-65.6</td><td>-12.1</td><td>-10.1</td><td>13.7</td><td>15.2</td></tr><tr><td>9</td><td>-81.7</td><td>-66.2</td><td>-12</td><td>-10.2</td><td>14.4</td><td>15.3</td></tr><tr><td>10</td><td>-81.1</td><td>-68.0</td><td>-11.9</td><td>-10.4</td><td>13.3</td><td>15.0</td></tr><tr><td>11</td><td>-80.3</td><td>-65.9</td><td>-11.7</td><td>-10.0</td><td>12.8</td><td>14.0</td></tr><tr><td>12</td><td>-82.2</td><td>-66.1</td><td>-12.0</td><td>-10.0</td><td>13.6</td><td>14.1</td></tr></table></body></html>
+
+![](images/675f69eee6e8a0747256c82168c3e0b66808a0fe8ded3311717c7d8aecbaaf1f.jpg)  
+图3新疆自来水中的 $\cdot \delta ^ { 2 } \mathrm { H }$ 和 $\mathrm { \partial ^ { \cdot } \partial ^ { \cdot } \mathrm { O } }$ 以及 $d$ 的季节变化Fig.3Seasonal variations of $\delta ^ { 2 } \mathrm { H }$ $\delta ^ { 1 8 } \mathrm { O }$ and $d$ of tap water in Xinjiang
+
+统计年鉴中的水资源供给结构可以为理解自来水的来源构成提供基础的信息，涉及到的水源类型一般包括地表水和地下水，在全国尺度上尤其以地表水为主，有时还包括污水处理再利用、集雨工程以及海水淡化等其他类型，但比例很低。根据统计年鉴[30],新疆自来水的主要供应来源中，地表水占主导地位，其贡献率高达 $8 1 \%$ ,地下水的比例相对较小(表2)；从空间分布来看，南疆自来水水源更多地使用了地表水，其自来水水源中的地表水占南疆供水总量的 $8 3 \%$ ，而北疆自来水水源中的地表水占北疆供水总量的 $7 7 \%$ 。一般来说，以地表水为主要来源时，自来水中的同位素年内波动更大，而以地下水为主要来源时则相对稳定，但水源的切换也会造成自来水同位素的剧烈变化[18]。表2展现出的供水特征差异与南北疆的水文气候条件差异相吻合，显然当地表水作为自来水主要来源形式时，自来水同位素特征可能会与地表水同位素有明显联系，而地表水则受到降水的直接影响。
+
+# 2.3基于监测记录的同位素空间变化
+
+由图4可知，自来水中 $\delta ^ { 2 } \mathrm { H }$ 的实测值表现出从南向北递减的特征，南疆同位素值偏高，北疆则同位素偏低，与降水同位素的空间分布有相似之处。 $\delta ^ { 2 } \mathrm { H }$ 的高值点主要出现在南疆的皮山和铁干里克，这2个站点 $\delta ^ { 2 } \mathrm { H }$ 值均在 $- 5 5 \% o \sim - 3 5 \% o$ 之间波动； $\delta ^ { 2 } \mathrm { H }$ 的低值点出现在北疆的福海，其值在各月均较低。由于自来水中的 $\delta ^ { 2 } \mathrm { H }$ 和 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathbf { 0 }$ 之间存在正相关关系， $\delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 的分布规律与 $\delta ^ { 2 } \mathrm { H }$ 类似(图略)。
+
+与氢氧稳定同位素相比，自来水中 $d$ 的空间变化具有较大的波动(图5)。在北疆，乌鲁木齐、奎屯、克拉玛依的自来水中 $d$ 值较高,其值在 $10 \text{‰}$ $15 \text{‰}$ ;而福海的 $d$ 值较低，在其值 $0 \text{‰}$ 之间变化。在南疆,岳普湖的 $d$ 值较高,其值在 $20 \text{‰}$ 以上，阿克苏、巴楚的 $d$ 值较低,在其值 $10 \% o \mathrm { { \sim } 1 5 \% 0 }$ 之间变化。结果表明，南疆的 $d$ 值较北疆的高，且南疆的高值点也较多。
+
+# 2.4基于BW模型的同位素空间分布模拟
+
+考虑到新疆人口的空间分布特点，自来水采样点的分布不可能绝对均匀，这使得对于山区和沙漠边缘等区域的聚落研究可能不够细致，由此有必要结合地理位置或气象条件等辅助变量预测自来水同位素的理论空间分布。利用20个站点的实测数据通过BW模型对新疆自来水中氢氧稳定同位素在理论上的空间变化进行模拟(图6)。BW模型中的辅助变量为海拔和纬度，基于经度、纬度、海拔等常规参数即可实现对降水同位素空间分布的预测。
+
+与实测资料得到的认识类似，模拟结果显示自来水中的 $\delta ^ { 2 } \mathrm { H }$ 在各月中表现出南疆大于北疆的特征， $\delta ^ { 2 } \mathrm { H }$ 的变化呈现出一定的纬度梯度。除此之外，模拟结果更加突出地显示了自来水中 $\delta ^ { 2 } \mathrm { H }$ 的高程效应。在低海拔地区(吐鲁番-哈密盆地、准噶尔盆地和塔里木盆地）， $\delta ^ { 2 } \mathrm { H }$ 偏高;而在高海拔地区(阿尔泰山、天山和昆仑山）， $\delta ^ { 2 } \mathrm { H }$ 较低。地形与自来水同位素表现出明显的对应性，与降水同位素的空间分布存在密切的联系，以往的大量研究表明新疆山区降水同位素值相较于平原地区要低[25.32]
+
+表2新疆地表水在水资源供给中占比  
+Tab.2 Percentage of surface water in water resources supply in Xinjiang   
+
+<html><body><table><tr><td>地表水比例/%</td><td>主要地州市</td></tr><tr><td>41~60</td><td>乌鲁木齐市、昌吉回族自治州、博尔塔拉蒙古自治州、吐鲁番市、哈密市</td></tr><tr><td>61~80</td><td>克拉玛依市、石河子市、塔城地区、喀什地区</td></tr><tr><td>81~100</td><td>伊犁哈萨克自治州、阿勒泰地区、巴音郭楞蒙古自治州、阿克苏地区、克孜勒苏柯尔克孜自治州、和田地区</td></tr></table></body></html>
+
+![](images/d19e15490b407301f33369f3f202d78a294b1d24a64d8f9dd6c80b27b88f6491.jpg)  
+注：灰色图斑是2020年人口密度大于100人， $\cdot \mathrm { k m } ^ { - 2 }$ 的地区[31]。下同。  
+图4新疆自来水中 $\delta ^ { 2 } \mathrm { H }$ 的逐月空间分布  
+Fig.4Spatial distribution of $\delta ^ { 2 } \mathrm { H }$ of tap water in Xinjiang for each month
+
+![](images/f0ef39bc217d1a7f7be746f0d286e481ff6f0852d8835a19d7ecde3ebb70bb2f.jpg)  
+图5新疆自来水中 $d$ 的逐月空间分布  
+Fig.5Spatial distribution of $d$ of tap water in Xinjiang for each month
+
+![](images/862f7281d186a91c20945e33ace25e2d3d3c4497dcb4bb5c969e60db60e81479.jpg)  
+图6基于BW模型的新疆自来水中 $\delta ^ { 2 } \mathrm { H }$ 的逐月空间分布  
+Fig.6Spatial distribution of $\delta ^ { 2 } \mathrm { H }$ of tap water in Xinjiang for each month based on BW model
+
+# 3结论
+
+本文利用新疆自来水样品的实测数据，对自来水中氢氧稳定同位素的时空变化进行了探讨，得出以下结论：（1）本文得出的新疆自来水水线为 $\delta ^ { 2 } \mathrm { H } { = } 7 . 6 7 \delta ^ { 1 8 } \mathrm { O } { + }$ 10.54( $R ^ { 2 } { = } 0 . 9 2 )$ ，该方程与全球的大气降水线相比，斜率较低，而与全国自来水水线相比，斜率较为接近。(2）新疆自来水中的氢氧稳定同位素呈现出季节变化特征，总体可以概括为春季富集，秋季贫化。（3）利用BW模型对新疆自来水中氢氧稳定同位素的空间变化进行模拟，南疆自来水中同位素值明显高于北疆，且海拔对自来水同位素值的理论空间分布有明显影响。
+
+# 参考文献(References)：
+
+[1] Bowen GJ,Cai Z,FiorellaRP,et al.Isotopes in the water cycle: regional-to global- scale patterns and applications[J].Annual Review of Earth and Planetary Sciences,2019,47: 453-479.   
+[2] Zhang M J,Wang S J.A review of precipitation isotope studies in China:Basic pattern and hydrological process[J]. Journal of Geographical Sciences,2016,26(7): 921-938.   
+[3] Sprenger M, Tetzlaff D, Soulsby C. Soil water stable isotopes reveal evaporation dynamics at the soil-plant-atmosphere interface of the critical zone[J].Hydrology and Earth System Sciences, 2017,21(7): 3839-3858.   
+[4] GalewskyJ, Steen-Larsen HC,Field RD,etal. Stable isotopes in atmospheric water vapor and applications to the hydrologic cycle [J].Reviews of Geophysics,2016,54(4): 809-865.   
+[5] EhleringerJR,Barnette JE,Jameel Y,et al.Urban water:A new frontier in isotope hydrology[J]. Isotopes in Environmental and Health Studies,2016,52(4-5): 477-486.   
+[6] Leslie D,Welch K, Lyons W B.Domestic water supply dynamics using stable isotopes $\delta ^ { \mathrm { { l 8 } } } \mathrm { { O } }$ ,δD,and $d$ -excess[J].Journal of Water Resource and Protection,2014,6(16): 1517.   
+[7] Bowen G J,Ehleringer JR,Chesson L A,et al. Stable isotope ratios of tap water in the contiguous United States[J].Water Resources Research,2007,43(3): W03419.   
+[8] WestAG,FebruaryEC,Bowen GJ. Spatial analysis of hydrogen and oxygen stable isotopes ("isoscapes") in ground water and tap water across South Africa[J]. Journal of Geochemical Exploration, 2014,145:213-222.   
+[9]Zhao S H, Hu C H,Tian F Q,et al. Divergence of stable isotopes in tap water across China[J]. Scientific Reports,2017,7(1): 43653.   
+[10]De Wet RF,West A G,Harris C.Seasonal variation in tap water $\ S ^ { 2 } \mathrm { H }$ （204号 and $\delta ^ { 1 8 } 0$ isotopes reveals two tap water worlds[J]. Scientific Reports, 2020,10(1): 13544.   
+[11]Nagode K,Kanduc T, Zuliani T,etal. Daily fluctuations in the isotope and elemental composition of tap water in Ljubljana, Slovenia [J]. Water,2021,13(11): 1451.   
+[12]Ammer S TM,Bartelink EJ, Vollner JM,et al. Spatial distributions of oxygen stable isotope ratios in tap water from Mexico for region of origin predictionsofunidentifiedborder crossers[J]Jour nal of Forensic Sciences,2020,65(4): 1049-1055.   
+[13] 张兵,李军,曹佳蕊,等.生活水源的稳定氢氧同位素和水化学 特征——以天津市为例[J].南水北调与水利科技,2020,18(6): 122-129.[Zhang Bing,Li Jun,Cao Jiarui,et al. Stable hydrogen and oxygen isotopes and hydrochemical characteristics of domestic water source:A case study of Tianjin[J]. South-to-North Water Transfers and Water Science & Technology,2020,18(6): 122-129.]   
+[14]Du M X,Zhang MJ, Wang S J,et al.Stable isotope ratios in tap water of a riverside city in a semi-arid climate: An application to water source determination[J]. Water,2019,11(7): 1441.   
+[15]Good S P,Kennedy C D,StalkerJC,et al. Patterns of local and nonlocal water resource use across the western US determined via stable isotope intercomparisons[J].Water Resources Research, 2014,50(10): 8034-8049.   
+[16]TippleBJ,Jameel Y, Chau TH,etal.Stable hydrogenandoxgen isotopes of tap water reveal structure of the San Francisco Bay Area's water system and adjustments during a major drought[J]. Water Research,2017,119: 212-224.   
+[17]Jameel Y,Brewer S,Good SP,et al. Tap water isotope ratios reflect urban water system structure and dynamics across a semiarid metropolitan area[J].Water Resources Research,2016,52(8): 5891-5910.   
+[18]Wang S J, Zhang MJ, Bowen G J,et al.Water source signatures in the spatial and seasonal isotope variation of Chinese tap waters[J]. Water Resources Research,2018,54(11): 9131-9143.   
+[19]Du M X,Zhang MJ, Wang SJ,et al.Stable isotope reveals tap water source under different water supply modes in the eastern margin of the Qinghai-Tibet Plateau[J]. Water,2019,11(12): 2578.   
+[20]Dansgaard W. Stable isotopes in precipitation[J]. Telus,1964,16 (4): 436-468.   
+[21] Bowen G J,Wilkinson B H. Spatial distribution of $\delta ^ { \mathrm { { l 8 } } } \mathrm { { O } }$ in meteoric precipitation[J]. Geology,2002,30(4): 315-318.   
+[22] Craig H. Isotopic variations in meteoric waters[J]. Science,1961, 133(3465): 1702-1703.   
+[23] Liu JR, Song XF, Yuan G F,et al. Stable isotopic compositions of precipitation in China[J]. Tellus B: Chemical and Physical Meteorology,2014,66(1): 22567.   
+[24] 李小飞,张明军,李亚举,等.西北干旱区降水中 $| \delta ^ { \mathrm { 1 8 } } 0 \rrangle$ 变化特征 及其水汽输送[J].环境科学,2012,33(3):711-719.[Li Xiaofei, Zhang Mingjun,Li Yaju,et al. Characteristics of $\delta ^ { 1 8 } 0$ in precipitation and moisture transports over the arid region in Northwest China[J].Environmental Science,2012,33(3): 711-719.]   
+[25]Wang SJ, Zhang MJ,Hughes C E,et al.Factors controlling stable isotope composition of precipitation in arid conditions:An observation network in the Tianshan Mountains, Central Asia[J]. Tellus B: Chemical and Physical Meteorology,2016,68(1): 26206.   
+[26] 陈亚宁,李稚,方功焕,等.气候变化对中亚天山山区水资源影 响研究[J].地理学报,2017,72(1):18-26.[Chen Yaning,Li Zhi, Fang Gonghuan,et al.Impact of climate change on water resources in the Tianshan Mountains, Central Asia[J].Acta Geographica Sinica,2017,72(1): 18-26.]   
+[27]Sokratov S A,Golubev V N.Snow isotopic content change by sublimation[J]. Journal of Glaciology,2009,55(193): 823-828.   
+[28]Yao S B, Jiang D B, Zhang Z S.Lagrangian simulations of moisture sources for Chinese Xinjiang precipitation during 1979-2018[J]. International Journal of Climatology,2021,41(S1):E216-E232.   
+[29]Tan HB,Zhang Y,Rao WB,et al.Rapid groundwater circulation inferred from temporal water dynamics and isotopes in an arid system[J].Hydrological Processes,2021,35(6): e14225.   
+[30]新疆维吾尔自治区统计局.新疆统计年鉴2020[M].北京：中国 统计出版社,2O2O.[Statistics Bureau of Xinjiang Uygur AutonomousRegion.Xinjiang Statistical Yearbook 2O2O[M].Beijing: China Statistics Press,2020.]   
+[31]Lloyd C T, Sorichetta A,TatemAJ.High resolution global gridded data for use in population studies[J]. Scientific Data,2O17,4(1): 1- 17.   
+[32]曾帝,吴锦奎,李洪源,等.西北干旱区降水中氢氧同位素研究 进展[J].干旱区研究,2020,37(4):857-869.[Zeng Di,Wu Jinkui, Li Hongyuan,et al.Hydrogen and oxygen isotopes in precipitation in the arid regions of Northwest China:A review[J].Arid Zone Research,2020,37(4): 857-869.]
+
+# Spatiotemporal variations of stable hydrogen and oxygen isotopes in Xinjiang tap water
+
+XIA Yijie12， WANG Shengjiel²， ZHANG Mingjun12 (1.Collge of GeographyandEnvironmental Science,Northwest Normal University,Lanzhou 73oo70,Gansu,China; 2.Key Laboratory of Resource Environment and Sustainable Development of Oasis of Gansu Province, Lanzhou 730070, Gansu, China)
+
+Abstract: Stable hydrogen and oxygen isotopes are natural tracers reflecting the water cycle process,and tap water is an important domestic water source.The variation of stable hydrogen and oxygen isotopes in tap water is useful for tracing sources of domestic water supply and provides a reference for rational water resource management. The measured isotopic data of 352 tap water samples in Xinjiang were applied to analyze the spatiotemporal variation of stable hydrogen and oxygen isotopes as well as deuterium excess ( $\mathrm { \Delta }$ -excess; $d = \delta ^ { 2 } \mathrm { H } - 8 \delta ^ { 1 8 } \mathrm { O } )$ in tap water. The results show that the $d .$ -excess of the tap water line in Xinjiang is $\delta ^ { 2 } \mathrm { H } = 7 . 6 7 \delta ^ { 1 8 } \mathrm { O } + 1 0 . 5 4$ 0 $R ^ { 2 } = 0 . 9 2$ ） The value of $\delta ^ { 2 } \mathrm { H }$ ranges from $- 1 0 5 . 5 7 \% o$ to $- 3 7 . 8 2 \% o$ on a monthly basis, and $\delta ^ { 1 8 } \mathrm { O }$ ranges from $- 1 4 . 4 8 \% o$ to （204 $- 6 . 6 7 \% o$ . The $d .$ -excess fluctuates from $1 . 8 9 \text{‰}$ to $2 4 . 3 8 \% o$ . The stable hydrogen and oxygen isotopes, as well as $d .$ excess,exhibit seasonal variation in both northern and southern Xinjang,and the seasonal diffrence in southern Xinjiang is greater than that in northern Xinjiang.The BW model is applied to map the stable hydrogen and oxygen isotopes in tap water. Tap water in southern Xinjiang presents higher isotopic values than northern Xinjiang,and water in the mountainous regions shows lower isotopic values than does water in the low-lying basins.
+
+Keywords: tap water; stable hydrogen and oxygen isotopes; $d$ excess; spatio-temporal variation; Xinjiang

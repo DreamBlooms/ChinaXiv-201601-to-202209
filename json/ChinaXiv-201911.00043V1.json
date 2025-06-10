@@ -1,0 +1,446 @@
+[
+    {
+        "type": "text",
+        "text": "黄河乌兰布和沙漠段两岸地表沉积物多重分形特征及其指示意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常宏，左合君，王海兵，闫敏（内蒙古农业大学沙漠治理学院,内蒙古自治区风沙物理与防沙治沙工程重点实验室,内蒙古 呼和浩特010011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了揭示黄河乌兰布和沙漠段两岸风沙沉积环境差异性与东岸沙物质来源,运用多重分形理论分析了两岸不同下垫面地表沉积物粒度多重分形特征。结果表明：除草地外，两岸沉积物众数粒径范围西岸为 $1 8 9 . 1 3 \\sim$ $2 1 2 . 2 0 ~ \\mu \\mathrm { m }$ ,东岸为 $1 3 3 . 8 9 \\sim 1 6 8 . 5 6 ~ upmu \\mathrm { m }$ ,东岸地表颗粒整体较细,风能环境较弱。多重分形参数 $( D _ { 0 } , D _ { 1 } , D _ { 2 } , \\Delta \\alpha ,$ △f)均表现为东岸 $>$ 西岸,东岸沉积物粒径分布范围大、局部叠加程度强,进一步表明东岸沉积物颗粒属性差异大、颗粒来源范围广、沉积过程复杂、沉积环境多样。多重分形各参数与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ $. 1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 粒径颗粒含量存在显著相关,据风沙颗粒运移规律,结合两岸地形地貌,初步揭示上风向乌兰布和沙漠为黄河东岸 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 悬移颗粒的主要源区之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沉积物；粒度；多重分形参数；沉积环境；乌兰布和沙漠段；黄河",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄河上游乌兰布和沙漠宽谷段位于贺兰山东北部，鄂尔多斯高原西部，西岸为沙源丰富的乌兰布和沙漠,东岸为鄂尔多斯高原西桌子山前冲积平原。该区域风沙、水沙活动强烈。近几十年来，关于黄河乌兰布和沙漠段风沙运移[1-4]研究表明:在西风、西北风的作用下，乌兰布和沙漠向东推进，沙漠粗砂被黄河拦截，其沙物质难以抵达黄河东岸；也有研究提出，乌兰布和沙漠沙物质可在黄河冰封时期,通过冰面抵达黄河东岸[5]。在此基础上,东岸大片复合状沙丘沙物质来源及其风沙沉积环境特征逐渐引起了研究人员的关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "粒度作为沉积物物理属性之一，其组成和分布受物源组分、搬运方式、沉积环境等因素的控制[6]不同的输移方式、沉积环境致使其组分特征存在明显差异，因此，粒度特征对于揭示沉积物来源及其沉积环境具有重要的意义。目前，基于沉积物粒度特征判定沉积物来源及沉积环境的研究主要集中于区域古环境和古气候等[7-9]方面，主要运用 Folk、Ward[1°的图解公式转换法,从整体上描述粒度特征，以此判别沉积物类型及沉积环境。这种传统的统计方法对于判断粒径分布的细微差异具有一定的局限性，因此，对现代相同类型沉积物粒径分布的局部差异性与不均匀性并不能做出准确的判断。多重分形采用最小二乘法数学统计原理，将激光衍射测量的所有粒径结果进行等距划分，通过谱函数的形式表示粒径分形结构上不同局域的差异特征，从系统的局部出发研究其整体特征，能够有效的描述沉积物粒径分布的差异性与不均匀性(11-12]。近年来，粒度多重分形理论在土壤理化性质[13]、土壤肥力[]以及沙漠灌丛土壤风蚀[14]等方面已得到应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，本文运用多重分形理论分析黄河乌兰布和沙漠段两岸不同下垫面地表沉积物粒径分布特征，探讨两岸风沙沉积环境特征，揭示黄河东岸细颗粒物质来源，为荒漠化地区的环境演变以及荒漠化防治提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区位于黄河上游乌兰布和沙漠段( $3 9 ^ { \\circ } 4 1 ^ { \\prime }$ $1 0 . 9 9 ^ { \\prime \\prime } \\sim 4 0 ^ { \\circ } 0 8 ^ { \\prime } 5 1 . 9 1 ^ { \\prime \\prime } \\mathrm { N }$ $1 0 6 ^ { \\circ } 3 6 ^ { \\prime } 3 8 . 7 6 \" \\sim 1 0 6 ^ { \\circ } 5 3 ^ { \\prime }$ $2 4 . 5 8 ^ { \\prime \\prime } \\mathrm { E }$ )，东部为南北走向绵延百里的桌子山，西部为大片的乌兰布和沙漠，中部为被约束在贺兰山和鄂尔多斯高原之间的黄河峡谷河道，整体地势东部高于西部高于中部[15]。区域属温带大陆性季风气候，降水稀少，风沙天气频繁，风害多为西北风、西风、西南风,大风时间主要集中在3、4、5月份，全年风沙日数大于80d,年平均扬沙日数大于30 d[16]天然灌丛植被有白刺（Nitrariatangutorum）、霸王(Sarcozygium xanthoxylon）、梭梭（Haloxylon ammo-dendron）、油蒿（Artemisiaordosica）、沙冬青（ $A m \\cdot$ （204mopiptanthusmongolicus）等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样品采集2018 年5月下旬，沿黄河两岸（W表示西岸，E表示东岸）分别选取草地（以G表示，盖度 $6 0 \\% \\sim 8 0 \\%$ ）、固定沙丘（以Fd表示，盖度$4 0 \\% \\sim 6 0 \\%$ ）、半固定沙丘（以SFd表示，盖度$30 \\% \\sim 4 0 \\%$ ）、半流动沙丘（以SMd表示，盖度$10 \\% \\sim 3 0 \\%$ ）、流动沙丘（以Md表示，盖度 $< 1 0 \\%$ )5种地表类型，分别于两岸每种立地类型地表 $0 \\sim 5$ cm 处随机取6\\~9个沉积物样品，每个样品重 $5 0 \\sim$ $1 0 0 \\ \\mathrm { g }$ ,两岸共计78个样品（图1）,其中4 种沙丘（沙丘高度 $< 0 . 8 0 \\mathrm { ~ m ~ }$ )样品取自沙丘顶部，采样后将样品装入自封袋中带回实验室，自然风干并过 $2 ~ \\mathrm { m m }$ 筛，除去叶片、植物根系等杂质后，装入自封袋以待测量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2指标测定称取风干过筛后的土样 $0 . 8 0 \\sim$ $ { 1 . 2 0 \\mathrm { ~ g ~ } }$ 于 $5 0 ~ \\mathrm { m L }$ 烧杯中,加入 $1 0 ~ \\mathrm { m L }$ 浓度 $10 \\%$ 的$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 加热，以除去样品中的有机质，然后加入10$\\mathrm { m L }$ 浓度 $0 . 1 0 ~ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的 HCl以除去样品中的碳酸盐，待溶液无气泡产生时停止加热,冷却后将溶液移入 $5 0 0 ~ \\mathrm { m L }$ 烧杯中，加满超纯水稀释静置 $1 2 \\mathrm { ~ h ~ }$ ,移去上清液，如此反复稀释直至溶液pH为 $6 . 5 0 \\sim 7 . 0 0$ 时，利用Mastersizer 3000 激光粒度仪测量样品粒径的体积分数,每个样品重复测量3次取平均值[17]，各立地条件下的粒度组分含量以同一岸相同立地条件下所有样品的均值计算。粒级划分根据美国制土壤粒级划分标准分为8级，黏粒 $( 0 \\sim 2 ~ \\mu \\mathrm { m } )$ ）、细粉粒二 $2 \\sim 2 0 ~ \\mu \\mathrm { m } ,$ ）、粗粉粒（ $( 2 0 \\sim 5 0 ~ \\mu \\mathrm { m }$ ）、极细砂( $5 0 \\sim$ $1 0 0 ~ { \\mu \\mathrm { m } }$ ）、细砂( $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 、中砂( $2 5 0 \\sim 5 0 0$ ${ \\mu \\mathrm { m } } ,$ ）、粗砂 $( 5 0 0 \\sim 1 ~ 0 0 0 ~ \\mu \\mathrm { m } )$ ）、极粗砂( $1 \\ 0 0 0 \\sim 2 \\ 0 0 0$ μm）[17] C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3多重分形参数模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沉积物样品通过激光粒度仪测定后，获取粒径${ \\bf \\Xi } ( \\mu \\mathrm { m } )$ 区间 $I = \\left[ 0 . 0 2 , 2 \\ 0 0 0 \\right]$ 的测量结果，以粒径对数等差递增值为间隔,将 $I$ 划分为 $I _ { i } = \\left[ \\varphi _ { i } , \\varphi _ { i + 1 } \\right]$ 的100 个子区间,其中 $\\varphi _ { i } ( i = 1 , 2 , 3 , \\cdots , 1 0 0 )$ 为测量样品的粒径，用 $V _ { \\scriptscriptstyle i } ( i = 1 , 2 , 3 , \\cdots , 1 0 0 )$ 表示每个子区间内沉积物颗粒的体积百分数，即： $\\sum _ { i = 1 } ^ { 1 } V _ { i } = 1 0 0$ ，根注:Md 为流动沙丘;SMd为半流动沙丘;SFd为半固定沙丘;Fd为固定沙丘;G 为草地;括号中数字表示该立地类型下两岸共取样个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/224763b79aedc8ddefd9c60ca73a2db07efb0e5bcbf834872f7a2973e9f85eec.jpg",
+        "img_caption": [
+            "图1风向、样地及取样点",
+            "Fig.1 Wind directions,sample plots and sample sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据 $I _ { i }$ 划分原理， $\\log \\left( \\varphi _ { i + 1 } / \\varphi _ { i } \\right)$ 为常数[18]。为了应用多重分形原理分析区间 $I$ 的沉积物粒度特征，还需构造一个无量纲区间 $J$ ，使各个子区间长度相同，其中 $J = \\big [ \\log ( 0 . 0 2 / 0 . 0 2 )$ ， $\\log ( 2 ~ 0 0 0 / 0 . 0 2 ) ~ ] = [ 0 , 5 ]$ ，运用二进制等分法将区间 $J$ 划分为 $N ( \\varepsilon ) = 2 ^ { k }$ 个等距 $\\mathit { \\Omega } _ { \\varepsilon = 5 \\times 2 ^ { - k } }$ )子间距 $J _ { i }$ ,为了使每个子区间都包含测量值， $k = 1 , 2 , 3 , \\cdots , 6 .$ 。子区间 $J _ { i }$ 中沉积物粒径分布的概率密度用 $p _ { i } ( \\varepsilon )$ 表示，利用 $p _ { i } ( \\varepsilon )$ 构造一个配分函数族[19]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { u _ { i } ( { \\boldsymbol { q } } , { \\boldsymbol { \\varepsilon } } ) \\ = \\ { \\frac { p _ { i } ( { \\boldsymbol { \\varepsilon } } ) ^ { \\boldsymbol { q } } } { N ( { \\boldsymbol { \\varepsilon } } ) } } } \\\\ { \\qquad \\sum _ { i = 1 } p _ { i } ( { \\boldsymbol { \\varepsilon } } ) ^ { \\boldsymbol { q } } \\ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $u _ { i } ( q , \\varepsilon )$ 为 $J$ 中第 $i$ 个子区间的 $q$ 阶概率, $q$ 为 [-10,10］区间内的整实数。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1多重分形广义维数谱 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( q ) = { \\frac { 1 } { q - 1 } } { \\mathrm { l i m } } { \\frac { \\mathrm { l g } \\left( \\sum _ { i = 1 } ^ { N ( \\varepsilon ) } p _ { i } { \\left( \\varepsilon \\right) } ^ { q } \\right) } { \\mathrm { l g } \\varepsilon } } , \\left( q \\neq 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { 1 } = \\operatorname* { l i m } _ { \\varepsilon \\to 0 } \\frac { \\sum _ { i = 1 } ^ { N ( \\varepsilon ) } p _ { i } ( \\varepsilon ) ^ { q } \\mathrm { l g } p _ { i } ( \\varepsilon ) } { \\mathrm { l g } \\varepsilon } , \\left( q = 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，广义维数谱 $D ( q )$ 从整体上反映多重分形的特征[20],当 $q < 0$ 时,沉积物组分低密度或小概率分布信息被放大； $q > 0$ 时，高密度或大概率分布信息被放大[13]。 $q$ 分别为0、1、2 时,相对应的广义维数谱 $D _ { 0 } \\setminus D _ { 1 } \\setminus D _ { 2 }$ 分别为沉积物粒度分布的容量维数、信息熵维数和关联维数[1]。 $D _ { 0 }$ 表征粒径分布的范围，与粒径分布的宽度成正比; $D _ { 1 }$ 代表沉积物粒径分布的集中性，与沉积物颗粒分布的密集度成反比； $D _ { 2 }$ 表示沉积物粒径在测量间隔上的均匀程度,与测量间隔上均匀程度成正比[18] ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2多重分形奇异性指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ( q ) = \\operatorname* { l i m } _ { \\varepsilon  0 } { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N ( \\varepsilon ) } u _ { i } ( q , \\varepsilon ) \\log p _ { i } ( \\varepsilon ) } { \\log \\varepsilon } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具有奇异性指数的分形子集的多重分形谱函数:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\alpha ( q ) ) = \\operatorname* { l i m } _ { \\varepsilon \\to 0 } { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N ( \\varepsilon ) } u _ { i } ( q , \\varepsilon ) \\log u _ { i } ( q , \\varepsilon ) } { \\log \\varepsilon } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f \\mathrm { = } f ( \\alpha ( \\mathrm { \\Delta } q ) \\mathrm { _ { \\ m a x } } ) \\mathrm { \\ } - f \\mathrm { ( } \\alpha ( \\mathrm { \\Delta } q ) \\mathrm { _ { \\ m i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "奇异性指数 $\\alpha ( q )$ 与多重分形谱函数 $f ( \\alpha ( { q } ) )$ 反映了多重分形的局部分维特征[13]。 $\\alpha _ { 0 } \\left( q = 0 \\right.$ 时$\\alpha ( q )$ 的值)为奇异谱函数的均值，与粒径分形结构上局部密集度成反比。 $\\Delta \\alpha = \\alpha ( \\mathrm { \\Delta } q ) _ { \\mathrm { \\scriptsize ~ m a x } } - \\alpha ( \\mathrm { \\Delta } q ) _ { \\mathrm { \\scriptsize ~ m i n } }$ 为多重分形奇异谱的谱宽，代表整个分形结构上的差异性与不均匀性， $\\Delta \\alpha$ 越大，分布越不均匀; $\\Delta f$ 代表了多重分形谱的形状特征[13], $\\Delta f < 0$ 时 $, f ( \\alpha ( q ) ) \\sim \\alpha$ $( q )$ 图像呈左钩状,影响沉积物粒径不规则、分布不均匀的主导物质为粒径体积分数较大的颗粒; $\\Delta f > 0$ 时 $, f ( \\alpha ( q ) ) \\sim \\alpha ( q )$ 呈右钩状，则起主导作用的为沉积物中体积分数较小的颗粒[13] C",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用Excel2010进行数据整理与计算，采用Origin2017进行图表绘制、SPSS24.0进行相关分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 两岸不同地表沉积物粒度分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，Md、SMd、SFd、Fd、G地表沉积物的众数粒径在黄河西岸分别为： $2 1 2 . 2 0 ~ \\mu \\mathrm { m }$ 、$2 3 8 . 0 9 ~ { \\mu \\mathrm { m } } \\cdot 2 1 2 . 2 0 ~ { \\mu \\mathrm { m } } \\cdot 1 8 9 . 1 3 ~ { \\mu \\mathrm { m } } \\cdot 3 7 . 7 4 ~ { \\mu \\mathrm { m } }$ ;在黄河东岸分别为： $1 6 8 . 5 6 ~ { \\mu \\mathrm { m } } . 1 5 0 . 2 3 ~ { \\mu \\mathrm { m } } . 1 5 0 . 2 3 ~ { \\mu \\mathrm { m } } .$ $1 3 3 . 8 9 ~ { \\mu \\mathrm { m } } . 3 7 . 7 4 ~ { \\mu \\mathrm { m } }$ 。沙丘与草地沉积物众数粒径分别集中在 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 范围内。$1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒在 $\\mathrm { M d } , \\mathrm { S M d } , \\mathrm { S F d } , \\mathrm { F d } , \\mathrm { G }$ 地表沉积物中所占体积分数西岸分别为：77. $7 5 \\%$ 、$6 7 . 9 3 \\% 6 0 . 4 9 \\% 4 8 . 5 6 \\% 1 5 . 9 8 \\%$ ;东岸分别为：$7 4 . 9 7 \\% . 6 7 . 0 6 \\% . 5 4 . 1 4 \\% . 4 6 . 3 8 \\% . 1 5 . 6 9 \\%$ 。而$2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的悬浮颗粒在 Md、SMd、SFd、Fd、G中所占体积分数西岸分别为： $0 . 4 1 \\% . 2 . 1 4 \\% . 4 . 2 0 \\%$ 、$1 5 . 9 2 \\%$ 、 $5 5 . 0 1 \\%$ ;东岸分别为： $0 . 9 1 \\% . 5 . 0 4 \\%$ 、$1 2 . 3 0 \\% . 2 2 . 0 2 \\% . 6 0 . 4 7 \\%$ 。相同立地条件下，黄河东岸地表沉积物整体质地较细。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 两岸不同地表沉积物多重分形特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1广义维数谱变化特征从 $D ( q ) \\sim q$ 曲线中可以看出（图3），沉积物粒径分布的广义维数谱具有一定宽度的反“S”递减曲线，即 $D ( q )$ 具有一定的值域。图中 $q < 0$ 时的曲线递减幅度大于 $q > 0$ 时的递减幅度;相同立地条件下，东岸的递减幅度整体大于西岸，表明沉积物组分小概率区域东岸比西岸差异更大。结合表1发现,不同立地条件下, $D _ { 0 } , D _ { 1 }$ 、$D _ { 2 }$ 为 $\\mathrm { M d } < \\mathrm { S M d } < \\mathrm { S F d } < \\mathrm { F d } < \\mathrm { G }$ ，且G与其他4种样地存在显著( $\\scriptstyle P < 0 . 0 5 )$ 差异，说明植被盖度越大，沉注;Md 为流动沙丘;SMd为半流动沙丘;SFd为半固定沙丘;Fd为固定沙丘;G为草地;W表示西岸;E表示东岸。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/47d1781c3b170a3fb3bfd47e3db356feaecca7568700a40aee31355940707569.jpg",
+        "img_caption": [
+            "图2沉积物颗粒频率分布曲线",
+            "Fig.2Distribution curves of particle frequencies of sediment ",
+            "图3沉积物粒径分布广义维数谱 Fig.3 Generalized dimensional spectrum of particle size distribution of sediment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "302520△E-SFd  \n1.5 -Fd W-GE-G  \n1.0  \n0.5 火 心 心 心  \n0.0 1 1 1 上 ⊥ 1-10 -8 -6 -4 -2 0 2 4 6 8 10q",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "积物粒径分布的范围越宽，颗粒分布越离散，在测量间隔上分布越均匀。相同立地条件下，Md、SFd、G的 $D _ { 0 } \\setminus D _ { 1 } \\setminus D _ { 2 }$ 值东岸大于西岸，而 SMd与Fd东岸小于西岸，受地形地貌影响，区域盛行风在东岸受到阻碍,风沙活动减弱，导致东岸Md、SFd、G地表沉积物组分发生变化，沉积物粒径分布范围变大，颗粒分布变得离散，在测量间隔上分布更为均匀，在此基础上",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SMd与Fd受人为扰动更为明显，因而沉积物粒径分布范围较小,颗粒较为集中，测量间隔上分布差异性较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2奇异谱变化特征广义维数谱反映了粒径多重分形的整体特征，而奇异谱则反映了多重分形的局部特征。从 $f ( \\alpha ( q ) ) \\sim \\alpha ( q )$ 奇异谱中可以看出（图4)，所有样品的奇异谱均呈不对称的上凸左钩状曲线，说明沉积物在形成过程中局部发生了不同程度的叠加[13]。 $f ( \\alpha ( q ) ) _ { \\mathrm { m a x } }$ 变化为： $\\mathrm { M d } ( 0 . 5 5 \\sim$ （204号0.56) $< \\mathrm { S M d } ( 0 . 6 3 \\sim 0 . 6 5 ) < \\mathrm { S F d } ( 0 . 6 6 \\sim 0 . 6 7 ) <$ $\\mathrm { F d } ( 0 . 8 1 \\sim 0 . 8 5 ) < \\mathrm { G } ( 0 . 8 4 )$ ，曲线钩状向左倾斜程度变大，结合表2，G与其他样地均存在不同程度的差异性，说明在地表沉积物形成过程中，植被可以使沉积物组分的局部叠加程度增强。相同立地条件下， $\\alpha _ { 0 } \\ldots \\Delta \\alpha \\ldots \\Delta f$ 均为西岸 $\\angle$ 东岸，区域盛行风所携带的沙物质在东岸受地形地貌以及植被的影响，风速减弱，沙物质沉积，常年风季与非风季的交替出现，沙物质在东岸循环沉积，致使东岸沉积物粒径的局部离散性变高、差异性增大，较大体积分数的局部变异性增强，沉积过程局部叠加程度更强。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecd6b4046c47debad115e1d0d60433c06089de496f5c5c8cd1fcb4c5a31d38ef.jpg",
+        "table_caption": [
+            "Tab.1Parameters of $D ( q )$ of different sediments "
+        ],
+        "table_footnote": [
+            "注;W表示西岸;E表示东岸;M表示两岸的均值。同行不同字母表示不同类型沉积物存在显著差异( $\\cdot P < 0 . 0 5 , \\mathrm { { a } = M d . \\mathrm { { b } = S M d \\Omega , \\mathrm { { c } = S F d \\Omega , \\mathrm { { d } = } } } }$ $ { \\mathrm { F d } } _ { \\ b { \\cdot } }  { \\mathrm { e } } =  { \\mathrm { G } }$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">参数</td><td>Md</td><td>SMd</td><td>SFd</td><td>Fd</td><td>G</td></tr><tr><td>D0</td><td>W</td><td>0.55 ±0.09</td><td>0.65 ±0.14</td><td>0.66 ±0.15</td><td>0.85 ±0.01</td><td>0.84 ±0.01</td></tr><tr><td></td><td>E</td><td>0.56 ±0.08</td><td>0.63 ±0.11</td><td>0.67 ±0.07</td><td>0.81 ±0.05</td><td>0.84 ±0.01</td></tr><tr><td>D</td><td>M</td><td>0.56 ±0.00bcde</td><td>0.64 ±0.01de</td><td>0.67 ±0.00ade</td><td>0.83 ±0.03abc</td><td>0.84±0.00abc</td></tr><tr><td></td><td>W</td><td>0.35 ±0.04</td><td>0.41 ±0.03</td><td>0.43 ±0.08</td><td>0.60 ±0.05</td><td>0.68 ±0.07</td></tr><tr><td></td><td>E</td><td>0.36 ±0.03</td><td>0.41 ±0.01</td><td>0.44 ±0.03</td><td>0.53 ±0.07</td><td>0.69 ±0.04</td></tr><tr><td></td><td>M</td><td>0.36±0.04cde</td><td>0.41 ±0.01de</td><td>0.43 ±0.01ade</td><td>0.57±0.05abce</td><td>0.69 ±0.01abcd</td></tr><tr><td>D2</td><td>W</td><td>0.32 ±0.04</td><td>0.37 ±0.02</td><td>0.38 ±0.07</td><td>0.52 ±0.05</td><td>0.63 ±0.08</td></tr><tr><td></td><td>E</td><td>0.32 ±0.02</td><td>0.37±0.01</td><td>0.40 ±0.03</td><td>0.46 ±0.06</td><td>0.63 ±0.05</td></tr><tr><td></td><td>M</td><td>0.32±0.00cde</td><td>0.37 ±0.00de</td><td>0.39 ±0.02ade</td><td>0.49 ±0.04abce</td><td>0.63 ±0.12abcd</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/abde1e39d1eddc77e362efbd396a37de943399f92ab2431ed9fcbd088db79812.jpg",
+        "img_caption": [
+            "图4多重分形奇异谱Fig.4Multifractal singular spectrum"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3多重分形参数与沉积物颗粒组分的相关分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对沉积物颗粒组成与多重分形参数进行相关分析,得到表3相关性结果,其中 $D _ { 0 }$ 与 $2 \\sim 2 0 ~ \\mu \\mathrm { m }$ 的颗粒呈极显著( $P < 0 . 0 1 )$ 正相关，与 $2 0 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著( $P < 0 . 0 5 )$ 正相关，与 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈负相关，相关系数为-0.60，相关性较低;$D _ { 1 } \\setminus D _ { 2 }$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈极显著( $\\ P < 0 . 0 1 )$ 正相关,与 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著( $\\textstyle P < 0 . 0 5 )$ 负相关。 $\\Delta \\alpha , \\Delta f$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著（ $\\boldsymbol { P } <$ 0.05)负相关，与 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著( $P <$ 0.05)正相关。可见， $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 与 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒含量能够显著影响研究区地表沉积物颗粒分布的均匀性与沉积物粒径的分形结构，沉积物中 $2 \\sim$ $5 0 ~ { \\mu \\mathrm { m } }$ 的颗粒含量越多或 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒含量减少，均会使沉积物的粒径分布范围变大，使颗粒分布越离散，粒径分布测量间隔上越均匀，而分形结构的局部不均匀程度越大，沉积物组分局部叠加程度越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，黄河两岸4种沙丘样地地表沉积物均以 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒为主，所占体积分数为$7 7 . 7 5 \\% \\sim 4 6 . 3 8 \\%$ ，前人研究，乌兰布和沙漠细砂（100～250μm）体积分数流动沙丘为77.41%〔21]半固定梭梭林为61. $6 5 \\%$ ，固定油蒿沙丘为$5 7 . 4 4 \\%$ [22],本文研究结果与之基本一致。5 种立地条件下,东岸 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒含量为 $0 . 9 1 \\%$ \\~$6 0 . 4 7 \\%$ ,西岸为 $0 . 4 1 \\% \\sim 5 5 . 0 1 \\%$ ;刘芳等[23]、陈新闯等[24]人对乌兰布和沙区风沙运移规律及下风向降尘来源分析表明，乌兰布和沙区以NW－WNW风为主，时间主要集中在3一4月、11一12月，起沙风以 $7 ~ \\sim 1 1 ~ \\mathrm { ~ m ~ } \\cdot { \\mathrm { ~ s ~ } ^ { - 1 } }$ 的风速为主，起沙风频达到$8 9 . 8 3 \\%$ ,沙漠降尘以细砂( $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m } )$ 为主，随着下风向距离的增加，细沙物质逐渐减少，粉粒（204号 $( 2 \\sim 5 0 ~ \\mu \\mathrm { m } )$ 和极细砂 $( 5 0 \\sim 1 0 0 ~ \\mu \\mathrm { m }$ )含量显著增加。毛东雷等[25]对新疆策勒绿洲—沙漠过渡带风沙运动沙尘粒径分析表明，空气流中距离地表较高的大气降尘含有 $8 8 . 0 2 \\%$ 的粉粒 $( 2 \\sim 5 0 ~ \\mu \\mathrm { m } )$ ；本研究中，受强风沙活动影响，桌子山前冲积洪积物就地发育，东岸补充粗颗粒的同时， $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒所占的比例仍然较西岸高，主要原因为临近西岸的乌兰布和沙漠（面积约 $1 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,平均海拔 $1 0 4 1 \\mathrm { ~ m ~ }$ ）为我国西北主要的沙（ ${ \\mathit { \\Omega } } ^ { \\prime } 5 0 \\sim 2 \\ 0 0 0 \\ { \\mu \\mathrm { m } }$ ）、尘 $( 2 \\sim 5 0$ $\\mu \\mathrm { m }$ )源区之一，且处于研究区上风向，可提供丰富的沙尘 $( 2 \\sim 5 0 ~ \\mu \\mathrm { m } )$ 物质，而东岸桌子山处于研究区下风向，走向垂直于主导风向，主峰海拔2149.40$\\mathbf { m } ^ { [ 2 6 ] }$ ,东西两岸地形高程差值最大可达到1108.40$\\mathrm { ~ m ~ }$ ,在常年主导风的作用下，乌兰布和沙漠中沙物质东移,粗颗粒被黄河拦截,而 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的悬移颗粒随气流运动，在东岸突遇桌子山阻挡，随风速的减弱而沉积[5],致使东岸地表沉积物中 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒含量较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/233c1292dd86402e28a9457c21ef8680a20d886dec164d528ea4bbde730b3618.jpg",
+        "table_caption": [
+            "表1不同类型沉积物 $D ( q )$ 参数",
+            "表2不同类型沉积物奇异谱参数",
+            "Tab.2Parameters of singular spectra of different sediments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">参数</td><td>Md</td><td>SMd</td><td>SFd</td><td>Fd</td><td>G</td></tr><tr><td rowspan=\"2\">α0</td><td>W</td><td>1.14 ±0.07</td><td>1.16 ±0.24</td><td>1.17 ±0.17</td><td>1.22 ±0.10</td><td>1.11 ±0.07</td></tr><tr><td>E</td><td>1.24 ±0.14</td><td>1.18 ±0.33</td><td>1.20 ±0.16</td><td>1.27 ±0.08</td><td>1.14 ±0.07</td></tr><tr><td rowspan=\"4\">△α</td><td>M</td><td>1.19 ±0.04d</td><td>1.17 ±0.01d</td><td>1.19 ±0.02</td><td>1.24 ±0.04abe</td><td>1.13 ±0.02d</td></tr><tr><td>W</td><td>2.89 ±0.28</td><td>2.61 ±0.81</td><td>2.56±0.08</td><td>2.57 ±0.09</td><td>2.35 ±0.06</td></tr><tr><td>E</td><td>3.00±0.09</td><td>2.74 ±0.20</td><td>2.78 ±0.27</td><td>2.58 ±0.12</td><td>2.50 ±0.25</td></tr><tr><td>M</td><td>2.94 ±0.08bcde</td><td>2.68 ±0.09a</td><td>2.67 ±0.16a</td><td>2.58 ±0.01a</td><td>2.43 ±0.11a</td></tr><tr><td rowspan=\"3\">△f</td><td>W</td><td>-0.06 ±0.05</td><td>-0.12 ±0.06</td><td>-0.12 ±0.07</td><td>-0.16±0.03</td><td>-0.27 ±0.08</td></tr><tr><td>E</td><td>-0.06±0.09</td><td>-0.05±0.10</td><td>-0.10±0.05</td><td>-0.06±0.09</td><td>-0.21 ±0.12</td></tr><tr><td>M</td><td>-0.06 ±0.00e</td><td>-0.08 ±0.05e</td><td>-0.11 ±0.01e</td><td>-0.11 ±0.07e</td><td>-0.24 ±0.04abcd</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0012eb437ae3eb7c259d789a9e1ad3467247d54eb54197280adf90e1f0d9bebb.jpg",
+        "table_caption": [
+            "表3沉积物多重分形参数与沉积物组分的相关系数",
+            "Tab.3Correlation coeficients between multi-fractal parameters and components of sediment "
+        ],
+        "table_footnote": [
+            "注： $*$ 与 $^ { * * }$ 分别表示在 $P < 0 . 0 5$ 与 $P < 0 . 0 1$ 水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td><2 μm</td><td>2~20 μm</td><td>20~50 μm</td><td>μm</td><td>50~100 100~250 250~500 μm</td><td>μm</td><td>500~ 1 000 μm 2 000 μm</td><td>1 000~</td><td>D0</td><td>D</td><td>D2</td><td>α</td><td>△α</td><td>△f</td></tr><tr><td><2 μm</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2~20 μm</td><td>0.03</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20~50 μm</td><td>0.28</td><td>0.96 **</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>50~100</td><td>0.95 **</td><td>0.05</td><td>0.29</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>μm 100~250</td><td>-0.67 *</td><td>-0.72 *</td><td>-0.86 **</td><td>-0.65 *</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>μm 250~500</td><td>-0.57</td><td>-0.50</td><td>-0.62</td><td>-0.71*</td><td>0.62</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>μm 500~1000</td><td>-0.25</td><td>0.06</td><td>-0.11</td><td>-0.28</td><td>0.06</td><td>0.29</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>μm 1000~2 000- 0.22</td><td></td><td>-0.20</td><td>-0.26</td><td>-0.10</td><td>0.25</td><td>0.04</td><td>0.53</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>μm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D0 D1</td><td>0.00 0.02</td><td>0.94 ** 0.80 **</td><td>0.70 *</td><td>0.09</td><td>-0.60</td><td>-0.42</td><td>0.42 0.30</td><td>-0.01</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D2</td><td>0.04</td><td>0.96 **</td><td>0.86 ** 0.90 **</td><td>0.08</td><td>-0.69 *</td><td>-0.48</td><td>0.24</td><td>-0.06 -0.06</td><td>0.96 **</td><td>1.00</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>-0.12</td><td>-0.47</td><td>-0.55</td><td>0.09</td><td>-0.72 *</td><td>-0.51</td><td></td><td></td><td>0.92 **</td><td>0.99 **</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>α</td><td></td><td></td><td></td><td>-0.03</td><td>0.52</td><td>-0.12</td><td>0.06</td><td>0.13</td><td>-0.06</td><td>-0.27</td><td>-0.34</td><td>1.00</td><td></td><td></td></tr><tr><td>△α</td><td>-0.06</td><td>-0.76 *</td><td>-0.73 *</td><td>-0.13</td><td>0.68 *</td><td>0.29</td><td>-0.32</td><td>0.10</td><td></td><td></td><td></td><td>-0.87** -0.86** -0.85** 0.361.00</td><td></td><td></td></tr><tr><td>△f</td><td>0.07</td><td>-0.88 **</td><td>-0.82 **</td><td>0.10</td><td>0.63 *</td><td>0.22</td><td>-0.37</td><td>0.03</td><td>-0.73 *</td><td></td><td></td><td>-0.85 ** -0.88**0.61</td><td></td><td>0.80**1.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相同立地条件下，Md、SFd、G的广义维数谱参数 $D _ { 0 } \\setminus D _ { 1 } \\setminus D _ { 2 }$ 东岸大于西岸，SMd与Fd西岸大于东岸，通过图1研究区影像可知，东岸地表粗糙度明显大于西岸，结合表 $^ 3 , D _ { 1 } , D _ { 2 }$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著正相关，与 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒呈显著负相关；主要原因可能有： $\\textcircled{1}$ 取样过程中东岸各样地植被盖度较大，因而风季尘暴过程中地表风蚀程度比西岸弱，植被拦截的细颗粒较多； $\\textcircled{2}$ 西岸地势开阔、地貌单一、植被稀少，来源于上风向的悬移(2～50${ \\mu \\mathrm { m } } ,$ )颗粒运输过程中在西岸较难沉降，而在东岸受桌子山的阻挡容易沉降，因而东岸 $\\mathrm { M d } , \\mathrm { S F d } , \\mathrm { G }$ 中沉积物细颗粒物质较多，粒径分布范围较大，颗粒分布更离散，在测量间隔上分布更均匀。而SMd与Fd东岸取样点离桌子山矿区、光伏发电区较近，受人类活动影响,地表沉积物中 $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒主导作用更大，因而 $D _ { 0 } \\setminus D _ { 1 } \\setminus D _ { 2 }$ 分别小于西岸。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验中多重分形奇异谱参数 $\\alpha _ { 0 } \\backprime \\Delta \\alpha \\backprime \\Delta f$ 东岸均大于西岸，原因可能为黄河西岸几乎全部为单一的沙漠地貌类型,各样地在自然风沙活动中，地表颗粒均匀粗化。而东岸地形地貌变化起伏较大，地表环境复杂多样，植被覆盖度整体较高，乌兰布和沙漠中的悬移物质以风沙运移的形式[21抵达东岸并沉积，其次在强风沙活动过程中，桌子山山前洪积物可就地发育，形成局地粗颗粒物质，加之植被对地表风沙活动的影响，导致地表沉积物粒配组成发生变化，因而东岸地表沉积物中粗细颗粒表现出不均匀性，致使东岸粒径分布的差异性更大[16，较大体积分数的局部变异程度更高,沉积过程局部叠加程度复杂。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究区 $\\Delta \\alpha$ 整体变化范围为 $2 . 3 5 \\sim 3 . 0 0$ ，与前人(11,19]研究相比范围较大,研究区地表沉积物粒径分布局部变异性与不均匀性处于较高水平。$D _ { 0 } \\ 、 D _ { 1 } 、 D _ { 2 } 、 \\Delta \\alpha \\ 、 \\Delta f$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m } \\setminus 1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒分别存在显著正相关与负相关性，这与土壤中黏粒(13.19]、砂粒[10,13]分别对土壤多重分形参数具有显著影响的结论均存在不一致性，主要原因为研究区样地主要为风沙活动极为强烈的荒漠地区，实验测量的样品中几乎不( $( < 0 . 1 1 \\% )$ 含黏粒，因而在干旱荒漠化地区， $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 与 $1 0 0 \\sim 2 5 0$ $\\mu \\mathrm { m }$ 颗粒对地表沉积物粒径分布不均匀具有显著影响是合理的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）黄河乌兰布和沙漠段两岸沙丘组分主要为$1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒,草地主要组分为 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 的颗粒；Md、SMd、SFd、Fd、G地表沉积物的众数粒径西岸分别为： $: 2 1 2 . ~ 2 0 ~ { \\mu \\mathrm { m } } . 2 3 8 . 0 9 ~ { \\mu \\mathrm { m } } . 2 1 2 . ~ 2 0 ~ { \\mu \\mathrm { m } } .$ （204$1 8 9 . 1 3 ~ { \\mu \\mathrm { m } } . 3 7 . ~ 7 4 ~ { \\mu \\mathrm { m } }$ ；东岸分别为： $1 6 8 . 5 6 ~ \\mu \\mathrm { m }$ 、$1 5 0 . 2 3 ~ { \\mu \\mathrm { m } } . 1 5 0 . 2 3 ~ { \\mu \\mathrm { m } } . 1 3 3 . 8 9 ~ { \\mu \\mathrm { m } } . 3 7 . 7 4 ~ { \\mu \\mathrm { m } }$ ;相同立地条件下，黄河东岸地表沉积物整体质地较细，相对于西岸，东岸属于低风能沉积环境。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）多重分形广义维数谱参数 $( D _ { 0 } , D _ { 1 } , D _ { 2 } )$ 东岸 $>$ 西岸，东岸沉积物粒径分布范围大、颗粒分布离散，进一步表明东岸沉积物颗粒属性差异大，颗粒来源范围广；奇异谱指数 $( \\Delta \\alpha , \\Delta f )$ 也表现为东岸 $>$ 西岸，东岸沉积物局部叠加程度较强，表明东岸沉积物沉积过程复杂、沉积环境多样。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3） $D _ { 0 } \\ 、 D _ { 1 } 、 D _ { 2 } 、 \\Delta \\alpha \\ 、 \\Delta f$ 与 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ ） $1 0 0 \\sim 2 5 0$ $\\mu \\mathrm { m }$ 的颗粒含量存在显著相关性，表明 $2 \\sim 5 0 ~ \\mu \\mathrm { m }$ 与$1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m }$ 的颗粒是影响沉积物粒径分布存在差异的主要物质，根据风沙运移规律，结合研究区主导风、植被以及两岸地形地貌特征,初步揭示上风向乌兰布和沙漠是影响东岸粒径分布存在差异的悬移颗粒 $( 2 \\sim 5 0 ~ \\mu \\mathrm { m }$ )的主要源区之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]何京丽,张三红,崔崴,等.黄河内蒙古段乌兰布和沙漠入黄风 积沙监测研究[J].中国水利,2011（10）：46－48.[He Jingli, Zhang Sanhong,Cui Wei,et al.Monitoring and research on aeolian sand flowed into Yellow River from Ulan Buh Desert in Inner Mongolia[J].China Water Resources,2011（10）:46-48.]   \n[2]杜鹤强,薛娴,孙家欢.乌兰布和沙漠沿黄河区域下垫面特征 及风沙活动观测[J].农业工程学报,2012,28（22）：156-165. [Du Heqiang,Xue Xian,Sun Jiahuan. Underlying surface characteristics and observation of blown-sand movement in Ulanbuh Desert along bank of Yellow River[J].Transactions of the Chinese Societyof Agricultural Engineering,2012,28(22）:156-165.]   \n[3］郭建英,董智,李锦荣,等.黄河乌兰布和沙漠段沿岸沙丘形态 及其运移特征[J].水土保持研究,2016,23(6）：40-44.[Guo Jianying,Dong Zhi,Li Jinrong,et al.Dune morphology and migration characteristics in the Ulanbuh Desert[J].Research of Soil and Water Conservation,2016,23(6）:40 -44.]   \n[4]田霞飞,薛娴,廖杰,等.1990—2010 年黄河宁蒙段所处流域土 地利用变化[J].中国沙漠,2014,34(4)：1167-1176.［Tian Xiafei,Xue Xian,Liao Jie,et al.Land use change in the watershed of the Ningxia-Inner Mongolia reaches of the Yellow River during 1990 -2010[J]. Journal of Desert Research,2014,34（4）:1 167 -1 176.]   \n[5]左合君,董智,魏江生,等.沙漠地区高速公路工程防沙体系效 益分析[J].水土保持研究,2005,12(6)：222-225.[Zuo Hejun,Dong Zhi,Wei Jiangsheng,et al.Benefit analysis of sand-prevention engineering system for highway in desert region[J].Research of Soil and Water Conservation,2005,12(6）:222-225.]   \n[6]Falco G D,Molinaroli E,Baroli M,et al.Grain size and compositional trends of sediments from Posidonia oceanica meadows to beach shore,Sardinia,Western Mediterranean[J].Estuarine Coastal and Shelf Science,2003,58:299 -309.   \n[7]孙华杰,臧淑英,孙德尧,等.呼伦湖沉积物粒度特征及其环境 指示意义[J].地理科学,2018,38（9）：1570-1578.［Sun Huajie,Zang Shuying,Sun Deyao,et al.Grain-size characteristics and their environmental significance of Hulun Lake sediments[J]. Scientia Geographica Sinica,2018,38(9）:1 570-1 578.] [8]李继彦,董治宝,李恩菊,等.察尔汗盐湖雅丹地貌沉积物粒度 特征研究[J].中国沙漠,2012,32(5）:1187-1192.[Li Jiyan,Dong Zhibao,Li Enju,etal.Grain-size characteristics of the deposits from yardang landforms in the Charhan Salt Lake area [J].Journal of Desert Research,2012,32(5):1187-1 192.] [9]陈碧珊,潘安定,张元芳.柴达木盆地尕海湖沉积物粒度特征 及其古气候意义[J].海洋地质与第四纪地质，2010,30（2）：   \n111-119.[Chen Bishan,Pan Anding,Zhang Yuanfang,et al. Grain-size characteristics and their environmental significance of Gahal Lake sediments in Qaidam Basin[J].Marine Geology& Quaternary Geology,2010,30(2）:111-119.] [10]Folk RL,Ward WC.Brazos River bar:A study in the significance of grain size parameters[J].Journal of Sedimentary Research,   \n1957,27(1) :3 - 26. [11］王燕,斯庆毕力格,贾旭,等.基于多重分形的半干旱区弃耕农 田土壤粒径分布特征[J].干旱区研究，2018,35（4)：804-   \n812.[Wang Yan,String Bilge,Jia Xu,et al.Particle size distribution of soil in abandoned farmland in semiarid area based on multifractal[J].Arid Zone Research,2018,35(4):804-812.] [12]Grout H,Tarquis A M,Wiesner MR.Multifractal analysis of particle size distributions in soil[J].Environmental Science & Technology,1998,32(9) :1176 -1 182. [13]管孝艳,杨培岭,吕烨.基于多重分形的土壤粒径分布与土壤物 理特性关系[J].农业机械学报,2011,42（3）：44-50.[Guan Xiaoyan,Yang Peiling,Lv Ye.Relationship between soil particle size distribution and soil physical properties based on multifractal[J]. Transactions of the Chinese Society forAgricultural Machinery,   \n2011,42(3) :44 -50.] [14]代豫杰,郭建英,董智,等.不同沙生灌木下土壤颗粒及重金属 空间分布特征[J].环境科学,2017,38（11）:4 809 －4 818. [Dai Yujie,Guo Jianying,Dong Zhi,et al.Spatial distribution of soil particles and heavy metals under diffrent psammophilic shrubs in the Ulan Buh Desert[J].Environmental Science,2017,38 (11) :4 809 -4 818.] [15］庞红丽.黄河宁蒙段粗泥沙特征及物源示踪研究[D].兰州： 兰州大学,2O17.[Pang Hongli. Coarse Sediment Characteristics and Its Provenance Implication in the Ningxia-Inner Mongolia Sections of the Yellow River[D].Lanzhou：Lanzhou University,   \n2017. ] [16]杨根生,拓万全,戴丰年,等.风沙对黄河内蒙古河段河道泥沙淤 积的影响[J].中国沙漠,2003,23（2）:152-159.[Yang Gensheng,Tuo Wanquan,Dai Fengnian,et al.Contribution of sand sources to the silting of riverbed in Inner Mongolia section of Huanghe River [J].Journal ofDesertResearch,2003,23(2）:152-159.] [17]宋洁,春喜.乌兰布和沙漠不同土地覆被类型粒度特征及空间 分异［J].中国沙漠,2018,38（2）：243-251.[SongJie，Chun Xi.The spatial variation and grain size character of diferent land cover types in the Ulanbuh Desert[J]. Journal of Desert Research, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2018,38(2):243-251.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18］孙梅,孙楠,黄运湘,等.长期不同施肥红壤粒径分布的多重分 形特征[J].中国农业科学,2014,47(11）:2173-2181.[Sun Mei,Sun Nan,Huang Yunxiang,et al. Multifractal characterization of soil particle size distribution under long-term different fertilizations in upland red soil[J].Scientia Agricultura Sinica,2014,47 (11) :2 173 -2 181.]   \n[19]Miranda JGV,MonteroE,Alves M C,et al. Multifractal characterization of saprolite particle-size distributions after topsoil removal [J].Geoderma,2006,134(3）:373 -385.   \n[20］陈新闯,郭建英,董智,等.乌兰布和沙漠沿黄段不同土地利用 类型对土壤分形特征的影响[J].干旱区资源与环境,2015,29 (11）:169-173.[Chen Xinchuang,Guo Jianying,Dong Zhi,et al.Effects of different land use types on fractal characteristics of soil in Ulan Buh Desert along the Yellow River[J].Journal of Arid Land Resources and Environment,2015,29(11）:169 -173.]   \n[21］何京丽,郭建英,邢恩德,等.黄河乌兰布和沙漠段沿岸风沙流 结构与沙丘移动规律[J].农业工程学报,2012,28（17）：71- 77.[He Jingli,Guo Jianying,Xing Ende,et al. Structure of windsand flow and law of dune movement along bank of Yellow River in Ulan Buh Desert[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（17）:71-77.]   \n[22］赵阳.乌兰布和固定半固定沙地种植物下沙土粒径分析[J]. 内蒙古农业大学学报,2009,30（4）:114-118.[Zhao Yang.Analysis on the diameter of sandy soil under the psammophyte of fixed and semi-fixed sand in Ulan Buh Desert[J].Journal of Inner Mongolia Agricultural University(Natural Science Edition）,2009, 30(4) :114 -118.)   \n[23］刘芳,郝玉光,徐军,等.乌兰布和沙区风沙运移特征分析[J]. 干旱区地理,2014,37(6):1 163-1169.[Liu Fang,Hao Yuguang,Xu Jun,et al.Sand flow characteristics in Ulan Buh Desert [J].Arid Land Geography,2014,37(6）:1 163-1 169.]   \n[24］陈新闯,郭建英,董智,等.乌兰布和沙漠流动沙丘下风向降尘 粒度特征[J].中国沙漠,2016,36(2）:295-301.[Chen Xinchuang,Guo Jianying,Dong Zhi,et al. Grain size characteristics of dustfall in the Ulan Buh Desert[J]. Journal of Desert Research, 2016,36(2) :295 -301.]   \n[25］毛东雷,蔡富艳,方登先,等.新疆策勒绿洲—沙漠过渡带风沙 运动沙尘物质粒径分形特征[J].土壤学报,2018,55（1）:88- 99.[Mao Donglei,Cai Fuyan,Fang Dengxian,et al.Fractal characteristics of grain size of sand and dust in aeolian sand movement in Cele oasis-desert ecotone in Xinjiang,China[J].Acta Pedologica Sinica,2018,55(1) :88 -99.]   \n[26］卓鱼周.鄂尔多斯盆地西北部桌子山地区中一新生代隆升事 件的确定及其构造意义〔D].西安：西北大学，2015.［Zhuo Yuzhou.The Mesozoic and Cenozoic Uplift Events and Tectonic Significance of Zhuozishan Area in the Northwest Margin of the Ordos Basin[D].Xi'an:Northwest University,2015.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Multi-fractal Features and Their Significances of Surface Sediments along Both Banks of the Yellow River Reach in the Ulanbuh Desert ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHANG Hong， ZUO He-jun， WANG Hai-bing， YAN Min (CollegeofDesertControlScienceandEngineing/InnerMongoliaKeyLaboratoryofAeolianPhysicsandDesertification ControlEngineering，Inner Mongolia Agricultural University,Hohhot Olool1,Inner Mongolia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inthis study,the multi-fractal theory was used to analyze the sand particle sizeofland surface sediment so as todemonstrate thevariation of wind-induced sand sedimentary environment along both banksof the Ulanbuh Desert reach of the Yelow River and the sand source region on the east bank.Results showed that the sand particle size ranged from 189.13 to $2 1 2 . 2 0 ~ \\mu \\mathrm { m }$ on the west bank and from 133.89 to $1 6 8 . 5 6 ~ \\mu \\mathrm { m }$ on the east bank,which indicated that the surface particle size was finerand the wind energy was weakeronthe west bank than those on the east bank. Multi-fractal spectrum parameters $D _ { 0 } , D _ { 1 } , D _ { 2 } , \\Delta \\alpha$ ,and $\\Delta f$ for the east bank were higher than those on the west bank,the particle size range on the east bank was wider than that on the west bank,andthelocal sediment particleson the east bank were more overlapped than those on the westbank,which further demonstratedthe significant differences ofthe particle properties of sediment,wide range of particle sources,complex sedimentary process and diverse sedimentary environments on the east bank.There were the significant correlations among the parameters mentioned above and the contents of particle sizes ranging from 2 to $5 0 ~ { \\mu \\mathrm { m } }$ and 100 to $2 5 0 ~ { \\mu \\mathrm { m } }$ .According to the wind-inducedsand migration lawand the landformsonboth banks,it waspreliminarily revealed thattheupwind Ulanbuh Desert was one of the main source regions of $2 - 5 0 ~ { \\mu \\mathrm { m } }$ suspended sand particles over the east bank of the Yellow River. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:sediment；particle size；multi-fractal parameter；sedimentary environment；Ulanbuh Desert；Yellow River ",
+        "page_idx": 8
+    }
+]

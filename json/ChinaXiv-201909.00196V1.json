@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "心理健康素养：概念、评估、干预与作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "明志君12;陈祉妍1(1中国科学院心理健康重点实验室（中国科学院心理研究所），100101，北京)(2中国科学院大学心理学系，100049，北京）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要心理健康素养是促进心理健康的重要途径。狭义概念指帮助人们认识、处理和预防心理疾病的相关知识和信念；广义概念指综合运用心理健康知识、技能和态度，保持和促进心理健康的能力。心理健康素养常采用情景案例问卷、单维或多维评估量表等进行评估，可以通过社会运动、学校教育、自助式应用程序、心理健康急救培训等方式进行有效干预提高，其中心理健康知识、心理疾病识别、情绪调节、减少病耻感、积极的求助态度等成分都有促进心理健康的作用。未来研究可以在建构评估指标体系、探索作用机制、扩展涵盖群体与内容、加强实证干预研究等方面深入开展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词心理健康素养；概念；评估；干预 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国正处于经济社会快速转型期，人们的生活节奏明显加快，心理健康问题日益凸显。“提升心理健康素养（mentalhealthliteracy）是提高全民心理健康水平最根本、最经济、最有效的措施之一”（国家卫健委，2019）。我国政府对此日益重视，2016年以来，国家卫健委等部门联合发布的《关于加强心理健康服务的指导意见》、《全国社会心理服务体系建设试点工作方案》等文件中均提出要提高国民心理健康素养水平、提高心理健康核心知识知晓率。2019年7月我国发布的《健康中国行动（2019-2030）》中将居民心理健康素养水平列为\"心理健康促进行动\"的第一项结果性指标。基于中国科学院心理研究所国民心理健康评估发展中心的测算，我国当前居民心理健康素养水平的基线值为 $12 \\%$ ，预期\"到2022年和2030年，居民心理健康素养水平提升到 $20 \\%$ 和 $30 \\% ^ { \\prime }$ ，。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养作为心理健康促进的重要因素在国际上已有大量研究(Bjornsen,Eilertsen，Ringdal，Espnes，& Moksnes，2017；Furnham，& Hamid，2014；Kutcher,Wei，&Coniglio，2016)。研究结果表明，高水平的心理健康素养有利于及早识别心理疾病，减少病耻感，获取及时有效的支持和治疗，从而改善个体和公众的心理健康(Jorm,2012；Jorm et al.,，2006)；鉴于此，一些国家和地区开展了心理健康素养干预活动，并取得一定成效（Jorm，2015）。国内关于心理健康素养的研究还处于初期阶段。现有的研究发现，无论是心理健康知识知晓率（李红秋，崔宏亮，宋郡，李雪秋，2018；孙艳莉，2015；田亮，仪玉伟，靳玉宏，肖存利，孙雅丽，2018），还是心理健康素养水平（陈怡伶，2013；杜建政，刘宁，张翔，杨文登，2015；高旭，2017；黄志平，2011；李珺，2012；吴蓉，何雪松，2013），虽有提升的趋势，但整体水平仍然偏低（Gong＆Furnham，2014；Wong et al.,2017）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了促进心理健康素养的相关研究与实践，本文对国内外心理健康素养的概念、评估工具、作用因素和干预提升的研究进展情况进行梳理分析，以期提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2心理健康素养的概念内涵 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养的概念提出借鉴了健康素养的概念。Jorm等(1997)最初将心理健康素养定义为：“帮助人们认识、处理和预防心理疾病的相关知识和信念”，后来Jorm (2012)又将心理健康素养的结构调整为5个方面：预防心理疾病的知识，心理疾病的识别，求助和有效治疗的知识，有效自助策略的知识和心理急救技能。O'Connor，Casey和Clough（2014）在此基础上将其简化为识别(recognition）、知识（knowledge）和态度(attitude）3个维度。Jorm的心理健康素养定义得到了国内外学者们的广泛认可和采用（(Furnham&Hamid，2014;Jung,von Sternberg,&Davis,2016；高旭，2017；张晓，2013）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，不同研究者进一步扩展了心理健康素养的内涵，一方面将病耻感、求助效能等纳入其中(Kutcher，Bagnell，& Wei，2015；Spiker & Hammer,2019；Wei，McGrath,Hayden，&Kutcher,2015），一方面提出侧重于心理健康促进的积极心理健康素养(Bjornsen,Espnes,Eilertsen,Ringdal,& Moksnes,2019；Spiker et al.,2019）。研究表明，使用扩展的心理健康素养内涵更有利于提升个人和公众有效管理心理健康的能力（Kusan,2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内关于心理健康素养的概念由于翻译不同，也称为\"精神健康素养”、“心理卫生素养\"和\"心理健康学识\"等。与\"心理健康素质\"的概念不同，两者虽仅差一字，但后者是指影响心理健康水平的心理品质，包括先天的成分（沈德立，马惠霞，2004）。不同学者对心理健康素养的理解既有大同亦有小异。所有学者都认为心理健康素养包含着知识成分，例如，有学者将其定义为\"公众具备的对精神卫生的认识、管理和预防的知识”（孙建胜，骆宏，姚娟娟，2002）；多数学者认为心理健康素养不仅包括知识，而且包括态度和行为(黄志平，2011；刘光大，2018）；有的学者强调\"科学解决心理问题的方法”（李珺，李大光，2012)；有的区分了助己和助人，强调心理健康促进的内容，认为是\"个体在促进自身及他人心理健康、应对自身及他人心理疾病所养成的知识、态度和行为习惯”（吴珏等，2018）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，国内外的心理健康素养内涵都有向广义发展的趋势，我们尝试将心理健康素养的广义内涵定义为：综合运用心理健康知识、技能和态度，保持和促进心理健康的能力。这个定义包含知识、技能和态度3个主要因素，依据现有研究，知识因素主要包含：心理健康基本知识与原理、心理疾病及其治疗、心身健康、危机干预与自杀预防、儿童心理健康、积极心理健康等(Bjornsen,etal.,2017; Jorm et al.,1997;Kutcher et al.,2015;陈祉妍,王雅芯，郭菲，章婕，江兰，2019）；技能因素主要包含：心理健康信息的获取、特定心理疾病的识别、心理急救、情绪调节等技能（Jorm 2012；Jorm et al.,1997；O'Connor etal.,2014；陈祉妍等，2019）；态度因素主要包含：心理疾病预防及治疗的态度、减少病耻感和心理求助态度等（ $\\mathrm { J o r m } \\ 2 0 1 2$ ；Kutcher et al.,2015；O'Connor etal.,2014）。3个因素所包含的内容并不是固定不变的，会随着心理健康研究实践的发展而不断发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3心理健康素养的评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养的评估工具，最初为情景案例问卷，近年来出现了大量评估工具，既有单维的，也有多维的；按作答方式不同，可分为李克特(likert）量表、是非题、简答题或填充题等方式；按照评估侧重的内容不同，可分为知识、态度和心理求助量表等。Wei等(2015）从32个国家的401项心理健康素养研究（2013\\~2015年）中，筛选出215个工具，其中有69个知识量表、111个病耻感/态度量表和35个心理求助量表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1情景案例问卷",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情景案例描述技术是20世纪50年代ShirleyStar编制的心理疾病症状识别研究技术（Rabkin，1974）。Jorm等(1997）最早采用情景案例访谈法（theVignette Interview）编制了心理健康素养问卷 (Mental Health Literacy Questionnaire,MHLQ)。评估时，先呈现给受测者一段抑郁症、精神分裂症等常见心理疾病的典型案例的症状描述，随后询问两个开放性问题：“你认为约翰/玛丽怎么了？”、“你认为怎样给予约翰/玛丽最适合的帮助？”，此外还设置了关于提供帮助的人员、药物、疗法、风险、病耻感等涉及心理疾病知识和态度的题目（Jorm et al.,1997; Reavley & Jorm,2012）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除Jorm以外，其他学者也编制了类似问卷，常见的有：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）患难朋友问卷（The Friend in Need Questionnaire）。由Burns和Rapee（2006）编制，设置2个抑郁症和3个日常生活问题案例，每个案例设5个问题，适用于青少年群体的心理健康素养评估。该问卷较Jorm的问卷评估内容简单，项目作答方式主要采用主观填空形式，尽量避免迫选，强调被试的自主性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）焦虑障碍的心理健康素养问卷（Mental Health Literacy Questionnaire for AnxietyDisorders，MHLQ-AD）。在Brown，Campbell，Lehman，Grisham和Mancill（2001）临床案例问卷基础上修订，设置多个焦虑障碍和1个抑郁障碍案例，每个案例设3个问题，用于评估心理疾病的识别、归因和治疗建议（Coles&Coleman，2010），适用于成人群体心理健康素养的简易评估，使用率较高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）加拿大COMPAS心理健康素养问卷。评估内容包含：对心理疾病原因的认识和感受，对干预措施的认识，心理疾病的病耻感；自我评价；心理健康知识；对心理疾病和心理健康的态度4个部分（Chenier，2006）。台湾学者将问卷翻译修订为繁体中文版，用于评估抑郁症和老年痴呆症患者的心理健康素养（陈怡伶，2013）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情景案例问卷在国内外心理健康素养的评估中应用最为广泛（Weietal.，2015；李凤兰，高旭，2018；也见 张晓，2013；刘奕，2014；杜建政等，2015；高旭，2017)。这类问卷的优点是将心理疾病症状与实际情景描述结合起来，对特定心理疾病识别能力的评估更为真实有效，案例和问题也可以针对研究目的进行灵活设置；不足是标准化程度较低，测量相对耗时费力，问卷缺少信、效度指标，不易进行统计分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2单维评估工具",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单维评估工具只针对心理健康素养中的一个成分进行评估，例如：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）心理疾病识别问卷（Mental health disorder recognition questionnaire，MDRQ），Swami,Persaud和Furnham（2011）采用了装懂检测技术（overclaiming technique）编制，问卷简要描述20个心理疾病症状，其中包含15个来源于DSM-IV的诊断标准，混入5个虚假陪衬，考察被试对真、假心理疾病的区分程度。Swami，Papanicolaou和Furnham（2011）采用类似方法编制了心理疾病装懂检测量表（Mental Health Disorders Overclaiming Scale），用于评估被试对心理疾病名称的熟悉程度。这两个量表优点在于使用简便、量化评估，且可校正被试夸大自身知晓程度对评估结果的影响(Paulhus&Harms，2004）。目前国外应用较多，国内还未见应用的报告（李凤兰等，2018）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）心理健康知识进度表(Mental Health Knowledge Schedule,MAKS)。Evans-Lacko等(2010)编制，12题，内部一致性信度为0.65，重测信度为0.71，用于心理健康知识相关的病耻感评估，但是只限评估病耻感的认知层面。适用于成年群体，在国外使用较多，国内还未见应用的报告。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）心理健康促进知识量表 (mental health-promoting knowledge measure，MHPK",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10），Bjornsen等（2017）从心理健康促进的角度编制，用于评估青少年积极心理健康素养，共10题，单一维度，内部一致性信度为0.84，重测信度0.70以上。该量表弥补了以往重视心理疾病而忽视心理健康促进方面评估的不足，适用于公众心理健康教育的研究和评价，但是目前缺少跨文化验证，使用率不高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3多维评估工具",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多维评估工具综合评估心理健康素养的多个成分。这类工具很丰富，也折射出心理健康素养概念的多维性。例如：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）心理健康素养量表(Mental Health Literacy Scale，MHLS)。O'Connor和Casey(2015)编制，共35题，包含识别、知识和态度3个维度，采用5点评估。内部一致性信度为0.87，重测信度0.80，该量表适用于成年群体的心理健康素养评估，测量内容全面、使用方便，使用率较高，但对特定类型心理疾病的识别能力评估不足。我国有学者在运动员群体中进行了信效度检验（韩哲，王丹丹，欧阳灵青，牛鹏程，云知明，2019）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）多元心理健康素养量表（Multicomponent Mental Health Literacy Measure），Jung等（2016）编制，共26题，包含心理健康知识、信念和资源3个维度，内部一致性信度为0.83，适用于成年群体。与同类量表相比，该量表突出强调了心理健康求助资源的知识，对促进人们寻求专业心理帮助有一定的预测作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）心理健康素养问卷（Mental Health Literacy questionnaire，MHLq），Campos,Dias，Palha,Duarte和Veiga（2016）编制，共33题，包含心理疾病知识或偏见、求助行为和急救技能、自助策略3个维度，内部一致性信度为0.84，重测信度为0.88，适用于12\\~18岁的青少年群体；Dias,Campos,Almeida和Palha(2018)将量表修订为29题，适用于成年群体。该量表重视减少青少年语境特点引起的评估偏差，信度和效度较高，使用简便，但是目前缺少跨文化验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）心理健康素养问卷（Mental Health Literacy Questionaure，MHLQ），Epps等(2007）基于Nutbeam的健康素养理论模型编制，5点评估，长版78题，包含价值与能力的信念、权利的信念、知识与理解、功能行为、批判行为和沟通行为6个维度；内部一致性信度为0.95，短版28题，内部一致性信度为0.92。台湾学者将短版问卷修订为繁体中文版（张淑敏，2012），国内学者进一步修订为简体中文版，用于评估中学生的心理健康素养（杨宗升，2015）。该量表信度和效度较好，但是该量表结构与Jorm的心理健康素养概念存在很大差异，使用率较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4国内编制的评估工具",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）精神卫生工作指标调查评估问卷。国家卫健委（2010）编制，有8个子问卷，分别以情景案例、知识性、态度性等量表形式，以心理疾病应对为主要评估内容，用于评估公众、学生、儿童、老年等群体的心理健康知识和态度，是我国调查心理健康知识知晓率最为常用的问卷，在国内使用广泛（黄志平，2011；李珺，2012；刘奕，2014），但问卷的信度和效度指标不明确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）国民心理卫生素养问卷。吴珏等（2018）编制，共60题，包含6个维度：心理疾病的知识和观念、对待心理疾病和患者的态度、应对心理疾病的行为和技能、心理健康的知识和观念、维护心理健康的态度、维护心理健康的行为和技能。内部一致性信度0.92，重测信度0.72。问卷信效度较好，但目前应用较少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）国民心理健康素养问卷。陈祉妍等（2018）基于心理健康素养的广义概念而编制，共67题，包含知识、技能和意识3方面。心理健康知识水平包括50个判断题，以百分制计分，评估内容围绕心理健康核心知识，即\"心理健康素养十条”（国家卫健委，2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "心理健康技能主要评估情绪觉察与情绪调控的能力，包括4个分量表，内部一致性信度为$0 . 6 2 \\mathrm { \\sim } 0 . 7 6$ ；心理健康意识评估个体重视心理健康的程度，内部一致性信度为0.71。该工具编制过程规范，内容效度良好，经过全国测试验证，为评估我国居民心理健康素养提供了指标工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "丰富的心理健康素养评估工具体现了心理健康素养的综合性和复杂性。近年来，很多研究者在同一研究中将不同类型量表进行组合，提高评估的全面性和可靠性。例如，有学者将Jung等的多元心理健康素养量表、自我病耻感量表、求助态度量表、专业求助心理意向量表等组合成71题的心理健康素养在线调查问卷 (Rafal,Gatto，&DeBate，2018)；国内也有一些学者同时采用情景案例问卷与评估量表对心理健康素养进行评估（陈怡怜，2013；杨宗升，2015；杜建政等，2015）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.心理健康素养的提升 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养在国际上已经对心理健康政策产生了一定的影响，很多国家展开了心理健康素养的提升项目(Jorm,2015)，在澳大利亚、加拿大、美国和欧洲等地的研究表明，一些具体干预措施可有效提升人们的心理健康素养（Jorm,2015;Kohls etal.,2017；Kutcher etal., 2016； Sampogna et al.,2017）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1社会干预运动",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "很多国家开展了持续的大规模社会干预运动来提高心理健康素养，并取得了一定效果。澳大利亚抵抗抑郁机构（beyondblue）通过开展广告宣传、名人谈抑郁、印刷品和互联网免费信息等活动，提高了公众对心理疾病的识别能力，改善了对抑郁症的合理认知和积极的治疗态度 (Harman & Heath，2017；Jorm,2012；Jorm,2015)。其它国家也开展了类似的干预运动，例如，欧洲反抑郁联盟（European Alliance Against Depression，EAAD）2008\\~2013年期间在德国、匈牙利、爱尔兰和葡萄牙开展了“优化自杀预防计划及在欧洲实施\"项目中的公众意识运动（Kohlsetal.,2017）；英国学者 $2 0 0 9 { \\sim } 2 0 1 4$ 年期间开展了以\"就此改变”（TimetoChange，TTC）抵抗病耻感为主题的社会推广运动（social marketingcampaign，SMC）（Sampogna etal.，2017），均有较好的干预效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国心理健康素养社会干预活动，主要体现在精神卫生宣传教育工作中。国家卫健委（2010）印发《精神卫生工作指标调查评估方案》的通知要求各省市对心理健康知识知晓率、心理疾病识别率、病耻感等方面进行评估，研究表明，各地区的心理健康知识普及程度较过去呈逐渐提高的趋势（田亮等，2018；李红秋等，2018）。这项工作开展范围广，持续时间长，对促进国民心理健康发挥了重要作用，但是干预的内容以心理疾病知识知晓率为主，心理健康素养的其他要素涉及较少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2学校教育干预",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "青少年时期是许多心理疾病的高发期，也是实施干预以提高心理健康素养和防止心理健康问题发生的关键时期（Tay,Tay,&Klainin-Yobas,2018）。同时，由于学校担负着教育使命，各中小学、学院和大学处于提高心理健康素养的重要位置（Jorm,2015）。有学者认为提高教师的心理健康素养有助于促进学生维护心理健康的能力，减少潜在心理疾病对学生的负面影响（Wei& Kutcher,2014）。Kutcher,Wei和Costa等（2016）进一步强调，干预应该是全面的、持久的、嵌入到教育系统之中的，将基于实证的干预措施整合到现有课程中，能够促进教师与学生的心理健康素养共同提升。有学者对66名教师和6679名高中生的干预研究表明，教师的心理健康素养对学生的心理健康素养有显著的正向预测作用(Miller,et al.，2019)。我国学者对大学生进行访谈研究发现，提升心理健康素养的关键是普及心理健康知识和减少对心理疾病的消极态度（高旭，2017）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国内外有关研究证实了学校教育干预对提升师生心理健康素养的有效性。例如，有学者对5\\~6年级662名小学生进行45分钟标准化课程干预，结果表明小学生心理健康知识水平、心理健康状态的识别能力、寻求帮助和帮助同伴的态度有明显改善，保持了3个月(Ojio et al.,2019）。还有学者对60名大学见习教师的心理健康知识、态度和求助效能的干预效果显著，效果也保持了3个月（Carr，Wei,Kutcher,&Hefferman，2018）。我国有学者对288名大学生采用手册阅读、“走出抑郁\"视频及讲座的方法进行干预的效果显著，而且心理健康素养基线水平越低的干预效果越大（张晓，2013）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3自助式应用程序 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于心理健康知识系统与临床心理治疗方法而研发的网络自助式应用程序，不仅能够提供心理健康知识，而且可以引导使用者进行心理健康技能训练，近年来得到快速发展。例如，澳大利亚国立大学健康中心研发的\"情绪健康房（MoodGYM）”，是基于认知行为疗法进行自助训练，以缓解抑郁、焦虑等问题的网络软件(Twomey etal.，2014)，该软件的中文版在我国大学生样本中的有效性得到了证明（任志洪等，2016）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "心理健康领域的手机应用程序（APP）日益丰富，干预效果也得到了一些验证。例如，有元分析发现，在22个心理健康APP和3414名参与者进行的18项实验研究结果中，心理健康APP明显缓解了抑郁症状（Firth etal.,2017）。还有元分析发现，基于网络的心理健康素养干预方式，如果包含结构化的程序、基于循证研究或可为特定人群量身定制的内容、促进交互式和体验式学习的方法等活性成分，则更有效（Brijnath etal.,2016)。我国也有研究者对常见的12款心理健康APP进行了系统的评估（王哲雨，2018）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于网络和手机APP干预方式与传统方式相比有利有弊。优点有：降低了干预费用,减少了心理健康资源分配不公平的现象，能为更多的人们提供心理健康促进的机会(Torous,Nicholas,Larsen,Firth,&Christensen，2018），可以方便的、低成本的方式自我管理心理健康。不足有：适用人群有局限，年龄较大、受教育程度较低的人使用率较低，同时也缺乏传面对面干预时的交互式体验效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4心理健康急救培训 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养的提高除了上述干预途径外，在干预方法上，有些国家还编制了综合性的基于实证研究的标准化干预课程，其中影响最大的是澳大利亚的心理健康急救（MentalHealth First Aid，MHFA）项目。MHFA是指\"对产生心理健康问题、心理问题恶化或心理健康危机的人，在接受合适的专业帮助或直到危机解决之前所提供的首要援助”（Kitchener&Jorm，2017）。该项目已经扩展到了20多个国家，超过200万人已经接受了训练，在澳大利亚，超过 $2 \\%$ 的人接受过培训（Jorm，2018）。McCormack,Gilbert,Ott和Plake（2018）研究表明大学生参加MHFA可以改善对心理疾病的歧视态度。Hadlaczky，Hokby,Mkrtchian，Carli和Wasserman(2014)通过元分析研究证明了MHFA的干预效果。我国学者对603名大学生进行调查表明，学生参加MHFA培训热情较高，认为既有益于自身，也能帮助他人，对维护心理健康有重要作用（王定玺，罗稀，伊敏，李小麟，2016）。香港也有研究表明，标准化的12小时MHFA培训可以提高被试对心理疾病的识别能力，改变心理治疗的信念，并减少消极态度（Wong,Lau,Kwok,Wong,& Tori,2016)。在我国澳门、广东、上海等地区也有些单位相继开展了该项目课程培训。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.心理健康素养对心理健康的作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人们关注心理健康素养，目的在于维护和提升心理健康。尽管人们直觉地认为，提高心理健康素养必然有助于心理健康，但是心理健康素养是否确实影响心理健康，如何影响，影响程度如何，哪些成分对心理健康影响较大，都需要研究来证明。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前一些研究发现，心理健康素养有改善心理健康的作用。例如，澳大利亚Lam(2014）采用2级整群取样的横断面研究设计，使用抑郁情景案例心理健康素养问卷和抑郁量表对1678名13\\~17岁的学生进行调查评估，心理健康素养水平与抑郁状况有关。我国有学者对医学生的心理健康素养进行干预研究表明，心理健康素养在一定程度上对抑郁状况有改善作用（张晓，2013)。也有学者对湖南、贵州1002名中学生研究发现，心理健康素养、幸福感和心理韧性三者之间显著正相关，心理韧性在心理健康素养与幸福感之间起部分中介作用（杨宗升，2015）。Brijnath等(2016）对 $2 0 0 0 { \\sim } 2 0 1 5$ 年期间14项心理健康素养干预实验研究的元分析发现，提升心理健康素养会改善心理健康状况，尤其是轻度到中度抑郁症患者。下面按心理健康素养的部分成分进一步简要综述对心理健康的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1知识因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "心理健康知识对心理健康的影响已经得到一些研究的初步证实，例如，Walker等(2010）采用心理健康素养手册等3种方式对909名社区老人进行干预研究发现，在6周、6月、12月、24月4个波次的研究中，6周时干预组抑郁症状低于对照组，表明心理健康知识对抑郁症状可能有短暂的影响。Bjomsen等 (2019)对1888名15\\~21岁的青少年研究发现，积极心理素养与积极心理健康显著正相关。我国有学者对800名大学生研究发现，心理健康知识与焦虑和抑郁得分显著负相关（韩建涛，秦鹏生，葛明贵，2013)。也有对4042名中学生的类似研究发现，心理健康知识知晓度与心理健康水平正相关 (张茜，潘芳，2018)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "但是，也有些研究的结果与上述情况并不一致。例如，O'Connor和Casey（2015）研究发现，心理健康素养总分与心理困扰水平不相关。陈祉妍等（2019）研究发现心理健康知识与抑郁得分不相关。但这种不一致并不代表掌握更多心理健康知识不会提高个体的心理健康水平，心理健康知识可以在较短时间内有一定的提升，而心理困扰的解决则需要一个较长的过程，横断面研究可能无法反映两者之间的因果关系，还需要以干预或追踪研究的方法进一步验证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2技能因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "心理疾病识别能力可以促进心理健康状况的改善。Jorm(2012)认为，如果个体能够及时识别自己的心理健康问题，会激发他的应对行为模式，否则可能延误病情；父母对子女心理健康问题的有效识别能力，有利于青少年心理问题的及早发现和干预。有学者对大学生群体研究发现，个体的抑郁程度不同，识别能力也不同，程度重个体的抑郁识别能力更低，中度和重度压力的个体比轻度压力个体的抑郁识别能力也偏低，体现了心理症状与心理疾病识别能力之间的联系 (Kim，2015)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "情绪调节技能对心理健康水平有重要影响（侯瑞鹤，俞国良，2006）。陈祉妍等(2019）在国民心理健康素养调查中研究发现，情绪调节能力与被试的心理健康水平显著相关。其中情绪觉察、人际支持和分心术与被试自评心理健康状况的相关系数分别为0.25，0.27和0.38；与抑郁程度相关系数分别为：-0.30，-0.34和-0.43；表明情绪调节技能是心理健康素养中影响心理健康状况的重要因素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3态度因素",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "病耻感对心理疾病患者的心理健康有负面影响，主要体现在降低求助意愿和心理治疗的依从性，加重临床症状，以及影响人际交往、家庭关系和职业等社会功能方面（岳童，王晓刚，黄希庭，2012）。Ritsher和Phelan (2004)发现病耻感对严重心理疾病患者的抑郁症状有显著预测作用。Lysaker，Roe和Yanos (2006)认为心理疾病患者如果能够减少病耻感，可以更有效地应对自身的症状并防止恶化。我国有学者对155例抑郁症患者研究发现，病耻感越重，生活质量越差（陈宜刚等，2015）；对精神分裂症患者的类似研究结果也是如此（任莉等，2013）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "专业心理求助和治疗的科学态度也是改善心理健康的重要影响因素 (Jorm，2012)。Mojtabai，Evans-Lacko，Schomerus和 Thornicroft(2016)对8098名15\\~54岁民众的前瞻性研究发现，人们心理专业求助的态度与未来心理专业求助显著相关。也有学者对722名大学生群体研究发现，专业心理求助态度与心理健康总分显著正相关，表明心理求助态度积极的人，遇到心理困扰时，会及时寻求心理帮助，有效解决困惑，缓解焦虑和抑郁等不良情绪（白汉平，肖卫东，2018）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总之，心理健康素养的部分因素对心理健康具有积极影响已经得到一些研究的证实，但不同因素影响的作用机制不同，还有哪些因素，是什么机制在起作用等问题目前尚没有清晰的答案。国内有学者认为，我国\"不知患病\"和\"患病不治\"的问题与心理健康素养贫乏有重要关联，主要体现在2个方面：一是限制了心理健康服务资源的可及性，个体对心理疾患的识别能力不足，阻碍了求助行为，从而影响有效心理健康服务的获得；二是增加患心理疾病的风险（魏晓薇，翟宏堃，孟祥寒和李强，2018）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6.总结与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "心理健康素养作为研究和实践主题的历史虽然短暂，但是在概念、测量、干预等方面已经取得了很多成果，作为加强心理疾病预防和早期干预的手段，维持和促进心理健康的有效途径，有理由相信，可以像健康素养一样越来越受到共众的重视，而且也需要更多的公众为促进心理健康而采取积极行动。当前，心理健康素养已经成为我国实现“健康中国\"目标的一种政策指标，有着国家重视、政策支持和民众积极参与等优势，未来的研究前景比较乐观。但是，我国心理健康素养的研究实践起步较晚，研究基础相对薄弱，我们下一步还需要解决一系列的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6.1建构评估指标体系的研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近年来，心理健康素养评估工具虽然不断丰富，但工具的稳定性、有效性和适用群体仍需要进一步检验。有学者研究发现，心理健康素养评估工具的数量虽然较多，但是心理测量学特性具有\"强”和\"中等\"证据水平的工具还较少（Wei，McGrath,Hayden，& Kutcher,2015，2016，2018）。另外，国外心理健康素养评估工具虽然较多，但是大多数缺乏跨文化验证；国内的工具还很少，且采用的概念和操作定义不统一，应用也较少。对此，未来在评估工具方面的研究可以考虑以下几个方面：在评估内容方面，编制包含心理健康知识、技能和态度的综合评估工具，以满足大规模的不同群体的研究需要。也需要针对不同人群（老人、儿童等）、不同种类心理疾病（抑郁症、焦虑症等）编制专项评估工具。还可以结合计算机网络、多媒体、虚拟现实等技术，编制更贴近生活情境、更准确有效的评估工具。当心理健康素养成为国家政策目标后，需要对阶段性时间节点的状况趋势进行国家监测，以检验心理健康促进行动的效果，确定是否实现了目标，并及时发现问题，为后续工作提供依据。来自澳大利亚、德国等国家的研究已经表明了监测的可行性，同时，这种监测要与国民心理健康的其它指标联系起来（Jorm,2015）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.2作用机制的进一步探究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虽然现有研究证实了心理健康素养的有效性，但是很多研究仅仅把促进心理疾病患者专业心理求助行为作为心理健康素养的主要目标，而这一目标只是人们解决心理困扰，改善心理健康水平的措施之一，在心理健康素养与心理健康水平之间还有很多影响因素和作用机制需要进一步探究。例如，在不同的情境下对心理健康状况产生的影响，哪些是核心因素，哪些是次要因素，不同因素对心理健康是如何产生影响的，这些问题还不是很明晰，需要进一步的探讨研究。心理健康素养与其他变量之间的关系研究也较少，在维持和促进心理健康过程中，哪些变量发挥了调节或中介作用，作用效果如何，也有待进一步探讨。Gulliver，Griffiths和Christensen(2010)对心理疾病患病率高但求助率低的问题研究发现，心理专业求助与病耻感、症状识别能力密切相关，表明心理健康素养内部因素之间也存在着交互影响，但是影响的机制和程度如何，还需要进一步探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.3研究内容与群体有待扩展",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当前的心理健康素养研究覆盖的心理健康问题类型及人群种类还有待扩展。从问题类型方面，主要集中的常见心理疾病上，如抑郁、焦虑和精神分裂症等，而其他类型的心理疾病的研究却很少见，心理正常群体的健康促进相关研究也不多。在群体种类方面，主要集中在社区居民和学生，而其他人群却很少。已有研究显示问题类型不同、自标人群不同，不同方式干预的效果也有显著差异（Tayet al.，2018）。例如，对常见的心理疾病(如抑郁症）的常规干预效果有限，原因可能是关于抑郁症的心理健康素养有更高的基线水平。今后的研究中，要充分考虑不同人群和疾病的影响因素和作用机制，以更有针对性地进行评估与干预。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6.4干预措施的实证研究有待加强 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tay等(2018)指出，未来质量好、大规模、多地点的随机对照实验是评估心理健康素养干预的必要条件。目前关于心理健康素养的横断面研究较多，而通过在不同时点采集心理健康素养与心理健康水平的数据，探讨两者之间因果关系的追踪研究十分缺乏。与国外相比，我国的心理健康素养干预研究很少，缺乏实证性的干预效果评估。陈祉妍等（2019)提出了我国提高心理健康素养的一些具体途径，如优先重点职业人群和欠发达地区、加强跨领域合作、制作心理健康宣传片、研发心理健康课程等。这些内容与以往心理健康素养的研究结果一致，但其具体操作和效果还需要进一步实证研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我国的心理健康素养研究不能简单照搬国外的现有模式，而要服务于我国当前国民心理健康促进的需求，适合于我国的社会、经济、文化等因素对国民心理健康影响的规律。最终的目标是在社会中建立起有效的心理健康服务体系，公众普便掌握心理健康的科学知识和技能，在心理异常时能够及时识别症状，克服病耻感，积极寻求专业帮助；在心理正常时能够保持良好心理健康行为，积极预防心理疾病，幸福生活。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "白汉平，肖卫东.(2018).个人成长主动性、专业心理求助态度与大学生心理健康的关系研究．学校党建与思想教育，(2018，3 月)，72-74.   \n陈宜刚，陈鲁，周航，等.(2015).抑郁症患者生活质量与自我病耻感的相关性研究.中国全科医学，18(16),1950-1953.   \n陈怡怜.(2013）.台南市社区志工之老人心理健康素养调查研究(硕士学位论文).长荣大学，台南.   \n陈祉妍，王雅芯，郭菲，章婕，江兰.(2019).国民心理健康素养调查.见傅小兰，张侃，陈雪峰，陈祉妍（编），中国国民心理 健康发展报告（2017\\~2018）.(pp.220-263).北京：社会科学文献出版社. 杜建政,刘宁,张翔,杨文登.(2015).幼教人员的幼儿心理健康素养现状.学前教育研究，（2015，6月），48-55.   \n高旭.(2017).大学生心理卫生素养研究(硕士学位论文).华中农业大学，武汉.   \n国家卫健委.(2010).《精神卫生工作指标调查评估方案》（卫办疾控发〔2010）24号)．2019-03-18取自htp://ww.nhfpc.gov.cn/jkj/ s5888/201003/c6487d3f272e4e7b88d30347ff6a2299.shtml   \n国家卫健委.(2018).《关于开展2018年世界精神卫生日宣传活动的通知》.2019-08-14取自htp://wjw.bejing.gov.cn/zwgk/fgwj/ wjwfw/201810/t20181010_249418.htm   \n国家卫健委(2019）.健康中国行动推进委员会办公室2019年7月23日新闻发布会介绍健康中国行动之心理健康促进行动．2019- 08-14取自http://www.nhc.gov.cn/xwzb/webcontroller.do?titleSeq=11178&gecstype=1   \n韩建涛,秦鹏生,葛明贵.(2013).心理健康知识对大学生心理健康影响的研究.扬州大学学报(高教研究版),17(6),27-30. 韩哲,王丹丹,欧阳灵青,牛鹏程,云知明.(2019).心理健康素养问卷在精英运动员群体中的信效度检验.湖北体育科技,38(3)226-229 侯瑞鹤，俞国良.(2006).情绪调节理论:心理健康角度的考察.心理科学进展，14(3),375-381.   \n黄志平.(2011).长沙、西安、无锡三城市居民精神健康素养研究(博士学位论文),中南大学，长沙.   \n李凤兰,高旭.(2018).大学生心理卫生素养研究综述.中国学校卫生，39(7),154-160.   \n李红秋,崔宏亮,宋郡,李雪秋.(2018).北京市某社区居民心理卫生知识调查及心理健康宣教干预模式研究.医学动物防制，34(07), 29-31.   \n李珺．（2012）.中国公众心理健康素养的探索研究：以北京家政服务员为案例（硕士学位论文）.中国科学院，北京. 李珺,李大光.(2012).中国公众心理健康素养的探索研究.科普研究,7(2),34-41.   \n刘光大.(2018).公众心理健康素养的质性研究(硕士学位论文).华中师范大学心理学院.武汉.   \n刘奕.（2014）.浏阳市农村社区18—60岁居民精神健康素养及其影响因素研究（硕士学位论文）．中南大学，长沙.   \n任莉，肖乐，张国富，等.(2013).精神分裂症患者病耻感与生活质量的关系.临床精神医学杂志,23(5),302-304.   \n任志洪,李献云,赵陵波,余香莲,李政汉,赖丽足，...江光荣.(2016).抑郁症网络化自助干预的效果及作用机制一以汉化MoodGym 为例.心理学报，48(7),818-832.   \n沈德立，马惠霞.(2004).论心理健康素质.心理与行为研究,2(4),567-571.   \n孙建胜,骆宏,姚娟娟.(2002).国外公众的精神卫生认识现状.中国健康教育，18(4),263-264.   \n孙艳莉.(2015).宁夏地区社区居民精神卫生知识及对精神疾病态度的现况研究(硕士学位论文).宁夏医科大学，银川. 田亮，仪玉伟，靳玉宏，肖存利，孙雅丽．（2018）．北京市西城区居民心理健康知识知晓率调查研究.中国医学创新,15(4)，62 65.   \n王定玺，罗稀，伊敏，李小麟.(2016).某大学在校生参与救援培训活动认知情况分析.中国学校卫生,37(2),285-287.   \n王哲雨．（2018）.心理健康类APP评价研究（硕士学位论文），华中师范大学信息管理学院．武汉.   \n魏晓薇，翟宏堃，孟祥寒，李强.（2018）.心理健康素养研究述评与展望【摘要】．第二十一届全国心理学学术会议摘要集（中 国北京，2018-11-2），中国心理学会，页码：105-105.   \n吴蓉,何雪松.(2013).大学生的精神健康素养与专业求助倾向:以上海e校为例.华东理工大学学报(社会科学版),28(5),101-108. 吴珏，朱旭，李艳青，刘光大，张灵楷，张衍，江光荣(2018).国民心理卫生素养问卷的编制【摘要】．第二十一届全国心理学 学术会议摘要集（中国北京，2018-11-2），中国心理学会，页码：105-105.   \n杨宗升.(2015).中学生心理健康素养、心理健康水平的现状及关系研究(硕士学位论文).云南师范大学，昆明.   \n岳童,王晓刚,黄希庭.(2012).心理疾病自我污名:心理康复的一个高危因子.心理科学进展,20(9),1448-1456.   \n张茜，潘芳.(2018).中学生心理健康状况与心理健康知识知晓度的关系【摘要】．第二十一届全国心理学学术会议摘要集（中国 北京，2018-11-2），中国心理学会，页码：57-58.   \n张淑敏.(2012).注意力障碍/过动症儿童照顾者心理健康素养研究(硕士学位论文).长荣大学，台南.   \n张晓(2013).医学生抑郁状态、抑郁障碍心理健康素养现状及其心理健康教育干预效果初探.(硕士学位论文).广西医科大学，南 宁.   \nBjorsen,H.,rtsen,.gdalps,G.A,esU.K).iietalaltiteracyot validation ofa measure among Norwegianadolescents.BMCPublic Health,17(1),717.   \nBjornsen,H.NspsG..ertsen,.E.igdal,okses,U..9).relatioshieteensiita healthliteracandmentalwell-eingamongadolescents:mpcationforsholhalthservices.TeJouralofShoolNusing(2) 107-116.   \nBrijnath,B.,rothro,J,htani,K.toads,J.(6).ebbasedmentalalthitracyteretioroe mentalhealthliteracyfadultconsumers?Resultsfromasstematicreview.JournalofMedicalnternetResearch,8(6),65. Brown,T.A.,bel.C.,Jil.).tbiV anxiety and mood disorders inalarge clinical sample.Journal ofAbnormal Psychology,l10(4),585-599.   \nBurns,J.R.，&apee,R.M. (O6).Adolescentmntalealthliteracy:Youngpeople'snowledgeof depressionandhelsking Journal ofAdolescence,29(2),225-239.   \nCampos,L.,Dias,P.,Palha,F.,Yuarte,A,Veiga,E.(O16).Developmentadpsycho-Detricpropertiesofnewquestioiefor assessing Dental Health Literacy in young people. Universitas Dsychologica,15(2),61-72.   \nCar,W.，WeiYKuthrS,&ean.(18).Preparingforearo:talalthodepovi reductionandenhanced help-seekingeficacyinCanadianpreserviceteachers.CanadianJournalofSchoolPsychology,33(4)314 326.   \nChenierR.(2O06).Nationalsurveyonmentalhealthliteracy-a COMPASreportto CanadianAllanceon Mental IlnessandMental Health. COMPAS Inc.1-39.   \nColes,M.E.,&Coleman,S.L. (0l0).Bariersttreatmentseekingforanxietydisorders:Iitialdataontheoleofmentalhealth literacy.DepressionandAnxiety,27(1),63-71.   \nDias,P.,Camps,L.,lmeida,H.,Paa,F.(18).entalealthliteracyioungdults:Adaptationndpsyhometricpti ofthementalhealthliteracyquestionnaire.InternationalJournalofnvironmentalResearch&PublicHealth,15()118.   \nEpps,C.S.,srong,vis,C..,asseyNeish,ith,..).evelopentadtestingas to measure mental health literacy.Agency for Health Care Administration series,220-299.   \nEvans-Lacko,S.,Litle,K.，Meltzer,H.，Rose,D.，Rhydderch,D.，Henderson，C.，&Thoricroft,G.(2010).Developmentand PsychometricPropertiesof the Mental Health Knowledge Schedule.TheCanadianJournalofPsychiatry,55(7),440448.   \nFirth,J.,Tous,clasJ,ratapo,s.().acabsdal healthintervetiosforepresivesmptoms:Ametaanalysisofdoedotrolledrals.Worldschatr6(3),98.   \nFurnham,A.,&Hamid,A.(014).Mentalhealthliteracyinon-westecountries:Areviewofterecentliterature.MentalHealth Review Journal,19(2),84-98.   \nGong,A.T.,&Furnham,A.(2O14).Mentalhealthliteracy:Publicknowledgeandbeliefsaboutmentaldisorders inmainlandChina. PsyCh Journal,3(2),144-158.   \nGulliver,.sK.,s,H.dclatsalali A systematic review.BMC Psychiatry,10(1),113.   \nHarman,G.&Heath,J.(217).Australiancountryperspective:TheworkofbeyondblueandSANEAustralia.InGaebelWsserW, Sartorius N(Eds.),The stigma of mental illness-Endof the story? (pp.289-315).Heidelberg: Springer,Cham.   \nHadlaczky,G,HkbyS.,Mkrtcian,A,CarliV.,&Wassman,D.(4).MentalHealhFirstidisnefectivepublicealth interventionforprovngoede,tides,ndhavior:eta-analysis.teatioalReviewfchatry6(4),464.   \nJorm,A.F.,Krt.obsgei.9.“alct public'sabilitytorecognise mentaldisordersandtheirbeliefsabouttheefectivenessof treatment.Medical journalofAustralia 166(4),182-186.   \nJorm,A.F,ayL.istesn,H,ghetN.KelyC.,&iherB.A.().esearchometaealc What we know and what we stillneed to know.Australian and New ZealandJournalofPsychiatry,40(1),3-5.   \nJorm,A.F.(2O2).ntalhealthliteracy:EmpoweringthecommunitytotakeactionfobetermentalhalthAmericanPsyoloist 67(3), 231-243.   \nJorm,A.F. (2015).Why We Needthe Conceptof“Mental HealthLiteracy.”Health Communication,30(12),1166-1168.   \nJorm,A.F.,&Kitchener,B.A.(018).TheTruthabout MentalHealthFirstAidTaining.PsychiatricServices,69(4),492492.   \nJung,H.,von Stemberg,K.,&Davis,K.(2016).Expandingameasureofmentalhealthliteracy:Developmentandvalidationofa multicomponent mental health literacy measure.Psychiatry Research,243,278-286.   \nKim,J.E.,Saw,A.,&Zae,N.(l5).TiueneofpologicalsmptosmetalhalthliteacyfolgesudentsAic Journal of Orthopsychiatry, 85(6),620-630.   \nKitchener,B.A,&Jo,A.F(7).TeoleofentalHealthstidtrainiginursingducatioresponsetappelWlso & McNamara (2015). Collegian,24(3),313-315.   \nKohls,E.,CosE.gJiogel,E.deoe,Cbger.erl,U.()ubi depression and help-seking:Impact of the OSPI-Europe depresion awarenesscampaign in four European regions.Journalof AffectiveDisorders,217,252-259.   \nKusan S.(2013).Dialecticsofind,body,andplace: Groundworkforatheoryofmentalhalth literacy.SageOpen,3(4),16.   \nKutcher,S.,Bgnel,A,&WeiY.(15).entalHealthLiteracyiScondaryShools:ACanadianapproachChidndAdoleet Psychiatric Clinics of North America,24(2),233-244.   \nKutcher,S.,Wei,&Conglio,C.(16).entalHealthiteracy:Pastpresentndfuture.heCandinJoualofPsyhty(), 154-158.   \nKutcher,S.,Wei,Y,Costa,S.,GusmaoRokauskas,N.,&SouranderA.6).Ehancingmentalhalthliteracyinyougole European Child &Adolescent Psychiatry,25(6),567-569.   \nLam,L.T.(2O14).Mentalhealth lieracyandmental health statusinadolescents:Apopulatio-basedsurvey.ChildndAdolecent Psychiatry and Mental Health,8(1),26.   \nLysaker,P.HoeD,&YaosPT().Towardderstadingtesightpaado:Itealedigoderates tetio between insightandsocialfunctioning,hope,andself-esteemamong people with schizophrenia spectrumdisorders.Schizophrenia bulletin,33(1),192-199.   \nMcCormack,Z,bert,J.L,Ot,C,&lake,K.S.018).entalhealthistaidtrainingamongpharmacyandothrisity studentsand its impactonstigma towardmentalillness.Currents inPharmacy Teaching and Learning.10(10),1342-1347.   \nMiler,L.,Musci,RDAgati,DAlfes,CBeaudry,M.B.,Swartz,K，&WilcoxH.(019).Teachermentalhealthliteracyi associated withstudentliteracyintheAdolescentDepreionAwareness Progam.SchoolMental Health,l(2),35363.   \nMojtabaiR.,Evans-Lacko,S.,Schomers,G,&oicroft,G.(016).AtitudesTwardMentalHeahHelpekingasrdctoso Future Help-Seeking Behavior and Use of Mental Health Treatments. Psychiatric Services,67(6),650-657.   \nOConnor,M.,Casey,L,&Clough,B.(O14).Measuringmentalhealthliteracy-reviewofsale-basedmeasures.Jounalofental Health,23(4),197-204.   \nOConnor, M.,& Casey,L. (2015).The Mental HealthLiteracy Scale (MHLS): Anewscale-based measureof mental health literacy. Psychiatry Research,229(1-2),511-516.   \nOjio,Y.ooJCUsua,Ksa().cohoolteacer-edte educational program for mental health literacy in pre-teens.Early intervention in psychiatry,l3(4),984-988.   \nPaulhus,D.L.,&Hars,P.D.().easuringcognitiveabilityiththeoverclamingtechique.Intellgence,2(),914.   \nRabkin,J.(1974).Publicatitudes toward mentalillness:areviewofthe literature.ShzophreniaBuletin,I(0),933.   \nRafal,G.,Gato,&DeBate.(18).etalalthliteracyigmandelp-sekingbhaviorsaongmaleclgesudents. Journal of American College Health,66(4),284-291.   \nReavley,N.J&Jo,A.F(l).Publicecogitioofntaldisodersandeliefsbout reatment:Changesinustraoer6 years.British Journal of Psychiatry,200(5),419-425.   \nRitsher,J.B.,&elan,J.C.().IteaedtigprdictsrosiofalemongpsatricutpaintsPshatreh 129(3),257-265.   \nSpiker,D.A.,&Hmmer,J.H.(19).Mentalealthliteracyastery:urrentchaengesadfuurediectiosJoualofental Health,28(3),238-242.   \nSampogna,G,Bakolis,,Evans-Lacko,S.,obinson,E.oricroft,G,&Henderson,C.(O7).heimpactofsocialmarketing campaignsonreducing mentalhealthstigma:Resultsfromthe2o9-2014TimetoChangeprogramme.EuropeaPschiatry40116 122.   \nSwamiV.d,,l)ootalalseot, knowledgeofpsyhiatryandtheBigFivepersonalityfactors:Annvestigationusingtheoverclaimingtechique.SocialPsyhty and Psychiatric Epidemiology,46(3),181-189.   \nSwami,V.,Papanicolaou,A，&Fuham,A.(2Ol1).Examiningmentalhealthliteracyanditsorelatesusingheoverclaiing technique.British Journal of Psychology,102(3),662-675.   \nTay,J.LTyls.).fdas mental health literacy:Asystematic review.Early Interv Psychiatry,12(6),1024-1037.   \nTorous,J.,Nicholas,Jarsen,.E.rth,J,&histensen,H.(O8).lnicareviewofuserngagementwithentalealth smartphone apps: Evidence,theory and improvements.Evidence Based Mental Health,21(3),116-119.   \nTwomey,C.OReillG,Byeury,,WhiteAsane,S..lancyN.().Aandomzedcoroledtriafthe computerizedCBTprogramme,MoodGYM,forpublicmentalhealthserviceusers waiting forinterventions.The Brish Journalof Clinical Psychology, 53(4),433-450.   \nWalker,J.G,ci.JBe,.,ie,y&steH.)alal folicacidadviaminB2,andpysicalatiityforteprevetioofepresioinderdults:Radomisedcontroledl.he British Journal of Psychiatry,197(1),45-54.   \nWei,Y.,&Kutcher,S.(O4).Iovatiosinractice:“Go-toEducatorTrainngoteetalalthompetenciesoeduatorsinthe secondary school seting:A program evaluation.Child and Adolescent Mental Health,19(3),219-222.   \nWei,Y.,McGrath,P.J.,Hayden,J，&Kutcher,S.(15).Mentalhealthliteracymeasureevauatingknowledge,atitudesadhelpseeking: A scoping review.BMC Psychiatry,15(1),291.   \nWei,Y.,McGrath,P.J,aydenJ&Kutcher,S.(16).easurementpropertiesoftosmeasuringmentalaltholdge: systematic review.BMC Psychiatry,I6(1),297.   \nWei,Y.,McGrath,Haydn,J&Kutcer,.(8).eualityofntalalthliteracyeasurementtosevauatingtho mental illness:A systematic review.Epidemiology and psychiatric sciences,27(5),433-462.   \nWong,D.F.K.,Cheng,C-WZuang,X.Y,Ng,T.K.,an,S.-,He,X,&oon,A.(27).Comparigthementalhealieacyo ChinesepeopleinAustralia,China,Hong KongandTaiwan:Implications for mental healthpromotion.PsychatryResearch256, 258-266.   \nWong,D.FK,Lau,Y,Kwok,S.,Wong,P.,&Tori,C.(16).EvaluatingtheEectivenessofMentalHealthFrstidProafor Chinese People in Hong Kong.Research on Social Work Practice,27(1),59-67. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mental health literacy: Concept, measurement, intervention and effect MING Zhi-jun1,2 ;CHEN Zhi-yan1 (CASKeyLaboratory ofMental Health,InstituteofPsychology,Beijingl0olo1,China) (University ofChinese Academy of Sciences,Beijing 10oo49,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Mental health literacy(MHL） is important for improving mental health.In a narrow sense, it refers to the knowledge and beliefs about mental disorders which aid their recognition, management or prevention.In a broad sense, it refers to the comprehensive use of mental health knowledge, skills and atitudes to maintain and promote mental health. MHL is often measured by Vignette case questionnaire, and unidimensional or multi-dimensional scales. Interventions including social campaigns, school education, self-service application and Mental Health First Aid training can effectively improve MHL.Elements of MHL， including psychological health knowledge,mental disorder recognition， emotional regulation，anti-stigma, and help-seeking attitude etc,are positively related to mental health.Future research can be carred out in such aspects as constructing the MHL evaluation system, exploring the mechanism of its influence, expanding the coverage of research, and strengthening empirical intervention research. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:mental health literacy; concept; measurement; intervention ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,874 @@
+[
+    {
+        "type": "text",
+        "text": "第二类有中介的调节模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王阳」温忠麟²王惠惠管芳4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1广东金融学院公共管理学院，广州 510521)(华南师范大学心理学院/心理应用研究中心，广州 510631)(宁夏大学教育学院，银川,750021)(4清华大学心理系，北京,100083)摘要心理学研究常用有中介的调节模型揭示调节作用通过中介变量间接实现的现象。介绍了第二类有中介的调节模型(meMO-II)的概念及优势；将 meMO-II与其它中介调节混合模型进行了辨析；给出了meMO-II的建模方法和分析流程，并用一个实例演示；介绍了基于潜变量的meMO-II的分析方法、meMO-II建模方法的新进展以及meMO-II的变式。研究有助于推动调节机制研究的发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词第二类有中介的调节，调节机制，两水平有中介的调节，变量系统，潜变量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社科研究中复杂的变量关系往往无法通过简单的中介模型或调节模型充分揭示(Liu etal.,2021)，越来越多研究者建立中介调节混合模型，其中之一是有中介的调节模型(mediatedmoderation,meMO)。它是指调节变量 $W$ 调节自变量 $X$ 和因变量Y的关系，而这种调节作用至少一部分是通过中介变量 $M$ 间接地实现(温忠麟等,2021；温忠麟，刘红云,2020)，其经典模型(也有文献称其为第一类有中介的调节模型,meMO-I；刘东等,2018)如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c913315a2a644bbb82a2d504b242bb22959ae9775c68ee1dfaaea3e4a5a03971.jpg",
+        "img_caption": [
+            "la meMO-I示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cd45a9c1d8be66b340b8a99246df0d9c47b735d9a176f01bd6001ea28eaa8bf.jpg",
+        "img_caption": [
+            "1b meMO-I路径图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注：此图改编自van Kollenburg 和Croon(2017)；加粗线表示有中介的调节相关路径，下同",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然 meMO 这一概念自数十年前 Baron 和Kenny(1986)提出以来获得了广泛传播和应用，国内外也有经典方法学文献指导研究者使用这一模型(温忠麟等,2006；叶宝娟，温忠麟,2013;Edwards & Lambert,2007)，但近年来，传统 meMO(即 meMO-I)由于其概念上的局限和应用上的易错性受到不少批评(刘红云等,2021; Hayes,2017; Kwan& Chan,2018)。与此同时，meMO 的第二种类型(meMO-II)逐渐受到研究者的关注(方杰，温忠麟，印刷中；刘东等，2018；刘红云等,2021；温忠麟等，印刷中;Cortina et al.,2022; Kwan& Chan,2018)，它有利于更直观和清晰地定义meMO，可以用于回答“调节变量W是通过怎样的间接路径调节 $X$ 和Y的关系”这样meMO-I无法回答的调节机制问题。不过，目前对meMO-II的研究还很少。meMO-II和 meMO-I乃至其它中介调节混合模型的主要区别有哪些?meMO-II的检验流程是怎样的？meMO-II的建模方法有哪些？meMO-II有哪些变式？这些问题都还没有得到充分的解答。本文将从meMO-I的局限入手，说明 meMO-II的概念与优势，将meMO-II与相关模型进行辨析；然后给出meMO-II的建模方法和分析流程；并用一个实例演示如何按照前述流程分析 meMO-II；此外，也介绍了基于潜变量的meMO-II分析方法、meMO-II建模方法的新进展以及meMO-II的变式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2meMO-I的局限与meMO-II的介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1meMO-I的局限 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一，meMO-I不易解释。在meMO-I中，表示有中介的调节的统计指标是 $X W {  } M$ 和$M {  } Y$ 这两个路径系数的乘积(叶宝娟，温忠麟,2013)，即 meMO-I的统计意义实际上是交互项 $X W$ 通过 $M$ 间接地影响 Y(Edwards& Lambert,2007)，因此也有研究者将 meMO-I称为被中介的交互模型(刘东等,2018)。尽管 X(如体重)和 W(如智力)都有实际意义，但二者相乘得到的 XW 本身却未测量任何有现实意义的构念(刘红云等,2021; Hayes,2017; Kwan& Chan,2018)，如体重和智力的乘积。这样，解释meMO-I就要十分小心。不宜像描述一般中介模型那样将 meMO-I描述为交互项(一个没有自然含义的变量)通过 $M$ 间接影响 Y(Hayes,2017;Kwan& Chan,2018)；更不能说调节效应通过M影响Y,因为调节效应是一个常数而非变量;只能如已有方法学文献那样微妙地解释为调节效应通过中介变量而起作用(叶宝娟，温忠麟，2013)。正是解释上的困难使得流行的 SPSS 插件 PROCESS 中没有设计分析 meMO 的功能",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Hayes,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二，meMO-I容易被研究者误用。尽管通过理论上的梳理，meMO-I和前段路径被调节的中介模型(即 $X$ 通过 $M$ 影响Y，而这一中介路径前段受调节，建模重心在中介)能够区分开，但统计上二者是等价的(叶宝娟，温忠麟,2013)，这导致很多研究者分不清有中介的调节和有调节的中介(Kwan&Chan,2018)。再加上前者不如后者容易解释，导致实际应用中有调节的中介研究远比有中介的调节研究更多。而在有中介的调节研究中，出现错误应用的情况很多。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们通过中国知网检索了近五年(2017年7月25日至 2021年7月25日)发表于《心理学报》、《心理科学》和《心理发展与教育》的文献，以“中介”和“调节”为关键词检索文章主题、篇名、摘要及关键词，共找到130 篇涉及中介调节混合模型的文献。其中 119篇建立了有调节的中介模型(包括中介前段和后段路径被调节)；仅有11篇建立有中介的调节模型，而这11篇之中有9篇采用 meMO-I。分析这9篇文献，其中有3篇在摘要或正文中将研究目的描述为考察自变量对因变量的作用机制(而非如何调节)；有4篇在理论论述模型时以中介为先(主)，调节为后(次)，不符合meMO-I建模的逻辑顺序；有4篇在模型检验时先检验中介，后检验调节，不符合 meMO-I的检验流程(叶宝娟，温忠麟,2013)；还有3篇存在如“调节效应通过中介变量影响因变量”这样不恰当的描述。在模型建立、分析和表述上没有明显问题的文献仅有2 篇 $( 1 8 \\% )$ 。此外，130 篇文献中59 篇的模型是如图1所示的模型，既可以看成有中介的调节，也可以看成前段路径被调节的中介。结果是其中50篇作者都选择按照有调节的中介立论，选择按照 meMO-I建模的仅9篇。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2meMO-II的概念 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于 meMO-I的局限，有研究者主张彻底放弃有中介的调节的概念，并把所有meMO-I按照前段路径被调节的中介模型重新解释(Hayes,2017)；而另一些研究者则将目光转向有中介的调节模型的其它形式，即 meMO-II(刘东等,2018；刘红云等,2021; Kwan& Chan,2018)。这种模型的形式如图2所示，它的含义是W首先影响 $M _ { ☉ }$ ，再由 $M$ 调节 $X$ 和Y的关系。这样，W 起到了间接的调节作用，因此也有研究者将 meMO-II称作间接调节模型(indirectmoderation; van Kollenburg＆ Croon,2017)。除了这个主要路径外，图2的模型还允许 $W$ 对 $X$ 和Y有额外的直接调节作用，W和 $M$ 也可以对Y有影响。模型中实际上有两个调节变量，为了区别二者， $W$ 可称为原始调节变量(initial moderator)， $M$ 则由于既调节了 $X$ 和Y，又隔开 $W$ 和路径 $X {  } Y$ ，使 $W$ 的调节作用具有间接性，类似于一个中介变量的作用(尽管不符合传统中介变量的定义)，可称为有中介作用的调节变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fff3349c9820d34da4db5c90c52bee9a21adf5e238eccb0b260f77c2c01e74c2.jpg",
+        "img_caption": [
+            "图2meMO-II模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资料来源：改编自 Kwan 和Chan(2018)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3meMO-II的理论价值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果说中介模型考察了 $X$ 到 $Y$ 的中介机制，或者说 $X$ 如何影响Y，那么meMO-II的理论价值就在于它考察了调节变量W对 $X$ 和 $Y$ 的调节机制，即W是通过怎样的路径调节 $X$ 和Y的关系的。这是一个很有意思却往往被忽略的问题。如果不去深究调节的具体机制，有可能得到偏颇的结论。比如，有一项研究发现对于青少年和成年早期个体，年龄调节了忌妒和幸福感的关系(Ng etal.,2019)。如果研究就此打住，结论应该是对于年龄较大的个体，忌妒对幸福感的消极影响总是更强。但是，通过建立meMO-II，研究者进一步发现年龄的调节作用是通过自尊实现的，即年龄越大的个体自尊水平越高。相对于低自尊个体，高自尊个体中忌妒对幸福感的消极影响更强。而除去这条间接调节路径，年龄的剩余直接调节效应不显著，效应值也很小(Ng et al.,2019)。也就是说，年龄对忌妒和幸福感的调节作用只存在于年龄与自尊有关的个体，对于那些自尊未随年龄改变的个体，他们的年龄无法调节忌妒与幸福感的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上例可知，通常研究中得到的W对 $X$ 和Y的调节作用实际上只是总的调节效应，它是无数条间接调节路径和直接调节路径的总和。探究调节作用的真实机制有助于理解调节变量发挥作用的深层次原因，但以往调节研究罕有关注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4meMO-II和其它中介调节混合模型的对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 meMO-II 和 meMO-I",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "meMO-II和meMO-I的核心区别在于模型如何体现有中介的调节？对于meMO-II，有中介的调节可以很直观地解释为原始调节变量W通过有中介作用的调节变量 $M$ 间接地调节$X$ 和Y，解释的侧重点是“通过什么调节”。对于meMO-I，如前所述，由于中介模型的前因变量XM不是有实际意义的变量，会使中介路径难以给出直观的解释。对于有中介的调节更好的解释可能是W通过调节X和Y之间的中介路径部分(而非直接路径部分)，从而实现了对 $X$ 和Y总体关系的调节。侧重点不是调节变量走了什么路线，而是“调节了什么部分”。这样解释的好处还在于容易把中介后段路径被调节的情况也归为meMO-I的一种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由此可见，meMO-II和meMO-I并不是一种非此即彼的竞争关系，二者的侧重点不同，其实缺乏可比性。研究者应该根据自己的理论假设选择恰当的meMO，而非断然否定某一模型的存在价值。meMO-I如果按照直接调节了中介路径从而间接调节了 $X$ 和Y的总关系去解释(而非交互项通过M影响Y)，仍然具有明确的理论意义。meMO-II和 meMO-I的其它区别总结在表1中1。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/329e90b2bd4892dc91351d497b44648fabe71b9d7e8859753f7bb36ecceda76a.jpg",
+        "table_caption": [
+            "表1meMO-I和 meMO-II的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比内容</td><td>meMO-I</td><td>meMO-II</td></tr><tr><td>模型中实际存在的调节变量的个数</td><td>1个</td><td>2个</td></tr><tr><td>模型中M的角色有几种？</td><td>1种，只作为中介变量</td><td>2种，既是调节变量，又起到类似中介变量的作用</td></tr><tr><td>W的调节作用是直接还是间接发生的？</td><td>直接调节X和M，间接调节X和Y，还可能直接调节X和Y</td><td>通过影响M，间接调节X和Y，还可能直接调节X和Y</td></tr><tr><td>中介路径位于调节路径内部还是外部？</td><td>外部</td><td>内部，M是调节模型的一部分，中介嵌套于调节</td></tr><tr><td>如何解释为“有中介的调节”？</td><td>W通过调节X和Y之间的中介路径，从而调节了X和Y</td><td>W通过影响有中介作用的调节变量M间接调节X和Y</td></tr><tr><td>统计上与其等价的有调节的中介模型</td><td>前段路径被调节的中介模型</td><td>X调节W→M→Y后段路径的模型</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2meMO-II和后段路径被调节的中介模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假如只保留meMO-II的核心部分，如图3a，再把图3a中的 $X$ 、W和 $M$ 及其附属箭头以 $X$ 和 $M$ 发出箭头的交点为旋转中心逆时针旋转90度，即把 $X$ 看成调节变量，W和 $M$ 看成Y的预测变量，则 meMO-II在模型图形式上(见图 3b)与后段路径被调节的中介模型(见图3c)一样，不易区分(尽管从自变量和调节变量理论角色不可互换的角度上还是可以区分两种",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 尽管 meMO-II和 meMO-I有较大区别，但实际应用中也有很多研究者混淆二者(Cortina et al.,2022)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型)。正是考虑到这一点，有研究者为meMO-II专门设计特殊的模型转换(即从概念模型转换为统计模型)和统计方法，避免模型混淆(刘红云等,2021;Kwan& Chan,2018)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a86603980accc5fd9f9f072ca0510d2f69b77cb9603cf0d49519eba81ac7c19.jpg",
+        "img_caption": [
+            "图3a meMO-II "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0095b8cfb32fd20549c112ec03dcc7a0657f85fd23f07e920fec520475fce62a.jpg",
+        "img_caption": [
+            "图3b meMO-I变形"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/96955ad786feb0104dace591001a6fdd71dab0ac7b04dbdcbeb4ce202d11157d.jpg",
+        "img_caption": [
+            "图3c后段路径被调节的中介模型",
+            "图3meMO-II和后段路径被调节的中介模型的比较 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3meMO-II的分析流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外有中介的调节研究中使用meMO-II建模的都相对较少，如前文总结的心理学中文文献中，仅有1篇使用了meMO-II(朱玥等,2019)。缺乏专门的文献介绍可能是一个重要的原因，尤其是缺少有关该模型完整分析流程的指导性文献。纵观已有的方法学文献，对 meMO-II的流程说明都存在步骤缺失或顺序错误。比如，刘东等人(2018)提出的检验流程认为总的调节效应不需要检验，但其实这一步具有理论意义；van Kollenburg 和 Croon(2017)提出的检验流程按照(1)检验W的总调节效应、(2)检验 $M$ 的调节效应、(3)检验加入M后W是否不再有调节作用、(4)检验W是否影响 $M$ 的步骤，将中介前段路径作为检验的最后一步，不符合中介路径检验的逻辑顺序。另外，已有的检验流程全都忽视了调节效应存在之后的步骤，即简单斜率分析(simple slope analysis)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们参考已有研究关于meMO-II以及一般中介模型和调节模型分析步骤的建议(如刘东等,2018；叶宝娟，温忠麟,2013; van Kollenburg& Croon,2017)，提出一个新的 meMO-II 的分析流程。根据 meMO-II的模型图(图2)，列出该模型相关方程如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = c _ { 0 } + c _ { 1 } X + c _ { 2 } W + e _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = c _ { 0 } ^ { \\prime } + c _ { 1 } ^ { \\prime } X + c _ { 2 } ^ { \\prime } W + c _ { 3 } ^ { \\prime } X W + e _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = a _ { 0 } + a _ { 1 } W + e _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = c _ { 0 } ^ { \\prime \\prime } + c _ { 1 } ^ { \\prime \\prime } X + c _ { 2 } ^ { \\prime \\prime } W + c _ { 3 } ^ { \\prime \\prime } X W + b _ { 1 } M + b _ { 2 } X M + e _ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "方程4中将 $X$ 的系数写在一起则得到方程5：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = c _ { 0 } ^ { \\prime \\prime } + ( c _ { 1 } ^ { \\prime \\prime } + c _ { 3 } ^ { \\prime \\prime } W + b _ { 2 } M ) X + c _ { 2 } ^ { \\prime \\prime } W + b _ { 1 } M + e _ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将方程3带入方程4得到方程6：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y = c _ { 0 } ^ { \\prime \\prime } + a _ { 0 } b _ { 1 } + ( c _ { 1 } ^ { \\prime \\prime } + a _ { 0 } b _ { 2 } ) X + ( c _ { 2 } ^ { \\prime \\prime } + a _ { 1 } b _ { 1 } ) W + ( c _ { 3 } ^ { \\prime \\prime } + a _ { 1 } b _ { 2 } ) X W + e _ { 4 } + b _ { 1 } e _ { 3 } + b _ { 2 } X e _ { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一步，检验 $W$ 对 $X$ 和 $Y$ 的总调节作用是否存在。以Y为因变量，做一个层次回归，第一层放入自变量 $X$ 和调节变量 W(方程1)，第二层放入 $X$ 和 $W$ 的交互项XW(方程2)，如果 $X W$ 的回归系数 $c _ { 3 } ^ { \\prime }$ 统计显著且 $\\Delta R ^ { 2 }$ 足够大(如 ${ \\geq } 0 . 0 2$ ，甚至0.03；温忠麟，叶宝娟,2014a;Gardner et al.,2017; Marsh et al.,2004; O'Boyle et al.,2015)，则总调节效应存在。从统计的角度来讲，这一步不是必须的，因为不管总的调节作用是否存在，间接调节效应都可以存在。这一步主要作用是决定立论方向，具有理论意义。如果总调节效应存在，则有意义的研究问题是W通过怎样的机制调节 $X$ 和Y的关系；如果总调节效应不存在，尽管间接调节效应仍可能存在，但此时再讨论W如何调节 $X$ 和Y的关系没有意义，更好的研究问题是为什么W未能调节 $X$ 和 $Y$ 的关系。可以从直接调节和间接调节作用相反，从而抵消了总调节作用的角度展开论述，即类似于文献中所说的遮掩效应/不一致中介效应(刘振亮等,2021；温忠麟，刘红云,2020；温忠麟，叶宝娟,2014b)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第二步，检验间接调节效应是否存在。首先，考虑使用类似于中介效应的依次检验法，依次检验系数 $a _ { \\scriptscriptstyle 1 }$ 和 $b _ { _ 2 }$ (见方程3和4)，如果都显著，则间接调节效应存在；如果至少有一个系数不显著，则采用检验力更高的bootstrap 方法直接检验方程6中 $a _ { 1 } b _ { 2 }$ 系数乘积，若 $a _ { 1 } b _ { 2 }$ 的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$9 5 \\%$ bootstrap 置信区间不包含0，则间接调节效应统计显著。如果依次检验和系数乘积都不显著，则间接调节效应不显著，停止分析。这样的层次检验流程兼顾到了依次检验第一类错误率低、信息量大(因为可以获知中介每段路径的详细信息)、显著结果更有说服力的优点和系数乘积法统计检验力高的长处，比单纯采用某一种方法的效果更好。另需指出，系数乘积的检验和计算使用 SPSS 插件 PROCESS 即可实现。虽然 PROCESS 没有提供任何有中介的调节分析功能，但参照图 3b，如果选择PROCESS 中后段路径被调节的中介模板，如 Model15，但将调节变量W选入自变量框，自变量 $X$ 选入调节变量框，则PROCESS 算出的 Index就是间接调节效应 $a _ { 1 } b _ { 2 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第三步，简单斜率分析。前述步骤均属于对调节效应是否存在的检验，而除此之外，一个完整的调节分析还应该进一步揭示 $X$ 和Y如何随着W 的变化而变化(Finsaas& Goldstein,2021)。这就是简单斜率分析，也往往是研究者在调节分析中更感兴趣的内容。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "简单斜率分析有两种流行的做法：选点法和 Johnson-Neyman 法(JN 法)。先看选点法，该方法考察了调节变量取值较高和较低时， $X$ 对 $Y$ 的效应有什么不同。基于简单斜率的表达式 $c _ { 1 } ^ { \\prime \\prime } + c _ { 3 } ^ { \\prime \\prime } W + b _ { 2 } M$ (见方程5)及 $W$ 和 $M$ 的关系式(方程3)，可以根据原始调节变量W 和有中介作用的调节变量 $M$ 的关系，同时将两个变量固定在特定水平。比如，在所有变量已经标准化的前提下，可以先同时选取 $W$ 为1和 $M$ 为 $a _ { 1 }$ (假定这里所说的 $a _ { 1 }$ 已经是变量标准化后的系数)的点，再同时选取 $W$ 为-1和 $M$ 为 $. a _ { 1 }$ 的点，分别将两种WM取值组合代入简单斜率表达式以获得两种情况下的简单斜率值(简单斜率的显著性检验参考方杰等,2015)。此时，简单斜率按照如下形式解释：当 $W$ 较高(较低)时， $M$ 较高(较低)，此时 $X$ 正向(负向)影响 $Y / X$ 对Y的影响更大(更小)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再看JN法，该方法可以考察调节变量实际取值的不同区间内， $X$ 对 $Y$ 作用的显著性和方向有什么不同(技术细节参考方杰等,2015)。将方程6中 $X$ 的系数写在一起，得到方程7：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = c _ { 0 } ^ { \\prime \\prime } + a _ { 0 } b _ { 1 } + ( c _ { 1 } ^ { \\prime \\prime } + a _ { 0 } b _ { 2 } + c _ { 3 } ^ { \\prime \\prime } \\mathscr { W } + a _ { 1 } b _ { 2 } \\mathscr { W } ) X + ( c _ { 2 } ^ { \\prime \\prime } + a _ { 1 } b _ { 1 } ) \\mathscr { W } + e _ { 4 } + b _ { 1 } e _ { 3 } + b _ { 2 } X e _ { 3 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "简单斜率就是 $X$ 的系数，即 $c _ { 1 } ^ { \\prime \\prime } + a _ { 0 } b _ { 2 } + ( c _ { 3 } ^ { \\prime \\prime } + a _ { 1 } b _ { 2 } ) W$ ，利用 Mplus 的modelconstrantplot命令，容易解出简单斜率统计显著时的 $W$ 取值区间并画出简单斜率图(示例语句见附录)。尽管比起选点，使用 $W$ 区间的JN法更好地展示了简单斜率的全貌，但是对于间接调节模型，通过JN法难以直观地看出 $M$ 的作用。选点法则可以根据 $W$ 的选点算出 $M$ 的选点，同时体现 $W$ 和 $M$ 的作用，更符合间接调节的特点。因此，间接调节模型简单斜率分析时，建议同时使用选点法和JN 法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上述流程操作相对简便，但忽略了meMO-II模型中一些隐含的参数约束(详见后文)。好在多数情况下这样的简化不会造成明显的估计偏差，分析结果仍然是可靠的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4应用实例演示",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "用一个实际例子演示前面介绍的流程。本例考察自尊对忌妒和生活满意度的调节作用。示例样本为744 名高中生(男生占 $3 8 . 4 \\%$ ，平均年龄为 $1 6 . 2 9 2 0 . 9 1 \\$ 岁。为方便后续分析，所有变量事先标准化，并将自尊和忌妒相乘构建交互项。然后，将生活满意度作为因变量，忌妒和自尊作为第一层预测变量，忌妒和自尊的交互项作为第二层预测变量建立层次回归模型。结果显示，交互项的回归系数(即总调节效应 $c _ { 3 } ^ { \\prime }$ )统计显著 $( \\beta { = } 0 . 1 4$ ， $p { < } 0 . 0 0 1 \\$ ， $\\Delta R ^ { 2 } { = } 0 . 0 6$ ，自尊调节了忌妒与生活满意度的关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为进一步说明自尊为何能够调节忌妒与生活满意度的关系，我们引入一个有中介作用的调节变量积极应对，建立间接调节模型。按照依次检验法，首先做积极应对对自尊的回归，自尊的回归系数 $( a _ { 1 } )$ 统计显著 $( \\beta { = } 0 . 2 5$ ， $p { < } 0 . 0 0 1 \\$ ；接着做生活满意度对忌妒、自尊、积极应对、忌妒-自尊交互项、忌妒-积极应对交互项的回归，忌妒-积极应对交互项的回归系数 $( b _ { 2 } )$ 统计显著 $( \\beta { = } 0 . 0 8$ ， $p { < } 0 . 0 5 )$ 。至此，间接调节模型成立，即自尊水平越高，被试越倾向于采用更积极的应对方式，而积极应对正向调节了忌妒和生活满意度的关系。此外，排除间接调节作用后，自尊剩余的直接调节效应也统计显著( $\\scriptstyle { \\beta = 0 . 1 2 }$ ， $p { < } 0 . 0 0 1 \\rangle$ ，表明积极应对的有中介作用的调节是部分有中介作用的调节，可能还存在其它有中介作用的调节变量。带分析结果的模型图见图4。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6f802a89afbe0c080d17feb3c1f0a36126c0630161fbd38d3f1e9f5e5d7c5d4.jpg",
+        "img_caption": [
+            "图4自尊间接调节忌妒和生活满意度的模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "尽管已经无关间接调节的显著性问题，为了获取间接调节指标的更具体信息，我们采用系数乘积法得到间接调节效应的点估计和 $9 5 \\%$ bootstrap 置信区间，选择PROCESS 插件的Model15，将自尊(W)放入自变量框，而将忌妒 $( \\boldsymbol { X } )$ 放入调节变量框(参照模型图3b)，这样结果输出中的Index 即系数 $a _ { 1 } b _ { 2 }$ 。 $a _ { 1 } b _ { 2 } { = } 0 . 0 2$ ， $9 5 \\%$ bootstrap 置信区间为(0.005,0.039)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了进一步说明忌妒和生活满意度的关系如何随自尊 $$ 积极应对的间接调节路径变化，进行简单斜率分析。采用选点法，将标准化自尊得分为-1(相当于均值减1个标准差)和标准化积极应对得分为-0.25(因为此时 $M { = } 0 . 2 5 ^ { \\ast } W { = } 0 . 2 5 ^ { \\ast } ( - 1 ) { = } { - } 0 . 2 5 )$ 的点作为低W低 $M$ 点；将标准化自尊得分为1(相当于均值加1个标准差)和标准化积极应对得分为0.25(因为此时$M = 0 . 2 5 ^ { * } W = 0 . 2 5 ^ { * } 1 = 0 . 2 5 ,$ 的点作为高 $W$ 高 $M$ 点。分别用标准化自尊变量减-1和积极应对变量减-0.25替代原来的变量带入方程4做回归分析。结果对于低 $W$ 低 $M$ 点，忌妒的回归系数为 $\\scriptstyle { \\beta = - 0 . 2 2 }$ ， $p { < } 0 . 0 0 1$ ，表示自尊水平越低，积极应对水平也较低，此时忌妒减少生活满意度;再分别用标准化自尊变量减1和积极应对变量减0.25 替代原来的变量带入方程4做回归分析。结果对于高 $W$ 高 $M$ 点，忌妒的回归系数为 $\\beta { = } 0 . 0 6$ ， $p { = } 0 . 2 7$ ，表示自尊水平越高，积极应对水平也较高，此时忌妒与生活满意度的关系无统计学意义。简单斜率图见图5。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9d1033915556e5658f3e600fa1e939ba539707d7f41327fd54652e038bdfbae.jpg",
+        "img_caption": [
+            "图5自尊间接调节忌妒和生活满意度的简单斜率分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "也可以采用JN法，求出简单斜率统计显著的区间。结果表明，当标准化自尊得分在$- 3 . 2 0 { \\sim } 0 . 0 3$ 之间时，忌妒总是负向影响生活满意度；而当自尊得分在 $1 . 7 4 { \\sim } 7 . 5 5$ 之间时，忌妒总是正向影响生活满意度。上述分析除 JN 法外，均可使用 SPSS 软件实现。附录中也给出了用Mplus和R分析本例的程序。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5基于潜变量的meMO-II ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "前述 meMO-II分析方法基于显变量分析，其隐含的假设是所有变量没有测量误差，即信度等于1。这可能导致参数的低估(方杰，温忠麟,2018)，特别是考虑到交互项的信度往往较差(Ng&Chan,2020)。采用潜变量建模的方法可以有效控制测量误差，提高间接调节效应的估计精度。以下推荐两种基于潜变量的方法：潜调节结构方程和因子分法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1潜调节结构方程",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前潜变量调节效应分析的流行方法是潜调节结构方程(latent moderation structuralequation,LMS)，该方法不仅具有潜变量建模的测量误差控制优势，而且它利用潜调节模型",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "的全部测量指标的联合分布函数来估计潜交互项的回归系数(即调节效应)，不需要人为构建交互项(方杰，温忠麟,2018)，避免了由此产生的复杂问题(如交互项非正态问题和交互项构建策略差异对结果产生的影响；梁兴丽等,2020)。LMS 的具体原理可参见温忠麟等(2013)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对于应用者来说，使用LMS 相当简单，在Mplus 软件中，只需要用形如“kxiXW|kxiXXWITHkxiW;”的命令定义潜交互项变量名即可。其中，kxiX 和kxiW分别指自变量和调节变量的潜变量形式。附录中提供了一个对应于前文实例的基于LMS 的 Mplus 语句。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.2因子分法",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "当调节模型比较复杂(如因子和测量指标较多)，而样本容量相对不足，LMS 可能不收敛或收敛过慢(Ng&Chan,2020)。如本文实例如果使用原始问卷条目，需15 分钟收敛，即便条目打包，也要5分钟收敛。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "此时可以考虑使用另一种基于潜变量的方法——因子分法(factor score approach,FS)。该方法把潜变量建模过程拆分为两步(Ng& Chan,2020)：第一步建立各变量的测量模型获取因子方差-协方差、因子载荷、误差方差-协方差等参数估计值；继而用这些估计值计算因子分矩阵；接着用因子分矩阵乘以个体在问卷条目上的原始分来获取因子分。第二步，利用第一步算出的因子分做路径分析。FS 通过分步建模，简化了模型，对样本容量的要求更低，计算量较小，容易收敛(Ng& Chan,2020)，并且有助于避免LMS 等同步建模方法可能存在的测量模型误设污染结构模型系数的问题。附录中提供了对应于前文实例的基于FS 的 Mplus语句。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6meMO-II建模方法的新进展",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文提出的meMO-II建模方法和分析流程是按照meMO-II的基本模型形式整理的，可以称为基础 meMO-II。基础 meMO-II简单易懂，具备基本的中介调节知识就能够掌握，并且使用 SPSS 软件即可完成分析。但其并非没有局限。首先，作为一种基于多元回归的模型，meMO-II也需要满足误差方差齐性等假设。有研究指出，含有交互项的模型很难保证误差方差完全相等(Liu&Yuan,2021)，而这一假设的违反可能增加第二类错误率，降低调节效应的检验力(刘红云等,2021)。第二，变量 $M$ 具有内生性(endogeneity，即会受模型中其它变量影响)，由其构建的交互项 $\\mathit { X M }$ 也应存在内生性(Kwan & Chan,2018)，但基础 meMO-II 体现不出这一点(因为XM没有预测变量)，这可能成为潜在的偏差来源。第三，通常的中介路径都是连贯的，即中介前后段由同一中间变量连接。然而，由图2b 可知基础meMO-II的中介前后路径分别是 $W {  } M$ 和 $X M {  } Y ,$ ，并不连贯。这可能给应用者理解基础meMO-II带来一定困难。近年来出现的两种 meMO-II建模方法—一变量系统和两水平有中介的调节为处理上述局限提供了新的思路。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.1变量系统",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为了避免后段路径被调节的中介模型和 meMO-II 的统计模型混淆,Kwan 和 Chan(2018)提出了变量系统(variable system,VS)这一建模方法。基于VS 的 meMO-II可以用方程3加上下列方程表示：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX M = a _ { 0 } X + a _ { 1 } X W + X e _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\beta _ { \\scriptscriptstyle 0 } + \\beta _ { \\scriptscriptstyle 1 } X + e _ { \\scriptscriptstyle 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\scriptscriptstyle 0 } = \\gamma _ { \\scriptscriptstyle 0 0 } + \\gamma _ { \\scriptscriptstyle 0 1 } M + \\gamma _ { \\scriptscriptstyle 0 2 } W\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\scriptscriptstyle 1 } = \\gamma _ { \\scriptscriptstyle 1 0 } + \\gamma _ { \\scriptscriptstyle 1 1 } M + \\gamma _ { \\scriptscriptstyle 1 2 } W\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\beta _ { 0 }$ 和 $\\gamma _ { 0 0 }$ 是回归截距， $\\beta _ { 1 }$ 、γ10、201、γ11 $\\gamma _ { 0 2 }$ 和 $\\gamma _ { 1 2 }$ 是回归系数。不难看出，除去系数的表达形式，VS的方程大部分与前文中给出的meMO-II相关方程没有多大区别，方程9\\~11只是按照多水平模型的格式书写了(但这种格式上的区别有助于在统计模型中区分自变量和调节变量，前者总在层1，后者总在层2)，将方程10和11代入方程9后，所得公式将等价于前文方程4。主要的差别是方程8,它是由前文方程3乘以 $X$ 得来。这样一来,meMO-II的间接调节指标可以表达为 $X W {  } X M {  } Y$ 的路径系数乘积 $a _ { 1 } \\gamma _ { 1 1 }$ 。这一变化的好处是：(1)XM有预测变量，其内生性得以体现；(2)间接调节路径具备了连贯性；(3)统计模型与基础meMO-I不相同，也更容易与后段路径被调节的中介模型区分。这是因为，方程3中 $M$ 的截距项以及 $W {  } M$ 的路径系数分别等于方程8中 $X {  } X M$ 和 $X W {  } X M$ 这两个路径系数(即分别等于 $a _ { 0 }$ 和 $a _ { 1 }$ )，这样VS的模型自由度比基础meMOII多两个。尽管基础 meMOII也隐含了 $X$ 到 $\\mathit { X M }$ 的路径以及 $X W$ 到 $\\mathit { X M }$ 的路径，因为方程6中 $X$ 和 $X W$ 对 $Y$ 的作用都存在直接和间接两条路径，其中路径系数 $a _ { 0 } b _ { 2 }$ 可以看作 $X$ 通过 $\\mathit { X M }$ 对 $Y$ 的间接作用， $a _ { 1 } b _ { 2 }$ 则可以看作$X W$ 通过 $\\mathit { X M }$ 对Y的间接作用，但基础meMOII在建模和统计分析时都没有利用到方程8,所以无法约束前述两对路径系数相等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基于VS 建模思路，Kwan 和Chan(2018)开发了VS 程序，研究者只需要输入简单的概念模型，程序就可以自动建立基于结构方程的统计模型。该程序可以分析多种meMO-II变式。下载地址：http://www.psy.cuhk.edu.hk/vs。不过，单就对间接调节效应及其标准误的估计精度而言，已有研究表明VS 和基础 meMO-II效果区别不大(Kwan& Chan,2018)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2两水平有中介的调节",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "刘红云等(2021)借鉴多水平建模中误差项分解的思路，提出了两水平有中介的调节(2meMO；模型图见图6)，相当于令VS 的方程10和11增加两个随机误差项 $\\mu _ { 0 }$ 和 $\\lvert \\mu _ { 1 }$ ，变成方程12和13:",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\scriptscriptstyle 0 } = \\gamma _ { \\scriptscriptstyle 0 0 } + \\gamma _ { \\scriptscriptstyle 0 1 } M + \\gamma _ { \\scriptscriptstyle 0 2 } W + \\mu _ { \\scriptscriptstyle 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { 1 } = \\gamma _ { _ { 1 0 } } + \\gamma _ { _ { 1 1 } } M + \\gamma _ { _ { 1 2 } } W + \\mu _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu _ { 0 }$ 在参数估计时无法与层1误差项 $e _ { Y }$ 区分，相对次要； $\\mu _ { 1 }$ 代表了 $X$ 对 $Y$ 影响的个体差异中，不能被当前调节变量所解释的部分，体现了其它调节变量存在的可能。 $\\mu _ { 1 }$ 的存在也使得Y的残差方差可以随 $X$ 的不同而不同，即可以违背方差齐性假设。模拟研究也显示 $\\mu _ { 1 }$ 方差非齐性时，2meMO 的参数估计精度和第一类错误率控制都优于VS(满足方差齐性时两种方法表现差不多；刘红云等,2021)。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b985e50b670ce2f9a115693e592439fd0af56506e0029f226bf30c1de5e3cba.jpg",
+        "img_caption": [
+            "图62meMO统计模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "注：此图改编自刘红云等(2021)；图中实心圆点表示对应回归系数含有随机效应μ1，去掉此点即为VS 模型示意图此外，2meMO 建模时并没有通过方程3乘以 $X$ 的方式获取路径 $X {  } X M$ 和 $X W {  } X M$ 而是统计分析时直接使用这两条方程6隐含路径，并在Mplus 编程时限定它们分别与 $M$ 对W 回归的截距项以及 $W$ 到 $M$ 的路径系数相等。这样，2meMO同样具有前述VS 的所有优点。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "虽然本质上2meMO 和VS、基础 meMO-II的间接调节指标相同，但2meMO 的统计模型设定更合理，对 $X$ 和 $Y$ 之间关系变异的解释更符合现实。另外，基于 $X$ 和Y关系变异的分解，还有助于定义有意义的调节效应量(详见下文)。需要注意，2meMO 只是借用多水平分析这一方法，它处理的数据和建立的模型还是单水平的。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "使用VS 和 2meMO 分析前文实例数据(Mplus 语句模板见附录)，它们与基础 meMO-II所得结果差别很小，特别是间接调节效应及其标准误的估计值在小数点2位以内没有区别，详细结果见表2。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e8e1bf623815de5abf45b02d524e215dbdf47759867d97ce423a51e53aa44b5.jpg",
+        "table_caption": [
+            "表2基础meMO-II、VS和2meMO分析示例数据的效果比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数</td><td colspan=\"2\">基础meMO-II</td><td colspan=\"2\">VS</td><td colspan=\"2\">2meMO</td></tr><tr><td>估计值</td><td>标准误</td><td>估计值</td><td>标准误</td><td>估计值</td><td>标准误</td></tr><tr><td>c(总调节效应)：自尊×(忌妒→生活满意度)</td><td>0.14</td><td>0.03</td><td>0.14</td><td>0.03</td><td>0.14</td><td>0.03</td></tr><tr><td>ai(间接调节前段路径)：自尊→积极应对</td><td>0.25</td><td>0.04</td><td>0.22</td><td>0.08</td><td>0.24</td><td>0.02</td></tr><tr><td>b2(间接调节后段路径)：积极应对×(忌妒→生活满意度)</td><td>0.08</td><td>0.03</td><td>0.08</td><td>0.03</td><td>0.09</td><td>0.04</td></tr><tr><td>aib2(间接调节效应)：自尊→积极应对×(忌妒→生活满意度)</td><td>0.02</td><td>0.01</td><td>0.02</td><td>0.01</td><td>0.02</td><td>0.01</td></tr><tr><td>c(直接调节效应)：自尊×(忌妒→生活满意度)</td><td>0.12</td><td>0.03</td><td>0.12</td><td>0.03</td><td>0.11</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "综合前文论述，在3种meMO-II建模方法中，基础meMO-II相对容易理解和实施，但一定程度上牺牲了估计的精度和统计模型的可解释性。而VS 和2meMO 通过更复杂的建模方法解决了间接调节路径中的内生性、连贯性以及统计模型易混淆等问题。2meMO 还消除了误差方差齐性假设依赖问题，基础 meMO-II和VS 都可以看作 2meMO 的特例。使用2meMO 时，分析流程大体还是按照检验总调节效应、间接调节效应及简单斜率分析的三步走，但第一步总调节检验最好改为基于两水平回归的调节模型，具体操作方式参见方杰和温忠麟(印刷中)或 Liu 和 Yuan(2021)；第二步和第三步均改为基于 2meMO 模型，其中第二步直接检验 $X W {  } X M {  } Y$ 的路径系数乘积 $a _ { 1 } \\gamma _ { 1 1 }$ ，第三步简单斜率分析的操作见附录中2meMO的 Mplus 语句模板。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析与前人研究(刘红云等,2021;Kwan&Chan,2018)，2meMO 是目前meMO-II建模最有效的方法，特别是如果不能确定 $\\mu _ { 1 }$ 满足方差齐性时应优先考虑使用。也可以首先检验层2斜率方程的残差 $\\mu _ { 1 }$ 方差(即 2meMO 的 Mplus 程序输出结果中的betweenlevel方差)是否为0，若其不显著或足够小，使用 meMO-II和VS可以简化模型。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7间接调节效应量",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "效应量是统计推断中不可或缺的一环，前文所述的meMO-II建模方法和流程仅涉及显著性检验，未讨论效应量问题。通过总结已有文献，可以整理出以下几种可以用于间接调节",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "效应大小评价的指标。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1)间接调节效应与总调节效应之比。该效应量指标类似于中介模型效应量 $P _ { M } ( \\$ 温忠麟等，2016)，表示间接调节效应占总调节效应的比例。以本文数据为例，间接调节效应量$P _ { \\scriptscriptstyle M } = a _ { 1 } b _ { 2 } / ( c _ { 3 } ^ { \\prime } + a _ { 1 } b _ { 2 } ) = 0 . 0 2 / 0 . 1 4 = 0 . 1 4$ 。 $P _ { M }$ 的优点是：容易理解和计算；间接调节效应和直接调节效应之和等于总调节效应；当间接调节效应与直接调节效应同号时，具备效应量应有的基本性质，即与测量单位无关、不受样本容量影响、有单调性、有界且正规(即取值在0到1之间；温忠麟等,2016)。缺点是：当间接调节与直接调节异号时， $P _ { M }$ 无界； $P _ { M }$ 只是一个相对指标，体现不出效应在绝对意义上的大小，需要结合间接调节效应值或其它效应量指标；缺少经验临界值用于大小评价和比较。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$( 2 ) \\upsilon$ 。 $\\mathbf { \\chi } _ { \\upsilon }$ 是一个 $R ^ { 2 }$ 型效应量，以往研究中用于简单中介模型，它等于中介前后两段路径系数乘积的平方(Lachowicz etal.,2018)。用于本文实例的间接调节效应分析时，$\\upsilon = a _ { 1 } ^ { 2 } b _ { 2 } ^ { 2 } = 0 . 2 5 ^ { 2 } \\times 0 . 0 8 ^ { 2 } = 0 . 0 0 0 4$ 。指标该效应量指标的优点在于：容易计算；具备效应量应有的基本性质；可以借鉴 $R ^ { 2 }$ 的经验临界值(Lachowicz etal.,2018)。局限在于不能被理解为方差被解释的比例，其意义不易解释，还不如直接使用系数乘积的绝对值更加直观易理解(温忠麟等,2016)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3)基于系数变异分解的效应量。调节效应分析中，常用的效应量是加入交互项前后模型的 $R ^ { 2 }$ 变化量，Liu 和Yuan(2021)指出此类效应量只反映了因变量变异有多少能被交互项解释，无法区分调节变量和自变量的作用，也就不能回答调节效应真正关心的问题：自变量和因变量关系的变异中有多少是调节变量贡献的？他们提出基于系数变异分解的效应量并将其推广到有中介的调节模型中(刘红云等,2021)。其中， $\\phi _ { M O \\_ i n d }$ 表示 $W$ 通过 $M$ 的间接调节效应对 $X$ 到Y的总路径系数变异的解释比例，可以衡量间接调节效应大小4。其计算公式为：",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { _ { M O \\_ i n d } } = \\frac { ( \\gamma _ { _ { 1 1 } } a _ { 1 } ) ^ { 2 } \\operatorname { v a r } ( W ) } { \\left( \\gamma _ { _ { 1 2 } } + \\gamma _ { _ { 1 1 } } a _ { 1 } \\right) ^ { 2 } \\operatorname { v a r } ( W ) + \\gamma _ { _ { 1 1 } } \\sigma _ { _ { e _ { 3 } } } ^ { 2 } + \\sigma _ { _ { \\mu _ { 1 } } } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "该效应量的Mplus 计算程序见刘红云等(2021)。利用方程14解得本文实例中 $\\phi _ { M O \\_ i n d }$ 等于0.003。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "基于系数变异分解的效应量优点是：效应量的定义与meMO-II的概念模型匹配，因此好理解和解释；具备效应量应有的基本性质(刘红云等,2021)；同时适用于前述所有meMO-II",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "建模方法(用于基础 meMO-II和VS 时分母不加入 $\\mu _ { 1 }$ 方差即可)。缺点是：此类效应量只有相对意义，需要结合公式的分母、间接调节效应值或其它效应量来评价效应绝对大小；缺少经验临界值；间接调节效应和直接调节效应之和不等于总调节效应(刘红云等,2021)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "上述效应量各有优劣，且关注视角各有不同。基于前人对于中介、调节效应量报告的建议(刘红云等,2021；温忠麟等,2016;Lachowicz et al.,2018;Liu et al.,2021)，同时报告多个效应量指标(包括标准化的间接调节效应值)是比较好的选择。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8meMO-II的模型变式",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "以往研究(包括前文在内)大都只关注到 meMO-II的基本形式，下面介绍一些meMO-II的变式，这些变式对于丰富meMO-II的形式，深化研究者对于间接调节的理解有所帮助。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1)多重间接调节。类似于多重中介，间接调节也可以有多种路径，其意义在于揭示 W能够调节 $X$ 和 $Y$ 的多个潜在原因。仍然关注前文实例，自尊除了可以通过积极应对调节忌妒和生活满意度的关系，还可能通过积极情绪这一有中介作用的调节变量。因为对自己有积极评价的个体往往也能产生更多的积极情绪，而积极情绪有助于缓冲忌妒产生的消极情绪。这是并行多重间接调节。假如自尊增加了积极应对，而后者又产生了更多积极情绪，进而调节了忌妒和生活满意度的关系，则是链式多重间接调节。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2)调节的遮掩分析。类似于中介模型中所讲的遮掩效应(刘振亮等,2021；温忠麟，叶宝娟,2014b)，属于不一致调节。W对 $X$ 和Y的总调节效应也可能因为存在两个方向相反、大小接近的间接调节作用而被遮掩。比如，一方面，自尊可以通过增加积极应对正向调节忌妒和生活满意度；但另一方面，对自己的过度正面评价可能引起自恋，自恋则可能负向调节忌妒和生活满意度。假如两个间接调节路径相互抵消，有可能使得自尊的总体调节效应看起来不显著。调节的遮掩分析有助于解释为什么很多理论上说得通的调节效应却得不到显著的结果。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3)多水平间接调节。可以处理间接调节模型中的变量位于不同水平的情况。常见的情况如W位于层2水平， $M , X$ 和Y都位于层1，或W和 $M$ 都位于层2，而 $X$ 和Y位于层1(刘东等,2018)。比如一个国家国民的集体自尊(水平2)可能通过增加每个个体的积极应对，从而调节忌妒和生活满意度的关系。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(4)基于类别变量的间接调节。可以用来处理间接调节模型中存在类别变量的情况。间接调节研究中的W常常是分类变量。当W是二分类被试间变量，可以像前文介绍的流程那样建立meMO-II进行分析。如果W是三分类以上被试间变量，比如按照自尊得分把被试分成高、中、低自尊三类，考察自尊类别通过积极应对对忌妒和生活满意度的调节作用，可以把自尊类别转换为两个哑变量，考察每个哑变量的间接调节作用，这就是相对间接调节分析，类似于相对中介效应分析(方杰等,2017)。值得一提的是，这一类间接调节模型也可以用在心理学实验研究，即考察某些实验处理通过怎样的间接路径调节到 $X$ 和Y的关系。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(5)有调节的间接调节模型。假如典型meMO-II的间接调节路径上存在调节变量，则该模型可以称之为一个有调节的间接调节模型。这种模型可以用于解释间接调节效应的边界条件。比如，自尊通过积极应对调节忌妒和生活满意度关系的前段路径(即自尊 $$ 积极应对)可能受到其它变量(如情绪调节自我效能感)的调节。对于情绪调节自我效能感较高的个体，自尊和积极应对的关联可能更大，对忌妒和生活满意度的间接调节效应也更大；而对于情绪调节自我效能感较低的个体，自尊和积极应对的关联可能更小，间接调节效应也更小。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(6)有间接调节的中介模型。假如典型meMO-II的 $X$ 之前还有前因变量，或Y之后还有后果变量，则该模型可以称之为一个有间接调节的中介模型。此时模型根本上还是一个中介模型，而间接调节的存在不仅让我们了解了中介作用存在边界条件，还帮我们解释了为什么中介模型会有这样的边界条件。比如，依恋焦虑可能会增加个体的忌妒水平，而忌妒水平降低了生活满意度。这一中介模型的后段路径受到自尊的调节。那么，自尊是怎样调节中介模型的后段路径的？这可能是由于自尊首先增加了积极应对，积极应对进而缓冲了忌妒对生活满意度的消极作用。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9结语 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了第二类有中介的调节模型(meMO-II)的概念、优势、建模方法、分析流程、基于潜变量的分析方法以及模型变式。希望本文的工作能促进更多应用研究者关注到调节变量的作用机制问题，并能运用meMO-II进行研究。除了本文所涉论题，关于meMO-II，未来还有更多方法学工作有待开展。比如，鉴于基础 meMO-II、VS 和 2meMO 在不同样本或假设违反条件下的比较研究还太少，未来有必要开展模拟和实证研究同时比较三者，为研究者选用meMO-II建模方法提供更准确和详细的建议。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "最后需要强调的一点是，尽管本文的大量篇幅用于介绍meMO-II的各种统计分析方法和流程，但对于任何一个应用研究来说，从理论意义上构建恰当的模型才是根基，然后再考虑相应的统计分析方法。工具、模型和统计分析是服务于研究需要的，不要为了运用复杂的",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "统计模型而忽视研究的理论意义。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢广东财经大学方杰教授、广东金融学院潘心仪同学及两位匿名评审对本文提供的帮助。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "方杰，梁东梅,李霓霓.(2015).基于多元回归的调节效应分析.心理科学,38(3),715-720方杰，温忠麟.(2018).基于结构方程模型的有调节的中介效应分析．心理科学,41(2),453-458.方杰，温忠麟.(印刷中).基于两水平回归模型的调节效应分析及其效应量.心理科学进展.方杰，温忠麟，张敏强.(2017).类别变量的中介效应分析．心理科学,40(2),471-477.梁兴丽，何津，周佶俊，刘萍萍.(2020).认知能力对学业成绩的影响：有中介的调节模型.心理",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "育,36(4),449-461.刘东，张震，汪默.(2018).单层与多层被调节的中介和被中介的调节：理论构建与模型检验(高中华译).见",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "陈晓萍，沈伟 (编)，组织与管理研究的实证方法(第3版,pp.663-693).北京大学出版社.  \n刘红云，袁克海，甘凯宇.(2021).有中介的调节模型的拓展及其效应量的测量．心理学报,53(3),322-338.  \n刘振亮，刘田田，沐守宽.(2021).遮掩效应的统计分析框架及其应用.心理技术与应用,9(10),610-618.  \n温忠麟，范息涛，叶宝娟，陈宇帅.(2016).从效应量应有的性质看中介效应量的合理性．心理学报,48(4),435-443.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "温忠麟，方杰，沈嘉琦，谭倚天，李定欣，马益铭.(2021).新世纪20年国内心理统计方法研究回顾.心理科学进展,29(8),1331-1344.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "温忠麟，方杰，谢晋艳，欧阳劲樱.(印刷中).国内中介效应的方法学研究回顾.心理科学进展  \n温忠麟，刘红云.(2020)．中介效应和调节效应：方法及应用.教育科学出版社.  \n温忠麟，吴艳，侯杰泰.(2013).潜变量交互效应结构方程：分布分析方法．心理学探新,33(5),409-414.温忠麟，叶宝娟.(2014a).有调节的中介模型检验方法：竞争还是替补？心理学报,46(5),714-726.温忠麟，叶宝娟.(2014b).中介效应分析：方法和模型发展．心理科学进展,22(5),731-745.  \n温忠麟，张雷，侯杰泰.(2006).有中介的调节变量和有调节的中介变量．心理学报,38(3),448-452.叶宝娟，温忠麟.(2013).有中介的调节模型检验方法：甄别和整合．心理学报,45(9),1050-1060.  \n朱玥，谢江佩，金杨华，施俊琦.(2019).团队权力分布差异对团队冲突的影响：程序公平和合法性的作用.心理学报,51(7),829-840.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Baron,R.M.,& Kenny,D.A. (1986).The moderator-mediator variable distinction in social psychological research: ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Conceptual,strategic,and statistical considerations.Journal of Personality and Social Psychology，51(6), 1173-1182. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Cortina,J.M.,Dormann,C.,Markell,H.M.,& Keener,S.K. (2022).Endogenous moderator models: What they are, what they aren't,and why it matters. Organizational Research Methods. Advance online publication. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Edwards,J. R.,& Lambert,L. S.(2O07). Methods for integrating moderation and mediation: A general analytical framework using moderated path analysis. Psychological Methods,12(1),1-22.   \nFinsaas,M. C.,& Goldstein,B.L. (2021). Do simple slopes folow-up tests lead us astray? Advancements in the visualization and reporting of interactions.Psychological Methods,26(1),38-60.   \nGardner,R.G.,Harris,T.B.,Li,N.,Kirkman,B.L.,& Mathieu,J.E.(2017). Understanding“it depends”in organizational research: A theory-based taxonomy,review,and future research agenda concerning interactive and quadratic relationships. Organizational Research Methods,20(4), 610-638.   \nHayes,A.F.(20l7). Introduction to mediation, moderation,and conditional process analysis: A regression-based approach (2nd ed.). Guilford Press.   \nKwan,J.L.Y.,& Chan,W. (2O18). Variable system: An alternative approach for the analysis of mediated moderation. Psychological Methods, 23(2),262-277.   \nLachowicz,M.J.,Preacher, K.J.,& Kelley,K. (2018).A novel measure of effect size for mediation analysis. Psychological Methods,23(2),244-261.   \nLiu,H.,& Yuan,K.-H. (2021).New measures of effect size in moderation analysis.Psychological Methods,26(6), 680-700.   \nLiu,H.Y.,Yuan,K.-H.,& Wen,Z.L. (2021).Two-level moderated mediation models with single-level data and new measures of effect sizes. Behavior Research Methods. Advance online publication.   \nMarsh,H. W., Wen, Z.,& Hau, K.-T. (2004). Structural equation models of latent interactions: Evaluation of alternative estimation strategies and indicator construction. Psychological Methods,9(3),275-300.   \nNg, J. C., & Chan, W. (2020). Latent moderation analysis: Afactor score approach. Structural Equation Modeling: A Multidisciplinary Journal, 27(4),629-648.   \nNg, J. C.， Cheung,V. W.，& Lau, V. C. (2019). Unpacking the differential efects of dispositional envy on happiness among adolescents and young adults: The mediated moderation role of self-esteem. Personality and Individual Differences,149, 244-249.   \nO'Boyle,E. H., Banks, G. C. Walter,S., Carter, K.,& Weisenberger, K. (2015). What moderates moderators?A meta-analysis of interactions in management research. In Academy of Management Proceedings， 2015, ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "van Kollenburg, G.H.,& Croon, M.A. (2017). Indirect (mediated) Moderation: The missing link in integrating mediation and moderation in regression analysis. Retrieved July 15, 2021， from https://arxiv.org/ftp/arxiv/papers/1701/1701.08862.pdf ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "附录：",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "基础meMO-II的Mplus 语句模板  \nDATA:FILE $\\ O =$ meMOII 示例数据.csv;  \nVARIABLE:NAME $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8 LSM envyM seMPCM II  \nUSEVARIABLES $\\ O =$ LSM envyM seM PCM envy_se envy_pc;  \n!LSM生活满意度均分;envyM忌妒均分;seM自尊均分;PCM积极应对均分  \nDEFINE:standardizeLSMenvyMseMPCM;!将所有变量标准化  \nenvy_se $\\ O =$ envyM\\*seM;envy_pc $\\ O =$ envyM\\*pcM;!构建两个交互项  \nANALYSIS:BOOTSTRAP $= 1 0 0 0$ ；!bootstrap 重复取样1000 次  \nMODEL:LSMON envyM(clpp)!忌妒对生活满意度的直接效应  \nseM PCM  \nenvy_se (c3pp)!直接调节效应  \nenvy_pc(b2);!间接调节后段路径  \nPCMON seM(a1);!间接调节前段路径  \n[PCM] (a0);  \n!在此位置加上如下语句：  \n!envy_pc ON envy_se (a1); envy_pc ON envyM(a0); envy_pc WITHPCM;  \n!seM WITH envy_se; envy_se WITH envyM; envyMWITH seM;  \n!即为VS 语句  \nMODEL CONSTRAINT:NEW(modtotal ind);  \nind ${ \\tt = a l * b 2 }$ ；!间接调节效应  \nmodtotal $\\ O =$ $\\mathsf { a } 1 ^ { * } \\mathsf { b } 2 ^ { + } \\mathsf { c } 3 \\mathsf { p p }$ ；！总调节效应  \nloop (seM,-3,7,0.01);!括号内参数分别为原始调节变量自尊、调节变量在横轴上的取值下限、上限(可根据自己研究中调节变量的实际取值范围灵活调整)以及步长(即自尊取值每隔0.01计算一次简单斜率)plot (effect);!简单斜率图纵轴表示 effect",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "effect $\\mathrm { \\Delta = c 1 p p + a 0 ^ { * } b 2 + ( c 3 p p + a 1 ^ { * } b 2 ) ^ { * } s e M ; }$ ！简单斜率命名为effectplot: type $\\ O =$ plot2;!如果不要使用JN法，从loop 命令到此行不写即可OUTPUT:CINTERVAL (BOOTSTRAP);",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "基础meMO-II的R语句模板",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "install.packages (\"lavaan\") #安装 lavaan 程序包  \nlibrary(lavaan) #加载 lavaan 包  \nmeMOIIdata $<$ -read.csv(\"C:/Users/user/Desktop/memoII示例数据R.csv\",header ${ \\boldsymbol { \\mathbf { \\mathit { \\sigma } } } } = \\operatorname { F } $ ）  \n#导入数据文件，并命名为meMOIIdata，做自己的分析需将上述路径替换为自己的数据文件路径  \n#header ${ \\bf \\Pi } = \\bf { F }$ 表示数据文件未含变量名  \nnames (meMOIIdata)[1:5] $< -$ c(\"LSM\",\"envyM\",\"seM\",\"PCM\",\"ID\")#变量命名  \nmeMOIIdata\\$LSM $\\prec$ -scale(meMOIIdata\\$LSM) #变量标准化  \nmeMOIIdata\\$envyM $\\angle$ -scale(meMOIIdata\\$envyM)  \nmeMOIIdata\\$seM<-scale(meMOIIdata\\$seM)  \nmeMOIIdata\\$PCM $\\mathrm { < } .$ scale(meMOIdata\\$PCM)  \nmodel<-'  \nLSM\\~ c0pp\\*1 +clpp\\*envyM $^ +$ c2pp\\*seM $^ +$ b1\\*PCM $^ +$ c3pp\\*envyM:seM $^ +$ b2\\*envyM:PCM  \nPCM\\~a0\\*1+a1\\*seM  \nInd := a1\\*b2  \nmodtotal $\\mathrel { \\mathop : } = \\mathrm { c } 3 \\mathrm { p p } + ( \\mathrm { a } 1 ^ { \\ast } \\mathrm { b } 2 )$ （204号  \n#列出建模涉及的方程并命名为model，\\*右侧为变量，左侧为系数标签，1表示截距，:表示变量相乘，  \n# $\\mathrel { \\mathop : } =$ 命令用于自定义参数  \nfit $\\ll _ { - }$ sem(model, data $\\ O =$ meMOIIdata, se $\\ c =$ \"bootstrap\")  \nsummary(fit)#输出分析结果",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "基于潜调节结构方程的meMO-II的Mplus语句模板",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "DATA: FILE $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ meMOII示例数据.csv;   \nVARIABLE:NAME $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8 LSM envyM seMPCM ID;   \nUSEVARIABLES $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8;   \nANALYSIS: TYPE $\\ O =$ random;algorithm $\\mathbf { \\Sigma } =$ integration; MODEL:LSbyL1-L5;PCby T1-T12;SE byE1-E10;envy by EN1-EN8; envy_se|envyXWITHSE;envy_pc|envyXWITHpc;!定义潜交互项名称 LS ON envy se PC   \nenvy_se (c3pp)   \nenvy_pc(b2);   \nPC ON se (a1);   \nMODEL CONSTRAINT: NEW(modtotal ind);   \nind ${ \\tt = a l * b 2 }$ ; modtotal $\\ O =$ al $^ { * } \\mathrm { b } 2 + \\mathrm { c } 3 \\mathrm { p p }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "基于因子分法的meMO-II的Mplus语句模板",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "第一步(保存因子分):  \nDATA: FILE $\\ O =$ memoII示例数据.csv;  \nVARIABLE: NAME $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8 LSM envyM seM PCM ID;  \nUSEVARIABLES $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8;  \nMODEL: LS by L1-L5; PC by T1-T12; SE by E1-E10; envy by EN1-EN8;  \nOUTPUT: STANDARDIZED(STDYX) CINTERVAL;  \nsave: save $\\ O =$ fscores;！保存因子分  \nfile $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ fs.txt;!因子分存储在名为fs 的文本文档中，文档中每一列变量的含义可见于output的“SAVEDATAINFORMATION”部分第二步(用因子分进行路径分析):  \nDATA:FILE $\\ O =$ fs.txt;  \nVARIABLE:NAME $\\ O =$ L1-L5 T1-T12E1-E10 EN1-EN8LS LSSE pc pcSE se seSE envy envySE envy_se envy_pc;!LSSE pcSE seSE envySE 是各因子分的标准误  \nUSEVARIABLES $\\ O =$ LS pc se envy envy_se envy_pc;DEFINE:standardize LS envy se PC;  \nenvy_se $\\ O =$ envy\\*se; envy_pc $\\ c =$ envy\\*pc;  \nANALYSIS: BOOTSTRAP $= 1 0 0 0$   \nMODEL: LS ON envy se PCenvy_se (c3pp)  \nenvy_pc(b2);  \nPC ON se (a1);  \nMODEL CONSTRAINT: NEW(modtotal ind);ind $= { \\tt a l } ^ { * } { \\tt b } 2$ ; modtotal $\\ O =$ $\\mathtt { a } 1 ^ { * } \\mathtt { b } 2 + \\mathtt { c } 3 \\mathtt { p } \\mathtt { p }$   \nOUTPUT:CINTERVAL (BOOTSTRAP);2meMO的Mplus语句模板  \nDATA: FILE $\\ O =$ memoII示例数据.csv;  \nVARIABLE: NAME $\\ O =$ L1-L5 T1-T12 E1-E10 EN1-EN8LSM envyM seMPCM ID;USEVARIABLES $\\ l =$ LSM envyM seM PCM envy_se envy_pc;  \nCLUSTER $= \\mathrm { I D }$ ：9  \nWITHIN $\\ O =$ LSM envyM seM PCM envy_se envy_pc;  \nDEFINE: standardize LSM envyM seM PCM;  \nenvy_se $\\ O =$ envyM\\*seM; envy_pc $\\ O =$ envyM\\*pcM;  \nANALYSIS: TYPE IS TWOLEVELRANDOM; ESTIMATOR IS BAYES;  \nMODEL:  \n%WITHIN%  \nc |LSM ON envyM; LSM on PCM seM;  \nLSM on envy_se(gamma12);  \nLSM on envy_pc(gamma11);  \nPCM on seM (a1);  \nenvy_pc on envy_se (a1);  \nenvy_pc on envyM(a0);  \n[PCM](a0);  \nenvy_pc WITHPCM;  \nseM WITH envy_se; envy_se WITH envyM; envyM WITH seM;  \n%BETWEEN%  \n[c] (c0);  \nc (sig2_mu1);MODEL CONSTRAINT: NEW(modtotal ind wmH wmL);  \nind $\\ O =$ a1\\*gammal1; modtotal $\\ O =$ a1\\*gamma11+gamma12;  \nwmH $\\scriptstyle { [ = \\mathbf { c } 0 + \\mathbf { a } 0 ^ { * } }$ gamma11+gammal2\\*1+gamma1 $^ { * } 0 . 2 4$ ；！选点法高分点的简单斜率  \nwmL ${ \\boldsymbol { \\mathbf { \\mathit { \\sigma } } } } _ { = { \\boldsymbol { \\mathbf { \\mathit { c } } } } 0 + { \\mathbf { \\hat { a } } } 0 ^ { * } }$ gamma11-gamma $1 2 ^ { * } 1$ -gamma $1 1 ^ { * } 0 . 2 4$ ；!选点法低分点的简单斜率  \nloop (seM,-3,7, 0.01);  \nplot (effect);  \neffect $= { \\mathrm { c } } 0 { + } { \\mathrm { a } } 0 ^ { * }$ gamma11+(gammal2+al\\*gamma11)\\*seM;  \nplot: type $\\ c =$ plot2;  \nOUTPUT:CINTERVAL(HPD);!给出后验分布的最高密度区间(highest density interval,HDI)",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The second type of mediated moderation ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "WANG Yang1,WEN Zhonglin²,WANG Huihui³, GUAN Fang3 ( School of Public Administration, Guangdong University of Finance, Guangzhou 510521, China)(² School of Psychology/Center for Studies of Psychological Application, South China Normal University, Guangzhou 510631, China)( School of Education, Ningxia University, Yinchuan 750021, China)(4 Department of Psychology, Tsinghua University, Beijing 100083, China) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mediated moderation is frequently used in psychological research to reveal the phenomenon of a moderating effect being indirectly realized through mediating variables. This paper introduces the concept and advantages of a second type of mediated moderation (meMO-I1). Then, we compare meMO-I with other models that combine mediation and moderation. Additionally, we propose the meMO-II modeling approach and analysis process, which we then demonstrated with a real example. We also introduce meMO-II analysis methods based on latent variables, advances in meMO-I modeling approaches,and variations in meMO-II. This offers a valuable contribution to moderating mechanism research. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Keywords: the second type of mediated moderation, moderating mechanisms, two-level mediated moderation,variable system,latentvariables ",
+        "page_idx": 23
+    }
+]

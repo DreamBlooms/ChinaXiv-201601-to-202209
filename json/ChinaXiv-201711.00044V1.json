@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "Numerical Study of Improving Aerodynamic Performance of Low Solidity LPT Cascade through Increasing Trailing Edge Thickness ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Chao, YAN Peigang, WANG Xiangfeng, HAN Wanjin and WANG Qingchao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Energy science and engineering, Harbin Institute of Technology, Harbin 150oo1, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper presents a new idea to reduce the solidity of low-pressre turbine (LPT) blade cascades, while remain the structural integrity of LPT blade. Aerodynamic performance ofa low solidity LPT cascade was improved by increasing blade trailing edge thickness (TET).The solidityof the LPTcascade blade can be reduced by about $12 . 5 \\%$ through increasing the TETof the blade without a significant drop in energy efficiency.For the low solidity LPT cascade, increasing the TET can decrease energy loss by $23 . 3 0 \\%$ and increase the flow turning angle by $1 . 8 6 \\%$ for Reynolds number (Re) of 25,Ooo and freestream turbulence intensities (FSTI) of $2 . 3 5 \\%$ . The flow control mechanism governing behavior around the trailing edge of an LPTcascade is also presented.The results show that appropriate TET is important for the optimal design of high-lift load LPTblade cascades. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Aircraft engine,low pressure turbine, trailing edge thickness, profile loss,flow control ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization of turbomachinery design requires minimizing manufacturing and operating costs, while maintaining high system efficiency. In low pressure turbines (LPTs), this can be achieved by reducing the number of blades per row, however the reduction in blade number results in an increased load acting on each blade [1].High-performance LPTs typically operate at low Reynolds numbers and often suffer from flow separation on the suction sides,decreasing efficiency and reducing performance of the blade [2]. One way to improve the aerodynamic performance ofLPTs is to control the flow separation [3,4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Various flow control devices have been used in LPTs to control flow separation.Passive devices, such as those used by Lake et al.[5] and Rouser et al. [6] include dimples,grooves,and trips on the suction surface to control flow separation.In another study, Van Treuren et al.[7] used vortex generators to control flow separation，while Murawski and Vafai [8] considered changing the axial chord of the blade.Finally,Byerley et al.[9] considered Gurney flaps to control boundary layer separation. Active devices have also been developed to control flow separation.Huang et al.[1O] utilized single plasma actuators placed at different chord locations to control boundary layer separation,while Liu et al.[11], Bons et al.[12-14] and Bernardini et al.[15] considered Vortex Generator Jets (VGJs). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The primary LPT blade profile loss is due to flow separation, however, the wake loss is also important.Wake loss can be reduced by changing the trailing edge thickness or by altering the shape of the trailing edge [16,17]. Zhou et al. [18] improved aerodynamic performance of LPT blades by increasing the trailing edge thickness (TET) of the blade.For a higher lift cascade,increasing TET can increase trailing edge static pressure and reduce the wake loss. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, there has been a focus on developing low solidity and highly-loaded low solidity LPT cascade blades.Sondergaard etal.[19] used the VGJs to decrease thesolidity of the LPT cascade PackB,while Qiao et al. [4,20] used the jet-flap and Gurney-flap to decrease energy loss,which induced a reduction in the solidityof the LPT cascade Pack B while maintained high efficiency In these studies,active devices(VGJs and jet flap）and passive devices (Gurney-flap） were applied to the blade to control the flow separation in low solidity LPT cascades,which increases the manufacturing cost and damages the structural integrity of the blade. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inspired by improving aerodynamic performance of LPT blades by increasing the TET of the blade,we have anidea that the solidity maybe reduced by only increasing the TET of blade,with thought toward reducing the blade count and maintaining the structural integrity of the blade.To authors’knowledge,we are the first to study the feasibility of reducing the solidity ofLPT blade cascadesby increasing the TET ofLPTblades.We present flow control effects resulting from increasing TET of LPTblades. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computation model and method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GeometricModel ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 gives geometry of the P&W Pack B.The chord length of the Pack B blade is $\\mathrm { C = 1 7 . 7 8 ~ c m }$ . The pitch length is $\\mathrm { s } { = } 1 4 . 1 2 ~ \\mathrm { c m }$ and the axial chord length is $C _ { \\mathrm { x } } { = } 1 5 . 9 5$ cm. The inlet flow angle (β1) and the designed exit flow angle(β2） for the blade are $3 5 ^ { \\circ }$ and $- 6 0 ^ { \\circ }$ respectively. The solidity $\\boldsymbol { \\tau }$ (defined as $\\mathrm { C / s } \\mathrm { \\dag }$ ）ofthe cascade is 1.25,which is the optimum cascade solidity for conventional design. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Increasing the TET was accomplished by only changing the profile of the blade on the pressure side at about $9 5 \\%$ chord of the airfoil, as shown in Figure 2.The TET h is shown in Figure 2.The standard TET of Pack B is $\\mathrm { h } / \\mathrm { s } = 1 . 7 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computation Mesh and Computation Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For numerical simulations,a multi-block structured grid was used. The blade was surrounded by an O-grid, with the first layer near the wall prescribed at $0 . 0 1 5 ~ \\mathrm { m m }$ and a grid expansion ratio of1.12. The $\\mathrm { y + }$ of the blades was less than O.5.Figure 3 shows the computational grids for simulations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two-dimensional RANS equations were solved to describe flow around the LPT blade profile. Flow separation and transition was solved using the Langtry-Menter transition model [21,22]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The inlet total pressure, flow angle,eddy viscosity coefficient,and total temperature were specified at the inlet boundary. The outlet boundary specified static pressure.A periodic condition was used to only simulate one blade. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ea3e8129a845df6385ab75447ef340f4d438912a47b9eb90a7082511f0fb667.jpg",
+        "img_caption": [
+            "Fig.1 Geometry of the LPT cascade "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3df295fbd034d1bac88f3b7632f3cdaf6526e2389b3302a67d3c5c5edc3f65a3.jpg",
+        "img_caption": [
+            "Fig.3Computational grids "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfd7169c3889a44c16729285def368c75b06cdad5f021fb1a4154d62d022e41d.jpg",
+        "img_caption": [
+            "Fig.2Increasing the thickness of Pack B trailing edge "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Validation of the numerical method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To verify the numerical methods,the computational data were compared with experimental data [5,6,10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The wall pressure coefficient $\\mathrm { C } _ { \\mathrm { p } }$ is defined as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { p } } = { \\frac { P _ { \\mathrm { s } } - P _ { \\mathrm { i n l e t } } } { 0 . 5 \\rho U _ { \\mathrm { i n l e t } } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $\\rho$ is the inlet air density, $U _ { \\mathrm { i n l e t } }$ is the inlet velocity, $P _ { \\mathrm { { s } } }$ is the static pressure on the blade surface,and $P _ { \\mathrm { i n l e t } }$ is inlet static pressure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The energy loss coefficient $\\boldsymbol { \\gamma }$ based on the inlet velocity $U _ { i n l e t }$ is defined as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = \\frac { P _ { \\mathrm { i n l e t } } ^ { * } - P _ { \\mathrm { o u t l e t } } ^ { * } } { 0 . 5 \\rho U _ { \\mathrm { i n l e t } } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $P _ { \\mathrm { i n l e t } } ^ { * }$ is inlet stagnation pressure and $P _ { \\mathrm { o u t l e t } } ^ { * }$ is outlet stagnation pressure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The energy loss coefficient @ based on the outlet velocity $U _ { \\mathrm { o u t l e t } }$ is defined as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = \\frac { P _ { \\mathrm { i n l e t } } ^ { * } - P _ { \\mathrm { o u t l e t } } ^ { * } } { 0 . 5 \\rho U _ { \\mathrm { o u t l e t } } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $U _ { \\mathrm { o u t l e t } }$ is the outlet velocity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Figure 4, the computed pressure coefficient distributions are shown along with experimental data. The computed $\\mathrm { C } _ { \\mathrm { p } }$ distributions on the blade show good agreement with experimental data.These results show that computational methods have the ability to predict flow separation and transition. At a given FSTI, decreasing the Re moves the location of separation upstream and the location of reattachment downstream. For a given Reynolds number, increasing the FSTI moved the location of separation downstream and the location of reattachment upstream. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A comparison of computed energy loss coefficients with experimental results is shown in Figure 5.Computed data display good agreement with experimental data for $\\mathrm { R e } = 8 6 { , } 0 0 0$ and $\\mathrm { R e } = 1 7 2 , 0 0 0$ ,as shown in Figure 5(a), however the computed values overestimate experimental data for $\\mathrm { R e } = 2 5 { , } 0 0 0$ and $\\mathrm { R e } = 5 0 { , } 0 0 0$ .As shown in Figure 5(b),for $\\mathrm { R e } \\ = \\ 2 5 { , } 0 0 0$ ， the computed values were in good agreement with experimental values for $F S \\mathrm { T I } = 1 \\%$ ，but computed values were slightly lower than experimental data for $\\mathrm { F S T I } = 4 \\%$ .At $\\mathrm { R e } = 4 5 { , } 0 0 0$ the computed data and the experimental data exhibited large differences when $F S \\mathrm { T I } = 1 \\%$ ，which maybe caused by flow instability; however the computed data and the experimental data showed good agreement when ${ \\mathrm { F S T I } } =$ $4 \\%$ At $\\mathrm { R e } \\ = \\ 1 0 0 { , } 0 0 0$ the computed loss coefficient matched experimental values for both $F S \\mathrm { T I } = 1 \\%$ and $\\mathrm { F S T I } = 4 \\%$ . Based on fit to experimental data, the computation method used in this work is able to describe flow separation and transition in the turbine cascade. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a731183debe2d996c39bc9794d691cac17d8ab9eb829b71a2aaa7c997ca69713.jpg",
+        "img_caption": [
+            "Fig.4Blade pressure coefficient distributions "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0232fb453fd4c027779bfbfb795b81c3e4632dc7aa8527cd6391a76c7cf033b6.jpg",
+        "img_caption": [
+            "Fig.5Comparison of computed energy loss coefficients with experimental results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of TETon the low solidityLPT cascades ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To decrease the blade count, the solidity of the LPT cascades reduced by $12 . 5 \\%$ and $2 5 \\%$ ,which were respectively referred as Pack LB1 and Pack LB2.The solidity of the LPT cascades was changed by only increasing the pitch of the cascade with the other airfoil parameters unchanged. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To improve aerodynamic performance of the low solidityLPT,the TETof the blade increases.Table1 shows the changes in TET. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the effect of TET on the energy loss coefficient in the two low solidity cascades.As shown, forPack LB1,the energy loss coefficient first decreases and then increases at $\\mathrm { R e } = 2 5 { , } 0 0 0$ ， $\\mathrm { F S T I } = 2 . 3 5 \\%$ as the TET increases; The energy loss coefficient of Pack LB1 blades with TETof $4 \\% s$ decreases by $23 . 3 0 \\%$ compared to the coefficient for a standard trailing edge at $\\mathop { \\mathrm { R e } } =$ 25,000, $\\mathrm { F S T I } = 2 . 3 5 \\%$ ； The energy loss coefficient increases at higher Reynolds number and higher FSTI. However, increasing TET cannot reduce the energy loss coefficient in the lower solidity cascade PackLB2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the effect of TET on the turning angle in the two low solidity cascades.As shown in Figure 7, the turning angle of the two low solidity cascades increase as TET increases.The turning angle increases by $1 . 8 6 \\%$ at $\\mathtt { R e } = 2 5 , 0 0 0$ ， $\\mathrm { F S T I } { = } 2 . 3 5 \\%$ witha TETof $4 . 0 \\% \\mathrm { s }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b35cdb44e6413d2ceab264dcb8d376de7a8e36c12cc1ccd95ca5df874d59d051.jpg",
+        "table_caption": [
+            "Table 1 Changes in trailing edge thickness "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>h (mm)</td><td>2.4</td><td>4.5</td><td>5.6</td><td>6.5</td><td>10.6</td></tr><tr><td>h/s</td><td>1.7%</td><td>3.2%</td><td>4.0%</td><td>4.6%</td><td>7.5%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/365c7a705d994fbd3fed303532cc4e69d5a2d407ec670679c1644be83846cc28.jpg",
+        "img_caption": [
+            "Fig.6Effect of TET on the energy loss coefficient in the two low solidity cascades "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/05b3d04e1a7509215e73ebd7e88cd444c205aa30b93c171838b7c0ddd363de58.jpg",
+        "img_caption": [
+            "Fig.7Effect of TET on turning angle in a low solidity cascade in the Pack LB1.Figure 6 and Figure 7 together show an interesting result that increased TET enhanced aerodynamic performance of low solidity LPT cascade; however increasing TET couldn't suppress flow separation when the solidity is too low. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures 8 shows aerodynamic performance of a blade cascade with trailing edge thickness $4 . 0 \\% \\mathrm { s }$ at $\\mathrm { R e } = 2 5 { , } 0 0 0$ $\\mathrm { F S T I } = 2 . 3 5 \\%$ . As shown in Figure 8(a), the energy loss coefficient of a low solidity Pack LB1 with a TET of $4 . 0 \\% \\mathrm { s }$ can be manipulated to be equivalent to that of a ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pack B cascade. As shown in Figure 8(b), the turning angle of alow solidity PackLB1 cascade with a TET of $4 . 0 \\% \\mathrm { s }$ is about $1 ^ { \\circ }$ lower than that of a Pack B cascade, whichisabout $2 ^ { \\circ }$ higher than that of Pack LB1 cascade with standard TET.These results show that aerodynamic performance of a low solidity Pack LB1 cascade can nearly match that ofa Pack B cascade by increasing the TET. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/282721e7d7b774384fb3456b920839a10c87b61c61d993650f58a6e3da84bb58.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The static pressure coefficient $C _ { \\mathrm { p b } }$ is defined as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { p b } } = \\frac { P _ { \\mathrm { p } } - P _ { \\mathrm { o u t l e t } } } { 0 . 5 \\rho U _ { \\mathrm { i n l e t } } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { \\mathrm { o u t l e t } }$ is outlet static pressure, $P _ { \\mathrm { { p } } }$ is the blade trailing edge plane static pressure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 shows the static pressure coefficient $\\mathrm { C _ { p b } }$ atRe $= 2 5 { , } 0 0 0$ ， $\\mathrm { F S T I } = 2 . 3 5 \\%$ . As shown in Figure 9, the positive static pressure coefficient area of a low solidity cascade with increased TET differs from the coefficient of a PackB cascade,which is larger than the coefficient for a Pack LB1 cascade with standard TET.Increasing the positive static pressure coefficient $C _ { \\mathrm { p b } }$ area accelerates the trailing edge flow and reduces wake loss. However, increasing TET enhances the trailing edge flow mixture, which increases thewakeloss.The totalwakelossresults from the combination of these two effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with the technologies in references [19-21], increasing TET doesn't need add other devices in the blade，which decreases the manufacturing cost and remains the structural integrity of the LPT blade. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O shows the pitch-wise energy loss coefficient distribution on a plane near the trailing edge at $\\mathop { \\mathrm { R e } } =$ 25,000, $\\mathrm { F S T I } = 2 . 3 5 \\%$ .The pitch-wise energy loss coefficient of the low solidity cascade with a TETof $4 \\% s$ is slightly larger than that of a Pack B cascade,which is smaller than that of a Pack LB1 cascade with standard trailing edge. Increasing TET decreases the width and intensity of the wake.The center of the Pack LB1 cascade wake moves towards the pressure side as the TET increases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/941552eddf2abcd952acbe1b5e626181aa8f0c9318483fb42c9360f5c7e9a31c.jpg",
+        "img_caption": [
+            "Fig.9The static pressure coefficient $\\mathrm { C _ { p b } }$ at $\\mathrm { R e } = 2 5 , 0 0 0$ ,FSTI $= 2 . 3 5 \\%$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbdd2c9357aa23178c6cb06e1f33ae2e39431350bcd65a740fc6bf171d149773.jpg",
+        "img_caption": [
+            "Fig.8Aerodynamic performance of a blade cascade with trailing edge thickness $4 . 0 \\% \\mathrm { s }$ at $\\mathrm { R e } = 2 5 { , } 0 0 0$ ， $\\mathrm { { F S T I } = }$ $2 . 3 5 \\%$ （2 ",
+            "Fig.10The pitch-wise energy loss coefficient distribution on a plane near the trailing edge at $\\mathrm { R e } = 2 5 { , } 0 0 0$ 5 $\\mathrm { { F S T I } = }$ $2 . 3 5 \\%$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figures 11 and 12 respectively show streamline and velocity contours and turbulence kinetic energy contours in the low solidity LPT cascades at $\\mathrm { R e } = 2 5 { , } 0 0 0$ ， ${ \\mathrm { F S T I } } =$ $2 . 3 5 \\%$ .For a low solidity cascade blade with standard TET,there is severe flow separation on the suction surface,as shown in Figure 11(a).With TET of $4 . 0 \\% \\mathrm { s }$ ，the flow separation is significantly reduced,as shown in Figure 11(b).As TET increases from $4 . 0 \\% \\mathrm { s }$ to $7 . 5 \\% \\mathrm { s }$ ,the size of the separation bubble decreases slightly, as shown in Figure 11(c).As shown in Figure 12, increasing TET decreases the turbulence kinetic energy on the suction surface.However, the turbulence kinetic energy near the trailing edge increases when TET is very large. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The increase in trailing edge thickness deflects the main stream,which results in accelerating flow on the adjacent airfoil suction surface. This can increase energy in the boundary layer on the suction surface,which increases resistance to flow separation.As a result, the location of separation moves downstream and the boundary-layer separation zone becomes smaller. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work presents a new idea to decrease the solidity ofLPT blade cascades by increasing the TET.In the low solidity LPT cascades,aerodynamic performance can be improved by increasing the thickness of the trailing edge. With an increased TET, the solidity of the LPT cascade can be reduced by $12 . 5 \\%$ without the significant loss. When the solidity of LPT cascade is reduced by about $12 . 5 \\%$ , increasing the thickness of trailing edge can decrease energy loss by $23 . 3 0 \\%$ and increase turning angle by $1 . 8 6 \\%$ at $\\scriptstyle 1 \\mathrm { e } = 2 5 , 0 0 0$ and $\\mathrm { F S T I } { = } 2 . 3 5 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/371c2766ab2b85fb06795122f6ef3807904e02dde288387a7f78ae44422599b2.jpg",
+        "img_caption": [
+            "Fig.11Streamline and velocity contours in the low solidity LPT cascade Pack LBl at $\\mathtt { R e } = 2 5 , 0 0 0$ $\\mathrm { F S T I } { = } 2 . 3 5 \\%$ ",
+            "Fig.12Turbulence kinetic energy contours in the low solidity LPT cascade Pack LBl at $\\mathtt { R e } = 2 5 , 0 0 0$ $\\mathrm { F S T I } { = } 2 . 3 5 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ANA (a) 1.7%s (b) 4.0%s (c) 7.5%s ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There are three main effects of increasing the thickness of trailing edge.(1） The main stream deflected, which results in accelerating flow on the adjacent airfoil suction surface.This can increase energy in the boundary layer,which increases resistance to flow separation and decreases the boundary-layer loss.(2） The trailing edge plane static pressure increases,which reduces the wake loss.(3） The trailing edge flow mixture is enhanced, which increases the wake loss. The profile loss results from the combination of these three effects. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is generally thought that increasing the airfoil lift and controlling the flow separation need to add active or positive devices,while our work shows that the solidity of the LPT cascade can be reduced by only increasing the TET. Compared with the previous technologies, the new idea presented in this work decreases the manufacturing cost and remains the structural integrity of the LPT blade. This work provides some new guidelines for the design ofhigh-liftloadLPTblade cascades. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Foundation forInnovative Research Groups of China (Grant No.51421063). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Pacciani R，Marconcini M，Fadai-Ghotbi A,et al. Calculation of high-lift cascades in low pressure turbine conditions using a three-equation model. Journal of Turbomachinery, 2011,133(3): 031016.   \n[2]Praisner T J,Grover E A,Knezevici D C,et al. Toward the expansion of low-pressure-turbine airfoil design space. ASME Paper GT2008-50898, Berlin, Germany.   \n[3] GierJ,Franke M,Hubner N, et al.Designing LP turbines for optimized airfoil lift,ASME Paper GT2008-51101, Berlin, Germany.   \n[4] Chen PP, QIAO WY,Luo HL, et al. Investigation of Low Solidity LP Turbine Cascade With Flow Control: Part 1-Active Flow Control Using Jet-Flap.ASME Paper GT2010-22328, Glasgow, UK.   \n[5]Lake JP, King PI, Rivir RB. Low Reynolds number loss reduction on turbine blades with dimples and V-grooves. AIAA 2000-0738, Reno, Nevada.   \n[6]Rouser KP. Use of dimples to suppress boundary layer separation on a low pressure turbine blade.Air Force Inst of Tech Wright-Patterson AFB OH School of Engineering And Management, 2002.   \n[7]Treuren KWV, Simon T, Koller MV, et al.Measurements in a Turbine Cascade Flow Under Ultra Low Reynolds Number Conditions. Journal of Turbomachinery 2002, 124(1): 100-106.   \n[8]Murawski CG, Vafai K.Effect of Variable Axial Chord on aLow-Pressure Turbine Blade.Journal ofPropulsion and Power 1999; 15(5): 667-674.   \n[9] Byerley AR, Stormer O, Baughn JW, et al. Using gurney flaps to control laminar separation on linear cascade blades.ASME Paper GT2002-30662，Amsterdam，The Netherlands.   \n[10] Huang J,Corke T C,Thomas F O.Unsteady plasma actuators for separation control of low-pressure turbine blades. AIAA journal 2006,44(7): 1477-1487.   \n[11] Liu X,Zhou H. Numerical investigations of flow separation control for a low pressure turbine blade using steady and pulsed vortex generator jets. ASME Paper GT2010-22587, Glasgow, UK.   \n[12] Bons JP, Sondergaard R,Rivir RB.Turbine separation control using pulsed vortex generator jets. Journal of Turbomachinery 2001,123(2):198-206.   \n[13] Sondergaard R，Rivir RB,Bons JP. Control of lowpressure turbine separation using vortex-generator jets. Journal of propulsion and power 2002,18(4): 889-895.   \n[14]Bons JP, Sondergaard R,Rivir RB. The fluid dynamics of LPT blade separation control using pulsed jets. ASME Paper GT2001-0190,New Orleans,Louisiana, USA.   \n[15]Bernardini C,Benton S I,Lee JD,et al. Steady VortexGenerator Jet Flow Control on a Highly Loaded Transonic Low-Pressure Turbine Cascade: Effects of Compressibility and RoughnessJ]. Journal of Turbomachinery, 2014,136(11): 111003.   \n[16] Curtis EM,Hodson HP,Banieghbal MR,et al. Development of blade profiles for low-pressure turbine applications. Journal of Turbomachinery 1997,119(3): 531- 538.   \n[17] Denton JD,Xu L. The Trailing Edge Loss of Transonic Turbine Blades. Journal of Turbomachinery 1990,112(2): 277-285.   \n[18] Zhou C,Hodson H, Himmel C. The Effects of Trailing Edge Thickness on the Losses of Ultra-High Lift LP Turbine Blades.ASME Paper GT2013-94029，San Antonio, Texas, USA.   \n[19] Sondergaard R,Bons JP, Sucher M, et al.Reducing Low-Pressure Turbine Stage Blade Count Using Vortex Generator Jet Separation Control. ASME Paper GT2002- 30602,Amsterdam,The Netherlands   \n[20] Chen PP,Qiao WY,Luo HL. Investigation of Low solidity LP turbine cascade with flow control: part 2- passive flow control using gurney-flap.ASME Paper GT2010-22330, Glasgow, UK.   \n[21] Menter FR,Langtry RB,Likki SR, et al. A correlationbased transition model using local variables-Part I: model formulation. Journal of turbomachinery 2006,128(3): 413-422.   \n[22] Langtry RB，Menter FR,Likki SR，et al．A correlation-based transition model using local variables-part II: test cases and industrial applications.Journal of Turbomachinery 2006,128(3): 423-434. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

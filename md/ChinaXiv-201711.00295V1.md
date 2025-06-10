@@ -1,0 +1,151 @@
+# 碳氮比对水芹浮床系统去除低污染水氮磷效果的影响
+
+段婧婧' 薛利红1 冯彦房俞映惊1 何世颖1 杨林章1,2\*\*
+
+1.江苏省农业科学院农业资源与环境研究所南京210014;2.江苏滩涂生物农业协同创新中心盐城 224002)
+
+摘要随着我国经济的快速发展，农业面源污染问题日益严重，加剧了淡水水质恶化的趋势。本研究以浮床水芹(Oenanthe javanica)系统和无植物对照(Control)为对象，研究了其对不同碳氮比农村低污染水[定义为农业生产或农民生活过程中产生的，富含植物生长所需的氮、磷等养分与多种微量元素且满足城镇污水处理厂污染物排放标准一级B要求(GB18918—2002一级B $\mathrm { T N } { \leqslant } 2 0 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ $\mathrm { T P } { \leqslant } 1 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ )的那部分污水]中氮(N)、磷(P)、化学需氧量(COD)的净化效果。试验所用低污染水为生活污水(TWW)和外加碳源生活污水(高碳氮比,TWW-HC)两种。整个试验历时82d，中间换水一次。试验结果表明水芹浮床系统接纳高碳氮比低污染水对氮磷的去除效果较好。外加碳源能在短时间内快速降低低污染水中N、P的浓度，试验3d时TWW-HC中总氮(TN)、氨氮$( \mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } )$ 、总磷(TP)的去除率分别达 $4 0 . 8 \%$ 、 $3 8 . 4 \%$ 、 $6 2 . 8 \%$ 。整个试验周期TWW-HC 组对TN的去除率为$7 3 . 9 \% { \sim } 9 6 . 0 \%$ ，高于TWW组 $( 6 0 . 6 \% { \sim } 8 5 . 9 \% )$ ；该组对TP的去除率为 $6 8 . 0 \% { \sim } 8 1 . 1 \%$ ，高于TWW组和Control组(TP去除率分别为 $2 1 . 3 \% { \sim } 5 4 . 9 \%$ 和 $1 9 . 2 \% { \sim } 5 8 . 1 \%$ 。收获时TWW-HC处理水芹生物量、平均株高和相对生长速率均显著高于TWW处理 $( P { < } 0 . 0 5 )$ 。TWW-HC处理通过植物吸收带走的N、P分别占系统对N、P去除量的$5 8 . 2 \%$ 和 $3 7 . 6 \%$ ，明显高于TWW处理(相应比例分别为 $8 . 7 \%$ 和 $1 1 . 0 \%$ )。这说明通过外加碳源调节进水 $\mathbf { C } : \mathbf { N }$ 比促进了水芹的生长和对污水中养分的吸收利用，有利于水芹浮床系统对 $\mathrm { ~ N ~ }$ 、P的去除。
+
+关键词农村低污染水　生活污水　碳氮比　浮床系统　水芹　氮　磷去除率中图分类号：X703 文献标识码：A 文章编号:1671-3990(2016)03-0384-08
+
+# Effect of carbon/nitrogen ratio in low pollution wastewater on nitrogen and phosphorus removal in a floating-bed Oenanthe javanica system
+
+DUAN Jingjing', XUE Lihong1,FENG Yanfang',YU Yingliang',HE Shiying', YANG Linzhangl,2\*\* (1.InstituteofAgriculturalResourcesandEnvironment,JiangsuAcademyofAgriculturalSciences,Nanjing014,China; 2.Jiangsu Synthetic Innovation Center for Coastal Bio-agriculture, Yancheng 2240o2,China)
+
+AbstractAs therapid developmentofthe economy and agriculture,the water qualityof manyrivers and lakes is degrading due to agricultural non-point source pollution.The low polluted wastewater (LPW)is an eutrophic water bodycontaining N,P and many microelements,meting the Pollutant Discharge Standard of Municipal Wastewater Treatment Plant (Classone,B level).LPW can bereused before draining into downstream water system.Rural LPW mainly comes from agricultural productionandfarmer'sliveliood,includingsewagetail water,farmlandrunofandpolutedriver water.Inthis paper,the effect of $\mathbf { C } : \mathbf { N }$ ratio of LPW on the removal of nitrogen (N),phosphorus (P)and chemical oxygen demand (COD) of LPW was studied with floating-bed Oenanthe javanica system asthe research subject to provide reference for increasing purification eficiencyoffloating-bed plantsystem.Intheexperiment,domestic sewage with or without glucose additionoffloating-bed Oenanthe javanica system were two treatments (TWW-HC and TWW treatments),and no plant floating-bed system was used as thecontroltreatment.Theexperiment lasted for 82 days with once water exchange in median time of the proce.The results showed that $\mathrm { ~  ~ { ~ N ~ } ~ }$ and $\mathrm { \bf ~ P }$ removal performance were better in TWW-HC treatment than that in TWW. External carbon addition rapidly reduced $\mathrm { ~ N ~ }$ and $\mathrm { ~ \bf ~ P ~ }$ contents,and the removal rates of total nitrogen (TN),ammonia nitrogen $( \mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } )$ and total phosphorus（TP） were $4 0 . 8 \%$ ， $3 8 . 4 \%$ ，and $6 2 . 8 \%$ ，respectively,under TWW-HC treatment after 3 days of treatment.The removal rate of TN of TWW-HC was $7 3 . 9 \% - 9 6 . 0 \%$ during the whole experiment,which was higher than that of TWW(with the removal rate of $6 0 . 6 \% - 8 5 . 9 \%$ ).The removal rate of total phosphorus(TP）was $6 8 . 0 \% { - } 8 1 . 1 \%$ in TWW-HC,which was higher than that in TWW and control treatments (with the removal rates of $2 1 . 3 \% - 5 4 . 9 \%$ for TWW and $1 9 . 2 \% { - 5 8 . 1 \% }$ for control,respectively). The biomass,average plant height,and relative growth rate of $o$ . javanica were significantly higher in TWW-HC than in TWW. Plant uptake of TWW-HC accounted for $5 8 . 2 \%$ of the removed $\mathrm { ~ N ~ }$ amounts and $3 7 . 6 \%$ of the removed P amounts,greatly higher than those of TWW $( 8 . 7 \%$ of the removal $\mathrm { ~ N ~ }$ amounts and $1 1 . 0 \%$ of the removal $\mathrm { \bf ~ P }$ amounts). More than $80 \%$ of the removed $\mathrm { \Delta N }$ amounts were eliminated by other pathways in TWW treatment, but the percentage was only $3 7 . 3 \%$ in TWW-HC. Sedimentation contributed for $1 6 . 0 \%$ of the removed $\mathrm { ~ N ~ }$ amounts in control treatment, but only $8 . 5 \%$ in TWW and $4 . 6 \%$ in TWW-HC,respectively. Similar tendency was found in TP removal pathways. These results showed that the floating-bed $o$ . javanica system evidently reduced $\mathrm { \Delta N }$ and $\mathrm { ~ \bf ~ P ~ }$ amounts in sediments compared to control. Results also indicated that increasing $\mathbf { C } : \mathbf { N }$ ratio to an appropriate range of LPW was beneficial for growth and nutrient uptake of $o$ . javanica, which also contributed to $\mathrm { \Delta N }$ and P removal efficiently.
+
+KeywordsRural low pollution wastewater; Domestic sewage; $\mathbf { C } : \mathbf { N }$ ratio; Floating-bed system; Oenanthe javanica; Nitrogen: Phosphorus; Removal rate
+
+随着经济的快速发展，我国农业面源污染问题日益严重，使得很多江、河、湖泊水质下降，加剧了水质性缺水的状况。据报道，生活污水和畜禽养殖废水是农村地区的两大污染源[1-2]。不同于养殖废水中含有较高浓度的氮、磷等养分，农村生活污水中氮、磷等养分含量较低，太湖流域生活污水总氮(TN)含量一般在 $3 0 { \sim } 4 0 \ \mathrm { m g { \cdot } L } ^ { - 1 }$ ，总磷(TP)含量为 $2 . 5 \sim$ $3 . 5 \mathrm { \ m g { \cdot } L ^ { - 1 [ 3 ] } }$ ，但由于其产生总量大、分布分散、间歇排放等特点，对农村生态环境和民众健康构成了潜在的威胁[4]。本研究将这部分满足农田灌溉用水标准但直接排放会造成污染的污水归为农村低污染水。其定义为农业生产或农民生活过程中产生的，富含植物生长所需的氮、磷等养分与多种微量元素且满足城镇污水处理厂污染物排放标准一级B要求(GB18918—2002一级B: $\mathrm { T N } { \leqslant } 2 0 ~ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ ， $\mathrm { T P } { \leqslant } 1 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } )$ 的那部分污水。农村低污染水是影响农村水环境的重要来源，主要包括经过污水处理广处理或生态工程治理后达标排放的农村生活污水尾水、农田排水以及河道低污染水。如何有效地处理和利用这类低污染水，是当前农村水环境治理急需要解决的问题。
+
+植物浮床系统由于具有成本低廉、运行管理简单、生态友好等特点，常用于受污染河水生态修复[5-8]。张志勇等9将植物浮床系统用于生活污水处理，也取得了较好的净化效果。自前，对植物浮床系统处理效率的提升主要是通过加强曝气，悬挂生物膜填料，采用固定化菌剂以及其他组合技术来实现[5,8,10]。污水经过预处理后，一般直接进入浮床系统中，少有研究针对进水水质进行调节[6,9]。碳氮比 ${ \bf \Xi } ( { \bf C } : { \bf N } )$ 是反映污水特征的一个重要指标，通过调节碳氮比可影响污水处理系统氮、磷的去除效率[11-13]。Puig 等[13]对序批式活性污泥反应器(SBR)处理合成污水的研究表明，碳氮磷比 $( \mathrm { C } : \mathrm { N } : \mathrm { P } )$ 在 $1 0 0 : 1 2 : 1 . 8$ 时系统对化学需氧量(COD)、氮、磷的去除效果最好。侯红娟等[14]研究表明不同进水COD 浓度下不同$\mathbf { C } : \mathbf { N }$ 比对间歇反应器脱氮效率的影响不同，进水COD为 $1 5 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 和 $2 0 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 左右脱氮效率随$\mathbf { C } : \mathbf { N }$ 比的增加而增加。Zhao 等[12]对垂直流人工湿地处理模拟废水的研究表明， $\mathbf { C } : \mathbf { N }$ 比在 $5 : 1$ 时系统对 COD 和总磷(TP)的去除效率最高; $\mathbf { C } : \mathbf { N }$ 比在$2 . 5 { \sim } 5$ 时氮的去除效率较高。然而，在植物-微生物共同作用的浮床系统中对此研究较少。
+
+本研究利用植物浮床系统研究了不同碳氮比低污染水中总氮(TN)、TP、COD净化效果的差异以及植物在不同进水条件下对氮、磷的去除作用。通过该系统有效利用低污水中的氮、磷等养分资源，并适当调节低污染水的碳氮比，以提升浮床系统对氮、磷等污染物的净化效率，为处理和利用农村低污染水提供技术支持和应用案例。
+
+# 1材料和方法
+
+# 1.1 供试材料
+
+本研究选取水芹(Oenanthe javanica)作为浮床系统的植物材料。水芹苗购自江苏省宿迁苏北花卉基地，先用去离子水清洗干净然后置于试验水体中预培养。约3周左右，当水芹苗长到 $1 6 \mathrm { c m }$ 高时，选取大小一致、健康的水芹苗开始进行试验。供试水样为江苏省农业科学院粮食作物研究所基地旁化粪池污水。水体经沉淀，紫外灭菌，添加葡萄糖以改变污水的碳氮比。供试水样性质如表1所示。
+
+表1供试水样的水质 Table 1Properties of the experiment waters   
+
+<html><body><table><tr><td>ExpitWater</td><td>pH</td><td>Tota g-L-1)</td><td>NH4-N(g-L-1)</td><td>Total (g-L-1)</td><td>(gL-1)</td><td>C:N</td><td>C:P</td></tr><tr><td>生活污水(TWW) Domestic sewage</td><td>7.22±0.05</td><td>19.60±0.27</td><td>17.14±2.04</td><td>1.23±0.20</td><td>80.9±6.2</td><td>4.1</td><td>65.8</td></tr><tr><td>外加碳源生活污水(TWW-HC)</td><td>6.56±0.03</td><td>20.90±2.36</td><td>14.46±1.93</td><td>1.01±0.19</td><td>126.4±9.2</td><td>6.0</td><td>125.1</td></tr><tr><td>Domestic sewage with external carbon source 自来水 Tap water</td><td>8.27±0.53</td><td>2.32±0.20</td><td>0.31±0.02</td><td>0.18±0.02</td><td>15.2±3.7</td><td>/</td><td>/</td></tr></table></body></html>
+
+COD:化学需氧量; $\mathbf { C } : \mathbf { N }$ 比中 C 以 COD 计,N以 TN计。下同。COD: chemical oxygen demand; C and N were measured as COD and TN in C : N ratio.The same below.
+
+# 1.2 试验方法
+
+植物浮床系统(水培)采用755周转箱(外径：$7 9 0 ~ \mathrm { m m } { \times } 5 6 5 ~ \mathrm { m m } { \times } 5 0 5 ~ \mathrm { m m }$ ，内径 $7 5 0 ~ \mathrm { m m } { \times } 5 2 5 ~ \mathrm { m m } { \times }$ $4 9 0 ~ \mathrm { m m }$ ，长 $\times$ 宽 $\times$ 高)做为试验容器，内置PVC泡沫板 $\left. 6 6 7 \ \mathrm { m m } { \times } 5 0 5 \ \mathrm { m m } { \times } 1 5 \ \mathrm { m m } \right.$ ，其上以 $^ { \left. } 4 { \times } 4 ^ { \right. }$ 布局，按$1 6 . 5 ~ \mathrm { c m } { \times } 1 4 ~ \mathrm { c m }$ 的间距开16个圆孔，孔大小 $4 \ \mathrm { c m } _ { \circ }$ （20每孔栽入1株水芹，用海绵条加以固定作为浮床材料。箱底放置一小托盘 $( 2 4 0 \ \mathrm { m m } { \times } 1 7 4 \ \mathrm { m m } )$ ，用于收集水体沉积物。试验设计3个处理组：生活污水处理$( \mathrm { T W W } ) +$ 浮床系统、外加碳源生活污水处理(TWW-HC，通过添加葡萄糖来调节污水碳氮比) $\mapsto$ 浮床系统，以及生活污水 $. +$ 无浮床系统(Control)，每个处理重复3次。
+
+试验于南京市江苏省农业科学院温室大棚内进行，时间为2014年4月13日一7月4日。其中各处理组于6月4日换水一次，于7月4日收获。试验中每7d取一次水样，采用5点取样法对每个水箱的四角和中心取样并混合，每次取样 $5 0 ~ \mathrm { m L } _ { \circ }$ 由于蒸发会造成的水量的损失，在采样前一天加入适量自来水(水质见表1)加以补足。
+
+# 1.3 分析方法
+
+水样采集后在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱中保存，采用标准方法分析测定相应指标[15]: $\mathrm { \ p H , \mathsf { p H } }$ 计测定(PHS-3C，上海雷磁)；总氮(TN)，过硫酸钾氧化-紫外分光光度法测定；铵态氮 $\left( \mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } \right)$ ，纳氏试剂光度法测定；总磷(TP)，过硫酸钾分解-钼锑抗分光光度法测定；化学需氧量(COD)，通过 COD 分析仪(DR1010 COD,HACH，中国)测定。氮、磷去除率的计算公式为：去除率 $\scriptstyle : ( { \% } ) = \left( C _ { i } - C _ { e } \right) / C _ { i } \times \ 1 0 0 \%$ ，其中 $C _ { i }$ 为处理前TN或TP浓度， $C _ { e }$ 为处理后浓度。
+
+试验开始前和结束后，测量各个植株的株高并称取重量。植株相对生长速率(RGR)计算公式为：
+
+$$
+\mathrm { R G R } ( \% ) { = } 1 0 0 { \times } ( W _ { t i } { - } W _ { t 0 } ) / W _ { t 0 }
+$$
+
+式中： $\boldsymbol { W } _ { t i }$ 是植株在试验第 $i$ 天的平均鲜重， $\boldsymbol { W } _ { t 0 }$ 是植株在试验开始时的平均鲜重。
+
+试验结束后，将各个水箱中的水抽至 $5 \mathrm { c m }$ 左右待自然晾干后，用干净的药匙将小托盘中的沉积物刮下来，称重、磨碎，全氮、全磷采用测定土壤的方法进行[16]。收集植物样品，将根、茎、叶分开，洗净,放到恒温箱中在 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘干至恒重，磨碎后，称取一定量干样用浓 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 消煮制备成溶液，用于后续测定,TN、TP浓度分别采用开氏消煮法和钼锑抗比色法进行测定[16]。植物体氮、磷的净积累量 $( P _ { \mathrm { { A } } } )$ （204号的计算公式为：
+
+$$
+P _ { \mathrm { { A } } } { = } P _ { \mathrm { { C } } } { \times } P _ { \mathrm { { B } } }
+$$
+
+式中： $P _ { \mathrm C }$ 为植物的氮、磷含量 $\left( \mathrm { m g \cdot g ^ { - 1 } } \right.$ ，以干重计), $P _ { \mathrm { { B } } }$ 为植物生物量 $( \mathbf { g } \cdot \mathbf { m } ^ { - 2 }$ ，以干重计)。
+
+# 1.4 统计分析
+
+所有数据均用3次重复的平均值，各处理组氮、磷去除率的比较采用一维方差分析(Duncan检验)进行；TWW与TWW-HC组水芹生长状况及组织氮、磷含量比较采用独立样本 $T$ 检验进行。数据处理使用MicrosoftExcel2010，统计分析利用SPSS13.0进行。
+
+# 2 结果与分析
+
+# 2.1不同碳氮比对低污染水氮的去除效果
+
+各处理组TN浓度以及去除率的动态变化如图1所示。试验开始后，TWW-HC组水面上出现白色油膜状物质，后分解，与此同时TN浓度快速下降(图1A)，试验3d时该组TN去除率显著大于其他两组处理(图1B, $\scriptstyle P < 0 . 0 5$ )。这可能是因为污水中较高的碳含量有利于微生物反硝化作用的进行，同时有助于水芹对氮素的吸收利用。Zhao等[12研究发现， $\mathbf { C } : \mathbf { N }$ 在 $2 . 5 { \sim } 5 . 0$ 时，垂直流人工湿地系统对模拟生活污水氮的去除效率最高 $\mathrm { ( C : N }$ 分别为 $2 . 5 : 1 , 5 : 1$ 和$1 0 : 1 )$ 。而根据Xia等[11]对SCBR(悬浮载体生物膜反应器)处理效果的研究，随着进水 $\mathbf { C } : \mathbf { N }$ 的升高$\mathrm { ( C : N }$ 分别为 $3 : 1 , 5 : 1$ 和 $1 0 : 1 \$ ),TN的去除效率有所增加。本研究中第1个换水周期内TWW、TWW-HC组中TN的去除率分别为 $8 5 . 9 \%$ 和 $9 6 . 0 \%$ 第2个换水周期内两处理组TN去除率分别为$6 0 . 6 \%$ 和 $7 3 . 9 \%$ ，说明随着污水 $\mathbf { C } : \mathbf { N }$ 的升高，浮床系统对TN的去除率上升，这与Xia等[11]的研究一致。同样,TWW-HC组 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 浓度在试验前 $3 \mathrm { ~ d ~ }$ 也有较大的下降(图2A)，换水前两个处理组和对照$\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 的去除率差异不大(均超过 $9 8 . 0 \%$ ，图2B)；换水后TWW-HC组 $\mathrm { N H } _ { 4 } ^ { + }$ -N浓度较其他两组有较大下降，试验结束时TWW-HC组 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 去除率为 $89 . 3 \%$ ，高于TWW组 $( \mathrm { N H _ { 4 } ^ { + }  – N }$ 去除率为 $80 . 1 \%$ 图2B)。
+
+![](images/3d34a7d3aa5109f9c275115700b170bea411b8b8c8b46d8895752f57addcc1bd.jpg)  
+图1不同处理污水的总氮(TN)浓度(A)及其去除率(B)的动态变化Fig.1Dynamicchanges oftotalnitrogen(TN)concentration(A)anditsremovalrate(B)ofdomesticsewageunderdifferentreatTWW：生活污水处理;TWW-HC：外加碳源生活污水处理;Control:无浮床系统对照。同一时间各去除率不同小写字母表示处理间分析差异显著 $( P { < } 0 . 0 5 )$ 。下同。TWW: domestic sewage with Oenanthe javanica floating bed;TWW-HC:domestic sewage addedexternalcarbonsourcewithOenanthejvanicflatingbed;Control:domesticsewageDiferentletersaboveremoalratesonteaedaymean significant difference among treatments at $P < 0 . 0 5$ .The same below.
+
+TWW-HC组污水COD在 $0 { \sim } 3 8 \mathrm { d }$ 时随时间逐步下降，到38d时达到最低值 $( 4 7 . 3 ~ \mathrm { m g ^ { . } L } ^ { - 1 } )$ ，随后有所上升；TWW组和对照组COD变化趋势基本相同，在第3d时达到最低值，后逐步上升。换水后TWW-HC组COD呈下降趋势；而TWW组和对照组COD在66 d有不同程度上升，后随时间逐步下降(图3A)。在第1个换水周期内，各组 $\mathbf { C } : \mathbf { N }$ 均呈上升趋势，然而不加碳处理组在 $3 { \mathord { \sim } } 1 7 \mathrm { ~ d ~ }$ 内 $\mathbf { C } : \mathbf { N }$ 处于较低水平$( < 3 )$ ，这一定程度上限制了系统反硝化作用的进行(图3B)。随着 $\mathbf { C } : \mathbf { N }$ 的逐步升高,TWW组TN和 $\mathrm { N H } _ { 4 } ^ { + }$ -N浓度在20d后有较大下降，其对应的去除率也分别有较大上升(图1，图2)。这说明污水 $\mathbf { C } : \mathbf { N }$ 比对TN和 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ 去除效率有着较大的影响。换水后TWW-HC组 $\mathbf { C } : \mathbf { N }$ 比变化不明显，TWW和对照组 $\mathbf { C } : \mathbf { N }$ 比先上升后下降(图3B)。
+
+![](images/e8b54dd24e84098b3124dec89bec5ab9c927a6b760241403bd447511369f2db7.jpg)  
+图2不同处理污水的氨氮 $\left( \mathbf { N H } _ { 4 } ^ { + }  – \mathbf { N } \right)$ 浓度(A)及其去除率(B)的动态变化 Fig.2Dynamic changes of ammonia nitrogen $\mathrm { ( N H _ { 4 } ^ { + }  – N ) }$ concentration (A) and its removal rates (B) of domestic sewage under different treatments
+
+![](images/07daf0ecc2302bcc30f9451a116694f3b13925753ee5bb4ddb3cb307127ba6c8.jpg)  
+图3不同处理污水的化学需氧量(COD)(A)及 $\mathbf { C } : \mathbf { N } ( \mathbf { B } )$ 的动态变化;.3Dynamic changes of COD(A) and $\mathbf { C } : \mathbf { N }$ (B) of domestic sewage under different treatments
+
+# 2.2 不同碳氮比对低污染水磷的去除效果
+
+试验中,TWW-HC组对污水TP也有着更好的去除效果。试验3d时，污水中TP浓度已从 $1 . 0 1 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ 下降到 $0 . 3 8 ~ \mathrm { m g ^ { . } L ^ { - 1 } }$ ,TP去除率达到 $6 2 . 8 \%$ ，显著高于TWW和对照组(图4)。随后,TWW-HC组TP浓度略有上升，不过仍低于TWW组。试验进行到 $4 5 \mathrm { ~ d ~ }$ 时TWW-HC组TP的去除率达 $8 1 . 1 \%$ ,TWW和 Control组分别为 $2 1 . 3 \%$ 和 $1 5 . 7 \%$ (图4B)。换水后的第二个周期内TWW-HC 组TP去除率为 $6 8 . 0 \%$ ，TWW和Control组分别为 $54 . 9 \%$ 和 $58 . 1 \text{‰}$
+
+![](images/bfb5dc49e3ba7440c2472c76097dc1e196d197525bc6300519047ed37beacfb6.jpg)  
+图4不同处理污水的总磷(TP)浓度(A)及其去除率(B)的动态变化 hanges of total phosphorus (TP) concentration (A)and its removal rates (B)of domestic sewage under dil
+
+# 2.3浮床植物对氮磷去除的作用
+
+在适宜的环境条件下，浮床系统中植物的吸收是污水中氮磷去除的一个重要途径。试验结束后进行测定发现，两处理组水芹平均根长没有显著差异。TWW-HC 组水芹生物量为 $_ { \mathrm { ~ 1 0 0 . 1 ~ g ~ } }$ ，显著高于TWW处理 $( P { < } 0 . 0 5 )$ 。同时，TWW-HC组水芹平均株高和相对生长速率也显著高于 TWW 组(表 2, $P <$ 0.05)。对水芹组织氮、磷含量进行测定发现，水芹组织氮含量在不同处理组间没有显著性差异 $( P >$ 0.05)，TWW-HC组水芹茎中磷含量显著低于TWW组 $( P { < } 0 . 0 5 )$ ，根、叶中磷含量没有显著差别(表3,$P { > } 0 . 0 5 )$
+
+通过对氮去除途径的计算发现，TWW组通过植物吸收带走的氮仅占氮去除总量的 $8 . 7 \%$ ，TWW-HC组则上升为 $58 . 2 \text{‰}$ TWW组和对照组中超过 $80 \%$ 的氮通过其他途径去除，TWW-HC 组这一比例为$3 7 . 3 \%$ 。对照组沉积物中的氮占氮去除量的 $1 6 . 0 \%$ 而TWW和TWW-HC组这一比例仅为 $8 . 5 \%$ 和 $4 . 6 \%$ (图5A)。对磷去除途径的计算发现,TWW组、TWW-HC组和对照组中分别有 $8 0 . 9 \%$ 、 $6 0 . 5 \%$ 和 $8 4 . 2 \%$ 的磷通过其他途径去除，TWW组和TWW-HC组植物的吸收带走的磷分别占 $1 1 . 0 \%$ 和 $3 7 . 6 \%$ (图5B)。以上结果说明，与空白对照相比植物浮床系统明显减少了其他途径和沉积物中的氮、磷量，且通过外加碳源调节 $\mathbf { C } : \mathbf { N }$ 明显促进了植物的生长以及系统对氮磷的去除。
+
+# 3 讨论与结论
+
+有机碳为反硝化菌提供了能量来源，其含量及有效性是影响微生物反硝化作用的主要因素之-[17-18]。一般而言，典型生活污水 $\mathbf { C } : \mathbf { N }$ 较高，经过初级处理的污水 $\mathbf { C } : \mathbf { N }$ 有所下降，经过二级、三级处理后污水 $\mathbf { C } : \mathbf { N }$ 有了进一步下降。通常，污水中碳氮比高于 $3 : 1$ 时，有利于系统的反硝化过程[19]。大多数只经过初级处理的城市污水都可达到这个比例，然而，对于接纳二级或更高级处理的污水来说，有机质可能成为影响系统反硝化能力的限制性因素[20]。Xia等[1]通过悬浮载体生物膜反应器处理合成废水结果显示，与 $\mathbf { C } : \mathbf { N }$ 比 $3 : 1$ 和 $5 : 1$ 相比，进水 $\mathbf { C } : \mathbf { N }$ 比在 $1 0 : 1$ 时反应器表现出最优的总氮去除率。而Zhao等[12]研究结果表明无论是等氮调节碳含量还是等碳调节氮含量，垂直流人工湿地在进水 $\mathbf { C } : \mathbf { N }$ 比为 $2 . 5 : 1$ 和 $5 : 1$ 时对TN的去除效率均高于 $\mathbf { C } : \mathbf { N }$ 比为 $1 0 : 1$ 的去除效率。本试验中，与$\mathbf { C } : \mathbf { N }$ 比为 $4 : 1$ 相比，低污染水 $\mathbf { C } : \mathbf { N }$ 比调节到 $6 : 1$ 时,TN浓度在试验初始阶段快速下降，TN去除效果显著 $( P { < } 0 . 0 5 )$ ，这说明污水中较高的碳含量有利于水芹浮床系统初始阶段硝化-反硝化作用的进行。然而，外加碳源在促进反硝化脱氮的同时也会提高污水处理的成本，目前，科学家已经开始采用纤维素类天然固体有机物来代替甲醇、乙醇等传统的碳源用于污水脱氮处理中[21-22]
+
+表2不同处理下浮床植物水芹的生长情况Table 2 Growth situations of Oenanthe javanica of domestic sewage floating-bed system  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="2">初始Initial planting</td><td colspan="4">收获 Harvesting</td></tr><tr><td>生物量 Biomass (g)</td><td>平均株高 Average plant height (cm)</td><td>生物量 Biomass (g)</td><td>平均株高 Average plant height (cm) Average root height (cm) Relative growth rate (%)</td><td>平均根长</td><td>相对生长速率</td></tr><tr><td>TWW</td><td>8.7±0.1a</td><td>16.0±0.0a</td><td>21.1±2.2b</td><td>28.9±3.7b</td><td>12.2±0.8a</td><td>143.0±24.1b</td></tr><tr><td>TWW-HC</td><td>8.8±0.0a</td><td>16.0±0.0a</td><td>100.1±9.5a</td><td>57.0±4.4a</td><td>12.9±4.4a</td><td>1 030.9±110.0a</td></tr></table></body></html>
+
+同一生长指标中不同小写字母表示不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。下同。Different letters for the same growth index mean significant ifferencebetweentreatmentsat $P < 0 . 0 5$ .The same below.
+
+表3不同处理下浮床植物水芹各组织氮、磷含量 Table 3Nitrogen and phosphorus contents in plant tissues of Oenanthe javanica of domestic sewage floating system
+
+![](images/90d0a4450c898ca09c7c4edb927c7b051ba5865a8a657eb80cf3133b0ad27b45.jpg)  
+图5不同处理下植物吸收、沉积物和其他途径对浮床系统污水氮(A)和磷(B)去除的贡献 Fig.5Contribution rates of plant uptake,sediment and other pathways to removal of nitrogen (A)and phosphorus (B in domestic sewage floating-bed system
+
+污水处理系统中异养微生物在所有细菌中占有较大比例，它与硝化细菌(氨氧化细菌AOB和亚硝酸盐氧化细菌NOB)存在竞争关系，两者谁更占优势受到系统水力停留时间、 $\mathbf { C } : \mathbf { N }$ 、溶解氧等条件的影响[23-24]。其中, $\mathbf { C } : \mathbf { N }$ 对养分的去除发挥了重要作用，特别是对其反硝化过程和与此相关的微生物种群及数量影响很大。Xia等[11]发现，随着 $\mathbf { C } : \mathbf { N }$ 从$1 0 : 1 , ~ 5 : 1$ 到 $3 : 1$ ，总细菌群落种类数量有所下降，而硝化细菌所占的比例上升。随着 $\mathbf { C } : \mathbf { N }$ 的变化,硝化细菌和异养微生物有一个相互演替的趋势。因此，我们推测，高碳氮比处理试验初期水面出现的白色生物膜对氮素快速去除起到重要作用，其微生物组成和结构将在今后的研究中继续探讨。
+
+生态浮床系统中磷的去除机制有：吸附，络合-沉淀，植物吸收以及生物同化[12.25]。Zhao 等[12]研究结果显示，进水 $\mathbf { C } : \mathbf { N }$ 比为 $5 : 1$ 时垂直流人工湿地对磷的去除效果最好，并将其归因于碳氮对人工湿地除磷的综合效应。据报道，聚磷菌在污水生物除磷的过程中发挥着重要的作用，在好氧条件下聚磷菌可从污水中过量摄取磷，并以多聚磷酸盐的形式蓄积在体内；厌氧条件下聚磷菌储存的多聚磷酸盐水解，使液相中的磷浓度升高[26]。本试验中污水$\mathbf { C } : \mathbf { N }$ 比为 $6 : 1$ 处理组TP的浓度在试验3d时有较大下降后有所上升，这可能与聚磷菌的作用和水体理化性质的变化有关。试验中后期，随着水芹的生长，植物吸收对磷的去除发挥出较大作用，生物量增加较快的TWW-HC组TP去除效率较高。
+
+植物是浮床系统中重要的组成部分之一。不同于湿地系统，浮床系统中植物发达的根系完全暴露在水体中，对捕获和沉淀颗粒态污染物提供了充足的水力停留时间和接触面积[27]。而且，植物的根区为微生物的生存和繁殖提供了良好的场所，有利于硝化、反硝化作用的进行[5,28]。据报道，浮床系统对富营养化水体的净化过程中，植物的吸收作用所去除的氮、磷分别占系统对氮、磷总去除量的 $2 0 . 2 \%$ 和 $2 9 . 4 \%$ 左右，而超过 $60 \%$ 的氮、磷通过沉淀作用去除[27]。而李海英等[5]的研究发现，微曝气浮床系统在$8 0 \mathrm { ~ d ~ }$ 时通过水芹的吸收分别去除 $6 . 8 7 \%$ 和 $2 6 . 8 2 \%$ 的氮、磷。本研究中发现，TWW组通过植物的吸收带走的氮、磷分别占系统对氮、磷去除量的 $8 . 7 \%$ 和$1 1 . 0 \%$ ，TWW-HC组则上升为 $5 8 . 2 \%$ 和 $3 7 . 6 \%$ 。这说明通过外加碳源调节 $\mathbf { C } : \mathbf { N }$ 明显促进了植物的生长以及对氮、磷的去除。
+
+综上所述，本研究可以得出以下结论：1)水芹浮床系统接纳不同碳氮比低污染水的去除效率存在差异，外加碳源能在短时间内快速降低低污染水中氮、磷的浓度，提升系统的去除效率。2)外加碳源处理使低污染水中 $\mathbf { C } : \mathbf { N }$ 比一直维持在较高水平，有利于反硝化的进行和植物的生长；而不加碳源处理在初始阶段 $\mathbf { C } : \mathbf { N }$ 比下降很快 $( < 3 )$ ，一定程度上制约了反硝化菌的繁殖和植物的生长。3)通过外加碳源调节 $\mathbf { C } : \mathbf { N }$ 比明显促进了水芹对低污染水中养分的吸收利用，使得植物吸收对氮、磷去除的贡献有较大提高。
+
+# 参考文献 References
+
+[1]张红举，陈方．太湖流域面源污染现状及控制途径[J]．水 资源保护,2010,26(3):87-90 Zhang HJ,Chen F.Non-point pollution statistics and control
+
+measures in Taihu Basin[J]. Water Resources Protection, 2010, 26(3): 87-90   
+[2]杨林章，冯彦房，施卫明，等．我国农业面源污染治理技术 研究进展[J]．中国生态农业学报,2013,21(1):96-101 Yang L Z,Feng YF, Shi W M, et al. Review of the advances and development trends in agricultural non-point source pollution control in China[J]. Chinese Journal of Ecogriculture,2013,21(1): 96-101   
+[3] 徐洪斌，吕锡武，李先宁，等．太湖流域农村生活污水污染 现状调查研究[J]．农业环境科学学报，2007，26(S2): 375-378 Xu HB,LuX W,LiXN,et al. A survey on village sewage pollution ina zoneof Tai Lake[J].Journal of Agronvironment Science,2007,26(S2): 375-378   
+[4]孙兴旺，马友华，王桂苓，等．中国重点流域农村生活污水 处理现状及其技术研究[J]．中国农学通报，2010,26(18): 384-388 Sun X W,Ma Y H,Wang GL,et al.Research on current treatment statusand technologiesof rural domestic wastewater in China major basins[J].Chinese Agricultural Science Bulletin,2010,26(18): 384-388   
+[5]李海英，李文朝，冯慕华，等．微曝气生态浮床水芹吸收 N P 的特性及其对系统去除 N、P贡献的研究[J].农业环境科 学学报,2009,28(9):1908-1913 Li H Y,Li W C,Feng M H,et al.Characteristics and contribution of Oenanthe javanica uptake to nitrogen and phosphorus removal based on a micro-aerated ecological floating bed[J]. Journal of Agro-Environment Science,2009, 28(9): 1908-1913   
+[6] 周小平，徐晓峰，王建国，等．3种植物浮床对冬季富营养 化水体氮磷的去除效果研究[J]．中国生态农业学报，2007, 15(4): 102-104 Zhou X P, Xu X F, Wang JG, et al. Nitrogen and phosphorus removal performance by three planted floats in eutrophic water bodies in winter[J]. Chinese Journal of Eco-Agriculture, 2007,15(4): 102-104   
+[7] Zhou X H, Wang G X. Nutrient concentration variations during Oenanthe javanica growth and decay in the ecological floating bed system[J]. Journal of Environmental Sciences, 2010,22(11): 1710-1717   
+[8] Sun L P, Liu Y,Jin H. Nitrogen removal from polluted river by enhanced floating bed grown canna[J]. Ecological Engineering, 2009,35(1): 135-140   
+[9] 张志勇，冯明雷，杨林章．浮床植物净化生活污水中 N、P 的效果及 $\mathbf { N } _ { 2 } \mathbf { O }$ 的排放[J]．生态学报，2007，27(10): 4333-4341 Zhang $Z ^ { \mathrm { ~ Y ~ } }$ Feng $\mathrm { ~ M ~ L ~ }$ , Yang L Z. Nitrogen and phosphorus removal and $\mathrm { N } _ { 2 } \mathrm { O }$ emission from domestic sewage in floating-bed plant systems[J].Acta Ecologica Sinica,2007, 27(10): 4333-4341   
+[10]Li X N,Song HL,Li W,et al． An integrated ecological floating-bed employing plant,freshwater clam and biofilm carrier for purification of eutrophic water[J]．Ecological Engineering,2010,36(4): 382-390   
+[11] Xia SQ,LiJY,Wang R C.Nitrogen removal performance and microbial community structure dynamics response to carbon nitrogen ratio in a compact suspended carrier biofilm reactor[J].Ecological Engineering,2008,32(3):256-262   
+[12] Zhao YJ,Liu B,Zhang WG,et al.Performance of pilot-scale vertical-flow constructed wetlands in responding to variation in influent C/N ratios of simulated urban sewage[J]. Bioresource Technology,2010,101(6):1693-1700   
+[13]Puig S,Corominas L,Balaguer MD,et al.Biological nutrient removal by applying SBR technology in small wastewater treatment plants: Carbon source and C/N/P ratio effects[J]. Water Science & Technology,2007,55(7):135-141   
+[14] 侯红娟，王洪洋，周琪．进水COD 浓度及C/N值对脱氮效 果的影响[J]．中国给水排水,2005,21(12):19-23 Hou H J，Wang H Y,Zhou Q.Effect of influent COD concentration and C/N ratio on denitrification[J].China Water & Wastewater,2005,21(12):19-23   
+[15]国家环境保护总局．水和废水监测分析方法[M]．第4 版. 北京：中国环境科学出版社,2002 The State Environmental Protection Administration.Water and Wastewater Monitoring and Analysis Methods[M].4th ed. Beijing: China Environmental Science Press,2002   
+[16]鲁如坤．土壤农业化学分析方法[M]．北京：中国农业科技 出版社,2000 Lu R K. Soil Agricultural Chemical Analysis Method[M]. Beijing:Chinese Agricultural Science and Technology Press, 2000   
+[17] Myrold D D,Tiedje J M.Establishment of denitrification capacity in soil:Effects of carbon,nitrate and moisture[J]. Soil Biology & Biochemistry,1985,17(6):819-822   
+[18]Weier K L,Doran JW,Mosier A R,et al.Potential for bioremediationofhighnitrateirrigationwatervia denitrification[J].Journal of Environmental Quality,1994, 23(1):105-110   
+[19]Reed S,CritesR,Middlebrooks E.Natural Systems for Waste Management and Treatment[M].2nd ed. New York:McGrawHill, 1995   
+[20] Paranychianakis N V,Angelakis A N,Leverenz H,et al. Treatment of wastewater with slow rate systems:A review of treatment processes and plant functions[J]. Critical Reviews in Environmental Science and Technology，2006,36(3): 187-259   
+[21]荆肇乾，彭英艳，何瑞，等．降低脱氮成本的新型碳源与工 艺研究概况[J]．湖北农业科学,2015,54(3):517-520 Jing Z Q,Peng Y Y,HeR,et al.New types of carbon source for reducing the cost of denitrification[J].Hubei Agricultural Sciences,2015,54(3): 517-520   
+[22]魏星，朱伟，赵联芳，等．植物秸秆作补充碳源对人工湿地 脱氮效果的影响[J]．湖泊科学,2010,22(6):916-922 WeiX, Zhu W, Zhao L F,et al.Effect of the carbon source of plant straw supplement in constructed artificial wetland on nitrogen removal[J]. Journal of Lake Sciences,2010,22(6): 916-922   
+[23]Nogueira R,Melo L F,Purkhold U,et al.Nitrifying and heterotrophic population dynamics in biofilm reactors:Effects of hydraulic retention time and the presence of organic carbon[J].Water Research,2002,36(2):469-481   
+[24] Wang R C, Zhan X M, Zhang YL,et al. Nitrifying population dynamics in a redox stratified membrane biofilm reactor (RSMBR） fortreatingammonium-richwastewater[J]. Frontiers of Environmental Science & Engineering in China, 2011,5(1): 48-56   
+[25]Lu S Y,Wu F C,Lu Y F,et al.Phosphorus removal from agricultural runoff by constructed wetland[J].Ecological Engineering,2009,35(3): 402-409   
+[26]邓荣森，郎建，王涛，等．城市污水生物除磷脱氮机理研究 探讨[J]．重庆建筑大学学报,2002,24(3):106-111 Deng R S,Lang J,Wang T,et al.A study on mechanism of biological denitrification and phosphorus removal for urban wastewater[J]. Journal of Chongqing Jianzhu University,2002, 24(3): 106-111   
+[27] Bu F P,Xu X Y. Planted floating bed performance in treatmentofeutrophicriverwater[J].Environmental Monitoring & Assessment, 2013,185(11): 9651-9662   
+[28]Stottmeister U,WieBner A,Kuschk P,et al.Effects of plants and microorganisms in constructed wetlands for wastewater treatment[J].Biotechnology Advances,2003,22(1/2):93-117

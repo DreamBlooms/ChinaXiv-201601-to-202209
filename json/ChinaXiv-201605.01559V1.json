@@ -1,0 +1,680 @@
+[
+    {
+        "type": "text",
+        "text": "CONTRIBUTION OF VELOCITY VORTICES AND FAST SHOCK REFLECTION AND REFRACTION TO THEFORMATIONOFEUVWAVESINSOLARERUPTIONS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HONGJUAN WANG $^ 1$ ，SIQING LIU $^ { 1 }$ ，JIANCUN GONG¹,NING WU² AND JUN LIN 3 Draft version June 2,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We numerically study the detailed evolutionary features of the wave-like disturbance and its propagation in the eruption. This work is a folow-up to Wang et al.，using significantly upgraded new simulations.We focus on the contribution of the velocity vortices and the fast shock reflection and refraction in the solar corona to the formation of the EUV waves.Folowing the loss of equilibrium in the coronal magnetic structure,the fux rope exhibits rapid motions and invokes the fast-mode shock forward of the rope,which then produces the type II radio burst. The expansion of the fast shock,which is associated with outward motion,takes place in various directions,and the downward expansion shows the reflection and the refraction as a result of the non-uniform background plasma. The reflected component of the fast shock propagates upward and the refracted component propagates downward.As the refracted component reaches the boundary surface,a weak echo is excited. The Moreton wave is invoked as the fast shock touches the bottom boundary,so the Moreton wave lags the type I burst.A secondary echo occurs in the area where reflection of the fast shock encounters the slow-mode shock,and the nearby magnetic field lines are further distorted because of the interaction between the secondary echo and the velocity vortices. Our results indicate that the EUV wave may arise from various processes that are revealed in the new simulations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject headings: Sun: coronal mass ejections (CMEs)- Sun: magnetic fields - Magnetohydrodynamics (MHD) - Shock Waves ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The most intense energetic activity in the solar system is the solar eruption that produces solar flare,eruptive prominence,and coronal mass ejection (CME).During the process,a large number of magnetized energetic plasmas (with mass of up to $1 0 ^ { 1 6 }$ g and energy of $1 0 ^ { 3 2 }$ erg)are ejected into the interplanetary space within a short timescale,and hence disturb spatial and planetary magnetic field and significantly affect satellite operation, aviation power,human space exploration,communication and so on (Schwenn (2006)；Pulkkinen (2007)；Lin (2007);Chen (2011);Cheng et al. (2012)and references therein). One interesting phenomenon closely associated with CMEs is the globally propagating wave-like disturbance in the corona,i.e. the EIT or EUV wave. Moses et al.(1997) first reported this phenomenon,and Thompson et al.(1998） first analyzed this phenomenon in detail using the data from the Extreme-ultraviolet (EUV)Imaging Telescope(EIT）on (space）board the Solar and Heliosphere Observatory (SOHO) spacecraft. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The EUV waves have generally been observed as broad, diffuse arc-shaped bright front with lifetime of about 50 minutes.It could be seen in the lower corona (at temperature of 1-2 MK). The speed of the EUV wave front varied from about 50 to over $7 0 0 \\mathrm { k m s ^ { - 1 } }$ with‘typical' speed of $2 0 0 { - } 4 0 0 \\mathrm { k m s ^ { - 1 } }$ (Thompson & Myers 2009). The EUV waves are usually associated with CMEs, dimmings, type II radio bursts,and flares (Biesecker et al. 2Oo2). Recently，Nitta et al. (2O13) presented a large sample of events that look like EUV waves as observed by the Atmospheric Imaging Assembly (AIA;Lemen et al. (2012) on board the Solar Dynamics Observatory( $S D O$ )，and revisited their associations with flares,CMEs and type II radio bursts.They found that the speed of EUV waves is not strongly correlated with CME magnitude or the flare intensity, nor do they show an association with type II bursts (cf. Nitta et al. (2014)). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Observations so far have shown that the EUV waves may largely be explained in terms of coronal fast-mode magnetohydrodynamic (MHD) wave (e.g., Thompson et al.(1999)；Warmuth et al. (2004a.b); Gopalswamy et al.(2oo9)；Patsourakos & Vourlidas (2009)； Schmidt & Ofman (201O)；Long et al. (2011); Liu et al.(2011)； Zheng et al. (2011， 2012， 2013, 2014)； Cheng et al. (2012)； Shen & Liu(2012a.b); Yang et al. (2013)； Shen et al. (2014)）driven by CMErelated eruptionsalthough other componentsmay cO-exist in the same event or exist in other events (Patsourakos & Vourlidas 2012).It is possible to identify the properties of EUV waves that canbe naturally linked with fast-mode shock waves.Observations showed that in their early stages EUV waves either experience significant deceleration (Cheng et al. 2012； Shen & Liu 2012a;Yang et al. 2013) or propagate atapproximately constantspeeds(Ma et al. 2009; Patsourakos & Vourlidas 2O09;Liu et al. 2010; Long et al. 2011). Warmuth & Mann (2011) and Nitta et al. (2o13) investigated both cases on the basis of a large number of samples. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Regardless of their initial speeds or deceleration profiles,these waves end up travelling within a speed range of 180-380 km s $^ { - 1 }$ ，which is consistent with the fast",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "mode speed over the quiet Sun (Downs et al. 2011;   \nPatsourakos $\\&$ Vourlidas 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inaddition, two other characteristics of EUV waves are found in case studies.First,what appears to be a single wave may in fact consist of fast and slow components. In the 2010 April 8 event,Liu et al.(201O) identified the two components and explained the large-scale ripples in terms of the faster component overtaking the slower one. Second, EUV waves are seen to reflect and refract as they propagate in the corona.See,for example,Shen et al. (2013)，who studied the 2012 April 23 event.Furthermore,Yang et al. (2013) noticed in the 2011 August 4 event that a secondary wave was excited by a reflected wave. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the fast-mode MHD wave scenarioof the EUV wavesis supported by a lot of observational and theoretical results (Thompson et al. 1999; Warmuth et al.2004a,b;Gopalswamy et al.2009; Patsourakos & Vourlidas20o9;Schmidt & Ofman 2010；Long et al. 201l；Liu et al. 201l; Li et al. 2012; Zheng et al. 2011, 2012; Cheng et al. 2012； Shen & Liu 2012a,b；Yang et al. 2O13),there is little understanding of how it evolves once the fast-mode shock is produced by solar eruptions. Therefore,numerical experiments are needed to better understand the details of how the EUV waves evolve. We demonstrate it here as our main goal of this work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we numerically study the detailed wavelike disturbance and its propagation to uncover processes not commonly discussed but potentially important to understand some aspects of the EUV waves.In our simulations,the employment of the high resolution grid and the empirical atmosphere model (Sittler & Guhathakurta (1999)，hereafter S&G） provides a good opportunity to study some important features that were not shown in our previous work (Wang et al. 2009;Mei et al. 2012). We describe the physical model, formulae and numerical approaches in the next section.In Section 3, the numerical results are presented,and we discuss these results in Section 4. Finally,we summarize this work in Section 5. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.NUMERICAL MODEL AND FORMULAE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We suppose a two-dimensional magnetic configuration in the semi-infinite $x$ $y$ plane.In the coordinates, $y = 0$ corresponds to the boundary between the photosphere and the chromosphere.The chromosphere and the corona are represented by $y > 0$ . In this model, we use a current-carrying flux rope to represent a prominence or filament that floats in the corona,and a line dipole below the photosphere to denote the photospheric background field.The evolution of the magnetic system satisfies the following ideal MHD equations: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { \\mathrm { D } \\rho } { \\mathrm { D } t } + \\rho \\nabla \\cdot \\mathbf { v } = 0 , } \\\\ { \\displaystyle \\rho \\frac { \\mathrm { D } \\mathbf { v } } { \\mathrm { D } t } = - \\nabla p + \\frac { 1 } { c } \\mathbf { J } \\times \\mathbf { B } + \\rho \\frac { G \\mathcal { M } _ { G } } { ( R _ { G } + y ) ^ { 2 } } } \\\\ { \\displaystyle \\rho \\frac { \\mathrm { D } } { \\mathrm { D } t } ( e / \\rho ) = - p \\nabla \\cdot \\mathbf { v } , } \\\\ { \\displaystyle \\frac { \\partial \\mathbf { B } } { \\partial t } = \\nabla \\times ( \\mathbf { v } \\times \\mathbf { B } ) , } \\\\ { \\displaystyle \\mathbf { J } = \\frac { c } { 4 \\pi } \\nabla \\times \\mathbf { B } , } \\\\ { \\displaystyle p = ( \\gamma - 1 ) \\epsilon , } \\\\ { \\displaystyle p = \\rho K ^ { T } / m _ { p } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { B }$ indicates the magnetic field, $\\mathbf { J }$ the electric current density, $\\mathbf { v }$ the velocity of the flow, $\\rho$ the mass density, $p$ the gas pressure, $e$ the internal energy density, $G$ the gravitational constant, $M _ { \\odot }$ the solar mass, $R _ { \\odot }$ the solar radius, $\\gamma$ the ratio of specific heats, $m _ { p }$ the proton mass. The ZEUS-2D MHD code(Stone $\\&$ Norman 1992a,b;Stone et al. 1992）is employed to solve Equations (1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In our simulations,the magnetic configuration is composed of the current-carrying flux rope,the image of the current inside the flux rope,and the background magnetic field that is generated by a line dipole located at $\\begin{array} { r } { y { \\it \\Delta \\phi } = { \\it \\Delta \\Psi } - d { \\it \\Delta \\Psi } } \\end{array}$ below $y ~ = ~ 0$ .The relative strength of the dipole field $M$ is denoted by a dimensionless parameter $M = m / ( I d )$ ,which is related to the ratio of the strength of thedipole field $m$ and the product of the filament current $I$ and the depth $d$ of the dipole field (Forbes 1990; Wang et al. 2Oo9). The flux rope is located at $y \\ : = \\ : h$ above the bottom boundary. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The initial magnetic configuration from which the eruption startsis: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { B _ { x } = B _ { \\phi } ( R _ { - } ) ( y - h _ { 0 } ) / R _ { - } - B _ { \\phi } ( R _ { + } ) ( y + h _ { 0 } ) / R _ { + } } \\\\ & { \\quad - B _ { \\phi } ( r + \\Delta / 2 ) M d ( r + \\Delta / 2 ) [ x ^ { 2 } - ( y + d ) ^ { 2 } ] / R _ { d } ^ { 4 } , } \\\\ & { B _ { y } = - B _ { \\phi } ( R _ { - } ) x / R _ { - } + B _ { \\phi } ( R _ { + } ) x / R _ { + } } \\\\ & { \\quad - B _ { \\phi } ( r + \\Delta / 2 ) M d ( r + \\Delta / 2 ) 2 x ( y + d ) / R _ { d } ^ { 4 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { R _ { \\pm } ^ { 2 } = x ^ { 2 } + ( y \\pm h _ { 0 } ) ^ { 2 } , } } \\\\ { { R _ { d } ^ { 2 } = x ^ { 2 } + ( y + d ) ^ { 2 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and $B _ { \\phi } ( R )$ is determined by the electric current density ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "distribution $j ( R )$ inside the flux rope. They are: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { B _ { \\delta } ( R ) = - \\frac { 2 \\pi } { c } j \\partial R , \\ 0 \\leq R \\leq r - \\Delta \\beta / 2 ; } \\\\ & { R _ { \\delta } ( R ) = - \\frac { 2 \\pi \\hat { \\gamma } \\delta } { c \\hat { \\pi } \\delta } \\{ \\frac { 1 } { 2 } \\big ( r - \\frac { \\Delta } { 2 } \\big ) ^ { 2 } - \\big ( \\frac { \\Delta } { \\pi } \\big ) ^ { 2 } + \\frac { 1 } { 2 } n ^ { 2 }  } \\\\ & {  + \\frac { \\Delta r } { c } \\sin [ \\frac { \\pi } { c } \\big ( R - r + \\frac { \\Delta } { 2 } \\big ) ]  } \\\\ & {  + ( \\frac { \\Delta } { \\pi } \\big ) ^ { 2 } \\cos [ \\frac { \\pi } { \\Delta } \\big ( R - r + \\frac { \\Delta } { 2 } \\big ) ] \\} , r - \\Delta / 2 < R < r + \\Delta / 2 ; } \\\\ & { R _ { \\delta } ( R ) = - \\frac { 2 \\pi \\hat { \\gamma } \\delta } { c \\hat { \\pi } \\hat { \\pi } } [ r ^ { 2 } + ( \\Delta / 2 ) ^ { 2 } - 2 ( \\Delta / \\pi ) ^ { 2 } ] , r + \\Delta / 2 \\leq R < \\infty ; } \\\\ & { j ( R ) = j _ { \\delta } 0 , \\ \\cos R \\leq r - \\Delta / 2 ; } \\\\ & { j ( R ) = \\frac { \\hat { \\gamma } } { j _ { \\delta } \\cos [ \\pi / R - r + \\Delta / 2 ] / \\Delta / } { \\sin [ \\pi / R - r ] } \\Delta / + 1 , r - \\Delta / 2 < R < r + \\Delta / 2 ; } \\\\ & { j ( R ) = 0 , \\ r + \\Delta / 2 \\leq R < \\infty . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The initial background plasma density $\\rho _ { 0 } ( y )$ in this work is based on the S&G model,and therefore more realistic than that used in the previous model (Wang et al. 2009; Mei et al. 2012). We have: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\rho _ { 0 } ( y ) = \\rho _ { 0 0 } f ( y ) , } \\\\ { f ( y ) = a _ { 1 } z ^ { 2 } ( y ) e ^ { a _ { 2 } z ( y ) } \\Big [ 1 + a _ { 3 } z ( y ) + a _ { 4 } z ^ { 2 } ( y ) + a _ { 5 } z ^ { 3 } ( y ) \\Big ] , } \\\\ { z ( y ) = \\cfrac { R _ { \\odot } } { R _ { \\odot } + y } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here we adopt $\\rho _ { 0 0 } = 1 . 6 7 2 \\times 1 0 ^ { - 1 3 } \\ \\mathrm { g \\ c m ^ { - 3 } }$ ，which is about one order of magnitude smaller than that in our previous work (Wang et al. 2009)，and $y$ denotes the height from the surface of the Sun.We take $a _ { 1 } \\ =$ 0.001292, $a _ { 2 } ~ = ~ 4 . 8 0 3 9$ ， $a _ { 3 } ~ = ~ 0 . 2 9 6 9 6$ ， $a _ { 4 } ~ = ~ - 7 . 1 7 4 3$ ， $a _ { 5 } = 1 2 . 3 2 1$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The S&G model,which is two-dimensional and semiempirical,was developed using the Skylab white-light coronagraph (Guhathakurta et al.1996) and Ulysses insitu(Phillips et al. 1995)measurements.It smoothly connects the density distributions near and far from the Sun (see Figure1ofLin (2oo2)).The density distribution $f ( y )$ given by Equation(5) describes an isothermal atmosphere.Density decreases exponentially with height in the lower corona,and then decreases much more slowly as $y ^ { - 2 }$ . The results of radio observations of type III bursts overa wide frequency band from a fewkHz to 13.8 MHz also suggested the $y ^ { - 2 }$ variation of the plasma density far from the Sun (Leblanc et al.1998).This means that the atmosphere model with density distribution given in Equation(5) could be considered as a realistic model. In addition，we choose to use the present values of coefficients for the density profile that describes the density distribution in the polar region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S&G also gives another profile for the density distribution in the equatorial region where the helmet streamer is located (see equation [18a] and Table 1 of S&G's original paper).Although the coefficients for these two profiles are different, the values of the resultant density distributions in the two cases are not apparently different (see Figure 2 of S&G).This means that using either profile in our calculations would not affect the final results and conclusions in a major way. Figure 1 depicts the distributions of the initial configuration of the magnetic field (black contours) and the plasma density (shadings) used in the present work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d5a97ab7209fe6965679205b2702032a22fe7d97883374c0a0bfccbcced9e78.jpg",
+        "img_caption": [
+            "Figure 1. Distributions of the initial configuration of the magnetic field (black contours) and the plasma density (shadings).The right color bar represents values of the density in $\\mathrm { l g } \\rho$ （ $\\mathrm { { g c m } ^ { - 3 } }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We need to note here that the plasma density on the coronal base ( $y = 0 . 0$ )adopted in this work is about an order of magnitude higher than that in reality,but the magnetic field strength is roughly comparable to what isusually assumed.As a result,the Alfvén and related speeds in our work are about a factor of three lower than those that commonly appear in the literature.A lower Alfvén speed allows the fast shock to form more easily since we in this work aim to study the response of various layers of the solar atmosphere to the fast-mode shock driven by the lift-off of the flux rope. This may cause slower propagation and weaker strength of the shock,but will not change other properties of the shock. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There is a balance between pressure gradient of gas and the gravity for the initial background atmosphere as below: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla p _ { 0 } ( y ) = - \\rho _ { 0 } ( y ) \\frac { G M _ { \\odot } } { ( R _ { \\odot } + y ) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Taking Equations(5) into (6),we can get the initial background pressure $p _ { 0 } ( y )$ .Then the temperature distribution $T _ { 0 } ( y )$ is obtained as follows ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { 0 } ( y ) = \\frac { \\rho _ { 0 } ( y ) } { m _ { p } } k T _ { 0 } ( y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the Boltzmann constant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The initial total pressure consists of the gas pressure and the magnetic pressure. The initial total pressure and the mass density can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { p = p _ { 0 } - \\displaystyle \\int _ { R _ { - } } ^ { \\infty } B _ { \\phi } ( R ) j ( R ) d R , } } \\\\ { { \\rho = \\rho _ { 0 } ( p / p _ { 0 } ) ^ { 1 / \\gamma } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The computational domain is $( - 4 L , 4 L ) \\times ( 0 , 8 L )$ with $L = 1 0 ^ { 5 }$ km,and the grid points is ${ \\mathrm { 8 0 0 } } \\times { \\mathrm { 8 0 0 } }$ . The bottom ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/01bc6a8a48787173606a854bd790a2ffb3dd4ec92d3b8f5c4fb6e75b10359ede.jpg",
+        "img_caption": [
+            "Figure 2.The fast-mode speed $c _ { f }$ contours at $t = 0$ s and $t = 5 0 \\mathrm { s }$ The lower color bar represents values of the speed in $ { \\mathrm { k m ~ s } } ^ { - 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "boundary at $y = 0$ applies a line-tied condition,while the other three use the open boundary. Table 1 lists the initial values of the parameters in our simulation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTSOFNUMERICALEXPERIMENTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section,we present the results of our numerical experiments.When the magnetic compression in our experiments surpasses the magnetic tension,the flux rope quickly rises from the beginning. Some important concomitant phenomena appear as the flux rope rises,such as the fast-mode shock around the flux rope, the slowmode shock emerging from two sides of the flux rope, and the velocity vortices. In order to let us more easily find the region where the fast-mode shock occurs, we plot the distributions of the fast-mode magneto-acoustic speed, $c _ { f }$ ，at time $t = 0$ s and $t = 5 0$ s,respectively, as the eruption is in progress We here have $c _ { f } ^ { 2 } = v _ { A } ^ { 2 } + c _ { s } ^ { 2 }$ with $v _ { A } = | \\boldsymbol { B } | / \\sqrt { 4 \\pi \\rho }$ and $c _ { s } = \\sqrt { \\gamma p / \\rho }$ being the Alfvén speed and sound speed,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We studied disturbances caused by the interaction of the fast-mode shock with the boundary to explain the Moreton wave,and interaction between the slow shock and the velocity vortices to account for the EUV waves (Wang et al.20o9).In this work,we focus on the formation and propagation of the reflection/refraction of the fast-mode shock and the velocity vortices to investigate their contribution to the formation of the EUV waves. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mei et al. (2012) found that in the lower Alfvén speed environment，the velocity vortices and the slow shock maybe responsible for EUV waves.In the higher Alfvén speed environment,the second echo of the fast-mode shock together with the slow shock and the velocity vortices may produce EUV waves.However，our results show that even in the same Alfvén speed environment, various origins of waves could be easily recognized due to the very high grid resolution used in our simulations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1. Formation of the vortices and the fast shock ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The loss of equilibrium results in fast upward movement of the flux rope and formation of a region with lower pressure behind the flux rope (Forbes 199o;Wang et al. 2009).This causes two flows. They are toward the lower pressure region, fetching in both magnetic fields of op posite polarity and plasma. Forcing magnetic felds of opposite to flow together consequently leads to magnetic reconnection in this region. The velocity vortices on either side of the reconnection region forms as shown in Fig.3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/169dc10f017d3bbd4b6efe4d90d5579ec20a043504abbb7c2d057f23cb866711.jpg",
+        "img_caption": [
+            "Figure 3.Thevelocity divergence $\\nabla \\cdot \\mathbf { v }$ and streamlines at $t = 1 0$ S and $t = 2 0$ s.The lower panels provide detailed structures in two subregions surrounded by rectangles marked in the upper panels, respectively. The blue cross shows the location of the left edge of the flux rope,and the red cross denotes the location of the velocity vortices at $^ \\mathrm { ~ 1 0 ~ s ~ }$ .The unit of time is second.The right color bar representsvalues of the velocity divergence in arbitrary unit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To look into more details of the velocity vortices and their impact on the flux rope,we enlarged the region of interest and created a composite of the velocity divergence $\\nabla \\cdot \\mathbf { v }$ and streamlines in Fig.3.In the lower left panel, the blue and red crosses show,respectively, the locations of the left edge of the flux rope and the velocity vortices at 10 s,respectively. Figure 4 shows the locations of the velocity vortices on the left side of the flux rope (in red) and the left edge of the flux rope (in blue) at various times. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From Figs.3 and 4,we notice that the velocity vortices blend with the edge of the flux rope at $t = 1 0$ s.It is not easy to make a distinction between the velocity vortices and the edge of the flux rope.However,they start to separate,and thedistance between them increaseswith time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another important finding is that a fast-mode shock starts to form in front of the flux rope at the time when the velocity vortices almost separate from the flux rope. To reveal more details of this process,we check the formation time of the fast-mode shock as shown in Fig.5. It plots variations of the plasma density versus height along the $y$ -axisat two different times.The highest peaks in both panels indicate the flux rope. In the panel of $t = 1 0$ s,we can recognize a slight increase in the density right forward of the flux rope,which represents the formation of the fast-mode shock.The fast shock is more clearly seen in the panel of $\\mathrm { ~ t ~ } = 2 0$ s,which may correspond to the occurrence of type II radio bursts as discussed by Wang et al.(2009) and Lin et al. (2006). Just during this period, the velocity vortices begin to separate from the edge of the rope. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/25c254cc90271da04af8f92e85ce061b5dda22a20fde3832d9327ef7a8d24fb2.jpg",
+        "table_caption": [
+            "Table 1 Initial values for several important parameters of the numerical experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ro=2.5×10km</td><td>ho =6.25×10km</td></tr><tr><td>gcm-3 p00 = 1.672 × 10-13</td><td>T00=10K Joo = 1200 statamp cm-2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6aa39876d5bb3c6b63ef4bad2237008e95c9e40dbcb4098dbd08329b6a037be.jpg",
+        "img_caption": [
+            "Figure 4.The location of the velocity vortices on the left side of the flux rope,and the location of the left edge of the flux rope at various times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aee93161760bf86225f5fa5441326cd51f5375eae6cb8880302a4357ab27b34e.jpg",
+        "img_caption": [
+            "Figure 5.Plasma density distributionalong the y-axis at $t = 1 0$ S and $t = 2 0 \\mathrm { ~ s ~ }$ .The highest peak in two panels represents the flux rope.In the panel of $t = 1 0 \\mathrm { ~ s ~ }$ ，aslight increase indicates the formation of the fast-mode shock,and in the panel of $t = 2 0$ s,the fast shock is formed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 plots the evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines as the flux rope moves outward. Three regions surrounded by rectangles display places where the flow is strong. Details in these three regions can be seen more clearly in the lower enlarged panels in Fig.6. The plasma flow manifests apparent vortices near the side back of the flux rope.In each panel,a crescent feature around the flux rope represents the fast-mode shock.With the fast shock propagating forward,it expands sideward and backward, and its footprints touch the regions of the vortices at about $t = 2 0$ s. To obtain more details of this process, we studied the behavior of the distribution of $\\nabla \\cdot \\mathbf { v }$ on the layer of the vortices,i.e. $y = 1 . 4 \\times 1 0 ^ { 4 }$ km.Ten curves in Fig.7 are for the distributions of $\\nabla \\cdot \\mathbf { v }$ on this layer ( $y = 1 . 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m }$ ）at different times. Plots in Fig.7 clearly show the fast shock that sweeps the layer $y = 1 . 4 \\times 1 0 ^ { 4 }$ km from $t = 2 0$ s,but there is no sign of the fast-mode shock before $t = 1 0$ s.The corresponding speed of the fast shock in this layer is about $3 0 0 \\ \\mathrm { k m \\ s ^ { - 1 } }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/99f3c82b4ad1c4866002911d3ee3239b6c8c4a4e04940e049ae966f8daed59b4.jpg",
+        "img_caption": [
+            "Figure 6.Evolutions of the velocity divergence $\\nabla \\cdot \\mathbf { v }$ and streamlinesat various times.The lower panels provide detailed structures in three subregions surrounded by rectangles marked in the upper panels,respectively. The right color bar represents values of the velocity divergence in arbitrary unit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 suggests that the footprint of the fast shock does not arrive at the layer where the vortices occur until $t = 2 0$ s.Our simulations reveal that the impact of the fast shock joins that of the velocity vortices from $t = 2 0$ s, inducing more complex patterns of flow or disturbance in thislayer.On the other hand,the fast-mode shock itself does not stay in this layer. Instead,it continues to expand outward,leaving behind the disturbances that it causes in the corona. Obviously, the fast shock propa gates in the corona faster than the disturbances that it produces.This might account for the fast component of EUV waves usually observed in the same coronal layer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Formation and propagation of the fast shock reflection and refraction ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to the velocity vortices and the fast-mode shock,one more feature is shown in Figs.6 and 8.A composite of the plasma density (shadings) and magnetic field lines (black contours) during the interval between 50 s and 260 s can be seen in Fig.8. At t=50 s,the plasma flow near the side back of the flux rope results in vortices,as clearly seen in the lower-left panel of Fig.6. The flow is so strong that it impacts the nearby magnetic field lines,resulting in distinct deformation of the nearby magnetic structures.Because the background plasma in the corona is not uniform,reflection and refraction take place at both wake ends of the fast shock as it moves downward (see Fig.8).The reflected component of the fast shock propagates upward and the refracted compo nent propagates downward continuously. In this paper, weuse the term“reflection”for the reflection that takes place in the propagation path of the fast-mode shock due to the non-uniform media.The“echo”for the reflection occurs on the boundary surface.However,in physics, reflection and echo are actually the same phenomenon. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0648b51a02f4bd3c2357aabc4ca4d83e4fe4bfc0377b8016fbbfe3ec6aec0ea6.jpg",
+        "img_caption": [
+            "Figure 7. Evolution of $\\nabla \\cdot \\mathbf { v }$ on the layer $y = 1 . 4 \\times 1 0 ^ { 4 }$ km at various times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With the evolution progressing,two wake ends of the fast-mode shock sweep side-back to the flank of the flux rope as shown in Fig.8.The incident angle of the fast shock at the layer of its wake ends becomes large.Panels in Fig.8 clearly show that the angle of the reflection and the angle of the refraction vary with the incident angle.To further study this point，we investigate the variation of the angle of the reflection and the angle of the refraction as the flux rope moves outward. Figure 9 plots the evolutions of the angles of incidence,reflection and refraction,respectively,at $\\mathrm { ~ t ~ } = 7 0$ s and $\\mathrm { { t } = 1 9 0 }$ s. With the downward-propagating fast shock encountering denser background plasma, the incident angle becomes large,which results in the increasing reflection and refraction angles between $t = 7 0$ s and $t = 1 9 0$ S. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wealso investigate the refractivity of the fast shock at its wake ends and the distribution of the background plasma density versus height as shown in Fig.1O. Solid points indicate the fast shock refractivity at different times.The curve represents the background plasma densitydistribution versusheight,normalized at y=O.From Fig.10,we can see that the background plasma density and the refractivity increase with decreasing height. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the panels in Fig.8,we see that the refraction of the fast-mode shock propagates downward as the fast shock extends outward and sideward.At about $t = 1 0 0$ S, the refracted wave touches the boundary surface，and then reflection of the refracted wave occurs at the boundary surface. An echo of the refracted wave is thus produced at each of the refracted wave's wake ends,which goes back into the corona.This echo is weak,so it can not be easily distinguished.At about $t = 2 6 0$ s, the fastmode shock sweeps the boundary surface.Because the background density gradient becomes sharp,the strong reflection of the fast shock appears. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2251dc36c502ca0d983722a807945a6651d195f9e70819bc3424d4354fa39c8d.jpg",
+        "img_caption": [
+            "Figure 8.Set of snapshots of magnetic field (black contours) and the plasma density (shadings) interval between 5O s and 260 s.The right color bar represents values of the density in $\\lg \\rho$ 0 $\\mathrm { \\lg \\ c m ^ { - 3 } }$ ） Two regions surrounded by rectangles at $t = 7 0$ s and $t = 1 9 0$ S display areaswhere the angle of the reflection and the angle of the refraction vary with the incident angle growing large.Details in these two regions can be seen more clearly in Figure 9. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b9c4853633351de2912651bd12a5cfda6a05d826e7e9fd7a19e8d3d11398e8.jpg",
+        "img_caption": [
+            "Figure 9.Evolutions of the angle of incident,the angle of reflection and the angle of refraction at two different time. $a _ { 1 }$ and $a _ { 2 }$ （204号 correspond to the angle of incident at $t = 7 0$ s and $t = 1 9 0$ s, $b _ { 1 }$ （204号 and $b _ { 2 }$ are for the angle of reflection at $t = 7 0$ s and $t = 1 9 0$ s, $c _ { 1 }$ （204号 and $c _ { 2 }$ denote the angle of refraction at $t = 7 0$ sand $t = 1 9 0$ S. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 11 plots 29 distributions of $\\nabla \\cdot \\mathbf { v }$ curves versus $x$ on the boundary $y = 0$ in the time interval between $t ~ = ~ 2 0$ s and $t \\ = \\ 5 8 0$ s,which gives more information about propagation of the refracted wave and the fast-mode shock at the boundary surface.The plots clearly display two different features of propagation at the boundary: the red arrow is for the footprint of the refracted wave and the blue arrow is for the footprint of the fast-mode shock.Figure 11 further confirms that the refracted wave approaches the boundary surface at about 1OO s. The fast shock starts to sweep the surface at about 26O s as manifested in Fig.8. By measuring the distances that they propagate in the given time interval, we find that the speeds of the refracted wave and fast shock are $9 3 ~ \\mathrm { k m ~ s ^ { - 1 } }$ and $1 6 5 ~ \\mathrm { k m ~ s ^ { - 1 } }$ , respectively, when they sweep the boundary surface at $\\mathrm { y } = 0$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/473501caf805374b996154fdeddbf2bb1d0e54b9d123f7ab306f44ef2c7d2d0e.jpg",
+        "img_caption": [
+            "Figure 1O. The distribution of the background plasma density $f ( y )$ and variation of the fast shock refractivity versus height.Solid points indicate the fast shock refractivity at different time.The curve represents $f ( y )$ versus height. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b52a55f259cf8930141eba4741ef810416555e31da018d15c57f3d043fcd0334.jpg",
+        "img_caption": [
+            "Figure 11.Distributions of $\\nabla \\cdot \\mathbf { v }$ on the boundary layer $y = 0 . 0$ in the time interval between 2O s and $5 8 0 ~ \\mathrm { s }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As demonstrated in Figs.6 and 8,the fast shock，its reflected wave and refracted wave (or reflection of the refracted wave) interact with the vortices.At this stage, their interaction could be related to the origin of the EUV waves. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3. Formation of the Moreton wave and the secondary echoofthefast shock ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the fast shock propagating outward and expandingdownward,the Moreton wave is invoked as the fast shock touches down at about $t = 2 6 0$ s.As we illus trated in subsection 3.1,the fast shock forms in front of the flux rope at about $t = 2 0$ s,which then produces the type I burst (Wang et al. 2009;Lin et al. 2006). This result indicates that the Moreton wave lags the type II burst about 4 minutes,which is helpful to understand their correlation observed in solar eruptions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As the fast shock touches the boundary surface, the echo of the fast shock will occur because the background density gradient becomes sharp.The echo at the boundary mixes with the reflection of the pre-existing wave, so the echo that propagates back into the corona becomes so strong.It moves sideward much faster than the initial reflected wave (i.e.it appears on the layer above the boundary surface,rather than the surface) of the fast shock.Meanwhile,the initial reflected wave decays significantly since the footpoint of the fast shock moves outward and downward.On the other hand,the velocity vortices propagate sideways and upward, so the impact of the initial reflection of the fast-mode shock on thevortices becomes weaker and weaker as illustrated in Fig.12. In this figure,we plot the evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines at 3oO s and 4OO s. The lower panels provide detailed structures in two subregions surrounded by the rectangles as marked in the upper panels. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The initial reflected wave of the fast-mode shock decays gradually and becomes weak.However,the echo of the shock is fast and strong,producing one large structure with two small vortices when it enters the region where the vortices and the initial reflected wave are located. One of the two small vortices is influenced by the initial reflected wave that appears at the same layer above the boundary surface,while another one is impacted by the echo of the fast shock.The latter is stronger and faster than the former,overtaking the former and producing multiple “ripples”.Liu et al.(201O) observed similar phenomena in the 201O April 8 event. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the flux rope moving up, the slow-mode shock is also generated in front of the flux rope as shown in Fig.13.This figure displays evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines at various times.Unlike the fast-mode shock, the slow shock cannot reach the boundary surface, because it starts to decay and dissipate above the surface (Wang et al. 2009;Mei et al. 2012). From Figs.13 and 14,we see that the echo of the fast-mode shock comes across the slow-mode shock before the slow shock dissipates,and the reflection of the fast shock's echo (i.e. thesecondary echo of the fast shock)is excitedin theregion where the echo of the fast shock encounters the slow shock as shown in Fig.14. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We also investigate the distributions of the $z$ component of $\\nabla \\times \\mathbf { v }$ at layer of $\\mathrm { 3 \\times 1 0 ^ { 4 } }$ km from the surface of the Sun as we did in the previous work (Wang et al. 2009).Figure 15 plots such distributions at various times.The curve at the bottom is for $t \\ : = \\ : 5 0$ s,and the one at the top is for $t = 8 0 0$ s. From Fig.15,we can see four propagating signs: the blue arrow corresponds to the fast shock; the red arrow is for the refracted wave of the fast shock;the green arrow shows the echo； the black one denotes the secondary echo. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/76049455523752420e340f58c8b694fbdd3d35c7ef81cacc188fbfe040a21a30.jpg",
+        "img_caption": [
+            "Figure 12. Evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines at $t = 3 0 0 ~ \\mathrm { s }$ and （204号 $t = 4 0 0 \\mathrm { ~ s ~ }$ .The lower panels provide detailed structures in two subregions surrounded by rectangles marked in the upper panels, respectively. The right color bar representsvalues of the velocity divergence in arbitrary unit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As we mentioned before,the inhomogeneity of the plasma causes the fast shock to reflect and refract in the way as the shock propagates towards the bottom boundary.The shock reaches the layer of $3 \\times 1 0 ^ { 4 }$ km at about $t = 1 0 0$ s.The reflection and the refraction of the shock take place simultaneously at the same layer.At about $t = 2 5 0$ s, the fast shock arrives at the bottom boundary where the reflection becomes the echo andthe refracted wave disappears in our calculation.In fact,as indicated in Fig.8,the refracted wave should arrive at the bottom boundary earlier than the fast-mode shock itself and produces an echo aswell.But this echo isweakandblended with other kinds of disturbances in the corona,so we cannot recognize it in the present simulation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After $t \\ = \\ 2 5 0$ s,the fast shock sweeps the boundary surface,and its echo propagates back to the corona. At about $\\begin{array} { r c l } { t } & { = } & { 3 0 0 } \\end{array}$ s, the echo gets to the layer of $y = 3 \\times 1 0 ^ { 4 }$ km,which serves as an extra source of disturbance in this layer as indicated in Fig.15.The echo meets the slow mode shock at $t = 5 0 0$ s,which gives rise to a further disturbance in the region.Consistent with our previous discussions about Fig.7, the disturbance directly caused by the fast shock itself always moves faster than the others that are caused by various types of secondary effect and their combinations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "By measuring the features seen in Fig.15,as we did in Fig.11,we find that the speed of the fast shock at layer $y = 3 \\times 1 0 ^ { 4 }$ km is $2 0 2 ~ \\mathrm { k m ~ s ^ { - 1 } }$ ，which is slightly slower than that at a lower layer (cf. Fig.7). In addition, the speeds of the refracted wave,the echo and the second wave,at the same layer, are $1 4 7 ~ \\mathrm { k m ~ s ^ { - 1 } }$ ， $1 2 3 ~ \\mathrm { k m ~ s ^ { - 1 } }$ and $5 0 ~ \\mathrm { k m ~ s ^ { - 1 } }$ ， respectively. Furthermore,Fig.15 depicts a scenario of wave propagation in the corona where the EUV waves are usually observed such that a fast component is followed by a group of slower components with a large variety. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f29e87fe9ef1ee41c72a41f259fddc9865e05e6e823173bcec7826154d71efe.jpg",
+        "img_caption": [
+            "Figure 13. Evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines at various times. The lower panels provide detailed structures in three subregions surrounded by rectanglesmarked in the upper panels,respectively. The right color bar represents values of the velocity divergence in arbitraryunit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The interaction between the secondary echo propagating downward with the velocity vortices results in distortion of the magnetic field line as indicated in Fig.16, which shows the evolutions of magnetic field and plasma density. The continuous contours show magnetic field lines and the color shading the density distribution. Figures 13,14 and 16 indicate that the EUV waves in the last stage of propagation may be contributed by combinations of the echo and the secondary echo of the fast-mode shock, the velocity vortices,and the slow shock. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Following our previous work (Wang et al. 20o9)，we further studied detailed evolutionary features of wavelike disturbances and possible relation and/or contributions of these features to the formation of the EUV waves. In our study, the S&G empirical atmosphere model is employed for the density distribution of the background field,and the present simulation has much higher resolution than that of Wang et al. (20o9).With these improvement,we are able to perform more investigations on the object of interest and to inspect more aspects of the relevant issues.However,we need to note here that the purpose of our present work is not to reproduce a specific EUV wave event as the works done by Schmidt $\\&$ Ofman (2010)and Downs et al. (2011, 2012). Instead,our emphasis is to investigate how the solar atmosphere would respond to an eruption that produces CME and other associated activities,to explore what observational consequences we could expect in such processes,and to see how these consequences would contribute to the formation ofEUVwaves. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/281d5d54171340ee38e98cd3aa2ee8d90e9178c66a7beb8387c2792db07af9fc.jpg",
+        "img_caption": [
+            "Figure 14. Evolutions of $\\nabla \\cdot \\mathbf { v }$ and streamlines at $t = 1 2 0 0$ s. The echo,secondary echo,slow shock,and vortices are denoted in the upper panel.The lower panel shows detailed structure in a subregion surrounded by rectangle marked in the upper panel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The most important discoveries or results of this work are the reflection and refraction of the fast-mode shock during its propagation,and formation of the secondary echo when the first echo of the fast shock interacts with the slow mode shock (Wang et al. 20o9). No numerical experiments have ever reported such a phenomenon before. The various disturbances that we identify in this work may correspond to actual observational features related to the EUV wave phenomenon observed in many solar eruptive processes. Below we discuss our results one by one. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As the flux rope goes up,a fast-mode shock commences to form forward of the flux rope at about $t = 2 0$ s,which then produced the type II radio bursts(Wang et al. 2009; Lin et al. 2Oo6). Another important finding is that the velocity vortices begin to separate from the flux rope when the fast shock forms.These results duplicate what Cheng et al.(2012) observed in a specific event. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Associated with the outward motion,expansion of the fast shock takes place in various directions.The downward expansion shows the reflection and refraction as a result of the non-uniform background plasma density. In the uniform atmosphere (Forbes 199o;Wang et al. 2009), the fast-mode shock propagates through it without reflection and refraction.In the non-uniform atmosphere,on the other hand, reflection and refraction inevitably occur when the fast shock reaches the boundary, separating the media of different densities.Because the density changes continuously in the real corona,reflection and refraction take place everywhere in the propagation path of the shock.In our previous work(Wang et al. 2Oo9; Mei et al. 2012),we did not notice this phenomenon because of the low resolution of the grid used in those calculations. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f29e12e41ec07ace407d4891dcb291e8d363333cdc6b9b507d379181a5024e3d.jpg",
+        "img_caption": [
+            "Figure 15.Distributions of $( \\nabla \\times \\mathbf { v } ) _ { z }$ at the layer of $y = 3 { \\times } 1 0 ^ { 4 }$ km that is in the corona.The time intervals for drawing these curves arebetween $5 0 ~ \\mathrm { s }$ and $8 0 0 ~ \\mathrm { s }$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The reflected component of the fast shock propagates upward, whereas the refracted one propagates downward. As the refracted component reaches the bottom boundary,an echo inevitably occurs.But this echo may not be strong enough,so we cannot distinguish its effect from that of other types of disturbance in the same region (see Figs.6 and 8). However,it surely contributes to the formation of the slow component of EUV waves because it is always located behind the fast-mode shock itself. So our simulations show that the origin of EUV waves includes not only the fast shock propagating freely in a certainlayer,but also various disturbances caused by the fast shock and the motion of the flux rope. This implies a complex origin of EUV waves.This scenario is consistent with the results of Kwon et al. (2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With the fast shock expanding backward sequentially, the background plasma becomes more dense.As a result, the incident angle becomes large, increasing the reflection and refraction angles. We also studied the refractivity of the fast shock versus height，which shows that the background plasma density and the refractivity increase with decreasing height.At about $t = 1 0 0$ s,the refracted wave touches the boundary surface and gets reflected, so an echo of the refracted wave is created at each of the refracted wave's wake ends. This echo is weak, so it is not easy to be distinguished. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdc5f73be043b4c9369194059ac4cc8afb9ac78a40983a2c0d49e636437efbe0.jpg",
+        "img_caption": [
+            "Figure 16.Evolutions of magnetic field (black contours) and the plasma density (shadings).The unit of time is second.The right color bar represents values of the density in $\\lg \\rho$ 0 $\\mathrm { ( g c m ^ { - 3 } }$ ).Aregion surrounded by rectangle displays an area where the interaction between the secondary echo propagating downward with the velocity vortices results in distortion of the magnetic filed line.Details in this region can be seen more clearly in the lower panel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When the fast shock sweeps the boundary surface,the strong echo of the fast shock is produced because of the sharp density gradient on the boundary. And then Moreton wave is invoked. The Moreton wave lags the type II burst that is produced by the formation of the fast shock about four minutes before,which is helpful to understand their correlation observed in solar eruptions.Using the observations of the Hiraiso Radio Spectrograph in the frequency range of 25-2500 MHz,Asai et al. (2012) showed the observed type I radio burst is connected to the Moreton wave and fast-bright EUV wave.Furthermore,their results also support that the Moreton wave originates from the fast shock. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "More details of these features are revealed by the velocity divergence $\\nabla \\cdot \\mathbf { v }$ curves_versus $x$ on $y = 0$ ，which clearly displays two different features of propagation at the boundary surface:one is the footprint of the refracted wave; another is the footprint of the fast shock (Fig.11). The result shows that the refracted wave speed at the boundary is usually $1 / 2$ that of the fast shock at the boundary. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In addition to the fast-mode shock，the slow-mode shock can also be recognized,which is caused by the movement of the flux rope.Unlike the fast shock, the slow shock begins to decay above the boundary surface，so it cannot reach the surface. Because the echo of the fast shock from the boundary surface is strong, thesecondary echo is excited when the echo of the fast shock encounters the slow shock at somelayer above the boundary surface. This phenomenon may have been observed in the events reported by Shen et al. (2014) and Yang et al. (2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,we point out that discussions we made above revealed rich information about the origin of EUV waves.We noticed that， except the disturbance caused directly by the fast-mode shock itself, all the other typesof disturbance lag behind the fast shock，which has been confirmed by many observations (e.g., Chen & Wu (2011)；Asai et al. (2012); Shen $\\&$ Liu (2012a,b);Kumar et al. (2013);Shen et al. (2014)). Chen et al.(2002，2005) explained the EUV waves behind the fast-mode shock asa result of the field line stretching by the CME motion，and therefore the EUV wave is not a true“wave\",but a so-called pseudo wave.Obviously,our results here,together with those of Wang et al. (2009) and Mei et al. (2012)，provide an alternative explanation for the results by Chen et al. (2005). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this work,we use empirical atmosphere S&G model and a high resolution grid for numerical simulations to study detailed evolutionary features of wave-like disturbance.Our main conclusions are summarized below. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. Following the loss of equilibrium in the coronal magnetic structure,the flux rope exhibits rapid motions,and invokes the fast-mode shock in front of the rope,which then produces the type I radio bursts. 2.The velocity vortices form on either side of the flux rope,and the vortices mix with the edge of the flux rope in the beginning.However, the vortices start to separate from the edge of the flux rope when the fast shock forms. 3.The fast shock expands downward and sideward simultaneously as it propagates forward. The downward expansion produces reflection and refraction as a result of the non-uniform background plasma density. The reflected component of the fast shock propagates upward and the refracted component propagates downward. 4.As the refracted component touches the boundary surface,a weak echo is produced.The Moreton wave is invoked as the fast shock sweeps the bottom boundary, so the Moreton wave lags the type I burst. 5. As the fast shock touches the boundary surface, the strong echo occurs because the background density gradient becomes sharp.This echo propagates back into the corona. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.Besides the fast-mode shock, the slow-mode shock is also excited by the movement of the flux rope.Unlike the fast shock,the slow shock begins to decay above the bottom boundary, so it cannot reach the boundary. The secondary echo occurs in the area where the echo of the fast shock encounters the slow shock. The nearby magnetic field lines are further distorted because of the interaction between the secondary echo and the vortices. 7.During the subsequent evolution,we found an interesting phenomenon: a large structure consisting of two small vortices.One vortex is influenced by the initial reflected component of the fast shock,and another one is impacted by the strong echo of the fast shock. The latter vortex is stronger and faster,and so it overtakes the former in a short time scale,which may correspond to the ripples as observed in a specific event (e.g. see Liu et al. (2010)). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results indicate that various origins of the EUV waves exist.These include the fast shock,the reflected and refracted component of the fast shock,the echo of the refracted component,the echo and the secondary echo of the fast shock，the slow shock，and the velocity vortices (e.g., Forbes (199O)；Wang et al. (2009); Mei et al. (2012)). Considering that the EUV waves appear roughly in the same layer as the disturbance that isusually left behind the fast-mode shock,we conclude that the slow component of the EUV waves may be invoked by one of (or the combination of） these sources, and the fast EUV wave component should be due to the fast-mode shock itself. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to the referee for his/her valuable and constructive comments and suggestions.We also thank our colleague Y.Shen for the discussions. This work was supported by the National Basic Research Program of China (2012CB825600 and 2011CB811406), andthe Shandong Province Natural Science Foundation (ZR2012AQ016). JL's work was supported by the Program 973 grants 2011CB811403 and 2013CBA01503, the NSFC grants 11273055 and 11333007,and the CAS grant XDB09040202. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asai A., Ishii T.T., Isobe H.,KitaiR.,Ichimoto K.,UeNo S. Nagata S., Morita S.,Nishida K., Shiota D., Oi A.,Akioka M.. Shibata K.,2012,ApJ,745,L18   \nBiesecker D.A.,Myers D.C.,Thompson B.J.,Hammer D.M., VourlidasA.,2002，ApJ,569，1009   \nChen P.F.,20i1,Living Reviews in Solar Physics,8,1   \nChen P.F.,Fang C.,ShibataK.,2005，ApJ,622,1202   \nChenP.F.,Wu S.T.,Shibata K.,FangC., 2002,ApJ,572,L99   \nChenP.F.,WuY.,2011,ApJ,732,L20   \nCheng X., Zhang J., Olmedo O.,Vourlidas A.,Ding M.D.,Liu Y.,2012,ApJ,745,L5   \nDowns C.,Roussev I.I.,van der Holst B.,Lugaz N.,Sokolov I.V.,2012,ApJ,750,134   \nDowns C.,Roussev I.I.,van der Holst B.,Lugaz N.,Sokolov I.V.,Gombosi T.I.,2011,ApJ,728,2   \nForbes T.G.,1990,J.Geophys.Res.,95,11919   \nGopalswamy N.,Yashiro S., Temmer M., Davila J.,Thompson W.T., Jones'S.,McAteerR.T.J.,Wuelser J.-P.,Freeland S., HowardR.A.,2009,ApJ,691,L123   \nGuhathakurta M., Holzer T.E.,MacQueen R. M., 1996, ApJ, 458,817   \nKumar P., Cho K.-S., Chen P.F., Bong S.-C.,Park S.-H., 2013, Sol.Phys.,282,523   \nKwon R.-Y., Kramar M.,Wang T., Ofman L., Davila J. M., Chae J.,Zhang J.,2013,ApJ,776,55   \nLeblanc Y.,Dulk G.A.,Bougeret J.-L.,1998,Sol.Phys.,183,165   \nLemen J.R., Title A. M.,Akin D. J.,et al. 2012, Sol. Phys.,275, 17   \nLi T,Zhang J.,Yang S., Liu W., 2012,ApJ, 746,13   \nLin J.,2002,raa,2,539   \nLin J.,2007, raa,7,457   \nLin J.,Mancuso'S.,Vourlidas A., 2006,ApJ, 649,1110   \nLiu W., Nitta N.V.,Schrijver C.J., TitleA.M.,Tarbell T.D., 2010,ApJ,723,L53   \nLiu Y.,Luhmann J.G.,Bale S.D.,Lin_R.P.,2011,ApJ,734,84   \nLongD.M.,Gallagher P.T.,McAteerR.T.J.,BloomfieldD.S., 2011,A&A,531,A42   \nMa S.,Wils-Davey M. J., Lin J., Chen P.F.,Attrill G.D.R., ChenH.,ZhaoS.,LiQ.GolubL.,2009,ApJ,707,503   \nMei Z.,UdoZ.,LinJ.,20i2,Science China Physics,Mechanics, and Astromy,55,116   \nMoses D.,Clette F., Delaboudiniere J.-P., et al. 1997, Sol. Phys., 175,571   \nNitta N. V., Liu W.,Gopalswamy N., Yashiro S., 2014, Sol.Phys.,289,4589   \nNitta N.V.,Schrijver C.J.,Title A.M.,Liu W.,2013,ApJ,776, 58   \nPatsourakos S.,Vourlidas A.,2009,ApJ,700,L182   \nPatsourakosS.,VourlidasA.,2012,Sol.Phys.,281,187   \nPhillips J.L.,GoldsteinB.E.,Gosling J.T.,HammondC.M., Hoeksema J.T.,McComasD.J.,1995,Geophys.Res.Let., 22,3305   \nPulkkinen T.,2007,Living Reviews in_Solar Physics, 4,1   \nSchmidt J.M.,OfmanL.,2010,ApJ,713,1008   \nSchwenn R.,2006,Living Reviews in'Solar Physics,3,2   \nShen Y.,Ichimoto K., Ishii T.T.,Tian Z., Zhao R.,Shibata K., 2014,ApJ,786,151   \nShenY.,LiuY.,2012a,ApJ,754,7   \nShen Y.,Liu Y.,2012b,ApJ,752,L23   \nShenY., Liu Y.,Su J.,LiH., ZhaoR., Tian Z., Ichimoto K., ShibataK.,2013,ApJ,773，L   \nShenY.,LiuY.D.,ChenP.F.,IchimotoK.,2014,ApJ,795,130   \nSittlerJr.E.C.,Guhathakurta'M.,1999,ApJ,523,12   \nStoneJ.M.,MihalasD.,NormanM.L,1992,ApJS,8,819   \nStoneJ..,NormanM.L.,1992a,ApJS,80,753   \nStone J.M.,Norman M.L.,1992b,ApJS,80,791   \nThompsonB.J.,GurmanJ.B.,Neupert W.M.,Newmark J.S.. Delaboudiniere J.-P.,CyrO.C.S.,Stezelberger S.,DereK.P., HowardR.A.,ichelsD.J.,1999,ApJ,517,L15   \nThompson B.J., Myers D.C,2009,ApJS,183,225   \nThompson B.J.,Plunkett S.P.,Gurman J.B.,Newmark J.S., St.Cyr O.C., Michels D. J.,1998,Geophys.Res.Lett,25, 2465   \nWangH.,Shen C.,LinJ.,2009,ApJ,700,1716   \nWarmuth A.,Mann G.,2011,A&A,532,A151   \nWarmuth A.,Vrsnak B.,Magdalenic J.,HanslmeierA., Otruba W.,2004a,A&A,418,1101   \nWarmuthA.,VrsnakB.,MagdalenicJ.,HanslmeierA.,Otruba W.,2004b,A&A,418,1117   \nYangL.,Zhang J.,Liu W.,LiT.,Shen Y.,2013,ApJ,775,39   \nZhengR.,JiangY.,Hong J.,Yang J.,Bi Y., Yang L.,Yang D., 2011,ApJ,739,9   \nZheng R.,Jiang Y.,Yang J., BiY., Hong J., Yang B., Yang D., 2013,ApJ,764,70   \nZheng R.,Jiang Y., Yang J., Bi Y., Hong J., Yang D., Yang B., 2012,ApJ,753,29   \nZheng R., Jiang Y., Yang J., Erdelyi R., 2014, MNRAS, 444,1119 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

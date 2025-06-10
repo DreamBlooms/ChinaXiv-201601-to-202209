@@ -1,0 +1,131 @@
+# 高通量微型生物反应器的研究进展
+
+# High-throughput Micro Bioreactor Development for Biopharmaceuticals
+
+郭玉蕾」唐亮²孙瑞强²李尤²陈依军1作者单位：1、中国药科大学生命科学与技术学院；2、上海药明生物技术有限公司通讯作者：陈依军 yjchen@cpu.edu.cn
+
+【摘要】近年来，哺乳动物细胞培养技术发展迅猛，基于此技术的生物制药行业更是异军突起。在激烈的生物药市场竞争中，缩短研发时间和降低研发成本是制胜的关键。与传统的生物反应器相比，高通量微型生物反应器具有操作简单、运行通量高、实验重复性好等优点，可大大缩短研发周期，降低人力、物力成本，因此成为了生物制药行业最新的研究热点之一。目前，已成功应用于生物药物研发的微型生物反应器有 SimcellITM、Ambr $1 5 ^ { \mathrm { T M } }$ 、Ambr $2 5 0 ^ { \mathrm { T M } }$ （204号等，分别适用于工艺开发中的不同阶段。本文将以这三种微型生物反应器为例，介绍高通量微型反应器在哺乳动物细胞培养工艺开发中的研究现状及发展前景。
+
+【关键词】哺乳动物细胞；细胞培养；生物反应器；微型反应器 【Abstract】 The development of biologics based on mammalian cell culture technologies has seen increasingly rapid advances for the pharmaceutical markets in the recent years. Economic concerns and time constraint as the critical factors and the driving force have accelerated bioprocess development of delivery of new biopharmaceutical drugs to market. Dramatically, advancement of semi-high-throughput micro-bioreactors in bioprocess development has shown a significant alternative for the conventional approaches due to automation, increased capability of throughput, and excellent parallel level compared to costly and laborious bench-top bioreactors. There are several commercially available micro scale bioreactors, such as SimcellTM,Ambr $1 5 ^ { \mathrm { T M } }$ and Ambr $2 5 0 ^ { \mathrm { T M } }$ ，beingapplied in different stage of cell culture development to enhance throughput. This research reviewed and summarized the strengths and challengesof high-throughput bioreactors for the mammalian cells culture,showing the potential as scale-down models for process development and further improvement in the future.
+
+【keyword 】 Mammalian cell， Cell culture process development， Bench-top bioreactor,Micro-bioreactor
+
+# 1 前言
+
+# 1.1生物药物的研发流程
+
+近年来，随着生物技术的快速推进，生物医药产业取得了迅猛的发展。2015年，第一个全人源化单克隆抗体——阿达木单抗的专利到期，生物新药与仿制药的研究再度掀起热潮，预计 2025 年将达到一个新的巅峰[1]。2016年的药物销售数据显示，在全球药物畅销榜的前10名中，便有8种是生物药物[2]。目前，400多种生物药物正处于研发阶段，包括抗体偶联药物、双特异性抗体、多糖工程蛋白、新型靶点生物药物等[3]，其中绝大部分由哺乳动物细胞生产。
+
+一般而言，基于哺乳动物细胞培养生产的生物药物，其研发流程历经临床前研究和三期临床研究（见图1)。临床前研究涉及细胞株构建、细胞培养工艺开发、纯化工艺开发和制剂处方优化等。这一阶段的研发工作具有较大的灵活性，可采取策略提高效率，缩短研发时间和降低成本，加速生物药物上市。目前，市面上已涌现出多种高通量微型生物反应器，用于快速推进克隆筛选和培养工艺优化。同时，不同高通量微型反应器的设计理念在平衡操作体积与通量能力方面各有千秋，适应多种多样的研发策略。
+
+![](images/98dbae97560c003f6bf404628b9a9f501914da7d2ace2858da4267fac4788a77.jpg)  
+图1生物药物研发及培养工艺流程
+
+# Figure1 Simplified flow diagram showing biologics development and cell culture process development
+
+# 1.2高通量微型反应器的优势
+
+传统的细胞培养工艺开发一般包括克隆筛选、工艺优化及规模放大。该工作通常在摇瓶和1-15L 反应器中进行，并需要设计7-10轮实验（1轮实验指1个培养周期)，从大量的原始克隆中挑选终克隆，同时优化多个培养参数，如pH、培养基、补料策略、温度、接种密度等，最终确定培养工艺。整个流程平均需要9-12个月，耗时较长，工作量大，且成本较高。此外，由于研究条件众多，传统的生物反应器难以同时进行多因子、多水平实验，从而限制了它们在高通量快速研发方面的应用。
+
+为了克服这些问题，高通量微型生物反应器应运而生[4。这类反应器既大大减少了培养的体积、降低了成本，亦增加了一个培养周期中可运行反应器的数量（见表1)，并保留了对多个重要参数的控制能力。相较于传统工艺开发过程中所采用的较高通量的模型——摇瓶，其不仅增加了培养环境控制系统，几何学的设计也趋于常规反应器，更易于工艺放大。与传统的可控模型— $^ { - 3 \textrm { L } }$ 反应器相比，微型反应器不仅可减少物料消耗、降低研发成本，还具备高通量的特点，可充分结合DoE（Designof Experiment）试验设计进行工艺研究，缩短研发周期。经本平台的实践表明，利用高通量微型反应器完成前期工艺开发只需3-6个月，研发周期可缩短 $30 \text{‰}$ 。
+
+尽管微型反应器在结构和控制上与传统反应器仍有些许差别，但诸多实验证明[5]，两种模型培养细胞，生长代谢等表现具有高度一致性，同时，经过微型反应器开发的工艺也能顺利在中式乃至生产规模重现。可见，高通量微型生物反应器可以替代传统反应器来完成繁重的工作。这一应用，将成为细胞培养工艺开发未来发展的重要趋势。
+
+# 2 高通量微型反应器的模型及应用
+
+高通量微型反应器的种类繁多，早期的产品如微孔板[、24深孔板[7-9]，其体积量在微升级别，多用于原始克隆筛选，但是因无法对细胞培养过程中重要参数监控，导致使用范围
+
+受限，并逐渐被淘汰。目前应用广泛的3种高通量微型生物反应器分别是 SimcellTM、Ambr$1 5 ^ { \mathrm { T M } }$ 、 $\operatorname { A m b r } 2 5 0 ^ { \mathrm { T M } }$ ，其培养体积规模各不相同，适用于不同的细胞培养工艺开发阶段，具体参数见表1。
+
+表1高通量微型反应器与传统生物反应器的比较[5,17,22]  
+
+<html><body><table><tr><td>Items</td><td>Bench-top Bioreactors (1~3L)</td><td>Shake flasks</td><td>SimcellTM</td><td>Ambr15TM</td><td>Ambr250 TM</td></tr><tr><td>Mode</td><td>Manual</td><td>Manual</td><td>Automated</td><td>Automated</td><td>Automated</td></tr><tr><td>Quantities*</td><td>8</td><td>24</td><td>1260</td><td>48</td><td>24</td></tr><tr><td>Volume</td><td>1-3L</td><td>50-1000mL</td><td>7000m</td><td>10-15mL</td><td>200-250mL</td></tr><tr><td>Capital cost</td><td>Large footprint Very high capital</td><td>Moderate footprint Low</td><td>Large footprint Very high</td><td>Low footprint Moderate</td><td>Low footprint Moderate capital</td></tr><tr><td>Temperature</td><td>Individual</td><td>capital Incubator</td><td>capital Controlled in</td><td>capital Controlled in</td><td>Individual</td></tr><tr><td>control pH control</td><td>Real-time</td><td>control</td><td>units of 252 Periodic</td><td>units of 12</td><td></td></tr><tr><td>DO control</td><td>Real-time</td><td>NA NA</td><td>Periodic</td><td>Real-time</td><td>Real-time</td></tr><tr><td>Gassing</td><td>Overlay + Sparger</td><td>Surface</td><td>Surface</td><td>Real-time</td><td>Real-time</td></tr><tr><td>Oxygen KLa</td><td></td><td></td><td></td><td>Sparger</td><td>Overlay + Sparger</td></tr><tr><td></td><td>2-10h-1</td><td>NA</td><td>7h-1</td><td>2.6~6.0h-1</td><td>2.5-8.5h-1</td></tr><tr><td>Agitation</td><td>200~300rpm</td><td>100~125rpm</td><td>20rpm</td><td>300~1500rpm</td><td>200~800rpm</td></tr><tr><td>P/V values</td><td>30-70W/m</td><td>40W/m³</td><td>NA</td><td>3.9-419W/m</td><td>10-445W/m³</td></tr><tr><td>Agitator blade</td><td>Three-blade</td><td>NA</td><td>NA</td><td>Two-blade</td><td>Three-blade</td></tr><tr><td></td><td>propeller</td><td></td><td></td><td>propeller</td><td>propeller</td></tr><tr><td>Mixing time</td><td>10-100s</td><td>2-5s</td><td>20s</td><td>5-25s</td><td>5-40s</td></tr></table></body></html>
+
+\*Based on the maximum available quantities of a skilled scientist in one round of study
+
+# Table 1 Parameters comparison between high-throughput mini-bioreactors and bench-top bioreactors [5,17,22]
+
+# 2.1 Simcell TM
+
+SimCellTM（BioProcessorsCorp，USA）中每个生物反应器的总体积小于 ${ 8 0 0 \mu \mathrm { L } }$ 。结构如图3所示，整个系统包括5个培养板，每个培养板板均可独立控制温度、湿度、通气组成及二氧化碳分压（ $\mathsf { p C O } _ { 2 }$ ）。其中，通气是通过每个反应器顶端的透气膜而实现的，氧气的传质速率（Kra）可达到 $7 \mathrm { h } ^ { - 1 }$ ， $\mathrm { C O } _ { 2 }$ 的 $\mathrm { K } _ { \mathrm { L } } \mathbf { a }$ 可达到 $2 0 \mathrm { { h ^ { - 1 } } }$ 。同时，该系统能对细胞密度（CD，CellDensity）、酸碱度（pH）、溶氧（DO）参数进行在线、非侵入式测量。每个培养板中可承载6个培养模块，一个培养模块中可同时运行42台微型控制器反应。因此，理论上一台SimcellTM可同时运行多达1260个微型反应器。
+
+若采用SimcelITM，借助其超高通量的优势，在一轮实验中便可筛选上百种培养条件。Rachel等人[1]通过全析因设计的实验方法，用SimcellTM在同一轮实验中考察了补料比例、pH、DO及谷氨酰胺添加量等多个因素，仅通过一轮实验便完成了CHO-K1SV细胞培养的工艺优化工作。同时，SimCelITM中同一模块间的微型生物反应器平行性良好，在哺乳动物细胞培养高通量平行发酵中具有巨大潜力。Ashraf Amanullah 等人发现SimcelTM各个培养模块间以及各个微型反应器间培养参数的离散系数均在 $10 \%$ 之内，可重复性良好[]。此外,Simcell
+
+TM也被证实为一个可放大的模型。Rachel Legmann 等人的使用SimcellTM培养细胞，同时在与其相差2000-3000倍体积规模的反应器上取得了一致性的结果[10]。
+
+![](images/6577a9353d98d587f2024fbcd4c9ef29b26ddb5ec93e5cbc3e2a508c5ab08c8c.jpg)  
+图3SimcelITM构造示意图[10]
+
+# 2.2 Ambr15 TM
+
+Ambr $1 5 ^ { \mathrm { T M } }$ （Sartorius Stedimbiotech，UK）为一次性使用的微型反应器，每个反应器呈长方体几何构型，具备偏心式搅拌的无挡板机械设计。这一设计既简化了结构，节省了制造成本，又使其在机械混合上与传统具有挡板的圆柱形生物反应器具有混合相似性。同时，独立的通气管路、pH和溶氧DO 光感电极膜，能够有效地控制培养过程中的转速、温度、pH、DO 等参数。其培养体积为 $1 0 { \sim } 1 5 \mathrm { m l }$ ,基本能满足后续产量和质量参数的检测。一个Ambr $1 5 ^ { \mathrm { T M } }$ 系统包括2或4个工作站，如图4所示，每个工作站可同时自动控制12个微型反应器。除了温度和转速由工作站统一（12个反应器设置均相同）控制以外，每个反应器均可独立设置其它的工艺参数，控制能力与传统的 $1 { - } 3 \mathrm { ~ L ~ }$ 生物反应器基本一致。此外，培养过程中的操作——取样和流加等，均可通过设定计算机程序控制机械臂自动实现。
+
+![](images/26cb29fd5d2fdc3489c9be5d2fe60007434fcef27444fd4c2a29c3d7be2c617a.jpg)  
+Figure 3 SimcellTM micro-bioreactor array and agitation scheme [10]   
+图4Ambr15TM系统构造 反应器 (a)工作站 (b)  
+Figure 4 Ambr 15 TM system contains mini-bioreactors (a) and work station (b).
+
+最新研究表明，Ambr $1 5 ^ { \mathrm { T M } }$ 不仅可提高通量、降低成本，而且与传统上工艺开发的反应器具有较好的一致性，是一种高性能、可广泛使用的微型反应器。例如，Lewis 等人研究发现，Ambr $1 5 ^ { \mathrm { T M } }$ 系统与7L反应器在细胞活率和蛋白产量方面具有高度的一致性[12]；Hsu 等人比较了不同细胞在 $\mathrm { A m b r } 1 5 ^ { \mathrm { T M } } \setminus$ 2L反应器和摇瓶中的生长表现，发现实验所用的4种CHO细胞在 $\mathrm { A m b r } 1 5 ^ { \mathrm { T M } }$ 中均取得了一致性的结果，蛋白产量的差异在 $13 \%$ 之内[13]。Shahid 等人考察了同一工艺在Ambr $1 5 ^ { \mathrm { T M } }$ 、3-15L和200L反应器之间的表现差异，最后发现各个指标在不同规模之间的偏差仅为 $1 0 \mathrm { - } 1 5 \% ^ { [ 1 4 ] }$ 。
+
+# 2.3 Ambr250 TM
+
+Ambr $2 5 0 ^ { \mathrm { T M } }$ （Sartorius Stedim biotech，UK）是继 Ambr $1 5 ^ { \mathrm { T M } }$ 之后的升级产品，如图5所示，其培养体积扩大至 $2 0 0 { - } 2 5 0 ~ \mathrm { m L }$ ，能够充分满足后续纯化和检测的需求。反应器的几何结构与传统的1-3L反应器相似，采用双层斜三叶桨，L-型通气系统配合表面通气，同时嵌合4个挡板以促进液体混合；旁侧新增的4条管路可直接与工作站相连，便于多种试剂的同时流加。一个工作站可控制2、4、612、24个反应器平行使用，并且各个反应器均配备了独立的pH电极与DO 电极，实现了每个微型反应器具备独立控制相应工艺参数的能力，从而灵活地设计实验。同时， $\mathrm { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 仍保留了机械臂与工作站相结合的全自动操作模式。
+
+![](images/97653a36320e34a1420995c3f5ab7d3e41094a02a268ec11d0a2ebc94075ff56.jpg)  
+图5Ambr250TM系统构造 反应器 (a）工作站 (b)  
+Figure 5 Ambr ${ \bf 2 5 0 ^ { T M } }$ system contains mini-bioreactors (a) and work station (b).
+
+研究表明， $\operatorname { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 是一个优良的高通量微型反应器，可很好地用于不同宿主体系的克隆筛选与工艺优化，并且与大规模反应器具有良好的一致性。Bareither等人系统性地比较了 $\mathrm { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 与3L反应器，其实验结果表明酵母菌、大肠杆菌及哺乳动物细胞等在Ambr $2 5 0 ^ { \mathrm { T M } }$ 中的表现均与传统的 $3 \mathrm { ~ L ~ }$ 反应器具有高度一致性[15]。Rachel等人评价了Ambr$2 5 0 ^ { \mathrm { T M } }$ 、传统 $_ { 1 - 3 \mathrm { ~ L ~ } }$ 反应器以及中试规模反应器之间的一致性，实验结果表明CHO 细胞、酵母及大肠杆菌在 Ambr $2 5 0 ^ { \mathrm { T M } }$ 中的表现与大规模反应器中极为相似[16]。XuPing 等人采用Ambr $2 5 0 ^ { \mathrm { T M } }$ 进行CHO 细胞克隆筛选，并与 $1 { - } 3 \mathrm { ~ L ~ }$ 进行比较[17]。该实验结果显示，若以等$\mathrm { K } _ { \mathrm { L } } \mathrm { a }$ 的方法进行规模放大，可使 $\mathrm { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 与 $1 { - } 3 \mathrm { ~ L ~ }$ 反应器在细胞培养方面呈现出高度的一致性，即 $\mathrm { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 的工艺开发的结果能够成功地放大至大规模生物反应器。此外，Ambr$2 5 0 ^ { \mathrm { T M } }$ 还可在后期临床研究期间，替代传统小规模反应器，完成工艺表征工作。Mitchell等人成功地将 $\mathrm { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 与DoE 实验设计相结合，利用确定性筛选设计（DSD）方法完成了一个利用大肠杆菌生产的融合蛋白药物的后期工艺表征，其研究结果表明 $\operatorname { A m b r } 2 5 0 ^ { \mathrm { T M } }$ 是一种可靠的工艺规模缩小模型，结合有效的DoE方法可明显缩短工艺表征周期[18]。
+
+# 3高通量微型反应器的现存问题及其发展方向
+
+上述三种常见的高通量生物反应器各具特色，在细胞培养工艺开发的各个环节表现出众。但是，它们不可避免地存在着局限性。
+
+SimcellTM的显著特点为超微体积和超高通量，但是其不足之处仍需引起重视。首先，培养的体积仅 ${ 8 0 0 \mu \mathrm { L } }$ ，无法满足离线常用的检测需求[19]；其次，系统虽然具备在线监测细胞密度的功能，但无法判断细胞活率；另外，缺乏机械搅拌桨无法拟合大规模反应器，且其操作系统较为复杂，前期固定投入成本也较高。
+
+Ambr $1 5 ^ { \mathrm { T M } }$ 自2010年起成为研究热点以来，亦是被报道出了部分问题[20-22]。例如：仅$1 0 { - } 1 5 ~ \mathrm { m L }$ 的培养体积容易导致下游工艺开发样品不足；pH和DO 电极膜的稳定性待进一步提高；无法在同一个工作站内实现不同的温度和搅拌控制；同时，由于小体积的原因，对反应器特性的研究带来较多不便，甚至产生相对较大的误差，如功率准数最初由厂商给定的数值为0.6，并以此提出接近常规反应器，给出了按P/V放大策略，但在2013年经过Nienow等人对 $\operatorname { A m b r } 1 5 ^ { \mathrm { T M } }$ 反应器特性重新评测后[21]，再次修订后的功率准数为2.15，前后数值的差异说明了体积缩小反而增大了学者对于微型反应器认知和把控的难度；同时，由不同功率准数计算而得的P/V值差别较大，如功率准数为0.6时，常规转速下（ ${ 9 0 0 } { \sim } 1 0 0 0 \mathrm { r p m }$ ）的P/V值约 $2 8 \mathrm { W } \cdot \mathrm { m } ^ { - 3 }$ ，而修改后的功率准数（2.15）计算得P/V值为 $1 0 0 \mathrm { W } \cdot \mathrm { m } ^ { - 3 }$ ，极大程度上挑战了传统工艺放大的思路；在相同细胞表现情况下，为了达到足够的氧气传输速率常数（K[a）需要调整高转速，此时 $\operatorname { A m b r } 1 5 ^ { \mathrm { T M } }$ 的P/V值是传统1\~3L反应器内的10余倍[21]。总而言之，不同于传统的 $1 { \sim } 3 \mathrm { L }$ 反应器，P/V 值将不再作为Ambr $1 5 ^ { \mathrm { T M } }$ 中转速设定的依据，而将叶尖速度作为放大的标准[22]。
+
+Ambr $2 5 0 ^ { \mathrm { T M } }$ 是当前最新的产品，可操作性上较前两者更胜一筹，且其几何构造、流体力学性质及控制策略与大型生物反应器更为接近。但在实际应用中也并非尽善尽美。例如：微型控制系统仍需大量的实验进行调节和完善，pH、DO 由于体积较小的缘故常出现调控滞后的现象；使用成本相对较高，每轮实验需要消耗大量的一次性反应器和配套枪头，所以研发成本的控制将更为严格。与传统反应器相比，新型高通量微型反应器在平衡时间与成本的关系上至关重要，不仅要保证运行完好、结果具有一致性，而且要充分契合使用者的目的，尽可能发挥超出预期的价值。
+
+针对各种高通量微型反应器现存的问题，研发公司能够通过一定的措施加以改进和完善。例如，通过开发各种微量在线/离线检测手段，降低样品用量，进而克服SimcellTM和Ambr $1 5 ^ { \mathrm { T M } }$ 样品量少的缺点，从而更大程度地发挥其高通量的优势。当电极膜技术和光敏电极技术更加成熟之后，灵敏度检测问题亦将得以解决。同时，制造厂商应主动跟进高通量微型反应器的实际应用情况，不断总结问题、合理改进，积累大量数据，保证高通量微型反应器在细胞培养中表现出色，并且与大规模生物反应器具有一致性的结果。成本控制同样是需要着重考虑的方面，权衡微型反应器与传统反应器之间的成本差。另外，扩展高通量微型反应器的应用范围以更好地适应于多元化的培养模式，例如笔者所在机构已经成功开发了用Ambr $1 5 ^ { \mathrm { T M } }$ 模拟灌流培养，用于早期的灌流工艺的培养基筛选，大大的提高了筛选效率；同时，Sartorius Stedim biotech 结 合 Ambr $2 5 0 ^ { \mathrm { T M } }$ 与中空纤维柱打造出全新的Ambr 250PerfusionTM产品。
+
+总之，一方面在检测技术上取得突破性进展，优化并改进微型生物反应器的几何模型，满足基本的规模放大原理且不断拓宽其应用范围；另一方面根据实际的工艺开发需求制定合理的方案，平衡时间与成本的关系，便可让高通量微型生物反应器的优势发挥到极致，成为未来细胞培养工艺开发的主流趋势。
+
+# 4总结
+
+高通量微型反应器具有操作简单、通量高、成本缩减等优势，能够较大程度提升工艺开发的效率，降低研发成本和缩短研发周期。同时，这类反应器可有效结合DoE设计进行工艺开发，以QbD为指导原则[23-24]，提高工艺稳定性和工艺质量可控性，这也使得高通量微型反应器的应用前景更为广阔。
+
+虽然目前几款主流的高通量微型生物反应器存在一定的局限性，但基本可以满足工艺开发的基本需求，生物制药企业可结合高通量微型反应器的诸多优势，让多因素、多水平、大批量的实验变得简单高效，可参照以下策略：（1）充分结合自身的专业知识和数据积累，利用 DoE实验设计，有的放矢，加速最优条件的筛选[25-26]；（2）根据反应器结构特征和流体力学特性，充分评估微型反应器与大规模反应器的一致性，建立更为稳健的技术放大平台;（3）在工艺开发阶段引进过程分析技术（PAT)，结合基于批量模型的多元变量分析方法（MVA）对工艺过程各参数进行系统分析[27-28]，并利用高通量分析技术预测细胞代谢的变化[29-30]，从而对生物过程有更好的掌控。
+
+# 5 参考文献
+
+[l] Reichert J. Antibodies to watch in 20l5. MAbs, 2015,/(1): 1-8.   
+[2] EvaluatePharma. World preview 2017, Outlook to 2022, the 10th edition. 2017: 1-41.   
+[3] Ecker DM, Jones SD,Levine HL. The therapeutic monoclonal antibody market. Mabs-Austin, 2015, 7(1): 9-14.   
+[4] Hay M， Thomas DW，Craighead JL，et al. Clinical development success rates for investigational drugs. Nature Biotechnology,2014, 32(1): 40-51.   
+[5] Yao-ming Huang, Chris Kwiatkowski. The role of high-throughput minibioreactors in process development and process optimization for mammalian cell culture.Pharmaceutical Bioprocess, 2015,3(6): 397-410.   
+[6] Legmann R, Schreyer H, Combs R, et al. A predictive high throughput scale-down model of mAb production in CHO cels. Biotechnology Bioengineering, 2009,104(6): 1107-1120.   
+[7] Lamping S, Zhang H, Allen B, et al. Design of a prototype miniature bioreactor for high throughput automated processing. Chemical Engineering Science,2003, 58(3):747-758.   
+[8] Isett K,George H, Herber W,et al. Twenty-four well plate miniature bioreactor high throughput system: assessment for microbial cultivation.Biotechnology Bioengineering,2010, 98(5):1017-1028.   
+[9] Chen A, Chita R, Chang D, et al. Twenty-four well plate miniature bioreactor system as a scale-down model for cell culture process development. Biotechnology Bioengineering, 2010, 102(1): 148-160.   
+[10] Rachel Legmann, H. Brett Schreyer, A. Peter Russo,et al.A Predictive High-Throughput Scale-Down Model of Monoclonal Antibody Production in CHO Cells.Biotechnology and Bioengineering,2009,104(6): 1107-1120.   
+[11] Amanullah A, Otero JM, Mikola M, et al. Novel micro-bioreactor high throughput technology for cell culture process development: Reproducibility and scalability assessment of fed-batch CHO cultures. Biotechnology Bioengineering,2010, 106(1): 57-67.   
+[12] Lewis G, Lugg R, Lee K,et al. Novel automated microscale bioreactor technology: a qualitative and quantitative mimic for early process development. Bioprocess Journal, 2010, 9(1): 22-25.   
+[13] Wei-Ting Hsu, Rigzen P. S.Aulakh, Donald L. Traul, et al. Advanced microscale bioreactor system: a representative scale-down model for bench-top bioreactors. Cytotechnology， 2012, 64(6):667-678.   
+[14] Shahid Rameez, Sigma S. Mostafa, Christopher Miller, et al. High-Throughput Miniaturized Bioreactors for Cell Culture Process Development: Reproducibility， Scalability，and Control. Biotechnology Progress, 2014,30(3): 718-727.   
+[15] Bareither R,Bargh N, Oakeshott R,et al. Automated disposable small-scale bioreactor for high-throughput process development: implementation of the 24 bioreactor array. Pharmaceutical Bioprocessing, 2015,3(3): 185-197.   
+[16] Rachel Bareither, Neil Bargh,Robert Oakeshott, et al. Automated Disposable Small Scale Reactor for High Throughput Bioprocess Development: A Proof of Concept Study. Biotechnology and Bioengineering, 2013,110(12): 3126-3138.   
+[17] Ping Xu, Colleen Clark，Charo Scott. Characterization of TAP Ambr 250 disposable bioreactors, as a reliable scale down model for biologics process development Biotechnology Progress,2017,33(2): 478-489.   
+[18] Mitchell Tai, Amanda Ly, Inne Leung, et al. Eficient High-Throughput Biological Process Characterization: Definitive Screening Design with the Ambr250 Bioreactor System. Biotechnology Progress,2013,31(5): 1388-1395.   
+[19] Vijay Janakiraman, Chris Kwiatkowski. Application of High-Throughput Mini-Bioreactor System for Systematic Scale-Down Modeling， Process Characterization，and Control Strategy Development. Biotechnology Progress, 2015, 31(6): 1623-163.   
+[20] Moses S,Manahan M, Ambrogelly A,et al. Assessment of AMBRTM as a model for high-throughput cell culture process development strategy. Advance Bioscience Biotechnology, 2012, 3(7): 918-927.   
+[21] Nienow AW, Rielly CD,Brosnan K, et al. The physical characterisation of a microscale parallel bioreactor platform with an industrial CHO cell line expressing an IgG4. Biochemical Engineering Journal, 2013, 76(2): 25-36.   
+[22] Martin Paul Clarkson. The Ambr $^ { \textregistered } 1 5$ Cell Culture User Manual. TAP-9670-06-005 Issue 7.30, 2016: 13-21.   
+[23] Rathore A. Implementation of quality by design (QbD） for biopharmaceutical products. Pharmaceutical Science Technology,2010, 64(6): 495-496.   
+[24] Cogdill RP, Drennen JK. Risk-based Quality by Design (QbD): A Taguchi perspective on the assessment of product quality, and the quantitative linkage of drug product parameters and clinical performance. Journal of Pharmaceutical Innovation, 20o8,3(1): 23-29.   
+[25] Goldrick S, Holmes W, Bond NJ, et al. Advanced multivariate data analysis to determine the root cause of trisulfide bond formation in a novel antibody-peptide fusion. Biotechnology Bioengineering, 2017, 114(10): 2222-2234.   
+[26] Karst DJ, Scibona E, Villiger TK. Modulation and modeling of monoclonal antibody N-linked glycosylation in mammalian cel perfusion reactors. Biotechnology Bioengineering, 2017,114(9): 1978-1990.   
+[27] Lia Tescione, James Lambropoulos, Madhava Ram Paranandi， et al. Application of Bioreactor Design Principles and Multivariate Analysis for Development of Cell Culture Scale Down Model. Biotechnology and Bioengineering, 2015,112(1): 84-97.   
+[28] Kwiatkowski C, Huang Y-M, Kshirsagar R, et al. Traversing six logs in scale-down modeling: two case studies in developing a scale-down model for the advanced microscale bioreactor system from a 15,0ooL production bioreactor. Presented at: 2013 AIChE Annual Meeting, San Francisco, CA,2013: 3-8.   
+[29] Kelly W, Veigne S, Li X, et al. Optimizing performance of semi-continuous cell culture in an ambr15TM microbioreactor using dynamic flux balance modeling. Biotechnology Progress, 2017. DOI: 10.1002/btpr.2585.   
+[30] Shukla AA， Rameez S, Wolfe LS, et al. High-Throughput Process Development for Biopharmaceuticals. Advance Biochemical Engineering Biotechnology， 2017. DOI: 10.1007/10_2017_20.

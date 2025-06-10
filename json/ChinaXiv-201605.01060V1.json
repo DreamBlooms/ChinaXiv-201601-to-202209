@@ -1,0 +1,355 @@
+[
+    {
+        "type": "text",
+        "text": "Hybrid evolving clique-networks and their communicability ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yimin Ding1,2\\*, Bin Zhoul, Xiaosong Chen² lFaculty of Physics and Electronic Engineering, Hubei University, Wuhan 430062, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2State Key Laboratory of Theoretical Physics,Instituteof Theoretical Physics, Chinese Academy of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sciences,P.O.Box 2735,Beijing100190,China \\*E-mail: dymhubu@sina.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Aiming to understand real-world hierarchical networks whose degree distributions are neither power law nor exponential， we construct a hybrid clique network that includes both homogeneous and inhomogeneous parts,and introduce an inhomogeneity parameter to tune the ratio between the homogeneous part and the inhomogeneous one.We perform Monte-Carlo simulations to study various properties of such a network, including the degree distribution, the average shortest-path-length, the clustering coeficient, the clustering spectrum,and the communicability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: complex networks, clique, hierarchical structure, communicability. PACS: 89.75-Hc， 89.75.-k, 05.40.Fb, 02.50.-r ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The studies of complex networks have thrived over the past decades [1-4]. Various scholars have proposed many models to mimic the features of complex networks,including the Erdos-Renyi (ER)random-network model [5],the smal-world-network model [6],and thescale-free-network model [7].In most of thesemodels，the networksare constructed fromindividual nodes [8-11].In2005,Derenyi et.al.introduced theconceptof\"clique”[12].Theconceptof clique-percolation is later introducedbyPala etal.in thecontext ofoverlapping graph communities edges,and the clique percolation method is proposed to explore overlapping communities [13]. A clique of size $a$ is a completely interconnected unit that includes $a$ nodes and $a ( a { - } 1 ) ~ / 2$ edges.Different from scale-free-networks,networks constructed from cliques possess hierarchical structures,and are able to ofer deep insights into real-world networks whose central organizing principle is hierarchy[14-20]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Takemoto et al introduced a model studying evolving hierarchical networks constructed by reorganizing cliques according to the preferential atachment rule[21],and later several similar models are proposed.These models are applicable to inhomogeneous networks,which have power-lawdegree distributions [22-24].However, many real-world networks are homogeneous.Thehomogeneityof a network means thatalmost all nodes of the network are topologically equivalent toone another,like those inregular lattces or inrandom graphs; and ahomogeneous network usually has an exponential (or Poisson)degree distribution.To mimic the behaviors of these (homogeneous and hierarchical) networks, weconstructed inref.[25]anetworkbyataching cliques randomly,and thenetworks formedthis waypossessthedesired properties,viz., the networks are homogeneous and hierarchical. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper，we study clique networks including both inhomogeneous and homogeneous parts.We introducean inhomogeneity parameter $p$ which specifies the fraction of the homogeneous(or inhomogeneous） part in the whole network. By tuning the value of $p$ , we are then able to change the network properties, in particular, the degree distribution. When $p$ decreases from 1 to O,the degree distribution changes from a power-law distribution to an exponential one because a completely inhomogeneous network is changed to a homogeneous one. For $0 { < } p { < } 1$ ,our model can mimic the behaviors of real-world networks whose degree distributionsare neither power law nor exponential.This paper is organized as follws.In Section 2,we describe how to construct our model network;in Section 3,we present the numericalresults of the network properties; the study on the network communicability is reported in Section 4;abrief conclusion is presented in the last section. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Model ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We consider a network composed of cliques of size a $( a { > } 2 )$ . The cliques are linked to one another through common nodes and there is no extra edges added during the process of attaching (seeFig.1). At everytime step,a new clique is attached to the network at $m$ $( m { < } a )$ nodes. The selection rule of the attaching is specified as follows: (i) at a given ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f00d3b84d4d838bf9e90d17e0a350f95c82a2e1a9b2212075f01adb0d2d636a8.jpg",
+        "img_caption": [
+            "Figure 1(Color online). Schematic illustration of the evolutionary procedure of our model network for $a = 3$ and $m = 1$ .Each clique is attached through common nodes with others,and no extra edge is added during the attching process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "probability $p$ ,the new clique selects the $m$ attachment nodes according to the preferential attachment (PA) rule,viz., the probability of node $i$ being attached by the new clique, $\\Pi _ { i } ,$ is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { i } { } = \\frac { k _ { i } } { \\sum _ { j } k _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $k _ { i }$ is the degree of node $i$ and the sum runs over all nodes of the network (excluding the new clique); (ii) at probability $1 { - } p$ ,the new clique selects their attachment nodes in a completely random way, viz., $\\Pi _ { i } { = } 1 / N ( t )$ , where $N ( t )$ represents the total node number of the network at time step $t$ (excluding the new clique). Obviously, for $p { = } 1$ , our model is the same as the Takemoto-Oosawa model and becomes the scale-free model for $a { = } 2$ and $m { = } 1$ ; when $p { = } 0$ , this model is the same as the one reported in ref.25 and becomes the complete random network model for $a { = } 2$ and $m { = } 1$ . For a network with large $N .$ ，the parameter $p$ specifies the fraction of the network that is inhomegeneous,and we thus call it inhomogeneity parameter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Networkproperties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We perform Monte Carlo simulations to study the properties of our model networks. We investigate (i) the degree distributions,(ii)theaverageshortest-path-engths,(ii theclusteringcoefficients，and (iv)theclustering spectraof networks having same node number and average degree but diferent inhomogeneity parameters. We focus on networks constructed from cliques with size $a { = } 5$ and the number of attachment nodes $m { = } 1$ , 2 or 3. During the simulations,we tune the number of time steps to obtain networks with desired node numbers $( N )$ and average degrees $( < k > )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. Degreedistribution ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most important topological property of a complex network is its degree distribution $P ( k )$ or cumulative degree distribution $C P ( k )$ . Considering that $C P ( k )$ can reduce the noise in the tail of distribution curves,we present in Fig. 2 the numerical values of $C P ( k )$ for $p { = } 0$ , 0.3,0.5, O.7,and1, where we have set $N { = } 5 0 0 0$ ， $a { = } 5$ ， $m { = } 2$ ，and $< k > = 2 0$ . The inset of Figure 2 shows that the relation between $C P ( k )$ and $k$ is represented by a straight line in a semi-log plot for $p { = } 0$ , implying that $C P ( k )$ decays exponentially with $k$ ，which agrees with the results of a homogeneous network. For $p { = } 1$ , the relation between $C P ( k )$ and $k$ in a log-log plot is a straight line whose slope is approximately -1.48, indicating that $C P ( k ) \\propto k ^ { - \\gamma }$ ， with $\\gamma { = } 1 . 4 8$ , and that the degree distribution $P ( k ) \\propto k ^ { - \\gamma - 1 }$ . The exponent of the power-law degree distribution is $2 < \\gamma$ $+ 1 < 3$ ，which agrees with the values reported elsewhere [1,3,4]. Furthermore, we can see from Figure 2 that when $p$ decreases from 1 to O the curves of $C P ( k )$ v.s. $k$ in the log-log plots bend more and more (away from a straight line) because the homogeneous parts of the networks become larger and larger.In summary, we are able to change the degree distributions of the networks by tuning the value of $\\dot { p }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c575e8478f882da886e40f33d1b656a49b3c7b3e16a4318cefeca8a10745e4a5.jpg",
+        "img_caption": [
+            "Figure 2 (Color online). Cumulative degree distributions for $\\scriptstyle p = 0$ ,0.3,0.5,0.7,and 1,where the number of nodes $N { = } 5 0 0 0$ ，the clique size $a { = } 5$ ,and the attachment-node number $m { = } 2$ .Inserted is the CP distribution for $p { = } 0$ re-plotted in a log-linear scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2. Average shortest-path-length ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The average shortest-path-length $( L )$ is another important property of complex networks. It is defined as the mean of the geodesic lengths $( d )$ of all couples of nodes: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = \\frac { 1 } { N ( N - 1 ) } \\sum _ { \\substack { i , j \\in N , i \\neq j } } d _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We consider a network with $N { = } 5 0 0 0$ ， $a { = } 5$ , and $m { = } 2$ . Because $m$ is decreased from 3 to 2, the average degree $< k >$ of the network is now much smaller $( \\sim 6 . 6 6 )$ . We can see from Figure 3 that the average shortest-path-length $L$ decreases linearly with $p$ . It is easy to understand the decrease of $L$ with $p$ . Compared with the part of the network formed by attaching cliques in a random way,the part formed according to the PA rule is more clustered and thus has a smaller shortest-path-length; a larger $p$ means a larger fraction of the latter part and thus yields a smaller $L$ . The reason behind the linearity between $L$ and $p$ is however not so transparent, and we will defer such discussion to our future work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/98224c41ad3025366d0743ea6f88650d33b6221899ffad63faa353445495a910.jpg",
+        "img_caption": [
+            "Figure 3(Color online).Relation between the average shortest-path-length $L$ and the inhomogeneity parameter $p$ for $N { = } 5 0 0 0$ 0 $a { = } 5$ $m { = } 2$ ,and $< k > = 6 . 6 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3. Clustering coefficient ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The clustering coefficient $c _ { i }$ of node $i$ is defined as the ratio between the number of edges $e _ { i }$ among the $k$ neighbors of node $i$ and the corresponding maximum possible value $k _ { i } ( k _ { i } – 1 ) / 2$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i } = { \\frac { 2 e _ { i } } { k _ { i } ( k _ { i } - 1 ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The clustering coefficient $C$ of the whole network can then be obtained by averaging all $\\boldsymbol { c } _ { i } ^ { \\dagger }$ 's of the network: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\frac { 1 } { N } \\sum _ { i \\in N } c _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 4, we show the numerical values of $C$ for various $p$ 's; we can see that it now increases linearly with $p$ ,because of a reason similar to that mentioned in Secion 3.2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/70242249c891904851772fb9148e50fee5f6d8378e3a7fe92f972b67430f2869.jpg",
+        "img_caption": [
+            "Figure 4(Color online).Relation between the clustering coefficient $C$ and the inhomogeneity parameter $p$ for $N = 5 0 0 0 , a { = } 5 , m { = } 2 ,$ and $< k > = 6 . 6 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also compare the clustering coeficient and average shortest-path-length of the ER random network with those of our model networks.The results are given in Table1,which shows our networks have much larger clustering coefficients and smaller average shortest path lengths.Therefore,our model opens up anew way to construct small-world networks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b17ec0c24f90397ad873bca8314dd0b2c4d6dba0c7940ad0a5163a6de0401b6.jpg",
+        "table_caption": [
+            "Table 1. Clustering coefficients and average shortest-path-lengths of networks with $a { = } 5$ $m { = } 2$ $N { = } 5 0 0 0$ and $< k > = 6 . 6 6$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Network</td><td>ER random network</td><td>Our network (p=0)</td><td>Our network (p=0.5)</td><td>Our network (p=1)</td></tr><tr><td>C</td><td>0.00134</td><td>0.591</td><td>0.689</td><td>0.799</td></tr><tr><td>L</td><td>5.96</td><td>5.95</td><td>5.19</td><td>4.46</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4. Clustering spectrum ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We now proceed to investigate the clustering spectrum of our network. A clustering spectrum, which reflects the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "modularityhierarchyofanetwork,is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( k ) = \\frac { 1 } { N \\ P ( k ) } \\sum _ { i = 1 } ^ { N } c _ { i } \\times \\delta _ { k , k _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $k _ { i }$ and $c _ { i }$ denote, respectively, the degree and clustering coefficient of node $i$ and $\\delta _ { k , k i }$ is Kronecker's delta function. The value of $C ( k )$ gives the average of the clustering coefficients of all the nodes with degree $k$ . Generally speaking, 证 $C ( k ) \\propto k ^ { - \\alpha }$ ，with $\\boldsymbol { a }$ being about 1 , the corresponding network has a hierarchical structure[26]. The clustering spectra of our networks (for $\\cdot p { = } 0 , 0 . 5 , 1$ ,and $m { = } 1 , 2 , 3$ ) are shown in Figure 5. The approximate linear relations on the log-log plots indicate that these $C ( k )$ 's take a power law functional form and the power exponents (i.e., $\\mathfrak { a }$ 's, which are equivalent to the slopes ofthe straight lines on the log-log plots)are approximately1. We thus conclude that our model networks (composed of cliques) have hierarchical structures.This conclusion agrees with previous studies [21,25-27]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/293b494207432e13d88af1b40833303b9ca62567ce2db94574a98cd5390dc1eb.jpg",
+        "img_caption": [
+            "Figure 5 (Color online). Clustering spectra of networks with $N { = } 5 0 0 0$ $a { = } 5$ ,and $m { = } 1 , 2 , 3$ for (a) $p { = } 0$ (b) $p { = } 0 . 5$ ,and $\\mathrm { ( c ) } p { = } 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Communicability ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The network properties investigated in the previous section are limited to those related to individual nodes.Equally important is thecommunicabilitybetween diffrent nodes,，which provides quantitative measuresof corelation between diferent parts ofa system. Several definitions ofcommunicability have been introduced andapplied toa wide varietyof real-world networks in recent years [28].We follow the definition introduced inrefs.[28,29]and denote the communicability between nodes $u$ and $\\nu$ as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { u \\nu } = \\sum _ { n = 0 } ^ { \\infty } { \\frac { \\left( A ^ { n } \\right) _ { u \\nu } } { n ! } } = \\left( e ^ { A } \\right) _ { u \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the adjacency matrix and its corresponding element is unity if the nodes $u$ and $\\nu$ are linked to each other and is zero otherwise. The value of the $( u , \\nu )$ -entry of the $k$ th power of the adjacency matrix, $( \\boldsymbol { A } ^ { k } ) _ { u \\nu }$ ，thus gives the number of paths of length $k$ starting at the node $u$ and ending at the node $\\nu$ In Equation (6) a factorial penalization (i.e., $1 / n ! )$ has been assumed sothatthe shorter paths have more weight and longer ones have less.Note thatthe diagonal elements of the matrix $G _ { u \\nu }$ correspond to a weighted sum of the number of paths that originate from and end at same nodes.The Estrada index of a network is defined as the sum of all such diagonal elements,i.e., the trace of $G _ { u \\nu }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE E ( G ) = \\operatorname { T r } ( e ^ { A } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Estrada index is a global index for a network and commonly used to represent the communicability. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The numerical values of the Estrada indices of our networks for $p { = } 0 , 0 . 5 , 1$ and $m { = } 1 , 2 , 3$ are presented in Figure 6. For the purpose of comparison,the Estrada index ofthe ER network with the same node number and average degre is also shown.We can see that the Estrada indices of our networks are much larger than thatof the ER network because of the complete connectivity of the cliques.Moreover,for our networks,the Estrada index is independent of $p$ for $m { = } 1$ and increases with $p$ for $m { = } 2$ and 3. Comparing the results for $m { = } 2$ with those for $\\scriptstyle m = 3$ yields that the larger $m$ is the larger the influence of $p$ on the Estrada index is. In addition,we can also see from Figure 6 that for $p { = } 0$ the attachment number $m$ （204 has litle influence on the Estrada index because we have set the average degrees of the networks with different $m$ 's to be the same to one another; the Estrada index increases with $m$ for nonzero $p$ 's even though the corresponding networks have the same average degree. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad924c19cc501911bf3d8ccff12848273c35cd58e7eaa67213df500177ddbbe3.jpg",
+        "img_caption": [
+            "Figure6(Coloronline).Relationbetween theEstradaindex $E E ( G )$ and the network size $N$ for $a { = } 5$ $p { = } 0$ ,0.5,1and $m { = } 1$ ,2,3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With an aim to uderstand real-world hierarchical networks whose degree distributions are neither power law nor exponential，we havestudied hybrid clique-networks including both homogeneous and inhomogeneous parts，and introduced an inhomogeneity parameter $p$ to specify the fraction of the homogeneous (or inhomogeneous） parts in the networks.The numericalresults show that our networks belong to the small-world networks.Their clustering coefficients are larger than that of the ER network and increase with $p$ ; and their average shortest-path-lengths are similar to that of the ER network and decrease with $p$ . Our networks also exhibit a hierarchical modular structure. We have focused on numerical simulations; analytical studies will be explored in our future work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Prof.Fangfu Yefor his valuable technical assistances and acareful revisionof the manuscript,and thank Prof. Changping Yang for his help on the data analysis.This work was supported by the Open Foundation of the State KeyLaboratoryof Theoretical Physics in China (Grant No.Y3KF321CJ1),the National Natural Science Foundation of China (Grant No.11274102),and the Program for New Century Excellent Talents in Universityof the Ministry of Education of China (Grant No. NCET-11-0960). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] R.Albert,A.L.Barabasi,Rev.Mod.Phys.74(2002) 47.   \n[2] M.E.J.Newman, SIAMRev.45 (2003) 167.   \n[3] S.Boccaletti,V.Latora,Y.Moreno,M.Chavez,D.-U.Hwang.,Physics Reports 424 (2006) 175.   \n[4] P.Holme,J. Saramäki,Physics Reports 519(2012) 97-125.   \n[5] P.Erdos,A. Rényi,Publ.Math.Inst.Hung.Acad. Sci.5(1960)17.   \n[6] D.J.Watts, S.H. Strogatz, Nature 393 (1998) 440.   \n[7] A.L.Barabasi,R.Albert, Science 286(1999) 509.   \n[8] P.Sen et al.,Phys.Rev.E67(2003) 036106.   \n[9] L.A.N.Amaral,A.Scala,M.Barthelemy,H.E.Stanley,Proc.Natl.Acad.Sci.U.S.A.97(2000)11149. [10]A.-L.Barabasi,et al.,PhysicaA311(2002) 590.   \n[11]B.Shargel,H.Sayama,I.R.Epstein,Y.Bar-Yam,Phys.Rev.Lett 90 (2003) 068701.   \n[12]I.Derenyi,G.Palla,T.Vicsek,Phys.Rev.Lett.94 (2005)160202.   \n[13]G.Palla,I.Derenyi,I.Farkas,T.Vicsek,Nature 435(2005) 814.   \n[14] R.Milo et al., Science 298(2002) 824.   \n[15]Freeman,American Journal of Sociology,98(1992) 152.   \n[16]Freeman, Social Networks,18(1996) 173.   \n[17] M.Girvanand,M.E.J.Newman,Proc.Natl.Acad. Sci. U.S.A.99 (2002) 7821.   \n[18]Karrer,Newman,Phys.Rev.E 82 (2010) 066188.   \n[19]Evans J.Stat.Mech.(2010)P12037(arXiv:1009.0638).   \n[20]A.Clauset, C.Moore,M.E.J.Newman,Nature 453 (2008)98.   \n[21]K.Takemoto,C.Oosawa,Phys.Rev.E72(2005)046116.   \n[22]K.Takemoto,C.Oosawa,T.Akutsua,Physica A 380 (2007) 665-672.   \n[23]L.Tan,J.Zhang,L. Jiang,J.Biol.Phys.35 (2009)197-207.   \n[24]T.S.Evans,J. Stat.Mech.(2010)P12037 [25]Y.Ding,B.Zhou, X. Chen,SCIENTIA SINICA Physica,Mechanica & Astronomica,44 (2014) 299-304.   \n[26]E.Ravasz,A.-L.Barabasi,Phys.Rev.E 67(2003) 026112.   \n[27]Y.Ding,Z.Ding,C.Yang,Acta Phys.Sin.62 (2013) 098901.   \n[28]E.Estrada et al.Physics Reports 514 (2012) 89-119.   \n[29]E.REstrada,N.Hatano,Phys.Rev.E77(2008)036111. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

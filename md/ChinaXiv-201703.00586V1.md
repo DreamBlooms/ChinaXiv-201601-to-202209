@@ -1,0 +1,102 @@
+# Estimation of dislocation concentration in plastically deformed FeCrNi alloy by positron annihilation lifetime
+
+Eryang Lu1,², Xingzhong Cao1,a, Shuoxue Jin1, Yihao Gong1,2, Peng Zhang1, Runsheng $\mathsf { Y u } ^ { 1 }$ ， Baoyi Wang1, b\* 1Institute of High Energy Physics, Chinese Academy of Sciences, Beijing,10o049, China 2University of Chinese Academy of Sciences, Beijing, 100o39, China acaoxzh@ihep.ac.cn, bwangboy@ihep.ac.cn
+
+Keywords: FeCrNi aloy, plastic deformation, dislocation concentration, positron annihilation.
+
+Abstract. Dislocations would be induced after plastic deformation, which might change the mechanical properties of solids.FeCrNi austenitic model alloy and its Mo-diluted alloy were cold rolled with different degree of thickness reduction. Positrons are sensitive to point defects, which are easily trapped and annihilated around the trapping sites. The mean positron lifetimes have been used to estimate the average dislocation concentration in solids. Meanwhile, the trapping efficiency $\mu$ was calculated from the lifetime results. The trapping efficiency value is estimated about $3 . 3 1 { \times } 1 0 ^ { - 7 } \mathrm { c m } ^ { 3 } \mathrm { s } ^ { - }$ 1 for FeCrNi alloy and $3 . 3 1 { \times } 1 0 ^ { - 7 } ~ \mathrm { c m ^ { 3 } s ^ { - 1 } }$ for Mo-diluted alloy,respectively. The increment of the hardness value during plastic deformation is related to the increase of the dislocation density and dislocation pile up in solids.
+
+# Introduction
+
+Austenitic stainless steels are important structural materials for nuclear system. Some of them might undergo plastic deformation due to tensile loading beyond a limiting value [1]. Large amount of dislocations would be generated after plastic deformation, which play a key role in determining the mechanical properties of materials [2-3]. It is well known that conventional metals and alloys can be softened by annealing and strengthened after cold working [3]. Annealing process might reduce the dislocation density, while cold work would increase the dislocation concentration and lead to the hardening. Additionally, dislocations might interact with helium atoms,which effect the helium behaviour in nuclear structural materials [4-5].
+
+The microstructure and dislocation density in materials were usually characterized by Transmission electron microscopy (TEM) directly [1, 6]. However, it can only reveal an extremely small area so that we could not observe the average information in some extent [7]. Positron annihilation technique was a sensitive probe for the detection of crystal defects such as dislocations and vacancies [8-9]. Incident positron would be trapped easily by crystal defects in deformed solids and the positron lifetime might be changed due to the variation of electron density around trapping site. Moreover, the trapping rate $K$ is proportional to the defect concentration $C _ { d } [ 1 0 ]$ . In our previous work, the added Molybdenum atoms could enhance the hardness of $\mathrm { F e C r N i }$ alloy, and suppress the electron irradiation hardening.However,few works concerned about the Molybdenum effect in plastic deformed FeCrNi austenitic stainless steel. In the present work,FeCrNi model alloy and Modiluted ally were used to avoid the effect of impurities. Positron annihilation lifetime measurement was performed to the aloys with different deformation degree.The mean positron lifetimes were used to estimate the dislocation concentrations in solids.
+
+# Experimental details
+
+FeCrNi model alloy $( 1 7 \mathrm { w t \% } \mathrm { C r , 1 4 . 5 w t \% N i }$ , the balance Fe) and Mo-diluted alloy $( 1 7 \mathrm { w t } \% \mathrm { C r }$ $1 4 . 5 \mathrm { w t \% }$ Ni, $2 . 2 \mathrm { w t \% }$ Mo, the balance Fe) were made from a series of high purity metals $( \ge 4 \mathrm { N } )$ by arc melting process at General Research Institute for Nonferrous Metals. The size of both alloys was
+
+$1 0 { \times } 1 0 ~ \mathrm { m m } ^ { 2 }$ ,and the thickness was $1 0 . 6 5 \ \mathrm { m m }$ for FeCrNi alloy and $1 0 . 3 0 \mathrm { m m }$ for Mo-diluted alloy, respectively. Mechanical polishing was proceeded with silicon carbide paper and $1 . 5 ~ { \mu \mathrm { m } }$ diamond paste to produce a mirror like surface, and then specimens were annealed at $1 3 2 3 \mathrm { K }$ for $2 \mathrm { h }$ in vacuum (about $1 { \times } 1 0 ^ { - 4 } \mathrm { P a } ,$ ）
+
+The specimens were then plastically deformed up to $40 \%$ thickness reduction at room temperature with the increment of $5 \%$ per degree.Edge and screw dislocations would be generated in the face-centered cubic (fcc) latices [11].Positron annihilation lifetime measurements were carried out by a conventional fast-slow spectrometer with a time resolution of 21O ps (FWHM). A $^ { 2 2 } \mathrm { N a }$ positron source with the activity of $1 6 ~ \mu \mathrm { C i }$ was placed between two Kapton foils, then sandwiched between two identical samples with the same composition and deformed degree. In order to reduce the statistical error, each spectrum accumulated about $2 { \times } 1 0 ^ { 6 }$ coincidence events within $2 \mathrm { ~ h ~ }$ .The detected lifetime spectra were analyzed using the LT9 program [12]. The composition of source contribution (Kapton foils) was subtracted during the analysis.
+
+# Results and discussion
+
+The average positron lifetime for both alloys with thickness reduction from $0 \%$ to $40 \%$ are shown in Fig. 1. The result shows that the positron lifetime at defect free solid is $1 0 6 . 4 \pm 0 . 3$ ps for FeCrNi alloy and $1 1 0 . 9 ~ \pm ~ 0 . 3$ ps for Mo-diluted alloy，respectively. With the increasing of deformation degree (i.e., thickness reduction), the mean positron lifetimes in both alloys increased, and then the values saturated at about 15O ps as the thickness reduction degree over $1 5 \%$ . Similar variation of the lifetime is observed for both alloys as the thickness reduced.
+
+![](images/b5d0cf7818d7cf34679aafab4080e513eb8aaecc4f0650b760b00c153469575f.jpg)  
+Fig.1 Variation of the mean lifetime $\tau _ { \mathrm { { m } } } \mathrm { { a s } }$ the thickness reduced for both alloys
+
+According to the conventional two-state trapping model, which concerned only one type of defects in solid.This model assumes that the positron exists in either of two states in the solid, the bulk state or the defect trapped state (in this case dislocations). The positron trapping rate $K$ is proportional to the defect concentration $C _ { d }$
+
+$$
+K = \mu * C _ { d } .
+$$
+
+Since the trapping efficiency $( \mu )$ is related to the trapping cross section $( \sigma )$ as [13]:
+
+$$
+\mu = \sigma * v .
+$$
+
+where $v$ is the average thermal velocity of the thermalized positrons and $\sigma$ is a measure of the interaction between positrons and dislocations. The thermalized velocity $\upsilon$ obtains from the Maxvellian distribution as:
+
+$$
+\begin{array} { r } { v = \sqrt { \frac { 8 K _ { B } T } { \pi m } } . } \end{array}
+$$
+
+where $K _ { B }$ is the Boltzman constant, $T$ is the temperature and $m$ is the mass of positron, respectively. At the same trapping model [11, 13], the mean positron lifetime is:
+
+$$
+\begin{array} { r } { \tau = \tau _ { f } \left[ \frac { 1 + K \tau _ { d } } { 1 + K \tau _ { f } } \right] . } \end{array}
+$$
+
+where $\boldsymbol { \tau } _ { f }$ is the positron annihilation lifetime in the bulk state, $\boldsymbol { \tau } _ { d }$ is the mean lifetime of the dislocation saturated solid. The positron trapping rate $K$ can be written as:
+
+$$
+\begin{array} { r } { K = \frac { 1 } { \tau _ { f } } \bigg [ \frac { \tau - \tau _ { f } } { \tau _ { d } - \tau } \bigg ] . } \end{array}
+$$
+
+![](images/64aee66d8d0731ec7545f541a3279cf61071112d72a0f01c95ebff4117efc1ef.jpg)  
+Fig. 2 Trapping rate $K / \lambda _ { f }$ as functions of squared strain for both alloys.
+
+As reported by Baram and Rosen [8], the relation between the trapping rate $K$ and the tensile strain $\varepsilon$ induced by plastic deformation in fcc metals was:
+
+$$
+\begin{array} { r } { K = \frac { 1 0 ^ { - 3 } \sigma v ( \varepsilon - \varepsilon _ { 0 } ) ^ { 2 } } { b ^ { 3 } } . } \end{array}
+$$
+
+Where $\sigma$ the trapping cross section and $v$ is the thermalized velocity. The constant of $b$ is the Burgers vector, which is estimated to be equal to $2 . 5 7 \mathring \mathrm { A }$ . The tensile strain is related to the thickness reduction as shown in equation (7):
+
+$$
+\begin{array} { r } { \varepsilon = \frac { 2 } { \sqrt { 3 } } \log \frac { h _ { 0 } } { h } . } \end{array}
+$$
+
+where $h _ { O }$ is the initial thickness and $h$ is the final thickness of the deformed sample.Fig.2 shows the values of trapping rate, expressed as $K / \lambda _ { f }$ (taken from Eq. 5) versus the squared tensile strain $\varepsilon ^ { 2 }$ ,which computed from Eq. 7, up to $1 5 \%$ thickness reduction for both alloys. The linear feature of $K / \lambda _ { f }$ VS $\varepsilon ^ { 2 }$ for both alloys are shown in Fig. 2, which make it possble to derive the trapping cross section $\sigma$ for positrons in deformed alloy and the trapping efficiency $\mu$ from the slope of the straight line obtained. Calculating the slope of these straight lines using the least square fitting method.The values of $\mu$ and $\sigma$ can be observed as: $\mu = 3 . 3 1 { \times } 1 0 ^ { - 7 } \ \mathrm { c m ^ { 3 } s ^ { - 1 } }$ ， $\sigma = 3 . 1 { \times } 1 0 ^ { - 1 4 } \ \mathrm { c m } ^ { 2 }$ for FeCrNi alloy and $\mu = 2 . 2 2 { \times } 1 0 ^ { - 7 }$ $\mathrm { c m } ^ { 3 } \mathrm { s } ^ { - 1 }$ ， $\sigma = 2 . 1 { \times } 1 0 ^ { - 1 4 } \mathrm { c m } ^ { 2 }$ for Mo-diluted alloy. Inserting the calculated trapping rate $K$ and trapping efficiency $\mu$ into Eq. 1, the dislocation density $C _ { d }$ during plastic deformation could be calculated. The value of $C _ { d }$ varies from $5 . 4 { \times } 1 0 ^ { 1 6 } \mathrm { c m } ^ { - 3 }$ at $4 . 8 \%$ thickness reduction to $4 . 3 { \times } 1 0 ^ { 1 7 } \mathrm { c m } ^ { - 3 }$ at $1 5 . 3 \%$ thickness reduction for $\mathrm { F e C r N i }$ alloy, and $6 . 5 { \times } 1 0 ^ { 1 6 } \mathrm { c m } ^ { - 3 }$ at $5 . 1 \%$ thickness reduction to $3 . 8 { \times } 1 0 ^ { 1 7 } \mathrm { c m } ^ { - 3 }$ at $1 4 . 7 \%$ thickness reduction for Mo-diluted alloy.
+
+![](images/5cd20cae66c1d3dd3885186cadf77aa14cba0e8bf75ee11d1fddfc27ba318c5a.jpg)  
+Fig. 3 Variation of Vickers micro-hardness as the thickness reduced for both alloys.
+
+The results of micro-hardness at different thickness reduction for both alloys are shown in Fig. 3. The values increase sharply at low thickness reduction degree $( \leq 1 5 \% )$ ,which is similar with the variation of the mean positron lifetime.The mean positron lifetime is saturated after the thickness reduction over $1 5 \%$ as shown in Fig.1,which means that all of the injected positrons were trapped and annihilated around the defect site. However, the hardness value increases up to $30 \%$ thickness reduction. As discussed, much more dislocations would formed with the increment of the thickness reduction degree. Dislocation pile up might formed in the solid, which prevent dislocation slipping. The hardness value of the deformed samples increased with the dislocation pile up process. These results indicate that the dislocation density increased continuously as the thickness reduction over $1 5 \%$ . Moreover,the increment of the hardness value for the Mo-diluted alloy is lower than the FeCrNi alloy in the deformed solid, which means the added Mo might suppress the dislocation pile up.
+
+# Conclusion
+
+Dislocations would be generated in FeCrNi alloys after plastic deformation. The dislocation concentration with low deformation degree $( \leq 1 5 \% )$ were estimated from the mean positron annihilation lifetimes. For the FeCrNi alloy, the dislocation concentration is up to $4 . 3 { \times } 1 0 ^ { 1 7 } \mathrm { c m } ^ { - 3 }$ at $1 5 . 3 \%$ thickness reduction. While, it would be $3 . 8 { \times } 1 0 ^ { 1 7 } ~ \mathrm { c m } ^ { - 3 }$ at $1 4 . 7 \%$ thickness reduction for the Mo-diluted alloy. All of the injected positrons could be trapped at the defect sites with higher dislocation concentration. The added Mo atoms enhance the hardness and suppress the hardening process during plastic deformation. Meanwhile, it also reduce the trapping efficiency of the alloy. Futher study will foucs on the relation between the deformation induced dislocations and the implanted helium atoms.
+
+# Acknowledgement
+
+This work is supported by the National Science Foundation of China 91226103,11475193 and 11175191.
+
+# References
+
+[1] A.K.Roy,S.Bandyopadhyay, S.B. Suresh, et al. Relationship of residual stress to dislocation density in cold-worked martensitic alloy, Mat Sci Eng a-Struct. 416 (2006) 134-138.   
+[2] T.S.Byun, N. Hashimoto,K.Farrell Deformation mode map of irradiated 316 stainless steel in true stress-dose space, J.Nucl. Mater. 351 (2006) 303-315.   
+[3] Y. B. Wang, J. C. Ho, Y. Cao, et al. Dislocation density evolution during high pressure torsion of a nanocrystalline Ni-Fe alloy,Appl Phys Lett. 94 (2009) 091911.   
+[4] H. L. Heinisch,F. Gao,R.J. Kurtz Atomic-scale modeling of interactions of helium, vacancies and helium-vacancy clusters with screw dislocations in alpha-iron,Philos Mag. 90 (2O10) 885-895. [5] A.Ryazanov,H. Matsui,A. V. Kazaryan Physical mechanisms of helium release during deformation of vanadium alloys doped with helium atoms, J. Nucl. Mater. 271 (1999) 356-359. [6] W. Zielinski, A. A. Abduluyahed, K. J. Kurzydlowski TEM studies of dislocation substructure in 316 austenitic stainless steel strained after annealing in various environments,Mat Sci Eng a-Struct. 249 (1998) 91-96.   
+[7] T. Shintani, Y. Murata Evaluation of the dislocation density and dislocation character in cold rolled Type 304 steel determined by profile analysis of X-ray diffraction, Acta Mater.59 (2011) 4314- 4322.   
+[8] J. Baram,M. Rosen Annihilation of Positrons in Fcc Cold-Worked Polycrystals, Physica Status Solidi a-Applied Research.16 (1973) 263-272.   
+[9] E.Kuramoto, H. Abe,M. Takenaka, et al. Positron annihilation lifetime study of irradiated and deformed Fe and Ni, J. Nucl. Mater. 239 (1996) 54-60.   
+[10]R.Krause-Rehberg，V. Bondarenko，E. Thiele，et al.Determination of absolute defect concentrations for saturated positron trapping - deformed polycrystalline Ni as a case study, Nucl Instrum Meth B.240 (2005) 719-725.   
+[11]M. Abdelrahman Estimation of dislocation concentration in plastically deformed Al-Li based alloy by positron annihilation, Jpn J Appl Phys 1. 36 (1997) 6530-6532.   
+[12]J. Kansy Microcomputer program for analysis of positron annihilation lifetime spectra, Nucl Instrum Meth A. 374 (1996) 235-244.   
+[13]M. A. Abdel-Rahman, M. S. Abdallh, E. A. Badawi Study of trapping rate and defect density in AlSi11.35Mg0.23 by Positron Annihilation Technique, Surf Rev Lett.11 (2004) 427-432.

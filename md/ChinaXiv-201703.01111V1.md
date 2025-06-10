@@ -1,0 +1,138 @@
+# 闪光留量对510MPa级车轮钢闪光对焊接头组织与性能的影响
+
+张洪博」谭峰亮2,3 陈志国1,2
+
+1中南大学材料科学与工程学院长沙410083  
+2湖南人文科技学院能源与机电工程系娄底417000  
+3湖南华菱涟源钢铁有限公司博士后科研工作站 娄底417000
+
+摘要对不同闪光留量条件下510CL车轮钢闪光对焊接头组织和性能进行研究。结果表明：焊接热影响区含界面区、粗晶区、重结晶区、部分重结晶区四个部分，其中界面区维氏硬度最高，峰值硬度范围为 $2 0 1 \sim$ 219HV。闪光留量较小时，界面区主要为块状铁素体与粒状贝氏体；闪光留量适中时，界面区出现力学性能优异的针状铁素体组织;闪光留量过大会使接头处产生的热量过大，此时界面区主要为力学性能较差的魏氏体与粒状贝氏体组织，并出现错边现象。闪光对焊错边与魏氏体组织过多是焊接接头断裂的主要原因，为了获得性能良好的闪光对焊接头,闪光留量的合理设计范围为 $3 . 5 \sim 5 . 5 \ : \mathrm { m m }$ 。
+
+关键词金属材料，闪光留量，闪光对焊，显微组织,力学性能中图分类号TG453
+
+文章编号 1005-3093(2017)02-0152-09
+
+# Effect of Flash Allowance on Microstructure and Properties ofFlash Butt Welded Joint for 51O MPa Wheel Steel
+
+ZHANG Hongbo', TAN Fengliang²³, CHEN Zhiguol2² 1 Schoolof Materials Science and Engineering,Central South University, Changsha 410083,China 2 Departmentof Mechanical and Electrical Engineering,Hunan UniversityofHumanities,Science and Technology Loudi 417000,China 3Postdoctoral workstationofVALINLYSteel Co.Ltd,Loudi 4170o0,China Correspondent: CHEN Zhiguo, Tel: (0738)8325517,E-mail: zgchen@mail.csu.edu.cn Supported by Natural Science Foundation of Hunan Province (No.2O16JJ6045) Manuscript received 2016-07-06;in revised form 2016-10-08
+
+ABSTRACTThe effect of different flash allowances on the microstructure and mechanical properties of flash butt welded joint for 510CL wheel steel was investigated.The results indicate that the heat affected zone consists of interfacial zone,coarse grain zone,annealed zone and incomplete annealed zone.The Vickers hardness of interface area is the highest,and the peak hardness range is $2 0 1 \sim 2 1 9 \mathsf { H V } .$ When flash allowance is lower,interface area mainly consists of blocky ferite and granular bainite.When flash allowance is moderate，the interface area consists of acicular ferrte with excellent mechanical performance.Excessive flash allowance generates too much heat,and the interface area will mainly consist of widmanstaten structure and granular bainite with poor mechanical properties.The welded joint fracture may be ascribed to the existence of too much widmentstatten structure with high density of mismatch.In order to obtain flash buttjoint with good performance,the reasonable range design of flash allowance is $3 . 5 \sim 5 . 5 \ : \mathrm { m m }$
+
+KEY WORDS metallc materials,flash allowance,flash butt welding，microstructure,mechanical properties
+
+随着汽车工业的快速发展，汽车的轻量化、低油耗、节能减排和提高安全性能变得尤为重要，高性能汽车用钢材料的开发及应用已成为研究的焦点。闪光对焊高强钢轮辋是目前汽车轻量化与行车安全的理想选择[1-4]。闪光对焊技术是一种高效的固态连接技术，由于其具有高速高效、无需焊材和保护气体、接头强度高、热影响区相对狭窄和可焊接的材料广泛等诸多特点，目前已广泛用于汽车工业、管线建设、建筑钢结构和其他工程领域中。闪光对焊分为闪光、顶锻、保持和休止四个阶段，其中闪光和顶锻是影响焊接质量最关键的阶段，焊接完成后还需采取一系列复杂的成型工序(如滚型，扩张精整等)。焊接热影响区是整个接头性能最薄弱的区域[5，轮辋在焊后加工成型时出现裂纹的位置都是在焊缝处，因此焊接接头组织和性能会影响轮辋的加工性能和使用寿命[。焊接热输入量是影响焊接接头微观组织与性能的关键因素[8]，而焊接的热输入量除了焊机的原始输入量以外，焊接时选择的工艺参数也影响着焊接时的热输入量。闪光留量 $( \varDelta _ { \mathrm { f } } )$ 是闪光对焊的重要参数之一，闪光留量大则闪光爆破时产生的热量很大，晶粒长大的速度很快，导致接头质量较差。目前，关于汽车轮辋用钢闪光对焊的报道主要集中在低强度车轮钢，而有关更高强度车轮钢闪光对焊工艺、组织性能及接头失效分析的机理研究鲜有报道。
+
+本文旨在通过改变闪光留量的方式来改变焊接热输入量，重点研究焊接接头热影响区(HAZ)的微观组织与力学性能，并分析焊接接头失效的机理，为合理地制定闪光对焊的焊接参数，提高汽车轮辋焊接接头质量提供重要依据。
+
+# 1实验方法
+
+实验采用某大型钢铁公司生产的厚度为 $3 \ \mathrm { m m }$ 的510CL车轮钢，其化学成分见表1。采用济南诺斯思达SF-800型车轮轮辋自动闪光对焊机进行焊接试验，所采用的工艺参数见表2，焊前将试样进行酸洗。图1为闪光对焊的焊接原理图,其中图1a为闪光对焊焊接示意图，图1b为闪光对焊的焊接循环图。闪光对焊分为闪光，顶锻，保持，休止四个阶段，首先将需焊接的工件用可动夹具固定在焊机上，然后接通电源。闪光阶段是指接通电源后使工件端面接触，这时接触界面会形成很多具有大电阻的小触点，在很大电流密度的作用下，接触面瞬间熔化而使端面结合，然后进入顶锻阶段，动夹具快速推动工件，使工件端口的间隙越来越小，随后在两端给与很大的顶锻力，使端口彻底结合，同时将端口处的氧化物挤压出去。保持一定顶锻时间后，断开电源，取出焊件，进行刮渣等后续工序。焊后用线切割机取样，将式样研磨、抛光后，用$4 \%$ 的硝酸酒精腐蚀，利用LEICA-DM5000M金相显微镜观察分析焊接试样的金相组织形貌，并采用连续打点的方式测定焊接热影响区的显微硬度，加载载荷为 $2 0 0 ~ \mathrm { g }$ ；按照GB/T228-2010标准进行拉伸试验；按照GB/T2651-2008 标准在JB-300B摆锤式冲击试验机上进行室温冲击试验，试样规格为$1 0 \ \mathrm { m m } { \times } 2 . 5 \ \mathrm { m m } { \times } 5 5 \ \mathrm { m m }$ 的V形缺口,缺口开在焊接接头界面区；按照GB2653-89标准在室温下进行冷弯实验；利用ZEISSMERLINCOMPACT50-70高分辨率场发射扫描电镜以及附带的EDS能谱仪进一步观察分析焊缝处形貌、微区成分以及断口形貌。
+
+<html><body><table><tr><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Al</td><td>Al_s</td><td>Ni</td><td>Cr</td><td>Cu</td><td>Ti</td><td>Nb</td><td>N</td></tr><tr><td>≤0.08</td><td>≤0.2</td><td>≤2.5</td><td>≤0.02</td><td>≤0.005</td><td>≤0.05</td><td>≤0.05</td><td>≤0.02</td><td>≤0.02</td><td>≤0.04</td><td>≤0.03</td><td>≤0.03</td><td>≤0.004</td></tr></table></body></html>
+
+表1板材的化学成分(质量分数， $\%$ Table 1 The chemical composition of metal sheet (mass fraction, $\%$ 0   
+表2焊接工艺参数Table2 The welding parameters  
+
+<html><body><table><tr><td>Sample No.</td><td>Flash allowance (mm)</td><td>Flash speed (mm/s)</td><td>Upset speed (mm/s)</td><td>Upset allowance (mm)</td></tr><tr><td>1#</td><td>2.5</td><td>5</td><td>70</td><td>5.5</td></tr><tr><td>2#</td><td>3.5</td><td>5</td><td>70</td><td>5.5</td></tr><tr><td>3#</td><td>4.5</td><td>5</td><td>70</td><td>5.5</td></tr><tr><td>4#</td><td>5.5</td><td>5</td><td>70</td><td>5.5</td></tr><tr><td>5#</td><td>6.5</td><td>5</td><td>70</td><td>5.5</td></tr></table></body></html>
+
+![](images/abbb34f4a5e700de48ac588535eedafa4a8f5f887affc6d48be6c56ce111f553.jpg)  
+图1闪光对焊焊接原理图[10]
+
+# 2结果与讨论
+
+# 2.1510CL钢板显微组织图
+
+图2为510CL钢板的热轧态显微组织，由图可见，钢板组织由铁素体与珠光体组成。力学性能检测结果表明：钢板屈服强度为 $4 5 7 \mathrm { M P a }$ ，抗拉强度为$5 8 4 \mathrm { M P a }$ ，总延伸率为 $2 9 \%$ 。
+
+# 2.2510CL车轮钢闪光对焊接头典型的显微组织
+
+图3为焊接接头组织热影响区的组织形貌，离熔合线的距离越远，温度越低，温度梯度影响着晶粒的大小[,焊接接头热影响区可分为四个区域：即界面区、粗晶区、重结晶区与部分重结晶区。1#\~5#焊接试样接头的组织形貌变化大致相同，本文以1#的接头组织形貌为例来说明各个区域的组织特征。界面区宽度非常小，其显微组织为魏氏组织 $^ +$ 粒状贝氏体 $^ +$ 块状铁素体(多边形铁素体) $^ { + }$ 针状铁素体，如图3a所示。由于界面区温度非常高，故此区域的晶粒粗大且分布混乱；粗晶区(图3b)的焊接热循环温度范围为晶粒急剧长大的温度(约 $1 1 0 0 ^ { \circ } \mathrm { C } \cdot$ )至固相线温度，其魏氏体含量与粒状贝氏体含量减少，晶粒的尺寸也减小；重结晶区(图3c)由于温度刚好处于材料重结晶温度范围区间(即 $\mathrm { A c } _ { 3 } { \sim } 1 1 0 0 ^ { \circ } \mathrm { C } )$ ，该区域晶粒在加热和冷却过程中经历了重结晶作用，因此晶粒变得细小均匀，且组织形态与母材组织差异不大，为珠光体与铁素体混合组织;部分重结晶区(图3d)温度区间处于 ${ \bf A } { \bf c } _ { 1 } \sim { \bf A } { \bf c } _ { 3 }$ 之间，由于只在加热的过程中部分晶粒发生了重结晶，还有一部分未发生重结晶，因此该区域为粗细晶粒混合组织，此时的粗晶粒相当于母材组织的晶粒大小。
+
+![](images/b5cb0c3ff0023ca9d159fa0b1acc928b52fcaf9074a9779cb45f98b60cfe326d.jpg)  
+Fig.1The flash buttweldingprinciple diagram   
+图2510CL钢板显微组织 Fig.2Microstructure of51oCL steel plate(F-ferrite，Ppearlite)
+
+# 2.3闪光留量对510CL车轮钢闪光对焊接头显微组织的影响
+
+通过对现场生产情况进行调研，焊后加工成型过程中易出现开裂的位置都是在焊接界面区及其周围粗晶区。图4为不同闪光留量条件下焊接接头界面区与粗晶区的显微组织，闪光留量为 $2 . 5 ~ \mathrm { m m }$ 时，界面区(图4a)为魏氏组织 $+$ 粒状贝氏体 $^ +$ 块状铁素体(多边形铁素体) $+$ 针状铁素体，组织较粗大，粗晶区(图4b)的组织类型与界面区相似，粒状贝氏体含量略有减少；闪光留量为 $3 . 5 \mathrm { m m }$ 时，界面区(图4c)以粒状贝氏体和魏氏组织为主，铁素体含量较少，粗晶区(图4d)的组织类型与界面区相同，但是晶粒尺寸较界面区细小；闪光留量为 $4 . 5 \mathrm { m m }$ 时，界面区(图4e)为针状铁素体 $+$ 块状铁素体 $+$ 少量粒状贝氏体 $^ +$ 少量铁素体，而粗晶区(图4f)为铁素体 $\cdot +$ 针状铁素体 $+$ 少量粒状贝氏体，铁素体含量较高；闪光留量为 $5 . 5 \mathrm { m m }$ 时，界面区(图4g)和粗晶区(图3h)的显微组织与 $4 . 5 \ \mathrm { m m }$ 时相似，只是晶粒尺寸略有增加；当闪光留量增加到$6 . 5 \mathrm { m m }$ 时，界面区(图4i)的显微组织又呈典型的魏氏组织 $^ +$ 铁素体 $^ +$ 粒状贝氏体，晶粒尺寸明显粗大，粗晶区(图4j)为铁素体 $\cdot +$ 魏氏组织 $^ +$ 粒状贝氏体，铁素体含量较界面区明显增多。闪光留量对闪光对焊接头界
+
+![](images/b5f8437fe608ad38a02e809b38299485f6c442b10c856ac8d8655148c0e01de3.jpg)  
+图31#接头热影响区显微组织
+
+Fig.3 Microstructure of heat affect zone for 1# joint: (a) interfacial zone; (b) coarse grain zone; (c) annealed zone; (d) incomplete annealed zone(GB- granular bainite,PF- polygonal ferrite,AF- acicular ferrite,W-widmanstatten)
+
+面区和粗晶区显微组织的影响非常明显，随闪光留量增加，魏氏体的含量呈多 $$ 少 $$ 多的变化规律，铁素体含量呈少 $$ 多 $$ 少的变化规律。出现这种显微组织的大小变化规律，主要的原因是焊接热输入总量的变化和顶锻时液态金属与杂质是否完全挤掉两者的综合作用。从组织上分析，出现的魏氏体组织一般塑韧性都低，接头组织较脆，容易出现裂纹[12]，所以从组织的角度上分析，闪光留量不宜过大也不宜过小。
+
+图5是不同闪光留量条件下闪光对焊接头截面宏观形貌，焊接接头热影响区与母材的界限清晰，闪光留量对焊接热影响区表层及心部宽度的影响较大。闪光留量为 $2 . 5 \mathrm { m m }$ 时(图5a)，热影响区表层宽度较大，表层的宽度和心部差异较小；闪光留量为$3 . 5 \mathrm { m m }$ 时(图5b)，热影响区表层宽度减小，热影响区心部的宽度略小于表层的宽度，开始出现“表层宽、心部窄”的特征；闪光留量为 $4 . 5 ~ \mathrm { m m }$ 时(图4c)，热影响区的宽度减小，但是表层的宽度明显大于心部，“表层宽、中间窄"的特征逐渐明显。闪光留量继续增大，热影响区的宽度逐渐增大，心部与表层的宽度差异减小，“表层宽、中间窄"的特征逐渐减弱。图6是对热影响区表层、心部宽度的统计结果，闪光留量为 $2 . 5 ~ \mathrm { m m }$ 时至 $4 . 5 ~ \mathrm { m m }$ 时，表层和心部的宽度分别从 $4 \ \mathrm { m m } , 3 . 8 \ \mathrm { m m }$ 减小到 $3 . 5 \ \mathrm { m m } . 2 . 2 \ \mathrm { m m }$ ，闪光留量继续增加到 $6 . 5 \mathrm { m m }$ (图5e)时，表层和心部的宽度较大分别增加到 $4 \ \mathrm { m m } , 3 . 4 \ \mathrm { m m }$ ，闪光留量对闪光对焊接头热影响区宽度的影响曲线表现为开口向上的抛物线。闪光留量较小时，接头的热影响区心部宽度略小于表层，但是差异非常小，随闪光留量增大，心部的宽度逐渐减小，明显小于表层的宽度，形成较为明显的X形状，即呈明显“表层宽，心部窄"的形貌特征。但随闪光留量继续增加，心部的宽度逐渐增大，逐渐与表层的宽度一致。热影响区出现X形状的原因主要有两个方面：(1)在顶锻过程中，在顶锻力的作用下中间的高温金属向两侧流动，使中间的高温金属减少，两侧的高温金属增多；(2)中间部分高温停留时间短，热影响区的宽度小于两侧，而两侧的金属相对于中间的金属高温停留时间较长，热影响区宽度较大。闪光留量较小时，界面区厚度方向出现X形状不明显的原因是闪光对焊时时间短、热输入量小，钢板厚度方向心部的温度和两侧差异不大，心部所产生的液态金属量较少，在顶锻过程中从心部向两侧挤出的高温金属量较少，所以心部和两侧的热影响区宽度差异较小；闪光留量较大时，闪光对焊时时间长、热输入量大，钢板厚度方向心部的温度和两侧均较高，即心部和两侧高温金属的量差异较小，心部和两侧热影响区的宽度均较大，在顶锻过程中
+
+![](images/6ca3e7d1ac83c058692f8dd3cf0675a9f96544cf2c7ef18619fe809d8fcc2cb6.jpg)  
+图4不同闪光留量条件下焊接界面区及粗晶区的显微组织
+
+Fig.4 Microstructures of interfacial zone and coarse grain zone under the different flash allowances: (a) (b) $2 . 5 \mathrm { m m }$ ； (c) (d) $3 . 5 \mathrm { m m }$ (e)(f) $4 . 5 \mathrm { m m }$ (g) (h) $5 . 5 \mathrm { m m }$ (i)(i) $6 . 5 \mathrm { m m }$
+
+![](images/1d8241e2f774874560993a7589723802ac1488c19732ef1359ebe3c80061e764.jpg)  
+图5不同闪光留量条件下焊接接头形貌
+
+Fig.5Microstructures of welded jointsunder the different flash allowances从心部向两侧挤出高温金属后，停留在两侧的高温金属对热影响区宽度的影响相对较小，所以焊接接头X形状也不明显。
+
+![](images/76df787f3b3a1c418e436c4bd7388bbd5a201c9a4985d6fa23c373f4b4658189.jpg)  
+图6闪光留量对焊接头热影响区宽度的影响曲线 Fig.6 The effect of different flash allowances on HAZ width in welded joints
+
+# 2.4闪光留量对510CL车轮钢闪光对焊接头力学性 能的影响
+
+对焊接试样进行力学性能测试，表3为拉伸、冷弯、冲击测试结果，图7是以 $0 . 2 5 ~ \mathrm { m m }$ 为间距连续打点的方式测量以焊缝为中心向母材推进的各个组织区的显微硬度图。1#～4#试样的力学测试结果都比较理想，在拉伸试验中，拉断的位置都在母材位置；冷弯试验中，无论正弯，背弯，都在弯曲处未见裂纹。但是5#试样在拉伸试验中出现了在焊缝处断裂的现象，冷弯试验中正弯与背弯都出现了微裂纹。从表中可以得知，3#拉伸试验断裂位置在母材，冲击吸收功最高，达到了40.50J,即3#样接头组织的塑韧性最好；5#试样在拉伸试验断裂位置在焊缝且冲击吸收功最低，仅为13.67J即塑韧性最差。从显微硬度图上可以得知：无论是哪组试样都是界面区的硬度最高，说明闪光对焊这种焊接方式的接头组织具有较高的硬度，抵抗塑性变形的能力比母材强[13]。3#试样的界面区与粗晶区组织为针状铁素体与粒状贝氏体，铁素体含量多，铁素体是软相组织；4#试样的界面区与粗晶区组织与3#类似，但是晶粒尺寸有所增加。根据霍尔-佩奇公式可知，晶粒越细小，晶界越多，位错移动越困难，则硬度越高，塑韧性也越好。同时，3#试样的接头组织为具有大倾角的针状铁素体，晶内位错密度更高，位错相互缠结。以上原因就可以解释3#试样的整体硬度比1#，2#，4#，5#试样的低，塑韧性比它们更好[14]。5#试样的接头微观组织为典型的魏氏组织 $+$ 铁素体 $+$ 粒状贝氏体，组织尺寸最粗大，因此它的塑韧性最差，5#试样在外力作用下，出现焊缝界面处断裂现象。另外，每组试样都有一个大致的规律，即在热影响区有一反常现象，即硬度突然变低，甚至比母材区更低，出现范围很小“软化区域”。究其原因，在焊接时，由于界面区中的碳被强烈氧化，加之顶锻时，半熔化区内碳含量较高，熔点较低的流动金属被首先挤出，在接合面附近形成碳含量较低的"脱碳层"[15,16]。实验结果表明，焊接热影响区峰值硬度范围为 $2 0 \sim$ 219HV时，1#～4#试样在拉伸实验时焊接界面处并未发生断裂，而5#试样在拉伸实验时焊接界面处发生断裂，除了魏氏体组织偏多，可能还有其他原因。
+
+![](images/5ddf67eafb03ab23dc23a5df589acba3dd986172c999e21ebb636579b03c0f2f.jpg)  
+图7焊缝处两侧的显微硬度分布图  
+Fig.7 The hardness distribution on both sides of the weld line
+
+表3焊接接头力学性能  
+Table3 The mechanical property of welded joints   
+
+<html><body><table><tr><td rowspan="2">Sample No.</td><td colspan="3">Tensile test</td><td rowspan="2">Impact test (room temperature)</td></tr><tr><td></td><td>(D=5a,180°) positive bend</td><td>back bend</td></tr><tr><td>1#</td><td>fracture position base metal</td><td>qualified</td><td>qualified</td><td>Impact AKv / J</td></tr><tr><td>2#</td><td>base metal</td><td>qualified</td><td>qualified</td><td>36.58 38.25</td></tr><tr><td>3#</td><td>base metal</td><td>qualified</td><td>qualified</td><td>40.50</td></tr><tr><td>4#</td><td>base metal</td><td>qualified</td><td>qualified</td><td>38.57</td></tr><tr><td>5#</td><td>weld line</td><td>unqualified</td><td>unqualified</td><td>13.67</td></tr></table></body></html>
+
+# 2.5焊缝处显微组织与断口形貌分析
+
+由于5#样出现了异常的力学性能试验结果，故重点分析5#焊缝处断裂的失效机制。在扫描电镜下观察5#的焊缝处的组织缺陷与各种断口形貌如
+
+![](images/244b5825d5a2f8f53d3ad4c4c29c0d72458dde430cbbf54b6966db5d5616abd0.jpg)  
+图85#试样焊缝处的显微组织及断口形貌
+
+![](images/1bd14847c7136ec7955485d8d9b053880ae70bd0fdfcf139b4afabe9eaeae473.jpg)
+
+Fig.8 Microstructure of weld line and fracture morphology for 5#.(a,b) microstructure of weld seam; (c) tensile fracture surface; (d) impact fracture surface; (e) cold bending fracture surface)
+
+图8所示。在扫描电镜下观察到5#样的焊缝处晶粒粗大(图8a),且有如图b中A点处的球状微型孔洞，经EDS分析得出，孔洞处的夹杂物主要为氧化物，有MnO、FeO等类型，这些夹杂物聚集在焊缝处，引起焊缝处应力集中，形成残余应力留在了接头处，当外力作用于工件时，应力集中的情况越来越严重，裂纹便在焊缝处萌生，长大，使得接头组织处的力学性能大幅度下降，因此5#样在力学性能试验中，焊缝处都出现了不可逆转性的破坏。图8c为5#的拉伸断口样貌，从图中可以看到有“扇形"花样的准解理断口。图8d为冲击断口样貌，图中可以看出这种冲击断裂方式为脆性"扇形"解理断裂，存在明显的解理断裂台阶。图8e为冷弯断口样貌，断口为大小不一的韧窝结合组成，韧窝底部有明显的夹杂物残留。小韧窝围绕着大韧窝生成，这可以用变形过程中的空穴演化规律来解释：首先是较大尺寸的夹杂物或第二相粒子作为韧窝的核形成显微空穴，当显微空穴长大到一定尺寸后，较小的夹杂物或第二相粒子将形成显微空穴并随后长大，与先前形成的显微空穴在长大过程中发生联结，产生了大小不一的韧窝形貌。在冷弯试验中，当外力加载到一定程度，空穴不断形核，最后大空穴的聚合导致材料的表面出现裂纹。此外当闪光留量较大时，闪光对焊接头均出现对接错边，接头质量较差。主要原因是闪光留量过大，过梁爆破时间过长，焊接热输入总量过大，液态金属量过多，顶锻时板材需要挤掉很多液态金属，塑性变形量较大，导致对接钢板难以对准，所以都出现了错边(见图5e)，同时没有将液态金属中的氧化物挤压干净，另外这些区域中尺寸粗大的魏氏体组织较多，组织粗大，接头的塑韧性较低，出现脆性断裂，所以最终导致接头质量较差。
+
+# 3结论
+
+(3)闪光留量过大时，热输入量也大。顶锻过程中会出现严重错边现象，难以将焊缝处的氧化夹杂物挤压干净，严重恶化焊接接头质量。过多的魏氏体组织也进一步恶化接头性能，为了减少魏氏体组织含量和避免错边现象，闪光留量的合理范围为$3 . 5 \sim 5 . 5 \mathrm { m m }$ 。
+
+# 参考文献
+
+生魏氏体组织。
+
+(2)510CL车轮钢闪光对焊接头界面区的硬度最高，峰值硬度范围为 $2 0 1 { \sim } 2 1 9 \mathrm { H V }$ 且热影响区内都出现了软化区域。随闪光留量的增加，热影响区表层和心部的宽度都是先减少后增加，呈开口向上的抛物线形状。闪光留量影响焊接性能的内在本质是闪光留量适度时产生针状铁素体组织，而闪光留量过小时产生块状铁素体组织，闪光留量过大时产
+
+[1] Wang L,Yang X X,Lu JX.Development of high strength steel sheets for lightweight automobile [J]. Iron and Steel,2006,41(9): 1 (王 利,杨雄心,陆匠心.汽车轻量化用高强度钢板的发展[J].钢 铁,2006,41(9): 1)   
+[2] Jiang H T, Tang D, Mi Z L. Latest progress in development and application of advanced high strength steels for automobiles [J]. Journal of Iron and Steel Research,2007,19(8): 1 (江海涛,唐 获,米振莉.汽车用先进高强度钢的开发及应用进 展[J].钢铁研究学报,2007,19(8):1)   
+[3] Liao D H, Cheng A G, Zhong Z H. Study on optimization for automobile safety and lightweight based on variable complexity approximate model[J].China Mechanical Engineering,2013,24(15):2118   
+[4] Li H,Li X. The present situation and the development trend of new materials used in automobile lightweight [J].Applied Mechanics and Materials,2012,189(1): 58   
+[5] Neves J,Loureiro A. Fracture toughness of welds-effect of brittle Zones and strength mismatch [J].J.Mater. Process.Technol, 2004, 153-154(32): 537   
+[6] Feng Q Y,Li TJ,Ding Z M, et al. Research situation and development trends of flash butt welding [J].Mater. Sci. Technol,2008,16 (1): 49 (冯秋元,李廷举,丁志敏等.闪光对焊技术研究现状及发展趋势 [J].材料科学与工艺,2008,16(1):49)   
+7 Huang D N, Zuo Z Z,LiY L. Microstructure,properties and failure mechanism of flash-butt-welded Joint in 380 MPa Wheel Steel[J]. Hot Working Technology,2015,44(3):183-186 (黄东南,左壮壮,李有来. $3 8 0 \ \mathrm { M P a }$ 级车轮钢闪光对焊接头组织 性能与失效机制[J].热加工工艺,2015,44(3):183)   
+[8] Ziemian C W, Sharma MM,Whaley DE.Effects of flashing and upset sequences on microstructure,hardness,and tensile properties of welded structural steel joints [J]. Mater. Des,2012,33(1): 175   
+[9] Benavides S,LiY, Murr L E,Brown D,et al.Low-temperature friction-stir welding of 2024 aluminum [J]. Scripta.Mater,1999,41(8): 809   
+[10] Sun Q Z. Study on microstructures and mechanical properties of flash but welded joints for high strength steels [D]. Changchun:Jilin University,2014 (孙权智.高强钢闪光对焊接头的组织及力学性能研究[D].长 春:吉林大学,2014)   
+[11] Wang WB, Shi Y W,LiYP, et al.FEM simulation on microstructure of DC flash butt welding for an ultra-fine grain steel [J]. J. Mater.Process.Technol,2005,161(3): 497-503   
+[12] LiY J. Welding microstructure and quality control [M]. Beijing: Chemical process press, 2005
+
+(1)闪光对焊这种焊接方式的接头组织具有较高的强度，抵抗塑性变形的能力比母材强。母材与熔合线之间存在的温度梯度影响着晶粒的大小，按照晶粒的大小划分的界面区、粗晶区、重结晶区与部分重结晶区四个部分的界限区分明显。
+
+(李亚江.焊接组织性能与质量控制[M].北京:化学工艺出版 社,2005)   
+[13] Cetinkaya C,Arabaci U.Flash butt welding application on 16MnCr5 steel and investions of mechanical properties [J].Mater.Des, 2006,27(10): 1187   
+[14] Xiong ZH, Liu SL,Wang X M,et al. The contribution of intragranular acicular ferrite microstructural constituent on impact toughness and impeding crack initiation and propagation in the heat-affected zone (HAZ) of low-carbon steels [J].Mater. Sci. Eng.A,2015,636(1): 117   
+[15]Wu D,Zhan X M, Song Y M.Deformation and structure of flash welded joint of $2 0 \mathrm { M n S i }$ steel for endless rolling [J]. Iron and Steel,2002,37(2):43-46 (吴迪,赵宪明,宋玉明.20MnSi钢闪光对焊无头轧制焊缝的变 形及金相组织[J].钢铁,2002,37(2):43)   
+[16] ZhuL,Chen JH. Strength and deformation in HAZ softened welded joints [J].Transactions of the china welding institution,2004, 25(2): 61 (朱亮,陈剑虹.热影响区软化焊接接头的强度及变形[J].焊接 学报,2004,25(2): 61)
+
+(责任编辑:吴 岩)

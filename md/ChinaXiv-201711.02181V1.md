@@ -1,0 +1,186 @@
+DOI:10.13930/j.cnki.cjea.161125
+
+赵清贺，马丽娇，刘倩，丁圣彦，卢训令，曹梓豪，张祎帆．黄河中下游典型河岸缓冲带植被景观连接度及其网络构建[]. 中国生态农业学报,2017,25(7):983-992   
+Zhao QH,MaLJ,Liu Q,DingSY,LuXL,CaoZH,ZhangYF.Landscapeconnectivityand network constructionofriparian vegetation in typical reach of the middleand lowerreachesof Yellow River[J].Chinese Journal of Eco-Agriculture,2017, 25(7):983-992
+
+# 黄河中下游典型河岸缓冲带植被景观连接度及其网络构建
+
+赵清贺¹，马丽娇²，刘倩，丁圣彦1\*\*，卢训令¹，曹梓豪1，张祎帆1(1.河南大学环境与规划学院/黄河中下游数字地理技术教育部重点实验室开封475004;2.许昌职业技术学院许昌461000;3．河南省南阳市环保局南阳473000)
+
+摘要：植被作为河岸缓冲带生态系统服务形成与维持的基础，在维持生物多样性方面，能为多种物种提供栖息地和迁移廊道。因此，本文以黄河中下游典型河岸缓冲带植被为对象，采用遥感解译、景观连接度指标、斑块重要性评价和廊道网络分析相结合的方法，分析 2003年、2009年和2015年研究区的植被景观连接度和斑块重要值变化，并构建河岸缓冲带植被廊道网络，以期为黄河中下游河岸缓冲带生物多样性保护提供支持。结果表明，研究区植被斑块的连接度在 2003—2015年呈增加趋势，且随距离阈值的增大而增大；不同距离阈值下，斑块重要值随斑块面积增大而增大，且随距离阈值增大的而增大；小型斑块 $( 0 { \sim } 5 \ \mathrm { h m } ^ { 2 } )$ 重要值呈增加趋势，中型斑块 $( 5 \mathrm { \sim } 1 0 \mathrm { h m } ^ { 2 \cdot } )$ 重要值呈先增加后降低趋势，而大型斑块 $( > 1 0 \mathrm { ~ h m } ^ { 2 } )$ 重要值呈降低趋势。植被廊道网络分析表明，基于重要生态节点同时考虑沟渠和道路廊道可作为研究区植被廊道网络构建的重要参考。
+
+关键词：河岸缓冲带；植被；景观连接度；斑块重要值；植被廊道网络；黄河中下游中图分类号：K903 文献标识码：A 文章编号：1671-3990(2017)07-0983-10
+
+# Landscape connectivity and network construction of riparian vegetation in typical reach of the middle and lower reaches of Yellow River
+
+ZHAO Qinghe', MA Lijiao², LIU Qian³, DING Shengyan1\*,LU Xunling', CAO Zihao', ZHANG Yifan1 (1.Collge ofEnvironmentandPlanning,HenanUniversity/KeyLaboratoryofGeospatialTechologyforthe MiddleandLower YellowRiverRegions,Ministryofducation,Kaifeng47504,China;2.XuchangVocatioalTechnicalColege,Xuchang46000, China;3.Nanyang Environmental Protection Bureau of Henan Province,Nanyang 473ooo, China)
+
+Abstract:Riparian ecosystems formthe linkages andexchange zones of matter,energy and information betweenaquaticand terrestrialecosystems.Thecharacteristicsofsuch zonessignificantly influenceintegratedlandscapeecosystem functionsfrom landtoriparianregions.Riparianvegetationasanimportantcomponentofriparian ecosystem,isthebasisof theforationand maintenanceofriparianbuferzone ecosystemservices.However,riparian vegetationhasnowbeenwidelyrecognizedas fragile andsensitivesystemrequiringconservationas itundergoes strong disturbancesand great alterationbyanthropogenicactivities globally.Conservationactivitieshavelargelyfocusedontherestorationorcreationofnaturalareas tofacilitate themovementof organisms.Thisisoftenbasedonreliable measurementoflandscapeconnectivityand patch importance.Inthis study,atypical riparianbuferzone inthe middleandlowerreachesofYellow Riverwasanalyzedforlandscapeconnectivityand importanceof riparianvegetation in2O03,2009and2015usingremotesnsing,landscapeconnectivityindexes,patch importanceevaluation andcorrdor-network analysis.Alsothe studyconstructedariparianvegetationcoridor-network inorder toprovidesupport for maintaining biodiversity inriparianbuferzonesinthe middleandlowerreachesofYellowRiver.Theresults indicatedthatlandscape connectivityof riparianvegetationincreased both from 2O3to2015and with increasing threshold distance.Thus the numberoflinks (NL)andthe numberof the largestcomponent (NLC)ofvegetation patches increased from 2003to2015and they increased with increasing thresholddistance.However,the numberof components decreased from2O03to 2015and with increasing thresholddistance.The integral index ofconectivity(IC)and the probabilityofconnectivity(PC)increased with increasing thresholddistance.Underdifferent threshold distances,the importancevalue increased with increasing patch area.Tus with increasing threshold distance,the importance value of small patches $( 0 - 5 \ \mathrm { h m } ^ { 2 } )$ ） increased gradually, that of middle patches （204号 $( 5 - 1 0 \mathrm { h m } ^ { 2 } )$ initially increased and then decreased, while those of large patches $( > 1 0 \mathrm { h m } ^ { 2 } \cdot$ decreased gradually. When the threshold distance was more than $1 0 0 0 \mathrm { m }$ , the importance values of small, middle and large patches became stable, indicating that $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ （204号 was the optimal threshold distance forthe analysisof landscapeconnectivity in thestudyarea.Ultimately，thecorridor-networkanalysis proved tobe important reference for theconstructionof riparian vegetation corridor-network.Itsimultaneouslyconsidered important ecological nodes,ditchesandroadcorrdors inthe studyareaastheestablished vegetation network system had highcorridor node number,network closure and connection degree.In adition,riparian vegetation corridor-networkconstruction should notonlyprioritize theconnection between large patches,butalsoemphasize the stepping-stone role of small and middle patches between the large patches.
+
+Keywords:Riparian buffer zone;Vegetation;Landscapeconnectivity;Patch importantvalue;Vegetationcorrdor-network: Middle and lower reaches of Yellow River
+
+景观连接度探讨相同或不同类型的斑块间在功能和生态过程上的有机联系[1-2]，既可以量化与物种生存息息相关的斑块类型的丰富性和分布的合理性，又可以针对性地探讨景观格局提升和资源可持续发展策略[3]，已在栖息地维护、自然保护区建设、城乡环境规划与景观调控等生产建设实践领域广泛应用[4]。如：梁国付等[5]以不同距离阈值(反映物种在斑块间运动阻力的耗费距离)情况作为区分，研究了道路对巩义市山区森林景观连接度的作用，发现道路明显约束了物种的活动，阻碍了物种的迁徙，对森林景观斑块中连通性的形成起到负向作用；刘世梁等[6]分析了不同种群迁移扩散距离阈值情景下土地整理前后各生境斑块对景观连接度的重要程度，发现大面积斑块和"踏脚石"斑块对维持土地整理生态效益具有重要作用；张宇等[通过对滇金丝猴(Rhinopithecusbieti)分布区进行栖息地连接度分析，确定了植被优先恢复区域；Maguire等8以食草昆虫为对象，权衡森林斑块间的景观连接度对森林生态系统服务的正向与负向作用，发现景观连接度并不总是对生态系统服务产生积极作用，景观连接度越高，越容易促进食草性昆虫虫灾爆发。另外，亦有研究针对电路理论和最低成本路径在景观连接度评估或预测中的缺陷，提出一种简单的、基于个体的替代方法，即“随机运动模拟器”，来提高景观连接度计算的精确性与合理性[9。在研究对象上，主要涉及自然保护区[10-11]、道路建设[5-12]、坡耕地开发[6]、城市建设[13]、湿地保护[14]等，而针对河岸缓冲带植被景观连接度的研究较少。
+
+河岸缓冲带被视为陆地生态系统与水生生态系统的生态交错带，具有多种生态系统服务，尤其是在维持生物多样性方面，能为多种物种提供栖息地和迁移廊道，被认为是物种丰富度的热点区域[15-16]。植被作为河岸缓冲带生态系统服务形成与维持的基础，在河岸侵蚀控制与热量调节、过滤与滞留营养物、净化水质、为野生动植物提供食物和栖息地、提供美学与娱乐资源等方面发挥重要作用[17-19]。但是，受自然因素(气候、河道形态、岸滩结构、洪水周期、河流水动力特征等)和人为因素(城市化、农业种植、放牧、淘沙、水利水电开发等)以及二者的交互作用的影响[17-18]，河岸带植被的组成、结构、多样性与空间分布格局面临严重干扰[20]，尤其是影响其廊道功能(物种生存与迁移)发挥的景观连接度面临严重退化。因此探讨河岸缓冲带植被景观连接度对深入理解河岸缓冲带植被廊道结构及其生态系统服务的维持具有重要意义[21]。黄河中下游河岸缓冲带是重要的生物多样性保护地，如研究区内的河南新乡黄河湿地鸟类国家级自然保护区和主体位于研究区内的郑州黄河湿地自然保护区，动植物资源丰富，仅鸟类就分别有161种和169 种，每年途径、停歇、越冬和繁殖的候鸟达数万只[22]。因此本研究选择黄河中下游典型河岸缓冲带植被为对象，分析不同时期植被景观连接度和反映斑块对景观连接度的贡献的斑块重要值，并基于廊道和网络结构分析构建研究区植被廊道网络，以期为黄河中下游河岸缓冲带植被配置和物种保护提供参考。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+研究区位于河南省境内的黄河中游和下游过渡区域 $( 3 4 ^ { \circ } 4 8 ^ { \prime } { \sim } 3 5 ^ { \circ } 0 1 ^ { \prime } \mathrm { N }$ ， $1 1 3 ^ { \circ } 0 3 ^ { \prime } { \sim } 1 1 4 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } )$ ，西至黄河中游的伊洛河入河口，东至黄河下游的开封黄河大桥，南北分别以黄河南北岸大堤为界，共涉及河南省的郑州、开封、新乡、焦作等4个地级市(图1)。研究区从西向东、由中游向下游形成连续的丘陵-平原过渡景观，具有独特的自然环境特征[23]。黄河在本研究区受河道淤积影响，形成典型的游荡型“地上悬河"[23]，具有较大面积的河岸缓冲带，同时受大堤等水利工程设施的控制，河岸缓冲带又被约束于大堤之内，边界明显。研究区气候属暖温带大陆性半湿润季风气候，具有南北过渡的特点，全年平均气温为 $1 2 { \sim } 1 6 ^ { \circ } \mathrm { C }$ ，年平均降雨量 $5 5 0 { \sim } 6 5 0 ~ \mathrm { m m }$ ，年际变化大，空间分布不均匀[23-24]。研究区植被以杨树(Populustomentosa)、柳树(Salix matsudana)、混交人工林和河漫滩草地为主，林下草本植物以菊科(Compositae)、禾本科(Gramineae)、豆科(Leguminosae)和十字花科(Brassicaceae)为主[24]。研究区土壤质地主要为亚砂土和粉砂土。研究区绝大部分土地已被开垦耕作，但受分散种植效益低的影响，农业产业水平较低[23-24]。
+
+![](images/a1eff9cc72b02fef3008ff479a76a8b478a688ac4456c3cc2fe125994ea697aa.jpg)  
+图1研究区位置Fig.1Location of the study area
+
+# 1.2 研究方法
+
+# 1.2.1 景观分类与生态斑块提取
+
+基于2003年、2009年和2015年冬季共3期分辨率为 $1 5 \mathrm { ~ m ~ }$ 的GoogleEarth影像，参考士地利用现状图，应用ENVI5.1对各期遥感影像进行几何校正并与相关图件进行相对配准等，误差控制在0.5个像元以内。借助数字线画图，采用自视解译方法，对研究区进行景观类型信息的提取。将研究区景观类型分为8类：水体、农田、林地、草地、河漫滩、居民区、沟渠及坑塘，分层提取各景观类型信息。以2014年调查的土地利用类型和植物群落分布数据为基础进行随机样本验证[24]，总体精度达 $90 \%$ 以上，满足本研究分析需求。在景观分类图的基础上，参考相关研究[5-6]，将具有较高生态系统服务价值的草地和林地斑块作为生态斑块(图2)，基于ConeforSensinode2.2软件计算研究区生态斑块连接度指数和斑块重要值。
+
+# 1.2.2 景观连接度指数计算
+
+景观连接度，即景观在促进或阻碍生物体或某种生态过程在斑块间运动的程度[5]。在用ConeforSensinode2.2软件计算景观连接度前，首先需要确定植被斑块的累积阻力耗费距离阈值。累积阻力耗费距离强调景观阻力在一定空间距离上的累积效应[5-10]。如果两个斑块间的阻力耗费距离小于或等于阈值时，代表斑块之间是连通的，反之则不连通。在确定距离阈值时，保护目标的最大迁移距离或活动范围是重要参考。本研究借鉴前人研究[5-6,10-11]，中小型哺乳动物和两栖爬行动物的平均扩散范围在 $5 0 { \sim } 1 ~ 0 0 0 ~ \mathrm { m }$ ，鸟类的平均搜索范围在 $3 0 { \sim } 3 2 ~ 0 0 0 ~ \mathrm { m } _ { \circ }$ 因此，本研究设置$1 0 0 \mathrm { { m } , \ 5 0 0 \mathrm { { m } , \ 1 \ 0 0 0 \mathrm { { m } , \ 2 \ 0 0 0 \mathrm { { m } , \ 3 \ 0 0 0 \mathrm { { m } , \ 4 \ 0 0 0 \mathrm { { m } } } } } } }$ 共6个阀值，在ConeforSensinode2.2软件中分别计算2003年、2009年和2015年研究区生态斑块的景观连接度「由斑块间的连接数(NL)、景观组分数(NC)、最大组分斑块数(NLC)、整体连接度指数(IIC)和可能连接度指数(PC)代表]和不同面积斑块的重要值(dI)，以反映研究区不同距离阈值下景观连接度的变化规律。其中，NL表示在指定的距离阈值内两个不同的斑块连到一起的具体数目。NC是一个二元指数(连接和不连接)，指示功能或结构上互相连接的斑块所组成的整体，不同景观组分之间彼此孤立，不存在生态过程的联系。IIC代表整体连接度，介于0和1之间，其值越大，代表景观具有相对较大的连接度，反之则较小；其值等于1，代表所有斑块属于同一种景观。计算公式如下[5-6]:
+
+![](images/9d6af5b1f084aadace7b69e7ad1bb357859ceff31c5dfc79ede4b7ec30ce61cf.jpg)  
+图22003年、2009年和2015年黄河中下游典型河岸缓冲带生态斑块分布Fig.2Distributionofecological patches inthe typical riparianbuffer zone in themiddleandlowerreachesofYellow Riverin 2003,2009 and 2015
+
+$$
+\mathrm { I I C } = \frac { \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } \frac { a _ { i } \times a _ { j } } { 1 + \mathrm { n l } _ { i j } } } { { A _ { \mathrm { L } } } ^ { 2 } }
+$$
+
+式中: $n$ 表示景观中斑块总数, $a _ { i } , \ a _ { j }$ 分别为斑块 $i$ 和斑块 $j$ 的面积 $( \mathrm { m } ^ { 2 } )$ ， $\mathrm { n l } _ { i j }$ 为斑块 $i$ 和斑块 $j$ 之间的最短路径连接数， $ { A _ { \mathrm { L } } }$ 为研究区总面积(包括生态斑块和非生态斑块)。
+
+PC表示可能连通性指数，介于0和1之间，其值越大，代表景观具有相对较大的连接度，反之则较小；其值等于1，代表所有斑块属于同一种景观;其值等于0，代表斑块之间不具有连接性。计算公式如下:
+
+$$
+\mathrm { P C } = \frac { \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } a _ { i } \times a _ { j } \times { P _ { i j } } ^ { * } } { { A _ { \mathrm { L } } } ^ { 2 } }
+$$
+
+式中：两个斑块 $i$ 和 $j$ 之间具有多种不同的路径, ${ P _ { i j } } ^ { * }$ 表示其中的最大连接概率。
+
+斑块重要值 $( d I )$ 反映景观中某个斑块对景观整体的重要程度或对景观保持连通的责献程度，选取的景观连接度指数不同，计算所得的斑块重要值也不同。计算公式如下：
+
+$$
+d I = \frac { I - I _ { \mathrm { r e m o v e } } } { I } { \times } 1 0 0 \%
+$$
+
+式中： $I$ 是所有斑块都存在时的整体景观连接度，$I _ { \mathrm { r e m o v e } }$ 表示去掉某个斑块以后的景观连接性指数值。斑块 $d I$ 值越大，代表其对整体景观相对重要；反之，则重要性低。不同景观连接度指数的 $d I$ 计算公式是普适性的，本研究根据可能连通性指数(PC)计算斑块的重要性，公式如下：
+
+$$
+d \mathrm { P C } = \frac { \mathrm { P C } - \mathrm { P C } _ { \mathrm { r e m o v e } } } { \mathrm { P C } } { \times } 1 0 0 \%
+$$
+
+式中：PC含义与公式(3)中 $I$ 的含义相同。
+
+# 1.2.3 植被廊道网络构建与结构分析
+
+网络是自然和社会系统中客观存在的现象，抽象地看，网络由许多节点和连接节点之间的廊道组成，其中节点用来表示真实系统中的不同元素或者位置，线段用来表示网络的延展或节点之间的关联程度[10,12]。生态网络构建包括道路廊道、河流廊道、植被廊道等不同类型。本研究从空间角度出发，通过对研究区内植被节点和廊道的选择，采用不同连接方式构建河岸缓冲带植被廊道网络，并通过廊道结构和网络结构分析方法评价各植被廊道网络方案，从而选取最优植被廊道网络方案。其中，廊道结构特征采用节点数(v，其值越大，表明研究区植被网络内集中的植被斑块越多)、廊道数(s，其值越大，表明研究区内节点的连接度越高)、廊道长度(l，连接节点间的连线长度)以及廊道密度 $( \rho$ ，单位面积上廊道的长度，其值越高表明植被廊道网络系统越完善，通达性越好)4个指标；网络特征采用环度指数 $( a )$ 、点线率 $\dot { \left( \beta \right) }$ 、网络连接度 $( \gamma )$ 以及成本比 $( C ) 4$ 个指标。
+
+$\scriptstyle a$ 指数描述网络中回路出现的程度，即网络中实际回路数与网络中存在的最大可能回路数之比，变化范围为 $_ { 0 \sim 1 }$ ， $\scriptstyle { a = 0 }$ 表示网络中不存在回路， $\scriptstyle \alpha = 1$ 说明网络中已达到最大限度的回路数，计算公式如下[25]:
+
+$$
+\scriptstyle \alpha = ( s - \nu + 1 ) / ( 2 \nu - 5 )
+$$
+
+$\beta$ 指数表示网络中每个节点的平均连线数，是网络的复杂性程度的简单度量，取值范围为 $0 { \sim } 3$ ，$\scriptstyle { \beta = 0 }$ 表示无网络存在，随网络复杂性增加 $\beta$ 值增大,其计算公式如下：
+
+$$
+\beta { = } s / \nu
+$$
+
+指数是测度网络连通性的一种度量指标，描述网络中所有节点被连接的程度，即一个网络中连接廊道数与最大可能连接廊道数之比，取值范围为$_ { 0 \sim 1 }$ ，其值为0表示网络内无连线，只有孤立点存在，其值为1表示网络内每一个接点都存在与其他所有接点相连的连线。其计算公式如下：
+
+$$
+\scriptstyle \gamma = s / 3 ( \nu - 2 )
+$$
+
+α、 $\beta$ 、 $\boldsymbol { r }$ 指数是用来测度网络的抽象属性，而 $C$ 指数则考虑了廊道的长度，主要反映网络的有效性其值越低表明建设和实施的难度较低：
+
+$$
+\scriptstyle { C = 1 - s / l }
+$$
+
+网络分析所采用数据为2015年植被数据基础上，通过采用不同方式增加植被斑块所构建的河岸缓冲带植被廊道网络。
+
+# 2 结果与分析
+
+# 2.1河岸缓冲带植被斑块特征与景观连接度随距离阈值的变化
+
+从图3可以看出，河岸缓冲带植被的斑块间的连接数(NL)在3个时期均随距离阀值的增大而增大，距离阈值越大，景观中任意两个斑块间的连接越容易建立。景观组分数(NC)随距离阈值的增加而减少，在距离阈值为 $1 0 0 \mathrm { ~ m ~ }$ 时，景观组分数相对较多，说明研究区植被景观斑块较为破碎，生态斑块的连接度不高；距离为 $5 0 0 \mathrm { ~ m ~ }$ 时，NC值逐年升高，2003年斑块破碎化最为明显；距离阀值为 $1 0 0 0 \mathrm { ~ m ~ }$ 及其以上时，3个时期组分数相差不大，说明在 $1 0 0 0 \mathrm { ~ m ~ }$ 及以上阈值时景观中斑块聚集度大致相同，生态斑块都互相连接程度高。最大组分斑块数(NLC)随距离阀值的增加而增加，在距离阈值为 $1 0 0 \mathrm { m }$ 时，NLC呈逐年增加趋势，NLC的面积呈先增加后趋于稳定趋势，分别占总斑块面积的 $1 2 . 1 8 \%$ 、 $1 4 . 0 6 \%$ 和 $14 . 0 6 \%$ ；当距离阀值大于 $2 0 0 0 \mathrm { m }$ 时,NLC与其面积和比例随距离阀值增大趋于稳定。NC和NLC结果说明研究区植被景观连接度研究的最适宜距离阈值应在 $2 0 0 0 \mathrm { m }$ 以内。
+
+整体连接度指数(IIC)和可能连接度指数(PC)直接反映景观结构动态。由图3可知：IIC和PC在2002年、2009年和2015年均呈增长趋势，且随距离阈值增大呈增大趋势。距离阈值小于 $1 0 0 0 \mathrm { ~ m ~ }$ 时，IC和PC增幅较缓，在3个时期均以2009年最高，2003年和2015年呈交替变化；在距离阈值大于 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 时，IIC 和PC值增幅变大，其中IIC值均以2009年最高,PC值均以2015年最高。IIC和PC结果说明研究区植被景观连接度研究距离阈值拐点为 $1 0 0 0 \mathrm { m } _ { \circ }$
+
+# 2.2河岸缓冲带植被斑块重要值的变化
+
+斑块重要值显示不同距离阈值下每个斑块对景观连接度的贡献，斑块重要值越高，对景观连接度的贡献就越大。
+
+从表1可以看出，研究区植被斑块主要由大型斑块 $( > 1 0 \ \mathrm { \ h m } ^ { 2 } )$ 组成，面积最大；其次为小型斑块$( < 5 \ \mathrm { h m } ^ { 2 } )$ ;中型斑块 $( 5 { \sim } 1 0 \ \mathrm { h m } ^ { 2 } \cdot$ 斑块个数和面积均最低。各类型植被斑块个数在2003—2015年均呈增加趋势，小型斑块和中型斑块面积呈逐年增加趋势，而大型植被斑块面积呈逐年减少趋势。整体上，斑块面积越大，重要值越高，从小型斑块到大型斑块，重要值逐年升高。同一种类型植被斑块类型对比发现，从2003年到2015年，斑块重要值逐渐降低，随距离阈值的增加，小型斑块重要值呈增加趋势，中型斑块重要值呈先增加后降低趋势，而大型斑块重要值呈降低趋势。植被斑块重要值的标准差和变异系数随斑块面积增大而增大，随距离阈值的升高，其变化趋势与重要值平均值相似，说明大斑块受斑块位置及其周边中小斑块数量的影响，重要值空间变异较大。各类型植被斑块重要值均在距离阀值为$\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 时开始趋于稳定。
+
+# 2.3基于景观连接度的河岸缓冲带植被网络构建
+
+斑块与斑块通过廊道相互连接构成网络，在进行河岸缓冲带生态廊道网络构建时，本研究从斑块空间分布、数量、大小和形状等因素出发，基于2015年斑块重要值，首先按斑块面积和位置对网络节点进行等级划分，然后构建4种植被网络预案，最后通过对比不同预案的廊道结构特征和网络结构特征，选择最优方案。
+
+![](images/2a3e9414cee41ca75b606a3d85f510c1e0bcf970c3d7afd4eed2871a3923f445.jpg)  
+图32003年、2009 年和2015年黄河中下游典型河岸缓冲带不同距离阈值下植被景观连接度Fig.3Vegetationlandscapeconnectivityunderdiferent distancethresholdsofthetypicalriparianbuferzoneinthemidleandlower reaches of Yellow River in 2003,2009 and 2015
+
+表12003年、2009 年和2015年黄河中下游典型河岸缓冲带不同距离阈值下斑块面积与重要值Table1Areasandimportancevaluesofvegetationpatches withdiferentareasof thetypicalriparian bufferzoneinthe middleandlower reaches of Yellow River under different distance thresholds in 2003,2009 and 2015  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">年份r</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">200</td><td colspan="3"></td><td colspan="3">Coo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0~5</td><td>2003</td><td>573</td><td>2.48</td><td>1 421.04</td><td>100</td><td>0.02</td><td>0.00</td><td>0.01</td><td>0.02</td><td>0.00</td><td>0.02</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>500</td><td>0.06</td><td>0.00</td><td>0.04</td><td>0.08</td><td>0.00</td><td>0.06</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td></td><td>2009</td><td>697</td><td>2.50</td><td>1 742.50</td><td>1000</td><td>0.07</td><td>0.01</td><td>0.05</td><td>0.10</td><td>0.01</td><td>0.06</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2 000</td><td>0.07</td><td>0.01</td><td>0.04</td><td>0.10</td><td>0.01</td><td>0.06</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td></td><td>2015</td><td>857</td><td>2.50</td><td>2 142.50</td><td>3000</td><td>0.07</td><td>0.01</td><td>0.04</td><td>0.09</td><td>0.01</td><td>0.06</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>4000</td><td>0.06</td><td>0.01</td><td>0.04</td><td>0.09</td><td>0.02</td><td>0.05</td><td>1.41</td><td>1.41</td><td>1.41</td></tr><tr><td>5~10</td><td>2003</td><td>137</td><td>7.14</td><td>978.18</td><td>100</td><td>0.12</td><td>0.01</td><td>0.65</td><td>0.03</td><td>0.01</td><td>0.25</td><td>0.21</td><td>1.36</td><td>0.39</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>500</td><td>0.05</td><td>0.08</td><td>0.51</td><td>0.05</td><td>0.11</td><td>0.54</td><td>1.07</td><td>1.40</td><td>1.06</td></tr><tr><td></td><td>2009</td><td>197</td><td>7.50</td><td>1 477.50</td><td>1000</td><td>0.27</td><td>0.21</td><td>0.14</td><td>0.42</td><td>0.53</td><td>0.17</td><td>1.57</td><td>2.54</td><td>1.17</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2000</td><td>0.28</td><td>0.19</td><td>0.13</td><td>0.44</td><td>0.40</td><td>0.13</td><td>1.56</td><td>2.10</td><td>1.01</td></tr><tr><td></td><td>2015</td><td>241</td><td>7.48</td><td>1 473.56</td><td>3000</td><td>0.27</td><td>0.18</td><td>0.12</td><td>0.41</td><td>0.31</td><td>0.11</td><td>1.52</td><td>1.76</td><td>0.87</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>4000</td><td>0.25</td><td>0.16</td><td>0.11</td><td>0.36</td><td>0.25</td><td>0.09</td><td>1.44</td><td>1.55</td><td>0.79</td></tr><tr><td>>10</td><td>2003</td><td>212</td><td>293.70</td><td>62 264.40</td><td>100</td><td>9.14</td><td>20.26</td><td>6.64</td><td>12.47</td><td>28.26</td><td>9.33</td><td>1.36</td><td>1.40</td><td>1.40</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>500</td><td>5.88</td><td>13.54</td><td>4.16</td><td>7.75</td><td>18.81</td><td>5.66</td><td>1.32</td><td>1.39</td><td>1.36</td></tr><tr><td></td><td>2009</td><td>291</td><td>350.14</td><td>101 890.74</td><td>1000</td><td>1.54</td><td>1.30</td><td>1.13</td><td>2.89</td><td>2.99</td><td>2.20</td><td>1.88</td><td>2.31</td><td>1.95</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2000</td><td>1.62</td><td>1.15</td><td>1.01</td><td>3.07</td><td>2.33</td><td>1.93</td><td>1.90</td><td>2.03</td><td>1.91</td></tr><tr><td></td><td>2015</td><td>348</td><td>249.37</td><td>86 780.76</td><td>3000</td><td>1.55</td><td>1.05</td><td>0.91</td><td>2.92</td><td>1.97</td><td>1.70</td><td>1.89</td><td>1.86</td><td>1.86</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>4000</td><td>1.46</td><td>0.99</td><td>0.83</td><td>2.71</td><td>1.74</td><td>1.52</td><td>1.85</td><td>1.77</td><td>1.82</td></tr></table></body></html>
+
+首先，节点等级划分：重要生态节点和一般生态节点。其中，重要生态节点为植被斑块面积较大(大于10$\mathrm { h m } ^ { 2 \cdot }$ ）、在河岸缓冲带生态系统中生态价值较高的人工林地，根据斑块面积及其重要值提取重要节点11个，其中10个节点均分布于大堤防护林；一般生态节点为植被斑块面积较小、分布于居民区附近的农林草斑块(图4A)。
+
+![](images/cf0e6e0c9e0f945d4db09ea0566c2d78c63dc8cd71928a5e903550f466402c2d.jpg)  
+图4黄河中下游典型河岸缓冲带植被网络节点分布(A)及4种植被网络构建预案(B、C、D、E) Fig.4Distributionof vegetation network node (A)and4constructionplans (B,C,D,E)ofvegetationnetworkofthe typical riparian buffer zone in the middle and lower reaches of Yellow River
+
+其次，基于植被廊道组织目的和水平，本研究采用4种不同的连接方式构建植被网络预案(图4B-4E)。其中，图4B为第1种预案，只考虑连接重要生态节点、不考虑一般生态节点间的连接。图4C为第2种预案，既考虑重要生态节点亦考虑增加对一般生态节点的连接。图4D为第3种预案，考虑研究区道路廊道和沟渠廊道状况，增加一般生态节点和重要生态节点以及廊道之间的联系。前3种方案均将斑块抽象为节点，缺乏考虑大面积斑块的边缘与廊道的连接方式，因此第4种预案如图4E所示，将研究区面积较大的重要植被生态斑块独立出来，改变廊道只与其中心点连接的方式，同时考虑沟渠廊道和道路廊道走向，对节点间的连线做出调整。
+
+最后，通过对比分析不同预案的廊道结构特征和网络结构特征，选择最适合研究区的植被网络构建方案。从图5可以看出，在4个方案中，廊道节点数 $( \nu )$ 和廊道数(s)随网络构建复杂程度增加而增加,与物种栖息地和物质能量交换相关的廊道长度()和廊道密度 $( \rho )$ 均以预案3和4为最高，表明预案3和4在4种预案中较优。网络结构特征表明，预案1和2具有较少的网络回路，每个节点对应的连线数较少、节点被连接的程度较低；预案4拥有最大的网络闭合度、回路最多、节点对应的连线数最多、所有节点被连接的程度最高，具有最高的廊道连通性，有利于各种能量、物质在网络中的循环和流通；预案4成本低于预案3，反映预案4建设和实施的难度低于预案3。总体上，预案4在几种预案中为最优网络。
+
+基于上述分析，根据提取的生态节点，本研究将重要生态节点与廊道之间联系起来构成植被网络的主要框架，将一般生态节点与就近的重要生态节点和廊道建立联系，形成扩散网络，从而形成涵盖和辐射全区域的植被网络系统。最终构建方案如图6所示。
+
+# 3结论与讨论
+
+景观连接度是测度景观对资源斑块间运动的促进或者阻碍作用程度的指标，广泛应用于物种保护和景观格局优化中[3.8]。本研究分析了2003年、2009年和2015年不同阈值下景观连接度和斑块重要值，通过提取节点构建4种植被网络预案，基于廊道和网络结构分析，得到考虑重要植被生态斑块、沟渠和道路走向的最优化植被网络方案。
+
+![](images/1e5e439b3e587a33b66fda0ccc06de558ade6ab99b256fd1fd6d34dcbefe745d.jpg)  
+图5黄河中下游典型河岸缓冲带不同植被廊道网络预案的廊道和网络结构特征指数
+
+植被景观连接度与斑块面积并非呈一般线性关系，而受不同斑块类型组成的影响[10,26]。根据本研究结果，斑块重要值随斑块面积增大而增大，但不同斑块类型在景观连接度中的贡献受距离阈值影响。从研究区植被斑块重要值的变化可以看出，大型斑块的建立有助于提高景观的整体连接度，如2009年大型植被斑块数虽低于2015年，但大型植被斑块面积、重要值和整体连接度指数均高于2015年，因此2009年比2015年具有较高的整体连接度；中小型斑块的建立有利于可能连接度的提高，如2015年中小型斑块数量大于2009年，斑块可能连接度指数随距离阀值增加到一定程度，可能连接度高于2009 年。基于以上结果，在研究区植被网络构建中，应在优先考虑大型斑块之间连接的同时，重视大型斑块之间众多中小型斑块在廊道建立中的踏脚石作用。
+
+前人研究对象多基于特定的物种或种群，在景观连接度计算中基于景观遗传学、最小费用距离与基因流的关系、基因异质性等得到最佳阻力赋值，在最佳距离阈值的确定中结合特定物种或种群的基因特征、分布特征、生境总面积等，所得结果可为特定物种或种群的保护提供策略[3.7-8,11]。除此之外,有不少研究针对特定人为干扰，在不考虑特定物种或种群情况下研究不同干扰对特定区域景观连接度的影响[5-6,12-13]，在厘清景观连接度响应的基础上提出生物保护策略或景观规划策略[4]。但是，针对河岸缓冲带植被景观连接度的研究或规划较少。河岸缓冲带作为区域物种多样性的"汇"[16]，可为多种物种提供栖息地和迁移廊道，但由于不同物种在河岸缓冲带中的迁移、扩散能力不同，针对单一物种或种群开展景观连接度研究并提出优化策略，可能会背离物种多样性保护初衷，后续研究或规划可同时针对不同物种进行景观连接度分析与优化，并考虑生态因子(如海拔、气温、降水等)的异质性对不同物种迁移、扩散的影响，使研究结果更具实际意义。
+
+![](images/fc1278b32220726d97082510299cb5a150d2812cbbe8e93ff14bd1ea92ea8474.jpg)  
+Fig.5Corridor and network structure characteristics of different vegetation network plans for the typical riparian buffer zone in the middle and lower reaches of Yellow River $\nu , \ s , \ l , \ \rho$ 分别表示节点数、廊道数、廊道长度和廊道密度; $\alpha , \beta , \gamma , C$ 分别表示环度指数、点线率、网络连接度和成本比。 $\nu , s , l$ ，and $\rho$ indicate number of nodes,corridor number,corridor length,and corridor density,respectively;α, $\beta , \gamma$ and $C$ indicate circuitry index,line-node ratio,connectivity index,and cost ratio, respectively.   
+图6黄河中下游典型河岸缓冲带植被网络最终构建方案
+
+Fig.6Final vegetation network plan for the typical riparianbuffer zone inthemiddleand lowerreachesofYellow River
+
+另外，河岸缓冲带生态系统功能的发挥受植被廊道长度、宽度、内部生境条件、人类活动以及位置的影响[21,27]，而研究区植被多呈条状分布，宽度太窄不足以形成内部环境，断点太多致使植被廊道不连续，整体呈破碎化中、小型斑块状，因此在构建河岸缓冲带植被廊道时，既要重视廊道宽度又要注意内部生境的复杂性及其与周围景观单元的关系。需要说明的是，本研究区为均质性较强的农业景观，因此景观连接度的计算、斑块组分的划分是依据任何两个斑块间的几何距离，小于景观距离阈值，即认为景观斑块间是连接的，没有考虑景观基质异质性的影响和不同景观单元阻力系数的赋值问题[28]。
+
+本研究结果表明，研究区植被斑块的连接数和最大组分斑块数在2003—2015年呈增加趋势，且随距离阈值的增大而增大，其中连接数在距离阈值大于 $1 0 0 0 \mathrm { ~ m ~ }$ 时增幅变大，而最大组分斑块数在距离阈值大于 $2 0 0 0 \mathrm { ~ m ~ }$ 时趋于稳定；植被斑块组分数在2003一2015年呈减少趋势，且随距离阈值的增加而减少，在距离阈值为 $1 0 0 0 \mathrm { ~ m ~ }$ 时，3个时期组分数差异较小达到稳定；整体连接度指数和可能连接度指数(PC)直接反映景观结构动态，随距离阈值增大呈增大趋势，在距离阈值大于 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 时,IIC和PC值增幅变大；不同距离阈值下，斑块重要值随斑块面积增大而增大，随距离阈值增大，小型斑块重要值呈增加趋势，中型斑块重要值呈先增加后降低趋势，而大型斑块重要值呈降低趋势，在距离阈值大于$\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 时，小、中、大型斑块重要值均在变化中趋于稳定。总体上， $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 应为分析研究区植被景观连接度的最佳距离阈值。通过不同的连接方式对研究区植被进行植被廊道网络构建表明，运用重要生态节点与廊道建立植被网络框架、同时考虑沟渠和道路走向的方式，所建立的植被网络系统具有较高的廊道节点数、廊道数、网络闭合度和连接度，可为研究区植被廊道网络构建提供方法借鉴。
+
+# 参考文献References
+
+[1]吴昌广，周志翔，王鹏程，等．景观连接度的概念、度量及 其应用[J].生态学报,2010,30(7):1903-1910 Wu C G,Zhou Z X,Wang P C,et al.The concept and measurement of landscape connectivity and its applications[J]. Acta Ecologica Sinica,2010,30(7):1903-1910   
+[2]de la Pefa-Domene M,Minor E S.Landscape connectivity and ecological effects[M]//Wang Y Q.Encyclopedia of Natural Resources.New York,NY:CRC Press,2014:317-323   
+[3]Baguette M,Van Dyck H.Landscape connectivity and animal behavior:Functionalgrainasakeydeterminantfor integration of landscape connectivity into comprehensive spatial planning in Spain[J].Landscape Research,2015,40(7): 817-833 [5] 梁国付，许立民，丁圣彦．道路对林地景观连接度的影响- 以巩义市为例[J].生态学报,2014,34(16):4775-4784 Liang G F, Xu L M,Ding S Y.Impacts of roads on woodland landscape connectivity:A case study of Gongyi City,Henan Province[J].Acta Ecologica Sinica,2014,34(16): 4775-4784 [6] 刘世梁，杨珏婕，安晨，等．基于景观连接度的土地整理生 态效应评价[J]．生态学杂志,2012,31(3):689-695 Liu S L，Yang JJ,An C，et al.Ecological effect of land consolidation: An assessment based on landscape connectivity[J]. Chinese Journal of Ecology,2012,31(3): 689-695 [7] 张宇，李丽，吴巩胜，等．基于生境斑块的滇金丝猴景观连 接度分析[J].生态学报,2016,36(1):51-58 Zhang Y,Li L，Wu G S,et al.Analysis of landscape connectivityoftheYunnansnub-nosedmonkeys (Rhinopithecus bieti） based on habitat patches[J].Acta Ecologica Sinica,2016,36(1): 51-58 [8] Maguire D Y, James P M A,Buddle C M,et al. Landscape connectivity and insect herbivory:A frameworkfor understanding tradeoffs among ecosystem services[J]. Global Ecology and Conservation,2015,4: 73-84 [9] Coulon A,Aben J,Palmer S C F,et al.A stochastic movement simulator improvesestimatesof landscape connectivity[J]. Ecology,2015,96(8): 2203-2213   
+[10] Liu S L,Deng L,Dong S K,et al. Landscape connectivity dynamics based on network analysis in the Xishuangbanna Nature Reserve,China[J]. Acta Oecologica,2014,55: 66-77   
+[11] Zhao H D,Liu S L,Dong S K,et al.Characterizing the importance of habitat patches in maintaining landscape connectivity for Tibetan antelope in the Altun Mountain National Nature Reserve, China[J]. Ecological Research, 2014,29(6): 1065-1075   
+[12] Liu S L,Deng L,Chen L D,et al. Landscape network approach to assess ecological impacts of road projects on biological conservation[J]. Chinese Geographical Science, 2014,24(1): 5-14   
+[13] Ren Y,Deng L Y, Zuo S D,et al.Geographical modeling of spatial interaction between human activity and forest conectivity in an urban landscape of southeast China[J]. Landscape Ecology,2014,29(10): 1741-1758   
+[14] McIntyre N E, Wright C K, Swain S,et al. Climate forcing of wetland landscape connectivity in the Great Plains[J]. Frontiers in Ecology and the Environment,2014,12(1): 59-64   
+[15] Jansson R,Laudon H, Johansson E,et al. The importance of groundwater discharge for plant species number in riparian zones[J].Ecology,2007,88(1): 131-139   
+[16] Sabo JL，Sponseller R,Dixon M,et al． Riparian zones increase regional species richness by harboring different,not more,species[J]. Ecology,2005,86(1): 56-62   
+[17] Tang Q，Bao Y H,He X B,et al．Sedimentation and associated trace metal enrichment in the riparian zone of the Three Gorges Reservoir,China[J].Science of the Total Environment,2014,(479/480): 258-266   
+[18]Gageler R,Bonner M,Kirchhof G,et al.Early response of soilpropertiesandfunctiontoriparianrainforest restoration[J].PLoS One,2014,9(8): e104198   
+[19]Méndez-Toribio M,Zermeno-Hernandez I, Ibarra-Manriquez G.Effect of land use on the structure and diversity of riparian vegetation in the Duero river watershed in Michoacan, Mexico[J].Plant Ecology,2014,215(3):285-296   
+[20]KominoskiJS,Shah JJF,Canhoto C,et al.Forecasting functional implications of global changes in riparian plant communities[J].Frontiers in Ecology and the Environment, 2013,11(8): 423-432   
+[21]Fremier A K，Kiparsky M,Gmur S，et al.A riparian conservation network for ecological resilience[J].Biological Conservation,2015,191:29-37   
+[22]赵清贺，卢训令，汤茜，等．黄河中下游河岸缓冲带土壤粒 径分形特征[J]．中国水土保持科学,2016,14(5):37-46 Zhao Q H,Lu X L，Tang Q，et al.Fractal dimension characteristic of soil particle size in the riparian buffer zone of the middle and lower reaches of the Yellow River[J]. Science of Soil and Water Conservation,2016,14(5):37-46   
+[23]徐文茜，汤茜，丁圣彦．河南新乡黄河湿地鸟类国家级自 然保护区景观格局动态分析[J]．湿地科学，2016，14(2): 235-241 Xu W Q,Tang Q,Ding S Y.Landscape pattern dynamic of Xinxiang Yellow River wetland bird national nature reserve, Henan Province[J].Wetland Science,2016,14(2):235-241   
+[24]赵清贺，马丽娇，刘倩，等．黄河中下游典型河岸带植物物 种多样性及其对环境的响应[J]．生态学杂志，2015，34(5): 1325-1331 Zhao QH,MaL J,Liu Q,et al.Plant species diversity and its response to environmental factors in typical river riparian zone in the middle and lower reaches of Yellow River[J]. Chinese Journal of Ecology,2015,34(5):1325-1331   
+[25]Cook E A.Landscape structure indices for assessing urban ecological networks[J].Landscape and Urban Planning,2002, 58(2/4):269-280   
+[26]Ramirez-Reyes C,BatemanBL,RadeloffV C.Effects of habitat suitability and minimum patch size thresholds on the assessment of landscape connectivity for jaguars in the Sierra Gorda, Mexico[J].Biological Conservation,2016,204:296-305   
+[27]Kelly VL.Habitat quality and landscape connectivity of riparian corridors for wildlife in southern Illinois[D].Illinois: Southern Illinois University,2014   
+[28]陈春娣，吴胜军，Douglas MC，等．阻力赋值对景观连接 模拟的影响[J].生态学报,2015,35(22):7367-7376 Chen C D,Wu S J, Douglas MC, et al.Effects of changing cost values on landscape connectivity simulation[J].Acta Ecologica Sinica,2015,35(22):7367-7376

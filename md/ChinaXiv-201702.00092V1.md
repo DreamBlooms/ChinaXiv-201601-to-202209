@@ -1,0 +1,133 @@
+# DOI: 10.5846/stxb201611092272
+
+于丹丹,吕楠,傅伯杰.生物多样性与生态系统服务评估指标与方法.生态学报,2017,37(2);349-357.  
+YuDD,Luadisooc4.
+
+# 生物多样性与生态系统服务评估指标与方法
+
+于丹丹\*，吕楠,傅伯杰中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085摘要：评估、模拟和预测全球生物多样性和生态系统服务的状态、趋势及其对人类福祉的影响，是当前生物多样性和生态系统服务研究领域的重要任务。指标和数据、模型和情景是推动生物多样性与生态系统服务评估研究理论建设和方法集成的重要工具。但是,目前对生物多样性和生态系统服务评估的指标体系和技术方法的综合对比研究相对缺乏。因而,系统评述了生物多样性和生态系统服务评估的概念框架、评估指标以及各类评估模型和方法的最新进展。生物多样性—生态系统功能一生态系统服务—人类福祉的级联框架是极具逻辑性的生物多样性和生态系统服务评估框架。现有的评估指标体系和模型方法还存在很多的问题和挑战，难以充分揭示生态系统服务的形成和影响机制、服务之间的联系和作用机理,有效地指导生态系统服务管理和决策制定。然而,这些评估指标和方法可为构建生物多样性与生态系统服务综合集成模型研究的框架提供重要的切入点。基于此,提出了生物多样性与生态系统服务综合集成模型研究的核心内容;i)目的：基于自然一社会综合特征的情景分析确定所解决的科学问题,输出生态系统服务管理和决策制定方案;ii)内容：尺度、生态系统服务类型、生物多样性的层次结构、组分间相互关系、驱动要素、多源数据的综合分析;ii)方法：对现有的各类模型和模型组合进行比较和不确定性分析，建立符合区域实际需求的生物多样性与生态系统服务综合制图模型库。在此基础上,建议我国应尽快发展适合中国区域特点的标准化指标体系和综合评估模型系统,定期对生物多样性和生态系统服务进行综合评估,掌握生物多样性和生态系统服务的变化趋势,提升我国在生物多样性和生态系统服务研究领域的国际地位和话语权。
+
+关键词：生态系统；框架；指标体系；综合评估模型
+
+# Indicator systems and methods for evaluating biodiversity and ecosystem services
+
+YU Dandan\*，LU Nan，FU Bojie StateKeyblefd
+
+Abstract:Evaluating，simulating，and predictingthe status and trends of biodiversityand ecosystem services，as wellas their impactsonhuman well-being，arecurentlythe primary goals forresearchersinthe fieldofbiodiversityandecosystem services，andindicatorsanddatamodelsandscenariosaremajortoolsforthe theoreticalandmethodological integrationof biodiversityand ecosystem services.However,few detailed studies have conducted comprehensive analyses orcomparisons of indicator systems orreported methods forevaluating biodiversityand ecosystem services.In thispaper，wereviewrecent work regarding theconceptual framework，indicator systems，and various types of modelsand methodsrelated to the assessmentof biodiversityand ecosystem services.Thebiodiversity-ecosystem function-services-humanwel-beingcascade modelisamoreexpressivelogical framework，andowing tovarious problemsand challenges，existing indicator systems and methodsare inefectivefor elucidating the mechanisms thatdeterminethe formationand impactof ecosystemservices，for identifying internalconnectionand function mechanismsamong services，or for ofering guidance forecosystemservice management and policy making.However，existing indicator systemsand methodsprovidean important entrypoint for constructing a syntheticevaluationmodel.Through acomprehensive analysisand comparison ofcurrent indicatorsystems and methods，we propose several coreelements for studies of synthetic evaluation models，including i）Objectives, determining the scientific problemsand developing schemes for ecosystem services management and decision making by scenarioanalysis basedonthe fundamental charactersof interactionsbetweennatureand society；ii）Content，the comprehensiveanalysis of scales，service types，hierarchical nature of biodiversity，relationshipamong thecomponents, drivers，and multi-source data；andii）Methods，conducting comparisonand uncertaintyanalysesofvarious typesof modelsand modelcombinations，inorderto establishacomprehensivemap-making model base system thatissuited for regional analyses.Accordingly，we propose that China should developastandard indicatorsystemanda synthetic evaluation modelof biodiversityandecosystemservicesthat issuitedtothe nation'sregional characteristicsassoonaspossble，in orderto periodically evaluate，simulate，and predictthestatusand trendsof biodiversityand ecosystem servicesand to enhance China's position and power of discourse in the international arena of this field.
+
+Key Words:ecosystem； framework；indicator system；synthetic evaluation model
+
+人类对生物多样性的剧烈影响导致对人类福祉至关重要的生态系统功能和生态系统服务的改变，进而引起全球范围内生物多样性丧失、生态系统服务低下和贫困的恶性循环。过去几十年来,社会各界努力共同应对生物多样性和生态系统服务的退化和丧失。随着《生物多样性公约》（CBD）、联合国千年发展目标（Millennium Development Goals，MDGs）、生物多样性战略与行动计划（National Biodiversity Strategy and ActionPlan，NBSAP）、千年生态系统评估（Millennium Ecosystem Assessment，MA）、泛欧地区整合欧洲 2010 年生物多样性指标（Streamlining European 2010 Biodiversity Indicators，SEBI2010）、生态系统与生物多样性经济学（The Economics of Ecosystems and Biodiversity，TEEB)等计划中生物多样性和生态系统服务价值评估、示范和政策应用、以及2012年生物多样性和生态系统服务政府间科学政策平台（Intergovermmental Science-PolicyPlatform on Biodiversity and Ecosystem Services，IPBES）的成立,使得对生物多样性和生态系统服务的评估能力不断地加强。
+
+在全球范围内,生物多样性保护和生态系统服务研究的开展已有几十年历史。在自然保护区建设、生物多样性与生态系统的监测和研究网络、评价指标体系构建、模型模拟和情景分析等方面开展了大量的基础研究和应用研究。然而,大多数评估或政策的设计和实施中极少考虑生物多样性、生态系统功能和生态系统服务之间的联系[1]。因此,有必要将驱动因素、生物多样性、生态系统功能、生态系统服务的指标体系和技术方法进行分析和总结,以推动生物多样性与生态系统服务评估研究的理论建设和方法集成,进而提高对耦合社会一生态系统组成部分之间重要关系和相互影响的理解,并对其解释予以完善。所以,科学评估生物多样性和生态系统服务提供能力仍然是一项紧迫需求和重要挑战。因此,本文就生物多样性和生态系统服务评估指标、以及各类评估模型和方法的最新进展进行评述,皆在为全球范围内生物多样性和生态系统服务的综合评估提供借鉴。
+
+# 1生物多样性和生态系统服务评估的概念框架
+
+在生物多样性和生态系统服务评估中,概念框架起到指导评估的设计和实施、简化人与自然之间关系、组织评估思路和结构、以及澄清基本科学假设的作用。为此，众多学者、组织机构从生态系统服务作为生态系统(供给)与经济系统(需求)之间的桥梁角度,采用压力一状态—响应模型将生态系统和社会经济系统有机联系起来,构建并逐步完善了生态系统结构、过程、功能、服务与价值的概念框架[2-6]。De Groot 等[3]在联接生态系统服务和人类福祉的框架中,突出了生态系统服务来自生态系统功能,是生态系统结构和过程满足人类需求的能力。Haines-Young 和Potschin 等[6]借鉴De Groot 等[3]的框架理论,提出了“生态系统结构与过程—功能—服务一收益（价值)"的级联框架,强调了生物物理结构对生态系统服务的支撑作用。 $\mathbf { M } \mathbf { A } ^ { [ 7 ] }$ 提出了以生态系统服务和人类福祉为核心的概念框架,基于该框架评估了全球和区域生态系统服务丧失及其对人类福祉的影响。英国生态系统评估(UK NEA)框架建立在MA 基础上,围绕着人类福祉与环境之间的联系,探索生态系统及其服务变化的驱动因素。西班牙生态系统评估框架从生态系统(供给)和人类系统(需求)层面,探索生物多样性、生态系统功能、服务、福祉与价值的级联关系。在MA、英国和西班牙生态系统评估框架基础上,形成了CICES（Common Intermational Classification of Ecosystem Services）的“生态系统结构与过程—功能—服务—收益—价值"的级联框架。IPBES 框架建立在西班牙国家生态系统评估框架基础上，该框架突出了不同时空尺度、不同知识系统内,生物多样性、生态系统、生态系统服务及其变化的驱动力与人类福祉之间的相互作用和影响,并强调以评估框架作为生物多样性和生态系统服务评估研究的“脚手架”,即围绕评估框架探索生态系统服务的形成和影响机制、服务之间的联系和作用机理[1.8]。尽管这些框架对于生物多样性在联接生物多样性和生态系统服务评估框架中的位置和作用并无一致的结论,但框架理论的核心内容和逻辑关系可以概述为以下几点:1)生物多样性支撑了生态系统结构、功能与服务之间的关系;2)生物多样性决定了生态系统过程的量级和稳定性;3)生态系统结构和过程相互作用形成生态系统功能;4)生态系统服务是生态系统功能的产品以及生态系统功能在形成人类福祉中的价值。然而,框架的应用尚处于初级阶段,需要进一步地改进和完善。
+
+# 2生物多样性和生态系统服务评估指标
+
+指标是反映生物多样性和生态系统服务状态与趋势,监督和交流政策目标与进程的重要工具。当前生物多样性和生态系统服务评估指标构建的核心是,发展和完善各生物多样性和生态系统服务评估指标之间的因果联系、逻辑性、整体性,构建综合的、实用的生物多样性和生态系统服务评价指标体系[9]。
+
+根据"生物多样性—生态系统功能一生态系统服务—人类福祉”的级联框架,生物多样性评估是生态系统服务评估的基础,评估的重点和最终落脚点是生态系统服务,生物多样性指标需要选取可能与服务存在直接联系的指标。生物多样性决定了生态系统过程/功能的量级和稳定性。但由于生物多样性和生态系统功能都有很多维度,代表了不同方面性质和意义,因此,生物多样性和生态系统功能这样两个变量之间的关系是很复杂的。然而,对于特定的类型和具体指标,特定的相互关系也可能存在[10]。例如,湿地等生境面积与水质净化和水流量调节、生境结构和美学、物种丰富度和授粉之间是正相关关系;林分密度与生物量和淡水供给之间是负相关关系。但由于缺少数据支撑,目前的研究并未针对所有的生物多样性与生态系统功能指标之间的关系进行验证,对于两类指标之间的关系,更多地基于概念层面上的基本认识。
+
+生态系统功能是产生生态系统服务的基础,而生态系统服务是对人类福祉产生直接惠益的生态系统功能,是在人类社会产生价值的另一种表现形式。所以,生态系统服务评估指标开发的核心是对人类福祉产生直接惠益的生态系统功能指标的筛选和构建。然而,功能与服务之间并不一一对应，每一类服务中的每一项服务都可能由多项功能所产生，只是每项功能所发挥的相对重要性可能不同。例如，供给服务中的粮食供给主要是由支持功能中的土壤形成,调节功能中的气候调节、营养调节、授粉调节、生物控制,以及供给功能中的水量供给、基因资源等一系列生态系统功能综合作用而产生的。又如,调节服务中的空气质量调节主要是由调节功能中的气体调节、气候调节、废物处理与吸收、植物的阻隔效应等一系列生态系统功能综合作用而产生的。正因如此，可以指代或表征某种生态系统服务的生态系统功能指标通常是多元的,它们与生态系统服务指标之间很可能是非线性的关系。但目前仅针对某些生态系统服务产生的生态过程与生态系统服务之间的关系展开了理论探索。因此，完善各生态系统服务产生的生态过程与生态系统服务之间关系的基础理论，同时加强基于生态系统属性特征,精确模拟和预测服务状态和变化的可靠方法(如机理或半机理模型)的开发和应用是当前生态系统服务指标开发的重点。
+
+# 3生物多样性和生态系统服务评估方法
+
+对生物多样性和生态系统服务评估概念框架中包含的生物多样性、生态系统结构、过程与功能、服务与价
+
+值各组分进行分析,探索生态系统服务产生的生态过程与生态系统服务之间、生物多样性与服务之间的相互关系及其驱动因素、以及不同驱动力情景下服务之间的关联性需要结合众多的统计学方法。主要的统计学方法可以概括为基于观测数据的统计分析、Meta分析（Meta analysis)和模型模拟三大类。
+
+# 3.1基于观测数据的统计分析
+
+基于观测数据(一手数据)的统计分析,主要是识别生态系统的过程、功能、资本,量化与不确定测量因子之间的联系。当前,基于观测数据的统计学方法在生物多样性和生态系统服务评估研究中,主要应用在以下几个方面:1)采用概率统计的理论估计方法,衡量取样集捕捉原始数据集数据分布特征的精确性或准确性[11];2)与生物物理模型结合确定生态系统属性特征与最终服务的数学函数关系,定量化最终服务的时空权衡关系及其对生态特征变化的边际响应特征[1-12];3)对生物多样性与生态系统服务进行相关分析,检验生物多样性和生态系统服务之间的相关关系[11];4)采用聚类分析和冗余分析对庞杂的生态系统服务和影响因子集进行重要性排序和分类,将服务之间关系的研究转变为几种典型“服务簇”之间关系的研究,进而根据服务供给特征进行管理单元的聚类分析[13-15]。因此,基于观测数据的统计学方法适用于对生物多样性和生态系统服务评估框架涉及的多源数据进行综合分析、构建生态系统服务功能生产函数、检验生物多样性与服务之间的相关关系和量化生态系统服务间的权衡关系。
+
+# 3.2 Meta分析
+
+Meta分析作为近年来生物多样性和生态系统服务评估研究较为常用的统计方法,其优势在于对涉及较大区域、多样点的挖掘取样数据采用一致的方式收集和综合分析,将单个的统计分析结果链接到生态系统模型[11]。在生物多样性和生态系统服务评估研究中,Meta分析已被用于探讨驱动要素（如气候变化、土地利用变化、外来物种入侵)对生物多样性和生态系统服务的影响,尤其是土地利用变化对生物多样性、营养循环、食物供给服务的影响。然而,由于缺少大区域 、多样点的挖掘取样数据和研究案例,利用Meta分析对联接生物多样性和生态系统服务评估框架各主要组分中,生态系统服务产生的生态过程与生态系统服务之间、生物多样性与服务之间的相互关系、以及不同驱动力情景下服务之间的关联性的研究还未展开。
+
+# 3.3 模拟模型
+
+模型在联接生物多样性和生态系统服务评估框架各主要组分中的主要作用是评估、模拟和预测影响生物多样性和生态系统的驱动力、驱动力对生物多样性和生态系统的影响、以及驱动力、生物多样性和生态系统变化对生态系统服务及其价值的影响[1]。据此,将生物多样性和生态系统服务评估模型分为驱动力情景模型、生物多样性和生态系统模型、生态系统服务模型3类。
+
+# 3.3.1 驱动力情景模型
+
+驱动力情景模型可分为直接驱动力模型和间接驱动力模型。直接驱动力模型主要模拟和预测不同情景下未来土地利用变化、氮沉降、气候变化、捕捞和水资源利用情况等,其情景制定可通过结合基于经验的统计模型（如WaterGAP、地球系统模型）、基于过程的动态模型（如 IMAGE、EwE）和综合模型（如CLUE-S）实现。间接驱动力模型主要用于探索不同决策情景对生态系统状况与人类未来福祉的影响，其情景制定可通过结合动态系统模型（如从宏观经济角度进行政策比较分析的综合模型）、一般均衡模型（如GREEN、GTAP)和局部均衡模型(如IMPACT)实现。在实际应用中,往往通过多种驱动力情景模型的耦合,模拟大尺度最重要的平均特征。例如,Verburg 等[16]运用CLUE-S模型对欧洲未来30年间的土地利用格局变化进行了模拟,运用GTAP 和IMAGE 模型模拟了欧洲未来30 年间的土地需求,并模拟了经济全球化、欧洲大陆市场化、全球协作、区域一体化4种情景下欧洲大陆土地利用变化情况。然而,在区域影响研究中,由于驱动力情景模型输出的空间分辨率较低和缺少区域驱动力信息,很难对区域驱动力做出精确的预测,因而其应用受到限制。尽管降尺度(downscaling)法可以弥补大尺度驱动力情景模型在这方面的不足,但由于缺少对不同模拟对象的定量评价和降尺度过程中的不确定性[17],驱动力情景模型在区域及其以下尺度的模拟和预测结果尚需进一步的研究证实。
+
+http://www.ecologica.cn
+
+# 3.3.2生物多样性和生态系统模型
+
+生物多样性模型主要聚焦于物种/种群、群落、生态系统3个水平：物种/种群水平的主要模型有物种分布或生物地理模型;群落水平的主要模型有群落分布模型、关系网络模型、物种特征方法、物种-面积曲线;生态系统水平的主要模型有生物物理模型（主要关注生物物理维度,如DGVMs)和综合评估模型（还包括社会和经济维度,如IMAGE)。生物多样性模型主要通过种—面积关系、剂量效应模型、生态位为基础的模型、全球植被模型、基于世界自然保护联盟(IUCN)标准的脆弱性经验评估5类方法,评估全球或区域范围内生境丧失或碎裂化与物种灭绝或丧失[1-21]、气候变化对物种分布或多样性格局的影响[22-23]、以及全球变化对植被地理分布格局的影响[24]。然而,由于生物多样性模型的简化假设与缺乏统一的模型性能评价指标和不同方法的交叉验证,模拟结果的精确度方面存在一些不足[24-26]。除此,缺乏对生物多样性与驱动力情景结合的综合评估模型的研究,导致驱动力对生物多样性影响的模拟和预测结果不够稳健。
+
+生态系统模型有生物地球化学循环模型和水文过程模型两大类。生物地球化学循环模型模拟的是全球或区域尺度自然生态系统对大气 $\mathrm { C O } _ { 2 }$ 加倍及相关气候变化的响应，模拟方法有经验模型（如Miami模型预测生产力）、过程模型(分析生物地球化学循环某一过程,如植物光合作用的Farquar 模型)和生物地球化学模型（综合考虑生物地球化学循环全过程或多个过程,如CENTURY、DNDC）。水文过程模型模拟的是气候变化的水文过程(如蒸散)响应,主要有流域尺度的概念性水文模型(如 SACRAMENTO、TANK）、分布式水文模型（如TOPMODEL、SWAT）、以及高分辨率全球尺度水文模型。近年来，随着计算机技术的发展以及GIS与遥感技术的应用,各种动态模型（如IBIS、LPJ-DGVM)和耦合模型（如 BIOME3、MAPSS)不断出现[2],提高了驱动力对生态系统影响的模拟和预测能力。然而,由于模型结构和参数化方面的差异、跨尺度问题、模拟过程缺乏灵活性、数据的匮乏等机理和技术层面的问题,限制了生态系统模型在全球范围的应用和推广[28-29]。除此,生态系统模型缺乏对生物多样性和生态系统过程关系的模拟,与情景模型结合的综合评估模型的研究有待进一步开展。
+
+# 3.3.3生态系统服务评估模型
+
+生态系统服务评估模型可以分为服务的供给模型、服务的需求模型和服务的价值模型。服务的供给模型模拟的是生态系统服务(或其替代指标)的潜在供给能力，主体是生物物理模型。服务的需求模型模拟的是在给定时间内,生态系统服务或产品的消耗。需求相对于供给,可以在时间和空间上变化,其空间分析单元通常是行政单元或规划单元。服务的价值模型模拟的是多元化的服务价值（包括生物物理学价值、经济价值、文化和社会价值、公共健康价值、整体和本土价值),例如,物理学价值核算物理成本（如时间,能源,材料,表面等)和对生态系统和生物多样性的压力水平。服务的供给模拟的方法很多,主要包括野外一手数据、查表法或替代指标法、专家打分法、相关关系法和回归模型法;服务的需求模拟的方法主要包括社会经济统计、问卷调查、生物物理模型;服务的价值模拟的方法主要包括直接市场价格、市场替代、代用市场、陈述偏好、参与式、效益转换法。
+
+在生态系统服务评估模型(图1)研究方面,近十几年来取得的主要进展和研究特征可以概述为以下几个方面:1)模型(如InVEST、ARIES)集中于生态学数据,通过对算法的简化、或采用以空间建模和地理信息系统为基础的“大数据"分析技术、或基于Web 的全球数据库等手段,在全球范围内广泛应用[30-31];2)模型（如EnviroAtlas、EPM)集成国家或特定区域的环境、经济和社会统计数据与专家知识,构建空间情景,优化国家或区域尺度上生态系统服务管理和决策制定[31-32];3)模型（如 EcoMetrix、ESII、LandServer)包含 GIS 数据和地面数据(如气象数据、土壤属性、植被结构、水文状况等)的收集组件,结合地面调查的物理环境因子等作为生态生产函数的输入数据,量化生态系统服务对生态特征变化的边际响应特征[31l;4)模型（如 NatureServe Vista)结合利益相关者偏好,构建融合自然与社会综合特征的情景方案,评估不同驱动力情景下的生态系统服务价值[-3];5)通过加强动态系统模型(如MIMES)的开发,推动对生态系统服务时空演化过程的模拟[31,35];6)模型（如InVEST)具备模拟木材与非木材产品的生产、水电与灌溉水源等服务的供需分析能力,模拟其它服务供需能力的模块正在开发;7)模型（如GLOBIO、EcoAIM、InVEST)包括了生物多样性评估模块,部分模型（如InVEST、ARIES、Envision)模拟了服务间的权衡关系;8)模型更多地模拟了粮食生产、木材和纤维、淡水供给等供给服务,碳固定和排放、雨洪调节、侵蚀调节、水质调节、气候调节等调节服务,以及土壤肥力与授粉两项支持服务。然而,生态系统服务评估模型的开发和应用还处于起步阶段,仍有很多局限和不足：1)模型的适用范围或可推广性有一定的局限性;2)缺少对不确定分析方法的说明;3)生态系统功能和服务仍难以区分，在价值化过程中可能导致重复计算;4)多数模型只模拟服务的供给,包括服务的需求、价值化、受益者偏好及其与人类福祉的联系的综合模型还有待进一步发展;5)虽然一些生态系统服务模型包括生物多样性评估模块，但并未建立起生物多样性与生态系统服务之间的关系;6)与碳、水相关的供给或调节服务(如碳固定、碳储存、粮食生产等)是模拟最多的服务类型,而文化服务的模拟缺乏;7)现有模型需要做更多的交叉验证(cross-validation）。
+
+![](images/fc1b1bd7c44d0d35740e77b07a58c65be573bc21011e6bb677886d9702b41ae0.jpg)  
+图1主要的生态系统服务评估模型  
+Fig.1The main models for evaluating ecosystem services
+
+上述3类方法(基于观测数据的统计分析、Meta分析和模拟模型)从不同角度实现了生物多样性和生态系统服务评估研究的定量化表达，促进了生物多样性和生态系统服务评估工作的开展，但仍需结合案例研究进一步完善理论基础和分析方法,增强对生物多样性和生态系统过程关系、生态系统服务供给、需求、价值化、受益者偏好及其与人类福祉联系的模拟、以及综合评估模型的开发,更好地表达生态系统服务的形成及影响机制、服务之间的联系和作用机理。
+
+# 4生物多样性和生态系统服务评估的集成模型框架
+
+虽然上述的生物多样性和生态系统服务评估研究的定量化方法仍不能直接输出生态系统服务管理和决策制定的方案,但为生物多样性与生态系统服务综合评估方法的开展提供了一些重要原则：1)是综合生物多样性与生态系统服务的集成模型;2)模型的选择应该与特定的评价目标与决策背景相匹配;3)需级联服务的供给、需求与价值;4)需考虑各种生态系统服务产生的生态过程与生态系统服务之间、生物多样性与服务之间的相互关系及其驱动因素、以及不同驱动力情景下服务之间的关系;5)需考虑生物多样性和生态系统服务本身存在时空尺度问题、以及不同生物多样性层次通过时空尺度对生态系统服务的影响。基于此,生物多样性与生态系统服务综合集成模型研究的核心内容包括：1)目的;基于自然—社会综合特征的情景分析,确定所解决的科学问题,如土地利用的优化配置[36-37];2)内容:包括尺度、服务类型、生物多样性的层次结构、组分间相互关系(包括生物多样性与生态系统服务之间、生态系统服务之间）、驱动要素、多源数据的综合分析;3)方法：从模型输入与输出、模型结构、模拟方法、适用尺度等角度对现有的各类模型和模型组合进行对比分析和综合评述,建立符合区域实际需求的生物多样性与生态系统服务综合制图模型库。生物多样性与生态系统服务综合评估模型的构建流程,见图2。
+
+![](images/db769ecb1323703e388ad77e359469ef580c97305793a3515e7a29770a95bb97.jpg)  
+图2生物多样性与生态系统服务综合评估模型构建流程
+
+Fig.2A flowchart for building a synthetic evaluation model of biodiversity and ecosystem services
+
+B：Biodiversity；ES：Ecosystem services
+
+# 5研究展望
+
+生物多样性和生态系统服务评估是生态系统管理和决策的重要依据,指标和数据、模型和情景是推动生物多样性与生态系统服务评估研究理论建设和方法集成的重要工具。现有的评估指标推动了“生物多样性一生态系统功能—生态系统服务—人类福祉"级联框架主要组分之间关系的研究。然而,由于缺少数据支撑和级联框架组分间非线性关系,目前的研究仍未对所有的生物多样性与生态系统功能指标、生态系统功能与生态系统服务指标之间的关系进行验证。同时,数据和研究案例的匮乏、跨尺度问题、模型结构和参数化方面的差异、缺乏统一的模型性能评价指标与不同方法的交叉验证等生态学基础和技术层面的问题,利用现有评估方法仍未能充分量化级联框架主要组分内、组分间关系、以及与驱动要素之间的关联性。除此,现有模型未包含生物多样性和生态系统过程、以及生物多样性和生态系统服务之间关系的模拟,缺乏生物多样性、生态系统服务与驱动力情景结合的综合评估模型的研究。所以,目前难以展开驱动力对生物多样性和生态系统、以及驱动力、生物多样性和生态系统变化对生态系统服务及其价值影响的系统分析与综合评估研究。因此，构建标准化的指标体系和综合评估模型系统应是当前生物多样性和生态系统服务评估研究的重点，这需要在充分认识"生物多样性—生态系统功能—生态系统服务一人类福祉"级联框架各组分内、组分间关系基础上，对指标、方法、模型做进一步的对比分析和综合评述,建立生物多样性与生态系统服务综合评价指标体系和制图模型库。
+
+http://www.ecologica.cn
+
+# 参考文献（References）：
+
+IntergoveretalicolcylafoodiesityndEotSri：ScrearatfntegovetalSyPlatform on Biodiversity and Ecosystem Services，2016.  
+[2]BiningCE,CorkSJParrR,SheltonDNaturalAsets：AninventoryofEcosysteGoodsandServicesintheGoulbuBrokenCatcnCanberra：Report of the Ecosystem Services Project. Canberra:CSIRO，2001.  
+[3]DeGtioaJtftioestdatiooucssdEcological Economics，2002，41(3）:393-408.  
+[4]BoydanfSatareosteserviceedfortadddviroentalaouinitsWasgtoDCResoFuture，2006.  
+[5]HainesYougR，PotsinMProsalforAoonIteatioalClsfcatioofotGosndServices（CE）forIteateEnvironmental and Economic Accounting. New York: European Environment Agency，2010.  
+[6]HainsYu,scoCoetdentatfososdrvsitglislcoePaper to Defra，Project Code NRO1O7.London：Defra,2007.  
+[7]MilltetosaWllVoesfroWouWtDC：Island Press，2005.  
+[8]DiazS,DmisewS,rabiasJ,JolyC,sdale,AshN,rigaudereA,ikariJR,ricoS,ldi,artuskaA,BsteI,inA,BrondizioE,ChanKMA,FigueroaVE,DuraiappahA,FischerM,HillR,KoetzT,LeadleyP,LyerP,MaceGM,Martin-LopeB,Okumura M,PachecoD,PascualU,PérezE,ReyersB,RothE,SaitoO,ScholesRJ,SharaN,lisH,TamanR，WatsonR,YaraT,Hamid ZA,AkosimC,Al-HafedhY,AllhverdiyevR,Amankwah E,Asah ST,Asfaw Z,BartusG,BrooksLA，CailluxJ,Dll G,DarnaediD,DriverA,ErpulG,Escobar-EyzaguireP,alerP,FoudaAM,FuBJ,GundimedaH,HashioS,HomerF,voel,LichtensteinG,Mala WA,MandiveniW,MatczakP,MbizvoC,MehrdadiM,MetzgerJP,MikissJB,MollrH,MooneyHA,MumbyP,NagendraH,NeshoverC,Oteng-YeboahAA，PatakiG,RouéM,ubisJ,SchulzM,SmithP,SumailaR,Takeuchi K,TomasS,VeM,Yeo-CangYtovaDBSoeptualFrameokotigaturedpeol.uetOpioiniotalusabilit2015,14: 1-16.  
+[9]LaykeC，apendeeA，ro，Walle,WinIicaosfrothelobalandsubobalMilliumcosystAes：Ananalysis and next steps.Ecological Indicators，2012，17：77-87.  
+[10]HarisonPA,BerrP,imponG,HasletJR,Blcharska,ucurMDunfdR,EgohB,Garcia-LiorenteM,GeamanaeW,LommelenE，MiresoeL,urkeboF.Linagseteeniodiversityrutesndcostesric：ateaticevitServices，2014,9:191-203.  
+[11]SmithR，DickJ，cottEM.eroleofstatisicsinhnalysisfcosystemservicsEnviroetris,1，22（5）：6-67.  
+[12］江波，WongCP，欧阳志云.湖泊生态服务受益者分析及生态生产函数构建.生态学报,2016,36(8)：2422-2430.  
+[13]RaudseHaCetesoGeettEcosystceeaalygdefsiiesedsarofNational Academy of Sciences of the United States of America,2010,107(11): 5242-5247.  
+[14]Lcatelicdfcale27-36.  
+[15]TumerKG,OgrdMVcrPK，Dalgard,SveingJC.BundingecosysteservicesinDmarkrdeofsandsiesacultural landscape.Landscape and Urban Planning，2014,125：89-104.  
+[16]VerburgH,cotBVaneilH.Ault-aleulti-odelaacfoalynthefuturedamsofEuroeanlnduseAalsof Regional Science,2008,42(1）： 57-77.  
+[17］刘昌明，刘文彬，傅国斌，欧阳如琳.气候影响评价中统计降尺度若干问题的探讨.水科学进展，2012，23（3)：427-437.  
+[18]Pimm SL，RussellGJ,Gitleman JL，Brooks TM.The future of biodiversity.Science，1995,269（5222）: 347-350.  
+[19] Pimm SL,Raven P.Biodiversity：Extinction by numbers.Nature,2000,403(6772）：843-845.  
+20]LewisOatespardhislsactisfaotycSciences，2006,361(1465）：163-171.  
+[21]Pereira HM,Daily GC.Modeling biodiversitydynamics incountryside landscapes.Ecology，2006,87(8）：187-1885.  
+22]PearsoRGwsoredictigepatsofategoistrbiofspsrliaeeloeodelseful?olecology and biogeography，2003，12(5）：361-371.  
+[23]SwabRgHeiOJeelstellotoedlfsitsresponses to global change.Journal of Biogeography，2012，39（7）：1266-1277.  
+[24］车明亮，陈报章，王瑛，郭祥云.全球植被动力学模型研究综述.应用生态学报，2014,25(1)：263-271.  
+[25]LiWKuH.Htesthpedicturacyofspeespreceabseeodelsioutbedatacoay（):788-799.  
+[26]AcakayaRH,ButchartSHM,MaceGM,StuartSN,Hlton-TaylorG.UseandmisuseoftheIUCRedListCriteriinprectigliatechange impacts on biodiversity.Global Change Biology，2006,12（11）：2037-2043.  
+[27］田汉勤.陆地生物圈动态模式：生态系统模拟的发展趋势.地理学报，2002，57(4)：379-388.  
+[28]HeimannM,EserG,Haxeltine，KadukJ，KicklghterDW,KnorrW,KohlmaierGH,McGuireAD,MeloJ,More,OttoRD,PrenticeIC,SficibUrtGaatofebeelsouafalcycle of atmospheric $\mathrm { C O } _ { 2 }$ ：First results of a model intercomparison study.Global Biogeochemical Cycles，1998,12(1）：1-24.  
+[29] 韩海东，艾合麦提·阿西木，刘时银，丁永建.高分辨率全球尺度水文模型发展综述.中国沙漠,2007，27(4)：677-683.  
+[30BgtadVillFGig-ralel：deBilbao：The ARIES Consortium，2011.  
+[31]BagstadKstoksDsoJoteVatiortigbcdStudyof the SanPedroRiver，Watershed,Arizona.Scientific InvestigationsReport.Reston：U.S.Geological Survey,2012.  
+[32]PickardneJacE,ali：gsaiaeodmanagement.Ecosystem Services，2015，14：45-55.  
+33]CristrksfuVblesedeaicaludAlgoUSsdic2012.  
+[34]CristPaburyKCar,akJlforsapeLeveAessmentang：uideforeNrthacifcdsaeCooCooperative.Arlington：NatureServe，2014.  
+[35]WaageSsrogK,HagLadKsissiaigdsiaopleiutiyndUcertyIdentifying，Assessing，and Valuing Ecosystem Services. San Francisco：BSR,2011.  
+[36]FuBJ,ZangLW,XuZH,ZhaoY,WeiY,kierDEcosystemservicesinchanginglanduse.JoualofSolsndSedients5,15(4):833-843.  
+[37]Seppelt,utebachSolkentfiradeoffetwecoseservicsandsedodiesitypleafoobgaanalysisandoptimizationondiferent spatialscales.CurrntOpinioninEnvironmental Sustainability，2013,5(5）：458-463.

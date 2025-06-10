@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701180159 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周佳雯,高吉喜,高志球,杨伟超.森林生态系统水源涵养服务功能解析.生态学报,2018,38(5):1679-1686.  \nZhouJW,GaoJaangalneseatiiefoforestostctaEolcaca（）：1679-1686.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林生态系统水源涵养服务功能解析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周佳雯¹，高吉喜2,3，\\*，高志球³，杨伟超",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1南京信息工程大学应用气象学院，南京210044  \n2环境保护部南京环境科学研究所，南京210042  \n3南京信息工程大学气象与气象灾害协同创新中心，南京210044",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：森林水源涵养功能作为森林生态系统服务的一个重要方面,在国内的研究已有数十年的历史。多数研究中将森林水源涵养功能狭义地等同于森林对降雨的拦蓄能力或对径流的调节能力,而忽略了其对各水文过程的整体性作用以及对气象和土壤因子的综合性影响。此外,在不同研究区域中,对于森林水源涵养功能的理解和研究方法往往一概而论,并未考虑研究区域的自然条件特性和社会经济特征,这使得研究结果的区域针对性不足,限制了对其进一步的应用推广。针对上述问题,在全面分析森林水源涵养的含义和特征之后,定义了不同区域的水源涵养功能内涵和主导服务,并给出了不同区域森林水源涵养功能的适宜计算方法,以期为不同区域森林水源涵养功能的全面提升和水源涵养林生态修复工程提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水源涵养；区域；主导服务",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analyzing the water conservation service function of the forest ecosystem ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Jiawen1， GAO Jixi2,3,\\* ，, GAO Zhiqiu³， YANG Weichao",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1SchoolofApplied Meteorology，Nanjing Universityof Information Science&Technology，Nanjing 210044,China   \n2Nanjing Instituteof Environmental Sciences，Ministryof Environmental Protection，Nanjing 21o042,China   \n3Clbi 210044，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Because itisan important aspectof forestecosystem services，the water conservation function of forest ecosystemshasbeenresearched inChina forseveraldecades.Inmostof the studies，theforestwaterconservation function wasnearlyequivalenttotheabilityoftheforesttostorerainorregulaterunoff，whichneglecteditscomprehensiveffcton otherhydrological processes，aswellasboth weatherandsoilfactors.Inaddition，theunderstanding andresearch methods forthe forest water conservationfunction wereoften generalizedin diferentresearch areas.Thenaturalconditionsandsocioeconomiccharacteristicsofthe studyareas werenotconsidered，which weakened theregional pertinencyof theresearch resultsandrestricted theirfurtherapplication.Toprovideascientificreferencefortheall-inclusiveimprovementoftheforest water conservation functionand the forestecologicalrestorationprojectsinvariousregions，thispaper comprehesively analyzed heconceptionsandcharacteristicsofforest waterconservation，defined thediferentcomponentsoftheregional water conservation functionand leading service，and ofered suitable calculation methods forthe forest water conservation function in different regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:water conservation；region； leading service",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林生态系统水源涵养功能是森林生态系统服务的重要组成部分,是森林与水的相互作用在生态系统服务领域的集中体现。在现有研究中,狭义的森林水源涵养功能一般指森林拦蓄降水或调节径流的能力,而广义的森林水源涵养功能则体现在森林各结构层次在各水文过程中的作用[1],在森林水源涵养功能的具体效应主要包括森林产水、净水、拦洪、补枯等方面。现有研究中,无论是狭义还是广义,均将森林水源涵养视为森林与的水这一单一生态因子间的相互作用,忽略了森林水文过程对其他生态因子的间接影响。另外,森林与水的相互作用受到地形、气候、土壤、植被等多个因子在不同的时空尺度的影响,使得森林水源涵养功能存在显著的尺度效应和区域效应。此外,不同水源涵养区的自然状况和社会经济条件存在客观差异,森林生态系统服务所需满足的人类需求不一而足,森林水源涵养功能中各效应的重要性具有显著不同。与此同时,森林水源涵养功能的不同效应间存在一定的内禀矛盾,导致森林水源涵养功能的各个效应的实现难以同步。明晰森林水源涵养功能的综合性、区域性、尺度性和内在相互制约性,才能进一步地对其进行更深人地探讨和研究。 C/>5",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养功能作为生态与水文学科交叉的研究热点,由于其特有的复杂性,尚未形成一个公认的定义。由于研究对象的定义模糊,森林水源涵养功能的计算方法尚无统一的标准。这主要体现在功能定义缺乏完整性和系统性,计算方法的针对对象和尺度特征尚未界定清晰。因此,准确研究森林水源涵养功能,需对其内涵进行充分清晰的认识。基于上述原因,本文系统分析了森林水源涵养功能的定义、组成和特征,分析和划分不同研究区域,并在此基础上厘清各区域水源涵养功能的主导服务和研究方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1森林生态系统水源涵养功能辨析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 国内森林水源涵养功能定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着森林水文学研究的深人，人们对森林水源涵养功能的认识也在不断拓展和更迭。20世纪60 年代，森林水源涵养的概念由苏联传入我国,认为森林能够均匀地释放水源[2];后来,定义拓展为森林生态系统通过林冠层、枯落物层和土壤层拦截滞蓄降水,从而有效涵蓄土壤水分和补充地下水、调节河川流量的功能[3-4]。逐渐地,森林对降水的影响[5]、森林蒸发散、森林对径流的影响[6]和森林对水质的影响[7]等受到重视。目前,人们对森林水源涵养功能的认识更为辩证,比如森林保水与保土的关系[8]、森林对地表和地下径流的分配[9] 、森林削减洪峰[10]和补给枯水径流的能力[11]等。如今,森林水源涵养功能的内涵发展为由水源供给、调节径流、水质净化等多种服务组成的整体。但在具体的研究实践中,研究者往往只选取现有定义中的一个或若干个效应作为森林水源涵养功能的全部,各效应间的主次关系和权重确定较不明晰,这是由于对功能内涵和研究对象的认识不够充分所致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2国外森林水源涵养功能研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在国外研究中,水源涵养一词一般指广义的水资源保护[12],与国内的水源涵养研究内容不符,而与之意义相近的有水源蓄留和水文调节。前者通常指森林的某个垂直层次对降水的滞留能力[13」,属于森林水文研究范畴。后者是指生态系统对进水文过程的各个环节施加作用的过程和能力[4],属于森林生态系统服务领域。在千年生态系统评估（MA）[14]中,森林生态系统服务分类中森林对水的作用被分为了淡水供给、水文调节和水质净化3类,这一内涵与国内研究中的水源涵养功能内涵大体相近。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3森林水源涵养功能的界定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T 综合国内外研究进展,可以看出森林水源涵养功能是一系列复杂多元的生态系统服务综合体,为人类提供着多种供给和调节服务。森林水源涵养功能在作用因子、服务内容和服务类型上均具有多元性（表1）。于是,研究认为狭义的森林水源涵养功能是指发生在森林水文过程中的森林与水的相互作用,即森林供给淡水、调节水文和净化水质的功能。而广义的森林水源涵养功能则又包括了森林中的拦蓄、产流、蒸腾、入渗等各水文环节对的气候和土壤因子产生的影响。概括地讲,即为森林水文过程对森林生态系统非生物因子（水、气、土)产生所有的直接作用和间接影响,既包括森林与水的直接作用(供给淡水、调节水文、净化水质),也包括",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林水文对土、气的间接作用(减少水蚀、调节气候）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2森林水源涵养功能对生态系统要素的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1森林水源涵养功能对水文因子的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 森林的淡水供给作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林的淡水供给指的是从森林生态系统中产出的水量,体现在森林对年径流的影响。森林结构、森林类水Water型、森林覆盖率和森林火灾等均会影响森林对径流的作用。森林结构组成影响森林生态系统的径流量及径流过程,森林结构组成越复杂,径流系数越低[15]。不同类型的森林间径流系数存在很大差异[16-17]。虽然苏联[18]集水区实验和国内的部分流域的实验[19]中得出的结论认为森林的存在会增加河川径流，但国内外绝大多数的研究支持森林覆盖率的增加会减少流域年径流[20-23] 。森林火灾通过影响森林的蒸散发来影响年净流量，火灾后林地的产水量通常会增加,并随着森林植被的恢复而逐渐降低[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0da6b5caa6d486132302dd0f3851efa27ddc028a35a38351ac6269dccc23c73.jpg",
+        "table_caption": [
+            "表1森林水源涵养功能的作用因子、服务内容和类型",
+            "Table 1 Function factors,service contents and types of forest water conservation function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">作用因子 服务内容</td></tr><tr><td>Function factors</td><td>Service contents 淡水供给</td><td>Service types 供给服务</td></tr><tr><td colspan=\"3\">水Water</td></tr><tr><td colspan=\"2\">水质净化</td><td>调节服务</td></tr><tr><td colspan=\"3\">水文调节 调节径流 拦蓄洪水</td></tr><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">补给枯水</td></tr><tr><td colspan=\"3\">气 Atmosphere 气候调节 增加湿度</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2森林拦蓄洪水的作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林通过林冠层、地被层、土壤层3个垂直分层对降水进行截持、缓冲和蓄纳。降水进入林分后,林冠层对降水产生拦截作用,截留过程延续整个降雨事件,雨止后截留水量最终耗于蒸发。森林枯落物层增加了地表粗糙度,可以减缓径流速度、延长径流时间、增加水分入渗量,从而减少了地表径流。在降雨落入土壤表层后,可以通过入渗作用进入土壤层中,其中一部分即被土壤层吸附和贮存,其余的水量则转化为地下径流。这些作用使得森林具有调蓄洪水和削减洪峰的能力。研究表明,小流域森林覆盖率每增加 $2 \\%$ 时,约可以削减洪峰 $1 \\%$ ,当流域森林覆盖率达到最大值 $1 0 0 \\%$ 时,森林削减洪峰的极限值为 $4 0 \\% - 5 0 \\%$ ［25］。但森林对洪水的拦蓄和削减作用并不是无限的,在降雨量或降雨强度较小的情况下,森林拦截洪水的作用较大,但对于连续降雨与强降雨,森林的作用逐渐减弱甚至消失[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3森林补给枯水的作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于森林覆盖度对枯水径流的影响,在国际上存在两种截然相反的观点。多数研究认为森林覆盖度减少能增加枯水径流。例如,Sorensen 等[27]的研究表明,森林砍伐后增加的地表径流大部分为枯水期径流,枯水期流域基流量增加了 $5 8 \\% { \\stackrel { } { - } } 9 9 \\%$ 。另一种观点认为，森林覆盖度减少会引起枯水径流量的减少[22],这可能是由于枯枝落叶层消失,土壤紧实,蓄水能力减弱,枯水期入渗能力减弱引起的[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.4森林的水质净化作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林有改善水质的功能,因此森林流域被认为是清洁水源的发源地[29]。森林的净化功能,主要是由植被覆盖和土壤生物完成的。林外降雨与林冠层、枯落物层、土壤层三者之间的过滤吸附和淋洗淋溶作用,使污染物和富余的营养物质被滞留、移除。前苏联在莫斯科和高尔基省的联合集水区研究表明,降水中污染物经过森林生态系统各层次作用,不仅种类减少,浓度也大为降低[30]。降水进入森林后,其养分元素含量一般均有所增加[31-32]。森林采伐后会造成森林地表层长期积蓄的有机质、碱性物质、重金属等的不断分解与流失[33],而增加森林覆盖率有可能改善森林流域的水质[34]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2森林水源涵养功能对土壤因子的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养功能对土壤的影响主要体现在森林减少土壤水蚀的作用,土壤水蚀是世界上分布最广、危害最为普遍的一种土壤侵蚀类型。坡面土壤侵蚀主要是由雨滴击溅、坡面径流引起,而森林生态系统可以通过各个垂直层次截留和蓄纳降雨,在防治土壤水蚀方面意义重大[3]。森林冠层能有效地消减天然降雨的雨滴动能,减少降雨侵蚀力强度。李桂静等[36]在我国南方红壤区马尾松林的实验结果表明,马尾松林冠可以降低林外雨 $2 1 . 8 \\%$ 的降雨动能。森林的地被层可以增大地表径流的阻力系数,减少径流冲蚀的动能。此外,森林发达的植被根系增加了土壤的毛孔空隙度和非毛孔孔隙度,有效提升了土壤入渗能力,减少了地表径流率，同时也降低了径流所带走的泥沙总量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 森林水源涵养功能对气象因子的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "森林与气候的关系是森林生态系统研究的重要课题。一些学者认为森林可能具有增雨作用,理由是森林能向大气中输送大量水汽和凝结核,同时森林增加了下垫面的粗糙度,有利于气流的抬升运动,森林的反射率比邻近的无林地区小,被森林吸收并用来产生降水的热量将比无林区要多[37],以上要素都有助于林地降水的产生。此外,森林还具有调节区域小气候的作用,这是由于森林的林冠层可以削弱太阳辐射,降低地表温度，同时林木蒸腾作用可提高周围空气的湿度,森林降温增湿的作用被称为“绿岛”效应。在夏季，一棵高大乔木相对于裸地可以使局部气温降低4— ${ \\cdot 8 } \\%$ ,湿度则增加 $5 0 \\%$ [38] C/2",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3森林水源涵养功能的特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1森林水源涵养功能的综合性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养功能是包含了供给淡水、调节水文、净化水质、调节气候、减少水蚀等多重供给服务与调节服务的综合体,直接或间接作用于生态系统的各要素,并对生态-社会-经济复合体产生重要的影响。森林水源涵养功能研究并不是各个服务功能的简单加和,而是对整个功能系统的综合反映。在具体的研究实践中，不能只片面地注意到某一个或某几个服务，而忽略了其他服务的贡献和价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2森林水源涵养功能的区域性和主导服务性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养功能是服务于具体的研究区域的,由于区域的自然和社会条件在时空分布上的不均匀性，不同区域对森林生态系统的水源涵养需求截然不同。例如干旱区和洪涝区、水源区和水蚀区、都市群和非都市群在对水、土、气各要素的供给和调节有着本质不同的需求。在不同的区域,需要优先提供的服务类型即为该区域的主导服务,在该区域森林的水源涵养功能实现,应本着主导服务优先,次要服务相协调的原则,在突出主导服务的基础上争取综合功能价值的最大化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3森林水源涵养功能的相互制约性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在森林水源涵养功能中,不同服务的实现并不是总是相互协同的,存在着两个或多个服务间相互制约、相互拮抗的情况。例如,森林覆盖率减少可以增加流域年径流量,但同时会增加径流中的泥沙含量[8];森林蒸发量增加有利于调节气候,但会减少生态系统的淡水供给。所以,水源涵养功能的实现需要深入地分析各服务间的关系,在考量某个或某几个服务的同时,需要最大可能地确保其他服务能力处于适宜范围之内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4森林水源涵养功能的尺度效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养功能是涵盖于生态系统服务领域之中的,所以生态系统的尺度效应自然在该功能的作用过程中有所体现。研究结果在尺度推译和区域拓展过程中的有效性和适用性常常受到质疑[1]。这就需要研究者针对研究区域的尺度特征后,选择适宜的研究方法。同时,在尺度外推过程中,应充分考虑参数的尺度效应和研究数据的可靠性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4不同区域森林水源涵养功能的主导生态效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "森林通过对水文、气象、土壤多个因子进行作用,实现其水源涵养功能,并满足当地人们生产生活的需要。通过分析我国不同区域的自然地理条件和社会经济条件,理解区域森林水源涵养功能及其主导生态效应的差异(表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1干旱区 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国是一个水资源相对短缺的国家,尤其是在西北部干旱地区,常年干旱少雨,甚至产生季节性断流现",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "象。干旱地区森林的服务功能是尽可能地增加人们可直接利用的水资源供给,还要在枯水期释放水源,即持续而均匀地补给区域水源。因此,该区域的主导服务为淡水供给和枯水补给两方面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 洪泛区",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在我国南方湿润地区,夏季强降水事件较多,洪涝灾害频发,历年的防汛工作消耗大量人力物力。因此，该区域的森林主要发挥着拦截暴雨的作用,洪泛区森林水源涵养功能的主导效应是森林拦蓄洪水的作用,该区域的水源涵养林建设应以提升林地对暴雨的拦蓄能力为首要目标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 水源地",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在重要的水源地,森林产流主要用于提供人们的生产生活用水,该区域水源涵养林需要既要保障充足的水量供给又要保证水质的清洁,因此水源地森林水源涵养功能的主导效应是水源供给和水质净化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4 水蚀区",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在我国水蚀现象较严重的区域，森林主要通过减少降水和径流的动能以及减少荒地面积来预防和控制土壤侵蚀现象。该区域森林主要起到减轻水蚀、保土固土的作用。 \\~.g",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.5 城市区",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "都市群中的森林或城市内部小型森林可以通过持续不断的蒸腾作用来增加周边区域的空气湿度、降低温度;同时,森林具有较高的反射率,可以减少城区内的太阳辐射。城市区森林的存在有效抑制了城市的热岛效应,极大地改善了人居环境。所以,调节城区气候是该区域森林水源涵养功能的主导效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b13d168ac0d163a89173704b2657acd63ae16d805837009ba78e1dcc40cd8c7a.jpg",
+        "table_caption": [
+            "表2区域森林水源涵养功能主导效应",
+            "Table 2Dominant effect of regional forest water conservation functiol "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域 Area</td><td>主导效应 Dominant effect</td><td>区域 Area</td><td>主导效应 Dominant effect</td></tr><tr><td>干旱区 Arid area</td><td>水源供给、补给枯水</td><td>水蚀区Water erosion area</td><td>减少土壤水蚀</td></tr><tr><td>洪泛区Flooded area</td><td>拦蓄洪水</td><td>城市区 City area</td><td>调节气候</td></tr><tr><td>水源区 Catchment area</td><td>水源供给、水质净化</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5森林水源涵养的研究方法讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "森林水源涵养的研究方法主要分为蓄水法、降雨贮存量法、水量平衡法、综合指标评价法、多元回归法等[39],这些方法绝大多数只针对于森林水文效应进行计算评估,而对水源涵养功能中的净化水质、调节气候和减少水蚀作用少有提及。同时,由于对水源涵养量含义的理解存在分歧,各类方法所表征的物理量存在很大差异,每种方法都存在研究对象和时空尺度上的适用性与局限性（表3、表4)。在对特定区域的森林水源涵养功能进行研究时,需要依据森林水源涵养的目的、原理以及研究区尺度特性选取适宜的研究方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区森林水源涵养功能主要表现为生态系统维持和水源供给服务,森林接收的降水量除去其本身蒸散消耗的即为水源涵养量。而洪泛区森林的水源涵养功能则侧重于森林拦蓄洪水的作用,因此湿润区水源涵养量的计算应着重体现森林各组成层次的蓄水能力。水源区森林的水源涵养功能需要综合考量森林产流能力和净水能力。水蚀区的森林水源涵养功能主要体现在减弱水蚀的作用,即森林相比裸地的土壤侵蚀减少量。在城市区,森林可以调节区域气候、缓解“热岛效应”,其功能计量可用通过气候适宜度等健康气象指标来表征。需要注意的是,在反映区域森林水源涵养功能的主导效应的同时,应考虑其他服务的综合效益,做到统筹兼顾客观全面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6展望 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)由于森林水文中的若干过程的机理性研究长期存在着争议和分歧,如森林对降水的影响、对年径流量的影响和对枯水径流的影响等,使得森林水源涵养功能物理内涵的确定和生态效应的评估存在困难和争议。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "森林水文研究里的难点，长期制约着森林水源涵养生态服务的研究和应用。深人地探究和揭示森林水文过程和其物理机制,是森林水源涵养功能研究的理论基础,也是水源涵养林建设和生态修复工程开展的科学保障。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0169d2b42b1a5c908785c9c825adbe73c83fb0bc038ff55ddc57715e8a160590.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [
+            "Q:水源涵养量(mm），water conservation;I:林冠截留量 $\\mathrm { { ' } m m } ^ { \\cdot }$ ,canopy interception; $W _ { l }$ 为枯落物层有效持水量 $\\left( { \\bf m } { \\bf m } \\right) ^ { \\cdot }$ ，literlayerffectiveholdingcapacity; ${ \\boldsymbol { \\it W } } _ { s }$ 为土壤蓄水量（mm），soil layer storage capacity;P为降雨量( $\\mathbf { m m } )$ ，rainfall; $\\alpha _ { 0 }$ 为裸地径流率 $( \\% )$ ,bare land runoff rate $\\alpha _ { f }$ 为林地径流率 $( \\% )$ ,woodland runoff rate $R$ 为径流量（mm）,runoff;△Rg为林地相对于裸地的地下水位增长量( $\\bf \\Pi _ { \\mathrm { m m } } )$ ,the increase of groundwater level of woodland relative to bare land;“—\"表示不适用"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table3 Measurement method，principle，applicable object and scale o forest water conservation</td></tr><tr><td rowspan=\"3\">方法名称 Method name</td><td rowspan=\"3\">方法原理 Principle of method</td><td rowspan=\"3\"></td><td rowspan=\"3\">适用对象 公式 Equation Applicable object</td><td rowspan=\"3\"></td><td colspan=\"4\">最适尺度 The optimal scale 空间尺度 Spatial scale</td></tr><tr><td>实测</td><td>模拟</td><td>实测</td><td>时间尺度 Time scale 模拟 Simulation</td></tr><tr><td>Actual measurement</td><td></td><td>Simulation</td><td>Actual measurement</td></tr><tr><td>综合蓄水法 Intergrated storage capacity method</td><td>冠层截留、枯落物层持水以及 Ⅱ</td><td>土壤层蓄水三者之和 枯落物层持水与土壤层蓄水</td><td>Q=I+W+Ws</td><td>洪水拦蓄</td><td>坡面</td><td>所有尺度</td><td>次降雨</td><td>所有尺度</td></tr><tr><td rowspan=\"3\">水量平衡法 Water balance method</td><td></td><td>之和</td><td>Q=W+Ws</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>降雨量减去林地蒸散量</td><td>Q=P-E</td><td>淡水供给</td><td>坡面</td><td>所有尺度</td><td></td><td>所有尺度</td></tr><tr><td>Ⅱ</td><td>认为森林蒸散与径流均为耗 损项</td><td>Q= P-E-I</td><td></td><td></td><td>流域、区域、</td><td></td><td></td></tr><tr><td>模型法 Model method</td><td>I</td><td>水量平衡原理 Ⅱ水量与能量平衡原理</td><td>InVEST</td><td>淡水供给</td><td></td><td>全球</td><td></td><td>年</td></tr><tr><td>土壤蓄水法</td><td></td><td>土壤层蓄水量</td><td>SEBS、SCS Q =W±</td><td>洪水拦蓄</td><td>坡面</td><td>所有尺度</td><td></td><td>日、月、年</td></tr><tr><td>Soil storage capacity method 林冠截留量法</td><td></td><td>降雨量除去冠层截留蒸发量</td><td>Q=P-I</td><td>洪水拦蓄</td><td>坡面</td><td></td><td>次降雨</td><td>所有尺度</td></tr><tr><td>Canopy interception method 降水储存量法</td><td></td><td>与裸地相比,林地减少的径流量</td><td></td><td>洪水拦蓄</td><td>坡面、流域</td><td>所有尺度</td><td>次降雨</td><td>所有尺度</td></tr><tr><td>Rainfall storage method 年径流量法</td><td></td><td></td><td>Q=P(αo-ap)</td><td></td><td></td><td>所有尺度 流域、区</td><td>次降雨</td><td>所有尺度</td></tr><tr><td>Annual runoff method</td><td>林区年径流量</td><td></td><td>Q=R</td><td>淡水供给</td><td>流域</td><td>域、全球</td><td>年</td><td>年</td></tr><tr><td>地下径流法runf mehd 综合指标评价法</td><td></td><td>森林相对于裸地增加的地下径流</td><td>Q=△Rg AHP 法、</td><td>水供</td><td></td><td>流区</td><td></td><td>月、年</td></tr><tr><td>Composite indicator assessment method</td><td></td><td>建立生态系统水源涵养功能指标 体系,计算综合指标</td><td>主成分分 析法等</td><td>洪水拦蓄</td><td></td><td>所有尺度</td><td></td><td>所有尺度</td></tr><tr><td>多因子回归法</td><td></td><td>根据气象因子与下垫面特征等建</td><td></td><td>淡水供给、</td><td></td><td></td><td></td><td></td></tr><tr><td>Multiple factor regression method</td><td>立经验模型</td><td></td><td>经验模型</td><td>洪水拦蓄</td><td></td><td>所有尺度</td><td></td><td>所有尺度</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a105a0a23b375db732a6a34cdc77c48a75f2dd5d909cd616c167710b6b96d14.jpg",
+        "table_caption": [
+            "表3森林水源涵养量计量方法、原理、适用对象和尺度",
+            "表4不同森林水源涵养量计量方法的局限性",
+            "Table 4Limitations of different measurement methods of forest water conservation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法名称Method name</td><td>局限性Limitations</td></tr><tr><td>综合蓄水法 Intergrated storage capacity method</td><td>计算结果为森林潜在的最大蓄水能力,不能反映真实蓄水量</td></tr><tr><td>土壤蓄水法 Soil storage capacity method</td><td>仅考量土壤层的最大持水能力，计算结果不准确且不全面</td></tr><tr><td>林冠截留量法 Canopy interception method</td><td>仅考量林地冠层的截留能力，计算结果不全面</td></tr><tr><td>水量平衡法 Water balance method</td><td>计算结果较为可信，但未知量测量难度大</td></tr><tr><td>模型法 Model method</td><td>只能在较大尺度上进行估算</td></tr><tr><td>降水储存量法 Rainfall storage method</td><td>计算结果为相对值，而不是绝对值</td></tr><tr><td>年径流量法 Annual runoff method</td><td>难以进行短期测算</td></tr><tr><td>地下径流法Groundwaterrunoff method</td><td>忽略了地表径流量,计算结果不全面</td></tr><tr><td>综合指标评价法 Composite indicator assessment method</td><td>指标权重的确定存在难点</td></tr><tr><td>多因子回归法 Multiple factor regression method</td><td>属于经验模型,适用范围窄</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)森林水源涵养功能是一个综合性的有机整体,应注重对于其整体效应的评估,不能只是单个效应简单机械的拼凑。深人研究水源涵功能各服务间的相互作用,需要考虑到主导效应和各辅助效应间的相互耦合，在突出主导效应的同时兼顾辅助效应。此外，还应重视森林水源涵养各功能区的边界划定和区域间的辐射效应,力求真实反映各区域森林水源涵养功能的整体效益,以期达成区域水源涵养生态系统服务功能量和价值量的综合提升。 2",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)虽然有许多研究者利用集水区实验或3S技术等多种研究方法,对于我国各典型区域森林的水源涵养能力和价值在多个尺度上进行大量的计算和分析,但由于缺乏对森林水源涵养能力概念的理解不同,其理论内涵和计算方法间难以在物理定义和尺度效应间进行有效地匹配或推算,严重地限制了森林水源涵养研究结果的分析和应用价值。因此,在未来的研究中,需要针对各研究区域的具体情况确立研究对象,并根据具体研究对象的物理定义和尺度特征，针对性地完善定量化计算方法或评价体系,提升研究方法的准确性和研究体系的统一性。 C5775",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］张彪，李文华，谢高地.森林生态系统的水源涵养功能及其计量方法.生态学杂志，2009,28（3）：529-534.  \n[2] 莫尔察诺夫AA，杨山.森林的水源涵养作用.林业科学，1960，（2)：161-174.  \n[3] 孙立达，朱金兆.水土保持林体系综合效益研究与评价.北京：中国科学技术出版社，1995.  \n[4] 曹云，欧阳志云，郑华，黄志刚，邢芳芳.森林生态系统的水文调节功能及生态学机制研究进展.生态环境，2006，15(6)：1360-1365.  \n[5] 闵庆文，袁嘉祖.森林对于降水的可能影响：几种分析方法所得结果的比较．自然资源学报，2001，16(5)：467-473.  \n[6] 魏晓华，李文华，周国逸，刘世荣，孙阁.森林与径流关系——一致性和复杂性.自然资源学报，2005，20（5）：761-770.  \n[7] Austin S.A Forest Water Quality Literature Review,2006,95.  \n[8] 麻泽龙，宫渊波，胡庭兴，于增瑞.森林覆盖率与水土保持关系研究进展.四川农业大学学报，2003,21（1)：54-58.  \n[9] 石健，郭小平，孙艳红，孔冬莲.森林植被对径流形成机制的影响.水土保持应用技术,2006，（2）：5-8.  \n[10] FerreiraS,ieteoideddfrcieveioutiateroucsc4(8): 8529.  \n[11] Komatsu H,Kume T,Shinohara Y，MiyazawaY ,Otsuki K.Did annual run-off and low flow decrease with reduced forestry practices in Japan?Hydrological Processes，2010,24(17） :2440-2451.  \n[12]LandonAC,KyleGiserRreditiplceifoatidsetialdoateoseatprgoalHydrology，2016,536:26-36.  \n[13]ZgYZ,XiaQuSGidityaterretentodmehacalpsalaltyfstrglyidicliolendwithasfrom different feedstocks. Journal of Soils and Sediments，2016,16(1)：177-190.  \n[14] Millnnium Ecosystem Assessment.Ecosystems and Human Well-eing:Synthesis.Washington DC：Island Press,2005.  \n[15] Miler C，BrewerDG，CovingtonWW.ForeststructureandsurfacerunoffintheupperLakeMarywatershed，Arizona.Hydrology&WaterResources in Arizona & the Southwest，2007,14(2）:16-27.  \n[16]Levia D F, Germer S.Areviewof stemflowgenerationdynamicsandstemflow-environment interactionsin forestsandshrublands.ReviewsofGeophysics，2005,53(3） : 673-714.  \n[17] 鲁绍伟，毛富玲，靳芳，余新晓，饶良懿.中国森林生态系统水源涵养功能.水土保持研究，2005，12（4)：223-226.  \n[18] Molchanov AA. Hydrological Role of Forestry. Academy of Science USSR，Moscow,1963.  \n[19 周晓峰,赵惠勋,孙慧珍.正确评价森林水文效应．自然资源学报,2001,（05）：420-426.  \n[20] 刘世荣.中国森林生态系统水文生态功能规律.北京：中国林业出版社，1996.  \n[21] Swank WT,CrossleyDAJr.Forest HydrologyandEcologyatCoweta.New York：Springer Verlag，1988,66：469-469.  \n[22] BoschJM,HwletJDArviofcatcentexperientsteteinethtofvegetatiochangonateryielddeapotraspiatioJournal of Hydrology，1982,55(1/4）：3-23.  \n23]Abarioaleoueigfdtcerisinorthern Iran.European Journal of Forest Research,2017,136(2）：375-386.  \n24]MoodyebobSrsearsssaost-ileoffrosioprtScience Reviews，2013，122：10-37.[25］中野秀章.森林水文学.李云森，译.北京：中国林业出版社，1983.  \n［26］陈军锋，李秀彬.森林植被变化对流域水文影响的争论.自然资源学报，2001，16(5）：474-480.  \n[27]Srense,ingE,eiliboLbrabs,oH,spKestesticeasofosuiglooiboreal streams.Ambio，2016，38(7)：357-363.  \n[28］戴洪刚，梁虹，杨秀英，张美玲，周亮广.枯水径流研究综述.水科学与工程技术，2006，（5）：1-4.  \n[29］谢江左，康文星.植被系统调蓄水量的功能研究.湖南林业科技，1996，23(1)：53-58.  \n[30] 陈鑫.森林植被变化的水文生态效应研究进展.农技服务，2016，33（7)：144-144.  \n[31］李文宇，余新晓，马钦彦，石青，刘萍.密云水库水源涵养林对水质的影响.中国水土保持科学,2004，2（2）：80-83.  \n[32］甘健民，薛敬意，谢寿昌.云南哀牢山中山湿性常绿阔叶林的降水化学.东北林业大学学报，1997,25（1）：8-11.  \n[33] 卢杰，张硕新，方江平，郑维列.藏东南高山松天然林水文过程中养分元素变化特征．自然资源学报，2016,31（1)：151-162.  \n[34]KreyeMM,AdamsDC,EscobedoFJ.Thevaueofforestconservationforwaterqualityprotection.Forests，014，5（9)：6-84.  \n[35］张颖，牛健植，谢宝元，余新晓，朱建刚，李维.森林植被对坡面土壤水蚀作用的动力学机理.生态学报，2008，28（10）：5084-5094.  \n［36］李桂静，周金星，崔明，闫帅.南方红壤区马尾松林冠对降雨雨滴特性的影响.北京林业大学学报，2015，37（12）：85-91.  \n[37］宛志沪，潘虹，杨书运.森林增雨效应的实例分析.安徽农业大学学报，2006，33（2）：155-159.  \n[38］刘家贞.树木对改善市区生态的重要作用.安徽林业，2005，（2)：25-25. O［39］苏艳霞，李海毅，高婷婷.我国水源涵养林研究概况.广东农业科学，2013，40（13）：173-176.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

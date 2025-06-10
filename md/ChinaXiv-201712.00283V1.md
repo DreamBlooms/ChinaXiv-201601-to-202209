@@ -1,0 +1,148 @@
+# BIM+VR技术在打造精品住宅工程中的应用
+
+# 杨文博高峰朱洁吴睿李彬
+
+（中建五局第三建设有限公司，长沙410004）
+
+【摘要】随着建筑业信息化程度的不断提高,为更好地提高精装住宅工程施工质量,加强总承包管理能力,改善工程施工管理水平,本文以天津八里洲碧桂园项目实际施工情况为例,介绍了如何运用 $\mathrm { B I M } + \mathrm { V R }$ 技术打造精品住宅工程。文章内容涵盖了三维可视化技术交底、标准层虚拟汇验、VR级精装样板、质量信息三维数据库、辅助虚拟验收、4D进度管理、临边防护模拟、三维场地布置、VR级云平台管理等多个方面。通过 $\mathrm { B I M } + \mathrm { V R }$ 技术的联合应用,提高了精装住宅工程的施工质量,保障了施工过程的安全生产,降低了实体样板的施工成本，实现了精装住宅工程的精细化管理和绿色施工。
+
+【关键词】 $\mathrm { B I M } + \mathrm { V R }$ 虚拟样板；4K级节点样板；质量信息三维数据库；VR级云平台管理【中图分类号】TU17;TP391.98 【文献标识码】A 【文章编号】1674-7461(2017)04-0026-05【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.04.05
+
+# 1工程概况
+
+1天津八里洲碧桂园一期逸彩庭苑16-37#楼及地下车库工程项目项目位于天津市津南区,北侧为二八线，西侧为泰和路，南侧为阁榭路，本工程地上共20栋单体及配套地下车库，总建筑面积$6 \Omega 5 7 . 9 7 \mathrm { m } ^ { 2 }$ ,其中地上建筑面积 $5 1 ~ 8 5 1 . 2 4 \mathrm { m } ^ { 2 }$ ,建筑：高度最高为 $9 8 . 6 \mathrm { { m } }$ 。项目整体如图1所示，别墅建筑模型如图2所示。
+
+# 2工程特点
+
+(1)本项目工程质量目标高，争创天津市“金奖海河杯”;
+
+(2)别墅区建筑外立面造型最复杂，且专业多，协调难度大;
+
+(3)高层区为精装交房工程，施工工艺流程复杂，常规手段难以保证施工质量，且设计图纸信息不完善，需进行大量二次深化设计。
+
+# 3 BIM组织与应用环境
+
+（1)BIM应用目标
+
+天津八里洲碧桂园项目开工前结合项目重、难点及土建专业技术需求，编制了详细的BIM技术实施策划，包含了场地布置、样板可视化交底、BM砌块排布、屋面深化设计、三大样板建立、4D进度模
+
+![](images/3c8c6a0429eb2dafd05ff18e762226f86ac9c63f9869a6e922dc8c6aa027f5a3.jpg)  
+图1 项目整体
+
+![](images/c31ebd307fc8f6ea222429ce8453cdaefeb224a8c8bc6975cd8dfca6acd16b43.jpg)  
+图2别墅建筑模型
+
+【作者简介】杨文博(1990-）,男,助理工程师,主要研究方向:BIM与施工管理;高峰（1981-）,男,工程师,主要研究方向：建筑工程施工管理。
+
+拟、质量信息化实名制管理、安全分析等各项实施内容，力求以BIM技术解决传统施工中难以实现的施工质量提升问题。
+
+# (2)实施方案
+
+在本项目实施开始前，先行制定了完整的BIM技术实施策划；在初期实施阶段中，本项目制定较为详细的建模计划，根据CAD图纸绘制了土建结构、建筑精装、市政园林、工艺样板等模型，并将各专业图纸信息进行整合，同步结构、建筑、消防、暖通、机电等建筑信息模型，建立公共区域及个户型功能用房等实体样板。在中期实施阶段中，建立了模型库、制定了VR级BIM云管理平台应用计划，创新性地尝试了 $\mathrm { B I M } + \mathrm { V R }$ 虚拟样板的建立，完成了虚拟工艺样板、实体样板、交房样板三大样板体系,并结合VR技术及时对操作工人进行交底，明确工艺流程及技术质量要求，为真实地反映虚拟样板的细部节点，项目还创新性性地尝试了4K级节点样板，方便移动端及PC 端的动态查询。
+
+# (3）团队组织
+
+工程开工伊始,便确立了全面应用BIM技术的目标，成立了以公司总工程为顾问，分公司总工为组长的 BIM应用领导小组,涵盖了技术部、质量部、工程部、安全部、商务部等五大职能部门通力配合的实施小组。
+
+# (4)应用措施
+
+为了全方面实现项目BIM团队管理,对各专业分包进行BIM管理严格控制，以制度的形式进行规范化，建立BIM模型，方便各专业之间的沟通，实现多专业之间模型共享，通过合理的岗位职责确保BIM推进的有序进行。
+
+# (5)软硬件环境
+
+项目采用Revit2014、MagicCAD、Navisworks2014、广联达算量软件（GCL）、广联云、BIM5D、AfterEffectsCS4、Photoshop CC、Auto CAD2014、3d Max2014、Fu-zor2017管理平台等软件进行BIM模型的搭建及应用。
+
+# 4 BIM应用
+
+# 4. 1 BIM建模
+
+项目BIM模型主要基于Revit平台分专业创建中心文件及工作集，将各专业信息模型整合后，同步至Fuzor管理平台进行校验及汇总。通过可视化、碰撞检测、3D测量等手段运用，预判可能会产生的实际问题，对项目精细化实施提供帮助，并以Fu-zor 管理平台中的3D模型与二维CAD视图对照系统的基础，多视点创建相应的平面图或是立面图，对模型中的细部节点进行深化设计，对各专业中的细部构件建立企业级参数化族库，确保模型的深度等级不低于LOD400。
+
+# 4.2 BIM应用情况
+
+# (1)三维可视化技术交底
+
+天津八里洲碧桂园项目根据公司要求，制作了基础防水工程、底板钢筋工程、碗扣架支撑体系、钢背楞锁具体系、封闭式模板楼梯、混凝土结构工程、BM 砌体工程、薄抹灰工程、平屋面工程、坡屋面工程、门窗工程、外墙保温工程等12项虚拟工艺样板。同时，为确保虚拟样本的模型精度，天津八里洲碧桂园项目对各类构件及配件进行了参数化族的建立，满足可视化技术交底的要求。项目内部虚拟样板模型如图3所示。
+
+(2)标准层虚拟汇验
+
+为明确交房标准，本项目建立了各户型虚拟交房样板，明确户内墙面、地面、吊顶等精装做法。通过净高分析、冲突管理及时对影响净空高度、碰撞冲突的构件进行精准定位，分析影响因素。通过对3D测量的运用，还可对各公区完成面的户内开间进深、执行净空进行检测(图4)，对各功能用房进行虚拟汇验，提前发现各专业存在的问题，为后续大面积施工奠定了坚实的基础。
+
+![](images/7f3061e9b6ae96e01902009c3250a99ba114de57b3de489db39b82d88b7c089b.jpg)  
+图3项目内部虚拟工艺样板模型
+
+![](images/6b5550d9b81afa62c418892d4acef9514743fc045cf7371dbede210eb78a1998.jpg)  
+图4标准层虚拟汇验流程
+
+# (3)VR级精装样板
+
+一本项目为精装修交房工程，为打造高端精品住宅的品质，我们利用BIM技术做出三维立体模型，并与全方位感知的VR技术相结合实现虚拟样板间看房，提前展示建筑精装修效果，为业主在房间家装风格、空间格局利用、颜色合理搭配、家具尺寸定制软装空间位置以及建材种类选择等方面提供了更加专业化抉择。细节之处尽收眼底，提供给使用者视觉、听觉、和触觉的直观感受,还原了真实的“未来家居场景”。项目内部虚拟精装交房样板模型如图5所示。
+
+(4)质量信息三维数据库
+
+质量是企业的生命，稳定的质量是产品立足的基石，为此我们利用了BIM技术的数字化集成体系，将现场实测的主体结构质量信息录入在移动终端，方便、快捷地将实测实量信息、质量问题照片与三维模型相关联，建立三维质量信息数据库，并生成质量实名制信息记录表（图6），实时了解不满足要求点数量、部位、成因等质量问题，确保混凝土结构内实外光、墙面平整、阴阳角顺直、外延线条整齐划一。
+
+![](images/4571ab9af48fe14247c72fb38786c4acd123e1cf7d172c160a6efe4710556769.jpg)  
+图6质量信息三维数据库工作流程
+
+![](images/d65eac04d65709fffac230920bc242c0672a55330a7b63129ca244f36b7d5f2d.jpg)  
+图5项目内部虚拟精装交房样板模型
+
+# (5)辅助虚拟验收
+
+在各工序施工前，天津八里洲碧桂园项目通过BIM技术，将庞杂的图纸信息准确地集成在BIM数据模型中，施工人员在日常验收过程中，通过对移动端BIM信息模型的查询，不仅可以形象直观地了解到工艺节点，对复杂的别墅外立面造型、门窗洞口尺寸、构件截面信息，内外墙建筑做法，地面做法，材料信息、实测实量信息等进行动态查询（图7），实现三维模型与CAD图纸的无缝对接，还可以辅助施工人员进行节点验收，提高工作效率。
+
+![](images/a5ac715f4b319061e3886ffac8d9d1e353cae5d889e1d53961bb9a8f61481b2a.jpg)  
+图7移动端BIM数据模型查询辅助虚拟验收
+
+(6)4D进度管理
+
+我们将多专业信息模型进行整合，同步项目模型,并将Project进度计划与三维模型各构件相关联，从而实现现场施工进度的4D虚拟建造过程（图8)，分析影响施工工期的主要因素，实现施工进度可视化管理,节省了日常进度管理的作业时间，达到优化施工进度，简化施工流程，节约工期成本的目的。
+
+![](images/e26010c8ded7161724921a4c87b48313241bae61b2ee2fd4a5039e63e91040af.jpg)  
+图8标准层虚拟汇验流程
+
+# (7)临边防护模拟
+
+>为保证施工现场安全生产，我们利用安全分析系统，对可执行高度和安全距离进行检查分析，快速查找主体结构中潜在的危险点，对临边洞口等部位进行模块化防护工具虚拟布置，并生成数据化清单（图9），对定型临边防护进行工厂预制加工，确保安全防护合理化部署。
+
+![](images/127c56d08804e00c6cd2c34269e4370eb60e1a9b820af6fa310d3121d8ae9aec.jpg)  
+图9项目内部虚拟精装交房样板模型
+
+# (8)三维场地布置
+
+本工程将VR技术的信息交互特点与BIM技术的虚拟建造特点相结合，把二维图纸上的施工平面图变成更有空间感的信息数据模型，方便项目管理人员从任意视角去体验施工部署的合理性，更为直观地感受施工场景，打造更合理的场地布置，为今后的二次场地转换提供可视化的帮助。项目内部三维场地布置模型如图10所示。
+
+![](images/1d5893103704bb7f80e9290239c078087f22c51787402c513fa40e016069bd5b.jpg)  
+图10项目内部三维场地布置模型
+
+(9)VR级云平台管理
+
+施工模型往往包含丰富的信息，造成模型文件巨大，一般计算机无法查看，通过全景影像技术将模型轻量化，减轻BIM应用对计算机性能的依赖，便于项目内普及。同时，借助720云 $\mathrm { B I M } + \mathrm { V R }$ 级云管理平台（图11），可将项目模型、工艺样板、交房样板、场地布置、进度照片等信息上传到云管理平台。公司领导、项目管理人员可以通过PC 终端、web端、或移动端扫描二维码的方式，进行动态查询，随时随地了解项目信息，并通过云平台软件实现项目远程管理。
+
+![](images/59d3f188a9bfa05e8f3314f25a4bbb0d9841b6e0e3865b56981f470e67052234.jpg)  
+图11项目720云 $\mathbf { B I M + V R }$ 级云管理平台
+
+# 5结论
+
+通过 $\mathrm { B I M } + \mathrm { V R }$ 技术在三维虚拟样板建造中的应用，解决了使用实体工艺样板、实时效果不佳且占用临设用地的问题。克服了实体工艺样板施工工序复杂、周转不方便、成本高的缺点，通过VR级虚拟样板的建立累计节约成本48万元。项目虚拟样板平台二维码如图12所示。
+
+SBES品
+
+综上所述，本工程通过利用BIM 技术来实现方案前期策划、实施以及各类质量、安全等风险评估，与传统的施工管理方式相比，提高了施工进度，保障了安全生产，降低了施工成本。同时，我们利用BIM $^ +$ VR 技术率先实现施工样板的可视化技术交底，并通过云平台进行共享管理，改变了传统技术交底的管理方式，提高了精装住宅工程的施工质量。在今后的BIM技术应用过程中，我们将努力创新BIM技术在项目管理中有更大的突破，不断在该领域进一步应用与推广，为今后探索BIM技术的发展不断总结重要经验。
+
+# 参考文献
+
+［1］曾波，朱洁，杨文博，等.BIM技术在大型城市综合体工程智能建造中的应用[J].建筑施工，2017（6)：903-905.  
+［2］白雪海，许蓁.虚拟·体验·互动—Fuzor 软件在建筑设计教学中的综合性应用[C].2015年全国建筑院系建筑数字技术教学研讨会，2015.  
+［3］丁华营，梁清淼，吴延宏，等.BIM技术在华润深圳湾国际商业中心项目中的集成应用[J」.土木建筑工程信息技术，2016，8(2)：54-59.  
+[4]Mehmet Yalcinkaya,Vishal SinghPatternsand trendsin-BuildingInformation Modeling（BIM）research:A Latent-Semantic Analysis[J].Automation in Construction，2015(7):18-23.  
+［5」杨文博，朱洁，曾波,等.BIM5D技术在砌体工程标准化施工中的应用[J].天津建设科技，2017，27（2）：29-31.
+
+# Application of $\mathbf { B I M + V R }$ Technology in Construction of Fine Residential Projects
+
+Yang Wenbo，Gao Feng，Zhu Jie，Wu Rui，Li Bin (3rd Construction Co.， Ltd.，of China Construction 5th Enginering Bureau， Changsha 410004，China)
+
+Abstract：The higher level of construction informatization has improved theconstruction qualityof the fine residential projects，strengthen theoverallcontracting management abilityand generated beter construction management for project.This paper takes the construction situation of the Country Garden Project in Balizhou，Tianjin as an example，to introduce how to use $\mathrm { B I M } + \mathrm { V R }$ technology to build high-quality residential project. The content covers 3Dvisualization technologydisclosure，virtual testof standard layer，VR hardbound model,3Dquality information database，auxiliary virtual acceptance,4D schedule management,，border protection simulation,3D site layout，cloud platform management using VR，and etc. Through the application of combined $\mathrm { B I M } + \mathrm { V R }$ technology , theconstruction quality of residential hardcover project is improved，the production safety during construction processis ensured，the construction cost of theentitymodel is reduced，and finally，the fine management and green construction of hardcover residential project is realized.
+
+Key Words : $\mathrm { B I M } + \mathrm { V R }$ Virtual Model； Node Sample at 4K Class；3D Database of Quality Information；Management with Cloud Platform Using VR

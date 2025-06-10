@@ -1,0 +1,302 @@
+# 儿童在不同卷入情境下基于资源价值的分配行为特点：内群体偏爱的作用
+
+刘璐 肖雪 刘丽莎 徐良苑 张旭然 李燕芳（北京师范大学中国基础教育质量监测协同创新中心，北京100875）
+
+摘要：为探究不同卷入情境下儿童基于资源价值的分配行为特点以及内群体偏爱在其中的作用，呈现给儿童两种实验情境：实验一，134名5\~8岁儿童在第一方情境下与来自内、外群体的一名儿童分配不同价值的物品，结果发现7\~8岁儿童公平分配比例与5\~6岁儿童无显著差异；实验二，130名5\~8岁儿童在第三方情境下给来自特定群体的两名儿童分配资源，结果发现7\~8岁儿童公平分配比例显著高于5\~6岁儿童。两个实验均发现儿童的分配行为表现出内群体偏爱，5\~6岁儿童比7\~8岁儿童更明显。并且，5\~6岁女生比男生有更明显的内群体偏爱，但在7\~8岁组无性别差异。此外，只有7\~8岁儿童的公平分配行为表现出卷入情境上的差异，他们在第三方情境比第一方情境下更能做出公平分配，但5\~6岁儿童的公平分配行为并无情境差异。综上可见，比起年幼儿童，年长儿童基于资源价值的公平行为发展得更好，并且在两种卷入情境下受内群体偏爱的影响均更小。
+
+关键词：资源价值；分配行为；内群体偏爱；第一方情境；第三方情境
+
+# 1前言
+
+公平是世界各国都重视和推崇的道德认知内容，我国也是如此，它不仅是我国传统文化思想的重要内容，也是现代的社会主义核心价值观的重要理念。资源分配的公平性是儿童道德发展的重要内容，是指个体按照公平或道德的方式来分配资源(Hsu,Anen,&Quartz,2008)。“平等”是判断资源分配是否公平的原则之一(Deutsch,1975)，指每个接受者获得相等的资源。研究者认为平等不仅包括数量平等，即每人获得相等数量的资源；也包括价值平等，即每人获得相等价值的资源(Chernyak& Sobel,2016; Sheskin etal.,2016)。目前，关于儿童平等原则发展特点的研究大都以数量相等作为公平分配的衡量依据(e.g.,Fehr,Bermhard,&
+
+Rockenbach,2008;Rochat et al.,2009;Cooley& Kilen,2015；刘文，张雪，张玉，俞睿玮，2017)，研究发现，19个月的婴儿已经表现出对分配者分配相等数量资源的期待(Sloane,Baillargeon,&Premack,2012)，8岁儿童甚至可以拒绝使自己处于优势的数量不平等分配(Blake&McAuliffe,2011；梁福成，王心怡，唐卫海，2015)。
+
+但是，目前较少有研究关注儿童基于资源价值的分配行为的特点。以往有关公平分配行为的研究大多将同一价值的物品（如糖果或贴画等）作为分配资源，让儿童基于资源的数量进行分配。但是，儿童对于公平的认知也会受资源价值的影响，研究中仅分配同一价值的资源在一定程度上造成了公平概念的狭隘化，不能反映儿童在分配不同价值的资源时的道德考虑。并且，价值平等的出现晚于数量平等(Sheskin etal.,2016)，这说明价值平等是一种更高级的公平认知和行为，对它的探讨有助于了解儿童更高级的道德认知发展特点。此外，儿童在生活中经常会和同伴互换价值不等的玩具或礼物，在研究中分配同一价值的资源并不能很好地反映生活中的物物交换或分享现象(Shaw&Olson,2013)，而对于儿童而言，做出价值对等的交换和分享行为对于维护积极的同伴关系具有重要意义。但是，在儿童早期的学习和社会互动中，他们接受到的公平训练往往是关于数量上的平均分配，价值平等则处于相对被忽视的情况。因此，有必要对儿童基于资源价值的分配行为特点进行探讨。
+
+以往关于儿童公平分配行为的研究发现，5岁左右的儿童开始萌发了某些物品具有同等价值的意识(毛妮娜，2007)，也就是说，5岁左右的儿童逐渐开始具备基于资源价值进行公平分配的能力，并且，研究发现，一直到8岁都是儿童公平认知和行为发展的关键期和加速期(e.g.,Rizzo,Elenbaas,Cooley,& Killen,2016；刘文等，2017)。因此，本研究试图探讨5\~8岁儿童基于资源价值的分配行为的发展特点以及相关影响因素，从而有助于了解他们在分配过程中如何考量多种因素。
+
+# 1.1儿童基于资源价值的分配行为的年龄差异
+
+参考已有大多数有关儿童公平分配的研究，本研究将资源价值界定为分配者对资源的喜欢程度(e.g.,Chernyak& Sobel,2016; Sheskin etal.,2016)。已有研究发现，资源价值是影响儿童分配行为的因素之一(e.g.,Chermyak& Sobel,2016)。例如,Blake和Rand(2010)的研究发现，对于最不喜欢的贴画，3岁、4岁、5岁、6岁儿童都会分出贴画数量的 $5 0 \%$ 左右；但是，对于最喜欢的贴画，这一比例则下降到 $4 0 \%$ 左右。并且，儿童基于资源价值的分配行为也表现出了发展特点，Blake和Rand(2010)的研究进一步发现，能平等分配最不喜欢的贴画的人数比例随着年龄的增长而增加；但是，对于最喜欢的贴画，平等分配的人数比例在年龄上并没有显著变化。在同时分配喜欢程度不同的贴画时，Chernyak和Sobel(2016)的研究发现，4岁和5岁的儿童已经能根据资源价值决定分配给每一位接受者何种价值的资源。此外，Sheskin等人(2016)以11个不同价值的物品作为分配资源，结果发现，随着年龄的增长，儿童基于资源价值的分配行为呈现出更加公平的趋势，具体表现为3\~5岁儿童具有强烈的自私倾向，不能基于资源价值来公平分配；6\~8岁儿童虽然可以做出这一行为，但是受实验情境中是否卷入自身利益的影响较大。进一步，Shaw和Olson(2013)在考察资源价值是否会影响儿童在不平等情境中的分配行为时发现，6\~8岁儿童能够将分配的资源与接受者已有的资源进行价值比较，进而调整自己的分配方案。综上可见，年幼儿童已经有了资源价值的概念，但倾向于利己分配，而随着年龄的增长，儿童更能根据资源价值做出公平分配，并且能够应用到实际情境中，如根据资源的价值纠正不平等现象。
+
+尽管已经有研究探讨资源价值对儿童分配行为的影响，但是研究大都让儿童先后分配高价值和低价值资源，通过对比两种价值情境的分配行为来考察资源价值的作用，这就使得儿童每次分配的依然是同一价值的资源(Blake& Rand,2010; Shaw & Olson,2013;Rizzo et al,2016)，并不能直接了解他们对不等价值资源进行分配时的考虑。虽然Sheskin等人(2016)的研究让儿童同时分配不同价值的资源，但在分配过程中，儿童可以将任意数量和价值的资源分配给接受者。例如，儿童可以把两个高价值和一个低价值的资源分给自己，把另外一个低价值的资源分给他人。但是，只有当儿童分给每个人一个高价值和一个低价值的资源时才是基于资源价值的公平分配，因此，儿童做到基于资源价值的公平分配的前提是做到数量平等分配，他们对资源数量的考虑或者对资源数量和价值的权衡可能会影响基于资源价值的分配结果。那么，如果将数量和价值剥离，控制儿童对数量的考虑，即要求儿童分给每个接受者相等数量的资源，儿童基于资源价值的分配行为又表现出怎样的发展特点呢？本研究将在前人研究的基础上对此问题进行探讨。此外，高凤阳、仇小莉和莫书亮(2015)提出，女生比男生表现出公平分配偏好的时间更早，男生对公平的理解在从幼儿园进入小学这个期间迅速发展，女生的发展速度相对平缓。因此，本研究也会进一步考察男生和女生在基于资源价值的公平分配行为上的年龄变化。
+
+# 1.2儿童的分配行为受到内群体偏爱的影响：年龄和性别差异
+
+内群体偏爱(In-group favoritism)是指个体在群际互动中表现出的更偏向内群体的态度和行为。已有研究发现，资源分配行为会受到内群体偏爱的影响(e.g.,Moore,2009；王益文等，2014)。例如，即使随机指定儿童为蓝队或黄队的一员，儿童也会在分配中受到内群体偏爱的影响(Jordan,McAuliffe,&Warneken,2014)。这符合社会认同理论(Social Identity TheorySIT)的观点，即个体对内群体产生认同和偏爱，并且往往希望内群体比外群体更占优势，
+
+从而提高自己的自尊水平(Tajfel&Turner,1979)。
+
+当前，大多数研究局限于内群体偏爱与基于资源数量的分配行为的关系，鲜有研究关注其对基于资源价值的分配行为的影响。Bohm和Buttelmann(2017)让儿童分别分配不同价值的资源，其结果表明儿童在分配不同价值的资源时对内群体偏爱的考虑是不同的，他们在分配高价值的资源时更会考虑群体关系因素，表现出更强的偏爱内群体成员的倾向。由此可见，内群体偏爱与基于资源价值的分配行为具有一定的联系。综合以往基于资源数量的分配行为的研究，大致发现以下两种相反的年龄趋势：第一，儿童的分配行为受内群体偏爱的影响随着年龄增长而减少。随着年龄的增长，儿童更会意识到群体的意愿可能与自己的观点不同，因此，即使意识到内群体希望获得更多的资源，也会更认同公平的分配方案(Cooley& Killen,2015)。比如，研究发现，相比于外群体资源少，5\~6岁儿童更会纠正内群体资源少的不平等现象；但是，10\~11岁儿童却没有表现出这种群体差异(Elenbaas,Rizzo,Cooley,& Killen,2016;Elenbaas& Killen,2016)。Jordan等人(2014)针对6岁和8岁儿童是否愿意付出代价来惩罚不平等分配者的研究发现，相比于外群体利益受损，6岁儿童在内群体利益受损的情况下更愿意付出代价去惩罚，而8岁儿童在内群体或外群体利益受损时的惩罚行为无显著差异。第二，儿童的分配行为受内群体偏爱的影响随着年龄的增长而增加(e.g.，Mulvey,Hiti,Rutland,Abrams,&Killen,2014)。随着年龄增长，儿童从幼儿园进入小学，他们会越来越多的接受到集体主义教育以及为群体做贡献的观念，因此，年长儿童会在分配中受到更强烈的内群体偏爱的影响。例如,Fehr等人(2008)考察了3\~8岁儿童的分配行为受内群体偏爱影响的年龄变化，结果发现，随着年龄的增长，儿童更愿意与内群体公平分配资源，而与外群体分配时的公平行为则出现减少的趋势。一项本土化研究也发现了类似的趋势,Yu,Zhu和Leslie(2016)对3\~10岁儿童的分享行为的研究发现，3\~4岁儿童没有表现出明显的内群体偏爱，但是5\~10岁儿童会分给内群体比外群体更多的资源。由此可见，内群体偏爱对资源分配行为的影响的年龄变化趋势存在争议，这可能是由实验范式和文化差异而导致的。那么，对于我国儿童而言，他们从幼儿园阶段进入小学，接触到越来越多的集体主义教育，意识到要团结和自己属于同一集体或群体的成员以及要注重集体利益，同时他们也受到更多的公平思想教育。基于此，我国儿童基于资源价值的分配行为受内群体偏爱影响的年龄变化特点如何，也是本研究关注的一个重要问题。
+
+此外，现有研究也关注了儿童的分配行为受内群体偏爱影响的性别差异，但并无一致结论。一方面，有研究者认为男生有更明显的内群体偏爱，相比于女生，男生在分配过程中会更偏向内群体，而倾向于分配给外群体更少的资源(Fehretal.,2008)。根据进化论的观点，男性比女性更多的参与群际冲突，因此，男性对群际关系的敏感性更高，内群体偏爱在男性身上体现得也更明显(Fehr et al.,2008)。另一方面，有研究者发现女生可能比男生更容易受到内群体偏爱的影响，这可能是因为女生的共情能力比男生更强(Lam,Solmeyer,& McHale,2012)，在人际关系上的投入相对更多(聂瑞虹，周楠，张宇驰，方晓义，2017)，在分配过程中自然也对群体关系有更多的考量(McGillicuddy-De Lisi,De Lisi,& Van Gulik,2008;Wu&Gao,2018)。可见，基于资源价值的分配行为受内群体偏爱影响的性别差异仍然值得进一步探讨。
+
+# 1.3儿童在不同卷入情境下基于资源价值的分配行为差异
+
+研究发现，在分配情境中是否有自我利益的卷入，即在第一方和第三方情境下，儿童的分配行为会有较大的差异(e.g.,Rochat etal.,2009；刘文，张雪，范琳琳，2016)，这可能是因为自我利益的牵扯使儿童对公平的认知产生了偏差。在第一方情境中，儿童同时作为分配者和接受者在自己和他人之间进行资源分配。自身利益的涉及可能引起儿童的情绪反应(王斯，苏彦捷，2013；张雪，刘文，朱琳，张玉，2014)，从而影响个体的道德判断。在第三方情境中，儿童只作为分配者在其他人之间分配资源，没有自身利益的卷入，认知调节在这一过程中可以直接作用于分配行为(梁福成等，2015；刘文，朱琳，温国旗，2014)。
+
+研究发现，相比于第一方情境，儿童在第三方情境下更能公平的分配资源。例如，在基于资源数量分配的研究中，Li,Wang,Yu和Zhu(2016)的本土化研究设置了儿童在自己和好朋友之间分配（第一方）、在两个好朋友之间分配（第三方）两个情境，结果发现，比起第一方情境，儿童在第三方情境下更能实现基于资源数量的公平分配。Rochat等人(2009)针对3岁和5岁儿童公平分配行为的跨文化研究发现，儿童在第一方情境下会表现出利己倾向，而在第三方情境下会倾向于公平分配。在基于资源价值分配的研究中，Sheskin等人(2016)的研究发现，6\~8岁儿童在第三方比第一方情境下更能基于资源价值做出公平分配。然而，Sheskin等人(2016)的研究并未考察这种卷入情境差异的年龄变化，目前也尚无本土化的研究考察这一问题。因此，当控制儿童对资源数量的考虑，儿童基于资源价值的公平分配行为是否仍会有卷入情境上的差异和年龄上的发展变化？本研究将对此进行探讨。此外，在第一方和第三方情境下，内群体偏爱对儿童基于资源价值的分配行为的作用也可能有所不同。McAuliffe和Dunham(2017)、Jordan等人(2014)的研究分别在第一方和第三方情境下考察内群体偏爱对儿童基于资源数量的分配行为的影响，他们发现，第一方情境中内群体偏爱没有对儿童的分配行为起到明显的作用；在第三方情境中，儿童的分配行为则受到内群体偏爱的影响。综上，本研究也会在第一方和第三方情境下分别考察内群体偏爱对儿童基于资源价值的分配行为
+
+的影响。
+
+综上，基于Yu等人(2016)的本土化研究发现5-6岁儿童开始表现出内群体偏爱以及以往关于儿童公平行为的研究划分年龄段的支持(Fehr et al.,2008;House,Henrich,Brosnan,&Silk,2012;Kogut,2012)，同时考虑到相对于5\~6岁儿童来说，7\~8岁儿童接受了长时间的小学教育，在分配行为以及群体关系的考量上都会显得更加成熟(Fehr etal.,2008；梁福成等，2015)，从而在基于资源价值的分配行为以及受内群体偏爱影响的程度上可能与5\~6岁儿童有所不同。因此，本研究将被试的年龄划分为5\~6岁和7\~8岁两个年龄组，从儿童基于资源价值的分配行为出发，在第一方和第三方情境下考察以下问题：（1）儿童基于资源价值的分配行为的年龄差异；（2）儿童基于资源价值的分配行为受内群体偏爱影响的年龄和性别差异；（3）儿童基于资源价值的分配行为及其受内群体偏爱影响的卷入情境差异。研究假设7\~8岁儿童比5\~6岁儿童更能基于资源价值进行公平分配(H1)；儿童基于资源价值的分配行为会受到内群体偏爱的影响，但年长儿童受到的影响更小，能更好的考虑公平分配和内群体偏爱之间的关系，女生也会比男生更易受到内群体偏爱的影响(H2)；儿童基于资源价值的公平分配行为会受到卷入情境的影响，在不涉及自我利益的第三方情境下会表现出更多的公平分配行为，同时受内群体偏爱的影响也更大(H3)。
+
+# 2 实验一：儿童在第一方情境中基于资源价值的分配行为
+
+# 2.1 被试
+
+从北京市的一所普通幼儿园和一所普通小学中选取134名5\~8岁儿童。其中，5\~6 岁组61人（女孩31人，平均月龄 $\scriptstyle M = 7 2 . 6 9$ ， $S D { = } 6 . 0 3$ ）；7\~8岁组73人（女孩33人，平均月龄$\scriptstyle M = 9 6 . 3 6$ ; $S D { = } 7 . 1 7$ ）。
+
+# 2.2 实验设计
+
+采用2(年龄:5\~6岁，7\~8 岁) $\times 2 0$ (性别：男生，女生) $\times 2 0$ （群体条件：内群体条件，外群体条件)混合实验设计，将儿童在第一方情境中做出某种（利己/利他/公平）分配行为的人数比例作为结果变量。其中，儿童的年龄和性别是被试间变量，群体条件为被试内变量，通过操纵接受者的群体身份来实现不同群体条件的设置，通过对比被试在不同群体条件下的分配行为来探讨儿童在第一方情境下基于资源价值的分配行为特点以及内群体偏爱的作用。
+
+# 2.3实验材料与实验程序
+
+主试在安静的房间中采用一对一的形式对儿童单独进行实验。实验程序分三个阶段进行，首先，实验者通过介绍学校照片和穿着不同颜色衣服的剪贴画儿童，让儿童识别内、外群体成员；紧接着，根据儿童报告的对物品的喜欢程度启动资源价值效应，并选择出分配的物品；最后，儿童完成分配物品任务。具体流程和指导语如下：
+
+# （1）区分内、外群体成员
+
+沿用以往研究中对内、外群体的启动范式(Fehr etal.,2008)，向被试呈现两张含有学校标志性建筑的照片( $( 1 5 . 2 \mathrm { c m } \times 1 0 . 2 \mathrm { c m } )$ ，分别为被试所在学校和另外一所陌生学校的照片。在被试所在学校的照片前面摆放两个穿着相同颜色衣服的剪贴画儿童，代表内群体成员，告诉被试“要想象两个和你同班的好朋友，他们分别对应我手里的这两个小朋友”；在陌生学校照片前面摆放两个穿着相同的其他颜色衣服的剪贴画儿童，代表外群体成员，告诉被试“这里有两个和你一样大的小朋友，他们来自这所学校，但是你从来没见过他们”（如图2所示）。之后，通过群体身份记忆核查以及观察儿童是否把最喜欢的贴画送给内群体成员的方法检验群体启动是否有效。在实验过程中，剪贴画儿童的衣服颜色、学校照片的左右位置在被试间进行平衡；并告知被试这四个小朋友与他们自己的年龄、性别一致。
+
+# （2）启动资源价值效应
+
+以往关于资源价值对儿童分配行为影响的研究，通常采用儿童对资源的喜欢程度作为资源价值的判断依据(Chernyak & Sobel,2016; Sheskin et al.,2016)。根据 Sheskin 等人(2016)的研究范式，选择大小相似、颜色不同、儿童喜欢程度不同的9个物品（如图1所示，从左到右依次为孔雀笔、乒乓球、瓶盖、气球、贴画、橡皮泥、口哨、印章、画有箭头的白纸）作为分配的资源。
+
+在实验中，主试将9个物品呈现给被试，告诉被试“现在，你需要根据自己对这些物品的喜欢程度从高到低进行排序”。其后，主试挑选出被试选择的最喜欢的、第二喜欢的、第二不喜欢的和最不喜欢的物品，并进一步让被试对这4个物品的排序进行确认，即询问被试“这四个玩具里，哪个是你最喜欢的？哪个是你第二喜欢的？哪个是你最不喜欢的？”。
+
+![](images/348f225f6bf6a18b99cb5f0a20b51f2855d38968479f0c3a562ff6608b061271.jpg)  
+图1实验材料示意图
+
+# （3）分配物品
+
+被试要先后完成两个群体条件的分配任务： $\textcircled{1}$ 内群体条件，即在自己和一个内群体成员之间分配物品； $\textcircled{2}$ 外群体条件，即在自己和一个外群体成员之间分配物品。在每个分配任务中，被试需把要4个物品分给自己2个，分给内/外群体成员2个。并且，参考 Shaw 和Olson(2012)的方法，呈现给被试和内/外群体成员各1个白色纸盒 $( 1 2 \mathrm { c m } \times 9 \mathrm { c m } \times 3 . 3 \mathrm { c m } )$ ，要求被试将分配好的物品放到各自前面的纸盒里。两个群体条件的顺序在被试之间平衡。以外群体条件为例，具体的指导语为“现在，你要把这4个物品分给你自己2个，分给其他学校的这个陌生小朋友2个，然后放到你们前面的纸盒里。你觉得应该怎么分？”。
+
+![](images/ea045007aac43eb8304934291ae6d793e2a1a389c055a23b1f4ebb59081adbc1.jpg)  
+图2实验情境示意图(以外群体条件为例)
+
+# 2.4数据编码与分析
+
+借鉴 Sheskin 等人(2016)的编码方式，将被试最喜欢的、第二喜欢的物品归类为高价值的物品，将被试最不喜欢的、第二不喜欢的物品归类为低价值的物品。基于此，被试的分配行为产生3种编码方式：（1）当被试分给自己和他人各一个高价值和一个低价值的物品，则编码为1（公平）；（2）当被试把两个高价值的物品分给自己、把两个低价值的物品分给他人，则编码为2（利己）；（3）当被试把两个低价值的物品分给自己、把两个高价值的物品分给他人，则编码为3（利他）。
+
+关于数据分析，采用卡方检验考察儿童在两个群体条件下各类分配行为的平均人数比例的年龄差异；采用McNemar 检验方法分析儿童在两个群体条件下公平、利他、利己分配的人数比例差异，从而探讨儿童的分配行为受内群体偏爱影响模式及其年龄和性别差异。
+
+# 2.5结果
+
+各年龄组的男、女生在两种群体条件下各类分配行为的人数详见表1。
+
+表1儿童在第一方情境中的各类分配行为的人数 (比例)  
+
+<html><body><table><tr><td rowspan="2">分配行为 类型</td><td rowspan="2">群体条件</td><td colspan="2">5~6岁 (N=61)</td><td colspan="2">7~8 岁 (N=73)</td></tr><tr><td>男生（n=30)</td><td>女生(n=31)</td><td>男生(n=40)</td><td>女生（n=33)</td></tr><tr><td rowspan="2">公平</td><td>内群体</td><td>16 (53.33)</td><td>14 (45.16)</td><td>24(60.00)</td><td>17 (51.52)</td></tr><tr><td>外群体</td><td>14 (46.67)</td><td>15 (48.39)</td><td>27 (67.50)</td><td>19 (57.58)</td></tr><tr><td rowspan="2">利他</td><td>内群体</td><td>7 (23.33)</td><td>11 (35.48)</td><td>13 (32.50)</td><td>14 (42.42)</td></tr><tr><td>外群体</td><td>2 (6.67)</td><td>3 (9.68)</td><td>9 (22.50)</td><td>12 (36.36)</td></tr><tr><td rowspan="2">利己</td><td>内群体</td><td>7 (23.33)</td><td>6(19.35)</td><td>3 (7.50)</td><td>2 (6.06)</td></tr><tr><td>外群体</td><td>14 (46.67)</td><td>13 (41.94)</td><td>4(10.00)</td><td>2 (6.06)</td></tr></table></body></html>
+
+# 2.5.1第一方情境中，儿童基于资源价值的分配行为的发展特点
+
+对儿童在两个群体条件下公平分配的平均人数比例是否存在年龄差异进行卡方检验，结果表明，5\~6岁儿童（ $4 9 . 1 8 \%$ ）与7\~8岁儿童（ $6 0 . 2 7 \%$ ）公平分配的人数比例无显著差异，$\chi ^ { 2 } = 1 . 6 5$ ， $d f = 1$ ， $p > 0 . 0 5$ 。进一步分性别进行检验发现，5\~6岁男生（ $5 0 . 0 0 \%$ ）和7\~8岁男生（ $6 5 . 0 0 \%$ ）公平分配的人数比例不存在显著差异， $\chi ^ { 2 } = 1 . 5 9$ ， $d f = 1$ ， $p > 0 . 0 5$ ； $5 { \sim } 6$ 岁女生（ $4 8 . 3 9 \%$ ）和7\~8岁女生（ $5 4 . 5 5 \%$ ）公平分配的人数比例也不存在年龄差异， $\chi ^ { 2 } = 0 . 2 4$ ，df$= 1$ ， $p > 0 . 0 5$ 。
+
+对于利己分配行为，5\~6岁儿童利己分配的人数比例显著高于7\~8岁儿童， $\chi ^ { 2 } = 1 2 . 8 3$ $d f = 1$ ， $p < 0 . 0 0 1$ ， $\scriptstyle { \varphi = 0 . 3 1 }$ ，表示年龄与利己分配行为的关联强度为中相关。对于利他分配行为，7\~8岁儿童在外群体条件下利他分配的人数比例显著高于5\~6岁组， $\chi ^ { 2 } = 8 . 9 9$ ， $d f = 1$ $p = 0 . 0 0 3$ ， $\scriptstyle { \varphi = 0 . 2 6 }$ ，表明年龄与外群体条件下利他分配行为的关联强度接近中相关。
+
+# 2.5.2第一方情境中，儿童在不同群体条件下基于资源价值的分配行为的差异
+
+McNemar检验发现，总体上，儿童在内群体（ $5 2 . 9 9 \%$ ）和外群体（ $5 5 . 9 7 \%$ ）条件下公平分配的人数比例差异不显著，校正后 $\chi ^ { 2 } = 0 . 2 3$ ， $N = 1 3 4$ ， $p > 0 . 0 5$ 。
+
+具体分5\~6岁和7\~8岁两个年龄组来看（见图3），两个年龄组在内群体和外群体条件下公平分配的人数比例差异均不显著， $p s > 0 . 0 5$ 。进一步分析发现，5\~6岁男生和女生、7\~8岁男生和女生在内、外群体条件下公平分配的人数比例差异也均不显著， $p s > 0 . 0 5$ 。
+
+由于在第一方情境中的分配行为涉及到自我利益和他人利益，因此，不公平分配的儿童可能表现出利他行为或者利己行为。基于此，对不公平分配的儿童做出利他和利己行为的人数比例进行群体条件的差异检验。
+
+从利他分配行为来看，McNemar 检验的结果表明，与外群体条件（ $1 9 . 4 0 \%$ ）相比，儿童在内群体条件下做出利他分配行为的人数比例（ $3 3 . 5 8 \%$ )更高，校正后 $\chi ^ { 2 } { = } 9 . 8 2$ ， $N = 1 3 4$ $p = 0 . 0 0 2$ 。但是，这种差异只体现在5\~6岁组， $p < 0 . 0 0 1$ ；7\~8 岁组在两种群体条件下做出利他分配行为的人数比例差异不显著， $p > 0 . 0 5$ 。进一步分析发现，只有5\~6岁女生在内群体条件下的利他分配行为人数比例显著高于外群体条件， $p = 0 . 0 0 8$ ，5\~6 岁男生、7\~8 男生和女生在两种群体条件下做出利他分配行为的人数比例差异均不显著， $p s > 0 . 0 5$ 。
+
+从利已分配行为来看，McNemar 检验的结果显示，与内群体条件（ $1 3 . 4 3 \%$ ）相比，儿童在外群体条件下做出利己分配行为的人数比例( $2 4 . 6 3 \%$ )更高，校正后 $\chi ^ { 2 } = 6 . 3 2$ ， $N = 1 3 4$ ，$p = 0 . 0 1 2$ 。但是，只有 5\~6岁儿童才表现出这种差异模式，校正后 $\chi ^ { 2 } = 6 . 5 0$ ， $N = 6 1$ ， $p =$ 0.011；7\~8岁组在内群体和外群体条件下做出利己分配行为的人数比例差异不显著， $p > 0 . 0 5$ 。进一步分析发现，5\~6岁的男生（ ${ \bf \dot { \rho } } _ { p } = 0 . 0 9 2$ ）和女生（ $p = 0 . 0 9 2$ ）在内、外群体条件下做出利己分配行为的人数比例差异边缘显著，均是在外群体条件下更利己。7\~8岁的男生和女生在内、外群体条件下做出利己分配行为的人数比例均无显著差异， $p s > 0 . 1$ 。
+
+![](images/f06801b47d9b5ebcfca2bf783f5566504c5f552773ed9de992b0df6f5d663a1b.jpg)  
+图3不同年龄的儿童在第一方情境中不同群体条件下的分配行为的人数比例
+
+此外，我们也对分配的4个物品从最不喜欢到最喜欢进行了1\~4 赋值做参数检验。参考Sheskin 等人(2016)第一方情境中计算因变量的方法来计算该情境下的分享指数，将分配给他人的物品价值之和减去分配给自己的物品价值之和，分享指数越高，代表儿童越利他。以分享指数为因变量，进行2(群体条件：内群体条件，外群体条件) $\times 2 ($ （年龄：5-6岁,7\~8 岁） $\times$ 2(性别：男，女)的重复测量方差分析，结果表明，群体条件的主效应显著， $F ( 1 , 1 3 0 ) = 2 0 . 3 6 \$ $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 4$ ，外群体条件下的分享指数 $( M = - 0 . 5 2 )$ 显著低于内群体条件 $( M = 0 . 7 1 )$ 。年龄的主效应显著， $F ( 1 , 1 3 0 ) = 2 7 . 6 1$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 1 8$ ，5\~6岁儿童的分享指数 $M = -$ 0.89)显著低于7\~8岁儿童 $( M = 1 . 0 8 )$ 。群体条件与年龄的交互作用显著， $F ( 1 , 1 3 0 ) = 4 . 8 8$ ， $p$ （204号$= 0 . 0 2 9$ ， $\eta ^ { 2 } = 0 . 0 4$ ，简单效应分析发现，只有5\~6岁儿童在外群体条件下的分享指数 $( M = -$ 1.81)显著低于内群体条件 $( M = 0 . 0 3 )$ ， $p < 0 . 0 0 1$ ，7\~8岁儿童在不同群体条件下的分享指数差异不显著， $p > 0 . 0 5$
+
+# 2.6小结
+
+实验一的结果表明，在第一方情境中，公平分配的人数比例没有显著的年龄差异，并且，相比于5\~6岁儿童，7\~8岁儿童的利己主义减小，利他主义增强。对于不公平分配的儿童而言，5\~6岁儿童在与内群体成员分配时更利他、在与外群体成员分配时更利己，即受到了内群体偏爱的影响，且女生比男生受到的影响更明显；7\~8岁组没有明显的受到内群体偏爱的影响，且无性别差异。
+
+然而，尽管儿童的利他和利己分配行为受到内群体偏爱的影响，但在第一方情境中，两个年龄组在外群体和内群体条件下公平分配的人数比例均没有显著的群体条件差异，可见在第一方情境下，儿童的公平分配行为并没有明显的受到内群体偏爱的影响。那么，在第三方情境中即不涉及到自己利益时，儿童的公平分配行为是否表现出明显的内群体偏爱呢？实验二将对这一问题进行考察。
+
+# 3实验二：儿童在第三方情境中基于资源价值的分配行为
+
+# 3.1被试
+
+在北京市的一所普通幼儿园和一所普通小学重新选取了共130名5\~8岁儿童。其中，5\~6岁组64人（女孩35人，平均月龄 $\scriptstyle M = 7 3 . 3 0$ ， $S D { = } 5 . 8 9$ ）；7\~8岁组66人（女孩33人，平均月龄 ${ \cal M } { = } 9 5 . 8 6$ ， $S D { = } 6 . 5 7$ ）。
+
+# 3.2 实验设计
+
+采用 2(年龄:5\~6岁,7\~8 岁) $\times 2$ (性别：男生，女生) $\times 3 0$ （群体条件：外-外群体条件，内-内群体条件，内-外群体条件)混合实验设计，以儿童公平分配的人数比例作为结果变量。其中，儿童的年龄和性别是被试间变量，群体条件为被试内变量，所有儿童均接受三种群体条件的分配任务。
+
+# 3.3实验材料与程序
+
+实验材料和实验程序同实验一。“区分内、外群体成员”和“启动资源价值”两个阶段的指导语与实验一相同，只是在本实验“分配物品”阶段的每种群体条件中，儿童不是在自己和他人之间分配物品，而是在来自特定群体的两个成员之间分配，主要包括三种条件：（1)外-外群体条件，即在两个外群体成员之间分配；（2）内-内群体条件，即在两个内群体成员之间分配；（3）内-外群体条件，即在一个内群体成员和一个外群体成员之间分配。三种条件的顺序在被试之间进行平衡。以内-外群体条件为例，具体指导语为“现在你要把这 4个物品分给其他学校的这个陌生小朋友2个，分给你同班的这个好朋友2个，然后放到他们前面的纸盒里。你觉得应该怎么分？”。
+
+# 3.4数据编码与分析
+
+采用 Sheskin 等人(2016)的编码方式，当被试分给每个接受者一个高价值的物品和一个低价值的物品时，则编码为1（公平）；否则编码为0（不公平）。采用卡方检验考察儿童公平分配行为的平均人数比例的年龄差异；采用McNemar检验方法分析儿童在不同群体条件下基于资源价值的公平分配行为差异。此外，采用卡方检验分析了儿童公平分配的平均人
+
+数比例的情境差异。
+
+# 3.5结果
+
+各年龄组的男、女生在三种群体条件下公平分配的人数详见表2。
+
+表2儿童在第三方情境中的公平分配人数 (比例)  
+
+<html><body><table><tr><td rowspan="3">群体条件</td><td colspan="2">5~6 岁 (N=64)</td><td colspan="2">7~8 岁 (N=66)</td></tr><tr><td>男生（n=29)</td><td>女生（n=35)</td><td>男生（n=33)</td><td>女生（n=33)</td></tr><tr><td>外-外群体</td><td>14 (48.28)</td><td>23 (65.71)</td><td>28 (84.85)</td><td>31 (93.94)</td></tr><tr><td>内-内群体</td><td>15 (51.72)</td><td>23 (65.71)</td><td>26(78.79)</td><td>29 (87.88)</td></tr><tr><td>内-外群体</td><td>10 (34.48)</td><td>8 (22.86)</td><td>18 (54.55)</td><td>23 (69.70)</td></tr></table></body></html>
+
+# 3.5.1第三方情境中，儿童基于资源价值的公平分配行为的发展特点
+
+结果表明，平均来看，7\~8岁儿童（ $7 8 . 7 9 \%$ ）比5\~6岁几童（ $4 8 . 4 4 \%$ ）更能做出公平分配， $\chi ^ { 2 } = 1 2 . 9 7$ ， $d f = 1$ ， $p < 0 . 0 0 1$ ， $\scriptstyle { \varphi = 0 . 3 2 }$ ，表明年龄与公平分配行为的关联强度为中相关。进一步检验发现，在男生和女生中均表现出这样的年龄差异，7\~8岁男生（ $7 2 . 7 3 \%$ ）做出公平分配的人数比例显著高于5\~6岁男生（ $4 4 . 8 3 \%$ ）， $\chi ^ { 2 } = 4 . 9 9$ ， $d f = 1$ ， $p = 0 . 0 2 5$ ， $\scriptstyle { \varphi = 0 . 2 8 }$ 表示在男生中，年龄与公平分配行为的关联强度接近中相关；7\~8岁女生（ $8 4 . 8 5 \%$ ）做出公平分配的人数比例显著高于5\~6岁女生（ $5 1 . 4 3 \%$ ）， $\chi ^ { 2 } = 8 . 6 7$ ， $d f = 1$ ， $p = 0 . 0 0 3$ ， $\scriptstyle { \varphi = 0 . 3 6 }$ ，表明在女生中，年龄与公平分配行为的关联强度为中相关。
+
+# 3.5.2第三方情境中，儿童在不同群体条件下基于资源价值的公平分配行为差异
+
+总体上看，Cochran'sQ检验发现，儿童在不同群体条件下公平分配的人数比例差异显著，Cochran's $\scriptstyle Q = 3 4 . 7 1$ ， $d f = 2$ ， $p < 0 . 0 0 1$ 。进一步的McNemar 检验发现，儿童在内-外群体条件（ $4 5 . 3 8 \%$ ）下的公平分配的人数比例显著低于内-内群体条件（ $7 1 . 5 4 \%$ ），校正后 $\chi ^ { 2 } =$ 19.45， $N = 1 3 0$ ， $p < 0 . 0 0 1$ ；也显著低于外-外群体条件（ $7 3 . 8 5 \%$ ），校正后 $\chi ^ { 2 } = 2 2 . 7 4$ ， $N =$ 130， $p < 0 . 0 0 1$ ，但是在外-外群体条件和内-内群体条件下公平分配的人数比例差异不显著，校正后 $\chi ^ { 2 } = 0 . 1 2$ ， $N = 1 3 0$ ， $p > 0 . 0 5$ 。
+
+进一步检验内群体偏爱影响的年龄差异，5\~6岁组在内-外群体条件下公平分配的人数比例显著低于内-内群体条件，校正后 $\chi ^ { 2 } = 1 1 . 2 8$ ， $N = 6 4$ ， $p < 0 . 0 0 1$ ；也显著低于外-外群体条件，校正后 $\chi ^ { 2 } = 9 . 8 2$ ， $N = 6 4$ ， $\scriptstyle p = 0 . 0 0 2$ ；在外-外群体条件和内-内群体条件下公平分配的人数比例没有显著差异， $p > 0 . 0 5$ 。7\~8岁组也表现出这种差异模式，即在内-外群体条件下公平分配的人数比例显著低于内-内群体条件， $p = 0 . 0 0 7$ ；也显著低于外-外群体条件， $p <$ 0.001；在外-外群体条件和内-内群体条件下公平分配的人数比例差异不显著， $p > 0 . 0 5$ （如图4 所示）。此外，因为内-外群体条件下的资源接受者来自不同的群体，儿童做出不公平分配行为也就有不同的偏向，如偏向内群体成员或偏向外群体成员。因此，为了考察不公平分配的儿童在偏向上的具体状况，选取内-外群体条件下不公平分配的71名儿童（46 名 5\~6岁儿童，25名7\~8岁儿童），对他们的分配情况进行分析。二项式检验发现，儿童表现出偏向内群体成员的人数比例（ $8 4 . 5 1 \%$ ）与随机比例差异显著， $p < 0 . 0 0 1$ 。进一步检验发现，5\~6岁组（ $\cdot p < 0 . 0 0 1$ ）和7\~8岁组（ $_ { \cdot p = 0 . 0 1 5 }$ ）偏向内群体的人数比例均显著高于偏向外群体的人数比例。但是，在这一群体条件下，7\~8岁组公平分配的人数比例显著高于5\~6 岁组，$\chi ^ { 2 } = 1 5 . 1 5$ ， $d f = 1$ ， $p < 0 . 0 0 1$ ， $\scriptstyle { \varphi = 0 . 3 4 }$ ，表明在内-外群体条件下，年龄与公平分配行为的关联强度为中相关。
+
+![](images/32f8732e5bced9deb1d48cd2426f849711bb4de5d97a49716f6e5425fc27bbd0.jpg)  
+图4不同年龄的儿童在第三方情境中不同群体条件下的公平分配行为的人数比例
+
+进一步地，检验各年龄段中男、女生在三种群体条件下的差异模式。结果显示，5\~6 岁女生、7\~8岁男生和7\~8岁女生都在内-外群体条件下公平分配的人数比例显著低于内-内群体条件（5\~6岁女生， $p < 0 . 0 0 1$ ；7\~8 岁男生， $p { = } 0 . 0 7 7$ ; $^ { 7 \sim 8 }$ 岁女生， $p { = } 0 . 0 7 0 \dot { }$ ），也显著低于外-外群体条件（5\~6岁女生， $p { = } 0 . 0 0 1$ ；7\~8 岁男生， $\scriptstyle p = 0 . 0 1 3$ ；7\~8 岁女生， $\begin{array} { r }  p = 0 . 0 2 1 \ \end{array}$ ，在外-外群体条件和内-内群体条件下公平分配的人数比例差异均不显著， $p s > 0 . 1$ 。5\~6岁男生在每两种群体条件下公平分配的人数比例差异均不显著， $p s > 0 . 1$ 。
+
+此外，根据 Sheskin 等人(2016)第三方情境中计算偏爱分数的方法，将分配给两个接受者的物品价值之和相减。以偏爱分数为因变量，进行 3(群体条件：内-内群体条件，外-外群体条件，内-外群体条件) $\times 2$ （年龄：5\~6岁，7\~8岁) $\times 2 0$ (性别：男，女)的重复测量方差分析，结果表明，群体条件的主效应显著， $F ( 2 , 2 5 2 ) = 6 . 6 5$ ， $p = 0 . 0 0 2$ ， $\eta ^ { 2 } = 0 . 0 5$ ，外-外群体条件（2 $( M = 0 . 5 7 )$ 和内-内群体条件 $( M = 0 . 8 2 )$ 下的偏爱分数无显著差异， $p > 0 . 0 5$ ，但两个群体条件下的偏爱分数均显著低于内-外群体条件 $\left( M = 1 . 6 1 \right)$ ， $p s < 0 . 0 1$ 。年龄的主效应显著， $F ( 1 , 1 2 6 )$ $= 6 . 3 3$ $p { = } 0 . 0 1 3$ ， $\eta ^ { 2 } = 0 . 0 5 , 5 { \sim } 6$ 岁儿童的偏爱分数 $( M = 1 . 3 1 )$ 显著高于7\~8岁儿童 $( M = 0 . 7 0 )$ 。
+
+# 3.5.3两种卷入情境下的公平分配行为比较
+
+为了解儿童基于资源价值的分配行为特点的情境差异，对儿童在第一方和第三方情境下做出公平分配的平均人数比例进行卡方检验，结果发现，儿童在第三方情境中（ $6 3 . 8 5 \%$ ）公平分配的人数比例略高于第一方情境（ $5 5 . 2 2 \%$ ），但是差异未达到显著性水平， $\chi ^ { 2 } = 2 . 0 4$ $d f = 1$ ， $p > 0 . 0 5$ 。进一步检验发现，5\~6岁儿童在第三方（ $4 8 . 4 4 \%$ )和第一方情境中（ $4 9 . 1 8 \%$ ）公平分配的人数比例差异不显著， $\chi ^ { 2 } = 0 . 0 7$ ， $d f = 1$ ， $p > 0 . 0 5$ 。但是，7\~8岁儿童在第三方情境中（ $7 8 . 7 9 \%$ ）公平分配的人数比例显著高于第一方情境（ $6 0 . 2 7 \%$ ）， $\chi ^ { 2 } = 5 . 5 6$ ， $d f = 1$ ， $p$ （20$= 0 . 0 1 8$ ， $\scriptstyle { \varnothing = 0 . 2 0 }$ ，表明情境与公平分配行为的关联强度接近中相关。
+
+# 3.6小结
+
+实验二探讨了儿童作为第三方时基于资源价值的分配行为。结果表明，儿童在内-外群体条件下的公平分配行为与内-内群体条件、外-外群体条件差异均显著，但是在外-外群体条件和内-内群体条件下的公平分配行为差异不显著。并且，在不公平分配的人中，儿童更倾向于偏向内群体成员，即表现出内群体偏爱倾向。然而，尽管各年龄组儿童均表现出显著的内群体偏爱，但是7\~8岁组在内-外群体条件下公平分配的人数比例高于5\~6 岁组，这说明7\~8 岁组的公平分配行为发展得更好，受内群体偏爱的影响更小。并且，内群体偏爱的性别差异只体现在5\~6岁组，7\~8岁组的男生和女生受内群体偏爱的影响并无差异。此外，不同卷入情境下的公平分配行为比较的结果显示，只有 7\~8岁儿童在第三方比第一方情境中更能基于资源价值做出公平分配。
+
+# 4讨论
+
+# 4.1儿童基于资源价值的公平分配行为的年龄差异
+
+本研究通过两种卷入情境考察了儿童基于资源价值的分配行为的年龄差异。在第三方情境下，研究发现7\~8岁组比5\~6岁组更能做出基于资源价值的公平分配，并且，7\~8岁组在内-外群体条件下做出公平分配的人数比例显著高于 5\~6 岁组，这说明7\~8 岁组在第三方情境下基于资源价值的公平分配行为比 5-6 岁组发展的更好。Rizzo 等人(2016)的研究也证实了这一点，研究考察了儿童在不同类型或价值的资源情境下的分配行为特点，结果发现，年长儿童更能根据资源价值调整分配方案，使其分配行为更公平；年幼儿童在不同的资源价值情境下的分配行为却并无差异。儿童基于资源价值的公平分配行为随着年龄的增长而加强可能是因为，随着年龄的增加，儿童从家庭、学校、社会中接触到的公平教育及经历越来越多，这就使得他们越来越认同公平的重要性，也更会做出公平行为(Blake＆ McAuliffe,2011;Kogut, 2012)。
+
+然而，本研究中第一方情境的结果发现，5\~6岁儿童和7\~8岁儿童公平分配的人数比例不存在显著差异。这可能与第一方情境既涉及自我利益(张雪等，2014)，也同时涉及他人利益有关。由图3可以看出，两个年龄段儿童的分配行为差异主要体现在利他和利己分配的人数比例上，7\~8岁儿童在两个群体条件下利他分配的人数比例高于5\~6岁儿童，尤其是在外群体条件下；7\~8岁儿童利己分配的人数比例显著低于5\~6岁儿童。因此，5\~6岁儿童更易受利己主义的影响，7\~8岁儿童更易受利他主义的影响，这一差异可能导致了儿童在公平分配的人数比例上没有显著的年龄差异。此外，一项以美国儿童为被试的有关数量平等的研究表明，虽然儿童在第一方情境下表现出公平倾向，但是这种平等分配的实现要以个体处于不利条件为前提，当个体处于相对有利地位，即拥有的资源数量多于对方时，他们大多会接受这种不平等现状，这种情况会一直持续到8岁(Blake＆McAuliffe,2011)。但是，本研究却发现，7岁左右儿童的利他主义意识超越了利己主义，这可能与我国集体主义文化有关。与西方文化的个人主义、竞争思想相比，我国儿童成长在集体主义的氛围中，更强调凝聚力、团结、和谐等概念(Rochat et al.,2009)，父母和教师等重要他人也会在生活中对儿童的集体主义、利他主义教育加以强化，从而使得儿童有更多的自发地与他人分享或利他行为。
+
+# 4.2基于资源价值的分配行为受内群体偏爱的影响：年龄和性别差异
+
+本研究同时在两种卷入情境下考察了几童基于资源价值的分配行为是否受到内群体偏爱的影响。两种卷入情境的结果均发现，内群体偏爱对儿童的分配行为发挥着重要作用，具体表现在，在第一方情境下，对于不公平分配的儿童而言，儿童在与外群体成员分配时更利己，与内群体成员分配时更利他；在第三方情境下，儿童在内-外群体条件下公平分配的比例更低，且不公平分配的儿童倾向于分给内群体成员更高价值的资源，这支持了社会认同理论(Tajfel& Turner,1979)。以往研究也发现，在不同类型的公平分配行为中，例如，分享(Yu et al.,2016)、不公平厌恶(Fehr et al.,2008;Elenbaas et al.,2016)以及第三方惩罚(作为第三方时愿意付出代价惩罚不公平分配行为，Jordan etal.,2014)等，儿童均表现出内群体偏爱。此外，从个体对待外群体态度的角度来说，在群体情境下，出于维护自己在内群体中的积极形象或地位的考虑，个体通常会对外群体持有厌恶的态度。例如，有研究就发现，相比于内群体成员，6岁和8岁儿童更愿意把消极的物品（如恐怖玩具）分配给外群体成员(Buttelmann& Bohm,2014)。也有研究发现，外群体情境会引发个体的害怕、生气、厌恶等消极情绪(Tapias,Glaser,Keltner,Vasquez,&Wickens,2007)。这些研究结果都与本研究第一方情境中儿童在外群体条件下有更多利己分配的结果相一致。这可能是因为，儿童感知到外群体的利益与自身没有关联，即使自己对外群体表现出消极态度和做出不利行为，自身的形象和利益也不会受到威胁，甚至会更有利于维护自己在内群体中的忠诚形象。
+
+儿童在基于资源价值的分配行为中表现出的内群体偏爱存在年龄差异，两个实验结果表明，在两种卷入情境下，5\~6岁儿童都比7\~8岁儿童表现出更明显的内群体偏爱。Raabe 和Beelmann(2011)的元分析发现，儿童的群体偏见在童年中期（5\~7岁）达到顶峰，随后直到童年后期（8\~10 岁）有明显的下降，也就是说，内群体偏爱会在儿童7岁以后表现出下降的趋势。造成这一年龄趋势的原因可能是，随着年龄的增加，儿童对公平准则的理解逐渐完成从有偏见到不偏不倚的转换，即从认为只有危害到自我利益的自私行为才是不公正的，转变成认为只要损害到任何一个人的利益，都是不公正的(Jordan etal.,2014)。首先，这可能是因为，随着儿童从幼儿园进入小学，儿童越来越多的接受了拒绝歧视与偏见的知识或平等公正的社会规范。例如，与年幼儿童相比，年长儿童接受到了更多的要与其他团体或班级的同学和谐相处、每位同学都是平等的等方面的信息，并且年长儿童更能根据环境中如他人在场这样的规范压力来调控自己的行为(Monteiro,deFranca,&Rodrigues,2009)，这可能导致年长儿童更能在社会规范的引导下减少内群体偏爱倾向。其次，也有研究者指出，抑制控制能力的发展在儿童分配资源的过程中发挥了重要作用(Aguilar-Pardo，Martinez-Arias，&Colmenares,2013),抑制控制能力高的儿童会有意识的抑制优势和自动的反应，如利己主义、内群体偏爱等，这一能力在儿童6\~7岁时发展迅速(文萍，李红，2007)。因此，相比于年幼儿童，年长儿童更能抑制内群体偏爱这一占优势的态度和行为倾向(Jordan etal.,2014)，公平地对待每个接受者。
+
+值得注意的是，5\~6 岁儿童在第一方和第三方情境下的内群体偏爱表现出了性别差异，相比于男生，女生在第一方情境中的利他分配行为表现出了内群体偏爱，在第三方情境中不同群体条件下的公平分配行为也存在显著的性别差异。该结果表明女生比男生在资源分配时更能考虑关系因素(McGilicuddy-De Lisi et al.,2008;Wu&Gao,2018)。这可能是由于女生的共情能力高于男生(Lam et al.,2012)。根据共情-利他假说，共情情绪会引发利他动机(Batson& Shaw,1991)，同时，良好的人际关系对于女生的积极作用也更大(Davies&Lindsay,2004)，这可能就使得女生在分配中更加注重内群体成员的利益，其分配行为也更容易表现出内群体偏爱。但是，7\~8岁组这一性别差异消失，可能是因为，年长的男生和女生都同样的在小学教育中接受了更多关于公平对待他人的社会规范，他们比年幼儿童更能将认知转化为行为，从而导致其中的性别差异随着年龄的增加而减小。
+
+# 4.3儿童在不同的卷入情境中对自我利益、群体关系、公平原则的权衡
+
+综合儿童基于资源价值的分配行为和内群体偏爱的发展特点来看，年长儿童表现出的内群体偏爱更小，公平分配行为发展的更好。这可以从儿童权衡自我利益、群体关系、公平原则这些动机的角度来解释这一现象。“多重动机”理论指出，儿童在资源分配过程中的表现是不同的动机之间竞争与平衡的结果(陈童，伍珍，2017)。自我利益和他人利益这两个动机之间的冲突被视为社会决策行为中重要的心理冲突(Rilling& Sanfey,2011)，而人类在追求自我利益的同时也会考虑到他人利益(苏彦捷，张慧，张康，2012)。公平原则就是使这两种利益的差距缩小的道德考虑，而当“他人”被赋予特定的群体身份时，儿童在分配中也会考虑到群体关系因素。
+
+在本研究中，群体关系和公平原则是第一方情境与第三方情境中共同存在的动机。除此之外，第一方情境中还存在自我利益动机，这也导致了在本研究中，对于不同卷入情境下的公平分配行为而言，其受内群体偏爱的影响存在差异：在第一方情境下，做出公平分配的儿童没有受到内群体偏爱的影响；在第三方情境下，做出公平分配的儿童显著的受到内群体偏爱的影响。该结果与McAuliffe 和 Dunham(2017)与Jordan 等人(2014)的研究结果相一致。这两个研究分别在第一方情境(McAuliffe&Dunham,2017)和第三方情境(Jordan et al.,2014)下探讨了儿童对不公平现象的惩罚行为，对比两个研究的结果也发现几童的公平分配行为受内群体偏爱的影响只存在于第三方情境下。McAuliffe 和Dunham(2017)将其归因于自我利益的影响，即在第三方情境下，儿童是不公平现象的观察者，不会受到不公平的危害，所以能更好的考虑公平原则和群体关系；但是在第一方情境下，不公平分配对儿童产生直接的影响，如果对方拒绝儿童的分配方案，儿童将不会得到资源，因此儿童会出于自我利益优先考虑公平原则，而相对忽视群体关系。
+
+Yu 等人(2016)的研究曾探讨自我利益、群体关系、公平原则这三重动机对儿童分配行为的影响，他们认为多重动机共同影响儿童的分配行为，并且不同年龄段的儿童对于多重动机的权衡水平不同，从而导致他们的分配行为不同。一方面，本研究发现，7\~8岁儿童比 5\~6岁儿童在第一方情境中有更少的利己分配行为，这说明，与5\~6岁儿童相比，7\~8岁儿童基于资源价值的分配行为对自我利益的考虑更少。另一方面，综合7\~8岁儿童比5\~6岁儿童基于资源价值的公平分配比例更高的结果，可以发现，7\~8岁儿童受公平原则的影响也更大。同时，从儿童在第一方和第三方情境中不同群体条件下的分配行为差异结果来看，7\~8岁儿童的分配行为受到群体关系的影响更小。综合以上结果，可以看出，7\~8岁儿童对多重动机的权衡水平更高。究其原因，可能与心理理论能力的高低有关。高水平的心理理论能力可以减小对公平分配有不利影响的动机（如内群体偏爱）的作用，能帮助儿童在多重动机中权衡利弊，减小自我利益和他人利益的冲突(Yuetal.,2016；陈童，伍珍，2017)。例如，有研究发现，没有通过心理理论任务的儿童的内群体偏爱倾向更强，而通过心理理论任务的儿童反而会认为外群体获得更少资源是不符合道德规范的(Mulvey,Buchheister,& McGrath,2016)。因此，未来关于儿童基于资源价值的分配行为的研究可以就心理理论对不同卷入情境中的不同群体条件下多重动机的权衡的影响进行探讨。
+
+# 5研究结论
+
+本研究得出以下结论：
+
+（1）在第三方情境下，儿童基于资源价值的公平分配行为随年龄增长而增加，但在第一方情境下并没有表现出这一发展趋势。（2）儿童基于资源价值的分配行为受到内群体偏爱的影响，且这一影响主要体现在年幼女生身上。
+
+（3）随着年龄的增长，儿童在基于资源价值的分配中会更多的考虑公平原则，更少的考虑自我利益和群体关系。
+
+# 参考文献
+
+Aguilar-Pardo,Dartie-riasR,&Colmears,F.(l).Theoleofbinunghdren'struisticeavior.ge Processing,14(3),301-307.   
+Batson,C.D.&aL..(99).Eidenceforus:wrdralismofprosoalotie.yhogicalq() 122.   
+Blake,P.R,&Aulie,K.(l1).adsuchitidtseefir":EightearldsrejecttofosfieityCogio(), 215-224.   
+Blake,P.R,&and,D.G.(0).Currncyaluemoderatesquitypreferenceamongyoungcdren.EvolutionandHumanBehavio 31(3),210-218.   
+Bohm,R.,&tteman,D.(O).Teimpactfresouevaleceocdren’serregardingpreferencs.DevelopmentalPsyology 53(9),1656-1665.   
+Buttelman,D&,R.(O4).eotogyofteotiatiotatuderliesinroupias.yhologicalSience,2(4)99.   
+Chen,T.,&WuZ().dren'sdistrbtiejustce:eolefoyfind.daceinsyhogicaliene5() 1309.   
+[陈童，伍珍.(2017).儿童的分配公平性：心理理论的作用．心理科学进展，25(8),1299-1309.]   
+Cheryak,N.,&obel,D.M.(Ol6).Equalbutnotalwaysfair:Value-ladensharinginpreschol-agedchildren.SocialDevelopent 25(2),340-351.   
+Cooley,S.,&Kill,.().ren'satiosofouealotioinoetofopoevelopentlog 51(4), 554-563.   
+Davies,P.T.&LndsayL.L.(4).Interparentalonflictanddolescentadustment:Whdosenderoderateearlydolet vulnerability?Journal ofFamilyPsychology,18(1),160-170.   
+Deutsch,M.(975).EquityqualityndedatdeteieshichueillesedasthsisofdstributiejusticeJlf Social Issues,31(3),137-149.
+
+Elenbaas,L,il,).eecifaliaaagdopvelometalo()
+
+Elenbas,L,oleyl)ticioceaiosko 176-187.
+
+Fehr,E.,Bernhard,H.,&Rockenbach,B.(2O08).Egalitarianism inyoung children.Nature,454,1079-1083.   
+Gao,Feng.,Qiu,Xiao.，&Mo,Shu.(Ol5).Thecomprehensionof distributivejusticeinchildren:Characteristics,mechanismand influencial factors,Psychological Research,8(5),4048.   
+[高凤阳，仇小莉，莫书亮.(2015).儿童对分配公平性的理解：发展特征，机制和影响因素．心理研究,8(5),40-48.]   
+House,B.R.,ichJroa,S.F,&il,J.().eotgeyofumaprosocialitybhaioralexperimentsid aged 3 to 8.Evolution and Human Behavior,33(4),291-308.   
+Hsu,M.,Anen,C.D&Quartz,S.R.(o).Thightandthegood:distributivejusticeandneuralecodingofequityandeency. Science,320(5879),1092-1095.   
+Jordan,J.J,ui,K,&akeF4).evelopeofouvoi'sid-rtustf Proceedings of the National Academy of Sciences,111(35),12710-12715.   
+Kogut,T.(2ol2).KnowinghatIsould,doingwhatIwant:Fomselfishnesstoineqityversioninyoungchidren'ssaringvio Journal of Economic Psychology,33,226-236.   
+Lam,C.B.,olmeyer,AR,&McHale,.M.(ol2).Siblingrelatiosipsadempathycrossthetasitiontdolescene.Joualof Youth andAdolescence,41,1657-1670.   
+Li,J.,Wang,W,Yu,J,u,L.().Youngidren'sevelopmentoffiespreferenc.Frontiesinyholg74.   
+Liang,F.,Wang,X,Tang,W.(15).Thedvelopentofdren’sfairaviorindirentdistributionsiatios.Psyhological Development and Education,31(6),648-653.   
+[梁福成，王心怡，唐卫海.(2015).不同分配情境下儿童公平行为的发展．心理发展与教育，31(6),648-653.]   
+Liu,W.Zhang,X,FnL6).elotfad'slstictdrti. StudiesinEarlyChildhoodEducation,(12),35-43   
+[刘文，张雪，范琳琳.(2016).不同利益情境下3 $\sim \mathfrak { s }$ 5岁幼儿利他惩罚行为的发展特点．学前教育研究，(12),35-43.]   
+Liu,W.,Zhang,X,Zhang,Y,&Yu,R.ol7).Fairesscogitio-behaviorgapin48yearolddren:Theroleofsocialcopriso
+
+Acta Psychologica Sinica,49(12),1504-1512.
+
+[刘文，张雪，张玉，俞睿玮.(2017). $4 { \sim } 8$ 岁儿童公平认知与行为差距：社会比较的作用．心理学报，49(12),1504-1512.]
+
+Liu,W.,Zhu,L&Wen,G.(O14).Equitysensitivityofifantsandyounghildrenunderthealocationcondition.Advancesin Psychological Science,22(4),618-624.
+
+[刘文，朱琳，温国旗.(2014).分配情境下的婴幼儿公平敏感性．心理科学进展，22(4),618-624.]   
+MaoNi.(2OO).esudyonthedevelopmentof-6-yearolds'understandingofeconomicconceptsMaster'sesis:EastChinaoal University.   
+[毛尼娜.(2007).3-6岁儿童对经济学知识理解的发展研究.华东师范大学硕士论文.]   
+McAulffe,K.,&Dunam,Y.(Ol7).Faiessoverridesgroupbiasinidren'ssecond-partypushment.JoualofExpriental Psychology: General,146(4),485-494.   
+McGillcuddDisiV,Disi,VaGulik,K).eectsfgadelelctetilteadle adolescents' distributive justice reasoning.Journal of Adolescence,31,1o7-124.   
+Monteiro,M.B.deFanca,D.X,&odrigues,.O).Thedevelopmentofintergroupbiasinciod:Hwocialnoscaae children's racial behaviours.International Journal of Psychology,44(1),29-39.   
+Moore,C.(2O09).Fainess inchidren'sresourcealocatiodependsontheecipient.Psychological Sience,20(8),944948.   
+Mulvey,K.LcsteKath,K.6)aatiosoteoscelatiofodl ofExperimentalChildPsychology,142,203-211.   
+Mulvey，K.L，Hiti，A.,Rutland,A.Abrams，D.，&Kilen，M.(2014).Contextdierencesinchildren'singrouppreferences. Developmental Psychology,50(5),1507-1519.   
+Nie,R.,Zhou,,Zang,Y,&Fang,X.(17).Associatiosmonginterpersoalelatiosipsandighsudents’itealgad extermalizingproblems:Themediatingrolesofself-steemandgenderdifferences.PsychologicalDevelopmentandEducation，(6), 708-718.   
+[聂瑞虹，周楠，张宇驰，方晓义.(2017).人际关系与高中生内外化问题的关系：自尊的中介及性别的调节作用．心理发展与教育， 33(6),708-718.]   
+Raabe,T.,&elma,A.(O).evelopentofc,acial,ndtioalprejuiceinodddolescenc:lial
+
+meta-analysis of age differences. Child Development,82(6),1715-1737.
+
+Riling,J.K,&anfeyA.G.(l1).heeuroscienceofsocialdecision-making.AnnualReviewofPsychology,6248.
+
+Rizo,M.T.lebs,Cooey.&il,).ren'scoitofissdrsereiscli task:age related changes.Developmental Psychology,52(8),1307-1317.   
+Rochat,P.,Dias.iig,Gh,T.sss-Feera,Ci,eg,.).Fssiisrbeiceb 3-and 5-year-olds across even cultures.Journal of Cross-Cultural Psychology,4O(3),416-442.   
+Shaw,A.,&Olson,K.R.().drendardsocetvdieityJoualofxprimentalsholog:Geal,(), 382-395.   
+Shaw,A.,&oK3).llital:eaiseos 393.   
+Sheskin,M,al,.o,Asel,,).eaireala:lili emerges later than numerical equality. Child Development,87 (5),1520-1528.   
+Sloane,S.,Baillgen,R,&rmack,D.(2).DoantsveenseofissPsyholgicalience,(),904   
+Su,Y.,Zhang,H,&ZangK.,(12).Scialdision-making:Teqlibbetweenself-nterestandteinterestsofrs.Joal of Psychological Science,35(6),1423-1428.   
+[苏彦捷，张慧，张康.(2012)．社会决策：自我利益与他人利益的权衡．心理科学，35(6),1423-1428.]   
+Tajfel,H.,&.C79).teatieyteouotIG.stihe(ds.)eciao of intergroup relations (pp.33-47). Monterey,CA: Brooks-Cole.   
+Tapias,M.P.aserJ,KerVasqezK,ckens..motiodprejudice:pecotstowad Group Processes & Intergroup Relations,l0(1),27-39.   
+Wang,S.,&u,Y.(l3).omdestaingtutiing:tyofddcen'sistrbtivejuticeiditoets.Acta Psychologica Sinica,45(11),1242-1250.   
+[王斯，苏彦捷.(2013).从理解到使用：心理理论与儿童不同情境中的分配公平性．心理学报，45(11),1242-1250.]   
+Wang,Y.Zag,agang,LuF,a,.(4).opboulatetiento in ultimatum game.Acta Psychologica Sinica,46(12),1850-1859.   
+[王益文，张振，张蔚，黄亮，郭丰波，原胜.(2014).群体身份调节最后通牒博弈的公平关注．心理学报，46(12),1850-1859.]   
+Wen,P.&LiH().dveloptseahbouttheetivefuctiofearsreyologicalExpoai() 38-43.   
+[文萍，李红.(2007).6～11岁儿童执行功能发展研究．心理学探新,27(3),38-43.]   
+Wu,Z.,&Gao,X.(o18).Prescholers'goupbias inpunishingselfishnessintheultimatumgame.JouralofExperimentalChild Psychology,166,280-292.   
+Yu,J.,Zhu,L,&LeslieA.M.(Ol6).Cdren'ssharingeaviorini-dictatorgamestheoleofiroupfvorismandoyf mind. Child Development, 87(6),1747-1757.   
+Zhang X.,Liu,W.,Zhu,L.&Zhang,Y.(2O14).Distributive justiceofyoungchildren Basedonthe principleof equity.Advances in Psychological Science,22(11),1740-1746.
+
+[张雪，刘文，朱琳，张玉.(2014).基于贡献原则的幼儿分配公平性．心理科学进展，22(11),1740-1746.]
+
+# Children's Quality-based Resource Allocation in Different
+
+# Involvement Contexts: The Role of In-group Favoritism
+
+LIU Lu XIAO Xue LIU Lisha XU Liangyuan ZHANG Xuran LI Yanfang (Collaborative Innovation Center of Assessment toward Basic Education Quality, Beijing Normal University, Beijing 1O0875, China)
+
+# Abstract
+
+Developing fairness is an important task of children's moral development. Equality, including numerical equality and quality equality,is one of the distributive justice principles.So far, most previous studies focus on the number-based resource allocation. However, children often allocate resources of different quality in daily life,and previous studies find that resource quality plays an important role in allocation. Therefore, it is necessary to investigate the development of children's quality-based resource allocation and the related factors.Moreover,according to the evidence from numerous researches about number-based resource allocation, children's allocation can be shaped by in-group favoritism that children allocate more resources to in-group members. Hence, whether the quality-based resource allocation can be influenced by in-group favoritism is worthy of attention. In addition，different involvement contexts (the first-party and third-party contexts)，whether involving individual self-interest or not, can influence children's resource allocation. Given the above,this study focused on the role of in-group favoritism in children's quality-based resource allocation in the first-party and third-party contexts,as well as its age and gender differences.
+
+Two experiments were designed to understand above questions. Experiment 1 aimed to investigate children's quality-based resource allocation in the first-party context. 61 children aged 5- to 6-year-old and 73 children aged 7- to 8-year-old were recruited and were asked to pick out two favorite objects (high-quality resources) and two objects enjoyed least (low-quality resources) from nine different objects. Then, we instructed the children to alocate any two of the four objects to themselves and the other two to either one out-group (strangers from other school) or in-group (good friends from the same class) member. Thus,two conditions including Out-group condition and Ingroup condition were generated. It was considered as quality equality only if each person received one high-quality resource and one low-quality resource. As for the quality-based equal distributive behavior, the result showed that there was no age difference,furthermore,there was no significant difference between In-group condition and Out-group condition for the two age groups. As for the children who allocated unequally,the results indicated that 5- to 6-year-olds were more likely to show altruistic distributive behavior in the In-group condition compared with Out-group condition, and showed more self-regarding distributive behavior in the Out-group condition than In-group condition. Furthermore,5- to 6-year-old girls, rather than boys, were more likely to show altruistic distributive behavior in the In-group condition compared with Out-group condition.
+
+Experiment 2 was conducted in the third-party context to explore children's quality-based resource allocation in the context without self-interest involvement. 64 children aged 5- to 6-yearold and 66 children aged 7- to 8-year-old were recruited and asked to allocate any two of four objects to each of two members from either in-group or out-group,generating three conditions including Out-group/out-group condition,In-group/in-group condition and In-group/out-group condition. The results showed that, on average,compared with younger children, older children were more likely to allocate equally. Besides, both of the two age groups were less likely to alocate equally in the In-group/out-group condition than in the other two conditions,but 5- to 6-year-olds allocated less equally in the In-group/out-group condition than did 7- to 8-year-olds.Furthermore,for the younger children, girls rather than boys allocated less equally in the In-group/out-group condition than in the other two conditions. Comparing the results of different involvement contexts,we found that the proportion of 7- to 8-year-old children who allocated equally in the third-party context was significantly greater than that in the first-party context.
+
+In sum,7- to 8-year-old children's quality-based resource allocation was more likely to be equal in the third-party context and showed less in-group favoritism in the two contexts than that of 5- to 6-year-old children. Furthermore,5- to 6-year-old girls were more likely to be influenced by in-group favoritism. Besides,older children demonstrated higher level of equality in the third-party than in the first-party context. The implication of this study was that children's quality-based resource allocation could be influenced by multiple competing motives including equality, in-group favoritism and self-interest.
+
+Key words resource quality; resource allocation; in-group favoritism; first-party; third-party

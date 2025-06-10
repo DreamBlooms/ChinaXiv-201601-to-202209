@@ -1,0 +1,737 @@
+[
+    {
+        "type": "text",
+        "text": "科技文献检索系统语义丰富化框架的设计与实践",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢靖王敬东 吴振新 张智雄王颖叶志飞(中国科学院文献情报中心 北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】通过采用语义识别、知识关系计算等方法提升科技文献检索系统的服务功能和效果，使之能够呈现更加丰富的知识化语义信息，将更多的知识点和知识关系展现给用户。【方法】应用数据挖掘和关系计算工具，深度识别和抽取科技文献中的语义知识，分析、计算、构建语义关系，并将得到的语义知识和语义关系建立多维语义索引树，设计新的数据组织呈现模型。【结果】研发语义丰富化检索示范系统，在科技文献检索应用过程中充分揭示语义信息，丰富检索体验。【局限】选取的试验数据集合不够充足，缺少其他领域应用对比。【结论】本文模型设计给用户带来更多的知识层面的关联、揭示和导航，提升了检索系统体验。同时分析了设计模型的不足之处，探索改进方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:语义丰富化语义知识组织语义关系呈现多维索引 分类号：TP391 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着语义技术、知识图谱和本体技术的迅速发展和在科技文献中的应用，如何发掘揭示科技文献之间的语义关系，充分利用知识和体现知识价值，是当今科技文献检索关注的重点。人们不再满足原有“关键词$^ +$ 检索列表\"模式的检索系统，而希望通过语义途径检索发现科技文献，在科技文献的检索系统中呈现知识点和知识关系等更加丰富的内容。语义丰富化框架的设计目标是改进现有单一关键词导向的检索系统，将多种类型的语义知识[1]，知识之间丰富的关联关系等深层信息，利用数据挖掘与呈现技术重新组织，在科技文献检索过程中充分揭示出来。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2语义丰富化现状分析及研究意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前基于知识图谱[2的语义搜索引擎，如 Google",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KnowledgeGraph[3]，利用知识图谱改进传统搜索引擎的呈现方式，分析用户输人生成关联的百科知识，辅助组织多类型语义知识及多媒体展现，很大程度提升了用户检索体验。知名的WolframAlpha[4]和Kngine[5]智能语义搜索引擎，更是将语义搜索展现为一种智能知识问答方式。在强大的百科知识库和知识图谱支持基础上，对用户输入问题智能解析、搜索并给出相关的答案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "知识图谱的搜索引擎仅对用户输入进行语义丰富化，揭示知识图谱中的既有知识，不能发现科技文献本身潜在的知识。在文献发现过程中依然采用传统检索架构，使用列表方式呈现相关文献。而 SindiceTech[平台的研究应用，实现了对文本数据的深度拆解、语义关系计算等智能方法，将海量文本数据全部用RDF三元组[方式表示，以发现文本中潜在知识为向导，形成",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FreeBase[8关联知识库，开创了三元组搜索展示数据的先例。这种深度知识关系揭示方法对发现原始文本内部的潜在知识关系具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于SindiceTech平台面向互联网广泛领域的数据采集、组织，没有针对特定科研领域的实体名称和关系进行规范和控制，检索产生较多噪声数据，影响了语义关系检索的效果，因此没有在科技文献检索中应用。本文设计思路综合了知识图谱检索和三元组数据组织发现两种方式，充分利用专业领域知识，并在科技文献深度标注和知识关系计算的基础上，对文献中出现的知识和关系进行规范。综合以上平台的设计思路，设计语义丰富化呈现模型。利用Apache Solr[9]分面机制设计多维索引，充分发掘揭示既有语义关系和潜在语义关联，从而在用户输人端和检索过程中提",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "升语义丰富化检索体验。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为体现科研领域主题范围内的语义丰富化效果，本文的试验选择 PubMed[10]的医学领域的 MigraineDisorder、HeartDiseases这两个主题近两年内的文章集合作为示范系统的试验数据集，采用医学领域数据挖掘计算较为成熟的 SemRep[1]和ClausIE[12]作为基础数据挖掘分析工具，研发了检索示范系统以探索科技文献检索的语义丰富化的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3语义丰富化的总体架构设计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，科技文献检索系统语义丰富化的总体架构设计分为语义计算和语义索引两个部分。语义计算面向知识的挖掘与组织，语义索引面向知识的揭示与应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/156ead1a61ecc72b03415fe4b4b36a09913c3af471ec244a52dba8ee810dcb71.jpg",
+        "img_caption": [
+            "图1语义丰富化总体设计框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 语义计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文本中包含的具有语义价值的术语和实体，本文统称为知识对象[13]。语义计算工作首先标识出文献的关键词，并识别出它所属的类型(即它是什么)，即得到本文需要的知识对象；其次计算出各个知识对象之间的关联关系。如图1上部分所示，语义计算包括：文献线索标引、内容语义标引、语义关系抽取、句法关系抽取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）文献线索标引：主要包括对文献基础描述元数据的加工、标引。根据文献提供的结构化摘要文本，切分研究目的、研究方法、研究工具、研究结果等结构化摘要，并实现句子切分预处理，以支持后续知识",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对象关系抽取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）内容语义标引：实现文本内容中具有语义价值的术语和实体的标引，通过内容标引过程得到试验需要的知识对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）语义关系抽取：根据同一个句子中计算标引得到的知识对象，在UMLS[14]和 STKOS 科技知识组织体系开放引擎[15]中查询每两个知识对象可能存在的语义关系[1]，并将语义关系记录为 S-P-O三元组[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）句法关系抽取：使用自然语言处理方法计算句法关系[18]，将长句拆分成短句和子句，并在短句中计算出主谓宾关系，将主谓宾关系以S-P-O三元组的方式记录。一个长句子可以拆分、记录为多个S-P-O三元组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 语义索引 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "语义索引工作将语义计算后得到的文献线索、文本内容、知识对象、对象关系等不同维度的数据，构建多维度的语义索引体系，将各个维度数据有机组织起来，便于语义丰富化检索系统揭示应用。如图1下半部分所示，语义索引分为三个部分：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）文献索引：对文章的基本描述元数据进行索引、文本切分后的句子片段索引，保障文章与所属句子片段的映射关系，用于文献元数据查询浏览和文本片段组织呈现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）知识对象索引：用于对知识对象的检索查询和分类展示，识别并规范用户输人关键词。并将知识对象与文献文本组织关联，用于定位知识对象存在于某篇文献和具体某个句子之中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）知识关系索引：语义标引工作得到语义、句法两种关系，文本索引将这两种关系合并统称为知识关系，它们均以S-P-O三元组的方式表达。知识关系索引以三元组为基础构建，实现知识关联导航和潜在知识关系发现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4语义计算框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "语义计算框架工作流程如图2所示，参照MeSH主题词表[19将医学领域知识对象划分为16个一级大类、134个二级分类[20]和 30 种谓词语义关系(根据NLM每年更新，分类和关系的数目、结构有所变动)选取医学领域文献的标题和摘要文本数据作为试验素材，使用 SemRep 和MetaMap[21]工具对试验文本数据中的重要知识对象进行标引抽取。使用 MetaMap 和ClausIE工具实现对试验文本数据中的语义关系计算识别。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/312abb85ae30dc2b3ba273528254be17cacb8706def1d219efbf69991158a823.jpg",
+        "img_caption": [
+            "图2语义标引流程",
+            "图3MetaMap语义标引结果示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1 内容语义标引",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）文献内容的语义标引 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过StanfordTagger[22]和ClausIE句法解析工具对20 万条科技文献进行分句等预处理；利用dTagger[23]对预处理后的科技文献进行词性标注；通过美国国立医学图书馆基于UMLS 超级叙词表开发的 MetaMap工具将句子拆分成具有意义的短语片段。如对标题“Effectiveness of behavioural management on migraineinadult patients visiting family practice clinics:arandomizedcontrolledtrial\"处理，可得到A-E，5个短语，具体标引示例如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标题:\"Effectiveness of behaviouralmanagement onmigraine inadult patients   \nvisiting family practice clinics:a randomized controlled trial.\"   \nMetaMap分析结果：   \nA:'Effectiveness of behavioural management’；B:'onmigraine in adult patients'；C:visiting   \nD:'family practice clinics'；E:'arandomized controlled trial'   \nA:(lexmatch(effectiveness),inputmatch(Effectiveness)， tag(noun)); (lexmatch(behavioural),inputmatch(behavioural),tag(adi); (lexmatch(management),inputmatch(management),tag(noun)) …   \nE:(lexmatch([a),inputmatch([a]),); (lexmatch('randomizedcontrolledtrial),inputmatch(randomized,controlled,trial),tag(noun)) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）知识对象的语义识别语义标引得到的结果，通过 SemRep 工具与",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UMLS超级叙词表进行映射，并识别出各词的语义类型，以及抽取可信赖的语义关系。同图3示例，经SemRep对上述标题分析后可得到10个实体和语义关系，具体如表1所示。通过语义识别实现了文本标引内容与MeSH主题词表16个一级大类、134个二级分类的重要知识对象的识别映射。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/55130de475d10672748caad6683b1694e7604ba9f2df474769488af7116375cd.jpg",
+        "table_caption": [
+            "表1SemRep 知识对象语义识别结果"
+        ],
+        "table_footnote": [
+            "语义关系识别结果： SE|00000000|tx|1|relation|3|1|C0149931|Migraine Disorders|dsyn|dsyn|/migrainel||1000|44|51| PREP|PROCESS_OFl||53|54|3|1|C0030705|Patients|podg,humn|humnlpatientsl||888|62|69 "
+        ],
+        "table_body": "<html><body><table><tr><td>标记 SemRep</td><td>文章 PMID</td><td>来源 标记</td><td>文本 位置</td><td>术语类型</td><td>MeSH 词表 术语代码</td><td>MeSH词表 标准术语</td><td>语义关系 缩写</td><td>文本中 原始词汇</td><td>置信度</td><td>术语开 始位置</td><td>术语结 束位置</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C1280519</td><td>Effectiveness</td><td>qlco</td><td>Effectiveness</td><td>1000</td><td>1</td><td>13</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0150143</td><td>Behavior mannagement</td><td>topp</td><td>behavioural managenment</td><td>964</td><td>18</td><td>39</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0149931</td><td>Migraine Disorders</td><td>dsyn</td><td>migraine</td><td>1000</td><td>44</td><td>51</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0001675</td><td>Adult</td><td>aggp</td><td>adult</td><td>888</td><td>56</td><td>60</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0030705</td><td>Patients</td><td>podg</td><td>patients</td><td>888</td><td>62</td><td>69</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0015607</td><td>family medicine (field)</td><td>bmod</td><td>family practice</td><td>901</td><td>81</td><td>95</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0442592</td><td>Clinic</td><td>hcro,mnob</td><td>clinics</td><td>901</td><td>97</td><td>103</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C1514720</td><td>Randomized</td><td>ftcn</td><td>randomized</td><td>851</td><td>108</td><td>117</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0702113</td><td>Controlled</td><td>ftcn</td><td>controlled</td><td>851</td><td>119</td><td>128</td></tr><tr><td>SE</td><td>00000000</td><td>tx</td><td>1</td><td>entity</td><td>C0008976</td><td>Clinical Trials</td><td>resa</td><td>trial</td><td>851</td><td>130</td><td>134</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 语义关系计算识别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用MetaMap工具实现语义关系的计算识别，将知识对象关系识别为30个规范关系；利用ClausIE工具实现对句法树关系的识别；将MetaMap 和ClauseIE两种工具识别的语义关系数据合并整合，参照MetaMap选取的30个规范关系对试验数据规范修正。完成的数据组织、规范工作包括：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）实现文献内部知识对象的语义关系标引，通过SemRep 和MetaMap工具实现科技文献中30种语义关系的抽取，挖掘知识对象之间潜在的知识关系。(2）实现文献内容的句法关系标引，通过ClausIE工具实现科技文献中句法关系(S-P-O)抽取，发现知识对象(关键词、术语)之间潜在关联关系。(3）整合语义关系和句法关系标引，对1116篇文献摘要进行抽取，共提取S-P-O关系50204条，包括语义关系41590条，以及语法关系8614条。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3关键问题解决方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）标引内容与MeSH词表映射",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SemRep处理后的结果如表1所示，以第一行数据为例，红色字段(例子中的qlco)为134个二级分类的语义关系缩写，本文完成了MeSH词表对应的16个一级大类、134个二级分类的英文全称、英文缩写及中文名称收集整理。通过红色字段进行关联，建立起文本识别术语与MeSH词表映射关系。从而解决了SemRep处理后的结果与MeSH主题词表对应关系问题",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)ClausIE 抽取出的主语(S)、谓词(P)与 UMLS超级词表的对应",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ClausIE按照句法关系抽取三元组与SemRep抽取的实体不能完全匹配；同时SemRep只能抽取语义动词，其他动词都被忽略掉。对于前一种情况通过模糊匹配的方式保证实体的对应；对于第二种情况，使用从MetaMap中提取出动词，然后进行匹配的方法，保障试验数据的规范性和一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5语义索引体系构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "语义索引设计目标是揭示知识对象和对象间多种语义关系，改变当前单一维度索引的方式，使用多棵索引树整合协同工作，多维度呈现语义内容。如图4所示，语义索引以知识对象为核心，遵循用户使用流程，从检索关键词出发，通过知识对象索引对输人关键词进行语义识别和语义消歧；然后通过知识对象关系索引，遍历知识网络，导航、筛选所需关联知识；通过桥接索引确定知识对象所在的句子、段落；最后通过文献索引查询、展示包含相关知识内容的文献信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/99f93c909b6ae67121f9a631305b53ce518dfdcee092f4e2c7de1188fd541f5a.jpg",
+        "img_caption": [
+            "图4语义索引架构设计图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1语义索引的功能与组织结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于上述4个步骤，将索引分为4个功能部分：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）知识对象索引 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 知识对象索引：将用户检索输入的关键词转换为相关知识对象，实现语义检索转变。检索并展示知识对象的各项属性，发现语义冲突的关键词，实现语义消歧功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 依存关系索引：索引知识对象存在的位置(如文章具体句子)，用于快速查询定位包含该知识点的文献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）知识关系索引 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 语义关系索引：索引文本中出现的知识对象间的语义关系(上述语义计算得到的语义关系，利用STKOS知识组织系统规范语义关系[24)，实现语义关系的检索和分析展示功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 语法关系索引：索引文本中出现的知识对象间的语法关系(语法关系是基于NLP[25]句法分析得到句法关联关系)，用于区别语义和语法关系的检索和分析展示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）共现统计索引 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 对象-共现关系索引：实现知识对象和存在同一文献的索引记录，用于分析和揭示语义知识对象的共现关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 对象-共段关系索引：实现知识对象和存在同一段落的索引记录，用于分析和揭示语义知识对象的共段落关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 对象-共句关系索引：实现知识对象和存在同一句子的索引记录，用于分析和揭示语义知识对象的共句子关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)文献索引 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 元数据索引：索引文献的元数据描述信息，用于文献描述信息的展示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 片段句子索引：对文章的文本内容和句子索引，用于展示文献内容和相关知识对象的高亮显示等功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文试验根据选取的数据集，共实现索引文献1116篇，段落4023个，句子7684个，索引知识对象4935条。索引知识关系50204条。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2关键问题及解决方案",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）输入关键词与知识对象的映射 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验中可能出现用户输入关键词语与索引中知识对象不能完全匹配问题，造成无法映射到准确的知识对象的问题；输入的一个关键词可能包含多种含义，发生语义识别歧义，无法明确映射到具体知识对象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对第一个问题，采用索引模糊匹配方法，选取匹配分值最高的知识对象，并列出匹配的前5条列表通知用户，以便再次人工修正语义识别；对第二个问题，则提示用户存在不同含义的知识对象，由用户选择修正实现语义消歧。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）知识对象之间关联关系的统计揭示 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "知识对象之间的关系都以三元组S-P-O的方式在ApacheSolr中建立索引，如何使用Solr检索分面机制统计揭示知识对象之间的关联关系是一个难题。本文采用在三元组索引中加人冗余字段的方法，索引结构如表2所示。当检索主语(S)时对谓语宾语 $( \\mathrm { P + O } )$ 组合字段分面，检索宾语(O)时对主语谓语 $( \\mathsf { S } ^ { + } \\mathsf { P } )$ 组合字段分面。利用Solr的分面和频次统计功能，在检索任意知识对象时，通过对 $\\scriptstyle ( \\mathrm { P + O } )$ 和 $( \\mathsf { S } ^ { + } \\mathsf { P } )$ 分面，即可在检索结果集中揭示出现频次TopN的关联知识对象，帮助发现潜在知识。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a35b96b5d47b069013908de93ff82c97f4b41aaee269fa70a47711e42ad1ffb1.jpg",
+        "table_caption": [
+            "表2三元组索引字段描述表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>索引字段</td><td>字段描述</td><td>字段功能</td></tr><tr><td>S</td><td>三元组主语</td><td>检索查询</td></tr><tr><td>P</td><td>三元组谓语</td><td>检索查询</td></tr><tr><td>0</td><td>三元组宾语</td><td>检索查询</td></tr><tr><td>S+P</td><td>主语与谓词拼接组合</td><td>分面揭示</td></tr><tr><td>P+O</td><td>谓词与宾语拼接组合</td><td>分面揭示</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6语义丰富化示范平台实现 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.1试验系统的数据组织",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为实现语义丰富化检索示范平台，系统将数据组织为4个维度，如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/021af1711e0507b2d459c0f2a33e9ac70af806d0bd5686d81b0ff1178240072b.jpg",
+        "img_caption": [
+            "图5语义丰富化检索的数据组织结构",
+            "图6语义识别功能展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一维度是文献描述层，对文章的标题、作者、摘要、发表时间等基本元数据表达揭示；第二维度是文本片段层，将文本摘要切分成段落和句子，对句子和段落关联揭示；第三维度是知识关系层(图5中将知识对象及它们之间的关系统称为事实)，用于对知识关联关系表达揭示；第四维度是知识对象层，对文本中识别出来的知识对象表达揭示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从下而上的视角看，第三、第四维度将科技文献拆分为知识对象和知识关联关系，形成语义丰富化的科技文献知识网络，用于语义化的查询与关联导航。第一、第二维度结合文献的基本信息和文本片段，将知识与文献有机关联组织，用于知识呈现，辅助文献检索阅读。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.2 示范平台功能实现",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "语义丰富化示范平台围绕用户的知识化应用需求，用户检索流程设计为：输入识别诠释、知识关系展示、潜在知识关联发现、语义辅助浏览。语义丰富化示范平台的研发实现了这4个功能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）识别诠释用户输入",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "示范系统第一步根据用户输人关键词识别出相应的知识对象，诠释并呈现具体知识内容。如图6所示，输入检索关键词\"Headache\"，系统识别\"Headache\"相关的知识对象，它是属于“体征或症状\"的类型范畴。同时给出关于Headache的百科词条解释和相关的图片，并列出了“Headache\"相关的知识对象以便用户选择修正。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Headache 搜索 领域知识 语义解释 相关图片 Headache（体征或症状） （来自维基百科） A headache or cephalalgia is pain Headache Disorders（痪病或症状） Primary Exertional Headache(疾病或症 differentconditions cfthe bead and neck. [1]Headachescanresultfomawiderange 状) of causes both benign and more serious. Braintisueitelfisotesitivetopainas Headache Disorders,Secondary（疾病 it lacks pain .. HORE 或症状） 更多>> Primary Cough Headache（疾病或症 状） Headache Disorders,Primary (疾病或症 状） Hemicrania（体征或症状） Neuralgia（体征或症状） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "较之传统文献检索，该功能可以规范用户输入，将简单的关键词匹配检索转变为具有语义特征的知识对象检索，使得语义丰富化检索更加精准。同时语义识别功能可以标示知识对象的所属类型，辅助用户进行语义消歧。避免传统关键词检索经常出现的语义偏差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）知识关系图形展示",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "知识关系揭示功能以检索输入的知识对象为中心，在检索结果中以图的方式揭示了与其相关的知识对象、知识关系、知识所在的文章片段，如图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当前退媒Headache(11)   \n共现关系 自关 日期 题名 领域知识 共现关系 共关系 共句关系 语义关系 语法关系 Headache（体征或症状）   \n· Migraine Disorders (92) Headache Disorders （疾病或症状）   \n• Patients (63) \\*4 Primary Exertional Headache （疾病或症   \nCinia gee RR Hedachesares more 或症状） Primary Cough Headache (病病或症   \n共投关系 Hedachesrr   \n• Migraine Disorders (92) 状）   \n· Patients (63) Hemicrania（体征或症状）   \n• Clinical Research (55) 12 Neuralgia（体征戒症状）   \n· Common (29) Certified（想法或概念） more Chronic post-traumatic headache (痰病 或症状）   \n共句关系 Headache（体征或庭状）   \n• Migraine Disorders (70) Headache Disorders (疾病或症状）   \n• Patients (54) Primary headache e der 7 years of age Primary Exertional Headache （疾病或症   \n• Tension Headache (35) ISSN: publication-date:2013 Vofume (ssue: Pages- 状）   \n• Headache Disorders (33) 责任者 Presad, M Abu Headache Disorders, Secondary (病病 more 语义对象： Clinical Young, Headache Disorders, Primary, Child, Common, 或症状） Ambulatory Care Facilities, Most, Headache Disorders, Atypical, Unclassified, Primary Cough Headache (痰病或症 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "这些知识及关联关系以图形化的点和边的方式展示，使用不同颜色的点代表不同类型的知识对象，不同形状表示知识之间的不同类型的关系。通过“点击-关联-展示\"的导航操作方式，用户可以选择查看任意一个图上出现的知识点，并展示周边知识脉络，深入发现自己需要的知识。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "示范系统能够展示检索结果中的知识关系，对科研人员判断该内容是否满足其检索需要有很大的帮助。本文认为以发现知识为先导，通过知识对象关联查看文献全文的检索方式代替传统关键词检索，对提升语义检索的精准性更有帮助。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）潜在知识关系发现",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "潜在知识关系发现功能以检索输人的知识对象为中心，在检索结果文献中利用\"共现关系索引\"统计出共现、共段落和共句子的知识对象。并实现关联知识对象的分面浏览，便于科研用户从潜在的关联知识对象中发现有价值的内容，并提供导航功能筛选出这些科技文献。如图8上半部分所示：查询Headache时共现关系、共句子关系、共段落关系出现MigraineDisorders、ClinicalResearch等，对科研人员起到启示的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同样,S-P-O语义关系和句法关系分面揭示，以谓词 $+$ 宾语(知识对象)的分面统计方式揭示潜在语义、句法关系。如图8下半部分所示：检索Headache，通过语法关系揭示发现儿童治疗(PROCESS_OFChild)、治疗青春期(PROCESS_OF Adolescent)等深层专业领域知识的文章，通过句法关系揭示出相关治疗药物(followedEplepsy)的研究论文等，给科研人员提供明确的知识关系启发和导向。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/65a22e2d1b96b41e16f4bb38e7822e3e624021a95d2f494b6805be18516362c4.jpg",
+        "img_caption": [
+            "图7检索结果知识关系展示",
+            "图8语义关系导航展示图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "示范系统分面导航功能展现的知识共现关系及语义、语法关系，是根据已有文献数据统计方式揭示出来的，有助于发现文献内隐含的知识关联信息，有助于科研人员发现新的潜在的知识关系，探索学科交叉领域的新研究点，扩展科研人员的研究思路，辅助科技创新。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4）单篇文献语义化辅助阅读 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图9所示，语义化辅助阅读功能在查看单篇文献时，可以将知识对象和知识之间关系高亮展示。图9左侧的树形列表展示的是该篇文献中的语义知识对象，将这些语义知识对象按照类型分为不同的组，用不同颜色标示。中间主体部分是文献的文本信息，当选中某个类型的知识对象后，在中间的文本信息用该对象的颜色高亮显示出来，标示在文献中出现的位置，方便用户查阅。右侧展示该文献中计算得到的语义关系和句法关系，同样可以查看知识关系在文中的具体句子、段落的位置。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "示范系统所提供的语义化辅助阅读方式，可以帮助用户直接查看知识点，直接定位知识所在的具体位置，引导读者优先阅读相关知识密集的段落和句子，从而提高对文献全文内容的阅读效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "田内容标注 Comparative safety of antiuterd or during breastfeeding:protocol 实体（65） networkmeta-analysis 语义关系（11）   \n（92） motor symptoms(ASSOCIATED_WITH)idio) maycontinue taking AEDs.Manyof these agents cross theplacentaar Apathy(ASsOCIATED_WITH)idiopathic Par □ congenital malformations, earlycognitiveand developmental del apathy(ASSOCIATED_WITH)PD Chemicals & Drugs Veaim toevaluate thecomparative safety of AEDs approved for chron disorder(COEXISTS_WITH)apathy Concepts & Ideas administeredto pregnant and breastfeeding and the effects on disorder(COEXISTS_WITH)depression Disorders childrenthrough a systematic review and network meta-analysis. Parkinson disease(COEXISTS_WITH(SPEC Geographic Areas effectsofAEDsadministered topregnant and breastfeedingwomen Parkinson disease(COEXISTS_WITH(SPEC LivingBeings epilepsy，migraine,pain,psychiatric disorders)ontheirinfant 田Dbietsea MRANOEarkiondiseas Physiology literaturesearch wil1 beexecuted inEDLINE,EMBASE，and the Coch depression(ISA)symptoms ControlledTrials. We will seek unpublished literature through seal Parkinson disease(ISA)disorder   \n语义关系（9） protocolregistriesand conferenceabstracts.Theliteraturesea 句法关系（13） screening(ADMINISTERED_TO)individuals abstraction,andrisk of biasappraisal will beperformed bytwoin Apathy and depression(are)heterogeneo Depilepsy(PROCESS_OF)individuals usingtheNewcastle-Ottawa Scaleandqualityofreportingof safet interest(be identified)as significant using epilepsy(PROCESS_OF)Pregnant women using the Iclaster QualityAssessmentScaleof Harms cHarm)tool □significant(be using)standard voxel-wise: breastfeeding(PROCESS_OF)women we will conduct random effectsmeta-analysis. Networkmeta-analys apathy and depression(co-exist)ina singl observational studies(UsES)Scale outcomes that fulfill network meta-analysisassumptions.The primary No functional imaging study(nasattempte methodological quality(UsES)Scale congenital malformations(overall and byspecific types)，whiles Parkinson disease PD(sa disorder feta1loss/miscarriage,minorcongenital malformationsoverall This clinical overlap(leads)to problems wit cognitive development,psychomotor development,smal1 for gestati analyses(mayadd)useful scientific inform: andneonatal seizures.DISCUSsION: Our systematic review wil1 addres use of AEDsduring pregnancy and breastfeeding. Our results wi11 Our finding that significance and reliability providers, policy-makersand Womenof childbearingagewhoare talk Our results(support)the use of resting fM medications.SYSTEIATIC REVIEV REGISTRATION:PROSPEROCRD420140089 Disease severity(was predicted)by ALFF s ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文提出语义丰富化框架的设计模型，通过构建示范系统进一步证明语义丰富化框架的优势和可行性。从以下4个方面提升了文献检索效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）语义识别技术将关键词匹配检索转变为具有语义特征的知识对象检索，提升检索精准度。辅助用户进行语义消歧，避免关键词检索出现的语义偏差。(2）使用相关知识对象、知识关系精准的语义表达代替列表式检索结果呈现，有助于科研人员判断检索内容是否满足其需要。(3）语义关联导航功能有助于发现隐含的知识关联信息，辅助科研人员发现新知识关联，探索学科交叉领域，扩展研究思路。(4）语义化的辅助阅读，高亮显示知识点的位置，引导读者优先阅读相关知识点密集的段落，提高文献内容的阅读效率。在本文试验过程中，也存在一些不足之处，希望在未来的工作得以克服和改进。(1）句法分析得到的S-P-O三元组关系未能完全映射到MeteMap提供的30种规范谓词。未规范的谓词对关联导航发现功能造成一定程度的影响，后续考虑构建谓词规范词表，修改谓词语义识别算法对此改进。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）知识关系揭示频繁与宽泛的上位词关联，宽泛上位词不利于帮助专业领域的科研。未来尝试通过TF-IDF等加权计算方法过滤频繁而宽泛的上位词，改进知识关联导航的效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）本文试验数据集合较少，缺少大数据集上的应用测试。同时缺少对医学领域以外的应用试验以对模型进行对比评估。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] U.S.National Library of Medicine.Semantic Knowledge Representation [EB/OL].[2016-01-13].https://skr3.nlm.nih. gov/.   \n[2] Wikipedia.Knowledge Graph [EB/OL].[2016-02-10].https:// en.wikipedia.org/wiki/Knowledge_Graph.   \n[3] Google Inside Search [EB/OL].[2016-02-10].https://www. google.com/intl/es419/insidesearch/features/search/knowledge. html.   \n[4] Wolframalpha. Computational Knowledge Engine [EB/OL]. [2015-03-10].https://www.wolframalpha.com/.   \n[5] Kngine.The Most Intelligent Engine [EB/OL].[2015-03-10]. http://www.kngine.com/.   \n[6] SindiceTech.Enterprise Knowledge Graphs [EB/OL].[2015- 03-10].http://www.sindicetech.com/overview.html.   \n[7] W3C Semantic Web.RDF [EB/OL].[2015-06-05].https:// www.w3.org/RDF/.   \n[8] SindiceTech.FreeBase Distribution [EB/OL]. [2015-03-10]. http://www.sindicetech.com/freebase-distribution.html.   \n[9] Apache Solr [EB/OL].[2015-06-05].http://lucene.apache. org/solr/.   \n[10]PubMed [EB/OL]. [2015-10-11]. http://www.ncbi.nlm.nih. gov/pubmed.   \n[11] U.S. National Library of Medicine.SemRep [EB/OL]. [2015-10-22]. https://semrep.nlm.nih.gov/.   \n[12] Del Corro L,Gemulla R.ClausIE:Clause-Open Information Extraction[C]//Proceedings of the the 22nd International Conference on World Wide Web.2013:355-366.   \n[13] Merrill M D. Knowledge Objects[R]. USA: CBT Solutions, 1998: 1-11.   \n[14]U.S. National Library of Medicine.Unified Medical Language System (UMLS）[EB/OL]. [2016-01-13]. https:// www.nlm.nih.gov/research/umls/.   \n[15]王颖，张智雄，李传席，等．科技知识组织体系开放引擎 系统的设计与实现[J]．现代图书情报技术,2015 (10): 95-101.(Wang Ying, Zhang Zhixiong,Li Chuanxi, et al. The Design and Implementation of Open Engine System for Scientific & Technological Knowledge Organization Systems [J].New Technology of Library and Information Service, 2015 (10): 95-101.)   \n[16]UMLS. Semantic Relationships [EB/OL].[2015-10-17]. https://www.nlm.nih.gov/research/umls/new_users/online_lea rning/SEM_004.html.   \n[17] Chakraborty A,Munshi S,Mukhopadhyay D.Searching and Establishment of S-P-O Relationships for Linked RDF Graphs:An AdaptiveApproach [C]//Proceedingsof International Conference on Cloud & Ubiquitous Computing & Emerging Technologies (CUBE).2013.   \n[18]Matthews P H. Syntactic Relations:A Critical Survey[M]. University of CambridgePress,2007:3-10.   \n[19] U.S.National Library of Medicine. Medical Subject Headings (MeSH) [EB/OL]. [2015-06-05]. https://www.nlm.nih.gov/ mesh/.   \n[20] U.S.National Library of Medicine.MeSH Category Tree View[EB/OL].[2015-06-05]. https://meshb.nlm.nih.gov/#/ treeSearch.   \n[21] MetaMap - A Tool For Recognizing UMLS Concepts in Text [EB/OL].[2015-06-20]. https://metamap.nlm.nih.gov/.   \n[22] The Stanford Natural Language Processing Group. Stanford Part of Speech Tagger [EB/OL].[2015-08-24]. https:/lp. stanford.edu/software/tagger.shtml.   \n[23] SPECIALIST dTagger[EB/OL].[2015-06-20].https:// specialist.nlm.nih.gov/dTagger/.   \n[24]孙坦，刘峥．面向外文科技文献信息的知识组织体系建设 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "思路[J].图书与情报,2013(1):2-7.(Sun Tan,Liu Zheng. Methodology Framework of Knowledge Organization System for Scientific & Technological Literature [J].Library& Information,2013(1): 2-7.) [25]Rindflesch T C,Fiszman M.The Interaction of Domain Knowledge and Linguistic Structure in Natural Language Pprocessing:InterpretingHypernymicPropositionsin Biomedical Text [J].Journal of Biomedical Informatics, 2003,36(6): 462-477. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "谢靖：语义丰富化检索模式设计及示范系统框架设计、研发，论文主要撰写人;  \n王敬东：数据处理、语义标引、关系计算工作，论文语义计算章节撰写人;  \n吴振新：论文内容结构组织，文字编撰修订;  \n张智雄：语义计算、语义索引设计思路提出;  \n王颖：示范系统数据组织和图形展示方案设计;  \n叶志飞：示范系统图形展示模块开发工作。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:xiej@mail.las.ac.cn。  \n[1]谢靖，王敬东.pubmed_paper.csv.PubMed 提取开放获取的试验文献数据.  \n[2]谢靖，王敬东．mesh_object.csv.MeSH提取规范后的医学知识对象数据.  \n[3]谢靖，王敬东.stkos_object.csv.STKOS 提取规范医学领域规范知识对象数据.  \n[4]王敬东，谢靖．semrep_anno.csv.SemRep 知识对象标引结果数据.  \n[5]王敬东，谢靖．semrep_spo.csv.基于 SemRep 知识关系计算结果数据.  \n[6]王敬东，谢靖.clausIE_spo.csv.基于ClausIE 知识关系计算结果数据.  \n[7]谢靖.solr_semantic_index.rar.基于Solr语义索引数据.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-03-03  \n收修改稿日期:2017-04-08",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Building Semantic Enrichment Framework for Scientific Literature Retrieval System ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xie JingWang JingdongWu ZhenxinZhang ZhixiongWang YingYe Zhifei (National Science Library, Chinese Academy of Sciences,Beijing 10o190, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper aims to improve the scientific literature retrieval system with the help of semantic recognitionand knowledge relationshipcomputing.[Methods]First,we identifiedand extracted semanticobjects from the scientific literature.Then,we calculated and established semantic relations among the objects using data-mining tools.Finaly,we built semantic multidimensional index fortheseobjects and relations,and then designeda new data organization model.[Results]The new system effctively identified the semantic information and improved the user experience.[Limitations] We need to expand the dataset used in this study and evaluate the new system in other areas. [Conclusions] The proposed system could retrieve more knowledge and indicate some future directions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Semantic Enrichment Semantic Knowledge Organization Semantic Relation Presentation Multidimensional Index ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Springer和FedericaWeblearning推出MOOC和教科书项目",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2017年2月底,Springer与Federica Webleaming 达成合作,Federica Webleaming是一个致力于创新、实验和传播多媒体远程学习的学术平台。这一合作为作者和讲师在特定主题上同时编写教科书和MOOC(Massive Open Online Course)提供了多种选择。这一举措使 Springer 能够进一步加强其在教科书出版方面的专业知识，并为其作者和客户提供增强的教学经验。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MOOC 和教科书项目邀请了世界各地的作者从一开始就做好教科书与附带 MOOC一起编写的计划。此外，目前在Federica Webleaming平台上运行 MOOC 的讲师也有机会通过 Springer 出版相应的教科书。世界各地研究机构的作者和讲师都可以参加这一活动。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Federica Webleaming平台上的课程广泛覆盖了大学的学科领域，包括数学和统计学、计算机科学、工程与物理科学、生物医学和生命科学、商业与经济学、人文社会科学等。Federica Webleaming主管 Mauro Calise 表示:“Federica Weblearming 和Springer 在这次新的合作项目中联手展示了全球最好的国际性研究，该项目为基于一本教科书创建 MOOC，或基于在线课程创建一本教科书提供了独特的机会，将科学论文的高质量与在线教育产品的交流能力相结合。”",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Springer的 MOOCs 计划执行总编辑兼项目经理Francesca Bonadei表示:“Federica Weblearming平台涵盖的学科范围十分之广，与 Springer 的广泛组合完美匹配。我们计划首先推出基于畅销作家 Bruno Siciliano 撰写的图书而制作的新 MOOC，同时，我们期待与Federica Weblearning 的讲师一起帮助他们出版课程所附带的教科书。”",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(编译自：htps://ww.springer.com/gp/about-springer/media/press-releases/corporate/moos-and-books-initiative-launched-by springer-and-federica-weblearning/12241436) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 9
+    }
+]

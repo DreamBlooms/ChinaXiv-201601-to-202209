@@ -1,0 +1,162 @@
+# 黄河三角洲盐碱地人工刺槐混交林细根分布研究
+
+白世红(,2);丁新景(1);马风云(,2),李树生);敬如岩(1);黄雅丽(1)(1).山东农业大学林学院泰安271018;(2).农业生态与环境重点实验室泰安 271018:(3).三明学院数学与计算机科学系三明365000
+
+摘要：为研究黄河三角洲盐碱地人工刺槐混交林及纯林细根空间分布格局，选取绒毛白蜡刺槐混交林、臭椿刺槐混交林、刺槐纯林，采用土柱法取样，从细根生物量密度、表面积密度、体积密度、根长密度等方面研究盐碱地中不同林分中树木细根的垂直分布情况，从细根生物量分析不同林木细根垂直分布情况，研究不同人工林细根分布差异及土壤影响因子。结果表明：绒毛白蜡刺槐混交林在细根的生物量、表面积、体积、根长等方面都显著高于臭椿刺槐混交林和刺槐纯林；绒毛白蜡刺槐混交林 $9 5 . 7 7 \%$ 细根生物量分布在 $0 { \sim } 6 0 \ \mathrm { c m }$ 王层，臭椿刺槐混交林 $8 5 . 3 7 \%$ 细根生物量分布在$0 { \sim } 4 0 ~ \mathrm { c m }$ 土层，而刺槐纯林的细根在土壤中分布则比较均匀， $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层细根占生物量总量的 $6 6 . 3 8 \%$ 。绒毛白蜡细根生物量最高，显著高于其他林木。绒毛白蜡刺槐混交林细根表面积密度、体积密度、根长密度显著高于刺槐纯林；臭椿刺槐混交林高于刺槐纯林，差异不显著。绒毛白蜡刺槐混交林、臭椿刺槐混交林细根总根尖数分别是刺槐纯林的2.34倍、1.23倍，总分叉数分别为刺槐纯林的6.15倍、1.66倍。绒毛白蜡刺槐混交林、臭椿刺槐混交林、刺槐纯林树木细根生物量与土壤有效磷、速效钾含量呈显著正相关关系；绒毛白蜡刺槐混交林细根生物量碱解氮、有机质含量呈极显著正相关关系。适当的混交模式在一定程度上提高了人工林细根生物量，增强植物吸收土壤营养物质的能力，混交使人工林在盐碱立地条件下适应能力提高。
+
+关键词：刺槐；混交林；纯林；细根；盐碱地中图分类号：S728.5;S718.5
+
+# Fine root distribution in mixed Robinia pseudoacacia plantation in saline soils of the Yellow River Delta
+
+BAI Shihong1,2,DING Xinjing1, MA Fengyun $^ { 1 , 2 ^ { * * } }$ , LI Shusheng³, JING Ruyan1, HUANG Yali1   
+(1.CollegeofForestry,handongAgricultural UniversityTaian27o18,China;2.KeyLaboratoryforAgriculturalEcologyand   
+Environment,Ti'an70l8,China;3.DepartmentofathematicsandComputerSciences,anming Universitynming6000, China)
+
+Abstract:TodeterminethedistributionoffinerootsofRobinia pseudoacacia mixedforestsandpureforestinsaie-alkali soilsof YellowRiver Delta,finerootdistributions inFraxinusvelutinaandRobiniapseudoacaciamixed forest,Ailanthusltisimaand Robinia pseudoacacia mixed forest and Robinia pseudoacacia pureforest were sampled with a soil columnmethod.The vertical distributionsoffierootsindferentforeststadswereaalyedforthedistributiosofierootbiomassensityfieooturface areadensityolumeensityotlengthensityandoterootparameters.Teiofthestudyastolarifydierenofoots distributionofdiferentforestsandtheirrelationshipwithsoilpropertiesandtoprovidereferences forthevegetationrecoveryand treespecies selectioninsalinesoilsoftheYellowRiverDelta.Theresults showedthatfinerotbomass,surfacearea,volumeand root length of $F .$ velutina and $R$ pseudoacacia mixed forest were significantly higher than those of $A$ .altissima and $R$ pseudoacacia mixed forest and $R$ ，pseudoacacia plantations. About $9 5 . 7 7 \%$ of fine root biomass of $F .$ velutina and $R .$ pseudoacacia mixed forest was distributed in the $0 { - } 6 0 ~ \mathrm { c m }$ soil layer, $8 5 . 3 7 \%$ in the $0 { \ - } 4 0 ~ \mathrm { c m }$ soil layer for $A$ .altissima and $R$ pseudoacacia mixed forest and $6 6 . 3 8 \%$ in the $0 { - } 4 0 ~ \mathrm { c m }$ soil layer of Robinia pseudoacacia pure forest. Although surface aggregation of fine roots was conducive to reducing the harmful effects of saline-alkaline conditions on the root, fine roots of $R$ pseudoacacia pure forest were more uniformly distributed in the soil. $F .$ velutina and $R$ pseudoacacia mixed forest had the highest total fine root biomass (9 $1 . 5 6 ~ \mathrm { g }$ in $2 5 0 0 ~ \mathrm { c m } ^ { 2 }$ of soil),significantly higher than those of other trees stands.Fineroot surface area,length and volumedensities of $F .$ velutina and $R$ pseudoacacia mixed forest were significantly higher than that of $R$ pseudoacacia pure forest. Fine root tips of $F .$ velutina and $R$ pseudoacacia mixed forest and $A$ . altissima and $R$ ：pseudoacacia mixed forest were respectively 2.34 and 1.23 times that of $R$ pseudoacacia pure forest. Root forks of $F .$ velutina and $R$ ：pseudoacacia mixed forest and $A$ .altissima and $R$ pseudoacacia mixed forest were respectively 6.15 and 1.66 times that of $R$ ：pseudoacacia pure forest. There was a significant positive correlation between stand fineroobiomasswith soilavailable phosphorus andsoilavailable potassiumcontents.Thecorrelationbetwen fine root biomass with available nitrogen and organic matter content of $F .$ velutina and $R$ pseudoacacia mixed forest was also very significantandpositive.Theresearch showedthatsome mixed paterns increasedfinerootbiomass distributionandtheabilityof roots to absorb soilnutrient.This suggestedthat proper mixing paterns could increase theadaptabilityoftreeplantations. Keywords:Robinia pseudoacacia;Mixed forest;Pure forest;Fine root; Saline-alkali soil
+
+根系是为植物正常生长提高水分和养分的器官，其形态和分布直接反应林木对立地条件的适应情况，对植物生长具有决定性作用[I]。根系尤其是细根(直径 $< 3 ~ \mathrm { m m } \mathrm { , }$ ，在发挥植物功能和陆地生态系统能量流动和物质循环中扮演重要角色2]。植物细根生物量虽然占总根系比重较小，但具有巨大的吸收表面积，是植物吸收水分和养分的主要器官，细根生物量的差异对植物生长发育起到决定性的作用[2-3]。细根由于不断生长和死亡因此相对其他径级的根系变化较大，同时细根对环境变化具有重要指导作用，细根对土壤营养物质、水分的吸收及其分泌的根系分泌物质量与数量等都可以反映植物的健康状况[4]。细根生物量能可靠地反应根系对土壤养分的吸收能力[5]，因此对于植物根系的研究具有重要意义。根系是植物的地下部分，不易研究，虽然近年来对根系的研究报道较多[6-9]，对混交林根系研究也逐渐增多，认为混交对混交树种的细根产生明显影响，不同树种混交的结果不尽相同[0-13]。如钱文丽等[10]的研究表明，红松(Pinus koraiensis)细根生物量在纯林和混交林间存在差异，纯林高于红松胡桃楸(Juglans mandshurica)混交林，而与红松水曲柳(Fraxinusmandschurica)混交林无显著差异，且混交使红松细根在土壤表层 $( 0 { \sim } 1 0 ~ \mathrm { c m } )$ 比例增加；石培礼等[发现桤木(Alnus cremastogyne)和柏木(Cupressus funebris)混交林的根系生物量是柏木纯林的1.5倍；翟明普等[12]的研究表明，沙地加杨(Populus canadensis)刺槐(Robinia pseudoacacia)混交林中，刺槐细根生物量大于刺槐纯林，两树种混栽后杨树能促进刺槐的细根生长，提高了刺槐细根生物量在混交林中的比例；而林子力[13]发现刺槐纯林的细根生物量和根长均小于臭椿(Ailanthus altissima)刺槐混交林和绒毛白蜡(Fraxinus velutina)刺槐混交林，且混交使刺槐细根有表聚现象。但目前对盐碱地不同类型混交人工林植物根系分布特征仍了解较少。
+
+黄河三角洲生态环境脆弱，抗干扰能力弱，对外界环境变化适应能力弱导致生态系统退化严重[14]。为改善这种状况，在 20 世纪80 年代曾经进行大规模的人工造林，主要有刺槐、绒毛白蜡、臭椿(Ailanthusaltissima)等耐盐碱树种，人工林的建造在一定程度上对该地的水土保持等起到了重要的作用。目前针对该区人工林已经开展了多方面的研究，大多集中于土壤水盐变化[15]、生物群落[6]、土壤养分[17]、土壤生物炭变化[18]。对人工林细根分布的研究报道较少，仅杜振宇等[14]对盐碱地人工刺槐绒毛白蜡混交林两树种根系分布与细根生长进行了研究，但缺少不同林分类型间的比较。本研究从人工林树木细根分布的角度比较不同混交林和刺槐纯林的树木根系状况，探讨黄河三角洲不同林分不同种植方式下细根生物量的空间分布差异以及细根生物量与土壤特性之间的关系，为黄河三角洲盐碱植被恢复和适宜树种选择提供理论依据和支持。
+
+# 1试验地概况
+
+试验地位于山东省东营市河口区孤岛镇的济南军区黄河三角洲生产基地，地理位置为 $1 1 8 ^ { \circ } 3 9 ^ { \prime } { \sim } 1 1 9 ^ { \circ } 8 ^ { \prime }$ $3 7 ^ { \circ } 4 7 ^ { \prime } { \sim } 3 7 ^ { \circ } 8 4 ^ { \prime } \mathrm { N }$ ，面积约为 $2 \ 3 6 6 . 7 \mathrm { h m } ^ { 2 }$ 。孤岛林场位于黄河北大坝东滩地内，东、北两侧近海。该地属于暖温带半湿润季风气候，年平均气温为 $1 2 . 8 \mathrm { ~ \ ^ ~ { ~ } C ~ }$ ，年均地温 $1 5 . 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，年均无霜期 $2 3 4 \mathrm { d } .$ ，冻土期44d，年均日照$2 7 2 8 . 5 \mathrm { h }$ ，年相对湿度平均为 $6 5 \%$ ，年均降水量 $6 9 0 . 5 \mathrm { m m }$ ，降水分布不均，夏季占全年降水量的 $6 9 \%$ ，冬季最少仅占 $2 \%$ ，有效积温为 $4 3 0 0 \mathrm { ~ \textdegree ~ }$ 左右[19-20]。试验林地表层土壤类型为盐化潮土，基本理化性状如下: $\mathsf { p H }$ 8.8(土水比 $1 : 5$ ，有机质含量 $6 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，有效氮含量 $7 5 . 4 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，有效磷含量 $4 . 0 \ \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾含量$9 2 . 6 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，水溶性盐总含量 $0 . 0 8 \% ^ { [ 1 7 - 1 8 ] }$ 。
+
+试验林为31年生人工绒毛白蜡刺槐混交林(FR)、绒毛白蜡刺槐混交林(FR)和臭椿刺槐混交林(AR)。其中绒毛白蜡刺槐混交林(FR)和臭椿刺槐混交林(AR)为行状混交，一行绒毛白蜡(臭椿)，一行刺槐。刺槐纯林(RR)和混交林中刺槐出现严重的枯梢现象，而且有明显的缺株现象，臭椿和绒毛白蜡枯梢现象不明显。林下生长有茅草(Imperata cylindica)、荻(Triarrherca saccharifora)、牵牛(Pharbitis nil)等草本植物。各种林分的林木生长状况见表1。
+
+# 表1黄河三角洲盐碱地试验区不同类型刺槐人工林树木生长情况
+
+Table1Growth statusof rees indiferentstandtypesoftheinvestigatedRobiniapseudoacacia plantationinthestudyareaofsaline land in the Yellow River Delta
+
+<html><body><table><tr><td rowspan="2" colspan="2">林分类型 Stand type</td><td colspan="2">树种 Tree species</td><td rowspan="2">林龄 Age (a)</td><td rowspan="2">郁闭度 Canopy density (%)</td><td rowspan="2">株行距 Spacing (m)</td><td rowspan="2">平均胸径 Average DBH (cm)</td><td rowspan="2">平均树高 Average height (m)</td></tr><tr><td></td><td></td></tr><tr><td>绒毛白蜡刺槐混交林</td><td>FR</td><td>绒毛白蜡 Fraxinus velutina</td><td>FFR</td><td>29</td><td>73</td><td>3x3</td><td>25.2±4.36</td><td>14.1±1.59</td></tr><tr><td>Fraxinusvelutina/Robinia pseudoacacia mixed forest</td><td></td><td>刺槐Robinia pseudoacacia</td><td>RFR</td><td>29</td><td></td><td>3x3</td><td>20.5±3.26</td><td>12.8±1.75</td></tr><tr><td>臭椿刺槐混交林 Ailanthus altissima /Robinia</td><td>AR</td><td>臭椿 Ailanthus altissima</td><td>AAR</td><td>29</td><td>70</td><td>3x3</td><td>21.7±2.25</td><td>13.9±1.46</td></tr><tr><td>pseudoacacia mixed forest</td><td></td><td>刺槐 Robinia pseudoacacia</td><td>RAR</td><td>29</td><td></td><td>3x3</td><td>19.7±2.17</td><td>11.6±1.21</td></tr><tr><td>刺槐纯林 Robinia pseudoacacia pure forest</td><td>RR</td><td>刺槐Robinia pseudoacacia</td><td>RR</td><td>29</td><td>65</td><td>3x3</td><td>19.0±1.88</td><td>13.4±1.46</td></tr></table></body></html>
+
+# 2研究方法
+
+# 2.1采样方法
+
+2016年11月在绒毛白蜡刺槐混交林(FR)、臭椿刺槐混交林(AR)和刺槐纯林(RR)中分别设置 $2 0 \mathrm { m } { \times } 2 0 \mathrm { m }$ 标准地4块，在每标准地内选取相邻的2株标准木。林木细根取样采用土柱法[21]。每种林分取8株标准木，4 个土柱。试验共取 24 株标准木,12个土柱。
+
+在2株标准木中间进行土柱法取样，土柱长宽为 $5 0 \mathrm { c m } { \times } 5 0 \mathrm { c m }$ ，深 $1 0 0 \mathrm { c m }$ ，垂直方向以每 $2 0 \mathrm { c m }$ 为一层,$0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 、 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 、 $6 0 { \sim } 8 0 ~ \mathrm { c m }$ 和 $8 0 { \sim } 1 0 0 ~ \mathrm { c m }$ 共5层。将各层土柱破碎并且过筛，依据根系颜色特征挑选鉴别根系，用游标卡尺测量根系直径并且分级，其中细根 $< 3 ~ \mathrm { m m }$ ，粗根 $> 3 ~ \mathrm { m m } ^ { [ 2 2 ] }$ 。利用根系扫描系统对直径 $< 3 ~ \mathrm { m m }$ 根系进行分析，测定根系的长度、表面积、体积。最后 $8 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下将所有根系烘干至恒重，测量根系干重。另外用环刀法在3种人工林12块标准地中取土样，在每个标准地各土层分别取样一次，用于测定土壤含水量。
+
+将土柱中土壤混匀并且取土样，土样风干过 $0 . 2 0 \mathrm { m m }$ 筛，用于测定土壤理化性质。土样 $\mathsf { p H }$ 测定采用电位法(水土比为 $1 : 2 . 5 )$ ；土壤电导率采用电导法测定(水土比为 $1 : 5$ ；速效氮含量测定采用碱解扩散法；速效磷含量测定采用浸提钼锑抗比色法；速效钾含量测定采用火焰光度法；用重铬酸钾氧化-外加热法测有机质含量[23]。
+
+# 2.2 数据处理
+
+依据下列公式计算细根生物量密度、根长密度、表面积密度和体积密度：
+
+$$
+D _ { \mathrm { { W } } } { = } W _ { \mathrm { { d } } } / V _ { \mathrm { { s } } }
+$$
+
+$$
+D _ { \mathrm { { L } } } { = } L _ { \mathrm { { r } } } / V _ { \mathrm { { s } } }
+$$
+
+$$
+\scriptstyle D _ { \mathrm { { A } } } = A _ { \mathrm { { r } } } / V _ { \mathrm { { s } } }
+$$
+
+$$
+D _ { \mathrm { { V } } } { = } V _ { \mathrm { { r } } } / V _ { \mathrm { { s } } }
+$$
+
+式中: $D _ { \mathrm { W } }$ 为细根生物量密度 $( \mathrm { g } { \cdot } \mathrm { m } ^ { - 3 } )$ ： $W _ { \mathrm { d } }$ 为细根干质量 $( \mathrm { g } ) ; D _ { \mathrm { L } }$ 为根长密度 $\left( \operatorname* { m } \cdot \mathbf { m } ^ { - 3 } \right)$ ： $L _ { \mathrm { r } }$ 为根长 $( \mathrm { m } )$ · $D _ { \mathrm { { A } } }$ 为细根表面积密度 $( \mathrm { m } ^ { 2 } { \cdot } \mathrm { m } ^ { - 3 } )$ ） $A _ { \mathrm { r } }$ 为细根表面积 $( \mathbf { m } ^ { 2 } ) ; D _ { \mathrm { V } }$ 为细根体积密度 $( \mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 } )$ ： $V _ { \mathrm { r } }$ 为细根体积 $( \mathrm { c m } ^ { 3 } )$ · $V _ { \mathrm { s } }$ 为土壤体积$( \mathbf { m } ^ { 3 } )$ ， $V _ { \mathrm { s } } { = } l ^ { 2 } { \times } h , l$ 为土层的宽度取 $0 . 5 { \mathrm { m } } , h$ 为土层厚度，取值 $0 . 2 \mathrm { m }$ 。
+
+采用 Excel2013计算根系生物量、表面积、长度、体积等指数的平均数、总和、密度以及百分比。应用 SPSS 22.0软件进行相关性分析各处理间数据，各处理间数据采用方差分析(ANOVA)，以Duncan 法检测差异显著性，显著差异水平 $P { < } 0 . 0 5$ ，极显著差异水平 $P { < } 0 . 0 1$ 。
+
+# 3结果与分析
+
+# 3.1细根生物量分布特征分布
+
+根系生物量密度是植物地下部分生长情况的重要指标，是植株根系生长发育情况的最直接表现[241。从图1A可以看出，绒面白蜡刺槐混交林细根主要分布在 $0 { \sim } 6 0 \mathrm { c m }$ 土层中，占总量的 $9 5 . 7 7 \%$ · $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层细根最多，占总量的 $5 4 . 4 4 \%$ ： $8 0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层细根生物量密度最小，生物量占总量的 $0 . 9 0 7 \%$ 。臭椿刺槐混交林细根主要分布在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层，占总量的 $8 5 . 3 7 \%$ $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层细根最多，占生物量总量的 $4 6 . 8 5 \%$ 。刺槐纯林细根生物量主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ 土层，占细根生物量总量的 $6 6 . 3 8 \%$ $0 { \sim } 2 0 \mathrm { c m }$ 土层细根最多，占总量的 $3 3 . 9 5 \%$ ，而 $4 0 { \sim } 6 0 \mathrm { c m }$ 土层细根生物量密度最低，占总量的 $5 . 4 \%$ 。
+
+3种林分细根生物量密度均在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层最高，绒毛白蜡刺槐混交林在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层细根生物量显著高于臭椿刺槐混交林和刺槐纯林 $( P { < } 0 . 0 5 )$ 。绒毛白蜡刺槐混交林 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层细根生物量密度显著高于臭椿刺槐混交林和刺槐纯林 $( P { < } 0 . 0 5 )$ 。绒毛白蜡刺槐混交林细根的生物量最小土层为 $8 0 { \sim } 1 0 0 \mathrm { c m }$ 土层，而臭椿刺槐混交林和刺槐纯林的细根生物量最小土层为 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层。刺槐纯林根系生物量密度在 $0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土层中分布相对均匀。
+
+从图1B可知，绒毛白蜡细根生物量最大，显著高于除刺槐纯林外的其他树种 $( P { < } 0 . 0 5 )$ ;2种混交林中刺槐以及臭椿刺槐混交林中臭椿细根生物量均显著低于刺槐纯林 $( P { < } 0 . 0 5 )$ 。绒毛白蜡刺槐混交林中的绒毛白蜡细根生物量主要分布在 $0 { \sim } 6 0 \mathrm { c m }$ 土层，占总量的 $9 6 . 7 2 \%$ ，其中 $0 { \sim } 2 0 \mathrm { c m }$ 土层占总量的 $8 9 . 8 5 \%$ ，呈现出较强的表聚现象；绒毛白蜡刺槐混交林中刺槐细根生物量主要分布在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层中，占总量的$8 6 . 1 6 \%$ ；臭椿刺槐混交林中臭椿和刺槐细根生物量主要分布在 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层；刺槐纯林细根生物量主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ （ $6 0 { \sim } 8 0 ~ \mathrm { c m }$ 土层。臭椿刺槐混交林中刺槐细根生物量在 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层最大，臭椿刺槐混交林中臭椿及其他2种人工林树木细根生物量在 $0 { \sim } 2 0 \mathrm { c m }$ 土层最大。
+
+![](images/ae32539b7bbe6c7e099c893712e861909eeaae62b805f4500a8a0db25a1e356c.jpg)  
+图1黄河三角洲盐碱地不同类型刺槐人工林细根生物量密度(A)各树种生物量(B)垂直分布
+
+Fig.1Verticaldistrbutisoffineotbiomassdsitisofdierenttadtyes()andfieotiomassofdifernttespiesin different stand types (B)of Robinia pseudoacacia plantation in the saline land in the Yellow River Delta 不同小写字母表示不同土壤深度不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。Difrent small letters indicate significant differences among different treatments in different soil depths at O.O5 level.
+
+# 3.2细根表面积、根长、体积密度分布特征
+
+绒毛白蜡刺槐混交林细根表面积密度分别是臭椿刺槐混交林、刺槐纯林的3.03倍、1.67倍，差异显著（20 $( P { < } 0 . 0 5 )$ 。绒毛白蜡刺槐混交林 $0 { \sim } 2 0 \mathrm { c m }$ 土层中细根表面积密度为 $1 6 . 8 5 \mathrm { m } ^ { 2 } { \cdot } \mathrm { m } ^ { - 3 }$ ，显著高于臭椿刺槐混交林、刺槐纯林，同时绒毛白蜡刺槐混交林 $0 { \sim } 2 0 \mathrm { c m }$ 土层中细根表面积密度显著高于其他土层细根表面积密度。绒毛白蜡刺槐混交林、臭椿刺槐混交林 $0 { \sim } 2 0 \mathrm { c m }$ 土层中细根表面积显著高于其他土层 $( P { < } 0 . 0 5 )$ ，刺槐纯林细根表面积在 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层最大(图 2A)。
+
+绒毛白蜡刺槐混交林、臭椿刺槐混交林、刺槐纯林细根根长密度平均值分别为 $1 5 3 3 . 0 5 \mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ 、1204.22$\mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ 和 $1 \ 1 8 6 . 5 9 \ \mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ 。绒毛白蜡刺槐混交林细根根长密度显著高于臭椿刺槐混交林、刺槐纯林 $( P { < } 0 . 0 5 )$ 臭椿刺槐混交林、刺槐纯林差异不显著 $( P { > } 0 . 0 5 )$ 。 $0 { \sim } 2 0 \mathrm { c m }$ 土层中绒毛白蜡刺槐混交林细根根长占总量的$6 7 . 4 8 \%$ ，细根根长密度为 $5 1 7 2 . 4 8 \mathrm { m } { \cdot } \mathrm { m } ^ { - 3 }$ ，显著高于臭椿刺槐混交林、刺槐纯林 $( P { < } 0 . 0 5 )$ ，分别是臭椿刺槐混交林、刺槐纯林3.18倍、3.33 倍。臭椿刺槐混交林、刺槐纯林细根根长密度分别在 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层取得最大值，分别为1877.84、 $2 4 5 5 . 1 4 \mathrm { m } \mathrm { \cdot } \mathrm { m } ^ { - 3 }$ （图2B）。
+
+绒毛白蜡刺槐混交林、臭椿刺槐混交林和刺槐纯林细根体积密度平均值分别为 $7 2 5 . 4 1 ~ \mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 }$ 、532.06$\mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 }$ 和 $4 3 7 . 3 7 \ \mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 }$ 。绒毛白蜡刺槐混交林细根体积密度显著高于臭椿刺槐混交林、刺槐纯林 $( P { < } 0 . 0 5 )$ 臭椿刺槐混交林显著高于刺槐纯林差异 $( P { > } 0 . 0 5 )$ 。 $0 { \sim } 2 0 \mathrm { c m }$ 土层2种混交林细根体积密度分别为2481.72$\mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 }$ 和 $2 \ 1 1 2 . 4 4 \ \mathrm { c m } ^ { 3 } { \cdot } \mathrm { m } ^ { - 3 }$ ，显著高于刺槐纯林( $\scriptstyle \cdot { \cal P } < 0 . 0 5 )$ ,2 种混交林之间差异不显著 $( P { > } 0 . 0 5 )$ 。刺槐纯林细根体积密度在 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层取得最大值，为 $8 8 0 . 1 7 { \mathrm { c m } } ^ { 3 } { \cdot } { \mathrm { m } } ^ { - 3 }$ （图2C)。
+
+7000 25 3500 ere eee a A FR a B a C 20 □AR 5000 2500 a (g-u.zu) 15 □RR 4000 2000 10 3000 b 1500 b b 5 bcbc cc西 C bc 2000 bbc 1 □ b b丙 b b再 田 Idcd 酒 d 西 cdcd 1000 中 出 C d d 五 W cdcd 500 1 d d 0 上 0 0-20 20-40 40-60 60-8080-100 0 0-20 20-4040-60 60-8080-100 0-20 20-40 40-60 60-8080-100 -5 土层深度 Soil depth/cm 土层深度 Soil depth/cm 土层深度Soil depth/cm
+
+# 3.3细根分支结构
+
+![](images/76bb97e5407739c1786e421abd8d9ed04f9249cee8200670aa351098d18f3fad.jpg)  
+图2黄河三角洲盐碱地不同类型刺槐人工林细根表面积(A)、根长(B)、体积(C)密度垂直分布  
+Fig.2Verticaldistributionsofdensitiesoftreefieootsurfacearea (A)rootlength (B)andvolume(C)ofdifferenstandtypeof Robinia pseudoacacia plantation in the saline land in the Yellow River Delta 不同小写字母表示不同土壤深度不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。Different small lettrs indicate significant differences among different treatments in different soil depths at O.O5 level.   
+图3黄河三角洲盐碱地不同类型刺槐人工林树木细根根尖数(A)、分叉数(B)垂直分布
+
+绒毛白蜡刺槐混交林、臭椿刺槐混交林和刺槐纯林细根总根尖数分别为91276、47831和38969，总分叉数分别为48460、13117、7882(图3)。绒毛白蜡刺槐混交林、臭椿刺槐混交林细根总根尖数、分叉数显著高于刺槐纯林 $( P { < } 0 . 0 5 )$ ，细根总根尖数分别是刺槐纯林的2.34倍、1.23倍，总分叉数分别为刺槐纯林的6.15 倍、1.66倍。绒毛白蜡刺槐混交林、臭椿刺槐混交林细根根尖数主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ 土层，刺槐纯林细根根尖数主要分布在 $0 { \sim } 4 0 \ \mathrm { c m }$ 、 $6 0 { \sim } 8 0 \ \mathrm { c m }$ 土层中。绒毛白蜡刺槐混交林细根分叉数主要分布在 $0 { \sim } 6 0 \mathrm { c m }$ 土层，臭椿刺槐混交林细根分叉数主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ 土层，刺槐纯林细根分叉数主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ 、$6 0 { \sim } 8 0 ~ \mathrm { c m }$ 土层。
+
+Fig.3Verticaldistributions oftre fineroottips number(A)androotforksnumber(B)of diferent standtypes of Robinia pseudoacacia plantation in the saline land in the Yellow River Delta 不同小写字母表示不同土壤深度不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。Different small letters indicate significant diffrences among diferent treatments in ifferent soil depthsat O.O5 level.
+
+# 3.4细根生物量密度与土壤特性间的相关性
+
+由表2得知，刺槐绒毛白蜡混交林、刺槐臭椿混交林、刺槐纯林土壤电导率、pH、碱解氮、有效磷、速效钾、有机质含量呈现随土壤深度增加而升高的趋势，而土壤含水量相反。刺槐绒毛白蜡混交林、刺槐臭椿混交林、刺槐纯林的 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土壤含水量、碱解氮、有效磷、速效钾、有机质含量存在一定差异，而$6 0 { \sim } 1 0 0 ~ \mathrm { c m }$ 土壤差异不显著。2种刺槐混交林 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土壤电导率、碱解氮、有效磷、有机质含量均低于刺槐纯林，其中刺槐绒毛白蜡混交林 $0 { \sim } 2 0 \mathrm { c m }$ 土壤电导率、有效磷和有机质含量分别为刺槐纯林的 $9 3 . 9 5 \%$ ，$8 2 . 6 1 \%$ 和 $6 4 . 2 9 , \%$ ，差异显著；刺槐臭椿混交林 $0 { \sim } 2 0 \mathrm { c m }$ 土壤电导率、有效磷含量分别为刺槐纯林的 $8 7 . 3 8 \%$ 和 $5 7 . 4 5 \%$ ，差异显著。刺槐纯林 $0 { \sim } 2 0 \mathrm { c m }$ 土壤含水量含量显著低于刺槐绒毛白蜡混交林、刺槐臭椿混交林。
+
+Table2Soil propertiesofdiferentstandtypesofRobinia pseudoacaciaplantationinthesalineland intheYellowRiverDelt:   
+
+<html><body><table><tr><td>林分类型 Stand type</td><td>土壤深度 Soil depth (cm)</td><td>电导率 Conductivity (uS·cm-1)</td><td>pH</td><td>含水量 Moisture content (%)</td><td>碱解氮 Available N (mg:kg-1)</td><td>有效磷 Available P (mg:kg-1)</td><td>速效钾 Available K (mg:kg-1)</td><td>有机质 Organic matter (g:kg-1)</td></tr><tr><td rowspan="4">FR</td><td>0~20</td><td>117.45±9.69b</td><td>8.24±0.64c</td><td>50.21±6.34ab</td><td>37.89±4.32a</td><td>2.66±0.32b</td><td>193.76±20.13a</td><td>24.29±3.15b</td></tr><tr><td>20~40</td><td>118.56±8.61b</td><td>8.26±0.34cd</td><td>52.13±3.58ab</td><td>25.16±3.52b</td><td>2.25±0.25bc</td><td>150.13±16.53b</td><td>17.16±2.46bc</td></tr><tr><td>40~60</td><td>105.46±7.34c</td><td>8.15±0.48b</td><td>52.07±8.21ab</td><td>18.51±2.37c</td><td>1.65±0.17c</td><td>80.46±8.35c</td><td>12.13±1.32cd</td></tr><tr><td>60~80</td><td>109.49±5.64bc</td><td>8.34±0.94d</td><td>57.43±6.46a</td><td>12.15±2.46cd</td><td>1.13±0.12cd</td><td>40.43±4.26d</td><td>9.21±0.94d</td></tr><tr><td rowspan="5">AR</td><td>80~100</td><td>103.15±9.64</td><td>8.29±0.82cd</td><td>60.19±7.24a</td><td>10.41±2.41d</td><td>0.85±0.09d</td><td>32.15±3.61d</td><td>8.92±1.52d</td></tr><tr><td>0~20</td><td>109.36±8.14bc</td><td>8.15±0.74a</td><td>30.74±4.28c</td><td>37.52±4.18a</td><td>1.85±0.19c</td><td>111.56±10.21bc</td><td>29.42±3.62ab</td></tr><tr><td>20~40</td><td>105.31±9.13c</td><td>8.26±0.68b</td><td>35.16±6.89bc</td><td>23.24±2.98bc</td><td>1.56±0.16c</td><td>90.46±9.62c</td><td>18.46±2.48bc</td></tr><tr><td>40~60</td><td>106.48±9.56c</td><td>8.39±0.69bc</td><td>42.46±4.15b</td><td>18.46±1.34c</td><td>1.33±0.14cd</td><td>60.48±7.46cd</td><td>12.49±1.38cd</td></tr><tr><td>60~80</td><td>101.16±9.35cd</td><td>8.35±0.52c</td><td>55.46±5.44a</td><td>12.16±2.01cd</td><td>1.05±0.11cd</td><td>40.76±6.34d</td><td>8.92±1.11d</td></tr><tr><td rowspan="6">RR</td><td>80~100</td><td>95.47±8.16d</td><td>8.32±0.16c</td><td>59.13±9.46a</td><td>10.46±1.63d</td><td>0.88±0.09d</td><td>28.41±3.15d</td><td>8.84±0.82d</td></tr><tr><td>0~20</td><td>125.15±4.61a</td><td>8.17±0.34b</td><td>15.44±2.46d</td><td>42.65±3.92a</td><td>3.22±0.34a</td><td>196.63±19.34a</td><td>34.78±3.64a</td></tr><tr><td>20~40</td><td>116.48±3.26b</td><td>8.24±0.48c</td><td>25.12±3.64c</td><td>36.48±4.61a</td><td>2.67±0.17b</td><td>150.16±16.32b</td><td>29.87±3.25ab</td></tr><tr><td>40~60</td><td>110.25±7.26bc</td><td>8.33±0.92c</td><td>35.15±4.11bc</td><td>28.46±3.47b</td><td>1.34±0.15cd</td><td>71.34±7.15cd</td><td>22.14±2.54b</td></tr><tr><td>60~80</td><td>102.43±8.16c</td><td>8.37±0.64c</td><td>49.16±5.55b</td><td>15.43±2.66c</td><td>0.94±0.12d</td><td>50.13±6.38d</td><td>15.39±2.61c</td></tr><tr><td>80~100</td><td>105.44±5.16c</td><td>8.36±0.45cd</td><td>61.34±4.64a</td><td>9.37±1.02d</td><td>0.63±0.08d</td><td>30.18±4.19d</td><td>10.46±1.18d</td></tr></table></body></html>
+
+不同小写字母表示不同土壤深度不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。Different small letters indicate significant differences among different treatments indifferentsoildepthsatO.O5level.
+
+黄河三角洲3种人工林树木细根生物量密度与土壤理化性质存在一定的相关关系。刺槐绒毛白蜡混交林树木细根生物量密度与土壤含水量呈显著负相关关系，与有效磷、速效钾含量呈显著正相关关系，与土壤碱解氮、有机质含量呈极显著正相关关系。刺槐臭椿混交林树木细根生物量密度与土壤电导率、含水量呈显著负相关关系，与土壤pH、含水量、有效磷、速效钾、有机质含量呈显著正相关关系。刺槐纯林树木细根生物量密度与土壤土壤电导率呈显著负相关关系，与有效磷、速效钾含量呈显著正相关关系。
+
+表2黄河三角洲盐碱地不同类型刺槐人工林土壤性质  
+表3黄河三角洲盐碱地不同类型刺槐人工林细根生物量密度与土壤性质相关系数  
+Table3Correlationcoeffcients between fineroot biomassandsoil properties indiferent stand typesof Robiniapsedoacacia plantation in the saline land in the Yellow River Delta   
+
+<html><body><table><tr><td>林分类型 Stand type</td><td>电导率 Conductivity</td><td>pH</td><td>含水量 Moisture content</td><td>碱解氮 Available N</td><td>有效磷 Available P</td><td>速效钾 Available K</td><td>有机质 Organic matter</td></tr><tr><td>FR</td><td>-38.50</td><td>0.52</td><td>-0.80*</td><td>0.96**</td><td>0.88*</td><td>0.89*</td><td>0.95**</td></tr><tr><td>AR</td><td>-93.40*</td><td>0.84*</td><td>-0.83*</td><td>0.87*</td><td>0.87*</td><td>0.91*</td><td>0.92*</td></tr><tr><td>RR</td><td>-81.34*</td><td>0.72</td><td>-0.73</td><td>0.71</td><td>0.86*</td><td>0.86*</td><td>0.77</td></tr></table></body></html>
+
+\*与\*\* 分别表示达到 $5 \%$ 和 $1 \%$ 的显著水平。\* and \*\* Indicate significant correlation at $5 \%$ and1 $\%$ levels, respectively.
+
+# 4讨论与结论
+
+本研究表明，黄河三角洲盐碱地刺槐人工林细根表现出一定程度的表聚现象，随着土壤深度增加而逐渐减少，如刺槐纯林内刺槐的细根生物量主要分布在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层，与王俊波等[24]和万子俊等[25]的研究结果 $( 2 0 { \sim } 4 0 ~ \mathrm { c m } )$ 存在差异。其主要原因可能是立地条件的不同导致刺槐根系在土壤中的垂直分布出现较大差异。刺槐 $6 0 \%$ 以上的细根生物量集中分布在土壤表层及近表层，这可能与黄河三角洲深层土壤含盐量较高有关。树木根系大量分布在土壤的表层，这种表聚现象能够减轻黄河三角洲地区土壤盐渍化对植物根系的危害，提高植物成活率及生长速度[14]。混交林中的绒毛白蜡、臭椿细根的表聚现象高于刺槐纯林，这可能与刺槐是深根性树木有关，在黄河三角洲滨海盐碱立地条件下，深根型树种较浅根型树种反而会更容易受到盐碱胁迫，降低其生产力，因此刺槐的生长状况不如绒毛白蜡、臭椿[14]。
+
+研究表明黄河三角洲地区人工林混交加强了刺槐根系的表聚现象，与前人[13]的结果一致。在 $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层中刺槐细根生物量比重从纯林的 $7 1 . 6 9 \%$ 上升到了混交林的 $8 7 . 9 1 \%$ 、 $9 0 . 3 4 \%$ 。这应该与刺槐获取土壤资源的策略有关[26]。纯林中刺槐细根采取精细获取资源的策略，细根生物量分布较为均匀，对深层土壤的利用率增加，以最大限度降低对土壤养分和水分的竞争，达到资源的最佳合理分配和利用；而在混交林中为了与其他种类树木(臭椿、白蜡)竞争土壤养分及水分，刺槐采取快速获取资源的策略，细根大量分布浅层土壤可以充分吸收表层土壤中的营养物质[27]。
+
+黄河三角洲刺槐纯林土壤含水量以及细根生物量最低。有研究发现，植物细根在土壤中的分布与土壤含水量显著相关，并主要由土壤含水量控制，这与本研究的结果基本一致[28]。这可能是因为刺槐是耗水性强的树种，本研究采样时间为11月份，此时黄河三角洲地区降水较少，地面水分蒸发较为强烈，土壤含水量较低，而较低含水量的土壤不利于植物根系(特别是细根)的生长，或者导致树木细根生长缓慢甚至死亡，因此纯林细根生物量较低，而混交林细根生物量较高[29]。
+
+树木混交的目的是促进树木生长从而获得较好的生态效益、经济效益。张彦东等[30研究结果表明，水曲柳(Fraxinus mandshurica)和落叶松(Larix gmelinii)混交林细根生物量、全根量高于纯林，特别是显著提高了细根量占全根量的比例，有利于植物生长。本研究与之不同，在黄河三角洲相同的立地条件及造林密度、株行距下，刺槐与绒毛白蜡、臭椿混交，2种混交林中刺槐细根生物量显著低于刺槐纯林，说明混交不利于刺槐根系的生长。这应该与树木种类不同有关，也可能与立地条件不同有关，同时说明只有恰当的混交才可以促进根系生长，提高林分的生产力[31]。
+
+当然，进一步的研究需要将不同营林模式下人工林树木细根形态特征与不同土层土壤理化性质有机地联合分析，并从植物对盐碱胁迫的适应策略和种间、种内竞争等不同角度研究造成植物细根生物量分布特征及其差异的机制。另外，需要在黄河三角洲地区不同季节对植物细根进行动态监测，探明不同林分树种的根系季节性动态特征及其功能，从而更好地指导人工林营造和人工群落经营过程中的管理以及造林树种和造林模式的筛选。
+
+黄河三角洲盐碱地人工刺槐混交林细根分布研究结果表明，人工林树木细根主要分布在 $0 { \sim } 4 0 \mathrm { c m }$ 土层混交林特别是绒毛白蜡刺槐混交林细根的生物量、表面积、体积、根长等方面均高于刺槐纯林。混交林细根总根尖数、分叉数高于刺槐纯林，刺槐绒毛白蜡混交林细根总根尖数、分叉数最高。人工林细根生长受土壤理化性质影响，土壤碱解氮、有效磷、速效钾、有机质含量越高越有利于细根生长，而土壤电导率越高则不利于细根生长。
+
+# 参考文献References
+
+[1]吴林坤，林向民，林文雄．根系分泌物介导下植物-土壤-微生物互作关系研究进展与展望[J]．植物生态学报,2014,38(3):   
+298-310 WU L K,LIN X M,LIN W X. Advances and perspective in research on plant-soil-microbe interactions mediated byroot exudates[J]. Chinese Journal of Plant Ecology,2014,38(3): 298-310 [2]WANG C,MAY,TROGISCH S,et al.Soilrespiration isdriven byfineroot biomassalonga forest chronosequencein subtropical China[J]. Journal of Plant Ecology,2017,10(1): 36-46. [3]FOGEL R.Root turnover and productivity of coniferous forests[J]. Plant and Soil,1983,71(1/3): 75-85 [4]朱婉芮，汪其同，刘梦玲,等．酚酸和氮素交互作用下欧美杨 107 细根形态特征[J]．植物生态学报，2015，39(12):   
+1198-1208 ZHU WR,WANG QT,LIUML,et al. Interactive efects of phenolicacidand nitrogenon morphological traits of poplar (Populus $\times$ euramericana ‘Neva') fine roots[J]. Chinese Journal of Plant Ecology,2015,39(12): 1198-1208 [5]苗宇，陈栎霖，李贤伟,等．施肥对台湾桤木-扁穗牛鞭草复合模式下桤木细根形态特征、生物量及组织碳氮含量的影响 [J]．植物生态学报,2013,37(7):674-683 MIAO Y,CHENYL,LI X W,et al.Efectsof fertilizationon Alnusformosana fineroot morphological characteristics, biomassand isue contentof C,N under A.formosana-Hemarthria compressa compound mode[J].Chinese Journal of Plant Ecology,2013,37(7): 674-683 [6]黄林，王峰，周立江，等．不同森林类型根系分布与土壤性质的关系[J].生态学报,2012,32(19):6110-6119 HUANGL,WANGF,ZHOULJ,etal.Rotdistributioninthedifferentforest typsandtheirelationshiptooilproperties[J]. Acta Ecologica Sinica,2012,32(19): 6110-6119 [7]GALEMR,GRIGALDF.Verticalroot distributionof ortherntree species inrelation tosuccessonal status[J].Canadian Journal forForestResearch,1987,17(8): 829-834 [8]KUMMEO WJ, MANGA NR. Root systems in Quercus-dumosa nuttdominatedchaparral in southern California[J]. Acta Oecologica,1981,2: 177-188 [9]钱文丽，卢元，王韶仲，等．混交对红松人工林细根生物量和空间分布的影响[J]．东北林业大学学报,2016,44(2):1-5 QIAN WL,LU Y,WANG SZ,et al. Influenceof species mixingon fine root biomass andspatial distributionof Pinus   
+[I0]石培礼，钾章成．杞相混父林根系的研尤[J].王念字报,1996,16(6):623-631 SHI PL,ZHONG ZC.Astudy onroot systemof Alder and Cypress mixed plantation[J].ActaEcologica Sinica,196,16(6): 623-631   
+[11] 翟明普，蒋三乃，贾黎明．沙地杨树刺槐混交林细根动态[J]．北京林业大学学报,2002,24(5/6):39-44 ZHAI M P, JANG SN,JIAL M.Fine-root dynamics in mixed plantation of poplarand black locus[J].Journal of Beijing Forest University,2002,24(5/6): 39-44   
+[12] 林子力．人工刺槐混交林细根分布研究[J]．福建农业,2015,(6):238 LIN Z L. Root distribution of locus mixed plantation[J]. Fujiang Agriculture,2015,(6): 238-238   
+[13]杜振宇，刘方春，马丙尧,等．滨海盐碱地人工刺槐绒毛白蜡混交林的根系分布与细根生长[J]．林业科学，2014,50(3): 10-15 DU Z Y,LIUFC,MA BY,etal.Root distribution andfinerot growth in mixed plantationof Robinia pseudoacacia and Fraxinus velutina in coastal saline-alkali area[J]. Scientia Silvae Sinicae,2O14, 5O(3): 10-15   
+[14]XIET,LIUX,SUNT.Teeffectsofgoundwatertableandfloodirigationstrategiesonsoil waterandsltdyamicsandred water use in the Yellow River Delta, China[J]. Ecological Modelling,2011,222(2): 241-252   
+[15]YANG W,SUNT,YANGZEfectofactivities assciated withcoastalreclamatioonthe macrobenthoscommunitycoastal wetlands of theYellow River Delta, China: Aliterature reviewand systematic asessment[J].Ocean& Coastal Management, 2016,129: 1-9   
+[16] YEX,BAIJ,LUQ,etal.Spatialandseasonal distributionsofsoilphosphorus inatypicalseasonalflooding wetlandofthe Yellow River Delta, China[J]. Environmental Earth Sciences,2014,71(11): 4811-4820   
+[17]LUO XX,WANGL,LIUG,etalEfectsofbiocharoncarbonmineralizationofcoastalwetlandsoilsintheYellowRiver Delta, China[J]. Ecological Engineering,2016,94: 329-336   
+[18] 韩跃，马风云，解国磊，等．黄河三角洲盐碱地混交林土壤电导率的空间异质性[J]．中国水土保持科学,2014,12(5): 84-89 HANY,MAFY, XIE GL,etal. Spatial heterogeneityof soil electrical conductivity ina mixed plantationof the Yellow River Delta saline land[J]. Science of Soil and Water Conservation,2014,12(5): 84-89   
+[19] 王睿彤，陆兆华，孙景宽，等．土壤改良剂对黄河三角洲滨海盐碱土的改良效应[J].水土保持学报,2012,26(4):239-244 WANG RT,LUZH,SUNJK,etal.Efectof soilameliorants oncoastalsaline-alkali soil intheYellowRiverDelta[J]. Journal of Soil and Water Conservation,2012,26(4): 239-244   
+[20] 张英虎，牛健植，朱蔚利,等．森林生态系统林木根系对优先流的影响[J].生态学报,2015,35(6):1788-1797 ZHANG YH,NINJZ, ZHUWL,et al.Efectsof plantroot systems on preferential flowin forest ecosystems[J].Acta Ecologica Sinica,2015,35(6): 1788-1797   
+[21] 刘鑫，满秀玲．毛乌素沙地梁地上小叶杨根系分布特征[J]．中国水土保持科学,2008,6(4):48-53 LIU X,MAN XL. Distributionpaterns ofroot systems ofPopuus simoniiCarr in highlandofMu Us Sandland[J]. Science of Soil and Water Conservation,2008, 6(4): 48-53   
+[22] 丁新景，解国磊，敬如岩，等．黄河三角洲不同人工刺槐混交林调落物分解特性[J].水土保持学报,2016,30(4):249-253 DING X J, XIE GL,JING R Y, et al.Decompositioncharacteristics of literin different mixed forestSof Robinia pseudoacacia in Yellow River Delta[J]. Journal of Soil and Water Conservation,2016,30(4): 249-253   
+[23]王俊波，季志平，白立强，等．刺槐人工林土壤有机碳与根系生物量的关系[J]．西北林学院学报,2007,22(4):54-56 WANGJB,JZP,BAIL Q,etal.Therelation between soilorganiccarbonand rootbiomassin plantation[J].Journalof Northwest Forestry University,2007,22(4): 54-56   
+[24] 万子俊，万浩宇，贺亮，等．榆林南部丘陵沟壑区油松和刺槐人工林根系生物量与土壤有机碳垂直分布特征[J]．西北林 学院学报,2010,25(6):1-4 WAN Z J,WANHY,HEL,et al. Root systemand organiccarbon distributions insoil profiles of Pinus tabulaeformis and Robinia pseudoacaciaintehillygllegioninSoutherYulin[J].JualofNorthwestForestryUnversity,2l0,5(6):1-4   
+[25] 耿鹏飞，金光泽．小兴安岭4 种森林类型细根生物量的时空格局[J]．林业科学,2016,52(6):140-148 GENGPF,JINGing GZ. Spatial andtemporal paterns offinerotbiomassinfour forest types in Xiaoxing'an Mountains[J]. Scientia Silvae Sinicae,2016,52(6): 140-148   
+[26] IDOL TW,POPE PE,PONDERFJ.Fine rotdynamics acrossa chronosequence of upland temperate deciduous forests[J]. Forest Ecology & Management, 2000,127(1): 153-167   
+[27] 杨丽韫，罗天祥，吴松涛．长白山原始阔叶红松(Pinus koraiensis)林及其次生林细根生物量与垂直分布特征[J]．生态学 报,2007,27(9):3609-3617 YANG LY,LUOTX,WU S T,et al.Fine rot biomass andits depth distribution across the primitive Korean pine and broad-leaved forestanditssecondaryforests inChangbaiMountain,northeast China[J].ActaEcologicaSinica,O0,7(9): 3609-3617   
+[28] 马风云，白世红，侯本栋，等．黄河三角洲退化人工刺槐林地土壤特征[J]．中国水土保持科学,2010,8(2):74-79 MAFY,BAI SH,HOUBD,etal.Soil propertiesof degraded Robinia pseudoacacia plantation inYellowRiverDelta[J]. Science of Soil and Water Conservation,2010,8(2): 74-79   
+[29] 张彦东，白尚斌，沈有信，等．混交条件下水曲柳落叶松根系的生长与分布[J]．林业科学,2001,37(5):18-23 ZHANG Y D,BAI S B,SHEN Y X,et al. Efect of the mixed on root growth and distributionof Fraxinus mandshurica and Larix gmelinii[J]. Scientia Silvae Sinicae,2001,37(5):18-23   
+[30] 陈亚明，傅华，张荣，等．根-土界面水分再分配研究现状与展望[J]．生态学报,2004,24(5):1040-1047 CHENYM,FUH,ZHANG R,et al.The present situation and prospectof researchesonhydraulic redistribution between the interface of root and soil[J].Acta Ecologica Sinica,2004,24(5):1040-1047

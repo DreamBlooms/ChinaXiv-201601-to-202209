@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "Origin and circulation of saline springs in the Kuqa Basin of the Tarim Basin, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHAN Junjie1.2.3, WANG Jianping1.2\\*, SHAN Fashou1.2, TENG Xueming4, FAN Qishun1,2, LI Qingkuan12, QIN Zhanjie1,2, ZHANG Xiangru1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofComprehensiveand HighlyEficient Utilizationof SaltLakeResources,Qinghai Instituteof SaltLakes, Chinese Academy of Sciences,Xining 81oo08, China;   \n² Key Laboratory of Salt Lake Geology and Environment of Qinghai Province, Xining 810o08,China;   \n3 University of Chinese Academy of Sciences,Beijing 10oo85,China;   \n4 Tianjin Center, China Geological Survey,Tianjin 30o170,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: It is widely accepted that hydrogeochemistry of saline springs is extremely important to understand the water circulation and evolution of saline basins and to evaluate the potential of potassium-rich evaporites.The Kuqa Basin,located in the northern part of the Tarim Basin in Northwest China, is a saline basin regarded as the most potential potash-seeking area. However, the origin and water circulation processes of saline springs have yet to be fully characterized in this saline basin.In this study, a total of 30 saline spring samples and 11 river water samples were colected from the Qiulitage Structural Belt (QSB) of the Kuqa Basin. They were analyzed for major $\\mathrm { ( K ^ { + } }$ 。 $\\mathrm { C a } ^ { 2 + }$ 。 $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { M g ^ { 2 + } }$ 。 $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ 。 $\\mathrm { C l ^ { - } }$ and $\\mathrm { H C O } _ { 3 } { } ^ { - } )$ and trace ( $\\mathrm { S r } ^ { 2 + }$ and $\\mathrm { B r ^ { - } }$ ) ion concentrations, stable H-O-Sr isotopes and tritium concentrations in combination with previously published hydrogeochemical and isotopic (H-O) data in the same area. It is found that the water chemical type of saline springs in the study area belonged to the Na-Cl type,and that of river water belonged to the $\\mathrm { C a - M g \\mathrm { - } H C O _ { 3 } \\mathrm { - } S O _ { 4 } }$ type. The total dissolved solid (TDS) of saline springs in the QSB ranged from 117.77 to $3 1 4 . 9 2 \\ \\mathrm { g / L } .$ ，reaching the brine level. On the basis of the general chemical compositions and the characteristics of the stable $_ \\mathrm { H - O - S r }$ isotopes of saline springs, we infer that those saline springs mainly originated from precipitation folowing river water recharging. In addition, we found that saline springs were not formed by evapo-concentration because it is unlikely that the high chloride concentration of saline springs resulted in evapo-concentration and high salinity. Therefore, we conclude that saline spring water may have experienced intense evapo-concentration before dissolving the salty minerals or after returning to the surface. The results show that the origin of salinity was mainly dominated by dissolving salty minerals due to the river water and/or precipitation that passed through the halite-rich stratum. Moreover, there are two possble origins of saline springs in the QSB: one is the infiltration of the meteoric water (river water),which then circulates deep into the earth, wherein it dissolves salty minerals, travels along the fault and returns to the surface; another is the mixture of formation water, or the mixture of seawater or marine evaporate sources and its subsequent discharge to the surface under fault conditions. Our findings provide new insight into the possble saltwater circulation and evolution of saline basins in the Tarim Basin. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: H-O-Sr isotopes; tritium concentration; saline springs; meteoric water; Qiulitage Structural Belt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Giant potash deposits are common in the Mesozoic-Cenozoic Tethyan domain, such as in the Late Jurassic Central Asian Basin (Turkmenistan and Uzbekistan) and the Late Cretaceous Khorat Basin (Thailand and Laos) (Yang et al., 2O14; Liu et al., 2O18). The Tarim Basin, located in the eastern Tethyan domain in Northwest China, developed thick evaporites (including carbonate, gypsum, halite, etc.) and was considered as the target area for the future exploration of potash deposits in China (Liu et al., 2O18). The Kuqa Basin is located in the northern part of the Tarim Basin and is regarded as the most potential potash-seeking area due to the following conditions: (1) during the Paleogene-Neogene, transgression from the Tethyan Ocean repeatedly invaded into the Kuqa Basin and provided abundant salt substances; (2) the long-term arid climate accelerated the formation of dominant salt-bearing strata, such as the Paleogene Kumugeliemu Formation (approximately $2 2 0 0 \\mathrm { ~ m ~ }$ in thickness） and the Neogene Jidike Formation (about $1 1 0 0 \\mathrm { ~ m ~ }$ in thickness) (Li et al., 2002; Wang et al., 2015); and (3) geological exploration of the drillcores and outcrops revealed the occurrence of minor potash minerals (e.g., sylvite, aphthitalite, picromerite and carnalite) in the Kuqa Basin (Liu et al., 1987; Liu et al., 2008, 2009a, b, 2018; Deng et al., 2013; Zheng et al.， 2015). Compared with the driling implement, the investigation on the hydrogeochemistry of saline springs is a more economical, convenient and effective measure to understand the water circulation and evolution of a saline basin and to evaluate the potential of potassium-rich evaporites. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Saline springs are developed in the Kuqa Basin. Over the past four decades, scholars have conducted several studies on the hydrogeochemical signatures of saline springs in this area (Chen and Qu,1986; Tan et al., 2004; Ma and Ma, 2006; Bo et al., 2013a, b, 2015). These studies obtained the following conclusions: (1) low $\\mathrm { K ^ { + } }$ concentrations $( < 1 . 0 \\ \\mathrm { g / L } )$ and low K/Br and $\\mathrm { B r / C l }$ ratios indicated that the formation of saline springs was from leaching halite; and (2) gradual changes in the H-O isotope compositions of saline springs and the wide distribution of the chloride water suggested the influence of strong evaporation and deep Ca-Cl brines (Bo et al., 2013a). However, the origin of saline springs is complicated as they may be produced from the mixing of deep brines,halite-leaching brines and surface waters (Bo et al.， 2O13b). Current research does not fully evince the origin of saline springs. In addition, water circulation processes involving saline springs have yet to be fully characterized. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conventional chemical indices are not able to infer the provenance for potash deposits as compared to isotopic studies due to element variations in water, which are caused by various chemical reactions. Stable H-O isotopes are able to trace the formation process and provenance of saline springs (Henderson et al., 2003, 2010; Fan et al., 2010, 2014; Anderson et al., 2011; Li et al., 2012; Tan et al.,2014; Li et al., 2018; Xiao et al., 2018; Guo et al., 2019). Stable Sr isotope can also indicate the source of salt materials and efciently trace the provenance of salts due to its weak fractionation under chemical, evaporative and microbial conditions (Chacko and Deines, 2008; Luz et al., 2009; Tan et al., 2010,2011; Chapman et al., 2013; Capo et al., 2014; Stewart et al., 2015; Fan et al., 2O18). Herein, 30 saline spring samples and 11 river water samples were collected from the Qiulitage Structural Belt (QSB) of the Kuqa Basin and analyzed for major ( $\\mathrm { K } ^ { + }$ $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { { N a ^ { + } } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ $\\mathbf { C l ^ { - } }$ and $\\mathrm { H C O } _ { 3 } { } ^ { - } \\mathrm { \\dot { \\Omega } }$ ）andtrace $\\mathrm { S r } ^ { 2 + }$ and $\\mathbf { B r } ^ { - } .$ ） ion concentrations, stable H-O-Sr isotopes and tritium concentrations. In combination with previously published hydrogeochemical and isotopic (H-O) data in the same area (Tan et al., 2O04; Ma and Ma, 2006; Bo et al., 2O13a, b), this study aims to systematically discuss the origin and water circulation of saline springs in the QSB of the Kuqa Basin. Our findings will provide new insight into the possible saltwater circulation and evolution of saline basins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Geological setting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Kuqa Basin, which is located in the northern part of the Tarim Basin and the southern part of the Tianshan Mountains in Northwest China and belongs to the Mesozoic-Cenozoic sedimentary depression, has a width of about $7 0 ~ \\mathrm { k m }$ from south to north and a length of about $1 5 0 \\mathrm { k m }$ from east to west, thereby covering an area of about $3 0 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ (Fig. 1a) (Bally and Snelson, 1980; Graham et al., 1993; Cao et al., 1994; Lu et al., 1994; Jia, 2001; Wang et al., 2016; Peng et al., 2018). The Kuqa Basin consists of the Northern Monoclinic Belt, Kalasu-Yiqikelike Structural Belt，Baicheng Sag， Yangxia Sag， QSB and Southern Slope Region (Fig. 1b). The Mesozoic-Cenozoic stratigraphy in the Kuqa Basin includes the Jurassic and Cretaceous units, the Kumugeliemu $( \\mathrm { E } _ { 1 - 2 } \\mathrm { k m } )$ Group, the Suweiyi $( \\mathrm { E } _ { 2 - 3 } \\mathrm { s } )$ Formation, the Jidike $( \\mathbf { N } _ { 1 } \\mathbf { j } )$ , Kangcun $( \\mathbf { N } _ { 1 - 2 } \\mathbf { k } )$ and Kuqa $( \\mathbf { N } _ { 2 } \\mathbf { k } )$ formations,and the Quaternary (Q) units from bottom to top (Fig. 2). Extensive evaporitic rocks are present in the Kumugeliemu Group and are exposed to the northern Kelasu-Yiqikelike Structural Belt (KYSB) and the southern QSB (Tang et al., 2OO4; Liu et al., 2013). During the Paleogene to Quaternary, the South Tianshan Mountains were uplifted due to the Himalayan tectonic movement. However, the KYSB was too close to the South Tianshan Mountains， which was disadvantageous to the preservation of potassium in the later period. Instead, due to the ancient uplift of the QSB and relatively long distance to the South Tianshan Mountains, the QSB was conducive to potassum preservation in the later period. Thus, the QSB was regarded as the most potential potash-seeking area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/200bdf76e2acaf74840615cdbe8fc765fc84631d3cdbd6303060f7ab9c820b17.jpg",
+        "img_caption": [
+            "Fig.1 Geological map of the Kuqa Basin (a) and locations of the main sampling sites in the Qiulitage Structural Belt (QSB) of the Kuqa Basin (b). The geological map of the Kuqa Basin was modified after Liu et al. (2013). QL,Quele Tectonic Belt; WQ, Western Qiulitage Tectonic Belt; EQ, Eastern Qiulitage Tectonic Belt. (1), Yekeqigen Anticline; (2), Kurukol Anticline; (3), Awat Anticline; (4), Miskantak Anticline; (5), North Qiulitage Anticline; (6), South Qiulitage Anticline; (7), Kuqatawu Anticline; (8)Torclark Anticline; (9), Eastern Qiulitage Anticline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The QSB is located in the southern part of the Kuqa Basin. It is bounded by the North Tarim uplift to the south and the Baicheng Sag to the north，and has an east-west length of approximately $3 2 0 ~ \\mathrm { k m }$ and a north-south width of $2 0 { - } 3 0 ~ \\mathrm { k m }$ (Fig. 1b), covering a total area of about $5 . 2 { \\times } 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ (Miao et al., 2004; Chen et al., 2007; Han et al., 2018; Du et al., 2019). In this study, the QSB was subdivided into three sub-belts: Quele Tectonic Belt (QL), Western Qiulitage Tectonic Belt (WQ) and Eastern Qiulitage Tectonic Belt (EQ). The QL was composed of the Yekeqigen Anticline, the Kurukol Anticline, the Awat Anticline and the Miskantak Anticline, with a length of about $7 5 \\mathrm { k m }$ and a width of about $1 0 { - } 2 5 ~ \\mathrm { k m }$ . The WQ consists of the South Qiulitage Anticline and the North Qiulitage Anticline, with a length of about $1 2 0 \\mathrm { k m }$ and a width of about $1 5 { - } 2 5 ~ \\mathrm { k m }$ . The EQ is located at the connection of Baicheng Sag and Yangxia Sag and includes the Kuqatawu Anticline, the Torclark Anticline and the eastern Qiulitage Anticline, with a length of about $1 0 0 \\mathrm { k m }$ and a width of about $1 5 { - } 2 5 \\ \\mathrm { k m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Erathem Sysm srie Lithology Thickness Lithologic Formation Quater- Dark gray conglomerate with brown,brown sandy nary Q mudstone and sandstone >>>>>>> Pliocene Kuche 450-3600 Tateredeidst Gue8oee Taupe sandstone and brown mudstone interbedded Kangcun 650-1600 with celadon siltstone   \ncoeeree Miocene Palc-red and ccladon sandstonc interbeddcd with Jidike 200-1300 gypsiferous soils and conglomerate,evaporites Pegoeee Oligocene Suweiyi XX 150-600 Marethae Purple,brick-red,and celadon mudstone and Eocene Kumugeliemu 110-3000 sittdgsd >>>>>>> Conglomerate-pebble sandstone, with mudstone and silty mudstonc in thc lowcr scction,mcdiumBashijiqike 100-360 fipsandstone withthinmudstonlayersinthe Ceeeeeeess Lowcr Baxigai 60-490 Brown fine sandstone, with mudstone Shushanhe 140-1100 Thick mudstonc laycrs,finc sandstonc Xagelieny 60-250 Purple-gray conglomerate   \nWieerrec Kalazha 12-60 Tan conglomerate Upper Qigu 100-350 Palm red mudstone with sandstone and marl htssstr Middle Qiakemake 60-150 Celadon mudstone, silty sandstone and marl Kczilcnucr 400-800 rpaleelload Pale yellow,green-graymudstoneandsandstone Yangxia 450-600 interbedded with thin layers of coal Lower Gray,pale yellow and glutenite sandstone with Ahe 90-400 thin layers ofmudstone   \nLegend   \nwWW Unconformity XXX Gypsum Coal seam Mudstone Sandstone Argillaceous Dol ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Sample collection and analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Sample collection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The present study performed data collection and field investigations from 2015 to 2018. Thirty saline spring samples were collcted in the QSB of the Kuqa Basin (Fig. 1b). The collected 30 saline spring samples basically represent the geochemical information of the salt bodies in the QSB. To further study the interrelation between the water bodies in the QSB, we collcted 11 water samples from the Muerzate River. Each sample was collected using an acid-washed $5 0 0 ~ \\mathrm { m L }$ low-density polyethylene (LDPE) botle that was rinsed with the sample water. Within $4 8 \\mathrm { ~ h ~ }$ of collection, each sample was filtered through a $0 . 4 5 ~ { \\mu \\mathrm { m } }$ Luerloch syringe filter (polypropylene membrane) and transferred into an acid-washed $1 2 5 ~ \\mathrm { m L }$ LDPE bottle for further analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Elemental analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The samples of saline springs and river water from the QSB were analyzed for $\\mathrm { K ^ { + } }$ $\\mathrm { C a } ^ { 2 + }$ $\\mathrm { \\Delta N a ^ { + } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $S O _ { 4 } { } ^ { 2 - }$ ， $\\mathrm { C l ^ { - } }$ $\\mathrm { H C O } _ { 3 } ^ { - }$ ， $\\mathrm { B r ^ { - } }$ and $S \\mathrm { r } ^ { 2 + }$ concentrations in the Qinghai Institute of Salt Lakes, Chinese Academy of Sciences. The $\\mathrm { K ^ { + } }$ and $S O _ { 4 } { } ^ { 2 - }$ concentrations were determined by gravimetric methods. The $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ concentrations were measured by ethylene diaminetetraacetic acid (EDTA) titration. The $\\mathbf { C l ^ { - } }$ concentration was determined by ${ \\bf A g N O } _ { 3 }$ potentiometric titration. The $\\mathrm { H C O } _ { 3 } ^ { - }$ concentration was analyzed by HCl titration. The $\\mathrm { { N a ^ { + } } }$ concentration was calculated as follows: $\\mathrm { N a ^ { + } = ( N _ { C O _ { 3 } } ^ { - + } + N _ { H C O _ { 3 } } + N _ { S O _ { 4 } } ^ { - } + N _ { C l ^ { - } } ) - ( N _ { K ^ { * } } + N _ { C a ^ { * } } + N _ { M g ^ { * } } ) }$ ，where $\\mathbf { N }$ represents the ionic equivalent value. The analytical precision of the major cations and anions was better than $\\pm 2 \\%$ The $\\mathrm { S r } ^ { 2 + }$ concentration was determined by atomic absorption spectrometry (GBC 908 AA spectrophotometer, GBC Co.， Australia) with an analytical error of $\\pm 5 \\%$ . All of the major ion analyses in this study followed the procedures of the Qinghai Institute of Salt Lakes (1988). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Stable H-O isotopes and tritium concentration analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The δD and $\\mathbf { \\delta } ^ { 8 1 8 } \\mathbf { O }$ analyses were performed in the Open Laboratory for Isotope Geochemistry, China Geological Survey. They were measured on a flash 1112HT elemental analyzer (Thermo Scientific Company, USA) and a MAT253 mass spectrometer (Thermo Scientific Company, USA) following a conjoint analysis, and the results were reported relative to the standard mean ocean water (SMOW), with the standard deviations of $\\pm ( 1 . 0 0 \\% \\mathrm { { 0 - 2 . 0 0 \\% 0 } } )$ for SD and $\\pm ( 0 . 2 0 \\% 0 { - 0 . 3 0 \\% } )$ for $\\delta ^ { 1 8 } \\mathrm { O }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, we collected $5 0 0 ~ \\mathrm { m L }$ of water samples for tritium ( $^ 3 \\mathrm { H }$ or T） measurement, and tritium analyses were performed in the Institute of Hydrogeology and Environmental Geology, Chinese Academy of Geological Sciences. The tritium concentration was determined using electrolytic enrichment with a tritium enrichment factor of about 2O and the liquid scintillation counting (Quantulus 122Oc) method with a detection limit of 0.30 tritium units (TU). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4Stable Sr isotope analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ analyses were performed in the Open Laboratory for Isotope Geochemistry, China Geological Survey. For the determination of the $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratio, a sufficient amount of solution was loaded in a cation exchange column resin (Dowex $5 0 \\times 8$ ，produced by Dow Chemical Company, USA) to separate Sr from the other cations, particularly from Rb. The Sr isotope was measured on a thermoelectric ionization mass spectrometer (Thermo Scientific Company, USA) and corrected relative to NBS987 standard with a measured average value of $0 . 7 1 0 3 2 { \\scriptstyle \\pm 0 . 0 0 0 0 4 }$ $( 2 \\sigma )$ . The precision of each sample was found to be within $^ { \\pm 2 . 0 \\times 1 0 ^ { - 5 } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 Elemental compositions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The chemical composition statistical summaries of saline springs and river water from the study area are shown in Tables 1 and 2. As a whole, the total dissolved solid (TDS) concentrations of saline springs in the QSB ranged from 117.77 to $3 1 4 . 9 2 ~ \\mathrm { g / L }$ , reaching the brine level. The TDS concentrations of saline springs in the QL had the range of $2 8 2 . 2 5 \\mathrm { - } 3 1 2 . 0 0 ~ \\mathrm { g / L }$ (mean value of $3 0 2 . 6 7 ~ \\mathrm { g / L } )$ , which were higher than those of saline springs in the WQ ( $( 1 1 7 . 7 7 - 3 1 4 . 9 2 ~ \\mathrm { g / L }$ ，mean value of $2 5 1 . 5 2 ~ \\mathrm { g / L } \\rangle$ andEQ $\\mathrm { 1 3 7 . 9 3 - 3 0 8 . 0 6 \\ g / L }$ ，mean value of $2 1 8 . 9 0 ~ \\mathrm { g / L } )$ . The major ionic compositions of saline springs were dominated by $\\mathrm { { N a ^ { + } } }$ and $\\mathrm { C l ^ { - } }$ ,belonging to the Na-Cl type. The concentrations of cations and anions of saline springs generally exhibited the following order: ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/77166cb4295d8540578c2ba90785d133e8fb24bbeb16318ccc980176c4c31f9e.jpg",
+        "table_caption": [
+            "penngrrr gqo ",
+            "rrr rnr gi rri nrnir sr rnre gr sernrrserr rronirr rr rrrrt "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site</td><td rowspan=\"2\">Sample code</td><td rowspan=\"2\">NO.</td><td rowspan=\"2\"></td><td></td><td>C</td><td>Mg</td><td></td><td></td><td>HC0</td><td>TDS</td><td>mgr</td><td></td><td></td><td></td><td></td><td>87Sr/86Sr</td><td>Water type</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>T</td><td></td><td></td></tr><tr><td rowspan=\"9\">QL</td><td>BZDQS</td><td>1</td><td>0.28</td><td>119.01</td><td>1.81</td><td>0.39</td><td>185.82</td><td>2.96</td><td>0.01</td><td>310.28</td><td>16.45</td><td>46.10</td><td>-7.30</td><td>-76.00</td><td>-</td><td>0.70977</td><td>Na-Cl</td></tr><tr><td>YSKX-W1a</td><td>2</td><td>0.02</td><td>116.78</td><td>1.64</td><td>0.21</td><td>180.33</td><td>4.33</td><td>0.02</td><td>303.33</td><td>3.92</td><td>3.12</td><td>-5.80</td><td>-57.00</td><td></td><td></td><td>Na-Cl</td></tr><tr><td>YSKD-W1a</td><td>3</td><td>0.03</td><td>107.43</td><td>2.00</td><td>0.66</td><td>168.03</td><td>4.09</td><td>0.02</td><td>282.25</td><td>6.02</td><td>5.17</td><td>-9.10</td><td>-75.00</td><td></td><td>-</td><td>Na-Cl</td></tr><tr><td>YSK</td><td>4</td><td>0.38</td><td>111.45</td><td>2.90</td><td>0.61</td><td>177.75</td><td>1.73</td><td>0.01</td><td>294.84</td><td>18.30</td><td>73.00</td><td>-6.50</td><td>-66.00</td><td></td><td>0.70969</td><td>Na-Cl</td></tr><tr><td>YSQRQ-01</td><td>5</td><td>0.33</td><td>117.22</td><td>1.96</td><td>0.64</td><td>184.46</td><td>2.49</td><td>0.01</td><td>307.12</td><td>18.05</td><td>52.35</td><td>-</td><td></td><td>-</td><td>0.70979</td><td>Na-Cl</td></tr><tr><td>YSQRQ-02</td><td>6</td><td>0.33</td><td>116.57</td><td>2.06</td><td>0.56</td><td>183.22</td><td>2.71</td><td>0.02</td><td>305.47</td><td>20.10</td><td>50.15</td><td></td><td>■</td><td>-</td><td>0.71016</td><td>Na-Cl</td></tr><tr><td>YBCQS-02</td><td>7</td><td>0.27</td><td>119.67</td><td>1.69</td><td>0.48</td><td>186.78</td><td>3.09</td><td>0.02</td><td>312.00</td><td>27.70</td><td>46.55</td><td>-4.70</td><td>-63.00</td><td><1.00</td><td>0.70973</td><td>Na-Cl</td></tr><tr><td>YHQS</td><td>8</td><td>0.31</td><td>116.37</td><td>1.26</td><td>1.19</td><td>181.22</td><td>5.61</td><td>0.08</td><td>306.04</td><td></td><td></td><td>-</td><td></td><td></td><td></td><td>Na-Cl</td></tr><tr><td></td><td></td><td>0.15</td><td>118.73</td><td>1.58</td><td>1.02</td><td>185.43</td><td>4.76</td><td>0.03</td><td>311.70</td><td>0.64</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"10\"></td><td>QS01 BC 2-01</td><td>9 10</td><td>0.23</td><td>117.14</td><td>1.58</td><td></td><td>185.01</td><td>0.03</td><td>310.30</td><td>0.61</td><td></td><td>-</td><td></td><td></td><td></td><td>Na-Cl Na-Cl</td></tr><tr><td>BC 2-02</td><td>11</td><td>0.23</td><td>115.43</td><td>1.26</td><td>1.66 1.11</td><td>180.21</td><td>4.64 4.62</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-</td><td>Na-Cl</td></tr><tr><td>BC 2-03</td><td>12</td><td>0.15</td><td>114.36</td><td>0.96</td><td></td><td></td><td>0.04 0.05</td><td>302.90 298.76</td><td>0.61 0.60</td><td></td><td>-6.00 -5.30</td><td>-83.00 -66.00</td><td>-</td><td></td><td>Na-Cl</td></tr><tr><td>BC 2-04</td><td>13</td><td>0.09</td><td>115.21</td><td>0.50</td><td>177.59 178.71</td><td>4.65 4.37</td><td>0.03</td><td>300.48</td><td>0.60</td><td></td><td>-6.20</td><td>-61.00</td><td></td><td>-</td><td>Na-Cl</td></tr><tr><td>BC 2-05</td><td>14</td><td>0.09</td><td>1.58 116.39 1.33</td><td>0.54</td><td>180.21</td><td>4.26</td><td>0.14</td><td>302.95</td><td>0.61</td><td></td><td>-5.60</td><td>-54.00</td><td></td><td>-</td><td>Na-Cl</td></tr><tr><td>YQ-1</td><td>15</td><td>0.10</td><td>112.96 1.37</td><td>0.96</td><td>175.21</td><td>5.74</td><td>0.03</td><td>296.37</td><td>34.89</td><td>173.35</td><td>-8.10</td><td>-63.00</td><td>1</td><td>0.71035</td><td>Na-Cl</td></tr><tr><td>1203-1</td><td>16</td><td>15.57</td><td>89.70</td><td>1.28</td><td>155.39</td><td>3.46</td><td>0.07</td><td>266.52</td><td>23.30</td><td>190.30</td><td>-7.30</td><td>-59.00</td><td>6.40</td><td>0.71043</td><td>Na-Cl</td></tr><tr><td>1204-1</td><td>17</td><td>15.25</td><td>85.76</td><td>1.05 1.16</td><td>1.09</td><td>148.30</td><td>3.99 0.04</td><td>255.59</td><td>4.44</td><td>196.70</td><td>-7.90</td><td>-70.00</td><td>5.70</td><td>0.71057</td><td>Na-Cl</td></tr><tr><td>1209-1</td><td>18</td><td>21.82</td><td>95.97</td><td>1.05</td><td>0.77</td><td>168.33</td><td>4.75 0.04</td><td>292.72</td><td>11.49</td><td>166.30</td><td>-8.60</td><td>-62.00</td><td>5.20</td><td>0.71008</td><td>Na-C1</td></tr><tr><td>1209-3</td><td>19</td><td>33.89</td><td>88.63</td><td>1.26</td><td></td><td>168.74</td><td>0.07</td><td>299.41</td><td>19.79</td><td>168.70</td><td>-8.80</td><td>-69.00</td><td>5.60</td><td>0.71032</td><td>Na-Cl</td></tr><tr><td>WQ</td><td>20</td><td>45.68</td><td>8.78</td><td>1.05</td><td>1.15 1.21</td><td>58.40</td><td>5.66 2.58</td><td>0.07</td><td>117.77</td><td>53.54</td><td>165.60</td><td>-9.10</td><td>-64.00</td><td>5.90</td><td>0.71080</td><td>Na-Cl</td></tr><tr><td></td><td>Bai-07</td><td>24.98</td><td>62.51</td><td>1.20</td><td>0.61</td><td>118.90</td><td>5.44</td><td>0.05</td><td>213.68</td><td>50.40</td><td>184.40</td><td>-6.10</td><td>-84.70</td><td>6.20</td><td>0.71034</td><td>Na-Cl</td></tr><tr><td>WBS-W1a</td><td>22</td><td>0.03</td><td>117.11</td><td>1.23</td><td>0.69</td><td>180.33</td><td>5.91</td><td>0.02</td><td>305.31</td><td>6.63</td><td>3.18</td><td>-8.30</td><td>-66.00</td><td>-</td><td></td><td>Na-Cl</td></tr><tr><td>WBS-W2a</td><td>23</td><td>0.03</td><td>111.88</td><td>1.29</td><td>0.63</td><td>172.13</td><td>6.03</td><td>0.02</td><td>292.00</td><td>6.33</td><td>3.10</td><td>-8.00</td><td>-64.00</td><td></td><td>-</td><td>Na-Cl</td></tr><tr><td>WBS4-W1a WBS4-W2a</td><td>24</td><td>0.02</td><td>60.12</td><td>8.74</td><td>6.85</td><td>127.05</td><td>1.44</td><td>0.05</td><td>204.24</td><td>22.89</td><td>200.00</td><td>-1.00</td><td>48.00</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SHAN Junjie et al.: Originand circulationof saline springs in the Kuqa Basin of the Tarim Basin.. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bb98eae014f8c41a5fa2e815ab3aacda9054e4aa2690c05532f7951def4cd67.jpg",
+        "table_caption": [
+            "ponnnuna "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site</td><td rowspan=\"2\">Sample code</td><td rowspan=\"2\">NO.</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Ca</td><td rowspan=\"2\">M</td><td rowspan=\"2\">C1- （g/L）</td><td rowspan=\"2\"></td><td rowspan=\"2\">HCO</td><td rowspan=\"2\">TDS</td><td rowspan=\"2\"></td><td rowspan=\"2\">(g)</td><td rowspan=\"2\"></td><td rowspan=\"2\">品</td><td rowspan=\"2\">T</td><td rowspan=\"2\">87Sr/86Sr</td><td rowspan=\"2\">Water type</td></tr><tr><td></td><td>(mg/)</td></tr><tr><td rowspan=\"10\">WQ</td><td>WBS4-W8a</td><td>31</td><td>0.03</td><td>37.68</td><td>6.53</td><td>3.40</td><td>77.87</td><td>2.28</td><td>0.05</td><td>127.82</td><td>12.65</td><td>133.61</td><td>-0.60</td><td>-52.00</td><td>-</td><td>-</td><td>Na-Cl</td></tr><tr><td>BQS-04</td><td>32</td><td>0.15</td><td>112.50</td><td>1.26</td><td>0.52</td><td>173.51</td><td>5.09</td><td>0.02</td><td>293.05</td><td>16.40</td><td>28.35</td><td>-8.70</td><td>-66.00</td><td></td><td>0.71044</td><td>Na-Cl</td></tr><tr><td>BQS-07</td><td>33</td><td>0.68</td><td>106.25</td><td>5.41</td><td>1.61</td><td>177.75</td><td>1.20</td><td>0.02</td><td>292.91</td><td>25.45</td><td>203.85</td><td>-8.70</td><td>-70.00</td><td></td><td>0.71050</td><td>Na-Cl</td></tr><tr><td>BQS-12</td><td>34</td><td>0.29</td><td>120.30</td><td>0.73</td><td>1.17</td><td>184.59</td><td>7.81</td><td>0.04</td><td>314.92</td><td>16.75</td><td>38.95</td><td>-8.30</td><td>-72.00</td><td></td><td>0.71038</td><td>Na-Cl</td></tr><tr><td>BQS-20</td><td>35</td><td>0.20</td><td>71.47</td><td>11.26</td><td>3.59</td><td>140.26</td><td>0.63</td><td>0.01</td><td>227.43</td><td>29.45</td><td>573.50</td><td>-7.60</td><td>-74.00</td><td></td><td>0.71039</td><td>Na-Cl</td></tr><tr><td>07YQ</td><td>36</td><td>0.17</td><td>95.07</td><td>1.29</td><td>0.58</td><td>146.14</td><td>6.11</td><td>0.03</td><td>249.40</td><td>19.20</td><td>25.75</td><td>-8.90</td><td>-67.00</td><td>5.30</td><td>0.71047</td><td>Na-Cl</td></tr><tr><td>NQS-06</td><td>37</td><td>0.19</td><td>45.32</td><td>4.02</td><td>1.94</td><td>80.67</td><td>2.87</td><td>0.03</td><td>135.05</td><td>16.95</td><td>109.35</td><td></td><td></td><td></td><td>0.71058</td><td>Na-Cl</td></tr><tr><td>NQS-07</td><td>38</td><td>0.15</td><td>38.36</td><td>4.40</td><td>1.97</td><td>71.02</td><td>2.35</td><td>0.04</td><td>118.29</td><td>17.25</td><td>128.20</td><td></td><td></td><td></td><td>0.71066</td><td>Na-Cl</td></tr><tr><td>NQS-14</td><td>39</td><td>0.22</td><td>97.69</td><td>10.91</td><td>5.68</td><td>186.10</td><td>0.67</td><td>0.02</td><td>301.28</td><td>50.10</td><td>396.90</td><td>-</td><td></td><td></td><td>0.71056</td><td>Na-Cl</td></tr><tr><td>BQS-23</td><td>40</td><td>0.32</td><td>98.79</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"5\">EQ</td><td></td><td></td><td></td><td></td><td>14.13</td><td>4.37</td><td>189.93</td><td>0.50</td><td>0.01</td><td>308.06</td><td>31.25</td><td>334.40</td><td>-7.30</td><td>-76.00</td><td></td><td>0.71076</td><td>Na-Cl</td></tr><tr><td>BQS-24 BQS-25</td><td>41 42</td><td>0.23 0.60</td><td>118.15</td><td>0.93</td><td>0.70</td><td>181.72</td><td>5.75</td><td>0.03</td><td>307.49</td><td>17.35</td><td>28.50</td><td>-6.70</td><td>-77.00</td><td>6.60</td><td>0.71084</td><td>Na-Cl</td></tr><tr><td>KCHX-W1a</td><td>43</td><td></td><td>107.19</td><td>4.30</td><td>1.31</td><td>176.11</td><td>1.41</td><td>0.04</td><td>290.96</td><td>25.30</td><td>115.40</td><td></td><td></td><td></td><td>0.71110</td><td>Na-Cl</td></tr><tr><td>KCHX-W2a</td><td>44</td><td>0.05 0.11</td><td>54.27</td><td>2.42</td><td>0.71</td><td>86.07</td><td>5.30 4.03</td><td>0.09</td><td>148.85</td><td></td><td></td><td>-6.80</td><td>-72.00</td><td></td><td></td><td>Na-Cl</td></tr><tr><td>KCHX-W3a</td><td>45</td><td>0.07</td><td>43.40 49.92</td><td>2.20 2.43</td><td>0.64 0.76</td><td>69.67 78.92</td><td>4.76</td><td>0.17 0.15</td><td>120.13 137.93</td><td></td><td></td><td>-6.60 -5.60</td><td>-75.00 -73.00</td><td></td><td></td><td>Na-Cl Na-Cl</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/26cca23ad2d41f01829f8d5133d792495dc7b10dbea983936e2e31d57723329a.jpg",
+        "table_caption": [
+            "e rrrlrnrrerrerereeernrrrrererrree ",
+            ".NrTr nrrEEteEi it "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sample code</td><td rowspan=\"2\">NO.</td><td rowspan=\"2\">K+ (mg/L）</td><td rowspan=\"2\">Na+</td><td rowspan=\"2\">Ca²</td><td rowspan=\"2\">Mg2+</td><td rowspan=\"2\">CI-</td><td rowspan=\"2\">SO42-</td><td rowspan=\"2\">HCO3-</td><td rowspan=\"2\">TDS</td><td rowspan=\"2\">Sr2+ (mg/L)</td><td rowspan=\"2\">8180 (%0)</td><td rowspan=\"2\">8D (%0)</td><td rowspan=\"2\">T(TU)</td><td rowspan=\"2\">87Sr/86Sr</td><td rowspan=\"2\">Water type</td></tr><tr><td>（mg/L） (mg/L）</td></tr><tr><td>MZETH-1</td><td>46</td><td>5.78</td><td>(mg/L) 24.75</td><td>（mg/L） 60.60</td><td>(mg/L) 28.10</td><td>40.56</td><td>197.50</td><td>（mg/L） 152.64</td><td>(mg/L) 509.93</td><td>0.55</td><td>-10.80</td><td>-70.00</td><td></td><td>0.71192</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-2</td><td>47</td><td>4.56</td><td>7.36</td><td>37.74</td><td>10.59</td><td>10.34</td><td>56.49</td><td>135.40</td><td>262.48</td><td>0.24</td><td>-12.20</td><td>-82.00</td><td></td><td>0.71249</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-3</td><td>48</td><td>3.93</td><td>6.22</td><td>31.61</td><td>7.87</td><td>4.72</td><td>62.17</td><td>102.17</td><td>218.69</td><td>0.19</td><td>-11.60</td><td>-76.00</td><td></td><td></td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-4</td><td>49</td><td>4.23</td><td>11.68</td><td>48.69</td><td>20.25</td><td>13.08</td><td>174.50</td><td>103.40</td><td>375.83</td><td>0.34</td><td>-11.30</td><td>-78.00</td><td></td><td></td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-5</td><td>50</td><td>4.03</td><td>12.10</td><td>46.66</td><td>19.63</td><td>11.97</td><td>170.00</td><td>89.24</td><td>353.63</td><td>0.33</td><td>-11.70</td><td>-77.00</td><td>25.19</td><td>0.71343</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-6</td><td>51</td><td>4.08</td><td>11.53</td><td>47.13</td><td>19.58</td><td>12.10</td><td>167.40</td><td>87.40</td><td>349.22</td><td>0.34</td><td>-11.90</td><td>-78.00</td><td>22.20</td><td>0.71344</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-7</td><td>52</td><td>4.22</td><td>12.01</td><td>47.95</td><td>19.89</td><td>10.70</td><td>150.70</td><td>97.24</td><td>342.71</td><td>0.34</td><td>-12.00</td><td>-80.00</td><td>1</td><td></td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-8</td><td>53</td><td>4.51</td><td>11.04</td><td>47.15</td><td>19.55</td><td>10.17</td><td>165.50</td><td>81.24</td><td>339.16</td><td>0.33</td><td>-11.40</td><td>-77.00</td><td></td><td>-</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-9</td><td>54</td><td>4.57</td><td>11.92</td><td>50.45</td><td>21.00</td><td>17.61</td><td>153.20</td><td>91.09</td><td>349.84</td><td>0.36</td><td>-11.80</td><td>-78.00</td><td></td><td>0.71335</td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-10</td><td>55</td><td>4.98</td><td>13.13</td><td>53.19</td><td>21.58</td><td>10.61</td><td>167.20</td><td>87.40</td><td>358.09</td><td>0.37</td><td></td><td></td><td></td><td></td><td>Ca-Mg-HCO3-SO4</td></tr><tr><td>MZETH-11</td><td>56</td><td>7.25</td><td>33.05</td><td>47.56</td><td>20.76</td><td>32.18</td><td>90.90</td><td>147.71</td><td>379.41</td><td>0.49</td><td></td><td></td><td></td><td></td><td>Ca-Mg-HCO3-SO4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C l ^ { - } { > } S O _ { 4 } { } ^ { 2 - } { > } H C O _ { 3 } { } ^ { - } }$ and $\\mathrm { N a ^ { + } { > } C a ^ { 2 + } { > } M g ^ { 2 + } }$ (Table 1). Most saline springs exhibited low $\\mathrm { K ^ { + } }$ concentrations, ranging from O.02 to $0 . 6 8 \\ \\mathrm { \\ g / L }$ (mean value of $0 . 1 7 ~ \\ \\mathrm { g / L } )$ . However, six potassium-rich brines were observed in the WQ (Shan et al., 2O19). The potassium-rich brines of the WQ $\\scriptstyle ( n = 6 )$ exhibited $\\mathrm { K ^ { + } }$ concentrations ranging from 15.25 to $4 5 . 6 8 ~ \\mathrm { g / L }$ (Table 1), which were dozens of times higher than those reported previously (Tan et al., 2004; Bo et al., 2013b, 2015). The $\\mathbf { B r } ^ { - }$ concentrations of saline springs in the QSB ranged from 0.60 to $5 3 . 5 4 ~ \\mathrm { m g / L }$ , which were lower than the $\\mathrm { B r ^ { - } }$ concentration of seawater ( ${ 6 1 . 0 0 \\ \\mathrm { m g / L } }$ ; Chen, 1983)， suggesting that the paleo-halite had low $\\mathrm { B r ^ { - } }$ concentration in the Tarim Basin (Tan et al., 2004). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The TDS concentrations of river water were in the range of $0 . 2 2 \\mathrm { - } 0 . 5 1 ~ \\mathrm { g / L }$ ，witha meanvalue of $0 . 3 5 ~ \\mathrm { g / L }$ . In addition, all these samples contained $\\mathrm { H C O } _ { 3 } ^ { - }$ and ${ \\mathrm { S O } } _ { 4 } { } ^ { 2 - }$ as well as $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ which served as their predominant anions and cations, respectively. Generally， the chemical composition of river water can be used as background recharge source to indicate the chemical variation and evolution during the water circulation of saline springs. Tables 1 and 2 and Figure 3 show the chemical data for the varying cation and anion compositions of saline springs and river water. The river water with low TDS concentrations was mainly characterized by $\\mathrm { C a - M g - H C O _ { 3 } - S O _ { 4 } }$ type of chemistry. As the TDS concentration increased, the concentrations of $\\mathrm { { N a ^ { + } } }$ and $\\mathbf { C l } ^ { - }$ correspondingly increased, such that the chemical type of river water evolved to the Na-Cl type following the long-term intensive evaporation and dissolution of halite. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bfe9379724805ceb4f02388f0aafb283c6d870cf929e5dab78fe92a028ed325.jpg",
+        "img_caption": [
+            "Fig.3 Piper plots of chemical compositions of saline springs and river water in the QSB of the Kuqa Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2H-O isotopes and tritium concentration compositions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As shown in Tables 1 and 2, saline springs and river water in the QSB of the Kuqa Basin exhibited SD values from $- 8 4 . 7 0 \\text{‰}$ to $- 3 6 . 0 0 \\text{‰}$ and from $- 8 2 . 0 0 \\text{‰}$ to $- 7 0 . 0 0 \\text{‰}$ ,respectively, and $\\delta ^ { 1 8 } \\mathrm { O }$ values from $- 9 . 1 0 \\text{‰}$ to $2 . 0 0 \\text{‰}$ and from $- 1 2 . 2 0 \\text{‰}$ to $- 1 0 . 8 0 \\text{‰}$ , respectively. Saline springs of the QL presented SD values between $- 7 6 . 0 0 \\text{‰}$ and $- 5 7 . 0 0 \\text{‰}$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values between $- 9 . 1 0 \\text{‰}$ and $- 4 . 7 0 \\text{‰}$ . Similarly, saline springs of the WQ exhibited SD values ranging from $- 8 4 . 7 0 \\text{‰}$ to $- 3 6 . 0 0 \\text{‰}$ and $\\mathbf { \\delta } ^ { 8 1 8 } \\mathbf { O }$ values ranging from $- 9 . 1 0 \\text{‰}$ to $2 . 0 0 \\text{‰}$ ， whereas saline springs of the EQ showed δD values between $- 7 7 . 0 0 \\text{‰}$ and $- 7 2 . 0 0 \\text{‰}$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values between $- 7 . 3 0 \\text{‰}$ and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$- 5 . 6 0 \\text{‰}$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tritium ( $^ 3 \\mathrm { H }$ or T) is an unstable isotope of hydrogen with a half-life period of 12.32 a. There are two dominant sources of tritium in meteoric water: cosmic ray produce tritium and nuclear-bombing tritium (Solomon and Cook, 2000; Jiao et al., 2004; Michel, 2005; Huang and Pang, 201O; Pang et al., 2O1O; Huang et al., 2017). In this study, we would infer whether the sample water was sourced from modern water or paleo-water according to the tritium concentration values. The tritium input sequence of precipitation in the study area was based on the tritium sequence in the Tarim Basin from 1952 to 2OO7, which was constructed by Jiao et al. (2004), Huang and Pang (2O10) and Pang et al. (2O10). The results show a tritium concentration decreasing from 2586.00 TU (1963) to 20.00-30.00 TU (2007). Using an exponential decay equation, it can be found that the decayed tritium concentrations of precipitation in 2Oo7 (which would represent the tritium concentrations in groundwater that had infiltrated between 1952 and 2007) exhibited tritium concentration ranges from 50.00 to $2 2 5 . 0 0 \\mathrm { T U }$ during the period of 1962- 1966,and from 10.00 to $3 5 . 0 0 \\ \\mathrm { T U }$ during the period of 1967-2007 (Fig. 4; Jiao et al., 2004; Huang and Pang, 2O1O; Pang et al., 2O1O). Thus, saline spring containing No. 7 sample in the QL with a tritium concentration of less than $1 . 0 0 \\mathrm { T U }$ was regarded as paleo-water (Table 1). Saline springs containing No. 16-21 and 36 samples in the WQ and saline spring containing No. 41 sample in the EQ, which had tritium concentrations of less than 10.Oo TU, were regarded as pre-modern water or mixtures of pre-modern water and modern water (Table 1). River water containing No. 50 and 51 samples with tritium concentrations ranging from 22.20 to 25.19 TU were regarded as modern water (Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ca7f82e7a68f33ce0d4b13b79157183342c4c47ae68e6c23e715b20a163ad92.jpg",
+        "img_caption": [
+            "Fig.4Tritium concentration in precipitation from 1952 to 2007 and the decayed tritium concentration in the QSB of the Kaqu Basin (modified after Huang and Pang (2O10)). GNIP, Global Network of Isotopes in Precipitation. It should be noted that the tritium input sequence of precipitation in the study area was based on the tritium sequence in the Tarim Basin from 1952 to 2007, which was constructed by Jiao et al. (2004), Huang and Pang (2010) and Pang et al. (2010). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 Sr isotope compositions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs in the QSB ranged from O.70969 to 0.71110 (mean value of 0.71038), which were lower than those of river water that ranged from O.71192 to 0.71344 (mean value of O.71293). Saline springs of the QL presented $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios varying from 0.70969 to 0.71016 (mean value of O.70983),whereas saline springs of the WQ exhibited $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios varying from 0.71008 to 0.71080 (mean value of 0.71046). Similarly, saline springs of the EQ showed $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios ranging from 0.71076 to 0.71110 (mean value of 0.71090). These results indicate that the $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs increased from the QL (west) to the EQ (east) in the QSB. The ${ \\mathrm { S r } } ^ { 2 + }$ concentrations of saline springs in the QSB ranged from 3.10 to $3 9 6 . 9 0 ~ \\mathrm { m g / L }$ with a mean value of $1 4 9 . 3 6 ~ \\mathrm { m g / L }$ (Table 1). In comparison, the ${ \\mathrm { S r } } ^ { 2 + }$ concentrations of river water were in the range of $0 . 1 9 { - } 0 . 5 5 \\mathrm { m g / L }$ , with a mean value of $0 . 3 5 ~ \\mathrm { m g / L }$ (Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1 Origin of saline springs ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 Elemental evidence ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The origin of salinity in sedimentary basin fluids has historically been attributed to the subaerial evaporation of seawater and the dissolution of evaporates (Ritenhouse, 1967; Carpenter, 1978; Land and Prezbindowski, 1981; Tan et al.,2011). Previous studies about the K/Br ratio indicated that saline springs were formed by the leaching of halite (Tan et al., 2OO4). The explanation has been manifested from evidence lines of high $\\mathrm { \\Delta N a ^ { + } }$ plus $\\mathrm { C l ^ { - } }$ concentrations and high Na/Cl ratio (the value is close to 1.0, exhibiting the characteristics of halite dissolution) in the QSB (Fig. 5). Abnormally low $\\mathrm { { N a / C l } }$ ratio has been observed in the saline spring containing No. 2O sample in the WQ, which may be a result of halite precipitation. Meanwhile, $\\mathbf { C l ^ { - } }$ is a conservative element that has been continuously concentrated during the evaporation of water, given that the relationship between $\\mathrm { { N a / C l } }$ ratio and $\\mathbf { C l } ^ { - }$ concentration of saline springs in the QSB reflected an uneven spatial distribution of $\\mathrm { C l ^ { - } }$ concentrations (Fig. 5), indicating the different variations in salinity among the saline springs. Therefore, we conclude that saline springs from Group I (No. 31, 37-38 and 43-45 samples; Table 1) to Group II (No. 1-15,18-19, 22-23,27-28,32-34 and 39-42 samples; Table 1) experienced gradual evaporation, which is depicted by the right radiating arrow in Figure 5. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b486aacd753b29c71193915a566576818a0432cc2552d15629052a7fdb49077.jpg",
+        "img_caption": [
+            "Fig.5 Relationship between $\\mathrm { { N a / C l } }$ ratio and $\\mathbf { C l ^ { - } }$ concentration of saline springs in the QSB of the Kuqa Basin. Group Iincluded the No.31,37-38 and 43-45 samples; Group I included the No.16-17,21,24-26,29-30 and 35-36 samples; and Group II included the No.1-15,18-19,22-23,27-28,32-34 and 39-42 samples. The gray square represents the $\\mathrm { { N a } / \\mathrm { { C l } } }$ ratio ranged from 0.71 to1.00. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To further distinguish the origin of salinity in saline springs of the QSB, we calculated the $\\mathrm { \\ B r / C l }$ ratios in all of saline springs, given that bromide is an ideal element for identifying the origin of solutes, the mixing or dilution of brines, and various water-rock interaction processes without diagenetic alterations (Stueber and Walter, 1991; Tan et al., 2O11). Figure 6 shows the pitch points of $\\mathrm { B r } { \\times } 1 0 ^ { 3 } / \\mathrm { C l }$ ratio on the concentration curve of water from the Yellow Sea (Chen, 1983). It can be seen that all of saline springs are located below the evaporation-concentration curve of the Yellow Sea water. Furthermore, if the $\\mathrm { { N a } / \\mathrm { { C l } } }$ ratios were in the range of $0 . 8 7 \\mathrm { - } 0 . 9 9$ or higher and the ratios of $\\mathrm { B r } { \\times } 1 0 ^ { 3 } / \\mathrm { C l }$ were in the range of $0 . 8 7 \\mathrm { - } 0 . 0 8$ or smaller, then the saline springs were generally considered to be leached halite (Tan et al., 2OO4). In addition, the $\\mathrm { { S r / C a } }$ ratio is also a good proxy of salinity and has been successfully used in some geologic studies (Odum, 1951; Holmes et al., 1992; Bouaicha et al., 2019). In this study, the $\\mathrm { { S r / C a } }$ ratios of saline springs in the QSB were greater than O.0o50. Meanwhile, there is a good relationship between the concentrations of ${ \\mathrm { S r } } ^ { 2 + }$ and $\\mathrm { C a ^ { 2 + } }$ ， indicating that quite a significant portion of the $\\mathrm { S r } ^ { 2 + }$ in saline spring of the QSB was derived from the dissolution of evaporite minerals, which is consistent with the lithologic characteristics of the area. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the above results of the Na/Cl, $\\mathrm { \\ B r / C l }$ and $\\mathrm { { S r / C a } }$ ratios, we suggest that salinity of saline springs in the QSB likely was originated from the evaporation and halite dissolution of river water and/or precipitation that passed through the halite-rich stratum. Nonetheless, it is unreliable to determine the origin of saline springs by only using $\\mathrm { { N a / C l } }$ and $\\mathrm { \\ B r / C l }$ ratios, such that a combination of other isotopes must also be used. Therefore, the characteristics of the $_ \\mathrm { H - O - S r }$ isotope compositions are discussed below to shed further light on the origin of saline springs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/380f20d076c07bb50b8cbc7aff852366950df41f0a49bb9ebe410284d7de2db1.jpg",
+        "img_caption": [
+            "Fig. 6 Relationship between $\\mathrm { l g } ( \\mathrm { B r } \\times 1 0 ^ { 3 } / \\mathrm { C l } )$ ratio and $\\mathrm { C l ^ { - } }$ concentration of saline springs in the QSB of the Kuqa Basin.Evaporation-concentration curve of the Yellow Sea water is from Chen (1983). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.1.2H-O isotopes and tritium concentration evidence ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The isotope compositions of saline springs and river water in the QSB of the Kuqa Basin are shown in Tables 1 and 2. The relationships between SD and $\\delta ^ { 1 8 } \\mathrm { O }$ of saline springs and river water in the QSB in relation to the global meteoric water line (GMWL: $\\scriptstyle 8 \\mathrm { D } = 8 \\delta ^ { 1 8 } \\mathrm { O } + 1 0$ ; Craig,1961) are shown in Figure 7. The local evaporation line (LEL: $\\mathrm { \\delta B D { = } } 4 . 8 7 \\mathrm { \\delta } ^ { 1 8 } \\mathrm { O - } 2 0 . 7 1$ $R ^ { 2 } { = } 1 . 0 0 0 \\$ ), which is the linear regression line of river water in the study area and lake water of the Ebinur Lake, is also shown in Figure 7. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/65289638c30afad49d55db31ce6795b2f1d4b90fd3c23a4209008ad1db60f0b2.jpg",
+        "img_caption": [
+            "Fig. 7 Relationship between SD and $\\delta ^ { 1 8 } \\mathrm { O }$ of saline springs and river water in the QSB of the Kuqa Basin, EbinurLake in Xinjiang(Zhenget al.,1995),intercrystaline brines in theLuo Bei sub-basin (Wang etal.,1997), and the O3lformation water and the Ol-2y formation water in the Tazhong areaof Tarim Basin (Li and Cai, 2017). The global meteoric water line (GMWL, $\\scriptstyle 8 \\mathrm { D } = 8 \\delta ^ { 1 8 } \\mathrm { O } + 1 0 $ ） is from Craig (1961） and the local evaporation line (LEL: $\\mathrm { \\delta \\Delta \\delta D { = } } 4 . 8 7 \\delta ^ { 1 8 } \\mathrm { O - } 2 0 . 7 1$ ) is from this study. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "River water in the QSB of the Kuqa Basin represented the modern meteoric water due to the tritium concentrations of river water (ranging from 22.20 to 25.20 TU; Table 2) were similar to the tritium concentration of the rainfall sample $( 2 9 . 8 ~ \\mathrm { T U } )$ in the Tarim Basin (Huang and Pang, 2010). The tritium concentration of precipitation in the Tarim Basin was still higher than those in the other areas (Liu, 2001; Huang and Pang, 201O; Pang et al., 201O), which may be the result of nuclear explosion tests and high latitude atmospheric circulation. As shown in Figure 7, SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values (ranging from $- 7 0 . 0 0 \\text{‰}$ to $- 5 9 . 0 0 \\text{‰}$ and $- 9 . 1 0 \\text{‰}$ to $- 7 . 3 0 \\text{‰}$ , respectively) of saline springs in the WQ (No. 16, 18-20, 22, 23, 32-33 and 36 samples) and δD and $\\delta ^ { 1 8 } \\mathrm { O }$ values (ranging from $- 8 2 . 0 0 \\text{‰}$ to $- 7 0 . 0 0 \\text{‰}$ and $- 1 2 . 2 0 \\text{‰}$ to $- 1 0 . 8 0 \\text{‰}$ , respectively) of river water were situated close to the GMWL， suggesting that those saline springs mainly originated from precipitation following river water recharging. These observations were confirmed by the similarities in major chemical compositions (Fig. 3). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, saline springs of the QSB in the Kuqa Basin (8D: $- 8 4 . 7 0 \\text{‰}$ to $- 3 6 . 0 0 \\text{‰}$ ， $\\delta ^ { 1 8 } \\mathrm { O }$ $- 9 . 1 0 \\text{‰}$ to $2 . 0 0 \\text{‰}$ ） and intercrystalline brines in the Luo Bei sub-basin (8D: $- 3 2 . 0 0 \\text{‰}$ to $- 1 0 . 0 0 \\text{‰}$ ， $\\delta ^ { 1 8 } \\mathrm { O }$ ： $5 . 1 0 \\text{‰}$ to $7 . 6 0 \\text{‰}$ ; Wang et al., 1997) showed a gradual positive enrichment trend in heavy isotopes along the LEL, suggesting the influence of evaporation. However, despite that, saline springs were not formed by evapo-concentration because it is unlikely that high chloride concentrations in saline springs can result in evapo-concentration and highly salinity. Thus, we conclude that saline spring water may have experienced intense evapo-concentration before dissolving the salty minerals or after returning to the surface. Thus, the high $\\mathrm { C l ^ { - } }$ concentration in saline spring water was mainly dominated by the dissolution of salty minerals in this study (Fig. 5). In addition,SD and $\\delta ^ { 1 8 } \\mathrm { O }$ (ranging from $- 6 1 . 0 0 \\text{‰}$ to $- 3 7 . 0 0 \\text{‰}$ and $- 3 . 5 0 \\text{‰}$ to $2 . 0 0 \\text{‰}$ respectively) of saline springs in the QSB of the Kuqa Basin overlapped with those (δD: $- 5 3 . 0 0 \\text{‰}$ to $- 3 0 . 3 0 \\text{‰}$ ， $\\delta ^ { 1 8 } \\mathrm { O }$ ： $- 2 . 6 0 \\text{‰}$ to $1 . 3 0 \\text{‰}$ ）ofthe $\\mathbf { O } _ { 3 } \\mathbf { l }$ formation water in the Tarim Basin (Li and Cai, 2O17), indicating similar genesis between these water. According to the residence times, saline spring containing No. 7 sample in the QL with tritium concentrations of less than $1 . 0 0 \\mathrm { T U }$ was regarded as paleo-water (Table 1; Fig. 4). In contrast, saline springs containing No. 16-21 and 36 samples in the WQ and saline spring containing No. 41 sample in the EQ, which had tritium concentrations of less than $1 0 . 0 0 \\mathrm { T U }$ ， were regarded as pre-modern water or mixtures of pre-modern water and modern water (Table 1; Fig. 4). All of these saline springs had relatively short residence time. In addition, the long residence time of saline spring containing No.7 sample in the QL may be caused by the mixture of formation water (e.g., residual brines from salt layers). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the above discussion, we conclude that the presented SD and $\\delta ^ { 1 8 } \\mathrm { O }$ values of saline springs (Fig. 7) are indicative of multiple origins and/or influences. In addition, it is difficult to discriminate amongst the possible mechanisms of saline spring formation from only oxygen and hydrogen isotopes. The following discussion will rely on Sr isotope to further constrain the origins of saline springs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1.3Sr isotope evidence ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evaporite deposits are not only from the marine or terrestrial brine but also from different inputs of deep circulating atmospheric water, basinal fluids, or hydrothermal fluids. Large evaporite deposits are associated with marine fluids, whereas small evaporite deposits may be associated with terrestrial fluids (Lowenstein et al., 1989, 2016, 2017; Zhang et al., 1991; Lowenstein and Risacher, 2009; Fan et al., 2018; Li et al., 2018). Generally, terrestrial fluids with high $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios are affected by crust materials. In contrast, seawater with low $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios is affected by mantle materials. The $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of seawater ranged from 0.70772 to 0.70783 during the Paleocene (Hess et al., 1986; Fig. 8). Tertiary halites in the western Qaidam Basin exhibited $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios between 0.711566 and 0.711607 (Tan et al., 2010; Fig. 8). The $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of Khammouan potash deposit ranged from 0.707542 to 0.709461 (Tan et al., 2010; Fig. 8). In contrast, the $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs in the QSB of the Kuqa Basin were likely close to the value of a mixture of marine and terrestrial sources (Fig. 8). The results indicated a gradual increase in $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs from the QL (west) to the EQ (east) in the QSB (Fig. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6f45976dd208b0f97190ae1ca3b3cbbd3d08c53f8e8f808e5b44e62f6fceeee.jpg",
+        "img_caption": [
+            "Fig. 8 Ranges of $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios in saline springs of the QSB in the Kuqa Basin and from other different strontium sources.The mantleand lithosphere data were sourced from Kelts (1987),seawater data from Hess et al. (1986), and Tertiary halites and Khammouan potash deposit data from Tan et al. (2010). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd3f98e37a28a6fb3168ca9854a2bff16103578dd1051639ac26e05d9a896a3a.jpg",
+        "img_caption": [
+            "Fig. 9Plots of relationship between $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratio and $\\mathrm { l g } ( 1 0 0 0 / \\mathrm { S r } )$ of saline springs and river water in the QSB of the Kuqa Basin (this study) and the O3l formation water and the $\\mathrm { O } _ { 1 }$ -2y formation water in the Tazhong area of the Tarim Basin (Li and Cai,2O17). Group I represents meteoric water source; Group II represents formation water mixed with paleo-meteoric water; Group II represents saline springs; and Group IV represents formation water mixed with hydrothermal water. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8-10).This conclusion is consistent with the characteristics of the depositional environment of the EQ that has been converted to the continental facies during the Miocene (Liu et al., 2013). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The relationship between $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratio and $\\mathrm { l g } ( 1 0 0 0 / \\mathrm { S r } )$ is commonly utilized to trace the origin of water to further distinguish the genetic type of saline springs (Fig. 9). The sample area can be broadly divided into four groups. First, the modern river water located in Group I with distinctly higher $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios and very lower Sr concentrations (Figs. 9 and 1O) can be regarded as an end-member of meteoric water source. Second, the $\\mathrm { ~ O _ { 3 } l ~ }$ formation water located in Group II with higher $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios and $\\mathrm { S r }$ concentrations may have resulted from the mixing of meteoric water (Figs. 9 and 10) (Li and Cai, 2O17). Third, the O1-zy formation water located in Group III with distinctly lower $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios and significantly higher Sr concentrations may have resulted from the mixing of hydrothermal water (Figs. 9 and 1O) (Li and Cai, 2O17). Generally, the formation of brines related to seawater or marine evaporate sources and oilfield brine also exhibited low $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios (Tan et al., 2O11; Fan et al., 2O18). Lastly, the saline springs in Group III which located between groups $\\mathrm { I I }$ and IV, has the same origin as that observed in the end-member mixing of water with low $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios and high Sr concentrations, showing a mixed origin (Figs. 9 and 1O). Thus, it is more possible that the lower $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratio compositions with higher Sr concentrations were partly attributed to the mixture of formation water, or the mixture of seawater or marine evaporate sources. Meanwhile, the $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs gradually increased from the QL (west) to the EQ (east) with mean values of 0.70983, 0.71046 and 0.71090 for the QL, WQ and EQ, respectively, indicating the gradual mixing of the terrestrial sources water. In addition, the TDS of Group II was significantly higher than those of other groups (Fig. 1O), implying that halite dissolution is a major solute source for saline springs in the QSB. This conclusion was also verified by the relationship between $\\mathrm { { N a } / \\mathrm { { C l } } }$ and $\\mathrm { B r / C l }$ ratios. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e806a743a8a04cbdeb810f8d5bbc1d6a83e16dc5a9c27bbe5d5d338f44a6c1b8.jpg",
+        "img_caption": [
+            "Fig.10 Plots of relationship between $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratio and total dissolved solid (TDS) concentration of saline springs and river water in the QSB of the Kuqa Basin (this study) and the $\\mathrm { O } _ { 3 } \\mathrm { l }$ formation water and the O1-2y formation water in the Tazhong area of the Tarim Basin (Li and Cai,2O17). Group Irepresents meteoric water source; Group I rpresents formation water mixed with paleo-meteoric water; Group IIrepresents saline springs; and Group IV represents formation water mixed with hydrothermal water. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The above results were combined with the general chemical compositions and the characteristics of the H-O-Sr isotopes of saline springs. Above all, the origin of salinity was mainly dominated by the dissolution of salty minerals due to the river water and/or precipitation passed through halite-rich stratum. Moreover, we conclude that there are two possble origins of saline springs in the QSB of the Kuqa Basin: (1) the infiltration of meteoric water (river water) that circulated deep into the earth, thus dissolving salty minerals and returning to the surface along the fault; and (2) the mixture of formation water, or the mixture of seawater or marine evaporate sources and its subsequent discharge to the surface through faults. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2 Conceptual model of saline spring circulation and potential prediction of potassium formation ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "From the Paleogene to Quaternary, the South Tianshan Mountains began to uplift due to the Himalayan tectonic movement. Many high and steep thrust faults were well-developed in the Kuqa Basin due to the complex tectonic evolutions (Lai et al., 2O17; Feng et al., 2O18), which served as favorable conduits for conducting groundwater circulation. Precipitation or river water easily infiltrated under tectonic fracture conditions from the source area to the discharge area and circulated deep into the earth, dissolving salty minerals and returning to the surface along the fault (Fig. 11). Thus, groundwater was transported from the deep earth to the ground surface and carried information reflecting the underground geological status. The evolution process of spring water in this area is concisely illustrated in Figure 11. The characteristics of saline spring circulation in the QSB of the Kuqa Basin indicated the considerable potential of QSB for seeking potassium. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SHAN Junjie et al.: Origin and circulation of saline springs in the Kuqa Basinof the Tarim Basin... ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/554fd866dc6bc1d9c76963e13e32297c0b8b9fbfc49c4db0c0c7f29167f42889.jpg",
+        "img_caption": [
+            "Fig.11Water circulation and evolution of saline springs in the QSB of the Kuqa Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Kuqa Basin is located in the northern part of the Tarim Basin and is regarded as the most potential potash-seeking area. Thus, it is important to understand the saltwater circulation and evolution of this saline basin. By analyzing the elemental concentrations and H-O-Sr isotopes of saline springs and river water in the QSB of the Kuqa Basin, we summarize some conclusions. According to the evolution and formation of saline springs, the origin of salinity was mainly dominated by the dissolution of salty minerals due to the river water and/or precipitation passing through halite-rich stratum in the study area. In combination with the general chemical compositions and the characteristics of H-O-Sr isotopes of saline springs, we conclude that there are two possible origins of saline springs in the QSB: (1) the infiltration of meteoric water (river water), which circulated deep into the earth, dissolving salty minerals and returning to the surface along the fault; and (2) the mixture of formation water, or the mixture of seawater or marine evaporate sources and its subsequent discharge to the surface through faults. Moreover, the $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios of saline springs gradually increased from the QL (west) to the EQ (east) in the QSB.This conclusion is consistent with the characteristics of the depositional environment of the EQ that has been converted to the continental facies during the Miocene. Our findings provide new insight into the possible saltwater circulation and evolution of saline basins. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the \"The Belt and Road\" Key Project of the Bureau of International Co-operation Chinese Academy of Sciences (122363KYSB20170002),the \"One-Thre-Five\" Strategic Planning of Chinese Academy of Sciences (Y760031091),the National Natural Science Foundation of China (41671521), the National Key Research and Development Program of China (2018YFC0406605),the Science and Technology Plan of Qinghai Province of China (018-ZJ-TO3)and the Light of West Talent Program of Chinese Academy of Sciences (Y9140031013). We thank Ms. WANG Bo and Ms. XUE Yuan for their help in the laboratory. We also thank Mr. WANG Mingxiang, Dr. LI Jiansen, Dr. WEI Haicheng, Mr. CHEN Shuai, Dr. LI Yongshou, Mr. TANG Qiliang and Dr. YUAN Xiaolong for their help to collect water samples. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Anderson L, Finney B P, Shapley M D. 2011. Lake carbonate- $\\cdot \\delta ^ { 1 8 } \\mathrm { O }$ records from the Yukon Territory, Canada: Litle ice age moisture variability and patterns. Quaternary Science Review,3O(7-8): 887-898.   \nBallyAW,Snelson S.1980.Realmsofsubsidence.In: MiallAD.FactsandPrinciplesof World Petroleum Occurrence. Canadian Society of Petroleum Geologists Memoir, 6: 9-94.   \nBoY,LiuCLiaoCetala.Hrcalrctesidtroigctorsoatrsicaloiio the Tarim Basin,Western China. Geochemistry, 73(3): 343-356.   \nBoY,Liu CL,JiaoPC,etal.b.Salinesprnghdrochemicalcharacteristiandindicatorsforpotassumexploatioin southwestern and northern Tarim Basin, Xinjiang. Acta Geoscientia Sinica, 34(5): 594-6O2. (in Chinese) prospecting in the Kuqa Basin, Xinjiang. Acta Geologica Sinica, 89(11): 1936-1944. (in Chinese)   \nBouaichaF,DibH,BouteraaO,etal.2019.Geochemicalassssment,mixingbehaviorandenvironmentalimpactof theral waters in the Guelma geothermal system,Algeria. Acta Geochimica, 38(5): 683-702.   \nCaoSL,ChenFJ,LuoCR,etal.994.Numericalmodellingof subsidencemechanismofameso-cenozoic forelandbasinin North Tarim. Oil & Gas Geology, 15(2): 113-120. (in Chinese)   \nCapo R C,Stewart B W,Rowan EL,et al. 2014. The strontium isotopic evolution of Marcelus Formation produced waters, southwestern Pennsylvania. International Journal of Coal Geology, 126: 57-63.   \nCarpenter AB.1978.Origin andchemical evolutionofbrines insedimentarybasins. Oklahoma Geological Survey Circular,79: 60-77.   \nChacko T,Deines P.2008.Theoreticalcalculation of oxygen isotope fractionation factors incarbonate systems.Geochimica et Cosmochimica Acta, 72(15): 3642-3660.   \nChapman EC,CapoR C,Stewart B W,et al.2O13.Strontiumisotopequantification of siderite,brineand acid mine drainage contributions to abandoned gas welldischarges in the Appalachian Plateau.Applied Geochemistry,31: 109-118.   \nChen J,HeermanceRV,BurbankDW,etal.2Oo7.Magnetochronologyanditsimplicationsof the Xiyuconglomerateinthe southwestern Chinese Tianshan foreland. Quaternary Sciences,(4): 576-587. (in Chinese)   \nChen Y H.1983.Sequence of salt separation and regularity of some trace elements distribution during isothermal evaporation $( 2 5 ^ { \\circ } \\mathrm { C } )$ of the Huanghai seawater. Acta Geological Sinica, 4: 379-390. (in Chinese)   \nChenYH,Qu JY.1986.Saline spring hydrochemistry in the Kuqa Basin (1978). In: Buletin of the Instituteof Mineral Deposits,Chinese Academyof Geological Sciences (18). Beijing: Instituteof Mineral Deposits,Chinese Academy of Geological Sciences,10-21. (in Chinese)   \nCraig H. 1961. Isotopic variations in meteoric waters. Science, 133(3465): 1702-1703.   \nDeng $\\mathrm { ~ X ~ L ~ }$ ,Wei Z, Zhao $\\mathrm { ~ Y ~ H ~ }$ ,et al. 2013. Discovery and geological significance of Paleogene potassum in Tarim Basin. Acta Mineralogica Sinica,33(S2): 755-756. (in Chinese)   \nDu JH,TianJ,Li GX,etal. 2019.Strategic breakthrough and prospect of Qiulitag Structural Belt in Kuqa depression.China Petroleum Exploration, 24(1): 16-23. (in Chinese)   \nFan Q S, Ma $\\mathrm { ~ H ~ } Z$ ,Lai $Z \\mathrm { \\bf ~ P } ,$ et al. 2010. Origin and evolution of oilfield brines from Tertiary strata in western Qaidam Basin: Constraints from $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ δD, $\\delta ^ { 1 8 } \\mathrm { O }$ ${ \\delta } ^ { 3 4 } \\mathrm { S }$ and water chemistry. Chinese Journal of Geochemisty, 29: 446-454.   \nFanQS,Ma HZ, Wei HC,et al.2014.Late Pleistocene paleoclimatic historydocumentedbyanoxygen isotoperecord from carbonate sediments in Qarhan Salt Lake,NE Qinghai-Tibetan Plateau.Journal of Asian Earth Science,85: 202-209.   \nFanQS,LowensteinTK,Wei HC,etal.2018.Srisotopeand majorioncompositionalevidenceforformationofQarhan Salt Lake, western China. Chemical Geology, 497: 128-145.   \nFeng J,RenQ, Xu K,et al. 2018. Quantitative prediction of fracturedistribution using geomechanical method within Kuqa depression, Tarim Basin,NW China. Journal of Petroleum Science and Engineering,162: 22-34.   \nGraham S A, Hendrix M S, WangLB,etal.1993.Colision successor basinsof western China: Impact of tectonic inheritance on sand composition. Geological Society of America Bulletin,105(3): 323-324.   \nGuo LN,LiuSS,HouL,etal.2O19.Fluid inclusion and H-Oisotope geochemistryof the PhaponGoldDeposit,NWLaos: Implications for fluid source and ore genesis. Journal of Earth Science,3O(1): 80-94.   \nHan Z R,ZengLB,CaoZ Y,etal.2O18.Differenceof Structuraldeformationand reservoirs physicalproperty inQiulitage Structural Belt of Kuqa Foreland Basin. Natural Gas Geoscience,25(4): 508-515. (in Chinese)   \nHenderson ACG, Holmes JA,Zhang JW,et al. 2O03.Acarbon and oxygen isotope record of recent environmental change from Qinghai Lake, NE Tibetan Plateau. Chinese Science Bulletin, 48(14): 1463-1468.   \nHendersonACG,Holmes JA,Leng MJ,etal. 2010.Late Holocene isotope hydrologyof Lake Qinghai,NETibetan Plateau: effective moisture variability and atmospheric circulation changes. Quaternary Science Review,29: 2215-2223.   \nHess J, Bender M L, Schilling JG, et al.1986. Evolution of the ratioof $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ in seawater from Cretaceous to present. Science,231(4741): 979-984.   \nHolmes JA, Hales PE,Street-PerottFA,etal.1992.Trace-element chemistryof non-marine ostacodsasameansof Palaeolimnologicalreconstruction: An example from the Quaternaryof Kashmir,northern India. Chemical Geology,95(1-2): 177-186.   \nHuang TM,Pang Z H.2010.Changes in groundwater inducedby water diversion in the Lower Tarim River, Xinjiang,NW China: Evidence from environmental isotopes and water chemistry. Journal of Hydrology,387(3-4): 188-201.   \nHuang TM, Pang Z H,Li J, et al.2O17. Maping groundwater renewability using age data in the Baiyang aluvial fan, NW China. Journal of Hydrology, 25(3): 743-755. Petroleum Industry Press,65-74. (in Chinese)   \nJiaoPC,WangML,LiuCL,etal.24.Characterstisandoriginof riiuminthepoassium-ichbrineiLopNur,Xijng. Nuclear Techniques, 27(9): 710-715.   \nKelts K. 1987. Lacaustrine Basin analysis and correlation by strontium isotope stratigraphy. In: Abstract of $1 3 ^ { \\mathrm { u } }$ International Sedimentary,9-13. Nottingham University. Nottingham, UK.   \nLai J, WangG,FanZ,etal.2017.Fracturedetectioninoil-baseddriling mudusingacombinationofboreholeimage andsonc logs. Marine and Petroleum Geology, 84: 195-214.   \nLand L S,Prezbindowski DR.1981. The origin and evolution of saline formation water,Lower Cretaceous carbonates, South-central Texas, USA. Journal of Hydrology, 54(1-3): 51-74.   \nLi B Y, Zhou Y Q, Wu SZ,et al. 2oo2.Characteristicofcarbonand oxygen isotopes oflimestone from Yigeziya and Kalataer formations in southwestern Tarim Basin. Xinjiang Geology, 20: 88-90. (in Chinese)   \nLi H X,CaiCF.2O17. Originand evolutionof formation water from the Ordoviciancarbonate reservoirinthe Tazhong area, Tarim Basin,NW China. Journal of Petroleum Science and Engineering,148: 103-114.   \nLi M H, Yan MD,Fang X M,etal. 2018. Origins of the Mid-Cretaceous evaporite deposits of the Sakhon Nakhon Basin in Laos: Evidence from the stable isotopes of halite.Journal of Geochemical Exploration,184: 20-222.   \nLi X Z, Liu WG, XuLM,et al. 2012. Stable oxygen isotope ofostracods inrecentsediments ofLake Gahai in the Qaidam Basin,Northwest China: The implications for paleoclimatic reconstruction. Globaland Planetary Change,94-95:13-19.   \nLiu CL,Yang HJ, GuQY,etal.208.Research onrelationbetween evaporateandconditionsof generation and preservation inoilandgas in Tarim Basin.In:Technical Reportof Tarim Oilfield Company,20-24.Tarim Oilfield Company.Xinjiang, China. (in Chinese)   \nLiu CL,JiaoPC,Cao YT,et al.2009a.Research onlarge-scale potassium metallogenicconditions and predictionof prospecting target area.In:Buletinof the Instituteof Mineral Deposits, Chinese Academyof Geological Sciences.Beijing: Institute of Mineral Deposits, Chinese Academy of Geological Sciences,1-10. (in Chinese)   \nLiu $\\mathrm { ~ C ~ L ~ }$ , Jiao PC,Wang ML,et al.2Oo9b.The investigation and appraisement and formation regularityof main types of mineral deposits inthe important metalogenic belts inChina.In: Bulletinof theInstituteof MineralDeposits,Chinese Academy of Geological Sciences.Beijing: Institute of Mineral Deposits, Chinese Academyof Geological Sciences,2-3. (in Chinese)   \nLiu CL,Cao YT,Yang H J, et al.2013. Discusionon Paleogene-Neogene environmental change of salt lakes in Kuqa Foreland Basin and its potash-forming effect.Acta Geoscientia Sinica,34(5): 547-558. (in Chinese)   \nLiu C L,Wang L C, Yan M D,et al. 2018. The Mesozoic-Cenozoic tectonic setings,paleogeography and evaporitic sedimentation of Tethyan blocks within China: Implications for potash formation. Ore Geology Reviews,102: 406-425.   \nLiu JD.2O01.Fluorine concentration changing tendency studyofchina atmospheric precipitation in the recent 10 years.Site Investigation Science and Technology, 4: 11-19. (in Chinese)   \nLiu Q,Chen YH,LiYC,etal.1987.Halogenic DepositofTerrigenous Clastic Rock-chemical Rock Types in China in the Mesozoic and Cenozoic.Beijing: Science and Technology Press,16-20. (in Chinese)   \nLowenstein TK,SpencerRJ, ZhangPX,etal.1989.Originof ancient potash evaporites: Clues from the modern nonmarine Qaidam Basin of western China. Science,245(4922): 1090-1092.   \nLowenstein TK,RisacherF.2Oo9.Closed basin brine evolution and the influenceofCa-Cl inflow waters: Death Vallyand Bristol Dry Lake California, Qaidam Basin,China,and Salarde Atacama, Chile.Aquatic Geochemistry,15(1-2): 71-94.   \nLowenstein TK,DolginkoLAC,Garcia-VeigasJ,etal.2O16.Influenceofmagmatic-hydrothermalactivityonbrineevoution in closed basins: Searles Lake,California. Geological Society of America Buletin,128(9-10): 1555-1568.   \nLowenstein T K,Jagniecki EA,Caroll AR,etal.2017.The GreenRiver salt mystery:What was the sourceof the hyperalkaline lake waters? Earth Science Review, 173: 295-306.   \nLu H,HowellDG,JiaD,etal.1994.Rejuvenationof the Kuqaforelandbasin,northernflank oftheTarimBasin,Northwest China. International Geology Review, 36(12): 1151-1158.   \nLuz B,Barkan E,Yam R,et al. 2Oo9. Fractionationof oxygenand hydrogen isotopes in evaporating water. Geochimica et Cosmochimica Acta, 73(22): 6697-6703.   \nMa W D,Ma H Z.2O06. Geochemical characteristics on brine and potash perspective in the western Tarim Basin. Acta Sedimentol Sinica,24(1): 96-106.(in Chinese)   \nMiaoJJ,JiaCZ,WangZM,etal.2O04.Structuralsegmentationandreservoir-formationalong theQiulitage anticlinebeltof Kuqa thrust belt, Tarim Basin. Petroleum Exploration and Development, 31(6): 20-24. (in Chinese)   \nMichel R1.2005.Tritium in the hydrologic cvcle.In: Aggarwal PK. GatJR.Froehlich KFO.Isotopes in the Water Cvcle: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Past,Present and Future of a Developing Science. Netherlands: Springer,53-66. Odum H T. 1951. The stability of the world strontium cycle. Science,114(2964): 407-411. Pang ZH, Huang TM,ChenYN,et al.2O10.Diminished groundwaterrecharge andcirculationrelative todegradingriparian vegetation in the middle Tarim River, Xinjiang, Western China. Hydrological Proces,24(2): 147-159. Peng WL,HuGY,WangYW,etal.218.Geochemicalcharacteristicsof light hydrocarbonsandtheirinfluencingfactors in natural gases of the Kuqa depresson, Tarim Basin,NW China. Geological Journal, 53(6): 2863-2873. Qinghai Institute of Salt Lakes.1988. The Introduction to Analyzing Methods of Brines and Salt Deposits ( $2 ^ { \\mathrm { n d } }$ ed.). Beijing: Science Press,29-71. (in Chinese) Rittenhouse G.1967.Bromine inoil-field watersand its use indetermining possbilities oforiginofthese waters.American Association of Petroleum Geologists Bulletin,51(12): 2430-2440. Shan JJ,WangMX,LiJS,etal.2019.Hydrochemicalcharacteristicsofpotassium-richsaline springand itsimplicationof sylvine deposits in Kuqa Basin, Xinjiang. Acta Geologica Sinica, 93(5): 1180-1188. (in Chinese) Solomon D K, Cook PG. 2000. $^ 3 \\mathrm { H }$ and $^ 3 \\mathrm { H e }$ . In: Cook PG, Herczeg A L. Environmental Tracers in Subsurface Hydrology. Boston: Kluwer Academic Publishers, 397-424. Stewart B W,Chapman EC,CapoR C,etal.2O15. Origin of brines,salts andcarbonate from shalesof the Marcelus Formation: Evidence from geochemicalandSrisotope studyofsequentially extracted fluids.Aplied Geochemisty,60:78- 88. StueberA M, WalterL M.1991. Originand chemical evolution of formation waters from Silurian-Devonian strata in the Illinois Basin, USA. Geochimica et Cosmochimica Acta, 55(1): 309-325. Tan HB,Ma WD, Ma HZ,et al.2004.Hydrochemical characteristicsof brines and application to locating potassium in western Tarim Basin. Geochimica,33(2): 152-158. (in Chinese) TanHB,Ma H,LiBK,et al.2O10.Strontium andboron isotopicconstrainton the marine originof the Khammuane potash deposits in southeastern Laos. Chinese Science Bulletin,55 (27): 3181-3188. TanHB,Rao WB,Ma H Z,etal.2011. Hydrogen,oxygen,helium and strontium isotopicconstraints on the formationof oilfield waters in the western Qaidam Basin, China. Journal of Asian Earth Science,40(2): 651-660. TanHB,Zhang YF,Zhang WJ,etal.2014. Understanding thecirculationof geothermal waters inthe Tibetan Plateauusing oxygen and hydrogen stable isotopes. Applied Geochemistry, 51: 23-32. TangJL,JiaCZ,JinZJ,etal.2O4.SalttectonicevolutionandhydrocarbonacumulationofKuqaforelandfoldbelt,Tarim Basin, NW China. Journal of Petroleum Science and Engineering, 41: 97-108. Wang ML,Liu CL,JiaoPC,etal.1997.SalineLakePotashResources intheLopNor, Xinjiang,China.Beijing:Geological Publishing House, 124-323. (in Chinese) WangPW,Pang X Q,Jiang Z X,etal.2O16. Originand evolutionofoverpressure intheLower Jurasicsuccessionin theKuqa depression, western China. Journal of Natural Gas Science and Engineering,28: 700-710. Wang X Y,YinHW,Deng XL,etal.2O15.Strontium isotope characteristicsand theorigin ofCenozoic salt deposits in Kuqa depression. Journal of Nanjing University, 51(5): 1068-1074. (in Chinese) Xiao Y,ShaoJL,FrapeSK,etal.2O18.Groundwater origin,flowregimeandgeochemical evolutioninaridendorheic watersheds:Acase study from the Qaidam Basin,northwestern China.Hydrologyand Earth System Sciences,22: 4381- 4400. Yang Q.2014. The Global Potash Basin. Kunming: Yunnan Science and Technology Press,232-246. (in Chinese) Zhang PX, Zhang B Z,Lowenstein TK,et al.1991. On the originof ancient anomalous evaporates: Evidence form Qaidam Basin. Geochemical, 6(2): 134-144. (in Chinese) Zheng MP, Hou XH, YuCQ,etal. 2015.The leading roleof salt formation theory in thebreakthrough and important progress in potash deposit prospecting. Acta Geoscientica Sinica, 36(2): 129-139. (in Chinese) Zheng X Y,LiB X,Gao Z H,et al.1995.Salt Lake of Xinjiang.Beijing: Science Press,119-122. (in Chinese) ",
+        "page_idx": 17
+    }
+]

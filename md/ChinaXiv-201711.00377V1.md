@@ -1,0 +1,158 @@
+# 葡萄原花青素对产蛋后期蛋鸡生产性能和抗氧化能力的影响
+
+张 玉¹ 武书庚²王 晶² 岳洪源² 齐广海²高玉鹏1\* 张海军2\*(1.西北农林科技大学动物科技学院，杨凌712100；2.中国农业科学院饲料研究所，农业部
+
+饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京100081)摘要：本试验旨在研究葡萄原花青素（grape procyanidins,GPC）对产蛋后期蛋鸡生产性能、蛋品质及血浆、肝脏和蛋黄抗氧化能力的影响。选取产蛋率、体重相近，健康状态良好的64周龄罗曼蛋鸡288只，随机分为4组，每组6个重复，每个重复12只鸡。对照组：饲喂基础饲粮；GPC50组和GPC100组：分别在基础饲粮中添加50和 $1 0 0 \mathrm { m g / k g }$ 的GPC；抗氧化剂特丁基对苯二酚（tert-butylhydroquinone,TBHQ）组：基础饲粮 $+ 2 0 0 \mathrm { m g / k g }$ TBHQ。预试期 $\mathrm { ~ 7 ~ d ~ }$ ，正试期 $5 6 ~ \mathrm { d } _ { \mathsf { c } }$ 结果表明：1)GPC显著抑制了产蛋后期蛋鸡产蛋率和鸡蛋哈夫单位下降（ $( P { < } 0 . 0 5 )$ ，显著增加了蛋壳厚度（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。2）GPC50组蛋鸡血浆和肝脏总超氧化物歧化酶（T-SOD）活性和总抗氧化能力（T-AOC）均显著提高（ $P { < } 0 . 0 5 \$ ），血浆和肝脏丙二醛（MDA）含量显著降低（ $P { < } 0 . 0 5 )$ ；TBHQ显著提高了蛋鸡血浆T-SOD活性（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ），显著降低了肝脏MDA含量（ $. P { < } 0 . 0 5$ ）。3）GPC显著提高了蛋黄T-SOD活性（ $. P { < } 0 . 0 5$ ），显著降低了蛋黄MDA和胆固醇含量（ $P { < } 0 . 0 5 )$ ；TBHQ显著降低了蛋黄MDA含量（ $P { < } 0 . 0 5$ ）。综上，饲粮添加GPC可改善产蛋后期蛋鸡产蛋率和哈夫单位，增加蛋壳厚度，改善机体抗氧化能力，其中以$5 0 \mathrm { m g / k g }$ GPC添加效果较好，优于 $2 0 0 \mathrm { m g / k g }$ TBHQ。
+
+关键词：葡萄原花青素；产蛋后期蛋鸡；生产性能；蛋品质；抗氧化能力中图分类号：S816.7；S831.5 文献标识码：A 文章编号：1006-267X（2016)00-0000-00
+
+动物机体氧化是疾病和生产性能异常的重要源性致因。近年来，如何摒弃药物治疗保障动物的传统行为，从可持续发展角度的源性控制来达到健康养殖目标，是业界同仁共同关注的重大课题，其中动物抗氧化剂的研发与应用是该课题的重要选择途径之一。动物专用抗氧化剂研发与应用一般分为2类：一类是人工合成的抗氧化剂，如丁基羟基茴香醚（butylatedhydroxyanisole,BHA）、二丁基羟基甲苯（butylated hydroxytoluene,BHT）、没食子酸丙酯（propyl gallate,PG）、特丁基对苯二酚（tert-butyl hydroquinone,TBHQ）等，价廉易得，抗氧化效果良好，但均有一定的潜在毒副作用，长期使用危害动物健康[1]。这种“应急式"的非可持续使用的特点与动物机体内氧化的持续性特征不能有效对接，很难从根本上解决机体氧化的危害问题。另一类是发掘新型的、无毒副作用、可持续使用的天然植物抗氧化剂，该类型
+
+的研究越来越多[2-3]。
+
+本试验选用的葡萄原花青素（grape procyanidins,GPC）是一种植物多酚，存在于葡萄皮、籽中，是由儿茶素、表儿茶素和表儿茶素没食子酸等聚合成不同聚合度的物质[4]。体外研究表明，GPC具有较强的抗超氧阴离子和清除自由基的功效[5]，其清除自由基的能力优于VC、VE和β-胡萝卜素[]。饲喂或食用GPC，可显著提高大鼠血浆总抗氧化能力（T-AOC）[7]，显著降低小鼠血清中丙二醛（MDA）含量和提高总超氧化物歧化酶（T-SOD）活性[8]，显著提高人血液T-SOD和谷胱甘肽过氧化物酶（GSH-Px）活性并降低血液MDA含量[9]。GPC还可用做肉鸡的抗氧化剂[10]和免疫调节剂[11]；还能显著降低鸡蛋蛋黄胆固醇含量[12]。
+
+现代蛋鸡是一种高产、机体代谢十分旺盛、利用周期相对较短的动物。在经过高负荷、高强度代谢的产蛋高峰期以后，蛋鸡体内代谢和生理功能逐渐退化，特别是机体自身抗氧化功能的弱化，会导致其抗病力降低，一方面产生诸多损害健康的代谢疾病，另一方面诱发和感染危害严重的疫病。生产实践证明，降低这种风险的实际操作措施是从保障蛋鸡抗氧化功能的源头入手，通过延缓蛋鸡生产性能下降等指标来实现。因为蛋鸡不健康的最敏感指标是产蛋性能的变化。GPC的已有研究主要集中在动物体外、小鼠和不同于产蛋后期蛋鸡生理功能的肉鸡上，在蛋鸡上的研究较少。因此，本试验用人工合成抗氧化剂TBHQ作为参照，研究饲粮添加50和 $1 0 0 ~ \mathrm { { m g / k g } }$ GPC对产蛋后期蛋鸡生产性能、蛋品质和抗氧化能力的影响，以期为产蛋后期蛋鸡健康和鸡蛋品质改善的蛋鸡用天然抗氧化饲料添加剂提供依据。
+
+1材料与方法
+
+# 1.1试验材料
+
+GPC由天津市尖峰天然产物研究开发有限公司提供，原花青素含量 $9 9 . 4 7 \%$ ，其中寡聚原花青素 $6 5 . 1 9 \%$ ，原花青素单体 $9 . 8 8 \%$ ，多聚原花青素 $2 4 . 9 3 \%$ ；TBHQ由盐城捷阳精细化工提供，纯度为 $9 9 \%$ 。
+
+# 1.2 试验设计及饲粮
+
+选取产蛋率、体重相近，健康状态良好的64周龄罗曼蛋鸡288只，随机分为4组，每组6 个重复，每个重复12只鸡。对照（CON）组饲喂基础饲粮；GPC50组和GPC100组：分别在 基础饲粮中添加50和 $1 0 0 \mathrm { m g / k g }$ 的GPC；TBHQ组：基础饲粮 $+ 2 0 0 \mathrm { m g / k g }$ TBHQ。预试期7d, 正试期 $5 6 \mathrm { d }$ 9
+
+参照NRC（2004）和我国《鸡饲养标准》（NY/T33-2004），结合罗曼蛋鸡饲养手册配制玉米-豆粕型粉状基础饲粮，饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>63.00</td></tr><tr><td>豆粕Soybean meal</td><td>25.28</td></tr></table></body></html>
+
+<html><body><table><tr><td>大豆油 Soybean oil 0.50</td></tr><tr><td>石粉Limestone 9.45</td></tr><tr><td>磷酸氢钙CaHPO4 1.00</td></tr><tr><td>食盐NaCl 0.30</td></tr><tr><td>蛋氨酸Met 0.10</td></tr><tr><td>植酸酶Phytase 0.05</td></tr><tr><td>预混料Premixl) 0.32</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能ME/(MJ/kg) 11.18</td></tr><tr><td>粗蛋白质CP 16.00</td></tr><tr><td>钙Ca 3.61</td></tr><tr><td>总磷TP 0.49</td></tr><tr><td>有效磷AP 0.28</td></tr><tr><td>赖氨酸Lys 0.82</td></tr><tr><td>蛋氨酸Met 0.35</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供Premix provided the following per kgof the diet:VA12500IU,VD34125IU,VE15IU,VK2 mg，硫胺素 thiamine $\mathrm { 1 m g }$ ，核黄素riboflavin $8 . 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $5 0 \mathrm { m g }$ ，烟酸niacin $3 2 . 5 \mathrm { m g }$ ，吡哆醇pyridoxine $8 ~ \mathrm { m g }$ ，生物素biotin $2 ~ \mathrm { m g }$ ，叶酸 folic acid $5 ~ \mathrm { m g }$ ，VB $1 2 5 ~ \mathrm { m g }$ ，胆碱choline $5 0 0 ~ \mathrm { m g }$ ， $\mathrm { M n } 6 5 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ 1 ~ m g ~ }$ ，Fe $6 0 ~ \mathrm { m g }$ ， $\mathrm { { C u } 8 \mathrm { { m g } } }$ ， $Z n 6 6 \mathrm { m g }$ ， $\mathrm { S e } 0 . 3 \mathrm { m g }$ 。
+
+2代谢能为计算值，其余为实测值。ME was acalculated value,while the others were measured values.
+
+# 1.3饲养管理
+
+有窗鸡舍3层阶梯式笼养，每窝位3只鸡，每层鸡笼各组鸡数量相等，自然光照加人工光照使光照时间达到 $1 6 ~ \mathrm { h / d }$ ，试验期鸡舍温度平均 $2 0 . 5 ~ ^ { \circ } \mathrm { C }$ ，相对湿度 $45 \% \sim 6 5 \%$ ，采用负压通风的纵向通风。每天喂料3次（08:00、11:30和16:00），捡蛋、清粪各1次，每7天消毒1次，自由采食和饮水，其他为常规饲养管理。
+
+# 1.4指标测定及方法
+
+# 1.4.1生产性能
+
+观察每组鸡的健康状况。试验期以重复为单位，记录每天饲喂量、产蛋数和蛋重，每7天结算统计饲料消耗量。分别在试期第28天、第56天末计算每重复产蛋率（LR）、平均蛋重（AEW）、平均日采食量（ADFI）和料蛋比（F/E）。
+
+# 1.4.2 蛋品质
+
+试验期的第28天、第42天和第56天每个重复随机选取5枚鸡蛋，采用日本富士坪公司生产的蛋形指数测定仪测定蛋形指数，采用SONOVA蛋品质自动分析仪（EggAnalyzerTM,OrkaTechnologyLtd.）测定鸡蛋蛋白高度、哈夫单位和蛋黄颜色；蛋壳强度分析仪（EggForceReader,Orka TechnologyLtd.）测定蛋壳强度；蛋壳厚度测定仪（EggShell ThicknessGauge,OrkaTechnologyLtd.）测定蛋壳厚度。
+
+# 1.4.3 蛋鸡抗氧化能力
+
+# 1.4.3.1 样品采集与制备
+
+试验结束时，以重复为单位称重，随机选取与重复内标准体重差异不显著的3只鸡，翅静脉采血，肝素钠抗凝， $3 6 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，制备血浆， $- 2 0 \ \mathrm { ^ circ C }$ 保存，待测血浆抗氧化指标。
+
+屠宰采血后每只鸡摘取左侧肝脏，锡箔纸包裹，液氮速冻， $- 8 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 保存；组织匀浆的制备：取一 $8 0 ~ \mathrm { ^ { \circ } C }$ 保存的肝脏样品 $5 \mathrm { g }$ ，加9倍的生理盐水，匀浆，制备 $10 \%$ 的组织匀浆，3000$\mathrm { { r } / \mathrm { { m i n } } }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液，分装待测肝脏的抗氧化指标（整个匀浆操作在刨冰中进行）。
+
+试验第56天每重复随机取3枚鸡蛋，测蛋黄抗氧化及胆固醇指标。
+
+# 1.4.3.2 指标测定
+
+血浆、肝脏和蛋黄MDA含量、T-SOD活性，血浆、肝脏T-AOC，血浆GSH-Px活性及蛋黄胆固醇含量均用试剂盒测定，试剂盒购自南京建成生物工程研究所。
+
+# 1.5数据统计与分析
+
+试验数据以“平均值 $\pm$ 标准差"表示。所有数据用Excel2003处理后，采用SPSS16.0的one-wayANOVA程序进行方差分析，当 $P { < } 0 . 0 5$ 时，用Duncan氏法进行多重比较，做显著性判断。
+
+# 2结果与分析
+
+2.1饲粮添加GPC抑制产蛋后期蛋鸡生产性能下降的效果
+
+由表2可知，GPC组与对照组和TBHQ组相比，蛋鸡平均蛋重、平均日采食量和料蛋比均无显著差异（ $P { > } 0 . 0 5$ ）。试验 $1 { \sim } 4$ 周GPC50组产蛋率有高于其他3组的趋势（ $P { > } 0 . 0 5 \$ ），试验 $5 { \sim } 8$ 周GPC50组产蛋率显著高于对照组和TBHQ组（ $P { < } 0 . 0 5$ ），其他组间差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。试验期1\~8周GPC50组产蛋率显著高于对照组（ $P { < } 0 . 0 5 )$ ），其他3组差异不显著（ $P { > } 0 . 0 5$ ）。试验开始时到 $1 { \sim } 4$ 周和 $5 { \sim } 8$ 周，各组产蛋率均在降低；试验开始和 $5 { \sim } 8$ 周相比，产蛋率对照组降低了 $5 . 2 \%$ ，TBHQ组降低了 $3 . 3 \%$ ，GPC50组降低了 $0 . 2 \%$ ，GPC100组降低了$2 . 1 \%$ 。因此，GPC能够抑制后期蛋鸡产蛋率降低，表现为随着试验期的延长而效果更为明显。
+
+表2GPC对产蛋后期蛋鸡生产性能的影响  
+Table 2 Effects ofGPC on production performance of old laying hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">时间 Time/weeks</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>TBHQ</td><td>GPC50</td><td>GPC100</td></tr><tr><td rowspan="3">产蛋率 LR/%</td><td>0</td><td>77.81±2.08</td><td>77.64±1.52</td><td>78.37±2.10</td><td>77.58±1.31</td><td>0.864</td></tr><tr><td>1~4</td><td>75.19±1.70</td><td>76.99±2.06</td><td>78.61±2.10</td><td>76.42±2.30</td><td>0.061</td></tr><tr><td>5~8</td><td>73.74±1.97b</td><td>75.06±2.00b</td><td>78.21±2.09a</td><td>75.96±2.28ab</td><td>0.011</td></tr><tr><td></td><td>1~8</td><td>74.46±1.72b</td><td>76.03±2.03ab</td><td>78.42±2.10a</td><td>76.19±2.29ab</td><td>0.026</td></tr><tr><td>平均蛋重</td><td>1~4</td><td>67.30±1.94</td><td>68.22±1.94</td><td>67.72±1.91</td><td>67.83±1.23</td><td>0.847</td></tr><tr><td>AEW/g</td><td>5~8</td><td>67.75±1.78</td><td>68.61±2.02</td><td>68.23±1.84</td><td>68.04±1.17</td><td>0.856</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>1~8</td><td>67.49±1.83</td><td>68.38±1.91</td><td>67.94±1.84</td><td>67.91±1.17</td><td>0.848</td></tr><tr><td></td><td>1~4</td><td>135.87±6.06</td><td>137.19±2.91</td><td>135.49±5.34</td><td>132.85±5.33</td><td>0.521</td></tr><tr><td>平均日采食量 ADFI/g</td><td>5~8</td><td>136.50±1.15</td><td>139.28±11.66</td><td>139.76±5.93</td><td>135.74±6.69</td><td>0.726</td></tr><tr><td></td><td>1~8</td><td>136.13±3.33</td><td>138.08±3.95</td><td>137.30±5.12</td><td>134.09±4.79</td><td>0.434</td></tr><tr><td></td><td>1~4</td><td>2.70±0.27</td><td>2.64±0.31</td><td>2.57±0.27</td><td>2.59±0.33</td><td>0.870</td></tr><tr><td>料蛋比</td><td>5~8</td><td>2.75±0.30</td><td>2.77±0.51</td><td>2.66±0.33</td><td>2.66±0.37</td><td>0.938</td></tr><tr><td>F/E</td><td>1~8</td><td>2.72±0.27</td><td>2.69±0.36</td><td>2.61±0.27</td><td>2.62±0.34</td><td>0.901</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .Thesameasbelow.
+
+2.2饲粮添加GPC对产蛋后期鸡蛋品质的影响
+
+由表3可知，与对照组和TBHQ组相比，试验期GPC组对鸡蛋的蛋白高度、蛋黄颜色、蛋形指数和蛋壳强度无显著影响（ $P { > } 0 . 0 5$ ），而试验第8周GPC组显著增加了鸡蛋的蛋壳厚度和哈夫单位（ $. P { < } 0 . 0 5 ^ { \cdot }$ ）。以时间为纵轴，后期鸡蛋哈夫单位在逐渐降低，添加TBHQ和GPC均能缓解其降低；第8周和第4周相比，对照组降低了 $4 . 0 \%$ ，TBHQ组降低了 $2 . 8 \%$ ，GPC50组降低了 $1 . 1 \%$ ，GPC100组降低了 $1 . 9 \%$ 。因此，GPC能够抑制产蛋后期鸡蛋哈夫单位降低，$5 0 \mathrm { m g / k g }$ 的添加效果优于 $1 0 0 \mathrm { m g / k g }$ ， $1 0 0 \mathrm { m g / k g }$ 优于 $2 0 0 \mathrm { m g / k g }$ 的TBHQ。
+
+表3GPC对产蛋后期鸡蛋品质的影响  
+Table 3 Effects of GPC on egg quality of old laying hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">时间</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>Time/weeks CON</td><td>TBHQ</td><td>GPC50</td><td>GPC100</td></tr><tr><td rowspan="3">蛋白高度AH/mm</td><td>4</td><td>5.38±0.66</td><td>5.51±0.54</td><td>5.48±0.45</td><td>5.48±0.68</td><td>0.981</td></tr><tr><td>6</td><td>5.33±0.53</td><td>5.43±0.20</td><td>5.45±0.45</td><td>5.44±0.45</td><td>0.952</td></tr><tr><td>8</td><td>5.31±0.15</td><td>5.44±0.33</td><td>5.44±0.34</td><td>5.41±0.55</td><td>0.914</td></tr><tr><td rowspan="3">蛋黄颜色YC</td><td>4</td><td>8.00±0.79</td><td>8.00±0.79</td><td>8.14±0.48</td><td>8.17±0.51</td><td>0.953</td></tr><tr><td>6</td><td>7.44±1.19</td><td>8.22±0.83</td><td>7.94±0.77</td><td>8.22±0.46</td><td>0.368</td></tr><tr><td>8</td><td>7.78±0.54</td><td>8.00±0.37</td><td>7.47±0.70</td><td>7.94±0.49</td><td>0.350</td></tr><tr><td rowspan="3">哈夫单位 HU</td><td>4</td><td>69.55±4.31</td><td>69.78±4.60</td><td>69.93±3.20</td><td>69.86±5.29</td><td>0.999</td></tr><tr><td>6</td><td>68.53±2.84</td><td>68.95±3.17</td><td>69.52±3.57</td><td>68.82±4.08</td><td>0.974</td></tr><tr><td>8</td><td>66.77±1.32b</td><td>67.86±0.76ab</td><td>69.16±1.35a</td><td>68.56±1.50a</td><td>0.023</td></tr><tr><td rowspan="3">蛋壳厚度ET/mm</td><td>4</td><td>0.40±0.01</td><td>0.39±0.01</td><td>0.39±0.02</td><td>0.40±0.02</td><td>0.721</td></tr><tr><td>6</td><td>0.38±0.02</td><td>0.37±0.02</td><td>0.39±0.02</td><td>0.39±0.02</td><td>0.329</td></tr><tr><td>8</td><td>0.41±0.01b</td><td>0.39±0.02b</td><td>0.42±0.01a</td><td>0.42±0.01a</td><td>0.011</td></tr><tr><td rowspan="3">蛋形指数ESI</td><td>4</td><td>1.31±0.02</td><td>1.34±0.02</td><td>1.31±0.05</td><td>1.31±0.02</td><td>0.351</td></tr><tr><td>6</td><td>1.31±0.03</td><td>1.32±0.03</td><td>1.32±0.02</td><td>1.32±0.02</td><td>0.981</td></tr><tr><td>8</td><td>1.36±0.03</td><td>1.35±0.05</td><td>1.34±0.04</td><td>1.34±0.02</td><td>0.781</td></tr><tr><td rowspan="3">蛋壳强度ES/(N/m²)</td><td>4</td><td>43.54±3.44</td><td>46.02±3.58</td><td>47.18±3.9</td><td>44.60±3.73</td><td>0.358</td></tr><tr><td>6</td><td>44.80±7.14</td><td>43.27±4.11</td><td>46.68±4.07</td><td>43.87±2.54</td><td>0.631</td></tr><tr><td>8</td><td>44.97±5.32</td><td>41.19±4.52</td><td>46.24±1.78</td><td>45.39±3.06</td><td>0.154</td></tr></table></body></html>
+
+2.3饲粮添加GPC对蛋鸡血浆抗氧化能力的影响
+
+由表4可知，GPC50组蛋鸡血浆MDA含量显著低于对照组、TBHQ组和GPC100组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），而其他3组之间差异不显著（ $P { > } 0 . 0 5 \$ ）；GPC50组蛋鸡血浆T-AOC水平显著高于对照组（ $P { < } 0 . 0 5 \$ ），而与TBHQ组和GPC100组差异不显著（ $( P { > } 0 . 0 5 )$ ）；TBHQ组和GPC50组蛋鸡血浆T-SOD活性均显著高于对照组和GPC100组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { }$ ），且GPC50组提高幅度大于TBHQ组（ $P { < } 0 . 0 5$ ）；蛋鸡血浆GSH-Px活性4组之间差异不显著（ $\scriptstyle \cdot > 0 . 0 5$ ）。
+
+Table 4 Effects of GPC on plasma antioxidant activity of old laying hens   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>TBHQ</td><td>GPC50</td><td>GPC100</td></tr><tr><td>丙二醛</td><td>8.32±2.14a</td><td>8.04±1.49a</td><td>4.33±1.50b</td><td>7.06±1.46a</td><td>0.010</td></tr><tr><td>MDA/(nmol/mL) 总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC/(U/mL)</td><td>6.84±0.46b</td><td>7.31±0.38ab</td><td>7.65±0.47a</td><td>7.30±0.46ab</td><td>0.041</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mL)</td><td>221.71±8.58c</td><td>286.94±18.26b</td><td>329.77±37.97a</td><td>224.37±24.68c</td><td><0.010</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>1 739.99±212.45</td><td>2 029.48±379.70</td><td>1957.60±242.99</td><td>1 906.52±270.09</td><td>0.360</td></tr></table></body></html>
+
+2.4饲粮添加GPC对产蛋后期蛋鸡肝脏抗氧化能力的影响
+
+由表5可知，TBHQ组和GPC50组蛋鸡肝脏MDA含量显著低于对照组和GPC100组（ $. P { < } 0 . 0 5 \$ ），而TBHQ组和GPC50组之间差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ）；GPC组蛋鸡肝脏T-AOC水平显著高于对照组和TBHQ组（ $P { < } 0 . 0 5 \$ ）；GPC50组蛋鸡肝脏T-SOD活性显著高于对照组和GPC100组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），但与TBHQ组差异不显著（ $P { > } 0 . 0 5$
+
+表4GPC对蛋鸡血浆抗氧化能力的影响  
+表5GPC对蛋鸡肝脏抗氧化能力的影响  
+Table5Effects of GPC on liver antioxidant activity of old laying hens   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>TBHQ</td><td>GPC50</td><td>GPC100</td></tr><tr><td>丙二醛 MDA/(nmol/mg prot)</td><td>0.81±0.07a</td><td>0.72±0.08b</td><td>0.71±0.07b</td><td>0.84±0.06a</td><td><0.010</td></tr><tr><td>总抗氧化能力T-AOC/(U/mg prot)</td><td>1.52±0.05b</td><td>1.48±0.05b</td><td>1.63±0.08a</td><td>1.69±0.06a</td><td>0.037</td></tr><tr><td>总超氧化物歧化酶</td><td>20.33±0.81bc</td><td>21.42±0.70ab</td><td>22.22±0.62a</td><td>20.13±0.71c</td><td><0.010</td></tr><tr><td>T-SOD/(U/mg prot)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.5饲粮添加GPC对鸡蛋蛋黄抗氧化能力和胆固醇含量的影响
+
+由表6可知，GPC组鸡蛋蛋黄T-SOD活性与对照组相比显著提高（ $P { < } 0 . 0 5 )$ ），TBHQ组和对照组之间差异不显著（ $P { > } 0 . 0 5$ ）。；3个试验组鸡蛋蛋黄MDA含量与对照组相比显著降低（ $P { < } 0 . 0 5$ ），且3个试验组之间差异不显著（ $P { > } 0 . 0 5 )$ ）；GPC组鸡蛋蛋黄胆固醇含量显著低于对照组（ $P { < } 0 . 0 5 \mathrm { : }$ ），TBHQ组和对照组之间差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。
+
+表6GPC对鸡蛋蛋黄抗氧化能力和胆固醇含量的影响
+
+Table 6 Effects of GPC on egg yolk antioxidant activity and cholesterol content of old laying hens
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td>P值</td></tr><tr><td>CON</td><td>TBHQ</td><td>GPC50</td><td>GPC100</td><td>P-value</td></tr><tr><td>总超氧化物歧化物歧化酶 T-SOD/(U/mL)</td><td>65.66±2.32c</td><td>70.65±4.22bc</td><td>79.90±5.64a</td><td>74.65±5.69ab</td><td><0.010</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>184.77±20.46a</td><td>152.10±19.6b</td><td>154.97±19.01b</td><td>144.37±20.67b</td><td>0.016</td></tr><tr><td>蛋黄胆固醇Yolk cholesterol/(mg/g)</td><td>12.05±1.24a</td><td>11.42±0.95ab</td><td>9.64±1.91b</td><td>9.74±1.16b</td><td>0.038</td></tr></table></body></html>
+
+3讨论
+
+衰老是动物各器官功能开始逐步降低的一种生理现象。但机体氧化可加快衰老，抗氧化则可延缓衰老。蛋鸡作为高产的动物种类，其旺盛的代谢会产生大量活性氧自由基。正常情况下，机体内自由基的产生和清除处于相对平衡状态，随着鸡日龄的增大，体内抗氧化酶类的活性下降，吸收或合成有抗氧化活性的维生素及微量元素等的功能也下降，故而清除自由基能力亦下降。大量自由基在机体内积累，可引起脂质过氧化，损伤细胞膜而影响细胞功能，进而导致机体代谢紊乱，影响健康和生产[13]。本研究中对照组蛋鸡血浆、肝脏及蛋黄中MDA含量显著高于GPC添加组，这与Kara等[14]报道的饲粮添加 $14 \%$ 和 $6 \%$ 葡萄渣显著降低了80周龄蛋鸡血浆MDA含量结果一致，说明产蛋后期蛋鸡体内氧化与抗氧化失衡，体内多余的自由基引起了脂质过氧化，研究其抗氧化具有重要现实意义。
+
+GPC因其结构中含有多个活性酚羟基，能够提供氢质子中和自由基，还可以通过Nrf2信号通路调控抗氧化反应原件，提高机体抗氧化酶表达，减少自由基的再生，从而起到抗氧化作用[4]。赵娇等[15]研究指出，饲粮添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 的GPC能够显著提高应激仔猪血清和肝脏T-AOC，提高血清超氧化物歧化酶（SOD）活性和抗羟基自由基（·OH）能力，改善血清GSH-Px活性；彭亮等[16]研究认为葡萄籽粉能显著提高老龄大鼠体内的SOD和GSH-Px活性，降低体内MDA含量。本研究表明饲粮添加 $5 0 \ \mathrm { m g / k g }$ 的GPC显著提高了产蛋后期蛋鸡血浆、肝脏及蛋黄T-SOD活性，改善了血浆GSH-Px活性。这也与本实验室前期研究结果[17]（低剂量的GPC能够修复因球虫感染导致肉仔鸡T-SOD和GSH-Px活性降低和MDA含量升高）一致。
+
+TBHQ是抗氧化效果较好的新合成的抗氧化剂，应用于食用油时抗氧化效果比BHA、BHT等较优。周鑫等[18]研究指出，饲粮添加 $1 \%$ TBHQ能够显著提高热应激小鼠肝脏抗氧化水平。本研究亦表明添加 $2 0 0 \mathrm { m g / k g }$ 的TBHQ显著提高了产蛋后期蛋鸡血浆T-SOD活性，显著降低了肝脏和蛋黄MDA含量，有提高血浆GSH-Px活性及肝脏和蛋黄T-SOD活性的趋势，但整体抗氧化效果没有饲粮添加 $5 0 \mathrm { m g / k g }$ 的GPC效果好。这一方面可能是因为GPC所含多个活性酚羟基对蛋鸡抗氧化效果优于TBHQ所致，另一方面也可能植物源性的GPC更易于动物的吸收利用，具体原因还需进一步研究。
+
+GPC不仅具有良好的抗氧化效果，还有研究指出，GPC能够抑制鸡蛋胆固醇合成酶的活性、增加蛋鸡体内胆固醇的分解，进而降低鸡蛋胆固醇含量[19]。本研究表明，饲粮添加GPC
+
+能够显著降低鸡蛋蛋黄胆固醇含量。
+
+蛋品质的好坏不仅影响蛋的种用价值，而且影响蛋的食用价值和商品价值。蛋白高度和哈夫单位是衡量鸡蛋蛋白质量和新鲜度的重要指标，哈夫单位越高，表示蛋白黏稠度越好，蛋白品质越好。蛋鸡日龄、环境应激等均能影响鸡蛋的哈夫单位[20]，且随着蛋鸡日龄的增加，所产鸡蛋的哈夫单位降低[21]。有研究表明，蛋白质变性或功能丧失是由于自由基对蛋白质造成了损伤[22]，产蛋后期蛋鸡，由于其长时间的氧化代谢而导致体内自由基积累，亦可能损害鸡蛋蛋白的形成，进而降低蛋白哈夫单位。在环境条件和鸡龄相同的情况下，补充具有针对性的外源性物质是改善鸡蛋哈夫单位的主要途径。本试验中对照组的鸡蛋哈夫单位随鸡龄的增加而逐渐降低，但TBHQ组有一定改善，GPC组改善效果更佳，其中GPC50组最好，且在试验第8周时显著高于对照组。Kaya等[23]研究表明，葡萄籽和葡萄籽提取物对鸡蛋破损率和饲料转化率无显著影响，但线性增加鸡蛋哈夫单位。蛋壳厚度的大小是衡量鸡蛋易破碎程度的关键指标，蛋壳愈薄，越容易破碎，产蛋后期蛋鸡钙、磷吸收能力降低，蛋壳质量变差，本试验中添加GPC可显著增加蛋壳厚度。
+
+产蛋是禽类在神经内分泌系统共同调控下的复杂生理过程，GPC含有植物类黄酮物质，与蛋鸡体内雌激素受体互作可改变体内雌激素组成，进而改善产蛋后期蛋鸡的生理状态，提高产蛋率[24]。本研究表明，饲粮添加 $5 0 \mathrm { m g / k g }$ 的GPC能显著抑制64周龄后期产蛋鸡产蛋率降低，这与胡如久等[12]的结果相似，饲粮低量添加GPC极显著提高了产蛋率；但Kara等[14]报道，饲粮添加葡萄渣对蛋鸡平均日采食量、产蛋率和饲料转化率没有显著影响。这可能与GPC的饲喂形式、添加量及蛋鸡日龄、饲养管理和其所处环境有关。
+
+有报道称机体高含量的高聚合度GPC会影响养分的消化利用[25]，试验中所用GPC为多聚合体混合物，因此整个试验过程中添加 $5 0 \mathrm { m g / k g }$ 的GPC对蛋鸡抗氧化能力、蛋品质和生产性能的影响比添加 $1 0 0 \mathrm { m g / k g }$ 的效果好。
+
+# 4结论
+
+对产蛋后期蛋鸡而言，饲粮添加 $5 0 \mathrm { \ m g / k g }$ GPC 的抗氧化效果优于添加 $2 0 0 \ \mathrm { m g / k g }$ TBHQ，可减缓产蛋后期蛋鸡产蛋率的下降，改善鸡蛋哈夫单位和蛋壳厚度，降低蛋黄胆固醇含量。
+
+参考文献：  
+
+<html><body><table><tr><td>[1]</td><td> JAYAPRAKASHA G K,SINGH R P,SAKARIAH K K.Antioxidant activity of grape seed</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(Vitisvinifera)extracts</td><td></td><td>on</td><td>peroxidation</td><td>models</td><td>invitro[J].Food</td></tr><tr><td></td><td>Chemistry,2001,73(3):285-290.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>[2]</td><td>宋振帅,庄雪芹.天然植物抗氧化剂应用研究进展[C]//山东畜牧兽医学会禽病学专业委</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>员会第三届禽病学术研讨会论文集.潍坊:山东畜牧兽医学会,2013.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>[3]王若瑾,袁保京,金立志.天然植物提取物添加剂生物学功能与综合性功能研究综述[J].中</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>国畜牧杂志,2015,51(8):72-78.</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">Chemists Association,1995,89(4):98-104.</td></tr><tr><td></td><td>[5]MERFORT I,HEILMANN J,WEISS M,et al.Radical scavenger activity of three flavonoid metabolitesstudied by inhibition of chemiluminescence in human PMNs[J].Planta</td></tr><tr><td></td><td>Medica,1996,62(4):289-292. [6]BAGCHI D,GARG A,KROHN R L,et al.Oxygen free radical scavenging abilities of vitamins C and E,and a grape seed proanthocyanidin extract in vitro[J].Research Communications in Molecular Pathology and Pharmacology,1997,95(2):179-189.</td></tr><tr><td></td><td>[7]BUSSEROLLES J,GUEUX E,BALASINSKA B,et al.In vivo antioxidant activity of procyanidin-rich extracts from grape seed and pine (Pinus maritima) bark in rats[J].International Journal for Vitamin and Nutrition Research,2OO6,76(1):22-27.</td></tr><tr><td></td><td>[8]尹进,胡怡秀,胡余明,等.葡萄籽原花青素提取物对小鼠 MDA、SOD 和GSH-Px 的影响[J]. 中国热带医学,2009,7(8):1285-1286.</td></tr><tr><td></td><td>[9]丰佃娟,徐贵发.葡萄籽提取物对人体抗氧化能力的影响[J].山东大学学报:医学 版,2007,45(10):985-987.</td></tr><tr><td></td><td>[10]BRENES A,VIVEROS A,GONI I,et al.Effect of grape pomace concentrate and vitamin E ondigestibilityofpolyphenolsandantioxidantactivityinchickens[J].Poultry</td></tr><tr><td></td><td>Science,2008,87(2):307-316. [11]杨金玉,王晶,武书庚,等.葡萄原花青素与小麦型饲粮对肉仔鸡生长性能及免疫机能的</td></tr><tr><td></td><td>组合效应[J].动物营养学报,2014,26(8):2270-2280. [12]胡如久,王影,王潇,等.葡萄籽提取物对蛋鸡生产性能和蛋黄胆固醇含量的影响[J].动物</td></tr><tr><td></td><td>营养学报,2013,25(9):2074-2081. [13]HARMAN D.Aging:a theory based on free radical and radiation chemistry[J].Journal of</td></tr><tr><td></td><td>Gerontology,1956,11(3):298-300. [14]KARA K,GUCLU B K,BAYTOK E,et al.Effects of grape pomace supplementation to</td></tr><tr><td></td><td>laying hen diet on performance,egg quality,egg lipid peroxidation and some biochemical</td></tr><tr><td></td><td>parameters[J].Journal of Applied Animal Research,2016,44(1):303-310. [15]赵娇,周招洪,梁小芳,等.葡萄籽原花青素及维生素E对氧化应激仔猪生长性能、血清氧</td></tr><tr><td></td><td>化还原状态和肝脏氧化损伤的影响[J].中国农业科学,2013,46(19):4157-4164.</td></tr><tr><td></td><td>[16]彭亮,傅伟忠,姚思宇,等.葡萄籽粉对自然衰老大鼠的抗氧化作用研究[J].中国卫生检验</td></tr><tr><td></td><td>杂志,2012,22(10):2376-2378.</td></tr><tr><td></td><td>[17]杨金玉.葡萄原花青素对球虫感染肉仔鸡的调控作用及机理[D].硕士学位论文.北京:中</td></tr><tr><td></td><td>国农业科学院,2015.</td></tr><tr><td></td><td>[18]周鑫,黄毅,李延森,等.叔丁基对苯二酚对热应激小鼠肝脏氧化损伤的缓解作用[J].动物</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>营养学报,2014,26(9):2779-2788.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>atherosclerotic risk index and induce liver CYP7A1 and SHP expression in healthy</td></tr><tr><td>rats[J].The FASEB Journal,2005,19(3):479-481. [20]HENRIQUE M R,ANTONIO G R,DELLA TORRE DA S J,et al.Effect of supplementation of diets for quails with vitamins A,D and E on performance of the birds and quality and</td></tr><tr><td>enrichment of eggs[J].Revista Brasileira de Zootecnia,2011,40(6):1222-1232. [21]SILVERSIDES F G,SCOTT T A.Effect of storage and layer age on quality of eggs from two lines of hens[J].Poultry Science,2001,80(8):1240-1245.</td></tr><tr><td>[22]邵洪,汪仕良,尤忠义,等.氧自由基与蛋白质代谢[J].国外医学分子生物学分 册,1990,12(1):42-44.</td></tr><tr><td>[23]KAYA A,YILDIRIM B A,KAYA H,et al.The effects of diets supplemented with crushed and</td></tr><tr><td>extracted grape seed on performance,egg quality parameters,yolk peroxidation and serum traits in laying hens[J].European Poultry Science,2014,78:1612-9199. [24]ROSS J A,KASUM C M.Dietary flavonoids:bioavailability,metabolic effects,and safety[J].Annual Review of Nutrition,2002,22:19-34.</td></tr><tr><td></td></tr><tr><td>[25]GONTHIER M P,DONOVAN J L,TEXIER O,et al.Metabolism of dietary procyanidins in rats[J].Free Radical Biology and Medicine,2003,35(8):837-844. Grape Procyanidins: Effects on Performance and Antioxidant Activity of Old Laying Hens</td></tr></table></body></html>
+
+cholesterol contents in egg yolk $( P { < } 0 . 0 5 )$ ，and TBHQ only significantly decreased the MDA content in egg yolk $( P { < } 0 . 0 5 )$ . It is concluded that dietary GPC can restrain the decrease of laying rate and Haugh unit, increase eggshell thickness and antioxidant activity of old laying hens. The addition of $5 0 ~ \mathrm { m g / k g }$ GPC may help to gain superior effects over $2 0 0 ~ \mathrm { m g / k g }$ TBHQ addition in diet for old laying hens.
+
+Key words: grape procyanidins; old laying hens; performance; egg quality; antioxidant activity.

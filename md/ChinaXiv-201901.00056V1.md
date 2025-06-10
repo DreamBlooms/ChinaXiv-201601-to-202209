@@ -1,0 +1,283 @@
+# 具有学习机制的正弦余弦算法
+
+方旭阳，武相军，游大涛(河南大学 软件学院，河南 开封 475004)
+
+摘要：针对标准正弦余弦算法在求解函数优化问题时易陷入局部最优、收敛精度较差等问题，提出了一种具有学习机制的正弦余弦算法。该算法引入精英反向学习策略构造精英及反向群体，对其混合群体进行择优保留，从而优化了种群中的个体位置、提高了算法的寻优精度；同时，利用个体的反思学习能力来防止个体盲目地向当前最优解学习，使算法停滞在局部最优，从而有效地避免了算法的未成熟收敛。通过13个标准测试函数进行仿真实验，实验结果证明，该算法相比于对比算法具有较强的鲁棒性和函数优化能力。
+
+关键词：正弦余弦算法；精英反向学习；群体智能；反思学习 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.08.0620
+
+# Sine cosine algorithm with learning mechanism
+
+Fang Xuyang,Wu Xiangjun+, You Datao (Collegeofsoftware,Henan University,KaifengHenan 4750O4,China)
+
+Abstract:Inordertosolve functionoptimizationproblems that standard sinecosinealgorithm iseasytofallinto local optimum and poor convergence accuracy，the paper proposed a sine cosine algorithm with learning mechanism.The algorithm introduced theeliteoppositelearning strategy toconstruct the eliteand theoppositepopulation,and preserve the optimal individual inthe mixedpopulation,thusoptimize theindividual position in thepopulationand improve the optimization accuracyof the algorithm.At the same time,the algorithm used individual reflective learming abilityto avoid individuals blindlylearning fromthecurrent optimal solution,and madethealgorithmstagnating in the local optimal,thus efectively avoid the immatureconvergence of the algorithm.The algorithm performed simulation experiments with 13 standard test functions.The experimental resultsshowed that thealgorithm was more robust and beter function optimization ability than comparison algorithms.
+
+Key words: sine cosine algorithm; elite opposition-based learning; swarm inteligence; reflective learning
+
+# 0 引言
+
+在科学和工程领域，优化问题一直备受关注。由于问题的复杂性，使用传统方法解决有时是不可能的。目前，许多研究人员一直致力于开发一种新的优化算法，来解决现实中复杂的优化问题。其中群体智能算法应用较为广泛，如粒子群优化（particle swarmoptimization，PSO）[1]、人工蜂群算法（artificial bee colony algorithm，ABC）[2]、引力搜索算法（gravitational search algorithm，GSA）[3]和鲸鱼优化算法（whale optimization algorithm，WOA）[4]等。
+
+正弦余弦算法（sinecosinealgorithm，SCA）[5]是Mirjalili于2016年提出的一种新型的群体智能优化算法，该算法结构简单、参数较少且易于实现，它的搜索过程主要受正弦和余弦函数的影响。然而，像其他群体智能优化算法一样，存在收敛精度低、收敛速度慢、易陷入局部最优等问题。近两年来，许多研究人员从不同的角度提出了不同的改进方法，以提高算法的优化能力。文献[6]提出了一种转换参数非线性递减的正弦余弦算法，分别以抛物线函数和指数函数控制参数$r _ { 1 }$ 的变化，实验结果表明指数函数对参数的调整，能够较好的平衡算法的全局勘探和局部开发能力。文献[7]提出了量子计算与正弦余弦算法相结合的方法，利用量子比特对位置进行编码、量子旋转门对个体状态进行更新、量子非门实现变异操作等，实验验证了算法的有效性，达到较好的效果。文献[8]引入反向学习的方法，对当前个体产生反向解，扩大了对解空间的探索。文献[9]提出了混合灰狼优化的正弦余弦算法，利用正弦余弦更新公式改进头狼的移动方向和速度，使算法得到较好的提升。文献[10]提出了结合差分进化的正弦余弦算法，使用差分进化算子帮助算法跳出局部最优解区域。
+
+鉴于此，为了提高SCA算法的收敛速度和避免早熟现象，本文在基本的SCA算法上提出了精英反向学习策略与反思学习策略相结合的改进方法。通过对标准测试函数的仿真实验，并与基本的SCA、PSO、WOA及其几种改进的SCA算法相比较，实验表明本文所改进的算法显著提高了算法的全局优化能力。
+
+# 正弦余弦算法
+
+SCA算法是最近提出的一种新颖的全局优化算法，有别于根据不同生物启发机理的群体智能优化算法。在SCA算法中，个体的更新状态主要依赖于两个数学函数 Sine 和Cosine的变化来实现优化搜索。假设第t代种群中个体 $X _ { \mathrm { i } } ^ { t }$ 由 $\mathrm { ~ D ~ }$ 个分量组成，即 $X _ { \mathrm { i } } ^ { t } = \left( \boldsymbol { x } _ { i 1 } ^ { t } , ~ \boldsymbol { x } _ { i 2 } ^ { t } , . . . , ~ \boldsymbol { x } _ { i d } ^ { t } \right)$ ， $\mathbf { i } \in \{ 1 , 2 , . . . , \mathrm { ~ N } \}$ ， $\mathbf { d } \in \{ 1 , 2 , . . . , \mathrm { ~ D } \}$ ，N 为种群规模， $\mathrm { ~ D ~ }$ 为个体维度。种群的初始化使用式（1）随机产生个体所在位置。
+
+$$
+X _ { i } ^ { d } = X _ { m i n } ^ { d } + r a n d ( 0 , 1 ) ( X _ { m a x } ^ { d } - X _ { m i n } ^ { d } )
+$$
+
+其中： $X _ { m a x } ^ { d } \Re { \mathbb { K } } _ { m i n } ^ { d }$ 表示个体在第d维度的上下界。
+
+在每次迭代中，第i个个体的位置，将按以下更新方程移动所在位置，即
+
+$$
+X _ { i } ^ { t + 1 } = \left\{ \begin{array} { l l } { X _ { i } ^ { t } + r _ { 1 } \times s i n ( r _ { 2 } ) \times \left| r _ { 3 } P _ { b e s t } - X _ { i } ^ { t } \right| } & { r _ { 4 } < 0 . 5 } \\ { X _ { i } ^ { t } + r _ { 1 } \times c o s ( r _ { 2 } ) \times \left| r _ { 3 } P _ { b e s t } - X _ { i } ^ { t } \right| } & { r _ { 4 } \geq 0 . 5 } \end{array} \right.
+$$
+
+其中： $X _ { i } ^ { t }$ 表示在第 $\mathbf { \rho } _ { \mathrm { ~ t ~ } }$ 次迭代中个体 $i$ 的位置； $P _ { b e s t }$ 表示种群的当前最优位置； $r _ { 2 } , r _ { 3 } , r _ { 4 }$ 是服从均匀分布的随机数， $r _ { 2 } \in \left[ 0 , 2 \pi \right]$ ，$r _ { 3 } \in \left[ - 2 , 2 \right]$ ， $r _ { 4 } \in [ 0 , 1 ]$ ， $r _ { \mathrm { i } }$ 是控制参数。
+
+如式（2）所示，式中有四个主要的调节参数分别是 $r _ { \mathrm { i } }$ 、$r _ { 2 }$ 、 $r _ { 3 }$ 和 $r _ { 4 }$ 。参数 $r _ { \mathrm { i } }$ 决定下一次迭代时第i个个体的位置区域，定义了下次迭代的最大可能移动的区域范围； $r _ { 2 }$ 定义了当前解应该朝目标解前进还是远离；参数 $r _ { 3 }$ 是目标解的一个随机权值，当 $\left. r _ { 3 } \right. > 1$ 增强目标解对当前解的影响，当 $\left. r _ { 3 } \right. < 1$ 目标解对当前解的影响减弱； $r _ { 4 }$ 是正弦和余弦机制切换的随机概率。 $r _ { 1 } \mathrm { s i n } \left( r _ { 2 } \right)$ 或 $r _ { 1 } \mathrm { c o s } \left( r _ { 2 } \right)$ 共同领导着算法进行局部搜索和全局搜索，当 $r _ { 1 } \mathrm { s i n } \left( r _ { 2 } \right)$ 或 $r _ { 1 } \mathrm { c o s } \left( r _ { 2 } \right)$ 的值大于1或小于-1时，进行全局勘探；在-1与1之间时，进行局部开发。为了使算法的勘探和开发能力得到平衡，寻找到解空间中可能的区域，并最终收敛到全局最优， $r _ { \mathrm { i } }$ 通过式（3）进行自适应调整，即
+
+$$
+r _ { 1 } = a - t \frac { a } { T }
+$$
+
+其中： $t$ 是当前迭代的次数； $T$ 是最大迭代次数； $\mathbf { \Delta } _ { a }$ 是一个常数。在算法中， $\boldsymbol { a }$ 一般设置为2。
+
+SCA算法通过数学函数的变化来改变初始状态的位置，种群中的个体更新依靠函数值的增加或者减少来随机地更新每次迭代中每个个体的状态，使种群在前期保持多样性，后期随着 $r _ { \mathrm { i } }$ 的减少，个体趋于局部开发，最终收敛于全局最优状态。算法的基本原理如图1所示。
+
+![](images/1d8750a6e8ffa52c4bd5ddf1fae78eb77da8f78872dd3ca6a9b126d0e9f1a2f5.jpg)  
+图1正弦余弦算法的基本原理  
+Fig. 1 Basic principle of sine-cosine algorithm
+
+# 2 改进的正弦余弦算法
+
+# 2.1精英反向学习
+
+SCA算法在迭代后期将对当前全局最优位置附近进行很小的邻域内搜索，不断尝试更新最优解。如果搜索过程远离了理论最优解，算法就很难在短时间内收敛到全局最优。因此本文引入精英反向学习策略，扩大精英种群的搜索范围，从而改善了SCA算法收敛速度慢、精度不足等问题。
+
+# 2.1.1基本概念
+
+反向学习（opposition-based learning) $[ 1 1 ^ { \sim } 1 2 ]$ 策略是近年来智能优化邻域出现的一种新技术，目前已在人工蜂群算法（ABC）、差分进化算法（DE）、粒子群算法（PSO）等群体智能优化算法中得到了成功的应用。它的主要思想是：每个个体在搜索空间中存在一个反向个体，反向个体可能更接近于最优位置。这样就能在每次搜索过程中，同时搜索当前个体和当前个体的反向解，对其进行择优保留。保留下来的优秀个体加速了种群中个体向最优位置靠近，提高了算法的求解效率。
+
+定义1反向解(opposite solution)[12]。设在区间[lb,ub]上存在一个实数 $x$ ，则 $x$ 的反向数定义为 $\scriptstyle x ^ { \prime } = \ln + \mathbf { u b } - \mathbf { X } \circ$ 鉴于此，假设在R 域上存在一个点 X 在D 为的空间上，则$\mathbf { X } = \left( x _ { 1 } , x _ { 2 } , . . . , x _ { D } \right)$ ，并且 $x _ { i } \in \left[ l b _ { i } , u b _ { i } \right]$ ，即它的反向解$\mathbf { X } ^ { ' } = \bigl ( { x } _ { 1 } ^ { ' } , { x } _ { 2 } ^ { ' } , . . . , { x } _ { D } ^ { ' } \bigr )$ ，由式 $x _ { i } ^ { * } = k ^ { * } \big ( l b _ { i } + u b _ { i } \big ) - x _ { i }$ 生成， $k$ 为[0,1]之间均匀分布随机数，称为一般化系数。
+
+定义2基于反向解的优化(opposite-basedoptimization)[12]。设存在种群P，其反向种群为 $P ^ { \prime }$ ,基于优者保留的方式从 $\smash {  { \mathbf { P } } \cup  { \mathbf { \Lambda } } P ^ { \prime } }$ 的种群中选择最优秀的 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 个个体体组成新种群，称为基于反向解的优化。
+
+定义3动态一般反向学习(dynamicgeneralizedopposition-based learning)[l2]。设存在种群 $\mathbf { \boldsymbol { X } }$ ，数量为N，维度为D，则第t次迭代过程中，种群的反向解为$X _ { i j } ^ { \prime } = k ^ { * } \big ( l b _ { j } ^ { t } + u b _ { j } ^ { t } \big ) - X _ { i j } ^ { t }$ ，其中 $l b _ { j } ^ { t } = \operatorname* { m i n } \bigl ( X _ { i j } ^ { t } \bigr )$ ， $u b _ { j } ^ { t } = \operatorname* { m a x } \left( X _ { i j } ^ { t } \right)$ 。 $X _ { i j } ^ { t }$ 为种群第i个体在第 $\mathrm { ~ j ~ }$ 维上的分量。
+
+定义4 精英反向解(elite opposition solution)[12]。设在D维空间上 $\mathbf { X } _ { b e s t } ^ { * } = \left( x _ { 1 } ^ { * } , x _ { 2 } ^ { * } , . . . , x _ { D } ^ { * } \right)$ 为当前种群的精英个体$X _ { i } ^ { b e s t } = \left( x _ { 1 } , x _ { 2 } , . . . , x _ { D } \right)$ 的反向解，该反向解定义为$x _ { i } ^ { * } = k ^ { * } \big ( l b _ { i } + u b _ { i } \big ) - x _ { i }$ ， $\mathbf { k } \in [ 0 , 1 ]$ 为服从均匀分布的随机数，利用该系数可以生成精英个体的多个反向解。
+
+通过生成的精英反向解，增加了种群向全局最优收敛的有益信息，可以加强对最优个体周围邻域的探索，提高算法的局部开发能力。
+
+# 2.1.2精英反向策略
+
+为了减少算法偏离全局最优位置的可能性，加强对优秀个体周围空间的搜索是非常有必要的，这种改进可以提高算法勘探新解的能力。本文将精英反向学习的策略融入SCA算法中，充分利用精英种群的信息，搜索精英个体及其反向解所在的空间。具体操作如下：
+
+种群中的个体由式（2）执行后，对种群进行排序，取其中 $10 \%$ 的优秀个体组成精英种群 $P _ { b e s t }$ 。
+
+计算个体 $\mathbf { X } _ { b e s t } ^ { i } \in P _ { b e s t } ^ { t }$ 的边界 $[ l b _ { j } ^ { i } , u b _ { j } ^ { i } ]$ ,并求解其动态边界$[ \operatorname* { m i n } ( l b _ { j } ^ { i } ) , \operatorname* { m a x } ( u b _ { j } ^ { i } ) ]$ 。
+
+根据定义3、4生成个体 $\mathbf { \boldsymbol { X } } _ { b e s t } ^ { i }$ 的动态精英反向种群 $P _ { b e s t } ^ { ' }$ w
+
+若反向种群 $P _ { b e s t } ^ { ' }$ 超出了 $\mathbf { X } _ { b e s t } ^ { i }$ 的动态边界 $[ \operatorname* { m i n } ( l b _ { j } ^ { i } ) , \operatorname* { m a x } ( u b _ { j } ^ { i } ) ]$ 的限制，则由式（1）在边界内随机生成新个体进行替换。
+
+将混合种群 $P _ { b e s t } \cup P _ { b e s t } ^ { ' }$ 根据适应度大小从高到低排序，选择前1/2 的个体进入下一代。
+
+循环执行 ${ \mathbf { b } } \sim { \mathbf { e } } ,$ 直到达到停止条件，算法结束。
+
+# 2.2反思学习策略
+
+在教与学优化算法 $[ 1 3 ^ { \sim } 1 5 ]$ 中，所有的学生通过教师的课堂教学学习科目知识，同时还向身边同学请教来不断提高自己的学习能力。文献[16]提出基于自主学习行为的教与学优化算法，把学习分类为自主学习阶段和反思阶段。由于学生个体无法充分发挥自身的学习能力，最终影响整体的学习效果，所以在求解复杂函数优化问题时，容易过早陷入局部最优区域。受此启发，本文对SCA算法进行以下改进，提升个体的学习能力。
+
+在SCA算法中，种群的个体只依赖于当前最优解来进行自身状态的更新。因此，算法有较大的可能陷入局部最优状态，导致了算法无法寻找到满意的解。此时，需要对个体进行局部变异操作，个体以当前的学习结果向前一次的学习情况进行反思学习，增加逃逸局部区域的概率。反思学习的公式如（4）所示，即
+
+$$
+X _ { i } ^ { * } = X _ { i } ^ { s } + \omega \otimes \left( X _ { i } ^ { s } - X _ { i } ^ { t } \right)
+$$
+
+其中： $X _ { i } ^ { t }$ 表示在第t次迭代中个体 $i$ 的位置； $X _ { i } ^ { s }$ 表示执行式（2）后的位置； $X _ { i } ^ { * }$ 表示经过反思过程产生的新位置； $\omega$ 表示学习因子， $\omega \in [ - 1 , 1 ]$ ； $\otimes$ 表示点乘。
+
+每一代个体在执行正弦或余弦操作后，开始进入自我反思阶段。根据自身前一次的学习状态反思当前的学习状态，对当前学习状态进行自我修正。通过自身学习的方式能够更好的防止个体易受当前全局最优解影响，而陷入局部最优。这里为了防止反思过程中的随机性太大，将用式（5）对学习因子 $\omega$ 进行约束，同时为了避免学习能力退化、增强算法的收敛性，使用贪婪学习的方式，个体在反思前后的学习状态根据学习成绩（适应度）进行择优选择。
+
+$$
+\omega { = } C ^ { ( { - } t / T ) } \times \cos ( r _ { 5 } )
+$$
+
+其中： $r _ { 5 }$ 是 $[ 0 , \pi ]$ 上的随机数; $c$ 是常数，经实验 $C = 1 0 0$ 时效果最好。
+
+学习因子随迭代次数变化情况如图2所示。
+
+![](images/ed0723fbc6a19404db381bb50b2fb1d3035e2bcc1ab399e174c5552a8df06bf1.jpg)  
+图2学习因子随迭代次数变化情况  
+Fig.2Learning factor changes with number of iterations
+
+由图2可以看出， $C ^ { ( - t / T ) }$ 在迭代过程中非线性递减，即个体在前期具有较强的反思活动，实现自我的超越，提高勘探能力；在后期随着自身状态的不断提高，趋于全局最优状态，反思活动不断减少，学习因子 $\omega$ 的强度逐渐变弱。
+
+在式（6）中，个体在通过反思后，若优于反思前的个体将对该个体进行替换。使用贪婪选择的方式将最优个体送入下一代，确保了每一代个体都趋向于全局最优解方向移动。
+
+$$
+X _ { i } ^ { t + 1 } = { \left\{ \begin{array} { l l } { X _ { i } ^ { s } \quad f \left( X _ { i } ^ { s } \right) \leq f \left( X _ { i } ^ { * } \right) } \\ { X _ { i } ^ { * } \qquad { O t h e r w i s e } } \end{array} \right. }
+$$
+
+其中： $f ( \cdot )$ 表示个体的适应度。
+
+反思学习策略能够较大地提高算法的全局优化能力，个体对自己当前的学习状态进行深入思考，并根据上次学习状态进行变异性调整，有效地防止了自己停滞在局部状态，提高了规避局部最优的能力。
+
+# 2.3改进的算法步骤
+
+为了便于后续的实验对比分析改进后的算法记为MSCA(modified sine cosine algorithm)。改进后的算法以伪代码来表示，算法的具体流程如表1所示。
+
+MSCA算法：
+
+1：初始化参数，利用式（1）随机产生种群数量为 $\mathbf { N }$ 的个体$X _ { i } = \left( X _ { i 1 } , X _ { i 2 } , . . . , X _ { i D } \right) ;$
+
+2：计算每个个体的适应度；
+
+3：设置最优解的位置及适应度；
+
+4:do
+
+5: for $\mathrm { i } { = } 1$ to N   
+6: 更新 $r _ { 1 } , r _ { 2 } , r _ { 3 } , r _ { 4 }$
+
+7: if $r _ { 4 } < 0 . 5$
+
+8:
+
+$$
+X _ { i } ^ { s } = X _ { i } ^ { t } + r _ { 1 } \times \sin ( r _ { 2 } ) { \times } | r _ { 3 } P _ { b e s t } - X _ { i } ^ { t } |
+$$
+
+9: else
+
+10:
+
+$$
+X _ { i } ^ { s } = X _ { i } ^ { t } + r _ { 1 } \times \cos \left( r _ { 2 } \right) \times \left| r _ { 3 } P _ { b e s t } - X _ { i } ^ { t } \right|
+$$
+
+11：正弦余弦操作后产生的个体的新位置进行反思学习：$X _ { i } ^ { * } = X _ { i } ^ { s } + \omega \otimes \left( X _ { i } ^ { s } - X _ { i } ^ { t } \right)$
+
+12: 选择反思前后适应度最好的个体作为下一代：
+
+$$
+X _ { i } ^ { t + 1 } = { \left\{ \begin{array} { l l } { X _ { i } ^ { s } \ } & { f \left( X _ { i } ^ { s } \right) \leq f \left( X _ { i } ^ { * } \right) } \\ { X _ { i } ^ { * } \qquad { \mathrm { O t h e r w i s e } } } \end{array} \right. }
+$$
+
+13: end for
+
+14: 对当前种群的前 $10 \%$ 的最优个体计算反向位置：
+
+$$
+X _ { i j } ^ { \prime } = r a n d ^ { * } \big ( l b _ { j } ^ { t } + u b _ { j } ^ { t } \big ) - X _ { i j } ^ { t }
+$$
+
+15: 选择1/2的 $P _ { b e s t } \cup P _ { b e s t } ^ { ' }$ 混合群体中的最优个体；  
+16: 计算种群适应度，更新最优解位置及适应度；  
+17: while（current iteration $\prec$ maximum iterations）  
+18: return best solution obtained as the global optimum
+
+MSCA算法主要由初始化、正弦余弦位置更新、反思学习、精英反向学习四部分组成。由上述算法的流程可得，假设算法的迭代次数为 $\mathbf { m }$ ，种群数量为 $\mathfrak { n }$ 维度为d，其中种群初始化和个体的位置更新与基本的SCA算法复杂度相同，为$O ( m n d )$ 。在反思学习过程中，对每个个体进行位置扰动，其时间复杂度为 $O ( m n d )$ ；在精英反向学习的过程中，需要对$10 \%$ 的个体进行反向计算且构造混合群体进行比较，其时间复杂度为 $O ( m n d )$ 。因此，整个算法的时间复杂度为 $O ( m n d )$ 。
+
+# 3 实验仿真
+
+# 3.1实验环境及测试函数
+
+为了验证MSCA算法对函数的优化能力，本文采用文献[9]中的13个标准测试函数进行实验对比分析。仿真实验运行环境为IntelCorei7CPU，主频 $3 . 6 0 ~ \mathrm { G H z }$ ，内存8GB,Windows764位操作系统，实验仿真软件采用MATLAB$\boldsymbol { \mathrm { R 2 0 1 7 b } }$ 。实验中采用的算法统一设置为种群规模 $\Nu = 3 0$ ，最大迭代次数 $\scriptstyle \mathrm { { T = 1 0 0 0 } }$ ，算法在每个标准测试函数上独立运行30次，统计其平均值和标准差。对比的算法和描述如表1所示。测试函数如表2、3所示。
+
+Table1Contrast algorithms and descriptions   
+
+<html><body><table><tr><td>算法</td><td>描述</td></tr><tr><td>SCA</td><td>标准正弦余弦算法</td></tr><tr><td>OBSCA[8]</td><td>基于反向学习的正弦余弦算法</td></tr><tr><td>HGWOSCA[9]</td><td>混合灰狼优化的正弦余弦算法</td></tr><tr><td>WOA</td><td>标准鲸鱼优化算法</td></tr><tr><td>PSO</td><td>标准粒子群算法</td></tr></table></body></html>
+
+其中：PSO 的参数设置为 $C _ { 1 } = 2$ ， $C _ { 2 } = 2$ ， $W _ { m a x } = 0 . 9$ ， $W _ { m i n } = 0 . 2$ 0
+
+表1对比算法及描述  
+表2单峰基准测试函数  
+Table 2Unimodal benchmark functions   
+
+<html><body><table><tr><td>Fun</td><td>函数名</td><td>搜索区间</td><td>理论最优值</td></tr><tr><td>F1</td><td>Sphere</td><td>[-100,100]</td><td>0</td></tr><tr><td>F2</td><td>Schwefel2.22</td><td>[-10,10]</td><td>0</td></tr><tr><td>F3</td><td>Schwefel1.2</td><td>[-100,100]</td><td>0</td></tr><tr><td>F4</td><td>Schwefel2.21</td><td>[-100,100]</td><td>0</td></tr><tr><td>F5</td><td>Rosenbrock</td><td>[-30,30]</td><td>0</td></tr><tr><td>F6</td><td>Step</td><td>[-100,100]</td><td>0</td></tr><tr><td>F7</td><td>Quartic Noise</td><td>[-1.28,1.28]</td><td>0</td></tr></table></body></html>
+
+Table 3Multimodal benchmark functions   
+
+<html><body><table><tr><td>Fun</td><td>函数名</td><td>搜索区间</td><td>理论最优值</td></tr><tr><td>F8</td><td>Schwefel2.26</td><td>[-500,500]</td><td>-418.9829*n</td></tr><tr><td>F9</td><td>Rastrigin</td><td>[-5.12,5.12]</td><td>0</td></tr><tr><td>F10</td><td>Ackley</td><td>[-32,32]</td><td>0</td></tr><tr><td>F11</td><td>Griewank</td><td>[-600,600]</td><td>0</td></tr><tr><td>F12</td><td>Penalized1</td><td>[-50,50]</td><td>0</td></tr><tr><td>F13</td><td>Penalized2</td><td>[-50,50]</td><td>0</td></tr></table></body></html>
+
+# 3.2 实验结果分析
+
+为了体现本文算法在问题维数和复杂度上的优越性，实验将分别对维数为30、100两种不同的函数维度进行测试。其中FI\~F7为连续性单峰值函数，F8\~FI3为连续性多峰函数，均是具有普遍性、代表性的常用于检测群体智能算法全局优化能力的函数。函数的表达式可以查阅文献[9]。
+
+# 1）寻优精度分析
+
+表4列出了六种算法在单峰值函数求解时30次运行结果的平均值和标准差的对比。由表4可见，MSCA算法在F1函数上的求解精度高出WOA算法及其他改进的正弦余弦算法80\~200个数量级；对F3、F4函数的求解精度较对比算法效果十分显著；在F6函数的求解上，MSCA算法在高维的求解能力优于较好的PSO 算法，在低维的求解上较PSO 算法结果差；在F5、F7函数上，算法对30、100 维的求解精度较低，但MSCA算法较其他五种算法仍具有优势；故总体考虑，MSCA在单峰函数问题的求解精度、算法稳定性（标准差）等方面比对比算法具有更好的效果。
+
+表5列出了六种算法在多峰值函数求解时30次运行结果的平均值和标准差的对比。由表5可以看出，对于F8\~F13多峰值函数的寻优结果，在问题维度为30、100维时MSCA均优于对比算法；在F8函数的求解上，相比于对比算法，MSCA能够找到接近理论最优解的结果，SCA在该函数上的处理能力最差；在F9、F11函数的求解上，WOA、MSCA算法能达到理论最优值且MSCA在30、100维求解性能较为稳定；在F10、F12、F13函数的求解上，MSCA的寻优结果与理论最优解相比还存在精度不足，但优于对比算法。可见MSCA在多峰值函数上的优化能力比较强，逃逸局部最小值的能力相比而言要好于对比算法。故总体考虑，MSCA对多峰函数问题的求解表现具有很大的优越性。
+
+# 2）收敛曲线分析
+
+为了进一步考查算法的平均进化趋势，实验中列出了30维时算法的收敛曲线。限于篇幅限制，在文中仅列出了F1、F5、F6、F7单峰测试函数，F9、F10、F12、F13多峰测试函数的平均函数值的迭代收敛曲线。部分单峰值函数的收敛曲线如图3所示。由图3（a）\~（d）可以看出，MSCA算法的收敛曲线下降最快，并能够随着迭代次数的增加持续收敛，未出现停滞现象。其中WOA算法是较新的优化算法，它在单峰值函数的求解精度相比其他群体智能算法要好。通过图中显示，MSCA算法在F1、F5、F7函数上收敛趋势优于WOA算法，也优于其他改进的SCA算法。从图3（b）可知，对比算法在后期收敛出现停滞，收敛精度较低，而MSCA算法能规避停滞发生。由图3（c）可看出，WSCA与PSO相比在后期迭代效果不佳，前期收敛下降较快，但优于图中的对比算法。
+
+图4（a）\~（d)是部分多峰值函数的收敛曲线。从MSCA算法的收敛性上可以看出，在F9函数上收敛速度明显，在F10、F12和F13函数上，也比对比算法收敛程度好。由图4
+
+（b）～（d）F10、F12和F13函数的收敛结果可以看出，该函数易陷入局部最优，但MSCA最终的寻优精度较其他算法仍然表现较好。
+
+表3多峰基准测试函数  
+表4函数F1\~F7的寻优精度对比  
+Table 4Variance and mean information of six algorithms(Fl\~F7)   
+
+<html><body><table><tr><td rowspan="2">Fun</td><td rowspan="2">算法</td><td colspan="3">30维</td><td colspan="3">100维</td></tr><tr><td>平均值</td><td>标准差</td><td>排序</td><td>平均值</td><td>标准差</td><td>排厅</td></tr><tr><td></td><td>WOA</td><td>1.3535E-150 4.7989E-150</td><td></td><td>2</td><td></td><td>7.9419E-147 4.3008E-146</td><td>2</td></tr><tr><td></td><td>OBSCA</td><td>7.0799E-28</td><td>2.6100E-27</td><td>4</td><td>8.0438E-09</td><td>2.6023E-08</td><td>4</td></tr><tr><td>F1</td><td>HGWOSCA</td><td>1.3165E-50</td><td>1.8525E-50</td><td>3</td><td>1.6487E-25</td><td>1.4927E-25</td><td>3</td></tr><tr><td></td><td>SCA</td><td>6.2969E-03</td><td>1.0909E-02</td><td>6</td><td>4.7299E+03</td><td>3.5584E+03</td><td>6</td></tr><tr><td></td><td>PSO</td><td>8.4698E-09</td><td>2.0700E-08</td><td>5</td><td>2.5551E+00 1.4886E+00</td><td></td><td>5</td></tr><tr><td></td><td>MSCA</td><td>1.2395E-233 0.0000E+00</td><td></td><td></td><td></td><td>2.5194E-220 0.0000E+00</td><td>1</td></tr><tr><td></td><td>WOA</td><td>2.7529E-103 1.0638E-102</td><td></td><td>2</td><td>7.0937E-103 3.1981E-102</td><td></td><td>2</td></tr><tr><td></td><td>OBSCA</td><td>5.1910E-26</td><td>1.6873E-25</td><td>4</td><td>2.4920E-13</td><td>6.7044E-13</td><td>4</td></tr><tr><td>F2</td><td>HGWOSCA</td><td>6.9748E-30</td><td>1.0040E-29</td><td>3</td><td>1.2850E-15</td><td>5.0447E-16</td><td>3</td></tr><tr><td></td><td>SCA</td><td>1.6508E-05</td><td>2.8543E-05</td><td>5</td><td>2.7108E+00 4.2881E+00</td><td></td><td>5</td></tr><tr><td></td><td>PSO</td><td>3.5512E-04</td><td>8.2176E-04</td><td>6</td><td>1.1212E+01 4.1496E+00</td><td></td><td>6</td></tr><tr><td></td><td>MSCA</td><td>9.7071E-108 5.3011E-107</td><td></td><td></td><td>2.4938E-106 1.3045E-105</td><td></td><td></td></tr><tr><td></td><td>WOA</td><td>2.3101E+04 1.0649E+04</td><td></td><td>6</td><td>9.0586E+05 1.7474E+05</td><td></td><td>6</td></tr><tr><td></td><td>OBSCA</td><td>2.5799E-03 1.2901E-02</td><td></td><td></td><td>7.3762E+03 6.8831E+03</td><td></td><td>3</td></tr><tr><td>F3</td><td>HGWOSCA</td><td>1.1660E-123.7569E-12</td><td></td><td>2</td><td>1.9520E+01 4.2611E+01</td><td></td><td>2</td></tr><tr><td></td><td>SCA</td><td>4.6954E+033.3049E+03</td><td></td><td>5</td><td>1.9059E+05 5.3055E+04</td><td></td><td>5</td></tr><tr><td></td><td>PSO</td><td>1.6050E+01 8.5760E+00</td><td></td><td></td><td>1.0830E+04 2.4641E+03</td><td></td><td>4</td></tr><tr><td></td><td>MSCA</td><td>9.0933E-151 4.8622E-150</td><td></td><td></td><td>4.3847E-114 2.2422E-113</td><td></td><td></td></tr><tr><td></td><td>WOA</td><td>3.1947E+01 2.8662E+01</td><td></td><td>6</td><td>7.0368E+01 2.7823E+01</td><td></td><td>5</td></tr><tr><td></td><td>OBSCA</td><td>7.4303E-05</td><td>1.5470E-04</td><td>3</td><td></td><td>3.8343E+01 1.1390E+01</td><td>4</td></tr><tr><td>F4</td><td>HGWOSCA</td><td>1.0879E-11</td><td>2.3705E-11</td><td>2</td><td>1.7681E-03</td><td>2.2282E-03</td><td>2</td></tr><tr><td></td><td>SCA</td><td>2.0936E+01 1.1576E+01</td><td></td><td>5</td><td>8.5688E+01 3.3002E+00</td><td></td><td>6</td></tr><tr><td></td><td>PSO</td><td>6.2625E-01</td><td>1.6545E-01</td><td>4</td><td></td><td>8.3142E+00 1.1723E+00</td><td>3</td></tr><tr><td></td><td>MSCA</td><td>1.7361E-113 9.0691E-113</td><td></td><td></td><td>9.8756E-112 5.3552E-111</td><td></td><td>1</td></tr><tr><td></td><td>WOA</td><td>2.7015E+01</td><td>4.0893E-01</td><td>2</td><td>9.7582E+01</td><td>4.3771E-01</td><td>2</td></tr><tr><td></td><td>OBSCA</td><td>2.8197E+01</td><td>2.5030E-01</td><td>4</td><td>9.9191E+01</td><td>7.8873E-01</td><td>4</td></tr><tr><td>F5</td><td>HGWOSCA</td><td>2.7151E+01</td><td>9.1918E-01</td><td>3</td><td>9.7905E+01</td><td>6.2451E-01</td><td>3</td></tr><tr><td></td><td>SCA</td><td>7.3237E+02 2.9100E+03</td><td></td><td>6</td><td>5.3408E+07</td><td>2.3688E+07</td><td>6</td></tr><tr><td></td><td>PSO</td><td>4.9549E+01</td><td>3.1024E+01</td><td>5</td><td></td><td>2.4044E+03 1.3275E+03</td><td>5</td></tr><tr><td></td><td>MSCA</td><td>1.9731E-05</td><td>2.9621E-05</td><td></td><td>5.5978E-05</td><td>9.1330E-05</td><td>1</td></tr><tr><td></td><td>WOA</td><td>5.7319E-02</td><td>6.8223E-02</td><td>3</td><td>2.0318E+00</td><td>7.9950E-01</td><td>2</td></tr><tr><td></td><td>OBSCA</td><td>4.3876E+00</td><td>1.8999E-01</td><td>5</td><td>2.2373E+01</td><td>4.6430E-01</td><td>5</td></tr><tr><td>F6</td><td></td><td>HGWOSCA 1.1532E+00 4.4087E-01</td><td></td><td>X</td><td>1.0407E+01</td><td>1.1248E+00</td><td>4</td></tr><tr><td></td><td>SCA</td><td>4.7120E+00 4.4180E-01</td><td></td><td>6</td><td>6.9219E+03 3.9950E+03</td><td></td><td>6</td></tr><tr><td></td><td>PSO</td><td>5.2557E-09</td><td>8.2397E-09</td><td></td><td>2.7054E+00</td><td>1.2978E+00</td><td>3</td></tr><tr><td></td><td>MSCA</td><td>5.0650E-089.6047E-08</td><td></td><td>2</td><td>2.1809E-073.5146E-07</td><td></td><td>1</td></tr><tr><td></td><td>WOA</td><td>2.1976E-03</td><td>2.5725E-03</td><td>3</td><td>1.5681E-03</td><td>1.5729E-03</td><td>2</td></tr><tr><td></td><td>OBSCA</td><td>2.4692E-03</td><td>1.5650E-03</td><td></td><td>1.0853E-02</td><td>6.2737E-03</td><td>4</td></tr><tr><td></td><td>F7 HGWOSCA</td><td>1.0902E-03</td><td>5.9821E-04</td><td>2</td><td>3.6505E-03</td><td>1.3202E-03</td><td>3</td></tr><tr><td></td><td>SCA</td><td>2.8870E-02</td><td>2.3546E-02</td><td>5</td><td>6.6319E+01</td><td>4.0981E+01</td><td>5</td></tr><tr><td></td><td>PSO</td><td>6.7384E-02</td><td>2.7413E-02</td><td>6</td><td>1.4099E+03</td><td>3.6454E+02</td><td>6</td></tr><tr><td></td><td>MSCA</td><td>3.5682E-05</td><td>3.2475E-05</td><td>1</td><td>4.3021E-05</td><td>3.8397E-05</td><td></td></tr></table></body></html>
+
+以上收敛图表明了MSCA算法可以以更快的收敛速度得到精度更高的优化结果，在六种算法中全局搜索能力最佳。
+
+# 3）综合实验分析
+
+仿真实验的算法排序结果如表6所示。表中列出了六种算法在13个标准测试函数的30、100维度的平均排序结果及总排序。在同等的实验前提下，MSCA算法相比于对比算法
+
+具有显著优势。
+
+表5函数F8\~FI3的寻优精度对比  
+Table 5Variance and mean information of six algorithms(F8\~Fl3)   
+
+<html><body><table><tr><td rowspan="2">Table5 Fun 算法</td><td rowspan="2"></td><td colspan="4"></td><td rowspan="2"></td></tr><tr><td rowspan="2">30维 平均值</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">100维 标准差</td></tr><tr><td></td><td>标准差</td><td>排 平均值 序</td></tr><tr><td></td><td>WOA</td><td>-11549.1791.2447E+03 2 -3.7602E+044.5384E+032</td><td></td><td></td><td></td><td>序</td></tr><tr><td></td><td>OBSCA</td><td>-4168.90173.1396E+02 5 -7.4608E+034.9664E+025</td><td></td><td></td><td></td><td></td></tr><tr><td>F8</td><td></td><td>HGWOSCA -5827.5 7.4939E+02 4 -1.6342E+041.7700E+03 4</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>SCA</td><td>-3998.299 3.3629E+02 6 -7.2570E+034.6787E+026</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>PSO</td><td>-6451.37321.0114E+03 3 -1.8731E+046.1457E+033</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>MSCA</td><td>-12569.483 5.7187E-03 1 -4.1898E+041.1390E-021</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>WOA</td><td>0.0000E+000.0000E+00</td><td>1</td><td>0.0000E+00 0.0000E+001</td><td></td><td></td></tr><tr><td></td><td></td><td>OBSCA 0.0000E+000.0000E+00</td><td>1</td><td>2.7440E-06 1.4944E-052</td><td></td><td></td></tr><tr><td>F9</td><td></td><td>HGWOSCA5.3355E+007.8261E+00</td><td>2</td><td>1.1795E+01 8.2861E+00 3</td><td></td><td></td></tr><tr><td>SCA</td><td></td><td>1.0882E+011.5187E+013</td><td></td><td>2.3894E+02 1.0306E+02 4</td><td></td><td></td></tr><tr><td>PSO</td><td></td><td>4.9957E+011.0100E+01</td><td>4</td><td>4.5198E+02 5.4017E+01</td><td></td><td>5</td></tr><tr><td>MSCA</td><td></td><td>0.0000E+000.0000E+00</td><td>1</td><td>0.0000E+00 0.0000E+00</td><td></td><td></td></tr><tr><td>WOA</td><td></td><td>3.9672E-15 2.7572E-15</td><td>2</td><td>3.3751E-15 2.3137E-15</td><td></td><td>2</td></tr><tr><td>OBSCA</td><td></td><td>2.1618E-02 9.0653E-02</td><td>5</td><td>4.7178E+00 3.7659E+005</td><td></td><td></td></tr><tr><td>F10</td><td>HGWOSCA2.7060E-14 3.6712E-15</td><td></td><td>3</td><td>2.7930E-13 3.3242E-14</td><td></td><td>3</td></tr><tr><td>SCA</td><td></td><td>1.5319E+018.0031E+00</td><td>6</td><td>1.9520E+01 3.3554E+00</td><td></td><td>6</td></tr><tr><td>PSO</td><td></td><td>6.1330E-05 7.4154E-05</td><td>4</td><td>2.6409E+00 3.2792E-01</td><td></td><td>4</td></tr><tr><td>MSCA</td><td></td><td>8.8818E-160.0000E+00</td><td>1</td><td>8.8818E-16 0.0000E+00</td><td></td><td>1</td></tr><tr><td>WOA</td><td></td><td>2.3940E-03 1.3113E-02</td><td>3</td><td>0.0000E+00 0.0000E+00</td><td></td><td></td></tr><tr><td></td><td>OBSCA 3.2839E-131.7985E-122</td><td></td><td></td><td>4.0223E-08 1.4392E-07</td><td></td><td>2</td></tr><tr><td>F11</td><td>HGWOSCA 2.7258E-03 5.3645E-03</td><td></td><td>4</td><td>5.4231E-03 1.1424E-02</td><td></td><td>3</td></tr><tr><td></td><td>SCA</td><td>2.2328E-01 2.8470E-01</td><td>6</td><td>4.0373E+01 2.8646E+015</td><td></td><td></td></tr><tr><td>PSO</td><td></td><td>8.6210E-03 1.0422E-025</td><td></td><td>4.8571E-02 3.0360E-02</td><td></td><td>4</td></tr><tr><td></td><td></td><td>MSCA 0.0000E+000.0000E+00</td><td>1</td><td>0.0000E+000.0000E+001</td><td></td><td></td></tr><tr><td>WOA</td><td></td><td>7.5227E-03 5.9677E-03</td><td>3</td><td>1.7488E-02 6.5294E-032</td><td></td><td></td></tr><tr><td></td><td>OBSCA 4.9258E-01 6.6286E-025</td><td></td><td></td><td>1.1934E+00 1.8625E-014</td><td></td><td></td></tr><tr><td>F12</td><td></td><td>HGWOSCA7.6204E-02 4.2358E-024</td><td></td><td>3.2058E-01 7.7470E-023</td><td></td><td></td></tr><tr><td></td><td>SCA</td><td>2.5894E+021.0303E+03</td><td>6</td><td>1.6412E+08 1.0791E+086</td><td></td><td></td></tr><tr><td></td><td>PSO</td><td>6.9113E-03 2.6302E-02</td><td>2</td><td>2.2695E+00 1.1890E+005</td><td></td><td></td></tr><tr><td>MSCA</td><td></td><td>4.7934E-09 7.7293E-09</td><td>1</td><td>1.9856E-09 3.8542E-091</td><td></td><td></td></tr><tr><td>WOA</td><td></td><td>2.5202E-01 2.0052E-01</td><td>3</td><td>1.5783E+00 6.7054E-01</td><td></td><td>2</td></tr><tr><td></td><td>OBSCA 2.3644E+00 1.6501E-01</td><td></td><td>5</td><td>1.1341E+01 8.3623E-014</td><td></td><td></td></tr><tr><td>F13</td><td>HGWOSCA9.2799E-013.1218E-01</td><td></td><td>4</td><td>6.8008E+00 4.4165E-013</td><td></td><td></td></tr><tr><td></td><td>SCA</td><td>1.1109E+012.4752E+01</td><td>6</td><td>3.3122E+08 1.8469E+086</td><td></td><td></td></tr><tr><td>PSO</td><td></td><td>2.5637E-03 4.7266E-03</td><td>2</td><td>1.3012E+017.5262E+005</td><td></td><td></td></tr><tr><td></td><td>MSCA 9.4655E-08 1.8124E-07</td><td></td><td>1</td><td>1.1467E-07 1.4137E-071</td><td></td><td></td></tr></table></body></html>
+
+根据实验考查了MSCA算法在30、100维度下的收敛情况，改善了基本SCA算法的性能。基于精英反向学习的方法通过种群间的优胜劣汰保留了更多有利信息，加强了个体对优秀个体的搜索，对提高算法收敛速度和精度具有一定的影响；基于反思学习的方法通过反思变异增加了种群的多样性，防止了个体盲目靠近局部最优；在问题维度上，MSCA算法不会随着维度的增加而精度下降，表现了良好的稳定性。
+
+# 4 结束语
+
+本文针对SCA算法在搜索策略上存在的不足，提出了一种具有学习机制的正弦余弦算法，能够有效地改善算法求解精度低、未成熟收敛等问题。MSCA算法利用两种学习机制，弥补了标准算法在全局勘探和局部开发能力上的不足，提高了算法寻找最优解的机会。仿真实验结果表明，MSCA算法的改进策略是有效的且具有较强的鲁棒性和全局优化能力，有望应用于复杂问题的求解。同时，SCA作为一种较新的群体智能优化算法具有很大的工程应用空间，有待今后进一步的研究。
+
+![](images/b62eb01a80bee4f58d554aac9799cfce432b28d27e057b1b256cf65732a072c7.jpg)  
+图3部分单峰值函数收敛曲线
+
+![](images/8944897780235224774f4763097be289d410289baebef6db2ca48016a00c7ef5.jpg)  
+Fig.3Partial unimodal benchmark functions convergence curve   
+图4部分多峰值函数收敛曲线  
+Fig.4Partial multimodal benchmark functions convergence curve
+
+# 表6算法排序结果
+
+Table 6Algorithm sorting result   
+
+<html><body><table><tr><td>算法</td><td>SCA</td><td>OBSCA</td><td>HGWOSCA</td><td>WOA</td><td>PSO</td><td>MSCA</td></tr><tr><td>平均排序</td><td>5.50</td><td>3.85</td><td>3.04</td><td>2.65</td><td>4.19</td><td>1.04</td></tr><tr><td>总排序</td><td>6</td><td>4</td><td>3</td><td>2</td><td>5</td><td>1</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Verma O P,Gupta S,Goswami S,et al.Opposition based modified particleswarm optimization algorithm [C]//Proc ofthe 8th International ConferenceonComputing， Communicationand Networking Technologies.Delhi: IEEE Press,2017:1-6.   
+[2] 刘三阳，张平，朱明敏．基于局部搜索的人工蜂群算法 [J].控制与 决策，2014(1):123-128.(Liu Sanyang,Zhang Ping,Zhu Mingmin. Artificial bee colony algorithm based on local search [J].Control and Decision,2014,29(1):123-128.)   
+[3]井福荣，郭肇禄，罗会兰，等．应用精英反向学习的引力搜索算法 [J]．计算机应用研究，2015,32(12):3638-3641.(Jing Furong，Guo Zhaolu,Luo Huilan,et al. Improved gravitational search algorithm with elite opposition-based learning[J].Application Research of Computers, 2015,32 (12): 3638-3641.)   
+[4]Mirjalili S,Lewis A. The whale optimization algorithm [J].Advances in Engineering Software,2016,95:51-67.   
+[5]Mirjalili S.SCA:A sine cosine algorithm for solving optimization problems[J].Knowledge-Based Systems,2016,96:120-133.   
+[6]刘勇，马良．转换参数非线性递减的正弦余弦算法[J].计算机工程 与应用,2017,53 (2):1-5.(Liu Yong,Ma Liang.Sine cosine algorithm withnonlineardecreasing conversion parameter [J].Computer Engineering and Applications,2017,53 (2):1-5.)   
+[7]陈聪，马良，刘勇．函数优化的量子正弦余弦算法[J].计算机应用 研究,2017,34(11):3214-3218.(Chen Cong,Ma Liang,Liu Yong. Quantum sinecosine algorithm for function optimization[J]. Application Research of Computers,2017,34(11):3214-3218.)   
+[8]Elaziz M A, Oliva D,Xiong Shengwu.An improved opposition-based sine cosine algorithm for global optimization [J].Expert Systems with Applications,2017,90: 484-500.   
+[9]Singh N,Singh S B.A novel hybrid GWO-SCA approach for optimization problems [J]. Engineering Science and Technology，an International Journal,2017,20 (6):1586-1601.   
+[10] Elaziz MEA,Ewees AA,Oliva D,et al.A hybrid method of sine cosine algorithm and differential evolution for feature selection [C]// Proc of the 24th International Conference on Neural Information Processing. Cham Switzerland: Springer Press,2017:145-155.   
+[11] Mahdavi S,Rahnamayan S,Deb K.Opposition based learning:a literature review [J]. Swarm and Evolutionary Computation,2018,39: 1-23.   
+[12]李俊，汪冲，李波，等．基于扰动的精英反向学习粒子群优化算法 [J]．计算机应用研究,2016,33(9):2584-2587.(Li Jun,Wang Chong, Li Bo,et al.Elite opposition-based particle swarm optimization based on disturbances [J].Application Research of Computers,2O16,33 (9): 2584-2587.)   
+[13] YuKunjie,WangXin,WangZhenlei.Animproved teaching-learning-based optimization algorithm for numerical and engineeringoptimizationproblems[J].Journal ofIntelligent Manufacturing,2016,27 (4): 831-843.   
+[14] ChenDebao， Zou Feng，Li Zheng， etal.An improved teaching-learning-based optimization algorithm for solving global optimization problem [J].Information Sciences,2015,297:171-190.   
+[15] Rao R V.Application of TLBO and ETLBO algorithms on complex composite test functions [M// Chapter 3 of the Teaching Learning Based Optimization Algorithm. Cham Switzerland: Springer Press, 2016:41-51.   
+[16]童楠，符强，钟才明．基于自主学习行为的教与学优化算法[J].计 算机应用，2018，38(2):443-447.（Tong Nan，FuQiang，Zhong Caiming.Improved TLBO algorithm based on self-learning mechanism [J],Journal of Computer Applications,2018,38 (2): 443-447.)

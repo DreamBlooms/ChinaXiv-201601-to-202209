@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "诱导多能干细胞向雄性生殖细胞分化诱导物的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李欣1，赵中利1，罗晓彤²，曹阳1，张立春1，于永生1\\*，金海国1\\*1．吉林省农业科学院畜牧科学分院，公主岭，1361002．延边大学农学院，延吉，133002",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：诱导多能干细胞(Induced pluripotent stem cells，iPSCs)是利用细胞重编程技术人工获得的与胚胎干细胞(embryonic stemcells，ESCs)功能类似的细胞，能分化成包括三胚层在内的所有细胞类型，并且规避了ESCs的伦理学争议和移植后的免疫排斥问题，具有十分广阔的应用前景。本文对iPSCs体外诱导为生殖细胞所用的诱导物及其诱导效果进行了综述，生殖细胞发育机制的研究有望促进未来生殖和发育技术的进步。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：诱导多能干细胞；雄性生殖细胞；分化；诱导物",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Progress in the inducers stimulating Differentiation of iPS Cells into Male ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Germ Cells ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li $\\Chi { \\mathrm { m } } ^ { \\mathrm { 1 } }$ , Zhao Zhong-li’,Luo Xiao-tong², Cao Yang1, Zhang Li-chunl,Yu Yong-shengl\\*, Jin Hai-guo1\\* 1. Branch ofAnimal Husbandry, Ji Lin Academy of Agricultural Sciences, Gong Zhu ling, Ji Lin 136100,China 2.Agricultural College, Yan Bian University, Yan Ji, Ji Lin,133002, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Induced pluripotent stem cells(iPSCs) refer to stem cells that are artificially produced by cellular reprogramming，which have similar functions to embryonic stem cells. They can differentiate into all cell types,and avoid the ethical controversy of ESCs and immune rejection after transplantation. They have a broad application prospect. This paper reviews the advances in the in vitro differentiation of male germ cels using iPSCs by different inducers,the effect was also investigated in this paper.Exploring development mechanisms of germ cells is promising to promote future reproductive and developmental engineering technologies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: iPSCs,male germ cells,differentiation,inducers ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2006年，日本京都大学研究小组首次使成体细胞重编程为多能干细胞，并将其定义为诱导多能干细胞[。iPSCs具有自我更新能力，具有通过对称分裂产生与母代细胞完全相同的子代细胞的“无限”增殖能力，具有“永生性”；该细胞还具有多向分化潜能，如可以在特定的诱导条件下分化其不同表型的成熟细胞，如神经上皮细胞[2]、胰腺细胞[3]、肝细胞[4]、心肌细胞[5]、血管内皮细胞[6]、平滑肌细胞等各胚层不同类型[7]。iPSCs功能几乎和 ESCs一样，表达ESCs的各种表面标记物和分化为各种组织细胞。iPSCs使用不受免疫排斥和伦理学等限制，在组织工程及修复方面有独一无二的优势。。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，体外生殖细胞发育机制研究是当今生物领域面临的最大挑战之一[8]。在体外配子形成过程中有两个独立的阶段：由iPSCs或 ESCs 分化形成原始生殖细胞样细胞(primordialgermcell-likecells，PGC-LCs)、减数分裂的开始和完成[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管hESC 可以成功分化成男性生殖细胞，但存在伦理学争议。研究表明，人或小鼠iPSCs 均有向减数分裂后期的雄性单倍体细胞和 PGC-LCs 诱导分化的能力[10]。与其他干细胞相比，自体iPSCs有望成为细胞替代治疗的理想来源。同时，iPSCs 在哺乳动物发育、疾病模型、药效评价和再生药物的研究方面发挥着重要作用。多能干细胞分化成雄性生殖细胞的可行性在包括小鼠、鸡和一些灵长类动物如猕猴和人类等许多物种上得以证实‘}。近年来的研究热点是根据iPSCs的特点和分化能力来评估未分化的iPSCs克隆的质量。诱导体系对iPSCs向生殖细胞诱导分化起决定作用，本文在综述iPSCs特点的基础上，对不同诱导物将iPSCs诱导为雄性生殖细胞的诱导效率进行了比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 iPSCs",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1iPSCs的优势和局限性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "iPSCs 对临床医学的发展具有深远的影响[12]。由于ESCs具有分化成三胚层细胞的能力，可以作为一种动物模型的治疗方式，但是在应用于临床前，急需解决伦理问题和移植后的免疫排斥问题，而iPSCs可采集自患者自体，可有效规避伦理问题，尽量减小免疫排斥，这对药物和再生医学研究大有裨益。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但iPSCs 也有三个明显缺陷：1．由于人体细胞的重组效率很低，从原始细胞和初始细胞群产生的特异性的患者iPSCs会很困难；2.外源基因进入体细胞基因组，特别是癌基因，如c-Myc 和KLF4，可能会诱发肿瘤形成[13]；3．即使iPSCs形成畸胎瘤，极少量的未分化的细胞也会导致肿瘤，所以关键是将 iPSCs分化引向有益的细胞类型，而不是大量的未分化细胞。虽然在嵌合体小鼠中有一些使用iPSCs 的成功模型，但致瘤风险不能完全被消除[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2iPSCs用于生殖细胞分化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了Oct-4、Sox2、KLF4及c-Myc 异位表达外，其他转录因子突变也可产生iPSCs，如体细胞的原始选择、重组因子和转导方法等[15]。研究人员相信新的iPSCs必将取代ESCs 作为一种诱导生殖细胞的原始材料。iPSCs来源的生殖细胞在临床应用前，根据其减数分裂机制、后编程和细胞核与线粒体的功能，需要完成科学评估。标志基因的表达或标志蛋白的免疫染色，如C-kit、DDX4及 SSEA1，可用于鉴定PGCs的形成[16]。细胞进入减数分裂阶段的特征是检测到分化细胞的单倍体和与减数分裂相关的标记，包括转化蛋白1(TP1)、精蛋白1(Prot1)和精子头粒蛋白[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于小鼠 iPSCs分化成生殖细胞可以通过四倍体互补作用实现[18]，iPSCs已经成为一种体外研究生殖细胞分化机理的可行选择。Kim 等获得了神经干细胞来源的的iPSCs，其在向生殖细胞分化过程中 Sycp3、GDF9 和早期PGC 标志基因的表达升高[19]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Imamura'11等在VASA 基因和OCTa4 基因启动子的调控下成功从成人肝细胞诱导出小鼠 $\\mathrm { i P S C s } ^ { [ 1 5 ] }$ 。研究发现，在拟胚体(embryoid bodies，EBs)或在无白血病抑制因子(leukemiainhibitory factor，LIF)的饲养层条件下，VASA基因调控的PGCs 可产生转基因 iPSCs。在EB 的边缘，会出现少量OCT4/VASA卵母细胞样细胞。为了促进生殖细胞分化，研究人员尝试利用表皮生长因子(epidermal growth factor，EGF)、骨形成蛋白 4(Bone MorphogeneticProtein,BMP4)和神经胶质细胞衍生神经营养因子(gial cell-derived neurotrophic factor,GDNF)来刺激iPSCs分化[16]。有趣的是在细胞集落中出现了VASA基因标记的细胞。21d后，观察到大量的细胞集落，检测到减数分裂的标志基因 Sycp1,Dmc1等表达，并可观察到迁移的PGCs，但没有检测到减数分裂后的标志基因(TP1,Protamine1 等)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2诱导iPSCs形成雄性生殖细胞诱导物及机理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 RA ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视黄酸(retinoic acid，RA)是从维生素（视黄醇）中提取的，作为一种非肽类亲脂性的小分子，它是细胞核视黄酸受体（RAR）的配体[17]，通过与配体依赖型的转录调控因子RARα、RARβ、RARγ结合发挥作用[18]。不同的精子上皮细胞表达不同RARs,如支持细胞表达RARα、圆形精子细胞表达RARβ、A型精子细胞表达RARγ[19]。据报道，RA在幼崽出生后即作为辜丸的刺激剂刺激下游基因表达。另外，RA也能刺激减数分裂和 STRA8基因的表达。Koubova等证实类胚体RA激活的STRA8基因确保了性发育的正确时间。大量的研究已经证实了RA刺激减数分裂开始的作用模式[20]及对 PGCs 的增殖和发育的影响[21]。Tan 和Bowles.等研究表明RA能够诱导iPSCs或 ESCs向PGCs分化[17]。在小鼠PGCs培养过程中，RA 能促进PGC 增殖，以及减缓PGCs退化，在体内外，都起着一种细胞分裂素的作用。另外，RA还可以阻止小鼠PGCs 的细胞凋亡[22]。研究表明，RA 既可促进干细胞分化成 PGCs及 PGCs增殖[23】，又能作用于EB 细胞促进ESCs 的分化【24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然iPSCs具有分化成大量雄性生殖细胞的能力，但是分化过程是自发的还是RA诱导的结果有待进一步研究。Li等研究表明，经RA或睾酮处理后，通过EB的形成和小鼠 iPSCs分化成雄性生殖细胞的诱导结果甚至可以判定这些细胞极有可能是单倍体‘25】。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RA的缺陷之一是它在神经元分化中起作用，这样有可能导致将iPSCs分化成神经细胞。RA 被公认为是最有效的成形素，用来诱导干细胞产生神经前体细胞和神经细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 BMPs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BMPs是一种多功能细胞因子，属于转化生长因子p(TGF-p)超家族，由早期胚胎外胚层释放，对生殖细胞的发育和功能发挥起着重要作用‘26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当动物植入衰老的骨骼时会诱发细胞反应，导致了新骨的形成，这是由于一种或一类称之为骨形成蛋白作用的结果[27]。在体外用BMPs 处理后，iPSCs 可诱导为雄性生殖细胞[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在哺乳动物中，特异的上皮细胞诱导为PGCs是由BMPs调控，包括 BMP8b 和 BMP4,两者均通过胚胎外胚层(ExE)表达[29]。雄性生殖细胞可表达Gbb-60A 亚族的某些蛋白，这些蛋白与精子发生和维持生殖细胞增殖和存活的 BMP8a 和 BMP8b 密切相关[30]。细胞因子如BMP4 可以使人和小鼠 ESCs更易向生殖细胞分化。因此，BMPs是细胞增殖、凋亡、分化和形态发生过程的重要因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在小鼠外胚层移植培养中，BMP4 和BMP8b蛋白可以诱导PGCs形成[31]。在分化的起始 3d中,生殖细胞标志基因VASA基因由人重组BMP4蛋白以剂量依赖的形式表达,BMP7、BMP8b和BMP4结合使用可使VASA基因表达进一步提高[32]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了确认添加BMPs是否可以诱导 iPSCs 向生殖细胞分化，Panula等[33分别利用分化7d 和14d的 iPSCs(IMR90)和 iHUF4 细胞，分为添加和未添加 BMP4、BMP7和 BMP8b 两组，来观察BMPs添加物对iPSCs和hESCs向生殖细胞诱导分化的影响，实验组可检测到在未分化的iHUF4 细胞中有少量DAZL 和 VASA 基因的表达，在未分化的 iPSCs(IMR90)中有少量VASA 基因的表达。延长培养、添加 BMPs(BMP4、BMP7、BMP8b)及与人或小鼠的胎儿性腺基质细胞共培养等方法能促进PGCs 自发分化[34]。BMP 诱导培养后经westermblotting 检测发现生殖细胞标志基因VASA的表达升高，这为说明BMPs对生殖细胞的特异性功能提供佐证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BMPs的缺点之一是成本较高，其作用原理及副作用还未完全明晰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 hFGCs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究证实胎儿体细胞iPSCs能够分化成早期阶段的PGCs，表明iPSCs具有与hESCs相似的临床治疗价值[35]。但是，重编程人体细胞获得的iPSCs分化成生殖细胞却未见报道[31]。Park 等研究表明，与特定培养和附着培养这两种诱导方法相比，利用iPSCs和ESC诱导iPGC的诱导效率更高。虽然人胎儿性腺细胞(human fetal gonadal cells，hFGCs)可以产生大量的iPGC，但是非性腺基质细胞的胎儿肝脏和胎盘组织诱导后也可获得iPGCs。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从iPGCs 阳性细胞分化成的hFGCs与最初三个月的生殖细胞具有可比性[36]。hiPS 与hESCs 在适宜的分化条件下共培养，用hFGCs标记，可显著提高 iPGCs的分化能力。hFGCs分化7d后，iPGCs发育成未成熟的PGC，这一过程相当于体外受精到妊娠9周内的发育阶段[34]。Hikabe等体外成功重建雌性生殖细胞系，但这个培养体系的用途还具有局限性。另外，人PGC-LCs 发育到配子形成的后期阶段所需的性腺细胞的获得是解决此问题的一种途径。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4睾酮 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "睾酮是一种雄性激素，对雄性生殖系统的发育和第二性征的形成是必需的[37]。在胚泡内细胞团和ES 细胞系中均有雄性激素受体的表达[38]。在睾丸间质细胞中的睾酮在促黄体激素(luteinizing hormone，LH)和促卵泡激素(follicle-stimulating hormone，FSH)的联合影响下,能促进支持细胞诱导基因转录和生长因子的分泌，进而促进生殖细胞的分化。Sani等研究表明成年大鼠体内睾酮和FSH的协同作用可以阻止生殖细胞退化和/或刺激生殖细胞发育[39]。高浓度的睾酮、FSH及与支持细胞共培养的条件下均会促进生殖细胞的存活率及加速减数分裂的进程[40]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在体外，睾酮和支持细胞联合以及生殖细胞直接刺激可促使生殖细胞分化到单倍体阶段。有研究表明在体外成熟的精子和卵母细胞中，支持细胞和激素的共培养可诱导其减数分裂的完成[41]。Sliva等发现睾酮和RA可以影响 ESCs 分化的雄性生殖细胞标志基因的表达能力。细胞增殖和分化由性类固醇激素的序列变化调控[4I]。Li等报道 iPSCs 可通过EBs 的形成和RA或睾酮的诱导进而分化成雄性生殖细胞。有研究表明经RA或睾酮诱导后，约 $2 \\% - 8 \\%$ 的 EB 细胞为单倍体[25]。研究证实睾酮能提高 iPSCs分化成雄性生殖细胞的能力，未来可用于男性不育的研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 SCF ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干细胞因子(stemcell factor，SCF)，是一种支持细胞膜结合细胞因子，它的络氨酸激酶受体是c-kit，毗邻生殖细胞表面，SCF 对生殖细胞增殖和凋亡具有很强的调控作用[43]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干细胞和生殖细胞标志基因c-kit 的表达受SCF 调控,并可提高细胞存活和增殖能力[44]。成熟的PGCs在小鼠体内被定义为E7.25碱性磷酸酶染色阳性细胞群，它们可用 Stella基因重表达进行标记，它是一个母系效应基因，可由受精卵活跃基因表达直到囊胚阶段[45]。SCF能促进PGCs 的增殖和提高存活率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究表明小鼠碱性成纤维细胞生长因子和胚胎成纤维细胞饲养层是培养PGCs所必需的，但它们在hESCs分化成生殖细胞过程中的作用尚不清楚[46]。研究表明，通过在MEF 饲养层上添加bFGF并并连续培养，可使hESCs分化成POU5F1阳性细胞和DDX4阳性细胞数量所占比例上升为 $6 9 \\% ^ { [ 4 7 ] }$ 。在无饲养层培养条件下，补充bFGF，对POU5F1阳性细胞和DDX4 阳性细胞的分离和维持更为重要[10]。另外，已证实 SCF、BMP4和BMP8b 的联合应用在iPGC-LCs诱导过程中是极其有效的[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 GDNF ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GDNF是转化生长因子β家族的一员，它与其他三个相关分子组成GDNF族配体亚族(GFLs)。将GDNF加入到添加EGF或bFGF的培养基中可促进小鼠精原干细胞(spermatogoniastem cells，SSCs)的体外增殖，也能影响体内未分化的精原细胞的功能。因此，GDNF 常用做添加FGF、EGF 和LIF 等生长因子的小鼠 SSCs培养基补充物[48]。Wang[49]等研究表明猪iPSCs 诱导为生殖细胞的过程中，GDNF 被 SSCs 增殖和维持所需要。Boozarpour[50]等第一次证实GDNF可以从鸡 SSCs中区分间充质干细胞，而且，GDNF 比RA 诱导鸡间充质干细胞产生SSCs的能力更强，但这一推断有待进一步验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7iPS向雄性生殖细胞分化可能的机理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1） 比较iPS与其它细胞分化为雄性生殖细胞的异同点，以及先进性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作为干细胞中的新成员，iPS在克隆形态、基因表达模式、表面标志物、拟胚体形成、畸胎瘤及嵌合体形成(小鼠)、分化能力等方面与ESCs非常相似[51]。ESCs 诱导为生殖细胞涉及伦理学争议和免疫后排斥问题，成体干细胞虽来源广泛、取材方便，但是其多能性有限，[52-53]而iPSCs具备 ESCs 和成体干细胞两者的优点,既避免了伦理争议和免疫后的排斥问题，又容易取材，由于其本身的诱导效率较低，且需要导入大量的外源基因，可能对后续的生殖细胞分化带来影响，但为揭示雄性生殖细胞的发育机制及研究雄性不育提供了较好的研究平台，使干细胞的临床应用又迈进了一大步，动物iPSCs-SSCs-精子细胞研究在动物转基因研究中也有巨大的应用价值[54]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2） 综述iPS向雄性生殖细胞分化可能的机理（最好画出图来）  \n目前已有研究表明视黄醇代谢通路[55、BMP4代谢通路[56以及TGFβ通路在iPS 向雄性生殖细胞分化过程中起重要作用。  \n研究表明视黄醇代谢通路的终产物—RA体外能够诱导iPS 向雄性生殖细胞方向分化并能产生具有功能的 SSC 样细胞。在家禽雄性生殖细胞分化的视黄酸代谢过程中细胞色素 P50 家族、ADH、ALDH的成员都参与一定程度的调控。RA可调节减数分裂的起始时间，对于胚胎卵巢内的生殖细胞，若 $\\mathrm { C y p 2 6 b l }$ 表达量下降，RA信号通路刺激你 Stra8 基因表达，胚胎卵巢内减数分裂启动；对于胚胎睾丸内生殖细胞，睾丸体细胞表达的代谢酶 $\\mathrm { C y p 2 6 b l }$ 降解RA，RA信号被抑制，减数分裂延迟，性成熟时，Cyp26b1表达量下降，RA信号被启动[57-58]。胚胎iPS 早期，支中肾分泌BCyp26b1酶表达量下降 圣 MP4通RA信号被激活 d受体用，周节PGC。算原细胞[59]，化p2O，酶表送重下浩可导致生悟可缺失[60]。  \n雄性生殖细胞←雄性胎儿←减数分裂启动← Stra8 基因表达←",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3展望 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文综述了iPSCs向雄性生殖细胞分化的研究进展，旨在讨论诱导iPSCs分化的不同诱导物的特点。hiPS细胞作为研究不孕患者的体外模型具有良好的临床前景。hESCs/iPSCs向雄性生殖细胞的诱导技术能促进对相关疾病和不孕症的认识及新疗法的深入发展。雄性生殖细胞的研究旨在从iPSCs分化成患者特异性的雄性配子来攻破不孕症。但iPSCs的临床应用也存在一些挑战，如诱导过程极为复杂，诱导方法也需要发展和改进等。基于以上原因，笔者建议优化培养和分化方法、流程及有针对性地选择外源诱导物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "iPSCs 产生雄性生殖细胞是否是自发的，根据其分化能力能否阐明配子的形成能力，这些疑问还需要进一步研究。希望将来iPSCs的存活率和分化效率能够大幅提升。不同的诱导剂是否可以选择性诱导未分化的人PSCs细胞凋亡，而不影响其分化衍生物是未来的研究热点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1] Wu Y，Li O，He C， et al. Generation and characterization of induced pluripotent stem cels from guinea pig fetal fibroblasts.MolecularMedicine Reports，2017，15(6) : 3690-3698.   \n[2] Wernig M， Zhao J P， Pruszak J,et al. Neurons derived from reprogrammed fibroblastsfunctionallyintegrateinto the fetal brain and improvesymptoms ofratswithParkinson’ s disease.Proceedings of National Academy of Sciences of the United States of America, 2008,105(15):5856-5861.   \n[3] Takahashi K,Tanabe K,Ohnuki M,et al. Inductionofpluripotentstemcellsfrom human fibroblasts by defined factors. Cel, 2007,131(5):861-872.   \n[4] Imamura M,Aoi T, Tokumasu A, et al. Induction of primordial germ cels from mouse induced pluripotent stem cellsderived fromadulthepatocytes.MolecularReproduction and Development, 2010; 77:802-811.   \n[5] Correia C, Serra M, Espinha N,et al. Combining hypoxia and bioreactor hydrodynamics boosts induced pluripotent stem cell differentiation towards cardiomyocytes. Stem Cell Rev. 2014;10(6):786-801.   \n[6] Schenke-Layland K， RhodesK E, AngelisE,et al. Reprogrammedmouse fibroblasts differentiateintocellsofthecardiovascularandhematopoietic lineages. Stem Cells, 2008, 26(6):1537-1546.   \n[7]Shi Y, Inoue H, Wu JC, Yamanaka S. Induced pluripotent stem celltechnology: a decade of progress. Nat Rev Drug Discov,2017,16(2):115-130.   \n[8] Hikabe O, Hamazaki N,Nagamatsu G, et al. Reconstitution in vitro of the entire cycle of the mouse female germ line[J]. Nature, 2016, 539(7628):299-303.   \n[9] Cai H, Xia X,Wang L,et al. In vitro and in vivo differentiation of induced pluripotent stem cells into male germ cells[J]. Biochem Biophys Res Commun, 2013,433(3):286-291.   \n[10] Eguizabal C,Montserrat N,Vassena R,et al. Complete meiosis from human induced pluripotent stem cells.Stem Cells 2011,(29):1186-1195.   \n[11] Imamura M, Hikabe O,Lin ZYC, et al. Generation of germ cells in vitro in the era of induced pluripotent stem cells[J]. Mol Reprod Dev, 2014,81(1):2-19.   \n[12] Yin X,Li Y,Li J,,et al. Generation and periodontal differentiation of human gingival fJ, et al. Genera integration-free induced pluripotent stem cells[J]. Biochem Biophys Res Commun , 2016,473(3):726-732.   \n[13] Yamanaka S.A fresh look at iPS cells[J].Cell,2009,137(1):13-17.   \n[14] Liu S-P,Fu R-H, Huang Y-C, et al. Induced pluripotent stem (iPS) cell research overview[J]. Cell Transplant, 2011:20(1):15-19.   \n[15] Li J, Song W,Pan G, Zhou J. Advances in understanding the cell types and approaches used for generating induced pluripotent stem cells[J]. J Hematol Oncol, 2014, 7(50):1-18.   \n[16] Li Y, Wang X, Feng X, et al. Generation of male germ cells from mouse induced pluripotent stem cells in vitro[J].Stem Cell Res,2014,12(2):517-530   \n[17] Tan H, Wang J-J, Cheng S-F,et al. Retinoic acid promotes the proliferation of primordial germ cell-like cells differentiated from mouse skin-derived stem cells in vitro[J]. Theriogenology 2016,85(3):408-418.   \n[18] Niederreither K, Dollé P. Retinoic acid in development: towards an integrated view[J].Nat Rev Genet, 2008,9(7):541-553.   \n[19] Kent T, Griswold MD. Checking the pulse of vitamin A metabolism and signaling during mammalian spermatogenesis[J]. J Dev.Biol. 2014,2:34-49.   \n[20] Koubova J, Hu Y-C, Bhatacharyya T, et al. Retinoic acid activates two pathways required for meiosis in mice[J].PLoS Genet,2014,10(8):e1004541.   \n[21] Costa JJ, Souza GB, Soares MA, et al.. In vitro diferentiation of primordial germ cells and oocyte-like cells from stem cells.Histol Histopathol, 2018,33(2):121-132   \n[22] Morita Y, Tilly JL. Segregation of retinoic acid effects on fetal ovarian germ cell mitosis versus apoptosis by requirement for new macromolecular synthesis[J]. Endocrinology, 1999,140(6):2696-2703.   \n[23]Zhang Y, Wang Y, Zuo Q,et al. Selection of the inducer for the diferentiation of chicken embryonic stem cells into male germ cels invitro[J].PLoS ONE,2016,11(10):e0164664.   \n[24] Geijsen N,Horoschak M,Kim K,et al. Derivation of embryonic germ cells and male gametes from embryonic stem cells[J]. Nature, 2004,427(6970):148-154.   \n[25] Li P, Hu H, Yang S, et al. Differentiation of induced pluripotent stem cells into male germ cels in vitro through embryoid body formation and retinoic acid or testosterone induction[J]. Biomed Res Int, 2013,2013:608728.   \n[26] Yang S,Yuan Q,Niu M,Hou J,Zhu Z,Sun M,et al. BMP4 promotes mouse iPS cell differentiation to male germ cells via Smad1/5,Gata4，Id1 and Id2. Reproduction 2017;153:211-20.   \n[27] Wozney JM.Overview of bone morphogenetic proteins.Spine 2002;27:2-8.   \n[28] He Z.Derivation of male germ cells from induced pluripotent stem (iPS) cells: a novel and crucial source for generating male gametes[J]. Asian J Androl,2012,14(4):516-517.   \n[29] Lochab AK，Extavour CG. Bone Morphogenetic Protein (BMP） signaling in animal reproductive system development and function[J]. Dev Biol,2017,427(2):258-269.   \n[30] Ying Y, Liu X-M, Marble A, et al. Requirement of Bmp8b for the generation of primordial germ cells in the mouse[J]. Mol Endocrinol, 2000,14(7):1053-1063.   \n[31] Ying Y,Qi X,Zhao G-Q.Induction of primordial germ cells from murine epiblasts by synergistic action of BMP4 and BMP8B signaling pathways[J]. Proc Natl Acad Sci USA, 2001,98(14):7858-7862.   \n[32] Kee K, Gonsalves JM, Clark AT,et al. Bone morphogenetic proteins induce germ cell differentiation from humanembryonicstemcells[J].StemCellsDev,2006,15(6):831-837.   \n[33] Panula S,Medrano JV, Kee K,et al. Human germ cell differentiation from fetal-and adult-derived induced pluripotent stem cells[J]. Hum Mol Genet,2011,20(4):752-762.   \n[34] Bucay N,Yebra M,Cirulli V, et al. A novel approach for the derivation of putative primordial germcellsandsertolicellsfromhumanembryonicstemcels[J].Stem Cells,2009,27(1):68-77.   \n[35] Park TS,Galic Z,Conway AE,et al. Derivation of primordial germ cells from human embryonic and induced pluripotent stem cells is significantly improved by coculture with human fetal gonadal cels[J]. Stem Cels 2009,27(4):783 - 795.   \n[36] Yu J, Vodyanik MA,Smuga-Oto K,et al. Induced pluripotent stem cell lines derived from human somatic cells[J].Science,2007,31(5858)8:1917- 1920.   \n[37] Hashimoto H,Yuasa S.Testosterone induces cardiomyocyte differentiation from embryonic stem cells[J].J Mol Cell Cardiol, 2013,62:69-71.   \n[38] Silva C,Wood JR,Salvador L, et al. Expression profile of male germ cell-associated genes in mouse embryonic stem cell cultures treated with all-trans retinoic acid and testosterone[J]. Mol Reprod Dev,2009,76(1):11-21.   \n[39] Narenji Sani R, Tajik P,Movahedin M, et al. Effect of follicle stimulating hormone and testosterone on viability rate of cryopreserved spermatogonial stem cell after thawing[J].Iran JVet SciTechnol,2013,5:26-34.   \n[40] Tajik P, Sani RN,Moezifar M, et al. Effect of follicle- stimulating hormone and testosterone on colony formation of bovine spermatogonial stem cell.Comp Clin Pathol 2014;23:901-906.   \n[41] Zanganeh BM, Rastegar T, Roudkenar MH, et al. Co-culture of spermatogonial stem cells with sertoli cells in the presence of testosterone and FSH improved differentiation via up-regulation of post meiotic genes[J]. Acta Med Iran,2013,51(1):1-11.   \n[42] Garget CE, Chan RW, Schwab KE. Hormone and growth factor signaling in endometrial renewal: role of stem/ progenitor cells[J]. Mol Cell Endocrinol,2008,288(1-2):22-29.   \n[43] Correia S,Alves MR, Cavaco JE, et al. Estrogenic regulation of testicular expression of stem cell factor and c-kit: implications in germ cell survival and male fertility[J]. Fertil Steril, 2014,102(1):299-306.   \n[44]Jeong W, Jung S, Bazer F, et al. Stem cell factor-induced AKT cell signaling pathway:effects on porcine trophectoderm and uterine luminal epithelial cells[J]. Gen Comp Endocrinol, 2017,250:113-121.   \n[45] Payer B,Saitou M,Barton SC,et al. Stella is a maternal effect gene required for normal early development in mice[J]. Curr Biol,2003,13 (23):2110-2117.   \n[46] Bendal SC,Hughes C, Campbel JL, et al.An enhanced mass spectrometry approach reveals human embryonic stem cell growth factors in culture. Mol Cell Proteomics， 2009, 8(3):421-432.   \n[47] Terskikh A, Bajpai R. Methods for culture and production of single cell populations of human embryonic stem cells (HESCS), Google Patents, 2017.   \n[48] Bahadorani M,Hosseini SM,Abedi P, et al, Nasr-Esfahani MH.Glial cell line-derived neurotrophic factor in combination with insulin-like growth factor 1 and basic fibroblast growth factor promote in vitro culture of goat spermatogonial stem cells[J].Growth Factors, 2015,33:181-191.   \n[49] Wang H, Xiang J, Zhang W, et al. Induction of germ cel-like cells from porcine induced pluripotent stem cells[J]. Sci Rep,2016,6:27256.   \n[50] Boozarpour S,Matin MM, Momeni-Moghaddam M,et al. Glial cell derived neurotrophic factor induces spermatogonial stem cell marker genes in chicken mesenchymal stem cells[J].Tissue Cell,2016,48(3):235-241.   \n[51] Kang L,Wang J, Zhang Y, et al. iPS cels can support fullterm development of tetraploid blastocyst-complemented embryos. Cell Stem Cell, 2009, 5:135-138.   \n[52] NayerniaK， LeeJ H, DrusenheimerN,et al. Derivation of male germ cels from bone marrow stem cells. Laboratory Investigation, 2006, 86(7): 654-663.   \n[53] DyceP W， Wen L， Li J. In vitro germlinepotential ofstemcells derived from fetalporcine skin. Nature Cell Biology， 2006， 8(4):384-390.   \n[54] Zhao X Y, Li W,Lü Z，et al. iPS cels produce viable mice through tetraploid complementation. Nature, 2009, 461(7260):86-90   \n[55] Kerkis A, Fonseca S A, Serafim R C,et al. Invitrodifferentiation ofmale mouse embryonicstemcellsintobothpresumptive sperm cells and oocytes. Cloning Stem Cells, 2007, 9(4):535-548.   \n[56] Toyooka Y,Tsunekawa N,Akasu R, et al. Embryonic stem cells can formgermcellsin vitro. Proceedingsof the National Academyof Sciences，2003，100(20): 11457-11462.   \n[57] BowlesJ, KoopmanP.Retinociacid, meiosis andgermcell fate in mammals.Development, 2007,134(19):3401-3411.   \n[58] BowlesJ， Knight D， Smith C， et al. Retinoidsignalingdetermines germ cell fate in mice.Science,2006,312:596-600.   \n[59] Pellegrini M, Grimaldi P, Rossi P, et al. Developmental expression of BMP4/ALK3/SAMD5 signalling pathway in the mouse testis:apotential role of BMP4 in spermatogonia differentiation. Journal of Cell Science, 2003,116: 3363-3372.   \n[60] WestFD， Roche-RiosMI， Abraham S,et al. KIT ligand and bone morphogenetic proteinsignalingenhanceshumanembryonic stem cell to germ-like cell differentiation. Human Reproduction,2010,25(1):168-178. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,219 @@
+# DOI:10.5846/stxb201510031998
+
+韩春雪，刘廷玺，段利民，吕扬，闫雪，李凯旋.科尔沁沙地两种植被类型土壤呼吸动态变化及其影响因子.生态学报,2017,37（6):194-2004.HanCX,LiulsetdSandyLand.Acta Ecologica Sinica,2017,37(6):1994-2004.
+
+# 科尔沁沙地两种植被类型土壤呼吸动态变化及其影响因子
+
+韩春雪，刘廷玺＊，段利民，吕扬，闫雪，李凯旋内蒙古农业大学水利与土木建筑工程学院，呼和浩特 010018
+
+摘要;以科尔沁沙丘-草甸相间地区为研究区,运用LI-6400土壤呼吸配套系统对沙丘-草甸过渡带人工杨树林和固定沙丘小叶锦鸡儿群落土壤呼吸及其相关因子进行观测,结果表明，(1)生长期和生长末期人工杨树林保留和去除枯枝落叶土壤呼吸的日变化表现为"多峰型”。（2)人工杨树林和小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸的季变化峰值均出现在8月份,人工杨树林的土壤呼吸明显大于小叶锦鸡儿群落的土壤呼吸。（3)人工杨树林土壤呼吸的季变化与0— $1 0 \mathrm { { c m } }$ 土壤温度相关显著（ $P { < } 0 . 0 1 \$ ),保留枯枝落叶土壤呼吸小于去除枯枝落叶。（4)小叶锦鸡儿群落土壤呼吸的季变化与0一 $1 0 \mathrm { { c m } }$ 土壤含水量相关显著 $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ ),与人工杨树林不同,保留枯枝落叶土壤呼吸大于去除枯枝落叶。（5)人工杨树林土壤呼吸与土壤温度显著呈指数关系,小叶锦鸡儿群落土壤呼吸与土壤含水量显著呈幂函数关系,并运用归一化法,通过建立土壤呼吸 $\mathrm { L n } R _ { s }$ 与土壤温度 $T$ 土壤含水量 $\mathrm { L n } \theta$ 的双因子回归模型,得出土壤温度和土壤含水量分别对保留和去除枯枝落叶土壤呼吸的贡献率。
+
+关键词;科尔沁沙地沙丘-草甸相间地区；枯枝落叶；土壤呼吸；土壤温度；土壤含水量
+
+# Dynamic changes in soil respiration of two vegetation types and their influencing factors in Horqin Sandy Land
+
+HAN Chunxue，LIU Tingxi\*，DUAN Limin，LU Yang，YAN Xue，LI Kaixuan WaterConservancyand Civil Engineering Collge，Inner Mongolia Agricultural University，Hohhot Oloo18,China
+
+Abstract：ThesoilrespirationandrelatedcorelationfactorsofanartificialpoplarforestintheHorqin SandyLand-meadow transitionalzoneanda Caragana microphyllcommunityinafixeddune wereobserved inthis studyusingtheLI-640O soilrespiration supporting system.Results demonstrated the folowing fivephenomena.（1）Daily changes inreserved and removedliterfromtheartficial poplar forest during thegrowthandlate-growth periods have multiplepeaks.（2）Seasonal peaks of reserved litter and removed litter appear in August for the artificial poplar forest and the $\boldsymbol { C }$ . microphylla community. Soil respiration of the artificial poplar forest is much higher than that of the $\boldsymbol { C }$ .microphylla community.（3）Seasonal changes ofsoilrespiration intheartificialpoplarforestaresignificantlycorelated withthesoil temperature（O—1Ocmfrom the surface）（ $P { < } 0 . 0 1$ ). Changes in the reserved litter are smaller than changes in the removed litter.（4）Seasonal changes of soil respiration of the $C$ 、microphylla community are significantly correlated with soil moisture content （O—1O cm from the surface）( $P { < } 0 . 0 1 \$ ).Unlike soil from the artificial poplar forest，changes in the reserved litter are larger than those in the removed liter.（5）Thesoilrespirationof theartificial poplar forest isexponentiallycorrelatedwithsoil temperature, whereas soil respiration of the $C$ ，microphylla community has a significant power function relationship with the soil moisture content.By establishing a two-factor regression model of soil respiration ( $( \ln R _ { s }$ ）versus soil temperature $( T )$ and soil water content $( \ln \theta )$ ），contributionsof soil temperature and soil moisture content to reserved liter and removed litter were determined using the normalization method.
+
+Key Words:Horqin sandy land； litter； soil respiration；soil temperature；soil water content
+
+土壤呼吸是大气 $\mathrm { C O } _ { 2 }$ 的重要排放源,也是全球陆地生态系统碳循环的重要组成部分,在区域和全球尺度上对大气 $\mathrm { C O } _ { 2 }$ 浓度调控起着十分关键的作用[1],其有机碳储存量达 $1 5 0 0 \mathrm { P g ~ C ~ }$ ,占整个陆地生态系统碳储量的$6 7 \% ^ { [ 2 ] }$ ,土壤呼吸作用的微小改变都将引起大气 $\mathrm { C O } _ { 2 }$ 浓度的明显改变,从而影响全球气候[3]。
+
+干旱半干旱地区占据了地球表面的2/5以上[4],土壤呼吸也是干旱半干旱地区土壤碳损失的主要过程之」[5],并且因为相对较少的土壤有机碳含量,土壤呼吸成为对气候变化最敏感的一个生态系统特征[6]。土壤呼吸是一个复杂的生物化学过程,即受到非生物因子的影响也受到生物因子和人类活动的综合影响[7-8]。有研究表明土壤温度和土壤含水量能解释土壤呼吸大部分的变异[9],当土壤含水量不是限制条件时,土壤呼吸主要受土壤温度的控制，而当受到土壤含水量胁迫时，土壤呼吸的变化在温度的驱动下受土壤含水量控制[10]。枯枝落叶位于土壤表层,也是影响土壤呼吸的另一关键因子,其数量及其分解速率在很大程度上影响着土壤有机质的形成和对植物养分的供应,或通过影响水热因子,土壤环境以及微生物种类和数量,直接或间接地影响土壤碳通量[1-14]。Raich 和 Nadehoffer[15]、田祥宇等[16]、周小刚等[17]分析得到去除枯枝落叶使土壤呼吸明显降低。但陈四清等[18]、骆土寿等[19]、王丽丽等[20]分析得到枯枝落叶对土壤呼吸起屏蔽作用,进而使土壤呼吸降低。干旱半干旱地区关于土壤呼吸的研究较少,有关枯枝落叶对土壤呼吸的影响研究更少,至今仍没有相关研究量化科尔沁地区土壤呼吸，以及相关影响因素对土壤呼吸的贡献。
+
+本文以科尔沁沙丘-草甸相间地区沙丘-草甸过渡带人工杨树林和固定沙丘天然小叶锦鸡儿群落为研究对象,分析保留和去除枯枝落叶土壤呼吸的变化特征,模拟分析土壤温度、土壤含水量对保留和去除枯枝落叶土壤呼吸的影响关系。本研究估算了同一区域不同植被类型土壤碳排放量和枯枝落叶对土壤呼吸的贡献，了解土壤温度、土壤含水量对土壤呼吸的影响以及变化机理,为干旱半干旱地区不同植被类型土壤碳库管理提供理论依据。
+
+# 1材料和方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古自治区通辽市科尔沁左翼后旗阿古拉镇,地理坐标 $1 2 2 ^ { \circ } 3 3 ^ { \prime } 0 0 ^ { \prime \prime } - 1 2 2 ^ { \circ } 4 1 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { E } , 4 3$ $4 3 ^ { \circ } 1 8 ^ { \prime }$ $4 8 ^ { \prime \prime } .$ 一 $4 3 ^ { \circ } 2 1 ^ { \prime } 2 4 ^ { \prime \prime } \mathrm { N }$ ,面积 $5 5 \mathrm { k m } ^ { 2 }$ ,地处科尔沁沙地东南缘，境内海拔最高 $2 3 2 \mathrm { m }$ ,最低 $1 8 6 \mathrm { m }$ 。区内沙丘、农田、草甸、湖泊相间分布,为典型的沙丘-草甸相间地区。该区年平均降水量 $3 8 9 ~ \mathrm { m m }$ ,且主要集中在6一9四个月；年平均蒸发量 $1 4 1 2 \mathrm { m m }$ ,且主要集中在4一9月，5月蒸发量最大；年平均相对湿度 $5 5 . 8 \%$ ;年平均气温 $6 . 6 \% , 7$ 月月平均气温最高，为 $2 3 . 8 \mathrm { { ^ { \circ } C } }$ ,年极端最低气温为 $- 3 3 . 9 \mathrm { { ^ { \circ } C } }$ ,年极端最高气温 $3 6 . 2 \mathrm { ^ { \circ } C }$ ;年平均风速3- $4 \mathrm { m / s }$ ,7-9月风速最小。区内植被群落简单,物种多样性较差。主要植物有差巴嘎蒿（Artemisia halodendron Turcz.etBess.）沙蓬（Agriophyllum squarosum（L.）Moq.）、羊草（Leymus chinensis（Trin.）Tzvel.）、三芒草（Aristidaadscensionis Linn）、少花蒺藜草（Cenchrus pauciflorus Benth）、冷蒿（Artemisia frigida Willd.Sp.Pl）、芦苇（Phragmites australis（Cav）Trin ex Steud.）、黄柳（Salix gordejevii Chang et SkV.）、小叶锦鸡儿（Caraganamicrophylla）、榆树（Ulmus pumila L.）、杨树（Populus L.)等,植物生长主要依赖天然降水,草甸地部分湿生植被还依赖地下水。区内沙丘地带性土壤和非地带性土壤广泛发育,交错分布,砂土、砂壤土与壤砂土是主要的土壤类型。研究区地理位置见图1。
+
+本文选择沙丘-草甸过渡带低缓沙丘人工杨树与固定沙丘小叶锦鸡儿这两种植被类型区为研究对象,对人工杨树林和小叶锦鸡儿群落选定的调查样方内植被抽样调查显示,人工杨树林树龄介于22—28年,平均为25 年,树高平均为 $1 1 . 9 \mathrm { m }$ ,胸径平均为 $1 1 . 2 \mathrm { c m }$ ,树的株距与行距变化在2- $\cdot 3 \mathrm { m }$ 不等间距。人工杨树林内尚分布有其他低矮乔木与草本植物,乔木主要有构树（Broussonetia papyrifera（Linn.） $\mathbf { L } ^ { \prime }$ Hér.ex Vent.）、稠李（Prunus padus L.）等；草本主要有水蒿（Artemisia selengensis Turcz.ex Bess.）、角蒿（Incarvillea sinensis.Lamarck）小飞蓬（Conyza canadensis（L.）Cronq.）等;盖度约 $20 \%$ 左右,枯枝落叶厚度在 $1 . 2 { - } 2 . 1 \mathrm { c m }$ ,平均为$1 . 6 \mathrm { c m }$ ,现存量为 $6 7 2 . 6 \mathrm { g } / \mathrm { m } ^ { 2 }$ ， $5 1 8 . 3 \mathrm { g } / \mathrm { m } ^ { 2 }$ 为未分解,腐殖质层平均厚度约 $5 \mathrm { c m }$ 。地下水位埋深为 $0 . 9 9 6 \mathrm { m }$ ,地表高程为 $1 9 4 . 3 2 \mathrm { m }$ 。小叶锦鸡儿群落为2一5年生，灌丛高平均为 $2 . 2 \mathrm { m }$ ,根茎多变化在 $0 . 8 9 { - } 1 . 6 9 \mathrm { c m }$ 之间,丛间距多小于 $2 . 5 \mathrm { m }$ ,株丛间尚分布有大籽蒿（Artemisia sieversiana Ehrhart ex Wild.）、狗尾巴草（Setaria viridis（L.）Beauv.）叉分蓼（Polygonum divaricatumL.）等植物,盖度约 $1 3 \%$ 左右,灌丛下枯枝落叶厚度一般在0.5—$0 . 9 \mathrm { c m }$ ,未分解,现存量为 $1 0 4 . 5 \mathrm { g } / \mathrm { m } ^ { 2 }$ ,没有腐殖质层,地下水位埋深为 $3 . 7 9 \mathrm { m }$ ,地表高程为 $1 9 4 . 5 9 \mathrm { m }$ 。样方内土壤理化性质及其它相关信息见表1。
+
+![](images/e037ce2cacd1b2f3aff430c1ffc634169b0ac34e829fc4652ef102c429e670b3.jpg)  
+图1研究区地理位置、地貌类型与土壤呼吸采样点分布
+
+Fig.1Geographic position，geomorphic type,and distribution of soil-respiration sampling site inthe research area
+
+表1人工杨树林和小叶锦鸡儿群落的基本信息  
+
+<html><body><table><tr><td colspan="8">Table 1 Basic information of artificial poplar forest and Caragana microphylla community</td></tr><tr><td>植被类型 Vegetation</td><td>土壤类型 Soil type</td><td>土壤有机质 Soil organic matter/ （g/kg)</td><td>全氮TN/ （g/kg)</td><td>全磷TP/ （g/kg)</td><td>全钾TK/ （g/kg)</td><td>pH</td><td>植被根系量 Vegetation root amount/ (g/0.5x0.5m2×0.2m)</td></tr><tr><td>人工杨树林 Artificial poplar forest</td><td>壤砂</td><td>3.06</td><td>1.49</td><td>0.091</td><td>22.83</td><td>8.0</td><td>72.13</td></tr><tr><td>小叶锦鸡儿群落 Caraganamicrophylla community</td><td>砂土</td><td>2.09</td><td>0.63</td><td>0.063</td><td>28.79</td><td>7.8</td><td>18.21</td></tr></table></body></html>
+
+土壤取样深度为 $_ { 0 - 1 0 \mathrm { c m } }$ ，所给数据为平均值
+
+# 1.2实验设置
+
+如图2,在人工杨树林内围绕安装数据采集器(Campbell)的自动气象站选取 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的样方,其内布设4个土壤呼吸测点,4个测点形成一个近似边长为 $1 0 \mathrm { m }$ 的正方形,每个点上并排放置两个自制的PVC 塑料圈，共8个(内径 $1 0 \mathrm { { c m } }$ ，高 $7 \mathrm { c m }$ ，厚 $5 \mathrm { m m }$ )。每组PVC 塑料圈一个里面去掉枯枝落叶,另一个保留枯枝落叶。同样在小叶锦鸡儿群落围绕安装数据采集器（Campbell）的自动气象站选取 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的样方，在样方内选择边长约 $4 \mathrm m$ 成近似等边三角形分布的3棵小叶锦鸡儿灌丛，其内布设3个土壤呼吸测点，每个测点在距离相近小叶锦鸡儿灌丛根部 $ { 1 \mathrm { m } }$ 的位置相邻放置两个PVC塑料圈，一个去掉枯枝落叶,另一个保留枯枝落叶,塑料圈均放置在小叶锦鸡儿灌丛的冠幅内，共6个（内径 $1 0 \mathrm { { c m } }$ ，高$7 \mathrm { c m }$ ，厚 $5 \mathrm { m m }$ ）。
+
+# 1.3 测定方法
+
+2014年5—10月，在人工杨树林和小叶锦鸡儿群落布设的土壤呼吸测点，用LI-6400便携式气体分析系统（Li-Cor Inc.，NE，USA)和LI-6400-09 土壤呼吸室对土壤呼吸进行测定，每月测1一2次。每次测量时间为8：00—18；00，人工杨树林和小叶锦鸡儿群落的测量步长分别为2h和 $ { 1 \mathrm { h } }$ 。整个测量期间均保持PVC塑料圈位置不变,并在每次测量前24h 对塑料圈内的绿色植物齐地剪除,对去掉枯枝落叶的塑料圈内的其他杂物一并去除。同时用便携式土壤水分测定仪（Diviner2000,Sentek,Australia)测定每个测点 $1 0 \mathrm { { c m } }$ 深度内的平均土壤含水量。利用LI-6400自带的土壤热电偶探针测量 $1 0 \mathrm { { c m } }$ 深处的土壤温度。此外,针对人工杨树林,在生长期8月和生长末期10月还进行了24h的连续观测,每2h测定1次。年度土壤呼吸实验结束后对各测点枯枝落叶的厚度进行测定，试验全部结束后，在放置土壤呼吸PVC圈的周围采取 $5 0 { \times } 5 0 \mathrm { c m } ^ { 2 } { \times } 2 0 \mathrm { c m }$ 的土样,计算根系量。
+
+![](images/050aa53dc7d628fd6302281c8ed52f702e8164b7f4a59611308ed73c6833c30c.jpg)  
+图2两种植被(人工杨树林(A)、小叶锦鸡儿群落(B))土壤呼吸测试样方布设示意图  
+Fig.2Layout of test sample plots of soil respiration in the artificial poplar forest（A）and Caragana microphylla community (B)
+
+# 1.4数据处理与分析
+
+以同一植被类型为基本单位,将3个(小叶锦鸡儿群落)或4个(人工杨树林)重复样点观测的所有要素进行平均,获得1h或2h的平均值，用于分析两种植被类型区土壤呼吸及其环境要素的日内变化特征。将小时数据进行平均,获得日平均值,将每个月的日平均值再次平均获得月平均值,用于分析两种植被类型区土壤呼吸及其环境要素的月变化。
+
+用土壤呼吸与土壤温度建立指数模型[21]：
+
+$$
+R _ { s } = a \mathrm { e } ^ { b T }
+$$
+
+式中， $R _ { \mathrm { s } }$ 为平均土壤呼吸 $\mathrm { ( } \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ）， $T$ 为平均土壤温度 $( \mathcal { C } ) , a , b$ 为正常数。 $Q _ { 1 0 }$ 为土壤呼吸的温度敏感性指标,是指某一温度下土壤的呼吸速率与低于该温度 $1 0 ^ { \circ } \mathrm { C }$ 下土壤呼吸的比值。一般由下式确定[22]：
+
+$$
+Q _ { 1 0 } = \mathrm { e } ^ { 1 0 b }
+$$
+
+用土壤呼吸与土壤含水量建立幂函数模型：
+
+$$
+R _ { s } = c \mathbf { e } ^ { d }
+$$
+
+式中， $R _ { \mathrm { s } }$ 为平均土壤呼吸 $\mathrm { ( \mu m o l \ m ^ { - 2 } s ^ { - 1 } }$ ）, $\theta$ 为平均土壤体积含水量 $( \% )$ ， $\textit { c } , d$ 为正常数, $1 { > } \mathrm { d } { > } 0$ 。部分学者[23-24]采用二次曲线模型模拟土壤呼吸与土壤含水量的关系,考虑到研究区小叶锦鸡儿群落受土壤含水量的胁迫影响,不能达到土壤含水量对土壤呼吸作用的极限情况,且通过两种模型模拟精度的比较表明,保留和去除枯枝落叶土壤呼吸与土壤含水量的二次曲线模型 $R ^ { 2 }$ 分别为0.838、0.769，幂函数模型 $R ^ { 2 }$ 分别为0.778、0.708，两种模型的决定系数相差不大,为便于统一与双因子回归模型进行对比分析,本文选择精度略低的幂函数模型来模拟土壤呼吸与土壤含水量的关系。
+
+由式(1）式(3)可以看出， $\mathrm { L n } R _ { s }$ 与 $T , \mathrm { L n } \theta$ 成线性关系,为了分离土壤温度 $T$ 、土壤含水量 $\theta$ 对土壤呼吸 $R _ { s }$ 的贡献率,选用以下双因子回归模型进行分析：
+
+http://www.ecologica.cn
+
+$$
+\mathrm { L n } R _ { s } ^ { \ast } = \gamma + \alpha ^ { \ast } T + \beta \mathrm { L n } ^ { \ast } \theta
+$$
+
+为了得到双因子回归模型中土壤温度和土壤含水量对土壤呼吸的贡献,对 $\ln { R _ { s } } , \ T , \ln \theta$ 变量进行归一化计算,采用下式：
+
+$$
+Y ^ { \ast } ~ = ~ ( ~ Y - Y _ { \operatorname* { m i n } } ) / ( ~ Y _ { \operatorname* { m a x } } - Y _ { \operatorname* { m i n } } )
+$$
+
+式中， $\mathrm { ~ , ~ l n ~ } R _ { s } ^ { \mathrm { ~ * ~ } } \mathrm { ~ , ~ } T ^ { * } \mathrm { ~ , ~ l n ~ } \theta ^ { * }$ 分别为土壤呼吸的对数 $\mathrm { L n } R _ { s }$ 、土壤温度 $T$ 、土壤含水量的对数 $\ln \theta$ 的归一化变量， $\gamma$ 为 拟合常数， $\alpha \mathcal { \beta }$ 分别为土壤温度 $T$ 、土壤含水量 $\theta$ 的贡献系数。 $Y ^ { \ast }$ 为归一化变量值, $Y , Y _ { \mathrm { m i n } } \setminus Y _ { \mathrm { m a x } }$ 为原变量的试 验值、最小试验值、最大试验值。
+
+# 2结果和分析
+
+2.1人工杨树林土壤呼吸以及影响因素的日变化动态
+
+在植被不同生长期内土壤呼吸及土壤温度的日变化曲线存在一定差异，土壤呼吸的日变化曲线表现为“多峰型”（图3）。人工杨树林在生长期8月20号,保留和去除枯枝落叶土壤呼吸分别在16:00、12:00 出现最大值,在24:00.8:00 出现最小值;保留枯枝落叶土壤呼吸在6:00、22:00 出现明显次峰值;去除枯枝落叶土壤呼吸在 $2 : 0 0 \ldots 6 : 0 0 \ldots 2 0 : 0 0$ 出现明显次峰值。人工杨树林在生长末期10月2号,保留和去除枯枝落叶土壤呼吸分别在18:00、20:00 出现最大值,均在4:00 出现最小值;保留枯枝落叶土壤呼吸在12:00 出现明显次峰值;去除枯枝落叶土壤呼吸在2:00、10:00 出现明显次峰值。去除枯枝落叶土壤呼吸在1d内始终大于保留枯枝落叶,并且保留和去除枯枝落叶土壤呼吸日变化的平均值,生长期8月 20 号的 $8 . 0 9 7 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 、（204号 $1 1 . 8 7 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 大于生长末期10月份的 $2 . 9 5 2 \mu \mathrm { m o l ~ m } ^ { - 2 } \mathrm { s } ^ { - 1 } \ 、 4 . 4 2 9 \mu \mathrm { m o l ~ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 。
+
+对日变化的土壤呼吸与土壤温度进行了相关分析，结果如表2。生长期8月20日保留和去除枯枝落叶土壤呼吸与前移2h的土壤温度相关性最强( $_ { | P < 0 . 0 5 ) }$ ,生长末期10月2日保留和去除枯枝落叶土壤呼吸分别与前移 $2 \mathrm { h } ( P { < } 0 . 0 5 )$ 和无滞后( $P { > } 0 . 0 5 )$ 的土壤温度相关性最强。按照相关系数最大的滞后或者前移时间，绘制出人工杨树林保留和去除枯枝落叶土壤呼吸随土壤温度的变化过程,如图4,可以看出,随着土壤温度的升高,保留和去除枯枝落叶的土壤呼吸都是增大的,土壤温度最多能解释土壤呼吸的 $5 2 . 9 \%$ 。
+
+![](images/84348edf3feeb81e0102773bebc3ef54d17982495e2ef5631e246c7c9481e6cb.jpg)  
+图3人工杨树林去除和保留枯枝落叶土壤呼吸与土壤温度的日动态变化
+
+ig.3Dailydynamicchangesof Removed literandReserved literofartificialpoplarforestagainstsoil temperat
+
+表2人工杨树林日土壤呼吸与不同前移、滞后时间土壤温度的相关系数  
+bleCoelationcoefentofdailsilesprationofartfalpoplarforestwithsoiltmperatureuderdiferntforwardddelat   
+
+<html><body><table><tr><td rowspan="2">日期(月-日) Date(Month-day)</td><td rowspan="2">处理方式 Process mode</td><td colspan="5">相关系数 Correlation coefficient</td></tr><tr><td>无滞后 On time</td><td>滞后2h 2h delay</td><td>滞后4h 4h delay</td><td>前移2h 2h forward</td><td>前移4h 4h forward</td></tr><tr><td>08-20</td><td>保留枯枝落叶</td><td>0.434</td><td>0.075</td><td>-0.472</td><td>0.649 *</td><td>0.573</td></tr><tr><td rowspan="3">10-02</td><td>去除枯枝落叶</td><td>0.447</td><td>0.110</td><td>-0.225</td><td>0.597 *</td><td>0.321</td></tr><tr><td>保留枯枝落叶</td><td>0.601 *</td><td>0.371</td><td>0.183</td><td>0.694 *</td><td>0.455</td></tr><tr><td>去掉枯枝落叶</td><td>0.561</td><td>0.395</td><td>0.069</td><td>0.544</td><td>0.255</td></tr></table></body></html>
+
+$\ast$ 表示相关性在0.05水平上显著
+
+![](images/6e3d14ea141cdfd53f04805d2941a4ae880085ec22738c2c4abe003bbcbffb6b.jpg)  
+图4人工杨树林去除 $( y _ { 1 } )$ 、保留 $\left( { { y } _ { 2 } } \right)$ 枯枝落叶日土壤呼吸随土壤温度的变化  
+Fig.4DailychangesofRemoved litter $\left( { { y } _ { 1 } } \right)$ and Reserved litter $\left( { { y } _ { 2 } } \right)$ of artificial poplar forest against soil temperature
+
+# 2.2土壤呼吸以及影响因素的月变化动态
+
+人工杨树林和小叶锦鸡儿群落生长季的土壤呼吸波动较大（图5)。就人工杨树林,8月20 号保留和去除枯枝落叶土壤呼吸同时达到最大值,分别为8.10、 $1 1 . 8 7 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,在整个生长季去除枯枝落叶土壤呼吸始终大于保留枯枝落叶,二者的相关性非常显著( $P { < } 0 . 0 1 \rangle$ 。就小叶锦鸡儿群落,8月13号保留和去除枯枝落叶土壤呼吸达到最大值,分别为 $8 . 4 3 \mathrm { ~ } . 6 . 9 7 \mu \mathrm { m o l } \mathrm { ~ } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 。与人工杨树林不同,整个生长季保留枯枝落叶土壤呼吸始终大于去除枯枝落叶，并且二者的相关性极其显著( ${ \cdot } P { < } 0 . 0 1 { \rangle }$ 。在整个观测期,人工杨树林保留和去除枯枝落叶土壤呼吸平均值( $\left( 5 . 8 2 \ 、 7 . 7 5 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 } \right)$ )大于小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸平均值（204号 $( 5 . 8 0 \ 、 4 . 6 7 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 } )$ 。
+
+人工杨树林保留和去除枯枝落叶土壤呼吸与土壤温度的相关程度更高,小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸与土壤含水量的相关程度更高(表3)。对生长季人工杨树林保留和去除枯枝落叶土壤呼吸与土壤温度进行指数模型拟合,对生长季小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸与土壤含水量进行幂函数拟合,其土壤温度对人工杨树林保留和去除枯枝落叶土壤呼吸解释的变异系数,土壤含水量对小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸解释的变异系数,一并列入表4,人工杨树林保留枯枝落叶土壤呼吸的 $Q _ { 1 0 }$ 值2.97大于去除枯枝落叶土壤呼吸的 $Q _ { 1 0 }$ 值2.60(表4）。又进一步分析土壤温度和土壤含水量对土壤呼吸的共同作用,对各变量进行归一化处理后,得到的土壤呼吸与土壤温度和土壤含水量的双因子回归模型结果如表5,其模拟效果比单因子回归模型更好,双因子回归模型中变量前的系数即为该变量对土壤呼吸的贡献率。
+
+# 3讨论
+
+3.1土壤呼吸的日变化特征与土壤温度的相关性针对人工杨树林,对比两次土壤呼吸的日变化,生长期8月 20 日保留和去除枯枝落叶土壤呼吸大于生长末期10月2日保留和去除枯枝落叶土壤呼吸,这主要是由于8月的水热条件较好,根系呼吸强,微生物活动活跃[25]。两次土壤呼吸日变化最值出现的时间也有所差异,这是由于不同季节土壤呼吸日变化可能受到季节变化显著的土壤有机碳含量和植物物候期等因素的影响[26],从而使两次土壤呼吸日变化表现出不同的模式。两次土壤呼吸均表现为“多峰型”曲线,这一结果与骆土寿[19,27]日变化比较复杂的研究结果相似,可能是由于人工杨树林为壤砂土,有机质含量较低,地下水位埋深较浅,较易受到外界影响因子的影响所致。亦或是一天中土壤温度与土壤含水量在不同时期交替作为主导因子来影响呼吸速率,同时土壤温度和土壤含水率的垂直变化也会对根系和土壤微生物产生影响，这也可能是导致土壤呼吸与土壤温度出现不同前移或滞后现象的原因。8月20日保留和去除枯枝落叶土壤呼吸均与前移2小时 $1 0 \mathrm { { c m } }$ 土壤温度的相关性最好，而10月2日保留和去除枯枝落叶土壤呼吸与 $1 0 \mathrm { { c m } }$ 土壤温度的相关性表现不一致，并且土壤温度对土壤呼吸日变化的解释程度不高（如图4),这也进一步说明土壤温度以外的其他因素对土壤呼吸的影响也是很关键的。Pierot[28]解释土壤含水量虽然在一天中的变化不明显,但是对微生物的活动有主要的影响,从而间接影响着土壤呼吸。马文瑛[29]认为在整个生长季0—60cm土壤水热状况是主要的影响因素,其次是土壤表层的环境因子（温、湿度以及风速的影响),最后为太阳辐射。在图4中,按照相关系数最大的滞后或者前移时间,绘制了人工杨树林保留和去除枯枝落叶土壤呼吸与土壤温度的指数关系,发现保留枯枝落叶的土壤呼吸均达到显著水平,而去除枯枝落叶的土壤呼吸均未达到显著水平,这是由于枯枝落叶有保温和吸持水的能力[37-38],塑造良好的呼吸环境,且可以减弱外界因素(如风速、人为因素等)对土壤呼吸的十扰。
+
+![](images/b53c53eaaeff804c8ad7953404095b33f7365d9765a03b31d836ed4b98384767.jpg)  
+图5去掉和保留枯枝落叶土壤呼吸与土壤温度、土壤含水量的月变化  
+Fig.5Monthly changes of Removed liter and Reserved litter against soil temperature and soil moisture conten
+
+Table3CorelatioftheemovedlierndReseredlieroftoegetationtypeswithtesoiltemperaurendslmoisurecotet   
+
+<html><body><table><tr><td>植被类型</td><td>处理方式 Process mode</td><td>10cm土壤温度 10cm soil temperature</td><td>10cm土壤含水量 10cm soil moisture content</td></tr><tr><td>Vegetation</td><td></td><td>0.903 **</td><td>0.532</td></tr><tr><td>人工杨树林</td><td>去除枯枝落叶 保留枯枝落叶</td><td>0.944**</td><td>0.607 *</td></tr><tr><td>Artificial poplar forest 小叶锦鸡儿群落</td><td>去除枯枝落叶</td><td>0.215</td><td>0.796 **</td></tr><tr><td>Caragana microphylla community</td><td>保留枯枝落叶</td><td>0.180</td><td>0.853**</td></tr></table></body></html>
+
+$\ast$ 表示相关性在0.05水平上显著， $* *$ 表示相关性在0.01水平上显著
+
+表3两种植被类型去掉和保留枯枝落叶土壤呼吸与土壤温度、土壤含水量的相关性  
+表4两种植被类型去掉和保留枯枝落叶土壤呼吸与土壤温度、土壤含水量的单因子回归模型  
+Table 4Single-factor regression model of the correlation of ln ${ \pmb R } _ { s }$ with $T$ and In 0   
+
+<html><body><table><tr><td>植被类型</td><td>处理方式 Process mode</td><td>模型类型</td><td>a</td><td>b</td><td>C</td><td>d</td><td>R²</td><td>P<</td><td>Q10</td></tr><tr><td>人工杨树林 Artificial poplar forest</td><td>去除枯枝落叶</td><td>指数</td><td>1.363 (0.11)</td><td>0.095 (0.17)</td><td></td><td></td><td>0.858</td><td>0.01</td><td>2.60 (0.16)</td></tr><tr><td>小叶锦鸡儿群落</td><td>保留枯枝落叶</td><td>指数</td><td>0.799 (0.18)</td><td>0.109 (0.21)</td><td></td><td></td><td>0.908</td><td>0.01</td><td>2.97 (0.18)</td></tr><tr><td>Caragana microphylla</td><td>去除枯枝落叶</td><td>幂函数</td><td></td><td></td><td>2.726 (0.23)</td><td>0.536 (0.15)</td><td>0.708</td><td>0.01</td><td></td></tr><tr><td>community</td><td>保留枯枝落叶</td><td>幂函数</td><td></td><td></td><td>3.264 (0.19)</td><td>0.575 (0.20)</td><td>0.778</td><td>0.01</td><td></td></tr></table></body></html>
+
+数值 $\ c =$ 平均值(标准偏差)
+
+表5两种植被类型归一化处理后土壤呼吸 $\mathbf { l n } R _ { s }$ 与土壤温度 $T$ 和土壤含水量 $\mathbf { l n } \pmb { \theta }$ 的双因子回归模型  
+Table 5Two-factor regression model of the correlation of In ${ \pmb R } _ { s }$ with $T$ and In $\pmb \theta$ after normalization   
+
+<html><body><table><tr><td>植被类型</td><td>P处理方式</td><td></td><td>β</td><td></td><td>R²</td><td>P</td></tr><tr><td>人工杨树林</td><td>去除枯枝落叶</td><td>0.881(0.03)</td><td>0.155(0.07)</td><td>-0.0326(0.03)</td><td>0.872</td><td><0.01</td></tr><tr><td>Artificial poplar forest</td><td>保留枯枝落叶</td><td>0.846(0.06)</td><td>0.223(0.11)</td><td>0.070(0.07)</td><td>0.938</td><td><0.01</td></tr><tr><td>小叶锦鸡儿群落</td><td>去除枯枝落叶</td><td>0.181(0.05)</td><td>0.716(0.1)</td><td>0.171(0.07)</td><td>0.748</td><td><0.01</td></tr><tr><td>Caragana microphyllacommunity</td><td>保留枯枝落叶</td><td>0.116(0.05)</td><td>0.749(0.06)</td><td>0.193(0.09)</td><td>0.812</td><td><0.01</td></tr></table></body></html>
+
+数值 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 平均值(标准偏差)
+
+3.2土壤呼吸的月变化特征与土壤温度和土壤含水量的相关性
+
+根据相关性分析,分别用指数模型对人工杨树林保留和去除枯枝落叶的土壤呼吸和土壤温度进行了模拟分析,用幂函数模型对小叶锦鸡儿群落保留和去除枯枝落叶的土壤呼吸与土壤含水量进行了模拟分析。温度是影响土壤呼吸的一个非常重要环境因子[21],主要通过影响微生物活性以及植物根系生长进而影响土壤呼吸[30]。人工杨树林表层土壤由于枯枝落叶的常年积累,有机质含量高;且地下水位埋深浅,土壤含水量也较丰富;并且林地的根系深度、密度在0—50cm垂直范围内较集中[31],易受温度的影响,保留和去除枯枝落叶土壤呼吸随着温度的升高而增加,观测日8月20日达到最大,其后随着温度的降低而减少。土壤含水量是影响土壤呼吸的另一关键因子,通过影响根系和微生物的生理过程以及底物和氧气的扩散进而调控土壤呼吸[32]有研究表明只有当土壤含水量过高或过低时才会对土壤呼吸有显著影响[334],小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸与土壤含水量显著相关,受到含水量的胁迫。固定沙丘小叶锦鸡群落土壤含水量较低,加之地下水位埋深较深,生长季的土壤含水量主要受降雨的影响。在植被整个生长季人工杨树林土壤呼吸大于小叶锦鸡儿群落土壤呼吸,主要是由于人工杨树林土壤有机质含量、植被根系量等更大,为土壤呼吸提供了更丰富的碳底物,并且小叶锦鸡儿群落还受到土壤含水量胁迫。
+
+运用归一化方法，建立的土壤呼吸 $\ln { \cal R } _ { s }$ 与土壤温度 $T$ 、土壤含水量 $\ln \theta$ 的双因子回归模型，土壤温度和土壤含水量共同对人工杨树林和小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸解释,其决定系数均大于二者分别对土壤呼吸的决定系数,表明采用土壤温度、土壤含水量的双因子模型模拟该区域的土壤呼吸有一定可行性。并且这一结果是由于各个影响因子之间是相互促进相互制约的,在土壤含水量充足、水分不成为限制因子的条件下土壤呼吸和土壤温度呈正相关,而当土壤含水量成为限制因子时水分含量和温度共同起作用[35]
+
+# 3.3枯枝落叶对土壤呼吸的影响
+
+人工杨树林和小叶锦鸡儿群落保留和去除枯枝落叶处理方式下的土壤呼吸均显著相关( $P { < } 0 . 0 1 \ \cdot$ ，枯枝落叶作为土壤生态系统独特的结构层次,是土壤有机质输入的主要来源,对土壤温度、湿度产生影响[7],枯枝落叶对土壤呼吸的贡献并不完全来源于枯枝落叶自身分解释放的 $\mathrm { C O } _ { 2 }$ ,并且去除枯枝落叶可以改变土壤根系和微生物所需有机碳的供应[31]。小叶锦鸡儿群落保留和去除枯枝落叶对土壤呼吸的影响结果表明,去除枯枝落叶会显著降低土壤呼吸,这与很多研究者的结论相同[1130.32]。整个生长季枯枝落叶对土壤呼吸的贡献率为 $2 4 . 2 2 \%$ ,比陈光水等分析国内62个森林样地土壤呼吸及其相关因子数据得出枯枝落叶对土壤呼吸的贡献率为 $2 0 . 2 \% ^ { [ 3 6 ] }$ 相近略高,这是由于研究区小叶锦鸡儿群落生长在固定沙丘上,土壤有机质含量低,土地贫瘠,根系多分布在土壤深层,在这种条件下枯枝落叶便成为土壤呼吸的主要来源。保留枯枝落叶土壤呼吸与$1 0 \mathrm { { c m } }$ 土壤含水量相关性更好,并且幂函数关系更为密切,这是由于枯枝落叶具有吸持、拦截水量,减少地表蒸发,改善土壤结构等作用[37]。人工杨树林保留和去除枯枝落叶土壤呼吸的研究结果与小叶锦鸡儿群落相反,枯枝落叶对土壤呼吸的贡献率为 $- 2 5 . 6 0 \%$ ,枯枝落叶对土壤呼吸的贡献为负值这一结果与陈四清对内蒙古锡林河流域大针茅草原[18]以及其他学者对山地雨林和退耕还湿地的研究结果一致[19-20]。对这一现象的解释大多集中为可能与枯枝落叶数量、土地利用方式、土壤湿润因子有关[19],可能是土壤表层好氧性细菌因去除枯枝落叶异常活跃导致呼吸增强或枯枝落叶对土壤呼吸 $\mathrm { C O } _ { 2 }$ 排放的屏蔽作用[18]。孟庆涛在科尔沁沙地研究发现枯枝落叶只有当温度达到 $4 0 \%$ 时,枯枝落叶才会向土壤及大气等环境中输入大量的碳[39],在研究区最高温度小于 $4 0 ^ { \circ } \mathrm { C }$ ,所以枯枝落叶本身对土壤呼吸的贡献很小,而枯枝落叶对土壤温度的影响主要通过阻隔土壤与外界空气的热交换,枯枝落叶量越多对土壤温度的影响越大[38]。在研究区人工杨树林去除枯枝落叶使土壤直接裸露被太阳直射,土壤温度升高,加之地表有 $5 \mathrm { c m }$ 腐殖质层,从而使土壤呼吸速率变大。去掉枯枝落叶势必会降低土壤含水量,从而导致土壤呼吸降低[32],但人工杨树林去掉枯枝落叶土壤呼吸与土壤含水量的关系不显著,故受其影响不明显。王丽丽在三江平原发现屏蔽作用随着枯枝落叶输入量的增加而增大,人工杨树林枯枝落叶（厚 $1 . 5 \mathrm { c m } \dot { }$ )的输入量与其对土壤呼吸的贡献率呈负相关关系[20],在我们的研究区人工杨树林枯枝落叶（厚 $1 . 6 \mathrm { c m } \backslash$ )对土壤呼吸的贡献率为负,说明可能是枯枝落叶的屏蔽作用导致。Gadgil[40]的研究发现菌根真菌不从枯枝落叶中获取能量，而是在枯枝落叶中进行休眠，并通过利用根的分泌物生长，抑制了土壤微生物的活性以及整个生态系统的碳循环速率[41]。随后,Olsson 等也发现菌根真菌的菌丝降低了砂土中的细菌活性[42]。枯枝落叶的分解速率会受其氮浓度和磷浓度的影响[43],因此菌根真菌还能通过改变根系凋落物的化学计量比来改变枯枝落叶的分解速率。具有外生菌根真菌侵染的植物根系比起没被侵染的根系有更多的氮[41],这本应使之具有更高的分解速率，但是这些氮是以难分解的形式存在的，因此氮增加的净效应或许会降低枯枝落叶分解速率,Langley 等证实了这种解释[44]。由此可见,枯枝落叶对土壤呼吸的影响非常复杂,不能单从宏观方面进行分析,要深入到微生物对枯枝落叶的作用。人工杨树林保留枯枝落叶土壤呼吸与土壤温度的指数关系更为密切,并且保留和去除枯枝落叶的 $Q _ { 1 0 }$ 值分别为2.97、2.60,比较接近中国森林土壤呼吸 $Q _ { 1 0 }$ 的平均值 $2 . 6 5 ^ { [ 3 6 ] }$ ,枯枝落叶的去除降低了土壤呼吸的温度敏感性,这一结论与邓琦[45]熊莉[32]的研究结论一致,枯枝落叶位于土表面,能有效降低土壤温度受气温波动的影响,进而减缓土壤环境对外界环境尤其是全球变暖响应的敏感性[45]。
+
+# 4结论
+
+科尔沁沙丘-草甸相间地区沙丘-草甸过渡带人工杨树林土壤呼吸日变化,生长期的8月20日和生长末期的10月2日均呈“多峰型”，保留和去除枯枝落叶土壤呼吸均出现多次峰值。人工杨树林和固定沙丘小叶锦鸡儿群落保留和去除枯枝落叶土壤呼吸月变化波动较大,保留和去除枯枝落叶土壤呼吸的变化趋势在 5—10 月表现同步,人工杨树林去除枯枝落叶土壤呼吸大于保留枯枝落叶土壤呼吸,而小叶锦鸡儿群落去除枯枝落叶土壤呼吸小于保留枯枝落叶土壤呼吸。土壤呼吸采用土壤温度、土壤含水量双因子回归模型取得的模拟效果要比单因子回归模型好,双因子回归模型能更好地模拟该区域土壤呼吸对环境因子变化的响应,人工杨树林土壤呼吸主要受土壤温度的控制,且保留枯枝落叶土壤呼吸的 $Q _ { 1 0 }$ 比去除枯枝落叶土壤呼吸的 $Q _ { 1 0 }$ 大，小叶锦鸡儿群落土壤呼吸主要受土壤含水量的控制。本试验只有一年的数据具有一定的局限性,枯枝落叶对土壤呼吸的影响还需要在微生物方面加深研究,在接下来的实验中需野外实验和室内实验相结合才能更清晰的把握枯枝落叶对土壤呼吸的影响机理。
+
+致谢：感谢内蒙古农业大学张圣微，姚姣转老师的帮助。
+
+# 参考文献（References）：
+
+[1］张丽华，陈亚宁,李卫红，赵锐锋，葛洪涛.干旱区荒漠生态系统的土壤呼吸.生态学报，2008，28（5)：1911-1922.  
+[2］Jenkinson D S，Adams D E，Wild A.Model estimates of $\mathrm { C O } _ { 2 }$ emissions from soil in response to global warming.Nature，1991，351（6324）:304-306.  
+[3]Schlesinger WH,AndrewsJA.Soil respirationand the global carboncycle.Biogeochemistry，2Oo0,48（1）：7-20.  
+[4]ReyoldsJ.DsertficatioIn;Lvin.A.d,Encylopediaofdiversityol2.SanDigAcademicPress，,6-8.  
+[5]CantecAmerica Journal,2000,64(1）：383-390.  
+[6]WestNE,tarkJ,JooDW,brs,WightJRggD,eckS.fectsofliatichaneoedapcfeaturesdsemiarid lands of western North America.Arid Soil Research and Rehabilitation，1994,8(4)：307-351.  
+［7］张东秋，石培礼，张宪洲.土壤呼吸主要影响因素的研究进展.地球科学进展，2005，20（7）：778-785.  
+［8］鲍芳，周广胜.中国草原土壤呼吸作用研究进展.植物生态学报，2010,34(6)：713-726.  
+[9］陈书涛，刘巧辉，胡正华，刘艳，任景全，谢薇.不同土地利用方式下土壤呼吸空间变异的影响因素.环境科学,2013，34（3)：1017- 1025.  
+[10]RaichJWPoterCS.Globalpatesofcarbondoxideemissonsfrmsoils.Global BiogeochemicalCyles，995,9（1）-36.  
+[]SulaErantJoweDajtKorofeoitloodidospespattall$\mathrm { C O } _ { 2 }$ efflux in an old growth coniferous forest.Biogeochemistry，20o5，73（1）：231-256.  
+12]PrescoE.ofisiellgalltsEodagt/）64.  
+[13]Wan SQ,Norby RJ,LedfordJ,Weltzin JF. Responses of soil respiration to elevated $\mathrm { C O } _ { 2 }$ ，air warming，and changing soil water availability in amodel old-field grassland.Global Change Biology，2007，13（11）：2411-2424.  
+[14]Li YQ,Xu M,Sun OJ,Cui WC. Effects of root and litter exclusion on soil $\mathrm { C O } _ { 2 }$ efflux and microbial biomass in wet tropical forests.Soil Biologyand Biochemistry，2004，36(12）：2111-2114.  
+[15]RaichJW,NadeloferKJBelowgroundcarbonalocationinforestcosystes：baltrends.Ecology989,7(5）：46-154.  
+[16］田祥宇，涂利华，胡庭兴，张健，何远洋，肖银龙.华西雨屏区苦竹人工林土壤呼吸各组分特征及其温度敏感性.应用生态学报，2012，23(2):293-300.  
+［17］周小刚,郭胜利,车升国，张芳,邹俊亮，张彦军，南雅芳,李泽，蒲辉.黄土高原刺槐人工林地表凋落物对土壤呼吸的贡献.生态学报，2012，32(7):2150-2157.  
+［18］陈四清，崔骁勇，周广胜，李凌浩.内蒙古锡林河流域大针茅草原土壤呼吸和凋落物分解的 $\mathrm { C O } _ { 2 }$ 排放速率研究.植物学报，1999,41(6)：645-650.  
+［19］骆土寿，陈步峰，李意德，林明献，周光益，陈德祥，邱坚锐.海南岛尖峰岭热带山地雨林土壤和调落物呼吸研究.生态学报，2001,21(12):2013-2017.  
+[20］王丽丽，宋长春，郭跃东，刘德燕，杨桂生.三江平原不同土地利用方式下凋落物对土壤呼吸的贡献.环境科学，2009，30（11)：3130-3135.  
+[21]LuoYQHuWleLliatiaofespatioagialspr)：622-625.  
+22]ReyA,egoEdeaJisletialvtespatodioiforest in central Italy.Global Change Biology，2002，8（9）：851-866.  
+[23］蒋延玲，周广胜，赵敏，王旭，曹铭昌.长白山阔叶红松林生态系统土壤呼吸作用研究.植物生态学报，205，29（3）：411-514.  
+[24]高翔，郝卫平，顾峰雪,郭瑞，夏旭，梅旭荣,李洁.降雨对旱作春玉米农田土壤呼吸动态的影响.生态学报,2012,32（24)：7883-7893.  
+[25］李虎，邱建军，王立刚.农田土壤呼吸特征及根呼吸贡献的模拟分析.农业工程学报，2008，24(4)：14-20.  
+[26]LiuQdsostuddrteetelsatdeciduous forest.Global Change Biology，2006,12（11）：2136-2145.  
+[27］方晰，田大伦.杉木人工林林地 $\mathrm { C O } _ { 2 }$ 释放量的研究.林业科学，1997，33（sp.2）：94-103.  
+[28]YemadebrtHOJeelepoeo4lespatieoa Sudano-Sahelian region.Scientia Agricola,2015，72(5）：452-558.  
+[29］马文瑛，赵传燕，彭守璋，高云飞，袁亚鹏,李文娟.黑河天涝池五种植被类型土壤呼吸速率动态特征及其影响因子.生态学报，2015,35(17) : 5654-5665.  
+[30］王光军，田大伦，闫文德，朱凡，项文化，梁小翠.改变调落物输入对杉木人工林土壤呼吸的短期影响.植物生态学报，2009，33（4)：739-747.  
+[31］陈全胜,李凌浩，韩兴国,阎志丹，王艳芬，张焱，袁志友，唐芳.温带草原11个植物群落夏秋土壤呼吸对气温变化的响应.植物生态学报，2003，27(4)：441-547.  
+[32］熊莉，徐振锋，杨万勤，殷睿，唐仕姗，王滨，徐李亚，常晨晖.川西亚高山粗枝云杉人工林地上调落物对土壤呼吸的贡献.生态学报，2015,35(14):4678-5686.  
+[33]DavidsonEVectLVaaickaI，araoJEftsoflwaterotetonlespirioinforstsdalepastures of eastern Amazonia.Biogeochemistry，20oo，48（1）：53-69.  
+[34]Maier C A, Kress L W. Soil $\mathrm { C O } _ { 2 }$ evolution and root respiration in1l year-old loblolly pine（Pinus taeda）plantations as affected by moisture andnutrient availability.Canadian Journal of Forest Research,2OOo,30(3）：347-359.  
+[35］刘绍辉，方精云.土壤呼吸的影响因素及全球尺度下温度的影响.生态学报，1997，17（5）：469-576.  
+[36] 陈光水，杨玉盛，吕萍萍，张亿萍，钱小兰.中国森林土壤呼吸模式.生态学报，2008，28（4)：1748-1761.  
+[37] AtkinOK,EdadsEvespseoftsattgspauredsetolanglist,2000，147(1):141-154.  
+[38] 潘开文，何静，吴宁.森林凋落物对林地微生境的影响.应用生态学报，2004，15（1)：153-158.  
+［39］孟庆涛,李玉霖，赵学勇，赵玉萍，罗亚勇.科尔沁沙地不同环境条件下植物叶凋落物 $\mathrm { C O } _ { 2 }$ 释放研究.干旱区研究，2008，25（4)：519-524.  
+[40]Gadgil RL,Gadgil P D.Mycorrhiza and litter decomposition.Nature，1971,233(5315）：133-133.  
+[41]LangleyJ,istarakeBG，ugateBctocalloooa，dductioinegeigufostinresponse to elevated $\mathrm { C O } _ { 2 }$ .Ecosystems，2003，6(5)：424-530.  
+[4]Olsonlotth,estaelucecteividlEcology，1996,21(2)：77-86.  
+[43]Liu,HaiLHnXGdisflituesoselaoiiai $\mathrm { P }$ （204号concentrations in grassland plant species of northern China.Biologyand Fertility of Soils，2007,44(1）：211-216.  
+[44]LangleyJAapnSK,ngateBEctoalcoloatisootdcopositeostortefugalcolee，2006,9(8): 955-959.  
+[45］邓琦，刘世忠，刘菊秀，孟泽，张德强.南亚热带森林调落物对土壤呼吸的贡献及其影响因素.地球科学进展，2007,22（9)：976-986.

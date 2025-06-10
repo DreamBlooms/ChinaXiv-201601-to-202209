@@ -1,0 +1,204 @@
+# 一种自下而上的人脸检测算法
+
+张宁，伍萍辉
+
+(河北工业大学 电子信息工程学院 天津市电子材料与器件重点实验室，天津 300401)
+
+摘要：针对在非控条件下的人脸检测经常遇到的问题，如复杂的人脸姿态表情、严重的人脸遮挡、外界环境背景复杂、光照条件差、小人脸等提出了一种自下而上的人脸检测方法。自下而上的人脸检测是基于深度学习的，先进行人脸相关关键点检测和关键点之间的位置关系检测再进行人脸检测。网络结构采用稠密网络进行图像特征提取，提取到的特征传送给6个级联网络，每个级联网络由两个分支网络构成，分支网络1用来预测人脸相关关键点位置坐标，分支网络2用来预测关键点之间的位置关系。利用得到的关键点位置和位置关系进行人脸检测。在FDDB测试集上进行了验证，取得了0.98的成绩，并可以在输入图像分辨率为 $1 9 2 0 \times 1 0 8 0$ 的情况下，能检测到的最小人脸分辨率为 $1 0 \times$ 10，使用GPUNvidia GeforeGTX1070 最快能达到17 fps。
+
+关键词：人脸检测；深度学习；关键点检测；自下而上 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.01.0032
+
+# Bottom-up face detection algorithm
+
+Zhang Ning, Wu Pinghui† (Tianjin KeyLaboratoryofElectronicMaterials&Devices,SchoolofElectronic&InformationEngineering HebeiUniversity of Technology, Tianjin 300401, China)
+
+Abstract: Faced with theproblems often encountered in face detectionundernon-controlledconditions,suchas complex facial expresion,serious faceoccusion,complex external environment,poor lightingconditions,tinyface,etc.Abottom-upface detection method is proposed.Bottom-upface detection isbased ondeep learing,face detectionand keypointsof the first position-related key detection and then face detection.Convolution neural network structure using dense network for image featureextraction,theextracted featuresaretransmitedto6cascadednetworks,achofwhichconsistsoftwobranchnetworks. Branch networkl is usedtopredictthecoordinatesofface-related keypoints.Branch network2is usedtopredictthe position betweenkey points relationship.Face detection is performed byusing theobtainedkeypoit positionand positionrelationship. The FDDB test set was verified and achieved O.98 results,and the smallest face resolution $1 0 \times 1 0$ can be detected at the resolution of input image $1 9 2 0 \times 1 0 8 0$ ,used the GPU Nvidia Geforce GTX 1070 for up to 17fps video detection.
+
+Key words: face detection; deep learning; key point detection; bottom-up
+
+# 0 引言
+
+在“911"事件之后，人脸检测识别逐渐成为国际反恐和安全防范重要的手段之一。随着人工智能时代的到来，机器视觉领域得到了进一步的发展。目前在目标检测、目标识别、图像分割等机器视觉项目大赛中，那些基于深度学习的算法准确性明显高于传统的手工设计特征提取的算法准确性。尽管基于深度学习的算法可以解决大部分目标检测的问题，但是目前仍有小目标检测的问题深度学习解决的还不是很好。为解决人脸检测中小脸的问题，提出了一种自下而上的人脸检测方法。小脸就是指在图像分辨率为 $1 9 2 0 { \times } 1 0 8 0$ 情况下，人脸成像分辨率不大于 $2 0 \times 2 0$ 。根据国内外对人脸检测算法的研究热度来看，检测小脸仍然是值得挑战的项目。
+
+国外主要有 MIT、CMU、CORNELL 等大学和 GoogleDeepMind、FacebookOpenMind 等一些研究机构，国内主要有清华大学、北京大学、中国科学院计算机所、中国科学院自动化所等一系列高校和研究机构都致力于解决现实生活中的人脸检测定位问题。对于人脸检测的挑战也主要有三方面：a)人脸姿态、表情、遮挡等内在的因素；b)受外界环境因素干扰，如光照不均匀或者光照条件很差，人脸成像带有动态模糊等外在因素；c)时效性，若是算法过于复杂，计算量很大会直接影响算法时效性，无法满足基于视频监控的人脸实时性检测要求。
+
+针对以上三个方面的挑战，提出了一种自下而上的人脸检测方法。通过设计卷积神经网络结构，构造目标函数，再利用反向传播算法来不断更新模型中的参数，直到目标函数最小化。经过在FDDB[I人脸数据集上的测试，得到了很好的结果，同时也在监控视频的场景下进行了测试，可以满足在输入图像分辨率为 $1 9 2 0 { \times } 1 0 8 0$ 的监控场景下，能检测到的最小人脸分辨率为 $1 0 \times 1 0$ ，使用GPUNvidia GeforeGTX1070 最快能达到17fps。
+
+![](images/9341d983631beb3b278cd720d9667b14668cf3da3db6a3ddf4680c98874d465f.jpg)  
+图1人脸检测网络结构
+
+# 1 人脸检测算法概述
+
+当前基于深度学习的人脸检测算法性能普遍优于传统的手工设计特征提取的人脸检测算法[2]。主流的人脸检测算法有采用级联结构的 Cascade CNN[3]、MTCNN[4]、 $\mathrm { I C C } ^ { [ 5 ] }$ ，采用端到端的FindingTinyFaces[]，还有根据基于卷积神经网络的目标检测[7]改成的人脸检测[8]。下面简单地介绍其中几种算法。CascadeCNN 采用6个级联的浅层网络，其中3个进行人脸/非人脸的二分类，另外3个进行人脸框的校准，也就是进行45分类，利用标定人脸框左上角的坐标值 $( \mathbf { \nabla } x , y \mathbf { \nabla } )$ 和标定人脸框的宽度 $w$ 和高度 $h$ ， $n$ 取 $1 { \sim } 4 5$ 的整数，采用式 $( 1 ) \sim ( 4 )$ 进行人脸框的校准。该算在标准VGA图像基于CPU的检测中可以达到14 fps，基于GPU可以达到100 fps。
+
+$$
+x _ { n } \in \left\{ - 0 . 1 7 , 0 , 0 . 1 7 \right\}
+$$
+
+$$
+x - \frac { x _ { n } w } { s _ { n } } , y - \frac { y _ { n } h } { s _ { n } } , \frac { w } { s _ { n } } , \frac { h } { s _ { n } }
+$$
+
+$$
+s _ { n } \in \left\{ 0 . 8 3 , 0 . 9 1 , 1 . 0 , 1 . 1 , 1 0 . 2 1 \right\}
+$$
+
+$$
+y _ { n } \in \left\{ - 0 . 1 7 , 0 , 0 . 1 7 \right\}
+$$
+
+MTCNN相对于CascadeCNN，也采用级联方式进行人脸检测，但是不同之处是MTCNN采用三层级联网络结构，三个网络同时进行训练人脸和非人脸二分类、人脸候选框回归、人脸对齐操作，属于多任务级联网络。Hu等人[提出的FindingTinyFaces针对解决人脸检测中的小脸问题得到了很好的效果，该方法提出可以充分利用人脸上下文信息和缩放图像分辨率进行小脸检测，是一个端到端的网络结构。Jiang 等人[8]将FasterR-CNN[9]进行目标检测的网络利用迁移学习改成了人脸检测网络。本文提出的一种自下而上的人脸检测算法将与以上算法在FDDB 测试集上进行对比实验。
+
+# 2 自下而上的人脸检测
+
+# 2.1卷积神经网络原理
+
+目前卷积神经网络在图像领域和语音领域取得了很好的成绩。卷积神经网络是一个层级结构，由卷积层、激活层[10]、池化层、归一化层[I]、全连接层等构成，最后还要连接损失层。卷积神经网络的计算分为两个过程，即前向传播和反向传播[12]。前向传播指的就是输入的数据经过卷积神经网络的层级结构最终会到达损失层，对每一层的作用进行一个简要说明，卷积层进行卷积操作提取图像特征信息，激活层引入非线性特性，池化层进行降维操作，可以减少整个网络计算时间，归一化层可以加快网络的收敛速度，使得到的模型具有一定的泛化能力，全连接层起到一个类似“分类器”的作用。反向传播可以简单地理解为复合函数的链式法则，利用经验风险最小化，将损失函数的计算值逼近为0，这样预测值和真实值就可以相差最小或者一样了。为了达到这一目的，必须要更新各个层级结构中的权重值 $w$ 和偏置 $b$ ，只有 $w$ ， $b$ 改变了才能改变预测值，而 $w$ 和 $b$ 的更新完全依靠求导的链式法则。
+
+# 2.2网络结构
+
+一种自下而上的人脸检测算法是受Cao等人[13]的启发。自下而上指的是通过先检测人脸相关关键点和关键点之间的位置关系再确定人脸大小及位置。人脸相关关键点检测的同时还进行了关键点之间的位置关系检测，这样做的好处是可以更加准确地检测出人脸位置，在很大程度上克服了人脸表情、人脸姿态、人脸遮挡以及背景环境复杂等带来的影响。而且受Finding TinyFace和ICC启发，结合上下文信息，利用了肩膀和脖子这些和人脸有关联的部位，能检测到的最小人脸分辨率为 $1 0 \times 1 0$ ，又通过优化网络结构，在输入图像分辨率为 $1 9 2 0 { \times } 1 0 8 0$ 的情况下，使用GPUNvidia GeforeGTX1070 最快能达到17 fps。整个网络结构如图1所示。采用分支网络1来预测人脸相关关键点位置,分支网络2来预测关键点位置之间的关系。特征网络采用稠密网络 (DenseNet)[14]意味着每个卷积层之间都直接连接着。普通的网络层是第L层有L个连接,如图2（a）所示,第
+
+4个卷积层有4个连接,一个连接是卷积层4和卷积层3之间的连接,剩下的3个连接是卷积层4之前的层之间的连接。稠密网络第 $\mathrm { ~ L ~ }$ 层有 $\frac { L ( L + 1 ) } { 2 }$ 个连接,如图2（b）所示,第4个卷积层有10个连接。每一个卷积层都与之前的
+
+![](images/73c8f0b722bca70f062d047a27b94918495761050255ff4a334d69b24dd0a248.jpg)  
+图3级联网络结构
+
+![](images/fe6c00d17dbfe30129c7d5e4e7eee39501cfe20d5818d8ffb51094fbaab217db.jpg)  
+（b）4层卷积网络的稠密网络
+
+所有卷积层直接连接,这样做有三个好处：a)避免了反传时的梯度消失问题；b低层的语义信息可以直接传递给更高层,使特征可以重复利用；c)可以减少超参数，降低了过拟合的风险,这一点满足了网络加深的同时既提升精度也保证了速度。
+
+对图1网络结构的级联结构进行展开就如图3所示，可以看到级联结构处于第一阶段也就是stage $\scriptstyle : = 1$ 时,是第一级级联,采用全卷积结构,没有使用全连接层。第一级级联中分支网络1和2一样都有5个卷积层,参考AlexNet网络结构,并在卷积层1、2、3、4后面紧跟激活层Relu,后面的卷积层5参考FCN[15]网络结构,采用的卷积核为 $1 \times 1$ ，代替了全连接层的作用,其余卷积层采用的卷积核为 $3 \times 3$ ,最后面连接的是损失层。stage $\geq 2$ 时,分支网络1和2都采用7个卷积层,卷积层1到6卷积核大小为 $3 \times 3$ =卷积层7卷积核大小为 $1 \times 1$ ,最后连接一个损失层,损失层1和2分别采用损失函数如式（5）（6）所示。
+
+$$
+L = \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { m } \bigl \| \hat { \mathbf { y } } _ { \mathrm { j } } ^ { \mathrm { i } } - \mathbf { y } _ { j } ^ { i } \bigr \| _ { 2 } ^ { 2 }
+$$
+
+其中： $\mathfrak { n }$ 表示关键点的数量， $\mathbf { m }$ 表示人脸的数量； $\hat { \mathbf { y } } _ { \mathrm { j } } ^ { \mathrm { i } }$ 表示第j个人脸的第i个人脸关键点的真实值； ${ \bf y } _ { \mathrm { j } } ^ { \mathrm { i } }$ 表示第 $\mathrm { j }$ 个人脸的第i个人脸关键点的预测值。
+
+$$
+L = \sum _ { k = 1 } ^ { l } \sum _ { j = 1 } ^ { m } \| \hat { y } _ { j } ^ { k } - y _ { j } ^ { k } \| _ { 2 } ^ { 2 }
+$$
+
+其中： $l$ 表示关键点位置关系的数量； $m$ 表示人脸的数量； $\hat { \boldsymbol y } _ { j } ^ { k }$ 表示第 $j$ 个人脸的第 $k$ 个人脸相关关键点位置关系的真实值；${ y } _ { j } ^ { k }$ 表示第 $j$ 个人脸的第 $k$ 个人脸相关关键点位置关系的预测值。
+
+分支网络1进行人体8个关键点预测（右耳、右眼、鼻子、左眼、左耳、脖子、右肩、左肩）,分支网络2预测相邻两个关键点之间的位置关系,如图4所示。值得注意的是,stage $\geq 2$ 时输入不仅来自前一阶段的特征信息，还有来自DenseNet网络提取的特征信息。
+
+![](images/d492fd5e338d9235949ade409e5e9bf5f5b293ec4e448486e6e3e5f324170f1c.jpg)  
+图2稠密网络与普通网络对比  
+图4检测的关键点
+
+$C _ { \mathrm { i } }$ 为相邻两个关键点之间位置关系的置信度得分， $d _ { i }$ 为相邻两个关键点之间的距离，i取 $1 { \sim } 7$ 个整数。  
+$d _ { i }$ 根据距离计算式（7）， $\boldsymbol { x } _ { \mathrm { a } } \boldsymbol { \cdot } \boldsymbol { \mathrm { y } } _ { \mathrm { a } }$ 分别为相邻两个关键点其中一个点的横坐标和纵坐标， $x _ { \mathrm { b } } \ 、 \ y _ { \mathrm { b } }$ 分别为另一个点的横坐标和纵坐标。
+
+$$
+\mathrm { d _ { i } } \mathrm { = } \sqrt { \left( x _ { a } - x _ { b } \right) ^ { 2 } + \left( y _ { a } - y _ { b } \right) ^ { 2 } }
+$$
+
+# 2.3人体检测流程
+
+整体的人脸检测流程如图4所示。其中图4（a）为输入图像；（b）是分支网络1关键点检测可视化结果；（c）分支网络2用来进行关键点位置关系预测可视化结果；网络输出的检
+
+测结果如图4（d）所示；利用人脸关键点位置之间的逻辑关系就可以画出人脸检测框，如图4（e）所示。
+
+人脸框的置信度得分 $C _ { \mathrm { f a c e } }$ 根据式（8)
+
+$$
+C _ { \mathrm { f a c e } } = \sum _ { i = 1 , 2 , 3 , 4 , 7 } { \frac { d _ { i } } { \sum d _ { i } } } \cdot C _ { i }
+$$
+
+计算人脸框的算法流程如下：
+
+![](images/2e3c833d717896d3d9ad4530084bb7f2225a081de7fa45277f636fc217d28656.jpg)  
+图4人脸检测流程
+
+a)根据网络模型可获得关键点的位置坐标以及相邻两点间位置关系的置信度得分，利用关键点鼻子坐标（ $x _ { \lesseqqgtr , \mp } , ( y _ { \lesseqqgtr , \mp } )$ 。b)利用式（7）计算 $d _ { 1 } , d _ { 2 } , d _ { 3 } , d _ { 4 }$ 。  
+c)计算人脸框左上角坐标位置 $( \ v { x } _ { l _ { - } u p } , \ v { y } _ { l _ { - } u p } )$ ，右下角坐标位置（ $x _ { r \_ d o w n }$ ， $y _ { r _ { - } d o w n }$ ），计算公式如（8） $\sim$ 所示。人脸在水平方向分为右侧脸（ $d _ { 1 } > d _ { 2 }$ ），正脸（ $d _ { 1 } = d _ { 2 } \neq 0$ ），左侧脸（ $d _ { 1 } < d _ { 2 }$ ）三种姿态。
+
+$$
+\begin{array} { r } { x _ { l _ { - } \Psi } = \left\{ \begin{array} { c c } { x _ { \frac { \mu _ { \mp 1 } } { \mathcal { T } _ { 1 } } \mp } - d _ { 4 } - d _ { 1 } , } & { d _ { 1 } > d _ { 2 } } \\ { x _ { \frac { \mu _ { \mp 1 } } { \mathcal { T } _ { 1 } } \mp } - 1 . 2 \cdot d _ { 1 } , } & { d _ { 1 } = d _ { 2 } \neq } \\ { x _ { \frac { \mu _ { \mp 1 } } { \mathcal { T } _ { 1 } } \mp } - d _ { 1 } , } & { d _ { 1 } < d _ { 2 } } \end{array} \right. } \end{array}
+$$
+
+$$
+y _ { _ { l _ { - } \Psi } } = \left\{ \begin{array} { l l } { y _ { _ { \scriptscriptstyle { \frac { \mathrm { E H } } { \scriptscriptstyle { \frac { 1 } { \mathcal { F } } } } } } \mp } - 1 . 1 \cdot d _ { 1 } - d _ { 2 } } , \quad d _ { 1 } > d _ { 2 }  \\ { y _ { _ { \scriptscriptstyle { \frac { \mathrm { E H } } { \scriptscriptstyle { \frac { 1 } { \mathcal { F } } } } } } } - 1 . 6 \cdot d _ { 1 } } , \quad d _ { 1 } = d _ { 2 } \neq \ell _ { 3 }  \\ { y _ { _ { \scriptscriptstyle { \frac { \mathrm { E H } } { \scriptscriptstyle { \frac { 1 } { \mathcal { F } } } } } } \mp } - 1 . 1 \cdot d _ { 2 } , - d _ { 1 } \quad d _ { 1 } < d _ { 2 } } \end{array} \right.
+$$
+
+$$
+\begin{array} { r } { x _ { \scriptscriptstyle { \mathrm { r } _ { - } d o w n } } = \left\{ \begin{array} { c c } { x _ { \scriptscriptstyle { \frac { \mathrm { E } _ { 1 } } { \mathrm { r } _ { 1 } } } \mp } + d _ { 2 } , } & { d _ { 1 } > d _ { 2 } } \\ { x _ { \scriptscriptstyle { \frac { \mathrm { E } _ { 1 } } { \mathrm { r } _ { 1 } } } \mp } + 1 . 2 \cdot d _ { 1 } , } & { d _ { 1 } = d _ { 2 } \ne 0 } \\ { x _ { \scriptscriptstyle { \frac { \mathrm { E } _ { 1 } } { \mathrm { r } _ { 1 } } } \mp } + d _ { 2 } + d _ { 3 } , } & { d _ { 1 } < d _ { 2 } } \end{array} \right. } \end{array}
+$$
+
+$$
+\begin{array} { r } { y _ { \mathrm { r } _ { - } d o w n } = \left\{ \begin{array} { l l } { y _ { \frac { k + \overline { { \uparrow } } } { \mathrm { r } ^ { 1 } } \mp } + 1 . 1 \cdot d _ { 2 } + d _ { 1 } , \quad d _ { 1 } > d _ { 2 } } \\ { y _ { \frac { k + \overline { { \uparrow } } } { \mathrm { r } ^ { 1 } } \mp } + 1 . 6 \cdot d _ { 1 } , \quad d _ { 1 } = d _ { 2 } \mp _ { 1 } \ P ) } \\ { y _ { \frac { k + \overline { { \uparrow } } } { \mathrm { r } ^ { 1 } } \mp } + 1 . 1 \cdot d _ { 1 } + d _ { 2 } , \quad d _ { 1 } < d _ { 2 } } \end{array} \right. } \end{array}
+$$
+
+d)利用NMS将重叠的人脸框进行去除，剩下的人脸框映射到原图，得到人脸检测的最终结果。
+
+# 3 训练过程
+
+# 3.1 训练数据准备
+
+训练数据采用微软提供的COCO[16]数据集，使用caffe 进行模型训练。该数据集的训练集包含超过了10万个人的标注数据，约有1百万个人体关键点，但本算法只利用部分人体关键点（如人的左右耳朵、左右眼睛、鼻子、左右肩膀和脖子）。同时在训练过程中采用数据增广的策略，对训练样本进行旋转、翻转等，目的是增加模型的泛化能力。部分训练样本的数据如图5所示，可视化了关键点和关键点位置关系，同时还利用掩膜遮盖了未进行标注的人体关键部位，这将有助于网络模型学习人体关键点，其他未标注的人体关键点不会当作负样本影响网络学习。
+
+![](images/e63403f88732d59e52615e24be22321317ec72c4bc5ec2618e0510d83ca6a28c.jpg)  
+图5训练数据
+
+# 3.2 端到端训练
+
+训练阶段采用6个级联网络（stage ${ \boldsymbol { \mathsf { z } } } { = } 6$ ），其中从第二个级联网络到第六个级联网络的结构都是一样的，相当于将每个级联网络结构模块化。每个级联网络结构都有损失层，防止网络过深梯度无法反传。整个训练过程是端到端的，并不需要逐个训练每个级联网络。初始学习率设置为0.005，迭代600000次。
+
+# 4 实验结果
+
+FDDB数据集有2845张图像、5171个人脸。收集的这些人脸包含各种姿态、各种面部表情、不同光照环境、不同背景环境、不同分辨率以及不同聚焦环境下，有灰度图也有彩色图。
+
+在标注中，人脸的宽度和高度均不小于20个像素点，同时采用椭圆标注，可以更进一步地贴合人脸。本文提出的自下而上的人脸检测算法在FDDB数据集上的检测效果如图6所示。其中展示了在光照条件差、人脸被遮挡、人脸表情姿态很复杂以及人脸模糊情况下的检测效果。FDDBROC曲线如图7所示。
+
+![](images/4f410697f2899a2c25471e9ad8093c64808c2a0e483971abab0ce522b7ed9a07.jpg)  
+图6FDDB数据集检测结果
+
+![](images/347d05490d3d8c2f3ae68f2c6182127a23e7488d7b5db5145bd8872d4152514f.jpg)  
+图7 FDDB ROC 曲线
+
+为了能将本文算法实用化，就需要对非控条件下的人脸做到实时检测。本文算法的网络结构是比较深的，尽管使用DenseNet减少了滤波器个数，但模型还是比较大的，参数还是比较多的。优化网络结构成为了重中之重。在测试阶段，因为后面的级联网络结构是模块化的，而且每个模块都可以独立的完成网络前传，这样就可以由6个级联模块减少到最少2个级联模块。通过在FDDB数据集上测试，发现精度只减少了0.016，如图8（a）所示，但是速度却提升了将近一倍。整个对比实验的结果如表1所示。采用的处理器为英特尔core $7 { - } 7 7 0 0 \mathrm { H Q } \textcircled { \omega } 2 . 8 0 \mathrm { G H z }$ 八核，内存RAM16GB，显存8GB，显卡Nvidia GeforeGTX1070，输入检测视频的图像分辨率为 $1 9 2 0 { \times } 1 0 8 0$ ，检测到的最小脸分辨率为 $1 0 \times 1 0$ 。在非控场景下的人脸检测效果图如图9所示。
+
+![](images/47802a4ed7cb605f24eb277154140718477dc6408519e57a32ccc26a3fee7cdb.jpg)  
+图8stage ${ \boldsymbol { \cdot } } = 2$ 和stage ${ : = } 6$ FDDBROC 曲线表1算法运行时间对比
+
+<html><body><table><tr><td>级联结构</td><td>平均检测帧速率</td><td>ROC曲线</td></tr><tr><td>（stage）</td><td>（fps)</td><td>（FDDB）</td></tr><tr><td>2</td><td>16</td><td>0.964</td></tr><tr><td>6</td><td>8</td><td>0.980</td></tr></table></body></html>
+
+为了比较MTCNN、FindingTinyFaces和本文算法(OURS），分别在光线较暗、姿态表情复杂、图像分辨率低、存在人脸遮
+
+挡四种情况下进行了实验。实验结果如图10所示。其中第一行是MTCNN在以上四种情况下的检测结果，不难发现MTCNN存在很高的误检率，而且很难检测到光线较暗的人脸和分辨率较低的侧脸；第二行是Finding Tiny Faces
+
+![](images/4b35b50ea2039398ec3bb2f769fc4cdabaf7afa71e973fdd2a6d78759c809aaa.jpg)
+
+图10三种算法对比
+
+在以上四种情况下的检测结果；第三行是OURS在以上四种情况下的检测结果，可以看出FindingTinyFaces和OURS检测结果相差不大，只是在分辨率较低的情况下，OURS对侧脸检测比FindingTinyFaces要好一些。本文还进行了三种算法检测时间的对比实验，实验条件如下：使用GPUNvidiaGeforeGTX1070 对来自AFLW[17]和FDDB 的数据集随机取3000 张，这3000张图片中有的图片只包含一个人脸，有的图片包含多个人脸。三种算法对每个图片检测100次取平均检测时间，结果如图11所示。图中横坐标为人脸数量，纵坐标为检测时间（单位为 ms）。可以看到FindingTinyFaces 检测时间最长且与人脸个数成正比。MTCNN检测时间与人脸个数成正比，随着人脸个数的增多，检测时间已经越来越高于OURS检测时间了。OURS受到人脸个数的影响相对较小，但也呈现出随着人脸个数增多检测时间变长的趋势。
+
+![](images/806e6061bd7f8dd4e24cbe59c70552f8d633832c5c6191fa3c7d57661476b0fb.jpg)  
+图11人脸数量和检测时间关系
+
+# 5 结束语
+
+本文提出的自下而上的人脸检测算法，先通过关键点检测和关键点位置关系检测，再进行人脸检测，得到了很好的检测效果。在FDDB数据集上与其他几种基于深度学习的人脸检测算法对比得到了比较高的准确率。更重要的是，本文提出的算法在面对复杂的人脸表情、人脸姿态、人脸遮挡等内在因素干扰，外界背景环境复杂、光照条件差等诸多外界干扰因素下都能得到不错的人脸检测效果，且在检测时间上受到人脸个数的影响较小。经实测监控场景下的视频最快时能达到17fps，使用GPUNvidiaGeforeGTX1070在输入图像分辨率 $1 9 2 0 \times 1 0 8 0$ 能检测到最小脸为 $1 0 \times 1 0$ 。
+
+# 参考文献：
+
+[1]Jain V,Learned-Miller E.FDDB:a benchmark for face detection in unconstrained settings,UMass Amherst Technical Report [R].2010.   
+[2]田原姬，姚萌萌，潘敏凯，等．基于YCbCr 肤色检测与 AdaBoost 联级 算法的嘴部特征定位[J].计算机应用研究,2017,34(3):933-935.(Tian Yuanyuan,Yao Mengmeng,Pan Minkai,et al.Human’smouth location based on YCbCr complexion detection and AdaBoost cascade connection method [J].Application Research of Computers,2017,34(3): 933-935.)   
+[3]Li Haoxiang,Lin Zhe,Shen Xiaohui,et al.A convolutional neural network cascade for face detection [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.Boston,MA:[s.n.],2015:5325-5334.   
+[4]Zhang Kaipeng, Zhang Zhanpeng,Li Zhifeng,et al. Joint face detection and alignment using multitask cascaded convolutional networks [J].IEEE Signal Processing Letters,2016,23 (10):1499-1503.   
+[5]Zhang Kaipeng, Zhang Zhanpeng,Wang Hao,et al. Detecting faces using inside cascaded contextual CNN [C]// Proc of IEEE International Conference on Computer Vision. Venice,Italy: [s.n.],2017:3171-3179.   
+[6]Hu Peiyun,Ramanan D.Finding tiny faces [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.Honolulu, Hawai: IEEE Computer Society.2017: 1522-1530.   
+[7]李旭冬，叶茂，李涛．基于卷积神经网络的目标检测研究综述[J].计 算机应用研究,2017,34(10):2881-2886,2891.(Li Xudong,Ye Mao,Li Tao.Review of object detection based on convolutional neural networks [J]. Application Research of Computers,2017,34 (10): 2881-2886,2891.)   
+[8]Jiang Huaizu,Learned-Miller Erik.Face detection with the faster R-CNN [C]//Proc of IEEE International Conference on Automatic Face & Gesture Recognition. Washington,DC: [s.n.],2017: 650-657.   
+[9] Ren Shaoqing,He Kaiming, Girshick Ros,et al.Faster R-CNN: towards real-time object detection with region proposal networks [J]. IEEE Trans on Pattern Anal Mach Intel,2015,39(6):1137-1149.   
+[10] KrizhevskyA, Sutskever I, Hinton GE.ImageNet classification withdeep convolutional neural networks [C]// Proc of the 25th International Conference on Neural Information Processing Systems.Lake Tahoe, Nevada: [s. n.],2012: 1097-1105.   
+[11] Ioffe S,Szegedy C.Batch normalization: accelerating deep network training by reducing internal covariate shift $[ \mathrm { C } ] / \AA$ Proc of the 32nd International Conference on Machine Learming.PMLR,Lille,France: [s.n.],2015: 448- 456.   
+[12] Rumelhart DE,Hinton GE, Wiliams RJ.Learning representations by backpropagating errors [J]. Readings in Cognitive Science,1988,323 (6088): 399-421.   
+[13] Cao Zhe,Simon T,Wei Shihen,et al.Realtime multi-person 2D pose estimation using part affinity fields [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. Honolulu. Hawaii, USA: [s. n.], 2017: 1302-1310.   
+[14] Huang Gao,Liu Zhuang,Weinberger KQ.Densely connected convolutional networks [Cl/ Proc of IEEE Conference on Computer Vision and Pattern Recognition.Las Vegas,NV, United State: IEEE Computer Society,2016: 3276-3281.   
+[15] Long J, Shelhamer E,Darrell T.Fully convolutional networks for semantic segmentation [J]. IEEE Trans on Patern Analysis & Machine Intellgence, 2017,39 (4): 640.   
+[16] Lin Tsungyi,Maire M,Belongie S,et al. Microsoft COCO:common objects in context [Cl// Proc of European Conference on Computer Vision. Cham: Springer,2014: 740-755.   
+[17] Köstinger M,Wohlhart P,Roth PM,et al.Annotated facial landmarks in the wild: a large-scale,real-world database for facial landmark localization $[ \mathrm { C } ] / \hbar$ Proc of IEEE International Conference on Computer Vision Workshops. Barcelona,Spain: [s.n.],2011: 2144-2151.

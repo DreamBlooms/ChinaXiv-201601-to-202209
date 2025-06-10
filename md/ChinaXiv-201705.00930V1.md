@@ -1,0 +1,238 @@
+# 光伏热电耦合系统热阻分析及优化
+
+殷二帅李强
+
+(南京理工大学能源与动力工程学院，南京 210094)
+
+摘要建立了光伏-热电耦合利用系统的数学模型，并从热阻分析的角度对耦合系统进行了分析优化。对系统各部分热阻进行了敏感度分析，发现了冷却系统热阻为复合系统的控制热阻，并分析了各部分热阻对系统表现的影响。针对耦合系统的控制热阻，研究了冷却系统换热系数对系统总输出功率的影响，发现受迫风冷更加适用于不聚光的光伏热电耦合系统。比较了光伏热电一体化系统与原耦合系统，发现一体化可以提高复合系统的表现。
+
+关键词光伏发电；温差发电；耦合系统；热阻分析中图分类号：TK51 文献标识码：A 文章编号:0253-231X(2017)04-0828-05
+
+# Optimization of Photovoltaic-Thermoelectric Hybrid System Through Thermal Resistance Analysis
+
+YINEr-Shuai LKQiang
+
+(School of Energyand Power Engineering,Nanjing UniversitfScience & Technology，Nanjing 210094,China)
+
+Abstract A theoretical model of photovoltaithermoelectric (PV-TE) hybrid system is established, and the coupled system is optimized througha method of thermal resistance analysis. A sensitivity analysis was carried out on the thermalresistances of each component to investigate their influences on the performance of the PV-TE hyblSystem. Based on the result of the thermal resistance analysis, the impact of the convective heat transfer coeficient of the cooling system on the output power of the PV-TE hybrid system isvestigated. A new integrated PV-TE hybrid system is proposed, and the performance of thelintegrated hybrid system is compared to the traditional coupled system. The result shows that the thermal resistance of the cooling system is the mQst influential. The forced-air cooling is more suitable for the PV-TE hybrid system without optical concentrating which is studied in this paper. Additionally, the integration can further optimize the PV-TE hybrid system. Key wordsphotovoltaic; thermoelectric; hybrid system; thermal resistance analysis
+
+# 0引言
+
+太阳能是一种重要的可再生能源，具有分部广泛，储量丰富，清洁环保等优点。如何更加有效的利用太阳能成为当前研究的热点。光伏电池是直接将太阳能转化为电能的重要的器件，但是当今已有报道的商业光伏电池的效率普遍较低，只有$1 2 \% \sim 1 8 \% ^ { [ 1 ] }$ ，而剩余部分的太阳能转化为热能耗散掉[2]。这部分废热使得太阳能电池温度升高，对于晶体硅电池，温度每升高 $1 ^ { \circ } \mathrm { C }$ ，光电转换效率下降$3 \% \sim 5 \%$ 。如何提高太阳能的利用率成为新能源研究方面的一大热点。
+
+近年来，光伏热电耦合系统被提出用于提升太阳能的利用率。一种耦合方式是直接将热电模块粘结在光伏电池的背部，利用热电模块将光伏电池所产生的废热转化为额外的电能，同时冷却光伏电池。各国学者对光伏热电系统的表现进行了理论和实验的研究，大部分文献指出，复合系统的使用可以增大太阳能的利用率[3-5]。Zhang 等[3] 研究了使用受迫风冷系统作为冷却方式的光伏热电耦合系统，针对不同的光伏电池，复合系统发电效率比单光伏电池系统效率高 $1 \% { \sim } 8 \%$ 。Park 等[4]提出了一种光伏热电无损耦合方式，当热电模块两端温差为$\mathrm { 1 5 ^ { \circ } C }$ 时，提升了光伏电池的输出功率 $\sim 3 0 \%$ 。Lin等[5]对 PV-TE 复合系统的外接电阻与热电模块的结构参数进行了优化，为复合系统设计提供了一些指导。
+
+然而各学者在对PV-TE 耦合系统的研究中，均对复合系统进行一定的简化，其中大部分文献忽略了系统各组件的热阻。本文结合热阻理论，建立了更加完善的PV-TE耦合系统的数学模型。对系统各部分热阻进行了敏感度分析，发现了冷却系统热阻为耦合系统的控制热阻，降低冷却系统热阻成为提高复合系统效率最有效的方式。针对耦合系统的控制热阻，研究了冷却系统换热系数对系统总输出功率的影响，结合冷却方式的投入以及结构，发现受迫风冷更加适用于不聚光的光伏热电耦合系统。通过敏感度分析发现，光伏电池背板以及下部EVA的热阻对系统表现有着很大的影响，将光伏热电一体化可以有效的提高复合系统的效率。
+
+# 1系统结构与原理
+
+如图1所示，本文研究的光伏热电耦合系统包含光伏电池、热电电池、针形肋片3个部分。一个热电模块被贴在光伏电池的背部，用以转化光伏电池所产生的废热；针形肋片贴在热电模块的另一端来散掉系统无法利用的热能，同时使热电维持更大的温差。各组件之间采用导热胶进行连接。光伏电池为商业多晶硅电池，包括前玻璃盖板、上下光学胶膜、硅电池片和后Tedlar背板；热电模块采用碲化铋热点电池，包括氧化铝陶瓷板铜电极和127对$\mathrm { P / N }$ 热电引脚对；针形肋片包含胁基和针肋2部分。太阳光照透过前玻璃盖板照射到光伏电池上，部分太阳能被光伏电池直接转化为电能，剩余部分转化为热能。转化的热能部分通过导热传递给玻璃面板，然后通过对流和辐射散发到环境中。另一部分热能传递到热电模块，部分转化为电能，剩余部分通过肋片散发到环境中。
+
+![](images/6b706dc95550002c0e7435f076e5fc9481b84202ffc959fd783a9ac15cf8e6e3.jpg)  
+图1系统结构图  
+Fig.1 Schematic diagram of PV-TE hybrid system
+
+# 2 计算模型
+
+# 2.1热阻计算
+
+图2给出了光伏热电耦合系统的热阻网络图。本文假定复合系统内部热传递为一维稳态，光伏电
+
+池内部温度均匀，故不考虑其内部阻力。复合系统中，除光伏电池外，各组件均存在内阻，各组件之间连接处存在接触热阻。
+
+玻璃盖板与外界环境存在辐射换热，辐射换热热阻 $R _ { \mathrm { r a d } }$ 可表示为[6]：
+
+$$
+R _ { \mathrm { r a d } } = { \frac { 1 } { \varepsilon _ { \mathrm { g } } \sigma _ { \mathrm { B } } A _ { \mathrm { P V } } \left( T _ { \mathrm { g } } ^ { 2 } + T _ { \mathrm { a } } ^ { 2 } \right) ( T _ { \mathrm { g } } + T _ { \mathrm { a } } ) } }
+$$
+
+其中， $A _ { \mathrm { P V } }$ 为光伏电池的面积； $\varepsilon _ { \mathrm { g } }$ 为玻璃盖板的发射率； $\sigma _ { \mathrm { B } }$ 为斯蒂芬波尔兹曼常数； $T _ { \mathrm { g } }$ 、 $T _ { \mathrm { a } }$ 分别为玻璃盖板和环境的温度。
+
+玻璃盖板与外界环境的对流换热热阻 $R _ { \mathrm { c o n v } }$ 可通过式(2)计算[7]：
+
+$$
+\mathcal { R } _ { \mathcal { O } ^ { \mathrm { n v } } } = \frac { 1 } { ( 2 . 8 + 3 . 0 \times u _ { \mathrm { w i n d } } ) A _ { \mathrm { P V } } }
+$$
+
+其中uwind 为玻璃盖板表面风速，取 $2 ~ \mathrm { m / s }$ 。
+
+光伏电池、热电模块、肋片三个组件之间由导热胶粘结，Mirmira等[8]实验研究了多种因数对导热胶粘结方式的接触热阻的影响，发现界面温度以及压力对接触热阻的大小影响很小，而导热胶的厚度以及热导率是主要的影响因素。本文接触热阻同EVA胶、Tedlar背板、热电陶瓷板、热电铜电极、肋片基底的内阻均采用式(3)计算：
+
+$$
+\hat { \mathbf { C } } ^ { \hat { \mathbf { \alpha } } } \mathbf { \Sigma } ^ { R _ { \mathrm { i } } } = \frac { \delta _ { \mathrm { i } } } { k _ { \mathrm { i } } A _ { \mathrm { i } } }
+$$
+
+其中，δ为材料的厚度， $k$ 为材料的导热系数；
+
+热电模块的内阻 $R _ { \mathrm { T E } }$ 为热量通过热电引脚对所受到的阻力，可表示为[9]：
+
+$$
+R _ { \mathrm { T E } } = { \frac { L _ { \mathrm { p / n } } } { N A _ { \mathrm { p / n } } \left( k _ { \mathrm { p } } + k _ { \mathrm { n } } \right) } }
+$$
+
+其中, $L _ { \mathrm { p / n } \setminus A _ { \mathrm { p / n } } }$ 分别为热电引脚的长度和截面积;热电引脚对数 $N$ 为127； $k _ { \mathrm { p } }$ 和 $k _ { \mathrm { n } }$ 分别为 $p$ 型和 $n$ 型热电材料的导热系数。
+
+$R _ { \mathrm { f i n } }$ 为肋片的散热热阻，由下列公式计算[6：
+
+$$
+m = \sqrt { \frac { 4 h _ { \mathrm { a i r } } } { k _ { \mathrm { f i n } } D _ { \mathrm { f i n } } } }
+$$
+
+$$
+H _ { \mathrm { c , f i n } } = H _ { \mathrm { f i n } } + ( D _ { \mathrm { f i n } } / 4 )
+$$
+
+$$
+\eta _ { \mathrm { f , f i n } } = \frac { \operatorname { t a n h } ( m H _ { \mathrm { c , f i n } } ) } { m H _ { \mathrm { c , f i n } } }
+$$
+
+$$
+A _ { \mathrm { t } } = n _ { \mathrm { f i n } } A _ { \mathrm { f } } + A _ { \mathrm { b } }
+$$
+
+$$
+\eta _ { \mathrm { 0 , f i n } } = 1 - \frac { n _ { \mathrm { f i n } } A _ { \mathrm { f } } } { A _ { \mathrm { t } } } ( 1 - \eta _ { \mathrm { f , f i n } } )
+$$
+
+$$
+R _ { \mathrm { f i n } } = { \frac { 1 } { \eta _ { \mathrm { 0 , f i n } } h _ { \mathrm { a i r } } A _ { \mathrm { t } } } }
+$$
+
+其中， $m$ 为肋片常数； $h _ { \mathrm { a i r } }$ 为自然对流化热系数，取（204号 $8 \ \mathrm { W \cdot m ^ { - 2 } { \cdot } K ^ { - 1 } }$ ; $k _ { \mathrm { f i n } }$ 为肋片导热系数； $D _ { \mathrm { f i n } }$ 为肋片直径； $H _ { \mathrm { f i n } }$ 为肋片高度; $\boldsymbol { A } _ { \mathrm { b } }$ 为肋基面积; $A _ { \mathrm { { f } } }$ 为肋片截面积； ${ A } _ { \mathrm { t } }$ 为肋片全表面积; $\eta _ { \mathrm { f , f i n } }$ 为单一肋片效率; $\eta _ { 0 , \mathrm { f i n } }$ 为全肋片效率；
+
+![](images/ff46ced29fa5de89ed82bd7998361b192c60f4bef066a7fcea52f27d4a289786.jpg)  
+图2系统热阻网络图Fig.2The one-dimensional thermal resistance network ofthe hybrid system
+
+上述热阻计算、输出功率计算及能量平衡方程所需要的热电模块的参数列于表1，其他参数列于表2。
+
+表1热电模块计算参数表[9,10]  
+Table1Parameters of thermoelectric module   
+
+<html><body><table><tr><td>参数</td><td>符号</td><td>数值</td></tr><tr><td>赛贝克系数</td><td>sp/n</td><td>1.83×10-4 V/K</td></tr><tr><td>电阻率</td><td>Pp/n</td><td>7.23×10-6Ωm</td></tr><tr><td>热导率</td><td>kp/n</td><td>1.82W·m-1.K-1</td></tr><tr><td>单个引脚截面积</td><td>Ap/n</td><td>0.87mm²</td></tr><tr><td>引脚长度</td><td>Lp/n</td><td>1.6 mm</td></tr><tr><td>引脚对数</td><td>N</td><td>127</td></tr><tr><td>热电模块面积</td><td>ATE</td><td>30×30 mm²</td></tr><tr><td>陶瓷面板厚度</td><td>δceramic</td><td>0.8 mm</td></tr><tr><td>陶瓷面板热导率</td><td>kceramic</td><td>31W·m-1.K-1</td></tr><tr><td>铜电极厚度</td><td>δcu</td><td>0.3mm</td></tr><tr><td>铜电极热导率</td><td>kcu</td><td>398W·m-1.K-1</td></tr></table></body></html>
+
+# 表2光伏电池及其他组件计算参数表[2,9,11
+
+Table 2 Parameters of photovoltaiccell and other components   
+
+<html><body><table><tr><td>参数</td><td>符号</td><td>数值</td></tr><tr><td>玻璃面板吸收率</td><td>ag</td><td>0.018</td></tr><tr><td>玻璃面板透过率</td><td>Tg</td><td>0.95</td></tr><tr><td>玻璃面板发射率</td><td>Eg</td><td>0.85</td></tr><tr><td>玻璃面板厚度</td><td>8g</td><td>3mm</td></tr><tr><td>玻璃面板热导率</td><td>kg</td><td>1.8 W·m-1.K-1</td></tr><tr><td>光伏电池面积</td><td>Apv</td><td>30×30 mm²</td></tr><tr><td>光伏电池标准效率</td><td>nref</td><td>12.5%</td></tr><tr><td>光伏电池温度系数</td><td>β</td><td>0.004</td></tr><tr><td>导热胶厚度</td><td>δad</td><td>0.5 mm</td></tr><tr><td>导热胶热导率</td><td>kad</td><td>1.15 W·m-1.K-1</td></tr><tr><td>肋基面积</td><td>Ab</td><td>30×30mm²</td></tr><tr><td>肋基厚度</td><td>δb</td><td>3 mm</td></tr><tr><td>针肋个数</td><td>nfin</td><td>100</td></tr><tr><td>金助直径</td><td>Dfin</td><td>1.5 mm</td></tr><tr><td></td><td>Hfin</td><td>15 mm</td></tr><tr><td></td><td>SEVA</td><td>0.5 mm</td></tr><tr><td>EVA胶膜热导率</td><td>kEVA</td><td>0.35W·m-1.K-1</td></tr><tr><td>Tedlar背板厚度</td><td>δTedlar</td><td>0.33 mm</td></tr><tr><td>Tedlar 背板热导率</td><td>kTedlar</td><td>0.15W·m-1.K-1</td></tr></table></body></html>
+
+# 2.2输出功率计算
+
+光伏电池输出功率 $P _ { \mathrm { P V } }$ 与效率 $\eta _ { \mathrm { P V } }$ 为[11]：
+
+$$
+P _ { \mathrm { P V } } = \eta _ { \mathrm { P V } } \tau _ { \mathrm { g } } G
+$$
+
+$$
+\eta _ { \mathrm { P V } } = \eta _ { \mathrm { R } \mathrm { e f } } \overset { \textstyle \bigcap } { \times } \left( 1 - \beta _ { 0 } \cdot ( T _ { \mathrm { P V } } - T _ { \mathrm { r e f } } ) \right)
+$$
+
+其中： $\tau _ { \mathrm { g } } \mathrm { ^ { + } }$ 为玻璃盖板的透过率； $G$ 为光照强度，取$1 0 0 0 \chi \mathrm { W } \mathrm { \mathscr { P } ^ { m } } ^ { \bar { 2 } }$ $\eta _ { \mathrm { r e f } }$ 为光伏电池在标准测试条件下的效率 $\mathcal { B } _ { 0 } ^ { \times }$ 为电池的温度系数; $T _ { \mathrm { P V } }$ 和 $T _ { \mathrm { r e f } }$ 为电池的实际温度和标准测试温度 $( 2 5 ^ { \circ } \mathrm { C } )$ 。
+
+热电模块的输出功率 $P _ { \mathrm { T E } }$ 如式(8）所示[9]：
+
+$$
+P _ { \mathrm { T E } } = s _ { \mathrm { m } } I _ { \mathrm { T E } } ( T _ { \mathrm { h } } - T _ { \mathrm { c } } ) - I _ { \mathrm { T E } } ^ { 2 } r _ { \mathrm { T E } }
+$$
+
+其中： $s _ { \mathrm { m } } = N \left( s _ { \mathrm { p } } - s _ { \mathrm { n } } \right)$ 为热电引脚的赛贝克系数;热电模块电流 $I _ { \mathrm { T E } }$ 、电阻 $r _ { \mathrm { T E } }$ 可表示为[9]：
+
+$$
+r _ { \mathrm { T E } } = \frac { N \left( \rho _ { \mathrm { p } } + \rho _ { \mathrm { n } } \right) L _ { \mathrm { p / n } } } { A _ { \mathrm { p / n } } }
+$$
+
+$$
+I _ { \mathrm { T E } } = \frac { s _ { \mathrm { m } } ( T _ { \mathrm { h } } - T _ { \mathrm { c } } ) } { r _ { \mathrm { T E } } + r }
+$$
+
+其中： $\rho _ { \mathrm { p } }$ 和 $\rho _ { \mathrm { n } }$ 为热电引脚的电阻率； $\boldsymbol { r }$ 为TE 模块外接电阻，为使热电取得最大功率，令 $\boldsymbol { r }$ 等于 $r _ { \mathrm { T E } }$ 。
+
+复合系统总输出功率 $P$ 如式（11）所示：
+
+$$
+P = P _ { \mathrm { P V } } + P _ { \mathrm { T E } }
+$$
+
+# 2.3能量平衡方程
+
+根据复合系统的结构和热阻网络图，分别对玻璃盖板、光伏电池、热电模块热端、热电模块冷端列能量守恒方程：
+
+$$
+a _ { \mathrm { g } } G A _ { \mathrm { p v } } + \frac { T _ { \mathrm { p v } } - T _ { \mathrm { g } } } { R _ { \mathrm { E V A } } + R _ { \mathrm { g } } } - \frac { T _ { \mathrm { g } } - T _ { \mathrm { a } } } { R _ { \mathrm { c o n v } } } - \frac { T _ { \mathrm { g } } - T _ { \mathrm { a } } } { R _ { \mathrm { r a d } } } = 0
+$$
+
+$$
+\begin{array} { r } { \tau _ { \mathrm { g } } ( 1 - \eta _ { \mathrm { P V } } ) G A _ { \mathrm { P V } } - \frac { T _ { \mathrm { P V } } - T _ { \mathrm { g } } } { R _ { \mathrm { E V A } } + R _ { \mathrm { g } } } } \\ { - \frac { T _ { \mathrm { P V } } - T _ { \mathrm { h } } } { R _ { \mathrm { E V A } } + R _ { \mathrm { T e d l a r } } + R _ { \mathrm { a d } } + R _ { \mathrm { c e r a m } } + R _ { \mathrm { c u } } } = 0 } \end{array}
+$$
+
+$$
+Q _ { \mathrm { h } } - \frac { T _ { \mathrm { P V } } - T _ { \mathrm { h } } } { R _ { \mathrm { E V A } } + R _ { \mathrm { T e d l a r } } + R _ { \mathrm { a d } } + R _ { \mathrm { c e r a m } } + R _ { \mathrm { c u } } } = 0
+$$
+
+$$
+Q _ { \mathrm { c } } - { \frac { T _ { \mathrm { c } } - T _ { \mathrm { a } } } { R _ { \mathrm { c u } } + R _ { \mathrm { c e r a m } } + R _ { \mathrm { a d } } + R _ { \mathrm { b } } + R _ { \mathrm { f i n } } } } = 0
+$$
+
+其中：热电模块热端吸收热量 $Q _ { \mathrm { h } }$ 、冷端放出热量 $Q _ { \mathrm { c } }$ 为[9]：
+
+$$
+\begin{array} { l } { { Q _ { \mathrm { h } } = s _ { \mathrm { m } } T _ { \mathrm { h } } I _ { \mathrm { T E } } + \displaystyle \frac { T _ { \mathrm { h } } - T _ { \mathrm { c } } } { R _ { \mathrm { T E } } } - \frac { I _ { \mathrm { T E } } ^ { 2 } r _ { \mathrm { T E } } } { 2 } } } \\ { { \displaystyle Q _ { \mathrm { c } } = s _ { \mathrm { m } } T _ { \mathrm { c } } I _ { \mathrm { T E } } + \frac { T _ { \mathrm { h } } - T _ { \mathrm { c } } } { R _ { \mathrm { T E } } } + \frac { I _ { \mathrm { T E } } ^ { 2 } r _ { \mathrm { T E } } } { 2 \sqrt { 2 } } } } \end{array}
+$$
+
+2  
+学报》  
+（22)
+
+# 3结果与讨论
+
+# 3.1热阻敏感度分析
+
+将热电模块粘结在光伏电池背部可以利用光电转换余热发电，但是使得系统更加复杂。复合系统有着大量的热阻，找出复合系统的控制热阻，然后调节控制热阻对复合系统进行优化的有效的方式。通过比较复合系统各热阻，考虑到可控性以及热阻的大小差异，分别对玻璃盖板、上EVA 胶膜、下EVA 胶膜、Tedlar 背板、TE 模块、导热胶、陶瓷片、肋片的热阻进行敏感度分析。所研究的热阻对系统总输出功率的影响可以用敏感度因子来表示：
+
+$$
+E _ { \mathrm { i } } = { \frac { \Delta P / P } { \Delta R _ { \mathrm { i } } / R _ { \mathrm { i } } } }
+$$
+
+图3给出了在不同系统热阻 $\pm 1 0 \%$ 改变时，复合系统总输出功率的百分比变化，图中直线的斜率即为总功率对各不同热阻的敏感度因子。从图3中可以看出，对于所有进行敏感度分析的热阻来说，斜率均为负值，即复合系统总功率 $P$ 随着不同热阻 $R _ { \mathrm { i } }$ 的增大均降低。其中肋片散热热阻 $R _ { \mathrm { f i n } }$ 为控制热阻，对系统表现影响最大。对系统表现的影响由大到小为$R _ { \mathrm { f i n } } > R _ { \mathrm { T e d l a r } } > R _ { \mathrm { E V A ( d o w n ) } } > R _ { \mathrm { a d } } > R _ { \mathrm { T E } } > R _ { \mathrm { g } } >$ $R _ { \mathrm { E V A ( u p ) } } > R _ { \mathrm { c e r a m i c } } ,$ 0
+
+![](images/4ea935856e06fcbbf65f8a9a074b9cfa13a108e53553bd7bfa6d965191a039ca.jpg)  
+图3敏感度分析图 (热阻 $\pm 1 0 \%$ 变化VS复合系统总功率) Fig.3 Result of sensitivity analysis (total output power of the hybrid system versus the variation of thermal resistance)
+
+# 3.2冷却系统换热系数 $h$ 对系统输出功率的影响
+
+由节敏感度分析结果可知，肋片的散热热阻是系统的控制热阻。即对于使用自然风冷冷却方式的光伏热电耦合（PV-TE）系统，提高冷却方式换热系数、降低散热热阻是提升系统表现最有效的方式。图4给出了不采用聚光时，复合系统总输出功率随冷却系统换热系数的变化。图中可以看出，PV-TE复合系统总输出功率 $P$ 随冷却系统换热系数增大而增大，这种增大的速率在逐渐的降低。更好的冷却可以增大系统表现，但增大冷却系统的换热系数意味着更大的投入，对于主动冷却方式，增大冷却效果意味着消耗更大的泵工。图4可以看出，当 $h > 1 0 0$ $\mathrm { W } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { K } ^ { - 1 }$ 时，总功率随 $h$ 的变化已经非常小。强迫风冷系统的散热能力强于自然冷却，相对于水冷系统，有着投入低、结构简单的优点。所以对于不采用聚光的PV-TE耦合系统设计来说，强迫风冷系统更加合适。
+
+![](images/3fc4a184d0fc775ccca7d853bf29772e4880ed82d1d055af6086546a002a89a8.jpg)  
+图4冷却系统对流换热系数对PV-TE系统总输出功率的影响 Fig.4 The influence of the cooling system convection heat transfer coefficient on the total output power of the PV-TE hybrid system
+
+# 3.3热电光伏一体化计算
+
+由热阻敏感度分析的结果可知：光伏电池Ted-lar背板和下EVA胶膜的热阻对系统总输出功率也有着较大的影响。有学者提出了将热电引脚和铜电极直接焊接在光伏电池的硅基底上的光伏热电一体化思想，本文就一体化的结构进行了计算。图5给出了原复合系统与一体化系统的总输出功率随冷却系统换热系数变化趋势。图中可以看出，一体化系统的输出功率总是大于原PV-TE系统，且随着冷却系统换热能力的增强，两个系统输出功率的差值越大。这是因为冷却系统对流换热系数增大，冷却系统热阻降低，Tedlar背板、上EVA胶膜等组件的热阻占总热阻的比重增大，对系统表现影响更大。因此采用光伏热电一体化，可以增强PV-TE系统的表现。
+
+![](images/1eef1c19f39e8e181689f19cb264f67c50aaf0d98ce99a49bfd7daf38beb422e.jpg)  
+图5比较PV-TE复合系统与体化系统 Fig.5 Comparison of the traditional PV-TE hybrid system and the integrated PVTE hybrid system
+
+# 3.4光伏热电器件温度匹配
+
+对于直接将热电模块粘结在光伏电池背部的光伏热电耦合系统，温度匹配问题是耦合系统设计的一个重要问题。对于本文所研究的光伏热电耦合系统，下部热流由光伏电池流向热电模块，最后被热沉吸收。光伏电池具有最高的温度，温度从光伏电池而下逐渐降低。系统各部分热阻对复合系统的温度分布有着重要的影响，对系统进行热阻分析是解决温度匹配问题的关键。式（7）给出了光伏电池效率随温度变化趋势，式(8）给出了热电模块输出功率计算公式，可以看出：为了提升复合系统的表现,降低光伏电池温度和增大热电模块温差是两种主要途径。结合本文热阻分析的结果，将光伏热电模块一体化设计、降低器件间的接触热阻、提升冷却系统散热性能可以同时降低光伏电池的温度和增大热电模块的温差，成为提高复合系统输出功率的重要措施。
+
+# 4结论
+
+本文对光伏热电耦合系统进行了热阻分析，并对系统表现进行了优化计算，为光伏热电耦合系统的设计提供了一定的指导。
+
+结合热阻理论，建立了更加完善的 PV-TE 耦合系统的数学模型。对复合系统各部分热阻进行了敏感度分析，发现冷却系统的热阻为复合系统的控制热阻，系统总输出功率均随各部分热阻的增大而降低。同时针对系统控制热阻，研究了冷却系统换热系数对系统总输出功率的影响，复合系统随换热系数增大而增大，但增速逐渐降低；结合冷却方式的投入以及结构，发现受迫风冷更加适用于不聚光的光伏热电耦合系统。由敏感度分析结果可知，光伏电池背板以及下部EVA的热阻对系统表现有着很大的影响，通过计算发现，将光伏热电一体化可以进一步提高复合系统的效率。
+
+# 参考文献
+
+TyagiVV,RahimNAA,Rahim NA,et al.Progress in Solar PV Technology: Research and Achievement [J]. Renewable and Sustainable Energy Reviews,2013, 20: 443- 461   
+[2] Charalambous P G,Maidment G G,Kalogirou S A,et al. Photovoltaic Thermal (PV/T） Collectors:a Review [J]. Applied Thermal Engineering,2007,27(2):275-286   
+[3] ZHANG Jin, XUAN Yimin, YANG Lili. Performance Estimation ofPhotovoltaic-Thermoelectric Hybrid Systems [J].Energy,2014,78:895-903   
+[4] Park K T,Shin S M,Tazebay A S,et al.Lossless Hybridization Between Photovoltaic and Thermoelectric Devices [J]. Scientific reports,2013,3:2123   
+[5] Lin J,Liao TLin B. Performance Analysis and Load Matchingfa Photovoltaic-Thermoelectric Hybrid System [J] Energy Conversion and Management, 2015,105: 891-899   
+[6]Bergman T L,Incropera F P,DeWitt D P,et al. Fundamentals of Heat and Mass Transfer [M]. John Wiley & Sons,2011   
+[7] Duffie JA,Beckman W A.Solar Engineering of Thermal Processes [M].4th Edit.New York: John Wiley and Sons, 2006   
+[8] Mirmira SR,Marotta EE,Fletcher L S.Thermal Contact Conductance of Adhesives for Microelectronic Systems [J]. Journal of Thermophysics and Heat Transfer,1997,11(2): 141-145   
+[9] Gomez M,Reid R,Ohara B,et al. Influence of Electrical Current Variance and Thermal Resistances on Optimum Working Conditions and Geometry for Thermoelectric Energy Harvesting [J].Journal of Applied Physics, 2013,113(17):174908   
+[10] 时雯．传热能力对光伏电池特性的影响[D].重庆：重庆大 学,2014 SHI wen.An Investigation for the Influence of Heat Transfer to Photovoltaic Cell [D]. Chongqing: Chongqing University,2014   
+[11]Skoplaki E,Palyvos JA.On the Temperature Dependence ofPhotovoltaic Module Electrical Performance:a Review of Efficiency/Power Correlations [J].Solar Energy,2009, 83(5): 614-624

@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "编号：163079",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多孔介质内泡沫渗流过程入口效应的数值研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李莺歌1,2，张娜1,，吕伟峰4，巢昆13，杜东兴1,3，马连湘1（1．青岛科技大学机电工程学院，青岛2660612.青岛科技大学自动化与电子工程学院，青岛2660423．青岛科技大学地质能源研究院，青岛2661094.中国石油勘探开发研究院，北京，100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：本文利用随机泡沫数目守恒模型对均质多孔介质内泡沫液渗流过程的入口效应进行了数值研究。随机泡沫数目守恒模型仅利用两个参数：泡沫生成速率 $K _ { g }$ 与最大泡沫个数 $n _ { \\infty }$ ，来描述多孔介质内非稳态驱替过程中泡沫的生成和发展。采用IMPES方法对二维介质内泡沫两相渗流过程的控制方程组进行求解，基于驱替过程中液相压力、液相饱和度及气泡密度分布等参数的分析，对泡沫驱替过程的入口效应进行了详细研究。结果发现，增大泡沫生成速率 $K _ { g }$ ，泡沫渗流过程的入口效应减小；而增大参数 $n _ { \\infty }$ ，虽可提高驱替压差，但对多孔介质入口段各参数的分布规律影响不大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：随机泡沫数目守恒模型；多孔介质；泡沫渗流；入口效应；数值研究中图分类号： 0 $3 5 9 \\substack { + . 1 }$ 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerical Study on Inlet Effect of Foam Flow Process in a Porous Media ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIYing-Ge12ZHANG Na3Lv Wei-Feng4 CHAO Kun1.3DUDong-Xing1,3 MA Lian-Xiang1 (1. Collge ofElectromechanicalEngineering,Qingdao Universityof Science and Technology,Qingdao 266061,China; 2. College of Automation and Electronic Engineering, Qingdao 266042, China 3.Geo-Energy Research Institute, Qingdao University of Science and Technology, Qingdao 266109, China 4.Research Institute of China Petroleum Exploration & Development,Beijing 10o083, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Numerical investigation has been carried out concerning the inlet eect of foam flow process in a homogeneous porous media based on the stochastic bubble population balance model.The stochastic bubble population balance model could predict simply and robustlythe bubble growth and development behavior in the transient foam displacement process in porous media by employing only two parameters: the foam generation rate of $K _ { g }$ and the maximum bubble number of $n _ { \\infty }$ . The governing equations for two-dimensional two-phase foam seepage process are solved through IMPES method,and the distribution characteristics of water phase pressure，water saturation and bubble density are analyzed to investigate the inlet effct in a foam flow processin the porous media. The results show the parameter variations in the inlet region could be suppressed at higher $K _ { g }$ values, indicating less inlet effect at higher foam generation rates. Although it shows higher pressure drop along the sample,increasing the （20 $n _ { \\infty }$ value has litle effect on the distribution laws of various parameters in the entrance region ofthe porous media. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Stochastic bubble population balance model; Porous media; Foam flow proces; Inlet efect; Numerical study ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在石油开采过程中，泡沫技术被广泛用于强化采油(EOR)的工业实践。传统的气体驱油过程由于重力分层及气体在高渗透率岩层的窜流而导致较低的驱油效率，而采用泡沫技术则可显著提高气相黏度，对驱替气体进行良好的流度控制，进而提高最终原油采收率[1-6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用数值方法可简单可靠地对多孔介质内泡沫的驱替特性进行分析、模拟和预测。目前部分研究者采用单相非牛顿流体的假设来模拟泡沫的流变特性[7-9]，但其方法缺乏通用性，不能很好地反应泡沫在多孔介质内的渗流机理。要成功描述泡沫流体在多孔介质中的驱替特性，则必须对介质内泡沫的生成及湮灭行为进行准确建模。在基于两相流体分相假设的流变学模型中，泡沫数目 ${ \\mathfrak { n } } _ { \\mathrm { f } }$ 是非常重要的参数。现今的泡沫数目模型中，最著名的是分相流动模型及气泡数量守恒模型。分相流动模型由 Rossen [10-14]提出，由于模型中没有精确考虑气泡数量随时间的变化，因此多用于模拟泡沫的稳态渗流特性。而 Patzek 及 Kovscek 等[15-18]提出的气泡数量守恒模型，虽然基于气泡密度的动态平衡，但由于模型内参数过多，而在实践中难以应用。因此目前较为成功的油藏多相流模拟商业软件，如Eclipse[19]、CMG 公司的 STARS[20]在处理泡沫流体时并不是通过计算泡沫的表观粘度来求得其流度，而是直接对泡沫相的流度进行经验性修正。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最近，Zitha 和 Du[21-22]开发了一种针对泡沫在多孔介质中运动的新的随机泡沫数目守恒模型。泡沫数目守恒模型基于以下几点基本假设：(1)泡沫作为复杂流体，它的流变学特性由Herschel-Bulkley模型描述；(2)泡沫的流变学特性本质上取决于泡沫的密度(每单位体积多孔介质内泡沫的数目)； (3)最后，在微观水平上，泡沫的产生看作是一个随机的过程，泡沫产生动力学遵循简单的指数增长定律。相比传统的数量平衡模型，随机泡沫数量守恒模型仅包括两个基本变量，因此更易于由实验来确定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用随机泡沫数目守恒模型对泡沫液在均质多孔介质内渗流过程的入口效应进行了数值模拟。所谓的入口效应，是指在入口处一段区域内，某些变量的分布与其他区域内的这些变量的分布有较大的差异。在泡沫驱替过程中，这些变量包括液相饱和度，液相压力以及泡沫密度。本文采用IMPES方法对二维两相泡沫渗流过程的控制方程组进行求解，基于驱替过程中液相压力、液相饱和度及气泡密度分布等参数的分析，对泡沫驱替过程的入口效应进行了详细研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1计算区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为本文计算区域，是长度为L，宽度为d,孔隙度为 $\\phi$ ，渗透率为 $K$ 的二维均质多孔介质。流体从左边中心部分流入，从右边边界流出。开始时先将介质中注满水，即介质中液相饱和度为 $100 \\%$ 然后气体和表面活化剂溶液以速度 $u$ 从入口边界注入，且 $\\boldsymbol { u } = \\boldsymbol { u } _ { \\scriptscriptstyle w } + \\boldsymbol { u } _ { \\scriptscriptstyle g }$ ， $\\boldsymbol { u } _ { \\scriptscriptstyle w }$ 和 $u _ { g }$ 分别气体和液体的分速度，泡沫在介质内生成、发展并对其中原有液相进行驱替，最后由出口边界流出。出口压力保持不变为0.1MPa。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/828e8ce5872675a92e4a0535a1a401bea721534ef2a0f601c419421eaa394fdc.jpg",
+        "img_caption": [
+            "图1.计算区域",
+            "Fig.1. Calculation area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于随机泡沫数目守恒模型的控制方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "泡沫在多孔介质内驱替过程的控制方程为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { \\displaystyle { \\phi \\frac { \\hat { \\sigma } \\big ( \\rho _ { i } S _ { i } \\big ) } { \\hat { \\sigma } t } + \\nabla . \\big ( \\rho _ { i } \\mathbf { u } _ { i } \\big ) = 0 } } \\\\ { \\mathbf { u } _ { i } = - \\lambda _ { i } \\nabla P _ { i } } \\\\ { \\displaystyle { \\phi \\frac { \\hat { \\sigma } \\big ( n S _ { f } \\big ) } { \\hat { \\sigma } t } + \\nabla . \\big ( n \\mathbf { u } _ { f } \\big ) = \\phi S _ { f } K _ { g } \\big ( n _ { \\infty } - n \\big ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "辅助方程为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { \\it { w } } } + S _ { g } = 1 ; \\quad P _ { c } = P _ { f } - P _ { w }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ρi，S，u，λ和P分别为第i相流体的密度，饱和度，速度，流度和压力，其中 $i \\in \\left\\{ w , f \\right\\}$ （下标 $f$ 指的是泡沫)。控制方程(1)中第三式即为随机泡沫数目守恒模型，其中泡沫生成速率 $K _ { g }$ 和最大泡沫数目 $n _ { \\infty }$ 是与泡沫产生与发展相关的两个参数，可由实验测得。计算过程中假设液相不可压缩，而泡沫相符合理想气体状态方程。辅助方程中 $p _ { c }$ 为毛细压力，其仅为液相饱和度Sw的函数，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { c } = \\sigma _ { w g } \\gamma \\sqrt { \\frac { \\varphi } { k } } \\left( \\frac { 0 . 5 - S _ { w c } } { 1 - S _ { w c } } \\right) ^ { \\frac { 1 } { \\lambda } } \\left( \\frac { S _ { w } - S _ { w c } } { 1 - S _ { w c } } \\right) ^ { - \\frac { 1 } { \\lambda } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\sigma _ { w g }$ 指的是气液两相之间的表面张力，？为拟合参数， $\\lambda$ 为常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第 $i$ 相流体的流度 $\\lambda _ { i }$ 定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } = \\frac { k _ { i } } { \\mu _ { i } } = \\frac { k k _ { r i } } { \\mu _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $k _ { r i }$ 为第 $i$ 相流体的相对渗透率， $\\mu _ { i }$ 为流体的粘度，泡沫流体的粘度由下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { f } = \\mu _ { g } + \\alpha \\frac { n } { u _ { f } ^ { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\alpha$ ， $\\boldsymbol { c }$ 均为常数； $n$ 为泡沫密度(每单位体积多孔介质内泡沫的个数)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流体的相对渗透率 $k _ { r i }$ 的表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { r w } = k _ { r w } ^ { 0 } ( \\frac { S _ { w } - S _ { w c } } { 1 - S _ { w c } } ) ^ { \\lambda } ;\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { _ { r f } } = k _ { _ { r f } } ^ { 0 } ( 1 - \\frac { S _ { _ { w } } - S _ { _ { w c } } } { 1 - S _ { _ { w c } } } ) ^ { \\frac { 3 \\lambda + 2 } { \\lambda } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $S _ { w c }$ 指残留水饱和度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数值求解方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用 IMPES 方法[23]对控制方程组(1)进行求解。此问题为二维两相渗流过程，数值求解的过程分为三个步骤(上标 $\\mathfrak { n }$ 代表时间)：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)第 $\\mathfrak { n }$ 时刻的压力场 $P _ { \\ l _ { w } } ^ { \\ l _ { n } }$ 由前一时刻的压力场 $P _ { w } ^ { n - 1 }$ ，饱和度 $\\boldsymbol { S } _ { \\boldsymbol { w } } ^ { n }$ 和泡沫密度 $n ^ { \\overset { n } { } }$ 隐式计算得出，第 $\\mathfrak { n }$ 时刻的压力场 $P _ { f } ^ { n }$ 可以由 $P _ { \\mathrm { { } } _ { w } } ^ { n }$ 和 $P _ { c } ^ { n }$ 之和求得，其 中 $P _ { c } ^ { n }$ 由方程(3)得到。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)第 $\\mathfrak { n } { + } 1$ 时刻的饱和度分布 $S _ { w } ^ { n + 1 }$ 可以由 $\\boldsymbol { S } _ { \\boldsymbol { w } } ^ { n }$ 和$P _ { \\ l _ { w } } ^ { \\ l _ { n } }$ 显式求得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)第 $\\mathfrak { n } { + } 1$ 时刻的泡沫密度分布 $n ^ { n + 1 }$ 也可以用已知的 $n ^ { \\overset { n } { } }$ ， $P _ { f } ^ { n }$ ， $S _ { f } ^ { n }$ ， $S _ { f } ^ { n + 1 }$ 显式求得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数值模拟中的参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值模拟中采用的参数如表1和表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1数值模拟参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/425f2f7daef3c1726dc92aa93d0653fa1fcf1cacd166e44846904d64ee796280.jpg",
+        "table_caption": [
+            "Table 1 Numerical simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>长度L(m)</td><td>0.05</td><td>ug.in(m/s)</td><td>0.0002</td></tr><tr><td>宽度d(m)</td><td>0.025</td><td>uw;in(m/s)</td><td>0.00002</td></tr><tr><td>时间间隔△t(s)</td><td>0.0001</td><td>Vg.in(m/s)</td><td>0</td></tr><tr><td>X方向网格数N</td><td>52</td><td>Vw;in(m/s)</td><td>0</td></tr><tr><td>Y方向网格数M</td><td>12</td><td>Pwo(Pa)</td><td>101325</td></tr><tr><td>时间t(s)</td><td>500</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2流体与岩石特性参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 2Fluid and rock characteristics parameters ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebb20acf504c41a3939c5066e3616c16de92925276bc0520d7f2c247c09140ac.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：表2 中参数参考Bentheimer 岩心[24]。"
+        ],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>Swc</td><td>0.1</td><td>μg(Pa’ s)</td><td>18.1×10-6</td></tr><tr><td></td><td>0.23</td><td>a</td><td>8.6×107</td></tr><tr><td>K(m²)</td><td>2.0×10-12</td><td>A</td><td>5.0</td></tr><tr><td>K</td><td>1.0</td><td>C</td><td>0.333333</td></tr><tr><td>Kr</td><td>0.5</td><td>Y</td><td>0.5</td></tr><tr><td>μ w(Pa’s)</td><td>1004.0 ×10-6</td><td>σ wg(N/m)</td><td>30×10-3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数值模拟结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1泡沫生成速率 $K _ { g }$ 的影响 $( \\eta _ { \\infty } = 2 0 0 )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1参数二维分布云图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2、图3分别为 $n _ { \\infty } { = } 2 0 0$ 保持不变、驱替过程完成后同一时刻 $( \\mathrm { T } { = } 5 0 0 \\mathrm { s } )$ 、不同 $K _ { g }$ 值时液相饱和度、液相压力和泡沫密度分布的二维云图。从图中可以看出，在多孔介质入口部分，液相饱和度在中心区域的数值要大于两侧，介质中心的液相压力也明显大于两侧，泡沫密度在入口处最小，但沿程逐渐增加到最大泡沫数目。入口段参数分布的明显不同表明泡沫液在多孔介质驱替过程中具有明显的入口效应。比较图2与图3还可看出，图2在介质入口段液相饱和度及泡沫密度参数的变化范围明显大于图3，说明 $K _ { g }$ 值越大，其入口效应越小。这是由于 $K _ { g }$ 决定泡沫的生成速率， $K _ { g }$ 越大，说明泡沫生成越快并能够在较小的范围内达到充分发展，因此其驱替过程的入口效应较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/401a8ea3e808e31fc69efd512c82755a664a5f32d03613dd6cd1657e271a5f15.jpg",
+        "img_caption": [
+            "图2 $K _ { g } { = } 0 . 1$ 时泡沫驱替特性参数分布图(从上至下为液相饱和度、液相压力及泡沫密度分布图)",
+            "Figure 2Distribution diagram of various displacement parameters at $K _ { g } { = } 0 . 1$ (From top to bottom are water saturation, water pressure and foam density distributions) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/147a0dafaabd76e84b716f4b0f24ec448999d46676377b6f77d11132028ec8f4.jpg",
+        "img_caption": [
+            "图3 $K _ { g } { = } 1 . 0$ 时泡沫驱替特性参数分布图(从上至下为液相饱 和度、液相压力及泡沫密度分布图) Figure 3Distribution diagram of various displacement parameters at $K _ { g } { = } 1 . 0$ (From top to bottom are water saturation, water pressure and foam density distributions) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2驱替过程参数沿程分布特性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4、图5分别为动态驱替过程中不同 $K _ { g }$ 值时液相饱和度、液相压力和泡沫密度沿介质长度方向分布曲线。沿程参数由同一横截面上的参数平均获得。图中可清楚看到两种 $K _ { g }$ 值下泡沫液在200s 时均已在介质出口达到突破。由图中还可看出，两种$K _ { g }$ 值下，泡沫完成突破后介质入口区域液相饱和度数值较大，液相压力降低幅度较小，泡沫数目变化明显，均显示出明显的入口效应。对比图4与图5可以看出，图4的入口效应更加明显。说明 $K _ { g }$ 越大，泡沫在多孔介质入口区域的参数变化范围越小，即入口效应越小，其结论与二维云图分析结果一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/71076354e47ddbc01618cb6c8da732122dbf8a96b9321aa4bf487df3c3791413.jpg",
+        "img_caption": [
+            "图4 $K _ { g } { = } 0 . 1$ 时不同时刻泡沫驱替特性参数沿流动方向的分 布(从上至下为液相饱和度、液相压力及泡沫密度) Figure 4Distributions of various foam displacement parameters along the flow direction at $K _ { g } { = } 0 . 1$ (From top to bottom are water saturation,water phase pressure and foam density) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd2f502f177a282e3b29ce28adece4607a7cdf434dff58c16c255a3a38e461e.jpg",
+        "img_caption": [
+            "图5 $K _ { g } { = } 1 . 0$ 时不同时刻泡沫驱替特性参数沿流动方向的分 布(从上至下为液相饱和度、液相压力及泡沫密度) Figure 5Distributions of various foam displacement parameters along the flow direction at $K _ { g } { = } 1 . 0$ (From top to bottom are water saturation,water phase pressure and foam density) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2最大泡沫个数 $n _ { \\infty }$ 的影响 $( K _ { g } = 0 . 1 )$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1参数二维分布云图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6驱替过程完成后 $( \\mathrm { T } { = } 5 0 0 \\mathrm { s } )$ ！ $n _ { \\infty } { = } 5 0 0$ 时液相饱和度、液相压力和泡沫密度分布的二维云图。从图中可以看出在多孔介质入口区域，试样中心部分的液相饱和度要大于两侧，液相压力也大于两侧，泡沫密度在入口处最小。而在试样后半部分三个参数的变化均明显减小，因此驱替过程也显示出明显的入口效应。与图 $2 \\ n _ { \\infty } { = } 2 0 0$ 的结果对比，虽然图6在 $n _ { \\infty }$ 较大时具有更小的液相饱和度、更大的驱替压差及更多的泡沫数目，但两图中泡沫驱替过程参数空间分布规律基本相同，说明 $n _ { \\infty }$ 的大小对泡沫液在多孔介质内驱替过程的入口效应影响不大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/192e796df9b9f7c0cddb516acbda54b0e21f0e6dad4de656d52c0d785a8d4e69.jpg",
+        "img_caption": [
+            "图6 $n _ { \\infty } { = } 5 0 0$ 时泡沫驱替特性参数分布图(从上至下分别为液 相饱和度、液相压力及泡沫密度) Figure 6 Distribution diagram of various displacement parameters at $n _ { \\infty } { = } 5 0 0$ (From top to bottom are water saturation, water pressure and foam density distribution) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2驱替过程参数沿程分布特性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7为 $n _ { \\infty } { = } 5 0 0$ 时液相饱和度、液相压力和泡沫密度沿介质长度方向的分布曲线。由图中可以看出， $n _ { \\infty } { = } 5 0 0$ 时多孔介质前部的液相饱和度具有下降趋势、多孔介质入口区域的压降幅度较介质内后部区域小、介质入口段的泡沫密度变化更为显著。因此 $n _ { \\infty } { = } 5 0 0$ 时泡沫驱替过程也具有明显的入口效应。进一步与图4 $n _ { \\infty } { = } 2 0 0$ 的结果对比可以看出，两种情况下虽然各参数的绝对数值并不相同，但各参数的沿程分布规律基本一致，说明 $n _ { \\infty }$ 取值对泡沫液在多孔介质内驱替过程的入口效应影响并不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c26b99269c22b11d483ade1c0d0cda7392406eca7be20df5bfae42e5cf697d10.jpg",
+        "img_caption": [
+            "图7 $n _ { \\infty } { = } 5 0 0$ 时不同时刻泡沫驱替特性参数沿流动方向的分 布(从上至下为液相饱和度、液相压力及泡沫密度) Figure 7Distributions of various foam displacement parameters along the flow direction at $n _ { \\infty } { = } 5 0 0$ (From top to bottom are water saturation,water phase pressure and foam density) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用随机泡沫数目守恒模型，对泡沫液在二维均质多孔介质内渗流过程的入口效应进行了数值模拟分析，得出如下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) 泡沫由中心注入多孔介质后，在介质内生 成并逐步发展，其驱替过程显示出明显的 入口效应;   \n(2) 泡沫生成速率参数 $K _ { g }$ 增大，泡沫液在多孔 介质入口区域的参数变化范围变小，即入 □效应减小;   \n(3) 最大泡沫密度参数 $n _ { \\infty }$ 不同虽可影响各驱替 参数的绝对数值，但各参数的沿程分布规 律基本一致，说明 $n _ { \\infty }$ 取值对泡沫驱替过程 入口效应的影响并不明显。   \n参考文献   \n[1] Gaspar A TF S, Lima G A C ， Suslick S B. $\\mathrm { C O } _ { 2 }$ Capture and Storage in Mature Oil Reservoir: Physical Description, EOR and Economic Valuation of a Case of a Brazilian Mature Field [C]. Paper SPE 94181 presented at SPE Europe/EAGE Annual Conference, Spain, 2005.   \n[2] Gaspar A TF S, Suslick S B, Ferreira D F, Lima G AC. Enhanced Oil Recovery With $\\mathrm { C O } _ { 2 }$ Sequestration:A Feasibility Study of A Brazilian Mature Oil Field [C]. Paper SPE 94939 presented at SPE/EPA/DOE Exploration and Production Environmental Conference, Texas, U.S.A., 2005.   \n[3] Franklin M, Orr Jr. Storage of Carbon Dioxide in Geologic Formations [J]. Journal of Petroleum Technology, 2004, 56(9): 90.   \n[4]Moritis G 2002 Worldwide EOR Survey [J]. Oil and Gas Journal,2002,100(15): 43-47.   \n[5]Moritis G EOR Continues to Unlock Oil Resources [J]. Oil and Gas Journal,2003,102(14): 45-49.   \n[6]李红.非均质油藏 $\\mathrm { C O } _ { 2 }$ 驱与 $\\mathrm { C O } _ { 2 }$ 泡沫驱的流动度比较和   \n分析[J].试采技术,1998,19(4):24-26. LI Hong. Comparison and analysis of fluidity of $\\mathrm { C O } _ { 2 }$   \nflooding and $\\mathrm { C O } _ { 2 }$ foam in heterogeneous reservoir[J]. Trial   \nMining Technology, 1998,19(4):24-26.   \n[7] 李兆敏，孙茂盛，忤元兵．泡沫压裂液在裂缝内的层流   \n流动[J].广西大学学报(自然科学版),2006,31(3):212-215. LI Zhaomin ，SUN Maosheng，Wu Yuanbing.Laminar flow in the cracks [J].Journal of Guangxi University (Natural Science Edition),2006，31(3): 212-215.   \n[8] 李兆敏,李松岩,尚朝辉等.泡沫流体层流射流的数值模   \n拟[J]．钻井液与完井液,2007,24(1)：58-60,75. LI Zhaomin ，LI Songyan ，SHANG Chaohui et al.   \nNumerical Simulation of Stratified Jet in Foam Fluid [J].   \nDrilling Fluid and Completion Fluid,2007,24(1): 58-60,75.   \n[9] Du D X, Sun S J, Chen L et al. Numerical Simulation of Film Foam Flow Characteristics in a Straight Tube [C], Proceedings of 2009 International Conference on Modeling, Simulation and Optimization, pp.27-30,Beijing, China, 2009.   \n[10] Rossen W R,Gauglitz P A. Percolation Theory of Creation and Mobilization of Foams in Porous[J], Media.AIChE Journal. 1990,36(8): 1176-1188.   \n[11] Rossen W R, Shi J, Zeilinger S C. Percolation Modeling of Foam Generation in Porous Media [J].AIChE Journal, 1994, 40(6): 1082-1084.   \n[12] Shi JX.Rossen W R. Simulation of Gravity Override in Foam Processes in Porous Media [J].SPE Reservoir Evaluation and Engineering,1998,1:148-154.   \n[13]Rossen W R,Zeilinger S C,Shi JX et al. Simplified Mechanistic Simulation of Foam Processes in Porous Media[J],SPE Journal,1999,4:279-287.   \n[14] Cheng L,Kam S I,Delshad M,et al .Simulation of Dynamic Foam-acid Diversion Processes [J].SPE Journal, 2003,7: 316-324.   \n[15]Patzek TW.Modeling of Foam Flow in Porous Media by the Population Balance Method [M].Surfactant-Based Mobility Control-ACS Symposium Series 373，1988, 326-341.   \n[16]Kovscek A R,Patzet T W,Radke C J.Mechanistic Prediction of Foam Displacement in Multidimensions:A Population Balance Approach [C]. SPE 27789 in SPE/DOE Ninth symposium on improved oil recovery, Tulsa,USA, 1994.   \n[17]Kovscek AR,Patzek T W,Radke CJ.A Mechanistic Population Balance Model for Transient and Steady State Foam Flow in Boise Sandstone [J],Chemical Engineering Science 1995,50(23):3783-3799.   \n[18] Kovscek AR,Patzek T W,Radke CJ.Mechanistic Foam Flow Simulation in Heterogeneous and Multidimensional Porous Media[J].SPE Journal,1997,2(4):511-526.   \n[19] ECLIPSE Simulators. http://www.slb.com/services/software/reseng/blackoil.aspx   \n[20] CMG Simulators.http://www.cmgl.ca/software/soft-stars   \n[21] Zitha PLJ,Du D X.A new stochastic bubble population model for foam flow in porous media[J].Transport Porous Media,2010,83(3),603-621.   \n[22]DuDX,ZithaPLJ,VermolenFJ.Numerical analysis of foam motion in porous media using a new stochastic bubble population model[J].Transport Porous Media,2011, 86:461-474.   \n[23]Aziz,K.& Settari,A.: Petroleum reservoir simulation [M], Applied Science Publishers:London and New York,1979: 18-24,135-150.   \n[24] DuDX,Ali Naderi B,Farajzadeh R,et al.Effect of Water Solubility on Carbon Dioxide Foam Flow in Porous Media: An X-ray Computed Tomography Study [J]. Industrial Engineering Chemistry Reseach.2008,47,6298-6306. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

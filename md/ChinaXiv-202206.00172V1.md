@@ -1,0 +1,275 @@
+亲子关系和父母教育卷入对青少年抑郁、自伤和自杀意念的影响：挫败感和人
+
+# 生意义感的作用\*
+
+胡义秋1,2,3,4 曾子豪1,彭丽仪」王宏才1,3刘双金1,杨琴」方晓义5
+
+（1．湖南师范大学教育科学学院，长沙，410081；2．湖南省心理健康教育研究基地，长沙，410081；3．认知与人类行为湖南省重点实验室，长沙，410081；4．湖南师范大学心-脑交叉科学研究中心，长沙，410081；5．北京师范大学发展心理研究院，北京
+
+100875)
+
+摘要 基于生态系统理论和动机-意志整合模型，采用问卷法以930 名青少年(年龄 $\mathbf { \Sigma } = \mathbf { \Sigma }$ $1 5 . 2 4 \pm 1 . 6 6$ 岁)及其父母为研究对象，构建一个有调节的中介模型，从家长与孩子双视角分析孩子体验到的亲子关系和父母教育卷入对青少年抑郁、自伤和自杀意念的影响路径。结果显示：(1)相比低亲子关系-低教育卷入一致的个体，高亲子关系-高教育卷入的青少年有着更低水平的挫败感，且相比于低亲子关系-高教育卷入的青少年，有着高亲子关系-低教育卷入的个体表现出更低水平的挫败感；(2)挫败感在亲子关系-教育卷入与青少年抑郁、自伤和自杀意念之间起部分中介作用；(3)人生意义感调节该中介模型后半段，即挫败感对青少年抑郁、自伤和自杀意念的影响，具体表现为随着人生意义感的增加，挫败感对抑郁自伤和自杀意念的影响逐渐减小。研究从家庭关系中家长与孩子双视角，揭示了挫败感和人生意义感的中介与调节作用，为青少年抑郁、自伤和自杀意念的发生机制提供更多解释路径。
+
+关键词青少年心理健康，亲子关系，挫败感，人生意义感，响应面分析
+
+分类号 B844，B825
+
+# 1问题提出
+
+青少年心理问题因其高发性和高危险性一直是各国政府、心理学、社会学和医学研究者所关心的话题和研究热点，其中青少年抑郁、自伤和自杀意念不仅会对个体社会功能造成严重影响，而且事发后所导致的疾病负担和经济压力更是使得探究其因素和发展机制变得刻不容缓(Becker & Correll,2020; Brown & Plener,2017; Salk et al.,2017)。据 2020 中国心理健康蓝皮书报告，2020我国青少年抑郁的检出率为 $2 4 . 6 \%$ ，其中重症抑郁检出率为$7 . 4 \%$ ，而且青少年抑郁还会增加成年期罹患相关精神疾病风险(Weersing et al.,2017)。而有关自伤检出率的研究结果显示，青少年至少发生一种自伤行为的国际间终生检出率为 $1 7 \%$ $\sim 1 8 \%$ (Muehlenkamp et al.,2012; Swannell etal.,2014)，而在我国青少年自伤检出率为 $14 \%$ $\sim 3 2 \%$ (Han et al.,2018;Li et al.,2020)。不仅如此，在 $1 5 \sim 1 9$ 岁青少年群体中，自杀已成为青少年死亡的第二大原因(Breslin et al.,2020; Thompson et al.,2018)，而自杀意念一方面作为自杀企图和自杀行为的危险因素，可以显著预测自杀，但另一方面也是自杀行为防控与干预的关键时期，因而受到研究者的重点关注(Zhu etal.,2019)。此外，以抑郁、自残和自杀为关键词在百度指数上进行检索，2021年8月份抑郁、自残和自杀偏好度指数(Targetgroup index,TGI)各年龄分段依次为 $< 1 9$ 岁(154.0; 305.0; 245.6)， $2 0 \sim 1 9$ 岁(121.7; 73.1;177.7) ； $3 0 \sim 3 9$ 岁 (91.2; 93.5; 69.9) ； $4 0 \sim 4 9$ 岁(69.0; 66.0; 52.3) ; $> 5 0$ 岁 (53.8; 26.7;19.6)，TGI指数显示低龄段群体搜索这些内容占比更大。与此同时，新冠疫情大流行爆发不仅是全球公民生理上的危机，也对心理健康造成巨大影响，各种心理障碍和精神疾病检出率也显著增加(Choi et al.,2020; Gunnell et al.,2020)。且不论是横断面或是纵向研究结果都一致发现抑郁、自伤和自杀意念之间存在高相关和共病性(Hawton et al.,2012; Rotensteinet al.,2016;Wang&Liu,2019)，因此本研究拟同时探究青少年抑郁、自伤和自杀意念的发展机制以丰富相关理论和为有关实践提供指导。
+
+# 1.1亲子关系与父母教育卷入对青少年抑郁、自伤和自杀意念的影响
+
+生态系统理论(Bronfenbrenner,1979)强调环境在个体发展过程中的作用与意义，认为个体发展是其与周围环境相互作用的结果，而生态环境是一个包含四层的网状结构，其中最内层微系统—一家庭，是与个体最为相关且影响最大的环境。作为家庭生态环境中重要组成部分的亲子关系，过往研究表明相比不健康、消极的亲子关系，有着亲密、积极亲子关系的个体其情感功能和适应能力有着显著提高，并且表现出较高的心理健康水平(Hazel etal.,2014)。Hammen (2018)在其有关抑郁的危险因素自传体综述中提出，个体经历较多拒绝、排斥和冲突的人际交往经历尤其是亲子关系，会形成消极的认知图式和自我评价，从而导致更高水平的抑郁风险。而且，有研究显示稳定、温暖的亲子关系可以作为面临压力时的一种保护因素减少其消极影响(Cummings& Schatz,2012)。与此同时，不论是抑郁的进化理论(Price et al.,1994)还是自伤的功能理论(Nock,2010)均提出，处于从属地位或社交失败的个体可以通过下调情绪即抑郁或自伤行为，来增加他人关注与支持。在一项探究父母照顾不足和过度控制与青少年自杀意念关系的元分析研究中，Goschin 等人(2013)发现缺乏母亲照顾与母亲过度保护和自杀显著相关，而在父亲与子女关系中，只有缺乏照顾与自杀显著相关。因此，本研究认为亲子关系可以显著影响青少年抑郁、自伤和自杀意念。然而，亲子关系分为子女体验和父母感受的亲子关系，而以往研究往往选择子女自身体验到的亲子关系(Sampasa-Kanyinga et al., 2020)。
+
+在我国社会背景下不论是古时候广为流传的“孟母三迁”的故事，或是现时代一个家庭为教育资源投入大量心血，父母常常说的一句话“你看我多爱你，什么都是给你最好的”，教育卷入成为父母之间比拼的重要内容。父母教育卷入(Parents'educationalinvolvement)指父母自身对孩子教育理念与发展的期望，在家庭和学校中，为促使孩子取得更好学业成就和心理发展所做出的多种教育参与行为的总和。研究结果显示教育卷入可以通过提高孩子心理素质从而降低其问题行为(程刚等,2019)，此外低水平的教育卷入也与更低水平心理健康和自杀意念与行为有关(Wang etal.,2019)。因此，父母教育卷入亦能显著影响青少年抑郁、自伤和自杀意念。在一项探究父母教育卷入对儿童社会创造力影响研究中，Diarra等人(2017)发现教育卷入水平较高的父母重视为孩子营造自主学习的良好家庭教育氛围，孩子可以在相对自由的环境中自由探索，具有更高的创造力和良好的学习习惯。不仅如此，2021年9月1号我国“双减政策”正式落地，学生学习压力减少以及有偿支付的校外教育服务“课外补习”也愈发规范，孩子可支配时间增加，亲子沟通、亲子活动和亲子监督也越来越频繁与重要，父母教育卷入对青少年身心发展影响更大。然而，孩子体验到亲子关系与父母教育卷入对青少年抑郁、自伤和自杀意念的综合影响并不清楚。综上本研究总结孩子体验到亲子关系与父母教育卷入4种情形：一，一致情况(congruence) $\textcircled{1}$ 高亲子关系和高教育卷入的“安全”状态和 $\textcircled{2}$ 低亲子关系和低教育卷入的“高危”状态；二不一致情况(in-congruence) $\textcircled{3}$ 高亲子关系和低教育卷入和 $\textcircled{4}$ 低亲子关系和高教育卷入状态。在处理一致性研究问题时，多项式回归与响应面分析(Polynomial Regression and ResponseSurface Analysis)可以更加深入并详细展示两个变量间的复杂关系，但多项式回归与响应面分析多见于组织行为与人力资源管理领域研究，在心理学领域是一个较为新兴的研究方法因此本研究拟使用多项式回归与响应面分析探究孩子体验到的亲子关系与父母教育卷入的综合影响，并提出假设H1：亲子关系与父母教育卷入的综合影响可以显著预测青少年抑郁、自伤和自杀意念。
+
+# 1.2亲子关系-教育卷入匹配对挫败感的影响及其中介效应
+
+动机-意志整合模型(Integrated motivational-volitional model,IMV)通过整合多种主流自杀理论和大量实证研究提出，自杀意念的产生是由前动机阶段的诱发因素如消极环境、易感素质和生活事件等，使得个体进入动机阶段产生挫败感、羞耻感和迷失感后，进而导致自杀意念的产生(O'Connor,2011)。挫败感(defeat)最初是来源于抑郁的进化理论(volutionarytheories of depression,Price et al.,1994)，是指由于社会地位、等级和身份受到严重破坏或丧失时引发的一种斗争失败和无力感(Gilbert＆Allan,1998)，作为一种严重影响个体身心健康发展的因素，近年来受到越来越多的关注(Carmevali et al.,2020; Shimamoto,2018)。过往研究显示，在个体抑郁和自我伤害的发生期间，挫败、自我批评和绝望的感觉是最为强烈的(McEvoy et al.,2017; Price et al.,1994)。在一项探究挫败感和抑郁之间关系的12个月纵向研究中，结果显示挫折感可以显著预测 T1和 T2之间抑郁和焦虑的变化(Griffiths et al,2014)。此外，Kopetz 和Orehek(2015)提出社交受挫的个体，无法实现自身目标，因此选择吸毒、暴饮暴食、自残等方式作为实现个体目标的手段，并且随着受挫的程度和频率增加引发的行为后果更为严重。不仅如此，在一项探究早期逆境与社交挫败对大脑小胶质细胞发育水平的动物实验中，结果发现在母亲忽视模型中(幼崽与母猪每天隔离15分钟)，成年期后小猪更容易出现社交挫败，从而出现更多的神经炎症。Zortea等人(2019)使用解释性现象学分析方法对9名企图自杀者半结构式面对面访谈，结果也显示不良的亲子依恋可以通过挫败感、受困感和归属受挫等增加个体自杀想法与行为，而且受到尊重、关怀等可以提高个体复原力因素的影响从而减低其消极影响。Van Petegem 等人(2020)在调查母亲-孩子对母亲过度保护养育方式的评价对青少年内外化问题的研究中发现，青少年和母亲对过度保护养育方式的评分越高，就越容易出现适应不良和挫败感，且青少年和母亲报告之间的不一致与更多的外化问题以及挫折有关，尤其是当青少年比母亲报告的过度保护水平更高时因此，本研究提出假设H2：亲子关系与父母教育卷入是通过挫败感来影响青少年抑郁、自伤和自杀意念。此外，IMV模型也明确指出自杀意念不是挫败感的必然的结果，两者之间关系会受到其他调节因素的缓冲，因此本研究拟同时探究该中介模型中的调节效应。
+
+# 1.3人生意义感的调节作用
+
+IMV 模型的理论基础来源于素质-应激模型(Diathesis-stress model)(O'Connor& Kirtley,2018)，该模型最初是由Rosenthal(1963)提出并解释精神分裂症的发病原因，该模型认为相比“弹性”素质个体，携带“脆弱性”素质的个体遭受应激时，其相关心理障碍和疾病的风险会显著上升。人生意义感(meaning in life)是指个体对其当下所拥有的生命意念和价值的感知，以及对未来生活意义和目标的追寻(Steger etal.,2008)，作为一种重要心理资源，人生意义感与个体生活质量，社会行为和身心健康水平存在密切联系(Czekierda etal.,2017;Kim etal.,2019)，且人生意义感也可以改善个体健康水平，在面对逆境时，个体可以通过追求生活的目标感来减少消极影响，进而降低心理障碍的发生风险(Duetal.,2017)。在一项对戒烟患者抑郁与焦虑的干预研究中，结果显示通过提高个体人生意义感可以减低戒烟患者的抑郁与焦虑情绪，也可以显著预测其社会支持得分(Steger et al.,2009)。不仅如此，Marco 等人(2015)在对 80 名诊断为边缘性人格障碍(Borderline personality disorder,BPD)患者自伤行为的一年随访研究中发现，低水平人生意义感患者在基线时出现自伤、抑郁和绝望的频率更高，并且在随访期间发生自伤的频率高于高水平人生意义感的参与者。鉴于此，本研究提出假设H3：人生意义感调节该中介模型的后半段，即挫败感对青少年抑郁、自伤和自杀意念的影响。
+
+综上所述，本研究将在前述研究的基础上探究青少年抑郁、自伤和自杀意念的发展机制并提出一个有调节的中介模型(如图1)，主要探究三个问题： (1)以多项式回归与响应面分析探究孩子体验的亲子关系与父母教育卷入对挫败感的影响； (2)挫败感的中介作用；(3)人生意义感能否调节挫败感对青少年抑郁、自伤和自杀意念的影响。
+
+# 2方法
+
+# 2.1研究对象和程序
+
+本研究数据来自国内一项大型流行调查的一部分，以湖南某所初中学生为被试，由于初三学生有着升学压力未参与调查，按班级采取整群抽样的方式，所有项目均获得被试、家长和学校的知情同意，为获得学校更有力的帮助，问卷收集前答应给与学校各个班级总体和学生个人心理反馈，以及后续的干预合作。学生问卷由严格训练的心理学教师和研究生担任主试，保证每个班级两名主试配合，采用相同的指导语进行集体施测，并且由各班班主任在旁辅助调查，要求学生仔细阅读问题指导语，并按要求作答，问卷收集后给与一定小礼品奖励，共收集1123份学生样本。为了保证数据质量和时间纵向变化的的影响，问卷收集后一周紧急整理和撰写反馈，考虑到纸质问卷发放的难度和学校的工作量，且有研究表明线上电子问卷与传统的纸质问卷填写时没有很大差异(陈永泰,何有世,2008)，符合测量不变性要求(于洪彦,黄晓治,2011)，多次强调家长问卷的重要性后由班主任在班级微信群中使用问卷星发布问卷，共收集1020份家长数据。后经匹配共获得学生家长匹配数据930份，有效回收率为 $8 2 . 8 \%$ 。由于样本来源于自我报告因此往往存在缺失值，通过统计分析得出孩子问卷：变量缺失0，不完整个案 $2 0 8 ( 2 2 . 3 7 \% )$ ，值缺失 $6 4 9 ( 1 . 0 4 \% )$ ，缺失率较小,家长数据无缺失。本研究使用的缺失数据插补方法为：EM插补(Expectation MaximizationImputation)。EM假设数据缺失类型为随机缺失，并使用当前数据信息和指定模型对缺失数据进行“最佳猜测” (Bennett,2001)，适用于连续变量。学生平均年龄15.24 岁（ $\mathrm { \Delta S D = }$ 1.66)，其中男生 $5 0 1 ( 5 3 . 9 \% )$ 名，女生 $4 2 9 ( 4 6 . 1 \% )$
+
+；独生子女 $4 9 1 ( 5 2 . 8 \% )$ 名，非独生子女 $4 3 9 ( 4 7 . 2 \% )$ （20  
+；父母的婚姻状况情况：初婚 $7 7 7 ( 8 3 . 5 \% )$ 名，离异 $4 7 ( 5 . 1 \% )$ ，再婚 $3 1 ( 3 . 3 \% )$   
+，其他类型 $7 5 ( 8 . 1 \% )$ 名；家庭经济水平情况：很好 $12 8 ( 1 3 . 7 \% )$ ，较好 $5 3 0 ( 5 7 . 0 \% )$ （204号  
+，一般 $2 3 4 ( 2 5 . 2 \% )$ （204号  
+，不太好 $1 6 ( 1 . 7 \% )$   
+，非常不好 $2 2 ( 2 . 4 \% )$   
+。
+
+# 2.2分析方法
+
+在有关(
+
+)一致研究方法，常规的差异分数法与剖面相似指数会错误的提高假设的阳性结果(Humberg etal.,2019)，本文采取能够提供更加精确结果的多项式回归与响应面分析方法，克服了这一限制，而且呈现出三维图谱可以描绘两个变量不同匹配关系对因变量的效应，
+
+使得结论更直观(Shanock etal.,2010)。根据 Edwards 和 Parry(1993)提出的模型公式，本文建构的模型公式为：
+
+$$
+{ \dot { \mathfrak { s } } } = { \mathfrak { b } } 0 + { \mathfrak { b } } 1 ( { \mathrm { P R } } ) + { \mathfrak { b } } 2 ( { \mathrm { E I } } ) + { \mathfrak { b } } 3 ( { \mathrm { P R } } ) ^ { 2 } + { \mathfrak { b } } 4 ( { \mathrm { P R } } ) { \times } ( { \mathrm { E I } } ) + { \mathfrak { b } } 5 ( { \mathrm { E I } } ) 2 + e _ { \circ }
+$$
+
+其中 PR表示孩子体验到的亲子关系、EI表示父母的教育卷入行为、 $( { \mathrm { P R } } ) { \times } ( { \mathrm { E I } } )$ 为二者交叉项、加上二者的平方项；b0 代表了截距、b1为PR 的系数、b2为 PI的系数、b3 为$\mathrm { P R } ^ { 2 }$ 的系数、b4为交叉项的系数、b5为 $\mathrm { P I } ^ { 2 }$ 的系数、e为误差项。本文首先对测量指标PR与EI进行尺度中心化处理，再将各项进行回归，并通过绘制三维图形将结果呈现。在三维图形中，我们主要通过计算“PR $\mathbf { \Sigma } = \mathbf { \Sigma }$ EI"匹配曲线的斜率 $\mathtt { a } 1 = \mathtt { b } 1 + \mathtt { b } 2$ 和曲率 ${ \mathsf { a } } 2 = { \mathsf { b } } 3 + { \mathsf { b } } 4 + { \mathsf { \Omega } }$ b5的值以及“PR $\mathbf { \Sigma } = \mathbf { \Sigma }$ -EI"的不匹配曲线的斜率 ${ \tt a } 3 = { \tt b } 1 - { \tt b } 2$ 和曲率 ${ \mathsf { a } } 4 = { \mathsf { b } } 3 - { \mathsf { b } } 4 + { \mathsf { b } } 5$ 的值及其显著性来判断对结果变量的影响。
+
+其次有关有调节的中介效应检验，使用上述多项式回归系数构建亲子关系与父母教育卷入一致的区集变量——块变量(block variable,Edwards & Cable,2009)，进而以块变量为自变量进行有调节的中介效应检验。参照温忠麟和叶宝娟(2014)提出检验有调节的中介效应方法，考察块变量(亲子关系和父母教育卷入)对青少年抑郁、自伤和自杀意念的影响，挫败感的中介效应以及人生意义感对该中介作用的调节效应，并构建三个方程。方程1估计自变量块变量对因变量青少年抑郁、自伤和自杀意念的预测；方程2估计块变量对中介变量挫败感的预测；方程3估计调节变量人生意义感对挫败感与青少年抑郁、自伤和自杀意念之间关系的调节效应，以及块变量对青少年抑郁、自伤和自杀意念残余效应检验，标准化处理所有连续变量。
+
+# 2.2研究工具
+
+2.2.1抑郁 采用 Andresen 等人(1994)编制简版流调中心抑郁量表(Short Form of the Center forEpidemiological Studies Depression Scale,SF-CES-D)，在中国青少年中有着较好的信效度(Yang et al.,2018)，为单维量表，有10个条目(如,我没有工作/学习的动力)，采用4级( $( 0 \sim$ 3)评分，从0为“没有或很少有”到3为“绝大多数或全部”，得分越高表明抑郁症状越严重，该量表的总分在 $0 \sim 3 0$ 分之间。研究证明Guttman's lambda系数有着比Cronbach's α更好的信度估计下限(Sijtsma,2009)，本研究中简版流调中心抑郁量表的Guttman's lambda系数为0.78，大于0.7信度较好(Bland&Altman,1997)。量表结构效度良好，验证性因素分析的拟合指数： $\chi 2 = 3 3 8 . 9 0$ ， $\mathrm { d f } = 3 5$ ， $\mathrm { C F I } = 0 . 8 6 \$ ， $\mathrm { T L I } = 0 . 8 2$ ， $\mathrm { R M S E A } = 0 . 0 9$ ，SRMR $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.06。
+
+2.2.2 自伤 采用简版自我伤害问卷(Deliberate Self-Harm Inventory,DSHI; Gratz,2001)测量青少年的自我伤害行为，在中国青少年中有着较好的信效度(Lan etal.,2019)，为单维量表，有9个条目(如,用锐利的东西戳进皮肤)，采用6级 $( 0 \sim 5 )$ 评分，从0为“没有”到5为“5次及以上”，得分越高表明青少年自伤行为越严重，该量表的总分在 $0 \sim 4 5$ 分之间。本研究中简版自我伤害问卷的Guttman's lambda系数为0.85。量表结构效度良好，验证性因素分析的拟合指数： $\chi 2 = 2 8 8 . 4 5$ ，df $= 2 7$ ， $\mathrm { C F I } = 0 . 9 2$ ， $\mathrm { T L I } = 0 . 9 0$ ，RMSEA $= 0 . 1 0$ ，SRMR $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.04。
+
+2.2.3自杀意念 使用自杀意念亚量表(The 4-item Depressve Symptom Index-SuicidalitySubscale,Joiner et al.,2002)来测量过去两周的青少年自杀意念的频率与强度，包含4个题目(如,我有想要自杀的倾向)，采用4级 $( 0 \sim 3 )$ 评分，从0为“没有”到3为“总是”，得分越高表示个体自杀意念越严重。本研究中自杀意念亚量表Guttman's lambda 系数为0.87，验证性因素分析的拟合指数： $\chi 2 = 1 7 . 3 8$ ， $\operatorname { d f } = 2$ ， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 8$ ，RMSEA $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.09，SRMR $= 0 . 0 1$ ，量表有着较好的结构效度。
+
+2.2.4孩子体验到亲子关系使用 Buchanan等人(1991)编制亲子亲密度量表(Parent-childIntimacy Questionnaire)，分别对父子和母子的关系进行评述，各9个条目(如,你感觉和父/母亲很亲密)，采用5点评分，从1为“完全不符合”到5为“完全符合”。量表得分越高表示青少年与父亲(或母亲)的关系越紧密。本研究中父子关系部分的Guttman's lambda 系数为0.84，母子关系部分Guttman's lambda 系数为0.85。量表结构效度良好，父子部分验证性因素分析的拟合指数： $\chi 2 = 1 7 0 . 6 7 , ~ \mathrm { d f } = 2 7 , ~ \mathrm { C F I } = 0 . 9 6 , ~ \mathrm { T L I } = 0 . 9 4$ ，RMSEA $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.08， $\mathrm { S R M R } = 0 . 0 4 \$ ；母子部分验证性因素分析的拟合指数： $\chi 2 = 1 8 7 . 6 2$ ， $\mathrm { d f } = 2 7$ ， $\mathrm { C F I } =$ 0.94， $\mathrm { T L I } = 0 . 9 3$ ， $\mathrm { R M S E A } = 0 . 0 8$ ，SRMR $= 0 . 0 5$ ，以往研究多以二者均值作为亲子关系得分(Biet al.,2021)，并且配对样本 $t$ 检验得分显示未发现显著差异 $( M \pm S D _ { ☉ \mp } = 3 0 . 2 7 \pm 8 . 4 0$ $M \pm S D _ { \textrm { \tiny f f } } = 3 0 . 2 8 \pm 8 . 3 9 , t = 0 . 0 1 , p = 0 . 9 9 ) 。$
+
+2.2.5父母教育卷入采用吴艺方等人(2013)编制的《小学生父母教育卷入行为量表》，用以测量父母对孩子教育卷入程度，量表有五个维度共 29个条目(如,我会帮助孩子解决学习上遇到的困难)，采用4点评分，从1为“从不”到4为“经常”。虽然问卷开发时被试对象为小学生父母教育卷入，但本研究被试为初一初二学生年级跨度较小，且在实验开始之前由10位心理学从业者和初中教师对条目一一进行评判能较为满足实际情况。本研究中父母教育卷入行为量表Guttman's lambda系数为0.87，量表结构效度较好，验证性因素分析的拟合指数： $\chi 2 = 2 9 1 1 . 4 1$ ， $\mathrm { d f } = 3 6 8$ ， $\mathrm { C F I } = 0 . 8 6$ ， $\mathrm { T L I } = 0 . 8 5$ ， $\mathrm { R M S E A } = 0 . 0 7$ ，SRMR $\mathbf { \Sigma } =$ 0.22。由于本研究在测量时仅要求一名家长进行回答，为防止存在父母之间差异进行配对样本t检验，父亲教育卷入得分为 $3 . 0 2 \pm 0 . 4 5$ ，母亲教育卷入得分为 $3 . 0 5 \pm 0 . 4 3$ ， $t =$ -1.20， $p = 0 . 2 3$ ，父母之间教育卷入得分不存在显著差异。
+
+2.2.6 挫败感 采用唐华等人(2019)修订的Gilbert和 Allan(1998)的挫折感量表(The DefeatScale)，量表共包含16个条目(如,我觉得自己一事无成)，采用5级计分，1代表“完全不符合”，5代表“完全符合”，用以评估个体在过去7天里对排名下降和斗争失败的看法。本研究中挫折感量表的Guttman's lambda系数为0.87，验证性因素分析的拟合指数： $\chi 2 =$ 1486.37， $\mathrm { { d f } = 1 0 4 }$ ， $\mathrm { C F I } = 0 . 8 6$ ， $\mathrm { T L I } = 0 . 8 4$ ，RMSEA $= 0 . 1 2$ ， $\operatorname { S R M R } = 0 . 0 7$ ，量表结构效度良好。
+
+2.2.7人生意义感 使用王孟成和戴晓阳(2008)修订 Steger等人(2006)编制的中文人生意义问卷(Chinese Meaning inLife Questionnaire,C-MLQ)，量表分为两个维度包含10 道题(如,我很了解自己的人生意义)，采用7级计分，1代表“完全不同意”，7代表“完全同意”，用以评估个体有关人生意义感的看法，本研究中文人生意义问卷的Guttman's lambda系数为0.77，量表结构效度良好，验证性因素分析的拟合指数： $\chi 2 = 2 7 3 . 2 5$ ，df $= 3 4$ ， $\mathrm { C F I } =$ 0.94， $\mathrm { T L I } = 0 . 9 2$ ，RMSEA $= 0 . 0 9$ ，SRMR $= 0 . 0 7$
+
+# 3结果
+
+# 3.1共同方法偏差检验
+
+由于学生数据均来自于被试的自我报告，存在无法规避的共同方法偏差问题。首先，使用 Harman 单因子法对6个问卷全部题项进行探索性因素分析，采用未旋转的主成分分析法，分析结果显示：共有12个因子的特征根大于1，第一个因子的方差解释率为 $2 4 . 8 9 \%$ (低于临界指标 $40 \%$ )。其次，打包各个量表3个因子载荷最大的条目作为对应潜变量指标(吴艳,温忠麟,2011)，使用AMOS 设定单因子模型的验证性因素分析结果显示模型拟合很差： $\chi 2 = 4 2 3 5 . 7 7$ ， $\mathrm { d f } = 1 8 9$ ， $\mathrm { C F I } = 0 . 5 0 \$ ， $\mathrm { T L I } = 0 . 4 5$ ，RMSEA $= 0 . 1 5$ ， $\mathrm { S R M R } = 0 . 1 4$ 。最后，使用潜在误差变量可控制法，在引入共同方法偏差之前，7因子模型拟合结果较好： $\chi 2 =$ 370.95，d $\mathrm { f } = 1 6 8$ ， $\mathrm { C F I } = 0 . 9 8$ ， $\mathrm { T L I } = 0 . 9 7$ ， $\mathrm { R M S E A } = 0 . 0 4$ ， $\mathrm { S R M R } = 0 . 0 4 \$ ，引入共同方法偏差后： $\chi 2 = 2 2 5 . 0 7$ ， $\mathrm { d f } = 1 4 7$ ， $\mathrm { C F I } = 0 . 9 8$ ， $\mathrm { T L I } = 0 . 9 8$ ，RMSEA $= 0 . 0 2$ ， $\operatorname { S R M R } = 0 . 0 2$ ，前后差异不大，因此结果表明不存在严重的共同方法偏差问题。
+
+# 3.2各变量之间的描述统计以及相关分析
+
+表1列出各研究变量平均数、标准差以及相关矩阵，结果显示仅有青少年抑郁与父母教育卷入之间不存在显著相关，其余变量两两之间存在显著相关。此外，本研究中青少年至少发生一种自伤行为的检出率为 $34 . 1 \%$ 。
+
+表1描述统计量及相关分析结果  
+
+<html><body><table><tr><td>变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>抑郁</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>自伤</td><td>0.44**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>自杀意念</td><td>0.53**</td><td>0.61**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>亲子关系</td><td>-0.42**</td><td>-0.28**</td><td>-0.36**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>教育卷入</td><td>-0.04</td><td>-0.08*</td><td>-0.12**</td><td>0.09**</td><td>1</td><td></td><td></td></tr><tr><td>挫败感</td><td>0.64**</td><td>0.36**</td><td>0.45**</td><td>-0.36**</td><td>-0.09**</td><td>1</td><td></td></tr><tr><td>人生意义感</td><td>-0.22**</td><td>-0.13**</td><td>-0.12**</td><td>0.33**</td><td>0.09**</td><td>-0.16**</td><td>1</td></tr><tr><td>M± SD</td><td>18.63 ± 6.05</td><td>3.58± 7.24</td><td>2.69 ± 3.39</td><td>30.27± 8.40</td><td>3.04± 0.44</td><td>33.55± 11.12</td><td>47.64± 11.91</td></tr></table></body></html>
+
+注：1抑郁；2为自伤；3为自杀意念；4为亲子关系关系；5为教育卷入；6为挫败感；7为人生意义感， $^ { * } p < 0 . 0 5$ ， $\ast \ast _ { p } < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ，下同。
+
+# 3.3亲子关系-教育卷入匹配对青少年挫败感的影响
+
+研究采用响应面分析检验亲子关系(Parent-child relationship,PR)-教育卷入(Educationinvolvement,EI)匹配对青少年挫败感的影响，在分析之前，应先对样本应答比例进行分析，以判断是否适合多项式回归与响应面分析。结果显示，在统一尺度后，亲子关系与教育卷入一致的样本比例为 $3 1 . 8 3 \%$ (296
+
+)，亲子关系大于父母教育卷入的样本比例为 $34 . 6 2 \%$ (322  
+)，亲子关系小于父母教育卷入的样本比例为 $3 3 . 5 5 \%$ (312
+
+)，满足分析要求(各类别大于 $10 \%$ )。多项式回归与响应面分析结果显示：沿一致线（204号 $( { \mathrm { P R } } = { \mathrm { E I } } )$ ，横截面的斜率(slope,S)显著 $\mathrm { ( S } = - 4 . 3 7$ $p < 0 . 0 0 1$ ， $9 5 \% C [ = [ - 5 . 5 7 , - 3 . 3 2 ] )$ ，说明相比于低亲子关系-低教育卷入一致的个体，高亲子关系-高教育卷入的青少年有着更低水平的挫败感；沿不一致线 $\mathrm { ( P R = - P I ) }$ ，横截面的斜率显著 ${ ( \mathrm { S } = - 3 . 4 0 }$ $p < 0 . 0 0 1$ ， $9 5 \% C I = [ - 4 . 5 3$ -2.21])，说明相比于低亲子关系-高教育卷入的青少年，有着高亲子关系-低教育卷入的个体表现出更低水平的挫败感。此外，响应面一致线曲率和不一致线曲率均不显著，表明亲子关系-教育卷入与青少年挫败感之间为线性关系。
+
+![](images/d7465aad1e9e389b96228a4e0f41c77108ed226b1e80c91eb4d9c47e0f3b1250.jpg)  
+图2亲子关系-父母教育卷入一致对青少年挫败感的影响
+
+为进一步探究孩子体验到的亲子关系与父母教育卷入程度对青少年挫败感的影响，以亲子关系为X轴，父母教育卷入为Y轴，青少年挫败感为Z轴，拟合得出亲子关系-教育卷入与青少年挫败感的三维响应图2，此外采用选点法，沿一致线和非一致线正负1个标准差选择的4 个点：Z1(1.22,1.22,27.19)，Z2(-0.95，-0.95,36.81)，Z3(1.22，-0.95,28.13)，Z4(-0.95,1.22,35.70)。计算 z-hat 值，一致线 Z1和 Z2 的差为-9.62， $9 5 \%$ 的置信区间为[-11.94,-7.15]，不一致线 Z3 和 Z4 的差为-7.57， $9 5 \%$ 的置信区间为[-10.44,-4.98],结果也支持上述结论。
+
+# 3.4有调节的中介效应检验
+
+在上述分析的基础上，考察块变量(亲子关系和父母教育卷入)对青少年抑郁、自伤和自杀意念的影响，挫败感的中介效应以及人生意义感对该中介作用的调节效应，由于多项式回归与响应面分析将性别、是否独生、父母婚姻状况和家庭经济水平纳入分析，此外许多研究发现这些因素对抑郁、自伤和自杀存在影响(Rice etal.,2002)，本研究将其作为控制变量纳入方程。将所有变量做标准化处理，所有运算均通过Hayes 编制的 SPSS 26.0宏程序PROCESS3.3完成。
+
+结果见表2，3，4所示，方程1显示：性别和块变量可以显著预测青少年抑郁、自伤和自杀意念 $\langle \beta _ { \mathrm { \# \# \# } } = 0 . 1 3 , p = 0 . 0 1 ; \beta _ { \mathrm { \# \# } } = 0 . 6 3 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \# \# } } = 0 . 2 2 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \# \# } } = 0 . 3 6 ,$ （204$p < 0 . 0 0 1 ; \beta _ { \mathrm { \scriptsize ~ \boxplus ~ * ~ } } = 0 . 2 1 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \scriptsize ~ \boxplus ~ * ~ } } = 0 . 4 4 , p < 0 . 0 0 1 )$ ，此外父母婚姻状况也可以正向预测青少年自伤 $( \beta _ { \mathrm { ~ H ~ } \nmid \mathrm { ~ \it ~ = ~ } } 0 . 0 7 , p = 0 . 0 0 4 )$ ；方程2结果发现，家庭经济状况和块变量对挫败感有显著影响(β=0.16, $p < 0 . 0 0 1$ · $\beta = 0 . 3 5 , p < 0 . 0 0 1 )$ ；方程3显示，性别、块变量和挫败感可以显著预测青少年抑郁、自伤和自杀意念(β抑郁 =0.18, $p < 0 . 0 0 1$ $\beta$ 抑郁 $= 0 . 2 2$ $p < 0 . 0 0 1$ 抑$\mathrm { \Lambda _ { f f } } = 0 . 5 2 , p < 0 . 0 0 1 ; \mathrm { \tiny ~ \beta _ { f i f f s } ~ } = 0 . 2 6 , p < 0 . 0 0 1 ; \mathrm { \tiny ~ \beta _ { f i f f s } ~ } = 0 . 1 4 , p < 0 . 0 0 1 ; \mathrm { \tiny ~ \beta _ { f i f f s } ~ } = 0 . 2 7 , p < 0 . 0 0 1 ; \mathrm { \tiny ~ \beta _ { f i f f s } ~ }$ 杀$= 0 . 2 5 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \scriptsize ~ H \scriptsize ~ \AA ~ } } = 0 . 2 1 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \scriptsize ~ H \scriptsize ~ \AA ~ } } = 0 . 3 4 , p < 0 . 0 0 1 ) , \quad \ddagger \ddot { \ddagger } \dot { \parallel } _ { \mathrm { \scriptsize ~ H \scriptsize ~ \cdot ~ } }$ 香姻状况对青少年自伤行为有显著影响 $( \beta \lrcorner \ L / \hbar ) = 0 . 0 7 , p = 0 . 0 4 )$ ，此外，挫败感和人生意义感的交互项对青少年抑郁和自伤有着显著影响，且对青少年自杀意念边缘显著 $( \beta _ { \updownarrow \updownarrow \updownarrow \updownarrow } = - 0 . 0 6 , p < 0 . 0 0 1 ; \beta _ { \updownarrow  } =$ $- 0 . 0 9 , p < 0 . 0 0 1 ; \beta _ { \mathrm { \scriptsize ~ H \prec } } = - 0 . 0 5 , p = 0 . 0 5 )$ 。这表明，块变量(亲子关系和父母教育卷入)、挫败感、青少年抑郁、自伤、自杀和人生意义感分别构成一个有调节的中介模型，挫败感起部分中介作用，人生意义感调节中介路径后半段，即挫败感对青少年抑郁、自伤和自杀的影响。此外，表5列出了人生意义感在均值和正负1个标准差水平的中介效应值，结果显示在各个回归模型中，随着人生意义感的增加，中介效应占比逐渐减少。
+
+表2有调节的中介效应检验(因变量 $\mathrm { Y } _ { 1 }$ ：抑郁)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="4">方程1(因变量:Yi)</td><td colspan="4">方程2(因变量:M)</td><td colspan="4">方程3(因变量：Yi)</td></tr><tr><td>β</td><td>t</td><td>p</td><td>95% CI</td><td></td><td>t</td><td>p</td><td>95% CI</td><td>β</td><td>t</td><td>p</td><td>95% CI</td></tr><tr><td>1</td><td>0.13</td><td>2.55</td><td>0.01</td><td>[0.04,0.24]</td><td>0.10</td><td>1.63</td><td>0.10</td><td>[-0.02, 0.23]</td><td>0.18</td><td>3.56</td><td><.001</td><td>[0.08,0.28]</td></tr><tr><td>2</td><td>0.08</td><td>1.59</td><td>0.11</td><td>[-0.03,0.19]</td><td>-0.06</td><td>-0.93</td><td>0.35</td><td>[-0.18, 0.06]</td><td>0.03</td><td>0.55</td><td>0.58</td><td>[-0.07, 0.13]</td></tr><tr><td>3</td><td>0.03</td><td>1.05</td><td>0.29</td><td>[-0.03,0.09]</td><td>0.05</td><td>1.35</td><td>0.18</td><td>[-0.02, 0.12]</td><td>0.03</td><td>1.05</td><td>0.29</td><td>[-0.03, 0.09]</td></tr><tr><td>4</td><td>0.01</td><td>0.41</td><td>0.69</td><td>[-0.07, 0.10]</td><td>0.16</td><td>4.00</td><td></td><td>[0.08, 0.24]</td><td>0.01</td><td>0.23</td><td>0.82</td><td>[-0.06, 0.07]</td></tr><tr><td>X</td><td>0.63</td><td>23.6</td><td><.001</td><td>[0.55, 0.70]</td><td>0.35</td><td>11.20</td><td></td><td>[0.29,0.42]</td><td>0.22</td><td>7.68</td><td><.001</td><td>[0.16, 0.27]</td></tr><tr><td>M</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.52</td><td>18.61</td><td><.001</td><td>[0.47, 0.58]</td></tr><tr><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.05</td><td>-1.89</td><td>0.06</td><td>[-0.10, 0.01]</td></tr><tr><td>MW</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-2.57</td><td>0.01</td><td></td></tr><tr><td>R</td><td></td><td></td><td>0.41</td><td></td><td></td><td></td><td>0.15</td><td></td><td>-0.06</td><td></td><td>0.46</td><td>[-0.10, -0.01]</td></tr><tr><td>F</td><td></td><td></td><td>118.76***</td><td></td><td></td><td></td><td>30.70***</td><td></td><td></td><td></td><td>90.94***</td><td></td></tr></table></body></html>
+
+注：1是性别1为“男”，2为“女”；2是是否独生子女1为“是”，2为“否”；3是父母婚姻状况1为“初婚”，2为“离异”，3为“再婚”，4为“其他”；4是家庭经济水平1为“很好”，2为“较好”，3为“一般”，4为“不太好”，5为“很差”；X为自变量亲子关系与教育卷入的块变量；M为中介变量挫败感；因变量为青少年抑郁$\left( \mathrm { Y } _ { 1 } \right)$ 、自伤 $\left( \mathrm { Y } _ { 2 } \right)$ 和自杀意念 $\left( \Upsilon _ { 3 } \right)$ ，下同。
+
+表3有调节的中介效应检验(因变量 $\underline { { \mathrm { Y } } } _ { 2 }$ ：自伤)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="4">方程1(因变量:Y)</td><td colspan="4">方程2(因变量：M)</td><td colspan="4">方程3(因变量:Y2)</td></tr><tr><td>β</td><td>t</td><td>p</td><td>95% CI</td><td>β</td><td>t</td><td>p</td><td>95% CI</td><td>β</td><td>t</td><td>p</td><td>95% CI</td></tr><tr><td>1</td><td>0.22</td><td>3.62</td><td><.001</td><td>[0.11, 0.35]</td><td>0.10</td><td>1.63</td><td>0.10</td><td>[-0.02, 0.23]</td><td>0.26</td><td>4.24</td><td><.001</td><td>[0.14, 0.38]</td></tr><tr><td>2</td><td>0.07</td><td>1.17</td><td>0.24</td><td>[-0.05, 0.19]</td><td>-0.06</td><td>-0.93</td><td>0.35</td><td>[-0.18,0.06]</td><td>0.03</td><td>0.53</td><td>0.59</td><td>[-0.09, 0.15]</td></tr><tr><td>3</td><td>0.07</td><td>2.05</td><td>0.04</td><td>[-0.01, 0.16]</td><td>0.05</td><td>1.35</td><td>0.18</td><td>[-0.02, 0.12]</td><td>0.07</td><td>2.04</td><td>0.04</td><td>[0.01,0.14]</td></tr><tr><td>4</td><td>0.02</td><td>0.40</td><td>0.69</td><td>[-0.09, 0.15]</td><td>0.16</td><td>4.00</td><td><.001</td><td>[0.08,0.24]</td><td>0.02</td><td>0.40</td><td>0.69</td><td>[-0.06,0.09]</td></tr><tr><td>X</td><td>0.36</td><td>11.5</td><td><.001</td><td>[0.27, 0.45]</td><td>0.35</td><td>11.20</td><td><.001</td><td>[0.29,0.42]</td><td>0.14</td><td>4.05</td><td><.001</td><td>[0.07, 0.20]</td></tr><tr><td>M</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.27</td><td>8.05</td><td><.001</td><td>[0.21, 0.34]</td></tr><tr><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.06</td><td>-1.81</td><td>0.07</td><td>[-0.12, 0.01]</td></tr><tr><td>MW</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.09</td><td>-3.46</td><td><.001</td><td>[-0.14, -0.04]</td></tr><tr><td>R²</td><td></td><td></td><td>0.16</td><td></td><td></td><td></td><td>0.15</td><td></td><td></td><td></td><td>0.19</td><td></td></tr><tr><td>F</td><td></td><td></td><td>32.24***</td><td></td><td></td><td></td><td>30.70***</td><td></td><td></td><td></td><td>25.45***</td><td></td></tr></table></body></html>
+
+表4有调节的中介效应检验(因变量 ${ \mathrm { Y } } _ { 3 } { \mathrm { : } }$ 自杀意念)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="4">方程1(因变量：Y)</td><td colspan="4">方程2(因变量:M)</td><td colspan="4">方程3(因变量：Y)</td></tr><tr><td>β</td><td>t</td><td>p</td><td>95% CI</td><td>β</td><td>t</td><td>p</td><td>95% CI</td><td>β</td><td>t</td><td>p</td><td>95% CI</td></tr><tr><td>1</td><td>0.21</td><td>3.51</td><td><.001</td><td>[0.10, 0.33]</td><td>0.10</td><td>1.63</td><td>0.10</td><td>[-0.02, 0.23]</td><td>0.25</td><td>4.23</td><td><.001</td><td>[0.13, 0.37]</td></tr><tr><td>2</td><td>0.07</td><td>1.27</td><td>0.20</td><td>[-0.04, 0.18]</td><td>-0.06</td><td>-0.93</td><td>0.35</td><td>[-0.18, 0.06]</td><td>0.03</td><td>0.44</td><td>0.66</td><td>[-0.09, 0.14]</td></tr><tr><td>3</td><td>0.03</td><td>0.94</td><td>0.35</td><td>[-0.04,0.10]</td><td>0.05</td><td>1.35</td><td>0.18</td><td>[-0.02,0.12]</td><td>0.03</td><td>0.95</td><td>0.34</td><td>[-0.03,0.10]</td></tr><tr><td>4</td><td>0.01</td><td>0.02</td><td>0.99</td><td>[-0.10, 0.10]</td><td>0.16</td><td>4.00</td><td></td><td>[0.08, 0.24]</td><td>0.00</td><td>-0.09</td><td>0.92</td><td>[-0.08, 0.07]</td></tr><tr><td>X</td><td>0.44</td><td>14.3</td><td><.001</td><td>[0.36, 0.52]</td><td>0.35</td><td>11.20</td><td>01</td><td>[0.29,0.42]</td><td>0.21</td><td>6.54</td><td><.001</td><td>[0.15, 0.28]</td></tr><tr><td>M</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.34</td><td>10.43</td><td><.001</td><td>[0.28, 0.41]</td></tr><tr><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.01</td><td>-0.37</td><td>0.71</td><td>[-0.07, 0.05]</td></tr><tr><td>MW</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.05</td><td>-1.93</td><td>0.05</td><td>[-0.10, 0.001]</td></tr><tr><td>R²</td><td></td><td></td><td>0.21</td><td></td><td></td><td></td><td>0.15</td><td></td><td></td><td></td><td>0.25</td><td></td></tr><tr><td>F</td><td></td><td></td><td>46.12***</td><td></td><td></td><td></td><td>30.70***</td><td></td><td></td><td></td><td>36.65***</td><td></td></tr></table></body></html>
+
+表5人生意义感不同水平的挫败感的中介效应  
+
+<html><body><table><tr><td>因变 量</td><td>水平</td><td>中介效 应值</td><td>Bootstrap SE</td><td>95% CI</td><td>直接 效应</td><td>Bootstra p SE</td><td>95% CI</td><td>中介效应 占比</td></tr><tr><td rowspan="3">抑郁</td><td>-1水平</td><td>0.21</td><td>0.03</td><td>[0.16, 0.26]</td><td></td><td></td><td></td><td>49%</td></tr><tr><td>均值</td><td>0.19</td><td>0.02</td><td>[0.14,</td><td>0.22</td><td>0.03</td><td>[0.16,0.27]</td><td>46%</td></tr><tr><td></td><td>0.17</td><td>0.03</td><td>0.24] [0.12, 0.23]</td><td></td><td></td><td></td><td>44%</td></tr><tr><td rowspan="4">自伤</td><td>1水平 -1水平</td><td>0.13</td><td>0.03</td><td>[0.08,0.18]</td><td></td><td></td><td></td><td>48%</td></tr><tr><td>均值</td><td>0.10</td><td>0.02</td><td>[0.06, 0.14]</td><td>0.14</td><td>0.03</td><td>[0.07, 0.20]</td><td>42%</td></tr><tr><td>1水平</td><td>0.06</td><td>0.02</td><td>[0.02,0.12]</td><td></td><td></td><td></td><td>30%</td></tr><tr><td></td><td>0.14</td><td>0.02</td><td>[0.10, 0.19]</td><td></td><td></td><td></td><td>40%</td></tr><tr><td rowspan="3">自杀 意念</td><td>-1水平 均值</td><td>0.12</td><td>0.02</td><td>[0.08, 0.17]</td><td>0.21</td><td>0.03</td><td>[0.15,0.28]</td><td>36%</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1水平</td><td>0.10</td><td>0.03</td><td>[0.06, 0.16]</td><td></td><td></td><td></td><td>32%</td></tr></table></body></html>
+
+为更好的理解调节效应，使用简单斜率检验考察人生意义感在挫败感对青少年抑郁、自伤和自杀意念影响中的作用。采用 Hayes 和 Matthes (2009)的建议 Johnson-Neyman 的调节效应图可以更好的解释调节效应在自变量对因变量之间的影响，Johnson-Neyman 图结果显示随着人生意义感的增加，挫败感对青少年抑郁、自伤和自杀意念的斜率逐渐减小，并且当人生意义感在正1.65个标准差和3.15个标准差时，挫败感对青少年自伤和自杀意念的预测不显著，研究证实人生意义感是青少年抑郁、自伤和自杀意念的保护因素，高水平的人生意义感可以缓冲挫败感对其的影响。
+
+![](images/6c8ac1e90eebb9e7bd9ee4a2cd55d1c584467a8d3b44816d17d4ea4020b5c4a7.jpg)  
+图3人生意义感在挫败感对青少年抑郁(左上)、自伤(右上)和自杀意念(下)影响的调节作用简单斜率图4讨论
+
+青春期是个体发展的关键时期，但生理成熟与心理发展之间的差距使得处于该时期的青少年更容易产生抑郁、焦虑等情绪(Salk et al.,2017)，其自伤和自杀意念等相关心理危机的风险也更高(Brown&Plener,2017; Swannell et al.,2014)，由于抑郁与自杀意念量表未有标准化常模无法进行探讨，但本研究中青少年至少有过一次自伤行为的检出率为 $34 . 1 \%$ 略高于以往研究(Han et al.,2018;Li et al.,2020)。此外，本研究基于生态系统理论和动机-意志整合模型，创新性的使用多项式回归与响应面分析考察亲子关系与父母教育卷入对青少年抑郁、自伤和自杀意念的影响，以及挫败感与人生意义感在其间的中介与调节作用，为抑郁、自伤和自杀意念的相关发展理论补充了证据，也对相关心理危机行为干预具有一定的启示作用。
+
+# 4.1挫败感的中介作用
+
+家庭系统理论(Bowen,1993)认为家庭是由具有亲属关系的家庭成员组成的系统，处于该系统的每个成员之间相互影响，稳定、和谐、健康的家庭系统对孩子健康成长具有重要影响。而作为家庭系统中的重要一环亲子系统，过往研究显示亲密和谐的亲子关系可以提高孩子主观幸福感(Jia et al.,2018)，增加亲社会行为(Kärtner et al.,2010)，并且使得同伴关系和师生关系更为和谐(陈欣银等,1995)，从而降低个体心理问题和障碍发生风险。反之，消极、不安全的亲子关系则会导致孩子问题行为和消极情绪体验增加(Jouriles etal.,2014)，甚至更为严重的心理障碍与疾病(Goschin et al.,2013)。本研究纳入亲子系统中重要的内容(孩子体验到亲子关系与父母教育卷入)探究其对青少年抑郁、自伤和自杀意念的影响，结果显示亲子关系-教育卷入的块变量不仅可以直接预测青少年抑郁、自伤和自杀意念，也发现了挫败感在其间的中介作用。在一项以730名成年人为被试探究过去养育和当前依恋取向的看法对自杀意念的影响的研究，Zortea等人(2020)也发现挫败感在消极教育方式与自杀意念中起中介作用，心理韧性缓冲这一中介影响。
+
+然而，以往研究大多采用父母或孩子单视角去探究亲子关系对青少年心理健康的影响，又或者测量父母与孩子感受的亲子关系得分，却以简单的总分或按某一比例加权求和忽视了父母与孩子身份差异与地位的不对等。在一项父母-青少年对家庭氛围看法匹配影响青少年抑郁症状和压力的研究中，结果显示当父母-青少年一致认为家庭混乱时，青少年症状与压力得分最高；而当不一致情况即青少年感知家庭混乱高-父母感知低时，青少年抑郁症状和压力得分最高(Human etal.,2016)。本研究创新性的使用多项式回归与响应面分析探究亲子关系-教育卷入匹配的效应，结果显示相比于低亲子关系-低教育卷入一致的个体，高亲子关系-高教育卷入的青少年有着更低水平的挫败感；且相比于低亲子关系-高教育卷入的青少年，有着高亲子关系-低教育卷入的个体表现出更低水平的挫败感，这表明要预防或解决青少年所出现的心理问题，促进其身心健康发展，相比投入更多的教育资源投入，父母应更加注重与子女之间的关系，让孩子体验到安全温暖的环境更为重要。众多现实情况也支持这一结论，当优秀的孩子出现心理问题甚至产生严重心理危机事件后，父母往往事后才感叹不求孩子成绩多好多优秀，只要能健康成长就好。不仅如此，挫败感的中介效应也提示，外界压力与应激事件可能是通过引起个体挫败感体验，从而导致相关心理问题与障碍，这与以往研究结果一致(Griffiths et al.,2014; Taylor et al.,2011)。
+
+# 4.2人生意义感的调节作用
+
+素质-压力模型与动机-意志整合模型均认为，抑郁、焦虑、自伤和自杀等心理问题与障碍的产生是外界压力与内在“易感性”素质共同作用的结果。人生意义感作为一种个体对人生意义和目的的知觉与感受程度(Crumbaugh,1968)，对个体的身心健康发展具有重要影响(Czekierda etal.,2017)。在一项探究人生意义感与抑郁、焦虑、成瘾、绝望和自杀等相关精神疾病的元分析中，Glaw 等人(2017)发现帮助患者寻找人生意义和信念，有助于减少其相关症状，并增加幸福感和生活满意度。此外，在有关青少年自杀心理解剖与新闻报道中，“活得没有意思”成为一个经常出现的原因，在对湖南某所中学班级有关“你认为一个人在什么情况下会自杀？”主题讨论中，整理相关答案后，“觉得自己活在这个世界可有可无”的排名第一，且在14个原因中有6个均与人生意义感相关(见附件材料)。因此，本研究亦引入人生意义感，探究其对该中介模型的影响，结果显示，人生意义感调节该中介模型后半段，即挫败感对青少年抑郁、自伤和自杀意念的影响，具体表现为随着人生意义感的增加，挫败感对青少年抑郁、自伤和自杀意念的影响逐渐减小，且当人生意义感在正1.65个标准差和3.15个标准差时，挫败感对青少年自伤和自杀意念的预测不显著，此外，表5的结果也显示随着人生意义感的增加，挫败感的中介效应占比也逐渐减少，上述结果均表明人生意义感可以缓冲压力的消极影响。
+
+# 4.3研究的意义与不足
+
+最后需要指出是，本研究使用多项式回归与响应面分析探究孩子体验到的亲子关系与父母教育卷入的综合影响，同时发现挫败感与人生意义感的中介和调节作用，丰富了青少年抑郁、自伤和自杀意念发展理论，也为相关干预提供一定的启示。然而，本研究采用的是横断面研究方法，在一定程度上不能很好的反映其间的因果关系，且本研究被试为一所学校的初二初三学生，在样本代表性方面存在不足，我们计划在之后的研究中采用更大的样本量使用多时间点的追踪数据对青少年心理健康发展进行探究。其次，本研究虽然发现了挫败感的中介效应，但O'Connor 和Kirtley (2018)明确提出迷失感(entrapment)是挫败感与自杀意念的桥梁，迷失感最初来源于Williams (2001)的痛哭自杀理论(Cry of pain theory ofsuicide)中的“被捕逃亡(arrested flight)"的概念，其最初是用以解释抑郁患者所表现的日常行为，描述一个人被打倒了(挫折)，而且没有逃脱的希望(迷失)的感觉。这些概念很好地描述了在经历自杀痛苦的个体中所经常观察的“隧道视野”(tunnelvision)现象，即自杀成为唯一的逃避路径，而且获得国外大量研究的证实，却在我国研究较少。最后，本研究虽然验证了素质-压力模型，但大量研究发现个体心理问题和障碍是由易感性基因和外界环境作用的结果(Park etal.,2019;田相娟,2020)，因此未来的研究可以采用基因与遗传的研究范式探究青少年心理问题与障碍的发展机制。
+
+# 5结论
+
+综上所述，本研究发现：(1)相比低亲子关系-低教育卷入一致的个体，高亲子关系-高教育卷入的青少年有着更低水平的挫败感；且相比于低亲子关系-高教育卷入的青少年，有着高亲子关系-低教育卷入的个体表现出更低水平的挫败感； (2)挫败感在亲子关系-教育卷入与青少年抑郁、自伤和自杀意念之间起部分中介作用；(3)人生意义感调节该中介模型后半段，即挫败感对青少年抑郁、自伤和自杀意念的影响，具体表现为随着人生意义感的增加，挫败感对抑郁、自伤和自杀意念的影响逐渐减小。
+
+# 参考文献
+
+Andresen,E.M.,Malmgren,J.A.,Carter,W.B.,&Patrick,D.L.(1994).Screening fordepresson in wellolder adults:Evaluation of a short form of the CES-D (Center for Epidemiologic Studies Depression Scale). American journal of preventive medicine, 10(2),77-84.   
+Becker,M.，& Correll,C.U. (2020). Suicidality in Childhood and Adolescence.Deutsches Arzteblatt International,117(15),261-267   
+Benett, D.A. (20o1). How can I deal with missing data in my study? Australian and New Zeal and Journal of Public Health,25(5),464-469.   
+Bi, S. S.,Lam, C.B., & Chung, K. K. H. (2021). Sibling relationships and civic engagement: A longitudinal study of Chinese young adults. International Journal of Psychology, 56(1), 138-142.   
+Bland,J.M.,&Altman,D.G. (1997).Statistics notes: Cronbach'salpha.British MedicalJournal,314(7080),572.   
+Bowen, M.(1978). Family therapy in clinical practice.New York, USA: Jason Aronson.   
+Breslin,K.,Balaban,J.,& Shubkin, C.D. (202O). Adolescent suicide: what can pediatricians do.Current Opinion in Pediatrics,32(4),595-600.   
+Bronfenbrenner, U. (1979).The ecology of human development: Experiments by nature and design. Harvard university press.   
+Brown,R. C.,& Plener, P.L. (2017). Non-suicidal Self-Injury in Adolescence.Current Psychiatry Reports,19(3), 20.https://doi.0rg/10.1007/s11920-017-0767-9   
+Buchanan, C. M., Maccoby,E.E.,& Dornbusch, S. M. (1991). Caught between parents: Adolescents' experience in divorced homes. Child development, 62(5),1008-1029.   
+Carnevali,L.,MontanoN.,Tobaldini,E.,Thayer,J.F,&Sgoifo,A. (202O).Thecontagionof social defeatstress: Insights from rodent studies.Neuroscience & Biobehavioral Reviews,1l1,12-18.   
+Chen,X.Y,Li,B.S,&Li,Z.Y. (1995).Mother-childrelationship,social behavior and peer acceptance inChinese children.Acta Psychologica Sinica,27(03),329-336.   
+[陈欣银,李伯黍,&李正云.(1995).中国儿童的亲子关系,社会行为及同伴接受性的研究.心理学报,27(3), 329-336.]   
+Chen,Y. T.,& He, Y. S. (2o08). Research on the diference between network survey and traditional paper survey. Statistics and Decision,(16),32-34.   
+[陈永泰,何有世.(2008).网络调查和传统纸质调查的差异性研究.统计与决策,16,32-34.]   
+Cheng,G.,Zhang,W., Xiao,X., Xiong,S.,& Guo,C. (2019). The mediation effct of psychological qualityof primary school students between their problem behaviors and parents’educational involvement—The regulating effect of family socioeconomic status.Chinese Journal of Special Education.10,82-89.   
+[程刚,张文,肖兴学,熊树林,&郭成.(2019).小学生心理素质在父母教育卷入与问题行为间的中介作用- 家庭社会经济地位的调节效应.中国特殊教育,10,82-89.]   
+Choi,E. P. H., Hui, B. P. H.,& Wan,E. Y.F. (2020). Depression and anxiety in Hong Kong during COVID-19. International Journal of Environmental Research and Public Health,17(i0),3740.   
+Crumbaugh,J.C.(1968). Cross-validationofpurpose-in-life testbased onFrankl's concepts. Journal of Individual Psychology, 24(1),74.   
+Cummings,E.M.,& Schatz, J.N. (2012).Familyconflict, emotional security,and childdevelopment: Translating research findings into a prevention program for community families. Clinical Child and Family Psychology Review, 15(1), 14-27.   
+Czekierda,K.,Banik,A.,Park,C.L.,&Luszczynska,A. (2017).Meaning in life and physical health: Systematic review and meta-analysis. Health Psychology Review, 1(4),387-418.   
+Diarra,Y., Gu, C., Guo,M.,& Xue,Y.(2017).The effect of social economic status and parents' rearing behavior on social creativity of children in Mali. Creative Education, 8(6), 829-846.   
+Du,H.,Li, X,Chi,P,Zhao,J.,& ZhaoG.(2017).Meaning in life,resiliene,and psychological well-being among children affected by parental HIV.AIDS Care,29(11),1410-1416.   
+Edwards,J.R.,& Cable,D.M.(20o9).The value of value congruence.Journal of Applied Psychology, 94(3), 654.   
+Edwards,J.R.,& Parry, M.E.(1993). On the use of polynomial regression equations as an alternative to difference scores in organizational research. Academy of Management Journal, 36(6),1577-1613.   
+Gilbert,P.,& Allan, S. (1998). The role of defeat and entrapment (arrested flight) indepression: An explorationof an evolutionary view.Psychological Medicine,28(3),585-598.   
+Glaw,X., Kable,A.,Hazelton,M.,& Inder,K. (2017). Meaning in life and meaning oflife in mental healthcare: An integrative literature review. Issues in Mental Health Nursing,38(3),243-252.   
+Goschin,S.,Briggs,J.,Blanco-Lutzen,S.,Cohen,L.J.,&Galynker,I. (2013).Parentalaectionlesscontroland suicidality. Journal ofAffective Disorders,151(1),1-6.   
+Gratz,K.L. (20o1). Measurement of deliberate self-harm: Preliminary data on the deliberate self-harm inventory. Journal ofPsychopathology and Behavioral Assessment,23(4),253-263.   
+Grifiths,A.W.,Wood,A.M.,Maltby,J.，Taylor,P.J.，& Tai,S. (2014).The prospective role of defeat and entrapment in depression and anxiety: A12-month longitudinal study.Psychiatry Research, 216(1),52-59.   
+Gunnell,D.,Appleby,L.,Arensman,E.,Hawton,K.,John,A.,Kapur,N.,.,&ip,P.S.(22O).Suicideriskand prevention during the COvID-19 pandemic. The Lancet Psychiatry, 7(6), 468-471.   
+Hammen, C. (2018).Risk factors for depression: An autobiographical review.Annual Review of Clinical Psychology, 14,1-28.   
+Han, A.,Wang, G., Xu,G.,& Su,P. (2018).A self-harm series and itsrelationship withchildhood adversity among adolescents inmainland Chia:Acrossectional study.BiMed Central Psychiatry18(1)-10   
+Hawton,K., Saunders,K.E.,& O'Connor,R.C.(2012).Self-harm and suicide in adolescents.The Lancet, 379(9834),2373-2382.   
+Hayes,A.F.，& Mathes,J. (2009). Computational procedures for probing interactions in OLS and logistic regression: SPSS and SAS implementations.Behavior Research Methods, 41(3),924-936.   
+Hazel,N.A., Oppenheimer, C.W.,Technow, J.R.，Young,J.F.,& Hankin,B.L.(2014).Parent relationship quality buffers against the effct of peer stressors on depressive symptoms from middle childhood to adolescence. Developmental Psychology, 50(8),2115.   
+Human,L. J.,Dirks,M.A.,DeLongis,A.,& Chen,E.(2016). Congruence and incongruence in adolescents‘and parents’perceptions of the family:Using response surface analysis to examine links with adolescents' psychological adjustment. Journal of Youth and Adolescence, 45(10),2022-2035.   
+Humberg, S., Nestler,S,& Back,M.D. (2019). Responsesurface analysis in personalityand social psychology: Checklist and clarifications for the case of congruence hypotheses.Social Psychological and Personality Science,10(3),409-419.   
+Jia, Z. H. O.U.,Fang, H. U.,Jing, W. U., Zou, Z.Y., Wang,Y.X.,Peng, H. C.,..& Hua,Y. (2018).Subjective well-being and family functioning among adolescents left behind by migrating parents in Jiangxi Province, China.Biomedical and Environmental Sciences,31(5),382-388.   
+Joiner Jr,T.E.,Pfaff,J.J.,&Acres,J.G. (2O02).Abriefscreening tool forsuicidal symptoms inadolescentsand young adults in general health setings: reliability and validity data from the Australian National General Practice Youth Suicide Prevention Project. Behaviour Research and Therapy, 40(4), 471-481.   
+Jouriles,E.N.,Rosenfield,D.,McDonald,R.,& Mueler,V. (2014).Child involvementin interparental conflict and child adjustment problems: A longitudinal study of violent families.Journal of Abnormal Child Psychology, 42(5), 693-704.   
+Kärtner, J.,Kellr,H.,& Chaudhary,N. (2o10). Cognitiveand social influenceson early prosocial behavior intwo sociocultural contexts. Developmental Psychology, 46(4), 905.   
+Kim, J.Y.,Lee,Y.W., Kim, H.S.,& Lee,E.H. (2019).The mediating and moderating effcts of meaning in life on the relationship between depression and quality of life in patients with dysphagia.Journal of Clinical Nursing, 28(15-16),2782-2789.   
+Kopetz,C.,& Orehek,E.(2015). When the end justifies the means: Self-defeating behaviors as “rational and "successful" self-regulation. Current Directions in Psychological Science, 24(5), 386-391.   
+Lan,T.,Jia,X.,Lin,D.,&Liu,X.(219).Stressful lifeevents,depression,and non-suicidal self-injuryamong chinese left-behind children:Moderating efects of self-esteem. Frontiers in psychiatry， 10,244. https://doi.org/10.3389/fpsyt.2019.00244   
+Li,C.Q.,Zhang,J.S.,MaS.,Lv,R.R.,Duan,J.L.,Luo,D.M.,..& Song,Y. (22).Genderdiferences inselfharm and drinking behaviors among high school students in Beijing, China. BioMed Central Public Health, 20(1), 1-11.   
+Marco,J. H.， Garcia-Alandete,J.，Perez, S., Guillen, V.,Jorquera,M.，Espallargas,P.，& Botella,C. (2015). Meaning in life and non-suicidal self-injury: a follow-up study with participants with borderline personality disorder.Psychiatry Research,230(2),561-566.   
+McEvoy,P.M,ayes,S.Hasing,P.A.,&Rees,C.S. (27).oughts,imagesadappraisasoated with acting and not acting on the urge to self-injure. Journal of Behavior Therapy and Experimental Psychiatry, 57, 163-171.   
+Muehlenkamp,J. J., Claes,L.,Havertape,L.,& Plener, P.L. (2012). International prevalence of adolescent nonsuicidalself-injuryand deliberate self-harm. Child and Adolescent Psychiatry and Mental Health,6(1),1-9.   
+Nock,M. K. (2010). Self-injury. Annual review of clinical psychology, 6,339-363.   
+O'Connor, R.C.,2011. Towards an integrated motivational-volitional of suicidal behaviour. In: O'Connor, R.C., Platt,S.,Gordon,J.(Eds.),International Handbook of Suicide Prevention: Research,Policyand Practice. Wiley Blackwell, Hoboken, pp. 181-198   
+O'Connor,R.C.,& Kirtley,O.J. (2018).The integrated motivational-volitional model of suicidal behaviour. Philosophical Transactions of the Royal Society B: Biological Sciences,373(1754),20170268.   
+Park,C.,Rosenblat,J.D,Brietke,E.,Pan,Z.,Lee,Y,Cao,B.,.& Mcntyre,R.S. (29).Stress,epigenetic and depression: a systematic review. Neuroscience & Biobehavioral Reviews,102,139-152.   
+Price,J.,Sloman,LGardner,R.,Gbert,P,&Rohde,P.(1994).Thesocialcompetition hypothesisofdprssio. TheBritish Journal ofPsychiatry,164(3),309-315.   
+Rice,F., Harold, G. T.,& Thapar, A. (2002). Assessing the effects of age,sex and shared environment on the genetic aetiology of depression in childhood and adolescence. Journal of Child Psychology and Psychiatry, 43(8),1039-1051.   
+Rosenthal, D. (1963). A suggested conceptual framework.In D. Rosenthal (Ed.), The genain quadruplets (pp. 505- 516). New York: Basic Books.   
+Rotenstein, L. S.,Ramos,M. A.，Tore, M., Segal, J.B., Peluso, M.J.， Guile, C.,..& Mata,D.A. (2016). Prevalence of depression, depressive symptoms,and suicidal ideation among medical students: a systematic review and meta-analysis. The Journal of the American Medical Association,316(21),2214-2236.   
+Salk,R.H., Hyde,J. S.,&Abramson,L. Y. (2017). Gender diffrences indepression inrepresentative national samples: Meta-analyses of diagnoses and symptoms.Psychological Bulletin,143(8),783.   
+Sampasa-Kanyinga,H.,Lalande,K.，& Colman,I. (2O18). Cyberbulying victimisation and internalising and externalising problems among adolescents: the moderating role of parent-child relationship and child's sex. Epidemiology and Psychiatric Sciences,29,e8.htps://doi.org/10.1017/S2045796018000653   
+Shanock,L.R.,Baran,B.E.,Gentry,W.A.,Pattison,S.C.,&Heggestad,E.D.(2o10).Polynomialregresion with response surface analysis: A powerful approach for examining moderation and overcoming limitations of difference scores.Journal of Business and Psychology,25(4), 543-554.   
+Shimamoto，A. (2018). Social defeat stress,sex, and addiction-like behaviors. International review of neurobiology, 140,271-313.   
+Sijtsma,K.(2009). On the use,the misuse,and the very limited usefulness of Cronbach's alpha.Psychometrika, 74(1), 107.   
+Steger,M.F.,Frazier,P.,Oishi, S.,& Kaler,M. (2006).The meaning in life questionnaire: assessing the presence of and search for meaning in life.Journal of Counseling Psychology， 53(1), 80.   
+Steger,M.F.,Kawabata,Y.,Shimai,S.,&Otake,K.(2oo8).The meaningful life inJapanand the United States: Levels and correlates of meaning in life. Journal of Research in Personality, 42(3), 660-678.   
+Steger,M.F.,Mann,J.R.,Michels,P.,& Cooper,T.C.(2o09). Meaning in life,anxiety,depression,and general health among smoking cessation patients. Journal of psychosomatic research, 67(4),353-358.   
+Swannel,S.V.,Martin,G.E.,Page,A.,Hasking,P.,&StJohn,N.J.(014).Prevalence ofnon-suicidal self-jury unng Behavior, 44(3),273-303.   
+Tang,H., Wang,S.P., Gong,R.J., Wang,Z. Z.,& Cai, Y. (2019). Reliabilityand validity ofdefeat scale on anxiety and depression in medical students.Journal of Shanghai Jiaotong University (Medical Science),39(1),84.   
+[唐华,王甦平,龚睿婕,王泽洲,&蔡泳.(2019).挫败感量表对医学生焦虑抑郁态的信效度评估.上海交通大 学学报(医学版),39(1),84.]   
+Taylor,P.J.,Gooding,P.,Wood,A.M.,& Tarrier,N.(2011).The roleof defeat and entrapment in depression, anxiety,and suicide.Psychological Bulletin,137(3),391.   
+Thompson, M. P.，& Swartout, K. (2018).Epidemiology of suicide atempts among youth transitioning to adulthood. Journal of Youth and Adolescence, 47(4), 807-817.   
+Tian,X., Cao,Y.,& Zhang,W.(2020).The influence of maternal negative parenting,peer victimization and FKBP5 gene on adolescent depressive symptoms.Acta Psychologica Sinica, 52(12),1407   
+[田相娟,曹衍淼,& 张文新.(2020).母亲消极教养,同伴侵害与 FKBP5 基因对青少年抑郁的影响.心理学报， 52(12), 1407.]   
+Van Petegem,S.,Antonietti,J.P.,Eira Nunes,C.,Kins,E.，& Soenens,B.(2O2O).Therelationship between maternal overprotection， adolescent internalizing and externalizing problems,and psychological need frustration: A multi-informant study using response surface analysis. Journal of Youth and Adolescence, 49(1), 162-177.   
+Wang, C.,La Salle,T.P.,Do,K.A.，Wu,C.,& Sullivan,K.E. (2019). Does parental involvement matter for students' mental health in middle school?. School Psychology, 34(2),222.   
+Wang,M.，& Dai, X. (2008). Chinese Meaning in Life Questionnaire Revised in College Students and I'ts Reliability and Validity Test. Chinese Journal ofClinical Psychology, 16(5),459-461.   
+[王孟成,&戴晓阳.(2008).中文人生意义问卷 (C-MLQ)在大学生中的适用性.中国临床心理学杂志,16(5), 459-461.]   
+Wang,Q.,& Liu, X. (2019).Peer victimization,depressive symptoms and non-suicidal self-injury behavior in Chinese migrant children: the roles of gender and stressful life events. Psychology Research and Behavior Management,12,661.   
+Wersing, V.R.,Jeffreys,M.,Do,M. C.T.,Schwartz, K.T.,& Bolano, C.(2017).Evidence base update of psychosocial treatments for child and adolescent depression.Journal of Clinical Child and Adolescent Psychology, 46(1),11-43.   
+Wen, Z.,& Ye,B.(2014). Diferent Methods for Testing Moderated Mediation Models: Competitors or Backups? Acta Psychologica Sinica, 46(5),714. [温忠麟,&叶宝娟.(2014).有调节的中介模型检验方法:竞争还是替补?.心理学报,46(5),714.]   
+Williams JMG.2001. The cry of pain. London, UK: Penguin   
+[Wu,Y.,Han,X.,Wei,W.,&Lou,L.(2Ol3).Theoretical Model Constructionand Testing ofParental Involvement in Primary School Children Education.Journal of Beijing Normal University (Social Sciences),1,61-69.]   
+吴艺方,韩秀华,韦唯,&罗良.(2013).小学生父母教育卷入行为理论模型的建构与验证.北京师范大学学报: 社会科学版,1,61-69.   
+Wu,Y.,& W, Z. (2011). Item Parceling Strategies in Structural Equation Modeling. Advances in Psychological Science,19(12),1859-1867.   
+[吴艳,& 温忠麟.(2011).结构方程建模中的题目打包策略.心理科学进展,19(12),1859-1867.]   
+Yang, W., Xiong, G., Garrdo,L.E., Zhang,J. X., Wang,M. C.,& Wang, C. (20i8).Factor structure and criterion validity across the full scale and ten short forms of the CES-D among Chinese adolescents.Psychological Assessment,30(9),1186.   
+Yu,H.，& Huang, X. (2011). The Diffrence Between Print and Web Surveys: A Comparison of Two Data Collection Methodloogies. Journal of Statistics and Information,26(10),97-103.   
+[于洪彦,黄晓治.(2011).书面调查和网络调查的区别—— 两种数据收集方法的比较.统计与信息论坛, 26(10),97-103.]   
+Zhu,X.,Tian,L.，& Huebner,E.S.(2019).Trajectories of suicidal ideation from middlechildhood to early adolescence: risk and protective factors.Journal of Youth and Adolescence, 48(9),1818-1834.   
+Zortea,T.C.,Dickson,A., Gray, C.M.,& O'Connor,R. C. (2019).Associations between experiences of disrupted attachments and suicidal thoughts and behaviours: An interpretative phenomenological analysis. Social Science and Medicine, 235,112408. The effects of the parent-child relationship and parental educational
+
+involvement on adolescent depression, self-injury, and suicidal ideation:
+
+The roles of defeat and meaning in life
+
+HU Yiqiu1,2.3,4 ZENG Zihao1,3 PENG Liyi1 WANG Hongcai1,³ LIU Shuangjin1 :
+
+YANG Qin' FANG Xiaoyi5
+
+(1.School of Education Science,Hunan Normal University, Changsha 410081;
+
+2. China Research Center for Mental Health Education of Hunan Province, Hunan Normal University, Changsha 410081;   
+3. Cognition and Human Behavior Key Laboratory of Hunan Province, Changsha 410081; 4.Center for Mind-brain Science, Hunan Normal University, Changsha 410081; 5. Institute of Developmental Psychology,Beijing Normal University, Beijing 100875)
+
+Abstract Because of their high incidence as well as high risk,adolescent psychological problems have been a constant pressing topic of governmental, psychological, sociological, and medical interest for research.Adolescent depression，self-injury，and suicidal ideation not only have serious impacts on an individual social functioning, the burden of disease and economic pressures caused by self-harming incidents also make it vital to explore the factors affecting these behaviors and their developmental mechanisms. Ecosystem theory emphasizes the role and significance of the environment in the process of individual development, believing that individual development is the result of one's interactions with the surrounding environment.As the innermost structure in the ecosystem, family is the environment that is most relevant for individuals,having the greatest influence. In this study, two important components of the parent-child subsystem parent-child relationship (child) and educational involvement (parent） were introduced to explore their combied effects on adolescent depression， self-injury, and suicidal ideation from a binary perspective. The roles of frustration and sense of meaning in life were also investigated from an integrated motivational-volitional model perspective.
+
+The current study built a moderated mediation model exploring the combined effects of the parent-child relationship on adolescent depresson, self-injury, and suicidal ideation. A total of 930 middle school students (501 boys, 429 girls; average $\mathrm { a g e } = 1 5 . 2 4 \pm 1 . 6 6$ years） and their parents participated in this investigation. After given their informed consent, both parents and students completed the Short Form of Center for Epidemiological Studies Depression Scale, the Deliberate Self-Harm Inventory, the Four-item Depressive Symptom Index - Suicidality Subscale, the Parent-Child Intimacy Questionnaire, Parental Involvement in Primary School Children Education, the Defeat Scale,and the Chinese Meaning in Life Questionnaire. SPSS 26.0,AMOS 23.0,and Mplus 7.0 were used to analyze the data.
+
+The results indicated that: (1) Compared to individuals with a low parent-child relationship and low educational involvement, adolescents with a high parent-child relationship and high educational involvement had lower levels of defeat. Compared to adolescents with a low parentchild relationship and high educational involvement,individuals with a high parent-child relationship and low educational involvement showed lower levels of defeat; (2)Defeat partially mediated the relationship between the parent-child relationship and educational involvement and adolescent depression,self-injury,and suicidal ideation; (3） The second half of the mediation model was moderated by meaning in life,that is, with the increase of meaning in life,the effect of defeat on depression, self-injury, and suicidal ideation gradually decreased.
+
+Based on ecosystem theory and integrated motivational-volitional model， and using innovative polynomial regression and response surface analysis, the current study investigated the influence of the parent-child relationship and parents' educational involvement on adolescent depression, self-injury, and suicidal ideation, as well as the mediating and moderating effects of defeat and meaning in life. The results providing additional evidence for the relevant developmental theories of depression,self-injury, and suicidal ideation. This study also offers more insight into potential psychological crisis behavioral interventions.
+
+Key words Adolescent mental health； Parent-child relationship；Defeat; Meaning in life; Response surface analysis

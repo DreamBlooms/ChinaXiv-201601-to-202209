@@ -1,0 +1,449 @@
+[
+    {
+        "type": "text",
+        "text": "基于 $L _ { 1 / 2 }$ 正则化和局部纹理约束的人脸超分辨率图像重建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王宝成1²，李波1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．武汉科技大学 计算机科学与技术学院，武汉 430065;2.智能信息处理与实时工业系统湖北省重点实验室，武汉430065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了更好地利用低分辨率人脸图像，提出了一种基于 $L _ { 1 / 2 }$ 正则化和局部纹理约束的人脸超分辨率重建。在人脸重建的过程中，使用非负矩阵分解将人脸图像放大到合适的中等分辨率，使用局部纹理约束加强纹理特征提取;然后使用局部稀疏先验进行人脸图像重建，再次加入重建约束和局部纹理约束。为了使获取的人脸图像稀疏系数更加稀疏，使用 $L _ { 1 / 2 }$ 正则化求解稀疏表示系数。实验结果表明，重建的人脸图像保持了原图像的结构，可以实现很好的重建结果，并且具有更好的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大健词：稀疏衣小；八脸图像；图像里建； $L _ { 1 / 2 }$ 正则化；同部纹理约木 中图分类号：TP391.41 doi: 10.19734/j.issn.1001-3695.2018.06.0578 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Face image super-resolution via $L _ { 1 / 2 }$ regularization and local texture constraints ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Baocheng1,2,Li Bo1, 2 (1.College ofComputer Science& Technology， Wuhan Universityof Sciences&Technology,Wuhan 430065,China; 2. HubeiProvince KeyLaboratoryof Intellgent InformationProcessing&Real-time Industrial System,Wuhan430065, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to make better useof low-resolution face images,anew face super-resolution reconstructionbased on $L _ { 1 / 2 }$ regularizationand local texture constraints is proposed.Inthe process of face reconstruction，thispaper uses Nonnegative Matrix Factorization to amplifythe face image toan appropriate medium resolution.In this process,local texture constraints are used to enhance texture feature extraction.Then,face image reconstruction uses local sparse prior, and addsreconstruction constraints and local textureconstraints again.In order to make the obtained face image sparse coeficient more sparse，Li/2regularization is used to solve theproblem.Theexperimental resultsshow thatthe reconstructed face image retains theoriginal image structure,and itcanachievegood reconstructionresults,andhasbetter robustness. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: super representation; face image; image reconstruction; ll/2 regularization; local texture constraint ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，超分辨率重建(super-resolution，SR)技术被广泛的运用在遥感、医学成像和图像处理等方面。SR的目标就是从一个或者多个低分辨率(low resolution，LR)观测图像重建出高分辨率(high resolution，HR)图像。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的SR方法总是需要同一场景下的多个LR图像，但是在大多数的情况下，无法获得多个LR图像。因此，单帧图像超分辨率重建(single image super resolution，SISR)获得越来越多的关注。一般来说，由于LR图像含有的信息不足，未知的下采样算子和模糊算子，造成了SISR是一个“ill-posed\"问题，即造成了重建图像的不确定性[1]。在一些传统的重建方法中，如双线性插值[2]和双三次插值[3]，这些简单的插值方法通常会产生具有振铃和锯齿状的过度平滑的图像[4]。近年来，Chang 等人[5]采用流行学习中的局部线性嵌入(LLE)[的思想，假设高分辨率和低分辨率补丁空间中的两个流行之间的相似性生成高分辨率图像块。然而，使用固定数量的K 近邻进行重建，往往会导致模糊效应。Yang 等人[7]基于压缩感知理论，提出一种通过超分辨率重建技术对图片进行重建的方法，该方法在LR和HR块以及其对应的字典具有相同的稀疏表示的情况下自适应的选择最相关的重建邻域，重建的HR 图像就是由稀疏表示系数和学习的HR字典生成。后来，Yang等人[8通过训练紧凑的字典对，来对这种方法进行改进，减少训练字典的时间。在进行稀疏重建的时候，Yang使用的是 $L _ { 1 }$ 正则化来获得稀疏系数。在此基础上，Cao 等人[9]使用 $L _ { \\mathrm { p } } ( 0 { < } \\mathrm { p } { < } 1 )$ 正则化替换 $L _ { 1 }$ 正则化，获取更加稀疏的稀疏系数。Dong等人[0]提出了使用块坐标下降优化技术的非负字典学习算法。为了提高非负稀疏编码的准确性，利用学习稀疏编码的空间相关性，提出一种基于聚类的结构化稀疏编码方法。之后，Huang等人[1]利用神经网络，提出一种完全卷积神经网络，称为双向递归卷积神经网络，用于多帧图像超分辨率重建。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文在稀疏表示的图像超分辨率重建的基础上，对单帧人脸图像进行重建。使用局部二值模式(local binary patterns,LBP)[12]对人脸进行两次纹理特征提取，实现人脸重建过程中的局部纹理约束，以重建出更加清晰的人脸图像。考虑到 $L _ { 1 / 2 }$ 正则化对于非凸优化问题具有更好的解决方式，使用 $L _ { 1 / 2 }$ 正则化替换 $L _ { 1 }$ 正则化，用于获得更加稀疏的稀疏表示系数。利用迭代加权最小二乘法(iterative reweighted least squares,IRLS)进行转换，使 $L _ { 1 / 2 }$ 正则化适用于非凸优化问题。实验表明，相对于使用 $L _ { 1 }$ 正则化，使用 $L _ { 1 / 2 }$ 正则化的超分辨率重建能够获得更稀疏的稀疏系数，而且可以实现比其他重建方法实现更好的重建效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1L1/2正则化的图像超分辨率重建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在基于稀疏表示的单帧图像超分辨率重建中，输入信号$x \\in R ^ { n }$ 可以表示为高分辨率字典 $D _ { \\boldsymbol { h } }$ 的稀疏线性组合： $x = D _ { \\boldsymbol { h } } \\alpha$ ，$\\alpha$ 为 $x$ 的稀疏系数，在实验中可以观察到的人脸图像为$y = L x = L D _ { h } \\alpha$ ，其中 $\\boldsymbol { L }$ 为投影矩阵。对于未知系数 $\\alpha$ ， $x = D _ { \\boldsymbol { h } } \\alpha$ 是不确定的， $y = L D _ { \\scriptscriptstyle h } \\alpha$ 就更加不确定，这就造成了超分辨率重建的“ill-posed”问题。为了约束这个“ill-posed”问题,添加两个条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)重建约束。重建的高分辨率图像 $\\boldsymbol { \\cal X }$ 可以重新得到输入的低分辨率图像 $Y$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = H B X\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$H$ 表示下采样算子, $B$ 表示模糊算子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)稀疏先验。高分辨率图像 $\\boldsymbol { \\cal X }$ 的图像块 $x$ 可以表示为高分辨率图像块字典 $\\boldsymbol { D } _ { \\boldsymbol { h } }$ 的稀疏线性组合：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { x { = } D _ { h } \\alpha } & { { } { \\mathrm { f o r ~ s o m e ~ } } \\alpha \\in R ^ { K } { \\mathrm { ~ w i t h ~ } } \\| \\alpha \\| _ { \\circ } \\ll K } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稀疏表示 $\\alpha$ 通过低分辨率图片 $Y$ 的图像块 $y$ 来进行求解:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\operatorname* { m i n } \\| \\alpha \\| _ { 1 } } & { { } s . t . \\| F D _ { l } \\alpha - F y \\| _ { 2 } ^ { 2 } \\le \\varepsilon } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\varepsilon }$ 为一个很小的误差。考虑到相邻图像块之间的兼容性，最终形成优化问题:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { r l } { \\operatorname* { m i n } \\| \\alpha \\| _ { 1 } } & { s . t . } \\end{array} \\| F D _ { l } \\alpha - F y \\| _ { 2 } ^ { 2 } \\leq \\varepsilon _ { 1 }  \\\\ & { \\operatorname* { m i n } \\| \\alpha \\| _ { 1 } } & { \\| P D _ { h } \\alpha - s \\| _ { 2 } ^ { 2 } \\leq \\varepsilon _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：矩阵 $P$ 提取当前目标图像块与之前重建的高分辨率图像之间的重叠区域， $s$ 包含重叠的高分辨率图像的像素值。由拉格朗日乘数合并式(4)为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\alpha } \\left\\| \\tilde { F } \\alpha - \\tilde { y } \\right\\| _ { 2 } ^ { 2 } + \\lambda \\| \\alpha \\| _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在文献[13]中证明， $L _ { 1 / 2 }$ 正则化会产生比 $L _ { 1 }$ 正则化更加稀疏的解，而且求解过程要比 $L _ { 0 }$ 正则化更加简单。因此，使用 $L _ { 1 / 2 }$ 正则化代替 $L _ { 1 }$ 正则化。则式(5)的最终形式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\alpha } \\biggl \\| \\tilde { F } \\alpha - \\tilde { y } \\biggr \\| _ { 2 } ^ { 2 } + \\lambda \\| \\alpha \\| _ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：𝐹= $\\bar { \\boldsymbol { F } } = \\left[ \\begin{array} { l } { F D _ { l } } \\\\ { P D _ { h } } \\end{array} \\right] , \\quad \\bar { \\boldsymbol { y } } = \\left[ \\begin{array} { l } { F y } \\\\ { s } \\end{array} \\right]$ 。考虑到细节信息，文献[9]利用IRLS 法转换式(6)的最优化问题。由于IRLS 方法通常基于$L _ { \\mathrm { p } }$ ，p≥1，对于本文中 $\\scriptstyle \\mathtt { p } = 1 / 2$ 的情况需要进行转换，使得IRLS方法有效的作用于非凸优化问题。则(6)最终转换为新的目标函数:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\alpha } \\biggl \\| \\tilde { F } \\alpha - \\tilde { y } \\biggr \\| _ { 2 } ^ { 2 } + \\lambda \\sum _ { j = 1 } ^ { n } w _ { i } \\alpha _ { i j } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha = ( \\alpha _ { 1 } , \\alpha _ { 2 } , \\cdots , \\alpha _ { n } )$ ， $w _ { i }$ 为前一次 $\\alpha _ { i j } ^ { k - 1 }$ 迭代所得的权值，根据IRLS方法，推出如下具体迭代形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { j } ^ { k } = \\left[ \\left( \\alpha _ { i j } ^ { k - 1 } \\right) ^ { 2 } + \\varepsilon _ { 3 } \\right] ^ { - 3 / 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varepsilon _ { 3 }$ 为一个很小的误差。求出式(7)的最优解 $\\alpha ^ { * }$ ，那么高分辨率图像块可以被重建为 $x = D _ { \\boldsymbol { h } } \\alpha$ 。之后高分辨率图像块整合为重建的高分辨率图像 $X _ { 0 }$ 。通过将图像 $X _ { 0 }$ 投影到重建约束条件 $Y = H B X$ 的解空间中来减小误差:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求解出式(9)的最优解，即为重建的高分辨率图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 局部纹理约束的人脸超分辨率重建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于人脸图像超分辨率重建，基本的思想是首先把人脸图像放大到合适的中等分辨率图像，然后使用局部稀疏先验模型来重建高分辨率图像块，主要分为两步：a)全局模型,使用重建约束来恢复中等高分辨率人脸图像，但是在人脸子空间中搜索解决方案；b)局部模型,利用稀疏先验来重建高分辨率图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1非负矩阵分解",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非负矩阵分解(nonnegative matrix factorization,NMF)[14]:在人脸图像超分辨率重建中，最常用的子空间方法是主成分分析(PCA)，但是由于PCA的整体性，PCA往往难以解释。因此在本文中使用NMF。NMF用来寻求给定的信号的表示作为局部特征的组合，并形成以下优化问题：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { U , V } \\left\\| X - U V \\right\\| _ { 2 } ^ { 2 } \\quad s . t . U \\geq 0 , V \\geq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $x \\in R ^ { n \\times m }$ 是数据矩阵， $U \\in { \\cal R } ^ { n \\times r }$ 是基础矩阵， $V \\in R ^ { r \\times m }$ 是系数矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人脸的超分辨率重建问题可以使用重建约束表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { * } = \\arg \\operatorname* { m i n } _ { c } \\left\\| H B U c - Y \\right\\| _ { 2 } ^ { 2 } + \\eta \\left\\| \\delta U c \\right\\| _ { 2 } \\quad s . t . c \\geq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $c \\in R ^ { r \\times 1 }$ 是系数向量， $\\eta$ 为惩罚系数， $\\delta$ 表示执行高通滤波的矩阵。考虑到局部的纹理信息，以实现更好的重建效果：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { c ^ { * } = \\arg \\operatorname* { m i n } _ { c } { \\left\\| H B U c - Y \\right\\| _ { 2 } ^ { 2 } } + \\eta \\left\\| \\delta U c \\right\\| _ { 2 } } \\\\ { s . t . c \\geq 0 \\mathrm { } a n d \\left\\| \\phi U c - \\phi Y \\right\\| _ { 2 } ^ { 2 } \\leq \\varepsilon _ { 4 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由拉格朗日乘数可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { * } = \\arg \\operatorname* { m i n } _ { c } \\left\\| H B U c - Y \\right\\| _ { 2 } ^ { 2 } + \\eta \\left\\| \\delta U c \\right\\| _ { 2 } + \\lambda \\left\\| \\phi U c - \\phi Y \\right\\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：λ是惩罚系数， $\\phi$ 是特征提取算子，2.2节中说明。求解出其最优化解 $\\cdot ^ { \\ast }$ ，那么得到中等分辨率图像为 $\\widetilde { \\boldsymbol { x } } = \\boldsymbol { U } \\boldsymbol { c } ^ { * }$ 。对于得到的中等分辨率图像x的图像块 $y$ ，求解出优化问题(7),得到稀疏系数 $\\alpha$ ，则高分辨率图像 $\\boldsymbol { X } _ { 0 } { = } \\boldsymbol { D } _ { h } \\alpha$ ，得到的高分辨率图像 $X _ { 0 }$ 要满足重建约束，即要满足式(9):$X ^ { \\ast } = \\arg \\operatorname* { m i n } _ { X } \\left\\| H B X - Y \\right\\| _ { 2 } ^ { 2 } + \\varphi \\left\\| X - X _ { 0 } \\right\\| _ { 2 } ^ { 2 }$ 。在对式(9)的求解过程中，再次加入纹理约束：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { X ^ { ' } = \\arg \\underset { X } { \\operatorname* { m i n } } \\| H B X - \\tilde { x } \\| _ { 2 } ^ { 2 } } + \\mu \\| X - X _ { 0 } \\| _ { 2 } ^ { 2 } + \\gamma \\| \\phi X - \\phi \\tilde { x } \\| _ { 2 } ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tilde { x }$ 是中等超分辨率图片，作为新的低分辨率图片， $X _ { 0 }$ 是重建之后的高分辨率图片， $\\gamma$ 为惩罚系数。求解出式(14)的最优解 $\\boldsymbol { X } ^ { * }$ ,即为最终重建的人脸高分辨率图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 局部二值模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "局部二值模式(local binarypatterns,LBP)[12]：在进行纹理特征约束的过程中，即局部特征提取的过程中，使用的是局部二值模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "局部二值模式是机器视觉领域中用于描述图像局部纹理特征的算子，具有旋转不变性和灰度不变性等显著的优点。局部二值模式是一个简单但非常有效的纹理运算符，其最重要的属性是对光照变化造成的灰度变化的鲁棒性。提取LBP的过程首先是将原始图像转换为LBP图，然后统计LBP图的LBP直方图，并以这个向量形式的直方图来表示原始的图像。LBP可以定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX ^ { * } = \\arg \\operatorname* { m i n } _ { X } \\| H B X - Y \\| _ { 2 } ^ { 2 } + \\varphi \\big \\| X - X _ { 0 } \\big \\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P ( x _ { c } , y _ { c } ) = \\sum _ { p = 0 } ^ { p - 1 } 2 ^ { p } s \\left( i _ { p } - i _ { c } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $( x _ { c } , y _ { c } )$ 是中心点的像素，亮度为 $i _ { c }$ ；而 $i _ { { } _ { p } }$ 是相邻像素的亮度。 $s$ 是一个函数:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns \\left( x \\right) = \\left\\{ { \\begin{array} { r l } { 1 } & { { \\mathrm { ~ } } i f { \\mathrm { ~ } } x \\geq 0 } \\\\ { 0 } & { { \\mathrm { ~ } } e l s e } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后计算图像块的直方图，即每个数字出现的频率，之后对该直方图进行归一化处理。最后将得到的统计直方图连接成一个特征向量，也就是整幅图的LBP纹理特征向量，使用生成的LBP纹理特征向量对重建的超分辨率图片进行纹理约束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文的实验中，实验的数据来自于两个公共人脸数据库：FEI face database 和CMU+MITface database 数据库[15],实验环境为i3-4160CPU3.50GHz,4.00GBRAM的PC，算法在MATLABR2014a运行。FEIfacedatabase是巴西人脸数据库，是FEI人工智能实验室拍摄的一组人脸图像，所有的图像都是彩色的，所有面孔主要由FEI的学生和工作人员代表，具有独特的外观、发型和装饰，包含了约100个男性和100女性测试者共200人的数据，每个人有两张人脸图像：一张正常表情图像，一张具有微笑表情的图像。 $\\mathbf { C M U + M I T }$ facedatabase包含了近130幅图像，近500个正面人脸图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "示例样本如图1所示，测试结果的时候，使用一个人的两个表情，以验证提出方法的有效性；同时在实验的时候，对人脸图像加入噪声，以验证提出方法对噪声的鲁棒性。在重建过程中，选择低分辨率图像块的大小为 $3 { \\times } 3$ ，中等分辨率图像块的大小为 $6 { \\times } 6$ ，最终生成的高分辨率图像块的大小为 $9 { \\times } 9$ 。最后把重建得到的高分辨率图像块进行整合，形成完整的高分辨率人脸图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1不含噪人脸图像重建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对不含噪声的图片进行重建，本文设置式(7)中的参数$\\lambda { = } 0 . 0 1$ 。图2为重建的结果，表1为对应的人脸图像的重建参数，本文选择峰值信噪比 (peak signal to noise ratio,PSNR)和结构相似性 (structural similarity index，SSIM)作为定性分析的结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ff1bb18b20b7694c98a3b8966312a7974971b37dd19b361ce09b01ce1228a00.jpg",
+        "img_caption": [
+            "图1实验中的高分辨率人脸图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d6dd41aef3e95bc9568c5ba128b01df8e375c074742a08bfde6ca5fbff95f30.jpg",
+        "img_caption": [
+            "Fig.1High resolution face images in experiments ",
+            "图2图像重建结果",
+            "Fig.2Image reconstruction results "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在图2中，图片从左到右依次为分别为低分辨率人脸图像，双三次插值[3]、稀疏表示[8]、领域嵌入(neighbor embedding,NE)[5] $L _ { 1 }$ 正则化的局部纹理约束重建和 $L _ { 1 / 2 }$ 正则化的局部纹理约束重建。实验对两个人的两个表情进行重建，以验证提出方法对人脸微笑表情的鲁棒性。从重建的结果中可以看出双三次插值方法得到的人脸图像趋于平滑和锯齿状伪影，这也说明在表1中双三次插值的PSNR比其他方法较差的原因；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "稀疏表示重建的图像人脸轮廓较为清晰，但是在较低分辨率人脸图像重建的过程中会出现一些小的伪影；NE方法可以产生良好的边缘，但是会使得重建的人脸图像趋于平滑，一些特征点,比如人脸三和人脸四脸上的斑纹，没有重建出来，这从表1中的PSNR参数中也说明NE方法相对于稀疏表示来说，在重建结果上会有些失真；相对于 $L _ { 1 }$ 正则化， $L _ { 1 / 2 }$ 正则化重建的图片在视觉效果上面无法很好的区分，但是从表1中的参数PSNR和SSIM来看， $L _ { 1 / 2 }$ 正则化都优于 $L _ { 1 }$ 正则化重建的结果，这也说明使用 $L _ { 1 / 2 }$ 正则化求解非凸优化问题可以产生比 $L _ { 1 }$ 正则化更加稀疏的解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5b06e395378b65d138b100c353ee7c6c12a7463106a60d055deaf1bc59fcb7e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 1 PSNR and SSM corresponding to different methods</td></tr><tr><td>图片</td><td>参数</td><td>NE</td><td>双三次插值</td><td>稀疏表示</td><td>L1</td><td>L1/2</td></tr><tr><td rowspan=\"3\">人脸一</td><td>PSNR</td><td>35.3672</td><td>33.3834</td><td>35.0539</td><td>37.8949</td><td>38.1789</td></tr><tr><td>SSIM</td><td>0.905311</td><td>0.9197</td><td>0.8936</td><td>0.9307</td><td>0.9353</td></tr><tr><td>PSNR</td><td>35.2827</td><td>33.3738</td><td>34.9596</td><td>37.9529</td><td>38.1583</td></tr><tr><td rowspan=\"3\">人脸二 人脸三</td><td>SSIM</td><td>0.8962</td><td>0.9184</td><td>0.8973</td><td>0.9310</td><td></td></tr><tr><td></td><td></td><td>32.9551</td><td></td><td></td><td>0.9358</td></tr><tr><td>PSNR SSIM</td><td>34.0921 0.8676</td><td>0.8876</td><td>34.1616 0.8847</td><td>37.1721</td><td>37.3405</td></tr><tr><td rowspan=\"2\">人脸四</td><td>PSNR</td><td>33.2124</td><td>32.2137</td><td>33.9972</td><td>0.9057 36.9143</td><td>0.9106</td></tr><tr><td>SSIM</td><td>0.8598</td><td>0.8764</td><td>0.8791</td><td>0.8975</td><td>36.9558 0.9007</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2含噪人脸图像重建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实际生活中，获得到人脸图像，都会有些噪声的影响。为了验证提出方法对含噪的人脸图像的鲁棒性，本文在四张人脸图像中加入均值为0，方差 $\\scriptstyle \\sigma = 2 , 4 , 6$ 的高斯噪声。文献[9]中的研究证明，参数 $\\lambda$ 与噪声方差 $\\sigma$ 正相关，噪声越大，λ越大。因此对于上面的噪声 $\\sigma$ 设定，本文分别设置 $\\lambda { = } 0 . 2 , 0 . 4 , 0 . 6$ ，以处理相对应的噪声。表2中显示不同方法对不同的噪声重建结果的PSNR。从表中可以看出，随着噪声的增大，所有方法产生的PSNR都在减小,但是NE方法下降的最快，双三次插值其次。而稀疏表示和 $L _ { 1 }$ 正则化和提出的方法下降趋于稳定，而且 $L _ { 1 }$ 正则化方法随着噪声的增大，其重建结果的PSNR优于其他方法的结果。而本文提出的方法通过对噪声的处理，对噪声有一定的鲁棒性，其重建的结果产生的PSNR也一直优于其他方法，PSNR的下降趋势也相对稳定，这些结果也证明了提出方法对噪声的鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5c9833fe4e486c61679f75efec946454ef7752a6e74c18b20812d7becc5b475.jpg",
+        "table_caption": [
+            "表1不同方法的实验结果对应的PSNR和 SSIM",
+            "表2不同方法对不同噪声凸显重建结果的PSNR",
+            "Table 2PSNR of different reconstruction methods on different nois "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">saliency</td></tr><tr><td>噪声</td><td>方法</td><td>人脸1</td><td>人脸2</td><td>人脸3</td><td>人脸4</td></tr><tr><td rowspan=\"5\">0=2</td><td>NE</td><td>33.7829</td><td>33.7596</td><td>32.7602</td><td>32.1332</td></tr><tr><td>双三次插值</td><td>31.4888</td><td>31.4645</td><td>31.2419</td><td>30.7529</td></tr><tr><td>稀疏表示</td><td>31.4183</td><td>31.4732</td><td>31.2954</td><td>31.1335</td></tr><tr><td>L正则化</td><td>34.3739</td><td>34.1449</td><td>33.8299</td><td>33.8510</td></tr><tr><td>L1/2正则化</td><td>34.6785</td><td>34.6689</td><td>34.3436</td><td>34.3026</td></tr><tr><td rowspan=\"5\">0=4</td><td>NE</td><td>30.4482</td><td>30.5189</td><td>29.9450</td><td>29.7752</td></tr><tr><td>双三次插值</td><td>28.4796</td><td>28.3725</td><td>28.2992</td><td>28.0788</td></tr><tr><td>稀疏表示</td><td>29.5720</td><td>29.5778</td><td>29.4271</td><td>29.4398</td></tr><tr><td>L正则化</td><td>30.9482</td><td>31.1471</td><td>31.0550</td><td>30.9690</td></tr><tr><td>L1/正则化</td><td>32.4489</td><td>32.7009</td><td>32.3522</td><td>32.2231</td></tr><tr><td rowspan=\"5\">9=6</td><td>NE</td><td>27.7324</td><td>27.6277</td><td>27.4430</td><td>27.1214</td></tr><tr><td>双三次插值</td><td>25.9815</td><td>25.8159</td><td>25.7056</td><td>25.6607</td></tr><tr><td>稀疏表示</td><td>28.7784</td><td>28.6308</td><td>28.7983</td><td>28.6999</td></tr><tr><td>Li正则化</td><td>29.7794</td><td>29.6746</td><td>29.7503</td><td>29.6423</td></tr><tr><td>L2正则化</td><td>31.1517</td><td>30.8364</td><td>30.6793</td><td>30.9619</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种新的基于 $L _ { 1 / 2 }$ 正则化和局部纹理约束的人脸超分辨率图像重建。在人脸重建的过程中，先使用非负矩阵分解将低分辨率人脸图像放大到中等分辨率人脸图像，在非负矩阵分解的过程中，使用一次局部纹理约束，加强局部细节特征提取；在中等分辨率重建为高分辨率人脸图像的过程中，再次使用局部纹理约束；同时，为了获得更加稀疏的解，使用 $L _ { 1 / 2 }$ 正则化代替 $L _ { 1 }$ 正则化，这样不仅保留了稀疏表示重建的优势，而且可以获得更加稀疏的解，同时可以加强人脸局部特征的提取。从实验结果上面来看，重建后的人脸图像无论是从视觉效果上还是参数分析上，都优于其他的实验结果，证明了所提出方法的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Yang Shuyuan,Wang Min,Sun Yaxin,et al.Compressive sampling based single-image super-resolution reconstruction by dual-sparsity and non-local similarity regularizer [J].Pattern Recognition Letters,2012, 33 (9): 1049-1059.   \n[2]Andrew C H, Patern C L. Digital interpolation of discrete image [J]. IEEE Trans on Computers,1976,C-25(2):196-202.   \n[3]Hou H,Andrews H. Cubic splines for image interpolation and digital filtering [J].IEEE Trans on Acoustics,Speech,and Signal Processing, 1978,26(6): 208-517.   \n[4]Lu Xiaoqiang,Yuan Yuan,Yan Pingkun.Image super-resolution via double sparsity resularized manifold learning [J].IEEE Transon Circuits and Systems for Video Technology,2013,23(12):2022-2033.   \n[5]Chang Hong,Yeung Dit-Yan,Xiong Yimin. Super-resolution through neighbor embedding [Cl//Proc of IEEE Computer Society Conference on Computer Vision and Patern Recognition,2004: I-275-I-282.   \n[6]Wen Ying,Zhou Zhenyu, Wang Xunheng,et al. An improved locally linear embedding for sparse data sets [Cl//Proc of IEEE International Conference on Image Processing.2010:1585-1588.   \n[7]Yang Jianchao,Wright J,Huang T. Image super-resolution as sparse representation of raw image patches [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.2008: 1-8.   \n[8]Yang Jianchao,Wright J,Huang T. Image super-resolution via sparse representation [J]. IEEE Trans on Image Processing,2010,19(11): 2861-2873.   \n[9]Cao Feilong,Cai Miaomiao,Tan Yuanpeng.Image super-resolution via adaptive lp $( 0 { < } \\mathfrak { p } { < } 1 )$ regularization and sparse representation [J]. IEEE Trans on Neural Networks and Learning Systems，2016,27(7): 1550-1561.   \n[10] Dong Weisheng,Fu Fazuo, Shi Guangming,et al. Hyperspectral image super-resolution via non-negative structured sparse representation [J]. IEEE Trans on Image Processing,2016,25(5): 2337-2352.   \n[11] Huang Yan，Wang Wei,Wang Liang.Video super-resolution via Bidirectional recurrent convolutional networks [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2018,40(4):1015-1028.   \n[12] Jain A,Rathna G N. Visual speech recognition for isolated digits using discrete cosine transform and local binary pattern features [C]/Proc of IEEE Global Conference on Signal and Information Processing,2017: 368-372.   \n[13] Xu Zongben,Zhang Hai,Wang Yao. $L _ { 1 / / 2 }$ regularization [J]. Science China Information Science,2010,53(6): 1159-1169.   \n[14] Wu Zebin，Ye Shun，Wei Jie，et al.Parallel optimizationof hyperspectral unmixing based on sparsity constrained nonnegative matrix factorization [C]//Proc of IEEE International Geoscience and Remote Sensing Symposium.2013: 1438-1441.   \n[15] Jiang Junjun,Ma Jiayi,Chen chen,et al.Noise robust face image super-resolution through smooth sparse representation [J]. IEEE Trans on Cybernetics,2017,47(11): 3991-4002. ",
+        "page_idx": 3
+    }
+]

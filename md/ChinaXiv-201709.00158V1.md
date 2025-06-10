@@ -1,0 +1,408 @@
+# Updated reduced CMB data and constraints on cosmological parameters
+
+Rong-Gen Cai,\* Zong-Kuan Guo,† and Bo Tangt State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190, China (Dated: July 6, 2015) Abstract
+
+We obtain the reduced CMB data $\{ l _ { A } , R , z _ { * } \}$ from WMAP9, WMAP9+BKP, Planck+WP and Planck+WP $^ +$ BKP for the $\Lambda$ CDM and $w$ CDM models with or without spatial curvature. We then use these reduced CMB data in combination with low-redshift observations to put constraints on cosmological parameters. We find that including BKP results in a higher value of the Hubble constant especially when the equation of state of dark energy and curvature are alowed to vary. For the $\Lambda$ CDM model with curvature,the estimate of the Hubble constant with Planck $^ +$ WP $^ +$ Lensing is inconsistent with the one derived from Planck $^ +$ WP $^ +$ BKP at about 1.2 $\sigma$ confidence level.
+
+# I. INTRODUCTION
+
+Since the discovery of the cosmic acceleration expansion of the universe based on the distance measurement of type Ia Supernovae (SNe Ia) [1, 2], its origin has become a hot topic in modern cosmology and theoretical physics. The cause to the observed cosmic acceleration is due to the so-called dark energy with negative pressure in general relativity framework, or the modification to general relativity at cosmic scales.
+
+To study properties of dark energy, one may combine some mature probes, such as SNe Ia, the observational Hubble parameter (HUB),baryon acoustic oscillation (BAO) and cosmic microwave background (CMB) anisotropy. The SNe Ia, HUB and BAO probe the expansion of the universe at low and intermediate redshifts,while the CMB measurements probe the distance at high-redshift (especially the distance to the surface of last-scattering). The CMB data provide the strongest constraints on cosmological parameters [3] and help break the degeneracies among the dark energy and other cosmological parameters.
+
+The reduced CMB data $\{ l _ { A } , R , z _ { * } \}$ provide an efficient summary of CMB information, of which $l _ { A }$ is the angular scale of the sound horizon at recombination and determines the acoustic peak structure of the CMB angular power spectra, $R$ is the scaled distance to the recombination and determines the amplitude of the acoustic peak and $z _ { * }$ is the redshift at the last scattering surface. Instead of the full CMB spectra, the reduced CMB data relating the distance to the last scattering surface provide a fast and self-consistent approach for combining the CMB information with complementary cosmological data to constrain latetime cosmological parameters. The reduced CMB data were firstly derived in 4] from the three-year WMAP data for the $\Lambda$ CDM model (with and without spatial curvature) and they found that dark energy density is consistent with a constant in cosmic time and a fat universe is allowed by using the reduced CMB data together with the SNe Ia and BAO data. Recently Wang and Wang [5] obtained the reduced CMB data from WMAP9 and Planck+WP+Lensing for the $\Omega _ { k }$ +ACDM model and found that the reduced CMB data derived from Planck $^ +$ WP+Lensing are much tighter than those from WMAP9, but when combined with other low-redshift observational data, the reduced CMB data do not improve the constraints on the dark energy too much compared to those from WMAP9. Besides, Shafer and Huterer [6] derived the reduced CMB data from WMAP9 and Planck+WP respectively for the flat $w$ CDM model, when combining the reduced CMB data,BAO and 3 samples of SNe Ia data (Union2.1 [7], SNLS3 [8] and PS1 [9]) respectively, they found that there is a preference for the equation of state of dark energy $w < - 1$ for the constraints with Planck but not with WMAP9. More recently, the reduced CMB data have been obtained based on the flat $w$ CDM model by use of the Planck 2O15 temperature and low- $l$ polarization data, showing that the reduced CMB data are consistent with those based on $\Lambda$ CDM and CPL models [10]. There are many works that use the reduced CMB data together with complementary cosmological data to constrain late-time cosmology [11-14].
+
+There are two advantages of the reduced CMB data. First, the CMB shift parameters （204号 $l _ { A }$ and $R$ together with the decoupling redshift $z _ { * }$ , extracted from the CMB angular power spectra,allow one to quickly evaluate the likelihood of various dark energy models, without the need to run a Markov Chain Monte Carlo exploration of the CMB likelihood which usually includes a number of astrophysical parameters to describe unresolved foreground components and other nuisance parameters. Second, it provides an efficient and appropriate summary of CMB data as far as dark energy constraints are concerned. Since $l _ { A }$ determines the acoustic structure in CMB angular power spectra while $R$ determines the overall amplitude of the acoustic peaks, they are nearly uncorrelated. Both $R$ and $l _ { A }$ can be used to further compress CMB information and combined with other measurements in a friendly user manner to constrain dark energy models.
+
+On the other hand, the authors of [15] analyzed the likelihood of the reduced CMB data with WMAP3 data for the base $\Lambda$ CDM model involving extra parameters， such as tensor modes and a running spectral index. They found that adding curvature or slightly modifying the dark energy parameters does not significantly change the values of $\{ l _ { A } , R \}$ which,however, change large when more parameters like tensor modes or running of the scalar spectral index are involved.
+
+The purposes of this work are to update constraints on the parameter combination $\{ l _ { A } , R , z _ { * } \}$ using newly released CMB temperature and polarization data for several cosmological models and to test their dependence on model assumptions. These updated reduced CMB data provide a simple and efficient method for combining in a friendly user manner the current CMB measurements with low-redshift data. We first obtain the reduced CMB data from WMAP9 data [16] and Planck data [17] together with WMAP polarization data (WP), based on the $\Lambda$ CDM model and $w$ CDM model with a flat or curved space curvature, respectively. We also make a joint analysis of the data from BICEP2/Keck Array [18] and
+
+Planck (BKP) to derive the reduced CMB data. Our goal is to see the differences among the data used when combining the reduced CMB data with the low-redshift observational data to constrain different cosmological models.
+
+The paper is organized as follows. In section I we present the reduced CMB data obtained from WMAP9,Planck $^ +$ WP,Planck $^ +$ WP $^ +$ BKP and WMAP9 $^ +$ BKPbasedondifferent cosmological models,respectively. In section III we give the results of the combination of reduced CMB data and other data sets to constrain the different cosmological models. The conclusions are included in section IV.
+
+# II. REDUCEDCMBDATA
+
+The distance measurement is one of the most powerful methods to study the evolution history of the universe. In a Friedmann-Robertson-Walker universe, the comoving distance from an observer to redshift $z$ is given by
+
+$$
+\begin{array} { l } { { \displaystyle r ( z ) = H _ { 0 } ^ { - 1 } | \Omega _ { k } | ^ { - 1 / 2 } \sin [ | \Omega _ { k } | ^ { - 1 / 2 } \Gamma ( z ) ] } , }  \\ { { \displaystyle \Gamma ( z ) = \int _ { 0 } ^ { z } \frac { d z ^ { \prime } } { E ( z ^ { \prime } ) } , ~ E ( z ) = H ( z ) / H _ { 0 } , } } \end{array}
+$$
+
+where $\Omega _ { k } = - k / H _ { 0 } ^ { 2 }$ ( $k$ is the spatial curvature constant） and $\sin ( x ) = \sin ( x ) , x , \sinh ( x )$ for （204号 $\Omega _ { k } < 0$ ， $\Omega _ { k } = 0$ ，and $\Omega _ { k } > 0$ , respectively. The Hubble parameter is given by the Friedmann equation
+
+$$
+\begin{array} { c } { { H ^ { 2 } ( z ) = H _ { 0 } ^ { 2 } [ \Omega _ { r 0 } ( 1 + z ) ^ { 4 } + \Omega _ { d m 0 } ( 1 + z ) ^ { 3 } + \Omega _ { b 0 } ( 1 + z ) ^ { 3 } + } } \\ { { { } } } \\ { { \Omega _ { k } ( 1 + z ) ^ { 2 } + ( 1 - \Omega _ { m 0 } - \Omega _ { r 0 } - \Omega _ { k } ) ] , } } \end{array}
+$$
+
+for the $\Lambda$ CDM model，where the redshift $z$ is defined by $( 1 + z ) = 1 / a$ ，and $\Omega _ { r 0 }$ ， $\Omega _ { d m 0 }$ （204号 and $\Omega _ { b 0 }$ are the present values of the fraction energy density for radiation, dark matter and baryon matter, respectively. The latter two are often written as the total matter density （20 $\Omega _ { m 0 } = \Omega _ { b 0 } + \Omega _ { d m 0 }$ . The radiation density is the sum of photons and relativistic neutrinos [16]:
+
+$$
+\Omega _ { r 0 } = \Omega _ { \gamma } ^ { ( 0 ) } ( 1 + 0 . 2 2 7 1 N _ { e f f } ) ,
+$$
+
+where $N _ { e f f } = 3 . 0 4 6$ is the effective number of neutrino species in the Standard Model of particle physics [20], and $\Omega _ { \gamma } ^ { ( 0 ) } = 2 . 4 6 9 \times 1 0 ^ { - 5 } h ^ { - 2 }$ for $T _ { \mathrm { C M B } } = 2 . 7 2 5 K$ ( $h \equiv H _ { 0 } / 1 0 0 ~ \mathrm { k m ~ s ^ { - 1 } }$ （204号
+
+$\mathrm { M p c ^ { - 1 } } .$ ).Forthe $w$ CDM model, the Hubble parameter is given by
+
+$$
+\begin{array} { c } { { H ^ { 2 } ( z ) = H _ { 0 } ^ { 2 } [ \Omega _ { r 0 } ( 1 + z ) ^ { 4 } + \Omega _ { d m 0 } ( 1 + z ) ^ { 3 } + \Omega _ { b 0 } ( 1 + z ) ^ { 3 } + } } \\ { { { } } } \\ { { \Omega _ { k } ( 1 + z ) ^ { 2 } + ( 1 - \Omega _ { m 0 } - \Omega _ { r 0 } - \Omega _ { k } ) F ( z ) ] , } } \end{array}
+$$
+
+where the evolving function $F ( z )$ , depending on the equation of state of dark energy, is given by
+
+$$
+F ( z ) = ( 1 + z ) ^ { 3 + 3 w } .
+$$
+
+It is noticed that here we have not assumed a flat universe model. As for a fat universe, the curvature terms disappear in equation (2） and equation (4) since $\Omega _ { k } = 0$ . There are four cases considered here, which are the $\Lambda$ CDM model and the $w$ CDM model with a flat and curved space curvature, respectively.
+
+<html><body><table><tr><td>Data</td><td>flat ACDMΩk+ACDM</td><td></td><td></td><td>flat wCDMΩk+wCDM</td></tr><tr><td>WMAP9</td><td>this work</td><td>Ref. [5]</td><td>Ref. [6]</td><td>Ref. [16]</td></tr><tr><td>PLANCK+WP</td><td>this work</td><td>Ref. [5] (+Lensing)</td><td>Ref. [6]</td><td>this work</td></tr><tr><td>PLANCK+WP+BKP</td><td>this work</td><td>this work</td><td>this work</td><td>this work</td></tr><tr><td>WMAP9+BKP</td><td>this work</td><td>this work</td><td>this work</td><td>this work</td></tr></table></body></html>
+
+Table 1: References for the reduced CMB data derived from different CMB data in different cosmological models.
+
+In the CMB measurement, the distance to the last scattering surface can be accurately determined from the locations of peaks and troughs of acoustic oscillations. There are two quantities: one is the “acoustic scale"
+
+$$
+l _ { A } = ( 1 + z _ { * } ) \frac { \pi D _ { A } ( z _ { * } ) } { r _ { s } ( z _ { * } ) } ,
+$$
+
+and the other is the “shift parameter"
+
+$$
+R = \sqrt { \Omega _ { m 0 } H _ { 0 } ^ { 2 } } ( 1 + z _ { * } ) D _ { A } ( z _ { * } ) .
+$$
+
+Here $D _ { A } ( z ) = r ( z ) / ( 1 + z )$ is the angular diameter distance and $z _ { * }$ is the redshift at the last scattering surface [21]
+
+$$
+z _ { * } = 1 0 4 8 [ 1 + 0 . 0 0 1 2 4 ( \Omega _ { b 0 } h ^ { 2 } ) ^ { - 0 . 7 3 8 } ] [ 1 + g _ { 1 } ( \Omega _ { m 0 } h ^ { 2 } ) ^ { g _ { 2 } } ] ,
+$$
+
+Table 2: The mean values, standard deviations of $\{ l _ { A } , R , z _ { * } \}$ and the correlation matrix for the flat ACDM model.   
+
+<html><body><table><tr><td>Data</td><td>A士σ</td><td>R±σ</td><td>2±σ</td><td>Correlation Matrix</td></tr><tr><td>WMAP9</td><td></td><td>301.95 ± 0.661.7257 ± 0.0165</td><td>1088.96 ± 0.84</td><td>1.00000.3859 0.4998 0.3859 1.00000.8432 0.49980.84321.0000</td></tr><tr><td></td><td></td><td>PLANCK+WP301.66 ± 0.181.7500 ± 0.0089</td><td>1090.33 ± 0.53</td><td>1.0000 0.5126 0.4552 0.5126 1.0000 0.8699 0.4552 0.8699 1.0000</td></tr><tr><td>PLANCK+WP +BKP</td><td></td><td>301.61 ± 0.181.74974 ± 0.00871090.04 ±0.53</td><td></td><td>1.0000 0.5526 0.4851 0.5523 1.0000 0.8725 0.4851 0.8725 1.0000</td></tr><tr><td></td><td></td><td>WMAP9+BKP301.83±0.661.7210 ±0.0165</td><td>1088.61 ± 0.85</td><td>1.0000 0.4112 0.5217 0.4112 1.0000 0.8550 0.5217 0.8550 1.0000</td></tr></table></body></html>
+
+where
+
+$$
+\begin{array} { l } { g _ { 1 } = \displaystyle \frac { 0 . 0 7 8 3 ( \Omega _ { b 0 } h ^ { 2 } ) ^ { - 0 . 2 3 8 } } { 1 + 3 9 . 5 ( \Omega _ { b 0 } h ^ { 2 } ) ^ { 0 . 7 6 3 } } , } \\ { g _ { 2 } = \displaystyle \frac { 0 . 5 6 0 } { 1 + 2 1 . 1 ( \Omega _ { b 0 } h ^ { 2 } ) ^ { 1 . 8 1 } } . } \end{array}
+$$
+
+These quantities can be used to constrain some cosmological parameters without need to use the full likelihoods of WMAP9 [16] or Planck data [17].
+
+Based on the original idea proposed in [4], Hinshaw et al.[16] obtained constraints on the parameter combination $\{ l _ { A } , R , z _ { * } \}$ from WMAP9 data based on the $w$ CDM model without assuming a flat universe. Wang and Wang [5] obtained the mean values and normalized covariance matrix of $\{ l _ { A } , R , \Omega _ { b 0 } h ^ { 2 } , n _ { s } \}$ from WMAP9 and Planck $^ +$ WP $^ +$ Lensing data， respectively,based on the $\Omega _ { k } + \Lambda$ CDM model. Recently, Shafer and Huterer [6] derived the related results about $\{ l _ { A } , R , z _ { * } \}$ from WMAP9 and Planck $^ +$ WP data, respectively, based on the fat $w$ CDM model. In this section, following Wang and Wang [5] we obtain the Markov chains using the Markov Chain Monte Carlo sampler as implemented in the CosmoMC package [22] and then derive constraints on the parameter combination $\{ l _ { A } , R , z _ { * } \}$ . In our analysis, we focus on four cosmological models listed in Table 1, based on the six-parameter model in the case of the flat $\Lambda$ CDM model, described by
+
+Table 3: The mean values,standard deviations of $\{ l _ { A } , R , z _ { * } \}$ and the correlation matrix for the （20 $\Omega _ { k } + \Lambda$ CDM model.   
+
+<html><body><table><tr><td>Data</td><td>lA±σ</td><td>R±σ</td><td>z*±σ or wb±σ</td><td>Correlation Matrix</td></tr><tr><td>WMAP9</td><td></td><td></td><td>302.02 ± 0.661.7327 ± 0.01640.02260 ± 0.00053</td><td>1.0000 0.3883 -0.6089 0.3883 1.0000 -0.5239 -0.6089-0.5239 1.0000</td></tr><tr><td>PLANCK+WP +Lensing</td><td></td><td></td><td>301.57 ±0.181.7407 ±0.00940.02228 ±0.00030</td><td>1.0000 0.5250 -0.4475 0.5250 1.0000 -0.6925 -0.4475 -0.6925 1.0000</td></tr><tr><td>PLANCK+WP +BKP</td><td></td><td>301.56 ±0.191.7416 ±0.00971089.74 ±0.59</td><td></td><td>1.0000 0.5681 0.5279 0.5681 1.0000 0.8946 0.5279 0.8946 1.0000</td></tr><tr><td></td><td></td><td>WMAP9+BKP301.94 ± 0.661.7251 ± 0.01671088.88 ±0.89</td><td></td><td>1.0000 0.4112 0.5217 0.41121.0000 0.8550 0.52170.8550 1.0000</td></tr></table></body></html>
+
+$$
+\{ \Omega _ { b 0 } h ^ { 2 } , \Omega _ { d m 0 } h ^ { 2 } , \Theta _ { s } , \tau , A _ { s } , n _ { s } \} ,
+$$
+
+where $\Theta _ { s }$ is the ratio of the sound horizon to the angular diameter distance at the photon decoupling, $\tau$ is the Thomson scattering optical depth due to reionization, $A _ { s }$ is the amplitude of primordial curvature perturbations and $n _ { s }$ is the scalar spectral index. The CMB data sets used in our analysis are listed in Table 1. Here we emphasize that both the tensor-to-scalar ratio $r$ and running of the scalar spectral index $\alpha _ { s }$ are allowed to vary if the BICEP2 $B$ -mode polarization data are included, because the $B$ -mode power spectrum from the BICEP2 experiment implies the detect of primordial gravitational wave at 7.0 $\sigma$ （20 ignoring foreground dust [19] and allowing the running of the scalar spectral index reconciles the tension with the Planck constraints on $r$ [23].These results have been confirmed by other data on the same field from the successor experiment Keck Array [18]. However, it is argued in [24, 26] that given the uncertainties of the amplitude of the dust polarization at the BICEP2 frequency of 150 GHz one cannot say conclusively at present whether the B-modes detected by BICEP2 are due to gravitational waves or just polarized dust. By using genus statistics, the authors of Ref [29] claim to find the evidence for the primodal gravitational wave signal with $r = 0 . 1 1 \pm 0 . 0 4$ .Planck team [27] released the polarization data from 100 to 353 GHz,extrapolation of the Planck 353 GHz data to 150 GHz gives a dust power, which is the same magnitude as reported by BICEP2. Recently, Ref. [28] performed a joint analysis of BICEP2/Keck and Planck data and obtained an upper limit （204号 $r < 0 . 1 2$ at 95% confidence, showing little evidence of detection of primordial gravitational wave. Therefore the tensor-to-scalar ratio is allowed to vary if the BKP data are included in our analysis.
+
+Table 4: The mean values,standard deviations of $\{ l _ { A } , R , z _ { * } \}$ and the correlation matrix for the flat $w$ CDM model.   
+
+<html><body><table><tr><td>Data</td><td>A士σ</td><td>R±σ</td><td>2±σ</td><td>Correlation Matrix</td></tr><tr><td>WMAP9</td><td></td><td>301.98±0.661.7302 ±0.01691089.09±0.89</td><td></td><td>1.0000 0.4077 0.5132 0.40771.00000.8580 0.51320.85801.0000</td></tr><tr><td></td><td></td><td>PLANCK+WP301.65 ±0.181.7499 ±0.00881090.41 ±0.53</td><td></td><td>1.0000 0.5262 0.4708 0.5262 1.0000 0.8704 0.47080.87041.0000</td></tr><tr><td>PLANCK+WP +BKP</td><td></td><td>301.65 ±0.181.7495 ±0.00871090.31 ± 0.51</td><td></td><td>1.00000.53790.4782 0.5379 1.00000.8659 0.4782 0.8659 1.0000</td></tr><tr><td></td><td></td><td>WMAP9+BKP301.88 ± 0.661.7227 ±0.01741088.69 ±0.92</td><td></td><td>1.0000 0.4293 0.5267 0.42931.0000 0.8722 0.5267 0.8722 1.0000</td></tr></table></body></html>
+
+The mean values, the standard deviations and their correlation matrix of $\{ l _ { A } , R , z _ { * } \}$ (or $\{ l _ { A } , R , \Omega _ { b 0 } h ^ { 2 } \} )$ for four cosmological models by using different data are summarized in Table 2 to Table 5, respectively. It is noticed that Wang and Wang [5] used $\Omega _ { b 0 } h ^ { 2 }$ instead of $z _ { * }$ ， which gives identical constraints by replacing $\Omega _ { b 0 } h ^ { 2 }$ with $z _ { * }$ . Different from other cases in the third row of Table $1$ , they also used Planck data together with Planck lensing.
+
+Table 5: The mean values,standard deviations of $\{ l _ { A } , R , z _ { * } \}$ and the correlation matrix for the $\Omega _ { k } + w$ CDM model.   
+
+<html><body><table><tr><td>Data</td><td>A士σ</td><td>R±σ</td><td>2*±σ</td><td>Correlation Matrix</td></tr><tr><td>WMAP9</td><td></td><td>302.40 ± 0.671.7246 ± 0.01831090.88 ±1.00</td><td></td><td>1.0000 0.4262 0.5391 0.42621.00000.8643 0.5391 0.8643 1.0000</td></tr><tr><td></td><td></td><td>PLANCK+WP301.60 ± 0.181.7442 ± 0.00931089.86 ± 0.58</td><td></td><td>1.0000 0.5698 0.5248 0.5698 1.0000 0.8889 0.5248 0.8889 1.0000</td></tr><tr><td>PLANCK+WP +BKP</td><td></td><td>301.55 ±0.191.7407 ±0.00971089.68 ±0.59</td><td></td><td>1.00000.55190.5014 0.5519 1.0000 0.8899 0.5014 0.88991.0000</td></tr><tr><td></td><td></td><td>WMAP9+BKP301.97 ±0.651.7251 ±0.01731088.89 ±0.91</td><td></td><td>1.00000.3789 0.5014 0.3789 1.0000 0.8611 0.50140.8611 1.0000</td></tr></table></body></html>
+
+From Table 2 to Table 5,we see that the Planck data give tighter constraints on $\{ l _ { A } , R , z _ { * } \}$ than WMAP9 in the same cosmological model. Including the BKP data does not change the results significantly but the standard deviations seem to be a little larger, this is because tensor perturbations have been considered when we use Planck+WP $^ +$ BKPto obtain constraints on $\{ l _ { A } , R , z _ { * } \}$ . We also notice that there is some tension between the WMAP9 data and Planck data constraining on $\{ l _ { A } , R , z _ { * } \}$ . For example, in Table 2 the constraits on $R$ ( $z _ { * }$ ）are inconsistent at about 1.5 $\sigma$ (1.6 $\sigma$ ） when using WMAP9 and Planck $^ +$ WP. The estimates of $\{ l _ { A } , R , z _ { * } \}$ are consistent with each other within 1 $\sigma$ for the $\Lambda$ CDM model when we use Planck $^ +$ WP and Planck+WP $^ +$ BKP data.
+
+Moreover, the difference of values of the reduced CMB data derived from same data for different models is not significant. As stated in Ref.[15], curvature or slightly modifying the dark energy parameters does not significantly change the values of $\{ l _ { A } , R \}$ .For example, from Table 2 and Table 3 we find that the WMAP9 data give values of $\{ l _ { A } , R \} = \{ 3 0 1 . 9 5 \pm$ 0.66, $1 . 7 2 5 7 \pm 0 . 0 1 6 5 \}$ ( $\{ 3 0 2 . 0 2 \pm 0 . 6 6 , ~ 1 . 7 3 2 7 \pm 0 . 0 1 6 4 \}$ ）forthe $\Lambda$ CDM model without (with） spatial curvature which shows no significant difference.
+
+# III. COSMOLOGICALPARAMETERS
+
+In the previous section we have derived the reduced CMB data from WMAP9, Planck $^ +$ WP,Planck $^ +$ WP $^ +$ BKP and WMAP9+BKP for the $\Lambda$ CDM model and the $w$ CDM model with and without spatial curvature, respectively. In this section，we focus on constraints on the cosmological parameters for the corresponding cosmological models from reduced CMB data in combination with the low-redshift observational data including the Union2.1 SNe Ia sample, Hubble parameter and BAO data,which are described in Appendix. The best-fitted values of $\Omega _ { m 0 }$ and $h$ for the $\Lambda$ CDM model, $\Omega _ { m 0 }$ ， $h$ and $w$ for the $w$ CDM model and their 68% confidence level (CL） errors are given by using the Markov Chain Monte Carlo analysis in the multidimensional parameter space in a Bayesian framework.The results are summarized in Table 6 to Table 9,and their likelihoods are shown in Figure 1 to Figure 4, respectively.
+
+From Table 6 we see that in the context of the flat $\Lambda$ CDM model, the combination of Planck data favors a relatively higher value of $\Omega _ { m 0 }$ and a lower value of $h$ compared to the combination of WMAP9 data. However, the reduced CMB data from Planck $^ +$ WP do not lead to significantly improve the constraint on dark energy together with low-redshift observational data, compared to the reduced CMB data from WMAP9 even though the Planck measures all of the CMB distance parameters $\{ l _ { A } , R , z _ { * } \}$ more precisely, whose errors are $2 - 3$ times smaller. This is because the Planck data appear to favor a higher value of （204 $\Omega _ { m 0 }$ and a lower value of $H _ { 0 }$ in the standard six-parameter $\Lambda$ CDM model, which are in tension with the magnitude-redshift relation for SNe Ia and recent direct measurements of $H _ { 0 }$ [17] [25]. The constraints with BKP data suppress the value of $\Omega _ { m 0 }$ and raise the value of $h$ . The tendence seems to appear in all the cosmological models we are considering here. These estimates of $\Omega _ { m 0 }$ and $h$ are consistent with each other within 1 $\sigma$ CL,but are in tension with the results derived by Planck [17].
+
+As we can see from Table 7, in the context of $\Lambda$ CDM model with spatial curvature, the constraints with Planck $^ +$ M $^ +$ Lensing give $h = 0 . 6 8 8 0 _ { - 0 . 0 0 9 6 } ^ { + 0 . 0 0 9 0 }$ , which is iconsistentwith the value $h = 0 . 6 9 8 8 _ { - 0 . 0 0 9 6 } ^ { + 0 . 0 0 9 0 }$ derived from Planck $^ +$ WP $^ +$ BKP at about 1.2 $\sigma$ CL. The Planck team gives $h = 0 . 6 7 8 1$ from TT+LowP $^ +$ Lensing and $h = 0 . 6 7 3 1$ from TT $^ +$ LowP, and the value of $h$ may be enhanced by Planck lensing data [25], so we can conclude that the constraints with Planck+WP in the $\Lambda$ CDM model with spatial curvature may give a lower value of $h$ ， which deviates more from $h = 0 . 6 9 8 8$ . Furthermore, the WMAP9 data favor a positive $\Omega _ { k }$ (an open universe)，but the Planck data give a negative $\Omega _ { k }$ (a closed universe). However, there is no evidence for any departure from a spatially flat geometry in these three cases.
+
+A cosmological constant has an equation of state (EOS) $w = - 1$ . If we release the EOS $w$ of darkergystraintsihanck $^ +$ WP give $w = - 1 . 0 5 0 7 _ { - 0 . 0 5 0 7 } ^ { + 0 . 0 4 6 9 }$ , as shown in Table 8,which favors the phantom region at 1 $\sigma$ CL. The combination with BKP data gives a relatively higher value of $w$ ( $w = - 1 . 0 4 8 9 _ { - 0 . 0 5 0 1 } ^ { + 0 . 0 5 5 2 }$ ， while the constraints with WMAP9 (WMAP9+BKP） give $w = - 1 . 0 1 8 0 _ { - 0 . 0 6 6 7 } ^ { + 0 . 0 5 3 5 }$ （ $w = - 1 . 0 1 5 5 _ { - 0 . 0 5 8 6 } ^ { + 0 . 0 5 8 4 }$ )All the threcases are consistent with the $\Lambda$ CDM model.
+
+WMAP9, Planck $^ +$ WP,Planck $^ +$ WP $^ +$ BKP and WMAP9+BKP all give negative $\Omega _ { k }$ (a closed universe） for the $\Omega _ { k } + w$ CDM model, as shown in Table 9,but are consistent with a flat geometry within 1 $\sigma$ CL.
+
+We also give the constraints for the $\Omega _ { k } + w$ CDM model by using four sets of the reduced CMB data from Planck+WP $^ +$ BKP derived from flat $\Lambda$ CDM, $\Omega _ { k } + \Lambda$ CDM, flat $w$ CDM and （204号 $\Omega _ { k } + w$ CDM,respectively, together with the low-redshift observational data. The purpose is to see whether the constraints on the cosmological parameters are sensitive to the choice of the reduced CMB data derived from different cosmological models. Their likelihoods are shown in Figure 5. We can see that the likelihoods for the parameters $h$ and $\Omega _ { m 0 }$ are almost the same in the four cases. As for the parameters $\Omega _ { k }$ and $w$ ， the likelihoods show no significant difference between the fat $\Lambda$ CDM and flat $w$ CDM cases，and between the （204号 $\Omega _ { k } + \Lambda$ CDM and $\Omega _ { k } + w$ CDM cases, respectively. However,it can be seen clearly that the reduced CMB data derived from the cosmological model with spacial curvature can give much better constraints on $\Omega _ { k }$ than those derived from flat cosmological model. But the values of $\Omega _ { k }$ and $w$ are still consistent with each other within 1 $\sigma$ CL in the four cases.
+
+Table 6: Constraints with $^ { 1 }$ （ $\sigma$ errors on $\Omega _ { m 0 }$ and $h$ for the fat $\Lambda$ CDM model from SNe Ia, HUB, BAO and reduced CMB data.   
+
+<html><body><table><tr><td>Data</td><td>2m0</td><td>h</td></tr><tr><td>WMAP9</td><td>0.28778.8110</td><td>-0.0095 0.7022+0.0110</td></tr><tr><td>Planck+WP</td><td>-0.0099 0.2967±0.0106</td><td>-0.0087 0.6975±0.0076</td></tr><tr><td>Planck+WP+BKP0.296700</td><td></td><td>-0.0091 0.6973±0.0079</td></tr><tr><td>WMAP9+BKP</td><td>0.2866+0.016</td><td>0.0101 0.7039±0.0097</td></tr></table></body></html>
+
+$$
+\begin{array}{c} \underbrace { \frac { \mathrm { D a t a } } { \mathrm { { W M A P 4 } } } \frac { | { \Omega } _ { m 0 }  } { | { \Omega } _ { m 0 }  } | h  \frac { | { \Omega } _ { k }  } { | { \Omega } _ { k }  } } \\  \frac { \frac { \mathrm { { W M A P 4 } } { \mathrm { { P } } ^ { \mathrm { { M } } } } ( 0 . 2 9 4 6 _ { - 0 . 0 1 1 4 } ^ { + 0 . 0 1 1 4 } ) | 0 . 6 9 0 4 _ { - 0 . 0 1 2 6 } ^ { + 0 . 0 1 2 6 } | 0 . 0 0 0 7 _ { - 0 . 0 0 6 3 } ^ { + 0 . 0 0 5 1 } } { \mathrm { { P l a n c k } } + { \mathrm { W P } } + { \mathrm { L e n s i n g } } | 0 . 2 9 8 6 _ { - 0 . 0 1 3 4 } ^ { + 0 . 0 1 2 9 } | 0 . 6 8 8 0 0 - 0 . 0 0 9 6 | - 0 . 0 0 0 0 6 _ { - 0 . 0 0 6 5 4 } ^ { - 0 0 0 0 6 } } } \\ { \frac { \mathrm { { P l a n c k } } + \mathrm { { W P } } + \mathrm { { B K P } } } { \mathrm { { W M A A P 9 } } + \mathrm { { B K P } } } \frac { | 0 . 2 9 6 3 _ { - 0 . 0 1 4 7 } ^ { + 0 . 0 1 3 4 } | 0 . 6 9 8 8 8 _ { - 0 . 0 0 0 2 6 } ^ { + 0 . 0 0 0 1 4 } - 0 . 0 0 0 1 0 3 8 } { | 0 . 2 9 0 4 _ { - 0 . 0 1 0 0 } ^ { + 0 . 0 1 0 0 } | 0 . 6 9 9 0 0 - 0 . 0 0 7 9 | - 0 . 0 0 0 1 3 _ { - 0 . 0 0 6 } ^ { + 0 . 0 0 5 } } } \end{array}
+$$
+
+Table 7: Constraints with 1 $\sigma$ errors on $\Omega _ { m 0 }$ ， $h$ and $\Omega _ { k }$ for the $\Omega _ { k } + \Lambda$ CDM model from SNe Ia , HUB,BAO and reduced CMB data.
+
+$$
+\begin{array}{c} \underbrace { \frac { \mathrm { D a t a } } { \mathrm { { m a } } } \frac { \left| { \Omega } _ { m 0 } \right. } { \left| { \Omega } _ { m 0 } \right. } \left| h \right. } _ { \frac { \mathrm { { W M A P S } } } { \mathrm { { M a } } \mathrm { { L P } } ^ { + } \mathrm { { B K P } } } \frac { \left| { \Omega } . 2 8 7 8 . \mathrm { { \Omega } } _ { - 0 , 0 1 0 4 } ^ { + 0 , 1 1 6 } \right| 0 . 7 0 4 3 _ { - 0 , 0 1 1 6 } ^ { + 0 , 0 1 3 4 } \left| - 1 . 0 1 8 0 . \mathrm { { \Omega } } _ { - 0 , 0 6 6 7 } ^ { + 0 , 0 6 3 5 } \right| } { \left| { \Omega } _ { - 0 , 0 1 0 3 } \right| 0 . 7 7 0 4 8 _ { - 0 , 0 1 0 4 } ^ { + 0 , 0 1 2 3 } \left| - 1 . 0 5 0 7 7 _ { - 0 , 0 3 6 0 } ^ { - 0 , 0 6 9 7 } \right| } } \\ { \frac { \mathrm { P l a n c k } + \mathrm { W P } } { \mathrm { { W M a c k } } + \mathrm { W P } + { \mathrm { B K P } } } \frac { \left| { 0 . 2 9 3 6 + 0 . 0 1 1 5 } \right| 0 . 7 0 4 8 _ { - 0 , 0 1 0 4 } ^ { + 0 , 1 0 3 4 } - 1 . 0 5 0 7 _ { - 0 , 0 5 9 2 } ^ { - 0 , 0 4 9 0 7 } } { \left| { 0 . 2 8 0 4 8 } \right| 0 . 7 0 5 4 . 0 0 1 3 \left| 0 . 7 0 5 4 . 0 1 2 8 \right| - 1 . 0 4 8 9 . 0 5 0 1 } } \end{array}
+$$
+
+Table 8: Constraints with 1 $\sigma$ errors on $\Omega _ { m 0 }$ ， $h$ and $w$ for the flat $w$ CDM model from SNe Ia, HUB,BAO and reduced CMB data.
+
+# IV. CONCLUSIONS
+
+The reduced CMB data provide an efficient summary of CMB information,and can be used to constrain cosmological parameters instead of the full CMB power spectra. We have obtained the reduced CMB data from WMAP9 data and Planck date based on the $\Lambda$ CDM model and $w$ CDM model with a flat or curved space curvature, respectively. We have
+
+<html><body><table><tr><td>Data</td><td>m0</td><td>h</td><td>w</td><td>k</td></tr><tr><td>WMAP9</td><td>0.29638.0163</td><td>-0.0192 0.7007±0.0232</td><td></td><td>560</td></tr><tr><td>Planck+WP</td><td>0.29458.816</td><td>-0.0174 0.7078±0.0153</td><td>−1.06148.074</td><td>-0.0090 -0.0013±0.0070</td></tr><tr><td>Planck+WP+BKP0.29400012</td><td></td><td>-0.0175 0.7098±0.0137</td><td></td><td>-105760800</td></tr><tr><td>WMAP9+BKP</td><td>0.2936-8.0171</td><td>0.0160 0.7105+0.0203</td><td>−1.0437+0.0761</td><td>-0.0133 -0.0066±0.0100</td></tr></table></body></html>
+
+Table 9: Constraints with 1 $\sigma$ errors on $\Omega _ { m 0 }$ ， $h$ ， $w$ and $\Omega _ { k }$ for the $\Omega _ { k } + w \mathrm { C D M }$ model from SNe Ia, HUB, BAO and reduced CMB data.
+
+![](images/867d7e8e6f93f923653a4e98226c294755663eb939170f57f7c92b2e60a0b700.jpg)  
+Fig.1: Marginalized posterior distributions for $h$ (right）and $\Omega _ { m 0 }$ (left）of the flat $\Lambda$ CDM model.
+
+also used the BKP data together with the WMAP9 and Planck data to derive the reduced CMB data. We have found that the Planck data give tighter constraints on $\{ l _ { A } , R , z _ { * } \}$ than WMAP9 in the same cosmological model. While including the BKP data, the standard deviations seem to be a little larger because of additional free parameters, the tensor-toscalar ratio and running of the scalar spectral index.
+
+We have combined these reduced CMB data with low-redshift observational data to constrain the cosmological parameters for the $\Lambda$ CDM model and the $w$ CDM model. The reduced CMB data from Planck+WP do not lead to significant improvement to the constraint on dark energy together with low-redshift observational data, compared to the reduced CMB data from WMAP9. Including BKP data results in a higher value of the Hubble constant especially when the equation of state of dark energy and curvature are allowed to vary. For the $\Omega _ { k } + \Lambda$ CDM model, the constraint from Planck $^ +$ WP $^ +$ Lensing in combination with low-redshift observationsgives $h \ : = \ : 0 . 6 8 8 0 _ { - 0 . 0 0 9 6 } ^ { + 0 . 0 0 9 0 }$ ，whichisinsistetwiauef $h = 0 . 6 9 8 8 _ { - 0 . 0 0 9 6 } ^ { + 0 . 0 0 9 0 }$ derived fro Planck $^ +$ m $^ +$ BKP at about 1.2 $\sigma$ CL. The constrait on $w$ with Planck+ WP gives $w = - 1 . 0 5 0 7 _ { - 0 . 0 5 0 7 } ^ { + 0 . 0 4 6 9 }$ ,favoring the phantomregion at 1 $\sigma$ CL, for a flat $w C D M$ model. The constraint on $w$ with WMAP9 or Planck $^ +$ WP $^ +$ BKPis consistent with $w = - 1$ . We have also found that the constraints on the cosmological parameter $\Omega _ { k }$ and $w$ are a little sensitive to the choice of the reduced CMB data derived from different cosmological models.
+
+![](images/28977316c760b0b1d79b84000076ed2e3bc5af8ea115d01f383dfcc9981af52a.jpg)  
+Fig. 2: Marginalized posterior distributions for $h$ (top left)， $\Omega _ { m 0 }$ (top right） and $\Omega _ { k }$ (bottom） ofthe $\Omega _ { k } + \Lambda$ CDM model.
+
+# Acknowledgments
+
+This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.10975168, No.11035008, No.11175225 and No.11335012),and in part by the Ministry of Science and Technology of China under Grant No. 2010CB833004 and No. 2010CB832805. RGC is also supported by the Strategic Priority Research Program The Emergence of Cosmological Structures of the Chinese Academy of Sciences, Grant No. XDB09000000. We used CosmoMC and CAMB. We acknowledge the use of the WMAP, Planck and BICEP2 data and the Lenovo DeepComp 7000 supercomputer in SCCAS.
+
+![](images/3bd1bac7e094dbfeccbc41b439ce211abcaf641862d46b84938091e4312437e7.jpg)  
+Fig. 3: Marginalized posterior distributions for $h$ (top left), $\Omega _ { m 0 }$ (top right） and $w$ (bottom) of the fat $w$ CDM model.
+
+# Appendices
+
+A． Type Ia Supernovae
+
+In this work, we take the Union2.1 compilation [7],which contains 580 SNe Ia data over the redshift range $0 . 0 1 5 \leq z \leq 1 . 4 1 4$ . The chisquare is defned as
+
+$$
+\chi _ { S N } ^ { 2 } = \sum _ { i = 1 } ^ { 5 8 0 } \frac { [ \mu ^ { o b s } ( z _ { i } ) - \mu ^ { t h } ( z _ { i } ) ] ^ { 2 } } { \sigma _ { S N } ^ { 2 } ( z _ { i } ) } ,
+$$
+
+where $\boldsymbol { \mu } ^ { o b s } ( \boldsymbol { z } )$ is the measured distance modulus from the data and $\boldsymbol { \mu } ^ { t h } ( \boldsymbol { z } )$ is the theoretical distance modulus, defined as
+
+$$
+\mu ^ { t h } ( z ) = 5 \log _ { 1 0 } d _ { L } + \mu _ { 0 } , \mu _ { 0 } = 4 2 . 3 8 4 - 5 \log _ { 1 0 } h .
+$$
+
+The luminosity distance is
+
+$$
+d _ { L } ( z ) = ( 1 + z ) r ( z ) ,
+$$
+
+where $r ( z )$ is the comoving distance defined in equation (1). The nuisance parameter $\mu _ { 0 }$ can be eliminated by expanding $\chi ^ { 2 }$ with respect to $\mu _ { 0 }$ as [33] :
+
+$$
+\chi _ { S N } ^ { 2 } = A + 2 B \mu _ { 0 } + C \mu _ { 0 } ^ { 2 } ,
+$$
+
+![](images/1a262dbdca856a1e0cb79a3591e6e3913e852f58b2d8b32d42d1bf3f059b9874.jpg)  
+Fig. 4: Marginalized posterior distributions for $h$ (top left), $\Omega _ { m 0 }$ (top right), $\Omega _ { k }$ (bottom left） and（204号 $w$ （bottom right） of the $\Omega _ { k } + w$ CDM model.
+
+![](images/06a4582837e26cb793cd70767222ca8360076f2c17df5901ca8fccb01d858429.jpg)  
+Fig. 5: Marginalized posterior distributions for $h$ (top left), $\Omega _ { m 0 }$ (top right), $\Omega _ { k }$ (bottom left）and （20 $w$ （bottom right） of the $\Omega _ { k } + w$ CDM model from Planck $^ +$ WP $^ +$ BKP.Different colors correspond to the different models used to derive the reduced CMB data from Planck $^ +$ WP $^ +$ BKP.
+
+where
+
+$$
+\begin{array} { l } { { \displaystyle { \cal A } = \sum _ { i = 1 } ^ { N } \frac { [ \mu ^ { t h } ( z _ { i } ; \mu _ { 0 } = 0 ) - \mu ^ { o b s } ( z _ { i } ) ] ^ { 2 } } { \sigma _ { S N } ^ { 2 } ( z _ { i } ) } } , }  \\ { { \displaystyle { \cal B } = \sum _ { i = 1 } ^ { N } \frac { \mu ^ { t h } ( z _ { i } ; \mu _ { 0 } = 0 ) - \mu ^ { o b s } ( z _ { i } ) } { \sigma _ { S N } ^ { 2 } ( z _ { i } ) } , } } \\ { { \displaystyle { \cal C } = \sum _ { i = 1 } ^ { N } \frac { 1 } { \sigma _ { S N } ^ { 2 } ( z _ { i } ) } . } } \end{array}
+$$
+
+The $\chi _ { S N } ^ { 2 }$ has a minimum as
+
+$$
+\tilde { \chi } _ { S N } ^ { 2 } = A - B ^ { 2 } / C \ ,
+$$
+
+In this way the nuisance parameter $\mu _ { 0 }$ is removed. This technique is equivalent to performing a uniform marginalization over $\mu _ { 0 }$ [33]. We will adopt $\tilde { \chi } _ { S N } ^ { 2 }$ as the goodness of fitting instead d $\chi _ { S N } ^ { 2 }$ .
+
+# B.Observational Hubble parameter (HUB)
+
+In this paper we use 19 observational Hubble data over the redshift range: $0 . 0 7 \leq z \leq 2 . 3$ ， which contain 11 observational Hubble data obtained from the differential ages of passively evolving galaxies [30, 31], and 8 $H ( z )$ data at eight different redshifts obtained from the differential spectroscropic evolution of early type galaxies as a function of redshift [32]. The chisqure is defined as
+
+$$
+\chi _ { H U B } ^ { 2 } = \sum _ { i = 1 } ^ { N } \frac { [ H _ { t h } ( z _ { i } ) - H _ { o b s } ( z _ { i } ) ] ^ { 2 } } { \sigma _ { H } ^ { 2 } ( z _ { i } ) } ,
+$$
+
+where $H _ { t h } ( z )$ and $H _ { o b s } ( z )$ are the theoretical and observed values of Hubble parameter,and $\sigma _ { H }$ denotes the error of observed data.
+
+# C. Baryon Acoustic Oscillation (BAO)
+
+Baryon Acoustic Oscillation provides an efficient method for measuring the expansion history of the universe by using features in the cluster of galaxies with large scale survey. Here we use the results from the following five BAO surveys: the 6dF Galaxy Survey, SDSS DR7, SDSS DR9, WiggleZ measurements and the radial BAO measurement.
+
+The 6dFGS BAO detection can constrain the distance-redshift relation at $\begin{array} { r l } { z _ { e f f } } & { { } = } \end{array}$ 0.106 [34]. it gives a measurement of the distance ratio
+
+$$
+\frac { r _ { s } ( z _ { d } ) } { D _ { V } ( z = 0 . 1 0 6 ) } = 0 . 3 3 6 \pm 0 . 0 1 5 ,
+$$
+
+where $r _ { s } ( z _ { d } )$ is the comoving sound horizon at the baryon drag epoch when baryons became dynamically decoupled from photons. The redshift $z _ { d }$ is well approximated by [35]
+
+$$
+z _ { d } = \frac { 1 2 9 1 ( \Omega _ { m 0 } h ^ { 2 } ) ^ { 0 . 2 5 1 } } { 1 + 0 . 6 5 9 ( \Omega _ { m 0 } h ^ { 2 } ) ^ { 0 . 8 2 8 } } [ 1 + b _ { 1 } ( \Omega _ { b 0 } h ^ { 2 } ) ^ { b _ { 2 } } ] ,
+$$
+
+where
+
+$$
+\begin{array} { l } { b _ { 1 } = 0 . 3 1 3 ( \Omega _ { m 0 } h ^ { 2 } ) ^ { - 0 . 4 1 9 } [ 1 + 0 . 6 0 7 ( \Omega _ { m 0 } h ^ { 2 } ) ^ { 0 . 6 7 4 } ] , } \\ { b _ { 2 } = 0 . 2 3 8 ( \Omega _ { m 0 } h ^ { 2 } ) ^ { 0 . 2 2 3 } . } \end{array}
+$$
+
+The effective“volume” distance $D _ { V }$ is a combination of the angular-diameter distance $D _ { A } ( z )$ and the Hubble parameter $H ( z )$ ，
+
+$$
+\begin{array} { l } { \displaystyle { D _ { V } \big ( z \big ) = \bigg [ \big ( r ( z ) \big ) ^ { 2 } \frac { z } { H ( z ) } \bigg ] ^ { 1 / 3 } } } \\ { \displaystyle { \quad = [ ( 1 + z ) ^ { 2 } D _ { A } ( z ) ^ { 2 } \frac { z } { H ( z ) } ] ^ { 1 / 3 } . } } \end{array}
+$$
+
+The $\chi _ { 6 d F } ^ { 2 }$ is defined by
+
+$$
+\chi _ { 6 d F } ^ { 2 } = \frac { [ ( r _ { s } ( z _ { d } ) / D _ { V } ( 0 . 1 0 6 ) ) _ { t h } - 0 . 3 3 6 ] ^ { 2 } } { 0 . 0 1 5 ^ { 2 } } .
+$$
+
+# 2. SDSS DRT
+
+The joint analysis of the 2-degree Field Galaxy Redshift Survey data and the Sloan Digital Sky Survey Data Release 7 data gives the distance ratio at $z = 0 . 2$ and $z = 0 . 3 5$ [36]:
+
+$$
+\begin{array} { c } { { \frac { r _ { s } ( z _ { d } ) } { D _ { V } \left( z = 0 . 2 \right) } = 0 . 1 9 0 5 \pm 0 . 0 0 6 1 , } } \\ { { \frac { r _ { s } ( z _ { d } ) } { D _ { V } \left( z = 0 . 3 5 \right) } = 0 . 1 0 9 7 \pm 0 . 0 0 3 6 . } } \end{array}
+$$
+
+By applying the reconstruction technique [37] to the clustering of galaxies from the SDSS DR7 Luminous Red Galaxies sample, and sharpening the BAO feature, Padmanabhan et
+
+al. obtained the distance ratio at $z = 0 . 3 5$ [38] :
+
+$$
+\frac { r _ { s } ( z _ { d } ) } { D _ { V } ( z = 0 . 3 5 ) } = 0 . 1 1 2 6 \pm 0 . 0 0 2 2 .
+$$
+
+The SDSS DR7 and SDSS DR7 reanalysis results are based on the same survey and the latter gives a higher precision than the former, we therefore take the SDSS DR7 reanalysis data instead of the first one. The $\chi _ { D R 7 - r e } ^ { 2 }$ used in the Markov Chain Monte Carlo analysis is
+
+$$
+\chi _ { D R 7 r e } ^ { 2 } = \frac { [ ( \frac { r _ { s } ( z _ { d } ) } { D _ { V } ( 0 . 3 5 ) } ) _ { t h } - 0 . 1 1 2 6 ] ^ { 2 } } { 0 . 0 0 2 2 ^ { 2 } } .
+$$
+
+3. SDSS DR9
+
+The SDSS DR9 measurement gives the distance ratio at $z = 0 . 5 7$ [39]:
+
+$$
+\frac { r _ { s } ( z _ { d } ) } { D _ { V } ( z = 0 . 5 7 ) } = 0 . 0 7 3 2 \pm 0 . 0 0 1 2 .
+$$
+
+The chisquare here is defined as
+
+$$
+\chi _ { D R 9 } ^ { 2 } = \frac { [ ( \frac { r _ { s } ( z _ { d } ) } { D _ { V } ( 0 . 5 7 ) } ) _ { t h } - 0 . 0 7 3 2 ] ^ { 2 } } { 0 . 0 0 1 2 ^ { 2 } } .
+$$
+
+# 4.The WiggleZ measurements
+
+The WiggleZ team measures the acoustic parameter by encoding some shape information on the power spectrum [40]:
+
+$$
+A ( z ) = \frac { D _ { V } ( z ) \sqrt { \Omega _ { m 0 } H _ { 0 } } } { z } .
+$$
+
+The baryon acoustic peaks measured at redshifts $z ~ = ~ 0 . 4 4$ ， 0.6 and O.73 in the galaxy correlation function of the final dataset of the WiggleZ Dark Energy Survey give
+
+$$
+\begin{array} { r } { A ( z = 0 . 4 4 ) = 0 . 4 7 4 \pm 0 . 0 3 4 , } \\ { A ( z = 0 . 6 0 ) = 0 . 4 4 2 \pm 0 . 0 2 0 , } \\ { A ( z = 0 . 7 3 ) = 0 . 4 2 4 \pm 0 . 0 2 1 . } \end{array}
+$$
+
+The corresponding chisquare is defined as
+
+$$
+\chi _ { W i g } ^ { 2 } = X ^ { T } V ^ { - 1 } X ,
+$$
+
+where
+
+$$
+X = \left[ \begin{array} { c } { { A ( z = 0 . 4 4 ) _ { t h } - 0 . 4 7 4 } } \\ { { A ( z = 0 . 6 0 ) _ { t h } - 0 . 4 4 2 } } \\ { { A ( z = 0 . 7 3 ) _ { t h } - 0 . 4 2 4 } } \end{array} \right] ,
+$$
+
+and its inverse covariance matrix is
+
+$$
+V ^ { - 1 } = \left[ { \begin{array} { r r r r } { { 1 0 4 0 . 3 } } & { { - 8 0 7 . 5 } } & { { 3 3 6 . 8 } } \\ { { - 8 0 7 . 5 } } & { { 3 7 2 0 . 3 } } & { { - 1 5 5 1 . 9 } } \\ { { 3 3 6 . 8 } } & { { - 1 5 5 1 . 9 } } & { { 2 9 1 4 . 9 } } \end{array} } \right] .
+$$
+
+# 5.Radial BAO
+
+The radial (line-of-sight） baryon acoustic scale can also be measured by using the SDSS data. It is independent from the BAO measurements described above.The measured quantity is
+
+$$
+\begin{array} { r } { \triangle _ { z } \left( z \right) = H ( z ) r _ { s } ( z _ { d } ) , } \end{array}
+$$
+
+whose values are given by [41] as
+
+$$
+\begin{array} { r } { \triangle _ { z } \left( 0 . 2 4 \right) = 0 . 0 4 0 7 \pm 0 . 0 0 1 1 , } \\ { \triangle _ { z } \left( 0 . 4 3 \right) = 0 . 0 4 4 2 \pm 0 . 0 0 1 5 . } \end{array}
+$$
+
+# D. Reduced CMB data
+
+The chisquare for the reduced CMB data is defined by
+
+$$
+\chi _ { C M B } ^ { 2 } = X ^ { T } C ^ { - 1 } X ,
+$$
+
+where
+
+$$
+X = \left[ \begin{array} { c } { { ( l _ { A } ) _ { t h } - ( l _ { A } ) _ { o b s } } } \\ { { R _ { t h } - R _ { o b s } } } \\ { { ( z _ { * } ) _ { t h } - ( z _ { * } ) _ { o b s } , } } \end{array} \right]
+$$
+
+and $C$ is the related covariance matrix.
+
+[1] A.G. Riess et al. [Supernova Search Team Collboration]，Astron. J.116,1009 (1998) [astro-ph/9805201].
+
+[2] S.Perlmutter et al. [Supernova Cosmology Project Collaboration],， Astrophys. J. 517, 565 (1999）[astro-ph/9812133].   
+[3] E.Komatsu et al. [WMAP Collaboration]， Astrophys. J. Suppl. 192， 18 (2011) [arXiv:1001.4538 [astro-ph.CO].   
+[4] Y. Wang and P. Mukherjee, Phys. Rev. D 76, 103533 (2007) [astro-ph/0703780].   
+[5] Y. Wang and S. Wang, Phys. Rev. D 88, 043522 (2013) [arXiv:1304.4514 [astro-ph.CO]].   
+[6] D.L. Shafer and D.Huterer,Phys.Rev. D 89,063510 (2014) [arXiv:1312.1688 [astro-ph.COl].   
+[7] N. Suzuki et al.， Astrophys. J. 746, 85 (2012) [arXiv:1105.3470 [astro-ph.CO]].   
+[8] A. Conley et al. [SNLS Collaboration], Astrophys. J. Suppl. 192,1 (2011) [arXiv:1104.1443 [astro-ph.CO].   
+[9] A.Rest, D. Scolnic, R. J. Foley， M. E. Huber, R. Chornock,G. Narayan, J. L. Tonry and E. Berger et al.， arXiv:1310.3828 [astro-ph.CO].   
+[10] P. A. R. Ade et al. [Planck Collaboration], arXiv:1502.01590 [astro-ph.CO].   
+[11] Q. Su, Z. L. Tuo and R. G. Cai, Phys. Rev. D 84,103519 (2011) [arXiv:1109.2846 [astroph.CO]].   
+[12] R. G. Cai, Z. K. Guo and B. Tang, Phys. Rev. D 89,123518 (2014) [arXiv:1312.4309 [astroph.CO]].   
+[13] Q. Gao and Y. Gong, Class. Quant. Grav. 31,105007 (2014) [arXiv:1308.5627 [astro-ph.CO]].   
+[14] Y. Zhang and Y. Gong,arXiv:1306.6663 [astro-ph.CO].   
+[15] P. S. Corasaniti and A. Melchiorri, Phys. Rev. D 77,103507 (2008) [arXiv:0711.4119 [astroph]].   
+[16] G.Hinshaw et al. [WMAP Collaboration]， Astrophys. J. Suppl. 208， 19 (2013) [arXiv:1212.5226 [astro-ph.CO].   
+[17] P.A. R. Ade et al. [Planck Collaboration],arXiv:1303.5076 [astro-ph.CO].   
+[18] P. A. R. Ade et al.[BICEP2 and Keck Array Collaborations], arXiv:1502.00643 [astro-ph.CO].   
+[19] P.A.R. Ade et al. [BICEP2 Collaboration]，Phys. Rev. Lett.112，241101 (2014) [arXiv:1403.3985 [astro-ph.CO]].   
+[20] G. Mangano, G. Miele, S. Pastor, T. Pinto, O. Pisanti and P. D. Serpico, Nucl. Phys. B 729, 221 (2005）[hep-ph/0506164].   
+[21] W. Hu and N. Sugiyama, Astrophys. J. 471, 542 (1996) [astro-ph/9510117].   
+[22] A. Lewis and S. Bridle, Phys. Rev. D 66,103511 (2002) [astro-ph/0205436].   
+[23] B.Hu, J.W. Hu, Z. K. Guo and R. G. Cai, Phys. Rev. D 90,023544 (2014) [arXiv:1404.3690].   
+[24] M. J. Mortonson and U. Seljak, JCAP 1410,no.10, 035 (2014) [arXiv:1405.5857 [astroph.CO]].   
+[25] P. A. R. Ade et al. [Planck Collaboration], arXiv:1502.01589 [astro-ph.CO].   
+[26] R.Flauger, J. C. Hill and D. N. Spergel, JCAP 1408, 039 (2014) [arXiv:1405.7351 [astroph.CO]].   
+[27] R. Adam et al. [Planck Collaboration], arXiv:1409.5738 [astro-ph.CO].   
+[28] P.A. R. Ade et al. [BICEP2 and Planck Colaborations], Phys.Rev. Lett.114, no.10,101301 (2015）[arXiv:1502.00612 [astro-ph.CO].   
+[29] W. N. Colley and J. R. Gott,arXiv:1409.4491 [astro-ph.CO].   
+[30] D.Stern, R. Jimenez,L. Verde, M. Kamionkowski and S. A. Stanford, JCAP 1002, 008 (2010) [arXiv:0907.3149 [astro-ph.CO].   
+[31] J. Simon,L. Verde and R. Jimenez, Phys. Rev. D 71, 123001 (2005) [astro-ph/0412269].   
+[32] M. Moresco,A. Cimatti, R. Jimenez, L. Pozzetti, G. Zamorani, M. Bolzonella, J. Dunlop and F. Lamareille et al. JCAP 1208, 006 (2012) [arXiv:1201.3609 [astro-ph.CO]. O.Farooq and B. Ratra, Astrophys. J. 766, L7 (2013) [arXiv:1301.5243 [astro-ph.CO].   
+[33] S.Nesseris and L. Perivolaropoulos, Phys. Rev. D 72,123519 (2005) [astro-ph/0511040].   
+[34] F.Beutler,C.Blake,M. Colless,D.H. Jones,L. Staveley-Smith,L. Campbell, Q. Parker and W. Saunders et al., Mon. Not. Roy. Astron. Soc. 416,3017 (2011) [arXiv:1106.3366 [astroph.CO]].   
+[35] D. J. Eisenstein and W. Hu, Astrophys. J. 496, 605 (1998) [astro-ph/9709112].   
+[36] W. J. Percival et al. [SDSS Collaboration],Mon. Not.Roy. Astron. Soc. 401, 2148 (2010) [arXiv:0907.1660 [astr0-ph.CO].   
+[37] D.J. Eisenstein，H. -j. Seo，E. Sirko and D. Spergel, Astrophys. J. 664,675 (2007) [astro-ph/0604362].   
+[38] N.Padmanabhan, X. Xu, D.J. Eisenstein, R. Scalzo, A.J. Cuesta, K.T. Mehta and E. Kazin, Mon. Not. Roy. Astron. Soc. 427, no.3, 2132 (2012) [arXiv:1202.0090 [astro-ph.CO].   
+[39] L. Anderson, E. Aubourg, S. Bailey, D. Bizyaev, M. Blanton,A. S. Bolton, J. Brinkmann and J. R. Brownstein et al., Mon. Not. Roy. Astron. Soc.427, no. 4, 3435 (2013) [arXiv:1203.6594 [astro-ph.CO].   
+[40] C.Blake,E. Kazin,F.Beutler, T. Davis, D. Parkinson, S. Brough, M. Colless and C. Contreras
+
+et al.,Mon. Not. Roy. Astron. Soc. 418,1707 (2011) [arXiv:1108.2635 [astro-ph.COl]. [41] E.Gaztanaga，R. Miquel and E. Sanchez，Phys. Rev.Lett.103，091302 (2009) [arXiv:0808.1921 [astro-ph].

@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "结合DCGAN与LSTM的阿兹海默症分类算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林颖1a，何啸峰la,²，陈灵娜la，陈俊熹1b(1．南华大学 a.计算机学院;b．南华附属医院，湖南 衡阳 421001;2．中南大学 湘雅公共卫生学院，长沙 410008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统的阿兹海默症(Alzheimer's disease，AD)分类3D模型参数过多以及2D 模型缺乏连续性特征的问题，提出了一种结合2D卷积神经网络与长短时记忆网络的脑部核磁共振成像(magnetic resonance imaging，MRD)图像分类算法。利用深度卷积生成对抗网络(deep convolutional generative adversarial networks，DCGAN)，卷积层能够在无标签的情况下自动提取到图像特征。首先以无监督的方式训练卷积神经网络;将MRI图像序列转换为特征序列，再输入到长短时记忆网络进行训练；最后结合特征序列与LSTM的隐藏状态进行分类。实验结果显示，相比3D模型，该算法有着更少的参数，对于NC与AD的分类达到了 $9 3 . 9 3 \\%$ 的准确率，对于NC与MCI达到了 $8 6 . 2 7 \\%$ 的准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阿兹海默症；深度卷积生成对抗网络；长短时记忆；无监督 中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2018.10.0853 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alzheimer's disease classification algorithm based on dcgan and LSTM ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lin Yingla, He Xiaofengla,2, Chen Lingnalat, Chen Junxi1b (1.a.Computer School,b.Afliated Nanua Hospital,UniversityofSouth China,HengyangHunan41ool,Chna;2. Xiangya School ofPublic Health,Central South University,Changsha 41ooo8,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming to the problems thattheexcessive parameters of 3D model and the lack of continuous features of 2D model in existing Alzheimer’s Disease (AD)classification methods,this paper proposed a brain MRI(Magnetic Resonance Imaging image clasification algorithm which combines 2D convolutional neural networks and long short-term memory. By makinguseof thedeepconvolutional generative adversarial networks (DCGAN),theconvolutional layers permitted to capture image features without labels.The method firstly trained CNNby unsupervised way.Secondly,transformed MRI image sequence into feature sequence and trained LSTM network.Finaly,combined the feature sequenceand the hidden states ofLSTMnetwork to clasify.The experimentalresults,compared with 3Dmodel,showthatthealgorithmhas less parameters, achieved $9 3 . 9 3 \\%$ classification accuracy for NC (normal control) vs. AD and $8 6 . 2 7 \\%$ for NC vs. MCI (mild cognitive impairments）,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Alzheimer'sdisease；deep convolutional generative adversarial networks；long short-term memory; unsupervised ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阿兹海默症是一种大脑退化疾病，是导致痴呆的最常见成因[I]。当前，AD的诊断主要依靠心理测试、神经影像和血液等指标以及生物标志物[2]。根据世界卫生组织的估计，全球阿兹海默症患者的数量将在几十年内翻四倍，在2050 年达到1亿1400万人[3]。早期和准确的诊断使患者能够得到支持性治疗，帮助他们维持更长时间的自理能力，有望降低相关的费用[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结构MRI是一种非常重要的广泛可用和非侵入性的生物标记，同时也是一种很好的显示患者AD发展状况的媒介[5]。结构 MRI可以被用于训练计算机辅助诊断算法[]。这些算法有可能发现人类专家在对大脑图像进行定性的分析时所遗漏的群体间的差异，得到相比临床标准更为客观的诊断结果[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "特征提取的优劣极大地影响图像分类的结果。自2012年Krizhevsky 赢得ImageNet竞赛以来，深度卷积神经网络再一次成为研究的热点。卷积神经网络已经在计算机视觉领域应用了几十年。相比传统的HOG、SIFT等“手工设计”特征的方法，CNN作为一种数据驱动的模型，能够自动地提取特征。CNN在医学图像分析的应用可以追溯到1990年，当时CNN 被用于辅助检测微钙化点和肺结节。在阿兹海默症方面也已经有一些相关工作。Zhu等人[8提出了一种基于图的特征选择方法。通过过滤不相干的特征，再用SVM进行分类，得到了比非特征选择方法更好的效果。Tong 等人[9]利用独立成分分析提取特征，再由支持向量机进行分类。Hosseini-Asl等人[o]使用卷积自动编码器(convolutionalauto-encoder,CAE)提取三维MRI图像的特征，然后将CAE的权值用于初始化3DCNN网络，在AD、MCI(轻度认知障碍)和 NC(健康控制组)三类图像数据上取得了 $89 . 1 \\%$ 的分类准确率。Cheng 等人[]设计了一种结合 2DCNN 和 BGRU(bidirectional gated recurrentunit，双向门控循环单元）的框架。该方法将三维的PET图像转为二维的图像序列，用卷积网络提取图像特征，再由BGRU提取图像间的特征用于最终的分类。该方法能够在使用2D卷积的同时考虑图像的空间信息，但在训练时，由于需要计算每一个时间步卷积层所有权值的梯度，即卷积层在进行前向计算时保留了所有的中间值，导致内存需求和计算量大幅增长。Li等人[2]提出了一种基于深度学习的AD分类框架，利用主成分分析提取MRI、PET图像特征，再应用稳定性选择方法和受限玻尔兹曼机(restrictedBoltzmannmachine,RBM)进行特征选择和提取，最后由SVM分类。Liu等人[3]融合了MR和PET两种成像方式的图像，使用堆叠的自动编码器提取图像高层特征，最后微调网络进行多分类任务。Suk等人[14]首先将样本下采样为更少的体素元素，然后用深度玻尔兹曼机(deepBoltzmannmachine,DBM)以“块”的形式学习潜在的特征，应用集成学习的方法，结合多个分类器进行分类。当前，由于卷积网络在提取图像特征方面具有优越性，许多研究者都致力于设计改进各种预测模型，以更好地提取MRI图像的特征，提高分类的准确率。这些方法均使用了神经网络，并取得了良好的结果，但是这些算法的性能高度依赖于超参数的选择和调优过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从零开始训练一个卷积神经网络并不容易，因为这需要大量的带标签的训练数据和许多技巧以使其收敛。在医学领域，这种需求可能无法被满足[15]。利用自动编码器等无监督算法提取图像特征正在成为一种趋势。本文的模型将特征提取与分类分为两个阶段进行训练。为了能够利用MRI图像的空间信息，同时降低网络的复杂度，本文利用深度卷积生成对抗网络，以无监督的方式提取图像特征。在展开长短时记忆网络时，由于卷积层已经训练完成，因此固定卷积层的权值，只做前向的计算而不求其梯度，从而避免了在训练LSTM层时保留卷积层的中间值，大幅降低了对计算资源的需求。对于长序列的计算，本文模型更有优势。相比于早先的各种SVM方法，利用深度学习技术进行分类的方法取得了更好的效果。其中，3D卷积网络效果显著，但是参数较多，计算代价较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1深度卷积生成对抗网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生成对抗网络由Goodfellow 等人[16]于2014 年提出。该模型绕过了求解似然函数的困难，转而直接生成样本，从而拟合训练数据的分布。生成对抗网络由一个生成器和一个判别器组成，生成器使用随机噪声作为输入，并将其映射到样本空间。判别器输出一个介于0到1之间的概率，用于判断输入样本是真实数据还是生成数据。对于真实的样本，判别器 $D$ 输出的概率接近1。对于生成的样本， $D$ 输出的概率接近0。两者交替训练，在训练 $G$ 时固定 $D$ 的参数，训练 $D$ 时固定 $G$ 的参数，直到生成器生成的数据的分布与真实样本的分布重合。网络的结构如图1所示。生成对抗网络的目标函数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { G } \\operatorname* { m a x } _ { D } V ( D , G ) = \\operatorname { E } _ { x } [ \\log D ( x ) ] + \\operatorname { E } _ { z } [ \\log ( 1 - D ( G ( z ) ) ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $D$ 为判别器， $x$ 为真实的样本； $G$ 为生成器， $z$ 为输入的随机噪声。生成对抗网络通过博弈的方式学习，最终达到纳什平衡。与通常的有监督训练不同，生成器 $G$ 的参数更新梯度并非来自真实的样本，而是来自判别器 $D$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自提出生成对抗网络的概念以来，已经有了许多基于该模型的变体。Radford等人[7]提出了结合卷积神经网络和生成对抗网络的DCGAN模型，并展现了该模型的判别器的卷积核能够在无标签的图像数据集中学习到数据集的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DCGAN使用了一系列的限制，比如用卷积层替代池化层，为每一卷积层增加批标准化(batch normalization，BN)等，使得用生成对抗网络训练CNN时更加稳定。DCGAN以无监督的方式进行训练，其训练后的判别器可以用于图像的特征提取",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b8671ed1cbff568024bf7095beb614bc5a79dfc63b16c61f4d8704ea0edba90.jpg",
+        "img_caption": [
+            "图1生成对抗网络",
+            "Fig.1Generative adversarial networks "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 长短时记忆网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的循环神经网络(Recurrent Neural Networks,RNN)在处理长期依赖问题时存在着梯度消失的问题。1997年，Hochreiter和Schmidhuber[18]提出长短时记忆网络，引入了记忆单元。2000 年，Gers引入了遗忘门，根据输入与上一个时间步的状态决定哪些信息应该被记住。本文模型使用的是带遗忘门的LSTM，具体计算如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { t } = \\sigma _ { g } ( W _ { f } x _ { t } + U _ { f } h _ { t - 1 } + b _ { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni _ { t } = \\sigma _ { g } \\left( W _ { i } x _ { t } + U _ { i } h _ { t - 1 } + b _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\no _ { t } = \\sigma _ { g } \\left( W _ { o } x _ { t } + U _ { o } h _ { t - 1 } + b _ { o } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { c } _ { t } = \\sigma _ { g } \\left( W _ { c } x _ { t } + U _ { c } h _ { t - 1 } + b _ { c } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { t } = f _ { t } \\circ c _ { t - 1 } + i _ { t } \\circ \\tilde { c } _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { t } = o _ { t } \\circ \\sigma _ { h } ( c _ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：符号·表示按元素相乘； $W$ 和 $U$ 为各个门的权值矩阵;$\\sigma$ 为激活函数；输入门 $i _ { \\iota }$ 与输出门 $o _ { t }$ 分别用于控制记忆单元息的流入和流出； $\\boldsymbol { c } _ { t }$ 为记忆单元cell的状态， $h _ { t }$ 为隐藏层的输出状态。改进的LSTM网络解决了处理长序列时的梯度传递问题，使网络能够被有效地训练。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卷积神经网络由于其在特征提取方面的良好表现而被广泛应用于各种图像分类算法。长短时记忆网络则适合处理与序列相关的问题。本文提出的模型结合两者的优点，将连续的二维图像通过卷积神经网络转换为特征序列，再输入到长短时记忆网络进行分类。本文模型如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DCGAN取消了池化层，判别器由卷积层构成，最后一层为全连接层，用于输出图像为真实样本的概率。DCGAN原始模型的输入为 $6 4 \\times 6 4$ ，而本文使用的数据集中的MRI图像均大于这个尺寸。为了避免压缩图像带来的信息丢失，本文模型将输入扩展为 $1 6 0 \\times 1 6 0$ 像素的灰度图像，由DCGAN的判别器和一个堆叠了两层隐藏层的LSTM网络构成。判别器卷积核的大小均为 $5 \\times 5$ ，步长为2。最后一层卷积层的特征图大小为10x10,经池化后输入到长短时网络。模型对特征图的数量也进行了相应的减少，4层卷积层的特征图数分别为64、128、256和512。LSTM隐藏层状态数均为256。处理完所有图像后，将得到的特征输入LSTM层，用于提取图像之间的信息。再将二维的特征与LSTM输出的隐藏状态进行连接，由全连接网络进行分类，softmax分类器输出分类的概率。样本类别标签使用one-hot进行编码。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型的训练过程分为两个阶段。首先训练DCGAN网络，由于生成对抗网络在训练时仅对样本的真假进行判断，因此无须区分图片的类别，直接输入判别器。为了加快网络的收敛，应用 $z$ -score方法对输入的数据进行标准化处理，转换函数为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { * } = \\frac { x - \\mu } { \\sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $x$ 为标准化前像素点值， $\\mu$ 为像素的平均值， $\\sigma$ 为像素点的标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5225a8334a204c7d5ffb1fc04cf3e35b28a55edee01b0fc573ffb10cf1fe0717.jpg",
+        "img_caption": [
+            "图2本文框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.2.The proposed framework "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "判别器最后的全连接层只有一个输出节点，使用sigmoid函数将网络的输出值映射为概率。在训练DCGAN时生成器输入一个正态分布的噪声，并将生成的样本输入判别器。生成的样本与真实的样本分开输入到判别器，将这两部分数据的损失值相加作为判别器的损失值。此外，为了避免神经元在训练过程中“死亡”，即对任何输入都不再激活，使用LeakyReLU作为激活函数，其定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = { \\left\\{ \\begin{array} { l l } { x } & { { \\mathrm { i f ~ } } x > 0 } \\\\ { a x } & { { \\mathrm { o t h e r w i s e } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\alpha$ 为一设定的较小的常数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "训练LSTM网络时，将最后一特征图用最大池化函数进行池化操作，以减少参数，再输入到LSTM层。此时固定卷积层的参数，优化算法不计算卷积层权值的梯度。为了让生成的图像边缘更加清晰，本文模型对DCGAN的损失函数加入了惩罚项：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega ( G ) = \\operatorname { E } [ \\left. { \\textbf { } } x - G ( z ) \\right. _ { 1 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总的损失函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { D C G A N } ( D , G ) = \\operatorname* { m i n } _ { G } \\operatorname* { m a x } _ { D } V ( D , G ) + \\lambda \\Omega ( G )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于LSTM网络，使用交叉熵函数作为损失函数，其定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( p , q ) = - { \\sum _ { x } } p ( x ) \\log q ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $p ( { \\pmb x } )$ 为样本的真实分布， $q ( { \\pmb x } )$ 为模型输出的概率。L1则化项可以使模型获得更加稀疏的解，有利于特征的选择。L2正则化能够降低模型的复杂度，降低过拟合的风险。综合考虑以上内容，本文模型的LSTM层同时使用L1和L2正则化。由于模型的输出结果为二分类，得到损失函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { L _ { L S T M } ( \\omega _ { 1 } , \\omega _ { 2 } ) = - [ y \\ln \\hat { y } + ( 1 - y ) \\ln ( 1 - \\hat { y } ) ] + } } \\\\ { { \\lambda _ { 1 } \\parallel \\omega _ { 1 } \\parallel _ { 1 } + \\lambda _ { 2 } \\parallel \\omega _ { 2 } \\parallel _ { 2 } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $y$ 为标签； $\\hat { y }$ 为模型输出的各个类别的概率； $\\lambda _ { 1 }$ 为L1正则化的权重； $\\lambda _ { 2 }$ 为L2正则化的权重； $\\omega _ { \\mathrm { i } }$ 为输入全连接层的权值； $\\omega _ { 2 }$ 为LSTM层和输出层的权值。DCGAN与LSTM均使用Adam 算法进行优化，最小化目标函数 $L _ { D C G A N } ( D , G )$ 和$L _ { L S T M } ( \\omega _ { 1 } , \\omega _ { 2 } )$ 。正则化项权值均不包括偏置参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，将LSTM的输出向量 $\\{ \\boldsymbol { \\mathrm { h } } _ { 0 } , \\boldsymbol { \\mathrm { h } } _ { 1 } , . . . , \\boldsymbol { \\mathrm { h } } _ { \\mathrm { n } } \\}$ 与卷积层的输出$\\{ \\mathbf { x } _ { 0 } , \\mathbf { x } _ { 1 } , . . . , \\mathbf { x } _ { \\mathrm { n } } \\}$ 进行连接，作为全连接层的输入，再由softmax函数将全连接层的输出映射为分类的概率。Softmax函数的定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { i } = \\frac { e ^ { z _ { i } } } { \\sum _ { j } e ^ { z _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $z _ { i }$ 为全连接层第 $i$ 个输出， $\\sum _ { j } e ^ { z _ { j } }$ 为全连接层所有输出之和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验机器配置NVIDIAGeForce1080Ti显卡，16GB内存。实验程序使用TensorFlow深度学习框架编写，运行于Ubuntu16.04平台。实验所用数据全部来自ADNI(Alzheimer\"sDisease NeuroimagingInitiative，阿兹海默症神经影像计划)数据库。ADNI是一个致力于改进阿兹海默症预防和治疗的研究项目，其网站提供了多种模态的大脑成像数据，包括MRI和PET(positron emission tomography，正电子发射断层扫描)。本文实验选取的样本年龄介于55-91(包含)，样本均为 3DNifTI (neuroimaging informatics technology initiative,神经影像学信息技术计划）格式文件，1.5T磁共振成像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验总共使用了664个病人的大脑核磁共振成像数据，包括NC、MCI和AD三类样本，每个样本含有256张图像（冠状面方向）。其中，健康控制组185个样本，轻度认知障碍组322个样本以及阿兹海默症组157个样本。本文使用的图像数据为3DNifTI格式，包含横断面、矢状面和冠状面三个方向的成像。数据集按照十折交叉验证的比例划分为训练集、验证集和测试集。移除了前后各40张图像，因为这些图像没有包含太多有用的信息，即总共使用了116844张图像。训练DCGAN时，对这些图像不加区分地输入到判别器。为了增加样本数量，改善模型的泛化性能，对原始的图像数据进行了随机剪切、翻转和旋转操作。训练LSTM网络时，同样对图像进行了数据增强操作。验证集和测试集数据均不进行数据增强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2参数配置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适当地初始化权值可以更有效地训练神经网络。实验模型使用正态分布 $N ( 0 , 0 . 0 2 )$ 初始化卷积层和全连接层，LSTM层权值使用正交矩阵进行初始化，偏置项均初始化为0。DCGAN的学习率为2e-4， $\\beta _ { \\mathrm { { l } } }$ 设为0.5，与文献[17]实验设置一致。生成器的输入为 $N ( 0 , 1 )$ 分布的噪声， $L _ { 1 }$ 正则化的权重为2E-3。判别器权值不使用正则化，batchsize 设置为128。使用Adam优化器，学习率设置为1e-4。L1、L2正则化权重设置均设置为2E-3，batch size设置为32。其余参数使用TensorFlow的默认设置。DCGAN训练迭代次数设置为 $5 0 \\mathrm { k }$ LSTM迭代次数设置为 $1 0 \\mathrm { k }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1生成样本",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DCGAN训练完成后，判别器用于本文模型的图像特征提取。生成器亦学习到如何生成接近于真实数据分布的样本。图3为生成器生成的大脑MRI图像样本，可以看到，这些生成的样本与真实的样本十分相似。从图3可以看到，生成的图片存在一定程度的倾斜，这是因为输入的图片经过了旋转操作，生成器学习到了这些变化。同样的，判别器也学习到了图像特征的平移不变性和镜像不变性。实验结果表明，式（10）加快了卷积层的收敛速度，得到了更加清晰的生成样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9cb066fb17f58a350dc7b470ef358f45e9b235c5007b436014aecba297a1cc8.jpg",
+        "img_caption": [
+            "Fig.3Generative samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.2特征图可视化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可视化激活函数层有助于理解卷积神经网络学习到了哪些特征。在文献[19]中，作者可视化了第一层卷积的卷积核，显示该层学习到了边缘和颜色等底层特征。这种直接可视化卷积核的方式通常只适用于浅层的卷积核。对于深层的卷积核，其学习到的特征比较抽象，即使可视化也不容易理解。为了更好地理解卷积神经网络，Zeiler等人[20]通过反卷积方法可视化特征图。该方法通过反池化、反激活和反卷积过程，将特征图重新映射回输入图像的像素空间，从而得到一张与输入相同大小的图像。图4为第二层卷积层前16个特征图的反卷积结果。从图中可以看出，卷积核提取到了轮廓信息，并忽略了背景。这也证实了判别器的卷积层学习到了图像特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.3分类结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "卷积神经网络在医学图像分类方面已有许多相关的研究。近年来的方法大多利用2DCNN进行特征提取，再由全连接网络进行分类。单独的一张MRI图像并不容易确定其所属的类别，一些图像可能不包含病灶，不能够提供足够的信息。通过对所有二维的图像的分类结果取平均能够较好的解决这个问题，但是丢失了这些图像之间的联系信息。这些信息可能有利于提高分类精度。相比2D模型，3D卷积能够捕获到MRI图像的局部空间特征，但是其缺点也比较明显，3D 卷积有着更多的参数，可能增加过拟合的风险，尤其是当样本较少时。此外，3D模型的训练也需要更多的计算资源。表1为本文模型的实验结果与一些现有的方法的比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac89e1d9289a7f25ea8d20858587912e4baeebfcc9c5bbcf6279b8ee3128bb5f.jpg",
+        "img_caption": [
+            "图4卷积层可视化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebc7772d11ac8ca80e31c0c825994d667f79b677ff41130f9c019e0feb9e94a3.jpg",
+        "table_caption": [
+            "Fig.4Convolution visualization表1不同算法的分类准确率 $\\%$ ",
+            "Table1Accuracy of various algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>AD/NC</td><td>MCI/NC</td></tr><tr><td>文献[11]</td><td>91.2</td><td>78.9</td></tr><tr><td>文献[12]</td><td>91.4</td><td>77.4</td></tr><tr><td>文献[13]</td><td>91.4</td><td>82.1</td></tr><tr><td>文献[14]</td><td>92.3</td><td>84.2</td></tr><tr><td>本文模型(with norm)</td><td>93.9</td><td>86.3</td></tr><tr><td>本文模型(without norm)</td><td>90.9</td><td>84.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与现有的阿兹海默症3D分类模型相比，本文提出的模型大幅减少了参数，降低了过拟合的可能性。同时，相比2D模型，由于加入了LSTM层，本文模型能够利用图像的空间特征信息。对比文献[13]的方法，本文模型在训练分类器时不需要反复计算卷积层的梯度，降低了计算复杂度，使得模型能够进行更长的序列计算。图5为本文模型的ROC(Receiver Operating Characteristic，接收者操作特征）曲线。对于二分类模型，常常使用ROC曲线来衡量其分类性能。纵坐标和横坐标分别为真阳率(TruePositiveRate，TPR)和假阳率(FalsePositiveRate,FPR),其定义为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT P R = \\frac { T P } { T P + F N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF P R = { \\frac { F P } { F P + T N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：TP为真阳性样本，FP为假阳性样本，FN为假阴性样本，TN为真阴性样本。实验中选择NC组的样本作为负类(negative)，ad 和 mci 组的样本为正类(positive)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了分类的精度，AUC(areaundercurve,曲线下面积)也是一个衡量的标准，该值介于0\\~1。图5展现了本文模型的AUC 值，AD/NC的AUC 达到了 $9 5 \\%$ ，MCI/NC达到 $90 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种结合深度卷积生成对抗网络与长短时记忆网络的阿兹海默症分类模型。利用生成对抗网络，卷积网络能够在无监督的情况下提取到图像特征，这对于那些缺乏标签的医学图像十分有用。训练样本的缺乏也是导致模型过拟合的原因之一，下一步的工作将使用多个角度的MRI图像，并用带条件的生成对抗网络生成各类样本，增加数据量，改善模型的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3df4f66dffde3b9ee4a455836ba8e7c6feed61c6a00e24358ab7908560f742a4.jpg",
+        "img_caption": [
+            "图5ROC 曲线Fig. 5 ROC curve"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Alzheimer's Association.2O17 Alzheimer's disease facts and figures [J]. Alzheimer's & Dementia,2017,13(4):325-373.   \n[2]叶玉如，老年痴呆症—一现代脑科学和医学研究面临的严峻挑战 [J]．生命科学，2014,26(1):1.(Ye Yuru.Alzheimer's disease:the serious challenge of modern mental science and medical science [J]. Chinese Bulletin of Life Sciences,2014,26(1): 1.)   \n[3]Alzheimer's Association.2015 Alzheimer's disease facts and figures [J]. Alzheimer's& Dementia，2015,11(3):332.   \n[4]Alzheimer's Association.2014 Alzheimer's disease facts and figures [J]. Alzheimer's& Dementia.2014,10(2):e47-e92.   \n[5]Paquerault S.Battle against Alzheimer's disease: the scope and potential value of magnetic resonance imaging biomarkers [J].Academic Radiology.2012,19 (5):509-511.   \n[6] Jr Jack C R，Knopman D S,Jagust W J，et al.Tracking pathophysiological processes in Alzheimer's disease: an updated hypothetical model of dynamic biomarkers [J]. The Lancet Neurology. 2013,12(2):207-216.   \n[7]Kloppel S,Abdulkadir A, Jr Jack C R,et al. Diagnostic neuroimaging across diseases [J].Neuroimage.2012,61 (2):457-463.   \n[8]朱永华，程德波，何威，等．基于图的特征选择算法在阿兹海默症诊 断问题研究[J].计算机应用研究，2017，34(4)：1018-1021.(Zhu Yonghua,Cheng Debo,He Wei,et al.Graph feature selection for Alzheimer's disease diagnosis [J].Application Research of Computers, 2017,34(4): 1018-1021.)   \n[9]Tong Tong,Wolz R,Gao Qqinquan,et al.Multiple instance learning for classification of dementia in brain MRI [J].Medical Image Analysis. 2014,18(5): 808-818.   \n[10] Hosseini-Asl E,Keynton R,El-Baz A.Alzheimer's disease diagnostics by adaptation of 3D convolutional network [C]//Proc of the 23rd IEEE International Conference on Image Processing.Piscataway, NJ: IEEE Press,2016:126-130.   \n[11] Cheng D,Liu Manhua.Combining convolutional and recurrent neural networks for Alzheimer's disease diagnosis using PET images [C]// Proc of IEEE International Conference on Imaging Systems and Techniques. Piscataway, NJ: IEEE Press,2017: 1-5.   \n[12] Li Feng,Tran L,Thung Kim Han,et al.A robust deep model for improved classification of AD/MCI patients [J].IEEE Journal of Biomedical and Health Informatics.2015,19(5):1610-1616.   \n[13] Liu Siqi,Liu Sidong,Cai Weidong,et al. Multimodal neuroimaging feature learning for multiclass diagnosis of Alzheimer's disease [J]. IEEE Trans on Biomedical Engineering.2015,62(4): 1132-1140.   \n[14] Suk H I,Lee S W,Shen Dinggang,et al.Hierarchical feature representation and multimodal fusion with deep learning for AD/MCI diagnosis [J]. NeuroImage,2014,101: 569-582.   \n[15] Tajbakhsh N,Shin JY,Gurudu S R,et al. Convolutional neural networks for medical image analysis: Ful training or fine tuning? [J]. IEEE Trans on Medical Imaging.2016,35 (5):1299-1312.   \n[16] Goodfellow I, Pouget-Abadie J,Mirza M,et al. Generative adversarial nets [C]// Advances in Neural Information Processing Systems. Cambridge,MA: MIT Press,2014: 2672-2680.   \n[17] Radford A,Metz L,Chintala S. Unsupervised representation learming with deep convolutional generative adversarial networks [EB/OL]. (2016-01-07)[2018-10-25]. htps://arxiv.org/abs/1511.06434.   \n[18] Hochreiter S,Schmidhuber J.Long short-term memory [J].Neural Computation,1997,9(8): 1735-1780.   \n[19]Krizhevsky A,Sutskever I,Hinton GE.Imagenet classification with deep convolutional neural networks [C]//Advances in Neural Information Processing Systems. Cambridge,MA: MIT Press,2012: 1097-1105.   \n[20] Zeiler M D,Fergus R. Visualizing and understanding convolutional networks [C]//Proc ofEuropean Conference on Computer Vision. New York: Springer,2014: 818-833. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

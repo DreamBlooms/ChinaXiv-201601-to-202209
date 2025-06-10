@@ -1,0 +1,190 @@
+# 基于GIS的锡尔河中游生态敏感性分析与评价
+
+张广创'，王杰¹，刘东伟¹，吉力力·阿不都外力²（1．内蒙古大学生态与环境学院,内蒙古 呼和浩特010021；2．中国科学院新疆生态与地理研究所，新疆 乌鲁木齐830011)
+
+摘要：以锡尔河中游为研究区,选择高程、坡度、坡向、积温、降水、土地覆盖、植被覆盖度、水域缓冲区及土壤9个生态敏感性指标,构建锡尔河中游生态敏感性评价指标体系,结合层次分析法和GIS空间分析,研究锡尔河中游生态敏感性空间分布特征。结果表明：锡尔河中游生态敏感性总体上表现出中部高、四周低的空间分异特点。研究区生态敏感性分为极度敏感、高度敏感、中度敏感、轻度敏感和不敏感5个等级,各敏感区面积占总面积的 $4 . 3 9 \%$ 、$1 0 . 4 8 \% . 2 9 . 9 7 \% . 3 1 . 2 6 \%$ 和 $2 3 . 9 0 \%$ ;研究区生态敏感性程度受植被覆盖度及水体因子影响较大，以恰尔达拉水库和锡尔河干流为代表的极度敏感区和高度敏感区生态系统敏感性最高;受气候因素影响显著，积温和降水因子导致生态敏感性程度具有一定方向性;土地覆盖类型和土壤类型的不同,造成锡尔河中游生态敏感性程度各异,生态敏感性较高的地区主要分布在水库和河流及周围地区,土地覆盖类型以农田用地为主，土壤类型以松软潜育土为主;锡尔河中游生态敏感性与高程、坡度因子呈正相关关系,与坡向呈南(坡向)高北(坡向)低的分布规律。综合评价结果以各敏感区面积叠加统计的形式成图,为锡尔河中游生态环境保护及土地开发利用提供参考。
+
+关键词：生态敏感性；敏感性评价；指标体系；锡尔河中游；中亚
+
+生态敏感性是指生态系统对区域内自然环境变化和人类活动干扰的敏感程度，反映生态系统遭到自然或人为因素干扰时发生生态环境问题的难易程度和概率大小[1]。生态敏感性分析及评价是综合多种环境影响因素来反映区域生态系统是否稳定的重要方法与手段[2]。合理的生态敏感性分析能够为区域资源利用、开发提供理论基础[3] C
+
+流域环境状况是保障区域可持续发展和生态安全的重要前提[4]。近半个世纪以来,中亚地区水土资源矛盾问题制约了该区域经济的发展[5]。在中亚地区流域生态环境方面的研究，国内外学者通过数学建模、数理统计分析等方法定量或者半定量地分析了流域生态环境变化的驱动机制和变化趋势[6]。水资源方面,由于监测数据的缺失,生态水文研究多以单一影响要素展开探讨，如单独将径流量的多少作为衡量流域水资源量的指标，忽略了干旱区河湖流域生态系统的整体性[7]；土地和植被资源方面，虽然以往对干旱区土地荒漠化以及植被退化等进行了大量研究，但与流域生态系统耦合研究相对较少。在中亚生态环境变化背景下，要准确预测流域生态系统结构和功能的变化，应准确掌握流域内生态敏感区域的分布情况[8]
+
+中亚地区是世界上典型的内陆干旱区[9]。锡尔河发源于天山山脉，是中亚地区最大的内陆河之一,高山融雪是补给河流径流的主要渠道[10]。近几十年来，锡尔河中游广泛发展绿洲经济，农用耕地面积增加，由上游进入平原地区的地表水资源被大量拦截，下游径流量整体减少，致使尾闾湖在整个水循环过程中的功能基本丧失[10-11]。虽然在短时间内形成了较好的生态绿洲经济农业，但大量使用化肥和农药引起的土壤污染、水质下降等环境问题在短时间内无法恢复。因此，研究锡尔河中游生态系统敏感性，对于当地水土资源调配，维持亚洲中部绿洲一荒漠生态系统平衡以及生态环境保护都具有重要意义。目前，对中亚地区尤其是锡尔河流域生态敏感性分析及评价的研究还鲜有报道。本文以锡尔河中游为研究区，选择高程、坡度、坡向、积温、降水、土地覆盖、植被覆盖度、水域缓冲区及土壤9个生态敏感性因子作为评价指标，构建锡尔河中游生态环境敏感性体系。采用层次分析法[2],利用 RS 和
+
+GIS 技术手段，对各生态因子进行空间分析和综合评价，获取锡尔河中游生态敏感性空间分布特征及分异规律，以期为锡尔河流域甚至是中亚相似地区城镇建设和生态环境的保护提供科学依据。
+
+# 1研究区概况
+
+研究区地处 $6 7 ^ { \circ } 3 0 ^ { \prime } \sim 7 0 ^ { \circ } 0 0 ^ { \prime } \mathrm { E }$ ， $4 1 ^ { \circ } 0 0 ^ { \prime } \sim 4 3 ^ { \circ } 3 0 ^ { \prime } \mathrm { N }$ 总面积为 $2 0 \ 6 6 8 . 0 7 \ { \mathrm { k m } } ^ { 2 }$ ,地势由东南向西北降低，地形地貌复杂,多平原和低地[13]。锡尔河中游属于温带大陆性气候,1月平均气温 $\mathrm { ~ - ~ } 1 9 \sim \mathrm { ~ - ~ } 4 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ } \mathrm { ~ \mathcal { C } ~ } , 7$ 月平均气温在 $1 9 \sim 2 6 \ \mathrm { ~ \textdegree C }$ ，年平均降雨量约300$\mathbf { m } \mathbf { m } ^ { [ 1 4 ] }$ 。研究区内水体主要为锡尔河干流和南部恰尔达拉水库。该区域灌溉农业比较发达，需水量大，是棉花、蔬菜、水果等重要产地[13]。研究区内潜育钙积土面积最大,松软潜育土次之[15]。农田、草地、林地等植被类型在研究区内均有分布。研究区内植被覆盖度分布不均,大部分介于 $0 . 4 \sim 0 . 6$ 。
+
+# 2 数据来源与生态评价指标体系
+
+# 2.1 数据来源
+
+锡尔河中游地区数字高程模型(DEM)数据来源于国家地球系统科学数据共享平台，空间分辨率为 $3 0 \mathrm { ~ m ~ }$ ;Landset 8 OLI（Operational Land Imager）遥感影像来源于美国地质勘探局（United States Geo-logicalSurvey，简称USGS）,时间为2018年8月，空间分辨率为 $3 0 \mathrm { ~ m ~ }$ ；气象数据来自于KNMIClimateExplorer(http://climexp.knmi.nl）,其中气温和降水数据均选自2008—2018年；土地覆盖数据来源于地理空间数据云，欧洲空间局通过全球合作生产的全球土地覆盖数据产品（Globcover数据集），时间为2009年；土壤数据来源于寒区旱区科学数据中心世界土壤数据库(HWSD）土壤数据集（v1.2），时间为2012年；水系数据来源于国家地球系统科学数据共享平台中亚五国1:1000 000 水系数据（2010 年），通过遥感影像对比，锡尔河中游干流河网变化不大。
+
+![](images/3c18ed4ab3fa61d8719a5f37f1c91bedc77b7f9ea8265d9a82018add6d899e75.jpg)  
+图1研究区概况  
+Fig.1Survey map of study area
+
+# 2.2 数据预处理
+
+将研究区DEM数据、水系数据、土地覆盖和土壤数据在ArcGIS软件中进行投影转换、裁剪等处理，生成可以进行空间分析的数据。坡度和坡向数据的获取是将DEM数据在ArcGIS软件中经数据处理所得。Landset8OLI遥感影像在ENVI遥感影像处理平台中进行辐射定标、大气校正，通过镶嵌、裁剪等处理，生成可用于空间分析的数据。
+
+# 2.3生态敏感性评价指标体系的构建
+
+2.3.1指标体系构建原则建立科学合理的指标体系，有助于对锡尔河中游生态敏感性进行全面的评价,提高评价的科学性与规范性[16]。锡尔河中游地区大力发展绿洲农业，过度取水，致使河流断流、水质恶化，荒漠化程度加剧，流域内水汽循环的自然运行规律遭到破坏，生态环境恶化，水土资源矛盾频发[10]。针对研究区目前的生态现状,本研究拟提出一套能够反映流域生态敏感性情况的指标体系，使得该体系能适用于锡尔河流域以及中亚地区其他的流域。指标体系设置的原则为： $\textcircled{1}$ 科学性和合理性相结合的原则； $\textcircled{2}$ 全面性和综合性相结合的原则;$\textcircled{3}$ 可操作性和系统性相结合的原则； $\textcircled{4}$ 定性与定量相结合的原则;③敏感性原则[17]
+
+2.3.2指标选取与分级根据已有研究结果,参考由中国科学院编制、原国家环境保护总局发布的《生态功能区划暂行规程》（2003）中关于敏感性分级标准，结合锡尔河中游实际生态情况，从地形因素、气候因素和生态环境因素中选出9个生态因子作为生态系统敏感性评价的指标。采取专家打分的方式，对锡尔河中游生态因子进行敏感性分级。将生态敏感性分为5个等级，其分级与赋值情况如下：数值1为不敏感，数值3为轻度敏感，数值5为中度敏感,数值7为高度敏感,数值9 为极度敏感[18]生态敏感性因子等级分类见表1。
+
+表1生态因子分级标准及分级情况  
+Tab.1 The rating standards and condition of ecological index   
+
+<html><body><table><tr><td rowspan="2">级指标 二级指标</td><td colspan="3">地形因素</td><td colspan="3">气候因素</td><td colspan="3">生态环境</td></tr><tr><td>高程/m</td><td>坡度/(°)</td><td>坡向</td><td>积温/℃</td><td>降水/mm</td><td>植被覆盖度</td><td>水域缓冲区/m</td><td>土地覆盖类型</td><td>土壤类型</td></tr><tr><td>不敏感</td><td><100</td><td><5</td><td></td><td><3 400</td><td><230</td><td>0.8~1</td><td></td><td>城镇和建设用地</td><td>简育砂性土</td></tr><tr><td>轻度敏感</td><td>100~200</td><td>5~9</td><td>南方向</td><td>3 400~3 600</td><td>230~260</td><td>0.6~0.8</td><td>水库1000~2 000 河流300~1000</td><td>草地</td><td>潜育钙积土</td></tr><tr><td>中度敏感</td><td>200~300</td><td>9~14</td><td>东西方向</td><td>3600~3 800</td><td>260~290</td><td>0.4~0.6</td><td>水库 500~1000 河流100~300</td><td>农田</td><td>松软潜育土</td></tr><tr><td>高度敏感</td><td>300~400</td><td>14~26</td><td>北方向</td><td>3 800~4000</td><td>290~320</td><td>0.2~0.4</td><td>水库0~500 河流0~100</td><td>有林地</td><td>人为土</td></tr><tr><td>极度敏感</td><td>>400</td><td>>26</td><td></td><td>>4 000</td><td>>320</td><td><0.2</td><td></td><td>水体</td><td>湖泊、水库</td></tr></table></body></html>
+
+2.3.3层次分析法及计算各因子权重权属大小能够反映评价指标的重要程度。对敏感性因素进行确权能更加科学、客观地进行评价。指标确权方法有主观赋权法、客观分析法、综合赋权法。本研究通过专家座谈的方式，10名专家对生态因子的重要性程度进行打分，结合层次分析法对锡尔河中游地区进行生态敏感性分析[19]
+
+层次分析法基本计算步骤如下：
+
+第一步：构建递阶层次模型。将锡尔河中游生态敏感性设定为目标层，地形、气候和生态环境3大因素设定为一级指标，二级指标层为9个生态因子。
+
+第二步：构造判断矩阵。结合专家打分情况，量化指标,构造判断矩阵[19] ○
+
+第三步：层次单排序和总排序。计算判断矩阵最大特征值和对应的特征向量。
+
+第四步：一致性检验。根据公式(1)计算一次性指标 $C I$ ，根据一次性指标 $C I$ 和平均随机一次性指标 $R I$ 计算一次性比率 $C R$ ，当 $C R < 0 . 1$ 时，认为判断矩阵的一致性是可以接受的。一致性指标 $R I$ 值见表2。
+
+$$
+C I = { \frac { \lambda { \operatorname* { m a x } } - n } { n - 1 } }
+$$
+
+式中： $C I$ 为一次性指标; $\lambda \operatorname* { m a x }$ 为判断矩阵最大特征值； $n$ 代表判断矩阵阶数。
+
+$$
+C R = \frac { C I } { R I }
+$$
+
+式中： $C R$ 为一次性比率; $C I$ 为一次性指标; $R I$ 为平均随机的一次性指标。
+
+第五步：由公式(3)确定权重 $\textstyle \mathbf { \textit { W } } _ { i }$ 。
+
+$$
+W _ { i } = \sqrt [ n ] { \prod _ { j = 1 } ^ { n } a _ { i j } }
+$$
+
+利用层次分析法，结合专家对各生态因子重要性程度打分意见，得出各评价指标因子权重及相关系数。经过计算,研究区内的 $C R = 0 . 0 0 6 ~ 8 ( ~ < 0 . 1 0 )$ 符合一致性检验表3。
+
+# 2.4 GIS建模及分析
+
+2.4.1缓冲区分析在ArcGIS软件中对锡尔河中游水系数据进行缓冲区范围设定，以恰尔达拉水库和锡尔河河流为实体中心，在其外围特定距离处生成相应多边形图层，
+
+2.4.2插值分析由于研究区内气象站点较少，为满足计算要求，本研究采用协同克里金插值法对积温和降水数据进行插值。协同克里格插值法的特点是基于变量之间的相关性，对空间内的一个或者多个变量要素进行空间插值,从而使差值结果更准确。2.4.3叠加分析GIS 叠加分析能够实现将多个栅格数据叠加计算[20]。本研究采用加权叠加分析功能，其目标是分析空间对象的空间特征和专属属性的相关性。计算生态敏感性数学模型，见公式(4)。
+
+$$
+S _ { i } = \sum _ { j = 1 } ^ { n } \bigl [ \operatorname { W } _ { j } \times C _ { i } ( j ) \bigr ]
+$$
+
+式中： $S _ { i }$ 为第 $i$ 个评价单元的综合值; $\textstyle \mathbf { \begin{array} { r l } \end{array} } \mathbf { \begin{array} { r l } \end{array} } \mathbf { \begin{array} { r l } \end{array} } \left. \mathbf { \begin{array} { r l } \end{array} } \right.$ 为第 $j$ 个指标的权重； $C _ { i } ( j )$ 为第 $\mathbf { \chi } _ { i }$ 个评价单元的第 $j$ 个指标的敏感性评价值。
+
+2.4.4统计分析运用ArcGIS 统计分析功能，对研究区的空间数据通过不同的建模方式进行数学计
+
+表2平均随机一次性指标  
+Tab.2Average random one-off index   
+表3各评价指标因子权重分配及系数  
+
+<html><body><table><tr><td>阶数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>RI</td><td>0</td><td>0</td><td>0.52</td><td>0.89</td><td>1.12</td><td>1.26</td><td>1.36</td><td>1.41</td><td>1.46</td><td>1.49</td></tr></table></body></html>
+
+Tab.3Weight distribution and coefficient of each evaluation index   
+
+<html><body><table><tr><td>目标层</td><td>准则层</td><td>单准则权重</td><td>指标层</td><td>指标层权重</td><td>单因子权重</td><td>λmax</td><td>CR</td></tr><tr><td rowspan="7">生态敏感性 (入max=3.007, CR=0.0068)</td><td>地形因素</td><td>0.087 9</td><td>高程</td><td>0.163 4</td><td>0.014 4</td><td>3.000 9</td><td>0.0088</td></tr><tr><td></td><td></td><td>坡度</td><td>0.539 6</td><td>0.047 5</td><td></td><td></td></tr><tr><td></td><td></td><td>坡向</td><td>0.297 0</td><td>0.0261</td><td></td><td></td></tr><tr><td>气候因素</td><td>0.242 6</td><td>积温</td><td>0.333 3</td><td>0.080 9</td><td>2.000 0</td><td>0.000 0</td></tr><tr><td></td><td></td><td>降水</td><td>0.666 7</td><td>0.161 8</td><td></td><td></td></tr><tr><td>生态环境</td><td>0.669 4</td><td>土地覆盖类型</td><td>0.102 6</td><td>0.068 7</td><td>4.060 5</td><td>0.022 7</td></tr><tr><td></td><td></td><td>植被覆盖度</td><td>0.507 6</td><td>0.339 8</td><td></td><td></td></tr><tr><td></td><td></td><td>水域缓冲区</td><td>0.324 3</td><td>0.2171</td><td></td><td></td></tr><tr><td></td><td></td><td>土壤类型</td><td>0.065 5</td><td>0.043 9</td><td></td><td></td></tr></table></body></html>
+
+算，统计各敏感性的区域面积及占比情况，从而对研究区生态敏感性进行分析及评价。
+
+# 3 结果与分析
+
+# 3.1单因子生态敏感性分析与评价
+
+3.1.1高程敏感性评价锡尔河中游地区包括平原、丘陵、山地等地貌景观。极度和高度敏感区主要分布在东南部山地，占总面积的 $2 9 . 6 2 \%$ 。原因是山区海拔较高，主要是涵养水源林地,农田用地分布较少。中度敏感区占总面积的 $5 2 . 5 8 \%$ ，主要分布在研究区中部、南部以及东北部沿河两岸的农田用地和有林地(图2a）。
+
+3.1.2坡度敏感性评价坡度表征地表单元陡缓的程度。地表物质流动与能量转换的规模与强度都因坡度不同而呈现出差异[21]。研究区中部、北部和西南部地势平缓，敏感性多为不敏感和轻度敏感。东南部山势起伏大，敏感性分级为极度敏感到高度敏感再到中度敏感。其中坡度小于 $5 ^ { \circ }$ 为不敏感区，占总面积 $9 6 . 3 9 \%$ ,在整个研究区内均有分布，是该区域内农业用地的主要场所（图2b）。
+
+3.1.3坡向敏感性评价坡向对太阳辐射、光照时长和降雨均有影响，从而对生态敏感性有影响[22]研究区内南坡受太阳辐射最多、光照时间最长，其次为东坡和西坡，最少为北坡。研究区以中度敏感为主，占总面积的 $7 2 . 0 7 \%$ ，原因是研究区内山体大都呈东西走向（图2c）。
+
+3.1.4积温敏感性评价积温是研究温度与生物体内有机物累积速度之间关系的指标[23]。一定条件下，温度与生物有机体发育速度呈正相关。研究区内积温分布由东北向西南递增，敏感性程度由东北至西南方向呈逐渐升高趋势。各级敏感区域受纬度因素影响，大致均匀分布。其中极度敏感区位于西南地区，积温超过 $4 0 0 0 \mathrm { ~ \textdegree C }$ （图2d）。
+
+3.1.5降水敏感性评价通过计算锡尔河中游附近19个气象站点年均降雨量信息，并进行空间插值（图2e）。年均降水量由西部地势低缓的平原向东部山区递增。受地形因素的影响，东南部山区年均降水量较高，极度敏感区占总面积的 $1 4 . 0 8 \%$ ；不敏感区和轻度敏感区占总面积的 $2 4 . 7 4 \%$ ，主要集中在地势平坦的锡尔河干流两岸。
+
+3.1.6土地覆盖敏感性评价由土地覆盖敏感性评价显示(图2f)，轻度和中度敏感区多分布在河流沿岸以及东部山区，土地覆盖类型主要为农田和草地，占总面积的 $7 2 . 7 0 \%$ ;极度敏感区土地覆盖类型主要是以恰尔达拉水库和锡尔河干流区域为主的水体，占总面积的 $4 . 9 7 \%$ ;高度敏感区主要分布在研究区东部的有林地区域，占总面积 $5 . 6 9 \%$ ;不敏感区主要分布在北部城镇和建设用地区域，占总面积的 $1 6 . 6 3 \%$ 。
+
+3.1.7植被覆盖度敏感性评价植被覆盖度是衡量地表植被多少的重要指标[24]。生态系统稳定性与植被覆盖度呈正相关关系。水域植被覆盖度低，极度和高度敏感区分布在恰尔达拉水库和锡尔河干流及其外围区域，占总面积 $2 . 3 6 \%$ ；中度敏感区遍布整个研究区，占总面积 $5 2 . 9 4 \%$ ;轻度敏感区主要位于锡尔河两岸及研究区东部和南部，占总面积$3 9 . 4 5 \%$ ；不敏感区主要位于研究区西部、北部的城镇和建设用地等区域,占总面积 $5 . 2 5 \%$ （图 $2 \mathrm { g }$ ）。
+
+![](images/392c9b03691f61c0788c9e914ce0ef77a49b8617bbb5ca73c801d5feacca595b.jpg)  
+图2锡尔河中游生态敏感性等级空间分布  
+Fig.2Spatial distribution of ecological sensitivity grade in the middle reaches of the Syr Darya River
+
+3.1.8水域缓冲区敏感性评价研究区内高度敏感区主要分布在距恰尔达拉水库 $5 0 0 \mathrm { ~ m ~ }$ 、锡尔河河流 $1 0 0 \mathrm { ~ m ~ }$ 范围内，占总面积的 $7 . 9 \%$ ;中度和轻度敏感区占总面积的 $1 1 . 0 1 \%$ ；不敏感区占总面积的$8 1 . 5 5 \%$ （图2h）。
+
+3.1.9 土壤敏感性评价土壤敏感性评价（图2i)。砂性土性质松软，颗粒间无黏聚力；钙积土主要发生在年降水量少、降水不均匀地区;潜育土发生在有机物存在、土壤水分饱和且地势低洼地区。土壤类型不同，则土壤质地不同，其土壤肥力特性不同,强降水时造成水土流失的程度也不同[25]。以潜育钙积土为主轻度敏感区主要分布在研究区东部和西部，占总面积的 $5 9 . 4 9 \%$ ；以水库为主体的极度敏感区占总面积的 $4 . 1 1 \%$ ;以人工土为主的高度敏感区分布在研究区南部，占总面积的 $0 . 3 5 \%$ ；以松软潜育土为主的中度敏感区主要在锡尔河干流两岸，占总面积的 $3 0 . 6 1 \%$ ;以简育砂性土为主的不敏感区分布在研究区西南部，占总面积的 $5 . 3 5 \%$ 。
+
+# 3.2生态敏感性综合分析
+
+综合考虑锡尔河中游自然环境特征，将以上9个单因子敏感性分析结果进行加权计算，得到锡尔河中游生态敏感性综合指数（图2j）。
+
+锡尔河中游生态敏感性的极度和高度敏感区主要集中在以恰尔达拉水库和锡尔河河流为主的水域及其外围地区，占总面积 $1 4 . 9 7 \%$ ，原因是此区域多为水体及其缓冲区、植被覆盖度低，生物多样性较为丰富，最终导致生态敏感性偏高，此区域为生态核心保护区，应严格控制大规模的水土资源开发，调整水土资源的利用方式，沿河建立生态景观带，提高生态系统多样性，确保水循环过程的完整性。
+
+中度敏感区占总面积 $2 9 . 9 7 \%$ ，多分布在研究区东部和东南部山区，植被覆盖度较低，土壤类型以潜育钙积为主、土地覆盖类型以草地为主，年均降水量较高。此区域为生态控制发展区，为防止汛期降水造成的水土流失，应保护山区水源涵养林，增加人工林的种植面积。
+
+轻度和不敏感区占总面积 $5 5 . 1 6 \%$ ，主要分布在研究区北部的人类聚集地、城镇及建设用地处，该区域内积温和降水量较小，土壤类型以松软潜育土为主，植被覆盖度较高以及海拔较低等因素导致该区域生态敏感性较低。此区域为适当发展区，在不破坏生态环境的前提下，可进行适宜强度的城镇开发性建设。
+
+# 4结论
+
+锡尔河中游生态敏感性由高到低分为5个等级，各敏感性分区占研究区总面积的 $4 . 3 9 \%$ 、$1 0 . 4 8 \% . 2 9 . 9 7 \% . 3 1 . 2 6 \%$ 和 $2 3 . 9 0 \%$ ，研究区主要处于轻度敏感和中度敏感之间，整体生态敏感性较高。
+
+锡尔河中游生态敏感性受植被覆盖度的影响最为强烈，其次是水域缓冲区。人类活动破坏了锡尔河流域水循环的完整性和统一性，大量拦水灌溉工程致使流域生态需水不足的矛盾频发。
+
+研究区生态敏感性受气候因素影响显著，受经纬度影响，敏感性与积温呈现出由东北向西南方向递增的规律;受地形影响，敏感性与降水呈现出由西北向东南方向递增的规律。敏感性程度与高程、坡度因子呈正相关关系，与坡向呈现出南坡方向高北坡方向低的分布规律。敏感性程度较低的区域分布在地势起伏较小，海拔偏低，自然景观资源丰富，人类活动干预程度较大的区域，主要在河流西部、西南
+
+部和东北部的平坦地区。
+
+# 参考文献（References）：
+
+[1］欧阳志云,王效科,苗鸿.中国生态环境敏感性及其区域差异 规律研究[J].生态学报,2000,20(1）:9-12.［Ouyang Zhiyun, Wang Xiaoke,Miao Hong.China's eco-environmental sensitivity and its spatial heterogeneity[J].Acta Ecologica Sinica,2000,20 (1) :9 -12.]   
+[2］赵荣钦,秦明周.中国沿海地区农田生态系统部分碳源/汇时 空差异[J].生态与农村环境学报,2007,23（2):1-6.［Zhao Rongqin,Qin Mingzhou.Temporo spatial variation of partial carbon source/sink of farm land ecosystem in coastal China[J].Journal of Ecology and Rural Environment,2007,23(2）:1-6.]   
+[3]欧阳志云,郑华,高吉喜,等.区域生态环境质量评价与生态功 能区划［M].北京：中国环境科学出版社,2009.［Ouyang Zhiyun,Zheng Hua,Gao Jixi,etal.Regional Ecological Assessment and Ecosystim Service Zoning[M].Beijing:China Environmental Press,2009.]   
+[4］李玉照,刘永,颜小品.基于 DPSIR 模型的流域生态安全评价 指标体系研究［J].北京大学学报（自然科学版）,2012,48 (6）:971-981.[Li Yuzhao,Liu Yong,Yan Xiaopin.A DPSIRbased indicator system for ecological security assessment at the basin scale[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2012,48(6) :971-981.]   
+[5］姚俊强,杨青,毛炜峰,等.气候变化和人类活动对中亚地区水 文环境的影响评估[J].冰川冻土，2016，38（1）：222－230 [Yao Junqiang,Yang Qing,Mao Weiyi,et al.Evaluation of the impacts of climate change and human activities on thehydrological environment in Central Asia[J]. Journal of Glaciology and Geocryology,2016,38(1) :222 -230.]   
+[6]Olli V,Matti K. The major Central Asian river basins: anassessment of vulnerability[J].International Journal of Water Resources Development,2012,28(3）:433-452.   
+[7］陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展[J].地理学报,2014,69(9）：1295-1304.［Chen Yaning,Li Zhi,Fan Yuting,etal.Research progress on the impact of climate change on water resources in the arid region of Northwest China[J].Acta Geographica Sinica,2014,69(9）:1295-1304.]   
+[8］陈亚宁,李宝富,陈忠升,等.中国西北干旱区水资源研究［M]. 北京：科学出版社,2014;36-39.［Chen Yaning,Li Baofu,Chen Zhongsheng,et al.Study on Water Resources in Arid Areas of Northwest China[M].Beijing:Science Press,2014:36-39.]   
+[9］陈曦,姜逢清,王亚俊,等.亚洲中部干旱区生态地理格局研究 [J].干旱区研究,2013,30（3）：385-390.[Chen Xi,Jiang Fengqing,Wang Yajun,etal. Characteristicsof theeco-gegraphical patternin arid land of central Asia[J].Arid Zone Research, 2013,30(3):385-390]   
+[10］胡汝骥,陈曦,姜逢清,等.人类活动对亚洲中部水环境安全的 威胁[J].干旱区研究,2011,28（2）:189-197.［Hu Ruji,Chen
+
+Xi,Jiang Fengqing,et al. Threat of human activities to hydrological regime in Central Asia[J].Arid Zone Research,2011,28（2）：
+
+189 -197.]   
+[11］阿布都米吉提·阿布力克木,葛拥晓,王亚俊,等.咸海的过 去、现在与未来[J].干旱区研究,2019,36(1)：7－18.[Ablekim Abdimijit,Ge Yongxiao Wang Yajun,et al. The past,present and feature of the Aral Sea[J].Arid Zone Research,2019,36 (1) :7 -18.]   
+[12]Wu Q,Li SJ,Liu S Q,et al.AHP method determining the weight of main factors controlling water inrush from coal seam floor and system research and development[J]. Coal Science & Technology, 2017,45(1) :154 -159.   
+[13］焦一强,刘一凡.中亚水资源问题:症结、影响与前景[J].新疆 社会科学,2013,23（1）:77-83.[Jiao Yiqinag,Liu Yifan.Water resources in Central Asia:crux,impact and prospect[J]. Xinjiang Social Science,2013,23（1）:77-83.]   
+[14]Yao JQ,Chen Y N.Trend analysis of temperature and precipitation in the Syr Darya Basin in Central Asia[J].Theoretical and Applied Climatology,2014,120:521-531.   
+[15］龚子同,陈志诚,张甘霖.世界土壤资源参比基础(WRB)：建立 和发展［J].土壤,2003,35（4）:271-278.［Gong Zitong,Chen Zhicheng,Zhang Ganlin.World reference base for soil resources （WRB）:establishment and development[J].Soils,20o3,35（4）： 271 -278.]   
+[16］匡洋,李浩,夏军,等.气候变化对跨境水资源影响的适应性评 估与管理框架[J].气候变化研究进展,2018,14(1):67-76. [Kuang Yang,Li Hao,Xia Jun,et al.Impacts of climate change on transboundary water resources andadaptation management framework [J].Advances in Climate Change Research,2018,14（1）:67- 76.]   
+[17］黄珺嫦,刘伟.生态敏感性分区中敏感性因子指标体系的确定 [J].现代农业科技,2006,35（19）：155－156.［Huang Junchang,Liu Wei.The determination of index system of sensitivity factors in ecological sensitivity zoning[J].Modern Agricultural Science and Technology,2006,35（19）:155-156.]
+
+[18]Bergengren J,Waliser D,Yung Y.Ecological sensitivity:a bio spheric view of climate change[J].Climatic Change,2O11,107： 433-457.
+
+[19］瞿英,路亚静，刘紫玉.基于AHP-DEMATEL 法的权重计算方 法研究[J].数学的实践与认识,2016,46（7）:38-46.[Qu Ying,Lu Yajing,Liu Ziyu.Research on the weight calculation method based on the AHP-DEMATEL method[J].Mathematics in Practice and Theory,2016,46(7）:38 -46.]   
+[20]Walke N,Reddy G PO,Maji AK,etal.GIS-based multicriteria overlay analysis in soil-suitability evaluation for cotton（ gossypium spp.）:a case study in the black soil region of Central India[J]. Computers & Geosciences,2012,41(2):108-118.   
+[21］殷格兰,邵景安,郭跃.南水北调中线核心区土地利用变化及 其生态环境响应研究[J].地球信息科学学报,2017,19（1）：59 -69.［Yin Gelan,Shao Jing'an,Guo Yue,et al. Study of land use change and eco-environmental response in the core area of midroute of south-to-north water transfer project[J].Journal of Geo-Information Science,2017,19(1):59 -69.]   
+[22］徐长林.坡向对青藏高原东北缘高寒草甸植被构成和养分特 征的影响[J].草业学报 2016,25（4）：26-35.[XuChanglin. Variations in vegetation composition and nutrient characteris related to an alpin meadow in the Northeast margin of the Qinghai-Tibet Plateau[J].Acta Prataculturae Sinica,2016,25(4):26 -35.]   
+[23］张雪琪,满苏尔·沙比提,马国飞.叶尔羌河平原绿洲气候变 化对粮食生产的影响[J].干旱区研究,2018,35（3）：705- 712.[Zhang Xueqi,Mansur Shabiti,Ma Guofei. Effects of climate change on grain production in plain oasis in the Yarkant River Basin[J].Arid Zone Research,2018,35(3):705-712.]   
+[24］裴志林,杨勤科,王春梅,等.黄河上游植被覆盖度空间分布特 征及其影响因素[J].干旱区研究，2019，36（3）：546-555. [Pei Zhilin,Yang Qinke,Wang Chunmei,et al.Spatial distribution of vegetation coverage and its affecting factors in the upper reaches of the Yellow River[J].Arid Zone Research,2019,36(3）:546- 555.]   
+[25]孙向阳.土壤学[M].北京：中国林业出版社,2005：114-124. [Sun Xiangyang.Soil Science [M].Beijing: China Forestry Publishing House,2005:114-124]
+
+# Analysis and evaluation of the ecological sensitivity in the middle reaches of the Syr Darya River based on GIS
+
+ZHANG Guang-chuang'， WANG Jie'，LIU Dong-wei1， Jilili Abuduwaili² (1.College of Ecology and Enwironment of Inner Mongolia University,Hohhot O1o021,Inner Mongolia,China; 2.Xinjiang Instituteof Ecologyand Geography,ChineseAcademyof Science,Urumqi 830o11,Xinjiang,China)
+
+Abstract：An ecological sensitivity evaluation index system was constructed for the middle reaches of the Syr Darya River byconsidering the elevation,slope,aspect,accumulated temperature,precipitation,land cover,egetationcoverage,water buffer zone,and soil ecological sensitivity as indicators.By combining this system with the analytic hierarchy process and thegeographic information system（GIS）spatial analysis function,evaluation indices were formulated for the middle reaches of the Syr Darya River.Spatial and comprehensive evaluation analyses denote thespatial distribution characteristics of ecological sensitivityin themiddle reaches of the Syr Darya River.The resultsshow thattheecological sensitivityof the middle reachesof the SyrRiver generallyreflect the spatial diferentiationcharacteristicsof thecentral highandlowambient.Theecological sensitivityofthe studyareais divided into fivegrades: extremely sensitive,highly sensitive,moderately sensitive,mildly sensitive,and insensitive,accounting for $4 . 3 9 \%$ ， $1 0 . 4 8 \%$ ， $2 9 . 9 7 \%$ ， $3 1 . 2 6 \%$ ,and $2 3 . 9 0 \%$ of the total study area,respectively. The areas were significantlyaffected by climatic factors,andthe accumulated temperature and precipitation factors resulted in a certain degreeof directionality with respect to theecological sensitivityof the study area.The degreeof ecological sensitivity of the study area was afected by the vegetation coverage,and the water body factors exhibited considerable influence.The sensitivities of the ecosystems in the extremely sensitive and highly sensitive areas represented by the Chaldala Reservoir and the main stream of the Syr River,respectively,were observed to be the highest.The degree of ecological sensitivityinthe studyarea canbe attributed to the differences in the landcoverand soil types.The areas with high ecological sensitivity were primarily distributed in reservoirs and rivers and their surrounding areas.In land cover types that were primarilyfarmland,the soil type was primarily soft subsoil.Theecological sensitivity of the study area was positively corelated with the elevation and slope factors.The slope direction shows alow distribution patern toward the south（slope direction）and a high distribution pattrn toward the north（slope direction).The comprehensive evaluation results are based onthe superimposed statistics of each sensitive area,which provide areference fortheecological environmental protection,land development,and utilizationof the middlereaches of the Syr Darya River.
+
+Key words:ecological sensitivity；sensitivity analysis；index system；middle reaches of the Syr Darya River; Central Asia

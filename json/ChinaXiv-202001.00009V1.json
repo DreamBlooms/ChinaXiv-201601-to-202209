@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "改革开放40a来新疆土地覆被变化的空间格局与特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈曦1,2,3,4，常存2.3，包安明2,3,4，吴世新23,4，罗格平2,4（1中国科学院中亚生态与环境研究中心,新疆乌鲁木齐830011；  \n2中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011;  \n3荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;4中国科学院大学,北京100010）)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：改革开放40a以来，新疆土地利用和地表覆被发生了巨大变化，在产生巨大社会经济效益的同时，也产生了许多生态与环境问题。为了给未来新疆土地利用、水资源开发及社会经济可持续发展国土空间规划提供依据，通过采用分区分层的决策树方法和向量相似度的变化检测方法，完成了新疆2015年、2010年、2000年、1990年、1975年的土地覆被 $1 : 1 0 0 0 0 0$ 矢量数据集，准确反演了过去40a（改革开放 $4 0 \\mathrm { ~ a ~ }$ )来新疆地表覆被变化过程，分析了新疆土地覆被变化与国家改革开放政策相互关系，从垦荒（1975—1990年）、农业资源开发（1990—2000年）、西部大开发（2000—2010年）、对口援疆(2010—2015年)4个阶段，阐述了国家政策力度和导向对土地覆被变化的影响。分析表明：新疆土地覆被变化由耕地开垦、人工表面增长的高速发展模式开始向兼顾生态文明建设的可持续发展方向转型,各主要地类的变化也由急剧发展转向基本可控。近40a新疆耕地面积增加了 $12 8 \\%$ （ $5 0 ~ 4 1 4 . 0 2 ~ \\mathrm { k m } ^ { 2 }$ ),新增耕地依照水土资源配置特征，遵循空间规律分布；人工表面（建设、交通、工矿用地)面积增加了 $19 7 \\%$ （ $^ { 7 } \\ 4 9 7 . \\ 1 1 \\ \\mathrm { k m } ^ { 2 }$ ），在2000年后增速明显,2010年后南疆增加幅度很大;1990年前林地面积呈现减少趋势，1990年后呈增加的态势，新增林地广泛分布在全疆天然林封育保护范围和天保工程实施区内；湿地1990 年前面积减少明显，1990—2000 年保持稳定，2000年后呈增加趋势；草地和其他类型的面积呈现持续减少态势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：新疆；土地覆被；时空格局；可持续发展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土地覆被是地表自然营造物和人工建筑物所覆盖诸要素的综合体，是自然环境与人类活动相互作用的中心,具有特定的时间和空间属性[1],是表征人类活动影响陆地自然生态系统的最直接信号，也是人类社会经济活动与自然生态过程之间相互作用的纽带。开展长时间序列土地覆被变化遥感监测，对国土资源开发，生态环境可持续发展以及适应气候变化具有重要的战略意义。国内已有多个团队依据中等分辨率卫星遥感数据，建成中国国家尺度土地利用/覆被变化数据库，如中国科学院地理科学与资源所的土地利用数据集和中国科学院数字地球与遥感所的土地覆被数据集[2-5] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆地处干旱半干旱区，生态系统脆弱，国家宏观政策对土地覆被和生态系统会产生很大影响，如改革开放、西部大开发、生态文明建设、美丽中国等，土地覆被和生态系统对人类活动响应非常敏感。众多学者已就新疆境内的土地覆被时空变化展开研究，吴世新、黄凤等学者针对短时期新疆土地利用变化特征开展工作[6-8],评价短期内新疆主要类型的总体变化特征；张军峰、郭鹏等学者针对部分感兴趣的研究地点[9-12],在局部尺度范围评估石河子、焉耆、孔雀河流域的土地覆被变化特征;乔木、许雪爽等学者就部分地类的时空变化展开研究[13-17],重点分析不同时期新疆耕地、建设用地等土地类型的变化特征;黄粤、王世飞等学者则从重大生态工程实施效益角度开展评估工作[18-20],掌握塔里木河生态输水前后的土地覆被变化情况。总体来说，大区域中高分辨率土地覆被遥感解译工作量大，全地类遥感解译精度和分类体系一致性难以保证，开展新疆长时间序列土地覆被变化工作难度依然很大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为准确描述新疆地表覆被和生态环境变化过程，评估过去40a新疆人类活动和土地利用变化，制定未来新疆可持续发展国土空间规划，自2010年起，我们在全疆范围内多批次采集验证点，构建解译标志库和样本库，采用面向对象的决策树分类方法与变化检测的方法，基于LandsatTM、OLI、MSS及国产HJ等传感器影像，构建长时间序列的中等分辨率 $( 3 0 \\mathrm { ~ m } )$ 新疆遥感影像集，完成了新疆2015年、2010年、2000年、1990年和1975年的土地覆被$1 : 1 0 0 \\ 0 0 0$ 矢量数据集。基于该数据集，分析近40a新疆土地覆被变化的基本时空特征，并对比新疆1975—1990 年、1990—2000 年、1990—2000 年、2010—2015年等4个时期内的土地覆被空间格局变异过程，采用动态度指标分析新疆重点地类的变化特征。揭示近40a新疆土地覆被变化的基本特征，评估新疆国土空间开发过程的得失，为其他地学动态变化学科提供有价值的科学信息，并为世界其他水资源匮乏国家或地区提供新疆的发展经验和参考案例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 遥感解译方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感分类体系在参考LandCoverClassificationSystem(LCCS）和 The Intergovernmental Panel on Cli-mateChange(IPCC)分类体系的基础上，结合土地覆被变化实际需求制定，与中国科学院ChinaCover数据集所用分类体系一致[21]，包含6大类40个二级类。利用多源、多时相遥感影像，采用分区分层的决策树方法，首先完成2010年土地覆被数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分区分层的决策树分类方法，首先基于e-Cog-nition遥感解译软件，完成面向对象多尺度影像分割。并通过叠加分析海拔、降水、气温、土壤、植被、地貌等单要素图，得到新疆地学大尺度分区地块的一级类解译结果,在具有地学特征的大尺度分割单元基础上，继续以影像光谱特征作为分类评判依据，依次分层得到各二级类的解译结果。这种方法体系将地类组合化繁为简、逐层剥离，能得到精度可控、效率较高的分类结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在2010 年土地覆被数据集基础上，使用向量相似度的变化检测方法，依次生成2000年、1990年、1975年和2015年土地覆被产品，如图1。通过计算每个对象向量相似度，识别可能的变化区域，提取未变化区域 $10 \\%$ 的土地覆被类型图斑，作为历史样本训练规则集，并计算变化图斑与不同土地覆被类型光谱特征向量距离，从而确定变化图斑的土地覆被类型。我们共在2010—2011年份采集野外样本点9634个，其空间分布如图 $2 \\mathrm { a }$ 。随机抽样 $70 \\%$ 的样本点用做训练解译规则集，剩余 $30 \\%$ 用作验证，先后进行5次大规模的数据修改，最终产品的二级精度达到93%[1]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2土地覆被变化度量与制图",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于ArcGIS空间叠加分析功能，计算不同年代间主要土地覆被类别的转移矩阵，可定量描述土地覆被动态变化过程。在此基础上，为清晰显示土地覆被变化的空间分布特征，将动态变化图进行 $1 ~ \\mathrm { k m }$ 大小的矢量栅格切割，计算每个栅格内各土地类型的本底面积及类型间转换面积，进而生成每种土地覆被变化类型的 $1 ~ \\mathrm { k m }$ 栅格数据[4]。这种预处理方法在不改变面积精度的同时，增强了成果图件的可视效果。本文将使用土地动态度指标 $s$ 度量土地覆被变化的速率，动态度按公式(1)计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ~ = ~ \\Big \\{ ~ \\sum _ { i j } ^ { n } ~ \\Big ( \\frac { \\triangle S _ { i - j } } { S _ { i } } \\Big ) ~ \\Big \\} ~ \\times \\frac { 1 } { t } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { i }$ 为监测开始时段第 $i$ 类土地利用类型总面积； $\\bigtriangleup S _ { i - j }$ 为监测开始至监测结束时段内第 $i$ 类土地利用类型转换为其它类土地利用类型面积总和； $\\mathbf { \\chi } _ { t }$ 为时间段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文后续将按照北疆、南疆、东疆(界限范围如图2b)的分区对土地覆被变化特点展开研究。东疆主要指吐鲁番和哈密地区，有别于新疆大部分区域，东疆不以农业作为支柱产业，其地处“一带一路”核心区交通动脉枢纽，是新疆东联西出的重要物流通道，也是新疆的重要能源与矿产基地，具备较好的后发优势，分析其土地覆被历史变化过程特征具有较大意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 2015年新疆土地覆被格局",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆维吾尔自治区位于欧亚大陆中部，中华人民共和国西北部，地处 $7 3 ^ { \\circ } 4 0 ^ { \\prime } \\sim 9 6 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E }$ · $3 4 ^ { \\circ } 2 5 ^ { \\prime }$ \\~$4 9 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N }$ 之间，面积约占全国陆地总面积的 $1 / 6$ 。受“三山夹两盆”的地貌格局所决定，新疆土地覆被类型呈现出多样性特征，境内分布着33种二级地物类型（图2b），基本涵盖了除海洋特征类型外的所有类型。其空间分布主要受水热条件影响，总体遵循自然地带性空间规律，较好的体现出垂直梯度分布特征及纬向地带性，受人类活动干扰影响，部分地区也呈现出异质性特点。绿洲区是新疆干旱区的精华地带，大多数经济社会活动发生于此，因此是新疆土地类型较破碎的区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/837cfd36beb911184d63d4c9b21eb1bbd5993a1c8b43ac9db8aaac72c82a29d3.jpg",
+        "img_caption": [
+            "陈曦等：改革开放40a来新疆土地覆被变化的空间格局与特征 ",
+            "图1长时序新疆遥感及土地覆被数据集"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f6df6cf4025e652a926bb20df405ac805f96afabfc61953caa7dc6daf1ed875.jpg",
+        "img_caption": [
+            "Fig.1Long-term Xinjiang remote sensing and land cover data set ",
+            "图2土地覆被样点分布(a)和2015年土地覆被二级类现状图(b)Fig.2Distribution of land cover samples(a)and status of land cover in 2015(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年新疆土地覆被总体以其他类型为主，草地和耕地次之，林地、湿地和人工表面面积较少，各类面积统计见表1。其中其他类型所占比例最大，为 $1 ~ 2 2 3 ~ 4 1 5 . 4 2 ~ \\mathrm { k m } ^ { 2 }$ ，占总面积的 $7 4 . 9 8 \\%$ ,主要分布在塔里木盆地、准噶尔盆地、吐哈盆地内的沙漠、戈壁,以及其他地区的荒漠中。草地面积其次，为$2 2 2 ~ 4 5 7 . 4 1 ~ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $1 3 . 6 3 \\%$ ,主要分布北疆山地及全疆的河谷两岸、湖泊和水库周围、扇缘潜水溢出带以下的低洼地带，天山南坡、昆仑山北坡及藏北高原的中、高山区也有分布。耕地面积次之，为$8 9 ~ 6 4 2 . 2 5 ~ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $5 . 4 9 \\%$ ,主要分布在全疆主要山前冲积平原，部分耕地在河流沿岸线性分布。林地面积为 $6 2 3 8 1 . 7 3 \\mathrm { k m } ^ { 2 }$ ，占总面积的$3 . 8 2 \\%$ ,主要分布在北疆各山地中山带的阴坡,山区河谷和平原河谷的沿岸，及平原的人工和天然绿洲。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天山南坡和昆仑山西段北坡也有少量分布。湿地面积为 $2 2 ~ 5 4 0 . 7 2 ~ \\mathrm { k m } ^ { 2 }$ ，占总面积的 $1 . 3 8 \\%$ ,主要分布在全疆主要河流、湖泊、水库/坑塘及周边。人工表面面积最小，为 $1 1 ~ 2 9 3 . 0 1 ~ \\mathrm { k m } ^ { 2 }$ ,占总面积的 $0 . 6 9 \\%$ ，主要分布在全疆主要县市建成区及乡镇居民地附近。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从新疆2015年地类面积的分区汇总（表1)来看，林地主要分布在南疆，所占面积比例为 $6 0 . 2 0 \\%$ ，其次是北疆,占比 $3 6 . 9 9 \\%$ ,东疆仅占比 $2 . 8 1 \\%$ ；草地主要分布在北疆，占比57. $04 \\%$ ，南疆占比$3 8 . 0 9 \\%$ ,东疆占比 $4 . 8 6 \\%$ ;耕地 $5 0 . 3 7 \\%$ 分布在北疆， $4 5 . \\ 1 \\%$ 在南疆;湿地主要分布在南疆，占比$7 4 . 4 9 \\%$ ,北疆占比 $2 4 . 6 4 \\%$ ；人工表面北疆占比53.$5 9 \\%$ ,南疆占比 $3 6 . 6 6 \\%$ ,东疆占比 $9 . 7 5 \\%$ ;其他类型南疆占比 $6 9 . 5 5 \\%$ ,东疆和北疆相差不大，占比分别为 $1 5 . 5 6 \\%$ 和 $1 4 . 8 8 \\%$ 。从各分区的地类组成比例来看，各区均是其他类型面积最大，草地、耕地、林地等类型次之，人工表面和湿地面积最小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3近40a土地覆被动态变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依据5期土地覆被面积统计（表2）。自1975—2015年,新疆耕地和人工表面呈现增加趋势,其中耕地面积增加 $5 0 ~ 4 1 4 . 0 2 ~ \\mathrm { k m } ^ { 2 }$ ，人工表面面积增加$7 ~ 4 9 7 . 1 1 ~ \\mathrm { k m } ^ { 2 }$ ;其他类型和草地呈减少趋势,其中其他类型减少 $3 5 6 4 9 . 0 7 \\mathrm { k m } ^ { 2 }$ ，草地面积减少$3 2 ~ 7 6 6 . 0 9 ~ \\mathrm { k m } ^ { 2 }$ ,林地和湿地面积增加 $9 ~ 4 8 8 . 7 0 ~ \\mathrm { k m } ^ { 2 }$ 和 $9 5 7 . 5 9 ~ \\mathrm { k m } ^ { 2 }$ ,但呈现出先减少后增加的特征，转折时间点发生在1990年前后。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将1975—2015 年新疆土地覆被变化时空格局特征分成4个时段进行分析，3个片区的土地覆被的变化格局表现出不同特征。如前文所述，空间变化格局图可提供变化类型发生的位置，但由于进行了空间概化处理，真实的变化面积以统计表数据为准，1975—2015年间4期土地覆被类型转换特征，详见表 $3 \\sim 6$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1975一1990 年土地覆被变化(图3a)的主要种类是各种类型转变为耕地，其中草地转变为耕地$9 \\ 1 9 6 . 9 9 \\ \\mathrm { k m } ^ { 2 }$ ,在新疆早期各垦区均有发生，但转变面积的 $8 1 . 6 3 \\%$ 发生在北疆，主要分布天山北坡、塔城和阿勒泰地区；其他类型和林地转变为耕地分别是 $2 \\ 5 6 6 \\ \\mathrm { k m } ^ { 2 }$ 和 $1 { \\mathrm { ~ 8 0 6 . ~ 1 1 ~ } } \\mathrm { ~ k m } ^ { 2 }$ ,其中 $7 0 . 9 2 \\%$ 和$9 1 . 5 9 \\%$ 发生在南疆，主要分布在喀什河、叶尔羌河、阿克苏河和塔里木河中下游流域，特别是兵团第一师、第二师、第三师的团场附近;另外耕地、草地转变为人工表面的面积分别为 $1 1 2 5 . 4 6 { \\mathrm { ~ k m } } ^ { 2 }$ 、738.13$ { \\mathrm { k m } } ^ { 2 }$ ,耕地转变区域主要分布在南北疆的大中城市(乌鲁木齐、昌吉、喀什、莎车、叶城)附近,草地转变区域主要发生在北疆原始绿洲外围区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e954989bc62fe2b1c60e51274fe7c00eff97f347ed4e140a89a866daf4595b31.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>林地</td><td>草地</td><td>耕地</td><td>湿地</td><td>人工表面</td><td>其他</td><td>总计</td></tr><tr><td>北疆</td><td>23 074.4</td><td>126 893.1</td><td>46 946.0</td><td>5 554.8</td><td>6 052.4</td><td>182 095.1</td><td>390 615.8</td></tr><tr><td>南疆</td><td>37 554.9</td><td>84 743.4</td><td>40 427.0</td><td>16 791.3</td><td>4 139.9</td><td>850 922.7</td><td>1 034 579.1</td></tr><tr><td>东疆</td><td>1 752.5</td><td>10 820.9</td><td>2 269.2</td><td>194.6</td><td>1 100.8</td><td>190 397.6</td><td>206 535.6</td></tr><tr><td>全疆</td><td>62 381.7</td><td>222 457.4</td><td>89 642.2</td><td>22 540.7</td><td>11 293.0</td><td>1 223 415.4</td><td>1 631 730.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca5113489ec9514bf89987ee74887c74254a56d502b7d745d2223c51fb406413.jpg",
+        "table_caption": [
+            "表12015年新疆土地覆被分区面积／kmTab.1 Land cover areas of Xinjiang in $2 0 1 5 / \\mathrm { ~ k m } ^ { 2 }$ ",
+            "表2新疆土地覆被动态变化面积统计 $/ \\left| \\mathbf { k m } ^ { 2 } \\right.$ ",
+            "Tab.2Statistics of dynamic land cover area change in Xinjiang ／km² "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类型</td><td colspan=\"6\">面积／km²</td><td colspan=\"2\">1975—1990 年</td></tr><tr><td>1975年</td><td>1990年</td><td>2000年</td><td></td><td>2010年</td><td>2015年</td><td>面积变化 /km²</td><td>变化比例 /%</td></tr><tr><td>林地</td><td>52 893.03</td><td>50 896.65</td><td>53 632.78</td><td>58 771.31</td><td></td><td>62 381.73</td><td>-1 996.38</td><td>-3.77</td></tr><tr><td>草地</td><td>255 223.53</td><td>244 747.78</td><td>235 787.64</td><td></td><td>225 470.33</td><td>222 457.44</td><td>- 10 475.75</td><td>-4.10</td></tr><tr><td>耕地</td><td>39 228.15</td><td>51 660.46</td><td>65 880.21</td><td></td><td>82 428.57</td><td>89 642.17</td><td>12 432.31</td><td>31.69</td></tr><tr><td>湿地</td><td>21 583.11</td><td>20 004.79</td><td>20 430.76</td><td></td><td>22 421.90</td><td>22 540.70</td><td>-1 578.32</td><td>-7.31</td></tr><tr><td>人工表面</td><td>37 95.87</td><td>6 467.08</td><td>7 646.55</td><td></td><td>9 723.59</td><td>11 292.98</td><td>2 671.21</td><td>70.37</td></tr><tr><td>其它</td><td>1 259 006.48</td><td>1 258 953.41</td><td>1 248 352.24</td><td>1 232 914. 73</td><td></td><td>1 223 415.40</td><td>-53.07</td><td>0.00</td></tr><tr><td rowspan=\"2\">类型</td><td colspan=\"2\">1990—2000 年</td><td colspan=\"2\">2000—2010 年</td><td colspan=\"2\">2010—2015年</td><td colspan=\"2\">1975—2015 年</td></tr><tr><td>面积变化 /km²</td><td>变化比例 /%</td><td>面积变化 /km²</td><td>变化比例 /%</td><td>面积变化 /km²</td><td>变化比例 /%</td><td>面积变化 /km²</td><td>变化比例</td></tr><tr><td>林地</td><td>2 736.13</td><td>5.38</td><td>5 138.52</td><td>9.58</td><td>3 610.42</td><td>6.14</td><td>9 488.70</td><td>/% 17.94</td></tr><tr><td>草地</td><td>-8 960.14</td><td>-3.66</td><td>- 10 317.31</td><td>-4.38</td><td>-3 012.89</td><td>-1.34</td><td>-32 766.09</td><td>- 12.84</td></tr><tr><td>耕地</td><td>14 219.75</td><td>27.53</td><td>16 548.37</td><td>25.12</td><td>7 213.60</td><td>8.75</td><td>50 414.02</td><td>128.51</td></tr><tr><td>湿地</td><td>425.96</td><td>2.13</td><td>1 991.14</td><td>9.75</td><td>118.81</td><td>0.53</td><td>957.59</td><td>4.44</td></tr><tr><td>人工表面</td><td>1 179.47</td><td>18.24</td><td>2 077.04</td><td>27.16</td><td>1 569.39</td><td>16.14</td><td>7497.11</td><td>197.51</td></tr><tr><td>其它</td><td>- 10 601.17</td><td>-0.84</td><td>- 15 437.51</td><td>-1.24</td><td>-9 499.33</td><td>-0.77</td><td>-35 591.07</td><td>-2.83</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b71020fa7937148f37db20bc12c53454f04c4afb0fde86312bb52c6fb1e9519.jpg",
+        "table_caption": [
+            "Tab.3Land cover conversion matrix by districts from 1975 to $\\mathbf { 1 9 9 0 } / \\mathbf { \\ k m } ^ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域转移 类型</td><td>草地→ 耕地</td><td>其他→ 耕地</td><td>林地→ 耕地</td><td>耕地→ 人工表面</td><td>草地→ 人工表面</td><td>其他→ 人工表面</td><td>湿地→ 草地</td><td>湿地→ 其他</td><td>草地→ 其他</td></tr><tr><td>北疆</td><td>7 507.73</td><td>571.61</td><td>149.88</td><td>480.85</td><td>546.18</td><td>297.44</td><td>151.22</td><td>27.22</td><td>47.13</td></tr><tr><td>南疆</td><td>1 497.02</td><td>1 820.57</td><td>1 654.90</td><td>643.25</td><td>174.18</td><td>267.36</td><td>441.87</td><td>496.86</td><td>234.93</td></tr><tr><td>东疆</td><td>192.24</td><td>173.99</td><td>1.33</td><td>1.35</td><td>17.76</td><td>101. 13</td><td>2.61</td><td>26.17</td><td>44.69</td></tr><tr><td>总计</td><td>9 196.99</td><td>2 566.17</td><td>1 806.11</td><td>1 125.46</td><td>738.13</td><td>665.93</td><td>595.71</td><td>550.25</td><td>326.75</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b88e6061d56280ec47282ce12022784cdbc9edb470d9fca45dc51dc55400ef5.jpg",
+        "table_caption": [
+            "表31975—1990年各区土地覆被转移矩阵／ $\\mathbf { k m } ^ { 2 }$ ",
+            "表52000—2010年各区土地覆被转移矩阵／km"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域转移 类型</td><td>草地→ 耕地</td><td>其他→ 耕地</td><td>其他→ 林地</td><td>其他→ 草地</td><td>其他→ 湿地</td><td>草地→ 湿地</td><td>林地→ 耕地</td><td>其他→ 人工表面</td><td>草地→ 林地</td></tr><tr><td>北疆</td><td>5 718.27</td><td>1 218.82</td><td>1 511.89</td><td>255.12</td><td>326.09</td><td>165.64</td><td>61.17</td><td>191.33</td><td>24.10</td></tr><tr><td>南疆</td><td>2 063.81</td><td>3 824.28</td><td>1 606.94</td><td>1 029.85</td><td>499.03</td><td>732.97</td><td>720.56</td><td>368.77</td><td>152.26</td></tr><tr><td>东疆</td><td>240.55</td><td>238.74</td><td>30.44</td><td>255.12</td><td>326.09</td><td>165.64</td><td>0.00</td><td>193.09</td><td>107.74</td></tr><tr><td>总计</td><td>8 022.63</td><td>5 281.84</td><td>3 149.26</td><td>1 540.08</td><td>1 151.22</td><td>1 064.25</td><td>781.73</td><td>753.19</td><td>284.10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/43496bdb48647136bfcf50427e3c538184756911c0e8067b72f0e97a2d59fa52.jpg",
+        "table_caption": [
+            "Tab.4Land cover conversion matrix by districts from 1990 to $2 0 0 0 \\mathrm { ~ / ~ } \\mathrm { k m } ^ { 2 }$ ",
+            "Tab.5Land cover conversion matrix by districts from 2oo0 to $2 0 1 0 / \\mathrm { ~ k m } ^ { 2 }$ ",
+            "表62010—2015年各区土地覆被转移矩阵／ $\\mathbf { k m } ^ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域转移 类型</td><td>草地→ 耕地</td><td>其他→ 林地</td><td>其他→ 耕地</td><td>林地→ 耕地</td><td>草地→ 湿地</td><td>其他→ 草地</td><td>其他→ 湿地</td><td>其他→ 人工表面</td><td>耕地→ 人工表面</td></tr><tr><td>北疆</td><td>6182.8</td><td>1 333.6</td><td>2 832.29</td><td>748.41</td><td>464.58</td><td>485.23</td><td>195.09</td><td>271.89</td><td>445.46</td></tr><tr><td>南疆</td><td>1 600.07</td><td>5 902.44</td><td>3 757.20</td><td>2 210.77</td><td>1 051.16</td><td>578.05</td><td>1 016.38</td><td>299.28</td><td>189.03</td></tr><tr><td>东疆</td><td>222.55</td><td>155.81</td><td>264.81</td><td>17.62</td><td>2.43</td><td>206.98</td><td>2.65</td><td>208.09</td><td>80.39</td></tr><tr><td>总计</td><td>8 005.42</td><td>7 391.85</td><td>6 854.3</td><td>2 976.8</td><td>1 518.16</td><td>1 270.26</td><td>1 214.12</td><td>779.26</td><td>714.89</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd6918bc300b91b7fc98a6da04906fd74cc2294cc9200cc425fc93fec15e89a8.jpg",
+        "table_caption": [
+            "表41990—2000年各区土地覆被转移矩阵／ $\\mathbf { k m } ^ { 2 }$ ",
+            "Tab.6Land cover conversion matrix by districts from 2010 to $2 0 1 5 / \\mathrm { ~ k m } ^ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域转移</td><td>其他→</td><td>其他→</td><td>草地→</td><td>林地→</td><td>其他→</td><td>耕地→</td><td>其他→</td><td>湿地→</td><td>湿地→</td></tr><tr><td>类型</td><td>林地</td><td>耕地</td><td>耕地</td><td>耕地</td><td>人工表面</td><td>人工表面</td><td>湿地</td><td>林地</td><td>草地</td></tr><tr><td>北疆</td><td>2 280.94</td><td>1 484.72</td><td>2 107.13</td><td>74.85</td><td>530.58</td><td>406.07</td><td>98.17</td><td>21.41</td><td>68.62</td></tr><tr><td>南疆</td><td>2 151.10</td><td>1 934.98</td><td>520.63</td><td>1 477.23</td><td>249.91</td><td>321.81</td><td>585.19</td><td>458.85</td><td>226.85</td></tr><tr><td>东疆</td><td>7.40</td><td>102.81</td><td>52.91</td><td>5.83</td><td>133.85</td><td>2.92</td><td>26.57</td><td>0.00</td><td>0.66</td></tr><tr><td>总计</td><td>4 439.44</td><td>3 522.50</td><td>2 680.67</td><td>1 557.91</td><td>914.34</td><td>730.8</td><td>709.93</td><td>480.26</td><td>296.13</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1990—2000 年土地覆被变化（图3b)的主要种类是草地、其他类型转变为耕地，面积分别是$8 \\ 0 2 2 . 6 3 \\ \\mathrm { k m } ^ { 2 }$ 和 $5 2 8 1 . 8 4 \\ \\mathrm { k m } ^ { 2 }$ ,其中 $7 1 . 2 7 \\%$ 的草地转变区域集中在北疆绿洲(天山北坡、塔城)边缘区， $7 2 . 4 1 \\%$ 的其他类型转变区域集中在南疆孔雀河、喀什河、叶尔羌河流域绿洲边缘;其他类型转变为林地、草地、湿地、人工表面面积分别为3149.26$\\mathbf { k m } ^ { 2 } \\ 、 1 \\ 5 4 0 . 0 8 \\ \\mathbf { k m } ^ { 2 } \\ 、 1 \\ 1 5 1 . 2 2 \\ \\mathbf { k m } ^ { 2 }$ 和 $7 5 3 . 1 9 ~ \\mathrm { k m } ^ { 2 }$ ,其中转变林地区域分布在北疆古尔班通古特沙漠腹地和南疆民丰昆仑山南麓的灌木林附近，转变草地区域分布在天山南北坡山前荒漠地带，转变湿地区域主要集中在北疆艾比湖、玛纳斯湖流域,南疆博斯腾湖、台特玛湖、昆仑山高原众小湖、和田河、叶尔羌流域及东疆的巴里坤湖、淖毛湖流域。转变人工表面区主要分布集中在东疆连霍高速和兰新铁路沿线、南疆沙漠公路、及其他基础设施建设的区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da00e19e1bd6142f6ace9e8e3497816434653d7ce3031b843bbbfd06e9ddf5f2.jpg",
+        "img_caption": [
+            "图3新疆主要土地覆被转变空间分布",
+            "Fig.3Spatial distribution of major land cover changes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2000一2010年土地覆被变化（图3c)的主要种类是草地、其他、林地转变为耕地，面积分别是$8 ~ 0 0 5 . 4 2 ~ \\mathrm { k m } ^ { 2 } \\ 、 6 ~ 8 5 4 . 3 ~ \\mathrm { k m } ^ { 2 }$ 和 $2 \\ 9 7 6 . 8 \\ \\mathrm { k m } ^ { 2 }$ ,草地转变区域的 $7 7 . 2 3 \\%$ 集中在北疆，除分布在绿洲区外围，还少量分布在绿洲区内部，其他类型转变区域分布在南北疆绿洲内部，林地转变主要分布在南疆阿克苏河、渭干河流域绿洲的外围灌木林区域。其他类型转变林地 $^ { 7 } \\ 3 9 1 . 8 5 \\ \\mathrm { k m } ^ { 2 }$ ,主要分布在塔河中下游、车尔臣河及叶尔羌河下游流域。草地、其他类型转变为湿地面积分别是 $1 \\ 5 1 8 . \\ 1 6 \\ \\mathrm { k m } ^ { 2 }$ 和1214.12$ { \\mathrm { k m } } ^ { 2 }$ ,草地转变区域主要分布在台特玛湖流域和昆仑山山区，其他类型转变主要在分布南疆塔河主河",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "道附近区域。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2010一2015年土地覆被变化（图3d)的主要种类是其他类型转变为林地,面积是 $4 ~ 4 3 9 . 4 4 ~ \\mathrm { k m } ^ { 2 }$ ，广泛分布在全疆“三北\"防护林体系的人工造林区，及植被保护与恢复工程实施区内。其他类型、草地、林地转变耕地面积分别为 $3 \\ 5 2 2 . 5 \\ \\mathrm { k m } ^ { 2 } \\setminus 2 \\ 6 8 0 . 6 7 \\ \\mathrm { k m } ^ { 2 }$ 和 $1 ~ 5 5 7 . 9 1 ~ \\mathrm { k m } ^ { 2 }$ ,其中其他类型与草地零散分布于全疆已有绿洲内部，林地转变区域主要分布在南疆阿克苏地区。其他类型和耕地转变为人工表面面积分别是 $9 1 4 . 3 4 ~ \\mathrm { k m } ^ { 2 }$ 和 $7 3 0 . 8 ~ \\mathrm { k m } ^ { 2 }$ ,其他类型转变区域分布在天山北坡沿线，耕地转变类型广泛分布全疆主要县市建成区附近。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4主要土地覆被类型的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 耕地变化特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新疆耕地变化和经济社会发展息息相关，是绿洲区乃至全疆最重要的地类，新疆耕地用水占全疆总用水量的 $9 2 \\%$ ,耕地的可持续发展影响和制约新疆的长治久安和经济发展水平。从近40a新疆耕地空间格局变化（图4、图5），可以看出耕地的扩张规模和空间分布随着年代变化体现出不同特征。1975—2015年耕地面积持续增多，共增加50414.$0 2 ~ \\mathrm { k m } ^ { 2 }$ ,其中 1975—1990 年间增加 $1 2 ~ 4 3 2 . 3 1 ~ \\mathrm { k m } ^ { 2 }$ ，主要分布在全疆水资源丰富的流域和冲积平原上。1990—2000 年间新增耕地 $1 4 2 1 9 . 7 5 ~ \\mathrm { k m } ^ { 2 }$ ,主要分布在水土资源配置良好绿洲外围的草地或荒漠交错带内。2000—2010 年新增耕地 $1 6 5 4 8 . 3 7 ~ \\mathrm { k m } ^ { 2 }$ ,少量集中连片分布在南疆巴州孔雀河流域和北疆北屯附近,其余耕地增加在绿洲内部。2010—2015 年新增耕地 $^ { 7 } 2 1 3 . 6 ~ \\mathrm { k m } ^ { 2 }$ ,零散分布在绿洲内部区域，这说明耕地首先会集中分布在水土资源搭配较好的中心地区，再增加在水土配置良好的绿洲外围。随着滴灌和地膜等节水技术的发展，新增耕地会集中分布在土地资源丰富，但欠缺水资源的地区。当耕地开发接近饱和时，新增耕地会零散出现在水资源丰富，但土地质量不佳的绿洲内部,开发这样土地的资金和技术投入成本可能会增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合耕地动态度分析(图4b)得知，虽然全疆耕地面积仍然增加，但增速在1990—2000 年间达到顶峰后已经逐步回落，说明在水土资源可承载能力和宏观土地管理趋势的综合影响下，新疆耕地扩张势头已经放缓。东疆受可利用土地资源总量限制，在1990一2000年达到顶峰后，后面两个时段减速明显。北疆地区多年增速稳定，耕地规模有序扩大，但在 2010—2015 年间降速明显，甚至低于东疆水平。南疆特别是三地州地区，农业依然是地方支柱产业，这可能是南疆耕地资源开发依然保持高速的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e10c1403482d4e84dea503a840ca896a8d330c4201d1fea5e0fb153eb800e84d.jpg",
+        "img_caption": [
+            "图4新疆主要类型的变化面积 $\\left( \\mathbf { \\Pi } _ { \\mathbf { a } , \\mathbf { c } , \\mathbf { e } } \\right)$ 及速率 $( \\mathbf { b } , \\mathbf { d } , \\mathbf { f } )$ 统计Fig.4Change area(a、c、e)and rate $( \\mathbf { b } , \\mathbf { d } , \\mathbf { f } )$ of major types"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2人工表面变化特征 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "人工表面是新疆工业化、城市化及现代化进程的核心区域，从近 $4 0 \\mathrm { ~ a ~ }$ 新疆人工表面空间格局变化（图6)来看，北疆、东疆整体水平优于南疆。1975—2015年期间，人工表面共增加 $1 1 ~ 2 9 2 . 9 8 ~ \\mathrm { k m } ^ { 2 }$ ,其中 1975—1990 年间增加 $3 ~ 7 9 5 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ,主要分布在各县市的建成区附近，及全疆主要交通干线的修建。1990—2000年间面积增加 $6 ~ 4 6 7 . 0 8 ~ \\mathrm { k m } ^ { 2 }$ ,主要分布在各县市建成区附近，特别是塔里木石油开发带动巴州的建设。2000—2010 年间面积增加 $7 \\ 6 4 6 . 5 4 \\ \\mathrm { k m } ^ { 2 }$ ,主要分布在东疆和北疆交通基础设施和北疆主要县市建成区的建设。2010—2015 年面积增加9 $7 2 3 . 5 9 \\ \\mathrm { k m } ^ { 2 }$ ,主要分布在天山北坡主要县市(乌鲁木齐、昌吉、伊宁)的建成区、准东及南疆主要县市建成区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合人工表面动态度分析(图4d)得知，全疆人工表面总体增速稳中有升，发展可控，1975一1990年间增速较快是由于1975年人工表面面积基数较小所致。仅东疆增速在2000—2010年间达到顶峰，这可能是由于在2000年国家西部大开发战略提出后，在该区域大力建设交通基础设施有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/94961ed2882c01c7bdf7d10ddf6a1240538b98a25f124c46f1a49a13f44d0337.jpg",
+        "img_caption": [
+            "图51975—2015 年新疆耕地变化空间分布Fig.5Spatial distribution of cultivated land changefrom 1975 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c431e184602fc41282313cb56a338261c1e39c97aa0b24925b93b4a1f5eaf976.jpg",
+        "img_caption": [
+            "图61975—2015 年新疆人工表面变化空间分布Fig.6Spatial distribution of artificial surface changefrom 1975 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e4c837d5da3a3b208aa2547300b6e463bf99efdb4b67a432637ad1b567df98a.jpg",
+        "img_caption": [
+            "图71975—2015 年新疆林地变化空间分布Fig.7Spatial distribution of woodland changefrom 1975 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3林地变化特征 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "林地面积是计算国土森林覆盖率的重要依据，保护和增加林地资源，能够提升森林的生态服务功能，推进生态文明建设实施。由于新疆地处极端干旱区，因此灌木林面积也被林业管理部门认定可计算森林覆盖率。从林地空间格局变化(图7)来看，全疆林地分布整体呈增加趋势。1975—2015年间，林地共增加 $9 ~ 4 8 8 . 7 0 ~ \\mathrm { k m } ^ { 2 }$ ,其中1975—1990 年间,林地面积减少 $1 ~ 9 9 6 . 3 8 ~ \\mathrm { k m } ^ { 2 }$ ,主要分布在南疆塔河流域的灌木林和阔叶林分布区，林地转变为耕地，林木被伐做木材或薪柴。1990—2000 年林地面积增加 $2 ~ 7 3 6 . 1 3 ~ \\mathrm { k m } ^ { 2 }$ ,主要分布在塔里木河中游、昆仑山南麓的阔叶林区。2000—2010年林地面积增加$5 \\ 1 3 8 . 5 2 \\ \\mathrm { k m } ^ { 2 }$ ,主要分布在南疆塔河中下游生态输水范围的灌木林内，北疆“天保工程”的实施区域内。2010—2015年林地面积增加 $3 \\ 6 1 0 . 4 2 \\ \\mathrm { k m } ^ { 2 }$ ，广泛分布在全疆天然林保育工程内部。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结合人工表面动态度分析(图4f)得知，全疆林地增长速率先减后增，增速平稳可控，其中南疆林地增长速率持续增长，而南疆森林面积最多的是灌木林，说明定期的人工输水与天然林封育工程对其南疆灌木林生态系统修复起到一定效果。而北疆林地增长速率1990—2000年达到顶峰可能与该时段绿洲防护林建设有关，自2000年以后保持稳定，可能与北疆林地主要类型为针叶林，生长周期较长有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从新疆土地覆被近 $4 0 \\mathrm { ~ a ~ }$ 变化过程来看，国家政策力度和导向对土地覆被变化影响很大，新疆土地覆被伴随改革开放政策变化，经历了垦荒（1975—1990年）农业资源开发（1990—2000 年）、西部大开发（2000—2010年）、对口援疆（2010—2015年）等4个阶段，40a来新疆生态系统呈现先恶化后逐步改善的变化趋势。新疆耕地在经历了近 $2 0 \\mathrm { ~ a ~ }$ 的高速增长后，在可持续发展理念（水资源利用红线、生态环境红线和国土空间规划)的“无形之手”和国家土地政策的“有形之手”的同时作用下，新疆耕地规模逐渐接近极限，年均增速可控。北疆、东疆及全疆其他区位优势优越，基础设施发展条件较好的地区，宜降低高耗水农业的产业比重，借此推进区域产业结构调整，发展高附加值替代产业。南疆继续以农业作为支柱产业的地区，也应该推广精细化规模化种植模式，提升水土资源利用效率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "新疆林地和湿地生态系统1990—2000 年后逐步改善，一方面是随着退耕还林还草、天然林保育、塔河生态输水、沙漠化治理等工程开展，另一方也受到1990年后新疆降水量增加的影响[18]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总体看来，近40a新疆土地覆被及变化呈现出以下特征：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）受国土开发政策、经济社会快速发展等多重因素影响，新疆土地覆被变化由耕地开垦、人工表面增长的高速发展模式开始向兼顾生态文明建设的可持续发展方向转型，各主要地类的变化速率也由最初的粗放式发展转向基本稳定可控。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）近 $4 0 \\textrm { a }$ ,新疆耕地面积增加了 $12 8 \\%$ (50414.02$ { \\mathrm { k m } } ^ { 2 }$ ),呈现持续增加趋势，但增加速率减缓。新增耕地遵循一定时空分布规律：1975一1990 年间新增耕地集中分布在水土资源搭配较好的绿洲中心，1990一2000年增加的耕地主要分布在水土配置良好的绿洲外围。2000—2010 年，伴随节水、种植等新技术发展,新增耕地大多分布在土地资源丰富，但水资源欠缺的地区。2010—2015年当耕地规模接近饱和时，新增耕地会零散出现在水资源丰富，但土地质量不佳的绿洲内部。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）人工表面面积增加了 $19 7 \\%$ (7 497. 11$ { \\mathrm { k m } } ^ { 2 }$ ),在2000年后增速明显。新增人工表面除分布在县市新增建成区，及新建的交通基础设施附近外,1990—2000 年间巴州（由塔里木石油开发带动），2000—2010 年间东疆和北疆的交通基础设施,2010一2015年间准东和南疆县市建成区附近增加显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4）林地面积呈现先减少后增加的态势。1975—1990 年间林地减少主要转变为耕地，主要分布在南疆喀什河、叶尔羌河、阿克苏河和塔里木河中下游流域的农垦团场附近。1990—2015年耕地持续增加,新增林地主要由其他类型与草地转变而来，广泛分布在天保工程、“三北”防护林体系的幼林区和封育保护区内。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（5）湿地1990年前面积减少明显，1990—2000年保持稳定，2000 年后呈增加趋势，草地和其他类型的面积呈现持续减少态势。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（6）长时间序列土地覆被变化可揭示新疆主要土地覆被类型和生态系统的时空变化特征，并分析其产生的原因，有利于及时发现国土空间变化过程中的突出问题，能够为资源可持续开发及生态文明建设提供科学依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：新疆长时间序列土地覆被数据集的完成，得到中国科学院新疆生态与地理研究所对地观测与系统模拟实验室全体人员的全力支持，并得到国家重点研发计划（2016YFC0500201）、中科院战略性先导科技专项（XDA05050104）、中科院科技服务网络计划（STS)计划（STSN-04、ZDTP-009）的持续课题资助，在此深表感谢。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）  \n[1]吴炳方,苑全治,颜长珍,等.21世纪前10a的中国土地覆盖变化[J].第四纪研究,2014,34（4):723-731.[WU Bingfang,YUAN Quanzhi,YAN Changzhen,et al. Land cover changes inChina in the first decade of the $2 1 ^ { \\mathrm { s t } }$ Century[J]. Quaternary Re-search,2014,34(4) :723 -731.]  \n[2]刘纪远,匡文慧,张增祥,等.20 世纪80 年代末以来中国土地利用变化的基本特征与空间格局[J].地理学报,2014,69（1）：3-14.[LIU Jiyuan,KUANG Wenhui,ZHANG Zengxiang,et al.The basic characteristics and spatial pattern of land use change inChina since the late 198Os[J]. Journal of Geographical Sciences,2014,69(1) :3 -14.]  \n[3］刘纪远,宁佳,匡文慧,等.2010—2015年中国土地利用变化的时空格局与新特征[J].地理学报,2018,73（5）：789－802.[LIU Jiyuan,NING Jia,KUANG Wenhui,et al. Spatiotemporalpatern and new characteristics of land use change in China from2010 to 2015[J]. Journal of Geographical Sciences,2018,73(5):789 -802.]  \n[4］刘纪远,张增祥,徐新良,等.21世纪初中国土地利用变化的空间格局与驱动力分析[J].地理学报,2009,64（12）：1411-1420.[LIU Jiyuan,ZHANG Zengxiang,XU Xinliang,et al.Spatialpattern and driving forces of land use change in China in the early$2 1 ^ { \\mathrm { s t } }$ century[J]. Journal of Geographical Sciences,2009,64（12）:1411 - 1420.]  \n[5］刘纪远,张增祥,庄大方,等.20 世纪90 年代中国土地利用变化时空特征及其成因分析[J].地理研究,2003,（1）：1－12.[LIU Jiyuan,ZHANG Zengxiang,ZHUANG Dafang,et al. Spatial-temporal characteristics and causes of land use change in China inthe 1990s[J].Geographical Research,2003,（1）:1-12.]  \n[6]黄凤,吴世新,唐宏.基于遥感与GIS 的新疆近18a来 LUCC的生态环境效应分析[J].中国沙漠,2012,32（5）：1486-1493.[HUANG Feng,WU Shixin,TANG Hong. Eco-environmen-tal effects of LUCC in Xinjiang in recent18 years based on remotesensing and GIS[J]. Journal of Desert Research,2012,32（5）:1486 - 1493.]  \n[7］王芳芳,吴世新,杨涵.基于3S 的近15a新疆LUCC 时空变化研究及分析[J].中国沙漠,2009，29（4）：636-640.［WANGFangfang,WU Shixin,YANG Han. Research and analysis of LUCCspatiotemporal changes in Xinjiang in recent 15 years based on 3S[J].Journal of Desert Research,2009,29(4）:636 -640.]  \n[8］吴世新,周可法,刘朝霞,等.新疆地区近10a来土地利用变化时空特征与动因分析[J].干旱区地理,2005,28（1):52-58.[WU Shixin,ZHOU Kefa,LIU Zhaoxia,et al. Spatial-temporalcharacteristics and drivers of land usechange in Xinjiang in thepast 10 years[J]. Journal of Arid Land Geography,2005,28（1）：52 -58.]  \n[9]陈忠升,陈亚宁,李卫红.新疆和田河流域土地利用/覆被变化及其驱动力分析［J].中国沙漠，2010,30（2）：326－333.[CHEN Zhongsheng,CHEN Yaning,LI Weihong. Analysis of landuse/cover change and driving forces in the Hotan River Basin,Xinjiang[J]. Journal of Desert Research,2010,30（2）: 326-333.]  \n[10］郭鹏,张全建.新疆石河子地区20 a绿洲土地利用类型变化分析[J].地理空间信息,2016,14（1）:79-81,6.[GUO Peng,ZANG Quanjian. Analysis of change of land use types in 2O a oasisinShihezi area,Xinjiang［J].Geospatial Information Journal,2016,14(1) :79 -81 ,6.]  \n[11］张军峰,孟凡浩,包安明,等.新疆孔雀河流域人工绿洲近 40年土地利用/覆被变化[J].中国沙漠,2018,38(3）:664-672.[ ZHANG Junfeng,MENG Fanhao,BAO Anming,et al. Land use/cover change in the artificial oasis in the Kongque River Basin,Xinjiang in the past 4O years[J]. Journal of Desert Research,2018,38(3) :664-672.]  \n[12］张俊,周成虎,李建新.新疆焉耆盆地近40 年土地利用与土地覆被演化[J].资源科学,2004,（6）:30－37.[ZHANG Jun,ZHOU Chenghu,LI Jianxin.Land use and land cover evolution inthe Yanqi Basin of Xinjiang in thepast 40 years[J].ResourcesScience,2004,(6) :30-37.]  \n[13］常存,包安明,李均力.塔里木河四源区耕地时空演变的驱动分析[J].干旱区研究,2016,33（2）:239-245.[CHANG Cun,BAO Anming,LI Junli. Driving force analysis of spatiotemporal e-volution of cultivated land in four source areas of Tarim River[J].Arid Zone Research,2016,33(2） :239 - 245.]  \n[14］贺可,吴世新,杨怡,等.近40 a新疆土地利用及其绿洲动态变化[J].干旱区地理,2018,41（6）:1333－1340.[HE Ke,WUShixin,YANG Yi,et al.Land use and its oasis dynamic changes inXinjiang in the past 4O years[J].Arid Land Geography,2018,41(6):1333 -1340.]  \n[15］乔木,徐曼,岳健.新疆耕地资源卫星遥感调查数据分析研究[J].干旱区地理,2002,25（4）：309－314.[QIAOMu，XUMan,YUE Jian. Satelite remote sensing survey data analysis ofcultivated landresources in Xinjiang[J].AridLand Geography,2002,25(4) :309 -314.]  \n[16］王丹,吴世新,张寿雨.新疆 20 世纪80 年代末以来耕地与建设用地扩张分析[J].干旱区地理,2017,40（1)：188－196.[WANG Dan,WU Shixin,ZHANG Shouyu.Analysis of cultivatedland and construction land expansion in Xinjiang since the late1980s[J].Arid Land Geography,,2017,40(1):188 -196.]  \n[17］许雪爽,包安明,常存,等.新疆重点城市建设用地扩张与人地配置协调性分析[J].经济地理,2017,37（10）:92－99.［XUXueshuang,BAO Anming,CHANG Cun,et al. Coordination analy-sis of construction land expansion and man-land allocation in keycities in Xinjiang[J].Economic Geography,2017,37（10）:9299.]  \n[18］陈曦,包安明,王新平,等.塔里木河近期综合治理工程生态成效评估[J].中国科学院院刊,2017,32（1）:20－28.[CHENXi,BAO Anming,WANG Xinping. Evaluation of ecological effec-tiveness of the recent comprehensive control project of Tarim River",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[J].Proceedings of the Chinese Academy of Sciences,2O17,32 (1):20-28.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19］黄粤，包安明，王士 $\\tau$ ，等.间歇性输水影响下的2001—2011年塔里木河下游生态环境变化[J].地理学报，2013,68（9)：1251-1262.[HUANG Yue,BAO Anming,WANG Shifei,et al.Ecological environment changes in the lower reaches of the TarimRiver from 20O1 to 2O11 under the influence of intermittent watertransport[J].Journal of Geographical Sciences,2013,68（9） :1251-1262.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20］王士飞，包安明，王永琴，等.水情波动下2006一2011年塔里木河下游植被变化研究[J].水土保持通报，2013，33（4）：302-306.[WANG Shifei,BAO Anming,WANG Yongqin,etal.Veg-etation changes in the lower reaches of the Tarim River from 2006to 2011 under fluctuating water regimes[J].Bulletin of Soil andWater Conservation,2013,33（4）:302-306.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21］张磊,吴炳方，李晓松，等.基于碳收支的中国土地覆被分类系 统[J].生态学报,2014,34（24）:7158-7166.［ZHANGLei, WU Bingfang,LI Xiaosong,et al.Classification system of land cover in China based on carbon budget[J].Acta Ecologica Sinica, 2014,34(24) :7158-7166.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatial pattern and characteristics of land cover change in Xinjiang since past 40 years of the economic reform and opening up ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHEN Xi1,234，CHANG Cun23，BAO An-ming2,34，WU Shi-xin234，LUO Ge-ping2,3,4 (1Central Asian Ecologyand Environment Research Center,Chinese AcademyofSciences,Urumqi 830l1,Xinjiang,China; 2Xinjiang Institute of Ecology and Geography，Chinese Academy of Sciences,Urumqi 830011,Xinjiang,China; 3State Key Laboratory of Desert and Oasis Ecology,Urumqi 830011,Xinjiang,China; 4University of Chinese Academy of Sciences,Beijing 10oo1o,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Since the economic reform and opening up 40 years ago,land use and land cover of Xinjiang,China have undergone tremendous changes.While generating great socio-economic benefits,many ecological and environmental issues have also arisen.In order to provide a basis for future Xinjiang's landuse,water resources development,and socio-economic sustainable development of land and space planning,a partitioned and layered decision tree method and a vector similarity change detection method were used to complete the Xinjiang Land Cover $1 : 1 0 0 \\ 0 0 0$ vector dataset in2015,2010,2000,1990,and 1975 in this paper.The evolution of Xinjiang's land cover change over the past 4O years （reform and opening upof China）was analyzed.From the four stages of reclamation（1975—1990）,agricultural resource development（1990—2000）,westem development（2000—2010）,and counterpart asistance to Xinjiang（2010—2015）,the paper described the impact mechanism of national policy on land cover changes.The analysis showed that the land coverchange in Xinjiang has begun to transform from a highspeed development model to a sustainable development combined the construction of ecological civilization.The changes of major land types have also shifted from rapid developmentto basic controllability.In the past 4O years, the area of cultivated land in Xinjiang increased by $12 8 \\%$ （ $5 0 4 1 4 . 0 2 { \\mathrm { ~ k m } } ^ { 2 }$ ). The new cultivated land was distributedto thecharacteristics of waterand land resources distribution.Thearea of artificial surfaces （construction,transportation,industrial,mining land）increased by $19 7 \\%$ （ $^ { 7 } 4 9 7 . 1 1 \\ \\mathrm { k m } ^ { 2 }$ ). The growth rate was obvious accelerated after 2000,and the increase rate in southern Xinjiang after2O1O wasvery large；the area offorest land before 1990 showed a decreasing trend,and it showedanincreasing trend after199O.Thenewlyadded forest land was widely distributed in thenatural forest enclosureand withinthe implementationareaof Xinjiang Natural ForestProtection Project.The area of wetlands decreased significantlybefore 1990,remained stable from1990 to 2O00,and showed an increasing trend after 2Ooo.The area of grassland and other types continued to decrease. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Xinjiang； land cover； spatial and temporal pattern； sustainable development",
+        "page_idx": 10
+    }
+]

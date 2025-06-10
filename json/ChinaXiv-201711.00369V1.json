@@ -1,0 +1,435 @@
+[
+    {
+        "type": "text",
+        "text": "Spatial-temporal variationsin near-surfacesoil freeze-thaw cycles in the source region of the Yellow River during the period 2002-2011 based on the Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E) data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Rui1, ZHU Qingkel\\*,MA Hao², AI Ning³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Soil and Water Conservation,Beijing Forestry University,Beijing 1Ooo83,China;   \n2 Northwest InstituteofForest Inventoryand PlaningandDesign,State ForestryAdministration,Xi'an 71048,China;   \n3 College of Life Science, Yan'an University, Yan'an 716oo0,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Detecting near-surface soil freeze-thaw cycles in high-altitude cold regions is important for understanding the Earth's surface system，but such studies are rare.In this study，we detected the spatial-temporal variations in near-surface soil freeze-thaw cycles in the source region of the Yellow River (SRYR) during the period 2002-2011 based on data from the Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E).Moreover,the trends of onset dates and durations of the soil freeze-thaw cycles under different stages were also analyzed. Results showed that the thresholds of daytime and nighttime brightness temperatures of the freeze-thaw algorithm for the SRYR were 257.59 and $2 6 1 . 2 8 \\mathrm { ~ K ~ }$ ,respectively.At the spatial scale,the daily frozen surface (DFS)area and the daily surface freeze-thaw cycle surface (DFTS) area decreased by $0 . 0 8 \\%$ and $0 . 2 5 \\%$ ,respectively,and the daily thawed surface (DTS) area increased by $0 . 3 6 \\%$ .At the temporal scale,the dates of the onset of thawing and complete thawing advanced by 3.10 $( \\pm 1 . 4 )$ and 2.46 $( \\pm 1 . 4 )$ days,respectively; and the dates of the onset of freezing and complete freezing were delayed by 0.9 $( \\pm 1 . 4 )$ and 1.6 $( \\pm 1 . 1 )$ days,respectively. The duration of thawing increased by 0.72 $( \\pm 0 . 2 1 )$ day/a and the duration of freezing decreased by 0.52 $( \\pm 0 . 2 6 ) \\ \\mathrm { d a y / a }$ . In conclusion, increases in the annual minimum temperature and winter air temperature are the main factors for the advanced thawing and delayed freezing and for the increase in the duration of thawing and the decrease in the duration of freezing in the SRYR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Advanced Microwave Scannng Radiometer for the Earth Observing System;air temperature; near-surface soil freeze-thaw cycles; source region of the Yellow River ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The near-surface soil freeze-thaw cycle is related to the fluctuations in soil temperature around $0 ^ { \\circ } \\mathrm { C }$ due to seasonal or diurnal temperature changes. Such fluctuations are common at high latitudes or within high-altitude zones.Approximately $5 0 { \\times } 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ，or $5 5 \\%$ of the land surface soil in the Northern Hemisphere,undergoes an annual soil freeze-thaw cycle (Zhang et al., 2009). The mechanism of the soil freeze-thaw cycle involves alternating water-ice phase transitions in soil; this phase transitions act as“switch” in nature.That is,when soil is thawed,the“switch\" opens,and hydrological, ecological and other land surface processes become active; when soil freezes, the “switch”closes,and the land surface processes enter a period of dormancy or slow activity (Zhang et al.,2O11; Yi et al.,2O14). Changes in the near-surface soil freeze-thaw cycle strongly affect the climate system, the hydrological cycle,the carbon and nitrogen cycles, surface energy fluxes,plant growth,soil erosion,and other land surface processes (Poutou et al., 2004; Wang et al.,2006; Henry et al.,2008; Matzner and Borken,2008; Sun et al.,2008; Nishimura et al., 2011; Buermann et al., 2013; Wang et al., 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous research on the monitoring of near-surface soil freeze-thaw cycles has mainly been carried out using data measured at individual sites (Yang et al., 2OO7; Li et al., 2Ol2; Guo and Wang,2O14). However， this traditional method is time consuming and cannot meet the requirements of large-scale and dynamic monitoring because the measurement sites are often sparse and unrepresentative. Satellite-based remote sensing provides an efficient mean to detect near-surface soil freeze-thaw status over long periods of time at global,continental,and regional scales (Zhang et al., 2003; Bartsch et al., 2O07). Especially, passive microwave remote sensing, which has a high temporal resolution and all-weather capabilities, is suitable for this task (Zhang et al.,2011; Zhao et al.,2011; Li et al.,2012; Singh et al.,2013). The main sources of passive microwave remote sensing data include the Scanning Multichannel Microwave Radiometer (SMMR,1978-1987), the Special Sensor Microwave Imager (SMM/I, 1987-present) and the Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E, 2002-2011). Compared with SMMR and SMM/I, AMSR-E is newer and more eicient ifor detecting soil freeze-thaw status,although relatively few studies have used the data collected by this sensor. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Researchers have developed several methods to monitor near-surface soil freeze-thaw status in the application of passive microwave remote sensing data, i.e., the dual-indices algorithm, change detection algorithm (Smith et al.， 2O04)，decision tree algorithm and discriminant function algorithm (Zhang et al.,2OO3; Li et al.,2O12). It is worthy noting that the dual-indices algorithm has been widely applied to study the freeze-thaw patterns (Han et al.,2O1O; Xie et al.,2O13). This algorithm uses a 37-GHz brightness temperature and a negative spectral gradient between the 18 and 37 GHz brightness temperatures to detect soil freeze-thaw status (Zuerndorfer and England, 1992；Judge et al.，1997).Moreover， the thresholds of the dual-indices algorithm must be separately determined for each region using data collected from different sites and verified through the statistical analysis (Chai et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The source region of the Yellow River (SRYR), which lies in the interior of the Qinghai-Tibet Plateau (QTP) and is known as a“sensitive area” and an“amplifier” for global warming, has become warmer at a fast rate than other places on the plateau (Lan et al., 2Ol6). Many lines of evidence indicate that climate warming has resulted in a serious degradation of frozen ground in recent years over the SRYR,leading to reduction in permafrost area (Wang et al.,2OO1; Jin et al., 2009; Matsuoka et al., 2Oo9; Luo et al.,2O16). However, the near-surface soil freeze-thaw cycle over the SRYR has not been systematically investigated. Therefore，we investigated the near-surface soil freeze-thaw cycle in the SRYR during the period 2OO2-2O11 based on the AMSR-E passive microwave remote sensing data. The aims of this study were (1） to obtain the thresholds of the dual-indices algorithm for soil freeze-thaw state detection in the SRYR; (2) to investigate the spatial distribution patterns of the near-surface soil freeze-thaw state; and (3) to analyze the variations in the onset dates and durations of the near-surface soil freeze-thaw cycle during the period 2002-2011. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SRYR catchment area, situated in the upper stream of the Longyangxia Reservoir, covers approximately $1 4 5 . 3 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ in area. Geographically, it is located between $3 2 ^ { \\circ } 1 0 ^ { \\prime } { - } 3 6 ^ { \\circ } 5 9 ^ { \\prime } \\mathrm { N }$ and $9 5 ^ { \\circ } 5 4 ^ { \\prime } - 1 0 3 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E }$ ， and the average elevation is greater than $4 0 0 0 \\mathrm { ~ m ~ }$ (Fig. 1). The study area is characterized by a typical continental plateau climate, with an annual average air temperature of $- 3 . 0 ^ { \\circ } \\mathrm { C }$ to $- 4 . 1 ^ { \\circ } \\mathrm { C }$ and an average annual precipitation of $3 0 0 { - } 7 0 0 ~ \\mathrm { m m }$ . Three landform types exist in the SRYR:mountains,hils,and plains.Large areas in the eastern and central SRYR are covered with seasonally frozen soil interspersed with isolated patches of sporadically continuous permafrost. The permafrost occurs primarily on high mountains in the western part of the region (Wen et al., 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/581ee84f84a3fe5c8bc31979302971b700e203b70c20b24632d651d8661424a8.jpg",
+        "img_caption": [
+            "Fig.1Topographic map of the source region of the Yellow River (SRYR) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We divided the study area into five regions according to the Qinghai-Tibetan Plateau natural Zonation scheme (Zheng et al.,1979) for analyzing the spatial characteristics of the near-surface soil freeze-thaw cycle. These regions are the wide vally basin of the Yellow River source region (I),the Zoige plateau (II),the Golog and Yushu plateau gullies (II),the Huangnan Mountains (IV),and the eastern margin of the Qaidam Mountains (V) (Fig. 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E) data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We obtained the daily AMSR-E passive microwave remote sensing data from the National Snow and Ice Data Center (NSIDC) at the University of Colorado, USA. These data are provided in the Equal-Area Scalable Earth Grid projection (EASE-Grid) and have a spatial resolution of $2 5 ~ \\mathrm { k m }$ （204号 for all channels.The data are available twice daily from an ascending track (the satellite passed over the study region at 13:3O local time） and a descending track (the satellite passed over the study region at O1:30 local time) for 10 consecutive years from 19 June,2002 to 3 October, 2011. The radiometer channel frequencies are 6.9,10.7, i8.7, 23.8,36.5 and $8 9 . 0 \\ \\mathrm { G H z }$ ，respectively, and each frequency is associated with dual vertically and horizontally polarized radiation measurements.In this study, the dual-indices algorithm was applied to the 18.5 and $3 6 . 5 ~ \\mathrm { G H z }$ vertically polarized brightness temperature data ( $T _ { B \\_ 1 8 . 5 V }$ and $T _ { B _ { - } 3 6 . 5 V } )$ from both the ascending and descending tracks. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some of the AMSR-E data were missing because of the unstable states of the radiometer and atmospheric conditions.The missing data included the $2 1 1 ^ { \\mathrm { s t } } - 2 1 7 ^ { \\mathrm { t h } }$ days and the $2 5 6 ^ { \\mathrm { t h } } - 2 6 2 ^ { \\mathrm { n d } }$ days in 2002, the $3 0 4 ^ { \\mathrm { t h } } - 3 0 8 ^ { \\mathrm { t h } }$ days in 2003, the $3 2 4 ^ { \\mathrm { t h } }$ day in 2004 and the $3 3 2 ^ { \\mathrm { n d } }$ day in 2007. The daily AMSR-E data did not cover the entire study area at the middle and low latitudes; therefore, we had to splice the data from two adjacent days into one to cover the entire SRYR. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "95E 96E 97E 98E 99E 100E 101E 102°E 103E 104°E   \nNL 1 A   \nN9 Longyang Xia N98 Reservoir   \nN50 GyaringLake NgoringLake N23 Anyemaqen Mountains B   \nNot 川 Xiqing Mountains Not0 Legend YellowRiver Post-flooding or irrigated croplands ID 国 Rainfed croplands   \n230 Mosaiccropland(50%-70%)/vegetation(grassland/shrubland/forest)(20%-50%) 3 o 3 Closed $( > 4 0 \\% )$ needleleavedevergreenforest(Height>5m) Closed toopen $( > 1 5 \\% )$ mixedbroadleavedandneedleleavedforest(Height>5m)   \n220 oaicrsud) Closedtoopen(>i5%)(broadleavedorneedleleaved,evergreenordeciduous)shrubland(Height<5m) 220 Closedtoopen(>15%)herbaceousvegetation(grassland,savannasorlichens/mosses) Sparse $( < 1 5 \\% )$ vegetation Closedtoopen(>15%)grasslandorwoodyvegetationonregularlyfloodedorwaterloggedsoil-freshbrackishrsalinewater   \nNoI Artificialsurfacesandassociatedareas(Urbanareas> Bareareas $5 0 \\%$ ） 0 90 180km N1   \n31 Waterbodies Permanent snowand ice Bρundaryofnatμral zonation 95E 96E 97E 98E 99E 100°E 101E 102E 103E 104°E ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Meteorological data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study,a land surface temperature $( L S T )$ dataset that consisted of data from eleven meteorological stations in the SRYR obtained from the Chinese Meteorological Science Data-sharing Service (Fig.1) was used to calibrate and validate the thresholds of the dual-indices algorithm. The LST dataset included the daily average land surface temperature $( L S T _ { \\mathrm { a v e } } )$ ，the maximum land surface temperature $( L S T _ { \\operatorname* { m a x } } )$ and the minimum land surface temperature $( L S T _ { \\mathrm { m i n } } )$ for the period 2002-2011. In addition to the $L S T$ data,the monthly average air temperature, the maximum air temperature,and the minimum air temperature were also collected for the period 2002-2011. Meteorological data from five meteorological stations,i.e., Qabqa, Guinan, Golog, Zoige and Madoi stations,were used to calibrate the dual-indices algorithm,and data from other stations (Xinghai, Henan, Maqu,Hongyuan, Jigzhi and Darlag stations) were used to validate the algorithm. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Digital Elevation Model (DEM) and land cover data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, the Advanced Spaceborne Theemal Emisson and Reflection Radiometer Global Digital Elevation Model (ASTER GDEM),which has a spatial resolution of $3 0 ~ \\mathrm { m }$ ，was obtained from the Geospatial Data Cloud. A land cover map for 2OO9, which has a spatial resolution of 300 m and uses the UN Food and Agriculture Organization's land cover classification scheme, was obtained from the Cold and Arid RegionsSciencesData Centerat Lanzhou (http://westdc.westgis.ac.cn). The above datasets were pre-processed using a system radiation correction and ground control point correction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Profile lines can be used to analyze the spatial distribution of onset dates and durations of freeze-thaw cycles at regional scales (Bartsch et al.,2Oo7). We created an east-west profile line at $3 4 . 5 ^ { \\circ } \\mathrm { N }$ that crossed areas I, II,and II and a north-south profile line at $9 9 . 8 ^ { \\circ } \\mathrm { E }$ that crossed areas IV and II. These lines intersected at the center of the SRYR and passed through areas with typical and varied landscapes based on the land use and natural zonation in the SRYR (Fig. 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Analysis method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used the trend line method to analyze the changes in onset date and duration of the freeze-thaw cycles estimated using map algebra in ArcGIS. The computational formula is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = \\frac { n \\times \\displaystyle \\sum _ { j = 1 } ^ { n } ( j \\times x _ { j } ) - ( \\displaystyle \\sum _ { j = 1 } ^ { n } j ) ( \\displaystyle \\sum _ { j = 1 } ^ { n } x _ { j } ) } { n \\times ( \\displaystyle \\sum _ { j = 1 } ^ { n } j ^ { 2 } ) - ( \\displaystyle \\sum _ { j = 1 } ^ { n } j ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of years in the monitoring period ( $\\scriptstyle ( n = 1 0$ in this study); $x _ { j } ,$ the quantity being studied in year $j$ (onset dates or duration of the freeze-thaw cycle); and $\\theta ,$ the slope of the trend line (when $\\textstyle \\theta > 0$ ,the quantity being studied increases over the $n$ years,and vice versa). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the trend maps were created, the mean values were computed for each pixel, and the standard deviations were calculated as the average deviation of each pixel from the mean value. These calculations were implemented using the Spatial Analyst Toolbox in ArcGIS. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Calibration and validationof the dual-indicesalgorithm ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dual-indices algorithm uses the 36.5 GHz vertical-polarization brightness temperature $( T _ { B _ { - } 3 6 . 5 V } )$ ， the spectral gradient $( S G )$ between the 36.5 GHz $( T _ { B _ { - } 3 6 . 5 V } )$ and $1 8 . 5 ~ \\mathrm { G H z }$ $( T _ { B _ { - } 1 8 . 5 V } )$ （20 brightness temperatures and data from AMSR-E.This algorithm can be expressed as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { B _ { - } 3 6 . 5 V } < T _ { \\mathrm { c u t o f f } } :\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS G = \\frac { T _ { B _ { - } 3 6 . 5 V } - T _ { B _ { - } 1 8 . 5 V } } { 3 6 . 5 - 1 8 . 5 } < 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\mathrm { c u t o f f } }$ is the threshold determined from the linear regressions between $L S T$ and $T _ { B \\_ 3 6 . 5 V }$ for determining the near-surface soil freeze-thaw status. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LSTs tend to be close to the maximum values at the ascending local time (13:3O) for AMSR-E and approach to the minimum values at the descending local time (O1:3O) (Xie et al.,2O13; Chai et al.，2014).Therefore,we used $L S T _ { \\operatorname* { m a x } }$ and $L S T _ { \\mathrm { m i n } }$ to calibrate and verify the classification algorithm for the ascending and descending tracks, respectively. Two linear regressions between the LSTs and $T _ { B \\_ 3 6 . 5 V }$ were established for the period from 1 January,2OO7 to 31 December, 2009 (Fig.3),and robust correlations ( $R ^ { 2 } { = } 0 . 7 7 2$ and $R ^ { 2 } { = } 0 . 7 6 7$ ，respectively）were identified between these quantities and the standard deviations were 3.87 and $3 . 3 2 \\mathrm { ~ K ~ }$ ,respectively. According to the regression lines,the thresholds of the dual-indices algorithm were $2 5 7 . 5 9 \\textrm { K }$ during the day and $2 6 1 . 2 8 \\mathrm { ~ K ~ }$ at night,which corresponded to the real soil freezing point $( 2 7 3 . 1 5 \\mathrm { ~ K } )$ . A pixel of the AMSR-E data was assigned to the thawed status during the day if the ascending $T _ { B _ { - } 3 6 . 5 V }$ and $S G$ exceeded 257.59 and $0 \\mathrm { ~ K ~ }$ ，respectively;otherwise, the pixel was assumed to be frozen. A pixel was classified into the frozen status at night if the descending $T _ { B \\_ 3 6 . 5 V }$ and $S G$ were less than 261.28 and $0 \\mathrm { \\ : K }$ , respectively; otherwise, the pixel was assumed to be thawed. Additionally, large bodies of water (lakes and rivers)，areas of permanent snow and ice and deserts influence brightness temperatures and could be mistakenly classified. Therefore, areas up to $5 0 ~ \\mathrm { k m }$ with those land cover types (e.g.,lake, river, snow,ice,and desert) were masked out in this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following variables were used to evaluate the accuracy of the algorithm: (a) $F \\surd$ represents the number of correctly classified daily total frozen pixels; (b) $F _ { a }$ ,the actual number of daily total frozen pixels; (c) $T \\surd$ ,the number of correctly classified daily total thawed pixels; (d) $T _ { a }$ , the actual number of daily total thawed pixels; (e) $F T C _ { \\surd }$ ，the number of correctly classified daily freeze-thaw cycle pixels; and (f) $F T C _ { a }$ ,the actual total number of daily freeze-thaw cycle pixels. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The calculation method for the evaluation variables was as follows:(1) $F \\sqrt { / F _ { a } }$ ratio can be used for detecting the classification accuracy of the daily total frozen surface;(2) $T \\sqrt { T _ { a } }$ ratio,the classification accuracy of the daily total thawed surface;(3) $F T C \\sqrt { I F T C _ { a } }$ ratio,the classification accuracy of the daily freeze-thaw cycle surface;and (4) $\\left( F \\surd + T \\surd + F T C \\surd \\right) / ( F _ { a } + T _ { a } + F T C _ { a } )$ ratio,the overall classification accuracy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bec823bf54999a5a2fd0eeec7a7405561dd1ac264c4181c4a8b6e2d1742b5a20.jpg",
+        "img_caption": [
+            "Fig.3Relationship between land surface temperature $( L S T )$ and brightness temperature at $3 6 . 5 ~ \\mathrm { G H z }$ (TB-36.5V) with vertical polarization based on Advanced Microwave Scanning Radiometer for the Earth Observing System (AMSR-E) data for daytime (a) and nightime (b) passes. $L S T _ { \\operatorname* { m a x } }$ ,the maximum land surface temperature; $L S T _ { \\mathrm { m i n } }$ the minimum land surface temperature;RMSE,root mean square error; $F$ ,degree of freedom. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We verified the algorithm with $L S T _ { \\operatorname* { m a x } }$ and $L S T _ { \\mathrm { m i n } }$ measurements from six meteorological stations (Xinghai, Henan, Maqu,Hongyuan, Jigzhi and Darlag） during the period 2OO7-2009. Additionally， the same thresholds were used in the calibration algorithm.Based on 13,152 validated data points,the classification accuracies of the daily total frozen surface,the daily total thawed surface,and the daily freeze-thaw cycle surface were $8 0 . 4 6 \\%$ ， $8 3 . 6 5 \\%$ ，and $78 . 0 7 \\%$ respectively, and the overall classification accuracy was $8 0 . 5 5 \\%$ . These results indicate that the dual-indices algorithm can be used to detect the near-surface soil freeze-thaw cycle in the SRYR with sufficient accuracy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the aforementioned dual-indices algorithm and thresholds,we detected the daily near-surface freeze-thaw status derived from the AMSR-E data during the day and at night and then classified the status into three types.These types corresponded to the daily frozen surface (DFS) where the land surface was classfied into the frozen status during both day and night; the daily thawed surface (DTS) where the land surface was classified into the thawed status during both day and night; and the daily surface freeze-thaw cycle (DFTS) where the land surface was classified into thawed during the day and frozen at night. Based on the time series information of the daily near-surface freeze-thaw status,four soil freeze-thaw stages in a year were defined: a spring freeze-thaw transition stage,a complete thawing stage,an autumn freeze-thaw transition stage and a complete freezing stage. If the surface belonged to one of three daily freeze-thaw statuses for three successive days,the periods of the surface status were determined as one of the four stages,and the first day of these three days was recorded as the onset date of the next freeze-thaw stage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatial distribution of near-surface soil freeze-thaw status ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the monthly variations in near-surface soil freeze-thaw status from September 2010 to August 2O11.As the temperature decreased after September, a DFS occurred near Ngroing Lake and Gyaring Lake in area I, while a DFTS occurred near Maduo County and Requ River. The DFS and DFTS subsequently expanded, moved southeastward,and gradually occupied area II. In January, which is the coldest month of the year, the DFS and DFTS were bounded by the A'nyémaqén Mountains,whereas the DFTS and DTS were bounded by the Xiqing Mountains. At that time,area I, which lies to the west of the SRYR,displayed a DFS status; areas II, IV and V, which lie in the middle of the SRYR, displayed a DFTS status; and area I, which lies to the southeast of the SRYR,displayed a DTS status.As the air temperature gradually increased, the western boundary of the DFS,the eastern boundary of the DTS,and the eastern and western boundaries of the DFTS moved westward. Later in March, the DFS disappeared, and a DFTS replaced the DFS in area I to the west of the A'nyémaqén Mountains.The DTS gradually increased and then occupied the entire SRYR in July and August. Therefore, the SRYR,except for the area with DTS throughout the year, underwent freeze-thaw cycles over long periods of time. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ce0661d0de5fd6ccad83b4b4b4ccb2fd75dbb293b61b2a3a4bb990cd83f424a.jpg",
+        "img_caption": [
+            "Fig.4Monthly variations in near-surface soil freeze-thaw status from September 2O10 to August 2011 in he SRYR "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The areas occupied by the three freeze-thaw statuses showed different trends from 2003 to 2010 (Fig. 5). The DFS gradually decreased from January to June and began to increase in September.Additionally,the peak of the curve for the month with the largest DFS moved backward from 2003 to 201O (Fig. 5a),and the average DFS decreased by approximately $0 . 0 8 \\%$ ： In spring and autumn, the surface temperature dropped below zero at night, whereas the surface temperature exceeded zero during the day,resulting in freezing at night and thawing during the day. Being similar with the DFS,the DFTS occurred in autumn or winter,although its peak occurred during the early spring (Fig.5b);and the surface gradually decreased and completely disappeared in summer. The DTS increased from January to July or August and then gradually decreased (Fig. 5c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/04affab5f679ab92e43ccf9708170ec198ac0fb80a0ea4b06c098b90e21e0d8a.jpg",
+        "img_caption": [
+            "Fig.5Monthly variations in the daily frozen surface (DFS,a),daily freeze-thaw cycle surface (DFTS,b)and daily thawed surface (DTS,c) during the period 20o3-2010 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Changes in the onset date and duration of the freeze-thaw cycles during the period 2002-2011 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the spatial distribution and inter-annual variation of the onset date of the four stages and the duration of the freeze-thaw cycles using the east-west profile line at $3 4 . 5 ^ { \\circ } \\mathrm { N }$ (Fig. 6) and the north-south profile line at $9 9 . 8 ^ { \\circ } \\mathrm { E }$ (Fig.7).For the east-west profile line at $3 4 . 5 ^ { \\circ } \\mathrm { N }$ ,the dates of the onset of thawing （ $1 0 { - } 6 5 ^ { \\mathrm { t h } }$ days）(Fig.6a） and complete thawing $( 2 8 - 1 1 5 ^ { \\mathrm { t h } }$ days） (Fig.6b) moved forward from east to west as the elevation decreased,and the dates of the onset of freezing $( 2 6 0 – 3 2 0 ^ { \\mathrm { t h } }$ days）(Fig.6c） and complete freezing( $3 1 0 { - } 3 6 0 ^ { \\mathrm { t h } }$ days）(Fig.6d) moved backward. The duration of the spring and autumn freeze-thaw transitions,which were determined by the onset of thawing/freezing and the onset of complete thawing/freezing,decreased from east to west. The duration was shorter in area II (spring: 45 days; autumn: 28 days) than in area II (spring: 52 days; autumn: 31 days)；moreover, this duration was shorter than in area I (spring: 57 days; autumn: 35 days).The dates of the onset of thawing and complete thawing tended to occur earlier over the study period (2O02-2011),and the dates of the onset of freezing and complete freezing tended to occur later over the study period.It should be noted that part of area II did not completely freeze in winter after 2006. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/18679aa4697b719dbfa5fd6be23d4c23976740f03cdaa77648309da686181529.jpg",
+        "img_caption": [
+            "Fig.6Changes in the onset date and duration of the freeze-thaw cycles for the east-west profile line at $3 4 . 5 ^ { \\circ } \\mathrm { N }$ duringthe period 2002-2011.Onset date of thawing (a),date of complete thawing(b),onset date of freezing (c), date of complete freezing (d),and elevations in areas I, II,and III (e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the north-south profile line at $9 9 . 8 ^ { \\circ } \\mathrm { E }$ , the dates of the onset of thawing $( 1 0 ^ { \\mathrm { t h } } - 5 5 ^ { \\mathrm { t h } }$ days) (Fig. 7a) and complete thawing $( 7 1 ^ { \\mathrm { s t } } - 1 0 4 ^ { \\mathrm { t h } }$ days)(Fig.7b) moved forward first and then backward from north to south. Similarly, the dates of the onset of freezing $( 2 8 0 ^ { \\mathrm { t h } } - 3 1 8 ^ { \\mathrm { t h } }$ days） (Fig. 7c） and complete freezing $( 3 1 0 ^ { \\mathrm { t h } } - 3 4 5 ^ { \\mathrm { t h } }$ days) (Fig.7d) moved backward first and then forward. Turning point is at the transition zone between areas IV and III in the rolling mountain region of A'nyémaqén. The durations of the spring and autumn freeze-thaw transitions，which were disrupted by the elevated mountains,first increased and then decreased along this line from north to south.In area IV in the northern SRYR,the spring duration (approximately 52 days） and autumn duration (approximately 38 days) of freze-thaw transitions increased from north to south, whereas an opposite trend was observed in area II. Similar to the east-west profile, the date of the onset of the freeze-thaw cycles along the north-south line showed a trend toward earlier thawing and later freezing from 2OO2 to 2O11 against the background of climate warming in the SRYR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c272db3fa47d2d0f96ee048f23a50015f99651d6a5993adc09f8843715ce7702.jpg",
+        "img_caption": [
+            "Fig.7Changes in the onset time and duration of the freeze-thaw cycles for the north-south profile line at $9 9 . 8 ^ { \\circ } \\mathrm { E }$ duringthe period 2002-2011.Onset date of thawing (a),date of complete thawing(b),onset date of freezing (c), date of complete freezing(d),and elevations in areas III and IV (e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the spatial distribution of the onset date and duration of the freeze-thaw cycles The dates of onset of thawing advanced or moved forward by 3.1 $( \\pm 1 . 4 )$ days over the SRYR (Fig. 8a),and most of these advanced days appeared in area IV, followed by area III.The complete thawing date (Fig. 8c） was advanced by 2.46 $( \\pm 1 . 4 )$ days and most of these advanced days appeared in area $\\mathrm { I I }$ ，with a decreasing tendency in the number of advanced days from southeast to northwest. The dates of onset of freezing (Fig. 8e) and complete freezing (Fig. 8 g) were delayed by 0.9 $( \\pm 1 . 4 )$ and 1.6 $( \\pm 1 . 1 )$ days,respectively. Most of these delayed days appeared in parts of areas II and IV in the eastern SRYR, whereas no significant changes occurred in area I. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2461e10730c1fb8cf9fe69d3e2b6076705ce23deca8136b90dae7ea756eec432.jpg",
+        "img_caption": [
+            "Fig.8Spatial distribution of trends in the onset date and durationof the freeze-thawcycles (in days).Onset date of thawing (a),duration ofthe near-surface soil freeze-thaw transition during spring(b),date of complete thawing (c),duration of the near-surface soil thawing (d),Onset date of freezing (e),duration of the near-surface soil freeze-thaw transition during autumn (f),date of complete freezing (g),and duration of the near-surface soil freezing (h) in the SRYR during the period 2OO2-2011. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The duration of the spring freeze-thaw transition (Fig. 8b) in the middle of the SRYR increased by 2.1 $( \\pm 0 . 9 1 ) \\$ days,whereas that in western Ngoring Lake, Zoige Wetland and the northernmost SRYR the duration decreased by 1.21 $( \\pm 0 . 5 6 )$ days. Similarly, the duration of the autumn freeze-thaw transition (Fig. 8f) in the central region increased by 1.1 $( \\pm 0 . 4 2 )$ days，and the transition decreased by 1.21 $( \\pm 0 . 5 6 )$ days in the other parts.Overall, the duration of complete thawing (Fig. 8d) increased by 0.72 $( \\pm 0 . 2 1 )$ days/a with the maximum increase occurred in area IV and the minimum increase in western Ngoring Lake and northernmost area. Overall, the duration of complete freezing(Fig. 8h) decreased at a rate of 0.52 $( \\pm 0 . 2 6 )$ days/a with the greatest decrease occurred in the northeastern SRYR at lower altitudes and the smallest increase in the southwest SRYR at higher altitude.The above results suggest that the changes in the freeze-thaw cycles were most severe in areas II and IV in the northeastern and southeastern parts of the SRYR in relatively low-lying regions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Many researchers have found that an increase in air temperature, especially in the cold season, results in the shortening of the freeze duration and the lengthening of the thawing duration (Li et al.,2012b; Guo and Wang，2O14; Wang et al., 2O15). In this study, the annual average air temperature $( A T _ { \\mathrm { a v e } } )$ of the SRYR during the period 2OO2-2O11 increased at a rate of $0 . 0 2 3 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ (Fig.9). Moreover, the increase rate of the annual minimum air temperature $( \\mathrm { A T _ { \\mathrm { m i n } } }$ ， $0 . 0 6 6 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ was higher than that of the annual maximum air temperature ( $\\langle A T _ { \\mathrm { m a x } }$ $0 . 0 4 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ ,and the increase rate of average air temperature in winter (ATwinter, $0 . 0 7 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ was higher than that of other seasons, suggesting that there was an asymmetric increase in air temperature in different times and seasons (Zhao et al.,2OO4; Liu et al.,2OO6).That is to say, the increase in air temperature was higher in cold seasons and at night than in warm seasons and during the day,respectively. As shown in Table 1, $A T _ { \\mathrm { m i n } }$ was significantly correlated with the durations of complete thawing and complete freezing，and $A T _ { \\mathrm { w i n t e r } }$ was significantly negatively correlated with the durations of the spring freeze-thaw transition and complete freezing. These results confirm that the increases in $A T _ { \\mathrm { m i n } }$ and $A T _ { \\mathrm { w i n t e r } }$ resulted in the advanced thawing and delayed freezing,and the increase in the thawing duration and the decrease in the freezing duration. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With respect to variations in the near-surface soil freeze-thaw cycles from other parts of the world, similar results have been found in Mongolia (Han et al.,2O1O),central USA (Anandhi et al.,2013)and China (Wang et al.,2O15).However,results from this study indicate that the onsets of thawing during the period 20O2-2011 in the SRYR advanced by approximately $0 . 3 4 ~ \\mathrm { d a y / a }$ whereas it advanced by O.15 day/a in all of China (Wang et al., 2O15) and O.1O day/a in Kansas, USA (Anandhi et al., 2O13). Similarly, the duration of freezing exhibited a larger variation in the SRYR(approximately O.52 day/a) than in all of China (approximately O.25 day/a) (Wang et al., 2015)and in Kansas,USA (O.13 day/a) (Anandhi et al.,2O13),but less than that in Mongolia (1.40 day/a) (Han et al.,2O1O). The differences among these results should not be ignored and may be attributable to two major reasons. First, as previously stated, increases in air temperatures, particularly the $A T _ { \\mathrm { m i n } }$ and $A T _ { \\mathrm { w i n t e r } } .$ ，significantly affect variations in near-surface soil freeze-thaw cycles. It is clear that the changing rates of air temperature differ among study areas. For example, the increase rate of air temperature was faster in the SRYR than in all of China (Lan et al., 2016) and also in central USA (Brunsell et al.,2O1O) and slightly slower than in Mongolia (Han et al., 2010). Second,the use of different detection methods for the near-surface soil freeze-thaw cycle may lead to different results.Han et al. (2OlO) and Li et al. (2O12) used soil temperature measured at O6:00 to represent the onset or offset of the soil freezing events and temperature measured at 18:00 to represent the onset or offset of the soil thawing events based on the SMM/I data. However, this may have ignored some soil freezing or thawing events because the soil at the measuring times was unlikely to have reached the minimum and maximum temperatures. AMSR-E for this study passed over the study regions at O1:3O and 13:3O when the soil temperatures tend to be close to the maximum and minimum values (Xie et al.,2O13; Chai et al., 2014). It means that it can capture real daily soil freezing and thawing events. Additionally, the results from Anandhi et al. (2O13） and Wang et al. (2O15） were based on data measured at individual sites with large uncertainties and unrepresentativeness at a regional scale because of their sparse and unevenly distribution compared with the satelite remote sensing data. Moreover, extensive human activities may also have played a role in the near-surface soil freeze-thaw cycle. Wang et al. (2O15) reported that the observed decrease in the duration of freezing in areas with high rates of urban expansion was approximately higher by $42 \\%$ to $52 \\%$ than those of areas having low and medium rates of urban expansion, being consistent with our results. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d62b3150e6243e05043b83cfcae33ad8a5188b7034aed10a77ccaec8346ab632.jpg",
+        "img_caption": [
+            "Fig.9Variations in the annual air temperature during the period 2OO2-2O1l over the SRYR. $A T _ { \\mathrm { a v e } }$ ，the annual average air temperature; $A T _ { \\mathrm { m a x } }$ ,theannual maximumair temperature; $A T _ { \\mathrm { m i n } }$ ,the annual minimumair temperature; $A T _ { \\mathrm { s p r i n g } }$ ,the average air temperature in spring; $A T _ { \\mathrm { s u m m e r } }$ ，the average air temperature in summer; $A T _ { \\mathrm { a u t u m n } }$ ，the average air temperature in autumn;and $A T _ { \\mathrm { w i n t e r } }$ ,the average air temperature in winter. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5264cc4b3cca065130e77fc6f20937d50accb8da5d48d582617683c6693eaa7a.jpg",
+        "table_caption": [
+            "Table1Correlation coeffcients of the duration of stages of soil freeze-thaw cycles and air temperature for the SRYR "
+        ],
+        "table_footnote": [
+            "Notes:\\*\\*,Correlation coefficient at the O.O1 level;\\*,Correlation coefficient at the O.o5 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Correlation coefficient</td><td>Duration of the spring freeze-thaw transition</td><td>Duration of complete thawing</td><td>Duration of the autumn freeze-thaw transition</td><td>Duration of complete freezing</td></tr><tr><td>ATave</td><td>-0.145</td><td>0.423</td><td>0.281</td><td>-0.757**</td></tr><tr><td>ATmax</td><td>0.065</td><td>-0.059</td><td>0.310</td><td>-0.355</td></tr><tr><td>ATmin</td><td>-0.486</td><td>0.743**</td><td>-0.450</td><td>-0.819**</td></tr><tr><td>ATspring</td><td>0.601*</td><td>0.236</td><td>-0.282</td><td>-0.451</td></tr><tr><td>ATsummer</td><td>-0.259</td><td>0.562*</td><td>0.392</td><td>-0.495</td></tr><tr><td>AT autumn</td><td>-0.213</td><td>0.395</td><td>0.551*</td><td>-0.568*</td></tr><tr><td>ATwinter</td><td>-0.666**</td><td>0.434</td><td>0.295</td><td>-0.842**</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The variations in near-surface soil freeze-thaw cycles could significantly impact the ecosystems of the SRYR.The earlier thawing and the increase in duration of thawing may result in the earlier onset and lengthening of vegetation growing seasons (McDonald et al., 2O04; Delbart et al., 2008; Richardson et al., 2Ol3). However, the increase in duration of thawing,together with climate warming, has a negative impact on ecosystems within water-limited regions through increasing water stress (Seneviratne et al., 2O1O; Zhang et al.,2O11). Moreover, changes in soil freeze-thaw cycles would intensify the water and energy cycles through soil ice-water phase changes and increase in the exchange of heat between the atmosphere and the ground surface.Such variations tend to generate drier land surfaces because both water infiltration and evapotranspiration increase under these conditions in the SRYR (Jin et al.，2009；Li et al.，2012).A lower groundwater table and a decrease in the areas of lakes and wetlands have also occurred on the plateau，which has further accelerated the degradation of alpine grassland and desertification. Additionally,it has been predicted that the temperature of the Qinghai-Tibetan Plateau could increase by $2 . 2 \\mathrm { - } 2 . 6 ^ { \\circ } \\mathrm { C }$ by 205O,with an annual increase rate of $0 . 0 4 4 - 0 . 0 5 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ (Qin et al, 2002). Under the highest warming rate of $0 . 0 5 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ ,the permafrost area would decrease by $1 3 . 5 \\%$ (Nan et al.,2Oo5),and the mean active layer thickness would increase by $0 . 3 \\mathrm { - } 0 . 8 \\mathrm { ~ m ~ }$ compared with that in 2010 (Zhang and Wu, 2O12). At the same time,the near-surface soil freeze-thaw cycle would severely change in the future under those climate scenarios. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study，we applied a dual-indices algorithm in the SRYR based on measured LSTs and vertically polarized 18.7 and $3 6 . 5 ~ \\mathrm { G H z }$ AMSR-E brightness temperature data obtained through passive microwave remote sensing. The daytime and nightime brightness temperature thresholds of 257.59 and $2 6 1 . 2 8 \\mathrm { ~ K ~ }$ used in the algorithm were confirmed for distinguishing the near-surface freeze-thaw status. Additionally,we divided the inferred status into three types (DFS,DTS and DFTS）and separated the annual freeze-thaw cycle into four stages.Most of the SRYR experienced freeze-thaw cycles of long duration. In the coldest month，the DFS occurred primarily in area I, DFTS occurred in areas II and IV,and DTS appeared in area II. The areas occupied by DFS and DFTS during the period 2OO2-2011 decreased by $0 . 0 8 \\%$ and $0 . 2 5 \\%$ respectively,and the DTS area increased by $0 . 3 6 \\%$ . According to the east-west profile line at $3 4 . { \\bar { 5 } } ^ { \\circ } \\mathrm { N }$ and north-south profile line at $9 9 . 8 ^ { \\circ } \\mathrm { E }$ ， the onset of thawing advanced， the onset of freezing became delayed，and incomplete freezing occurred on the Zoige plateau in the southeastern part of the SRYR. During the period 2OO2-2O11, the dates of the onset of thawing and complete thawing advanced by 3.1 $( \\pm 1 . 4 )$ and 2.46 $\\left( \\pm 1 . 4 \\right)$ days,respectively; the dates of the onset of freezing and complete freezing delayed by 0.9 $( \\pm 1 . 4 )$ and $1 . 6 \\ ( \\pm 1 . 1 )$ days,respectively. The duration of complete thawing increased by 0.72 $( \\pm 0 . 2 1 )$ day/a and the duration of complete freezing decreased by 0.52 $( \\pm 0 . 2 6 )$ day/a.Most severe changes occurred in areas III and IV. The durations of the spring and autumn freeze-thaw transitions increased over most of the central region,whereas the durations decreased in other regions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The results of this study demonstrated that the increases in $A T _ { \\mathrm { m i n } }$ and $A T _ { \\mathrm { w i n t e r } }$ were the primary drivers for earlier thawing and later freezing and also for an increase in the duration of thawing and a decrease in the duration of freezing. Given the fragile and sensitive ecosystems that occur across the SRYR,these variations in the near-surface freeze-thaw cycle affect the water and energy cycles in the soil and cause further acceleration of the degradation of grasslands. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Science and Technology Support Plan of China (2O15BAD07B02).We sincerely thank the anonymous reviewers and editors for their valuable comments. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AnandhiA,PerumalS,GowdaPH,etal.2013.Long-term spatialand temporal trendsin frostindicesin Kansas,USA. Climatic Change,120(1-2): 169-181. Bartsch A,KidR A,Wagner W,etal.2OO7.Temporalandspatial variabilityof the beginingandendof daily spring freeze/thaw cycles derived from scaterometer data.Remote Sensing of Environment,lO6(3):360-374. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Buermann W,Bikash PR,Jung M,etal.2O13.Earliersprings decrease peak summerproductivity in North Americanboreal forests.Environmental Research Letters,8(2): 024027.   \nChaiL,ZhangLX,ZhangYY,etal.2014.Comparisonoftheclassificationaccuracyof threesoilfreeze-thawdiscriination algorithms in China using SSMIand AMSR-Epasive microwaveimagery.Iternational Journal of RemoteSensing,35(22): 7631-7649.   \nDelbartN,PicardGLeToan T,etal.Oo8.Spring phenologyinborealEurasiaoveranearlycenturytimescale.GlobalChange Biology, 14(3): 603-614.   \nGuo DL,Wang HJ.2O14.Simulatedchange inthe near-surface soilfeze/thawcycleon the Tibetan Plateau from1981to 2010. Chinese Science Bulletin,59(20): 2439-2448.   \nHanLJ,TsunekawaA,TsuboM.2O10.Monitoring near-surfacesoil freeze-thaw cycles in northern Chinaand Mongolia from 1998 to 2Oo7.International Journal of Applied Earth Observation and Geoinformation,12(5): 375-384.   \nHenry HAL.2Oo8.Climate change andsoil freezing dynamics:historical trends and projectedchanges.Climatic Change, 87(3-4): 421-434.   \nJin HJ,HeRX,ChengGD,etal.2Oo9.Changesin frozen groundin thesourceareaoftheYellw Riveronthe Qinghai-Tibet Plateau, China,and their eco-environmental impacts.Environmental Research Letters,4(4): 045206.   \nJudgeJ,GalantowiczJF,EnglandAW,etal.1997.Freeze/thawclassificationforprairiesoilsusingSM/Iradiobrighte. IEEE Transactions on Geoscience and Remote Sensing,35(4): 827-832.   \nLanYC,ZhuYT,LiuGS,etal.2O16.Studyoftheseasonal characteristicsandregional diferencesofclimatechange in source regions of the Yellow River. Journal of Glaciology and Geocryology,38(3):741-749. (in Chinese)   \nLiR,ZhaoL,DingYJ,etal.2O12.Temporalandspatialvariationsof heactivelayeralongtheQinghai-Tbethighwayina permafrost region. Chinese Science Bulletin,57(35): 4609-4616.   \nLi X,Jin R,Pan X D,et al.2O12.Changes in the near-surfacesoil freeze-thaw cycleon the Qinghai-Tibetan Plateau. International Journal of Applied Earth Observation and Geoinformation,17: 33-42.   \nLiu XD,YinZY,ShaoXM,etal.2O6.Temporal rendsandvariabilityofdailymaximumandminimum,extreme temperature events,and growing season length over the eastern and central Tibetan Plateau during1961-2Oo3.Journalof Geophysical Research,111(D19): D19109.   \nLuo S,Fang X,LuS,etalO16.Frozengroundtemperaturetrendsasociated withclimatechange intheTibetaPlateau Three River Source Region from 1980 to 2014.Climate Research,67(3): 241-255.   \nMatsuokaN,IkedaA,SueyoshiT,etalO9.Permafrostandhydrologyintheourceareaof theYellowRiver.Buletinofthe Geological Survey of Japan, 60(1-2): 39-57.   \nMatznerE,Borken W.2O08.Do freze-thaw events enhance Cand Nlosses from soilsof diffrent ecosystems?Areview. European Journal of Soil Science,59(2): 274-284.   \nMcDonaldKC,KimballJS,NjokuE,etal.2O04.Variabilityinspringtiethawintheterrestrialhighlatitudes: monitoringa major control on the biospheric asimilation of atmospheric CO2 with space borne microwave remote sensing.Earth Interact, 8(20):1-23.   \nNan Z T,Li SX,Cheng G D.2Oo5.Prediction ofpermafrost distributiononthe Qinghai-Tibet Plateauin thenext 50and 100 years. Science in China Series D: Earth Sciences,48(6),797-804.   \nNicolas D,GhislainP,ThuyLT,etal.2Oo8.Spring phenology in boreal Eurasiaovera nearlycentury time scale.Global Change Biology,14(3): 603-614.   \nNishimura T,KamachiN,ImotoH,etal.2O.Prefreezesoilmoistureandcompactionaffectwatererosioinpartiallmelted andisols. Soil Science Society of America Journal, 75(2): 691-698.   \nPoutou E,KrinnerG,Genthon C,etal.2O04.Roleofsoil freezing in futureborealclimate change.Climate Dynamics,23(6): 621-639.   \nQinDH,Ding YH,Wang SW,et al.2OO2.Astudyofenvironmentchange and itsimpacts in western China.Earth Science Frontiers,9(2): 321-328.(in Chinese)   \nRichardsonAD,KeenanTF,MigliavaccaM,etal.2O13.Climatechange,phenology,ndphenologicalcontrolofgetation feedbacks to the climate system.Agricultural and Forest Meteorology,l69:156-173.   \nSeneviratneSI,CortiT,DavinEL,etal.Ol.Investigatingsoiloisture-cimateinteractionsinachangingclimate:Aeview Earth Science Reviews,2010,99(3-4):125-161.   \nSmith NV,Satchi SS,RandersonJT.2O04.Trends inhigh northernlatitudesoil freezeand thawcycles from1988 to2002. Journal of Geophysical Research: Atmospheres,109: doi: 10.1029/2003JD004472.   \nSingh KK,Mishra VD,Sood S,et al.20l3.3-decadal changesin sea ice meltingand freezing patern inAntarctica using SSM/I data.Journal of the Indian Society of Remote Sensing,41(4): 947-956.   \nSun H,Qin JH,Wu Y.2008.Freeze-thawcyclesand their impacts on ecological proces:areview.Soils,40(4):50-509.(in Chinese)   \nWangG,QianJ,ChengGetal.2Ool.Eco-environmentaldegradationandcausalanalysisinthesourceregionoftheYellow River. Environmental Geology, 40(7): 884-890.   \nWang K,ZhangT,Zhong X.2O15.Changes inthe timingand durationof thenear-surface soilfreeze/thawstatus froml956 to 2006 across China. The Cryosphere,98(4):1321-1331.   \nWang WB,ShuX,ZhangQF,etal.2Ol5.Effectsoffreezethacyclesonthesolnutrientbalances,infiltration,andstability of cyanobacterial soil crusts in northern China.Plant and Soil,386(1-2): 263-272.   \nWangYB,WangGX,ChengYF,etal.2O6.Responseof typicalhigh-coldfrozensoil tochangeof thehigh-cold ecosstem on Tibetan Plateau.Journal of Glaciology and Geocryology,28(5): 633-641.(in Chinese)   \nWen J,LanYC,SuZB,etal.2O1Advancesinobservationand modelingof landsurface procesesoverthesourcergionof the Yellow River.Advances in Earth Science,26(6): 575-585.(in Chinese).   \nXieYM,JinR,Yang X G20l3.Algorithm developmentof monitoring daily near surface freeze/thawcycles using AMSR-E brightness temperatures.Remote Sensing Technology and Application,28(2):182-191.(in Chinese)   \nYang MX,YaoTD,GouXH,etal.2Oo7.Diurnal freeze/thawcyclesofthe groundsurfaceonthe TibetanPlateau.Chinese Science Bulletin,52(1):136-139.   \nYi J,ZhaoY,ShaoMA,etal.2O14.Soilfreezingandthawingprocessesaectedbythediferentlandscapes inthemidle reaches of Heihe River Basin,Gansu,China.Journal of Hydrology,519:1328-1338.   \nYiXS,YinYY,LiGSetal.2Ol1.Temperature VariationinRecent 50Years intheThree-RiverHeadwatersRegionof Qinghai Province.Acta Geographica Sinica,66(11): 1451-1465.   \nZhang K,KimbalJS,KimY,eal.Ol1Changingfreee-tawsasonsinorherighlatitudesandassiatedinfeceson evapotranspiration.Hydrological Processes,25(26): 4142-4151.   \nZhang LX,JiangLM,Chai LN,etal.2l1.Researchadvances inpaive microwaveremotesensingoffreeze-thawprocesse over complex landscapes.Advances in Earth Sciences,26(10):1023-1029.(in Chinese)   \nZhangT,ArmstrongRL,SmithJ.2Oo3.Investigationof henear-surfacesoilfreze-thawcycleinthecontiguousUnitedStates: algorithm development and validation.Journal of Geophysical Research,Atmospheres,108(D22):1999-2014.   \nZhang T,Jin R,Gao F2O09.Overview of the Satelie Remote Sensing of Frozen Ground:Passive Microwave Sensors. Advances in Earth Science,24(10):1073-1083.   \nZhangT,Wang K,Zhong X.2O15.Changes inthe timing anddurationof the near-surface soilfreze/thaw status from1956to 2006 across China. Cryosphere Discussions,8(4): 3785-3809.   \nZhang ZQ,Wu QB.2O12.Predicting Changes of Active Layer Thicknesson the Qinghai-Tibet Plateauas Climate Warming. Journal of Glaciology and Geocryology,34(3): 505-511. (in Chinese)   \nZhao L,Ping CL,Yang D Q,et al.2004.Changes of climateand seasonally frozen groundover the past 3O years in Qinghai-Xizang(Tibetan) Plateau, China.Global and Planetary Change,43(1-2):19-31.   \nZhao TJ,ZhangLX,JiangLM,etal.20l1Anewsoilfreeze/thawdiscriminantalgorithmusingAMSR-Epassivemicrowave imagery.Hydrological Processes,25(11):1704-1716.   \nZheng D,Zhang RZ,YangQY.1979.Onthe natural zonation in the Qinghai-Xizang Plateau. Acta Geographica Sinica,34(1): 1-11. (in Chinese)   \nZuerndorfer B,England A W.1992.Radiobrightness decision criteria for freeze/thaw boundaries.IEEE Transactionson Geoscience and Remote Sensing,30(1): 89-102. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

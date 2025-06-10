@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "单克隆抗体Mab-A生产细胞Sp2/0缩小模型培养优化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汪国强1²，刘建平¹，周航²（1复旦大学生命科学学院上海2004382上海药明生物技术有限公司上海200131）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 $\\mathtt { S p } 2 / 0$ 是一种生产单克隆抗体的常用细胞株。本研究首先在批次培养模式中对适合$\\mathtt { S p } 2 / 0$ 细胞生长的5种基础培养基、摇床转速、培养温度、二氧化碳浓度、微量元素和GIutaMAX替换谷氨酰胺等影响因素进行了筛选研究。结果显示 $\\mathtt { S p } 2 / 0$ 细胞在批次培养中细胞密度最高值达到 $1 3 . 1 2 \\times 1 0 ^ { 6 } \\mathsf { c e l } | \\mathsf { s } / \\mathsf { m L }$ ，培养时间为7天。除培养温度会导致不同的细胞生长密度和活率、进而影响培养时间外，其它因素不能导致明显的细胞生长差异。随后在流加培养模式下就14种补料组合进行了筛选， $\\mathtt { S p } 2 / 0$ 在流加培养模式下细胞的峰值密度可达$2 0 - 3 0 \\times 1 0 ^ { 6 }$ cells/mL，培养时间9天，单克隆抗体Mab-A日产量最高达到 $2 7 . 2 0 \\mathrm { m g / L }$ 。最后应用批次-反复流加培养模式培养 $\\mathtt { S p 2 / 0 }$ 细胞，该条件下峰值细胞数为50. $\\boldsymbol { 4 2 \\times 1 0 } ^ { \\boldsymbol { 6 } }$ cells/mL,培养时间14天，每天单抗产量（14 $1 . 1 0 \\mathrm { m g / L ) }$ 是流加培养的5.19倍。这些研究结果为 $\\mathtt { S p 2 / 0 }$ 细胞规模化生产单克隆抗体奠定了一定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字 $\\mathtt { S p } 2 / 0$ 缩小模型 批次-反复流加中图分类号Q256",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { S p 2 / 0 { - } A g 1 4 }$ 细胞株于上世纪70 年代因特定抗体生产需求建立起来。随后的几十年中，国际制药巨头应用$\\mathrm { S p 2 / 0 }$ 细胞生产出Cetuximab（Erbitux?，百时美施贵宝）,Basiliximab（Simulect?，诺华），Canakinumab（Ilaris?，诺华）,Abciximab （Reopro?， Centocor OrthoBiotech Inc.,礼来）等[2多种单抗药物,这些单抗药物每年创造了上百亿美元的利润。国内生物大分子药物在最近几十年发展迅速，但多数为仿制药。$\\mathrm { S p 2 / 0 }$ 细胞培养方法因为国际制药公司技术壁垒等原因，极少见诸于报。另外一方面，国内有部分关于 $\\mathrm { S p 2 / 0 }$ 细胞的研究，但研究更多的是针对如何抑制 $\\mathrm { { S p 2 / 0 } }$ 细胞的生长[3-5]，其目的是为各药物在多发性骨髓瘤治疗中的应用提供理论依据。掌握 $\\mathrm { S p 2 / 0 }$ 细胞大规模培养关键技术对于国内生物制药公司而言非常必要。一个良好的缩小（scale-down）模型是大规模生产运行的基础。本文就 $\\mathrm { S p 2 / 0 }$ 细胞缩小模型培养体系的优化开展研究工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1细胞株 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实验所用为表达单克隆抗体 $- \\mathtt { A }$ (Mab-A)的 $\\mathrm { S p 2 / 0 { - } A g 1 4 }$ ,购买于 $\\operatorname { A T C C } ^ { \\mathbb { \\left( B \\right) } }$ 0 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 培养基",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究所用培养基均为GE，ThermoFisher等培养基生产商生产的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "商业化培养基，具体信息详见表1。所有基础培养基在使用前均将谷氨酰胺含量调整为8mmol/L。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2e680aa855de2384b2ab63f5c40e222df43b884e28543d6c586c8ac6fa96dad.jpg",
+        "table_caption": [
+            "Table1Mediuminformation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Medium code</td><td>Vendor</td><td>Category</td></tr><tr><td>A,B</td><td>ThermoFisher</td><td>Basal medium</td></tr><tr><td>C,D,E</td><td>GE</td><td rowspan=\"3\">Feed medium</td></tr><tr><td>F,G</td><td>ThermoFisher</td></tr><tr><td>H, I, J, K</td><td>GE</td></tr><tr><td>L</td><td>Merck</td><td></td></tr><tr><td>M</td><td>Kerry</td><td rowspan=\"3\">Hydrolysate</td></tr><tr><td>N,0</td><td>Lonza</td></tr><tr><td>P,Q</td><td>Kerry</td></tr><tr><td>R</td><td>Merck</td><td>Additive</td></tr><tr><td>Dexamethasone</td><td>Merck</td><td></td></tr><tr><td>GlutaMAXT</td><td>ThermoFisher</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3培养方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从液氮罐中取出冻存的种子细胞，$3 7 ^ { \\circ } \\mathrm { C }$ 水浴锅中进行孵化，离心去上清$( 2 0 0 \\ \\mathrm { g } , \\ \\mathsf { 5 } \\ \\mathrm { m i n } )$ ，使用新鲜的培养基A进行细胞重悬，以 $0 . 3 \\times 1 0 ^ { 6 }$ cells/mL的密度接种于 $2 5 0 \\mathrm { m L }$ 的摇瓶内，置于培养箱内培养。培养箱条件为转速125rpm， $6 \\%$ 的 $\\mathrm { C 0 } _ { 2 }$ ， $3 6 . 5 \\mathrm { ^ { \\circ } C }$ 及 $8 0 \\%$ 的湿度。每隔 $4 8 \\mathrm { h }$ ，种子细胞悬液以 $0 . 3 \\times 1 0 ^ { 6 }$ cells/mL的接种密度，使用新鲜培养基A进行稀释传代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "摇瓶内的批次培养实验：取处于对数生长期的种子细胞悬液，以 $0 . 3 \\times 1 0 ^ { 6 }$ cells/mL的密度接种于 $1 2 5 \\mathrm { m L }$ 的摇瓶内，添加实验所用新鲜培养基（见表2），工作体积为 $3 0 \\mathrm { { m L } }$ ，置于培养箱内培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "控制组 SF1-8培养箱条件为转速$1 2 5 ~ \\mathrm { r p m }$ ， $6 \\%$ 的 $\\mathrm { C 0 } _ { 2 }$ ， $3 6 . 5 \\mathrm { ^ { \\circ } C }$ 及 $8 0 \\%$ 的湿度。控制组每个条件独立重复两次。实验组 SF9-20 的培养条件除转速、 $\\mathrm { C 0 } _ { 2 }$ 和培养温度依次同控制组不相同外，其它培养参数同控制组相同；实验组SF21、22在基础培养基中添加0.2mL/L浓度的微量元素；实验组SF23-26将每天添加的谷氨酰胺替换成GlutaMAXT；条件设计详情见表2。所有条件每隔24h取样计数，测生化。谷氨酰胺或GlutaMAXl低于8mmol/L补到8 mmol/L，葡萄糖低于 $3 \\mathrm { \\ g / L }$ 补到 $5 \\mathrm { g / L }$ 。待细胞活性降至 $5 0 \\%$ 以下时，结束批培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "摇瓶内的流加培养实验：取处于对数生长期的种子细胞悬液，以 $0 . 3 \\times 1 0 ^ { 6 }$ cells/mL的密度接种于 $1 2 5 \\mathrm { m L }$ 的摇瓶内，添加新鲜培养基D，工作体积为$3 0 \\mathrm { m L }$ ，置于培养箱内培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "培养箱条件为转速 $1 2 5 ~ \\mathrm { r p m }$ ， $6 \\%$ 的$\\mathrm { C 0 } _ { 2 }$ ， $8 0 \\%$ 的湿度。实验组 SF27-39依次按第3、7天流加 $1 . 5 \\mathrm { m L }$ ，第4、6天流加 $2 . 5 \\mathrm { m L }$ ，第5天流加3mL的策略对各种流加培养基进行添加；培养温度为$3 5 ^ { \\circ } \\mathrm { C }$ 。实验组SF40依次按第2、6天流加 $1 . 5 \\mathrm { m L }$ ，第3、5天流加 $2 . 5 \\mathrm { m L }$ ，第4天流加3mL的策略对流加培养基进行添加；起始培养温度为 $3 6 . 5 \\mathrm { ^ { \\circ } C }$ ，第4天降温至 $3 3 ^ { \\circ } \\mathrm { C }$ 。条件设计详情见表3。所有条件每隔 $2 4 \\mathrm { h }$ 取样计数，测生化。谷氨酰胺低于8mmol/L补到8mmol/L，葡萄糖低于 $3 \\mathrm { g / L }$ 补到 $5 \\mathrm { g / L }$ 。待细胞活性降至 $5 0 \\%$ 以下时，结束批培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表2批次培养条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/98523ac0bc2f49600b8b9d8981285a726a280f73af17bcb9ac33448e84c380a1.jpg",
+        "table_caption": [
+            "表1培养基信息表",
+            "Table2 Conditions for batch culture "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Culture No.</td><td>Medium Code</td><td>Condition</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb2231887f1faa50f798b28ed838cf1ddd194ea6c42be5c972880fa0dfefa559.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SF1,5</td><td>A+C (50%+50%)</td><td>Control</td></tr><tr><td>SF2,6</td><td>D</td><td></td></tr><tr><td>SF3,7</td><td>B</td><td></td></tr><tr><td>SF4,8</td><td>E</td><td></td></tr><tr><td>SF9</td><td>A+C (50%+50%)</td><td>160 RPM</td></tr><tr><td>SF10</td><td>D</td><td></td></tr><tr><td>SF11</td><td>B</td><td></td></tr><tr><td>SF12</td><td>E</td><td></td></tr><tr><td>SF13</td><td>A+C (50%+50%)</td><td>10%CO2</td></tr><tr><td>SF14</td><td>D</td><td></td></tr><tr><td>SF15</td><td>B</td><td></td></tr><tr><td>SF16</td><td>E</td><td></td></tr><tr><td>SF17</td><td>A+C (50%+50%)</td><td>33℃</td></tr><tr><td>SF19</td><td>E</td><td></td></tr><tr><td>SF18</td><td>A+C (50%+50%)</td><td>35℃</td></tr><tr><td>SF20</td><td>E</td><td></td></tr><tr><td>SF21</td><td>A+C (50%+50%)</td><td>Trace element</td></tr><tr><td>SF22</td><td>E</td><td></td></tr><tr><td>SF23</td><td>A+C (50%+50%)</td><td>GlutaMAXTM</td></tr><tr><td>SF24</td><td>D</td><td></td></tr><tr><td>SF25</td><td>B</td><td></td></tr><tr><td>SF26</td><td>E</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "摇管内的批次-反复流加培养实验：取处于对数生长期的种子细胞悬液，以 $0 . 3 \\times 1 0 ^ { 6 }$ cells/mL的密度接种于$5 0 \\mathrm { m L }$ 的TTP内,添加新鲜培养基D，工作体积为 $2 0 \\mathrm { { m L } }$ ，置于培养箱内培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从第4天起每天添加0.5μmol/L的地塞米松，ST3从第4天起每天添加$0 . \\mathrm { { ~ 1 ~ } ~ \\ u \\ m o l / L }$ 的地塞米松。所有条件每隔 $2 4 \\mathrm { h }$ 取样计数，测生化。谷氨酰胺低于 $8 \\ \\mathrm { m m o l / L }$ 补到 $8 \\ \\mathrm { m m o l / L }$ ，葡萄糖低于 $3 ~ \\mathrm { g / L }$ 补到 $5 ~ \\mathrm { g / L }$ 。待细胞活性降至 $5 0 \\%$ 以下时，结束批培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3流加培养条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5177e14e7c8d13875f74787bbe6fbd93badd99e0153e09c5d267695cb75dc4e6.jpg",
+        "table_caption": [
+            "Table 3 Conditions for fed-batch culture "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Culture No.</td><td>Medium Code</td><td>Conditon</td></tr><tr><td>SF27</td><td>99%F+1%L</td><td>Feed medium screen</td></tr><tr><td>SF28</td><td>99%G +1% L</td><td></td></tr><tr><td>SF29</td><td>49.5%F + 49.5%G + 1% L</td><td></td></tr><tr><td>SF30</td><td>99% H + 1% L</td><td></td></tr><tr><td>SF31</td><td>49.5% H + 49.5% I + 1% L</td><td></td></tr><tr><td>SF32</td><td>99%J+1% L</td><td></td></tr><tr><td>SF33</td><td>80%J+ 1% L + 19% water</td><td></td></tr><tr><td>SF34</td><td>99%K+1%L</td><td></td></tr><tr><td>SF35</td><td>99%J(with 15 g/L P)+ 1% L</td><td></td></tr><tr><td>SF36</td><td>99%J (with 15 g/L Q)+ 1% L</td><td></td></tr><tr><td>SF37</td><td>99% N + 1% L</td><td></td></tr><tr><td>SF38</td><td>99% M + 1% L</td><td></td></tr><tr><td>SF39</td><td>99%0+1%L</td><td></td></tr><tr><td>SF40</td><td>99%J+1% L</td><td>36.5℃ shift to 33℃ on day 4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "培养箱条件为转速 $2 2 5 ~ \\mathrm { r p m }$ ， $6 \\%$ 的$\\mathrm { C 0 } _ { 2 }$ ， $8 0 \\%$ 的湿度；起始培养温度为$3 6 . 5 ^ { \\circ } \\mathrm { C }$ ，在活细胞数达到 $1 0 \\times 1 0 ^ { 6 }$ cells/mL时降温至 $3 3 ^ { \\circ } \\mathrm { C }$ 。控制组ST1和实验组ST2、3均按以下策略每天离心（ $2 0 0 \\mathrm { ~ g ~ }$ ，5min）换液：第2天更换新鲜培养基和工作体积的体积比( freshmediumvolume/workingvolume perday，VvD）为0.5的新鲜培养基D；第3天0.8VVD的新鲜培养基D；第4天起0.8VVD的混合培养基$\\left( \\mathrm { D } \\colon \\mathrm { J } \\colon \\mathrm { L } = 8 8 . 2                { \\mathrm { : } } 9 . 8 { \\mathrm { : } } 2 . 0 \\right)$ 。实验组 ST2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1细胞计数使用细胞计数仪（Vi-CELL XR,Beckman Coulter）测量细胞密度，细胞活率和细胞直径，其计数原理为台盼蓝染色法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2生化及抗体浓度的检测 使用Cedex（Cedex Bio HT,Roche）测量葡萄糖，谷氨酰胺和GlutaMAXT，其原理为分光光度法；同时，Mab-A浓度也是由Cedex测得，其原理为比浊法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果和讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同培养条件、微量元素和GlutaMAX在批次培养中对Sp2/0细胞生长的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "控制组使用了5种不同的培养基或培养基组合进行了实验。由图1可以看出，每个条件的独立重复结果非常一致，因此后续实验不再设立重复。控制组中，培养基D、E可以达到最高的峰值细胞，其浓度为 $1 3 . 1 2 \\times 1 0 ^ { 6 }$ cells/mL，培养天数为7天。使用更高摇床转速的实验组SF9-SF12结果如表4所示，其峰值细胞数（ $1 2 . 6 9 \\times 1 0 ^ { 6 }$ cells/mL）和培养天数（7天）同控制组相比并没有显著性差异。同样，使用 $1 0 \\%$ 的二氧化碳的实验组 SF13-SF16,并没有比控制组使用 $6 \\%$ 的二氧化碳获得更高的峰值细胞数和更长的培养天数；其中，使用基础培养基E的 SF16其峰值细胞数反而下降为 $9 . 9 0 \\times 1 0 ^ { 6 }$ cells/mL。温度对 $\\mathrm { S p 2 / 0 }$ 细胞生长和活率的影响见图2。由图上可以看出，$\\mathrm { S p 2 / 0 }$ 细胞在培养基E中，其在 $3 6 . 5 \\mathrm { ^ { \\circ } C }$ ，$3 5 ^ { \\circ } \\mathrm { C }$ ， $3 3 ^ { \\circ } \\mathrm { C }$ 下的峰值细胞分别为12.32,11.03 和 $8 . 0 9 \\times 1 0 ^ { 6 }$ cells/mL,而相应的培养天数为7天，8天和9天，即培养温度越高，其峰值细胞数越高，但培养天数越短。同样的结果在培养基$\\mathsf { A } { + } \\mathrm { C } \\left( 5 0 \\% { + } 5 0 \\% \\right)$ 也观察到了。添加微量元素的实验条件 SF21、22 结果如表4所示，其峰值细胞数和培养天数与控制组SF1、4相比均未有显著性差异。同样，以GlutaMAXT\"替换谷氨酰胺的实验组其结果与控制组相比也未有显著性差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动物细胞生长均需要合适的溶氧式下，当摇床转速从125 rpm 提高到160 rpm，二氧化碳浓度从 $6 \\%$ 提高到$1 0 \\%$ 时， $\\mathrm { S p 2 / 0 }$ 细胞并没有生长得更高，活率下降也并没有更缓慢，说明之前的培养条件已不是限制 $\\mathrm { S p 2 / 0 }$ 细胞生长的限制性条件。更低的培养温度往往可以获得更好的细胞活率，进而获得更长的细胞培养周期。本实验中，$\\mathrm { S p 2 / 0 }$ 也随3个不同的培养温度呈现了3 个不同的培养周期，但更低的培养温度同时也导致了更低的细胞密度。为了平衡细胞密度和培养周期，下一个实验将在 $3 5 ^ { \\circ } \\mathrm { C }$ 培养条件下进行。有文献报道，锌、胰岛素、胆固醇[]、磷[8]对杂交瘤细胞生长起关键作用，但如表4所示，在本文研究范围内，这些添加剂并未促进细胞生长或延长细胞培养周期。同样，谷氨酰胺是 $\\mathrm { S p 2 / 0 }$ 生长的关键氨基酸，但由消耗谷氨酰胺所累积的氨却会在一定浓度下抑制细胞生长；GlutaMAX是L-谷氨酰胺和L-丙氨酸的二肽化合物，而细胞可逐渐释放氨肽酶，水解二肽，因此L-谷氨酰胺和L-丙氨酸可缓慢释放至培养基中。原设计是希望谷氨酰胺的理论缓释迫使 $\\mathrm { S p 2 / 0 }$ 利用葡萄糖作为碳源和能源，进而最少地累积氨。但结果表明，实验组 SF23-26 的氨的累积量同控制组相比小于等于1mmol/L（数据并未展示）。其可能的原因是： $\\mathrm { S p 2 / 0 }$ （204号对于谷氨酰胺的需求较为强烈，而GlutaMAX并未达到缓释谷氨酰胺的作田",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "批次培养模型下进行的基础培养基筛选，培养基D、E获得了比其它条件更高的细胞密度和更长的培养周期。但 $\\mathrm { { 1 3 . 1 2 \\times 1 0 ^ { 6 } \\ c e l l s / m L } }$ 的峰值细胞数和7天的培养天数对于单抗工业化生产来说太低，批次培养模型不能成为$\\mathrm { S p 2 / 0 }$ 细胞生长的最适缩小模型。因此实验下一步进行流加培养，考察流加培养能否成为单克隆抗体Mab-A生产细胞 $\\mathrm { S p 2 / 0 }$ 的最适培养模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae4b8d992e4012203c0296ab499df46fbfd46b70268ddedcd30bbf16743473c2.jpg",
+        "img_caption": [
+            "图1 $\\mathtt { S p 2 / 0 }$ 在不同基础培养基中的生长及活率曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a157330b9ba77fd1dceaadda6e6a7f88ff9c7c7ed3eb77d9eb8eda4ac3b845c.jpg",
+        "img_caption": [
+            "Fig.1Cell growth (a) and viability (b) in various basal media ",
+            "图2温度对 $\\mathtt { S p 2 / 0 }$ 细胞生长和活率的影响",
+            "Fig.2Cell growth (a) and viability (b) under different culture temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同流加培养基在流加培养中对",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\$ 02/0$ 细胞生长、单克隆抗体Mab-A表达的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14种补料组合的筛选结果见表5。补料的添加大幅提高了细胞密度，与批次实验的SF2、6相比，增幅最大的条件SF35增加了 $1 8 3 \\%$ ，为 $3 7 . 0 8 \\times 1 0 ^ { 6 }$ cells/mL；培养天数并没有因为补料的添加产生显著性差别，最长培养天数为9天（SF35）。SF40所用补料同SF32相同，两者培养条件差异为培养温度。SF40 细胞峰值比SF32仅低了$2 . 7 4 \\times 1 0 ^ { 6 }$ cells/mL，SF40 培养天数比SF32也仅多了一天，但SF40单抗产量却是 SF32的1.57倍,单细胞产量 $\\big ( \\mathrm { q } _ { \\mathrm { M a b - A } } \\big )$ 是 SF32的1.26倍。拥有最高峰值细胞数和最长培养天数的SF35其单抗产量和单细胞产量均显著性低于条件",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SF40。其它补料组合其单抗产量和/或单细胞产量也显著性低于条件SF40。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "批次培养虽然简单且节约成本，但没能获得较高的细胞密度，且培养天数也较短，不能很好地成为一个缩小模型。流加培养虽然略复杂，但可以多次提供营养成分，现已发展成为最常见的单抗商业化生产细胞培养模型。在市面上，有部分培养基生产商如Corning等会专门为杂交瘤细胞生长设计相应的基础培养基[9，也有公司或学者就补料培养基进行了研究，其中包括化学限定培养基[1°和植物蛋白水解物[1]等。本研究就将市面上的12种补料培养基进行表3中的组合后，进行 $\\mathrm { S p 2 / 0 }$ 细胞培养。同时有文献报道，先利用较高的温度生长细胞，然后降温培养，将达到高产蛋白的目的[12]。结合批次实验中更高的培养温度获得了更高的细胞密度，更低的温度获得了更长的培养周期，实验SF40 即使用了同SF32相同的流加培养基，但不同的培养温度的策略。结果表明，先利用较高的温度生长细胞，然后降温培养以达到高产蛋白的方式对$\\mathrm { S p 2 / 0 }$ 细胞同样适用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c45ec326db4f29de4a667885226ce9decccf8ba8bd71d418356f0e745e929db.jpg",
+        "table_caption": [
+            "表4批次培养条件（摇床转速、 $\\mathsf { C O } _ { 2 }$ 浓度、微量元素、GlutaMAX运用）对 $\\mathtt { S p 2 / 0 }$ 细胞生长影响",
+            "Table 4Influence of shaking speed, $\\mathbf { C O } _ { 2 }$ ,trace element and GlutaMAX on cells'performance "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>SF9</td><td>SF10</td><td>SF11</td><td>SF12</td><td>SF13</td><td>SF14</td><td>SF15</td><td>SF16</td><td>SF21</td><td>SF22</td><td>SF23</td><td>SF24</td><td>SF25</td><td>SF26</td></tr><tr><td>Peak VCC (10</td><td>7.81</td><td>12.44</td><td>3.56</td><td>12.69</td><td>8.50</td><td>12.39</td><td>4.02</td><td>9.90</td><td>6.71</td><td>12.45</td><td>8.77</td><td>13. 44</td><td>3.46</td><td>12.85</td></tr><tr><td>cells/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Culture duration</td><td>5</td><td>7</td><td>4</td><td>7</td><td>5</td><td>7</td><td>4</td><td>7</td><td>5</td><td>7</td><td>5</td><td>7</td><td>4</td><td>7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于本实验是研究Mab-A生产细胞 $\\mathrm { { S p 2 / 0 } }$ 的最适缩小培养模型，所以评价更多的是基于细胞生长，培养周期和蛋白产量。由于条件 SF40 拥有最高的单细胞产量，因此后续实验将以该条件为基础展开。而培养周期8天，蛋白 $2 1 7 . 5 9 \\mathrm { m g / L }$ 的产量对于药物剂量本来就较大的单抗来说，依然有较大提升空间。而流加培养一方面不能持续地提供营养，另外一方面也不能及时地排出代谢副产物，这可能是造成 $\\mathrm { S p 2 / 0 }$ 细胞培养周期不长、蛋白产率较低的原因。因此，实验第三部分将采用第三种培养模型，批次-反复流加培养来进行研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3批次-反复流加培养对 $\\$ 02/0$ 细胞生长、蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "批次-反复流加培养实验结果如表6所示，控制组ST1其细胞数为流加培养条件SF40的2.46倍，为批次培养条件的3.84倍；ST1平均每天蛋白产量 $( 1 4 1 . 1 0 \\mathrm { m g / L } )$ ）是流加培养（SF40，$2 7 . 2 0 ~ \\mathrm { m g / L } \\rangle$ ）的5.19倍。添加地塞米松为0.1 μmol/L 的 ST3其平均每天蛋白产量高出控制组（ST1） $1 5 \\%$ ；当地塞米松添加量为每天0.5μmol/L时， $\\mathrm { S p 2 / 0 }$ 细胞受到了一定程度的影响峰值细胞数、平均每天蛋白产量和单细胞产量均低于控制组。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/25c6127140dff459e8173908391b87dd607fc9defea16d3316331caec7b2107e.jpg",
+        "table_caption": [
+            "Table 5Cells'performance in various feed media "
+        ],
+        "table_footnote": [
+            "1) Average dialy titer from day7to day 14. "
+        ],
+        "table_body": "<html><body><table><tr><td>Culture</td><td>Peak VCC (106</td><td>Culture</td><td rowspan=\"2\">Titer (mg/L)</td><td rowspan=\"2\">qwb-a (pg/cell/day)</td></tr><tr><td>No.</td><td>cells/mL)</td><td>duration</td></tr><tr><td></td><td></td><td>(days)</td><td></td><td></td></tr><tr><td>SF27</td><td>25.65</td><td>7</td><td>73.73</td><td>0.99</td></tr><tr><td>SF28</td><td>27.56</td><td>7</td><td>35.40</td><td>0.46 0.63</td></tr><tr><td>SF29</td><td>26.57</td><td>7</td><td>46.93 39.69</td><td>0.68</td></tr><tr><td>SF30</td><td>20.58</td><td>7</td><td>41.39</td><td>0.74</td></tr><tr><td>SF31</td><td>21.49</td><td>7</td><td>138.58</td><td>1.97</td></tr><tr><td>SF32 SF33</td><td>23.26</td><td>7</td><td>99.14</td><td>1. 28</td></tr><tr><td>SF34</td><td>20.48</td><td>8</td><td>41. 74</td><td>0.87</td></tr><tr><td>SF35</td><td>22.96</td><td>6</td><td></td><td>1. 23</td></tr><tr><td>SF36</td><td>37.08</td><td>9</td><td>165.92 157.20</td><td>1.83</td></tr><tr><td>SF37</td><td>20.29</td><td>8</td><td>42.94</td><td>0.83</td></tr><tr><td>SF38</td><td>25.63</td><td>6</td><td>47.85</td><td>1. 02</td></tr><tr><td></td><td>22.57</td><td>6</td><td></td><td>1.13</td></tr><tr><td>SF39</td><td>22.91</td><td>6</td><td>56.72</td><td></td></tr><tr><td>SF40</td><td>20.52</td><td>8</td><td>217.59</td><td>2.48</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "灌流培养[13]可以持续地提供营养的同时及时地排出代谢副产物，但如果研究直接在反应器上进行，相应的成本[14]将会较高。为此，Villiger-Oberbek等[15]利用摇管建立了一个模拟反应器灌流培养的平台，并声称该平台可以很好地用于克隆挑选和培养基筛选。因此，本研究尝试将该模式应用于 $\\mathrm { S p 2 / 0 }$ 细胞。另外，Zhao 等[16]发现地塞米松有保护细胞免于凋亡的作用。而摇瓶剪切力小，造成细胞坏死的可能性小， $\\mathrm { S p 2 / 0 }$ 细胞活率在培养后期迅速下降很有可能是因为细胞发生了凋亡。为此，本研究也添加了地塞米松，以观察 $\\mathrm { S p 2 / 0 }$ 细胞表现。结果表明，地塞米松在添加量为每天0.1μmol/L时提升细胞数",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$2 . 5 9 \\times 1 0 ^ { 6 }$ cells/mL，提升平均每天蛋白产量 $1 5 \\%$ ，培养天数相对于控制组并没有提高；而与此同时，更换模型提升细胞数为2.46倍，提升平均每天蛋白产量5.19倍。这说明，ST1-3较高的蛋白产量更多的是因为培养模型的改变。而ST1-3其培养天数均为14天，说明地塞米松维持活率、延长培养的效果并没有体现出来。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/46f615de40263dde396319cf1f95be5335312b42d4b984cd06abe4d40d9e02dc.jpg",
+        "table_caption": [
+            "表5Sp2/0在不同补料培养基中的表现",
+            "表6Sp2/0在批次-反复流加培养中的表现",
+            "Table6Cells'performance in batch re-feed mode "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Culture</td><td>Peak VCC</td><td>Culture</td><td>Titer</td><td>qwb-A， (pg/cell/day)</td></tr><tr><td>No.</td><td>(10°</td><td>duration</td><td>(mg/L)</td><td></td></tr><tr><td></td><td>cells/mL)</td><td>(days)</td><td></td><td></td></tr><tr><td>ST1</td><td>50.42</td><td>14</td><td>141. 10</td><td>2.98</td></tr><tr><td>ST2</td><td>42.23</td><td>14</td><td>115.38</td><td>2.77</td></tr><tr><td>ST3</td><td>53.01</td><td>14</td><td>162.56</td><td>3.19</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在批次-反复流加培养模型下，细胞数在 $5 0 \\times 1 0 ^ { 6 }$ cells/mL左右，培养天数为14天，单克隆抗体产量在 $1 \\mathrm { g / L }$ 左右，这样的缩小培养模型对于前期进行 $\\mathrm { S p 2 / 0 }$ 细胞培养基筛选，克隆筛选，甚至部分培养工艺条件筛选都是适合的。虽然 $\\mathrm { S p 2 / 0 }$ 细胞有一些特异性，例如它更多的利用谷氨酰胺作为碳源，但在其它动物细胞培养实验下得到的经验和结论依旧可以在此细胞上部分地得到验证或重现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生物制品从制备之初起就因为其特异性强、疗效显著、毒性低等巨大的经济价值而被药物市场所关注。而想要将一个药物顺利地送入临床及市场，一个良好的工艺研究平台必不可少。本文就 $\\mathrm { S p 2 / 0 }$ 细胞生长和蛋白表达进行了批次培养和流加培养对比，发现 $\\mathrm { S p 2 / 0 }$ 在培养后期其活率下降迅速，每天下降超过 $1 0 \\%$ ，且蛋白产量较低。为了在工艺开发早期有一个良好的平台可以进行克隆挑选和培养基筛选，批次-流加培养模型因为其每天更换新鲜培养基、每天将代谢副产物排出体系而比流加培养和批次培养更适合于 $\\mathrm { S p 2 / 0 }$ 细胞。但这个缩小模型其每天最高只能更换1VVD的新鲜培养基，且每天只能进行一次代谢副产物的排出，这与反应器上的连续培养基更换[17-18]还是很不一样的，因此该模型针对 $\\mathrm { S p 2 / 0 }$ 细胞培养的放大可行性还有待考察。另外，虽然本文就一些培养条件、微量元素等进行了研究，但决定细胞健康生长的因素非常多，如渗透压[19-20]、 $\\mathrm { \\ p H } ^ { [ 2 1 ] }$ 、 $\\mathsf { D 0 } ^ { [ 2 2 ] }$ 等，这些可以在以后的研究中测试 $\\mathrm { S p 2 / 0 }$ 细胞对其的反应。还有更多的添加剂，有的报导可以提高蛋白表达，如氯化锂[23]、维生素[24]、氨基酸[24]、纳巴霉素[25等，有的报导可以更好地维持细胞活率，如氢化可的松[26，白介素 $6 ^ { [ 2 7 ] }$ ，以及部分氨基酸[28]，这些研究都将对 $\\mathrm { S p 2 / 0 }$ 抗体生产工业化产生重要的意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Marc Shulman, C.D.Wilde, Georges Kohler. A better cell line for making hybridomas secreting specific antibodies. Nature, 1978,276: 269-270. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]Darius Ghaderi, Mai Zhang,Nancy Hurtado-Ziola, et al. Production platforms for biotherapeutic glycoproteins. Occurrence, impact,and challenges of non-human sialylation. Biotechnology and Genetic Engineering Reviews, 2012, 28: 147-176. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] 甄永占，赵毓芳，骆广玲,等．力达霉素 在体内外抑制小鼠骨髓瘤细胞系 Sp2/0 移植成瘤．基础医学与临床,2013,33(8): 993-997. Zhen Y Z, Zhao Y F,Luo G L, et al. Lidamycin inhibits mouse myeloma Sp2/0 in vivo and in vitro. Basic and Clinical Medicine, 2013, 33(8): 993-997.   \n[4] 赵 宁,黄永吉，马广斌．鞣花酸对骨髓 瘤 $\\mathtt { S p } 2 / 0$ 细胞的作用．医药导报,2014, 33(10): 1321-1325. Zhao N,Huang Y J, Ma G B, et al.Effect of ellagic acid on myeloma Sp2/O cells. Herald of Medicine, 2014,33(10): 1321-1325.   \n[5] 张 寒,梁晓莉,贾 敏,等．白甲醇提 取物对骨髓瘤细胞 Sp2/0 增殖及凋亡的 影响．中药新药与临床药理,2013, 24(03): 239-241. Zhang H, Liang X L, Jia M, et al. Influence of methanol extract radix ampelopsis on proliferation of myeloma cell line Sp2/0. Traditional Chinese Drug Research and Clinical Pharmacology, 2013,24(03): 239-241.   \n[6] Jinyou Zhang, David Robinson. Development of animal-free, protein-free ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "andchemically-definedmediaforNSO cell culture. Cytotechnology, 2005, 48: 59-74. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] William Whitford, John Manwaring. Lipids in cell culture media. Application-Specific Technical Information-Application Notes,2004, 152-154. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] Vivian M. deZengotita,William M. Miller, John G.Aunins, et al. Phosphate feeding improves high-cell-concentration NSO myeloma culture performance for monoclonal antibody production. Biotechnology and Bioengineering, 2000, 69(5): 566-576. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]Hilary Sherman,Mark E.Rothenberg. Corning? hybrigro $\\mathrm { S F ^ { T M } }$ 培养基对提高 杂交瘤细胞培养密度和抗体产量的研究 Chin Med Biotechnol. 2014, 9(4): 313-315. Hilary Sherman,Mark E.Rothenberg. Corning? hybrigro $\\mathrm { S F ^ { T M } }$ improves hybiodoma cell density and antibody yeild. Chin Med Biotechnol. 2014, 9(4): 313-315. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] Martina Stiützle,Alina Moll, René Handrick, et al. Optimized fermentation conditions for improved antibody yield in hybridoma cells.BMC Proceedings,2013, 7(Suppl 6): 74-76. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11] Canghai Lu, Carlos Gonzalez, Joseph Gleason, et al. A T-flask based screening platform for evaluating and identifying plant hydrolysates for a fed-batch cell ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "culture process. Cytotechnology,2007, 55: 15-29. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12] Young Kue Han, Tai Young Koo, Gyun Min Lee. Enhanced interferon-b production by CHO cells through elevated osmolality and reduced culture temperature. Biotechnol. Prog. 2009, 25: 1440-1447.   \n[13] Gautam G. Banik, Carole A. Heath. Hybridoma growth and antibody production as a function of cell density and specific growth rate in perfusion culture. Biotechnology and Bioengineering, 1995, 48: 289-300.   \n[14] Xu Sen, Gavin John, Jiang Rubin, et al Bioreactor productivity and media cost comparison for different intensified cell culture processes. Biotechnol Progress, 2017, 33: 867-878.   \n[15] Agata Villiger-Oberbek, Yang Yang, Weichang Zhou, et al. Development and application of a high-throughput platform for perfusion-based cell culture processes. Biotechnology,2015,212,21-29.   \n[16] Bo Zhao, Guijuan Xie, Ruifeng Li, et al. Dexamethasone protects normal human liver cells from apoptosis induced by tumor necrosis factor-related apoptosis-inducing ligand by upregulating the expression of P-glycoproteins. Molecular Medicine Reports, 2015,12, 8093-8100.   \n[17] Voisard D, Meuwly F, Ruffieux PA, et al. Potential of cell retention techniques ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "forlarge-scale high-density perfusion culture of suspended mammalian cells. Biotechnol Bioeng, 2003, 83(7): 751-765. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18]Bonham-CarterJ, ShevitzJ.Abrief history of perfusion biomanufacturing: how high-concentrated cultures will characterize the factory of the future. Bioprocess Int, 2011, 9(9): 24-30. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] Zhe Sun,Rui Zhou, Shuyan Liang,et al. Hyperosmotic stress in murine hybridoma cells: effects on antibody transcription, translation, posttranslational processing. and the cell cycle.Biotechnol.Prog.2004, 20: 576-589. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] Hye Kyung Jua, Su-Jeong Hwangb, Choon-Ju Jeona, et al. Use of NaCl prevents aggregation of recombinant COMP-Angiopoietin-1 in Chinese Hamster Ovary Cells.Biotechnology, 2009,143: 145-150. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21] Amy Green, Jarka Glassey.Multivariate analysis of the effect of operating conditions on hybridoma cell metabolism and glycosylation of produced antibody. J Chem Technol Biotechnol. 2015,90: 303-313. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]Sadettin S.Ozturkt,Bernhard Palsson. Effects of dissolved oxygen on hybridoma cell growth, metabolism,and antibody production kinetics in continuous culture. Biotechnol. Prog. 1990, 6: 437-446. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]TaeKwangHa,Yeon-GuKim, Gyun MinLee.Effect of lithium chloride on the production and sialylation of Fc-fusion protein in Chinese hamster ovary cell culture.Appl Microbiol Biotechnol. 2014, 98:9239-9248. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24]Paul Ducommun,Pierre-Alain Ruffieux, Urs von Stockar, et al. The role of vitamins and amino acids on hybridoma growth and monoclonal antibody production. Cytotechnology, 2001, 37: 65-731. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25] R. Robert Balcarcel, Gregory Stephanopoulos.Rapamycin reduces hybridoma cell death and enhances monoclonal antibody production. Biotechnol Bioeng. 2001, 76: 1-10.   \n[26] Yolande Rouiller,Arnaud Pe rilleux, Mile'ne Marsaut, et al.Effect of hydrocortisone on the production and glycosylation of an Fc-Fusion protein in CHO cell cultures. Biotechnol. Prog. 2012,28:803-813. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] John D. Chung, Claus Zabel, Anthony J. Sinskey, et al. Extension of Sp2/0 hybridoma cell viability through interleukin-6 supplementation Biotechnol Bioeng. 1997, 55: 439-446. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] N.H. Simpson,R.P. Singh,A.Perani, et al. In hybridoma cultures,deprivation of any single amino acid leads to apoptotic death,which is suppressed by the expression of the bcl-2 gene.Biotechnol Bioeng.1998, 59: 90-98. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Study on the Optimal Scale-down Model for CelI Growth and Mab-A Production of Sp2/0 Cells ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG Guo-qiang1,², LIU Jian-ping1, ZHOU Hang² (1 School of Life Sciences Fudan University, Shanghai 200438,China) (2 WuXi Biologics (Shanghai) Co.,Ltd., Shanghai 200131,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract Five different kinds of basal media were screened in batch mode to find out the optimal basal medium for cell growth of Sp2/0. The peak viable cell density in batch mode was $1 3 . 1 2 \\times 1 0 ^ { 6 }$ cells/mL,and the culture duration was 7 days. Various cell culture conditions including different shaking speeds, concentraions of carbon dioxide, glutamine replaced by GlutaMAXTM, addition of trace element and different culture temperatures were studied in batch mode as well. Few different cell growthes were found with these conditions except for culture temperatures, which leaded to differnet peak vialble cell concentrations,different viabilites and then different culture durations.Fourteen kinds of combinations of feed media were screened in fed-batch mode. The peak viable cell densities were up to $3 0 \\times 1 0 ^ { 6 }$ cells/mL, the culture duration were around 9 days,and the highest dialy Mab-A production was $2 7 . 2 0 ~ \\mathrm { m g / L }$ . Batch re-feed mode was used in the third part of the study. The peak viable cell density was $5 0 . 4 2 \\times 1 0 ^ { 6 }$ cells/mL, the culture duration was 14 days,and the highest dialy Mab-A production ( $( 1 4 1 . 1 0 \\mathrm { m g / L } )$ ） was 5.19 fold great than in fed-batch mode.These studies suggest batch re-feed mode is the optimal scale-down mode for cell growth and Mab-A production of $\\mathrm { S p } 2 / 0$ cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words Sp2/O Scale-down mode Batch re-feed ",
+        "page_idx": 10
+    }
+]

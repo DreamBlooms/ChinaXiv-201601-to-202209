@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "BIM在铁路四电工程的适应性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王颖 白晓平 陈珊珊 徐灏",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中铁电气化（武汉）设计研究院有限公司，武汉 430074)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目前的BIM应用与各种新兴信息技术相结合，在多领域均有其身影，而铁路四电工程因其多专业交叉、施工难、跨自然区域大等特点，迫切地需要BIM来提高设计、施工的效率。为使 BIM在铁路四电工程中更好地应用，分析了应用中出现的问题，并提出解决对策，为BIM在铁路四电工程中的实际应用提供一定参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；铁路四电工程；适应性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，BIM技术在铁路四电工程领域的应用处于快速发展和深入研究阶段，其应用价值已得到政府的高度关注和行业的普遍认可，当前和今后较长一段时间内铁路建设都将处于一个高峰期。然而铁路工程是个复杂的系统工程，需要各阶段相互衔接、各专业协同设计，掌握好BIM技术可以提升工作效率与质量，规避系统工程建设风险，提高项目整体效益。随着BIM技术在工程建设领域体现出的巨大应用价值，BIM技术在铁路建设领域的研究及应用已成为一项迫在眉睫的重要任务，铁路相关单位均加大BIM技术在铁路领域应用的研发力度，积极开展相关工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM技术应用的发展趋势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，就BIM的定义不同组织给出了各种解释，其作为一种新理念和新技术，受到了学者和业界的广泛关注，但综合来看BIM主要包含两大核心理念[I]：一是BIM提供了可视化的信息表达方式，其中包含了模型的参数特征（几何和功能属性）和与之相关的全生命周期信息；二是可视化的信息数据是动态、即时、共享的，在模型创建开始其信息便产生关联，一旦有任何修改，都能在相关联的平台上得以显示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于以上理念，当前的BIM技术得以在两个方面做深入实践，新技术集成和多领域实践。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1）新技术集成应用为了解决一系列实际问题，学者与业界尝试将各种新兴的信息技术与BIM集成应用，以求实现1加1大于2的效果。目前的GIS标准化和数字化程度较高，GIS主要用于构筑地理位置定位和区域空间，分析空间地理信息数据[2],BIM却适用于建筑物本身的信息参数与细节展示，二者的优劣得以互相补充，如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a96bba7cf631a2bb1e28e296d91cda4ed118603ac681c9ab16d988d85fc57cb8.jpg",
+        "img_caption": [
+            "图1基于 $\\mathrm { \\ B I M + G I S }$ 的三维测量"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM模型受制于建筑物大体量、本地或桌面应用模式，而从其他站点有效获取和更新信息较困难，云计算[3]同BIM的集成实现跨区域协同办公，将大量信息放在云端服务器，大大提升数据处理的速度，帮助项目各参建方协调办公、多专业交叉施工模拟。如图2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/572b479497a6247c2f9f33629c27151bd8f026064d1b2c142219463dcc2b14ae.jpg",
+        "img_caption": [
+            "图2云&BIM系统模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了在项目信息处理这方面的信息技术，人、计算机及实体环境的交互也是一大应用点。混合现实（MixedReality，简称MR）通过计算机的处理将所需要的虚拟数字信息叠加在现实环境中，微软公司的MR全息眼镜Hololens支持实时空间建模、实时空间追踪、播放空间声音等，基于Hololens的 BIM技术得以实现模型的三维呈现[4]，指导现场施工[5]，如下图3、4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/414a07783a2702d23e2aead92ffa46c499c66895c1cf30ac2bd418197f754bf0.jpg",
+        "img_caption": [
+            "图3Hololens全息三维协同设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/52465f4e71a722fbd719b015f6486664fc2bef4cc5cb87d45111222d3bc299a5.jpg",
+        "img_caption": [
+            "图4Hololens指导钢筋绑扎"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）多领域实践应用。BIM有着可与多种信息技术集成的属性，不管是二次开发还是多方协同，均可将BIM技术运用到不同领域。在非建筑领域中，德国达姆施塔特工业大学则开展了“人类救援严肃游戏”，旨在将BIM功能与严肃游戏中工程模拟（火、烟）功能组合，利用双方操作交互性弥补现有仿真模型数据收集方法的不足[。此外，作为教学改进的目的，美国斯坦福大学也将BIM用于本校的“建造与施工管理”课程教学，基于BIM提供的可视化模型提供更加实际的教学案例[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3铁路四电工程概述及特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 铁路四电工程概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "铁路四电工程是指主要包含“通信、信号、电力、电气化（牵引供电)”四个专业方向的铁路建设工程，及其与这项专业相关的配套工程和临时设施等，也就是传统意义上讲的“站后工程”。其中的接触网工程是主导内容和关键工程。铁路四电工程专业组成及其联络关系图如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4d77264019e6ea231d9396e2b813244c0b155880c8c52e24872ea92b2cce4c5.jpg",
+        "img_caption": [
+            "图5铁路四电专业联络关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在铁路四电工程中，通信工程是铁路的“神经中枢”，是保证铁路安全运营的信息基础工程，其主要任务是提供语音、图像等多媒体通信手段，确保信息准确可靠地传输；信号工程是列车运行的“可视化系统”，担负着路网上行车设备运行状况、运输调度的指令控制等信息的传递与监控工作；电力工程是铁路的“能源基础”，为确保各系统负荷提供不间断供电；电气化工程又称牵引供电工程，主要为电力机车供给牵引用电，为列车运行提供保证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 铁路四电工程特点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于四电各个专业来说，其特点分别表现如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）通信工程中新材料和新设备应用广泛，3G、4G等通信联络技术更新换代快，后台控制系统操作复杂，专业性极强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）信号工程易受土建等站前单位影响，而其自身专业技术性强，安全、质量和技术管理难度大；信号电路结构复杂，调试技术标准高，短时间内开通资源消耗高，存在一定的施工风险。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）电力工程施工区域跨度大，与电力、市政、管线等交叉多，施工干扰因素复杂；其工期受制约因素较多，外电引入等不确定风险高，制约其他专业的联合测试。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4)电气化工程的特点是专业接口多，“四新”（新技术、新材料、新设备、新方法）技术更新换代快，安装工艺要求高；高空作业内容多，施工安全风险大；工期压力大，联合测试难度高，是工程竣工的关键性专业。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "铁路四电工程及专业有着各自的属性和特征，但在不同的自然施工环境面前，其技术标准、管理要求均不同，都表现出了技术专业性强、施工接口多、安装调试难、干扰因素多等特点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适应性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "铁路四电工程中BIM应用的问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，铁路四电工程中的BIM应用同建筑工程中的相比，尚处于起步阶段，铁路四电工程本身具有专业众多、接口调试复杂等特点。BIM的推广势在必行，然其推广所面临问题繁多，如BIM相关软件，基本上都是国外的设计软件，国内的广联达、鲁班等，这些软件的模型底层编码及数据存贮格式都是按照建筑物的相关规范进行编写的，与铁路工程的规范要求不甚符合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据目前的铁路四电工程中BIM应用研究来看，所表现出的主要问题有如下几个方面：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）BIM设计软件研发或二次开发不足首先各专业软件应用不统一，软件产品的内部自身标准也不是很统一，数据交互困难，没有完全适用于铁路工程行业的软件产品，从设计、施工、建设、管理以及到运维全生命周期管理的成熟软件。即使是成熟的软件厂家例如欧特克，也无法拿出可供铁路工程适用的软件，就这一点来说，我们不得不在现有的BIM设计软件上去优化，进行二次开发，使之适应铁路工程所需要的构建要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次与机械设计、建筑工程领域相比，铁路工程行业拥有很多完全不同的构件，这些构建所具有的功能是其他行业所不具备的，需要单独创建。例如铁路工程的线路中线，它不仅仅是一条空间上的三维曲线，在这条曲线上需要附加大量的其他专业所需要的信息，如线路的里程、方向，各专业的缺口位置等要素。相对于线路中线本身这条曲线来说上面所附加的信息才是建模的真正难点，目前尚未得到完全的妥善解决。铁路工程具有线状工程的特殊性，跟地理信息结合比较紧密，这就需要对软件程序结合GIS进行二次开发，使曲线所能附带的信息更加全面，而不是只有简单的几何信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）数据存储标准的欠缺",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在机械、建筑这些工程领域由于多年使用BIM技术的经验积累，已经形成了一套较完善的数据存储方式，对于铁路工程来说，自然是尚未形成统一的数据存储格式，这对模型内数据的流通造成了极大的障碍。同时，国内外的BIM标准研究没有涵盖铁路行业，无论是IFC还是IFD、还是OMINclass等等，对铁路这部分来说比较弱，线路、轨道、路基、桥梁、隧道、站场、信号、机务车辆、电气化等特殊方面都是相对比较弱的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）从业人员的能力良莠不齐",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM作为新兴的技术手段，对目前的从业人员来说要改变传统的工作模式必然会有抵触心理，这也是目前制约BIM应用在铁路工程中推广的一大因素。不仅仅是现有的技术人员回避新技术，BIM技术未经过长时间系统培训也是难以完全掌握；同时目前的BIM培训不完善，施工企业对BIM技术不完全接受，业主单位又不大力推行，使得BIM实际落地处于一个尴尬的境地。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2 对策 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "诚然阻力重重，但铁路工程需要BIM，四电工程需要BIM这样的新技术去优化、提升效率，下面提出了几点实际的对策：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）政策不断引导。中国铁路总公司和中国铁路BIM联盟经过近年来的组织与推动工作，对于铁路工程中BIM技术应用还是取得了一定的成绩，这说明国家层面的政策引导非常必要。建议上级政府主管部门（如铁路局）将BIM技术的推广应用纳入铁路科技发展专项规划；同时应与BIM推广应用经验丰富的政府机关（如住房和城乡建设部）强力合作，改进推动BIM在铁路工程中应用的方式；学习海外发达国家铁路工程BIM应用经验，配合政府部门制定相关政策。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）经济大力支持，技术持续研发。研发成本与技术是并行的，国家层面经济应当地大力支持推动基于BIM专业软件的二次开发，确保更加使用于铁路工程；企业单位应增强自身BIM技术二次开发能力，形成具有完全或部分自主知识产权的产品，提高设计、施工等效率，降低施工成本，最终减轻BIM应用所带来的研发成本与经济风险；加强与BIM平台开发商的沟通与交流，尽可能保证二次开发接口的连续性及扩展性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）完善体系标准。中国铁路BIM标准框架及相关标准的研究及制定工作应与国际标准和国家标准（指导意见）接轨，根据IFOminiclass规范，参考建筑行业BIM标准，结合铁路工程的特点，借助中国铁路BIM联盟，组织设计、施工单位开展中国铁路BIM标准框架及相关标准的研究及制定工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）管理模式改变。目前中国铁路行业尚未建立基于BIM技术的工作流程，易造成具体工作程序上的混乱而进行返工，政府和企业在制定BIM标准和指南的同时，还需要建立起BIM工作流程的框架，为项目参与方提供工作流程的标本；并从思想上让管理层认识到BIM应用的紧迫性和必要性，同时应加强对BIM技术应用的支持力度，从基层人员的技术培训到管理层的思想转变，都是缺",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一不可的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 BIM在铁路四电工程中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如前所述，铁路四电工程是一个庞大复杂、分阶段逐步细化的系统性工程，牵涉到业主、设计方、施工单位等多个参与方和诸多专业，多年以来惯用的设计、施工的模式不可能一蹴而就地转变为BIM模式，因此，笔者认为应当分阶段地将BIM应用到铁路四电工程中来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 前期规划阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在铁路四电工程建设项目的初期，需通过逐步细化的项目论证过程。在这个过程中，BIM可以应用于场地分析、建筑规划及方案论证，还可以利用BIM与GIS结合形成三维可视化电子沙盘，在电子沙盘中包括：所在区域既有铁路网和其他交通网信息，重大不良地质信息，沿线自然特征的地理信息等。由于模型元素都是参数化和可运算的，因此可以基于模型信息进行分析和计算，在模型中进行诸如客货运量预测，确定项目功能定位和建设的必要性，综合沿线自然特征、影响线路走向的重要因素，确定线路平面方案的带状走廊带。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2 勘察设计阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2.1外业勘察阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "铁路外业勘测分为初测和定测两阶段，在本阶段借助BIM来电子化外业勘测结果，以前期的铁路三维模型为基础，建立存储各专业勘测数据的中央数据库，即在BIM平台中整合各专业纷杂的勘测数据。此外，各专业数据可以在平台中实时录入、编辑，并且其他相关专业可以随时查看该专业数据变化。例如线路、站场专业可以查看地质专业在平台中录入的沿线地质情况数据，以进行方案调整、取土场选址等工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 设计阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计阶段是BIM应用较为成熟的阶段，铁路设计中所涉及的20多个专业彼此需要海量的设计信息沟通，如图6所示，对目前模型生成视图漫游动画，以此充分查看模型在项目中的各个部位及各种重要细节，减少专业冲突。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c87f51cdaabdedd5f88f16ba774ed9a19aed71712f5fae5b8736d16769767f7.jpg",
+        "img_caption": [
+            "图6Revit中视图漫游铁路动画"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本阶段应重点基于Revit软件平台进行二次开发，以四电工程中的接触网为例，其基于BIM技术的接触网施工插件框架如图7所示，该插件利用参数化技术提供物料和工程量统计功能，为设计方案的比选和优化提供了便利。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1fb15f31f5700807a5a986091aa0d1c48e5a08b7e9ae13d48fad972670f9b03.jpg",
+        "img_caption": [
+            "图7基于BIM技术的接触网施工插件框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3 工程实施阶段",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM在本阶段可用于施工进度模拟、施工组织模拟、物料跟踪、配合施工及竣工交付等。物料跟踪管理接触网结构复杂，零部件种类众多，通过对不同类型的接触网零部件进行编码，方便物资的管理和物料跟踪；利用Revit本身的模型参数添加功能，如添加设备的采购信息、结构物理信息及负责工作人员信息，其流程图如下。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdbc3d84e3b28486742b7fbc290aed7795d1d3bbf67b3b1168446be660ffa445.jpg",
+        "img_caption": [
+            "图8Revit模型参数流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于施工交底，项目族可以基于BIM将空间信息与时间信息整合在一个可视的4D模型中，针对复杂工艺制作模拟视频，上传各类交底数据信息，形成基于工程构建的施工交底信息库，其应用流程如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/77b45b67219ea06de7d2de5c307a6ffcf1f786a9f9405167207967b89ff74f98.jpg",
+        "img_caption": [
+            "图9施工交底管理的应用流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.4 运营维护阶段",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运营维护阶段中，BIM技术用于维护计划、资产管理、空间管理、防灾救援及模型维护。在运营阶段，可以基于BIM模型平台，及时输入客、货流量等，通过对比分析，实时调整客、货列车运行；在维护过程，通过设施监测、检测系统获取基础设施的状态数据，综合列车运行情况，制定养护维修计划。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从建筑工程中的BIM应用发展来看，铁路工程中的BIM应用也将是一个逐渐深入的过程，在这个过程中，需要克服种种难题和挑战。笔者通过对BIM于铁路四电工程的应用适应性分析，对其应用存在的不足进行了反思，并提出了种种对策，BIM技术在铁路四电工程中也势必有着更加广阔的应用范畴和前景。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Azhar S. Building information modeling (BIM):Trends,benefits，risks,and challenges for theAECindustry[J]. Leadership and management inengineering, 2011, 11(3): 241-252.  \n[2]郑云,苏振民,金少军.BIM-GIS技术在建筑供应链可视化中的应用研究[J].施工技术,2015,44(06):59-63+116.  \n[3]孙鸽梅.基于BIM、RFID 和云计算技术的智慧建筑研究[J].硅谷,2014,7(01):52-53.  \n[4] 初毅,邵兆通,武涛.基于 $\\mathbf { M R + B I M }$ 技术的信息化建筑工程应用探讨[J].土木建筑工程信息技术,2017,9(05):94-97.  \n[5]邵兆通,何兵,初毅.混合现实技术在建筑工程中的应用研究[J].土木建筑工程信息技术,2017,9(03):43-46.  \n[6] Rüppel U，Schatz K. Designing a BIM-basedseriousgame for firesafety evacuationsimulations[J]. Advanced EngineeringInforma--tics,2011, 25(4): 600-611.  \n[7] Peterson F，Hartmann T，Fruchter R，et al.Teaching construction project management withBIM support: Experience and lessons learned[J].Automation in Construction， 2011， 20(2):115-125.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Adaptability Analysis of BIM in Railway Electric Engineering ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wang Ying Bai Xiaoping Chen Shanshan Xu Hao (Wuhan Railway Electrification Bureau Group Co.,Ltd.，Wuhan 430074， China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The current BIM application is combined with various emerging information technologies and has its own presence in many fields.However, due to its multi-professional crossover, dificult construction, and large cross-natural areas,the railway four-electric engineering urgently needs BIM to improve design. Construction efficiency. In order to make BIM bettr applied in the railway four-electric engineering，the problems in the application are analyzed,and the countermeasures are proposed, which provides a reference for the practical application of BIM in the railway four-electric engineering. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words: BIM; Railway four electric engineering; Adaptability ",
+        "page_idx": 5
+    }
+]

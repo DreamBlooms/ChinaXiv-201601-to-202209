@@ -1,0 +1,603 @@
+[
+    {
+        "type": "text",
+        "text": "基于基准态的断路器可靠性分析方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄荣辉」李穆² 吕启深(1.深圳供电局有限公司 深圳5180012.国网电力科学研究院武汉南瑞有限责任公司武汉430074)",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/01f801514075a5758b47b3d9b29bec3a25db7d99caf03ce8f2f6e5e57ae1e9f7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄荣辉男 1976年生，高级工程师，长期从事电力设备状态监测技术及应用研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用基准态的概念，针对高压断路器的可靠性分析，提出了一套完整的理论方法。首先，根据基准态建立过程中选取的关键状态量，开展关键状态量分析技术，深入分析关键状态量性能的好坏。并引入电网强度、设备强度和设备老化程度3个维度的性能，评判设备分性能状况，得到设备基准态值。接着，基准态预测过程作为基准态分析的延伸，以经典统计学理论获取预测模型，为设备基准态发展趋势提供参考。最后，可靠性分析则是基准态分析的最终目的和落脚点，利用经典可靠性理论，构建可靠度模型，绘制设备可靠性曲线。从曲线中可方便获取设备当前及未来的可靠度，为用户的运维及检修工作提供决策支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：状态量 基准态 预测 可靠性中图分类号：TM63",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reliability Analysis Method of Circuit Breaker Based on Benchmark ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c27ed65ab529414f02130ac083f50ab1c01d165a09da02c246c5632e9e4a479.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huang RonghuilLi $M u ^ { 2 }$ Lü Qishen1 (1.Shenzhen Power Supply Bureau Co.Ltd Shenzhen 518001 China 2.State Grid Electric Power Research Institute Wuhan NARI Co.Ltd Wuhan 430074 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李穆男1987年生，工程师，从事输变电设备状态评价及可靠性研究方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, a complete set of theoretical method is proposed for the reliability analysis of high voltage circuit breakers based on the concept of benchmark. First of all, the key state variables in the process of establishing the benchmark are used to analysis its quality performance.And the performance of the three dimensions is introduced to evaluation of the performance of the device to get the benchmark value of the device,which is the strength of the power grid strength,the equipment strength and the equipment aging degree. Then, the benchmark prediction process is extended as a benchmark analysis,to obtain the forecast model from the classical statistical theory,and to provide a reference for the development trend of the equipment. Finally,the reliability analysis is the ultimate goal and the end result of the benchmark analysis.Using the classical reliability theory to construct the reliability model, the reliability curve of the equipment is drawn. From the curve can be convenient to obtain the current and future reliability of the equipment, and can provide decision support for the operation and maintenance work of the user. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: State variables, benchmark, forecast, reliability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国家经济的稳步发展，离不开电力系统的支持。社会生活的方方面面也与电力系统息息相关。在电力行业“十二五”规划的指导下[]，现有电网的电压等级不断提高，装机容量持续增长。伴随而来的，是用户对用电可靠性的进一步要求，这也给电力设备的运行管理提出了更高的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高压断路器作为电网中起保护和控制作用的设备，其运行状态将直接影响整个电力系统的稳定性和供电的可靠性。断路器的故障失效，使得本应由其保护的线路或设备面临严重损坏的风险。而且由于断路器未及时发挥其保护作用，很可能使电网事故扩大，造成大面积停电，给生产、生活带来重大的经济损失[3]。现有确保断路器稳定运行的手段就是检修，但是频繁的检修不仅会使设备维护的人力成本大大增加，而且会带来不必要的停电，在不规范的解体组装操作中还极易引入二次损坏。因此，如何在保证断路器正常运行的前提下，实时掌握断路器的健康状态，尽可能地减少检修次数，是设备管理单位关心的内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基准态评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了更好地掌握设备的运行状态，需要有一个指标客观地反映设备当前的健康情况是否能满足所处电网的要求。本文及文献《输变电设备智能化运维系统研究与应用》[均为深圳供电局有限公司及国网电力科学研究院武汉南瑞有限责任公司基于项目“全维度设备状态监测中心关键技术研究”的研究成果。本文作为前文研究的延续，基于前文中提到的“基准态”概念，构建出针对在运设备全方位多角度的评价体系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所谓基准态是指设备在电网及自身的强度要求下，指定的设备所有规定性能均维持正常运行的状态。本定义有以下方面的涵义：一是“强度要求”包括电网强度和设备强度，即“通过设计参数、结构特点和制造工艺等评估设备强度，利用过电压、过负荷和短路冲击等不良工况评估电网强度”；二是“所有规定性能维持正常运行”包括高压断路器机械性能、电气性能、绝缘性能和附件性能[4都能维持正常运行；三是前两个条件对基准态来说，缺一不可，互为补充，但设备基准态并不是固定不变的，当强度提高要求到一定程度，或设备部分规定性能并不能维持正常运行时，其基准态也会随之而",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "变。为了对设备进行可靠性分析，首要步骤就是利用基准态的概念评估设备当前状态，基准态评估流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed1227bdb831a36522034e144fb9d0440cd3555508fbff072b98c544424f6dcd.jpg",
+        "img_caption": [
+            "图1基准态评估流程",
+            "Fig.1Benchmark evaluation process "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1状态量分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）电网强度。所谓电网强度，即指设备在电网中所处位置的环境及运行条件的情况。其中，环境条件如温度和湿度等，过高的温度或高湿的环境都会减少断路器的运行寿命；运行条件如变电站中性点接地情况的不同，导致线路在发生接地故障时的短路电流的大小，从而也会影响断路器的运行寿命。以基准态为核心的可靠性分析的目的就是要确保设备状态高于设备所在地电网强度的要求，并通过有效的手段，调节设备与电网强度之间的关系。表1中给出了反映电网强度的状态量指标及其评估依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，评分 $s$ 为状态量依据评估条件进行的评级，分为1，2，3三种情况，3分表示情况最好，1分表示情况最差。权重 $k$ 为该状态量的加权程度，依据影响程度分为1～5五个等级，5分表示影响最大，1分表示影响最小，具体分值可依据供电局实际检修记录资料统计和专家经验得出。从而，某设备的电网强度指标 $I _ { \\mathrm { g r i d } }$ 定义为各状态量评分的加权和，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { g r i d } } = \\sum _ { i = 1 } ^ { 1 1 } k _ { i } s _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）设备强度。设备强度综合从设备在线监测装置安装情况、缺陷故障因素和自然因素角度评价在运设备的抗风险能力，具体的状态量指标及其评估依据见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同上，该设备的设备强度指标 $I _ { \\mathrm { d e v i c e } }$ 为各状态量评分的加权和。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）设备老化程度。设备老化程度从设备的机械、电气和绝缘性能评估设备本体，再辅以附件性能评估，综合得到设备的老化程度，具体的状态量指标及其评估依据见表3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1电网强度状态量评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/63bd1d2089edc22cfe2d44515e66ded8efcae3344e677447c877d5335083e2c8.jpg",
+        "table_caption": [
+            "Tab.1 State evaluation of power grid strength "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>类别</td><td>状态量</td><td>评估依据</td><td>权重k</td><td>评分s</td></tr><tr><td>1</td><td></td><td>温度</td><td>年平均气温，极热/极寒天数</td><td>2</td><td>1,2,3</td></tr><tr><td>2</td><td></td><td>湿度</td><td>空气湿度百分比</td><td>2</td><td>1,2，3</td></tr><tr><td>3</td><td>环境</td><td>污秽度</td><td>A、B、C、D级</td><td>3</td><td>1,2,3</td></tr><tr><td>4</td><td></td><td>安装位置</td><td>室外或室内</td><td>1</td><td>1,3</td></tr><tr><td>5</td><td>因素</td><td>距海岸距离</td><td>考虑海滩与非海滩的区别</td><td>3</td><td>1,2,3</td></tr><tr><td>6</td><td></td><td>雷电密度</td><td>区域落雷情况，次/(km2·年)</td><td>3</td><td>1,2，3</td></tr><tr><td>7</td><td></td><td>环境种类</td><td>是否靠近工业区、坟场、发电厂等</td><td>1</td><td>1,2,3</td></tr><tr><td>8</td><td></td><td>中性点接地情况</td><td>直接接地、低阻接地、非有效接地</td><td>3</td><td>1,2,3</td></tr><tr><td>9</td><td>运行</td><td>计算短路电流</td><td>额定开断短路电流值是否满足安装地点最大运行方式下短路</td><td>5</td><td>1,2,3</td></tr><tr><td>10</td><td>因素</td><td>是否开合空载长线</td><td>电流，以及是否采取了防范措施 是或否</td><td></td><td></td></tr><tr><td>11</td><td></td><td>是否有人值守</td><td>是或否</td><td>2 1</td><td>1,3 1,3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2设备强度状态量评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3654aba4761091d1bb594c5f2b091cd64eff9f82d50f11e05d8f47784ea5964e.jpg",
+        "table_caption": [
+            "Tab.2 State evaluation of equipment strength "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>类别</td><td>状态量</td><td>评估依据</td><td>权重k</td><td>评分s</td></tr><tr><td>1</td><td>在线监测装置安装</td><td>在线监测装置安装情况</td><td>共安装几类，是否正常运行</td><td>1</td><td>1,2,3</td></tr><tr><td>2</td><td rowspan=\"4\">缺陷故障因素</td><td>历史缺陷记录</td><td>发生次数，是否处理</td><td>4</td><td>1,2,3</td></tr><tr><td>3</td><td>历史故障记录</td><td>发生次数</td><td>5</td><td>1,2,3</td></tr><tr><td>4</td><td>家族性缺陷</td><td>是否存在，缺陷级别，是否整改</td><td>3</td><td>1,2,3</td></tr><tr><td>5</td><td>同型设备缺陷情况</td><td>是否存在，缺陷级别</td><td>3</td><td>1,2,3</td></tr><tr><td>6</td><td rowspan=\"2\">自然因素</td><td>地震</td><td>是否发生过</td><td>2</td><td>1,3</td></tr><tr><td>7</td><td>受潮</td><td>是否发生过</td><td>2</td><td>1,3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3设备老化程度状态量评估",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f33a3688a0dcb8dae2bdcdc1e847eed8c07960207772b343455ecc8d1188f29.jpg",
+        "table_caption": [
+            "Tab.3 State evaluation of equipment aging degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>类别</td><td>状态量</td><td>评估依据</td><td>权重k</td><td>评分s</td><td></td></tr><tr><td>1</td><td></td><td>运行年限</td><td>投运年限</td><td>3</td><td>1,2,3</td><td></td></tr><tr><td>2</td><td>机械性能</td><td>时间速度特性曲线</td><td>合（分）闸时间、合（分）闸同期、合（分）闸速度等</td><td>5</td><td>1,2,3</td><td></td></tr><tr><td>3</td><td></td><td>触头机械寿命</td><td>故障分闸次数、正常分闸次数</td><td>5</td><td>1,2,3</td><td></td></tr><tr><td>4</td><td></td><td>分合闸线圈</td><td>合（分）闸线圈电流波形、合（分）闸线圈直流电阻、操作电压</td><td>5</td><td>1,2，3</td><td></td></tr><tr><td>5</td><td>电气性能</td><td>触头电寿命</td><td>触头相对磨损量</td><td>5</td><td>1,2,3</td><td></td></tr><tr><td>6</td><td></td><td>静态回路电阻</td><td>主回路电阻值</td><td>5</td><td>1,2,3</td><td></td></tr><tr><td>7</td><td></td><td>动态回路电阻</td><td>计算弧触头长出主触头的长度</td><td>5</td><td>1,2,3</td><td></td></tr><tr><td>8</td><td></td><td>局部放电</td><td>是否发生、发生次数</td><td>3</td><td>1,2，3</td><td></td></tr><tr><td>9</td><td>绝缘性能</td><td>绝缘介质状态</td><td>SF6气体的成分、密度、湿度</td><td>4</td><td>1,2，3</td><td></td></tr><tr><td>10</td><td></td><td>一次回路对地绝缘电阻</td><td>阻值是否过小</td><td>5</td><td>1,2，3</td><td></td></tr><tr><td>11</td><td></td><td>辅助和控制回路绝缘电阻</td><td>阻值是否过小</td><td>4</td><td>1,2，3</td><td></td></tr><tr><td>12</td><td></td><td>操作机构</td><td>储能机构、二次元件、脱扣器、加热除湿装置、排污装置等</td><td>3</td><td>1,2,3</td><td></td></tr><tr><td>13</td><td>附件性能</td><td>合闸电阻</td><td>阻值、温度、外绝缘情况等</td><td>5</td><td>1,2，3</td><td></td></tr><tr><td>14</td><td></td><td>均压电容</td><td>介损、电容量、温度、外绝缘情况等</td><td>5</td><td>1,2,3</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同上，该设备的设备老化程度指标 $I _ { \\mathrm { a g e } }$ 为各状态量评分的加权和。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2基准态计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）强度修正因子。考虑到处于同一老化程度的设备，在不同的电网强度及设备强度的要求下，其可靠性评估的程度也不一样。为了解决上述问题，通过电网强度和设备强度的评估结果，构建了强度修正模型，得到设备的强度修正因子 $F$ 。通过强度修正因子 $F$ 不仅可以对设备的老化评估进行修正，同时还可以根据强度修正因子的大小排序，挑选出强度修正因子较大设备进行重点关注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "强度修正模型如图2所示。规定参考线 $l _ { 0 }$ 的方程式为： $x + y = 0$ · $\\gamma$ ， $\\delta$ 为断路器的电网强度和设备强度评分的归一化结果（由实际得分除以最大的条件得分而来)，则某断路器A在 $\\delta - \\gamma$ 坐标系中的坐标为 $( \\delta _ { \\mathrm { { A } } } , \\gamma _ { \\mathrm { { A } } } )$ ，其中 $0 \\leqslant \\delta _ { \\mathrm { A } } \\leqslant 1$ 、 $0 \\leqslant \\gamma _ { \\mathrm { A } } \\leqslant 1$ ；定义断路器A的强度修正因子 $F$ 为该点到参考线的距离，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( \\mathrm { A } ) = \\frac { \\left\\| \\delta _ { \\mathrm { A } } + \\gamma _ { \\mathrm { A } } \\right\\| } { \\sqrt { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对式（2）进一步归一化得到",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( \\mathrm { A } ) = \\frac { \\left\\| \\delta _ { \\mathrm { A } } + \\gamma _ { \\mathrm { A } } \\right\\| } { \\sqrt { 2 } \\times \\sqrt { \\delta _ { \\mathrm { A } } ^ { 2 } + \\gamma _ { \\mathrm { A } } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b11d384ac3cfd8234b8fd736c1e68eb8bcea1c5de988dcdf168c4d53c26bd7b3.jpg",
+        "img_caption": [
+            "图2强度修正模型",
+            "Fig.2Intensity correction model "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "归一化后的取值范围是[0,1]，当设备电网强度和老化强度得分较高时， $F$ 趋近于1，利用其对设备的老化评估结果进行修正时，将不会产生较大的影响。反之，设备电网强度和老化强度得分较低时，$F$ 趋近于0，修正后的老化评估分数将大为降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）基准态模型。在计算设备基准态前，首先需要先将设备的老化程度指标映射到百分制，以方便将设备进行横向对比，映射公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { a g e l 0 0 \\% } } = ( I _ { \\mathrm { a g e } } - I _ { \\mathrm { a g e M i n } } ) \\frac { 1 0 0 } { I _ { \\mathrm { a g e M a x } } - I _ { \\mathrm { a g e M i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $I _ { \\mathrm { a g e l 0 0 \\% } }$ 为百分制的老化程度指标； $I _ { \\mathrm { a g e M i n } }$ 为老化程度指标理论最小值； $I _ { \\mathrm { a g e M a x } }$ 为老化程度指标理论最大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随后，将百分制指标 $I _ { \\mathrm { a g e l 0 0 \\% } }$ 乘以强度修正因子$F$ ，即可得到设备基准态值 $B I = I _ { \\mathrm { a g e l 0 0 \\% } } \\times F$ 。 $B I$ 也为百分制指标，100分代表设备当前状态非常好，0分表示设备已经报废。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 基准态预测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在基准态分析中对设备进行了参数归类、分性能评估，根据分性能评估结果之间的逻辑关系，对各分性能基准态值进行综合计算，从而得出能够表征断路器整体状态的、单一的设备基准态值BI。BI能全面、有效地衡量当前设备的运行状态，可以为检修决策提供依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但从数据的监测或检测到计算出设备基准态值存在一定的时间滞后。于是，当发现设备基准态值发生偏移，然后再采取相应的检修或更换措施，很有可能设备已经出现明显缺陷，甚至发生故障，这不但影响设备的使用寿命，还会给电力系统带来潜在的危险。如果能对不同寿命阶段设备基准态值BI进行预测，就能知道设备状态在设备全寿命周期内的变化趋势，在缺陷、故障发生之前就能提前对它采取预防措施，这不仅能延长设备的使用寿命，还能大大提高整个电力系统的运行可靠性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基准态预测就是在设备基础态分析的基础上，对设备基准态值BI与设备运行年限的关系进行分析，建立相应的数学模型，得到设备状态轨迹。根据调研及统计分析可知，设备基准态随着服役年限的增加呈下降趋势，刚投入运行时的状态最好，随着时间推移，状态越来越差，整体变化基本上呈指数分布的形式。本文参考英国EA公司的健康指数计算公式的原理，引入状态衰减系数，提出基于基准态的设备健康水平指数随时间变化过程的一个经验公式，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB I _ { t 1 } = B I _ { t 0 } ( 1 - h \\mathrm { e } ^ { B ( t 1 - t 0 ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $B I _ { t 1 }$ 为设备在未来 $t _ { 1 }$ 时刻的基准态指标值；$B I _ { t 0 }$ 为设备 $t _ { 0 }$ 时刻的基准态指标值； $h$ 为状态衰减系",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数； $B$ 为老化系数； $t _ { 1 }$ 为所要计算的 $B I _ { t 1 }$ 对应的年份，可为当前年份，也可为未来年份； $t _ { 0 }$ 为全新设备 $B I _ { t 0 }$ 对应的年份，一般为设备投运年份。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 可靠性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1故障率模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从基准态的定义可知，一旦BI值较低，设备出现故障的概率就会增加。设备故障的发生概率直接反映出设备运行的可靠程度，因此对设备进行可靠性分析的首要一步就是确定设备故障率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "传统上对设备的故障率分析，是通过长期对在运设备的运行状况进行统计，得出的一条设备的故障率随着时间发展变化的曲线。主要的分析方法有浴盆曲线、Weibull分布和最小二乘法等，这些工作对后来的状态检修具有很大的借鉴意义。但是，记录设备运行状况的数据往往很少，而且这种统计分析是建立在事后分析的基础上的。因此，这种通过不完全数据统计得到的故障率曲线，往往可行度极低，不能用来指导检修工作[5]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文参考相关资料，认为当设备状态恶化时，设备发生故障的概率会以指数级增加[]，这趋势也与现场经验相一致。因此，提出如下概率模型",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = K \\mathsf { e } ^ { - C \\times B I }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $B I$ 为本文所提到的设备基准态值，代表设备状态的量化指标；故障模型中所述之概率，含义为“在某个时间点 $\\mathbf { \\chi } _ { t }$ 后的单位时间 $\\Delta t$ 内，由于设备状态的改变，设备发生故障的概率”，这与故障概率密度的经典定义相一致，因此 $P$ 表示的概率即为故障概率密度 (取值范围 $0 \\sim 1 \\dot { }$ ）； $K$ 与 $C$ 分别为比例系数和曲率系数，是与设备种类、运行环境等诸多因素有关的常量，没有明确的直接获取方法，通常可通过反演计算得出；假设当前有一批状态和故障样本数据，其中基准态分类 $B I$ 有 $1 \\sim N$ 种，对应的设备台数为 $M _ { 1 } \\sim M _ { n }$ ，在一个历史评估周期内故障台数为 $\\varrho$ ，则根据上述公式，应满足",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } = \\sum _ { i = 1 } ^ { N } M _ { i } P = \\sum _ { i = 1 } ^ { N } M _ { i } K \\mathrm { e } ^ { - C \\times B I _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这样就得到了关于 $K$ 和 $C$ 的一个方程。如果有两年以上的数据，即该方程已知两组以上的解，就可以通过最小二乘法等算法拟合方程，从而求得 $K$ 和 $C$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2可靠性模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在计算得到设备故障率后，要计算设备的可靠性，首先需明确可靠性函数 $R ( t )$ 和累积故障分布函数 $F ( t )$ 的定义[]： $R ( t )$ 指在时刻 $t$ 还没有故障的产品数除以总数； $F ( t )$ 指在时刻 $t$ 已经故障的数目除以总数。根据以上定义可知",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( t ) + F ( t ) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对 $F ( t )$ 求导，就能得到“在某一时刻 $\\mathbf { \\xi } _ { t }$ 后的单位时间 $\\Delta t$ 内故障发生概率，也就是 $\\Delta t$ 内故障数除以总数”[9]，定义为故障密度 $f ( t )$ 。即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( t ) = F ^ { \\prime } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$f ( t )$ 反映了故障概率密度，即相对于产品总体数量，在其中某一年发生的故障多少，即等同于上节中的故障概率密度 $P$ 。因此，可靠性函数与故障概率密度之间的关系为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( t ) = 1 - \\intop _ { 0 } ^ { t } f ( t ) \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "代入4.1节中得到的可靠性模型有",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( t ) = 1 - \\intop _ { 0 } ^ { t } K \\mathbf { e } ^ { - C \\times B I } \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据式（11）可绘制出设备可靠性曲线，如图3所示。曲线是随着设备运行年限增长实时绘制的，设备的管理者利用该曲线就能清晰地看到当前设备的可靠度，据此辅以运维检修决策。图3中包含的3条基准态曲线具体意义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）蓝色为参考曲线，为该划分类中设备的基准态变化规律。其中，任何投运年的基准态分析结果与基准态可接受范围下限的差值表示该设备安全运行裕度，当设备的安全裕度为0时，该下限与设备基准态变化曲线的交点所在的年份（如图中 $J _ { n }$ 点）即为设备大修或更换时间点。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d001bf886298a1faa99168bca22ea1d77fb87b0950fc35bc323ce7a158d3762.jpg",
+        "img_caption": [
+            "图3设备可靠性曲线",
+            "Fig.3Equipment reliability curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）红色曲线为假设某设备发生某故障或缺陷后，从事件点（ $B$ 时刻）开始其基准态变化曲线的突变情况，以及因此对其寿命、大修时刻等的影响。(3）绿色曲线为假设 $C$ 时刻对设备进行检修，使得其基准态分析结果跃升一定的水平，并由此对设备的未来状况进行预估。(4） $\\textstyle { \\mathcal { A } } _ { n }$ ， $B _ { n }$ ， $C _ { n }$ 分别为设备通常的使用寿命、经历故障或缺陷后的使用寿命与检修恢复后的使用寿命。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 方法实践",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计某一型号断路器在不同运行年限和对应的设备基准态值BI见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4设备基准态值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e34acf683a757013a655e06fe67d007b5090a306a4b8c370aa80191f4b262791.jpg",
+        "table_caption": [
+            "Tab.4Equipment benchmark "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>运行年限</td><td>BI</td></tr><tr><td>1</td><td>94.7</td></tr><tr><td>2</td><td>94.3</td></tr><tr><td>5</td><td>93.2</td></tr><tr><td>8</td><td>91.7</td></tr><tr><td>10</td><td>90.5</td></tr><tr><td>15</td><td>86.3</td></tr><tr><td>18</td><td>81.7</td></tr><tr><td>20</td><td>77.2</td></tr><tr><td>22</td><td>71.8</td></tr><tr><td>25</td><td>62.3</td></tr><tr><td>27</td><td>56.8</td></tr><tr><td>30</td><td>49.7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合表4中数据，拟合式（5）所述曲线，得出状态衰减系数 $h = 0 . 0 4 5 \\ 3 7$ ，老化修正系数 $B = 0 . 0 5 3 \\ 6 3 ,$ 0在这里定义全新设备（刚投运 $t _ { 0 } = 0$ ）的性能指标值为95，即 $B I _ { t 0 } = 9 5$ ，则最终确定该设备基准态预测模型为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB I _ { t 1 } = 9 5 ( 1 - 0 . 0 4 5 3 7 \\mathrm { e } ^ { 0 . 0 5 3 6 3 t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "设备基准态轨迹如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5为该型号断路器两年的设备基准态指标 $B I$ 分布表，将设备基准态指标 $B I$ 分为8段，通过现场统计得到设备台数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "则依据式（7）所述，利用两年的统计数据，通过最小二乘法，计算得设备故障率模型中的比例系",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/27096652148032ea243221c6fe1f8b65e7a24b7736c974b5b02f72645f8eca2e.jpg",
+        "img_caption": [
+            "图4设备基准态轨迹 Fig.4Equipment benchmark trajectory "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce7c90491ca81018c1b7d22d6d10a1ba84bed32a11264ace2f98c05108ab17e7.jpg",
+        "table_caption": [
+            "Tab.5 Distribution table of equipment benchmark "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类</td><td>基准态</td><td colspan=\"2\">设备数/台</td></tr><tr><td></td><td></td><td>第一年</td><td>第二年</td></tr><tr><td>1</td><td>95～100</td><td>64</td><td>62</td></tr><tr><td>2</td><td>85~95</td><td>44</td><td>43</td></tr><tr><td>3</td><td>75~85</td><td>18</td><td>19</td></tr><tr><td>4</td><td>60~ 75</td><td>8</td><td>9</td></tr><tr><td>5</td><td>45~60</td><td>7</td><td>8</td></tr><tr><td>6</td><td>30~45</td><td>5</td><td>4</td></tr><tr><td>7</td><td>15~30</td><td>3</td><td>4</td></tr><tr><td>8</td><td>15以下</td><td>0</td><td>0</td></tr><tr><td>设备总数／台</td><td></td><td>149</td><td>149</td></tr><tr><td>故障设备数／台</td><td></td><td>2</td><td>3</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数和曲率系数，见表6。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b58c03a9d128f93db1eeb05f4a7243b9540321be927e244d51a78eb18f67983.jpg",
+        "table_caption": [
+            "表5设备基准态值分布表",
+            "表6概率模型的 $K$ 、 $C$ 值",
+            "Tab.6 $K$ and $C$ value of probability model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备类型</td><td>K</td><td>C</td></tr><tr><td>变压器 (电抗器)</td><td>8530</td><td>0.161</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终得到设备故障率模型为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = 8 5 3 0 \\times \\mathrm { e } ^ { - 0 . 1 6 1 \\times B I }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "接着，利用4.2小节中的结论，将式（12）和式(13）代入式（11)，最终得到设备的可靠性模型为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( t ) = 1 - \\intop _ { 0 } ^ { t } 8 5 3 0 \\times \\mathrm { e } ^ { - 0 . 1 6 1 \\times 9 5 ( 1 - 0 . 0 4 5 3 7 \\mathrm { e } ^ { 0 . 0 5 3 6 3 t } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上式得出的设备可靠性曲线如图5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，设备的可靠性随着运行时间的增加呈下降趋势，在投运前期可靠性相对稳定，下降趋势平缓；到达后期设备可靠性下降速度会加快。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/896139bc23a28af7180ccd441bc1bb2aacfd890bd609d60254ec0160a49cf5e7.jpg",
+        "img_caption": [
+            "图5设备可靠性曲线",
+            "Fig.5Equipment reliability curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文基于基准态的概念，提出了一种利用电网强度、设备强度及设备老化程度综合评价高压断路器运行状态的方法。作为基准态分析的延续，利用数理统计的结论，构建了基准态预测模型，预测设备基准态发展趋势。最后，利用文章提出的故障率模型及可靠性模型，计算及预测设备当前或未来的可靠度指标，为用户的运维及检修工作提供决策支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 李穆，卢文华，向冬冬．输变电设备智能化运维系统研究与应用[J]．电气工程学报，2015，7(10)：  \n71-77.Li Mu, Lu Wenhua,Xiang Dongdong. Study onpower transmission and transformation equipmentintelligent operation and maintenance system andits application[J]. Journal of Electrical Engineering,  \n2015,7(10): 71-77.[2] 中国电力企业管理编辑部．展望“十二五”电力发展战略[J]．中国电力企业管理，2010，7(19)：  \n15-20.Editorial Department. Outlook \"Twelve five\" powerdevelopment strategy[J]. China Power EnterpriseManagement, 2010,7(19): 15-20.  \n[3] 周孝信．电力系统突发性灾害与大停电风险[C].中国能源战略高层论坛，2007.  \n[4] 吴杰余．电气设备状态检修中断路器状态监测及保护集成化研究[D]．华中科技大学，2002.  \n[5] 余绍峰，何文林，孙翔．输变电设备故障率的估算方法[J]．浙江电力，2009(6)：5-8.Yu Shaofeng,He Wenlin,Sun Xiang.Estimationmethod for the failure rate of transmission andtransformation equipments[J]. Zhejiang ElectricPower,2009(6): 5-8.  \n[6] 潘乐真，张焰，俞国勤，等．状态检修决策中的电气设备故障率推算[J]．电力自动化设备，2010,30(2):91-94.Pan Lezhen, Zhang Yan, Yu Guoqin, et al. Predictionof electrical equipment failure rate for condition-based maintenance decision-making[J]. ElectricPower Automation Equipment, 2010,30(2): 91-94.  \n[7] 王慧芳，杨荷娟，何奔腾，等．输变电设备状态故障率模型改进分析[J]．电力系统自动化，2011,35(16):27-31，43.Wang Huifang, Yang Hejuan, He Benteng,et al.Improvement of state failure rate model for powertransmission and transforming equipment[J].Automation of Electric Power Systems,2011, 35(16):27-31, 43.  \n[8] 张志华．可靠性理论及工程应用[M]．科学出版社,2012.  \n[9] 梁东明．电力设备维修策略研究[D]．华南理工大学，2005.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

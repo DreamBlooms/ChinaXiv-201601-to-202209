@@ -1,0 +1,359 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enhancement of hepatocyte differentiation from human embryonic stem cells by Chinese medicine Fuzhenghuayu ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:27 August 2015   \nAccepted:27 November 2015   \nPublished:O6 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JiameiChen1,2,3,4,WeiGao2,3,5, Ping Zhou2,3, Xiaocui $\\boldsymbol { \\mathsf { M } } \\boldsymbol { \\mathsf { a } } ^ { 2 , 3 }$ , Benjamin Tschudy-Seney2,3, Chenghai Liu1,6, Mark A Zern²,3,Ping Liu1,6&Yuyou Duan²,3,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese medicine, Fuzhenghuayu(FZHY),appears to prevent fibrosis progression and improve liver function in humans. Here we found that FZHY enhanced hepatocyte differentiation from human embryonic stem cells (hESC).After treatment with FZHY,albumin expression was consistently increased during diferentiation and maturation process,and expression of metabolizing enzymes andtransporterwere also increased.Importantly,expression of mesenchymalcelland cholangiocyte marker was significantly reducedby treatment with FZHY,indicating that one possible mechanism of FZHY's role is to inhibitthe formation of mesenchymal cells and cholangiocytes.Edu-labelld flow cytometricanalysis showed thatthe percentage ofthe Edu positive celswas increased in the treated cells.These results indicate thatthe enhanced proliferation involved hepatocytes rather than another celltype.Ourinvestigations further revealed thatthese enhancements byFZHY are mediated through activation of canonical Wnt and ERK pathways and inhibition of Notch pathway.Thus,FZHY not only promoted hepatocyte differentiation and maturation, but also enhanced hepatocyte proliferation. These results demonstrate that FZHY appears to represent an excellent therapeutic agent for the treatment of liver fibrosis,and that FZHY treatment can enhance our efforts to generate mature hepatocytes with proliferative capacity for cell-based therapeutics and for pharmacological and toxicological studies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liver disease is amajor health problem in the world,and can be genetic or caused by avarietyoffactors that damagetheliver,such as hepatitis viruses or alcohol consumption.Over time,suchdamage to the liver can result in fibrosis and cirrhosis',asignofliver damage andapotentialcontributor to liverfailure through progressive cirrhosis oftheliver2.Traditional Chinese medicines are currently used to treat patients with moderate to advanced fibrosis which were caused by chronic viral hepatitis B and $\\mathbf { C } ^ { 3 , 4 }$ , including Fuzhenghuayu $( \\mathrm { F Z H Y } ) ^ { 5 - 8 }$ . The FZHY recipe is an SFDA-approved anti-fibrotic medicine in ${ \\mathrm { C h i n a } } ^ { 9 }$ ,and consists of six Chinese medicine herbs,namely Semen Persicae,Radix Salvia Miltiorrhizae, Gynostemma Pentaphyllammak, Cordyceps,Pollen Pini,andFructus Schisandrae Chinensis10(Suppl.Fig.1,and Suppl.Table 1). Clinical trials in China showed thatFZHY could significantly improve clinical symptoms and liver function,reverse hepatic fibrosis and decrease portal pressure in patients with chronic hepatitis B,with liver fibrosis and cirrhosis10-13This antifibrotic efectwas alsodemonstrated in the completion of an FDA-approved phase II clinical trial in patients with hepatitis C in the US in $2 0 1 3 ^ { 1 4 }$ .These results indicated thatFZHYcan playan important role in improving liver disease,including hepatocyte function. Mimicking liver development, we have developed an efficient protocol to generate metabolicall functioning hepatocytes from human embryonic stem cells (hESC)15 and human induced pluripotent stem cels16,and these ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Shuguang Hospitalaffliatedto Shanghai UniversityofTraditional Chinese Medicine,Institute of Liver Diseases, ShanghaiUniversityofTraditionalChinese Medicine,Shanghai,China.²DepartmentofInternal Medicine,University ofCalifornia Davis Medical Center, Sacramento,California,USA.3lnstituteforRegenerative Cures,Universityof California DavisMedicalCenter,Sacramento,California,USA.4DepartmentofDermatology,UniversityofCalifornia Davis Medical Center,Sacramento,California,USA.5Institute of Biophysics,the Chinese Academy ofScience, Beijing,China.E-institutes ofShanghai Municipal Education Commission,Shanghai UniversityofTraditional Chinese Medicine,Shanghai, China.Correspondence and requests for materials should be addressed to M.A.Z. (email: mazern@ucdavis.edu)or P.L.(email:liuliver@vip.sina.com)orY.D. (email: yduan@ucdavis.edu) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "hepatocytes exhibit in vivo function shown by engrafting and proliferation in mouse livers16.Our results are encouraging,however,the diferentiated cell were not completed mature hepatocytes.Because of its effectin clinical conditions, we speculated thatFZHY treatment might also enhance the processof hepatocyte differentiation from hESC. Our results suggest that it did. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Enhancement of hepatocyte differentiation and maturation by FZHY. Hepatocyte diffrentiation was performed as previously described15.In our screening tests with diferent concentrations ofFZHY and the addition ofFZHY at different time points during the differentiation proces, we found thathESC-derived hepatocyte differentiation and maturation could be promoted at the concentration of 50 and $1 0 0 \\mu \\mathrm { g / m l }$ FZHY and the addition times at days 8and 20 for6 days (Suppl.Fig.2); thus,these parameters were employed to modify our differentiation protocol in this study (Fig.1A).The differentiating cels were treated withFZHY between days 8-14, whereas FZHY was added between days 20-26 during the maturation process (Fig.1A).MTT results showed that the viability of the cells treated with 50 and $1 0 0 \\mu \\mathrm { g / m l }$ FZHY was not affected when compared to cell without treatment (Fig.1B).The differentiation process was enhanced with FZHY,as determined by the increase of albumin expression.Results of qPCR showed that albumin expression in treated cels was increased when compared to the cels without treatment (Fig.1C),and the increase of albumin was further confirmed by Westernblot (Fig.1D).The functional enzyme,tyrosine aminotransferase (TAT),was also more highly expressed inthe treatedcels,as determined byqPCR (Fig.1E).Inthefunctionalassy,ELISAanalysisshowed thatsecreted albumin in the medium was increased during the period ofthe treatment (Fig.1I). Albumin expresson was also increased in treated cells during the maturation process (Fig.1F,G).Expressonofboth TATand asialoglycoprotein receptor (ASGPR),an important marker of mature and functional hepatocytes was also increased in treated cells when compared to control during the maturation process(Fig.1H).Finally, ELISAanalysis revealed thatthe secreted albumin in the medium was also increased in the treated cells even 3weeks after differentiation(Fig.1J), indicating that the treated cels were more mature.Taken together,these results strongly suggested that treatment with FZHY could promote and enhance the diferentiationand maturation of hepatocytes derived from hESC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Increased expression of metabolizing enzymes and transporter.Metabolic function is one of the most mportant actions ofhepatocytes.Aftertreatment withFZHY,PCR Arrayanalysis showed that expressionof most genes from 84 phase I enzymes was increased, particularly in the group treated with $1 0 0 \\mu \\mathrm { g / m l }$ FZHY when comparedtothoseinthecels withouttreatment (Fig.2A,the detailsofthefold changeofthese genes arelisted in Suppl.Fig.3).We quantitatively evaluated CYP2C9, CYP2C19,and CYP1A2 from Phase I; UGT1A1, UGT1A3, UGT1A6, UGT1A8,and UGT2B7 from phase I; and glucose transporter protein 2(Glut 2) from phase II. qPCR results revealed thatthese genes were highly expressed during both differentiation and maturation processes in the treated cells whencompared to cels without treatment (Fig.2B,C).Moreover, expression levels of UGT1A1, UGT1A3,and UGT1A8 were higher during the maturation stage in the treated cels.These results demonstrated thattheseenzyme-mediated metabolizing function would be improved in the treated cels; thus,after treatment with FZHY,the metabolic functionofhESC-derived hepatocytes was significantly increased,indicating that they were more mature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Enhancement of hepatocyte proliferation.The lack proliferative capacity hinders the use of hepatocytes in in vitro culture and analysis.Our hESC-derived hepatocytes maintained proliferative abilityup to day 30 after differentiation by showing co-expresson of albumin and Ki67,a proliferative marker,and they maintained good growth in secondary culture (data not show). During treatment with FZHY,the proliferative capacity of hepatocytes was enhanced in the treatedcellsas indicated by increasing numbers ofcells that weredouble positive for albumin and Ki67 during the diffrentiation and maturation processs,as determined by immunochemistry analysis (Fig.3A,B).Results of qPCR showed that expresion of Ki67 in treated cels was increased when compared to the cels without treatment during the diferentiation and maturation processs (Fig.3C).At day 26of differentiation,Edu-labelled flow cytometric analysis results showed $4 . 5 2 \\%$ of cells with proliferative capacity in controls,and the percentage of the cells with this capacity was increased to $6 . 0 5 \\%$ and $7 . 3 3 \\%$ in the cells treated with $5 0 \\mu \\mathrm { g / m l }$ and $1 0 0 \\mu \\mathrm { g / m l }$ of FZHY respectively(Fig.3D).Thus,these results demonstrated that FZHY could promote hepatocyte proliferation in vitro. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FZHY inhibited the formation of mesenchymal cells and cholangiocytes. Because it had been reported previouslythatFZHY inhibits fbrogenesis10-13,anditappears that epithelial-to-mesenchymal transition (EMT) contributes significantlyto the process ofliver fibrosis17,we decided to evaluate the effect ofFZHYon the formation of mesenchymal cells through evaluation of EMT.qPCR results showed that N-cadherin, $\\alpha$ -SMA,and Vimentin,markers of mesenchymal cells or EMT,were reduced in theFZHY-treated cels during both the differentiation and maturation stages (Fig.4A,C). Western blot further confirmed the reduction of N-cadherin and Vimentin (Fig.4B,D).Moreover,EMT-associatedtranscriptionfactors,Snail,andTwist familymember,Twist1, were significantly down-regulated by the treatment with FZHY (Fig.4E,F),suggesting thatFZHY inhibited the formation of mesenchymal cells through the reduction ofEMT.Inaddition,qPCR results showed that expression of CK7,a cholangiocyte marker,was significantly decreased in the treated cels when compared to thecells without treatment during both the diferentiation and maturation processes (Fig.4G,H).These data indicated that FZHY can inhibit the formation of mesenchymalcels andcholangiocytes in the processes of diferentiation and maturation of hepatocytes derived fromhESC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Signaling pathways affected by treatment with FZHY. Employing the Signal Transduction PathwayFinder PCR Array kit, we found that Wnt1-inducible-signaling pathway protein 1(WISP1) was up-regulated,and Hes1,the transcription factor of Notch signaling pathway was down-regulated (Fig. 5A,the details of the fold change of 84 genes are listed in Suppl.Fig.4).Normallthe Notch pathway regulates cholangiocyte differentiation18.We further determined thatthe expressions ofNotch receptor,Notchland Notch4,Notch ligand,DLL3and Jagged2,and Notch target genes,Hes1 and Hes5,were down-regulated in treated cels during the diferentiation process(Fig.5D),and Notch1,Notch4,DLL1,Jagged2,HeslandHes5 were down-regulatedin treated cells during maturation when compared to cels without treatment (Fig.5F). Western blot results further confirmed that Hes1and Jagged2 were down-regulated in treated cells during both diferentiation and maturation processes (Fig.5B,C). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/032adbcb14b0cf76e32300e13f4a0724b0052a9435597f6360aef5cb2d43ae7f.jpg",
+        "img_caption": [
+            "Figure 1.Hepatocyte differentiation of hESC under treatment with FZHY.(A) Schematic illustration of diferentiation protocol with the addition ofFZHY.Briefly,Hepatocyte diferentiation was initiatedafter the induction of definitive endoderm (DE) using hepatocyte diferentiation medium (HDM),and HDM was changed to hepatocyte culture medium (HCM) for further diffrentiation and maturation atday 14 after differentiation.FZHY was added into the mediums at final concentrations of $5 0 \\mu \\mathrm { g } / \\mathrm { m l }$ and $1 0 0 \\mathrm { \\mu { g } / m l }$ at days 8 and 20 after differentiation for sixdays-treatment respectively. hESC-derived hepatocytes (hEH) were harvested at days 14 and 26 after treatment with FZHY for analysis. (B)Cell viability was assessed by MTTassay at dayl4 and day 26 respectively.(C,F)qPCR was employed to determine relative albumin (ALB) expression at days 14(C)and 26 (F)of differentiation in the treated cells compared to the untreated cells. (D,G)ALB protein expression was determined by Western blot in the untreated and treated cels at days 14(D) and 26 $( \\mathbf G )$ (Left panel).ALB protein expression Was measured employing histogram normalized to GAPDH after calculation based on the results of Western blot in the untreated and treated cells at days l4 $( \\mathbf { D } )$ and 26 (G) (Right panel). $\\mathbf { \\Gamma } ( \\mathbf { E } , \\mathbf { H } )$ Relative expression of TAT and ASGPR was determined by $\\mathsf { q P C R }$ at days 14(E)and 26 (H) of differentiation in treated cels compared to untreated cells. (I,J) The amountof secreted ALB in the culture medium was measured byELISAanalysis at days of14(I)and 26 (J)of differentiation in treated and untreated cells,and the secretionof ALB intreatedcels exhibitedsignificantlyhigher thanthose in untreatedcels,which were shown by the panels of column graphs. Data represent mean $\\pm$ SEM. $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3d961c77d7bac0bca906e72e850c37f8896d8fdf400c233a2796178a44eddc8.jpg",
+        "img_caption": [
+            "Figure 2. Increased expression of metabolizing enzymes and transporter. (A) The entire histogram view of the expression changes of 84 genes representing phase Ienzymes by PCR Array analysis at day14 after differentiation in the presence or absence ofFZHY.The expresson foldchanges are isted in Suppl.Fig.2.(B,C) Relative expression levels of phaseI,I and II enzymes and proteins were determined atdays 14(B)and 26(C) of differentiation in the treated cells and compared to untreated cells.Data represent mean $\\pm$ SEM. $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FZHY enhanced both the canonical Wnt and ERK signaling pathways. The MAPK signaling pathway has been shown to be involved inearly liver development and hepatic diffrentiation18,19,and ethanol treatment inhibited both the ERK/MAPK and canonical(β-catenin dependent) Wnt signaling pathways in hESC-derived hepatocytes inour previous study20,indicating that both signaling pathways regulate hepatocyte diferentiation. Western Blot results showed that phosphorylated ERK was highly expressed in FZHY-treated cels during boththe differentiation and maturation processes,whereas totalERK was notchanged inthe treated and untreated cels (Figs 6A and7A).qPCR results showed that Wnt1,Wnt2,Wnt3a,and Wnt1Ob were more highly expressed in treatedcels inte differentiation process,and expressionofWnt1and Wnt2 was increased during the maturation proces in treated cells (Figs 6Band 7C),and Western Blot results showed that Wntl was highly expressed in FZHY-treated cels during both the differentiation and maturation processes (Figs 6C and 7E),suggesting thatFZHY treatment enhanced both ERK and Wnt signaling pathways during the whole process of hepatocyte differentiation. $\\beta$ -catenin nuclear translocation,and TCF1 up-regulation have been shown to be involved in bothERK and canonical Wnt pathways21-23,and inour studies,Western blot results showed thatthe amount of $\\beta$ -catenin protein in nuclei was increased in treated cells (Figs 6Dand 7B),and expression of TCF1,a $\\beta$ -catenin target gene,was also increased (Fig.7E).We further evaluated TCF1 downstream targets suchas cyclin D1 and $c$ -myc,which facilitate cellproliferation.Both qPCR results and Western blots revealed that both cyclin Dl and c-myc were more highly expressed in the treated cells when compared to untreated cels during both the differentiation and maturation processes (Figs 6C,E,Fand7D,E).Numb mediates the interaction between Wnt and Notch as an interruption of the Wnt-Notch signaling cycle24,25. Western blot showed that the expression of Numb was up-regulated during both diffrentiation and maturation processes (Figs 6F and 7E),indicating that its up-regulation is consistent with the activation of canonical Wnt signalingand suppressionofNotch signaling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa01a531cbc7fa972e901441f25d2c943fefc88725789aa7fe9bf657802f0c0f.jpg",
+        "img_caption": [
+            "Figure 3.Enhancement ofhepatocyte proliferation. (A,B)Double-immunostaining was performed to detect co-expression of albumin (ALB)and Ki67at days 14(A)and 26 (B) in the untreated and the treated cells. (C)The relative expression of Ki67 gene was determined byqPCR at days 14and 26 in the treated cells and compared to the untreated cels.(D)Eduflow cytometry showed the cell number of the cels with proliferative capacity at day 26 of differentiation in treated and untreated (control) cells.Magnification: $1 0 0 { \\bf x }$ $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce9bb856de0eadc339f97df1eebd1741f5c0f9be69dc0eed0a388a02862ffb0b.jpg",
+        "img_caption": [
+            "Figure 4.The inhibition of mesenchymal celland cholangiocyte by treatment with FZHY. (A,C) The relative expression of the mesenchymalcellmarkers was determined byqPCR at days 14(A)and 26(C)in the treated cells and compared to the untreated cells.(B,D) Expresson of N-cadherin and Vimentin was determined by Westernblotat days 14(B)and 26(D)in the untreated and treated cels (Left panel),and the amount of N-cadherin was also measured employing histogram normalized to GAPDH protein based on the results of Western blot (Right panel). $\\mathbf { \\Gamma } ( \\mathbf { E } , \\mathbf { F } )$ The relative expression of the associated transcription factors was measured by qPCR at days 14(E)and 26 (F) in the treated cells and compared to the untreated cells. $\\mathbf { \\Gamma } ( \\mathbf { G } , \\mathbf { H } )$ The relative expression of cholangiocyte marker was determined by qPCR at days 14(G) and 26 $\\mathbf { \\tau } ( \\mathbf { H } )$ in the treated cells and compared to the untreated cells. $^ { * } p < 0 . 0 5 , ^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The liver has the unique capacity to regulate its growth and mass,and this growth process,following acute and chronic liver injury, is known as liver regeneration26.Inaddition to hepatocytes and non-parenchymal cells, thelivercontains intra-hepaticadult stemcels that can differentiate into hepatocytes and cholangiocytes under pathophysiological conditions.Liver regeneration after mild degrees of injury or partial hepatectomy does not involve intra-or extra-hepatic stem cells butdepends on the proliferation of hepatocytes26.However,sustained injury willcause hepatocyte senescence,and when mature hepatocyte proliferation is exhausted or suppressed27,28, this condition results in activation ofhepatic progenitor cells.When the need for proliferation of hepatocytes is overwhelmed, the loss of mature hepatocytes and restoration of the liver massand function appears to be compensated for by involvementof liver progenitoror stem cells that proliferate and diferentiate into ductular cells or hepatocytes26,29.Intrinsicand extrinsicfactors favoring diffrentiationofliver progenitor/stem cells willpromote the restoration of liver function. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In liver development,fibroblast growth factor (FGF) from the cardiac mesoderm and bone morphogenetic proteins (BMPs) from septum transversum mesenchymal cels coordinately induce the liver diferentiation and suppress the pancreatic diferentiation19,30-33 inthe ventralforegut.MAPK is activated in responsetoFGFin the lateral hepatic progenitors18,19. Recent reports indicate an important role ofFGF/ERK signaling in promoting the transitionfromanaivestate toaprimed statein pluripotentstem cells30,34-38.FGF4is themajorstimulus activating ERK in embryonic stemcels (ESC),and FGF4 stimulation of ERK1/2 is an autoinductive stimulus to induce ESC to diffrentiate,thus,itappears thattheERKcascadedirectsthetransitiontoastatethatisresponsive toinductive cues for germ layer segregation39,and further investigation has shown that FGF4 signaling controls endoderm lineages34. Inaddition,a recent study showed that FGF4and HGF promote the differentiation of mouse bone marrow mesenchymal stem cels towards hepatocytes via the MAPK (p-38 and ERK) pathway40. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fdf6e987e65c574b4964abe7082a312accfcfb1d751cb00c64cde8721dfe804.jpg",
+        "img_caption": [
+            "Figure5. Signaling pathways affected by the treatment with FZHY.(A) PCR Array revealed up-regulation of Wnt signaling pathway and down-regulation of Notch signaling pathway(The details of expression of 84 genes representing 10 signaling pathways was listed in Suppl.Fig.3). (B,C)Expression of Hesl and Jagged2 weredetectedby Western blotat days 14(B)and 26(C)after diferentiation in the treated celsand compared to the untreated cells,and Histone and GAPDHas housekeeping genes respectively (Left panel).The amount of Hesl and Jagged2 was measured employing histogram normalized to Histone and GAPDH protein respectively based n the results of Western blot (Right panel). (D,E) Relative expression of genes from Notch pathway was determined by qPCR at days 14(D)and 26(E)after differentiation in the treated cells and compared to the untreated cells.Data represent mean $\\pm \\operatorname { S E M }$ $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/053654cce12a79934f5b46957b74a27d7bc69053850a53151c3df3b5a0a04fab.jpg",
+        "img_caption": [
+            "Figure 6.Enhancement of ERK and Wnt pathways by FZHY during differentiation.(A) Expression of phosphorylatedErk1/2(p-Erk1/2)and total Erkl/2was determinedbyWestern blotatday14of differentiation in the treated and untreated cells (Left panel),and expression of p-Erkl/2 also were measured employing histogram normalized to total Erkl/2 after calculation based on the results of Western blot (Right panel). (B) Relative expression of genes from Wnt ligands were determined by qPCR atdayl4 of differentiation in thetreated and untreated cels.(C)Expression of Wntl and cyclin Dl was detected by Western blot at day 14 of differentiation in the treated and untreated cells (Left panel),and Wntl expression also was measured employing histogram normalized to GAPDH after calculation based on the results of Western blot (Right panel). (D) The amount of nuclearbeta-catenin was determined by Western blot atdayl4of diferentiation in thetreated and untreated cells (Left panel),and its amount also was measured employing histogram normalized to Histone protein after calculation basedon the results of Western blot (Right panel). (E)Relative expressions of cyclin Dland c-Myc were determined byqPCR in the treated celsand compared to the untreated cels at dayl4 of differentiation. (F)Expressions of c-Myc and Numb were determined by Western blot at day l4 of differentiation (Left panel),and the expresion of Numb was also measured employing histogram normalized to GAPDH based on the results of Western blot (Right panel). Data represent mean $\\pm \\operatorname { S E M }$ = $^ { * } p < 0 . 0 5$ 0 $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our differentiation protocol,FGF4,HGF,BMP2and BMP4 were used to induce early hepatic differentiation15,16, mimicking invivoliverdevelopment;thus,itis expected thatMAPK isoneofthe majorsignaling pathways to regulate hepatic diffrentiation underour conditions.Our recent study showed ethanol negatively regulated hepatic diferentiation from hESCbythe inhibitionof the MAPK/ERK signaling pathway20;these results suggest thatthe activation ofERK is a critical pathway which directs the hepatic progenitors to differentiate towards hepatocytes under our differentiation condition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Wnt signaling pathway appears to promote hepatogenesis in multiple systems including xenopus41,and Zebrafish42-44.In mammalian liver development, mesenchymal origin Wntand FGF4 signaling in the foregut enablesliverand pancreas induction1941,45Investigations in rodents elucidated the roleof Wnt1 in directing oval cels to differentiate to hepatocytes during liver regeneration after liver injury in rats46.Thissuggests thatthe Wnt signaling pathway also plays an important role in hepatocyte diferentiation from stem cells.Ourlatest study revealed that ethanol impaired hepatocyte diferentiation from hESC by reducing the canonical Wnt signaling pathway20. Thus the results from both studies suggest that Wnt signaling pathwayalso is involved in regulating hepatocyte differentiation from hESC under our differentiation conditions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c210e9b207cc712eca1546012888253d8bfc72c043b6555cf53a3aa936c345d.jpg",
+        "img_caption": [
+            "Figure 7.Enhancement of ERK and Wnt pathways by FZHY during maturation.(A) Expression of phosphorylatedErkl/2and total Erkl/2was determinedbyWestern blotatday26after diferentiation in the treated and untreated cells (Left panel),and expression of $\\boldsymbol { \\mathrm { \\tt ~ p \\ } }$ -Erkl/2 also was measured employing histogram normalized to total Erkl/1 aftercalculation basedon the resultsof Western blot(Right panel).(B)The amount of nuclear beta-catenin was determined by Western blotatday26of differentiation inthe treatedand untreated cells (Left panel),and its amount also was measured employing histogram normalized to Histone H3 protein after calculation based on the results of Western blot (Right panel). (C)Relative expresson of genes from Wnt ligands were determined byqPCR atday26of differentiation inthe treated and untreated cells.(D)Relative expression of cyclin Dl and c-Myc was determined byqPCR in the treated cels and compared to those in theuntreated cells at day26of diferentiation.(E)Expression of Wntl,TCF1,cyclin D1,c-Myc,and Numb wasdetermined by Western blotatday26of differentiation in the treated and untreated cels (Left panel), and the expression of Wntl and Numb also was measured employing histogram normalized to GAPDH after calculation based on the results of Western blot (Right panel).Data represent mean $\\pm$ SEM. $^ { * } p < 0 . 0 5$ 0 $^ { * * } p < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FZHY appears to prevent the progresson of fibrosis and to improve liver function in humans with liver disease10-12.In this study, we determined that FZHY could promoteand enhance both hepatocytediferentiation and maturation under our differentiation conditions,including the secretion of albumin into the media (Fig.1).This result wasconsistentwith thefindingofaclinical trial; whenpatients with liverfibrosis causedbychronic hepatitis B were treated with FZHY,FZHY improved liver function parameters,particularly an increase of albumin levels47. Therefore,animal experiments are expected to be performed in the further investigations using a liver injury modeltodetermine whether treatment with FZHYalso plays similar roles after transplantationofhESC-derived hepatocytes into injured livers. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our results also showed that FZHY could promote hepatocyte proliferation,as indicated by the increased number of cells thatco-expressed albumin and Ki67and the increased percentage of the Edu positive cells.The improved and restoredliverfunctionof patients with fibrosis induced bychronic injurydepends onboth hepatocyte regeneration/differentiation and mass,thus,FZHY might also work on both processes in vivo depending on the pathophysiological conditions of the patients.EMT plays an important role in liver fibrosis initiationand development17,hepatic stelate cells as wellas portal fibroblasts alsoplayapivotalrole in liver fibrogenesis2; however, recent reports indicate thatEMT,i.e.,formationof these mesenchymalcels from hepatic epithelium,contributes to the processofhepatic fibrosis17,48-53.Therehavebeen severalstudies reporting on the actions ofFZHY ininhibiting liver fibrosis in rodents and in humans10-13,including indications thatFZHY mayreverse in vivo fibrosis through the inhibitions of both the $\\mathrm { E M T ^ { 1 1 } }$ and the activation of hepatic stellate cells to decrease the formation of myofibroblastl3.Our study revealed that the markers of mesenchymal cells/EMT,N-cadherin, $\\alpha$ -SMA,and Vimentin,andEMT-associated transcription factors,Snail,andTwistl,weresignificantly reducedbytreatment with FZHY during hepatocyte diffrentiationand maturation processs,indicating thatFZHY appears to inhibit theformationof mesenchymalcells through the reduction ofEMT in vitro.Thus,our reportis consistent with the in vivo findings and suggests posible mechanisms of these interactions.Therefore,itis interesting to speculate thatFZHY may both promote the proliferation of hepatocytes to restore the liver function in patients with liver disease with moderate fbrosis,as well as enhancing thedifferentiationofliverstem/progenitorcels torestoreliver function in patients with liver disease with more marked fibrosis/cirrhosis.Furthermore,FZHY appears to limit fibrogenesis through the inhibitionofforming mesenchymalcels bythe reductionof theEMT.Taken together,it appears to represent an excellent therapeutic agent for the treatment of liver fibrosis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our results showed improvementof hepatocyte diferentiation and maturation through enhancing the canonical (β-catenin dependent) Wnt and ERK signaling pathways,and both pathways employ $\\beta$ -catenin to perform their functions.After the activation of Wnt and ERK, $\\beta$ -catenin is translocated into the nucleus21-23.With FZHY treatment, the amount of nuclear $\\beta$ -catenin was increased in the treated cels,and TCF1,a target gene for $\\beta$ -catenin in the nucleus, was also increased. Consequently,TCF1 downstream target genes,cyclin D1 and c-myc,were up-regulated,andboth genes facilitate cellproliferation46.This increased activation of Wntand ERK mayrepresenta potential mechanism to explain howourhESC-derived hepatocytes treated withFZHY exhibited enhanced proliferation during the differentiation and maturation stages. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Notch signaling pathway is necessary for specification of the biliary tree,and Notch pathwayablation results in failure ofhepatoblastspecification to cholangiocytes54-56,based onthe finding in patientsafected with Alagille syndrome,apolymalformative diseasewithbile duct paucity42,5,58Notchreceptors (Notch1-4),andNotch ligands (DDLs,Jagged1,2)59,are highly expresed during biliary regeneration of mouse hepatic progenitor cells, indicating thatthe Notch pathway wasactivated,and this activation wasconfirmed by greater expressionofboth the Notch receptor targets Hesl and Heyl in biliary regeneration when compared to hepatocyte regeneration. Theseresults strongly suggest that in hepatocyte regeneration there is restricted activation of the Notch pathway54. Furthermore,the Notch pathway effectors Hes5 and HeyLare more highly expressed during biliary regeneration than hepatocyte regeneration54,and Notch inhibitor(GS) significantly reduced the expressionofNotch ffctors Hesl,Hes5,Heyl and HeyL54.The Notch signaling pathway is modified by multiple factors,including Numb,an ubiquitinligating enzyme,whichacts asanegative regulatoroftheNotch pathway6o61.Ina previous study,Numb promoted the ubiquitination oftheNotch1receptor,whichin turn resulted in the degradation of downstreamactivation of Notch1 target gene Hes162. Down-regulation of endogenous Numb incultured intestinal cells using RNA interference increased Notch signaling,resulting intheup-regulationofHes1.Moreover,Numb is adirecttanscriptional targetofthe Wntsignalling pathway, thus Numb isakey mediatorofthe coordinated interactionof the Wntand Notch pathways24,25,54.Inour study,FZHYtreatment resulted inup-regulationofNumb (Figs 5Fand 6F) and the reduction ofCK7,Notch receptors (Notch1 and Notch4),Notch ligands (DLL1,DDL3,and Jagged2),and Notch receptor target genes (Hesl and Hes5),as determined by qPCR and Western bolt (Fig.4B-E),suggesting that upon ERK and Wnt pathways activation after treatment with FZHY, $\\beta$ -catenin was translocated into the nucleus,where itassociated with transcription factor,TCF1,todrive Numb expression.Moreover,up-regulation of Numb negatively regulated the Notch pathway,resulting in inhibition ofthe biliary diferentiation of hESC with FZHY treatment. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary,FZHY treatment appears to not only enhance hepatocyte differentiation and maturation,but also promote hESC-derived hepatocyte proliferation.Our results further indicate that such enhancement is likely mediated through activation of the canonical Wnt and ERK pathways; in addition,the inhibition of the Notch pathwaysuppresss the formationofcholangiocytes byFZHY(Fig.8).Furthermore,FZHY treatmentalso inhibited theformation of mesenchymalcels through the reduction of EMT, thus suggesting another possble mechanism by which FZHY may promote hepatocyte diferentiationand maturation is through inhibition of the formation of mesenchymal cells (Fig.8).Our in vitro results appear to confirm previous in vivo findings in rodents and humans.Therefore,our results not only explain posible mechanism by which FZHY restores the liver faction and inhibits fibrosis in patients,but they alsodemonstrate that FZHY treatment can enhanceour efort to generate mature hepatocytes with proliferative capacity for cell-based therapeutics and for pharmacological and toxicological studies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cell culture.The human embryonic stem celline,H9,was purchased from WiCellResearch Institute (WiCell,Madison, WI),and maintained and expanded on mouse embryonic fibroblasts (MEFs)(GlobalStem, Rockville,MD)as instructed by the provider. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Differentiation of hESC towards hepatocytes.Hepatocyte differentiation was performed as previouslydescribed15;briefly,the induction of definitive endoderm (DE)from hESCs was initiated by RPMImedium (Invitrogen,Carlsbad,CA)with $1 0 0 \\mathrm { n g / m l }$ ActivinA(R&D Systems Inc.,Minneapolis,MN) without serum for 2 days,and then the medium was changed to RPMI medium with $1 0 0 \\mathrm { n g / m l }$ Activin A, $0 . 5 \\mathrm { m M }$ sodium butyrate and B27supplement (Invitrogen) for up to6 days.DEcells were then split and re-seeded on collgen I-coated 6-well plates (BD Biosciences,San Diego, CA) in hepatocyte diffrentiation medium (HDM) which contains IMDM media (Invitrogen) supplemented with $2 0 \\%$ FBS (Invitrogen), $2 \\mathrm { m M }$ L-glutamine (Invitrogen), $0 . 3 \\mathrm { m M }$ 1-thioglycerol (Sigma-Aldrich, St. Louis,MO), $0 . 5 \\%$ DMSO (Sigma), $1 0 0 \\mathrm { n M }$ dexamethasone (Sigma), $0 . 1 2 6 \\mathrm { U / m l }$ human insulin (Hospira,Inc),FGF-4 $\\left( { 2 0 \\mathrm { n g / m l } } \\right)$ ,HGF $\\left( { 2 0 \\mathrm { n g / m l } } \\right)$ ,BMP2 $\\left( 1 0 \\mathrm { n g / m l } \\right)$ ,and BMP4 $\\left( 1 0 \\mathrm { n g / m l } \\right)$ (R&D Systems Inc.)for 2 weeks.Thenthe cells were further diferentiated and maturated in hepatocyte culture medium (HCM) which contains hepatocyte basal medium (Lonza, Walkersville,MD) supplemented with SingleQuots kit (Lonza), $0 . 5 \\%$ DMSO, $1 0 0 \\mathrm { n M }$ dexamethasone, $2 0 \\mathrm { n g / m l }$ FGF4, $2 0 \\mathrm { n g / m l }$ HGF, and $5 0 \\mathrm { n g / m l }$ oncostatin M(R&D systems Inc.) until use. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8ed730cd848f8660c8630713148d7d8bbc7804a20eb6e7d9b73bf490cc8fe13.jpg",
+        "img_caption": [
+            "Figure 8.Illustration of the role ofFZHY during hepatocyte differentiation.Cartoon illustration of therole ofFZHY during hepatocyte differentiation: Afterthe induction of definitive endoderm (DE)from hESC,DEcells were used to diferentiate towards hepatocytes (hEH) in conjunction with treatment with FZHY.FZHY enhanced ERK and Wnt signaling pathways,and these two pathways interact at $\\beta$ -catenin. The increase of $\\lvert \\beta$ -catenin after translocation into nuclei activated TCFl, which up-regulated its downstream genes, consequently enhancing the proliferation,diferentiation and maturation of the differentiating cell.TCF1 down-regulated Notch pathway to inhibit the formationofcholangiocytes though up-regulation of Numb.In addition,the treatment with FZHY also inhibited the formation of mesenchymal cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Treatment of differentiated cells with FZHY.FZHY was prepared and provided by Shanghai Sundise Traditional Chinese Medicine Co.,Ltd., China (SFDA approval No: Z20050546,Shanghai, China).The formula of the FZHY per dose is listed (Suppl.Table 1),and ten compounds ofFZHY were characterized by chromatographic profiling (Suppl.Fig.1).Briefly,the following crude herbs were combined to make theFZHY extract powder:, $8 . 0 \\mathrm { g }$ of Danshen, $4 . 0 \\mathrm { g }$ ofDongchongxiacao, $2 . 0 \\mathrm { g }$ of Wuweizi, $2 . 0 \\mathrm { g }$ of Taoren, $2 . 0 \\mathrm { g }$ of Songhuafen, and $6 . 0 \\mathrm { g }$ of Jiaogulan.The quality control and preparation standardization of FZHY is established and enforced strictly by Shanghai Sundise Traditional Chinese MedicineCo.,Ltd.Inthis study,FZHY powder was dissolved in DMSO.FZHY was used to treat the differentiating cells at day 8and day 20 after the DEcells were re-seeded on collagen I-coated plates for differentiation at the final concentrations of 50 and $1 0 0 \\mu \\mathrm { g / m l }$ for 6 days respectively; the differentiating control cells were treated with the same concentration of DMSO only. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunohistochemistry analysis. To assess the proliferation of hESC-derived hepatocytes, double-immunostaining was used to detect albumin (ALB)(goat polyclonal antibody,1:10oo,Bethyl Inc., Montgomery,TX)andKi67(rabbit polyclonalantibody,1:50o,Abcam,Cambridge,UK).Differentiatedcels were fixed with $4 \\%$ paraformaldehyde and incubated at $4 ^ { \\circ } \\mathrm { C }$ overnight with primary ALB and Ki67 antibodies.The next day, cells were incubated in $\\mathrm { C y } 3$ -conjugated donkey anti-goat $\\mathrm { I g G }$ (1:250) or Alexa Fluor@ 488-conjugatd goatanti-mouse IgG(1:10o) (Jackson Immunoresearch Laboratories, West Grove,PA)at room temperature for 1 hour.Nuclei were stained by 4'6-Diamidino-2-Phenylindole (DAPI). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MTT viability assay.The MTT3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl- tetrazolium bromide-based in vitro oxicologyassay kit was purchased from Sigma-Aldrich.Assayanalysis was performed per the manufacture's instructions.Briefly,MTT was added in an amount equal to $1 0 \\%$ of the culture medium volume,and culture media was aspirated 4hours later.The resulting formazan crystals were dissolved in MTT Solubilization Solution and measured for absorbance at a wavelength of $5 7 0 \\mathrm { n m }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Enzyme-Linked Immunosorbent Assay (ELISA)analysis.Every 48 hours after treatment with FZHY, the medium supernatant was collcted fordetermining human ALB secreted into the medium by hESC-derived hepatocytes employing the Human Albumin ELISA Quantitation kit (Bethyl Inc.). The assay was performed according to the manufacturer's instructions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Quantitative RT-PCR analysis.Diferentiated cels were harvested at day14 and day 26 after treatment with FZHY,and total RNA isolation,cDNA generationand quantitative real-time PCR (qPCR) were carried out as previously described15.Primers or primers/probes used are listed in Suppl.Table 2. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Western blot analysis.Diferentiated cels treated with or without FZHY were lysed in RIPA bufer with proteinase inhibitor cocktail and phosphatase inhibitor cocktail (Milipore,Billerica,MA)at day14and day 26 after differentiaition. $3 0 { - } 5 0 \\mu \\ g$ of total proteins or $5 \\mathrm { - } 1 0 \\mu \\mathrm { g }$ of nuclear protein was used for Western blot analysis as previously described19.Antibodies used are listed in Suppl. Table 3. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry for Edu cellproliferation analysis.Click $\\operatorname { i T } ^ { \\circledast }$ EdU Alexa Fluor@ 488 Flow Cytometry Assay Kit (Invitrogen) was employed,and thecellproliferation analysis was performed according to the manufacturer's instructions.Briefly, the differentiated cells were labelled with an EdU concentration of $4 0 \\mu \\mathrm { M }$ at $3 7 ^ { \\circ } \\mathrm { C } ,$ （204号 $5 \\%$ $\\mathrm { C O } _ { 2 }$ for $^ \\mathrm { 4 h }$ . The cels were harvested and fixed, then 1X saponin-based permeabilization and wash reagent were added to permeate the cels.The reaction cocktail was added and the reaction mixture was incubated for 30 minutes at room temperature,then washed.Finally, the1X saponin-based permeabilization and wash reagent were added and the cells were analyzed using a flow cytometer. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PCR Array assays.Differentiated cels were harvested at day 14 after treatment with or without FZHY, and total RNA was isolated and cDNAs were generated using the $\\mathrm { \\dot { R } T ^ { 2 } }$ First Strand Kit (Qiagen, Valencia, CA). TheDrug MetabolismPhaseIEnzyme $\\mathrm { R T } ^ { 2 }$ Profiler PCR Array(PAHS-068Z),and the Signal Transduction PathwayFinder PCR Array (PAHS-014Z)(all from Sabiosciences,Valencia, CA),were employed using the $\\mathrm { R T } ^ { 2 }$ SYBR Green qPCR Mastermix (Sabiosciences),and data were analyzed as indicated by the manufacturer. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. All data were summarized as means $\\pm$ SEM from at least three independent measurements.An Unpaired Student t-test was used to analyze the data. $\\mathtt { p } < 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Williams,R.Global challenges in liver disease.Hepatology 44,521-526 (2006). 2.Bataller,R.& Brenner,D.A.Liver fibrosis.Jclin invest 1i5,209-218 (2005). 3.Jeng,JE.etalImpactofonchepatitisandpatitisCndvesepaticrosisiepatocellaracnomaelatedtoetel quid chewing.Asian Pac JCancer Prev15,637-642 (2014). 4.Cui,Y.&Jia,J.Updateonepidemiologyofhepatitis BandCinChina.JGastroenterol Hepatol28Suppl1,7-10(2013). 5.Nie,G.RecentStudiesontheMolecularMchanismofreatmentofLiverDiseasesbyTraditionalChineseMedicine.CJ8,2-155 (2002). 6.He,Y.etal.Clinical tdyontreatmentofliverfbrosisofchronichepatitis Bpatients with Ginkgoleaf.CJIM8,90-94(002). 7Yang,L.etal.ClinicalPatholgicStudyonEfectofQianganCapsuleinTreatigPatintsofChroicHepatitisBWithLiverosis. CJIM8,85-89 (2002). 8.LiX,Zhao,CJin&HuangC.Clicalseatiooectangagrauleireaigroicatiticivefois.C 8,95-99 (2002).   \n9. Zhao,C.,Wu,Y&Xu,L.CurativeefctsofzhngHuaucapsulesonhepaticfrossandthefunctionalehnissiew. Zhong XiYi JieHe XueBao4,467-472(2006).   \n10.Jia,Y.etal.FuzhengHuayurecipepreventsutritionalfbrosingsteatohepatitisimice.LipidsHealthDis1,45(012).   \n11.Wang,Q.LYn,LoYYngY,u,&uCguaipediaEeveseealtestio through counteractingTGF-betal-induced epithelial-to-mesenchymaltransition.JEthnopharmacol127,631-640(2010).   \n12.Yang,T,Sn,D.Png.To,Y&uC.Hesigatioothbsobeddmetaboldooentsofro Fuzheng Huayurecipeand studyontheanti-hepaticfbrosis efectsofthesecomponents.JEthnopharmacol148,691-700(2013).   \n13.Liu,C.,Hu,u,LuC.&i,ofgHaflascoginerois.Ced().   \n14.Zhang,L.&huppan,D.TraditionalChneseMedicine(TCM)forfbroticliverdisease:opeandhype.JHepato61,66-168 (2014).   \n15.Duan,Y.ealDiferentiationandcaracterzationofmetabolicallyfunctioningpatocytesfromumanembryonicstcels.em Cells 28,674-686(2010).   \n16.Ma,Xetal.Higlentdirentiatiooffunctoalepatoyefroumaniducedpuripotentstmel.teCellnsl Med 2(6),409-19 (2013).   \n17. Sterzer,V.,Alsamman,M.,Bretag,T.& Scholten,D.EMTinliver fbrosis.CurrPathobio Rep2,201-207 (2014).   \n18.Calmont,A.alAFsposeathwatatmedateseaticgeneductiobryoicedodercsDevCel38 (2006).   \n19.Zaret,K.S.&Grompe,M.Generationandregenerationofcellsoftheliverand pancreas.Science 322,1490-1494(2008).   \n20.Gao,Wetal.EaolegatielyegulateshpaticderetiationoSCbybofteAPK/RKsignalingpathiro. PLoS One9,e112698 (2014).   \n21. Clevers,H.& Nusse,R.Wnt/beta-catenin signaling and disease.Cell149,1192-1205 (2012).   \n22.Ding,Q.etal.ErkssociateswithndpriesGK-3betaforitsiactivationesultingupreglatioofetacateinMolel, 159-170 (2005).   \n23.Yun,M.S.Ki,S.,Jeon,S.H,LeeL.&Coi,K.YBothERKandWnt/beta-catenipathwayrevoledinWnta-inuced proliferation.JCell Sci118,313-322 (2005).   \n24.Katoh,M.&Katoh,M.NUMB isabreak of WNT-Notch signaling cycle.IntJMolMed18,517-521(2006).   \n25.Cheng,X.,Huber,T.L,Chen,V.C.aue,P&Keler,G..NumbmediatestheinteractionetweenWntandNotchtoulte primitive erythropoietic specification from the hemangioblast.Development 135,3447-3458 (2008).   \n26.Fausto,N.&mbe,J.eoleofepocesdalelsigeeratonndpouatiochev (2003).   \n27.Falkowski,O.etal.Regenerationofhepatocytebuds'incirhosisfromintrabilarytemcell.JHepatol39,57-364(003).   \n28.Marshall,A.etalelatioetenepatocteestmiedpaticgeneratidosisionicepaiss infection.Gastroenterology 128,33-42 (2005).   \n29.Sel,S.Electrorosoicentioofputaiertcelldtmateepatoesflogprtalois induced in rats by allyl alcohol. Stem Cels 15,378-385 (1997).   \n30.Shin,D.etal.BmpndFgfsignalingareessntialforliverspecifcationinzebrafish.Development34204-(00).   \n31.Deutsch,GJng,J,ng,raJ.&et,K..Apotentialpruroropuationforanreasderitintboc endoderm.Development 128,871-881 (2001).   \n32.Jung,J,Zheng,M.,Goldfarb,M.&Zaret,K.S.Initiationofmammalianliverdevelopmentfromendodermbyfbroblastgrowth factors.Science 284,1998-2003 (1999).   \n33.Ross,J..,un,N.Hgan,B.L.&aret,K..tictmesoderalignalsdngBsfroheptumrae mesenchyme,are required in combination for hepatogenesis fromthe endoderm.Genes Dev15,1998-2009 (2001).   \n34.Lanner,F.&Rossant,JTheroleofFGF/Erk signaling in pluripotentcels.Development137,3351-3360(2010).   \n35.Hanna,J.et al.Metastable pluripotent states in NOD-mouse-derived ESCs.CellStem Cell4,513-524 (2009).   \n36.Hanna,J.tal.HumaembryonitmcellswithogicalandpigeeticaracteristisilatosefmoueECs.oatl Acad Sci USA 107,9222-9227(2010).   \n37.Greber,Betal.ConseedanddivergentolesofGFsignalinginmouseepblaststecellandumanembryonictemcells.l Stem Cell6,215-226(2010).   \n38.Li,Wetal.Generatiofatandhumaninducedplurotnttcellsbobnggeneticerogamngadeicalor. Cell Stem Cell4,16-19 (2009).   \n39.KunathTbilKslhye,hlai/ig triggers transitionofpluripotentembryonicstemcels fromself-renewal tolineagecommitment.Development342895-2902 (2007).   \n40.Lu,T.,YangCSun,H,LvJ,Zang,F&ong,X.JFFdHFpromotedirentiatiofousebonearrowmescal stem cells into hepatocytes via the MAPK pathway.Genet Mol Res13,415-424 (2014).   \n41.McLin,VAanin,SA.&o,A.epsiooft/ba-agnaingietoddiser and pancreas development.Development 134,2207-2217 (2007).   \n42.Si-Tayeb,K.,Lemaigre,FP.&Duncan,S.A.Organogenesisanddevelopmentoftheliver.DevCell18,175-89(2010).   \n43.Ober,E.eade,Held,H..&i.sodaltglgsiiellateeciu 442,688-691 (2006).   \n44.Goessling,W.tal.APCmutantzebrafshuncoverachngingtemporalrequrementfrwntsgnalinginliverdevelopment.eviol 320,161-174(2008).   \n45.Wels,J.M.&eltonD.A.Earlyouseendodermispateredbyolublefactorsfomadjacentgerlayers.Development1, 1563-1572 (2000).   \n46.Williams,JM.etalTeleofteWntfiyfseceedprotesinatal\"stecellasedlveegeeratio:Wtdrives differentiation.Am JPathol 176,2732-2742 (2010).   \n47.Liu,PealulticeterlcalsdyozegacpsueagaistierrosuetooichepatiWldJsteol 11,2892-2899 (2005).   \n48.Wilis,B.C.&Borok,Z.TGF-beta-inducedEMT:mechansmsandimplicationsforfroticungdisease.AmJPysiolLungCelol Physiol 293(3),L525-L534 (2007).   \n49.Zeisberg,E.M.etal.Endotelial-to-mesenchymaltransitioncontributes tocardiacfbrosis.NatMed3(8),95-961(200).   \n50.Choi,S.S.&Diehl,A.M.Epithelial-to-mesenchymaltransitionintheliver.Hepatology50(6),2007-2013(2009).   \n51.Jou,J.&l,.itelialsealtraiiodaocrciogesis.lnst(4),4().   \n52.Ikegami,T,Zang,Y.&Matsuzaki,Liverfross:posiblvovementof.CellssueOrgns5(-3),(0).   \n53.PopovY.&huppan,DEpitelial-tmesenchalransitioninliverfbrosis:deadlive?Gstroeterology9(3),25 (2010).   \n54.Boulter,Letal.Macrophage-derivedWntopposesNotchsignalingtosecifyhepaticprogeitorcellfateincronicliverdisease. Nat Med 18,572-579 (2012).   \n55.Lozier,J,McCright,B.&Gridley,TNotchsignalingregulatesbileductmorphogenesisinmice.PLoSOne3,e851(008).   \n56.McCright,ieJ&GdeyAoueoelofgilldroeNotceeicodeofJloy Development129,1075-1082 (2002).   \n57.Oda,T.etalutations intheumanJaggedlgeneareresponsibleforlagillsydrome.NatGnet16235-24(1997).   \n58.Li,L.etalagillsdromeiscusedbyutatiosinumanJgedhichencodesalgandforoth.Natenet4-251 (1997).   \n59.Chiba S.Notch signaling in stem cell systems.Stem Cells 24,2437-2447(2006).   \n60.McGill,.A,o.E,WeinmasterG.&GdeC.JumbgulatespostedocytictacingandgradatiooftJ Biol Chem 284,26427-26438 (2009).   \n61.Spana,E.P.&Doe,C.Q.Numbantagonizes Notchsignalingtospecifysiblingneuroncelfates.Neuron17,1-26(1996).   \n62.McGillM.A.&McGladeC.JMammaliannumbproteinspromoteNotchlreceptorubiquitinatioanddegradationoftheNotch1 intracellular domain.J Biol Chem 278,23196-23203 (2003).   \n63.Yang,Y.etal.NumbodulatestestinalepielialcelltowardgbletcellphenotybyibiingtheNotchsignalingpatayExp Cell Res 317,1640-1648 (2011). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by National Institutes of Health grant DK075415(to M.A.Z.),byResearch Agreement among hanghai Sundise Traditional Chinese Medicine CO.,LTD.,Shanghai University of Traditional Chinese Medicine,and the Regents ofthe University of California(Agreement #201302245)(to M.A.Z.),by National Natural Science Foundationof China (grant No: 81273728)(To P.L.).All work in this study was performed at University of CaliforniaatDavis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AuthorContributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "J.C., C.L.,M.Z.,P.L.and Y.D.conceived and designed the study. J.C.and Y. D. wrote the manuscript. J.C., W.G., P.Z.,X.M., B.T. and Y.D.performed the experiment. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AdditionalInformation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: Dr. M.A.Z. has a sponsored research agreement among Shanghai Sundise Traditional Chinese Medicine CO.,LTD. (a commercial source),Shanghai Universityof Traditional Chinese Medicine,and the Regents ofthe UniversityofCalifornia,in which Shanghai Sundise Traditional Chinese Medicine CO.,LTD.provided some funding forthis research.There has been no perceived conflictof interest in the work yielding this manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Howto cite thisarticle: Chen,J.etal.Enhancementof hepatocyte differentiation from human embryonicstem cells by Chinese medicine Fuzhenghuayu. Sci. Rep.6,18841; doi: 10.1038/srepl8841 (2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed undera Creative Commons Attribution 4.0 International License.The images or other third party materialin this articleare included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is notincluded under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 12
+    }
+]

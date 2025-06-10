@@ -1,0 +1,567 @@
+[
+    {
+        "type": "text",
+        "text": "能源消费量和能源供应量与其影响因素之间协整关系的实证研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李明佳，严俊杰，陶文钰\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西安交通大学 能源与动力工程学院，热流科学与工程教育部重点实验室，陕西 西安 710049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文采用计量经济学中的协整理论，定量研究能源消费量和能源供应量与能源价格、经济发展、产业结构、人口和城镇化等因素之间的波动影响程度。首先采用 Augment Dickey-Fuler 模型检验指标变量的时间序列数据的平稳性，其次采用Lagrange乘数模型定量计算全国范围内的能源消费量及能源供应量与相关影响因素之间的协整关系。结果表明能耗指标与人口和城镇化指标均对能源供应量有显著影响；能源消费量主要受产业结构和经济指标影响，而受能源价格波动影响较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 能源供需；协整分析；ADF 模型；LM模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Cointegration Analysis among Influential Indicators, Energy Consumption and Energy supply in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Ming-Jia, Yan Jun-Jie, Tao Wen-Quan\\* (KeyLaboratoryofThermo-Fluid Scienceand EngineeringofMinistryofEducation,ScholofEnergyand PowerEnginering, Xi'an Jiaotong University, Xi'an, Shaanxi, 710o49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The paper adopted the cointegration theory to quantitatively analyse the volatility relationship among energy consumption，energy supply and their influencing variables including energy price, economic development, industrial structure etc.First, the Augment Dickey-Fuller model was used to examine the stability of times series data. Second,the Lagrange Multiplier model was employed to quantitatively calculate the cointegration relationship between energy consumption and its variables,and the quantitative relationship between energy supply and influencing factors as wel. The results indicated that energy supply is significantly affected by energy consumption, population and urbanisation. Energy consumption was mainly affected by industrial structure and economic growth. It was slightly influenced by the effort of energy price fluctuation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword Energy demand and energy supply; Cointegration analysis; ADF model; LM model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国国家能源局在2017年4月公布了《能源生产和消费革命战略(2016-2030)》，文件强调从2017-2020年，我国的能源消费总量须控制在50亿吨标准煤[1]。2016 年中国能源局颁布了《能源工作指导意见》指出，控制能源消费总量、能源强度的“双控”任务更是我国能源发展的首要任务[2]。从广义的影响程度来讲，影响能源消费量和能源供应量的因素很多，这些影响因素之间又互相波动影响。任何宏观经济的影响因素均会对能源供应量和能源消费量产生波动效应[3]。本文深入研究全国范围内的能源供应量及能源消费量与关键影响因素之间的波动协整关系，为后续优化发展提出建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以下分别选取了5个相关方面进行分析研究，即：能源消耗相关指标变量对能源供应量的影响、经济相关指标变量对能源消费量的影响、产业结构相关指标变量对能源消费量的影响、能源价格相关指标变量对能源消费量的影响和人口和城镇化相关指标变量对能源供应量的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.指标构建与数据选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于本文旨在研究非期望产出条件下的全国能源消费量和能源供给量与其影响因素相互制约的情况，本文从能源供应、能源消耗、经济和产业结构4个层面选取了共12个指标，并采集了中国1990年至2015年间12个指标的面板数据。由于西藏、香港、澳门、台湾部分数据缺失，因而未纳入评价范围。各指标变量的数据主要来源于1990年至2015年度的《能源统计年鉴》、《中国人口统计年鉴》、《中国工业经济统计年鉴》、《中国统计年鉴》和国家统计局进度数据库等规范性引用文件[4]。全部数据均由直接统计来源采录，数据质量较为科学、可靠。下面对指标的选取和数据采集方法给出说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1能源供应类指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据目前所参考的全部规范性文件，对全国1990年至2015年的《能源平衡表》中“可供本区消费的能源量”进行逐一摘录。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2能源消耗类指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能源消耗由能源消耗总量、能源价格、单位GDP能耗、人均能源消费量共4个指标构成。4个指标均收集了全国从1990年至2015年的数据。其中，能源价格包括煤炭的国内能源价格、煤炭的国际能源价格以及原材料、燃料和动力价格指数。人均能源消费量的计算方法如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先通过《中国统计年鉴》得到1990年\\~2015年各年能源消费总量，再通过国家统计局网站查询得到各年年末总人口。用1990年\\~2015年每年的能源消费总量，除以各年年末总人口，得到全国从1990年\\~2015年人均能源消费量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3经济类指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经济由人均生产总值、地区GDP平减指数、资本存量、全社会固定资产投资、人口和城镇化共5个指标构成。5个指标均通过国家统计局网站查询得到全国从1990年至2015年的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4产业结构类指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产业结构子系统由第二产业占GDP比重、第三产业占GDP比重共2个指标构成。2个指标均收集了全国从1990年至2015年的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．模型介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文实证模型的具体计算方法如下：首先采用AugmentDickey-Fuller(ADF)检验模型。该模型被用于检验所有指标变量数据的平稳性，以此判断数据是否能够被应用于下一步的计算中。第二，采用拉格朗日乘数模型(Lagrange Multiplier)并取滞后阶数为1，即对能源消费量、能源供应量及其影响因素进行协整分析计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1平稳性检验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在经济学上，时间序列数据的平稳性是必要的条件。即要求经由时间序列样本数据拟合得到的曲线在未来的一段期间内保持现有的“惯性”波动[5]。如果数据为非平稳，说明曲线不具有延续的特点，即将要获得的由未来时间序列数据所拟合出来的新曲线的波动特点不同于目前的样本拟合曲线的特点。这样的数据将不能用于进一步的研究，需经过高阶差分处理才可进一步再次判断。影响能源消费量和能源供应量的因素会随时间变化而波动，因此平稳性检验是协整分析及后续评估模型计算的基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ADF检验模型公式由公式(1)拓展至公式(3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型1 $\\Delta X _ { _ { t } } = \\rho X _ { _ { t - 1 } } + \\sum _ { i = 1 } ^ { k } \\gamma _ { _ { i } } \\Delta X _ { _ { t - i } } + \\varepsilon _ { t }$ 在模型1中加入常数项，则为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型2 $\\Delta x _ { { _ t } } = \\mu { + } \\rho X _ { { _ t - 1 } } + \\sum _ { i = 1 } ^ { k } \\gamma _ { i } \\Delta X _ { { _ t - i } } + \\varepsilon _ { t }$ 在模型2中加入趋势变量，则为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型3 $\\Delta X _ { t } = \\mu + \\alpha t + \\rho X _ { t - 1 } + \\sum _ { i = 1 } ^ { k } \\gamma _ { i } \\Delta X _ { t - i } + \\varepsilon _ { t }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta X _ { t }$ 是被解释变量的差分(由一阶差分始)； $\\mu , \\ a , \\ \\rho , \\ \\gamma _ { i }$ 是公式常数项； $t$ 是年份； $k$ 是$X _ { t }$ 的滞后阶数； $\\boldsymbol { \\varepsilon } _ { t }$ 代表残差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该检验方法的原假设是： $H _ { 0 } : \\rho = 0$ ，即若$\\rho = 0$ ，变量 $X _ { t }$ 为非平稳的时间序列数据，需要对变量进行更高阶的差分处理。若 $H _ { \\mathrm { 1 } } : \\rho < 0$ ，则变量为平稳的时间序列数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\ } _ { 2 . 2 \\mathbf { L M } }$ 模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在时间序列平稳性检验之后，进行LM模型计算。计算模型如公式(4)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { t } ^ { 2 } = \\gamma _ { 0 } + \\gamma _ { 1 } x _ { t - 1 } ^ { 2 } + . . . + \\gamma _ { q } x _ { t - i } ^ { 2 } + \\mu _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mu _ { t }$ 是 $\\Delta X _ { t }$ 的方差， $\\Delta X _ { t }$ 由公式(3)计算得出; $x _ { t - i }$ 是各解释变量的时间序列； $q$ 为滞后数； $\\gamma$ 为相关系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该模型提出假设,即变量的时间序列数据在 $p$ 阶时没有时间序列数据相关的假设。在本检验中假设 $p$ 等于1，检验序列的一阶相关。若卡方计算值小于观测值拟合度，因此拒绝原假设，即各指标变量的时间序列值存在相关影响性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.模型计算结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数据搜集和处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一，对所有指标变量的数据做同属性化处理。在指标综合评价计算中，各指标均表示不同的物理涵义，故有量纲的差异及大小趋势不同。通过分析各指标变量的性质，得到6个指标变量为逆向指标：可供本区消费的能源量、能源消耗总量、能源价格、单位GDP能耗、人均能源消费量、第二产业占GDP比重。6个指标变量为正向指标：地区人均生产总值、地区GDP平减指数、资本存量、全社会固定资产投资、人口和城镇化。第三产业占GDP比重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，因指标变量的单位均不相同，需对数据无量纲化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2平稳性检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对能源消耗总量、能源价格、单位GDP能耗等共12个指标变量采用ADF 检验模型计算。各变量的矢量说明如表1所示。检验结果如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2中的平稳和非平稳结论均为在显著性水平 $5 \\%$ 上得出的结论。结果显示检验值小于 $5 \\%$ 的显著水平。因此各变量没有单位根，即为平稳时间序列数据，各变量的数据可用于进一步的模型计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 3 . 3 L M }$ 模型协整分析计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型首先做出假设，即变量的时间序列数据在 $p$ 阶时没有时间序列数据相关的假设。在本检验中假设 $p$ 等于1，检验序列的一阶相关。卡方计算值小于观测值拟合度，因此拒绝原假设，即各指标变量的时间序列值存在相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)能耗相关指标变量对能源供应量的影响分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在节3.2平稳性检验后，本文进一步建立以能源供应量的对数值为被解释变量，能源消耗总量的对数值、单位GDP能耗的对数值为解释变量的面板数据模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln S = C + \\beta { } _ { 1 } \\ln P T C + \\beta { } _ { 2 } \\ln E G D P + \\varepsilon _ { \\mathrm { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 是常数项; $s$ 为能源供应量； $P T C$ 是人均能源消费量; $E G D P$ 是单位GDP 能耗; $\\beta _ { 1 } , \\beta _ { 2 }$ 为2个变量的系数； $\\varepsilon _ { \\mathrm { t } }$ 是残差不可估计的随机干扰项。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经对解释变量做无量纲化和归一化处理，能耗相关指标变量对能源供应量的影响的面板数据分析的计算结果参见表3。由表3可知，上述变量指标均与能源供应量呈单向的强相关影响。并不是经济增长和能源供应量影响能源强度[7]。图1是1990年\\~2015年能源强度趋势图，图2是1990年\\~2014 年全国能源消耗量与经济增长趋势图。分析历史数据可以得到，我国的能源强度自2005年达到1.6峰值后，呈迅速下降并缓慢波动的趋势，但同时由于经济总量保持着较高的增长率，因此能源消费量也居高不下。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/646c1c702349352fd469d91cdc613cccb9785b5560a3bac92136c7946359e757.jpg",
+        "table_caption": [
+            "表1主要符号表Table1Nomenclature"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量名称</td><td>矢量</td></tr><tr><td>能源消耗量</td><td>△EC表示能源消耗量的一阶差分 △EC表示在△EC的非平稳结果下</td></tr><tr><td rowspan=\"4\">能源价格</td><td>采用的更高阶的差分</td></tr><tr><td>△PC为煤炭的国内能源价格的一 阶差分</td></tr><tr><td>△PC表示在△PC的非平稳结果下</td></tr><tr><td>采用的更高阶的差分</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6d84f40dc1ca640772018a9efab3f495688e79ccb5477954caf77d4f0827d9c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>耗</td><td>单位GDP 能△Xi表示单位GDP 能耗的一阶差 分</td></tr><tr><td>人均能源消费 量</td><td>△X表示在△X的非平稳结果下采 用的更高阶的差分 △PTC为人均能源消费量的一阶 差分 △PTC表示在△PTC的非平稳结</td></tr><tr><td>人均国内生产 总值 减指数</td><td>果下采用的更高阶的差分 △PGDP表示人均国内生产总值的 一阶差分 地区GDP 平△GDPDi代表地区GDP平减指数 的一阶差分 △GDPD为△GDPD的非平稳结果</td></tr><tr><td>资本存量</td><td>下采用的更高阶的差分 △CAPITAL表示资本存量的一阶差 分</td></tr><tr><td>全社会固定资 产投资 人口和城镇化</td><td>△INV为全社会固定资产投资的一 阶差分 △UR代表城镇化率的一阶差分</td></tr><tr><td>第二产业占 GDP比重 第三产业占</td><td>△WJGDP表示第二产业占GDP比 重的一阶差分 △WJGDP表示第三产业占GDP比</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a55d05bf45120d03eb424dc4512b281db409842234f364605b6a2c7390f2fe92.jpg",
+        "img_caption": [
+            "图11990-2015 年能源强度趋势图Figure11990-2015 The trend of energy intensity"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/098ace61389ac36a926779a2e922c181c0cef1dad4c72181061f13df8c16b410.jpg",
+        "img_caption": [
+            "图21990-2015年全国能源消耗量与经济增长趋势图Figure 2 The trend of energy consumption and economicgrowth"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)经济相关指标变量对能源消费量的影响分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建立以能源消耗量的对数值为因变量，人均能源消费量对数值、人均国内生产总值对数值、地区GDP平减指数对数值、资本存量对数值以及全社会固定资产投资对数值为自变量的面板数据模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\ln E C = C + \\beta _ { 1 } \\ln P T C + \\beta _ { 2 } \\ln P G D P + \\beta _ { 3 } \\ln G D P D$ $+ \\beta _ { \\mathrm { ~ } _ { 4 } } \\ln C A P I T A L + \\beta _ { \\mathrm { ~ } _ { 5 } } \\ln I N V + \\varepsilon _ { \\mathrm { t } }$ （204 (6)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $C$ 是常数项, $E C$ 为能源消耗总量， $P T C$ 表示人均能源消费量， $P G D P$ 是地区人均国内生产总值，GDPD为地区GDP平减指数，CAPITAL表示资本存量，INV代表全社会固定资产投资，$\\beta _ { 1 }$ ， $\\beta _ { 2 }$ ， $\\beta _ { 3 }$ ， $\\beta _ { 4 }$ 是4个变量的系数， $\\varepsilon _ { \\mathrm { t } }$ 是残差不可估计的随机干扰项。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经对解释变量做无量纲化和归一化处理，经济相关指标变量对能源需求量的影响的面板数据分析的计算结果参见表4。表中第二列“系数”即代表了所对应的自变量与因变量之间影响波动程度，模型要求对系数取绝对值，如其小于0.5，为弱影响；在0.5-0.8的区间内，为一般影响，大于0.8即为强影响。例如，地区人均国内生产总值(PGDP）的系数为3.435（大于0.8)，且资本存量(CAPITAL)的系数为1.620 (大于0.8)，证明经济增长显著地影响人均能源消费量。而全社会固定资产投资(INV的系数为0.473，小于0.5，证明固定资产投资对能源消费量影响甚小。在经济增长时期，由于投资项目多、建设周期长，能源供不应求，长期就会呈现供小于求的问题；在经济衰弱时期，由于大部分能源消费是由工业部门产生，且在经济增长时期的大量投资项目导致的产能过剩，工业耗能速度降低，出现供大于求的情况[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed1853f8a70f8b4741c1a237ad1d2b4f9c0f7f55ad33737e702e0a7b2de8ba99.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*\\*表示在显著性水平 $5 \\%$ 上显著。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td rowspan=\"2\">变量矢量</td><td rowspan=\"2\">t-Statistic值</td><td colspan=\"3\">临界值</td><td rowspan=\"2\">结论</td></tr><tr><td>1%*</td><td>5%**</td><td>10%***</td></tr><tr><td rowspan=\"2\">能源消费量</td><td>△EC1</td><td>-2.838</td><td>-4.4678</td><td>-3.645</td><td>-3.261</td><td>非平稳**</td></tr><tr><td>△EC2</td><td>-3.783</td><td>-4.711</td><td>-3.400</td><td>-3.009</td><td>平稳**</td></tr><tr><td>能源供应量</td><td>△S</td><td>-3.701</td><td>-4.468</td><td>-3.645</td><td>-3.261</td><td>平稳**</td></tr><tr><td rowspan=\"2\">能源价格</td><td>△PC1</td><td>-2.305</td><td>-3.533</td><td>-2.672</td><td>-3.277</td><td>非平稳**</td></tr><tr><td>△PC2</td><td>-2.708</td><td>-2.776</td><td>-1.963</td><td>-2.638</td><td>平稳**</td></tr><tr><td rowspan=\"2\">单位GDP 能耗</td><td>△X</td><td>-5.113</td><td>-5.326</td><td>-5.374</td><td>-4.991</td><td>非平稳**</td></tr><tr><td>△X2</td><td>-4.412</td><td>-4.467</td><td>-4.390</td><td>-3.261</td><td>平稳**</td></tr><tr><td rowspan=\"2\">人均能源消费量</td><td>△PTC1</td><td>-3.305</td><td>-4.532</td><td>-4.319</td><td>-4.116</td><td>非平稳**</td></tr><tr><td>△PTC2</td><td>-3.186</td><td>-3.380</td><td>-3.174</td><td>-3.457</td><td>平稳**</td></tr><tr><td>人均国内生产总值</td><td>△PGDP</td><td>-3.324</td><td>-3.186</td><td>-2.297</td><td>-3.278</td><td>平稳**</td></tr><tr><td rowspan=\"2\">地区平减指数</td><td>△GDPD1</td><td>-3.337</td><td>-4.446</td><td>-3.628</td><td>-3.254</td><td>非平稳**</td></tr><tr><td>△GDPD2</td><td>-2.708</td><td>-2.936</td><td>-2.693</td><td>-2.546</td><td>平稳**</td></tr><tr><td>资本存量 全社会固定资产投资</td><td>△CAPITAL</td><td>-2.462</td><td>-3.711</td><td>-2.403</td><td>-3.119</td><td>平稳**</td></tr><tr><td></td><td>△INV</td><td>-2.845</td><td>-3.975</td><td>-2.748</td><td>-3.191</td><td>平稳**</td></tr><tr><td>人口城镇化 第二产业占GDP 比重</td><td>△UR</td><td>-3.302 -3.288</td><td>-4.674 -3.721</td><td>-2.653</td><td>-3.002</td><td>平稳**</td></tr><tr><td></td><td>△WJGDP2</td><td></td><td></td><td>-2.983</td><td>-2.643</td><td>平稳**</td></tr><tr><td>第三产业占GDP 比重</td><td>△WJGDP3</td><td>-3.627</td><td>-2.664</td><td>-2.995</td><td>-3.609</td><td>平稳**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/14482bb2dabd9bdc69d0d66c0065b87f569b5bbd07dd1ddc6304f6ca471a571b.jpg",
+        "table_caption": [
+            "表21990-2015年12个指标变量的时间序列的平稳性检验结果Table 21990-2015 The ADF test results of all variables indicators",
+            "表4经济增长相关变量对能源消费量的影响的面板数据分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>系数</td><td>标准差</td><td>T检验</td><td>P值</td></tr><tr><td>C</td><td>54.630</td><td>12.811</td><td>4.721</td><td>0.0000</td></tr><tr><td>PTC</td><td>2.564</td><td>3.419</td><td>5.007</td><td>0.0001</td></tr><tr><td>EGDP</td><td>3.310</td><td>2.176</td><td>-3.119</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/35edd0f9327af3da5415c767078fa9741e9555ab42d66449fefe6f2ea15c2c1c.jpg",
+        "table_caption": [
+            "表3能耗相关指标变量对能源供应量的影响的面板数据分析",
+            "Table 3 The cointegration analysis between energy consumption and influential of economic growth "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>系数</td><td>标准差</td><td>T检验</td><td>P值</td></tr><tr><td>C</td><td>81.63</td><td>14.047</td><td>5.811</td><td>0.000</td></tr><tr><td>PTC</td><td>1.236</td><td>0.098</td><td>4.653</td><td>0.006</td></tr><tr><td>PGDP</td><td>3.435</td><td>0.139</td><td>-3.119</td><td>0.008</td></tr><tr><td>GDPD</td><td>-19.717</td><td>3.552</td><td>-5.551</td><td>0.0001</td></tr><tr><td>CAPITAL</td><td>1.620</td><td>0.234</td><td>6.914</td><td>0.000</td></tr><tr><td>INV</td><td>0.473</td><td>0.099</td><td>4.768</td><td>0.0003</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)产业结构相关指标变量对能源消费量的影响分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "建立以能源消耗量的对数值为因变量，第二产业占GDP比重的对数值、第三产业占GDP比重的对数值为自变量的面板数据模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\ln E C = C + \\beta _ { \\mathrm { ~ l ~ } } \\ln W J G D P _ { 2 } + \\beta _ { 2 } W J G D P _ { 3 } + \\varepsilon _ { \\mathrm { t } }$ (7)式中， $C$ 是常数项， $E C$ 是能源消耗总量， $W J G D P _ { 2 }$ 为第二产业占GDP比重， $W J G D P _ { 3 }$ 为第三产业占GDP比重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经对变量做无量纲化和归一化处理，计算结果如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5产业结构相关指标变量对能源消费量的影响的面板数据分析",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ce35579da7383abe230c0c1ece99114d9871fbe5c0ad7c420e1aa6dd2be9afd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>系数</td><td>标准差</td><td>T检验</td><td>P值</td></tr><tr><td>C</td><td>42.210</td><td>11.036</td><td>4.520</td><td>0.000</td></tr><tr><td>WJGDP2</td><td>1.223</td><td>0.215</td><td>5.814</td><td>0.000</td></tr><tr><td>WJGDP3</td><td>0.829</td><td>0.142</td><td>4.403</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二产业比重 $( W J G D P _ { 2 } )$ 的系数为1.223，第三产业比重 $( W J G D P _ { 3 } )$ ）的系数为0.829，均大于0.8，证明现阶段第二产业占GDP比重和第三产业占GDP比重对能源消耗量有强显著影响，尤其是第二产业为主。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4)能源价格相关指标变量对能源消费量的影响分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在经济学理论中，能源价格对商品需求的影响起到重要的作用。假设市场的能源价格机制能够对区域的能源需求量产生一定程度的影响，则说明价格弹性较大。因此本节采用了煤炭国内能源价格、煤炭国际能源价格以及原材料、燃料和动力价格作为指标变量，分析价格因素对能源需求量的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "建立以各省能源消耗总量的对数值为因变量，煤炭的国内能源价格的对数值、煤炭的国际能源价格的对数值以及原材料、燃料和动力价格指数的对数值为自变量的面板数据模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln E C = C + \\beta _ { 1 } \\ln P _ { c } + \\beta _ { 2 } \\ln K + \\beta _ { 3 } \\ln P _ { \\mathrm { I } } + \\varepsilon _ { \\mathrm { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $E C$ 是各省能源消耗总量， $C$ 是常数项，$P C$ 为煤炭国内能源价格， $P _ { \\mathrm { I } }$ 为煤炭国际能源价格，$K$ 是原材料价格。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经对变量做无量纲化和归一化处理，协整关系结果如表6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a000ed1d1818077b2d124762897170c3d75ddcc7b43e6b2118afe3702ac90e5.jpg",
+        "table_caption": [
+            "Table 5 The cointegration analysis between energy consumption and influential indicators of industrial structure ",
+            "表6能源价格相关指标变量对能源消费量的影响的面板",
+            "数据分析 Table 6 The cointegration analysis between energy consumption and influential indicators of energy price "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>系数</td><td>标准差</td><td>T检验</td><td>P值</td></tr><tr><td>C</td><td>-3.844</td><td>3.626</td><td>-1.060</td><td>0.308</td></tr><tr><td>PC</td><td>0.423</td><td>0.722</td><td>0.873</td><td>0.004</td></tr><tr><td>K</td><td>0.676</td><td>0.688</td><td>0.983</td><td>0.344</td></tr><tr><td>P1</td><td>0.292</td><td>0.175</td><td>4.541</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，煤炭的国内能源价格 $( P C )$ 的系数为0.423，原材料、燃料和动力价格 $( K )$ 的系数为0.676 (在0.5-0.8之间)，煤炭的国际能源价格 $( P )$ 的系数为0.292 (小于0.5)。证明煤炭的国内能源价格对各省能源需求量影响程度一般，国际能源价格对需求量影响程度较小，原材料、燃料和动力价格指数的变动对需求量影响较大。从计算结果的角度观察，该结论不完全符合市场经济下的经济学的商品需求理论。原因如下。第一，与中国目前能源市场的特点有关。能源价格受到政府的调控，并不完全受国际市场经济的影响[9][10]。第二，新能源的市场化程度没有完全成熟。由于电力系统的多数企业均属于国有企业，即使亏损也可得到政府补贴。因此企业自身没有较大的积极性选择新能源作为替代能源，导致能源需求量与国际能源价格的协整关系较弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5)人口和城镇化相关指标变量对能源供应量的影响分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人口的增长、城镇化率、从业人员比重均与能源供应量和该地区经济增长密切相关。因此本节采用了第二产业从业人员所占比重、城镇化率、第三产业从业人员所占比重、人口密度和地区总人口作为指标变量，分析人口和城镇化相关指标变量对能源供应量的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "建立以能源供应量的对数值为因变量，城镇化率、第二产业从业人员所占比重、人口密度以及地区总人口对数值为自变量的面板数据模型。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln S = C + \\beta _ { _ 1 } \\ln U R + \\beta _ { _ 2 } \\ln W J _ { _ 2 } + \\beta _ { _ 3 } \\ln W J _ { _ 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\beta _ { 4 } \\ln R O U + \\beta _ { 5 } \\ln P _ { \\mathrm { t o t a l } } + \\varepsilon _ { \\mathrm { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $s$ 是能源供应量， $U R$ 为城镇化率， $W J _ { 2 }$ 是第二产业从业人员所占比重， $W J _ { 3 }$ 为第三产业从业人员所占比重，ROU为人口密度， $P _ { \\mathrm { { t o t a l } } }$ 是地区总人口。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经对变量做无量纲化和归一化处理，协整关系结果如表7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec0f28d9d7dbe11b8fc304b65a7ea266b2039a26fa4bd6341a767d67fb860fdb.jpg",
+        "table_caption": [
+            "表7人口和城镇化关指标变量对能源供应量的影响的面 板数据分析 Table 7 The cointegration analysis between energy supply and influential factors of urbanization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>系数</td><td>标准差</td><td>T检验</td><td>P值</td></tr><tr><td>C</td><td>-277.731</td><td>388.187</td><td>-0.715</td><td>0.483</td></tr><tr><td>UR</td><td>0.521</td><td>0.114</td><td>2.821</td><td>0.011</td></tr><tr><td>WJ2</td><td>1.165</td><td>0.293</td><td>4.336</td><td>0.003</td></tr><tr><td>WJ3</td><td>1.274</td><td>0.281</td><td>4.534</td><td>0.002</td></tr><tr><td>ROU</td><td>4.848</td><td>5.526</td><td>-0.758</td><td>0.458</td></tr><tr><td>Ptotal</td><td>4.410</td><td>5.510</td><td>0.733</td><td>0.473</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人口规模增长时期，强劲的消费需求会直接影响供应量。第二产业从业人员比重 $( W J _ { 2 } )$ 系数为1.165，第三产业从业人员比重 $( W J _ { 3 } )$ 的系数为1.274，人口密度(ROU)的系数为4.848，地区总人口的系数为4.410，均为强显著关系。证明相关因素对能源供应量有显著影响，且按照现有的产业结构，城镇化率的系数为0.521，该因素对能源供应量影响较为适中。中国目前城镇化进程处于扩张阶段，因此城镇化率的上升也进一步推动了能源供应量的增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.结论及建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文采用了计量经济学中的协整理论和计量模型，以能源供应量、能源消费量量及它们之间的影响因素的协整关系为研究对象，通过定量计算深入地分析了这5个方面的协整关系：能耗对能源供应量的影响、经济对能源消费量的影响、产业结构对能源消费量的影响、能源价格对能源消费量的影响以及人口城镇化对能源供应量的影响。获得结论如下。第一，现阶段能耗和经济均对能源消费量有协整关系且较强地影响能源消费量趋势。第二，产业结构对能源需求量存在长期均衡关系。现阶段第二产业占GDP比重和第三产业占GDP比重对能源消耗总量有强显著影响，尤其是第二产业为主。第三，能源价格与能源需求量之间的协整关系较弱。主要原因在于我国国内市场的特点和新能源的市场化程度不完全成熟。第四，现阶段人口城镇化对能源供应量有显著影响，且按照现有的产业结构，在人口密集且不断增加的地区，第二产业从业人员也显著增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于本研究工作的一些建议如下。第一，由目前的产业结构来看，煤炭仍然是占据我国一次能源消费的主导地位。因此应加大科技投入力度、发展洁净煤技术以期能够有效解决煤炭利用所带来的环境污染问题。该技术将解决3方面的问题： (1)减少污染物及温室气体排放量；(2)逐步减弱对进口石油、煤炭的依赖程度；(3)提高煤炭充分燃烧的利用效率。第二，能源消费多样化。把生活能源消耗的转变切实纳入可再生能源利用计划，并加大对商业市场的扶持。例如，政府系统的金融机构对于节能的设备投资及住宅投资(如隔热材料等)提供低利贷款，并对这些设备实行减税措施[11]。第三，鼓励新能源交通。针对已有的新能源交通行业，政府应实行相应政策及市场拓展资助计划。旨在通过积极创新和系统研发项目来鼓励协同合作，使能源部门、交通运输部门和商业市场在技术与创新政策方面更为紧密地联系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 能源生产和消费革命战略(2016-2030)[EB/OL] [2017.5]http://www.sdpc.gov.cn/zcfb/zcfbtz/201704/W0 20170425509386101355.pdf   \n[2] 世界经济展望[EB/OL][2017.5]http://www.imf.org/ external/chinese/pubs/ft/weo/2017/update/01/pdf/0117c. pdf   \n[3]Li,M.J.,He,Y.L.and Tao,W.Q.,Modeling a hybrid methodology for evaluating and forecasting regional energy efficiency in China [J]. Applied Energy, 2017,185: 1769 - 1777.   \n[4] 国家统计局，中国能源年鉴(1990-2015年)[Z].北京: 中国统计出版社.   \n[5] Bollerslev,T.，Generalized autoregressive conditional heteroskedasticity [J].Journal of Economics,1986,31: 307-327.   \n[6] Efimova，O.，Serletis,A.，Energy markets volatility modellingusingGARCH[J].EnergyEconomics, 2014,43:264-273.   \n[7]Li，M.J.， Tao，W.Q.，Review of methodologies and polices for evaluation of energy efficiency in high energy-consuming industry [J]. Applied Energy， 2017, 187: 203-215.   \n[8]Geng W, Ming Z, Lilin P, et al. China's new energy development:Status,constraintsandreforms[J]. Renewable and Sustainable Energy Reviews, 2016, 53: 885-896.   \n[9]Peersman G, Van Robays I. Cross-country diferences in the effects of oil shocks [J]. Energy Economics,2012, 34(5): 1532-1547.   \n[10] Ibor BI, Gerschenkron's structuralist hypothesis effect on corporate restructuring and economic development: implications for regulatory incentives [J],Journal of Finance and Bank Management, 2015,3(1): 90-99.   \n[11] Jeong J, Hong T, Ji C,et al. Development of a prediction model for the cost saving potentials in implementing the buildingenergyefficiency rating certification[J]. Applied Energy,2017,189: 257-270. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,301 @@
+# 一种基于区域分割的表情鲁棒三维人脸识别方法
+
+桑高丽」，郑增国²，闫超
+
+(1．嘉兴学院 数理与信息工程学院，浙江 嘉兴 314001；2.上饶师范学院 计算机网络中心，江西 上饶 334000;3.成都理想境界科技有限公司，成都 610064)
+
+摘要：为了克服表情变化致使三维人脸识别性能不佳的问题，提出基于鼻尖点区域分割的表情鲁棒三维人脸识别方法。首先，根据表情对人脸影响具有区域性的特点，提出仅依赖鼻尖点的表情不变区域（刚性区域）和表情易变（非刚性区域）划分方法；然后针对表情不变区域和表情易变区域使用不同的特征描述方式并计算匹配相似度；最后将表情不变区域和表情易变的相似度进行加权融合实现最终身份识别。提出方法分别在FRGC $\mathbf { v } 2 . 0$ 和自建WiseFace表情人脸数据库上达到 $9 8 . 5 2 \%$ 和 $9 9 . 0 1 \%$ 的rank1识别率，证明本文方法对表情变化具有较强的鲁棒性。
+
+关键词：表情变化；三维人脸识别；区域分割；刚性／非刚性区域 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.07.0665
+
+Region-based expression invariant 3d face recognition
+
+Sang Gaoli1, Zheng Zengguo², Yan Chao³, (1.Schoolof Mathematics&Information Engineering,JiaxingUniversity,Jiaxing Zhejiang31401,China;2.Computer Network Center，Shangrao Normal UniversityShangrao Jiangxi Province3340oo,China;3.Ideals Technology(Chengdu) Co,Ltd, Chengdu 610000, China)
+
+Abstract:Inorder toovercome the problems caused by expressions in3Dfacerecognition,anew methodbasedonnose tip segmentation is proposed inthis paper.First,inorder to weaken theeffctsoffacial expression,anew methodthatonly needs nose tipofdividing faces into rigidand non-rigidregions is proposed.Then,considering thediscriminationabilityof rigid and non-rigidregions,this paper employdifferent 3Dface featuresoftherigidand non-rigid3Dfaceregions.Atlast, the method fuses therigidand non-rigid facefeatures toaddress therecognitiontask.Experimentalresultson theFRGC $\mathbf { v } 2 . 0$ and self-built WiseFace databases show that the proposed method is robust to expresson variations.The rank-one face recognitions rates on the two databases are $9 8 . 5 2 \%$ and $9 9 . 0 1 \%$ ,separately.
+
+Key words: expression variations; 3d face recognition; region segment; rigid and non-rigid region
+
+日益复杂、广泛的身份认证应用环境迫切需要安全可靠的新型身份认证方式，人脸以其独特的非侵犯特性吸引了众多研究者的普遍关注。近年来，随着三维人脸采集技术及处理技术的发展，三维人脸识别已经成为当前模式识别、人工智能、机器视觉等领域的研究热点。其中，表情变化是影响三维人脸识别算法性能的主要因素之一。表情鲁棒的三维人脸识别也因此受到众多研究者的关注。目前基于表情鲁棒的三维人脸识别大致可以分为三大类：统计模型方法(statisticalmethods)[1\~4]、同等形变模型方法(isometricdeformationmodeling)[5\~8]和基于区域的方法（region-based methods）[9\~11]。统计模型方法通过构建统计模型将由表情变化引起的面部软组织形变关系通过大量标记数据集训练学习得到。因此，要求具备足够的、且具有充足表达能力的三维人脸数据是此类方法的主要特点。然而，受限于当前可用三维人脸数据库表情覆盖情况，此类方法很难达到实际满意的表情鲁棒效果。同等形变模型方法即将表情变化引起的三维人脸形变转换为等化形变问题进行建模[5-8]，将表情变化近似为等距形变，用等距形变特征近似表情变化特征。使用等同形变的方法优点是可以弱化由表情变化引起的三维形变，但是等同形变法一定程度上也弱化了人脸原有三维结构。而且，表情影响具有局部性，全局范围内的等同形变也不利于非形变区域的特征表达。最后，基于区域的方法是当前比较流行的用于解决表情不变性的识别方法。此类方法假设人脸由表情不变和表情易变区域组成。首先依照区域定义，将人脸区域划分为表情易变和表情不变区域，然后对划分后的区域进行相似度匹配并融合得到最终的识别结果。这类方法的关键在于区域的划分策略以及不同区域使用的相似度计算方法，因此，方法性能的关键是面部区域的划分及区域匹配方法的有效性，而面部区域的准确划分又取决于面部关键点的准确定位。
+
+本文在前面工作的基础上，提出一种基于简便区域划分的自动三维人脸识别方法。首先，利用对称平面与鼻梁交点自动检测鼻尖点位置，并且也只需要鼻尖点位置，切割出整个人脸区域；然后，考虑表情对人脸鼻子区域的影响较小，提出基于鼻尖点位置的快速人脸区域分割方法，本文人脸区域分割方法只用到一个特征点一一鼻尖点，避免了以往方法中需要检测多个面部特征点的过程，同时减少了对其他特征点定位准确度的依赖。最后，对切割后的表情不变和表情易变区域分别采用不同的相似度匹配方法并进行加权融合的方式实现最终的人脸识别。
+
+# 0 三维人脸模型的自动预处理
+
+人脸识别主要针对人脸区域进行，因此，首先要获得精准的人脸区域。为了获得较为可靠的人脸区域，首先对本文方法采用的三维人脸模型的预处理方法进行介绍。如图1所示，本文三维人脸预处理工作主要包括鼻尖点自动检测、三维人脸切割以及姿态矫正和点云下采样等预处理操作。
+
+![](images/704faa3c3f71136085d61118c46b7d677fc9549786428f32d878efc16bfad030.jpg)  
+图1三维人脸模型预处理
+
+# 0.1鼻尖点检测
+
+目前自动检测三维人脸鼻尖点的算法有很多，如Chang等人[12]根据采集对象与三维扫描仪之间的位置关系，将距离扫描仪最近的点即人脸上最高的点视为鼻尖点。Chew 等人[13]则根据鼻尖结构的特性，提出基于曲率的鼻尖点自动检测。Spreeuwers[14]则根据鼻梁斜坡线与对称面共同确定鼻尖点，取得了稳定的检测结果。本文使用Spreeuwers[14]的方法，借助人脸模型的内部坐标系，确定鼻梁斜坡线与人脸对称平面交点作为鼻尖点。这种鼻尖点检测方法不依赖某一点的曲率，对鼻尖数据缺失有较强的鲁棒性。
+
+# 0.2人脸区域切割
+
+以鼻尖点为中心，计算任意点 $( x , y , z )$ 与鼻尖点$( x _ { 0 } , y _ { 0 } , z _ { 0 } )$ 的测底线距离 $d$ ，测地线距离定义为空间两点沿曲面的最短路径。若 $d \leq 1 0 0 \mathrm { { m m } }$ 则保留该点到人脸区域，如果距离 $d > 1 0 0 \ \mathrm { \ m m }$ 则丢弃该点，依次剪切出整个人脸区域。这样剪切出的人脸区域既包括尽可能多的人脸表面信息，同时又包括较少的背景信息。
+
+# 0.3姿态矫正
+
+为了确保所有人脸数据在相同坐标系下方便进行比对，需要对所有三维人脸进行统一姿态矫正（坐标归一化）。
+
+姿态矫正需要有一个预先定义的标准一一称之为参考模型（referencemodel)。每个待处理三维人脸模型都需与参考模型进行对齐，因此要求参考模型是可靠的、最能概括人脸基本形状的一个通用模型。为了保证与测试人脸模型具有大体相同的轮廓，参考模型一般应由高精度中性表情的三维人脸模型计算得到。本文选用目前覆盖对象较多的FRGCv2.0的中性表情人脸模型构建，首先将所有中性人脸模型对齐，然后对这些模型求和再平均。
+
+姿态矫正具体过程：首先将待矫正人脸模型与参考模型按照鼻尖点位置粗对齐；然后再利用最近点迭代法（iterativeclosestpoint，ICP）将待矫正人脸模型与参考模型进行精细对齐，即得到姿态矫正之后的所有三维人脸模型。
+
+# 0.4数据填补及下采样
+
+由于姿态、遮挡、三维扫描仪计算错误等原因，矫正到标准正面的三维人脸可能存在部分数据缺失。本文采用对称填补的方法对缺失人脸数据进行填补，即假设人脸是对称的，缺失的部分数据使用相应的对称进行填补。
+
+另外，为了保证算法的运行效率，还对采集高密度三维人脸区域进行均匀下采样操作。
+
+# 1表情鲁棒的三维人脸识别方法
+
+本文主要考虑基于区域的三维人脸识别方法。考虑以往基于区域类方法多依赖于面部关键特征点的定位，如文献[9]方法需要检测出85个面部特征点，文献[15]方法需要检测6个面部特征点，然而，基于三维人脸结构的面部特征点定义本身以及特征点的准确性检测仍然是一个尚待解决的问题。本文提出一种简便且又相对可靠的人脸区域划分方法。简便是因为只需要检测一个特征点一一鼻尖点；可靠是因为鼻尖点是人脸最突出，特征最明显，从而检测成功率较高的特征点。首先按照受表情变化影响程度，将三维人脸形状划分为表情不变区域/刚性区域和表情易变/非刚性区域；然后分别针对表情不变区域/刚性区域和表情易变区域/非刚性区域设计不同的特征描述方式并计算测试模型与注册库中各三维人脸模型特征之间的相似程度；最后将表情不变区域/刚性区域和表情易变区域/非刚性区域的相似度进行加权融合实现最终身份识别。算法总体框架如图2所示。
+
+![](images/8af03b3ce7cd6dac775da8e752be6ef291d47de264cc4e0b2228734a9b794d3e.jpg)  
+Fig.1Preprocessing for 3D face model   
+图2提出方法总体框架图  
+Fig.2Overflow of the proposed method
+
+# 1.1刚性/非刚性区域划分
+
+三维人脸刚性/非刚性区域的准确划分在基于区域的三维人脸识别方法中至关重要[12:16]。对于基于区域的表情鲁棒类人脸识别方法，刚性/非刚性区域会采用不同的相似度度量方法，针对刚性区域通常会突出其三维结构的特征提取策略，而针对非刚性区域则一般侧重于减弱形变对其结构影响的特征提取策略。一旦将非刚性区域误分为刚性区域，则非刚性区域的三维形变对于刚性区域三维结构将带来由于三维形变而导致的巨大相似度误差。而若将刚性区域误分到非刚性区域则会削弱其刚性区域原有的三维结构，导致刚性区域区分度下降。但是总的来说，非刚性区域对于刚性区域属于噪声，对类内、类间相似度影响较大，而刚性区域对于非刚性区域的影响则是降低原刚性区域的区分度，对类内类间相似度影响相对较小。因此，本文提出基于鼻尖点粗略划分刚性／非刚性区域方法的原则是划分刚性／非刚性区域的同时还要避免把非刚性区域划分到刚性区域。
+
+相较其他特征点，鼻尖点特征明显，而且对鼻尖点的检测也相对更加稳定、可靠。通过前面的分析可知，区域划分不宜太过依赖其他面部特征点定位；同时也不宜过大，以免包含到易受表情变化影响区域的非刚性区域“噪声”。本文采用测地线距离进行刚性区域/非刚性区域切割。为了获得确定最佳刚性区域切割半径，本文提出如下策略：选取待识别数据库每个对象 $n$ 个表示不同表情变化的三维人脸模型。以鼻尖点为圆心，以测地线距离为半径，分别剪切出不同切割半径下的人脸区域。然后以每个对象为单位，统计切割人脸区域内，中性表情人脸模型与含有表情人脸模型对应点之间的平均误差 (欧氏距离)。
+
+图3展示了切割半径分别为 $2 0 ~ \mathrm { m m }$ ， $2 5 ~ \mathrm { m m }$ ， $3 0 ~ \mathrm { m m }$ $3 5 ~ \mathrm { m m }$ ， $4 0 ~ \mathrm { m m }$ ， $4 5 \mathrm { m m }$ ， $5 0 ~ \mathrm { m m }$ ， $5 5 ~ \mathrm { m m }$ ，随机选取自建WiseFace三维人脸数据库（数据库介绍详见实验部分）1000个对象在不同切割半径下得到的所有三维人脸模型（包括中性表情和其他两种表情）鼻子区域对应点之间的平均误差情况。不难看出，当切割半径小于等于 $4 0 \mathrm { m m }$ 时，对应点之间平均误差增量很小( $_ { < 0 . 0 5 ) }$ ，而当切割半径大于 $4 0 \mathrm { m m }$ 时，对应点之间平均误差增长迅速（ $> 0 . 2 )$ 。说明当切割半径小于 $4 0 \mathrm { m m }$ 时，切割区域受表情变化影响较小；而当切割半径大于 $4 0 \mathrm { m m }$ 时，切割区域受表情变化影响较大。同理，可以采用同样的方法获得其他三维人脸数据库上的刚性/非刚性区域划分半径。
+
+![](images/f17b0ea53eeb7729b562107a3af130defd33dbe8c30edf15bb96c94b097457c2.jpg)  
+图3不同切割半径人脸区域间的平均误差'ig.3Average errors with different cropped radius
+
+# 1.2非刚性区域相似度计算
+
+非刚性区域即易受表情变化影响的人脸区域。针对非刚性区域相似度计算，本文引入对三维形变比较鲁棒的3Dweightedwalkthroughs(3DWWs)l6算子，然后再基于3DWW算子计算区域之间的相似度。
+
+# 1.2.13DWWs算子
+
+3DWW由2DWW扩展而来，用于表示三维点对之间的位置关系，对三维人脸形变具有很好的鲁棒性。在开始基于3DWWs算子的非刚性人脸区域相似度匹配之前，首先介绍3DWWs的基本概念。
+
+设 $a = ( x _ { _ { a } } , y _ { _ { a } } , z _ { _ a } )$ 与 $\boldsymbol { b } = ( x _ { b } , y _ { b } , z _ { b } )$ 表示三维空间内的任意两点。则定义 $^ { a , b }$ 两点之间的3DWWs为$w ( i , j , k )$ ,其中 $i , j , k$ 分别对应 $^ { a , b }$ 投影到 $x$ 轴、 $y$ 轴、Z轴上的位置关系：
+
+$$
+i = \left\{ \begin{array} { c l } { { - 1 } } & { { x _ { b } < x _ { a } } } \\ { { 0 } } &  { x _ { b } = x _ { a } \ , j = \left\{ \begin{array} { c l } { { - 1 } } & { { y _ { b } < y _ { a } } } \\ { { 0 } } & { { y _ { b } = y _ { a } \ , z = \left\{ \begin{array} { c l } { { - 1 } } & { { z _ { b } < z _ { a } } } \\ { { 0 } } & { { z _ { b } = z _ { a } } } \\ { { 1 } } & { { y _ { b } > y _ { a } } } \end{array} \right.  } } } \\ { \right.{ 1 } } & { { x _ { b } > x _ { a } } } \end{array} \right. \end{array}
+$$
+
+扩展到区域，任给两连续的区域A和 $\mathbf { B }$ ，其3DWWs可由以下积分的形式计算：
+
+$$
+w _ { i j k } ( A , B ) = \frac { 1 } { K _ { i j k } } \int \int C _ { i } ( x _ { b } - x _ { a } ) C _ { j } ( y _ { b } - y _ { a } ) C _ { k } ( z _ { b } - z _ { a } ) d \vec { b } d \vec { a } ,
+$$
+
+其中 $\stackrel { \triangledown } { d \vec { b } } = d x _ { b } y _ { b } z _ { b } , \stackrel { \triangledown } { d a } = d x _ { a } y _ { a } z _ { a } , K _ { i j k }$ 为归一化因子，使得
+
+$w _ { i j k }$ 取值范围为[0 1]； $C _ { i } , C _ { j } , C _ { k } ( i , j , k \in [ - 1 , 1 ] )$ 用于降低积分计算维数， $\therefore \frac { \ d H } { \ d t } = 1 . 5 \div = - 1 .$ （2
+
+对于不同的 $^ { 1 , B }$ 区域位置关系，归一化因子 $K _ { _ { i j k } }$ 定义如下：
+
+$$
+\begin{array} { r l } { K _ { i , j , k } = \left| A \right| \left| B \right| } & { { } i = \pm 1 , j = \pm 1 , k = \pm 1 } \end{array}
+$$
+
+$$
+K _ { _ { i , j , k } } = L _ { _ A } L _ { _ B } H _ { _ A } H _ { _ B } D _ { _ { A B } } i = \pm 1 , j = 0 , k = \pm 1
+$$
+
+$$
+K _ { _ { i , j , k } } = L _ { _ { A } } L _ { _ { B } } H _ { _ { A B } } D _ { _ A } D _ { _ B } \rlap / \mathrm { | \vec { x } \cdot \vec { x } _ { - } } 0 , j = \pm 1 , k = \pm 1
+$$
+
+$$
+K _ { i , j , k } = L _ { A B } H _ { A } H _ { B } D _ { A } D _ { B } \rlap / \operatorname { p } _ { \mathrm { { h } = 0 } } \rlap / \operatorname { p } _ { \mathrm { { h } = \pm 1 , } k } = \pm 1 , k = \pm 1 ^ { \circ }
+$$
+
+$$
+\begin{array} { r l } & { K _ { i , j , k } = L _ { A } L _ { B } H _ { A b } D _ { A B } \underset { | | \mathbf { \bar { A } } \times \mathbf { \bar { s } } | } { \underbrace { | \mathbf { \bar { s } } \mathbf { \bar { s } } \mathbf { \bar { s } } } } \pm 1 , j = 0 , k = 0 . } \\ & { K _ { i , j , k } = L _ { A B } H _ { A } H _ { B } D _ { A B } \underset { | | \mathbf { \bar { s } } \times \mathbf { \bar { s } } | } { \underbrace { | \mathbf { \bar { s } } \mathbf { \bar { s } } \mathbf { \bar { s } } } } 0 , j = \pm 1 , k = 0 . \overset { \cdot } { \mathrm { ! } } } \\ & { K _ { i , j , k } = L _ { A B } H _ { A B } D _ { A } D _ { B } \underset { | | \mathbf { \bar { s } } \times \mathbf { \bar { s } } | } { \underbrace { | \mathbf { \bar { s } } \mathbf { \bar { s } } } } 0 , j = 0 , k = \pm 1 } \end{array}
+$$
+
+$$
+K _ { i , j , k } = \big ( \lvert A \rvert \lvert B \rvert \big ) ^ { \frac { 1 } { \lvert \tilde { \Omega } \rvert } = [ L \llap / \lvert \tilde { \Omega } \rvert ] }
+$$
+
+其中： $\vert A \vert$ 和 $\left| B \right|$ 为区域 $^ { , A , B }$ 的体积，$L _ { _ A } , L _ { _ B } , L _ { _ { A B } } , H _ { _ A } , H _ { _ B } , H _ { _ { A B } } , D _ { _ A } , D _ { _ B } , D _ { _ { A B } }$ 定义如图4所示。根据 $i , j , k$ 的不同取值，可知 $w ( i , j , k )$ 的大小为 $3 \times 3 \times 3$
+
+![](images/743dbf23faa201330726d008831d6092c65a115172f859139e31dc537224824c.jpg)  
+图4归一化因子中各变量显式定义，图片来源方法[ Fig.4Variables explicit definition of the normalization factor,picture comes from method{ [6]
+
+然后，统计 $^ { , A , B }$ 区域内点对个数 $( a , b )$ 中， $b$ 位于 $a$ 右侧 $\left( w _ { _ x } \right)$ 、上侧 $\left( w _ { y } \right)$ ，前侧 $\left( w _ { _ z } \right)$ 以及点对中沿 $X Y ( w _ { _ { X Y } } )$ ，$X Z ( w _ { _ { X Z } } ) , Y Z ( w _ { _ { Y Z } } )$ 对角面分布所占百分比。
+
+$$
+\begin{array} { r l } & { w _ { X } = w _ { 1 , 1 , 1 } + w _ { 1 , - 1 , 1 } , w _ { 1 , 1 , - 1 } + w _ { 1 , - 1 , - 1 } } \\ & { } \\ & { w _ { Y } = w _ { - 1 , 1 , 1 } + w _ { 1 , 1 , 1 } , w _ { - 1 , 1 , - 1 } + w _ { 1 , 1 , - 1 } } \\ & { } \\ & { w _ { Z } = w _ { 1 , 1 , 1 } + w _ { 1 , - 1 , 1 } , w _ { - 1 , 1 , 1 } + w _ { - 1 , - 1 , 1 } } \\ & { } \\ & { w _ { X Y } = w _ { - 1 , - 1 , 1 } + w _ { 1 , 1 , 1 } , w _ { - 1 , - 1 , - 1 } + w _ { 1 , 1 , - 1 } } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { w _ { _ { X Z } } = w _ { _ { - 1 , - 1 , - 1 } } + w _ { _ { - 1 , 1 , - 1 } } , w _ { _ { 1 , 1 , 1 } } + w _ { _ { 1 , - 1 , 1 } } } \\ & { } \\ & { w _ { _ { Y Z } } = w _ { _ { - 1 , 1 , 1 } } + w _ { _ { 1 , 1 , 1 } } , w _ { _ { - 1 , - 1 , - 1 } } + w _ { _ { 1 , - 1 , - 1 } } } \end{array}
+$$
+
+此外， $^ { 1 , B }$ 区域内点对 $( a , b )$ 中，位于 $x$ 轴 $( w _ { { X _ { 0 } } } )$ 产
+
+$y$ 轴 $( w _ { _ { Y _ { 0 } } } ) _ { _ { } } { } z$ 轴 $( w _ { { Z _ { 0 } } } )$ ，以及点对中平行$X Y ( w _ { _ { X Y _ { 0 } } } ) , X Z ( w _ { _ { X Z _ { 0 } } } ) , Y Z ( w _ { _ { Y Z _ { 0 } } } )$ 平面所占百分比。
+
+$$
+\begin{array} { r l } & { w _ { X _ { 0 } } = w _ { 0 , 1 , 1 } + w _ { 0 , - 1 , 1 } + w _ { 0 , 1 , - 1 } + w _ { 0 , - 1 , - 1 } } \\ & { } \\ & { w _ { Y _ { 0 } } = w _ { 1 , 0 , 1 } + w _ { - 1 , 0 , 1 } + w _ { - 1 , 0 , - 1 } + w _ { 1 , 0 , - 1 } } \\ & { } \\ & { w _ { Z _ { 0 } } = w _ { 1 , 1 , 0 } + w _ { 1 , - 1 , 0 } + w _ { - 1 , 1 , 0 } + w _ { - 1 , - 1 , 0 } } \\ & { } \\ & { w _ { Z _ { 0 } } = w _ { 1 , 1 , 0 } + w _ { 1 , - 1 , 0 } + w _ { - 1 , 1 , 0 } + w _ { - 1 , - 1 , 0 } } \end{array}
+$$
+
+$$
+w _ { X Y _ { 0 } } = w _ { 0 , 1 , 0 } + w _ { 0 , - 1 , 0 }
+$$
+
+$$
+w _ { { X Z } _ { 0 } } = w _ { 0 , 0 , 1 } + w _ { 0 , 0 , - 1 }
+$$
+
+$$
+w _ { Y Z _ { 0 } } = w _ { 1 , 0 , 0 } + w _ { - 1 , 0 , 0 }
+$$
+
+# 1.2.23DWWs相似度计算
+
+测地线定义为是计算空间内两点沿曲面的最短距离，作为三维曲面结构的一种特征表达，测地线距离对三维人脸表情变化具有很强的容忍度，即对于三维人脸模型，存在表情变化区域到鼻尖点的测地线距离受表情变化影响不大。同时，3DWW方法也验证了3DWWs算子对三维形变具有较强的鲁棒性，因此，本文使用基于测底线条带（iso-geodesic stripes）的3DWWs算子相似度匹配策略。首先，按照测底线距离，将非刚性人脸区域划分为不同的条带；然后再提取其3DWWs算子，即根据三维人脸上各点距鼻尖点测地线的距离，按照1cm间隔将非刚性人脸区域划分为多个不同的条带，然后分别计算测试人脸模型以及注册库中各注册人脸模型在对应条带的3DWWs算子，并计算所提取条带以及条带之间3DWWs算子的相似度。
+
+第1条带 第4条带00 ◎@A B L Front Back
+
+models
+
+以WiseFace数据库为例，图5分别展示了来自不同对象三维人脸模型根据测底线距离划分得到的第1和第4条带示例。其中模型B、C为同一对象的中性表情和大笑表情，用绿色和红色条带表示；模型A为另一对象的中性表情，用蓝色条带表示。从图5左侧可以看出，即来自同一对象的同一条带所覆盖的人脸区域基本相同，而不同对象的同一条带所覆盖的人脸区域则差别很大；为了进一步观察条带分布情况，本文将模型A、B、C的第1、第4条带叠加显示（从图5右所示)，不难看出第1条带，来自同一对象的红色、绿色条带已完全重叠，而对于受表情影响较大的第4条带，来自同一对象的红、绿色条带吻合度也较高，说明用测底线距离划分人脸对表情变化具有一定的鲁棒性。
+
+在划分条带的基础上，在每个条带内分别提取3DWWs算子，定义条带之间3DWWs算子的相似度 $S$ 计算方法为
+
+$$
+S ( w , w ^ { * } ) = \lambda _ { _ { X } } \Big | w _ { _ { X } } - w _ { _ { X } } ^ { ^ { * } } \Big | + \lambda _ { _ { Y } } \Big | w _ { _ { Y } } - w _ { _ { Y } } ^ { ^ { * } } \Big | + \lambda _ { _ { Z } } \Big | w _ { _ { Z } } - w _ { _ { Z } } ^ { ^ { * } } \Big |
+$$
+
+$$
++ \lambda _ { _ { X Y } } \left| w _ { _ { X Y } } - \dot { w _ { _ { X Y } } } \right| + \lambda _ { _ { X Z } } \left| w _ { _ { X Z } } - \dot { w _ { _ { X Z } } } \right| + \lambda _ { _ { Y Z } } \left| w _ { _ { Y Z } } - \dot { w _ { _ { y Z } } } \right|
+$$
+
+$$
++ \lambda _ { X _ { 0 } } \left| w _ { X _ { 0 } } - w _ { X _ { 0 } } ^ { ' } \right| + \lambda _ { Y _ { 0 } } \left| w _ { Y _ { 0 } } - w _ { Y _ { 0 } } ^ { ' } \right| + \lambda _ { Z _ { 0 } } \left| w _ { Z _ { 0 } } - w _ { Z _ { 0 } } ^ { ' } \right|
+$$
+
+$\lambda _ { x } , \lambda _ { y } , \lambda _ { z } , \lambda _ { x y } , \lambda _ { x z } , \lambda _ { y z } , \lambda _ { x _ { 0 } } , \lambda _ { x _ { 0 } } , \lambda _ { y _ { 0 } } , \lambda _ { z _ { 0 } } , \lambda _ { x Y _ { 0 } } , \ \lambda _ { x z _ { 0 } } , \lambda _ { y Z _ { 0 } } , \lambda _ { y Z _ { 0 } } , \lambda _ { y Z _ { 0 } }$ 均为常量，且
+
+$$
+\lambda _ { _ Z } = \lambda _ { _ { Y Z } } = 1 / 6 , \lambda _ { _ X } = \lambda _ { _ Y } = \lambda _ { _ { X Y } } = \lambda _ { _ { X Z } } = 1 / 1 2 , \lambda _ { _ { X _ { 0 } } } = \lambda _ { _ { Y _ { 0 } } } = \lambda _ { _ { Z _ { 0 } } } =
+$$
+
+$$
+\begin{array} { r } { \lambda _ { Y _ { 0 } } = \lambda _ { Z _ { 0 } } = \lambda _ { X Y _ { 0 } } = \lambda _ { X Z _ { 0 } } = \lambda _ { Y Z _ { 0 } } = 1 / 1 8 . } \end{array}
+$$
+
+则任意两个人脸模型 $p , g$ 基于条带3DWWs算子的相似度由两部分组成：条带内模型的3DWWs算子的相似度；条带之间模型的3DWWs算子之间的相似度，可表示为
+
+$$
+\begin{array} { c } { { S ( p , g ) = \displaystyle \frac { \alpha } { N _ { p } } . \sum _ { k = 1 } ^ { N _ { p } } S \left( w \Big ( p _ { k } , p _ { k } \Big ) , w \Big ( g _ { k } , g _ { k } \Big ) \right) } } \\ { { + \displaystyle \frac { 2 ( 1 - \alpha ) } { N _ { p } ( N _ { p } - 1 ) } . \sum _ { h = 1 } ^ { k - 1 } S \left( w \Big ( p _ { k } , p _ { h } \Big ) , w \Big ( g _ { k } , g _ { h } \Big ) \right) } } \end{array}
+$$
+
+其中 $\alpha$ 为常量 $\alpha { = } 0 . 1 , N _ { p }$ 表示条带的个数。
+
+综上，任给两个三维人脸模型，其非刚性区域相似度计算过程为：
+
+a)按照区域划分策略得到三维人脸模型的刚性区域和非刚性区域；
+
+b)将非刚性区域按照到鼻尖点的测地线距离划分成不同的条带并提取各条带内的3DWWs算子；
+
+c）按照式(25)计算两三维人脸模型非刚性区域之间的相似度。
+
+# 1.3刚性区域相似度计算
+
+刚性区域即受表情变化影响较小的区域，也是最稳定、最能代表对象身份信息的区域。由于常用的几何特征如曲线、曲率、法向、曲面面积、曲面体积等都不同程度地损失了三维点云的空间位置信息或依赖特征点定位精度。因此，本文采用基于三维点云的最小欧式距离作为刚性区域的相似度。相比其他几何特征，直接使用三维点云的好处是保留了三维人脸模型的最准确、最丰富的信息。
+
+具体做法：直接在三维点云上寻找给定测试人脸模型与注册库中各注册人脸模型之间的最优刚体变化，借助非刚性对齐方法（nonrigidregistration）方法[l7]实现所有三维人脸模型之间的稠密对齐，稠密对齐之后的三维人脸区域具有相同的点数、相同的拓扑结构，且各点之间存在语义上的一一对应关系，然后求取待识别人脸模型与注册库中各人脸模型对应点对之间的欧式距离作为刚性区域相似度值（公式表示如下)，与测试模型距离最小的模型即与测试模型最相似。
+
+$$
+S = \sum _ { j = 1 } ^ { n } \sqrt { ( p ( x _ { j } , y _ { j } , z _ { j } ) - ( R g ( x _ { j } , y _ { j } , z _ { j } ) + T ) ) ^ { 2 } } ,
+$$
+
+其中： $p ( x _ { j } , y _ { j } , z _ { j } )$ 为待测试人脸区域中某点， $g ( x _ { j } , y _ { j } , z _ { j } )$ 为注册库中人脸区域中其语义对应点， $R , T$ 分别为非刚性对齐方法求得旋转和平移矩阵。
+
+# 1.4刚性／非刚性区域相似度融合
+
+根据上述刚性、非刚性区域相似度值，本文采用加权融合的方式得到人脸模型的最终相似度S。相似度最大值所对应的对象做为测试样本的最终识别结果。
+
+$$
+S = w _ { 1 } \times S _ { 1 } + w _ { 2 } \times S _ { 2 }
+$$
+
+其中: $w _ { 1 }$ 与 $w _ { 2 }$ 为常数，分别表示刚性区域、非刚性区域的权值系数。
+
+# 2 实验结果与分析
+
+# 2.1实验设置及参数
+
+为了验证本文方法的有效性，拟在两个不同的三维人脸数据库上对提出方法进行评估。
+
+WiseFace三维人脸数据库：包含三种表情（中性、微笑、大笑)，年龄跨度为18\~60岁之间的共1002人的高质量三维人脸模型。采集模型由川大智胜公司开发的WiseFaceWS-FC320高精度三维人脸扫描仪获取，数据采集精度大约为 $0 . 0 5 { \sim } 0 . 1 \mathrm { m m }$ 。
+
+FRGC $\mathrm { v } 2 . 0$ 三维人脸数据库[18]：包含7种表情（中性、愤怒、厌恶、恐惧、快乐、悲伤、惊喜）、姿态、年龄共466人的4007个三维人脸模型。采集模型由MinoltaVivid900/910三维扫描仪获取，数据采集精度大约为 $0 . 1 \mathrm { m m }$ 。
+
+实验中所有用到三维人脸模型首先按照第一部分介绍的预处理过程鼻尖点检测、切割人脸区域、姿态矫正以及下采样，下采样密度为 $1 \mathrm { m m }$ 。
+
+# 2.2WiseFace数据库实验结果
+
+在WiseFace三维人脸数据库上，选取每人一个共1002个人的中性表情三维人脸作为注册样本集，每人两个具有表情变化的人脸模型（分别为微笑、大笑表情）作为测试样本集。
+
+Tab.1 Rank-one recognition rate according to different coeficients on   
+
+<html><body><table><tr><td colspan="2">the wiseface database</td></tr><tr><td>权值系数</td><td>Rank1识别率</td></tr><tr><td>W1</td><td>W2</td></tr><tr><td>0.1</td><td>0.9 97.31%</td></tr><tr><td>0.2</td><td>0.8 99.01%</td></tr><tr><td>0.3</td><td>0.7 96.47%</td></tr><tr><td>0.4</td><td>0.6 96.47%</td></tr><tr><td>0.5</td><td>0.5 94.51%</td></tr><tr><td>0.6</td><td>0.4 88.67%</td></tr><tr><td>0.7</td><td>0.3 86.67%</td></tr><tr><td>0.8</td><td>0.2 82.67%</td></tr><tr><td>0.9 0.1</td><td>82.67%</td></tr></table></body></html>
+
+表1展示了当刚性/非刚性区域取不同大小的权值时，提出方法在WiseFace三维人脸数据库上达到的识别率。由表1可以得出，当刚性区域权值 $w _ { 1 } = 0 . 2$ ，非刚性区域权值 $w _ { 2 } = 0 . 8$ 时，融合后的识别率达到 $9 9 . 0 1 \%$ 。因此，针对具有表情变化三维人脸模型进行识别时，本文设置： $w _ { _ 1 } = 0 . 2 , w _ { _ 2 } = 0 . 8$ ，即有表情变化下，非刚性区域对应权值应大刚性区域对应权值。
+
+为了验证本文提出基于刚性、非刚性区域划分方法对表情变化的有效性，本文特选择非区域分割的表情鲁棒人脸识别方法（3DWW）[6作为基准方法。3DWW方法在整个三维人脸区域内提取3DWWs算子并计算算子之间的相似度，由于3DWWs算子对表情变化具有较强容忍度的，因此3DWW方法对表情变化表现良好的鲁棒性。
+
+图6展示了提出方法与基准方法在含有表情变化数据集上的CMC曲线。从中不难看出，提出方法明显优于基准方法 3DWW[6]。提出方法的rank1识别率为 $9 9 . 0 1 \%$ ，而对比方法3DWW的rank1识别率仅为 $80 \%$ 。实验结果也进一步表明，本文提出的基于鼻尖点的刚性/非刚性区域划分并分别采用不同的相似度计算方法是可靠且有效的。
+
+![](images/5f14a58d221e1ac7062edf606a270dd0807828c31416581af1ebd7510737386f.jpg)  
+图6本文与基准方法在WiseFace 数据库上识别率 Fig.6Recognition curves achieved by the proposed and baseline methods on thewiseface database
+
+# 2.3FRGC $\mathsf { v } 2 . 0$ 数据库实验结果
+
+为了与其他更多基于表情不变的三维人脸识别方法在相同的数据库平台上进行比较，本文方法还在使用比较广泛、挑战也更大的FRGCv2.0三维人脸数据库对提出方法的有效性进行验证。
+
+为了便于与 CSDC[19]，Curvature-based[10]，Elastic[8],3DWW[6]，PCA[18],meshSIFT[11],Riemannian[21],Ensemble[15],EI3D[22],CPD[23]等方法进行比较。选取FRGC $\mathbf { v } 2 . 0$ 三维人脸数据库中每个对象1个中性表情三维人脸模型作为注册集，其他所有具有表情变化三维人脸模型作为测试集。
+
+表2FRGCv2.0数据库上不同方法达到rank1识别率库上分别取得的Rank1识别率。不难看出，同等条件下，不管是基于统计模型类方法[15.22]，还是基于同等形变模型类方法[6.8.21]，甚至于区域类方法[9.11,15,22,23]，提出方法取得了最高的人脸识别率，Rank1识别率达到 $9 8 . 5 2 \%$ 。比较表2和图6中的结果可以发现，提出方法在WiseFace三维人脸数据库上rank1识别结果要高于在FRGC $\mathrm { \ v } 2 . 0$ 三维人脸数据库上的rank1识别率，而WiseFace三维人脸库数据规模（1002人）明显大于FRGCv2.0三维人脸数据库（466人）。出现这个结果主要有以下两方面原因：一方面，由于WiseFace三维人脸数据库使用的三维人脸扫描仪的采集精度约是FRGC $\mathrm { v } 2 . 0$ 三维人脸数据库使用三维扫描仪采集精度的10倍，较高准确度的三维人脸数据有利于最终的识别；另一方面，WiseFace 三维人脸数据库仅包含两种不同的表情变化（微笑和大笑表情)，而FRGC $\mathbf { v } 2 . 0$ 则包含多达7种不同的表情变化，表情变化越复杂，数据库的挑战性也越大。
+
+表1WiseFace数据库上不同权值系数对应识别率  
+Tab.2 Rank-one recognition achieved by different methods on the   
+
+<html><body><table><tr><td colspan="2">FRGC2.0database</td></tr><tr><td>方法</td><td>Rank1识别率</td></tr><tr><td>提出方法</td><td>98.52 %</td></tr><tr><td>A-SRC[15]</td><td>98.48%</td></tr><tr><td>3DWW[6]</td><td>91.40%</td></tr><tr><td>CSDC[19]</td><td>98.22%</td></tr><tr><td>Elastic [8]</td><td>97.70%</td></tr><tr><td>Curvature-based [10]</td><td>97.51%</td></tr><tr><td>meshSIFT[11]</td><td>89.6%</td></tr><tr><td>Riemannian [21]</td><td>97%</td></tr><tr><td>Ensemble[15]</td><td>94.15%</td></tr><tr><td>EI3D[22]</td><td>97%</td></tr><tr><td>CPD[23]</td><td>97.91%</td></tr><tr><td>PCA [20]</td><td>73.40%</td></tr></table></body></html>
+
+表2列出了提出方法与对比方法分别在FRGC $\mathbf { v } 2 . 0$ 数据
+
+# 3 结束语
+
+为了应对表情变化引起的三维人脸识别率下降的问题，本文提出基于鼻尖点区域分割的表情鲁棒三维人脸识别方法。仅依靠鼻尖点将三维人脸形状划分为表情不变区域和表情易变区域；然后分别针对表情不变区域和表情易变区域区域采用不同的特征描述方式并分别计算测试人脸模型与注册库中各三维人脸模型之间的相似程度；最后将表情不变区域/刚性区域和表情易变区域/非刚性区域的相似度进行加权融合实现最终身份识别。在自建WiseFace以及FRGCv2.0三维人脸数据库上的实验结果表明提出仅依靠鼻尖点的区域划分策略不但快捷、可靠，而且对表情变化体现出很强的鲁棒性。
+
+# 参考文献：
+
+[1]Russ T,Boehnen C,Peters T.3D face recognition using 3D alignment forPCA[C]// Computer Vision and Pattern Recognition,New York: IEEEPress,2006,2:1391-1398.   
+[2]Al-Osaimi F,Bennamoun M,Mian A.Expression-invariant non-rigid 3D face recognition: A robust approach to expression-aware morphing [C]//Proc of the 4th International Symposium on 3D Data Processing, Vis.Transmiss.2008:19-26.   
+[3]Mpiperis I,Malassiotis S,Strintzis M G. Expression-compensated 3D face recognition with geodesically aligned bilinear models [C]// Biometrics: Theory，Applications and Systems.Arlington Virginia,: IEEE Press,2008:1-6.   
+[4]Kaushik V D,Budhwar A,Dubey A,et al.An efficient 3D face recognitionalgorithm[C]//New Technologies,Mobilityand Security. Cairo,Egypt:IEEE Press,2009:1-5.   
+[5]Bronstein A M,Bronstein M M,Kimmel R.Expression-invariant representations of faces [J].IEEE Trans on Image Processing,2O07,16 (1): 188-197.   
+[6]Jahanbin S,Choi H,Liu Yang,et al. Three dimensional face recognition using iso-geodesic and iso-depth curves [C]// Biometrics:Theory, Applications and Systems.Arlington Virginia:IEEE Press,2Oo8:1-6.   
+[7]Berreti S,Del Bimbo A,Pala P.3D face recognition using isogeodesic stripes [J]. IEEE Trans on Pattern Analysis and Machine Intelligence, 2010,32(12): 2162-2177.   
+[8]Drira H, Amor B B,Daoudi M,et al.Pose and expression-invariant 3d face recognition using elastic radial curves[C]//Proc of British Machine Vision Conference.Aberystwyth:British Machine Vision Association Press. 2010: 1-11.   
+[9]Berretti S,Del Bimbo A,Pala P,et al.A set of selected SIFT features for 3D facial expression recognition [C]//Proc of the 2Oth Pattern Recognition.Istanbul, Turkey: IEEE press,2010: 4125-4128.   
+[10] Alyuz N, Gokberk B,Akarun L. Regional registration for expression resistant 3-D face recognition [J].IEEE Trans on Information Forensics and Security, 2010, 5(3): 425-440.   
+[11] Smeets D,Keustermans J，Vandermeulen D,et al.meshSIFT:local surface features for 3D face recognition under expression variations and partial data [J]. Computer Vision and Image Understanding,2013,117 (2): 158-169.   
+[12] Chang KI,Bowyer K W,Flynn PJ.Multiple nose region matching for 3D face recognition under varying facial expression [J]. IEEE Trans on Patern Analysis and Machine Intelligence,2006,28(10):1695-1700.   
+[13] Wei Jenchew,Seng K P,Li Minnang. Nose tip detection on a three-dimensional face range image invariant to head pose [Cl// Proc of International Multiconference of Engineers and Computer Scientists. Hong Kang; IAENG press,2009,1: 18-20.   
+[14] Spreeuwers L.Fast and accurate 3d face recognition [J].International journal of computer vision,2011,93(3): 389-414.   
+[15] Ratyal N I, Taj IA,Bajwa UI,et al.3D face recognition based on pose andexpression invariant alignment [J]. Computers& Electrical Engineering,2015,46(): 241-255.   
+[16] Queirolo C C, SilvaL,Belon OR P, et al. 3D face recognition using simulated annealing and the surface interpenetration measure [J]. IEEE Transon Pattern Analysis and Machine Intelligence，2O1o,32(2): 206-219.   
+[17] Amberg B,Romdhani S, Vetter T. Optimal step nonrigid ICP algorithms for surface registration [C]// Computer Vision and Pattern Recognition, Minneapolis: IEEE Press,2007: 1-8.   
+[18] FRGC.http://www. frvt.org/FRGC.   
+[19] Wang Yueming,Pan Gang，Wu Zhaohui. 3D face recognition in the presence of expression:a guidance-based constraint deformation approach [C]// Computer Vision and Pattrn Recognition.Minneapolis: IEEE Press,2007: 1-7.   
+[20]Faltemier TC,Bowyer KW,Flynn PJ. Using multi-instance enrollment to improve performance of 3D face recognition [J]. Computer Vision and Image Understanding,2008,112(2): 114-125.   
+[21] Drira H,Amor B B,Srivastava A,et al.3D face recognition under expressions,occlusions,and pose variations [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2013,35(9): 2270-2283.   
+[22] Guo Yulan,LeiYinjie,LiuLi,etal.EID: expreion-invariantDface recognition based on feature and shape matching [J].Pattern Recognition Letters,2016, 83: 403-412.   
+[23] Deng Xing，Da Feipeng，Shao Haijian. Expression-robust 3D face recognition based on feature-level fusion and feature-region fusion [J]. Multimedia Tools and Applications,2017,76(1): 13-31.

@@ -1,0 +1,170 @@
+# 经颅磁电脑病治疗仪治疗血管性痴呆的临床研究
+
+邹伟1 唐强² 孙作东3\* 邢艳丽² 于学平1 李康4 孙五一5 王文华刘波² 张立² 戴晓红」 侯艳4
+
+1（黑龙江中医药大学附属第一医院 哈尔滨 150000）
+
+2（黑龙江中医药大学附属第二医院 哈尔滨 150000）  
+3（黑龙江省亚欧脑科学研究院 哈尔滨 150090)  
+4（哈尔滨医科大学公共卫生学院 哈尔滨 150000）  
+5（哈尔滨奥博医疗器械有限公司 哈尔滨 150090）
+
+# 摘要:
+
+[目的］评价经颅磁电脑病治疗仪（商品名：奥博阿尔茨海默治疗仪）治疗轻、中度血管性痴呆(Vascular dementia，VD)的有效性及安全性。
+
+[方法］对80 例轻、中度AD[Hachinski缺血量表评分 $\geqslant 7$ 分，痴呆程度（ $\mathrm { C D R = 1 } . 0$ ）或（ $\mathrm { C D R = } 2 . 0 \dot { 1 }$ ）「患者进行了随机、安慰对照、多中心4周临床试验,其中治疗组和对照组各40例。所有入选病例均给予正规的内科基础治疗和规范化护理，治疗组使用经颅磁电脑病治疗仪进行治疗，对照组使用模拟经颅磁电脑病治疗仪进行模拟治疗。
+
+[结果］治疗4周时，治疗组较对照组简易精神状态评价（MMSE）、临床痴呆程度量表（CDR）和日常生活能力评价（ADL）分数显著改善（组间差异P依次<0.0001、0.05、0.05）。两组均无不良反应。
+
+[结论]经颅磁电脑病治疗仪治疗轻、中度血管性痴呆具有治疗效果，对患者的精神状态、认知行为和日常生活自理能力有较好的改善作用，且该治疗仪使用安全。
+
+关键词：康复医学；经颅磁电；血管性痴呆；认知障碍；脑细胞激活论分类号：R454
+
+Clinical study on Transcranial magnetoelectric encephalopathy treatment instrument treatmenting vascular
+
+# dementia
+
+Zou Wei1Tang Qiang² Sun Zuodong3\* Xing Yanli²Yu XuepinglLi Kang4 Sun Wuyi5 Wang Wenhua5 Liu Bo²Zhang Li²Dai XiaohonglHou Yan4 1(First Affiliated Hospital,Heilongjiang University of Chinese Medicine，Harbin，150000,China) 2 (Second Affiliated Hospital,Heilongjiang University of Chinese Medicine，Harbin，150000，China) 3 (Ya’ou Brain Science Institute of Heilongjiang province， Harbin , 150090，China) 4 (School of public health,Harbin Medical University，Harbin，150000, China)
+
+# Abstract:
+
+[Objective] Evaluate on the treatment efficacy and safety for transcranial magnetoelectricencephalopathy treatmentinstrument (brand name: AOBO Alzheimer’ s Treatment Instrument） treatmenting vascular dementia.
+
+[Methods] Methods 80 patients with mild to moderate VD [Hachinski ischemia score more than 7 cent，degree of dementia $\mathrm { \ C D R = 1 } . 0$ or $\mathrm { \ C D R = 2 . 0 } \dot { }$ )]were randomized, placebo controlled， multi center clinical trial for 4 weeks， including treatment group and control group,each of 40 case. All the patients were given regular basic medical treatment and standardized nursing care, The patients of treatment group were treated with Transcranial magnetoelectric encephalopathy treatment instrument， The patients of control group were simulated treated with Transcranial magnetoelectric encephalopathy treatment instrument.
+
+[Results] After treated for 4 weeks， Compared with the control group， the treatment group’ s score of MMSE、CDR and ADL improved significantly (difference between groups is P<0.0001、0.05、0.05). There was no adverse reaction in the two groups.
+
+[Conclusions] Transcranial magnetoelectric encephalopathy treatment instrument has good therapeutic effect for treatment mild to moderate vascular dementia. It can improve the mental state, cognitive behavior and self-care ability of daily life，and it is used safety.
+
+Keywords ： Rehabilitation medicine ； Transcranial magnetoelectric ； Vasculardementia； Cognitive impairment；The theory of brain cell activation
+
+血管性痴呆（Vasculardementia，VD）是指缺血性脑卒中、出血性脑卒中造成的记忆、认知和行为的严重功能障碍，是脑中风的后遗症之一，一般指2个月后。无论是缺血还是出血，对神经元而言，引起神经元直接损伤的起因是缺血随着我国老龄化的加速和脑血管疾病发病率逐年升高，VD的发病率呈上升趋势，仅次于阿尔茨海默病（Alzheimersdisease,AD），探索VD的治疗一直是世界关注热点。
+
+哈尔滨奥博医疗器械有限公司依据“脑细胞激活论[1]”所研制的专利产品[2]（发明专利号：ZL2009I0071875、X）——经颅磁电脑病治疗仪[3]（TME），是基于经颅电脑功能康复治疗仪[45]核心技术，集成了经颅磁刺激技术（TMS）对VD 进行康复治疗的非介入式物理治疗仪，仪器在通过TES激活核心区域神经元群的同时，通过TMS刺激大脑皮层功能区，充分兼顾了递质能神经元全脑分布和颅骨高阻抗的事实。本文将应用TME 治疗轻、中度VD 患者的有效性与安全性临床研究结果总结如下。有关数据也是2014年被国家药监部门认可并作为认证注册经颅磁电脑病治疗仪的部分临床依据，医疗器械注册号：黑食药监械（准）字2014第2260036号。
+
+# 1临床资料
+
+# 1.1 一般资料
+
+入选病例来源于黑龙江中医药大学附属第一医院和黑龙江中医药大学附属第二医院，共80例，按照多中心、随机、安慰剂对照原则，随机分为治疗组和对照组。治疗组（使用经颅磁电脑病治疗仪）40例，男性18例，女性22例，年龄$4 7 \sim 7 5 ( 6 1 . 4 5 \pm 7 . 1 4 )$ 岁，简易精神状态评价(MMSE)评分为 $1 0 \sim$ 号 $2 3 \left( 1 7 . 8 0 \pm 2 . 8 8 \right)$ 分；对照组（使用经颅磁电脑病治疗仪模型）40例，男性 26例，女性14例，年龄 $4 5 \sim 7 9 ( 6 2 . 9 5 \pm 8 . 7 7 )$ 岁，MMSE评分为11～$2 2 \left( 1 7 . 3 3 \pm 3 . 1 2 \right)$ 分。治疗组和对照组性别、年龄及MMSE评分无明显差异。
+
+# 1.2 诊断标准
+
+参照 NINDS-AIREN 血管性痴呆诊断标准（Roman GC，et al．Neurology1993）和国家“九·五”攻关课题相关诊断标准，即：
+
+（1）痴呆;
+
+（2）有脑血管病的证据（CT或MRI证实：多发性脑梗塞和腔隙性脑梗塞、重要部位的单一脑梗塞、局灶性体征）；（3）上述两种损害有明显的因果关系（在明确的卒中后6个月内出现痴呆；出现认知功能减退，或波动样、阶梯样进行性认知功能损害）。
+
+# 1.3 纳入标准
+
+（1）符合血管性痴呆NINDS-AIREN诊断标准；痴呆发病在卒中6个月以内出现，发病持续3个月以上。（2）Hachinski缺血量表评分 $\geqslant 7$ 分；（3）痴呆程度为轻度（ $\mathrm { C D R = 1 . 0 }$ ）或中度（ $\mathrm { C D R = } 2 . \ 0 \ \cdot$ ）；（4）年龄在 $4 0 { \sim } 7 5$ 岁之间：男女均可，所有患者均签署知情同意书。
+
+# 1.4 排除标淮
+
+（1）Hachinski缺血量评分表（HIS）评分为 $5 { \sim } 6$ 分的混合性痴呆和 $\leqslant 4$ 分的阿尔茨海默病，Cornell抑郁量表评分大于等于8分；
+
+（2）血管性痴呆重度（ $\mathrm { C D R = 3 . 0 }$ ）和可疑血管性痴呆 $\mathrm { ( C D R { = } } 0 . 5$ ）患者；（3）脑出血或大面积皮质区梗塞后出现的痴呆；（4）伴有严重的神经功能缺损的患者，如各种失语、失认等；（5）合并有心、脑、肝、肾和造血系统等严重原发疾病、精神病患者；（6）对阿司匹林和含水杨酸的物质过敏；胃、十二指肠溃疡；出血倾向的  
+患者；（7）年龄在40岁以下或75岁以上者；（8）治疗前进行安全性指标检测严重异常者（实验室指标超过正常上线或  
+下线 $2 0 \%$ 者）；（9）不能耐受仪器治疗者，出现严重副反应者，过敏体质者；（10）一周内服用改善血管性痴呆的相关药物。
+
+# 2研究方法
+
+2. 1 试验单位
+
+研究中心：黑龙江中医药大学附属第一医院，黑龙江中医药大学附属第二医院；统计分析单位：哈尔滨医科大学公共卫生学院。
+
+# 2.2 试验方法
+
+经颅磁电脑病治疗仪和经颅磁电脑病治疗仪模型机外观、治疗方法相同，均由哈尔滨奥博医疗器械有限公司提供。
+
+由经过专门培训的医护人员操作。严格按照产品《研究者手册》载明的方法，选择治疗部位，固定治疗终端，设置治疗参数。根据入选病例的分组情况，所有入选病例均给予正规的内科基础治疗（给予口服拜阿司匹灵，每日100mg/1次）和规范化护理，治疗组使用经颅磁电脑病治疗仪进行治疗，对照组使用经颅磁电脑病治疗仪模型机进行模拟治疗。每天治疗2次，每次30min，两次治疗之间间隔10min以上。连续治疗7天为1个疗程，治疗4个疗程。
+
+# 2.3 疗效判定
+
+（1）主要指标：简易精神状态评价（MMSE）；（2）次要指标：日常生活能力测评（ADL：Barthel指数）、临床痴呆评价（CDR）。
+
+# 2.4 安全性评价
+
+治疗前（0周）、治疗结束（4周）各检查一次，方法：
+
+（1）一般体格检查;  
+（2）血常规、尿常规、肝功能、肾功能检查;  
+（3）心电图检查。
+
+# 2.5 统计学分析
+
+采用 SAS9.1.3统计分析软件，主要疗效评价同时对FAS和PPS两种数据集进行计算，安全性评价对SAS数据集进行分析。
+
+# 3 结果
+
+本试验PPS分析结果与FAS分析结果接近，故只列出FAS分析的统计结果。
+
+3.1 治疗前、治疗中、治疗后MMSE、CDR及ADL评分。
+
+见表1、表2和表3。
+
+评分结果（x±s，分）、检验统计量（t值）及P值  
+表2治疗组与对照组，治疗4周后各量表  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>MMSE</td><td>CDR</td><td>ADL</td></tr><tr><td>治疗组</td><td>40</td><td>17.80±2.88</td><td>1. 35±0.48</td><td>68.38±15.62</td></tr><tr><td>对照组</td><td>40</td><td>17. 33±3. 12</td><td>1.43±0.50</td><td>64.88±12.78</td></tr><tr><td>检验统计量</td><td></td><td>0.707</td><td>-0.682</td><td>1. 097</td></tr><tr><td>P</td><td></td><td>0.4814</td><td>0. 4974</td><td>0.2762</td></tr></table></body></html>
+
+表1治疗组与对照组，治疗前各量表  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>MMSE</td><td>CDR</td><td>ADL</td></tr><tr><td>治疗组</td><td>40</td><td>20.50±3.65</td><td>1. 11±0.49</td><td>75.63±11.56</td></tr><tr><td>对照组</td><td>40</td><td>18.53±3.46</td><td>1.35±0.56</td><td>68.75±11.42</td></tr><tr><td>检验统计量</td><td></td><td>2.482</td><td>-2.030</td><td>2.676</td></tr><tr><td>P</td><td></td><td>0.0152</td><td>0. 0457</td><td>0.0091</td></tr></table></body></html>
+
+评分结果（x±s，分)、检验统计量（t值）及P值  
+表3治疗组与对照组，治疗4周（治疗中-治疗前）后各量表差值评分结果（x±s，分)、检验统计量（t值）及P值  
+
+<html><body><table><tr><td>组别</td><td>例数</td><td>MMSE</td><td>CDR</td><td>ADL</td></tr><tr><td>治疗组</td><td>40</td><td>2.70±1.64</td><td>-0.24±0.38</td><td>7.25±8.91</td></tr><tr><td>对照组</td><td>40</td><td>1.20±1.62</td><td>-0.08±0.21</td><td>3.88±5.60</td></tr><tr><td>检验统计量</td><td></td><td>4. 120</td><td>-2.381</td><td>2.028</td></tr></table></body></html>
+
+# 3.2 认知功能（用MMSE 评分)
+
+疗效观察显示，治疗后治疗组较对照组MMSE评分有很明显提高（P<0.001)，见表3。
+
+# 3.3 痴呆程度（用CDR 评分）
+
+治疗后治疗组较对照组CDR评分有一定提高 $( \mathrm { ~ P ~ } \langle 0 . 0 5 \rangle$ ，见表3。
+
+# 3.4 日常生活自理能力（用ADL 评分)
+
+治疗后治疗组较对照组ADL评分有很明显提高（ $\mathrm { ~ P ~ } \langle \ 0 . 0 5 )$ ，见表3。
+
+# 3.5 临末安全性
+
+两组病人研究过程中未有不良反应和不良事件发生。使用经颅磁电脑病治疗仪期间，所有患者生命体征平稳，血、尿常规及血生化检查在治疗前后均无明显变化( $\mathrm { ~ P ~ } > \ 0 . \ 0 5 )$ 。
+
+# 4讨论
+
+血管性痴呆(vasculardementia，VaD或VD)是一组由脑血管疾病导致的智能及认知功能障碍综合征，是老年性痴呆的常见病因之一。脑血管性病变是VD的基础，脑实质内可见出血性或缺血性损害，缺血性多见。VD痴呆可突然发生或呈阶梯样进展，波动性病程，伴随脑血管病事件的发生，本研究入选病例仅限于缺血性脑卒中。脑卒中急性期神经元死亡是以坏死为主，急性期后所发生的继发性死亡或迟发性死亡则以凋亡为主。前者发生在缺血后较早的中心区，后者多发生在缺血后的半暗区。细胞自噬也可能作为缺血性神经元死亡方式之一。
+
+脑卒中急性期治疗以药物化学手段为主，目的是拯救生命和挽救濒临死亡的神经元[。TME针对的是脑卒中后遗症期的患者，TME刺激引起的细胞内外钙离子浓度是有节律的双向振荡[7]，目的是恢复胞内胞外钙离子浓度的稳态平衡，不会使钙离子依赖性细胞产生毒性反应，与脑卒中急性期神经元发生内外离子平衡紊乱而诱发的一系列反应最终导致神经元损伤的情况大不同[8]。所以，本文探讨不涉及脑卒中急性期缺血神经元损伤的病理生理过程及其修复机制。
+
+TME对VD的作用机理可能通过激活递质能神经元，促使进入凋亡程序的胆碱能神经元、肽能神经元等神经元发生逆转。已有证据表明乙酰胆碱（ACh）的缺失与认知功能障碍息息相关，胆碱能神经元的死亡或凋亡，丢失的不仅仅是ACh。神经肽与神经递质是共存的[9-1]。与神经递质相比，神经肽多适用于调节缓慢而持久的功能变化，多种神经肽还具有神经营养作用。TME对VD显效，可能相应地激活了递质能神经元，如胆碱能神经元、肽能神经元等，恢复了内环境的稳定。
+
+生物磁电的新进展容许对中枢神经系统（CNS）进行无伤害激活，体现出研究和治疗方面的可能性，这种方法是基于脉动电磁场的外部应用，它以指数衰减的方式透过皮肤而使CNS特定区域兴奋。人脑十分骄贵，原则上是不可以直接给予高强度电磁刺激的。高强度的脑深部电刺激或高强度经颅磁刺激，相当于电休克疗法或磁休克疗法，对脑可能造成的远期伤害是不确定的，如应用脑深部电刺激术不当的后果相当于脑毁损术。TME的经颅磁与高压低频脉冲磁场相比，作用的目的、机理、强度不同，安全性也不同，是采用多匝数磁场发生器、多点位低频低强度交变磁场，直接作用的部位是“头”而非“脑”，对脑内靶点的刺激是柔性的，靶标是脑的皮质浅表层；TME的经颅电也是非介入式的，其穿越脑的核心区域神经元群也是微电流。这样，既避免了高强度脉冲电磁场可能对人脑造成的伤害，同时可达到预期的治疗效果，还不受治疗环境的限制，安全无副作用，家庭和医院均可使用。
+
+本临床试验显示，经颅磁电脑病治疗仪（商品名：奥博阿尔茨海默治疗仪）治疗轻、中度血管性痴呆具有治疗效果，对患者的精神状态、认知行为和日常生活自理能力有较好的改善作用，且该治疗仪使用安全。
+
+# 参考文献：
+
+[1]孙作东.脑细胞激活论[M].哈尔滨：黑龙江科学技术出版社，2016．（Sun Zuodong．The theory ofbrain cell activation [M]． Harbin：Heilongjiang Science&Technology Press,2016.）  
+[2]孙作东.经颅磁电脑病治疗仪[P]中国，ZL200910071875.X,2012-08-22.(Sun Zuodong．Transcranialmagnetoelectric encephalopathy therapeutic[P] instrument:ChinaZL200910071875.X，2012-08-22.）[3]世界首台阿尔茨海默治疗仪研制成功[J].科技与出版,2014,6:143.(Successful development of thefirst therapeutic instrument for Alzheimer disease in the world ［J].Science-Technology &Publication，2014，6:143.）  
+[4]焦明德,孙作东.奥博脑复康治疗仪对脑循环和脑功能的影响[J].医疗保健器具,1998,03:251-252.(Jiao Mingde， Sun Zuodong. Effects of Aobo brain function rehabilitation instrument oncerebral circulation and brain function [J]. Medicine Healthcare Apparatus，1998,3： 251-252.)  
+[5]田宁宁.奥博脑复康治疗仪在中风偏瘫患者中的应用[J].医疗装备,2009,09:68.(Tian Ningning.Application of Aobo brain function rehabilitation instrument in post-troke hemiplegiapatients ［J]. Chinese Journal of Medical Device，2009，9:68.）  
+[6]孙作东.激活沉睡的脑[M].哈尔滨:黑龙江人民出版社,2003年.(Sun Zuodong．Activate theSleeping Brain [M]． Harbin，Heilongjiang People's Publishing House，2003.）  
+[7］ 张帅,崔隽,沈萍萍.细胞凋亡中的钙离子调控[J].细胞生物学杂志,2007,29:785-790.（Zhang S，CuiJ,Shen PP. The regulation of calcium signaling in apoptosis [J]. Chinese Journal of CellBiology，2007，29:785-790.）  
+[8］韩济生.神经科学[M].第三版．北京：北京大学医学出版社,2009:1040-1063．(Han JS．NeuroScience （The third edition）[M].Beijing:Peking university medical press，2009:1040-1063.）[9]董新文.神经肽和神经递质在神经元内的共存[J].生理科学进展,1983,14(4):328-333．(Dong XW.Coexistence of neuropeptide and proposed neurotransmitter in neurons[J]. Progress inPhysiological Sciences，1983，14(4) :328-333.)  
+[10]Hokfelt T,Ljungdahl A, Steinbusch H,et al. Immunohistochemical evidence of substanceP-Like immunoreactivity in some 5-Hydroxytryptamine-containing neurons in the rat centralnervous system[J].Neuroscience，1978，3:517-538.  
+[11]Bigon E， Boarato E， Bruni A,et al. Pharmacological effects of phosphatidylserineliposomes:The role of lysophosphatidylserine[J].Br.J.Pharmac,1979,67:611-616.
+
+# 作者贡献声明：
+
+邹伟，唐强：提出研究思路，临床试验方案主设计人；  
+孙作东：提出研究思路及临床试验方案设计参与者，经颅磁电脑病治疗仪发明人，本文“前言”及“讨论”部分主要执笔人，负责论文起草及最终版本修订；  
+孙五一，王文华：经颅磁电脑病治疗仪发明人，本文“前言”及“讨论”部分执笔人之一；  
+于学平，邢艳丽：设计临床试验方案主要参与者及临床试验方案实施牵头人；  
+刘波，张立，戴晓红：临床试验方案实施者；  
+李康：设计临床试验方案主要参与者及数理统计分析负责人；  
+侯艳：临床试验数据统计分析。

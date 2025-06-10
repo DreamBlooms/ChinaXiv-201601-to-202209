@@ -1,0 +1,116 @@
+# 组蛋白变体的染色质组装
+
+周驹俊1,2）冯晓利1）周政 1)\*\*(中国科学院生物物理研究所，生物大分子国家重点实验室，北京 100101；2中国科学院大学研究生院，北京 100049)
+
+摘要真核细胞的染色质组装是组蛋白和DNA有序地形成核小体和染色质的过程．通过调节DNA的开放或折叠状态，染色质组装不但影响遗传信息的编码和存储，也决定了遗传信息的提取和解读．作为染色质组装的重要调控因子，组蛋白变体和组蛋白伴侣在与DNA 相关的生命活动进程中发挥着至关重要的作用．本文综述了组蛋白变体H2A.Z以及CENP-A 进行染色质组装的研究进展，并着重讨论了组蛋白变体和组蛋白伴侣在染色质组装中的重要作用.
+
+关键词染色质组装，组蛋白变体，组蛋白伴侣学科分类号 Q71
+
+DOI:10.16476/j.pibb.2015.0249
+
+真核细胞的遗传物质DNA以高度折叠的染色质形式存储于细胞核内．染色质组装(chromatinassembly)通过改变染色质的结构，在几乎所有与DNA相关的生命活动进程中发挥作用．染色质组装通过改变DNA的开放和折叠状态，介导DNA与各种调控元件和分子机器进行有序的相互作用，从而确保各种生命活动进程的顺利进行．组蛋白变体(histone variant)和组蛋白伴侣(histone chaperone)是染色质组装的主要参与者，在各种生命活动中发挥着重要作用.
+
+# 1染色质组装
+
+核小体(nucleosome)是组成染色质的基本单位．核小体的结构包括一个由4种常规组蛋白H2A、H2B、H3和H4折叠形成的组蛋白八聚体核心，以及一条通过特定方式缠绕在蛋白核心上的长度约为146 碱基的双链DNA．相邻核小体之间由长度为 $2 0 \sim 5 0 \$ 碱基的DNA相间隔并通过连接组蛋白H1相联系．核小体组装是4种常规组蛋白通过相互作用，依次形成组蛋白二聚体H2A-H2B和H3-H4，并在DNA的参与下形成各种核小体亚单位以及核小体的过程．染色质组装是核小体在更高维度上的折叠，在组蛋白H1和其他非组蛋白的作用下，多个核小体形成一系列具有不同折叠状态的染色质高级结构[2].
+
+在真核细胞DNA进行复制、转录、修复、重组等生命活动时，DNA需要与多种调控因子或分子机器进行相互作用，以确保这些生命活动得以顺利进行．因为染色质组装控制和调节DNA的开放或折叠状态，所以染色质组装不仅能影响遗传信息的编码和存储，并且也决定遗传信息的提取和解读．染色质组装的异常通常会引起遗传信息的错误编码或解读，并导致相关生命活动的紊乱并诱发各种疾病．近年来，对核小体组装机制的研究已经取得了长足进展，刚刚获得解析的染色质 $3 0 \mathrm { n m }$ 纤维结构则为基于染色质高级结构的组装研究奠定了基础[4].
+
+# 2组蛋白变体和组蛋白伴侣
+
+真核细胞中存在多种调节染色体组装及其相关生命活动的机制，组蛋白变体和组蛋白伴侣是染色体组装调控非常重要的参与者．组蛋白变体是一类与常规组蛋白序列高度相似，但具有特殊功能的组蛋白．除H4以外，组蛋白H2A、H3、H2B都有与之对应的组蛋白变体．组蛋白变体可以在细胞周期的多个阶段进行表达，并特异地分布于特定的染色质区域．组蛋白变体参与构成的染色质结构具有不同于常规染色质的结构与功能特点，提示组蛋白变体具有比较特殊的功能．除此之外，组蛋白变体往往需要和一类称为组蛋白伴侣的分子协助作用，才能有效发挥其调节染色体组装的功能．组蛋白伴侣是在组蛋白的识别、转运、传递、储存等过程中发挥重要作用的一类分子，与组蛋白的功能密切相关，但不同的组蛋白伴侣在结构和功能上均存在较大差异.
+
+常规组蛋白H3及其变体H3.3的染色体组装过程，可以充分反映组蛋白变体和组蛋白伴侣的密切联系．H3与H3.3仅仅存在 $4 { \sim } 5$ 个氨基酸残基的差异，但是含两种组蛋白的染色质具有不同的高级结构．除此之外，H3与H3.3序列上的细微差异为组蛋白伴侣的特异识别提供了分子基础，使二者能够通过不同的途径进行染色体组装[8．在与DNA复制偶联的组装途径中，组蛋白伴侣CAF-1识别H3，并在DNA复制产生的子链DNA上装配H3 核小体[；在与非DNA复制偶联的组装途径中，组蛋白伴侣HIRA、DAXX、DEK识别组蛋白变体H3.3并生成H3.3核小体．该研究结果充分表明组蛋白变体和组蛋白伴侣的协同对于染色质组装具有重要作用．组蛋白变体H2A.Z和CENP-A分别是组蛋白H2A和H3家族的代表性成员，本文将着重讨论H2A.Z和CENP-A的染色质组装机制及其相关功能.
+
+# 3组蛋白变体H2A.Z
+
+在组成染色质的众多组蛋白当中，H2A具有最多的变体，这些变体当中H2A.Z研究得比较全面．研究表明，H2A.Z在基因组中呈现高度规律的分布，其染色质定位与其功能密切相关[2．首先，H2A.Z在常染色质上高度富集于基因编码框的 $5 ^ { \prime }$ 端并调控DNA转录起始．在酿酒酵母细胞和哺乳动物细胞中，H2A.Z核小体占据了转录起始位点(transcription start-site，TSS)两侧 $+ 1$ 位(TSS下游第一个核小体)和-1位(TSS 上游第一个核小体)的位置，并在转录起始位点附近形成核小体缺失区域.在酿酒酵母与裂殖酵母细胞中，H2A.Z在TSS的富集与低转录基因呈现相关性[3]，但在果蝇和哺乳动物细胞中则与高转录基因呈现相关性[4].Tremethick团队通过研究证明与转录的增强具有正相关性的实际上是 $\mathrm { H } 2 \mathrm { A } . \mathrm { Z } + 1$ 位核小体中的移除，而不是H2A.Z的组装[15]．除此之外，该研究还提示H2A.Z在 $+ 1$ 位核小体的定位导致TSS附近核小体缺失区域形成，从而解释了Po1Ⅱ以及各种转录起始因子为什么能够在TSS进行富集[5．以上研究说明H2A.Z在TSS附近的分布对于转录起始具有重要作用．其次，H2A.Z在染色质上的定位与DNA甲基化以及组蛋白翻译后修饰密切相关[.H2A.Z在染色质上的定位与DNA甲基化程度为负相关，意味着DNA的甲基化对H2A.Z的调控有拮抗作用[17-18]．最后，H2A.Z的定位与DNA 损伤修复过程以及异染色体边界决定关系密切，与H2A.Z参与DNA损伤应答和端粒的核膜定位功能不谋而合[19-21l．上述结果表明，H2A.Z通过核小体组装富集到基因组的特定区域并改变其染色质结构，进而行使多种生物学功能.
+
+# 4组蛋白变体H2A.Z的染色质组装机制
+
+H2A.Z具有与常规核小体H2A截然不同的染色质组装机制(图1).H2A通过结合组蛋白伴侣Nap1 和 FACT (facilitates chromatin transcription),以H2A-H2B二聚体的形式进行染色质组装或者移除[22]．尽管体外实验提示Nap1和FACT可以识别H2A.Z，但是体内实验表明Nap1和FACT并不能完成H2A.Z的核小体组装．2004年，Wu等首先在酿酒酵母中发现了染色质重构复合物SWR1，并证明SWR1可以利用水解产生ATP的能量移除常规核小体中的H2A-H2B，同时嵌入常规组蛋白H2A.Z-H2B以形成含有H2A.Z核小体[23]．SWR1在高等真核生物中的同源复合物 SRCAP以及 $\mathtt { p 4 0 0 }$ 也具有催化H2A.Z替换核小体中H2A 的能力，证明H2A.Z的组装是一种高度保守的机制[24-25].H2A.Z-H2B和含有H2A的核小体是催化反应的底物，二者激活并调节 SWR1复合物的催化反应效率[26．结构研究表明，SWR1/SRCAP/P400复合物是包含多个亚基，分子质量超过 $1 \mathrm { M u }$ 的蛋白质超大复合物[27.其中，识别亚基Swc2/YL1以及催化亚基Swr1均可以特异识别H2A.Z-H2B二聚体[28]，而Swc2/YL1还负责识别TSS附近的核小体缺失区域并将SWR1复合物定位到 $+ 1$ 位核小体的位置[2].Peterson团队发现，另外一种ATP驱动的染色质重构复合物INO80可以特异性地催化H2A替换核小体中的H2A.Z，证明了细胞通过一种双向可逆机制来精确地调控组蛋白H2A和H2A.Z的交换[30].
+
+目前也发现多种可以特异识别H2A.Z-H2B，并协助SWR1/SRCAP/P400复合物进行H2A.Z交换反应的组蛋白伴侣．2007年在酵母细胞中发现的Chz1蛋白被证明是第一个具有特异识别H2A.Z能力的组蛋白伴侣[31-32]．高等真核生物所特有的H2A.Z组蛋白伴侣Anp32e具有从染色质上移除H2A.Z的功能[33]．此前提到的复合物亚基Swr1的功能区域Swr1-Z也具有组蛋白伴侣特点[34．对上述蛋白质的研究表明，H2A.Z的C端区域是介导各种H2A.Z组蛋白伴侣识别的关键[435．综上所述，组蛋白伴侣，以及具有组蛋白伴侣功能的染色质重构复合物，在H2A.Z的识别、传递以及染色质定位等过程中共同发挥作用，确保了H2A.Z在染色质上的正确有序组装.
+
+![](images/54519e1f75cfa20f245c2a7bc9e637f7c4e297d4cbd308bf6bef3a5cccc00f2e.jpg)  
+Fig.1 H2A.Z recognition and chromatin assembly 图1H2A.Z的染色质组装及其特异识别
+
+染色质重构复合物SWR1催化H2A.Z的染色质组装并将 H2A.Z定位到转录起始位点(A)，DNA双链断裂位点(B)，以及异染色质临近区域(C)．部分异染色质定位与核膜相关．染色质重构复合物INO80 和组蛋白伴侣 Anp32e在 H2A.Z的染色质去组装中发挥作用.
+
+# 5组蛋白变体CENP-A的染色质组装机制
+
+除组蛋白变体H2A.Z以外，针对组蛋白H3变体的家族成员CENP-A进行的研究也取得了重要进展(图2)．着丝粒(centromere)特异的H3变体CenH3是组蛋白H3家族成员中重要的变体蛋白，哺乳动物来源的CenH3称为着丝粒特异蛋白CENP-A．着丝粒处于真核生物染色体的特定位置并具有特殊的DNA组成方式，其功能是在细胞分裂过程中控制染色质向子代细胞进行均等分配，以保证每一个子代都含有细胞存活所必需的遗传物质．CenH3决定着丝粒核小体的正确定位，保证着丝粒正确有序地进行装配和去装配，是正常进行细胞分裂的必需蛋白.
+
+与H3组蛋白其他家族成员相比，CenH3的蛋白序列存在明显差异，提示CenH3的序列差异与其特殊的生物学功能具有某种联系．CenH3如何决定着丝粒的定位并维持着丝粒的形成？这些科学问题一直驱动着相关研究的不断深入．研究发现，CENP-A蛋白序列中一个称为CATD(CENP-Atargetingdomain)的结构域，在很大程度上决定了CENP-A的 特 殊 功 能[3σ．Wu、Cleveland和Almouzni团队分别在酿酒酵母和哺乳动物细胞中发现了CenH3特异的组蛋白伴侣Scm3和HJURP，并证明了它们在CenH3的着丝粒决定中发挥着不可或缺的作用[37-39]．由于 Scm3 和HJURP 的一级序列存在较大差异，它们起初被认为是行使相似功能的两类蛋白质分子，直到后来Allshire证明Scm3和HJURP具有高度保守的CenH3识别结构域，并推测出二者属于同一个蛋白家族[4．2011年，Scm3和HJURP的CenH3识别结构域与CenH3形成的复合物结构先后获得了解析[4I-42]，这些结构不
+
+![](images/cc47c4bae70584a316b1e01ffd7da616abfa2b98b4ca4f290c689c08ab41f338.jpg)  
+Fig.2CENP-A recognition and chromatin assembly 图2CENP-A的染色质组装及其特异识别
+
+CENP-A的染色质组装受到严格的细胞周期调控，CENP-A的组装由CENP-A的磷酸化修饰以及组蛋白伴侣HJURP所介导，CENP-A的移除由机制不明的降解途径所介导．CENP-A的C端肽段和L2-loop(RG-loop)分别介导CENP-C和CENP-N对着丝粒核小体的特异识别.
+
+仅证实了Scm3与HJRUP属于同一蛋白家族的假说，而且发现了CenH3与H3序列中对识别起关键作用的差异残基，从而揭示了Scm3和HJRUP特异识别CenH3的分子机理．上述研究表明组蛋白伴侣选择性地识别CenH3并将其定位到染色体的特定区域，从而决定了着丝粒的形成38．除此之外，Li等发现CENP-A序列中第68位丝氨酸也参与了HJRUP的识别[4I．该丝氨酸周期性的磷酸化与去磷酸化可以调节其HJURP对CENP-A的识别，进而影响CENP-A在着丝粒的组装[43]．这一结果证明了CATD结构域之外的区域也可以参与CENP-A的识别，并且提示组蛋白的翻译后修饰对组蛋白变体识别具有重要作用.
+
+组蛋白变体CenH3被募集至着丝粒所在的染色质区域并组装成为核小体之后，着丝粒才能形成．由于酿酒酵母、果蝇、哺乳动物等模式生物的着丝粒结构存在较大差异，利用这些模式生物研究CenH3核小体所获得的结论不尽相同，人们倾向于认为CenH3核小体的结构具有种属特异性，并提出了多个不同结构模型44]．为了回答含有CenH3的着丝粒核小体是否和常规核小体具有完全不同的结构，Kurumizaka等解析了哺乳动物CENP-A核小体的结构，并证实CENP-A核小体采取与常规核小体基本一致的方式进行组装，即CENP-A代替H3组装成八聚体蛋白核心，并被着丝粒特异的DNA所缠绕[45]．这一结果提示不同物种来源的CenH3都可以组装成八聚体核小体，但并不排除CenH3会形成其他类型的核小体结构．最近，Bai等发现着丝粒特异蛋白CENP-C通过其保守的结构域识别八聚体形式的CENP-A核小体．对复合物开展的结构研究表明，CENP-C特异识别CENP-A的C端序列以及CENP-A核小体表面由H2A-H2B形成的酸性区域[4．Black等的研究表明，CENP-C的结合导致八聚体形式的CENP-A核小体发生构象变化，使得原本松散的CENP-A核小体结构变得较为紧凑，从而维持CENP-A核小体在着丝粒处的稳定[47．因为高度保守的CENP-C是维持着丝粒功能的必需因子，上述结果进一步支持了CENP-A的八聚体核小体模型．最新研究发现，着丝粒特异蛋白CENP-N对CENP-A核小体也具有选择性识别机制．与CENP-C不同的是，CENP-A核小体的RG-loop对于介导CENP-N的特异识别具有重要作用．一方面，CENP-A核小体通过暴露的RG-loop将CENP-N招募至着丝粒，另一方面，参与形成染色质高级结构的RG-loop则失去了与CENP-N结合的功能，上述结果揭示了一种通过改变染色质高级结构调节组蛋白变体识别的独特机制[48].
+
+# 6展望
+
+研究组蛋白变体进行染色质组装的机制，对于揭示组蛋白变体和组蛋白伴侣在染色质高级结构的调节中发挥的作用，阐明二者的生物学功能具有重要意义．目前，对组蛋白变体H2A.Z和CENP-A的染色质组装机理研究仍然处于起步阶段，后续研究中迫切需要研究的科学问题包括：H2A.Z核小体与CENP-A核小体参与形成怎样的染色质高级结构？H2A.Z的染色质组装与DNA甲基化的负相关性的决定机制是什么？H2A.Z的组装如何影响异染色质的定位？H2A.Z的组装与DNA损伤修复的关系？CENP-A核小体如何募集着丝粒组装的调控因子？CENP-A从着丝粒上进行移除的分子机制是什么？上述问题的解答，对于从根本上理解组蛋白变体的染色质组装机制以及相关疾病的发生机理具有重要的理论意义.
+
+# 参考文献
+
+[1]LugerK,MaderAW,RichmondRK,et al.Crystal structure of the nucleosome core particle at $2 . 8 \mathrm { ~ \AA ~ }$ resolution.Nature,1997, 389(6648): 251-260   
+[2]Luger K,Dechassa M L,Tremethick D J.New insights into nucleosome and chromatin structure: an ordered state ora disordered affair?.Nature reviews Molecular Cell Biology,2012, 13(7): 436-447   
+[3]Burgess RJ,Zhang Z.Histone chaperones in nucleosome assembly and human disease.Nature Structural & Molecular Biology,2013, 20(1): 14-22   
+[4]Song F,Chen P,Sun DP,et al.Cryo-EM study of the chromatin fiber reveals a double helix twisted by tetranucleosomal units. Science,2014,344(6182):376-380   
+[5]Talbert PB,Henikoff S.Histone variants- ancient wrap artists of the epigenome.Nature Reviews Molecular Cell Biology，2010, 11(4): 264-275   
+[6]Das C,Tyler JK,Churchill ME.The histone shuffle: histone chaperones in an energetic dance.Trends in Biochemical Sciences, 2010,35(9):476-489   
+[7]ChenP,Zhao J,Wang Y,et al.H3.3 actively marks enhancers and primes gene transcription via opening higher-ordered chromatin. Genes & Development,2013,27(19): 2109-2124   
+[8]Liu CP,Xiong C,Wang M,et al. Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX.Nature Structural & Molecular Biology,2012,19(12):1287-1292   
+[9]Elsasser SJ,Huang H,Lewis PW,et al.DAXX envelops a histone H3.3-H4 dimer for H3.3-specific recognition.Nature，2012, 491(7425): 560-565   
+[10] Tagami H,Ray-Gallet D,Almouzni G,et al. Histone H3.1 and H3.3 complexes mediate nucleosome assembly pathways dependent or independent of DNA synthesis.Cell, 2004,116(1): 51-61   
+[11] Goldberg A D,Banaszynski L A,Noh K M,et al. Distinct factors control histone variant H3.3 localization at specific genomic regions.Cell,2010,140(5): 678-691   
+[12] Henikoff S,Smith M M. Histone variants and epigenetics. Cold Spring Harbor Perspectives in Biology,2015,7(1):a019364   
+[13] Zhang H,Roberts D N,Cairns B R. Genome-wide dynamics of Htzl,a histone H2A variant that poises repressed/basal promoters for activation through histone loss.Cell, 2005,123(2): 219-231   
+[14] Cui K, Zang C,Roh T Y, et $^ d$ .Chromatin signatures in multipotent human hematopoietic stem cells indicate the fate of bivalent genes during differentiation. Cell Stem Cell,2009,4(1): 80-93   
+[15] Nekrasov M,Amrichova J,Parker B J,et al.Histone H2A.Z inheritance during the cell cycle and its impact on promoter organization and dynamics. Nature Structural & Molecular Biology, 2012,19(11): 1076-1083   
+[16] Barski A, Cuddapah S,Cui KR,et al. High-resolution profiling of histone methylations in the human genome. Cell,20O7,129 (4): 823-837   
+[17] Conerly ML,Teves S S,Diolaiti D,et al.Changes in H2A.Z occupancy and DNA methylation during B-cell lymphomagenesis. Genome Research,2010,20(10): 1383-1390   
+[18] Zilberman D, Coleman-Derr D,Balinger T,et al. Histone H2A.Z and DNA methylation are mutually antagonistic chromatin marks. Nature,2008,456(7218): 125-129   
+[19] Xu Y,Ayrapetov M K, Xu C,et al.Histone H2A.Z controls a critical chromatin remodeling step required for DNA double-strand break repair.Molecular Cell,2012,48(5): 723-733   
+[20]Meneghini MD,Wu M,Madhani HD.Conserved histone variant H2A.Z protects euchromatin from the ectopic spread of silent heterochromatin. Cell,2003,112(5): 725-736   
+[21] Horigome C,Oma Y,Konishi T,et al. SWR1 and INO8O chromatin remodelers contribute to DNA double-strand break perinuclear anchorage site choice.Molecular Cell,2014, 55(4): 626-639   
+[22] D'arcy S,Martin K W,Panchenko T,et al. Chaperone Napl shields histone surfaces used in a nucleosome and can put H2A-H2B in an unconventional tetrameric form.Molecular Cell，2013,51 (5): 662-677   
+[23] Mizuguchi G,Shen X,Landry J,et al.ATP-driven exchange of histone H2AZ variant catalyzed by SWR1 chromatin remodeling complex. Science,2004,303(5656): 343-348   
+[24] Fan JY，Rangasamy D,Luger K,et al. H2A.Z alters the nucleosome surface to promote HPlalpha-mediated chromatin fiber folding.Molecular Cell,2004,16(4): 655-661   
+[25] Ruhl D D,Jin J,Cai Y,et al.Purification of a human SRCAP complex that remodels chromatin by incorporating the histone variant H2A.Z into nucleosomes. Biochemistry，2006,45(17): 5671-5677   
+[26] Luk E,Ranjan A,Fitzgerald P C,et al.Stepwise histone replacement by SWR1 requires dual activation with histone H2A.Z and canonical nucleosome. Cell,2010,143(5): 725-736   
+[27] Nguyen VQ, Ranjan A, Stengel F,et al. Molecular architecture of the ATP-dependent chromatin-remodeling complex SWR1.Cell, 2013,154(6): 1220-1231   
+[28]Wu WH,Alami S,Luk E,et al.Swc2 isa widely conserved H2AZ-binding module essential for ATP-dependent histone exchange.Nature Structural & Molecular Biology,2Oo5,12(12): 1064-1071   
+[29]Ranjan A,Mizuguchi G,Fitzgerald PC,et al.Nucleosome-free region dominates histone acetylation in targeting SWR1 to promoters for H2A.Z replacement. Cell,2013,154(6):1232-1245   
+[30] Papamichos-Chronakis M,Watanabe S,Rando OJ,et al.Global regulation of H2A.Z localization by the INO80 chromatinremodeling enzyme is essential for genome integrity.Cell,2011, 144(2): 200-213   
+[31] Luk E,Vu ND,Patteson K,et al.Chzl,a nuclear chaperone for histone H2AZ.Molecular Cell,2007,25(3): 357-368   
+[32] Zhou Z,Feng H,Hansen DF,et al.NMR structure of chaperone Chzl complexed with histones H2A.Z-H2B.Nature Structural & Molecular Biology,2008,15(8): 868-869   
+[33] Obri A,Ouararhni K,Papin C,et al．ANP32E isa histone chaperone that removes H2A.Z from chromatin. Nature,2014, 505(7485): 648-653   
+[34] Hong J,Feng H,WangF,et al.The catalytic subunit of the SWR1 remodeler is a histone chaperone for the H2A.Z-H2B dimer. Molecular Cell,2014,53(3): 498-505   
+[35] Mao Z,PanL,Wang W,et al.Anp32e,a higher eukaryotic histone chaperonedirectspreferential recognition for H2A.Z.Cell Research,2014,24(4): 389-399   
+[36]Black B E,Foltz D R,Chakravarthy S，et al.Structural determinants for generating centromeric chromatin.Nature,2004, 430(6999): 578-582   
+[37] Mizuguchi G,Xiao H,Wisniewski J,et al.Nonhistone Scm3 and histones CenH3-H4 assemble the core of centromere-specific nucleos0mes. Cell,2007,129(6): 1153-1164   
+[38]Foltz DR,Jansen LE,Bailey A O,et al.Centromere-specific assembly of CENP-a nucleosomes is mediated by HJURP.Cell, 2009,137(3):472-484   
+[39]Dunleavy E M,Roche D,Tagami H,et al.HJURP isa cell-cycle-dependent maintenance and deposition factor of CENP-A at centromeres. Cell,2009,137(3): 485-497   
+[40] Sanchez-Pulido L,Pidoux A L,Ponting C P,et al.Common ancestry of the CENP-A chaperones Scm3 and HJURP.Cell,2009, 137(7): 1173-1174   
+[41] Hu H,Liu Y,Wang M,et al. Structure of a CENP-A-histone H4 heterodimer in complex with chaperone HJURP.Genes& Development,2011, 25(9): 901-906   
+[42] Zhou Z,Feng H,Zhou B R,et al.Structural basis for recognition of centromere histone variant CenH3 by the chaperone Scm3.Nature, 2011,472(7342): 234-237   
+[43] Yu Z, Zhou X,Wang W,et al.Dynamic phosphorylation of CENP-A at Ser68 orchestrates its cell-cycle-dependent deposition at centromeres.Developmental Cell,2015,32(1): 68-81   
+[44] Black B E, Cleveland D W.Epigenetic centromere propagation and the nature of CENP-a nucleosomes. Cell,2011,144(4): 471-479   
+[45] Tachiwana H,Kagawa W,Shiga T,et al.Crystal structure of the human centromeric nucleosome containing CENP-A.Nature,2011, 476(7359):232-235   
+[46] Kato H,Jiang J,Zhou BR,et al.A conserved mechanism for centromeric nucleosome recognition bycentromere protein CENP-C. Science,2013,340(6136):1110-1113   
+[47]Falk S J,Guo L Y,Sekulic N,et al.Chromosomes.CENP-C reshapes and stabilizes CENP-A nucleosomes at the centromere. Science,2015,348(6235): 699-703   
+[48]Fang J,Liu Y,Wei Y,et al.Structural transitions of centromeric chromatin regulate the cell cycle-dependent recruitment of CENP-N.Genes & Development, 2015,29(10):1058-1073
+
+# Chromatin Assembly of Histone Variants
+
+ZHOU Ju-Jun1,2, FENG Xiao-Li, ZHOU Zheng1)\*\* (NationadLboratoryofiomacromolecules,Istituteofopysics,hineseAcademyofiences,BeiingOna; 2) University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+AbstractChromatin assembly in eukaryote is a well-organized process in which DNA and histone are hierarchically packaged into the nucleosome and chromatin.The assembly and disassembly of chromatin decode the genetic information stored within the chromatin. Histone variant and histone chaperone are major players in regulating the chromatin assembly and virtually involve in allDNA-based processes.In this review,we discuss the recent findings that provide insights into the assembly mechanism of histone variant H2A.Z and CENP-A,and highlight the important roleshistone chaperones play in this process.
+
+Key wordschromatin assembly,histone variant, histone chaperone DOI:10.16476/j.pibb.2015.0249

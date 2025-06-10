@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "微咸水灌溉对土壤盐分平衡与作物产量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈素英」邵立威」 孙宏勇」张喜英 1\\*\\* 李彦芬²(1．中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室 石家庄 050022;2．藁城市农技推广中心 藁城 052160)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要河北低平原淡水资源短缺，微咸水资源丰富，合理开发利用微咸水已经成为缓解水资源供需矛盾的重要途径之一。本研究于2011—2015年在河北省沧州市中国科学院南皮生态农业试验站进行，以冬小麦和夏玉米一年两熟种植体系为研究对象，开展了河北低平原区实施微咸水灌溉对冬小麦及下茬作物夏玉米产量及灌溉对土壤盐分周年平衡的影响。2013—2014年冬小麦灌溉处理设雨养旱作处理(CK)拔节期淡水灌溉1水(F1)、拔节期用 $2 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、 $3 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、 $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、 $\\mathsf { 5 } \\ : \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉1次(B21、B31、B41、B51)、拔节期和灌浆期用淡水灌溉(F2)、拔节期用 $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水 $. +$ 灌浆期用淡水灌溉(B31F1)、拔节期用淡水 $. +$ 灌浆期用 $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉(F1B31)、拔节期和灌浆期都用 $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉(B32)、拔节期、抽穗期和灌浆期都用淡水灌溉(F3)。2014—2015年根据上年度的试验结果对试验处理进行了精简，冬小麦灌溉处理设CK、F1、B31、B41、B51、B42(拔节期和灌浆期都用 $4 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉)。结果表明，一般年型下冬小麦生育期灌溉2水就能获得高产和稳产，平均产量为 $6 \\ 5 9 3 . 4 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。利用小于 ${ \\mathfrak { s g } } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉，与淡水灌溉相比，不会造成冬小麦产量降低，灌溉1次微咸水比雨养旱作处理增产 $10 \\% { \\sim } 3 0 \\%$ ，可用微咸水替代1次淡水。微咸水灌溉条件下冬小麦收获时土壤盐分有所积累，表层土壤含盐量大于 $1 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，影响下茬玉米的出苗和生长，但夏玉米播种后用$6 7 5 { \\sim } 7 5 0 ~ \\mathrm { ~ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 淡水灌溉可满足耕层淋盐需求，达到玉米生长的安全阈值，与淡水灌溉处理的玉米产量相比不减产。利用夏季降雨，可使土壤盐分得到淋洗，当夏季降雨量大于 $3 0 0 ~ \\mathrm { { m m } }$ 时，冬小麦微咸水灌溉下土壤盐分达到周年平衡。沧州地区 $73 \\%$ 以上的年份，夏季降雨量大于 $3 0 0 ~ \\mathrm { { m m } }$ ，为土壤淋盐创造了条件，保证了微咸水替代一次淡水灌溉的安全性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词微咸水灌溉土壤冬小麦-夏玉米种植体系盐分平衡作物产量低平原中图分类号：S158.2 文献标识码：A 文章编号:1671-3990(2016)08-1049-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of brackish water irrigation on soil salt balance and yield of both winter wheat and summer maize ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Suying], SHAO Liweil, SUN Hongyong1, ZHANG Xiyingl1\\*\\*,LI Yanfen² (1.CenterforAgriculturalResourcesResearch,InstituteofGeneticsandDevelopmental Biology,ChineseAcademyofSciences/ Key Laboratory ofAgricultural Water Resources,Chinese Academy of Sciences /Hebei Key Laboratory of Agricultural Water-saving,Shijiazhuang O5o022,China; 2.The Instute of Agricultural Technology Spreading of Gaocheng County, Gaocheng 052160, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThere is rich brackish waterandashortageoffresh waterinthecoastallow plainsof Hebei Province.The reasonable exploitation andutilizationofbrackish water has become animportant wayof meting theconflictbetween water supply ad demand in theregion.An experiment was conducted in Nanpi Eco-Agricultural Station of Chinese Academyof ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sciences in2011-2015.Theobjectiveof the experiment was to studythe efectof brackish water irrigationduring winter wheat growth periodon the yieldof winter wheat and the folowing crop,summer maize.The study also investigated soil salinity balance in winter wheat/summer maize double cropping system.The irigationtreatments in 2013-2014 included CK (rainfed farming),F1 (one fresh water irrigation at jointing stage),B21 (one brackish water irigation of $2 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ at jointing stage), B31 (one brackish water irrigation of $3 ~ \\mathrm { g } \\mathrm { \\cdot L } ^ { - 1 }$ at jointing stage), B41 (one brackish water irrigation of $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ at jointing stage),B51 (one brackish water irrigation of $5 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ at jointing stage),B32 (two brackish water irrigations of $3 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ at jointingandgrain-filingstages),F2(tofresh waterirgationsatjointingandgrain-fillngstages),F3(threefreshwater irrigations at jointing,headingand grain-filling stages),F1B31(one fresh water irigationat jointing stageandonebrackish water irrigation of 3 $\\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ at grain-filling stage),and B31F1 (one brackish water irrigation of $3 ~ \\mathrm { g } \\mathrm { \\cdot L } ^ { - 1 }$ at jointing stage and one fresh wateririgationatgain-filligstage).Theirgationtreatmentsin4-2015wereCK,F1,B31,B41,B5andB42(to brackish water irrigations of $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ at jointing and grain-filling stages). The results showed that higher winter wheat yield was obtainable under irrigation at jointing stage and grain-filling stage, with an average yield of $6 \\ 5 9 3 . 4 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ . Irrigation of brackish water with less than $5 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ salinity at joining stage did not reduced winter wheat yield compared with fresh water irrigation.Winter wheat yield increased by $10 \\% - 3 0 \\%$ under brackish water irrigation at joining stage compared with that under CK.It was possble toreplace fresh wateririgation withbrackish water irigation during winter wheat growth.However, soil salt content in the $0 { - } 2 0 ~ \\mathrm { c m }$ topsoil was more than $1 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ in brackish water irrigation treatments,which affected summer maize germination and growth during early growth stage. If irrigated with $6 0 0 { - } 7 5 0 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ of fresh water after summer maize planting,the yieldofsummer maize didnotreduceobviously.There wasaheavy leaching of soilsalt driven by precipitation in June through September. Over $3 0 0 ~ \\mathrm { { m m } }$ rainfall during summer season could keep the soil salt balance for winter wheat and summer maize double cropping system. As over $73 \\%$ of summer precipitation in Cangzhou region exceeded $3 0 0 \\ \\mathrm { m m }$ ，it ensuredthe safetyof the brackish water irigation insteadoffresh wateririgationone time during winter wheat growth period. KeywordsBrackish water irrigation; Soil; Winter wheat/summer maize double cropping system; Salt balance; Crop yield; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hebei low plain ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河北低平原是我国重要的粮棉生产基地之一，粮食生产长期依靠抽提深层地下水实现，导致该区域地下水位下降，形成了世界上最大的地下水漏斗区，对农业和社会经济可持续发展带来严重威胁[1]。为了保护地下水资源，国家对该区域实施了地下水超采治理(压采)，至2017年，项自区(河北省沧州市、衡水市、邯郸市和邢台市)除生活用水外，基本停采深层承压水。另一方面，该区拥有较丰富的地下咸水资源，以黑龙港地区为例，矿化度 $2 { \\sim } 5 \\ \\mathrm { g { \\cdot } L } ^ { - 1 }$ 的地下微咸水分布面积占总面积的 $67 \\%$ ，储量约 $2 3 \\uparrow \\mathrm { Z m } ^ { 3 }$ ，而微咸水的利用量仅为 $2 \\{ \\boldsymbol { Z } \\mathrm { m } ^ { 3 [ 2 ] }$ 。因此，在淡水资源紧缺的区域，开发和利用微咸水资源，是缓解淡水资源紧缺和增加粮食生产的重要措施[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微咸水灌溉与旱作相比具有一定的增产作用[4-6]。河北省农林科学院旱作节水农业试验站研究表明，冬小麦生育期用 $2 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 、 $4 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 和 $\\left| 6 \\ \\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 } \\right.$ 的微咸水灌溉冬小麦产量分别较旱作处理增产 $2 2 . 0 \\%$ 、 $1 5 . 4 \\%$ 和$0 . 1 \\% ^ { [ 2 ] }$ 。河北省南皮县的试验结果表明，冬小麦拔节期用2 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 和 $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉1水分别比旱作处理增产 $3 2 . 8 \\%$ 和 $2 2 . 1 \\% ^ { [ 6 ] }$ 。微咸水灌溉与淡水灌溉相比一般减产或者持平，随着灌溉水矿化度的增加，产量减产幅度增大。尚伟等7分析了全国103组微咸水灌溉冬小麦的试验数据，在充分灌溉条件下灌溉水矿化度与小麦相对产量之间呈负相关关系，随着灌溉水矿化度的增加，小麦相对产量逐渐减少。当灌溉水矿化度为 $2 { \\sim } 3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 时，小麦的相对产量为$0 . 8 7 { \\sim } 0 . 9 3$ ，仅比淡水灌溉减产 $7 \\% \\sim 1 3 \\%$ ；当采用 $3 \\sim$ $5 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的咸水灌溉时，由于受到比较严重的盐分胁迫小麦产量受到的影响较大，与淡水灌溉相比减产约$1 3 \\% { \\sim } 2 4 \\% ^ { [ 7 - 8 ] }$ 。微咸水灌溉对作物产量的影响不仅与灌溉水矿化度有关，还与灌溉量有密切的关系。随着单位面积盐分带入量的增加，小麦相对产量也逐渐降低。毛振强等[9在中国农业大学曲周实验站的研究表明，当 $2 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤溶液的电导率在 $8 \\ \\mathrm { m S { \\cdot } c m ^ { - 1 } }$ 以下时，对夏玉米的产量无显著影响，若电导率长期维持在 $1 0 { \\sim } 1 5 ~ \\mathrm { m S { \\cdot } c m ^ { - 1 } }$ 之间且当季的降雨相对较少时，玉米产量将显著降低。当 $2 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤溶液的电导率长期维持在 $1 2 { \\sim } 1 5 ~ \\mathrm { \\ m S { \\cdot } c m ^ { - 1 } }$ 之间，在灌溉量较大的条件下，盐分胁迫所造成的冬小麦产量损失一般在 $10 \\%$ 左右。以往微咸水灌溉条件以充分灌溉为基础，且以一季作物研究为多，本研究以限水灌溉为试验条件，研究冬小麦微咸水灌溉对冬小麦和夏玉米一年两熟种植体系中作物产量和土壤盐分动态的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，季风气候条件下，春季干旱季节抽取浅层地下微咸水灌溉，在雨季前降低地下水位，腾出地下库容，同时还减少了浅水蒸发，可防正土壤盐渍化；雨季汛期的降雨回补，增大了降雨入渗，减少了地表径流，可促进浅层地下水淡化，改善地下水质量[10]。国内外对微咸水灌溉己经进行了大量研究，与旱作相比，利用微咸水灌溉可不同程度地增产[11-12]，在特别干旱情况下，微咸水灌溉可以降低土壤溶液浓度和渗透压，控制土壤根层溶液浓度不超过作物生理极限，满足作物对水分的需求[13]。然而，微咸水灌溉的同时增加了从灌溉水带进土壤的盐分，引起土壤盐分的积累[14-16]。因此，必须把握好满足作物对水分的需求与控制盐分危害的关系，控制根层土壤盐分不超过作物耐盐度临界值，否则会影响作物正常生长，导致产量随盐渍度的增加而下降。土壤盐分受蒸发和降雨的影响垂直运动剧烈，降雨和灌溉是影响土壤盐分在土壤剖面分布的重要因素，在降雨较少的干旱季节土壤盐分积累，雨季土壤盐分随降雨淋洗[14]。本试验研究了微咸水灌溉对作物产量和土壤盐分平衡的影响，使作物不减产并且土壤不发生盐分的累积，为合理利用和开发微咸水资源提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大田试验于2013—2015年在中国科学院南皮生态试验站进行，该站位于北纬 $3 8 ^ { \\circ } 0 0 ^ { \\prime }$ ，东经 $1 1 6 ^ { \\circ } 4 0 ^ { \\prime }$ ，海拔 $1 1 \\mathrm { m } _ { \\circ }$ 属于暖温带半湿润季风气候区，年均气温 $1 2 . 3 ~ \\mathrm { ~ \\textdegree C }$ ，年均降水量 $4 8 0 ~ \\mathrm { m m } _ { \\mathrm { c } }$ ， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤速效钾含量为 $1 0 4 . 8 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，速效磷 $1 7 . 9 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效氮 $8 8 . 9 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ ，有机质 $1 4 . 0 { \\sim } 1 9 . 0 \\ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ ，土壤容重为$1 . 4 5 ~ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤平均容重为 $1 . 4 2 7 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "田间持水量为 $2 4 . 1 \\% ( W / W )$ 。初始试验阶段含盐量见表1，试验土壤为轻度盐渍化土壤。浅层地下水为微咸水，深层水为淡水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验区种植制度为冬小麦-夏玉米一年两熟制。由于冬小麦的耐盐阈值大于夏玉米，在冬小麦生育期进行不同灌溉次数和不同矿化度微咸水灌溉，夏玉米生育期用淡水灌溉不设灌水处理，研究冬小麦微咸水灌溉后对冬小麦产量和下茬夏玉米产量及土壤盐分平衡的影响。冬小麦灌溉处理包括灌溉次数(旱作、灌1水、灌2水和灌3水)和微咸水(矿化度为 $2 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ 、 $3 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ 、 $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、 $5 \\ \\mathrm { g \\cdot L ^ { - 1 } } ,$ 的灌溉1次和2次处理，2013—2014年共设10个处理，分别为：CK，雨养；F1，灌溉淡水1水;B21, $2 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水;B31, $3 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水;B41, $4 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水；B51, $5 \\ \\mathrm { g \\cdot L } ^ { - 1 }$ 微咸水灌溉1水；F2，灌溉淡水2水;B32, $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉2水；F1B31，灌溉淡水1水 $. +$ $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水；B31F1, $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水 $. +$ 灌溉淡水1水；F3，灌溉淡水3次。2014—2015年冬小麦灌溉设6个处理，分别为CK、F1、B31、B41、B51、 ${ \\mathrm { B } } 4 2 ( 4 { \\mathrm { ~ g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ 微咸水灌溉2水)和F2。各种处理均为平作。灌溉1水处理的灌溉时间为拔节期，灌溉2水的灌溉时间分别为拔节期和灌浆期，灌溉3水处理的灌溉时间分别为拔节期、抽穗期和灌浆期。小区面积 $5 \\mathrm { m } { \\times } 7 \\mathrm { m }$ ，4次重复，随机排列。试验中灌溉用淡水为深井水，矿化度为 $1 . 0 5 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ ；不同矿化度的微咸水为浅井水加粗盐(购自河北省黄骅市的大粒天然盐)在储水罐中充分混合配制而成。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c48c231701a28fb5d49cddfc33fe047af9cecb8ba2b1c147ba5ac9e2b174552.jpg",
+        "table_caption": [
+            "表1试验区土壤盐分含量 Table 1Salt constituent of the experimental soil "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层 Soil layer (cm)</td><td>pH</td><td>EC (S·cm-1)</td><td>SO- （g:kg)</td><td>CI- (g:kg-1)</td><td>HCO3 (g·kg-1)</td><td>Ca²+ (g:kg-1)</td><td>(g·kg-1) Mg2</td><td>K++Na+ (g·kg-1)</td><td>全盐 Total salt (g·kg-1)</td></tr><tr><td>0~20</td><td>8.15</td><td>0.32</td><td>0.012 0</td><td>0.0177</td><td>0.036 6</td><td>0.006</td><td>0.003 6</td><td>0.017</td><td>0.093</td></tr><tr><td>20~40</td><td>8.14</td><td>0.33</td><td>0.009 6</td><td>0.0248</td><td>0.024 4</td><td>0.006</td><td>0.003 6</td><td>0.016</td><td>0.085</td></tr><tr><td>40~60</td><td>8.11</td><td>0.29</td><td>0.0168</td><td>0.0177</td><td>0.030 5</td><td>0.006</td><td>0.003 6</td><td>0.017</td><td>0.092</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦采取 $1 5 \\ \\mathrm { c m }$ 等行距种植，2013—2014年和2014—2015年供试冬小麦品种分别为‘石新828'和‘石新 $6 8 8 ^ { \\circ }$ ，播种时间分别为2013年10月13日和2014年10月11日，播种量为 $2 2 5 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，收获时间分别为2014年6月6日和2015年6月10日，冬小麦播种前施用底肥磷酸二铵 $4 5 0 \\ \\mathrm { k g \\cdot h m ^ { - 2 } ( K H _ { 2 } P O _ { 4 } , 9 8 \\% }$ ，尿素$( \\mathrm { N } ; 4 6 . 4 \\% ) 1 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。拔节期追施尿素 $3 7 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。供试夏玉米品种为‘郑单 $9 5 8 ^ { \\circ }$ ，在小麦收获后机械$6 0 ~ \\mathrm { c m }$ 等行距播种，密度为 $5 2 ~ 5 0 0 { \\sim } 6 0 ~ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 收获时间为9月30日。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 观测项目和方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤含盐量：每年小麦收获后(6月)、玉米收获后(9月)用土钻取样，取样深度为 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ /$4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 、 $6 0 { \\sim } 8 0 ~ \\mathrm { c m }$ 和 $8 0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ ，每个处理3次重复。土壤风干后，采用络合滴定法测定土壤全盐量和八大盐分离子含量 $( \\mathrm { C a } ^ { 2 + } , \\mathrm { M g } ^ { 2 + }$ / ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ （ $\\mathrm { C l } ^ { - }$ 1 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ $\\mathbf { N a } ^ { + } { + } \\mathbf { K } ^ { + } .$ 等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦产量测定：小区随机选择40穗小麦考种考种项目包括穗数、穗粒数、千粒重等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "夏玉米产量测定：小区收获，测定密度，随机取10穗进行穗粒数和千粒重的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据基于SPSSVer.16.0软件和Microsoftexcel进行计算和作图分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同矿化度微咸水灌溉对作物产量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 对冬小麦产量及产量构成的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2013—2014年结果表明(表2)，灌溉1次淡水和灌溉1次微咸水 $( 2 { \\sim } 4 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 } ) ,$ 的冬小麦产量差异不显著，灌溉2次淡水、灌溉2次微咸水、淡水和微咸水轮灌2水的产量之间差异不显著。冬小麦生育期灌溉2水，其中1水为3 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 微咸水，产量与淡水灌溉2水的产量差异不显著， $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉2次与淡水灌溉2次的产量差异不显著。因此，冬小麦生育期用2\\~4$\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水替代1次淡水灌溉不会造成冬小麦产量降低。与雨养旱作相比，微咸水和淡水灌溉各1次，平均增产 $1 3 . 4 \\%$ ，2次微咸水灌溉增产 $2 2 . 6 \\%$ 。与淡水灌溉1次相比，用1次微咸水与1次淡水轮灌平均增产 $8 . 5 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2014—2015年在上年试验的基础上，进行了高矿化度微咸水的灌溉试验，结果表明，用 $3 { \\sim } 5 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ 的微咸水灌溉1水与淡水灌溉1水的产量差异不显著；用$4 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉2次与淡水灌溉2水的产量差异不显著，说明用 $3 { \\sim } 5 \\ \\mathrm { g { \\cdot } L } ^ { - 1 }$ 的微咸水灌溉不会造成冬小麦产量降低(表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合两年试验结果发现，冬小麦灌溉1次微咸水比雨养旱作产量增加 $10 \\% { \\sim } 3 0 \\%$ ，拔节期用 $2 { \\sim } 5 \\ \\mathrm { g { \\cdot } L } ^ { - 1 }$ 的微咸水灌溉1次，与淡水灌溉相比产量差异不显著，用微咸水替代1次淡水，不影响产量。冬小麦生育期增加2次微咸水灌溉比不灌溉增产 $40 \\%$ 以上，拔节期和灌浆期用 $2 { \\sim } 5 \\ \\mathrm { g { \\cdot } L } ^ { - 1 }$ 的微咸水灌溉2次，产量与淡水灌溉2次的产量差异不显著。用微咸水替代两次淡水，不减产。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f01ad568cdb3441c8b4b87f40a9ad7191dfd174f1bc55c00a1a633af6b50d763.jpg",
+        "table_caption": [
+            "表22013—2014年和2014—2015年不同灌溉处理对冬小麦产量与产量构成的影响Table 2Grain yield,yield components of winter wheat under different irigation treatments of the field experiment in2013-2014 and 2014-2015"
+        ],
+        "table_footnote": [
+            "CK:雨养;F1:拔节期淡水灌溉1水;B21：拔节期 $\\overline { { 2 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 } } }$ 微咸水灌溉1水;B31：拔节期 $\\overline { { 3 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 } } }$ 微咸水灌溉1水;B41：拔节期 $\\overline { { 4 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 } } }$ 微咸 水灌溉1水;B51：拔节期 $\\mathsf { 5 } \\ : \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉1水;F2:拔节期和灌浆期淡水灌溉;B32:拔节期和灌溉期 $3 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉;B42：拔节期和灌 浆期 $4 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉;F1B31：拔节期淡水灌溉 $\\vdots +$ 灌浆期 $3 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉;B31F1:拔节期 $3 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 微咸水灌溉 $^ +$ 灌浆期淡水灌溉;F3：拔节期、 抽穗期和灌浆期淡水灌溉。同列数据后不同小写字母表示各处理差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示灌水次数间差异显著 $( P { < } 0 . 0 1 )$ 。下同。 CK: rainfed;F1: one fresh water irrigation at jointing stage; B21: one irrigation of $2 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ brackish water at jointing stage; B31: one irrigation of $3 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ brackish water at jointing stage;B41:one irrigation of $4 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ brackish water at jointing stage;B51:one irrigation of ${ \\mathfrak { s } } \\operatorname { g } \\cdot \\mathbf { L } ^ { - 1 }$ brackish water at jointing stage;B32: two irrigations of $3 \\ { \\mathrm { g } } { \\cdot } { \\mathrm { L } } ^ { - 1 }$ brackish water at jointing and filling stages;F2:two irrigations offresh water at jointingand filling stages; B42: two irrigations of $4 ~ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ brackish water at jointing and filling stages;F3:thre irrigations of fresh water at jointing, heading and filling stages;F1B31: one irrigation of fresh water at jointing stage and one irrigation of $3 \\ \\mathrm { g \\cdot L } ^ { - 1 }$ brackish water at filling stage; B31F1:one irrigation of $3 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ brackishwateatjitdigtioffresteatfltallndialttsia significant difference among different treatments and different irrigation times at $P < 0 . 0 5$ and $P < 0 . 0 1$ levels,respectively. The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>处理 Treatment</td><td>产量 Yield (kg·hm-2)</td><td>穗数 Spike number (spike-m-2)</td><td>穗粒数 Kernels per spike</td><td>千粒重 1000-seed weight (g)</td></tr><tr><td>2013—2014</td><td>CK</td><td>6 347.2±150.9c</td><td>476.5±71.56c</td><td>29.3±2.46b</td><td>45.5±1.30A</td></tr><tr><td></td><td>F1</td><td>7 213.3±438.1abc</td><td>585.1±0.00abc</td><td>35.3±1.70ab</td><td>44.9±0.56A</td></tr><tr><td></td><td>B21</td><td>7 660.9±483.5ab</td><td>537.6±17.89bc</td><td>33.8±1.35ab</td><td>40.7±0.34CD</td></tr><tr><td></td><td>B31</td><td>7 151.8±289.9abc</td><td>572.4±40.25abc</td><td>29.9±1.35ab</td><td>39.3±0.83D</td></tr><tr><td></td><td>B41</td><td>6 772.1±234.1bc</td><td>575.6±40.25abc</td><td>30.3±3.54ab</td><td>40.4±0.87CD</td></tr><tr><td></td><td>F2</td><td>7 548.9±302.8ab</td><td>536.1±2.23bc</td><td>31.1±2.56ab</td><td>41.4±0.36BC</td></tr><tr><td></td><td>B32</td><td>8 189.6±290.7a</td><td>623.6±5.22abc</td><td>37.1±6.77a</td><td>41.0±0.48BCD</td></tr><tr><td></td><td>F1B31</td><td>7 688.3±204.6ab</td><td>711.6±93.93a</td><td>33.0±0.73ab</td><td>42.0±0.99BC</td></tr><tr><td></td><td>B31F1</td><td>7 705.7±628.8ab</td><td>656.2±11.19ab</td><td>31.4±1.79ab</td><td>40.3±0.90CD</td></tr><tr><td></td><td>F3</td><td>8 156.1±773.9a</td><td>659.4±60.37ab</td><td>31.6±1.73ab</td><td>42.8±0.75B</td></tr><tr><td>2014—2015</td><td>CK</td><td>4 624.5±49.5B</td><td>474.4±30.79A</td><td>37.0±0.36AB</td><td>28.2±2.94B</td></tr><tr><td></td><td>F1</td><td>5 849.7±662.7AB</td><td>480.0±38.44A</td><td>34.4±0.32C</td><td>33.5±6.03AB</td></tr><tr><td></td><td>B31</td><td>5 800.9±401.9AB</td><td>552.2±15.03A</td><td>34.9±0.73C</td><td>35.9±1.82AB</td></tr><tr><td></td><td>B41</td><td>5 752.3±654.4AB</td><td>505.6±24.57A</td><td>35.6±1.27ABC</td><td>34.5±1.89AB</td></tr><tr><td></td><td>B51</td><td>6 492.3±297.0A</td><td>552.2±30.24A</td><td>36.9±0.28AB</td><td>37.2±1.52A</td></tr><tr><td></td><td>B42</td><td>6 578.3±550.6A</td><td>487.8±83.40A</td><td>37.3±0.36A</td><td>38.0±2.07A</td></tr><tr><td></td><td>F2</td><td>6 579.8±129.6A</td><td>493.3±12.02A</td><td>35.1±0.66BC</td><td>31.5±1.50AB</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 对夏玉米产量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微咸水灌溉不仅给土壤带来了水分同时还带进土壤盐分，盐分在土壤中积累会影响下茬作物的生长。在冬小麦和夏玉米一年两熟种植区域，夏玉米的耐盐阈值低于冬小麦，冬小麦生育期用微咸水灌溉存留在土壤的盐分会对后茬夏玉米的生长产生影响。因此，冬小麦生育期微咸水灌溉一定要考虑对后茬作物的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3为上茬冬小麦微咸水灌溉后对夏玉米产量的影响。夏玉米播种后均用淡水灌溉1次，减少土壤中盐分对夏玉米出苗和苗期生长的影响。结果显示，冬小麦实施微咸水灌溉后，对下茬夏玉米的产量有一定的影响。2014年结果表明，冬小麦生育期用$2 { \\sim } 4 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的微咸水灌溉1次，与淡水灌溉1次相比，平均减产 $1 5 . 9 \\%$ ；冬小麦生育期用3 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水灌溉2次，与淡水灌溉2次相比，夏玉米减产 $1 1 . 1 7 \\%$ 冬小麦生育期灌溉2水条件下，用3 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水替换1次淡水灌溉，夏玉米平均减产 $2 . 1 9 \\%$ ，其中冬小麦拔节期用3 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水灌溉，灌浆期用淡水灌溉处理的夏玉米产量与2次淡水灌溉处理的产量相比不减产，而拔节期用淡水灌溉灌浆期用微咸水灌溉的夏玉米产量与2次淡水灌溉处理相比减产$4 . 6 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2015年与2014年夏玉米产量趋势相似。冬小麦生育期用 $3 { \\sim } 5 \\ \\mathrm { g { \\cdot } L ^ { - 1 } }$ 的微咸水灌溉1次与淡水灌溉1次相比，夏玉米平均减产 $9 . 5 \\%$ ，冬小麦生育期用微咸水灌溉2次的夏玉米产量与淡水灌溉2次产量差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2af774b67aed3441fddb6d639a7fb335cb1b08b6188230714e9d4d4aac7175c3.jpg",
+        "table_caption": [
+            "表32014年和2015年冬小麦不同微咸水灌溉对下茬夏玉米产量与产量构成的影响Table 3Effectofbrackish water irigationof winter wheat on yieldandyieldcompositions ofthe following cropof summermaize in 2014 and 2015"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>处理 Treatment</td><td>产量Yield (kg:hm-2)</td><td>穗数 Spike (spike:m-2)</td><td>穗粒数 Kernels per spike</td><td>千粒重 1000-seed weight (g)</td></tr><tr><td>2014</td><td>CK</td><td>8 529.3±611.2a</td><td>6.15±0.98a</td><td>484.30±0.15b</td><td>319.3±6.69c</td></tr><tr><td></td><td>F1</td><td>9 964.8±220.0a</td><td>5.16±0.12a</td><td>515.23±26.23ab</td><td>317.7±9.72cd</td></tr><tr><td></td><td>B21</td><td>7 799.1±1 446.4a</td><td>5.15±0.49a</td><td>517.39±44.64ab</td><td>314.0±1.60cd</td></tr><tr><td></td><td>B31</td><td>8 760.9±162.7a</td><td>5.15±0.45a</td><td>541.64±46.94ab</td><td>308.6±15.80d</td></tr><tr><td></td><td>B41</td><td>8 583.6±1 667.8a</td><td>5.26±0.37a</td><td>580.58±17.32ab</td><td>329.2±8.15ab</td></tr><tr><td></td><td>F2</td><td>10 114.9±138.0a</td><td>5.31±0.42a</td><td>605.37±29.78a</td><td>313.1±6.04cd</td></tr><tr><td></td><td>B32</td><td>8 984.7±247.7a</td><td>5.01±0.30a</td><td>580.53±82.36ab</td><td>308.8±3.07d</td></tr><tr><td></td><td>F1B31</td><td>9 649.0±108.1a</td><td>5.19±0.02a</td><td>562.36±41.93ab</td><td>322.4±0.83bc</td></tr><tr><td></td><td>B31+F1</td><td>10 137.4±473.8a</td><td>5.23±0.59a</td><td>581.15±1.12ab</td><td>319.3±7.66</td></tr><tr><td></td><td>F3</td><td>10 155.3±380.1a</td><td>5.31±0.68a</td><td>567.47±7.60ab</td><td>334.0±4.48a</td></tr><tr><td>2015</td><td>CK</td><td>10 669.2±536.2a</td><td>5.67±0.28a</td><td>584.92±30.47a</td><td>358.98±8.23a</td></tr><tr><td></td><td>F1</td><td>11 029.6±809.2ab</td><td>5.95±0.23a</td><td>552.25±15.67ab</td><td>365.82±13.92a</td></tr><tr><td></td><td>B31</td><td>9 903.8±430.5b</td><td>5.92±0.15a</td><td>502.50±22.47c</td><td>367.37±7.89a</td></tr><tr><td></td><td>B41</td><td>10 152.5±594.6ab</td><td>6.00±0.23a</td><td>509.47±22.12bc</td><td>357.70±3.77a</td></tr><tr><td></td><td>B51</td><td>9 898.3±336.8b</td><td>5.59±0.18a</td><td>523.31±6.73bc</td><td>357.18±7.87a</td></tr><tr><td></td><td>B42</td><td>10 176.9±70.0ab</td><td>6.03±0.14a</td><td>545.60±27.87bc</td><td>364.30±6.92a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同矿化度微咸水灌溉对土壤盐分平衡的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冬小麦拔节期实施微咸水灌溉后，随着气温升高，蒸发强烈，土壤盐分随水分蒸发上升，表层土壤含盐量升高。图1为微咸水灌溉3年后(2013—2015年)冬小麦和夏玉米收获后土壤含盐量。图1a显示0\\~60cm土壤含盐量均高于播种前，随着灌溉水含盐量的提高，土壤的含盐量增高。 $6 0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土层的含盐量变化不大，灌溉2次微咸水的土壤含盐量平均高于灌溉1次处理的平均。至夏玉米收获时，微咸水灌溉处理的土壤含盐量(图1b)显示， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤含盐量较冬小麦收获时有所下降，盐分主要累积在",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 0 { \\sim } 8 0 ~ \\mathrm { c m } _ { \\circ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014—2015年土壤盐分变化见图1c和1d。冬小麦生育期不灌水处理的土壤含盐量代表冬小麦播种前的土壤含盐量，冬小麦收获时不灌溉和灌溉1\\~2次淡水处理的土壤含盐量基本一致, $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤含盐量平均为 $1 . 0 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，低于雨养旱作处理，说明冬小麦生育期用淡水灌溉 $_ { 1 \\sim 2 }$ 次对土壤中的盐分具有淋洗作用。用 $3 { \\sim } 5 ~ \\mathrm { g { \\cdot } L } ^ { - 1 }$ 微咸水灌溉的土壤 $0 \\sim 6 0 ~ \\mathrm { c m }$ 含盐量显著增加，平均为 $1 . 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，表层 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤含盐量最高，达 $1 . 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏玉米播种后用淡水灌溉1次，将土壤盐分淋洗至 $2 0 \\ \\mathrm { c m }$ 土层以下，再经过夏季集中雨季的淋洗，至夏玉米收获时， $\\scriptstyle 0 \\sim 8 0 \\ { \\mathrm { c m } }$ 以上土层处于脱盐状态。各处理的土壤含盐量均下降, $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤含盐量平均为 $1 . 0 \\ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ ， $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 的含盐量均下降至 $0 . 9 \\ : \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 。均低于冬小麦播种前的土壤含盐量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "两年的不同微咸水灌溉对土壤盐分平衡的影响结果差异较大，主要是两年的降雨量不同所致。2014年和2015年夏玉米生育期(6—9月)降雨量分别为 $1 5 5 . 9 ~ \\mathrm { m m }$ 和 $4 5 1 . 3 ~ \\mathrm { m m }$ (图6),2014年夏玉米生育期干旱，盐分淋洗量很小，在土壤中积累，而2015年夏季 $4 5 1 . 3 ~ \\mathrm { m m }$ 的集中降雨，使土壤中的盐分淋洗量大于累积量，土壤基本脱盐。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c53269591fbfc4427e9d2ee4d7305e39cf4edcd7ca2159ae896a43c7de8f5bed.jpg",
+        "img_caption": [
+            "图12013—2014年度(a,b)和2014—2015年度(c,d)不同灌溉处理下冬小麦(a,c)和夏玉米(b,d)收获后的土壤含盐量Fig.1Soilsaltcontentsatharvestof winterwheat (a,c)andsummermaize(b,c)underdiferentirigationtreatments ingrowingseasons of 2013-2014 (a,b) and 2014-2015 (c,d)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2为冬小麦/夏玉米两个生长季 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和$0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤盐分的动态变化。结果显示， $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 受作物生长和田间管理的影响较大，土壤中的盐分含量波动也较大，冬小麦收获时的土壤含盐量高于玉米收获时，主要是因为冬小麦生育后期，随着气温的升高，土壤蒸发强烈，土壤盐分随着水分蒸发上移。而后经过玉米生育期集中降雨，上升的盐分随着降雨下移， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤盐分降低，周而复始。2015年雨季降雨量大于2014年，对土壤盐分的淋洗强度较大。与 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 相比， $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤盐分的变化比较平稳。由于2015年雨季降雨较多，夏玉米收获后的土壤含盐量最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3灌溉和降雨对土壤盐分平衡的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在冬小麦和夏玉米一年两熟种植中，冬小麦拔节期用微咸水灌溉后，土壤盐分随着后期土壤蒸发累积于表层土壤，含盐量超过夏玉米的耐盐阈值，会影响夏玉米的正常出苗及苗期生长，造成夏玉米减产。如何消减冬小麦微咸水灌溉后土壤盐分累积对夏玉米出苗影响是微咸水安全高效利用的重要保证。降雨和增加灌溉淋洗都可以降低土壤表层含盐量，缓解土壤盐分对下茬作物的影响(图3)。图4为冬小麦收获后不同灌溉量对 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤含盐量的影响，结果表明，地面灌溉用 $7 0 ~ \\mathrm { m m }$ 的灌溉量，灌溉后第5d土壤表层盐分已经降低到玉米生长安全阈值以下 $( 1 . 0 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 } )$ 如果采用局部灌溉措施，可进一步减少灌溉水量。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ee3042e1be8e9dcab53b95d729af5a88aaf62efc804d31c813154f873808a70.jpg",
+        "img_caption": [
+            "图2不同灌溉处理下不同时期 $\\mathbf { 0 } { \\sim } 2 \\mathbf { 0 } ~ \\mathbf { c m }$ (a)和 $\\mathbf { 0 { \\sim } 1 0 0 ~ c m }$ (b)土壤盐分的动态变化Fig.2Changes of soil salt contents in $0 { - } 2 0 ~ \\mathrm { c m }$ (a)and $0 { - } 1 0 0 ~ \\mathrm { c m }$ (b) at different times under different irrigation treatments"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a81f792e12e50d212f716a3b3cb46dc2acad78ba8ddb089a36141f450080486.jpg",
+        "img_caption": [
+            "图3降水增加对 $\\mathbf { 0 } { \\sim } 2 \\mathbf { 0 } ~ \\mathbf { c m }$ 和 $\\mathbf { 2 0 { \\sim } 4 0 ~ c m }$ 土壤盐分的影响 Fig.3Soil salt contents in $0 { - } 2 0 ~ \\mathrm { c m }$ and $2 0 { - } 4 0 ~ \\mathrm { c m }$ under irrigation or precipitation after winter wheat harvest in the field experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4 ■灌溉1d后One dayafter irrigation   \nrg geeege 1.2 □灌溉5d后Five daysafter irrigation 1.0 0.8   \nS 0.6 0.4 0.2 0 50 60 70 80 90 灌溉量 Irrigation volume (mm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5为2013年、2014年和2015年小麦播种前$0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤含盐量。3个年度 $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤含盐量平均为 $0 . 9 3 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、 $1 . 1 2 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $0 . 9 6 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9a0392b3067fe8912b30a693b58ae5fde7caee6212bb17b6b408ba0a953d39d.jpg",
+        "img_caption": [
+            "图4不同灌水量灌溉1d和灌溉5d后对 $\\mathbf { 0 } { \\sim } 2 \\mathbf { 0 } ~ \\mathbf { c m }$ 土壤盐分的淋溶作用",
+            "Fig.4Soil $( 0 { - } 2 0 ~ \\mathrm { c m } )$ salt leaching under different irrigation volumes after irrigation one day and five days ",
+            "图52013年、2014年和2015年冬小麦播种前土壤含盐量Fig.5Soil salt contents before sowing of winter wheat in2013,2014 and 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤含盐量分别为 $0 . 8 9 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、 $1 . 1 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 和 $0 . 8 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，2013年和2015年冬小麦播种前 $0 \\sim$ $1 0 0 ~ \\mathrm { { c m } }$ 土壤含盐量均低于 $1 . 0 \\ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，而2014年则大于 $1 . 0 \\ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ 。图6为2013年、2014年和2015年夏玉米生长季降雨量，3个年度夏玉米生育期降雨量分别为$5 4 3 . 7 ~ \\mathrm { m m }$ 、 $1 5 5 . 9 ~ \\mathrm { m m }$ 和 $4 5 1 . 3 ~ \\mathrm { m m }$ ，由于2014年夏玉米生育期降雨量较少，造成盐分在土壤中累积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4冬小麦灌溉制度研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "河北低平原冬小麦-夏玉米一年两熟种植中，冬小麦生育期干旱少雨，降雨不能满足作物需求，主要依靠灌溉来维持作物正常生长。因此，研究冬小麦的灌溉制度，提出最佳灌溉制度，可缓解淡水资源供需矛盾。试验设雨养旱作、拔节期灌溉1水、拔节期和抽穗期灌溉2水、拔节期、抽穗期和灌浆期灌溉3水处理，次灌溉量 $7 0 { \\sim } 7 5 \\ \\mathrm { \\ m m }$ ，灌溉水质为淡水。图7为不同灌溉次数对冬小麦产量的影响。结果显示，旱作处理的产量最低，灌溉1水、灌溉2水和灌溉3水处理4个生长季平均产量分别为$6 ~ 0 2 0 . 5 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $6 \\ 5 9 3 . 4 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $6 \\ 5 1 0 . 2 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，处理间产量差异不显著，灌溉2水的产量达到最高。灌溉1水比旱作平均增产 $2 6 . 2 \\%$ ，最高增产 $41 . 1 \\%$ (2012—2013年)，最低增产 $1 3 . 6 \\% ( 2 0 1 3 - 2 0 1 4 \\overleftarrow { \\Phi } )$ 。灌溉2水比灌溉1水平均增产 $9 . 5 \\%$ ，最高增产$1 8 . 0 \\% ( 2 0 1 1 { \\ - } 2 0 1 2 ^ { \\frac { \\prime } { \\mathbf { i } } }$ 手)，最低增产 $4 . 7 \\%$ (2013—2014年)，灌溉3水与灌溉2水平均产量基本相同，最高增产 $8 . 0 \\% ( 2 0 1 3 - 2 0 1 4 \\overleftarrow { \\Phi }$ )。随着灌溉次数的增加，增产幅度减小，增加灌溉的增产效益减小。因此，在淡水资源紧缺地区冬小麦生育期灌溉1水比雨养旱作产量提高 $1 3 . 6 \\% { \\sim } 4 1 . 1 \\%$ ，灌溉2水可以获得稳定高产。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/10c845796475e5abf20c40acd45e924ce98fad8cad2c33b840e59eef629d097f.jpg",
+        "img_caption": [
+            "图62013年、2014年和2015年夏玉米生育期降雨量Fig.6Rainfall during summer maize seasons in 2013,2014 and 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/616d47207a458bb1ff44a468302df72a9f52c36cc85154f90e9ce6c86b114b3d.jpg",
+        "img_caption": [
+            "图7不同年份不同灌溉次数对冬小麦产量的影响Fig.7 Effect of irrigation times on winterwheat yields indifferent years"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "河北低平原冬小麦-夏玉米一年两熟种植制度中，冬小麦生长在较干旱的冬春季节，降雨量不能满足正常生长发育需求，补充灌溉对增加冬小麦产量具有决定性作用。然而本区地下水严重超采，国家在该区域实施地下水压采后，限制了淡水资源的开采，微咸水资源成为灌溉的主要水源。研究表明，冬小麦微咸水灌溉的阈值高于夏玉米，并且作物不同生育阶段耐盐性不同，将冬小麦生长期分为播种-返青期、返青-拔节期、拔节-抽穗期和抽穗-成熟期，各个生长阶段土壤盐分的影响指数分别为0.1426、0.3270、0.0265和0.012，小麦返青期前后较大，是生长发育的低耐盐力阶段，小麦拔节期后值较小，是生长发育的耐盐阶段，是微咸水灌溉的适应期[17]。本研究发现，冬小麦拔节期用小于5 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水灌溉具有明显的增产作用，即拔节期用微咸水灌溉1次可以替代淡水灌溉，并保证冬小麦获得较高产量。研究结果与其他报道的微咸水灌溉对冬小麦产量的影响一致[18-19]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然而，微咸水灌溉冬小麦后引起的土壤积盐对下茬玉米产生负作用，造成夏玉米产量的降低。Ma等[1]和Pang等[3]在河北省开展的研究结果与本研究结果一致。本文进一步研究了夏玉米播种后用 $7 0 ~ \\mathrm { m m }$ 左右的淡水灌溉可以将 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤盐分降低到夏玉米的阈值之下，缓解由于冬小麦生育期用微咸水灌溉造成的夏玉米产量降低，并且与当地的农业管理需求一致。因为冬小麦生育后期随着气温的升高，土壤蒸发和作物蒸腾剧烈，导致冬小麦收获时土壤水分几乎耗尽，夏玉米播种后必须灌溉才能保证出苗及苗期生长。因此，此时进行淡水灌溉，即可满足夏玉米出苗需水需求，又可以消減上茬小麦微咸水灌溉积累的盐分。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "陈秀玲等[20研究表明，在河北省沧州地区，微咸水灌溉累积的土壤盐分，主要靠雨季集中降雨的淋洗，而淋洗脱盐的效果主要取决于雨季降雨量、次降雨量等因素。一般次降雨量大于 $2 5 \\ \\mathrm { m m }$ 可以起到淋洗作用，6—9月份降雨量大于 $3 0 0 ~ \\mathrm { { m m } }$ 时，基本保证土壤盐分平衡。分析沧州地区1996—2014年降雨量和夏季(6—9月)降雨量变化(图8)，年降雨量平均为 $5 3 3 . 4 ~ \\mathrm { m m }$ ，夏季降雨量平均为 $3 9 5 . 3 ~ \\mathrm { \\ m m }$ ，其中$73 \\%$ 的年份夏季降雨量大于 $3 0 0 \\ \\mathrm { m m }$ ， $57 \\%$ 以上的年份大于 $4 0 0 ~ \\mathrm { { m m } }$ ，为土壤淋盐和脱盐创造了条件。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4db968691e4d505d7069c95802ecb4fd08ab05d6fb64d88d0683694b7b34a67.jpg",
+        "img_caption": [
+            "图8河北省南皮县1996—2014年降雨量变化Fig.8Change of rainfall in Nanpi County,Hebei Province from 1996 to 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "开发利用微咸水资源进行灌溉，在一定程度上可以缓解淡水资源短缺的矛盾，但是微咸水灌溉，容易造成土壤盐分的升高。因此，确保微咸水灌溉对作物和环境的安全，对保证农业持续发展具有重要意义。通过研究得出以下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "河北低平原区冬小麦-夏玉米一年两熟制中，冬小麦一般年份在拔节期和抽穗扬花期灌溉2水即可获得稳产高产。利用不大于5 $\\mathbf { g } { \\cdot } \\mathbf { L } ^ { - 1 }$ 的微咸水替代其中一次淡水灌溉可保证作物不减产，微咸水在拔节期灌溉的效果优于在抽穗扬花期灌溉。冬小麦微咸水灌溉后，由于其生长期间耗水量大，盐分在土壤表层的积累明显，超过了下茬夏玉米的耐盐阈值，玉米播种后用 $6 7 5 { \\sim } 7 5 0 ~ \\mathrm { ~ m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的淡水灌溉，能将$0 { \\sim } 2 0 ~ \\mathrm { c m }$ 的土壤盐分淋洗至夏玉米耐盐阈值之下，不影响夏玉米苗期生长，夏玉米生育期又逢雨季，夏季降雨量小于 $3 0 0 ~ \\mathrm { ~ m m }$ ，土壤有积盐，降雨量超过 $3 0 0 ~ \\mathrm { ~ m m }$ ，由于降雨的洗盐作用，可达到周年不积盐，使土壤淋洗脱盐[16]，为实施微咸水安全灌溉和粮食增产提供了技术支撑。但是微咸水灌溉后会对土壤和环境产生长期影响，应进行长期的监测和验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Ma WJ,Mao ZQ,Yu ZR,et al.Effects of saline water irrigation on soil salinity and yield of winter wheat-maize in North China Plain[J]. Irrigation and Drainage Systems,2008, 22(1): 3-18   \n[2]郑春莲，曹彩云，李伟，等．不同矿化度咸水灌溉对小麦和 玉米产量及土壤盐分运移的影响[J]．河北农业科学，2010, 14(9): 49-51 Zheng CL,Cao C Y,Li W,et al.Effects of saline water irrigation on the yield of wheat and maize and soil salt movement[J]. Journal of Hebei Agricultural Sciences,2010, 14(9): 49-51   \n[3]PangHC,LiYY,YangJS,et al.Effect of brackish water irrigation and straw mulching on soil salinity and crop yields under monsoonal climatic conditions[J].Agricultural Water Management,2010,97(12):1971-1977   \n[4]王全九，徐益敏，王金栋，等．咸水与微咸水在农业灌溉中 的应用[J]．灌溉排水,2002,21(4):73-77 Wang QJ,Xu YM,WangJD,etal.Application of saline and slight saline water for farmland irrigation[J].Irrigation and Drainage,2002,21(4): 73-77   \n[5]王卫光，王修贵，沈荣开，等．微咸水灌溉研究进展[J]．节 水灌溉,2003(2):9-11 WangWG,Wang XG,ShenRK,et al.Progress of research on light salt water irrigation[J].Water Saving Irrigation, 2003(2): 9-11   \n[6]陈素英，张喜英，邵立威，等．微咸水非充分灌溉对冬小麦 生长发育及夏玉米产量的影响[J]．中国生态农业学报, 2011,19(3): 579-585 ChenS Y,Zhang X Y,Shao L W,et al.Effect of deficit irrigation with brackish water on growth and yield of winter wheat and summer maize[J]. Chinese Journal of EcoAgriculture,2011,19(3): 579-585   \n[7] 尚伟，石建初，牛灵安，等．灌溉水矿化度及盐分带入量对 小麦相对产量影响的统计分析[J]．灌溉排水学报，2009, 28(5): 41-44 Shang W,Shi JC,Niu L A,et al. Statistical analysis of the relationship between irrigated saline water's mineralization degree/salt mass and the relative yield of wheat[J].Journal of Irrigation and Drainage,2009,28(5): 41-44 [8]乔冬梅，吴海卿，齐学斌，等．不同潜水埋深条件下微咸水 灌溉的水盐运移规律及模拟研究[J]．水土保持学报，2007, 21(6): 7-10 Qiao D M,Wu HQ,QiXB,et al. Simulation and movement regularity of soil water and soil salt by brackish water irigation under condition of different groundwater depth[J]. Journal of Soil and Water Conservation,2007,21(6): 7-10   \n[9]毛振强，宇振荣，马永良．微咸水灌溉对土壤盐分及冬小 麦和夏玉米产量的影响[J]．中国农业大学学报,2003,8(S1): 20-25 Mao ZQ,Yu ZR,Ma YL.Influence of brackish water on the soil salt regime and yield of winter wheat and summer maize[J]. Journal of China Agricultural University,2003, 8(S1): 20-25   \n[10]郭永晨，刘文娟．引江调水与综合开发利用咸淡水资源[J]. 河北水利水电技术,2002(1):12-14 Guo Y C,Liu W J. South-north water transfer project and develop and use local salt-fresh water resources synthetically[J]. Hebei Water Resources and Hydropower Technology, 2002(1): 12-14   \n[11]Fang S,Chen X L.Using shallow saline groundwater for irrigation and regulating for soil salt-water regime[J]. Irrigation and Drainage Systems,1997,11(1): 1-14   \n[12] Chauhan C P S,Singh R B,Gupta S K.Supplemental irrigation of wheat with saline water[J].Agricultural Water Management,2008,95(3): 253-258   \n[13]方生，陈秀玲，范振铎，等．旱涝碱咸综合治理与生态环境 良性循环[J]．南水北调与水利科技,2005,3(S):12-18 Fang S,Chen XL,Fan Z D,et al.Comprehensive control of drought,waterlogging,salinity and saline groundwater and good circulation of eco-environment[J]. South-To North Water Transfers and Water Science &Technology,2oo5,3(S): 12-18   \n[14] Kiani A R,Mirlatifi S M.Effect of different quantities of supplemental irrigation and its salinity on yield and water use of winter wheat (Triticum Aestivum)[J]. Irrigation and Drainage, 2012,61(1):89-98   \n[15]Katerji N,van Hoorn JW,Hamdy A,et al. Salinity effect on crop development and yield,analysis of salt tolerance according to several classification methods[J].Agricultural Water Management, 2003,62(1): 37-66   \n[16] Ahmed B A O,Inoue M,Moritani S.Effect of saline water irrigation and manure applicationon the available water content,soil salinity,and growth of wheat[J].Agricultural Water Management, 2010,97(1): 165-170   \n[17]郭永辰，陈秀玲，高巍．咸水与淡水联合运用的策略[J]. 农田水利与小水电,1992(6):15-18 Guo Y C, Chen X L, Gao W. Strategy of conjunctive use of saline and fresh water[J]. China Rural Water and Hydropower, 1992(6): 15-18   \n[18]刘静，高占义．中国利用微咸水灌溉研究与实践进展[J]. 水利水电技术,2012,43(1):101-104 Liu J,Gao Z Y.Advances in study and practice of brackish water irigation in China[J].Water Resources and Hydropower Engineering,2012,43(1):101-104   \n[19]Wang X P,Yang J S,Liu G M,et al.Impact of irrigation volume and water salinity on winter wheat productivity and soil salinity distribution[J].Agricultural Water Management, 2015,149:44-54   \n[20]陈秀玲，郭永辰．咸水灌溉技术[J]．中国农村水利水电, 1993(7): 7-10 Chen X L,Guo Y C. Saline water irrigation technology[J]. China Rural Water and Hydropower,1993(7): 7-10 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

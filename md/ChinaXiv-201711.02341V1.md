@@ -1,0 +1,197 @@
+DOI:10.13930/j.cnki.cjea.170128
+
+张晓彤，段进明，宇林军，鲁永飞，王晓军．基于三维电子沙盘的参与式乡村历史景观评估：以贵州省对门山村为例[J]. 中国生态农业学报,2017,25(10):1403-1412   
+Zhang XT,DuanJM,YuLJ,LuYF,Wang XJ.Participatory evaluationof rural historiclandscape basedon the 3D e-Sandbox:Acase studyin Duimenshan Vilage in GuizhouProvince[J].Chinese Journal ofEco-Agriculture,2017,25(10): 1403-1412
+
+# 基于三维电子沙盘的参与式乡村历史景观评估：以贵州省对门山村为例
+
+张晓彤1,2.3，段进明³，宇林军4，鲁永飞²，王晓军5\*\*(1.天津大学建筑学院天津30072;2.国家住宅与居住环境工程技术研究中心北京100044;3.北京建筑大学建筑与城市规划学院北京10044;4.中国科学院遥感与数字地球研究所北京100094;5.山西大学环境与资源学院太原030006)
+
+摘要：梳理乡村历史景观的变化规律可以为乡村可持续发展提供决策治理依据和路径。如何利用被当地村民更容易接受的方式挖掘其景观记忆和乡土知识，复原其乡村历史景观，并对其进行整体评估，至今存在研究方法和支撑手段的难点。本文以贵州省贞丰县对门山村为例，利用自主研发的三维电子沙盘工具，结合参与式乡村评估技术，由当地村民自主复原了1958年、1980年、1995年和2015年4个时期的历史景观。使用三维电子沙盘的分析工具对复原的历史景观进行土地利用、生态服务价值和景观格局指标的分析。结果显示：不同时期历史景观客观评估数据的变化与本村导致景观变化的重要历史事件具有极强的关联性：虽然 1980 年分田到户，但由于当地条件限制，村民的生产生活方式并没有结构性变化，也使得村庄的景观没有明显变化。而1995年开始大范围种植烟草后，对门山村水田比例快速下降，现阶段基本和旱地比例持平。这也直接导致水田(湿地的一种类型)作为生态服务价值重要贡献者数量减少，整个范围生态服务价值下降明显。此外，由于近20年来，各类公共管理与服务设施的快速增加和均匀分布，使得景观多样性呈显著增长。可以认为，三维电子沙盘在本次对乡村历史景观调查中首次获得了较好的应用，通过有效的技术手段解决了以往规划者与当地村民信息交流和沟通过程不畅的技术问题。
+
+关键词：参与式；乡村历史景观；景观复原；三维电子沙盘；乡村规划和景观设计中图分类号：K901.9 文献标识码：A 文章编号：1671-3990(2017)10-1403-10
+
+# Participatory evaluation of rural historic landscape based on the 3D e-Sandbox: A case study in Duimenshan Village in Guizhou Province
+
+ZHANG Xiaotong1,2,3, DUAN Jinming³,YULinjun4,LU Yongfei², WANG Xiaojuns\*\* (1.SchoolofArchitecture,Tianjin University,Tianjin30o72,Chia;2.NationalEngineringResearch CenterforHousing andResidentialEnvironment,BeijingOo44,China;3.SchoolofArchitectureand UrbanPlaning,Beijing UniversityofCivil EngineeringandArchitecture,Beijing l0o044,China; 4.InstituteofRemote Sensingand DigitalEarth,Chinese Academyof Sciences,Beijing10o094,China;5.ColegeofEnvironmentandResources,Shanxi University,Taiyuan306,China)
+
+Abstract:Understanding the trend in historical rural landscape evolutioncould support decision-makingand governance for sustainablerural development.Local vilagersarethe necessrysourceof knowledgeonthechanges in historicalrural landscape,theycanplayan extremely importantrole intherestorationofrurallandscapes.However,the platformforintuitively and interactivelysupportingvariousstakeholders inparticipating intherestorationofhistoricalrurallandscapes isstillsort. Theobjectiveofthis study wasto excavate thelandscape memoryand local knowledge,and then torestore and evaluate the rural historical landscapechanges using more aceptable way forlocal vilagers.Thispaper took Duimengshan Village, Zhenfeng CountyofGuizhouProvinceas thecase study.The landscapes were analyzed infourhistoricalperiods (1958,1980,1995 and2015)forrestorationusingthe3De-Sandbox toolandparticipatoryruralappraisal.Theresultsshowedthatlocalvillagers could easily participate in landscape restoration proceses usingthe3De-Sandbox tool.Although the land wasdivided into households from1980,theproductionand lifestyleof thevillagers hadnostructuralchanges duetothelocalconditions,leading toinsignificantly landscape changes.However,the proportionof paddy fields in Duimenshan Vilage decreased rapidly sincethe introductionof large-scale tobaccocultivation in1995.This also directlyledtotheecological services value decreased significantlyas the paddyfield(a typeof wetland)asanimportantcontributor tothevalueofecologicalservices. Moreover,because oftherapidly increaseand uniform distributionof public service facilities inthe past2Oyears,thelandscape diversityhad increasedsignificantly.It wasconcludedthatthe3De-Sandboxcouldsolve technicalproblems inparticipatory rural historic landscape restoration like the poor communications between planner and local people.
+
+Keywords: Participatory; Rural historic landscape; Landscape restoration; 3De-Sandbox; Rural planning andlandscape design
+
+乡村的过去和现状是当地人长期生产生活的结果，乡村未来发展的创造者仍是当地人。寻找乡村未来可持续发展的路径，不仅要了解乡村现状，还要熟悉其历史变迁，才能更好地把握乡村发展机理。乡村景观历史发展为我们提供了一个掌握乡村历史发展变革的介质[1-5]。乡村景观作为乡村特有的可积累、可辨识的景观要素有序叠加，客观地记录了乡村在时间和空间上的产生背景、演变原因、基本过程以及内部机制，有助于我们理解伴随经济活动产生的景观过去是怎样形成的，到现在发生了什么样变化，以及为什么发生这些变化[6-7]，从而为预测乡村未来发展方向以及制订相应的治理对策提供科学依据。
+
+目前的生态史研究立足于多学科的沟通，寻求自然与人文两种文化的对话，探索人类与其生存空间中诸多生态要素之间的生态关系及其历史演变轨迹[8]。乡村景观生态知识主要是依赖自然科学来获取的，诸如采用历史变域(historicalrangeofvariability)方法可以研究乡村历史景观在时间和空间尺度上的变化；还可以通过非科学的途径来获取乡村历史景观[9]，比如农民日常劳作中获得的地方性景观生态知识和经验。
+
+作为长期在特定地域内从事生产、生活活动的当地村民，是当地景观的直接创造者、使用者和维护者，他们中的许多人不仅亲历了过去和现在的景观，总结和积累了丰富的乡村景观知识，而且世世代代运用这些知识建设着这里的景观[2,.10-11]。村民最清楚其所在乡村内的景观变迁历程，最了解这里农耕景观存在的问题，也最有资格解释其背后的自然与人文驱动因素[12]，是当地的"景观生态学家”。他们在处理当地特殊的人地关系方面的特殊智慧，对维持和改善当地景观以及村民自身的生计有不可替代的重要作用[7,13-15]。因此，科学工作者、规划师要对一个特定乡村景观形成、变迁及其驱动因素进行研究，需要通过非专业人士易于理解的手段，深入挖掘留存于社区成员集体记忆中的乡土景观知识，形成基于这些知识的新研究途径，这对拓宽和丰富景观变迁研究方法和内容都有重要意义。
+
+与利用遥感影像来评价现状景观一样[16-18]，通过不同时期的遥感影像来复原历史景观是历史景观研究最重要的方法之一[3,19-20]。然而，遥感影像的大范围应用仅仅是近十几年的事，对于乡村的覆盖率十分有限，无法满足历史景观资料的纵深获取。因此，乡村历史景观恢复离不开当地居民的参与。White[211、Wang 等[10]、王晓军等[22]创造性地采用参与式地理信息系统(PGIS)方法和高清晰正射影像，结合参与式农村评估(PRA)工具的运用，挖掘村民记忆中的乡土景观知识，作为其村庄历史景观研究的数据来源。随着信息技术的发展，PGIS已经可以通过桌面应用[23]、手机应用[24]、Web应用[25]等多种方式应用到参与式景观生成过程。
+
+景观的可视化表达是人们对景观的认知、描述与交流的基础。因此，可视化表达方式对历史景观复原研究起着至关重要的作用。随着技术的进步，景观的可视化方式也从原始的草图、纸质地图，向电子化地图(如CAD图)、GIS地图及三维模型方向发展。目前PGIS通常以二维地图为主要表达方式[10.21],但由于二维地图具有高度的抽象性，因而很难向不同利益相关者来表达规划参与者的意图，特别是在乡村历史景观复原过程中，参与者大部分是缺乏专业制图、辨图知识的当地村民，某种程度上限制了公众的参与度[26-27]。以二维地图为表现形式限制了传统的PGIS在乡村景观研究中的应用。如果这种基于PGIS的方法能够实时而直观地向村民反馈可视化信息评估者与村民的交流将更顺畅，知识沟通将更快捷[5,28-30]。可以说，可视化表现已成为PGIS发展的核心问题之一[31]。
+
+很多学者在开发或应用三维景观建模技术方面进行了大量的探索和研究工作[3.28.32-39]。但传统的使用三维建模软件(如3DMax,CAD等)三维景观生成方法费时、费力，因而通常用于最终景观规划方案的静态展示，很难以互动的方式应用于公众参与过程的交流。基于三维可视化技术的PGIS，即三维PGIS将在乡村历史景观复原、参与式景观规划等方面有广阔的应用前景。
+
+本研究以贵州对门山村为例，将更易于当地村民理解和运用的三维电子沙盘工具结合参与式农村评估技术，从时空两个维度复原村民记忆中的乡村历史景观。同时，使用三维电子沙盘的分析工具对复原历史景观中的土地利用、生态服务价值、景观格局等要素和指标进行分析。将客观分析的数据与参与者对村庄发生重大事件和不同时期农事历的回忆进行比对，以验证三维电子沙盘工具结合参与式农村评估技术复原乡村历史景观的有效性和真实性，为乡村历史景观研究提供方法依据。
+
+# 1 研究方法
+
+本研究基于PGIS方法和当年高清晰遥感正射影像图，运用参与式农村评估技术(PRA)中的半结构访谈、农事季节历、大事记、小组讨论等工具在村庄展开景观调查与评估。由于乡村历史景观复原需要当地居民高度参与，本研究所应用的乡村历史景观复原和评估工具为北京人居科技发展有限公司自主研发的“乡邑人居-参与式村镇空间设计电子沙盘”，本文简称“乡邑三维电子沙盘”。
+
+易学性和互操作性被视为景观三维可视化最重要的两个特征[40]。“乡邑三维电子沙盘"基于三维GIS构建，为农村历史景观复原的参与者提供了一个易用、易理解的三维景观复原交流平台。农村历史景观的参与者，包括研究人员及当地村民可以在该平台上使用丰富的景观交互式生成工具，方便、快捷地在三维虚拟环境中创建当地历史景观要素三维模型，如道路、环境要素、边界线、建筑等。简单的鼠标点击绘制和拖动操作方式，甚至能够让当地村民亲自上手操作。三维可视化的表达方式能使参与人员，特别是没有任何专业知识背景的当地村民直观描述记忆中的当地历史景观。同时，电子沙盘基于GIS的空间数据管理与空间分析能力，为农村乡村景观复原后的实时评估提供丰富的分析工具，如二维土地利用分布图输出工具、土地利用平衡表分析工具、生态服务价值分析工具、空间句法分析工具等。
+
+具体方法为：首先，基于打印出的现状高清晰遥感正射影像图，以小组讨论形式，与参与的当地村民一起对可回顾期内村庄发生重大事件和不同时期农事历进行回顾。在此基础上，分析获得历史景观恢复时间节点。其次，研究者与村民一起，在乡邑三维电子沙盘中创建每个历史节点的景观。最后，基于乡邑三维电子沙盘中的分析土地利用变化、生态服务价值评价及景观格局分析等功能，对恢复的历史景观数据进行科学分析。
+
+# 2研究区概况与数据收集
+
+# 2.1 研究区概况
+
+研究区位于贵州省黔西南布依族苗族自治州贞丰县龙场镇对门山村，介于 $2 5 ^ { \circ } 2 7 ^ { \prime } 0 5 ^ { \prime \prime } { \sim } 2 5 ^ { \circ } 2 7 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { N }$ $1 0 5 ^ { \circ } 2 7 ^ { \prime } 5 3 ^ { \prime \prime } { \sim } 1 0 5 ^ { \circ } 2 8 ^ { \prime } 1 9 ^ { \prime \prime } \mathrm { E }$ ，下辖3个组：上寨、下寨、庞家湾。研究区地势总体上北低南高，是典型的低地丘陵地貌；区内海拔 $1 ~ 2 9 4 { \sim } 1 ~ 3 7 0 ~ \mathrm { m }$ ；属于亚热带季风湿润气候，气候温和，年平均气温 $1 6 . 6 ~ \ \mathrm { ~ \textdegree ~ }$ ；年降雨量 $1 ~ 0 0 0 { \sim } 1 ~ 4 0 0 ~ \mathrm { m m }$ ，无霜期 $2 6 0 { \sim } 3 4 0 ~ \mathrm { d } _ { \circ }$ 村内居民包括布依族、苗族、汉族等民族；现阶段以烤烟种植、加工为主要经济活动，间有水稻、玉米、薏米等作物种植。研究区距离贞丰县城仅 $2 0 \mathrm { k m }$ ，距兴义市约 $1 0 0 \mathrm { k m } _ { \circ }$
+
+# 2.2 数据收集
+
+本研究共邀请了9位当地村民参与对门山村的历史景观复原。包括前任及现任村长、干部2名，以及了解村内历史的60岁以上长者7名。参与者与研究者对村庄发生重大事件和不同时期农事历进行了回顾和记录。在此基础上，分类整理了影响当地历史景观变化的主要事件，作为当地历史景观恢复时间节点，并最终确定1958年、1980年、1995年和2015年为当地历史景观复原和评估时间节点(表1)。
+
+表1对门山村复原历史景观年代节点及确认依据 Table1Recognition basis toward the key years of historical landscape restoration of Duimenshan Village   
+
+<html><body><table><tr><td>选择年代Key year</td><td>确认依据Recognitionbasis</td></tr><tr><td>1958</td><td>大跃进时期，为了大炼钢铁，当地大量采伐山林 A large number of local forest were cut in order to make iron and steel in the Great Leap Forward</td></tr><tr><td>1980</td><td>联产承包责任制实行第1年，村民分田到户 It was the firstyearofthe systemofcontracted responsibility for production implementation,the villagers divided the</td></tr><tr><td>1995</td><td>fields into households 大量引进现阶段最为主要的经济作物—烤烟 Tobacco,as the most important cash crops,was introduced</td></tr><tr><td>2015</td><td>外出打工者激增 More local farmers choose to be migrant workers</td></tr></table></body></html>
+
+基于2015年高分辨率遥感影像，在乡邑三维电子沙盘中使用景观要素创建工具，创建对门山村现状景观(以2015年为代表)。首先使用村界工具建立研究区范围；然后，使用道路及辅助线工具，创建道路网络及环境要素(水域、河流等)，系统自动以道路及辅助线为边界实时创建地块对象；最后，使用建筑物生成工具，拖动建筑物数据库中的建筑物到地块中。以2015年景观为基础，研究者在村民的参与和指导下，基于现场回忆和讨论，在乡邑现状电子沙盘中通过增、删、移动及修改操作，恢复其他时期的景观。基于乡邑三维电子沙盘的历史景观恢复有两个要点：首先，由研究人员操作，村民现场讨论指导的方式，能够极大提高效率。其次，由于景观变化的历史延续性，基于后一期景观，通过修改的方式复原前一期历史景观的方式比完全重新建立的方式更节省时间。由近至远，先后完成了对门山村1995年、1980 年和1958年的景观复原(图1)。
+
+# 2.3 数据分析方法
+
+在三维电子沙盘上复原的历史景观会自动生成具有用地属性、可供景观格局分析的二维栅格化文件。此后，使用三维电子沙盘的分析工具，采用土地利用、生态服务价值、景观格局指数对对门山村历史景观进行分析。其中，根据《土地利用现状分类(GB/T21010—2007)》对研究区域不同时期的土地利用进行分类统计计算。张晓彤[41]根据谢高地等[42]、潘影等[43]"中国陆地生态系统单位面积生态服务价值当量表"基础上，修订得到“单位面积生态系统服务价值当量(修订)表”，并依此分别计算出研究区气候调节、水源涵养、土壤形成与保护、废物处理、生物多样性保护、食物生产、原材料、文化娱乐的生态服务价值。景观格局分析选择香农多样性指数、香农均匀度指数、景观丰度、斑块密度、蔓延度、连接度、景观形状指数等共7个景观空间格局指数[44-45]，在斑块(patch)尺度对景观多样性、破碎化、均匀度、聚集度和形状复杂性的变化进行分析。
+
+# 3 结果与分析
+
+# 3.1对门山村景观场景的变化
+
+# 3.1.1 2015年对门山村景观
+
+2015年对门山村景观如图1a-1和图1a-2所示。通村道路由北部、西部与南部引入村子，通组道路由通村道路引出，在东南部顺应山势串联上下两组住宅，串户路连接各民居，道路数量较多。道路路网格局整体呈现自由式，3级道路相互连通形成串联每户的自由式密集路网。
+
+住宅以1层、2层独栋式房屋为主，局部有3层、4层住宅，上下组住宅背山而建，房屋坐南朝北，由对门山村东南角方向的山脚向西延伸至两山中部、向北延伸至北部山脚下。庞家湾住宅沿西北一条通村道路向村内延伸至村庄西部山脚下。
+
+村庄范围内有小学1处，位于西北部；幼儿园1处，位于村庄中部；村委会1处，位于村庄中部；卫生室1处，位于村委会旁；小商店两处，位于西北部;村民活动广场1处，位于村庄西北部河沟南部。
+
+村内北部有两条东西向河流，西部有1 条南北向河流，过水面积不大。另外，村内有3处水塘分布在村庄北部。村庄的农业用地分布在村庄北部区域、中部局部区域以及南部山脚下区域，其中有近一半的用地为旱地，一半为水田。水田主要分布在东部地区以及西部的局部地区，旱地主要分布在西北部、中部以及南部山脚下区域。林地主要分布在对门山村南部两山的山坡上以及两山之间的南部区域。
+
+# 3.1.2 1995年对门山村景观
+
+1995年对门山村景观如图1b-1和图1b-2所示。通村道路由北部、西部与南部引入村子，通组道路由通村道路引出，在东南部串联上下两组，串户路连接各住宅，道路数量略少于2015年。道路路网格局与2015年相近，整体呈现自由式,3级道路相互连通形成串联每户的自由式密集路网。
+
+![](images/912528121c9d5c92ef1834835ba3c951202da653f7310c769196e4d6566b1207.jpg)  
+图1通过三维电子沙盘工具产出的2015年(a)、1995年(b)、1980年(c)和1958年(d)对门山村景观场景(-1)及平面图(-2)Fig.1Landscapescenario (-1)and planargraph (-2)of Duimentshan Vilage in2015(a),1995(b),198(c)and1958(d)by 3D e-Sandbox
+
+住宅以1层、2层独栋式房屋为主，上下组住宅背山而建，房屋坐南朝北，主要分布在村庄东南角的山脚以及两山之间的中南部区域。庞家湾住宅沿西北一条通村道路向村內延伸至西部山脚下。
+
+村内小商店1处，位于西北部。村内北部有两条东西向河流，西部有1条南北向河流，过水面积不大。村庄的农业用地分布在村庄北部、中部区域以及南部山脚下区域，面积多于2015年。农业用地中有近 $90 \%$ 的用地为水田。水田主要分布在村庄中部与北部区域，而旱地则仅分布在南部山脚下的很小区域内。林地主要分布在对门山村南部两山的山坡上以及南部两山之间的区域，面积比2015 年略大，
+
+2015 年村庄西南角的几处农业用地在1995 年时为林地。
+
+# 3.1.3 1980 年对门山村景观
+
+1980 年对门山村景观如图1c-1和图1c-2所示。村庄主要有通村道路与串户路两级。通村道路由北部、西部与南部引入村子，串户路主要集中在南部山脚下，用于连接各民居，由于民居数量少于1995年,1980年的道路数量略少于1995年。道路路网格局与1995年相比较简单，整体呈现自由式，两级道路相互连通形成串联每户的自由式路网。
+
+住宅以1层房屋为主，上下组住宅背山而建，房屋坐南朝北，主要分布在村庄东南角的山脚下以及两山之间的中南部区域，但房屋数自较少。庞家湾住宅沿西北一条通村道路向村內延伸至西部山脚下。
+
+村内小商店1处，位于西北部。村内北部有两条东西向河流，西部有1条南北向河流，过水面积不大。村庄的农业用地分布在村庄北部、中部区域以及南部山脚下区域，与1995年比较面积略大。农业用地中有近 $9 5 \%$ 的用地为水田，主要分布在村庄中部与北部区域；旱地则仅分布在南部山脚下的很小区域内。除水田面积有所增加外，水田旱地的分布与1995年相似。林地主要分布在对门山村南部两山的山坡上以及南部两山之间的区域，面积与1995年相比变化不大。
+
+# 3.1.4 1958年对门山村景观
+
+1958 年对门山村景观如图1d-1和图1d-2所示。村庄仍然有通村道路与串户路两级，但路面较窄。通村道路由北部、西部与南部引入村子，串户路主要集中在南部山脚下用于连接南部的各个住宅，道路数量较少。道路路网格局较简单，整体呈现环状式，两级道路相互连通形成串联每户的简单环状式路网。
+
+住宅以1层房屋为主，还有一些小的茅草房，房屋坐南朝北，数量较少，主要分布在村庄东南角的山脚下，另外在两山之间北部沿路还有一些小的茅草房。庞家湾只有零星几处房屋分布在村庄西部的山脚下。
+
+村内北部有两条东西向河流，西部有1条南北向河流，过水面积不大。整个村庄除南部山脚下与山间的零星住宅、河流以及山坡的林地外，其余地方均为农业用地，面积比1980年大。其中有近 $9 5 \%$ 的用地为水田，只有在南部山脚下的局部区域有旱地。林地主要分布在对门山村南部两山的山坡上以及南部两山之间的区域，1980年山脚下的许多民居在1958年时为林地，两山之间的南部区域林地在大跃进时期被砍伐。
+
+# 3.2 土地利用变化分析
+
+1958一2015年对门山村土地利用类型中，林地占有量总体呈减少趋势，住宅用地量和交通运输用地量总体呈增加趋势；公共管理与服务用地在1995—2015年间增长明显；由于烤烟种植的引进，1995—2015年间水田占耕地的比例由 $9 7 . 7 6 \%$ 下降到$4 3 . 7 9 \%$ ，而相应的旱地比例由 $0 . 2 1 1 \%$ 上升到 $5 5 . 5 9 \%$ 其他各用地类型变化不大(表2)。
+
+# 3.3 生态服务价值分析
+
+对门山村生态服务价值总体上呈现递减趋势，特别是1995一2015年间，生态服务价值减少 $50 . 5 4 \%$ 而1958—1995年间生态服务价值减少 $9 . 7 1 \%$ 。以1995—2015年为例，气候调节、娱乐文化、废物处理和水源涵养的生态服务价值下降最为明显，分别达 $5 7 . 8 3 \%$ 人 $56 . 0 1 \%$ ！ $52 . 5 6 \%$ 和 $5 2 . 3 9 \%$ ；而对原材料功能基本没有影响；由于农用地的增加，食物生产功能还增长了76.42(表3)。
+
+# 3.4 景观格局分析
+
+对门山村景观丰度逐年递增，表明该村用地类型呈现多样化趋势，特别是1995—2015年激增，说明这20年是该村空间景观快速变化时期：香农多样性指数、香农均匀度指数、斑块密度、景观形状指数在这一时期激增，也反映了这20年间各用地类型呈均衡化趋势离散增加；此外，可以考虑各类建筑用地作为优势斑块类型呈团聚方式发展，在景观中连通度逐渐增高。在1958—1980年间连接度下降明显，主要原因是由于原来成廊道存在的林地被砍伐割裂，使得其空间结构连接度减弱。景观形状指数在1958—1980 年和1995—2015年两个阶段的明显增长表明斑块边缘复杂化，从土地利用变化上看，多为农林用地被其他用地侵占后导致的边缘复杂性增加(表4)。
+
+# 3.5土地利用与生态服务价值、景观格局间关联分析
+
+对门山村景观变化主要发生在 1958—1980 年、1995—2015年两个阶段,1980—1995年相对变化平缓。
+
+1958—1980年间，作为景观廊道的林地由于“大跃进"运动被砍伐断裂，使得景观的空间连接度下降严重。虽然总量不大，但住宅用地作为稀有斑块的发散式膨胀，使得整体景观的破碎化程度增加较大。但由于整体用地类型比例变化不大，生态服务价值没有明显变化。
+
+如图2所示，虽然1980年分田到户，但由于当地条件限制，村民的生产生活方式并没有结构性变化，也使得村庄的景观没有明显变化。而1995年后开始大范围种植烟草后，对门山村水田比例快速下降，现阶段基本和旱地比例持平。这也直接导致水田(湿地的一种类型)作为生态服务价值重要贡献者数量减少，整个范围生态服务价值下降明显。此外，由于近20年来，各类公共管理与服务设施的快速增加和均匀分布，使得景观多样性呈显著增长。
+
+表24个历史时期对门山村土地利用变化Table 2 Changes of land use types in the four historicalperiods of Duimenshan Village hm²  
+
+<html><body><table><tr><td>土地利用类型 Land use type</td><td>2015</td><td>1995</td><td>1980</td><td>1958</td></tr><tr><td>水田Paddy land</td><td>8.35</td><td>22.27</td><td>23.36</td><td>24.71</td></tr><tr><td>水浇地Irrigated land</td><td>0.12</td><td>0.03</td><td>0.00</td><td>0.00</td></tr><tr><td>旱地 Dry land</td><td>10.60</td><td>0.48</td><td>0.24</td><td>0.29</td></tr><tr><td>园地 Garden land</td><td>0.05</td><td>0.07</td><td>0.07</td><td>0.00</td></tr><tr><td>林地 Forest land</td><td>3.96</td><td>4.25</td><td>4.39</td><td>5.22</td></tr><tr><td>草地Grass land</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.09</td></tr><tr><td>商业服务用地 Commercial land</td><td>0.02</td><td>0.01</td><td>0.01</td><td>0.00</td></tr><tr><td>住宅用地 Residential land</td><td>5.71</td><td>3.75</td><td>2.99</td><td>1.07</td></tr><tr><td>公共管理用地</td><td>1.34</td><td>0.02</td><td>0.01</td><td>0.02</td></tr><tr><td>Public management land 特殊用地 Special land</td><td>0.11</td><td>0.13</td><td>0.10</td><td>0.10</td></tr><tr><td>交通运输用地</td><td>1.83</td><td>1.39</td><td>1.27</td><td>1.06</td></tr><tr><td>Transportation land 水域及水利设施用地</td><td></td><td></td><td></td><td></td></tr><tr><td>Water and water conservancy facilities land</td><td>1.40</td><td>1.09</td><td>1.05</td><td>1.11</td></tr></table></body></html>
+
+# 4讨论与结论
+
+乡村历史景观是研究乡村历史发展和进行乡村景观发展规划的重要依据。遥感影像提取通常受制于数据限制无法满足历史景观恢复的需求。乡村村民历史景观记忆则成为乡村历史景观恢复的一个重要数据源。但受制于传统调研方法和表现手段成本和效率限制，传统的基于二维地图及调研表的方法无法使乡村村民直观地参与历史景观恢复。基于常规PGIS平台的参与式乡村规划与项目中，由于村民意见需要规划者多次往返后才能真实表达在地图上，时间花费过长。同时由于受到技术和设备的限制，结果的可视化程度也不高，使得PGIS规划平台不能在实际的乡村历史景观恢复及乡村规划中得到大量应用。因此，乡村历史景观恢复需要为乡村历史景观恢复的村民参与提供一个易用的集三维化景观设计及景观格局分析于一体的平台系统。本文探索一种使用三维电子沙盘的方法，解决上述乡村历史景观恢复中村民参与和景观实时评价问题。本文使用的“乡邑人居-参与式村镇空间设计电子沙盘"(简称乡邑电子沙盘)是一款集成多项地理空间技术成果，界面友好，操作性强的三维PGIS平台。实践结果表明，基于乡邑电子沙盘的历史景观恢复方法，可实现规划者与村民面对面的沟通，使得规划的沟通过程更为流畅，规划决策中的参与质量大大提高。该软件更易被规划者所掌握，使得挖掘村民记忆的乡村历史景观复原研究成为一项对专业性要求并不很强的工作。
+
+本研究以贵州对门山村为案例，将更易于当地村民理解和运用的三维电子沙盘工具结合参与式农村评估技术，成功地从时空两个维度复原了村民记忆中的乡村历史景观，真正再现了村民对乡村历史景观记忆，并实时可视化为三维复原景观地图，并表达在三维电子沙盘上。同时听取他们对景观变迁原因的观点，实现研究人员与村民的实时交流，最大程度地保证沟通行动的有效性和真实性。在乡村规划与管理行动中，基于PGIS的乡村(历史)景观调查与规划方法，通过与三维电子沙盘工具的高度结合，最大限度地保证了讨论过程和结果的一致性，真正实现乡村规划和管理过程中的村民参与。使用系统提供的景观分析方法，对对门山村的历史景观在土地利用结构、景观格局指数、生态服务价值方面进行了分析。结果表明，对门山村景观格局变化明显，景观趋于分散化和多样化，生态服务价值有所下降。对门山村的历史景观格局变化与历史重大事件节点相吻合，说明了对门山村历史景观格局变化背后的主要原因与历史重大事件密切相关。
+
+表34个历史时期对门山村生态服务价值  
+Table 3Ecological service value in the four historical periods in Duimenshan Village   
+￥   
+
+<html><body><table><tr><td>生态服务功能 Ecological service function</td><td>2015</td><td>1995</td><td>1980</td><td>1958</td></tr><tr><td>气体调节 Gas regulation</td><td>131.28</td><td>209.04</td><td>271.63</td><td>237.26</td></tr><tr><td>气候调节 Climate adjustment</td><td>623.46</td><td>1 478.60</td><td>1 547.06</td><td>1 637.53</td></tr><tr><td>水源涵养Water conservation</td><td>686.35</td><td>1 441.69</td><td>1501.80</td><td>1 590.56</td></tr><tr><td>土壤形成与保护 Soil formation and conservation</td><td>174.42</td><td>211.07</td><td>218.48</td><td>238.50</td></tr><tr><td>废物处理Waste disposal</td><td>772.32</td><td>1 628.16</td><td>1 697.04</td><td>1 791.81</td></tr><tr><td>生物多样性保护 Biodiversityconservation</td><td>173.47</td><td>275.65</td><td>286.29</td><td>308.93</td></tr><tr><td>食物生产 Food production</td><td>52.52</td><td>29.77</td><td>29.92</td><td>31.56</td></tr><tr><td>原材料 Raw materials</td><td>45.87</td><td>48.23</td><td>49.85</td><td>58.59</td></tr><tr><td>娱乐文化 Entertainment culture</td><td>221.16</td><td>502.80</td><td>524.93</td><td>556.51</td></tr><tr><td>总价值Total value</td><td>2 880.85</td><td>5 825.01</td><td>6073.00</td><td>6 451.25</td></tr></table></body></html>
+
+表44个历史时期对门山村景观格局指标  
+Table 4Landscape pattern indexes in the four historical periods in Duimenshan Village   
+
+<html><body><table><tr><td>景观格局指标 Landscape pattern index</td><td>2015</td><td>1995</td><td>1980</td><td>1958</td></tr><tr><td>香农多样性指数 Shannon's diversity index</td><td>0.939 4</td><td>0.5985</td><td>0.536 7</td><td>0.3567</td></tr><tr><td>香农均匀度指数 Shannon's evenness index</td><td>0.6085</td><td>0.353 3</td><td>0.295 9</td><td>0.1619</td></tr><tr><td>景观丰度 Patch richness</td><td>11</td><td>7</td><td>7</td><td>6</td></tr><tr><td>斑块密度 Patch density</td><td>3 720191</td><td>2 953 374</td><td>2 754 369</td><td>1 725 469</td></tr><tr><td>蔓延度 CONTAG</td><td>47.018 0</td><td>35.139 1</td><td>35.772 1</td><td>22.418 6</td></tr><tr><td>连接度 Connectance index</td><td>6.332 2</td><td>6.446 5</td><td>6.773 6</td><td>11.979 2</td></tr><tr><td>景观形状指数 Landscape shape index</td><td>12.211 5</td><td>9.877 1</td><td>9.359 6</td><td>7.653 0</td></tr></table></body></html>
+
+![](images/194c8df5dff3d006aab05fa5f646dbe16207a54af42c545418c227e3b97974d9.jpg)  
+图2对门山村历史景观中土地利用与生态服务价值、景观格局间的关联 Fig.2Correlationbetweenlanduseandeologicalservicevalue,landscapepaternofuimenshan Village'shstoricalladsapes
+
+本研究实例表明，参与式的历史景观恢复方法解决了历史遥感数据的限制，能够复原更为久远的农村历史景观。其次，参与式的历史景观复原方法，通过与参与者讨论及会议，挖掘了更深层次的景观变化历史故事、传统文化、习俗及历史事件等，可为未来的村庄规划和管理提供更详细的资料。与传统的基于二维GIS的PGIS相比，三维电子沙盘景观更容易让村民理解和参与其中。对门山村案例研究表明，在实际使用中，三维环境下，村民更容易描述历史景观，快速指出历史环境变化，发现研究者的错误之处。三维电子沙盘在本次对乡村历史景观调查中首次获得了较好的应用。通过有效的技术手段真正解决了以往规划者与当地村民信息交流和沟通过程不畅的技术问题，预期将有效提升乡村景观规划设计的质量和效率。作为一款多专业集成、门槛又极低的乡村设计交流平台，它很好地解决了在规划设计工具领域，传统工具的功能单一性与GIS等工具功能复杂性的这一对矛盾，提供一站式的设计平台，既可以提高专业设计人员的规划效率，又开创性地为非专业人士提供了直接参与设计和决策过程的途径，使专业设计人员与村民真正达到规划成果共识，实现乡土知识与科学知识的"无缝"融合;其附加的过程评估功能也将为参与设计的各方利益相关者实时提供决策辅助支持，是对乡村景观规划设计方法的创新。
+
+致谢感谢积极参与研讨和访谈的对门山村居民,感谢地球村环境教育中心在对门山村驻点的社工陈春、陈俊给予我们工作的大力协助。
+
+# 参考文献References
+
+[1]Cullotta S,Barbera G.Mapping traditional cultural landscapes in the Mediterranean area using a combined multidisciplinary approach:Method and application to Mount Etna (Sicily；Italy)[J].Landscape and Urban Planning，2011, 100(1/2):98-108   
+[2]Duncan B W,Boyle S,Breininger D R,et al.Coupling past management practice and historic landscape change on John F. Kennedy Space Center,Florida[J].Landscape Ecology,1999, 14(3):291-309   
+[3]Tortora A,Statuto D,Picuno P.Rural landscape planning through spatial modelling and image processing of historical maps[J].Land Use Policy,2015,42:71-82   
+[4]张灵超．历史乡村地理研究——徽州歙县丰南的个案[D]. 上海：复旦大学,2011:16-20 Zhang L C.Historical rural geography[D]. Shanghai: Fudan University,2011:16-20   
+[5]张晓彤，宇振荣，王晓军，等．场景可视化在乡村景观评价 中的应用[J].生态学报，2010,30(7):1699-1705 ZhangXT,YuZR,WangXJ,etal.Scenariovisualization forrural landscape assessment[J].Acta Ecologica Sinica, 2010,30(7): 1699-1705   
+[6]Bezant J,Grant K.The post-medieval rural landscape:Towards a landscape archaeology?[J].Post-Medieval Archaeology，2016, [/」Kley M,Harvey D.Lanuscape arcnaeoiogy,neritage and tne community in Devon: An oral history approach[J].International Journal of Heritage Studies,2005,11(4): 269-288 [8]Morgan P,Aplet G H,Haufler JB,et al.Historical range of variability:A useful tool for evaluating ecosystem change[J]. Journal of Sustainable Forestry,1994,2(1/2):87-111 [9] 衡先培，王志芳，戴芹芹，等．地方知识在水安全格局识别 中的作用——以重庆御临河流域龙兴、石船镇为例[J]．生 态学报,2016,36(13): 4152-4162 Heng X P,Wang ZF,Dai QQ,et al.The roles of local knowledge in identifying water security pattern:A case study of Longxing and Shichuan Township in Yulin Watershed, Chongqing[J]. Acta EcologicaSinica，2016，36(13): 4152-4162   
+[10]Wang XJ,Yu ZR,Cinderby S,et al. Enhancing participation: Experiences of participatory geographic information systems in Shanxi Province,China[J].Applied Geography,2008, 28(2): 96-109   
+[11]王晓军，周洋，鄢彦斌，等．政策与农耕：石咀头村 40 年 景观变迁[J]．应用生态学报,2015,26(1):199-206 Wang X J, Zhou Y,Yan Y B,et al.Agricultural policies and farming systems:A case study of landscape changes in Shizuitou Village in the recent four decades[J]. Chinese Journal of Applied Ecology,2015,26(1): 199-206   
+[12] Bell S.Landscape pattern,perception and visualisation in the visual management of forests[J]. Landscape and Urban Planning,2001,54(1/4): 201-211   
+[13] Campos M, Velázquez A, Verdinelli G B, et al. Rural people's knowledge and perception of landscape: A case study from the Mexican pacific coast[J]. Society & Natural Resources,2012,25(8): 759-774   
+[14]肖禾，王晓军，张晓彤，等．参与式方法支持下的河北王庄 村乡村景观规划修编[J]．中国土地科学,2013,27(8):87-92 Xiao H,Wang X J, Zhang X T,et al. Rural landscape planning supported by participatory approaches: A case of Wangzhuang Village,Hebei Province[J]. China Land Sciences,2013,27(8): 87-92   
+[15]张晓彤，宇振荣，王晓军．京承高速公路沿线农民对多功 能农业不同需求的研究[J].中国生态农业学报，2009,17(4): 782-788 Zhang X T,Yu Z R,Wang X J.Local farmer demand for multifunctional agriculture along Jing-Cheng freeway[J]. Chinese Journal of Eco-Agriculture,2009,17(4): 782-788   
+[16] Jessel B.Elements,characteristics and character-information functions of landscapes in terms of indicators[J]. Ecological Indicators,2006,6(1): 153-167   
+[17] Palmer JF.Using spatial metrics to predict scenic perception in a changing landscape: Dennis,Massachusets[J]. Landscape and Urban Planning,2004,69(2/3): 201-218   
+[18]Weinstoerffer J,Girardin P.Assessment of the contribution of land use pattern and Intensity to landscape quality: Use of a landscape indicator[J]. Ecological Modeling,20oo,130(1/3): 95-109   
+[19] Aynekulu E,Wubneh W,Birhane E,et al.Monitoring and evaluating land use/land cover change using participatory geographic information system (PGIS) tools: A case study of Begasheka Watershed, Tigray,Ethiopia[J]. Electronic Journal on Intormation Systems in Developing Countries, ZUuo, Z5(3): 1-10   
+[20] Baldwin K,Mahon R,McConney P.Participatory GIS for strengthening transboundary marine governance in SIDS[J]. Resources Forum Natural,2013,37(4): 257-268   
+[21] White J. Pre-transfusion testing[J]. ISBT Science Series,2009, 4(1): 37-44   
+[22] 王晓军．参与式地理信息系统研究综述[J].中国生态农业 学报,2010,18(5): 1138-1144 Wang X J.Participatory geographic information system review[J].Chinese Journal of Eco-Agriculture,2010,18(5): 1138-1144   
+[23] Brown G, Brabyn L.An analysis of the relationships between multiple values and physical landscapes at a regional scale using public participation GIS and landscape character classification[J]. Landscape and Urban Planning，2012,107(3): 317-331   
+[24] Brovelli M A,Minghini M, Zamboni G.Public participation in GIS via mobile applications[J].ISPRS Journal of Photogrammetry and Remote Sensing,2016,114: 306-315   
+[25] Mekonnen A D,Gorsevski P V.A web-based participatory GIS(PGIS) for offshore wind farm suitability within Lake Erie,Ohio[J]. Renewable and Sustainable Energy Reviews, 2015,41: 162-177   
+[26] Yu L J, Sun D F,Peng Z R,et al. A hybrid system of expanding 2D GIS into 3D space[J]. Cartography and Geographic Information Science,2012,39(3): 140-153   
+[27] Yu L J,Yu ZR,Pan Y.A case study of the design and application of 3D visualization system for agricultural landscape planning[J]. Intelligent Automation and Soft Computing, 2010,16(6): 975-984   
+[28]Lovett A,Appleton K,Warren-Kretzschmar B,et al. Using 3D visualization methods in landscape planning:An evaluation of options and practical issues[J]. Landscape and Urban Planning, 2015,142: 85-94   
+[29] Punia M, Kundu A.Three dimensional modelling and rural landscape geo-visualization using geo-spatial science and technology[J]. Neo Geographia,2014,3(3): 1-19   
+[30]Wissen U,Schroth O,Lange E,et al.Approaches to integrating indicators into 3D landscape visualisations and their benefits for participative planning situations[J]. Journal of Environmental Management, 2008,89(3): 184-196   
+[31]Brown G,Kyttä M.Key issues and research priorities for public participation GIS (PPGIS):A synthesis based on empirical research[J].Applied Geography,2014,46:122-136   
+[32]Appleton K,Lovett A.GIS-based visualisation of development proposals: Reactions from planning and related professionals[J]. Computers，Environment and Urban Systems,2005,29(3): 321-339   
+[33]Liu T,Zhao DP,Pan MY.An approach to 3D model fusion in GIS systems and its application in a future ECDIS[J]. Computers & Geosciences,2016,89: 12-20   
+[34] Neuenschwander N,Hayek U W,Grét-Regamey A. Integrating an urban green space typology into procedural 3D visualization for collaborative planning[J]. Computers,Environment and Urban Systems,2014,48: 99-110 form for landscape planning support system[J].Procedia-Social and Behavioral Sciences,2016,227:247-254   
+[36] Trubka R,Glackin S,Lade O,et al.A web-based 3D visualisation and assessment system for urban precinct scenario modelling[J].ISPRS Journal of Photogrammetry and Remote Sensing,2015,117: 175-186   
+[37]Wu HY,He Z W,Gong JY.A virtual globe-based 3D visualization and interactive framework for public participation in urban planning processes[J]. Computers, Environment and Urban Systems,2010,34(4):291-298   
+[38] 宇林军，孙丹峰，李红．基于紧密型二三维结合的GIS 构 架与系统实现[J]．地理与地理信息科学，2009，25(5): 17-20 Yu L J, Sun D F,Li H.Framework and realization of 3D GIS system based on the integration of 2D GIS system and 3D rendering engine[J]. Geography and Geo-Information Science, 2009,25(5): 17-20   
+[39]宇林军，潘影．服务式2D、3D 结合GIS 的核心问题及其解 决方案[J]．地球信息科学学报,2011,13(1):58-64 Yu L J,Pan Y. The key problem of service-based integration of 2D GIS and 3D visuliation technology and its solution[J]. Journal of Geo-Information Science,2011,13(1): 58-64   
+[40] Paar P.Landscape visualizations: Applications and requirements of 3D visualization software for environmental planning[J]. Computers，Environment and Urban Systems,2006,30(6): 815-839   
+[41]张晓彤．城市可持续发展能力评估体系及信息系统研发[R]. 北京：中国建筑设计院有限公司,2016:164-167 Zhang X T.Research on urban sustainable development capability evaluation system and information system[R]. Beijing: China Architecture Design Group,2016: 164-167   
+[42]谢高地，鲁春霞，冷允法，等．青藏高原生态资产的价值评 估[J]．自然资源学报,2003,18(2):189-196 Xie G D,Lu C X,Leng YF,et al. Ecological assets valuation of the Tibetan Plateau[J]. Journal of Natural Resources, 2003, 18(2): 189-196   
+[43]潘影，张茜，甄霖，等．北京市平原区不同圈层绿色空 间格局及生态服务变化[J]．生态学杂志，2011，30(4): 818-823 Pan Y, Zhang Q, Zhen L,et al. Green space patern and ecosystem services value of the sub-regions in Beijing plain area[J].Chinese Journal of Ecology,2011,30(4): 818-823   
+[44]Dramstad W E,Tveit MS,Fjellstad W J,et al.Relationships between visual landscape preferences and map-based indicators of landscape structure[J]. Landscape and Urban Planning, 2006, 78(4): 465-474   
+[45]张晓彤，李良涛，王晓军，等．基于主观偏好和景观空间指 标的农业景观特征偏好模型：以北京市11个农业景观特征 区域为例[J]．中国生态农业学报,2010,18(1):180-184 Zhang X T, Li L T, Wang X J, et al. Agricultural landscape preferential model from subjective preference and spatial landscape index:A case study of the characteristics of 1l agricultural landscape partitions in Beijing[J]. Chinese Journal of Eco-Agriculture,2010,18(1): 180-184

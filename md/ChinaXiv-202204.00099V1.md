@@ -1,0 +1,274 @@
+# 基于多源遥感数据的1970—2020年巴尔喀什湖动态监测
+
+张玉杰1²，王宁练1.2.3，杨雪雯1,2，郃雪楠1,2(1.陕西省地表系统与环境承载力重点实验室,陕西 西安710127；2.西北大学城市与环境学院/地表系统与灾害研究院,陕西 西安710127；3.中国科学院青藏高原地球科学卓越创作中心,北京100101)
+
+摘要：利用ICESat-1、CryoSat-2测高数据与水文站实测数据,分析了1970—2020年巴尔喀什湖水位变化特征，结合MOD09A1数据及相关资料分析了巴尔喀什湖长时间序列面积和水量变化状况，并利用巴尔喀什湖流域灌溉数据及Climatic ResearchUnit(CRU)气象数据，简要探究了气候变化及人类活动对湖泊长期变化的影响。结果表明：巴尔喀什湖水位在研究时段内总体呈现先下降后波动上升的趋势，1987年水位值达到最低（ $3 4 0 . 6 4 \mathrm { m } ,$ ，年内水位增长主要发生在2月底至6月初，且暖季(4—10月）水位波动比冷季(11月—次年3月)更剧烈；1970—2020年巴尔喀什湖面积从19996$ { \mathrm { k m } } ^ { 2 }$ 减少到 $1 6 6 4 1 . 9 3 \ \mathrm { k m } ^ { 2 }$ ,湖面缩小约 $1 6 . 7 7 \%$ ;在此期间巴尔喀什湖水量损失约为 $1 2 . 3 3 \ \mathrm { k m } ^ { 3 }$ 。湖泊动态变化为多种因素共同作用的结果，1970—1987年湖泊动态变化主要由卡普恰盖水库蓄水和哈萨克斯坦境内灌区耕地扩张等人类活动引起；气温与降水在总体趋势上与湖泊的动态变化并无明显相关性，定量讨论各因素对湖泊动态变化的影响，还需进一步研究。
+
+关键 词：ICESat-1；CryoSat-2；动态变化；巴尔喀什湖文章编号：
+
+湖泊对气候与环境变化极为敏感,在维持区域生态平衡中起着重要作用[2],湖泊的水位、面积和水量变化与区域气温、降水、蒸发及人类活动等因素密切相关3，因而其动态变化可间接反映区域气候变化以及人类活动对湖泊生态环境的影响[4-5]巴尔喀什湖是中亚干旱区第三大水体，20世纪80、90年代，巴尔喀什湖流域内不合理的人类活动使其生态环境遭到严重破坏，湖水水位大幅下降、湖泊面积萎缩、土地生产力下降[6。2008年,联合国开发计划署在地理年鉴中表明巴尔喀什湖面临着完全干涸的可能性，随后该湖泊的生态系统持续吸引着公众的关注，因而对巴尔喀什湖及其环境的长期监测至关重要。
+
+湖泊动态变化主要体现在湖泊面积和水位的变化。传统的湖泊水位监测依靠水文站点实测，这种方法虽然精度较高，但对人力和物力的消耗较大[8],且受限于自然条件与空间分布等因素，地域偏远的内陆湖泊难以获得长时间的连续观测资料。此外，传统水位监测共享程度较低，增加了数据获取的难度[9]。卫星测高技术作为1种空间大地测量技术，现被广泛应用于内陆湖泊的水位监测及分析其对环境的响应[10],与传统的水位监测方式相比，卫星测高技术能够大范围、周期性地监测陆地水体的各种动态变化["],多项研究结果表明卫星测高技术能够有效监测湖泊水位的动态变化[12-13]。卫星测高数据主要来源于激光与雷达2种类型的高度计。ICESat-1是世界上第一颗星载激光测高卫星，它利用地球科学激光测高系统测量全球地表高度，其地面足迹点的直径约为 $7 0 \mathrm { ~ m ~ }$ ，沿轨迹相邻足迹点间距约为 $1 7 2 \mathrm { m }$ ，能够对湖泊水位进行高精度的测量[8.14-5]。CryoSat-2卫星由 ESA(European SpaceAgency)于2010年发射，搭载的是合成孔径干涉雷达高度计SIRAL，沿轨迹相邻足迹点间距约为300$\mathrm { ~ m ~ }$ ,赤道上的相邻轨迹间距约为 $8 ~ \mathrm { k m }$ ，与传统的雷达
+
+# 干旱区地理
+
+测高系统如ERS-1/2、Envisat、GFO以及Jason-1/2等相比，CryoSat-2轨道更密集，足迹点间距与沿轨间距更小,可以监测更多的小型内陆湖泊[16]。ICESat-1的运行时间为2003—2009年，CryoSat-2的运行时间为2010年至今，因而有多项研究结合这两颗卫星的观测数据构建了长时间序列的观测资料。宋春桥等[17-18]利用ICESat-1与CryoSat-2卫星构建了青藏高原131个湖泊2003—2014年的长时间水位序列，且用ICESat-1与CryoSat-2卫星对纳木错湖2003一2014年的水位趋势变化进行了进一步的分析；黎鹏等[8监测了2003—2017年洞庭湖的水位变化情况。
+
+巴尔喀什湖水位数据实测记录始于1938年，更早之前的延长资料由前苏联学者通过野外实地考察、水量平衡估算和相关资料考证等多种方式获得[19]，目前有很多研究采用了巴尔喀什湖水位数据。杨川德[20]利用延长水位资料与实测资料讨论了1879—1986年巴尔喀什湖水位变化及原因；龙爱华等[21将巴尔喀什湖1879—2009年的水位数据与该时段内径流量以及气温降水等数据相结合，对巴尔喀什湖水量平衡进行了研究;郭利丹等[22]讨论了巴尔喀什湖1810—2006年的水位周期变化与流域气候变化特征的关系；Propastin等[23-24]利用卫星测高资料和流域气象站气象资料，研究了1992—2010年巴尔喀什湖水位变化及其与气候变化的关系，并建立了湖泊水位与伊犁河流量监测的简易模型。
+
+目前对于巴尔喀什湖面积的监测主要采用遥感技术手段。臧菁菁等[25]依据水体的光谱反射特性，以9个时段的Landsat影像为数据源进行水体信息提取，讨论了巴尔喀什湖1975—2014年面积变化特征及其驱动因素;成晨等[26采用同季相4期Land-sat遥感影像，通过目视解译提取包括巴尔喀什湖在内的中亚地区7个湖泊1978—2010年的面积变化;高彦华等7利用Landsat遥感影像，监测了巴尔喀什湖1977—2014年面积及湖岸的动态变化。
+
+以往对于巴尔喀什湖的研究主要以单一遥感数据源为基础，结合气象数据分析湖泊近期水文变化，对于面积、水位及水量的长期连续变化缺乏较为全面和系统的分析，且目前大部分水位研究都是采用水文站点的实测数据或是基于Jason-1、T/P等高度计数据，在数据精度与时间尺度上都不够完善，数据源较为单一，并未将传统数据、激光以及雷达测高数据相融合，得到更加连续完整的长时间观测数据。因此，本文利用ICESat-1、CryoSat-2卫星测高数据及水文站实测数据，构建巴尔喀什湖1970一2020年的水位序列，分析其水位的长期和季节变化特征，并结合MOD09A1数据及相关资料分析巴尔喀什湖长期面积和水量变化特征，同时简要探究气候变化及人类活动对湖泊动态变化的驱动作用，为巴尔喀什湖的湖泊变化长期监测、水资源合理利用开发及生态系统保护提供一定的科学依据。
+
+# 1研究区概况
+
+巴尔喀什湖 $( 7 3 ^ { \circ } 2 1 ^ { \prime } { \sim } 7 9 ^ { \circ } 3 0 ^ { \prime } \mathrm { E }$ ， $4 4 ^ { \circ } 4 5 ^ { \prime } { \sim } 4 6 ^ { \circ } 4 4 ^ { \prime } \mathrm { N } )$ 位于哈萨克斯坦东南部[20],是典型的平原尾闾湖（图1)，湖泊面积宽广，约为 $1 . 8 3 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,最宽处约$7 1 ~ \mathrm { k m }$ ，总长约 $6 0 0 ~ \mathrm { k m } ^ { [ 2 7 ] }$ 。伊犁河作为巴尔喀什湖的主要水动脉经伊犁河三角洲注人湖泊西部，对入湖径流量的贡献率约为 $7 8 \% ^ { [ 2 8 ] }$ ;湖东部入湖径流少，且蒸发量大，因而东部湖泊矿化程度明显高于西部湖泊[22],该湖北岸水体很少，地势较高，多为岩石覆盖；南岸小型湖沼较多，地势低凹，多为沙地[25]。伊犁河一巴尔喀什湖流域是世界上最大的湖泊生态系统之一[2I],流域内汇入湖泊的主要河流有伊犁河、卡拉塔尔河、列普西河以及阿亚古兹河，由于来自印度洋、太平洋的暖湿气流无法深入流域所处的欧亚大陆腹地，因此巴尔喀什湖流域呈现温带大陆性气候，干燥少雨。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+2.1.1 ICESat-1测高数据 ICESat-1/GLAS（Geo-sciencelaseraltimeter system）发射于2003年1月13日[29],通过地球科学激光测高系统(GLAS)向星下点发射激光信号，根据激光信号在卫星与星下点之间往返所用的时间，来计算二者之间的距离，进而获得星下点的高程[8]，该卫星获取的信息时间范围为2003年2月20日至2009年10月10日，共有640多天的观测数据[30],地学激光测高系统的数据产品共有15种,本文采用的是GLA14全球测高数据产品，该数据集中包含有激光测高脚点的经纬度、高程以及各项校正参数等。
+
+![](images/3f2ac420fdc8efdc1ed769b11a0dd0f04c1ab49cc43a06faf173dfd562ab8c12.jpg)  
+注：冰川数据来源于中国第二次冰川编目，灌溉数据来源于联合国粮食及农业组织图1巴尔喀什湖流域示意图  
+Fig.1 Location map of the Balkhash Lake Basin
+
+2.1.2CryoSat-2 测高数据 CryoSat-2于2010年4月8日发射升空，该卫星的测量模式分别为低分辨率模式(LRM）、合成孔径雷达模式(SAR)以及合成孔径雷达干涉测量模式(SIRAL)[31],CryoSat-2/SIR-AL有0级数据、1b级数据、2级数据和高级数据4种数据产品，其中2级GDR产品包括了测量时间、地理位置、以及经过了仪器校正、传输延迟改正、几何改正和地球物理改正之后的高度信息，是单独的全球性的全轨道数据，即将3种模式的测量结果通过不同的处理过程，按照时间先后顺序进行整合，得到格式统一的数据记录。3种模式的数据采用了不同的波形重跟踪算法来获得高度值，分别为Re-fined CFI、UCL和Refined OCOG[32],通过对比3种算法在巴尔喀什湖湖区内获得高度异常值的数目，最终采用GDR产品的RefinedOCOG重跟踪算法来获取巴尔喀什湖2010—2020年的湖泊水位变化。
+
+2.1.3湖泊面积数据中分辨率成像光谱仪MODIS搭载于TERRA和AQUA卫星上，是为全球动态测量提供大范围数据的重要传感器，MODIS共有36个观测波段且具有较高的分辨率，因而被广泛用于水体特征信息的提取，目前已有多项研究表明MODIS数据在湖泊面积的监测中具有较高的精度。MODIS数据产品极为丰富,其中MOD09(来源于https://lad-sweb.modaps.eosdis.nasa.gov/search/)为MODIS 陆地2级数据产品，本文选用的是MOD09每8d合成的数据,即MOD09A1,空间分辨率为 $5 0 0 \mathrm { m }$ ○
+
+2.1.4气象数据气象资料选择了英国East Anglia大学Climatic ResearchUnit（CRU）发布的CRUTSv4.05［CRUTime seriesversion 4.05,获取地址:CRUTSVersion 4.05 (uea.ac.uk)]。该数据集是由CRU收集整理多种数据库中的相关资料，重构的一套覆盖全球范围的、高分辨率的连续地表气候要素数据集[33],数据的空间分辨率为 $0 . 5 ^ { \circ } { \times } 0 . 5 ^ { \circ }$ ,已有研究表明该数据可用于讨论中亚地区的气候变化状况[34]，由于巴尔喀什湖附近水文站点公布的气象资料不完整，因此本文使用该数据集1970—2019年的气温和降水量数据作为主要气象因子来分析巴尔喀什湖水位对气候变化的响应(2020年数据尚未公布），同时，选择了来源于NOAA全球气象站点数据网站(https://www.climate.gov/maps-data)的部分站点数据来验证CRUTS $\mathrm { \ v } 4 . 0 5$ 数据集在巴尔喀什湖流域的适用性。
+
+2.1.5 其他数据巴尔喀什湖湖泊矢量边界数据来源于全球湖泊和湿地数据库(GlobalLakesandWet-landsDatabase,GLWD)1级数据。巴尔喀什湖1970年起的实测水位数据来源于HYDROLARE(http:/hydrolare.net/）,其中1998年与1999年数据存在部分月份的缺失。研究中使用的巴尔喀什湖流域灌溉面积来源于联合国粮食及农业组织FAO(http://www.fao.org/aquastat/zh/countries-and-basins/regional-overviews/central-asia/)和相关研究资料。
+
+# 2.2 研究方法
+
+本文的技术路线如图2所示，首先对ICESat-1GLA14和CryoSat-2GDR测高数据进行预处理，提取卫星的足迹点高程，筛选出巴尔喀什湖边界范围内的湖面足迹点，剔除高程异常的湖面足迹点后计算得到湖泊2003—2009年的卫星测高水位，并根据实测水位数据进行精度验证，结合实测数据以及2种测高数据提取的水位信息得到1970—2020年巴尔喀什湖的水位序列，水位数据的具体组成结构如图3所示。此外，采用MOD09A1数据提取2000—2020年湖泊面积数据，结合相关文献资料得到长时序湖泊面积数据，最后根据公式，估算得到巴尔喀什湖的水量变化。
+
+# 2.2.1 水位数据提取
+
+# （1）卫星测高数据预处理
+
+ICESat-1测高数据的预处理主要包括椭球转换和饱和校正。由于ICESat-1与CryoSat-2测高数据基于不同的参考椭球，因此需要将ICESat-1测高数据的参考椭球(T/P椭球)转换成WGS84椭球，以消除椭球差异带来的影响[8]。此外，ICESat-1在进行高程测量时可能因波形饱和现象导致测量足迹点的高程低于实际高程值，因此需要对其进行饱和校正。足迹点高程的计算原理如公式(1)所示：
+
+实测水位数据 ICESat-1GLA14数据 CryoSat-2 GDR数据 MOD09A1数据  
+BalticTOPEX/Poseidon WGS84&EGM96 计算归一各项误差改正 化水体椭球转换 卫星测高 指数转换为WGS84&EGM96 数据预处理 (NDWI)饱和校正√ 1提取2003—2009年 提取2010—2020年 提取2000—2020年卫星足迹点高程 卫星足迹点高程 9月湖泊面积根据湖泊缓冲区提取湖面数据点目视剔除所有数据中的明显异常值，3o准则剔除每一天的水位异常值，取平均视别3准则剔除 高常 结合文献资料2003—2020年水位序列  
+通过共同年份，  
+提取平均差值减去平均差值,变换到与实测水位相同的水准面 数据转换√1970—2020年巴尔1970—2020年巴尔喀什湖水位序列喀什湖面积序列巴尔喀什湖水量变化
+
+![](images/121009e192afa4327ac0e56fbf998ed859ccac5d58c6202693d7d7a0e8c4d1ef.jpg)  
+图2 技术路线  
+Fig.2 Flowchart of synthesizing multi-source lake-level data in this study   
+图3水位数据组成结构  
+Fig.3Data composition structure diagram
+
+$H { = } h - \mathrm { d } \_ { \mathrm { d e l t a E l l i p } } + \mathrm { d } \_ { \mathrm { s a t E l e v } } \mathrm { C o r r } - N$ (1)式中： $H$ 为基于EGM96大地水准面的正高； $h$ 为基于T/P椭球的高程；ddeltaEllip为T/P椭球和WGS84椭球之间的差值；dsatElevCorr为饱和校正参数，可从数据集里获得； $N$ 为当地大地水准面差距，可由MATLAB中的geoidheight函数计算得到。
+
+CryoSat-2测高数据的预处理主要包括各项偏差改正。CryoSat-2卫星雷达脉冲信号在传播过程中发生的散射或折射会影响其传播速度，使观测信号的往返时间产生延迟，同时受各种自然因素的影响,距离估计值会产生偏差，因此必须加以改正[35]湖泊水位的计算公式如下：
+
+$$
+H { = } H _ { { \mathrm { a l t } } } - R - \Delta R - N
+$$
+
+式中： $H$ 为基于EGM96大地水准面的正高； $H _ { \mathrm { { a l t } } }$ 为卫星质心到参考椭球面的高度； $R$ 为卫星到湖面的距离； $\Delta R$ 为各项误差改正； $N$ 为当地大地水准面差距，可由MATLAB中的geoidheight函数计算得到。
+
+$$
+\Delta R = \mathrm { D r y } + \mathrm { W e t } + \mathrm { I o n } + \mathrm { S o l } + \mathrm { P o l }
+$$
+
+式中：Dry为干对流层改正；Wet为湿对流层改正；  
+Ion为电离层改正；Sol为固体潮改正； $\mathrm { P o l }$ 为极潮改正。
+
+# (2）高程异常点移除
+
+数据预处理完成后，对获得的所有水位值进行处理，以提取湖泊的水位序列，具体的移除步骤如下5,36-37]，
+
+第一步，对湖泊边界向湖心方向做 $2 0 0 \mathrm { ~ m ~ }$ 的缓冲区，根据缓冲区筛选卫星足迹点，以确保数据点完全落入湖内，减少可能与湖岸接触的高程点对单天水位数据的干扰。
+
+第二步，对所得的水位数据点先进行目视解译，将与大多数水位值相差几十米甚至几百米偏差极大的异常值剔除。
+
+第三步，用 $3 \sigma$ 准则剔除单天水位数据中的异常值，然后将剩余有效水位值取平均作为日均水位。 $3 \sigma$ 准则的具体判别方法如公式(4)所示：对于采集的数据样本 $( x _ { 1 } , x _ { 2 } , x _ { 3 } , \cdots , x _ { n } )$ ,求取算数平均值$\bar { x }$ 和剩余误差值 $v _ { i }$ ,即可求得均方根偏差 $\sigma$ ：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \overline { { x } } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } x _ { i } } \\ { \displaystyle v _ { i } = x _ { i } - \overline { { x } } } \\ { \displaystyle \sigma = \sqrt { \sum _ { i = 1 } ^ { n } { v _ { i } } ^ { 2 } / \left( n - 1 \right) } } \end{array} \right.
+$$
+
+若 $\left| x _ { i } - { \bar { x } } \right| > 3 \sigma$ ,则相对而言误差较大， $x _ { i }$ 应舍弃，且误差大于 $3 \sigma$ 的观测数据出现的概率为
+
+0.003;若 $\left| x _ { i } - { \bar { x } } \right| \leqslant 3 \sigma$ ，则 $x _ { i }$ 为正常值,应保留。
+
+以ICESat-1在2004年5月23日的过境点为例，经 $3 \sigma$ 准则剔除异常点之后，高于 $3 4 3 . 4 \mathrm { ~ m ~ }$ 的水位值被剔除，剩余水位点在 $3 4 3 . 1 7 { \sim } 3 4 3 . 3 9 \mathrm { ~ m }$ 之间波动（图4）。
+
+343.45 (a)3o准则剔除异常值前 343.40   
+343.35   
+位343.30   
+水343.25 343.20 343.15 1 □ 0 3 6 9 12 15 18 21 24 时间/h 343.40 (b)3o准则剔除异常值后 343.35   
+m   
+位 343.30   
+水343.25 343.20 343.15 L 0 3 6 9 12 15 18 21 24 时间/h
+
+第四步，对所有的日均水位，先目视解译剔除明显离群值，再用 $3 \sigma$ 准则，进一步剔除异常值，最后计算得到月均水位与年均水位。
+
+# (3）数据转换
+
+如技术路线图(图2)所示，ICESat-1数据采用了T/P、EGM2008参考系统，CryoSat-2数据采用了WGS84、EGM96参考系统，而水文站的实测数据采用波罗的海(Baltic)高程系统，3种数据采用了不同的高程基准，因此在构建水位序列前需要将其进行融合。在本研究中，首先，将ICESat-1数据转换为与CryoSat-2相同的参考系统，通过上文的高程异常点移除方法进行数据筛选，获得巴尔喀什湖2003—2020年湖泊年均水位序列。根据该水位序列与对应年份实测水位间的平均差值，将高度计获得的水位减去平均差值转换为与实测水位相同的水准面[36],进而得到巴尔喀什湖1970—2020年的水位序列。
+
+# （4）精度验证
+
+本文参照前人方法，通过相关系数 $( r )$ 、显著性值 $( P )$ ，平均绝对误差(MAE)以及均方根误差(RMSE)来计算雷达高度计提取的湖泊水位与对应
+
+的实测水位间的相关性[8.17]。相关系数 $( r )$ 是用以反映变量之间相关关系密切程度的统计指标。
+
+$$
+r = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \left( x _ { i } - { \bar { x } } \right) \left( y _ { i } - { \bar { y } } \right) } { \displaystyle \sqrt { \sum _ { i = 1 } ^ { n } \left( x _ { i } - { \bar { x } } \right) ^ { 2 } \left( y _ { i } - { \bar { y } } \right) ^ { 2 } } } }
+$$
+
+式中： $\boldsymbol { r }$ 为相关系数； $x _ { i }$ 为高度计获得的水位值； $\mathit { \Pi } _ { \overline { { x } } }$ 为高度计获得的水位值的算数平均值; $y _ { i }$ 为实测水位值； $\bar { y }$ 为实测水位值的算数平均值； $n$ 为样本数。$r > 0$ 时表明变量之间为正相关，反之为负相关， $\boldsymbol { r }$ 的绝对值越接近于1,表明变量间相关关系越强。
+
+显著性值 $( P )$ 是用以反映某一事件发生的可能性大小的统计指标， $P { < } 0 . 0 5$ 为显著， $P { < } 0 . 0 1$ 为非常显著，表明样本间的差异由抽样误差所致的概率小于0.05或0.01。
+
+平均绝对误差(MAE)表示提取值和实测值之间绝对误差的平均值，均方根误差(RMSE)是提取值与实测值偏差的平方与样本个数比值的平方根，2个指标都能够很好地反映出提取值与实测值之间的偏差。
+
+2.2.2面积数据提取巴尔喀什湖1970、1975、1980、1985、1990、1995年面积数据来源于相关文献[19.25],2000—2020年逐年遥感影像面积是基于9月MOD09A1数据,采用Mcfeeters[38]提出的归一化差异水体指数（Normalizeddifferencewater in-dex,NDWI)提取湖泊边界计算所得，NDWI表示如下：
+
+$$
+{ \mathrm { N D W I } } = { \frac { \mathrm { G r e e n } - { \mathrm { N I R } } } { \mathrm { G r e e n } + { \mathrm { N I R } } } }
+$$
+
+式中：Green为绿色波段,即MOD09A1第4波段;NIR为近红外波段即MOD09A1第2波段。利用NDWI可提取水体信息，减弱地表土壤、植被等信息特性的干扰进行阈值分割3，有效地将水体同植被与土壤明显区分开。
+
+2.2.3水量变化估计根据内陆湖的水量平衡，内陆湖的水量变化是由湖区面积和水位共同决定的。我们使用以下方程来估算水量变化[40]：
+
+$$
+\Delta \ V = { \frac { 1 } { 3 } } \times \Delta H \times \left( S _ { 1 } + S _ { 2 } + { \sqrt { S _ { 1 } \times S _ { 2 } } } \right)
+$$
+
+式中： $\Delta V$ 为2个时期的蓄水量变化; $\Delta H$ 为2个时期的湖泊水位变化； $S _ { 1 }$ 和 $S _ { 2 }$ 为2个时期的湖区面积。
+
+# 3结果与分析
+
+# 3.1巴尔喀什湖水位变化特征
+
+结合ICESat-1、CryoSat-22种卫星测高数据和水文站实测数据，得到了巴尔喀什湖1970一2020年湖泊水位变化情况(图5)。在研究时段内，湖泊水位呈先下降后上升趋势。1970—1987年，湖泊水位显著下降( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \dot { ) } }$ ),其变化率约为 $1 . 2 3 ~ \mathrm { m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 水位总体下降约 $2 . 2 1 \mathrm { ~ m ~ }$ ，且1987年湖泊水位达到最低值 $( 3 4 0 . 6 4 \mathrm { m }$ )。1988—2020年湖泊水位总体呈上升趋势 $( P { < } 0 . 0 1 )$ ),在此期间，可以观察到多次较短的湖泊水位振荡，增长区间分别为：1988—1990年、1992—1995 年、1999—2007年、2009—2011年、2015一2020年，其余时段巴尔喀什湖水位呈小幅下降趋势。其中1999—2007年湖泊的变化趋势与Propastin 等[23]基于TOPEX/Poseidon 和Jason-1卫星在巴尔喀什湖的测高结果基本吻合，该时段为20世纪90年代后湖泊水位的显著上升期，持续上升时间最长。2009—2011年上升速率最高，为 $1 . 6 6 \mathrm { ~ m ~ }$ ：$\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ ,局部峰值达到 $3 4 2 . 6 6 \mathrm { ~ m ~ }$ 。
+
+![](images/8e08e9e90644416381d080cc7f018f703837ebe605aaa96d1e992ef3bfb0b4a6.jpg)  
+图51970—2020年巴尔喀什湖水位变化Fig.5Changes of water level in Balkhash Lake from1970 to 2020
+
+为进一步监测巴尔喀什湖水位的年内动态变化，本文对研究时段内各月的水位进行了分析（图6)。结果表明，巴尔喀什湖的水位变化具有明显的季节性特征，1一6月多年水位均值呈上升趋势( $\scriptstyle P <$ 0.01)，且6月达到年内水位峰值，约为 $3 4 1 . 9 9 \mathrm { ~ m ~ }$ ，随后湖泊水位呈下降趋势（ $\scriptstyle { \overbrace { P { < } 0 . 0 1 } } .$ ），进入9月后，各月平均水位高度值波动幅度逐渐变小，开始趋于稳定，水位均值介于 $3 4 1 . 6 5 { \sim } 3 4 1 . 7 \mathrm { ~ m }$ ，说明巴尔喀什湖的年内水位增长主要发生在2月底至6月初，且暖季(4—10月)水位波动比冷季(11月一次年3月）更剧烈。
+
+![](images/4e3036593a5eeef43f4f626378e285da6295471eed73fd182d3f8e6f55a38836.jpg)  
+图61970—2020年巴尔喀什湖逐月水文变化 Fig.6Monthly hydrological changes ofBalkhash Lake from 1970 to 2020
+
+# 3.2巴尔喀什湖面积变化特征
+
+1970—2020年巴尔喀什湖面积的长期变化如图7a所示。1970—2020年，巴尔喀什湖面积从$1 9 9 9 6 ~ \mathrm { k m } ^ { 2 }$ 减少到 $1 6 6 4 1 . 9 3 \ \mathrm { k m } ^ { 2 }$ ，平均变化率为$- 6 5 . 7 7 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 } ( P { < } 0 . 0 1 )$ ,湖面缩减约 $1 6 . 7 7 \%$ ,面积最大值出现在1970年( $( 1 9 9 9 6 ~ \mathrm { k m } ^ { 2 } )$ ),最小值出现在1990年( $1 6 6 3 8 . 8 7 ~ \mathrm { k m } ^ { 2 }$ ）。1970—1990年，巴尔喀什湖的湖泊面积以 $- 1 5 9 . 8 6 ~ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ 的速度大幅萎缩$( P { < } 0 . 0 1 )$ 。进入21世纪后，2000—2010年湖泊面积有所回升，由 $1 6 6 7 2 . 8 9 \ \mathrm { k m } ^ { 2 }$ 增加到了 $1 6 8 9 6 . 4 4 ~ \mathrm { k m } ^ { 2 }$ ，增加约 $0 . 0 1 3 \%$ ,面积增加速率约为 $2 0 . 3 2 \mathrm { k m } ^ { 2 } { \cdot } \mathrm { a } ^ { - 1 } ( P { < }$ 0.01），而2010年之后，湖泊面积呈波动减少的趋势，萎缩率约为 $2 1 . 3 1 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 } ( P { < } 0 . 0 1 )$ ,至2020年，巴尔喀什湖面积约为 $1 6 6 4 1 . 9 3 \mathrm { k m } ^ { 2 }$ 。
+
+# 3.3巴尔喀什湖水量变化特征
+
+本文根据巴尔喀什湖面积数据与水位数据，计算得到巴尔喀什湖多年水量变化(图8)。1970—
+
+![](images/293c85c8dd1c97a3f56ae79a2e4d53ea739d561273cbeb1df529ffdee20db905.jpg)  
+Fig.7Changes in the area ofBalkhash Lake from 197O to 2020
+
+![](images/7234aad0bd6ad663587eccaade4c742be898ec1e1acfba014bf0f4596885570e.jpg)  
+图71970—2020年巴尔喀什湖面积变化  
+图81970—2020年巴尔喀什湖水量变化  
+Fig.8 Changes of water volume in Balkhash Lake from 1970 to 2020
+
+# 干吴区地理
+
+2020年巴尔喀什湖水量损失约为 $1 2 . 3 3 \mathrm { k m } ^ { 3 }$ ,1970—1985年，湖泊蓄水量以 $1 . 8 4 \ \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 }$ 的速率持续下降，累积变化量为 $- 2 7 . 5 5 \mathrm { k m } ^ { 3 }$ ,1985—1990年蓄水量大幅增长，增长量达 $1 0 . 3 9 \ \mathrm { k m } ^ { 3 }$ ,1995—2007年湖泊蓄水量以 $1 . 8 6 \mathrm { ~ k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 }$ 的速率持续上升，随后水量变化呈波动下降趋势，其中2011—2015年蓄水量减少速率最快 $\left( - 2 . 6 5 \mathrm { ~ k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 } \right)$ ,累积减少约 $1 0 . 5 9 \mathrm { k m } ^ { 3 }$ ○
+
+# 3.4水位数据精度验证
+
+ICESat-1和CryoSat-2卫星的观测数据与水位站实测数据在2003—2016年存在部分重合，其中，ICESat-1获取时间主要集中在2—6月和9—12月，与实测数据的重合值有27个，CryoSat-2为逐月观测，从2010年7月起，与实测数据的重合值个数为73。因此，为验证卫星测高数据的准确性和可靠性，对卫星观测数据与实测水位数据做相关性分析，结果显示（图9），巴尔喀什湖的ICESat-1和CryoSat-2卫星测高水位与水文站实测水位之间呈显著的正相关关系，相关系数分别为0.874和0.805,显著性值均小于0.01，且ICESat-1数据与实测数据相比平均绝对误差(MAE)及均方根误差(RMSE)分别为0.206和0.241，CryoSat-2数据与实测数据相比平均绝对误差(MAE)与均方根误差(RMSE)分别为0.153和0.199，结果表明利用2种卫星测高数据来进行巴尔喀什湖长时间序列的水位变化监测具有一定的可行性。
+
+# 3.5影响因素分析
+
+3.5.1 气候变化巴尔喀什湖流域内水文站点公布的气象资料不完整，仅有1970一2005年的年气温与降水量数据，为验证CRUTS $\mathrm { \ v } 4 . 0 5$ 气象数据集在巴尔喀什湖流域内的适用性，本文对流域站点数据与CRUTS $\mathrm { \ v } 4 . 0 5$ 气象数据进行了相关性分析，结果显示（图10)，气象站点获得的气温与降水量数据与CRUTS $\mathrm { \ v } 4 . 0 5$ 数据集之间呈显著的正相关关系，相关系数分别为0.965和0.951。表明CRUTS $\mathrm { \ v } 4 . 0 5$ 数据集可用于讨论巴尔喀什湖流域的气候变化状况。
+
+![](images/6a07b8269965f26675069bae70eead843be942897b363b33a3eed93177778ca3.jpg)  
+Fig.9Precision validation
+
+![](images/2ff651a6689ba84c311d21b06b0a4b1c2db1c1a81c7b20079e8fb8ed461cd411.jpg)  
+图9精度验证   
+图10CRUTSv4.05数据集精度验证  
+Fig.10 Precisionvalidationof CRUTSv4.O5dataset
+
+1970—2019年巴尔喀什湖流域多年平均气温约为 $6 . 0 2 ~ \mathrm { ^ { \circ } C }$ ,流域气温在研究时段内整体呈显著上升趋势，通过了 $9 9 \%$ 置信度检验，变化率为 $0 . 3 9 ^ { \circ } \mathrm { { C } }$ ：$( 1 0 \mathrm { a } ) ^ { - 1 }$ （图11a)。M-K检验的结果表明巴尔喀什湖流域的年均温在1988年发生突变，开始出现增温趋势，2003年以后流域的年均温上升趋势显著，置信度超过 $9 5 \%$ (图11b)。巴尔喀什湖流域多年平均降水量为 $2 8 0 . 5 8 4 ~ \mathrm { m m }$ ,其变化率为 $0 . 0 6 ~ \mathrm { { m m } } \cdot ( 1 0 \mathrm { { a } } ) ^ { - 1 }$ 未通过 $9 0 \%$ 置信度检验(图11c）。M-K检验结果表明巴尔喀什湖流域的年降水量出现多个突变点，降水量在1978—1995年波动幅度较大，而在1997年之后开始增多，2015年之后呈显著增加趋势，置信度达到 $9 5 \%$ （图11d）。
+
+对巴尔喀什湖流域气温及降水量变化与湖泊动态变化分时段进行相关性分析，结果表明水位、面积及水量变化在1970—1989年与气温、降水量均无相关关系，1990一2019年，仅水位与气温呈正相关，相关性为0.387（在 $9 5 \%$ 水平上显著)。因而，巴尔喀什湖流域气温及降水量变化与湖泊水位、面积及水量的年际变化在长期趋势上并无明显相关性，
+
+3.5.2人类活动1970年卡普恰盖水库建成后，伊犁河入湖水量由1950—1969年的 $1 4 8 . 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 锐减到1970—1985年的 $1 1 6 . 1 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 [ 4 1 - 4 2 ] }$ ,同时随着流域灌溉农业的发展，湖区及周边地区的农业用水大幅增长[43-44],最终使得巴尔喀什湖水位、面积以及水量在1970—1987年均持续下降。1986年起哈萨克斯坦有关部门终止水库蓄水计划、调节水库发电量并改善河道淤积状况，这一系列措施使得巴尔喀什湖生态环境有所改善。1991年苏联解体，哈萨克斯坦经济受创，国家终止了对农场的支持，实施土地私有化，并开始征收水费，巴尔喀什湖流域的灌溉面积因此直线下降[21],许多依靠电力驱动水泵的灌溉区被完全放弃，农业用水的减少进一步促使水位缓慢上升[23]，面积与水量随之呈现出回升趋势，2000—2006年，流域灌溉面积介于大约2000\~3000$\mathrm { k m } ^ { 2 }$ 之间,与20世纪90年代相比大幅减少（图12)[45]，在此期间，巴尔喀什湖的水位有了明显的回升趋势。因而，巴尔喀什湖流域内强烈的人类活动（包括卡普恰盖水库蓄水和哈萨克斯坦境内灌区耕地扩张等)是1970一1987年湖泊动态变化的主要影响因素，同时，人类活动也在湖泊动态变化的长期趋势中发挥着重要的影响作用。
+
+![](images/5b0fe09f0920512fdcf0184054eac57b21307f133c9b7ab7b8b8ce9f3132b2b9.jpg)  
+图111970—2020年巴尔喀什湖流域气候变化特征  
+Fig.11 Characteristics of climate change in Balkhash Lake Basin from 197O to 2020
+
+![](images/5bc643596c444bd52f3c9fb1091272d21559908fb31ce3aff0e7c1f279f4123a.jpg)  
+图121970—2006年巴尔喀什湖流域灌溉面积  
+Fig.12 Irrigated area in the Balkhash Lake Basin from 197O to 2006
+
+以往的研究结果表明[21.4.44-46],巴尔喀什湖动态变化受气温、降水量、蒸发量、冰川融水以及人类活动等多种因素的综合影响，定量地探讨各因素在不同时期湖泊动态变化中的驱动作用，系统地掌握和理解巴尔喀什湖动态变化的过程及原因，还需做更进一步的研究。
+
+# 4结论
+
+（1）据ICESat-1与CryoSat-2的监测结果，巴尔喀什湖水位于1970一1987年快速下降，平均变化速率为 $1 . 2 3 ~ \mathrm { m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,1987年至今，巴尔喀什湖水位总体呈现上升趋势，并伴随有周期性波动。同时水位具有较为规律的季节性变化，春季多年平均水位最高，秋季最低，水位增长主要发生在湖泊结冰期（11月底到次年4月初），暖季(4一10月)水位波动比冷季(11月一次年3月)更剧烈；研究时段内，巴尔喀什湖面积呈现出先明显萎缩后略有恢复的变化过程，51a湖面缩减约 $1 6 . 7 7 \%$ ;在此期间，巴尔喀什湖水量损失约为 $1 2 . 3 3 \mathrm { k m } ^ { 3 }$ 。
+
+(2）巴尔喀什湖动态变化受气候变化与人类活动的共同影响，1970一1987年水位、面积及水量变化主要由卡普恰盖水库蓄水和哈萨克斯坦境内灌区耕地扩张等人类活动引起，但研究时段内，巴尔喀什湖的动态变化与气候变化在总体趋势上无明显相关性，定量描述二者之间的联系，还需进一步探讨。
+
+(3）测高卫星为湖泊水位监测提供了有效的技术手段，与常规水位测量方法相比，测高卫星不受自然环境及人力因素的限制，可覆盖更多湖泊，整合不同卫星的测高数据，还可获得较长时序的湖泊水位信息，这对研究湖泊水位的动态变化及其驱动因素具有重要意义。
+
+# 参考文献(References)
+
+[1] 施雅风.山地冰川与湖泊萎缩所指示的亚洲中部气候干暖化趋 势与未来展望[J].地理学报,1990,45(1):1-13.[ShiYafeng.Glacier recession and lake shrinking indicating the climatic warming and drying trend in Central Asia[J].Acta Geographica Sinica, 1990,45(1): 1-13.]   
+[2] LiuJ,Wang S,Yu S, etal. Climate warming and growth of high-elevation inland lakes on the Tibetan Plateau[J].Global and Planetary Change,2009,67(3): 209-217.   
+[3]张鑫,吴艳红.基于多源卫星测高数据的扎日南木错水位动态 变化(1992—2012年)[J].自然资源学报，2015,30(7):1153- 1162.[Zhang Xin,Wu Yanhong. Zhari namco water level change detection using multi-satellite altimetric data during 1992—2012 [J].Journal of Natural Resources,2015,30(7): 1153-1162.]   
+[4]于革.中国湖泊演变与古气候动力学研究[M].北京:气象出版 社,2001: 17-19.[Yu Ge. Study on lacustrine evolution and paleoclimate dynamics in China[M].Beijing:China Meteorological Press, 2001: 17-19.]   
+[5]李均力,陈曦,包安明,等.2003—2009年中亚地区湖泊水位变 化的时空特征[J].地理学报,2011,66(9):1219-1229.[Li Junli, Chen Xi, Bao Anming,et al. Spatial-temporal characteristics of lake level changes in Central Asia during 2003—2009[J].Acta Geographica Sinica,2011,66(9):1219-1229.]   
+[6]付颖昕,杨恕.苏联时期哈萨克斯坦伊型一 一巴尔喀什湖流域 开发述评[J].兰州大学学报(社会科学版).2009,37(4):16-24. [Fu Yingxin,Yang Shu. Commentary on the development of Kazakhstan Ili-Balkhash basin during the Soviet period[J]. Journal of Lanzhou University (Social Sciences),2009,37(4): 16-24.]   
+[7]UNEP.GEO Year Book 2004/5[DB/OL].[2008-12-01].http:// www.unep.org/geo/yearbook/yb2004/033.html.   
+[8]黎鹏,李辉.基于多源卫星测高数据的洞庭湖流域 2003—2017 年湖泊水位变化监测[J].地球科学,2020,45(6):956-966.[Li Peng,Li Hui.Monitoring the lakeslevelvariation inthe Dongting Lake Basin over 2O03—2O17 using the multi-mission satellite altimetry data[J]. Earth Science-Journal of China University of Geosciences,2020,45(6): 956-966.]   
+[9]何飞,刘兆飞,姚治君.Jason-2测高卫星对湖泊水位的监测精 度评价[J].地球信息科学学报,2020,22(3):494-504.[He Fei, Liu Zhaofei, Yao Zhijun. Evaluation of the monitoring accuracy of lake water level by the Jason-2 altimeter satelite[J]. Journal of Geo-information Science,2020,22(3): 494-504.]   
+[10] 李静,岳建平,宋亚宏,等.多代同任务测高卫星数据的系统误 差分析[J].海洋测绘,2015,35(6):21-23.[LiJing,YueJianping, Song Yahong,et al. System eror analysis of data from multigenerational altimeter satellites with the same task[J].Hydrographic Surveying and Charting,2015,35(6): 21-23.]   
+[11] 高乐.基于卫星测高技术的青藏高原湖泊水位和冰川高程变化 监测研究[D].北京:中国科学院大学,2014.[Gao Le.Monitoring the changes in lake level and glacier elevation in the Tibetan Plateauusing satellite altimetry data[D].Beijing:University of Chinese Academy of Sciences, 2014.]   
+[12]Cre'taux JF,BirkettC.Lakestudiesfromsatellteradaltimetry [J]. Comptes Rendus Geoscience,2006,338(14-15): 1098-1112.   
+[13] Song C Q, Huang B, Richards K,et al. Accelerated lake expansion on the Tibetan Plateau in the 2OOOs: Induced by glacial melting or other processes?[J]. Water Resources Research,2014,50(4): 3170-3186.   
+[14]Zhang G Q,Xie HJ, KangSH,etal.Monitoring lake levelchanges on the Tibetan Plateau using ICESat altimetry data (2003- 2009)[J].Remote Sensing of Environment,2011,115(7):1733- 1742.   
+[15]Wang XW,Gong P, Zhao YY,et al. Water-level changes in China's large lakes determined from ICESat/GLAS data[J].Remote Sensing of Environment, 2013,132: 131-144. [16] 赵云,廖静娟,沈国状,等.卫星测高数据监测青海湖水位变化 [J].遥感学报,2017,21(4): 63-644.[Zhao Yun,LiaoJingjuan, Shen Guozhuang,et al. Monitoring the water level changes in Qinghai Lake with satelite altimetry data[J]. Journal of Remote Sensing, 2017,21(4): 633-644.] [17]Song C Q, Ye Q H, Sheng Y W,et al. Combined ICESat and Cryosat-2 altimetry for accessing water level dynamics of Tibetan lakes over 2003—2014[J].Water,2015,7(9): 4685-4700. [18]宋春桥,叶庆华,程晓.基于ICESat/CryoSat-2卫星测高及站点 观测的纳木错湖水位趋势变化监测[J].科学通报,2015,60 (21): 2048.[Song Chunqiao, Ye Qinghua, Cheng Xiao. Shifts in waterlevel variation of Namco in the central Tibetan Plateau from ICESat and CryoSat-2 altimetry and station observations[J]. Science Bulletin,2015,60(21): 2048.] [19] 杨川德,邵新媛.亚洲中部湖泊近期变化[M].北京:气象出版 社,1993:26.[Yang Chuande,Shao Xinyuan.Recent change of lakes in Central Asia[M].Beijing: China Meteorological Press,   
+1993: 26.] [20]杨川德.巴尔喀什湖水位变化及其原因[J].干旱区地理,1993,   
+16(1): 36-42.[Yang Chuande.Water level of Balkhash Lake and its reason for change[J].Arid Land Geography,1993,16(1): 36-   
+42.] [21] 龙爱华,邓铭江,谢蕾,等.巴尔喀什湖水量平衡研究[J].冰川冻 土,2011,33(6): 1341-1352.[Long Aihua, Deng Mingjiang, Xie Lei,etal.A study of the waterbalance of Lake Balkhash[J]. Journal of Glaciology and Geocryology,2011,33(6): 1341-1352.] [22] 郭利丹,夏自强,李捷,等.巴尔喀什湖流域气候变化特征分析 [J].河海大学学报(自然科学版),2008,36(3):316-321.[Guo Lidan,Xia Ziqiang,Li Jie,et al. Characteristics of climatic change in the Balkhash Lake Basin[J]. Journal of Hohai University (Natural Sciences Edition),2008,36(3): 316-321.] [23]Propastin PA. Patterns of Lake Balkhash water level changes and their climatic correlates during 1992—2010 period[J]. Lakes & Reservoirs Research & Management, 2012,17(3): 161-169. [24]Propastin PA.Simple model for monitoring the water level in Balkhash Lake and discharge of the Ili River: Application of remote sensing[J]. Lakes & Reservoirs Research & Management,   
+2010,13(1): 77-81. [25] 臧菁菁,李国柱,宋开山,等.1975—2014年巴尔喀什湖水体面 积的变化[J].湿地科学,2016,14(3):368-357.[Zang Jingjing,Li Guozhu, Song Kaishan,et al.Changes in water area of Balkhash Lake from 1975 to 2014[J]. Wetland Science,2016,14(3):368-375.] [26] 成晨,傅文学,胡召玲,等.基于遥感技术的近30年中亚地区主 要湖泊变化[J].国土资源遥感,2015,27(1):146-152.[Chen Cheng,Fu Wenxue,Hu Shaoling,et al.Changes of major lakes in Central Asia over the past 3O years revealed by remote sensing technology[J]. Remote Sensing for Land and Resources,2015, 27 (1): 146-152.]
+
+# 干吴区地理
+
+[27] 高彦华,王洪亮,周旭,等.巴尔喀什湖近30余年动态变化遥感 监测与分析[J].环境与可持续发展,2016,41(1):102-106.[Gao Yanhua,Wang Hongliang, Zhou Xu,et al. Remote sensing monitoring and analyses of the dynamic change of Balkhash Lake in the last 3O years[J]. Environment and Sustainable Development, 2016, 41(1): 102-106.]   
+[28]Krupa E, Slyvinskiy G,Barinova S.The effect of climatic factors on the long-term dynamics of aquatic ecosystem of the Balkhash Lake (Kazakhstan, Central Asia)[J]. Advanced Studies in Biology, 2014, 6(3): 115-136.   
+[29]葛莉,习晓环,王成,等.ICESat-1/GLAS数据湖泊水位监测研 究进展[J].遥感技术与应用,2017,32(1):14-19.[GeLi,Xi Xiaohuan, Wang Cheng, et al. Research progress of ICESat-1/GLAS in lake level monitoring[J]. Remote Sensing Technologyand Application,2017,32(1): 14-19.]   
+[30]Zwally HJ,Schutz R,Bentley C,et al.GLAS/ICESat L2 global land surface altimetry data V018,15 October to 18 November 2003[R]. Colorado: National Snow and Ice Data Center, 2003.   
+[31] Jiang L G,Nielsen K,Andersen O B,et al. Monitoring recent lake level variations on the Tibetan Plateau using CryoSat-2 SARIn mode fata[J]. Journal of Hydrology,2016,544: 109-124.   
+[32]Bouffard J. CryoSat level-2 product evolutions and quality improvements in baseline C[J/OL].[2019-05-19]. htps: //earth.esa. int/web/guest/document-library/browse-document- library/-/article/cryosat-level-2-product-evolutions-and-qualityimprovementsinbaseline-c.   
+[33] Yang X W,Wang N L, Chen A A,et al. Changes in area and water volume of the Aral Sea in the arid Central Asia over the period of 1960—2018 and their causes[J]. Catena,2020,191:104566,doi: 10.1016/j.catena.2020.104566.   
+[34]王劲松,陈发虎,张强,等.亚洲中部干旱半干旱区近100年来 的气温变化研究[J].高原气象,2008,27(5):1035-1045.[Wang Jinsong, Chen Fahu, Zhang Qiang,et al. Temperature variations in aridand semi-arid areas in middle part of Asia during the last 100 years[J]. Plateau Meteorology,2008,27(5): 1035-1045.]   
+[35] 魏鑫,李斐,张胜凯,等.CryoSat-2卫星测高计划及其应用[J]. 极地研究,2015,27(4): 446-453.[Wei Xin,LiFei,Zhang Shengkai,et al. CryoSat-2 satelite altimetryand its application[J]. Chinese Journal of Polar Research,2015,27(4): 446-453.]   
+[36] 赵云.雷达高度计数据中国主要湖泊水位变化监测方法研究 [D].北京:中国科学院大学(中国科学院遥感与数字地球研究 所),2017.[Zhao Yun. Method of monitoring water level change of main lakes in China with radar altimeter data[D]. Beijing:Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences,2017.]   
+[37] 陈栋栋.基于Landsat 和ICESat的中亚干早区典型湖泊水量平 衡估算[D].兰州:西北师范大学,2018.[Chen Dongdong. Water balance estimates of typical lakes in arid region of Central Asia using ICESat and Landsat data[D]. Lanzhou: Northwest Normal University,2018.]   
+[38]Mcfeeters S K.The use of the normalized difference water index (NDWI) in the delineation of open water features[J]. International Journal of Remote Sensing,1996,17(7): 1425-1432.   
+[39] 吴红波.基于星载雷达测高资料估计博斯腾湖水位-水量变化 研究[J].水资源与水工程学,2019,30(3):9-16,23.[Wu Hongbo.Studies on changes in water level and storage of Bosten[J]. Journal of Water Resources and Water Engineering,2019,30(3): 9-16,23.]   
+[40]Qiao B, Zhu L,Wang J,et al. Estimation of lake water storage and changes based on bathymetric data and altimetry data and the association with climate change in the central Tibetan Plateau[J]. Journal of Hydrology，2019,578:124052,doi:10.1016/j.jhydrol.2019.124052.   
+[41]肖婷婷,夏自强,郭利丹,等.巴尔喀什湖流域1936—2005年气 温特征[J].河海大学学报(自然科学版),2011,39(4):391-396. [Xiao Tingting, Xia Ziqiang, Guo Lidan,et al. Temperature characteristics in the Balkhash Lake Basin from 1936 to 2O05[J]. Journal of Hohai University (Natural Sciences),2011,39(4): 391-396.]   
+[42]Kezer K,Matsuyama H. Decrease of river runoff in the Lake Balkhash Basin in Central Asia[J].Hydrological Processes,2006, 20(6): 1407-1423.   
+[43] 加帕尔·买合皮尔.人类活动对伊犁巴尔喀什湖流域生态环境 的影响与对策[C]//人类活动对亚洲中部水资源和环境的影响 及天山积雪资源评价.乌鲁木齐:新疆科技卫生出版社,1997: 49-62.[Mahpir Jappar. Affection and countermeasure of environment of Ii-Balkhash Lake Basin underhuman activities[C]//Water Resources and the Environment in the Central Asia under Human Activities and Assessment of Tianshan Snow Resources. Urumqi: Xinjiang Science & Medical Publishing House,1997: 49-62.]   
+[44]Pueppke SG,Zhang Q,Nurtazin S T.Irrigation in the Ili River Basinof Central Asia: From ditches todams and diversion[J]. Water, 2018,10(11): 1650,doi: 10.3390/w10111650.   
+[45]Niels T,Sabir N,Volker B,et al.Water consumption of agriculture and natural ecosystems along the Ili River in China and Kazakhstan[J].Water,2017,9(3): 207,doi: 10.3390/w9030207.   
+[46] 邓铭江,王志杰,王姣妍.巴尔喀什湖生态水位演变分析及调控 对策[J].水利学报,2011,42(4):403-413.[Deng Mingjiang, Wang Zhijie,Wang Jiaoyan.Analysis of Balkhash Lake ecological water level evolvement and its regulation strategy[J]. Journal of Hydraulic Engineering,2011,42(4): 403-413.]
+
+# Dynamic monitoring of Balkhash Lake from 1970 to 2020 based on multi-source remote sensing data
+
+ZHANG Yujie1²， WANG Ninglian123, YANG Xuewen'²， TAI Xuenan12 (1.ShnxiKeyLboratoryofEarthurfaceSystemandEnvironmentalarringCapacityNorthwestUnversity,Xi'an0127, Shaanxi,China;2.InstituteofEarthSurface Systemand Hazards,ColegeofUrbanandEnvironmentalSciences,Northwest University,Xi'an 71O127,Shaanxi,China;3.CAS Center for Excelencein TibetanPlateau Earth Sciences, Beijing 100101, China)
+
+Abstract: Due to climate change and anthropogenic activities,water resource issues are challenging and have attracted significant attntion worldwide.Lake level variation is an essential indicator of regional and global climate and environment.For the past few decades,the development of remote sensing has enabled long-term dynamic monitoring of lake levels and areas. In this work,the water level change of Balkhash Lake during the period of 1970—2020 was derived from ICESat-1, CryoSat-2,and the hydro-meteorological stations.Moreover, combined with MODo9Al data and related literature,the area and water volume change of Balkhash Lake in a long time series were analyzed.The results indicated that during the study period,the water level of Lake Balkhash first showed a downward trend,and reached its lowest point $( 3 4 0 . 6 4 ~ \mathrm { m } )$ in 1987,and then began to fluctuate upward. Generally, the water level growth during the year mainly occurred from the end of February to the begining of June.The water level fluctuates more dramatically in the warm season (from April to October) than in the cold season (from November to March of the following year).The multi-year average water level is the highest in spring and lowest in autumn.From 1970 to 2020,the area of the Balkhash Lake decreased from $1 9 9 9 6 \mathrm { k m } ^ { 2 }$ to $1 6 6 4 1 . 9 3 ~ \mathrm { k m } ^ { 2 }$ ，and the lake area decreased by about $1 6 . 7 7 \%$ . Meanwhile, the water volume of the Balkhash Lake undergone a total loss of approximately $1 2 . 3 3 \ \mathrm { k m } ^ { 3 }$ . The analysis revealed that the dynamic changes of the lake from 1970 to 1987 were mainly caused by human activities,such as the impoundment of the Kapchagay Reservoir and the expansion of arable land in the irigation area in Kazakhstan. However, the overall trend of temperature and precipitation has no obvious correlation with the dynamic changes of the lake. Owing to the complexity and uncertainty of environmental changes,quantitative discusson of the impact of various factors on lake dynamics requires further research.Multi-mision altimetry satelite provides a powerful tool for the longterm and large-scale monitoring of lake level variations, which is of great significance to the study of lake level change and its response to climate and environment.
+
+Key words: ICESat-1; CryoSat-2; dynamic changes; Balkhash Lake

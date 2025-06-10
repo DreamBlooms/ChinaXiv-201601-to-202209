@@ -1,0 +1,355 @@
+# 基于多类别参数随机调优的境外活动安全评估模型研究
+
+郭孟杰'，许志伟1,2，刘利民1，郭美城'，王永生1，杨皓麟！
+
+(1．内蒙古工业大学 数据科学与应用学院，呼和浩特 010080;2.中国科学院计算技术研究所，北京 100080)
+
+摘要：为保障境外出行人员的境外活动安全，针对现有的数据存在数据缺失、类型多样且类型不一致等问题，在相关评估标准缺失的情况下提出了一种基于多类别参数随机调优的境外活动安全态势评估模型，构建数据量化、筛选机制，自适应调整模型参数，获得安全评估结果并分级，最终实现对安全态势评估和预警。通过与相关评估方案及国际范围内的真实恐怖袭击事件的分布进行比对分析，验证了安全评估模型的准确性，相应系统具有一定的实用价值。
+
+关键词：境外活动；安全态势评估机制；多类别参数随机调优；量化分级评估 中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2018.11.0825
+
+# Research on security evaluation model for oversea activities based on random model tuning of multi-type parameters
+
+Guo Mengjie1,Xu Zhiwei1,2†,Liu Limin1,Guo Meicheng1,Wang Yongsheng1, Yang Haolin1 (1.ColegeofDataSience&Applications,Innerongolia UniversityofTechnology,Hohoto80,China;2.Istitte ofComputing Technology,Chinese Academy of Sciences,Beijing 1Ooo8o,China)
+
+Abstract: To ensure the securityofoversea travelers,this paper proposes asecuritysituationassssment model foroversea activities basedon multi-class parametersrandom tuning.However,theexisting related datahas problemsof missing data, various types and inconsistent types.Intheabsence of relevant evaluationcriteria，this paperconstructing data quantificationand screning mechanism,andadjust the modelparameters adaptively,by which the safety assessment esults are obtained and ranked,achieve security posture assessment and early warning.The accuracy of the proposed safety situationassessment modelisdemonstrated bycomparing it withthedistributionofreal-worldinternationalterroristevents., the corresponding system has certain practical value.
+
+Key words: oversea activities；security situation asessment mechanism；random tuning of multi-type parameters: quantitative ranking
+
+# 0 引言
+
+20世纪90年代以来，经济全球化的浪潮迅猛发展，改变了以往国家、地域之间的界限，对当代国际政治经济格局产生了极其深刻的影响1。随着经济全球化和区域合作的不断发展，世界各国间相互依赖关系进一步加强，社会政治、文化以及人们的思想观念等社会生活各方面都发生了巨大的改变。世界各国争相开辟国际市场，以跨国投资和经营为特征的经济全球化发展已呈现锐不可挡之势。随着这些跨国公司的建立，企业人员的境外活动的日益增多。同时，随着物质生活的不断提高，越来越多的人倾向于选择出国留学或旅行。然而，在前往世界各国进行交流和合作的过程中，企业与个人往往面临着潜在的安全风险。在当今世界经济、社会不稳定因素的影响下，恐怖主义、跨国犯罪等非传统安全威胁与日俱增，涉及区域广泛，为企业与个人的境外活动增添了不确定因素[2]。如图1所示，过去20年来，世界范围内恐怖事件时有发生，恐怖事件频率逐年上涨。为了有效应对这些安全威胁，需要准确且有效地分析全球安全态势，以便有针对性地提出合理的预警，保障企业和个人的境外活动安全。
+
+为了防范安全隐患，如何有效地综合各类恐怖袭击事件信息，评估国际安全形势已经成为了一个重要的研究课题。国际上对恐怖袭击事件的定义如下：非政府组织或个人，威胁或实际使用非法武力和暴力，通过胁迫或恐吓以达到政治、经济、宗教或社会目的的行为。这意味着恐怖袭击事件必须包含所有以下三个属性：必须是有意而为之的事件；必须具备暴力或直接的暴力威胁性质（危害财产及人身安全）；事件的发起者必须是非政府的组织或个人。从上述属性可以总结得出一个对恐怖袭击事件的简单描述，恐怖袭击事件完全是人为的有针对性的大规模恶性暴力事件。这是恐怖袭击事件区别于其他突发事件的本质特征。自然灾害，事故等突发事件同一会造成大规模的财产和人生安全损失，但是这些事件并不是有意而为之的事件，相对而言更加容易进行管控和预测。
+
+文献[3]系统地探讨了我国应急管理体制框架的建立，在
+
+收稿日期：2018-11-05；修回日期：2018-12-04 基金项目：国家自然科学基金资助项目（61540004，61502255，61650205）；内蒙古自治区自然科学基金资助项目（2018MS06003，2017MS（LH）0601)
+
+作者简介：郭孟杰（1993-），女，山西晋城人，硕士，主要研究方向为云计算与大数据分析；许志伟（1979-），男（通信作者），内蒙古呼和浩特人，讲师，博士，主要研究方向为边缘计算可靠性机理、网络舆情分析（xuzhiwei201@ict.ac.cn）；刘利民（1964-），男，内蒙古呼和浩特人，教授，硕士，主要研究方向为网络舆情分析；郭美城（193-），女，内蒙古多伦人，硕士，主要研究方向为云计算与大数据分析；王永生（1976-），男，内蒙古丰镇人，高级工程师，硕士，主要研究方向为大数据处理与分析、机器学习；杨皓麟（1996-），男，河南洛阳人，硕士，主要研究方向为云计算与大数据分析.
+
+突发事件分级的问题上，指出分级标准需要依据事件的性质、严重程度、可控性和影响范围等要素加以确定和细化。文献[4]基于我国突发事件分级规定，将云模型理论引入到突发事件分级研究中，根据领域专家意见确定分级指标体系，解决了分级过程中存在的模糊性、随机性等问题。文献[5]提出一种改进模糊综合评价的方法，该方法结合我国《国家突发环境事件应急预案》当中的有关规定，从六个方面建立影响因素集合，形成分级指标与等级，针对同时包含定量和定性决策信息的突发环境事件分级问题，在权重的确定上利用熵权法和改进模糊层次分析法求得事件属性的客观权重与主观权重，最后构建模糊评价矩阵进行综合判断，为突发事件的等级评估提供一种有效的方法。然而，在以上工作的研究对象主要集中于自然灾害、有害物质泄漏等问题，其方法依据现有的相关规定与标准对问题进行分级与评估，对于涉及个人与企业的人身安全以及没有明确分级标准的恐怖袭击事件，以上方法无法直接应用。
+
+![](images/e9c99f97caf53a831941f2d19570757066386b3389452044a2c5e1f1019d009e.jpg)  
+图11998-2017年恐怖袭击事件数量统计图Fig.1The number of terrorist attacks in 1998-2017
+
+目前针对恐怖袭击事件的研究主要是对特定场景下（地铁、机场等区域）的恐怖主义事件的分析[6-8]，以及恐怖组织的行为分析和预测方面[9-11]。这些研究仅仅分析了现有的恐怖袭击事件所带来的危害及其风险，并未通过具体的量化数据分析来评估事件危害性，因此无法为境外活动提供安全出行建议。Inyaem等人[12]则提出了一种框架，自适应模糊推理系统（adaptive neuro-fuzzy inference systems，ANFIS）对泰国境内发生恐怖主义事件进行分级，该系统利用模糊逻辑理论中自动识别和隶属函数调整机制，取得了比较好的恐怖袭击事件分级和安全态势评估结果。模型所采用的数据来自泰国南部三个省份恐怖袭击事件相关的新闻文章。然而，为了能够准确地评估境外安全态势，需要对恐怖袭击事件的所有相关信息进行综合评估。其中，恐怖袭击事件相关的数值型特征（死亡人数等），二分类型特征（是否为持续事件等），多分类型特征（武器类型等）同文本型特征相比是更加显著的评估影响因素，如何科学融合各类特征构建有效的评估模型是境外活动安全态势评估需要解决的首要问题。
+
+综上所述，要实现境外活动安全评估模型的建立，主要有两大挑战：a)相关数据类型复杂多样，数据量庞大，应该如何对其进行处理与整合，并实现其权重参数的合理调优;b)在没有相关国际分类分级标准的前提下，如何准确客观地评估境外活动安全态势。针对以上两个问题，本文提出了一种基于多类别参数随机调优的境外活动安全评估模型。运用大数据分析技术，构建数据量化、筛选机制，实现数据的统一化表示。随后对统一后的特征进行降维，去除影响评估结果的数据。降维后的数据自适应调整模型参数，并建立分级评估模型。依据分级结果，实现对现有国际安全态势的评估。最终结果证明，本文所提出的模型可以准确有效地实现对现有数据的量化分级，并进一步实现对现有国际安全态势的准确评估与预测。
+
+# 1境外活动安全态势评估系统
+
+目前，尚没有明确的标准来对恐怖袭击事件的危害性进行分级与评估。全球恐怖主义数据库[13]（globalterrorismdatabase,GTD）是一个开源数据库，包括1970年至2017年全球恐怖主义事件的信息，对于每个GTD事件，都可以获得记录事件的各类型特征数据，如有关事件发生的日期和地点、死亡人数、使用的武器和目标的性质、事件的连续性以及负责的团体或个人的信息。然而，类似于其他恐怖袭击事件数据，GTD记录这些事件的数据类型复杂多样，且存在数据缺失，难以使用统一方法或模型进行量化分析与处理。如何基于这样类型多样的数据构建准确的地区安全态势评估模型具有极大的挑战。本文有针对性地研究数据量化与综合评估模型，实现了对不同地区安全态势的准确评估。首先，为了构建综合评估模型，研究二分类型特征、多分类型特征及文本型特征的数值量化方法；其次，从海量特征中降维筛选关键特征，并构建基于随机梯度下降法的特征权重学习算法，构建综合评估模型；最后，为了给出不同地区安全态势的准确评估结果，研究恐怖袭击事件量化分级机制，实现了对不同地区恐怖袭击事件的科学分级，为明确安全态势、以可视化方式实现安全预警威胁提供了基础。
+
+# 1.1文本特征的数值量化
+
+为了建立合理且准确的评估模型，需要收集恐怖袭击事件详细的相关信息，包括事件发生的时间、地域和财产损失等。而GTD 中提供了详细的事件记录。本文将恐怖袭击事件的数据划分为四种基本特征：数值型特征，文本型特征，二分类型特征，多分类型特征。在众多类型特征中，由于各类型特征具有不同表示方式，无法直接使用统一的模型对其进行综合分析。为了保证评估结果的准确性，首先需要对收集到的各类数据进行量化处理。
+
+在恐怖袭击事件数据中，由于数值型特征、二分类特征和多分类特征都直接采用数值方式表示，而文本特征的表示方式与其他类型特征有明显差异，因此，采用如下三步实现文本特征的量化：首先，本文首先利用词袋模型形成词频文档，去掉热词、停用词和词频较少的词汇。其次，使用TF-IDF实现文档的向量化表示。最后，运用自适应的KNN算法对文本进行聚类，最终实现文本特征的数值量化。
+
+文本特征数量化的具体步骤如下所示：
+
+a)使用词袋模型将文本以数值特征向量的形式来表示。为整个文档集上的每个单词创建一个唯一的标记。为每个文档构建一个特征向量，主要包含每个单词在文档上的出现次数。
+
+b)使用TF-IDF来获取词的权重。 $T F - I D F$ 是一种用于信息检索与数据挖掘的常用加权技术。 $T F$ 意思是词频， $I D F$ 意思是逆向文件频率。 $T F - I D F$ 可以定义为词频 $\mathsf { i } \times$ 逆文档频率：
+
+$$
+T F - I D F ( t , d ) = T F ( t , d ) \times I D F ( t , d )
+$$
+
+其中: $\boldsymbol { T } \boldsymbol { F } ( t , d )$ 表示单词 $t$ 在文档 $\boldsymbol { \mathscr { d } }$ 中的出现次数， $I D F ( t , d )$ 为逆文档频率，计算公式如下：
+
+$$
+I D F ( t , d ) = \log \frac { n _ { d } } { 1 + d f ( t , d ) }
+$$
+
+其中： $n _ { d }$ 表示文档的总数， $d f ( t , d )$ 表示包含单词 $t$ 的文档 $^ d$ 的数量。
+
+通过以上步骤可以得到文档的向量化表示。
+
+c)使用KNN算法对文本进行分类。该算法是机器学习中一种典型的分类算法，因其基于稳定、简单、无参数等特性而被广泛应用[14,15]。相较于其他文本分类算法，KNN 在分类性能上更为出色。以下是使用KNN对文本进行分类的具体步骤:
+
+(a)计算测试数据与各个训练数据之间的距离。
+
+$$
+D ( x , y ) = ( \sum _ { i = 1 } ^ { m } \bigl | x _ { i } - y _ { i } \bigr | \ ) ^ { p } \frac { 1 } { \ l ^ { p } }
+$$
+
+其中， $P \geq 1$ ,当 $p = 2$ 时，是欧式距离，当 $p = 1$ 时为曼哈顿距离。
+
+(b)按照距离的递增关系进行排序；
+
+选取距离最小的 $K$ 个点；
+
+确定前 $K$ 个点所在类别的出现频率；
+
+返回前 $\kappa$ 个点中出现频率最高的类别作为测试数据的预测分类。
+
+在 $K$ 值的确定中，本文使用 $\boldsymbol { K }$ 折交叉验证估算KNN算法中的 $K$ 值：将全部训练集 $s$ 分成 $k$ 个不相交的子集，假设 $s$ 中的训练样例个数为 $\mathbf { m }$ ，那么每一个子集有 $\%$ 个训练样例;每次从分好的子集中，选出一个作为测试集，另外 $k { - } 1$ 个作为训练集；根据训练集得到模型；根据模型对测试集进行测试，得到分类率；计算 $\boldsymbol { K }$ 次求得的分类率的平均值，作为模型的最终分类率。通过以上步骤可以确定 $K$ 的值，并最终得到文本类数据数值量化的结果。
+
+# 1.2境外活动安全评估模型权重的确定
+
+通过对各类数据的量化处理，可以获得统一形式的各类特征数据，便于后续对数据的处理。量化后的特征中，仍然有一部分无关数据存在，它们对于模型的评估结果产生了一定干扰。为了更好地对事件分级的准确性进行评估，本文对数据进行降维，去除无关特征。
+
+降维的具体步骤如下：
+
+a)设有 $\mathfrak { n }$ 个特征，每个特征共有 $\textbf { z }$ 个变量，将原始数据矩阵化：
+
+$$
+{ \begin{array} { r l } { X } & { = { \left[ \begin{array} { l l l l } { x _ { 1 1 } } & { x _ { 1 2 } } & { \cdots } & { x _ { 1 z } } \\ { x _ { 2 1 } } & { x _ { 2 2 } } & { \cdots } & { x _ { 2 z } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { x _ { n 1 } } & { x _ { n 2 } } & { \cdots } & { x _ { n z } } \end{array} \right] } } \end{array} }
+$$
+
+b)将原始数据标准化：
+
+$$
+x _ { i } ^ { * } = \frac { x _ { i } - \overline { { x _ { i } } } } { \sqrt { s _ { i i } } } i = 1 , 2 , \cdots , z
+$$
+
+其中： $\overline { { x _ { i } } }$ 为 $x _ { i }$ 的均值， $s _ { i i }$ 为样本离差阵S的元素。
+
+设矩阵 $X$ 已进行标准化。计算变量 $x _ { i } ^ { * }$ 的相关系数矩阵为
+
+$$
+R = { \left[ \begin{array} { l l l l } { r _ { 1 1 } } & { r _ { 1 2 } } & { \cdots } & { r _ { 1 z } } \\ { r _ { 2 1 } } & { r _ { 2 2 } } & { \cdots } & { r _ { 2 z } } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { r _ { z 1 } } & { r _ { z 2 } } & { \cdots } & { r _ { z z } } \end{array} \right] }
+$$
+
+其中： $r _ { i j }$ 为原变量 $x _ { i }$ 与 $x _ { j }$ 之间的相关系数，其计算公式为
+
+$$
+r _ { i j } = { \frac { \displaystyle \sum _ { k = 1 } ^ { n } \left( x _ { k i } - { \overline { { x _ { i } } } } \right) \left( x _ { k j } - { \overline { { x _ { j } } } } \right) } { \sqrt { \displaystyle \sum _ { k = 1 } ^ { n } \left( x _ { k i } - { \overline { { x _ { i } } } } \right) ^ { 2 } \sum _ { k = 1 } ^ { n } \left( x _ { k j } - { \overline { { x _ { j } } } } \right) ^ { 2 } } } }
+$$
+
+计算 $R$ 的特征值 $\lambda$ 和特征向量 $\boldsymbol { \mathscr { e } }$ ，共分为两步：
+
+(a)解特征方程 $\left| \lambda I - R \right| = 0$ ，用幂法求出特征值$\lambda _ { i } \left( i = 1 , 2 , \cdots , z \right)$ ，并且将其排列，即 $\lambda _ { 1 } \ge \lambda _ { 2 } \ge \cdots \ge \lambda _ { z } \ge 0$ ：
+
+(b)同样利用幂法将特征值 $\lambda _ { i }$ 对应的特征向量（204号 $e _ { i } ( i = 1 , 2 , \cdots , z )$ 分别求出，且要求 $\sum _ { j = 1 } ^ { z } { e _ { i j } } ^ { 2 } = 1$ □
+
+c)计算主成分贡献率和累计贡献率。
+
+主成分贡献率为
+
+$$
+\frac { \lambda _ { i } } { \sum _ { k = 1 } ^ { z } \lambda _ { k } } , i = 1 , 2 , \cdots , z
+$$
+
+累计贡献率为
+
+$$
+\frac { \displaystyle \sum _ { k = 1 } ^ { i } \lambda _ { k } } { \displaystyle \sum _ { k = 1 } ^ { z } \lambda _ { k } } , i = 1 , 2 , \cdots , z
+$$
+
+将量化处理后的数据通过上述降维方法进行处理与计算，比较其累计贡献率，筛选出主要影响特征。一般来说，可以根据特征值的大小（以大于等于1为原则）或者累积方差贡献率（大于 $70 \%$ ）来选取主成分。通过降维，有效去除了数据中的无关部分，减小无关特征对安全态势评估的影响。
+
+影响评估结果的杂质被去除后，需要进一步学习各个特征的指标权重，构建综合评估模型。指标权重是指该指标在整体评价中的相对重要程度[16]。在多因素的各种评价决策问题中，确定各因素的权重是评价决策的关键之一。在境外活动安全评估模型的建立中，指标权重的大小取决于很多因素，如定性指标、定量指标、主观因素、客观因素等，并且指标与指标之间也存在着错综复杂的关系。因此，客观、合理地设定指标权重，对恐怖袭击事件最终评估结果有着决定性的意义。
+
+权重的确定方法不一而足，传统的权重确定方法往往只考虑了事件的模糊性，并且在特征选择与权重确定时，已经有明确的判断标准，而无法从客观数据中根据属性重要性确定各属性的客观权重[16]。而随机梯度下降算法作为梯度下降算法的一个变种，在处理大规模训练数据的问题是有很好的表现[17]，该算法采用随机梯度代替梯度来进行迭代更新，导致其每一次迭代的代价很小， $\mathbf { \Sigma } = \mathbf { \Sigma }$ 并且不受训练集规模的影响。使用随机梯度而不是梯度的另一个优点是，当目标优化问题不是凸优化问题时，使用梯度下降的方法能否收敛到全局最优值受到初始点和步长的选取的影响。一旦迭代过程陷入到局部极值，将很难从局部极值中跳出。随机梯度下降算法可以在很大程度上解决这个问题[18]。鉴于以上优势，本文采用随机梯度下降算法对恐怖袭击事件中各属性的权重值进行训练。梯度下降法先随机给出参数的一组值，然后迭代更新参数，使每次更新后的损失函数更小，直到达到最优。首先，特征权重损失函数如下：
+
+$$
+C ( w , b ) = \frac { 1 } { 2 n } \sum _ { x } \left\| y ( x ) - a \right\| ^ { 2 }
+$$
+
+其中： $w$ 为不同特征权重， $b$ 为偏置， $n$ 为训练数据集实例个数， $x$ 为输入值， $\mathbf { \Delta } _ { a }$ 为当 $x$ 输入时的输出值。本模型的目标是求解，当代价函数 $\boldsymbol { C } ( \boldsymbol { w } , \boldsymbol { b } )$ 最小时，确定不同特征权重 $w$ 的取值。
+
+算法基于随机梯度下降的多特征模型学习算法  
+输入：数据集 $s$ ，终止距离 $\varepsilon$ 0  
+初始化权重 $w = 0$ ，偏置 $b = 0$ ，batch_size： $n = 3 2$ ，学习率 $\scriptstyle { \alpha = 0 }$ 0输出：权重 $w$ 。  
+a)随机选择 $n$ （其中 $\mathbf { n } \in S$ ）个样例进行训练；  
+b)根据代价函数计算偏导数 $\boldsymbol { \nabla } C$ ,其中 $\nabla C = \frac { 1 } { n } \sum _ { i } ^ { n } \nabla C _ { X _ { i } }$
+
+如果 $\left\| \nabla C \right\| < \varepsilon$ ，则返回步骤e)，否则进入步骤b)；
+
+c）计算下降距离 $d _ { 0 }$ ， $d _ { \mathrm { 0 } } = - \alpha \nabla C$ ：  
+d）更新所有参数模型，更新方程如下：$w _ { k }  w _ { k } ^ { \prime } = w _ { k } - \frac { \eta } { n } \sum _ { i } \frac { \hat { \sigma } C _ { X _ { i } } } { \hat { \sigma } w _ { k } } \ ,$   
+$b _ { l }  b _ { l } ^ { \prime } = b _ { l } - \frac { \eta } { n } \sum _ { i } \frac { \partial C _ { X _ { i } } } { \partial w _ { l } }$   
+e)重复上述步骤，直至达到最优解；  
+$\mathsf { f } \mathsf { \Pi } ,$ 返回调优后的权重。
+
+# 1.3境外出行安全分级评估模型建立
+
+为了实现对不同地区安全态势的准确评估，有针对性地提出意见与建议，需要对相关事件进行分级。本文通过集对分析思想实现安全评估结果的分级。
+
+通过1.2节中的数据处理，现将不同特征的权重值列为权值矩阵如下：
+
+$$
+W = ( w _ { 1 } , w _ { 2 } , \dots w _ { n } )
+$$
+
+设系统将事件危害性等级划分为 $c _ { \mathrm { r } _ { 1 } } , c _ { 2 } , \ldots c _ { \mathrm { n } }$ 共 $n$ 个级别，组成分级模型的评分集合，对于每个级别，有 $k _ { 1 } , k _ { 2 } , \ldots k _ { m }$ 共 $\mathbf { m }$ 个特征，每个级别的每个特征都有一个特征值，将其记为$a _ { i j } ( i = 1 , 2 , . . . , m ; j = 1 , 2 , . . . , n )$ ，由此可以得到评估矩阵为
+
+$$
+R = { \begin{array} { c } { \left| a _ { 1 1 } \quad a _ { 1 2 } \quad \cdots \quad a _ { 1 n } \right|} \\ { a _ { 2 1 } \quad a _ { 2 2 } \quad \cdots \quad a _ { 2 n } } \\ { \vdots \quad \vdots \quad \vdots \quad \vdots } \\ { a _ { m 1 } \quad a _ { m 2 } \quad \cdots \quad a _ { m n } } \end{array}  }
+$$
+
+将矩阵 $R$ 进行归一化处理，得到除权之后的评估矩阵 $\boldsymbol { R ^ { \prime } }$ 为
+
+$$
+R ^ { \prime } = { \begin{array} { c } { { \left| { \begin{array} { c c c c } { { d _ { 1 1 } } } & { { d _ { 1 2 } } } & { { \cdots } } & { { d _ { 1 n } } } \\ { { d _ { 2 1 } } } & { { d _ { 2 2 } } } & { { \cdots } } & { { d _ { 2 n } } } \\ { { \vdots } } & { { \vdots } } & { { \vdots } } & { { \vdots } } \\ { { d _ { m 1 } } } & { { d _ { m 2 } } } & { { \cdots } } & { { d _ { m n } } } \end{array} } \right| } } \end{array} }
+$$
+
+其中： $d _ { i j }$ 表示分类评价数与评价向量总数 $M$ 的比值，即$d _ { i j } = \frac { a _ { i j } } { M } , d _ { i j } \in ( 0 , 1 )$ 。
+
+经过上述分析，得到权重向量 $W$ ，除权后的评估矩阵 $\boldsymbol { R ^ { \prime } }$ 及联系分量矩阵 $E$ 。由此，可以构造出境外出行安全分级评估模型。
+
+设安全分级评估模型为 $H$ ，则
+
+$$
+H = W \cdot R ^ { \prime } \cdot E =
+$$
+
+$$
+( w _ { 1 } , w _ { 2 } , \cdots , w _ { m - 1 } , w _ { m } ) \left[ { \begin{array} { c c c c } { d _ { 1 1 } } & { d _ { 1 2 } } & { \cdots } & { d _ { 1 n } } \\ { d _ { 2 1 } } & { d _ { 2 2 } } & { \cdots } & { d _ { 2 n } } \\ { \vdots } & { \vdots } & { \vdots } & { \vdots } \\ { d _ { m - 1 1 } } & { d _ { m - 1 2 } } & { \cdots } & { d _ { m - 1 n } } \\ { d _ { m 1 } } & { d _ { m 2 } } & { \cdots } & { d _ { m n } } \end{array} } \right] \times \left[ { \begin{array} { c } { 1 } \\ { t _ { 1 } } \\ { \cdots } \\ { t _ { n - 2 } } \\ { p } \end{array} } \right]
+$$
+
+其中： $t _ { 1 } , \cdots , t _ { n - 2 } , p$ 为联系分量系数。
+
+将式（14）展开，可写成为
+
+$$
+H = \sum _ { k = 1 } ^ { m } w _ { k } d _ { k 1 } + \sum _ { k = 1 } ^ { m } w _ { k } d _ { k 2 } t _ { 1 } + . . . + \sum _ { k = 1 } ^ { m } w _ { k } d _ { k n - 1 } t _ { n - 2 } + \sum _ { k = 1 } ^ { m } w _ { k } d _ { k n } p
+$$
+
+式（15）中，
+
+$$
+\begin{array} { l } { \displaystyle \sum _ { k = 1 } ^ { m } w _ { k } d _ { k 1 } \in [ 0 , 1 ] , \sum _ { k = 1 } ^ { m } w _ { k } d _ { k 2 } \in [ 0 , 1 ] , . . . , } \\ { \displaystyle \sum _ { k = 1 } ^ { m } w _ { k } d _ { k n - 1 } \in [ 0 , 1 ] , \sum _ { k = 1 } ^ { m } w _ { k } d _ { k n } \in [ 0 , 1 ] } \end{array}
+$$
+
+$$
+\begin{array} { l } { { \displaystyle \sum _ { k = 1 } ^ { m } \ w _ { k } \ d _ { k 1 } + \sum _ { k = 1 } ^ { m } \ w _ { k } \ d _ { k 2 } + . . . + \sum _ { k = 1 } ^ { m } \ w _ { k } \ d _ { k n - 1 } + \sum _ { k = 1 } ^ { m } \ w _ { k } \ d _ { k n } = 1 , } } \\ { { \displaystyle t _ { 1 } \in [ - 1 , 1 ] , . . . , t _ { n - 2 } \in [ - 1 , 1 ] } } \end{array}
+$$
+
+通过上述公式推导，可以通过求解联系系数确定分级类别数量以及各个级别联系系数的取值范围，最终通过对各数据的计算确定各个事件所在的级别。分级的确定对于境外出行安全态势评估系统的建立具有重要意义，根据分级结果可以评估各个级别事件危险程度，从而更有针对性地提出相应的境外活动安全建议。
+
+# 2 实验分析
+
+# 2.1数据预处理
+
+本次实验采用GTD 中 1998—2017年的数据，共有114183条。由于GTD中数据特征类型多样，为了更好地对问题进行分析与建模，本文首先将这些特征进行分类。基于数据特征的类型将其分为：数值型特征，文本型特征，二分类型特征，多分类型特征。各类型特征数量如表1所示。
+
+根据GTD的说明，在数据搜集过程中存在一定数据缺失和不完备[13]。例如GTD中对死亡人数（nkill）字段的阐述：死亡的总人数，包括因该事件直接导致死亡的所有遇难者和袭击者。如果有死亡的证据，但是没有报道数字或它太模糊而不能使用，这个字段记录为空值。
+
+表1各类型特征数量统计表  
+Table1Statistical table of different types of features   
+
+<html><body><table><tr><td>特征类型</td><td>特征数量</td></tr><tr><td>数值型特征</td><td>24</td></tr><tr><td>文本型特征</td><td>29</td></tr><tr><td>二分类型特征</td><td>5</td></tr><tr><td>多分类型特征</td><td>47</td></tr></table></body></html>
+
+数据的缺失影响了境外出行安全评估模型评估结果的准确性，因此需要采取可行的方法来对数据进行处理。目前对缺失值的插补方法主要有个案剔除法[19]、均值或方差替换法[20]、热卡填充法[2I]、回归替换法以及多重替代法[22]等。由于本文所选取的数据量庞大，且数据类型多样，只使用一种方法对数据进行补充显然是不正确的，因此本文中对不同类型数据采用不同方式进行填充与处理。
+
+数值类特征中，针对各数据类型的特征，选择不同方法进行填充，如对于死亡人数，主要采用均值法进行填充。对于所涉及的金额，采用热卡填充等。对于文本类数据，本文先将所有数据实现向量化处理，然后对缺失的部分进行补零，实现文本类数据的填充与补齐。针对多分类类型数据，由于每一种类型都具有其特定意义与权值，本文使用多值填充来对其进行处理。
+
+通过上述数据预处理操作，为下文进行安全态势评估建模与分析提供了良好的基础。
+
+# 2.2安全态势评估结果分析
+
+本文针对现有研究中存在的缺陷，采用基于多类别参数随机调优的方式，实现境外活动安全评估模型的建立。经过对特征多样，数据量庞大的数据处理后，获得统一形式的数据表示，随后对数据进行降维处理，获得关键特征。采用随机梯度下降算法进行权值分配，从而得到安全态势评估模型的关键特征权重分配，然后对特征进行量化分析，最终得到量化分级模型。在分级基础上，实现对现有国际环境的态势评估。
+
+为了更好的表示分级结果，本文依据恐怖事件的危害性，将境外出行活动的安全级别细化为五级，分别为V级（严重危险）、IV级（危险）、II级（较危险）、II级（轻微危险）、I级（较安全），级别代表颜色分别对应为深红色、红色、橙色、黄色、蓝色。具体信息如表2所示。
+
+根据本文所提出的模型，对GTD中114183条事件信息进出，具有严重危险性的事件相对较少，仅有14件。具有严重危害性的恐怖袭击事件有147件。对于发生这些事件的地域，是不建议出行的。这些事件所涉及的地域，在本文所提出的分级模型中，被认为具有较高的危险性。而被评为"较危险”、“轻微危险"以及"较安全"三个级别的事件较多，相应的地域也发生了恐怖袭击事件，存在着不安全的因素，但相对而言可以作为出行的选择。
+
+Table 2Security classification of overseas activities   
+
+<html><body><table><tr><td>事件级别</td><td>V级</td><td>IV级</td><td>Ⅲ级</td><td>Ⅱ级</td><td>I级</td></tr><tr><td>危害程度</td><td>严重危险</td><td>危险</td><td>较危险</td><td>轻微危险</td><td>较安全</td></tr><tr><td>颜色表示</td><td>深红色</td><td>红色</td><td>橙色</td><td>黄色</td><td>蓝色</td></tr></table></body></html>
+
+表3分级结果统计表
+
+表2境外活动安全分级表  
+
+<html><body><table><tr><td>事件数量</td><td>级别</td><td>危害程度</td><td>颜色</td><td>建议与意见</td></tr><tr><td>14</td><td>V</td><td>严重危险</td><td>深红色</td><td>不建议出行</td></tr><tr><td>147</td><td>IV</td><td>危险</td><td>红色</td><td>有高度危险性</td></tr><tr><td>894</td><td>III</td><td>较危险</td><td>橙色</td><td>有危险性</td></tr><tr><td>33473</td><td>II</td><td>轻微危险</td><td>黄色</td><td>具有一定危险性</td></tr><tr><td>79655</td><td>I</td><td>较安全</td><td>蓝色</td><td>具有潜在危险</td></tr></table></body></html>
+
+为了初步验证本文所提出的境外安全态势评估模型的准 确性，本文将Worldatlas
+
+(https://www.worldatlas.com/articles/worst-terrorist-attacks-in-history.html）中时间跨度在1998-2017年范围内的、历史上最严重的恐怖袭击事件，使用本文所提出的安全态势评估模型进行评估，其结果如表4所示。从表中可以看出，Worldatlas中所列出的事件都被分级为"严重危险"与"较危险"的级别之中。由于Worldatlas中对恐怖袭击事件的记录方式按照整个事件进行描述与分析，与GTD中对事件记录的方式不同。因此对于部分事件GTD中的查找结果与Worldatlas中对其记录存在不同。
+
+除此之外，本文所提出的分级模型对于同一时段内的高危分级结果还包括如"Sinjar大屠杀事件"Tabqa空军基地袭击"等国际著名的、具有严重危害性的恐怖袭击事件。对比Worldatlas中的统计数据，本文所提出评估模型更加准确与全面，可以作为境外活动安全态势评估的依据。
+
+Table 3Statistical table of classification results   
+
+<html><body><table><tr><td>模型</td><td>准确率/%</td></tr><tr><td>境外出行安全分级评估模型</td><td>92.30</td></tr><tr><td>FISs</td><td>84.61</td></tr></table></body></html>
+
+表4世界地图集所统计历史上最严重的恐怖袭击事件
+
+Table 4Terrorist attacks in the world atlas   
+表5不同模型评估及分级  
+
+<html><body><table><tr><td>排名</td><td>事件名称</td><td>死亡人数发生地域 评估结果</td><td></td></tr><tr><td>1</td><td>9.11 恐怖袭击</td><td>2996</td><td>美国 V</td></tr><tr><td>2</td><td>2007年Yazidi社区爆炸事件</td><td>500</td><td>伊拉克 V</td></tr><tr><td>3</td><td>2013年5月伊拉克袭击</td><td>449</td><td>伊拉克 V</td></tr><tr><td>4</td><td>2013年5月伊拉克袭击</td><td>389</td><td>伊拉克 V</td></tr><tr><td>5</td><td>别斯兰学校人质危机</td><td>385</td><td>俄罗斯 VI</td></tr><tr><td>6</td><td>2016卡拉达爆炸案</td><td>341</td><td>伊拉克 VI</td></tr><tr><td>7</td><td>2014年GamboruNgala袭击</td><td>336+</td><td>尼日利亚 VI</td></tr><tr><td>8</td><td>俄罗斯公寓爆炸事件</td><td>293</td><td>俄罗斯 III</td></tr><tr><td>9</td><td>1993 年孟买爆炸事件</td><td>257</td><td>印度 VI</td></tr><tr><td>10</td><td>2001 年安哥拉火车袭击</td><td>252</td><td>安哥拉 VI</td></tr><tr><td>11</td><td>1998 年美国大使馆爆炸事件</td><td>224</td><td>美国 VI</td></tr><tr><td>12</td><td>2012年1月尼日利亚袭击</td><td>222+</td><td>尼日利亚 VI</td></tr><tr><td>13</td><td>2006年11月23日萨德尔城爆 炸事件</td><td>215</td><td>伊拉克 VI</td></tr></table></body></html>
+
+为了进一步验证本文所提出的境外安全态势评估模型的准确性，本文实现了Inyaem 等人[12]所提出的安全评估系统（fuzzyinferencesystems，FISs）作为对比方案，使用FISs对GTD中的数据进行评估与分级。通过对比Worldatlas中所统计的、时间跨度在1998-2017年范围内的、历史上最严重的恐怖袭击事件的分布，分析本文分级结果与对比方案分级结果的准确率，其结果如表5所示。
+
+其中，准确率(A)由模型分级正确事件数占总事件数的比率。其公式如下：
+
+Table 5Evaluation and grading of different model   
+
+<html><body><table><tr><td colspan="2">被正确分级的恐怖袭击事件数</td></tr><tr><td>A=</td><td>恐怖袭击事件总数</td></tr></table></body></html>
+
+从表中可以看出，对比方案的分级准确率为 $8 4 . 6 1 \%$ ，而本文所提出的安全态势评估模型的准确率为 $9 2 . 3 0 \%$ ，在对恐怖袭击事件的分级评估中，本文所提出的模型更准确。
+
+# 2.3安全态势评估模型应用
+
+本文基于多类别参数随机调优，建立了境外活动安全评估模型，实现了对不同地区安全态势的评估。根据模型评估和分级结果，本文构建了境外活动安全态势评估系统。该系统基于模型的分级结果，对各个国家和地区的、不同时段的安全态势进行分析与评估，给出相应的安全出行建议。同时，该系统还实现相关分级结果的可视化，以直观的、可交互的方式展现分析结果，提供良好用户体验。当出境人员使用本系统时，能够更直观地选择境外出行目的地与出行时间。
+
+为了展示各大洲恐怖袭击事件发生的频率随时间的演化趋势，本系统将近20年来恐怖袭击事件按照其发生的国家与地区所在的大洲进行统计并绘制趋势图，当鼠标放置于横坐标上的某个年份时，可以相应地显示出该年份中各大洲事件发生的数量，如图2所示。
+
+![](images/b71a26dac338a2fb78063db927f16a33eaa4de1383e9ee9495b79cdbeb4d00ea.jpg)  
+图2各大洲发生恐怖袭击事件发生数量趋势 Fig.2The trend of terrorist attacks on each continent
+
+为了直观地观察事件的地域分布，本系统实现了数据的可视化表示。根据本文所提出模型的分级结果，对不同级别事件的地域分布，按照表2所列出的信息在世界地图上进行染色。对于每一个级别，都使用该色系的渐变色来标志事件发生的多少。
+
+系统可以在左侧列表中选择相应的级别，当选中后，右侧会显示出对应级别事件的地域分布。如图3所示，图中为被评为V级"严重危险"的国家和地区的分布图，对比图4、图5中被评为III级"较危险"与I级"较安全"的国家和地区分布图，可以看出，随着事件危害性级别的下降，恐怖袭击事件的覆盖范围逐渐变大，但是大部分国家和地区还是相对安全的。对于每个级别中都出现的国家和地区，则为恐怖袭击事件高发地域，对于这样的国家和地区，则不建议作为出行选择。
+
+![](images/6a31ad456c7ff46d098811f135907b69e8366b553e51a5fd8959a18d8e1cd2aa.jpg)  
+图3V级事件地域分布图
+
+![](images/3d865222b39f7f32167516706f8df0127442f02b7db7137d47b3e9c19618ec26.jpg)  
+Fig.3Regional distribution of class V
+
+![](images/4d67f08b4398c780501382e00320ffb40b80f9882593875c811c11df293fb96c.jpg)  
+图4III级事件地域分布图  
+图5I级事件地域分布图  
+Fig.5Regional distribution of class I
+
+在本系统中，当鼠标放于图中某个国家或地区时，相应地区的事件数量就会显示在图中，如图6所示。当将鼠标放置于伊拉克时，地图中就会显示出“IV级伊拉克：36”字样。这表示在伊拉克地区发生的恐怖袭击事件中，被评级为IV级的事件有36件。
+
+![](images/85a3664a0dbd482a40e95e98a84dda0525b06837889a39e2fd26c93de1bbcacc.jpg)  
+Fig.4Regional distribution of class III   
+图6伊拉克IV级事件数量图  
+Fig.6NumberofIraq classIV events
+
+![](images/2208547a4163e2693b34c42bf0e1140a2a71d93ef3f57a02e189417a5c7259ca.jpg)  
+第37卷第5期  
+图7伊拉克IV级事件统计图  
+Fig.7IraqilevelIVline chart
+
+当点击各个级别分布图中所选中的特定国家或地区时，系统中会弹出在当前级别下这个国家或地区历年发生的且评级为当前级别的统计图，如图7所示。通过上述操作，对于伊拉克地区而言，其恐怖袭击事件发生较为频繁，不作为个人或企业出行选择，如有必要，在3\~7月，11\~1月可以作为出行的时间选择。
+
+本系统基于模型分级结果，对安全态势进行进一步的分析与可视化展示。方便境外出行人员直观地了解安全态势，作出合理的出境选择。
+
+# 3 结束语
+
+本文提出了一种基于多类别参数随机调优的境外活动安全评估模型。依据现有数据，实现了有效的境外安全态势评估。对比现有研究，本模型能够适应全类别参数，并且自适应地对各类参数进行模型调优。实验结果表明，本文所提出的模型能够准确评估不同地区安全态势。在模型基础上构建的安全态势评估及预警系统可以对不同地区安全态势及时评估并预，以便合理安排境外活动，确保人身安全，具有较高的应用价值。
+
+# 参考文献：
+
+[1]Ghatak S.Challenging the state:effect of minority discrimination, economic globalization,and political openness on domestic terrorism [J].International interactions,2016,42(1):56-80.   
+[2]李健和，王存奎，梅建明，等．当代恐怖主义的特征与发展趋势[J]. 中国人民公安大学学报：社会科学版，2008，24(3):1-7.(Li Jianhe, Wang Cunkui,Mei Jianming,et al.Characterand new tendency of the contemporary terrorism[J].Journal of Chinese People's Public Security University:Social Sciences Edition,2008,24(3):1-7.)   
+[3]薛澜，钟开斌．突发公共事件分类、分级与分期：应急体制的管理基 础[J].中国行政管理，2005(2):102-107.(Xue Lan,Zhong Kaibin. Classification of types,levels and stages for emergencies:managerial foundation of government emergency response system [J].Chinese Public Administration,2005(2):102-107.)   
+[4]张艳琼，陈祖琴，苏新宁．基于云模型的突发事件分级模型研究[J]. 情报学报，2015，34(1):76-84.(Zhang Yanqiong，Chen Zuqin，Su Xinning.Classification of emergency events based on cloud model [J]. Journal of the China Society for Scientific and Technical Information 2015,34(1): 76-84.)   
+[5]蔡正杰，梁昌勇，赵树平.突发环境事件等级评估方法研究[J].计 算机应用研究，2014,31(11):3217-3220.(Cai Zhengjie，Liang Changyong， ZhaoShuping， etal.Researchonemergency environmental accidents grade evaluation [J].Application Research of Computers,2014,31(11):3217-3220.)   
+[6]Archetti F,Djordjevic D,Giordani I,et al.A reasoning approach for modelling and predicting terroristic attacks in urban environments [C]// Proc of International Carnahan Conference on Security Technology. IEEE,2014:1-6   
+[7]Gordon P,Moore J,Park JY,et al. The economic impacts of a terrorist attack on the US commercial aviation system[J]．Risk Analysis, 2007,27(3):505-512.   
+[8]Salmeron J,Wood K,Baldick R.Analysis of electric grid security under terrorist threat [J].IEEE Trans on Power Systems，2015,19(2): 905-912.   
+[9]Latora V,Marchiori M. How the science of complex networks can help developing strategies against terrorism [J].Chaos,Solitons and Fractals, 2004,20(1):69-75.   
+[10] Piazza JA,Piazza S.Crime pays: terrorist group engagement in crime and survival [J]. Terrorism and Political Violence,2O17:1-23.   
+[11]Raghavan V, Tartakovsky AG.Hidden Markov models for the activity profile of terrorist groups [J].Annals of Applied Statistics,2013,7(4): 2402-2430.   
+[12]Inyaem U,Haruechaiyasak C,Meesad P,et al.Terrorism event classificationusingfuzzyinferencesystems[J].Computer Science-Artificial Intelligence,201o,7(3).   
+[13]Lafree G,Dugan L. Introducing the global terrorism database [J]. Terrorism and Political Violence,2007,19(2):181-204.   
+[14]黄贤英，熊李媛，刘英涛，等．基于类别特征改进的 KNN 短文本分 类算法[J].计算机工程与科学,2018,40(1):148-154.(Huang Xianying, Xiong Liyuan，Liu Yingtao,et al．An improved KNN short text classification algorithm based on category feature words [J].Computer Engineering& Science,2018,40(1):148-154.)   
+[15]钟将，刘荣辉．一种改进的 KNN文本分类[J].计算机工程与应用， 2012,48(2):142-144.(Zhong Jiang,Liu Ronghui. Improved KNN text categorization[J]. Computer Engineering and Applications,2012,48(2): 142-144)   
+[16] Hua E,Chen D Q,He Y Z,et al.An improved customer satisfaction index weight based on entropy and kano model for online personalized product design evaluation [C]//Proc of International Conference on Design,Manufacturing and Mechatronics.2015: 913-922   
+[17]Leon Bottou.Large-scale machine learning with stochastic gradient descent[C]//Proc ofCOMPSTAT.2010.177-186.   
+[18] Johnson R,Zhang T. Accelerating stochastic gradient descent using predictive variance reduction[C]//Advances in Neural Information Processing Systems.013:315-323.   
+[19] King HG.What to Do about missing values in time-series cross-section data[J].American Journal of Political Science,2010,54(2): 561-581.   
+[20] Schneider T.Analysis of incomplete climate data:Estimation of mean values and covariance matrices and imputation of missing values [J]. Journal of Climate,2001,14(5): 853-871.   
+[21] Myers TA.Goodbye,Listwise deletion: presenting hot deck imputation asan easy and effective tool for handling missing data [J]. Communication Methods and Measures,2011,5(4):297-310.   
+[22]Pedersen A,Mikkelsen E,Cronin-Fenton D,et al.Missing data and multiple imputation in clinical epidemiological research[J].Clinical Epidemiology,2017,9:157-166.

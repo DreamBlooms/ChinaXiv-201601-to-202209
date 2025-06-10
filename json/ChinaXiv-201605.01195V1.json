@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "Discovery and structural optimization of 1-phenyl-3- (1-phenylethyl)urea derivatives as novel inhibitors of CRAC channel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hai-zhen ZHANG1,#, Xiao-lan XU2,#, Hua-yan CHEN1,Sher ALI², Dan WANG², Jun-wei $\\mathsf { Y } \\mathsf { U } ^ { 2 }$ ,Tao XU2,\\*, Fa-jun NAN1, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratoryofDrugResearch,TheNationalCenterforDrugScreening,ShanghaiInstituteofMateriaMedica,Chinese Academyofiences,angai,China;ationalKeyaboratoryofomacromolecules,stituteofophsicsie Academyof Sciences,Beijing100101,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aim: $\\mathsf { C a } ^ { 2 + }$ -release-activated $\\mathsf { C a } ^ { 2 + }$ (CRAC)channel,a subfamily of store-operated channels,is formed by calcium release-activated calciummodulator1(ORAl1),andgated bytromal interactionmolecule1(STIM1).CRACchannelmaybeanoveltargetforthe treatmentofimmunedisordersandallergy.TheaimofthisstudywastoidentifynovelsmallmoleculeCRACchannelinhibitors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods:HEK293cellsstablyco-expresingbthORAl1andS1wereusedforhigh-throughputscreening.Ahit,1-penyl-3-(- phenylethl)urea,wasidentifiedthatinhibitedCRACchannelsbytargetingORAl1.Fiveseriesofitsderivativesweredesignedand synthesized,andthrprimaructureactivityelationshps(SARs)wereaalyd.Allerivativsereseedfortecs on $\\mathsf { C a } ^ { 2 + }$ influxthrough CRACchannelsonHEK293ces,cytotoxicityinJurkatcels,andI-2 production inJurkatcellsexpressing ORAI1-SS-eGFP. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results:Atotalof19hitswerediscoveredinibrariescontaining32ocompoundsusingthehighthroughputscreening.-heny-3- (1-phenylethyl)urea inhibited $\\mathsf { C a } ^ { 2 + }$ influx with $1 \\mathsf { C } _ { 5 0 }$ of $3 . 2 5 { \\pm } 0 . 1 7 ~ \\mu \\mathrm { m o l / L }$ . SAR study on its derivatives showed that the alkyl substituent on the α-position of the left-side benzylic amine (R1) was essential for $\\mathsf { C a } ^ { 2 + }$ influx inhibition and that the S-configuration was better thantheR-configuration.Thederivativesinwhichtheright-sideR3wassubstitutedbyanelectron-donatinggroupshowedmore potentinhibitoryactivitythanthosethatweresubstitutedbyelectron-withdrawinggroups.Furthermore,thfreeN-Hofureawasnot necessary to maintain the high potency of $\\mathsf { C a } ^ { 2 + }$ influx inhibition.The $\\mathsf { N } , \\mathsf { N } ^ { \\prime } .$ disubstituted or $N ^ { \\prime }$ -substituted derivatives showed relatively lowcytotoxicitybutmaintaindtheabilitytonibitIL-2production.Amongthe,compoundbhowedanimprovediibitiofl-2 production and low cytotoxicity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion:1-heny-3-(1-phenylethylureaisanovelCRACchanneliibitorthatspecifcalltargetsORAl1.Thisstudyprovidesanew chemical scaffold for design and development of CRAC channel inhibitors with improved $\\mathsf { C a } ^ { 2 + }$ influx inhibition,immune inhibition and low cytotoxicity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyords: CRACchannel;ORAl1;1-pheny-(1-phenylethyl)urea;YM58483;high-throughputscreening;IL-2production;structure modification; SAR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Acta Pharmacologica Sinica (2015)36:1137-1144;doi:10.1038/aps.2015.52;published online10 Aug 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { C a } } ^ { 2 + }$ -release-activated ${ \\mathrm { C a } } ^ { 2 + }$ (CRAC) channel belongs to a sub family of store-operated channels that possess the characteristic features of an inwardly rectifying current-voltage relation$\\mathrm { s h i p } ^ { [ 1 ] }$ and rapid ${ \\mathrm { C a } } ^ { 2 + }$ -dependent inactivation[2]. The channel is formed by ORAI (CRACM,calciumrelease-activated calcium modulator),which is a 4-transmembrane protein and is gated bya single-pass transmembrane protein, STIM (stromal interaction molecule),which functions as the sensor of the endoplasmic reticulum (ER) luminal ${ \\mathrm { C a } } ^ { 2 + }$ concentration[3]．Compared with other ion channels, CRAC channel currents have a substantially higher selectivity for ${ \\mathrm { C a } } ^ { 2 + }$ over monovalent cations $\\mathrm { ( P C a / P N a > 1 0 0 0 ) ^ { [ 4 ] } } ,$ with low single-channel conductance $( < 1 \\mathrm { p S } ) ^ { [ 5 ] }$ and a lack of significant voltage-dependent gating. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years,several human diseases have been linked to abnormal CRAC channel activities, including severe combined immunodeficiency (SCID) disorders[6], allergy[7,8], inflammatory bowel disease (IBD)[9], thrombosis[10],，breast cancer[1-13], Kawasaki diseasel14] and organ transplant rejection. Specific ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CRAC channel inhibitors may be developed into new safe and potent immune suppressors,which would benefit patients with these diseases. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus far,a variety of small molecules blocking the CRAC channel have been identified, such as the imidazole derivative, SKF96365 $\\mathrm { \\prime } \\mathrm { { C } } _ { 5 0 }$ of approximately $4 ~ \\mathrm { \\mu m o l / L }$ )[15,16], 2-APB[at low concentrations of $1 { - } 5 ~ { \\mu \\mathrm { m o l } } / \\mathrm { L } ,$ 2-APB potentiates CRAC currents,whereas high concentrations $( { > } 1 0 \\ \\mathrm { \\mu m o l / L } )$ cause a transient enhancement of CRAC currents followed by a complete block in S2 for mammalian cells][17,18], YM58483 ( $\\mathrm { I C } _ { 5 0 }$ of approximately $1 5 0 \\mathrm { n m o l / L }$ after $2 4 \\mathrm { h }$ of preincubation; $\\mathrm { I C } _ { 5 0 }$ of approximately 10 μmol/L immediately after addition)[19, 20], and Synta 66 ( $\\mathrm { T C } _ { 5 0 }$ of approximately $3 \\ \\mathrm { \\mu m o l / L } ) ^ { [ 2 1 ] }$ (Figure 1);however, these compounds are not specific because they interfere with a variety of other transport processes.The only specific CRAC channel inhibitor tested in human is $\\mathrm { C M } 2 4 8 9 ^ { [ 2 2 ] } ,$ the structure of which has not yet been disclosed.Recent studies have suggested that blocking CRAC channel activity by inhibiting STIM1 may inadvertently affect other channels[23]. Moreover,STIM1 mutations are associated witha syndrome of immunodeficiency and autoimmunity,whereas ORAI1 mutations cause only a major clinical syndrome of immunodeficiency[24]. Therefore, molecules that specifically block ORAI1 mayhave fewer side effects comparedwith molecules that target STIM1. This is the focus and priority of CRAC channel research (Figure 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cdfd6afb5d56e12ca8e2bc0a1fa0ed93b797bdafc751b1a634020eef9116e4e.jpg",
+        "img_caption": [
+            "Figure 1. Structures of known CRAC channel inhibitors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To identify small chemical molecules that block CRAC channel activity,we established an ORAI1 and STIM1 stably co-expressed single-cell clone human embryonic kidney 293 (HEK293) cell line and performed high-throughput screening of libraries containing 32ooo compounds using a fluorescence assay of ${ \\mathrm { C a } } ^ { 2 + }$ influx. The average Z-factor of the screen was approximately O.74,and the coefficient of variation was $4 . 7 \\%$ Hits in the screen were defined by a significantly reduced cytosolic ${ \\mathrm { C a } } ^ { 2 + }$ level [inhibition rate ≥MEAN (signal means) $+ 3 { \\times } \\mathrm { S T D E V }$ (standard deviations)] elevated by thapsigargin (TG).A total of 19 hits were identified in the screen. Of these, 8 compounds were lanthanide complexes,3 compounds showed strong cytotoxicity,and 2 compounds exhibited weak inhibition using the patch clamp technique.We selected compound 1 from the remaining 6 compounds because this compound presents a novel chemical scaffold and good drug-like properties,which makes it different from the known CRAC channel inhibitors.In this study,we synthesized a series of structure closed analogs (2a-2h, 3a-3l, 4a-4j,and 5a-5j),with modifications of the left-side benzylamine subunit and right side phenyl subunit of compound 1,and determined the primary structure-activity relationships (SARs).Several compounds showed improved potency and immune inhibitory activity.Compound1 inhibits the CRAC channel by specificallytargeting the ORAI1 protein. We propose this derivative asa potential scaffold for developing novel CRAC channel inhibitors (Figure 2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c521743925ef4e2d36f40314901e54211cde285b80435aba57d60ecf3fd565d.jpg",
+        "img_caption": [
+            "Figure 2. Structure of original hit compound 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemistry ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experimental procedures and characterization of all compounds are provided in the Supplementary Information. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biology experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$I C a ^ { 2 + } J _ { i }$ measurement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intracellular calciumlevel wasmeasured in 96-well plates using an automated fluorometric imaging plate reader (FLIPR, Molecular Devices, Sunnyvave, $\\mathrm { C A } ,$ USA).Either HEK293 or Chinese hamster ovary (CHO) cells,which stably expressed ORAI1 and STIM1,were pre-incubated with $4 \\mu \\mathrm { m o l / L }$ Fluo- $\\cdot 4 /$ AM (Invitrogen) in standard extracellular Ringer's solution $( 1 4 5 \\mathrm { ~ m m o l / L }$ NaCl, 4.5 mmol/L KCl,2 mmol/L ${ \\mathrm { C a C l } } _ { 2 } ,$ 1 mmol/L $\\mathrm { { M g C l } } _ { 2 } ,$ （204号 $1 0 \\ \\mathrm { m m o l / L }$ $D$ glucose,and $5 \\ \\mathrm { m m o l / L }$ Hepes, $\\mathrm { \\ p H }$ adjusted to 7.4 with NaOH) supplemented with $2 . 5 \\mathrm { m m o l } / \\mathrm { L }$ probenecid at $3 7 ^ { \\circ } \\mathrm { C }$ for $3 0 { - } 4 5 \\mathrm { m i n }$ ，The cells were washed twice and then immersed in standard extracellular Ringer's solution. The change in Fluo-4 fluorescence was systematically assessed as follows:we first tested the basal calcium level for $3 0 ~ \\mathrm { s ; }$ we next added $1 \\ \\mathrm { \\mu m o l / L }$ TG to open the CRAC channel and constantly measured the calciumlevel for $3 \\ \\mathrm { m i n } ;$ ：finally,we added a designated concentration (10 $\\mu \\mathrm { m o l } / \\mathrm { L } )$ of compound and constantly measured the calcium level for an additional $6 ~ \\mathrm { m i n }$ .To correct for variations in dye loading or cell numbers,we normalized the calcium level at $1 \\mathrm { m i n }$ prior to adding the inhibitors and selected the calcium levelvalueat the final $1 \\mathrm { m i n }$ to calculate the inhibitionrate of the compounds.A concentration of $1 0 ~ \\mathrm { \\textmu m o l / L }$ YM58483 was used as the positive control,and an equal amount of dimethyl sulfoxide (DMSO) was the negative control. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tetracycline was added to induce the expression of MSS (monomer ORAI1 covalently linked with two $S _ { 3 3 6 - 4 8 5 }$ domains, abbreviated as MSS)[25l and the ORAI1 V102A mutant. The customized medium was used (no calcium) to decrease the toxicity effect of high calcium caused by the constitutively open MSS and V102A channel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the ${ \\mathrm { C a } } ^ { 2 + }$ influxassay with the MSS and V102A mutants, after loading the cells with Fluo-4/AM,the cells were incubated in standard extracellular Ringer's solution with 2 mmol/L ${ \\mathrm { C a } } ^ { 2 + }$ for approximately $1 0 ~ \\mathrm { m i n }$ .When the calcium level was stable,the cells were treated with $1 0 ~ \\mathrm { \\textmu m o l / L }$ YM58483 as a positive control, an equal amount of DMSO as a negative control, and different doses of compound 1 to test its inhibitory effect. The inhibition rate of $1 0 ~ \\mathrm { \\textmu m o l / L }$ YM58483 was set to $100 \\%$ and the inhibition rate of an equal amount of DMSO was O to normalize and calculate the inhibition rate of compound 1. In the ${ \\mathrm { C a } } ^ { 2 + }$ influx assay with O1S1 and O2S1 cells,before treating the cells with compounds, $1 \\ \\mathrm { \\mu m o l / L }$ TG was added to stimulate the opening of the CRAC channel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiology and patch clamp experiments were performed at room temperature using the standard whole cell recording configuration[25l. Cells were plated on poly-L-lysinecoated coverslips $1 2 { - } 2 4 \\mathrm { h }$ prior to the experiments. The extracellular solution contained $1 2 0 \\mathrm { \\ m m o l / L \\ N a }$ Cl, $1 0 \\ \\mathrm { m m o l / L }$ ${ \\mathrm { C a C l } } _ { 2 } ,$ 2 mmol/L $\\mathrm { { M g C l } } _ { 2 } ,$ （204号 $1 0 \\ \\mathrm { m m o l / L }$ tetraethylammonium chloride and $1 0 \\mathrm { m m o l / L }$ Hepes $\\mathrm { ( p H 7 . 4 }$ adjusted with NaOH). For recording the constitutive $I _ { \\mathrm { C R A C } } ,$ the pipette was filled with a solution containing $1 1 0 \\ \\mathrm { m m o l / L }$ cesium glutamate, 6 mmol/L $\\mathrm { M g C l } _ { 2 } ,$ 10 mmol/L BAPTA,and $1 0 \\ \\mathrm { m m o l / L }$ Hepes $\\mathrm { ( p H } 7 . 2$ adjusted with CsOH).The GFP fluorescence of each cell was measured before patch clamp recording.After establishing the whole-cell configuration,voltage stimuli consisting of a 10-ms step to $- 1 0 0 ~ \\mathrm { { m V } }$ followed by a 50-ms voltage ramp from -100 to $+ 1 0 0 ~ \\mathrm { { m V } }$ were delivered from the holding potential of $0 ~ \\mathrm { m V }$ every $2 \\mathrm { ~ s ~ }$ ，The currents were digitized at a rate of $2 0 ~ \\mathrm { k H z }$ and filtered offline at $2 \\mathrm { k H z }$ ：All current traces wereleak-subtracted.After seal formation but before breakin, the $I { - } V$ currents were collected by delivering the voltage ramps,and those with a current magnitude at $+ 5 0 ~ \\mathrm { m V }$ equal to the sustained outward current after break-in were assigned as the leak current.Capacitive currents were determined and corrected before each voltage ramp.The current amplitude at $- 8 0 ~ \\mathrm { m V }$ of the individual ramp was extracted to monitor the development of $I _ { \\mathrm { C R A C } } ,$ and current amplitudes at $- 8 0 ~ \\mathrm { m V }$ were used for statistical analysis. Data were analyzed using the IGOR Pro 5.01 (Wavemetrics). The averaged results are presented as the mean value±SEM,with the number of experiments indicated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicityassay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A Cell Counting Kit-8 (CCK-8) assay (Dojindo Laboratories, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kumamoto, Japan) was used to measure the cytotoxicity of compounds on Jurkat cells. Jurkat cells( $2 { \\times } 1 0 ^ { 4 }$ cells/well) were seeded into 96-round-bottom-well plates and treated with10 or $3 0 \\mu \\mathrm { m o l / L }$ compound or the corresponding amount of DMSO as a negative control for $^ { 4 8 \\mathrm { ~ h ~ } }$ ：After the cells were washed with PBS once, $1 0 \\%$ 1 $( v / v )$ CCK-8 solution was added to eachwell, followed by incubation for $^ { 4 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ，Theabsorbance at $4 5 0 ~ \\mathrm { n m }$ was determined using an ELISA (enzymelinked immunosorbent assay） reader(Wallac 1420 Victor2 Microplate Reader,Perkin Elmer). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Immune inhibition assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jurkat cells were nucleo-transfected with ORAI1-SS-eGFP plasmids[25] and cultured overnight with customized calcium free RPMI-1640 media. Then, the cells were washed, resuspended with complete RPMI-1640 media,and seeded $2 { \\times } 1 0 ^ { 4 }$ cells/well) into 96-round-bottom-well plates.A concentration of $1 0 \\ \\mathrm { \\textmu m o l / L }$ compound, $1 0 \\ \\mathrm { \\mu m o l / L }$ YM58483 (positive control),or the corresponding amount of DMSO (negative control) was added to the wells. The Jurkat cells that express ORAI1-SS-eGFP produce IL-2 because of the constitutively opened CRAC channels.After $2 4 \\mathrm { h } ,$ the amount of IL-2 in the cell supernatant was determined using the human IL-2 ELISA kit (human IL-2 duoset, R&D). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The mechanistic studies of compound 1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Compound1 was evaluated to determine the inhibitory mechanism on the CRAC channel (Figure 3). As shown in Figure 3A and 3B, $1 0 \\ \\mathrm { \\textmu m o l / L }$ of compound1 effectively decreased the high intracellular calcium level induced by the TG-opened CRAC channels in the ORAI1 and STIM1 stably co-expressed HEK293 cells. To analyze the target protein and inhibitory effect of compound 1,we tested it in constitutively opened CRAC channels that were formed by ORAI1-SS (monomer ORAI1 covalently linked with two $S _ { 3 3 6 - 4 8 5 }$ domains, MSS)[25] and the ORAI1 mutant, $\\mathrm { V } 1 0 2 \\mathrm { A } ^ { [ 2 6 ] }$ .In MSS cells, the ${ \\mathrm { C a } } ^ { 2 + }$ influx datashowed that $3 0 \\mu \\mathrm { m o l / L }$ of compound 1 maximally inhibited $7 8 \\%$ of the calcium level mediated by the MSS construct and that the calculated $\\mathrm { I C } _ { 5 0 }$ was approximately $0 . 2 \\ \\mathrm { \\mu m o l / L }$ Patch clamp data confirmed that $1 0 \\ \\mathrm { \\mu m o l / L }$ of compound 1 inhibited $5 4 \\%$ of the total MSS current. Although the inhibitory effect of compound 1 on the MSS channels was partial, this result indicated that the possible target site of compound 1 was located on ORAI1, the S (336-485) domain, or both, instead of other regions,except 336-485,on STIM1. The ORAI1 mutant, V102A,produces no ${ \\mathrm { C a } } ^ { 2 + }$ selective,constitutively opened CRAC channels,even in the absence of STIM1[26]． The inhibitory effect of compound 1 on these STIM1-free V102A mutant channels is shown in Figure 3C and indicates that $1 0 \\ \\mathrm { \\textmu m o l / L }$ of compound 1 completely,inhibits the calcium level and the current mediated by the opened V102A channel, which further demonstrates that the target protein of compound1 is ORAI1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Human ORAI protein has three homologs, ORAI1, ORAI2, and ORAI3.When these proteins are co-expressed together with STIM1 in HEK293 cells,ORAI1 or ORAI2 generates substantial CRAC current, but ORAI3 fails to produce any detectable ${ \\mathrm { C a } } ^ { 2 + }$ selective currents[27]． To determine whether compound 1 specifically targets ORAI1 but not other ORAI proteins,we used an ORAI1 and STIM1 stably expressed cell line (O1S1) and an ORAI2 and STIM1 stably expressed cell line (O2S1) to test the inhibitory effect of compound 1.As shown in Figure 3D and 3E,compound 1 partially inhibits O1S1 channels. The ${ \\mathrm { C a } } ^ { 2 + }$ influx data indicate that $3 0 \\ \\mathrm { \\mu m o l / L }$ of compound1 reaches the maximum inhibition rate of $6 6 . 9 8 \\%$ for the O1S1 channel and that the calculated $\\mathrm { I C } _ { 5 0 }$ is $0 . 3 8 \\ \\mathrm { \\mu m o l / L }$ Patch clamp data confirm that $1 0 ~ \\mathrm { \\textmu m o l / L }$ of compound 1 inhibits $4 7 . 0 0 \\%$ of the O1S1 current. However, both the ${ \\mathrm { C a } } ^ { 2 + }$ influx assay and electrophysiological experiments showed that compound 1 did not inhibit the O2S1 channel. Therefore, these results indicate that compound1 inhibits the CRAC channel by specifically targeting the ORAI1 protein (Figure 3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Structure and activity relationship of compound1 derivatives The specificity of compound1led us to further explore this classof compounds.We first examined the effect of substitutions at the α-position in the benzyl group of compound 1 on the CRAC channel inhibitory activity,cytotoxicity and IL-2 production (Table 1). Un-substituted compound 2a and methyl substituted compound 2b did not exhibit CRAC channel inhibition at a $1 0 \\ \\mathrm { \\textmu m o l / L }$ concentration,whereas longer side-chain compounds, such as $n$ -propyl 2c and $n$ -butyl 2d, showed better inhibition of $7 4 . 0 9 \\%$ and $4 8 . 8 6 \\%$ ,respectively; however, the cytotoxicity of these two compounds was increased significantly compared with compound1. These results indicate that the length of the side-chain has a large effect on the inhibitory activity and cytotoxicity and that the ?-ethyl phenyl subunit may be the best choice to balance potency and cytotoxicity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/db0414a4844a464259b1abcbf213af75aefb87802045a9b13c9efff171dc1fdc.jpg",
+        "img_caption": [
+            "Figure 3.Compound 1 inhibits the CRAC channel by specificall targeting the ORAl1 protein. (A) $\\mathsf { C a } ^ { 2 + }$ influx data indicate that Compound 1 decreases thecalciumlevelintepedCRACcanel.(B)ompoudpartillyiiistcostutieloedSRACcanel.(Copd completelyinitsthostutivelodACRACael.(D)CompondpartilliitstCanel.(E)ompoddo notinibitCrtddtesditoacdt $\\cdot 1 0 0 ~ \\mathrm { m V } .$ The black,red and blue lines represent the current trace in untreated cells (MSS, $\\scriptstyle n = 1 0$ ；V102A, $n { = } 6$ ;01S1, $n { = } 7$ ;02S1, $\\scriptstyle n = 7$ ),the current trace in cells treated with $1 0 ~ \\mathsf { \\mu m o l / L }$ of compound 1(MSS, $\\scriptstyle { \\mathsf { n } } = 1 0$ ：V102A, $\\scriptstyle \\mathsf { n } = 6$ ：01S1, $\\scriptstyle \\mathsf { n } = 9$ ；02S1, $\\mathsf { n } { = } 7$ ),and the current trace in cells treated with 10 umol/L of YM58483 (MSS, $n { = } 7$ ;01S1, $n { = } 7$ ;02S1, $n { = } 7$ ),respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notably,compound 2f, the $R$ -enantiomer of compound 1 0 $\\mathrm { I C } _ { 5 0 }$ of 1 is $3 . 2 5 \\mathrm { \\mu m o l / L }$ ),showedweakerinhibition( $\\mathrm { I C } _ { 5 0 }$ of 2f is $7 . 6 0 \\ \\mathrm { \\textmu m o l / L }$ compared with the S-enantiomer compound, 2e ( $\\mathrm { T C } _ { 5 0 }$ of 2e is $0 . 7 5 \\ \\mathrm { \\mu m o l / L }$ .Inaddition,the (S)-ethylene compound, $_ { 2 \\mathbf { g } }$ $( 3 7 . 0 9 \\%$ inhibition at $1 0 \\ \\mathrm { \\mu m o l / L } )$ ，and the (S)- ethynyl compound,2h $( 1 6 . 3 3 \\%$ inhibition at $1 0 \\ \\mathrm { \\textmu m o l / L }$ ） reduced the inhibitory effect on the CRAC channel compared with the alkyl compound 1. From these results,we propose that the ability to inhibit the CRAC channel is sensitive to the size of the $\\alpha$ -position substitutions on the left-side benzyl group. Small alkyl groups at the $\\mathsf { \\alpha } \\propto$ -position on the left-side benzyl group were favorable for inhibiting the CRAC channel, and bulky groups may interfere with interactions between the target and molecules (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then,we examined the effects of substitutions at the 4-position in the left-side phenyl group of compound 1 on the CRAC channel inhibitory activity, cytotoxicity and IL-2 production (Table 2).We found that hydrogen (3a) reduced the inhibitory effects on the CRAC channel. Furthermore, the compounds substituted with cyano (3e),methoxycarbonyl (3f),trifluoro $\\left( 3 \\mathbf { g } \\right)$ , chloro (3h) and fluoro (3k) groups did not change the potency of inhibiting the ${ \\mathrm { C a } } ^ { 2 + }$ influx,whereas the cytotoxicity was increased compared with compound1. The compounds substituted with hydroxyl (3b),methoxyl (3c) and benzyloxyl (3d) groups increased the inhibitory effects of ${ \\mathrm { C a } } ^ { 2 + }$ efflux but showed much higher cytotoxicity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wealso investigated the effects of various replacements of the left-side phenyl group of compound 1 by substituting phenyl,hetero aromatic and aliphatic groups and found that compounds with hetero aromatic groups, such as 2-thiophenyl (3j),showed comparable inhibitory effects on the CRAC channel,whereas compounds with aliphatic replacements (3k and 3l) completely lost the inhibitory activity.These results demonstrate that left-side aromatic groups are essential features of CRAC channel inhibitors (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the majority of the compounds in Table 2have high cytotoxicity, the focus was changed to the right-side phenyl ring subunit of compound1 to obtain improved potency with low cytotoxicity.Compounds $( 4 \\mathbf { a } - 4 \\mathbf { j } )$ were synthesized and tested(Table 3). The activities of these compounds varied greatly. In the series of compounds possessing chloro groups (4a,4b,and 4c), the 3-chloro group (4c) reduced the inhibitory activity to $1 1 . 1 4 \\%$ at $1 0 \\mathrm { \\mu m o l / L }$ . The 2-chloro group (4b) reduced the inhibitory activity to $2 6 . 9 0 \\%$ at $1 0 \\mathrm { \\mu m o l / L } ,$ and the 4-chloro derivative1 showed $4 7 . 1 3 \\%$ inhibition at $1 0 \\mathrm { \\ : \\mu m o l / L }$ The inhibitory effects on the CRAC channel of the compound with a 4-position chloride (1) is greater than fluoride (4c) and bromide (4d). Compounds with electron-withdrawing groups (4eand 4f) exhibited better inhibitoryactivity,whereas compounds with electron-donating groups $( 4 \\mathbf { g } , 4 \\mathbf { h } ,$ and 4j) showed decreased inhibitory activity.By contrast,removal of the chloro group (4i) significantly decreased the inhibitory activity (Table 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d3b06ca2979e3af673cdd66918a7e4a91b8ab65280d009cb4679b40352f15f9.jpg",
+        "table_caption": [
+            "Table1. Inhibitoryactivity for CRAC channel of compounds 2a-2h. "
+        ],
+        "table_footnote": [
+            "a $1 \\mathsf { C } _ { 5 0 }$ value for $\\mathsf { C a } ^ { 2 + }$ influx (umol/L). $1 \\mathsf { C } _ { 5 0 }$ values were estimated by inhibition at eight concentrations.Assays were performed in triplicate,and data represent similar results.b Not tested.‘ $\\dot { \\boldsymbol { \\mathbf { \\rho } } } _ { I _ { \\mathrm { m a x } } }$ value stands for maximum inhibition of $\\mathsf { C a } ^ { 2 + }$ influx. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">RI ol NH NH</td></tr><tr><td>Compound</td><td>R1</td><td>Inhibition of Ca²+ influx (10 umol/L)</td><td>(10 umol/L)</td><td>Cytotoxicity (%) (30 umol/L)</td><td>IL-2 production (10 umol/L)</td></tr><tr><td>1</td><td>Et</td><td>IC50=3.25±0.17a Imax=82.50%</td><td>9.49</td><td>51.17</td><td>85.82%</td></tr><tr><td>2a</td><td>H</td><td>0.92%</td><td>NTb</td><td>NTb</td><td>NTb</td></tr><tr><td>2b</td><td>Me</td><td>7.05%</td><td>NT</td><td>NTb</td><td>NTb</td></tr><tr><td>2c</td><td>nPr</td><td>74.09%</td><td>47.65</td><td>94.82</td><td>96.35%</td></tr><tr><td>2d</td><td>nBu</td><td>48.86%</td><td>48.41</td><td>59.17</td><td>96.39%</td></tr><tr><td>2e</td><td>(S)-Et</td><td>IC50=0.75±0.02a</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Imax=77.71%</td><td>19.83</td><td>46.99</td><td>87.57%</td></tr><tr><td>2f</td><td>(R)-Et</td><td>IC50=7.60±0.24a</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Imax=67.99%</td><td>22.41</td><td>54.22</td><td>82.23%</td></tr><tr><td>2g</td><td>(S)-Ethylene</td><td>37.09%</td><td>NTb</td><td>NTb</td><td>NTb</td></tr><tr><td>2h</td><td>(S)-Ethynyl</td><td>16.33%</td><td>NT</td><td>NTb</td><td>NTb</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffde3a72cad0162f4fece06917606c62424cffb77fc05ae3f4cdf0869ea79d0b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9770dea56fdba3707460746f5e3f78b9863839d60a6115cf2bc52e2ad04c3e22.jpg",
+        "table_caption": [
+            "Table 2. Inhibitory activity for CRAC channel of compounds 3a-3l. "
+        ],
+        "table_footnote": [
+            "a $1 \\mathsf { C } _ { 5 0 }$ value for $\\mathsf { C a } ^ { 2 + }$ influx $( \\mu \\mathrm { m } \\circ | / \\mathsf { L } )$ ： $| \\mathsf { C } _ { 5 0 }$ values were estimated by inhibition at eight concentrations.Assays were performed in triplicate,and data represent similar results. $^ { \\mathrm { { b } } } { \\mathsf { N o t } }$ tested. $^ \\mathrm { c } I _ { \\mathrm { m a x } }$ value stands for maximum inhibition of $\\mathsf { C a } ^ { 2 + }$ influx.Not available. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Compound</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">Inhibition of Ca²+ influx (10 umol/L)</td><td colspan=\"2\">Cytotoxicity (%)</td><td rowspan=\"2\">IL-2 production (10 μmol/L)</td></tr><tr><td>(10 umol/L)</td><td>(30 umol/L)</td></tr><tr><td>1</td><td>4-Me</td><td>IC50=3.25±0.17a</td><td>9.49</td><td>51.17</td><td>85.82%</td></tr><tr><td>3a</td><td></td><td>Imax=82.50%</td><td></td><td></td><td></td></tr><tr><td>3b</td><td>4-H 4-0H</td><td>19.83% 70.05%</td><td>NTb 40.76</td><td>NTb 37.48</td><td>NTb</td></tr><tr><td>3c</td><td></td><td>IC50=4.52±0.07a</td><td></td><td></td><td>85.09%</td></tr><tr><td></td><td>4-0Me</td><td>Imax=95.24%c</td><td>32.40</td><td>56.22</td><td></td></tr><tr><td>3d</td><td>4-0Bn</td><td>63.08%</td><td>65.50</td><td>58.16</td><td>87.18%</td></tr><tr><td>3e</td><td>4-CN</td><td>34.50%</td><td>55.07</td><td>76.54</td><td>73.46%</td></tr><tr><td>3f</td><td>4-C00Me</td><td>38.22%</td><td>75.14</td><td>79.63</td><td>68.06% 72.72%</td></tr><tr><td>3g</td><td>4-CF3</td><td>29.85%</td><td>60.92</td><td>100.00</td><td>76.73%</td></tr><tr><td>3h</td><td>4-Cl</td><td>45.59%</td><td>41.41</td><td>90.89</td><td>87.92%</td></tr><tr><td>3i</td><td>2,4-Di-F</td><td>37.42%</td><td>39.91</td><td>80.75</td><td>76.45%</td></tr><tr><td>3je</td><td></td><td>44.07%</td><td>NTb</td><td>NTb</td><td>NTb</td></tr><tr><td>3k</td><td></td><td>NAd</td><td>NT</td><td>NTb</td><td>NTb</td></tr><tr><td>31</td><td></td><td>NAd</td><td>NT°</td><td>NTb</td><td>NTb</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bae0fed0b47cec9a58a03514efd7d0c07a929c8515b19b1e105f145cfead91b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because modification on the phenyl ring makes it difficult to balance activity and cytotoxicity,we focused on the effect of N-H on the inhibitory activity.We found that $N ^ { \\prime }$ singlemethylated compounds 5a $( 3 6 . 3 0 \\% )$ ，5c $( 3 2 . 5 2 \\% )$ and $N , N ^ { \\prime }$ dimethylated compounds 5b $( 4 4 . 3 0 \\% )$ ，5d $( 4 8 . 3 5 \\% )$ exhibited considerable activity compared with compound 1 $( 4 7 . 1 3 \\% )$ However,because the introduction of larger moieties (5e, 5f) or a cyclized nitrogen with an ortho-substitution $( 5 \\mathbf { g } , 5 \\mathbf { h } , 5 \\mathbf { i } ,$ and 5j) can lead to reduced inhibitory activity on the CRAC channel,it is possible that cyclization with nitrogenanda leftside phenyl ortho-substitution influences the torsional angle between the left-side phenyl ethylamine and the right-side phenyl ring. This finding indicates that free $_ \\mathrm { N - H }$ is not necessary to maintain the high potency of the inhibitory activity and thus provides a suitable point for further modification to improve the activity (Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,we discovered that the majority of N-substituted compounds showed relatively low cytotoxicity while retaining their potency to inhibit IL-2 production. For example, the cytotoxicity of compound 5b is less than $3 0 \\%$ at $3 0 \\ \\mathrm { \\textmu m o l / L } ,$ （204号 but it inhibits IL-2 production by $8 6 \\%$ at $1 0 ~ \\mathrm { \\textmu m o l / L }$ .This compound has improved ${ \\mathrm { C a } } ^ { 2 + }$ influx inhibition, immune inhibition and low cytotoxicity and may be a lead in the further development of small molecule inhibitors of the CRACchannel. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Recently,severalhumandiseaseshavebeenlinked toabnormal CRAC channel activities;therefore, interest in this area is growing rapidly,but most of the present chemotypes of smallmolecule CRAC channel inhibitors are similar.Thus,it is necessaryto diversify thechemical classes thatinhibit CRAC channels. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Moreover,previous data indicate that a STIM1 mutation is associated with a syndrome of immunodeficiency and autoimmunity but that a ORAI1 mutation only causes a major clinical syndrome of immunodeficiency. Therefore,molecules that specifically block ORAI1 may have fewer side effects than do molecules that target STIM1; however, the majority of the small molecules used previously were unselective.For example, they blocked the transient receptor potential channel (TRP) C and TRP Mchannels witha similar potency as CRAC channels. The only specific CRAC channel inhibitor tested in human is CM2489, the structure of which has not yet been disclosed.Therefore,the issue of selectivity has beena central theme in CRAC channel inhibition,and the discovery of molecules that specifically block ORAI1 will be the focus and priorityforfuture CRACchannel research. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccba5af7ab556fa49ad460a0bc0c14d2d1fb358cb2bf7d03250ed54bbb05ee32.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6278b7b8955309dcf81dc3a41668a89a7c9ded7b7d11d6c8dda0899ec584ab2e.jpg",
+        "table_caption": [
+            "Table3.Inhibitoryactivity for CRAC channel of compounds 4a-4j. "
+        ],
+        "table_footnote": [
+            "日 $1 \\mathsf { C } _ { 5 0 }$ value for $\\mathsf { C a } ^ { 2 + }$ influx (umol/L). $1 \\mathsf { C } _ { 5 0 }$ values were estimated by inhibition at eight concentrations.Assays were performed in triplicate,and data represent similar results.b Not tested. $^ \\mathrm { c } I _ { \\mathrm { m a x } }$ value stands for maximum inhibition of $\\mathsf { C a } ^ { 2 + }$ influx. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Compound</td><td rowspan=\"2\">R</td><td rowspan=\"2\">Inhibition of Ca²+ influx (10 μmol/L)</td><td colspan=\"2\">Cytotoxicity (%)</td><td rowspan=\"2\">IL-2 production (10 umol/L)</td></tr><tr><td>(10 umol/L)</td><td>(30 umol/L)</td></tr><tr><td>1</td><td>4-CI</td><td>IC50=3.25±0.17a</td><td>9.49</td><td>51.17</td><td>85.82%</td></tr><tr><td></td><td></td><td>Imax=82.50%</td><td></td><td></td><td></td></tr><tr><td>4a 4b</td><td>2-Cl</td><td>26.90%</td><td>3.25</td><td>34.04</td><td>67.66%</td></tr><tr><td>4c</td><td>3-Cl 4-F</td><td>11.14%</td><td>31.18</td><td>73.80</td><td>98.26%</td></tr><tr><td></td><td></td><td>IC50=1.62±0.11a Imax=71.43%</td><td>15.60</td><td>15.01</td><td>75.54%</td></tr><tr><td>4d</td><td>4-Br</td><td>21.10%</td><td>NTb</td><td>NTb</td><td>NTb</td></tr><tr><td>4e</td><td>4-NO2</td><td>IC50=6.95±0.27a</td><td>13.47</td><td>68.30</td><td>75.85%</td></tr><tr><td></td><td></td><td>Imax=58.97%</td><td></td><td></td><td></td></tr><tr><td>4f</td><td>4-C00Et</td><td>42.86%</td><td>10.91</td><td>9.45</td><td>84.18%</td></tr><tr><td>4g</td><td>4-0Me</td><td>19.80%</td><td>21.46</td><td>15.36</td><td>24.16%</td></tr><tr><td>4h</td><td>4-Me</td><td>31.69%</td><td>26.11</td><td>31.61</td><td>80.79%</td></tr><tr><td>4i</td><td>H</td><td>0.26%</td><td>27.82</td><td>24.28</td><td>29.66%</td></tr><tr><td>4j</td><td>4-cyclopropyl</td><td>11.18%</td><td>NT</td><td>NTb</td><td>NTb</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ce46dccef966740b9867900a306046e917a09b663205e319c8e8a51458183f4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/37aacacd9fdbca8c2d6dc86c6444dfc820e3a0b132cb029ce126cd59afe24916.jpg",
+        "table_caption": [
+            "Table 4.Inhibitory activity for CRAC channel of compounds 5a-5j. "
+        ],
+        "table_footnote": [
+            "a $1 \\mathsf { C } _ { 5 0 }$ value for $\\mathsf { C a } ^ { 2 + }$ influx $( \\mu \\mathrm { m o l / L } )$ ： $1 \\mathsf { C } _ { 5 0 }$ values were estimated by inhibitionat eight concentrations.Assays were performed in triplicate,and data represent similar results. $^ { \\mathrm { { b } } } { \\mathsf { N o t } }$ tested. $^ \\mathrm { c } I _ { \\mathrm { m a x } }$ value stands for maximum inhibition of $\\mathsf { C a } ^ { 2 + }$ influx. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\"></td></tr><tr><td>Compound</td><td>R2</td><td>R4</td><td>R5</td><td>Inhibition of Ca²+ influx (10 μmol/L)</td><td colspan=\"2\">Cytotoxicity (%)</td><td>IL-2 production (10 umol/L)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>(10 μmol/L)</td><td>(30 umol/L)</td><td></td></tr><tr><td>1</td><td>Me</td><td>H</td><td>H</td><td>IC50=3.25±0.17a Imax=82.50%</td><td>9.49</td><td>51.17</td><td>85.82%</td></tr><tr><td>5a</td><td>Me</td><td>H</td><td>Me</td><td>IC50=2.13±0.00a Imax=65.20%</td><td>2.83</td><td>10.85</td><td>61.67%</td></tr><tr><td>5b</td><td>Me</td><td>Me</td><td>Me</td><td>IC50=11.95±0.83a Imax=95.23%c</td><td>6.25</td><td>28.02</td><td>86.76%</td></tr><tr><td>5c 5d</td><td>OMe OMe</td><td>H Me</td><td>Me Me</td><td>1.46% IC50=6.50±0.31a</td><td>-2.13 5.88</td><td>8.86 29.13</td><td>52.86% 87.38%</td></tr><tr><td></td><td></td><td></td><td></td><td>Imax=91.74%</td><td></td><td></td><td></td></tr><tr><td>5e</td><td>OMe</td><td>H</td><td>Allyl</td><td>4.26%</td><td>-1.93</td><td>-6.54</td><td>47.25%</td></tr><tr><td>5f</td><td>OMe</td><td>(CH2)4</td><td>13.87</td><td>NTb</td><td>NTb</td><td>NTb</td><td></td></tr><tr><td>5g</td><td></td><td></td><td>H Me</td><td>15.08% 7.48%</td><td>3.40</td><td>35.88</td><td>75.77%</td></tr><tr><td>5h</td><td></td><td></td><td></td><td></td><td>-0.51</td><td>21.92</td><td>31.57%</td></tr><tr><td>5i</td><td></td><td></td><td>H</td><td>6.23%</td><td>1.37</td><td>12.87</td><td>28.64%</td></tr><tr><td>5j</td><td></td><td></td><td>Me</td><td>22.07%</td><td>17.34</td><td>19.49</td><td>77.19%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study,we designed and synthesized a series of novel 1-phenyl-3-(1-phenylethyl)urea derivatives and evaluated their inhibition of ${ \\mathsf { C a } } ^ { 2 + }$ influx through CRAC channels.Of these CRAC channel inhibitors,several showed an improved inhibition of IL-2 production in the Jurkat cell line with low cytotoxicity.Mechanistic studies of inhibition indicated that compound 1 inhibits CRAC channels by specifically targeting the ORAI1 protein,which makes these compounds advantageous for further development compared with other nonspecific compounds that target both the ORAI1 and STIM1 proteins of the CRAC channel. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional mechanistic studies and biological evaluations are currently ongoing. The discovery of this novel, potent and ORAI1-specific chemotype will provide a new strategy for the further design and development of CRAC channel inhibitors. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Science and Technology MajorProjects forMajorNew Drugs Innovation and Development (2012ZX09304011 and 2013ZX09507002), Chinese Academy of Science for Technological Innovation and Cross-Team Collaboration, the State Key Laboratory of Drug Research,National Key laboratory of Biomacromolecules and the National Natural Science Foundation of China (81102456 and 81373422). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Author contribution ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fa-jun NAN and Tao XU designed the research; Hai-zhen ZHANG,Xiao-lan XU,Hua-yan CHEN, Sher ALI, Dan WANG and Jun-wei YU performed the research;all authors analyzed data;Hai-zhen ZHANG andXiao-lan XU wrote themanuscript. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Synthesisand datafiles of all compounds is availableat Acta Pharmacologica Sinica's website. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 Hoth M,Penner R.Depletion of intracellular calcium stores activates a calcium current in mast cells. Nature 1992;355:353-6.   \n2 Zweifach A,Lewis RS. Rapid inactivation of depletion-activated calcium current $( I _ { \\tt C R A C } )$ due to local calcium feedback.JGen Physiol 1995;105:209-26.   \n3 Hogan PG,Lewis RS,Rao A.Molecular basis of calcium signaling in lymphocytes:STIM and ORAl. Annu Rev Immunol 201O;28:491- 533.   \n4 Hoth M. Calcium and barium permeation through calcium releaseactivated calcium (CRAC) channels.Pflugers Arch 1995;43O:315- 22.   \n5 Zweifach A,Lewis RS.Mitogen-regulated $\\mathsf { C a } ^ { 2 + }$ current of T lymphocytes is activated by depletion of intracellular $\\mathsf { C a } ^ { 2 + }$ stores.Proc Natl Acad SciUSA 1993;90:6295-9.   \n6 Feske S.Immunodeficiency due to defects in store-operated calcium entry.Ann NY Acad Sci 2011;1238:74-90.   \n7 Di Capite JL,Bates GJ,Parekh AB.Mast cell CRAC channel as a novel therapeutic target in allergy. Curr Opin Allergy Clin Immunol 2011; 11: 33-8.   \n8Chang WC. Store-operated calcium channels and pro-inflammatory signals. Acta Pharmacol Sin 2006; 27: 813-20.   \n9Di Sabatino A, Rovedati L,Kaur R, Spencer JP, Brown JT,Morisset VD,et al.Targeting gut T cell $\\mathsf { C a } ^ { 2 + }$ release-activated $\\mathsf { C a } ^ { 2 + }$ channels inhibits T cell cytokine production and T-box transcription factor T-bet in inflammatory bowel disease. JImmunol 2009;183: 3454-62.   \n10Varga-Szabo D, Braun A,Kleinschnitz C, Bender M,Pleines I, Pham M, etal.The calcium sensor STiM1 is an essential mediator of arterial thrombosis and ischemic brain infarction.J Exp Med 2oo8;205: 1583-91.   \n11 Prevarskaya N, Skryma R, Shuba Y. Calcium in tumour metastasis: new roles for known actors.Nat Rev Cancer 2011;11:609-18.   \n12 Ritchie MF, Yue C, Zhou Y, Houghton PJ,Soboloff J.Wilms tumor suppressor 1(WT1) and early growth response 1(EGR1) are regulators of STIM1 expression. JBiol Chem 201O; 285:10591-6.   \n13 Yang S, Zhang JJ, Huang XY. Orai1 and STIM1 are critical for breast tumor cell migration and metastasis. Cancer Cell 20o9;15:124-34.   \n14 Kuo HC, Chang WC. Genetic polymorphisms in Kawasaki disease. Acta Pharmacol Sin 2011;32:1193-8.   \n15 Chung SC, McDonald TV, Gardner P. Inhibition by SK&F 96365 of $\\mathsf { C a } ^ { 2 + }$ current,IL-2 production and activation in T lymphocytes. Br J Pharmacol1994;113:861-8.   \n16 Franzius D, Hoth M, Penner R. Non-specific effects of calcium entry antagonists in mast cells. Pflugers Arch 1994; 428: 433-8.   \n17Maruyama T, Kanaji T, Nakade S,Kanno T,Mikoshiba K.2APB, 2-aminoethoxydiphenyl borate,a membrane-penetrable modulator of （20 $\\mathsf { I n s } ( 1 , 4 , 5 ) \\mathsf { P } _ { 3 } .$ -induced $\\mathsf { C a } ^ { 2 + }$ release.JBiochem 1997;122: 498-505.   \n18 Prakriya M,Lewis RS. Potentiation and inhibition of $\\mathsf { C a } ^ { 2 + }$ releaseactivated $\\mathsf { C a } ^ { 2 + }$ channels by 2-aminoethyldiphenyl borate (2-APB) occurs independently of ${ \\mathsf { I P } } _ { 3 }$ receptors. JPhysiol 2001; 536:3-19.   \n19 Ishikawa J,Ohga K, Yoshino T,Takezawa R,lchikawa A,Kubota H,et al．A pyrazole derivative,YM-58483,potently inhibits store-operated sustained $\\mathsf { C a } ^ { 2 + }$ influx and IL-2 production in T lymphocytes. JImmunol 2003; 170: 4441-9.   \n20 Zitt C,Strauss B, Schwarz EC, Spaeth N,Rast G, Hatzelmann A,et al．Potent inhibition of $\\mathsf { C a } ^ { 2 + }$ release-activated $\\mathsf { C a } ^ { 2 + }$ channels and T-lymphocyte activation by the pyrazole derivative BTP2.JBiol Chem 2004; 279: 12427-37.   \n21 Ng SW,di Capite J,Singaravelu K,Parekh AB． Sustained activation of the tyrosine kinase Syk by antigen in mast cells requires local $\\mathsf { C a } ^ { 2 + }$ influx through $\\mathsf { C a } ^ { 2 + }$ release-activated $\\mathsf { C a } ^ { 2 + }$ channels.J Biol Chem 2008;283:31348-55.   \n22Pevarello P, Cainarca S,Liberati C,Tarroni P, Piscitelli F,Severi E. $\\mathsf { C a } ^ { 2 + } .$ release-activated $\\mathsf { C a } ^ { 2 + }$ channel inhibitors. Pharm Pat Anal 2014;3: 171-82.   \n23 Wang Y, Deng X,Mancarella S,Hendron E,Eguchi S,Soboloff J,et al．The calcium store sensor,STiM1,reciprocally controls Orai and CaV1.2 channels. Science 2010; 330:105-9.   \n24 Picard C,McCarl CA,Papolos A,Khalil S,Lüthy K,Hivroz C,et al. STIM1 mutation associated with a syndrome of immunodeficiency and autoimmunity. N Engl JMed 2009; 360:1971-80.   \n25 Li Z, Liu L, Deng Y,JiW, Du W, Xu P,et al. Graded activation of CRAC channel by binding of different numbers of STlM1 to Orai1 subunits. Cell Res 2011; 21: 305-15.   \n26 McNally BA,Somasundaram A,Yamashita M,Prakriya M.Gated regulation of CRAC channel ion selectivity by STIM1． Nature 2012; 482:241-5.   \n27DeHaven WI, Smyth JT, Boyles RR,Putney JW Jr. Calcium inhibition and calcium potentiation of Orai1,Orai2,and Orai3 calcium releaseactivated calcium channels. J Biol Chem 2007; 282:17548-56. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,159 @@
+# 微咸水膜下滴灌对棉花生长及产量的影响
+
+刘雪艳¹，丁邦新¹，白云岗²，柴仲平¹，王小童¹（1.新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830052;2.新疆水利水电科学研究院,新疆 乌鲁木齐830049)
+
+摘要：新疆南部地区淡水资源短缺,浅层地下咸水及灌溉排水资源相对丰富，研究淡咸水混合灌溉对棉花生长及产量的影响,以期获得一套简易的应用模式,在极端干旱年份对于缓解新疆南部棉花种植地区的干旱损失具有重要意义。以灌溉地表水(矿化度 $0 . 3 8 \sim 0 . 7 5 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } ,$ 为对照与排水渠咸水(矿化度 $9 . 8 1 \sim 1 1 . 8 1 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 按照不同比例混合,设置6种不同梯度的灌溉水,即淡咸比1:0(对照);淡咸比4:1(处理1);淡咸比3:2(处理2);淡咸比2:3(处理3);淡咸比1:4(处理4);淡咸比0:1(处理5),对棉花进行大田灌溉试验。结果表明：(1）随着灌溉水矿化度增加,棉花的生理性状呈现下降趋势。与对照相比,处理1灌溉水对棉花生长的影响较小，棉花产量较对照下降 $1 1 . 8 5 \%$ 。(2)灌溉水分生产效率随着灌溉水矿化度的升高而降低,处理1较对照减少最少。（3）不同微咸水处理下 $1 0 \sim 4 0 ~ \mathrm { c m }$ 土壤盐分呈现累积现象,其中对照最后1次灌水后的土壤盐分较第1次灌水前增加 $1 4 . 0 8 \%$ ,处理5增加最多为 $1 7 3 . 0 8 \%$ 。灌溉水配比4:1即矿化度为 $2 . 3 6 \sim 3 . 3 9 \ \mathrm { g \cdot L ^ { - 1 } }$ 时对棉花生长、产量、灌溉水分生产效率及土壤盐分影响较小。说明在干旱缺水时期采用适当的咸淡混合灌溉方式,对于缓解区域水资源短缺,保证棉花产量具有重要的作用。
+
+关键词：微咸水；棉花；产量；膜下滴灌；矿化度；新疆南部
+
+新疆南部(以下简称南疆)属温带极端大陆性气候，干燥少雨，光照充足，降雨量小,蒸发量大，缺水是限制南疆农业发展的重要因素。南疆地区存在丰富的浅层地下咸水和灌溉排水，极易开发和利用。棉花作为一种耐盐作物，已成为南疆经济作物的主要支柱。因此，合理使用微咸水对棉花进行灌溉，是解决水土资源不平衡的重要突破口。
+
+国内外学者关于微咸水和作物生长及产量之间的关系做了大量的研究，为微咸水合理使用提供了理论的支撑。研究表明随着灌溉水矿化度的增加，出苗率下降[1-3],叶面积指数减小,株高降低,干物质积累减少，根面积减小[4-5],随着盐分胁迫的增加和胁迫时间的延长，棉花的光合生理指标呈下降趋势,生育期缩短，单株结铃数和单铃重显著下降导致棉花减产7,无论是哪种灌溉方式都会造成土壤含盐量增加，产量下降8-，但矿化度不会对棉花品质造成影响[10-]。然而部分学者认为，微咸水矿化度较低时不会对棉花的生长造成影响[12-14],并且低矿化度的微咸水具有一定的洗盐作用，同时微咸水中含有一定量的微量元素，合理利用能有效抑制土壤中Na+增长[15-16]。因此,为探究不同区域棉花对盐分的响应，追求合理的微咸水利用方式以及揭示微咸水灌溉下作物生理生态响应机理，选择南疆地区主要经济作物一棉花作为研究对象，开展棉花微咸水灌溉田间试验研究，以期为该地区地下咸水资源的开发利用及灌溉农业的可持续发展提供科学依据。
+
+# 1材料与方法
+
+# 1.1试验区概况
+
+试验点设在新疆兵团第2师31团( $8 5 ^ { \circ } 2 4 ^ { \prime } \sim$ $8 8 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } , 3 9 ^ { \circ } 3 0 ^ { \prime } \sim 4 2 ^ { \circ } 2 0 ^ { \prime } \mathrm { N } )$ 。地处塔里木盆地，属暖温带大陆性荒漠气候，夏季炎热干燥，冬季漫长寒冷。区内多风而干热,尤其是立春时由于地表植被覆盖度低，多沙尘天气易对作物的生长造成不利的影响。降水稀少，多年平均降水量小，蒸发强烈，无霜期长，适宜棉花的生长。该团耕地类型为沙壤土，土壤保水蓄水能力较差，在作物生长季节不能满足正常水分需要，属于典型干旱灌溉农业区。
+
+# 1.2试验设计与灌溉管理
+
+试验采用“一膜两管四行"的种植模式，株距为$1 0 \ \mathrm { c m }$ ,覆膜宽度为 $1 2 5 ~ \mathrm { c m }$ ，滴灌带铺设在宽行（图1)。本试验共设置6种处理：淡咸比为1:0，矿化度为 $0 . 3 8 \sim 0 . 7 5 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ （对照)；淡咸比为4:1，矿化度为$2 . 3 6 \sim 3 . 3 9 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ (处理1)；，淡咸比为3:2，矿化度为$3 . 3 4 \sim 5 . 5 1 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ （处理2)；淡咸比2:3，矿化度为$6 . 3 6 \sim 7 . 7 4 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ （处理3);淡咸比1:4，矿化度为$7 . 3 0 \sim 9 . 3 2 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ （处理4)；淡咸比0:1，矿化度为$9 . 8 1 \sim 1 1 . 8 1 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ (处理5)。每个处理重复3次，共计18个小区。在苗期用少量淡水进行灌溉以保证棉花正常生长，在现蕾期之后采用微咸水。试验采用的是重力自压滴灌方式(图2)，首先把淡咸水按不同比例抽入容量为1t的水罐中，混匀后灌入小区，灌水频率为7d1次，全生育期共计灌水12次，灌水量为 $5 \ : 2 5 0 \ : \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，各生育期灌溉比例及灌水量见表1。试验地棉花施肥量及农艺措施均参考当地经验，
+
+# 1.3试验观测项目与方法
+
+1.3.1株高、茎粗、叶面积、蕾铃数、果枝数等生长指标定株测定每个试验小区选取长势均一具有代
+
+![](images/cf67762dcbbfd95fbc32a9e18dda7f69d28685d9b5e645591fcd8c54922e5403.jpg)  
+图1 棉花种植模式  
+Fig.1Pattern of cotton planting
+
+![](images/83413e99ebcec54307b43e09dccc1ef902f73045ce2f2f045355149cfef1e0e9.jpg)  
+图2灌水装置  
+Fig.2Irrigation device diagram
+
+# 表1棉花各生育期灌溉比例及灌水量
+
+Tab.1 Irrigation ratio and irrigation amount of cotton in each growth period   
+
+<html><body><table><tr><td>生育期</td><td>蕾期</td><td>花期</td><td>铃期</td><td>吐絮期</td><td>合计</td></tr><tr><td>灌溉比例/%</td><td>20.0</td><td>27.2</td><td>38.5</td><td>14.3</td><td>100</td></tr><tr><td>灌水量/(m·hm-2)</td><td>1050</td><td>1426</td><td>2024</td><td>750</td><td>5250</td></tr></table></body></html>
+
+表性的内行3株，外行3株，作为观测对象并加以标记。株高与叶面积采用钢卷尺测定，茎粗采用电子数显游标卡尺测量，蕾铃数及果枝数直接数取。
+
+1.3.2叶绿素含量的测定从现蕾期开始，挑选各小区内长势一致的植株样6株，每隔10d,用叶绿素活体测定仪(SPAD-502,Konica Minolta Sensing, Inc.,Japan)原位测定同株功能叶绿素含量(SPAD)，每个叶片测量5次，取其平均值;每小区6株棉花相同叶位叶片SPAD值再平均，作为该小区的SPAD值。
+
+1.3.3 棉花干物质及产量测定在棉花的不同生育期，在每个试验小区，随机采取3株棉花，采用烘干法测定，即在 $1 0 5 ~ \mathrm { { ^ circ C } }$ 杀青 $2 \mathrm { h } , 8 0 ^ { \circ } \mathrm { C }$ 烘干至恒重并称重。吐絮期不同处理各选取3片长势均一面积为$6 . 6 7 \mathrm { ~ m } ^ { 2 }$ 的棉田，数取 $6 . 6 7 \ \mathrm { m } ^ { 2 }$ 内棉花铃数，之后摘取100朵棉花晒干称重，以此计算各处理棉花籽棉产量，取3个重复的均值作为该处理棉花籽棉产量，并以此推算棉花亩产。
+
+# 1.4数据处理与分析
+
+采用Excel软件进行数据整理,Sigmaplot10.0软件进行绘图，SPSS19.0进行显著性分析。
+
+# 2结果与分析
+
+# 2.1不同混合灌溉方式对棉花生理性状的影响
+
+2.1.1对棉花株高、茎粗的影响由图3可以看出，不同矿化度处理下棉花株高生长过程基本一致，都是前期生长较为迅速，因为前期主要是营养生长，后期营养生长减缓，生殖生长加快，打顶后基本不再生长。为保证苗期棉花正常生长及需水量小，对棉花进行淡水补给，故苗期各处理株高差异不明显。从苗期到现花期主要是营养生长，各处理棉花的生长速率：对照为 $1 . 5 9 \ \mathrm { c m } \cdot \mathrm { d } ^ { - 1 }$ ;处理1为 $1 . 4 0 \ \mathrm { c m } \cdot$ $\mathbf { d } ^ { - 1 }$ ;处理2为 $1 . 3 8 \ \mathrm { c m } \cdot \mathrm { d } ^ { - 1 }$ ;处理3为 $1 . 2 2 \mathrm { c m } \cdot \mathrm { d } ^ { - 1 }$ ;处理4为 $1 . 1 4 ~ \mathrm { c m } \cdot \mathrm { d } ^ { - 1 }$ ;处理5为 $1 . 0 4 \ \mathrm { c m } \cdot \mathrm { d } ^ { - 1 }$ 。打顶后，棉花株高生长速率变慢，至吐絮期，棉花株高趋于稳定，对照为 $8 3 . 0 5 ~ \mathrm { c m }$ ,处理1为 $7 9 . 5 0 ~ \mathrm { c m }$ ，处理2为$7 1 . 8 3 ~ \mathrm { c m }$ ，处理3为 $6 6 . 5 0 ~ \mathrm { c m }$ ，处理4为 $6 0 . 5 0 ~ \mathrm { c m }$ ，处理5为 $5 7 . 5 0 ~ \mathrm { c m }$ 。分析可知，随着灌溉水矿化度的升高，棉花的生长速率被限制；同时随着棉花生育期的推进，微咸水灌溉次数逐渐增加，带入土壤中的盐分增多，因此，不同矿化度处理下棉花株高差异性随着矿化度的升高逐渐增加
+
+![](images/af987faa85a636cc585da9be397427785f40c865307e30e480b2c6c66dcb8fc8.jpg)  
+Fig.3Variation of plant height and stem thickness with time under different brackish water treatments
+
+由图3还可以看出，各处理棉花茎粗变化较为一致，随着生育期的推进，棉花茎粗不断增加。棉花生长由苗期进人盛蕾期，此阶段棉花主要是营养生长，所以棉花茎粗生长较快;在棉花生长后期，营养生长与生殖生长同时进行，但此时主要以生殖生长为主，因此，水分及养分主要被用于生殖器官的发育，茎粗的生长受到影响。截止到吐絮期，不同处理下对照的茎粗最大为 $1 1 . 2 5 \mathrm { m m }$ ，仅次于对照的是处理2为 $1 1 . 1 6 \mathrm { m m }$ ,处理5最低为 $8 . 9 6 \mathrm { m m }$ 。与对照进行比较可以看出，处理5的茎粗降低了$2 0 . 4 0 \%$ ,这是由于处理5带入的盐分较多，而降低最少的是处理2仅降低了 $0 . 8 \%$ 。
+
+2.1.2对叶面积指数的影响由图4可以看出，不同矿化度微咸水对棉花整个生育期叶面积指数的影响呈现单峰型。从苗期到铃期,棉花处于营养生长阶段，果枝数增加，叶片数增多，叶面积指数增大，至铃期达到最大。铃期到吐絮期，棉花水分及养分主要用于生殖的生长，导致棉株下部叶片养分供应不足，不断脱落，造成棉花叶面积逐渐减小。同时，在苗蕾期，尽管灌水次数少，但此时棉花耐盐性较差，盐分对棉花叶面积产生负面影响，导致处理4和5的叶面积指数低于其他处理;铃期叶面积指数最大。进入吐絮期，随着灌溉次数的增加，更多盐分被带入土体，不同矿化度处理下棉花叶面积出现明显差异，叶面积指数最大为对照，比处理1、处理2、处理3、处理4和处理5增加了 $0 . 5 2 \%$ 、$0 . 3 9 \%$ 、 $3 4 . 3 8 \%$ ） $4 8 . 3 1 \%$ 和 $4 6 . 7 3 \%$ 。不同处理之间随着灌溉水矿化度的升高，棉花叶面积指数呈现下降趋势，说明棉花叶片生长受到盐分抑制，导致棉花叶面积减小。由上可知，低矿化度的微咸水对棉花的生长影响较小，灌溉水矿化度越高对棉花的抑制作用越大。
+
+![](images/befefdd9f881acb912d7ab6c10e1fece836d26e2314ab6c2d9920e80346615a0.jpg)  
+图3不同微咸水处理下株高、茎粗随时间的变化  
+图4不同矿化度处理下叶面积指数随时间的变化Fig.4Variation of leaf area index with time underdifferent salinity treatment
+
+2.1.3对叶绿素含量的影响由图5可知，各处理SPAD值随时间的变化一致，呈现先增大后减小，在花期最低，铃期达到最大，吐絮后下降，SPAD值范围主要集中在 $4 3 \sim 5 8$ 之间。在花期，随着灌溉水矿化度的增加,SPAD呈现上升趋势，处理1、处理2、处理3、处理4和处理5分别比对照大 $4 . 6 1 \%$ 、$1 0 . 2 8 \%$ 、 $8 . 1 3 \%$ 、 $1 8 . 2 3 \%$ 和 $1 9 . 3 1 \%$ ;在吐絮期,除处理1外，其他各处理下的棉花SPAD较对照呈下降趋势，其中处理2、处理3、处理4和处理5分别比对照小 $3 . 4 1 \%$ 、 $8 . 7 1 \%$ 、 $9 . 0 8 \%$ 和 $1 3 . 2 1 \%$ 。在棉花生育前期，少量盐分对棉花生长有促进作用，SPAD增加。但是随着生育期的推进，灌溉次数增加，灌溉水矿化度越大盐分被带进土体越多，SPAD受到盐分胁迫，逐渐降低。由上可知，SPAD不仅受到生育阶段的影响，还受到盐分胁迫的影响。
+
+![](images/f8fad66ea8c1b21b28e713e06ffa369cbeb31cddfe15f9709b9ed8e5f5cd202f.jpg)  
+图5不同矿化度处理下叶绿素随时间的变化Fig.5Variation of chlorophyll with time under differentsalinity treatment
+
+2.1.4对棉花植株干物质的影响从图6可以看出,各时期不同灌溉水矿化度处理下棉花单株干物质累积呈现逐渐增大的趋势，蕾期之前棉花单株干物质积累较慢，蕾期之后棉花单株干物质增加较快，至吐絮期达到最大；不同处理之间随着灌溉水矿化度的增大，棉花单株干物质出现下降趋势。在苗期蕾期时，不同微咸水处理下的干物质积累量差异不显著，因为苗期需水量少以及土壤熵情较好，灌水的次数少，带人的盐分较低，对棉花的影响不明显。在花铃期，随着灌溉水矿化度的增加，不同矿化度处理下单株干物质的积累量随灌溉水矿化度的增加而减少,单株积累量最大为对照 $4 1 . 3 4 \ { \mathrm { g } }$ .株-1，处理1、处理2、处理3、处理4分别为36.69、35.52、35.24、34.33g·株-1,最低为处理5 $( 2 9 . 3 6 \mathrm { ~ g ~ }$ ：株-1)。棉花单株干物质重在吐絮期达到峰值，其中对照为最高，随着灌溉水矿化度的增加，棉花单株干物质出现显著性下降。随着生育期的推进，不同灌溉水矿化度处理下棉花单株干物质的积累量均呈递增趋势，但增加程度有所差异，对照处理下棉花生长速度均高于其他处理，随着灌溉水矿化度的升高，棉花单株干物质增长幅度较小。
+
+![](images/5191f24bdb58712cfdcd9a5b70969c4153cec7e2e950171a70116c2907df628e.jpg)  
+注：不同字母表示处理间差异显著（ $\cdot P < 0 . 0 5$ 。下同。图6不同处理下单株干物质重随时间的变化图Fig.6Variation of dry matter weight per plant with timeunder different treatments
+
+# 2.2棉花产量与灌溉水分生产效率
+
+在棉花成熟后进行测产，经过称重得知不同微咸水处理下棉株单铃重介于 $5 \sim 6 \ \mathrm { g }$ ，各处理之间没有显著性差异;随着矿化度的升高，棉花单株结铃数显著减少。由表2可以看出，棉花产量随着咸水比例的增加，呈现逐渐递减的趋势，当灌溉水为全淡时棉花产量最高为 $6 8 3 5 . 5 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,全咸时的棉花产量最低为 $2 7 5 5 . 6 5 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ，约为对照 $4 0 \%$ ;当淡咸水的比例为4:1时，较对照减少 $1 1 . 8 5 \%$ 。同时，由表2还可以看出，相同灌水定额，随着矿化度的升高，灌溉水分生产效率逐渐降低，其中对照的灌溉水分生产效率最高为 $1 . 3 0 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 3 }$ ,处理1为 $1 . 1 5 \mathrm { k g }$ $\mathbf { m } ^ { - 3 }$ ,较对照少 $0 . 1 5 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 3 }$ ;处理5灌溉水生产效率最低为 $0 . 5 2 \mathrm { k g } \cdot \mathrm { m } ^ { - 3 }$ ,较对照减少 $0 . 7 8 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 3 }$ 。从表2可知，同一灌水定额，随着矿化度的增加，每公顷所产生的成本逐渐较低，淡水利用量越大产生的成本越大。
+
+Tab.2 Cotton yield and irrigation water production efficiency   
+
+<html><body><table><tr><td></td><td>产量/ (kg·hm-2)</td><td>灌水量/ (m³·hm-2)</td><td>灌溉水分生产效率/ (kg·m-3)</td><td>各处理所需的淡水量/ (m³·hm-2)</td><td>淡水价格/ (元·m-3)</td><td>增加的成本/ (元·hm-2)</td></tr><tr><td>对照</td><td>6835.50</td><td>5250</td><td>1.30</td><td>5250</td><td>0.15</td><td>787.50</td></tr><tr><td>处理1</td><td>6025.35</td><td>5250</td><td>1.15</td><td>4200</td><td>0.15</td><td>630.00</td></tr><tr><td>处理2</td><td>5307.30</td><td>5250</td><td>1.01</td><td>3150</td><td>0.15</td><td>472.50</td></tr><tr><td>处理3</td><td>4876.20</td><td>5250</td><td>0.93</td><td>2100</td><td>0.15</td><td>315.00</td></tr><tr><td>处理4</td><td>4252.80</td><td>5250</td><td>0.81</td><td>1050</td><td>0.15</td><td>157.50</td></tr><tr><td>处理5</td><td>2755.65</td><td>5250</td><td>0.52</td><td>二</td><td>0.15</td><td>二</td></tr></table></body></html>
+
+# 2.3不同微咸水处理下 $\mathbf { 1 0 } \sim 4 0 ~ \mathrm { c m }$ 土层内盐分累积情况分析
+
+由表3可知，第1次灌水前各处理下的土壤盐分无显著性差异，范围在 $0 . 7 0 \sim 0 . 8 0 \mathrm { m S ^ { \cdot } c m ^ { - 1 } }$ 。最后1次灌水后，随着灌溉水矿化度的增加，土壤中的盐分呈现显著性增加,其中对照盐分最小为 $0 . 8 1 \mathrm { m } \mathrm { S } { \cdot } \mathrm { c m } ^ { - 1 }$ ，处理5的盐分最大为 $2 . 1 3 \mathrm { m S } { \cdot } \mathrm { c m } ^ { - 1 }$ 。同时，从表中可以看出，经过微咸水膜下滴灌，在土层 $1 0 \sim 4 0 ~ \mathrm { c m }$ 内，各处理最后1次灌水后的土壤盐分均比灌水前呈现不同程度的增加趋势，其中，对照增加 $1 4 . 0 8 \%$ 、处理1\~5分别较灌前增加 $5 8 . 5 7 \%$ 、 $6 9 . 8 6 \%$ 、$1 0 4 . 2 3 \% , 1 1 8 . 7 5 \% , 1 7 3 . 0 8 \%$ □
+
+# 表3棉花生育周期内土壤盐分累积情况
+
+表2棉花产量与灌溉水分生产效率  
+Tab.3 Soil salinity accumulation in the growth cycle of cotton   
+
+<html><body><table><tr><td colspan="2">灌咸水前/(mS·cm-1)</td><td>灌咸水后/(mS·cm-)</td><td>增长率/%</td></tr><tr><td>对照</td><td>0.71a</td><td>0.81a</td><td>14.08</td></tr><tr><td>处理1</td><td>0.70a</td><td>1.11b</td><td>58.57</td></tr><tr><td>处理2</td><td>0.73a</td><td>1.24b</td><td>69.86</td></tr><tr><td>处理3</td><td>0.71a</td><td>1.45c</td><td>104.23</td></tr><tr><td>处理4</td><td>0.80a</td><td>1.75d</td><td>118.75</td></tr><tr><td>处理5</td><td>0.78a</td><td>2.13e</td><td>173.08</td></tr></table></body></html>
+
+# 3讨论
+
+王久生等通过设置3种不同比例的淡咸水对棉花进行灌溉得出，土壤中的盐分浓度较高时会抑制棉花株高和茎粗的生长。同时张豫等[18也通过盆栽试验证明，随着灌溉水矿化度的增加，棉花的生长受到抑制。这与本试验得出的随着灌溉水矿化度增大，灌溉次数的增加，棉花生长受到盐分胁迫越严重，导致株高降低，茎粗减少，生育期提前，叶片提前脱落，叶面积减小的结果较为一致。水分是控制株高的重要因素，水肥越充足棉花的长势越好。棉花虽然是耐盐作物，但棉花在盐胁迫条件下仍旧会受到较大的影响。盐分对棉花的胁迫主要是抑制棉花吸收水分，导致棉花生长受到影响，
+
+叶绿素含量是反映植被生长阶段以及营养状况的重要生化参数，也是植物总体生长状况的重要指标[19]。本试验研究结果得出，随着灌溉水矿化度的增加，叶绿素相对含量在花期呈现上升趋势，在吐絮期出现下降。这与辛承松等2得出的随着灌溉水矿化度的增加，棉花叶片中的叶绿素含量显著降低的结果存在差异，可能是因为棉花叶片中叶绿素相对含量受到生育期、生长速率、管理水平以及盐分胁迫等多种因素的影响，关于这些影响还有待进一步验证。
+
+棉花干物质是产量形成的基础2。宋有玺等[22]和杨传杰等[23发现，当灌溉水的矿化度为 $2 . 0 \ \mathrm { g \cdot L ^ { - 1 } }$ 时对棉花单株干物质积累影响较小，甚至可以起到促进作用，超过此阈值，随着矿化度的增加，棉花单株十物质积累量逐渐下降。这与本试验得出的棉花单株干物质的累积量随着矿化度的升高而降低的试验结果基本一致，说明矿化度对棉花干物质的积累起到抑制作用，这种作用随着矿化度的增加而增强。
+
+李科江等24通过研究不同灌溉量下不同矿化度咸水对棉花生长发育及产量的影响得出，当灌溉水的矿化度小于 $3 . 3 8 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ ,咸水灌溉的棉花产量与淡水灌溉产量差异不明显，超过此值，随着矿化度的增加，棉花产量呈现直线下降。宋有玺等22在民勤绿洲区，利用咸水对棉花进行灌溉试验，研究结果证明当灌溉水的矿化度阈值小于 $3 . 5 1 \ \mathrm { g \cdot L ^ { - 1 } }$ ,微咸水灌溉的棉花产量与淡水灌溉产量差异不明显。这与本试验得出的当灌溉水的淡咸比为4:1时，即矿化度范围在 $2 . 3 6 \sim 3 . 3 9 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 对棉花的产量影响较小的试验结果较为一致。随着灌溉水矿化度的增加灌溉水分生产效率逐渐下降，这与前人[25-27得出的试验结果一致。说明灌溉水的水质对灌溉水分生产效率有较大的影响，其中处理1的灌溉水分生产效率较对照减少最少。微咸水的利用，在一定程度上节约了投资的成本，增加了农户的收入。但存在一定的风险，不同微咸水处理下 $1 0 \sim 4 0 ~ \mathrm { c m }$ 土壤盐分呈现累积现象，其中对照较灌前 $1 4 . 0 8 \%$ ,处理1较灌前增加 $5 8 . 5 7 \%$ ,处理5较灌前增加 $1 7 3 . 0 8 \%$ 0由此可见，即使是淡水灌溉下，也会存在积盐现象。合理利用淡咸比为4:1的微咸水对棉花进行灌溉具有一定的可行性。有研究表明，利用磁化水进行灌溉或者利用明沟排水，可以降低土壤中盐分含量[28-29]。因此,对于微咸水利用不同方式以及控盐的相关措施，有待研究。
+
+本试验时间为1a,试验周期较短，对于长期利用微咸水灌溉对棉花生长，产量及土壤的理化性质的影响还有待深入探究。
+
+# 4结论
+
+通过设置不同配比微咸水对棉花进行灌溉，分析棉花对盐分的响应以及微咸水灌溉下棉田的积盐规律，主要得出以下几点结论：
+
+（1）随着灌溉水矿化度的增加，棉花生长受到显著抑制，株高、茎粗降低，叶绿素下降，棉花单株干物质减少。
+
+(2）产量随着灌溉水矿化度的增加而降低，与对照相比，处理1即淡咸比为4:1时的灌溉水对棉花生长的影响较小，棉花产量较对照下降 $1 1 . 8 5 \%$ ；随着灌溉水矿化度增加，灌溉水分生产效率和所需淡水量减少，每公顷因淡水而产生的费用也在降低。
+
+(3）整个生育期结束后，灌水结束后不同灌溉水处理下的 $1 0 \sim 4 0 ~ \mathrm { c m }$ 的土壤盐分较灌水前均呈现积盐的情况，其中对照积盐最少为 $1 4 . 0 8 \%$ ,处理5积盐最多为 $1 7 3 . 0 8 \%$ ○
+
+因此，利用微咸水灌溉时，应该控制灌溉水矿化度，确定适宜的淡咸水的比例,抑制土壤盐分增加，减少对棉花生长产生不利影响，降低棉花减产的风险。
+
+# 参考文献(Reference)：
+
+[1]Ma LJ,Hou Z A,MinW,et al.Drip irrigation with suitable saline water improves water use efficiency for coton[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(14): 130-138.   
+[2]Zhang JP,Feng D,Zheng CL,et al.Effects of saline water irrigation on soil water-heat-salt variation and cotton yield and quality [J].Transactions of the Chinese Societyof Agricultural Machinery, 2014, 45(9): 161-167.   
+[3]董元杰,陈为峰,王文超,等.不同NaCl浓度微咸水灌溉对棉花 幼苗生理特性的影响[J].土壤,2017,60(6):1140-1145.[Dong Yuanjie,Chen Weifeng,Wang Wenchao,et al.Effects of brackish water irrigation under different NaCl concentrations on physiological characteristics of cotton seedlings[J]. Soils,2017,6O(6): 1140- 1145.]   
+[4]HuS J,Shen YJ, Chen XL,et al.Effects of saline water dripirrigation on soil salinity and coton growth in an Oasis Field[J]. Ecohydrology,2013,6(6): 1021-1030.   
+[5]Qadir M,Shams M. Some agronomic and physiological aspects of salt tolerance in cotton (Gossypium hirsutum L.)[J].Journal of Agronomy and Crop Science,2008,179(2): 101-106.   
+[6]Zhu YK, Wang Z H,Li W H,et al.Effects of different salt stress on physiological growth and yield of cotton under drip irrigation[J]. Journal of Soil & Water Conservation,2018,32(2): 298-305.   
+[7]Sadeh A,Ravina I. Relationships between yield and irrigation with low-quality water: A system approach[J]. Agricultural Systems,2000, 64(2): 99-113.   
+[8]Feng G X, Zhang Z Y,Wan C Y,et al. Effects of saline water irrigation on soil salinity and yield of summer maize( Zea mays L.) in subsurface drainage system[J]. Agricultural Water Management, 2017,193:205-213.   
+[9]Mantell A,Frenkel H,Meiri A.Drip irigation of coton with saline-sodic water[J]. Irrigation Science,1985,6(2): 95-106.   
+[10] Qadir M,Shams M. Influences of sodium chloride on ion accumulation,yield components,and fibre characteristics in salt-tolerances and salt-sensitive lines of cotton (Gossypium hirsutum L.)[J].Field Crops Research,2000, 66(2): 115-127.   
+[11]Ashraf M,Ahmad S,Ashraf M. Salt tolerance of cotton: Some new advances [J].Critical Reviews in Plant Sciences,2OO2,21(1):1- 30.   
+[12] 郭仁松,林涛,徐海江,等.微咸水滴灌对绿洲棉田水盐运移特 征及棉花产量的影响[J].水土保持学报,2017,31(1):211-216. [Guo Rensong,Lin Tao,Xu Haijiang,et al.Effect of saline water drip irrigation on water and salt transport features and cotton yield of Oasis coton field[J]. Journal of Soil and Water Conservation 2017,31(1): 211-216.]   
+[13] Min W,GuoHJ,Zhou G W,etal. Soil salinity,leaching,andcotton growth as afected by saline water drip irrigation and N fertigation[J].Acta Agriculturae Scandinavica, Section B-Soil & Plant Science,2016,66(6)1-13.   
+[14]Thind HS,Buttar G S,Aujla M S. Yield and water use efficiency of wheat and cotton under alternate furrow and check-basin irigation with canal and tube well water in Punjab,India [J].Irrigation Science,2010,28(6): 489-496.   
+[15] 唐超超,张坤,周祥,等.微咸水膜下滴灌对土壤盐分离子变化 及玉米产量的影响[J].科技视界,2017(6):57-58.[Tang Chaochao,Zhang Kun, Zhou Xiang,et al.Effects of drip irrigation under brackish water film on changes of soil salt isolates and maize yield[J]. Science & Technology Vision,2017(6): 57-58.]   
+[16] 黄金瓯,靳孟贵,栗现文.微咸水膜下滴灌对土壤和棉花元素组 成及产量的影响[J].地球科学:中国地质大学学报,2014,39 (6): 751-759.[Huang Jin'ou,Jin Menggui,Li Xianwen. Influence of mulched drip-irrigation with brackish water on element composition of soil, cotton,and cotton yield[J]. Earth Science: Journal of China University of Geosciences,2014,39(6): 751-759.]   
+[17] 王久生,王龙,姚宝林,等.微咸水膜下滴灌条件下水盐对棉花 生长的影响研究[J].节水灌溉,2012,37(12):9-15.[Wang Jiusheng,Wang Long,Yao Baolin,et al. Study on soil water and salt effects on cotton growth with light-saline water drip irrigation under mulching[J]. Water Saving Irrigation,2012,37(12): 9-15.]   
+[18] 张豫,朱珠,蔡德所.干旱区咸水膜下滴灌对棉花生长与产量的 影响[J].中国农村水利水电,2015,57(9):106-110.[Zhang Yu, Zhu Zhu, Cai Desuo.The effect of the growth and yieldofcoton in arid land under-mulch drip irrigation with salt water[J]. China Rural Water and Hydropower,2015,57(9): 106-110.]   
+[19] 洪帅,张泽,张立福,等.滴灌棉花不同生育时期冠层叶片叶绿 素含量的高光谱估测模型[J].棉花学报,2019,31(2):138-146. [Hong Shuai, Zhang Ze, Zhang Lifu,et al. Hyperspectral estimation model of chlorophyll content in cotton canopy leaves under drip irrigation at different growth stages[J]. Cotton Science,2019, 31(2): 138-146.]   
+[20] 辛承松,董合忠,唐薇,等.不同肥力滨海盐土对棉花生长发育 和生理特性的影响[J].棉花学报,2007,19(2):124-128.[Xin Chengsong,Dong Hezhong,Tang Wei, et al. Effects of coastal saline soils with different fertility on plant growth and development as well as physiological characteristics in coton[J].Cotton Science,2007,19(2): 124-128.]   
+[21] 张旺锋,李蒙春.北疆高产棉花干物质积累与分配规律的研究 [J].新疆农垦科技,1997,20(6):1-2.[Zhang Wangfeng,Li Mengchun.Study on dry matter accumulation and distribution law of high-yield cotton in northern Xinjiang[J]. Xinjiang Farm Research of Science and Technology,1997,20(6): 1-2.]   
+[22] 宋有玺,安进强,何岸蓉,等.微咸水膜下滴灌对棉花生长发育 及其产量的影响研究[J].水土保持研究,2016,23(1):128-132. [Song Youxi,An Jinqiang,He Anrong,et al.Effect of mulched drip irrigation with saline water on cotton growth and yield[J]. Research of Soil and Water Conservation,2016,23(1):128-132.]   
+[23] 杨传杰,罗毅,孙林,等.灌溉水矿化度对玛纳斯流域棉花生长 影响的试验研究[J].资源科学,2012,34(4): 660-667.[Yang Chuanjie,Luo Yi, Sun Lin,etal.Experimental study on the impacts of the irrigation water salinity on cotton growth in Manas River Oasis,Xinjiang[J]. Resources Science,2012,34(4): 660-667.]   
+[24] 李科江,马俊永,曹彩云,等.不同矿化度咸水造熵灌溉对棉花 生长发育和产量的影响[J].中国生态农业学报,2011,19(2): 312-317.[Li Kejiang,Ma Junyong,Cao Caiyun,et al. Effect of irrigation water salt content on cotton growth and yield[J]. Chinese Journal of Eco-Agriculture,2011,19(2): 312-317.]   
+[25] 张俊鹏,冯棣,曹彩云,等.咸水灌溉对覆膜棉花生长与水分利 用的影响[J].排灌机械工程学报,2014,32(5): 48-455. [Zhang Junpeng,Feng Di, Cao Caiyun,et al.Effects of irrigation with saline water on growth and water use efficiency of film-mulched cotton plant[J].Journal of Drainageand Irigation MachineryEngineering,2014,32 (5): 448-455.]   
+[26] 蒋静,冯绍元,王永胜,等.灌溉水量和水质对土壤水盐分布及 春玉米耗水的影响[J].中国农业科学,2010,43(11):2270- 2279.[Jiang Jing,Feng Shaoyuan,Wang Yongsheng,et al. Effect on water-salt distribution and evapotranspiration of spring maize under different water quantities and qualities[J]. Scientia Agricultura Sinica,2010,43(11): 2270-2279.]   
+[27] 马丽娟,侯振安,闵伟,等.适宜咸水滴灌提高棉花水氮利用率 [J].农业工程学报,2013,29(14):130-138.[Ma Lijuan,Hou Zhen'an, Min Wei,et al.Drip irrigation with suitable saline water improves water use efficiency for cotton [J]. Journal of Agricultural Engineering,2013,29(14): 130-138.]   
+[28] 李夏,乔木,周生斌.磁化水滴灌对棉田土壤脱盐效果及棉花产 量的影响[J].干旱区研究,2017,34(2):431-436.[Li Xia,Qiao Mu,Zhou Shengbin.Effects of drip irrigation with magnetized water on soil desalinization in cotton field and cotton yield[J].Arid Zone Research,2017,34(2): 431-436.]   
+[29] 李开明,刘洪光,石培君,等.明沟排水条件下的土壤水盐运移 模拟[J].干旱区研究,2018,35(6):1299-1307.[Li Kaiming,Liu Hongguang,Shi Peijun,et al. Simulation of soil water and salt migration under open-ditch drainage[J].Arid Zone Research, 2018, 35(6): 1299-1307.]
+
+# Effect of drip irrigation under brackish water film on cotton growth and yield
+
+LIU Xue-yan'， DING Bang-xin'， BAI Yun-gang²， CHAI Zhong-ping'， WANG Xiao-tong' (1. College of Grassland and Environmental Science, XinjiangAgriculture University, Urumqi 830o52, Xinjiang, China;2.Xinjiang Institute ofwater Resourcesand Hydropower Research,Urumqi 83o049,Xinjiang,China)
+
+Abstract: Southern Xinjiang has a shortage of freshwater resourcesand relatively abundant shallow underground saline water,irigation,and drainage resources.The impacts of mixed brackish water irigationoncotton growth and yield were investigated to obtain application models that can aleviate the drought lossof cottn growing areas in Xinjiang. In this study,irrigation surface water (mineralization degree $0 . 3 8 \mathrm { - } 0 . 7 5 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } ,$ ） was used as a control and drainage channel saline water (mineralization degree $9 . 8 1 - 1 1 . 8 1 ~ \mathrm { g \cdot L ^ { - 1 } }$ ）was mixed in different proportions for each treatment.A salinity gradient of six water treatments wassetup to conduct afield irigation teston coton:1:Olight/ salt ratio (control);4:1light/saltratio (treatment1);3:2light/saltratio (treatment2);2:3light/satratio (treatment 3);1:4 light/salt ratio (treatment 4); O:1 light/salt ratio (treatment5).Theresultsshowed that the physiological characteristics of cottn deteriorate as the salinityof irigation water increases.Compared with the control,the treatment 1 irrigation water had less effect on cotton growth,and the cotton yield decreased by $1 1 . 8 5 \%$ . Irrigation water production eficiency decreases with the increase of irrigation water salinity;treatment1had the smalest decrease compared with the control. Under diferent brackish water treatments,the soil salinityat 1O-4O cm depth showed a cumulative phenomenon.Among them,the soil salinity after the last irrigation increased $1 4 . 0 8 \%$ （204号 compared with that before the first irigation，whereas treatment 5showed the greatest increase of salinity at $1 7 3 . 0 8 \%$ . In conclusion,the irrigation water with a salinity of $2 . 3 6 { - } 3 . 3 9 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ (treatment 1) had little effect on coton growth,yield,production effciency,andsoil salinity.Therefore,theuseofappropriatelymixedsaltand water irigation during drought and water shortage periods cancontribute to alleviating the shortage of regional water resources,reducing drought-related cotton production losses.
+
+Keywords: brackish water; cotton; production; drip irrigation; salinity; southern Xinjiang

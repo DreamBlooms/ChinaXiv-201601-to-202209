@@ -1,0 +1,222 @@
+# 中国绿洲喜温作物气候生长期对全球变暖停滞响应的时空差异
+
+司文洋，张明军，刘普幸(西北师范大学地理与环境科学学院，甘肃兰州730070)
+
+摘要：基于中国绿洲喜温作物分布区67个地面气象站1960—2016年逐日平均气温数据,运用线性趋势法、反距离加权(IDW)、Morlet小波分析法、Mann-Kendall检验等方法，分析了中国绿洲喜温作物气候生长期生长初、终日及生长期的时空变化对全球变暖停滞(globe warming hiatus)的响应。结果表明：1998—2012年中国绿洲喜温作物气候生长期生长初、终日及生长期变化倾向率分别为：-2.15$\mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 2 . 7 6 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 4 . 9 1 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，与1960—2016年和1960—1998年相比呈现出初日提前、终日推迟、生长期延长的态势，没有出现对全球变暖停滞的响应；空间变化方面，仅有超过 $2 2 \%$ 的站点有对全球变暖停滞的响应，整体响应不显著;但各绿洲对全球变暖停滞的响应却不尽相同,柴达木绿洲喜温作物气候生长期对全球变暖停滞的响应最为显著，其余绿洲则反之，也反映了青藏高原是气候变化的驱动器与放大镜。突变分析显示，研究区喜温作物生长初日、终日及生长期分别在2008年、2001年、2006年发生突变，突变年份多集中于变暖停滞期，之后的变化趋势显示对全球变暖停滞没有响应。Morlet小波分析表明其周期存在 $2 . 4 \sim 3 . 8$ a的优势短周期，与 $2 \sim 4 \mathrm { a }$ 大气环流和厄尔尼诺事件2\~7a的周期相吻合，表明喜温作物气候生长期主要受大气环流与厄尔尼诺活动的影响。
+
+关键 词：喜温作物；全球变暖停滞；时空差异；中国绿洲文章编号： $1 0 0 0 - 6 0 6 0 \lfloor 2 0 2 0 \rfloor 0 4 - 0 8 9 9 - 1 0 \lfloor ( 0 8 9 9 \sim 0 9 0 8 )$
+
+全球变暖已成为事实和共识，IPCC第五次评估报告指出，1880一2012年全球地表平均温度升高了 $0 . 8 5 ~ \mathrm { ^ { \circ } C } \left( 0 . 6 5 \sim 1 . 0 6 ~ \mathrm { ^ { \circ } C } \right) ^ { \left[ 1 \right. }$ ],与气候变暖有关的一系列影响证实了这一结论：山岳冰川萎缩、极端事件频发、植物物候期变化等[2-4]。然而，CARTER[5]在2006年指出1998—2005年全球气温并未出现显著的上升趋势，出现了停滞现象。全球变暖停滞是指，1998一2012年全球平均气温上升速率减缓[6],甚至出现微弱下降趋势[7]。自2006年起相关学者陆续开始了有关全球变暖停滞的研究。全球变暖停滞已成为当前全球变化研究中关注的一个热点[8-10]。
+
+目前，学术界对全球变暖停滞是否存在及其形成机制展开了激烈的争论。IPCC第五次评估报告指出：1998一2012年全球气温增暖趋势有显著减缓的迹象，与1951一2012年相比，增暖幅度约为这一时期的 $1 / 3 \sim 1 / 2 ^ { [ 6 ] }$ 。但也有相反的结论认为全球变暖停滞不存在：KARL等[通过新的订正方法计算出1950一1999年的全球平均气温上升速率为 $0 . 1 1 3 ^ { \circ } \mathrm { C }$ ：（20 $( 1 0 \mathrm { a } ) ^ { - 1 }$ ,而2000—2014年则为 $0 . 1 1 6 ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,并不存在"增暖滞缓"的现象;COWTAN等[12通过最优插值法和卫星插补缺测证实了20世纪90年代后期北极地区增温速率远超同期地表增温速率，而先前的研究中并未涉及北极地区，将北极地区气温重建后发现全球变暖速率仍在增加。关于全球变暖停滞的机制问题同样争议不断，EASTERLING等[13]通
+
+# 干旱区地理
+
+过分析1901一2008年的气象观测数据和CMIP3模型数据,认为阶段性的变冷或变暖停滞时常发生，但整体变暖的趋势不会改变；还有一些观点认为平流层水蒸汽[14]、气溶胶[15]、对流层气溶胶[6]的增加导致大气顶层净能量减少从而导致了全球变暖停滞;也有一些学者认为全球变暖停滞是由地球系统内部的自然变化引起的，例如，MEEHL等[17]基于CCSM4模型，比较了8个全球变暖停滞期不同深度海洋的热吸收趋势，认为在全球变暖停滞期， $\leqslant 3 0 0 \mathrm { m }$ 海洋的热吸收率为 $0 . 1 7 \times 1 0 ^ { 2 3 } \mathrm { ~ J }$ ·中 $( 1 0 \mathrm { ~ a ~ } ) ^ { \mathrm { ~ - ~ } 1 }$ ， $\geqslant 3 0 0 \mathrm { m }$ 海洋的热吸收率为 $0 . 4 9 \times 1 0 ^ { 2 3 } .$ J·$\left( 1 0 \mathrm { ~ a ~ } \right) ^ { \mathrm { ~ - ~ } 1 }$ ，表明 $\geqslant 3 0 0 \mathrm { m }$ 的海洋对热量吸收较多。YU等[18]通过分析HadCRUT数据分析认为1997—1998年的"厄尔尼诺一拉尼娜"现象造成东赤道太平洋表面冷却是造成此次全球变暖停滞的主要原因；CHEN等[19]通过研究分析ISHII数据认为北大西洋副极地盐度驱动机制使1998一2012年大气顶层多余的热量进入 $3 0 0 \mathrm { ~ m ~ }$ 以下的海洋，造成了全球变暖停滞；还有一种观点认为大西洋多年际振荡(AMO)使大西洋在1998一2012年间处于负相位，进而影响全球气候[20]。我国一些学者也针对此现象进行深入研究。王绍武等[21]计算了1979—2008年年代际中国气温距平发现,1999—2008年中国气温增暖速率低于1989一1998年，但气温仍有大幅度的升高，10a的气温距平达到 $1 \mathrm { { ^ { c } } }$ 以上。杜勤勤等[22]计算了中国1998—2012年气温增暖速率，并将其与1960—1998年、1960—2016年的增暖速率相比较,结果发现存在变暖停滞的现象。丁一汇等[23通过比较1951—1980年与1981—2010年中国平均气温增暖速率，发现中国仍以增暖趋势为主，1981—2010年增暖速率为 $0 . 1 9 \ \mathrm { ^ { circ } C } \cdot ( 1 0 \ \mathrm { a } ) \ ^ { - 1 }$ ;由此可见，国内外学者对全球变暖停滞是否存在仍有较大争议。
+
+综上所述，前人大多是利用器测资料来研究全球变暖停滞，而从植物气候生长期对全球变暖停滞响应的研究甚少。同时，以往对全球变暖停滞的研究主要集中于全球、中国22等大的区域，而对气候变化响应敏感的中国绿洲及其分绿洲对全球变暖停滞的响应究竟如何尚不清楚。因此，本文通过比较1960—2016年与1998—2012年两个不同时期喜温作物气候生长期的变化状况，以期更好的反映中国绿洲喜温作物对全球变暖停滞响应的时空差异，同时也从不同角度为全球变暖停滞的区域差异性提供科学依据。
+
+# 1研究区概况
+
+中国绿洲位于 $3 4 ^ { \circ } 2 5 ^ { \prime } \sim 4 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } \mathrm { , } 7 3 ^ { \circ } 4 0 ^ { \prime } \sim 1 0 9 ^ { \circ }$ $0 8 ^ { \prime } \mathrm { E }$ 之间，主要分布在我国西北干旱区的盆地之中且集中分布于高大山系和山前洪积扇前(图1)，属温带大陆性荒漠气候，光热资源丰富，年日照时数在 $2 ~ 8 0 0 ~ \mathrm { h }$ 以上，全年降水不足 $2 0 0 ~ \mathrm { { m m } }$ ,冬季寒冷，夏季炎热，气温年较差与日较差较大。土壤以灰漠土、灰棕漠土、棕漠土为主。在极端气候的影响下，中国绿洲植物的种类贫乏，结构简单，主要由叶退化的小乔木、灌木和半灌木组成。
+
+![](images/874a2b822ce02af03de0b67e44ce184e33d8851ffe1e14c140d8bfa97a8229bd.jpg)  
+图1中国绿洲喜温作物气象站点分布  
+Fig.1Distribution of thermophilic crop meteorological stations in oasis of China
+
+# 2资料与方法
+
+# 2.1 数据来源
+
+本文选用中国绿洲有农作物生长的67个地面气象站点1960一2016年逐日平均气温数据，数据来源于中国气象数据网。对于少数站点气温缺测的情况采用五日滑动平均内插法，插补所缺失日数的数据，以确保气温数据的完整性与连续性。本文为了量化不同时期喜温作物气候生长期的变化情况，将变暖停滞期(1998—2012)[22]之前的时期1960—1998年定义为变暖加速期,便于计算与表述。
+
+# 2.2绿洲的划分与喜温作物的定义
+
+申元村等24根据绿洲区划的原则和方法将中国绿洲划分为北疆绿洲、南疆绿洲、河西走廊绿洲、柴达木盆地绿洲、河套平原绿洲和阿拉善绿洲。常兆丰等[25通过分析民勤沙生植物园1974—2007年42种中生、旱生植物的物候观测资料，认为气温是中国绿洲植物物候期的主要影响因素。本文中的喜温作物是指生长发育所需温度必须 $\geqslant 1 0 ~ \mathrm { \dag }$ 的作物，如棉花、水稻、玉米等[26]。
+
+# 2.3 研究方法
+
+2.3.1气候生长期初终日的确定本文将稳定通过 $1 0 ~ \mathrm { ^ { c } C }$ 界限温度的初终日作为喜温作物气候生长期的起止日期，初终日之间的天数作为气候生长期日数。确定初终日的具体过程为：采用5d滑动平均法[27],当滑动平均值持续 $\geqslant 1 0 \ \mathrm { { ^ { \circ } C } }$ 时,选择第一个滑动平均值 $\geqslant 1 0 \ \mathrm { { ^ { \circ } C } }$ 的连续5d中，首个 $\geqslant 1 0 \ \mathrm { { ^ { \circ } C } }$ 的日期，作为喜温作物气候生长期的生长初日；当滑动平均值持续 $\geqslant 1 0 ^ { \circ } \mathrm { C }$ ,选择最后一个滑动平均 $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 的连续5d中，最末一个 $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 的日期，作为喜温作物气候生长期的生长终日。公式如下：
+
+$$
+\overline { { \boldsymbol { x } } } _ { s i } = \left( \boldsymbol { x } _ { i } + \boldsymbol { x } _ { i + 1 } + \boldsymbol { x } _ { i + 2 } + \boldsymbol { x } _ { i + 3 } + \boldsymbol { x } _ { i + 4 } \right) / \left. 5 \right.
+$$
+
+式中： $\mathbf { \Phi } _ { ; x _ { i } , x _ { i } + 1 } , \cdots , x _ { i } { + } 4$ 为一年的日平均温度的记录值;i为某一天。
+
+中国绿洲喜温作物气候生长期生长初、终日及生长期的计算：计算各气象站点喜温作物的气候生长期，并进行平均化处理，确定各绿洲喜温作物气候生长期;按照各绿洲所占面积确定权重，之后通过加权平均计算获得喜温作物气候生长期。
+
+2.3.2Morlet小波分析本文应用Morlet小波函数分析中国绿洲喜温作物气候生长期初终日的周期性特征。Morlet小波是应用十分普遍的小波函数之一，其母小波函数为：
+
+$$
+\varphi ( t ) = \mathrm { e } ^ { i c t } \mathrm { e } ^ { - \frac { t ^ { 2 } } { 2 } }
+$$
+
+小波变换的连续形式为：
+
+$$
+W _ { f } ( a , \ b ) = \mid a \mid ^ { - \frac { 1 } { 2 } } \int f ( t ) \varphi \biggl ( \frac { t - b } { \alpha } \biggr ) \mathrm { d } t
+$$
+
+式中： $W _ { f }$ 称为小波系数； $\mathbf { \alpha } _ { a }$ 是频率参数； $b$ 是时间参数。
+
+# 3结果与分析
+
+# 3.1中国绿洲喜温作物气候生长期对全球变暖停 滞的响应差异
+
+3.1.1生长初日的响应变暖停滞期，中国绿洲喜温作物气候生长期生长初日呈提前趋势，变化倾向率为 $- 2 . 1 5 \mathrm { d } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ （图2a)，与1960—2016年生长初日倾向率 $- 1 . 4 2 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } ( \alpha \geqslant 0 . 0 1 )$ 及变暖加速期倾向率 $- 0 . 8 5 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 }$ 相比，提前趋势明显，没有出现对全球变暖停滞的响应；各绿洲喜温作物生长初日对全球变暖停滞的响应差异性明显(表1)。其中，柴达木绿洲、河套绿洲有对增暖滞缓的响应，生长初日呈推迟趋势，这与FU等[28所得出的柴达木地区植被生长初日推迟但变化幅度较小的结论相一致;其余地区没有对该现象的响应，继续呈显著提前趋势;其中，生长初日提前趋势最明显的是北疆绿洲，变化倾向率由 $1 . 1 5 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 减少至 $- 2 . 3 9 \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,平均年生长初日提前了 $6 \mathrm { d } ,$ □3.1.2生长终日的响应变暖停滞期，中国绿洲喜温作物气候生长期生长终日仍呈推后趋势，变化倾向率为 $2 . 7 6 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ （图 $2 { \mathrm { b } } { \mathrm { . } }$ ），与1960—2016年生长终日倾向率 $1 . 0 7 \ : \mathrm { d } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 } ( \alpha \geq 0 . 0 1 )$ 及变暖加速期倾向率 $0 . 6 4 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 相比，推迟趋势明显，未出现对全球变暖停滞的响应；与变暖加速期相比，各绿洲生长终日在变暖停滞期的变化状况不尽相同(表1)，除柴达木绿洲外，其余地区生长终日均呈更进一步的推迟趋势;变暖停滞期北疆绿洲喜温作物生长终日推迟趋势最为显著，变化倾向率 $0 . 6 9 \mathrm { d }$ ：$( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ 增加至 $4 . 8 9 \ : \mathrm { d } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ( \alpha \geq 0 . 0 5 )$ ,平均年生长终日推迟了5d;柴达木绿洲喜温作物生长终日则呈提前趋势，变化倾向率由 $1 . 3 5 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ( \alpha \geqslant$
+
+![](images/a3c05c4c3350447503f625dfba757dad4bf185a4c8b40428b9672c17b7172874.jpg)  
+注：图中浅灰色曲线为1998—2012年  
+图2中国绿洲喜温作物气候生长期年际变化趋势   
+Fig.2Interannual variation trend of climatic growth of thermophilic crops in oasis of China
+
+表1中国绿洲喜温作物气候生长期变化倾向率 $\left( \mathbf { d } { \cdot } \mathbf { a } ^ { - 1 } \right)$   
+lab.1Change tendency rate of climate growth of thermophilic crops in oasis of ‘   
+
+<html><body><table><tr><td>生长期</td><td>各绿洲</td><td>1960—2016</td><td>1960—1998</td><td>1998—2012</td><td>1960—2012</td><td>1998—2016</td></tr><tr><td rowspan="6">生长初日</td><td>中国绿洲</td><td>-0.142***</td><td>-0.085</td><td>-0.215</td><td>-0.088**</td><td>-0.554**</td></tr><tr><td>阿拉善</td><td>-0.101*</td><td>0.052</td><td>-0.286</td><td>-0.052</td><td>-0.423</td></tr><tr><td>北疆</td><td>-0.107**</td><td>0.115</td><td>-0.239</td><td>-0.071</td><td>-0.343</td></tr><tr><td>柴达木</td><td>-0.231***</td><td>-0.180</td><td>-0.004</td><td>-0.235***</td><td>0.014</td></tr><tr><td>河套</td><td>-0.167***</td><td>-0.094</td><td>-0.007</td><td>-0.134**</td><td>-0.263</td></tr><tr><td>河西</td><td>-0.112*</td><td>0.004</td><td>-0.282</td><td>-0.066</td><td>-0.481</td></tr><tr><td></td><td>南疆</td><td>-0.151***</td><td>-0.185*</td><td>-0.236</td><td>-0.074</td><td>-0.807*</td></tr><tr><td rowspan="6">生长终日</td><td>中国绿洲</td><td>0.109***</td><td>0.064</td><td>0.276</td><td>0.115***</td><td>0.127</td></tr><tr><td>阿拉善</td><td>0.191***</td><td>0.159*</td><td>0.357</td><td>0.214***</td><td>0.062</td></tr><tr><td>北疆</td><td>0.129***</td><td>0.069</td><td>0.489*</td><td>0.156***</td><td>0.097</td></tr><tr><td>柴达木</td><td>0.192***</td><td>0.135*</td><td>-0.121</td><td>0.205***</td><td>-0.102</td></tr><tr><td>河套</td><td>0.195***</td><td>0.103</td><td>0.229</td><td>0.195***</td><td>0.146</td></tr><tr><td>河西</td><td>0.122***</td><td>0.121*</td><td>0.275</td><td>0.139***</td><td>0.068</td></tr><tr><td rowspan="6">生长期</td><td>南疆</td><td>0.058*</td><td>0.009</td><td>0.264</td><td>0.049</td><td>0.212</td></tr><tr><td>中国绿洲</td><td>0.249***</td><td>0.146*</td><td>0.379</td><td>0.201***</td><td>0.681***</td></tr><tr><td>阿拉善</td><td>0.293***</td><td>0.107</td><td>0.643</td><td>0.267</td><td>0.485</td></tr><tr><td>北疆</td><td>0.236***</td><td>-0.045</td><td>0.728*</td><td>0.227***</td><td>0.440</td></tr><tr><td>柴达木</td><td>0.422***</td><td>0.316***</td><td>-0.117</td><td>0.440***</td><td>-0.117</td></tr><tr><td>河套</td><td>0.362***</td><td>0.197</td><td>0.236</td><td>0.330***</td><td>0.409</td></tr><tr><td></td><td>河西</td><td>0.235***</td><td>0.117</td><td>0.557</td><td>0.205***</td><td>0.549*</td></tr><tr><td></td><td>南疆</td><td>0.209***</td><td>0.194**</td><td>0.500</td><td>0.124*</td><td>1.018***</td></tr></table></body></html>
+
+注：\*、\*\*、\*\*\*表示通过 $9 0 \%$ $9 5 \%$ $9 9 \%$ 显著性检验
+
+0.05)减少至 $- 1 . 2 1 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,变化幅度较大，对全球变暖停滞响应较为强烈，这是由于柴达木绿洲是唯一的高原绿洲，对全球气候变化响应敏感。
+
+3.1.3 生长期的响应变暖停滞期，中国绿洲喜温作物生长期总体仍呈显著延长趋势，变化倾向率为 $4 . 9 1 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ （表1)，与1960—2016年生长期倾向率 $2 . 4 9 \ : \mathrm { d } \cdot ( 1 0 \ : \mathrm { a } ) ^ { - 1 } ( \alpha \geq 0 . 0 1 )$ 及变暖加速期倾向率$1 . 4 6 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } ( \alpha \geq 0 . 1 )$ 相比，延长态势显著，没有出现对全球变暖停滞的响应；与变暖加速期相比，各绿洲生长期在变暖停滞期的变化呈不同的趋势(表1)，除柴达木绿洲外，其余地区生长期均呈现更进一步的延长趋势；变暖停滞期北疆绿洲喜温作物生长期延长趋势最为显著，变化倾向率由 $- 0 . 4 5 \mathrm { ~ d ~ }$ ：1 $\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ 增加至 $7 . 2 8 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } ( \alpha \geq 0 . 1 )$ ,平均年生长期延长10d;柴达木绿洲喜温作物生长期则呈现
+
+70°E 80°E 90°E 100° E 110°E 70°E 80°E 90°E 100°E 110°E  
+N N  
+5 (a1)1960-2016年生长初 生长初日（月/）N No09 5 (a2)1960-2016年生长终河 生长终日（月/日） N No09海温泉 48\~27 8\~1002  
+NoO 拉青河 5/7\~6/10 ·气象站点 N NoO 城 青河 . 气象站点 No额济纳旗 济纳旗  
+N8 里克 敦煌瓜州门酒泉 临海 No0 N8 干里敦煌瓜州玉门酒泉 临河 N0惠农 惠农银川 银川  
+2 0 500km N008 OL 500km 280°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E70°E 80°E 90°E 100°E 110E 70E 80°E 90°E 100°E 110°E  
+VN5 N (83)01 1 N N00N N 45 (b1) 1960-1998年生长初日 生长初）N 109 N0青河 4/10\~4/29N0 5/20\~6/12坤 坤 ·气象站点页济纳旗 济纳旗  
+N98 且末 若羌 干里煌瓜州玉门酒泉 惠农 No0 N8 里墩煌 玉门酒泉 惠农 No0川 银川宁  
+2 0 500km N8 N008 0 500km 280°E 90°E 100°E 110°E 80°E 90E 100°E 110°E  
+N 70°E 80°E 90°E 100°E 110°E 70°E 80°E 90°E 100°E 110°E  
+(b2)1960-1998年生长终日 生长终日（月/日）N No00 b3)1960-1998年生长期 生长期（d） N No09巴河  
+No0 伊宁 青河 -0 . 气象站点 N NO 拉玛依青河 三 N济纳旗 阿拉尔 1最新济纳旗  
+N 里煌瓜州 玉门酒泉 No0V N8 和田 且末 N0惠农银川 银川  
+N08 0 500km N N08 ℃ 500km 280°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E  
+(c1)1998-2012年生长初日 70E 80°E 90°E 生长初日（月/日）N 100°E 1100E N N (c2)1998-2012年生长终 70°E 80°E 90°E 生长终日（月/日）N 100°E 110°E No00塔城哈巴河 3/17\~4/5 5  
+N0 温泉 香地 =4/5512 5/12\~6/2 N No0v 青河 1- N·气象站点  
+N 里克煌瓜 门酒泉旗 No0V N8 且末 煌 酒济纳旗 临河 NoO  
+3 若羌 惠农 若羌 惠农银川 银川令 山丹  
+2 0 500 km N8 N08 0 500km N80°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E70E 80°E 90°E 100°E 110°E  
+N  
+5 (c3)1998-2012年生长期河 生长期） N No00泉 拉玛依清河 128\~150 [审图号GS(2016)1550号]  
+2 蔡家湖 N拜城达 王鲁番巴里坤 190\~221 图3中国绿洲喜温作物不同时期气候生长期的济纳旗 空间变化趋势  
+N98 惠农 0 N Fig.3Spatial variation trend of climatic growthperiod in Chinese oasis thermophilic crops in  
+No08 500km 28 different periods80°E 90°E 100°E 110°E
+
+缩短趋势，变化倾向率由 $3 . 1 6 \mathrm { { d } } \cdot ( 1 0 \mathrm { { a } } ) ^ { - 1 } ( \alpha \geqslant 0 . 0 1 )$ 减小至 $1 . 1 7 \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,趋势变化显著，表明柴达木绿洲喜温作物生长期对全球变暖停滞响应较为强烈。
+
+# 3.2中国绿洲喜温作物气候生长期的空间变化 特征
+
+3.2.1生长初日的空间变化通过对比1960—2016年、变暖加速期与变暖停滞期3个时间段气候生长期生长初日的变化可以看出，各时段喜温作物生长初日的空间变化较为一致，均呈自西南向东北逐渐提前的趋势（图 $3 \mathrm { a } 1 \sim \mathrm { c } 1 \$ )，但各绿洲喜温作物生长初日倾向率变化程度却有所不同。1960—2016年与变暖停滞期相比，其中有 $4 0 \%$ (27个）的站点呈现生长初日推迟的趋势 $( 0 . 2 \sim 8 . 9 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 } )$ ，其余站点均呈现出提前的趋势（图 $4 \mathrm { a } 1$ )；变暖加速期与变暖停滞期相比，其中有 $3 0 \%$ (21个)的站点呈现生长初日推迟的趋势 $\left( 0 . 0 3 \sim 8 . 8 ~ \mathrm { d } \cdot \left( 1 0 ~ \mathrm { a } \right) ^ { - 1 } \right)$ ,其余站点仍表现为提前的态势(图4b1)，显然生长初日推迟的态势并不明显，具体表现为：北疆绿洲北部、南疆绿洲西南部、柴达木绿洲喜温作物生长初日倾向率呈推后趋势，其中柴达木绿洲的倾向率变化程度最明显，对全球变暖停滞响应强烈
+
+3.2.2生长终日的空间变化将1960—2016年、变暖加速期与变暖停滞期3个时间段生长终日的变化对比发现，各时段喜温作物气候生长期生长终日的空间变化较为一致，均呈自西南向东北逐渐提前的趋势（图 $3 \mathrm { a } 2 \sim \mathrm { c } 2 \$ )，但各绿洲喜温作物生长终日倾向率变化程度却不尽相同。1960一2016年与变暖停滞期相比，其中有 $23 \%$ (16个)的站点呈生长终日提前的趋势 $\left[ 0 . 2 \sim 8 . 9 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 } \right]$ ,其余站点均表现为推迟的趋势（图 $4 \mathrm { a } 2$ );变暖加速期与变暖停滞期相比,其中有 $2 2 \%$ (15个)的站点呈生长终日提前的趋势 $\left[ 0 . 3 \sim 1 0 . 3 \mathrm { ~ d } \cdot ( 1 0 \mathrm { ~ a } ) ^ { - 1 } \right]$ ,其余站点仍然呈生长终日推迟的趋势(图4b2)，综上可知中国绿洲喜温作物生长终日提前的态势并不明显。同时，两个对比时期呈现生长终日趋势提前的站点分布较为分散，仅在柴达木绿洲集中分布。
+
+3.2.3生长期的空间变化 通过对比1960—2016年、变暖加速期与变暖停滞期3个时间段生长期的变化情况，得出各时段喜温作物生长期自西南向东北逐渐缩短的趋势（图 $3 \mathrm { a } 3 \sim \mathrm { c } 3 \$ ，但各绿洲喜温作物生长期倾向率变化程度却有所不同。1960—2016年与变暖停滞期相比，其中有 $34 \%$ (23个）的站点呈生长期缩短的趋势 $\left[ 0 . 5 \sim 1 7 . 6 ~ \mathrm { d } \cdot \left( 1 0 ~ \mathrm { a } \right) ^ { - 1 } \right]$ ,其余站点均表现为生长期延长的趋势（图 $4 \mathrm { a } 3$ )；变暖加速期与变暖停滞期相比，其中有 $2 2 \%$ (15个）的站点呈生长期缩短的趋势 $\left[ 0 . 3 \sim 1 7 . 2 \mathrm { d } \cdot \left( 1 0 \mathrm { ~ a } \right) ^ { - 1 } \right]$ ，其余站点均呈生长期延长的趋势(图4b3)，上述分析
+
+(al)生长初日倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ） (a2)生长终日倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ） (a3)生长期倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ）  
+2 70D 80°E 001-0780- 2 2 0 80°E  
+No0V 0.2\~0.00.6\~0.9 0.4\~0.20.4\~0.6 N N0 0-000 NO 0.04\~0.0 0.3\~0.040.9\~1.4 1.4\~2.1  
+N NO N N N003030 200000 03000 1  
+No08 N8 N880°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E  
+(b1）生长初日倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ） (b2)生长终日倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ） (b3)生长期倾向率变化程度（ $1 \mathrm { d } \cdot \mathrm { a } ^ { - 1 }$ ）80°E 90 5-0g 0 2 70 80°E 0E8-8 0-8 2 80°E T  
+No0 0.5\~0.20.2\~0.4 0.2\~0.0 0.4\~0.9 0 N NoO 兴 0.8\~1.1 0.4\~0.1 1.1\~ 1.4 0.1\~0.0 N NoOV 产  
+N8 NoO N N0 N8 ?  
+No08 0 500km 4 N N 0 500km N N 0 500 km N85 00 L 68 0 L80°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E 80°E 90°E 100°E 110°E
+
+表明中国绿洲喜温作物生长期缩短的态势并不明显，具体表现为：南疆绿洲西南部、柴达木绿洲喜温作物生长期倾向率呈现缩短趋势，并且柴达木绿洲喜温作物生长期倾向率变化程度最为明显。同时，相较于生长终日的变化趋势来说，中国绿洲喜温作物生长初日呈现推迟趋势的区域与生长期呈缩短趋势的区域分布较为一致且站点数接近，生长初日的变化对生长期变化的影响更为显著，与欧洲植物生长期随春季物候变化的结论一致[29]
+
+综上所述，中国绿洲喜温作物气候生长期整体没有对全球变暖停滞的响应，但各绿洲却存在较大的差异性，其中柴达木绿洲响应最为显著，表现为生长初日推迟、生长终日提前，生长期缩短;但其他绿洲喜温作物气候生长期仍表现为对全球变暖的响应。
+
+# 3.3 突变分析
+
+本文采用Mann-Kendall法对1960—2016年中国绿洲(图5)及子区域(表2)喜温作物气候生长期的变化进行了突变分析，子序列长度为 $1 0 \mathrm { a }$ ，给定显著性水平 $\alpha = 0 . 0 1$ ，临界线 $U _ { \alpha } = \pm 2 . 5 8$ O
+
+结果表明，近56a来，中国绿洲喜温作物生长初日在1976年、2008年、2010年发生突变(图5a），生长终日在2001年发生突变（图 $5 \mathrm { ~ b ~ }$ ），2012年之后，UF曲线超过临界线，生长终日显著推迟；喜温作物生长期在2006年发生突变(图5c)且 $U F$ 曲线超过临界线，生长期显著延长，喜温作物气候生长期对全球变暖响应显著。突变发生的年份多集中在变暖停滞期(表2)，但突变之后没有出现生长初日推迟、生长终日提前、生长期缩短的态势，整体上没有对全球变暖停滞的响应。
+
+![](images/063d5c98faee37e7d331531dabf107feb7e4bea72d0a2498a57c1b5c9424d9d1.jpg)  
+图5中国绿洲喜温作物气候生长期的突变分析  
+Fig.5Mutation analysis of climatic growth period of thermophilic crops in oasis of China
+
+# 表2中国各绿洲喜温作物气候生长期的突变分析
+
+Tab.2Mutationanalysis ofclimatic growth period of thermophilic crops in oasisof China   
+
+<html><body><table><tr><td></td><td>生长初日 突变年份</td><td>生长终日 突变年份</td><td>生长期 突变年份</td></tr><tr><td>河西绿洲</td><td>1961,1964, 2009,2016</td><td>1962,1967,1973, 2003，2014，2016</td><td>2005,2006</td></tr><tr><td>河套绿洲</td><td>2003</td><td>1980,1987,1991, 2010</td><td>1998,2000, 2002</td></tr><tr><td>阿拉善绿洲</td><td>2011</td><td>1985</td><td>2000,2003</td></tr><tr><td>柴达木绿洲</td><td>1990,1992,1993</td><td>1963,1966,1973, 1981,1991,2015</td><td>1993</td></tr><tr><td>北疆绿洲</td><td>2013</td><td>1988,1990,1993, 2015</td><td>1997,1999</td></tr><tr><td>南疆绿洲</td><td>1982,1995, 2000,2009,2012</td><td>1967,1981,1998, 2002，2007</td><td>2011,2012</td></tr></table></body></html>
+
+# 3.4 周期分析
+
+本文采用Morlet小波功率谱分析方法对中国绿洲喜温作物气候生长期进行分析。结果表明，研究区喜温作物气候生长期具有明显的短周期特征。中国喜温作物生长初日存在2.4a和 $3 . 5 \mathrm { a } ( \alpha \geqslant 0 . 0 5 )$ 的周期（图 $6 \mathrm { ~ a ~ }$ ）；年生长终日存在2.5a和3.8a( $\alpha \geqslant$ 0.05)的周期（图 $6 \textup { b }$ ），生长期也存在2.5a和3.8a1 $\mathrm { \Phi } _ { \mathrm { c } \mathrm { d } } \geqslant 0 . 0 5 \$ 的周期(图6c)，喜温作物气候生长期的周期与大气环流 $2 \sim 4 \mathrm { a }$ 与厄尔尼诺 $2 \sim 7$ a的准周期相吻合，表明喜温作物气候生长期主要受大气环流与厄尔尼诺事件的影响。这与中国绿洲胡杨生长季周期受大气环流与厄尔尼诺事件影响的结论一致[4]。
+
+# 4讨论
+
+目前学术界对全球变暖是否发生了停滞存在较大争议，因而对全球变暖停滞的确定性认识尚未达成一致。COWTAN等[]发现将北极地区气温变化纳入全球气温变化之后，全球气温在变暖停滞期间仍然呈现增暖态势。丁一汇[23]指出与1951—1980年相比，1981一2010年中国气温的趋势仍是增暖的；同时认为考察气候是否发生了变迁，需要计算30a的平均值并与前30a对比。杜勤勤等[22]发现在变暖停滞期，中国气温存在增温减缓的现象且在西北地区和东部地区最为显著。而本文的研究结果表明，中国绿洲喜温作物对全球变暖停滞的响应并不明显，只有柴达木绿洲对此现象有明显的响应。由此可见，全球变暖停滞在各地区的表现不尽相同。所以，对全球变暖停滞是否存在的相关研究仍需大范围更加深人细致的研究，特别是变暖停滞的程度[30]以及变暖停滞所带来的降水、植物变化[31、极端天气、风寒温度[3等方面的变化，从而更好的揭示气候系统内部深层次的变化机制。
+
+![](images/4015de5c22ebfb3aca4f165ff240e5d4f5153e73cdc8c390afc66d60c6ccc541.jpg)  
+图6中国绿洲喜温作物气候生长期的Morlet小波分析  
+Fig.6Morlet wavelet analysis of climatic growth period of thermophilic crops in oasis of China
+
+至今，学术界对于全球变暖停滞的研究已经由对地一气系统研究[14-16]转向对海—气系统的研究[33],特别是不同海洋深度对大气顶层多余热量的吸收及其年代际的变化[34，但现阶段的器测条件并不支持对海洋热量变化的准确测量，因此提高对海洋热量变化监测的技术水平35就成为下一步研究工作的重点之一。
+
+由于喜温作物的生长期还受到降水、自身生物学特性[26]、人工选择等因素的影响，我们仅考虑了气温的时间变化序列，在下一步深入研究中需要将这些因素考虑进去。同时，因受限于西北地区气象观测站稀少且器测资料时间序列较短，仅57a，而物候观测站点稀缺，很遗憾难以用物候资料去研究对比，因此尽快加强西北地区物候观测站的建设，确保气象观测与物候观测相结合，以便更好地研究植物物候对气候变化的响应。
+
+# 5结论
+
+（1）本文的研究结果表明1998一2012年中国绿洲喜温作物气候生长期整体呈初日提前、终日推迟、生长期延长的态势，未对该现象发生响应，但分绿洲中柴达木绿洲作为中国绿洲唯一高原绿洲却对全球变暖停滞响应强烈，与已有研究得出的青藏高原是全球气候变化的驱动器与放大器结论一致。
+
+(2）突变分析表明，变暖停滞期喜温作物气候生长期生长初日、生长终日、生长期分别在2008年和2010年、2001年、2006年发生突变，突变之后却没有对全球变暖停滞的响应；Morlet小波功率谱分析表明，研究区喜温作物初日、终日及生长期分别存在 $2 . 4 \mathrm { ~ a ~ }$ 和 $3 . 5 \mathrm { ~ a ~ } , 2 . 5$ a和 $3 . 8 \mathrm { ~ a ~ } , 2 . 5$ a和3.8a的优势短周期，与大气环流 $2 \sim 4$ a与厄尔尼诺事件2\~7a的周期相吻合。
+
+# 参考文献(References)
+
+[1］秦大河,THOMASS,259名作者和TSU(驻伯尔尼和北京). IPCC第五次评估报告第一工作组报告的亮点结论[J.气候变 化研究进展,2014,10(1):1-6.[QINDahe,THOMASS,259 Authors and TSU（Bern & Beijing).Highlightsof the IPCC working group I fifth assessment report[J].Progressin Climate Change Research,2014,10(1):1-6.]   
+[2］王晶,杨太保,冀琴,等.1990—2015年喜马拉雅山东段中国和 不丹边境地区冰川变化研究[J].干旱区地理，2019，42(3)： 542-550.[WANG Jing,YANG Taibao,JI Qin,et al. Change of the modern glaciers in the eastern Himalaya near China and Bhutan border area from 1990 to 2015[J].Arid Land Geography, 2019,42(3):542-550.]   
+[3]薛海丽，张钦，唐海萍.近60a内蒙古不同草原类型区极端气 温和干旱事件特征分析[J」.干旱区地理，2018，41(4)：701- 711.[XUE Haili,ZHANG Qin,TANG Haiping.Extreme temperature and drought events in four different grassland areas of Inner Mongoliain in recent 6O years[J].Arid Land Geography, 2018,41(4):701 - 711.]   
+[4］张文霞,刘普幸,冯青荣,等.1960—2015年中国绿洲胡杨生长 季对全球变暖的时空响应及原因[J].地理学报,2017,72（7)： 1151- 1162.ZHANG Wenxia,LIU Puxing,FENG Qingrong, et al. Spatial and temporal response and its causes of the growing season of Populus euphratica to global warming in China's oases during 1960-2015[J].Acta Geographica Sinica,2017,72 (7):1151 - 1162.]   
+[5]CARTER B. There is a problem with global warming…it stopped in 1998[N]. Telegraph Newspaper,2006-9.   
+[6]IPCC. Climate change 2013:The physical science basis. Contribution to working group I to the fifth assessment report of the intergovernmental panel on climate change[R].Cambridge,United Kingdom and New York,USA:Cambridge University Press, 2013.   
+[7］王绍武,罗勇,赵宗慈,等.全球变暖的停滞还能持续多久 [J]？气候变化研究进展,2014,10(6):465.[WANG Shaowu, LUO Yong, ZHAO Zongci,et al. How long will the pause of global warming stay again[J]? Progress in Climate Change Research,2014,10(6):465.]   
+[8］葛全胜,王芳,王绍武,等.对全球变暖认识的七个问题的确定 与不确定性[J].中国人口.资源与环境,2014,24(1)：1.[GE Quansheng,WANG Fang,WANG Shaowu,et al. Certainty and uncertainty in global warming studies [J]. China Population Resources and Envionment,2014,24(1):1.]   
+[9]王绍武,罗勇,赵宗慈,等.21世纪气候变暖并未停滞[J].气候 变化研究进展,2013,9(5):386.[WANG Shaowu,LUO Yong, ZHAO Zongci,et al. Global warming has not stalled in the $2 1 ^ { \mathrm { s t } }$ century[J]. Progress in Climate Change Research,2013,9（5） : 386.]   
+[10］苏京志,温敏,丁一汇,等.全球变暖趋缓研究进展[J].大气科 学,2016,40(6):1143-1153.[SU Jingzhi,WEN Min,DING Yihui,et al. Hiatus of global warming:A review [J]. Chinese Journal of Atmospheric Sciences,2016,40(6):1143-1153.]   
+[11]KARL TR,ARGUEZ A,HUANG B,et al. Possible artifacts of data biases in the recent global surface warming hiatus[J]. Science,2015,348(6242):1469- 1472.   
+[12] COWTAN K,WAY R G. Coverage bias in the Had CRUT4 temperature series and its impact on recent temperature trends[J]. Quarterly Journal of the Royal Meteorological Society,2014, 140(683):1935 - 1944.   
+[13]EASTERLING DR,WEHNER MF.Is the climate warming or cooling[J].Geophysical Research Letters,2009,36(8):1-3.   
+[14]SOLOMON S,ROSENLOF K H,PORTMANN R W,et al. Contributions of stratospheric water vapor to decadal changes in the rate of global warming［J].Science，2010，327（5790）： 1219-1223.   
+[15]SOLOMON S,DANIELJ S,NEELY IIR,et al,The persistently variable“background” stratospheric aerosol layer and global climate change[J].Science Magazine,2011,333(6044):866-870.   
+[16] KAUFMANN R K,KAUPPI H,MANN ML,et al. Reconciling anthropogenic climate change with observed temperature 1998 - 2008［J].Proceedings of the National Academy of Sciences, 2011,108(29):11790- 11793.   
+[17]MEEHL G A,TENG Haiyan,ARBLASTER JM. Climate model simulations of the observed early-20oos hiatus of global warming[J].Nature Climate Change,2014,4(10):898- 902.   
+[18]YU K,XIE Shangping.Recent global-warming hiatus tied to equatorial Pacific surface cooling[J].Nature,2013,501(7467）: 403.   
+[19]CHEN X Y，TUNG K K. Varying planetary heat sink led to global-warming slowdown and acceleration[J]. Science,2014, 345(6199),897.   
+[20]PASIN A,TRIACCA U,ATTANASIO A. Evidence for the role of the Atlantic multidecadal oscillation and the ocean heat uptake in hiatus prediction[J].Theoretical and Applied Climatology,2017,129(3-4):873-880.   
+[21]王绍武,罗勇,赵宗慈,等.近10年全球变暖停滞了吗[J]？气 候变化研究进展,2010,6(2):95－99.[WANG Sha0wu,LUO Yong，ZHAO Zongci，et al. Does the global warming pause in the last decade:1999 - 2008［J]? Progress in Climate Change Research,2010,6(2):95-99.]   
+[22］杜勤勤,张明军,王圣杰,等.中国气温变化对全球变暖停滞的 响应[J]．地理学报,2018,73(9):1748-1764.[DU Qinqin, ZHANG Mingjun,WANG Shengjie,et al. Changes in air temperature of China in response to global warming hiatus[J].Acta Geographica Sinica,2018,73(9):1748-1764.]   
+[23］丁一汇.“暖冬"渐行渐远全球变暖暂时停滞了吗[J]？今日科 苑,2011,(24):19.[DING Yihui.Is the "warm Winter"on the way,global warming hiatus for the time being[J]?Modern Science,2011,(24):19.]   
+[24］申元村,汪久文,伍光和,等.中国绿洲[M].开封:河南大学 出版社,2001.［SHEN Yuancun,WANG Jiuwen,WU Guanghe, et al.Oasis of China[M].Kaifeng:Henan University Press, 2001.]   
+[25]常兆丰,邱国玉，赵明,等.民勤荒漠区植物物候对气候变暖的 响应[J].生态学报,2009,29(10),5195－5206.[CHANG Zhaofeng,QIU Guoyu, ZHAO Ming,et al. Responses of plant phenology to climate warming in Minqin desert area[J] vActa Ecologica Sinica,2009,29(10):5195-5206.]   
+[26]苏广达.作物学[M].广州:广东高等教育出版社,2000.[SU Guangda. Crop science[M]. Guangzhou: Guangdong Higher Education Press,2000.]   
+[27］曲曼丽.农业气候实习指导[M].北京:北京农业大学出版社, 1991.[QU Manli. Agricultural climate practice guidance [M]. Beijing:Peking Agricultural University Press,1991.]   
+[28]FU Y,CHEN H,NIU H H,et al. Spatial and temporal variation of vegetation phenology and its response to climate changes in Qaidam Basin from 200 to 2015[J].Journal of Geographical Sciences,2018,28(4):400-414.   
+[29] CHNIELEWSKI F M, ROTZER T. Response of tree phenology to climate change across Europe[J].Agricultural and Forest Meteorology,2001,108(2):101-112.   
+[30］王绍武.全球变暖的减慢并没有想像的那么严重[J].气候变
+
+化研究进展，2014，（2)：134.[WANGShaowu.Theslowdown in global warming is not as severe as thought[J].Progress in Climate Change Research,2014,(2):134.]
+
+[31］李博，曾彪，杨太保.1982—2015年柴达木盆地不同流域植被气候响应差异[J].干旱区地理，2018,41(3)：449－458.[LIBo,ZENG Biao,YANG Taibao.Different correlations betweenNDVI and climate factors in different watershed over QaidamBasin from 1982－ 2015[J].Arid Land Geography,2018,41(3):449-458.]
+
+[32]MAY,MAOR,Feng,S H,et al.Does the recent warming hiatus exist over Norther Asia for winter wind chill temperature
+
+[J]？International Journal of Climatology,2017,37(7):3138- 3144.   
+[33］ISAAC M H. The cause of the pause[J].Nature,2013,501 (TN.7467):318-319.   
+[34］CHENG L J，ZHENG F，ZHU J.Distinctive ocean interior changes during the recent warming slowdown[J].Scientific Reports，2015,5(14346):1-11.   
+[35]XIAOHY,TIMB,KEVINT,et al.The global warming hiatus: slow down or redistribution[J]？ Earths Future,2016,4（11）： 472-482.
+
+# Spatial and temporal response differences to global warming hiatus of the thermophilic crops climate growth period in oases of China
+
+SI Wen-yang， ZHANG Ming-jun， LIU Pu-xing (CollegeofGeographyandEnvironmental Science,Northwest Normal University,Lanzhou73ooo,Gansu,China)
+
+Abstract:The global warming hiatus that occurred between 1998 and 2012 has attracted considerable attention; however,changes in the plant growth periods inresponse to this hiatusare stillunclear.Oases located in China between $3 2 ^ { \circ } - 4 4 ^ { \circ } \mathrm { N }$ and $7 0 ^ { \circ } { - } 1 1 0 ^ { \circ } \mathrm { E }$ are characterized by temperate continental climates and fragile ecological environments,which aresensitive to climate change.We considered the daily mean temperature data collected by 67 surface meteorological stations distributed over Chinese oases covered with thermophilic crops between 1960 and 2016.By employing the linear trend,the inverse distance weighted(IDW）,the Morlet wavelet,andthe Mann-Kendall methods,we analyzed theresponseof thermophilic crops(in terms of growth period）to the global warming hiatus.The results showed that the trend rates of the thermophilic crops growth periods in the Chinese oases between 1998 and 2012 were $- 2 . 1 5 \mathrm { ~ d ~ } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,2.76 d·(10 a) -1,and $4 . 9 1 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ,respectively. Compared with 1960-1998,the beginning day of the growth period between 1998 and 2012 occurred earlier,the ending day occurred later,andthe duration was longer.No overall responses to the global warming hiatus were observed.In terms of spatial change,the Qaidam Oasis showed the strongest response to the global warming hiatus.Changes in the begining day,ending day,anddurationof the growth period of thermophiliccrops occurred in 2O08,2001,and 2006, respectively.However,after these changes,the climate growth period of thermophilic crops didnot respond anymore to the global warming hiatus.The Morlet wavelet analysis showed that the studied time interval was dominated by short periods(2.4-3.8 a）,which are consistent with thoseof atmospheric circulation(2-4a）and El Nino events (2-7a).This indicates that the growth period of thermophilic crops was mainly afected by these last two factors. Overall,our findings showed thatthe growth period of thermophilic crops didnot respond to the global warming hiatus.These results provide a scientific basis for understanding regional responses to this global event.
+
+Key words:thermophilic crops； global warming hiatus；space-time difference；oases in China

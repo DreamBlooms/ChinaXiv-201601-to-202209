@@ -1,0 +1,135 @@
+# Scaling investigation of the magnetic entropy change in helimagnet MnSi
+
+Min Ge,1 Lei Zhang,1,\* Dirk Menzel, $^ 2$ Hui Han, $^ 1$ Chiming   
+Jin,1 Changjin Zhang, $^ 1$ Li Pi,1 and Yuheng Zhang1   
+（204 $^ { 1 }$ High Magnetic Field Laboratory， Chinese Academy of Sciences,   
+and Hefei National Laboratory for Physical Sciences at the Microscale,   
+University of Science and Technology of China， Hefei 230031， China   
+$\mathcal { L }$ Institut fir Physik der Kondensierten Materie,   
+Technische Universitit Braunschweig， D-38106 Braunschweig， Germany   
+(Dated: July 14, 2015)
+
+Abstract
+
+The B20 compound MnSi exhibits a skyrmion phase in a certain range of temperature ( $T$ ）and external magnetic field ( $H$ ）in addition to the helimagnetic ordering. In this work, the magnetic entropy change ( $\Delta S _ { M }$ ） in the single crystal helimagnet MnSi has been investigated by the scaling analysis. The $\Delta S _ { M } ( T , H )$ curves in higher field range (2 kOe $< H < 5 . 6$ kOe） collapse onto an universal curve after scaling,which is independent of $T$ and $H$ . Based on this universal curve, the （204号 $\Delta S _ { M } ( T , H )$ (excluding the skyrmion entropy change) at any $T$ and $H$ can be calculated. On the other hand, a small valley is found on the $\Delta S _ { M } ( T )$ curve at $\sim 2 8 . 5$ K in the field range from $\sim 1$ kOe to $\sim 2$ kOe, which is resulted from the skyrmion phase. Subsequently, the magnetic entropy change of the skyrmion phase $[ \Delta S _ { M } ^ { s k X } ( T , H ) ]$ can be derived by subtraction of the calculated $\Delta S _ { M } ^ { c a l } ( T , H )$ （20 from the experimental $\Delta S _ { M } ^ { e x p } ( T , H )$ . The obtainedresultsshow that $\Delta S _ { M } ^ { s k X }$ reaches the maximum at \~ 1.6 kOe,which indicates the highest number of skyrmion vortices at that field.
+
+PACS numbers: 75.40.-s, 75.40.Cx, 75.40.Gb Keywords: skyrmion phase; magnetic entropy change; helimagnetism
+
+# I. INTRODUCTION
+
+Recently, the skyrmion ordering has triggered great interest because of its great potential application in spintronics storage device due to the topological property [1, 2], nanometric size [3],and current-driven motion [4, 5,6]. The skyrmion phase is a topologically stable spin vortex-like texture existing in a certain range of temperature and magnetic field [7]. The compounds exhibiting a skyrmion phase, such as FeGe [8],MnSi [9], Fe $_ { 1 - x }$ Co $_ x$ Si [10, 11], Cu $^ { 2 }$ OSeO $_ 3$ [12,13]，etc,have been extensively and intensively investigated. Especially, much interest has been drawn on the B2O compound MnSi due to the additional weak itinerant ferromagnetism [14], non-Fermi-liquid behavior [15,16],and magnetic quantum phase transition [17]. The cell of MnSi has cubic symmetry with space group $P 2 _ { 1 } 3$ . The lack of centrosymmetry results in a weak Dzyaloshinskii-Moriya (DM) spin-orbit coupling. The DM spin-orbit coupling competes with the much stronger ferromagnetic exchange, which finally causes a long modulation period of a helimagnetic ground state [1, 2,18]. It has been demonstrated that MnSi exhibits a first-order phase transition into the helimagnetic ordering at 30.5 K,which can be suppressed into a second one by an external field where a tricritical point was induced [19, 20, 21, 22, 23]. When an external magnetic field is applied above a threshold value, the helimagnetic state transforms into a conical phase [7]. The chiral skyrmion phase emerges just below $T _ { C }$ in a narrow magnetic field range due to a unique stabilization provided by the DM interactions [1]. In the bulk material of MnSi, the skyrmion phase emerges at $\sim 2 8$ K in the feld range from 1.55 kOe to 2.3 kOe [23]. It has been proved that the skyrmion phase can be stabilized by reducing the dimension of the materials [24, 25].
+
+As we know, a magnetic ordering phase transition willresult into a change of the magnetic entropy. Recently, a scaling analysis of the magnetic entropy change correlated to critical exponents has been proved an effctive method to study the magnetic entropy change [26, 27, 28,29]. In this work, the magnetic entropy change ( $\Delta S _ { M }$ ） in the single crystal helimagnet MnSi has been investigated by the scaling analysis. The $\Delta S _ { M } ( T )$ curves exhibit a valley at 28.5 K in the magnetic range from $\sim 1$ kOe to $\sim 2$ kOe,which just corresponds to the formation of the skyrmion phase. The $\Delta S _ { M } ( T , H )$ curves for higher fields collapse onto an universal curve after scaling,which is independent of the temperature $T$ and the applied external field $H$ . Based on this universal curve, $\Delta S _ { M } ( T , H )$ (excluding the skyrmion entropy change) at any $T$ and $H$ can be calculated. Subsequently, the magnetic entropy change of the skyrmion phase $\left[ \Delta S _ { M } ^ { s k X } ( T , H ) \right]$ can be derived by subtraction of the calculated $\Delta S _ { M } ^ { c a l } ( T , H )$ （20 from the experimental $\Delta S _ { M } ^ { e x p } ( T , H )$ . It is found that $\Delta S _ { M } ^ { s k X }$ reaches the maximum at $\sim$ （20 1.6 kOe, which indicates the highest number of skyrmion vortices in MnSi at this magnetic field.
+
+# II. EXPERIMENT
+
+A single crystal sample of MnSi was prepared by the Czochralski method [30]. The specimen quality and physical properties were checked and described elsewhere [22]. The magnetization was measured using a Quantum Design vibrating sample magnetometer (SQUIDVSM). The no-overshoot mode was applied to ensure a precise magnetic field. The applied field was relaxed for 2 minutes before the data collection. For the measurement the sample was processed into slender elipsoid shape,and the magnetic field was applied along the longest axis to minimize the demagnetizating field. To make sure that each curve was initially magnetized, the isothermal magnetization measurement was performed after the sample was heated well above $T _ { C }$ for 10 minutes and then cooled under zero field to the target temperatures. The magnetic background was carefully subtracted. The applied magnetic field $H _ { a }$ has been corrected into the internal field as $H = H _ { a } - N M$ (where $M$ is the measured magnetization and $N$ is the demagnetization factor) [31]. The corrected $H$ was used for the calculation of the magnetic entropy change. All the magnetic units and formulas concerned are given in Gauss system of units.
+
+# III. RESULTS AND DISCUSSION
+
+Figure 1 depicts the temperature dependence of magnetization $[ M ( T ) ]$ for MnSi under zero-field-cooling(ZFC） and field-cooling (FC） under an applied magnetic field $H = 0 . 1$ kOe,where the inset shows that for $H = 2$ kOe. The $M ( T )$ curves for O.1 kOe indicates a magnetic ordering transition at $T _ { C }$ ， which corresponds to the well-known paramagnetichelimagnetic (PM-HM) transition in MnSi [32, 33]. The transition temperature $T _ { C } \approx 3 1$ K is determined from the $d M / d T$ curve (the right axis in the inset). However, for $M ( T )$ for $H = 2$ kOe, the magnetic transition is attributed to ordering from a paramagnetic to conical spin state, where the helimagnetic ordering is polarized into conical ordering by the external magnetic field [7].
+
+In order to investigate the magnetic entropy change, the initial isothermal magnetization $M ( H )$ around $T _ { C }$ for MnSi was measured, as shown in Fig. 2 (a). For the $M ( H )$ curve far below $T _ { C }$ , it increases linearly with the increase of $H$ below 5.6 kOe,and become almostly independent of $H$ when exceeding 5.6 kOe. This result indicates the spin ordering behavior in this system. Below $T _ { C }$ , the spins are polarized gradually when $H$ below 5.6 kOe, and becomes completely polarized when field exceeding 5.6 kOe. As it is well known, the magnetic entropy change ( $\hphantom { } \Delta S _ { M } )$ can be calculated as [34]:
+
+$$
+\Delta S _ { M } ( T , H ) = \int _ { 0 } ^ { H } \left( { \frac { \partial S ( T , H ) } { \partial H } } \right) _ { T } d H
+$$
+
+With Maxwell's relation: $[ \partial S ( T , H ) / \partial H ] _ { T } = [ \partial M ( T , H ) / \partial T ] _ { H }$ [35], $\Delta S _ { M } ( T , H )$ is written as:
+
+$$
+\Delta S _ { M } ( T , H ) = \int _ { 0 } ^ { H } \left( { \frac { \partial M ( T , H ) } { \partial T } } \right) _ { H } d H
+$$
+
+Subsequently, $\Delta S _ { M }$ can be calculated from experimental data as [36]:
+
+$$
+\left| \Delta S _ { M } \right| = \sum _ { i } \left[ \frac { \left( M _ { i } - M _ { i + 1 } \right) _ { H _ { i } } } { T _ { i + 1 } - T _ { i } } \right] \Delta H _ { i }
+$$
+
+where $M _ { i }$ and $M _ { i + 1 }$ are the experimental data of the magnetization at $T _ { i }$ and $\boldsymbol { T } _ { i + 1 }$ under a magnetic field $H _ { i }$ . Figure 2(b) shows the $\Delta S _ { M } ( T , H )$ around $T _ { C }$ ，which is obtained from the isothermal $M ( H )$ curves. It can be seen that all curves almost exhibit a unimodal shape. However, there is an anomaly at $\sim 2 8 . 5$ K for the $\Delta S _ { M }$ just below $T _ { C }$ . The inset of Fig. 2 (b） gives typical $\Delta S _ { M } ( T )$ curves for $H = 1 . 2$ and 1.8 kOe,both of which exhibit small valleys at $\sim 2 8 . 5$ K. This valley on $\Delta S _ { M } ( T )$ curve exists in the field range from $\sim 1$ kOe to $\sim 2$ kOe,and disappears gradualy when the applied field exceeds 2 kOe. As it is known, MnSi exhibits a skyrmion transition at $\sim 2 8 . 5$ K in the field range from $\sim 1 . 5 5$ kOe to $\sim$ （204号 2.3 kOe [23]. The skyrmion transition should result into a change of magnetic entropy due to the ordering of the spins. Therefore, the valley on $\Delta S _ { M } ( T )$ curve should be attributed to the entropy change of skyrmion transition. Actually, a peak caused by the skyrmion lattice was found in the specific heat measurement， which confirms the magnetic entropy change of the skyrmion phase observed here [23].
+
+The $\Delta S _ { M } ( T , H )$ can be scaled onto a phenomenological universal curve based on scaling relation [26, 27, 28]. According to scaling laws, the experimental $\Delta S _ { M } ( T , H )$ should collapse onto two independent universal curves below and above $\mathit { \Delta } ^ { \prime } \mathit { I } _ { \mathit { C } } ^ { \prime }$ with proper reference temperatures and normalization. The $\Delta S _ { M } ( T )$ curves for different $H$ were normalized as $| \Delta S _ { M } ( T ) / \Delta S _ { M } ^ { m a x } ( T ) |$ on the longitudinal coordinate, where the maximum of allcurves are located on single point on the new normalized longitudinal coordinate. The horizontal coordinate is marked as the rescaled temperature $\theta$ ，which is defined as [28]:
+
+$$
+\theta = { \frac { T - T _ { C } } { T _ { r } - T _ { C } } }
+$$
+
+where $T _ { r }$ is the reference temperature. By choosing proper $T _ { r }$ , the equivalent points of the different experimental curves should collapse onto the same point on the universal curve [28]. The experimental $\Delta S _ { M } ( T , H )$ should collapse onto two independent universal curves below and above $T _ { C }$ respectively. The combination of the two universal curves below and above $\mathit { \Delta } ^ { \prime } \mathit { I } _ { C } ^ { \prime }$ just form a whole universal magnetic entropy change curve. After scaling and normalizing, the universal curve would be to impose the position of $T _ { r }$ at a value of $\theta = 1$ ：
+
+Theoretical investigations have demonstrated that it is not necessary to use two reference temperatures below and above $T _ { C }$ but just a single one for a single magnetic phase material. However, in the case of a large demagnetization factor or the existence of multiple magnetic phases, the use of two reference temperatures is necessary. In this case, it is noticed that （204 $\Delta S _ { M } ( T )$ for different $H$ present asymmetry. In present experiment, the demagnetization energy has been carefully excluded as aforementioned. However， asymmetry of $\Delta S _ { M } ( T )$ still appears, which may be caused by the multiple magnetic phase transitions and magnetic fluctuation [37, 38, 39]. Therefore, two reference temperatures should be used, which are defined as [28]:
+
+$$
+\theta = \left\{ \begin{array} { c } { \theta _ { - } = ( T _ { C } - T ) / ( T _ { r 1 } - T _ { C } ) , T \le T _ { C } } \\ { \theta _ { + } = ( T - T _ { C } ) / ( T _ { r 2 } - T _ { C } ) , T > T _ { C } } \end{array} \right.
+$$
+
+where $\boldsymbol { { \mathit { I } } } _ { r 1 } ^ { \prime }$ and $\boldsymbol { { T } } _ { r 2 } ^ { \prime }$ are the reference temperatures below and above $\mathit { \Delta } ^ { T } \mathit { C }$ ， respectively. Generally, temperatures at the full-width-at-half-maximum (FWHM) are chosen as the $\boldsymbol { { \mathit { I } } } _ { r 1 } ^ { \prime }$ and （20 ${ \cal I } _ { r 2 } ^ { \prime }$ ，where $\boldsymbol { { \mathit { I } } } _ { r 1 } ^ { \prime }$ corresponds to the one below $T _ { C }$ while ${ \cal { I } } _ { r 2 } ^ { \prime }$ to the one above $T _ { C }$ [29].Then, in the new scaled coordinate systems, $\theta = \pm 1$ just corresponds to the positions of full-widthat-half-maximum (i.e. $T _ { r 1 }$ and $T _ { r 2 }$ ）
+
+The skyrmion phase has been absolutely suppressed by the external magnetic field of $\sim 2 . 3$ kOe. Thus, there is no skyrmion magnetic entropy change for $\Delta S _ { M } ( T , H )$ for a field exceeding 2.3 kOe. The scaling of $\Delta S _ { M } ( T , H )$ for higher fields exceeding 2.3 kOe can generate an universal curve,which is independent of $T$ and $H$ . The phenomenological construction of the universal scaling of the experimental $\Delta S _ { M } ( T , H )$ is plotted in Fig. 3. The $\Delta S _ { M }$ is normalized as $| \Delta S _ { M } / \Delta S _ { M } ^ { m a x } |$ ， and the temperature is plotted as a rescaled temperature $\theta$ . One can see that all experimental data collapse onto a single universal curve，except a small dispersion just below $T _ { C }$ which may be due to the strong magnetic fluctuation approaching $T _ { C }$ . Based on the universal scaling,an average curve is obtained, as shown as the red solid curve in Fig. 3. Obviously, the obtained average curve is universal and independent of the external measurement conditions,which is just determined by the intrinsic magnetization. According to the obtained universal curve, $\Delta S _ { M } ( T , H )$ at any $T$ （20 and $H$ can be calculated. The inset of Fig. 3 shows the comparison of the calculated and experimental curves for the typical $\Delta S _ { M } ( T )$ for $H = 1 . 2$ kOe,where the calculated result agrees well with the experimental one except for that around 28.5 K.
+
+This universal curve can be extrapolated to low fields to yield a calculated $\Delta S _ { M } ^ { c a l } ( T , H )$ ： However, the entropy change of the skyrmion phase is not included by this calculation method. Therefore, through the comparison of the calculated $\Delta S _ { M }$ and the experimental curve, the skyrmion magnetic entropy change can be derived by subtracting the $\Delta S _ { M } ^ { c a l } ( T , H )$ from the experimental $\Delta S _ { M } ^ { e x p } ( T , H )$ . It can be seen that the calculated curve fits the experimental one very well except for the temperature range around 28.5 K. The discrepancy is attributed to the magnetic entropy caused by the skyrmion phase transition. Subsequently, the magnetic entropy change of the skyrmion $( \Delta S _ { M } ^ { s k y X } )$ can be obtained as:
+
+$$
+| \Delta S _ { M } ^ { s k y X } ( T ) | = | \Delta S _ { M } ^ { e x p } ( T ) - \Delta S _ { M } ^ { c a l } ( T ) |
+$$
+
+Figure 4(a)shows the obtained $| \Delta S _ { M } ^ { s k y X } ( T ) |$ for different $H$ . It can be seen that $| \Delta S _ { M } ^ { s k y X } ( T ) |$ （204号 reaches the maximum at $\sim 2 8 . 3$ K. Figure 4 (b)plots the maximum of $| \Delta S _ { M } ^ { s k y X } ( T ) |$ vs $H$ ，which exhibits that the maximum of the $| \Delta S _ { M } ^ { s k y X } ( T ) |$ firstly increases with $H$ ，and subsequently decreaseswith $H$ The $\Delta S _ { M } ^ { s k y X }$ reaches the maximum at $H \approx 1 . 6$ kOe.As it is known, $\Delta S _ { M } ^ { s k y X }$ originatesfromtemagneticetroyangef thesymonpase trasiioast skyrmion transition. Therefore, the results of the magnetic entropy change indicate that the maximal number of skyrmion vortices in MnSi is reached at $H \sim 1 . 6$ kOe,which is in agreement with the results of specific heat and detailed magnetic measurements [7, 23].
+
+# IV. CONCLUSION
+
+In summary, the magnetic entropy change $\Delta S _ { M }$ of MnSi has been investigated by the scaling analysis. The $\Delta S _ { M } ( T )$ curves in the field range from $\sim 1$ kOe to $\sim 2$ kOe exhibit small valleys at $\sim 2 8 . 5$ K,which correspond to the magnetic change caused by the skyrmion phase transition. The $\Delta S _ { M } ( T , H )$ curves in the higher field range collapse onto an universal curve after scaling，which is independent of $T$ and $H$ .Subsequently， magnetic entropy change of the skyrmion phase $\left[ \Delta S _ { M } ^ { s k X } ( T , H ) \right]$ can be derived by subtraction of the calculated $\Delta S _ { M } ^ { c a l } ( T , H )$ from the experimental $\Delta S _ { M } ^ { e x p } ( T , H )$ . It is demonstrated that the $\Delta S _ { M } ^ { s k X }$ reaches the maximum at $\sim 1 . 6$ kOe,which indicates that the maximal number of skyrmion vortices in MnSi is reached at H \~1.6 kOe.
+
+# V.ACKNOWLEDGEMENTS
+
+This work was supported by the State Key Project of Fundamental Research of China through Grant Nos. 2010CB923403 and 2011CBA00111, the National Natural Science Foundation of China (Grant Nos. U1332140,11004196,and 11204288).
+
+[1] U.K. Roβler, A. N. Bogdanov, C. Pfleiderer, Nature (London) 442 (2006) 797.   
+[2] S. Muhlbauer, B. Binz,F. Jonietz, C. Pfleiderer,A. Rosch,A. Neubauer,R. Georgii, P.Boni, Science 323（2009） 915.   
+[3] N. Nagaosa and Y. Tokura, Nat. Nanotechnol. 8 (2013) 899.   
+[4] F. Jonietz, S. Muhlbauer, C. Pfleiderer,A. Neubauer, W. Munzer,A. Bauer, T. Adams, R. Georgii, P. Boni, R. A. Duine, K. Everschor, M. Garst,A. Rosch, Science 330 (2010) 1648.   
+[5] X. Z. Yu, N. Kanazawa, W. Z. Zhang, T. Nagai, T. Hara, K. Kimoto, Y. Matsui, Y. Onose, Y. Tokura, Nat. Commun. 3 (2012) 988.   
+[6] A.Fert, V. Cros, J. Sampaio,Nat. Nanotechnol. 8 (2013) 152.   
+[7] A. Bauer and C. Pfeiderer, Phys. Rev. B 85 (2012) 214418.   
+[8] X. Z. Yu, N. Kanazawa, Y. Onose, K. Kimoto, W. Z. Zhang, S. Ishiwata, Y. Matsui, Y. Tokura,Nat.Mater.10(2011） 106. [9] A. Tonomura, X. Yu, K. Yanagisawa, T. Matsuda, Y. Onose, N. Kanazawa, H. S. Park, Y. Tokura, Nano Lett. 12(2012) 1673.   
+[10] X. Z. Yu, Y. Onose, N. Kanazawa, J. H. Park, J. H. Han, Y. Matsui, N. Nagaosa, Y. Tokura, Nature (London) 465 (2010) 901.   
+[11] W. Munzer,A. Neubauer, T. Adams, S. Mhlbauer, C. Franz, F. Jonietz, R. Georgii, P. Boni, B. Pedersen, M. Schmidt,A. Rosch, C.Pfeiderer1, Phys. Rev. B 81 (2010) 041203(R).   
+[12] J. S. White,K. Prsa, P. Huang,A.A. Omrani, I. Zivkovic, M. Bartkowiak, H. Berger,A. Magrez,J. L. Gavilano, G. Nagy, J. Zang,H. M. Ronnow, Phys. Rev. Lett. 113(2014) 107203.   
+[13] T. Adams, A. Chacon, M. Wagner, A. Bauer, G. Brandl, B. Pedersen, H. Berger, P.Lemmens, C.Pfeiderer,Phys. Rev. Lett. 108 (2012) 237204.   
+[14] N. Manyala, Y. Sidis, J. F. DiTusa, G. Aeppli, D. P. Young, Z. Fisk, Nature (London) 404 (2000) 581.   
+[15] C. Pfeiderer, S. R. Julian, G. G. Lonzarich, Nature (London) 414 (2001) 427.   
+[16] H. Watanabe, S. A. Parameswaran, S. Raghu, A. Vishwanath, Phys. Rev. B 90 (2014) 045145.   
+[17] C.Pfeiderer, G. J. McMulln, S.R. Julian, G.G. Lonzarich, Phys. Rev. B 55 (1997) 8330.   
+[18] P. Bak and M. H. Jensen, J. Phys. C: Solid St. Phys. 13 (198O) L881.   
+[19] S. A. Brazovskii, Sov. Phys. JETP 41 (1975) 85.   
+[20] K. Huang, Statistical Mechanics, 2nd ed. (Wiley, New York, 1987).   
+[21] S. Buhrandt and L. Fritz, Phys. Rev. B 88 (2013) 195137.   
+[22] L. Zhang, D. Menzel, C. M. Jin, H. F Du, M. Ge, C.J. Zhang,L. Pi, M.L. Tian, Y. H. Zhang, Phys. Rev. B 91 (2015) 024403.   
+[23] A.Bauer,M. Garst, C. Pfleiderer,Phys. Rev. Lett.110 (2013) 177207.   
+[24] H. F. Du, W. Ning, M. L. Tian, Y. H. Zhang, Phys. Rev. B 87 (2013) 014401.   
+[25] H. F. Du, J.. DeGrave, F. Xue, D. Liang, W. Ning, J. Y. Yang, M. L. Tian, Y. H. Zhang, S. Jin,NanoLett.14 (2014） 2026.   
+[26] V. Franco, J. S. Blazquez,A. Conde,Appl. Phys. Lett.89 (2006) 222512.   
+[27] V. Franco,A. Conde, J. M. Romero-Enrique, J. S. Blazquez, J. Phys.: Condens. Matter 20 (2008) 285207.   
+[28] V. Franco,A. Conde, Int. J. Refrigerat. 33 (2010) 465.   
+[29] L. Zhang, J. Y. Fan, W. Tong, L. S. Ling, L. Pi, Y. H. Zhang, Physica B 407 (2012) 3543.   
+[30] V. A. Dyadkin, S. V. Grigoriev, D. Menzel, D. Chernyshov, V. Dmitriev, J. Schoenes, S.V. Maleyev,E. V. Moskvin, H. Eckerlebe, Phys. Rev. B 84 (2011) 014435.   
+[31] A. K. Pramanik and A. Banerjee, Phys. Rev. B 79 (2009) 214426.   
+[32] M. Janoschek, M. Garst,A. Bauer, P. Krautscheid, R. Georgi, P. Boni, C. Pfleiderer, Phys. Rev. B 87 (2013) 134407.   
+[33] J. Kindervater,W. Hau/βler, M. Janoschek, C.Pfeiderer,P. Boni, M. Garst,Phys.Rev.B 89 (2014) 180408(R).   
+[34] V. Pecharsky, K.Gscheidner, J. Magn. Magn. Mater. 200(1999） 44.   
+[35] A. H. Morrish, The Physical Principles of Magnetism,Wiley, New York,1965 (Chapter 3).   
+[36] W. J. Lu, X. Luo, C. Y. Hao, W. H. Song, Y. P. Sun, J. Appl. Phys. 104 (2008) 113908.   
+[37] C.Pappas,E. Lelievre-Berna,P. Falus, P. M. Bentley, E. Moskvin, S. Grigoriev,P. Fouquet, B. Farago, Phys. Rev. Lett. 102 197202 (2009).   
+[38] S. V. Grigoriev, N. M. Potapova, S. A. Siegfried， V. A. Dyadkin， E.V. Moskvin，V. Dmitriev, D. Menzel, C. D. Dewhurst，D. Chernyshov,R. A. Sadykov,L. N. Fomicheva, A.V.Tsvyashchenko,Phys. Rev. Lett.110(2013) 207201.   
+[39] S. V. Grigoriev, S. V. Maleyev,E. V. Moskvin, V. A. Dyadkin, P. Fouquet,H. Eckerlebe, Phys. Rev. B 81 (2010) 144413.
+
+![](images/a970d27db53d94452550deeda3d500954cda77f3b92e749d060f3cf0656b3ab0.jpg)  
+FIG.1:(Color online） Temperature dependence of the magnetization $[ M ( T ) ]$ for MnSi for $H =$ 0.1 kOe [the inset shows $M ( T )$ (left axis) and dM/dT (right one) for $H = 2$ kOe].
+
+![](images/1b4b0dd07fd265dda31d206b18f225804776dd2069ccbba3c6a1614a38bbd247.jpg)  
+FIG.2:(Color online）(a) Initial magnetization $M ( H )$ around $T _ { C }$ for MnSi (the red curve corresponds that at 29 K);(b) magnetic entropy change ( $\Delta S _ { M }$ ）around $T _ { C }$ for different fields (the inset shows the typical curves for $H = 1 . 2$ and 1.8 kOe).
+
+![](images/243140a02b8a1db4ec4441c2c41815f9698415533e3a40e8a88c4b0d5232a972.jpg)  
+FIG. 3: (Color online） Scaling of $\Delta S _ { M } ( T , H )$ curves for MnSi (the inset shows the comparison of the calculated and the experimental curve for $H = 1 . 2$ kOe).
+
+![](images/741504015548dbb432b002ba9c2f098a006229402459501b2c205be0414ab2b0.jpg)  
+FIG.4: (Color online）(a） Magnetic entropy change of skyrmion transition $[ | \Delta S _ { M } ^ { s k y X } ( T ) | ]$ for diferent felds as a function of temperature; (b)maximum of the $| \Delta S _ { M } ^ { s k y X } ( T ) |$ vs $H$ (the curves are guided on eye).

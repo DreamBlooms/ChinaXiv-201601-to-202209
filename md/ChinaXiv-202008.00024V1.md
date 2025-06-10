@@ -1,0 +1,200 @@
+# 基于荧光原位杂交的藜属植物核型分析
+
+权有娟'²，李想'²，袁飞敏³，刘博¹²，陈志国1\*(1.中国科学院西北高原生物研究所/中国科学院高原生物适应与进化重点实验室/青海省作物分子育种重点实验室 西宁810008；2.中国科学院大学，北京100049；3.西北农林科技大学，陕西 杨凌 712100)
+
+摘要：为精确地识别藜属植物染色体组的核型特征，该文研究了4种来自青海高原的野生藜属植物（灰绿藜、藜、菊叶香藜及杂配藜）和一种从美国引进的栽培藜麦品种PI614932-HX（3）基于染色体荧光原位杂交（rDNA-FISH）的核型。利用5S和45SrDNA对5种藜属植物有丝分裂中期的染色体进行FISH研究。藜属植物的核型分析结果表明：藜属植物中存在二倍体（ $2 \mathrm { n } { = } 2 X { = } 1 8$ ）和四倍体（ $\mathrm { \nabla } 2 \mathrm { n } = 4 \mathrm { X } = 3 6 \mathrm { \Omega }$ ）两种倍性，藜麦和灰绿藜为四倍体，其余3种为二倍体。藜麦、灰绿藜、藜、菊叶香藜及杂配藜的核型公式分别为 $\scriptstyle 2 \mathrm { n = 4 X = 3 6 = 3 4 m }$ (2AST)$+ 2 \mathrm { s m }$ ， $2 \mathrm { n } { = } 4 \mathrm { X } { = } 3 6 { = } 3 2 \mathrm { m } ( 4 \mathrm { A S T } ) + 4 \mathrm { s m }$ ， $\scriptstyle 2 \mathrm { n } = 2 \mathrm { X } = 1 8 = 1 6 \mathrm { m } ( 4 \mathrm { A S T } ) + 2 \mathrm { s m }$ ， $2 \mathrm { n } { = } 2 \mathrm { X } { = } 1 8 { = } 1 8 \mathrm { m }$ 及 $2 \mathrm { n }$ $= 2 \mathrm { X } { = } 1 8 { = } 1 6 \mathrm { m } { + } 2 \mathrm { s m }$ 。染色体由大部分的中部着丝粒染色体（ $\langle { \bf m } \rangle$ ）和少部分近中部着丝粒染色体（sm）组成。核型类型除了菊叶香藜为1B外其余均属于2B类型。在藜麦、灰绿藜及藜中具有分布位置不同、数量不等的双随体。5S、45SrDNA-FISH结果表明：藜麦和灰绿藜的染色体上存在2对5SrDNA位点和1对45SrDNA位点；藜、杂配藜的染色体上存在1对5S rDNA位点和45SrDNA位点，菊叶香藜的染色体上只存在1对5S位点。5S和45SrDNA位点均位于染色体的短臂上。该研究获得了藜属植物基于5S和45SrDNA荧光原位杂交核型，为藜属植物亲缘关系研究和细胞生物学研究提供了分子细胞遗传学依据。
+
+关键词：藜属，rDNA，荧光原位杂交，核型中图分类号：Q943 文献标识码：A
+
+# Karyotype analysis of Chenopodium species based on fluorescence in situ hybridization
+
+QUAN Youjuan12，LI Xiang1,2，YUAN Feimin³，LIUBo’²，CHEN Zhiguo1\* (1.Northwest Institute Plateau of Biology,Chinese Academy ofSciences/Key Laboratory ofAdaptation and   
+Evolution, Chinese Academy of Sciences/Key Laboratory of Crop Molecular Breeding in Qinghai Province, Xining   
+810008,China; 2. University of Chinese Academy of Sciences,Beijing 100049,China; 3.Northwest Agriculture and Forestry University,Yangling7121oo, Shannxi, China)
+
+Abstract: In order to get much more precise information on the karyological characteristics of Chenopodium L. genus, the karyotypes of four wild Chenopodium species from Qinghai Plateau, including C. glaucum, C. ablum, C. foetidum and C. hybridum,and one cultivated $C .$ quinoa PI614932-HX(3) introduced from the United States were analyzed by using fluorescence in situ hybridization (rDNA-FISH). 5S rDNA and 45S rDNA were mapped on the metaphase chromosomes of the five species by FISH.The result of the karyotype analysis showed that there were two kinds of ploidies in these Chenopodium species,including a diploidy ( $2 \mathrm { n } = 2 \mathrm { X } = 1 8 \$ and a tetraploidy ( $\scriptstyle 2 \mathrm { n = 4 X = 3 6 }$ ), $C .$ quinoa and $C .$ glaucum were tetraploids,and the other three species were diploids. The karyotype formulas of $C .$ quinoa, $C$ glaucum, C. ablum, $C .$ foetidum and $C .$ hybridum were $\scriptstyle 2 \mathrm { n = 4 X = 3 6 = 3 4 m }$ (2AST) $+ ~ 2 \mathrm { s m }$ ， $2 \mathrm { n { = } } 4 \mathrm { X = } 3 6 { = } 3 2 \mathrm { m }$ (4AST) $+$ 4sm, $\scriptstyle 2 \mathrm { n } = 2 X = 1 8 \ =$ 16m (4AST) $+ 2 \mathrm { s m }$ $2 \mathrm { n } { = } 2 \mathrm { X } { = } 1 8 { = } 1 8 \mathrm { m }$ and $2 \mathrm { n } { = } 2 \mathrm { X } { = } 1 8 { = } 1 6 \mathrm { m } + 2 \mathrm { s m }$ ,respectively. The chromosomes of Chenopodium were mainly composed of metacentric chromosomes (m） and a few submetacentric chromosomes (sm). Except for C. foetidum belong to 1B type, the others belong to 2B type. There were double satellites distributed at different positions with different numbers on the chromosomes of $C .$ ：quinoa, C. glaucum and C.ablum. The results of 5S and 45S rDNA-FISH showed that there were two pairs of 5S rDNA loci and one pair of 45S rDNA loci on the chromosomes of $C _ { }$ ：quinoa and $C .$ ：glaucum, one pair of 5S rDNA and one pair of 45S rDNA on the chromosomes of C. ablum and C. hybridum,and only one pair of 5S on the chromosomes of $C$ foetidum.5S and 45S rDNA loci were all located on the short arm of the chromosomes. It is the first report on karyotype analysis with 5S and 45S rDNA loci in Chenopodium genus and the results will provide a cyto-moecular genetic basis for phylogeny and cell biology research of Chenopodium.
+
+Key words: Chenopodium L., rDNA, fluorescence in situ hybridization (FISH), karyotype
+
+藜属（ChenopodiumL.）按原来的分类系统属于藜科（Chenopodiaceae），APGII植物分类系统将其划分到苋科（Amaranthaceae）藜亚科（Chenopodioideae）中（AngiospermPhylogenyGroup，2003），为一年生或多年生草本，全世界约有 250 种，部分种类具有食用、药用和饲用、保护生态环境等功能（张薇薇等，2015）。在我国，有19个野生藜属植物种（刘尚武，1997）及1个引进种栽培种藜麦（Chenopodiumquinoa），主要分布于西北、华北、西南和东北等地。该属植物常生长在海拔较高、土地贫瘠、盐碱化较重的干旱、半干旱地带，大多具有较强的耐旱性、耐盐性（Eisaetal.,2001）。
+
+关于藜属植物，前人在资源调查（张薇薇等，2015）、系统发育与分类（孔宪武和简焯坡，1979；Fuentes-Bazan et al.,2012；王春海，2015）、生理特性（Karssen,1976；陈莎莎等，2009；王璐等，2015；袁飞敏等，2018；张乐等，2019）、营养特性（Abugoch&Lilian,2009；王艳萍等，2019）、植物化学（杜华，2007；张洪慎等，2018）、分子生物学（刘艳霞等，2016；付苏宏等，2016；Jarvis etal.,2017；宋娇，2018）、遗传育种（杨发荣等，2015;林春等，2019）等方面进行了广泛的研究。由于藜属植物的染色体较小，染色体数目较多，导致藜属植物染色体制片难度大，传统的核型分析方法很难明确识别其染色体，其核型研究尚处于初级阶段。据前人研究，藜属植物内部存在多倍化现象，主要有二倍体( $\scriptstyle 2 \mathrm { n } = 2 X = 1 8$ ）、四倍体（ $\scriptstyle 2 \mathrm { n } = 4 X = 3 6$ ）和六倍体（ $scriptstyle 2 \mathrm { n = 6 X = 5 4 }$ ）3种倍性（Aellenetal.,1943），单倍染色体基数为9（ $\scriptstyle \sum = 9$ ）（Kolano etal.,2001），但Ambrina 组的染色体基数为8，如C.ambrosioides的染色体数目为 $2 \mathrm { n } { = } 2 X { = } 1 6$ （Giusti,1970）。在国内何燕等（2019）利用常规压片法仅对一个栽培型藜麦品系进行了核型研究，至今，未见其他野生藜属植物核型研究的报道。
+
+rDNA-FISH是细胞遗传学研究中常用的手段之一，具有灵敏度和分辨率高、安全性好、实验周期短，直观可见等优点，可为核型分析提供一个稳定有效的细胞学可识别标记，也为植物外源染色体鉴定、遗传育种、系统进化及亲缘关系等研究提供重要的信息（Soltis et al.,1999；Volkov etal.，2007）。Maughan et al.（2006）利用 FISH对藜麦和其野生近缘种 $C .$ （204berlandieri的45SrRNA基因间隔区序列（IGS）和5SrDNA间隔区（NTS）进行了分析，证实了两者之间的亲缘关系非常近，推测它们可能来源于异源多倍体藜麦的两个亚基因组，其中一个和现在C.berlandieri中的NTS序列相似，这一发现表明这两个异源四倍体物种至少有一个共同的二倍体祖先。Kolano etal.（2012）对 34 种藜属植物的中期染色体进行 5S和45SrDNA的物理定位，通过位点数目及分布特点的观察，可以为识别34种藜属植物的染色体提供明确有效的分子细胞学标记。Kolano etal.（2015）分析了23个二倍体藜属植物染色体上5S和45SrDNA分布的数量，推测了二倍体植物基因组进化的模式和方向。
+
+本研究以5种藜属植物为材料，系统研究了藜属植物染色体荧光原位杂交技术体系，获得了基于FISH技术的藜麦、灰绿藜、藜、菊叶香藜及杂配藜的染色体核型图，并分析了5S、45S rDNA在5种藜属中期染色体上的分布特点。研究结果为藜属植物基因在染色体上的物理定位提供了技术基础，也为进一步在分子细胞学水平探讨藜属植物亲缘关系奠定了基础，这也将是首次对国内野生藜属植物的研究提供分子细胞遗传学资料。
+
+# 1材料与方法
+
+# 1.1供试材料
+
+供试藜麦栽培品种引自美国，编号为PI614932-HX（3），野生藜属植物于2016年10月分别采自柴达木盆地、共和盆地及西宁周边荒地，每个物种分别采集20 余个个体，由本所卢学峰研究员鉴定，单独脱粒后种子保存在中国科学院西北高原生物研究所适应与进化重点实验室中。采集地点及种子性状详细信息见表1。
+
+表1野生藜属植物采集地点信息及种子性状  
+Table1 Collected information and tested seed characters of Chenopodium species   
+
+<html><body><table><tr><td>物种名称 Species name</td><td>采集地点 Collection site</td><td>海拔 Altitude (m)</td><td>经纬度 Latitude and longitude</td><td>种子性状 Character of seed</td></tr><tr><td>灰绿藜 C. glaucum</td><td>海西州都兰县 Dulan County, Haixi Prefecture</td><td>3 026.1</td><td>36'2'19.732"N 97° 48'46.944"E</td><td>扁球形，种皮为暗褐色或红褐色、有光泽。 Oblate,testa is dark brown or reddish brown with glossy.</td></tr><tr><td>藜 C. ablum</td><td>海西州都兰县 Dulan County, Haixi Prefecture 海南州共和县</td><td>2 990.2</td><td>36'4' 01.886"N 97° 47'32.009"E</td><td>胚环形，种皮为棕褐色或黑褐色、有光泽。 Embryoid ring,testa is tan or dark brownwith glossy.</td></tr><tr><td>菊叶香藜 C. foetidum 杂配藜</td><td>Gonghe County, Hainan Prefecture</td><td>3 168.7</td><td>36°24' 28.644" N 100°4' 13.490"E</td><td>胚半环形，种皮颜色为红褐色、黑褐色。 Semicircularring,testaisreddish brown and black brown.</td></tr><tr><td>C. hybridum</td><td>西宁市城西区 Chengxi District, Xining City</td><td>2 278.7</td><td>36° 6' 26.923" N 101° 7' 51. 01"E</td><td>药片形，种皮为黑色、种皮厚，有光泽。 Tablet shape,testa is black,thick and glossy.</td></tr></table></body></html>
+
+# 1.2方法
+
+# 1.2.1中期分裂相染色体制备
+
+挑选成熟度好、饱满、子粒大小一致的供试种子，用 $70 \%$ 的酒精消毒后，用蒸馏水漂洗3次，分别放置于铺有两层滤纸的发芽盒（ $1 2 \mathrm { c m } { \times } 6 \mathrm { c m }$ ）中。再用蒸馏水浸润后放置于种子培养箱中。种子培养箱参数条件设置为 $2 5 \mathrm { ~ \textdegree C }$ ，昼长 $^ { 1 6 \mathrm { ~ h ~ } }$ ，夜长 $^ \textrm { \scriptsize 8 h }$ ，湿度 $6 5 \%$ 。待根尖长至 $1 { \sim } 1 . 5 ~ \ \mathrm { c m }$ 时，将整个发芽的种子放到 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右的冰水混合物中预处理 $2 0 { \sim } 2 4 \mathrm { ~ h ~ }$ 。取出发芽的种子后用乙醇：冰醋酸！ $( 3 : 1 )$ ）固定至少 $3 0 \mathrm { m i n }$ 。从根尖上切取 $1 { \sim } 2 ~ \mathrm { m m }$ 的分生区，$45 \%$ 乙酸火焰干燥压片，在相差显微镜下镜检，将一个视野下有多个清晰的中期染色体分裂相的片子放于-80℃冰箱中冷冻保存。
+
+# 1.2.2 标记探针
+
+探针为通用探针，购买自上海生物工程有限公司。
+
+# 1.2.3荧光原位杂交
+
+荧光原位杂交实验参考自本课题组喻凤同学（喻凤等，2017）。将制备好的染色体制片从 ${ } ^ { - 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C } }$ 冰箱中拿出后迅速用刀片揭掉盖玻片，干燥后放置于 $0 . 2 \mathrm { m o l ^ { \bullet } L ^ { - 1 } }$ 溶于 $70 \%$ 酒精的氢氧化钠溶液中变性 $8 { \sim } 1 0 \ \mathrm { m i n }$ ；取出后直接放置于预冷的 $70 \%$ 乙醇中做脱水处理约 $4 0 ~ \mathrm { m i n }$ 干燥后将配制好的杂交液 $1 0 \mu \mathrm { L } ( 5 \mu \mathrm { L } 5 0 \%$ 甲酰胺， $2 \mu \mathrm { L } 2 0 { \times } \mathrm { S S C }$ ， $1 \mu \mathrm { L }$ 鱼精DNA, $2 \mu \mathrm { L } 1 0 \%$ 硫酸葡聚糖）中加入 $5 \mathrm { S \ r D N A }$ 和 $4 5 S \ \mathrm { r D N A }$ 各 $1 ~ \mu \mathrm { L }$ ，混匀后滴至干燥的片子上，盖上较大的盖玻片；将片子放于潮湿密闭盒中，置于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下杂交 $^ { 8 \mathrm { h } }$ ，过夜。
+
+# 1.2.4镜检
+
+待时间到后用 $2 { \times } \mathrm { S S C }$ 或 $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 冲洗几次，干燥后向制片上滴 $1 0 { \sim } 1 2 ~ \mu \mathrm { L }$ 含有荧光猝灭剂的DAPI染液，盖上较大的盖玻片。用Leica荧光显微镜在低倍镜下找到染色体，在高倍镜下快速拍照，并标记后保存。
+
+# 1.2.5图像处理及分析
+
+图片用Photoshop cc 2015 进行调整及优化并完成配对，用 Emage J、Excel 2019 软件进行后期的图像处理及染色体长度、臂比等的计算。核型分析及核型分类的依据分别采用李懋学等（1985）和的 Stebbin et al.（1971）的划分标准，核型不对称系数参照 Arano et al.（1962）的方法。
+
+# 2结果与分析
+
+# 2.15种藜属植物的核型分析
+
+基于rDNA-FISH技术得到了5种藜属植物中期染色体5S和45SrDNA-FISH制片，测定核型参数，并进行核型分析(表2)。藜麦和灰绿藜都是四倍体，染色体数目均为 $\scriptstyle 2 \mathrm { n = 4 X = 3 6 }$ 藜、菊叶香藜及杂配藜都是二倍体，染色体数目均为 $2 \mathrm { n } { = } 2 X { = } 1 8$ ，没有发现其他倍性或非整倍体存在的现象。除了菊叶香藜全部由中部着丝粒染色体组成外，其余4种藜属植物的染色体主要由中部着丝粒染色体（m）和少数亚中部着丝粒染色体（sm）组成。藜属植物染色体绝对长度不足 $2 ~ \mu \mathrm { m }$ ，属于小染色体。不同种类藜属植物的核型公式和染色体相对长度存在差异。根据染色体分类系统，菊叶香藜的核型类型为1B，核型形态较对称，相较于其他4种核型类型为2B的藜属植物在进化上较原始。
+
+藜属植物部分种中具有随体。在藜麦中发现了1对双随体，位于2号染色体上的其中一条同源染色体的短臂上。在灰绿藜和藜中各发现2对双随体，均位于两条同源染色体的短臂上，在灰绿藜中为12号染色体，在藜中为9号染色体。
+
+表25种藜属植物的核型基本参数  
+Table 2 Karyotype parameters of five Chenopodium species   
+
+<html><body><table><tr><td>种名</td><td>染色体数目</td><td>相对长度</td><td>核型公式</td><td>臂比值</td><td>As.k</td><td>核型类型</td></tr><tr><td>Scientific name</td><td>Number</td><td>Ralative length (%)</td><td>Formula of karyotypes</td><td>Arm ratio</td><td>(%)</td><td>Karyotype type</td></tr><tr><td>藜麦 C.quinoa</td><td>36</td><td>2.11 ~ 5.04</td><td>2n=4X=36=34m(2AST)+2sm</td><td>1.04 ~ 2.06</td><td>57.42</td><td>2B</td></tr><tr><td>灰绿藜C.glaucum</td><td>36</td><td>1.21~ 3.13</td><td>4n=36=34m(4AST)+2sm</td><td>1.01 ~ 2.08</td><td>55.31</td><td>2B</td></tr><tr><td>藜 C.ablum</td><td>18</td><td>1.24~ 2.17</td><td>2n=18=16m(4AST)+2sm</td><td>1.03~ 2.26</td><td>54.79</td><td>2B</td></tr><tr><td>菊叶香藜C.foetidum 杂配藜C.hybridum</td><td>18 18</td><td>1.01 ~ 1.57 3.11 ~ 1.43</td><td>2n=18=18m 2n=18=16m+2sm</td><td>1.01 ~ 1.30 1.03 ~ 2.14</td><td>53.95 55.86</td><td>1B 2B</td></tr></table></body></html>
+
+# 2.2藜麦rDNA-FISH信号位点检测结果
+
+rDNA-FISH检测显示，藜麦染色体上检测到2对5SrDNA和1对45S rDNA信号位点：1对 5SrDNA信号位点位于12号染色体的两条同源染色体的间隙位置，另1对位于17号染色体短臂（S）末端，信号强度一致；45SrDNA信号位点位于5号染色体短臂（S）末端，并且1个同源染色体杂交信号较另1个强（图1：B，C）。
+
+在信号强度上和前人的研究结果存在微小差异，和Kolano etal.（2012）发现45S rDNA位点的信号强度一致（图1：A），本研究中45S rDNA的信号明显强于5S rDNA位点信号。
+
+![](images/e84a401a304298a38a4db6dca566e716e7eeaccf4da531bbffdbbf0f0affb1ee.jpg)
+
+绿色信号代表45S rDNA,红色代表5S rDNA;A为C.quinoa Tango的5S及45S rDNAFISH,比例尺为 $5 \mu \mathrm { m }$ B和C分别为 $C .$ quinoa PI614932-HX（3）的5S及45SrDNAFISH结果及中期染色体核型图，比例尺为$1 0 \mu \mathrm { m }$ 。
+
+Gren is 45S rDNA; red is 5S rDNA; Ais the rseult of 5S and 45S rDNA FISH in C.quinoa Tango, the scale bar is $5 \mu \mathrm { m }$ ; B and C are the results of 5S and 45S rDNAFISH and homologous pairing of chromosomes based on 5S rDNA and 45S rDNAFISH of C.quinoa PI614932-HX(3),respectively, the scale bar is $1 0 \mu \mathrm { m }$
+
+图1以5SrDNA和45SrDNA为探针的藜麦中期染色体杂交情况
+
+Fig.1 FISH localization of 5S rDNA and 45S rDNA on metaphase chromosomes of the Chenopodium quinoa
+
+# 2.3灰绿rDNA-FISH信号位点检测结果
+
+灰绿藜染色体上检测到2对5SrDNA和1对45SrDNA信号位点：1对5SrDNA信号位点位于3号染色体的短臂（S）末端，另1对位于7号染色体两个同源染色体的间隙，3号染色体上的信号杂交比7号染色体强；45SrDNA信号位点位于12号染色体短臂（S）末端的随体上，杂交信号强度一致（图2）。
+
+Kolanoetal.（2008a）研究结果显示，二倍体灰绿藜（ $\scriptstyle 2 \mathrm { n } = 2 X = 1 8$ ）中存在1对5SrDNA位点和1对 $4 5 S \mathrm { \ r D N A }$ 位点。此四倍体灰绿藜中多1对 $5 \mathrm { S } \mathrm { r D N A }$ 位点。
+
+![](images/55348d9d65307e70e3b7b850f7f5d10d9acb656c8dd4f746993fe1b7a4c717f9.jpg)
+
+绿色信号代表45S rDNA，红色代表5S rDNA；A为灰绿藜的5S及45S rDNAFISH结果；B为灰绿藜的染
+
+色体核型图。比例尺为 $1 0 \mu \mathrm { m } _ { \circ }$
+
+Green is45S rDNA;red is 5S rDNA;Ais the result of 5S and 45srDNA FISHof $C$ .glaucum;Bisthe homologous pairing of chromosomes based on 5S rDNA and 45S rDNA FISH of C. glaucum.The scale bar is 10 μm.
+
+# 图2以5SrDNA和45SrDNA为探针的灰绿藜中期染色体杂交情况
+
+Fig.2 FISH localization of 5S rDNA and 45S rDNA on metaphase chromosomes of the Chenopodium ablum
+
+# 2.4rDNA-FISH信号位点检测结果
+
+藜染色体上检测到1对5SrDNA和1对45SrDNA信号位点：5SrDNA位点位于1号染色体的短臂（S）末端，杂交信号强度一致；45S rDNA位于9号染色体短臂（S）末端的随体上，杂交信号强度一致（图3：A，B）。
+
+藜是一个复合体，有二倍体、四倍体、六倍体（Bhargava etal.,2006），已有的研究结果显示（Kolano etal.,2008b），见图3：C，D，六倍体藜中存在4对5S rDNA位点和2对45S rDNA位点，5SrDNA位点和45SrDNA的杂交信号强度均不同；二倍体藜中存在2对5S rDNA位点和1对45S rDNA位点，均位于染色体末端，5SrDNA位点在信号强度和大小方面存在明显差异。此二倍体藜中丢失了信号较强的1对rDNA位点。
+
+![](images/ca5320384728f46a7cabfd384e167923ff0aa95eccc5f8599a6d7c990d87e8c7.jpg)
+
+绿色信号代表45S rDNA，红色代表5S rDNA；A为藜的5S及45S rDNAFISH结果，B为藜的染色体核型 图，比例尺为 $1 0 \mu \mathrm { m }$ ；C和 $\mathrm { ~ D ~ }$ 分别为来自德国的二倍体和六倍体藜，比例尺为 $5 \mu \mathrm { m }$ 。 Gren is 45S rDNA; red is 5S rDNA; Ais the result of 5S and 45S rDNA FISHof C. ablum,B is the homologous pairing of chromosomes based on 5S rDNA and 45S rDNA FISH of $C$ .ablum,the scale bar is $1 0 \mu \mathrm { m }$ $\mathbf { C }$ and $\mathrm { ~ D ~ }$ are diploid and hexaploid C. ablum from Germany, respectively, the scale bar is $5 \mu \mathrm { m }$
+
+图3以5SrDNA和45SrDNA为探针的藜中期染色体杂交情况
+
+Fig.3 FISH localization of 5S rDNA and 45S rDNA on metaphase chromosomes of the Chenopodium ablum
+
+# 2.5菊叶香藜及杂配藜的rDNA-FISH信号位点检测结果
+
+菊叶香藜染色体上检测到1对5SrDNA信号位点，未检测到45SrDNA信号位点：5SrDNA位于2号染色体的短臂（S）末端，杂交信号强度一致，信号较强（图4：A，B）。
+
+杂配藜的染色体上检测到1对5SrDNA位点、1对45SrDNA位点和5SrDNA位点在5号染色体的两个同源染色体的间隙位置，杂交信号强度一致；45SrDNA位点在7号染色体短臂（S）末端，1个杂交信号较另1个强很多（图4：C，D）。此结果和Kolano etal.（2012）的研究结果一致。
+
+![](images/ddc2ae6aaccbf9b12e3200924a9a35346edee475c3ba7ccbb48cc6269ffd301a.jpg)
+
+绿色信号代表45S rDNA，红色代表5S rDNA；A和B为菊叶香藜的5S及45S rDNAFISH结果及染色体核 型图；C 和D为杂配藜的5S及45SrDNAFISH结果及染色体核型图。比例尺为 $1 0 \mu \mathrm { m } _ { \circ }$ （20 Green is 45S rDNA;red is 5S rDNA; A and Bare the results of 5Sand 45S rDNA FISH and the homologous pairing of chromosomes based on 5S rDNA and 45S rDNAFISH of $C .$ foetidum;C and D are the resultsof 5S and 45S rDNA FISH and the homologous pairing of chromosomes based on 5S rDNA and 45S rDNA FISH of $C .$ hybridum.The scale bar is $1 0 \mu \mathrm { m }$
+
+图4以5S rDNA和45SrDNA为探针的菊叶香藜和杂配藜的中期染色体杂交情况 Fig.4 FISH localization of 5S rDNA and 45S rDNA on metaphase chromosomes of the Chenopodium foetidum and C. hybridum
+
+# 3讨论
+
+# 3.1藜属植物的染色体数目及类型
+
+本研究中所有藜属植物的染色体基数为9，存在多倍化现象，和Mehra＆Malik（1963）、Pal& Shukla（1990）等的研究结果一致。有些物种其种内存在多种倍性，不同倍性的植物核型不同，有些物种在相同倍性的不同亚种（品种）中，核型也存在差异。Bhargava et al.（2006）首次对藜麦、藜、菊叶香藜等几个藜属植物进行了全面的细胞遗学研究，用常规核型分析法获得几种藜属植物的核型数据。其中，7份藜麦材料中，核型基本相似，均为四倍体，推翻了早期藜麦中存在混倍性的研究结果（Wang etal.,1993），并以染色体的最长臂和最短臂的比值划分核型类型，比值小于2的为1A类型，比值大于2的为1B 类型，核型不对称指数变化范围在 $4 3 . 9 \% \sim 4 7 . 4 \%$ ，不同染色体的最长染色体不是中部着丝粒染色体（m）就是亚中部着丝粒染色体（msm），臂比在1.18\~1.56之间变化，其中第4对、第9对、第18对的中位数（M或 $\mathrm { ~ m ~ }$ ）最为保守。第10对和第13对变异最大，臂比值分别在1.0\~1.86和1.0\~1.78之间。在藜复合群体中，三种倍性的藜之间核型差异较大，四倍体藜的核型不对称性程度比二倍体和六倍体高，已经具有杂交不亲和性。二倍体藜之间核型也存在明显的分化，最长染色体和最短染色体的比值相对较高，为2.63，核型类型有1A和2A两种类型，有3对亚中部着丝粒染色体（sm），核型不对称系数变化范围在 $4 3 . 6 \% \sim 4 7 . 9 \%$ 之间。其菊叶香藜的核型公式为 $2 \mathrm { n } { = } 2 \mathrm { X } { = } 1 8 { = } 4 \mathrm { M } { + } 1 \mathrm { m } { + } 3 \mathrm { m s m } { + } 1 \mathrm { s m }$ ，核型类型为1A，核型不对称系数为
+
+$4 4 . 1 \%$ 。除了与相应倍性物种的染色体数目一致外，在核型公式、核型类型及核型不对称系数等方面和该研究中的藜属植物不同，对于栽培型的藜麦，可能由于异源起源（Wilson,1990）、自花授粉（Risi&Galwey,1984）导致染色体形态变化（主要是倒位和易位）从而引起染色体核型上的微小差异。相同倍性的野生藜属植物核型也存在差异，这可能是由环境、中期染色体制片技术及方法、测量工具等造成的。
+
+# 3.2藜属植物的随体
+
+本研究中，藜麦、灰绿藜及藜中出现了数目不等，位置不同的双随体。藜麦中具有1对双随体，位于2号染色体的短臂上，和已报道的C.quinoaPI587173、C.quinoaPI584524及C.quinoaCHEN33/84中双随体分布的位置相同，可能与其属同一种类型或来源自相同的地方。在3号短臂、3号长臂、8号短臂及12号短臂及15号短臂也分布（何燕等，2019;Bhargava etal.,2006）。藜中发现了2对双随体，位于9号染色体的短臂上，和已报道的自印度二倍体藜C.album‘Chandanbathua’中随体的分布一致（Bhargava et al.,2006）。先前的研究中没有关于灰绿藜中存在随体的报道，我们首次发现了2对双随体。迄今，在藜属植物的研究中，只有在藜麦、四倍体灰绿藜、二、四倍体藜中具有双随体，此三种物种之间是否具有较近的亲缘关系及能否作为藜属植物识别的标记需进一步研究。
+
+# 3.35种藜属植物的rDNA-FISH差异
+
+已有研究表明，在二倍体、四倍体、六倍体的藜属植物中5SrDNA和45SrDNA不存在共定位，45SrDNA总是位于染色体的末端，5SrDNA位置的分布有两种，一种分布在染色体的末端，一种分布在两个同源染色体的间隙，具体的位置分布因物种而异，rDNA位点的数量有3\~6个（Kolano etal.,2012），此5种藜属植物中除菊叶香藜具有2个（1对）rDNA位点外藜麦、灰绿藜、藜和杂配藜的研究结果与前人的结果基本一致。本研究中发现二倍藜属体植物中，分布有1对（2个）5SrDNA位点和1对（2个）45SrDNA位点（菊叶香藜除外），四倍体藜属植物中具有2对（4个）5SrDNA位点和1对（2个）45SrDNA位点，六倍体藜属植物中具有4对（8个）5SrDNA位点，2对（4个）45SrDNA位点，5SrDNA的数量随着染色体倍性的增加而成倍增加，Prokopowich et al.(2003)和Long et al.(2013)也在其他动植物中发现了这种现象，但Kolano etal.（2015）发现在二倍体藜属植物中rDNA 的数量跟基因组的大小没有相关性，如C.ficifolium 486具有2对5SrDNA位点和1对 45SrDNA 位点，C.ficifolium147具有1对5SrDNA位点和2对45SrDNA位点。在多倍体藜属植物，尤其是在四倍体和六倍体植物中，45S rDNA的数量比5S rDNA 的少。Kolano et al.（2011）发现在异源多倍体物种形成后，至少有一个祖先亚基因组经历了45SrDNA基因位点的丢失。目前，藜属植物中关于rDNA位点及数量的研究，还没有不存在45SrDNA位点的情况，该研究中菊叶香藜中没有45SrDNA的位点，猜测有可能和5SrDNA位点存在共线性，在C.standleyanum中5S rDNA位点和45S rDNA位点就位于同一对染色体上。
+
+致谢窦全文研究员提供了实验平台和条件，在此瑾对窦老师的悉心指导和帮助表示衷心感谢！
+
+# 参考文献：
+
+ABUGOCH J, LILIAN E, 2009. Quinoa (Chenopodium quinoa Willd.): Composition, chemistry, nutritional and functional properties [J]. Adv Food Nutr Res, 58:1-31.   
+AELLEN P, JUST T,1943. Key and synopsis of the American species of the genus Chenopodium L. [J]. Am Mid Nat, 30(1): 47-76.   
+ANGGIOSPERM PHYLOGENY GROUP, 2003. An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II [J]. Bot J Linn Soc, 141(4): 399-436.   
+ARANO H,1962. Cytological studies in subfamily Carduoideae (Compositae) of Japan VII [J]. Bot Mag in Tokyo, 75(892): 401-410.   
+BHARGAVA A,RANA TS, SHUKLA S,et al., 2005. Seed protein electrophoresis of some cultivated and wild species of Chenopodium [J]. Biol Plant, 49(4): 505-511.   
+BHARGAVA A, SHULKA S, OHRI D, 20O6. Karyotypic studies on some cultivated and wild species of Chenopodium (Chenopodiaceae)[J]. Gen Res Crop Evol, 53(7): 1309-1320.   
+CHEN SS, YAO SX, YUAN WJ, et al.， 2010. Seed germination characteristics of halophyte Chenopodium glaucum L.and its adaptability to the natural desert habitats in Xinjiang[J]. JPlant Physiol,46(1):75-79.[陈莎莎，姚世响，袁军文，等，2010.新疆荒漠地区盐生植物灰绿藜 种子的萌发特性及其对生境的适应性[J].植物生理学报，46(1):75-79.]   
+DU H, ZHOU LG, LI C,et al.， 2007. Recent studies on the chemistry and bioactivity of Chenopodiaceous Plant[J].Nat Prod Res Dev,10(19): 884-889.[杜华,周立刚,李春,等,2007. 藜科植物化学成分与生物活性的研究进展[J].天然产物研究与开发，10(19):884-889.]   
+EISA S,HUSSIN S,GEISSLER N,et al.，2O12. Effect of NaCl salinity on water relations, photosynthesis and chemical composition of quinoa(Chenopodium quinoa Willd.) as a potential cash crop halophyte [J]. Aust JCrop Sci, 6(6): 357-368.   
+FU SH,LEI M, ZAHNG YQ,et al.，2O19. Mining and analysis of genic single nucleotide polymorphism(SNP) information in transcriptome of Chenopodium foetidum[J]. Southwest China JAgric Sci,32(4): 734-740.[付苏宏，雷鸣，张勇群，等，2019.菊叶香藜转录组单核 苷酸多态性(SNP)信息挖掘及功能注释分析[J].西南农业学报，32(4):734-740.]   
+FUENTES-BAZAN S,MANSION G, BORSCH T, 2012. Towards a species level tree of the globally diverse genus Chenopodium(Chenopodiaceae） [J]. Mol Phylogenet Evol，62(1): 359-374.   
+GIUSTI L，1970. EI genero Chenopodium en Argentina 1: Numeros de cromosomas [J]. Darwiniana, 16: 98-105.   
+HE Y,DENG YX,LI MH, et al.， 2019. Chromosome number and karyotype analysis of quinoa(chenopodium quinoa Willd. )[J]. J Southwest Univ (Nat Sci Ed), 41(1): 27-31. [何燕,邓 永辉，李梦寒，等，2019.藜麦品系的染色体数目及核型分析[J).西南大学学报(自然科学 版)[J]，41(1):27-31.]   
+JARVIS DE, HO YS,LIGHTFOOT DJ, et al.,2017 The genome of Chenopodium quinoa [J]. Nature, 542(7641):307-312.   
+KARSSEN CM, 1976. Two sites of hormonal action during germination of Chenopodium album seeds [J]. Physiol Plantarum, 36(3): 264-270.   
+KONG XW, JIAN ZP, 1979. Flora of China (Vol. 25 2nd)[M]. Beijing: Science Pres: 79-98.[孔   
+宪武，简焯坡，1979.中国植物志（第25卷第2分册）[M].北京：科学出版社:79-98.]   
+KOLANO B，PANDO LG， MALUSZYNSKA J，2001.Molecular cytogenetic studies in Chenopodium quinoa and Amaranthus caudatus [J]. Acta Soc Bot Pol, 7O(2): 85-90.   
+KOLANO B，PLUCIENNICZAK A， KWASNIEWSKI M， et al.， 2008a. Chromosomal localization of a novel repetitive sequence in the Chenopodium quinoa genome [J]. Bot Mag in Tokyo, 75(892):401-410.   
+KOLANO B, SIWINSKA D, MALUSZYNSKA J, 2008b. Comoarative cytogenetic analysis of diploid and hexaploid Chenopodium album Agg. [J]. Acta Soc Bot Pol, 77(4):293-298.   
+KOLANO B, GARDUNIA BW, MICHALSKA M, et al.,2011. Chromosomal localization of two novel repetitive sequences isolated from Chenopodium quinoa genome [J]. 54:710-717.   
+KOLANO B, TOMCZAK H, MOLEWSKA R, et al.,2012. Distribution of 5S and 35S rRNA gene sites in 34 Chenopodium species (Amaranthaceae)[J]. Bot JLinn Soc,170(2):220-231.   
+KOLANO B, SIWINSKA D, MCCANN J, et al., 2015. The evolution of genome size and rDNA in diploid species of Chenopodium s.l.(Amaranthaceae) [J]. Bot JLinn Soc,179(2):218-235.   
+LI MX, CHEN RY,1985.A suggestion on the standarization of karyotype analysis in plant [J]. J Plant Sci,3(4):297-302．[李懋学，陈瑞阳，1985.关于植物核型分析的标准化问题[J].植物 科学学报，3(4):297-302.]   
+LIN C,LIU ZJ,DONG YM,et al.， 2019. Domesticated cultivation and genetic breeding of Chenopodium quinoa[J].Hereditas,41(11):1009-1022.[林春，刘正杰，董玉梅，等，2019. 藜麦的驯化栽培与遗传育种[J].遗传，41(11):1009-1022.]   
+LIU YX, LAN XX, CAO J, et al., 2016. Screening of qRT-PCR reference genes for Chenopodium album and C.glaucum of Chenopodiaceae[J]. Guihaia, 36(12):1511-1518.[刘艳霞，兰欣欣，曹 婧，等，2016.藜科植物藜和灰绿藜实时荧光定量 PCR 内参基因的选择[J].广西植物， 36(12):1511-1518.]   
+LIU SW,1997. Qinghai Flora (volume I)[J]. Qinghai: Qinghai people's Publishing Press: 185-233. [刘尚武，1997.青海植物志（第I卷）[M].青海:青海人民出版社:185-233.]   
+LONG Q, RABANAL FA, MENG DZ, 2013. Massive genomic variation and strong selection in Arabidopsis thaliana lines from Sweden [J]. Nat Genet, 45: 884-890.   
+MAUGHAN P J, KONLANO B A, MALUSZYNSKA J, et al., 2006. Molecular and cytological characterization of ribosomal RNA genes in Chenopodium quinoa and Chenopodium berlandieri [J]. Gene, 49(7): 825-839.   
+MEHRA P N, MALIK C P, 1963. Cytology of some Indian Chenopodiaceae [J]. Caryologia, 16(1):67-84.   
+PAL M, SHUKLA S, 1990.A hexaploid grain chenopod from Eastern Himalayas [J]. Newslett Himalayan Bot, 8:12-14.   
+PROKOPOWICH CD, GREGORYT R, CREASE TJ, 2003. The correlation between rDNA copy number and genome size in eukaryotes [J]. Gene, 46:48-50.   
+RISI J,GALWEY NW,1984. The Chenopodium grains of the Andes: Inca crops for modern agriculture. in advances in applied biology [M]. Academic Press: London: 145-216.   
+SONG J, 2O18. Genetic diversity of germplasm and the variation analysis of Quinoa[D]. Xining city:Qinghai University:1-52.[宋娇，2018.藜麦种质资源遗传多样性研究及藜麦品种（系） 变异率分析[D].西宁：青海大学：1-52.]   
+SOLTIS D E, SOLTIS P S, 1999.Polyploidy: recurrent formation and genome evolution [J]. Trends Ecol Evol, 14(9): 348-352.   
+STEBBINSG L，1971. Chromosome evolution high plant [M]. London: Edward Aronld Ltd: 85-104.   
+VOLKOV RA，KOMAROVA NY, HEMLEBEN V,2007. Ribosomal RNA in plant hybrids: inheritance, rearrangement, expression [J]. Syst Biodivers, 5(3): 2661-276.   
+WANG S,TSUCHIYA T,WILSON H D，1993.Chromosome studies in several species of Chenopodium from North and south Americas [J]. Indian J Genent Pl Br, 47: 163-170.   
+WANG CH, 2015. Systematic studies on Chenopodium and related genera of China[D]. Qufu: Qufu NormalUniversity:1-42.[王春海，2015.中国藜属及近缘属植物的系统学研究[D].曲 阜：曲阜师范大学：1-42.]   
+WANG L, CAI M, LAN HY, 2015. Comparison of Salt tolerance between Chenopodium album and C.glaucum[J]. Acta Phytophysiol Sin,51(11):1846-1854.[王璐，蔡明，兰海燕，2015. 藜科植物藜与灰绿藜耐盐性的比较[J].植物生理学报，51(11):1846-1854.]   
+WANG YP, REN T, WANG TT, 2019. Determination and comparison of nutritive components of Quinoa and other grains[J].Modern Food,(22): 164-166.[王艳萍，任婷，王童童，2019.藜麦 与燕麦、糙米等5种谷物营养成分的测定与比较[J].现代食品，(22):164-166.]   
+WILSON H,1990. Quinoa and relatives(Chenopodium sect. Chenopodium subsect. Cellulata.) [J]. Econ Bot, 5: 253-263.   
+YANG FR,2O15. Breeding and application prospects of new variety Chenopodium quinoa cv. Longli1[J].Gansu Agric Sci Technol,(12):1-5.[杨发荣，2015.藜麦新品种陇藜1号的选育 及应用前景[J].甘肃农业科技，(12):1-5.]   
+YU F, 2017. Comparative cvtogentics on Medicago sttiva L. and related species[D]. Beijing: University of Chinese Academyof Sciences:1-89.[喻凤，2017.苜蓿近缘种属的比较细胞遗 传学研究[D].北京：中国科学院大学：1-89.]   
+YUAN FM,QUAN YJ, CHEN ZG, 2018.Effects of sodium stress on seed germination of Chenopodium quinoa Willd.[J].JArid Land Reso Envi,32(11): 182-187.[袁飞敏，权有娟，陈 志国，2018.不同钠盐胁迫对藜麦种子萌发的影响[J].干旱区资源与环境，32(11):182-187.]   
+ZHANG HS,LIU YX,LI W, 2018. Study on the extraction method of total alkaloids from C.foetidum[J].High Indus Sci Tech,34(8):41-42.[张洪慎，刘义行，李伟.菊叶香藜总生物碱 的提取方法探究[J].轻工科技，34(8):41-42.]   
+ZHANG L, GUO H, BAO AK, 2019. The unique salt-secreting structures of halophytes: salt bladders[J].Acta Phytophysiol Sin,55(3):232-240.[张乐，郭欢，包爱科 2019.盐生植物的独 特泌盐结构—盐囊泡[J].植物生理学报，55(3):232-240.]   
+ZHANG WW, MENG XJ, WAN WX, et al., 2015. Resources for wild plants of Chenopodiaceae in Hebei province[J].Hebei JForestry Orchard Res,30(4): 419-423.[张薇薇，孟祥普，万五星, 等,2015.河北省藜科(Chenopodiaceae)野生植物资源研究[J].河北林果研究，30(4):419-423.]

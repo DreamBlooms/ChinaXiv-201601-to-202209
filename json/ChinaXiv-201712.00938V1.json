@@ -1,0 +1,280 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛蒡子苷通过抑制内质网应激减轻晚期氧化蛋白产物诱导的HK-2细胞间充质转分化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "章俊'，黄丽丽1²,梁秀洁',王悦',段 娜¹，向晓红'，束双双',郭婷婷',杨 蕾',汤 珣'1南方医科大学珠江医院肾内科,广东广州 510280;南方医科大学第五附属医院肾内科,广东广州 510900摘要：目的 探讨牛蒡子苷对AOPPs诱导的肾小管上皮细胞EMT的影响及其机制。方法 将体外培养的人肾小管上皮细胞(HK-2细胞)分为3组:牛血清白蛋白(BSA)组、AOPPs组、AOPPs $\\Game$ 牛蒡子苷组,用Western blotting和实时荧光定量PCR分别检测细胞E-cadherin、vimentin和GRP78的蛋白和mRNA表达水平;以DCFH-DA为荧光探针,流式细胞术检测细胞内活性氧水平。结果 与BSA组相比,AOPPs组的上皮细胞标志性蛋白E-cadherin的蛋白和mRNA表达水平下调、间充质细胞标志性蛋白vimentin 和内质网应激标志性蛋白GRP78的蛋白和mRNA表达水平上调、细胞内活性氧水平升高;与AOPPs组相比， ${ \\mathrm { A O P P s } } +$ 牛蒡子苷组E-cadherin蛋白和mRNA表达水平上调、vimentin 和GRP78的蛋白和mRNA表达水平下调、细胞内活性氧水平降低。结论 牛蒡子苷可能通过抑制内质网应激进而减轻AOPPs诱导的肾小管上皮细胞EMT的发生,且氧化应激参与该过程。关键词：牛蒡子苷;内质网应激;间充质转分化;晚期氧化蛋白产物;HK-2细胞",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Arctiin amelioratesadvanced oxidation protein product-induced epithelial-tomesenchymal transition in HK-2 cells by inhibiting endoplasmic reticulum stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANGJun'HANGLil,ANGiuje',NGue',A,Niaohngangshag,GOg Lei,TANGX   \nDepartmentogialudicleitygpmtf Affiliated Hospital,SouthernMedicalUniversity,Guangzhou 51o9o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective To investigate theefect of arctinon advanced oxidation protein product (AOPP)-induced epithelial-to-mesenchymal transition (EMT)in tubularcelsandexplore themechanisms underlying this efect.Methods Human proximal tubular cels (HK-2 cels were treated with bovine serum albumin (BSA)or AOPPs in the presence or absence ofarctin.The expressonsofE-cadherin,vimentin,andGRP78attheproteinand mRNA levels inthecels were examined using Western blotting and quantitative real-time PCR.The levelof reactive oxygen species (ROS)was measured by flowcytometrywith DCFH-DA as the fluorescent probe. Results Compared with BSA-treated cels,，thecels treated with AOPPs showed decreased expresionof epithelial cell marker E-cadherinand overexpresionof mesenchymal marker vimentin and endoplasmic reticulum stress marker GRP78 with an increased ROS level.These changes induced by AOPs were partly inhibitedby arctin.Conclusion Arctin can ameliorate AOPP-induced EMT in tubularcell by inhibiting endoplasmic reticulum stress, and oxidative stress response may participate in this process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsarctin;endoplasmicreticlumstres;epithelial-t-mesenchyal transition;advancedoxidationproteinproducts; HK-2 cells ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肾脏纤维化是各种慢性肾脏病(chronic kidneydiseases,CKD)进行性发展至终末期肾病(end stage ofrenaldisease,ESRD)的共同途径，延缓和防治肾纤维化是防治CKD进展的关键[1]。近年来大量证据表明，肾小管上皮细胞间质转分化(epithelial-to-mesenchymaltransition,EMT)在肾脏纤维化中发挥着重要作用[2-6]因此，阻断EMT的发生可能为延缓肾脏纤维化的发生及减缓CKD的进展具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛蒡子苷(arctiin)是从植物牛蒡的干燥成熟果实中提取分离的木质素类化合物，具有抗炎、免疫调节、抗过敏、抗肿瘤药理作用。近年来越来越多的研究表明，牛蒡子苷可用于延缓CKD的进展[7-8]。但关于牛蒡子苷发挥作用的具体分子机制尚未清楚。晚期氧化蛋白产物(advanced oxidation protein products,AOPPs)是由Sarsat9等于1996年首次在慢性肾衰患者血浆中发现的一类尿毒症毒素，其主要成分是血清白蛋白酪氨酸残基氧化后形成的蛋白交联产物。AOPPs水平在轻度的慢性肾功能不全患者循环中即已开始升高，且随着肾功能的恶化进行性增高[9\"]。我们近期的研究表明,AOPPs可通过激活内质网应激导致肾小管上皮细胞发生EMT[12-13]此外，我们以往的研究提示，牛子苷可能通过抑制内质网应激减轻AOPPs导致的足细胞转分化[14]。然而，牛蒡子苷是否可减轻AOPPs诱导的肾小管上皮细胞EMT的发生，及内质网应激在此过程中的作用目前尚未明确。本研究主要探讨牛蒡子苷对AOPPs导致的肾小管上皮细胞EMT发生的影响，及探讨内质网应激是否介导了此过程的发生，旨在进一步阐明牛蒡子苷防治CKD的具体机制，为牛蒡子苷临床应用于治疗CKD提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1细胞株与实验试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HK-2细胞株为人肾小管上皮细胞的永生系，购自美国ATCC细胞库;DMEM/F12细胞培养液、胎牛血清(FBS)（美国Gibco公司）;无内毒素牛血清白蛋白(BSA,美国Sigma);2,7-二氯二氢荧光素乙酰乙酸(DCFH-DA,美国Sigma);E-钙黏素(E-cadherin)和葡萄糖调节蛋白78(GRP78)一抗（美国SantaCruz);vimentin一抗（美国CST)；ECL检测试剂盒(美国Millipore);Trizol试剂(美国Invitrogen);cDNA第一链合成试剂盒和SYBRPremixExTaqTM荧光定量PCR试剂盒（日本TaKaRa);E-cadherin、vimentin、GRP78及内参照β-actin引物由生工生物工程上海(股份)有限公司合成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 体外制备AOPP-BSA 将不含游离氨基酸、碳水化合物及脂类成分的BSA与 $2 0 0 \\mathrm { m m o l / L }$ 次氯酸按1:140摩尔比混合，避光室温反应 $3 0 ~ \\mathrm { m i n }$ 后，制备出不含糖基化终产物结构的AOPP-BSA。制备的AOPP-BSA在无菌PBS中透析过滤 $2 4 \\mathrm { h }$ 以除去游离的HOC1,并过Detoxi-Gel柱去除内毒素。AOPPs含量通过测定酸性条件下 $3 4 0 ~ \\mathrm { n m }$ 的光吸收，以氯胺T为标准取得。通过上述方法制备的AOPP-BSA的AOPP含量为 $6 5 . 2 \\pm$ $2 . 1 2 \\mathrm { n m o l / m g }$ 蛋白，未经修饰的BSA中AOPP的含量为$0 . 2 { \\pm } 0 . 0 4 ~ \\mathrm { n m o l / m g }$ 蛋白。制备的所有AOPP-BSA均经实验法测定内毒素含量。内毒素含量低于 $0 . 2 5 \\mathrm { E U } / \\mathrm { m L } _ { \\circ }$ 1.2.2HK-2细胞的培养 将HK-2细胞培养与含 $10 \\%$ FBS的DMEM/F12培养液中，胰酶消化后接种于6孔板，换为无血清的DMEM/F12培养基中使细胞同步生长 $2 4 \\mathrm { h } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 实验分组根据我们前期研究[12.14],将细胞分为3组，(1)BSA组： $2 0 0 ~ \\mu \\mathrm { g / m L }$ BSA作用 $2 4 \\mathrm { ~ h ~ }$ ; (2)AOPPs组， $2 0 0 ~ \\mu \\mathrm { g / m L }$ AOPPs作用 $2 4 \\mathrm { h } ; ( 3 ) \\mathrm { A O P P s } + \\cdot$ 牛蒡子苷组， $4 0 0 \\mu \\mathrm { m o l / L }$ 牛蒡子苷预处理1h后,给予 $2 0 0 ~ \\mu \\mathrm { g / m L }$ AOPPs作用 $2 4 \\mathrm { h }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c077ec29e72fbc7c9628d887153c774cf9b736c31827621f7d2bd9fed47e009.jpg",
+        "table_caption": [
+            "表1基因引物序列及扩增产物大小Tab.1Primer sequences for QPCR"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene name</td><td>Primer sequence</td><td>Product size (bp)</td></tr><tr><td rowspan=\"2\">E-cadherin</td><td>Forward:5'-TGATTCTGCTGCTCTTGCTG-3'</td><td rowspan=\"2\">122</td></tr><tr><td>Reverse:5'-CTCTTCTCCGCCTCCTTCTT-3'</td></tr><tr><td rowspan=\"2\">Vimentin</td><td>Forward:5'-AGAGAACTTTGCCGTTGAAGC-3'</td><td rowspan=\"2\">100</td></tr><tr><td>Reverse:5'-ACGAAGGTGACGAGCCATT-3'</td></tr><tr><td rowspan=\"2\">GRP78</td><td>Forward:5'-AAAGAAGACGGGCAAAGATG-3'</td><td rowspan=\"2\">102</td></tr><tr><td>Reverse:5'-GCTTGATGCTGAGAAGACAGG-3'</td></tr><tr><td rowspan=\"2\">β-actin</td><td>Forward:5'-TGGCACCCAGCACAATGAA-3'</td><td rowspan=\"2\">186</td></tr><tr><td>Reverse:5'-CTAAGTCATAGTCCGCCTAGAAGCA-3'</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4实时荧光定量PCR(QPCR）按实验分组不同处理HK-2细胞后，用Trizol法提取各样本细胞总RNA，于紫外分光光度仪检测RNA含量及纯度。参照试剂盒说明书操作反转录合成cDNA。采用SYBRPremixExTaqTM荧光定量PCR试剂盒检测，管家基因 $\\beta \\mathrm { . }$ -actin作为内参,引物序列见表1。反应条件为 $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $2 ~ \\mathrm { m i n }$ $9 4 ~ \\mathrm { ^ { \\circ } C }$ 变性 $1 5 \\mathrm { ~ s } , 6 0 \\mathrm { ~ \\textdegree C }$ 退火延伸30s，扩增40个循环。上述实验重复3次。采用2-DDCt法进行统计分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5Western blotting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞培养及干预方法同上。AOPPs作用 $2 4 \\mathrm { h }$ 后用RIPA裂解细胞后提取细胞蛋白，采用BCA法测定蛋白浓度。行聚丙烯酰氨凝胶电泳后转膜至硝酸纤维膜。用 $5 \\% \\mathrm { B S A }$ 封闭2h后加入一抗， $4 \\mathrm { { ^ { \\circ } C } }$ 孵育过夜。吸弃一抗，TBST洗膜， $1 5 \\mathrm { m i n } /$ 次，共3次，然后用TBST稀释二抗，室温杂交 $\\boldsymbol { 1 } ~ \\mathbf { h } _ { \\mathrm { o } }$ TBST洗膜, $1 5 ~ \\mathrm { m i n } ,$ 次，共3次，然后室温下ECL显色。以 $\\beta$ -actin作为内参。ImageJ软件分析确定杂交条带的相对吸光度值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 细胞内活性氧水平(ROS)的检测 采用荧光探针法检测。将细胞干预后，用PBS洗细胞3次，加入终浓度为 $1 { \\times } 1 0 ^ { - 5 } ~ \\mathrm { m o l / L }$ 的荧光探针(DCFH-DA)，按流式细胞仪检测要求处理细胞并检测 $1 0 ^ { 4 } \\cdot$ 个细胞内DCF的荧光强度，反映细胞内ROS生成量。激发光波长 $4 8 8 ~ \\mathrm { n m }$ 发射波长 $5 3 0 \\mathrm { n m } ,$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7统计学方法各组实验均重复3次以上。计量数据以均数 $\\stackrel { \\cdot \\cdot } { \\pm }$ 标准差表示，多组间比较采用单因素方差分析。方差齐时，组间两两比较比较采用LSD法；方差不齐时，组间两两比较采用Dunnett'sT3法。采用SPSS20.0统计分析软件进行数据分析。 $P { < } 0 . 0 5$ 视为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1牛蒡子苷可减轻AOPPs诱导的HK-2细胞EMT ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了探讨牛蒡子苷在AOPPs诱导HK-2细胞发生EMT过程中的作用,我们将细胞分为三组：(1)BSA组、(2)AOPPs 组、(3)AOPPs $^ +$ 牛蒡子苷组。Westernblotting和QPCR的结果显示，AOPPs组E-cadherin的蛋白和mRNA表达水平较BSA对照组下降，而AOPPs组vimentin的蛋白和mRNA表达水平较BSA对照组升高，组间比较差异有统计学意义（均 $P { < } 0 . 0 5$ )。此外，${ \\mathrm { A O P P s } } +$ 牛蒡子苷组E-cadherin的蛋白和mRNA表达水平较AOPPs组明显升高，而vimentin的蛋白和mRNA表达水平较AOPPs组明显下降，组间比较差异有统计学意义（均 $P { < } 0 . 0 5$ ，图1)。提示牛蒡子苷可能减轻AOPPs诱导的HK-2细胞EMT。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/140715868c244cdf665fbefa5aae7b556dd9d9cc11fcbc7b3ecedbd302ba0881.jpg",
+        "img_caption": [
+            "图1牛蒡子苷可减轻AOPPs诱导的HK-2细胞EMT Fig.1 Arctiin ameliorates AOPP-induced EMT in HK-2 cells.Western blotting $( A , B )$ and QPCR $( C , D )$ results showing the expression of E-cadherinand vimentin in HK-2cels treated with BSAorAOPPs in the presence or absence with arctin. $^ { * } P <$ $0 . 0 5 v s$ BSA-treated cells, $^ { * } P { < } 0 . 0 5$ vs AOPP-treated cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2牛蒡子苷可减轻AOPPs激活的HK-2细胞内质网 应激 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Westernblotting和QPCR的结果显示， $2 0 0 ~ \\mu \\mathrm { g / m L }$ AOPPs作用HK-2细胞 $2 4 \\mathrm { h }$ 后，GRP78的蛋白和mRNA表达水平较BSA对照组升高，组间比较差异有统计学意义(均 $P { < } 0 . 0 5 \\$ 。 ${ \\mathrm { A O P P s } } +$ 牛蒡子苷组GRP78的蛋白和mRNA表达水平较AOPPs组明显降低(均 $P { < } 0 . 0 5 )$ 。见图2。提示牛蒡子苷可能减轻AOPPs激活的HK-2细",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "胞内质网应激。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3牛蒡子苷可减轻AOPPs诱导的HK-2细胞胞内活性氧的产生",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "已知内质网应激与氧化应激密切相关。本研究中，我们也探讨了氧化应激在牛蒡子苷减轻AOPPs诱导的HK-2细胞EMT过程中的作用。流式细胞仪检测结果显示， $2 0 0 ~ \\mu \\mathrm { g / m L }$ AOPPs作用HK-2细胞 $2 4 \\mathrm { ~ h ~ }$ 后，活性氧的水平较BSA对照组升高，组间比较差异有统计学意义(均 $P { < } 0 . 0 5 )$ 。 ${ \\mathrm { A O P P s } } +$ 牛蒡子苷组活性氧水平较AOPPs组明显降低，组间比较差异有统计学意义（均 $P <$ 0.05)。见图3。提示牛蒡子昔可能减轻AOPPs诱导的HK-2细胞内活性氧的产生。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/42f2ffd3433568f6abb80f61c9112722730a8820210d5536c10b14ca2727532f.jpg",
+        "img_caption": [
+            "图2牛蒡子苷可减轻AOPPs诱导的HK-2细胞内质网应激 Fig.2Arctin inhibits AOPP-induced endoplasmic reticulum stress in HK-2 cells.Western blotting (A)and qPCR $( B )$ results showing the GRP78 expresson in HK-2cels treated with BSA or AOPPs in the presence or absence with arctin. $^ { * } P { < } 0 . 0 5 \\ v s$ BSA-treated cells, $^ { \\# } P { < } 0 . 0 5 \\ v s$ AOPP-treated cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84f27a9f30ad16ba93f405eee0bc1fb1595d3bb245d949c639179486e90cadad.jpg",
+        "img_caption": [
+            "图3牛蒡子苷可减轻AOPPs诱导的HK-2细胞内胞 活性氧产生 Fig.3 Arctiin decreases AOPP-increased the ROS level in HK-2 cells. $^ { * } P { < } 0 . 0 5$ vs BSA-treated cells, $^ { * } P <$ 0.05 vs AOPP-treated cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管目前关于肾小管上皮细胞EMT对肾脏纤维化的作用尚有争议，如Kriz等[15质疑在肾小管上皮细胞EMT对体内肾脏纤维化的作用；Lebleu等学者最近的一项研究表明，在肾脏纤维化中，仅 $5 \\%$ 肌成纤维细胞细胞来源肾小管上皮细胞间充质转分化。但近年来越来越多的研究表明，肾小管上皮细胞EMT可致肾脏纤维化[1-6.17],且最近研究提示目前关于体内环境中EMT对肾脏纤维化的贡献程度差异可能与使用的动物实验模型有关[3。因此，防治肾小管EMT对于减轻肾脏纤维化和防治CKD的进展具有重要意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EMT是指完全分化成熟的上皮细胞失去其上皮细胞标志物，如E-cadherin和ZO-1,并获得新的间充质细胞标志物，如 $\\mathfrak { a }$ -SMA和vimentin，最后细胞表型发生转分化，转变为肌成纤维细胞。因此，本研究中，我们将E-cadherin和vimentin作为肾小管上皮细胞转分化的指标。本实验结果提示，AOPPs可使HK-2细胞的E-cadherin的表达下调，并使vimentin的表达上调,进一步证实了AOPPs可诱导EMT的发生。而牛蒡子苷可减轻AOPPs诱导的HK-2细胞的E-cadherin的表达下调，并可减轻AOPPs诱导vimentin的表达上调，提示牛蒡子苷可能减轻AOPPs诱导的HK-2细胞EMT的发生(图1)。既往研究表明，牛蒡子苷可能改善STZ诱导的糖尿病肾病大鼠的肾小球滤过率屏障损害，及可改善肾小球肾炎大鼠的肾功能[8],但关于牛蒡子苷对AOPPs所致肾小管损害的研究尚无报道。本研究首次证明了牛蒡子苷可能减轻AOPPs诱导的HK-2细胞EMT的发生，进一步揭示了牛蒡子苷减轻CKD进展的分子机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于各种原因引起的内质网中出现错误折叠或未折叠蛋白在腔内聚集及 $\\mathrm { C a } ^ { 2 + }$ 平衡紊乱的状态，称为内质网应激。早期适度的内质网应激有利于增强细胞耐受应激刺激的能力，而持续而严重的内质网应激则可造成细胞肥大、增生、分化和凋亡。内质网可通过激活未折叠蛋白反应以保护由内质网应激引起的细胞损伤，恢复细胞功能。未折叠蛋白反应是由1个内质网分子伴侣GRP78和3个内质网应激感受蛋白（PERK，ATF6,IRE1)介导。当内质网功能正常时,PERK、ATF6、IRE1分别与分子伴侣GRP78结合，处于失活状态，当内质网应激发生时，未折叠蛋白在内质网内堆积是GRP78从3个感受蛋白上解离，转而去结合未折叠蛋白[18]。故GRP78可作为内质网应激发生的标志性蛋白。本研究结果提示，牛蒡子苷可减轻AOPPs诱导的GRP78的表达，提示牛蒡子苷可减轻AOPPs激活的HK-2细胞内质网应激(图2)。有报道提示牛蒡子苷元(arctigenin)可通过激活AMPK信号通路减轻棕榈酸盐诱导的INS-1细胞内质网应激[19],但目前还未见牛蒡子苷可减轻AOPPs诱导的HK-2细胞内质网应激的报道，本研究首次证明了牛蒡子苷可减轻AOPPs激活的HK-2细胞内质网应激。此外，我们最近的研究表明，AOPPs可通过激活内质网应激诱导HK-2细胞EMT的发生[12-13]。结合本研究结果，我们推测牛蒡子昔可能通过抑制内质网应激进而减轻AOPPs诱导的HK-2细胞EMT的发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大量的研究表明，内质网应激与氧化应激密切相关[20-22]。本研究还探讨氧化应激是否参与了牛蒡子苷通过减轻内质网应激进而减轻AOPPs诱导的HK-2细胞EMT的过程。本研究实验结果提示牛蒡子苷可能通过减少活性氧的产生进而减轻AOPPs诱导HK-2细胞EMT过程(图3)。我们的前期研究亦提示，介导AOPPs诱导肾小管上皮细胞发生EMT和肥大过程的内质网应激与氧化应激有关[12]。我们推测牛蒡子苷可能通过减轻内质网应激进而减轻AOPPs诱导的HK-2细胞EMT，且氧化应激也参与了此过程。然而，在此过程中，内质网应激与氧化应激的具体关系尚待阐明。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究首次揭示了牛蒡子苷可能通过减轻内质网应激进而减轻AOPPs诱导的肾小管上皮细胞EMT的发生，且氧化应激参与了此过程。本研究进一步阐明了牛蒡子苷改善CKD肾功能的分子机制，为临床应用牛蒡子昔治疗CKD提供了理论依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Bielesz B,Sirin Y, Si H,et al.Epithelial notch signaling regulates interstitial fibrosis development in the kidneys of mice and humans [J].JClin Investig,2010,120(11): 4040-54.   \n[2]Carew RM,Wang B,Kantharidis P.The role of EMT in renal fibrosis[J].Cell Tissue Res,2012,347(1):103-16.   \n[3]Inoue T,Umezawa A,Takenaka T,et al． The contribution of epithelial-mesenchymal transition to renal fibrosis difers among kidney disease models[J].KidneyInt, 2015,87(1): 233-8.   \n[4]Kalluri R,Neilson EG.Epithelial-mesenchymal transition and its implications for fibrosis[J].J Clin Invest,2003,112(12): 1776-84.   \n[5]Liu YH. Epithelial to mesenchymal transition in renal fibrogenesis: Pathologic significance,molecular mechanism,and therapeutic intervention[J].JAm Soc Nephrol,2004,15(1): 1-12.   \n[6]Liu Y. New insights into epithelial-mesenchymal transition in kidney fibrosis[J].JAm Soc Nephrol,2010,21(2): 212-22.   \n[7]Ma ST,Liu DL,Deng JJ,et al.Effect of arctiin on glomerular filtration barrier damage in STZ-induced diabetic nephropathy rats [J].Phytother Res,2013,27(10):1474-80.   \n[8]Wu JG,Wu JZ,Sun LN,etal.Ameliorative effects of arctiin from Arctium lappa on experimental glomerulonephritis in rats [J]. rnytomeuicine, zUuy,10(II): 1055-41.   \n[9]Witko-SarsatV，FriedlanderM,Capeillere-Blandin C,etal. Advanced oxidation protein products as a novel marker of oxidative stress in uremia[J].Kidney Int,1996,49(5): 1304-13.   \n[10]Li HY,Hou FF,Zhang X,etal. Advanced oxidation protein products accelerate renal fibrosis in a remnant kidney model[J].J Am Soc Nephrol,2007,18(2): 528-38.   \n[11]Liu B,Hou X, Zhou Q,et al.Detection of advanced oxidation protein products in patients with chronic kidney disease by a novel monoclonal antibody[J]. Free Radic Res,2011,45(6): 662-71.   \n[12]Tang X, Rong G, Bu Y, et al. Advanced oxidation protein products induce hypertrophy and epithelial-to-mesenchymal transition in human proximal tubular cells through induction of endoplasmic reticulum stress[J].Cell Physiol Biochem,2015,35(2): 816-28.   \n[13]Tang X,Liang X,Li M,et al. ATF6 pathway of unfolded protein response mediates advanced oxidation protein product-induced hypertrophy and epithelial-to-mesenchymal transition in HK-2 cells [J].Mol Cell Biochem,2015,407(1/2): 197-207.   \n[14] Zhang J,Guo T T,Yang L,et al. Effect of arctin on mouse podocyte epithelial-mesenchymal transition induced by advanced oxidation protein products[J]. Nan Fang Yi Ke Da Xue Xue Bao, 2012,32(3): 379-82.   \n[15]Kriz W, Kaissling B,Le Hir M.Epithelial-mesenchymal transition (EMT) in kidney fibrosis: factor fantasy?[J]. JClin Investig,2011, 121(2): 468-74.   \n[16]Lebleu VS,Taduri G,O'connell J,et al. Origin and function of myofibroblasts in kidney fibrosis [J]．Nat Med,2013，19(8): 1047-53.   \n[17]Loeffler I, Wolf G. Epithelial-to-Mesenchymal transition in diabetic nephropathy:fact or fiction?J]. Cells,2015,4(4): 631-52.   \n[18] Kitamura M. Endoplasmic reticulum stress and unfolded protein response in renal pathophysiology:Janus faces[J].Am J Physiol Renal Physiol,2008,295(2): F323-34.   \n[19]Gu Y, Sun XX, Ye JM,et al. Arctigenin alleviates ER stress via activating AMPK[J].Acta Pharmacol Sin,2012,33(7): 941-52.   \n[20] Gregor MF,Hotamisligil GS.Thematic review series: Adipocyte Biology.Adipocyte stress: the endoplasmic reticulum and metabolic disease[J]. JLipid Res,2007,48(9): 1905-14.   \n[21]Xue X,Piao JH,Nakajima A,et al. Tumor necrosis factor alpha (TNFalpha）induces the unfolded protein response (UPR）in a reactive Oxygen species (ROS)-dependent fashion,and the UPR counteracts ROS accumulation by TNFalpha[J].J Biol Chem, 2005,280(40): 33917-25.   \n[22]Holtz WA,Turetzky JM, Jong YJ,et al. Oxidative stress-triggered unfolded protein response is upstream of intrinsic cell death evoked by parkinsonian mimetics[J].JNeurochem,2006,99(1): 54-69. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 4
+    }
+]

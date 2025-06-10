@@ -1,0 +1,382 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.161122 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙晓，景建元，吕慎强，尚浩博，李娜，田肖肖，李嘉，王吕，王林权．不同缓/控释尿素在黄土台塬区春玉米的减量施用 效果[J].中国生态农业学报,2017,25(6):848-855 Sun X, Jing JY,LuSQ,ShangHB,LiN,TianXX,LiJ,WangL,WangLQ.Efectofdierentratesofsloonroledre lease urea on nitrogencontentinspring maizeinloess highlands[J].ChineseJourmalofEco-Agriculture,20l7,25(6):848-855 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同缓/控释尿素在黄土台塬区春玉米的减量施用效果",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙晓¹，景建元¹，吕慎强，尚浩博¹，李娜¹，田肖肖}，李嘉，王吕，王林权1,2\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.西北农林科技大学资源环境学院杨凌712100;2.农业部西北植物营养与农业环境重点实验室杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文通过田间试验研究了覆膜条件下，黄土台塬区6种缓/控释尿素减量施用对春玉米产量、氮肥利用率及氮素累积量等的影响，以确定适合本地区春玉米施用的缓/控释氮肥品种和用量，为本地区春玉米简约、高效施肥技术提供理论依据与技术支撑。以春玉米品种‘先玉335'为供试作物，设9个处理，分别为不施氮肥处理(NO)、农户常规施氮处理[普通尿素，施氮量 $2 2 5 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,N225]、普通尿素减量处理[施氮量 $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,N180]和6种缓/控释尿素减量处理[施氮量 $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 。6种缓/控释尿素分别为树脂尿素、控失尿素(CLU)、硫包衣尿素(SCU)、脲甲醛(UF)、多肽尿素和稳定尿素。在玉米各生育时期采集地上部植株样品及耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 土样，分析耕层土壤无机氮含量，测定玉米植株氮素累积量及产量。施用氮肥可显著增加玉米产量，增产率在 $2 8 \\% { \\sim } 6 5 \\%$ 。与N225相比，N180玉米产量显著降低 $1 9 . 1 \\%$ ，但各缓/控释尿素(减量 $20 \\%$ )一次基施没有明显的减产效应，其中SCU与CLU分别增产 $4 . 5 \\%$ 和 $2 . 7 \\%$ 。与农户常规施肥相比,N180降低经济效益 $2 \\ 0 5 1 \\ \\mathrm { \\Psi } \\cdot \\mathrm { h m } ^ { - 2 }$ ；各缓/控释尿素(除UF)可增加玉米氮素累积量、提高氮肥利用率 $2 . 2 6 \\% { \\sim } 1 2 . 6 9 \\%$ ，经济效益提高 $3 4 7 { \\sim } 1 ~ 7 4 7 ~ { \\psi } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，氮肥利用率和经济效益以 SCU、CLU最高。大喇叭口期—吐丝期，缓/控释尿素氮素释放量大可能是提高氮肥吸收和利用率的原因之一。控失尿素和硫包衣尿素等缓/控释尿素减量 $( 2 0 \\% )$ 并一次性基施，能维持产量不降低，提高氮肥利用率和经济收益，节约劳动力成本，可作为黄土台塬区春玉米简约化减量化施肥的一种选项。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：春玉米；产量；缓/控释尿素；氮素累积量；氮肥利用率；减氮施肥中图分类号：S143.1 文献标识码：A 文章编号：1671-3990(2017)06-0848-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of different rates of slow/controlled release urea on nitrogen content in spring maize in loess highlands ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Xiao1, JING Jianyuan1,LYU Shenqiang', SHANG Haobo1,LI $\\mathrm { { N a } } ^ { 1 }$ , TIAN Xiaoxiao1, LI Jia',WANGLyu',WANGLinqua, (1.ColegeofNaturalResourcesandEnvironment,NorthwestA&FUniversityYangling71China;2.KeyLaboratoryofPlant Nutrition and Agri-environment in Northwest China,Ministry of Agriculture, Yangling 71210o, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Afield experimentwasconductedunderplasticfilmmulchingconditionsinthehighlandsoftheLoessPlateauareato studythe effectsofdifferentratesofdiffrenttypesofslowandcontrolledreleaseurea (viabasalapplicationatreducedrate)on grainyield,nitrogenueefciencyandnitrogenaccmulationinspringaie.Theaiofthesdywas todeteinethetiumtype andapplicationrateofsloworcontrolledreleaseureaviasimplifiedandeffcientfertlization techniquesforspringmaizeproductionin thestudyarea.Spring maizecultivarused in thestudywas ZemaysL.cv.Xianyu335.Theexperimentconsistedofnine treatmentsno $\\mathrm { \\Delta N }$ use (NO), farmer conventional N fertilization [common urea with application rate of $2 2 5 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ , N225], common urea $\\mathrm { \\Delta N }$ reduction (application rate of $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,N180],and N rate reduction with six kinds of slow or controlled release urea [application rate of $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ , i.e., resin coated urea (RCU), controlled loss urea (CLU),sulfur coated urea (SCU), urea formaldehyde (UF),polypeptide urea (PU) and stabilized urea (SU). Plant and soil $\\mathrm { 0 - 2 0 ~ c m }$ layer) samples were collected at different growth stages for analysis of grain yield,plant $\\mathrm { \\Delta N }$ accumulation and soil inorganic $\\mathrm { \\Delta N }$ concentration.The application of $\\mathrm { \\Delta N }$ fertilizer increased grain yield of maize by $2 8 \\% - 6 5 \\%$ relative to N0. Compared with N225, N180 decreased grain yield by $1 9 . 1 \\%$ . The applicationofRCU,UF,PUandSUdidnotsignificantlyreducegrainyield,while the applicationofSCUand CLUincreased grain yield by $4 . 5 \\%$ and $2 . 7 \\%$ ,respectively. Compared with N225,N180 reduced net income by $2 \\ 0 5 1 \\ \\mathrm { \\Psi } \\mathrm { \\Psi } \\cdot \\mathrm { h m } ^ { - 2 }$ . A total of six slow or controlled release urea (except for UF) increased plant N accumulation,but increased N use effciency by $2 . 2 6 \\% - 1 2 . 6 9 \\%$ and net income by $3 4 7 - 1 7 4 7 ~ { \\updownarrow \\cdot \\mathrm { h m } } ^ { - 2 }$ . The highest $\\mathrm { ~  ~ { ~ N ~ } ~ }$ use efficiency and economic benefits were observed under SCU and CLU treatments. Greater $\\mathrm { ~ N ~ }$ uptake and $\\mathrm { ~ N ~ }$ use efficiency in slow or controlled release urea treatments partly resulted from greater N release during hugebelbottm stage to silking stage.Slow orcontrolled release urea (including CLUand SCU)via basal application at reduced amount (by $20 \\%$ ） maintained grain yield, improved N use efficiency and economic benefits,and saved laborcost.Therefore,it wasrecommended forusedasanoption forsimplifiedand eficient fertilizationin spring maize production in similar areas in the Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Spring maize; Grain yield; Slow/controlled releaseurea; Nitrogenaccumulation; Nitrogen use eficiency; Reduced N application ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "施用氮肥是玉米增产的一项重要栽培措施[1]。由于片面追求高产，我国农田氮肥用量不断攀升，但氮肥利用率只有 $32 \\%$ 左右，与发达国家的$50 \\% { \\sim } 6 0 \\%$ 相差甚远[2]，氮肥浪费非常严重。而且，过量施氮引起土壤酸化、地下水污染、温室气体排放等一系列环境问题[3-5]。近些年，随着社会的发展,城镇化速度加快，进城务工人员增多，造成农村生产力不足。因此，为保障作物产量，减轻氮素污染，节省劳动力投入，实现农业生产简约化，开展氮肥减量增效研究十分必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土台塬区土地辽阔，是黄土高原地区重要粮食生产基地，春玉米(Zea maysL.)是该地区主要粮食作物之一。但春玉米施肥技术单一，基本以基肥 $^ +$ 追肥模式为主，肥料过量施用，劳动力投入大。而缓/控释肥料自20世纪90年代以来在我国农业、肥料制造业等行业和相关领域备受关注[6]。缓/控释氮肥具有养分释放与作物吸收同步的优点，能促进作物生长、降低氮素损失、提高产量和氮肥利用率[7-8]，是实现简化施肥的重要技术产品[9]。在玉米[10-11]、冬小麦(Triticum aestivum L.)[12]、马铃薯(Solanum tu-berosum L.)[13]、油菜(Brassica campestris L.)[14]、辣椒(Capsicum annuum L.)[15]等大田作物上有显著的增产效果。吕东波等[16]研究结果表明，不同缓控尿素能够显著提高土壤总有机氮含量。王寅等[17]研究表明，在相同施氮水平下，控释氮肥或控释氮肥与尿素掺混施均可增加植株氮素吸收，提高氮肥利用率。但由于缓/控释尿素因控释原理、制造工艺、土壤条件、地域差异及作物生长发育的不同，不同类型缓/控释尿素的肥效在不同地区差异很大。目前，缓/控释尿素在华北或东北平原旱地玉米上的研究较多，且集中在1种类型缓/控释尿素增产效应方面[18-19],对于多种缓/控释尿素在黄土台塬区春玉米上减量施用还有待研究。因此，本文选取生产中应用较广、具代表性的6种缓/控释尿素，在地膜覆盖条件下，研究其在黄土台塬区一次性减量施肥对春玉米籽粒产量、氮肥利用率、氮素累积量和耕层土壤无机氮动态的影响，旨在为黄土台塬区春玉米氮肥简约、减量化施肥技术提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于 2016 年在西北农林科技大学水土保持研究所长武农业生态试验站进行，该试验站位于黄土高原中南部陕西省长武县洪家镇王东村 $( 1 0 7 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { E }$ $3 5 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { N } )$ ，海拔 $1 ~ 2 0 0 ~ \\mathrm { ~ m ~ } _ { \\circ }$ 属暖温带半湿润大陆性季风气候，年均降水 $5 8 0 ~ \\mathrm { m m }$ ，年均气温 $9 . 1 ~ \\mathrm { { ^ { 9 } C } }$ ，无霜期172d，属典型旱作农业区。该试验地基础肥力，全氮$0 . 7 9 \\ : \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，速效磷 $7 . 7 8 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $1 4 2 . 9 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 有机质 $1 3 . 5 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ， $\\mathrm { p H } 8 . 0 6 _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验选用‘先玉335'为春玉米试验材料。6种缓/控释氮肥处理分别为：树脂尿素(RCU)、控失尿素(CLU)、硫包衣尿素(SCU)、脲甲醛(UF)、多肽尿素(PU)和稳定尿素(SU)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验采用完全随机区组设计，包含9个处理：不施氮肥处理(NO)、农户常规施氮处理[普通尿素，施氮量 $2 2 5 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，N225]、普通尿素减量处理[施氮量 $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $\\mathrm { N } 1 8 0 _ { \\cdot } ^ { \\cdot }$ 和6种缓/控释尿素减量处理[施氮量 $1 8 0 \\ \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ] _ { \\mathsf { c } }$ ，农户常规施氮处理(N225)，氮肥分别作基肥和追肥(大喇叭口期)，基追比为 $3 : 2 _ { \\circ }$ 其余各处理氮肥均为基肥一次性沟施于土壤。各小区均施用 $8 0 \\ \\mathrm { k g } ( \\mathrm { K } _ { 2 } \\mathrm { O } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ （ $4 0 \\mathrm { ~ k g } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，作基肥一次性施入。各小区耕作方式为平作覆膜(覆膜方式为半膜覆盖)，膜间种植，每小区种植8行，每个处理重复3次。播种量65000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ，行距 $5 5 \\ \\mathrm { c m }$ ，株距 $2 5 ~ \\mathrm { c m } _ { \\circ }$ 小区面积 $4 0 \\mathrm { m } ^ { 2 } ( 8 . 7 \\mathrm { m } { \\times } 4 . 6 \\mathrm { m } ) .$ 。2016年4月23日播种,9月17日收获，生育期 $1 4 7 \\mathrm { d } _ { \\circ }$ 各氮肥含氮量及价格详见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1供试不同种类缓/控释尿素和普通尿素的含氮量及价格",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1dc31b98c23def0ad6034a5c4f5a51c9dabc227f87fc85d53de88e23070252fd.jpg",
+        "table_caption": [
+            "Table1Nitrogen contents and prices of urea and different types of slow/controlled release urea used in the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">肥料种类Fertilizer type</td><td rowspan=\"2\">含氮量 Nitrogen content (%)</td><td rowspan=\"2\">价格 Price (¥·t-1)</td></tr><tr><td>名称 Name</td><td>缩写 Abbreviation</td></tr><tr><td>树脂包衣尿素 Resin coated urea</td><td>RCU</td><td>44</td><td>2100</td></tr><tr><td>控失尿素 Controlled loss urea</td><td>CLU</td><td>42</td><td>2050</td></tr><tr><td>硫包衣尿素</td><td>SCU</td><td>32</td><td>1 700</td></tr><tr><td>Sulfur coated urea 脲甲醛</td><td></td><td></td><td></td></tr><tr><td>Urea formaldehyde</td><td>UF</td><td>39</td><td>3200</td></tr><tr><td>多肽尿素 Polypeptide urea</td><td>PU</td><td>46</td><td>1600</td></tr><tr><td>稳定尿素</td><td>SU</td><td>46</td><td>1800</td></tr><tr><td>Stabilized urea 普通尿素Urea</td><td></td><td>46</td><td>1450</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产量与产量构成因素：春玉米成熟期，每小区春玉米收获其中2行，测量果穗数量和总鲜重，从2行所收果穗中随机选取15穗，用以考查穗部性状，晒干脱粒，分析产量构成。产量由各小区所取的15穗籽粒产量折算得到(含水量以 $14 \\%$ 计)。植株各器官(茎鞘、叶片、雄穗、苞叶、籽粒、穗轴)全氮用$\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } { \\cdot } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 消煮，AA3 流动分析仪测定[20]；耕层$( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 土壤无机氮含量用 $1 \\ \\mathrm { \\ m o l { \\cdot } L ^ { - 1 } }$ KC1 浸提,AA3 流动分析仪测定[20]。主要计算指标如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经济效益 $( \\yen \\cdot h \\mathbf { m } ^ { - 2 } ) =$ 籽粒产量 $\\times$ 玉米价格-投入",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "成本",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植株氮素累积量 $\\scriptstyle [ \\mathbf { k g } ( \\mathbf { N } ) \\cdot \\mathbf { h m } ^ { - 2 } ] =$ 籽粒干重 $\\times$ 籽粒氮素含量 $\\cdot +$ 其他器官干重 $\\times$ 其他器官氮素含量 (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "籽粒氮素累积量 $\\scriptstyle [ \\mathbf { k g } ( \\mathbf { N } ) \\cdot \\mathbf { h m } ^ { - 2 } ] =$ 籽粒干重 $\\times$ 籽粒 氮素含量 (3) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮收获指数(氮转移效率， $\\% =$ 籽粒氮素累积量/ 植株氮素累积量 $\\times 1 0 0$ (4) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮肥利用率 $( \\% ) = 1$ 施氮处理植株地上部氮素累积量-不施氮处理植株地上部氮素累积量)/施氮量$\\times 1 0 0$ (5)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮肥效率(氮肥农学效率, $\\mathbf { k g } { \\cdot } \\mathbf { k g } ^ { - 1 } .$ )=(施氮肥区产 量-不施氮肥区产量)/施氮肥量 (6) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SAS9.1对试验数据进行单因素方差分析和多重比较(LSD 法)，采用Origin8.0 绘制数据图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同施肥处理对春玉米产量与产量构成的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，产量最高为 $\\mathrm { S C U } ( 1 2 3 1 5 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 其次为 CLU( $1 2 ~ 1 0 8 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ 和 $\\mathrm { N } 2 2 5 ( 1 1 7 8 6 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ) _ { c }$ 与不施氮相比，施氮可显著提高籽粒产量$2 ~ 0 6 2 { \\sim } 4 ~ 8 5 3 ~ \\mathrm { \\ k g { \\cdot } h m } ^ { - 2 }$ ，增产 $2 8 \\text{‰}$ 与 N225 相比,N180产量显著降低 $1 9 . 1 \\%$ ；各缓/控释尿素处理产量无显著下降，其中 SCU与CLU分别增产 $4 . 5 \\%$ 和 $2 . 7 \\text{‰}$ 各缓/控释尿素处理与 $ { \\mathrm { N } }  { \\mathrm { 1 8 0 } }$ 相比，产量显著提高$1 7 . 4 \\% { \\sim } 2 9 . 3 \\%$ 。各缓/控释尿素处理之间，产量无显著差异。穗粒数表现趋势与产量基本一致。与不施氮相比，施氮可显著增加穗粒数111.6\\~178.4。与N225相比,N180穗粒数显著下降47.4；各缓/控释尿素处理无显著下降。与N180相比，各缓/控释尿素处理(除UF)穗粒数显著增加 $3 8 . 4 { \\sim } 6 6 . 8 \\$ ；与UF相比，SCU 和 CLU 穗粒数显著增加 35.3 和 36.3。$\\mathrm { C L U } ( 3 1 4 . 3 \\ \\mathrm { g } )$ 千粒重最高，其次为 $\\mathrm { S C U } ( 3 1 2 . 8 \\ \\mathrm { g } )$ 。施氮处理对千粒重影响不大，除CLU与SCU千粒重显著增加，其他处理与不施肥处理相比，无显著差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同施肥处理对氮素累积量及氮收获指数的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表3所示, $\\mathrm { C L U } [ 1 9 7 . 2 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 植株氮素累积量最高，其次为 $\\mathrm { S C U } [ 1 9 1 . 8 2 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 和N225一 $\\mathrm { 1 9 1 . 1 8 ~ k g ( N ) { \\cdot } h m ^ { - 2 } } ] _ { \\circ }$ 与不施氮相比，施氮处理的植株氮素累积量显著增加 $5 9 . 3 2 { \\sim } 9 0 . 0 7 ~ \\mathrm { k g ( N ) { \\cdot } h m ^ { - 2 } } ,$ 。与N225相比,N180植株氮素累积量显著降低 $2 4 . 7 3 \\mathrm { \\ k g ( N ) ^ { . } h m ^ { - 2 } }$ 各缓/控释尿素处理植株氮素累积量无显著降低。与N180相比，各缓/控释尿素处理(除UF)植株氮素累积量增加了 $8 . 1 { \\sim } 3 0 . 7 5 ~ \\mathrm { k g ( N ) { \\cdot } h m } ^ { - 2 }$ ，均达到显著水平。籽粒氮素累积量表现趋势与植株氮素累积量较一致。与不施氮相比，各施氮处理籽粒氮素积累量增加$3 5 . 0 6 { \\sim } 7 6 . 9 8 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。与N225相比,N180 籽粒氮素累积量显著降低 $3 0 . 1 1 \\mathrm { \\ k g ( N ) ^ { . } h m ^ { - 2 } }$ ；与N180相比，各缓/控释尿素(除UF、SU)籽粒氮素累积量显著增加$2 2 . 5 0 { \\sim } 3 5 . 5 6 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ 。与不施氮相比，各施氮处理的氮收获指数无显著差异。与N225相比，N180氮收获指数显著降低；与N180相比，各缓/控释氮肥处理(除UF、SU)氮收获指数显著提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b62db4e1d958f564879d708d944e329e565fa7e807fd1426a499bae612a34636.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "NO、N180、N225为不施氮肥、施尿素 $\\overline { { 1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } } }$ (减氮)和 $2 2 5 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (常规氮)处理，其他缓/控释尿素处理的施氮量为 $\\overline { { 1 8 0 \\ k g ( N ) { \\cdot } h { \\ m } ^ { - 2 } } }$ 。同列 数据不同字母表示差异达0.05 显著水平。N0,N180 and N225 are treatments of urea application with rates $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (nitrogen reduction) and $2 2 5 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (conventional nitrogen).Thentrogenappicationrateof treatments ofsloworcontrolledreleaseurea is $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ . Different lettes in the same column mean significant differences at 0.05 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>穗粒数 Grain number per ear</td><td>千粒重 1000-grain weight (g)</td><td>籽粒产量 Grain yield (kg·hm-2)</td><td>增产幅度 Yield increase range (%)</td></tr><tr><td>N0</td><td>488.8±10.94d</td><td>281.5±11.88b</td><td>7 462±379c</td><td>1</td></tr><tr><td>N225</td><td>647.8±16.16ab</td><td>305.6±11.89ab</td><td>11 786±216a</td><td>58</td></tr><tr><td>N180</td><td>600.4±23.98c</td><td>300.1±8.02ab</td><td>9 524±664b</td><td>28</td></tr><tr><td>RCU</td><td>646.9±16.59ab</td><td>306.4±10.38ab</td><td>11 397±678a</td><td>53</td></tr><tr><td>CLU</td><td>667.2±22.52a</td><td>314.3±7.81a</td><td>12 108±547a</td><td>62</td></tr><tr><td>SCU</td><td>666.2±16.24a</td><td>312.8±11.21a</td><td>12 315±534a</td><td>65</td></tr><tr><td>UF</td><td>630.9±14.30bc</td><td>298.1±8.30ab</td><td>11 187±541a</td><td>50</td></tr><tr><td>PU</td><td>644.2±15.30ab</td><td>304.0±11.52ab</td><td>11 304±578a</td><td>51</td></tr><tr><td>SU</td><td>638.8±16.06ab</td><td>288.4±14.01ab</td><td>11 214±526a</td><td>50</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/399cc99c35a9cc8b6a8a4eaad330dcc0f0f46940f8efd151aa0fdf21bb1b2f3a.jpg",
+        "table_caption": [
+            "表2不同施氮处理春玉米产量及产量构成 Table 2Yields and yield components of spring maize under different N fertilization treatments ",
+            "表3不同施氮处理春玉米氮素累积量及氮收获指数 Table3Naccumulation and Nharvest index(NHI, $\\%$ )of springmaize under differentNfertilization treatment "
+        ],
+        "table_footnote": [
+            "NO、N180、N225为不施氮肥、施尿素 $\\overline { { 1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } } } ($ 减氮)和 $2 2 5 \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (常规氮)处理，其他缓/控释尿素处理的施氮量为 $\\overline { { 1 8 0 \\ k g ( N ) \\cdot \\mathrm { h m } ^ { - 2 } } }$ 9 同列数据不同字母表示差异达 0.05 显著水平。N0,N180 and N225 are treatments of urea application with rates $0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (nitrogen reduction) and $2 2 5 \\mathrm { \\ k g ( N ) ^ { \\bullet } h m } ^ { - 2 }$ (conventional nitrogen). The nitrogen application rate of treatments of slow or controlled release urea is $1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ .Different letters in the same column mean significant differences at O.05 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>植株氮素累积量 Plant N(N).-hmulation</td><td>籽粒氮累积量 Grain N(N)-hmulation</td><td>氮收获指数 N harvest index</td></tr><tr><td>N0</td><td>107.13±4.82e</td><td>77.74±3.44e</td><td>72.57±2.71ab</td></tr><tr><td>N225</td><td>191.18±1.94ab</td><td>142.91±7.34a</td><td>74.75±5.23a</td></tr><tr><td>N180</td><td>166.45±1.33d</td><td>112.80±4.34d</td><td>67.77±3.27b</td></tr><tr><td>RCU</td><td>184.39±9.66bc</td><td>136.97±8.70ab</td><td>74.28±1.57a</td></tr><tr><td>CLU</td><td>197.20±7.68a</td><td>148.36±6.03a</td><td>75.23±2.76a</td></tr><tr><td>SCU</td><td>191.82±2.69ab</td><td>145.61±8.04a</td><td>75.91±1.92a</td></tr><tr><td>UF</td><td>174.55±4.17cd</td><td>122.54±6.93cd</td><td>70.20±2.52ab</td></tr><tr><td>PU</td><td>182.50±3.53bc</td><td>135.30±6.05abc</td><td>74.14±2.19a</td></tr><tr><td>SU</td><td>178.43±8.39c</td><td>125.39±5.04bcd</td><td>70.27±2.60ab</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同施肥处理对氮肥利用率及经济效益的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表4所示， $\\mathrm { C L U } ( 5 0 . 0 4 \\%$ 氮肥利用率最高，其次为 $\\mathrm { S C U } ( 4 7 . 0 5 \\% )$ 。与普通尿素相比，缓/控释尿素提高氮肥利用率。与N225相比，各缓/控释尿素处理(除",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UF)氮肥利用率提高 $2 . 2 6 \\% { \\sim } 1 2 . 6 9 \\%$ ，其中CLU和SCU氮肥利用率分别显著提高 $12 . 6 9 \\%$ 和 $9 . 7 0 \\%$ 。与N180相比，各缓/控释尿素处理的氮肥利用率显著增加$4 . 4 9 \\% \\small { \\sim } 1 7 . 0 8 \\%$ 氮肥农学效率规律与氮肥利用率基本一致。与 N255相比,N180农学效率显著降低 $7 . 7 7 \\mathrm { k g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 各缓/控释尿素处理的氮肥农学效率增加$1 . 4 7 { \\sim } 7 . 7 4 ~ \\mathrm { { \\ k g / k g } ^ { - 1 } }$ ，其中，SCU与CLU分别显著增加$7 . 7 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $6 . 5 9 \\ \\mathrm { \\ k g { \\cdot } k g ^ { - 1 } }$ 。经济效益以 SCU(16 467$\\yen 123,456$ 最高，其次为CLU( $1 6 2 3 3 \\Psi \\mathrm { h m } ^ { - 2 } )$ 。与NO相比，施氮处理经济效益增加 $2 ~ 5 2 6 { \\sim } 6 ~ 3 2 4 ~ \\Psi \\mathrm { { · } h m } ^ { - 2 } ,$ 。各施氮处理中，$\\mathrm { N } 1 8 0 ( 1 2 6 6 9 \\Psi \\mathrm { h m } ^ { - 2 } )$ 经济效益最低。与N225相比,N180经济效益降低 $2 \\thinspace 0 5 1 \\ \\Psi { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；各缓/控释尿素处理(除UF)经济效益提高 $3 4 7 { \\sim } 1 7 4 7 { \\updownarrow } { \\cdot } \\mathrm { h m } ^ { - 2 } .$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0bf64d0e5190be3a3efa6defa85ab8d21aa5f394e4f19f77ac37836475ab795.jpg",
+        "table_caption": [
+            "表4不同施氮处理氮肥利用率、氮肥农学效率及经济效益 Table 4Nitrogen use eficiency (NUE),agronomic nitrogen eficiency (ANE)and economic performance under different fertilization treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>氮肥利用率 Nitrogen use efficiency (%)</td><td>Agronoe(icency (kg·kg-1)</td><td>Eco经济benefit (￥·hm−2)</td></tr><tr><td>N0</td><td></td><td>一</td><td>10 143</td></tr><tr><td>N225</td><td>37.35±3.20cd</td><td>19.22±2.02c</td><td>14 720</td></tr><tr><td>N180</td><td>32.96±2.88d</td><td>11.45±1.20d</td><td>12 669</td></tr><tr><td>RCU</td><td>42.92±2.84bc</td><td>21.86±0.92abc</td><td>15186</td></tr><tr><td>CLU</td><td>50.04±5.48a</td><td>25.81±1.88ab</td><td>16 233</td></tr><tr><td>SCU</td><td>47.05±4.82ab</td><td>26.96±1.45a</td><td>16 467</td></tr><tr><td>UF</td><td>37.45±2.82cd</td><td>20.69±3.63c</td><td>14 253</td></tr><tr><td>PU</td><td>41.87±4.54bc</td><td>21.35±2.56bc</td><td>15 280</td></tr><tr><td>SU</td><td>39.61±4.71c</td><td>20.84±2.88bc</td><td>15067</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NO、N180、N225为不施氮肥、施尿素 $\\overline { { 1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ( \\not \\Omega ) } }$ 成氮）和 $2 2 5 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (常规氮)处理，其他缓/控释尿素处理的施氮量为 $\\overline { { 1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } } } _ { \\mathrm { ~ c ~ } }$ （204号 2016年先玉335'玉米籽粒为 $1 . 5 \\sharp \\cdot \\mathrm { k g } ^ { - 1 }$ ，耕地费用为 $1 ~ 0 5 0 ~ \\Psi \\cdot \\mathrm { h m } ^ { - 2 }$ 。本文只计算耕地、肥料投入和追肥 $( 1 2 0 0 \\ast \\cdot \\mathrm { h m } ^ { - 2 } ,$ 劳动力成本投入，其他投入处 理间相同，没有计算在内。同列数据不同字母表示差异达0.05 显著水平。 $\\mathrm { \\Delta N 0 }$ ,N180 and N225 are treatments of urea application with rates $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (nitrogen reduction） and $2 2 5 \\mathrm { \\ k g ( N ) ^ { \\bullet } h m } ^ { - 2 }$ (conventional nitrogen). The nitrogen application rate of treatments of slow or controlled release urea is $1 8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ . In 2016,the price of corn grain was $1 . 5 ~ \\mathrm { \\sharp \\cdot k g ^ { - 1 } }$ ,the cultivated land cost was $1 \\ 0 5 0 \\ \\Psi \\cdot \\mathrm { h m } ^ { - 2 }$ . This paper only calculated tillage,fertilization and labor costs $( 1 ~ 2 0 0 ~ \\mathrm { \\# \\cdot h m } ^ { - 2 } ,$ ),other investment were not included in the calculation.Different letters in the same column mean significant differences at O.05 level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 不同施肥处理对氮素阶段积累量及日均累积量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着春玉米生育进程，植株氮素累积量逐渐升高，阶段累积量与日均累积量呈现先上升后下降的趋势 (表5)。播种一拔节期，氮素阶段累积量为10.39\\~13.93 $\\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，日均累积量为0.26\\~0.35$ { \\mathrm { k g ( N ) } } \\cdot  { \\mathrm { h m } } ^ { - 2 } \\cdot  { \\mathrm { d } } ^ { - 1 }$ ，该阶段氮素累积量最高为SU；拔节一大喇叭口期，玉米进入旺盛的生长阶段，阶段氮素累积量最高，为 $5 9 . 1 8 { \\sim } 8 4 . 1 2 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，日均累积量为 $2 . 3 7 { \\sim } 3 . 3 7 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 。大喇叭口一吐丝期氮素累积量均有不同程度下降，该阶段氮素累积量为 $5 . 1 0 { \\sim } 4 5 . 5 6 ~ \\mathrm { \\ k g ( N ) { \\cdot } h m } ^ { - 2 }$ ，日均氮素累积量为$0 . 2 3 { \\sim } 2 . 0 7 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，该阶段氮素累积量最高为N225；吐丝一乳熟期氮素累积量为25.61\\~71.29$\\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，日均氮素累积量为 $0 . 9 1 { \\sim } 2 . 5 5$ $\\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ；乳熟一成熟期阶段氮素累积量为$3 . 0 4 { \\sim } 3 6 . 1 4$ $\\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，日均氮素累积量为$0 . 0 9 { \\sim } 1 . 1 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 。SCU和CLU阶段氮素累积量分别于吐丝一乳熟期、乳熟一成熟期显著高于N225。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 不同施肥处理下对耕层 $\\mathbf { ( 0 { \\sim } 2 0 ~ c m ) }$ 土壤无机氮的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1表明，不同施肥处理在玉米不同生育时期土壤耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 无机氮含量差异显著，其中不施氮处理始终处于较低水平，施氮处理在春玉米各生育期变化较大。拔节期SU土壤无机氮含量显著升高，为 $1 9 . 5 4 ~ \\mathrm { \\ m g ^ { \\cdot } k g ^ { - 1 } }$ ；大喇叭口期RCU、CLU 和 SCU土壤无机氮含量显著升高，分别为 $2 0 . 1 7 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ 、$1 8 . 1 4 ~ \\mathrm { \\ m g ^ { \\cdot } k g ^ { - 1 } }$ 和 $2 0 . 2 8 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ；由于大喇叭口期追肥，吐丝期N225土壤无机氮含量显著升高，为$1 7 . 0 9 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ ；乳熟期各处理土壤无机氮含量均显著降低，为 $5 . 0 3 { \\sim } 7 . 6 2 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ ；成熟期各施肥处理土壤无机氮含量与乳熟期基本持平，为 $5 . 1 7 { \\sim } 7 . 5 6 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米大喇叭口期到吐丝期是玉米吸收养分最多最快的时期，也是养分最大效率期[21-22]。因此，大喇叭口期追肥是玉米施肥中最重要的一次追肥。本研究结果证明，由于大喇叭口期追肥，农户常规施氮处理(N225)，吐丝期土壤耕层 $( 0 { \\sim } 2 0 \\ \\mathrm { c m } )$ 无机氮含量显著升高，阶段氮素累积量也为最高。说明在玉米关键生育时期追肥有利于增加植株氮素累积量，提高氮肥利用率，进而有利于后期产量的形成；而普通尿素减量 $20 \\%$ 一次性基施(N180)处理，大喇叭口期的耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 土壤无机氮含量低，乳熟一成熟期阶段氮素累积量非常低。说明普通氮肥一次性基施与玉米需肥规律不匹配，且在春玉米生长发育后期有脱氮现象，影响产量形成，减产 $1 9 . 1 \\%$ 。但玉米大喇叭口期追肥费时费力，需要大量劳动力，这与当前农村劳动力短缺相矛盾。能否通过延长氮肥肥效，减少追肥次数?缓/控释能否满足一次性基施？与普通尿素减量 $20 \\%$ 一次性基施(N180)不同，各种",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eebf2bf510bff695a265f1d51a02f15295f7c23bd1ab9d8703304b30d8575efc.jpg",
+        "table_caption": [
+            "表5不同施氮处理氮素阶段积累量及日均累积量",
+            "Table 5Daily and period nitrogen accumulation under different treatments "
+        ],
+        "table_footnote": [
+            "NO、N180、N225为不施氮肥、施尿素 $\\overline { { 1 8 0 \\ k g ( N ) { \\cdot } h \\ m ^ { - 2 } } }$ (减氮)和 $2 2 5 \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (常规氮)处理，其他缓/控释尿素处理的施氮量为 $\\overline { { 1 8 0 \\ k g ( N ) { \\cdot } h { \\ m } ^ { - 2 } } }$ 。 同列数据不同字母表示差异达 0.05 显著水平。NO,N180 and N225 are treatments of urea application with rates $0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 8 0 \\ \\mathrm { k g ( N ) ^ { \\cdot } h m } ^ { - 2 }$ (nitrogen reduction)and $2 2 5 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (conventional nitrogen).The nitrogen application rate of treatments of slow or controlled release urea is $1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ .Different letters in the same column mean significant differences at O.O5 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>播前一拔节期 Sowing-jointing stage</td><td>拔节一大喇叭口期 Jointing-huge bellbottom stage</td><td>大喇叭口一吐丝期 Huge bellbottom-silking stage</td><td>吐丝一乳熟期 Silking-milk stage Milk-maturity stage</td><td>乳熟一成熟期</td></tr><tr><td colspan=\"6\">阶段累积量 Period N accumulation [kg(N) ·hm-2]</td></tr><tr><td>N0</td><td>10.30±1.03c</td><td>59.18±6.49e</td><td>5.10±0.42d</td><td>25.61±3.14e</td><td>6.85±1.24bcd</td></tr><tr><td>N225</td><td>11.30±1.57bc</td><td>65.21±3.77d</td><td>45.56±5.62a</td><td>53.37±3.88bc</td><td>15.74±1.23bcd</td></tr><tr><td>N180</td><td>12.65±1.31abc</td><td>71.65±3.30bcd</td><td>34.54±4.71ab</td><td>44.57±3.28cd</td><td>3.04±0.54d</td></tr><tr><td>RCU</td><td>12.06±1.42abc</td><td>84.12±7.97a</td><td>14.51±2.29c</td><td>54.68±4.31b</td><td>19.01±1.75b</td></tr><tr><td>CLU</td><td>12.89±0.54ab</td><td>79.22±6.92ab</td><td>33.70±5.86b</td><td>35.25±3.86d</td><td>36.14±4.12a</td></tr><tr><td>SCU</td><td>12.61±1.73abc</td><td>68.88±5.92cd</td><td>33.39±4.95b</td><td>71.29±8.55a</td><td>5.65±0.54cd</td></tr><tr><td>UF</td><td>13.09±1.02ab</td><td>64.92±5.56d</td><td>18.42±1.76c</td><td>49.24±5.86bcd</td><td>28.89±3.12ab</td></tr><tr><td>PU</td><td>11.81±0.72abc</td><td>77.59±4.83abc</td><td>41.49±3.91ab</td><td>38.26±2.27d</td><td>13.35±1.71bcd</td></tr><tr><td>SU</td><td>13.93±1.50a</td><td>81.00±4.50ab</td><td>23.34±2.18c</td><td>43.48±5.65d</td><td>16.68±2.52bc</td></tr><tr><td colspan=\"6\">日均累积量 Daily N accumulation [kg(N)·hm-2-d-1]</td></tr><tr><td>N0</td><td>0.26±0.03c</td><td>2.37±0.26e</td><td>0.23±0.02d</td><td>0.91±0.11e</td><td>0.21±0.04bcd</td></tr><tr><td>N225</td><td>0.28±0.04bc</td><td>2.61±0.15d</td><td>2.07±0.26a</td><td>1.91±0.14bc</td><td>0.48±0.04bcd</td></tr><tr><td>N180</td><td>0.32±0.03abc</td><td>2.87±0.13bcd</td><td>1.57±0.21ab</td><td>1.59±0.12cd</td><td>0.09±0.02d</td></tr><tr><td>RCU</td><td>0.30±0.04abc</td><td>3.37±0.32a</td><td>0.66±0.10c</td><td>1.95±0.15b</td><td>0.57±0.05b</td></tr><tr><td>CLU</td><td>0.32±0.01ab</td><td>3.17±0.28ab</td><td>1.53±0.27b</td><td>1.26±0.14d</td><td>1.10±0.13a</td></tr><tr><td>SCU</td><td>0.32±0.04abc</td><td>2.76±0.24cd</td><td>1.52±0.23b</td><td>2.55±0.31a</td><td>0.17±0.02cd</td></tr><tr><td>UF</td><td>0.33±0.03ab</td><td>2.60±0.22d</td><td>0.84±0.08c</td><td>1.76±0.21bcd</td><td>0.88±0.09ab</td></tr><tr><td>PU</td><td>0.30±0.02abc</td><td>3.10±0.19abc</td><td>1.89±0.18ab</td><td>1.37±0.08d</td><td>0.40±0.05bcd</td></tr><tr><td>SU</td><td>0.35±0.04a</td><td>3.24±0.18ab</td><td>1.06±0.10c</td><td>1.55±0.20d</td><td>0.51±0.08bc</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f935eb84f5f0f1894b1649eb5701dba96bcbc1128f632d118de50a77ac7bcdc5.jpg",
+        "img_caption": [
+            "图1不同施氮处理耕层 $\\mathbf { ( 0 { \\sim } 2 0 ~ c m ) }$ 土壤无机氮含量变化 Fig.1Inorganic nitrogen contents in $( 0 { - } 2 0 ~ \\mathrm { c m } )$ topsoil under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NO、N180、N225为不施氮肥、施尿素 $1 8 0 ~ \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ （减氮） 和 $2 2 5 \\mathrm { \\ k g ( N ) ^ { . } h m } ^ { - 2 }$ (常规氮)处理，其他缓/控释尿素处理的施氮量 为 $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。Ps、V6、V12、R1、R3、R6分别表示播前、 拔节、大喇叭口、吐丝、乳熟和成熟期。NO，N180 and N225 are treatments of urea application with rates $0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (nitrogen reduction） and $2 2 5 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (conventional nitrogen). The nitrogen application rate of treatments of slow or controlled release urea is $1 8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ .Different letters in the same column mean significant differences at O.05 level.Ps,V6,V12,R1,R3 andR6 represent pre-sowing stage, jointing stage,huge bellbottom stage,silking stage, milk stage and physiological maturity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "缓/控释尿素一次性减量施肥没有显著降低玉米产量，SCU和CLU两种缓/控释尿素还具有增产效应，说明缓/控释尿素的缓释效应明显。这可由春玉米生育期耕层 $( 0 { \\sim } 2 0 \\ \\mathrm { c m } )$ 土壤无机氮动态变化所证实。RCU、SCU和CLU等氮素释放集中在大喇叭口期，其土壤耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 无机氮含量显著高于普通尿素处理，这与玉米的需肥规律基本一致，因此这些缓控释尿素处理植株氮素累积量大、氮肥利用率也高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在氮肥减量 $20 \\%$ 并一次性基施条件下，相比N180，SCU和CLU等缓/控释尿素均显著提高穗粒数和植株氮素累积量，从而使产量和氮肥利用率同步提高。这与前人在等氮条件下，缓/控释氮肥与普通氮肥相比，显著提高产量和氮肥利用率[23-24]的结果是一致的，但各缓/控释尿素在黄土台塬区的缓、控释效果有差异。脲甲醛(UF)土壤耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 无机氮含量呈先略微上升后下降的趋势，可能由于脲甲醛肥料施入土壤后，经过微生物的降解才能被植物吸收利用[25]，氮素释放较为缓慢，在氮素需求量大的时期(拔节期一大喇叭口期)，氮素释放不足，不能满足植株氮素需求，直接影响作物生长发育，进而影响产量[26]，因此脲甲醛(UF)植株氮素累积量和产量效应较差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与农户常规施氮相比，普通尿素减量 $20 \\%$ 并一次性基施显著减产 $1 9 . 1 \\%$ ；各缓/控释尿素一次性基施没有明显的减产效应。各缓/控释尿素(除UF)虽价格偏高，但其减量并全部基施，能提高氮肥利用率，维持作物高产，降低肥料和劳动力成本，使其经济效益均高于农户常规施氮。脲甲醛(UF)经济效益相对农户常规施氮偏低，是由于脲甲醛缓释肥料养分释放速度与玉米植株需氮规律不吻合，产量相对较低且肥料价格过高等原因造成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合产量、氮肥利用率及耕层 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 土壤无机氮含量动态变化等因素综合考虑，可选用控失尿素(CLU)和硫包衣尿素(SCU)作为黄土台塬区春玉来氮肥减量增效施用技术的缓/控释氮肥，以减少氮肥施用、降低劳动力投入、减轻氮素残留，提高施肥的经济效益和社会效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]宁堂原，焦念元，李增嘉，等．施氮水平对不同种植制度下 玉米氮利用及产量和品质的影响[J].应用生态学报，2006, 17(12): 2332-2336 Ning TY,Jiao NY,Li ZJ,et al.Effects ofN application rate on N utilization,yield and quality of maize under different cropping systems[J]. Chinese Journal of Applied Ecology, 2006,17(12): 2332-2336   \n[2]淮贺举，张海林，蔡万涛，等．不同施氮水平对春玉米氮素 利用及土壤硝态氮残留的影响[J].农业环境科学学报, 2009,28(12): 2651-2656 Huai HJ,Zhang HL,Cai W T,et al.Effect of different nitrogen rates on nitrogen utilization and residual soil nitrate of spring maize[J]. Journal of Agro-Environment Science,2009, 28(12): 2651-2656   \n[3]Yang Y, Zhou C J,LiN,et al. Effects of conservation tillage practices on ammonia emissions from Loess Plateau rain-fed winter wheat fields[J].Atmospheric Environment,2015,104: 59-68   \n[4]孟红旗，刘景，徐明岗，等．长期施肥下我国典型农田耕层 土壤的 pH演变[J].±壤学报,2013,50(6):1109-1116 Meng HQ,LiuJ,Xu MG,et al.Evolution of pHin topsoils of typical Chinese croplands under long-term fertilization[J]. Acta Pedologica Sinica,2013,50(6):1109-1116   \n[5]杨林章，冯彦房，施卫明，等．我国农业面源污染治理技术 研究进展[J].中国生态农业学报,2013,21(1):96-101 Yang L Z,FengYF,Shi WM,et al. Review of the advances and development trends in agricultural non-point source pollution control in China[J]. Chinese Journal of Eco-Agriculture, 2013,21(1): 96-101   \n[6]樊小林，刘芳，廖照源，等．我国控释肥料研究的现状和展 望[J]．植物营养与肥料学报，2009,15(2):463-473 Fan XL,LiuF,Liao ZY,et al.The status and outlook for the study of controlled-release fertilizers in China[J].Plant Nutrition and Fertilizer Science,2009,15(2):463-473 植物营养与肥料学报,2014,20(4):783-795 Ju X T,Gu B J. Status-quo,problem and trend of nitrogen fertilization in China[J]. Journal of Plant Nutrition and Fertilizer,2014,20(4): 783-795 [9]王宜伦，李潮海，王瑾，等．缓/控释肥在玉米生产中的应 用与展望[J]．中国农学通报,2009,25(24):254-257 Wang Y L,Li C H, Wang J, et al. Application and prospect of slow/controlled release fertilizers in maize production[J]. Chinese Agricultural Science Bulletin,2009,25(24): 254-257   \n[10] Chilundo M,Joel A,Wesstrom I,et al. Effects of reduced irrigation dose and slow release fertiliser on nitrogen use efficiency and crop yield in a semi-arid loamy sand[J].Agricultural Water Management,2016,168: 68-77   \n[11] 郭萍，黄科程，李孝东，等．普通、控释尿素配比对玉米物 质积累及产量的影响[J]．水土保持学报，2017，31(1): 191-196 Guo P,Huang K C,Li X D,et al. Effects of combined application of control-released urea and urea on dry matter accumulation and yield of maize[J]. Journal of Soil and Water Conservation,2017,31(1): 191-196   \n[12]郑沛，宋付朋，马富亮．硫膜与树脂膜控释尿素对小麦不 同生育时期土壤氮素的调控及其产量效应[J]．水土保持学 报,2014,28(4): 122-127 Zheng P,Song FP,Ma FL.Influence of controlled release urea coated by sulfur and polymer on soil nitrogen in different growth stages of wheat[J].Journal of Soil and Water Conservation,2014,28(4): 122-127   \n[13]刘飞，张民，诸葛玉平，等．马铃薯玉米套作下控释肥对土 壤养分垂直分布及养分利用率的影响[J]．植物营养与肥料 学报,2011,17(6): 1351-1358 Liu F，Zhang M,Zhuge Y P,et al. Effects of controlled-release fertilizer on vertical distribution of soil nutrients and nutrient use eficiencies under potato and maize relay cropping system[J]. Plant Nutrition and Fertilizer Science, 2011,17(6): 1351-1358   \n[14] Geng JB,Sun Y B,Zhang M,et al. Long-term effects of controlled release urea application on crop yields and soil fertility under rice-oilseed rape rotation system[J].Field Crops Research,2015,184: 65-73   \n[15] 王崇力，韩桂琪，徐卫红，等．专用缓释肥的土壤氨挥发特 性及其对辣椒氮磷钾吸收利用的影响[J]．中国生态农业学 报,2014,22(2): 143-150 Wang C L,Han G Q,Xu W H,et al. Characteristics of soil ammonia volatilization and the absorption and utilization of nitrogen，phosphorusand potassium of pepperunder slow-release fertilizer application[J]. Chinese Journal of Eco-Agriculture,2014,22(2): 143-150   \n[16]吕东波，吴景贵，李建明，等．不同缓控尿素对春玉米产 量、品质及土壤有机氮的动态影响[J]．水土保持学报,2016, 30(3): 165-170 Lü D B,Wu JG,Li JM, et al. Effects of different slow controlled release urea on yield,quality of spring maize and soil organic nitrogen dynamic[J]. Journal of Soil and Water Conservation,2016,30(3):165-170   \n[17]王寅，冯国忠，张天山，等．控释氮肥与尿素混施对连作春 玉米产量、氮素吸收和氮素平衡的影响[J].中国农业科学, 2016,49(3): 518-528 Wang Y,Feng G Z, Zhang T S,et al. Effects of mixed application of controlled-release N fertilizer and common urea on grain yield,N uptake and soil N balance in continuous spring maize production[J]. Scientia Agricultura Sinica,2016,49(3): 518-528   \n[18]卢艳丽，白由路，王磊，等．华北小麦一玉米轮作区缓控释 肥应用效果分析[J]．植物营养与肥料学报，2011，17(01): 209-215 Lu $\\texttt { Y L }$ ，Bai $\\texttt { Y L }$ ，Wang L,et al. Efficiency analysis of slow/controlled release fertilizer on wheat-maize in North China[J].Journal of Plant Nutrition and Fertilizer,2011, 17(01): 209-215   \n[19]尹彩侠，刘宏伟，孔丽丽，等．控释氮肥对春玉米干物质积累、 氮素吸收及产量的影响[J].玉米科学,2014,22(06):108-113 Yin C X,Liu H W,Kong L L，et al.Effect of controlled-release nitrogen fertilizer on dry matter accumulation, nitrogen absorption and yield of spring maize[J].Journal of Maize Sciences,2014,22(06): 108-113   \n[20]张英利，许安民，尚浩博，等．AA3型连续流动分析仪测定 土壤和植物全氮的方法研究[J].西北农林科技大学学报: 自然科学版,2006,34(10):128-132 Zhang YL,Xu A M, Shang HB,et al.Determination study of total nitrogen in soil and plant by continuous flow analytical system[J]. Journal of Northwest Sci-Tech University of Agriculture and Forestry:Natural Science Edition,2Oo6,34(10): 128-132   \n[21]王云奇，陶洪斌，黄收兵，等．施氮模式对夏玉米氮肥利用 和产量效益的影响[J]．核农学报,2013,27(2):219-224 Wang Y Q,Tao HB,Huang S B,et al. Effects of nitrogen patterns on nitrogen use and yield benefit of summer maize[J]. Journal of Nuclear Agricultural Sciences，2013,27(2): 219-224   \n[22]姜涛．氮肥运筹对夏玉米产量、品质及植株养分含量的影 响[J]．植物营养与肥料学报,2013,19(3):559-565 Jiang T.Effects of nitrogen application regime on yield, quality and plant nutrient contents of summer maize[J].Journal of Plant Nutrition and Fertilizer,2013,19(3):559-565   \n[23]王宜伦，苗玉红，韩燕来，等．缓/控释氮肥对夏玉米氮代 谢、氮素积累及产量的影响[J].土壤通报，2012，43(1): 147-150 Wang Y L，Miao Y H，Han Y L，et al．Effect of slow/controlled release N fertilizer on N metabolism,N accumulation and yield of summer maize[J]. Chinese Journal of Soil Science,2012,43(1): 147-150   \n[24]于淑芳，杨力，张民，等．控释肥对小麦玉米生物学性状和 土壤硝酸盐积累的影响[J]．农业环境科学学报,2010,29(1): 128-133 Yu SF,Yang L,Zhang M,et al.Effect of controlled release fertilizers on the biological properties of wheat and corn and soil nitrate accumulation[J].Journal of Agro-Environment Science,2010,29(1):128-133   \n[25]黄丽娜，樊小林．脲甲醛肥料对小白菜产量和氮肥利用率 的影响[J]．西北农林科技大学学报：自然科学版，2012, 40(11): 42-46 Huang L N,Fan XL.Effects of urea-formaldehyde fertilizer on yield of Chinese cabbage and its nitrogen use eficiency[J]. Journal of Northwest A&F University:Natural Science Edition,2012,40(11): 42-46   \n[26] 高洪军，朱平，彭畅，等．等氮条件下长期有机无机配施对 春玉米的氮素吸收利用和土壤无机氮的影响[J].植物营养 与肥料学报,2015,21(2):318-325 Gao HJ,Zhu P,Peng C,etal.Effects of partially replacement of inorganic N with organic materials on nitrogen eficiency of spring maize and soil inorganic nitrogen content under the same N input[J]. Journal of Plant Nutrition and Fertilizer, 2015,21(2): 318-325 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

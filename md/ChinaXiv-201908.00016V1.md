@@ -1,0 +1,227 @@
+# 中亚低涡背景下一次短时强降水过程MCS成因分析
+
+李建刚1,²，姜彩莲³，张云惠4，李如琦4，杨莲梅1,2（1中亚大气科学研究中心,新疆乌鲁木齐830002；2中国气象局乌鲁木齐沙漠气象研究所,新疆乌鲁木齐83002；3新疆五家渠市气象局,新疆五家渠831300；4 新疆气象台,新疆乌鲁木齐 830002）
+
+摘要：为了深入了解天山山区中尺度对流系统(MCS)的触发和变化，对发生在新疆伊犁河谷一次中亚低涡背景下的短时强降水过程MCS成因进行了分析。通过利用自动站小时降水数据分析得出此次降水时空分布特征，并基于FY-2G卫星 $T B B$ 产品、多普勒天气雷达数据对MCS的云图和雷达特征进行分析，得出该地区中-β尺度MCS( $\bf { M } _ { \mathrm { { \ell } } \mathrm { { ^ { + } } } } \mathrm { { C S } }$ )具有明显的夜发性和后向传播特征，且分别在山区、平原上空发展和增强并长时间维持，雷达图上强回波带、逆风区和超低空急流的持续出现说明局地对流增强。此外，选取代表站雨强与对应TBB、雷达回波进行分析，发现强降水时段雨强的空间分布与TBB梯度大小成正比，时间分布与回波顶高和垂直液态含水量成正比。利用探空、地面风场以及ERA-Interim再分析资料对MCS形成的大尺度环流背景和中尺度特征进行分析，得出深厚中亚低涡前部局地对流活动的加强触发MCS的生成，中低层多通道水汽输送和局地长时间水汽辐合、大气不稳定层结、中低层的风场辐合和垂直切变、高低层 $\theta _ { \mathrm { s e } }$ 梯度增大以及低层暖平流增强为MCS的发展和维持提供了动热力和水汽条件。
+
+关键 词：中亚低涡；MCS；短时强降水文章编号： 1000-6060(2019)04-0724-11(0724\~0734)
+
+中亚低涡是影响新疆地区重要的冷性涡旋系统,主要形成与咸海以东到中国新疆,与乌拉尔山脊联系紧密，一年四季均可出现,在环流场中表现为$7 0 0 ~ \mathrm { { h P a } }$ 以上对流层中高层闭合气旋式环流[1]
+
+国内气象专家对亚洲东部中纬度的东北冷涡和  
+形成于四川西部地区的西南涡从天气结构、中尺度  
+特征和所引起灾害性天气分布特征等进行了广泛的  
+研究,取得了许多成果[2-7]。但对中亚低涡的相关  
+研究还有待进一步加强和完善。当前的研究表明中  
+亚低涡分为“干涡”和“湿涡”，一般移动比较缓慢，  
+可以不断再生发展，具有一定的准静止性，是造成新  
+疆暴雨（雪）、持续低温天气的重要影响系统之  
+[8-9]O
+
+夏季中亚地区受副热带急流影响，在水汽充沛的条件下易形成“湿涡”，并有明显的降水。位于西天山的伊犁河谷，夏季短时强降水冰雹、雷雨大风等强对流天气时常发生，强降水引发的山洪、泥石流、山体滑坡等次生灾害对当地人民生命和财产造成严重威胁，这些降水过程大部分由不同尺度的中尺度对流系统（MCS)所引起[10-11]。国内外对于 MCS 的研究主要集中在时空分布特征的统计分析[12-18]以及典型天气个例中的中尺度特征分析[19-21]。伊犁河谷不仅拥有特殊的地形，FY-2卫星和多普勒天气雷达的监测范围也覆盖大部地区，因此对于MCS的触发进行研究和分析具有得天独厚的地理和资料优势。
+
+虽然国内学者对于伊犁河谷的降水天气特点进行了总结[22-25],但很少对中亚低涡背景下引发短时强降水的MCS云图和雷达特征进行分析，对MCS生成和发展的环流背景和环境条件进行深入研究就更少了。本文以中亚低涡为切入点，深入分析2015年6月26\~27日发生在伊犁河谷由MCS引发的短时强降水天气过程，揭示中亚低涡背景下MCS的云图和雷达特征、触发的环境条件以及与降水量之间的关系，以提高MCS在新疆西天山地区的演变特点及其对降水的影响方面的认识，
+
+# 研究区概况与方法
+
+研究区域位于新疆西部的伊犁河谷，属温带大陆性气候,北、东、南三面环山，构成“三山夹两谷”的地貌轮廓(图1）。由于地形成开口向西的“喇叭口”状，经常受到来自西风带系统的影响，又处于迎风坡，因此夏季降水充沛，素有“西域湿岛”之称。
+
+采用的地面、探空以及降水资料均来自新疆信息中心,数据已经过相应的检验和质控。FY－2卫星相当黑体亮温(TBB)资料由国家气象卫星中心提供，空间分辨率为 $0 . 1 ^ { \circ } \times 0 . 1 ^ { \circ }$ ,时间分辨率为 $^ \mathrm { ~ 1 ~ h ~ }$ ，数据范围为 $4 5 \sim 1 6 5 ^ { \circ } \mathrm { E } , 6 0 ^ { \circ } \mathrm { S } \sim 6 0 ^ { \circ } \mathrm { N } _ { \circ }$
+
+利用卫星TBB产品追踪MCS的方法为：先对红外云图进行数值增强处理并选择合适的底图以突出其中的对流云团，并根据判定依据对影响强降水的MCS特征进行分析，包括冷云盖形状、TBB极小值、MCS源地和移动轨迹等。雷达资料为伊宁（ $\mathrm { 8 1 . 3 2 5 ^ { \circ } E , 4 3 . 9 4 2 ^ { \circ } N }$ ， $6 6 2 . 5 \mathrm { ~ m ~ }$ )新一代C波段多普勒天气雷达基数据，雷达径向最大不模糊距离为$1 5 0 ~ \mathrm { k m }$ ,时间间隔为 $6 ~ \mathrm { m i n }$ 。
+
+目前国内外将 MCS 细分为MCC、PECS 等四类[26-27],根据天山山区的具体情况在原有 MCS 判定标准[10,28]的基础上做了一些修订,主要对中 $- \beta$ 尺度MCS的尺寸标准进行了调整： $T B B \leqslant - 3 2 \mathrm { ~ \% }$ 冷云区面积 $A \geq 1 \ 0 0 0 \ { \mathrm { k m } } ^ { 2 }$ 、持续时间 $D \geqslant 3 \mathrm { ~ h ~ }$ 和偏心率$E { \geqslant } 0 . 6$ 为 $\mathrm { { M _ { \mathrm { { \ell } _ { \mathrm { { \ell } } } } C C S } } }$ ,其他为 $\mathrm { { \bf { M } } _ { \beta } E C S }$ 。
+
+![](images/adcb17d4c38ce8daf063de9c8775af371dfab7870e6063b9aa5654707f2bc511.jpg)  
+图1研究区域地形概况和气象站点分布 Fig.1Terrain profile of study area and distribution of weather stations
+
+# 2天气过程概述
+
+2015年6月26\~27日，受中亚低涡东移影响，伊犁河谷多地出现雷电、短时强降水等强对流天气，降水集中在河谷中部地区（图2a），强降水维持大约$^ { 1 0 \mathrm { ~ h ~ } }$ ,造成尼勒克、伊宁县等20个气象站达到暴雨标准（日降水量 $> 2 4 \ \mathrm { m m } \ \cdot \ \mathrm { d } ^ { - 1 }$ ,新疆暴雨标准）,6站达到大暴雨量级( $> 4 8 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ ),其中巩留县东买里乡克热森布拉克、新源县种羊场气象站日降水超过 $6 5 ~ \mathrm { m m }$ ,巩留站日降水达到 $9 4 . 8 ~ \mathrm { m m }$ ,破历史极值（日降水量 $3 4 . 6 ~ \mathrm { m m }$ )，暴雨引发多地洪水、泥石流以及城市内涝，给当地造成较严重的经济损失。
+
+从逐小时降水分布看，巩留站26日21时降水开始且雨强较小，从27日02时后雨强逐渐增大，最大雨强 $1 8 . 5 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,短时强降水过程（雨强 $> 1 0$ $\mathbf { m } \mathbf { m } \cdot \mathbf { h } ^ { - 1 }$ )持续 $^ { 5 \mathrm { ~ h ~ } }$ ,累计降水达 $6 8 . 9 \ \mathrm { m m }$ ,总体呈现前期小后期大的“双峰”型变化（图2b)；种羊场站降水趋势与巩留站相似，短时强降水过程持续时间虽然只有 $^ { 4 \mathrm { ~ h ~ } }$ ,但累计降水量占过程降水的 $70 \%$ （图2c);克热森布拉克站短时强降水时间持续了 $^ 3 \mathrm { ~ h ~ }$ ，表现为“前大后小”且呈现“单峰”型分布（图2d）。说明此次降水过程主要是由短时强降水所引起，持续时间短但雨强较大，基本上都是在夜间发生，符合天山山区MCS云团引起的降水特点，下面从云图和雷达产品的演变来探讨MCS的中小尺度特征以及对短时强降水的影响。
+
+# 3MCS的云图和雷达特征
+
+# 3.1 MCS的云图特征
+
+从此次降水过程的红外云图TBB变化来看，如图3a，26日23时 ${ \sim } 2 7$ 日02时昭苏县莫英仓村区域站 $( 8 1 . 2 ^ { \circ } \mathrm { E } , 4 2 . 9 ^ { \circ } \mathrm { N }$ ，站号：Y5296）的南部和东部不断有弱对流单体发展并连接成片形成线型对流云团A（椭圆率0.25，为 $\mathrm { { \bf M } _ { \mathrm { { \boldsymbol \beta } } } E C S ) }$ ， $T B B _ { \mathrm { m i n } }$ 达到 $- 4 2 \ { } ^ { \circ } \mathbf { C } \ ; 2 7$ 日03～04时云团A向后分裂成云团B、C和E，并出现 $T B B _ { \mathrm { m i n } } \leqslant - 5 2 \mathrm { ~ \leqslant ~ }$ 的深对流区域（图中数字表示），其后云团B和C快速减弱（图 $3 \mathrm { b } \sim 3 \mathrm { c }$ )；05时后云团D(云团A的主体)和E合并后在巩留站上空逐步发展增强并逐步西移（图3d），并在09时达到旺盛时期,成为面积超过 $1 0 \ 0 0 0 \ \mathrm { k m } ^ { 2 }$ 的 $\mathrm { { M _ { \mathrm { { \beta } } } C C S } }$ ，14时 $\mathrm { { M _ { \mathrm { { \beta } } } C C S } }$ 移动至Y5296附近减弱，并逐步移出河谷地区（图 $3 \mathrm { e } \sim 3 \mathrm { f }$ ）。
+
+![](images/65d5ba4582f389f8e23d43c17ff37e73b4f28b95e671e8ff470373cd463805ba.jpg)  
+注：图(a)中6站日降水量 $> 4 8 ~ \mathrm { m m }$   
+图2伊犁河谷日降水量和代表站逐小时降水分布图  
+Fig.2Daily precipitationdistribution in IiValleyonJune27and hourly precipitationat51435(b）,Y5225(c）,Y5272（d)
+
+上述分析表明, $\mathrm { { \cal M } _ { \mathrm { { \scriptsize ~ \beta } } } E C S }$ 首先在河谷南部界山主脉上空不断形成，并以分裂的形式不断向东北方向传播,并在河谷中部平原地区通过合并的方式迅速增强为 $\mathrm { { \bf M } _ { \mathrm { { \scriptscriptstyle \beta } } } C C S }$ 并维持,最终减弱消散。
+
+为了更深入地了解MCS云团的发展与TBB阀值之间的对应关系，分析对此次天气影响较大的D和E云团各级TBB等值线所围成的冷云盖面积与$T B B _ { \mathrm { { m i n } } }$ 随时间的变化（图4）。云团E在27日04时形成并发展，在09时成熟，生命史长达 $^ { 1 7 \mathrm { ~ h ~ } }$ 。发展阶段(形成到成熟)维持时间为消亡阶段（成熟到消亡)的1/2。（图4a）。云团D生命史较短且消亡阶段较发展阶段稍长，TBB值和梯度特征与云团E基本相似（图4b）。
+
+以上分析可以看出，此次短时强降水过程主要是由两个中 $- \beta$ 尺度MCS云团所引起。MCS发展较快，消散相对较慢。虽然对流云团强度不强（ $T B B _ { \mathrm { m i n } } < - 5 0 ~ \mathrm { \mathrm { ~ ‰ ~ } }$ ），但维持时间均超过 $1 0 \mathrm { ~ h ~ }$ ,这也是造成此次过程降水累积量较大的原因。另外，云团各时刻 $T B B _ { \mathrm { m i n } }$ 与对应等值线所围成的冷云盖面积呈反比，说明 $T B B _ { \mathrm { m i n } }$ 越小,云系发展越深厚、旺盛，相
+
+应冷云盖面积就越大。
+
+# 3.2短时强降水的雷达特征
+
+天气雷达具有较高的时空分辨率，是分析MCS垂直结构、强度等信息的有利手段。图5是27日研究区 $1 . 5 ~ \mathrm { d e g }$ 雷达反射率因子 $( Z )$ 和径向速度 $( V )$ 演变过程，02时伊宁市东南部出现大面积的积层混合降水回波，有多个中 $- \beta$ 尺度对流单体分散其中，在巩留站南部出现带状强回波带，其中 $Z > 3 4$ dbz的空间范围与图4a中的MCS云团基本相对应，径向速度场上低层为偏西风且有超低空急流，中高层为偏东风，这对于水汽输送非常有利。巩留站东南部出现负速度区包含正速度区的逆风区，并一直持续到2：43时，说明该地区有中尺度系统的辐合加强，降水逐渐增强(图5a,5d)；随着对流活动不断增强，强回波带向北移动并呈东一西向发展， $0 3 \sim 0 6$ 时强回波带持续维持在巩留站上空，回波最大值达到 $4 0 ~ \mathrm { d b z }$ 且持续 $^ \mathrm { ~ 4 ~ h ~ }$ ，同时新源县种羊场（方位：$1 1 2 ^ { \circ }$ ,距离： $1 0 7 . 9 ~ \mathrm { k m }$ ，站号：Y5225，下同)有明显的对流单体生成回波强度逐渐增强至 $3 0 ~ \mathrm { d b z }$ 左右，速度场上低层风速不断增大，巩留附近仍不断有逆风区出现，Y5225站速度辐合较明显，此时段MCS面积和强度随之增大，短时强降水持续增强（图5b，5e）,两站的雨强均超过 $1 0 \ \mathrm { ~ m m } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ ;09时以后河谷地区 $Z > 3 4$ dbz 的面积逐渐减小,随着地面风向转为偏东风，14：00巩留及Y5225已无明显回波（图5c,5f)，18：00伊犁河谷大部地区降水基本结束。
+
+![](images/a23121ba87be1183db755707f70ddc0355c2d20c4c41869419a697c029f3aba2.jpg)  
+图327日MCS演变过程  
+Fig.3Development process of MCS on June 27
+
+从分析结果看，雷达强回波带的持续存在、逆风区的出现是局地短时强降水过程产生的主要原因，$Z > 3 4 ~ \mathrm { d b z }$ 的区域与MCS冷云盖范围有较好的空间对应关系，而径向速度场上低层明显的风场辐合为MCS的触发和稳定维持提供了较好的条件。
+
+# 3.3MCS的云图TBB分布和雷达回波与短时强降水的关系
+
+为了解此次过程降水与云图TBB、雷达回波的对应关系，特选取降水量较集中的巩留站和新源县种羊场气象站进行分析。选择两站的小时降水量、TBB值、TBB梯度、回波顶高以及垂直累积液态含水量，研究时段为雨强大于 $5 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,其中巩留站为27日 $0 2 \sim 0 9$ 时，种羊场站为27日 $0 4 \sim 0 9$ 时。由于雷达资料获取频率为 $6 ~ \mathrm { m i n }$ 一次，因此回波顶高 $( E T )$ 以及 $\left( \begin{array} { l } { V I L } \end{array} \right)$ 采用小时平均进行计算。
+
+![](images/4ba69fa5f8958e89e7ea7fe79089745df8cf56af97be80f9c9c4ab8f91d11b8c.jpg)  
+Fig.4Relationship between MCS cold cloud cover area which diferent TBB isolines surrounded and $T B B _ { \mathrm { m i n } }$
+
+![](images/f56e4e1cf270e9da56630120dccbffd469f5bff95dd0f58a7f704a3048b25fd5.jpg)  
+图4MCS不同TBB 等值线冷云盖面积变化与 $T B B _ { \mathrm { { m i n } } }$ 的对应关系  
+注：雷达反射率因子：天气雷达中表征降水目标物回波强度的单位。它与降水目标物单位体积中降水粒子的大小、数量以及相态有关;径向速度：一般指物体运动速度在雷达观测方向的速度分量，即速度矢量在电磁波方向的投影  
+图527日 $1 . 5 ~ \mathrm { d e g }$ 雷达反射率因子 $\left( \mathrm {  ~ a ~ } \sim \mathrm {  ~ c ~ } \right)$ 和径向速度 $\left( \mathrm { d } \sim \mathrm { f } \right)$ 演变  
+Fig.5Development of radar reflectivity factor $\left( \mathbf { a } \sim \mathbf { c } \right)$ and radius velocity $\left( \mathrm { d } \sim \mathrm { f } \right)$ on $1 . 5 ~ \mathrm { d e g }$ of June 27
+
+从两站雨强与TBB值的对应关系看，降水开始时，随着雨强的增大TBB值逐渐减小且滞后降水$1 \sim 2 \mathrm { ~ h ~ }$ ,但与TBB最大梯度变化对应较好，表现为梯度跃升时降水增大，梯度突降时降水减小。造成以上原因主要是TBB值不仅受到云高的影响，还取决于云类和云体厚度等因素的影响，而TBB 梯度表现了对流云团的发展强度，与降水有直接关系。从图4也可以看出，强降水发生在TBB梯度较大的区域，而不是TBB值最小的区域（图 $6 \mathrm { a } \sim 6 \mathrm { b }$ ）。
+
+图6c\~d为回波顶高、垂直液态含水量和小时降水量的对应关系，此次降水过程回波顶高达8.9$\mathrm { k m }$ ,回波顶高越高，小时降水越大，反之降水越小;垂直液态含水量也与降水的变化趋势基本一致，说
+
+24.0 24.0 S -20 20   
+E ℃ 0.6 TRR品 -30 -40 0.4 8.0 50   
+4.0 4.0 60-0.3 -60-0.3   
+02:0003:0004:0005:0006:0007:0008:0009:00 04:00 05:0006:0007:00 08:00 09:00 时间 时间   
+24.0 小时降水量一ET-个 VIL 10.0 24.0 小时降水量一ET< VIL_ 10.01.0 z/（T)   
+(c)巩留站 4 /） 0.9 2 A / 0.9 4 . 9.0 0.8 9.0 0.8   
+16.0 8.0 0706 8.0 700   
+12.0 4 7.0 54 4 7.0 5544   
+8.0 0.3 8.0 ↑ A 822 6.0 6.0   
+4.0 5.0 20 4.0 中 5.0 0.1   
+02:0003:0004:0005:0006:0007:0008:00 09:00 04:00 05:00 06:00 07:00 08:00 09:00 时间 时间
+
+明此次伊犁河谷出现短时强降水的区域有多个$\bf { M } _ { \mathrm { { \ell } } \mathrm { { ^ { + } } } } \mathrm { { C S } }$ 出现。降水的空间分布与TBB 梯度成正比，与云顶TBB值无对应关系；降水的时间分布与回波顶高和垂直液态含水量成正比。
+
+# 4 MCS的形成机制
+
+# 4.1大尺度环流背景和水汽输送
+
+有利的环流形势为中小尺度的形成提供了大尺度背景条件。2015年6月24日08时～25日20时$2 0 0 \ \mathrm { h P a }$ 高度场上中纬地区为明显的南亚高压“双体型”（高压中心分别位于伊朗高原和青藏高原东部）。26日08时开始，南亚高压整体呈现东部型，中亚低涡强度不断加强。伊犁河谷地区处于低涡前部，风场表现为西南风转东北风的区域辐散，27日20时低涡主体东北移动并减弱成槽，影响伊犁河谷的天气过程趋于结束(图7a）。
+
+26日20时 $\sim 2 7$ 日08时 $5 0 0 \ \mathrm { { h P a } }$ 高度场表现为欧亚范围环流呈两脊一槽的形势，伊朗高压脊向北发展与乌拉尔山高压脊叠加经向度加大，中亚低涡在巴尔喀什湖西部 $7 0 ^ { \circ } \mathrm { N }$ 附近生成，受新疆东部高压脊的阻挡，冷空气在中亚地区不断堆积，使得中亚低涡加深影响河谷地区（图7b）。
+
+从以上中高层环流演变可以看出，高层南亚高压双体型的稳定少动、中层乌拉尔阻高的维持以及新疆脊的阻挡造成较深厚的中亚低涡长时间维持，引发大面积降水过程。中高层区域风场出现辐散，有利于低层大气辐合上升，对MCS的生成和维持提供了较好的环流背景。
+
+水汽条件表现为26日14时 $5 0 0 ~ \mathrm { { h P a } }$ 上偏南和偏东两个方向的输送，偏南方向的水汽主要由中亚低涡前部的西南气流所携带，而印度半岛北部的低压前部的南风造成孟加拉湾的水汽北上，沿河西走廊一天山山区一线的偏东气流到达河谷地区上空，而且西南方向的水汽携带所占比重较大（图8a）。
+
+水汽在研究区中低层快速辐合是MCS发展的重要条件。26日08时河谷地区 $7 0 0 \sim 8 5 0 ~ \mathrm { { h P a } }$ 开始出现较弱的水汽辐合（图略），至26日20 时河谷南部山区附近和中东部出现明显的水汽辐合大值区，最大水汽通量散度达到 $\mathrm { - 1 2 \times 1 0 ^ { - 7 } \ g \ ^ { \bullet } \ h P a ^ { - 1 } }$ ：$\mathrm { c m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ ,风场以偏西风为主,但在水汽辐合区有明显的辐合，这对于局地对流触发非常有利，对应时段云图上巩留站南部 $\bf { M } _ { \mathrm { { \ell } } \mathrm { { \ell } } } \mathrm { { C S } }$ 开始出现并不断并发展（图8b）。27日08时河谷地区以较均一的西南风为主，MCS稳定维持并达到旺盛期（图略）。
+
+综上所述，中低层多通道水汽输送且长时间在研究区上空汇聚加上风场的辐合促使水汽上升凝结释放潜热，为MCS的发展和维持提供了有利的水汽条件。
+
+注：阴影部分为急流；·为伊宁市
+
+![](images/4d5c2fcd9e0332a6038a722c90af844c40bc07b17f233fb30c50c0e26c168af4.jpg)  
+Fig.7Atmospheric circulation situation at O8:OO BST on June 27
+
+![](images/88341f691ff520349db5a997dbdc8f466d071eeec4b664519bd452a412079c4d.jpg)  
+图727日08时环流形势  
+图8水汽通量、水汽通量散度和风场分布  
+Fig.8Water vapor flux(a）,water vapor flux divergence and wind field（b)
+
+# 4.2MCS形成的中尺度特征
+
+4.2.1大气层结度从河谷地区对流有效位能$( C A P E )$ 和 $K$ 指数分布来看，26日 $0 8 \sim 2 0$ 时河谷西北部出现 $C A P E$ 大值区，中心值达到 $4 0 0 \mathrm { ~ J ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ 以上， $K$ 指数均在 $3 2 \mathrm { ~ \textdegree C }$ 以上。巩留站 $C A P E$ 值从60$\mathbf { J } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ 快速增大到 $3 0 0 \mathrm { ~ J ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ $K$ 指数从 $3 7 \mathrm { ~ \textdegree C }$ 增加到 $4 0 \ \mathrm { ^ { \circ } C }$ ，这说明巩留附近的不稳定能量正在积累；27时02时 $\sim 0 8$ 时 $C A P E$ 大值区减弱东移， $K$ 指数也相应下降，不稳定能量得到释放，MCS形成并发展（图 $9 \mathrm { a }$ )。另外，从伊宁站 $T { \mathrm { - } } \mathrm { L n } P $ 图上也能看出，26日20时整层大气 $C A P E$ 值和湿度明显增大（图9b）。
+
+4.2.2中尺度触发和动力机制此次降水过程河谷地区近地面盛行偏西风，26日20时 ${ \sim } 2 7$ 日02时河谷中部不断出现弱辐合线，辐合线基本处于对应MCS的边缘且在TBB梯度大值区，MCS位于巩留站上空且处于发展阶段，雨强也逐渐达到最大值。随后地面辐合线不断向MCS内部移动，降水逐渐减小。从地面辐合线形成机制分析得出，偏西气流在河谷中间的乌孙山附近产生绕流,在山脉东部汇合。另外,北支气流受到河谷北部界山的阻挡，回流产生较弱的偏东风，巩留正好处于风场辐合区域（图10a）。
+
+从巩留站上空垂直速度的变化也能看出，地面上升运动在上述时段不断加强，负速度区扩展到$6 5 0 \ \mathrm { h P a }$ 左右,中心速度值也达到 $- 0 . 5 \ \mathrm { P a } \ \cdot \ \mathrm { s } ^ { - 1 }$ ；到27日20时上升速度明显减小，扩展高度也逐渐下降。水平散度场也显示从26日20时开始低层大气辐合度加强，27日 $0 2 \sim 0 8$ 时气流辐合高度有所下降， $7 0 0 ~ \mathrm { { h P a } }$ 以上逐渐出现辐散,更有利于大气垂直上升;27日14时以后低层气流出现辐散，MCS逐渐消亡（图10b）。
+
+![](images/47d30b2c693ed76eacbf876837e0a4453b00a9e01a6616614d4dbb5d68f6a846.jpg)  
+Fig.9Distribution of $C A P E$ and $K$ index in Ili Valley and radiosonde sounding of Yining at 2O:Oo BST June 26
+
+![](images/11aee8ca42478661dfa4f5c21ac3dffb2a9484adc6393db166c08c487bf526f9.jpg)  
+图926日20时伊犁河谷地区对流有效位能和 $K$ 指数分布及伊宁探空曲线  
+图10地面风场与MCS分布及垂直速度和散度沿巩留站的时间一高度剖面
+
+注：图a中实线为 $T B B \leqslant - 3 2 \mathrm { ~ \textdegree ~ }$ 范围,双实线为地面辐合线;图b中实线为垂直速度( $\mathrm { \Delta P a ~ } \cdot \mathrm { \Delta s } ^ { - 1 }$ );阴影为水平散度 $( \mathrm { S } ^ { - 1 }$ ）
+
+Fig.10Distributionof surfacewind fieldand MCSatO40OBSTJune27（a）,time-heightprofileof vertical velocityand divergence（b）along Gongliu Station
+
+![](images/e03df4e2062781183c4346f06da89e174a629ac87a498b0469c84bbbec934bb1.jpg)  
+注：实线为 $K$ 指数 $\mathrm { ( \mathcal { C } ) }$ ；阴影区为 $C A P E ( \mathrm { J } \cdot \mathrm { k g } ^ { - 1 }$ )；“·”为巩留站  
+注：图a中阴影区为温度平流（ $\cdot \mathrm { ~ } ^ { \circ } \mathrm { ~ c ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ );图b中实线为比湿 $( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ )；虚线为 $\theta _ { s e } \left( K \right)$   
+图11沿巩留站温度平流、比湿和 $\theta _ { s e }$ 的时间一高度剖面
+
+Fig.11Time-height profile of temperature advection(a）and specific humidity,pseudo-equivalent temperature $\theta _ { s e }$
+
+大气风场的垂直切变是MCS触发的重要条件。局地风场垂直分布显示26日20时 $7 0 0 ~ \mathrm { { h P a } }$ 的风场变化以下表现为偏西和偏东风场的垂直切变， $7 0 0 \sim$ $4 0 0 \ \mathrm { h P a }$ 存在偏东和西北气流的切变，27日02时以后对流云团不断发展并逐渐形成面积较大的MCS，27日20时切变减弱，MCS基本消散（图9b）。
+
+以上分析表明近地面有风场辐合，中低层有垂直切变且低层风切变的强度明显高于中层，导致低层辐合高层辐散，气流垂直上升加强，局地大气抬升触发MCS发展加强
+
+4.2.3局地热力和水汽对MCS发展的影响图11a显示了巩留站温度平流随时间的变化，可以看出26日20时 ${ \sim } 2 7$ 日08时大气低层暖平流逐渐增强，高度从 $9 2 5 \ \mathrm { h P a }$ 升高到 $7 5 0 \ \mathrm { h P a }$ 附近,向上至$7 0 0 ~ \mathrm { { h P a } }$ 为冷平流，大气处于“下暖上冷”的不稳定状态，27日08时以后冷平流逐渐向低层传播。从相同时段的比湿廓线和假相当位温 $\theta _ { s e }$ 可以看出，26日20时前后 $9 2 5 \sim 7 0 0 ~ \mathrm { { h P a } }$ 出现比湿和 $\theta _ { s e }$ 密集带并有湿舌存在,最大比湿达到 $1 5 \ \mathrm { g \cdot k g ^ { - 1 } }$ ,表明大气低层湿度增加，呈现明显的“上干下湿”特征;同时 $\theta _ { s e }$ 也有能量舌出现，至27日02时 $\theta _ { s e }$ 所表现的能量锋区逐渐向低层倾斜，不稳定层结升高到 $7 0 0 \ \mathrm { h P a } , \theta _ { s e }$ 梯度达到最大，导致对流云系发展形成MCS（图11b)。
+
+从以上分析可以看出，低层暖平流增强以及高低空 $\theta _ { s e }$ 梯度增大为局地MCS触发提供了较好的热力条件，中低层湿舌的出现为MCS提供了较好的水汽条件。
+
+# 5结论
+
+利用卫星、雷达、自动站等多源数据，通过对中亚低涡背景下新疆伊犁河谷一次短时强降水过程中的中尺度对流系统(MCS)成因进行深入分析，其结论如下：
+
+（1）南亚高压双体型的稳定少动、中层乌拉尔阻高的维持以及新疆脊的阻挡造成深厚中亚低涡的形成，冷暖空气交汇以及高空风场辐散对河谷MCS的生成和维持提供了较好的环流背景。多个中 $- \beta$ 尺度MCS形成并在移动过程中造成多地短时强降水天气的发生。
+
+（2）河谷地区 $\bf { M } _ { \mathrm { { \ell } } \mathrm { { ^ { + } } } } \mathrm { { C S } }$ 具有明显的夜发性和后向传播特征。MCS在云图上表现为对流云团易在山区上空形成，在平坦地区发展增强;MCS主要以不断分裂和合并的形式形成，在旺盛期维持少动且生命史较长,引发局地短时强降水;MCS 中 $T B B _ { \mathrm { { m i n } } }$ 与冷云盖面积呈反比。
+
+(3）雷达强回波带、逆风区的持续和低层超低空急流和风场辐合说明局地对流增强引发MCS形成并造成短时强降水的发生； $Z > 3 4$ dbz的区域与MCS冷云盖范围有较好的空间对应关系。短时强降水过程中雨强的空间分布与TBB梯度大小成正比，与云顶TBB值无对应关系；降水的时间分布与回波顶高和垂直液态含水量成正比。
+
+（4）中低层多通道水汽输送并长时间汇聚、中低层大量水汽辐合上升造成湿舌的形成，为MCS的发展和维持提供了有利的水汽条件。CAPE和 $K$ 指数的明显增大导致大气层结极不稳定，近地面风场辐合线、中低层垂直切变、增强的暖平流、高低空 $\theta _ { \mathrm { s e } }$ 梯度的增大为局地MCS触发提供了较好的动力和热力条件。
+
+选取天山地区一次典型中亚低涡背景下MCS引发的短时强降水过程进行分析，得出了一些有意义的结论，但对伊犁河谷地区不具有普遍性。今后还需系统地对河谷地区此类MCS降水特征及成因进行深入研究，以揭示西天山地区MCS短时强降水物理机制，提高本地夏季局地强对流的短临预报能力。
+
+# 参考文献(References）
+
+[1］新疆短期天气预报指导手册编写组.新疆短期天气预报指导手册［M].乌鲁木齐：新疆人民出版社,1986.［Xinjiang Short-Term Weather Forecast Guiding Manual Writing Group.Xinjiangshort-term weather forecast guiding manual[M]. Urumqi：XinjiangPeople'sPress,1996.]  
+[2］韦惠红,牛奔,刘希文,等.春季两次东移型西南涡云系的发展演变特征[J].干旱气象，2017，35（3）：456-464.［WEIHuihong,NIUBen,LIUXiwen,etal.Evolutioncharacteristicsoftwo southwest vortex clouds moving eastward in spring[J]. JournalofAridMeteorology,2017,35（3）:456-464.]  
+[3]王婉昭,李辑,胡春丽,等.东北冷涡的定义、识别与定量化研究综述[J].气象科学，2017，37（3）：394-402.［WANGWanzhao,LIJi,HUChunli,etal.Areviewofdefinition,identifica-tion and quantitative investigation on northeast cold vortex[J].Journal of the Meteorological Sciences,2017,37(3）:394-402.]  
+[4］刘祥，王黎娟，陈爽.影响华南地区西南低涡的频数及移动特征分析[J].热带气象学报，2017，33（2）：250-258.［LIUXiang,WANGLijuan,CHEN Shuang.Characteristics analysison
+
+frequency and movement of southwest vortex influencing south Chi
+
+na[J].Journal of Tropical Meteorology,2017,33（2）:250 - 258.]   
+[5］刘刚,封国林,秦玉琳,等.初夏东北地区冷涡降水“累积效应” [J].大气科学,2017,41(1）:202-212.[LIU Gang,FENG Guolin,QIN Yulin,etal.“Cumulative effect”of cold vortex precipitation in northeast China in early summer[J]. Chinese Journal of Atmospheric Sciences,2017,41(1) :202 -212.]   
+[6］廉毅,沈柏竹,刘刚,等.东北冷涡活动及其短期气候预测研究 进展[J].气象科技进展,2017,（1）:33-37.[LIAN Yi,SHEN Baizhu,LIU Gang,et al.An overview of the northeast China cold vortex and short-term climate forecast[J].Advances in Meteorological Science and Technology,2017,（1）:33-37.]   
+[7］曾波,何光碧,余莲.川渝地区两类西南涡物理量场诊断分析 [J].成都信息工程大学学报,2017,（2）:157－164.［ZENG Bo,HE Guangbi,YU Lian.Diagnostic analysis of the physical field for two types of southwest vortexes in Sichuan-Chongqing region [J].Journalof ChengduUniversityof Information Technology, 2017,(2):157 -164.]   
+[8］杨莲梅,张庆云.一次中亚低涡中期过程的能量学特征［J].气 象学报,2014,72（1）：182-190.[YANG Lianmei,ZHANG Qingyun.Energetic characteristics of a medium-range process of Central Asian vortex[J].Acta Meteorologica Sinica,2014,72（1）: 182 -190. ]   
+[9］李圆圆,肖开提·多莱特,杨莲梅,等.一次中亚低涡造成的新 疆暴雪天气过程分析[J].气象科学,2014,34（3）：299-304. [LI Yuanyuan,DOLET Shavket,YANG Lianmei,et al. Analysis on a heavy snow by Central Asian vortex in Xinjiang[J].Scientia Meteorologica Sinica,2014,34(3）:299-304.]   
+[10］王旭,马禹.新疆中尺度对流系统的地理分布和生命史［J].干 旱区地理,2012,35(6):857-864.[WANGXu,MAYu.Geographic distribution and life cycle of mesoscale convective system in Xinjiang,China[J].Arid Land Geography,2012,35(6）:857- 864.]   
+[11］王清平,彭军,茹仙古丽·克里木.新疆巴州"6·4"罕见短时 暴雨的 MCS 特征分析[J].干旱气象,2016,34(4）:685-692. [WANG Qingping,PENG Jun,RUXIAN guli. Characteristics of mesoscale convective system about a rare short-time rainstorm in Bayangol Mongol Autonomous Prefecture of Xinjiang on 4 June 2012[J].Arid Meteorology,2016,34(4):685-692.]   
+[12]LAPO P,BARODKA S,KRASOUSKI A. Heavy rain forecasts in mesoscale convective system in July 2016 in Belarus[C]//EGU General Assembly Conference,2017,19:250.   
+[13]MADHULATHA A,RAJEEVAN M,BHOWMIK S KR,et al. Impact of assimilation of conventional and satelite radiance GTS observations on simulation of mesoscale convective system over southeast India using WRF-3DVAR[J]. Pure and Applied Geophysics,2017(D14) :1 - 22.   
+[14]MITROPOULOS D,FEIDAS H. Use of global precipitation measurement's satelite data for the study of a mesoscale convective sys
+
+tem[M].Heidelberg：Springer International Publishing,2017：209 -215.
+
+[15］TAO WU,ZHANGJ,NIU B.Preliminary analysis of structure characteristics and causes tor heavy-rain-producing vortex-shaped MCS[J]. Meteorological Monthly,2017.
+
+[16]CALLEN E,TUCKER D F. Analysis of Rocky Mountain mesoscale convective system initiation location clusters in the Arkansas-Red River Basin[J].Atmospheric Science Letters,2016,17(7） :392 - 399.   
+[17］张萍萍,张宁,董良鹏,等.三峡谷地三类突发性中尺度暴雨概 念模型研究［J].干旱气象,2017,35（6）：1027－1035. [ ZHANG Pingping,ZHANG Ning,DONG Liangpeng,et al. Research on concept model of sudden mesoscale rainstorms with three types in Sanxia Valley[J].Arid Meteorology,2017,35（6）： 1027 - 1035. ]   
+[18］赵桂香,王晓丽,吴洪.黄河中游地区中尺度对流系统的统计 特征[J].干旱气象,2016,34(6）:1016-1026.[ZHAO Guixiang,WANG Xiaoli,WU Hong.Statistical characteristics of mesoscale convective systems over the middle reaches area of the Yellow River during 2005—2014[J].Arid Meteorology,2016,34 (6):1016 -1026.]   
+[19］鲁亚斌,李华宏,闵颖,等.2017 年昆明一次大暴雨过程的中尺 度分析［J].安徽农业科学,2018,46（15）：145－150.［LU Yabin,LI Huahong,MIN Ying,et al. Mesoscale analysis of a heavy rainstorm in Kunming in 2O17[J]. Journal of Anhui Agricultural Sciences,2018,46(15） :145 -150.]   
+[20］张炜,宗振涛.吉林地区 $^ { \iint } \cdot 1 \sim 2$ ”暴雨过程的多尺度特征及 演变分析[J].气象灾害防御,2018,25（2）:18-22.［ZHANG Wei,ZONG Zhengtao.The analysis to multi-scale characteristics and evolution of ${ \bf \ddot { \theta } } ^ { 2 } \cdot 1 - 2 ^ { \prime }$ rainstorm process in Jilin area[J]. Meteorological Disaster Prevention,2018,25(2）:18 - 22]   
+[21］程向阳,朱浩,周昆,等.安徽地区一次致灾雷暴过程的闪电特 征分析[J].暴雨灾害,2018,37（3）：265-273.[CHENG Xiangyang,ZHU Hao,ZHOU Kun,et al.Analysis of lightning characteristics during a disaster-causing thunderstorm in Anhui Province [J].Torrential Rain and Disasters,2018,37(3）:265-273.]   
+[22］江友飞,李如琦,彭君,等.2014年8月伊犁河谷一次持续降水 过程分析[J].沙漠与绿洲气象,2016，10（1）：81-87.［JIANG Youfei,LI Ruqi,PENG Jun et al.Analysis of a persistent precipitation process from $1 6 ^ { \mathrm { t h } }$ 0 $1 9 ^ { \mathrm { t h } }$ August,2014 in Yili Valley[J. Bimonthly of Xinjiang Meteorology,2016,10(1):81-87.]   
+[23］江新安,王敏仲.伊犁河谷汛期一次短时强降水雨滴谱特征分 析[J].沙漠与绿洲气象,2015,9(5）：56-61.[JIANG Xin'an, WANG Minzhong.Characteristics of the raindrop spectrum during a short-time strong precipitation episode in the Yili River Valley[J]. Bimonthlyof Xinjiang Meteorology,2015,9（5）:56-61.]   
+[24］黄秋霞,赵勇,何清.新疆伊犁河谷夏季降水日变化特征[［J]. 冰川冻土,2015,37（2）:369-375.[HUANG Qiuxia,ZHAO Yong,HE Qing.The daily variation characteristics of summer precipitation over the YiliRiver Valley,Xinjiang[J].Journal of Glaci
+
+ology and Geocryology,2015,37(2）:369-375.][25］冯燕.2012年6月5日新疆伊宁市暴雨天气过程诊断分析[J].北京农业,2015，（34）：126-127.［FENGYan.Diagnosticanalysis of rainstorm weather process in Yining,Xinjiang[J].Bei-jing Agriculture,2015,（34）:126-127.]
+
+[26］刘瑞翔，丁治英，王一.2007—2013年夏季江淮地区MCS 和MCV与暴雨关系的统计特征［J].气象科学,2016,36（2）：236-243.[LIU Ruixiang,DING Zhiying,WANG Yijie.Statisticalcharacteristics of relations of rainstorms with MCSs and MCVs in
+
+Yangtze-Huaihe Basin during summer from 20O7 to 2O13[J].ScientiaMeteorologica Sinica,2016,36(2）:236-243.]   
+[27］JIRAKIL,COTTONWR,MCANELLYRL.Satellite and radar survey of mesoscale convective system development[J].Monthly WeatherReview,2003,131(10):2428.   
+[28］曾波，谌芸，肖天贵.我国中东部地区夏季MCS统计分析[J]. 气象,2013,39（2）:180-185.[ZENG Bo,SHEN Yun,XIAO Tiangui.Statistical analysis of MCS in summer in Central-Eastern China[J].Meteorological Monthly,2013,39(2）:180-185.]
+
+# Causal analysis of MCS in a short-time severe precipitation process under the background of Central-Asia vortex
+
+LI Jian-gang $^ { 1 , 2 }$ ，JIANG Cai-lian³，ZHANG Yun-hui4，LI Ru-qia，YANG Lian-mei1,2 (1CenterofCentral AsianAtmospheric ScienceResearch,Urumqi830o2,Xinjiang,China；2InstituteofDesertMeteoolog， CMA,Urumqi 830002,Xinjiang,China；3Wujiaqu Meteorology Bureau,Wujiaqu 83130o,Xinjiang,China; 4Xinjiang Meteorological Observatory,Urumqi 83o002,Xinjiang,China)
+
+Abstract:In order to understand the triggering and developing mechanism of Mesoscale Convective System (MCS）in the Tianshan Mountains,the causes of MCS in a short-time severe precipitation process under the background of Central Asian vortex in the Ii Valley of Xinjiang,China were analyzed deeply.Based on the hourly precipitation data,the temporal-spatialdistribution characteristicsof the precipitation were obtained.The cloud patern andradar characteristics of MCS were analyzed according to FY-2G satellte TBB products and Doppler weather radar data. The results indicated that $\mathrm { { \bf M } _ { \mathrm { { \boldsymbol \beta } } } C S }$ in this area had obvious characteristics of nocturnal and backward propagation,being formed over the mountain areas and developed,enhanced and retained fora long time period over the plain areas.The continuous occurrence of strong echo zone,adverse wind region and ultra-low level jeton theradar map ilustrated the enhancement of local convection.Moreover,therainfallintensityof representative stations was analyzed with corresponding $T B B$ and radar echo,which showed that the spatial and temporal distribution of rainfall intensity was proportional to the TBB gradient, $E T$ and $V I L$ respectively. Using sounding,surface wind field and ERA-Interim reanalysis data,the large-scale circulation background and mesoscale characteristics of MCS was analyzed,which concluded thatenhanced local convective activity triggered the formation of MCS in the frontof deep Central Asian vortex,andthe multi-channel water vapor transport and long-time water vapor convergence in the middleand low levels,theatmospheric instability stratification,andconvergence andvertical shear of wind field inthe low and middle levels,the increase of $\theta _ { s e }$ between the upper and lower level and the enhancement of warm advection in the lower level provided beter dynamic,thermalconditions and water vaporforthe development and retainment of MCS.
+
+Key words:Central-Asia vortex；MCS；short-time severe precipitation

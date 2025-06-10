@@ -1,0 +1,107 @@
+# 两种不同剂量雷洛昔芬促排卵对小鼠围着床期子宫內膜胞饮突表达的影响
+
+陈彩蓉'，颜秋霞'，周秀琴'，洗英杰'，郭晓燕¹，全松²  
+1广州医科大学附属第六医院//清远市人民医院生殖中心，广东 清远 511518;南方医科大学附属南方医院生  
+殖中心，广东 广州 510515
+
+摘要：目的探讨两种不同剂量雷洛昔芬(RAL)促排卵对小鼠围着床期子宫内膜胞饮突表达的影响。方法以6\~8周龄、连续2个动情周期均正常、未交配过的健康昆明系小白鼠为研究对象,将雌鼠随机分为4组：生理盐水(SS)组、CC组、RAL $1 8 0 ~ \mathrm { m g }$ 组和 RAL $2 4 0 ~ \mathrm { m g }$ 组,每组12只。在第3个动情周期的动情前期进行灌胃(SS组：灌胃 $1 ~ \mathrm { m L }$ 生理盐水,1次/d,连续 $2 \mathrm { d } ; \mathrm { C C } 1 0 0 \mathrm { m g }$ 组：灌胃1m $\mathrm { 1 L , C C ~ 1 8 ~ m g / k g , 1 }$ 次/d,连续2d;RAL $\mathrm { 1 8 0 ~ m g }$ 组：灌胃1mL,RAL $3 3 ~ \mathrm { m g / k g } , 1$ 次/d,连续 $2 \mathrm { d } ; \mathrm { R A L } 2 4 0 \mathrm { m g }$ 组：灌胃1mL,RAL $4 4 ~ \mathrm { m g / k g } , 1$ 次/d,连续2d),2d后(两次用药后)的下午5:00,分别向每只雌鼠腹腔注射5UHCG,然后分别与正常雄性小鼠1:1合笼，次日清晨检查阴栓，有阴栓者为受孕DI。在D4.5采用乙醚吸入麻醉法处死各组雌鼠,取小鼠子宫内膜组织，电镜扫描观察各组子宫内膜胞饮突的发育情况。结果电镜下，RAL $1 8 0 ~ \mathrm { m g }$ 组、RAL $2 4 0 ~ \mathrm { m g }$ 组和SS组小鼠子宫内膜胞饮突发育成熟,表达丰富,3组间两两比较无显著差异,而CC组小鼠子宫内膜胞饮突发育不成熟,数量稀少。胞饮突在RAL $\mathrm { 1 8 0 ~ m g }$ 组、RAL $2 4 0 ~ \mathrm { m g }$ 组和SS组的半定量表达组间比较无显著差异,均显著高于CC组的表达量。结论 两种不同剂量RAL均不影响胞饮突在在围着床期期小鼠子宫内膜上皮的表达，提示两种不同剂量RAL促排卵均不影响小鼠子宫内膜容受性。
+
+关键词：雷洛昔芬；克罗米芬；小鼠；子宫内膜容受性；胞饮突
+
+# Effects of raloxifene at two different doses for ovulation induction on endometrial pinopodes in mice during the implantation window
+
+CHENCairong,YANQiuxia',ZHOUXiuqin',XIANYingjiel,GUOXiaoyan,SONG Quan Reproductiecetehltedialgoudclesiale'sosin China;²Reprodctiedicineenter,NnfangHospital,outhernedicaliersityuangzhou,in
+
+Abstract: ObjectiveTocompare theexpresionofpinopodes,the markerofendometrialreceptivityduringtheimplantation window in Kunming micestimulated with two diferent doses of raloxifene (RAL).MethodsForty-eight8-week-old female Kunming mice were randomly divided into 4 groups $( n { = } 1 2 )$ ， namely saline group, clomiphene citrate (CC, $1 8 ~ \mathrm { m g / k g ) }$ group, RAL $( 3 3 ~ \mathrm { m g / k g ) }$ group and RAL $\mathrm { 4 4 ~ m g / k g }$ group). In each group, the mice received intragastric administration of $1 ~ \mathrm { m L }$ of normalsalinecontaining CCorRALat thespecifieddosesorsalineonlyas indicatedforovulationinduction,oncedailyfor2 days.The micereceived then injection with5IU human chorionic gonadotropin (HCG)and matedand onday4.5of gestation, the pregnant mice were sacrificed for examination of theuterus with scanning electron microscopy. Results Abundant and welldeveloped pinpodes were observed inthe endometrium ofthe micein the2RAL groupsand inthe saline control group. The mice in CC group showed obviously reduced endometrial pinopodes with por development. Conclusions RAL at two diferent doses does notobviously afectthe expressionof pinopodes inthe uterine epitheliumof mice,suggesting the safety of RAL at these two doses for ovulation induction without causing adverse effects on endometrial receptivity.
+
+Keywords: raloxifene; clomiphene citrate; endometrial receptivity; pinopode
+
+对于排卵障碍导致不孕的患者，促排卵治疗是其有效的治疗手段。但在临床工作中，往往使用促排卵药物治疗后的临床妊娠率却远低于排卵率，例如：克罗米芬(CC)[]。CC作为一线促排卵药物虽然已使用50多年，但作为选择性雌激素受体调节剂(SERMs)，其副作用，如对宫颈粘液和子宫内膜的雌激素拮抗效应[2]，仍然相当普遍，并且CC对子宫内膜容受性具有抑制作用3],导致其促排卵后的临床妊娠率较低。雷洛昔芬(RAL)属于第2代SERMs,已被用于治疗绝经后妇女骨质疏松症,并可降低浸润性乳腺癌的发病风险[4]。已有研究表明，RAL具有升高绝经前妇女卵泡期血清FSH水平的作用[5，2011年的一项前瞻性、随机对照研究证实了RAL对PCOS患者具有促排卵作用，且排卵率与CC组相似；同时，在体外研究模型中，RAL显示出对子宫内膜容受性的影响较CC更小[7]。在形态学上，着床窗时期子宫内膜超微结构中最具代表性的形态学改变是胞饮突的形成。扫描电子显微镜显示，胞饮突的出现与子宫内膜种植窗保存严格的一致性8,是良好子宫内膜容受性的可靠指标9，且人类的胞饮突的形成与啮齿类一样也有严格的阶段性，可以区分为发育中、发育完全和退化3个阶段[10。鉴于胞饮突是目前公认且常用的子宫内膜容受性标记物，2016年本课题组建立了RAL和CC促排卵小鼠模型["],观察两种促排卵药物对胞饮突等围着床期小鼠子宫内膜容受性标记物表达的影响，结果显示：RAL $2 2 \mathrm { m g / ( k g \cdot d ) }$ 相当于成人 $1 2 0 \mathrm { m g / d ) }$ 对小鼠子宫内膜胞饮突的表达无不良影响。但RAL对子宫内膜容受性标记物的影响是否存在剂量相关依赖性？
+
+由于文献报道RAL $1 2 0 \mathrm { m g / d }$ 治疗PCOS患者排卵率偏低[,考虑RAL $1 2 0 ~ \mathrm { m g / d }$ 可能并非促排卵最佳剂量，因此，在本实验中，我们对小鼠增加RAL促排卵剂量至RAL $3 3 ~ \mathrm { m g / ( k g \cdot d ) }$ (相当于成人 $1 8 0 \mathrm { m g / d ) }$ 和RAL$4 4 \mathrm { m g / ( k g \cdot d ) }$ （相当于成人 $2 4 0 \ \mathrm { m g / d ) }$ ，同时与CC促排卵小鼠模型进行对比，观察两种不同剂量RAL促排卵对围着床期小鼠子宫内膜胞饮突表达的影响，探讨不同剂量RAL对小鼠子宫内膜容受性的影响，以期为RAL临床促排卵治疗提供进一步的实验依据。
+
+# 1材料和方法
+
+# 1.1实验动物
+
+清洁级，6\~8周龄，体质量 $2 0 { \sim } 2 5 \ \mathrm { g }$ ，未交配过的健康昆明系白小鼠60只(雌鼠48只；雄鼠12只），由广东省实验动物中心提供;随机分笼，编号；环境温度25士$0 . 5 ~ \mathrm { { ^ \circ C } }$ ,相对湿度 $( 6 0 \sim 8 0 ) \%$ ；控光(每天8:00至20:00光照 $1 2 \mathrm { h } \dot { }$ 条件下，自由摄食、饮水，采用标准颗粒料，按常规饲养;雌鼠每笼4-6只群养;雄性每笼1只单独饲养。
+
+# 1.2 方法
+
+1.2.1 实验动物分组 选择连续2个动情周期均正常的小鼠(即动情周期为 $5 { \sim } 6 \mathrm { d } ,$ 用于本实验。于第3个动情周期的动情前期进行实验。用Exce1分析工具中随机数字发生器产生随机数字，对应随机数字将雌鼠分成生理盐水(SS)组、CC组、RAL180 g组,RAL $2 4 0 ~ \mathrm { { m g } }$ 组,每组12只。
+
+1.2.2用药方法对符合要求的小鼠于第3个动情周期的动情前期进行灌胃，用药剂量：参照黄继汉等12将动物体型系数及其标准体质量引入剂量换算的新方法，把人的临床剂量转换为实验动物的剂量，估算小鼠与人体间的等效剂量,分别算出人 $( 6 0 . 0 \mathrm { k g } )$ 服用CC( $1 0 0 \mathrm { m g / }$ 次，1次/d,连服2d)和RAL的两种剂量( $1 8 0 ~ \mathrm { m g }$ 或 $2 4 0 ~ \mathrm { m g / }$ 次，1次/d,连服2d)灌胃小鼠对应的药物的药量。每只小鼠灌胃的液体体积为 $1 \mathrm { m L } , \mathrm { C C 1 0 0 \mathrm { m g } }$ 组 $\mathrm { ^ { ' } C C 1 8 \ m g / k g ) }$ ，RAL $1 8 0 ~ \mathrm { m g }$ 组(RAL $3 3 ~ \mathrm { m g / k g }$ ;RAL $2 4 0 ~ \mathrm { m g }$ 组(RAL$4 4 ~ \mathrm { m g / k g }$ ；SS组， $\mathrm { . 1 m L }$ 生理盐水。具体如下：于第3个动情周期的动情前期，每天上午 $8 { : } 3 0 { \sim } 9 { : } 0 0$ （大致时段）对小鼠进行灌胃。2d后(两次用药后)的下午5:00,分别每只雌鼠腹腔注射5IUHCG，诱发排卵，按雌雄1:1合笼。次晨7:00发现阴道栓者即定为妊娠第1天，计为Dl。
+
+1.2.3标本采集在第4.5天(D4.5)采用乙醚吸入麻醉法处死各组雌鼠12只，迅速剖腹取出子宫内膜，样本分为2份，一份置于 $2 . 5 \%$ 戊二醛中，固定，储存于 $4 \mathrm { { ^ \circ C } }$ 冰箱，宫腔内膜表面光滑，进一步制作扫描电镜标本；一份$4 \%$ 多聚甲醛固定 $1 8 \mathrm { ~ h ~ }$ ,常规脱水、石蜡包埋，连续切片（厚 ${ 5 \mu \mathrm { m } } .$ ,行HE染色。
+
+1.2.4实验方法扫描电镜标本制备：将 $2 . 5 \%$ 戊二醛固定的样品用PBS缓冲液彻底冲洗后，梯度乙醇脱水，样本置入 $2 \%$ 的乙酸异戊酯中 $3 \mathrm { ~ h ~ }$ ，临界点干燥，样本粘贴于样品台上,将观察面(宫腔内膜面)向上，涂银粉导电胶，用真空镀膜仪对样本进行金属镀膜，行扫描电镜观察。
+
+扫描电镜观察：由两位电镜学专家进行观察( $\times$ 4000)；根据文献[13对胞饮突采用半定量评分法进行评分，方法如下：每个标本随机选择12个视野进行电镜扫描、显微照相，并保存为TIF格式，供以后胞饮突的评分。胞饮突被定义为子宫内膜上皮的光滑、圆形突起，表面无微绒毛结构。胞饮突表达评分如下：0(无胞饮突表达)，1(胞饮突覆盖面积 $< 2 5 \%$ ),2(胞饮突覆盖面积$2 5 \% { \sim } 5 0 \%$ ，或3(胞饮突覆盖面积 $1 > 5 0 \%$ ）。
+
+# 1.3 统计分析
+
+实验数据采用SPSS21.0软件对试验数据进行统计分析，计量资料用平均数±标准差表示，多组均数的比较若方差齐采用单因素方差分析，多重比较采用LSD；若方差不齐，采用Welch校正，多重比较采用Tamhane's $\mathrm { T } _ { 2 }$ 多重比较采用a校正。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.14组小鼠子宫内膜组织学形态比较
+
+HE染色下见：SS组、RAL180组和RAL240组小鼠子宫内膜,发育成熟，间质疏松，血管丰富，腺体丰富，复杂，腺腔较大；CC组小鼠子宫内膜，发育较差，间质较致密，血管较少，腺体发育差，简单，腺腔狭小，腺腔内分泌物少(图1)。
+
+# 2.2胞饮突在各组子宫内膜的表达结果
+
+扫描电镜下，SS组、RAL180组和RAL240组小鼠子宫内膜胞饮突数量丰富，发育良好;而CC组小鼠着床期子宫内膜胞饮突的发育欠佳，且数量较少。胞饮突半定量评分结果显示，CC组评分( $\cdot 1 . 0 8 { \pm } 0 . 5 6 \$ 显著低于SS组（ $2 . 6 8 { \pm } 0 . 6 2 { \AA }$ RAL180组 $( 2 . 5 7 { \pm } 0 . 7 ) \$ 和RAL240组$( 2 . 4 5 { \pm } 0 . 7 5 )$ 的评分 $( P { < } 0 . 0 1 )$ ，而SS组、RAL180组和RAL240组3组间两两比较，差异无统计学意义（ $P >$ 0.05，图2、3)。
+
+![](images/ca93aa867a9beb5166af6b311cb3e68fb24db96ef37ce494574f7cfb4d332613.jpg)  
+图14组小鼠子宫内膜HE染色下组织学形态比较  
+Fig.1 Histopathology of endometrial tissues from pregnant mice in the 4 groups (HE staining, original magnification: $\times 4 0 0 \mathrm { \cdot }$ .The mice in CC group received intragastric administration of clomiphene citrate at $1 8 ~ \mathrm { m g / k g } ,$ once daily for2 day. The mice in SS group were given saline only. The mice in RAL180 and RAL240 group were given raloxifene at the daily dose of $3 3 \mathrm { \ m g / k g }$ and $4 4 \mathrm { { \ m g / k g } , }$ respectively. A: CC group; B: SS group; C: RAL180 group; D: RAL240 group.
+
+# 3讨论
+
+子宫内膜仅在一个极短的时期内允许胚胎着床，人类此期通常在正常月经周期的黄体中期，即LH峰后7-$1 3 \mathrm { ~ d } ^ { [ 1 4 ] }$ 或排卵后的 $6 { \sim } 1 0 \ \mathrm { d } ^ { [ 1 5 ] }$ ;在大鼠、小鼠等啮齿类动物，种植窗在受精后4d,可持续约 $2 4 \mathrm { ~ h ~ }$ ;这一时期子宫内膜容受性达到最高,称为"种植窗”[16-17]
+
+本课题组既往的研究[]显示,RAL $2 2 \mathrm { m g / ( k g \cdot d ) }$ 对小鼠种植窗子宫内膜组织学形态无不良影响。在本研究中，RAL180组和RAL240组分别对小鼠增加RAL促排卵剂量至RAL $3 3 ~ \mathrm { m g / ( k g \cdot d ) }$ 和RAL $4 4 \mathrm { m g / ( k g \cdot d ) }$ ，结果显示，RAL180组、RAL240组和SS组小鼠种植窗子宫内膜均为发育良好的分泌期内膜,间质疏松，血管丰富，腺体丰富，复杂，腺腔较大;而CC组小鼠子宫内膜发育较差，间质较致密，血管较少，腺体发育差，简单，腺腔狭小。结果与本课题组前期研究相一致，提示，与使用CC促排卵相比较，两种不同剂量RAL促排卵均不损害小鼠种植窗子宫内膜分泌期组织学形态。
+
+同时，在本研究中，电镜扫描发现RAL180组、RAL240组和SS组小鼠种植窗子宫内膜的胞饮突数量丰富，发育良好，并且两种不同剂量RAL组间及与SS组进行组间两两比较时，胞饮突的表达量均无显著差异。而CC组小鼠种植窗子宫内膜胞饮突的数量较少，且发育欠佳，显著低于两种不同RAL剂量组和SS组。结果提示，两种不同剂量RAL促排卵均不影响小鼠种植窗子宫内膜胞饮突的表达，其对小鼠子宫内膜容受性的影响较CC小。
+
+2006年Lessey等在将Ishikawa细胞与E和SERMs共培养的实验中发现，RAL可通过竞争性结合ER-α而促进子宫内膜容受性分子标志物整合素β3的表达，而CC则无这种促进作用。本实验研究了两种不同剂量RAL和CC促排卵对小鼠子宫内膜容受性标记物胞饮突的影响,实验结果与Lessey等的体外实验结果相一致，提示RAL竞争性结合ER- $\mathbf { \nabla } \cdot \mathbf { a }$ 也可能是RAL不影响小鼠子宫内膜胞饮突表达的机制之一。大量研究均证实CC对子宫内膜表现为雌激素受体拮抗作用[18-20]。在CC促排卵周期子宫内膜厚度受到明显抑制21，通过补充雌激素可显著提高子宫内膜厚度22，而给予序贯补充雌孕激素,可改善子宫内膜容受性进而提高妊娠率而[23]。而近年来体外细胞培养实验证实RAL在子宫内膜表现为雌激素拮抗作用或中立作用[24-25]。尽管RAL对子宫内膜也可能表现为雌激素受体拮抗作用，但却具有个体差异性[22]。并且长达5d的半衰期使得CC长期占据雌激素受体，并导致雌激素受体衰竭;而RAL的半衰期较CC短，仅为 $3 2 . 5 \mathrm { ~ h ~ }$ ，服用后在体内清除较CC快，因此小鼠使用RAL促排卵较使用CC促排卵对种植窗子宫内膜的影响更小,但其具体的分子机制有待进一步研究。
+
+![](images/c77a2fcd4de058dd166c325c85d72490ddaaa5e63fa061f6bd3df833ea701adb.jpg)  
+图2胞饮突在4组小鼠子宫内膜的表达情况
+
+Fig.2 Pinopodes in the endometrial tissues of the pregnant mices in the 4 groups (Scanning electron microscopy, $\times ~ 4 0 0 0 \mathrm { ; }$ .Arrowsindicate well-developed pinopodes. A: SSgroup; B: CC group; C: RAL180 group; D: RAL240 group.
+
+![](images/9636bacc85fd518e94f82eb9f06a515b25e2c0587cc7f4c5ba50bca6ee926634.jpg)  
+图3胞饮突在4组小鼠子宫内膜表达情况的差异 Fig.3 Comparison of expressions of endometrial pinopodes among the 4 groups based semi- quantitative analysis of scanning electron micrographs (Mean±SD, $n { = } 1 2$ ） $^ { * * * } P { < } 0 . 0 0 1$ ：
+
+本研究是国内首个关于比较两种不同剂量RAL和CC促排卵对小鼠围着床期子宫内膜胞饮突影响的前瞻性、随机、对照动物实验研究。我们发现，两种不同剂量RAL促排卵对小鼠子宫内膜容受性标记物胞饮突无明显不良影响，明显优于CC，且剂量依赖性不明显。这提示，RAL可能是一个具有潜力的新一代口服促排卵药物,有望成为目前一线促排卵药物CC的替代药物之一。
+
+# 参考文献：
+
+[1]Brown J,Farquhar C.Clomiphene and other antioestrogens for ovulation induction in polycystic ovarian syndrome[J].Cochrane
+
+Database Syst Rev,2016,12:CD002249.   
+[2]Weiss NS,Van Vliet MN,Limpens J,etal.Endometrial thickness in women undergoing IUI with ovarian stimulation.How thick is too thin?A systematic review and meta-analysis [J].Hum Reprod, 2017,32(5):1009-18.   
+[3]Bao SH,Le Sheng S,Peng YF,et al. Effects of letrozole and clomiphene citrate on the expression ofHOXA10 and integrin alpha (v)beta(3) in uterine epithelium of rats[J].Fertil Steril,20o9,91(1): 244-8.   
+[4]Silverman S,Christiansen C.Individualizing osteoporosis therapy [J].Osteoporosis Int, 2012,23(3): 797-809.   
+[5]Heringa M.Review on raloxifene:profile of a selective estrogen receptor modulator[J].Int J Clin Pharmacol Ther, 2003,41(8): 331- 45.   
+[6]de Paula GE,Savaris RF,von Eye Corleta H. Prospective, randomized compareson between Raloxifene and clomiphene citrate for ovulation induction in polycystic ovary syndrome [J]. Fertil Steril,2011, 96(3): 769-73.   
+[7]Lessey BA,Palomino WA,Apparao K,et al. Estrogen receptoralpha (ER-alpha) and defects in uterine receptivity in women[J]. Reprod Biol Endocrinol, 2006,4(Suppll): S9.   
+[8]Nikas G,Develioglu OH, Toner JP,et al.Endometrial pinopodes indicate a shift in the window of receptivity in IVF cycles[J].Hum Reprod,1999,14(3): 787-92.   
+[9]Zhang Q, Hao J, Wang YG, et al. Clinical validation of pinopode as a marker of endometrial receptivity:a randomized controlled trial [J].Fertil Steril,2017,108(3): 513.   
+[10] Xu BF, Sun XX,Lu L,et al. Pinopodes,leukemia inhibitory factor, integrin-b3，and mucin-1 expression in the peri-implantation endometrium of women with unexplained recurrent pregnancy loss [J].Fertil Steril,2012,98(2): 389-95.   
+[11] Chen C,Yan Q,Liu K,et al. Endometrial receptivity markers in mice stimulated with raloxifene versus clomiphene citrate and natural cycles[J].Reprod Sci,2016,23(6):748-55.   
+[12]黄继汉,黄晓晖,陈志扬,等.药理试验中动物间和动物与人体间的等 效剂量换算[J].中国临床药理学与治疗学,2004,9(9):1069-72.   
+[13] Quinn C,Ryan E,Claessens EA,et al. The presence of pinopodes in the human endometrium does not delineate the implantation window[J].Fertil Steril,2007,87(5):1015-21.   
+[14]Meseguer M,Aplin JD，Caballero-Campo P,et al.Human endometrial mucin MUC1 is up-regulated by progesterone and down-regulated in vitro by the human blastocyst[J].Biol Reprod, 2001(64): 590-601.   
+[15] Salamonsen LA,Evans J,Nguyen HP,et al. The microenvironment of human implantation: determinant of reproductive success[J].Am J Reprod Immunol,2016,75(3, SI): 218-25.   
+[16]Psychoyos A.Hormonal control of uterine receptivity for nidation [J].JReprod Fertil Suppl, 1976,25 (Suppl.): 17-28.   
+[17]Psychoyos A. Uterine receptivity for nidation[J].Ann N Y Acad ScL,1986,476: 36-42.   
+[18]Dehbashi S,Parsanezhad ME,Alborzi S,et al. Effect of clomiphene citrate on endometrium thickness and echogenic patterns[J].Int J Gynaecol Obstet, 2003,80(1): 49-53.   
+[19]Haritha S, Rajagopalan G.Folicular growth,endometrial thickness, and serum estradiol levels in spontaneous and clomiphene citrateinduced cycles[J].Int JGynecol Obstet,2003,81(3): 287-92.   
+[20]Nakamura Y, Ono M, Yoshida Y,et al.Effects of clomiphene citrate on the endometrial thickness and echogenic pattern of the endometrium[J].Fertil Steril,1997,67(2): 256-60.   
+[21] Seyedoshohadaei F,Tangestani L,Zandvakili F,et al. Comparison of the Effect of Clomiphene- Estradiol Valerate vs Letrozole on Endometrial Thickness,Abortion and Pregnancy Rate in Infertile Women with Polycystic Ovarian Syndrome[J].J Clin Diagn Res, 2016,10(8):QC10-3.   
+[22]Satirapod C,Wingprawat S,Jultanmas RA,etal. Effect of estradiol valerate on endometrium thickness during clomiphene citratestimulated ovulation[J].J Obstet Gynaecol Res,2014,40(1):96- 101.   
+[23]Elkind-Hirsch KE,Darensbourg C,Creasy G,et al. Conception rates in clomiphene citrate cycles with and without hormone supplementation: a pilot study[J]. Curr Med Res Opin,20o5,21(7): 1035-40.   
+[24]Punyadeera C,Kamps R,Defrere S,et al.Effects of selective oestrogen receptor modulators on proliferation in tissue cultures of pre- and postmenopausal human endometrium [J].J Steroid Biochem Mol Biol,2008,112(1/3):102-9.   
+[25]Blauer M,Heinonen PK,Rovio P,et al.Effects of tamoxifen and raloxifene on normal human endometrial cells in an organotypic in vitro model[J].EurJPharmacol,2008,592(1/3):13-8.

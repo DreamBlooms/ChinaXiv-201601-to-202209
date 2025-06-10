@@ -1,0 +1,148 @@
+[
+    {
+        "type": "text",
+        "text": "Solar, supernova, atmospheric and geo neutrino studies using JUNO detector ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "G. Salamanna\\*t   \nRoma Tre University and INFNRoma Tre,Rome,Italy   \n$E$ -mail:salaman@cern.ch ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "W. L. Guo IHEP,Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "R. Han BISEE,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Y. F. Li IHEP,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aside from its primary purpose of shedding light on the mass hierarchy (MH) using reactor antineutrinos,the JUNO experiment in Jiangmen (China) will also contribute to study neutrinos from non-reactor sources. In this poster we review JUNO's goals in the realms of supernova, atmospheric,solar and geo-neutrinos; present the related experimental issues and provide the current estimates of its potential. For a typical galactic SN at a distance of $1 0 ~ \\mathrm { k p c }$ , JUNO will record about 50o0 events from inverse beta decay, 2OOO events from elastic neutrino-proton scattering, 300 events from neutrino-electron scattering,and the charged current and neutral current interactions on the $^ { 1 2 } \\mathrm { C }$ nuclei. For atmospheric neutrinos, JUNO should be able to detect $\\nu _ { e }$ and $\\nu _ { \\mu }$ charged current events. Optimistically,a determination of the MH could be achieved at the $1 . 8 \\sigma$ （204号 $_ { ( 2 . 6 \\sigma ) }$ level after 1O (2O) years of data taking. JUNO will also study solar neutrinos from $^ 7 \\mathrm { B e }$ and $^ 8 { \\bf B }$ ,at low $( { \\approx } 1 \\mathrm { M e V } )$ and higher energies respectively, to improve our understanding of the matter effects on te oscillation mechanism and of the solar metallicity. Challenges come primarily from the radioactive and cosmogenic backgrounds: the expected performance for two benchmark scintillator radio-purities,are shown. The flux of geo-neutrinos gives us an insight on the Earth composition and formation. We will show how the increased sample size given by JUNO's large sensitive mass of 2O KTon liquid scintillator will provide data to answer to several geological questions among which the U/Th ratio and mantle measurements ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "38th International Conference on High Energy Physics   \n3-10 August 2016   \nChicago, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "JUNO is a neutrino experiment being built in China, described in [1]. Its primary purpose is to determine the neutrino mass hierarchy (MH) and measure the oscillation parameters using reactor sources.In order to pursue these aims it is necessary to attain an unprecedented resolution on the energy of the $\\bar { \\nu } _ { e }$ produced in the reactors: the goal is to achieve a resolution of $3 \\%$ at $1 \\mathrm { M e V . }$ These constraints render JUNO suitable also for the study of neutrinos originating from other sources: the Sun,the Earth centre and atmosphere and supernova explosions. Each of these topics bears relevant astrophysical or geophysical meaning. In the poster presented the potential of JUNO to detect and measure the main parameters connected with such sources was described. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Atmospheric neutrinos ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The JUNO central detector has a very low energy threshold and can measure atmospheric neutrinos with excellent energy resolution. Characteristic signals from Michel electrons, neutron captures and unstable daughter nuclei are helpful for the particle recognition. The JUNO liquid scintillator (LS) detector has also some capabilities to reconstruct the directions of charged leptons in terms of the timing pattern of the first-hit on the photo-multiplier tubes (PMT)[2]. Conservatively, only the atmospheric $\\nu _ { \\mu } / \\bar { \\nu } _ { \\mu }$ charged current (CC) events with a $\\mu ^ { \\pm }$ track length $L _ { \\mu } > 5 \\mathrm { ~ m ~ }$ are used to study the extraction of the MH from atmospheric neutrinos.For selected events,the assumption is that the final state $\\mu ^ { \\pm }$ can be fully reconstructed and identified. The corresponding visible energy and $\\mu ^ { \\pm }$ angular resolutions are taken to be ${ \\sigma _ { E _ { \\nu i s } } } = 0 . 0 1 \\sqrt { E _ { \\nu i s } / \\mathrm { G e V } }$ and $1 ^ { \\circ }$ , respectively. Events are divided into four categories,according to the muon track length and the $\\nu / { \\bar { \\nu } }$ statistical separation [3]. A $0 . 9 \\sigma$ MH sensitivity can be achieved with 1O year data and for $\\sin ^ { 2 } \\theta _ { 2 3 } = 0 . 5$ as shown in the left panel ofFig.1. The inverted hierarchy case has similar results [1]. An optimistic scenario for the neutrino MH is also contemplated.Firstly, the ${ \\nu _ { e } } / { { \\bar { \\nu } } _ { e } }$ CC events can be identified and reconstructed very well in the $e ^ { \\pm }$ visible energy $E _ { \\nu i s } ^ { e } > 1$ GeV and $E _ { \\nu i s } ^ { e } / E _ { \\nu i s } > 0 . 5$ （20 case.Furthermore,a looser $L _ { \\mu } > 3 \\mathrm { m }$ requirement is applied. Finally, the charged lepton direction is replaced with the full neutrino direction,with a $1 0 ^ { \\circ }$ angular resolution. As shown in right panel of Fig. 1, the combined sensitivity can reach $1 . 8 ~ \\sigma$ for 10 year data [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9174ab10bcf50a9699d5df7ae19ae128015316c78d17cbef9e13226e63a5c846.jpg",
+        "img_caption": [
+            "Figure 1: The JUNO conservative (left)and optimistic (right) MH sensitivities as a function of livetime for the true normal hierarchy hypothesis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Solar neutrinos ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Sun is a powerful source of electron neutrinos with an energy of O(1) MeV, produced in two thermo-nuclear fusion reactions in the solar core (pp chain and CNO cycle). The relative importance of the two can be used to infer a star size: in the Sun,the pp chain constitutes around $9 9 \\%$ of the neutrino flux, with the pp, pep, hep, $^ 7 \\mathrm { B e }$ and $^ 8 \\mathbf { B } \\ \\nu _ { e }$ sources. The experimental signature is constituted by a single electron scattered elastically by the incoming solar neutrino.From studying the solar neutrino flux and energy spectrum important issues can be probed,such as testing of the Mikheyev-Smirnov-Wolfenstein (MSW) [4],[5] matter efect in particle physics, particularly at energies sensitive to new physics contributions $( E _ { \\nu } \\approx 2 - 5 \\mathrm { ~ M e V }$ [6]); and the agreement between solar models and the data from helioseismology [7]. Thanks to its large exposure and the good energy resolution, JUNO can compete with the recent main actors in the sector (e.g. [8]). It can contribute to the measurement of $E _ { \\nu }$ from $^ 7 \\mathrm { B e }$ and discriminate the pp neutrinos from the sharply decreasing $^ { 1 4 } \\mathrm { C }$ spectrum. The main challenge is represented by the backgrounds: the intrinsic radioactivity of elements decaying in theLS,the acrylic vessel and the instrumentations; and from the cosmic ray muons interacting with $^ { 1 2 } \\mathrm { C }$ and producing lighter isotopes such as the long-lived $^ { 1 1 } { \\bf C }$ and $^ { 1 0 } \\mathrm { C }$ . The latter are particularly relevant for pep and for $^ 8 { \\bf B }$ and CNO solar $\\nu$ respectively. The assumed baseline (ideal) radio-purity,afterLS purification, corresponds to a signal-to-background ratio ${ \\tt S } { : \\tt B } { \\approx } 1 { : 3 }$ (2:1). The resulting background and signal energy spectra are shown in Figure 2 for the baseline case. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/61c5716d04ac8bfb8a57471c73c7acfb708a210500405b35982e659c452c7967.jpg",
+        "img_caption": [
+            "Figure 2: Left: Energy spectra of electrons resulting from solar neutrino elastic scattering and relevant backgrounds. The $\\nu _ { e }$ fluxes are taken from [1]. Right: Energy spectra of geo-neutrinos,reactor antineutrinos, and other non-antineutrino backgrounds at JUNO for one year of data-taking.The blue solid line is the total spectrum,while the red dashed line is the reactor antineutrinos.The red solid area and pink area with parallel lines are antineutrinos from Th and U in the Earth,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Supernova neutrinos ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A massive star of mass above eight solar masses is expected to experience a core collapse under its own gravity,and then a violent explosion, where $9 9 \\%$ of the gravitational binding energy of the core-collapse supernova (SN) willbe carried by the intense burst of neutrinos [9]. Measuring the neutrino burst from the next nearby SN is a primary goal for the studies of both neutrino physics and astrophysics.As the largest LS detector of new generation, JUNO will be superior in its high statistics,the good energy resolution and rich neutrino flavor information [1]. For a Galactic SN burst at $1 0 \\mathrm { k p c }$ , JUNO will register about 5OoO events from inverse beta decay (IBD), $\\overline { { \\nu } } _ { e } + p \\to n + e ^ { + }$ ,1000 events from al-flavor elastic neutrino-proton scatering, $\\nu + p \\to \\nu + p$ ,more than 300 events from neutrino-electron scattering, $\\nu + e ^ { - } \\to \\nu + e ^ { - }$ ,as well as the charged current and neutral current interactions on the $^ { 1 2 } \\mathrm { C }$ nuclei. The numbers of neutrino events at JUNO [1] for a SN at a typical distance of $1 0 \\mathrm { k p c }$ are presented in Table 1.With these measurements of SN neutrinos, JUNO may provide precious information to measure the initial SN neutrino fluxes [10], to constrain the neutrino mass scale [11] and ordering,to test the scenario of collective neutrino oscillations and even to probe the neutrino electromagnetic properties [12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c70b6afe8987a07c1364ccb58b83d29c32e6b2725525840fef992ee73eb1e403.jpg",
+        "table_caption": [
+            "Table1: Numbers of neutrino events in JUNO for a SN at a typical distance of $1 0 \\mathrm { k p c }$ .Three representative values of the average neutrino energy $\\left. E _ { \\nu } \\right. = 1 2 \\mathrm { M e V } ,$ $1 4 \\mathrm { M e V }$ and $1 6 \\mathrm { M e V }$ are taken for illustration. For the elastic neutrino-proton scattering,a threshold of $0 . 2 \\mathrm { M e V }$ for the proton recoil energy is chosen. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Channel</td><td rowspan=\"2\">Type</td><td colspan=\"3\">Events for different (Ev>values</td></tr><tr><td>12 MeV</td><td>14 MeV</td><td>16 MeV</td></tr><tr><td>Ve+p→e++n</td><td>CC</td><td>4.3 ×103</td><td>5.0 ×103</td><td>5.7×103</td></tr><tr><td>v+p→v+p</td><td>NC</td><td>0.6×103</td><td>1.2 ×103</td><td>2.0×103</td></tr><tr><td>v+e→v+e</td><td>ES</td><td>3.6×10²</td><td>3.6×10²</td><td>3.6×10²</td></tr><tr><td>ν+ 12C→ν+ 12C*</td><td>NC</td><td>1.7 ×10²</td><td>3.2×10²</td><td>5.2 ×10²</td></tr><tr><td>Ve+ 1²C-→e−+ 12N</td><td>CC</td><td>0.5 ×10²</td><td>0.9 ×10²</td><td>1.6 × 10²</td></tr><tr><td>Ve+1²C-→e++12B</td><td>CC</td><td>0.6 ×10²</td><td>1.1 ×10²</td><td>1.6 × 10²</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.Geo-neutrinos ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Geo-neutrinos are electron antineutrinos emitted from nuclei undergoing $\\beta$ decay inside the Earth.Those from Th and U have the highest energies and undergo an inverse beta decay (IBD) in the JUNO LS.The flux of geo-neutrinos at any point on the Earth is a function of the abundance and distribution of radioactive elements within our planet.This flux has been successfully detected by the 1-kt KamLAND and $0 . 3 \\mathrm { - } \\mathrm { k t }$ Borexino detectors,with these measurements being limited by their low statistics. With a much higher mass, JUNO should gather enough data to separate the contributions of Th and U.Its $\\mathrm { T h / U }$ ratio can bring resolution to several major issues in Earth sciences: which are the sources of the power that is driving plate tectonics,mantle convection, and the geodynamo,as well the structure of mantle convection. The main background coming to geo-neutrino studies comes from nearby nuclear power plants. The expected energy spectra for geo-neutrino signal as well as reactor antineutrino and non-antineutrino backgrounds are shown in Figure 2. Scenarios where the $\\mathrm { T h / U }$ ratio is fixed to the chondritic value or is free Th/U were considered. With 1,3,5,and 10 years of data, the precision of the geo-neutrino measurement with a fixed chondritic $\\mathrm { T h / U }$ ratio is $13 \\%$ ， $8 \\%$ ， $6 \\%$ and $5 \\%$ ,respectively,which as expected, decreases with higher statistics. For the future,we need to predict the geo-neutrino flux at the JUNO experimental site. The combined geological, geophysical and geochemical data will be integrated into a 3-dimensional reference model of the lithosphere [13]. After building this geological model geologists and particle physicists will work together to calculate the regional geo-neutrino flux. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The poster presented illustrates the foreseen potential of the JUNO experiment for the measurement of properties of neutrinos from the sun,the Earth and astrophysical events.The main background sources and selection strategy have been described. Thanks to its very large exposure and expected unprecedented energy resolution, JUNO should be competitive and improve on past measurements,with a unique potential for e.g. supernova neutrinos. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]F.An et al.[JUNO Collaboration],J. Phys.G 43,030401 (2016) [2] J.G.Learned [arXiv:0902.4009] [3]P.Huber and T. Schwetz Phys.Lett.B 669,294 (2008)   \n[4]L.Wolfenstein Phys.Rev.D 17, 2369 (1978) [5] S.P. Mikheyev, A. Y. Smirnov, Sov. J. Nucl. Phys. 42, 913 (1985) [6] M. Maltoni, A. Y. Smirnov,Eur. Phys.J. A 52,87 (2016) [7]F.L. Villante,A. Serenelli,F. Delahaye, M. H. Pinsonneault, Astrophys. J. 787,13 (2014) [8] G. Bellini et al. [Borexino Collaboration], Nature 512, 383 (2014) [9] H. T. Janka, Ann. Rev. Nucl. Part. Sci.62, 407 (2012)   \n[10]J. S.Lu,Y.F.Li and S.Zhou,Phys.Rev.D 94,no.2,023006 (2016)   \n[11] J. S. Lu, J. Cao, Y. F.Li and S. Zhou, JCAP 1505,no.05, 044 (2015)   \n[12] C.Giunti et al, Annalen Phys. 528,198 (2016)   \n[13] Y. Huang et al, Geochemistry,Geophysics, Geosystems.14,2003iC2029(2013) ",
+        "page_idx": 4
+    }
+]

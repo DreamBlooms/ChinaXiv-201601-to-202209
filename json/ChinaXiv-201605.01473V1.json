@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "Full Length Articles ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Layer-specific response properties of the human lateral geniculate nucleus and superior colliculus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Zhang a,\\*, Hao Zhou a,Wen Wen b, Sheng He a,c,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyboratoryofainndCognitiveience,sitteofophyicsinesecdemyfiencesjngin b DepartmentofOphthalmology,EyendENHospital,FudanUniversityhanghaio1,ina Department of Psychology,Universityof Minnesota,Minneapolis,MN 55414,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Accepted 11 February 2015 Available online 19 February 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The human LGN and SC consist of distinct layers,but their layer-specific response properties remain poorly understood.In this fMRI study,we characterized visual response properties of the magnocellular（M)and parvocellular(P)layers of the human LGN,as wellas at different depths in the SC.Results show that fMRI is capableofresolving layer-specific signals fromtheLGNandSC.Compared tothePlayers oftheLGN,theMlayers preferred higher temporal frequency,lower spatial frequency stimuli,and their responses saturated atlower contrast.Furthermore,the Mlayers arecolorblind while thePlayers showed robustresponse to both chromatic and achromatic stimuli.Visualresponses inthe SCwere strongest in the superficial voxels,which showed similar spatiotemporal and contrast response properties as the M layers of the LGN,but were sensitive to colorand responded strongly to isoluminant color stimulus.Thus,the non-invasive fMRI measures show that the M and P layers of human LGN have similar response properties as that observed in non-human primates and the superficial layers of the human SC prefer transient inputs but are not colorblind. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Afundamental principle about the human visual systemis the clear organization of anatomically and functionally distinct pathways or channels.In the geniculo-striate visual system, the two major pathways are the magnocellular（M) and parvocellular(P)pathways （Felleman and Van Essen,1991),responsible for processing different aspects of the visual world(Kulikowski and Tolhurst,1973;Legge,1978). The M and P pathways are best represented and clearly segregated in different layers in the LGN.The inner two layers of the LGN consistof larger cells and are called the M layers,while the outer four layers with smaller cell bodies are the P layers.Although the physiological characteristics of M and P neurons in the LGN have been extensively studied in nonhuman primates (Derrington and Lennie,1984; Jones,20o7;Wiesel and Hubel,1966),little is known about the functional properties of the M and P neurons in humans due to the lack of non-invasive methods applicable to human LGNs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The superior colliculus (SC) is another subcortical relay in the retinotectal visual pathway.It is evolutionarily more primitive than the LGN and supports different but critical visual functions,such as head and eye movement,visual attention and even blindsight (Ro et al.,2004; Stoerigand Cowey,1997). In primates, the SC isanatomicallyand functionally divided into superficial,intermediate,and deep layers.The intermediateand deep layers of SC are closely related to the controls of head and eye movement, receiving cortical inputs from a number of frontal and parietal cortical areas.The superficial layer of SC strongly responds to visual stimuli and receives direct input from the retina, in particular of the parasol ganglion cell type(Crook etal.,2oo8).The physiology of SC neurons has been extensively studied in nonhuman primates.In humans,the laminar response properties of the SC to visual stimulation remain to be explored. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the development of functional magnetic resonance imaging (fMRI) techniques,it becomes possible to measure the layer-specific response of human LGN and SC(Schneider,2O11; Schneider etal., 2004; Zhang et al.,2O14),but it remains challenging due to their small sizes and the poor signal-to-noise ratio deep in the brain.In the first part of this study,we were able to reliably measure signals from the Mand P layers of the human LGN.The identified spatial patterns of the Mand P layers showed high consistency with the LGN anatomy.The functional properties of the human LGN measured with fMRI matched the evidence from monkey physiology studies (Derrington and Lennie,1984; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Merigan and Maunsell,1993;Wiesel and Hubel,1966),with the M layers of the LGN tuned to higher temporal frequency,lower spatial frequency,and lower contrast,and vice versa for the parvocellular subdivision.While the P layers responded strongly to color stimulus, the M layers of the LGN were colorblind.In the second part of the study,we characterized the visual response properties of the human SC at different depth from the SC surface.Responses in the SC were strongest in the superficial voxels,which showed similar spatiotemporal and contrast responsesas the Mlayers of the LGN,but were sensitive to color and strongly responded to isoluminant color stimulus. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subjects ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thirteen healthy observers (age: $2 2 . 9 \\pm 2 . 5$ years,4 males,9 females） participated inall the experiments,with normal or corrected to normal vision.All subjects were given written informed consents before the experiments.The institutional review board of Institute of Biophysics approved the experimental protocol. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stimuli ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stimuli were generated in MATLAB (Mathworks Inc.） with psychophysics toolbox extension (Brainard,1997;Pelli, 1997),running ona MacBook pro computer,presented by MRl safe projectors $1 0 2 4 \\times 7 6 8$ at $6 0 \\mathrm { H z }$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Visual stimuli were full-field ( $2 4 ^ { \\circ }$ in diameter) counterphase flickering checkerboard patterns,each presented for16 s,alternating with16 s of fixation.Stimuli were designed to preferentially engage the Pand the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "M systems,and they are labeled as the P stimulus and M stimulus for simplicity.As shown in Fig.1A,theP stimulus was high spatial frequency, isoluminant red/green square wave patterns,and reversed contrast at $0 . 5 \\mathrm { H z }$ The M stimulus was low spatial frequency sine wave patterns with $30 \\%$ luminance contrast,and counterphase flickered at $1 0 \\mathrm { H z }$ For theP stimulus,the luminance of the red and green were matched for each observer with the minimal flicker procedure,the adjustment of red/green isoluminant was done 2O times,and the results were averaged.Fig.1B shows the chromatic and achromatic stimuli.The chromatic stimulus has the same chromatic pattern as the P stimulus;the achromatic stimulus has the spatial frequency and was presented at $5 0 \\%$ luminance contrast. Both chromatic and achromatic stimuli counterphase flickered at $5 \\ : \\mathrm { H z }$ Fig.1C shows the stimuli measuring the spatiotemporal frequency response functions.The luminance defined checkerboard patterns were manipulated at three different spatial frequencies (low,medium,and high SF),each presentedat five different temporal frequencies (0.9375,3.75,7.5,10,and $1 5 \\mathrm { H z }$ ),with contrast fixed at $50 \\%$ Fig.1D shows the stimuli measuring the contrast response functions.The luminance contrast was manipulated at 4 different levels 0 $6 . 2 5 \\%$ $1 2 . 5 \\% ,$ $2 5 \\%$ and $5 0 \\%$ ),andcounterphase flickeredat $7 . 5 \\mathrm { H z } .$ All stimuli were presented at a mean luminance of $8 4 \\mathrm { c d } / \\mathrm { m } ^ { 2 }$ ,rotating clockwise or counterclockwise at $2 . 4 ^ { \\circ } / s$ (except for theMstimulus,which rotated at $2 4 ^ { \\circ } / s$ )to prevent the signal drop from local adaptation. During the experiments,subjects were instructed to keep fixation and passively viewed the stimuli. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All subjects participated in three scanning sessions performed in 3 days.Each session consists of multiple runs.In the first session,4 runs were scanned for the $\\mathsf { M } / \\mathsf { P }$ stimuli,and 4 runs for the chromatic/ achromatic stimuli,each run consists of 13O volumes of images.In the second scanning session,nine runs were scanned for stimuli with different spatiotemporal frequencies,with 162 volumes for each run. Each run consists of all five temporal frequency conditions,and three runs were scanned for each spatial frequency condition.The third session measured the contrast response function,eight runs were scanned and 130 volumes were acquired for each run. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/90697a5a58ac2ff982e111cca478253ecc54646b056d304beb297bad65757cca.jpg",
+        "img_caption": [
+            "Fii suring the contrast response function. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "89 ms,26 axial sliceswith $2 \\mathrm { m m }$ thickness, $2 5 6 \\times 2 5 6$ matrix with $1 \\mathrm { m m }$ in-plane resolution,flip angle $= 6 0 ^ { \\circ }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRI protocol ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRI data were acquired with a3 TMRl scanner(Siemens Trio) at the Institute of Biophysics,usinga12-element Head Matrix coil.A gradient echo planar imaging sequence was used to acquire functional images （ $2 \\ : \\mathrm { m m }$ isotropic voxels:26 axial slices, $2 \\mathrm { m m }$ thickness, $1 2 8 \\mathrm { ~ m m ~ F O V } ,$ $6 4 \\times 6 4$ matrix. $\\mathrm { T R } / \\mathrm { T E } \\ = \\ 2 0 0 0 / 2 8 \\ \\mathrm { m s }$ ，flipangle $\\mathbf { \\eta } = 9 0 ^ { \\circ }$ ).Highresolution anatomic volume was obtained with a T1 MPRAGE sequence 0 $1 \\mathrm { m m }$ isotropic voxels,192 sagittal $1 \\mathrm { m m }$ thick slices, $2 5 6 \\times 2 5 6$ matrix with $1 \\mathrm { m m }$ in-plane resolution, $\\mathrm { T R } / \\mathrm { T E } = 2 6 0 0 / 3 . 0 2 \\mathrm { m s } ,$ flip angle $= 8 ^ { \\circ }$ ） Another high-resolution T2 anatomical scan coaligned with the functional images was acquired to assist the registration of the EPI functional images to the T1anatomical volume(TSE T2w sequence, $\\mathrm { T R } / \\mathrm { T E } = 3 4 0 0 /$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRI data were analyzed using AFNI (Cox,1996),SPM (Friston, 1996),and custom MATLAB code.The first two volumes of each run were discarded to avoid magnetic saturation effects.The functional images from each run were first resampled to $1 \\mathrm { m m }$ isotropic,realigned to the first image of the first run in this session.The high-resolution T1 volume was registered to the T2 anatomical volume and then normalized to the MNI space.Functional images were normalized to the MNI space based on the warping parameters estimated from the normalization of the T1 volume.Linear trend in the fMRI time series were removed,and the unit of the time series was converted to percent signal change.We did not do any correction for physiological noise.According to previous studies,such correction should improve the SNR from subcortical nucleus(Limbrick-Oldfield etal.,2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2ba22afe11e36debb4c9948671da5cd99c806f436e7522afc8058b2b8c8e60.jpg",
+        "img_caption": [
+            "Fi（ T s T1 anatomical images. Here shows the coronal slices of a representative subject. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ROIs of the LGN were defined based on combined functional activations from all stimuli of all sessions and the anatomical locations of the LGN from the T1 volume (second row in Fig.2B).The LGNs can beclearly identified from the T1 mprage images.Asa standard for comparison,Fig.2A shows the human LGN on brain slices obtained from autopsy. On the T1 images in Fig.2B,showing the LGNs from a representative subject,the LGNs appeared darker compared to surrounding brain tissues.The shapes of the LGNs from the T1 images (Fig.2B, upper row）are highly consistent with those seen in the autopsy slices (Fig.2A).Fig.3C shows the location of the LGNs in the whole brain (Green crosses from different views correspond to the same spatial coordinate).In an attempt to resolve individual layers of the LGN,we collected high-resolution proton density images (512 by 512 matrix, $0 . 5 ~ \\mathrm { m m }$ in-plane resolution,with an 8-channel volume coil on a7 T scanner） from one subject (Fig.2D).The shape outline of the LGNs looks clearer than that in the T1 images,but individual layers are not resolvable. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The beta values of different stimulus conditions were fitted and extracted with general linear models (GLM).Beta values in the LGNs were extractedand analyzed in MATLAB.The coordinates of the right LGNs were mirror flipped to the left,and the mass centers of all LGNs were registered.Group average of the beta values and functional T maps were generated from the registered LGNs.Similar approaches wereused to analyze the data from the SC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Part1:visual responses in theMand P layers of the human LGN ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We first identified the magnocellular and parvocellular layers of the LGN with stimuli designed to differentially activate the magnocellular (M stimulus） and parvocellular（P stimulus）neurons.Following the identification of these ROIs,we examined their responses to chromatic and achromatic stimuli,measured their spatiotemporal frequency response functions,and contrast response functions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Functional localizationof theM/P layers of the human LGN ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asshown by Fig.3A, theMand P stimuli were presented for16 s, alternating with a 16 s period of fixation.Subjects were asked to keep the fixation during the experiment.For each LGN, the fMRI responses (beta values) to the M/P stimuli were fitted and extracted via general linear model (GLM).The LGNs were identified from significantly activated voxels by the checkerboard stimuli at the anatomical locations of the LGN based on high-resolution T1 images.During group analysis, all LGNs( ${ \\mathrm { \\Delta } n = 2 6 }$ )were registered to their center of mass (right LGNs were mirror flipped to the left before registration),and a voxel-wise T testwas performed to compared the difference between fMRl responses to the Mand P stimuli. Fig.3B(2nd column) shows the results.The M layers of the LGN were identified as Voxels having significantly stronger responses to the M stimulus than to the P stimulus,and vice versa for the identification of the P layers of the LGN. Compared to the center of the P portion of the LGN,the center of the M portion was located significantly more anteriorly $( t ( 2 5 ) = 8 . 5 7$ = $p < 0 . 0 0 1 _ { \\cdot } ^ { \\cdot }$ ),inferiorly $( t ( 2 5 ) =$ 7.27, $p < 0 . 0 0 1$ ),and slightly more medially $( t ( 2 2 ) = 1 . 4 8$ $p < 0 . 1 6 ^ { \\cdot }$ (Fig.3B,4th column).Individual coordinates for the Mand P centers were shown with scatter plots in Supplemental Material.This spatial pattern is consistent with the anatomy of human LGN(Fig.3B,3rd column,derived from brain slices obtained by autopsy). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77fce84386afcbb6d672eb5069407589d6d083ad46cc0cbe591a177c2d9c0aab.jpg",
+        "img_caption": [
+            "Fig.3.(A) Stimuli used for functional localization of the LGN's Mand Players.The P stimulus $( 0 . 5 \\mathrm { H z } )$ and M Stimulus $( 1 0 \\mathrm { H z } )$ were presented in separate 16 s blocks,alternating with a 16 s f second column shows the enlarged spatial pattern of ${ \\mathrm { M } } / { \\mathrm { P } }$ layers dentifedbycontrastingbetweenfMRIresponses totheMandPstiuli (pairedt-testacrossallLGNs).Thestatiticap dicates the Tvalues,only significant voxelswere showninthe Tmap (Red:M beta $> P$ beta, Blue: M beta $< P$ beta).The third column shows the LGN anatomy as a reference,derived from humanbrainops(tesweowineddthesiueoloreoutostecatiosfasforte $\\mathsf { M } / \\mathsf { P }$ functional subdivisions in coronal/ axial/sagittal planes.Error bars in this and all subsequent figures indicate standard errors of the mean. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Functional propertiesof theM/P layersof human LGN ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In separate fMRI scanning sessions,we measured the magnocellular and parvocellular neural responses of the human LGN along different stimulus dimensions.Fig.4A shows the layer-specific fMRl responses of the LGN to the Mand P stimuli.In the magnocellular layers of the LGN,the fMRl response to the M stimulus was significantly stronger than that to the P stimulus $( t ( 2 5 ) = 4 . 9 7$ ， $p < 1 0 ^ { - 4 } ;$ .While in the parvocellular layers,the fMRI responses showed a significant bias to the P stimulus $( t ( 2 5 ) = 4 . 7 9$ $p < 1 0 ^ { - 4 } ,$ ).The fMRI responses of the M and $\\mathrm { ~ \\sf ~ P ~ }$ layers to chromatic and achromatic stimuli were shown by Fig.4B.A significant two-way interaction was found between layers (M and P)and stimuli (chromatic/achromatic), $F ( 1 , 2 5 ) = 3 2 . 6 \\$ $p < 1 0 ^ { - 5 }$ ,indicating a dramatic difference in chromatic sensitivity of the magnocellular and parvocellular neurons.The M layers of the LGN showed strong fMRl response to the achromatic contrast stimulus but minimal response to the isoluminant chromatic contrast stimulus, whereas the Players showed robust fMRI responses to both achromatic and chromatic patterns.Fig.4C shows the temporal frequency response functions of the M/P layers.Compared to the P layers,the M layers showed stronger fMRI response to high temporal frequencies ( $\\cdot 1 0 \\mathrm { H z }$ $1 5 ~ \\mathrm { H z } ^ { \\cdot }$ ）but weaker response to low temporal frequencies（ $. 9 4 ~ \\mathrm { H z }$ $3 . 7 5 \\mathrm { H z } \\cdot$ ).Also,Fig.4Dshows that,compared to thePlayers,theMlayers had stronger response to the low and medium spatial frequency patterns but weaker response to high spatial frequency patterns. These results are consistent with the spatiotemporal response properties of the $\\mathsf { M } / \\mathsf { P }$ neurons.Fig.4E shows the luminance contrast response functions.At the lowest contrast level $( 6 . 2 5 \\% )$ ,the fMRI response of the Mlayersalmost saturated and remained flat until $5 0 \\%$ of luminance contrast.TheP layers had weakerresponse than the Mlayersat the lowest contrast but showed more linear modulation of fMRI responses across different contrast levels.Our data are consistent with the LGN physiology that the M cells are more sensitive to low luminance contrast than the P cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus,using fMRl,we were able to identify the magnocellular and parvocellular layers of the human LGN with stimuli preferentially activating the magnocellular and parvocellular neurons.The spatial pattern of the identified M/P layers agrees well with the known anatomy of the human LGN,and the response properties of the M/P layers are also consistent with previous physiological evidence. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f7f39c9201c05647fa52288dfad4bea127e8ee314d746a8b2157914d86229f2.jpg",
+        "img_caption": [
+            "Fig.4.Functional properties ofthe Mand Players of the human LGN. (A) fMRI response of the $\\mathsf { M } / \\mathsf { P }$ layers of the LGN to the $\\mathsf { M } / \\mathsf { P }$ stimuli. Red and blue bars indicate BOLD signals to the M and to the P stimulus,respectively. (B) The fMRI response of the $\\mathsf { M } / \\mathsf { P }$ layers to thechromatic(red bars)and achromatic(blue bars)stimuli.(C)The fMRIresponses asafunctionof temporal free $\\mathsf { M } / \\mathsf { P }$ （20 layers.(E) Contrast response functionsof the $\\mathsf { M } / \\mathsf { P }$ layers. The mean BOLD respons normalized across subjects: subtracting the mean for each subject and then adding the g same normalization was done to generate Fig. 6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Part2:visual responsesat different depthsin the human SC ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We measured fMRI responses of the SC at different depths of the nucleus to a variety of visual stimulations,such as checkerboards defined by chromatic or luminance contrast, presented at different spatiotemporal frequencies,and varied luminance contrast. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ROIs of the SC were defined for each individual according to their T1 anatomical images.The fMRI signals in the SC were averaged across all stimulus conditions,and the beta values to the averaged response were fitted with GLM. One sample $t$ -test was performed on the beta maps across all SCs.Fig.5A shows the group averaged beta map in the SC at significant voxels $( t ( 2 5 ) = 4 . 0 , p < 0 . 0 0 0 2 )$ .The strongest response in the SC was located more laterally and superficially.The surface of the SC was defined as the outer most voxels,according to the anatomy of the SC.Then the depth for each voxel was calculated as the shortest distance from the voxel to all surface voxels.The third column in Fig.5A shows the map of depth from the SC surface.As shown by Fig.5B,fMRl response of the SC to the visual stimuli was strongest at the superficial voxelsand gradually decreased with increasing depth of voxels from the surface.This result is consistent with the fact that the superficial layerof the SC is mostly composed of visual sensory neurons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the functional responses of the SC voxels at different depth from the surface along multiple stimulus dimensions.As shown byFig.6A,voxelsat the surfaceof the SC( ${ \\tt d e p t h } = 0 { \\mathrm { ~ m m } }$ )showed significant stronger responses to the M stimulus compared to the P stimulus $( t ( 2 5 ) = 2 . 3 0$ $p < 0 . 0 3$ ),and such difference was not significant deeper in the SC.It is unlikely that the signals from the superficial layerswere from large veins,as the closest large blood vessel is located at least $3 \\mathrm { m m }$ away (to the medial side of the SC) from the center of SC activation (more lateral).Fig.6B shows that voxelsat the SC surface and those close to the surface responded significantly stronger to the achromatic contrast stimulus compared to the chromatic contrast stimulus (depth $= 0$ ：： $t ( 2 5 ) = 2 . 3 0$ 1 $p < 0 . 0 3$ ,and depth $\\ l = 1$ ： $t ( 2 5 ) = 2 . 3 0$ $p < 0 . 0 3 \\cdot$ ).Importantly,these results showed that the SC strongly responded to isoluminant stimulus defined by chromatic contrast, suggesting that the SCis not colorblind.Figs.6C and D show that the SC responses are better tuned to high temporal frequency and low spatial frequency stimuli. The contrast response functions of the SC were shown by Fig.6E,the SC responses saturated at the lowest contrast level and remained almost constant across higher contrast levels.These results indicate that the spatiotemporal response properties,and luminance contrast sensitivities of the SC are very similar to the functional properties of the magnocellular layers of the LGN. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To summarize,our data show that SC response to the visual stimuli was strongest in the superficial voxels and gradually decreased in deeper voxels.The human SCs responded robustly to stimuli defined by chromatic contrast,although luminance defined stimuli induced slightly stronger response than chromatic stimuli. Finally,human SCs prefer high temporal frequency and low spatial frequency stimuli,and their responses saturated at low luminance contrast. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although fMRl studies have made extensive progress at delineating the two-dimensional “functional areas,\"relatively littleattention has been directed to the third dimension-layers.The ability to access layer-specific neural signal is critical to the understanding of neural mechanisms in the brain.For example,a recent fMRI study found laminar differences in the neurovascular coupling in primate V1,providing important implications for the mechanismof feedforward and feedback processes (Goense et al.,2012).In this fMRl study,we were able to measure BOLD signals from magnocellularand parvocellular layers of the human LGN as well as from different depth in the human SC.Their layer-specific visual response properties,such as chromatic selectivity, spatiotemporal response functions,and contrast response functions, were characterized. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With stimuli designed to differentially activate the magnocellular or parvocellular neurons,the fMRl data reliably localized the M and P layers of the human LGN.The mass center for the Mlayers of the LGN were located more anteriorly,inferiorly and medially compared to the mass center for theP layers,which is consistent with the laminar profile of the human LGN.Inaddition,the fMRI response in the M layers favored higher temporal frequency,lower spatial frequency stimuli, and saturated at lower contrast,compared to the response in the P layers.Further,the M layers of the LGN did not respond to stimuli defined purely by chromatic contrast,while the P layers strongly responded to both chromatic and achromatic stimuli.These functional characteristics are in good agreement with the findings from previous monkeyphysiology studies(Derringtonand Lennie,1984;Merigan and Maunsell,1993;Wiesel and Hubel,1966). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One previous study tried to identify the M/P layers of human LGN based on different contrast sensitivities of the M/P neurons (Schneider et al.,2oo4),but the segmented layers based on a single functional criterion showed large variabilityacross subjects.Another study varied multiple feature dimensions in the localizer stimuli to differentiate the responses of the M/P neurons,and the identified the M/P layers did show better consistency (Denison et al.,2014).However,their results came froma relatively small group of subjects( $( n = 6 )$ )，andthere were no independent experiments to investigate the functional properties of the resultantM/P layers.In our study with13 subjects,the Mand P stimuli were optimally designed along four stimulus dimensions (contrast,color,spatial,and temporal frequencies）to selectively favor the responses of the MorP layers of the LGN.The topography of the identified M and P layers was in good agreement with the anatomy of the human LGN.The robustness of this approach in identifying LGN layers was supported by the observation that essentially the same Mand P topography was obtained from a separate group of 18 subjects scanned ata different scanner with the same stimuli and procedure (Zhang et al., 2014).Furthermore,ina series of independent fMRI experiments,we characterized the functional properties of the MandP layers,which are consistent with the LGN physiology.Therefore,the current study provided convincing segmentation results of the M/P layers of human LGN,as well as detailed characterization of their visual response properties. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bef574ef56c0318260ad71524b4d43a8f7e58e03f2f1a49406d2158da3df3bfb.jpg",
+        "img_caption": [
+            "the group averaged beta map in the SC (map threshold is $p < 0 . 0 0 0 2 \\cdot$ .The third column shows the mapof depth from the SCsurface.(B)Visual responses in the SCas afunctionof depth from the surface of the SC.Signals were averaged across all stimulus conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8bc0633e8e8131c864e000cce6d5a0c3397fdabd015aeb3431dd4648134c531.jpg",
+        "img_caption": [
+            "Fig.6.Visualresponse propertiesat diferentdepth inthe human SC.(A)SCresponses to the $\\mathsf { M } / \\mathsf { P }$ stimuli.Redand blue bars indicateBOLDsignals tothe Mand to thePstimulus,respectively.(B) SCresponses to the chromatic (red bars)and achromatic (blue bars)stimuli.(C) SC respons es as a function of temporal frequencies of flickering checkerboard. Colored lines indcatealtilss "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A more conclusive approach might be to identify the boundary between the Mand Players of the LGN with ultra-high resolution MRI techniques such as proton density imaging sequences (McKetton and Schneider,2O12),and then validate whether the MandP functional subdivisions conform to that boundary.We tried to collect highresolution PD images of the LGN from one subject.As shown by Fig.2, theLGNbody can be better visualized than the T1 images,but individual layers remain unresolved.It is possible that using a bite bar during scanning may help.However,in the current study,the LGN bodies are clearly visible from the T1 anatomical images,and the ROI of the LGN were selected as voxels within the LGN body that were significantly activated by the visual stimulation.Therefore,the identified Mand P functional sections are within the anatomical volume of the LGN.In addition, considering that the relative locations of the Mand P sections are consistent with the known anatomical relationships,we have high confidence about the current segmentation results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the second part of this study,we characterized visual response propertiesat different depths in the human SC.Results show that visual responses in the SC were strongest in the superficial voxels and gradually decreased deeper into the nucleus.This finding is consistent with physiological results obtained in non-human primates that the superficial layer of the primate SC is mostly composed of visual sensory neurons.Both chromatic and achromatic stimuli induced significant fMRI response in the SC,suggesting that the human SC is not colorblind. A recent monkey single-unit study found that chromatic stimuli evoked spiking responses of neurons in the intermediate layers of the SC(White et al.,2oo9),whereas our human fMRI data showed strongest fMRI responses to chromatic stimuli in the superficial layers of the SC.Such discrepancy could be explained by the different neural basis for the fMRI signal and single-unit spiking activities.Compared to neuronal spiking activities,the fMRI BOLD signal might be more sensitive to top-down feedback modulations.In fact,previous studies showed that attention enhancement for visual responses (in contrast to visuomotor activities）in the human SC are strongest in the superficial voxels (Katyal and Ress,2014;Katyal et al.,201O).Finally, fMRl response in the SC preferred high temporal frequency and low spatial frequency stimuli and saturated at low luminance contrast. These visual response properties are similar to what we found for the Mlayers of the LGN.To summarize,our results are consistent with previous fMRI studies on the human SC that showed strongest visual responses in the superficial layers(Katyal etal.,2O1O)and low sensitivity to luminance contrast (Schneider and Kastner,2oo5). Importantly,our dataalso revealed the spatiotemporal response properties of the human SC,which was similar to responses in the Mlayers of the LGN,and showed a counterintuitive finding that the human SCs are very sensitive to color. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The subcortical pathways at the early stages of visual information processing have far reaching consequences and broad implications. The ability to access the layer-specific responses of the human LGN and SC is of great value to study the broad roles of these early visual pathways in human visual perception and cognition.For example,it could allow us to address issues such as whether visual consciousness is more related to one or the other pathway. It can also help to investigate important clinical issues,including the differential involvement of the parallel pathways in certain neurodegenerative diseases such as glaucoma,developmental dyslexia,and amblyopia. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at http:/dx. doi.org/10.1016/j.neuroimage.2015.02.025. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Nature Science Foundation of China grants （31322025,8102010817) and the Chinese Academy of Science grant (XDB02050001).We thank Zhentao Zuo and Yi Gao for their help on data collection and data analysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Brainard, D.H.,1997.The psychophysics toolbox. Spat. Vis.10 (4),433-436.   \nCox,R.W.,1996.AFNI: software for analysis and visualization of functional magnetic resonance neuroimages. Comput. Biomed. Res.29 (3),162-173.   \nCrook,J.D.,Peterson, B.B.,Packer,O.S.,Robinson,F.R.,Gamlin,P.D.,Troy,J.B.,Dacey,D.M., 2008.The smooth monostratified ganglion cell: evidence for spatial diversity in the Y-cell pathway to the lateral geniculate nucleus and superior colliculus in the macaque monkey. J. Neurosci. 28 (48), 12654-12671.   \nDenison,R.N., Vu,A.T., Yacoub,E.,Feinberg,D.A.,Silver, M.A.,2014.Functional mapping of the magnocellular and parvocellular subdivisions of human LGN. Neuroimage 102 (Part 2),358-369.   \nDerrington, A.M., Lennie,P.,1984. Spatial and temporal contrast sensitivities of neurones inlateral geniculate nucleus of macaque.J.Physiol.357,219-240.   \nFelleman,D.J., Van Essen,D.C.,1991.Distributed hierarchical processing in the primate cerebral cortex. Cereb. Cortex1(1),1-47.   \nFriston,K.J.,1996.Statistical parametric mapping and other analysis of functional imaging data.Brain Mapping:The Methods. Academic Press,pp.363-385.   \nGoense,J.,Merkle,H.,Logothetis,N.K.,2012.High-resolution fMRI reveals laminardifferences in neurovascular coupling between positive and negative BOLD responses. Neuron 76 (3),629-639.   \nJones,E.G.,2oo7.The Thalamus. Second ed. Plenum Press, New York.   \nKatyal, S.,Ress,D.,2014.Endogenous attention signals evoked by threshold contrast detection in human superior colliculus. J. Neurosci.34 (3),892-9oo.http://dx.doi. 0rg/10.1523/JNEUROSCI.3026-13.2014.   \nKatyal, S., Zughni,S., Greene,C., Ress,D.,2o1o.Topography of covert visual attention in human superior colliculus.J. Neurophysiol.104(6),3074-3083.http://dx.doi.org/ 10.1152/jn.00283.2010.   \nKulikowski,JJ., Tolhurst, D.J.,1973. Psychophysical evidence for sustained and transient detectors in human vision. J. Physiol.232 (1),149-162.   \nLegge, G.E.,1978.Sustained and transient mechanisms in human vision: temporal and spatial properties. Vis. Res.18 (1), 69-81.   \nLimbrick-Oldfield,E.H., Brooks,J.C.,Wise,R.J.,Padormo,F., Hajnal,J.V., Beckmann,C.F., Ungless,M.A.,2o12.Identification and characterisation of midbrain nuclei using optimised functional magnetic resonance imaging. Neuroimage 59 (2),1230-1238. http://dx.doi.org/10.1016/j.neuroimage.2011.08.016.   \nMcKetton,L,Schneider, K.A.,2012. Discriminating eye-specific layers of the lateral geniculate nucleus using high-resolution imaging: a comparison of abnormal visual system development in human albinism. VSS abstract.   \nMerigan,W.H., Maunsell,J.H.,1993. How parallel are the primate visual pathways? Annu. Rev. Neurosci. 16,369-402.   \nPelli, D.G.,1997. The VideoToolbox software for visual psychophysics: transforming numbers into movies. Spat. Vis.10 (4), 437-442.   \nRo,T.,Shelton,D.,Lee, O.L., Chang,E.,2oo4. Extrageniculate mediation of unconscious vision in transcranial magnetic stimulation-induced blindsight.Proc.Natl.Acad. Sci.U.S.A.101(26),9933-9935.http://dx.doi.0rg/10.1073/pnas.0403061101 (0403061101 [pii]).   \nSchneider, K.A.,2O11. Subcortical mechanisms of feature-based attention. J. Neurosci.31 (23), 8643-8653.http://dx.doi.0rg/10.1523/JNEUROSCI. 6274-10.2011.   \nSchneider, K.A., Kastner, S., 2oo5.Visual responses of the human superior colliculus:a high-resolution functional magnetic resonance imaging study. J. Neurophysiol. 94 (4),2491-2503.   \nSchneider,K.A., Richter, M.C., Kastner,S.,2oo4. Retinotopic organization and functional subdivisions of the human lateral geniculate nucleus:a high-resolution functional magnetic resonance imaging study.J. Neurosci. 24 (41),8975-8985.   \nStoerig,P., Cowey, A.,1997. Blindsight in man and monkey.Brain 120 (Pt3),535-559.   \nWhite,B.J., Boehnke,S.E., Marino,R.A.,Itti,L., Munoz, D.P.,2Oo9. Color-related signals in the primate superior colliculus.J. Neurosci. 29 (39),12159-12166. http://dx.doi. org/10.1523/JNEUROSCI.1986-09.2009.   \nWiesel,T.N.,Hubel,D.H.,1966.Spatial and chromatic interactions in the lateral geniculate body of the rhesus monkey. J. Neurophysiol.29 (6),1115-1156.   \nZhang,P.,Wen,W.,Sun,X., He,S.,2014.M/P Layer-specific responses in the human LGN-an fMRI investigation in normals and glaucoma patients.VSS abstract. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,564 @@
+[
+    {
+        "type": "text",
+        "text": "基于资源分配网络的小数据集并行集成学习方法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张安国1，张树勋2,3,4，朱巍1，李秀敏，黄金龙?",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．锐捷网络股份有限公司 锐捷研究院，福州 35002;2.中国科学院新疆理化技术研究所，乌鲁木齐 830011;3．中国科学院大学，北京 100049;4.新疆民族语音语言信息处理实验室，乌鲁木齐 830011;5.重庆大学自动化学院，重庆400044;6.长江师范学院，重庆 408100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：机器学习领域中，如何在小规模的训练数据集上获得一个具有稳定的高计算精度的算法模型，一直以来都是一个棘手而富有挑战的问题。从算法模型出发，提出了一种基于扩展卡尔曼滤波器的资源分配网络并行集成学习方法。该集成系统由多个带有扩展卡尔曼滤波器的资源分配网络（RANEKF）组成，并且每个RANEKF子网的输入由原始数据集中的输入经过随机权值的修正得到。通过和其他神经网络构成的集成学习算法的实验对比，发现提出的方法在小训练集上拥有更高的计算精度和稳定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：资源分配网络；并行集成学习；增量学习；扩展卡尔曼滤波器中图分类号：TP183",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parallel ensemble learning method based on resource allocating networks for small dataset ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Anguo1, Zhang Shuxun2,3,4, Zhu Wei1, Li Xiumin5, Huang Jinlong6? (1.ResearchIstituteofujie,uijieNetwrksCoLtd,Fuzhou50o,China;2.XnjangTehnicalIstituteofical& Chemical,Chinese AcademyofSiences,Urimqi83o11,China;3. UniversityoftheChineseAcademyofSciences,Beijing 100049,China;4.Xinjiang Laboratoryof Minority Speech &Language Information Procesing,Urumqi 8300l1,China; 5. Collge ofAutomation,Chongqing UniversityChongqing40o44,China;6.angzteNormalUniversityChongqing408100, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To designatraining model with stablecomputational performanceand highaccuracy which isappliedonasmal trainingdataset has beenadiffcult andchallenging problem inthe fieldofmachine learning.This paper proposeda Resource Allcatig Networks with Extended Kalman Filter(RANEKFs)based parallelensemble learningalgorithm.The learning system is composedofmultipleRANEKFunits,andtheunitinputsare producedbytheoriginaldatasetwithrandominitializedweights. Basedonthe experimentresultsconductedonasmalldataset,itis foundthate novel modeloutperforms theensemble learing systems constructed by the other artificial neural networks in terms of the computational accuracyand stability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:resource allcating network; parallel ensemble learning; incremental learning; extended Kalman filter ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，人工智能，特别是机器学习得到了学术界和工业界的广泛关注和应用。机器学习中的训练是指算法模型中的自由参数在一定的数据环境下动态的自适应调整过程，从而使模型具有新的输入/输出计算行为，这也是“学习\"的内涵所在。因此，在模型学习过程中，训练数据的数量和质量对模型有很大的影响，因而数据的采集和处理也变得尤为重要。在很多实际工程中，数据的采集是一项非常耗时耗力的工作，很难采集到足够多的数据量或者满足所需精度的样本值。例如一些疾病数据以及航空发动机的故障数据，由于本身的发生率特别低，故其数据量的采集变得非常困难。但是，即使是小数据集本身也是有价值的且可学习的，例如本文人类在学习某个新事物的时候，并不需要大量的样本数据。目前，对于数据集的“小规模”并没有明确的定义。通常，本文从两个层面去衡量数据集的规模是否充足，一个是数据量与特征维度之间的关系，另外一个是数据量与噪声水平之间的关系。如果数据量没有远大于甚至小于特征维度，或者数据噪声水平比较高而数据量并不明显的多，本文可以认为这些情况下数据规模是比较小的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在小数据集的问题背景下，如何利用有限的数据集来获得一个较高精度的、稳定的机器学习模型，也成为了目前的研究热点。目前解决小数据集上的模型训练问题，主要方法包括三个方向，第一是从训练数据集本身出发，对数据进行过采样或者欠采样[1,2]，第二是从模型算法上出发，例如半监督学习[3.4]，输入特征预处理[5,6]，第三种是从学习策略出发，例如迁移学习[7,8]，集成学习[9]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于弱学习器集成的机器学习模型，在保证整个模型系统具有良好泛化能力的同时，又能避免小训练样本量带来的过拟合现象。因此集成学习的方法成为了一个热门的研究方向，特别是以神经网络作为集成单元中的弱学习器取得了不少的研究成果[10-14]。对于这些集成的小规模神经网络单元，其网络结构和模型复杂度对最终系统计算精度的影响尤为明显，然而目前还没有明确的方法来计算在给定大小的训练集下，如何设计某种神经网络的规模，使其计算性能最优、泛化性最优以及能避免过拟合问题。除了一些经验值以外，很难根据训练样本的数量和复杂度，设计出一个最优的网络模型。因此，能够随着训练集的不断扩张和复杂度的递进而动态改变模型结构和参数的方法一一增量学习也被提出来[15\\~17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "资源分配网络（resource allocating network，RAN）是一种增量学习的实现模型，其网络隐含层节点的数量能够根据训练样本的复杂度进行动态增加，实现更高的计算能力。因此RAN在工业界也得到了广泛应用，例如火电机组控制中的热工对象辨识[18]，自然语言处理中的文本分类[19]，医疗健康领域中的阿尔茨海默病检测[20]，工业生产中的机器人操控[21]等等。另一方面，在学术界，对于RAN网络的改进模型也不断被提出来，例如能够防止隐含层节点过快增长的最小RAN网络（minimalRAN，MRAN）[21,22]，带有噪声和方差估计的扩展卡尔曼滤波器的RAN网络（RANwith extendedKalmanfilter，RANEKF）[18,19]等。RANEKF 方法利用扩展卡尔曼滤波器代替最小均方算法进行网络自由参数调整，从而提高了网络的收敛性能，加快其学习速度，有利于在小数据集上快速得到一个稳定可用的网络模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中，结合RANEKF的优点，提出了一种基于RANEKF 网络的并行集成学习（parallel ensemble learning,PEL）方法一一RANEKF-PEL，同时，为了使每个RANEKF子网充分利用训练数据集所有样本数据提供的信息，并且在不同子网间保持一定的差异性，因此对每个RANEKF子网的输入赋以不同的随机生成的输入权值向量。本文使用MNIST手写字符数据库作为实验测试对象，然而与绝大部分已有研究不同的是本文仅仅使用很小一部分训练数据来训练本文的集成学习系统，并比较了在不同的训练数据集规模，以及不同的集成大小的数据集下RANEKF-PEL与其他神经网络集成学习系统的计算精度。实验结果表明，本文所提出的方法具有更高的分类精度和计算稳定性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1集成学习 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "集成学习是指利用多个弱学习器的协作来解决同一个问题。系统的输出由这些弱学习器在当前样本下的输出共同决定。集成学习能够显著提高学习系统在小数据训练集上的计算精度和鲁棒性。目前常用的集成学习方法有 Boosting 和 Bagging [23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Boosting方法的主要思想是在R轮的训练过程中，跟据此轮的训练误差去调整下一轮训练中，每个样本的影响权重。给定一弱学习器 $h$ ，以及训练样本数据集 $< X , Y > = \\{ < x _ { 1 } , y _ { 1 } > , <$ $\\mathbf { x } _ { 2 } , \\mathbf { y } _ { 2 } > , \\ldots , < x _ { n } , y _ { n } >$ ， $n$ 为训练样本量。初始时每个样本赋以相等的权重 $1 / n$ 。在 $R$ 轮训练中，每轮训练都对训练失败的样本赋予较大的权重，使其在随后的训练中获得更多的关注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bagging方法的主要思想则是在多轮学习中，每轮从样本数据集 $< X , Y > = \\{ < x _ { 1 } , y _ { 1 } > , < x _ { 2 } , y _ { 2 } > , \\ldots , < x _ { n } , y _ { n } >$ 中随机抽取一定量的训练数据来训练集成中所有的弱学习器。集成系统的最终输出由弱学习器投票产生。对于回归问题，则是对所有弱学习器的输出求均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于RAN 的集成学习",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[24]针对单个RAN网络稳定性差，易受到样本质量和训练顺序影响的问题，提出了一种由多个最小RAN网络单元组成的平行计算结构，其中每个RAN网络只使用单一类别（模式）的样本数据进行训练，该方法能够有效避免RAN网络的隐含层节点快速增长带来的网络规模过大，易出现过拟合现象的问题。但是由于仅使用样本数据的一小部分来训练单个的RAN网络，因此对总的训练数据量需求比较大，无法应用于小样本数据集上，并且对于类异或问题，该方法的有效性会大幅降低，且无法应用于回归拟合问题上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[25]提出了一种基于带有长时记忆（long-termmemory，LTM）的RAN集成学习方法，并使用AdaBoost.M1算法根据当前RAN网络的输出误差来计算下一个RAN网络的输入样本权值。作者表明了该方法的计算精度优于单一分类器的算法模型。然而，由于该方法训练后一个RAN分类器需要使用当前RAN的输出误差，在每个时间点只能训练单个的RAN网络，无法并行训练所有的RAN集合，因此需要消耗大量的训练时间。除此之外，由于RAN网络内部并没有随机的初始值，该方法无法在训练初期有效地扩大集合中每个RAN之间的差异性，因此其训练效率也不高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[26]提出了一种基于Bagging技术的RAN网络集成方法，并且为了保证所集成的RAN网络具有一定的差异性，每个RAN网络只是用N－1个类别的样本数据进行训练（N为总共的样本标签的类别数量)。对于集成中的某个RAN子网络，若输入的样本与该网络中最近的节点之间的距离大于某一阈值，则表明输入的样本标签不属于该网络训练时的标签空间。对于每个RAN子网络，该阈值的选取变的尤为重要，并且该阈值高度依赖于所使用的N－1个类别的训练样本，以及剩下的1个类别的训练样本的特征值分布。因此，该阈值的选取将会变得非常艰难和繁琐，甚至无法得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前RAN网络集成学习方法在小数据集训练样本的问题上表现的并不好，或者需要的训练时间较长，抑或是训练效率不高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对前述算法所存在的问题，本文提出了学习算法一一RANEKF-PEL，主要具有以下特点：a)算法易构建，训练简单；b)集成单元的全数据集训练；c)动态调整网络结构的复杂度；d)集成单元的并行训练可行性。这些特点很大程度上避免了前述算法所描述的问题，因此本文的算法具有更优秀的性能和适用能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 RANEKF-PEL方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出的基于RANEKF网络的集成学习方法如图1所示，其中输入样本为 $M$ 维向量 $\\boldsymbol { x } \\in \\mathbb { R } ^ { M }$ ，第 $i ( 1 \\leq i \\leq p )$ 个RAN分类器的样本输入权值 $w _ { i n } ^ { ( i ) } \\in \\mathbb { R } ^ { M }$ 为随机初始化得到的，并且在后续的训练过程中是固定不变的。整个框架的最终输出 $y \\in \\mathbb { R } ^ { L }$ 由RAN网络集合中每个RAN分类器的输出 $y ( i ) \\in \\mathbb { R } ^ { L }$ （ $\\cdot \\leq i \\leq$ $p \\dot { }$ 投票产生。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/639cd92627608873d682060aa51287be114c8c8c50840a96d13a19bf35086441.jpg",
+        "img_caption": [
+            "图1使用RAN作为弱分类器的并行集成学习框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于该框架使用Bagging集成方法，其中每个RANEKF学习器可以采用并行训练的方式，因此仅需很少的时间便能完成整个训练过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1网络模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示的三层结构的RAN神经网络，设输入、输出层维度分别为 $M , L$ ，隐含层的节点数量 $N$ 可能会在训练过程中，随着输入样本的新颖性发生递增。对于 $T$ 个训练样本的输入集合 $X = \\{ x _ { 1 } , x _ { 2 } , \\dots , x _ { T } \\}$ ，其中样本 $x _ { i }$ 包含 $M$ 维特征，即 $x _ { i } =$ $\\left[ \\boldsymbol { x } _ { i } ^ { ( 1 ) } , \\boldsymbol { x } _ { i } ^ { ( 2 ) } , \\ldots , \\boldsymbol { x } _ { i } ^ { ( M ) } \\right] ^ { \\prime } \\in \\mathbb { R } ^ { M \\times 1 }$ ，隐含层中第 $j$ 个节点的中心为 $c _ { j } =$ $\\left[ c _ { j } ^ { ( 1 ) } , c _ { j } ^ { ( 2 ) } , \\ldots , c _ { j } ^ { ( M ) } \\right] \\in \\mathbb { R } ^ { M \\times 1 }$ ，节点中心宽度为 $\\sigma _ { j } =$ $[ \\sigma _ { j } ^ { ( 1 ) } , \\sigma _ { j } ^ { ( 2 ) } , \\dots , \\sigma _ { j } ^ { ( M ) } ] \\textrm { c }$ 输出层的偏置量 $\\boldsymbol { b } = \\left[ b ^ { ( 1 ) } , b ^ { ( 2 ) } , \\dots , b ^ { ( L ) } \\right] ^ { \\prime }$ ，对应于输入量 $\\cdot _ { x _ { i } }$ 的网络输出为 $y _ { i } = \\left[ y _ { i } ^ { ( 1 ) } , y _ { i } ^ { ( 2 ) } , \\ldots , y _ { i } ^ { ( L ) } \\right] ^ { \\prime } { } _ { \\mathrm { ~ } }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在计算过程中，隐含层第 $j$ 个节点的状态为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Phi _ { j } ( x _ { i } ) = \\exp \\left( \\frac { \\| x _ { i } - c _ { j } \\| } { \\| \\sigma _ { n } \\| } \\right) = \\exp \\left( \\sum _ { j = 1 } ^ { M } \\frac { \\left( x _ { i } ^ { ( j ) } - c _ { j } ^ { ( j ) } \\right) ^ { 2 } } { \\left( \\sigma _ { j } ^ { ( j ) } \\right) ^ { 2 } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第1个输出层节点的输出为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\no _ { i } ^ { ( l ) } = f ( x _ { i } ) = b ^ { ( l ) } + \\sum _ { j = 1 } ^ { N } w _ { l j } \\Phi _ { j } ( x _ { i } ) , l = 1 , 2 , \\ldots L\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $w _ { l j }$ 表示隐含层第 $j$ 个神经元节点到输出层第 $l \\cdot$ 个节点之间的连接权值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于多分类问题，使用softmax算法进行分类，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\no _ { i } ^ { ( l ) } \\gets \\frac { o _ { i } ^ { ( l ) } } { \\sum _ { j = 1 } ^ { L } o _ { i } ^ { ( j ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最终分类输出为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } ^ { ( l ) } = \\left\\{ \\begin{array} { l l } { 1 , \\mathrm { i f } o _ { i } ^ { ( l ) } = \\displaystyle \\operatorname* { m a x } _ { j = 1 , 2 , \\ldots , L } ( o _ { i } ^ { ( j ) } ) } \\\\ { \\quad 0 , \\mathrm { o t h e r w i s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/80b378410e2d189570b34d5f84b7550652b4528e4f3268fa2aea2045b4df202c.jpg",
+        "img_caption": [
+            "图2资源分配网络（RAN）的结构示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 网络训练",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在初始情况下，RANEKF网络的隐含层神经元数量为0。在训练过程中，每个样本数据对 $< x _ { i } , d _ { i } > , 1 \\leq i \\leq T$ ，（ $d _ { i }$ 为样本 $x _ { i }$ 的标签值）输入到RAN网络时，网络首先计算对应于 $x _ { i }$ 的实际输出，通过与期望标签 $d _ { i }$ 的比较判断该样本数据对 $<$ $x _ { i } , d _ { i } >$ 是否满足新颖性条件。如果满足，那么需要在RAN 的隐含层增加新的神经元节点，反之如果不满足，则需要调节RAN的连接权值、节点中心和中心宽度等参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体过程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)初始化RAN网络参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)计算样本 $x _ { i }$ 与当前 $N$ 个隐含层神经元节点的最近邻欧氏距离：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s t ( x _ { i } ) = \\operatorname* { m i n } _ { 1 \\leq j \\leq N } \\left\\| x _ { i } - c _ { j } \\right\\|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算样本 $x _ { i }$ 的实际网络输出与期望标签值 $d _ { i }$ 之间的误差量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne r r ( x _ { i } ) = | y _ { i } - d _ { i } |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)如果满足新颖性条件，即 $d i s t ( x _ { i } ) \\geq \\delta _ { d i s t }$ ，并且 $e r r ( x _ { i } ) \\geq$ $\\delta _ { e r r }$ ，那么在RAN的隐含层中增加新的节点并初始化，否则对网络的参数进行调整。这里， $\\delta _ { d i s t }$ 和 $\\delta _ { e r r }$ 分别为中心节点距离和输出误差的新颖性判定阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)增加新的隐层节点时，有隐层节点数量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne r r ( x _ { i } ) = | y _ { i } - d _ { i } |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN \\gets N + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新隐层节点的中心：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { N } = x _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隐层节点的中心宽度：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma \\gets [ \\sigma ; \\lambda \\cdot d i s t ( x _ { i } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "网络的输出权值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { o u t } \\gets [ w _ { o u t } ; e r r ( x _ { i } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)调节网络参数时，根据扩展卡尔曼滤波方法，令",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\theta } = \\left[ b , w _ { o u t } ^ { 1 } , { c ^ { 1 } } ^ { T } , \\sigma ^ { 1 } , \\cdots , w _ { o u t } ^ { N } , { c ^ { N } } ^ { T } , \\sigma ^ { N } \\right] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为所有需要调整的RAN网络参数向量，参数更新公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb \\Theta ( i ) = \\pmb \\Theta ( i - 1 ) + \\pmb { k } ( i ) e r r ( i )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中增益向量 $\\pmb { k } ( t )$ 为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { k } ( i ) = \\pmb { P } ( i - 1 ) \\pmb { B } ( i ) [ R ( i ) + \\pmb { B } ^ { T } ( i ) \\pmb { P } ( i - 1 ) \\pmb { B } ( i ) ] ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里 $\\pmb { B } ( i ) = \\nabla \\pmb { \\theta } f ( x _ { i } )$ 为函数 $f ( x _ { i } )$ 在 $\\pmb \\theta ( i - 1 )$ 处关于 $\\pmb { \\theta }$ 的梯度向量， $\\boldsymbol { R } ( i )$ 为测量噪声的方差。协方差矩阵 $\\pmb { P } \\in \\mathbb { R } ^ { z \\times z }$ 0 $\\stackrel { \\cdot } { z } = L +$ $N \\times ( M + L + 1 ) $ 更新方法为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { P } ^ { z \\times z } ( i ) = [ \\pmb { I } ^ { z \\times z } - \\pmb { k } ( i ) \\pmb { B } ^ { T } ( i ) ] \\pmb { P } ( i - 1 ) + q _ { 0 } \\pmb { I } ^ { z \\times z }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里 $I ^ { z \\times z }$ 为单位矩阵，正标量 $q _ { 0 }$ 决定梯度向量上所允许的随机步长。需要注意的是当添加新的隐含层节点后，矩阵 $P$ 将变化为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { P } ( i ) = \\binom { \\pmb { P } ( i - 1 ) } { 0 } \\qquad \\begin{array} { c c } { 0 } \\\\ { p _ { 0 } \\pmb { I } ^ { z _ { 1 } \\times z _ { 1 } } } \\end{array} \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $p _ { 0 }$ 时初始参数的不确定性估计， $z _ { 1 }$ 为RAN中添加一个新隐含层节点所增加的参数数量，即 $z _ { 1 } = M + L + 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)循环步骤 b)\\~f)，直到 $i = T$ ，即所有的样本都完成训练。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文使用MNIST手写字符库作为实验数据集。MNIST包含了由0\\~9十个数字构成的60000组训练数据以及10000组测试数据，其中每组数据均为 $2 8 ^ { * } 2 8$ 像素构成的图像。为了验证提出的方法在小数据集上的有效性，仅会使用训练数据集中的很小一部分作为实验的训练样本集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时，为了说明本文提出的方法具有更高的计算精度，使用了多种弱分类器所构成的集成学习方法与本文提出的方法进行对比，这些分类器包括前馈全连接神经网络（feed-forwardfully-connected neural networks，FCNs），卷 积 神 经网络（convolutional neural networks,CNNs），深度信念网络（deepbelief nets,DBN)，以及稀疏自动编码机（sparse auto-encoders,SAEs)。这些分类器已经被成功广泛地用于MNIST手写字符识别问题中，在完整的MNIST数据训练集上，这些网络都获得了$9 7 \\%$ 以上的分类准确率，说明这些网络都拥有良好的学习能力，具有对比价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "比较了几种集成网络在不同的训练数据集规模，以及不同的弱学习器集成规模下的分类精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1训练数据集规模",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文测试了在集成规模为20的情况下，几种集成学习在训练集规模从 $5 0 { \\sim } 2 0 0 0$ 下的分类精度，其中每个手写数字类别（0\\~9）的训练样本数量为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = \\frac { S } { 1 0 } , \\qquad i = 0 , 1 , 2 , \\dots , 9\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 为训练集规模，即保证在小规模训练集中，样本类别的数量分布均匀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果如图3所示。可见在极端小的训练样本规模时，每个类别的样本量仅有5个，此时的5种模型分类结果对比中，仅有本文提出的RANEKF-PEL的精度大于 $50 \\%$ 。并且随着训练数据集的增加，几种集成学习方法的分类精度的均值都逐渐增大，并且分类精度的波动都逐渐减小。其中本文提出的RANEKF 集成学习方法在同等训练数据集规模下拥有最高的分类精度，以及更小的精度波动。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/37fc774deb6d81862125a1de229bf57ef15b6f6ad32146ea879d58f53b094f46.jpg",
+        "img_caption": [
+            "图3不同训练集规模下，几种集成学习方法的分类精度和精度波动对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2集成规模 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "集成规模的大小对系统的输出精度和稳定性有着非常重要的影响。通常情况下，越小的集成规模的学习，其精度和稳定性也越小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验中，对比了不同集成大小（1，3，5，7，10，12，15，18，20）情况下，在训练数据集大小为100时的分类输出精度和波动。图4中，RANEKF-PEL方法的分类精度始终能够保持在 $50 \\%$ 以上，也表明了本文提出的方法在不同集成规模下均拥有最高的精度和非常小的精度波动，即拥有很高的计算稳定性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d52c08c470f3a5d1237c08489211d7579f5fc90d713e3659a8c9a50cb4f509a4.jpg",
+        "img_caption": [
+            "图4不同集成规模下，几种集成学习方法的分类精度和精度波动对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 隐层节点的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，在训练的起初阶段，RAN的隐含层节点数量非常少，此时网络的输出精度较差，隐含层节点因此增加的速度比较快。而随着RAN网络规模的不断增长，网络对复杂模式的计算能力不断增强，不需要再过多地添加新的节点。当隐含层节点数量达到50至70之间时，网络已经拥有较好的计算能力，因此隐含层的节点数量渐渐趋于某个固定值，网络的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结构状态也渐渐趋于稳态。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1357f11e44c2de4d3f4851c47c9d23fdc481097145766778de9447dc0f0e439.jpg",
+        "img_caption": [
+            "图5增量训练过程中，RAN的隐含层节点变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了在小规模训练数据集上获得较高的计算精度和计算稳定性，本文提出了一种基于带有扩展卡尔曼滤波器的资源分配网络的并行集成学习方法（RANEKF-PEL)，该方法中每个资源分配网络（RAN）单元的输入信号都是原始样本数据各个维度特征的加权信号。通过与其他多个类型的人工神经网络单元所构成的集成系统的实验对比，本文提出的RANEKF-PEL方法能够在小数据集上训练后，能够获得最高的计算精度和鲁棒性能，是一种有效可行的机器学习模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Chen HY,LiD C,Lin L S.Extending sample information for small data set prediction [C]// Proc of International Congress on Advanced Applied Informatics.2016: 710-714.   \n[2]Li D C,Liu C W. Extending attribute information for small data set classification [J].IEEE Trans on Knowledge and Data Engineering,2012, 24 (3): 452-464.   \n[3]Aydemir M S,Bilgin G. Semisupervised hyperspectral image classification using small sample sizes [J]. IEEE Geoscience and Remote Sensing Letters, 2017,14 (5): 621-625.   \n[4]Meng Jianjun， Sheng Xinjun， Zhang Dingguo, et al. Improved semisupervised adaptation for a small training dataset in the brain-computer interface [J].IEEE Journal of Biomedical and Health Informatics,2014,18 (4): 1461-1472.   \n[5]Da Silva IBV,Adeodato PJL.PCA and Gaussian noise in MLP neural network training improve generalization in problems with small and unbalanced data sets [Cl//Proc of IEEE International Joint Conference on Neural Networks.2011.   \n[6]Sasikala S,Appavu S,Balamurugan A,et al. An efficient feature selection paradigm using PCA-CFS-Shapley values ensemble applied to small medical data sets [C]// Proc of International Conference on Computing, Communications and Networking Technologies.2013.   \n[7]Wang Tian,Chen Yang,Zhang Mengyi,et al Internal transfer learning for improving performance in human action recognition for small datasets [J]. IEEE Access,2017,5:17627-17633. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8]Li Zengxi,Song Yan,Mcloughlin I,et al.Compact convolution neural network transfer learning for small-scale image classification [C]//Proc of IEEE International Conference on Acoustics,Speech and Signal Processing. 2016. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]Rani T S, Soujanya P V.An ensemble method using smalltraining sets for imbalanced data sets: Application to drugs used for kinases [C]// Proc of International Conference on Contemporary Computing. 2013.   \n[10] Cheng Zezhou, Yang Qingxiong, Sheng. Bing Colorization using neural network ensemble [J]. IEEE Trans on Image Processing,2017,26 (11): 5491-5505.   \n[11] Zhou Zhihua,Jiang Yuan. NeC4.5: neural ensemble based C4.5[J]. IEEE Trans on Knowledge on Data Engineering,2004,16 (6): 770-773.   \n[12] Yu Shicai,Xia Giurong.Neural network ensemble method based on improved sort learning algorithm [C]// Proc of International Forum on Information Technology and Applications,IEEE,2010.   \n[13] Liu Yong. Create weak learners with small neural networks by balanced ensemble learning [C]// Proc of IEEE International Conference on Signal Processing, Communications and Computing. 2011.   \n[14] Lima TPF, Ludermir T B.Differential evolution and meta-learning for dynamic ensemble of neural network clasifiers [C]// Proc of IEEE International Joint Conference on Neural Networks.2015.   \n[15] Schaal S,Atkeson C G. Constructive incremental learning from only local information [J]. Neural Computation,1998,10 (8): 2047-2084.   \n[16] Gao Yaozong,Zhan Yiqiang, Shen Dinggang. Incremental learning with selective memory (ILSM): towards fast prostate localization for image guided radiotherapy[J]. IEEE Trans on Medical Image,2014,33 (2): 518- 534.   \n[17] Ristin M,Guillaumin M, GallJ,etal. Incremental learningofrandom forests forlarge-scale image classification [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2016,38 (3): 490-503.   \n[18]杨世忠，吕剑虹．基于最小资源分配网络的热工对象辨识[J]．热能动 力工程,2007,22 (1): 91-95.   \n[19]何晓亮，宋威，梁久帧．基于资源分配网络和语义特征选取的文本分类 [J]．计算机功课与科学,2014,36(2):340-346.   \n[20] Mahanand B S, Suresh S,Sundararajan N,et al. Alzheimer's disease detection using a self-adaptive resource allcation network classifier [C]// Proc of IEEE International Conference on Neural Networks. 2011.   \n[21] Corradini ML,Fossi V,GiantomasiA,etal.Minimalresource allocating networks for discrete time sliding mode control of robotic manipulators [J]. IEEE Trans on Industrial Informatics,2012,8(4): 773-745.   \n[22] CIabattoni L,Grisostomi M,Loppoliti G,et al. On line solar irradiation forecasting by minimal resource alocating networks [C]// Mediterranean Conference on Control & Automation. 2012.   \n[23]周志华，陈世福．神经网络集成[J].计算机学报,2002,25(1):1-8.   \n[24] Lim W S,Rao M V C.Effective sonar target classification via parallel structure of minimal resource allocation network [J]. International Journal ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "of Computational Intelligence,2008,18:1109-1116. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[25] Kidera T, Ozawa S,Abe S.An incremental learning algorithm of ensemble classifier systems [C]//Proc of IEEE International Joint Conference on Neural Networks.2006. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[26] Ji Genlin,Ling Xiaohan,Cheng Xueyun.Novel distributed intrusion detection method based on neural network ensemble [J]. Journal of Nanjing University of Aeronautics & Astronautics,2007,39 (2): 231:235. ",
+        "page_idx": 5
+    }
+]

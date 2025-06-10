@@ -1,0 +1,205 @@
+饲粮阴阳离子平衡值对辽宁绒山羊生长性能、血清和尿液生化指标及尿结石发病情况的影响 于　磊」闫晗」丛玉艳l\*孙亚波²宋先忱²全治国²
+
+（1.沈阳农业大学畜牧兽医学院，沈阳110866；2.辽宁省畜牧科学研究院，辽阳111000）摘要：本试验旨在研究饲粮阴阳离子平衡（DCAB）值对绒山羊生长性能、血清和尿液生化指标及尿结石发病情况的影响。选取年龄（1.5岁左右）、体重（ $3 0 \mathrm { k g }$ 左右）相近的健康辽宁绒山羊 50只，随机分为5组，各组DCAB 值分别为0(I组)、150(ⅡI组)、300(II组)、450(IV组)、600 mEq/kgDM(V组)，每组10只。预试期 $1 5 \mathrm { d }$ ，正试期 $9 0 \mathrm { d }$ 。结果表明：1)DCAB 值对平均日增重影响不显著（ $. P { > } 0 . 0 5$ ）；随着DCAB 值的提高，平均日采食量总体呈上升趋势（除了第 $7 5 \sim 9 0$ 天）；料重比，第 $_ { 1 \sim 1 5 }$ 天、第 $1 5 { \sim } 3 0$ 天I组较高，第 $6 0 \sim$ 75天、第 $7 5 \sim 9 0$ 天V组较高。2）第75、90天时，V组血清尿素含量最高，组尿液尿素含量最高;第 60、75天时， $\mathrm { \Delta V }$ 组血清肌酐含量最高，第90天时，IV组最高；第15、30、45天，V组尿液肌酐含量最高;第45 天时，II组血清尿酸含量最高，第75、90天时，V组血清尿酸含量最高；第15、30天时，V组尿液尿酸含量最高，第75、90天，IⅢ组最高。3）Ⅰ、Ⅱ组无患尿结石羊，II、IV、V组分别有3、4、5只患尿结石羊。综合得出，DCAB 值为150 mEq/kgDM时，有利于维持辽宁绒山羊血清和尿液部分相关生化指标在正常水平及预防尿结石的发生。
+
+关键词：饲粮阴阳离子平衡值；生长性能；生化指标；尿结石；辽宁绒山羊
+
+中图分类号：S826
+
+近些年随着反刍动物营养学的迅速发展，饲粮阴阳离子平衡（DCAB）对于动物的健康和生产性能的相关研究越来越受到重视和关注[1-5]。Gazi等证明，减少饲粮中磷酸盐含量，可降低犊牛尿结石发病率。王金勇等[7通过在饲粮中添加钾、磷、镁调高了饲粮的 DCAB值，成功诱发了山羊患尿结石。目前关于DCAB 值对羊尿结石发病情况的影响尚不明确。
+
+收稿日期：2017-07-11  
+基金项目：辽宁省科学技术攻关项目“舍饲绒山羊营养代谢病及副结核病的防控技术研究”(2015103036)  
+作者简介：于磊（1991—），女，蒙古族，内蒙古赤峰人，硕士研究生，动物营养与饲料  
+科学专业。E-mail：1435606999@qq.com  
+\*通信作者：丛玉艳，教授，硕士生导师，E-mail：cyy66@163.com
+
+本试验旨在研究DCAB值对辽宁绒山羊生长性能、血清及尿液生化指标的影响，为阐明饲粮DCAB值对羊尿结石发生的影响奠定基础。
+
+# 1材料与方法
+
+# 1.1 试验设计与饲养管理
+
+选取年龄（1.5岁左右）、体重（ $3 0 \mathrm { k g }$ 左右）相近的健康辽宁绒山羊50只，随机分为5组，每组10只，单栏饲养。基础饲粮组成及营养水平见表1。本试验利用DCAB 值 $\ c =$ (钠离子 $+$ 钾离子 $+ 0 . 3 8$ 钙离子 $+ 0 . 3$ 镁离子)-(氯离子 $+ 0 . 6$ 硫离子 $+ 0 . 5$ 磷离子)(Tucker 等[8)这一公式来计算饲粮的DCAB 值，通过添加氯化铵( $\mathrm { \Delta N H _ { 4 } C l }$ ）、碳酸氢钠 $\left( \mathrm { N a H C O } _ { 3 } \right.$ ）、氧化镁（MgO）调配出5组DCAB值分别为0（I组）、150（Ⅱ组）、300（I组）、450（IV组）、 $6 0 0 ~ \mathrm { m E q / k g }$ DM（V组）的试验饲粮。花生秸秆和玉米秸秆粉碎成长度为1cm左右，饲喂前，按照配方（表1）将精料与粗料搅拌均匀，于每日08:00 和14:00分2次单槽饲喂，自由饮水。预试期15d，正试期 $9 0 \mathrm { d }$ 。
+
+# 表1基础饲粮组成及营养水平 (干物质基础)
+
+Table 1Composition and nutrient levels of the basal diet (DM basis)
+
+%
+
+项目Items 含量Content  
+原料 Ingredients  
+花生秸秆 Peanut straw 15.59  
+玉米秸秆Maize straw 15.03  
+玉米Maize 43.36  
+干酒糟及其可溶物 DDGS 6.59  
+菜籽粕 Colza meal 2.54  
+豆粕Soybean meal 6.63  
+棉籽粕 Cottonseed meal 4.08  
+玉米胚芽粕 Corn germ meal 3.26  
+石粉Limestone 0.90  
+食盐 NaCl 0.71  
+蛋氨酸 Met 0.10  
+赖氨酸Lys 0.41  
+胆碱 Choline 0.10  
+预混料 Premixl) 0.70  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+消化能 DE/（MJ/kg） 14.05  
+粗蛋白质CP 14.21  
+钙Ca 0.70  
+磷P 0.47
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet：复合酶 complex enzyme（20 $0 . 1 4 \ \mathrm { g }$ ，微生态制剂 micro-ecology preparation $0 . 2 4 5 \mathrm { ~ g ~ }$ ，Cu（as copper sulfate） $1 . 1 4 8 ~ \mathrm { m g }$ ， Mn (as manganesesulfate) $7 9 . 8 ~ \mathrm { m g }$ ， Zn (as zinc sulfate) $8 0 . 6 4 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 6 4 \mathrm { m g }$ ,VA 1.792 mg, $\mathrm { V D } _ { 3 } 0 . 4 4 8 \mathrm { m g }$ VE 2.632 mg。
+
+2)消化能水平为计算值，其余营养水平为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.2饲粮养分含量的测定与计算
+
+干物质含量的测定采用国标法（GB/T6435-2006），粗蛋白质含量的测定采用凯氏定氮法，钙含量的测定采用乙二胺四乙酸二钠（EDTA）络合滴定快速测钙法，磷含量的测定采用钼黄比色法[9]（UV-5500 型分光光度计），硫含量的测定采用硫酸钡比浊法（UV-5500 型分光光度计），氯含量的测定采用国标法（GB/T6439-92），钠、钾、镁含量的测定采用原子吸收法[10]（日立Z-2000 原子吸收分光光度计）。饲粮消化能水平由各饲料原料的羊消化能值计算得来，饲料原料的羊消化能值由《中国饲料成分及营养价值表（第21版）》查得。
+
+# 1.3血清及尿液样品的采集
+
+正试期开始当天（第1天）及每隔15d的早晨空腹对试验羊颈静脉采血 $1 0 ~ \mathrm { m L }$ ，并制备血清，将其分装于 $2 \mathrm { m L }$ 的离心管中，同时间采集尿液， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.4 指标测定
+
+# 1.4.1 生长性能的测定
+
+每天早晨在饲喂前收集废料并称重，准确记录每天耗料量，计算各阶段平均日采食量（风干状态）。正试期第1天及之后每15d的早晨空腹对试验羊称重1次，计算各组试验羊平均日增重，并计算料重比。
+
+1.4.2血清和尿液生化指标的测定
+
+采用罗氏c702型全自动生化免疫分析仪测定血清及尿液尿素含量（脲酶紫外速率法）、尿酸含量（尿酸酶紫外法）、肌酐含量（酶法）[I]，尿素、尿酸、肌酐试剂盒均购自罗氏公司，编号分别为05171873190、05171857190、05168589190。
+
+# 1.4.3 尿结石发病情况测定
+
+每天观察羊的临床表现，观察有无尿结石症状，出现尿闭 $1 { \sim } 2 \mathrm { d }$ 后，剖杀山羊，并收集结石。其余山羊在试验期满全部剖杀，检查泌尿道结石情况。
+
+# 1.5 数据统计与分析
+
+试验数据运用 SPSS17.0 软件进行单因素方差分析，并用Duncan 氏法进行多重比较。分别以 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 作为差异显著性和极显著性判断标准，试验数值用平均值 $\pm$ 标准误表示。
+
+2结果与分析
+
+2.1生长性能
+
+由表2可知，整个试验期，DCAB 值对山羊平均日增重影响不显著（ $. P { > } 0 . 0 5$ ）。第1\~15天、第15\~30天、第30\~45天、第45\~60天、第60\~75天时， $\mathrm { \Delta V }$ 组平均日采食量显著或极显著高于其他4组( $\scriptstyle \cdot - 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，第 $7 5 \sim 9 0$ 天时，I组与 $\mathrm { \Delta V }$ 组间差异不显著( $. P { > } 0 . 0 5 )$ ，但均极显著高于 $\mathrm { I I }$ 、II和 $\mathrm { I V }$ 组（ $P { < } 0 . 0 1$ ）。料重比，第 $1 \sim 1 5$ 天I组极显著高于其他各组1 $_ { \cdot  { P } < 0 . 0 1 }$ ），第 $1 5 { \sim } 3 0$ 天显著或极显著低于I、IⅢ组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），第 $6 0 \sim 7 5$ 天、第 $7 5 \sim 9 0$ 天 $\mathrm { \Delta V }$ 组显著或极显著高于其他各组（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+项目Items
+
+表2DCAB 值对山羊生长性能的影响  
+Table 2Effects of DCAB value on growth performance in goats 组别Groups   
+
+<html><body><table><tr><td></td><td>1</td><td>II</td><td>ⅢI</td><td>IV</td><td>V</td></tr><tr><td>均日增重 ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1～15 天 Day 1 to 15</td><td>51.85±21.60</td><td>59.26±17.37</td><td>66.67±22.22</td><td>81.48±30.99</td><td>96.30±38.67</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>第15～30天 Day 15 to 30</td><td>74.19±30.31</td><td>111.22±19.21</td><td>81.48±21.60</td><td>96.52±25.09</td><td>125.93±30.32</td></tr><tr><td>第 30～45天 Day 30 to 45</td><td>106.67±40.00</td><td>120.00±32.66</td><td>106.67±26.67</td><td>106.67±16.33</td><td>146.87±24.78</td></tr><tr><td>第 45～60天Day 45 to 60</td><td>106.67±16.33</td><td>120.00±13.33</td><td>93.33±45.22</td><td>120.00±13.33</td><td>106.67±26.67</td></tr><tr><td>第 60～75天Day 60 to 75</td><td>120.00±24.94</td><td>133.33±36.51</td><td>93.33±16.33</td><td>93.33±45.22</td><td>80.00±24.94</td></tr><tr><td>第75～90天 Day 75 to 90</td><td>133.33±47.14</td><td>146.67±38.87</td><td>80.00±24.94</td><td>79.98±13.31</td><td>53.34±13.33</td></tr><tr><td>平均日采食量 ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～15 天 Day1 to 15</td><td>1 330.67±47.11ABa</td><td>932.67±40.27Dc</td><td>1204.87±33.19BCb</td><td>1 105.33±31.69Cb</td><td>1 426.53±33.87Aa</td></tr><tr><td>第15～30天Day 15 to 30</td><td>1 334.60±75.19ABb</td><td>1027.13±22.78Dc</td><td>1 230.00±23.41BCb</td><td>1 098.27±29.45CDc</td><td>1 483.60±23.69Aa</td></tr><tr><td>第 30～45天 Day 30 to 45</td><td>1 464.80±19.96Bb</td><td>1 210.13±26.43Cc</td><td>1 429.40±24.31Bb</td><td>1 232.07±24.99Cc</td><td>1 577.13±39.23Aa</td></tr><tr><td>第 45～60天 Day 45 to 60</td><td>1 229.40±25.44Bb</td><td>1 080.33±32.15Cc</td><td>1 229.27±32.63Bb</td><td>1 032.00±21.93Cc</td><td>1 554.33±28.63Aa</td></tr><tr><td>第 60～75天 Day 60 to 75</td><td>1 157.73±38.81ABb</td><td>1 034.33±28.47Bc</td><td>1 028.13±56.05Bc</td><td>1 062.27±26.26Bbc</td><td>1 302.87±38.82Aa</td></tr><tr><td>第 75～90天 Day 75 to 90</td><td>1 288.00±12.72Aa</td><td>1 070.40±32.31Bbc</td><td>1 020.67±60.89Bc</td><td>1 149.27±20.01Bb</td><td>1 278.80±22.74Aa</td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～15 天 Day1 to 15</td><td>25.66±1.02Aa</td><td>15.74±1.17Bb</td><td>18.07±1.39Bb</td><td>13.57±2.01Bb</td><td>14.81±1.46Bb</td></tr><tr><td>第15～30天Day15 to 30</td><td>17.99±1.33Aa</td><td>9.24±1.50Bc</td><td>15.10±1.59ABab</td><td>11.38±1.40Bbc</td><td>11.78±1.56ABbc</td></tr><tr><td>第 30～45天Day 30 to 45</td><td>13.73±1.28</td><td>10.08±1.53</td><td>13.40±1.30</td><td>11.55±1.57</td><td>10.74±1.72</td></tr><tr><td>第 45～60天 Day 45 to 60</td><td>11.53±1.30</td><td>9.00±1.51</td><td>13.17±1.41</td><td>8.6±1.06</td><td>14.57±1.33</td></tr><tr><td>第 60～75天 Day 60 to 75</td><td>9.65±1.65Bb</td><td>7.76±0.96Bb</td><td>11.02±1.19ABb</td><td>11.38±1.23ABb</td><td>16.29±1.47Aa</td></tr><tr><td>第 75～90天Day 75 to 90</td><td>9.66±1.48Bbc</td><td>7.30±1.24Bc</td><td>12.76±1.28Bb</td><td>14.37±1.73Bb</td><td>23.97±2.66Aa</td></tr></table></body></html>
+
+80 同行数据肩标无字母或相同字母表示差异不显著（ $_ { P > 0 . 0 5 }$ ），不同小写字母表示差异显著（ $_ { \cdot } P { < } 0 . 0 5 )$ ），  
+81 不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。表3、表4和表5同。  
+82 In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$   
+83 while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter  
+84 superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as Table 3,Table 4and Table 5.
+
+# 2.2 血清及尿液生化指标
+
+# 2.2.1血清及尿液尿素含量
+
+由表3可知，第75、90天时，V组血清尿素含量极显著高于其他4组（ $\cdot P { < } 0 . 0 1$ ），第90天时，IV组显著或极显著高于I和Ⅱ组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。第75、90天时，尿液尿素含量均以IⅢ组最高，V组最低，第75 天时，I组显著或极显著高于和I、II、V组（ $\scriptstyle \cdot - 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ），与IV组差异不显著（ ${ \cdot } P { > } 0 . 0 5 { \mathrm { ) } }$ ），第90天时，I组极显著高于其他4组（ $( P { < } 0 . 0 1 )$ ），IV组显著高于 $\mathrm { \Delta V }$ 组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ）。
+
+# 表3DCAB 值对山羊血清及尿液尿素含量的影响
+
+93 Table 3Effects of DCAB value on urea content in serum and urine of goats mmol/L 项目Items 组别 Groups
+
+I II Ⅲ IV
+
+<html><body><table><tr><td>第1天Day1</td><td>6.50±0.10</td><td>6.61±0.13</td><td>6.57±0.16</td><td>6.64±0.15</td><td>6.61±0.20</td></tr><tr><td>第15天Day 15</td><td>6.74±0.28</td><td>6.66±0.28</td><td>6.76±0.30</td><td>6.90±0.12</td><td>6.67±0.31</td></tr><tr><td>第30天Day 30</td><td>7.47±0.31</td><td>7.22±0.48</td><td>7.10±0.36</td><td>7.02±0.21</td><td>6.63±0.30</td></tr><tr><td>第45天Day 45</td><td>7.36±0.16</td><td>7.44±0.33</td><td>7.40±0.43</td><td>7.33±0.20</td><td>7.13±0.23</td></tr><tr><td>第 60天Day 60</td><td>6.98±0.27</td><td>7.22±0.50</td><td>7.42±0.17</td><td>7.42±0.15</td><td>7.58±0.36</td></tr><tr><td>第75天Day 75</td><td>7.22±0.44Bb</td><td>7.74±0.38Bb</td><td>7.80±0.18Bb</td><td>7.92±0.12Bb</td><td>12.00±0.54Aa</td></tr><tr><td>第90天Day 90</td><td>6.98±0.24Cc</td><td>7.50±0.34BCc</td><td>8.10±0.10BCbc</td><td>9.54±0.93Bb</td><td>12.24±0.46Aa</td></tr><tr><td colspan="6">尿液尿素含量 Urea content in urine</td></tr><tr><td>第1天Day1</td><td>108.04±6.07</td><td>111.11±8.55</td><td>104.74±5.33</td><td>114.09±6.44</td><td>109.39±7.87</td></tr><tr><td>第15天Day 15</td><td>89.90±20.39Bb</td><td>78.41±10.50Bb</td><td>56.01±10.90Bb</td><td>94.48±15.28Bb</td><td>152.29±16.19Aa</td></tr><tr><td>第30天Day 30</td><td>281.57±73.46</td><td>154.10±27.46</td><td>131.62±35.64</td><td>242.14±61.29</td><td>192.02±25.96</td></tr><tr><td>第45天Day 45</td><td>240.74±76.51</td><td>192.09±56.58</td><td>238.89±61.28</td><td>190.11±37.55</td><td>268.71±70.75</td></tr><tr><td>第 60天Day 60</td><td>186.03±65.07</td><td>160.94±28.71</td><td>174.66±42.47</td><td>151.00±63.42</td><td>111.52±32.53</td></tr><tr><td>第75天Day 75</td><td>165.30±24.48ABb</td><td>171.84±14.91ABb</td><td>309.50±37.40Aa</td><td>215.50±50.59ABab</td><td>152.42±35.32Bb</td></tr><tr><td>第90天Day 90</td><td>175.14±19.56Bb</td><td>166.52±10.71Bab</td><td>251.22±14.34Aa</td><td>177.98±8.13Bb</td><td>132.38±11.82Bc</td></tr></table></body></html>
+
+# 94 2.2.2 血清及尿液肌酐含量
+
+由表4可知，第60、75天时，V组血清肌酐含量最高，IV组次之，V组显著或极显著高于其他4组（ $\scriptstyle \cdot < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）；第90天时，IV组血清肌酐含量显著或极显著高于其他4组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。第15、30、45天，尿液肌酐含量均以V组最高，第15天时显著或极显著高于Ⅰ、 $\mathrm { I I }$ 、II组（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），第30天时显著高于Ⅲ组（ $\scriptstyle P < 0 . 0 5 .$ ），第45 天时显著高于Ⅱ组（ $\scriptstyle P < 0 . 0 5$ ）。
+
+表4DCAB值对血清及尿液肌酐含量的影响  
+Table 4Effects of DCAB value on creatinine content in serum and urine of goats μ mol/L   
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>5</td><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td><td>V</td></tr><tr><td colspan="6">血清肌酐含量 Creatinine content in serum</td></tr><tr><td>第1天Day 1</td><td>79.67±7.21</td><td>67.00±8.74</td><td>78.22±7.21</td><td>74.22±7.28</td><td>72.33±7.07</td></tr><tr><td>第15天Day 15</td><td>65.22±5.67</td><td>70.11±5.20</td><td>74.44±5.96</td><td>82.44±6.00</td><td>73.67±6.65</td></tr><tr><td>第30天Day 30</td><td>69.56±5.94</td><td>70.11±6.82</td><td>75.22±6.91</td><td>82.22±5.10</td><td>74.33±5.21</td></tr><tr><td>第45天Day 45</td><td>68.14±10.43</td><td>72.14±5.39</td><td>68.00±6.86</td><td>83.57±7.38</td><td>70.57±5.64</td></tr><tr><td>第60天Day 60</td><td>69.60±8.29Bb</td><td>69.80±6.63Bb</td><td>72.60±7.64Bb</td><td>87.60±6.00ABb</td><td>109.20±4.94Aa</td></tr><tr><td>第75天Day 75</td><td>70.80±5.05Bc</td><td>70.80±2.33Bc</td><td>82.60±3.78Bbc</td><td>102.00±7.46Bb</td><td>303.80±17.85Aa</td></tr><tr><td>第90天Day 90</td><td>65.20±2.85Bc</td><td>70.80±4.79Bbc</td><td>83.00±5.93Bb</td><td>109.40±9.33Aa</td><td>88.40±2.93ABb</td></tr><tr><td colspan="6">尿液肌酐含量 Creatinine content in urine</td></tr><tr><td>第1天Day 1</td><td>3 319.11±509.30</td><td>3 107.56±237.51</td><td>3463.44±168.20</td><td>3 472.00±228.20</td><td>3 166.67±298.32</td></tr><tr><td>第15天Day 15</td><td>1 555.56±366.08Bb</td><td>1 307.56±150.56Bb</td><td>1157.00±180.30ABb</td><td>2333.56±665.20ABab</td><td>3 544.67±616.07Aa</td></tr><tr><td>第30天Day 30</td><td>4 264.78±740.34ab</td><td>2 963.22±446.93ab</td><td>2 787.11±717.22b</td><td>4 939.44±1 043.04ab</td><td>5 576.22±1 091.27</td></tr><tr><td>第45天Day 45</td><td>3 419.29±941.29ab</td><td>3 104.86±896.13b</td><td>3 991.43±802.91ab</td><td>5 091.00±910.41ab</td><td>6 300.00±1 238.34</td></tr><tr><td>第60天Day 60</td><td>3 848.60±1 392.51</td><td>3 467.40±799.86</td><td>4 303.20±1 422.86</td><td>4 123.60±1 179.62</td><td>5 120.40±2 349.70</td></tr></table></body></html>
+
+第75天Day75 3 891.20±609.69 3 729.20±348.43 6 537.20±1 646.21 7 086.00±1 994.71 4 500.00±1 000.86   
+第90天Day 90 3 482.80±1 069.94 3 218.60±940.21 4 806.20±116.95 4 662.80±1 187.39 3 579.20±1 008.86
+
+102 2.2.3 血清及尿液尿酸含量
+
+由表5可知，第45天时，IⅢ组血清尿酸含量显著高于V组（ $\scriptstyle \cdot P < 0 . 0 5 .$ ）；第75、90天时，V组血清尿酸含量最高，Ⅱ组含量最低，V组显著高于其他四组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。第15、30天时，V组尿液尿酸含量显著高于其他四组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）；第75、90天，II组尿液尿酸含量显著高于其他4组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+108 Table 5Effects of DCAB value on uric acid content in serum and urine of goats mmol/L 项目Items 组别 Groups   
+
+<html><body><table><tr><td></td><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>V</td></tr><tr><td colspan="6">血清尿酸含量 Uric acid content in serum</td></tr><tr><td>第1天Day1</td><td>1.57±0.37</td><td>1.70±0.32</td><td>1.61±0.29</td><td>1.71±0.29</td><td>1.64±0.42</td></tr><tr><td>第15天Day 15</td><td>2.11±0.23</td><td>2.14±0.40</td><td>2.14±0.55</td><td>2.29±0.36</td><td>2.42±0.48</td></tr><tr><td>第30天Day 30</td><td>2.43±0.37</td><td>2.29±0.42</td><td>2.86±0.51</td><td>2.57±0.43</td><td>2.71±0.52</td></tr><tr><td>第45天Day 45</td><td>3.86±0.70ab</td><td>3.71±0.29ab</td><td>5.42±0.97a</td><td>4.29±0.52ab</td><td>3.29±0.36b</td></tr><tr><td>第60天Day 60</td><td>3.40±0.24</td><td>3.60±0.24</td><td>4.60±0.68</td><td>4.60±0.60</td><td>5.40±1.17</td></tr><tr><td>第75天Day 75</td><td>3.42±0.30Bb</td><td>3.39±0.36Bb</td><td>4.43±0.30Bb</td><td>4.29±0.36Bb</td><td>6.57±0.48Aa</td></tr><tr><td>第90天Day 90</td><td>3.34±0.54Bb</td><td>3.29±0.42Bb</td><td>4.43±0.48ABb</td><td>4.50±0.55ABb</td><td>6.14±0.59Aa</td></tr><tr><td colspan="6">尿液尿酸含量Uric acid content in urine</td></tr><tr><td>第1天Day1</td><td>151.09±7.32</td><td>153.89±13.00</td><td>154.78±10.66</td><td>170.89±7.28</td><td>175.33±7.78</td></tr><tr><td>第15天Day 15</td><td>129.40±34.07Bb</td><td>157.40±28.83Bb</td><td>123.60±26.18Bb</td><td>208.70±53.63ABb</td><td>338.70±55.73Aa</td></tr><tr><td>第30天Day 30</td><td>467.60±148.11ab</td><td>321.00±57.86b</td><td>321.20±95.88b</td><td>567.70±129.13ab</td><td>786.10±159.27a</td></tr><tr><td>第45天Day 45</td><td>597.86±304.84</td><td>447.14±163.19</td><td>941.00±330.37</td><td>516.86±128.80</td><td>604.71±153.38</td></tr><tr><td>第60天Day 60</td><td>276.40±110.43</td><td>352.20±97.05</td><td>579.60±214.97</td><td>378.40±214.97</td><td>344.00±189.04</td></tr><tr><td>第75天Day 75</td><td>233.80±11.03Bc</td><td>297.20±29.63Bbc</td><td>498.00±75.11Aa</td><td>373.20±19.78ABb</td><td>334.20±17.39Bbc</td></tr><tr><td>第90天Day90</td><td>214.60±31.69Cc</td><td>255.60±5.91BCc</td><td>441.00±28.05Aa</td><td>336.00±17.56Bb</td><td>285.40±24.01BCbc</td></tr></table></body></html>
+
+# 109 2.3 尿结石发病情况
+
+10 由表6可知，I、Ⅱ组绒山羊无尿结石发生，I、IⅣ、V组分别有3、4、5只绒山羊患  
+11 尿结石，第38天V组出现第1只发病羊。  
+III 10 3 63天1只，77天2只 30  
+IV 10 4 50、72天分别1只，90天2只 40  
+V 10 5 38、73、90天分别1只，66天2只 50
+
+表5DCAB 值对山羊血清及尿液尿酸含量的影响  
+表6试验羊尿结石羊发病情况  
+
+<html><body><table><tr><td colspan="2">Table 6</td><td colspan="3"> The incidence situation of urolithiasis in the experimental goats</td></tr><tr><td>组别</td><td>总羊数</td><td>结石羊数</td><td>结石发病时间</td><td>发病率</td></tr><tr><td>Groups</td><td>Number of</td><td>Number of goats with</td><td>Onset time ofurolithiasis</td><td>Incidence</td></tr><tr><td></td><td>goats</td><td>urolithiasis</td><td></td><td>rate/%</td></tr><tr><td>I</td><td>10</td><td>0</td><td></td><td></td></tr><tr><td>II</td><td>10</td><td>0</td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1DCAB值对辽宁绒山羊生长性能的影响
+
+Tucker等[12]报道，随着DCAB 值的降低，采食量降低。有学者认为羔羊DCAB 值为450mEq/kg DM时采食量最高[13]。DCAB 值为0、150 mEq/kg DM时平均日采食量低于 600mEq/kgDM时，原因可能为阴离子盐通常适口性较差，影响了动物的采食量[14]。
+
+3.2DCAB 值对辽宁绒山羊血清及尿液生化指标的影响
+
+有研究表明，当血清尿素含量异常升高时常常预示着肾功能的异常[15]。本试验发现，DCAB值为600mEq/kgDM时血清尿素含量在试验第75、90天时极显著高于DCAB 值为0、150、300、450 mEq/kgDM时,尿液尿素含量在第75天时极显著低于DCAB 值为300 mEq/kgDM时，第90天时显著或极显著低于其他各组，尿素经肾小球滤过随尿液排出，当肾实质受损时，肾小球滤过率降低，使血清尿素含量增加，尿液尿素含量降低，因此，本试验结果的出现可能源于肾功能出现异常。DCAB值为150mEq/kgDM时血清尿素含量波动范围较小且低于DCAB 值为0、300、450、600 mEq/kg DM时，平均日增重较高，这可能由于该饲粮能改善羊体内的氨基酸平衡状况进而提高机体对蛋白质的利用率[16]。
+
+孙卫东等[17]认为血清肌酐含量上升可作为肾小球滤过功能受损的标志，代表着肾功能减退或衰竭。本试验发现，在第 $0 { \sim } 4 5$ 天，各组血清肌酐含量差异均不显著，在第75天时，DCAB 值为 $4 5 0 , \ 6 0 0 \mathrm { m E q / k g D M }$ 时血清肌酐含量高于DCAB值为0、150、300 mEq/kg DM时，明显高于正常水平[18]，原因可能为肌酐主要由肾小球滤过并排出，由于肾脏代偿功能较强，在肾小球早期或轻度受损时，血清肌酐含量可表现正常水平，当肾小球滤过功能严重下降或受损时，血清肌酐含量会迅速上升，尿液肌酐含量会下降。因此，本试验结果提示，DCAB 值为450、600 mEq/kgDM时山羊肾功能可能严重减退或衰竭。
+
+机体中的尿酸大部分由肾脏通过尿液排出，正常情况下，机体尿酸产生的速度与肾脏排泄的速度处于一种动态平衡，血清尿酸含量基本恒定[19-20]。本试验发现，DCAB 值为600mEq/kgDM时血清尿酸含量在第75、90天时显著或极显著高于DCAB 值为0、150、300、450 mEq/kgDM时，但尿液尿酸含量较低，其原因可能在于当肾脏受损时，这种平衡被打破，尿酸排泄减少，机体尿酸潴留导致血清尿酸含量升高。血清尿酸含量高表明在一定程度上山羊体内蛋白质的分解加快，含氮物质的合成降低，不利于生长。
+
+3.3DCAB值对辽宁绒山羊尿结石发病情况的影响
+
+当肾功能损害时，可造成血清尿素、肌酐和尿酸含量增高[15]。本试验中，山羊长期饲喂 DCAB 值为300、450、600 mEq/kgDM的饲粮，血清及尿液尿素、肌酐和尿酸含量异常。尿素、肌酐主要经肾小球滤过随尿液排出，当肾实质受损时，肾小球滤过功能下降或受损，使血清尿素、肌酐含量迅速上升，尿液尿素、肌酐含量下降，可能造成羊肾功能损害，导致尿酸排泄减少，机体尿酸潴留使血清尿酸含量升高。同时，肾功能减退或衰竭，使肾小球滤过肾小管重吸收障碍，易导致山羊机体内环境改变，使体内矿物质营养等多种代谢紊乱，促进尿结石的形成。
+
+4结论
+
+$\textcircled{1}$ DCAB 值影响辽宁绒山羊的平均日采食量，但不影响平均日增重，高DCAB 值可提高羊的平均日采食量，当DCAB 值为 $1 5 0 \mathrm { m E q / k g } \mathrm { D M }$ 时，料重比较低。$\textcircled{2}$ 随着DCAB 值的升高，辽宁绒山羊血清尿素、肌酐含量升高，DCAB 值为150mEq/kgDM时，血清及尿液尿素含量波动范围较小，含量较低，肌酐含量相对恒定。$\textcircled{3}$ DCAB 值为300、450、600 mEq/kgDM时辽宁绒山羊患尿结石，DCAB 值为0、150  
+mEq/kgDM时，无尿结石发生。$\textcircled{4}$ 综合分析表明，DCAB 值为150 mEq/kgDM时，有利于维持辽宁绒山羊血清和尿液  
+部分相关生化指标在正常水平及预防尿结石的发生。  
+参考文献：  
+[1] 莘海亮,吴文旋,吴佳海,等.饲喂低水平DCAD饲粮同时作为体外发酵底物组合对山羊瘤胃发酵的影响[J].家畜生态学报,2016,37(6):24-29.  
+[2] 常誉,焦阳,黄文明,等.阴离子盐对围产期奶牛健康和生产性能的影响[J].中国畜牧兽医,2017,44(1):80-86.  
+[3] MARTINS C M M R,ARCARI M A,WELTER K C,et al.Effect of dietary cation-aniondifference on ruminal metabolism,total apparent digestibility,blood and renal acid-baseregulation in lactating dairy cows[J].Animal,2016,10(1):64-74.  
+[4] WILKENS M R,PRAECHTER C,BREVES G,et al.Stimulating effects of a diet negative in
+
+dietary cation-anion difference on calcium absorption from the rumen in sheep[J].Journal of Animal Physiology and Animal Nutrition,2016,100(1):156-166.
+
+[5]胡晓菲.日粮阴阳离子平衡对热应激奶牛生产性能的影响[D].硕士学位论文.雅安:四川农业大学,2015:14-31.  
+[6] GAZI M A,KHAN M A,MAKHDOOMII D M,et al.Possble role of calcium,phosphorous andmagnesium shift in blood,urine and calculi in calves affected by urolithiasis[J].AfricanJournal of Agricultural Research,2015,10(4):207-214.  
+[7]王金勇,孙卫东,王小龙.高镁对诱发山羊尿石症的作用研究[J].中国农业科学,2008,41(3):852-860.  
+[8] TUCKER W B,HOGUE JF,WATERMAN D F,et al.Role of sulfur and chloride in the dietarycation-anionbalanceequationforlactatingdairycatle[J].JournalofAnimalScience,1991,69(3):1205-1213.  
+[9]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2002.  
+[10] 王加启,于建国.饲料分析与检验[M].北京:中国计量出版社,2004.  
+[11] 曾少勇,幸丽娅,吴候柏,等.联合检测胱抑素C、肌酐、尿素、尿酸水平在肾功能损伤中的临床诊断价值[J].中国医学创新,2011,8(10):26-27.  
+[12]TUCKER W B,HARRISON G A,HEMKEN R W.Influence of dietary cation-anion balanceonmilk,blood,urine,and rumen fluidin lactating dairy catte[J].Journal of DairyScience,1988,71(2):346-354.  
+[13]徐运杰,方热军.日粮离子平衡在动物生产中的应用[J].饲料研究,2007(9):9-12.  
+[14]吴文旋.日粮阴阳离子差在奶牛上的应用效果研究[D].博士学位论文.杭州:浙江大学,2007:50-51.  
+[15]夏运成,彭灿辉,周志芳,等.唾液尿素、肌酐、尿酸水平在慢性肾病患者中的临床意义[J].中南大学学报:医学版,2012,37(11):1171-1176.  
+[16] 薛丰,杜晋平,解祥学,等.玉米和玉米青贮日粮添加赖氨酸对肉牛生长性能及血液生化指标的影响[J].中国畜牧杂志,2010,46(19):38-41.  
+[17] 孙卫东,王金勇,俞向前,等.山羊尿石症发生过程中血液及尿液生化变化的动态研究[J].南京农业大学学报,2009,32(4):122-126.  
+[18] 潘晓亮,周恩库,吐尔逊帕夏,等.棉粕和棉籽壳诱发雄性细毛羊尿结石[J].中国兽医学报,2010,30(8):1118-1121.  
+[19]黎磊石,刘志红.中国肾脏病学[M].北京:人民军医出版社,2008:1240-1245.  
+[20] LIPKOWITZ M S.Regulation of uric acid excretion by the kidney[J].Current RheumataologyReports,2012,14(2):179-188.Effect of dietary cation-anion balance on growth performance, biochemical indices of serumand urine, incidence situation of urolithiasis of Liaoning cashmere goatsYU Lei1YAN Han1 CONG Yuyan1\* SUN Yabo²SONG Xianzhen² QUAN Zhiguo²(1. College of Animal Science and Veterinary Medicine, Shenyang Agricultural University,Shenyang 110866， China; 2. Institute of Animal Husbandry of Liaoyang Province,Liaoyang111000，China)
+
+Abstract: This present experiment was conducted to determine the effects of dietary cation-anion balance (DCAB) value on growth performance, biochemical indices of serum and urine,incidence situation of urolithiasis of Liaoning cashmere goats. Fifty healthy Liaoning cashmere goats at the age of about 1.5 years and body weight of about $3 0 ~ \mathrm { k g }$ were selected and randomly divided to 5 groups, each group had 10 goats.DCAB value in different groups was O (group I),150 (group II),300 (group II),450（group IV） and 600 mEq/kg DM（group V）,respectively. The pre-test lasted for $1 5 { \mathrm { ~ d } } .$ ，and the formal test lasted for 9O d.The results showed as follows:1) DCAB value had no significant influence on average daily gain $( P { > } 0 . 0 5 )$ ； with the increase of DCAB value,average daily feed intake tended to increase (excepte day 75 to 9O); feed to gain ratio was higher in group I on day 1 to 15 and day 15 to 30,and was higher in group $\mathrm { \Delta V }$ on day 60 to 75 and day 75 to 90. 2) On days 75 and 90, serum urea content in group $\mathrm { \Delta V }$ was the highest,and urine urea content in group II was the highest; on days 65 and 75,serum creatinine content was the highest, and on day 90,group IV had the highest value; on days 15,30 and 45,urine creatinine content was the highest in group V ;on day 45, serum uric acid content in group II was the
+
+highest,and on days 75 and 90,group V had the highest value; on days 15 and 30,urine uric acid content in group $\mathrm { \Delta V }$ was the highest,and on days 75 and 90, group III had the highest value. 3）No urolithiasis goat was found in groups I and I ,and 3,4 and 5 urolithiasis goats were found in groups III, IV and V,respectively. In conclusion, DCAB value of $1 5 0 ~ \mathrm { m E q / k g }$ DM is beneficial to maintain partial biochemical indices of serum and urine of Liaoning cashmere goats and prevent goats form urolithiasiss.   
+Key words: dietary cation-anion balance value； growth performance； biochemical indice; urolithiasis; Liaoning cashmere goats

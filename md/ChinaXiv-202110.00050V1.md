@@ -1,0 +1,219 @@
+# 西北地区4月降水异常的环流特征及前兆海温信号
+
+卢国阳，林纾，王蕊，刘丽伟，黄鹏程，林婧婧
+
+(兰州区域气候中心，甘肃 兰州730020)
+
+摘要：利用1981—2019年西北地区4月降水站点资料、美国国家环境预报中心第二套再分析资料(NCEP/DOEⅡ）、美国国家海洋和大气管理局(NOAA)海温场资料，研究了西北地区4月降水的异常特征以及对应的同期环流场特征，寻找可能的前兆海温信号并讨论其影响机制。结果表明：(1)西北地区4月降水以全区一致性分布为主，具有明显的年际与年代际变化。(2）当东北大西洋至东亚上空存在一个“负、正、负、正”的异常波列分布时,使得巴尔喀什湖低槽偏强，东亚大槽减弱，西北地区盛行显著的偏南气流，上升运动加强，加之来自东部海洋与孟加拉湾充足的水汽输送，在西北区形成强烈的水汽辐合区，有利于该区降水偏多;反之，情况则相反。(3）前期2月北大西洋三极子指数与西北地区4月降水呈显著的正相关关系，可作为4月降水预测的前兆信号。进一步分析表明,北大西洋海温异常产生的非绝热加热可以激发Rossby波能量的下游频散,致使欧洲西部、乌拉尔山、巴尔喀什湖、东北亚地区呈现“负、正、负、正"的遥相关波列，而这种异常Rossby波能量频散与4月降水异常对应的Rossby波能量频散非常相似，从而影响到西北地区4月降水异常。
+
+关键词：降水；大气环流异常；北大西洋三极子；遥相关波列；西北地区
+
+# 文章编号：
+
+我国西北地区处于亚洲内陆，地形复杂，气候多样，属于干旱半干旱气候区。降水年际差异大，区域内的干旱、洪涝等气象灾害均可造成严重的损失，因此对区域内降水变化规律及气候影响系统研究，解释整个区域气候变化和大气环流及外强迫关系，对提高区域内气候预测准确性，指导当地农业生产、生态保护、防灾减灾有着重要意义。
+
+国内对西北地区降水的研究中，重点关注了夏季降水特征及异常成因分析[1-9],研究发现,西北地区夏季降水存在准 $3 \mathrm { ~ a ~ } , 1 1 \mathrm { ~ a ~ } , 2 8$ a的多尺度变化周期；从大尺度环流场而言，西北地区夏季多雨年从东西伯利亚到巴尔喀什湖为东西走向的横槽，日本到我国华北地区为脊区，偏西气流和偏南气流在西北区汇合，有利于西北地区降水；从水汽条件来看，西北地区降水多(少)主要是水汽的偏西风输送和偏南风输送的强(弱)造成，尤其是偏南风输送的增强(减弱)。而目前对春季降水的研究相对较少，李耀辉等[0对西北地区春季降水异常特征进行分析，发现有6个主要的异常区域，存在准3a的周期，在1973年和1983年分别出现减少和增多的突变[];郭江勇等[2]对春季多雨和少雨环流形势进行了分析，表明当西北地区上游的高压脊和下游的东亚大槽减弱,且南支气流加强,则对应春季多雨;任宏利等[13-14]和王秀荣等5研究了西北地区春季降水及其水汽输送的关系，发现春季多雨年水汽异常主要来源于偏东方向海洋上的向西输送和菲律宾及其北部海区的向北输送。上述研究主要是以季节降水为研究对象，没有考虑月际之间的差异，而前人在研究我国其他地区时发现春季月际间的差异是显著而具有实际意义的[16-18]。在以雨养农业为主的西北地区，春季4月是农业生产中的一个重要月份，正值冬小麦返青、拔节、抽穗和玉米等春播作物的播种、出苗等关键时期，4月发生干旱则会影响春耕春播进度和作物的苗期生长，进而对农作物的产量造成影响。因此,4月降水是“春雨贵如油”，对其进行分析研究和预测很有必要，也有研究指出4月中下旬是西北区域性透雨发生的气候日期，透雨偏早，对应于降水偏多,而透雨偏晚,则降水偏少[19-21],但目前针对西北地区4月降水的异常特征研究较少，本文以西北地区4月降水为研究对象，分析其对应的环流特征及海温场特征，以期揭示西北4月降水异常的成因以及可能的前兆海温信号，为西北地区农业生产、生态保护、防灾减灾提供可能依据。
+
+# 1 资料与方法
+
+# 1.1 资料介绍
+
+根据兰州区域气候中心实际业务工作，选取陕西、甘肃、青海、宁夏四省(区)作为西北区域来研究。所用资料为国家气象信息中心提供的西北地区187个气象台站1981—2019年的逐日降水，该资料经过严格的质量控制和均一化订正[22-23]
+
+使用1981—2019年美国国家环境预报中心第二套再分析资料(NCEP/DOEII)中的温度场、位势高度场、风场、垂直速度场、相对湿度场、海平面气压场，水平分辨率为 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ ;海温数据为美国国家海洋和大气管理局(NOAA)重建的第五版逐月海温资料，分辨率为 $2 ^ { \circ } \times 2 ^ { \circ }$ ，数据覆盖时间范围为1980—2019年。北大西洋三极子海温指数(NAT)来源于国家气候中心（网址：https://cmdp.ncc-cmanet/Monitoring/cn_nino_index.php?product $\mathbf { \Psi } =$ cn_nino_index_atlantic）。太平洋年代际振荡(PDO)与大西洋多年代际振荡(AMO)指数来源于国家气候中心气候与气候变化监测系统(CIPAS2.3）。
+
+# 1.2 研究方法
+
+单位气柱内整层大气水汽输送通量矢量(Q，$\mathrm { k g } \cdot \mathrm { m } ^ { - 1 } \cdot \mathrm { s } ^ { - 1 } )$ 的计算方法如下：
+
+$$
+Q = \frac { 1 } { g } \int _ { p _ { 3 0 0 } } ^ { p _ { * } } q V \mathrm { d } p
+$$
+
+其中：
+
+$$
+\begin{array} { c } { { \displaystyle { \left\{ Q _ { u } = \frac { 1 } { g } \int _ { p _ { 3 0 0 } } ^ { p _ { * } } q u \mathrm { d } p \right. } } } \\ { { \displaystyle { \left. \left[ Q _ { v } = \frac { 1 } { g } \int _ { p _ { 3 0 0 } } ^ { p _ { * } } q v \mathrm { d } p \right. \right. } } } \end{array}
+$$
+
+式中： $V$ 为风矢量 $\left( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \right) ; u , v$ 分别为纬向和经向风速分量 $\left( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \right)$ ; $p _ { \mathrm { s } }$ 为海平面气压 $\left( \mathrm { { h P a } } \right)$ ; $p _ { 3 0 0 }$ 为300$\mathrm { { h P a } }$ 处气压 $\mathrm { ( h P a ) } ; g$ 为重力加速度,取值为 $9 . 8 \ \mathrm { m } \cdot \mathrm { s } ^ { - 2 }$ $q$ 是各层大气的比湿 $\left( { \bf g } \cdot { \bf k } { \bf g } ^ { - 1 } \right)$ ，由于NCEP/DOEII资料中无比湿数据，因此利用温度、相对湿度资料，根据克拉伯龙-克劳修斯方程计算得到。
+
+水汽通量散度是指单位时间内流人或流出单位体积的水汽质量，用以描述水汽的辐合辐散状况。本文描述的水汽通量散度同样为整层水汽通量散度 $( D , \mathbf { g } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { s } ^ { - 1 } )$ ,可用下式表示：
+
+$$
+D = \frac { 1 } { g } \int _ { P _ { 3 0 0 } } ^ { P _ { * } } \nabla _ { p } ( q V ) \mathrm { d } p
+$$
+
+Takaya等[23-24]推导出的三维波作用通量（简称TN 波作用通量），用于描述定常Rossby波的能量频散特征。TN波作用通量，在WKB(Wenzel-Kramers-Brillouin)近似假定下与波的位相无关，而定常Ross-by波波列的局地群速度方向一致，反映了Rossby群波能量的频散方向。需要指出的是，由于TN波作用通量计算时，无须假定基本流场必须是纬向平均基本流，可以包含纬向不均匀的纬向风场和经向风场。因此，特别适合中高纬地区背景环流不平直的状况，详细计算见文献[24-25」。
+
+本文主要的研究方法还有经验正交分解（EOF）、回归分析、相关分析等
+
+# 2结果与分析
+
+# 2.1西北地区4月降水异常的时空特征
+
+对西北地区1981—2019年4月降水量的标准化距平场进行EOF分解，其中第一特征向量场方差贡献率为 $5 1 . 8 \%$ ；第二特征向量场方差贡献率为$7 . 2 \%$ ;第三特征向量场方差贡献率为 $5 . 9 \%$ 。前3个特征向量的累计方差贡献达到 $6 4 . 9 \%$ ,第二、三特征向量与第一特征向量相比，方差贡献迅速减少，说明第一特征向量基本可以表征西北地区4月降水异常的主要分布特征。从图1a可以看出，西北地区4月降水基本呈全区一致性的分布特征，异常中心位于甘肃东部与陕西西南部的交界处。图1b为第一特征向量对应时间系数(PC1)的变化曲线，可以看到西北地区4月降水有明显的年际与年代际变化，在20世纪90年代之前，西北地区4月降水总体处于偏少背景，20世纪90年代其振幅加强，年际变化明显，降水的持续偏多或偏少不明显，21世纪初转为降水偏少时段，但近6a又处于相对多雨背景。为了更具有实际意义，我们将区域内187个站点降水量做等权平均，并将其标准化，得到了西北地区4月标准化区域平均降水指数(SRI)，其与PC1的变化趋势基本一致，二者相关可达0.99，超过了0.001的显著性检验水平，验证了SRI指数也可以表征4月降水的年际变化特征，因此后文使用SRI指数进行相关的分析与研究。
+
+![](images/77ab68477c9b773217aa67dc5da8c04a8c9a37a02699f69390a3e84df2266eca.jpg)  
+干旱区地理  
+注：图a基于国家测绘地理信息局标准地图服务网站下载的审图号GS(2019)1711号的标准地图制作，边界无修改。PC1表示EOF1对应的时间系数，SRI表示标准化区域平均降水指数。下同。  
+图1西北地区4月降水距平标准化场的EOF分析第一模态及其时间系数  
+Fig.1Spatial distribution and time coeficientofEOF analysis forthe standardized precipitation anomaly field in April in northwest China
+
+# 2.2西北地区降水异常的环流特征
+
+2.2.1 ${ \bf 5 0 0 ~ h P a }$ 环流特征由SRI指数对同期500$\mathrm { { h P a } }$ 高度距平场的回归分布图(图2a)可见，中高纬度 $2 0 ^ { \circ } { \sim } 6 0 ^ { \circ } \mathrm { N }$ 之间，从东北大西洋至东亚上空存在一个自西向东的波列，呈现"负、正、负、正"的异常分布，其中巴尔喀什湖附近为显著的负位势高度距平异常，异常中心位于巴尔喀什湖以北区域，异常值超过 $- 1 0 \mathrm { { h P a } }$ ,我国东部至日本海一带为大范围显著正高度场距平，我国东北偏南地区是正异常中心，其值可达 $3 0 \mathrm { { h P a } }$ ，说明巴尔喀什湖低槽偏强，东亚大槽减弱，西北地区位于“槽前脊后”，槽区异常气旋性引导的偏北冷气流与脊区异常反气旋性引导的偏南暖湿气流在西北地区汇合，导致西北地区4月降水异常增多。反之，则情况相反。
+
+2.2.2 $7 0 0 \ \mathrm { h P a }$ 风场及 ${ \bf 5 0 0 ~ h P a }$ 垂直速度特征由SRI指数对同期 $7 0 0 \mathrm { { h P a } }$ 风场的回归分布图(图2b)可见，对应于 $5 0 0 \mathrm { { h P a } }$ 高度场异常分布，中高纬度自东北大西洋至东亚沿岸为气旋、反气旋、气旋、反气旋的异常风场，我国中东部地区受庞大的反气旋性环流控制，西北地区受显著的偏南气流影响，有利于我国南海及西北太平洋的暖湿气流向西北方向的输送，加之西北地区及以东至我国东海海域一带均为显著的上升气流(图2c)，非常有利于西北地区4月降水。
+
+2.2.3整层水汽输送特征由SRI指数对整层水汽输送通量回归图(图2d)可见，水汽输送的异常分布特征与大尺度环流以及 $7 0 0 \mathrm { { h P a } }$ 风场相对应，从东北大西洋至东亚地区为气旋、反气旋、气旋、反气旋式的水汽输送异常，表明由大尺度环流异常引起的平均水汽输送在西北地区4月降水异常过程中起到了主导作用，该结论与任宏利等[14结果一致。影响西北地区4月降水异常的水汽输送主要有两支，一支为东部洋面水汽的西向输送，在我国东南沿海受反气旋性环流异常引导，发生偏转向西北方向输送，到达西北地区，并在西北地区及华北一带形成较强的水汽辐合(图2f);另一支为来自孟加拉湾的水汽自青藏高原东侧至华南地区向北输送，与前一支水汽在西北地区汇合，沿着高原北侧一河西走廊进入西北内陆，为西北地区降水提供了丰富的水汽来源。任宏利等[14计算西北地区4月下旬至5月中旬水汽输送时也得出同样的结论，并进一步指出青藏高原的地形作用，使得西北东部地区成为海洋暖湿气流进入西北内陆的“门户”和水汽输送关键区，这对维系西北地区空中水资源乃至水分循环过程具有重要作用。
+
+综上所述，当西北地区4月降水偏多时，从东北大西洋至东亚上空存在一个“负、正、负、正"的异常波列分布，使得巴尔喀什湖低槽偏强，东亚大槽减弱，西北地区盛行显著的偏南气流，上升运动显著，加之来自东部海洋与孟加拉湾充足的水汽输送，在西北地区形成强烈的水汽辐合区，造成西北地区降水增多；反之，情况则相反。
+
+# 2.3西北地区4月降水异常与海温联系
+
+2.3.1西北地区4月降水异常与海温场的关系给出SRI指数与同期4月海表温度距平场的相关系数
+
+# (b)SRI指数对 $7 0 0 \mathrm { { h P a } }$ 矢量风距平场的回归
+
+![](images/40c87747090dfd982da5b2fe95eac8e54f7fa72cec423bb81bd89c0641f33905.jpg)
+
+(e)SRI指数对整层水汽通量散度距平场的回归
+
+![](images/3af72cb0e9e83a1fd19d78114d1bb73d2b575b813585e5c4ffa4740c086ed4de.jpg)
+
+注：粗实线为0线;深、浅阴影分别表示通过 $9 9 \%$ ， $9 5 \%$ 的信度检验。图a中等值线间隔为 $5 \mathrm { { h P a } }$ ，红色“ $^ +$ "和"-"分别表示回归系数为正和为负;图b中参考箭头为 $1 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ，红色"A"和"C"分别表示反气旋和气旋;图c中等值线间隔为 $0 . 0 0 2 \mathrm { P a } \cdots ^ { - 1 }$ ;图d中参考箭头为 $3 \mathrm { k g \cdot m ^ { - 1 } \cdot s ^ { - 1 } }$ ,绿色曲线为青藏高原边界线;图e中等值线间隔为 $0 . 0 0 0 8 \ \mathrm { g \cdot s ^ { - 1 } \cdot m ^ { - 2 } }$ ，绿色曲线为青藏高原边界线。
+
+图24月SRI指数对 $5 0 0 \mathrm { { h P a } }$ 位势高度、 $7 0 0 \mathrm { { h P a } }$ 矢量风 ${ , 5 0 0 \mathrm { h P a } }$ 垂直速度、整层水汽输送通量、整层水汽通量散度距平场的回归
+
+Fig.2Simultaneous regression of SRI index on $5 0 0 \mathrm { { h P a } }$ geopotential height anomaly, $7 0 0 \mathrm { { h P a } }$ wind anomaly, $5 0 0 \mathrm { { h P a } }$ vertica velocity anomaly, water vapor flux anomaly,and water vapor flux divergence anomaly in April
+
+分布图(图3a)。由图可见，西北区4月降水与黑潮区海温、澳大利亚东侧海温、北太平洋东部海温以及北大西洋海温存在显著的相关关系，其中北大西洋区海温相关分布型类似于正位相的NAT型[26，高纬度为显著的负相关，中纬度为显著正相关，赤道地区为负相关。考虑到大气环流对海温异常响应的滞后性，对SRI指数与前期1一3月平均海表温度距平场进行相关分析(图3b)，可以发现北大西洋三极子型的海温异常分布还是稳定存在且显著的，其余海区的相关性明显减弱甚至消失，说明NAT型海温可能是西北地区4月降水异常的一个较稳定的前兆信号，下文将进一步分析NAT型海温与西北地区4月降水的可能联系。
+
+2.3.2 NAT与西北4月降水异常的关系由NAT指数与西北地区4月降水的超前滞后相关系数图（图
+
+4)可知，前期1月NAT指数与SRI指数相关已经达到 $9 5 \%$ 的信度检验，相关系数为0.348，前期2、3月及同期4月与SRI相关系数均达到或接近 $9 9 \%$ 的可信度，相关系数分别为 $0 . 3 8 5 , 0 . 3 6 8$ 和0.394，4月的相关系数达到峰值，后期逐步衰减。因此，从实际预测业务考虑，选择前期2月NAT指数作为西北地区4月降水异常的一个前兆信号。进一步给出2月NAT指数与西北地区4月降水的相关系数空间分布图(图5)，除甘肃河西西部、青海西北部部分地方外，其余大部地区均为正相关关系，其中与青海东南部、甘肃东南部、宁夏北部以及陕西大部的正相关关系均通过了 $9 0 \%$ 的信度检验，而这种相关分布型基本对应于西北地区4月降水EOF分解的第一模态空间分布，说明具有实际指示意义，当前期2月NAT指数为正，对应于西北地区大部4月降水偏多，
+
+# 干辛区地理
+
+![](images/67fdad37784883802c4f4201e8e407bec610e18c884a5f653074307d6f64663b.jpg)  
+(a)SRI指数与同期4月海温距平的相关系数
+
+(b) SRI指数与前期1—3月平均海温距平的相关系数
+
+注：粗实线为0线，等值线间隔为0.1，深、浅阴影分别表示通过 $9 9 \% 9 5 \%$ 的信度检验。
+
+![](images/c3745a4588ca07014f7d1a1245de91adee6f6354c71d444702d9bc45a276d717.jpg)  
+Fig.3 Correlation between SRI and SSTanomaly in April and the mean in prior-January to March
+
+图3SRI指数与同期4月海温、前期1—3月平均海温距平场的相关系数的空间分布
+
+![](images/33a548217882d4801b3b88cb88df4c56055be8e79d5afa6d778b1aa756d02306.jpg)  
+图4SRI指数与NAT指数的超前滞后相关系数 Fig.4 Lead-lag correlation coefficient between SRI and NAT indices
+
+反之西北地区降水则偏少。
+
+综上所述，西北地区4月降水异常与北大西洋三极型的海温分布具有较好的关系，这种自北向南负、正、负的相关型分布稳定且显著的从前期2月持
+
+注：粗实线为0线，实线、虚线分别表示相关系数为正、负，浅、深阴影区分别表示相关系数通过 $9 0 \% 9 5 \%$ 的信度检验。
+
+![](images/623e2acb0cf78c3b11ed4e53ac296142dc84ac4e08312d4bcab6c41e3945c431.jpg)  
+图5前期2月NAT指数与西北地区4月降水相关系数的空间分布  
+Fig.5Correlation between NAT index in prior-February and precipitation anomaly field in April in northwest China
+
+续至同期4月，从实际预测业务角度而言，前期2月NAT海温异常可作为西北地区4月降水异常的前兆
+
+# (a)前期2月NAT指数对 ${ \mathfrak { s o o h P a } }$ 位势高度距平场的回归
+
+![](images/729288f8b8dcd916c72b9431938832dd6fbb5eac9986232b9dba832a5501f2e4.jpg)
+
+(b)前期2月NAT指数对 $7 0 0 \mathrm { { h P a } }$ 矢量风距平场的回归(c)前期2月NAT指数对 $5 0 0 \mathrm { { h P a } }$ 垂直速度距平场的回归(d)前期2月NAT指数对整层水汽输送通量距平场的回归
+
+![](images/7e0853c255dd9ad98c69aeb476b7c6343cfc4d2dd948e700ac4d35c1721ed2a7.jpg)
+
+![](images/cc414584c0544ff4595a9641bd850698d1c8d84f76b8e32b75df1e0953c5c3b9.jpg)
+
+![](images/7154a922ff5099d109493d788a8e7fe3a1658def3bee455b058136c59b79ff2a.jpg)
+
+注：粗实线为0线，深、浅阴影区分别表示通过 $9 5 \%$ ， $9 0 \%$ 的信度检验。图a中等值线间隔为 $2 . 5 \mathrm { { h P a } }$ ，红色“ $^ +$ "和"-"分别表示回归系数为正和 为负;图b中参考矢量箭头为 $1 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ;图c中等值线间隔为 $0 . 0 0 3 \mathrm { P a } \cdots ^ { - 1 }$ ;图d中参考矢量箭头为 $3 \mathrm { { k g } { \cdot } \mathrm { { m } ^ { - 1 } { \cdot } \mathrm { { s } ^ { - 1 } } } }$ ,绿色曲线为青藏高原边界线。 图6前期2月NAT指数对4月 $5 0 0 \mathrm { { h P a } }$ 位势高度、 $\mathrm { \cdot 7 0 0 h \ P a }$ 矢量风 $, 5 0 0 \mathrm { { h P a } }$ 垂直速度、整层水汽输送通量距平场的回归 Fig.6Regression of the prior-February NAT index on $5 0 0 \mathrm { { h P a } }$ geopotential height anomaly, $7 0 0 \mathrm { { h P a } }$ wind anomaly, $5 0 0 \mathrm { { h P a } }$ vertical velocity anomaly, and water vapor flux anomaly in April
+
+# 干吴区地理
+
+信号。
+
+# 2.4北大西洋三极子海温影响4月降水的可能机制
+
+为了研究2月北大西洋三极子海温异常对西北地区4月降水的可能影响机理，给出前期2月NAT指数对4月 $5 0 0 \mathrm { { h P a } }$ 高度场的回归。如图6a所示，可以看到，当前期2月NAT处于正位相时，在马蹄形正异常海温区，由于局地海洋热力作用，激发正位势高度异常，在其南北两侧分别为负位势高度异常，下游从欧洲西部至东亚地区依次为“负、正、负、正”的异常波列，西北地区上游为显著的负位势高度距平异常，下游的东亚大槽减弱，这种异常高度场分布与4月多雨年对应的环流场(图2a)非常相似，说明前期2月北大西洋三极子海温异常可激发遥相关波列，在我国呈现“西低东高"的高度场异常，有利于西北地区4月降水偏多。对应于环流场异常，$7 0 0 \mathrm { { h P a } }$ 风场从北大西洋至东亚地区依次为“反气旋、气旋、反气旋、气旋、反气旋"的异常波列分布，西北地区受显著的偏南气流影响，利于南方暖湿气流的西北向输送(图6b)。从前期2月NAT指数对4月 $5 0 0 \mathrm { { h P a } }$ 垂直速度场距平的回归可以看到，当前期2月NAT处于正位相时，对应于西北地区大部为异常上升运动(图6c);从整层水汽输送通量可以看到，自北大西洋至东亚地区为“反气旋、气旋、反气旋、气旋、反气旋"式的水汽输送，西北地区处于异常显著的偏南、偏东水汽输送带中，为西北地区提供了充沛的水汽来源，有利于4月降水异常偏多。
+
+![](images/6e0c96e0a7c04faa36b46bfef7049749927ceb5bf15d9146fe3cb1f0caa6fb9f.jpg)  
+(a)NAT指数对 $3 0 0 \mathrm { { h P a } }$ 波作用通量和准地转流函数的回归
+
+研究指出，海温异常首先通过非绝热加热引起局地大气环流变化，然后通过Rossby波的能量频散对下游大气环流产生影响[27-29]。从图6a可以看到，$1 0 ^ { \circ } { \sim } 3 0 ^ { \circ } \mathrm { N }$ 之间的热带北大西洋为显著的负位势高度异常分布，该异常是由于热带北大西洋海温冷却引起大气产生的Gil型响应[30],另外在北美东海岸沿线存在一个“负、正、负"异常波列，连接起了热带信号与前文所述从东北大西洋至东亚地区的“负、正、负、正"的异常波列(图6a)。Zuo等3研究指出热带北大西洋非绝热加热是维持北大西洋至东亚地区的异常波列的主要原因，并指出热带北大西洋海温异常所产生的潜热异常起到了关键性作用。
+
+![](images/2452c44b0e33cca8479f836190b36eb9a8a76102359438180be080de45e15981.jpg)  
+(b)SRI指数对 $3 0 0 \mathrm { { h P a } }$ 波作用通量和准地转流函数的回归  
+图7前期2月NAT指数与SRI指数分别对4月 $3 0 0 \mathrm { \ h P a \ T N }$ 波活动作用通量距平场(单位： $\mathbf { m } ^ { 2 } { \cdot } \mathbf { s } ^ { - 2 }$ ，参考箭头为 $4 \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } ^ { - 2 } ,$ 与$3 0 0 \mathrm { { h P a } }$ 准地转流函数距平场(单位： $1 0 ^ { 6 } \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } ^ { - 1 }$ ，等值线间隔为 $0 . 5 { \times } 1 0 ^ { 6 } \mathrm { { m } ^ { 2 } \cdot \mathrm { { s } ^ { - 1 } } }$ 的回归  
+Fig.7Regression of prior-FebruaryNAT index and SRI index on $3 0 0 \mathrm { { h P a } }$ TN wave activity flux anomaly(Unit: $\mathbf { m } ^ { 2 } { \cdot } \mathbf { s } ^ { - 2 }$ ,reference vector arrow is $4 \mathrm { m } ^ { 2 } { \cdot } \mathrm { s } ^ { - 2 }$ )and $3 0 0 \mathrm { { h P a } }$ quasi-geostrophic stream function anomaly（Unit: $1 0 ^ { 6 } \mathrm { m ^ { 2 } \cdot s ^ { - 1 } }$ ,contour interval is $0 . 5 { \times } 1 0 ^ { 6 } \mathrm { { m } ^ { 2 } { \cdot } \mathrm { { s } ^ { - 1 } } }$ ) in April,respectively
+
+为了进一步证明前文所述东北大西洋至东亚的“负、正、负、正"的异常波列的存在以及扰动能量向下游西北地区的传递，引入了TN波作用通量并计算了2月NAT指数对4月 $3 0 0 \mathrm { \ h P a \ T N }$ 波作用通量水平分量和 $3 0 0 \mathrm { { h P a } }$ 准地转流函数的回归（图 $7 \mathrm { a }$ )。从图中可以看到，在北大西洋海温的作用下，激发了向下游传播的Rossby波，且以该Rossby波能量频散为纽带，大气波扰能量的传递有助于下游波列的加强和维持，在欧洲西部、乌拉尔山、巴尔喀什湖、东北亚地区呈现“负、正、负、正"的准地转流函数异常，而这种异常Rossby波能量频散和流函数异常与4月SRI指数对应的Rossby波能量频散和流函数异常非常相似(图7b)，证明北大西洋三极型海温对东北大西洋至东亚地区的异常波列的重要作用，进而影响到了西北地区4月降水异常。
+
+# 3讨论
+
+值得指出的是，2月北大西洋三极子海温与西北地区4月降水的关系可能还受到太平洋和大西洋海温年代际尺度影响。首先，在PDO的正位相，二者的同位相关系更明显;其次，在AMO负位相，也更容易出现NAT为正、西北地区降水为负的关系配置（图8)，后期预测业务中应重视这种配置关系。本文只是从环流场及海温场的角度分析了西北地区4月降水的可能影响机制，有研究指出，西北地区降水还与高原积雪、植被覆盖、地表感热等关系密切[32-35],因此后期工作将从陆面过程探讨西北地区4月降水变化的影响机理。另外，前期北大西洋三极子型海温影响后期大气环流进而影响到西北4月降水异常的机制应由数值模拟方法予以进一步揭示。
+
+# 4结论
+
+本文利用西北地区187个气象站点资料,结合NCEP/DOEI再分析、NOAA海温场资料，研究了西北地区4月降水的异常特征以及对应的同期环流场特征，并从实际的预测业务角度出发，寻找可能的前兆信号并讨论其影响的可能机制，主要结论如下：
+
+（1）西北地区4月降水EOF分解的第一模态以全区一致性分布为主，其基本可以表征西北地区4注：PDO表示太平洋年代际振荡，AMO表示大西洋多年代际振荡。图8不同PDO和AMO位相下2月NAT指数与西北地区4月降水关系的配置图(AMO指数扩大了10倍）
+
+![](images/1ef992253b267cdf7b19aebdd3be0722493a01cb5e6ce3772f3f9f2402882d1b.jpg)  
+Fig.8 Configuration map of relationship between NAT index in prior-February and precipitation in April in northwest China under different PDO and AMO phases(The AMO index expanded by10 times)
+
+月降水异常的主要分布特征，且具有明显的年际与年代际变化，在20世纪90年代之前，降水总体处于偏少背景，20世纪90年代年际变化明显，21世纪初转为降水偏少时段，但近6a又是相对多雨的背景。
+
+(2）通过分析西北地区4月降水与环流场可知，当东北大西洋至东亚上空存在一个“负、正、负、正"的异常波列分布，巴尔喀什湖低槽偏强，东亚大槽减弱，西北地区盛行显著的偏南气流，上升运动显著，加之来自东部海洋与孟加拉湾充足的水汽输送，在西北地区形成强烈的水汽辐合区，有利于西北地区降水偏多；反之，情况则相反。
+
+（3）西北地区4月降水异常与北大西洋海温自北向南呈现显著的负、正、负的相关型分布，这种关系从前期2月可稳定持续至同期4月，从实际预测业务角度而言，前期2月NAT指数异常可作为西北地区4月降水异常的一个前兆信号。
+
+(4）进一步分析表明，热带北大西洋海温异常产生的非绝热加热可以激发Rossby波能量的下游频散，致使欧洲西部、乌拉尔山、巴尔喀什湖、东北亚地区呈现“负、正、负、正"的异常环流型，而这种异常Rossby波能量频散与4月SRI指数对应的Ross-by波能量频散非常相似，从而影响西北地区4月降水异常。
+
+# 干旱区地理
+
+参考文献(References)   
+[1]李栋梁,王文.中国西北夏季降水特征及其异常研究[J].大气科 学,1997,21(3): 331-340.[Li Dongliang,Wang Wen.A study of summer precipitation features and anomaly in northwest China[J]. Chinese JournalofAtmospheric Scienes,997,21(3):331-340.]   
+[2]王秀荣,徐祥德,庞昕.西北地区夏季降水异常的时空特征分析 [J].气象科学,2002,22(4):402-409.Wang Xiurong,XuDexiang, Pang Xin. Spatial and temporal characteristics of analysis of summer precipitation timeand spatial features innorthwest China[J]. Journal of the Meteorological Sciences,2002,22(4): 402-409.]   
+[3]李耀辉,李栋梁.ENSO循环对西北地区夏季气候异常的影响 [J].高原气象,2004,23(6): 930-935.[Li Yaohui,Li Dongliang. Effects of ENSO cycle on the summer climate anomaly over northwest China[J].Plateau Meteorology,2004,23(6): 930-935.]   
+[4]何金海,刘芸芸,常越.西北地区夏季降水异常及其水汽输送和 环流特征分析[J].干旱气象,2005,23(1):10-16.[He Jinhai,Liu Yunyun,Chang Yue.Analysis of summer precipitation anomaly and the feature of water vapor transport and circulation in northwest China[J]. Journal of Arid Meteorology,2005,23(1):10-16.]   
+[5]杨金虎,江志红,白虎志.西北区东部夏季极端降水事件同太平 洋 SSTA 的遥相关[J].高原气象,2008,27(2):331-338.[Yang Jinhu, Jiang Zhihong,Bai Huzhi. Teleconnection between summer extreme precipitation event of east part of northwest China and Pacific SSTA[J]. Plateau Meteorology,2008,27(2): 331-338.]   
+[6]赵光平,姜兵,王勇,等.西北地区东部夏季水汽输送特征及其 与降水的关系[J].干旱区地理,2017,40(2):239-247.[Zhao Guangping,Jiang Bing,Wang Yong,et al. Characteristics of summer water vapor transport in the eastern northwest China and their relationshipswithprecipitation[J].AridLandGeograph,7,4 (2): 239-247.]   
+[7]杨金虎,靳荣,刘晓云,等.西北地区东部汛期降水季节内分布 特征分析[J].干旱区地理,2017,40(5): 942-950.[Yang Jinhu, Jin Rong,Liu Xiaoyun,et al. Inter-seasonal distribution patern of rainy season precipitation in the east region of northwest China[J]. Arid Land Geography,2017,40(5): 942-950.]   
+[8]王凯,孙美平,巩宁刚.西北地区大气水汽含量时空分布及其输 送研究[J].干旱区地理,2018,41(2):290-297.[Wang Kai, Sun Meiping,Gong Ninggang.Spatial and temporal distribution and transportation of the water vapor in the northwestern China[J].AridLand Geography,2018,41(2): 290-297.]   
+[9]杨金虎,张强,刘晓云,等.中国典型夏季风影响过渡区夏季降 水异常时空特征及成因分析[J].地球物理学报,2019,62(11): 4120-4128.[Yang Jinhu, Zhang Qiang, Liu Xiaoyun,et al. Spatialtemporal characteristics andcauses of summer precipitation anomalies in the transitional zone of typical summer monsoon[J]. China Chinese Jourmal of Geophysics,2019,62(11): 4120-4128.]   
+[10] 李耀辉,李栋梁,赵庆云.中国西北地区春季降水异常的特征分 析[J].干旱气象,1998,16(1):21-23.[Li Yaohui,Li Dongliang, Zhao Qingyun.Analysisonthecharacteristicsof spring precipitation anomalies in northwest China[J]. Journal of Arid Meteorology,   
+1998,16(1): 21-23.] [11] 刘洪兰,张强,胡文超,等.1961—2011年西北地区春季降水变 化特征及其空间分异性[J].冰川冻土,2013,35(4):857-864. [Liu Honglan, Zhang Qiang, Hu Wenchao,et al. The changing characteristics of spring precipitation in northwest China and their spatial differentiation during 1961—2011[J]. JournalofGlaciology and Geocryology, 2013,35(4): 857-864.] [12] 郭江勇,李耀辉,吴红.西北地区春季多雨与少雨年的高空环流 特征[J].中国沙漠,2006,26(1):60-64.[GuoJiangyong,Li Yao hui, Wu Hong.Highcircumfluencecharacters inspring-rainyear and drought year in northwest of China[J]. Journal of Desert Research, 2006,26(1): 60-64.] [13] 任宏利,张培群,李维京,等.中国西北东部地区春季降水及其 水汽输送特征[J].气象学报,2004,62(3):365-374.[Ren Hongli, Zhang Peiqun,Li Weijing,etal.Characteristicsof precipitation and water vapor transport during springtime in eastern northwest China[J].Acta Meteorologica Sinica, 2004, 62(3): 365-374.] [14] 任宏利,张培群,李维京,等.西北区东部春季降水及其水汽输 送的低频振荡特征[J].高原气象,2006,25(2):119-126.[Ren Hongli,Zhang Peiqun,Li Weijing,et al.Low frequency oscillation characteristics of precipitation and water vapor transport in the eastern part of northwest China in spring[J].Plateau Meteorology,   
+2006,25(2): 119-126.] [15]王秀荣,徐祥德,王维国.西北地区春、夏季降水的水汽输送 特征[J].高原气象,2007,26(4):749-758.[Wang Xiurong,Xu Xiangde,Wang Weiguo. Characteristic of spatial transportation of water vapor for northwest China's rainfallin spring and summer [J]. Plateau Meteorology,2007,26(4): 749-758.] [16] 李宏毅,林朝晖,宋燕,等.我国华南3月份降水异常的可能影 响因子分析[J].大气科学,2013,37(3):183-194.[Li Hongyi,Lin Zhaohui, Song Yan,et al.Analysis of the possible factors that influence March precipitation anomalies over south China[J]. Chinese Journal of Atmospheric Sciences,2013,37(3):183-194.] [17] 宋燕,李智才,李艳娜.华北地区4月降水异常的环流特征及其 与海温异常的联系[J].气象科技进展,2012,2(4):34-40.[Song Yan,Li Zhicai,Li Yanna,etal.Atmospheric circulation characteristics of anomalous precipitation in northern China in April and its relationship to sea surface temperature anomalies[J].Advances in Meteorological Science and Technology,2012,2(4): 34-40.] [18] 陈海波,杨建玲,严华生,等.宁夏5月降水变化及其对前期全 球 SST异常的响应分析[J].高原气象,2012,31(3):752-759. [ChenHaibo,Yang Jianling,Yan Huasheng,et al.Analysis on variation of precipitation in May in Ningxia and its response to prior SST[J].Plateau Meteorology,2012,31(3): 752-759.] [19] 郭江勇,叶燕华,林纾,等.甘肃河东春季透雨日期与海温的相 关分析[J].干旱地区农业研究,2004,22(1):18-22.[Guo Jiangyong,Ye Yanhua,Lin Shu,etal.The effectofseasurface temperature on date of soaking rain in east Gansu[J]. Agricultural Re
+
+searcn in [ne Aria Areas, ∠UU4,∠∠(1): 1o-∠∠.」   
+[20] 林纾,倪荣环,郭江勇.甘肃河东春季第一场区域性透雨日期的 气候特征[J].成都信息工程学院学报,2005,20(3):115-121. [Lin Shu,Ni Ronghuan,Guo Jiangyong.Climate feature of first soaking spring rain to the east of Yellow River over Gansu Province[J]. Journal of ChengduUniversityof Information Technology, 2005,20(3): 115-121.]   
+[21] 朱飙,张强,李春华,等.基于相对湿润度指数的西北地区春季 第一场透雨研究[J].干旱区地理,2021,44(1):55-62.[Zhu Biao,Zhang Qiang,Li Chunhua,et al. The first spring saturating rain in northwest China based on the relative humidity index[J]. Arid Land Geography,2021,44(1): 55-62.]   
+[22] 李庆祥,董文杰,李伟,等.近百年中国气温变化中的不确定性 估计[J].科学通报,2010,55(16):1544-1554.[Li Qingxiang,Dong Wenjie,Li Wei,et al. The uncertainty estimation of China's temperature changes in the past 1OO years[J]. Chinese Science Buletin,2010,55(16): 1544-1554.]   
+[23] 杨溯,李庆祥.中国降水量序列均一性分析方法及数据集更新 完善[J].气候变化研究进展,2014,10(4):276-281.[Yang Shuo, Li Qingxiang.Improvement in homogeneity analysis method and update of China precipitation data[J]. Climate Change Research, 2014,10(4): 276-281.]   
+[24]Takaya K,Nakamura H.A formulation of a wave-activity flux for stationary Rossby waves on a zonally varying basic flow[J].Geophysical Research Letters,1997,24(23): 2985-2988.   
+[25] Takaya K,Nakamura H.A formulation of a phase-independent waveactivity flux for stationary and migratory quasigeostrophic eddies on a zonally varying basic flow[J]. Journal of the Atmospheric Sciences,2001,58:608-627.   
+[26]Kushnir Y.Interdecadal variations in North Atlantic sea surface temperature and associated atmospheric conditions[J]. Journal of Climate,1994,7: 141-157.   
+[27] Trenberth K E,Branstator G W,Karoly D,et al.Progress during TOGA in understanding and modeling global teleconnections associated with tropical sea surface temperatures[J]. Journal of Geophysical Research Atmospheres,1998,1031(C7): 14291-14324. [28]Peng S,WhitakerJS.Mechanisms determining the atmospheric response to midlatitude SST anomalies[J]. Journal of Climate,1999,   
+12: 1393-1408. [29]Peng S,Robinson W A,Li S. Mechanisms for the NAO responses to the North Atlantic SST tripole[J]. Journal of Climate,2003,16:   
+1987-2004. [30]Gill A E. Some simple solutions for heat-induced tropical circulation[J].Quarterly Journal of the Royal Meteorological Society,   
+1980, 106(449): 447-462. [31] Zuo JQ,Li WJ, Sun C H,et al. Impact of the North Atlantic sea surface temperature tripole on the East Asian summer monsoon[J]. Advances in Atmospheric Sciences,2013,30(4): 1173-1186. [32] 陈兴芳,宋文玲.冬季高原积雪和欧亚积雪对我国夏季旱涝不 同影响关系的环流特征分析[J].大气科学,2000,24(5):585-   
+592.[Chen Xingfang,Song Wenling. Circulation analysis of different influence of snow cover over the Tibetan Plateau and Eurasia in winter on summertime droughts and floods of China[J]. Chinese Journal of Atmospheric Sciences,2000,24(5): 585-592.] [33] 朱玉祥,丁一汇,刘海文.青藏高原冬季积雪影响中国夏季降水 的模拟研究[J].大气科学,2009,33(5): 903-915.[Zhu Yuxiang, Ding Yihui,Liu Haiwen. Simulation of the influence of winter snow depth over the Tibetan Plateau on summer rainfall in China[J]. Chinese Journal of Atmospheric Sciences,2009,33(5): 903-915.] [34] 张强,李宏宇,张立阳,等.陇中黄土高原自然植被下垫面陆面 过程及其参数对降水波动的气候响应[J].物理学报,2013,62 (1): 522-532.[Zhang Qiang,Li Hongyu, Zhang Liyang, et al.Responses of the land-surface process and its parameters over the natural vegetation underlying surface of the middle of Gansu in Loess Plateau to precipitation fluctuation[J]. Acta Physica Sinica, 2013,   
+62(1): 522-532.] [35] 王蕊,王慧,李栋梁.中国西北地区东部盛夏降水特征及对初春 地表感热异常的响应[J].高原气象,2019,38(6):1241-1250. [Wang Rui, Wang Hui,Li Dongliang.Response of summer precipitation in eastern part of northwest China to the surface sensible heat in early spring[J]. Plateau Meteorology,2019,38(6):1241-   
+1250.]
+
+# Anomalous circulation characteristics of precipitation anomalies in northwest China in April and precursory SST signal
+
+LU Guoyang，LIN Shu, WANG Rui， LIU Liwei， HUANG Pengcheng，LIN Jingjing (Lanzhou Regional Climate Center,Lanzhou 73oO2O,Gansu, China)
+
+Abstract: Using April precipitation data from stations in northwest China from 1981 to 2019,NCEP/DOE reanalysis data,and NOAA sea temperature field data,the anomalous characteristics of April precipitation in northwest China and the characteristics of the synchronous circulation field are studied to identify possible precursor SST signals and discuss influence mechanisms.The results indicate the following.(l）April precipitation in northwest China is,for the most part,uniformly distributed over the entire region, with obvious interannual and decadal changes. (2) When there exists a“negative,positive,negative,and positive”anomalous wave train distribution from the Northeast Atlantic to East Asia,the low trough over Balkhash Lake is relatively strong,the large trough over East Asia is weak,and a significant southerlyairflow prevails in the northwest China with significant upward movement. In addition,sufficient water vapor transport from the eastern ocean of China and the Bay of Bengal form a strong water vapor convergence area in the northwest China,whichis favorable to precipitation in northwest China.For the converse distribution,the situation is opposite. (3)In earlyFebruary,the North Atlantic tripole index shows a significant positive correlation with the April precipitation in the northwest China;this can be used as a precursor to the April precipitation forecast.Further analysis shows that the nonadiabatic heating due to SST anomalies in the North Atlantic can stimulate the downstream dispersion of Rossby wave energy; as a result, Western Europe,the Urals, Balkhash Lake,and Northeast Asia present a“negative, positive,negative,and positive” teleconnection pattern.This type of abnormal Rossby wave energy dispersion is consistent with that of the abnormal precipitation in April, which affects the abnormal April precipitation in the northwest region of China.
+
+Key Words: precipitation；abnormal atmospheric circulation；North Atlantic tripol;teleconnection patern； northwest China

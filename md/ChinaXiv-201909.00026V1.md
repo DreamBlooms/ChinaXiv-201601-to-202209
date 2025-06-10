@@ -1,0 +1,152 @@
+# 导风板倾角对板后风沙流输沙的影响
+
+张超，韩彦隆，高永'，党晓宏²，李婉娇}，王则宇¹，翟波¹，王瑞东'（1．内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010011;2．内蒙古杭锦荒漠生态系统国家定位观测研究站,内蒙古 鄂尔多斯017400)
+
+摘要：通过野外试验探究了流动沙丘中上部导风板板后作用区风速特性和输沙量特征,结果表明：不同角度导风板对板后风速增加的区域有所不同，作用区内最大风速一般出现于板后 $1 . 5 \mathrm { ~ m ~ } , 4 5 ^ { \circ }$ 导风板对于板后 $1 . 5 \mathrm { ~ m ~ }$ 处风速加速效果明显，板后 $3 . 0 \mathrm { ~ m ~ }$ 处则是 $2 5 ^ { \circ }$ 导风板加速效果较为明显，而在板后 $4 . 5 \mathrm { ~ m ~ }$ 处影响效果明显的导风板角度为$3 5 ^ { \circ }$ 。导风板可以有效的提高板后输沙总量,其中 $3 0 ^ { \circ } \sim 4 5 ^ { \circ }$ 区间的中等角度导风板对于输沙量的提升具有明显效果 $. 4 5 ^ { \circ }$ 导风板对于板后 $1 . 5 \mathrm { ~ m ~ }$ 处输沙量提升效果较高，而 $4 0 ^ { \circ }$ 导风板对于板后 $3 . 0 \mathrm { ~ m ~ }$ 处输沙量提升效果较高,在板后 $4 . 5 \mathrm { ~ m ~ }$ 处则是 $3 0 ^ { \circ }$ 导风板提升效果较高。
+
+关键词：导风板；风沙流结构；流动沙丘；输沙量；乌兰布和沙漠
+
+导风板工程是一种典型的输沙工程措施(1)通常被应用到铁路、公路的沙害、风吹雪防治工作中，刘贤万等通过风洞试验和野外实测综合分析了下导风工程的作用机理[2-3]。程建军等对铁路沿线的下导风板进行了数值模拟，探究了下导风板周围的流场特征和积沙效果[4],辛国伟等也通过数值模拟探究了在不同来流廓线的影响下挡沙墙周围风沙流场和风沙堆积的特征[5，王存牛通过理论模拟，探讨了屋檐式导风板角度的设置与出风口风吹雪速度的关系[6。导风板对防治风吹雪、沙害有一定的效果，为路线的安全运行提供了一定的保障[7-9]
+
+导风板结构简单易于维护，体积较小运输方便，并且安装施工简便，可以便捷的安装在沙丘的各个部位，从而快捷的应用到防治低矮且流动性大的沙丘，但对于导风板防治流动沙丘等问题的系统观测和野外试验的研究还鲜有报道。因此，本文将导风板应用到流动沙丘进行探索型试验，探究在流动沙丘上设立不同角度的导风板会对流经导风板下口的过境风沙流在板后产生什么程度的影响，综合分析导风板后作用区风速特性和输沙量特征，最终为利用导风板拉平沙丘提供系统性的实践参考。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+研究区位于乌兰布和沙漠东南缘，气候属温带大陆性季风气候，干旱少雨，年平均降水量142.7mm，潜在蒸发量 $2 2 5 8 . 8 \ \mathrm { m m }$ 。风沙活动频繁，以西南与西风为盛行风向，沙丘形态主要以格状和新月形沙丘为主[10-12] 。
+
+天然植被主要以荒漠植物和半荒漠草原植物为主,代表植物有白沙蒿(ArtemisiasphaerocephalaKra-sch.）、沙冬青（Ammopiptanthus mongolicus（Maxim.ex Kom.）Cheng f.）、霸王（Sarcozygium xanthoxylonBunge.）、白刺（Nitraria tangutorum Bobr.）、沙拐枣（Calligonum mongolicum Turcz.）、梭梭（Haloxylonammodendron（C.A.Mey.）Bunge.）、沙蓬（Agriophyllum arenarium Bieb.）沙米（Agriophyllum squar-rosum（Linn.）Moq.）沙鞭（Psammochloa mongolicaHitchc.）、猪毛菜(Salsola collina Pall.)等[13-14) ○
+
+# 1.2 研究方法
+
+1.2.1试验区选取与试验设置在试验区内选取位置相邻且形态、走势相近，垂直于主风向的沙丘2个，一个作为对照沙丘（CK），一个作为试验沙丘。试验沙丘高 $1 0 \mathrm { ~ m ~ }$ ,迎风坡坡长 $2 8 \mathrm { ~ m ~ }$ ,坡度为 $2 0 ^ { \circ }$ ；对照沙丘高 $8 \mathrm { ~ m ~ }$ ,迎风坡坡长 $2 4 \mathrm { ~ m ~ }$ ,坡度为 $2 0 ^ { \circ }$ 。风速和输沙量是分开测定的，其中风速的测定是在试验沙丘架设3个角度导风板，对照不架设导风板；输沙量的测定只在试验沙丘进行测定，每组只测定1个角度的导风板，同时在互不干扰的平行位置布设对照积沙仪。
+
+![](images/4d069df9912fbca20e07c78c3fa4b9611bb50d4be672c668ae62da558de5a64a.jpg)  
+图1研究区示意图
+
+如图2所示，试验用封闭式导风板，板面规格为$1 \mathrm { ~ m ~ }$ （宽） $\times 2 \mathrm { ~ m ~ }$ （长），出风口离地高度 $2 0 \ \mathrm { c m }$ 。导风板由2块木板经过合页固定后拼接组合，支架是由无缝钢管与角钢组合而成，全部部件用螺栓组连接，导风板角度可以人工调节，调节角度为 $1 0 ^ { \circ } \sim 8 0 ^ { \circ }$ ○1.2.2风速测定沿导风板板面中轴方向依次在板后 $1 . 5 \mathrm { ~ m ~ } , 3 . 0 \mathrm { ~ m ~ } , 4 . 5 \mathrm { ~ m ~ }$ (坡顶)处设置风速仪进行风速测定，对照区按照试验组风杯架设方式布置。本文导风板角度设计4组共12个角度,1组：对照(CK） $. 1 5 ^ { \circ } , 3 0 ^ { \circ } , 4 5 ^ { \circ } ; 2$ 组： $\mathrm { C K } \ 、 2 0 ^ { \circ } \ 、 2 5 ^ { \circ } \ 、 3 5 ^ { \circ } ; 3$ 组：CK $. 4 0 ^ { \circ } , 6 0 ^ { \circ } , 7 0 ^ { \circ } ; 4$ 组： $\mathrm { C K } \ : 5 0 ^ { \circ } \ : , 5 5 ^ { \circ } \ : , 6 5 ^ { \circ }$ 。所探究的导风板对板后的作用效果主要是近地表，因此风杯架设高度为距地面 $1 0 \ \mathrm { c m }$ 。风速稳定后开始记录，每 $2 \mathrm { ~ s ~ }$ 记录1次数据。
+
+![](images/0d510504f00e19c559e6c20c2d003afa7f49624639d6494cd5499f9b128d67f8.jpg)  
+Fig.1Geographical location of the study area   
+图2试验布局及导风板示意图  
+Fig.2Schematic drawing of the test layout and wind guide plate
+
+1.2.3输沙量测定输沙量的测定采用25孔阶梯式集沙仪，集沙仪孔径为 $2 \ \mathrm { c m } \times 2 \ \mathrm { c m }$ ,集沙仪高度为 $5 0 ~ \mathrm { c m }$ ,集沙仪位置与风速测定方法中风杯位置一致。所收集沙物质装密封袋内带回实验室进行分层称重（精确度 $0 . 0 0 1 \ \mathrm { g } ^ { \cdot }$ 。
+
+# 2 结果与分析
+
+# 2.1不同角度导风板的风速及输沙效果
+
+2.1.1不同倾角导风板对板后风速的影响由图  
+3知， $2 5 ^ { \circ } \sim 4 5 ^ { \circ }$ 导风板对板后 $1 . 5 \mathrm { ~ m ~ }$ 处风速提升明
+
+显，倾角 $4 5 ^ { \circ }$ 作用效果最大，为对照的1.7倍; $2 5 ^ { \circ }$ 、$3 5 ^ { \circ } , 4 0 ^ { \circ } , 4 5 ^ { \circ }$ 导风板在板后 $3 . 0 \mathrm { ~ m ~ }$ 处提升风速效果明显，倾角 $2 5 ^ { \circ }$ 作用效果最大，为对照的1.57倍；随着坡面升高，受导风板阻挡而抬升的气流与经板下出口压缩的气流汇合后，可使气流受到二次加速的效果， $2 0 ^ { \circ } , 2 5 ^ { \circ } , 3 5 ^ { \circ } , 4 0 ^ { \circ } , 4 5 ^ { \circ }$ 在 $4 . 5 \mathrm { ~ m ~ }$ 处风速提升明显，倾角 $3 5 ^ { \circ }$ 作用效果最大，为对照的1.37倍。
+
+2.1.2不同倾角导风板对板后输沙的影响导风板后输沙量总体变化随着高度的增加而逐渐呈减少的趋势[15],但由于角度的变化输沙量出现不同程度的响应。其中，各个角度在 $1 . 5 \mathrm { ~ m ~ }$ 处输沙量均有所提高(图4），这与各个角度风速作用效果是一致的，$4 5 ^ { \circ }$ 导风板对于输沙量提升作用明显， $( 5 4 . 6 \%$ ），虽然 $7 0 ^ { \circ }$ 导风板在板后 $1 . 5 \mathrm { ~ m ~ }$ 处风速是下降的，但对输沙量提升效果仍存在，只是作用效果不理想，仅$1 . 0 7 \%$ 0
+
+从图5可以看出，各倾角导风板在板后 $3 . 0 \mathrm { ~ m ~ }$ 处输沙量总体的变化趋势与 $1 . 5 \mathrm { ~ m ~ }$ 处一致。 $4 0 ^ { \circ }$ 导风板在板后 $3 . 0 \mathrm { ~ m ~ }$ 处输沙量增幅最大，为对照的$1 3 . 9 3 \%$ ，其次为 $4 5 ^ { \circ } , 5 5 ^ { \circ }$ 导风板，分别为对照的
+
+![](images/6546ec31379c0a110f2bc7c7ffa79621ac735f6cd55e1f75615455feeb4f4d60.jpg)  
+图3不同角度导风板对板后风速的影响  
+Fig.3Effect of dip angles of wind guide plate on wind velocities behind the plate   
+图4不同角度导风板对板后 $1 . 5 \mathrm { ~ m ~ }$ 处输沙量的影响  
+Fig.4Effect of dip angles of wind guide plate on sediment discharge at $1 . 5 \mathrm { ~ m ~ }$ height behind the plate
+
+(a)15° FWV=9.58m·s-1 00000000008 (c) 25° FWV=8.53m·s-1   
+40 -1对照 -对照 11对照   
+/ 30 -试验 -0-试验 -试验   
+高 20   
+10 0 Y 8 O 0 Q -0 0 0 (d)30° ： (e)35° FWV=8.27m·s-1 0000o.。0oo0ooooooDo? (f)40° FWV=9.55m·s-1 -1对照 -1对照   
+/ 30 --试验 -试验   
+高 20   
+10 0 。   
+60 (g)45° (h) 50° FWV=8.28m·s-1 (i) 55° FWV=8.14m·s-1 1对照 -1对照 ↓对照   
+u/ -0试验 -试验 -试验   
+10 0 8   
+50 0 8 。   
+000880 (j) 60° FWV=9.01m·s Qoo60o0o00000080 (k) 65° FWV=9.01m·s- FWV=8.2 m·s-1   
+40 11对照 -1对照 →对照   
+/ 30 -0一试验 -0-试验 -0-试验   
+高 20   
+10 000 0. Q   
+0 8 ！ 8   
+0 0.5 1.0 1.5 2.0 2.5 3.00 0.5 1.0 1.5 2.0 2.5 3.00 0.5 1.0 1.5 2.0 2.5 3.0 输沙量 $( \mathbf { g } \cdot \mathbf { c m } ^ { - 2 } \cdot \mathbf { m } \mathbf { i n } ^ { - 1 } )$ 输沙量 $/ ( \mathbf { g } \cdot \mathbf { c m } ^ { - 2 } \cdot \mathbf { m } \mathbf { i n } ^ { - 1 } )$ 输沙量 $\bf { \langle } \bf { g } \cdot \mathrm { c m ^ { - 2 } \cdot m i n ^ { - 1 } \rangle }$
+
+注： $F W V$ 表示旷野风速。下同。
+
+![](images/afddbcdd627d49e1b3eb8a42682f9041d50ca3bebddc387c78dafeebbc781775.jpg)  
+图5不同角度导风板对板后 $3 . 0 \mathrm { ~ m ~ }$ 处输沙量的影响  
+Fig.5Efect of dip angles of wind guide plate on sediment discharge at $3 . 0 \mathrm { ~ m ~ }$ height behind the plate
+
+$1 1 . 7 2 \%$ 和 $8 . 6 8 \%$ ,小角度 $1 5 ^ { \circ } \sim 3 5 ^ { \circ }$ 导风板作用效果不理想。而在板后 $4 . 5 \mathrm { ~ m ~ }$ 位置处（图6），提升效果最明显的导风板角度为 $3 0 ^ { \circ } \left( 2 6 . 9 2 \% \right.$ )，其他角度导风板对于此处输沙量提升幅度均在 $10 \%$ \~$20 \%$ 。
+
+# 2.2不同角度导风板的风沙流结构特征
+
+风沙运动是沙粒在近地表产生搬运的现象，目前针对风沙流结构的研究主要集中在 $0 \sim 1 0 \ \mathrm { c m } ^ { [ 1 6 ] }$ ，而且架设导风板也主要是对近地表产生一定的作用。因此，为了进一步说明不同倾角导风板对板后近地表风沙流输沙的影响，笔者只对 $0 \sim 1 0 ~ \mathrm { c m }$ 高度风沙流结构特征进行分析 $( \lambda = Q _ { 2 \sim 1 0 } / Q _ { 0 \sim 1 } )$ 。由于试验集沙仪规格的限制，无法直接获取 $0 \sim 1 ~ \mathrm { c m }$ 高度内输沙量,因此采用函数拟合的方式[17],通过选取决定系数最佳函数进行 $0 \sim 1 ~ \mathrm { c m }$ 高度内输沙量的计算。
+
+将近地表输沙量和高度进行曲线拟合（表 $1 \sim$ 2)分析得出，对数函数与幂函数决定系数均可达到0.9以上，决定系数较佳。根据决定系数与 $0 \sim$ $2 \ \mathrm { c m }$ 高度输沙量进行综合分析， $1 . 5 \mathrm { ~ m ~ }$ 位置处,$1 5 ^ { \circ } , 3 5 ^ { \circ } , 4 0 ^ { \circ } , 4 5 ^ { \circ } , 6 0 ^ { \circ }$ 和 $6 5 ^ { \circ }$ 导风板采用对数函数进行计算，其他角度采用幂函数进行计算； $3 . 0 \mathrm { ~ m ~ }$ 位置处 $1 5 ^ { \circ } , 2 5 ^ { \circ } , 3 0 ^ { \circ } , 4 0 ^ { \circ } , 4 5 ^ { \circ } , 5 5 ^ { \circ }$ 和 $6 0 ^ { \circ }$ 导风板采用对数函数进行计算，其他角度采用幂函数进行计算；
+
+![](images/3f9e9ebebb56869406ab1a6be43b53be8c9aea7ad5612e563257327c46d18ade.jpg)  
+图6不同角度导风板对板后 $4 . 5 \mathrm { ~ m ~ }$ 处输沙量的影响  
+Fig.6Effect of dip angles of wind guide plate on sediment discharge at $4 . 5 \mathrm { ~ m ~ }$ height behind the plate
+
+$4 . 5 \mathrm { ~ m ~ }$ 位置处 $2 5 ^ { \circ } , 3 5 ^ { \circ } , 5 5 ^ { \circ } , 6 0 ^ { \circ }$ 和 $7 0 ^ { \circ }$ 导风板采用对数函数进行计算，其他角度采用幂函数进行计算。
+
+不论输沙量如何变化，架设导风板后使得板后观测处位置风速出现一定程度提升，风速的增加导致沙粒搬运高度的增加，上层相对输沙量增加，下层近地表相对输沙量减少，使风沙流保持非饱和状态。由表3可知，板后 $1 . 5 \mathrm { ~ m ~ }$ 处为风蚀状态，具体表现为12种角度导风板板后 $1 . 5 \mathrm { ~ m ~ }$ 处的风沙流结构特征值 $\lambda$ 均大于1。在 $3 . 0 \mathrm { ~ m ~ }$ 处，除 $3 0 ^ { \circ } , 5 5 ^ { \circ }$ 导风板外，其他10种角度导风板板后 $3 . 0 \mathrm { ~ m ~ }$ 处的风沙流结构特征值 $\lambda$ 均大于1,板后 $3 . 0 \mathrm { ~ m ~ }$ 处仍然保持风蚀状态。除 $5 5 ^ { \circ }$ 导风板外的其他11种角度导风板板后$4 . 5 \mathrm { ~ m ~ }$ 处由于坡顶风速的增大，导致上层气流携沙能力大幅增强，并且特征值 $\lambda$ 均大于1,而 $5 5 ^ { \circ }$ 导风板在板后 $3 . 0 \mathrm { ~ m ~ } . 4 . 5 \mathrm { ~ m ~ }$ 处特征值 $\lambda$ 均小于1,主要是受导风板的影响，虽然输沙量大于对照，但是导风板对于上层输沙量产生一定的阻挡作用，导致风沙流呈现饱和状态而出现堆积的现象。
+
+# 3讨论
+
+设置导风板后，会对沙丘中上部形成一定范围强烈的拉平作用区，拉平作用区内的风速会有一定程度的增加。封闭式导风板距离地面有一定的高度，且与地面成一定夹角，过境的风沙流受到导风板的阻挡，气流受压后，空间内导风板下能量密度增加，在导风板出口后得到释放，在板后 $1 . 5 \mathrm { ~ m ~ }$ 处出现风速增大现象,这与程建军等[4],王中隆等[7]研究认为下导风工程在下口后方出现一定宽度范围的风速增大一致。刘贤万等[2-3]研究发现,下导风工程在板后贴近地层会出现一个风速减弱的区域，同样本文研究结果中 $3 . 0 \mathrm { ~ m ~ }$ 位置处风速也出现一定程度的减弱。同时，笔者认为 $3 . 0 \mathrm { ~ m ~ }$ 位置处的风速减弱可能是风在通过板后 $1 . 5 \mathrm { ~ m ~ }$ 后受狭管效应的影响，流场空间变化，气流出现一定的扩散,导致风速减弱，但导风板的作用仍在持续。受沙丘迎风坡抬升作用的影响，导风板阻挡分流的一部分风力在经过板上加速后，经过一定距离与经导风板加速后的风重新聚合，在板后 $4 . 5 \mathrm { ~ m ~ }$ 处又可形成一定范围的强风区。
+
+[ab.1The relationship between sediment discharge and height behind the wind guide plates （Logarithmic functio   
+表2导风板板后不同位置输沙量与高度的关系(幂函数)  
+
+<html><body><table><tr><td rowspan="2">位置角度</td><td colspan="2">板后1.5m</td><td colspan="2">板后3.0m</td><td colspan="2">板后4.5m</td></tr><tr><td>关系式</td><td>决定系数</td><td>关系式</td><td>决定系数</td><td>关系式</td><td>决定系数</td></tr><tr><td>15°</td><td>y=1.594ln(x） +1.223</td><td>0.982</td><td>y=1.458ln(x) +0.862</td><td>0.981</td><td>y=2.578ln(x)-0.382</td><td>0.987</td></tr><tr><td>20°</td><td>y=2.127ln(x）+0.064</td><td>0.991</td><td>y=1.870ln(x）+0.087</td><td>0.995</td><td>y =3.635ln(x）-0.495</td><td>0.992</td></tr><tr><td>25°</td><td>y=2.237ln(x)-0.350</td><td>0.995</td><td>y=0.774ln(x）+0.450</td><td>0.992</td><td>y=0.824ln(x）+0.904</td><td>0.998</td></tr><tr><td>30°</td><td>y=0.86ln(x）+0.318</td><td>0.994</td><td>y =0.395ln(x）+0.832</td><td>0.965</td><td>y =1.216ln(x）+0.389</td><td>0.961</td></tr><tr><td>35°</td><td>y=1.011ln(x）+0.975</td><td>0.977</td><td>y =1.027ln(x）+0.513</td><td>0.975</td><td>y =1.259ln(x）+1.212</td><td>0.939</td></tr><tr><td>40°</td><td>y =1.225ln(x）+1.039</td><td>0.996</td><td>y =1.855ln(x）+1.073</td><td>0.968</td><td>y =3.169ln(x）+0.289</td><td>0.980</td></tr><tr><td>45°</td><td>y =1.754ln(x）+1.691</td><td>0.985</td><td>y =0.858ln(x）+1.179</td><td>0.997</td><td>y=3.865ln(x) -0.032</td><td>0.992</td></tr><tr><td>50°</td><td>y=1.060ln(x）+0.043</td><td>0.996</td><td>y=0.868ln(x)+0.326</td><td>0.968</td><td>y=1.268ln(x）+0.080</td><td>0.988</td></tr><tr><td>55°</td><td>y=0.941ln(x）+0.491</td><td>0.995</td><td>y=0.446ln(x）+0.988</td><td>0.997</td><td>y=0.321ln(x）+0.548</td><td>0.993</td></tr><tr><td>60°</td><td>y =1.176ln(x） +0.847</td><td>0.991</td><td>y =0.688ln(x）+0.309</td><td>0.994</td><td>y =0.835ln(x）+0.082</td><td>0.978</td></tr><tr><td>65°</td><td>y=0.845ln(x）+1.120</td><td>0.988</td><td>y=0.521ln(x）+0.138</td><td>0.996</td><td>y=0.838ln(x）+0.079</td><td>0.986</td></tr><tr><td>70°</td><td>y =1.072ln(x）-0.380</td><td>0.993</td><td>y =0.209ln(x）-0.169</td><td>0.947</td><td>y=0.351ln(x） +0.286</td><td>0.990</td></tr></table></body></html>
+
+Tab.2The relationship between sediment discharge and height behind the wind guide plates（power function）   
+表3导风板板后不同位置 $\mathbf { 0 } \sim \mathbf { 1 0 } ~ \mathrm { c m }$ 高度风沙流结构特征指标值  
+
+<html><body><table><tr><td rowspan="2">位置</td><td colspan="2">板后1.5m</td><td colspan="2">板后3.0m</td><td colspan="2">板后4.5m</td></tr><tr><td>关系式</td><td>决定系数</td><td>关系式</td><td>决定系数</td><td>关系式</td><td>决定系数</td></tr><tr><td>15°</td><td>y = 2. 051x0.346</td><td>0.909</td><td>y = 1. 643x0.372</td><td>0.891</td><td>y = 1. 739x0. 460</td><td>0. 974</td></tr><tr><td>20°</td><td>y = 1. 094x0. 655</td><td>0.963</td><td>y = 0. 949x0.677</td><td>0.970</td><td>y = 1. 415x0.757</td><td>0.985</td></tr><tr><td>25°</td><td>y = 0. 829.x0.775</td><td>0.982</td><td>y = 0. 747x0.469</td><td>0.948</td><td>y = 1. 249x0.338</td><td>0.978</td></tr><tr><td>30°</td><td>y =0. 700x0.508</td><td>0.972</td><td>y = 0. 924x0.273</td><td>0.936</td><td>y =0. 859x0.570</td><td>0.920</td></tr><tr><td>35°</td><td>y = 1.332.x0.380</td><td>0.917</td><td>y = 0. 847x0.552</td><td>0. 941</td><td>y = 1. 539x0.434</td><td>0.896</td></tr><tr><td>40°</td><td>y = 1. 379x0.471</td><td>0.980</td><td>y = 1. 64x0.534</td><td>0.929</td><td>y = 1. 657x0. 681</td><td>0.960</td></tr><tr><td>45°</td><td>y = 2. 400x0.358</td><td>0.928</td><td>y = 1. 618x0. 272</td><td>0. 964</td><td>y = 1. 831x0. 684</td><td>0.952</td></tr><tr><td>50°</td><td>y = 0. 838.x0.431</td><td>0.967</td><td>y = 0. 646x0.557</td><td>0.915</td><td>y =0. 710x0.615</td><td>0.960</td></tr><tr><td>55°</td><td>y = 1. 135x0.345</td><td>0.988</td><td>y = 1. 184x0.220</td><td>0.972</td><td>y = 0. 629x0.314</td><td>0. 974</td></tr><tr><td>60°</td><td>y = 1. 503x0.344</td><td>0.932</td><td>y =0.725x0.381</td><td>0.927</td><td>y = 0. 664x0.449</td><td>0.996</td></tr><tr><td>65°</td><td>y = 1. 526x0. 282</td><td>0.938</td><td>y =0.506x0.389</td><td>0.969</td><td>y =0. 726x0.407</td><td>0.982</td></tr><tr><td>70°</td><td>y =0.395x0.671</td><td>0.968</td><td>y =0.064x0.619</td><td>0.997</td><td>y =0.479x0.331</td><td>0.926</td></tr></table></body></html>
+
+表1导风板板后不同位置输沙量与高度的关系(对数函数)  
+Tab.3 Characteristic values of wind-sand structure in $\mathbf { 0 - 1 0 \ c m }$ layerbehind the wind guideplate   
+
+<html><body><table><tr><td rowspan="2">位置角度</td><td colspan="3">板后1.5m</td><td colspan="3">板后3.0m</td><td colspan="3">板后4.5m</td></tr><tr><td>Q0~1</td><td>Q2~10</td><td>特征值λ</td><td>Q~1</td><td>Q2~10</td><td>特征值入</td><td>Q0~1</td><td>Q2~10</td><td>特征值入</td></tr><tr><td>15°</td><td>1.22</td><td>3.06</td><td>2.51</td><td>0.86</td><td>2.88</td><td>3.35</td><td>1.74</td><td>3.51</td><td>2.02</td></tr><tr><td>20°</td><td>1.09</td><td>3.51</td><td>3.22</td><td>0.95</td><td>2.96</td><td>3.12</td><td>1.42</td><td>5.75</td><td>4.05</td></tr><tr><td>25°</td><td>0.83</td><td>3.53</td><td>4.25</td><td>0.45</td><td>1.33</td><td>2.96</td><td>0.90</td><td>1.37</td><td>1.52</td></tr><tr><td>30°</td><td>0.70</td><td>1.41</td><td>2.01</td><td>0.83</td><td>0.74</td><td>0.89</td><td>0.86</td><td>2.07</td><td>2.41</td></tr><tr><td>35°</td><td>0.98</td><td>1.96</td><td>2.00</td><td>0.85</td><td>1.59</td><td>1.87</td><td>1.21</td><td>2.18</td><td>1.80</td></tr><tr><td>40°</td><td>1.04</td><td>1.81</td><td>1.74</td><td>1.07</td><td>2.90</td><td>2.71</td><td>1.66</td><td>5.46</td><td>3.29</td></tr><tr><td>45°</td><td>1.69</td><td>3.24</td><td>1.92</td><td>1.18</td><td>1.50</td><td>1.27</td><td>1.83</td><td>6.46</td><td>3.53</td></tr><tr><td>50°</td><td>0.84</td><td>1.49</td><td>1.77</td><td>0.65</td><td>1.49</td><td>2.29</td><td>0.71</td><td>2.17</td><td>3.06</td></tr><tr><td>55°</td><td>1.14</td><td>1.27</td><td>1.11</td><td>0.99</td><td>0.82</td><td>0.83</td><td>0.55</td><td>0.52</td><td>0.95</td></tr><tr><td>60°</td><td>0.85</td><td>2.20</td><td>2.59</td><td>0.31</td><td>1.27</td><td>4.10</td><td>0.43</td><td>1.02</td><td>2.37</td></tr><tr><td>65°</td><td>1.12</td><td>1.61</td><td>1.44</td><td>0.51</td><td>0.79</td><td>1.55</td><td>0.66</td><td>0.94</td><td>1.42</td></tr><tr><td>70°</td><td>0.40</td><td>1.50</td><td>3.75</td><td>0.06</td><td>0.16</td><td>2.67</td><td>0.29</td><td>0.68</td><td>2.34</td></tr></table></body></html>
+
+导风板作用效果主要以 $2 0 ^ { \circ } \sim 4 5 ^ { \circ }$ 小角度的导风板效果较明显,这与Han 等[18]研究结果一致。大角度的导风板对于板后拉平区作用效果要比小角度的导风板效果差，主要是随着角度的增大，导风板与来流的接触面积也逐渐增大。一部分气流通过板下开口起到加速作用；另一部分气流则受到阻碍，产生分支气流，一支在板前形成涡流，风速降低，能量消耗，另一支气流沿板面上升出现绕流建筑物现象，越过导风板与通过板下的气流汇合。
+
+风沙运动是一种贴近地表沙粒出现搬运的现象，沙粒运动的主要因素是风动力，当风速达到起沙风速后,沙粒随风运动而形成风沙流[19]。同样,下导风板的输沙效果仅在来流达到一定风速时能发挥效果,随风速的增大，输沙的功效也随之增强，导风板输沙导风效果可以通过测定板后输沙量而直接反应。在不同倾角对板后风沙流输沙的影响研究中发现，在导风板加速作用后，沙粒会因风速的增加而导致跃移沙粒的增多，总的输沙量增加，风速的增加同时会使沙粒搬运高度的增加，上层相对输沙量增加，下层近地表相对输沙量减少，使气流保持非饱和状态，有利于导风板对流动沙丘风蚀的加强。
+
+# 4结论
+
+（1）导风板角度不同，对板后风速影响区域也有所不同，其中 $4 5 ^ { \circ }$ 倾角导风板的板后 $1 . 5 \mathrm { ~ m ~ }$ 处风速加速效果明显， $2 5 ^ { \circ }$ 倾角导风板板后 $3 . 0 \mathrm { ~ m ~ }$ 处加速效果较为明显，而 $3 5 ^ { \circ }$ 倾角导风板后 $4 . 5 \mathrm { ~ m ~ }$ 处影响效果明显。
+
+（2）导风板可以有效提高板后输沙量，不同倾角导风板后输沙量与高度的最佳拟合曲线为对数函数及幂函数,其中中等角度导风板( $3 0 ^ { \circ } \sim 4 5 ^ { \circ }$ 倾角）提高输沙量效果明显。不同角度导风板对输沙量提升作用有明显差异，其中 $4 5 ^ { \circ }$ 导风板对于板后 $1 . 5 \mathrm { ~ m ~ }$ 处输沙量提升作用较明显，而 $4 0 ^ { \circ }$ 导风板对于板后$3 . 0 \mathrm { ~ m ~ }$ 处输沙量提升作用较明显， $3 0 ^ { \circ }$ 导风板则是在板后 $4 . 5 \mathrm { ~ m ~ }$ 处提升作用较明显。
+
+# 参考文献(References）:
+
+[1]吴正.风沙地貌与治沙工程学[M].北京：科学出版社,2003. [Wu Zheng.Aeolian Landform and Sand Control Engineering [M]. Beijing:Science Press,2003:341 -345.]   
+[2]刘贤万,凌裕泉,贺大良,等.下导风工程的风洞实验研究- (1)平面上的实验[J].中国沙漠,1982,2（4)：14-21.[Liu Xianwan,Ling Yuquan,He Daliang,et al. Studies on the effects of fence in wind tunnel part 1.experiment with level snuface[J]. Journal of Desert Research ,1982,2(4):14-21.]   
+[3]刘贤万,凌裕泉,贺大良,等.下导风工程的风洞实验研究- (2)地形条件下的实验[J].中国沙漠，1983，3（3）：25-34. [Liu Xianwan,Ling Yuquan,He Daliang,et al. Study on the experiment of the under-leading fence in wind tunnel-experiment under topographic conditions II[J]. Journal of Desert Research, 1983,3(3) :25 -34.]   
+[4]程建军,智凌岩,薛春晓,等.铁路沿线下导风板对风沙流场的 控制规律[J].中国铁道科学,2017,38（6）：16-23.[Cheng Jianjun,Zhi Lingyan,Xue Chunxiao,et al.Control law of lower air deflector for sand flow field along railway[J].China Railway Science,2017,38(6) :16 -23.]   
+[5]辛国伟,程建军,景文宏,等.来流廓线对风沙流场和风沙堆积 影响的数值模拟——以挡沙墙为例[J].干旱区研究,2016,33 (3）:672-679.[Xin Guowei,Cheng Jianjun,Jin Wenhong,et al. Numerical simulation of the influence of incoming flow profileon sand flow field and aeolian sand deposition:A case study around sand retaining wall[J].Arid Zone Research,2016,33（3）:672 - 679.]   
+[6]王存牛.屋檐式下导风工程的设置与模拟计算[J].干旱区地 理,1994,16(3）:79-81.[Wang Cunniu.Simulated calculation and optimal construction of the eaves-shaped wind-guide structures [J] Arid Land Geography,1994,16(3）:79 -81.]   
+[7］王中隆,白重瑷,陈元.天山地区风雪流运动特征及其预防研 究[J].地理学报,1982（1）:51-64.[Wang Zhonglong,Bai Chongyuan,Chen Yuan,et al.A study on the movement of snow drift in Tianshan and its control[J].Acta Geographica Sinica, 1982(1):51-64.]   
+［8」张家平.黑龙江省公路风吹雪灾害时空分布与防治技术研究 [D].西安：长安大学,2012.［Zhang Jiaping.Research on the Temporal & Spatial Distribution Rules and Prevention Technology of Snowdrift Disaster Heilongjiang Province[D].Xi'an:Chang'an University,2012.]   
+[9]胡延宇.精伊霍铁路雪害特征及防治措施研究〔D].兰州：兰 州大学,2Oo8.[Hu Yanyu.Study on Characteristics and Protection Measures of Snow Disaster along the Jing-Yi-Huo Railway[D]. Lanzhou:Lanzhou University,2008.]   
+[10］陈新闯.乌兰布和沙漠黄河沿岸磴口段风积沙运移过程与规 律[D].泰安:山东农业大学,2016.［Cheng Xinchuang.The Migration Process of Aeolian Sand in Ulanbuh Desert along the Bank of the Yellow River,Deng Kou[D].Tai'an:Shandong Agricultural University,2016.]   
+[11］何京丽,郭建英,邢恩德,等.黄河乌兰布和沙漠段沿岸风沙流 结构与沙丘移动规律[J].农业工程学报,2012,28(17)：71- 77.[He Jingli,Guo Jianying,Xin Ende,et al. Structure of windsand flow and law of dune movement along bank of Yellow River in UlanBuh Desert[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（17）:71-77.]   
+[12］周丹丹.生物可降解聚乳酸(PLA)材料在防沙治沙中的应用 研究[D].呼和浩特：内蒙古农业大学,2009.［Zhou Dandan.A Study on the Application ofBiodegradablePolylactic Acid（PLA) Material for CombatingDesertification[D].Hohhot:Inner Mongolia Agricultural University,2009.]   
+[13］杨婷婷.乌兰布和沙漠绿洲风蚀防护体系效益评价及模式探 讨[D].北京：北京林业大学,2006.[Yang Tingting.Study on Benefit Evaluation and Patterns of Wind Erosion Protective System in Ulan Buh Desert Oasis[D].Beijing:Beijing Forestry University,2006.] [14]董智.乌兰布和沙漠绿洲农田沙害及其控制机理研究[D].北 京：北京林业大学,2OO4.［Dong Zhi.Research on Farmland Wind-Sand Disaster of Oasis and Its Control Mechanism in Ulan Buh Desert[D] Beijing:Beijing Forestry University,2004.] [15]邳华伟，冯广龙.塔里木盆地西北部3种典型下垫面风沙活动 特征[J].干旱区研究,2016,33（2）:441-448.［PiHuawei, Feng Guanglong. Characteristics of wind-blown sand over three typical underlying surfaces in the northwest Tarim Basin[J].Arid Zone Research,2016,33（2）:441-448.] [16]康永德,杨兴华,何清,等.塔里木盆地塔中地区野外微梯度风 沙流观测[J].干旱区研究,2017,34（3）：591-597.[Kang Yongde,Yang Xinhua,He Qing,etal.Micro-gradient field of winddrift sand in Tazhong in the Tarim Basin[J].Arid Zone Research,   
+2017,34(3):591 -597.] [17」俞祥祥,李生宇,王海峰,等.沙漠公路防护林不同林带位置的 风沙流结构[J].干旱区研究,2017,34（3）：707－715.［Yu Xiangxiang,Li Shengyu,Wang Haifeng,et al.Aeolian-sand flow structure at different locations along desert highway shelterbelt[J]. Arid Zone Research,2017,34(3) :707 -715.] [18]Han YL,Gao Y,Meng ZY,et al.Effects of wind guide plates on wind velocity acceleration and dune leveling:A case study in Ulan Buh Desert,China[J]. Journal of Arid Land,2017,9（5）:743-   
+752. [19]马世威,高永.风沙流结构三定律[J].内蒙古林业科技,1987 (3）:27-29.[Ma Shiwei,Gao Yong.Three laws of wind-sand flow structure[J].Inner Mongolia Forestry Science and Technology,1987(3) :27-29.]
+
+# Effect of Dip Angles of Wind Guide Plate on Sediment Discharge behind the Plate
+
+ZHANG Chao’，HAN Yan-long¹，GAO Yong1，DANG Xiao-hong1,²，LI Wan-jiao¹，WANG Ze-yu1, ZHAI Bo'， WANG Rui-dong1   
+(1.CollgeoferttroledinngrogcultualUesitteroin 2.Inner Mongolia Hangjin Desert Ecological Position Research Station,Ordos O174oo,Inner Mongolia,China)
+
+Abstract:In this study,the field experiments on the efect of wind guide plate in preventing wind-drift sand was caried ut so as to reveal the characteristics of wind speed and sediment discharge behind the wind guide plate. The purposes of the study were to explore the effects of wind deflectoron wind velocityand sediment discharge in the middle and upper parts of mobile dune.The results showed that the area where the wind speed was increased behind the wind guide plate was different from the different dip anglesof the plate.In general,the maximum wind speed occurred behind the plate for $1 . 5 \mathrm { ~ m ~ }$ ,and the effect of increasing wind speed of the wind guide plate with $4 5 ^ { \circ }$ （204号 was significant behind the plate for $1 . 5 \mathrm { ~ m ~ }$ ,that with $2 5 ^ { \circ }$ was significant behind the plate for $3 . 0 \mathrm { ~ m ~ }$ ,and that with $3 5 ^ { \circ }$ was significant behind the plate for $4 . 5 \mathrm { ~ m ~ }$ . The wind guide plate could be used to effectively increase the total sediment discharge behindthe plate,in which theefect of increasingsediment discharge of the mid-angle wind guide plate in a range of $3 0 ^ { \circ } - 4 5 ^ { \circ }$ was more obvious. The effect of increasing sediment discharge of the wind guide plate with $4 5 ^ { \circ }$ was significant behind the plate for $1 . 5 \mathrm { ~ m ~ }$ ，that with $4 0 ^ { \circ }$ was significant behind the plate for $3 . 0 \mathrm { ~ m ~ }$ ， that with $3 0 ^ { \circ }$ was significant behind the plate for $4 . 5 \mathrm { ~ m ~ }$ ：
+
+Key words:wind guide plate；wind sand flow structure；mobile dune；sediment discharge；Ulan Buh Desert

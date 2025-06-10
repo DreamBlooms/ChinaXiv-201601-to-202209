@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crystal structure of FadD32,an enzyme essential for mycolic acid biosynthesis in mycobacteria ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 09 July 2015   \nAccepted:04 September 2015   \nPublished:O2 December 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wenjuan Li²,\\*， Shoujin $\\mathsf { G u } ^ { \\mathsf { 1 } , \\mathsf { 2 } , \\star }$ , Joy Fleming¹& Lijun Bi1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fatty acid degradation protein D32 (FadD32),an enzyme required for mycolic acid biosynthesis and essential for mycobacterial growth, has recently been identified as a valid and promising target for anti-tuberculosis drug development. Here we report the crystal structures of Mycobacterium smegmatis FadD32 in the apo and ATP-bound states at 2.4A and 2.25A resolution, respectively. FadD32 consists of two globular domains connected by a flexible linker. ATP binds in a cleft at the interface between the N-and C-terminal domains and its binding induces significant local conformational changes in FadD32.The binding sites of meromycolic acid and phosphopantetheine are identified by structural comparison with other members of the adenylating enzyme superfamily. These results will improve our understanding of the catalytic mechanism of FadD32 and help in the design of inhibitors of this essential enzyme. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tuberculosis (TB） is an infectious disease caused by the bacillus Mycobacterium tuberculosis.This ancient disease remains a major global health problem; one third of the world's population is estimated to be latently infected with $M .$ ，tuberculosis,and approximately 9 million people developed TB and 1.5 million died from this disease in $2 0 1 3 ^ { 1 }$ . The continuing emergence of multidrug-resistant, extensively drug-resistant and totally drug-resistant $M$ 、tuberculosis severely threatens global TB control2,3 and development of new anti-TB drugs is therefore urgently required4. Targeting cell wall biogenesis in M. tuberculosis for drug development has proved to be very promising5.The mycobacterial cel wall is comprised of three covalently linked macromolecules: peptidoglycan,arabinogalactan,and mycolic acids6.Recently,several proteins related to mycobacterial cell wall biogenesis have been validated as new drug targets, including the L,D-transpeptidase $\\mathrm { L d t } _ { \\mathrm { M t } 2 }$ involved in peptidoglycan biosynthesis7, the decaprenylphosphoryl- $\\cdot \\beta$ -D-ribose $2 ^ { \\prime }$ -epimerase DprE1 involved in arabinogalactan biosynthesis&,and fatty acid degradation protein D32 (FadD32),polyketide synthase PKS13 and trehalose monomycolate transporter Mmpl3,all of which are involved in mycolic acid biosynthesis9-11. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FadD32 is one of the 34 FadD proteins of $M$ ，tuberculosis annotated as putative fatty acyl-CoA synthetases12,and its role in mycolic acid biosynthesis is to activate $\\mathrm { C _ { 4 8 } \\mathrm { - C _ { 6 4 } } }$ meromycolic acid for condensation by $\\mathrm { P K S } 1 3 ^ { 1 3 }$ .Gene knockdown experiments have demonstrated that FadD32 inhibition can severely compromise the growth of $M .$ ，tuberculosis both in vitro and inside macrophages14.FadD32 belongs to the adenylating enzyme superfamily that includes acyl-CoA synthetases,the adenylation domains of nonribosomal peptide synthetases,and firefly luciferases.These enzymes consist of two domains and catalyze two half-reactions: an adenylate-forming reaction which leads to formation of acyl-AMP from a carboxylate substrate and ATP,and a thioester-forming reaction which leads to formation of acyl-CoA from acyl-AMP and CoA or formation of acyl-ACP from acyl-AMP and $\\mathrm { A C P ^ { 1 5 } }$ .Although FadD32 was initially found to catalyze only the first half-reaction and was named fatty acyl-AMP ligase (FAAL)12, later evidence demonstrated that it is a bifunctional enzyme: during mycolic acid biosynthesis FadD32 catalyzes both the formation of meromycoloyl-AMP from meromycolic acid and ATP and the subsequent acyl chain transfer from meromycoloyl-AMP to the phosphopantetheinyl arm of the N-terminal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryof RNA Biology, Instituteof Biophysics,ChineseAcademyofSciences, Beijing,China.²University of Chinese Academy of Sciences,Beijing,China.\\*These authors contributed equally to this work.Corespondence and requests for materials should be addressed to L.B.(email: blj@ibp.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ACP domain of $\\mathrm { P K S } 1 3 ^ { 1 6 , 1 7 }$ . Surprisingly, structural and biochemical studies on M. tuberculosis FAAL28 (or FadD28) suggest that FAALs (including FadD32) cannot catalyze the second half-reaction because of an insertion motif that hinders rotation of their C-terminal domains18.In addition,the FAAL28 structure only contains an N-terminal domain,and so the catalytic mechanism of FAALs remains elusive.As FadD32 is a promising drug target, two groups have developed high-throughput screening methods to identify its inhibitors19-21 One set of inhibitors are 4,6-diaryl-5,7-dimethyl coumarin derivatives, which have activity comparable with that of isoniazid (a first-line anti-TB drug) in animal models of TB.Here, we have determined the structure of FadD32 in the apo and ATP-bound states in order to provide insights into FadD32 substrate recognition and catalysis and thus asist in the design of new inhibitors of FadD32. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Overall structure of FadD32.Ful-length FadD32 from M.tuberculosis (MtFadD32） has been reported to be recalcitrant to crystallization2.As ourown initial studies indicated that MtFad32 tended to aggregate, we decided to crystallize FadD32 from $M .$ .smegmatis (MsFadD32),which has $7 4 \\%$ sequence identity to MtFadD32 (Supplementary Fig.1).We expressed full-length MsFadD32 and its N-terminal domain in Escherichia coli and purified the protein to homogeneity (SupplementaryFig.2).To detect the interaction between FadD32 and ATP, we performed isothermal titration calorimetry(ITC)experiments. ITC results showed that ATP bound to full-length MsFadD32 with a $\\mathrm { K _ { d } }$ value of approximately $3 6 \\mu \\mathrm { M }$ while AMP (control) did not bind to the protein (Supplementary Fig.3a,b); Moreover, the N-terminal domain of MsFadD32 (N-MsFadD32) alone could not bind ATP (Supplementary Fig. 3c).Although N-MsFadD32 could be easily crystallized,we could only obtain crystals of ful-length MsFadD32 by co-crystallizing the SUMO fusion protein and ATP.We determined the structures of apo N-MsFadD32 and ATP-bound MsFadD32 at $2 . 4 \\mathring \\mathrm { A }$ and $2 . 2 5 \\mathring \\mathrm { A }$ resolution by molecular replacement. We observed one molecule of MsFadD32 and one molecule of SUMO in the asymmetric unit of the crystal structure of ATP-bound MsFadD32, with a critical crystal contact mediated by SUMO (Supplementary Fig. 4). Data collection and refinement statistics are shown in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The overall structure of MsFadD32 consists of two distinct domains,a large N-terminal domain comprising residues 1-483 and a smaler C-terminal domain comprising residues 484-630. The N-terminal domain can be further divided into three subdomains (A,B,and C) and an insertion motif that is located between subdomains B and C.Subdomains A and B each have a central $\\beta$ -sheet that is flanked by $\\alpha$ -helices on both sides. The two subdomains juxtapose to form a five-layered $\\alpha \\beta \\alpha \\beta \\alpha$ structure.Subdomain C contains a distorted six-stranded $\\beta$ -barrel anda small $\\alpha$ -helix. The $\\mathrm { ~ C ~ }$ -terminal domain is composed of a three-stranded $\\beta$ -sheet surrounded by four $\\alpha$ -helices,and an additional small two-stranded $\\beta$ -sheet (Fig. la).Consistent with previous observations in $E$ 、coli FAAL (EcFAAL)²3, the insertion motif interacts with both N-and C-terminal domains in MsFadD32.The interactions between the insertion motif and N-terminal subdomain C contain extensive hydrophobic interactions and three hydrogen bonds (Fig.Ib).These hydrophobic interactions were reported to be present in all FAALs and play an important role in anchoring the insertion motif to the N-terminal domain24.The insertion motif interacts with the C-terminal domain through two charge-stabilized hydrogen bonds between Arg368 and Asp499,hydrophobic interactions between Leu371 and Tyr496,and a hydrogen bond between the main-chain carbonyl oxygen of Asn372 and the side-chain nitrogen of Asn494 (Fig.1c).These interactions likely exist in all FadD32 proteins of the Corynebacterineae as the residues involved are highly conserved (Supplementary Fig.1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structural comparisons with other adenylating enzymes reveal that ATP-bound MsFadD32 exists in the adenylate-forming conformation.However,the invariant Lys60l in motif A10 (Supplementary Fig.1) located in the C-terminal domain does not point into the active site and interact with ATP but forms a charge-stabilized hydrogen bond with Glu3l5 located in the N-terminal subdomain B (Fig.ld).We postulate that upon binding of its other substrate,meromycolic acid,Lys6Ol willbe orientated into the active site and interact with both ATP and meromycolate,thereby forming the true adenylate-forming conformation observed in the phenylalanine-activating subunit of gramicidin synthetase 1 (PheA)25 and other adenylating enzymes15. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ATP-binding site.In the MsFadD32-ATP complex, ATP sits in a cleft at the interface between the N-and C-terminal domains (Fig. 2a),and the residues involved in ATP binding are all from the large N-terminal domain.The adenine moiety of ATP is sandwiched between the side chains of Tyr343 and Ile480 on one side and the main-chain atoms of Ser314-Pro3l6 on the other. The adenine ring stacks against Tyr343 and is stabilized by a hydrogen bond between its N6 amino group and the main-chain carbonyl oxygen of Ser342. The ribose moiety of ATP is anchored by two hydrogen bonds between its two hydroxyls and the carboxylate of Asp469,an invariant residue among all adenylating enzymes15. Mutation of the equivalent residue in FadD13 (D382A) has been shown to significantly affect enzyme activity26. The three phosphate groups of ATP are held in place mainly by the $\\mathrm { P } \\mathrm { \\bar { - } l o o p } ^ { 2 7 }$ residues $( \\mathrm { T h r 1 8 7 - }$ Argl92 of motif A3 (Supplementary Fig.1). In particular, the guanidinyl group of Argl92,a residue conserved in all FadD32 proteins in the Corynebacterineae (Supplementary Fig.1),forms bidentate hydrogen bonds with the $\\gamma$ -phosphate.In addition, the main-chain amide nitrogen of Ala346 forms a hydrogen bond with the $\\alpha$ -phosphate,and the guanidinyl group of $\\mathrm { A r g } 4 8 3$ located in the interdomain hinge region forms bidentate hydrogen bonds with the $\\beta$ -phosphate. The $\\mathrm { M g ^ { 2 + } }$ ion,which bridges the $\\beta$ and $\\gamma$ -phosphates, is coordinated by two oxygen atoms from the $\\beta$ and $\\gamma$ -phosphates and four water molecules.Two of the four water molecules are stabilized by forming hydrogen bonds with the carboxylate of the invariant $\\mathrm { G l u } 3 4 7 ^ { 1 5 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca380a5704ae9fd1c223eae00183183ea0dfc146f1e39d3197a90ae0a104102e.jpg",
+        "table_caption": [
+            "Table1．Data collection and refinement statistics.Values in parentheses are for the highest-resolution shell. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>N-MsFadD32</td><td>ATP-MsFadD32</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>P222</td><td>P422</td></tr><tr><td colspan=\"3\">Cell dimensions</td></tr><tr><td>a,b,c (A)</td><td>61.7,78.2,102.2</td><td>122.2,122.2,142.6</td></tr><tr><td>α,β,(°)</td><td>90.0,90.0,90.0</td><td>90.0,90.0,90.0</td></tr><tr><td>Resolution (A)</td><td>2.40 (2.49-2.40)</td><td>2.25 (2.33-2.25)</td></tr><tr><td>Rmerge</td><td>0.128 (0.554)</td><td>0.099 (0.557)</td></tr><tr><td>/oI</td><td>17.4 (4.2)</td><td>26.5 (6.2)</td></tr><tr><td>Completeness (%)</td><td>99.8 (99.5)</td><td>100 (100)</td></tr><tr><td>Redundancy</td><td>10.2 (9.4)</td><td>14.3 (14.8)</td></tr><tr><td colspan=\"3\">Refinement</td></tr><tr><td>Resolution (A)</td><td>25.68-2.40</td><td>29.99-2.25</td></tr><tr><td>No. reflections</td><td>19,858</td><td>51,768</td></tr><tr><td>Rwork/Rfree</td><td>0.185/0.243</td><td>0.169/0.206</td></tr><tr><td colspan=\"3\">No. atoms</td></tr><tr><td>Protein</td><td>3,691</td><td>5,429</td></tr><tr><td>Ligand/ion</td><td>-/-</td><td>31/1</td></tr><tr><td>Water</td><td>290</td><td>482</td></tr><tr><td colspan=\"3\">B-factors (A2)</td></tr><tr><td>Protein</td><td>30.6</td><td>46.2</td></tr><tr><td>Ligand/ion</td><td>-/-1</td><td>28.7/31.2</td></tr><tr><td>Water</td><td>31.5</td><td>45.8</td></tr><tr><td colspan=\"3\">R.m.s. deviations</td></tr><tr><td>Bond lengths (A)</td><td>0.002</td><td>0.005</td></tr><tr><td>Bond angles (°)</td><td>0.629</td><td>0.951</td></tr><tr><td colspan=\"3\">Ramachandran plot</td></tr><tr><td>Favored (%)</td><td>97.3</td><td>98.1</td></tr><tr><td>Allowed (%)</td><td>2.7</td><td>1.9</td></tr><tr><td>Outliers (%)</td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ATP binding-induced conformational changes. Superposition of the structures of the apo and ATP-bound MsFadD32 revealed conformational changes within the N-terminal domain. Firstly，to accommodate the adenine moiety of ATP, the side-chain hydroxyl of Ser3l4,which forms a hydrogen bond with the main-chain carbonyl oxygen of Gly344 in the apo state,rotates $1 8 0 ^ { \\circ }$ .Secondly, the side-chain carboxylate of Asp232,which forms a hydrogen bond with the side-chain hydroxyl of Thr187 in the apo state,rotates approximately $9 0 ^ { \\circ }$ to make room for the $\\alpha$ -phosphate of ATP.Thirdly, theP-loop moves a relatively large distance $( 5 { \\dot { - } } 7 \\mathring \\mathrm { A } )$ to stabilize the three phosphate groups of ATP. Of note, the conformational change in the P-loop is accompanied by the extension of a neighboring $\\alpha$ -helixwhere Argl18,which in the apo state forms hydrogen bonds with Thr191 and Argl92,forms hydrogen bonds with Thrl87 in the ATP-bound state (Fig. 2b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meromycolate-binding site. There is a hydrophobic tunnel in the ATP-bound MsFadD32 structure at the opposite side of the phosphate tail of ATP.We found that, upon superposition of the structures of ATP-bound MsFadD32 and dodecanoyl-AMP-bound EcFAAL,the AMP components of ATP and dodecanoyl-AMP nearly overlap and the $\\mathrm { C } _ { 1 2 }$ tail of dodecanoyl-AMP points into the hydrophobic tunnel of MsFadD32 (Fig. 3a).However, unlike the huge hydrophobic channel present in the human ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e410b4058c9bb3a8923cd842e6788cabb4f6bcb72bb65472cd64a18a2e453ec.jpg",
+        "img_caption": [
+            "Figure 1. Overall structure of ATP-bound MsFadD32.(A) Ribbon representation of the MsFadD32 structure.The three subdomains of the N-terminal domain are colored green, wheat,and cyan,respectively. The insertion motif and C-terminal domain are colored orange and magenta,respectively. ATP is shown as yellow sticks.(B)The interactions between the insertion motif and N-terminal subdomain C.(C) The interactions between the insertion motif and C-terminal domain.(D) The ATP-bound MsFadD32 adopts an atypical adenylate-forming conformation. In(C-D),the residues involved are shown as sticks and the hydrogen bonds are shown as dashed lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d609ed830c89d8b1ee74c719e191895bfbaff72a38a21bc01f8d5774ce97126.jpg",
+        "img_caption": [
+            "Figure 2.ATP binding and conformational changes in MsFadD32.(A) The binding environment for ATP. Top panel: the $2 F o - F c$ electron density (contoured at 1.5o） is shown for ATP. Bottom panel: the $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ion between the $\\beta \\cdot$ and $\\gamma$ -phosphates of ATP is shown as a green sphere,and the four surrounding water molecules are shown as red spheres.(B)ATP binding-induced conformationalchanges in MsFadD32.The fragments of apo and ATP-bound MsFadD32 involved in conformational changes are colored cyan and green, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60175ab785fe2ddff5354d5024673d03368613f069c2c7027f12881f741cfdf5.jpg",
+        "img_caption": [
+            "Figure 3.Meromycolate-binding site.(A) Structural superposition of ATP-bound MsFadD32(green) and dodecanoyl-AMP-bound EcFAAL (pale cyan). Dodecanoyl-AMP is shown as a magenta stick. (B) The hydrophobic tunnel for meromycolate binding. The residues comprising the tunnel are shown as green sticks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ag-presenting molecule $\\mathrm { C D 1 } \\mathsf { b } ^ { 2 8 }$ ,the hydrophobic tunnel in MsFadD32 is clearly too small to accommodate the very long $( \\mathrm { C } _ { 4 8 } \\mathrm { - C } _ { 6 4 } )$ meromycolic acid (Fig. 3b). We suggest that the hydrocarbon tail of meromycolate may protrude from the botom of the hydrophobic tunnel and enter into another hydrophobic tunnel present in a partner protein of FadD32,such as PKS13.The direct interaction between FadD32 and PKS13 has been implicated in previous biochemical studies16. Consistent with this hypothesis,we found that MsFadD32 and MsPKS13 coeluted from a gel filtration column (Supplementary Fig. 5). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Phosphopantetheine-binding site. According to previous biochemical and structural studies on other adenylating enzymes15， the phosphopantetheine-binding tunnel of MsFadD32 is expected to be present at the interface between the $\\mathrm { N } \\mathrm { - }$ and C-terminal domains and to be created when the C-terminal domain rotates approximately $1 4 0 ^ { \\circ }$ to form the thioester-forming conformation. Of note, the glycine residue in the A8 motif that interacts with the $\\beta$ -alanine moiety of the pantetheine in other adenylating enzymes15,i.e. Gly492,is conserved in FadD32 (Supplementary Fig.1). In the current adenylate-forming conformation, one half of the phosphopantetheine-binding tunnel in MsFadD32 can be identified by superposing the structures of ATP-bound MsFadD32 and the adenylate analog- and phosphopantetheine-bound PA1221 protein29. Upon superposition, the AMP components of ATP and the adenylate analog nearly overlap and the pantetheine-binding tunnel of PA1221 corresponds well with atunnellocated at the interdomain interface of MsFadD32.Phe284 is located at the entrance of the putative pantetheine-binding tunnel of MsFadD32 (Fig.4).A previous study has shown that mutation of the equivalent residue of MtFadD32 (F291L) results in resistance to 4,6-diaryl-5,7-dimethyl coumarin derivative inhibitors in M. tuberculosis19.We therefore suggest that these potential drugs inhibit FadD32 activity by binding to the entrance of the phosphopantetheine-binding tunnel,thus preventing pantetheine binding,consistent with a previous finding that 4,6-diaryl-5,7-dimethyl coumarin derivatives inhibit acyl chain transfer from acyl-AMP to the phosphopantetheinyl arm of PKS13 or the mycobacterial acyl carrier protein (AcpM)19. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have presented the first crystal structures ofFadD32,an enzyme essential for mycolic acid biosynthesis in mycobacteria and identified the binding sites of its substrates,including ATP, meromycolic acid and phosphopantetheine. The full-length structure of FadD32 shows that although the insertion loop has extensive interactions with the N-terminaldomain,its interaction with the C-terminal domain is not strong. We therefore suggest that upon PKS13 binding, FadD32 may undergo a conformational change,leading to weakening of the interactions between the insertion loop and the C-terminal domain and rotation of the C-terminal domain to the thioester-forming conformation.Further mutational studies on the residues mediating the interactions between the insertion loop and the C-terminal domain will be required to study the catalytic mechanism of FadD32.In addition,the structures shed light on the mechanism of inhibition of FadD32 by4,6-diaryl-5,7-dimethyl coumarin derivatives and lay the foundation for designing new inhibitors of this essential enzyme. We suggest that a small molecule which could bind to the interface between the insertion loop and the C-terminal domain and enhance their interactions would make a good inhibitor of FadD32 activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Protein expression and purification. The pMCSG7-N-MsFadD32 vector30 containing the N-terminal domain (residues 1-484) of M. smegmatis FadD32，pET28-SMT3-MsFadD32 vector31 containing SUMO-fused full-length M. smegmatis FadD32,and pMCSG7-MsPKS13△C vector containing residues 1-1042 of M.smegmatis PKS13 were constructed and transformed into E.coli BL21 (DE3) for overexpression. After IPTG induction at $2 8 9 \\mathrm { K }$ for $1 8 \\mathrm { h }$ ，the cells were collected and resuspended in lysis buffer containing $2 0 \\mathrm { m M }$ Tris, $\\mathrm { \\ p H \\ 8 . 0 }$ ，500 mMNaCl,and $2 0 \\mathrm { m M }$ imidazole.After sonication, the cell lysate was centrifuged at $1 6 0 0 0 \\mathrm { r p m }$ ， $2 7 7 \\mathrm { K }$ ，and the supernatant containing the tagged protein was applied toa nickel-affinity column pre-equilibrated with the lysis buffer.The recombinant protein was eluted with $2 5 0 \\mathrm { m M }$ imidazole and further purified by size-exclusion chromatography (SEC). The N-MsFadD32 protein sample was treated with TEV protease to remove the N-terminal His-tag before SEC. The resulting protein sample was $5 9 5 \\%$ pure, as determined by SDS-PAGE. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/920cb0d04550dea547c3c9dc07c3ce1c285616ddbbada470ad48cf71ecda8274.jpg",
+        "img_caption": [
+            "Figure 4.Phosphopantetheine-binding site.(A) Structural superposition of ATP-bound MsFadD32 and adenylate analog- and phosphopantetheine-bound PAl221 protein.The N- and C-terminal domains of MsFadD32 are colored green and wheat, respectively. The $\\mathrm { N } -$ and C-terminal subdomains and the peptidyl carrer protein domain of PA1221 are colored pale cyan, white and pink, respectively. The covalentlyconnected adenylate analog and phosphopantetheine are shown as magenta sticks. Phe284 of MsFadD32 is shown as a red stick.(B) Surface representation of the two domains of MsFadD32 showing the phosphopantetheine-binding tunnel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Crystallization and structure determination. Crystallization trials were performed using the sitting-drop vapor-diffusion method. The protein was concentrated to approximately $1 0 \\mathrm { m g \\ m l ^ { - 1 } }$ and mixed in a 1:1 ratio with reservoir solution.N-MsFadD32 crystallized in $0 . 1 \\mathrm { { M } }$ magnesium formate, $1 5 \\%$ （204 PEG 3350 at $2 8 9 \\mathrm { K }$ .For crystallization of SUMO-fused full-length MsFadD32 at $2 8 1 \\mathrm { K }$ ,the protein was pre-incubated with $1 0 \\mathrm { m M }$ ATP and $2 0 \\mathrm { m M } \\mathrm { M g } { \\mathrm { C l } _ { 2 } }$ at $2 7 7 \\mathrm { K }$ for $2 \\mathrm { h }$ and then mixed with $0 . 2 ~ \\mathrm { M }$ sodium malonate, $20 \\%$ PEG 3350.Diffraction data were collected from flash-frozen crystals at $1 0 0 \\mathrm { K }$ using a Rigaku MM007-HF CCD (Saturn 944HG) difractometer and the beamline BL17U of the Shanghai Synchrotron Radiation Facility. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All data sets were processed using $\\mathrm { H K L } 2 0 0 0 ^ { 3 2 }$ . The structures of apo N-MsFadD32 and ATP-bound MsFadD32 were determined by molecular replacement using PHASER3 and search models derived from the N-terminal domain of MtFAAL28 (PDB ID: 3E53)and the C-terminal domain of EcFAAL (PDB ID: 3PBK). Models were built manually with $\\mathrm { C O O T ^ { 3 4 } }$ and refined with PHENIX35. The stereochemical quality of the refined structures was verified with PROCHECK36. Most of the residues have good geometry, and no residues were present in the disalowed regions of the Ramachandran plots. Data collection and refinement statistics are presented in Table 1. Al structural representations in this paper were prepared with PyMol (DeLano Scientific). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Isothermal titration calorimetry assay. The binding afinities between MsFadD32 and ligands were measured with an ITC200 micro-calorimeter (MicroCal).Full-length MsFadD32 and its N-terminal domain were prepared in a buffer containing $2 0 \\mathrm { m M }$ Tris, $\\mathrm { p H } 8 . 0$ 2 $1 5 0 \\mathrm { m M }$ NaCl, 3 mM $\\mathrm { M g C l } _ { 2 }$ . ATPor AMP was dissolved in the same buffer.Protein concentration in the measurement cell was $5 0 \\mu \\mathrm { M }$ ，while the ligand concentration in the titration procedure was adjusted to $6 0 0 \\mu \\mathrm { M }$ .Titrations were performed at $2 9 8 \\mathrm { K } .$ ,and data were fitted to a one-binding-site model using Origin 7.0 (MicroCal). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gel filtration assay.A Superdex 2Oo column was used for gel filtration assays,and the column was pre-equilibrated with a buffer containing $2 0 \\mathrm { m M }$ Tris, $\\mathrm { \\ p H \\ 8 . 0 } ^ { \\mathrm { } }$ ， $1 5 0 \\mathrm { m M }$ NaCl. To examine the interaction between MsFadD32 and MsPKS13,SUMO-fused ful-ength MsFadD32 was treated with Ulpl protease to remove the N-terminal SUMO protein and the resultant MsFadD32 was used in subsequent experiments.MsFadD32 pre-incubated with ${ \\mathrm { M s P K S 1 } } 3 { \\Delta } { \\mathrm { C } } , $ and individual MsFadD32 and MsPKS13△C proteins,were injected into the column and eluted at a flow rate of $0 . 4 \\mathrm { m l \\ m i n ^ { - 1 } }$ .Peak fractions were collected and analyzed by SDS-PAGE. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ciga nvvu   \n2.Gandi,N.R.etal.Multidrug-resistantandextensivelydrug-resistanttuberculosis:athreat toglobalcontrolof tuberculosis. Lancet 375,1830-1843 (2010).   \n3.Dheda,K.etal.Globalcontrolof tuberculosis:fromextensivelydrug-resistanttountreatable tuberculosis.Lancet Respir.Med.   \n2,321-338 (2014).   \n4. Zumla,A.,Nahid,P.&Cole,.T.Advancesinthedevelopmentofnewtuberculosis drugsandtreatmentregimens.Nat.Rev. Drug Discov.12,388-404 (2013).   \n5.Jackson,eil,&nJrogsigeigeloegesisibctebculoue Microbiol.8,855-875 (2013).   \n6.Brennan,PJtructure,functidigenesisofecellwallofyobacteimuberulosis.uberculoss8,99(3).   \n7.Gupta,R.et al.The Mycobacterium tuberculosis protein $\\mathrm { L d t } _ { \\mathrm { M t 2 } }$ is a nonclassical transpeptidase required for virulence and resistance to amoxicillin.Nat.Med.16,466-469 (2010).   \n8.MakarovVetal.BenzothiainonskillMycobacteriumtuberculosisbylockingarabinansynthesis.cience32,80-804(09).   \n9.Grzegorzewicz,A.E.etal.Inhibitionof mycolicacid transportacrosthe Mycobacterium tuberculosis plasma membrane.Nat Chem Biol 8,334-341 (2012).   \n10.StanleyS.AaliarlcoumarinsiibitmcoliccidosythsisndkillyobcterumtuberculoisbyargetingFd2. Proc Natl Acad Sci USA 110,11565-11570 (2013).   \n11.Wilson,R.etal.Antituberculosis thiophenes definearequirement forPksl3inmycolicacid biosynthesis.Nat Chem Biol9,   \n499-506 (2013).   \n12.Trivedi,OAetlEicctiatiodtaerofycidscydelatsimyobacteraure,4-04).   \n13.Portevin,D.etal.Thecyl-AMPligaseFadD32andAccD4-containingacyl-CoAcarboxylasearerequiredforthesynthesisf mycolicacidsandessentialformycobacterialgrowth:identifcationofthecarboxylationproductanddeterminationoftheacylCoA carboxylase components.J. Biol. Chem.280,8862-8874 (2005).   \n14.Caroll,P.,Faray-Kele,M.C.&arish,TentifyngulnerablepathwaysinMyobacteriumtuberculosisbyusingaknockdown approach.Appl.Environ.Microbiol.77,5040-5043 (2011).   \n15.Gulick,A.M.Conformationaldyamicsintheacyl-CoAsnthetasesdenlationdomainsofno-ribosomalpeptidesttases, and firefly luciferase.ACS Chem.Biol.4,811-827 (2009).   \n16.Gavalda,S.etal.ThePks13/FadD2crostalkforthebiosynthesisofmycolicacidsinMycobacterumtuberculosis.Jol.Cem.   \n284,19255-19264 (2009).   \n17.Leger,M.etal.Thedualfunctionofthe Mycobacterium tuberculosisFadD32requiredformycolicacidbiosynthesis.Chem.Biol.   \n16,510-519 (2009).   \n18.Arora,Ptal.MechanstcandfunctionalinsightsintofatyacidactiationinMycobacterimtuberculosis.Nat.Chem.Biol.5,   \n166-173 (2009).   \n19.StanleyS.A.etaliarlcoumarinsinibitmycoliccidosythsisandkillycobacterumtuberculosisyargetigFdD2. Proc.Natl.Acad.Sci. USA 110,11565-11570 (2013).   \n20.Galandrin,S.etal.Asay developmentforidentifying inhibitorsof the mycobacterial FadD32activity.JBiomol Screen18,   \n576-587 (2013).   \n21.Kawate,Tetal.Snthsisandstructure-activityrelationsipsofpeny-substitutedoumarinswithnti-tubercularactiitythat target FadD32.Bioorg Med Chem Lett 23,6052-6059 (2013).   \n22.Goyal,A.etal.CrytaaionndpreliinaryX-rycstallgapicsudesofteNeraldomaofdD8,fattacy AMPligasefrom Mycobacteriumtuberculosis.ActaCrystallogr.Sct.FStruct.Biol.Cryst.Commun.6250-35(06).   \n23.Zhang,Z.NetalructualducoadisofatcdenategasfroE.oilaL.emoil.Jl.iol.   \n406,313-324 (2011).   \n24.Goyal,A.Vera,P,Anandakrishan,M.,Gokhale,R.S.&nkaranarayanan,R.olecularbasisofthefunctionaldivergnce of fattyacyl-AMP ligase biosynthetic enzymes of Mycobacterium tuberculosis.J.Mol.Biol.416,221-238(2012).   \n25.Conti,E,Stachelhaus,T,Marahiel,M.A.&Brick,PStructuralbasisforheactivationofphenylalanineinthenon-iboomal biosynthesis of gramicidin S.EMBO J.16,4174-4183 (1997).   \n26.Khare,G.etal.Dissecting theroleofcritical residuesand substrate preferenceofafatyacyl-CoA synthetase(FadD13)of Mycobacterium tuberculosis.Plos One 4,e8387 (2009).   \n27.May,J.J,Kesler,N,araiel,M.A.&Subs,M.TCrystaltructureofbE,aarchetypefoarylacidactivatingdoins of modular nonribosomal peptide synthetases.Proc.Natl.Acad.Sci. USA 99,12120-12125 (2002).   \n28.Batuwangala,Tetal.TecrystalstructureofmanDbihundacterial glcoliid.Jmunol.7282-8(04).   \n29.Mitchell,C.A.,Shi, C.,Aldrich,C.C.&Gulick,A.M.Structureof PA1221,anonribosomalpeptidesynthetasecontaining adenylation and peptidyl carrier protein domains.Biochemistry 51,3252-3263 (2012).   \n30.Stols,L.etal.Anewvectorforhighthroughput,ligation-independentcloningencodingatobaccoetchvirusproteasecleavage site.Protein Expr.Purif.25,8-15 (2002).   \n31.Bernier-VlorVmson,D.A.,atunis,.J&i,C.DrucuralbsisfEediateUcojugationealed by a complex between ubiquitin-conjugating enzyme Ubc9 and RanGAP1. Cell 108,345-356 (2002).   \n32.Otwinowki,Z.&ino,WProcessingofXraydifactiondtacollecedinocillainmode.edsEymol.2 (1997).   \n33.Mccoy,A.J.et al.Phaser crystallographic software.J.Appl. Crystallogr.40,658-674 (2007).   \n34.Emsley,P.&Cowtan,K.Coot:model-bulding tolsformoleculargraphics.ActaCrystalogr.D60,2126-132(004).   \n35.Adams,PD.etal.PHENIX:acomprehensivePython-based system formacromolecular structure solution.Acta Crystalogr.D   \n66,213-221 (2010).   \n36.Laskowski,R.A.,Macarthur,M.W,Moss,D.S.&Thornton,J.M.PROCHECK: aprogramtocheckthestereochemicalquality of protein structures.J. Appl. Crystalogr.26,283-291 (1993). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Dr. M.Fan for his help with structure determination,and Yi Han, Yonglin Hu, Defeng Li and the staff at beamline 17Uof Shanghai Synchrotron Radiation Facility for their help in data collction.We thank Yuanyuan Chenat the Core Facility for Protein Research,Institute of Biophysics, for asistance with ITC experiments.This work was supported by grants 2011CB910300,2011CB911103, and 2013CB911500 from the National Basic Research Program of China,and grant KSCX2-EW-J-3 from the Chinese Academy of Sciences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "W.L.and S.G.expressed, purified and crystalized FadD32.W.L. performed data collection and structure determination. W.L., S.G. and J.F. wrote and revised the manuscript. L.B. supervised the project and revised the manuscript. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Accession codes: Coordinates and structure factors for apo N-MsFadD32 and ATP-bound MsFadD32 have been deposited in the Protein Data Bank under accession codes 5D6N and 5D6J, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Li, W.et al. Crystal structure ofFadD32,an enzyme essential for mycolic acid biosynthesis in mycobacteria. Sci. Rep.5,15493; doi: 10.1038/srep15493 (2015). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.O International License. The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license,visit http://creativecommons.org/licenses/ by/4.0/ ",
+        "page_idx": 7
+    }
+]

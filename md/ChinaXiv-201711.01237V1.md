@@ -1,0 +1,289 @@
+# 基于维基百科的中文文本层次路径生成研究
+
+# 夏天
+
+(中国人民大学数据工程与知识工程教育部重点实验室北京 100872)(中国人民大学信息资源管理学院北京100872)
+
+摘要：【目的】利用维基百科知识库生成自由文本的层次语义路径。【方法】针对维基百科的中文导出数据，构建层次结构的树状图；进而通过显性语义分析将自由文本表示为文章概念向量，通过文章-类别关联关系将文本映射到树状图中构成种子类别节点，再通过种子节点开始的信息扩散和自顶向下的路径选择与优化，生成层次路径。【结果】首条层次路径的平均相关度在测试集上达到 $54 . 1 0 \%$ ，前20条路径整体上按相关度降序排序。【局限】未分析显性概念向量在保留不同概念数量时对生成路径质量的影响。【结论】基于维基百科知识库所生成的层次路径结果能够反映文本的主要语义信息。
+
+关键词:语义路径显性语义分析层次分类维基百科分类号：G353
+
+# 1引言
+
+文本的语义描述是文本分析的常见任务，根据描述粒度的不同可以分为三个层次：以词袋法为主的细粒度表示，将文本看作是由相互独立且具有不同权重的词语构成的集合，权重计算有布尔逻辑、TF-IDF等方法；以分类为代表的粗粒度表示，通过构建朴素贝叶斯、SVM、决策树等分类模型，自动从预定义的类别集合中选择最相关的分类；介于前二者之间的描述方式，以图结构和主题模型最为常见，前者把文本表示为由概念节点及关联边构成的语义图[1]，后者以LDA 为典型代表[2]，把文本看作是由若干个主题按照某种分布生成的结果，主题本身又是由词语根据特定分布生成。
+
+在三种不同粒度的处理方式中，分类对于文本的语义描述最为概括，人工可读性最强。然而，传统分类技术所处理的类别集合数量固定，各分类之间在语义上处于相同等级，不存在上下位层次关系，无法深度刻画文本的语义信息，如能引人多级分类，通过带层次结构的语义路径对文本进行描述，将有利于更好地快速获取文本的主要语义。
+
+因此，本文围绕如何识别自由文本的层次语义路径进行研究，基于维基百科中文导出数据，构建了带有大规模层级结构的树状图，借助显性语义分析将任意文本的语义信息映射到树状图中，进而通过节点信息扩散和路径求解与优化，生成文本对应的层次分类路径。
+
+# 2 相关工作
+
+文本的层次语义描述可以借助层次分类实现，即按照一个规模巨大的类别层次，指定未知对象在层次中所隶属的类别[3]。层次分类需要良好的层次结构和一定规模的训练数据，通过将层次分类问题转换为传统分类，再利用常规分类算法实现[4-5]。然而，人工维护一棵组织严谨的大规模层次树难度较大，分类节点数量众多使得分类算法的效率较低，从而限制了层次分类的应用范围。
+
+相比层次分类而言，利用维基百科现有的文章和分类网络识别文本的层次语义更具优势：一方面，维基百科已经形成了开放的、动态增长的分类体系；另一方面，维基百科的分类与文章之间的链接引用关系提供了更多的显性语义信息，在此之上已有部分较为有效的文本语义分析技术[。
+
+其中，Muchnik 等[7利用维基百科的文章链接网络，自动构建术语在网络中的潜在层次结构，但该研究未使用维基百科的分类信息。Gabrilovich等[提出的显性语义分析(Explicit Semantic Analysis,ESA)是基于维基百科的文本语义表示的经典方法，该方法使用维基百科的文章及其之间的链接信息，把文本表示为由概念(文章标题)构成的向量，在词语相关度计算[9]、查询扩展[10]、文本分类[8]等应用中得到了广泛应用。ESA表达的是文本与维基概念之间在统计意义上的相关性，概念向量中的各元素之间与词袋法一样维持了独立性假设，因此，ESA对文本实际语义的直观解释能力依然较弱，以本文所用数据集构建的ESA模型和待分析文本“新浪微博”为例，ESA输出的前5篇最相关文章分别为“腾讯微博”、“长微博”、“微博 AIR”、“自由微博”和“对新浪微博的争议”，而通过本文的路径识别技术所输出的前两个层次路径为“社会/大众媒体/全球资讯网/Web2.0”和“社会/文化/网络文化/虚拟社群”，显然，层次路径更能准确描述文本的语义信息。
+
+总体而言，借助于词条概念描述文本的语义已有较好的研究进展，但如何生成任意文本的层次语义路径尚无公开有效的方法。
+
+本文直接面向开放的维基百科分类体系，在由文章与分类、分类之间共同构成的巨大网络中，抽取可表达文本主要语义的层次路径。与层次分类法不同，本文方法所处理的分类数量巨大，分类网络复杂；路径识别不需要构建复杂的分类器，而是在简化网络中借助于信息扩散动态完成，最终生成可读性强的层次语义路径。
+
+# 3基于维基百科的层次分类树状图构建
+
+维基百科提供了开放的层次分类体系，用于对以文章为单位概念的世界知识进行多维度标注，中文分类形式上以杜威十进位图书分类法为主，同时参考《中国图书馆分类法》以及赖永祥《中国图书分类法》。维基百科数据由人工编纂而成，凝聚了群体智慧，内容相对丰富完整，并且可自由获取使用，因此，笔者采用维基百科数据构建大规模层次分类体系。
+
+维基百科分类体系可以表示为由节点集$\mathbf { V } = \{ \mathbf { v } _ { 1 } , \mathbf { v } _ { 2 } , \cdots , \mathbf { v } _ { \mathrm { n } } \}$ 和弧集 $\mathrm { E } = \{ \mathbf { e } _ { 1 } , \mathbf { e } _ { 2 } , \cdots , \mathbf { e } _ { \mathrm { m } } \}$ 组成的有向图 ${ \bf G } _ { \mathrm { W } } = < \mathrm { V } , \mathrm { E } >$ ，其中，节点 $\mathrm { v _ { i } } ( 1 \leqslant \mathrm { i } \leqslant \mathrm { n } )$ 表示类别；弧 $\mathbf { e } _ { \mathrm { i } } = < \mathbf { v } _ { \mathrm { j } } , \mathbf { v } _ { \mathrm { k } } > ( 1 \leqslant \mathrm { i } \leqslant \mathrm { m } , 1 \leqslant \mathrm { j } , \mathrm { k } \leqslant \mathrm { n } )$ 表示类别节点 $\mathbf { v _ { j } }$ 是 $\mathbf { v } _ { \mathrm { k } }$ 的父类别，维基百科分类图 $\mathrm { G } _ { \mathrm { W } }$ 的一个子图如图1所示：
+
+![](images/9145fc50966677a01e4d413f6cf0901bd6391968504ab54c0a27b05d9fd2bb7d.jpg)  
+图1维基百科分类图子图
+
+维基百科的中文分类体系以“页面分类”为总入口，该分类下拥有22个直接子分类，也是维基百科有实际意义的第一级分类，如表1所示：
+
+表1维基百科的第一级分类列表  
+
+<html><body><table><tr><td>序号</td><td>名称</td><td>序号</td><td>名称</td></tr><tr><td>1</td><td>哲学</td><td>12</td><td>心理学</td></tr><tr><td>2</td><td>人物</td><td>13</td><td>科技</td></tr><tr><td>3</td><td>历史</td><td>14</td><td>资讯</td></tr><tr><td>4</td><td>宗教</td><td>15</td><td>跨学科领域</td></tr><tr><td>5</td><td>文学</td><td>16</td><td>休闲</td></tr><tr><td>6</td><td>艺术</td><td>17</td><td>人文学科</td></tr><tr><td>7</td><td>自然科学</td><td>18</td><td>应用科学</td></tr><tr><td>8</td><td>社会科学</td><td>19</td><td>社会</td></tr><tr><td>9</td><td>地理</td><td>20</td><td>技术</td></tr><tr><td>10</td><td>科学</td><td>21</td><td>总类</td></tr><tr><td>11</td><td>语言</td><td>22</td><td>词汇列表</td></tr></table></body></html>
+
+为便于描述，对 $\mathrm { G } _ { \mathrm { W } }$ 做如下设定:
+
+(1）令“页面分类”为 $\mathrm { G } _ { \mathrm { W } }$ 的根节点，记为$\mathrm { r o o t } ( \mathrm { G } _ { \mathrm { W } } )$ 。
+
+(2）对于一条弧 $\mathrm { { e } = < v _ { i } , v _ { j } > }$ ，称 $\mathbf { v _ { i } }$ 是 $\mathbf { v _ { j } }$ 的父节点， $\mathbf { v _ { j } }$ 是 $\mathbf { V _ { i } }$ 的子节点，令parents(v)表示 $\mathbf { v }$ 的所有父节点集合，children(v)表示 $\mathbf { v }$ 的所有子节点集合。例如，图1中有：
+
+children("自然科学") $\scriptstyle 1 = \{ { \begin{array} { r l } \end{array} } $ “物理科学”，“数学”.}parents("物理科学") $\scriptstyle 1 = \left\{ \begin{array} { r l } \end{array} \right.$ “科学学科”,“自然科学”…}
+
+(3）对每个节点 $\mathbf { v }$ 赋予一个相对于根节点位置的深度属性depth，当 $\mathbf { v }$ 是根节点时，深度为0，其他情况递归定义如下：
+
+$$
+\begin{array} { r } { \mathrm { { d e p t h } ( v ) = \operatorname* { m i n } _ { v _ { \mathrm { i } } \in \mathrm { p a r e n t s } ( v ) } ( \mathrm { { d e p t h } ( v _ { \mathrm { i } } ) + 1 ) } } } \end{array}
+$$
+
+例如，在图1中，有：
+
+depth("科学")=depth("自然科学" $\scriptstyle \left. \begin{array} { r l } \end{array} \right| = 1$ depth("科学学科")=depth("物理科学")=2
+
+(4）将从第一级节点开始到类别节点 $\mathbf { v }$ 为止的任一条简单路径称为v的一条层次分类路径，简称路径，记为 $\mathfrak { p } _ { \mathrm { v } }$ ，并令lpv表示路径的长度，即 ${ \mathfrak { p } } _ { \mathrm { v } }$ 所包含的分类节点数量，如图1中，“自然科学 $$ 物理科学"是节点“物理科学"的一条分类路径，其长度为2。
+
+完整的维基百科分类图 $ { \mathrm { G } _ { \mathrm { W } } }$ 存在许多不利于算法自动分析的方面：首先，维基百科拥有大量以不同侧面对概念进行分类的情况，如“总类 $$ 分类 $$ 直接命名的分类 $$ 以人物命名的分类 $$ 以各职业人物命名的分类 $$ 以商人命名的分类 $$ 比尔·盖茨”，去除这些以导航为主要目的的分类，可以提高路径自动识别的效果。其次，经拓扑排序发现图 $\operatorname { G } _ { \mathrm { W } }$ 中存在大量环路，不利于分类体系的递归处理，如"社会科学 $$ 刑事学 $$ 罪案 $$ 侵犯人权 $$ 宗教迫害 $\stackrel { \cdot } {  }$ 宗教多元主义 $$ 宗教迫害”。再次，部分节点存在路径包含现象，该现象是指节点有两条以上长度不等的路径，并且长路径包含了短路径的所有类别，如图1中，路径“科学 $$ 自然科学$$ 物理科学"和“自然科学 $$ 物理科学"均为"物理科学"的路径，通常情况下，仅保留短路径不破坏分类体系的主要语义信息，并能简化图的复杂程度。另外, $\mathrm { G } _ { \mathrm { W } }$ 中存在分类引用缺失、无有效路径以及类别重复等少量异常现象。例如，实验数据中的分类"佛教法器”，其父类指向了并不存在的"法器"分类；类别“各类型智慧"没有父分类，即不存在有效路径；“俄罗斯探险家”
+
+和"俄羅斯探險家"表达了相同的意义，但却对应两个完全独立的分类页面。
+
+为解决以上问题，笔者提出了层次分类图构建算法，通过对 $\mathrm { G } _ { \mathrm { W } }$ 进行剪枝，移除部分节点和边，消除环路和路径包含现象，得到简化后的层次分类图 $\begin{array} { r } { \mathbf { G } _ { \mathrm { H } } , } \end{array}$ 算法如下所示：
+
+输入：原始维基百科分类关系图 $\mathrm { G } _ { \mathrm { W } }$   
+输出：用于层次路径识别的树状图 $\mathrm { \bf G } _ { \mathrm { H } }$   
+$1 \colon \mathrm { R } = \mathrm { r o o t } ( \mathrm { G } _ { \mathrm { w } } )$   
+$2 \colon \mathrm { V } _ { \mathrm { H } } = \{ \mathrm { R } \}$ $\operatorname { E } _ { \mathrm { H } } = \sigma$   
+3: Init queue Q and Enqueue $\mathrm { ~ R ~ }$ into $\mathrm { ~ Q ~ }$   
+4: while Q not empty do   
+5: $\mathbf { v } =$ dequeue from Q;   
+6: if $\mathbf { v } \in \{$ “跨领域学科”,“总类”,“词汇列表"}thencontinue; 7: for each child in children(v) do   
+8: if depth(child) $\mathbf { \tau } = \operatorname { d e p t h } ( \mathbf { v } ) + 1$ then   
+9: $\mathbf { V } _ { \mathrm { H } } = \mathbf { V } _ { \mathrm { H } } \ \cup$ child;   
+10: $\mathrm { E } _ { \mathrm { H } } { = } \mathrm { E } _ { \mathrm { H } } \ \cup \ \mathrm { e d g e } ( \mathrm { v }  \mathrm { c h i l d } ) ;$   
+11: Enqueue child into $\mathrm { ~ Q ~ }$   
+12: end if   
+13: end for   
+14: end while   
+15: return $\mathrm { G _ { H } = < V _ { H } , }$ （2 $\mathrm { E _ { H } > }$
+
+算法借助于队列结构自根节点对 $\mathrm { G } _ { \mathrm { W } }$ 进行广度优先遍历，对于当前被访问的节点v(行5)，通过忽略"跨学科领域”“总类"和"词汇列表"三个一级类别节点以消除侧面分类(行6；然后处理 $\mathbf { v }$ 的每一个子节点child，当其深度为 $\mathbf { v }$ 的深度值加1时，把子节点child和边 $\mathbf { v } {  }$ child分别加到节点集 $\mathrm { v _ { H } }$ 和边集 $\mathrm { E _ { H } }$ 中(行9,行10)，否则，说明 $\mathrm { G } _ { \mathrm { W } }$ 中有除 $\mathbf { v }$ 之外的节点指向child且距离根节点更近，此时忽略边 $\mathbf { v } $ child。最终， $\mathrm { v _ { H } }$ 和$\mathrm { E _ { H } }$ 分别保存了精简后的层次分类图的节点集和边集，共同构成了的树状图 $\mathrm { \bf G } _ { \mathrm { H } }$ 。
+
+算法保证了 $\mathrm { \bf G } _ { \mathrm { H } }$ 拥有一个无入边的根节点，且图中每一个节点 $\mathbf { v }$ 的入边只来自上层节点，它们的深度为 $\mathbf { v }$ 的深度减1，出边只指向下层节点，深度为v的深度加1。 $\mathrm { \bf G } _ { \mathrm { H } }$ 具有树结构的多数特性：拥有根节点、子节点、叶子节点和分层结构，但 $\mathrm { \bf G } _ { \mathrm { H } }$ 中节点的父节点不唯一，所以称之为树状图(Tree like Graph)。
+
+# 4层次分类路径识别方法
+
+基于维基百科的语义层次分类路径识别分为三个部分：将自由文本表示为由维基文章构成的显性概念;
+
+将显性概念映射到树状图并求解层次分类路径集合;  
+综合考虑相关度和新颖度，优化层次分类路径的选择。
+
+# 4.1文本的显性概念表示
+
+ESA 借助通用知识库，将自由文本表示为一组由概念构成的向量，通常采用维基百科训练得到。给定一组概念(对应于维基百科的文章标题)集合$\{ \mathfrak { a } _ { 1 } , \mathfrak { a } _ { 2 } , \cdots , \mathfrak { a } _ { \mathfrak { n } } \}$ 和与之关联的文档(即维基百科文章的内容 $\{ \mathrm { d } _ { 1 } , \mathrm { d } _ { 2 } , \cdots , \mathrm { d } _ { \mathrm { n } } \}$ ，ESA 模型构造一个稀疏矩阵 T,其中每一列表示一个概念，每一行对应于一个出现在$\mathsf { U } _ { \mathrm { i } = 1 \cdots \mathrm { n } } \mathsf { d } _ { \mathrm { i } }$ 中的词语，T中的每个元素T[i,j]对应于出现在文档 $\mathrm { d _ { j } }$ 中的词项 $\mathbf { t } _ { \mathrm { i } }$ 的 TF-IDF 值[8]：
+
+$$
+\mathrm { { T } [ i , j ] = t f ( t _ { i } , d _ { j } ) \cdot l o g \frac { n } { d f _ { i } } }
+$$
+
+如文献[8]所述，并非所有的文档对于ESA都有相同的效果，笔者从内容和链接关系两个方面对维基百科的原始文章进行过滤。在内容方面，如文章a是跳转页面、消歧页面、列表页面，或者文章a所包含的词语数量少于200，则作为非重要文章予以过滤；在链接关系方面，如果文章a的出入链之和小于20，则予以过滤。
+
+为建立ESA模型，笔者对过滤后的维基百科数据进行扫描，计算每对"词语 $$ 文章"的TF-IDF值，形成最终的ESA矩阵T,并进一步维护了文章到类别的隶属关系，用于后续的种子类别选取，从而构成了自由文本到层次路径之间的桥梁关系。
+
+在构建矩阵T之后，给定文本t，其显性语义概念向量可由以下公式计算得到:
+
+$$
+\overrightarrow { \mathrm { V } } _ { \mathrm { t } } = \sum _ { \mathrm { w _ { i } } \in \mathrm { t e r m s } ( \mathrm { t } ) } \mathrm { t f } ( \mathrm { w _ { i } } , \mathrm { t } ) \cdot \mathrm { i d f } ( \mathrm { w _ { i } } ) \cdot \mathrm { T } [ \mathrm { w _ { i } } ]
+$$
+
+其中， $\mathrm { { t f } ( \mathbf { w } _ { i } , t ) }$ 表示词语 $\mathbf { w _ { i } }$ 在文本 $\mathrm { ~  ~ t ~ }$ 中的词频,idf $( \mathbf { w } _ { \mathrm { i } } )$ 表示 $\mathbf { w _ { i } }$ 在所有维基百科数据集上的倒排文档频率， $\mathrm { T [ w _ { i } ] }$ 表示矩阵T中 $\mathbf { w _ { i } }$ 所对应的行向量，即其显性语义向量。
+
+为获取文本的主要语义概念，笔者对向量 $\overrightarrow { \mathrm { V } } _ { \mathrm { t } }$ 按照其元素得分进行降序排序，并挑选前 $\mathbf { \bar { n } }$ 个元素作为文本最终的显性语义分析结果，形式化表示为$\mathrm { E S A _ { t } = \ \{ p ( a _ { 1 } \mid t ) , p ( a _ { 2 } \mid t ) , \cdots , p ( a _ { n } \mid t ) \} }$ ， $\mathsf { p } ( \mathsf { a } _ { \mathrm { i } } \mid \mathsf { t } )$ 表示文章 $\mathbf { a } _ { \mathrm { i } }$ 与文本t的语义相关程度。
+
+4.2分类节点的语义关联与扩散及分类路径求解令 $\mathrm { C S } ( \mathrm { a } _ { \mathrm { i } } )$ 表示文章 $\mathbf { a } _ { \mathrm { i } }$ 所隶属的关联分类，对于文本t和 $\mathrm { \bf G } _ { \mathrm { H } }$ 中的分类 $\mathrm { ~  ~ c ~ }$ ，如存在 $\mathbf { a } _ { \mathrm { j } } \in \mathrm { E S A } _ { \mathrm { t } }$ ，使得$\mathsf { c } \in \mathrm { C S } ( \mathsf { a } _ { \mathrm { j } } )$ ，则称分类c为文本t在树状图 $\mathrm { \bf G } _ { \mathrm { H } }$ 上的初始种子类别节点，简称种子节点。令 $\mathrm { w } ( \mathrm { c } _ { \mathrm { j } } | \mathrm { t } )$ 表示种子节点 $\mathbf { c } _ { \mathrm { j } }$ 与文本t相关程度的权重大小，计算公式如下:
+
+$$
+\mathrm { w } ( \mathbf { c } _ { \mathrm { j } } \mid \mathrm { t } ) = \sum _ { \mathrm { a } _ { \mathrm { i } } \in \mathbf { c } _ { \mathrm { j } } } \frac { \mathrm { p } ( \mathbf { a } _ { \mathrm { i } } \mid \mathrm { t } ) } { | \mathrm { C S } ( \mathbf { a } _ { \mathrm { i } } ) | }
+$$
+
+其中， $\mathbf { a } _ { \mathrm { i } } \in \mathbf { c } _ { \mathrm { j } }$ 表示文章 $\mathbf { a } _ { \mathrm { i } }$ 隶属于类别 ${ \bf c } _ { \mathrm { j } }$ $\lvert \mathrm { C S } ( \mathrm { a } _ { \mathrm { i } } ) \rvert$ 表示 $\mathbf { a } _ { \mathrm { i } }$ 所关联的分类集合的大小。公式(4)表明，种子节点的分类权重由所关联文章的ESA分值按比例累加得到。进一步，为保证所有种子节点的权重之和为1，笔者对种子节点的权重进行归一化处理，记为 $\mathbf { W } ^ { \prime } ( \mathbf { c } _ { \mathrm { { i } } } \mid \mathbf { t } )$ ，公式如下：
+
+$$
+\mathrm { w } ^ { \prime } ( \mathbf { c } _ { \mathrm { i } } \mid \mathrm { t } ) = \frac { \displaystyle \mathrm { w } ( \mathbf { c } _ { \mathrm { i } } \mid \mathrm { t } ) } { \displaystyle \sum _ { \mathbf { c } _ { \mathrm { j } } \in \Delta } \mathrm { w } ( \mathbf { c } _ { \mathrm { j } } \mid \mathrm { t } ) }
+$$
+
+其中， $\Delta$ 表示所有种子节点集合。为保持定义的完整性，如果 $\mathbf { c } _ { \mathrm { { i } } } \not \in \Delta$ ，令 $\mathrm { w } ^ { \prime } ( \mathrm { c } _ { \mathrm { i } } \mid \mathrm { t } ) = 0$ 。
+
+做如下假设：任一文本 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 均可以由维基百科的分类加以描述，描述时由根节点开始，经中间层级的分类自顶向下逐级细化描述，直至到达维基编纂人员认可的细粒度分类为止；令 $\mathsf { p } ( \mathsf { c } _ { \mathrm { i } } \mid \mathsf { t } )$ 表示分类 ${ \bf c } _ { \mathrm { i } }$ 与文本t的语义相关程度，对每一个分类进行相关度赋值后，就可以按照一定的策略从图中挑选出自根节点达到终正节点的最相关路径，作为文本t的语义层次路径。
+
+在表现形式上，人们仅观察到与文章直接关联的种子分类节点，而自根节点到达种子节点所经过的中间节点隐藏在层次树 $\mathrm { \bf G } _ { \mathrm { H } }$ 中，为求解中间节点及其相关度值，笔者提出反向扩散方法，自种子节点开始，将每个节点的相关度值向父节点扩散，直至根节点为止，此时有 $\mathsf { p } ( \mathrm { r o o t } ( \mathbf G _ { \mathrm { h } } ) | \mathbf { \Delta t } ) = 1$ ，即所有种子节点的信息最终汇集到根节点，任一文本均隶属于维基百科的根分类。
+
+令 $\mathrm { I } ( { \mathrm { c } } _ { \mathrm { j } }  { \mathrm { c } } _ { \mathrm { i } } \mid { \mathrm { t } } )$ 表示节点 ${ \bf c } _ { \mathrm { j } }$ 扩散到节点 ${ \bf c } _ { \mathrm { i } }$ 的信息量，定义如下:
+
+$$
+\operatorname { I } ( { \bf c } _ { \mathrm { j } }  { \bf c } _ { \mathrm { i } } \mid { \mathrm { t } } ) = \frac { { \displaystyle \mathrm {  ~ \ p } } ( { \bf c } _ { \mathrm { j } } \mid { \mathrm { t } } ) \cdot { \mathrm { c o u n t } } ( { \bf c } _ { \mathrm { i } } ) } { \displaystyle \sum _ { { \bf c } _ { \mathrm { k } } \in { \mathrm { p a r e n t s } } ( { \bf c } _ { \mathrm { j } } ) } { \mathrm { c o u n t } } ( { \bf c } _ { \mathrm { k } } ) }
+$$
+
+其中， $\mathrm { c o u n t } ( \mathrm { c } _ { \mathrm { i } } )$ 表示隶属于节点 ${ \bf c } _ { \mathrm { i } }$ 或 ${ \bf c } _ { \mathrm { i } }$ 子孙节点的文章数量。此时， $\mathsf { p } ( \mathsf { c } _ { \mathrm { i } } \mid \mathsf { t } )$ 求解如下:
+
+$$
+\mathrm { p } ( \mathrm { c } _ { \mathrm { i } } \mid \mathrm { t } ) = \mathrm { w } ^ { \prime } ( \mathrm { c } _ { \mathrm { i } } \mid \mathrm { t } ) + \sum _ { \mathrm { \scriptsize ~ c } _ { \mathrm { j } } \in \mathrm { c h i l d r e n } ( \mathrm { c } _ { \mathrm { i } } ) } \mathrm { I } ( \mathrm { c } _ { \mathrm { j } } \to \mathrm { c } _ { \mathrm { i } } \mid \mathrm { t } )
+$$
+
+即节点 ${ \bf c } _ { \mathrm { i } }$ 与文本t的语义相关度由直接关联的文章所传递的 ESA 权重和所有子节点所传递的信息量共同决定。从种子节点开始，自底向上依次计算，即可求解所有中间节点及根节点与文本t的语义相关度值。然后，从根节点开始，通过所有相关度大于0的中间节点，到种子节点为止，即可获取到所有可能的分类路径。对于任一分类路径 $\operatorname { p a t h } _ { \mathrm { k } } = < \mathbf { c } _ { 1 } , \mathbf { c } _ { 2 } , \cdots , \mathbf { c } _ { \mathrm { k } } >$ ，定义其与文本t的语义相关度 $\mathrm { P R ( p a t h _ { k } ) }$ 如下：
+
+$$
+\mathrm { { P R } ( \mathrm { { p a t h } _ { k } \mid t ) = \frac { \sum _ { i } \ e p a t h _ { k } } { | c _ { i } \in \ p a t h _ { k } ~ | } } }
+$$
+
+根据公式(8)对每条层次分类路径按其关联度由高到低排序，并挑选得分最高的前 $\mathrm { \Delta N }$ 个作为候选结果，即可实现对文本t的语义路径识别。
+
+# 4.3层次分类路径的优化选择
+
+为保证生成路径的新颖性与多样性，笔者参考文献[11]提出的方法对候选路径进行剪枝，移除高度相似的重复路径。首先，基于文本t的候选路径集，构建无向带权图 $\mathrm { G _ { I } = < V _ { I } , W _ { I } , E _ { I } > }$ ，其中， $\mathbf { G } _ { \mathrm { I } }$ 的每个节点$\mathbf { v _ { i } } \in \mathrm { V _ { I } }$ 对应于一条分类路径 $\mathrm { \ p a t h _ { i } }$ ，其权重 $\mathbf { W } _ { \mathrm { i } } \in \mathbf { W } _ { \mathrm { I } }$ 为$\mathrm { P R } ( \mathrm { p a t h } _ { \mathrm { i } } \mid \mathrm { t } )$ 。对于任意两个节点 $\mathbf { V _ { i } }$ 、 $\mathbf { v _ { j } }$ 及其对应的层次分类路径 $\mathsf { p a t h } _ { \mathrm { i } } \setminus \mathsf { p a t h } _ { \mathrm { j } }$ ，如 $\mathrm { \ p a t h _ { i } }$ 与 $\mathsf { p a t h } _ { \mathrm { j } }$ 的相似度$\mathrm { { s i m } ( \ p a t h _ { i } , \ p a t h _ { j } ) }$ 大于指定阈值，则图 $\mathbf { G } _ { \mathrm { I } }$ 存在无向边$\mathbf { e } = ( \mathrm { v _ { i } } , \mathrm { v _ { j } } ) \in \mathrm { E _ { I } } ~ ,$ 0
+
+根据如下贪心策略挑选独立路径:
+
+(1）从图 $\mathbf { G } _ { \mathrm { I } }$ 中选取权重最大的节点 $\mathbf { v }$ 作为有效路径并予以标记，删除与v相邻的节点及边，并把v添加到队列Q的尾部;(2）重复以上过程直至图 $\mathbf { G } _ { \mathrm { I } }$ 中的所有节点被挑选或删除完毕。此时，队列Q中保存了所有互不依赖的层次路径，并按照语义相关度由高到低排列。
+
+在上述步骤中，如何计算任意两路径之间的相似度至关重要，笔者采用如下方式：
+
+$$
+\sin _ { \mathrm { p } } ( \mathrm { p } _ { \mathrm { i } } , \mathrm { p } _ { \mathrm { j } } ) = { \frac { \displaystyle \sum _ { \mathrm { k } = 1 } ^ { \mathrm { L } } ( \mathrm { L } - \mathrm { k } + 1 ) \cdot \sin _ { \mathrm { c } } ( \mathrm { c } ( \mathrm { p } _ { \mathrm { i } } , \mathrm { k } ) , \mathrm { c } ( \mathrm { p } _ { \mathrm { j } } , \mathrm { k } ) ) } { \displaystyle \sum _ { \mathrm { k } = 1 } ^ { \mathrm { L } } \mathrm { k } + ( \| \mathrm { p } _ { \mathrm { i } } | - | \mathrm { p } _ { \mathrm { j } } \| ) } }
+$$
+
+$\mathrm { L = \mathrm { m i n } ( | \mathfrak { p } _ { i } | , | \mathfrak { p } _ { j } | ) }$ ， $\mathsf { c } ( \mathsf { p } _ { \mathrm { i } } , \mathsf { k } )$ 表示路径 $\mathfrak { p } _ { \mathrm { i } }$ 中的第 $\mathbf { k }$ 个类别， $\sin _ { \mathrm { c } } ( \mathbf { c } _ { 1 } , \mathbf { c } _ { 2 } )$ 表示两个类别 $\mathbf { c } _ { 1 }$ 和 $\mathsf { c } _ { 2 }$ 的相似度,为简化复杂度，令 $\mathbf { c } _ { 1 } = \mathbf { c } _ { 2 }$ 时， $\sin _ { \mathrm { c } } ( \mathbf { c } _ { 1 } , \mathbf { c } _ { 2 } ) = 1$ ，否则为0。
+
+# 5实验
+
+为验证本文方法的效果，笔者构建了维基百科训练数据集和测试数据集，以算法生成的层次分类路径有序列表作为测试对象，对比生成路径和文章自带的原始类别的相关度，以反映自动生成路径的实际效果。
+
+# 5.1 实验数据
+
+选取维基百科2015年6月发布的中文导出数据“zhwiki-20150602-pagesarticles-multistream.xml.bz”① ,该数据集共包含2648029个页面，其中，文章页面占 $5 5 . 9 3 \%$ ，分类页面占 $7 . 4 7 \%$ ，文档附件、图片等其他类型资源页面占 $3 6 . 6 0 \%$ ，具体组成如表2所示。通过数据清洗处理，最终保留了184968个文章页面和176484个分类页面，分别用于构建ESA模型和层次分类树状图。
+
+表2维基百科实验数据集页面组成情况  
+
+<html><body><table><tr><td>页面类型</td><td>数量 百分比</td><td>子类型</td><td>数量</td><td>百分比</td></tr><tr><td rowspan="3"></td><td>文章页面148096355.93%</td><td>跳转文章数量</td><td>658 084</td><td>44.44%</td></tr><tr><td></td><td>内容过滤数量 链接过滤数量</td><td>610 183</td><td>41.20%</td></tr><tr><td></td><td>有效文章数量</td><td>27 728 184968</td><td>1.87% 12.49%</td></tr><tr><td rowspan="3">分类页面</td><td></td><td>特殊分类数量</td><td>21 304</td><td>10.77%</td></tr><tr><td>197 872 7.47%</td><td>简繁同名异常</td><td>84</td><td>0.04%</td></tr><tr><td></td><td>数量</td><td></td><td></td></tr><tr><td colspan="2">其他页面 969 19436.60%</td><td>有效分类数量</td><td>176 484</td><td>89.19%</td></tr></table></body></html>
+
+清洗后的维基百科分类图 $\operatorname { G } _ { \mathrm { W } }$ 共拥有176484个节点和335329条边，通过树状图构建算法进行过滤处理，去除环路和孤立点后，形成最终的层次分类图 $\mathrm { G } _ { \mathrm { H } }$ 包含171681个节点和220861条边，分别为 $\operatorname { G } _ { \mathrm { W } }$ 的$9 7 . 2 8 \%$ 和 $6 5 . 8 6 \%$ ，即 $\mathrm { \bf G } _ { \mathrm { H } }$ 基本保留了原图的分类名称，但去除了大量冗余路径。
+
+为构建测试集，笔者从维基百科原始数据中去除184968条训练数据，从剩余的637911个非跳转文章页面中以 $1 . 5 \%$ 的概率随机抽样，去除字数少于50的文章，最终构成了包含6629个文章的测试集①，测试集以XML格式保存，每个文章包含页面Id、标题、去除标签后的文本和所隶属的分类。
+
+# 5.2 实验数据
+
+给定测试数据集中的一个文章 $\mathbf { a } _ { \mathrm { i } }$ ， $\mathbf { a } _ { \mathrm { i } }$ 在维基百科原始数据中所隶属的分类集合为 $\mathrm { c s } ( \mathrm { a } _ { \mathrm { i } } )$ ，通过本文方法计算得到的层次分类路径集合为 $\mathrm { { P S } ( a _ { i } ) = }$ $\{ \mathrm { p a t h } _ { 1 } , \mathrm { p a t h } _ { 2 } , \cdots , \mathrm { p a t h } _ { \mathrm { n } } \}$ ，定义 $\mathbf { a } _ { \mathrm { i } }$ 与任一条分类路径path;的相关度R如下：
+
+$$
+\mathrm { R ( a _ { i } , p a t h _ { j } ) = m a x _ { c \in C S ( a _ { i } ) } \ r e l { ( p a t h _ { j } , c ) } }
+$$
+
+其中， $\mathrm { r e l } ( \mathrm { p a t h } _ { \mathrm { j } } , \mathrm { c } )$ 表示类别 $\mathrm { ~  ~ c ~ }$ 与给定路径 $\mathsf { p a t h } _ { \mathrm { j } }$ 的相关度，计算公式如下：
+
+$$
+\mathrm { r e l ( p a t h _ { j } , c ) = \frac { m n p ( p a t h _ { j } , c ) } { m n p ( p a t h _ { j } , c ) + d i s ( p a t h _ { j } , c ) } }
+$$
+
+其中， $\mathrm { { d i s } ( p a t h _ { j } , c ) }$ 表示类别节点c在维基百科分类图中到达路径path;任一节点的最短距离，$\mathrm { { m n p } ( p a t h _ { j } , c ) }$ 表示节点c与path;的距离取最小值时，在 $\mathsf { p a t h } _ { \mathrm { i } }$ 中相对应的匹配节点位置(Matched NodePosition)。
+
+进一步，令 ${ \bf { R } } ( { \bf { a } } _ { \mathrm { { i } } } , { \bf { k } } )$ 表示文章 $\mathbf { a } _ { \mathrm { i } }$ 与计算得到的前 $\mathbf { k }$ 条层次分类路径的平均相关度，简记为 $\operatorname { R @ K } ,$ ，计算公式如下:
+
+$$
+\operatorname { R } ( { \mathrm { a } } _ { \mathrm { i } } , { \mathrm { k } } ) = { \frac { 1 } { \operatorname { k } } } \cdot \sum _ { \mathrm { j } = 1 } ^ { \operatorname { k } } \operatorname { r e l } ( { \mathrm { a } } _ { \mathrm { i } } , { \mathrm { p a t h } } _ { \mathrm { j } } )
+$$
+
+# 5.3 实验结果与分析
+
+取测试文章的标题和正文文本的前300个汉字作为自由文本，计算其显性概念向量，保留前20个主要概念用于生成种子分类节点，生成层次语义路径集合。为便于获得路径识别的感性认识，下面给出了测试集中的"中国古典典籍"和"邻接矩阵"两篇文章人工给出的分类信息和自动识别出的前5条路径，以及每条路径与文章的相关度 R 和 $\mathbf { k }$ 平均相关度 $( \mathbf { k } \in [ 1 , 5 ] )$ 如表3所示。
+
+由表3可看出，本文所提方法能够从层次分类知识体系中对文本内容进行合适的语义定位，所输出的层次路径能够从不同侧面反映文本的主要语义信息,与人工标注的细粒度分类具有较高的关联关系，能够为文章编纂人员对文本进行合理分类提供有效的参考借鉴。
+
+表3层次路径识别结果示例  
+
+<html><body><table><tr><td>测试文章</td><td>原始类别</td><td>前 5条识别路径</td><td>R</td><td>R@k</td></tr><tr><td rowspan="5">中国古典 典籍</td><td>中国古 典典籍</td><td>(1)文学/文学体裁/语录</td><td>0.250</td><td>0.250</td></tr><tr><td></td><td>中国思想(2）历史/历史学/文献学</td><td>0.400</td><td>0.325</td></tr><tr><td></td><td>(3)社会/教育/学术/ 反智主义</td><td>0.667</td><td>0.439</td></tr><tr><td></td><td>(4）历史/各种主题的历 史/思想史/中国思想史</td><td>0.800</td><td>0.529</td></tr><tr><td></td><td>(5)社会/文化/各国文化/ 中国文化/经学</td><td>0.800</td><td>0.583</td></tr><tr><td rowspan="5">邻接矩阵</td><td>矩阵</td><td>(1）自然科学/数学/离散 数学/图论</td><td>1.000</td><td>1.000</td></tr><tr><td>图论</td><td>(2）应用科学/计算机科 学/数据结构</td><td>1.000</td><td>1.000</td></tr><tr><td>数据结构</td><td>(3）应用科学/资讯科学/ 生物信息学</td><td>0.333</td><td>0.778</td></tr><tr><td></td><td>(4)资讯/信息论/编码 理论</td><td>0.600</td><td>0.733</td></tr><tr><td></td><td>(5）应用科学/应用数学/ 数值分析/数值线性代数</td><td>0.333</td><td>0.653</td></tr></table></body></html>
+
+为反映整体情况，根据公式(12)计算前k条路径与测试文章自带分类的k-平均相关度,k取不同数值时的实验结果如图2所示：
+
+![](images/3e628c0b3e2a0d74b3112e36f6181da3b768bb7b0d3b9197af9c4cd04e963abd.jpg)  
+图2 $\mathbf { k } .$ 平均相关度实验结果 $( \mathbf { k } \in [ 1 , 2 0 ] )$
+
+图2的右侧给出了k取值从1到5时，在整个测试数据集上的 $\operatorname { R @ K }$ 。左侧曲线则给出了 $\mathbf { k }$ 取值在1到20之间的整体变化情况。相关度均值随着 $\mathbf { k }$ 的增大而显著降低，说明识别结果整体上能够按照与原始文本的语义相关度由高到低排序；当 ${ \bf k } = 1$ 时，平均相关度值达到0.541，则表明超过一半的情况下首条路径与人工标注的类别保持一致。部分测试文章的相关度较低的原因，一方面是由于方法本身和数据质量的局限,采用显性语义分析表示自由文本会引入噪声，另一方面则是人工标记的分类不够全面(见表3)，使得有较高语义相关度的路径在测试中的实际得分较低。
+
+# 6结语
+
+本文提出了一种基于维基百科的语义层次路径识别方法，该方法首先利用显性语义分析技术将自由文本表示为维基百科词条概念向量，进而通过词条与类别之间的隶属关系，将其关联到层次分类树状图之中，通过自种子分类节点向根节点的语义扩散和自顶向下的分类路径求解与优化，实现了对任意文本的语义层次路径标记。实验结果表明本方法自动生成的路径与人工标记的类别具有较高的关联度。
+
+下一步研究包括:
+
+(1）探索新的分类节点在图中的信息扩散计算方式，进一步提高层次路径识别效果;(2）层次路径识别技术在相似度计算和分类等文本挖掘任务当中的应用。
+
+# 参考文献：
+
+[1]吴江宁，刘巧凤．基于图结构的中文文本表示方法研究[J]. 情报学报，2010，29(4):618-624．(Wu Jiangning，Liu Qiaofeng.Research on Graph Structure Based Method for Chinese Text Representation [J]. Journal of the China Society for Scientific and Technical Information,201o,29(4): 618-624.)   
+[2] BleiD M,NgAY,Jordan MI.LatentDirichlet Allocation [J]. Journal ofMachine LearningResearch,2003,3:993-1022.   
+[3] 何力，贾焰，韩伟红，等．大规模层次分类问题研究及其 进展[J]．计算机学报，2012,35(10):2101-2115.(HeLi,Jia Yan, Han Weihong, et al. Research and Development of Large Scale Hierarchical Classification Problem [J].Chinese Journal of Computers,2012,35(10):2101-2115.)   
+[4] Silla C N，Freitas A A.A Survey of Hierarchical Classification AcrossDifferent Application Domains [J].Data Mining and Knowledge Discovery,2011,22(1-2): 31-72.   
+[5]Zhang C, Xue G R,Yu Y, et al. Web-scale Classification with Naive Bayes [C].In:Proceedings of the 18th International Conference on World Wide Web,Madrid, Spain.2009.   
+[6] Medelyan O,Milne D,Legg C,et al.Mining Meaning from Wikipedia [J]. International Journal of Human-Computer Studies,2009,67(9):716-754.   
+[7] Muchnik L, Itzhack R,Solomon S,et al. Self-emergence of Knowledge Trees:Extraction of the Wikipedia Hierarchies [J].Physical Review E,2007,76(1):1-12.DOI: http:// dx.doi.org/10.1103/PhysRevE.76.016106.   
+[8] GabrilovichE, MarkovitchS. ComputingSemantic RelatednessUsingWikipedia-based Explicit Semantic Analysis [C].In:Proceedings of the 20th International Joint Conference on Artificial Intelligence.2007:1606-1611.   
+[9]Aggarwal N,Asooja K,Buitelaar P. Exploring ESA to Improve Word Relatedness [C]. In:Proceedings of the 3rd Joint Conference on Lexical and Computational Semantics. 2014:51-56.   
+[10] Milne D N,Witten I H,Nichols D M.et al．A Knowledge-Based Search Engine Powered by Wikipedia [C]. In: Proceedings of the 23rd ACM International Conference on Information and Knowledge Management.2007.   
+[11]Chakrabarti D,Mehta R.The Paths More Taken: Matching DOM Trees to Search Logs for Accurate Webpage Clustering [C]. In: Proceedings of the 19th International Conference on World Wide Web.2010.
+
+# 利益冲突声明：
+
+作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据见期刊网络版http://www.infotech.ac.cn。  
+[1]夏天.wiki6629.zip.由6629条维基百科文章构成的测试数据集，采用XML格式，每篇文章包含标题、截取的300字左右的正文、隶属的类别信息.  
+[2]夏天．generated_paths.zip.在测试集基础上，增加了利用本文方法生成的语义路径信息.  
+[3]夏天.data_code_url.txt.维基百科原始数据集的下载链接地址和代码链接地址.
+
+收稿日期:2015-11-16   
+收修改稿日期:2015-12-21
+
+# Generating Hierarchical Paths of Chinese Text from Wikipedia
+
+Xia Tian (Key Laboratory of Data Engineering and Knowledge Engineering of Ministry of Education, Renmin University of China, Beijing 10o872, China) (School of Information Resource Management, Renmin University of China, Beijing 100872, China)
+
+Abstract:[Objective] Generate hierarchical semantic paths of texts from Wikipedia.[Methods] We first establish articleconcept vector of Chinese texts from Wikipedia through explicit semantic analysis.And then,we mapped the vector tothecategorynodes ofhierarchical-tree-like graph.Finaly,we generatedthe hierarchical paths with the helpof seed node information difusion and top-down path selection,as wellas optimization technology. [Results]The average relevance degree of the first generated hierarchical path was $54 . 1 0 \%$ on the test dataset,and the top 2O paths were sorted by relevance in the descending order.[Limitations]We did not analyzethe effect of using different numbers of explicit concept vector to the quality of the generated path.[Conclusions] The hierarchical paths generated from Wikipedia can reflect the main semantic meaning of the given texts.
+
+Keywords: Semantic pathExplicit semantic analysisHierarchical classificationWikipedia
+
+# Summon发现服务开始提供Altmetric信息
+
+ProQuest子公司ExLibris 于近日宣布已集成 Altmetrics到 Summon 发现服务之中，极大地丰富了用户体验，改进了内容发现。这是 ProQuest 和 Altmetric 之间共同合作的成果，使得研究人员只需点击鼠标，就能获悉一项研究成果的在线分享、评论和讨论情况。
+
+图书馆开启 Summon 发现服务的 Altmetric 集成功能，Summon 发现服务中会显示一个 Altmetric 徽章。用户可以单击这个徽章来探索一条搜索结果(如文章)的相关讨论信息。这些信息由 Altmetric 公司从多个来源获取而来，包括：主流媒体、维基百科、博客、社交网络、参考咨询管理人员、出版后的同行评议论坛，以及其他在线社区。
+
+谈到这次的整合,Ex Libris 负责发现和交付解决方案的副总裁 Shlomi Kringel认为:“通过增加学术内容的曝光率和提高搜索结果的价值来改进用户的研究体验，对我们所有的服务来说都是一个重要的目标。将 Altmetric 徽章加人 Summon 发现服务，使得我们的用户能够更容易判断一项研究成果在学术界和读者中的影响力，以及产生这一影响力背后的原因。”
+
+Altmetric 公司创始人Euan Adie补充道:“我们很高兴看到ProQuest将 Altmetric 集成到了 Summon 发现服务之中。我们希望，在与研究成果相关的在线活动被更多用户看到的同时，用户也能更积极地参与到各自领域正在进行的有关学术成果的讨论之中。”
+
+无需订阅Altmetric.com，图书馆就可以激活 Altmetric徽章，这样,Altmetric 徽章将显示在所有通过ProQuest平台，如36Links、ExLibrisPrimo 以及Summon发现服务等提供的搜索结果中。
+
+(编译自:http://www.proquest.com/about/news/2016/Altmetric-data-now-available-in-the-Summon-Discovery-Service.html)
+
+(本刊讯)

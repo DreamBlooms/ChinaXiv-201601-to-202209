@@ -1,0 +1,278 @@
+# 内侧前额皮层-伏隔核环路在决策冲动中的作用：基于动物模型的研究
+
+卓利楠1＋ 曾祥玉1+ 吴冰」牛荣荣」于萍1\*王玮文2\*（北京市“学习与认知”重点实验室；首都师范大学心理学院，北京100048；²中国科学院心理健康重点实验室，中国科学院心理研究所，北京100101)
+
+# 摘要
+
+注意缺陷多动障碍(attention deficit/hyperactivity disorder,ADHD)行为控制不足与决策冲动密切相关，后者受内侧前额皮层(medial prefrontal cortex,mPFC)与伏隔核(nucleus accumbens,NAc)调节。为调查ADHD决策冲动与mPFC-NAc 间功能耦合的关系，研究采用ADHD 模型SHR(spontaneously hypertensive rat,SHR)大鼠，结合延迟折扣任务和在体电生理，研究发现，与对照 Wistar(WIS)大鼠相比，SHR 大鼠对延迟大奖赏的选择百分比降低；WIS 大鼠 mPFC-NAc 的Theta 频段相干值表现为延迟选择时显著大于立即选择时、首次选择时大于连续选择时、转换试次时大于连续试次时，而 SHR大鼠在上述条件均低于WIS 大鼠。回归分析发现mPFC-NAc 的相干差值与延迟大奖赏选择率显著正相关。结果表明mPFC-NAc 间功能联系减弱是ADHD 决策冲动缺陷的重要环路基础，该缺陷与其深度信息加工以及策略转换能力受损有关，扩展了ADHD决策冲动的认知和神经机制的认识。
+
+关键词注意缺陷多动障碍，决策冲动，内侧前额皮层，伏隔核，神经振荡分类号B845
+
+# 1引言
+
+注意缺陷多动障碍(attention deficit/hyperactivity disorder,ADHD)是儿童青少年及成人中常见的一种持续的神经发育障碍，以过度活跃(即多动)、难以保持持续的注意力和冲动性增加为主要症状(Faraone et al.,2015; Francesmonneris et al.,2013)。行为控制不足被认为是ADHD 症状的重要心理病理基础。决策冲动性(decision-making impulsivity)影响行为控制能力(Jackson& MacKillop,2016;Marx et al.,2018)。其中，人类和动物实验研究都发现 ADHD存在明显的“等待”缺陷，即行动前在权衡短期和长期的利益和成本做出决策的过程中，不能容忍延迟满足，在跨期决策任务中表现为偏好小的即时奖励而不能等待大的延迟奖励，从而导致长期奖励损失(Aparicio et al.,2019;Marx et al., 2018; Orduna & Mercado,2017;Somkuwar et al.,2016)。一项对成人、儿童和青少年ADHD 患者的 Meta 分析结果表明,ADHD患者偏好从一个大的延迟奖励转变为一个小的即时奖励的决策冲动模式，同时遗漏错误较多，注意力较差(Marx et al.,2018)。
+
+决策过程涉及奖赏价值计算、对结果的预期以及根据结果进行认知转换等多种信息的编码与整合加工(Robbins &Dalley,2017)。内侧前额皮层(medial prefrontal cortex,mPFC)和伏隔核(nucleus accumbens,NAc)被认为是参与决策过程信息加工的重要结构(Floresco et al., 2015;Jenni et al.,2017; Kim& Lee,2011; Perez-Diaz et al.,2017; Starkweather et al.,2018)。神经解剖学研究表明mPFC 和NAc之间具有双向神经纤维投射。mPFC 发出的谷氨酸能神经纤维可直接投射至 NAc (Bossert et al.,2012)，其中 mPFC 中的缘前皮层发出的谷氨酸能神经纤维主要投射至NAc 的核部(Asher& Lodge,2012)。NAc 发出的神经纤维可以间接投射至mPFC(Liet al.,2020)。以往的研究表明 mPFC 与NAc均与决策冲动的控制有关。人类功能磁共振成像显示在DDT任务中腹侧纹状体、mPFC 和后扣带回皮层区域的激活程度随着奖励延迟时间的增加而减少，因此认为这些脑区与决策冲动控制有关(Kable&Glimcher,2007; Scheres etal.,2007)。与此一致，mPFC 和NAc 参与调节大鼠选择大奖赏的延迟强化能力，其结构和功能受损可以诱导显著的决策冲动(Gui et al.,2018; Sacket et al.,2019; Donnelly et al.,2014;Fox et al.,2008;Basar et al.,2010)。Sackett 等人(2019)研究发现在 DDT 任务中高冲动性大鼠mPFC 亚区缘前皮层中对“小/立即”线索反应的神经元比例显著高于低冲动性大鼠(Sackett etal.,2019)，提示高冲动性大鼠的冲动缺陷与mPFC 活动有关。关于NAc及其神经环路在决策冲动中的作用，Wang(2019)等人发现在DDT任务中的延迟期和奖赏预期期，高冲动大鼠的内侧眶额皮层-NAc 核部神经通路在 Beta(15\~29Hz)和低频 Gamma(30\~46Hz)频段的 gPDC(generalized partial directed coherence,gPDC)显著弱于低冲动大鼠，提示高冲动大鼠脑区间的信息同步交流减弱可能是导致决策冲动的原因(Wang etal.,2019)。新近的一项研究通过将静息态功能磁共振与多模态分析相结合，发现人类mPFC-纹状体(包括 NAc)功能连通性与对即时奖励的过度敏感和较高的选择冲动性有关(Lv etal.,2019;Wang etal.,2020)。上述实验均提示mPFC-NAc 神经环路是参与决策冲动的重要结构。
+
+临床和基础研究发现，ADHD 患者及动物模型在奖励失调的实验中倾向于立即而不是延迟奖励，导致决策能力受损的行为结果与这两个脑区结构和功能损伤相关联(Hauser et al.,2014;Miller et al.,2014)。例如，与健康对照相比儿童和成人ADHD 患者执行功能相关的mPFC 默认网络(default mode network,DMN)失活减少(Salavert et al.,2015)，内侧、背外侧和腹侧前额叶脑网络连接模式的改变扰乱对未来状态的预期和未来目标的制定,倾向于次优决策(Sonuga-Barke&Fairchild,2012)。ADHD 青少年在奖赏预期期包括 NAc 在内的腹侧纹状体激活程度降低且与病人的高活跃/冲动症状呈负相关(Hauser etal.,2014)。然而，目前对于这两个脑区的功能耦合与ADHD决策异常间的关系并不清楚。
+
+跨期决策的双过程理论(Carpenter et al.,2015)提出，在决策过程中神经网络存在两种不同的激活模式(两个系统)：在决策的早期阶段，需要习得不同选项与奖励大小之间的关系,即行为-结果的关联，这一过程是受意识控制的、目标导向的理性分析系统(Khader et al.2016)，该系统的活动需要调用较多的认知资源，需要大脑进行复杂的神经网络活动(Perez-Diaz et al.,2017)。在决策的后期阶段，在习得行为-结果联结后，决策过程则是不受或较少受到意识控制的、习惯化的自动加工系统(Zhao etal.,2019)，这个过程需要调用的认知资源以及神经网络活动的复杂程度均要低于受意识控制的理性分析系统。在决策过程中这两个系统需要协调活动，并随着行为-结果联结的变化随时进行策略调整(Balleine &O"Doherty,2010;Erdeniz&Done,2020)。基于这一理论，决策冲动的神经环路机制可能与两个系统的功能活动尤其是协同活动有关。我们假设在DDT任务的不同试次中，首次选择、连续选择和试次转换时大脑对信息加工的深度不同：大鼠在进行首次选择时，因为需要习得决策任务因此需要调动更多的认知资源，以理性分析系统的活动为主；而连续选择只需要与前一个试次保持一致，因此更多地以自动加工系统的活动为主；试次转换是对前一个试次进行纠错并做出优势选项的过程，则反映了策略调整的灵活性，因此需要理性分析系统更多地参与。因此，通过分析不同试次首次选择、连续选择和试次转换时神经环路的激活程度，可以考察理性分析系统和自动加工系统功能活动的动态改变。目前认为，双过程理论的神经基础主要与皮质-纹状体神经网络环路的活动有关，受意识控制的目标导向行为主要依赖于皮质-纹状体神经网络的协同活动，而不受意识控制的习惯性行为则主要与皮质下的纹状体活动有关(Khader et al.,2016)。我们假设如果 ADHD 的 mPFC-NAc 间的环路功能耦合异常，则两个系统的活动尤其是协调性有可能受损，进而导致决策冲动异常。
+
+SHR(spontaneously hypertensive rat,SHR)大鼠是目前最广泛使用的一种高效度的 ADHD模型动物。大量研究证实，与Wistar(WIS)对照大鼠相比 SHR 大鼠表现出过度活跃、行为冲动，持续注意力受损以及对延迟奖励的敏感性异常等 ADHD 核心症状(Aparicio et al.,2019;Fox et al.,2008;Orduna&Mercado,2017)，以及脑内DA、去甲肾上腺素和谷氨酸系统功能紊乱等ADHD样病理生理改变,并且临床治疗药物(如哌甲酯等)可以改善 SHR大鼠的ADHD样行为改变(Gauthier et al.,2014; Miller et al.,2014; Somkuwar et al.,2016)。延迟折扣任务(delay discounting task,DDT)是一个跨物种的决策冲动检测范式，广泛用于测量人类、灵长目类和啮齿类对延迟的容忍度(Aparicio et al.,2019; Orduna& Mercado,2017; Sackett et al,2019;Vanderveldt etal.,2016)。DDT 是指奖励的主观价值会随着等待时间的延长而降低，即由于奖励的延迟而使奖励的价值贬值，当延迟变得太长时，个体会将他们的偏好从一个大的延迟奖励转变为一个较小的、即时的奖励，个体对延迟大奖赏的选择百分比通常被认为是一种决策冲动指数，可以用来衡量个体在不同延迟时间下的决策冲动水平(Steele etal.,2018;Vanderveldt et al., 2016).
+
+结合行为学和电生理方法，本研究采用ADHD 动物模型 SHR大鼠并特异性地在mPFC和 NAc植入微电极，利用多通道在体电生理技术记录清醒大鼠mPFC 和NAc在DDT首次选择、连续选择以及试次转换过程中的局部场电位(local field potential,LFP)活动及其在Theta(4\~12Hz)频带中的相干值，针对性地探讨 mPFC-NAc 神经环路活动在 ADHD 病理机制中的作用。局部场电位的相干值是指相同频率的两个振荡之间相位差的相对恒定性，反映脑区之间的协同性活动。以往的研究证实，前额皮层与皮层下结构之间在 Theta(4\~12Hz)频段的协同振荡活动可以促进目标导向任务中脑区之间的通信(Donnelly et al.,2014;Moorman &Aston-Jones,2015; Sackett et al.,2019;Womelsdorf et al.,2007)。因此，本研究利用相干值计算mPFC-NAc局部场电位在神经环路中的功能联系紧密程度，进而分析mPFC-NAc功能联系紧密程度与DDT任务选择的关键事件(包括编码整合、奖赏价值计算、对结果的预期以及根据结果进行策略转换等)的关系，以探讨ADHD 决策冲动异常的认知和神经机制。
+
+# 2 实验材料与方法
+
+# 2.1实验动物及饲养条件
+
+为了探讨内侧前额皮层-伏隔核环路在ADHD 模型大鼠决策冲动中的作用，本研究设计了模型组和对照组两组。根据常用的实验动物实验样本量测算方法(Charan etal.,2013)，通过方差分析的自由度(E)进行样本量估算： $\operatorname { E } =$ 各组实验动物之和-组数，E的取值范围应在10\~20 之间，因此初步估算每组样本量应至少6只。同时考虑到本实验周期长，在行为检测、立体定位手术准确性以及电生理检测等实验过程中可能出现的损耗情况，为保证最终有效数据满足统计分析要求，购买对照组大鼠14只，模型组大鼠10只。
+
+实验采用雄性WIS 大鼠14只和 SHR大鼠10只(鼠龄6周，体重为250\~350g)，购自北京维通利华实验动物有限公司。动物到达后适应环境1周，期间自由进食进水，环境温度$2 4 { \pm } 1 ^ { \circ } \mathrm { C }$ ，12h光照/黑暗周期，实验在光周期内完成。首先进行自发活动量测定，然后WIS大鼠和 SHR大鼠各10 只进行DDT任务训练。WIS 组有2只大鼠因饲养过程中死亡被剔除，SHR 组有2只大鼠因脑定位不准确被剔除，最后两组大鼠各有8只进行了电生理数据记录。所有实验程序均经过“首都师范大学心理学伦理委员会”审核(批准号：CNU-202007001),实验程序的执行符合有关动物保护和使用条例。
+
+# 2.2实验装置
+
+动物自发活动量测试在自发活动箱(locomotive activity)中完成，活动箱尺寸：350$\mathrm { m m } { \times } 3 5 0 \mathrm { m m } { \times } 3 5 0 \mathrm { m m }$ ，采用视频分析系统记录实时运动轨迹，跟踪分析大鼠水平移动距离。
+
+DDT行为学训练和术后电生理测试均在行为学操作箱 $( 3 0 . 5 \mathrm { c m } \times 2 4 \mathrm { c m } \times 2 1 \mathrm { c m }$ ；MEDAssociates,Inc.，型号 ENV 008-VP)中进行。操作箱置于隔音箱内，隔音箱配有风扇以保持通风并提供背景噪音。操作箱内有两个可伸缩式杠杆，杠杆对侧设有一个房灯和声音发生器(MED Associates,Inc.，型号ENV-224DM)。MED 行为学操作箱系统和计算机连接进行刺激的呈现和数据的收集。电生理记录设备采用Cerebus 64导多通道神经信号采集系统(Blackrock，美国)，包括放大器单元和信号采集单元。
+
+# 2.3实验程序
+
+整个实验程序如图1所示，主要包括以下阶段：
+
+![](images/11d43bcc459fecd83a41d60f420aacaa7555acaa1d997b729ffeb73d1f522604.jpg)  
+图1实验程序A.实验流程图。B.DDT任务流程图。C和D.分别为mPFC和NAc 电极植入位点示意图和尼氏染色图。
+
+# 2.3.1适应期
+
+大鼠适应实验室环境1周，适应期间实验人员每天抚摸捉拿，减少实验时的焦虑和应激反应。自发活动测试和行为训练前，将大鼠分别放入自发活动箱和MED行为操作箱各30分钟，自由活动以适应箱体环境。
+
+# 2.3.2自发活动量测试
+
+动物适应自发活动箱3天后，第4天开始进行自发活动量测试，测试时间为30分钟，连续测试3天。
+
+# 2.3.3行为训练期
+
+自发活动量测试结束后开始限食，每只每天进食数量随体重状况而改变(给食 $1 0 { \sim } 1 5 \mathrm { g } /$ 天)，限食过程中自由饮水，当大鼠体重降至自由摄食时体重的 $8 0 \% { \sim } 9 0 \%$ 后开始行为训练。
+
+压杆训练：训练大鼠学会按压左、右杠杆。操作箱房灯亮，同时伸出左右杠杆，大鼠按压任何一侧杠杆均可立即获得1颗食丸，以连续5天在30分钟内左、右杠杆各按压 50次(共100 颗食丸)为达到标准，任何一侧达到 50次则杠杆缩回，指示灯熄灭，全部完成则房灯熄灭。
+
+线索识别任务：训练大鼠习得不同的声音线索。将声音线索分别与左、右杠杆相匹配，包括2种声音：78dB、 $3 0 0 0 \mathrm { H z }$ 的纯音和80dB、 $8 0 0 0 \mathrm { { H z } }$ 的纯音。MED箱房灯亮起后，随机响起一种声音，大鼠需要按压相匹配的杠杆才能获得1颗食丸，若错误按压非匹配的杠杆则无食丸奖赏，杠杆收回,若在规定时间8s 内没有按压杠杆,则杠杆收回，计为漏选(omission).每个试次持续 20 秒，共计180个试次，约 $6 0 \mathrm { { m i n } }$ 。同样的声音不会连续出现三次，2种声音线索出现的次数相同。声音在大鼠之间被平衡，左右按压正确率达到 $80 \%$ 以上，且连续5天达到该水平则可进入下一阶段。
+
+# 2.3.4电极植入手术期
+
+待大鼠习得声音线索识别任务后，对其进行开颅手术，植入2组由直径 $2 5 \mu \mathrm { m }$ 的镍铬合金丝(California Fine Wire Co., Grover Beach,USA)组成的 $2 { \times } 4$ 微电极阵列，两组矩阵中心之间的距离为 $1 . 4 1 \mathrm { m m }$ ，两组电极的长度相差 $3 . 5 \mathrm { m m }$ ，电极丝间距约为 $1 0 0 \mu \mathrm { m }$ ，每组电极阵列的横截面积约为 $0 . 6 \times 0 . 8 \mathrm { m m } ^ { 2 }$ 。大鼠手术前限食12小时，按 $4 0 \mathrm { m g / k g }$ 的剂量腹腔注射戊巴比妥钠，待大鼠麻醉后将头部固定在立体定位仪(Stoelting,USA)上进行开颅和目标脑区定位，按照Paxinos 和 Watson 的脑立体定位图谱(Paxinos ＆Watson,2004)，以 Bregma 点为参考,mPFC中心坐标选取PL的位点：前凶前 $+ 2 . 5 { \sim } 3 . 5 \mathrm { m m }$ ，旁开 $0 . 1 { \sim } 1 . 0 \mathrm { m m }$ ，从大脑表面深入$2 . 7 { \sim } 3 . 2 \mathrm { m m }$ 。NAc中心坐标为前凶前 $+ 0 . 7 { \sim } 2 . 7 \mathrm { m m }$ ，旁开 $0 . 5 { \sim } 2 . 0 \mathrm { m m }$ ，深入 $6 . 3 { \sim } 7 . 0 \mathrm { m m }$ 。通过电动步进式微推进器(Narishige，日本)将电极缓慢推进到达目标脑区( ${ \mathrm { 1 0 0 } } { \mu \mathrm { m / m i n } } )$ ，每推进${ 5 0 0 } \mu \mathrm { m }$ 暂停5分钟，参考电极置于目标脑区附近的组织内。在上述区域周围安置4\~6个不锈钢螺钉用以固定并用牙托水泥将电极固定在颅骨上。
+
+# 2.3.5手术后恢复期
+
+大鼠手术后为预防感染肌肉注射氨苄青霉素8万单位/天，连续一周。手术后自由摄食给水。恢复期过后，对大鼠进行声音线索识别任务的恢复训练，若连续3天大鼠正确选择比率恢复到术前水平，并且偏好相同、错选≤ $20 \%$ 、漏选≤ $5 \%$ ，随即进入DDT任务训练阶段。
+
+# 2.3.6DDT训练阶段
+
+DDT 任务分3个组块(见图1B)，每个组块包括30个试次。每个组块的前10个试次是强迫选择(一种纯音对应一个正确杠杆)，后20个试次是自由选择(随机呈现白噪音，大鼠在左、右杠杆中自由选择)。每个试次的流程如下：在迫选试次中，声音1持续呈现3秒，杠杆伸出，按压左杠杆立即获得1颗食丸；按压右杠杆则无奖励。声音2持续呈现3秒，杠杆伸出,按压右杠杆,在延迟时间后才能获得3颗食丸(不同组块延迟时间分别为0s、10s、20s),按压左杠杆无奖励。在自选试次中，声音3(白噪音)持续呈现3秒，两杠杆均伸出，大鼠可以自由选择左或者右杠杆，分别对应不同的奖励。大鼠做出选择后杠杆收回，房灯熄灭，试次结束。不同声音在大鼠之间进行平衡，以伪随机序列呈现，同样的声音不会连续出现三次。实验中，非提示线索下的杠杆按压都没有奖励并算作错误试次。如果动物在8秒内没有对任何一个杠杆做出反应，那么两个杠杆都会缩回，该试次计为遗漏。每个试次的持续时间为35s，共90个试次，持续时间为 $5 2 \mathrm { m i n }$ 。将每个试次按照时间顺序分为以下几个时间段(见图2)：基线期(-3\~0s)、预期期(0\~3s)、动作期(3\~6s)、奖赏期 $\left( 6 \mathrm { s } \{ \sim \} \right)$ 。
+
+DDT 任务训练达标的标准是：A．大鼠在自由选择试次中按杆比例达到 $80 \%$ 以上；B.延迟时间为0s时，大鼠在自由选择试次中选择大额奖赏杆的比例达到 $70 \%$ 以上；C．训练成绩稳定：选取训练阶段最后3个实验周期的数据，运用两因素重复测量方差分析考察不同实验周期和延迟时间对大鼠延迟大奖赏选择比例的影响，如果延迟时间的主效应显著，实验周期的主效应、实验周期和延迟时间的交互作用均不显著，则表明训练成绩是稳定的。
+
+# 2.3.7电生理记录
+
+大鼠学习DDT任务过程中，利用 MED行为学操作箱和Cerebus 64导多通道神经信号采集系统同步记录大鼠的行为学数据和电生理数据。脑电信号首先进入放大器单元，进行5000 倍的放大，后经过A/D 转换变成数字信号，通过光纤传输进人NSP信号处理单元。局部场电位记录的采样率为1K/s，滤波范围为 $0 . 5 { \sim } 5 0 0 \mathrm { H z }$ 。所采集到的信号被储存在计算机内以待进一步分析。
+
+# 2.3.8组织学处理
+
+实验完成后，将电极通道两两配对分别通正负双向的直流电流 $( 4 \mu \mathrm { A } ; ~ 2 0 \mathrm { s } )$ 对电极位点进行损毁标记。然后用 $0 . 1 \mathrm { m L } 3 0 \%$ 水合氯醛溶液麻醉(剂量 $0 . 5 \mathrm { m g / k g ) }$ ，灌流取脑，并将其置于$10 \%$ 的福尔马林固定液中进行后固定。固定10\~14天后置于 $30 \%$ 或 $1 0 \% { - } 2 0 \% { - } 3 0 \%$ 蔗糖溶液中进行梯度脱水，待脑组织完全下沉，用O.C.T.包埋剂常温包埋，用冰冻切片机(Leica,德国）将脑组织进行切片，切片厚度为 ${ 5 0 } \mu \mathrm { m }$ 。将脑切片放入烘干机干燥8小时后进行结晶紫尼式染色。最后在显微镜下观察电极位点以确保是否准确定位到目标核团，在显微镜下采集图像并保存。
+
+将组织学切片观察结果与大鼠脑立体定位图谱进行对照，确认电极位点是否准确。剔除电极定位不准确的 SHR大鼠2只，最终各有8只WIS 和 SHR大鼠的mPFC 和NAc的电极位点位于核团内，每个电极 $( 2 { \times } 4$ 阵列)选取中间对角线的两个位点绘制电极位置图(见图1C、D)。经组织学检查有效的动物在DDT任务中的行为学和电生理数据进行进一步的分析。
+
+# 2.4数据处理与统计分析
+
+使用Microsoft Excel、SPSS22.0对行为学指标进行整理及统计分析，利用独立样本t检验分析比较两组大鼠自发活动量的差异,重复测量方差分析对不同组块下的选择偏好进行差异分析。在每个延迟组块(0s、10s、20s)中，计算大鼠自选时选择延迟大奖赏百分比来表示大鼠选择偏好(如公式1)，选择延迟大奖赏选项的比例越低，决策冲动程度就越高。
+
+延迟大奖赏次数延迟大奖赏选择率 $\varXi$ -×100立即小奖赏次数+延迟大奖赏次数
+
+(公式1)
+
+根据行为学结果，记录大鼠在延迟10s的组块中mPFC和NAc脑电信号，使用NeuroExplorer5(Neuralynx,USA)和MATLAB(MathWorks,USA)对每个通道记录的局部场电位功率谱(power SpectralDentities,PSD)进行时间-频率分析，形成局部场电位时-频功率谱，利用配对样本t检验比较基线期与预期期的功率谱差异，时-频功率谱计算方法为以下公式：
+
+$$
+\begin{array}{c} \begin{array} { l l } { { S ( f ) = \displaystyle \frac { 1 } { K } \sum _ { k = 1 } ^ { K } \left| x _ { k } ( f ) \right| ^ { 2 } } } & { { \mathrm { ( ~ } \displaystyle \iint \partial _ { t } \overline { { { x } } } \mathrm { d } \overline { { { x } } } \mathrm { d } f \mathrm { ) } ^ { 2 } } } \\ { { { } } } & { { { } } } \\ { { { \displaystyle x _ { k } ( f ) = \sum _ { t = 1 } ^ { T } w _ { t } ( k ) x _ { t } e ^ { - 2 \pi i f t } } } } & { { \mathrm { ( ~ } \displaystyle \iint \partial _ { t } \overline { { { x } } } \mathrm { d } \overline { { { x } } } \mathrm { d } f \mathrm { ) } } } \end{array} \quad \quad \quad \quad  { \scriptstyle ( \mathrm { ~ } \displaystyle \iint \partial _ { t } \overline { { { x } } } \mathrm { d } \overline { { { x } } } \mathrm { d } f ) = 0 . }  \end{array}
+$$
+
+公式2是在公式3基础上计算功率值，公式3是对信号进行傅立叶变换，将时域上信息转化为频域上的信息；其中 $T$ 是信号总时间， $w _ { t } ( k )$ 是计算功率的窗口长度， $x _ { t }$ 是信号， $k$ 代表该窗口函数序列， $f$ 代表频率， $e$ 为自然对数。
+
+将分别位于mPFC 和NAc 两个脑区的 $2 \times 4$ 电极阵列的8个触点进行两两配对。配对完成后，选取不相邻电极的部分配对结果进行统计，并根据不同事件对两个脑区的局部场电位进行相干分析。使用 MATLAB(2015a)信号处理工具包Chronux;参数设置为:window size=1s;time step $\scriptstyle 1 = 5 0 { \mathrm { m s } } .$ tapers $^ { = 5 }$ ; bandwidth $\scriptstyle { \mathfrak { = } } 3 \operatorname { H z }$ 。以 $5 0 \mathrm { m s }$ 步进式地取1s窗口的局部场电位数据进行叠加平均，这样形成以1s为中心点并以 $5 0 \mathrm { m s }$ 步进的时-频相干值。相干值计算方法为以下公式 $( x _ { k }$ 和 $y _ { k }$ 是公式3计算的功率值)：
+
+$$
+S _ { \mathrm { X Y } } ( f ) = \frac { 1 } { K } \sum _ { k = 1 } ^ { K } x _ { k } ( f ) y _ { k } ( f )
+$$
+
+(公式4)
+
+$$
+C _ { X Y } ( \hat { \pmb { \mathscr { H } } } = \frac { S _ { X Y } \ ( \pmb { \mathscr { f } } ) } { \sqrt { S _ { X X } S _ { Y Y } \ ( \pmb { \mathscr { f } } ) } }
+$$
+
+(公式5)
+
+$S _ { x x }$ 和 $S _ { y y }$ 分别代表两个通道经公式4计算得出的功率值，C代表的是两脑区的相干值。不同试次的预期期 $( 0 { \sim } 3 \mathrm { s } )$ Theta 频段相干值均减去基线期(-3\~0s)的相干值均值进行基线矫正。利用两因素重复测量方差分析比较不同选择类型下两脑区Theta频段相干值的差异，分析以下四种情况时的局部场电位信号： $\textcircled{1}$ 首次选择：上一个试次为漏选，下一个试次为延迟/立即选择时，则为首次选择；或连续两次选择相同时，则第一个试次为首次选择。 $\textcircled{2}$ 连续选择：连续两次选择相同时，则选择第二个试次作为连续选择。 $\textcircled{3}$ 试次转换：上一个试次选择立即奖赏，下一个试次选择延迟奖赏时，则选择延迟奖赏的试次为试次转换。
+
+# 3实验结果
+
+# 3.1WIS和SHR大鼠的行为表现
+
+独立样本t检验分析显示实验组 SHR 大鼠的自发活动量显著高于对照组WIS 大鼠，两组大鼠的自发活动量存在显著差异( $\scriptstyle ( 2 0 ) = 6 . 8 2$ ， $p { < } 0 . 0 0 1$ )，表明 SHR大鼠自发活动量较多(图2A)。
+
+![](images/29b8a9dd1357fdb83f56b097de004d356fab9f4561b028a772452e5aeb0620be.jpg)
+
+图2WIS与 SHR大鼠的行为学和电生理活动 A.SHR 组自发活动量显著高于WIS组。B.(i)在DDT任务中，随着延迟时间的增加两组大鼠对延迟大奖赏选择百分比逐渐降低，延迟时间为0s时，SHR大鼠对延迟大奖赏的选择率与WIS 组大鼠相比无差异，延迟时间为10s、20s时，SHR大鼠选择率均低于WIS 组大鼠。(ii)比较两组大鼠在延迟10s 条件下的直线下降斜率,发现SHR大鼠下降幅度明显高于对照组WIS 大鼠。C.决策过程中两组大鼠的mPFC和NAc在 $6 { \sim } 1 2 \mathrm { H z }$ 频段的功率谱变化。横坐标是频率，纵坐标是功率谱大小,单位是logofPSD(dB)。D.两组大鼠的 mPFC和NAc 在基线期与预期期 $6 { \sim } 1 2 \mathrm { H z }$ 频段功率谱比较。E.两组大鼠的 mPFC 和NAc 的时-频分析功率谱(WIS, $n { = } 8$ ; SHR, $n { = } 8$ )。F.mPFC-NAc 的 Theta 频段相干值随着时间的变化情况。横坐标以线索呈现时刻点为0点，灰色方框表示预期期 $( 0 { \sim } 3 \mathrm { s } )$ 。G.预期期mPFC-NAc 的Theta 频段相干值统计直方图。H.mPFC-NAc 的 Theta频段相干值的时-频分析图(WIS, $n { = } 8$ ；SHR, $n { = } 8$ ）$M \pm S E M$ ，\*表示 $\scriptstyle { p < 0 . 0 5 }$ ， $^ { * * }$ 表示 $p { < } 0 . 0 1$ ， $\ast \ast \ast$ 表示 $p { < } 0 . 0 0 1$ 。
+
+在DDT任务中，对延迟大奖赏选择百分比进行2(组别：WIS 组和 SHR 组) $\times 3 ($ 延迟时间：0s、10s、20s)两因素重复测量方差分析(图2B(i))，发现组别主效应显著 $( F ( 1 , 1 4 ) = 1 5 . 5 6 \$ $\scriptstyle { p = 0 . 0 0 1 }$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 5 3 )$ ，SHR大鼠对延迟大奖赏选择百分比显著低于WIS 大鼠。延迟时间主效应显著 $( F ( 2 , 2 8 ) { = } 8 3 . 0 6 \$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 8 6 )$ ，不同延迟时间(0s、10s、20s)下的延迟大奖赏选择百分比存在显著差异，延迟0s 时延迟大奖赏选择百分比最大，延迟20s 时延迟大奖赏选择百分比最小。组别 $\times$ 延迟时间交互作用显著 $( F ( 2 , 2 8 ) \overline { { = 6 . 7 6 , p = 0 . 0 0 4 } }$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 3 2 )$ 。进一步简单效应分析显示，在延迟0s条件下，SHR 组对大奖赏选择百分比与WIS 组相比无显著差异 $( F ( 1 ,$ $1 4 ) { = } 0 . 1 1$ ， $\scriptstyle { p = 0 . 7 5 0 }$ ， $\mathfrak { n } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 0 8 )$ ；在延迟10s 条件下，SHR 组延迟大奖赏选择百分比显著低于WIS 组 $( F ( 1 , 1 4 ) = 2 5 . 0 8$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathsf { p } } ^ { 2 } { = } 0 . 6 4 )$ ；在延迟20s条件下，SHR 组延迟大奖赏选择百分比显著低于WIS 组 $( F ( 1 , 1 4 ) { = } 5 . 5 7$ ， $\scriptstyle { p = 0 . 0 3 3 }$ ， $\scriptstyle \eta _ { \mathsf { p } } ^ { 2 } = 0 . 2 9 )$ 。结果表明，延迟0s条件下，SHR 大鼠和对照组WIS 大鼠均倾向于立即大奖赏。随着延迟时间(10s、20s)的增加，SHR大鼠较对照组WIS 大鼠对延迟大奖赏的选择率下降更加明显，如图 2B(ii)所示，对两组大鼠在延迟10s条件下的直线下降斜率进行独立样本 $t$ 检验发现，SHR大鼠下降幅度明显高于对照组WIS大鼠 $( t ( 1 4 ) = 3 . 3 1$ ， $\scriptstyle { p = 0 . 0 0 5 }$ ，说明 SHR大鼠延迟折扣较大，更加倾向于立即做出选择，不能容忍延迟时间，表现为较高水平的决策冲动。
+
+# 3.2WIS 和SHR大鼠mPFC和NAc的功能耦合
+
+# 3.2.1mPFC和NAc局部场电位振荡活动
+
+局部场电位功率谱密度分析发现，决策过程中两组大鼠的mPFC 和NAc局部场电位在
+
+$6 { \sim } 1 2 \mathrm { H z }$ 频段显著增加(图 2C、D、E)。配对样本 $t$ 检验结果显示，在决策任务的预期期，与基线期相比WIS 大鼠 mPFC 和 NAc 在 $6 { \sim } 1 2 \mathrm { H z }$ 频段功率谱密度显著增强 $( t ( 3 0 0 ) = - 5 1 3 . 2 7$ $p { < } 0 . 0 0 1$ ， $t ( 3 0 0 ) { = } { - } 2 8 5 . 7 4$ ， $p { < } 0 . 0 0 1 \$ )。同样的，SHR大鼠的 mPFC 和 NAc 功率谱密度也增强（204号 $( t ( 3 0 0 ) { = } { - } 8 6 . 3 1$ ， $\scriptstyle { p < 0 . 0 0 1 }$ ·， $t ( 3 0 0 ) { = } { - } 2 5 1 . 0 5$ ， $\scriptstyle { p < 0 . 0 0 1 }$ )。结果提示在预期期mPFC 和NAc 6\~12Hz频段的振荡活动均增加。
+
+3.2.2在立即和延迟选择时，两组大鼠mPFC-NAc 局部场电位Theta频段相干值差异显著
+
+在延迟0s 条件下，两组大鼠对大奖赏的选择百分比没有显著差异，进一步比较两组大鼠在选择大奖赏时mPFC-NAc Theta 频段相干值，发现 SHR大鼠与WIS 大鼠之间无显著性差异 $( t ( 1 0 6 ) \substack { = 1 . 5 4 , p = 0 . 1 2 7 } )$ ，说明两组大鼠的相干值没有基础差异。在10s和20s 的延迟时间下两组大鼠对延迟大奖赏选择百分比均有显著差异，表现出明显的选择偏好。为了进一步探讨两组大鼠在DDT 任务中的电生理活动差异，我们选取两组大鼠在延迟10s 组块中选择延迟大奖赏和立即小奖赏时的电生理数据进行分析。如图 2F、G、H所示，在预期期两组大鼠mPFC-NAc 局部场电位的 Theta频段相干值呈现明显增强(图 2F、H)。进一步进行2(组别：WIS 组和 SHR 组) $\times 2$ (选择类型:立即小奖赏和延迟大奖赏)两因素重复测量方差分析(图 2G),发现组别的主效应显著 $( F ( 1 , 1 0 4 ) { = } 4 8 . 1 7$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 3 2 \mathfrak { z }$ ，SHR 组mPFC-NAc 的 Theta频段相干值显著低于WIS 组。选择类型的主效应显著 $( F ( 1 , ~ 1 0 4 ) = 1 4 3 . 2 9$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 5 8 )$ 延迟大奖赏的 mPFC-NAc 的 Theta 频段相干值显著高于立即小奖赏。组别 $\times$ 选择类型交互作用显著 $( F ( 1 , ~ 1 0 4 ) = 1 1 0 . 6 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 5 2 )$ 。进一步简单效应分析显示，在WIS 组中,选择延迟大奖赏的预期期相干值显著高于立即小奖赏 $( F ( 1 , 1 0 4 ) = 2 5 2 . 9 0$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 7 1 \}$ 而 SHR 组选择延迟大奖赏预期期相干值与立即小奖赏预期期相干值无显著差异 $( F ( 1 , \ 1 0 4 ) =$ 1.05， $p { = } 0 . 3 1$ ， $\mathfrak { n } _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 1 \rangle$ 。选择立即小奖赏条件下，SHR大鼠 Theta 频段mPFC-NAc 预期期相干值与WIS 大鼠无显著差异 $( F ( 1 , ~ 1 0 4 ) { = } 0 . 6 8 \$ ， $p { = } 0 . 4 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 0 6 )$ 。选择延迟大奖赏条件下，SHR 大鼠 Theta 频段相干值显著低于WIS 大鼠 $( F ( 1 , \ 1 0 4 ) = 1 1 9 . 5 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 5 3 )$ 结果说明在预期期大鼠选择延迟大奖赏条件时，SHR组mPFC-NAc两脑区之间的功能联系显著低于WIS 组，因此 SHR大鼠在预期期对信息的编码、整合以及对结果的预期不够充分，从而导致了在决策过程中更多地选择立即小奖赏，表现为决策冲动。
+
+# 3.3首次和连续选择时两组大鼠mPFC-NAc局部场电位的Theta频段相干值差异显著
+
+选取DDT任务中延迟10s组块的预期期mPFC 和NAc局部场电位数据，分析无论是选择立即小奖赏还是选择延迟大奖赏时，大鼠进行首次选择和连续选择时mPFC-NAc 局部场电位Theta 频段的相干值，探讨 mPFC-NAc功能联系在信息加工深度中的作用。
+
+![](images/e681009a5ac33b743f7d1d5dd73637484c74aa32211a41f6c1f179eeed74ab37.jpg)  
+3.3.1在选择立即小奖赏时，两组大鼠首次选择和连续选择时的mPFC-NAc局部场电位 Theta频段相干值差异显著   
+图3 首次和连续选择时 mPFC-NAc 局部场电位的 Theta 频段相干值 A.在选择立即小奖赏时，两组大鼠首
+
+次选择和连续选择时的mPFC-NAc局部场电位Theta频段相干值随着时间的变化情况。横坐标以线索呈现时刻点为0点，灰色方框表示预期期(0\~3s)。B.两因素重复测量方差分析显示，WIS 组和SHR 组首次选择时的mPFC-NAc Theta 频段相干值均显著高于连续选择时。首次选择时两组大鼠之间均没有显著差异，而在连续选择时，SHR 组的 mPFC-NAc Theta 频段相干值显著低于WIS 组。C.mPFC-NAc 两个脑区Theta 频段相干值的时-频分析图(WIS, $n { = } 8$ ； SHR, $n { = } 8$ )。D.在选择延迟大奖赏时，两组大鼠首次选择和连续选择时的mPFC-NAc 局部场电位Theta频段相干值随着时间的变化情况。E.两因素重复测量方差分析显示，WIS组和 SHR 组首次选择时的mPFC-NAc的Theta频段相干值均显著高于连续选择时，无论是首次选择还是连续选择，SHR 组的 mPFC-NAc 的 Theta 频段相干值均显著低于WIS 组。F.mPFC-NAc 的 Theta 频段相干值的时-频分析图(WIS, $n { = } 8$ ；SHR, $n { = } 8$ 。 $M \pm S E M$ ，\*表示 $\scriptstyle { p < 0 . 0 5 }$ ， $\ast \ast \ast$ 表示 $p { < } 0 . 0 0 1$ 。
+
+如图3A、B、C所示，采用2(组别：WIS组和SHR组) $\times 2 0$ （选择类型：首次选择和连续选择)两因素重复测量方差分析，发现两组大鼠mPFC-NAc Theta频段相干值组别主效应显著 $( F ( 1 , 1 0 6 ) { = } 2 1 . 0 8 \$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 1 7 \$ ，SHR 组的相干值显著低于WIS 组。选择类型主效应显著 $( F ( 1 , 1 0 6 ) { = } 9 3 2 5 . 6 7$ ， $p { < } 0 . 0 0 1$ ， $\displaystyle \boldsymbol { \eta } _ { \mathrm { p } } ^ { 2 } { = } 0 . 9 9 )$ ，首次选择时的相干值显著高于连续选择。组别 $\times$ 选择类型交互作用显著 $( F ( 1 , 1 0 6 ) = 2 8 . 5 1 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 2 1 )$ 。进一步简单效应分析显示，WIS 组首次选择立即小奖赏的 mPFC-NAc Theta 频段相干值显著高于连续选择 $( F ( 1 ,$ 106)=4161.49, $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 9 8 )$ ；同样的，SHR 组在首次选择的相干值也显著高于连续选择 $( F ( 1 , ~ 1 0 6 ) { = } 5 1 9 2 . 6 1 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 9 8 )$ 。在首次选择立即小奖赏条件下，SHR大鼠预期期 mPFC-NAc Theta 频段相干值与WIS 大鼠无显著差异 $( F ( 1 , 1 0 6 ) { = } 0 . 7 0$ $\scriptstyle { p = 0 . 4 0 }$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 0 0 7 )$ （在连续选择立即小奖赏条件下，SHR 大鼠 Theta 频段相干值显著低于WIS 大鼠 $( F ( 1 , \ 1 0 6 ) =$ 84.53， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 4 4 )$
+
+# 3.3.2在选择延迟大奖赏时，两组大鼠首次选择和连续选择时的mPFC-NAc局部场电位 Theta频段相干值差异显著
+
+如图3D、E、F所示，对两组大鼠mPFC-NAc 的Theta 频段相干值数据进行2(组别：WIS组和SHR组) $\times 2 ($ 选择类型：首次选择和连续选择)两因素重复测量方差分析，发现组别主效应显著 $( F ( 1 , 1 0 8 ) = 5 6 . 6 2 , p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 3 4 )$ ，SHR 组的相干值显著低于WIS组。选择类型的主效应显著 $( F ( 1 , 1 0 8 ) { = } 5 8 2 3 . 9 0$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 9 8 )$ ，首次选择的相干值显著高于连续选择。组别 $\times$ 选择类型交互作用显著 $( F ( 1 , 1 0 8 ) = 3 8 . 6 9 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 2 6 )$ 。进一步简单效应分析显示，WIS 组首次选择时的mPFC-NAc 的Theta 频段相干值显著高于连续选择 $( F ( 1 ,$ 108)=3469.04, $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 9 7 \}$ ；同样的，SHR 组在首次选择奖赏的预期期相干值显著高于连续选择立即小奖赏的预期期相干值 $( F ( 1 , 1 0 8 ) { = } 2 4 1 2 . 7 5 \$ ， $p { < } 0 . 0 0 1$ ， $\displaystyle \boldsymbol { \eta } _ { \mathrm { p } } ^ { 2 } { = } 0 . 9 6 )$ 。在首次选择延迟大奖赏条件下，SHR 大鼠预期期 Theta 频段mPFC-NAc 相干值显著低于WIS 大鼠 $( F ( 1 ,$ $1 0 8 ) { = } 1 0 5 . 8 6$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 5 0 )$ 。在连续选择延迟大奖赏条件下，SHR大鼠Theta 频段相干值显著低于WIS 大鼠 $( F ( 1 , \ 1 0 8 ) { = } 6 . 3 8$ ， $p { = } 0 . 0 1 3$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 6 )$ 。研究结果表明，不论是在立即还是延迟事件下，选择首次事件的mPFC-NAc预期期相干值均高于连续选择事件。在首次立即事件下，SHR 组的mPFC-NAc预期期相干值与WIS 组无显著差异，而在连续立即、首次延迟、连续延迟事件下，SHR 组的mPFC-NAc预期期相干值均显著低于WIS 组，提示不同信息加工深度下SHR 组神经网络脑功能联系不足。
+
+# 3.4试次转换时两组大鼠mPFC-NAc局部场电位的Theta频段相干值差异显著
+
+根据上述结果,大鼠在选择延迟大奖赏时的mPFC-NAc 局部场电位Theta 频段相干值比选择立即小奖赏时强，提示在选择延迟大奖赏时mPFC与NAc之间功能联系更密切，对决策信息进行了更深层次的加工，此时大鼠的决策冲动性较低。在此基础上，本研究进一步比较了大鼠在进行试次转换时(由选择立即小奖赏转换为选择延迟大奖赏)与不需要试次转换时(连续选择延迟大奖赏)的mPFC-NAc局部场电位在预期期的Theta频段相干值,分析mPFC和 NAc之间功能联系与决策的策略转换之间的关系，从而进一步探讨mPFC-NAc神经通路与决策冲动性之间的关系。
+
+如图4A、B、C所示，2(组别：WIS 组和 SHR组) $\times 2 0$ (选择类型：连续和转换)两因素重复测量方差分析结果表明，组别主效应显著 $( F ( 1 , ~ 1 1 0 ) { = } 1 4 6 . 5 1$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { n } _ { p } ^ { 2 } { = } 0 . 5 7 \mathrm { / }$ ，SHR组的相干值显著低于WIS 组。选择类型主效应显著 $( F ( 1 , 1 1 0 ) { = } 4 1 0 . 7 5$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 7 9 )$ ，转换试次的相干值显著高于连续试次的相干值。组别 $\times$ 选择类型交互作用显著 $( F ( 1 ,$ $1 1 0 ) { = } 5 . 0 6$ ， $\scriptstyle { p = 0 . 0 2 6 }$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 4 )$ 。进一步简单效应分析显示，WIS 组转换试次时的相干值显著高于连续试次 $( F ( 1 , ~ 1 1 0 ) { = } 2 5 3 . 5 0$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 7 0 )$ ；SHR 组在试次转换的相干值也显著高于连续试次相干值 $( F ( 1 , 1 1 0 ) { = } 1 6 2 . 3 1$ ， $p { < } 0 . 0 0 1$ ， $\displaystyle \eta _ { \mathrm { p } } ^ { 2 } = 0 . 6 0 )$ 。在连续试次中，WIS 组显著高于 SHR 组 $( F ( 1 , 1 1 0 ) { = } 4 5 . 6 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 2 9 )$ ；在转换试次中，WIS 组也显著高于 SHR组 $( F ( 1 , 1 1 0 ) = 1 5 4 . 0 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } \mathrm { = } 0 . 5 8 )$ 。说明 SHR 组大鼠mPFC与 NAc之间的功能联系减弱，在决策过程中的策略转换能力受损。
+
+# 3.5两组大鼠mPFC与NAc局部场电位Theta频段的相干差值对决策冲动的预测作用
+
+如图4D、E 所示，将大鼠在预期期选择延迟大奖赏时和立即小奖赏时的mPFC-NAc 局部场电位Theta频段的相干差值与延迟大奖赏选择率做回归分析，发现WIS 组大鼠在预期期 Theta 频段相干差值与延迟大奖赏选择率之间存在显著正相关 $( r { = } 0 . 6 5$ ， $F ( 1 , 2 2 ) = 1 5 . 4 6$ $p { < } 0 . 0 0 1$ ， $R ^ { 2 } { = } 0 . 4 2 \rangle$ ，说明mPFC-NAc 在预期期的相干差值越大，决策冲动水平越低。反之，SHR 组大鼠的mPFC-NAc 的 Theta频段相干差值与延迟大奖赏选择率之间不存在显著相关$( r = 0 . 3 3 ; F ( 1 , 2 7 ) = 3 . 1 2 , p = 0 . 0 8 9 ,$ ， $R ^ { 2 } { = } 0 . 1 1 \mathrm { \Omega }$ )，该结果说明SHR组mPFC-NAc在预期期的相干差值不能预测决策冲动水平。
+
+![](images/5f5521846e5d36ae27096db4949455cd68e9ad45d59aad188186f10dd755f468.jpg)
+
+图4 试次转换时mPFC-NAc局部场电位的Theta频段相干值 A.试次转换时两组大鼠mPFC-NAc 局部场电位Theta频段相干值随着时间的变化情况。横坐标以线索呈现时刻点为0点，灰色方框表示预期期(0\~3s)。B.两因素重复测量方差分析显示，WIS 组和SHR大鼠在转换试次时的相干值均显著高于连续试次；在转换试次和连续试次中，WIS 组的相干值均显著高于 SHR 组。C.mPFC-NAc 的 Theta 频段相干值的时-频分析图(WIS, $n { = } 8$ ；SHR, $n { = } 8$ 。 $M \pm S E M$ ， $* * *$ 表示 $p { < } 0 . 0 0 1$ 。D.WIS 组大鼠mPFC与NAc局部场电位Theta 频段的相干差值与延迟大奖赏选择率呈显著正相关。E.SHR大鼠mPFC与NAc局部场电位的相干差值与延迟大奖赏选择率之间不存在显著相关。
+
+# 4讨论
+
+与以往的研究结果一致(Aparicio et al.,2019;Marx et al.,2018)，我们证实 SHR 大鼠与WIS 对照大鼠相比表现出自发活动性明显增加(多动)，以及在DDT检测中对延迟大奖赏的选择百分比明显降低(决策冲动)的 ADHD 样行为改变,为进一步的研究提供了稳定的动物模型。伴随行为改变，观察到决策过程中关键事件相关的mPFC 和NAc Theta频段的局部场电位及相干值改变，主要表现为：WIS 组mPFC-NAc 的 Theta 频段相干值表现为延迟大奖赏选择时显著大于立即小奖赏选择时、预期期首次选择时大于连续选择时，以及转换试次时大于连续试次时，而 SHR大鼠在上述条件时的mPFC-NAc Theta相干值均低于对照组，且这一不足在延迟大奖赏时尤为明显。进一步的回归分析发现WIS 大鼠mPFC-NAc相干差值与延迟大奖赏选择率呈显著正相关，而 SHR大鼠的 Theta频段相干值的改变不能预测冲动性。这些结果表明，ADHD 动物模型大鼠决策冲动缺陷与mPFC 和 NAc 两脑区的功能联系减弱有关，可能是导致ADHD 决策冲动行为的神经环路基础。
+
+# 4.1mPFC-NAc功能联系减弱是ADHD决策冲动缺陷的重要环路基础
+
+本研究发现在行为水平，SHR大鼠在DDT中选择延迟大奖赏的比例更低，即表现出更高的决策冲动水平。与此同时，两组大鼠的mPFC 和NAc局部场电位Theta 频段震荡活动在预期期显著增强。进一步观察mPFC-NAc环路神经振荡活动在预期期的变化，发现WIS大鼠在选择延迟大奖赏时mPFC-NAc 局部场电位Theta 频段的相干值显著增加并且高于选择立即小奖赏时。与此不同，SHR 大鼠mPFC-NAc 的 Theta 频段相干值的增加幅度显著低于WIS组，且在选择立即小奖赏时两组之间没有差异。
+
+在决策任务中，线索呈现后至做出选择之前的这段预期期是个体对外界信息进行编码、整合以及价值预判的关键时期，很多研究发现在这一阶段的mPFC 和NAc 的神经振荡活动加强(Donnelly et al.,2014; Sackett et al.,2019；Wang et al.,2019)。与我们的发现一致,
+
+Donnelly 等(2014)采用5-CSRTT任务观察大鼠的冲动行为，也发现在线索呈现后的等待期和正确反应后，mPFC 和NAc局部场电位Theta $( 7 . 5 { \sim } 9 . 5 \mathrm { H z } )$ 频段的振荡功率均瞬时增强(Donnelly etal.,2014)。结合本研究的结果，这些一致提示在行为冲动和决策冲动中mPFC和 NAc 的 Theta 振荡参与了对奖励结果的预期。由于mPFC 和NAc局部场电位Theta频段的功率谱密度同时在预期期增强，提示两个脑区的 Theta 震荡可能存在某种协同关系，所以本研究进一步分析了mPFC-NAc局部场电位Theta 频段的相干值，发现WIS 大鼠在选择延迟大奖赏时 mPFC-NAc 局部场电位Theta频段的相干值显著增加并且高于选择立即小奖赏时，而且SHR大鼠与WIS 大鼠之间的 Theta 振荡相干值只有在选择延迟大奖赏时才出现差异。以上结果说明mPFC-NAc神经环路功能联系是控制决策冲动的重要结构，两个脑区之间的密切联系可以更好地衡量成本和收益并有效地控制决策冲动。而且，mPFC-NAc之间联系的强度可能与认知任务的强度和对信息的加工深度有关，选择延迟大奖赏时需要调用的认知资源要大于选择立即小奖赏时，因此选择延迟大奖赏时，SHR 大鼠mPFC-NAc 两脑区之间的功能联系的降低对行为选择的影响更大，导致 SHR大鼠在预期期对信息的编码、整合、价值计算以及对结果的预期不够充分，从而表现为决策冲动行为。
+
+神经振荡是中枢神经系统中一种节律性的神经活动，可以表现在各种频段，以往研究发现在决策任务中 Theta 和Gamma 频段与认知过程密切相关(Donnelly etal.,2014)，而各频段的震荡活动之间相互联系是不同脑结构之间进行信息传递与交流的神经机制(Friston et al,2015)。局部场电位是局部脑区神经元突触后电位的总和，局部场电位之间相干值的分析可以反映脑区间电压变化的方向一致性，从而反映不同脑区之间活动的协同性(Donnell et al.,2014;Wang et al.,2019)。以往研究认为，前额皮层(prefrontal cortex,PFC)和皮层下结构之间的特定频率的协同振荡活动可以促进目标导向任务中脑区之间的通信，其中mPFC神经元参与形成对即将发生的奖励事件的预测(Moorman& Aston-Jones,2015; Sackett et al.,2019),而 NAc 神经元参与对即将获得的奖励的价值计算以及提高等待延迟奖励的能力(Basar et al,2010; Steele et al.,2018)，mPFC-NAc 之间的协同活动对于决策过程中信息的编码、整合、价值计算以及对结果的预期具有重要作用(Donnelly et al.,2014; Narayanan et al.,2013;Wang etal.,2020)。以往研究也发现在 5-CSRTT 任务中mPFC与 NAc 之间存在 Delta(2\~5Hz)与Gamma( $\mathrm { 5 0 { \sim } 6 0 H z ) }$ 之间的相位振幅耦合，在错误触屏时的耦合较正确触屏时减少，说明选择错误时两脑区信息交流强度减弱(Donnelly et al.,2014）。本研究针对 mPFC-NAc 之间 Theta震荡的关系进行了分析,发现mPFC-NAc神经环路Theta频段震荡之间的信息交流减弱是导致 ADHD 决策冲动缺陷的重要原因，更进一步说明大脑网络活动异常是ADHD 的重要病理机制之一。此外，需要说明的是，本研究通过计算mPFC与NAc两脑区局部场电位之间的相干值可以反映两脑区之间电活动的协同性，但是不能说明信息的流动方向，这也是本研究的不足之处，未来可以进一步通过跨频耦合和格兰杰因果关系等数据分析方法进一步探讨mPFC与NAc在不同频率之间的调制关系以及两脑区之间的信息流动方向。
+
+# 4.2ADHD大鼠mPFC-NAc环路功能联系减弱导致其信息加工深度的不足
+
+本研究发现在选择立即小奖赏时，首次选择时 SHR大鼠和WIS 大鼠之间均没有显著差异，而在连续选择时，SHR 大鼠mPFC-NAc 的 Theta 频段相干值显著低于WIS 大鼠。但是在选择延迟大奖赏时，无论是首次还是连续选择，SHR 组的mPFC-NAc 的 Theta 频段相干值均显著低于WIS 组。
+
+跨期决策的双过程理论(Carpenter et al.,2015)认为决策过程中神经网络存在两种不同的激活模式，包括两个系统：受意识控制的、目标导向的理性分析系统和不受意识控制的、习惯化的自动加工系统，前者主要依赖于皮质-纹状体神经网络的协同活动，而后者则主要与皮质下的纹状体活动有关(Khader etal.,2016)。随后Piray 等人(2016)进一步利用脑影像学和数学计算模型相结合的方法发现PFC 和纹状体之间自上而下信息传递较强的个体在决策时能够更加准确地预测结果并且在目标导向性行为中可以更好地进行模块化加工,也就是说受意识控制的理性分析需要PFC与纹状体通路有紧密的功能联系，反之当PFC-纹状体环路连接强度较低时则主要进行非模块化加工，此时主要是非意识控制的习惯化加工系统(Piray etal.,2016)。Perez-Diaz 等人(2017)的研究发现大鼠的 mPFC 和背侧纹状体分别在受意识控制的行为和条件刺激引起的自动化行为的信息处理过程中起到不同的作用，如果mPFC 损伤可对受意识控制的过程产生影响，而纹状体病变则可导致自动加工过程受到损害(Perez-Diazet al., 2017)。
+
+本研究发现，不论是在立即小奖赏还是延迟大奖赏，两组大鼠首次选择时mPFC-NAc在预期期的 Theta振荡相干值均显著高于连续选择时,这一结果与双过程理论(Carpenter et al,2015)的观点相一致。根据双过程理论，首次选择较连续选择时需要加工和整合的信息更复杂，需要习得不同选项与奖励大小之间的关系并建立行为-结果联结，这一过程需要大脑进行更加复杂的神经网络活动，更多的是受意识控制的理性分析系统参与活动。而连续选择时更多的是习惯化的自动加工系统的参与，此时行为-结果联结已经形成自动化的加工模块，不需要预先考虑动作与结果之间的关系，而是随着声音线索的提示，无意识地重复上一次的选择，当自动加工系统活动时大鼠会更多地选择立即小奖赏(Zhao etal.,2019)。因此自动化加工需要调用的认知资源较少，相应mPFC与NAc之间的功能联结亦较弱。利用ADHD 动物模型 SHR大鼠，本研究发现在选择立即小奖赏时，首次选择时 SHR大鼠和 WIS 大鼠之间均没有显著差异，而在连续选择时，SHR 大鼠 mPFC-NAc 的 Theta 频段相干值显著低于WIS 大鼠，说明在进行较简单的决策活动时，并不需要调用过多的认知资源即可满足行为需求，此时更多的是无意识的、习惯化的自动加工系统在起作用，SHR大鼠在连续的自动化加工系统中的脑功能联系也较低。但是在选择延迟大奖赏时，无论是首次还是连续选择，SHR 组的mPFC-NAc 的 Theta频段相干值则显著低于WIS 组，说明当需要对信息进行更复杂、更深层次的加工时，mPFC-NAc之间的功能联系就更加重要，而 SHR大鼠mPFC-NAc之间的协同性不能满足复杂决策任务的需要，导致 SHR大鼠因为对外界信息加工整合的缺陷而造成行为控制的不足，从而进一步导致决策冲动行为。
+
+# 4.3ADHD大鼠mPFC-NAc环路功能联系减弱与其策略转换灵活性降低有关
+
+本研究发现WIS 组和 SHR大鼠在转换试次时的mPFC-NAc Theta频段相干值均显著高于非转换试次，说明 mPFC-NAc 神经网络的功能联系随着策略的转换而增强。个体行为需要从经验或试误中不断地进行策略转换以适应环境变化。以往研究发现，大鼠NAc和 mPFC中的神经元在执行交替奖励任务期间在奖励交付前的延迟中表现出活动的增加，能够区分对即将到来的食物或水奖励,提示 NAc 和 mPFC 在认知灵活性上发挥重要作用(Miyazaki et al.,2004; Narayanan et al.,2013)。大鼠在奖励标准发生变化的任务中做出决策，mPFC 神经元中的表征转变先于行为的变化。结果提示，mPFC 可能反映了动物的行动-选择策略。损伤大鼠的 NAc可以导致对奖励大小和延迟时间的敏感性下降，进一步造成策略转换的灵活性降低(Steele et al.,2018)。Bartolo 和 Averbeck(2020)最新研究发现，在反转学习任务中，记录灵长类动物PFC在反转试次的神经活动，发现其放电特征与贝叶斯推理策略相一致，可以随着任务的改变进行快速调整(Bartolo& Averbeck,2020)，说明 PFC 参与决策策略转换的灵活性。
+
+在神经振荡活动方面，已有研究发现在选择错误后的输转赢试次中，人类的PFC 以及大鼠PL 和前扣带回皮层出现12Hz以下的低频振荡活动，如果mPFC 失活则大鼠进行输转赢的行为调整能力受损，低频振荡消失(Narayanan etal.,2013)。目前认为不同的神经振荡频率与信息传递方式有关：自上而下或自下而上。由皮层发出的自上而下的信息传递形成的神经振荡频率较低，如Theta 振荡；而皮层下发出的自下而上形成的神经振荡频率较高，如Beta、Gamma 波段振荡(Friston etal.,2015)。在人类概率反转学习任务中，双侧 NAcTheta(4\~8Hz)频段局部场电位在输转赢试次时增强，提示 Theta振荡是反映策略转换灵活性的重要指标(Cohen et al.,2009)。有研究表明 ADHD 患者(或者 SHR 大鼠)认知灵活性下降(Gauthier et al.,2014)，但其神经机制尚不清楚。本研究发现，在转换试次中，SHR大鼠的mPFC-NAc Theta 相干值仍显著低于WIS大鼠，说明 SHR大鼠mPFC-NAc环路功能联系不足，这可能是导致 ADHD 策略转换灵活性下降等症状的原因之一。
+
+# 4.4预期期mPFC-NAc环路功能联系可以预测决策冲动
+
+决策过程中的预期期是对信息进行加工的重要阶段，包括编码整合、奖赏价值计算、对结果的预期以及根据结果进行策略转换等(Donnelly et al.,2014; Narayanan et al.,2013;Wanget al.,2020)，如果上述信息加工过程缺陷则可能造成决策冲动。我们前述研究发现在预期期的 mPFC-NAc环路 Theta 相干与信息加工深度和策略转换有关，因此 mPFC-NAc 环路 Theta相干的变化可能与决策冲动有密切关系。基于此，将mPFC-NAc环路 Theta相干变化值作为衡量脑功能联结变化的电生理指标，用延迟大奖赏选择率表示决策冲动，将两者之间进行回归分析。线性回归分析显示，WIS 组mPFC-NAc环路 Theta 相干差值与延迟大奖赏选择率呈显著正相关，即相十差值越低，决策冲动水平越高，说明在预期期的相十变化值可以预测决策冲动的大小：相干增加的程度越小，则动物的决策冲动性越大。Donnelly 等(2014)利用广义混合线性模型分析5-CSRTT任务中预期期的皮质-纹状体局部场电位和过早反应的关系，发现在预期期 mPFC 亚区缘前皮层 Theta(7.5\~9.5Hz)频段振荡和 NAc Gamma(50\~60Hz)频段振荡能够预测即将发生的过早反应(Donnelly etal.,2014)。最近，Wang 等人(2020)利用 fMRI发现正常成人在DDT 任务中的前额叶与纹状体的功能联结可以预测决策冲动(Wang et al.,2020)。利用功能连接性分析与向量回归分析方法，发现NAc 核部与mPFC 和背外侧前额皮层(dorsal lateral prefrontal cortex,DLPFC)之间的功能耦合可以预测个体的延迟折扣率，两者呈显著负相关趋势，即 NAc 核部与mPFC/DLPFC 之间功能耦合越强，延迟折扣率越低，个体决策冲动水平就越高。这些研究均支持本实验的结果，说明决策冲动可能在很大程度上依赖于 NAc-mPFC 环路的功能联系。本研究还进一步发现 SHR大鼠mPFC-NAc 环路 Theta 相干差值与延迟大奖赏选择率之间相关不显著，SHR 大鼠预期期的mPFC-NAc 相干变化值不能对决策冲动进行预测。说明 SHR组在决策预期阶段mPFC-NAc的相干耦合较低，反映了
+
+SHR 大鼠在决策信息加工和交流过程中对奖励大小或延迟时间的信息收集不充分，奖励价值计算过程中神经信号交流较弱，这种没有在脑区间达到一定强度的功能联系可能是导致ADHD 不良决策的原因之一。
+
+SHR 大鼠是一种高效度的 ADHD 动物模型，行为学上可以表现出 ADHD 的核心症状,脑内神经递质系统也呈现 ADHD 样病理生理改变，并且人类常用的治疗ADHD 的药物(如哌甲酯)可以改善 SHR 大鼠的 ADHD 样行为，为开展 ADHD 发病机制的研究提供了重要的实验基础(Fox et al.,2008；Somkuwar et al.,2016)。利用该模式动物，本研究发现 mPFC-NAc间功能联系减弱是ADHD决策冲动缺陷的重要神经环路基础,提示针对性地干预mPFC-NAc神经环路可能对 ADHD 的决策冲动异常具有改善作用，为人类ADHD 的治疗提供了新的思路。需要注意的是，SHR 大鼠在10 周龄以后会出现自发性高血压(Christiansen et al.,2002),这是否可能影响冲动性等行为，还需要在未来的研究中进一步探讨。
+
+# 5结论
+
+mPFC-NAc间功能联系是参与控制决策冲动的重要结构。在决策过程的预期期mPFC-NAc 局部场电位Theta频段的相干值改变可以预测决策冲动的高低。ADHD 动物模型大鼠mPFC-NAc之间功能联系不足是导致决策冲动缺陷的重要原因，该缺陷与其深度信息加工不足以及策略转换能力受损有关，这些可能是导致 ADHD 决策冲动的认知和环路基础。上述发现扩展和加深了对于ADHD 发病机制的认识，为改进治疗和干预策略提供了心理和神经生理依据。
+
+# 参考文献
+
+Asher,A.,& Lodge,D.J. (2012). Distinct prefrontal cortical regions negatively regulate evokedactivity in nucleus accumbens subregions. International Journal Neuropsychopharmacol,15(9),1287-1294.   
+Aparicio, C.F.,Hennigan,P.J.,Muligan,L.J.,&Alonso-Alvarez,B. (2019). Spontaneously hypertensive (SHR) rats choose more impulsively than Wistar-Kyoto (WKY) rats on a delay discounting task. Behavioural Brain Research,364,480-493.   
+Bartolo,R., & Averbeck, B. B. (020). Prefrontal cortex predicts state switches during reversal learning. Neuron, 106(6), 1044-1054.   
+Basar,K.,Sesia,T.,Groenewegen,H.,Steinbusch,H.W.,Visser-Vandewale,V.& Temel,Y.(2010).Nucleus accumbens and impulsivity.Progress Neurobiology, 92(4),533-557.   
+Balleine,B.W.，& O"Doherty,J.P.(2010).Human and rodent homologies in action control: corticostriatal determinants of goal-directed and habitual action. Neuropsychopharmacology: Oficial Publication of the American Collge of Neuropsychopharmacology, 35(1), 48-69.   
+Bossert, J. M.,Stern,A.L, Theberge,F.,Marchant,N.J., Wang,H.L.,Morales,M.,& Shaham,Y. (2012). Role of projections from ventral medial prefrontal cortex to nucleus accumbens shell in context-induced reinstatement of heroin seeking. Journal of Neuroscience, 32(14), 4982-4991.   
+Carpenter，K.M.， Bedi, G.，& Vadhan，N.P. (2015). Understanding and shifting drug-related decisions: contributions of automatic decision-making processes.Current Psychiatry Reports,17(8), 607.   
+Charan, J.,& Kantharia, N.D. (20l3). How to calculate sample size in animal studies?.Journal of Pharmacology and Pharmacotherapeutics,4(4),303-306.   
+Cohen,M.X.,Axmacher,N.,Lenartz,D.,Elger,C.E.,Sturm,V.,& Schlaepfer,T.E. (2009).Nuclei accumbens phase synchrony predicts decision-making reversals following negative feedback. The Journal of Neuroscience, 29(23), 7591-7598.   
+Christiansen,R.E.,Roald,A.B.,Tenstad,O.,& Iversen,B.M. (2o02).Renal hemodynamics during development ofhypertension in young spontaneously hypertensive rats. Kidney blood pressure research, 25(5), 322-328.   
+Donnelly,N.A.,Holtzman,T.,Rich,P.D.,Nevado-Holgado,A.J.,Fernando,A.B., Van Dijck, G.,Dalley,J.W. (2014).Oscillatory activity in the medial prefrontal cortex and nucleus accumbens correlates with impulsivity and reward outcome. PLoS ONE, 9(10), e111300.   
+Erdeniz,B.，& Done,J.(202o). Towards automaticity in reinforcement learning: a model-based functional magnetic resonance imaging study. Archives of Neuropsychiatry, 57(2), 98-107.   
+Faraone,S.V.,Asherson,P.,Banaschewski,T.,Biederman,J.,Buitelar,J.K.,Ramos-Quiroga,J.A.,Franke,B. (2015). Attention-deficit/hyperactivity disorder. Nature Reviews Disease Primers,1,15020.   
+Floresco,S.B.(2015). The nucleus accumbens: an interface between cognition,emotion,and action. Annual Review Psychology, 66,25-52.   
+Fox，A.T.，Hand，D.J.，& Reilly，M.P.(2008).Impulsive choice in a rodent model of attention-deficit/hyperactivity disorder.Behavioural Brain Research,187(1),146-152.   
+Francesmonneris,A.，Pincus,H.，& First,M.(2Ol3).Diagnosticand statistical manual of mental disorders: DSM-V.American Psychiatric Association.   
+Friston,K.J.,Bastos,A.M.,Pinotsis,D.,&Litvak,V.(2015).LFPand oscillations-what do they tellus?Current Opinion in Neurobiology,,31,1-6.   
+Gauthier,J.M.,Tassin,D.H.,Dwoskin,L.P.,& Kantak,K.M.(2014).Effects of dopamine Dl receptorblockade in the prelimbic prefrontal cortex or lateral dorsal striatum on frontostriatal function in wistar and spontaneously hypertensive rats. Behavioural Brain Research, 268,229-238.   
+Gui,D.Y.,Yu,T.,Hu, Z., Yan,J.,&Li,X. (2018). Dissociable functional activities of cortical thetaand beta oscillations in the lateral prefrontal cortex during intertemporal choice.Sci Rep,8(1),11233.   
+Hauser,T. U.,Iannaccone,R.，BallJ., Mathys,C.，Brandeis,D.，Walitza,S.，& Brem,S.(2014).Roleof the medial prefrontal cortex in impaired decision making in juvenile attention-deficit/hyperactivity disorder. JAMA Psychiatry,71(10),1165-1173.   
+Jackson, J.N.S.,& MacKillp,J. (2016). Attention-deficit/hyperactivity disorder and monetary delay discounting: a meta-analysis of case-control studies. Biology Psychiatry Cognitive Neuroscience Neuroimaging， 1, 316-325.   
+Jenni,N.L.,Larkin,J.D.,&Floresco,S.B. (2017).Prefrontal dopamine D1 and D2 receptors regulate dissociable aspects of decision making via distinct ventral striatal and amygdalar circuits. The Journal of Neuroscience, 37(26), 6200-6213.   
+Kable,J. W.,& Glimcher, P. W. (207). The neural correlates of subjective value during intertemporal choice. Nature Neuroscience,10(12),1625-1633.   
+Khader,P.H.,Pachur,T.,Weber,L.A.,&Jost, K.(2O16).Neuralsignaturesof controled and automaticretrieval processes in memory-based decision-making. Journal of Cognitive Neuroscience,28(1),69-83.   
+Kim,S.,& Lee,D.(20l1).Prefrontal cortex and impulsive decision making.Biol Psychiatry, 69(12),1140-1146.   
+Li,Y.,Wang, X.,Li, N., Qu, L., Wang,P.， Ge, S.N.,& Wang, X. L. (2020). The NAc lesions disrupted the hippocampus-mPFC theta coherence during intravenous cocaine administration in rats. Neuroscience Letters,729,134986.   
+Lv, C.,Wang,Q., Chen, C., Qiu,J.,& He,Q. (2019).The regional homogeneity paterns of the dorsal medial prefrontal cortex predict individual differences in decision impulsivity. NeuroImage,20o,556-561.   
+Marx,I,Hacker,T.,Yu,X.,Cortese,S.,& Sonuga-Barke,E. (2018).ADHD and the choice of smallimmediate over larger delayed rewards: a comparative meta-analysis of performance on simple choice-delay and temporal discounting paradigms. Journal Attention Disorders,25(2),171-187.   
+Miler,E.M.,Pomerleau,F.,Huetl,P., Gerhardt, G.A.,& Glaser,P.E.(2O14).Aberrant glutamate signaling in theprefrontal cortex andstriatum ofthespontaneouslyhypertensiveratmodelof attention-deficit/hyperactivity disorder.Psychopharmacology,231(15),3019-3029.   
+Miyazaki, K.,Miyazaki, K.W.，& Matsumoto,G. (2004). Different representation of forthcoming reward in nucleus accumbens and medial prefrontal cortex. Neuroreport, 15(4),721-726.   
+Moorman,D.E.,& Aston-Jones,G. (2O15). Prefrontal neurons encode context-based response execution and inhibition in reward seeking and extinction. Proceedings of the National Academy of Sciences,112(30), 9472-9477.   
+Narayanan,N.S., Cavanagh,J.F.,Frank,M.J.,& Laubach,M. (2013). Common medial frontal mechanisms of adaptive control in humans and rodents. Nature Neuroscience,16(12),1888-1895.   
+Orduna,V.,& Mercado,E. (2017). Impulsivity in spontaneously hypertensive rats: within-subjects comparison of sensitivity to delay and to amount of reinforcement. Behavioural Brain Research, 328,178-185.   
+Paxinos, G,A.,& Watson., C. (20o4). The rat brain atlas in stereotaxic coordinates. San Diego: Academic.   
+Perez-Diaz,F.,Diaz,E.,Sanchez,N.,Vargas,J.P.,&Lpe,J. (2ol7).Diffrentinvolvementofmedial prefrontal cortex and dorso-lateral striatum in automatic and controlled processing of a future conditioned stimulus. PLoS ONE,12(12),e0189630.   
+Piray，P.，Toni,I.，& Cools，R.(2016). Human choice strategy varies with anatomical projections from ventromedial prefrontal cortex to medial striatum.Journal of Neuroscience,36(10),2857-2867.   
+Robbins,T.W.,& Dalley,J.W. (2017). Impulsivity,risky choice,and impulse control disorders.In Decision Neuroscience,81-93.   
+Sackett,D.A.,Moschak,T.M.,& Carell,R.M.(2019).Prelimbic cortical neurons track preferred reward value and reflect impulsive choice during delay discounting behavior. The Journal of Neuroscience,39(16), 3108-3118.   
+Salavert,J.,Ramos-Quiroga,J.A.,Moreno-Alcazar,A.,Caseras,X.,Palomar,G.,&Radua,J. (2o15).Functional imaging changes in the medial prefrontal cortex in adult adhd.Journal of Attention Disorders,22(7), 679-693.   
+Scheres,A., Milham, M.P.,Knutson,B.,& Castellnos,F.X.(2007). Ventral striatal hyporesponsiveness during reward anticipation inattention-deficit/hyperactivity disorder.Biol Psychiatry,61(5),720-724.   
+Somkuwar,S.S.,Kantak,K.M.,Bardo,M.T.,& Dwoskin,L.P.(2016).Adolescent methylphenidate treatment differentially alters adult impulsivity and hyperactivity in the spontaneously hypertensive rat model of ADHD.Pharmacology, Biochemistry and Behavior,141,66-77.   
+Sonuga-Barke,E.,&Fairchild,G. (2012).Neuroeconomicsof attention-deficit/hyperactivitydisorder: differential influences of medial, dorsal, and ventral prefrontal brain networks on suboptimal decision making? Biological Psychiatry, 72(2),126-133.   
+Starkweather, C.K., Gershman,S.J.,& Uchida,N. (2018).The medial prefrontal cortex shapes dopamine reward prediction errors under state uncertainty. Neuron, 98(3), 616-629.   
+Steele,C.C.,Peterson,J.R.,Marshall,A.T.,Stuebing,S.L.,& Kirkpatrick, K. (2018). Nucleusaccumbens core lesions induce sub-optimal choice and reduce sensitivity to magnitude and delay in impulsive choice tasks.Behavioural Brain Research,339,28-38.   
+Vanderveldt,A.,Oliveira,L.,& Green,L. (2o16).Delay discounting: pigeon,rat, human--does itmatter?Journal Experiment Psychology Animal Learn Cognitive,42(2),141-162.   
+Wang, Q.,Lv, C.,He, Q.,& Xue,G.(2020). Dissociable fronto-striatal functional networks predict choice impulsivity. Brain Structure Function, 225(8),2377-2386.   
+Wang, Z., Yue,L., Cui, C.,Liu, S., Wang, X.,Li, Y.,& Ma,L. (2019). Top-down control ofthe medial orbitofrontal cortex to nucleus accumbens core pathway in decisional impulsivity. Brain Structure Function, 224(7),2437-2452.   
+Womelsdorf,T.,Schoffelen,J.M.,Oostenveld,R.,Singer,W.,Desimone,R.,&Engel,A.K. (2007).Modulation of neuronal interactions through neuronal synchronization. Science,316(5831),1609-1612.   
+Zhao,W.J.,Diederich,A.，Trueblood,J. S.,& Bhatia, S.(2019).Automatic biases in intertemporal choice. Psychonmic Bulletin Review,26(2), 661-668.
+
+# The function of mPFC-NAc circuit in decision impulsivity- a study based on an animal model
+
+ZHUO Linan1,ZENG Xiangyu1,WU Bing1,NIU Rongrongl,YU Ping1,WANG Weiwen² ('Beijing Key Laboratory ofLearning and Cognition, School of Psychology, Captical Normal University, Beijing 10oo48, China; ²Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of Sciences,Beijing 100101, China)
+
+# Abstract
+
+Insufficient behavior control in patients with attention deficit /hyperactivity disorder (ADHD) is closely related to decision impulsivity,which is regulated by medial prefrontal cortex (mPFC) and nucleus accumbens (NAc). mPFC and NAc is involved in the regulation of decision-making process and impulsivity,and the structure and function of mPFC and NAc are abnormal in ADHD. The relationship between the functional coupling of mPFC-NAc circuit and abnormal decision impulsivity in ADHD is still under debate,abnormality of this circuit may provide explanations to the neural mechanism underlying ADHD.
+
+Wistar(WIS) rats and ADHD rats (SHR,spontaneously hypertensive rat） were used as subjects of this study. We recorded the local field potential (LFP) of mPFC and NAc using multi-channel electrophysiology during a delay discounting task (DDT). We further analyzed the coherence difference of Theta $( 4 { \sim } 1 2 \mathrm { H z } )$ oscillation in expectation period (O\~3s） and compared this measure between the two groups.
+
+Results:(1） SHR rats had higher decision impulsivity level than WIS group.Power spectral density between ${ \mathrm { 7 } } { \sim } 9 \mathrm { H z }$ of LFP in mPFC and NAc increased in both groups. (2) When choosing large/delayed rewards, coherence of mPFC-NAc activity increased compared to smal/immediate rewards in WIS group. This indicates the mPFC-NAc circuit involves in decision impulsivity. (3) When choosing large/delayed rewards，mPFC-NAc activity in SHR group showed lower coherence than WIS group, indicating SHR rats have weaker mPFC-NAc functional connections. (4) Coherence of mPFC-NAc activity is higher during initial choice behavioral than continuous choice behavior. It indicated that stronger mPFC-NAc functional connections are required during controlled information processing which is dominant in initial choice behavioral, while automatic processing is dominant in continuous choice behavior. Coherence of mPFC-NAc activity is higher in WIS group than WIS group when choosing large/immediate rewards. It indicated that the decision impulsivity deficits in SHR rats results from mPFC-NAc weak functional connections. (5) Coherence of mPFC-NAc activity is higher in shift trials than continuous trials. Plus,WIS group showed an overall higher coherence than SHR group.This indicated that mPFC-NAc circuit heavily involves in controlled information processing,and SHR group has deficiency of this process.(6） Regresson analysis showed that coherence difference of mPFC-NAc activity in prediction period has positive correlation with delayed large reward selection rate in WIS group, that is,the more coherence of mPFC-NAc Theta activity increased during prediction period, the less decision impulsivity WIS rats behaved during choice period. However， the coherence difference cannot predict decision impulsivity in SHR group.
+
+Conclusion: mPFC-NAc heavily involves in decision impulsivity. Increase of coherence of mPFC-NAc theta oscillation in prediction period can predict impulsivity level. Decision impulsivity in ADHD as a consequence of the dysfunction, is caused by a weak mPFC-NAc functional connection.
+
+Key words attention deficit/hyperactivity disorder, decision impulsivity, mPFC,NAc, neural network oscillation

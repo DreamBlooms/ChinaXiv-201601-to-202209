@@ -1,0 +1,186 @@
+外源蛋白酶对猪、鸡生长性能、养分消化率、健康以及环境排放的影响
+
+# 张立兰 陈玉霞 钟儒清 陈 亮\*
+
+（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）摘要：外源蛋白酶因可改善畜禽生长性能和健康，提高蛋白质、氨基酸等养分的消化率和节约饲料资源等特点而备受关注。外源蛋白酶对猪、鸡生长性能、养分消化率和健康受动物的年龄、饲粮类型、酶自身特性等因素的影响。本文概述了蛋白酶的分类、酶活性测定方法及其功能，侧重分析了外源蛋白酶对猪、鸡生长性能、养分消化率和健康等方面的影响，并讨论了添加外源蛋白酶对猪、鸡生产中环境排放的影响作用，以期为外源蛋白酶在畜禽养殖中的高效使用提供理论依据。
+
+关键词：外源蛋白酶；生长性能；养分消化率；动物健康；环境排放中图分类号：S816.7
+
+饲料原料中含有植酸、非淀粉多糖、蛋白质抑制因子等多种抗营养因子，这些抗营养因子会限制动物对饲料的养分利用。饲用酶制剂在提高单胃动物生长性能、促进动物健康、调节基因功能等方面具有广阔的应用前景。据估计，到2020 年全球饲用酶制剂市场总值将达13.7 亿美元[]。目前饲料和养殖企业中使用的蛋白酶大都是微生物源性蛋白酶，其作用机理受到广大研究者的关注。大量研究表明，添加外源蛋白酶可改善畜禽生长性能和健康，减轻饲料中抗营养因子的作用，提高养分（尤其是蛋白质和氨基酸）的消化率，降低排泄物中氮的含量，从而减少氨气、硝酸盐和亚硝酸盐对环境的污染[2-6]。但由于酶本身的特性、饲料基底背景、目标动物及使用方法的不同，得出的试验效果迥异，甚至出现负面结果[7]。因此，本文综述了蛋白酶的分类、酶活性测定方法、作用机理及功能，侧重分析了外源蛋白酶对猪、鸡生长性能、养分消化率、健康和环境排放等方面的影响，以期对外源蛋白酶在猪、鸡饲粮中合理高效利用提供理论参考。
+
+# 1蛋白酶
+
+蛋白酶是水解蛋白质的一类酶的总称，广泛存在于动物内脏、植物茎叶、果实和微生物中，其作用是断裂肽键，破坏蛋白质的一级结构，从而将蛋白质水解成小分子多肽和氨基酸。动物本身可分泌一定量的内源蛋白酶（胃蛋白酶、胰蛋白酶、糜蛋白酶等）消化饲料中的养
+
+分，但是饲料中仍会有大量养分不能被消化利用，随粪便排入环境，不仅浪费饲料资源，还造成环境污染。
+
+# 1.1 蛋白酶分类
+
+蛋白酶根据不同的分类方式可以分为不同种类。1）按来源分为：动物源性蛋白酶、植物源性蛋白酶和微生物源性蛋白酶。动物源性蛋白酶主要从牛、羊、猪等大型动物的胰脏中提取，生产成本高，主要用于医药或试剂。植物源性蛋白酶常见的是木瓜蛋白酶和菠萝蛋白酶，分别从未成熟的番木瓜和菠萝中提取。微生物源性蛋白酶主要由黑曲霉、曲霉属真菌、芽孢杆菌等细菌培养和真菌发酵获得。与其他2种蛋白酶相比，微生物源性蛋白酶专一性强、安全高效、性质稳定，不受时间控制[8]，在饲料和养殖企业使用最为广泛。我国用于工业化生产的蛋白酶菌种主要是芽孢杆菌，主要包括地衣芽孢杆菌2709、地衣芽孢杆菌C1213以及短小芽孢杆菌289和209[9]。2）按作用的最适pH分为：酸性蛋白酶、中性蛋白酶和碱性蛋白酶。目前饲料工业应用最多的是中性蛋白酶和酸性蛋白酶，包括胃蛋白酶、凝乳酶和部分微生物蛋白酶。酸性蛋白酶主要作用于胃，添加到饲料中可以提高动物（尤其是幼龄动物）对饲料中蛋白质的消化吸收率，提高其生长性能[4。3）根据蛋白酶活性位点分为：天冬氨酸蛋白酶、疏基蛋白酶、丝氨酸蛋白酶等。国际生物化学和分子生物学联盟命名委员会(nomenclaturecommittee of the international union of biochemistry and molecular biology，NC-IUBMB）根据蛋白酶在降解蛋白质过程中作用于肽链的位置，将蛋白酶分为肽链内切酶和肽链外切酶，如天冬氨酸蛋白酶和丝氨酸蛋白酶为肽链内切酶[10]。
+
+# 1.2 蛋白酶活性测定方法
+
+蛋白酶的活性受很多因素的影响。1）温度：蛋白酶在一定温度范围内存在活性，最适温度时活性最大，温度过低会影响酶促反应速率，温度过高时酶会失活；2）pH：蛋白酶在一定的 $\mathfrak { p H }$ 范围内才能表现出活性，高于或者低于这个范围，酶将失活，酶活性最大时的 pH为该酶的最适 $\mathfrak { p H }$ ；3）激活剂或抑制剂分别会促进或抑制酶促反应；4）金属离子：镁离子1 $\mathbf { \cdot } \mathbf { M } \mathbf { g } ^ { 2 + } .$ ）、钙离子（ $\mathrm { \cdot } \mathrm { C a } ^ { 2 + }$ ）等金属离子可不同程度影响蛋白酶的活性。
+
+我国专业标准、国家标准以及国内外有关部分企业标准中对蛋白酶活性的测定方法和酶活性的定义并不统一。专业标准ZBX66030—87指出，测定蛋白酶活性一般使用福林法，在$4 0 ~ ^ { \circ } \mathrm { C }$ 条件下 $1 \mathrm { m i n }$ 水解酪蛋白产生 $1 ~ { \mu \mathrm { g } }$ 酪氨酸，定义为1个蛋白酶活性单位。国家标准GB/T23527—2009规定使用福林法或紫外分光光度法测定微生物蛋白酶活性，定义1g固体酶粉（或 $1 ~ \mathrm { m L }$ 液体酶）在一定温度和pH条件下，1min水解酪蛋白产生 $1 ~ { \mu \mathrm { g } }$ 酪氨酸，即为1个酶活性单位，以U/g或U/mL表示。国家标准GB/T28715—2012规定使用分光光度法测定酸性、中性蛋白酶活性，并定义在（ $4 0 { \pm } 0 . 2$ ） $^ { \circ } \mathrm { C }$ 和相应的pH条件下（酸性蛋白酶pH3.0，中性蛋白酶 $\mathrm { p H } 7 . 2 )$ ，在 $1 \mathrm { m i n }$ 内水解酪蛋白产生相当于1μg酚基氨基酸（由酪氨酸等同物表示）的酶量为1个酶活性单位，即 $1 \mathrm { U }$ 。丹麦诺维信（Novozyme）公司对丝氨酸蛋白酶活性的定义为：pH 9.0、 $3 7 ^ { \circ } \mathrm { C }$ 条件下， $1 \mathrm { m i n }$ 从1 μmol/L底物中释放出1μmol对硝基苯胺所需酶的量定义为1个酶活性单位，即1PROT。上海杰隆生物制品股份有限公司指出，以偶氮酪蛋白为底物采用紫外分光光度法可简洁的测定角蛋白酶活性[11]。
+
+文献中对酶活性定义以及酶活性单位的描述也不尽相同。Fru等[12]与Angel等[13]对蛋白酶活性单位的定义为： $\mathrm { p H } 9 . 0$ 、 $3 7 ^ { \circ } \mathrm { C }$ 条件下， $1 \mathrm { m i n }$ 从底物中释放 $p$ -对硝基苯胺所需酶的量为1个酶活性单位。 $\mathrm { Y u }$ 等[14]定义1个蛋白酶活性单位为在pH7.5、 $3 0 ^ { \circ } \mathrm { C }$ 条件下， $1 \mathrm { m i n } .$ 从血红蛋白底物中释放酪氨酸的量。白燕等[15]对蛋白酶活性的定义为 $_ { \textrm { 1 g } }$ 蛋白酶在 $3 7 ^ { \circ } \mathrm { C }$ 下1min水解酪素产生酪氨酸的量为1个酶活性单位（ $\mathbf { \nabla } \cdot \mathbf { U } / \mathbf { g } ^ { \mathbf { \sigma } }$ )。于洁等[16]指出，可采用考马斯亮蓝染色法简洁而环保的测定出生姜蛋白酶的活性，该方法对酶活性的定义为，在 $3 7 ^ { \circ } \mathrm { C }$ 下， $1 \mathrm { m i n }$ 分解 $1 ~ { \mu \mathrm { g } }$ 牛血清白蛋白所需要的酶量为1个酶活性单位（U)
+
+目前蛋白酶活性测定方法、酶活性测定时的底物、pH、温度等条件尚没有很好统一，而且国标缺乏碱性蛋白酶活性测定的标准方法，这使得酶活性的测定彼此之间没有可比性。
+
+# 2蛋白酶的功能
+
+饲料中外源蛋白酶的功能研究报道主要包括以下几方面：1）直接分解底物，提高蛋白质等养分的消化利用率。外源蛋白酶能够增加豆粕中蛋白质的溶解度，改善氨基酸代谢率[17-19]。2)提高动物机体内源酶的活性,Zuo等[20]在玉米-豆粕型饲粮中添加100、200、300 mg/kg3 个不同水平的外源蛋白酶，断奶仔猪胃蛋白酶、胰淀粉酶、胰蛋白酶的活性显著提高。3)消除饲料中的抗营养因子，提高消化能力。Hosoyama 等[5研究表明，蛋白酶可减轻豆粕中抗营养因子的作用，提高豆粕的营养价值。4）增强动物机体的免疫力。菠萝蛋白酶可提高仔猪抗腹泻的能力[21]。5）参与动物体内的内分泌调节，通过改变血液中某些成分改善动物生长性能[22]。6）改善养殖环境。畜禽饲粮中添加蛋白酶可以极大程度降低肉鸡粪便中氮的排放量[6]。
+
+# 3外源蛋白酶在猪、鸡生产中的影响研究
+
+# 3.1外源蛋白酶对猪、鸡生长性能的影响
+
+大量研究表明，蛋白酶能显著提高肉鸡的增重以及饲料转化率，从而改善其生长性能。Yu 等[14]在玉米-豆粕型饲粮中添加 $1 2 5 \mathrm { m g / k g }$ 碱性蛋白酶（酶活性 $2 5 0 0 0 \mathrm { U / g }$ ），肉鸡1\~21日龄、22\~38日龄、 $_ { 1 \sim 3 8 }$ 日龄的平均体重和饲料转化率显著提高。李东东等[2]在玉米-豆粕型饲粮中添加 $3 0 0 ~ \mathrm { { m g / k g } }$ 碱性蛋白酶（酶活性 $1 0 0 0 0 0 \mathrm { U / g } \backslash$ )，肉鸡的21和42日龄平均体重及 $_ { 1 \sim 2 1 }$ 日龄和1\~42日龄平均日增重（average daily gain，ADG）显著提高，1\~21日龄料重比显著降低。庄志伟等[23]在玉米-豆粕型基础饲粮中添加 $5 0 0 \times 1 0 ^ { - 6 }$ 和 $6 0 0 \times 1 0 ^ { - 6 }$ 低温碱性蛋白酶（来源于海洋细菌YS-80-122)，结果表明肉仔鸡 ADG分别增加了 $5 . 0 6 \%$ 和 $3 . 9 8 \%$ ，出栏均重分别提高了 70 和 $1 0 0 \ \mathrm { g }$ ，料重比分别降低了0.05 和0.06。外源蛋白酶除了对玉米-豆粕型饲粮有作用效果外，对饲喂其他类型饲粮动物的生长性能也有改善作用。Mahmood 等[24]在加工副产物型饲粮中添加 $2 0 0 ~ \mathrm { { m g / k g } }$ 组合蛋白酶（含 $8 0 0 0 \mathrm { U / g }$ 酸性蛋白酶和 $1 2 0 0 0 { \mathrm { U / g } }$ （204号中性蛋白酶)，肉鸡1\~21日龄平均日采食量（average daily feed intake，ADFI）和 ADG 显著增加，胴体率也显著提高。然而，Purshotham 等[7]在降低 $2 \%$ 蛋白质水平的玉米-豆粕型饲粮中添加 $6 0 0 0 \mathrm { U / k g }$ 的压缩蛋白酶，肉鸡整个生长周期的ADFI和饲料转化率显著降低。
+
+猪饲粮中添加蛋白酶的效果报道不一。Stephenson 等[25]在低赖氨酸的生长猪玉米-豆粕-干酒糟及其可溶物(DDGS)型饲粮中添加 $5 0 0 \mathrm { m g / k g }$ 角蛋白酶（DP100),1\~131日龄的 ADFI显著提高，但屠体产量显著下降。刘景环等[26]研究发现，添加 $3 0 0 ~ \mathrm { { m g / k g } }$ 木瓜蛋白酶的饲粮组与未添加木瓜蛋白酶的对照组相比，仔猪 ADFI增加了 $2 . 7 \%$ ，ADG 提高了 $2 . 5 6 \%$ ，但是与对照组差异不显著。O'Shea 等[27]在生长育肥猪的油菜粕-小麦-DDGS 型饲粮中添加 200mg/kg 蛋白酶，显著提高了生长育肥猪的 ADG、ADFI和体重。然而，Mc Alpine 等[28]在生长猪的小麦糟-油菜粕-小麦-大麦型饲粮中添加 $2 0 0 \mathrm { m g / k g }$ 蛋白酶（酶活性 $7 5 0 0 0 \mathrm { U / g }$ ，却显著降低了1\~28 日龄生长猪的 ADFI、ADG 和末体重。
+
+外源蛋白酶可降解饼粕类等蛋白质原料中的特异性多肽，补充肉仔鸡和仔猪消化道内源蛋白酶分泌的不足，刺激内源酶的分泌[29]，从而提高养分的消化利用率，促进生长性能的提高，但是动物的年龄、饲粮类型、酶自身特性等因素会影响蛋白酶发挥作用[30]，外源蛋白酶对幼龄动物生产性能的提高作用更明显。
+
+# 3.2外源蛋白酶对猪、鸡养分消化率的影响
+
+蛋白酶可以分解饲粮中的大分子物质，减轻饲料中抗营养因子的作用，不仅可以提高蛋白质、氨基酸等养分的消化利用率，也可提高饲料中其他养分的消化率。周梁[4]在玉米-豆粕-肉骨粉型基础饲粮中添加 $2 0 0 \mathrm { m g / k g }$ 碱性蛋白酶（酶活性75000 PROT/g，来源于地衣芽孢杆菌)，21日龄肉仔鸡粗蛋白质的表观回肠消化率提高了 $5 . 9 2 \%$ ，丝氨酸、甘氨酸、丙氨酸、蛋氨酸、酪氨酸、脯氨酸的表观回肠消化率也显著提高。Fru 等[12]在玉米-豆粕型基础饲粮中添加 $2 0 0 \mathrm { m g / k g }$ 碱性蛋白酶（酶活性 $7 5 0 0 0 \mathrm { P R O T / g }$ ，来源于地衣芽孢杆菌），蛋白质、脂肪和能量的表观回肠消化率分别提高了 $5 . 9 \%$ 、 $2 . 5 \%$ 、 $7 . 2 \%$ 。Angle 等[13]在降低粗蛋白质水平的玉米-豆粕-玉米蛋白粉型饲粮中添加 $1 0 0 { \sim } 8 0 0 ~ \mathrm { m g / k g }$ 的碱性蛋白酶（酶活性75000PROT/g，来源于地衣芽孢杆菌)，7\~22日龄肉仔鸡的粗蛋白质以及精氨酸、异亮氨酸、亮氨酸等大部分必需氨基酸和部分非必需氨基酸的消化率均显著提高。Stefanello 等[31l分别在肉鸡豆粕和玉米-豆粕型半纯合饲粮中添加 $1 5 0 0 0 \mathrm { U / g }$ 蛋白酶（酶活性 75000 PROT/g），肉鸡的必需氨基酸和非必需氨基酸的表观回肠消化率均显著提高，蛋白质、干物质、能量的回肠末端和全消化道消化率也显著增加。Freitas 等[32]在肉鸡玉米-豆粕-肉骨粉型饲粮中添加$2 0 0 \mathrm { m g / k g }$ 蛋白酶（酶活性75000 PROT/g)，粗蛋白质和脂肪的回肠末端消化率显著提高。Cowieson 等[33]在肉鸡小麦-豆粕型饲粮（含有植酸酶和木聚糖酶各 $1 0 0 ~ \mathrm { { m g / k g } }$ ）中添加丝氨酸蛋白酶15000 PROT/kg，显著增加了氮、必需氨基酸、非必需氨基酸和总氨基酸的表观回肠校正消化率。Mahmood 等[34]在副产物型饲粮和玉米-杂粕-副产物型饲粮中添加 200mg/kg 蛋白酶（含酸性蛋白酶 $8 0 0 0 \mathrm { U / g }$ ，碱性蛋白酶 $1 2 0 0 0 \mathrm { U / g }$ )，肉鸡的表观代谢能、表观氮校正代谢能、氮存留率和表观氮消化率均显著提高。张立兰等[35]在肉仔鸡玉米-豆粕型饲粮中分别添加75000 和 $1 5 0 0 0 0 \mathrm { P R O T / g }$ 的外源蛋白酶（酶活性 $9 0 \ 0 0 0 \ \mathrm { P R O T / g }$ ，最适pH7.0\~10.0，来源于地衣芽孢杆菌)，利用仿生法测定养分消化率，结果表明全消化道的体外干物质消化率、总能消化率和体外消化能均显著提高，但肉仔鸡 22\~42日龄饲粮胃消化阶段的体外干物质消化率和总能消化率却显著降低。
+
+Pan 等[36]在杜 $\times$ 长 $\times$ 大三元杂交猪的玉米-豆粕型饲粮中添加 $2 0 0 ~ \mathrm { { m g / k g } }$ 包被复合蛋白酶中 $\left( 8 0 0 0 \mathrm { U / g } \right)$ )，干物质、总能、粗蛋白质以及有机物的表观全消化道消化率显著提高，粗蛋白质、氮以及多数必需氨基酸的表观回肠消化率显著提高。李建沅等[37将2种酸性蛋白酶和1 种中性蛋白酶按3:3:2 质量比混合（酶活性分别为88 000、59 000、 $1 2 9 0 0 0 \mathrm { U / g } \mathrm { \dot { \Omega } }$ ），分别在鲁烟白猪生长猪的玉米-豆粕型、玉米-杂粕型、小麦-杂粕型饲粮中添加 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 的蛋白酶复合物，玉米-豆粕型饲粮的粗蛋白质消化率与对照组相比差异不显著，另外2种类型饲粮的养分消化率显著增加。Wang 等[38]在生长猪的玉米-豆粕型饲粮中添加 500 和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 的角蛋白酶，粗蛋白质以及赖氨酸、蛋氨酸、色氨酸和苏氨酸等氨基酸的表观回肠消化率均显著提高。叶慧等[39]将酸性蛋白酶（酶活性 ${ \geq } 5 0 0 0 0 \mathrm { U / g }$ ，来源于黑曲霉）和中性蛋白酶（来源于枯草杆菌）添加到仔猪玉米-全脂大豆-乳清粉型饲粮中，结果表明能量表观消化率提高了 $6 . 0 8 \%$ ，粗蛋白质表观消化率提高了 $7 . 5 3 \%$ 。姜建阳等[40]在玉米-豆粕型、玉米-杂粕型、小麦-杂粕型基础饲粮中添加 $\mathrm { ~ 1 ~ 0 0 0 ~ m g / k g ~ 3 ~ }$ 种蛋白酶的复合酶，结果表明蛋氨酸、缬氨酸等多种氨基酸表观回肠消化率显著提高。
+
+相比于普通的玉米-豆粕型饲粮，外源蛋白酶在杂粕型饲粮中作用效果更明显。外源蛋白酶主要能提高必需氨基酸的消化率，除此之外还能提高部分非必需氨基酸、粗蛋白质和能量的消化率。Mahagna 等[41]研究表明，外源蛋白酶的添加可能会抑制内源酶活性。张立兰等[36]研究表明，外源蛋白酶的最适pH会影响酶促反应。中性、碱性蛋白酶在动物胃中的活性可能会受到抑制，甚至可能会被降解。因此，在选择外源蛋白酶时，除了要考虑饲粮类型、动物年龄、酶自身性质外，还要考虑内源酶与外源酶的互作效应。
+
+# 3.3外源蛋白酶对猪、鸡健康的影响
+
+幼龄动物消化系统不完善，消化不良时有发生。外源蛋白酶可以补充幼龄动物内源酶分泌的不足，提高蛋白质的消化吸收，降低后段肠道消化吸收蛋白质的压力，从而减少因消化不良引起的腹泻。外源蛋白酶的添加能缓解动物冷热应激和断奶应激，增强动物机体的免疫力。蛋白质消化率的提高可降低肾脏排泄尿素或尿酸盐的负担，从整体上改善猪、鸡的健康状况，但研究结果报道也不尽一致，甚至有负效应的结果。
+
+# 3.3.1外源蛋白酶对鸡健康的影响
+
+赵必迁等[42]在罗曼粉壳蛋鸡产蛋后期玉米-豆粕型饲粮降低粗蛋白质水平下，外源添加中性蛋白酶 $2 0 0 ~ \mathrm { { m g / k g } }$ （酶活性 $1 0 0 0 0 \mathrm { U / k g } \rangle$ ，蛋鸡死亡率显著降低。Peek 等[43]在玉米-小麦-豆粕型饲粮中添加 $2 5 0 0 0 \mathrm { U / k g }$ 蛋白酶（酶活性 $5 5 8 7 0 0 \mathrm { U / m L }$ ，来源于地衣芽胞杆菌)，结果表明蛋白酶对艾美耳球虫病感染的肉鸡体重有显著的提升作用，表明蛋白酶可以缓解艾美耳球虫病对肉鸡生长性能带来的不利影响。Giannenas 等3]在低粗蛋白质水平（ $20 \%$ ）的玉米-玉米麸-小麦麸型饲粮中添加 $2 0 0 \mathrm { m g / k g }$ 蛋白酶，盲肠和回肠中产气荚膜梭菌以及盲肠中坏死梭杆菌数量显著降低，蛋白酶的添加降低了肠道中有害菌的数量，说明蛋白酶可促进肉鸡肠道健康。李慧[44]在肉仔鸡的小麦型基础饲粮中添加 $3 2 0 0 0 \mathrm { U / k g }$ 的蛋白酶（酶活性12 220U/g)，肉仔鸡的十二指肠绒毛高度与隐窝深度的比值显著降低，该结果表明，高剂量的蛋白酶对肠道组织形态有不利的影响。王琤鞾等[42]在三黄鸡玉米-豆粕-棉籽粕-次粉型饲粮中添加125m/kgPT125TM复合蛋白酶，三黄鸡血清中的丙二醛（MDA）含量显著降低，超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（ $\mathrm { G S H - P x }$ ）活性显著升高，说明外源蛋白酶的添加提高了三黄鸡抗热应激和抗氧化的能力。
+
+# 3.3.2外源蛋白酶对猪健康的影响
+
+谢梅冬等[43]在保育猪饲粮中添加 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 金属蛋白酶，仔猪的咳嗽率、腹泻率和死亡率分别比对照组降低了 $7 . 6 6 \%$ 、 $3 . 3 3 \%$ 和 $3 . 3 3 \%$ 。梅宁安等[47]在仔猪基础饲粮中添加100$\mathrm { m g / k g }$ 蛋白酶（酶活性 ${ \geq } 5 0 0 0 0 \mathrm { U / g }$ )，仔猪的抗腹泻能力和生长性能得到显著提高。Kim 等[48]的研究表明，在玉米-豆粕型低蛋白质水平（ $23 . 5 1 \%$ ）饲粮中添加 $2 0 0 ~ \mathrm { { m g / k g } }$ 的蛋白酶（酶活性 $7 5 ~ 0 0 0 ~ \mathrm { U / g }$ ，来源于地衣芽孢杆菌)，断奶3d的仔猪血液中转化生长因子-β(transforming growth factor- $\beta$ ,TGF-β)含量显著低于对照组，断奶7d的仔猪血液中白细胞数量显著低于对照组，断奶7和14d仔猪血液中的肿瘤坏死因子-α(tumor necrosisfactor-α,TNF-α)含量有低于对照组的趋势，说明外源蛋白酶的添加可以降低断奶仔猪的炎症反应。
+
+# 3.4蛋白酶对环境排放的影响
+
+动物饲粮中的蛋白质未被完全消化的部分会随粪便和尿液排出体外，并在环境中分解为氨气、硝酸盐和亚硝酸盐。氨气挥发到大气中可导致酸雨，硝酸盐和亚硝酸盐则会污染水源和土壤，直接或间接的威胁人类健康。Ghazi等[49]在豆粕中添加曲霉属真菌源的蛋白酶，在pH4.5的酸性环境中 $5 0 ^ { \circ } \mathrm { C }$ 孵化 $2 \mathrm { h }$ 后，按照 $2 9 0 \mathrm { m g / k g }$ 添加到饲粮中，结果发现肉仔鸡氮的表观回肠消化率和全消化道的表观存留率显著增加。Wang等[50]在肉鸡的豆粕型和杂粕型饲粮中添加 $1 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 角蛋白酶（ $4 0 0 0 0 0 \mathrm { U / g }$ ），2种饲粮中氮的存留率均显著增加。Pan等[3研究表明，外源蛋白酶的添加显著降低了粪氮的排放（3.7vs. $4 . 7 \ : \mathrm { g / d } \dot { }$ )，有降低尿氮排放的趋势（ $\left( 2 . 9 \mathrm { v s . } 4 . 7 \mathrm { g / d } \right)$ ，氮的存留率显著增加（ $0 . 7 3 \%$ VS. $0 . 6 1 \%$ )。蛋白酶可增加蛋白质原料的消化吸收，提高蛋白质和氨基酸的消化利用率，从而减少氮的坏境排放。Leinonen等[根据生命周期评估（life cycle assessment，LCA）系统研究了蛋白酶在作物种植、饲料生产、肉鸡饲养（水和能量使用、气体排放）、肥料与废弃物管理等各方面对环境的影响，结果表明蛋白酶的使用可以减少蛋白质类饲料的使用，减少大豆的种植，降低了二氧化碳等温室气体的排放（最多降低 $12 \%$ ，平均降低 $5 \%$ ）。Oxenboll等[51]根据LCA针对饲料生产、肉鸡出栏、粪便利用等畜禽生产的所有步骤对蛋白酶应用于家禽饲料是否会对环境产生影响的问题进行了专门探究，在肉鸡的玉米-豆粕-肉骨粉型饲粮中添加 $2 0 0 \mathrm { m g / k g }$ 外源蛋白酶（酶活性15000 PROT/kg），结果表明降低了氨气、一氧化二氮和一氧化氮等气体的排放，在降低蛋白质水平的饲粮中添加蛋白酶效果更明显。此外，还显著降低了酸化、富营养化以及温室气体的排放。综合所有因素表明，饲粮中添加蛋白酶可以提高蛋白质和氮的利用，减少铵盐的排放，减轻粪污对大气、水和土壤的污染。
+
+# 4外源蛋白酶研究存在的问题
+
+目前外源蛋白酶的研究还存在很多不足：1）产酶菌种类不多（主要是枯草芽孢杆菌和地衣芽孢杆菌)，产酶菌发酵产生的蛋白酶性质不稳定，酶活性参差不齐；2）微生物蛋白酶研究较多的是碱性蛋白酶和金属蛋白酶， $\mathsf { p H }$ 作用范围较狭窄，不同蛋白酶在畜禽消化道的作用位点及其与内源酶的关系研究不够深入；3）酶活性测定方法、动物试验条件等不一致，蛋白酶添加剂量的研究结果缺乏可信度。
+
+Saarelainen 等[52]和 Saleh 等[53]研究发现，当有蛋白酶存在时，碳水化合物酶的水解活性会受到抑制或碳水化合物酶自身被消化，筛选最佳酶谱非常重要[54-55]。因此饲用蛋白酶的有效性评价研究需要通过体外法模拟蛋白酶不同浓度、不同pH、不同来源的组合作用和在不同类型、不同比例的饲粮中添加蛋白酶的作用效果，找出节约蛋白酶资源并提高其催化效率的最佳组合，再开展动物试验进行验证。通过仿生方法模拟蛋白酶在动物体内的消化过程[36]，确定蛋白酶在动物体内的作用部位（胃、小肠还是大肠)，探讨通过蛋白酶包埋等技术使蛋白酶直达作用位点，防止外源蛋白酶被内源酶分解或者活性受抑制；亦可从分子水平找到不同蛋白酶的作用受体，通过提高酶与受体结合能力来提高酶促反应效率等途径进一步深入研究。
+
+总之，饲用蛋白酶产酶菌及酶制剂的生产、加工、运输、储存、使用的各个阶段都还有很多工作有待深入。生产方面，可以开发新型产酶菌种，生产耐高温、耐酸的蛋白酶，探究提高各种产酶菌的产量和蛋白酶质量的新方法；加工过程中，选择合适的材料（硫酸钠、糊精等)对蛋白酶进行包被，提高生产效率，使用过程中也可以抵抗动物胃酸对蛋白酶的损伤;在酶活性测定、酶的添加和使用等方面也有待完善。此外，目前市场上广泛使用的是转基因工程菌生产的酶，而目前我国对转基因饲用酶安全性评价的必要性缺乏统一认识，虽然欧盟等国家制订了一系列转基因食品、饲料等生产和使用相关法规，但并没有涉及到转基因工程菌生产的酶的安全性评价的制度与标准，我们需要建立统一的转基因蛋白酶的安全性评价体系。
+
+5结语
+
+随着饲用蛋白酶制剂研究的不断深入，其提高蛋白质等养分消化利用率、改善动物生长性能、节约蛋白质原料的优点逐渐被人重视，外源蛋白酶也越来越受到养殖企业和饲料企业的关注，微生物源性蛋白酶因其生产成本低、功能明确及环境友好的特征，成为其中最具有发展前景的一员。
+
+致谢：感谢中国农业科学院北京畜牧兽医研究所张宏福研究员对本文的审阅、指正。
+
+参考文献:
+
+[1] Marketsandmarkets.Feed enzymes market by type (phytase,protease,and carbohydrase),livestock (ruminants,swine,poultry,and aquatic animals),source (microorganism,plant,and animal),form (liquid and dry),and region - global forecast to 2022[EB/OL].Pure:Marketsandmarkets,2015.htp://www.marketsandmarkets.com/Market-Reports /feed-enzyme-market-1157.html.
+
+[2] 李东东,李宗锐,丁雪梅,等.不同粗蛋白质水平饲粮添加外源蛋白酶对肉鸡生产性能、血清生化指标和抗氧化功能的影响[J].动物营养学报,2015,27(9):2820-2831.
+
+[3]GIANNENAS I,BONOS E,ANESTIS V,et al.Effects of protease addition and replacement of soybean meal by corn gluten meal on the growth of broilers and on the environmental performances of a broiler production system in Greece[J].PLoS One,2017,12(1):e0169511.
+
+[4]周梁.外源蛋白酶(ProAct)对肉鸡生产性能及氨基酸消化率影响的研究[D].硕士学位论文.  
+北京：中国农业科学院,2014.
+
+[5]HOSOYAMA H,OBATA A,TSUJI H,et al.Studies on the reduction of soybean allergenicity:part 1[M][s.l.]:Nippon Nogeikagaku Kaishi,1994:343.
+
+[6] LEINONEN I,WILLIAMS A G.Effects of dietary protease on nitrogen emissions from broiler production:a holistic comparison using life cycle assessment[J].Journal of the Science of Food and Agriculture,2015,95(15):3041-3046.
+
+[7] PURSHOTHAM N R,RAJASHEKHER R A,KONDAL R K,et al.Effect of encapsulated protease enzyme on the performance,carcas,serum protein and retention of protein and energy in broilers[J].International Journal of Livestock Research,2017,7(5):220-227.
+
+[8]黄明媛,罗晓春.动物内源蛋白酶与微生物蛋白酶对植物性蛋白分解特点简述[J].饲料研究,2014(9):4-6.
+
+[9]邓菊云.微生物碱性蛋白酶研究进展[J].现代食品科技,2008,24(3):293-296.
+
+[10] BARRETT A J,RAWLINGS N D,WOESNER J F.Handbook of proteolytic enzymes[M].San Diego:Elsevier,2004:1003-1005.
+
+[11]江国永,吕小东,朱逸欣,等.角蛋白酶酶活性测定方法的研究[J].饲料与畜牧:新饲料,2016(10):57-59.
+
+[12]FRU F,KLUENTER A,FISCHER M.A feed serine protease improves broiler performance and increases protein and energy digestibility[J].The Journal of Poultry   
+Science,2011,48(4):239-246.
+
+[13]ANGEL C R,SAYLOR W,VIEIRA S L,et al.Effects of a monocomponent protease on performance and protein utilization in 7-to 22-day-old broiler chickens[J].Poultry Science,2011,90(10):2281-2286.
+
+[14]YU B,WU S T,LIU C C,et al.Effects of enzyme inclusion in a maize-soybean diet on broiler performance[J].Animal Feed Science and Technology,2007,134(3/4):283-294.
+
+[15]白燕,王维新.刺参肠道蛋白酶、淀粉酶、脂肪酶与纤维素酶活性的测定方法[J].饲料工业,2012,33(20):28-32.
+
+[16]于洁,肖超妮,王世祥,等.测定生姜蛋白酶活性的新方法[J].热带作物学报,2011,32(8):1475-1478.
+
+[17] AWAWDEH M S,OBEIDAT B S.Effect of supplemental exogenous enzymeson performanceof finishingAwassi lambs fedolivecake-containingdiets[J].Livestock Science,2011,138(1/2/3):20-24.
+
+[18]XU W J,PAN L Q.Effects of bioflocs on growth performance,digestive enzyme activity and body composition of juvenile Litopenaeus vannamei in zero-water exchange tanks manipulating C/N ratio in feed[J].Aquaculture,2012,356-357:147-152.
+
+[19] CAINE W R,ERSTEGEN M W A,SAUER W C,et al.Effect of protease treatment of soybean meal on content of total soluble matter and crude protein and level of soybean trypsin inhibitors[J].Animal Feed Science and Technology,1998,71(1/2):177-183.
+
+[20]ZUO JJ,LING B M,LONG L N,et al.Effect of dietary supplementation with protease on the growth performance,nutrient digestibility,intestinal morphology,digestive enzymes and gene expression of weaned piglets[J].Animal Nutrition,2015,1(4):276-282.
+
+[21]李诺,林晨,韩琦.菠萝蛋白酶防治仔猪腹泻的研究现状[J].饲料广角,2004(22):38-39.[22] 赵志辉,潘中华,闻孝来,等.饲用酶制剂的作用机理[J].中国饲料,1999(9):15-16[23] 庄志伟,王跃军,孙谧.海洋低温蛋白酶对肉仔鸡生长发育的影响[J].畜牧与兽医,2011(6):32-36.
+
+[24] MAHMOOD T,MIRZA M A,NAWAZ H,et al.Exogenous protease supplementation of poultry by-product meal-based diets for broilers:effects on growth,carcass characteristics and nutrient digestibility[J].Journal of Animal Physiology and Animal Nutrition,2017:1-9.
+
+[25] STEPHENSON E W,DEROUCHEY JM,ESCOBAR J,et al.Effects of a novel protease enzyme (CIBENZA DPl00) on finishing pig growth performance and carcass characteristics [C]/Swine Day.Manhattan,KS:Kansas State University,2014:69-76.
+
+[26]刘景环,玉永雄,周群,等.木瓜蛋白酶和苜蓿对断奶仔猪生长性能的影响[J].广东畜牧兽医科技,2010,35(2):25-27.
+
+[27]O'SHEA C J,ALPINE P O M,SOLAN P,et al.The effect of protease and xylanase enzymes on growth performance,nutrient digestibility,and manure odour in grower-finisher pigs[J].Animal Feed Science and Technology,2014,189:88-97.
+
+[28]MC ALPINE P O,O'SHEA C J,VARLEY P F,et al.The effect of protease and xylanase enzymes on growth performance and nutrient digestibility in finisher pigs[J].Journal of Animal Science,2012,90(4S):375-377.
+
+[29] HENDON D R,WALSH GA.Activity analysisofenzyme under field conditions[M]//WENK C,BOESSINGER M.Enzyme in animal nutrition.Switzerland:Kartause,1993:233-240.
+
+[30]王勇灵.饲用蛋白酶在动物营养与饲料生产中的应用[J].饲料与畜牧：新饲料,2016(1):33-39.
+
+[31]STEFANELLO C,VIEIRA S L,RIOS H V,et al.Energy and nutrient utilisation of broilers fed soybean meal from two different Brazilian production areaswith an exogenous protease[J].Animal Feed Science and Technology,2016,221:267-273.
+
+[32] FREITAS D M,VIEIRA S L,ANGEL C R,et al.Performance and nutrient utilization of broilers fed diets supplemented with a novel mono-component protease[J].The Journal of Applied Poultry Research,2011,20(3):322-334.
+
+[33] COWIESON A J,ZAEFARIAN F,KNAP I,et al.Interactive effects of dietary protein concentration,amono-component exogenous proteaseandascorbicacidonbroiler performance,nutritional status and gut health[J].Animal Production Science,2017,57(6):1058-1068.
+
+[34]MAHMOOD T,MIRZA M A,NAWAZ H,et al.Effect of supplementing exogenous protease in low protein poultry by-product meal based diets on growth performance and nutrient digestibility in broilers[J].Animal Feed Science and Technology,2017,228:23-31.
+
+[35]张立兰,陈亮,钟儒清,等.外源蛋白酶对肉鸡饲粮体外干物质消化率和酶水解物能值的影响[J].中国农业科学,2017,50(7):1326-1333.
+
+[36]PAN L,ZHAO P F,YANG Z Y,et al.Effects of coated compound proteases on apparent total tract digestibilityof nutrientsand apparent ileal digestibility ofamino acidsfor pigs[J].Asian-Australasian Journal of Animal Sciences,2016,29(12):1761-1767.
+
+[37]李建沅,冷学义,宋春阳,等.蛋白酶对鲁烟白猪养分消化率及氮平衡的影响[J].养 猪,2015(3):14-16.   
+[38]WANG D,ZENG Z K,PIAO X S,et al.Effects of keratinase supplementation of corn-soybean meal based diets on apparent ileal amino acid digestibility in growing pigs and serum amino acids,cytokines,immunoglobulin levelsand loin muscle area in nursery pigs[J].Archives of Animal Nutrition 2011,65(4):290-302.   
+[39]叶慧,黄升科,雷建平,等.组合型蛋白酶对仔猪生产性能和养分表观消化率的影响[J].广 东农业科学,2013,40(6):120-123.   
+[40]姜建阳,孙朋朋,于光辉,等.不同组型饲粮中添加复合蛋白酶对鲁烟白猪氨基酸表观回 肠消化率的影响[J].动物营养学报,2015,27(3):863-869.   
+[41]MAHAGNA M,NIR I,LARBIER M,et al.Effect of age and exogenous amylase and protease on development of the digestive tract,pancreatic enzyme activities and digestibility of nutrients in young meat-type chicks[J].Reproduction Nutrition Development,1995,35(2):201-212.   
+[42]赵必迁,李学海.蛋白酶对蛋鸡生产性能的影响[J].饲料广角,2015(17):39-40.   
+[43]PEEK H W,VAN DER KLIS J D,VERMEULEN B,et al.Dietary protease can aleviate negative effectsofa coccidiosisinfection onproductionperformance inbroiler chickens[J].Animal Feed Science and Technology,2009,150(1/2):151-159.   
+[44]李慧.蛋白酶和木聚糖酶对肉鸡生长性能、消化机能及血液指标的影响[D].硕士学位论 文.杨凌:西北农林科技大学,2010.   
+[45] 王琤鞾,瞿明仁,蒋显仁,等.PT125TM蛋白酶对宁都三黄鸡消化酶活性、营养物质消化率、 抗热应激、免疫机能及生产性能的影响研究[C]//2011饲料酶制剂应用技术国际研讨会暨第 二届饲料酶制剂大会论文集.青岛:中国农业科学院饲料研究所，《新饲料》杂志社,2011. [46]谢梅冬,刘浩,何烽杰,等.利用金属蛋白酶改善保育猪生产性能和健康状况的初讨[J].广 西农学报,2010,25(3):61-62.   
+[47]梅宁安,白洁,邵喜成,等.饲料级蛋白酶对肉用仔猪生产性能的影响(英文)[J].农业科学 与技术,2015,16(3):556-557.   
+[48]KIM J,PARK I H,KIM S,et al.Effects of dietary protease on immune responses of weaned pigs[C]//ASAS-CSAS Annual Meeting & Trade Show.Baltimore,Maryland: Exhibit Hal,2017. [49]GHAZI S,ROOKE JA,GALBRAITH H,et al.The potential for the improvement of the
+
+nutritive value of soya-bean meal by different proteases in broiler chicks and broiler cockerels[J].British Poultry Science,2002,43(1):70-77.
+
+[50]WANG H Y,GUO Y M,SHIH J C H.Effects of dietary supplementation of keratinase on growth performance,nitrogen retention and intestinal morphology of broiler chickens fed diets with soybean and cottonseed meals[J].Animal Feed Science and Technol0gy,2008,140(3/4):376-384.
+
+[51]OXENBOLL K M,PONTOPPIDAN K,FRU-NJI F.Use of a protease in poultry feed offers promising environmental benefits[J].International Journal of Poultry   
+Science,2011,10(11):842-848.
+
+[52]SAARELAINEN R,PALOHEIMO M,FAGERSTROM R,et al.Cloning,sequencing and enhanced expression of the Trichoderma reesei endoxylanase II (pI 9) gene xln2[J].Molecular and General Genetics Mgg,1993,241(5/6):497-503.
+
+[53]SALEH F,OHTSUKA A,TANAKA T,et al.Carbohydrases are digested by proteases present in enzyme preparations during in vitro digestion[J].The Journal of Poultry Science,2004,41(3):229-235.
+
+[54]高理想,陈亮,崔世贵,等.体外模拟消化法优化生长猪饲粮非淀粉多糖酶谱[J].动物营养 学报,2017,29(4):1205-1217.
+
+[55]张立兰,高理想,陈亮,等.体外消化法优化生长猪玉米-豆粕-DDGS饲粮和小麦-豆粕饲粮 非淀粉多糖酶谱的研究[J].畜牧兽医学报,2017,48(8):1468-1480.
+
+Effect of Exogenous Protease on Growth Performance,Nutrient Digestibility, Health and Environmental Emission for Pigs and Chickens ZHANG Lilan CHEN Yuxia ZHONG Ruqing CHEN Liang\* (State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science, Beijing 100193, China)
+
+Abstract: The value of added exogenous protease in promoting growth and health, increasing nutrient (crude protein and amino acid) digestibility and saving feedstuff is well recognized in single-stomached animal production. The effects of exogenous protease on growth performance, nutrient digestibility and health for pigs and chickens were influenced by age,diet type and enzyme characteristics,et al. This article briefly reviewed the classification, the method for measuring enzymatic activity and the function of exogenous protease,and the effect of exogenous protease on growth performance, nutrient digestibility and health for pigs and chickens was mainly analyzed, and the environmental emisson impact of exogenous protease for pigs and chickens production was discussed in the present paper, to provide the theoretical basic for the high-efficiency use of exogenous protease in livestock production.
+
+Key words: exogenous protease; growth performance； nutrient digestibility; animal health; environmental emission

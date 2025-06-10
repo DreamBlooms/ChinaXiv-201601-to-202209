@@ -1,0 +1,142 @@
+# 整合素激活因子Talin蛋白棒状结构域的双螺旋束结构研究
+
+林霖1,2）宋先强1）叶盛1)\*\*张荣光1)\*\*("中国科学院生物物理研究所生物大分子国家重点实验室，北京100101；2中国科学院大学，北京 100049)
+
+摘要Talin 能够激活整合素(integrin)，同时作为连接细胞骨架与跨膜受体整合素的桥梁，在细胞黏附、迁移等过程中发挥着关键的调控作用．整合素的激活反应是通过Talin-FERM结构域的F3结合整合素 $\beta$ 亚基的胞内尾段来完成的．Talin 在体内存在自抑制与活化两种状态，我们之前解析的F2F3/R9复合物结构显示，在自抑制状态下，整合素结合位点F3与其尾部片段Talin-R9( $1 6 5 4 \sim 1 8 2 2 \mathrm { a . a . } )$ 结合，此时整合素不能被活化．然而，Talin作为一个 $2 7 0 \mathrm { k u }$ 的大蛋白，除了F3和R9以外的部分在 Talin 自身的活化过程中如何协同发挥作用，至今仍是未知的．我们分别解析了Talin R9-10( $1 6 5 4 \sim 1 9 7 3$ a.a.)、R10-11$( 1 8 1 5 \sim 2 1 4 0 \mathrm { a . a . }$ 的双螺旋束晶体结构，单独的R9、R10、R11均为5-螺旋的螺旋束结构，R9-10之间通过一条长 $\propto$ 螺旋连接，R9和R10交错排列在该螺旋的两侧，夹角约为 $1 5 0 ^ { \circ }$ ；R10-11之间的柔性连接区在周围氢键网络的稳定下，使R10和R11形成了约 $1 2 0 ^ { \circ }$ 的夹角．晶体结构中观察到的夹角与前人的小角散射及电镜结果相吻合．结合已有的R7-8、R11-12结构进行重叠，得到的R7-12拼接结构模型表现为伸展的长棒状，R8则凸出于长棒之外；R10-12不影响F3的结合，而R8不仅在空间上遮盖了F3的结合位点，而且可能通过电荷排斥 F2F3．凝胶排阻层析实验也证实了这一点．本工作为进一步阐释Talin的自抑制机制提供了分子基础.
+
+关键词Talin，R9-10，R10-11，晶体结构，双螺旋束，自抑制学科分类号Q5，Q6，Q7
+
+DOI:10.16476/j.pibb.2015.0081
+
+Talin蛋白于30年前被人们发现，广泛存在于胞质中，并对细胞骨架的组织、细胞外基质黏附有重要作用[．体外实验表明缺失Talin将严重阻碍细胞伸展及细胞-胞外基质连接[2-4]，而敲除talin-1基因对原肠胚时期的小鼠胚胎是致死的[5．Talin在一系列由整合素介导的细胞黏附相关的生理过程中都发挥着关键的调控作用，如细胞变形、生长、分化、迁移等[6-7．Talin同时具有结合整合素和肌动蛋白的能力，不仅能够作为接头分子连接细胞骨架与胞外基质[8，更能够激活整合素，使其结合配体的能力从低亲和状态转化为高亲和状态，进而实现信号由胞内向胞外的传递[9-1].
+
+全长的Talin蛋白含有2541个残基，单体分子质量约为 $2 7 0 \mathrm { k u }$ ，由N端的头部结构域 $( 1 \sim 4 0 0$ a.a.，分子质量约 $4 7 \mathrm { \ k u } \dot { }$ 通过一段柔性区域和C端较长的ROD尾部结构域 $4 8 2 \sim 2 ~ 5 4 1$ a.a.，分子质量约 $2 2 0 \mathrm { k u } )$ 连接而成．Talin头部包含FO结构域和一个 FERM (four-point-one-protein/ezrin/radixin/moesin)结构域(由线性排列的F1、F2、F3组成)[2],其中F3 的类 PTB(phosphotyrosine-binding domain-like，PTB-like)结构域能够与β整合素的胞内段尾部结合，诱导整合素发生变构，进而被激活，FO和 F1的存在也利于实现整合素(integin)的最大激活[3]，分布在FERM结构域一侧的连续碱性残基能够与酸性细胞膜磷脂结合，对于整合素的活化也是不可缺少的[4]．尾部柔性的ROD结构域含有由 62个两亲性 $\propto$ 螺旋组成的13个螺旋束(R1-R13)，以及C端的一个 $\propto$ 螺旋(dimerization domain，DD),后者能够和另一Talin分子的DD形成coiled-coil从而介导Talin二聚化[(图1a)．每个螺旋束由 $4 { \sim } 5$ 个 $\propto$ 螺旋组成，螺旋束内部形成稳定的疏水核心．Talin ROD 结构域起始于一个5-螺旋束(R1),其后接着3个4-螺旋束(R2-4)；R2 通过丰富的疏水相互作用与R1结合形成一个双结构域(double-domain)[．尽管R2、R3、R4之间没有相互作用，由于4-螺旋束的N、C端位于结构域的同一侧，R1-4在空间上形成了紧密的排列．R4之后连接着8个5-螺旋束(R5-7,R9-R13)，由于5-螺旋束的N、C端分别位于结构域的两侧，因此它们可以形成首尾相接、线性排列的长棒状．其中唯一的4-螺旋束R8并没有打破这种线性排列，因为它并非位于R7和R9之间，而是插入了R7螺旋束的一段loop中[7．截至目前，除了几段柔性区域，Talin上所有结构域的结构都已通过NMR或晶体学方法得到解析[18]，然而，除了R1-2、R7-8以及R11-12的结构是以双结构域的形式得到解析，ROD尾部的其他结构均是以单个螺旋束分别测定的．因此，其他各螺旋束之间的相对朝向与位置关系仍不清楚，另外突出于连续排列的ROD尾部的R8究竟发挥着何种作用也是未知的.
+
+为了实现对细胞黏附等动态过程的调控，Talin存在抑制及活化两种不同的状态，前人通过凝胶排阻层析、分析型超速离心、电镜观察等实验手段进行了研究，结果均表明Talin在溶液中存在两种构象状态：紧密折叠的球形状态和松散柔性的伸展状态，而去掉头部的Talin尾部则只呈现伸展的构象状态[．上述结果提示，头部和尾部之间可能存在的相互作用对于Talin形成球形构象有着重要作用．后来的功能研究也发现Talin尾部的R9能够与整合素结合关键位点F3相互作用[2，形成首尾相接的自抑制状态，从而阻碍F3与整合素结合，抑制激活过程，我们曾报道了Talin的F3与R9 形成自抑制复合物的晶体结构[2I，R9与F3结合后不仅在空间上遮盖了整合素的结合位点，还能通过R9侧面富集的负电荷阻止FERM结构域与细胞膜结合．2013年，火鸡砂囊中提取的Talin1全长的低分辨率(25A)负染电镜结构得到解析，作者结合X 射线小角散射(small angleX-ray scattering,SAXS)和 核 磁 共 振(nuclear magnetic resonance,NMR)结果得到了最终的结构模型，表明Talin 二体在抑制状态下确实呈现为紧密折叠的球状，两个
+
+Talin分子的ROD结构域盘绕成“多纳圈”形(donut-shape)的结构，两个头部结构域则并排占据了圈形的中心[22]．然而受限于较低的分辨率，作者无法观察到具体的结构细节以及各结构域之间的相互作用及排列方式．因此，在Talin这样一个巨大的蛋白质中，除了直接参与自抑制的F3与R9结构域外，其他部分在自抑制/活化的变构过程中发挥着什么样的作用？这仍是一个亟需解答的问题.我们在本研究中分别解析了TalinR9-10、R10-11的双螺旋束结构，分析了相邻螺旋束之间的相对朝向和夹角，结果与前人的SAXS及电镜模型中的角度基本相符；进一步通过叠合已有结构的重叠部分，得到了F2F3与R7-12的结构模型，结果显示R7-12呈现首尾相接的长链状构象，而R8则凸出于长链之外，恰好从空间上遮盖了F2F3与R9的结合位点；此外R8上富集的正电荷也很可能排斥同样带正电的F2F3．凝胶排阻层析实验的结果与上述模型一致：R7-8能够阻碍自抑制复合物的形成，而R10则不影响F3与R9结合．我们的工作为进一步阐明Talin的变构调控机制提供了结构基础.
+
+# 1材料与方法
+
+# 1.1克隆、表达与纯化
+
+# 1.1.1Talin 重组质粒的克隆
+
+鼠源Talin1全长基因由美国克利夫兰医学研究院秦军教授提供．设计特异性引物，通过PCR扩增得到Talin1R9-R10( $1 6 5 4 \sim 1 9 7 3$ a.a.)、R10-R11( $1 8 1 5 { \sim } 2 1 4 0 \mathrm { a . a . }$ )片段，并通过对目的条带切胶回收、双酶切、连接至经本实验室改造的pET28a载体(在 ${ \boldsymbol { 5 } } ^ { \prime }$ 端 $6 \times$ 组氨酸标签后加入了PreScissionProtease酶切位点)，将连接产物转化 $\mathrm { D H } 5 \alpha$ 感受态细胞，并经过菌落PCR和测序鉴定得到阳性克隆．提取阳性克隆质粒，转化至BL21感受态细胞用于表达.
+
+# 1.1.2 R9-10、R10-11蛋白的表达与纯化
+
+表达：挑取BL21单菌落，接菌至 ${ 5 } \mathrm { m l }$ 含卡那霉素的LB液体培养基中，于 $3 7 ^ { \circ } \mathrm { C }$ ， $2 0 0 ~ \mathrm { r / m i n }$ 过夜培养后，全部接入 $8 0 0 \ \mathrm { m l \ L B }$ 培养基中扩大培养，至 $\boldsymbol { A } _ { 6 0 0 }$ 达到0.8左右，降温至 $1 6 ^ { \circ } \mathrm { C }$ ，并加入$0 . 2 \mathrm { m m o l / L }$ IPTG低温诱导表达 $2 0 \mathrm { h }$ ．离心收集菌体后，每1L菌体用 $4 0 ~ \mathrm { m l }$ PBS缓冲液进行重悬.
+
+纯化：超声破碎菌体，将破碎的菌液于 $4 ^ { \circ } \mathrm { C }$ ，$1 6 ~ 0 0 0 ~ \mathrm { r / m i n }$ 高速离心 $3 0 ~ \mathrm { m i n }$ ，收集上清，将上清液流穿镍柱进行亲和层析纯化，用 $1 0 0 \ \mathrm { m l }$ $2 0 \mathrm { m m o l / L }$ 咪唑-PBS溶液洗去杂蛋白，最后用 $1 0 \mathrm { m l }$ $3 0 0 \mathrm { m m o / L }$ 咪唑-PBS溶液洗脱目的蛋白．将目的蛋白加入超滤管(截留分子质量为 $1 0 \mathrm { { k u } }$ ，Millipore产)中， $3 ~ 5 0 0 \ g$ 离心，待样品浓缩至 $5 0 0 ~ \mu \mathrm { l }$ 时加入预冷PBS至 $1 5 ~ \mathrm { m l }$ ，继续浓缩至 $5 0 0 ~ \mu \mathrm { l }$ 时再次加入PBS，重复前述步骤至样品中咪唑含量低于$1 0 \mathrm { m m o l / L }$ ．向蛋白质样品中加入PreScissionProtease于 $4 ^ { \circ } \mathrm { C }$ 过夜，酶切以除去N端的 $6 \times$ 组氨酸标签，之后将样品再次流穿镍柱，收集流穿液和 $2 0 \mathrm { m m o l } \mathrm { L }$ 咪唑-PBS洗脱液即得到除去标签的目的蛋白．将目的蛋白浓缩至 $5 0 0 ~ \mu \mathrm { l }$ ，高速离心后在AKTApurifier系统(GEHealthcare 产)上进行分子筛层析纯化．使用的层析柱为HiLoad $1 6 / 6 0$ Superdex 75/200(GEHealthcare产)，分子筛缓冲液为： $2 0 \ \mathrm { m m o l / L }$ Tris， $\mathrm { p H } 8 . 0$ ， $2 0 0 \mathrm { m m o l / L N a C l }$ ：根据系统检测的$\mathrm { U V } _ { 2 8 0 }$ 吸收情况收集样品．每一步纯化步骤得到的样品均通过SDS-PAGE进行检测.
+
+# 1.2结晶、数据收集及结构解析
+
+# 1.2.1 R9-10、R10-11的晶体筛选与优化
+
+将纯化得到的蛋白样品分别浓缩至 $1 0 \ \mathrm { g / L }$ ，使用Mosquito机器人和商品化结晶条件试剂盒(Hampton research、 MCSG 产)，以 $0 . 2 / 0 . 2 ~ \mu \mathrm { l }$ 点坐滴板进行结晶条件筛选．R9-10、R10-11在1周左右均有多个条件长出晶体，通过梯度优化沉淀剂、pH、盐浓度等条件，最终在下述条件得到了可用于收集数据的单晶．R9-10： $2 \%$ Tacsimate $\mathrm { p H } 4 . 0$ 0.1 mol/L $\mathrm { C H _ { 3 } C O O N a }$ $\mathrm { \ p H } 4 . 6$ ， $1 6 \%$ PEG3350;R10-11: 0.2 mol/L $\mathrm { \Delta N H _ { 4 } C l }$ ， $0 . 1 \ \mathrm { m o l / L }$ MES $\mathsf { p H } 6 . 0$ $1 8 \%$ PEG6000.
+
+# 1.2.2 数据收集与结构解析
+
+在上海同步辐射光源BL17U晶体学线站收集到了分辨率分别为2.2A(R9-10)和1.95A(R10-11)的衍射数据，以 talin-R9(PDB code：2KBB)、R10(PDB code: 2KVP)和 R11(PDB code: 3DYJ)各自的结构为初始模型通过分子置换法确定相位解，解析了talinR9-10、R10-11的晶体结构．交替使用Phenix软件[23]在倒易空间中自动修正结构以及Coot软件[24在正空间中手动修正结构.
+
+# 1.3分析性凝胶排阻层析实验
+
+分析性凝胶排阻层析实验所用的缓冲液同前.使用的凝胶层析柱为Superdex20010/300(GEHealthcare产)．为检测复合物的形成，按分子摩尔比约 $1 : 1$ 混合F2F3(纯化方法见文献[21])与R9-10或R7-9(纯化方法同R9-10)，并在冰上孵育 $^ { \mathrm { ~ 1 ~ h ~ } }$ 高速离心后上样．通过 $2 8 0 \mathrm { n m }$ 的吸收值检测确定蛋白质的洗脱体积.
+
+# 2结果与讨论
+
+# 2.1 TalinR9-10的整体结构
+
+Talin尾部的ROD结构域由13个螺旋束组成，每个螺旋束由 $4 { \sim } 5$ 个 $\propto$ 螺旋组成．我们通过分子克隆，成功地构建了Talin ${ \mathrm { R 9 - 1 0 } } ( 1 6 5 4 \sim 1 9 7 3 { \mathrm { ~ a . a . } } ) .$ R10-11( $1 8 1 5 \sim 2 1 4 0$ a.a.)的重组表达质粒，并利用大肠杆菌表达系统，进行大量表达、纯化和结晶，最终解析得到了分辨率分别达2.2A(R9-10)和 $1 . 9 5 \mathrm { \AA }$ (R10-11)的结构．数据收集及结构修正统计见表1.
+
+Table 1 Data collection and refinement statistics   
+
+<html><body><table><tr><td>Data</td><td>R9-10</td><td>R10-11</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>P1</td><td>P222</td></tr><tr><td>Cell parameters (a, b,c)</td><td>27.9,50.7,49.9</td><td>27.5,94.9,114.1</td></tr><tr><td>Cell parameters (α, β, γ)</td><td>110.0,95.9,97.1</td><td>90,90,90</td></tr><tr><td>Wavelength/A</td><td>0.97930</td><td>0.97928</td></tr><tr><td>Resolution range/A</td><td>50-2.20 (2.25-2.20) 50-1.95 (1.98-1.95)</td><td></td></tr><tr><td>Data completeness/%</td><td>97.3 (98.1)</td><td>96.7 (95.8)</td></tr><tr><td>Number of unique reflections</td><td>12624 (776)</td><td>22089 (1076)</td></tr><tr><td>Redundancy</td><td>3.9 (4.0)</td><td>6.3 (6.1)</td></tr><tr><td>Rmerge/%</td><td>7.4 (27.2)</td><td>8.0 (63.4)</td></tr><tr><td>())</td><td>18.9 (8.1)</td><td>20.6 (3.3)</td></tr><tr><td>Refinement Statistics</td><td></td><td></td></tr><tr><td>Rwork/%</td><td>20.9</td><td>19.5</td></tr><tr><td>Rfree/%</td><td>25.3</td><td>23.7</td></tr><tr><td>r.m.s.d. bonds/A</td><td>0.004</td><td>0.006</td></tr><tr><td>r.m.s.d. angels/A</td><td>0.913</td><td>0.902</td></tr><tr><td>Average B-factor/A²</td><td>36.9</td><td>28.1</td></tr><tr><td>Number of protein atoms</td><td>2401</td><td>2324</td></tr><tr><td>Number of Solvent atoms</td><td>94</td><td>299</td></tr><tr><td>Ramachandran plot statistics/%</td><td></td><td></td></tr><tr><td>Preferred</td><td>293</td><td>309</td></tr><tr><td>Allowed</td><td>8</td><td>10</td></tr><tr><td>Outliers</td><td>3</td><td>0</td></tr></table></body></html>
+
+# 2.1.1 R9-10 的整体结构
+
+R9-10晶体的空间群为P1，相对较为罕见．同时每个不对称单位中含有一个蛋白质分子，不存在进一步提升晶体学对称性的可能．单独的R9、R10 结构域均为由5个 $\alpha$ 螺旋 $( \alpha 1 - 5 , \ \alpha ^ { \prime } 1 - 5 )$ 组成的螺旋束结构(图1b,c)，此前已有R9和R10各自独立的NMR 结构[25-26(R9： $1 6 5 5 \sim 1 8 2 2$ a.a.，pdbcode: 2KBB； R10: $1 8 1 5 \sim 1 9 7 3$ a.a.， pdb code:2KVP)，以及我们报道的R9/F2F3的自抑制复合物结构(PDB code：4F7G)．将R9-10 结构与单螺旋束的NMR溶液结构进行比较，R9-10与单独R9结构的主链rmsd为1.001A，与R10 结构的rmsd为$0 . 7 0 5 \mathrm { \AA }$ ，说明单个螺旋束的整体结构高度一致，R9与R10共同存在时并不影响各自螺旋束的结构．每个螺旋束均由5个两亲性的 $\alpha$ 螺旋反平行排列组成，朝向外部溶液环境的一侧大多为亲水性残基，而内侧形成的疏水核心稳定了整个螺旋束的结构．每个螺旋束的 $\alpha 2 \sim 5$ 均以上-下－上-下的方式折叠成左手4-螺旋束(left-handedup-down-up-down 4-helixbundles)，其各螺旋间的连接区较短 $( 3 \sim 6$ a.a.)，而 $\mathbf { \alpha } _ { \alpha 1 }$ 则通过一段较长的柔性区( $1 0 \sim 1 1$ a.a.)与 $\propto$ 相连．不论在R9-10的晶体结构还是NMR结构中，该连接区均表现出较大的柔性．这种拓扑方式与此前解析的Talin尾部的其他5-螺旋束(R1、R5、R6、R7、R9-R13)均相同[18];且该拓扑特征目前只在Talin中被发现[17,27]．此外，在 F2F3/R9复合物结构中，F3通过两段突出的loop区与R9的 $\propto 1 / \alpha 3 / \alpha 5$ 一侧结合，与R9-10进行重叠后，R10在空间上不影响F2F3的结合；重叠后R9主链的rmsd值为 $1 . 5 1 2 \mathrm { \AA }$ ，表明结合F3与否对于R9的整体结构并没有产生显著地影响；而涉及R9与F3相互作用的8个主要残基中，只有E1770和M1802的侧链朝向在结合F3前后有微小的区别，这一结果表明R9稳定的螺旋束结构始终处于利于F3结合的状态.
+
+![](images/ed1ce0b1f0dc1399550e08cd4c80a764c810061f198604de786cad36f412d248.jpg)  
+Fig.1 Overall structures of Talin R9-10 and R10-11
+
+(a) Schematic diagram of Talin showing the N-terminal HEAD domain (residues $1 \sim 4 0 0$ )containing FO and a FERM domain (F1,F2,andF3)and the C-terminal ROD domain (residues $4 8 2 \sim 2 5 4 1$ ）containing $6 2 \alpha$ -helices (ovals) organized into 13 helical bundles (Ro-R13).Residue numbers for R9-10 andRl-led.ace).allcureofdfca showintheameoetatosi)fbtlloodateBfctosfroaltgTsessofeb segmentisproportioaltoteaverageB-fctoroftesegment.(e)B-factorpresentatioofR10-lsowinthesameorientatioasin(c).
+
+R9-10结构中，两个螺旋束之间由1821AGVVGG1826连接，尽管该序列中含有3个甘氨酸残基，但在晶体结构中并没有形成无规则的柔性区，而是与前后序列共同组成了一段很长的 $\propto$ 螺旋 $\mathrm { ( H _ { L } }$ ，T1785-E1840)，螺旋的N端前半段(T1785-S1819)参与形成R9 螺旋束，C端后半段(A1820-E1840)参与形成R10螺旋束(图2a)，连接区的骨架氢键呈现为标准的 $\propto$ 螺旋骨架氢键．有趣的是， $\mathrm { \Delta H _ { L } }$ 中残基的亲水性在整个螺旋N端与C端的分布恰好是相反的，朝向R9及R10螺旋束内部的一侧均为疏水残基，暴露在溶液的一侧均为亲水性及酸性残基，从而使得R9和R10交错排列在$\mathrm { H } _ { \mathrm { L } }$ 的两侧(图2b)，两螺旋束之间形成大约 $1 5 0 ^ { \circ }$ 的夹角．R9和R10之间除 $\mathrm { H } _ { \mathrm { L } }$ 的连接之外，几乎没有其他直接的相互作用，除了一个水分子(Wat4)同时和R9 $\propto 4 \mathrm { ~ N ~ }$ 端的S1754以及位于 $\mathrm { R } 1 0 \ \alpha ^ { \prime } 4$ C端的S1940 侧链羟基氧形成氢键(图2c)．在我们之前报道的F2F3/R9自抑制复合物结构中，尽管其中R9构建(起止位点为 $1 6 5 4 \sim 1 8 4 7$ a.a.)的C端涵盖了 $\mathrm { H } _ { \mathrm { L } }$ 的全部序列，但在该结构中R9的C端螺旋以A1821结尾，G1825-E1847部分的电子密度缺失了，说明无R10的情况下，该螺旋的后半段处于高度柔性的无规则卷曲状态．R9-10的这种构象也许只是Talin变构过程中的可能构象之一，虽然目前的晶体排列有利于连接区形成连续的 $\alpha$ 螺旋结构，但富含甘氨酸的连接区也同样易于形成柔性的无规则构象，从而使R9与R10之间的角度发生变化．连接区 $\mathbf { x G x V x G }$ 的排列在人、鼠、鸡、果蝇以及线虫中都是保守的，提示了其在维持Talin整体结构中的重要性，以及在螺旋／柔性区之间发生变构的可能性.
+
+# 2.1.2 R10-11的整体结构
+
+R10-11晶体的空间群为 $ { \mathbf { P } } 2 _ { 1 } 2 _ { 1 } 2 _ { 1 }$ ，每个不对称单位中含有一个分子．R11同样是由5个两亲性的$\alpha$ 螺旋 $( \alpha ^ { \prime \prime } 1 \sim 5 )$ 反平行排列组成的左手螺旋束，拓扑结构也与Talin其他5-螺旋束高度相似， $ { \alpha } " 1$ 通过一段10a.a.的柔性区与上-下-上-下排列成左手螺旋束的 $\alpha ^ { \prime \prime } 2 \cdot 5$ 相连．将R10-11与R11-12的晶体结构中的R11进行重叠后，主链的rmsd值为$0 . 5 6 9 \mathrm { \AA }$ ：
+
+在R10-R11结构中，两螺旋束之间的连接区很短，两个螺旋通过 ${ } ^ { 1 9 7 1 } \mathbf { G N R } ^ { 1 9 7 3 }$ 相连并形成约 $1 2 0 ^ { \circ }$ 的夹角，使得R10 和R11以“V”字形排列．在R10与R11的连接区附近形成了丰富的氢键网络：连接区两侧的Q1969与Q1976的酰胺基之间形成了3.12A的氢键，而位于 $\mathrm { R } 1 0 \alpha ^ { \prime } 2 \mathrm { N }$ 端的1854Q与连接区的1972N的侧链酰胺基相互作用，形成了$2 . 7 3 \mathrm { \AA }$ 的氢键，同时R10上的1908E侧链羧基氧与2041Q(位于 $\boldsymbol { \mathrm { R } } \boldsymbol { 1 } \boldsymbol { 1 } \ \boldsymbol { \alpha } ^ { \prime \prime } \boldsymbol { 3 }$ 的 $\mathrm { ~  ~ N ~ }$ 端)骨架主链上的氨基形成了 $2 . 7 4 \mathrm { \AA }$ 的氢键(图2d)．这些氢键作用降低了R10 和R11之间连接区的柔性，使得两个螺旋束彼此的朝向相对稳定．连接区与周围螺旋区域的B因子值均处于较低的水平 $( \leqslant 3 2 . 5 7 \mathrm { \AA } )$ ，也证实了连接区的相对稳定性(图1e).
+
+![](images/07d61343d8a82ef45d1fa31cf2f11c035e683b47dd51c48d473f33e7e687c597.jpg)  
+Fig.2The linker regions of R9-1O and R10-11
+
+(a)The linker region between R9 and R1O adopts a $ { \alpha }$ -helical conformation and fuses the last helix ofR9 and the first helix ofR1o into a long $\alpha$ -helix (residues $1 7 8 5 \sim 1 8 1 9$ , termed $\mathrm { H } _ { \mathrm { L } }$ colored in dark green). The side chains in $\mathrm { H _ { L } }$ are shown as sticks and colored in red for oxygen atoms,blue for nitrogen atoms.(b) Electrostatic surface representation of $\mathrm { H _ { L } }$ shows its unique amphipathicity distribution.The blue area represents positive charge enriched region and red area indicates negative charge enriched region.(c) The hydrogen bonds formed between S1754 in R9 and S1940 in $ { \mathrm { ~ R ~ l ~ } } 0 \ v i a$ water molecule Wat4 are presented as black dashed lines.(d) The hydrogen bond network around the linker region (yellow） stabilizes the relative orientations of R1O and R11．The hydrogen bonds are shown as black dash lines,and the involved residues are shown as sticks.
+
+# 2.2 晶体结构与SAXS、电镜结果的比较
+
+前人利用SAXS和NMR方法，对TalinROD结构域的所有相邻两螺旋束进行体外重组表达纯化，测定了每个双螺旋束在溶液中的形状以及各相邻螺旋束之间的夹角和相对朝向[22]，结果表明，TalinROD尾部的各螺旋束之间均由类似铰链的连接区连接，在不破坏螺旋束首尾相接的情况下能够进行有限的相对运动，这样的拓扑性质使得TalinROD区域可能采取更加伸展和灵活的构象．SAXS结果显示R9-10在溶液中的夹角为 $1 2 9 ^ { \circ }$ ，比我们在晶体结构中观察到的(约 $1 5 0 ^ { \circ }$ 略小，R10-11在溶液中的夹角为 $1 2 4 ^ { \circ }$ ，与我们的晶体结构(约 $1 2 0 ^ { \circ } )$ 基本吻合．作者根据SAXS结果进行装配，得到的电镜结构三维模型中的R9-10、R10-11夹角分别为$1 4 7 ^ { \circ }$ 和 $1 3 7 ^ { \circ }$ ，与晶体结构相比，这一结果与R9-10的夹角基本吻合但比R10-11略大．三种不同的结果说明TalinROD结构域的各部分在不同环境下可以通过柔性的连接区采取不同的相对朝向，导致蛋白整体呈现不同的构象状态，进而实现Talin自抑制/活化的变构调控.
+
+![](images/5deb2897346a09cdfcd7f81de8a9b908430bbb4e14fe1b49b6a2ecfcf83e207c.jpg)  
+Fig.3Modeling of the F3-Rod binding mechanism
+
+(a)Superposition of the structures of R7-8 (salmon),R9-1O (green), R10-11 (cyan) and R11-12 (pink).(b) Superposition of the structures of F2F3/R4 complex (yellow),R9-10 (green),R10-11 (cyan) and R11-12 (pink).R9-12 adopts an extended conformation which allows F3 binding to R9.(c) Superposition of all the above structures in(a) and (b).R8 occupies the position for F3 binding and might play a role in the regulation of Talin auto-inhibition.
+
+# 2.3 R8阻碍F3与R9的结合
+
+鉴于晶体结构中R9、R10、R11之间的夹角与溶液状态及电镜结构基本吻合，我们将R9-10、R10-11的晶体结构与序列上有重合区段的R7-8(pdb code:2X0C)、R11-12 结构(pdb code:3DYJ)重叠在一起，得到了与Talin自抑制直接相关的RODR7-12的拼接结构模型．R8是其中唯一的4-螺旋束，但并未接在R7尾部，而是插入了R7螺旋束 $\propto 3$ 和 $\propto$ 之间的loop区，被R8分为两段的loop 形成了类反平行 $\beta$ 片层的结构．尽管R7和R8 之间除loop 的连接以外没有其他相互作用，但类 $\beta$ 片层的氢键作用降低了连接区的柔性，使得R7与R8之间朝向的可变性受到了一定程度的限制[17．在R11-12的双螺旋束晶体结构中，两个螺旋束也像R9-10一样由连续的长螺旋连接，但在两个螺旋束的相邻处出现了扭结(kink)，使得R11 和R12 之间形成了一定的夹角，呈V字形排列．此外与R9-10 不同的是，该长螺旋残基的亲水性分布在N、C端是相同的，导致R11和R12均位于长螺旋的同一侧．重叠后得到的R7-12 模型中，序列重叠部分的螺旋束结构(R10、R11)能够较好地重合，说明周围螺旋束的存在对于单个螺旋束的构象基本没有显著影响．R7-12 的整体结构呈现出较为伸展的构象，R7的5-螺旋束通过一段短连接区与R9 及其他5-螺旋束形成首尾相接、线性排列的长棒状，而R8的4-螺旋束则凸出于整个长棒之外，几乎呈垂直角度(图3a)．这一模型与前人的SAXS结果相符：R7与R9 通过短loop 相连，而R8伸出的位置靠近R7和R9之间的连接区,使得R7-9 片段在溶液中表现为“三叶草”状结构．将F2F3/R9的复合物结构同时与R9-12 重叠之后的模型显示，R9-12 延伸的长轴方向与F2F3的长轴近似垂直，不会对 F3 接近R9 形成空间位阻，因而R10-12 的存在不影响 F3与R9 的结合(图3b)；而将 F2F3/R9与 R7-12的结构进行重叠后的模型中，凸出于长链的R8所处的位置恰好遮盖住了R9与F3相互作用的位点，从空间上阻碍了自抑制状态的形成(图3c).这一结构模型也与凝胶排阻层析实验的结果相符合：体外表达纯化的F2F3能够与R9-10 结合，以复合物的形式共同出峰(图 4a,b)；而 F2F3与 R7-9共孵育后并没有形成复合物，依然保持各自的出峰位置(图 4c,d)．此外，Talin ROD上各螺旋束的等电点均为酸性pH值 $( 4 . 4 \sim 6 . 1 )$ ，表面带负电，唯独R8 的等电点为7.8，表面带正电荷，尽管有报道称
+
+R8不能结合磷脂，但有趣的是，F2F3同样表面富集正电荷，R8迥异于其他ROD区域的带正电性使得其不仅能在空间上阻止F3与R9接近，而且很可能利用同种电荷排斥F2F3，从而在Talin的自抑制/活化过程中发挥重要的调控作用．这一结构模型为伸展的TalinROD中部为何出现了单独一段凸出的R8提供了可能的解释．值得注意的是，各螺旋束之间是通过具有一定柔性的铰链区连接，因此我们的模型只是提供了Talin在变构的动态过程中的一种可能的稳定状态.
+
+![](images/9add4f9e0990119847aa673de7980a1d903a8d8d66cc175936007d6acce62ab5.jpg)  
+Fig.4Validation of the F3-Rod binding mechanism
+
+(a)AnalysisofteinteractiosbeteeTalnFnd-gelfilratio()AGoftesaeeutiofractiosofeachgelilr shownin(a)idaat-eutedoples.calstteactTlF9.d ofthesame elution fractions ofeach gelfitrationrunshown in (c)indicates thatF2F3andR7-9 failed to formcomplexes.
+
+# 3结论
+
+Talin作为整合素唯一的直接激活分子，在细胞黏附、迁移等大量细胞-胞外基质相互作用相关的生理病理过程中发挥着关键的调控作用．过度的Talin活性将会导致整合素功能失调，与多种人类疾病，如血栓、中风、癌症转移等病理现象的产生相关[28]．因此阐明Talin是如何实现自抑制/活化的变构调控过程，对于人们理解整合素活化及细胞迁移的上游调控机制以及各种疾病的产生机理有着重大的意义．然而，目前对Talin自抑制状态及其调控机制的了解非常有限．此前我们报道了F2F3与R9形成Talin自抑制状态复合物的结构，为阐明Talin的调控机制提供了重要的结构基础．但是，在整体的Talin蛋白中，除了直接参与自抑制的结构域外，Talin的其他部分，特别是与R9相邻的部分，在自抑制/活化的转化过程中发挥着什么样的作用，这仍是一个需要解答的问题．Talin的ROD结构域由13个连续的螺旋束组成，尽管Talin所有结构域的结构都已得到解析，但除了R1-2
+
+0 $4 8 2 \sim 7 8 9$ a.a., pdb code: 1SJ8)R7-8( $1 3 5 9 \sim 1 6 5 9$ a.a.)、R11-12( $1 9 7 4 \sim 2 2 9 3$ a.a.)是同时包含双螺旋束的结构外，Talin尾部的其他结构域都只得到了单螺旋束的结构．解析双螺旋束的结构对于阐明相邻螺旋束的排列朝向有着重要的意义．我们分别解析了TalinR9-10、R10-11的双螺旋束晶体结构，发现R9和R10之间富含甘氨酸的连接区与前后序列共同形成了一段很长的 $\propto$ 螺旋 $\mathrm { H _ { L } }$ ， $\mathrm { H } _ { \mathrm { L } }$ 上亲／疏水性残基的分布方式使得R9和R10交错排列在 $\mathrm { H } _ { \mathrm { L } }$ 的两侧，形成约 $1 5 0 ^ { \circ }$ 的夹角；连接区上高度保守的$\mathbf { \pi } _ { \mathbf { X } } \mathbf { G x V } \mathbf { x G }$ 序列利于发生变构，很可能在Talin自抑制／活化的动态过程发挥折叠／伸展的作用.R10-11双螺旋束的连接区附近形成的氢键网络稳定了R10和R11的相对朝向，使得二者之间形成了约 $1 2 0 ^ { \circ }$ 的夹角．晶体结构中观察到的夹角与前人的SAXS及电镜结果相吻合．结合其他已知结构(R7-8、R11-12、F2F3/R4)得到的拼接结构模型发现，R7以及R9-12首尾相接形成了伸展的长棒，R10-12不影响自抑制复合物的形成；R8凸出于长棒之外，不仅能够直接在空间上阻碍F3与R4结合，同时很可能通过表面正电荷排斥同样带正电的F2F3．这一结果进一步得到了凝胶排阻层析实验的验证，提示R8螺旋束很可能在Talin的自抑制/活化过程中发挥重要的调控作用．我们的工作为进一步阐明Talin 的变构调控机制提供了结构基础，
+
+# 参考文献
+
+[1]Burridge K,Connell L.A new protein of adhesion plaques and ruffling membranes.The Journal of Cell Biology,1983,97 (2): 359-367   
+[2]Albigesrizo C,Frachet P,Block MR.Down-regulation of Talin alters cell-adhesion and the processing of the Alpha-5-Beta-1 integrin.JCell Sci,1995,108(Pt10): 3317-3329   
+[3]Priddle H,Hemmings L,Monkley S,et al.Disruption of the talin gene compromises focal adhesion assembly in undifferentiated but not diferentiated embryonic stem cells. Journal of Cell Biology, 1998,142(4): 1121-1133   
+[4]Zhang X,Jiang G,Cai Y，et al．Talin depletion reveals independence of initial cell spreading from integrin activation and traction. Nat Cell Biol,2008,10(9): 1062-1068   
+[5]Monkley S J, Zhou XH, Kinston SJ,et al.Disruption of the talin gene arrests mouse development at the gastrulation stage. Dev Dynam,2000,219(4): 560-574   
+[6] Critchley DR.Biochemical and structural properties of the integrinassociated cytoskeletal protein talin.Annu Rev Biophys,2009, 38: 235-254   
+[7]Critchley DR,Gingras A R.Talin at a glance.JCell Sci,2008, 121(9): 1345-1347   
+[8]Turner C E,Burridge K.Transmembrane molecular assemblies in cell-extracellular matrix interactions.Current Opinion in Cell Biology,1991,3(5): 849-853   
+[9]Calderwood D A,Zent R,Grant R,et al. The talin head domain binds to integrin beta subunit cytoplasmic tails and regulates integrin activation.Journal of Biological Chemistry,1999,274(40): 28071-28074   
+[10]Vinogradova O,Velyvis A,Velyviene A,et al．A structural mechanism of integrin alpha(IIb)beta(3) "inside-out" activation as regulated by its cytoplasmic face.Cell,2002,110(5):587-597   
+[11] Tadokoro S,Shatil SJ,Eto K,et al.Talin binding to integrin beta tails:a final common step in integrin activation. Science,2003, 302(5642): 103-106   
+[12] Goult B T, Bouaouina M, Elliott P R,et al. Structure of a double ubiquitin-like domain in the talin head: a role in integrin activation. Embo J,2010,29(6): 1069-1080   
+[13] Wegener KL,Partridge A W,Han J,et al.Structural basis of integrin activation by talin.Cell,2007,128(1): 171-182   
+[14」Bouaouina M,Laa Y,Caiaerwooa D A.Ine N-terminai qomains oI talin cooperate with the phosphotyrosine binding-like domain to activate beta 1 and beta 3 integrins.JBiol Chem,2008,283(10): 6118-6125   
+[15] Gingras A R,Bate N,Goult B T,et al.The structure of the C-terminal actin-binding domain of talin.Embo J,20o8,27 (2): 458-469   
+[16] Papagrigoriou E,Gingras A R, BarsukovIL,et al.Activation of a vinculin-binding site in the talin rod involves rearrangement of a five-helix bundle.Embo J,2004,23(15): 2942-2951   
+[17] Gingras AR,Bate N,Goult B T,et al. Central region of talin has a unique fold that binds vinculin and actin.Journal of Biological Chemistry,2010,285(38): 29577-29587   
+[18] Goult B T,Zacharchenko T,Bate N,et al.RIAM and vinculin binding to talin are mutually exclusive and regulate adhesion assembly and turnover.The Journal of Biological Chemistry,2013, 288(12): 8238-8249   
+[19] MolonyL,MccaslinD,Abernethy J,et al.Properties of talin from chicken gizzard smooth muscle.The Journal of Biological Chemistry,1987,262(16): 7790-7795   
+[20] Goksoy E,Ma Y Q,Wang X,et al.Structural basis for the autoinhibition of talin in regulating integrin activation.Molecular Cell, 2008,31(1): 124-133   
+[21] Song XQ,Yang J,Hirbawi J,et al.A novel membrane-dependent on/off switch mechanism of talin FERM domain at sites of cell adhesion. CellRes,2012,22(11): 1533-1545   
+[22] Goult B T,Xu X P,Gingras A R,et al. Structural studies on full-lengthtalinl reveal acompactauto-inhibiteddimer: implications for talin activation. Journal of Structural Biology, 2013,184(1): 21-32   
+[23] Adams P D,Afonine P V,Bunkoczi G,et al.PHENIX:a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr D,2010,66(Pt2): 213-221   
+[24] Emsley P,Lohkamp B,Scott W G,et al. Features and development of Coot. Acta Crystallogr D,2010, 66(Pt4): 486-501   
+[25] Goult B T,Gingras A R,Bate N,et al. The domain structure of talin:Residues l815-1973 form a five-helix bundle containing a cryptic vinculin-binding site.Febs Lett,2010,584(11): 2237-2241   
+[26] Goult B T,Bate N,Anthis N J,et al.The structure of an interdomain complex that regulates talin activity.Journal of Biological Chemistry,2009,284(22): 15097-15106   
+[27] Holm L, Sander C.Dali—a network tool for protein-structure comparison. Trends Biochem Sci,1995,20(11): 478-480   
+[28] Cox D， Brennan M, Moran N. Integrinsas therapeutictargets: lessons and opportunities.Nat Rev Drug Discov,2010,9(10): 804- 820
+
+# Structural Study on Two Tandem Helix Bundles of The ROD Domain of Talin, an Integrin Activator"
+
+LIN Lin1,2), SONG Xian-Qiang1), YE Shengl)\*, ZHANG Rong-Guangl)\*\* （ $^ { 1 ) }$ National Laboratoryofiomacromolecules,Instituteofiophysics,ChineseAcademyofSciences,Beijingo,China; 2) University of Chinese Academy of Sciences,Beijing 10o049,China)
+
+AbstractTalin,as the activator of integrin and the adaptor between the cytoskeleton and integrin,plays a key role ina series ofprocesses such as celladhesion and migration.The activation of integrin involves F3 subdomain of Talin-FERM domain binding the cytoplasmic tail of integrin $\beta$ -subunit. Talin has two states: auto-inhibited and activated.We previously reported the auto-inhibition complex structure of Talin F2F3/R9,in which the integrin binding site F3 interacts with R9( $1 6 5 4 \sim 1 8 2 2$ a.a.) of Talin-ROD, such that integrin cannot be activated. However, besides F3 and R9,it remains unclear what structural or functional roles the other domains of the $2 7 0 \mathrm { k u }$ Talin play in the regulation of its activation. Here we solved the crystal structures of Talin R9-R10 （ $1 6 5 4 \sim 1 9 7 3$ a.a.) and R10-R11 ( $1 8 1 5 \sim 2 1 4 0$ a.a.),respectively. R9,R1O and R11 are all 5-helix bundles. R9 and R1O is joined together by a long $\alpha$ -helix instead of a flexible loop,and the two bundles are located at the opposite sides of the long helix with an angle of about $1 5 0 ^ { \circ }$ . The linker between R10 and R11 is stabilized by neighboring hydrogen bonds, forming an angle of about $1 2 0 ^ { \circ }$ between the two bundles. These angles observed in our crystal structures are consistent with the previously reported SAXS and EM results.After superimposition of R9-10,R10-11 with previously reported structures of R7-8 and R11-12,a model ofR7-12 was acquired, which adopts an elongated linear conformation,except that R8 protrudes from the ROD.According to this model,R10-12 does not intrude the interaction between F3 and R9,whereas R8 not only masks the F3 binding site of R9,but also might electrostatically hinders F2F3 approaching via its unique positively charged surface.This hypothesis was further verified by the results of size exclusion chromatography. Our work provides a new structural basis for studying the mechanism of Talin auto-inhibition.
+
+Key wordsTalin, R9-10, R10-11, crystal structure, tandem helix bundles,auto-inhibition DOI: 10.16476/j.pibb.2015.0081

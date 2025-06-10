@@ -1,0 +1,173 @@
+# 基于图形学的致旱天气系统自动识别技术
+
+邵建²，胡文东³，杨有林¹，裴晓蓉¹，郑鹏徽²（1．中国气象局旱区特色农业气象重点实验室,宁夏银川750002；2．宁夏气象台,宁夏银川 75002；3．成都信息工程大学大气科学学院，四川成都610225)
+
+摘要：基于图形学分析技术,采用追踪算法、矢量分析法,利用常规 MICAPS 数据、NECP逐日再分析资料和 EC细网格资料,对我国西北地区致旱天气系统进行识别试验。通过试验,得到如下结论： $\textcircled{1}$ 依据天气学定义，利用追踪算法能够成功识别高空槽、高空脊等主要系统,并可得到其曲率特征; $\textcircled{2}$ 利用该方法识别天气尺度系统,系统中心识别率高达 $9 0 \%$ 以上、平均误差小于 $0 . 5 ^ { \circ }$ ，而高空槽识别准确率为 $7 4 \% \sim 8 7 \%$ ,平均识别误差为 $0 . 7 ^ { \circ } \sim 1 . 4 ^ { \circ }$ 0利用风场进行订正后,准确度明显提高、误差有所减小,基本可以满足十旱预测、预报业务需求。
+
+关键词：天气系统；图形化；自动识别；追踪算法
+
+近年来全球气候变暖日益严重，全球干旱问题日益突出。干旱是西北地区自然环境的最大特点[1-7],其分布着全国 $8 5 \%$ 的干旱或半干旱土地面积。研究导致西北干旱气候的主要天气系统，分析其本身特征，预测其变化趋势,对西北地区的未来发展具有十分重要的现实意义。目前，在天气预报业务系统中，通过影响天气系统的类型判识、位置判识、强度判识，根据概念模型进行预报推理，是最为基本的预报方法之一。影响天气系统识别的基本业务需求为：确定槽、脊及其位置，闭合高、低系统中心位置与强度，对指定地点的相对距离与前后位置，系统的移动路径及发展趋势等。
+
+常规的天气图分析重视的是高度场和风场，但已不能满足日益精细化的预报需求。《现代气象预报业务发展规划（2016—2020年）》中提出要发展“多源数据融合与再分析技术”“重点组织高影响天气监测预警预报技术等关键领域研发”。
+
+精细天气图分析要求一个高度组织化的分析方法（MICAPS综合图分析），根据不同情况将分析数据和预报参数放在同一张图上。预报员根据综合图显示的不同情况，利用主观图形识别能力进行识别，判断不同情况可能造成的不同天气现象。因此，能否基于图形学方法来实现天气系统的自动识别，减少预报员手工分析天气系统的工作量，提高精细化预报能力就成为近几年新的研究课题[8-12] 。
+
+近年来，随着电子计算机性能的提高，计算机图形识别技术也取得飞速发展，而其成果多应用在工商和医学[13-19],如条形码的识别[13]、汉字笔画自动识别[14]、建筑图纸识别[15-16]、人脸识别系统[17]等方面。在地球科学研究方面，图形识别技术也在逐渐发展，如利用计算机图形识别技术与GIS技术相结合,进行地理信息的绘制与识别[20-22]；利用图形识别技术进行沙尘天气监测识别[23-25]或卫星云图、多普勒雷达图的系统识别[26-32]。近几年,也有一些学者开展了天气系统自动识别技术的研究，但大部分都是从数学角度进行计算、识别[33-41]。如袁美英等[34]利用读取欧洲高度场格点数据,运用统计识别法和模糊识别技术，对高低压中心和槽线进行分析识别。胡文东等[35-36]读取 MICAPS 格点数据,在矢量旋转追踪法等值线分析的基础上，经过滤波、查找各等值线特性点、剔除异常点等处理，有序提取高空天气系统的节点。
+
+我国北方处在中纬度地区，主要受西风带系统影响，且干旱的发生往往是处在大槽大脊的环流转换中，同时由于西风带系统的移动均相对比较稳定、有序，利于开展识别实验。本文尝试采用计算机图形识别技术，开展致旱天气系统的自动识别，通过编程实验，实现了高空槽线、脊线、高低压中心等主要天气系统的识别技术，为天气预报客观自动化的实现提供了一条新途径。
+
+# 1数据格式说明
+
+本文针对2000—2017年的38次区域性气象干旱过程(依据气象干旱国家标准[42]确定的干旱过程），利用过程发生期间的MICAPS格点资料、NECP逐日再分析资料输出格点资料，进行系统识别试验。
+
+MICAPS常规资料包括各时次观测实况和T213、T639、欧洲中心等数值预报产品，其中风场资料采用第二类和第十一类 MICAPS 数据格式,其他物理量采用第四类MICAPS数据格式。NECP逐日再分析资料为日平均基本要素场再分析格点数据，为"NC"格式（表1）。
+
+# 表1各类资料格式说明
+
+Tab.1 Description of the data format   
+
+<html><body><table><tr><td>资料种类</td><td>格点范围</td><td>分辨率</td><td>时间精度</td></tr><tr><td rowspan="2">实况</td><td>高空(32°~160°E,12°~80°N)</td><td>高空4°×4°</td><td>高空：08：00,20:00</td></tr><tr><td>地面(75°~135°E,25°~65N)</td><td>地面2°×2°</td><td>地面：逐3h，以20：00为主</td></tr><tr><td>T213</td><td>30°~179°E,0°~90N</td><td>1°×1°</td><td>每日20：00起报，逐24h间隔</td></tr><tr><td>T639</td><td>0°~180°E,0°~90°N</td><td>1°×1°</td><td>每日20：00起报，逐24h间隔</td></tr><tr><td>欧洲中心</td><td>30°~179°E,0°~90°N</td><td>2.5°×2.5°</td><td>每日20：00起报，逐24h间隔</td></tr><tr><td>NECP</td><td>全球，选取30°~179°E,0°~90°N</td><td>2.5°×2.5°</td><td>每日更新1次,逐24h间隔</td></tr></table></body></html>
+
+注：由于2010年前的数据保存条件所限,多为T213、欧洲中心和NECP数据,2010年后开始为 T639、欧洲中心和NECP数据;实况数据中所用时刻不固定，多以20：00为主，无20：00 资料则采用离20：00最近时刻的数据。
+
+# 2 天气系统识别技术
+
+# 2.1 等值线曲率计算
+
+对等值线条或系统线条进行曲率计算，可得到线条的凸凹分布状况。一般的高度场中，槽位于凸曲线处，脊位于凹曲线处。而对于高空槽来说，凹的程度越强，则表明系统中夹带的冷空气越强。因此，针对高度场的曲率计算，可能找到平直气流（西北气流)中夹带的弱冷空气;而通过定义曲率强度，又可得到槽脊的凹凸程度，进而判断槽脊移速、变化等。
+
+曲率 $k$ 的计算公式为：
+
+$$
+k = \frac { \left( x ^ { \prime } y ^ { \prime \prime } - x ^ { \prime \prime } y ^ { \prime } \right) } { \left[ \begin{array} { l } { \left( x ^ { \prime } \right) ^ { 2 } + \left( y ^ { \prime } \right) ^ { 2 } } \end{array} \right] ^ { 3 / 2 } }
+$$
+
+式中： $. x ^ { \prime } , y ^ { \prime } , x ^ { \prime \prime } , y ^ { \prime \prime }$ 分别为 $x , y$ 的一阶、二阶导数。由于曲率 $k$ 的量级平均达 $1 0 ^ { - 5 }$ ,不易比较,因此定义曲率强度来进行比较。
+
+曲率强度 $S _ { \kappa }$ 定义为：
+
+$$
+{ S _ { \scriptscriptstyle K } = k _ { \mathrm { m a x } } \mathord { \left/ { \vphantom { S _ { \scriptscriptstyle K } } } \right. \kern - delimiterspace } \overline { { k } } }
+$$
+
+式中： $k _ { \mathrm { m a x } }$ 为曲线中的最大曲率; $\mathit { \Pi } _ { \overline { { k } } } ^ { - }$ 为该曲线的平均曲率。 $S _ { k }$ 为负时，曲线向南(或西)凸出; $S _ { k }$ 为正时，曲线向北(或东)凸出。 $S _ { \kappa }$ 的绝对值越大，表明曲线的凹凸度越强，反之表明曲线的凹凸度越弱。
+
+# 2.2 高空槽脊的识别
+
+依据槽线定义，槽点是某条等值线中曲率最大或是位势高度最低的点（一般对西风环流来讲是最南端的点）。分析槽线是要分析每条等值线上的曲率相对最高点或位势高度相对最低点（笔者定义为槽点），则可能出现某条等值线上存在一个或几个槽点。按照不同线值的等值线自西向东分析（图1a），寻找不同层次高空槽的槽点位置，形成槽点点集；按一定规则连接各节点则成槽线。另外，闭合型等值线和开放型等值线也有区别。需要注意的是不能让任何一条槽线穿过闭合等值线的两端，也就是说不能有一条槽线同时与闭合等值线有两个交点。
+
+![](images/88ec89db767ef9c811f68632f01e2777c142f7652cccbc1b2711c887e1e6213a.jpg)  
+图1槽线、脊线识别示意图  
+Fig.1Recognition of trough and ridge
+
+采用类似槽点的追踪算法，对位势高度场和高空风场格点进行分析，得到高空脊的脊节点及脊（图1b）。
+
+# 2.3 系统中心
+
+系统中心只与闭合型等值线有关。找到每条闭合型等值线中的最高和最低点以及与其相对应的数据，将其按顺序记录到数组中。然后分析它们的等值线值，找到最大和最小的点，用其相对应数组中的数据求出 $x$ 坐标和 $y$ 坐标的平均值，即为系统中心的坐标。并且做好标记，高(暖)中心标记"G（N）”，低（冷)中心标记“D(L)”。
+
+在目前的识别过程中笔者发现，当使用MI-CAPS格点资料时，由于数值预报格点场中数据分布原因,往往会出现很多小的高低压系统[33,6-37]，因此需要改进算法，找到主要的天气系统。
+
+改进技术的主要思路如下：
+
+（1）根据某一判断阈值，在阈值内出现的所有高压中心(或低压中心)计算重心，其重心的位置可认为是高压中心（低压中心)的位置，平均强度认为是该高压(低压)的强度。（2）根据某一判断阈值，取阈值内出现的所有高压中心(或低压中心)中的最大值(最小值)所在位置为高压(低压)中心位置，而高压(低压)强度即为最大(最小)值。（3）不考虑几何分布问题，直接取阈值内高压（低压)中心平均位置为高压(低压)中心位置，强度取阈值内高压平均强度。
+
+# 3关键技术处理
+
+# 3.1 短系统处理
+
+当分析识别出的系统节点仅有2个时，称为短系统。若直接连接节点，则短系统为一条直线，而纯粹直线的天气系统几乎是不存在的。因此，需要根据预报员经验对短系统进行自动化修正。
+
+按照系统延伸方向，以黄金分割比例增加必要的节点，并用样条函数平滑，达到修正的目的（图2）。连接2节点构成长度为 $\boldsymbol { r }$ 的线段。若增加 $N$ 点，过线段 $( N + 1 )$ 均分点画垂线，向某一方向（根据正常槽脊情况，槽向东或向南，脊向西或向北)延伸出合适长度(经实验，可取 $r / 4$ 长度），得到新增点。增加点数越多，系统曲线越平滑，但计算量也越大。
+
+![](images/aeab6090b3a1ae902b6dfd45d7301f8d067aa7603ab93f779e00772ffb5c2e82.jpg)  
+图2短系统处理示意图  
+Fig.2Post-processing of short weather system
+
+# 3.2闭合等值线长短轴及偏心率的计算
+
+对于闭合等值线如地面高压、高空冷涡等，其移动发展与其形状有关。依据天气动力学原理[43-45]，对于闭合天气系统来说，其移动方向往往与其长轴指向方向重合，同时与其重心所在方向一致。因此，计算其长轴、短轴的指向及偏心率，对推测系统的移动有帮助。
+
+长短轴的计算：依次计算闭合等值线中每个节点相互间的距离，则可准确地找出长轴短轴。
+
+偏心率的计算：对标准椭圆来说，椭圆两焦点间距离和长轴长度的比值称为偏心率。但实际的闭合曲线往往不是规则形状，因此定义其短轴与长轴的比为偏心率。这也能反映闭合曲线的一些特征
+
+# 系统识别误差情况
+
+针对2000—2017年的38次区域性气象干旱过程，利用改进后的系统识别技术进行高空槽、脊、急流轴的识别检验（表2）。按照系统的尺度分别进行检验，为了简便运算，规定槽线南北端点距离 $\geqslant 1 0$ 个纬距(或识别节点数 $\geqslant 5$ )的槽为长波槽， $< 1 0$ 个纬距(或识别节点数 $< 5$ )的为短波槽。
+
+从表2来看，该识别技术对高低压中心的识别效果较好，识别率均高于 $9 5 \%$ ，平均误差都小于$0 . 3 ^ { \circ }$ 。针对高空槽线的识别则良莠不齐，其中对长波槽的识别精度较高，识别准确率达 $87 \%$ 以上，平均误差为 $0 . 7 3 ^ { \circ }$ ;而对于短波系统的识别精度略低,识别率为 $7 4 . 6 \%$ ，平均误差达1.42个经纬度。初步分析认为是由于长波槽系统节点多，在系统衔接和逻辑判断中具有优势，更易判别;由于短波系统节点少，逻辑判断上存在一定的难度，较难判别。
+
+利用风场对识别结果订正后，可以发现各系统的识别准确率都有较为明显的提升、误差均有所减少，尤其高低压中心的识别准确率提高幅度最为明显，其中低压中心识别准确率高达 $9 8 . 5 \%$ ，高压中心为 $9 5 . 3 \%$ ;而长波槽和短波槽分别提高 $1 . 7 \%$ 和$3 . 3 \%$ 。高低压中心平均识别误差减小到 $0 . 3 ^ { \circ }$ 以下，而长波槽和短波槽的识别误差缩小到 $0 . 7 3 ^ { \circ }$ 和 $1 . 4 2 ^ { \circ }$ ○
+
+表2主要系统识别精度检验  
+Tab.2Test of recognition precision of main weather systems   
+
+<html><body><table><tr><td rowspan="2">类型</td><td colspan="2">平均误差/(°)</td><td colspan="2">最小误差/(°)</td><td colspan="2">最大误差/(°)</td><td colspan="2">识别准确率/%</td></tr><tr><td>追踪法</td><td>风订正</td><td>追踪法</td><td>风订正</td><td>追踪法</td><td>风订正</td><td>追踪法</td><td>风订正</td></tr><tr><td>长波槽</td><td>0.98</td><td>0.73</td><td>0.21</td><td>0.10</td><td>1.8</td><td>1.8</td><td>85.6</td><td>87.3</td></tr><tr><td>短波槽</td><td>1.72</td><td>1.42</td><td>0.32</td><td>0.12</td><td>4.0</td><td>3.9</td><td>71.3</td><td>74.6</td></tr><tr><td>低压中心</td><td>0.45</td><td>0.25</td><td>0.12</td><td>0.10</td><td>1.47</td><td>1.2</td><td>90.3</td><td>98.5</td></tr><tr><td>高压中心</td><td>0.34</td><td>0.22</td><td>0.21</td><td>0.17</td><td>1.54</td><td>1.5</td><td>91.6</td><td>95.3</td></tr></table></body></html>
+
+# 5小结
+
+（1）利用追踪算法分析等值线可以较好地反应等值线走向和曲率，具有效果好，速度快的特点。这种方法在国内还属于初步尝试。从较常用的统计识别法、模糊识别法、基于特征量的涡旋识别等方法[34-38]来说,其算法更加简便,运算代码编译更为快捷。同时，本文所述方法不是对图像进行处理识别，而是尝试利用图形学的判识理念和原理，对原始数据场进行分析，相较而言更加直接有效，这与束宇等[27）、肖艳姣等[30]、岳平等[32）、李永尧等[39]所研究的图像识别技术存在本质上的不同。
+
+（2）依据天气学定义，利用追踪算法识别高空槽、高空脊等主要系统，识别效果良好，但存在一定的偏差;利用风场进行订正后，准确度明显提高。在主要系统的识别中，高低压中心的识别率高，误差小；而长波槽的识别效果次之，短波槽的识别效果较差，误差也较大。但整体识别效果基本满足西北地区的气象干旱业务运行标准。
+
+# 参考文献（References）:
+
+[1]尹文杰,张梦琳,胡立堂.柴达木盆地干旱时空变化特征[J]. 干旱区研究,2018,35(2）:387-394.[Yin Wenjie,Zhang MengLin,Hu Litang. Spatiotemporal variation of drought in the Qaidam Basin[J].Arid Zone Research,2018,35(2):387-394.]   
+[2] 杨莲梅，关学锋，张迎新.亚洲中部干旱区降水异常的大气环 流特征[J].干旱区研究，2018，35（2）：249-259.[YangLianmei,Guan Xuefeng,Zhang Yinxing.Study on atmospheric circulation characteristics of precipitation anomalies in arid region of Central Asia[J].Arid ZoneResearch,2018,35(2):249-259.]
+
+[3]王志杰,王新辉，旦木仁加甫，等.气候变化对台兰河年平均径
+
+流量的影响[J].干旱区研究,2014,31（1）：125－130.［Wang Zhijie,Wang Xinhui,Dan Murenjiapu,et al.Effect of climate change on annual runoff volume of the Tailan River[J].Arid Zone Research,2014,31（1):125-130.]   
+[4]陈伏龙,王怡璇,吴泽斌,等.气候变化和人类活动对干旱区内 陆河径流量的影响——以新疆玛纳斯河流域肯斯瓦特水文站 为例[J].干旱区研究,2015,32（4）:692-697.[Chen Fulong， Wang Yixuan,Wu Zebin,et al.Impacts of climate change and human activities on runoff of continental river in arid areas:Taking Kensiwate hydrological station in Xinjiang Manas River Basin as an example[J].Arid Zone Research,2015,32(4） :692-697.]   
+[5]王婷,石育中,刘倩,等.陇中半干旱区不同类型农户抗旱适应 能力定量评价—以榆中县为例[J].干旱区研究,2018,35 (4):992-1 O00.[Wang Ting,Shi Yuzhong,Liu Qian,et al. Quantitative evaluation of adaptive capacity to drought resistance of diferent types of farmers in semiarid area in central Gansu Province;A case study of Yuzhong County[J].Arid Zone Research, 2018,35(4):992 -1000.]   
+[6]郑艺,张丽,周宇,等.1982—2012年全球干旱区植被变化及驱 动因子分析[J].干旱区研究,2017,34（1）:59-66.[Zheng Yi,Zhang Li,Zhou Yu,et al.Vegetation change and its driving factors in global drylands during the period of 1982-2012[J].Arid Zone Research,2017,34(1) :59 -66.]   
+[7]冉大川,姚文艺,焦鹏,等.黄河上游头道拐站年径流输沙系列 突变点识别与综合诊断[J].干旱区研究,2014,31（5)：928- 936.[Ran Dachuan,Yao Wenyi,Jiao Peng,et al.Identification and comprehensive diagnosis of sharp change of annual runoff volume and silt discharge series at Toudaoguai hydrometric station in the upper reaches of the Yellow River[J].Arid Zone Research, 2014,31(5):928 -936.]   
+[8]胡文东,赵光平,丁建军,等.宁夏短时强对流灾害性天气预报 业务工作平台系统开发策略与技术措施[J].干旱区资源与环 境,2006,20（6）:114-117.[Hu Wendong,Zhao Guangping, Ding Jianjun,et al.Develop strategies and technical measures of short-term weather forecast operaional platform system in Ningxia [J].Journal of Arid Land Resources and Environgment,2006,20 (6):114 -117.]   
+[9]邵建,胡文东,冯建民,等.基于图形分析的宁夏春季干旱监测 预测方法研究[J].中国沙漠,2013,33（3）：874-881.[Shao Jian,Hu Wendong,Feng Jianmin,et al. Study on forecast method of drought monitoring in Ningxia in spring based on graph analysis [J].Journal of Desert Research,2013,33（3）:874-881.]   
+[10]潘东华，王静爱，王瑛,等.基于图层约束的自然灾害风险制图
+
+综合初探——以西北干旱区为例[J].干旱区研究，2010，27
+
+(1）:13-19.[Pan Donghua,Wang Jingai,Wang Ying,et al.Elementary study on natural disaster risk mapping generalization based on drawing-layer constraint: A case study in the arid regions in Northwest China[J]. Arid Zone Research,2010,27（1）:13- 19.]   
+[11］康志明,金荣花,鲍媛媛,等.基于TIGGE 数据的我国寒潮自动 识别预报方法[J].应用气象学报,2010,21（3）:298－306. [Kang Zhiming,Jin Ronghua,Bao Yuanyuan,et al.Automatic cold wave recognition and prediction method based on TIGGE data in China[J].Jounal ofAplied Meteorology,2010,21（3）:298 306.]   
+[12］刘瑞文,曹晓岗,张延亭.基于强暴雨预报知识的机器学习尝 试[J].气象,1989,15（11）:34-37.[Liu Ruiwen,Cao Xiaogang,Zhang Yanting.Machine learning attempt based on knowledge of strong rainstorm forecast[J].Meteorological Monthly, 1989,15(11) :34 -37. ]   
+[13］龚亚欢,王超,胡晨.EAN-13码的图像识别系统设计与实现 [J].现代电子技术,2009（22）:106-109.[Gong Yahuan,Wang Chao,Hu Chen.Design and implement of image recognition system for EAN-13 code[J].Modern Electronic Technology,2009（22）： 106 -109.]   
+[14］赵青,唐英敏.基于图形识别的汉字笔画分类方法[J].计算机 技术与发展,2009,10（10）:14-17.[Zhao Qing,Tang Yingmin. Shape recognition-based approach to Chinese character strokes ' classification[J]. Computer Technology and Development,2009, 10(10) :14 -17.]   
+[15］赵巍,刘建红.基于图形识别的建筑图钢筋自动统计系统CSC [J].计算机工程与应用,2001,37（2）:105-107.［Zhao Wei, Liu Jianhong.CSC-An steel reinforcement calculation system of construction drawings based on graphics recognition[J]. Computer Engineering and Application,2001,37(2）:105-107.]   
+[16]刘英,尚文利,张嘉易.工程图中明细表标题栏线框图形的智 能识别[J].计算机工程,2011,37（9）：207－209,212.［Liu Ying,Shang Wenli,Zhang Jiayi.Intelligent recognition of frame graphic for title panel and title block in engineering drawing[J]. Computer Engineering,2011,37（9）:207 -209,212.]   
+[17］沈红雷.基于视觉的号码图像自动识别系统设计[J].信息系 统工程,2009(12）:86-88.[Shen Honglei.Design of image automatic recognition system based on vision[J].Information Systems Engineering,2009（12）:86 -88.]   
+[18］谭正华,王李管,毕林,等.参数曲线集复杂区域的全自动识别 算法[J].计算机工程,2010,36（8）:23-26.[Tan Zhenghua, Wang Liguan,Bi Lin,et al.Automatic identification algorithm for complicated regions of parameterized curve set[J]. Computer Engineeringt,2010,36(8）:23-26.]   
+[19]肖斌,黄襄念.一种快速图形识别算法[J].西华大学学报（自 然科学版）,2008,27（3）:81-84.[Xiao Bin,Huang Xiangnian. Afast graphicrecognitionagorithsJ].Joualof Xiua Univer sity(Natural Science Edition）,2008,27(3）:81 -84.]   
+[20]宁慧,费建刚,李红宇.基于影子显示位图技术的GIS 图形部 分的实现[J].应用科技,2009,36(3）:46-50.[Ning Hui,Fei Jiangang,Li Hongyu.GIS implementation of graph part based on shadow display bitmap technology[J].Applied Technology,2009, 36(3) :46 -50.]
+
+[21]肖岸纯，丁建军.AutoCAD图形识别系统的研究[J].湖北工学 院学报,2004,19(2）:48-50.[Xiao Anchun,DingJianjun.Research on AutoCAD graphic recognition system[J]. Journal of Hubei Polytechnic University,2004,19(2）:48-50.]
+
+[22］虞丽生,章少华.利用图形识别模态参数法[J].杭州电子工业 学院学报,1994,14(4）:23-29.[Yu Lisheng,Zhang Shaohua.A method of identifying modal parameters by graphs[J]. Journal of Hangzhou Institute of Electronics Engineering,1994,14(4）:23- 29.]   
+[23］冯益明,吴波,周娜,等.基于遥感影像识别的戈壁分类体系研 究[J].中国沙漠,2013,33（3）:635-641.[Feng Yiming,Wu Bo,Zhou Na,et al. Gobi classfication system based on remote sensing image recognition[J]. Journal of Desert Research,2013,33 (3):635 -641.]   
+[24］罗敬宁,徐喆,元永刚.基于风云三号卫星的全球沙尘遥感方 法[J].中国沙漠,2015,35（3）:690-698.[Luo Jingning,Xu Zhe,Qi Yonggang. Global dust remote sensing with the Fengyun - 3 satellite[J].Journal of Desert Research,2015,35（3）:690 - 698.]   
+[25］段海霞,郭铌,霍文,等.GRAPES-SDM沙尘模式预报与卫星遥 感监测结果对比[J].中国沙漠,2014,34(6)：1 617-1 623. [Duan Haixia,Guo Ni,Huo Wen,etal.The comparison of the prediction efficiency of GRAPES-SDM dust-Storm model and the satelite remote sensing monitoring[J]. Journal of Desert Research, 2014,34(6) :1 617 -1 623.]   
+[26]胡文东,李艳春,郑广芬,等.宁夏干旱区强对流降水过程雷达 图像纹理特征分析[J].中国沙漠,2007,27(2)：331－336. [Hu Wendong,Li Yanchun,Zheng Guangfen,et al. Texture analysis on weather radar images of severe convective precipitation in arid region of Ningixa[J]. Journal of Desert Research,2O07,27(2）: 331-336.]   
+[27］束宇,潘益农.红外云图上中尺度对流系统的自动识别[J].南 京大学学报（自然科学版）,2010,46（3）:337-348.[Shu Yu, Pan Yinong.Self-identification of mesoscale convective system from satellite infrared imagery[J]. Computer Engineering and Applications,2010,46(3) :337 -348.]   
+[28］潘运红,章云,伍志方.基于浸水模拟改进算法的中气旋自动 识别[J].计算机工程与应用,2010,46（21）:171－198.［Pan Yunhong,Zhang Yun,Wu Zhifang. Mesocyclone recognition based on new flooding algorithm[J].Computer Engineering and Applications,2010,46(21) :171 -198.]   
+[29]刘文泽.边界识别与计算机缩图[J].气象,1998,18（4）:37- 38,26.［Liu Wenze.Boundary recognition and computer shrink graph[J]. Meteorological Monthly,20,18(4） :37-38,26.]   
+[30］肖艳姣,刘黎平,李中华,等.雷达反射率因子数据中的亮带自 动识别和抑制[J].高原气象,2010,29（1）:197－205.[Xiao Yanjiao,Liu Liping,Li Zhonghua,et al. Automatic recognition and removal of the bright band using radar reflectivity data[J].Plateau Meteorology,2010,29(1）:197-205.]   
+[31］鲁娟,张长江,张翔,等.利用边界特征自动识别台风云系[J]. 遥感学报,2010,14（5）:990-1003.[Lu Juan,Zhang Chang jiang,Zhang Xiang,et al.Auto-recognition of typhoon cloud based on boundary features[J]. Journal of Remote Sensing,2010,14 (5):990-1003.]   
+[32]岳平,刘晓云,郭良才,等.纹理分析法识别静止卫星红外云图 和监测汛期强对流天气系统[J].干旱气象，2005，23（2）：50- 53,63.[Yue Ping,Liu Xiaoyun,Guo Liangcai,et al.Identification of geostationary satellite infrared cloud image and monitoring of strong convective weather system in flood season by texture analysis [J].Arid Meteorology,2005,23(2）:50-53,63.]   
+[33］张丰启.东北冷涡特征及其关键区的计算机识别[J].气象， 2001,27（9）:46-49.[Zhang Fengqi.Computer recognition of northeast cold vortex[J].Meteorological Monthly,2001,27(9） :46 -49.]   
+[34］袁美英,徐南平,于振东.高低压中心、槽线识别的初步试验 [J].气象,1994,20（6）:15-19.[Yuan Meiying,Xu Nanping, Yu Zhendong.A Test of recognition of centers of high and low pressure and trough-line[J].Meteorological Monthly,1994,20(6）:15 -19.]   
+[35]胡文东，赵光平，陈晓光,等.高空基本天气系统类别自动识别 与沙尘暴系统识别试验[J].中国沙漠,2007，27（4)：633- 638.[Hu Wendong,Zhao Guangping,Chen Xiaoguang,et al.Autodiagnosis on primary weather systems aloft and test on sandstorm [J].Journal of Desert Research,2007,27(4）:633-638.]   
+[36]胡文东，黄小玉,赵光平，等.高空基本影响天气系统定量化自 动分析研究[J].气象,2008,34（6）:107-111.[Hu Wendong, Huang Xiaoyu,Zhao Guangping,et al. Study on quantitative autoanalysis of upper air primary weather system[J].Meteorological Monthly,2008,34(6):107-111.]   
+[37]王新芝，陈必云.高空天气图自动分析系统[J].南京气象学院 学报,1994,17(4）:477-481.[Wang Xinzhi,Chen Biyun.Bkief description of an upper air weather map automatic analytic system [J].Journal of Nanjing Institute of Meteorology,1994,17(4）:477 -481.] [38]邹文楠,赵勇，董药.基于流线分析的涡旋识别[J].中国科技 论文在线,2008,1(9）:1021-1029.[Zou Wennan,Zhao Yong, Dong Hong.Vortex recognition based on streamline analysis[J]. Science Paper Online,2008,1(9):1021-1029.] [39]李永尧,郑陈婷,王晓明.基于数字图像的天气系统识别[J]. 福建师范大学学报（自然科学版）,2009,25（2）：24-27.［Li Yongyao,Zheng Chenting,Wang Xiaoming.Digital image based weather system recognition[J]. Journal of Fujian Normal University （Natural Science Edition）,2009,25(2):24-27.] [40]李振海.计算机天气图图形识别[J].气象,1994,20（6）：20-   
+23.[Li Zhenhai. Graphic distinguishment on meteorogram with computer[J].Meteorological Monthly,1994,20(6）:20-23.] [41］邵建.宁夏暴雨特征及客观预报方法研究[D].兰州：兰州大 学,2013.[Shaojian.A Study on Rainstorm and Its Objective Forecasting Methods in Ningxia Area[J].Lanzhou:Lanzhou University,2013.] [42]中华人民共和国国家标准GB/T20481-2006.气象干旱等级 [M].北京：中国标准出版社,2006.[Natuibak Stabdard if Oeioke's Republic of China GB/T20481-2006.The Grade of Meteorological Drought[M].Beijing:China Standard Press,2006.] [43]卜玉康，曹杰.天气动力学[M].北京：气象出版社,2007：145 -168.[Pu Yukang,Cao Jie. Synoptic Dynamics[M]. Beijing: China Meteorological Press,2007:145-168.] [44］朱乾根,林锦瑞,寿绍文.天气学原理与方法[M].北京：气象 出版社,2007:108-122.[Zhu Qiangen,Lin Jinrui,Shou Shaowen.Synoptic Principles and Methods[M].Beijing:China Meteorological Press,2007:108 -122.] [45]丁一汇.高等天气学[M].北京：气象出版社,2008：82-93,   
+150-162.[Ding Yihui.Higher Synoptic Meteorology[M].BeiJing:China Meteorological Press,2008:82-93,150 -162.]
+
+# Automatic Recognition Technology of Weather Systems Resulting in Drought Based on Graphics
+
+SHAO Jian $^ { 1 , 2 }$ ，HU Wen-dong³，YANG You-lin’，PEI Xiao-rong'，ZHENG Peng-hui² (1.Key Laboratory of Characteristic Agrometeorological Disaster Monitoring and Early Warning andRisk Management in Arid Regions,Chine Meteorological Administration,Yinchuan 750o02,Ningxia,China;   
+2.Ningxia Meteorological Observatory,Yinchuan 750o02,Ningxia,China;   
+3.School ofAtmospheric Sciences,Chengdu Universityof Information Technology,Chengdu 610225,Sichuan,China)
+
+Abstract：Based on the pattern recognition technique and weather systems which could cause drought were tested with tracking algorithm and vector analysis methods by using MICAPS,NCEP and EC-Thin data.The results showed that : $\textcircled{1}$ Synoptic scale troughs and ridges could be recognized with tracking algorithm,and their curvature characteristics could also be obtained; $\textcircled{2}$ By using these methods,the recognition rates of pressure center could be as high as $90 \%$ ,and the mean errors were lower than $0 . 5 ^ { \circ }$ . However,the recognition rates of troughs varied in a range of （204号 $7 4 \% - 8 7 \%$ ,and the mean errors in a range of $0 . 7 ^ { \circ } - 1 . 4 ^ { \circ }$ . With revising the wind field,the accuracy was obviously improved,and the errors were reduced to some extent,which could basically meet the needs of predicting drought.
+
+Key words:synoptic scale system；pattern recognition；auto-discrimination； tracking algorithm

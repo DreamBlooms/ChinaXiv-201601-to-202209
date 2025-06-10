@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Reinvestigation of the scaling law of the windblown sand launch velocity with a wind tunnel experiment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yang1\\*,LI Min1, WANG Yuan1, YANG Bin² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Fluid Machinery and Engineering,Xi'an Jiaotong University, Xi'an 71o049,China;   \n² School ofChemical Engineering,Northwest University,Xi'an 710069,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Windblown sand transport is a leading factor in the geophysical evolution of arid and semi-arid regions.The evolution speed is usually indicated by the sand transport rate that is a function of launch velocity of sand particle, which has been investigated by the experimental measurement and numerical simulation.However,the obtained results in literatures are inconsistent.Some researchers have discovered a relation between average launch velocity and wind shear velocity， while some other researchers have suggested that average launch velocity is independent of wind shear velocity. The inconsistence of launch velocity leads to a controversy in the scaling law of the sand transport rate in the windblown case. On the contrary,in subaqueous case,the scaling law of the sand transport rate has been widely accepted as a cubic function of fluid shear velocity. In order to explain the debates surrounding the windblown case and the difference between windblown and subaquatic cases,this study reinvestigates the scaling law of the vertical launch velocity of windblown transported sand particles by using a dimensional analysis in consideration of the compatibility of the characteristic time of sand particle motion and that of air flow.Then a wind tunnel experiment is conducted to confirm the revisited scaling law, where the sand particle motion pictures are recorded by a high-speed camera and then the launch velocity is solved by the particle tracking velocimetry. By incorporating the results of dimensional analysis and wind tunnel experiment, it can be concluded that, the ratio of saltons number to reptons number determines the scaling law of sand particle launch velocity and that of sand transport rate,and using this ratio is able to explain the discrepancies among the classical models of steady sand transport. Moreover,the resulting scaling law can explain the sand sieving phenomenon: a greater fraction of large grains is observed as the distance to the wind tunnel entrance becomes larger. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: windblown sand transport; scaling law; launch velocity; dimensional analysis; wind tunnel ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Yang,LIMin,WANG Yuan,YANGBin.2019.Reinvestigationof the scaling lawof the windblownsand launchvelocitywithawindtunnelexperiment.JourmalofAridLand,11(5):664-673.https://oiorg/101007/s40-019- 0105-7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Windblown sand transport is a leading factor in the geophysical evolution of arid and semi-arid regions (Bagnold,1941; Kok et al.,2012; Burr et al.,2015). The launch velocity of sand particle is important to quantify the windblown sand transport, to which the experimental measurement is one of the main researching approaches. However, the obtained experimental results are inconsistent. Some researchers have discovered a relation between average launch velocity and wind shear velocity (Owen,1964; Bagnold,1973; Anderson and Hallet,1986; McEwan and Wilets,1993), while some other researchers have suggested that average launch velocity is independent of wind shear velocity (Namikas,2003; Rasmussen and Sorensen, 2008; Creyssels et al.,2009; Martin and Kok, 2017). Numerical simulations conducted by Feng et al. (2O09) demonstrated that over an erodible sand bed,average launch velocity is independent of wind shear velocity for low wind velocities,but increases with wind shear velocity for high wind velocities.Ho etal.(2Ol1) fed sand particles at the upwind end of a wind tunnel and experimentally studied the influence of sand bed configuration on sand motion. Their results demonstrated that average launch velocity is independent of wind shear velocity over erodible sand beds; however, average launch velocity depends on wind shear velocity over non-erodible sand beds.The debate on launch velocity has been extended to the dependence of steady sand transport rate on wind shear velocity (Martin and Kok,2017)，which has been suggested to be cubic (Bagnold,1941；Kind,1976)，quadratic (Creyssels et al.,2009; Martin and Kok,2017) or even variational (Sauermann et al.,2001; Duran et al.,2011; Ho et al., 2011). In contrast to the windblown case,the dependence of steady sand transport rate on fluid shear velocity has been determined to be cubic in the subaquatic case (Martin and Kok, 2017; Wu et al., 2018). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The horizontal component of launch velocity is expected to scale with the square root of the product of gravitational acceleration and average sand particle diameter according to the balance among the forces acting on sand particles. So,it is the vertical component of launch velocity that must be responsible for the controversies among the models discussed above.The purpose of this paper is to provide a unified interpretation for the controversies based on the scaling law for the vertical component of sand launch velocity. The present work is divided to three parts.Firstly, a simple dimensional analysis is carried out to revisit the scaling law for vertical launch velocity and steady sand transport rate. Secondly,a wind tunnel experiment on windblown sand flow is conducted to test the scaling law. Thirdly, an analysis based on the revisited scaling law is proposed to explain the controversies among the classical models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Scaling law revisited by using a dimensional analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The definition of the focus point has to be revisited in the first place.As shown in Figure 1,the focus point is the locus where wind velocity is independent of wind shear (friction) velocity $\\left( u _ { \\mathrm { f } } \\right)$ (Bagnold, 1941; Owen,1964). Sand motion below the focus point is almost independent of wind strength and that above the focus point is affected by wind strength. Therefore, it is reasonable to distinguish reptation and saltation based on the observed particle trajectory height. Here sand particles that never move above the focus point are called reptons and those that can go above the focus point are calld saltons (Bagnold,1941; Ho et al.,2O14). In subaqueous cases, most sand particles are in suspension, which literally move above the focus point. In the present paper, such suspending particles are also named saltons for the sake of a unified framework. These definitions are considered the resultant expressions of the original definitions,in which the saltons are those driven by wind and impact on the sand bed, and reptons are those splashed by saltons (Antdrotti et al., 2002). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b76813ac5dba0be2e77662c905b4db4fc6fb05ae91c78f5c2adbf56c0f1f540.jpg",
+        "img_caption": [
+            "Fig.1Transport layer ofwindblown sand particles. $h _ { \\mathrm { r } }$ and $h _ { \\mathrm { s } }$ are the characteristic hop heights $( \\mathrm { m } )$ of reptons and saltons, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Suppose the characteristic times of the sand motion and macroscopic structure of the air flow must have the same order of magnitude; otherwise, no interaction would exist between the two motions. This is similar to the correlation between the mean flow and the largest eddy in the turbulence(Tennekes andLumley, 1972).Asa result,we have: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu / g = c _ { 0 } ( \\hat { v } U / \\hat { v } z ) ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\nu$ is the vertical launch velocity of sand particles $( { \\mathrm { m / s } } ) ; g$ is the acceleration of gravity $( \\mathbf { m } / \\mathbf { s } ^ { 2 } )$ $c _ { 0 }$ is a coefficient of order unity; $U$ is the horizontal wind velocity $\\mathrm { ( m / s ) }$ ; and $z$ is the vertical coordinate (m). $\\nu / g$ represents the characteristic time of sand particle motion (s), $( \\partial U / \\partial z ) ^ { - 1 }$ is the reciprocal of the velocity gradient and accounts for the characteristic time of the air flow that interacts with sand particles. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The wind velocity at the focus point is proportional to $( g d ) ^ { 1 / 2 }$ ,and it is independent of $u _ { \\mathrm { f } }$ (friction velocity) below the focus point (Ho et al.,2014).Let's define that the subscripts $\\bf { \\ \" { s } ^ { \\prime } }$ and $\\mathbf { \\ddot { r } ^ { \\prime } }$ refer to the parameters of saltons and reptons,respectively. Then in the reptation layer, the characteristic wind velocity $U _ { \\mathrm { r } }$ scales with $( g d ) ^ { 1 / 2 }$ ,and the characteristic length is the hop height of the reptons, $h _ { \\mathrm { r } } ,$ which scales with $\\nu _ { \\mathrm { r } } ^ { 2 } / ( 2 g )$ .Following Equation 1, the vertical launch velocity $\\left( \\nu _ { \\mathrm { r } } \\right)$ of reptons is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { \\mathrm { r } } \\sim g ( h _ { \\mathrm { r } } / U _ { \\mathrm { r } } ) \\sim \\nu _ { \\mathrm { r } } ^ { 2 } / ( 2 ( g d ) ^ { 1 / 2 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So one can obtain $\\nu _ { \\mathrm { r } } { = } 2 c _ { \\mathrm { r } } ( g d ) ^ { 1 / 2 }$ , where \"\\~\" means that the scaling factor between the two sides is within a magnitude of five times (Tennekes and Lumley,1972). That is to say, $c _ { \\mathrm { r } }$ is a coefficient that ranges from O.2 to 5.0. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the saltation layer,as shown in Figure 1, the characteristic length is the hop height of the saltons $h _ { \\mathrm { s } }$ ，which scales with $\\nu _ { \\mathrm { s } } ^ { 2 } / ( 2 g )$ . The characteristic wind velocity $U _ { \\mathrm { s } }$ scales with the effective wind shear velocity $( u \\mathrm { { r } \\it { u } \\mathrm { { r } \\it { u } \\mathrm { { f } ) } } }$ ，where $u _ { \\mathrm { f t } }$ is the threshold wind shear velocity above which sand particles can be set in motion.According to Equation 1, the $\\nu _ { \\mathrm { { s } } }$ of the saltons is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { \\mathrm { s } } \\sim g ( h _ { \\mathrm { s } } / U _ { \\mathrm { s } } ) \\sim \\nu _ { \\mathrm { s } } ^ { 2 } / ( 2 ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So $\\nu _ { \\mathrm { s } } { = } 2 c _ { \\mathrm { s } } ( u _ { \\mathrm { f } } { - } u _ { \\mathrm { f t } } )$ Similarly, $c _ { \\mathrm { s } }$ is a coefficient ranging from O.2 to 5.0.As a result, the hop heights for reptons and saltons can be expressed as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { h _ { \\mathrm { r } } = 2 c _ { \\mathrm { r } } ^ { 2 } d } \\\\ & { h _ { \\mathrm { s } } = 2 c _ { \\mathrm { s } } ^ { 2 } ( { u } _ { \\mathrm { f } } - { u } _ { \\mathrm { f t } } ) ^ { 2 } / \\ g } \\end{array} .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The hop length is $\\scriptstyle { l = u _ { \\mathrm { m } } ( 2 \\nu / g ) }$ ，where $u _ { \\mathrm { { m } } }$ is the average horizontal velocity $\\mathrm { { ( m / s ) } }$ of sand particles. Although the characteristic horizontal velocity of sand is unknown,moving sand is accelerated by wind in the horizontal direction. Therefore, $u _ { \\mathrm { { m } } }$ is roughly proportional to the characteristic wind velocity.Then one obtains: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { l _ { \\mathrm { r } } \\propto U _ { \\mathrm { r } } ( 2 \\nu _ { \\mathrm { r } } / g ) \\propto d } \\\\ & { l _ { \\mathrm { s } } \\propto U _ { \\mathrm { s } } ( 2 \\nu _ { \\mathrm { s } } / g ) \\propto ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / g } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $l _ { \\mathrm { r } }$ and $l _ { \\mathrm { s } }$ are the hop lengths (m) of reptons and saltons,respectively; and $\\propto$ means that the left side is proportional to the right side,and the range of the scaling factor is uncertain. Comparison of Equations 4 and 5 shows that the ratio of hop length to hop height is constant for reptons and saltons, which is consistent with experimental results (Zhang et al.,2007; Ho et al.,2011,2014). On the basis of momentum conservation, the steady sand transport rate can be obtained as (Sorensen,2004): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = l _ { \\mathrm { m } } ( \\tau - \\tau _ { \\mathrm { t } } ) / \\left( u _ { \\downarrow } - u _ { \\uparrow } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $l _ { \\mathrm { m } }$ is the average hop length (m); $\\tau$ is the shear stress( $\\scriptstyle ( \\tau = \\rho u _ { \\mathrm { f } } ^ { 2 }$ with $\\rho { = } 1 . 2 5 \\ \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ being the air density); $\\tau _ { \\mathrm { t } }$ is the threshold shear stress $( \\tau _ { \\mathrm { t } } = \\rho u _ { \\mathrm { f i } } ^ { 2 } )$ ·， $u _ { \\uparrow }$ and $u _ { \\downarrow }$ are the average horizontal velocities of sand particles taking off from and landing on the sand bed, respectively; and $( u _ { \\downarrow } – u _ { \\uparrow } )$ is roughly proportional to the characteristic wind velocity as $( u _ { \\downarrow }  – u _ { \\uparrow } ) ^ { \\propto } ( g d ) ^ { 1 / 2 }$ if the majority of the moving particles are reptons, and as $( u _ { \\downarrow } – u _ { \\uparrow } ) ^ { \\propto } ( \\mathbf { u } _ { \\mathrm { f } } \\mathbf { u } _ { \\mathrm { f t } } )$ if the majority of the moving particles are saltons. Combination with Equation 5 yields: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathbf { q } _ { \\mathrm { r } } \\propto \\rho ( u _ { \\mathrm { f } } ^ { 2 } - u _ { \\mathrm { f t } } ^ { 2 } ) ( d / g ) ^ { 1 / 2 } , } \\\\ & { \\mathbf { q } _ { \\mathrm { s } } \\propto \\rho ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ( u _ { \\mathrm { f } } ^ { 2 } - u _ { \\mathrm { f t } } ^ { 2 } ) / g . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Wind tunnel experiment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Equations 4-8 are derived by supposing that vertical launch velocity scales with $( g d ) ^ { 1 / 2 }$ for reptons and scales with $\\left( u _ { \\mathrm { f } } { u _ { \\mathrm { f } } } \\right)$ for saltons.A wind tunnel experiment is introduced to testify this conclusion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experiment is conducted at the Laboratory of Windblown Sand Dynamics, Xi'an Jiaotong University, China.As shown in Figure 2a,such laser based configuration has been widely used in the measurement of windblown sand transport (Zhang et al., 2007,2008; Wang et al., 2009; Yang et al.,2009; Kang,2012; Zhang et al.,2014; O'Brien and McKenna Neuman, 2016,2018). The test section of the wind tunnel has a size of $6 . 7 5 ~ \\mathrm { m } ^ { x } { \\times } 0 . 7 2 ~ \\mathrm { m } ^ { y } { \\times } 0 . 6 0 ~ \\mathrm { m } ^ { z }$ ，with $x$ denoting the mainstream direction, $y$ the transverse direction and $z$ the vertical direction. The wind is sent out by two abreast air blowers.In order to fuly mix the two air jets and to smooth the turbulence caused by air blowers, a distance of $5 . 0 \\mathrm { ~ m ~ }$ ，which is paved with roughness elements, is set between the wind tunnel entrance and the upstream edge of sand bed. Thus the sand bed with a size of $1 . 0 \\ \\mathrm { m } ^ { x } { \\times } 0 . 2 \\ \\mathrm { m } ^ { y } { \\times } 0 . 0 1$ $\\mathbf { m } ^ { z }$ is placed $5 . 0 \\mathrm { ~ m ~ }$ downstream of the wind tunnel entrance. A high-speed digital camera (FASTCAM-APX 120K, Photron, Japan) is placed at the side of wind tunnel, with its view line perpendicular to the side wall plane.The frame rate of the digital camera is $2 0 0 0 \\mathrm { H z }$ ,the exposure time is $1 / 3 0 0 0 \\mathrm { ~ s ~ }$ ，and the resolution is 1024 pixel $. { \\times } 5 7 2$ pixel. The observation region is 138.4 $\\mathrm { m m } ^ { x } { \\times } 6 9 . 2 \\mathrm { m m } ^ { z }$ ,which is illuminated by a sheet laser (Mini-YAG, $1 0 0 ~ \\mathrm { { m J } }$ ). The diameter range of the three sand samples in the present experiment are $1 0 0 { - } 1 2 5 ~ { \\mu \\mathrm { m } }$ with a density of $2 7 0 2 . 8 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ ， $2 0 0 { - } 3 0 0 ~ \\mu \\mathrm { m }$ with a density of $2 6 5 0 . 0 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ and $3 0 0 { - } 5 0 0 ~ { \\mu \\mathrm { m } }$ with a density of $2 6 5 0 . 0 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ .One of the recorded particle images in the present experiment is shown in Figure 2b.The moderate sand particle concentration (especially above the focus point） allows for the Lagrangian particle detection to catch the particle trajectory. Firstly,the dynamic threshold scheme (Ohmi and Li,2000; Zhang et al.，2016) is used to realize the image segmentation and the recognition of moving particles. On a grey-scale particle image,a small window is built and shifted,and a local grey-scale threshold in this window is continuously computed and applied to distinguish the particle image of multiple grey-scale levels from background (Fig. 2c). This operation is also called the reconstruction of particle image. Secondly, after the operation of Voronoi diagram on a reconstructed particle image sequence, each particle across the sequence corresponds to a unique Voronoi polygon, so each particle can be tracked across the frame based on the geometric stability of such polygon (Zhang et al., 2015, 2016).As a helper method, a central-diferential schemed static background elimination method called the \"non-zero subtraction algorithm\" is applied to extract the moving sand particles near the sand bed (Zhang et al.， 2O16). Nevertheless, those touching closely the sand bed are difficult to extract due to the over exposed reflection at the sand bed.The result is satisfactory as shown in Figure 2d. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The streamwise mean velocity profile $U { = } U ( z )$ is measured by an array of hot-wire probes (55R49,Dantec Inc., Denmark), which are the nikel-plating type and located downstream of the observation region. Before the measurement, the sand bed was fixed by spraying water. The reference wind velocity $U _ { 0 }$ is measured $0 . 2 6 \\mathrm { m }$ above the sand bed surface.As shown in Figure 3, the profile is well-fitted by the logarithmic law. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The wind shear velocities are calculated from the wind velocity profiles, which are O.23 and 0.30 $\\mathrm { m / s }$ for the two cases of $1 0 0 { \\mathrm { - } } 1 2 5 ~ { \\mu \\mathrm { m } }$ sand, 0.40 and $0 . 4 6 ~ \\mathrm { m / s }$ for the two cases of $2 0 0 { - } 3 0 0 ~ { \\mu \\mathrm { m } }$ sand, and 0.41 and $0 . 5 1 ~ \\mathrm { m / s }$ for the two cases of $3 0 0 { - } 5 0 0 ~ { \\mu \\mathrm { m } }$ sand,respectively. The particle Reynolds number Re are 1.7136 and 2.2351 for $1 0 0 { - } 1 2 5 ~ { \\mu \\mathrm { m } }$ sand, 6.6225 and 7.6159 for 200-300 $\\mu \\mathrm { m }$ sand,and 10.8609 and 13.5099 for $3 0 0 { - } 5 0 0 ~ { \\mu \\mathrm { m } }$ sand. The characteristic length and velocity are sand diameter and wind shear velocity. In another independent set of tests,the threshold velocity of sand motion for the above three sand samples is determined by using the technique shown in Figure 2d,and the corresponding threshold wind velocity profile is measured and used to calculate $\\mathbf { u } _ { \\mathrm { f t } }$ .The results are 0.15, 0.23 and $0 . 2 9 \\mathrm { m / s }$ for the samples corresponding to the diameter ranges of 100-125，200-300 and $3 0 0 { - } 5 0 0 ~ \\mathrm { ~ \\textmu m }$ ，respectively， agreeing well with the classical model $u _ { \\mathrm { f t } } { = } 0 . 1 [ g d ( \\rho _ { s } { \\ - } \\rho ) / \\rho ] ^ { 1 / 2 }$ ,where $\\rho { = } 1 . 2 5 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ is the air density. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/98c4f99913e8967c9b371dc4a2b0b4d4ecc2c756baadcf3f2a664f8476fbee99.jpg",
+        "img_caption": [
+            "Fig.2Measurement of windblown sand flow in wind tunnel. (a),physical photo of the experimental setup; (b), one of the recorded particle image andits partiall enlarged display; (c),recognition of the connected domains by dynamic threshold scheme.The dark blue represents the background,andthe differentcolors representthe different levels of image segmentation; and (d), trajectory of sand particles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b33a417a3c772bb6503d378e17870b8733fdd4200e7aa49574e1a825e6e25ba1.jpg",
+        "img_caption": [
+            "Fig.3Streamwise wind velocity $( U )$ profiles.The dashed lines refer to the linear fittings of the relationship of $U$ and $\\ln ( z )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The maximum height of the sand particles in each image is approximately the hop height of the saltons.Therefore, the average value of the maximum heights for all particle trajectories is defined as $h _ { \\mathrm { s } }$ . The average height for all moving sand particles is defined as $h _ { \\mathrm { m } }$ .These two kinds ofheight of moving sand particles versus the effective wind shear velocity are shown in Figure 4.To determine if the windblown sand flow has reached the steady state, each image is divided into two equal parts along the flow direction, and the change rate $( R )$ of moving sand particles is calculated as $R { = } ( N _ { \\mathrm { u } } { - } N _ { \\mathrm { d } } ) / ( N _ { \\mathrm { u } } { + } N _ { \\mathrm { d } } ) .$ ,where $N _ { \\mathrm { u } }$ and $N _ { \\mathrm { d } }$ are the numbers of moving sand particles at the upstream and downstream parts of the region covered by the recorded image, respectively. When most of $R$ （204号 is less than O, it means that more and more sand particles are blown up as wind moves toward downstream,i.e., the sand flow does not reach the steady state.However, when $R$ fluctuates around O,it means that sand particles carried by wind reaches the dynamic equilibrium, i.e.,the sand flow is in the steady state.In this case, the fluctuation of $R$ results from the intermittent nature of sand flow(Platzer and Francois,2O11).The result of $R$ is shown in Figure 5.As one can see,for each sand sample, the sand flow reaches the steady state only at the relatively low wind shear velocity. According to Figure 4, however, the hop height of saltons and the average height of all moving sand particles are related to the wind shear velocity only, thusly disregarding whetherthe sand flow is steady. Therefore, the unsaturated state does not affect the scaling law of launch velocity of sand particles. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6690bc147a7f58089a1439c0892e5a36184e3559c3848eb4d21d5a57eccbb3f.jpg",
+        "img_caption": [
+            "Fig.4Hop height ofsaltons and average height of moving sand particles versus the effective wind shear velocity. The height is normalized by mean diameter $d$ ,and the effective wind shear velocity squared is normalized by gd. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ab8255bf540fb1c22357177d5ba45630633fba0b957badd1d2f213252759072.jpg",
+        "img_caption": [
+            "Fig.5Change rate $( R )$ of the number of moving sand particles along the flow direction versus time.(a) and (b) are for the $1 0 0 { - } 1 2 5 ~ { \\mu \\mathrm { m } }$ sand with $u _ { \\mathrm { f } } { = } 0 . 2 3 ~ \\mathrm { m / s }$ and $u _ { \\mathrm { f } } { = } 0 . 3 0 ~ \\mathrm { m / s }$ ,respectively. (c) and (d) are for the $2 0 0 { - } 3 0 0 ~ { \\mu \\mathrm { m } }$ sand with $u \\mathrm { { r } = 0 . 4 0 \\ m / s }$ and $u \\mathrm { { r } = 0 . 4 6 \\ m / s }$ ,respectively. (e) and (f) are for the $3 0 0 { - } 5 0 0 ~ { \\mu \\mathrm { m } }$ sand with $u _ { \\mathrm { f } } { = } 0 . 4 1 ~ \\mathrm { m / s }$ and $\\scriptstyle u = 0 . 5 1 { \\mathrm { ~ m } } / { \\mathrm { s } }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the results shown in Figure 4, the relationship between the dimensionless hop height and effective shear velocity can be fitted linearly as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { h _ { \\mathrm { s } } / d = 4 . 3 7 ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / ( g d ) - 0 . 2 0 } \\\\ & { h _ { \\mathrm { m } } / d = 0 . 3 4 ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / ( g d ) + 3 . 7 4 } \\end{array} .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "By comparing Equations 4 and 9,we can obtain $\\mathrm { c } _ { \\mathrm { s } } { = } 1 . 4 8$ .The average height is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { \\mathrm { m } } / d = P h _ { \\mathrm { m s } } / d + ( 1 - P ) h _ { \\mathrm { m r } } / d ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the average height of saltons $h _ { \\mathrm { m s } }$ equals to $0 . 5 h _ { \\mathrm { s } }$ because the heights of saltons in each image are assumed to be distributed evenly in the range of $0 { - } h _ { \\mathrm { s } }$ . Similarly, the average height of reptons $h _ { \\mathrm { m r } }$ is $0 . 5 h _ { \\mathrm { r } }$ ：， $P$ is the percentage of saltons among all moving sand particles and remains approximately constant because the explored range of $u _ { \\mathrm { f } } / u _ { \\mathrm { f t } }$ ,namely,1.41-2.00, is narrow. $h _ { \\mathrm { m } } / d$ and $h _ { \\mathrm { s } } / d$ are linear functions of $( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / ( g d )$ . According to Equation 10, the experimental result of $h _ { \\mathrm { r } } / d$ can be also fitted with a linear function, which is assumed as: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { \\mathrm { r } } / d = A ( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / \\left( g d \\right) + B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $A$ and $B$ are unknown coefficients. By substituting Equations 9 and 1l into Equation 10, one can obtain the following relationship: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 0 . 6 8 - 4 . 3 7 P - A ( 1 - P ) ) ( { u _ { \\mathrm { f } } } - { u _ { \\mathrm { f i } } } ) ^ { 2 } / \\left( g d \\right) + 7 . 4 8 + 0 . 2 0 P - B ( 1 - P ) = 0 . .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This equation should hold for all values of $( u _ { \\mathrm { f } } - u _ { \\mathrm { f t } } ) ^ { 2 } / ( g d )$ , that is: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { 0 . 6 8 - 4 . 3 7 P - A ( 1 - P ) = 0 } } \\\\ { { 7 . 4 8 + 0 . 2 0 P - B ( 1 - P ) = 0 } } \\end{array} .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sand motion below the focus point is independent of wind shear velocity (Ho et al., 2014). Hence, $\\scriptstyle A = 0$ according to Equation 11.Then, $P { = } 0 . 1 6$ and $B { = } 8 . 9 4$ . The fitted line for the experimental result of $h _ { \\mathrm { r } } / d$ is $h _ { \\mathrm { r } } / d { = } 8 . 9 4$ ,which yields $c _ { \\mathrm { r } } { = } 2 . 1 1$ according to Equation 4. Therefore, $\\nu _ { \\mathrm { r } } { = } 4 . 2 2 ( g d ) ^ { 1 / 2 }$ and $\\nu _ { \\mathrm { s } } { = } 2 . 9 6 ( u _ { \\mathrm { f } } { - } u _ { \\mathrm { f t } } )$ .As shown in Figure 4 and Equation 9, the slope of $h _ { \\mathrm { m } } / d$ versus the effective shear velocity squared is nearly zero and about ten times smaller than that of $h _ { \\mathrm { s } } / d$ meanwhile, the slope of $h _ { \\mathrm { r } } / d$ is theoretically zero. That is to say, reptons contribute to the most of the average hop height. This is consistent with the fact that sand particle concentration decreases drastically (such as exponentially） as the height increases (Dong et al., 2003; Kang, 2012). By using a sand sample with a mean diameter of $2 3 0 ~ { \\mu \\mathrm { m } }$ ，Ho et al. (2011） found that the average vertical launch velocity is $1 0 . 6 4 ( g d ) ^ { 1 / 2 }$ over an erodible sand bed,whereas the average vertical launch velocity is $5 . 8 ( u \\mathrm { r } - u _ { \\mathrm { f t } } )$ over a non-erodible sand bed. As discussed in Section 4, the majority of the moving sand particles are reptons for the erodible sand bed and are saltons for the nonerodible sand bed.Therefore,their scaling law is qualitatively the same as that of the present study, while their coefficients $c _ { \\mathrm { r } } ( 5 . 3 2 )$ and $c _ { \\mathrm { s } }$ (2.90) are larger than the corresponding values in the present experiment.This is because the sand particles in their experiment was supplied at the upwind end of the wind tunnel, which resulted in an extra acceleration process before the first launch process (Fig. 6).As a result, the launch velocities as well as the hop lengths are larger than those in the present experiment. Above all, the scaling law in Equation 4 are consistent with the results extracted from Figure 4, the revisited scaling law are thusly considered reasonable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d014c053c36cc4913024352b4059cb92fa9ded881b75480c5111945b3d6ecda6.jpg",
+        "img_caption": [
+            "Fig.6Trajectories of sand particles on the flat sand bed. Compared to the grain in the present experiment, the grain in Ho et al. (2O11) willexperience an extra acceleration process before the first launch process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Explanation of the discrepancies among the classical models ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to Equations 7 and 8, the dependence of $q$ on $u _ { \\mathrm { f } }$ varies from quadratic to cubic as the ratio for particle number of saltons to reptons increases. These scaling law is used to explain the discrepancies among the classical models of $q$ shown in Table 1. In a word, the scaling law of $q$ depends on the ratio of saltons number to reptons number.For a small $u _ { \\mathrm { f } }$ over erodible sand beds, reptons account for the majority of moving particles, leading to a quadratic dependence of $q$ on $u _ { \\mathrm { f } }$ according to Equation 7, which agrees with the results of Creyssels et al. (2009)and Ho et al.(2011) for erodible sand beds, Duran et al. (2011) for small $u _ { \\mathrm { f } } ,$ and Martin and Kok (2017) for a large $u _ { \\mathrm { f } }$ over erodible sand beds or for non-erodible sand beds where the height of the focus point is only $d / 3 0$ ， saltons are the majority. Therefore,the dependence of $q$ on $u _ { \\mathrm { f } }$ should be cubic according to Equation 8, thereby supporting the results of Duran et al. (2O11) for large $u _ { \\mathrm { f } }$ and Ho et al. (2011) for non-erodible sand beds.The dependence of $q$ on $u _ { \\mathrm { f } } ,$ which varies from quadratic to cubic (Sauermann et al.2ool),is caused by the increase in the ratio of saltons to reptons.The cubic scaling law for $q$ in Bagnold (1941) and Kind (1976) was obtained by assuming that the vertical launch velocity scales uniformly with $u _ { \\mathrm { f } } .$ ，However, this assumption is unconvincing because the vertical launch velocity of reptons is independent of $u _ { \\mathrm { f } } .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The cubic scaling law for $q$ in subaquatic cases can be understood in the same way.In windblown sediment transport, the wind velocity profile is logarithmic above the focus point and is independent of $u _ { \\mathrm { f } }$ below the focus point (Ho et al., 2014). By contrast, the fluid velocity profile is logarithmic throughout the boundary layer (Lajeunesse et al.,2O10). As a result, water-driven sand flows have no focus point, that is,the height of the focus point is zero.Therefore,all moving sand particles can be viewed as saltons,leading to a cubic scaling law for $q$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/016f9cad9f5307aa578a47df17740018b21803c4e4d0250bc6805aa67372aa4f.jpg",
+        "table_caption": [
+            "Table1Models for the steady sand transport rate "
+        ],
+        "table_footnote": [
+            "Note: $d _ { 0 } { = } 2 5 0 ~ \\mu \\mathrm { m }$ is the reference sand diameter. Sauermann et al.(2oo1) suggested that $q$ is proportional to $\\boldsymbol { u } _ { \\mathrm { f } } ^ { \\mathrm { n } }$ ,where $n$ increases from 2 to 3 as the wind shear velocity increases.-,no data available. "
+        ],
+        "table_body": "<html><body><table><tr><td>Reference</td><td>Expression</td><td>uun</td></tr><tr><td>Bagnold (1941)</td><td>q(d/do)/2pu</td><td></td></tr><tr><td>Kind (1976)</td><td>qpuf(u²-u²)/g</td><td>-</td></tr><tr><td>Creyssels et al. (2009)</td><td>qp(u²-u）(d/g)112</td><td>≤3.4</td></tr><tr><td>Martin and Kok (2017)</td><td>qp（u²-u）(d/g)1/2</td><td>≤2.2</td></tr><tr><td>Sauermann et al. (2001)</td><td>qu，n∈(2,3)</td><td></td></tr><tr><td rowspan=\"2\">Ho et al. (2011)</td><td>qp(u²-ua)(d/g)1/2 for erodiblebed</td><td></td></tr><tr><td>qp(uf-uft)(u²-u²)/g for non-erodible bed</td><td></td></tr><tr><td rowspan=\"2\">Duran et al. (2011)</td><td>qpuf(u²-u)/g at large uf</td><td></td></tr><tr><td>qp(u² -uf²)(d/g)1/2 at small uf</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "By incorporating a dimensional analysis and a wind tunnel experiment, the present work shows that the ratio of saltons number to reptons number determines the scaling law ofsand particle launch velocity and steady sand transport rate. When saltons account for the majority of moving sand particles, the average launch velocity depends on wind shear velocity,and the steady sand transport rate scales with the cubic of wind shear velocity; when reptons take the majority,the average launch velocity is independent of wind shear velocity, and the steady sand transport rate scales with the quadratic of wind shear velocity. This conclusion provides a succinct framework in which the differences among the previous experimental results can be interpreted. Furthermore, for a moderate shear velocity,reptons take the majority of moving sand grains for aeolian transport. Then according to the formula of hop length $l _ { \\mathrm { r } } { \\propto } d$ ,one can infer that in aeolian transport the larger the sand size is,the farther the sand jumps. This might be the reason for the sand sieving phenomenon: a greater fraction of large grains is observed as the distance to the wind tunnel entrance increases (Duran et al.,2011). The next step is to investigate a more effective way of monitoring the temporalvariant ratio of saltons to reptons under a wide range of wind velocity, so that the windblown sand transport can be correctly quantified under various circumstances,and the critical velocity at which the scaling law switches can be distinguished. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is funded bythe National Natural Science Foundationof China (11402190),the China Postdoctoral Science foundation (2O14M552443） and the Shaanxi Province Natural Science Foundation Research Project (2018JM1021). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AndersonR S,HaletB.1986.Sedimenttransport bywind: towarda general model.Geological Societyof AmericaBulletin, 97(5): 523-535.   \nAndreottiB,ClaudinP,DouadyS.2Oo2.Selectionofduneshapesandvelocities.Part1:Dynamicsofsand,windandbarchans. The European Physical Journal B,28(3): 321-339.   \nBagnold RA.1941.The physics of blown sand and desert dunes.Nature,18:167-187.   \nBagnoldRA.1973.The natureofsaltation andof'bed-loadtransportin water.ProceedingsoftheRoyal SocietyofLondon Series A-Mathematical Physical and Engineering Sciences,332:473-504.   \nBurrDM,BridgesNT,MarshallJR,etal.Ol5.Higher-than-predictedsaltationthresholdwindspeedsonTitan.Nature,517: 60-63.   \nCreyssels M,DupontP,ElMoctarAO,etal.2Oo9.Saltatingparticles inaturbulentboundarylayer:experimentandtheory. Journal of Fluid Mechanics, 625: 47-74.   \nDong ZB,WangHT,ZhangXH,etal.2Oo3.Heightprofileofparticleconcentrationinanaeoliansaltatingcloud:windtuel investigation by PIV MSD.Geophysical Research Letter,30(19): 153-166.   \nDuranO,ClaudinP,AndreotiB.2011.Onaeolian transport: Grain-scale interactions,dynamical mechanismsandsalinglaws. Aeolian Research,3(3): 243-270.   \nFengDJ,LiZS,NiJR.oo9.Launchvelocitycharacteristicsofnon-uniformsandinwindblownsaltation.PhysicaA:Statistical Mechanics and Its Applications,388(8):1367-1374.   \nHoTD,ValanceA,DupontBP,etal.2O11Scalinglaws inaeoliansand transport.PhysicalReviewLeters,06(9):094501.   \nHo TD,ValanceA,DupontBP,etal.2014.Aeoliansandtransport:Lengthand height distributionsof saltationtrajectories. Aeolian Research,12:65-74.   \nKang LQ.2012.Discrete particle model ofaeoliansand transport:comparisonof 2Dand 2.5D simulations.Geomorphology, 139-140: 536-544.   \nKind RJ.1976.Acritical examinationofthe requirements ofmodel simulationofwind induced erosion/deposition phenomena such as snow drifting.Atmospheric Environment,10(3): 219-227.   \nKok JF,Parteli EJR,MichaelsTI,etal.2O12.The physicsof wind-blownsand anddust.ReportsonProgressinPhysics, 75(10): 106901.   \nLajeunesse E,MalvertiL,CharruF.2O1o.Bedload transport inturbulentflowat thegrainscale:experimentsandmodeling. Journal of Geophysical Research,115(F4):745-751.   \nMartinRL,KokJF.2O17.Wind-invariantsaltationheightsimplylinearscalingofaeoliansaltationflux withshearstres.Science Advances,3(6): e1602569.   \nMcewanIK,WiletsBB.1993.Adaptationof the near-surface wind to thedevelopmentofsand transport.Jourmal ofFluid Mechanics,252: 99-115.   \nNamikas SL.2Oo3.Field measurementandnumerical modelingof aeolian mass flux distributions on a sandy beach Sedimentology,50:303-326.   \nOBrienP,McKenna Neuman C.2016.PTVmeasurementofthespanwisecomponentofaeolian transportinsteadystate.Aeolian Research,20:126-138.   \nOBrienP,McKenna Neuman C.2018.Anexperimentalstudyofthedynamicsofsaltation withinathree dimensional framework. Aeolian Research,31: 62-71.   \nOhmi K,LiHY.2oo.Particle-trackingvelocimetrywithnewalgorithms.MeasurementScienceandTechnology,1(6):603- 616.   \nOwen PR.1964. Saltation of uniform grains in air. Journal of Fluid Mechanics,20(2): 225-242.   \nPlatzerB.FrancoisCharru.2O11.Hydrodynamic Instabilities (translatedbyPatriciadeForcrand-Millrd).Cambridge, Cambridge University Press.   \nRasmussen KR,Sorensen M.2o08.Vertical variationof particle speedandfluxdensity inaeoliansaltation: Measurementand modeling.Journal of Geophysical Research,113(F2):544-548.   \nSauermann G,KroyK,Herrmann HJ.2oo1.Continuum saltation model forsand dunes.Physical ReviewE,64:031305.   \nSorensen M.2004. On the rate of aeolian sand transport. Geomorphology,59(1-4): 53-62.   \nTennekes H,Lumley JL.1972.A First Course in Turbulence.Cambridge,the MIT Press,5.   \nWangY,Wang DW,WangL,et al.2Oo9.Measurementof sandcreepona flat sand bedusing ahighspeeddigitalcamera. Sedimentology, 56(6): 1705-1712.   \nWu W,YanP,Wang Y,etal.2018.Windtunnel experimentsondustemissons fromdiferentlandformtypes.JouralofArid Land,10(4): 548-560.   \nYang B,Wang Y,Zhang Y.2Oo9.The3-Dspreadofsaltation sandoveraflatbed surface inaeolian sand transport.Advanced Powder Technology,20(4):303-309.   \nZhang W,Kang JH,Lee SL.2O07.Trackingof saltatingsandtrajectoriesoveraflatsurface embedded inanatmospheric boundary layer. Geomorphology,86(3-4): 320-331.   \nZhang W,WangY,Lee SJ.2O08.Simultaneous PIVandPTVmeasurementsofwindandsandparticlevelocities.Experiments in Fluids,45(2): 241-256.   \nZhangY,WangY,JiaP.2O14.Measuringthekineticparametersofsaltatingsandgrainsusingahigh-speeddigitalcamera. Science China: Physics,Mechanics & Astronomy,57(6):1137-1143.   \nZhangY,WangY,YangB,etal.2O15.Aparticle trackingvelocimetryalgorithmbasedontheVoronoidiagram.Measurement Science and Technology,26(7): 075302.   \nZhang Y,Wang Y,Yang B,et al.2016.Measurement of sand crep ona flatsand bed using a high-speed digital camera: Mesoscopic features of creeping grains. Sedimentology, 63(3): 629-644. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

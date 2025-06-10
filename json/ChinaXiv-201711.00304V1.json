@@ -1,0 +1,440 @@
+[
+    {
+        "type": "text",
+        "text": "1961一2010年气候变化对西南冬小麦潜在和雨养产量影响的模拟分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "戴彤1,2王靖1\\*\\*赫迪]王娜(1．中国农业大学资源与环境学院 北京 100193;2.天津市静海区气象局 天津301600)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要利用农业气象试验站作物资料及土壤资料，评价APSIM-Wheat模型在西南地区的适应性，应用该模型分析该地区1961—2010年冬小麦潜在和雨养产量的时空变化特征，通过逐步回归分析揭示小麦生长季主要气象因子对潜在产量和雨养产量的影响及相对贡献率。研究结果表明：APSIM模型对该区5个常用小麦品种的模拟效果较好，模拟与实测生育期的均方根误差(RMSE)在7.0d以内，地上部分生物量和产量模拟值与实测值的归一化均方根误差(NRMSE)均低于 $2 5 \\%$ ，模型在西南地区具有较好的适应性。 $1 9 6 1 - 2 0 1 0$ 年研究区域$3 6 \\%$ 的站点冬小麦生长季总辐射显著降低，其中北部、东南部和南部中区最显著; $6 8 \\%$ 的站点生长季 $\\geqslant 0 \\ \\mathrm { ^ \\circ C }$ 有效积温显著增加，西部增温显著； $30 \\%$ 的站点生长季平均气温日较差显著减小，南部中区最显著；全区生长季总降水大面积减少但不显著，减少区主要位于最南端和东南部。模拟的冬小麦潜在产量在 $65 \\%$ 的站点呈显著减产趋势，南部中区和北部变化最明显；雨养产量在 $2 5 \\%$ 的站点显著降低，北部地区较明显，全区减产趋势较弱。减产显著的站点中，生长季辐射降低、温度升高、气温日较差减小对潜在产量降低的贡献率分别为 $45 \\%$ 、$3 6 \\%$ 和 $2 \\%$ ，对雨养产量降低的贡献率分别为 $3 6 \\%$ 、 $3 9 \\%$ 和 $- 8 \\%$ ，而降水减少对雨养产量降低的贡献率为 $7 \\%$ 。西南冬小麦生长季辐射降低、温度升高及降水减少共同导致了冬小麦潜在和雨养产量的显著下降，而气温日较差的降低对冬小麦潜在和雨养产量的影响分别表现为负作用和正作用，整体上辐射和温度的影响程度最大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 冬小麦 APSIM模型　气候变化　气象因子　潜在产量　雨养产量　逐步回归　贡献率中图分类号： $\\mathrm { S } 1 6 2 . 5 \\substack { + 3 }$ （204号 文献标识码：A 文章编号:1671-3990(2016)03-0293-13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impact simulation of climate change on potential and rainfed yields of winter wheat in Southwest China from 1961 to 2010 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DAITong12,WANG Jing\\\\*,HEDi', WANG Nal (1.College of Resource and Environmental Sciences,China Agricultural University,Beijing 10o193,China; 2. Jinghai Meteorological Bureau,Tianjin 30160o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractUsingcrop and soildatafromagro-meteorological observational stations together with meteorological data from meteorological stations,the study evaluated theadaptabilityofAPSIM-Wheat (Agricultural Production Systems sIMulatorWheat) modelin winter wheat planting zones in Southwest China(SWC).Then,the model was used to calculate the potential andrainfed yieldsof winter wheat from1961to 2010in SWC.Therelativecontributionratesof thechanges in main climatic factors during crop growing season to thechanges in simulated potentialandrainfed yields of winter wheat were determined with the stepwise regresion method.The study results showed that APSIM-Wheat model performed well in simulating phenology,above-ground biomassand yieldoffive representative winter wheat varieties in SWC.Root Mean Square Eror (RMSE) between simulated and observed wheat phenology were less than $7 . 0 \\mathrm { ~ d ~ }$ for all the varieties.Normalized Root Mean Square Error (NRMSE）between simulated and observed above-ground biomass and yield were lower than $2 5 \\%$ and $21 \\%$ 5 respectively,for all the varieties.Total solar radiation during wheat growing season decreased significantly at $3 6 \\%$ of the study stations centeredin thenorthern,southeasternandmid-southern SWC.The efectiveaccumulative temperatureofnotless than $0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ during wheat growing season increased significantly at $6 8 \\%$ of the study stations centered in the western SWC,while average diurnal temperature range during wheat growing season decreased significantly at $30 \\%$ of study stations centered in the mid-southern SWC $( P < 0 . 0 5 )$ ). Total precipitation during wheat growing season decreased at most of study stations centered inthe southernand southeastern SWC from1961to2010.As aresult,simulated potentialyieldof winter wheat also showed a significant decline at $6 5 \\%$ of study stations, especially in the mid-southern and northern SWC. Simulated yield of rainfed wheat showed a significant declie at $2 5 \\%$ of study stations, especially in the northern SWC. The contribution rates of the decrease of solarradiation and diurnal temperature range,the increase of temperature during wheat growing season were $45 \\%$ ， $2 \\%$ and $3 6 \\%$ , respectively, to the reduction in simulated potential yield, and $3 6 \\%$ ， $3 9 \\%$ and $- 8 \\%$ ,respectively, to the reductionin simulated yieldofrainfed wheat.Thecontributionrate of decreasing precipitation during wheat growing season was $7 \\%$ to the reduction in simulated yield ofrainfed wheat.In general,solar radiation and temperature had the most obvious efectson simulated yieldvariationsof winter wheatin SWC from196l to 2010.The decrease in solarradiation and precipitation,and theincrease in temperature during winter wheat growing season ledtoa decline inboth simulated potential andrainfed yields at mostofstudystations in SWC,whilethedecreased diurnal temperaturerange had both negative and positive ffects onpotentialandrainfedyields,respectively. Quantifying the impacts oflight,temperature and precipitationon wheat productionusing APSIM model provided a sound foundation for taking countermeasures for adapting to climate change and improving wheat yield in Southwest China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsWinter wheat；APSIM model;Climatechange；Climatic factor;Potential yield;Rainfedyield;Stepwise regression; Contribution rate ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西南地区是我国重要的粮食产区之一，小麦作为西南地区第三大粮食作物，在满足当地口粮消费需求外，也为酿酒等工业消费提供原料，该区常年小麦种植面积和总产量分别占全国小麦总面积和总产量的 $1 1 \\%$ 和 $9 \\% ^ { [ 1 ] }$ 。农业对气候条件的依赖性强,气候变化会显著影响作物生长发育、病虫害发生、作物生产力和资源利用效率等多个方面。因此在气候变暖背景下，量化该区气候要素变化程度及其对冬小麦产量的影响具有重要意义。当前评估气候变化对小麦产量影响的方法主要包括在实验室或田间进行的气候变化模拟试验[2-3]、以气象因子与小麦产量统计回归关系为基础的统计模型[4]，以及作物生产潜力模型[3]和作物生长模型。其中作物生长模型能够动态模拟作物生长发育和产量形成过程，可较准确地表达作物生长与气候因子变化的关系，现阶段已成为农业生产中的高效工具[5]。APSIM模型自引进我国以来，已经在多个农作物主产区进行了参数调试和验证工作，并已被用于评估气候变化对小麦生产的影响。如在华北平原的研究表明，气候变化对冬小麦产量普遍存在负影响，其中辐射减少和温度升高是导致冬小麦产量下降的主要气象因子，而通过播期调整、品种改良与农田管理措施的改善可减轻或抵消这种不利影响[6-11]；在西北黄土高原,由于温度升高缩短了小麦的生育期同时使麦田的蒸发加大，造成小麦水分亏缺，对春小麦产量产生了不利影响，但可以通过免耕覆盖等措施减轻小麦由于水分亏缺造成的伤害[12-13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相对于华北和西北小麦主产区，气候变化对我国西南地区小麦产量影响的研究报道甚少[14-15]，为当地决策者提供的理论支撑较薄弱。因此，本文旨在基于验证后的APSIM模型，分析西南地区1961—2010年冬小麦潜在和雨养产量的时空分布特征及其受生长季内光、温和降水资源的影响程度，并为评价未来气候变化对冬小麦生产的影响提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况和数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国西南地区介于 $2 1 ^ { \\circ } 0 8 ^ { \\prime } { \\sim } 3 4 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { E }$ 和 $9 7 ^ { \\circ } 2 1 \\mathrm { \\mathrm { ' } } \\sim$ $1 1 0 ^ { \\circ } 1 1 ^ { \\prime } \\mathrm { N }$ ，包括四川、云南、贵州和重庆4省(市)。全区地势呈北高南低、西高东低趋势，具有盆地、高原、平地、山地和丘陵多种地貌类型，是世界上地形最复杂的区域之一。全区大部处于亚热带，雨量充沛，热量条件较好，而且秦岭、大巴山屏障阻挡寒潮侵袭，冬季温和，生长季长，除少数高山外，稻麦均可两熟，亦可广泛栽种亚热带多年生植物，是我国重要的农林业产区[16-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四川、云南、贵州和重庆64个研究站点的1961—2010年逐日气象资料来自于中国气象局国家气象信息中心地面气象观测资料；冬小麦生长发育、产量构成和田间管理资料来源于农业气象试验站，土壤资料参考自中国土种志(第6卷)[18]。根据西南地区特点、农业气候特征以及当地冬小麦的播种期和生育期长度，以县级为划分单元将该区冬小麦分为1个非种植区和5个种植区，冬小麦种植分区情况如图1所示。西南地区土壤类型复杂，根据中国土壤分布图将该区土壤划分为5种类型(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N A ☆ anyuan 巴中Bzhong Lng 都工堰Dujiangyan 奉节Fengjie 温江Wenjiang 宁 ★ ☆ Ya'an 合川Hechuan 乐山Leshan 沙坪坝shapigba ⅢI 内江县Nejiangxian\\* ▲ ☆ 越西Yuexi 宜宾Yibin纳溪Ngi 酉阳Youyag 习水Xishui ☆ 木里Muli西昌Xichang 叙永Xuyong A A 思南Sinan 贡山Gog ★ 遵义 Zunyi 铜仁fongren I 潭eitan ☆ 维西We BLijiang 7 ☆ 毕节Bijie 黔西Qi IV 三穗si 理Huili I 贵阳Guiyang凯里Kailg 会泽Huizh ☆ 安顺Arshn 大理pali 蓝 盘县Panxian 罗L山Dsha 榕江Rongjiang ☆ 兴义Xingyi 腾冲Taigchong 保山Boshan ★ 楚雄Chuxiong昆明 Kunming 陆良Liang 望Wangd 有 景东Jigdoug 玉溪yuxi 精 歌马Gengma V 元江Yunjiang蒙自 Mengzi 屏边Pingbian 海沧Lancang 思茅Simao江城Jiangcheng 模型验证站点 Model validation stations 景洪Jinghong ▲ 气象站 Meteorological stations 动谐Meygla ☆ 农业气象试验站Agro-meteorological station: 非小麦种植区Non-wheat district 0 100200 400 600 种植区分界线 Planting district boundary 1km I\\~V 5个种植区Five planting districts ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 APSIM模型简介",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APSIM模型是由澳大利亚农业生产系统研究组(APSRU)开发的用于模拟农业生产系统生物物理过程的机理模型，其特色在于从农业生产系统角度出发，考虑了轮作、休耕、残茬处理等，自前已广泛用于农作系统管理、气候变化影响评估、气候预报的价值评估以及气候风险管理等方面[19-20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APSIM模型的核心模块包括：作物模块、土壤模块、管理模块。作物模块主要用于模拟作物的生长、发育和产量形成，其参数主要包括作物参数和品种遗传参数。土壤模块用于模拟土壤水分运动、养分运移、土壤侵蚀等过程，土壤水分基础参数包括各层土壤的饱和含水量 $( \\mathrm { m m } ^ { 3 } \\cdot \\mathrm { m m } ^ { - 3 } .$ ）、田间持水量$\\left( \\mathrm { m m } ^ { 3 } { \\cdot } \\mathrm { m m } ^ { - 3 } \\right.$ 和凋萎系数 $\\left( \\mathrm { m m } ^ { 3 } { \\cdot } \\mathrm { m m } ^ { - 3 } \\right) ,$ 等。管理模块主要用于各模块的调用、作物播种期和收获期、施肥和灌溉管理措施的设定、输入和输出变量的设置等。APSIM为日步长模型，输入的气象数据包括逐日最高气温 $\\big ( \\mathrm { ^ { c } } \\big )$ 、最低气温 $\\mathrm { ( ^ { \\circ } C ) }$ 、降水量 $\\mathrm { ( m m ) }$ 和总辐射$( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } )$ ，其中总辐射根据日照数据由Angstrom-Prescott公式[21-22]估算。模型主要输出量包括作物的关键生育期(出苗期、开花期和成熟期)、地上部分生物量和产量等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3模型参数调试和验证方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究前期已经对APSIM-Wheat模型在重庆地区的适应性进行了评价[23]，本文进一步增加西南地区站点以评价该模型的模拟能力。模型参数调试与验证主要采用均方根误差(RMSE)、归一化均方根误差(NRMSE)、决定系数 $( R ^ { 2 } )$ 和一致性指标( $\\mathit { \\Delta } _ { \\mathcal { D } }$ 指标)对模拟值与实测值进行对比分析，其中 RMSE和NRMSE取值越小以及 $R ^ { 2 }$ 和 $D$ 指标取值越接近1均表明模拟效果越好。模型参数调试阶段利用“试错法\"确定典型小麦品种的遗传参数(表2)；并通过该品种验证年份生育期、地上部分生物量和产量的模拟值与实测值间绝对、相对误差和一致性的比较(表3),评价APSIM小麦模型在西南地区的适应性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 模型情景设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于APSIM模型模拟西南地区1961—2010 年冬小麦潜在产量和雨养产量，其中潜在产量为水分充足下由该区光温资源决定的产量；雨养产量为无灌溉条件下由自然光、温、降水资源共同决定的产量。两种情景均设置充分施氮且不考虑病虫害。为了研究单因素气候变化的影响，在模拟期间设定品种不变，选取各种植区小麦实际连续种植年份较长的品种作为该区典型品种，并根据小麦种植区设定播期(表2)。播种密度为300 株 $\\cdot \\mathrm { m } ^ { - 2 }$ ，播种深度为$5 . 0 \\mathrm { c m }$ ，并依据土壤类型输入土壤水分参数(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5气候要素变化对产量的贡献率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "气候变化背景下，对小麦生长发育有显著影响的主要气象因子为温度、降水和日照[6-10]。而气温日较差与平均温度可共同反映最高温度与最低温度的变化和影响程度，因此，本文将对辐射、温度、气温日较差和降水这4个气象因子对小麦产量的影响进行分析。基于APSIM模型模拟的冬小麦潜在和雨养产量变化显著的站点，采用逐步回归方法剔除影响不显著因子，然后通过贡献率表示辐射、温度、气温日较差和降水中影响显著因子对产量的单一影响程度，并通过标准化回归系数对各气象因子的影响进行对比。其中贡献率为1961一2010 年该因子变化幅度乘以其偏回归系数所占产量总变化幅度的百分比，偏回归系数为多元回归分析的系数，可表示在其他所有自变量不变的情况下，某一个自变量变化引起因变量变化的比率；标准化回归系数是线性回归时对变量做的标准化变化，数值上等于变量减去其均值并除以其标准差的估计，可消除自变量数量级及量纲(单位)不同引起的误差[24]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于模型假设品种和管理措施不变，模型模拟的雨养产量近似于仅气象条件下影响的实际产量。因此为验证APSIM模型能否抓住气象条件对产量的影响，选取小麦连续种植年份较长的农业气象观测站点(表8)，运用5年滑动平均法[4拟合趋势产量，从冬小麦实际产量中提取出气象产量，并依据气象产量变化率(气象产量占趋势产量的百分率)划分气候较好 $( > 1 0 \\% )$ 、正常 $( - 1 0 \\% \\sim 1 0 \\%$ 和较差 $( < - 1 0 \\% )$ 年型，按不同年型进行气象产量变化率与模拟的雨养产量距平变化率(雨养产量与平均产量差占平均产量的百分率)的对比分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1APSIM模型参数调试和验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参数调试过程确定的作物遗传参数如表2所",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "示。在模拟的5个冬小麦品种中，模拟与实测出苗天数、开花天数及成熟天数的RMSE分别在 $1 . 0 { \\mathrm { d } } .$ 7.0d和5.0d以内；地上部分生物量和产量模拟值与实测值的NRMSE分别低于 $2 5 \\%$ 和 $21 \\%$ (表3)。验证结果表明APSIM模型对冬小麦生育期、生物量和产量的模拟较准确，该模型在西南地区具有较好的适应性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2冬小麦生长季气候要素变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1961一2010年西南各冬小麦种植区的生长季气象要素变化特征如表4所示。其中冬小麦生长季总辐射在Ⅲ区下降最多，而V区有增加趋势；生长季$\\geqslant 0$ ℃有效积温在Ⅱ区上升最多，I区次之，Ⅲ区上升最少；生长季气温日较差在I区减少明显，Ⅲ区变化幅度较弱；生长季总降水在I区减少最多，IV区次之，而Ⅱ区降水呈微增势态。西南全区 $7 5 \\%$ 的研究站点冬小麦生长季总辐射呈减少趋势，其中$48 \\%$ 的站点通过显著性检验 $( P { < } 0 . 0 5 )$ ，种植区北部、东南部和南部中区减少较为明显，全区平均变化速率 $- 1 4 . 3 ~ \\mathrm { M J } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } 1 0 \\mathrm { a } ^ { - 1 }$ · $9 5 \\%$ 的站点 $\\geqslant 0 \\ ^ { \\circ } \\mathrm { C }$ 有效积温呈升高趋势，其中 $72 \\%$ 的站点通过显著性检验（20 $( P { < } 0 . 0 5 )$ ，西部地区增温较明显，全区平均增温速率$4 0 . 2 \\mathrm { \\ : \\ : ^ { \\circ } C \\cdot d } { \\cdot } 1 0 \\mathrm { a } ^ { - 1 }$ ： $78 \\%$ 的站点生长季平均气温日较差呈减少趋势，其中 $3 8 \\%$ 的站点通过显著性检验，南部中区变化较明显，全区平均变化速率 $- 0 . 1 3 \\ \\mathrm { ~ \\ } \\mathrm { ^ { \\circ } C } \\cdot 1 0 \\mathrm { a } ^ { - 1 }$ ，$69 \\%$ 的站点生长季总降水呈减少趋势，全区绝大部分站点变化不显著，平均变化速率 $- 4 . 8 \\ \\mathrm { \\ m m } { \\cdot } 1 0 \\mathrm { a } ^ { - 1 }$ ，空间上呈西北增多，南部和东南部减少势态分布(图2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3冬小麦潜在和雨养产量变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模拟的西南地区冬小麦潜在和雨养产量多年均值及变化趋势的分区差异如表5所示。1961—2010年Ⅱ区的冬小麦潜在产量最高，Ⅲ区次之，考虑降水因子影响后，Ⅲ区冬小麦雨养产量最高，Ⅱ区次之，而V区的小麦潜在和雨养产量均为最低。冬小麦潜在产量和雨养产量分别在Ⅲ区和IV区降低最明显，而I区和V区的潜在和雨养产量受气候变化负面影响均较小，且雨养产量呈稍增加趋势。全区范围内，冬小麦潜在产量变化范围 $2 ~ 3 8 6 { \\sim } 1 0 ~ 1 4 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 全区均值 $5 6 9 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；空间上呈西北高、南部和东部低的分布势态；1961—2010 年 $86 \\%$ 的站点潜在产量呈下降趋势，其中 $76 \\%$ 的站点显著减产( $P <$ 0.05)，种植区北部和南部中区最明显，全区产量平均变化速率为 $- 1 1 0 \\ \\mathrm { \\ k g { \\cdot h m } ^ { - 2 } { \\cdot } 1 0 a ^ { - 1 } }$ 。冬小麦雨养产量变化范围 $2 ~ 3 8 6 { \\sim } 8 ~ 7 7 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，全区均值 $4 \\ 6 0 5 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，空间上呈西低东高分布势态；近50 年 $61 \\%$ 的站点雨养产量呈下降趋势，其中 $41 \\%$ 的站点显著减产$( P { < } 0 . 0 5 )$ ，种植区东北部最明显，全区产量平均变化速率 $- 3 1 \\ \\mathrm { \\ k g cdot h m ^ { - 2 } } { \\cdot } 1 0 \\mathrm { a } ^ { - 1 }$ (图3)，相比于潜在产量，冬小麦雨养产量减产幅度较小。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f7b9cf84612532d4a93148731edc490772244ed7c5415a407527e748658eff3.jpg",
+        "table_caption": [
+            "e ",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤类型 Soil type</td><td rowspan=\"2\">土壤参数 Soil parameter</td><td colspan=\"10\">土层深度 Soil depth (cm)</td><td rowspan=\"2\" colspan=\"4\">站点 Station</td></tr><tr><td>0~10</td><td>10~20</td><td>20~30</td><td>30~40</td><td>40~50</td><td>50~60</td><td>60~70</td><td>70~80</td><td>80~90</td><td>90~100</td><td></td></tr><tr><td>Pupesoil</td><td>(mm2m3)</td><td>0.17</td><td>0.17</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.18</td><td>0.18</td><td></td><td>0.18</td><td></td><td></td><td>渠江、江、山、、宾、阆中、遂宁、南充、</td><td>四川重ihu</td></tr><tr><td rowspan=\"6\"></td><td>(mm²mm3)</td><td>0.31</td><td>0.31</td><td>0.31</td><td>0.31</td><td>0.31</td><td>0.32</td><td>0.32</td><td>0.32</td><td></td><td></td><td></td><td>Neijiang,</td><td>Chongqin</td></tr><tr><td>(mm2²mm3)</td><td>0.44</td><td>0.44</td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.44</td><td>0.44</td><td>0.44</td><td></td><td></td><td></td><td>Shapingba, Naxi</td><td></td></tr><tr><td>bd (g·cm-3)</td><td>1.49</td><td>1.49</td><td>1.51</td><td>1.51</td><td>1.51</td><td>1.50</td><td>1.50</td><td>1.50</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(mm21m²3)</td><td>0.21</td><td>0.21</td><td>0.23</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td></td><td>0.25</td><td>0.25</td><td>0.25</td><td>木、山、维西、西、理、、腾、</td><td>四川 Yuchu</td></tr><tr><td>(mm²mm3)</td><td>0.34</td><td>0.34</td><td>0.35</td><td>0.39</td><td>0.39</td><td>0.39</td><td>0.39</td><td></td><td>0.39</td><td>0.39</td><td>0.39</td><td>玉溪、思南、铜仁、三穗、兴义、望谟、罗甸、</td><td>贵州Guizh</td></tr><tr><td>(mm³-mm3)</td><td>0.47</td><td>0.47</td><td>0.46</td><td>0.47</td><td>0.47</td><td>0.47</td><td>0.47</td><td></td><td>0.47</td><td>0.47</td><td>0.47</td><td>M、cl Tengchong，Baoshan, Dali, Chuxiong, Kunming,</td><td></td></tr><tr><td></td><td>bd (g·cm-3)</td><td>1.40</td><td>1.40</td><td>1.44</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td></td><td>1.40</td><td>1.40</td><td>Z Rongjiang,Lijiang</td><td></td></tr><tr><td rowspan=\"5\">Late红red soil</td><td>(mm21m²3)</td><td>0.33</td><td>0.33</td><td>0.37</td><td>0.39</td><td>0.41</td><td>0.41</td><td>0.41</td><td>0.41</td><td></td><td>0.41</td><td></td><td>景东、西、马、、沧、景洪、思苯、</td><td>云南Yunn</td></tr><tr><td>dull (mm³-mm-3)</td><td>0.44</td><td>0.44</td><td>0.46</td><td>0.48</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td></td><td>0.50</td><td></td><td>Jingdong, Luxi, Gengma, Lincang, Jinghong, Simao, Mengla, Yuanjiang,</td><td>Lancang,</td></tr><tr><td>(mm2mm3）)</td><td>0.52</td><td>0.52</td><td>0.54</td><td>0.56</td><td>0.58</td><td>0.58</td><td>0.58</td><td></td><td>0.58</td><td>0.58</td><td></td><td>Jiangcheng,Mengzi,Pingbian</td><td></td></tr><tr><td>bd (g·cm-3)</td><td>1.27</td><td>1.27</td><td>1.22</td><td>1.17</td><td>1.13</td><td>1.13</td><td>1.13</td><td></td><td>1.13</td><td>1.13</td><td></td><td></td><td></td></tr><tr><td>(mm21m-3)</td><td>0.16</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td></td><td>0.15</td><td>0.15</td><td>0.15</td><td></td><td>都江堰、安、、粹、、、毕</td><td>四川重ichu</td></tr><tr><td rowspan=\"7\">Yel黄w-rown</td><td>dull</td><td>0.29</td><td>0.28</td><td>0.28</td><td>0.28</td><td>0.28</td><td>0.28</td><td>0.28</td><td></td><td>0.27</td><td>0.27</td><td></td><td>Dujiangyan, Ya’an,Tongzi, Xuyong, Xishui, g</td><td>Chongqin 贵州Guizh</td></tr><tr><td>(</td><td>0.49</td><td>0.44</td><td>0.44</td><td>0.44</td><td>0.44</td><td>0.44</td><td>0.42</td><td></td><td>0.41</td><td>0.41</td><td></td><td></td><td></td></tr><tr><td>bd (g·cm-3)</td><td>1.35</td><td>1.48</td><td>1.49</td><td>1.49</td><td>1.49</td><td>1.49</td><td>1.53</td><td></td><td>1.57</td><td>1.57</td><td></td><td></td><td></td></tr><tr><td>(mm21mm²3)</td><td>0.19</td><td>0.19</td><td>0.21</td><td>0.21</td><td></td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>Y西、万、,Fengie</td><td>四川Sichu</td></tr><tr><td>(mm²mm3)</td><td>0.37</td><td>0.38</td><td>0.39</td><td>0.38</td><td></td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td><td></td><td>Chongqin</td></tr><tr><td>(mm²mm3)</td><td>0.63</td><td>0.63</td><td>0.63</td><td>0.58</td><td>0.55</td><td></td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td>0.55</td><td></td><td></td></tr><tr><td>bd (g·cm-3)</td><td>0.99</td><td>0.99</td><td>0.97</td><td>1.13</td><td></td><td>1.19</td><td>1.19</td><td>1.19</td><td>1.19</td><td>1.19</td><td>1.19</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8db97a513c3c0ee93601cfd007614b4ef5aa6d45589c6d6bc2e2f734bdf3b4fc.jpg",
+        "table_caption": [
+            "表2西南地区冬小麦各种植区冬小麦播期及典型品种的遗传参数 Table2Sowing datesand modelparametersforrepresentative winter wheat varieties ineachplantingdistrictin Southwest China "
+        ],
+        "table_footnote": [
+            "\\*该站点小麦品种遗传参数来自文献[23]。参数调试与验证年份均为小麦收获年。\\*means that modelparameters for winter wheat quoted fror he reference [23].Both years for calibration and validation are the harvest years of winter wheat. "
+        ],
+        "table_body": "<html><body><table><tr><td>D分sct 站点</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>L</td><td>福利</td><td>3.0</td><td>3.3</td><td>maturity (C·d) 520</td><td>18.0</td><td>1987</td><td>1988</td><td>10-10</td><td>190</td></tr><tr><td>Ⅱ</td><td>L丽江</td><td></td><td>3.2</td><td>3.5</td><td>730</td><td>25.0</td><td>2007-</td><td>2009</td><td>10-25</td><td>195</td></tr><tr><td>Ⅲ</td><td>万州* Wanzhou</td><td>81-8</td><td>1.5</td><td>2.0</td><td>420</td><td>26.0</td><td>2002- 2003</td><td>2004</td><td>11-05</td><td>190</td></tr><tr><td>IV</td><td>Hechuan</td><td>Mia阳 266</td><td>2.7</td><td>3.0</td><td>590</td><td>28.0</td><td>2001-</td><td>2003-</td><td>11-15</td><td>185</td></tr><tr><td>V</td><td>路</td><td>82</td><td>1.9</td><td>2.0</td><td>800</td><td>18.0</td><td>1923</td><td>1995</td><td>10-25</td><td>170</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a2ded0985d4aa2504febe3d0e5b18d78aa3bc3e69d7483f50e6132e5e441db4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*表示该品种的验证结果来自文献 $[ 2 3 ] _ { \\circ }$ \\* means that the validation result of the winter wheat variety quoted from the reference [23]. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">品种 Variety</td><td colspan=\"3\">生育期RMSE RMSE for growth duration (d)</td><td colspan=\"2\">NRMSE (%)</td></tr><tr><td>播种-出苗 Sowing to emergence</td><td>播种-开花 Sowing to flowering</td><td>播种-成熟 Sowing to maturity</td><td>地上部分生物量 Above-ground biomass</td><td>产量 Yield</td></tr><tr><td>福利Fuli</td><td>0.0</td><td>5.0</td><td>5.0</td><td>25.0</td><td>20.8</td></tr><tr><td>夏繁Xiafan</td><td>1.0</td><td>4.0</td><td>2.0</td><td>13.0</td><td>5.3</td></tr><tr><td>81-8*</td><td>1.0</td><td>3.0</td><td>0.0</td><td>6.8</td><td>16.8</td></tr><tr><td>绵阳26*</td><td>0.8</td><td>0.8</td><td>3.2</td><td>17.1</td><td>20.3</td></tr><tr><td>Mianyang26 白壳82Baike82</td><td>1.0</td><td>7.0</td><td>4.0</td><td>15.7</td><td>11.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/78da7d7e6eed33793f3b867ffa22a974f34787508dc6f164935c06bd0f11cf5c.jpg",
+        "table_caption": [
+            "表3APSIM模型对小麦生育期、生物量和产量模拟结果的验证 Table 3Validation results of APSIM model simulated development stages,above-ground biomass and yield of winter wh ",
+            "表41961—2010年西南各种植区冬小麦生长季总辐射、 $\\geqslant \\mathbf { 0 } \\ \\mathsf { ^ { \\circ } C }$ 有效积温、气温日较差和总降水的气候倾向率均值 Table 4Means of climate tendency of solar radiation, $\\geqslant 0 \\ \\mathring { \\mathrm { C } }$ accumulated temperature, diurnal temperature range and precipitation during winter wheat growing season in each planting district in Southwest China from l96l to 2010 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分区 District</td><td>总辐射倾向率 Tendency rate of solar radiation (MJ·m-1·10a-1)</td><td>≥0℃积温倾向率 Tendency rate of ≥0℃ accumulated temperature (℃·d·10a-1)</td><td>气温日较差倾向率 Tendency rate of diurnal temperature range(℃·10a-)</td><td>总降水倾向率 Tendency rate of precipitation (mm·10a-')</td></tr><tr><td>1</td><td>-5.3</td><td>48.1</td><td>-0.24</td><td>-10.8</td></tr><tr><td>II</td><td>-20.9</td><td>56.7</td><td>-0.13</td><td>1.8</td></tr><tr><td>IⅢI</td><td>-28.6</td><td>27.3</td><td>-0.08</td><td>-5.8</td></tr><tr><td>IV</td><td>-18.3</td><td>31.1</td><td>-0.15</td><td>-8.4</td></tr><tr><td>V</td><td>5.7</td><td>42.9</td><td>-0.15</td><td>-5.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬小麦潜在产量变化在45个站点显著，平均减产 $7 2 3 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } 1 0 \\mathrm { a } ^ { - 1 }$ 。1961—2010 年生育期日均辐射减少 $0 . 6 3 \\mathrm { \\ M J } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，平均温度增加 $1 . 2 2 ~ \\mathrm { ^ { \\circ } C }$ ，平均气温日较差降低 $0 . 7 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，造成的减产量分别占 $45 \\%$ /$3 6 \\%$ 和 $2 \\%$ 。整体上辐射减少对冬小麦潜在产量降低的贡献率最高，温度次之，气温日较差最小。基于标准化回归分析结果表明，辐射、温度及气温日较差等因子影响显著的站点分别占45个站点的 $9 8 \\%$ /$82 \\%$ 和 $1 1 \\%$ ，其中辐射降低、温度升高对产量的影响均为负效应，气温日较差降低对产量的显著影响在盘县、贡山为负效应，而在温江、黔西和湄潭表现为正效应(表6)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬小麦雨养产量变化在18个站点显著，平均减产 $5 2 9 ~ \\mathrm { { \\ k g } { \\cdot h m } ^ { - 2 } { \\cdot } 1 0 a ^ { - 1 } }$ 。1961—2010 年生育期日均辐射减少 $0 . 4 7 ~ \\mathrm { M J } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，平均温度增加 $1 . 1 1 \\mathrm { ~ \\textdegree C }$ ，总降水减少 $4 9 \\mathrm { m m }$ ，造成的减产量分别占 $3 6 \\%$ / $3 9 \\%$ 和 $7 \\%$ 而平均气温日较差降低 $0 . 2 6 \\mathrm { ~ \\ } ^ { \\circ } \\mathrm { C }$ ，表现为对产量有$8 \\%$ 的正贡献率。与潜在产量不同的是，整体上温度升高对冬小麦雨养产量降低的贡献率最高，辐射和降水次之，气温日较差最小。基于标准化回归分析结果表明，辐射、温度、气温日较差及降水因子分别在 $83 \\%$ / $67 \\%$ / $3 9 \\%$ 和 $1 7 \\%$ 的站点中影响显著，其中辐射和降水减少、温度升高对产量的影响均为负效应，气温日较差降低对产量的影响均呈正效应(表7)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc58a73c8e978e1ad268cb6616a993e379a70fbe3c7a3dbebd8856fa01e11a18.jpg",
+        "img_caption": [
+            "图2西南地区1961—2010 年冬小麦生长季总辐射(a)、 $\\geqslant \\mathbf { 0 } \\ \\mathsf { ^ { \\circ } C }$ 有效积温(b)、气温日较差(c)和总降水(d)的气候倾向率空间分布Fig.2Spatial distribution of climate tendency of solar radiation (a), $\\geqslant 0 \\ \\mathrm { ~ \\ ^ { \\circ } C ~ }$ accumulated temperature (b), diurnal temperaturerange (c)andprecipitation(d)during winterwheat growingseason ineachplantingdistrictin SouthwestChina froml96lto2010"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a13762e7701bb3944f70c34765b75b51864cb234bb43466bad5c48279db856dc.jpg",
+        "img_caption": [
+            "图3西南地区1961—2010年冬小麦潜在产量(a)和雨养产量(b)的均值和气候倾向率(c,d)空间分布Fig.3Spatialdistributionofsimulatedpotentialyields (a)andraifedyields (b)andtheirclimatetendencyrates (c,d)of winterwheat in Southwest China from 1961 to 2010"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/21efd41391a3d4654d08206d55ab401766355a7a810ef40f19579f697e188bd7.jpg",
+        "table_caption": [
+            "表51961—2010年西南各种植区模拟的冬小麦潜在和雨养产量及变化趋势 d potentialand rainfed yields of winter wheat and their change rates in each planting district in Southwest Ch "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分区 District</td><td>潜在产量 Potential yield (kg·hm-2)</td><td>潜在产量变化趋势 Change rate of potential yield (kg:hm-².10a-1)</td><td>雨养产量 Rainfed yield (kg·hm-2)</td><td>雨养产量变化趋势 Change rate of rainfed yield (kg:hm-2.10a-1)</td></tr><tr><td>I</td><td>5848</td><td>-43</td><td>3710</td><td>15</td></tr><tr><td>I</td><td>7241</td><td>-136</td><td>4 632</td><td>-55</td></tr><tr><td>Ⅲ</td><td>6371</td><td>-169</td><td>5700</td><td>-56</td></tr><tr><td>IV</td><td>4 729</td><td>-137</td><td>4 466</td><td>-88</td></tr><tr><td>V</td><td>4081</td><td>-35</td><td>3670</td><td>26</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/af31230685c67b1720cd71877525a1fc15f8c6c6077b279a046d3e2911152f4f.jpg",
+        "table_caption": [
+            "表6西南地区不同站点冬小麦生长季气象因子对潜在产量的影响程度及贡献率 Table 6Influencedegresandcontributionratesof growing seasonclimate factors onsimulated potentialyieldofwinter wheat in different sites in Southwest China "
+        ],
+        "table_footnote": [
+            "\\*\\*表示显著性水平 $P { < } 0 . 0 1$ ，\\*表示显著性水平 $P { < } 0 . 0 5$ $^ +$ 表示该站产量显著增加。下同。\\*\\* stands for significance at 0.01 level,\\* stands fi significance at 0.05level, $^ +$ means the yield in the site increased significantly.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">D分</td><td rowspan=\"2\">站点</td><td colspan=\"3\">标准化回归系数 Standardize regression coefficient</td><td colspan=\"3\">贡献率 Contribution rate (%)</td></tr><tr><td>Raiaton</td><td>Temrature</td><td></td><td>Raiaton</td><td>Temature</td><td></td></tr><tr><td rowspan=\"2\">I</td><td>盘县Panxian+</td><td>0.986**</td><td>-0.456**</td><td></td><td></td><td></td><td></td></tr><tr><td>楚雄Chuxiong</td><td>0.903**</td><td>-0.086</td><td>-0.322** -0.154</td><td>66 97</td><td>-15 1</td><td>43 1</td></tr><tr><td rowspan=\"9\">I</td><td>兴义 Xingyi</td><td>0.795**</td><td>-0.350**</td><td>-0.067</td><td>77</td><td>45</td><td>1</td></tr><tr><td>温江Wenjiang</td><td>0.649**</td><td></td><td>0.251*</td><td>63</td><td></td><td>16</td></tr><tr><td>都江堰Dujiangyan</td><td>0.839**</td><td>-0.154</td><td></td><td></td><td>1</td><td></td></tr><tr><td>绵阳 Mianyang</td><td>0.729**</td><td>-0.103</td><td>-0.026</td><td>74</td><td>1</td><td>1</td></tr><tr><td>雅安Ya'an</td><td>0.707**</td><td>-0.079</td><td>0.037 0.108</td><td>68 49</td><td>1</td><td>1</td></tr><tr><td>乐山Leshan</td><td>0.937**</td><td>-0.149 -0.249**</td><td></td><td>67</td><td>1</td><td>1</td></tr><tr><td>木里Muli</td><td>0.396**</td><td>-0.486**</td><td>-0.104</td><td>34</td><td>22</td><td>1</td></tr><tr><td>贡山Gongshan</td><td>0.919**</td><td>0.002</td><td>-0.137 -0.411*</td><td>46</td><td>69</td><td>1</td></tr><tr><td>西昌 Xichang</td><td>0.378**</td><td>-0.512**</td><td>0.087</td><td>52</td><td>1 79</td><td>5</td></tr><tr><td></td><td>保山Baoshan</td><td>0.375**</td><td>-0.471**</td><td>0.214</td><td>-23</td><td>113</td><td>1</td></tr><tr><td></td><td>万源Wanyuan</td><td>0.778**</td><td>-0.147</td><td>-0.007</td><td>59</td><td>1</td><td>1 1</td></tr><tr><td>III</td><td>宜宾Yibin</td><td>0.841**</td><td>-0.443**</td><td>0.127</td><td>61</td><td>23</td><td></td></tr><tr><td></td><td>巴中 Bazhong</td><td>0.842**</td><td>-0.383**</td><td>0.074</td><td>53</td><td>17</td><td>1 1</td></tr><tr><td></td><td>奉节Fengjie</td><td>0.640**</td><td>-0.431**</td><td>-0.019</td><td>42</td><td>54</td><td></td></tr><tr><td></td><td>遂宁Suining</td><td>0.851**</td><td>-0.376**</td><td>0.025</td><td>66</td><td>17</td><td>1</td></tr><tr><td></td><td>南充 Nanchong</td><td>0.930**</td><td>-0.391**</td><td>0.019</td><td>68</td><td>13</td><td>1</td></tr><tr><td></td><td>内江县 Neijiang</td><td>0.903**</td><td>-0.476**</td><td>-0.046</td><td>65</td><td>19</td><td>1</td></tr><tr><td></td><td>纳溪Naxi</td><td>0.856**</td><td>-0.502**</td><td>-0.027</td><td>71</td><td>44</td><td>1</td></tr><tr><td></td><td>毕节 Bijie</td><td>0.801**</td><td>-0.138</td><td>0.235</td><td>50</td><td>1</td><td></td></tr><tr><td></td><td>铜仁 Tongren</td><td>0.663**</td><td>-0.371**</td><td>0.101</td><td>27</td><td>60</td><td>1 1</td></tr><tr><td rowspan=\"10\">IV</td><td>黔西Qianxi</td><td>0.749**</td><td>-0.720**</td><td>0.540**</td><td>28</td><td>41</td><td>8</td></tr><tr><td>贵阳 Guiyang</td><td>0.813**</td><td>-0.273**</td><td>0.272</td><td>84</td><td>-2</td><td></td></tr><tr><td>望谟Wangmo</td><td>0.801**</td><td>-0.598**</td><td></td><td>21</td><td></td><td>1</td></tr><tr><td>罗甸Luodian</td><td>0.745**</td><td>-0.493**</td><td>-0.229</td><td></td><td>90</td><td>1</td></tr><tr><td>独山 Dushan</td><td>0.773**</td><td>-0.286**</td><td>0.183</td><td>56</td><td>40</td><td>一</td></tr><tr><td>榕江 Rongjiang</td><td>0.701**</td><td>-0.399**</td><td>0.233</td><td>67</td><td>25</td><td>1</td></tr><tr><td>沙坪坝Shapingba</td><td>0.807**</td><td>-0.592**</td><td>0.151</td><td>60</td><td>46</td><td>1</td></tr><tr><td>桐梓Tongzi</td><td>0.906**</td><td>-0.349**</td><td>-0.029</td><td>59</td><td>26</td><td>1</td></tr><tr><td>遵义Zunyi</td><td>0.608**</td><td>-0.276*</td><td>0.183 0.073</td><td>33 42</td><td>44</td><td>一</td></tr><tr><td>湄潭Meitan</td><td>0.275</td><td>-0.323**</td><td>0.763**</td><td>1</td><td>56 39</td><td>1 24</td></tr><tr><td rowspan=\"10\">V</td><td>思南 Sinan</td><td>0.707**</td><td>-0.483**</td><td>0.277</td><td>26</td><td>52</td><td>1</td></tr><tr><td>凯里Kaili</td><td>0.731**</td><td>-0.354**</td><td>0.077</td><td>30</td><td>39</td><td></td></tr><tr><td>会泽Huize+</td><td>0.948**</td><td>-0.612**</td><td>-0.139</td><td>155</td><td>-123</td><td>1 /</td></tr><tr><td>昆明 Kunming</td><td>0.663**</td><td>-0.508**</td><td>0.168</td><td>49</td><td>49</td><td></td></tr><tr><td>沾益Zhanyi</td><td>0.902**</td><td>-0.517**</td><td>-0.163</td><td>49</td><td>43</td><td>1</td></tr><tr><td>瑞丽Ruili</td><td>0.752**</td><td>-0.777**</td><td>-0.025</td><td>-17</td><td>160</td><td>1 一</td></tr><tr><td>玉溪Yuxi</td><td>0.777**</td><td>-0.401**</td><td>0.014</td><td>48</td><td>42</td><td></td></tr><tr><td>泸西Luxi</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td></td><td>0.936**</td><td>-0.466**</td><td>-0.011</td><td>44</td><td>45</td><td>一</td></tr><tr><td>耿马Gengma+ 临沧Lincang</td><td>0.450** 0.692**</td><td>-0.727** -0.842**</td><td>0 0</td><td>36</td><td>57</td><td>1</td></tr><tr><td></td><td>思茅Simao</td><td>0.673**</td><td>-0.670**</td><td>0.013</td><td>-23 -5</td><td>138 127</td><td>1 1</td></tr><tr><td></td><td>蒙自Mengzi</td><td>0.816**</td><td>-0.891**</td><td>-0.138</td><td>26</td><td>72</td><td>二</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a9d6fd36cacca0dde11ec5ab968f73a0be93bb7731c43f9b752132af2b0bdec.jpg",
+        "table_caption": [
+            "表7西南地区不同站点冬小麦生长季气象因子对雨养产量的影响程度及贡献率 Table7Influence degrsandcontributionratesof growingseasonclimatefactorsonsimulatedrainfedyieldsofwinter wheat in different sites in Southwest China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">分区</td><td rowspan=\"2\">站点</td><td colspan=\"4\">标准化回归系数 Standardize regresson coeficient</td><td colspan=\"4\">贡献率 Contribution rate (%)</td></tr><tr><td>辐射 Radiation</td><td>温度 Temperature</td><td>气温日较差 temperature range</td><td>降水 Precipitation</td><td>辐射 Radiation</td><td>温度</td><td>气温日较差 Temperature temperature range Precipitation</td><td>降水</td></tr><tr><td>1</td><td>兴义Xingyi</td><td>0.742**</td><td>-0.364**</td><td>-0.402**</td><td>0.227</td><td>69</td><td>44</td><td>-21</td><td>1</td></tr><tr><td>I</td><td>都江堰Dujiangyan</td><td>0.540**</td><td>-0.380**</td><td>-0.253</td><td>0.126</td><td>53</td><td>29</td><td>1</td><td>1</td></tr><tr><td rowspan=\"8\">Ⅲ</td><td>雅安Ya'an</td><td>0.664**</td><td>-0.309</td><td>-0.094</td><td>0.074</td><td>50</td><td>39</td><td>1</td><td>1</td></tr><tr><td>木里Muli</td><td>0.183</td><td>-0.083</td><td>0.060</td><td>0.688**</td><td>1</td><td>1</td><td>1</td><td>55</td></tr><tr><td>贡山 Gongshan</td><td>0.787**</td><td>-0.147</td><td>-0.544</td><td>-0.176</td><td>34</td><td>1</td><td>6</td><td>1</td></tr><tr><td>万源Wanyuan</td><td>0.768**</td><td>-0.141</td><td>-0.037</td><td>0.058</td><td>60</td><td>1</td><td>1</td><td>1</td></tr><tr><td>阆中 Langzhong</td><td>0.195</td><td>-0.287*</td><td>-0.307*</td><td>0.357**</td><td>1</td><td>26</td><td>39</td><td>8</td></tr><tr><td>巴中 Bazhong</td><td>0.703**</td><td>-0.222</td><td>-0.356*</td><td>0.165</td><td>60</td><td>1</td><td>-4</td><td>1</td></tr><tr><td>奉节Fengjie</td><td>0.613**</td><td>-0.429**</td><td>-0.081</td><td>-0.101</td><td>38</td><td>51</td><td>1</td><td>1</td></tr><tr><td>南充 Nanchong</td><td>0.469**</td><td>-0.108</td><td>-0.783**</td><td>0.205</td><td>57</td><td>1</td><td>22</td><td>1</td></tr><tr><td></td><td>铜仁 Tongren</td><td>0.663**</td><td>-0.371**</td><td>0.526</td><td>-0.013</td><td>27</td><td>60</td><td>1</td><td>1</td></tr><tr><td>IV</td><td>独山 Dushan</td><td>0.777**</td><td>-0.326**</td><td>0.210</td><td>-0.090</td><td>67</td><td>30</td><td>1</td><td>1</td></tr><tr><td></td><td>沙坪坝 Shapingba</td><td>0.727**</td><td>-0.624**</td><td>-0.203</td><td>0.005</td><td>57</td><td>30</td><td>1</td><td>1</td></tr><tr><td>V</td><td>思南Sinan</td><td>0.697**</td><td>-0.486**</td><td>0.249</td><td>-0.038</td><td>26</td><td>53</td><td>1</td><td>1</td></tr><tr><td></td><td>会泽Huize+</td><td>0.149</td><td>-0.030</td><td>-0.542**</td><td>0.243*</td><td>1</td><td>1</td><td>66</td><td>9</td></tr><tr><td></td><td>耿马Gengma+</td><td>0.326**</td><td>-0.787**</td><td>-0.112</td><td>0.061</td><td>28</td><td>66</td><td>1</td><td>1</td></tr><tr><td></td><td>思茅 Simao</td><td>0.673**</td><td>-0.792**</td><td>-0.449**</td><td>-0.145</td><td>-7</td><td>216</td><td>-84</td><td>1</td></tr><tr><td></td><td>蒙自Mengzi</td><td>0.489**</td><td>-0.749**</td><td>-0.136</td><td>-0.050</td><td>21</td><td>83</td><td>二</td><td>二</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "气象产量变化率和模拟雨养产量距平变化率的对比分析表明：整体上，模型模拟的雨养产量距平变化率和观测的气象产量变化率相似，气象产量较差年份模拟的雨养产量距平偏低，气象产量较好年份的雨养产量距平偏高，且气象产量与雨养产量距平的大、小极值发生年份基本一致。以上结果显示模型可较准确地反映小麦生长季气象要素变化对产量的影响(表8)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在我国模型适应性评价研究中，通常认为产量和生物量模拟值与实测值的NRMSE低于 $30 \\%$ ，模拟效果可以接受。如王琳等[25]对山东禹城冬小麦-夏玉米生物量模拟结果的NRMSE为 $2 4 \\% { \\sim } 2 8 \\%$ ，刘园[26对河北栾城和河南郑州冬小麦生物量模拟结果的NRMSE分别为 $10 \\%$ 和 $3 7 \\%$ 。因此，相比于前人研究结果，本研究结果表明APSIM模型在西南地区也具有较好的适应性。综合前人研究进展，小麦品种遗传参数取值为春化敏感性参数在 $1 . 5 { \\sim } 2 . 9$ ，光周期敏感性参数在2.0\\~3.9，灌浆至成熟所需有效积温在 $4 2 0 { \\sim } 6 0 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C } \\cdot \\mathrm { d }$ 。单位茎秆干物质籽粒数在 $2 3 . 0 \\sim$ $3 3 . 0 ^ { [ 4 - 5 , 1 0 , 2 7 - 2 8 ] }$ 。本研究确定的冬小麦上述4个作物遗传参数为 $1 . 5 { \\sim } 3 . 0 , \\ 2 . 0 { \\sim } 3 . 5 , \\ 4 2 0 { \\sim } 8 0 0 \\ ^ { \\circ } \\mathrm { C } \\cdot \\mathrm { d }$ 和 $1 8 . 0 \\sim$ 28.0，均在合理范围内，且与华北平原相比，冬小麦更偏于春性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究表明，1961一2010 年中西南地区冬小麦生长季气象要素变化趋势与我国华北平原、长江中下游、西北等冬小麦主产区基本一致，整个生长季均呈辐射降低、温度增加以及降水减少的趋势[6-7,29-30]，但西南地区变化幅度最小。西南冬小麦生长季气象要素变化空间分布与春玉米相似，总辐射降低区集中在南部中区和东部，降温区集中于西部，气温日较差减小区主要位于南部和东南部；但由于水热资源的季节性差异，冬小麦生长季增温幅度较大，且降水减少区集中于南部和东南部，而春玉米生长季降水减少区只分布于中部少数站点[31-34]。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/377c74b8af1bae97ef3333085bc45fa46f726f5bafaba39e79c54fe2b4ddd03f.jpg",
+        "table_caption": [
+            "表8典型站点冬小麦实际气象产量变化率与模拟雨养产量距平变化率的对比 parison of the variation rate of meteorological yield and simulated rainfed yield anomaly of winter wheat a "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">产量较差年份Low yield year</td><td colspan=\"3\">产量正常年份 Normal yield year</td><td colspan=\"3\">产量较好年份 High yield year</td></tr><tr><td></td><td>产</td><td></td><td></td><td>化</td><td></td><td></td><td>产化</td><td></td></tr><tr><td>站t点n</td><td>年份</td><td>yield (%)</td><td>rainfalyield</td><td>年份r</td><td>yield (%)</td><td>rainfelyield</td><td>年份</td><td>yield (%)</td><td>of rainly yed</td></tr><tr><td>酉阳 Youyang</td><td>1987</td><td>-32.0</td><td>-16.2</td><td>1985</td><td>1.9</td><td>4.7</td><td>1984</td><td>15.6</td><td>1.1</td></tr><tr><td></td><td>1988</td><td>-17.1</td><td>-7.8</td><td>1986</td><td>0.3</td><td>2.3</td><td>1991</td><td>35.0</td><td>10.1</td></tr><tr><td></td><td>1994</td><td>-25.4</td><td>-4.7</td><td>1989</td><td>-8.8</td><td>-3.1</td><td>1992</td><td>17.2</td><td>5.1</td></tr><tr><td></td><td>2001</td><td>-54.7</td><td>-16.1</td><td>1990</td><td>-8.8</td><td>-8.2</td><td>1993</td><td>16.3</td><td>6.0</td></tr><tr><td></td><td>2002</td><td>-38.5</td><td>-11.8</td><td>1995</td><td>4.9</td><td>-0.9</td><td>1996</td><td>42.3</td><td>11.0</td></tr><tr><td></td><td>2003</td><td>-11.2</td><td>-5.4</td><td>2008</td><td>0</td><td>0.6</td><td>1998</td><td>28.3</td><td>1.4</td></tr><tr><td rowspan=\"14\">玉溪 Yuxi</td><td>2009</td><td>-45.8</td><td>-11.4</td><td>1</td><td>1</td><td>1</td><td>1999</td><td>55.1</td><td>9.5</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2000</td><td>54.6</td><td>9.8</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2004</td><td>47.4</td><td>11.5</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2005</td><td>34.9</td><td>5.7</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2006</td><td>64.2</td><td>10.8</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2007</td><td>18.3</td><td>9.6</td></tr><tr><td>1981</td><td>-21.2</td><td>-10.9</td><td>1988</td><td>-8.2</td><td>-2.9</td><td>1982</td><td>10.9</td><td>10.2</td></tr><tr><td>1984 1985</td><td>-10.2</td><td>-12.2 -31.3</td><td>1989 1991</td><td>-6.9</td><td>-2.8</td><td>1983</td><td>53.9</td><td>23.0</td></tr><tr><td>1990</td><td>-64.6 -12.1</td><td></td><td>1996</td><td>3.1</td><td>-1.3</td><td>1987</td><td>17.7</td><td>10.5</td></tr><tr><td>1992</td><td>-13.1</td><td>-1.8</td><td></td><td>-1.3</td><td>0.6</td><td>1994</td><td>36.0</td><td>20.3</td></tr><tr><td>1993</td><td>-12.5</td><td>-2.6</td><td>1997</td><td>-2.8</td><td>-3.5</td><td>1998</td><td>10.4</td><td>7.4</td></tr><tr><td>1995</td><td>-12.1</td><td>-4.7</td><td>2000</td><td>7.0</td><td>7.1</td><td>2005</td><td>36.5</td><td>11.9</td></tr><tr><td>1999 1</td><td>-12.6</td><td>-4.6</td><td>2001</td><td>2.4</td><td>1.4</td><td>2006</td><td>17.9</td><td>9.4</td></tr><tr><td></td><td></td><td>-4.1</td><td>2002</td><td>-9.7</td><td>-3.6</td><td>2007</td><td>11.6</td><td>9.0</td></tr><tr><td>巴中 Bazhong</td><td></td><td>1</td><td>1</td><td>2003</td><td>0.2</td><td>10.6 2008</td><td>13.7</td><td>1.1</td></tr><tr><td>1 1981</td><td>1</td><td>1</td><td>2004</td><td>2.1</td><td>-2.4</td><td>2009</td><td>38.4</td><td>8.6</td></tr><tr><td>1988</td><td>-18.8</td><td>-8.0</td><td>1982</td><td>3.2</td><td>3.4</td><td>1983</td><td>21.8</td><td>10.5</td></tr><tr><td></td><td>-52.6</td><td>-11.6</td><td>1984</td><td>-0.6</td><td>1.9</td><td>1985</td><td>26.1</td><td>5.9</td></tr><tr><td>1989 1990</td><td>-12.9</td><td>-4.8</td><td>1992</td><td>-9.6</td><td>-9.3</td><td>1986</td><td>14.8</td><td>6.4</td></tr><tr><td>1991</td><td>-34.5</td><td>-8.1</td><td>2008</td><td>7.3</td><td>6.1</td><td>1987</td><td>25.1</td><td>9.9</td></tr><tr><td></td><td>-19.4</td><td>-7.7</td><td>1</td><td>1</td><td>1</td><td>1994</td><td>44.9</td><td>10.9</td></tr><tr><td>1993</td><td>-18.3</td><td>-1.3</td><td>1</td><td>1</td><td>1</td><td>1997</td><td>21.9</td><td>5.0</td></tr><tr><td>1995</td><td>10.7</td><td>-7.8</td><td>1</td><td>1</td><td>1</td><td>1998</td><td>30.4</td><td>5.4</td></tr><tr><td>1996</td><td>-26.6</td><td>-5.5</td><td>1</td><td>1</td><td>1</td><td>2000</td><td>20.7</td><td>5.3</td></tr><tr><td>1999</td><td>-11.5</td><td>1.0</td><td>1</td><td>1</td><td>1</td><td>2001</td><td>18.8</td><td>6.2</td></tr><tr><td></td><td>2002</td><td>-30.4</td><td>-7.7</td><td>1 1</td><td>1</td><td>2006</td><td>60.5</td><td>10.4</td></tr><tr><td>2003</td><td>-20.8</td><td>-5.3</td><td>1</td><td>1</td><td>1</td><td>2010</td><td>5.3</td><td>4.9</td></tr><tr><td>2004</td><td></td><td>-29.6</td><td>-6.4 1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>-6.9</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2005 2009</td><td>-21.2 -13.7</td><td>-4.4</td><td>1 1</td><td>1 1</td><td>1 1</td><td>1 1</td><td>1 1</td><td>1 1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "就整个小麦生育期而言，总辐射降低会使作物净光合速率和灌浆速率下降，导致同化物积累降低，因此西南地区生长季辐射的下降导致小麦产量显著下降；温度的升高会缩短作物生育期，减少干物质积累时间，导致产量下降；西南冬小麦生长季的10月至翌年5月期间降水较少，降水减少会造成一定的水分胁迫，限制产量；夜间温度增加导致呼吸作用增强，不利于同化物累积，但平均温度上升且未超过最适温度之前对作物的光合作用有利，因此在不同站点，这两种效应的交互作用导致气温日较差降低对产量影响效应不同。我国华北[7,10,29]、西北[35]以及黄淮海地区[36-37]的研究结果也表明，近几十年来总体上冬小麦生长季辐射和降水对产量呈正效应，温度对产量为负效应，其中冬小麦生长季辐射降低及温度增加是模拟产量下降的主要因素，与本文研究结论一致。西南地区气候变化存在显著的空间差异，尽管全区大部分地区小麦生长季辐射呈减少趋势，但部分站点生长季辐射增加，导致冬小麦潜在产量和雨养产量也呈增加趋势，分别占全区站点的$14 \\%$ 和 $3 9 \\%$ 0",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，模拟的冬小麦潜在产量和雨养产量均呈降低趋势，说明气候变化对冬小麦产量整体呈负影响，与我国华北[5.8,26,28.38]及西北[35]等地的研究结论相同。而相关研究表明，品种改良以及改善水肥施用等农田管理措施，可减轻或抵消气候变化的负面影响，降低作物产量风险[6,9,29,39]。针对西南地区，为应对温度升高和降水减少趋势，在今后的生产中可采取选用新的高产和抗高温品种、在不影响下茬作物播种前提下采用生育期更长的品种、适当推迟冬小麦播期、优化冬小麦灌溉制度等措施。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "APSIM模型在反映大田作物生长实际状况方面仍然存在一定的不确定性。首先表现在模型参数确定方面，西南地区气候、地形及土壤类型等下垫面情况复杂，本研究虽然划分了不同的冬小麦种植区和主要土壤类型，考虑了不同的农业气候特征和作物实际生长情况，但仍缺乏对地形坡度、水分径流等环境参数的修正；其次，模型缺乏模拟病虫草害和气象灾害对作物生长过程影响的功能，会在模型验证和应用过程中引入潜在偏差[40]；再次，作物生育期和产量观测资料一方面具有不准确性，另一方面不同地区多年实测数据序列间可能不独立，会导致基于一元线性回归模型的模拟值与实测值对比的结果存在误差[41]。因此在后续的研究中，应加强模型误差原因分析并对模型进一步改进。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "此外，本文仅基于单一模型分析了气候变化对西南冬小麦的影响，已有研究表明，尽管个别作物生长模型在一定范围内能够很好地模拟作物生长发育和产量形成，但在评估未来气候变化对小麦生产的影响时，由于模型结构和参数化过程的差异，单一模型的评估结果存在一定的不确定性，基于多模型集成可降低气候变化影响评估结果的不确定性[42]。因此，将来可通过集成多个作物生长模型来评估未来气候变化对西南冬小麦生产的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References   \n[1]中华人民共和国农业部．新中国农业 60 年统计资料[M]. 北京：中国农业出版社,2009 Ministry of Agriculture of the People's Republic of China. Statistical Data of Agriculture of the New China in 60 Years[M]. Beijing: China Agriculture Press, 2009   \n[2] Fang S B,Cammarano D,Zhou G S,et al.Effects of increased day and night temperature with supplemental infrared heating on winter wheat growth in North China[J]. European Journal of Agronomy,2015,64: 67-77   \n[3] Fang S B,Tan K Y,Ren S X, et al.Fields experiments in North China show no decrease in winter wheat yields with night temperature increased by $2 . 0 { - } 2 . 5 \\mathrm { ~ } \\mathrm { ~ C ~ }$ [J]. Science China Earth Sciences,2012,55(6): 1021-1027   \n[4] 史印山，王玉珍，池俊成，等．河北平原气候变化对冬小麦 产量的影响[J].中国生态农业学报,2008,16(6):1444-1447 Shi Y S,Wang Y Z,Chi JC,et al. Impact of climate change on winter wheat production in the Hebei Plain[J]. Chinese Journal of Eco-Agriculture,2008,16(6): 1444-1447   \n[5] 沈禹颖，南志标,BellottiB，等.APSIM模型的发展与应用[J]. 应用生态学报,2002,13(8):1027-1032 Shen Y Y,Nan Z B,Bellotti B,et al. Development of APSIM (Agricultural ProductionSystemsSimulator） andits application[J]. Chinese Journal of Applied Ecology，2002, 13(8): 1027-1032   \n[6] Wang J,Wang E L, Yang X G, et al. Increased yield potential of wheat-maize cropping system in the North China Plain by climate change adaptation[J]. Climatic Change， 2012, 113(3/4): 825-840   \n[7] Wang J,Wang E L,Feng L P, et al.Phenological trends of winter wheat in response to varietal and temperature changes in the North China Plain[J]. Field Crops Research,2013,144: 135-144   \n[8] Chen C，Baethgen W E,Robertson A．Contributions of individual variation in temperature,solar radiation and precipitation to crop yield in the North China Plain, 1961-2003[J]. Climatic Change,2013,116(3/4): 767-788   \n[9] Chen C,Wang E L,Yu Q,et al. Quantifying the effects of climate trends in the past 43 years(1961-2003）on crop growth and water demand in the North China Plain[J]. Climatic Change,2010,100(3/4): 559-578   \n10]李艳，薛昌颖，杨晓光，等．基于 APSIM 模型的灌溉降低 冬小麦产量风险研究[J]．农业工程学报，2009，25(10): 35-44 Li Y, Xue C Y,Yang X G, et al.Reduction of yield risk of winter wheat by appropriate irrigation based on APSIM model[J]. Transactions of the CSAE,2009,25(10): 35-44   \n11］李克南，杨晓光，刘园，等．华北地区冬小麦产量潜力分布 特征及其影响因素[J].作物学报,2012,38(8):1483-1493 Li K N, Yang X G, Liu Y, et al. Distribution characteristics of winter wheat yield and its influenced factors in North   \n[12]李广，李玥，黄高宝，等．不同耕作措施旱地小麦生产应对 气候变化的效应分析[J].草业学报,2012,21(5):160-168 Li G,Li Y, Huang G B,et al. The effects of climate change on dryland wheat production under different tillage systems[J]. Acta Prataculturae Sinica,2012,21(5): 160-168   \n[13] 周少平．基于APSIM模型的黄土高原玉米-小麦-大豆轮作 系统产量、土壤水分动态[D]．兰州：兰州大学,2008 Zhou S P. Simulated crop yield and soil water within a maize-winter wheat-soybean rotation in the Loess Plateau by APSIM[D]. Lanzhou: Lanzhou University, 2008   \n[14]庞艳梅，陈超，潘学标，等．未来气候情景下四川盆地冬小 麦生育期气候资源及生产潜力的变化[J].中国农业气象, 2014,35(1): 1-9 Pang Y M,Chen C,Pan X B,et al. Change of climatic resources and potential productivity during the entire growth period of winter wheat under future climate scenario in Sichuan Basin[J]. Chinese Journal of Agrometeorology, 2014, 35(1): 1-9   \n[15] 张建平，李永华，高阳华，等．未来气候变化对重庆地区冬 小麦产量的影响[J]．中国农业气象,2007,28(3):268-270 Zhang JP,Li Y H,Gao Y H,et al. Impacts of future climate change on yields of winter wheat in Chongqing[J]. Chinese Journal of Agrometeorology,2007,28(3): 268-270   \n[16] 代姝玮，杨晓光，赵孟，等．气候变化背景下中国农业气候 资源变化Ⅱ．西南地区农业气候资源时空变化特征[J]．应 用生态学报,2011,22(2): 442-452 Dai S W,Yang X G, Zhao M,et al. Changes of China agricultural climate resources under the background of climate change I.Spatiotemporal change characteristics of agricultural climate resources in Southwest China[J]. Chinese Journal of Applied Ecology,201,22(2): 442-452   \n[17]赵汝植．西南区自然区划探讨[J]．西南师范大学学报：自 然科学版,1997,22(2):193-198 Zhao R Z.A study of the physico-geographical regionalization in Southwest region[J]. Journal of Southwest China Normal University: Natural Science,1997,22(2): 193-198   \n[18]马同生．中国土种志(第6卷)[M]．北京：中国农业出版社, 1996 Ma T S.National Soil Survey (The 6th volume)[M]. Beijing: China Agriculture Press,1996   \n[19] Keating B A,Carberry P S,Hammer G L,et al. An overview ofAPSIM，a model designed for farming systems simulation[J]. European Journal of Agronomy,2003,18(3/4): 267-288   \n[20]Wang E,Robertson MJ,Hammer GL,et al.Development of a generic crop model template in the cropping system model APSIM[J]. European Journal of Agronomy,2002,18(1/2): 121-140   \n[21] Angstrom A.Solar and terrestrial radiation[J].Quarterly Journal of the Royal Meteorological Society，1924，50: 121-126   \n[22] Prescott JA.Evaporation from a water surface in relation to solar radiation[J]. Transactions of the Royal Society of South Australia,1940,64: 114-118 价——以重庆冬小麦为例[J]．应用生态学报，2015，26(4): 1237-1243 Dai T, Wang J,He D, et al. Adaptability of APSIM model in Southwestern China: A case study of winter wheat in Chongqing City[J]. Chinese Journal of Applied Ecology,2015, 26(4): 1237-1243   \n[24]卢纹岱．SPSS 统计分析[M]．第4版．北京：电子工业出版 社,2010 Lu W D. Statistics and Analysis in SPSS[M]. 4th ed. Beijing: Publishing House of Electronics Industry, 2010   \n[25]王琳，郑有飞，于强，等．APSIM 模型对华北平原小麦-玉 米连作系统的适用性[J]．应用生态学报，2007，18(11): 2480-2486 Wang L, Zheng YF, Yu Q, et al. Applicability of Agricultural Production Systems Simulator (APSIM) in simulating the production and water use of wheat-maize continuous cropping system in North China Plain[J].Chinese Journal of Applied Ecology,2007,18(11): 2480-2486   \n[26] 刘园．气候因子和栽培管理对华北冬小麦-夏玉米生产体 系的影响[D]．北京：中国农业大学,2010 Liu Y. Contributions of climatic factors and agronomical managements on crop production of winter wheat and summer maize in the North China Plain[D].Beijing: China Agricultural University,2010   \n[27] 李广，黄高宝,Bellotti W，等.APSIM 模型在黄土丘陵沟壑 区不同耕作措施中的适用性[J].生态学报，2009，29(5): 2655-2663 Li G, Huang G B,Bellotti W,et al.Adaptation research of APSIM model under diferent tillage systems in the Loess hill-gullied region[J]. Acta Ecologica Sinica,2009,29(5): 2655-2663   \n[28] 张祎．未来气候变化对黄淮海平原冬小麦生产影响及适应 措施分析[D]．北京：中国农业大学,2012 Zhang Y. The impacts of climate change on winter wheat (Triticum aestivum L.) production and its adaptation strategies in the Huang-Huai-Hai Plain[D]. Beijing: China Agricultural University,2012   \n[29] Wang J,Wang E L,Yin H,et al. Declining yield potential and shrinking yield gaps of maize in the North China Plain[J]. Agricultural and forest Meteorology,2014,195/196: 89-101   \n[30] 胡洵璃，王靖，冯利平．华北平原冬小麦各生育阶段农业 气候要素变化特征分析[J]．中国农业气象，2013，34(3): 317-323 Hu X Y, Wang J, Feng L P.Analysis on agro-climatic elements variation during winter wheat growing season in North China Plain[J].Chinese Journal of Agrometeorology,2013,34(3): 317-323   \n[31]戴彤，王靖，赫迪，等．基于 APSIM 模型的气候变化对西 南春玉米产量影响研究[J]．资源科学,2016,38(1):155-165 Dai T,Wang J, He D,et al. Modelling the impacts of climate change on spring maize yields in Southwest China with APSIM Model[J]. Resources Science,2016,38(1): 155-165   \n[32] He D,Wang J, Dai T,et al. Impact of climate change on maize potential productivity and the potential productivity gap in Southwest China[J].Journal of Meteorological Research,   \n2014,28(6):1155-1167 [33]庞艳梅，陈超，潘学标，等．未来气候变化对四川盆地玉米 生育期气候资源及生产潜力的影响[J].中国生态农业学报,   \n2013,21(12):1526-1536 PangYM,Chen C,Pan XB,et al.Impact of future climate change on climatic resources and potential productivity of maize in Sichuan Basin[J]. Chinese Journal of Eco-Agriculture,2013,21(12):1526-1536 [34]齐冬梅，周长艳，李跃清，等.西南区域气候变化原因分析[J]. 高原山地气象研究,2012,32(1):35-42 QiD M,Zhou CY,LiYQ,et al.Cause analysis of climate changes in Southwest China[J]. Plateau and Mountain Meteorology Research,2012,32(1):35-42 [35]郝祺．气候变化对西北地区小麦生产影响的模拟研究[D]. 北京：北京林业大学,2009 Hao Q.Simulation of the impacts ofclimate change on wheat production in the Northwest region[D]. Beijing: Beijing Forestry University,2009 [36]Liu S X,Mo X G,Lin $Z \\mathrm { ~ H ~ }$ ,et al.Crop yield responses to climate change in the Huang-Huai-Hai Plain of China[J]. Agricultural Water Management,2010,97(8):1195-1209 [37]田展，刘纪远，曹明奎．气候变化对中国黄淮海农业区小 麦生产影响模拟研究[J]．自然资源学报，2006，21(4):   \n598-607 Tian Z,Liu JY,Cao M K.Simulation of the impact of climate change on Chinese wheat production in HuangHuai-Hai Plain[J].Journal of Natural Resources,2oo6,21(4): 598-607   \n[38] Zhang XY,Wang SF, Sun HY,et al. Contribution of cultivar, fertilizer and weather to yield variation of winter wheat over three decades:A case study in the North China Plain[J]. European Journal of Agronomy,2013,50:52-59   \n[39]徐建文，梅旭荣，居辉，等．黄淮海地区冬小麦关键生育期 不同灌溉水平对产量影响的模拟[J].作物学报,2014,40(8): 1485-1492 Xu JW,Mei X R,Ju H,et al. Simulation of winter wheat yield in response to irrigation level at critical growing stages in the Huang-Huai-Hai Plain[J]. Acta Agronomica Sinica, 2014,40(8):1485-1492   \n[40]Weiss A,Wilhelm W W. The circuitous path to the comparison of simulated values from crop models with field observations[J]. The Journal of Agricultural Science,2006, 144(6): 475-488   \n[41]White JW,Boote K J,Hoogenboom G, et al. Regressionbased evaluation of ecophysiological models[J].Agronomy Journal,2007,99(2):419-427   \n[42]Asseng S,Ewert F,Rosenzweig C,et al.Uncertainty in simulating wheat yields under climate change[J].Nature Climate Change,2013,3(9): 827-832 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

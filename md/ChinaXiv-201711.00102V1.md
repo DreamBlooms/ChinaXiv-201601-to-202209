@@ -1,0 +1,268 @@
+# DOI: 10.5846/stxb201607181460
+
+丁文斌,蒋光毅,史东梅，刘益军,蒋平,常松果,刘志鹏.紫色土坡耕地土壤属性差异对耕层土壤质量的影响.生态学报,2017,37（19)：6480-6493.DingWB,idpurple hilly areas.Acta Ecologica Sinica,2017,37(19）:6480-6493.
+
+# 紫色土坡耕地土壤属性差异对耕层土壤质量的影响
+
+丁文斌¹，蒋光毅²，史东梅1，\*，刘益军¹，蒋平³，常松果¹，刘志鹏}
+
+1西南大学资源环境学院，重庆400716  
+2重庆市水土保持生态环境监测总站，重庆401147  
+3重庆市水利电力勘测设计研究院，重庆400020
+
+摘要;坡耕地是一个区域最易发生水土流失的土地利用类型,其严重的水土流失、面源污染和耕层退化现象直接威胁着坡耕地持续利用以及当地粮食安全、生态安全;耕层土壤质量对自然因素和人为耕作活动的影响较为敏感。以南方3个地点紫色土坡耕地耕层土壤质量为研究对象,从土壤属性角度,对比分析了重庆合川、江西兴国、云南楚雄不同耕层垂直深度土壤养分特征、土壤物理性质、土壤水库特征、耕作性能差异性及其形成原因。结果表明：(1)坡耕地耕层土壤有机质表现为云南楚雄（28.80$\mathbf { g } / \mathrm { k g } ^ { \cdot }$ )>江西兴国 $\mathrm { ~ ( 9 . 0 3 ~ g / k g ) > }$ 重庆合川 $8 . 8 0 ~ \mathrm { g / k g ) }$ ;除全钾含量外，土壤全量养分和速效养分的含量表现为云南楚雄 $\mathrm { > }$ 江西兴国 $>$ 重庆合川;坡耕地耕层速效养分垂直分布变化规律基本一致,主要表现为土壤速效养分主要在 $0 { - } 2 0 ~ \mathrm { c m }$ 土层富集,而 $^ { 2 0 - }$ $4 0 ~ \mathrm { c m }$ 和 $4 0 { - } 6 0 ~ \mathrm { c m }$ 土层无显著差异。（2)不同地点紫色土坡耕地耕层土壤物理性质差异明显,以重庆合川坡耕地土壤物理质量最差,表现为土壤砂粒含量 $56 0 \%$ 、土壤容重最大( $1 . 4 3 ~ \mathrm { g / c m } ^ { 3 }$ ）、土壤总孔隙度( $4 5 . 9 7 \%$ )和毛管孔隙度( $3 4 . 3 6 \%$ )最小;从坡耕地耕层土壤物理性质垂直变化特征看,耕作层( $\mathrm { 0 - 2 0 ~ c m } ,$ 优于心土层 $2 0 { \ - } 4 0 \ \mathrm { c m }$ )和底土层( $\mathrm { 4 0 { - } 6 0 \ c m }$ )。(3)紫色土坡耕地耕层土壤初始入渗率以江西兴国坡耕地耕层最大 $( 0 . 3 2 , \mathrm { { m m } / \mathrm { { m i n } } } )$ ,而以重庆合川坡耕地耕层最小 $( 0 . 1 9 \mathrm { \ m m / m i n }$ )；土壤稳定入渗率和平均入渗率均表现为云南楚雄 $>$ 重庆合川>江西兴国;坡耕地耕层土壤最大有效库容以云南楚雄最好 $\langle 8 7 3 . 3 1 1 \ V$ $\mathbf { h } \mathbf { m } ^ { 2 }$ ),说明云南楚雄紫色土坡耕地耕层土壤具有较好的抵御季节性干旱能力;不同地点坡耕地耕层土壤总库容、死库容、兴利库容、滞洪库容、最大有效库容在垂直方向变化表现为耕作层( $\mathrm { ( 0 { - } } 2 0 \ \mathrm { c m } ^ { \cdot }$ )大于心土层( $2 0 { \mathrm { - } } 4 0 ~ { \mathrm { c m } }$ )和底土层 $( 4 0 - 6 0 ~ \mathrm { c m } )$ 。(4)不同地点紫色土坡耕地耕层土壤抗剪强度和贯入阻力均呈现出相同变化规律,土壤抗剪强度表现为重庆合川 $\mathrm { ( 1 5 . 3 9 ~ k g / c m ^ { 2 } } \mathrm { ) > }$ 云南楚雄( $1 4 . 7 4 \mathrm { ~ k g / c m } ^ { 2 }$ ） $>$ 江西兴国 $( \mathrm { 1 0 . 6 6 ~ k g / c m } ^ { 2 }$ ),而土壤贯入阻力值为重庆合川( $4 2 4 . 8 3 \mathrm { ~ k P a }$ )>云南楚雄( $2 5 2 . 5 0 \mathrm { \ k P a } ) >$ 江西兴国（ $1 8 8 . 8 7 \mathrm { ~ k P a } )$ ,这种土壤力学性能的变化说明重庆合川紫色土坡耕地耕层土壤具有较好抵抗剪切破坏的能力和较大耕作阻力。上述研究结果可为不同地点紫色土坡耕地耕层土壤质量诊断、坡耕地合理耕层评价提供理论依据和数据支持。
+
+关键词：耕层;坡耕地;土壤质量;耕作性能;垂直分布;紫色土
+
+# Effect of different soil properties on plow-layer soil quality of sloping farmland in purple hilly areas
+
+DING Wenbin’， JIANG Guangyi²， SHI Dongmei1,\*，LIU Yijun’，JIANG Ping³，CHANG Songguo’,LIU Zhipeng
+
+1 Gollege of Resources and Environment，Southwest University，Chongqing 4OO716,China   
+2Chongqing Eco-environment Monitoring Station of Soil and Water Conservation，Chongqing 401147,China   
+3 Chongqing Hydropower Survey and Design Institute， Chongqing 40002O,China
+
+Abstract:Asthe most easilyeroded land-use type，severe soil degradationof theplow layer（asa shalowsoil layer）， deteriorationofsoil properties，and gravel process，couldrestrictthesustainableutilizationofslope farmland，whichalso
+
+http ://www.ecologica.cn
+
+directlythreatenslocal foodsecurityandecologicalsecurity.Plow-layersoil qualityis highlysensitivetobothnaturalfactors andartificialfarmingtillage.Takingtheplow-layersoil qualityof threeslopefarmlands inthesouthernpurplehillyrea (Hechuan-Chongqing，Xingguo-jiangxi，and Chuxiong-Yunnan）as examples,thisstudymainlyanalyzedthedierences in soilphysicalproperties，soilreservoircharacteristics，andsoilnutrientcharacteristicsoflopefarmlands，andtheirertical distributioncharacteristics，from the perspectiveof soil properties，sodidtheforming causesatthesametime.Theresults indicatedthe folowing.（1）Thesoilorganic matterof theplow-layer in the three locations in decreasing order wasas follows:Chuxiong-Yunnan ( $2 8 . 8 0 ~ \mathrm { g / k g }$ ） $>$ Xingguo-jiangxi ${ \bf \langle 9 . 0 3 \ g / k g }$ ） $>$ Hechuan-Chongqing $( 8 . 8 0 ~ \mathrm { g / k g } )$ .With the exceptionoftotal soil potassiumcontent，othercontentssuchastotal soil nutrientsandavailablesoilnutrients，couldbe arranged in the following order：Chuxiong-Yunnan $>$ Hechuan-Chongqing $>$ Xingguo-jiangxi. The vertical characteristics of availablesoil nutrients inthe plow-layerof slope farmland showed thesame distribution，being mainlyconcentrated nthe 0—20-cm soillayer.However，there wereno significant diferences between the 2O—40-cm soil layerand the40—60-cm soillayer.（2）Thesoil physical propertiesof theplow-layerof slope farmlandsamong thethreepurple hill locations showed significantdiferences.Thesoil physical qualityof theplow-layer in Hechuan-Chongqing wasthe worst，with he characteristic of soil sand content $> 6 0 \%$ ，maximum soil bulk density of $1 . 4 3 ~ \mathrm { g / c m } ^ { 3 }$ ，minimum soil total porosity of （204 $4 5 . 9 7 \%$ ，and capillary porosity of $3 4 . 3 6 \%$ . From the viewpoint of the plow-layer vertical characteristics of slope farmland, the soil physical properties of the tillage layer（O一 $2 0 ~ \mathrm { c m }$ ）were better than those of the subsoil ( $2 0 { \mathrm { - } } 4 0 \ { \mathrm { c m } }$ ）andbottom layer $( 4 0 - 6 0 ~ \mathrm { c m } )$ ).（3）The initial soil infiltration rate of the plow-layer in the Xingguo-jiangxi slope farmland was the largest ( $( 0 . 3 2 \mathrm { \ m m / m i n }$ ），and the initial soil infiltration rate in Hechuan-Chongqing plow-layer was the lowest ( $0 . 1 9 \ \mathrm { m m } \ /$ min).The soil infiltrationrateand theaverage soil infiltrationrate both showed thesame order of Chuxiong-Yunnan $>$ （204 Xingguo-jiangxi $>$ Hechuan-Chongqing. The soil maximum effective capacity of the plow-layer in Chuxiong-Yunnan slope farmland was the best $( 8 7 3 . 3 1 1 ~ \mathrm { { t / h m } ^ { 2 } }$ ），which indicated that such plow-layers of slope farmland have better resistance to seasonal drought. Plow-layer vertical characteristics，such asthe total storage capacity，dead storagecapacity，active storage capacity，flood detentionstorage capacity，and maximum efectivecapacity，allshowed the same order:tillge layer $( 0 -$ $2 0 ~ \mathrm { c m }$ ） $>$ subsoil layer（20—40 cm） $>$ bottom layer（4O—6O cm）.（4） The soil shear strength and the soil penetration resistance of theplow-layer among the three slope farmland locations showedthe same regular changes.The soil shear strengths of the plow-layer were Hechuan-Chongqing ( $1 5 . 3 9 ~ \mathrm { k g / c m } ^ { 2 }$ ） $>$ Chuxiong-Yunnan ( $1 4 . 7 4 ~ \mathrm { k g / c m ^ { 2 } }$ ） $>$ Xingguojiangxi ( $\mathrm { ~ ( ~ 1 0 . 6 6 ~ k g / c m } ^ { 2 }$ ），whereas the soil penetration resistances of the plow-layer were Hechuan-Chongqing $( 4 2 4 . 8 3 \mathrm { ~ k P a } ) _ { , }$ ） （204 $>$ Chuxiong-Yunnan $\mathrm { ( 2 5 2 . 5 0 \ : \dot { k } P a ) } >$ Xingguo-jiangxi ( $\mathrm { { ( 1 8 8 . 8 7 ~ k P a } }$ ），whichindicated that the plow-layer soilof slope farmland in the Hechuan-Chongqing purple hillyarea hasbeterresistance toshear stressand greater resistance to farming tillge.Theseresultscould providea theoreticalbasisandsupportingdata notonlyfor soil qualitydiagnosis but also for rational plow-layer evaluation for slope farmlands in different purple hilly areas.
+
+Key Words: plow layer； slope farmland;；soil quality；tillage performances；vertical distribution；purple soil
+
+我国坡耕地面积 $3 8 2 3 . 9 8 \ \mathrm { h m } ^ { 2 }$ ,可占全国耕地面积的 $2 8 . 3 5 \ \%$ ;坡耕地作为一种重要的耕地类型,其严重水土流失和面源污染直接威胁着区域粮食安全和生态安全[1]。紫色土（主要为耕地）资源2198.8万 $\mathrm { { h m } } ^ { 2 }$ ,其中旱地1889.1万 $\mathrm { { h m } } ^ { 2 }$ ,集中分布在四川盆地,在云南、重庆、广东、广西、江西等省都有分布[2]。与其它旱坡地(疏幼林地和灌草地)相比,坡耕地耕作活动模式是由社会经济因素和自然因素综合决定的,坡耕地人为扰动最为频繁且有周期性、高强度的特点,坡耕地生产过程对土壤理化性质影响强烈[3]。土壤质量指标是指能够反映土壤实现其功能的程度并且能够测量的土壤或植物属性,指标筛选和确定因研究区域和目的而不同。Power 等[4]认为土壤质量指土壤供养维持作物生长的能力,主要包括耕性、土壤深度、持水能力、渗透速率、团聚作用、有机质含量 $\mathrm { \nabla \cdot \ p H }$ 、养分性能等。Doran 等[5]把土壤质量定义为维持作物生产力,维护环境质量,促进植
+
+http://www.ecologica.cn
+
+物和动物健康的能力,并不破坏自然资源及生态环境的能力。Franzluebbers[6认为土壤质量包括土壤内在质量和动态质量,内在质量为相对稳定的属性（如土壤质地等),动态质量易受到人为活动的影响（如土壤养分等),土壤质量高低直接关系到人类生存状况及粮食生产能力。我国农业部2008年将耕地质量定义为耕地满足作物生长和清洁生产程度,主要包含耕地内在地力和耕地外在环境质量两个方面[7],从农学角度土壤质量通常包括土壤供作物生长内在能力及土壤质量动态两方面[8],耕作层是为了栽培农作物,利用工具对土壤进行扰动的深度层,农田土壤的土体一般分为表土层、稳定层、心土层和犁底层4个层次,每个层次的物理、化学、生物形状及调节肥力因素都不同[9],土壤0— $1 0 0 ~ \mathrm { c m }$ 的质地层次结构对耕层土壤物理、化学性状和生产性能有重要影响[10];并在基于“压力-状态-响应(PSR)"框架下,在地块和小流域尺度建立了针对土壤侵蚀的土地质量评价指标体系[11],分析了特定地区耕地土壤质量分等定级与基本农田划定标准等方面[12],而对坡耕地耕层土壤质量研究较少。坡耕地严重水土流失不仅造成耕层土壤退化、土层厚度变薄和土壤肥力恶化等土壤环境发生根本性变化,还可造成坡耕地面积减少、农作物产量下降等一系列农业生产问题,因此本文选择重庆合川、江西兴国、云南楚雄紫色土坡耕地为研究对象,通过野外耕层剖面土壤力学性能测定、室内土壤理化性质测定等综合手段,从土壤属性角度,重点分析了紫色土坡耕地不同垂直深度的耕层土壤化学性质、物理性质与耕作性能差异性及形成原因,分析了坡耕地耕层土壤入渗性能与土壤水库特征差异性,研究结果可为当地紫色土坡耕地土壤质量评价、土壤肥力提升及坡耕地合理耕层建立提供理论依据和技术参数。
+
+# 1材料与方法
+
+# 1.1研究材料及研究区概况
+
+选择重庆市合川、江西兴国、云南楚雄的紫色土坡耕地耕层土壤为研究对象,3个区域紫色土的母岩均为不同地质时期紫色砂泥(页)岩。紫色砂岩颗粒粗大、组织疏松并多含石英砂粒,除机械崩坠外，一般不易被地面径流所冲刷;而紫色泥页岩,由于颗粒细小、组织微密、透水性差,在自然光热水作用下,易风化成颗粒碎屑,物理风化强烈,化学风化微弱。重庆市合川采样点位于双凤镇塘湾村,属亚热带湿润季风气候,年均降雨量 $1 1 0 7 . 9 ~ \mathrm { m m }$ ,多集中在5—9月；年均气温 $1 8 . 1 \mathrm { \overline { { C } } } , > 1 0 \mathrm { \overline { { C } } }$ 的有效积温 $5 9 0 3 . 1 ^ { \circ } \mathrm { C }$ ;无霜期331d,年均日照$1 3 1 6 . 2 \mathrm { h }$ 。江西省兴国采样点位于社富乡东邵村,属亚热带东南季风气候,年降雨量 $1 6 0 0 ~ \mathrm { { m m } }$ ,多集中在4—6月;年均温度 $1 8 \%$ ， ${ > } 1 0 ^ { \circ } \mathrm { C }$ 有效积温 $6 1 3 5 - 6 6 9 9 ^ { \circ } \mathrm { C }$ ;无霜期 $2 8 4 \mathrm { ~ d ~ }$ ,年均日照 $1 8 6 1 . 4 \mathrm { ~ h ~ }$ 。云南省楚雄市采样点位于紫溪镇冷水村,属亚热带季风气候,年均降水量 800— $1 0 0 0 \ \mathrm { m m }$ ,集中在7一10月;年气温为 $1 4 . 8 \mathrm { - } 2 1 . 9 ^ { \circ } \mathrm { C }$ ，${ \mathrm { > } } 1 0 { ^ { \circ } } \mathrm { C }$ 的有效积温 2500℃；无霜期 221—275d,年均日照 $2 4 5 0 \mathrm { ~ h ~ }$ 。紫色土坡耕地各采样点基本情况见表1。
+
+表1坡耕地采样点基本情况  
+Table 1Situation of sampling sites for slope farmland   
+
+<html><body><table><tr><td colspan="2">采样地点 样点编号 Samplig sfte Ssamplesies T</td><td>经纬度 Laitgde aed</td><td>海拔 Altitude/m</td><td>田面坡度 s spe/(e)</td><td>田面坡长 lesgg/m</td><td>种植作物 Grow crops</td><td>耕作方式 Tillage method</td></tr><tr><td colspan="2">重庆合川</td><td></td><td></td><td>6</td><td></td><td>轮歇</td><td>顺坡耕作</td></tr><tr><td rowspan="5">江西兴国</td><td>CQ-1 CQ-2</td><td>106°27'32"E 30°01'31"N 106°26'40"E 30°01'01"N</td><td>291.4 289.2</td><td>14</td><td>17.0 4.5</td><td>玉米</td><td>顺坡耕作</td></tr><tr><td>JX-1</td><td>115°22'51"E 26°10'10"N</td><td>123.0</td><td>8</td><td>4.0</td><td>花生</td><td>垄作</td></tr><tr><td>JX-2</td><td>115°23'26"E 26°09'52"N</td><td>121.0</td><td>6</td><td>7.3</td><td>花生</td><td>垄作</td></tr><tr><td>YN-1</td><td>101°26'10"E 25°04'45"N</td><td>1924.1</td><td>10</td><td>5.2</td><td>烟草</td><td>顺坡耕作+垄作</td></tr><tr><td>YN-2</td><td>101°26'12"E 25°02'35"N</td><td>1937.0</td><td>5</td><td>4.8</td><td>烟草</td><td>顺坡耕作</td></tr></table></body></html>
+
+# 1.2 采样方法
+
+在3个地区选择典型紫色土坡耕地地块作为研究对象,在样地内以“S”型布置采样点进行土壤散样采集,在样地其中间位置挖掘土壤剖面点进行垂直分布样品采集,土壤剖面构型示意图及各属性土壤剖面见图
+
+1。以 $0 { - } 2 0 \ldots 2 0 { - } 4 0 \ldots 4 0 { - } 6 0 \ \mathrm { c m }$ 分层采样,样品用塑料薄膜密封，各层次分别用铝盒法采集含水率测定的样品，用环刀( $1 0 0 ~ \mathrm { { c m } } ^ { 3 }$ )法采集土壤容重、孔隙度和田间持水分析的样品,各样品分别重复3次;土壤力学指标的测定以0—10、10—20、20—30、30—40、40—50、50—60 cm 分层进行测定。
+
+![](images/a2cc2783e24075751caeb8618ed62f111c5d010c9d2a84b8b7df87e113d399ea.jpg)  
+图1坡耕地耕层土壤剖面构型示意  
+Fig.1The soil profile configuration diagram of slop farmland plow- layer
+
+# 1.3土壤理化性质测试方法
+
+土壤理化性质测定方法[13-14]如下：含水量采用烘干法;容重、孔隙度采用环刀法;机械组成采用吸管法;土壤入渗采用单环刀法,采用最初入渗 $3 ~ \mathrm { m i n }$ 作为初始人渗率,稳渗率为单位时间内渗透量趋于稳定（单位时间入渗水量相等)的渗透速率;同时在土壤入渗做完以后将环刀上部盖严,经过2d重力水排出后测定土壤田间持水量。采用半微量凯氏法测定土壤全氮,氧化镁浸提-扩散法测定土壤铵态氮,氢氧化钠碱熔-钼锑抗比色法测定土壤全磷,双酸浸提法测定土壤有效磷,氢氧化钠碱熔-火焰光度法测定土壤全钾,乙酸铵浸提-火焰光度法测定土壤速效钾,重铬酸钾氧化-外加热法测定土壤有机质。
+
+# 1.4土壤水库特征值计算方法
+
+土壤水库蓄水量可以按文献[5]计算,设某时刻地表以下一定深度H处土壤含水量为 $\theta \ ( \ h )$ ,则该深度土层相应蓄水量为：
+
+$$
+W _ { a } = \int _ { 0 } ^ { H } \theta ( h ) \mathrm { d } h
+$$
+
+式中， $\textstyle \ W _ { a }$ 为地表以下 $\bar { H }$ 深度土层的土壤蓄水量 $\left( { \bf m } { \bf m } \right)$ ）
+
+土壤水库各种特征库容计算方法如下：
+
+$$
+= 0 . 1 \sum _ { i = 1 } ^ { n } { \left( { S _ { i } \times r _ { i } \times H _ { i } } \right) }
+$$
+
+式中， $\boldsymbol { W } _ { l }$ 为凋萎持水量 $( \% ) { : } r$ 为土壤密度( $\mathrm { \underline { { \mathbf { g } } } } / \mathrm { c m } ^ { 3 }$ ） $H$ 为土层厚度（cm）； $n$ 为土壤层次; $C$ 为田间持水量 $( \% )$ ;  
+$s$ 为饱和持水量 $( \% )$ 。
+
+http://www.ecologica.cn
+
+# 1.5土壤力学指标测试方法
+
+土壤抗剪强度采用荷兰产便携式14.10PocketVane Tester 型三头抗剪仪,在试验点按开挖约为 $1 0 \ \mathrm { c m } \times 1 5$ cm 的试坑,分别于 $5 , 1 5 , 2 5 , 3 5 , 4 5 , 5 5 \ \mathrm { c m }$ 的深度平面,用小铁铲将之整平,并注意保持土壤结构完整,不受破坏。根据该试验土壤的性质(壤质土)选择CL100 型(中号)抗剪旋头,将三头抗剪仪先将指针归零,抗剪仪头部放至预定试验深度。用手摁压使抗剪仪徐徐压人土中至预定试验深度,并静置 $2 { - } 3 \ \operatorname* { m i n }$ 。旋转转盘，直至土体开始被切断时(即表示土体己被剪损)时,记录仪表盘上的 $X$ 。土壤抗剪强度计算公式为： N
+
+$$
+Y = 2 . 7 3 4 X
+$$
+
+式中， $X$ 为实测值( $\mathrm { \ k g / c m } ^ { 2 }$ ）； $Y$ 为转换后的土壤抗剪强度 $( \mathrm { k g / c m } ^ { 2 }$ ）。
+
+土壤贯入阻力选用江苏省漂阳市天目仪器厂的PT型袖珍贯入仪测定,该贯入仪参数见表 $2 .$ PT型贯入仪贯入数值( $P$ ,无量纲)与贯入阻力 $( P _ { \mathrm { \Phi } _ { t } } , \mathrm { k P a } )$ 有如下关系： $\boldsymbol { P } _ { t } = - \boldsymbol { K } _ { t } \times \boldsymbol { P }$ 。式中 $K _ { t }$ 为率定参数(正值)，对于同一个贯入仪来说 $K _ { t }$ 为一定值,故可用贯入数值 $P$ 表示土壤贯入阻力。
+
+表2PT型贯入仪特征参数  
+Table 2The characteristic parameter of PT type penetrometei   
+
+<html><body><table><tr><td>测头型号 Probe Model</td><td>测头规格 Probe Specifications</td><td>贯人深度/mm Penetration depth</td><td>率定参数 Calibration parameters</td><td>测力误差/% Force measuring error</td><td>贯入阻力/kPa Penetration resistance</td></tr><tr><td>A</td><td>0.3cm²</td><td>6</td><td>Kta =5.05</td><td>±5</td><td>0—1800</td></tr><tr><td>B</td><td>1.5cm²</td><td>6</td><td>Kb=K/5</td><td>±5</td><td>0—1800</td></tr><tr><td>C</td><td>30°</td><td>10</td><td>K =1.33K</td><td>±5</td><td>0—1800</td></tr></table></body></html>
+
+A、B、C分别代表不同测头规格的测头，其中A、B测头为圆柱形,故测头规格用 $c \mathrm { m } ^ { 2 }$ 表示，而C测头为圆锥形，故采用锥度 $3 0 ^ { \circ }$ 表示测头规格
+
+# 2结果与分析
+
+2.1坡耕地土壤化学性质差异性分析
+
+2.1.1 耕层土壤有机质的差异性分析
+
+土壤有机质对改善耕层作物生长具有重要的作用,同时在农业环境保护、坡耕地持续利用方面有着重要意义。由不同地点土壤有机质含量分布特征(图2)可知,不同地点紫色土坡耕地和同一地点不同垂直深度土壤有机质含量差异显著。
+
+不同地点紫色土坡耕地土壤有机质差异较大，有机质含量由高到低依次为云南楚雄、江西兴国、重庆合川。相较与重庆合川和江西兴国,云南楚雄由于长期精耕细作及土壤施肥频繁,有机质输入量较大,所以耕层土壤有机质平均含量相对较高,平均可达 $2 8 . 8 0 ~ \mathrm { g / k g }$ ;重庆合川最低,平均为 $8 . 8 0 ~ \mathrm { g / k g }$ 。耕层土壤有机质随土层垂直深度增加呈逐渐减小趋势，重庆合川、江西兴国、云南楚雄 $0 { - } 2 0 ~ \mathrm { c m }$ 层有机质含量是40— $6 0 \ \mathrm { c m }$ 含量的 2.50 倍左右;但在YN-2采样点则以0— $\cdot 2 0 \ \mathrm { c m }$ 土层有机含量最低， $( 9 . 8 9 \ \mathrm { g / k g } )$ ，最高值 $( 2 4 . 4 5 ~ \mathrm { g / k g } )$ 出现在20—40 cm层次,该差异出现原因在于在当地耕作过程中,不断深翻耕作,将表层土壤翻入下层,而将下层土壤置于耕地表层,从而导致土壤有机质含量呈现出这种变化规律。
+
+# 2.1.2耕层土壤养分的差异性
+
+土壤养分是土壤提供的植物生长发育所必须的营养元素,土壤养分受母质、气候、生物、时间和人类活动的影响,其形态和形成过程相当复杂,具有高度的空间变异性[16]。由表3不同地点土壤养分特征可知,紫色土坡耕地土壤全量养分和速效养分均存在较大差异。除全钾含量外，土壤全量养分和速效养分的含量云南楚雄大于重庆合川和江西兴国,云南楚雄紫色土坡耕地土壤全氮在 $0 . 4 5 { \mathrm { - } } 0 . 9 1 ~ \mathrm { g / k g }$ 之间变化,重庆合川和江西兴国变化范围分别为 $0 . 5 0 { \ - } 1 . 3 6 ~ \mathrm { g / k g }$ 和 $0 . 3 9 - 0 . 7 5 ~ \mathrm { g / k g }$ ;云南楚雄全磷量平均值分别为 $0 . 7 4 ~ \mathrm { g / k g }$ ,是重庆合川和江西兴国的1.88倍和1.72倍;不同地点紫色土坡耕地土壤全钾含量的差异不显著,JX地区全钾含量最高,平均值为 $2 9 . 2 0 ~ \mathrm { g / k g }$ ,而重庆合川的全钾含量最低,为 $1 8 . 4 8 ~ \mathrm { g / k g }$ 。不同地点土壤碱解氮和有效磷差异较大,而土壤速效钾差异不显著;云南楚雄土壤碱解氮含量在 $9 1 . 4 0 { - } 2 3 7 . 0 0 ~ \mathrm { m g / k g }$ ,有效磷含量在3.40—
+
+![](images/4e2b297b66a7dbf823eacf0721ad33b4d4adf3a9cc1069d255806f513f95a38c.jpg)  
+图2不同地点坡耕地耕层土壤有机质分布特征  
+Fig.2Soil organic mater characteristics of slope farmland plow- layer in three different locations
+
+$4 4 . 0 0 ~ \mathrm { m g / k g }$ 范围内变化,分别是江西兴国的2.80 倍和3.10倍;重庆合川、江西兴国、云南楚雄土壤速效钾平均值含量分别为 $8 1 . 5 0 \ 、 6 4 . 0 0 、 8 8 . 5 0 \mathrm { ~ m g / k g } _ { \odot }$ 。
+
+不同地点紫色土坡耕地土壤养分含量随土层深度变化存在显著差异(表6)。总体上,不同地点紫色土坡耕地 $0 { - } 2 0 ~ \mathrm { c m }$ 土壤全氮含量高于 $2 0 { - } 4 0 ~ \mathrm { c m }$ 和40- $6 0 ~ \mathrm { c m }$ 土层含量;但在CQ-2 和YN-1样地出现不同变化,CQ-2土壤全氮含量最大值 $( 1 . 3 6 \mathrm { g / k g } )$ 出现在 $2 0 { - } 4 0 \ \mathrm { c m }$ ,而 YN-1土壤全氮含量最大值 $( 1 . 3 9 \ \mathrm { g / k g } )$ 出现在$4 0 { - } 6 0 ~ \mathrm { c m }$ ;土壤全磷在各土壤层次间变化差异明显,与土壤全氮含量变化特征一样,土壤全磷最大值出现在$0 { \stackrel { } { - } } 2 0 ~ \mathrm { c m }$ ;而土壤全钾含量在各土壤层次间含量无明显差异性。坡耕地不同垂直层次土壤速效养分变化规律基本一致,速效养分主要在 $0 { - } 2 0 ~ \mathrm { c m }$ 耕层富集，而20- $\cdot 4 0 \ \mathrm { c m }$ 和 $4 0 { - } 6 0 ~ \mathrm { c m }$ 土层则无显著差异。
+
+土壤pH对土壤供肥能力具有重要调控作用,同时pH高低也能限定土壤某些养分有效性。除YN-2样地土壤呈碱性( $\mathrm { \ p H }$ 范围在7.3—7.9)外,其他样地土壤均呈酸性，以江西兴国土壤 $\mathrm { \ p H }$ 最低，在5.2—5.9范围内变化;重庆合川 $\mathrm { \ p H }$ 变化范围为5.3—6.2;主要原因是江西兴国紫色土坡耕地耕层土壤处于长期免耕或少耕状态,而已有研究表明免耕土壤 $\mathrm { \ p H }$ 往往比传统耕作低。
+
+http://www.ecologica.cn
+
+表3不同地点坡耕地耕层土壤养分特征  
+Table 3Soil nutrient characteristics of slope farmland plow- layer in three different locations   
+
+<html><body><table><tr><td>样点编号 Plot code</td><td>土层深度 Soil depth/cm</td><td>pH</td><td>全氮 Total nitrogen/</td><td>全磷 Total phosphorus/</td><td>全钾 Total potassium/</td><td>碱解氮 Alkaline nitrogen/</td><td>有效磷 Available phosphorus/ (mg/kg)</td><td>速效钾 Available potassium/ （mg/kg)</td></tr><tr><td rowspan="3">CQ-1</td><td>0--20</td><td>5.3</td><td>（g/kg) 0.93Dc</td><td>（g/kg) 0.64De</td><td>（g/kg) 17.17Ac</td><td>（mg/kg) 84.63Ce</td><td>36.55De</td><td>129.00Ef</td></tr><tr><td>20-40</td><td>5.7</td><td>0.67Cb</td><td>0.38Cc</td><td>17.04Ab</td><td>66.01Bd</td><td>8.18Cc</td><td>65.00Bb</td></tr><tr><td>40-60</td><td>5.6</td><td>0.50Ba</td><td>0.14Aa</td><td>16.26Aa</td><td>50.78Bb</td><td>3.08Aa</td><td>63.00Ca</td></tr><tr><td rowspan="3">CQ-2</td><td>0-20</td><td>5.1</td><td>0.80Cd</td><td>0.56Cd</td><td>19.69Dd</td><td>94.79Df</td><td>37.70Ef</td><td>87.00Ce</td></tr><tr><td>20-40</td><td>6.0</td><td>1.36Df</td><td>0.34Bc</td><td>20.36Ce</td><td>52.47Cc</td><td>7.98Bb</td><td>72.00Cc</td></tr><tr><td>40-60</td><td>6.2</td><td>0.75Ce</td><td>0.30Bb</td><td>20.35De</td><td>37.24Aa</td><td>8.37Dd</td><td>73.00Dd</td></tr><tr><td rowspan="3">JX-1</td><td>0-20</td><td>5.9</td><td>0.61Ac</td><td>0.38Ac</td><td>30.34Ed</td><td>50.78Ac</td><td>20.49Be</td><td>50.00Ac</td></tr><tr><td>20-40</td><td>5.7</td><td>0.46Bb</td><td>0.49Dd</td><td>27.98Ec</td><td>42.32Ab</td><td>11.45Ec</td><td>46.00Ab</td></tr><tr><td>40-60</td><td>5.7</td><td>0.40Aa</td><td>0.56Ff</td><td>18.71Ba</td><td>37.24Aa</td><td>20.20Fd</td><td>34.00Aa</td></tr><tr><td rowspan="3">JX-2</td><td>0--20</td><td>5.2</td><td>0.75Bb</td><td>0.52Be</td><td>37.52Ff</td><td>67.70Bd</td><td>29,43Cf</td><td>70.00Bd</td></tr><tr><td>20-40</td><td>5.2</td><td>0.50Aa</td><td>0.28Aa</td><td>34.42Fe</td><td>42.32Ab</td><td>5.87Ab</td><td>90.00Ee</td></tr><tr><td>40-60</td><td>5.2</td><td>0.39Bd</td><td>0.35Cb</td><td>26.20Fb</td><td>50.78Bc</td><td>5.58Ca</td><td>94.00Ef</td></tr><tr><td rowspan="3">YN-1</td><td>0-20</td><td>6.5</td><td>0.96Ea</td><td>0.91Fe</td><td>19.28Bb</td><td>221.73Fe</td><td>40.78Fe</td><td>107.00De</td></tr><tr><td>20-40</td><td>6.7</td><td>1.56Ed</td><td>0.98Ff</td><td>18.68Ba</td><td>236.96Ef</td><td>44.15Ff</td><td>72.00Cb</td></tr><tr><td>40-60</td><td>7.3</td><td>1.39Ec</td><td>0.45Da</td><td>19.93Cd</td><td>91.40Db</td><td>12.89Ec</td><td>49.00Ba</td></tr><tr><td rowspan="3">YN-2</td><td>0-20</td><td>7.3</td><td>2.08Ff</td><td>0.82Ed</td><td>19.45Cc</td><td>130.33Ed</td><td>13.85Ad</td><td>135.00Ff</td></tr><tr><td>20-40</td><td>7.7</td><td>1.62Fe</td><td>0.74Ec</td><td>21.02Df</td><td>115.10Dc</td><td>8.75Db</td><td>95.00Ed</td></tr><tr><td>40-60</td><td>7.9</td><td>1.04Db</td><td>0.52Eb</td><td>20.71Ee</td><td>60.93Ca</td><td>3.37Ba</td><td>73.00Dc</td></tr></table></body></html>
+
+不同大写字母表示同一垂直层次不同地点差异显著( $\scriptstyle \cdot { P < 0 . 0 5 } )$ ,不同小写字母表示同一地点不同垂直层次差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$
+
+# 2.2坡耕地耕层土壤物理性质差异性分析
+
+土壤物理性质是坡耕地合理耕层构建主要调控指标,土壤机械组成、容重及孔隙直接关系农作物生长期间的水、热、气条件,土壤机械组成也是影响土壤肥力的重要物理性质之一。由表4不同地点坡耕地耕层土壤物理性质特征可见，不同地点紫色土坡耕地土壤机械组成表现出明显差异,重庆合川紫色土坡耕地土壤颗粒主要集中在0.05— $0 . 0 0 1 \ \mathrm { m m }$ ,粉粒含量可高达 $6 1 . 0 4 \% { - } 6 3 . 1 1 \%$ ;江西兴国紫色土坡耕地土壤砂粒和粉粒含量远大于粘粒，1一 $\cdot 0 . 0 5 \ \mathrm { \ m m }$ 砂粒含量在37.80— $5 4 . 0 0 \%$ ,0.05—0.001 mm 粉粒含量在 $3 6 . 2 0 \% - 4 7 . 8 0 \%$ 之间变化;云南楚雄紫色土坡耕地土壤主要以砂粒和粉粒为主,云南耕层土壤1— $\cdot 0 . 0 5 \ \mathrm { m m }$ 砂粒含量分别为 $3 7 . 4 0 \%$ 和 $4 7 . 1 3 \%$ ,0.05—0.001mm粉粒含量为 $4 9 . 9 3 \%$ 和 $4 2 . 4 2 \%$ 。不同垂直深度的土壤颗粒组成存在一定差异,这说明土壤质地在坡耕地耕层剖面上分布不均;总体来说， $0 { - } 2 0 ~ \mathrm { c m }$ 土壤粘粒( $\mathrm { < 0 . 0 0 1 \ m m }$ )含量显著高于20—$4 0 ~ \mathrm { c m }$ 和 $4 0 \mathrm { - } 6 0 ~ \mathrm { c m }$ ,主要原因在于 $0 { - } 2 0 ~ \mathrm { c m }$ 土层为坡耕地耕作层,由于定期耕作、除草等活动,能够将耕层板结土壤人为地破碎成不同大小的土块,使耕层土壤疏松、透水透气性得到有效改善。
+
+土壤容重是衡量土壤环境优劣的重要指标,直接影响土壤通气状况、作物根系穿透阻力及水肥供应等因素。由表4可知不同地点坡耕地耕层土壤容重存在一定差异性。以重庆合川坡耕地土壤容重最大（平均值为 $1 . 4 3 ~ \mathrm { g / c m } ^ { 3 }$ ),江西兴国坡耕地次之（平均值为 $1 . 4 0 ~ \mathrm { g / c m } ^ { 3 }$ ),而云南楚雄坡耕地最小（平均值为 $1 . 3 0 { \mathrm { g / c m } } ^ { 3 }$ ）；不同地点土壤容重差异性原因在于土壤母质本身影响基础上,主要受到当地耕作方式与种植作物影响。土壤容重随坡耕地土层垂直深度变化表现为 $0 { - } 2 0 ~ \mathrm { c m } { < } 2 0 { - } 4 0 ~ \mathrm { c m } { < } 4 0 { - } 6 0 ~ \mathrm { c m }$ ,即呈现出土壤层次越深、土壤容重越大的变化趋势。
+
+土壤孔隙的连续性与稳定性是直接影响作物根系生长和养分运输的重要因素。不同地点坡耕地土壤孔隙差异性显著，土壤总孔隙大小为云南楚雄( $5 4 . 1 2 \%$ )>江西兴国 $4 7 . 2 2 \%$ )>重庆合川( $4 5 . 9 7 \%$ ），这说明云南楚雄较重庆合川、江西兴国具有更好土壤通透结构;土壤毛管孔隙度的变化趋势与总孔隙度保持一致,分别为云南楚雄 $( 3 8 . 1 5 \%$ ）、江西兴国 $( 3 6 . 3 1 \%$ ）、重庆合川（ $3 4 . 3 6 \%$ )。总体上，3个地点坡耕地土壤总孔隙度、毛管孔隙度的随土壤垂直深度的变化规律具有一致性,表现为耕作层 $\left( 0 { - } 2 0 ~ \mathrm { c m } \right)$ $>$ 心土层 $( 2 0 - 4 0 ~ \mathrm { c m } ) >$ 底土层0 $( 4 0 - 6 0 ~ \mathrm { c m } )$ ),其主要原因在于0一 $2 0 ~ \mathrm { c m }$ 土壤层,由于经常性人为耕作扰动,使得土壤孔隙结构发生显著性变化；因此为了改善深层土壤的孔隙特性,应该采取适当的保护性耕作措施,如深松耕作等措施。
+
+表4不同地点坡耕地耕层土壤物理特征  
+Table 4The soil physical characteristics of slope farmland plow- layer in three different locations   
+
+<html><body><table><tr><td rowspan="2">样点编号</td><td rowspan="2">土层深度/m</td><td colspan="3">机械组成/%</td><td rowspan="2"></td><td rowspan="2">土壤容重</td><td rowspan="2">总孔隙度/%</td><td rowspan="2">毛</td><td rowspan="2">非毛管</td></tr><tr><td></td><td></td><td></td></tr><tr><td>CQ-1</td><td>0-20</td><td>23.40±0.40Bc</td><td>56.71±0.50Ea</td><td>19.89±0.20Fe</td><td>20.63±0.20Cd</td><td>1.25±0.25Da</td><td>52.72±0.33Ce</td><td>33.99±0.23Bb</td><td>18.73±0.13De</td></tr><tr><td rowspan="4">CQ-2</td><td>20-40</td><td>19.13±0.03Aa</td><td>68.71±0.56Ee</td><td>13.09±0.10Db</td><td>19.21±0.21Cb</td><td>1.52±0.26Dc</td><td>42.57±0.57Cc</td><td>35.09±0.20Cd</td><td>7.47±0.07Cb</td></tr><tr><td>40-60</td><td>27.40±0.50Bd</td><td>57.71±0.30Eb</td><td>14.89±0.60Bc</td><td>29.97±0.20Ff</td><td>1.38±0.18Bb</td><td>47.92±0.21Ed</td><td>43.26±0.26f</td><td>4.66±0.06Aa</td></tr><tr><td>0-20</td><td>22.00±0.50Abc</td><td>59.51±0.40Fd</td><td>18.49±0.50Ed</td><td>21.39±0.39Ee</td><td>1.18±0.07Ca</td><td>55.39±0.19Df</td><td>38.99±0.22De</td><td>16.40±0.40Cd</td></tr><tr><td>20-40</td><td>21.80±1.13Bc</td><td>71.31±0.31Ff</td><td>6.89±0.10Aa</td><td>19.92±0.22Dc</td><td>1.55±0.05Fc</td><td>41.35±0.35Bb</td><td>34.00±0.25Bc</td><td>7.35±0.05Bb</td></tr><tr><td rowspan="3">JX-1</td><td>40-60</td><td>20.60±0.30Aab 58.51±0.30Fc</td><td></td><td>20.89±0.60Ff</td><td>18.73±0.20Ca</td><td>1.70±0.06Fd</td><td>35.84±0.24Aa 20.85±0.25a</td><td></td><td>14.99±0.15Ec</td></tr><tr><td>0--20</td><td>41.20±0.70Dc</td><td>36.20±0.20Aa</td><td>12.60±0.40Cc</td><td>15.28±0.04Ab</td><td>1.22±0.05Dc</td><td>45.17±0.38Ac</td><td>37.19±0.39Ce</td><td>7.98±0.14Ac</td></tr><tr><td>20-40</td><td>41.40±1.00Ed</td><td>44.80±0.05Bd</td><td>13.80±0.20Ed</td><td>11.15±0.20Aa</td><td>1.26±0.02Bb</td><td>52.58±0.33Ed</td><td>35.66±0.40Dd</td><td>16.92±0.04Ee</td></tr><tr><td rowspan="3">JX-2</td><td>40-60</td><td>44.40±0.60Db</td><td>45.00±0.15Ce</td><td>10.60±0.20Db</td><td>16.14±0.24Ad</td><td>1.45±0.06Aa</td><td>54.11±0.38Fe</td><td>33.97±0.23b</td><td>20.14±0.20Ff</td></tr><tr><td>0--20</td><td>44.60±0.40Ef</td><td>43.00±0.80Cc</td><td>12.40±0.20Bc</td><td>15.55±0.80Bc</td><td>1.27±0.08Db</td><td>51.90±0.20Bf</td><td>42.56±0.18Ef</td><td>9.34±0.11Bc</td></tr><tr><td>20-40</td><td>37.80±0.60Da</td><td>47.80±0.20Cf</td><td>14.40±0.20Fe</td><td>16.11±0.20Bd</td><td>1.63±0.08Ee</td><td>38.39±0.28Aa</td><td>33.24±0.10Aa</td><td>5.15±0.15Aa</td></tr><tr><td rowspan="3">YN-1</td><td>40-60</td><td>54.00±0.40Ee</td><td>44.00±0.26Ab</td><td>8.00±0.30Ea</td><td>19.25±0.20De</td><td>1.56±0.05Dd</td><td>41.14±0.10Cb</td><td>35.24±0.25c</td><td>5.90±0.10Bb</td></tr><tr><td>0-20</td><td>39.60±0.35Cc</td><td>47.00±0.45Dd</td><td>13.40±0.30Dd</td><td>22.13±0.21Fd</td><td>1.03±0.09Aa</td><td>64.97±0.77Fe</td><td>43.40±0.25Fe</td><td>21.57±0.20Ff</td></tr><tr><td>20-40</td><td>36.80±0.55Cb</td><td>54.00±0.55Df</td><td>9.20±0.05Cb</td><td>28.49±0.74Fe</td><td>1.19±0.20Ac</td><td>70.06±0.80Ff</td><td>49.83±0.21Ff</td><td>20.23±0.20Fd</td></tr><tr><td rowspan="4">YN-2</td><td>40-60</td><td>35.80±0.40Ca</td><td>48.80±0.80De</td><td>15.40±0.20Ce</td><td>16.52±0.32Ba</td><td>1.49±0.20Ce</td><td>43.65±0.40Db</td><td>35.53±0.13c</td><td>8.12±0.12Ca</td></tr><tr><td>0-20</td><td>49.40±0.55Ff</td><td>40.80±0.60Ba</td><td>9.80±0.11Ac</td><td>17.32±0.32Cb</td><td>1.10±0.05Bb</td><td>58.36±0.36Ed</td><td>33.45±0.20Ab</td><td>24.91±0.50Ee</td></tr><tr><td>20-40</td><td>47.20±0.50Fe</td><td>44.65±0.40Ac</td><td>8.15±0.15Ba</td><td>22.08±0.22Ed</td><td>1.38±0.08Cd</td><td>48.09±0.30Dc</td><td>36.90±0.15Ed</td><td>11.20±0.20Dc</td></tr><tr><td>40-60</td><td>44.80±0.60Fd</td><td>41.80±0.70Bb</td><td>13.40±0.20Ad</td><td>19.38±0.10Ec</td><td>1.60±0.10Ef</td><td>39.58±0.30Ba</td><td>29.79±0.49a</td><td>9.79±0.20Db</td></tr></table></body></html>
+
+不同大写字母表示同一垂直层次不同地点差异显著( $\scriptstyle P < 0 . 0 5 )$ ,不同小写字母表示同一地点不同垂直层次差异显著( $\scriptstyle P < 0 . 0 5 )$ 号
+
+# 2.3坡耕地耕层土壤入渗与土壤水库特征差异性分析
+
+# 2.3.1耕层土壤入渗差异性特征
+
+土壤入渗性能与坡面地表径流和土壤侵蚀程度密切相关,直接关系到坡耕地耕层土壤质量生产性能及退化程度[17]。不同地点坡耕地耕层土壤入渗特征存在差异,随着入渗时间延续,土壤入渗速率减小并最终趋于不同的稳定值,表明了在不同土壤含水率条件下坡耕地耕层土壤入渗性能的差异。不同地点坡耕地耕层土壤在入渗初期 $( \overline { { 0 \mathrm { - } 5 } } \ \mathrm { m i \overline { { n } } } ) ,$ )土壤入渗速率均最大,如江西兴国耕层初始土壤入渗率最大( $0 . 3 2 \mathrm { \ m m / m i n }$ )，为重庆合川的1.66倍;但随着入渗时间持续,由于土壤水分含量增加,耕层土壤入渗速率逐渐变缓且在入渗开始 50min 后,土壤水分基本达到饱和状态,因此土壤入渗速率基本保持稳定。同样地,坡耕地耕层土壤稳定入渗率、平均人渗率均随着入渗时间持续,其土壤入渗速率呈下降变化,但入渗速率存在明显差异性,总体表现为云南楚雄 $>$ 重庆合川 $>$ 江西兴国。不同地点坡耕地耕层土壤入渗特征随耕层垂直深度的变化规律保持一致,即随着土层深度土壤入渗减小;这主要由于耕层作物根系及人为耕作扰动,导致土壤孔隙结构变大、透水能力和持水能力增加;随着土层深度增加,土壤孔隙数量减少、土壤紧实度变大。
+
+由表5数据可知,不同地点坡耕地耕层土壤初始入渗在垂直深度变化均表现为 $0 { - } 2 0 ~ \mathrm { c m }$ 耕作层要显著大于 20— $4 0 \ \mathrm { c m }$ 心土层和40— $6 0 ~ \mathrm { c m }$ 底土层，即降雨初期水分可在 $0 { - } 2 0 ~ \mathrm { c m }$ 耕作层迅速入渗，难以形成地表径流,只有当降雨强度超过初始入渗量才会产流。虽然0一 $2 0 \ \mathrm { c m }$ 土层渗透条件好,但蓄水能力有限,当土壤水分在0- $\cdot 2 0 \ \mathrm { c m }$ 土层蓄满可导致具有一定流速的壤中流产生,可将在土壤结构中起胶结作用的细粒物质携带出土壤体之外,形成浑浊的、具有一定含沙量的壤中流,这就是在紫色丘陵区水力侵蚀导致坡耕地耕层土壤退化的主要原因。
+
+表5不同地点坡耕地耕层土壤入渗及降雨强度特征  
+Table 5Soil infiltration characteristics of slope farmland plow- layer in three different locations   
+
+<html><body><table><tr><td rowspan="2">样点编号</td><td rowspan="2"></td><td colspan="4">土壤入渗特征 Soil infiltration characteristics/(mm/min)</td><td colspan="4">降雨强度特征 Rainfall intensity characteristics/(mm/min)</td></tr><tr><td>初始率 rate</td><td></td><td>平 rate</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CQ-1</td><td>0-20</td><td>0.11Ac</td><td>0.03Ab</td><td>0.02Ab</td><td>rate 0.02Ab</td><td>intensity 0.49</td><td>intensity 0.55</td><td>intensity 0.63</td><td>intensity 0.74</td></tr><tr><td rowspan="4">CQ-2</td><td>20-40</td><td>0.02Bb</td><td>0.01ABa</td><td>0.01Aab</td><td>0.01ABab</td><td></td><td>●</td><td></td><td></td></tr><tr><td>40-60</td><td>0.00Aa</td><td>0.00Aa</td><td>0.00Aa</td><td>0.00a</td><td></td><td></td><td></td><td></td></tr><tr><td>0-20</td><td>1.03Ed</td><td>0.24Ec</td><td>0.12Ec</td><td>0.24Ec</td><td>0.49</td><td>0.55</td><td>0.63</td><td>0.74</td></tr><tr><td>20-40</td><td>0.02Bb</td><td>0.01ABa</td><td>0.01Aab</td><td>0.01ABab</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">JX-1</td><td>40-60</td><td>0.00Aa</td><td>0.00Aa</td><td>0.00Aa</td><td>0.00Aa</td><td>0.52</td><td>0.61</td><td>0.71</td><td>0.85</td></tr><tr><td>0-20</td><td>0.92Cd</td><td>0.05Cc</td><td>0.03ABb</td><td>0.03ABb</td><td></td><td></td><td></td><td></td></tr><tr><td>20-40</td><td>0.03Bb 0.05Cc</td><td>0.02Bb 0.03Bb</td><td>0.04Bc 0.01Ba</td><td>0.02Bb 0.03Bb</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">JX-2</td><td>40-60</td><td></td><td>0.14Dd</td><td>0.10Db</td><td>0.08Cc</td><td>0.52</td><td>0.61</td><td>0.71</td><td>0.85</td></tr><tr><td>0-20</td><td>0.96De 0.00Aa</td><td>0.00Aa</td><td>0.00Aa</td><td>0.00Aa</td><td></td><td></td><td></td><td></td></tr><tr><td>20-40 40-60</td><td>0.00Aa</td><td>0.00Aa</td><td>0.01Ba</td><td>0.00Aa</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">YN-1</td><td>0-20</td><td>0.83Bf</td><td>0.08Bc</td><td>0.08Cc</td><td>0.18Dc</td><td>0.37</td><td>0.43</td><td>0.48</td><td>0.56</td></tr><tr><td>20—40</td><td>0.20Cd</td><td>0.18Df</td><td>0.17Cd</td><td>0.18Dc</td><td></td><td></td><td></td><td></td></tr><tr><td>40-60</td><td>0.03Bb</td><td>0.02Bb</td><td>0.02Bb</td><td>0.03Bb</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4">YN-2</td><td>0-20</td><td>0.11Ac</td><td>0.03Ab</td><td>0.04Bb</td><td>0.04Bb</td><td>0.37</td><td>0.43</td><td>0.48</td><td>0.56</td></tr><tr><td>20—40</td><td>0.32De</td><td>0.15Ce</td><td>0.18Cd</td><td>0.20Dd</td><td></td><td></td><td></td><td></td></tr><tr><td>40-60</td><td>0.00Aa</td><td>0.00aA</td><td>0.00Aa</td><td>0.00Aa</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+不同大写字母表示同一垂直层次不同地点差异显著 $\scriptstyle \sum ( P < 0 . 0 5 )$ ,不同小写字母表示同一地点不同垂直层次差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+# 2.3.2坡耕地耕层土壤水库特征差异分析
+
+土壤水库在解决农田供水、提高旱作产量和节约灌溉水方面,有其自身的特殊作用;同时具有显著的调节作物供水的功能[7-18]。由表6可知,不同地点坡耕地土壤水库特征及相应土壤贮水能力差异显著。土壤水总库容的大小表现为云南楚雄( $1 0 5 2 . 5 2 { \mathrm { ~ t } } / { \mathrm { h m } } ^ { 2 }$ )>江西兴国 $( 9 7 4 . 1 5 ~ \mathrm { t / h m } ^ { 2 } )$ >重庆合川( $8 6 7 . 3 0 \ \mathrm { t / h m } ^ { 2 }$ )，说明不同地点紫色土坡耕地土壤所能容蓄的水分总量存在较大差异；土壤水死库容的变化规律与土壤水总库容的变化规律一致，以云南楚雄( $1 7 9 . 2 0 \ \mathrm { { t / h m } ^ { 2 } }$ )最大，江西兴国( $1 5 0 . 8 2 ~ { \scriptstyle { V \mathrm { h m } } ^ { 2 } }$ )次之，重庆合川( $1 0 1 . 2 6 ~ \mathrm { { \Omega } } \ V \mathrm { { h m } } ^ { 2 }$ )最小，表明重庆合川耕层土壤水库无效水分较高,即该地区坡耕地作物的水分可用量较少,土壤水分循环效率较低；不同地点紫色土坡耕地兴利库容大小依次为重庆合川( $2 9 3 . 0 2 { \ } { \mathrm { t / h m } } ^ { 2 }$ ）） $>$ 云南楚雄( $2 9 1 . 8 9 \ \mathrm { \ t / h m } ^ { 2 }$ )>江西兴国$( \sqrt { 1 8 2 . 2 8 } \ \mathrm { { \Omega t / / h m } ^ { 2 } }$ ),说明重庆合川耕层土壤具有较强的土壤贮水能力;土壤滞洪库容以江西兴国( $4 5 8 . 7 7 6 \mathrm { ~ t ~ }$ $\mathbf { h } \mathbf { m } ^ { 2 } )$ 最大,是重庆耕层土壤的2.54倍,这说明江西兴国紫色土坡耕地土壤当土壤含水量大于田间持水量时,坡面径流能够更多的蓄存在土壤中。土壤最大有效库容越大，即土壤的蓄水能力越强，不同地点紫色土坡耕地土壤最大有效库容以云南楚雄( $\mathrm { 8 7 3 . 3 1 1 \ t / h m ^ { 2 } }$ )最大，即云南楚雄坡耕地土壤具有较好的蓄水能力，能够较好抵御西南地区普遍存在的季节性干旱,为农作物正常生长提供足够水分支持。
+
+不同地点坡耕地耕层土壤水库库容随土层垂直深度表现出相似变化规律,坡耕地耕层土壤总库容、死库容、兴利库容、滞洪库容、最大有效库容均表现为0一 $2 0 \ \mathrm { c m }$ 耕作层大于20— $\cdot 4 0 \ \mathrm { c m }$ 心土层和 $4 0 { - } 6 0 ~ \mathrm { c m }$ 底土层,这一现象在云南楚雄表现最为显著;土壤库容受到土壤质地、土壤孔隙结构、土壤有机质及土壤层厚度等因素综合影响,土壤容重越小、砂粒含量和有机质越高、土壤的团聚结构越好,则土壤孔隙越大、通气性较好，土壤最大有效库容也就越大,即土壤的蓄水能力也就越强。
+
+表6不同地点坡耕地耕层土壤水库特征  
+Table 6Soil reservoir characteristics of slope farmland plow- layer in three different locations   
+
+<html><body><table><tr><td rowspan="2">样点编号</td><td rowspan="2"></td><td colspan="4">土壤水分特征 Soil water characteristics/%</td><td colspan="4">土壤水库特征 Soil reservoir characteristics/（t/hm²)</td></tr><tr><td>饱和含水量 water content</td><td>田间持水量 capacity</td><td>凋萎含水量 point</td><td>T总库 capacity</td><td>D死库容 capacity</td><td></td><td>stpaity</td><td>大有 capacity</td></tr><tr><td>CQ-1</td><td>0--20</td><td>38.34Ce</td><td>27.13Cd</td><td>6.83Ce</td><td>960.83Be</td><td>171.21Be</td><td>capacity 254.31Db</td><td>281.00Ce</td><td>789.63Bd</td></tr><tr><td rowspan="4">CQ-2</td><td>20-40</td><td>24.04Ab</td><td>23.06Dc</td><td>1.00Bb</td><td>731.88Bb</td><td>30.38Bb</td><td>335.75Ee</td><td>30.00Aa</td><td>701.50Aa</td></tr><tr><td>40-60</td><td>33.30Cd</td><td>31.35Fe</td><td>5.07Cd</td><td>919.20Dd</td><td>139.95Dd</td><td>362.63Ff</td><td>54.00Ac</td><td>779.25Cc</td></tr><tr><td>0--20</td><td>42.79Df</td><td>32.98Ef</td><td>8.21Df</td><td>1011.80Cf</td><td>194.00Df</td><td>292.90Ec</td><td>232.00Ad</td><td>817.80Cf</td></tr><tr><td>20-40</td><td>23.13Aa</td><td>21.88Cb</td><td>0.52Aa</td><td>719.07Aa</td><td>16.03Aa</td><td>332.02Dd</td><td>39.00Bb</td><td>703.04Bb</td></tr><tr><td rowspan="3">JX-1</td><td>40-60</td><td>25.32Bc</td><td>12.26Aa</td><td>1.65Bc</td><td>861.03Cc</td><td>55.97Bc</td><td>180.49Ba</td><td>444.09Ff</td><td>805.06De</td></tr><tr><td>0-20</td><td>31.13Aa</td><td>13.63Aa</td><td>4.23Aa</td><td>806.01Ab</td><td>109.44Aa</td><td>121.75Aa</td><td>453.07Dd</td><td>696.57Ab</td></tr><tr><td>20-40</td><td>32.13Bb</td><td>15.06Ac</td><td>4.62Cb</td><td>964.97Dc</td><td>138.82Dc</td><td>156.70Ac</td><td>512.76Fe</td><td>826.15Dc</td></tr><tr><td rowspan="3">JX-2</td><td>40-60</td><td>35.02Ee</td><td>21.29Ce</td><td>5.70Ee</td><td>787.27Ba</td><td>128.11Cb</td><td>175.30Ad</td><td>308.55Ca</td><td>659.15Aa</td></tr><tr><td>0--20</td><td>36.46Bf</td><td>15.03Bb</td><td>6.20Bf</td><td>1081.63De</td><td>184.02Cf</td><td>130.91Bb</td><td>635.79Ff</td><td>897.61De</td></tr><tr><td>20-40</td><td>34.17Cd</td><td>19.73Bd</td><td>5.39Ed</td><td>1027.26Ed</td><td>162.09Ed</td><td>215.59Be</td><td>433.99Ec</td><td>865.17Ed</td></tr><tr><td rowspan="3">YN-1</td><td>40-60</td><td>33.70Dc</td><td>22.01Df</td><td>5.22Dc</td><td>1177.76Ff</td><td>182.41Ee</td><td>293.43Ef</td><td>408.49Db</td><td>995.35Ff</td></tr><tr><td>0-20</td><td>55.27Ff</td><td>42.21Ff</td><td>11.40Ff</td><td>1136.64Fe</td><td>234.50Fe</td><td>316.79Fe</td><td>268.57Bc</td><td>902.14Ec</td></tr><tr><td>20-40</td><td>53.40De</td><td>41.75Fe</td><td>10.97Fe</td><td>1274.62Ff 1130.72Ec</td><td>261.91Ff</td><td>367.29Ff</td><td>278.13Dd</td><td>1012.71Ff</td></tr><tr><td rowspan="4">YN-2</td><td>40-60</td><td>37.86Fc</td><td>23.80Eb</td><td>6.67Fc</td><td>1135.17Ed</td><td>199.33Fc</td><td>255.66Cb</td><td>420.08Ee</td><td>931.39Ee</td></tr><tr><td>0--20</td><td>51.44Ed</td><td>30.31Dd</td><td>10.50Ed</td><td></td><td>231.82Ed</td><td>218.56Ca</td><td>466.22Ef</td><td>903.34Fd</td></tr><tr><td>20-40</td><td>32.86BCb</td><td>26.82Ec</td><td>4.90Db</td><td>904.06Cb</td><td>134.90Cb</td><td>301.50Cd</td><td>166.17Cb</td><td>769.16Cb</td></tr><tr><td>40-60</td><td>22.92Aa</td><td>18.61Ba</td><td>0.40Aa</td><td>733.88Aa</td><td>12.76Aa</td><td>291.53Dc</td><td>138.07Ba</td><td>721.13Ba</td></tr></table></body></html>
+
+不同大写字母表示同一垂直层次不同地点差异显著( $P { < } 0 . 0 5 )$ ,不同小写字母表示同一地点不同垂直层次差异显著( $\scriptstyle P < 0 . 0 5 .$
+
+# 2.4坡耕地耕层土壤耕作力学性能的差异性分析
+
+耕层土壤力学性能评价在农业生产各项活动中广泛应用,如改善土壤耕性、优化土壤结构力稳性、提高车辆通过性、增强土壤承载力等。土壤力学性质主要表现为土壤抗剪力和土壤贯人阻力等指标。土壤抗剪强度是表征土体力学性质一个重要指标,直接反映了在外力作用下发生剪切变形的难易程度。由图4可知,不同地点和不同垂直深度坡耕地耕层土壤抗剪强度存在显著性差异。不同地点紫色土坡耕地土壤抗剪强度依次为重庆合川 $( | 1 5 . 3 9 \mathrm { ~ k g } / \mathrm { c m } ^ { 2 } \rangle$ >云南楚雄( $1 4 . 7 4 \mathrm { ~ k g } / \mathrm { c m } ^ { 2 } )$ $>$ 江西兴国( $1 0 . 6 6 \mathrm { ~ k g / c m } ^ { 2 }$ );不同地点紫色土坡耕地土壤抗剪强度最大值( $2 3 . 9 5 0 ~ \mathrm { k g / c m } ^ { 2 } .$ )出现在YN-2采样点 $5 0 { \mathrm { - } } 6 0 ~ \mathrm { c m }$ 土层,而最小值 $\langle 3 . 9 4 ~ \mathrm { k g / c m } ^ { 2 }$ )出现在YN-1采样点 $0 { \stackrel { } { - } } 1 0 ~ \mathrm { c m }$ 土层;这说明江西兴国坡耕地土体在受到外力作用条件下易发生剪切变形而破坏,而重庆合川坡耕地土体抵抗这种剪切变形的能力较好。各地点坡耕地耕层不同垂直深度土壤抗剪强度变化规律不一致,重庆合川坡耕地耕层土壤抗剪强度随垂直深度呈现出先增大、后减小变化趋势,CQ-1和CQ-2 土壤抗剪强度最大值分别出现在 $3 0 { \mathrm { - } } 4 0 \ { \mathrm { c m } }$ 和 $4 0 { - } 5 0 ~ \mathrm { c m }$ 土层;江西兴国坡耕地耕层土壤抗剪强度随土层深度逐渐增大,JX-2采样点 $3 0 { \ - } { - } 4 0 \ldots 4 0 { \ - } 5 0 \ldots 5 0 { \ - } 0 0 \ \mathrm { c m }$ 土层抗剪强度基本保持一致;云南楚雄紫色土坡耕地土壤抗剪强度总体呈现逐渐增大的趋势,但YN-1采样点最大值( $1 9 . 0 8 3 ~ \mathrm { k g / c m } ^ { 2 }$ )在 $4 0 { - } 5 0 ~ \mathrm { c m }$ 土层。
+
+土壤贯入阻力是耕层土壤重要物理参数之一,在预测机械触土部件工作性能,车辆的通过性能、附着性能、牵引性能,估计由于车辆的碾压而导致的土壤板结程度等方面具有广泛的应用[19]。不同地点紫色土坡耕地土壤贯入阻力特征值见表7。由表可知,坡耕地耕层同一垂直深度不同地点的土壤贯入阻力值存在明显差异,对于坡耕地0— $1 0 \mathrm { { c m } }$ 耕作表层,以重庆合川土壤贯入阻力值最大（平均 $4 2 4 . 8 3 \mathrm { k P a } )$ ，云南楚雄次之（平均$2 5 2 . 5 0 \ \mathrm { k P a }$ ），江西兴国最小（ $1 8 8 . 8 7 \mathrm { ~ k P a }$ );坡耕地10—20、20—30cm 的土壤贯入阻力大小变化均为重庆合川>江西兴国 $>$ 云南楚雄;而坡耕地 $3 0 { \ - } { - } 4 0 \ldots 4 0 { \ - } 5 0 \ldots 5 0 { \ - } 5 0 \ \mathrm { c m }$ 的土壤贯入阻力均表现为重庆合川最大，云南楚雄次之,江西兴国最小;这说明云南楚雄坡耕地耕层 $\mathrm { ( 0 - 2 0 ~ c m ) }$ )土壤在机械耕作过程中易受到机械碾压而板结,大型机械引入不利于农作物产量提高。对于同一地点不同垂直深度坡耕地耕层而言,土壤贯入阻力值差异较大;总体上随着土层深度增加、土壤贯入阻力值变大,这主要因为长期人为耕作活动而导致上层土壤疏松,而农业机械长期碾压下层土壤且没有翻耕所致其紧实。
+
+![](images/e7778cc32bb0f6a8faecb2405c710de056116712adfdc2d97ec810081d2b0095.jpg)  
+图3不同地点坡耕地耕层土壤抗剪特征  
+Fig.3Soil shear resistance of slope farmland plow-layer in three different locations
+
+表7不同地点坡耕地耕层土壤贯入阻力特征值  
+Table7Soil Penetration resistance of slope farmland plow- layer in three different location   
+
+<html><body><table><tr><td rowspan="2">土层深度/cm Soil depth</td><td colspan="6">贯人阻力 Penetration resistance/kPa</td></tr><tr><td>CQ-1</td><td>CQ-2 1</td><td>JX-1</td><td>JX-2</td><td>YN-1</td><td>YN-2</td></tr><tr><td>0-10</td><td>429.25±0.75Ea</td><td>414.10±0.60Da</td><td>282.20±0.20Ca</td><td>94.94±0.25Fd</td><td>212.10±0.60Ab</td><td>292.90±0.90Ba</td></tr><tr><td>10-20</td><td>797.90±0.30Fb</td><td>757.50±0.20Eb</td><td>272.70±0.40Ca</td><td>292.90±0.30Ba</td><td>166.65±0.20Aa</td><td>444.40±0.50Db</td></tr><tr><td>20-30</td><td>646.40±0.25Dc</td><td>898.90±0.40Ec</td><td>717.10±0.50Bb</td><td>272.70±1.00Ff</td><td>363.60±0.30Ac</td><td>606.00±0.42Cc</td></tr><tr><td>30-40</td><td>1055.45±0.45Ed</td><td>1100.90±0.45Fe</td><td>792.85±0.17Dc</td><td>909.00±0.20Ab</td><td>505.00±0.50Bd</td><td>727.20±0.20Cd</td></tr><tr><td>40--50</td><td>873.65±0.20Ee</td><td>1080.70±0.25Fd</td><td>989.80±0.40Aab</td><td>909.00±1.30Be</td><td>787.80±0.82Cf</td><td>797.90±0.90De</td></tr><tr><td>50-60</td><td>1262.50±1.00Df</td><td>1252.40±0.40Df</td><td>812.04±1.45Bc</td><td>656.50±0.70Ac</td><td>767.60±0.60Be</td><td>919.10±0.59Cf</td></tr></table></body></html>
+
+不同大写字母表示同一垂直深度不同地点差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ),不同小写字母表示同一地点不同垂直深度差异显著( $\scriptstyle P < 0 . 0 5 .$
+
+# 3讨论
+
+3.1土壤侵蚀对紫色土坡耕地耕层土壤质量的影响
+
+紫色土具有成土作用迅速、耕性和生产力高的特点;同时具有侵蚀性高、抗旱性差、土壤退化严重的特点[2]。朱波[20]认为土层厚度是紫色土生产力基本限制条件， $2 0 ~ \mathrm { c m }$ 厚紫色土蓄水量仅为 $6 0 ~ \mathrm { c m }$ 厚土壤蓄水量的1/3,不及 $1 0 0 \ \mathrm { c m }$ 厚土壤蓄水量的1/5。史东梅[3]认为如果坡耕地土壤因素表现为土层深厚、壤质、容重适中、土壤结构良好、有机质含量较高则水土流失强度较轻,而土壤因素表现为土壤结构差、土层浅薄、土壤肥力低则表现为水土流失严重并加剧坡耕地干旱和洪涝灾害。表8列出了不同坡度的坡耕地土壤侵蚀特征及其对坡耕地耕层厚度的影响。
+
+表8土壤侵蚀对紫色土坡耕地耕层厚度的影响  
+Table 8Effect of soil erosion on plow- layer of slope farmland in purple hilly area   
+
+<html><body><table><tr><td>侵蚀级别 Erosion</td><td>坡度/()</td><td>耕地数 land</td><td>有效度 ayer/cm</td><td>平均数 (tkm-²a-1)</td><td>平均流 失厚度 Anicke 1os (mm/a)</td><td>年成土 厚度 Anualsl mm</td><td>耕层厚度 薄化值 Cultivated layer thickhnsss (mm/)</td><td>抗侵蚀年限 Antergion</td></tr><tr><td>I无侵蚀 No erosion</td><td>3</td><td>1</td><td>100—75</td><td><500</td><td><0.8</td><td>0.96</td><td><-0.59</td><td>8 1</td></tr><tr><td>Ⅱ轻度侵蚀 Slight erosion</td><td>3-5</td><td>>0.9</td><td>75-50</td><td>500—2500</td><td>0.8-2</td><td>0.96</td><td>-0.59-0.94</td><td>>425</td></tr><tr><td>Ⅲ中度侵蚀 Moderate erosion</td><td>5-8</td><td>0.9-0.8</td><td>50-25</td><td>2500—5000</td><td>2-4</td><td>0.96</td><td>0.94- -2.74</td><td>145-425</td></tr><tr><td>V强度侵蚀 Strength erosion</td><td>8-15</td><td>0.8-0.5</td><td>25-10</td><td>5000- -8000</td><td>4-6</td><td>0.96</td><td>2.74—5.94</td><td>67—145</td></tr><tr><td>V极强度侵蚀 Extreme intensity erosion</td><td>15-25</td><td>0.5-0.3</td><td>10-5</td><td>8000—15000</td><td>6-12</td><td>0.96</td><td>5.94—10.14</td><td>40-67</td></tr><tr><td>V剧烈侵蚀 Severe erosion</td><td>>25</td><td><0.3</td><td><5</td><td>>15000</td><td>>12</td><td>0.96</td><td>>10.14</td><td><40</td></tr></table></body></html>
+
+平均流失厚度和年成土厚度按容重 $1 . 2 5 ~ \mathrm { g } / \mathrm { c m } ^ { 3 }$ 计算;耕层厚度薄化值 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 平均流失厚度-年成土厚度;抗侵蚀年限 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 耕层初始厚度/年均耕层厚度薄化值，耕层初始值 $= 4 0 \ \mathrm { c m }$
+
+研究显示,土壤侵蚀减少了植物可利用有效水分,损失了土壤营养物质,破坏了土壤肥力结构,影响农业耕作制度,从而严重地降低了土壤质量[21]。对坡耕地土壤质量退化,目前主要从降雨侵蚀和耕作侵蚀对坡耕地土壤质量的退化作用开展研究。Nyssen[22]等研究发现坡耕地土壤在耕作深度为 $8 . 7 \ \mathrm { c m }$ 时,坡面土壤会大量聚集在坡耕地的坡下部位,导致坡上部位土层薄化,每年耕作1—4次,土壤运移量由最初的 $6 8 ~ \mathrm { { k g / m } }$ 增加到 $2 7 2 ~ \mathrm { k g / m }$ 。Kosmas 等[23]在 $1 2 ^ { \circ }$ 坡耕地研究发现耕作扰动会导致土壤粘粒含量分布不均,坡上部位为 $20 \%$ 、坡下部位为 $34 \%$ 。聂小军等[24]利用 $^ { 1 3 7 } \mathrm { C s }$ 示踪方法和耕作侵蚀模型评价了川中丘陵区紫色土坡耕地土壤侵蚀速率,发现短陡坡耕地土壤侵蚀速率高达 $5 2 . 6 \mathrm { t } \ \mathrm { h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,是缓长坡耕地土壤侵蚀速率的2倍;陡坡坡耕地的主要侵蚀过程为耕作侵蚀,对土壤总侵蚀贡献率高达 $74 \%$ ;而缓长坡主要侵蚀过程为水蚀,对土壤总侵蚀贡献为 $5 5 \%$ 。陈奇伯等[25]对干热河谷土壤侵蚀对坡耕地土地生产力衰退研究表明,土壤容重在 $0 { - } 3 0 ~ \mathrm { c m }$ 土层为 $1 . 3 8 ~ \mathrm { g / c m } ^ { 3 }$ ,在30- ${ \cdot } 5 0 \ \mathrm { c m }$ 土层为 $1 . 5 5 \mathrm { g } / \mathrm { c m } ^ { 3 }$ ;毛管孔隙度和总孔隙度分别比下层土壤高 $4 . 3 \%$ 和 $3 . 7 \%$ ;土层每减少 $1 \mathrm { c m }$ ,生物量下降 $2 . 3 2 \% - 5 . 2 9 \%$ 。史德明等[26]对中国南方侵蚀土壤退化指标体系研究表明,侵蚀土壤退化导致了土壤肥力状况(水、肥、气、热)和土壤质量普遍下降,与正常土壤(未退化土壤)相比较,土壤质量等级要降低2—3个等级,使成为难以利用的土壤.。王志强等[27]对东北黑土区土壤侵蚀对土地生产力影响试验研究结果表明，土壤容重由侵蚀 $0 ~ \mathrm { c m }$ 的 $1 . 2 2 ~ \mathrm { g / c m } ^ { 3 }$ 增加到侵蚀 $7 0 ~ \mathrm { c m }$ 的 $1 . 4 3 ~ \mathrm { g / c m } ^ { 3 }$ ;大豆产量随侵蚀程度增加呈指数递减函数的变化形式,随土壤侵蚀深度增加呈凹型曲线递减。郭云周等[28]通过侵蚀模拟试验发现表层土壤侵蚀 $1 . 6 6 { - 2 0 } \mathrm { c m }$ 后，深翻可使耕层达到 $2 0 ~ \mathrm { c m }$ ,耕层有机质降低 $1 4 . 3 7 \% - 4 6 . 8 7 \%$ ,硝态氮降低 $1 4 . 4 2 \% \_ 4 6 . 9 8 \%$ ,速效磷降低 $3 3 . 4 8 \% - 8 5 . 7 1 \%$ ,速效钾降低 $8 . 0 9 \% - 3 6 . 2 7 \%$ ,同时作物产量大幅度减产。本文对各地点坡耕地耕层土壤质量差异性分析表明,由于重庆合川坡耕地耕层具有土壤容重较大、孔隙度较低,渗透性和蓄水能力差特点,总体上坡耕地土壤物理质量较差。
+
+# $3 . 2 ^ { ^ { \prime } }$ 坡耕地耕层土壤耕性参数适宜性阈值
+
+土壤耕作性能是一系列土壤物理性质和机械力学性质的综合反映,如土壤黏结性、黏着性、可塑胀缩性、结构性、孔隙松紧状况等。丁启朔等[29]认为构成土壤宏观力学结构力学行为的物理基础是土壤质地、土壤容重、土壤结构状态及土壤含水量等,土壤破碎发生机理及耕作机具田间碎土行为是土壤宏观力学结构基本研究内容。有关研究表明,重庆土壤侵蚀流失粒径主要是 $0 . 0 5 { \ - } 0 . 0 0 2 ~ \mathrm { m m }$ （粉粒）和 $< 0 . 0 0 2 \ \mathrm { m m }$ (粘粒)这两部分，而0.25- $\cdot 0 . 0 5 \ \mathrm { m m }$ （细砂）、0.25- $. 0 . 5 \ \mathrm { m m }$ （中砂）、0.5- ${ \cdot 2 0 } ~ \mathrm { m m }$ （粗砂)则相对富集[30」；从颗粒分析看,重庆紫色土坡耕地具有明显粗骨化特征， ${ > } 0 . 0 1 \ \mathrm { m m }$ 物理性砂粒含量占 $5 2 . 0 0 \% - 6 9 . 9 7 \%$ ,尤其是0.1- $- 0 . 0 5 \ \mathrm { m m }$ 颗粒,可占 $3 1 . 4 0 \% - 4 1 . 9 9 \% ^ { [ 3 1 ] }$ ;江西紫色土坡耕地土层厚度为 $1 ~ \mathrm { c m }$ 时,土壤渗透系数为 $2 . 2 \mathrm { \ m m / m i n } ^ { \left[ 3 2 \right] }$ ;云南干热河谷侵蚀土壤表土有机质含量介于 2.4- $9 . 6 ~ \mathrm { g / k g }$ 之间,土壤紧实化严重且土壤容重在1.36— $\cdot 1 . 5 4 \ \mathrm { g }  \mathord  /  \vphantom  \Biggl  ( \cdot \kern  /  \vphantom  ( \cdot \kern  /  \vphantom { ( \frac { 1 } }  \cdot \kern { / { \vphantom { ( 1 } } ) }  \kern  / { \vphantom { ( | \cdot \kern { | { | } }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | }  \kern { | } }  \kern { | }  \kern | } $ $\mathrm { c m } ^ { 3 }$ ;土壤表层浅薄化,表层厚度范围为0— $\cdot 1 7 \ \mathrm { c m }$ ;土壤碱化严重, $\mathrm { \ p H }$ 在8.0—8.9之间[33]。本文综合上述前人研究结果,列出坡耕地耕层土壤耕性指标适宜性范围(表9),并根据实测数据评价不同不同地点坡耕地的耕性特征。
+
+表9不同地点坡耕地耕层土壤耕性数值特征  
+Table 9Numerical characteristics of slope farmland plow-layer in three diferent locations   
+
+<html><body><table><tr><td rowspan="3">耕性评价参数</td><td rowspan="3">适宜性阈值</td><td colspan="2">重庆合川</td><td colspan="2">江西兴国</td><td colspan="2">云南楚雄</td></tr><tr><td>实测范围</td><td>平均值</td><td>实测范围</td><td>平均值</td><td>实测范围</td><td>平均值</td></tr><tr><td>Measured</td><td>Average</td><td>Measured</td><td>Average</td><td>Measured</td><td>Measured</td></tr><tr><td>有效土层厚度/cm</td><td></td><td>range</td><td>value</td><td>range</td><td>value ●</td><td>range</td><td>range</td></tr><tr><td>Effective thickness of soil layer 土壤质地</td><td>25—100 中壤土、轻壤</td><td>35—40</td><td>37.5</td><td>40—50</td><td>45</td><td>40-60</td><td>50</td></tr><tr><td>Soil texture</td><td>土、砂壤土</td><td>砂壤土</td><td>砂粉土</td><td>砂粉土</td><td></td><td></td><td></td></tr><tr><td>土壤容重/（g/cm） Soil bulk density</td><td>1.15—1.45</td><td>1.18—1.70</td><td>1.43</td><td>1.22-1.63</td><td>1.40</td><td>1.03—1.60</td><td>1.30</td></tr><tr><td>总孔隙度/% Total porosity</td><td>46-56</td><td>35.84—55.39</td><td>45.97</td><td>38.39-54.11</td><td>47.22</td><td>39.58—70.06</td><td>54.12</td></tr><tr><td>田间持水量/% Field capacity</td><td>>35</td><td>12.26—32.98</td><td>24.78</td><td>13.63—22.01</td><td>17.79</td><td>18.61—42.21</td><td>30.58</td></tr><tr><td>有机质含量/（g/kg) Organic matter content</td><td>>10</td><td>5.10—15.30</td><td>8.80</td><td>6.47- -13.90</td><td>9.03</td><td>9.89-59.5</td><td>24.45</td></tr></table></body></html>
+
+由上表可知,不同地点坡耕地耕层土壤耕性指标平均值均在当地耕地耕性适宜值范围,而 20— $\cdot 4 0 \ \mathrm { c m }$ 和40—60cm的评价指标数值超出耕性适宜范围而20— $4 0 ~ \mathrm { c m }$ 和40— $6 0 ~ \mathrm { c m }$ 的个别指标数值超出耕性适宜范围,如土壤容重最大值可达 $1 . 7 0 ~ \mathrm { g / c m } ^ { 3 }$ ,这使土壤更加紧实、不易耕作;土壤总孔隙度最大值为 $7 0 . 0 6 \%$ ，说明该土壤保水效益较差、不宜耕层抗旱性发挥；土壤有机质含量最小值为 $5 . 1 0 \%$ ,比适宜性范围小 $4 . 9 0 \%$ ,这导致土壤肥力水平下降,不宜农作物生长。总体看,耕性指标良好程度将直接关系到农作物产量高低。因此可在当地采取适当耕作措施(如一般 22— ${ \cdot 2 4 } \ \mathrm { c m }$ 以下深松、深土培肥等)进行坡耕地耕层土壤质量改良,如何选择深松、有机肥培肥、秸秆还田等合适耕作措施,以实现对坡耕地耕层土壤质量有效改善将是今后坡耕地合理耕层培育及稳产高产土壤地力保持的研究重点。
+
+# 4结论
+
+(1)不同地点紫色土坡耕地耕层土壤化学性质、物理性质差异性显著。云南楚雄坡耕地耕层土壤肥力较好,土壤有机质达 $2 8 . 8 0 ~ \mathrm { g / k g }$ ,土壤全量养分和速效养分均最高;而重庆合川耕层土壤有机质仅为 $8 . 8 0 ~ \mathrm { g / k g }$ 重庆合川坡耕地耕层土壤物理质量较差，主要表现在土壤容重最高( $\mathrm { ~ ( 1 . 4 3 ~ g / c m } ^ { 3 }$ )，土壤总孔隙度( $4 5 . 9 7 \%$ 和毛管孔隙度 $( 3 4 . 3 6 \%$ )最小;同一地点紫色土坡耕地土壤物理性质随垂直深度变化明显。从土壤质量角度看，坡耕地0- $2 0 ~ \mathrm { c m }$ 耕层土壤物理质量要优于 $2 0 { - } 4 0 ~ \mathrm { c m }$ 心土层和 $4 0 { - } 6 0 ~ \mathrm { c m }$ 底土层。
+
+(2)不同地点紫色土坡耕地耕层土壤稳定入渗率、平均入渗率变化规律相一致，但土壤入渗率大小存在差异，表现为云南楚雄 $>$ 重庆合川>江西兴国。坡耕地耕层土壤水库特征差异显著,各种土壤水库特征值均表现为 $0 { \ - } - 2 0 \ \mathrm { c m }$ 耕层大于20— $4 0 \ \mathrm { c m }$ 和40— $6 0 ~ \mathrm { c m }$ 土层;坡耕地耕层土壤水总库容和最大有效库容以云南楚雄最大,分别为 $1 0 5 2 . 5 2 \ \mathrm { t / h m } ^ { 2 }$ 和 $8 7 3 . 3 1 1 ~ \mathrm { { t / h m } } ^ { 2 }$ ,这说明其紫色土坡耕地具有较好水分容蓄能力。
+
+(3)不同地点紫色土坡耕地耕层土壤抗剪强度和土壤贯入阻力均表现为重庆合川 $>$ 云南楚雄>江西兴国，且随土层垂直深度耕层土壤抗剪强度和土壤贯入阻力值增加。不同地点坡耕地耕层土壤抗剪强度依次为
+
+$1 5 . 3 9 \cdot 1 4 . 7 4 \cdot 1 0 . 6 6 \ \mathrm { k g / c m } ^ { 2 }$ ,土壤贯入阻力则分别为424.83、252.50、188.87kPa,这说明重庆合川紫色土坡耕地耕层土壤可以较好抵抗降雨、耕作的剪切破坏能力以及耕作机械碾压能力。
+
+(4)不同地点紫色土坡耕地0一 $2 0 ~ \mathrm { c m }$ 耕层土壤耕性均处于适宜阈值范围，而 20—40cm 和40一60 cm 土壤物理特征值超出耕性适宜性范围,采用适宜的深松、有机肥、秸秆还田等措施有利于改良深层次土壤质量，可用于坡耕地合理耕层构建和培育。
+
+# 参考文献（References）:
+
+［1］谢俊奇.中国坡耕地.北京：中国大地出版社，2005.  
+[2］何毓蓉.中国紫色土(II).北京：科学出版社，2003：2211-2211.  
+[3］史东梅.基于RUSLE 模型的紫色丘陵区坡耕地水土保持研究.水土保持学报，2010,24（3）：39-44，251-251.  
+[4]PowerJF,sRJK.ateaeprovetfgtesinrthadustralia/tewatJWdSQaiyinSemi-arid Agriculture.Saskatoon，Canada，1989：273-292.  
+[5]DoranJW,Colean,DC,BeiekDF,StewartBA.DfningSlQualityforASustainableEnviontSSpeialPublatoNo35.Soil Science Society of America and American Society of Agronomy，1994.  
+[6]Franzluebbers AJ.Principlas of soil conservationand management.Vadose Zone Journal,201o,9(1）：172-199.  
+[7］中华人民共和国农业部种植业管理司.NY/T1634—2008 耕地地力调查与质量评价技术规程.北京：中国农业出版社，2008.  
+[8］刘世梁，傅伯杰，刘国华，马克明.我国土壤质量及其评价研究的进展.土壤通报，2006,37（1）：137-143.  
+[9] 韩晓增，邹文秀，陆欣春，段景海.旱作土壤耕层及其肥力培育途径.土壤与作物，2015，4(4)：145-150.  
+[10] 李学敏，翟玉柱，李雅静，刘全凤，王振明.土体构型与土壤肥力关系的研究.土壤通报，2005，36(6)：975-977.  
+[11］郭旭东，邱扬，连纲，王静，张爱萍.基于PSR框架，针对土壤侵蚀小流域的土地质量评价.生态学报，200，24（9)：1884-1894.  
+[12］路婕，李玲，吴克宁，赵华甫，黄勤.基于农用地分等和土壤环境质量评价的耕地综合质量评价.农业工程学报，2011,27（2）：323-329.  
+［13］中国科学院南京土壤研究所.土壤物理分析.北京：科学出版社，1978.  
+［14］中国科学院南京土壤研究所.土壤理化分析.上海：上海科学技术出版社，1978.  
+[15]ShiD,WangW,JgGYgXD,Y,YX,ngetsfisubeldfosoateretentoucurbanization process in the Three Gorges Reservoir Region，China.CATENA 2016,144：84-93.  
+[16］张国平，郭澎涛，王正银，刘洪斌.紫色土丘陵地区农田土壤养分空间分布预测.农业工程学报，2013，29(6)：113-120.  
+[17］刘洁，李贤伟，纪中华，张健，张良辉，周义贵.元谋干热河谷三种植被恢复模式土壤贮水及入渗特性.生态学报，2011，31（8)：2331-2340.  
+[18］孟秦倩，王健，吴发启.延安丘陵沟壑区坡面果园土壤水库特征.灌溉排水学报，2008，27(1)：93-95，99-99.  
+[19］王德银，唐朝生,李建，骆晓伟，施斌.干湿循环作用下膨胀土的贯入特性试验研究.岩土力学,2016,37（1)：57-65，75-75.  
+[20］朱波，况福虹，高美荣，汪涛，王小国，唐家良.土层厚度对紫色土坡地生产力的影响.山地学报，2009,27(6)：735-739.  
+[21］许明祥，刘国彬，赵允格.黄土丘陵区侵蚀土壤质量评价.植物营养与肥料学报，2005，11（3）：285-293.  
+22essand Tillage Research,2000,57(3): 115-127.  
+[23]KosmsrotisrataoessZfo,enverGQuiVostK.etsoflgeispcdolon soil properties and wheat biomass.Soil and Tillage Research,2001,58(1/2): 31-44.  
+［24］聂小军，苏艳艳.川中丘陵区紫色土坡耕地土壤侵蚀特征.生态环境学报，2012，21(4）：682-686.  
+[25］陈奇伯，王克勤，李金洪，朱国进，李跃.元谋干热河谷坡耕地土壤侵蚀造成的土地退化.山地学报，2004,22（5)：528-532.  
+[26] 史德明，韦启潘，梁音，杨艳生，吕喜玺.中国南方侵蚀土壤退化指标体系研究.水土保持学报，2000,14（3）：1-9.  
+[27］）王志强，刘宝元，王旭艳，高晓飞，刘刚.东北黑土区土壤侵蚀对土地生产力影响试验研究.中国科学 D辑：地球科学，2009,39(10)：1397- 1412.28] 郭云周，刘建香，涂仕华，贾秋鸿，赵德柱.土壤侵蚀对坡耕地生产力影响的模拟研究.土壤通报，2012，43（6)：1480-1485.  
+[29]丁启朔，丁为民，潘根兴，姬长英.土壤宏观力学结构与精准耕作.中国农业科学,2012,45(1)：26-33.  
+[30] 蔡崇法，丁树文，张光远，黄丽，王道合.三峡库区紫色土坡地养分状况及养分流失.地理研究，1996,15(3)：77-84.  
+[31］何毓蓉，黄成敏.四川紫色土退化及其防治.山地研究，1993，11(4)：209-215.  
+[32] 史德明，姚宗虞，许心鵠.江西省兴国县紫色土地区的土壤侵蚀及其防治方法.土壤学报，1965，13（2)：181-193.  
+[33］何毓蓉，周红艺，张保华，黄成敏，张丹，杨万勤，宫阿都.金沙江干热河谷典型区土壤退化机理研究——土壤侵蚀对土壤退化的作用.水土保持学报，2002，16(3)：24-27.

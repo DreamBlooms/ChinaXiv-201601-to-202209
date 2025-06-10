@@ -1,0 +1,318 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced thermoelectric performance in p-type polycrystalline SnSe benefiting from texture modulation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yajie Fu,ab Jingtao Xu,b Guo-Qiang Liu,b Jingkai Yang,a Xiaojian Tan,b Zhu Liu,b Haiming Qin,b Hezhu Shao,b Haochuan Jiang,b Bo Liang\\*ä and Jun Jiang\\*b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tin selenide (SnSe) compound has atracted much attention due to its unprecedented high ZT $( \\sim 2 . 6 )$ in singlecrystals.The polycrystalline SnSe materialswere then prepared to improve the mechanical performance for large-scaled application.However,the $Z T$ values of $_ { 0 . 3 - 0 . 8 }$ were much lower due to their poor electrical properties.In the present study,the zone melting method is employed to prepare the polycrystaline SnSe samples,which show highly textured structuresand strong anisotropic thermoelectric performance.A maximum power factor $( S ^ { 2 } \\sigma )$ of $9 . 8 ~ \\mu \\mathsf { W } \\mathsf { c m } ^ { - 1 } ~ \\mathsf { K } ^ { - 2 }$ was obtained in the polycrystalline samples,which is comparable with that of SnSe single crystals,resulting in a peak $Z T$ of 0.92 at $8 7 3 ~ { \\mathsf { K } } .$ （204号 The zone-melted ingot was then pulverized into powders and the bulk material was prepared by the spark plasma sintering (SPS) technique.As a result, the $Z T$ value was enhanced to be over 1.0,owing to theslight reduction of latice thermal conductivity and maintenance of electrical performance.The present investigation indicates that the TE performance of the SnSe compound can be significantly improved by the texture modulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thermoelectric (TE) materials are gaining increased attention due to their ability to convert between heat and electricity.1-4 The efficiency of TE materials is evaluated bya dimensionless figure of merit, as $Z T = S ^ { 2 } \\sigma T / ( \\kappa _ { \\mathrm { e } } + \\kappa _ { \\mathrm { l a t } } )$ ,where $S , \\sigma , \\kappa _ { \\mathrm { e } } , \\kappa _ { \\mathrm { l a t } }$ and $T$ are the Seebeck coefficient,electrical conductivity,electron thermal conductivity，lattice thermal conductivity，and the absolute temperature,respectively.To optimize the TE performance, one needs to enhance the power factor $\\left( S ^ { 2 } \\sigma \\right)$ by microscopic/ electronic structure modification $\\begin{array} { l } { 5 { - } 8 } \\\\ { . } \\end{array}$ or reduce the lattice thermal conductivity by additional phonon scattering.9-12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rock-salt structure IV-VI compounds,such as PbTe,PbSe, PbS and SnTe,are among the best TE materials in the middle to high temperature range (600-920 K).5,12-15 Another IV-VIcompound, orthorhombic tin selenide (SnSe) has received much attention due its potential application in photovoltaic applications,electronic memory devices,and lithium intercalation batteries.16-18 The electrical properties of SnSe have also been investigated in hot-pressed (HP) samples.19 The as-prepared sample is n-type, with a maximum power factor of $\\sim 0 . 7 \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ .However, SnSe had been rarely regarded as a promising TE material until a surprising record $Z T$ of 2.6 was reported in its p-type single crystals (sCs).2o SnSe adopts a layered structure crystallized in the orthorhombic Pnma space group at room temperature. Around $7 5 0 ~ \\mathrm { K } ,$ ,this compound undergoes a shear phase transition, turning to a higher symmetry Cmcm space group.2o Strong anisotropic properties were observed due to the layered structure, and high TE performance was obtained in the $b { - } c$ plane, $e . g .$ ，the highest ZT value of2.6 at $9 2 3 \\mathrm { ~ K ~ }$ was along the $b$ axis,and the $Z T$ valueof 2.3wasalong the $c$ axis.While along the $a$ axis,the $Z T$ value of o.8 was much lower. The largest power factor $\\left( S ^ { 2 } \\sigma \\right)$ of $1 0 ~ { \\mu \\mathrm { W } } ~ \\mathrm { c m } ^ { - 1 } ~ \\mathrm { K } ^ { - 2 }$ was found along the $b$ axis.20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Considering that the poor mechanical performance of SnSe single crystals limits their large-scaled application,the SnSe polycrystalline materials were then prepared.However, their TE performance was found to be much poorer than that in SCs. Pellets of SnSe compressed by hot pressing (HP) or spark plasma sintering (SPS) methods show that ZTs were below $0 . 6 . ^ { 2 1 , 2 2 }$ To improve the TE performance,Ag-doping was adopted to tune the carrier concentration,21 and S-doping was adopted to reduce the thermal conductivity.23 The maximum $Z T$ value in doped polycrystalline SnSe increased to be about 0.8.2³ Generally, in the reported polycrystalline samples,the power factor $\\left( S ^ { 2 } \\sigma \\right)$ was observed to be below $5 ~ \\mu \\mathrm { W } \\thinspace \\mathrm { c m } ^ { - 1 } ~ \\mathrm { K } ^ { - 2 }$ and it is much lower than those in SnSe SCs.20-23 Very recently, Zhang et al.24 found that the iodine-doped SnSe turns out to be a n-type semiconductor with a maximum $Z T$ of $\\sim 1 . 0$ .However, the maximum power factor in the n-type SnSe samples, $\\sim 3 . 8  { \\mu \\mathrm { W } }  { \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 } }$ ，is still much lower than that in SCs.20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the SnSe compound adopts a layered structure,the TE properties are anisotropic and strongly depend on the grain orientation.However,the reported SnSe polycrystalline materials exhibit poor grain orientation,23-25 which should be responsible for the largely reduced power factor.If the SnSe grains are preferentially aligned along the favorable transport directions through the control of crystallographic texture,the electrical properties could be expected to be higher.In polycrystalline compounds,such as ${ \\bf B i } _ { 2 } \\mathrm { T e } _ { 3 }$ ， $\\mathrm { I n } _ { 4 } \\mathrm { S e } _ { 3 }$ ，and $\\mathbf { C a _ { 3 } C o _ { 4 } O _ { 9 } }$ ，high TE performance has been obtained in the well oriented samples.26-29 Since the zonemelting (ZM) method is a proven strategy for preparing materials with preferred orientation,26,27 the textured SnSe samples were prepared through this method in the present study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An orientation factor of 0.98 for the $b { - } c$ plane was obtained, showing that the prepared samples were highly textured.As a result, the power factor reached $9 . 8 ~ \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ and the peak ZTvalue wasabout O.92 at $\\sim 8 7 3 \\mathrm { ~ K ~ }$ .With the reduction of lattice thermal conductivity by refining the grain sizes,a $Z T$ value over1.0 wasachieved. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Synthesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SnSe polycrystalline samples were synthesized by the direct reaction of stoichiometric amounts of elemental tin (Sn $9 9 . 9 9 9 \\% )$ and selenium (Se, $9 9 . 9 9 9 \\%$ in a sealed quartz tube $( 1 0 ^ { - 4 }$ Torr).The tube was heated to $^ { 1 1 9 3 \\mathrm { ~ K ~ } }$ for $^ \\textrm { \\scriptsize 2 h }$ ,using a rocking furnace to ensure composition homogeneity.The tube was then taken out and naturally cooled to room temperature.A cylindrical bulk ingot of $7 0 \\mathrm { m m }$ length was obtained after being zone-melted at $1 1 9 3 \\mathrm { ~ K ~ }$ at a growing speed of $1 0 . 5 \\ \\mathrm { m m } \\ \\mathrm { h } ^ { - 1 }$ .For comparison,another ZM ingot was prepared using the same preparation process.Fine powders were obtained by grinding the ZM ingot,which were sieved into particles of $5 0 \\mathrm { - } 7 0 ~ \\mu \\mathrm { m }$ and below $5 0 \\mu \\mathrm { m }$ .The powders were then densified by spark plasma sintering (SPS-211LX,Fuji Electronic Industrial Co.，Ltd） at $7 5 3 \\mathrm { ~ K ~ }$ for $5 ~ \\mathrm { m i n }$ under a uniaxial pressure of $5 5 ~ \\mathrm { { M P a } }$ .Disk-shaped pellets with dimensions of $1 0 ~ \\mathrm { m m }$ diameter and $1 0 ~ \\mathrm { m m }$ thickness were obtained. $2 \\ \\mathrm { m m } \\times 2 \\ \\mathrm { m m } \\times 1 0 \\ \\mathrm { m m }$ barsand $\\Phi \\ 1 0 \\ \\mathrm { m m } \\ \\times \\$ $1 . 5 \\mathrm { m m }$ plates were cut parallel and perpendicular to the growth direction for the ZM method or perpendicular to the press direction for the SPS method to measure the electrical and thermal transport properties,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fractured surfaces were observed by scanning electron microscopy (SEM,Quanta FEG 250,FEI Co.).Energy dispersive X-ray spectroscopy (EDXs) was performed using the Si (Li) detector of an EDAX system (Gemsis Software V4.61) to confirm the actual composition of the samples.As shown in Table 1, the real ratio of Sn to Se for all the samples is close to 1:1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/45a2699d15d1a4301c74878c84176a78f7a4472be0c48a008732a2c90a077d7b.jpg",
+        "table_caption": [
+            "Table1 Real composition and density of the SnSe samples in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>Composition density (g cm-3)</td><td>Theoretical</td><td>Measured density (g cm-3)</td><td>Relative density (%)</td></tr><tr><td>ZM</td><td>Sno.9gSe</td><td>6.19</td><td>6.042</td><td>97.6</td></tr><tr><td></td><td>ZM-SPS-1 Sn1.03Se</td><td></td><td>6.037</td><td>97.5</td></tr><tr><td></td><td>ZM-SPS-2 Sn1.02Se</td><td></td><td>6.035</td><td>97.5</td></tr><tr><td>SPS22</td><td>SnSe0.99</td><td></td><td>5.92</td><td>95.6</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phase structure and grain orientation of the samples were checked by the $\\mathbf { X } \\mathbf { \\cdot }$ -ray diffraction (XRD,Bruker D8,Germany) using Cu $\\mathbf { \\Delta K } \\mathfrak { a }$ radiation $\\left( \\lambda = 1 . 5 4 0 6 \\mathrm { ~ \\AA } \\right)$ at room temperature.The Seebeck coefficient and electrical conductivity were measured simultaneously (ULVAC-RIKO ZEM-3) from $3 0 0 ~ \\mathrm { K }$ to $9 2 3 \\mathrm { ~ K ~ }$ The density was measured using the Archimedes principle.The relative density of all the samples is larger than $9 7 \\%$ of the theoretical value (details in Table 1).The total thermal conductivity, $\\kappa _ { \\mathrm { t o t } } ,$ was obtained from the specific heat $C _ { \\mathbf { P } } ,$ ，thermal diffusivity $D _ { i }$ and density $\\rho$ ，using the equation $\\kappa _ { \\mathrm { t o t } } ~ = ~ C _ { \\mathrm { P } } D \\rho$ . The thermal diffusivity $D$ was measured by the laser flash method (Netzsch, LFA-457,Germany).The uncertainty of the measurement of the Seebeck coefficient,electrical resistivity,and thermal diffusivity was about $5 \\%$ ，The Hall coefficient $R _ { \\mathrm { H } }$ was measured by a physical properties measurement system (Quantum Design，PPMS-9） in magnetic fields ranging from 0 to $5 \\mathrm { T } .$ 、The carrier concentration $n$ was calculated from the $R _ { \\mathrm { H } }$ using the formula $n = 1 / e R _ { \\mathrm { H } } ,$ and the carriermobility $\\mu$ was estimated as $\\mu = \\sigma / n e$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the X-ray diffraction (XRD) patterns of the ZM samples.The diffraction patterns can be indexed as the room temperature SnSe phase (JCPDS # 48-1224)，indicating an orthorhombic Pnma space group.The XRD analysis for the bulk sample was performed on the plane along the growth direction.The extremely strong peak at $3 1 . 1 0 ^ { \\circ }$ can be indexed as the (4oo) reflection.Similar results were observed in the cleavage $\\mathbf { S C } ^ { 2 0 }$ and hot-pressed SnSe samples.19 The ratio of $I _ { ( 4 0 0 ) }$ to $I _ { ( 1 1 1 ) }$ is15.26 (bulk),compared with the value of 0.52 for the standard diffraction pattern of SnSe (JCPDS # 48-1224), demonstrating an excellent preferred grain orientation.3o This observation is consistent with the obvious layered structure,as shown in the SEM image in Fig.1b.The SEM and XRD results indicate that the SnSe grains have preferentially grown along the (4oo) plane.The calculated orientation factor for the (400) plane of ZM samples, $F _ { ( 4 0 0 ) }$ ,is 0.98 according to the Lotgering method,31 indicating an excellent textured structure close to the ideal crystals.While the $F _ { ( 4 0 0 ) }$ of the reported polycrystalline samples is calculated to be below O.31 in the angle range $2 0 { - } 6 0 ^ { \\circ }$ (Table 2).23-25 In the samples sintered under uniaxial pressure, the direction perpendicular to pressure orientates the (400) plane.22,24,25 To compare the TE properties of SnSe samples fabricated by different methods,here we define the direction which orientates the (4oo) as the $\\parallel$ direction,and the direction perpendicular to the previous one as the $\\perp$ direction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9147180a021b17f264a2f62de78c118649c9dc98373e2134160ce4af57ede730.jpg",
+        "img_caption": [
+            "Fig.1(a) XRD patterns of SnSe samples and (b) the SEM image of the fracture surface. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/948f79fe657ad1bd4c820bda6159363ca142e82325648c67b6780694c6f5e225.jpg",
+        "table_caption": [
+            "Table2 The orientation factor $F$ for (40O) plane of the SnSe samples in the diffraction angle range from $2 0 ^ { \\circ }$ to $6 0 ^ { \\circ }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>ZM</td><td>ZM-SPS-1</td><td>ZM-SPS-2</td><td>SPS23</td><td>Hp24</td><td>SPS25</td></tr><tr><td>F(400)</td><td>0.98</td><td>0.66</td><td>0.45</td><td>0.22</td><td>0.04</td><td>0.31</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 2a, the $\\sigma _ { | | } / \\sigma _ { \\perp }$ is larger than 3 in the measured temperature range，demonstrating a very strong anisotropic behavior.Both $\\sigma _ { \\parallel }$ and $\\sigma _ { \\bot }$ showa similar temperature dependence. With increasing temperature,the electrical conductivity firstly shows a mild decrease and then increases sharply.At a temperature of about $6 2 3 \\mathrm { ~ K ~ }$ ，ametal-semiconductor transition is observed. Moreover, the Seebeck coefficient reaches its maximumat the same temperature and then starts to decrease at higher temperatures, probably due to the excitation of minority charge carriers.³² At $7 5 0 \\mathrm { ~ K ~ }$ ，the structural phase transition from Pnma to Cmcm induces a rapid rise of electrical conductivity due to the decreased band gap from 0.61 eV to $0 . 3 9 \\ \\mathrm { e V } . ^ { 2 0 }$ Above $8 2 3 \\ \\mathrm { K } ,$ ，the electrical conductivity decreases with increasing temperature，probably due to the increasing electron-phonon scattering.The peak $\\sigma _ { \\parallel }$ of $6 1 . 4 ~ \\mathrm { S ~ c m } ^ { - 1 }$ is achieved at $8 2 3 ~ \\mathrm { K }$ ,much higher than those of the hot-pressed samples $\\left( 1 6 . 3 \\mathrm { ~ S ~ } \\mathrm { c m } ^ { - 1 } \\right.$ at $7 5 0 \\mathrm { ~ K } ) ^ { 2 1 }$ and SPS samples $\\left( 3 1 . 3 \\mathrm { ~ S ~ c m } ^ { - 1 } \\right.$ at 817 K).²² As presented in Table 3, the Hall mobility of $\\mathbf { Z } \\mathbf { M } _ { | | }$ is comparable to those of SCs,20 suggesting that the electrical conductivity benefits from the highly preferred orientation.The layered structure leads to anisotropy in the electrical and thermal transport in the SnSe single crystals.A higher in-plane, $b { - } c$ plane,carrier mobility has been found in single crystalline SnSe.2o The outstanding grain orientation and obvious large-scale layered structure presented in ZM SnSe result in a strong anisotropy of the grain boundary concentration in the $\\parallel$ and $\\perp$ directions.The strong grain boundary concentration anisotropy in ZM samples relative to the poor anisotropy in sintered samples leads to a difference on grain boundary in the $\\parallel$ direction.Thus the electrons suffer less scattering in the I direction in ZM samples,leading to a higher Hall mobility. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f07f554a4fbc66abc62bc1294bb2d5ebc7134ef58fa2b6ff6f07a12498b7db53.jpg",
+        "img_caption": [
+            "Fig2epribtdai The data of $\\mathsf { S C } ^ { 2 0 }$ and polycrystalline samples prepared by ${ \\mathsf { H P } } ^ { 2 1 }$ and $\\mathsf { S P S } ^ { 2 2 }$ are plotted for comparison. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/03eeb83f5647f3a577ffcfbf4c9fdd60c595259c91f762afc708a0f147296b55.jpg",
+        "table_caption": [
+            "Table 3Electrical conductivity $( \\sigma )$ ，carrier concentration (n) and Hall mobility $( \\mu )$ in the Il direction of the SnSe samples obtained by different methods at $3 0 0 \\ K . \\ Z M - S P S - 1 _ { \\| }$ and $Z M - S P S - 2 _ { \\parallel }$ represent the samples sintered with starting particle sizes of $5 0 - 7 0 ~ { \\mu \\mathrm { m } }$ and $< 5 0 ~ \\mu \\mathrm { m }$ after $Z M .$ （20 respectively "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>σ (S cm-1)</td><td>n (1017 cm-3)</td><td>μ (cm² v-1 s-1)</td></tr><tr><td>ZMII</td><td>13.51</td><td>5.07</td><td>166.56</td></tr><tr><td>ZM-SPS-1|I </td><td>1.78</td><td>5.25</td><td>19.92</td></tr><tr><td>ZM-SPS-2|I</td><td>0.34</td><td>1.66</td><td>12.81</td></tr><tr><td>SC-b axis20</td><td>10.53</td><td>2.64</td><td>245</td></tr><tr><td>SC-c axis20</td><td>12.54</td><td>5.89</td><td>130</td></tr><tr><td>HPI21</td><td>1.59</td><td>2.50</td><td>44.67</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$s$ and $\\sigma$ show a reversed trend in the whole temperature range (Fig.2b). Different from the anisotropic electrical conductivity, the Seebeck coefficient of the ZM samples is fairly isotropic.In the temperature range 30o-9oo K, the Seebeck coefficient of ZM ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2c presents the temperature dependence of the power factors $\\left( S ^ { 2 } \\sigma \\right)$ for the SnSe samples.Similar to the electrical conductivity，the $S ^ { 2 } \\sigma$ in the two directions show a similar temperature dependence,an initial mild decrease followed with an obvious increase. $S ^ { 2 } \\sigma _ { \\parallel }$ is much higher than $S ^ { 2 } \\sigma _ { \\perp }$ ,owing to the anisotropic electrical conductivity. Benefiting from the large electrical conductivity, $S ^ { 2 } \\sigma _ { \\parallel }$ reaches about $9 . 8 2 ~ \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ at $8 7 3 \\ \\mathrm { K } .$ As mentioned above,in polycrystalline SnSe prepared by HP and SPS, the maximum $S ^ { 2 } \\sigma$ is only $\\sim 5 \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ 21-25 The large enhancement of $\\scriptstyle { S ^ { 2 } { \\boldsymbol { \\sigma } } }$ provides an opportunity to improve the TE performance of polycrystalline SnSe to the level of SCs.2o ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asshown in Fig.2d,the thermal conductivity $\\kappa _ { \\mathrm { t o t } }$ also exhibits a strong anisotropic behavior.With increasing temperature, the $\\kappa _ { \\mathrm { t o t } }$ first decreases gradually,and then exhibits an abrupt increase around $7 5 3 ~ \\mathrm { K } ,$ ，and finallydecreases from $8 7 3 \\mathrm { ~ K ~ }$ ，The increase of $\\kappa _ { \\mathrm { t o t } }$ near $7 5 3 \\mathrm { ~ K ~ }$ is related to the Pnma-Cmcm phase transition. The $\\kappa _ { \\parallel }$ is 1.71 W $\\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ at $3 0 0 \\mathrm { ~ K ~ }$ and becomes lower than $1 . 0 0 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ above $6 0 0 \\mathrm { K }$ ；the $\\kappa _ { \\perp }$ is $0 . 8 4 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ at $3 0 0 \\mathrm { ~ K ~ }$ and then lower than $0 . 4 5 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ above $6 0 0 \\mathrm { K }$ .Similar to the polycrystalline samples prepared by $\\mathrm { H P } ^ { 2 1 }$ or $\\mathrm { S P S } ^ { 2 2 }$ methods, ZM samples also show higher thermal conductivity than SCs.20 The total thermal conductivity is mainly combined with the electronic contribution $\\kappa _ { \\mathrm { e } }$ and the lattice contribution $\\kappa _ { \\mathrm { l a t } } ,$ as $\\kappa _ { \\mathrm { t o t } } = \\kappa _ { \\mathrm { e } } + \\kappa _ { \\mathrm { l a t } } .$ The electronic contribution can be evaluated by the Wiedemann-Franz law, $\\kappa _ { \\mathrm { e } } = L \\sigma T . ^ { 3 , 3 3 }$ Here,a Lorenz number, $L$ of $\\sim 1 . 4 9 \\times 1 0 ^ { - 8 } \\mathrm { V } ^ { 2 } \\mathrm { K } ^ { - 2 }$ (Fig. 3a), is obtained by fitting the Seebeck data to the reduced chemical potential,34-36 which is consistent with the previous report by Zhao et al.2o The calculated $\\kappa _ { \\mathrm { e } }$ and $\\kappa _ { \\mathrm { l a t } }$ are presented in Fig.3b.The $\\kappa _ { \\mathrm { l a t } } / \\kappa _ { \\mathrm { t o t } }$ is found to be over $9 2 \\%$ ，indicating that the thermal conductivity of the SnSe compound is dominated by the phonon transport. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows $Z T$ values as a function of temperature for the ZM samples.In the temperature range $3 0 0 { - } 7 5 0 \\ \\mathrm { ~ K ~ }$ ，the ZM samples show ZTs similar to the reported polycrystalline samples, whereas $\\mathbf { Z } \\mathbf { M } _ { \\parallel }$ possesses much higher ZTs above $7 5 0 \\mathrm { ~ K ~ }$ In particular， the maximum ZT reaches 0.92 at 873 K.From Fig.2c and d,it can be found that the improved TE performance of $\\mathbf { Z } \\mathbf { M } _ { | | }$ is mainly due to the much higher power factor $\\left( S ^ { 2 } \\sigma \\right)$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f6bce2cd9d87e7400b799809c87106c26dcf79e0337dde996125a67de1b775a.jpg",
+        "img_caption": [
+            "Fig.3(a) Lorenz number,Land,(b) lattice thermal conductivity $\\kappa _ { \\mathsf { l a t } }$ (filled points) and electronic thermal conductivity $\\kappa _ { \\mathrm { e } }$ (open points) as functions of temperature for SnSe. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdd10f932e8c37665d6ce609d8ccae05113850e18d0013e3a2003b3307be032b.jpg",
+        "img_caption": [
+            "Fig.4 ZTas a function of temperature for ZM SnSe samples.The data of SC samples2° and polycrystalline samples prepared by ${ \\mathsf { H P } } ^ { 2 1 }$ and $\\mathsf { S P S } ^ { 2 2 }$ are plotted for comparison. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c20457a8ebcbbf0da77815c5c467b7112721feaf1e4e361f29cd285d692dbd.jpg",
+        "img_caption": [
+            "Fig.5 XRD patterns of ZM-SPS samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd50f474dbe87da5585736254981b786f31a2a591991d8d46a91c1b92536868e.jpg",
+        "img_caption": [
+            "Fig.6SEM images of the freshly fractured surfaces for ZM-SPS-1(a) and (b) and ZM-SPS-2 (c) and (d),respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further enhance $Z T s$ ,itis essential to significantlyreduce the relatively high $\\kappa _ { \\parallel }$ ,and maintain the electrical performance simultaneously. Here,we increase the grain boundary scattering by grain size refinement and suppress the $\\mu$ deterioration by regaining the oriented textures.In detail, the ZM ingot was crushed into powders with two kinds of particle size distributions, that is, $5 0 \\mathrm { - } 7 0 ~ \\mu \\mathrm { m }$ and $< 5 0 ~ \\mu \\mathrm { m }$ ，and then compressed by SPs, donated as ZM-SPS-1 and ZM-SPS-2,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 displays the XRD patterns of the ZM-SPS samples.The patterns for different directions show strong anisotropy. The SEM results (Fig.6) indicate that the sample with original particle size of $5 0 \\mathrm { - } 7 0 ~ \\mu \\mathrm { m }$ has a better grain orientation than the one with size of $< 5 0 ~ \\mu \\mathrm { m }$ .The $F _ { ( 4 0 0 ) }$ of ZM-SPS samples reaches O.66,which is also much higher than those of the previously reported samples.23-25 As shown in the SEM image, the grains align along the same direction generally.The connection between grains is much better than that reported by S. Sassi et al.,22 which is beneficial for electron transport. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The TE properties of ZM-SPS samples along the $\\parallel$ direction, denoted as $\\mathbf { Z M - S P S { - } 1 } _ { \\parallel }$ and $\\mathbf { Z } \\mathbf { M } { \\cdot } \\mathbf { S } \\mathbf { P } \\mathbf { S } { \\cdot } \\mathbf { } \\mathbf { - } \\mathbf {  { 2 } } _ { \\parallel }$ ,are presented in Fig.7. The electrical and thermal properties of $\\mathbf { Z } \\mathbf { M } \\mathbf { \\cdot } \\mathbf { S } \\mathbf { P } \\mathbf { S } _ { \\parallel }$ samples show good consistence. From $3 0 0 ~ \\mathrm { K }$ to $7 5 0 \\mathrm { K }$ ,both the $S ^ { 2 } \\sigma$ and $\\kappa _ { \\mathrm { t o t } }$ of the $\\mathbf { Z M - S P S } _ { \\parallel }$ samples are close to the $\\mathrm { \\bf S P S } _ { \\parallel }$ samples.2² The $S ^ { 2 } \\sigma$ of $\\mathbf { Z M - S P S } _ { \\parallel }$ samples exhibits a steep rise above $7 5 0 ~ \\mathrm { K }$ ,in contrast to the decrease of the $\\mathrm { \\bf S P S } _ { \\parallel }$ samples.22 The power factor of $\\mathbf { Z M - S P S { - } 1 } _ { | | }$ reaches $8 . 4 ~ { \\mu \\mathrm { W } } ~ \\mathrm { c m } ^ { - 1 } ~ \\mathrm { K } ^ { - 2 }$ at $8 7 3 \\ \\mathrm { K } .$ Though it is lower than that of the $\\mathbf { Z } \\mathbf { M } _ { | | }$ samples due to the weakened texture and smaller grain sizes, it is still much higher than other samples.21-25 On the other hand,the thermal conductivity of $\\mathbf { Z M } { \\mathbf { \\cdot S P S } } { \\mathbf { \\cdot 1 } } _ { \\parallel }$ starts to increase at $7 5 0 \\mathrm { K }$ ,showing a different tendency from that of the $\\mathrm { \\bf S P S } _ { \\parallel }$ samples.22 The thermal conductivity of $\\mathbf { Z M - S P S } _ { | | }$ samples is systematically lower than that of $\\mathbf { Z M } _ { | | }$ samples,originating from the reduction of $\\kappa _ { \\mathrm { l a t } }$ (Fig.3b),since $\\kappa _ { \\mathrm { l a t } }$ dominates the thermal conductivity in the SnSe system.The reduction of the microscale grain size increased the chance of phonon scattering,resulting in the reduction of $\\kappa _ { \\mathrm { l a t } }$ At $8 7 3 \\ \\mathrm { K } ,$ the thermal conductivity for both ZM$\\mathrm { \\bf S P S } _ { \\parallel }$ samples is decreased to be about $0 . 7 0 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ ,witha $\\kappa _ { \\mathrm { l a t } }$ of 0.63 W $\\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 1 }$ $2 6 \\%$ reduction of $\\kappa _ { \\mathrm { l a t } }$ relative to the $\\mathbf { Z M } _ { | | }$ samples. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.8, the $Z T$ values of $\\mathbf { Z M - S P S } _ { | | }$ samples are close to those of SPS samples in the temperature range $3 0 0 { - } 7 0 0 \\mathrm { K } , ^ { 2 2 }$ while they are rather closer to those of the $\\mathbf { Z M } _ { | | }$ samples above $7 5 0 \\mathrm { K }$ The maximum $Z T$ value of the $\\mathbf { Z M - S P S { - } 1 } _ { | | }$ sample is about 1.05 at $8 7 3 \\ \\mathrm { K } ,$ which is the highest value in p-type polycrystalline SnSe samplesso far.As shown in Fig.7c andd, the enhancement of $Z T$ mainly originates from the reduction of thermal conductivity $\\left( \\sim 0 . 7 0 \\mathrm { ~ W ~ m ~ } ^ { - 1 } \\mathrm { ~ K ~ } ^ { - 1 } \\right.$ at 873 K). It is still much higher than that of SC samples $\\left( \\sim 0 . 3 5 \\textrm { W } \\textrm { m } ^ { - 1 } \\textrm { K } ^ { - 1 } \\right.$ at 873 K),20 indicating that there are great opportunities to further enhance the TE performance by tuning the electrical and thermal properties for SnSe polycrystalline materials. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4e09385a560ef97063bceb40b4bb512e04888e4a1f90e81dafd4465de3d3310.jpg",
+        "img_caption": [
+            "Fig.7Tempaturedcfectralucti)ftctotatti ZM-SPSI. The data of the ZM and SPS samples2² are inserted for comparison. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4889f17be992b074047a8ff03aca7fefe6f1afbf785b23e0d589df39dc179f4.jpg",
+        "img_caption": [
+            "Fig.8 ZTas a function of temperature for SnSe samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Highly textured polycrystalline SnSe samples were prepared by the zone melting method. The samples achieve an excellent orientation factor of 0.98 for the $b { - } c$ plane.Owing to the highly textured structure，polycrystalline SnSe exhibits high Hall mobility,leading to good electrical properties.The power factor reaches $9 . 8 2 \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ at $8 7 3 \\mathrm { ~ K ~ }$ ,twice as those reported for polycrystalline SnSe.The great enhancement provides a good opportunity to improve the TE performance of polycrystalline SnSe.The maximum $Z T$ of ZM SnSe reaches O.92 at $8 7 3 \\ \\mathrm { \\ K } .$ Moreover, the thermal conductivity was reduced from 0.92 to 0.70 W $\\mathrm { m } ^ { - 1 } \\ \\mathrm { K } ^ { - 1 }$ at $8 7 3 ~ \\mathrm { ~ K ~ }$ by introducing grain boundary scattering,leading to a peak $Z T$ of $\\sim 1 . 0 5$ .Our results suggest that the TE performance of well textured SnSe could be further enhanced by increasing phonon scattering. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Nature Science Foundation of China (No.11304327,11404348,11404350,and 11234012),the Ningbo Municipal Natural Science Foundation (No.2014A610011), the Ningbo Science and Technology Innovation Team (No. 2014B82004),and the Zhejiang Provincial Science Fund for Distinguished Young Scholars (LR16E20001). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1H. J.Goldsmid,Thermoelectric refrigeration,1964. 2 B.Poudel,Q.Hao,Y.Ma,Y.C.Lan,A.Minnich,B.Yu, X.Yan，D.Z.Wang，A.Muto，D.Vashaee,X.Y.Chen, J. M.Liu, M. S.Dresselhaus,G. Chen and Z.F.Ren, Science, 2008,320,634-638. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3G.J.Snyder and E.S.Toberer,Nat.Mater.,2008,7,105-114.   \n4 S.1. Kim, K. H. Lee, H. A. Mun, H. S. Kim, S. W. Hwang, J. W.Roh, D. J. Yang, W. H. Shin, X. S.Li and Y. H. Lee, Science,2015,348,109-114.   \n5Q.Zhang,E.K. Chere,K. M.Enaney，M.L. Yao,F.Cao, Y.Z.Ni,S.Chen,C. Opeil,G.Chen and Z. F. Ren,Adv. Energy Mater.,2015,5,1401977.   \n6 Y.Z. Pei,A.F.May and G.J. Snyder,Adv. Energy Mater., 2011,   \n1,291-296.   \n7 J.H. Sui, J.Li, J.Q.He,Y. L.Pei, D.Berardan,H.J.Wu, N.Dragoe,W.Cai and L.D. Zhao,Energy Environ. Sci.,2013,   \n6,2916-2920.   \n8 Y. Z. Pei, X. Y. Shi, A. LaLonde,H. Wang,L. D. Chen and G. J.Snyder,Nature,2011,473,66-69.   \n9 S.R.Culp,J.W.Simonson，S. J.Poon,V.Ponnambalam, J. Edwardsm and T.M. Tritt,Appl. Phys.Lett.,2008,93,022105.   \n10 J. Jiang, L. Chen, S. Bai,Q. Yao and Q. Wang,J. Mater. Sci. Eng.B,2005,117,334-338.   \n11 J.Androulakis,K.F.Hsu,R.Pcionek,H. Kong,C.Uher, J. J.Dangelo,A.Downey,T.Hogan and M.G. Kanatzidis, Adv.Mater.,2006,18,1170-1173.   \n12 K.Biswas, J. Q.He,I. D.Blum,C. I. Wu, T. P. Hogan, D. N. Seidman, V. P. Dravid and M. G. Kanatzidis, Nature,   \n2012, 489, 414-418.   \n13D.Wu,L.D.Zhao,X.Tong,W.Li,L.J.Wu,Q. Tan,Y.L.Pei, L.Huang, J. F. Li, Y. M. Zhu, M. G. Kanatzidis and J. Q. He, Energy Environ. Sci.,2015,8,2056-2068.   \n14 H. Wang, Y. Z. Pei, A. D. Londe and G.J. Snyder,Adv. Mater.,   \n2011,23,1366-1370.   \n15 J.He,X. J. Tan, J. T. Xu, G.-Q.Liu,H. Z. Shao, Y. J. Fu, X. Wang, Z. Liu, J. Q. Xu, H. C. Jiang and J. Jiang,J. Mater. Chem. A, 2015,3,19974-19979.   \n16 C.H.Hu, M.H. Chiang, M. S.Hsieh, W. T.Lin,Y. S.Fu and T.F. Guo,CrystEngComm,2014,16(9),1786-1792.   \n17 K.M. Chung,D. Wamwangi，M. Woda,M. Wuttig and W.Bensch,J.Appl.Phys.,2008,103,083523.   \n18 M. Z. Xue, S.C. Cheng,J. Yao and Z.W.Fu, Acta Phys.-Chim. Sin.,2006,22,383-387.   \n19 S. Chen,K. Cai and W. Zhao,Phys. B,2012,407(21), 4154-4159.   \n20 L.D. Zhao,S.H. Lo, Y. Zhang,H. Sun,G. Tan, C. Uher, C. Wolverton, V. P. Dravid and M. G. Kanatzidis, Nature, 2014,508,373-377.   \n21 C.Chen,H.Wang,Y. Chen, T.Day and J. Snyder,J. Mater. Chem. A,2014,2,11171-11176.   \n22S. Sassi, C.Candol,J.B. Vaney,V. Ohorodniichuk,P.Masschelein, A.Dauscher andB.Lenoir,Appl.Phys.Lett.,2014,104,212105.   \n23 Y.Han,J. Zhao,M. Zhou, X. Jiang and H. Leng,J.Mater. Chem. A, 2015,3,4555-4559.   \n24 Q. Zhang,E. K.Chere, J. Sun,F. Cao,K. Dahal, S. Chen, G.Chen and Z.F.Ren,Adv.Energy Mater.,2015,5,1500360.   \n25 Y.L. Li, X. Shi, D. D. Ren, J. K. Chen and L. D. Chen, Energies,2015,8,6275-6285.   \n26 Y. Zhai,T. Zhang,Y. Xiao,J. Jiang,S. Yang and G. Xu, J. Alloys Compd.,2013,563,285-288.   \n27 Y. B. Zhai, Q. S. Zhang,J. Jiang,T. Zhang, Y. K. Xiao, S. H. Yang and G. J. Xu,J. Mater. Chem. A, 2013,1, 8844-8847.   \n28 O.Ben Yehuda,R. Shuker,Y.Gelbstein,Z.Dashevsky and M.P.Dariel,J. Appl.Phys.,2007,101,113707.   \n29 M.Mikami,E.Guilmeau，R.Funahashi,K. Chong and D.Chateigner,J. Mater.Res.,2005,20,2491-2497.   \n30 X. Yan, B. Poudel, Y. Ma,W. S. Liu, G. Joshi, H. Wang, Y. C. Lan, D. Z. Wang, G. Chen and Z. F. Ren, Nano Lett., 2010,10,3373-3378.   \n31 F.K. Lotgering,J. Inorg. Nucl. Chem.,1959,9,113-123.   \n32J.Fan,W.C. Cabrera,L.Akselrud,I.Antonyshyn,L.D. Chen and Y. Grin, Inorg. Chem., 2013,52,11067-11074.   \n33 A.Bejan and A.D. Kraus,Heat transfer handbook,Wiley, New York, 2003.   \n34 S. Johnsen, J. He,J. Androulakis,V.P. Dravid, I. Todorov, D.Y. Chung and M. G. Kanatzidis,J. Am. Chem. Soc., 2011, 133,3460-3470.   \n35 A.F.May,J.P.Fleurial and G.J. Snyder，Phys.Rev. B: Condens.Matter Mater.Phys.,2008,78,125205.   \n36S.N.Girard,J.He,X.Zhou,D.Shoemaker,C.M. Jaworski, C. Uher, V.P. Dravid, J. P. Heremans and M. G. Kanatzidis, J.Am. Chem. Soc.,2011,133,16588-16597. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

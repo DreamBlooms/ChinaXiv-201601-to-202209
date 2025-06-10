@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "1  \n2 孤独症脑自发活动动态性及其整合的异常机制  \n3  \n4 鲁彬12，陈骁12，李乐12，沈杨千12，陈宁轩1²，梅婷³，周会霞12，刘靖，严超赣 $^ { 1 , 2 , 4 } *$ （204号  \n5  \n6 1中国科学院心理研究所行为科学重点实验室，北京，100101;  \n7 ²中国科学院大学心理学系，北京，100049;  \n8 3北京大学第六医院，北京，100191；  \n9 4中国科学院心理研究所磁共振成像研究中心，北京，100101;  \n10  \n11 \\*E-mail: yancg@psych.ac.cn  \n12  \n13 国家重点研发计划（2017YFC1309900，2017YFC1309902）、国家自然科学基金（81671774,  \n14 81630031）、北京市科学技术委员会（Z16110000216152）和中国科学院百人计划项目基金资助  \n15  \n16",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：孤独症谱系障碍（autism spectrum disorder,ASD）是一种病因未明，发病率较高的神经发育疾病。目前大多数静息态功能磁共振成像（resting-state fMRI,R-fMRI）研究仅考察了ASD 患者脑活动的静态特征，忽视了动态特征。近期研究发现，不同R-fMRI局部指标的动态性之间存在一致性。本研究基于 ASD 公开数据库，使用滑动时间窗方法系统计算了 480名ASD 患者和539 名健康对照（typical control,TC）被试的主流R-fMRI局部指标的动态性及R-fMRI局部指标之间的一致性动态特征，并考察了这些指标与 ASD 行为指标之间的关系。我们发现 ASD 患者在外侧额叶呈现出动态性显著升高，该现象在低频振幅（amplitude of low-frequency fluctuations,ALFF）和度中心性（degree centrality,DC）的动态性中都有体现。我们也发现ALFF、DC 和局部一致性（regional homogeneity,ReHo）的动态性在视觉相关脑区，如梭状回、距状沟和舌回呈现下降。在进一步考察了这些指标之间的一致性动态特征后，发现 ASD 患者的一致性动态特征显著低于TC 组被试，表现出显著下降的功能整合能力。我们的结果表明 ASD 患者存在着脑自发活动动态性及其整合的异常。关键词：孤独症，静息态功能磁共振成像，局部指标，动态性，一致性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.引言  \n孤独症谱系障碍（autism spectrum disorder,ASD）是一种起病于婴幼儿时期的神经发育疾病，主要表现为社会交往和沟通障碍，局限性、刻板性行为和兴趣减弱[1]。美国流行病学研究显示，2012年，8岁儿童的估计患病率为1/68，男孩患病率为1/42，女孩则为 $1 / 1 8 8 ^ { [ 2 ] }$ 。中国ASD患病率为每万人5.49人，15岁以下人群的患病率为每万人16.1人[3]。目前，关于孤独症的病因和发病机制尚不清楚，识别与诊断仍限于依据单纯症状学层面的观察与临床医生的主观判断，亟需寻找客观的生物学标记来指导孤独症的临床诊断与治疗。近年来，科研工作者采用功能磁共振成像（functional magnetic resonance imaging,fMRI)技术探讨了 ASD 脑机制异常与生物学标记物,这已经成为ASD研究的一大流行趋势。静息态功能磁共振成像技术(resting-state fMRI,R-fMRI)拥有安全无创、兼具较高的空间和时间分辨率和简便易实施等特点，逐渐成为刻画ASD 脑自发活动紊乱的最具潜力的技术手段。  \n静息态功能磁共振成像研究发现，ASD与大脑自发活动的异常有关。ASD 患者存在不同脑区之间的功能连接（functional connectivity,FC）异常，功能连接的异常减弱（hypo-connectivity）[46]和增强（hyper-connectivity）[6,7] 在既往研究中均有报道。另外，ASD 也和 R-fMRI局部指标的异常有关。ASD 患者相较于 TC 被试在 ALFF 和比例低频振幅（fractional ALFF,fALFF）[7,8]、ReHo[9]、 $\\mathrm { D C } ^ { [ 1 0 ] }$ 以及镜像体素同伦连接（voxel-mirrored homotopic connectivity,VMHC）[11]上均存在异常。然而，这些研究的结果并不一致，这可能由这些研究所使用的小样本设计所导致[12]。Di Martino 等人[13]基于360 名ASD 样本以及403名TC 被试进行大样本研究，结果发现，相对于 TC 组，ASD 患者脑区间功能连接减弱广泛存在于全脑范围，而连接增强仅局限于部分皮下核团与初级感觉运动皮层间。而在R-fMRI 局部指标方面，ASD与 fALFF 和ReHo 在额叶的异常升高以及DC 和VMHC 在颞叶的异常降低有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，目前ASD 领域的大多数R-fMRI研究仅关注人脑活动的静态特征，忽视了人脑自发",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "活动在时间维度上的动态变化特征。有研究指出，人脑在多种时间尺度上通过动态的整合与调整从而对内部或外界刺激做出反应[14]。近年来，借助滑动窗（slidingwindow）方法，研究者对人类[15]和非人灵长类动物[自发脑活动的动态机制进行了探讨。在疾病方面，滑动窗FC方法有效地揭示了常见神经精神疾病患者如精神分裂症[17]（schizophrenia）、阿尔兹海默症[18]（Alzheimer'sdisease）、重性抑郁障碍[19]（major depresson disorder）、原发性全身癫痫[20]（idiopathic generalizedepilepsy)在脑功能动态性上的异常。ASD 研究方面，张捷等人[21]采用滑动窗FC方法探究了 ASD与人脑活动动态变异性之间的关系，结果发现，ASD 患者在额叶脑区存在动态变异性异常增高。Chen 等人[22]基于公开大数据集计算了ASD 患者的全脑动态FC，发现 ASD 患者存在广泛的长程动态功能连接变异性的异常升高。然而，只聚焦于FC 的动态特征远远不够，因为高时空分辨率的成像技术揭示出局部神经活动本身存在大幅度的波动[23]。虽然已有许多研究探讨了脑自发活动局部指标的时域动态特征[24,25]，但至今仍未有研究系统探讨 ASD 体素水平局部指标动态特征异常。  \n不同的R-fMRI指标反映了脑自发活动的不同方面，这些指标之间的一致性（concordance）则代表了不同功能层面的整合程度[26]。我们先前的研究[2发现静息态局部指标的动态特征间（如利用滑动窗方法计算 ReHo、ALFF 等指标的动态特征）有很强的基于体素的和基于时间点的一致性（voxel-wise concordance and volume-wise concordance)，且这种一致性随年龄下降。Fu 等人[23]发现动态 ALFF 和动态 FC 随时间发生改变的模式存在一致性，且这种一致性在精神分裂症患者及 TC 被试间存在差异。R-fMRI局部指标间的一致性在 ASD 患者中是否存在异常仍然是一个有待探索的方向。  \n尽管已有众多研究基于小样本利用不同指标刻画了孤独症脑自发活动异常的静态机制，但仍未有研究系统考察孤独症R-fMRI局部指标的动态特征和局部指标之间的一致性。本研究基于公开数据集\"孤独症脑成像数据交换计划”（autism brain image data exchange [13],ABIDEI和 II,",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可访问网站 htp://fcon_1000.projects.nitrc.org/indi/abide/浏览和下载该数据集),分析了480名ASD患者和 539名TC被试的脑成像数据，利用滑动窗方法，系统计算了多种主流静息态功能磁共振成像指标的动态特征在ASD 患者和 TC 被试之间的差异。随后我们进一步计算了R-fMRI指标之间的一致性及其动态特征，并探索了这些指标间的一致性动态特征在鉴别 ASD 患者和 TC 被试中的潜在应用。最后我们考察了指标间一致性动态特征与ASD疾病症状严重程度之间的相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2．材料和方法  \n2.1 被试  \n本研究使用的数据全部来自公开数据集 ABIDE/ABIDEII。纳入影像数据分析的条件如下：（1)被试性别为男性(考虑到孤独症存在很强的性别效应且男性被试占整个ABIDE 样本的 $90 \\%$ （2）结构像覆盖完整且配准良好；（3）头动平均位移(framewise displacement,FD Jenkinson [27l)<0.2mm；（4）相邻时间点X、Y、Z方向的平动和转动小于 $3 \\mathrm { m m }$ 和 $3 ^ { \\circ }$ （最大头动情况：X方向平动： $2 . 4 1 ~ \\mathrm { m m }$ ；Y方向平动： $2 . 9 1 ~ \\mathrm { m m }$ ；Z方向平动： $3 . 0 0 ~ \\mathrm { m m }$ ；X方向转动： $2 . 9 9 ^ { \\circ }$ ；Y方向转动：1.89°；Z方向转动： $2 . 6 1 ^ { \\circ }$ )；（5）局部指标动态特征计算无明显异常；（6）记录有智商（IQ）标准分数；（7）经过上述筛选标准排除后，该站点的ASD 组和TC 组的被试人数均超过10人。我们最终选取了来自21个站点共 1019名被试（其中ASD 患者 480人，TC被试 539人），两组被试的年龄没有显著差异（ $t = - 0 . 0 3 7 , p = 0 . 8 2 )$ 。  \n2.2 数据预处理  \n本研究所有预处理均使用“静息态功能磁共振数据处理工具”（DPARSF[28]，http:/rfmri.org/DPARSF），该工具基于“参数统计图”（SPM8，http://www.fil.ion.ucl.ac.uk/spm）和\"脑成像数据处理分析工具箱”（DPABI[29]，http:/fmri.org/DPABI）进行数据处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "预处理过程如下：（1）删除被试R-fMRI时间序列的前10个时间点，以保证进行分析的数据是被试适应扫描环境且磁场达到稳定后所采集获得；（2）对R-fMRI图像进行时间层校正，消除隔层扫描出现的时间相位差；（3）头动校正，使用六参数刚体线性变换将被试的功能像对齐至第一个时间点，再对齐至平均功能像；（4）结构像对齐，将个体的T1加权像通过六自由度线性变换对齐至平均功能像；（5）结构像分割，将结构像分割为灰质（gray matter）、白质（white matter)和脑脊液（cerebrospinal fluid)；（6）噪声回归，最近的研究表明[30-32]，被试在磁共振成像扫描仪中的微小头动会在静息态功能指标中产生伪迹。因此本实验只选择了头动较小的被试（筛选标准：平均头动FD<0.2mm，X、Y、Z方向的最大平动和转动小于3mm或3°）。最近的研究也表明高阶模型能更好的去除头动效应[3334]，因此本实验使用Friston 24参数模型（即6个头动参数和6个前一时间点头动参数及其二次项）回归消除对齐后功能像的头动效应。在后续统计分析过程中，头动效应也通过在组水平回归分析时纳入平均FD值作为协变量进行控制。此外，白质和脑脊液信号也被回归去除，以减少呼吸和心跳的影响。考虑到血氧依赖水平（blood oxygen leveldependent,BOLD）信号随时间推进，存在低频漂移，我们通过加入线性回归子去除数据的线性变化趋势。考虑到进行全局信号回归（global signal regression，GSR）仍饱含争议[35-37]，且GSR会增加负的FC并改变FC的分布，我们没有对数据进行GSR处理；（7）配准，基于步骤5得到的空间变换信息使用DARTEL（diffeomorphic anatomical registration through exponentiated lie algebra）工具将被试的功能像从个体空间配准到MNI152空间，重采样体素大小为 $3 \\mathrm { m m } \\times 3 \\mathrm { m m } \\times 3 \\mathrm { m m }$ 。2.3 静息态功能磁共振成像指标计算为了探讨孤独症患者是否在脑自发活动的动态特征上存在异常，我们利用滑动时间窗方法计算了6种静息态功能磁共振成像指标，以刻画孤独症患者和TC被试在静息态局部特征和指标间一致性上的动态变化。对于每一个时间窗，我们计算了以下6种指标}。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "」DC 和VMHC 本质上基于功能连接进行计算。不过，和普通的种子点功能连接不同，DC 和VMHC 的异",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）ALFF/fALFF：我们采用了ALFF和fALFF计算脑自发活动局部活动的强度。ALFF是将某体素的时间序列进行傅里叶变换后，对特定频率范围（本研究取 $0 . 0 1 { - } 0 . 1 \\mathrm { H z }$ ）的振幅取均值，作为该体素的ALFF值。由于ALFF对白质和脑室等区域的噪音较为敏感，本研究也同时计算了fALFF。fALFF是傅里叶变换后的BOLD时间序列某一频段（本研究取 $0 . 0 1 { - } 0 . 1 \\mathrm { H z }$ )的振幅之和与全频段振幅之和相除的比值。ALFF可以测量脑自发活动低频震荡的强度，而fALFF则刻画了特定频率震荡在整个频域中的相对比重。  \n（2）ReHo：ReHo 计算了fMRI时间序列的区域活动一致性/同步性。ReHo定义为给定体素的时间序列和同它最邻近的体素（本研究定义为 26 个体素）时间序列之间的肯德尔和谐系数(Kendall's W）。  \n（3）VMHC：VMHC 为人脑左右半球间镜像对称体素间的FC，也即特定体素同对侧半球相同位置体素的BOLD信号时间序列的皮尔逊相关系数。为了使半球间对称体素达到更精确的对应，我们首先将被试在 MNI空间的功能像配到更加对称的空间。先计算所有被试MNI空间T1 结构像的平均像，然后对平均像进行左右镜像平均得到组水平对称模板。将每个被试在MNI空间的T1 结构像（与其MNI空间的功能像是配准的）配准到组水平对称模板上，获得如何将被试图像从 MNI空间变换到对称空间的信息，最后将该信息应用到MNI空间的功能像上。由于半球间对称体素无法做到非常精确的对应，所以进行平滑（本研究采用 $4 \\mathrm { m m }$ 半高全宽（full width at halfmaximum，FWHM）平滑核）以弱化差异并进而提升半球间对称体素的相对一致性[38]。考虑到VMHC 计算时需要掩膜也具有对称性，我们使用了对称扩大过的组水平掩膜（即左右镜像后的组水平掩膜和原组水平掩膜取并集）作为VMHC 的动态性计算的范围（指标间一致性计算采用同 ALFF，ReHo 等指标相同的原组水平掩膜)。纳入后续计算的 VMHC 值为经过Fisher-Z 变换",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "的标准分数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）DC：DC 是某体素与全脑体素FC 高于特定阈值的体素个数或加权和。本研究中，我们逐体素计算其与全脑体素水平的FC，再取FC中超过阈值（本研究取 $\\mathrm { \\Delta r } > 0 . 2 5 \\mathrm { \\Delta }$ 的正连接求加权和，得到体素水平的全脑DC 图。（5）GSCorr：GSCorr先计算组水平掩膜内所有体素的平均时间序列作为全局信号，再于组水平掩膜内逐体素求该体素时间序列同全局信号的皮尔逊相关系数。Power 等人[39发现GSCorr 的空间分布同“呼气末pCO2与BOLD 信号相关”的空间分布存在一致性，认为GSCorr同呼吸速率可能存在关联；脑血流调节（cerebral blood flow regulation）也对产生GSCorr 的空间分布起了重要作用。纳入后续计算的GSCorr 值为经过Fisher-Z变换的标准分数。2.4 动态R-fMRI指标为了计算患者脑自发活动的动态特征，我们采用滑动时间窗计算动态局部指标[26]。首先，对全脑BOLD信号时间序列滑动选取hamming窗，窗宽为32个TR，步长为4个TR（即每个时间窗包含时间序列全部时间点中的32个时间点，每个时间窗的起始点比上一个时间窗的起始点晚4个TR)。然后，在每个时间窗中计算上述6种R-fMRI指标（即ALFF、fALFF、ReHo、VMHC、DC和GSCorr)。最后，为了定量刻画各指标的时间动态特征，我们计算了全脑各体素每种指标随时间变化的标准差（standarddeviation, $S D$ )。纳入统计的R-fMRI指标SD图在组掩膜内进行了Z标准化（即减去全脑mean再除以全脑 $S D$ )。最后，我们对各R-fMRI指标（除VMHC外，因其在预处理中已做平滑）的SD图进行了平滑（ $\\mathrm { F W H M } = 4 \\mathrm { m m }$ ）以提高信噪比。我们采用DPABI软件的时域动态分析（temporal dynamic analysis）模块对所有动态性指标进行计算。另外，为了排除窗宽对于结果的影响，我们将窗宽设定为48/64个TR重复了文中的全部计算，其结果与32TR的结果非常一致，结果详见补充材料。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 统计分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.1R-fMRI局部指标的动态性差异分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们对6种动态R-fMRI局部指标的SD在ASD患者与TC被试间的差异进行了双样本T检验。虽然匹配了两组被试的年龄，我们仍将年龄作为协变量纳入回归模型以排除其对统计结果造成的影响。同时我们也将站点和头动作为协变量回归去除，减少站点效应和扫描头动的影响。为了避免多重比较谬误，我们使用DPABI对组分析结果进行了基于无阈值团块增强的置换检验多重比较校正（permutation test with threshold free cluster enhancement,TFCE [40], $p < 0 . 0 5$ ，随机1000次）。我们的最新研究发现[12]，经过TFCE处理的置换检验是一种较为严格的多重比较校正方法，能够同时具备较低的假阳性率（false positive rate）和较高的可重复性（reproducibility）。2.5.2R-fMRI局部指标间一致性的动态特征根据我们之前的研究[26]，我们计算了ALFF、ReHo、DC、VMHC和GSCorr五种指标一致性的动态特征（volume-wise concordance)：即逐个窗口计算五种指标图在空间模式上的肯德尔和谐系数作为该时间点的一致性。肯德尔和谐系数作为一种非参数检验方法，不需要假设样本总体分布而且对R-fMRI指标间不同的绝对值大小不敏感，因此本研究采用肯德尔和谐系数计算一致性。由于fALFF和ALFF从指标定义到计算结果之间均具有非常高的相似性，因此我们只选择二者之一纳入一致性计算以避免人为提高一致性。本研究将ALFF纳入统计而排除fALFF，因为一方面ALFF指标在测量神经精神疾病患者脑活动异常方面非常敏感[18,41]；另一方面，ALFF的动态特征在ASD中存在大量显著异常，而fALFF的动态特征经过统计校正在两组间并无差异。随后我们对ASD患者和TC被试R-fMRI指标一致性时间序列(每个被试一条)的mean和SD进行双样本T检验，以衡量被试功能整合的平均水平和稳定性。统计过程中我们将年龄、头动和站点作为协变量以排除其效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.3R-fMRI指标一致性特性与ASD 症状的相关分析 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了考察R-fMRI指标一致性特征与ASD行为测量指标存在的内在联系，我们计算了R-fMRI指标一致性特征（mean和SD）同孤独症诊断观察量表（autism diagnostic observation schedule,ADOS）各项得分的偏相关，控制了年龄和头动的影响。有241名ASD患者的数据进入偏相关分析，包含以下各项ADOS得分：孤独症诊断观察量表总分（ADOS_TOTAL）、孤独症诊断观察量表交流得分（ADOS_COMM）、孤独症诊断观察量表社交得分（ADOS_SOCIAL）和孤独症诊断观察量表刻板行为与受限兴趣得分(ADOS_STEREO_BEHAV)。一致性特征同ADOS得分的偏相关系数使用MATLAB的mafdr函数进行了FDR校正（ $q < 0 . 0 5 \\rangle$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.结果",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1ASD患者局部指标动态性异常  \n我们对ASD患者和TC被试脑自发活动指标在时间维度上的动态变异量（SD）进行了双样本 T检验。控制头动、年龄、站点等无关因素的影响后，统计结果显示，相对于TC被试而言，ASD 患者在前额叶呈现多个指标动态性升高，但在大脑后部内侧区域则呈现动态性降低。在脑区自发活动的频域特征方面，ASD 患者显示出广泛的ALFF动态性异常。ALFF是测量静息态脑活动水平的重要指标，ASD 患者相对于 TC 被试，在双侧外侧前额叶、双侧眶额皮层以及内侧前额叶显示出 ALFF 动态性升高，而在双侧距状沟、梭状回、舌回、后扣带回显示出ALFF 动态性降低（见图1和表1)。对于脑区的网络中心度，ASD 患者在右侧额中回和丘脑后部的 DC 动态变异显著高于正常对照被试（见图1和表1)。对于局部脑活动的一致性，ASD 患者相比于TC被试，在双侧距状沟、梭状回、舌回、旁海马区域的ReHo动态性降低（见图1和表1)。ReHo和DC 的结果进一步支持了ALFF的发现。DC；（c）ReHo。注意：fALFF，GSCorr，VMHC无显著的组间差异  \nFigure 1. Brain areas with significant group differences in R-fMRI dynamic indices $( S D )$ between ASDand TC; (a) ALFF;(b) DC; (c) ReHo. Of note,there was no significant group difference in fALFF,GSCorr and VMHC.  \n表1R-fMRI指标动态性（ $\\boldsymbol { S D }$ ）在ASD组和TC组之间存在显著差异的脑区  \nTable 1. Brain areas with significant group differences in R-fMRI dynamic indices $( S D )$ betweenASD and TC.",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/84b3c7781617e5cd3a78311449d2d4258abaa905e60663d33b440b6f104f339b.jpg",
+        "img_caption": [
+            "图1 R-fMRI指标的动态性（SD)在ASD组和TC组之间的双样本显著差异脑区。（a)ALFF；（b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "区 布鲁德曼分区 团块大小 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ALFF ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/00e26c9c128e570eb381817ea07b202e4bceabeb3b955facd762999ee3c1f04a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">双侧</td></tr><tr><td>LG/Cu/Cal/PCC/FG/MOG/</td><td>17/18/19/30</td><td>1274</td><td>9</td><td>-39</td><td>-6</td><td>-4.969</td></tr><tr><td>PreCu</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>右侧 MFG/SFG/IFG/OFC</td><td>10/11</td><td>527</td><td>42</td><td>45</td><td>-12</td><td>5.5645</td></tr><tr><td>左侧 IFG/MFG</td><td>11/47</td><td>127</td><td>-42</td><td>45</td><td>-15</td><td>5.828</td></tr><tr><td>右侧MFG/SFG</td><td>9</td><td>60</td><td>36</td><td>33</td><td>39</td><td>4.5667</td></tr><tr><td>DC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>双侧THA</td><td>77/78</td><td>85</td><td>6</td><td>-24</td><td>12</td><td>4.3199</td></tr><tr><td>双侧 Cu/LG/Cal</td><td>17/18</td><td>70</td><td>0</td><td>-87</td><td>6</td><td>-3.7287</td></tr><tr><td>右侧 MFG</td><td>8/9</td><td>67</td><td>36</td><td>24</td><td>42</td><td>4.9612</td></tr><tr><td>左侧FG/LG</td><td>18/19</td><td>37</td><td>-15</td><td>-90</td><td>-18</td><td>-4.0379</td></tr><tr><td>右侧 MFG</td><td>11</td><td>35</td><td>33</td><td>54</td><td>-9</td><td>4.0516</td></tr><tr><td>左侧 LG/Cal</td><td>30</td><td>25</td><td>-15</td><td>-60</td><td>3</td><td>-3.8375</td></tr><tr><td>ReHo</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>双侧</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LG/Cu/Cal/FG/MOG/PHG</td><td>17/18/19</td><td>1013</td><td>18</td><td>-81</td><td>-15</td><td>-4.4583</td></tr><tr><td>右侧 MB</td><td>NA</td><td>14</td><td>9</td><td>-27</td><td>-6</td><td>-3.6418</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "213 注：LG，lingual gyrus，舌回；Cu，cuneus，楔叶；Cal，calcarine，距状沟；PCC，posterior cingulate   \n214 cortex，后扣带回；FG，fusiform gyrus，梭状回；MOG,middle occipital gyrus，枕中回；PreCu,   \n215 precuneus，楔前叶；MFG，middle frontal gyrus，额中回；SFG，superior frontal gyrus，额上回;   \n216 IFG,inferior frontal gyrus，额下回；OFG,orbital frontal gyrus，眶额回；THA，thalamus，丘脑;   \n217 PHG，parahippocampa gyrus，旁海马回；MB，midbrain，中脑；NA，not available，无。团块大   \n218 小少于10个体素的脑区未纳入报告。 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "20 3.2R-fMRI指标间一致性特征异常 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们计算了R-fMRI指标的一致性特征，即对于任一被试在任一时间窗，计算其各R-fMRI指标图空间模式的一致性，这样每名被试就得到一条一致性时间序列，如图2(a)所示。通过比较一名典型的ASD患者的一致性时间序列和一名TC被试的时间序列，我们可以看出，从平均水平和变异程度而言，ASD患者的一致性低于TC被试。我们对此进行了统计学检验，对一致性时间序列的mean和SD进行ASD和TC组间差异的检验。双样本T检验结果如图2(b)(c)所示，ASD组一致性特征的mean显著低于TC组（ $T = - 2 . 3 2$ $p = 0 . 0 2 0 3 \\mathrm { \\cdot }$ ，其 $S D$ 也显著低于TC组（ $T = - 2 . 0 5$ $p =$ 0.0404)。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b0abdcc8f0ac6c2ad50dacfe73625c94027f2655db36a6ae97cddd2219e7a22.jpg",
+        "img_caption": [
+            "图2R-fMRI指标间一致性在ASD和TC被试间的差异。（a）一例典型ASD被试和一例典型TC被"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "试的指标间一致性的时间序列；（b）ASD和TC组指标间一致性mean的双样本T检验；（c）ASD和TC组指标间一致性 $S D$ 的双样本T检验。注：图中展示的mean和SD为回归去除头动、年龄和站点效应的拟合值。\\*代表显著性水平 $p < 0 . 0 5$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. Differences in the concordance of R-fMRI indices between ASD and TC.(a) The concordance time series of R-fMRI indices for a typical ASD subject and a typical TC subject; (b) Two sample T-test of the mean of concordance among R-fMRI indices between ASD and TC; (c) Two sample T-test of the $S D$ ofconcordance among R-fMRI indices between ASD and TC. Of note,the demonstrated mean/SD were fited values with the effect of head motion, age and site regressed out. \\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "means significance level $p < 0 . 0 5$ 业 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3一致性动态特征与疾病严重程度的相关 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "我们进一步计算了R-fMRI指标一致性动态特征与孤独症患者ADOS量表的偏相关，控制了年龄和头动的影响，并使用MATLAB的mafdr函数进行FDR矫正。结果如图3所示，一致性动态特征水平mean与ADOS_COMM存在显著负相关（mean-ADOS_COMM: $r = - 0 . 2 1 1 1$ $p = 0 . 0 0 8 2 \\cdot$ ，而R-fMRI指标间一致性动态特征的变异性（SD）与4种ADOS分数均不存在显著相关。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b33c12f675d22635e8418a74281aeb6dda65b8342b702f56c2d3da79dc29dce.jpg",
+        "img_caption": [
+            "图3R-fMRI指标间一致性的mean $' S D$ 同ADOS分量表得分的相关。图中展示的ADOS分量表得分"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "为回归去除头动和年龄效应后的拟合值。ADOS_COMM:孤独症诊断观察量表的沟通子分数。  \n\\*\\*代表显著性水平 $\\mathtt { p } < 0 . 0 1$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. Correlation between the mean/SD of concordance among R-fMRI indices and the subscores of ADOS.The demonstrated ADOS scores were fitted values with the efect of head motion and age regressed out. ADOS_COMM: communication total subscore of the classic ADOS. \\*\\* means significance level $\\mathfrak { p } < 0 . 0 1$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们全面考察了ASD患者脑自发活动局部指标的动态特征异常，发现ASD患者表现出外侧额叶的动态性显著升高，该现象在ALFF和DC两个指标的动态性中都有出现。同时，ASD患者表现出视觉区的动态性显著降低，该现象也广泛出现在ALFF、DC和ReHo三个指标中。随后，我们进一步考察了这些动态指标之间的一致性，发现ASD患者的指标间一致性的mean和SD显著低于TC组，表现出显著下降的功能整合能力。最后，我们检验了ASD被试功能整合异常与疾病严重程度的相关性，发现ASD患者功能整合的平均水平同ADOS_COMM分数呈负相关，这一发现揭示了ASD患者的脑功能动态整合异常。  \n我们发现，ALFF的动态性在ASD组表现出最多的异常，这与过往研究中发现ALFF对神经精神疾病最为敏感的结果一致[18,41]。ASD组患者的ALFF在双侧背外侧额叶、右侧前扣带呈现异常升高，而在舌回、距状沟、梭状回和后扣带回呈现异常降低。我们发现的异常区域在前人的研究中也有相关报告。例如：Supekar等人[42]发现ASD儿童的大部分脑区（包括外侧额叶）的FC和ALFF显著高于健康儿童，他们认为其存在局部神经环路的兴奋/抑制平衡失调。Guo等人[也发现ALFF在内侧前额叶、枕中回和楔前叶处存在显著的下降。Itahashi等人[7]发现ASD患者梭状回、舌回处和枕下回fALFF显著低于TC。Lai等人[43]利用另一种检验局部活动强度的指标赫斯特指数（Hurst exponent）检验了孤独症患者自发脑活动振荡异常，同样也发现孤独症患者在梭状回、舌回以及楔前叶和后扣带处局部活动强度下降。  \n除了ALFF之外，我们发现DC的异常也集中表现为外侧额叶的动态性升高。DiMartino等人[13]在一项基于ABIDE数据库的大样本多中心研究中发现，背外侧前额叶处ASD患者的fALFF、ReHo和DC均显著高于对照组，提示背外侧前额叶是孤独症致病环路中的重要脑区。这些研究主要基于脑活动静态分析，本研究在前人研究的基础上，采用滑动时间窗方法，基于脑活动的动态性进行分析，研究结果扩展了我们对孤独症执行控制功能缺陷的神经基础的认识。背外侧前额叶是执行控制系统的关键脑区[44]，孤独症患者在背外侧前额叶的活动异常可能预示着其执行控制系统以及相应认知功能的损坏。具体而言，ASD患者在背外侧前额叶的活动随时间的变化幅度显著大于正常对照组，他们在该脑区的活动异常波动表明该脑区存在功能缺陷，孤独症患者无法稳定地对其认知活动进行有效控制。许多研究从行为层面都发现了ASD患者的执行控制功能缺陷，其执行控制功能与刻板行为之间也存在高度相关[45,46]。这些行为研究结果为我们对结果的解释提供了佐证。  \nASD患者另一处值得注意的DC动态性异常升高位于丘脑。Cheng等人[47]在一项全面的体素水平的大样本研究（包含419名孤独症患者和509名正常对照被试）中发现，ASD患者内侧丘脑同皮层的功能连接水平相比于正常对照存在着显著地上升，这一结果一定程度上暗示了丘脑的度中心性存在异常。另一方面，Doyle-Thomas等人[48]发现丘脑的胆碱（choline）浓度同孤独症诊断访谈量表修订版（ADI-R,autism diagnostic interview revised）沟通总分和受限及重复行为总分呈负相关，指出ASD患者的丘脑可能存在代谢异常。本研究中ASD患者的丘脑处DC动态性异常升高（即度中心性变化幅度过大)，暗示着作为丘脑作为感觉中继器在同皮层进行感觉运动信息传递时不够稳定。  \n同背外侧额叶处广泛的动态性升高相反，我们发现ALFF、DC和ReHo三种指标在距状沟、梭状回和舌回等区域显示出非常一致的动态性下降，进一步暗示了孤独症患者大脑视觉区功能存在异常。众多行为学研究和脑电研究表明，ASD患者儿童期的面孔处理能力的下降，可能是ASD",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "患者存在社会认知障碍的一个潜在原因[49]。在任务fMRI研究中，研究者发现ASD患者在进行面孔情绪判断任务[50]，知觉判别任务[51]过程中颞叶下部（如梭状回）等负责加工面孔处理过程的脑区激活显著低于正常对照组。在R-fMRI研究中，Keown等人[52]发现ASD患者梭状回、舌回和距状沟区域的局部度中心性均存在着广泛异常升高，且局部度中心性的大小同ADOS_SOCIAL和ADOS_STEREO_BEHAV得分呈正相关。Maximo等人[53]利用局部功能连接指标如ReHo和局部度中心性，发现ASD患者视觉区出现显著的局部过连接现象。Cheng等人[47,54]也发现了面孔处理相关脑区的功能连接异常。本研究借助R-fMRI，利用滑动窗方法计算ASD患者的多种静息态指标的动态变化，结果同样聚焦到视觉区尤其是梭状回的动态下降，缺乏灵活性。这种灵活性缺乏与ASD患者在面孔处理过程中，难以对于面孔和表情信息作出高效的判断和短时记忆困难的行为学现象相一致。值得注意的是，有研究表明ASD患者梭状回[55]和距状沟[5同背外侧额叶的功能连接存在着异常降低，暗示着ASD患者视觉区的动态性的下降同ALFF和DC在背外侧额叶处动态性的增高存在某种生理学关联。本研究发现的ASD患者视觉区动态性异常下降，这种灵活性缺乏可能是ASD患者不能高效且快速地对转瞬解释的面孔表情信息进行加工和记忆的生理基础。随着静息态指标的不断丰富发展，考察多种指标间的一致性逐渐受研究者重视，并可能发展成为新的影像学生物标记。因此，在脑自发活动动态性的基础上，我们进一步研究了不同R-fMRI指标的一致性。不同R-fMRI指标指征了脑自发活动的不同侧面，因此其一致性能够衡量不同功能层面的整合能力。Fu等人[23]测量了楔叶的动态ALFF和该脑区与舌回间动态功能连接的相似程度，发现这两个指标的相似度与被试的工作记忆广度呈显著的负相关。我们之前的工作[26]通过计算多种R-fMRI指标间一致性，发现指标间一致性与个体年龄呈负相关。健康人脑的多方面功能整合能力应当是高水平且灵活的。然而本研究发现ASD患者相对于TC组，在整体上表现为指标间一致性的降低；这种降低既表现为平均水平的低下（mean低于TC），也表现为灵活度的不足（SD低于TC），这说明ASD患者的多方面脑功能整合能力存在缺陷，可能与ASD患者的认知能力表现出下降有关[46]。与此一致的是，在ASD患者组内，时间水平指标间一致性mean,与反映患者疾病严重程度的ADOS-COMM量表呈显著负相关；即指标间一致性的平均水平越低，ASD患者的交流能力越差。我们认为，这一结果表明ASD患者多种脑功能整合有缺陷，即多种脑功能之间的整合和分工转换不灵活。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本研究存在几个局限。第一，本研究使用多种指标反映了脑自发活动不同的功能侧面，但是仍有部分指标（如种子点FC、独立成分分析和赫斯特指数等）由于选择异质性（如FC的种子点选择无法统一）而未能纳入文章的分析。第二，本文采用公开的多中心大样本数据库，站点间由于磁共振机型、扫描参数等的不同导致结果存在着一定的站点效应。虽然我们在局部R-fMRI指标动态性分析中把站点作为协变量加以控制，但由于一般线性模型的自身局限而造成的站点效应仍然会对统计结果产生一定影响。虽然目前已经逐渐步入大数据时代，但是要建立单一的大样本量数据库仍面临着诸多困难。因此，未来一段时间内，多中心大样本量数据仍然是心理-脑-行为机制研究、精神疾病早期诊断和医学影像深度学习研究的主要资源。因此，开发能够更有效控制站点效应的线性混合模型能够更好地推动大数据时代的R-fMRI研究。第三，本文采用SD作为反映自发脑活动动态性的定量指标，但由于SD与mean存在着正相关（如指标mean越大，其SD越大)，而滑动窗计算的动态局部指标mean和静态局部指标存在一定相似性，可能导致人为扩大了动态指标与静态指标间的一致性。因此，在未来的研究中需要开发更有效衡量自发脑活动动态性的统计指标。第四，由于缺乏其它精神神经疾病的静息态磁共振成像大数据样本，我们暂时无法验证自闭症指标间一致性的降低是否为多种精神疾病的共性,希望未来研究能对指标间一致性在其它精神神经疾病中作为生物标记的敏感性和特异性进行验证。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.结论",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本研究使用滑动时间窗方法系统计算了ASD 患者和TC 被试的主流R-fMRI局部指标的动态性以及R-fMRI局部指标之间的一致性特征，并考察了这些指标与ASD之间的关系。结果表明,ASD 患者局部指标的动态性在 ALFF 和 DC 均表现为外侧额叶的上升,且ALFF、DC 和 ReHo的动态性在视觉相关脑区如距状沟、梭状回和舌回出现下降。ASD 患者指标间一致性的平均水平和变异性均低于TC 组。ASD 患者指标间一致性的平均值与ASD 沟通障碍症状严重程度存在",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2负相关。这些研究结果提示，ASD 患者存在着脑自发活动动态性及其整合的异常。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.参考文献   \n[1]Association A P.Diagnostic and statistical manual of mental disorders 5th edn. 2013,   \n[2]Christensen DL, Baio J, Braun K V,et al. Prevalence and characteristics of autism spectrum   \ndisorder among children aged 8 years - autism and developmental disabilities monitoring network, 11   \nsites, united states,2012. Morbidity & Mortality Weekly Report Surveilance Summaries,2014, 63: 1   \n[3]Wong V C N, Hui S L H. Epidemiological study of autism spectrum disorder in china. Journal of   \nChild Neurology,2007,23: 67-72   \n[4]Abrams D A,Lynch C J, Cheng K M, et al. Underconnectivity between voice-selective cortex and   \nreward circuitry in children with autism. Proceedings of the National Academy of Sciences of the   \nUnited States of America,2013,110: 12060   \n[5]Alaerts K, Woolley D G, Steyaert J, et al. Underconnectivity of the superior temporal sulcus   \npredicts emotion recognition deficits in autism. Social Cognitive & Affective Neuroscience, 2014, 9:   \n1589   \n[6]Uddin L Q, Supekar K, Menon V. Reconceptualizing functional brain connectivity in autism from   \na developmental perspective. Front Hum Neurosci, 20l3, 7: 458   \n[7]Itahashi T, Yamada T, Watanabe H, et al. Alterations of local spontaneous brain activity and   \nconnectivity in adults with high-functioning autism spectrum disorder.Molecular Autism,2015, 6: 30   \n[8]Guo X, Chen H,Long Z, et al. Atypical developmental trajectory of local spontaneous brain   \nactivity in autism spectrum disorder. Scientific Reports, 2017,7: 39822   \n[9]Paakki J-J,Rahko J,Long X,et al. Alterations in regional homogeneityofresting-state brain   \nactivity in autism spectrum disorders. Brain Research, 2010,1321: 169-179   \n[10] Di Martino A, Zuo X-N, Kelly C, et al. Shared and distinct intrinsic functional network centrality   \nin autism and attention-deficit/hyperactivity disorder. Biological Psychiatry,2013,74: 623-632   \n[11] Anderson JS,Druzgal T J,Froehlich A,et al. Decreased interhemispheric functional connectivity   \nin autism. Cerebral Cortex,2011,21: 1134-1146   \n[12] Chen X,Lu B, Yan C G. Reproducibility ofr - fmri metrics on the impact of different strategies   \nfor multiple comparison correction and sample sizes. Human Brain Mapping, 2017,   \n[13] Di Martino A, Yan C G,Li Q, et al. The autism brain imaging data exchange: Towards a   \nlarge-scale evaluation of the intrinsic brain architecture in autism. Mol Psychiatry,2014,19: 659-667   \n[14] Hutchison R M, Womelsdorf T, Allen E A, et al. Dynamic functional connectivity: Promise,   \nissues,and interpretations. Neuroimage,2013, 80: 360-378   \n[15] Voytek B, Knight R T. Dynamic network communication as a unifying neural basis for cognition, development, aging,and disease. Biological Psychiatry,2015,77: 1089-1097   \n[16] Hutchison R M, Womelsdorf T, Gati JS, et al. Resting-state networks show dynamic functional connectivity in awake humans and anesthetized macaques. Human Brain Mapping, 2013, 34: 2154-2177   \n[17] Sakoglu U,Pearlson G D, Kiehl K A,et al. A method for evaluating dynamic functional network connectivity and task-modulation: Application to schizophrenia. Magnetic Resonance Materials in Physics, Biology and Medicine,2010, 23: 351-366   \n[18] de Vos F, Koini M, Schouten TM, et al. A comprehensive analysis of resting state fmri measures to classify individual patients with alzheimer's disease. NeuroImage, 2018,167: 62-72   \n[19] Hosenfeld B, Bos E H, Wardenaar K J, et al. Major depressive disorder as a nonlinear dynamic system: Bimodality in the frequency distribution of depressive symptoms over time. BMC Psychiatry, 2015,15: 222   \n[20] Liu F, Wang Y,Li M, et al. Dynamic functional network connectivity in idiopathic generalized epilepsy with generalized tonic-clonic seizure. Hum Brain Mapp,2017,38: 957-973   \n[21] Zhang J, Cheng W,Liu Z, et al. Neural, electrophysiological and anatomical basis of   \nbrain-network variability and its characteristic changes in mental disorders. Brain, 2O16,139: 2307-2321   \n[22] Chen H, Nomi JS,Uddin L Q, et al. Intrinsic functional connectivity variance and state-specific under-connectivity in autism. Hum Brain Mapp, 2017,38: 5740-5755   \n[23] Fu Z, Tu Y, Di X, et al. Characterizing dynamic amplitude of low-frequency fluctuation and its relationship with dynamic functional connectivity: An application to schizophrenia. NeuroImage, 2017, [24] Hudetz A G, Liu X, Pillay S. Dynamic repertoire of intrinsic brain states is reduced in   \npropofol-induced unconsciousness. Brain Connectivity,2015, 5: 10   \n[25] Liao X, Yuan L, Zhao T, et al. Spontaneous functional network dynamics and associated structural substrates in the human brain. Frontiers in Human Neuroscience, 2015, 9:   \n[26] Yan C-G, Yang Z, Colcombe S J, et al. Concordance among indices of intrinsic brain function: Insights from inter-individual variation and temporal dynamics.Sci Bull in press,   \n[27] Jenkinson M, Bannister P, Brady M, et al. Improved optimization for the robust and accurate linear registration and motion correction of brain images. Neuroimage, 2002,17: 825-841   \n[28] Yan C G, Zang Y F.Dparsf: A matlab toolbox for \"pipeline\" data analysis ofresting-state fmri. Front Syst Neurosci, 2010, 4: 13   \n[29] Yan C G, Wang X D, Zuo X N, et al. Dpabi: Data processing & analysis for (resting-state) brain imaging. Neuroinformatics, 2016,14: 339-351 [30] Yan C G, Craddock R C, He Y, et al. Addressing head motion dependencies for small-world topologies in functional connectomics. Front Hum Neurosci, 2013,7: 910   \n[31] Power JD, Barnes K A, Snyder A Z, et al. Spurious but systematic correlations in functional connectivity mri networks arise from subject motion. Neuroimage, 2012, 59: 2142-2154   \n[32] Van Dijk K R, Sabuncu M R, Buckner R L. The influence of head motion on intrinsic functional connectivity mri. Neuroimage, 201, 59: 431-438   \n[33] Yan C G, Cheung B, Kelly C, et al. A comprehensive assessment of regional variation in the impact of head micromovements on functional connectomics. Neuroimage,2013,76: 183-201 [34] Satterthwaite TD, Elliott M A, Gerraty R T, et al. An improved framework for confound regression and filtering for control of motion artifact in the preprocessing of resting-state functional connectivity data. Neuroimage, 2013, 64: 240-256   \n[35] Murphy K, Birn R M, Handwerker D A, et al. The impact of global signal regression on resting state correlations: Are anti-correlated networks introduced? Neuroimage, 2009,44: 893-905   \n[36] Murphy K,Fox M D. Towards a consensus regarding global signal regresion for resting state functional connectivity mri. Neuroimage, 2016,   \n[37] Saad Z S, Gotts S J, Murphy K, et al. Trouble at rest: How correlation patterns and group differences become distorted after global signal regresson. Brain Connect, 2012,2: 25-32   \n[38] Zuo X N, Kelly C, Di Martino A, et al. Growing together and growing apart: Regional and sex differences in the lifespan developmental trajectories offunctional homotopy. JNeurosci, 2010, 30: 15034-15043   \n[39] Power JD, Plit M,Laumann TO,et al. Sources and implications of whole-brain fmri signals in humans. Neuroimage, 2017, 146: 609-625   \n[40] Smith S M, Nichols T E. Threshold-free cluster enhancement: Addressing problems of smoothing, threshold dependence and localisation in cluster inference. Neuroimage,2009, 44: 83-98   \n[41] Zuo X N, Di Martino A, Kelly C, et al. The oscilating brain: Complex and reliable. Neuroimage, 2010, 49: 1432-1445   \n[42] Supekar K, Uddin Lucina Q, Khouzam A, et al. Brain hyperconnectivity in children with autism and its links to social deficits. Cell Reports, 2013, 5: 738-747   \n[43] Lai M C,Lombardo M V, Chakrabarti B, et al. A shift to randomness of brain oscillations in people with autism. Biol Psychiatry,2010, 68: 1092-1099   \n[44] Dosenbach N U,Fair D A, Cohen A L, et al. A dual-networks architecture of top-down control. Trends Cogn Sci, 2008,12: 99-105   \n[45] South M, Ozonoff S,McMahon W M.The relationship between executive functioning, central   \ncoherence, and repetitive behaviors in the high-functioning autism spectrum. Autism, 2007, 11:   \n437-451   \n[46] Lopez B R,Lincoln A J, OzonoffS, et al. Examining the relationship between executive functions   \nand restricted, repetitive symptoms of autistic disorder. JAutism Dev Disord, 2005,35: 445-460   \n[47] Cheng W,Rolls E T, Gu H, et al. Autism: Reduced connectivity between cortical areas involved   \nin face expression, theory of mind,and the sense of self. Brain, 2015,138: 1382-1393   \n[48] Doyle-Thomas K A, Card D, Soorya L V, et al. Metabolic mapping of deep brain structures and   \nassociations with symptomatology in autism spectrum disorders. Res Autism Spectr Disord, 2014, 8:   \n44-51   \n[49] Jeste S S,Nelson C A,3rd. Event related potentials in the understanding of autism spectrum   \ndisorders: An analytical review. J Autism Dev Disord, 2009,39: 495-510   \n[50] Critchley HD,Daly E M,Bullmore E T,et al. The functional neuroanatomy of social behaviour:   \nChanges in cerebral blood flow when people with autistic disorder process facial expressions. Brain,   \n2000,123(Pt 11): 2203-2212   \n[51] Schultz R T, Gauthier I, Klin A, et al. Abnormal ventral temporal cortical activity during face   \ndiscrimination among individuals with autism and asperger syndrome. Arch Gen Psychiatry,2000, 57:   \n331-340   \n[52] Keown C L, Shih P, Nair A, et al. Local functional overconnectivity in posterior brain regions is   \nassociated with symptom severity in autism spectrum disorders. Cell Rep,2013, 5: 567-572   \n[53] Maximo JO, Keown CL, Nair A,et al. Approaches to local connectivity in autism using resting   \nstate functional connectivity mri. Front Hum Neurosci, 2O13,7: 605   \n[54] Cheng W,Rolls E T, Zhang J, et al. Functional connectivity decreases in autism in emotion, self,   \nand face circuits identified by knowledge-based enrichment analysis.Neuroimage,2017,148: 169-178   \n[55] Koshino H, Kana R K, Keller TA, et al. Fmri investigation of working memory for faces in   \nautism: Visual coding and underconnectivity with frontal areas. Cereb Cortex,20o8,18: 289-300   \n[56] Villalobos M E,Mizuno A, Dahl B C,et al. Reduced functional connectivity between vl and   \ninferior frontal cortex associated with visuomotor performance in autism. Neuroimage,2005,25:   \n916-925 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Aberrant Dynamics of Spontaneous Brain Activity and Its Integration in Patients with Autism ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Spectrum Disoraer   \nLU Bin1²，CHEN Xiao1,2，LI Le1²，SHEN Yang-Qian1,2，CHEN Ning-Xuan1,2，MEI Ting³，ZHOU Hui-Xial2，LIU Jing²，YAN Chao-Gan1,2.4\\*   \nCAS Key Laboratory of Behavioral Science,Institute of Psychology,Beijing,100101;   \n²Department of Psychology, University of Chinese Academy of Sciences, Beijing,100101;   \n3Peking University Sixth Hospital, Beijing,100191;   \n4Magnetic Resonance Imaging Research Center, Institute of Psychology, Chinese Academy of Sciences, Beijing,100101   \nIntroduction   \nAutism spectrum disorder (ASD） is a neurodevelopmental disease with unknown etiology but high incidence. The objective biomarkers of ASD are urgently awaited to be developed using neuroimaging method including resting-state fMRI (R-fMRI). However, the majority of current R-fMRI studies only examined the static features of brain activity in ASD patients,but neglected the dynamic aspects especially for regional metrics.Furthermore,the concordance of the dynamic regional indices was reported imbedded in human intrinsic brain activity,while it's abnormality in ASD is largely unknown. Methods   \nIn this study, we analyzed R-fMRI data of 480 ASD male patients and 539 healthy male controls (HC) gathered from ASD public database (ABIDE/ABIDE II). We used sliding window method to calculate the dynamics of mainstream regional indices of R-fMRI (amplitude of low frequency fluctuations (ALFF)， fractional ALFF (fALFF)，regional homogeneity (ReHo)，voxel-mirrored homotopic conectivity (VMHC)， degree centrality (DC) and the correlation with global signal (GSCorr)） and generated the SD statistic maps of these six dynamic regional indices. We performed z-standardization and smoothing on the SD statistic maps. After that, two-sample t-test between the SD statistic maps of ASD group and HC group was performed. We also calculated the concordance of dynamic regional indices for each time point, which is the Kendal's coefficient of the ALFF,ReHo, DC, GSCorr and VMHC maps across voxels. Two-sample t-test between the SD and mean of concordance time series of ASD group and HC group was performed.   \nResults   \nWe found a significant increase in the dynamics of ALFF and DC in the lateral frontal cortices in ASD patients as compared to HCs. Dorsal lateral frontal cortex (dlPFC) is a critical brain area for cognitive control and execution network. The abnormal activities in dlPFC indicate the disruption of control execution system and the impairment of relevant cognitive function. In the visual related brain areas, the dynamics of ALFF, DC and ReHo showed a decrease in fusiform gyrus, calcarine and lingual gyrus in ASD patients. Recent studies have indicated that the abnormal face processing in children with autism may be related with the impairment in social cognition of them. The deficits in face information processing of ASD patients may stem from the inflexible intrinsic brain activity in visual processing brain area (especially in fusiform gyrus). After further examining the concordance among these dynamic indices,the mean and SD of concordance of patients with ASD was found to be significantly lower than that of the HCs,demonstrating that the ASD patients’inferior integration ability for different aspects of brain functions.   \nConclusion   \nThese findings suggest that there exists abnormality in dynamics of spontaneous brain activity and its integration in ASD patients. Dynamic R-fMRI regional indices and the concordance of them could be efficient neuroimaging biomarkers for ASD. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    }
+]

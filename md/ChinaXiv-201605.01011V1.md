@@ -1,0 +1,212 @@
+# A Stochastic Measure for Eternal Inflation
+
+Miao Li $^ { 1 , 2 }$ \* Yi Wang2,1t
+
+（20 $^ { 1 }$ The Interdisciplinary Center for Theoretical Study
+
+of China (USTC), Hefei, Anhui 230027, P.R.China
+
+（20 $^ 2$ Institute of Theoretical Physics, Academia Sinica, Beijing 10o080, P.R.China
+
+# Abstract
+
+We use the stochastic approach to investigate the measure for slow roll eternal inflation. The probability for the universe of a given Hubble radius can be calculated in this framework. In a solvable model, it is shown that the probability for the universe to evolve from a state with a smaller Hubble radius to that of a larger Hubble radius is dominated by the classical probability without the stochastic source. While the probability for the universe to evolve from a larger Hubble radius to a smaller one is suppressed by $\exp ( - \Delta S )$ ，where the de Sitter entropy $S$ arises naturally in this stochastic approach.
+
+# 1 Introduction
+
+The inflation paradigm has proven to be remarkably successful in solving the problems in the standard hot big bang cosmology [1， 2,3, 4]. Inflation also predicts that fluctuations of quantum origin were generated and frozen to seed wrinkles in the cosmic microwave background (CMB) [5, 6] and today's large scale structure [7, 8, 9, 10, 11].
+
+In a usual inflation model, if the universe starts at a high energy scale, inflation should be eternal to the future [12, 13, 14]. There are two classes of eternal inflation models. One of them is characterized by the slow-rolling nature. During the eternal stage of inflation, the amplitude of quantum fluctuation of the inflaton field is comparable to its classical motion. Such large fluctuations make the universe fall into self-reproduction process and prevent the energy density from decreasing. So inflation will never end globally. Another class of eternal inflation models is characterized by forming bubbles of one vacuum within another. Once the decay rate of the false vacuum is smaller than the Hubble scale, the spatial volume of the false vacuum is increasing faster than the decay of the false vacuum volume. Then inflation becomes eternal to the future.
+
+It is widely believed that eternal inflation is indeed happening in the universe, and we just live in a local reheated domain of the eternal inflating universe. So it is important to study eternal inflation precisely and try to make predictions from the eternal inflation scenario.
+
+Unfortunately, it is rather difficult to describe eternal inflation precisely. There are several open problems in the attempts to describing eternal inflation, for example, the measure problem and the initial condition problem.
+
+The key problem of eternal inflation is how to construct a measure for the eternal inflation [15,16,17,18,19, 20, 21]. One of the diffculties is how to construct such a measure preserving symmetry of general relativity, and staying finite despite the fact that several kinds of infinities frequently occur in a naive construction. To overcome this difficulty, people have proposed two kinds of ansatz, namely, the “global” measure [15,18] and the “local” measure [16].
+
+In the global approach, infinities are regularized by imposing cutoffs, neverthless some cutoff-independent results can be obtained. The global measure encompasses the physics separated by event horizons,so it contradicts the holographic principle in a fundamental way [22]. To counter this, a local measure describing the physics seen by a comoving observer was proposed. This approach is based on the cosmic complementarity principle and as a bonus, it does not suffer from infinities. The main proponent of this approach is Bousso [16]. Bousso and collaborators played their game with models whose dynamics is governed by tunneling processes, they have not studied a concrete model with a definite Lagrangian.
+
+A second problem of eternal inflation is the initial condition problem. It is shown that although inflation can be eternal to the future,it can not be eternal to the past [23]. There have to be an initial condition for eternal inflation. The initial condition of the universe may be given either at the quantum creation of the universe [24, 25] or at the start of the eternal inflation [21]. It is not clear whether the measure of eternal inflation should depend on the initial conditions. Some authors believe that eternal inflation should be independent of initial conditions [15],while there are also calculations with results showing dependence on the initial conditions. [16,19].
+
+In this paper, we use the stochastic method [26, 27] to investigate the measure for the slow roll eternal inflation. This method provides a possible solution to the problems listed above. We construct a local measure for the slow roll eternal inflation. In the model with a scalar potential $\lambda \varphi ^ { 4 }$ , it can be shown that the measure for the low energy scale regime of eternal inflation is independent of the initial condition. On the other hand,when the energy scale of eternal inflation is higher than the scale where the initial condition is proposed, the measure is initial condition dependent. The de Sitter entropy arises naturally in this situation.
+
+As an application， this approach can be used to calculate the probability for the inflaton to fluctuate from one local minimum to another. The probability from this approach agrees with the tunneling probability due to the Coleman-de Luccia instanton. Thus ，this approach offers a means to deal with the slow roll eternal inflation and the tunneling eternal inflation in a single framework.
+
+This paper is organized as follows. In Section 2, we review the stochastic approach [27] to eternal inflation. In Section 3, we calculate the probability for the universe to have a given Hubble radius, and discuss the physical implications for this probability.
+
+We conclude in section 4.
+
+# 2 Gravity and a stochastic scalar field
+
+First, we review briefly the stochastic approach to eternal inflation [27]. The slow-roll condition can be imposed self-consistently and one of the Friedmann equations takes the usual form
+
+$$
+3 H ^ { 2 } = V \ ,
+$$
+
+where we have set $8 \pi G = 1$ . The result of quantum fluctuation of the inflaton field can be mimicked by a Gaussian white noise
+
+$$
+3 H \dot { \varphi } + V _ { \varphi } = - H ^ { 5 / 2 } \eta ( t ) ~ ,
+$$
+
+where $\eta ( t )$ is Gaussian and normalized as
+
+$$
+< \eta ( t ) > = 0 \ , < \eta ( t ) \eta ( t ^ { \prime } ) > = \frac { 9 } { 4 \pi ^ { 2 } } \delta ( t - t ^ { \prime } ) \ .
+$$
+
+With such a normalization, the expectation value for a quantity $\mathcal { O } [ \eta ]$ is
+
+$$
+< \mathcal O [ \eta ] > = \int [ d \eta ] \mathcal O [ \eta ] \exp \left( - \frac 2 9 \pi ^ { 2 } \int _ { 0 } ^ { \infty } d t _ { 1 } \eta ^ { 2 } ( t _ { 1 } ) \right) ~ .
+$$
+
+So one can recover the well-known result
+
+$$
+< \delta _ { q } \varphi ^ { 2 } > \simeq \frac { H ^ { 2 } } { 4 \pi ^ { 2 } } \ ,
+$$
+
+where $\delta _ { q \varphi }$ is the quantum fluctuation during one Hubble time and averaged in one Hubble volume.
+
+For the potential $V = \lambda \varphi ^ { 4 }$ , there exists an explicit solution to the equations (1) and (2).We define the Hubble length $\begin{array} { r } { R \equiv 1 / H = \sqrt { \frac { 3 } { \lambda } } \frac { 1 } { \varphi ^ { 2 } } } \end{array}$ , then the eqations (1） and (2) can be written as
+
+$$
+{ \dot { R } } - \alpha R = \beta \eta ( t ) ~ ,
+$$
+
+where $\alpha \equiv 8 \sqrt { \lambda / 3 }$ and $\beta \equiv 2 \sqrt [ 4 ] { \lambda / 3 } / 3$ . Given the initial condition $R = r _ { 0 }$ when $t = 0$ ， the solution to the above equation is
+
+$$
+R ( t ) = r _ { 0 } e ^ { \alpha t } + \beta e ^ { \alpha t } \int _ { 0 } ^ { t } d t _ { 1 } e ^ { - \alpha t _ { 1 } } \eta ( t _ { 1 } ) \ .
+$$
+
+# 3 The probability density and its implications
+
+We now defne and calculate the probability for eternal inflation to enter a given region in the history space. When we consider a spacially flat universe, using the slow-roll approximation, and averaging the inflaton field over one Hubble volume, the history space is parameterized by one single parameter. For simplicity， we choose this parameter as the Hubble length $R = 1 / H$ . Then the probability $d P _ { R _ { 0 } }$ for eternal inflation to enter a region with the Hubble length from $R _ { 0 }$ to $R _ { 0 } + d R _ { 0 }$ can be written as
+
+$$
+d P _ { R _ { 0 } } = P ( R _ { 0 } ) d R _ { 0 } \ .
+$$
+
+The probability density $P ( R _ { 0 } )$ counts the number of times the universe crosses the $R ( t ) = R _ { 0 }$ surface during a infinite length of time. So for a given function $\eta ( t )$ ，itis proportional to an integration of delta functions. Since $\eta ( t )$ is stochastic, we average over all possible $\eta ( t )$ with the appropriate weight. Then $P ( R _ { 0 } )$ takes the form
+
+$$
+P ( R _ { 0 } ) \sim \int [ d \eta ] \exp \left( - \frac { 2 } { 9 } \pi ^ { 2 } \int _ { 0 } ^ { \infty } d t _ { 1 } \eta ^ { 2 } ( t _ { 1 } ) \right) \int _ { t = 0 } ^ { \infty } d t \delta \left( R ( t ) - R _ { 0 } \right) .
+$$
+
+Each time the universe across $R ( t ) = R _ { 0 }$ ， the probability density $P ( R _ { 0 } )$ picks up a contribution of delta function.
+
+We pause to comment that in the above definition, $R _ { 0 }$ can be replaced by any other physical quantity if we are interested in computing the probability distribution of this quantity.
+
+It is in general not straightforward to calculate the functional integration (9). While the calculation becomes relatively easy when we consider the $\lambda \varphi ^ { 4 }$ theory. In this case, we make use of the integration expression for delta function, and approximate the continuous variable $t$ by a infinite number of small time intervals $\Delta t$ . In the last step we integrate out the Gaussian integrals and take the $\Delta t \to 0$ limit.Then the probability density takes the form
+
+$$
+P ( R _ { 0 } ) \sim \int _ { 0 } ^ { \infty } d t \sqrt { \frac { 8 \pi } { e ^ { 2 \alpha t } - 1 } } \exp \left( - 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } \frac { \left( e ^ { \alpha t } - { \frac { R _ { 0 } } { r _ { 0 } } } \right) ^ { 2 } } { e ^ { 2 \alpha t } - 1 } \right) .
+$$
+
+When $R _ { 0 } ~ \neq ~ r _ { 0 }$ ，the integration (1O） is finite,and the function $\frac { \left( e ^ { \alpha t } - \frac { R _ { 0 } } { r _ { 0 } } \right) ^ { 2 } } { e ^ { 2 \alpha t } - 1 }$ on the expontential has two saddle points $\begin{array} { r } { e ^ { \alpha t } \ = \ \frac { R _ { 0 } } { r _ { 0 } } } \end{array}$ and $\begin{array} { r } { e ^ { \alpha t } \ = \ \frac { r _ { 0 } } { R _ { 0 } } } \end{array}$ .We shall investigate
+
+separately the $R _ { 0 } > r _ { 0 }$ and $R _ { 0 } ~ < ~ r _ { 0 }$ behavior of the integration except the region where $R _ { 0 } - r _ { 0 }$ is much smaller than the Planck length.
+
+When $R _ { 0 } > r _ { 0 }$ ,let $\begin{array} { r } { e ^ { \alpha t } = \frac { R _ { 0 } } { r _ { 0 } } ( 1 + x ) } \end{array}$ , then the integration becomes
+
+$$
+P ( R _ { 0 } ) \sim \int d x \frac { 2 \sqrt { 2 \pi } } { \alpha \left( 1 + x \right) \sqrt { \left( 1 + x \right) \left( \frac { R _ { 0 } } { r _ { 0 } } \right) ^ { 2 } - 1 } } \exp \left( - 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } \frac { x ^ { 2 } } { ( 1 + x ) ^ { 2 } - \left( \frac { r _ { 0 } } { R _ { 0 } } \right) ^ { 2 } } \right)
+$$
+
+Since the integration is suppressed by a large exponential factor $- 8 \pi ^ { 2 } r _ { 0 } ^ { 2 }$ ,and $r _ { 0 }$ need to be larger than 1 in the Planck units in order to neglect effects of quantum gravity. So the integral is sharply peaked at the saddle point. So this integration can be approximated by
+
+$$
+P ( R _ { 0 } ) \sim \int d x \frac { 2 \sqrt { 2 \pi } } { \alpha \sqrt { \left( \frac { R _ { 0 } } { r _ { 0 } } \right) ^ { 2 } - 1 } } \exp \left( - 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } \frac { x ^ { 2 } } { 1 - \left( \frac { r _ { 0 } } { R _ { 0 } } \right) ^ { 2 } } \right) .
+$$
+
+It can be checked that the next to leading order correction (of the form $x ^ { 2 }$ ）from (11) is suppressed by a factor $1 / ( 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } )$ . So (12) is a good approxiamtion to (11). The integral (12) can be worked out to be
+
+$$
+P ( R _ { 0 } ) \sim \frac { 1 } { \alpha R _ { 0 } } .
+$$
+
+The probability density (13) is independent of the initial condition $r _ { 0 }$ . This result is in agreement with [15]. There are also some results in which the probability distribution depends on the initial condition [16, 19]. However the methods and models used there are different from ours.
+
+Note that the $R _ { 0 } > r _ { 0 }$ region is allowed by the classical motion without the random source $\eta ( t )$ . So it makes sense to compare the result (13) with the pure classical result. In the case without the noise, the probability is
+
+$$
+P _ { \mathrm { c l } } ( R _ { 0 } ) \sim \int _ { t = 0 } ^ { \infty } d t ~ \delta ( R ( t ) - R _ { 0 } ) ~ .
+$$
+
+where $R ( t ) = r _ { 0 } e ^ { \alpha t }$ . The function $R ( t )$ always increases with $t$ , and one obtain
+
+$$
+P _ { \mathrm { c l } } ( R _ { 0 } ) \sim \frac { 1 } { \partial _ { t } R ( t _ { 0 } ) } = \frac { 1 } { \alpha R _ { 0 } } \ .
+$$
+
+This classical result is natural because $P _ { \mathrm { c l } } ( R _ { 0 } ) d R _ { 0 }$ just measures the proper time for the universe to stay between $R _ { 0 }$ and $R _ { 0 } + d R _ { 0 }$ . Nevertheless one should not take this for granted for other models.
+
+The probability distribution with the random source (13) is the same as the classical probability density (15) in a good approximation. So in this classically allowed region, the quantum fluctuations do not change the result very much. This result is in agreement with [27],in which the quantities such as the e-folding number with quantum fluctuations are calculated and it is shown that the quantum corrections are small.
+
+On the other hand, when $R _ { 0 } < r _ { 0 }$ ,let $\begin{array} { r } { e ^ { \alpha t } = \frac { r _ { 0 } } { R _ { 0 } } ( 1 + x ) } \end{array}$ , then using a similar saddle point approximation,
+
+$$
+P ( R _ { 0 } ) \sim \int d x \frac { 2 \sqrt { 2 \pi } } { \alpha \sqrt { \left( \frac { r _ { 0 } } { R _ { 0 } } \right) ^ { 2 } - 1 } } \exp \left( - 8 \pi ^ { 2 } R _ { 0 } ^ { 2 } \left( \left( \frac { r _ { 0 } } { R _ { 0 } } \right) ^ { 2 } - 1 + \frac { x ^ { 2 } } { 1 - \left( \frac { R _ { 0 } } { r _ { 0 } } \right) ^ { 2 } } \right) \right) \ ,
+$$
+
+and (16) can be integrated out to give
+
+$$
+P ( R _ { 0 } ) \sim \frac { 1 } { \alpha r _ { 0 } } e ^ { - 8 \pi ^ { 2 } ( r _ { 0 } ^ { 2 } - R _ { 0 } ^ { 2 } ) } \ .
+$$
+
+This result also has interesting physical implications. Note that $8 \pi ^ { 2 } R ^ { 2 }$ is just the entropy of the de Sitter space with Hubble radius $R$ . So from the probability density (17)，we see that the probability for the universe to fluctuate from a high de Sitter entropy state to a low entropy state is suppressed by the exponential of the minus entropy diference. This result is in agreement with the generalized second law of thermodynamics and the calculation made in [16]. And as in [28],it provides another operational meaning to the de Sitter entropy.
+
+As a special case, let us consider the probability for the universe to tunnel from one $\lambda \varphi ^ { 4 }$ like minimum to another (see Fig. 1). Initially, the universe stays near one minimum of the potential. If $r _ { 0 } \gg R _ { 0 }$ ， the probability for the inflaton to randomly climb up the potential and get to the other minimum is suppressed by the factor $\exp ( - 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } )$ . This agrees with the calculation using the Coleman de Luccia instanion [29].
+
+![](images/71e0af86122b9e255f991c7b6ebc278eec2579240a7f208c9392d07266ce34b4.jpg)  
+Figure 1: Scalar field dynamics in the double well potential. Around each minimum, the potential looks like $\lambda ( \varphi - \varphi _ { i } ) ^ { 4 }$ 0 $( i = 1 , 2$ ). The probability for a stochastic scalar field to climb from one minimal to another agrees with the quantum calculation using the Coleman de Luccia instanton.
+
+# 4 Conclusion
+
+In this paper, we used a stochastic source to simulate the quantum fluctuation of the inflaton. We defined the probability for the universe to be at any given Hubble radius. It is shown in a concrete model that the probability can be calculated when the difference between $r _ { 0 }$ and $R _ { 0 }$ is larger than the Planck length.
+
+When $R _ { 0 } > r _ { 0 }$ , the probability is dominated by the classical probability without the random source, and the quantum correction is suppressed by the factor $1 / ( 8 \pi ^ { 2 } r _ { 0 } ^ { 2 } )$ While in the classical forbidden region $r _ { 0 } > R _ { 0 }$ , the probability is suppressed by the exponential of the minus entropy difference.
+
+Our defnition of the measure and the calculation of the probability offers a possible solution to the measure problem in inflation, and may lead to some insight to the physical meaning for the entropy of the de Sitter space. Although explicit calculations are performed in a single field inflation model with a $\lambda \varphi ^ { 4 }$ potential, the results have clear physical meaning, thus appear quite general, it remains an open problem whether the stochastic multi-field model with more general potentials share the nice
+
+features demonstrated in this paper.
+
+# Acknowledgments
+
+This work was supported by grants of NSFC. We thank Yi-Fu Cai, Chao-Jun Feng, Wei Song and Yushu Song for discussions.
+
+# References
+
+[1] A. H. Guth, Phys. Rev. D23, 347 (1981).   
+[2] A. D. Linde, Phys. Lett.B108,389 (1982).   
+[3] A.Albrecht,and P. J. Steinhardt, Phys. Rev. Lett. 48,1220 (1982).   
+[4] For earlier attemps on an inflationary model, see A. A. Starobinsky, JETP Lett. 30,682(1979) [Pisma Zh. Eksp. Teor. Fiz. 30 (1979) 719] ; A. A. Starobinsky, Phys. Lett.B91, 99 (1980).   
+[5] A.D. Miller et al.， Astrophys. J. 524, L1 (1999)，astro-ph/9906421; P. de Bernardis et al., Nature 404, 955 (2000)，astro-ph/0004404; S. Hanany et al., Astrophys. J. 524，L5 (2000)，astro-ph/0005123; N. W. Halverson et al.，Astrophys. J. 568, 38 (2002), astro-ph/0104489; B. S. Mason et al., Astrophys. J. 591, 540 (2003), astro-ph/0205384; A. Benoit et al., Astro. Astrophys. 399, L25 (2003),astro-ph/0210306; J. H. Goldstein et al.， Astrophys. J. 599, 773 (2003), astro-ph/0212517;   
+[6] D. N. Spergel et al., Astrophys. J. Suppl. 148, 175 (2003),astro-ph/0302209; D. N. Spergel et al., astro-ph/0603449.   
+[7] V. Mukhanov, and G. Chibisov, JETP 33, 549 (1981).   
+[8] A. H. Guth,and S.-Y. Pi, Phys. Rev. Lett. 49, 1110 (1982).   
+[9] S. W. Hawking, Phys. Lett. B115, 295 (1982).   
+[10] A. A. Starobinsky, Phys. Lett. B117, 175 (1982).   
+[11] J. M. Bardeen, P. J. Steinhardt, and M. S. Turner, Phys. Rev. D28,679 (1983).   
+[12] P. J. Steinhardt, The Very Early Universe Proceedings, pp.251, (1982).   
+[13] A. Vilenkin, Phys. Rev. D27, 2848 (1983).   
+[14] A. D. Linde, Mod. Phys. Lett. A1, 81 (1986); A. D. Linde, Phys. Lett. B175, 395(1986)； A. S. Goncharov, A. D. Linde, and V. F. Mukhanov, Int. J. Mod. Phys.A2, 561 (1987); A. D. Linde, D. A. Linde,and A. Mezhlumian,Phys. Rev.D49,1783 (1994); J. Garcia-Bellido,A. D. Linde,and D. A. Linde, Phys. Rev. D50, 730 (1994); A. D. Linde,D. A. Linde and A. Mezhlumian, Phys. Lett. B345, 203 (1995)   
+[15] J. Garriga， D. Schwartz-Perlov, A. Vilenkin and S. Winitzki， JCAP 0601， 017(2006) [arXiv:hep-th/0509184];D. Schwartz-Perlovand A.Vilenkin， JCAP 0606,010 (2006) [arXiv:hep-th/0601162]； A. Vilenkin, arXiv:hep-th/0602264; V. Vanchurin and A. Vilenkin, Phys. Rev. D74, 043520 (2006) [arXiv:hep-th/0605015]；A. Vilenkin,arXiv:hep-th/0609193.   
+[16] R.Bousso， Phys. Rev.Lett. 97， 191302 (2006) [arXiv:hep-th/0605263]; R. Bousso，B. Freivogel and I. S. Yang，Phys. Rev. D74， 103516 (2006) [arXiv:hep-th/0606114].   
+[17] G. W. Gibbons and N. Turok, arXiv:hep-th/0609095.   
+[18] A. Linde， JCAP 0701， 022 (2007) [arXiv:hep-th/0611043]； A. Linde, arXiv:0705.1160 [hep-th].   
+[19] D. Podolsky and K. Enqvist, arXiv:0704.0144 [hep-th].   
+[20] M. Li and Y. Wang, arXiv:0704.1026 [hep-th].   
+[21] Y. F. Cai and Y. Wang, arXiv:0706.0572 [hep-th].   
+[22] N. Goheer， M. Kleban and L. Susskind， JHEP O307， 056 (2003) [arXiv:hep-th/0212209].   
+[23] A. Linde, in The Very Early Universe,edited by G. Gibbons and S. Hawking (Cambridge University Press, Cambridge, UK,1983), p. 205; P. Steinhardt, ibid., p. 251; A. Borde and A. Vilenkin, Phys. Rev. Lett. 72, 3305 (1994); in Relativistic Cosmology: The Proceedings of the Eighth Yukawa Symposium， edited by M. Sasaki (Universal Academy Press, Tokyo, 1994)，p 111; Int. J. Mod. Phys. D5, 813 (1996); A. Borde, Phys. Rev. D50, 3392 (1994); A. Borde,A. H. Guth and A. Vilenkin,Phys.Rev. Lett.90,151301 (2003) [arXiv:gr-qc/0110012].   
+[24] J. B. Hartle and S. W. Hawking,“Wave Function Of The Universe,” Phys. Rev. D 28, 2960 (1983).   
+[25] A. Vilenkin，“Quantum Creation Of Universes,” Phys. Rev. D 30, 509 (1984); A. Vilenkin， “Quantum Cosmology And The Initial State Of The Universe," Phys. Rev. D 37, 888 (1988)； A. Vilenkin，“The Interpretation Of The Wave Function Of The Universe,” Phys. Rev. D 39,1116 (1989).   
+[26] A. Starobinsky, in Field Theory, Quantum Gravity and Strings,edited by H. de Vega and N. Sanchez (Springer-Verlag, Berlin, 1986)， vol. 246 of Lecture Notes in Physics; K.-i. Nakao, Y. Nambu, and M. Sasaki, Prog. Theor. Phys. 80,1041 (1988); Y. Nambu and M. Sasaki, Phys. Lett. B219, 240 (1989); Y. Nambu, Prog. Theor. Phys.81,1037 (1989).   
+[27] S. Gratton andN. Turok， Phys.Rev.D 72， 043507(2005) [arXiv:hep-th/0503063].   
+[28] N.Arkani-Hamed，S. Dubovsky， A. Nicolis,E. Trincherini and G. Villadoro, arXiv:0704.1814 [hep-th].   
+[29] S. R. Coleman and F. De Luccia, Phys. Rev. D 21, 3305 (1980).

@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "费米耀变体光学波段色指数变化的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李富婷¹，张雄\"†，熊定荣²,徐小林,任国伟\"，晏培琳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）（云南师范大学物理与电子信息学院，云南昆明650500）2）（中国科学院云南天文台，云南 昆明650500）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文利用调整流量基准面的方法修正19个费米Blazars的光学波段流量与色指数，通过对比修正前后色指数与星等相关关系，研究多普勒因子对于色指数变化机制的影响。研究表明：（1）修正前，只有5个源呈现明显的BWB趋势，2个源呈现明显的RWB趋势；（2)经过修正后，有9个源呈现明显的BWB趋势，6个源呈现弱的BWB趋势，只有4个源的色指数与星等不存在相关关系；（3）大约有一半的源的色变机制受到多普勒聚束效应的影响，在修正后，这些源的色指数与星等的相关性增强；（4）多普勒因子的变化可能是造成BWB趋势变弱的原因。通过研究色指数和星等的相关关系，能进一步解释Blazars 的辐射机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：耀变体，色指数，多普勒因子，相关关系，BWB趋势中图分类号：P157 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "众所周知，耀变体（Blazars）是活动星系核中极其特殊的一个子类，在光学和射电波段具有偏振，在所有波长都存在快速、大幅的光变，以及非热连续辐射[1-2]。根据发射线强度可以把Blazars分为两类，蝎虎天体（BLLacs）不存在或存在微弱发射线，平谱射电类星体(FSRQs)具有强发射线[3-4]。Blazars 光变可以根据光变时标分为三类[5-6，包括短时标光变（IDV流量变化时标以天为量级）、中等时标光变（STV流量变化时标以月为量级）和长时标光变（LTV流量变化时标以年为量级）。 $\\mathrm { S } 5 0 7 1 6 + 7 1 4$ 是一个具有连续光变的BLLac对象，在短时标光变中，光变时标通常在几分钟到几小时之间，但色指数和星等之间的关系很复杂[7-9]。Villata[10-11]研究了 $2 2 0 0 { + } 4 2 0$ 的光变曲线，发现当光源变亮时，颜色会变蓝（BWB)，并且认为“凸”谱上的多普勒因子变化可能是解释长期变化及其轻微色变的机制。Dai,Yan 等从2005 年到2006年对OJ287进行了研究，发现BWB 趋势的存在[12]。Zhang.X等[13-14]对处于低态的OJ287进行了观测研究，发现BWB 趋势的存在,对BLLacs天体 $\\mathrm { H } 0 3 2 3 { + } 0 2 2$ 进行了长期观测研究，也具有BWB 趋势.Ikejiri[15]等用望远镜观察了44个Blazars并分析色指数，发现 $88 \\%$ 的Blazars 都有BWB 趋势。Bindu[16等发现BLLacs 通常具有BWB 趋势，相反FSRQs 具有\"越亮越红”（RWB）趋势。通过研究86个样本，Hovata[17]发现所有平谱射电类星体都受到多普勒增强效应，并且平谱射电类星体的多普勒增强因子高于BLLacs。Blazars的多普勒聚束效应可以缩短视在时间尺度并极大地增强观中央引擎的原因[18]。许多研究者已经研究过Blazars 的色指数，最常见的是通过研究色指数和星等的相关关系，从而进一步解释Blazars 的辐射机制。为了研究多普勒聚束效应对于Blazars 的影响，我们利用SMARTS网站已公布数据收集了19个费米Blazars的B和R波段星等数据做以下分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.观测数据和色指数分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1观测数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据来自 SMARTS 网站（http://www.astro.yale.edu/smarts/glast/home.php）。基于分析结果依赖于数据样本大小的原因，我们选取了B波段和R波段具有较多观测数据的源，删除由于观测时间、望远镜故障等原因造成的不真实数据。最后，我们获得了19个FermiBlazars在B、R波段的准同时数据，包括3C 273、3C 279、3C 454.3、0208-512、 $0 2 3 5 + 1 6 4$ 、0250-225、0402-362、0454-234、0528+ 134、0531-4827、1004-217、1144 -379、1406-076、1424-41、1510-089、1622-297、2052-474、2142-75、2155-304。观测历时最长的是源3C454.3，从儒略日（JD）2454640到2457964。19个源中 $0 2 3 5 + 1 6 4$ 和 2155-304 属于BLLacs，其余均为FSRQs，通过筛选之后，从SMARTS网站得到12682组数据点，B波段和R波段数据点相同，都是6341个数据点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．2色指数分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们利用准同时数据得出19个源的色指数，计算了色指数与星等的相关关系。 $\\mathrm { S } 5 0 7 1 6 + 7 1 4$ 在微光变时标、短时标和长时标内都发现了BWB行为；Mrk501在中时标、短时标和微光变时标上具有BWB 趋势[17]；耀发期间的光谱指数与非耀发期的光谱指数不同[20]，因此色指数的变化可能与源的活动状态和时标有关。同时宿主星系、吸积盘成分的影响以及重力微透镜也会造成明显但不切实际的颜色变化[21-22]。因此我们利用调整流量基准面的方法修正流量与色指数，对比修正前后色指数与星等相关关系的差别，从而研究多普勒效应对Blazars色指数的影响。调整流量基准面（flux base-level modulation）[10-12.23]的方法如下：（1）为了去除密集采样的影响，将流量进行4天的合并，而后利用合并的数据进行三次样条插值，这样就得到了消除长期趋势后的流量值。由于SMARTS网站公布的是观测源的星等，在计算前利用以下公式进行星等与流量的转化：$F _ { B } = 4 2 6 0 \\times 1 0 ^ { - 0 . 4 \\times m _ { B } } \\times 1 0 ^ { 3 }$ ； $F _ { R } = 3 0 8 0 \\times 1 0 ^ { - 0 . 4 \\times m _ { R } } \\times 1 0 ^ { 3 }$ 。（2）为了研究多普勒聚束效应对Blazars 的影响，假设基级振荡是由于相对论多普勒因子0 $\\mathbf { \\chi } ^ { \\prime } \\delta = \\left[ \\Gamma ( 1 - \\beta \\cos \\theta ) ^ { - 1 } \\right] .$ ）的变化而产生，其中r是洛伦兹因子， $\\theta$ 是视角，将每个原始流量除以考虑时间的样条插值与原始流量最小值之间的比值来进行修正$\\begin{array} { r } { ( C _ { b a n d } ( t ) = \\left( \\frac { F _ { s p l } ( t ) } { F _ { o m } } \\right) _ { k } } \\end{array}$ ， $F _ { o m }$ 表示原始流量的最小值)。Villata提出了这种方法Fom 'band来探究 $2 2 0 0 { + } 4 2 0$ 的色差机制和多普勒因子的关系[10-11]。由于非等间隔观测，数据在某些时间段缺失，例如源 $0 2 3 5 + 1 6 4$ 从MDJ2455893.65096到2456855.86900没有观测数据。根据这种情况，我们将Villata提出方法中考虑时间的样条插值与插值的最小值之间的比值替换为考虑时间的样条插值与原始流量最小值之间的比值，以此得到的流量称为修正后流量，进一步得到修正后的色指数。对于流量合并时间标度则是考虑到：合并的时间标度太短就意味着对数据采样的要求很高，时间标度太长则会消除最佳采样期间的流量变化，因此选取4天作为流量合并时间标度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.研究结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们研究了修正前后的色指数（B-R）与R波段星等（R）之间的关系。我们假设色指数为Y，星等值为X，则 $\\mathrm { Y } = \\textbf { a } + \\textbf { b } { \\times } \\mathrm { X }$ 。表一和表二分别是修正前后星等和色指数的相关关系，表中a为截距，b为斜率，r为相关系数，p为置信度（20 $( \\mathtt { p } < 0 . 0 5$ 则认为相关)，n为每个源对应的样本数量。色指数为Y，星等值为X的线性关系图为图1至图19。研究结果表明调整流量基准面后的数据点集中在原始数据点的左侧.在修正前，根据颜色指数和星等之间的相关关系可以发现源3C 279、0454-234、 $0 5 2 8 + 1 3 4$ 、1004-217和1144-379具有明显的BWB趋势，而源3C454.3、0402-362具有明显的RWB趋势。修正后的结果表明15个源有BWB 趋势，只有3C454.3、0250-225、1406-076和1510-089 没有表现出BWB趋势。我们应该注意到颜色相关关系的弥散都很大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee29fbe6cadd167adc932da2f55502f4d5d10bf9fe4146081c595f410fb10699.jpg",
+        "table_caption": [
+            "表一：修正前色指数与星等的相关关系 Table 1 The relationship between color index and mag before correction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>a</td><td>b</td><td>r</td><td>p</td><td>n</td><td></td></tr><tr><td>3C 273</td><td>-0. 46091</td><td>0.06249</td><td>0.10907</td><td>0.03832</td><td>361</td><td>N</td></tr><tr><td>3C 279</td><td>0. 21685</td><td>0.05326</td><td>0.522</td><td>1. 27E-54</td><td>764</td><td>SP</td></tr><tr><td>3C 454.3</td><td>3.068</td><td>-0.1288</td><td>-0.64521</td><td>9.36E-103</td><td>863</td><td>SN</td></tr><tr><td>0208-512</td><td>1. 79447</td><td>-0.05025</td><td>-0.23372</td><td>5.16E-09</td><td>610</td><td>WP</td></tr><tr><td>0235+164</td><td>1. 6098</td><td>0.00721</td><td>0. 04255</td><td>0. 54565</td><td>204</td><td>N</td></tr><tr><td>0250-225</td><td>-4. 83895</td><td>0.30045</td><td>0.35417</td><td>0. 01459</td><td>47</td><td>WP</td></tr><tr><td>0402-362</td><td>2.78332</td><td>-0. 12137</td><td>-0. 44947</td><td>1.11E-09</td><td>167</td><td>SN</td></tr><tr><td>0454-234</td><td>0.13403</td><td>0.05382</td><td>0. 45757</td><td>9.73E-19</td><td>335</td><td>SP</td></tr><tr><td>0528+134</td><td>-12.2625</td><td>0.66322</td><td>0. 60947</td><td>2.56E-12</td><td>108</td><td>SP</td></tr><tr><td>0531-4827</td><td>-0.03607</td><td>0. 05741</td><td>0.37991</td><td>0.00118</td><td>70</td><td>WP</td></tr><tr><td>1004-217</td><td>-12. 32418</td><td>0. 75416</td><td>0. 77324</td><td>1. 16E-11</td><td>53</td><td>SP</td></tr><tr><td>1144-379</td><td>-1. 3372</td><td>0.12952</td><td>0. 42216</td><td>6.55E-09</td><td>174</td><td>SP</td></tr><tr><td>1406-076</td><td>1. 24719</td><td>-0.01782</td><td>-0.03619</td><td>0.59598</td><td>217</td><td>N</td></tr><tr><td>1424-41</td><td>1. 2373</td><td>-0.00605</td><td>-0.05179</td><td>0.22355</td><td>554</td><td>N</td></tr><tr><td>1510-089</td><td>2.16702</td><td>-0.08121</td><td>-0.20714</td><td>8.63E-08</td><td>656</td><td>WN</td></tr><tr><td>1622-297</td><td>1. 26059</td><td>-0.00523</td><td>-0.00727</td><td>0.90908</td><td>249</td><td>N</td></tr><tr><td>2052-474</td><td>1. 4628</td><td>-0.03527</td><td>-0. 15176</td><td>0.03372</td><td>196</td><td>N</td></tr><tr><td>2142-75</td><td>1. 04604</td><td>-0.00431</td><td>-0.00723</td><td>0.9284</td><td>157</td><td>N</td></tr><tr><td>2155-304</td><td>0. 1383</td><td>0. 04125</td><td>0. 37549</td><td>4.65E-20</td><td>556</td><td>WP</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c1cf4192cdf557f2aea911fa0fe14c91335b5ff88dde3d31492f78e599622ff.jpg",
+        "table_caption": [
+            "表二：修正后色指数与星等的相关关系 Table 1 The relationship between color index and mag after correction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>a</td><td>b</td><td>r</td><td>p</td><td>n</td><td></td></tr><tr><td>3C 273</td><td>-13.09038</td><td>1. 00941</td><td>0. 75894</td><td>7. 19E-69</td><td>361</td><td>SP</td></tr><tr><td>3C 279</td><td>-2.02385</td><td>0. 16432</td><td>0.34216</td><td>2.09E-22</td><td>764</td><td>WP</td></tr><tr><td>3C 454.3</td><td>1. 19932</td><td>-0. 0174</td><td>-0.03763</td><td>0.26951</td><td>863</td><td>N</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2abe544e7360b4d65f396eb98ef627683623d002ea68698f9daf401e86f29dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0208-512 -4. 14015</td><td>0.25117</td><td>0.29615</td><td>8.17E-14</td><td>610</td><td>WP</td></tr><tr><td>0235+164</td><td>-1. 07464 0.14824</td><td>0.33291</td><td>1.14E-06</td><td>204</td><td>WP</td></tr><tr><td>0250-225</td><td>-4. 07306 0.27247</td><td>0.23248</td><td>0.11583</td><td>47</td><td>N</td></tr><tr><td>0402-362</td><td>-3.90694 0.25753</td><td>0.35712</td><td>2.16E-06</td><td>167</td><td>WP</td></tr><tr><td>0454-234</td><td>-3.10732 0.22536</td><td>0.48876</td><td>1.62E-21</td><td>335</td><td>SP</td></tr><tr><td>0528+134</td><td>-19.95562 1.00882</td><td>0. 91441</td><td>1. 96E-43</td><td>108</td><td>SP</td></tr><tr><td>0531-4827</td><td>-12.57378 0. 72947</td><td>0.58633</td><td>9.65E-08</td><td>70</td><td>SP</td></tr><tr><td>1004-217</td><td>-12.36044 0. 74786</td><td>0. 75483</td><td>6.63E-11</td><td>53</td><td>SP</td></tr><tr><td>1144-379</td><td>-2.50022 0.19662</td><td>0.28644</td><td>1.27E-04</td><td>174</td><td>WP</td></tr><tr><td>1406-076</td><td>-3.30433 0.19916</td><td>0.17689</td><td>0.00902</td><td>217</td><td>N</td></tr><tr><td>1424-41</td><td>-7.39331 0.46328</td><td>0.60051</td><td>1.39E-55</td><td>554</td><td>SP</td></tr><tr><td>1510-089</td><td>0.92608 0.03829</td><td>0.07717</td><td>0.04819</td><td>656</td><td>N</td></tr><tr><td>1622-297</td><td>-10. 34744 0.58848</td><td>0.48985</td><td>1. 97E-16</td><td>249</td><td>SP</td></tr><tr><td>2052-474</td><td>-3.98386 0.25209</td><td>0. 40415</td><td>4.24E-09</td><td>196</td><td>SP</td></tr><tr><td>2142-75</td><td>-8.15586 0.50491</td><td>0.53757</td><td>3.89E-13</td><td>157</td><td>SP</td></tr><tr><td>2155-304</td><td>-2. 1381 0.1937</td><td>0.39326</td><td>5.24E-22</td><td>556</td><td>WP</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表一和表二中 SP表示强正相关关系（strong positivecorrelation），WP 表示弱正相关关系（weak positive correlation），SN表示强负相关关系（strongnegative correlation)，WN表示弱负相关关系（weak negative correlation）,N表示没有相关关系（no significantcorrelation）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/50aeec70fdc601b1e321eb28363e3fc2734f6a2772a44d220a80e441af7fb420.jpg",
+        "img_caption": [
+            "图13C273的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b82c840f9d9dbffe6e1c078ad742300018c25ac26d2d3b26ce5b4084dabf7d7c.jpg",
+        "img_caption": [
+            "Fig.1 The relation between the color index and mag of 3C 237 ",
+            "图2 3C279的色指数与星等关系图",
+            "Fig.2 The relation between thecolor index and mag of 3C 239 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/916008f4fa5a63a9496fe3bdfae421138b28fe6a11c7db219b07e966d615b17d.jpg",
+        "img_caption": [
+            "图3 3C454.3的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5705a8983e6abdb9417698d89b5c89338281710ff3221f93b6c0af2d586aa0bd.jpg",
+        "img_caption": [
+            "Fig.3 The relation between the color index and mag of 3C 454.3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/38b6439d4b32e32ec2a2c384852f1d2f176dc5fac655f998860ea91bd2780975.jpg",
+        "img_caption": [
+            "图5 $0 2 3 5 \\substack { + 1 6 4 }$ 的色指数与星等关系图",
+            "图7 0402-362的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 The relation between the color index and mag ofO402-362 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/66bbc755c452815401e442be638f886334b8196c18e9c68e6025d421b99e8066.jpg",
+        "img_caption": [
+            "图4 0208-512的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd7ba493f8bdc3611e31fe7fc8be491109d212aebb639e0b96e18e6223a336c2.jpg",
+        "img_caption": [
+            "Fig.4 The relation between the color index and mag of O2o8-512 ",
+            "图6 0250-225的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3faa3bd0cb5a5883ba5e981ecc8732c2af75da8efba662cb3c06e6bc782bf1a.jpg",
+        "img_caption": [
+            "Fig.5 The relation between the color index and mag of $0 2 3 5 \\substack { + 1 6 4 }$ ",
+            "Fig.6 The relation between the color index and mag of O250-225 ",
+            "图8 0454-234的色指数与星等关系图",
+            "Fig.8 The relation between the color index and mag of O454-234 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/26097ebf9f17e8c539766db7bd6b873a7ef6e353167fb06cadec5be1ca9c8b0d.jpg",
+        "img_caption": [
+            "图9 $0 5 2 8 \\substack { + 1 3 4 }$ 的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6c0626a5cef2d5a88e02acb62821aa946654e091adc934495c2ca5721dacd0c.jpg",
+        "img_caption": [
+            "Fig.9 The relation between the color index and mag of $0 5 2 8 \\substack { + 1 3 4 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/341ad910a3b878a8669564c253ecf1f302e8b6cb0a72ef4eee3f2efa789bf891.jpg",
+        "img_caption": [
+            "图10 0531-4827的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2195c8e265507998a9b10641a70773a510101a5e378371dbfa400d1ef5d64581.jpg",
+        "img_caption": [
+            "Fig.10 The relation between the color index and mag ofo531-4827 ",
+            "图12 1144-379的色指数与星等关系图",
+            "Fig.12 The relation between the color index and mag ofl144-379 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4751db277e3b9ff0d3a540fc2816b327db3a6a2750e22bfb7df907a247e14b6.jpg",
+        "img_caption": [
+            "图11 1004-217的色指数与星等关系图",
+            "图13 1406-076的色指数与星等关系图",
+            "Fig.13 The relation between the color index and mag of 1406-076 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/42b77849f0994de3939dbeabf994df478177f33e918fb8c4fdd2bbe4806171fc.jpg",
+        "img_caption": [
+            "Fig.11 The relation between the color index and mag of 1oo4-217 ",
+            "图14 1424-41的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.14 The relation between the color index and mag of 1424-41 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/baa0166aed329de8952d4d5dc25641d6397a4239015fc7a5fa8472cc82365d3a.jpg",
+        "img_caption": [
+            "图151510-089的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1311984973f861ef0f0d1ce159f6b758602130089a8c1203fe1a19be9247fc80.jpg",
+        "img_caption": [
+            "图16 1622-297的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebefb65dbc9c12a4045e73eb5f3ab345690e6f453ed4b940645178e60b7395c5.jpg",
+        "img_caption": [
+            "Fig.15 The relation between the color index and mag of 1510-089 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.16 The relation between the color index and mag of 1622-297 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/459c82c99a0ee345060f3580443bb78bbd8586130248b3d4878222466f722a04.jpg",
+        "img_caption": [
+            "Fig.17 The relation between the color index and mag of 2O52-474 ",
+            "图18 2142-75的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.18 The relation between the color index and mag of 2142-75 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/05498d3b8d4ac3f345e57cbbf27b92bef9e50c06bc8125dbd67a86ae22131955.jpg",
+        "img_caption": [
+            "图17 2052-474的色指数与星等关系图",
+            "图19 2155-304的色指数与星等关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.19 The relation between the color index and mag of 2155-304 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析修正前后色指数与星等之间的相关关系发现（1）修正前，只有5个源呈现明显的BWB趋势，2个源呈现明显的RWB 趋势；（2）经过修正后，有9个源呈现明显的BWB趋势，6个源呈现弱的BWB趋势，只有4个源的色指数与星等不存在相关关系；（3)源3C273、0528+143、0531-4827、1406-076、1424-41、1622-297、2052-474、2142-75的相关性在修正后增强，可以认为这些源的BWB 趋势受到了多普勒因子的影响。其中源3C279、3C454.3、0235+164、0250-225、1144-379、1510-089的相关性在修正后变小了，对于修正前后相关性无明显变化或变小的，我们认为多普勒因子对这些源的色指数没有太大影响或这些源具有较为复杂的辐射机制。用激波喷流模型能很好地解释BWB趋势的产生，当大量的电子向外辐射冲击强磁场区域，导致这个区域的辐射增加，在观测上这些高频率的辐射将立刻暴露出来，而在低频率的辐射要相对迟一些，从而导致在流量上升的过程中天体会慢慢变蓝。而由于观测视角的改变，使得多普勒聚束因子的变化会导致部分Blazars的BWB趋势减弱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 黄克谅.类星体和活动星系核[M]．北京：中国科学出版社，2005.   \n[2] Angel, J. R.P.; Stockman, H. S. Optical and infrared polarization of active extragalactic objects.[J].Annual review of astronomy and astrophysics,1980,18:321-361   \n[3] Urry, C. Megan; Padovani,Paolo. Unified Schemes for Radio-Loud Active Galactic Nuclei. [J]. Publications of the Astronomical Society of the Pacific, 1995,1O7, 803   \n[4] Scarpa, R.; Falomo,R. Are high polarization quasars and BL Lacertae objects really different? A study of the optical spectral properties.[J]. Astronomy and Astrophysics,1997,325: 109-123 [5] Poon, H.; Fan, J. H.; Fu, J. N. The Optical Microvariability and Spectral Changes of the BL Lacertae Object $5 5 0 7 1 6 { + } 7 1 4$ [J]. The Astrophysical Journal Supplement, 2009,185: 511-525 [6] Wagner, S. J.； Witzel,A. Intraday Variability In Quasars and BL Lac Objects.[J]. Annual Review of Astronomy and Astrophysics,1995, 33: 163-198   \n[7] Dai, Ben-zhong; Zeng, Wei; Jiang, Ze-jun; Fan, Zhong-hui; Hu, Wen; Zhang, Peng-fei; Yang, Qing-yun; Yan, Da-hai; Wang, Dan; Zhang, Li. Long-term Multi-band Photometric Monitoring of Blazars $\\mathrm { S } 5 0 7 1 6 \\substack { + 7 1 4 }$ ：[J]. The Astrophysical Journal Supplement Series,2015,218:18-22 [8] Ghiselini, G.; Villata, M.; Raiteri, C.M.; Bosio, S.; de Francesco, G.; Latini, G.; Maesano,M.; Massaro, E.; Montagni, F; Nesci,R.; Tosti, G.; Fiorucci, M.; Pian,E.; Maraschi, L.; Treves,A.; Comastri, A.; Mignoli, M. Optical-IUE observations of the gamma-ray loud BL Lacertae object S5 $0 7 1 6 + 7 1 4$ : data and interpretation. [J]. Astronomy and Astrophysics,1997,327: 61-71   \n[8] Ghisellini, G.; Villata, M.; Raiteri, C. M.; Bosio, S.; de Francesco, G.; Latini, G.; Maesano,M.; Massaro, E.; Montagni, F; Nesci,R.; Tosti, G.; Fiorucci, M.; Pian,E.; Maraschi,L.; Treves,A.; Comastri, A.; Mignoli, M. Optical-IUE observations of the gamma-ray loud BL Lacertae object S5 $0 7 1 6 + 7 1 4$ : data and interpretation.[J]. Astronomy and Astrophysics,1997, 327: 61-71   \n[9] Bhatta, G.; Webb, J.R.; Hollingsworth, H.; Dhalla, S.; Khanuja, A.; Bachev,R.; Blinov, D.A.; Böttcher, M.；Bravo Call, O. J. A.; Calcidese, P.; Capezzali, D.; Carosati, D.; Chigladze,R.; Collins,A.; Coloma, J. M.; Efimov, Y.; Gupta, A. C.; Hu, S. -M.; Kurtanidze, O.; Lamerato,A. The 72-h WEBT microvariability observation of Blazars $\\mathrm { S } 5 0 7 1 6 + 7 1 4$ in 2009.[J].Astronomy & Astrophysics2013, 558: A92   \n[10] Villata,M.；Raiteri, C. M.； Kurtanidze, O.M.； Nikolashvili, M. G.； Ibrahimov, M. A.; Papadakis,I. E.; Tosti, G.; Hroch,F:; Takalo,L. O.; Sillanpaa,A.; Hagen-Thorn, V.A.; Larionov,V. M.; Schwartz, R. D.; Basler, J.; Brown, L. F.; Balonek, T. J.; Benitez, E.; Ramirez, A.; Sadun, A. C.; Boltwood, P. The WEBTBL Lacertae Campaign 2001 and its extension. Optical light curves and colour analysis 1994-2002. [J]. Astronomy and Astrophysics, 2004 ,421:103-114   \n[11] Villata,M.； Raiteri, C. M.; Kurtanidze, O. M.; Nikolashvili, M. G.； Ibrahimov, M. A.; Papadakis, I. E.; Tsinganos, K.; Sadakane, K.; Okada, N.; Takalo, L. O.; Sillanpaa, A.; Tosti, G.; Ciprini, S.; Frasca, A.; Marilli, E.; Robb, R. M.; Noble, J. C.; Jorstad, S. G.; Hagen-Thorn, V. A.; Larionov, V. M. The WEBT BL Lacertae Campaign 2OO0. [J]. Astronomy and Astrophysics, 2004 ,390: 407-421   \n[12] Dai， Yan；Wu, Jianghua; Zhu, Zong-Hong; Zhou, Xu; Ma,Jun. Color Behavior of BL Lacertae Object OJ 287 during an Optical Outburst. [J]. The Astronomical Journal,2011,141,65 [13] Zhang, X.; Zhao, G.; Zheng, Y. G.; Ma, L.; Xie, Z. H.; Hu, S. M. CCD photometry and optical variability of gamma-ray-loud BL Lacertae object OJ 287 in a low, fainter state [J]. Astronomical Journal, 2007,133(5): 1995-2000   \n[14] Zhang, X.; Zheng, Y. G.; Zhang, H. J.; Hu, S. M. CCD photometry and optical variability of the BL Lacertae object $\\mathrm { H } 0 3 2 3 \\substack { + 0 2 2 }$ Astrophysical Journal, The - Supplement Series,2008,174(1): 111-116   \n[15] Ikejiri， Yuki； Uemura， Makoto； Sasada，Mahito； Ito，Ryosuke；Yamanaka,Masayuki; Sakimoto, Kiyoshi; Arai, Akira; Fukazawa, Yasushi; Ohsugi, Takashi; Kawabata, Koji S.; Yoshida, Michitoshi; Sato, Shuji; Kino, Masaru.Photopolarimetric Monitoring of Blazars in the Optical and Near-Infrared Bands with the Kanata Telescope. I. Correlations between Flux，Color, and Polarization. [J]. Publications of the Astronomical Society of Japan,2011,63: 639—675   \n[16] Rani，Bindu; Gupta,Alok C.； Strigachev, A.; Bachev, R.；Wita, Paul J.； Semkov,E.; Ovcharov, E.; Mihov,B.; Boeva, S.; Peneva, S.; Spassov, B.; Tsvetkova, S.; Stoyanov, K.; Valcheva,A. Short-term flux and colour variations in low-energy peaked Blazars.[J].Monthly Notices of the Royal Astronomical Society.2010,404: 1992-2017   \n[17] Hovatta, T.; Valtaoja, E.; Tornikoski, M.; Lahteenmäki, A. Doppler factors,Lorentz factors and viewing angles for quasars,BL Lacertae objects and radio galaxies. [J]. Astronomy and Astrophysics.2009,494: 527-537   \n[18] Gaur, Haritma; Gupta, Alok C.; Bachev， R.; Strigachev， A.; Semkov, E.; Wita, P. J.; Kurtanidze, O. M.; Darriba, A.; Damljanovic, G.; Chanishvili, R. G.; Ibryamov, S.; Kurtanidze, S. O.； Nikolashvili,M. G.; Sigua, L. A.; Vince, O. Optical variability of TeV Blazars on long time-scales. [J].2019, 484:5633-5644   \n[19] Xiong, Dingrong; Zhang, Haojing; Zhang, Xiong; Yi, Tingfeng; Bai, Jinming; Wang, Fang; Liu, Hongtao; Zheng, Yonggang. Multi-color Optical Monitoring of MRK 501 from 2010 to 2015. [J]. The Astrophysical Journal Supplement Series.2016,222, 24   \n[20] Zheng, Y. G.; Zhang, X.; Bi, X. W.; Hao, J. M.; Zhang, H. J. Long-term optical spectra variability of BL Lacertae object OJ 287. [J].Monthly Notices of the Royal Astronomical Society,2008,385: 823-829   \n[21] Hawkins，Michael R. S. Quasar Variability: New Surveys and New Models..[J]. Astronomical Society of the Pacific.2002,284,351   \n[22] Gaur, Haritma; Gupta, Alok C.; Bachev, R.; Strigachev,A.; Semkov, E.; Bötcher, M.; Wiita, P. J.; de Diego, J. A.; Gu, M.F.; Guo, H.; Joshi, R.; Mihov,B.; Palma,N.; Peneva, S.; Rajasingam, A.; Slavcheva-Mihova,L. Nature of intranight optical variability of BL Lacertae. [J]. Monthly Notices of the Royal Astronomical Society,2015, 452:4263-4273 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23] Xiong, Dingrong; Bai, Jinming; Fan,Junhui; Yan, Dahai; Gu,Minfeng; Fan, Xuliang; Mao, Jirong;Ding,Nan; Xue,Rui; Yi. Multicolor Optical Monitoring of the Blazar $\\mathrm { S } 5 0 7 1 6 \\substack { + 7 1 4 }$ from 2017 to 2019.[J]. arXiv:2002.08705v1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Study on Color Index of the Fermi Blazars ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LiFuting， Zhang Xiongt，Xiong,Dingrong,XuXiaoling，RenGuowei ，YanPeilin (College of Physics and Electronics，Yunnan Normal University,Kunming，China,650500) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(Yunnan Observatory, Chinese Academy of Sciences,Kunming 65o5oo,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, the optical band flux and color index of 19 Fermi Blazars are corrected by modulating the flux base-level. By comparing the correlation between the color index and the magnitude before and after the correction,the effect of the Doppler factor on the color index change mechanism is studied. Studies show that: (1) only five sources showed a clear BWB trend before the correction, and two sources showed a clear RWB trend; (2) after the correction, nine sources showed a clear BWB trend,and six sources showed a weak BWB trend, only the color indices of 4 sources have no correlation with the magnitude; (3) The color change mechanism of about half of the sources is affected by the Doppler beamforming effect. After correction, the correlation between the color index and magnitude of these sources is enhanced; (4) The change of the Doppler factor may be the cause of the weakening of the BWB trend.By studying the correlation between the color index and the magnitude,the radiation mechanism of Blazars can be further explained. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: Blazars; color index; Doppler factor; correction; BWB trend ",
+        "page_idx": 9
+    }
+]

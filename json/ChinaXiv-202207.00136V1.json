@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "Assessment of drought and its impact on winter wheat yield in the Chinese Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Fengjiao1, FU Bojie², LIANG Wei1,3\\*, JIN Zhao4, ZHANG Liwei1, YAN Jianwu1,3, FU Shuyi5, GOU Fen1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geography and Tourism, Shaanxi Normal University, Xi'an 71O119,China;   \n2 State KeyLaboratoryof UrbanandRegionalEcologyResearch CenterforEco-Environmental Sciences,Chinese Academyof Sciences,Beijing 100085,China;   \n3NationalDemonstrationCenterforExperimental GeographyEducation,Shaanxi Normal University,Xi'an710l19,China;   \n4StateKey Laboratoryof Soil Erosionand Dryland Farmingonthe LoessPlateau,Northwest A&F University,Yangling 712100, China;   \n5 School of Geography and Planning,Sun Yat-Sen University,Guangzhou 510275, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought has pronounced and immediate impacts on agricultural production, especially in semi-arid and arid rainfed agricultural regions.Quantification of drought and its impact on crop yield is esential to agricultural water resource management and food security. We investigated drought and its impact on winter wheat (Triticum aestivum L.） yield in the Chinese Loess Plateau from 2001 to 2015. Specifically,we performed a varimax rotated principal component analysis on drought severity index (DSI) separately for four winter wheat growth periods: pre-sowing growth period (PG),early growth period (EG), middle growth period (MG),and late growth period (LG),resulting in three major subregional DSI dynamics for each growth period.The county-level projections of these major dynamics were then used to evaluate the growth period-specific impacts of DSI on winter wheat yields by using multiple linear regression analysis. Our results showed that the growth period-specific subregions had diferent major DSI dynamics.During PG,the northwestern area exhibited a rapid weting trend, while small areas in the south showed a slight drying trend.The remaining subregions fluctuated between dryness and wetness. During EG,the northeastern and western areas exhibited a mild weting trend. The remaining subregions did not display clear weting or drying trends. During MG,the eastern and southwestern areas showed slight drying and weting trends, respectively. The subregions scatered in the north and south had a significant weting trend. During LG,large areas in the east and west exhibited weting trends, whereas small parts in south-central area had a slight drying trend.Most counties in the north showed significant and slight wetting trends during PG,EG,and LG,whereas a few southwestern counties exhibited significant drying trends during PG and MG.Our analysis identified close and positive relationships between yields and DSI during LG,and revealed that almost all of the counties were vulnerable to drought. Similar but less strong relationships existed for MG, in which northeastern and eastern counties were more drought-vulnerable than other counties. In contrast, a few drought-sensitive counties were mainly located in the southwestern and eastern areas during PG,and in the northeastern corner of the study region during EG. Overall,our study dissociated growth period-specific and spatial location-specific impacts of drought on winter wheat yield,and might contribute to a beter understanding of monitoring and early warning of yield loss. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: drought severity index; winter wheat; crop yield; principal component analysis; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:WANGFengjiao,FUBojie,LIANGWei,JINZhao,ZHANGLiwei,YANJianwu,FUShuyi,GOUFen2022. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assessment of drought and its impacton winter wheat yieldin the Chinese Loess Plateau.Journal of Arid Land,14(7): 771-786.https://doi.org/10.1007/s40333-022-0021-0 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Global climate change is one of the most complex challenges that human is facing in the $2 1 ^ { \\mathrm { s t } }$ century.As recently indicated by the sixth assessment report of Intergovernmental Panel on Climate Change (IPCC, 2O21)，global warming as caused by human activities has led to more frequent and extreme climate events, such as heat waves and drought (particularly drought caused by increasing evapotranspiration). Drought has a pronounced and immediate impact on agricultural production, and consequently affects food security and social stability (Lesk et al., 2O16; Madadgar et al.,2017; Kontgis et al.，2O19). One of the key factors for better understanding and mitigating drought disasters is to assess agricultural drought and its impact on crop production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agricultural drought can be defined as crop water deficit that results from two simultaneous processes: insufficient soil water supply caused by high temperatures or reduced precipitation, and continuous crop water consumption via transpiration. Consequently, the regular physiological processes of crops are not well-supported, thereby limiting crop growth or even leading to crop failure (Zhou et al., 2O17; Dai et al., 2O2O). Researchers assess agricultural drought by various drought indices based on ground observations,remote sensing,or an integration of these two methods. Ground observation-based indices,such as the Palmer Drought Severity Index (PDSI; Palmer,1965) and the Standard Precipitation Index (SPI; McKee et al.,1993) are limited by the sparse and heterogenetic spatial distribution of observation stations in agroecological regions, leading to insufficient support for timely drought detection, monitoring,and decision-making at a large spatial scale (Anderson et al.,2O11; Liu et al.,2O2O). Remote sensing-based indices, such as the Vegetation Condition Index (VCI; Kogan,1995）and the Temperature Vegetation Drought Index (TVDI; Sandholt et al., 2OO2) overcome some limitations of ground station-based indices, and potentially provide cost-effective and spatially continuous dynamic large-scale drought monitoring (Xu et al.,2018; Jiao et al., 2021). Evolving methodological developments have led to drought indices that integrate data from ground observations and remote sensing，such as the Vegetation Drought Response Index (VegDRI; Brown et al.，2OO8）and the Drought Severity Index (DSI; Mu et al.,2O13). DSI integrates drought diagnostic information from the Normalized Difference Vegetation Index (NDVI） and the ratio of evapotranspiration (ET） to potential ET (PET),leading to flexible drought monitoring at different spatial and temporal scales.NDVI potentially links meteorological changes to vegetation responses as observed through changes in vegetation greenness with land-atmosphere water,carbon,and energy fluxes that are associated with climatic feedbacks (Atkinson et al.,2O11).ET,as a key component of the terrestrial water and energy cycles, is an important constraint on water availability,and directly and effectively describes the moisture status of ecosystems (Yang et al., 2O14; Srivastava et al., 2O17). The ratio of ET to PET is commonly used as an indicator of terrestrial water availability and associated wetness or drought (Huang et al., 2O2O; Han et al.,2O21). DSI was employed in this study for the assessment of drought because it permits more accurate characterization of drought indices while comprehensively considering these key factors at global and regional scales (Mu et al.,2013; Zhang and Yamaguchi,2014; Zhang et al.,2016; Yu et al.,2019; Huang et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Researchers can employ numerical models and statistical models to assess the impact of drought on agricultural production. Numerical models are process-based and can test the impact of water stress on crop yield using experimental trials that leverage a priori knowledge on crop physiology and reproduction,agronomy,and soil science (Lobelland Burke,2O1O; Boonwichai et al., 2018; Lecerf et al.,2018; Bahri et al. 2019). Such models are not available for every region, and depend on site-specific calibration that requires a large amount of region-specific data such as information on cultivars,management,and soil conditions (Iizumi et al., 2Oo9; Chapagain et al., 2022).Alternatively, statistical models such as regression are flexible at both temporal and spatial scales (Mu et al.，2O13).Despite their deficiencies in leveraging information about crop physiology and multicollinearity (Lobell and Asseng, 2O17), they do provide several advantages over numerical models.First, they require only the historical records of crop yield and corresponding drought metrics as previously mentioned (Mu et al.,2O15); second, they are less dependent on field calibration data (Lobell and Burke,2OlO)；third,the uncertainties of the statistical models can be transparently assessed (Lobell and Burke,2O1O). Considering these advantages，we employed a statistical model based on multiple linear regression to assess the impact of drought on crop yield. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have found that China is a drought-prone country,and frequently suffers from drought-related crop failures (Wang et al.,2O14; Geng et al., 2016), especially in the semi-arid and arid agricultural regions because croplands in such regions are mainly subject to natural precipitation (Hu et al., 2014; Qin et al.,2014; Bo et al., 2015). The Loess Plateau (LP) is a typical rainfed agronomic region in China, and is dominated by continental semi-arid and arid conditions. The agricultural production of this area is especially dependent on weather conditions, and is vulnerable to drought (Yu et al.,2O19). The dominant crop in LP is winter wheat (Triticum aestivum L.). The growing season occurs over late-autumn, winter, and early-spring， and is characterized by insufficient precipitation (He et al.,2O15; Jin et al.,2O18). As a result, the yield of winter wheat in this region is typically relatively low and unstable (Jin et al.,2018). Consequently，this region is particularly suitable for investigating the impact of drought on agricultural production. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recent studies have revealed complex trends regarding the evolution and spatiotemporal characteristics of drought. Therefore,it may be necessary to assess drought at the subregional scale (Portela et al.,2017; Guo et al.,2018; Zhou et al., 2020). However, most previous studies have overlooked the evaluation of drought in subregions with similar drought co-variability when evaluating the impact of drought on winter wheat yield. In addition, water stress during different growth periods， such as the pre-sowing period before seeding and other growth periods after seeding，may influence crop phenology differently. Consequently，the relationship between drought and final yield should be evaluated separately for different crop growth periods. However, previous studies in LP either did not consider this effect or only considered growth periods after seeding (Zhang et al.,2016; Jin et al.,2018; Huang et al.,202O; Wan et al.,2021). Additionally, previous remote sensing-based studies regarding the impact of drought on crop yield have mainly focused on an entire crop production area (Lobell and Burke,2O1O; Liu et al., 2O18; Wang et al., 2018a), with limited specificity and practical guidance for a specific type of crop (for example, winter wheat). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore,to address these issues,the general objective of this study was to assess wheat growth period-specific drought and its impact on yield in the Loess Plateau，with the consideration of the complex spatiotemporal characteristics of drought at the subregional scale. Specifically, we sought to extract reliable growth period-specific spatiotemporal dynamics of DSI. We also intended to dissociate growth period-specific and spatial location-specific impacts of drought on winter wheat yield.To this end, we first extensively assessed the subregional temporal dynamics of DSI by applying principal component analysis (PCA） with varimax rotation separately for diferent growth periods,and then examined the significant trends of DSI for each county according to the subregions and their corresponding major temporal characteristics in each growth period. We then evaluated the relationships between the major DSI dynamics during different growth periods with winter wheat yield individually for each county by using multiple linear regression analysis. We expect that our results will clarify the quantitative relationship between agricultural drought and winter wheat yield,and provide methodological considerations that can be applied to other regions for the evaluation of drought and its impact on crop yield over large-scale areas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Loess Plateau (LP; $3 3 ^ { \\circ } 4 3 ^ { \\prime } - 4 1 ^ { \\circ } 1 6 ^ { \\prime } \\mathrm { N }$ and $1 0 0 ^ { \\circ } 5 4 ^ { \\prime } { \\mathrm { - } } 1 1 4 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { E } )$ is located near the geographical center of China,and covers about $6 4 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ， consisting of 334 county-level administrative regions that are scattered across seven provinces (Fig.1). The region is characterized by a gradual transition from semi-arid conditions in the west to semi-humid conditions in the east,and experiences a typical continental monsoonal climate. The annual mean air temperature ranges from $3 . 6 ^ { \\circ } \\mathrm { C }$ to $1 4 . 3 ^ { \\circ } \\mathrm { C }$ ,and the annual mean precipitation varies from $2 0 0 ~ \\mathrm { { m m } }$ in the northwest to $8 0 0 ~ \\mathrm { { m m } }$ in the southeast (Fu et al., 2O17). Precipitation fluctuates across seasons, and about $60 \\%$ to $80 \\%$ of the annual precipitation occurs from June to September in high-intensity rainstorms.A previous study indicated that from 2OoO to 2O12 annual ET had increased by $3 . 4 ~ \\mathrm { m m }$ . However, during that same period, annual precipitation had only increased by $2 . 0 \\mathrm { m m }$ ， suggesting a possible pressure on water availability (Jin et al.,2Ol7). Such unbalanced seasonal precipitation results in the area suffering frequently from both soil erosion and drought (Jiang and Bai, 2O2O; Wu et al., 2021). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LP is characterized by high solar radiation， relatively low precipitation， high evapotranspiration,and severe water deficit, and is mainly fed by rain (Li et al.，2010). Consequently, crop growth and yield are impacted by frequent drought occurrences. One of the major land cover types in the LP is cropland (Yu et al.,2O19). We chose the main food crop in the LP, winter wheat, to evaluate the effects of drought on yield. Accordingly, the winter wheat producing area, about $2 . 5 1 { \\times } 1 0 ^ { 6 } \\ : \\mathrm { h m } ^ { 2 }$ ,was retrieved from a previous study (Jin et al., 2O18) as our study area. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cba8528f74b1eb88e8c629899bf2626d3fa6c930315fbce7c5af1e266e7c445.jpg",
+        "img_caption": [
+            "Fig.1Overview of the winter wheat producing counties in the Chinese Loess Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data preparation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Winterwheat yield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Winter wheat production and sown areas from 2O0l to 2O15 were obtained from the China Statistical Yearbook and Provincial Statistical Yearbook for each county of the study area. We calculated the wheat yield of each county according to the corresponding production and sown area. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Normalized difference vegetation index (NDVI) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NDVI dataset of the study area ( $_ { 1 - \\mathrm { k m } }$ spatial resolution and 16-d temporal resolution） was acquired from the National Aeronautics and Space Administration (NASA) Earth Observation System (http://modis.gsfc.nasa.gov) from 2001 to 2015.We corrected the NDVI time series using a Savitzk-Golay filter to suppress the residual noise from cloud contamination and atmospheric variability (Savitzky and Golay，1964； Chen et al.，2O04).Then the corrected data were interpolated to 1-d resolution using Lagrange interpolation (Bognár et al.,2O17; Tian et al., 2019). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 ET ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We estimated actual ET and potential ET (PET) of winter wheat cropland from 2O0l to 2015 according to our previously published Vegetation Interfaces (VI)-based study (Wang et al.,2020) that involved the input of cropland cover maps,vegetation forcing data,and meteorological forcing data. A winter wheat cropland map was retrieved from the winter wheat producing area of a previous study (Jin et al.,2O18). The vegetation forcing data included satelite-observed leaf area index (LAI),albedo,and solar zenith angle data.LAI and albedo were derived from datasets from the Global Land Surface Satellite (http://glass-product.bnu.edu.cn/) with an interval of $8 \\textup { d }$ and a spatial resolution of O.O5 degree. Solar zenith angle was acquired from the daily global 0.05-degree resolution surface reflectance datasets from the Advanced Very High-Resolution Radiometer Long Term Data Record (https://www.ncdc.noaa.gov/cdr/terrestrial/avhrr-surfacerefectance). The meteorological data included daily precipitation,air temperature,air pressure, relative humidity, sunshine duration,and wind speed. These data were obtained from the China Meteorological Administration (http://www.cma.gov.cn/） for 65 meteorological stations within and near the LP,and were interpolated to raster maps that covered the entire study area by using the gradient inverse distance square method that considers the effects of elevation (Nalder and Wein，1998).All of the input data were first resampled to $1 ~ \\mathrm { k m } ^ { 2 }$ ，then interpolated to 1-d resolution using Lagrange interpolation (Bognár et al., 2O17),and finally input to the VI-based model to estimate four water vapor fluxes of winter wheat cropland on a daily basis,i.e., vegetation transpiration, evaporation from the soil surface,canopy interception,and PET. The actual daily ET was estimated as the sum of the first three of these water vapor fluxes, with relatively good agreement (Pearson correlation coefficient=O.69, NRMSE (normalized root mean squared error $\\scriptstyle 1 = 0 . 1 8$ ，MAE (mean absolute error) $\\mathrm { = } 0 . 5 6 \\ \\mathrm { \\ m m / d } _ { \\cdot }$ ).More detailed methodological procedures for the VI-based model can be found in previous studies (Liang et al., 2O2O; Wang et al., 2020). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3Analysis of climatic yield anomalies ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Winter wheat yield is usually influenced by weather parameters and human activities such as improved crop varieties and advances in agricultural technology (Wang et al.， 2O18a). To eliminate the interference of human activities,we removed the yield trend from the wheat yields using the Hodrick-Prescott (HP） filter(Wang et al.，2O14). This detrended yield,i.e.,climatic yield, reflects the eect of climatic factors on the yields.We then standardized the climatic yield anomalies according to the following formula (Potopova et al., 2015): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Y = \\frac { \\mathrm { C Y } - \\mu _ { \\mathrm { C Y } } } { \\sigma _ { \\mathrm { C Y } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta Y$ is the climatic yield anomaly; CY is the climatic yield $( \\mathrm { k g } / \\mathrm { h m } ^ { 2 } )$ ； $\\mu _ { \\mathrm { C Y } }$ is the interannual mean of climatic yield $( \\mathrm { k g } / \\mathrm { h m } ^ { 2 } )$ ; and $\\sigma _ { \\mathrm { C Y } }$ is the standard deviation of the climatic yield. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Analysis of DSI ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DSI is an estimation of drought derived from NDVI and the ratio of ET to PET in which NDVI potentially links meteorological changes and vegetation responses (Atkinson et al., 2O11),and the ratio of ET to PET is an index related to the water,carbon,and energy cycles of the land surface (Mu et al., 2O13). DSI is capable of monitoring agricultural drought severity and predicting the effect of drought on crop yields (Zhang et al.,2016).This index was assessed from 2001 to 2015 for the study area via four steps. The first step was to obtain the $Z$ -score of the ratio of ET to PET. The second step was to obtain the Z-score of NDVI. The third step was to calculate a total $Z \\cdot$ -score represented by the sum of the $Z$ -scores in the first and second steps. The last step was to acquire ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DSI as the $Z \\cdot$ -score of the total $Z$ -score.The calculation of a $Z$ -score is a standardization process described as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { x } = \\frac { x - \\mu _ { x } } { \\sigma _ { x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $x$ is the input data,which can be either the ratio of $\\mathrm { E T }$ to PET,NDVI, or the sum of the $Z \\cdot$ -scores of the above two indices; $\\mu _ { x }$ is the long-term mean of the input data; $\\sigma _ { x }$ is the standard deviation of the input data； and $Z _ { x }$ is the transformed $Z \\cdot$ -score of the input data. The further quantification of drought levels is frequently expressed as equal interval classfication (Table 1) (Mu et al., 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cac1d0c48553d591c82817270443115122c9127445a026c523b7f4b7f848ee1d.jpg",
+        "table_caption": [
+            "Table 1 Categories for wet and dry conditions of the drought severity index (DSI) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Category</td><td>DSI</td><td>Category</td><td>DSI</td></tr><tr><td>Extremely wet</td><td>≥1.50</td><td>Incipient drought</td><td>-0.30--0.59</td></tr><tr><td>Very wet</td><td>1.20-1.49</td><td>Mid drought</td><td>-0.60--0.89</td></tr><tr><td>Moderately wet</td><td>0.90-1.19</td><td>Moderate drought</td><td>-0.90- -1.19</td></tr><tr><td>Slightly wet</td><td>0.60-0.89</td><td>Severe drought</td><td>-1.20- -1.49</td></tr><tr><td>Incipient wet spell</td><td>0.30-0.59</td><td>Extreme drought</td><td>≤-1.50</td></tr><tr><td>Near normal</td><td>0.29- -0.29</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To assess DSI across the winter wheat growing season at the county level, we divided the season into four growth periods according to previous studies: pre-sowing growth period (PG), early growth period (EG), middle growth period (MG),and late growth period (LG). PG was defined as the three-month period prior to sowing date.EG was the period from the sowing date to the green-up date; green-up dates were estimated from NDVI using a polynomial-cumulative NDVI algorithm (Liu et al., 2017; Wang et al., 2017). MG was regarded as the period from the green-up date to anthesis (generally two months later than the green-up date) (He et al.,2015). LG was the period from grain-filling to maturation (generally one month after anthesis) (He et al., 2015). We assessed the spatiotemporal patterns of DSI across these growth periods. Specifically, we performed the following procedures for each growth period. We first applied a PCA to the yearly DSI time-series at the county level, resulting in a set of linearly uncorrelated principal components (PCs） and their mixing coefficients (Raziei et al.，2O09). To get the main characteristics of DSI， we then selected a number of PCs in each growth period for further analysis such that at least $70 \\%$ of the total variance of the original DSI data was expressed (Huang et al.,2O15; Gupta and Jain,2018). These selected PCs and their mixing coefficients were rotated using the Varimax method in order to stably express localized spatial patterns of drought (Richman,1986; Huang et al.,2015). Then,for each rotated PC (RPC),we normalized the dot product of the variance of the RPC and rotated mixing coefficients (Guo et al.,2O18),resulting in a normalized loading matrix. Subsequently, we set O.6 as the threshold for the normalized loading matrices according to previous studies (Portela et al.， 2O17; Wang et al.， 2O18b), leading to subregions that each had a specific temporal pattern of DSI characterized by the corresponding RPC. Finally， we performed the Mann-Kendall rank correlation test (MK-test） on each RPC to examine the temporal patern of subregional DSI (Mitchell et al.,1966). Each test generated three types of statistical parameters, i.e., $Z$ -score, UB and UF.Z-score indicated the significance of the trend, and $U B$ and $U F$ time series indicated abrupt changes via their intersections (Shi and Wang, 2015). The trend of each RPC was estimated using Sen's method (Sen,1968; Shi et al., 2018). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Evaluation of drought stress on winter wheat yield ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A multiple linear regression model was employed to evaluate the effect of drought on the yield of winter wheat during different growth periods (Jung et al., 2O17; Wan et al., 2O21). Specifically, for each county in a growth period, we reconstructed its main DSI temporal patern according to the subregional RPC and corresponding rotated mixing coeficient. These main DSI temporal paterns for the four growth periods were then used as regressors to evaluate their effects on the yield of that county, described as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { A C } = \\beta _ { 1 } X _ { 1 } + \\beta _ { 2 } X _ { 2 } + \\beta _ { 3 } X _ { 3 } + \\beta _ { 4 } X _ { 4 } + c ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { A C }$ is the climatic yield anomaly of the county; $X _ { i }$ $\\zeta _ { i } ( i { = } 1 , 2 , 3 , 4 )$ is the main DSI temporal pattern of a growth period; $\\beta _ { i }$ $\\beta _ { i } ( i { = } 1 , 2 , 3 , 4 )$ is the regression coefficient corresponding to $X _ { i }$ and $c$ （204号 is the residual of the model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 PCA-based division of subregions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To examine the subregional paterns of drought, we employed PCA with varimax rotation on DSI during different growth periods.We selected the first three PCs during each growth period for further analysis,and found cumulative variances of $8 3 . 5 1 \\%$ ， $7 1 . 4 2 \\%$ ， $70 . 5 9 \\%$ ，and $7 1 . 2 7 \\%$ for PG, EG, MG, and LG, respectively (Fig.2). The selected PCs were rotated using the varimax method to acquire RPCs (rotated PCs). The cumulative variances for RPCs were the same as for PCs, indicating that the total variances of PCs were evenly expressed by RPCs (Fig. 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/07b2b8fd8f4aa292a4d1bee29f92b5a51a0ca79321cef4b501891bab265f5e0d.jpg",
+        "img_caption": [
+            "Fig.2Percentages of variances explained by the first three principal components (PC1-PC3)for DSI during different growth periods of winter wheat in the Chinese LoessPlateau.PG, pre-sowing growth period; EG,early growth period; MG, middle growth period; LG,late growth period; DSI,drought severity index; RPC,rotated principal component. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The normalized loadings of RPCs were visualized to examine the subregions during different growth periods (Fig. 3). During PG, RPC1 identified a subregion that covered a large area in the northwestern part of the study area (Fig.3a), whereas the subregions for RPC2 and RPC3 covered a relatively smaller area in the south and east,respectively (Fig. 3b and c).During EG, the subregion for RPC1 was located mainly in the west-central area (Fig. 3d). The subregion for RPC2 was located mostly in the northeastern and western area (Fig. 3e). RPC3 affected mainly southeastern area (Fig.3f).During MG, the subregions for RPC1 and RPC3 were primarily located in the east and southwest, respectively (Fig. 3g and i), whereas RPC2 was scattered in the north and south (Fig.3h). During LG, the subregions for RPC1 and RPC3 covered a large area in the east and west, respectively (Fig. 3j and l),while the dynamics of RPC2 were observed in only a small part of the central southern area (Fig. 3k). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Temporal dynamics of DSI ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To assess the temporal dynamics of DSI in each subregion, we evaluated RPCs with the MK-test (Fig. 4). During PG, RPC1 presented a significant rapid increasing trend (slope=1.45; $P { < } 0 . 0 1$ ） with slight fluctuation. The trend was more stable after 2OO8,as indicated by UF (Fig. 4a).RPC 2 showed a slightly decreasing trend, but the change was not significant (Fig. 4b). RPC3 was in an unstable state of alternating between dryness and wetness (Fig. 4c). During EG, RPC1 and RPC3 did not exhibit any significant trends (Fig. 4d and f)，whereas RPC2 showed a significantly increasing trend （slope $_ { = 0 . 5 0 }$ ：， $P { < } 0 . 0 1 \\rangle$ ）(Fig. 4e).During MG, RPC1 and RPC3 each showed insignificant decreasing and increasing trends (Fig. $4 \\mathrm { g }$ and i),while RPC2 increased significantly (slope ${ \\mathrm { \\Omega } } = 0 . 8 3$ $P { < } 0 . 0 1 \\$ ) over time (Fig. 4h). During LG, RPC1 showed a significant increasing trend (slope $_ { = 0 . 9 4 }$ $P { < } 0 . 0 1 \\$ ） (Fig.4j),whereas RPC2 slightly decreased with an insignificant trend, and presented the driest year in 2O13 (Fig. 4k).RPC3 exhibited an abrupt change in 2012, with large interannual fluctuations before 2O11, but showed a significant increasing trend after 2O12 (Fig. 41). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e6b0bad30fb3b6fc25f56ea85496aa8ebcbed4b82902e70e6914c8ff99191cf.jpg",
+        "img_caption": [
+            "Fig.3Spatial paterns of DSI in subregions of the Chinese Loess Plateau,defined by the first three rotated principal components (RPC1-RPC3)during PG(a-c),EG(d-f),MG(g-i),and LG(j-k).PG, pre-sowing growth period;EG,early growth period;MG, middle growth period;LG,late growth period.Dark red areas indicate subregions that were identifiedby seting O.6as the threshold forthe normalized loading matrices.DSI,drought severity index. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Spatial patterns of DSI trends ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the spatial patterns of DSI trends during each growth period based on previous subregion divisions and RPC analysis. During PG, we observed significant increasing trends covering most of the northern counties, as well as significant decreasing trends covering a few counties in the southwest (Fig.5a). During EG, a significant but less strong increasing trend was found in counties located at the northern border (Fig. 5b). During MG, a few counties presented significant trends in which increases were scattered in the northwest and northeast，while decreases were found in the south (Fig. 5c). During LG, significant increasing trends were found in nearly all of the counties (Fig. 5d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 Effect of DSI on winter wheat yield ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Given the spatiotemporal variability of DSI during each growth period, we expected spatial variation of its effect on winter wheat yield. In this respect,we employed a multiple linear regression analysis of winter wheat yield with the major DSI temporal dynamics of the growth periods as regressors. The regression coefficients were visualized in spatial maps to evaluate the coordinated variations between winter wheat yields and DSI (Fig. 6). In general, during different growth periods, dryness/wetness conditions showed very different impacts on winter wheat yield. The largest regression coefficients (absolute median $\\scriptstyle 1 = 1 . 1 1$ ）were mainly observed during LG, suggesting that dryness/wetness conditions were more closely related to winter wheat yields. PG (absolute median $\\scriptstyle = 0 . 6 4 )$ ）showed a slightly higher value compared with EG (absolute median $\\scriptstyle = 0 . 5 9$ ), indicating a slightly stronger effect of dryness/wetness condition on yields during PG than during EG. MG showed the lowest mean value (O.44), suggesting that the yields were less related to the dryness/wetness condition during this period. Specifically, during PG, negative covariations were mainly clustered in the northwest, while positive values occurred mainly in the south-central and eastern areas (Fig. 6a). During EG, more negative covariations were observed during PG (Fig. 6b). During MG, most of the covariations were slightly positive (Fig. 6c),while during LG, covariations for almost al of the study area were relatively high and positive (Fig. 6d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4f5367d947802ec2bc0556f672b26559aa8ce86609ef13509ac793010d5b76e.jpg",
+        "img_caption": [
+            "Fig.4Temporal dynamics and Mann-Kendal (M-K) statistics of DSI(drought severity index) in each subregion during PG (a-c),EG (d-f),MG $( \\mathrm { g - i } )$ , and LG $( \\mathrm { j - k } )$ of winter wheat in the Chinese Loess Plateau.PG, pre-sowing growth period; EG,early growth period; MG, middle growth period;LG,late growth period.The Mann-Kendal test generated three types of statistical parameters,i.e., $Z$ -score, $U B$ and $U F$ .Z-score indicated the significance of trend, and $U B$ and $U F$ indicated abrupt changes via their intersections. Slopes are estimated trends of RPCs.\\*\\*, $| Z | ^ { > 2 . 5 8 }$ ,significant trend at $9 9 \\%$ confidence level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Growth period-specific spatiotemporal dynamics of DSI ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The effect of drought on winter wheat yield is a dynamic process.Drought stress affects winter wheat yield differently during different growth periods (Farooq et al., 2O14;Li et al.，2018). Consequently,the quantitative assessment of such effects requires accurate divisions of growth periods,and relies on the accurate identification of growth period-specific spatiotemporal dynamics of drought. Based on these considerations,we first defined winter wheat growth periods.These periods considered both the pre-sowing and post-sowing growth periods because sufficient pre-sowing soil moisture is crucial to the effective sowing, emergence,and overwintering of winter wheat (Li et al.,2017). In addition,we dynamically estimated the green-up date according to NDVI data using a polynomial-cumulative algorithm (Liu et al.,2O17; Wang et al., 2O17),and subsequently defined post-sowing periods as EG (sowing date to green-up date), MG (green-up date to anthesis) and LG (grain-filling to maturation). Afterwards, by applying a PCA with varimax rotation on DSI,we effectively identified three distinct subregions for each growth period,each corresponding to specific main DSI temporal dynamics. These subregional DSI dynamics were projected to the county level, from which we observed wetting trends in most northern counties during PG,EG,and LG,and found drying trends in some southern counties during PG and MG. A number of previous studies have documented climate change as one of the important factors affecting the dryness/wetness conditions in the LP.Yao et al. (2O15) found that the change of terrestrial surface dryness and wetness conditions during the crop growth period in the LP were primarily driven by temperature, precipitation, and PET.These dryness/wetness conditions in the south and north varied in opposite directions,and were caused by the westerly wind in the north and the subtropical high in the south (Yao et al., 2O15). Liu et al. (2021) showed that the annual mean temperature and precipitation presented obvious increasing trends after 2Oo0,and that temperature was mainly influenced by the Atlantic multidecadal oscillation, while precipitation was mainly affected by the El Nino-Southern oscillation and the Arctic oscillation. In addition, the dryness/wetness conditions of the study area were also afected by human activities.Wang et al. (2020) showed that the increasing ET in the LP was mainly driven by the ongoing optimization of human land-use management that was closely related to socio-economic development. Studies in the LP also found that the land use/land cover changes caused by the Grain for Green project modulated both surface humidity (Zhang et al., 2O18) and vegetation responses to drought (Ding et al., 2021). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/99424fb5d985db8081cd1b4a78adeaa66373604985189981758e2f33de625fef.jpg",
+        "img_caption": [
+            "Fig.5Trends of DSI (drought severity index) during PG(a),EG (b),MG (c),and LG (d) of winter wheat in each county of the Chinese Loess Plateau.Counties shaded bydots showed significant trends in their main DSI. PG, pre-sowing growth period; EG, early growth period; MG, middle growth period,and LG,late growth period. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f19dc5d1bff16ae1eb73b777a1c80b16f65209ff85bdf2436807d59eb7bd0156.jpg",
+        "img_caption": [
+            "Fig.6Spatial patterns of regression coeffcients between DSI (drought severity index)and winter wheat yield anomalies during PG (a), EG (b), MG (c),and LG (d).PG, pre-sowing growth period; EG, early growth period; MG, middle growth period; LG, late growth period. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effect of drought on winter wheat yield ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The growth period-specific subregional DSI dynamics presented different levels of effects on winter wheat climatic yields. Our results indicated that winter wheat climatic yields were more positively related to DSI during MG and LG than during PG and EG. Particularly during MG, the regression coefficients in a large portion of the counties in the study area turned from negative values in the preceding period to positive values， suggesting that effective impact of drought appeared,and gradually increased from the wheat green-up date to the anthesis date, especially in the northeastern and north-central parts of the study area.This impact can be explained by the fact that water stress before anthesis reduces the number of grains per spike (Ji et al.,2O1O; Hlavacova et al.,2018). Afterwards,during LG,the coefficients in most of the counties turned more positive, and were the highest across the growth periods, indicating an increased water requirement from grain-filling to maturation as compared with previous period. Indeed,the grain-filling rate and duration, partially constrained by the suficiency of the water supply,will affect grain size, and therefore impact yield (Farooq et al., 2014; Wu et al., 2018). During PG and EG,relatively smaller areas presented positive regression coeficients between climatic yield and DSI. These drought-sensitive areas were mainly located at the southwestern and eastern parts of the study area during PG,and in northeastern part of the study area during EG. As for the remaining two growth periods,DSI was either not noticeably related to climatic yields or negatively co-variated with climatic yields, suggesting only small effects of drought on wheat climatic yields.This can be caused by multiple reasons. For example, the overwintering and green-up stages during EG are characterized by relatively low vegetation coverage,during which solar radiation is the dominant factor affecting winter wheat growth and development, while soil moisture plays a less important role (Huang et al.，2O2O). In addition，other agricultural experiments have shown that slight drought during EG increases root growth, thereby allowing the root system to absorb moisture better during subsequent growth stages (Wang et al., 2O21). Conversely, waterlogging during this period may not only negatively impact yield,but may also increase the vulnerability of the crop to subsequent water deficit (Dickin and Wright, 2O08). In summary, during PG, droughts in the southwestern and eastern part of the study area may reduce winter wheat yields, while during EG such drought-related yield reductions may appear only in several counties of the northeastern part of the study area. During MG,drought-vulnerable winter wheat production regions were mainly located at the northeastern and eastern part of the study area,while during LG such regions covered almost all of the study area. Our findings are generally consistent with a number of previous studies in the LP and other neighboring regions. For instance,a previous DSI-based study evaluated the impact of drought on winter wheat yield in Shaanxi, Henan,and Shanxi provinces,and found varied impacts on winter wheat yield across growing seasons, with the most significant impacts occurring during the heading and grain-filling stages (MG and LG) (Zhang et al.,2016).A study using multiple drought indices in northern China also found that winter wheat yield was sensitive to water stress during jointing and grain-filling stages (MG and LG). The authors explained this phenomenon in terms of the impact of water stress on the number of grains per spike,and suggested that crops can be protected from water stress during these two periods to maximize the probability of good harvests (Huang et al.，2O2O). Such remote sensing-based conclusions were also supported by a recent experimental study conducted at a site in the LP in which the authors observed modulations of winter wheat yield by drought stress during LG (Naseer et al.,2O22). Taking all of these results together, we recommend that winter wheat should be protected from water stress mainly during MG and LG by rationally allocating the input of water and fertilizer in order to maximize the probability of a good harvest. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 Limitation and outlook ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our current study had several limitations.First, DSI model relies on NDVI and ET/PET in order to improve drought monitoring. However, NDVI responds to drought with a time lag.A future study could further improve DSI by effectively considering this time lag in order to more reliably evaluate and monitor drought. Second,the dryness/wetness condition is normally considered as the dominant factor that impacts crop yields in semi-arid areas,but other factors,such as fertilizer, climatic anomalies,or economics also play roles in the agricultural production (Chen et al., 2015; Salehnia et al.,2O2O).The use of a single factor only permits the assessment of its impact on yield, rather than yield prediction. In a future study，we will atempt to evaluate and compare the contributions of other factors.Lastly,our study only considered linear relationships between DSI and yield, whereas complex nonlinear relationships may also exist (Lobell and Burke, 2010). A future analysis could also introduce nonlinear models，and attempt to interpret the potential nonlinear impacts. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The results of this study effectively and reliably identified growth period-specific subregional spatiotemporal patterns of drought in the winter wheat cropping area of the LP, China. Growth period-specific co-modulations between drought and winter wheat yield were found. Yield was most sensitive to drought during LG for almost the entire study area. Similar but less strong relationships existed during MG mainly over the northeastern and eastern counties. There were few drought-sensitive counties during PG and EG. These findings contribute to a better understanding of spatiotemporal relationships between drought and winter wheat yield in the LP. Overall，our study demonstrates a novel methodological approach for dissociating growth period-specific and spatial location-specific impacts of drought on a specific type of crop, which may contribute to a more effective monitor and forecast of drought-induced yield loss,and may further provide scientific support for beter guiding of a sustainable development of regional agricultural management. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was funded by the National Natural Science Foundation of China (42O71144) and the Fundamental Research Funds for the Central Universities (2O19TS018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Anderson M C,Hain C，Wardlow B,et al.2011.Evaluation of drought indices basedon thermal remote sensing of evapotranspiration over the continental United States.Journal of Climate,24(8): 2O25-2044.   \nAtkinson PM,Dash J,JeganathanC2O11.Amazonvegetation grennessasmeasured bysatelitesensorsover thelastdecade. Geophysical Research Letters,38(19): L19105,doi: 10.1029/2011GL049118.   \nBahri H,Annabi M,M'Hamed HC,et al.2O19.Asssing the long-term impact of conservationagriculture on wheat-based systems in Tunisiausing APSIM simulationsunder a climate change context.Science of the Total Environment,692(20): 1223-1233.   \nBo M,Guo YQ,TaoHB,etal.2O15.SPEIPM-basedresearchondrought impact on maize yield inNorth ChinaPlain.Journal of Integrative Agriculture,14(4): 660-669.   \nBognar P,KernA,PasztorS,etal.2O17.Yieldestimationand forecastingfor winter wheat inHungaryusing timeseriesof MODIS data. International Journal of Remote Sensing,38(11): 3394-3414.   \nBoonwichai S,Shrestha S,BabelMS,etal.2018.Evaluationofclimatechange impactsand adaptation strategiesonrainfed rice production in Songkhram River Basin,Thailand. Science of the Total Environment,652(2O):189-201.   \nBrown JF,WardlowBD,TadesseT,etal.2O08.The VegetationDroughtResponse Index (VegDRI):Anewintegratedapproach for monitoring drought stress in vegetation.GIScience and Remote Sensing,45(1): 16-46.   \nChapagain R,RemenyiTA,Harris R MB,et al.2O22. Decomposing crop model uncertainty: Asystematic review.Field Crops Research,279: 108448,doi: 10.1016/j.fcr.2022.18448.   \nChenJ,JonsonP,Tmura M,etal.o4.AsimplemethdforrecostructigaghualityDVtime-seriesdatasetbasedon the Savitzky-Golay filter. Remote Sensing of Environment, 91(3-4): 332-344.   \nChenY,LiuT,Tian X,eal.2O15.Efectsof plasticfilmcombied with strawmulchograin yieldandwateruseeffincyof winter wheat in Loess Plateau.Field Crops Research,172: 53-58.   \nDai M,Huang S,Huang Q，etal.2O20.Assessngagricultural drought risk and its dynamic evolution characteristics. Agricultural Water Management, 231: 106003,doi: 10.1016/j.agwat.2020.106003.   \nDickin E,Wright D.2O08.The efects of winter waterloggingand summer drought on the growth andyieldof winter wheat (Triticum aestivum L.). European Journal of Agronomy,28(3): 234-244.   \nDing Y,WangF,MuQ,et al.2O21.Estimating land use/land cover changeimpactsonvegetationresponse todroughtunder 'Grain for Green' in the Loess Plateau.Land Degradation & Development,32(17): 5083-5098.   \nFarooq M,HussainM,Siddique KHM.2014.Droughtstressin wheat during flowering and grain-filing periods.Critical Reviews in Plant Sciences,33(4): 331-349.   \nFu B,Wang S,LiuY,etal.2O17.Hydrogeomorphicecosystemresponses toaturalandanthropogenicchanges intheLoess Plateau of China.Annual Review of Earth and Planetary Sciences,45: 223-243.   \nGengGWuJ,Wang Q,etal.2O16.Agriculturaldroughthazardanalysisduring198O-2O08:a globalperspective.Inteational Journal of Climatology, 36(1): 389-399.   \nGuo H,BaoA,LiuT,etal.2018Spatialandtemporal characteristicsofdroughts in CentralAsiaduring1966-2015.Scienceof the Total Environment, 624: 1523-1538.   \nGupta V,Jain MK.2O18.Investigationof multi-model spatiotemporalmesoscale drought projections over Idia undercimate change scenario.Journal of Hydrology, 567: 489-509.   \nHan H,BaiJ,YanJ,etal.2O21.Acombined drought monitoring indexbasedonmulti-sensorremote sensingdataandmachine learning. Geocarto International, 36(10): 1161-1177.   \nHe L,Asseng S, Zhao G, et al. 2015.Impacts of recent climate warming,cultivar changes,and crop managementon winter wheat phenology across the Loess Plateau of China. Agricultural and Forest Meteorology, 2O0: 135-143.   \nHlavacova M,Klem K,Rapantova B,etal.2018.Interactive effctsof high temperatureand drought stressduring stem elongation,anthesis and early grain filingontheyieldformationandphotosynthesisof winter wheat.FieldCrops Research, 221: 182-195.   \nHu YN,LiuYJ,TangHJ,etal.2O14.Contributionof drought topotentialcropyieldreduction inawheat-maizerotation region in the North China Plain. Journal of Integrative Agriculture,13(7): 1509-1519. China. Quaternary International,355:134-144.   \nHuangJ,Zhuo W,LiY,etal.2O20.Comparisonof threeremotelysenseddroughtindicesforassessngtheimpactofdroughton winter wheat yield. International Journal of Digital Earth,13(4): 504-526.   \nIizumi T,Yokozawa M,Nishimori M.2O09.Parameter estimationand uncertaintyanalysisof a large-scalecrop model for paddy rice: Application of a Bayesian approach.Agricultural & Forest Meteorology,149(2): 33-348.   \nIPCC.2021.IPCC Climate Change 2021: The Physical Science Basis.Working Group I Contribution to the IPCC Sixth Assessment Report. Cambridge: Cambridge University Press,3-32.   \nJi X,Shiran B,Wan J,et al.2O10.Importanceof pre-anthesis anther sink strength for maintenance of grain number during reproductive stage water stress in wheat. Plant,Cell and Environment,33(6): 926-942.   \nJiang X,Bai J.2O20.Quantifyingthe impacts of drought and ecologicalrestorationonnetprimary productionchanges in he Chinese Loess Plateau. PloS ONE,15(9): e0238997,doi: 10.1371/journal.pone.0238997.   \nJiao W,WangL,McCabe MF2O21.Multi-sensorremote sensingfordrought characterization:currentstatus,opportunitiesand a roadmap for the future.Remote Sensing of Environment,256:112313,doi:10.1016/j.rse.2021.112313.   \nJinN,Ren W,TaoB,etal.2018.Efectsof waterstressonwateruseeffciencyof irigatedandrainfed weatinthe Loes Plateau, China. Science of the Total Environment,642: 1-11.   \nJin Z,LiangW,YangY,etal.2O17.Separatingvegetation greeningandclimatechangecontrolsonvapotranspirationtrend over the Loess Plateau. Scientific Reports,7(1): 8191,doi: /10.1038/s41598-017-08477-x.   \nJung C,LeeY,ChoY,etal.20l7.Astudyof spatial soil moistureestimationusingamultiple linearregresion modeland MODIS land surface temperature data corrected by conditional merging. Remote Sensing,9(8): 870.   \nKoganFN.1995.Application of vegetation index and brightness temperature for drought detection.Advances in Space Research,15(11): 91-100.   \nKontgis C,SchneiderA,Ozdogan M,et al.2019.Climatechange impactson rice productivityin the Mekong RiverDelta. Applied Geography,102: 71-83.   \nLecerf R,CeglarA,Lpez-LozanoR,etal.2018.Assessngtheinformation inropmodeland meteorologicalindicators to forecast crop yield over Europe.Agricultural Systems,168:191-202.   \nLesk C,Rowhani P,Ramankutty N. 2016.Influenceof extreme weather disasters on global crop production. Nature,529(7584): 84-87.   \nLi C,Liu W,Lin W,etal.2O17.Grain yieldand WUEresponses todifferent soil water storage before sowing and water supplies during growing period for winter wheat in the LoessTableland.Scientia Agricultura Sinica,50(18):3549-3560.(in Chinese)   \nLi Y,Zhu Y,LiD,etal.2O18.Effectsof alternating droughtand wateringongrowth,photosynthesisandyieldof ither wheat. Journal of Irrigation and Drainage,37(8): 76-82.(in Chinese)   \nLi Z,ZhengFL,Liu WZ,etal.20l0.Spatialdistributionand temporal trendsof extremetmperatureandprecipitationevents on the Loess Plateau of China during 1961-2007. Quaternary International, 226(1-2): 92-100.   \nLiang W,ZhangW,JinZ,etal.2O2O.Rapidurbanzationandagriculturalintensification increaseregional evaporative water consumption of the Loess Plateau.Journal of Geophysical Research:Atmospheres，125(23):e2020JD033380，doi: 10.1029/2020JD033380.   \nLiuL,LuR,DingZ,etal.2O21.AnalysisofclimatechangecharacteristicsandcirculationfactorsintheLossPlateau.Journal of Earth Environment,12(6): 615-631.(in Chinese)   \nLiu Q,Zhang S,Zhang H,etal.2O20.Monitoring droughtusingcomposite droughtindices basedonremote sensing.Scienceof the Total Environment,711: 134585,doi: 10.1016/j.scitotenv.2020.134585.   \nLiu X,Pan Y,Zhu X,etal.2018.Drought evolutionand itsimpactonthecropyield intheNorth ChinaPlain.Jouralof Hydrology, 564: 984-996.   \nLiu Z, Wu C,Liu Y,et al.2017.Spring green-update derived fromGIMMS3gand SPOT-VGTNDVIof winter wheat cropland in the North China Plain. ISPRS Journal of Photogrammetry and Remote Sensing,13O: 81-91.   \nLobell DB,Burke MB.2010.Ontheuseof statistical models topredict cropyieldresponsestoclimate change.Agricultural   \nLobellD B,Aseng S.2017.Comparing estimates of climate change impacts from process-based and statistical crop models. Environmental Research Letters,12(1): 015001,doi: 10.1088/1748-9326/015001.   \nMadadgar S,AghaKouchak A,FarahmandA,etal.2O17.Probabilistic estimatesof drought impactsonagricultural production. Geophysical Research Letters,44(15): 7799-7807.   \nMcKee TB,DoeskenNJ,KleistJ.1993.Therelationshipof droughtfrequencyandduration totimescales.In:Procedngsof the $8 ^ { \\mathrm { t h } }$ Conference on Applied Climatology. Boston: American Meteorological Society,179-183.   \nMitchell J,DzerdzevskiiB,Flohn H,et al.1966.Climaticchange.In:WMO Technical Note,79(WMONo.195/TP.100). World Meteorological Organization, Geneva, 79.   \nMu Q,ZhaoM,KimballJS,etal.2O13.Armotelysensed globalterrestrialdroughtseverityindex.BulltinoftheAmeican Meteorological Society, 94(1): 83-98.   \nNalderIA,WeinRW.1998.Spatial interpolationofclimatic Normals:testofanew method inthe Canadianboreal forest. Agricultural and Forest Meteorology, 92(4): 211-225.   \nNaser M A, Hussain S,Nengyan Z,et al.2O22.Shading under drought stress during grain filing attenuates photosynthesis, grain yieldand qualityof winter wheat in the Loess Plateau of China.Journal of Agronomyand Crop Science,208(2): 255-263.   \nPalmer W C.1965.Meteorological Drought. Washington DC: US Department of Commerce Weather Bureau,1-56.   \nPortelaM,ZelenkovaM,antosJ,etal.Ol7.Comprehnsivecharacterzatioofdroughts inlovakia.InteratioalJoual of Environmental Science and Development, 8(1): 25-29.   \nPotopova V,Stepanek P,Mozny M,et al.2O15.Performanceof the standardised precipitationevapotranspiration index at various lags for agricultural drought risk assssment inthe Czech Republic.Agricultural andForest Meteorology,202: 26-38.   \nQin Z,Tang H,Li W,etal.2O14.Modeling impactof agro-droughton grain production in China.InternationalJouralof Disaster Risk Reduction,7: 109-121.   \nRazieiT,SaghafianB,PauloAA,etal.2Oo9.Spatial patersand temporal variabilityof drought inwestern Iran.Water Resources Management, 23(3): 439-455.   \nRichman MB.1986.Rotation of principal components.Journal of Climatology, 6(3): 293-335.   \nSalehnia N,SalehniaN,SaradariA,etal.2O2O.Rainfed wheat（TriticumestivumL.)yield predictionusing economical, meteorological,anddrought indicators through pooled panel dataandstatistical downscaling.Ecological Indicators,1: 105991,doi: 10.1016/j.ecolind.2019.105991.   \nSandholt I,Rasmussen K,Andersen J.2o02.A simple interpretationof the surface temperature/vegetation index space for assessment of surface moisture status.Remote Sensing of Environment,79(2-3): 213-224.   \nSavitzkyA,Golay MJ.1964.Smoothingand differentiationof data bysimplified least squaresprocedures.Analytical Chemistry,36(8): 1627-1639.   \nSenPK.1968.Estimatesoftheregresioncoeficientbasedon Kendal's tau.JournaloftheAmericanStatistical Association, 63(324): 1379-1389.   \nShi H,Wang G2O15.Impactsof climate change and hydraulic structures onrunoff and sediment discharge inthe middle Yellow River. Hydrological Processes,29(14): 3236-3246.   \nShi H,CenJ,WangK,etal.2018.Anewmethodandanew indexforidentifying socioeconomic drought eventsunderclimate change: A case study of the East River basin in China. Science of the Total Environment,616:363-375.   \nSrivastava R,Panda R,Halder D.2O17.Efectivecropevapotranspiration measurement using time-domain reflectometry technique in a sub-humid region. Theoretical and Applied Climatology,129(3): 1211-1225.   \nTianH,HuangN,Niu Z,etal.2O19.Mapingwintercrops inChina with multi-sourcesateliteimageryandphenology-based algorithm. Remote Sensing,11(7): 820.   \nWan W,Liu Z,Li K,etal.2O21.Drought monitoringof the maizeplanting areas in Northeastand North China Plain. Agricultural Water Management, 245: 106636,doi: 10.1016/j.agwat.2020.106636.   \nWang F,Liang W,FuB,et al.2O20.Changesof cropland evapotranspiration and its drivingfactorsonthe loess plateauof China.Science of the Total Environment,728:138582,doi:10.1016/j.scitotenv.2020.138582.   \nWang G Z,LuJS,ChenKY,etal.2014.Explorationof method inseparating climaticoutput basedonHPfilter.Chinese Journal of Agrometeorology,35(2): 195-199.(in Chinese)   \nWangQ,WuJ,LeiT,etal.2O14.Temporal-spatialcharacteristicsofseveredrought eventsandteirimpactonagricultureona global scale. Quaternary International,349:10-21.   \nWang S,Mo X,Liu Z,et al.2O17.Understandinglong-term (1982-2013)patters and trends in winter wheat springgreen-up date over the North China Plain.International Journal of Applied Earth Observationand Geoinformation,57:235-244.   \nWang S,MoX,Hu S,et al.2O18.Assssmentof droughts and wheat yield lossonthe NorthChina Plain with anaggregate drought index (ADI) approach.Ecological Indicators,87:107-116.   \nWang X,Chen J,Ge J,et al.2O21.The diferentroot apex zonescontribute to drought priming induced tolerance toa reoccurring drought stress in wheat. The Crop Journal, 9(5): 1088-1097.   \nWang Y,Zhang T,Chen X,etal.2O18.Spatialand temporal characteristicsof droughts inLuaneRiverbasin,China. Theoretical and Applied Climatology,131(3):1369-1385.   \nWu D,Li Z,ZhuY,etal.2O21.Anewagriculturaldrought indexformonitoring thewaterstressof winterwheat.Agriculural Water Management,244: 106599,doi: 10.1016/j.agwat.2020.106599.   \nWu X,TangY,LiC,etal.2O18.Characterzationof therateanddurationof grain flinginwheatinsouthwesternChna.Plant Production Science,21(4): 358-369.   \nXuP,Zhou T,ZhaoX,etal.2O18.Diverseresponsesof different structured forest todroughtin Southwest Chinathrough remotely sensed data.International Journal of Applied Earth Observation and Geoinformation,69: 217-225.   \nYang F,ZhangQ,Wang R,etal.2014.Evapotranspiration measurement and cropcoeficientestimationovera spring wheat farmland ecosystem in the Loess Plateau.PloS ONE,9(6): e100031,doi: 10.1371/journal.pone.0100031.   \nYaoY,LiY,YangJ,etal.O15.CageofterestrialurfacedroughtadonditiosinterowthpriodonssPlateau. Chinese Agricultural Science Bulletin,387(24):187-194.(in Chinese)   \nYu H,Zhang Q,SunP,etal.2019.Impactsof droughtintensityanddroughtdurationonwinterwheatyieldinfive provicesof North China plain.Acta Geographica Sinica,79(1): 87-102.   \nZhangC,Wang J,LeiT,etal.2O18.Spatiotemporal evolutionof vegetationcoverandsurface humiditysinceimplementingthe Grain for Green Project in the LoessPlateau.Arid Zone Research,35(6):1468-1476.(in Chinese)   \nZhangJ,Mu Q,HuangJ.2O16.AssessingtheremotelysensedDrought SeverityIndex foragricultural drought monitoring and impact analysis in North China.Ecological Indicators,63:296-309.   \nZhang X,Yamaguchi Y.2O14. Characterizationand evaluationof MODIS-derived Drought Severity Index (DSI) formonitoring the 2009/2010 drought over southwestern China.Natural Hazards,74(3):2129-2145.   \nZhouY,XiaoX,ZhangGetal.2O17.Quantifyingagricultural drought intallrass prairieregion intheUSSouthernGreat Plains through analysisofa water-related vegetation index fromMODIS images.Agricultural andForestMeteorology,246: 111-122.   \nZhou Z,Shi H,FuQetal..Asssingspatiotemporalcaracteristicsofdroughtnditseffectsonclimate-ducedieldof maize in Northeast China.Journal of Hydrology,588:125097,doi: 10.1016/j.jhydrol.2020.125097. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

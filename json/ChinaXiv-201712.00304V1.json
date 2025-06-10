@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM与VR技术的土木工程CAD 教学模式实践探讨",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆海燕 鲍文博 王海军白泉（沈阳工业大学建筑与土木工程学院，沈阳 110870)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】BIM与VR技术作为一种全新的理念和技术，是建筑业信息化发展的新动力和必然趋势。BIM与VR技术的普及将需要大量的新型人才，同时给土木类本科生培养提出了新的要求。本文在总结目前土木工程CAD教学模式所面临问题的基础上,介绍了BIM与VR技术应用状况,结合我国土木工程类专业人才培养方案和教学条件,探索和实践了BIM与VR技术在土木工程CAD教学模式。新的教学模式不仅使学生了解并运用BIM与VR技术,而且提高了学生创新与实践能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM技术；VR 技术；土木工程；教学模式  \n【中图分类号】TU17;TP391.9【文献标识码】A 【文章编号】1674-7461(2017)04-0062-05  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.04.12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM与VR技术在建筑行业中的应用是以大数据、互联网、云计算等为特征的信息化发展的必然趋势，土木工程专业本科培养中需快速体现这种信息化教学的转变,不仅局限于传统计算机程序设计和CAD技术的教学,还要在工程管理类课程中逐步融入针对BIM与VR 技术及其支撑理论的教学。BIM与VR技术涉及土木工程专业、工程管理专业及计算机信息化专业，是一种全新的项目全生命周期的管理理念和方法，涉及到项目的设计、施工、运营和维护等。因此，如何实现BIM与VR技术教学是土木工程专业本科培养中亟待解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，将BIM技术与土木工程专业课程相结合，国内学者进行了探索与实践。但是，目前尚未见到将BIM与VR技术融入土木工程CAD制图课程教学中的研究。本文基于土木工程CAD制图课程教学存在的问题，BIM与VR技术在土木工程CAD制图课程教学中的优势，提出了结合BIM与VR技术的土木工程CAD 制图课程教学新模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2现阶段土木工程CAD制图课程教学模式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土木工程CAD制图课程，不仅是学生建立空间思维、了解本专业的基本工程图纸语言，也是学生专业概念形成的重要的专业基础课。但由于普遍采用CAD二维教学方式,学生很难将二维的点、线、面与复杂的建筑物联系在一起，很难准确完整地表达真实的建筑。对于给定的图纸，由二维CAD图形想象出建筑物的真实模型则更为困难。通常对于刚刚走向工作的大学生而言，一般需要一年多的实践，才能真正通过图纸这一难关。这种以CAD二维教学的方式存在以下诸多问题：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)教师通常在讲述CAD制图理论后，学生根据教师给定图，模仿画出的建筑平立剖面图。这样以模仿为主的教学，学生被动的接受知识，学习的主动性不高，很难建立起相应的空间概念；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)课程内容局限于二维CAD制图理论，学生要把真实的三维建筑按照投影关系转变成点、线、面，这种转化因人而异。对于复杂结构，不同的学生理解不同，得到的结果可能会不同，有些结构极其复杂，很难表达清楚，造成设计深度不够；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)学生的作品是很多张抽象的二维CAD图形，具体每一张图形表达的内容以及与其它图相互之间的关系等，学生很难说清楚，更不用说建筑的整体及细部构造是什么样子了；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)二维CAD制图教学建筑模型尺寸信息混乱且不涉及建筑材料信息，学生很难将专业课中的结构构件、建筑构件、建筑材料等和建筑联系起来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土木工程CAD制图课程学不好，建筑的整体概念建立不起来。大三大四的专业课力学、房屋建筑学、混凝土结构、钢结构等课程的学习变得很困难，因为这些专业课程关注的是建筑某些细节知识点，学生想将这些知识点应用到实际工程上却不知道从哪里着手，怎么着手,眼前一片茫然[1]。如果在CAD 制图课程引人BIM与VR技术,学生能及时地看到 自己的设计作品，了解到建筑的细部构造及整体建筑，有助于激发学习兴趣，促进空间概念的形成，培养创新能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 BIM与VR技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM的全称是Building Information Modeling,中文可以翻译为“建筑信息模型”。BIM是建筑与信息化相结合的产物，就是以数字化的方式描述建筑。BIM采用模型加信息的方式来表达现实中建筑物实体。不同于简单的以二维点、线、文字为主的CAD表达方式，在BIM中建筑实体是以各种三维模型体现的，设计的产品是一个三维模型，而不再是众多抽象的二维图纸。三维模型和建筑最终产品是完全一致的，BIM设计上真正做到了所见即所得。BIM中的信息既包含了模型自身的如几何尺寸与材料等信息，也包含了该模型有关的设计、施工、运营与维护等信息。BIM具有可视化、协调性、模拟性、优化性、信息完整性等特点。BIM是数字技术在建筑工程中全生命周期的管理的直接应用，以解决建筑工程在立项、设计、施工、运营及维护中模型与信息共享问题，为工程设计人员、技术人员、管理人员和业主实时提供所需信息[2-3] ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM带给建筑行业一场技术革命，中国建筑行业也意识到BIM技术的重要作用，正积极在建筑领域推广应用 BIM 技术[4]。国务院住建部发布的$\\langle 2 0 1 1 \\sim 2 0 1 5$ 年建筑业信息化发展纲要》将BIM技术作为行业“十二五”信息化发展的重点之一，2016年住建部印发了 $\\langle 2 0 1 6 \\sim 2 0 2 0$ 年建筑业信息化发展纲要》，明确了BIM技术发展的目标与方向，2017年4月住房和城乡建设部发布《建筑业发展“十三五”规划》明确要求加大BIM技术的应用。清华大学、中国建筑设计院等高校和企业相继成立了BIM研究中心。然而，在推广BIM技术的过程中，也遇到了许多瓶颈和阻碍,其中最为主要的一点就是BIM人才培养的滞后[5]。加快BIM技术方面人才的培养，已成为建筑信息化发展亟待解决的问题之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VR的全称是VirtualReality，中文可以翻译为“虚拟现实”，是一项综合了多门学科的综合性技术。VR中的“虚拟”是指用计算机图形技术模拟生成的意思，而“现实”是广义上的任何事物或环境，可以是真实存在的，也可以是根本不存在的。沉浸式和交互式是VR技术的两大特性，沉浸式主要是通过VR设备将用户沉浸在场景中，让用户有种身临其境的感觉，而交互式是通过VR设备控制场景物体的移动及声音，让用户体验如同现实生活的感受一样[6-7]。目前,VR已经在汽车制造、航空航天、军事模拟、建筑规划等领域中得到广泛的应用。在建筑工程中，VR技术的虚拟仿真安全培训、虚拟施工及虚拟家装等方面展现其独特优势。杭州万霆科技有限公司和西安三好软件公司先后推出了基于VR技术的建筑施工实训系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM技术更多集中于建筑模型构造及信息存储，而VR技术强调的是虚拟体验，BIM技术为VR技术提供了必要的模型及信息，VR技术为BIM推广应用提供了一个较好的解决方式，因此在建筑工程领域中，BIM与VR技术是相辅相成的。与BIM相比，VR方面的人才缺失更为严重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4BIM与VR仿真教学系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为推进土木工程专业中BIM和VR技术的应用，我院BIM中心结合主流的BIM和VR软件，自主研发了土建类专业BIM与VR仿真教学系统。系统的结构图如图1所示。该仿真实训系统主要由BIM 建模模块、VR 制作模块及系统操作平台三部分组成。每个模块相对独立，其下面都设有若干个",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "子模块。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)BIM建模模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到学生对CAD二维图形比较熟悉，且BIM三维建模未经过专业的培训很难掌握，我们提出由CAD图形通过插件的方式实现BIM建模，此建模过程学生只需要掌握BIM的理念、学会BIM软件的简单操作即可。针对CAD制图不标准问题，结合BIM模型的理念，提出以图层标准化、图属性块标准化、图表标准化、文本标准化及参数化建模标准化为特征的新CAD制图方法。采用面向对象的VB.NET对主流的BIM软件REVIT进行二次开发，实现了标准化的CAD二维图自动转换成三维CAD模型及精确的REVIT模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)VR制作模块 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50030. 网页平台系统操作 移动端平台平台 PC端平台  \nSL Server  \n2008  \n介 项目施工VR 教学设计VR  \n501 VR制作  \nY 模块 项目设计VR 项目运维VR  \nL Server  \nireiia 设备专业BIM!BIM建模 BIM模型 结构专业BIM模块 ↑ 建筑专业BIMCAD图标准化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本系统VR平台采用的是UNITY3D软件，该软件具有多平台性、较强的沉浸式、简单易学，目前U-NITY3D软件已成为一款主要的虚拟现实软件。将做好的BIM模型以FBX格式导入到UNITY3D软件中，进入到VR制作模块，完成各相应子模块的虚拟场景搭建。项目设计模块主要功能是完成项目的沉浸式漫游浏览、碰触检测、户型展示等；项目施工模块主要是完成项目的5D进度模拟、内业资料的实时交互输入及查询、构件信息查询及成本控制等；项目运营维护模块主要功能是房间、设备及维修等信息查询统计；教学设计模块可完成学生角色控制、作业分配、作品在线提交及考评等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)系统操作平台",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本平台开发采用CS架构，项目信息集成在共享服务器内。学生通过VR制作模块完成虚拟场景制作后，通过UNITY3D软件自带的多平台发布，可将VR作品到发布到项目操作平台上，系统自动完成项目数据库建设。教师可通过可通过网页、移动设备或台式机对学生进行任务安排、角色控制和学生作品考评。学生通过客户端设备进行项目虚拟交互管理及作品提交等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5基于BIM与VR技术的土木工程CAD制图课程教学模式的探讨与实践",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对传统教学模式的问题，我们提出将BIM与VR 技术引入到CAD 教学中，教学中以具体工程项目CAD图纸做模板，带领学生以CAD方式完成该项目的BIM建模。具体做法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)学生CAD识图学习 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "施工图看不懂，当然CAD图也画不清楚。因此，识图是CAD教学前首先需要解决的问题。教师对CAD图纸的深入剖析和讲解，使学生了解到工程上是如何表达一个建筑的，弄清楚建筑施工图和结构施工图的关系、建筑制图深度要求、图纸量及每张图纸表达内容的确定等。通过识图学习，将建筑图、结构图结合起来形成建筑的全貌。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)学生基于BIM理念的CAD制图标准化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "没有标准化的BIM模型，除了可视化以外，没有任何适用价值。同样CAD图形的标准化也非常重要。在学生实际绘图前首先解决图纸标准化问题。标准化的图纸是指包括图幅、图层、线型及颜色、文字及颜色、图块、属性块及表格等的标准化。教师对通过CAD图纸的深入剖析和讲解，指导学生制定出系统的CAD制图标准。通过BIM建模的研究，尽可能的采用与BIM族具有同样功能的属性块、封闭的多段线等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)学生完成CAD标准化制图",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "学生在教师的指导下，独立完成CAD标准化制图，教师有目的地指导学生如何使用制图标准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)学生基于BIM技术完成模型建立与修正",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "学生将做好的CAD图上传至BIM与VR仿真教学系统中，得到BIM模型，实现二维图纸到三维建模的转化，使工程项目以立体全面的形式呈现在学生面前。学生对照BIM模型和对施工图的理解，反复修改自己的CAD图，直到得到满意的BIM模型，完成CAD教学。图2的剪力墙边缘构件BIM模型和图3的标准层BIM模型为学生CAD制图课程中的部分成果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3098a05b16a4cedeb63ecd8e6a8a96b7a7af5db2e0a45f601a17d3a57af1a552.jpg",
+        "img_caption": [
+            "图2剪力墙边缘构件BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c221fde55a50bfee0805f146504263873a43c0496a4112d9ab1a64e7285d4fc.jpg",
+        "img_caption": [
+            "图3标准层BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)学生在VR场景中建筑的认知学习",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "学生将自己的作品提交到BIM与VR仿真教学系统，完成认知学习。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过BIM与VR技术的应用，学生不再是简单地模仿学习，学生会结合教师的理论和实践教学，自主去创建和搜集相应的BIM模型资源。通过VR沉浸式体验，学生不但能够体验虚拟现实中的场景且亲身体验自己的设计作品，观察细部结构，体验房间的舒适性，从而获得设计灵感，而这些在传统教学模式中是无法得到的。通过BIM与VR技术，学生将所设计的产品即刻通过虚拟现实进行体验，做到了所学即所用，实践内力和创新内力得到了提高，同时对BIM与VR技术有了较深的理解与应用经验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述,在教学中应用BIM与VR技术是土木工程CAD制图课程的教学新模式、新突破。合理使用BIM与VR技术，不仅可以更好地激发学生的学习热情,理解掌握所学的知识,还可以让学生了解并运用BIM与VR技术，提高创新与实践能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着以大数据、互联网、云计算等为特征的信息化技术的发展,作为社会输送人才的重要基地，高校对新技术的研究和教学理应有足够的前瞻性[8] BIM与VR技术作为建筑行业的新兴技术，O在项目全生命周期的管理方面发挥了很大的作用，所以,普通高校土建类专业也应逐步开展BIM 与",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VR 技术人才的培养。通过这样的教学改革，能够将BIM与VR技术融入到实践教学中，让学生了解并运用BIM与VR技术，提高创新与实践能力，适应我国发展对高质量创新型人才的需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1」甘荣飞，曹文龙，孙靖立.BIM在建筑类本科院校的实践探索[J].土木建筑工程信息，2014，6(3)：100-102.  \n[2］何关培.我国BIM发展战略和模式探讨（二)[J].土木工程信息技术，2011，3(3)：112-117.  \n[3］Richard See.Building Information Models and ModelViews［J].Journal of Building Information Modeling（JBIM），2007,Fall:20-25.  \n［4］郝丽.我国BIM技术应用现状分析与推广措施研究[J].四川建筑科学研究，2014，40（3）：353-355.  \n［5］齐宝库，薛红，张阳.建筑类高校BIM高端人才培养的瓶颈与对策[J].中国建设教育，2014，（1)：30-33.  \n［6」姜学智，李忠华.国内外虚拟现实技术的研究现状.辽宁工程大学技术学报.2004，23（2）：238-240.  \n［7］王健美，张旭,王勇等.美国虚拟现实技术发展现状、政策及对我国的启示［J].科技管理研究，2010，30(14)： $3 7 - 4 0 + 5 6$   \n[8」曹双寅，蒋永生.国内17所高校建筑工程类专业设置及培养方案的现状与建议[J].高等建筑教育，1998：10-12.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion and Practice of CAD Teaching Mode in Civil Engineering Major based on BIM and VR Technology ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lu Haiyan，Bao Wenbo，Wang Haijun，Bai Quan (School of Architecture and Civil Engineering，Shenyang University of Technology， Shenyang 110870， China） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:BIM $^ +$ VR is a brand new technology with new concepts，which brings new motive forces and should be an inevitable trend for informatization developmentof construction industry.The popularization of BIM and VRtechnology demands large number of new talents，which in turnputs forward new requirements forthe cultivation of civil undergraduate students.This paper firstly summarizes the current problems of CAD teaching mode in civil engineering,then introduces the current application statusof BIMand VR technology，and finally explores and practices the CAD teaching mode with BIMand VR in civil engineering combining with the talent training plan and teaching conditions of civil engineering specialty inour country.The new teaching mode not only enables students to understand and to use BIMand VR technology，butalso improves students’innovative and practical ability. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Technology；VR Technology；Civil Engineering；Teaching Mode ",
+        "page_idx": 4
+    }
+]

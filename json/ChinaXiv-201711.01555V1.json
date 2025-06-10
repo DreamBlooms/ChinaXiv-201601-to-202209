@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破参数对菜籽粕中总硫苷脱毒效果的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贺永惠王清华 刘长忠 刘兴友 谢红兵王艳荣 何云（河南科技学院动物科学学院，河南省畜禽智能清洁生产工程技术研究中心，畜禽智能化清洁生产河南省工程实验室，新乡453003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究蒸汽爆破参数（水料比、蒸汽压强、维压时间）对菜籽粕中总硫苷脱毒效果的影响，并用体外仿生法对脱毒菜籽粕的营养物质消化率进行评价。试验均采用单因素试验设计，分别筛选出最适的水料比、维压时间与蒸汽压强，每个试验处理设4个水平，每个水平3个重复。结果表明：蒸汽爆破处理对菜籽粕中总硫苷的脱毒效果明显，总硫苷脱毒率达 $7 3 . 7 1 \\% \\sim 8 6 . 9 8 \\%$ 。以总硫苷脱毒率为筛选指标，按单因素试验设计，分别筛选出最适的水料比为 $12 5 \\%$ ，最适的维压时间为 $6 0 \\mathrm { ~ s ~ }$ ，最适的蒸汽压强为 $| 2 . 0 \\mathrm { M P a }$ 以菜籽粕营养物质消化率筛选指标时发现，与未处理组相比，1.0、 $1 . 5 \\mathrm { M P a }$ （固定水料比为 $12 5 \\%$ 、维压时间为 $1 6 0 \\mathrm { ~ s ~ }$ ）蒸汽压强对菜籽粕营养物质消化率无显著影响（ $P { > } 0 . 0 5 \\$ ， $2 . 0  { \\mathrm { M P a } }$ 蒸汽压强时可显著或极显著降低粗蛋白质、赖氨酸、精氨酸的消化率（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，提高蒸汽压强可极显著降低总硫苷、异硫氰酸酯的含量（ $P { < } 0 . 0 1$ )。综合考虑总硫苷脱毒率与营养物质消化率指标，当固定水料比为 $12 5 \\%$ 、维压时间为60s时，适宜的蒸汽压强以不大于 ${ \\cdot 2 . 0 } \\mathrm { M P a }$ 为宜。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒸汽爆破；菜籽粕；硫苷；脱毒；仿生法；消化率 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.4；S831",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "菜籽粕（rapeseedmeal,RSM）中粗蛋白质含量达 $34 \\% \\sim 3 8 \\%$ ，RSM中有毒有害成分主要是总硫苷（totalglucosinolates,TG)，TG 本身无毒，其在内源酶或动物体内微生物的作用下可降解生成嚏唑烷硫酮、异硫氰酸酯等，可引起动物甲状腺、肝脏的肿大与功能障碍等，从而影响动物的生长发育和生产性能，甚至中毒死亡，严重制约了RSM在单胃动物饲料中的应用，从而造成我国RSM饲料资源利用率不足 $3 0 \\%$ ，这与我国蛋白质饲料资源严重短缺，需要大量进口的国情存在很大差距，因此，迫切需要开发一种快速去除 RSM中TG的高效脱毒技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破技术是原料经高温高压水蒸气 $( 2 0 0 { \\sim } 2 6 0 \\ \\mathrm { ~ \\textdegree ~ }$ ， $2 . 0 { \\sim } 5 . 0 \\mathrm { M P a } ,$ [1]处理一段时间后，在毫秒级[2]的时间范围内爆炸排出料仓。由于作用时间短、能量密度高，可引起原料中化学结构的改变[3]，因此广泛应用于造纸、生物质能源利用[46]与生物活性物质的提取过程中[7-10]。在饲料行业方面，蒸汽爆破技术主要应用于麦类秸秆[11I、玉米秸秆[12-13]等粗饲料资源开发利用方面，目前尚未见蒸汽爆破技术对RSM中TG的脱毒研究[14]。本实验室发现蒸汽爆破技术可以对棉籽粕[15-16]进行脱毒，所以假设蒸汽爆破技术也可以对RSM进行脱毒。因此，本试验旨在研究蒸汽爆破技术的水料比、蒸汽压强、维压时间3项参数对RSM中TG脱毒效果的影响，并结合体外仿生法对脱毒效果进行评价，筛选最适的蒸汽爆破技术参数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验选用市售RSM，其中TG含量为 $2 7 . 5 2 \\mathrm { m m o l / k g }$ ，芥酸含量为 $1 4 . 4 \\%$ ，嘌唑烷硫酮含量为 $1 0 . 3 3 \\mathrm { m g / g }$ 异硫氰酸酯含量为 $1 . 7 \\mathrm { m g / g }$ ，粗蛋白质含量为 $3 8 . 6 9 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破试验台（QBS-80B，鹤壁）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "市售RSM过10目筛备用。按重量在RSM中加入一定量的蒸馏水调整为一定的水料比(质量百分比)，搅拌均匀后密封于自封袋中( $\\mathrm { 8 \\sim 1 0 \\ h } \\$ 至充分湿润。调节蒸汽爆破试验台至一定的蒸汽压强，加RSM入料仓，维压一定时间后泄压排出，按单因素试验设计，分别考察水料比（0、 $2 0 \\%$ 、 $2 5 \\%$ 、 $30 \\%$ ）、维压时间（30、60、90、 $1 2 0 { \\mathrm { ~ s } } { \\mathrm { , ~ } }$ ）、蒸汽压强（1.0、1.5、2.0、 $2 . 5 \\mathrm { M P a }$ ）3个参数对RSM中TG的脱毒效果，试验设计如表1所示。每个处理的样品重复爆破3次（ $\\scriptstyle { \\cdot _ { n = 3 } }$ ，每个重复样品收集后于65℃的烘箱中烘至恒重，粉碎过40目筛的样品用来测定TG、嚏唑烷硫酮、异硫氰酸酯含量；粉碎过60目筛的样品用来测定体外营养物质消化率。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5f6f025295dd3e47fcde9359d7f285e96f9af3741c0d6c38f0a843e488acc60.jpg",
+        "table_caption": [
+            "表1试验设计",
+            "Table 1Experiment design "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>汽爆强度</td></tr><tr><td>恒量</td><td>变量</td><td>水平</td><td>Steam</td></tr><tr><td>Constants</td><td>Variables</td><td>Levels</td><td>explosion intensity</td></tr><tr><td></td><td></td><td>0</td><td>3.4</td></tr><tr><td>固定蒸汽压强为2.0MPa，维压时间为60s</td><td>水料比</td><td>20</td><td>3.4</td></tr><tr><td>Steam pressure was kept at 2.O MPa,retention time was 60 s</td><td>Water material ratio/%</td><td>25</td><td>3.4</td></tr><tr><td></td><td></td><td>30</td><td>3.4</td></tr><tr><td>固定水料比为25%，蒸汽压强为2.0 MPa</td><td></td><td>30</td><td>3.1</td></tr><tr><td>Water material ratio was kept at 25%,steam pressure was 2.O MPa</td><td>维压时间</td><td>60</td><td>3.4</td></tr><tr><td></td><td>Retention time/s</td><td>90</td><td>3.6</td></tr><tr><td></td><td></td><td>120</td><td>3.7</td></tr><tr><td>固定水料比为25%，维压时间为60 s</td><td></td><td>1.0</td><td>2.5</td></tr><tr><td>Water material ratio was kept at 25%,retention time was 60 s</td><td>蒸汽压强 Steam pressure/MPa</td><td>1.5</td><td>3.0 3.4</td></tr><tr><td></td><td></td><td>2.0</td><td></td></tr><tr><td></td><td></td><td>2.5</td><td>3.7</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "汽爆强度 $\\mathrm { l o g } _ { 1 0 } ( \\mathrm { R } _ { \\mathrm { o } } )$ 是综合比较蒸汽温度与维压时间作用效果的一个指标， $R _ { \\mathrm { o } } { = } t \\mathrm { e x p } [ ( T { - } 1 0 0 ) / 1 4 . 7 5 ]$ ，t是蒸汽维压时间（ $\\cdot \\operatorname* { m i n }$ ）， $T$ 是蒸汽温度（ $\\mathrm { { ^ \\circ C } }$ ） $\\left[ 1 7 \\right] _ { \\epsilon }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The steam explosion intensity $\\mathrm { l o g } _ { 1 0 } ( \\mathrm { R } _ { 0 } )$ was to compare different processes effects of steam temperature and retention time. $R _ { \\mathrm { o } } { = } t \\mathrm { e x p } [ ( T { - } 1 0 0 ) / 1 4 . 7 5 ]$ , where $t$ was retention time (min) and $T$ was steam temperature $\\big ( \\mathrm { ^ { \\circ } C } \\big ) ^ { [ 1 7 ] }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4测定方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TG 含量采用NY/T1582-2007方法用安捷伦1200高效液相色谱仪（美国）检测。噁唑烷硫酮、异硫氰酸酯含量分别采用NY/T1799-2009、NY/T1596-2008 法用 Eppendorf Biospectrometer basic 分光光度计(德国)检测。干物质、能量、粗蛋白质、氨基酸消化率采用猪体外仿生法\"SDS-II单胃动物仿生消化系统\"检测[18]，其中能量采用ISO9831:1998的方法利用 PARR 1281全自动氧弹式能量测定仪（美国）检测，粗蛋白质含量采用杜马斯燃烧法法利用RapidNI燃烧法快速定氮仪（德国）检测，氨基酸含量（ $6 \\mathrm { m o l / L }$ 盐酸在110℃水解 $2 4 \\mathrm { h }$ ）利用HitachiL-8800氨基酸自动分析仪（日本）检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5计算公式TG脱毒率 $( \\% ) _ { = } ( 1 -$ 汽爆后TG的质量分数 \\* $) \\times 1 0 0$ ；汽爆前TG的质量分数孵化后营养物质的质量分数 $\\cdot \\times 1 0 0$ 仿生法营养物质消化率 $( \\% ) =$ (1- ） 。孵化前营养物质的质量分数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6统计方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据采用SAS9.2统计软件进行统计分析， $P { < } 0 . 0 1$ 时为差异极显著， $P { < } 0 . 0 5$ 时为差异显著， $P { > } 0 . 0 5$ 时为差异不显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1蒸汽爆破处理对RSM中TG脱毒率的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，蒸汽爆破处理后TG脱毒率可达 $7 3 . 7 1 \\% \\sim 8 6 . 9 8 \\%$ 。在水料比为 $2 5 \\%$ 、蒸汽压强为 $2 . 0 \\mathrm { M P a }$ ，维压时间为60s时，TG脱毒率最高，达 $8 6 . 9 8 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在固定蒸汽压强为 $| 2 . 0 \\mathrm { M P a }$ 、维压时间为60s时，随着水料比由0增大到 $3 0 \\%$ ，TG脱毒率呈先升高后降低的变化趋势（ $7 3 . 7 1 \\% \\sim 8 6 . 9 2 \\%$ ），其中以 $2 5 \\%$ 水料比的TG脱毒率最高，达 $8 6 . 9 2 \\%$ ， $30 \\%$ 水料比与 $2 5 \\%$ 水料比间差异不显著（ $P { > } 0 . 0 5$ ），因此确定适宜的水料比为 $2 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在固定水料比为 $12 5 \\%$ 、蒸汽压强为 $\\phantom { - } 1 2 . 0  { \\mathrm { M P a } }$ 时，随着维压时间由30s延长到 $1 2 0 \\mathrm { { s } }$ ，TG脱毒率呈先升高后降低的变化趋势（ $7 6 . 3 1 \\% \\sim 8 6 . 9 8 \\%$ ）。维压时间为60s时，TG脱毒率最高，达 $8 6 . 9 8 \\%$ ，显著或极显著高于其他维压时间（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），继续延长维压时间并不能提高TG脱毒率，因此确定适宜的维压时间为60s。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在固定水料比为 $12 5 \\%$ 、维压时间为60s时，随着蒸汽压强由 $1 . 0 ~ \\mathrm { M P a }$ 增大到 $2 . 5 ~ \\mathrm { M P a }$ ，TG脱毒率呈先升高后降低的变化趋势（ $7 6 . 0 2 \\% \\sim 8 5 . 3 9 \\%$ ）。蒸汽压强为 $| 2 . 0 \\mathrm { M P a } |$ 时，TG脱毒率最高，达 $8 5 . 3 9 \\%$ ，显著或极显著高于其他蒸汽压强（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），继续增加蒸汽压强并不能提高TG脱毒率，所以确定适宜的蒸汽压强为 $| 2 . 0 \\mathrm { M P a }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/24ed4c2771f07e4ed3e953af33f9da8bb2188ac0c2ccbb9e0dbe7b082f69cdfb.jpg",
+        "table_caption": [
+            "表2蒸汽爆破处理对RSM中TG脱毒率的影响",
+            "Table 2Effects of steam explosion treatment on TG detoxification percentage of RSM $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>TG脱毒率</td></tr><tr><td>水料比 Water material ratio/%</td><td>TG detoxification percentage 73.71±1.48Bb</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/65e052c6690c37bf199c55e94950f88a165d3845645bf4db97f30fa58cca0e6b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>20 25</td><td>75.84±2.67Bb 86.92±3.07Aa</td></tr><tr><td rowspan=\"3\">维压时间 Retention time/s</td><td>30 30</td><td>78.92±1.58ABb 84.38±4.22Aa</td></tr><tr><td>60</td><td>86.98±3.17Aa</td></tr><tr><td>90</td><td>80.54±2.84ABb</td></tr><tr><td rowspan=\"4\">蒸汽压强 Steam pressure/MPa</td><td>120</td><td>76.31±3.82Bb</td></tr><tr><td>1.0</td><td>76.45±2.36Bc</td></tr><tr><td>1.5</td><td>80.81±1.92ABb</td></tr><tr><td>2.0</td><td>85.39±1.46Aa</td></tr><tr><td></td><td>2.5</td><td>76.02±2.40Bc</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \\$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same column,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 ) \\$ 1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2蒸汽压强对RSM中TG及其降解产物含量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3显示的是固定水料比为 $2 5 \\%$ 、维压时间为60s时，在不同蒸汽压强下TG及其降解产物含量的变化。与未处理组相比，提高蒸汽压强可极显著降低RSM中TG、异硫氰酸酯的含量（ $P { < } 0 . 0 1 \\rangle$ ，且未检测出噁唑烷硫酮。蒸汽压强为 $2 . 0  { \\mathrm { M P a } }$ 时，TG脱毒率最高，达 $8 5 . 3 9 \\%$ ，显著或极显著高于替他蒸汽压强( $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f7940bf3ded89a4f99e4fec80c1b24f07becdf055a02370b48e39cd2dd49792.jpg",
+        "table_caption": [
+            "表3蒸汽压强对RSM中TG及其降解产物含量的影响",
+            "Table 3Effects of steam pressure on contents of TG and TG degradations of RSM "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ），相同或"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td rowspan=\"2\">未处理组</td><td colspan=\"4\">蒸汽压强 Steam pressure/MPa</td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td></tr><tr><td>总硫苷含量</td><td>27.52±2.75Aa</td><td>6.48±0.65Bb</td><td>5.28±0.53Bbc</td><td>4.02±0.40Bc</td><td>6.60±0.66Bb</td></tr><tr><td>TG content/(mmol/kg) 总硫苷脱毒率</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TG detoxification percentage/% 噁唑烷硫酮含量</td><td></td><td>76.45±2.36Bc</td><td>80.81±1.92ABb</td><td>85.39±1.46Aa</td><td>76.02±2.40Bc</td></tr><tr><td>Oxazolidinethione content/(g/kg)</td><td>0.33</td><td></td><td></td><td></td><td></td></tr><tr><td>异硫氰酸酯含量</td><td>1.70±0.17Aa</td><td>0.33±0.03Cc</td><td>0.46±0.05Cc</td><td>0.40±0.04Cc</td><td>0.83±0.08Bb</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。“”表示未检出。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant difference $\\scriptstyle ( P < 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference ( ${ \\bf \\partial } ^ { P < 0 . 0 1 } { \\bf \\partial } ,$ ),while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .“—”mean undetectable.The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3蒸汽压强对RSM中营养物质消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4显示的是固定水料比为 $12 5 \\%$ 、维压时间为60s时，不同蒸汽压强对RSM中营养物质消化率的影响。不同蒸汽压强下的蒸汽爆破对RSM中苏氨酸、丙氨酸、异亮氨酸、亮氨酸、酪氨酸、苯丙氨酸、组氨酸、脯氨酸的消化率无显著影响（ $P { > } 0 . 0 5 )$ ，但RSM中干物质、总能、粗蛋白质、天冬氨酸、丝氨酸、谷氨酸、甘氨酸、缬氨酸、赖氨酸、精氨酸的消化率随着蒸汽压强的增大而呈降低趋势。与未处理组相比，1.0、1.5MPa蒸汽压强对RSM中各营养物质消化率无显著影响（ $P { > } 0 . 0 5 \\$ ， $2 . 0 \\mathrm { M P z }$ 蒸汽压强可显著或极显著降低粗蛋白质、赖氨酸、精氨酸的消化率（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\$ )°",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/565a7d608214e8f57eb8df0191870e7b0dce1b0431c7925a0ddd8321faa9a53e.jpg",
+        "table_caption": [
+            "表4蒸汽压强对RSM中营养物质消化率的影响 ",
+            "Table 4Effects of steam pressure on nutrient digestibility of RSM %DM "
+        ],
+        "table_footnote": [
+            "3讨论"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">未处理组 Untreated group</td><td colspan=\"4\">蒸汽压强 Seam pressure/MPa</td></tr><tr><td>1.0</td><td>1.5</td><td>2.0</td><td>2.5</td></tr><tr><td>干物质 DM</td><td>56.73±2.57a</td><td>55.76±3.90a</td><td>50.86±4.34ab</td><td>50.43±4.78ab</td><td>46.43±6.29b</td></tr><tr><td>总能GE</td><td>63.65±2.89a</td><td>61.79±4.32ab</td><td>57.33±4.89ab</td><td>54.51±5.16ab</td><td>53.07±7.19b</td></tr><tr><td>粗蛋白质CP</td><td>66.13±2.99Aa</td><td>58.40±4.08ABab</td><td>57.23±4.21ABabc</td><td>50.48±4.78Bbc</td><td>47.86±6.48Bc</td></tr><tr><td>天冬氨酸 Asp</td><td>53.60±2.43a</td><td>51.75±3.62ab</td><td>50.74±4.33ab</td><td>49.45±4.68ab</td><td>44.59±6.04b</td></tr><tr><td>苏氨酸Thr</td><td>47.45±2.15</td><td>45.62±3.19</td><td>44.94±3.83</td><td>44.16±4.18</td><td>42.27±5.73</td></tr><tr><td>丝氨酸 Ser</td><td>48.91±2.22a</td><td>45.02±3.15ab</td><td>44.71±3.81ab</td><td>43.30±4.10ab</td><td>40.89±5.54b</td></tr><tr><td>谷氨酸Glu</td><td>72.36±3.28a</td><td>69.93±4.89ab</td><td>65.51±5.59ab</td><td>64.82±6.14ab</td><td>59.98±8.13b</td></tr><tr><td>甘氨酸Gly</td><td>47.66±2.16a</td><td>45.47±3.18a</td><td>43.22±3.69ab</td><td>41.52±3.93ab</td><td>38.25±5.18b</td></tr><tr><td>丙氨酸 Ala</td><td>47.17±2.14</td><td>45.51±3.19</td><td>44.56±3.80</td><td>44.16±4.19</td><td>41.20±5.59</td></tr><tr><td>氨酸Val</td><td>47.52±2.15a</td><td>46.41±3.25a</td><td>44.92±3.83ab</td><td>44.88±4.25ab</td><td>38.91±5.27b</td></tr><tr><td>异亮氨酸 Ile</td><td>49.17±2.23</td><td>48.21±3.37</td><td>46.16±3.94</td><td>46.04±4.36</td><td>44.23±5.99</td></tr><tr><td>亮氨酸Leu</td><td>51.74±2.35</td><td>51.17±3.58</td><td>50.65±4.32</td><td>50.43±4.78</td><td>48.38±6.56</td></tr><tr><td>酪氨酸Tyr</td><td>47.00±2.13</td><td>45.48±3.18</td><td>44.53±3.80</td><td>44.22±4.19</td><td>43.03 ±5.83</td></tr><tr><td>苯丙氨酸 Phe</td><td>47.04±2.13</td><td>46.61±3.26</td><td>45.10±3.85</td><td>44.25±4.19</td><td>40.83±5.53</td></tr><tr><td>赖氨酸Lys</td><td>54.17±2.45Aa</td><td>50.88±3.56Aab</td><td>49.44±3.96ABab</td><td>45.59±4.32ABbc</td><td>39.06 ±5.29Bc</td></tr><tr><td>组氨酸His</td><td>51.01±2.31</td><td>49.49±3.46</td><td>49.12±4.19</td><td>49.24±4.66</td><td>47.75±6.47</td></tr><tr><td>精氨酸Arg</td><td>64.69±2.93Aa</td><td>62.66±4.38Aab</td><td>56.14±4.79ABabc</td><td>53.99±5.12ABbc</td><td>49.68±6.73Bc</td></tr><tr><td>脯氨酸Pro</td><td>46.68±2.11</td><td>44.79±3.14</td><td>44.17±3.77</td><td>44.43±4.21</td><td>40.07±5.43</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1蒸汽爆破处理对RSM中TG脱毒率影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破处理均可提高RSM中TG的脱毒效果。在固定蒸汽压强与维压时间时，随着水料比的提高（ $0 { \\sim } 2 5 \\%$ ），蒸汽爆破可显著提高RSM中TG的脱毒率，表明适宜的水料比有助于高温蒸汽均匀渗透入RSM内部，削弱分子间的黏结，促进蒸汽变构与降解作用的发挥，提高蒸汽爆破的处理效果，同时也能缓解高温对蛋白质或氨基酸消化率的降低作用。但水料比过高时，过高的湿度会阻碍水蒸汽对原料的渗透作用，削弱蒸汽爆破效果[9'19]。这是本研究中 $3 0 \\%$ 水料比的脱毒效率反而低于 $2 5 \\%$ 水料比的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在固定水料比与蒸汽压强时，随着维压时间的延长，TG脱毒率呈先升高后降低的变化，表明适当延长维压时间有助于提高蒸汽爆破的强度，提高蒸汽爆破的脱毒效果。但随着维压时间的进一步延长，过多蒸汽在RSM上凝结的水分反过来会阻碍水蒸汽对原料的渗透作用，削弱蒸汽爆破效果[920]。这是本研究中维压时间大于60s后脱毒效率反而降低的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在固定水料比与维压时间时，随着蒸汽压强的增大，TG脱毒率呈先升高后降低的变化趋势，表明适当提高蒸汽压强可提高蒸汽爆破处理的脱毒效果，但是脱毒效果并不是蒸汽压强越高越好[20]。过多的高温高压蒸汽在RSM上凝结的水分反过来会削弱蒸汽爆破处理的脱毒效果，这就是本研究中 $2 . 5 \\ \\mathrm { M P a }$ 蒸汽压强的脱毒效果不如 $1 2 . 0  { \\mathrm { M P a } }$ 的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究证实，适宜的蒸汽爆破水料比、蒸汽压强、维压时间均可显著提高RSM中TG的脱毒率。在水料比的各处理中，虽然蒸汽爆强度均是3.4（表1)，但蒸汽爆破处理的脱毒效果却随水料比增加而发生显著变化，证明水料比可显著影响蒸汽爆破处理的脱毒效果。但蒸汽爆强度这个指标的计算公式中只反映蒸汽压强（温度）、维压时间2个指标[，不能反映原料中水料比的影响，说明该公式具有一定的局限性。蒸汽爆破处理的脱毒效果受原料中的水料比（湿度）、蒸汽压强、维压时间3个因素的影响，因此，在确定蒸汽爆破参数时需要加强对包括水料比在内的3个参数的研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2蒸汽压强对RSM中TG及其降解产物含量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固定水料比与维压时间时，适当提高蒸汽压强可显著降低TG、噁唑烷硫酮、异硫氰酸酯的含量。在蒸汽压强为 $2 . 0 \\ \\mathrm { M P a }$ 时，TG、异硫氰酸酯、噁唑烷硫酮脱毒效果最佳。这可能是由于蒸汽爆破可破坏/降解TG、异硫氰酸酯、噁唑烷硫酮的化学结构。此外，蒸汽爆破能失活 RSM中的芥子酶，避免在加工过程中芥子酶降解TG生成毒性更大的噁唑烷硫酮、异硫氰酸酯等。但是蒸汽压强过高时，过多的水分反而会削弱蒸汽爆破的变构或降解作用，这就是 $2 . 5 \\mathrm { M P a }$ 的蒸汽压强的脱毒效果下降的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与现有脱毒技术相比，本研究中蒸汽爆破技术对RSM中TG的脱毒效果低于混合优良菌种的微生物固体发酵[21-22]与混合溶剂脱毒法[23]的脱毒处理效果（TG脱毒率为 $9 2 . 0 1 \\% \\sim 9 4 . 8 5 \\%$ )，但优于酶解法与多数微生物发酵的脱毒处理效果（TG脱毒率为 $4 8 . 3 4 \\% \\sim 6 0 . 6 2 \\%$ )。相对而言，化学溶剂脱毒法存在着脱毒RSM适口性较差、营养物质损失较大、脱毒剂残留与废液污染等问题。微生物脱毒法存在着发酵时间较长（ $2 4 \\sim$ $4 8 \\mathrm { { h } }$ ）等问题。而蒸汽爆破处理技术只需要用自来水调整棉籽粕到一定的水料比，在室温进行充分的水化处理，在一定的蒸汽压强下维压几十秒的时间，即可快速、高效地去除RSM中TG、异硫氰酸酯、噁唑烷硫酮，处理后RSM能够达到我国饲料用菜粕的国家标准（异硫氰酸酯含量低于 $\\mathbf { \\dot { \\sigma } } _ { 0 . 7 5 } \\mathbf { g } / \\mathbf { k g }$ 的限制)，具有预处理简单、脱毒时间短、脱毒效率高、对环境无污染、对设备无腐蚀等特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3蒸汽压强对RSM中营养物质消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究表明，在适当的蒸汽压强下（不大于1.5MPa时)，蒸汽爆破在达到有效的脱毒处理的同时，对RSM中营养物质的消化率无显著不良的影响，但随着蒸汽压强的提高（大于 $2 . 0 \\mathrm { M P a }$ 时)，蒸汽爆破可显著降低RSM中营养物质消化率。这表明过度的蒸汽压强（温度）可引发美拉德反应，损害RSM的营养特性，降低蛋白质与氨基酸的含量与消化率[15]。损害的程度取决于蒸汽压强（温度)与维压时间。所以在研究RSM这一蛋白质饲料的蒸汽爆破脱毒条件时，除关注脱毒率外，更应特别注意加工过程对蛋白质品质与氨基酸消化率的影响。综合平衡脱毒效果与营养物质消化率2个指标，适宜的蒸汽爆破条件以水料比 $2 5 \\%$ 、维压时间60 s、蒸汽压强不大于 $2 . 0 \\mathrm { M P a }$ 为宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对单胃动物而言，饲料蛋白质品质取决于饲料蛋白质的氨基酸的数量，取决于动物对饲料氨基酸的消化率。高温处理不当容易引发美拉德反应，降低蛋白质、氨基酸（尤其是赖氨酸）的数量与消化率。人们在评定饲料的消化率时，体内法（invivo）是最直接而可靠的方法，但由于耗时长、费用高的原因促使人们多采用体外法（invitro）来预测动物对饲料的消化率。“单胃动物仿生消化系统\"可利用计算机模仿动物机体消化系统，在体外精确评估猪饲料能量与粗蛋白质的消化率[24]，其数据可作为饲料加工的一个重要评价标准。但体外仿生法并不能替代动物的消化生长试验，因此需要进一步开展动物试验进行养分消化利用率的评定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以TG脱毒率为评价指标，按单因素试验设计筛选出蒸汽爆破的适宜的水料比为 $12 5 \\%$ ，适宜的维压时间为 $6 0 \\mathrm { ~ s ~ }$ ，适宜的蒸汽压强为 $\\phantom { } 1 2 . 0  { \\mathrm { M P a } _ { \\odot } }$ 但是综合考虑TG脱毒率与营养物质消化率2项指标时，当固定水料比为 $2 5 \\%$ 、维压时间为60s时，适宜的蒸汽压强以不大于 $2 . 0 \\mathrm { M P a }$ 为宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] TOUSSAINTB,EXCOFFIER G,VIGNON MR.Effect of steam explosion treatment on the physico-chemical characteristics and enzymic hydrolysis of poplar cell wallcomponents[J].Animal Feed Science and Technology,1991,32(1/2/3):235-242.   \n[2] YU ZD,ZHANG B L,YUF Q,et al.A real explosion:the requirement of steam explosion pretreatment[J].Bioresource Technology,2012,121:335-341.   \n[3]朱均均,勇强,陈尚研,等.玉米秸秆蒸汽爆破降解产物的分析[J].林产化学与工业,2009,29(2):22-26.   \n[4] 张霞,李红伟,马晓建.汽爆玉米秸秆酶解时表观酶活及物料理化性质的变化[J].农业工程学 报,2013,29(11):203-209.   \n[5] SU TF,ZHAO G Z,REN TB,et al.Characterizations of physico-chemical changes of corn biomassby steam explosion[J].Transactions of the Chinese Society of Agricultural Engineering,2O15,31(6):253-256.   \n[6] 王风芹,仝银杏,李传斌,等.蒸汽爆破玉米芯水解液脱毒及其发酵生产燃料丁醇[J].农业工程学 报，2016,32(5):257-262   \n[7] 张兵兵,曾国明,傅亚,等.蒸汽爆破提取银杏叶黄酮类化合物的工艺研究[J].纤维素科学与技 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "术,2012,20(1):39-44,71.   \n[8]石敏,汪何雅,成玉梁,等.蒸汽爆破法预处理制取的灵芝粗提物安全性评价初步研究[J].食品工业科 技,2014,35(6):338-342.   \n[9] 贺永惠,王清华,黄会丽,等.蒸汽爆破提高小麦麸皮中水溶性戊聚糖含量及热重分析[J].农业工程学 报,2015,31(13):286-291.   \n[10]LIU C,ZHANGR T,LIUB Getal.Efect of steam explosion treatment on phenolic acid composition of wheat brananditsantioxidantcapacity[J].TransactionsoftheChineseSocietyofAgricultural Engineering,2016,32(6):308-314.   \n[11] VIOLA E,ZIMBARDI F,CARDINALE M,et al.Processng cereal straws by steam explosion in a pilot plant to enhance digestibility in ruminants[J].Bioresource Technology,20o8,99(4):681-689.   \n[12] 常娟,尹清强,任天宝,等.蒸汽爆破预处理和微生物发酵对玉米秸秆降解率的影响[J].农业工程学 报,2011,27(4):277-280.   \n[13] 常娟,尹清强,姜义宝,等.生物秸秆对肉鸡表观代谢能的影响及替代玉米适宜比例的研究[J].动物营养学 报,2012,24(8):1557-1563.   \n[14] 贺永惠,王清华,苗志国,等.一种快速去除棉粕中棉酚含量的饲料加工技术：中 国,201410036507.2[P].2014-05-07.   \n[15]王清华,贺永惠,鲁红伟,等.蒸汽爆破技术对棉籽粕中游离棉酚脱毒效果研究[J.动物营养学 报,2016,28(2):524-530.   \n[16] 贺永惠,王清华,刘兴友,等.一种快速去除菜籽粕中硫苷含量的饲料加工技术：中 国,201410069566.X[P].2014-05-28.   \n[17] VALIENTE C,ARRIGONI E,ESTEBAN R M,et al.Chemical composition of olive by-product and modificationsthroughenzymatictreatments[J].JournaloftheScienceofFoodand Agricultrue,1995,69(1):27-32.   \n[18] ZHAO F,ZHANG L,MI B M,et al.Using a computer-controled simulated digestion system to predict the energetic value of corn for ducks[J].Poultry Science,2014,93(6):1410-1420.   \n[19] IROBA K L,TABIL L G,SOKHANSANJ S,et al.Pretreatment and fractionation of barley straw using steam explosion at low severity factor[J].Biomass and Bioenergy,2014,66:286-300.   \n[20] 任天宝,马孝琴,徐桂转,等.响应面法优化玉米秸秆蒸汽爆破预处理条件[J].农业工程学 报,2011,27(9):282-286.   \n[21]兰时乐,毛小伟,肖调义,等.菜籽粕混合菌固体发酵脱毒条件的响应面优化研究[J].动物营养学 报,2013,25(3):617-627.   \n[22] 胡永娜,李爱科,王之盛,等.微生物固态发酵菜籽粕营养特性的研究[J].中国粮油学报,2012,27(3):76-80.   \n[23]兰文菊,彭密军,吕强,等.菜籽粕混合溶剂脱毒工艺研究[J].中国油脂,2012.37(6):28-32.   \n[24] CHEN L,GAO L X.HUANG Q H,et al.Prediction of digestible energy of feed ingredients for growing pigs usingacomputer-controlled simulated digestionsystem[J].JournalofAnimal ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A Study of Steam Explosion Parameters on Detoxification Effect of Total Glucosinalates in Rapeseed Meal HE Yonghui WANG Qinghua LIU Changzhong LIU Xingyou XIE HongbingWANG YanrongHE Yun (Henan province engineering technology centerof Inteligentcleanerproduction of livestock and poultry, Intelligent CleanerProductionofLivestockandPoultry inHenanProvinceEngineeringLaboratory,Department ofAnimal Science,Henan Institute of Science and Technology, Xinxiang 453oo3,China) Abstract: This experiment was conducted to study the steam explosion parameters,such as water material ratio, retention timeand or steam pressure,on detoxification effect of total glucosinolates in rapeseed meal,and evaluates the nutrient digestibilityinvitro using a computer-controlld simulated digestion system.The single-factor experiments were designed forchoosing the optimal water material ratio,theoptimal retention time and the optimal steam pressre.Each experiment was divided into 4 levels,with 3repetitions ineach level.The results showed that steam explosion treatment can afectthe total glucosinolates detoxification effect in rapeseed meal,the detoxification percentage of total glucosinalates ranged from $7 3 . 7 1 \\%$ to $8 6 . 9 8 \\%$ . The optimal water material ratio was $2 5 \\%$ ,the optimal retention time was $6 0 \\mathrm { ~ s ~ }$ ，and the steam pressure was $2 . 0 \\ \\mathrm { M P a }$ for the detoxification percentage of total glucosinalates when designed as single-factor experiments.Asnutrient digestibility in rapeseed was considered,compared with the untreated group,steam explosion of 1.O and $1 . 5 \\mathrm { M P a }$ (fixed water material ratio at $2 5 \\%$ ，and retention time at $6 0 ~ \\mathrm { ~ s ~ } ;$ ）had no significant influences on nutrient digestibility in vitro in rapeseed meal $( P { > } 0 . 0 5 )$ ，but $2 . 0 \\ \\mathrm { M P a }$ steam explosion could significantly reduce the digestibility of crude protein,lysine and arginine $( P { < } 0 . 0 5 )$ ，steam explosion could significantly increase the content of total glucosinalates and isothiocyanate $( P { < } 0 . 0 5 ) \\$ .In conclusion,comprehensive consideration of total glucosinolates detoxification percentage and nutrient digestibility,the appropriate steam pressure should be not greater than $2 . 0  { \\mathrm { M P a } }$ as fixed water material ratio at $2 5 \\%$ ,retention time at $6 0 \\mathrm { { s } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:steam explosion；rapeseed meal；glucosinalate；detoxification；simulative digestion system; digestibility ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑武海龙)",
+        "page_idx": 8
+    }
+]

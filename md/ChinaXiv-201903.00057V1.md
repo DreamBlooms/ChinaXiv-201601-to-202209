@@ -1,0 +1,155 @@
+# 规模化储能技术在电力系统中的需求与应用分析
+
+![](images/0582221e54919e5dd6e73e653842cf08115e2b3087a71a6aa058e3fb68c88993.jpg)
+
+吴盛军男1988年生，博士研究生，研究方向为新能源发电及储能应用研究。
+
+![](images/6b35b9ac5f6363e9d0ccd5c27c555a18cb6a58a6647c2c4964b2183285b7003a.jpg)
+
+徐青山男 1979年生，教授，博士生导师，研究方向为新能源发电技术、负荷资源化调度、智能配用电技术。
+
+吴盛军1²徐青山²袁晓冬」陈兵」李强（1.国网江苏省电力公司电力科学研究院南京2111032.东南大学电气工程学院南京210096）
+
+摘要：发展规模化储能是满足日益增长的电力需求、电网削峰填谷以及增加可再生能源并网消纳的重要途径，储能技术在电网中的应用将大幅提高电网运行的安全性、可靠性、经济性和灵活性。本文首先介绍几种适合规模化发展的储能技术类型，对比分析了这些储能技术的优缺点，指出了影响规模化储能应用的因素。通过分析规模化储能五种最具潜力的电网应用模式：调频、新能源消纳、延缓电网投资建设、负荷跟踪平滑和削峰填谷，给出了储能应用所需的技术和经济指标要求。最后展望了规模化储能发展应用需要解决的问题和挑战，为储能技术研究和产业发展提供了参考。
+
+关键词：规模化储能 新能源消纳 延缓输配电投资 负荷跟踪削峰填谷中图分类号：TM727
+
+# An Analysis of Requirements and Applications of Grid-Scale Energy Storage Technology in Power System
+
+Wu Shengjun1,2 Xu Qingshan² Yuan Xiaodong' Chen Bing' Li Qiang1 (1.Jiangsu Electric Power Research InstituteNanjing 211103China 2. School of Electrical Engineering Southeast UniversityNanjing210096China ）
+
+Abstract: Development of grid-scale energy storage is an important access to meet the growing demand for electricity arising,electric energy time shift,and the grid integration of high penetrations of renewable energy. Energy storage applications in grid will significantly improve the security of grid operation, reliability,economy and flexibility. In this paper several energy storage technology types suitable for gridscale development are described, and a comparative analysis of the advantages and disadvantages of these energy storage technologies are made, the factors that influence the grid-scale energy storage applications are pointed out. Five grid-scale energy storage applications that have the greatest overall potential to benefit power system planning and operations are analyzed include of frequency regulation,renewables grid integration, transmission and distribution upgrade deferral and substitution,load following,and electric energy time shift. Through analyzing these applications, some storage technologies certain economic, technical performance,and design targets in order to optimize grid functionality are given out. Finally, some problems and challenges are presented in the development of grid-scale energy storage applications need to be addressed, and a guidance to the energy storage technology research and industrial development is provided.
+
+Keywords: Grid-scale energy storage technology, renewables grid integration, :ransmission and distribution upgrade deferral,load following,load shifting
+
+# 1 引言
+
+电网时刻处于发电与用电之间的动态平衡状态，电厂发出的电力必须实时传输，用电和发电实现实时平衡。传统的火电、水电和核电等发电方式通常按照负荷需求进行调度运行；而以风能、太阳能为代表的新能源发电受自然资源条件影响，出力具有间歇性和波动性，发电调节和控制困难，且新能源大规模并网运行影响电网的经济性和安全稳定运行。另一方面，随着经济和社会的发展，电网的高峰负荷不断增加，峰谷差日益增大，而且局部电网网架薄弱，在输送能力上难以满足负荷需求，使得电网的运行控制和管理变得日益困难和复杂。
+
+储能技术将发电与用电从时间和空间上分隔开来，用电和发电不需要实时平衡，突破了电网电能不能存储的限制，彻底改变了电网的调度、运行以及规划等模式。规模化储能应用于电力系统的发电、输电、配电各个环节，可有效减少短时电力中断，缓解高峰供电压力，延缓或者减少电源和电网的投资建设，提升电网的可再生能源的接纳能力，并提高电网的稳定性和灵活性[1]。
+
+规模化储能是调整能源结构、提高能源利用效率和电网运行效率的重要措施，对实现节能减排与优化能源结构的目标有着积极的推动作用。规模化储能可以参与电网短期、中期和长期等多种应用需求，是解决电网的局限性和可再生能源并网需求的重要途径。同时电力储能技术正朝着高能量密度、高转换效率、低成本和大规模化的方向发展，随着示范应用工程和运行管理技术的日趋成熟，规模化储能技术应用前景可期[2-3]
+
+本文介绍了规模化储能技术的概况，对规模化储能在电网的五种应用模式进行了技术和经济关键指标分析，最后指出了规模化储能推广面临的问题和挑战，为规模化储能在电网的发展应用、建设规划以及政策制定等提供参考。
+
+# 2 规模化储能技术概况
+
+储能技术按应用领域可分为功率型储能和能量型储能，按技术类型主要分为物理储能和电化学储能，储能技术中较为成熟的可作为规模化储能应用的主要有飞轮储能、压缩空气储能、抽水蓄能、超级电容储能、铅酸电池、锂电池、钠硫电池等，见表1。不同的储能类型有各自的特点，为规模化储能应用的不同需求提供了多样化的选择[47]。
+
+表1规模化储能技术概况  
+Tab.1 Overview of grid-scale storage technologies   
+
+<html><body><table><tr><td>储能技术</td><td>优点</td><td>缺点</td><td>功率型</td><td>能量型</td></tr><tr><td>飞轮储能</td><td>高功率</td><td>低能量密度</td><td>★★★</td><td>★☆☆</td></tr><tr><td>超级电容储能</td><td>长寿命、高功率</td><td>低能量密度</td><td>★★★</td><td>★☆☆</td></tr><tr><td>铅酸电池</td><td>低成本</td><td>寿命短</td><td>★★☆</td><td>★★☆</td></tr><tr><td>钠硫电池</td><td>高功率、高能量密度</td><td>高成本、高温运行</td><td>★★☆</td><td>★★☆</td></tr><tr><td>锂电池</td><td>高功率、高能量密度</td><td>高成本、电池管理</td><td>★★☆</td><td>★★☆</td></tr><tr><td>压缩空气储能</td><td>高能量、低成本</td><td>选址要求</td><td>★★☆</td><td>★★★</td></tr><tr><td>抽水蓄能</td><td>高能量、低成本</td><td>选址要求</td><td>★☆★</td><td>★★★</td></tr></table></body></html>
+
+电化学储能特点在于功率和能量可根据不同应用需求灵活配置，响应速度快，适合大规模应用和批量化生产，是目前规模化储能技术主要的发展方向。电化学储能中铅酸电池的应用较早，技术相对成熟、成本低、可靠性高，但使用寿命较短，难以满足大规模储能发展的要求。锂离子电池具有能量密度较大，转换效率高、循环寿命较长等优点，在电动汽车上得到了广泛应用，适合作为规模化储能元件，国内外已建成多个大规模的锂电池储能示范应用。钠硫电池能量密度和转换效率高，寿命长，但运行条件苛刻，安全性稍差。目前电化学储能存在的主要问题是电池循坏寿命短、成本高，以及退役后的环境污染，这是电化学储能技术需要重点研究和突破的方向。
+
+超级电容器是是典型的功率型储能，适用于大功率低容量应用场合。超级电容储能具有充放电速度快、功率密度高、循环使用寿命长和工作温度范围宽等优点，其主要问题是能量密度低、成本高。
+
+抽水蓄能在规模化储能中应用最广泛、技术最成熟，电站装机容量规模可达千兆瓦级。抽水蓄能在电力系统中主要用于削峰填谷、调频、黑启动和提供备用容量等。抽水蓄能主要受地理和环境限制，必须在有条件的地理位置建设，建设周期长。
+
+压缩空气储能容量仅次于抽水蓄能，具有充放时间长、成本较低、安全系数高等优点，技术比较成熟，国外已实现商业化应用，其主要问题是能量密度和储能效率较低。
+
+飞轮储能的优势是技术成熟度高、功率密度高、寿命长、无污染等，适用于电网调频和电能质量治理等。飞轮储能的缺点主要是能量密度低、自放电率高和成本高。
+
+目前储能技术受容量、功率和经济性因素限制，还没有一种理想的储能技术能够完全满足电网中各种规模化应用的要求。储能技术的安全性、可靠性、成本、效率和寿命是储能技术的主要研究内容，同时也是影响规模化储能应用的主要因素。
+
+# 3 规模化储能应用分析
+
+随着可再生能源渗透率的提高，电网中的机组发电功率不再完全可控，但同时必须满足波动的负荷电力需求，这种供需动态波动给电网调度带来前所未有的挑战。规模化储能可以实现包括电压和频率控制、削峰填谷和应对新能源接入等多种功能，提高电网的灵活性和稳定性。规模化储能在电网中的推广应用必须达到一定经济和技术指标，在性能指标或者经济性方面优于现有发电和运行设备。规模化储能未来最有可能出现在以下五种电网应用中，即电网频率调节、可再生能源并网、延缓输配电建设和升级、负荷跟踪以及削峰填谷。下面将结合具体应用研讨储能所需的经济和技术指标[8-10]
+
+# 3.1电网频率调节 (短时)
+
+调频是维护电网安全运行的关键技术，为保证电力系统安全稳定运行，要求调频机组能快速、精确地响应调度指令。大型火电调频机组持续运行导致发电机组负荷率下降和环境污染等问题。储能技术参与调频服务的最大优势是其具有快速和精确的响应能力，单位功率的调节效率较高。储能技术非常适合解决短时电力供应和需求之间的不平衡问题，为电网提供调频服务，其调频响应速度远快于常规火电机组。根据美国电力市场的调频电源比较分析，储能调频效果是水电机组的1.7倍，是燃气机组的2.5倍，是燃煤机组的20倍以上[11]。具有快速调节能力的储能技术能够更有效地提供调频服务。
+
+应用于电网调频储能系统的性能指标主要有系统寿命、持续发电时间、响应时间和循环效率等，见表2。规模化储能应用于调频业务具有运行成本低、响应速度快、运行稳定和安全可靠的特点，其调频特性优于传统调频机组，若规模化储能达到表2 中的指标，那么储能调频未来在电网中将有巨大的发展空间。
+
+表2储能调频关键指标 (短时)  
+
+<html><body><table><tr><td>名称</td><td>指标要求</td><td>指标解析</td></tr><tr><td>响应时间</td><td><1s</td><td>储能技术上完全能快速响应电网输出指令</td></tr><tr><td>循环效率</td><td>75%~ 90%</td><td>效率指输入能量除以输出能量</td></tr><tr><td>系统寿命</td><td>10年</td><td>每年4500～7000次循环</td></tr><tr><td>放电时间</td><td>15min～2h</td><td>容量有限，需要充放平衡</td></tr></table></body></html>
+
+# 3.2新能源并网 (短时）
+
+新能源开发利用能减少化石能源的使用，减少环境污染，不过新能源出力的随机性和不确定性制约着新能源的发展。利用储能技术改变新能源发电出力特性，将其变为可控制的电源，是大规模新能源发电并网运行的可行途径。储能系统结合新能源发电预测可有效改善新能源出力特性，平抑出力波动，提高新能源发电的可靠性和稳定性，为大规模新能源的并网消纳提供条件[12-15]。
+
+储能技术应用于新能源并网的性能指标主要有循环效率、系统寿命和响应时间等，见表3。如果储能系统能够达到表3中的指标要求，储能在新能源并网方面会得到广泛应用，新能源发电在电网中所占比例也会提升。
+
+# 表3储能应用于新能源并网关键指标 (短时）
+
+Tab.2Storage targets for frequency regulation application (short duration)   
+Tab.3 Storage targets for renewables grid integration   
+
+<html><body><table><tr><td colspan="2">upPreut utlor)</td><td>指标解析</td></tr><tr><td>名称</td><td>指标要求 75%~90%</td><td>效率指输入能量除以输出能量</td></tr><tr><td>循环效率</td><td></td><td>寿命跟储能类型和循环次数有关，</td></tr><tr><td rowspan="2">系统寿命</td><td rowspan="2">10年</td><td>较理想寿命周期为10 年</td></tr><tr><td>储能容量配置与新能源类型和规模</td></tr><tr><td rowspan="2">容量</td><td rowspan="2">1～20MW</td><td></td></tr><tr><td>有关</td></tr><tr><td rowspan="2">响应时间</td><td rowspan="2">1~2s</td><td>储能快速响应能更好平滑新能源出</td></tr><tr><td>力波动</td></tr></table></body></html>
+
+# 3.3延缓输配电建设和升级（长时）
+
+随着负荷中心电力需求的增加，新增负荷给电网的输配电带来巨大的压力，负荷中心的配电网呈现局部潮流不平衡和高峰时段电力供应紧张趋势。然而通过建设和升级输配电配套工程满足高峰负荷的需求非常不经济，并且建设周期较长。储能电站在负荷低谷存储电能，负荷高峰释放电能，从而满足电能需求，可延缓或者减少输配电工程以及电厂的投资建设，是一种经济可行的方案[16]。
+
+应用于延缓输配电建设和升级的储能性能指标主要有放电持续时间、容量、可靠性和系统寿命，同时安全性也是储能系统必须要考虑的重要因素。为储能配置的保护需完全融入现有的电网保护体系。规模化储能能够达到的性能指标见表4，该技术将作为一种低成本、高效益的有效方式被电力行业采纳应用，以适应电网的智能化和满足日益增长的电力需求，延缓和替代输配电系统建设。
+
+# 表4储能应用于延缓输配电建设和升级关键指标 (长时)
+
+Tab.4Storage targets for transmission and distribution construction and upgrade deferral application (long duration)   
+
+<html><body><table><tr><td>名称</td><td>指标要求</td><td>指标解析</td></tr><tr><td>放电时长</td><td>2～4h</td><td>存储几个小时电能用于平抑电力需求</td></tr><tr><td>容量</td><td>1～100MW</td><td>替代输电系统需要配置的储能容量大于 100MW</td></tr><tr><td>可靠性</td><td>99.9%</td><td>储能系统要求与输配电系统一样可靠</td></tr><tr><td>寿命</td><td>10年</td><td>系统寿命达到10年，同时容易升级改</td></tr><tr><td></td><td>造</td><td></td></tr></table></body></html>
+
+# 3.4负荷跟踪平滑 (长时)
+
+在电力双边市场中，发电和用户之间直接进行负荷跟踪交易，电力供应需要跟踪响应负荷的波动，实现电力供给平衡。负荷跟踪服务通过负荷监测器实时监测负荷波动，并将负荷信息传送到发电端，进行功率调整。负荷跟踪服务通常由燃气机组等调节性能好的发电设备提供，但跟踪负荷出力以及低负荷率会导致机组发电经济性低和高排放问题，同时增加了机组维护工作量。储能的快速响应能力可以在电网状态发生变化前跟踪补偿区域内负荷的波动，储能系统在非额定功率运行也能保证输入和输出的性能，而且储能的双向特性增加了负荷跟踪调节的宽度，因此储能技术非常适合提供快速响应的负荷跟踪服务[17]。
+
+储能系统参与跟踪负荷的性能指标主要有运行和维护成本、放电持续时间，见表5。储能系统需要对负荷波动做出跟踪响应，也需要具备快速响应调度指令能力。如果电站级储能用于负荷跟踪能达到表5中的性能指标，储能系统将有助于提高电力系统应对负荷波动的能力。
+
+Tab.5Storage targets for load following application (long duration)   
+
+<html><body><table><tr><td>名称</td><td>指标要求</td><td>指标解析</td></tr><tr><td>运维费用</td><td>3250元/MW·h</td><td>储能高性能响应对应高成本费用</td></tr><tr><td>放电时长</td><td>2～6h</td><td>2h额定放电容量，4～6h负荷 跟踪运行能力</td></tr></table></body></html>
+
+# 3.5削峰填谷 (长时)
+
+电力需求峰谷差不断增大，电力供应峰谷矛盾突出，用电高峰电价高且电力供应紧张，用电低谷电价低而电力供大于求。储能系统在用电低谷存储电能、用电高峰释放电能满足负荷需求，可有效平衡供需波动，是缓解用电峰谷矛盾的有效途径。由于低谷电价远低于高峰电价，利用储能电站进行削峰填谷不仅满足高峰用电需求，而且能利用电价差进行套利，这使得储能电站在经济上能够盈利[18]。
+
+储能系统用于削峰填谷的性能指标主要有运行和维护成本、放电持续时间和效率，见表6。如果规模化储能用于削峰填谷达到表6中的性能指标，储能将在电网中大量应用，这将提升电网的弹性，缓解高峰用电需求，并提升电网设备的利用率。
+
+表5储能应用于负荷跟踪关键指标 (长时)  
+表6储能应用于削峰填谷关键指标 (长时)  
+Tab.6Storage targets for electric energy time shift application (long duration)   
+
+<html><body><table><tr><td>名称</td><td>指标要求</td><td>指标解析</td></tr><tr><td rowspan="2">运维费用</td><td>1625~</td><td>较低的运维费使储能系统具有</td></tr><tr><td>3250元/MW·h</td><td>削峰填谷的经济性优势</td></tr><tr><td rowspan="2">放电时长</td><td>2～6h</td><td>削峰填谷需要几个小时的放电</td></tr><tr><td></td><td>容量</td></tr><tr><td rowspan="2">效率</td><td></td><td>抽水蓄能转换效率偏低，储能</td></tr><tr><td>70%~ 80%</td><td>高效率提高了系统经济性和竞争</td></tr></table></body></html>
+
+# 4 面临的问题与挑战
+
+规模化储能在电网有着较好的发展潜力和前景，但储能仍有不少问题限制了其在电力系统中的推广应用，储能在电网中的广泛应用需要解决以下问题[19-22]
+
+(1）储能应用缺少市场机制。电力系统主体结构有发电、输配电和负荷组成，储能可应用于发电、输配电和用电的各个环节，储能的多种功能使其存在市场定位模糊问题。储能不能自发电，区别于传统发电厂，然而作为电网设备，电网公司缺少电厂的运营能力和资质。储能电站的定位模糊为建设和发展带来困难，以及储能电价的定价问题都将影响储能电站的推广。目前规模化储能处于示范应用阶段，规模化储能电站的发展不仅需要扶持和激励政策，还需要清晰明确的市场定位和储能电价政策。
+
+(2）规模化储能示范应用不足。规模化储能系统示范应用不足是限制其发展和推广应用的重要原因，规模化储能系统缺少实际运行数据支撑，其技术水平和经济性难以充分验证。小容量的储能试验研究对大容量储能系统示范应用帮助有限，理论分析和仿真研究无法准确评估储能的效率、寿命、可靠性和安全性等关键技术指标。另一方面，规模化储能系统的推广应用必定需要经济效益的支持，示范应用不足导致无法提供足够的数据，以分析和验证规模化储能的经济效益，不利于规模化储能的商业化推广。
+
+(3）规模化储能技术不成熟。规模化储能技术不够成熟，除抽水蓄能技术外，其他储能技术在规模化储能应用中尚有不少关键技术问题需要解决。在各类储能中，抽水蓄能、电化学储能和压缩空气储能可以同时达到规模化储能应用容量和功率要求，而飞轮储能、超级电容储能以及超导储能等功率型储能难以达到规模化储能的容量要求。储能的效率和寿命也是限制储能规模化应用的技术瓶颈，压缩空气储能和传统铅酸电池无法满足规模化储能应用于电网的技术要求。安全性与可靠性始终是电力系统的基本要求，规模化储能系统的安全性和可靠性还需要进一步研究和验证。
+
+(4）规模化储能缺少标准体系和规范。有限的规模化储能示范和不成熟的储能技术同时也造成规模化储能标准和规范缺失，不利于引导规模化储能技术研究和产业健康发展。储能设备缺少技术标准，系统设计缺乏规范，各类储能方案缺少可行的评估方法。另一方面，标准缺失将影响储能系统的测试、运行和控制等，给电网的安全运行带来隐患。尽管国内外电池、变流器和并网要求等各种标准正在研讨和制定中，然而标准和规范的制定是一个循序渐进的过程，需要比较长的时间进行修订和完善。
+
+# 5 结束语
+
+规模化储能技术是提高电网调峰调频能力，增强电网可再生能源接纳能力，以及提高电网稳定性和灵活性的重要途径，是智能电网的关键支撑技术。储能技术的应用贯穿于电力系统发电、输电、配电、用电的各个环节，可解决现有电网中诸多限制和难题，规模化储能的应用将给电网带来根本性变革，加快推进绿色低碳的能源转型。
+
+各类储能技术各有优缺点，为不同的应用需求提供了多样化的选择，但很多储能技术尚处于试验示范阶段，需要解决储能的安全性、可靠性和经济性等关键问题。现阶段各类储能技术前景不明朗，储能产业的健康发展需要政策方面的引导与扶持，加强储能技术基础研究，加快建设储能的标准和规范体系。综合考虑上述情况，成熟的储能技术、完善的标准体系以及有利的商业模式是储能在电网大规模推广应用的必要条件。
+
+# 参考文献
+
+[1] 国家电网公司“电网新技术前景研究”项目咨询组. 大规模储能技术在电力系统中的应用前景分析[J]. 电力系统自动化，2013，37(1)：3-8. Consulting Group of State Grid Corporation of China to Prospects of New Technologies in Power Systems. An analysis of prospects for application of largescale energy storage technology in power systems[J]. Automation of Electric Power Systems,2013,37(1): 3-8.   
+[2] 胡娟，杨水丽，侯朝勇，等．规模化储能技术典型 示范应用的现状分析与启示[J]．电网技术，2015, 39(4): 879-885. Hu Juan,Yang Shuili,Hou Chaoyong,et al. Present condition analysis on typical demonstration application of large-scale energy storage technology and its enlightenment[J]. Power System Technology, 2015,39(4): 879-885.   
+[3] 高小涛．江苏电力节能减排的技术途径[J]．江苏 电机工程，2015，34(1)：65-68. Gao Xiaotao. Technical approaches for energysaving and emission reduction of Jiangsu power[J]. Jiangsu Electrical Engineering, 2015,34(1): 65-68.   
+[4] Castillo A,Gayme D F.Grid-scale energy storage applications in renewable energy integration: a survey[J]. Energy Conversion and Management, 2014, 87: 885-894.   
+[5]许守平，李相俊，惠东．大规模储能系统发展现 状及示范应用综述[J]．电网与清洁能源，2013, 29(8):94-100，108. Xu Shouping, Li Xiangjun, Hui Dong. A survey of the development and demonstration application of large-scale energy storage[J]. Power System and Clean Energy,2013,29(8): 94-100,108.   
+[6] Akinyele D O, Rayudu R K. Review of energy storage technologies for sustainable power networks[J]. Sustainable Energy Technologies and Assessments, 2014, 8: 74-91.   
+[7] Hameer S, Van Niekerk JL. A review of large-scale electrical energy storage[J]. International Journal of Energy Research,2015,39(9): 1179-1195.   
+[8] US Department of Energy Office of Electricity Delivery & Energy Reliability. Electric power industry needs for grid-scale storage applications[EB/OL]. 2010-12- 10[2014]. http://energy.gov/oe/downloads/electricpower-industry-needs-grid-scale-storage-applications.   
+[9] 王承民，孙伟卿，衣涛，等．智能电网中储能技 术应用规划及其效益评估方法综述[J]．中国电机 工程学报，2013，33(7)：33-41，21. Wang Chengmin, Sun Weiqing, Yi Tao, et al. Review on energy storage application planning and benefit evaluation methods in smart grid[J]. Proceedings of the CSEE,2013,33(7): 33-41,21.   
+[10]Pfenninger S, Keirstead J. Renewables, nuclear, or fossil fuels? scenarios for Great Britain's power system considering costs, emissions and energy security[J]. Applied Energy,2015,152: 83-93.   
+[11]陈大宇，张粒子，王澍，等．储能在美国调频市 场中的发展及启示[J]．电力系统自动化，2013, 37(1): 9-13. Chen Dayu, Zhang Lizi,Wang Shu,etal. Development of energy storage in frequency regulation market of United States and its enlightenment[J]. Automation of Electric Power Systems,2013,37(1): 9-13.   
+[12]王再闯，袁铁江，李永东，等．基于储能电站提 高风电消纳能力的电源规划研究[J]．可再生能源, 2014，32(7): 954-960. Wang Zaichuang, Yuan Tiejiang,Li Yongdong, et al. Power planning based on energy storage station to improve accommodation of wind power[J]. Renewable Energy Resources,2014, 32(7): 954-960.   
+[13]崔杨，朱加明，葛延峰，等．计及限风特性与经济 性的大规模集中充放电储能系统容量配置研究[J]. 电网技术，2016，40(2)：484-490. Cui Yang, Zhu Jiaming,Ge Yanfeng,et al. Study on capacity configuration of large-scale energy storage system under concentrated charge and discharge based on wind curtailment characteristics and economics[J]. Power System Technology, 2016, 40(2): 484-490.   
+[14]薛钟兵，彭程．新能源发电与电动汽车充换储站 协调运行研究[J]．江苏电机工程，2014，33(5)： 36-38. Xue Zhongbing,Peng Cheng.Research on the coordinated operation of new energy power generation and EV charging storage station[J]. Jiangsu Electrical Engineering, 2014,33(5): 36-38.   
+[15]蒋平，熊华川．混合储能系统平抑风力发电输出功 率波动控制方法设计[J]．电力系统自动化，2013, 37(1): 122-127. Jiang Ping,Xiong Huachuan.A control scheme design for smoothing wind power fluctuation with hybrid energy storage system[J]. Automation of Electric Power Systems,2013,37(1): 122-127.   
+[16]Solomon A A, Kammen D M, Callaway D. The role of large-scale energy storage design and dispatch in the power grid: a study of very high grid penetration of variable renewable resources[J].Applied Energy,2014, 134: 75-89.   
+[17]US Department of Energy Office of Electricity Delivery & Energy Reliability. Energy storage safety strategic plan[EB/OL]. 2014-12[2014]. htp://energy. gov/oe/downloads/energy-storage-safety-strategicplan-december-2014.   
+[18]Reihani E,Motalleb M, Ghorbani R,et al. Load peak shaving and power smoothing of a distribution grid with high renewable energy penetration[J]. Renewable Energy,2016,86: 1372-1379.   
+[19]李建林，田立亭，来小康．能源互联网背景下的 电力储能技术展望[J]．电力系统自动化，2015, 39(23): 15-25. Li Jianlin, Tian Liting,Lai Xiaokang. Outlook of electrical energy storage technologies under energy internet background[J]. Automation of Electric Power Systems,2015,39(23): 15-25.

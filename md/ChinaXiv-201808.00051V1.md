@@ -1,0 +1,282 @@
+# 基于多尺度池化卷积神经网络的疲劳检测方法研究
+
+顾王欢，朱煜，陈旭东，郑兵兵，何林飞(华东理工大学 电子与通信工程系，上海 200237)
+
+摘要：疲劳驾驶是造成交通事故的主要原因之一，通过视觉传感器采集驾驶员面部图像并进行基于视觉特征分析的疲劳驾驶检测具有实际意义。针对视觉特征分析疲劳检测问题，设计了一种级联深度学习的检测系统结构，并提出基于多尺度池化的卷积神经网络疲劳状态检测模型。首先通过深度学习模型MTCNN进行人脸检测，提取出眼睛和嘴巴区域。针对眼睛和嘴巴的状态表征和识别问题，提出一种基于ResNet的多尺度池化模型（MSP）对眼睛和嘴巴状态进行训练。实时检测时，将眼睛嘴巴区域通过训练好的卷积神经网络模型进行状态识别，最后基于PERCLOS和提出的嘴巴张合频率(FOM)对驾驶员进行疲劳判定。实验结果表明，该算法具有较高的检测准确率，同时满足实时性要求，且对复杂环境具有较高的鲁棒性。
+
+关键词：视觉特征分析；多尺度池化；卷积神经网络；疲劳检测；人脸检测中图分类号：TP391.4 doi:10.3969/j.issn.1001-3695.2018.05.0337
+
+# Driver's fatigue detection system based on multi-scale pooling convolutional neural networks
+
+Gu Wanghuan, Zhu $\mathrm { Y u ^ { \dag } }$ , Chen Xudong,Zheng Bingbing,He Linfei (Dept.of Electronics& Communication Enginering,East China University of Science& Technology，Shanghai 200237, China)
+
+Abstract:Fatiguedrivingisoneof temaincausesof traficacidents,particularlyfordriversoflargevehicleslikebusesand heavytrucks.Fordesigningdriverfatigue monitoring systems,thevisualfeaturesbased techniques isoneof themosteffective approaches.This paper proposeda hierarchical convolutional neural network model with multi-scale polingforvision-based fatiguedetection system.The first step is face detection and extraction of eye and mouse regions by deep learning model—MTCNN.In order to solve the problem of characterization and recognition of eyeand mouth regions,this paper proposeda multi-scale pooing model(MSP)basedonResNet totrain diferent states ofeyeand mouth.Inreal-time detection, the paperrecognizedthestatesof eyeand mouth bythe pre-trainedconvolutional neural network model.Finally,his paper detect fatigue through the PERCLOSandthe frequency of open mouth (FOM).The experimentalresults show that the proposed algorithm has high detection accuracy,real-time performance and high robustness to complex environments.
+
+Key words: visual feature analysis; multi-scale pooling; convolutional neural network; fatigue detection;face detection
+
+# 0 引言
+
+美国汽车协会交通安全基金会(AAAFoundationforTrafficSafety)[]的一项调查表明： $1 6 \% - 2 1 \%$ 的交通事故是由于驾驶员疲劳驾驶导致的。尤其对于驾驶时间较长的卡车、公共汽车等大型车辆尤为严重。因此，驾驶员疲劳检测技术对于预防交通事故有着重要的研究意义。
+
+当人进入疲劳状态时，往往会伴随各种生物特征上的变化，如打哈欠、长时间的闭眼、脑电波和心电波的变化等。本文针对需求将疲劳检测的研究主要集中于对驾驶员面部行为特征的分析上。基于驾驶员面部行为特征的疲劳检测算法一般分为两步：(a)人脸检测；(b)根据面部行为状态判断疲劳。
+
+针对人脸检测算法的研究有很多，文献[2]是Vlola的经典之作，该文首次引入积分图概念，结合Adaboost算法进行人脸检测，在保证检测效果的同时提高了检测速度，做到了实时监测；YongDu等人[3提出一种基于驾驶员眼睛变化状态判断疲劳的方法，该方法使用了帧差法绑定颜色信息检测人脸；2012年卷积神经网络(convolutional neural networks,CNN）[4]在ImageNet大赛上一鸣惊人，使得深度学习(deep learning,DL)成为近年来研究图像视频等邻域最热门的方法，如图像检索[5]、人体行为识别[6、场景分析[7等均取得了巨大的成功。在人脸检测和识别[8的应用中，深度学习方法亦是效果显著。Taigman等人[9在2014年提出了DeepFace 模型，将深度学习模型成功应用于人脸检测和识别中，解决了传统方法中普遍存在的鲁棒性差的问题，大大提高了人脸检测和识别的准确性；2016 年，
+
+Zhang等人[10]提出了一种多任务的卷积神经网络模型(multitaskconvolutionalneuralnetworks,MTCNN)，将人脸检测分为三层网络进行训练。该模型能够快速准确地检测多个人脸，并对侧脸检测具有良好的鲁棒性，其在FDDB、WIDERFACE和AFLW人脸数据集上的验证结果达到 $9 5 \%$ 。
+
+![](images/eab8620ef17ec0fc0eb256387b19bc052dd4d7d7d7354a8da7ec84ff492c9f46.jpg)  
+图1算法流程
+
+针对面部状态判断疲劳的方法主要是从眼晴的睁闭和打哈欠的行为进行判断的。Wierwille等人[1]建立了一种PERCLOS的理论模型，该模型将PERCLOS定义为单位时间内眼睑闭合程度达到 $70 \%$ 或者 $80 \%$ 的时间占比，PERCLOS已成为一种非常有效的疲劳判定的指标;Chu等人[12]则通过研究嘴巴的形状，将嘴巴的数据输入到BP网络中进行训练，分类出三种不同精神状态的类别。
+
+用深度学习进行疲劳检测已成为近年来的热点之一。赵雪鹏等人[13]使用了一种级联网络来对眼睛部位进行定位和状态检测，以此判断疲劳；耿磊等人[14]则是首先使用AdaBoost 和KCF(kernelizedcorrelationfilters)进行人脸的检测和跟踪，然后再使用经典的网络结构对眼睛和嘴巴的状态进行检测。
+
+基于视觉图像处理的疲劳检测是一个已经研究多年的课题，然而由于真实场景下环境光照、人员表情情况干扰较大，在人脸检测精度和面部行为特征检测精度上依然有待提高。针对此问题，本文提出了一种级联深度学习结构及基于多尺度池化卷积神经网络(multi-scale pooling networks,MSP-net)的疲劳状态检测模型。通过已经训练好的MTCNN模型检测出人脸，提取眼睛和嘴巴的数据，将眼睛和嘴巴数据分别放入已经训练好的MSP-NetCNN网络中进行检测，判断眼晴的睁闭和嘴巴的张合情况，最后根据 PERCLOS 和嘴巴张合频率(frequency of openmouth,FOM)联合判断疲劳。具体流程如图1所示。
+
+# 1 预处理
+
+# 1.1数据采集
+
+本文的疲劳检测系统采用两个深度学习模型级联形式，一个是针对检测人脸及提取眼睛和嘴巴图像的MTCNN，另一个是本文提出的对眼睛和嘴巴图像进行状态判定的多尺度池化CNN网络。这两个网络都需要预训练。
+
+由于近年来深度学习模型在人脸检测方面已经取得了骄人的成绩，本文利用已有的优秀网络来获得人脸及眼嘴区域，而将重点工作放在疲劳检测任务中。本文采用的MTCNN网络是由KZhang等人已经训练好的模型，作者使用WIDERFACE数据库[15]，人脸图像在20万张左右，包含边框标注和5个关键点信息（两个眼球的中心坐标、鼻尖坐标和两个嘴角坐标)。网络训练回归的是人脸边框和5个关键点坐标。
+
+眼睛和嘴巴图像状态判定网络训练的数据由本文笔者在实际工作中自主采集，包括部分实际驾驶员图像及21位志愿者协助获得。考虑到驾驶员有夜间驾驶的情况，采集的设备除了使用普通摄像头以外，还使用红外摄像头。在图像和视频采集过程中，综合考虑驾驶员实际驾驶时的各种复杂环境问题，采集的图像数据包括眼睛睁闭、嘴巴张合、无眼镜、佩戴眼镜、正面和侧面等各种情况。采集之后进行筛选处理，剔除部分噪声样本。最后将筛选好的样本进行分类：普通摄像头的睁眼、闭眼、张嘴、闭嘴和红外摄像头的睁眼、闭眼、张嘴、闭嘴情况。其中，眼晴一共36764个样本，嘴巴一共15185个样本。样本示例如图2所示。
+
+![](images/097ad460176d20ca4647ae09aeb7b07048f7bfd1cbeead951f08e628123353a8.jpg)  
+图2采集样本示例
+
+# 1.2数据预处理
+
+由于红外摄像头采集的样本图像亮度普遍偏低，直接放入网络训练效果不好，所以，还需对样本进行预处理。本文使用直方图均衡[16]的方法。
+
+直方图均衡的目的是为了增强局部对比度。其主要步骤是求出原图灰度级的累计概率，根据映射关系将原灰度值映射到新的灰度值。如灰度值为0\~255的灰度图像，其灰度映射关系如下：
+
+$$
+\begin{array} { r } { p _ { k } = 2 5 5 * \sum _ { i = 0 } ^ { k } \frac { n _ { i } } { n } \ k = 0 , 1 , 2 \dots , L - 1 } \end{array}
+$$
+
+其中： $p _ { k }$ 表示映射后的灰度值； $k$ 表示第 $k$ 个灰度级；一共 $L$ 个灰度级； $n$ 表示所有像素个数； $n _ { i }$ 表示第i个灰度级的像素个数；得出的 ${ \dot { p } } _ { k }$ 最后再取整。图3展示了直方图均衡前后的对比。
+
+![](images/e81c1536c0081a5a651173d2dcbf7a8cec274dd7e54f7e5958e5b94925e80c79.jpg)  
+图3直方图均衡前后对比
+
+# 2 人脸检测
+
+传统人脸检测算法，如AdaBoost或者帧差法等对于复杂环境的鲁棒性较差，深度学习模型在这方面有着其巨大的优势。本文借鉴Zhang等人的MTCNN模型进行人脸检测部分的工作。
+
+MTCNN的网络结构如图4所示，主要分为P-NET、R-NET和O-NET三层。
+
+P-NET：首先构建图像金字塔；然后通过一个全卷积网络(fullyconvolutional network，FCN)[l7]，获取候选脸部窗口(candidatefacialwindows)和边框回归向量(boundingboxregressionvectors)，用该边框回归对候选脸部窗口进行校准；接着使用非极大值抑制(nonmaximum suppression,NMS)[18]合并高度重合候选区域。
+
+R-NET：将P-NET得到的候选区域放入此网络中，进一步筛查掉大量错误候选区和做校准，最后同样使用NMS进行合并候选区域。
+
+O-NET：这一层网络与R-NET类似，但这一层做得更加细致，将对候选区域进行更严格的监督，最后多输出5个关键点坐标。
+
+MTCNN的鲁棒性很好，对于旋转了一定角度的人脸依然可以准确地检测。通过MTCNN检测人脸，并根据返回的5个关键点，可以成功标志出眼睛嘴巴部位。如图5所示，左图是普通摄像头下的检测结果，右图是红外摄像头下的检测结果。
+
+![](images/d420bdf91b07b1f09889f1210692eee64c7bcfa33a6ef94e669851b141a88e04.jpg)  
+P-NET   
+图4MTCNN结构
+
+![](images/f2231648a859f584aab62ce9393bd1f275ecd5c7041b0917fbbaae5fb7b35321.jpg)  
+图5MTCNN人脸检测与眼睛嘴巴区域提取
+
+# 3 多尺度池化卷积神经网络MSP-Net
+
+提取出眼睛和嘴巴部位后，就需要进行眼睛和嘴巴的状态检测。本文提出了一种多尺度池化卷积神经网络模型
+
+(multi-scale poolingnetworks,MSP-net)分别训练眼睛和嘴巴的 状态。
+
+# 3.1模型设计
+
+多尺度池化卷积神经网络模型(MSP-net)在ResNet[19]的结构基础上进行改进，保留了残差概念，在 pooling 层将原来的max pooling修改为本文提出的多尺度池化(MSP)，用以提高对不同分辨率下采集图像的识别效果。MSP的结构如图6所示。
+
+MSP 模块步骤如下：a)将上一级网络传入的特征图(featuremaps)先经过两次maxpooling得到一组边长比原特征图小4倍的特征图；b）对原特征图进行尺度缩放操作，边长缩小一倍，再对得到的新特征图进行一次maxpooling得到另一组边长为原特征图1/4大小的特征图；c）对原特征图再进行尺度缩放，边长缩小为原来的1/4倍；d）将三次输出的特征图进行级联，传入后面的深度学习网络。
+
+多尺度池化模型的思想来源于空间金字塔池化模型[20]。相比于空间金字塔模型，多尺度池化的优点在于其代入位置更加灵活，可以在网络的开头、中间或是结尾多次使用。
+
+![](images/41501fdb730f337fe9f7af57f38e0123ac604be82e2be62f5ac11a0c6ab24457.jpg)  
+图6多尺度池化(msp)模块
+
+本文设计的MSP-net网络的结构如图7所示。眼睛与嘴巴的训练方式一致，这里以眼睛为例。在MSP-net中，输入图像为 $4 8 ^ { * } 4 8$ 大小的灰度图，经过一次卷积和MSP输出 $1 2 ^ { * } 1 2 ^ { * } 4 8$ 的feature maps，卷积核大小为 $3 ^ { * } 3$ ；之后经过一个残差块(residualblock)，残差块中有两层卷积，卷积核大小还是 $3 ^ { * } 3$ 残差块输出 $1 2 ^ { * } 1 2 ^ { * } 4 8$ 的 feature maps；再经过一次 max pooling,输出 $6 ^ { * } 6 ^ { * } 4 8$ 的 feature maps；之后将 feature maps 转换成一维向量，进入全连接层，全连接层输入序列长为1728，有一层隐含层，长度为1000，最后经过softmax输出分类结果，类别分为普通摄像头睁眼、红外摄像头睁眼、普通摄像头闭眼和红外摄像头闭眼四类。
+
+为了验证MSP-net的有效性，本文除了使用MSP-net进行实验，同时使用经典AlexNet[4]和ResNet结构作为对比网络进行了训练和测试，进行了相关对比实验。6.2节显示了三种网络的对比实验结果。
+
+# 3.2损失函数与优化方法
+
+网络最后使用的是softmax分类方法，且分为四类，softmax函数定义为
+
+$$
+\begin{array} { r } { p _ { j } = \frac { \exp \left( y _ { j } ^ { \prime } \right) } { \sum _ { k = 0 } ^ { 3 } \exp \left( y _ { k } ^ { \prime } \right) } \mathrm { ~ , ~ } j = 0 , 1 , 2 , 3 } \end{array}
+$$
+
+其中： $p _ { j }$ 表示为第j类的概率； $\begin{array} { r } { y _ { j } ^ { \prime } = \sum _ { i } h _ { i } \cdot w _ { i , j } + b _ { j } } \end{array}$ 表示全连接层最后一层输出， $h _ { i }$ 是上一层输出， $w _ { i , j }$ 和 $b _ { j }$ 分别为最后一层的权重和偏置。
+
+损失函数定义为交叉熵：
+
+$$
+\begin{array} { r } { \mathrm { L } _ { m } = - \sum _ { j = 0 } ^ { 3 } 1 \{ y = j \} l o g p _ { j } } \end{array}
+$$
+
+其中： $\mathrm { L } _ { m }$ 表示第 $m$ 个样本的交叉熵； $1 \{ y = j \}$ 表示示性函数，即当 $y = j$ 时，该函数为1，当 $y \neq j$ 时，该函数为0。式（3）是单个样本的损失函数，当有M个训练样本时，损失函数需要求平均：
+
+$$
+\begin{array} { r } { L = \frac { 1 } { M } \sum _ { m = 1 } ^ { M } L _ { m } } \end{array}
+$$
+
+优化方法使用了自适应矩估计方法(adaptivemomentestimation,Adam)[21]。
+
+![](images/ce4a434f80aaf6fe191bd084fc0d5168c271186d2432fb093e35a5e3ff512ad1.jpg)  
+图7MSP-net 结构
+
+# 4 疲劳状态检测
+
+驾驶员在进入疲劳时会有一系列生物特征上的反应，如长时间闭眼、打哈欠等。基于这种生物特征的反应和之前网络获取的眼晴和嘴巴状态，通过计算PERCLOS 和嘴巴张合频率(FOM)对驾驶员疲劳程度进行标定。
+
+# 4.1 PERCLOS
+
+PERCLOS表示的是单位时间内眼睛闭合帧数和单位时间总帧数之间的比值[1]。其计算公式如下：
+
+$$
+\begin{array} { r } { f _ { p e r } = \frac { n } { N } \times 1 0 0 } \end{array}
+$$
+
+其中： $n$ 表示闭眼帧数； $N$ 表示单位时间总帧数。PERCLOS可以很好地量化驾驶员闭眼的程度，当PERCLOS 达到某一个阈值时（文献[11]给出0.15)，可以判断驾驶员闭眼时长过长，已
+
+经可以初步认为其进入了疲劳状态。
+
+# 4.2 嘴巴张合频率(FOM)
+
+嘴巴张合频率(FOM)与PERCLOS类似，表示的是单位时间内嘴巴张着的帧数和单位时间总帧数之间的比值。其计算公式如下：
+
+$$
+\begin{array} { r } { f _ { f o m } = \frac { n } { N } \times 1 0 0 } \end{array}
+$$
+
+与 PERCLOS一样， $n$ 表示闭嘴帧数， $N$ 表示单位时间总帧数。且这两个指标都是值越大，表示疲劳程度越大。最后的疲劳状态检测需要联合两者同时考虑。
+
+# 4.3疲劳状态检测
+
+所有深度网络的预训练完成以后，根据PERCLOS和FOM定好疲劳状态阈值，把整个网络系统应用到实时检测中。具体步骤为：摄像头拍摄驾驶员视频，MTCNN抓取每一帧的人脸和5个关键点部位，提取出眼睛和嘴巴区域，利用MSP-net对每一帧抓取出来的眼睛和嘴巴部分进行状态检测，保存到固定长队列中，算法实时检测队列中值的变化情况，当队列中所有值的分布情况达到阈值疲劳状态时，报警机制就启动，提醒驾驶员已进入疲劳。
+
+# 5 实验与分析
+
+# 5.1实验平台与数据集
+
+所有的样本采集、网络训练和结果测试均是基于Python3.6和Tensorflow1.2实现的。摄像头使用普通摄像头和 $9 2 0 \ \mathrm { n m }$ 的红外摄像头。处理器为CPU（ $3 . 2 0 \ : \mathrm { G H z } ^ { \cdot }$ )，内存4GB。眼睛和嘴巴的数据集(eye&mouthdatabase,EMD)，是通过普通摄像头和红外摄像头一同采集，一共采集21位志愿者的数据，整理出眼睛36764个样本，嘴巴15185个样本。
+
+为进一步检验提出的MSP-Net的检测效果，本文还针对人眼状态公共数据集ZJUEyeblinkDatabase[22]数据集（图8）进行了实验和算法性能对比。该数据库采集了20个人共80个视频剪辑。每个人4个剪辑：不带眼镜正视图剪辑、带薄边眼镜正视图剪辑、带黑边眼镜正视图剪辑和不带眼镜仰视图剪辑。该数据集图像分为睁眼和闭眼两类。睁眼样本共7000个，其中训练样本5770个，测试样本1230个；闭眼样本共1984个，其中训练样本1574个，测试样本410个。每张图片大小 $2 4 ^ { * } 2 4$ 。
+
+![](images/3223bda21831cef877d9f90e482c552d496f5685f1cb5d390772632ffbd914ad.jpg)  
+图8ZJU数据集样本示例
+
+# 5.2 实验结果分析
+
+MTCNN人脸检测效果显著。图9为MTCNN在本文的实际检测结果。从实验结果可以看到，即使测试者脸部转过一定角度，MTCNN 依然可以很好地检测到人脸。本文主要针对眼睛和嘴巴状态检测和疲劳状态检测进行相关实验。
+
+# 5.2.1眼睛嘴巴状态检测
+
+自建数据集EMD中眼睛样本36764张，嘴巴样本15185张，训练样本占 $9 5 \%$ ，测试样本占 $5 \%$ 。训练的具体分类和样本数如表1所示。训练前进行灰度化、归一化和直方图均衡等操作，输入网络的图像为 $4 8 ^ { * } 4 8$ 的灰度图。为了验证MSP-Net网络对眼晴嘴巴状态检测的效率，分别使用经典AlexNet和ResNet进行参数训练和测试，并作比较。各网络的测试结果如表2所示。
+
+从实验结果可以看到，本文提出的MSP-net对于眼睛嘴巴状态的检测有着较高的准确率。此外，比较眼睛和嘴巴的实验结果发现，嘴巴的准确率普遍比眼睛的高，这是因为眼睛状态判别受到有带眼镜、不带眼镜及眼镜形态等干扰，所以分类效果比嘴巴的略低。实际检测效果如图10所示。图左上方为检测结果的文字描述。从实验效果可以看到，MSP-net的鲁棒性很高，在佩戴眼镜、光线较弱且有转头的情况下，依然能够准确地识别出眼睛和嘴巴的状态。
+
+疲劳检测除了需要较高的检测准确率，还需要快速检测的能力。因此，网络的检测速度也很重要。表3显示的是三种网络在CPU上检测一张 $4 8 ^ { * } 4 8$ 灰度图片的运算速度。
+
+从表3可以看出，AlexNet的运算速度要远远慢于ResNet和MSP-net，原因在于AlexNet的参数量多很多，所以对于疲劳检测来说，AlexNet并不适用。MSP-net同ResNet在准确率和实时性上均比较出色，MSP-net 要稍优于ResNet。
+
+为了证明MSP-Net网络的普适性，本文在ZJU眼睛状态数据集上与其他两种方法做了比较实验。实验结果如表4所示。实验内容是判断眼睛的睁闭状态。表中，“Acc."表示准确率，“AUC”表示的是受试者工作特征曲线(receiveroperatingcharacteristiccurve,ROC)[23]下的面积。“Acc."及“AUC"值越大，表明模型性能越优。文献[24]使用了方向梯度直方图(histogram of oriented gradient，HOG）描述子和随机蕨算法(random ferns)提取眼睛特征并检测睁闭；文献[22]则提出了一种新的特征描述子：主向梯度多尺度直方图(MultiHPOG)，以提高对图像噪声和尺度变化的鲁棒性。从实验结果中可以看出，本文方法不管在准确度上还是耗时上均优于上述两种方法。
+
+![](images/ea9d6eed293e8205168eb520a4ad878169ed1d9664517fe1867631ff8eb452f2.jpg)  
+图9MTCNN实际检测结果
+
+表1眼睛嘴巴训练样本详细数据  
+
+<html><body><table><tr><td>数据集</td><td>训练对象</td><td colspan="4">类别和训练样本数</td></tr><tr><td rowspan="3">EMD</td><td>眼睛</td><td>普通摄像头睁眼 10 034</td><td>红外摄像头睁眼 5381</td><td>普通摄像头闭眼 12 600</td><td>红外摄像头闭眼 7126</td></tr><tr><td>嘴巴</td><td>普通摄像头张嘴</td><td>红外摄像头张嘴</td><td>普通摄像头闭嘴 4 877</td><td>红外摄像头闭嘴</td></tr><tr><td colspan="4">3802 2 606 表2 眼睛嘴巴状态检测测试结果对比</td><td>3 661</td></tr><tr><td>数据集</td><td colspan="3">分类对象 测试样本数量</td><td>网络</td><td>准确率/%</td></tr><tr><td rowspan="4">EMD</td><td>眼睛</td><td></td><td></td><td>AlexNet</td><td>97.192</td></tr><tr><td rowspan="3"></td><td></td><td>1853</td><td>ResNet</td><td>97.786</td></tr><tr><td></td><td></td><td>MSP-Net</td><td>98.056</td></tr><tr><td></td><td></td><td></td><td>98.606</td></tr><tr><td rowspan="3">嘴巴</td><td></td><td>789</td><td></td><td>AlexNet ResNet</td><td>98.479</td></tr><tr><td></td><td></td><td></td><td>MSP-Net</td><td>98.859</td></tr><tr><td colspan="3"></td><td></td><td></td></tr></table></body></html>
+
+![](images/a6888330a6ca0dc942b06c130a0e5d1f9cacf255c6ceb074ac1b6944ff0878a7.jpg)  
+图10眼睛嘴巴实际判断情况
+
+表3眼睛嘴巴状态检测模块单张图片各网络检测速度  
+
+<html><body><table><tr><td>网络</td><td>耗时/ms</td></tr><tr><td>AlexNet</td><td>32.8</td></tr><tr><td>ResNet</td><td>5.6</td></tr><tr><td>MSP-Net</td><td>4.3</td></tr></table></body></html>
+
+表4几种方法在ZJU 数据集上的表现结果  
+
+<html><body><table><tr><td rowspan="2">方法</td><td colspan="3">ZJU 数据集</td></tr><tr><td>Acc./ %</td><td>AUC/ %</td><td>耗时/ms</td></tr><tr><td>HOG + Random Ferns[24]</td><td>94.76</td><td>98.89</td><td>9.000</td></tr><tr><td>MultiHPOG + SVM[22]</td><td>96.83</td><td>99.27</td><td>37.570</td></tr><tr><td>MSP-Net（本文）</td><td>96.89</td><td>99.05</td><td>1.823</td></tr></table></body></html>
+
+表5疲劳检测实验结果  
+
+<html><body><table><tr><td></td><td>疲劳次数</td><td>误检次数</td><td>漏检次数</td><td>查准率/%</td><td>查全率/%</td></tr><tr><td>普通摄像头</td><td>100</td><td>2</td><td>1</td><td>98.02</td><td>99.00</td></tr><tr><td>红外摄像头</td><td>100</td><td>5</td><td>2</td><td>95.15</td><td>98.00</td></tr></table></body></html>
+
+# 5.2.2疲劳状态检测
+
+Wierwille等人[1]在其论文中给出：当进入疲劳时，PERCLOS值大于0.15，而其他研究者也有根据数据将PERCLOS 阈值标定为其他值，如 $0 . 2 5 ^ { [ 1 2 ] }$ 。
+
+本文在PERCLOS 基础上同时考虑了FOM的影响，提出一种疲劳检测的方案：(a)当PERCLOS大于等于0.5或者FOM大于等于0.5时，判断为疲劳；(b)不满足(a)情况时，当PERCLOS大于等于0.4同时FOM大于等于0.3时，同样判断为疲劳。
+
+疲劳检测系统实验中，拍摄10名志愿者模拟驾驶的过程，每人模拟10次疲劳状态，共100次疲劳。同时要求期间可以出现各种干扰状态，如增加眨眼频率、说话、轻笑等。检测系统同时用普通摄像头和红外摄像头实时检测志愿者的状态。表 5记录了实验结果。
+
+查准率的计算公式为
+
+$$
+P = ( n _ { f } - n _ { m i s } ) / ( n _ { f } - n _ { m i s } + n _ { e r r } )
+$$
+
+其中： $P$ 为查准率； $n _ { f }$ 为疲劳次数； $n _ { e r r }$ 为误检次数； $n _ { m i s }$ 为漏检次数。查准率反映了误检概率，查准率越高，误检越低。
+
+查全率的计算公式为
+
+$$
+R = ( n _ { f } - n _ { m i s } ) / n _ { f }
+$$
+
+其中： $R$ 为查全率。查全率反映了漏检概率，查全率越高，漏检越低。
+
+从实验结果可以看出，系统的查准率和查全率均较高。相比于模拟夜晚状态的红外图像来说，白天普通摄像头拍摄的RGB 图像具有更高的查准率和查全率。
+
+# 5.3 讨论
+
+在实验过程中，遇到以下几个问题。
+
+在采集样本的过程中，嘴巴图像的采集由于程序的设计，得到的样本大小是不统一的。为了更有效地进行训练，本文使用各向异性缩放原理[25]，将输入图片的大小均缩放到 $4 8 ^ { * } 4 8$ 。
+
+实际情况中，驾驶员会说话、轻笑等，这些情况下嘴巴也是张开的。不过，相比于打哈欠，这些情况张嘴的幅度要小很多。为了减小检测误差，在嘴巴样本进行分类时，将嘴巴微张的样本均归为闭合的类，只有张开幅度较大的样本才算张开的类。
+
+前期，针对眼睛嘴巴状态训练，进行了二分类，即将普通摄像头和红外摄像头采集的样本融合到一起，只检测眼晴睁闭和嘴巴张合，然而效果不理想。可能的原因是普通摄像头拍摄的图像和红外摄像头拍摄的图像差异性较大，卷积神经网络在自动拟合特征时无法很好地同时满足两者的差异性。经过分析，最终本文将类别分成四类，即区分普通摄像头和红外摄像头的样本。
+
+# 6 结束语
+
+本文设计了一种级联深度学习结构及基于多尺度池化卷积神经网络的疲劳检测实时系统。首先通过MTCNN网络检测驾驶员的人脸，提取出眼睛和嘴巴关键位置，然后将眼睛和嘴巴图像送入多尺度池化MSP-Net中进行状态测试，设定固定长度队列，队列保存单位时间内对每一帧检测的结果，通过PERCLOS和嘴巴张合频率(FOM)联合判断疲劳状态。实验表明，本文提出的算法具有较高的检测准确率，同时可以达到实时检测的效果，且对复杂环境（如带眼镜、一定程度的偏头和黑夜驾驶等）有着较高的鲁棒性。本文提出的方法将进一步向嵌入式平台移植和优化。
+
+# 参考文献：
+
+[1]Tefft B C.Acute sleep deprivation and risk of motor vehicle crash involvement [R].[S.1.]:AAA Foundation for Traffic Safety,2016.   
+[2]Viola P,Michael JJ.Robust real-time face detection [J]. International Journal of Computer Vision,2004,57 (2): 137-154.   
+[3]Du Yong,Ma Peijun,Su Xiaohong,et al.Driver fatigue detection based on eye state analysis [J].Technology& Health Care Official Journal of the European Society for Engineering& Medicine,20o8,23 (s2): S453-S463.   
+[4]Krizhevsky A, Sutskever I, Hinton G E.ImageNet classification with deep convolutional neural networks [C]//Proc of International Conference on Neural Information Processing Systems.[S.1.]:Curran Associates Inc, 2012:1097-1105.   
+[5]刘海龙，李宝安，吕学强，等．基于深度卷积神经网络的图像检索算法 研究[J].计算机应用研究,2017,34(12):3816-3819.(Liu Hailong,Li Baoan,Lyu Xueqiang,et al. Image retrieval based on deep convolutional neural network [J].Application Research of Computers,2017,34(12): 3816-3819.)
+
+[6]朱煜，赵江坤，王逸宁，等．基于深度学习的人体行为识别算法综述
+
+[J].目动化子报，∠UIO,4∠（O):848-8ə/.（∠nu Yu,∠nao Jiangkun,wang Yining,et al. Areview of human action recognition based on deep learning [J]. Acta Automatica Sinica,2016,42(6): 848-857.)   
+[7]Yu Tianshu, Wang Ruisheng. Scene parsing using graph matching on street-view data [M].[S.1.] : Elsevier Science Inc,2016.   
+[8]Shao Hong,Chen Shuang,Zhao Jieyi,et al. Face recognition based on subsetselection viametric learning on manifold [J].Frontiersof Information Technology& Electronic Engineering，2015，16(12): 1046-1058.   
+[9]Taigman Y, Yang Ming, Ranzato M,et al. DeepFace: closing the gap to human-level performance in faceverification[C]//Procof IEEE Conference on Computer Vision and Pattern Recognition.[S.l.] :IEEE Computer Society,2014: 1701-1708.   
+[10] Zhang Kaipeng, Zhang Zhanpeng,Li Zhifeng,et al. Joint face detection and alignment using multitask cascaded convolutional networks [J]. IEEE Signal Processing Leters,2016,23 (10): 1499-1503.   
+[11] Wierwille WW,ElsworthLA. Evaluation of driver drowsinessby trained raters [J].Accident Analysis& Prevention,1994,26 (5): 571-81.   
+[12] Chu Jiangwei,Jin Lisheng,Tong Bingliang,et al. Amonitoring method of driver mouth behavior based on machine vision [C]// Proc of IEEE Intelligent Vehicles Symposium.2004: 351-356.   
+[13]赵雪鹏，孟春宁，冯明奎，等．基于级联卷积神经网络的疲劳检测[J]. 光电子·激光,2017 (5): 497-502.(Zhao Xuepeng,Meng Chunning,Feng Mingkui,et al.Fatigue detection based on cascade convolutional neural network [J]. Journal of Optoelectronics $\cdot$ laser,2017,28 (5): 497-502.)   
+[14]耿磊，袁菲，肖志涛，等．基于面部行为分析的驾驶员疲劳检测方法 [J].计算机工程,2018,44(1):274-279.(Geng Lei,YuanFei,Xiao Zhitao, et al. Driver fatigue detection method based on facial behavior analysis [J]. Computer Engineering,2018,44(1): 274-279.)   
+[15] Yang Shuo,Luo Ping,Chen CL,et al.WIDER FACE:a face detection benchmark [C]// Proc of Computer Vision and Pattern Recognition.[S.1.] : IEEE Press,2016:5525-5533.   
+[16] Jaspers C A M. Histogram equalization: USA,US 6741736 B1 [P]. 2004-05-25.   
+[17] ShelhamerE,Long J,DarrellT.Fullyconvolutional networks forsemantic segmentation [J]. IEEE Trans on Pattern Analysis & Machine Intelligence, 2017, 39 (4): 640-651.   
+[18] Neubeck A,Gool L V.Efficient non-maximum suppression [C]// Proc of IEEE International Conference on Pattern Recognition. 2006:850-855.   
+[19] He Kaiming, Zhang Xiangyu, Ren Shaoqing,et al. Deep residual learning for image recognition [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2016: 770-778.   
+[20] He Kaiming, Zhang Xiangyu,Ren Shaoqing,et al. Spatial pyramid pooling in deep convolutional networks for visual recognition [J]. IEEE Trans on Pattern Analysis& Machine Intelligence,2014,37(9): 1904-1916.   
+[21] Kingma DP,Ba J.Adam: A method for stochastic optimization[C]// Proc of International Conference on Learning Representations.2O15:1-13.   
+[22] SongFengyi,Tan Xiaoyang,Liu Xue,et al.Eyescloseness detection from still images with multi-scale histograms of principal oriented gradients [J]. Pattern Recognition,2014,47 (9): 2825-2838.   
+[23] Fawcett T.An introduction to ROC analysis [J].Pattern Recognition Letter, 2006,27 (8): 861-874.   
+[24]Dong Yanchao,Zhang Yan，Yue Jiguang，et al.Comparison of random
+
+forest,random ferns and support vector machine for eye state classification [J].Multimedia Tools & Applications,2016,75(19):11763-11783. [25] Girshick R,Donahue J,Darrell T,et al.Rich feature hierarchies for accurate object detection and semantic segmentation [C]// Proc of Computer Vision and Pattern Recognition.[S.l.]:IEEE Press,2014: 580-587.

@@ -1,0 +1,252 @@
+DOI:10.13930/j.cnki.cjea.161066
+
+贺佳，刘冰峰，黎世民，郭燕，王来刚，张彦，李军．不同生育时期冬小麦籽粒蛋白质含量的高光谱遥感监测模型[J]中国生态农业学报,2017,25(6):865-875He J,LiuBF,LiSM,GuoY, WangLG, Zhang Y,LiJ.Winter wheat grainproteincontent monitoring modeldrivenbyhyperspectralremote sensing imagesat diffrent growth stages[J]. Chinese JournalofEco-Agriculture,2017,25(6):865-875
+
+# 不同生育时期冬小麦籽粒蛋白质含量的高光谱遥感监测模型
+
+贺佳²，刘冰峰²，黎世民¹，郭燕，王来刚¹，张彦¹，李军2\*\*(1．河南省农业科学院农业经济与信息研究所郑州450002;2.西北农林科技大学农学院杨凌712100)
+
+摘要：为研究不同氮磷水平下冬小麦籽粒蛋白质含量高光谱遥感监测模型，提高模型精度，本文通过连续5年定位试验研究不同氮磷耦合水平下，不同生育时期冬小麦冠层光谱反射率、植株氮含量以及成熟期籽粒蛋白质含量，以相关、回归等统计分析方法，建立基于不同生育时期植株氮含量的籽粒蛋白质含量监测模型；然后通过灰色关联度分析，筛选植株氮含量的最佳植被指数，以偏最小二乘回归法，建立基于植被指数的植株氮含量监测模型；最后以植株氮含量为链接点，按照“植被指数一植株氮含量一籽粒蛋白质含量"之间的联系，建立融合植被指数与植株氮含量的冬小麦成熟期籽粒蛋白质含量监测模型。结果表明：在拔节期、孕穗期、抽穗期、灌浆期、成熟期基于植株氮含量建立的成熟期籽粒蛋白质含量监测模型，具有较好的监测精度；拔节期、孕穗期、抽穗期、灌浆期、成熟期分别基于修正叶绿素吸收反射率指数 $( \mathrm { M C A R I _ { l } } _ { \mathrm { 1 } } ^ { \cdot }$ 、归一化差值叶绿素指数(NDCI)、修正归一化差异指数(mNDVI)、 $\mathbf { M C A R I _ { l } }$ 、NDCI植被指数建立植株氮含量监测模型，监测精度 $( R ^ { 2 } )$ 分别为0.826、0.854、0.867、0.859和0.819；以植株氮含量为链接点，通过“植被指数一植株氮含量一籽粒蛋白质含量"的间接联系，建立基于拔节期、孕穗期、抽穗期、灌浆期、成熟期植被指数且融合植株氮含量的籽粒蛋白质含量监测模型， $R ^ { 2 }$ 分别为0.935、0.972、0.990、0.979和0.936；以独立数据对模型进行验证，模型预测值与实测值间相对误差(RE)分别为 $1 1 . 2 6 \%$ 、 $1 0 . 7 4 \%$ 、 $8 . 4 1 \%$ 、 $1 0 . 2 5 \%$ 和 $1 1 . 3 6 \%$ ，均方根误差(RMSE)分别为$2 . 2 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 8 2 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 2 1 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 7 6 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $2 . 1 3 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。说明基于不同生育时期植被指数链接植株氮含量可以对成熟期籽粒蛋白质含量进行有效监测，且模型具有较好的年度间重演性和品种间适应性。
+
+关键词：冬小麦；高光谱遥感；冠层光谱反射率；籽粒蛋白质含量；植株含氮量；植被指数中图分类号：S512.1; S127 文献标识码：A 文章编号:1671-3990(2017)06-0865-11
+
+# Winter wheat grain protein content monitoring model driven by hyperspectral remote sensing images at different growth stages
+
+HE Jia1,2,LIU Bingfeng²,LI Shimin1, GUO Yan1,WANG Laigang1, ZHANG Yan1,LI Jun2\*\* (1.InstituteofAgricultural Economicsand Information,HenanAcademyofAgricultural Sciences,Zhengzhou450o,China; 2.College of Agronomy,Northwest A&F University,Yangling 71210o,China)
+
+Abstract:Hyperspectral remote sensing data havestrong band continuity，highspectral resolutionandrichspectrum information.Itcanrapidlyand nondestructivelyacquirevegetation informationand itisanreliablereal-time technology applicable in the monitoring and managementof crop growth. Gainprotein content(GPC)is an important indicator for wheat quality.Early detection of GPCof wheat using hyperspectralremote sensing data can enhance efective decision-making to supportthe acquisition and procesing of highquality wheat.The objectives of this study were to establish GPC estimation modelbasedon winter wheat canopy hyperspectral reflectanceat different growth stages with diferent rates of nitrogenor phosphorus applications.Theoverallgoal was toimprove forecast precisionofGPC estimation modelat diferent growth stages of winter wheat.Thusexperimentswerecarriedoutin2009-2014at NorthwestA&FUniversity,Shanxi Province.Thetreatments includeddifferent winter wheatvarietis withvarious droughtresistancesunderfivenitrogenfrtilizerapplicationates(,5,150, 225 and $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ pure nitrogen) and four phosphorus application rates (O, 60,120 and $1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } )$ . Plant nitrogen content (PNC)andcanopyperspetralreflectanceofdiferent weatcultivrseremeasuredatjtingboting,ading,flgadmaturitystages.AlsoGPCwas measuredatmaturitystage.TherelationshipamongPNC,canopy hyperspectral reflectanceand GPC was explored usingcorrelationanalysis,regressionanalysis，greyrelation analysis orpartial least squares.The GPC monitoring model was builtacording totherelationof“vegetation indexbasedoncanopyhyperspectralreflectance(VI)—PNC—GPC”with PNC as the linking point.The results showed a higher GPC prediction acuracy byGPC monitoring model based on PNC at jointing,booting,heading，grain-filingandmaturitystages.The monitoring modelsof PNCat jointing,booting,heading, filing, maturity stages of winter wheat respectively based on modified chlorophyll absorption reflectance index $( \mathrm { M C A R I _ { 1 , } } )$ ， normalized diference chlorophyllindex (NDCI),modified normalized difference vegetation index (mNDVI), $\mathbf { M C A R I _ { l } }$ and NDCI had better estimations of PNC, with determination coefficients $( R ^ { 2 } )$ of 0.826,0.854, 0.867, 0.859 and 0.819,accordingly. When linked with PNC,byusing the“VI—PNC—GP"method,the GPC monitoring models forthe maturity stageconsistedof combinations of VIand PNCat jointing,booting,heading,filing,maturitystages hadthe determination coeficients $( R ^ { 2 } )$ of 0.935,0.972,0.990,0.979and0.936,respectively.Thenvalidatationofthe models with measured values wasconductedto verifythereliabilityandaplicabilityofthe models.Theresultsshowed thattherelativeerrors(RE)betweenthe measuredand predicted values for the five vegetation indices were $1 1 . 2 6 \%$ ， $10 . 7 4 \%$ ， $8 . 4 1 \%$ ， $10 . 2 5 \%$ and $1 1 . 3 6 \%$ ，respectively. Then the corresponding root mean square errors (RMSE) were $2 . 2 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ， $1 . 8 2 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ， $1 . 2 1 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ $1 . 7 6 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ and $2 . 1 3 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ .It therefore suggested that $\mathbf { M C A R I _ { l } }$ , NDCI, mNDVI, $\mathbf { M C A R I _ { l } }$ and NDCI vegetation indices were the most suitable model for monitoring winter wheat GPC at jointing,boting，heading,filing and maturity stages，respectively.There was higher prediction precision withdiferent vegetation indices atdifferent growth stages monitoring winter wheat GPCunderdiferent N and $\mathrm { \bf ~ P }$ rates.Furthermore,the monitoring model based on diferent vegetation indices at diferent growth stages had a higher predictionaccuracy.Thisresults provided technical support for GPC monitoring of winter wheat at different fertilizationand different growth stages.
+
+Keywords: Winter wheat; Hyperspectral remote sensing; Canopy spectral reflectance; Grain protein content; Plant nitrogen content;Vegetation index
+
+籽粒蛋白质含量(grain protein content,GPC)是评价小麦(Triticumastivum)品质的主要因素之一。发展优质专用小麦，在保障粮食安全的同时提高粮食品质，是提高农业生产效益的必然趋势[1-5]。传统小麦籽粒品质分析方法难以大范围实时监测小麦籽粒蛋白质含量，且费时费工。因此，亟需一种在收获前对籽粒蛋白质含量大面积实时无损监测的新技术。高光谱遥感凭借波段连续性强、光谱信息量大的优势，为实时快速监测作物营养状况、群体长势、产量及品质等领域提供有效途径[6-7]。
+
+已有科学家通过遥感技术实现了作物GPC的监测研究，并证实其可行性。Hansen 等[8提出以冠层光谱反射率和偏最小二乘法预测小麦GPC。Basnet等[研究表明基于卫星影像光谱信息监测谷类作物GPC具有良好效果。Reyniers等[10基于归一化差值植被指数(normalized difference vegetation index,NDVI)实现了冬小麦GPC的遥感监测。Liu等[11]基于Landsat TM 影像构建结构不敏感指数(structureinsensitivepigment index,SIPI)在灌浆期成功预测小麦GPC。Wang等[12研究报道小麦开花期植物色素比率指数(plant pigment ratio,PPR)与成熟期GPC 有较好的相关性。Zhao等[13基于氮素运转原理，指出冬小麦开花期水分指数(water index，WI)与GPC具有较好的相关性。Pettersson等[14]指出可以利用转化叶绿素吸收反射指数(transitionchlorophyllabsorptionreflectionindex，TCARI)对大麦籽粒粗蛋白含量进行预测。
+
+薛利红等[15]研究认为拔节期至灌浆期水稻(Oryzasativa)冠层光谱反射率与成熟期GPC的相关系数达0.80以上 $( P { < } 0 . 0 1 )$ 。王纪华等[4提出通过
+
+$8 2 0 { \sim } 1 ~ 1 4 0 ~ \mathrm { n m }$ 波段冠层光谱反射率预测叶片含氮量间接预测GPC的设想。田永超等[16]研究指出小麦抽穗后比值植被指数 $\mathrm { ( R V I _ { 1 5 0 0 / 6 1 0 } ) }$ 与GPC呈极显著指数关系。薛利红等[17通过冠层光谱反射率监测叶片氮含量间接预测小麦GPC预测精度达 $0 . 8 8 \mathfrak { c }$ 。李卫国等[18]基于TM遥感影像构建籽粒氮运转动态的小麦GPC监测模型，均方根误差幅度为 $0 . 4 7 \% { \sim } 0 . 5 9 \%$ 金秀良等[19]将灰色关联度分析(greyrelationalanalysis,GRA)与偏最小二乘回归法(partial least squares,PLS)相结合，通过比率指数与乘积指数改进小麦GPC的估算方法。李振海等[20基于氮素运转理论，整合GRA-PLS，耦合叶片氮含量监测模型与籽粒氮素运转模型，建立小麦GPC监测模型。
+
+综上所述，目前利用高光谱遥感技术监测GPC,多基于某一关键生育时期或植被指数与GPC的相关性直接监测，但这些研究对不同生育时期植株氮素状况与植被指数间关联程度的考虑较少，导致模型的稳定性和重复性较差。因此，本文连续5年定位研究不同氮磷水平下，不同生育时期冬小麦冠层光谱反射率、植株氮含量(plant nitrogen content,PNC)及成熟期GPC，首先建立基于不同生育时期植株氮含量的GPC监测模型；然后分析不同生育时期植被指数与PNC的灰色关联度，筛选最佳植被指数，通过偏最小二乘回归方法，建立基于最佳植被指数的不同生育时期PNC监测模型；最后以PNC为链接点，按照“植被指数-植株氮含量-籽粒蛋白质含量"之间的联系，建立既包含植被指数又融合不同生育时期PNC的冬小麦成熟期GPC监测模型，并以独立数据对模型进行验证，增强模型的农学解释机理，为高光谱遥感技术监测小麦品质提供理论依据和技术支撑，促进冬小麦品质管理的动态调控。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验设于西北农林科技大学北校区， $1 0 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ $3 4 ^ { \circ } 1 0 \mathrm { N }$ ，海拔 $4 5 4 . 8 \mathrm { m }$ ，温带大陆性季风型气候，年平均温度 $1 2 { \sim } 1 4 ^ { \circ } \mathrm { C }$ ，无霜期 $2 2 0 ~ \mathrm { d } ,$ 年蒸发量 $1 ~ 4 0 0 ~ \mathrm { m m }$ ，年平均降水量 $6 2 1 . 6 \ : \mathrm { m m } _ { \circ }$ 试验地为粉砂黏壤土, $0 { \sim } 2 0 \mathrm { c m }$ 土层土壤养分含量为：有机质 $1 4 . 2 6 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全氮 $0 . 9 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮 $3 6 . 0 0 \mathrm { m g \cdot k g ^ { - 1 } }$ ，速效磷 $1 7 . 6 4 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ · $2 0 { \sim } 4 0 \mathrm { c m }$ 土层养分含量为：有机质 $1 0 . 0 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，全氮 $0 . 6 2 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，碱解氮 $2 5 . 2 9 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，速效磷 $2 3 . 8 5 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 。
+
+# 1.2 试验设计
+
+试验于2009—2014年实施，采取随机区组设计。选择当地已有较大推广面积的冬小麦品种，依据不同品种的相对抗旱指数，每年设置2个不同抗旱程度的品种。依据该地区小麦生产措施，设置5个氮素水平，4个磷肥水平,3组重复。小区面积为 $3 \mathrm { m } { \times } 1 0 \mathrm { m } _ { \circ } \ 5$ 个氮肥(尿素，$4 6 \% \mathrm { ~ N ~ } ,$ 水平分别为： $\mathrm { N } _ { 0 }$ (不施肥)、 $\mathrm { N } _ { 1 } ( 7 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 纯氮)、 $\mathrm { N } _ { 2 } ( 1 5 0 \ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 纯氮）、 $\mathrm { N } _ { 3 } ( 2 2 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 纯氮)和$\mathrm { N } _ { 4 } ( 3 0 0 \ \mathrm { \ k g { \cdot h m } } ^ { - 2 }$ 纯氮)，总氮肥 $60 \%$ 作为基肥， $40 \%$ 作为追肥，于返青后拔节前施入。4个磷肥( $1 6 \%$ $\mathrm { C a P } _ { 2 } \mathrm { H } _ { 4 } \mathrm { O } _ { 8 } )$ 水平分别为： ${ \bf P } _ { 0 }$ （不施肥）、 $\mathrm { P _ { 1 } } ( 6 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } ,$ ）、 $\mathrm { P } _ { 2 } ( 1 2 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } )$ 、 $\mathrm { P } _ { 3 } ( 1 8 0 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { \ P } _ { 2 } \mathrm { O } _ { 5 } )$ ，磷肥作为底肥一次性施入。不施钾肥，其他田间管理同黄土高原高产田。播种量均为 $1 8 7 . 5 0 ~ \mathrm { \ k g ^ { . } h m ^ { - 2 } }$ ，每小区播种量约 $0 . 5 6 \mathrm { k g _ { c } }$ 、不同年份供试品种、播种、收获及数据采集日期见表1。
+
+表1不同年份田间试验基本情况Table 1Basic information of the experiment in different years  
+
+<html><body><table><tr><td rowspan="2">年份 Year</td><td colspan="2">品种Variety</td><td rowspan="2">播种日期(年-月-日) (y Sar-month-day)</td><td rowspan="2">收获日期(年-月-日) (Har-month-aty)</td><td rowspan="2">数据采集日期(月-日) Data colectin tine</td></tr><tr><td>Strong aogtresistant</td><td>Weak dro抗gesitant</td></tr><tr><td>2009—2010</td><td>晋麦47JM47</td><td>西农979 XN979</td><td>2009-10-09</td><td>2010-06-05</td><td>04-07,04-22,05-07,05-20,05-27</td></tr><tr><td>2010—2011</td><td>晋麦47 JM47</td><td>西农979 XN979</td><td>2010-10-13</td><td>2011-06-10</td><td>04-09,04-23,05-07,05-18,06-03</td></tr><tr><td>2011—2012</td><td>普冰9946 PB9946</td><td>西农 2000 XN2000</td><td>2011-10-16</td><td>2012-06-08</td><td>04-08,04-23,05-05,05-19,06-03</td></tr><tr><td>2012—2013</td><td>周麦18ZM18</td><td>小偃22 XY22</td><td>2012-10-10</td><td>2013-06-09</td><td>04-03,04-17,05-03,05-18,05-30</td></tr><tr><td>2013—2014</td><td>长旱58CH58</td><td>漯麦9号LM9</td><td>2013-10-08</td><td>2013-06-11</td><td>04-05,04-20,05-04,05-19,06-04</td></tr></table></body></html>
+
+# 1.3 测定指标及方法
+
+# 1.3.1 冠层光谱反射率测量
+
+冬小麦冠层光谱反射率采集用美国AnalyticalSpectral Devices (ASD)公司Field-spec Pro FR-2500 型背挂式野外高光谱辐射测量仪，波段为 $3 5 0 { \sim } 2 5 0 0 \ \mathrm { n m }$ $3 5 0 { \sim } 1 ~ 0 0 0 ~ \mathrm { n m }$ 光谱采样间隔为 $1 . 4 \ \mathrm { n m }$ ，光谱分辨率为 $3 \ \mathrm { n m }$ ·， $1 ~ 0 0 0 { \sim } 2 ~ 5 0 0 ~ \mathrm { n m }$ 光谱采样间隔为 $2 \ \mathrm { n m }$ ，光谱分辨率为 $1 0 \ \mathrm { n m _ { c } }$ 。分别于冬小麦拔节期、孕穗期、抽穗期、灌浆期和成熟期，天气晴朗、无风时测量冠层光谱反射率，适宜时间为10:00—14:00。测量时传感器探头垂直向下，光谱仪视场角为 $7 . 5 ^ { \circ }$ ，距冠层顶垂直高度约 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ ，地面视场范围直径为 $0 . 5 ~ \mathrm { m } _ { \circ }$ 每个观测点记录10个采样光谱，每小区测3次重复，取算术平均值作为该观测点冠层光谱反射率。测量过程中，于每一处理测量完毕后，及时进行标准白板校正(标准白板反射率为1，因此所得自标物光谱为相对反射率)，以便于准确测量下一处理。
+
+# 1.3.2 植株氮含量(PNC)测定
+
+与冠层光谱反射率测定同步进行。测完光谱反射率后，在同一取样范围内选取长势一致具有代表性的植株20株，将不同植株按器官分离，在 $1 0 5 \mathrm { ~ \textdegree ~ }$ 杀青 $3 0 \ \mathrm { m i n }$ ， $8 5 \ \mathrm { ^ \circ C }$ 烘干至恒重，将不同器官分别称重后粉碎， $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 消煮，用瑞士Buchi全自动
+
+B-339凯氏定氮仪测定PNC。
+
+# 1.3.3 籽粒蛋白质含量(GPC)测定
+
+将成熟期测产小麦风干脱粒，粉碎后以$\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 消煮，用瑞士Buchi全自动B-339凯氏定氮仪测定。小麦GPC(grain protein content, $\mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } .$ ）是籽粒全氮含量与5.823乘积[21]。
+
+# 1.4 植被指数选择
+
+本文在综合前人关于植被指数、植株氮含量、籽粒蛋白质含量研究的基础上，对氮素营养相关植被指数进行归类筛选，并应用于不同生育时期对籽粒蛋白质含量监测建模中。本文选择主要植被指数计算方式及来源见表2。
+
+表2本研究采用的高光谱植被指数 Table 2Hyperspectral vegetation indices used in this study   
+
+<html><body><table><tr><td>植被指数 Vegetation index</td><td>计算公式 Formula</td><td>来源 Reference</td></tr><tr><td>修正归一化差异指数 Modified normalized difference vegetation index (mNDVI)</td><td>mNDVI=(R750-R705)/(R750+R705-2R445)</td><td>[22]</td></tr><tr><td>归一化差值叶绿素指数 Normalized difference chlorophyllindex (NDCI)</td><td>NDCI=(R708-R665/(R708+R665)</td><td>[23]</td></tr><tr><td>归一化差异指数 Normalized difference index (NDI)</td><td>NDI=(R800-R680/(R800+R680)</td><td>[22]</td></tr><tr><td>修正三角植被指数 Modified triangle vegetation index (TVIBL)</td><td>TVIBL=0.5[120(R750-R500)-200(R670-R550)]</td><td>[24]</td></tr><tr><td>修正叶绿素吸收反射率指数 Modified chlorophyll absorption reflectance index</td><td>MCARI=1.2[2.5(R800-R670)-1.3(R800-R500)]</td><td>[25]</td></tr><tr><td>(MCARI1) 红边归一化植被指数 Red edge normalized difference vegetation index (NDVI70s)</td><td>NDVI705=(R750-R705)(R750+R705)</td><td>[22]</td></tr><tr><td>归一化绿度指数 Green normalized difference vegetation index (GREEN-NDVI)</td><td>GREEN-NDVI=(R750-R550)/(R750+R550)</td><td>[26]</td></tr><tr><td>红边位置指数 Red edge position index (REP)</td><td>REP=700+40[(R670+R780)/2-R700]/(R740-R700)</td><td>[27]</td></tr><tr><td>修正简单比值植被指数 Modified simple ratio index (mSRI)</td><td>mSRI=(R750-R445)/(R750+R445)</td><td>[22]</td></tr><tr><td>结构不敏感色素指数 Structure insensitive pigment index (SIPI)</td><td>PISI=(R570-R531)/(R570+R531)</td><td>[28]</td></tr><tr><td>植被色素比率 Plant pigment ratio (PPR)</td><td>PPR=(R550-R450)/(R550+R450)</td><td>[29]</td></tr></table></body></html>
+
+R 为光谱反射率，其后数字为波长。 $R$ is spectral reflectance,the number following $R$ is wavelength.
+
+# 1.5 灰色关联度
+
+关联度是衡量不同因素间关联程度的度量，若因素间变化趋势一致，则关联度较高；否则关联度较低。灰色关联度是根据系统内不同因素之间发展趋势的相似或相异程度，衡量因素间关联程度的系统分析方法，是在反映系统行为的特征数据序列和影响系统行为的相关因素序列中找出关联性，其思路是计算主要系统行为的特征数据序列及影响因素间的相关性，并对这些数据进行处理，进而定量描述不同因素对系统的影响[30]。如果将关联度认为是因素间的距离，则其只能为正值[31]。本文以PNC 与植被指数间的关联度来评价二者之间同步变化程度。首先分析其相关性，选择与PNC呈正相关的植被指数进行灰色关联度分析。
+
+# 1.6 数据处理与分析
+
+将试验所得数据，依据不同年份、不同氮磷耦合水平、不同生育时期、不同品种将冠层光谱反射率、PNC及GPC分别汇总。用ViewSpec软件对冠层光谱反射率进行预处理。以2012一2013年数据为例分析不同氮磷水平对成熟期小麦GPC的影响；综合2010一2013年大田实测数据，对不同生育时期PNC与成熟期GPC进行相关分析，建立基于PNC的GPC监测模型；同时对不同生育时期冬小麦PNC与植被指数进行相关及灰色关联度分析，在不同生育时期选择最佳植被指数，通过偏最小二乘回归方法，建立基于植被指数的PNC监测模型，并以2009—2010年独立数据进行精度验证；最后以PNC为链接点，按照“植被指数一植株氮含量一籽粒蛋白质含量"的联系，将基于PNC的GPC模型与基于植被指数的PNC模型组合，建立基于植被指数且融合PNC的成熟期GPC监测模型，并以2013一2014年独立数据对模型进行验证。
+
+# 2 结果与分析
+
+# 2.1不同氮磷水平对冬小麦籽粒蛋白质含量(GPC)的影响
+
+以2012—2013 年‘周麦18和'小偃 22'成熟期GPC为例，分析不同氮磷水平对冬小麦GPC的影响(图1)。研究表明：在相同氮肥水平下，随着施磷量增加 $( \mathrm { N } _ { 2 } \mathrm { P } _ { 0 } .$ $\mathrm { N } _ { 2 } \mathrm { P } _ { 1 \setminus \Omega } \mathrm { N } _ { 2 } \mathrm { P } _ { 2 \setminus \Omega } \mathrm { N } _ { 2 } \mathrm { P } _ { 3 } )$ ,GPC呈显著增加趋势 $( P { < } 0 . 0 5 )$ ，如周麦 $1 8 ^ { \circ } \mathrm { N } _ { 2 } \mathrm { P } _ { 3 } ( 1 3 9 . 2 2 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ 分别较 ${ \mathrm { N } } _ { 2 } { \mathrm { P } } _ { 0 } ( 1 1 4 . 3 3 { \mathrm { g } } { \cdot } { \mathrm { k g } } ^ { - 1 } ) { \cdot }$ ${ \bf N } _ { 2 } { \bf P } _ { 1 } ( 1 2 3 . 8 1 ~ { \bf g \cdot k g } ^ { - 1 } )$ 、 $\mathrm { N } _ { 2 } \mathrm { P } _ { 2 } ( 1 2 9 . 0 9 \ \mathrm { \ g } { \cdot } \mathrm { k g } ^ { - 1 } )$ 处理增加$2 4 . 8 8 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 5 . 4 0 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ （ $1 0 . 1 3 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，增幅分别为$1 7 . 8 7 \%$ 、 $1 1 . 0 6 \%$ 、 $7 . 2 8 \%$ ；在相同磷肥水平下，随着氮肥供应量的增加 $( \mathsf { N } _ { 0 } \mathsf { P } _ { 2 }$ 、 $\mathbf { N } _ { 1 } \mathbf { P } _ { 2 }$ 、 ${ \bf N } _ { 2 } { \bf P } _ { 2 }$ 、 $\mathbf { N } _ { 3 } \mathbf { P } _ { 2 }$ 、 $\mathbf { N } _ { 4 } \mathbf { P } _ { 2 } )$ ），
+
+GPC亦呈显著递增趋势 $( P { < } 0 . 0 5 )$ ，如‘周麦18’ $\mathbf { N } _ { 4 } \mathbf { P } _ { 2 }$ （204号 $( 1 7 3 . 7 4 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 } )$ 分别较 $\mathrm { N _ { 0 } P _ { 2 } ( 9 2 . 4 1 \ g ^ { . } k g ^ { - 1 } ) }$ 、 $\mathbf { N } _ { 1 } \mathbf { P } _ { 2 }$ （ $( 1 1 5 . 1 0 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 } )$ 、 $\mathrm { N } _ { 2 } \mathrm { P } _ { 2 } ( 1 2 9 . 0 9 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ 、 $\mathbf { N } _ { 3 } \mathbf { P } _ { 2 }$ $( 1 6 4 . 1 1 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ （20增加 $8 1 . 3 3 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } , 5 8 . 6 4 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } , 4 4 . 6 5 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } , 9 . 6 3 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } ,$ 增幅为 $4 6 . 8 1 \%$ 、 $3 3 . 7 5 \%$ 、 $2 5 . 7 0 \%$ 、 $5 . 5 4 \%$ 。“小偃 $2 2 ^ { \circ }$ 亦呈现相似趋势。说明随着氮磷供应量的增加，GPC呈逐渐递增趋势，但增加幅度逐渐降低；增施氮肥对GPC 提高效果较增施磷肥幅度更加明显。其他年度间，不同品种也表现出相似趋势。不同品种间GPC存在一定差异，这与不同品种对氮磷肥的吸收利用效率有关，同时与作物品种遗传性有一定关系。
+
+![](images/744b4124097373b1870f1845296597afce46844655b2201ae84a7d4c13d34a0c.jpg)  
+图1不同氮磷水平下冬小麦籽粒蛋白质(GPC)含量(2012—2013年)Fig.1Grain protein contents at different $\mathrm { \Delta N }$ and $\mathrm { ~ \bf ~ P ~ }$ rates of wheat in 2012 and 2013$\mathrm { N } _ { 0 } .$ $\mathbf { N } _ { 1 }$ 、 $\mathbf { N } _ { 2 }$ 、 $\mathbf { N } _ { 3 }$ （ $\mathrm { N } _ { 4 }$ 分别为 $0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $7 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $2 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 纯氮， $\mathrm { \bf ~ P } _ { 0 } .$ 1 $\mathbf { \nabla } \mathrm { P _ { l } }$ 、 ${ \bf P } _ { 2 }$ ， ${ \bf P } _ { 3 }$ 分别为 $0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ （ $6 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ $1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { P } _ { 2 } \mathrm { O } _ { 5 \circ }$ 不同小写字母表示处理间差异显著 $: ( P { < } 0 . 0 5 ) _ { \circ } \mathrm { N } _ { 0 } , \mathrm { N } _ { 1 } , \mathrm { N } _ { 2 } , \mathrm { N } _ { 3 }$ and $\mathrm { N } _ { 4 }$ indicate 0,75,150,225 and $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ pure nitrogen,respectively. $\mathbf { P } _ { 0 } , \mathbf { P } _ { 1 } , \mathbf { P } _ { 2 }$ and ${ \bf P } _ { 3 }$ indicate 0,60,120 and $1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ ,respectively.Diferent lowercase letters mean significant diferences at 0.05 probability.
+
+# 2.2 基于植株氮含量(PNC)的籽粒蛋白质含量(GPC)监测模型
+
+综合 2010—2013年大田实测数据 $( n { = } 1 2 0 )$ ，对不同生育时期PNC与成熟期GPC 进行相关分析(表3)。由表3可知：拔节期、孕穗期、抽穗期、灌浆期、成熟期PNC与成熟期GPC均达极显著相关 $( P { < } 0 . 0 1 )$ ，相关系数 $( r )$ 分别为0.781、0.810、0.851、0.876和0.849,表明可以基于不同生育时期PNC对成熟期GPC进行预测。经回归分析，建立基于不同生育时期PNC的 GPC 模型，不同生育时期均以二项式函数 $( y =$ $\mathsf { a x } + \mathsf { b } x ^ { 2 } + \mathsf { c } )$ 拟合效果最好，拔节期、孕穗期、抽穗期、灌浆期和成熟期拟合精度(determinationcoefficient,$R ^ { 2 \cdot }$ )分别为0.636、0.661、0.767、0.811和0.770。拔节期、孕穗期拟合精度较低，这或许与该阶段冬小麦植株积累养分主要用于营养生长，而抽穗期到灌浆期，由营养生长转入生殖生长，营养向籽粒运输并积累，所以灌浆期PNC与GPC的拟合精度更好。
+
+表3基于不同生育时期冬小麦植株氮含量 $\mathbf { \alpha } ( x )$ 的籽粒蛋白质含量(v)模型 $\scriptstyle ( n = 1 2 0 )$ oring models of grain protein content (y)of winter wheat based on plant nitrogen content (x) at diferent grov   
+
+<html><body><table><tr><td>生育时期 Growth stage</td><td>相关系数(r) Correlation coeficient</td><td>拟合方程 Equation</td><td>决定系数(R²) Determination coefficient</td></tr><tr><td>拔节期Jointing</td><td>0.781**</td><td>y=-0.748x²+7.561x-2.315</td><td>0.636</td></tr><tr><td>孕穗期Booting</td><td>0.810**</td><td>y=-0.297x2+4.381x+4.658</td><td>0.661</td></tr><tr><td>抽穗期Heading</td><td>0.851**</td><td>y=-0.922x²+8.688x-3.459</td><td>0.767</td></tr><tr><td>灌浆期Filling</td><td>0.876**</td><td>y=-0.844x2+9.595x-10.014</td><td>0.811</td></tr><tr><td>成熟期Maturity</td><td>0.849**</td><td>y=-1.027x²+7.794x+2.167</td><td>0.770</td></tr></table></body></html>
+
+\*\*表示在0.01水平上差异显著。 $^ { * * }$ represents significant correlation at 0.01 level.
+
+# 2.3不同生育时期植被指数与植株氮含量(PNC)的灰色关联度分析
+
+以 2010—2013 年大田实测数据 $( n { = } 1 2 0 )$ ，对不同生育时期冬小麦PNC与植被指数进行相关分析(表4)。由表4可知，在不同生育时期除PPR与PNC没有显著相关 $( P { > } 0 . 0 5 )$ 、SIPI与PNC呈极显著负相关 $( P { < } 0 . 0 1 )$ 以外，mNDVI、NDCI、NDI、TVIBL、$\mathbf { M C A R I } _ { 1 }$ 、 $\mathrm { N D V I } _ { 7 0 5 }$ 、GREEN-NDVI、mSRI、REP等植被指数均与PNC呈极显著正相关 $( P { < } 0 . 0 1 )$ 。所以，依据关联度理论，选择与PNC具有正相关的植被指数进行灰色关联度分析。
+
+表5为不同生育时期植被指数与PNC的灰色关联度分析 $\scriptstyle ( n = 1 2 0 )$ 。由表5可知，植被指数与PNC灰色关联度大小顺序拔节期依次为 $\mathbf { M C A R I _ { l } } { > }$ $\mathrm { N D C I > m N D V I > N D I > T V I B L > N D V I _ { 7 0 5 } > G R E E N - N D V I > }$ REP>mSRI， 孕 穗 期 依 次为 $\mathrm { N D C I { > } M C A R I _ { 1 } > }$ mNDVI $>$ NDI $>$ TVIBL ${ } > { }$ NDVI $_ { 7 0 5 } >$ REP>GREEN-NDVI>mSRI， 抽 穗 期 依 次 为 mNDVI>NDCI>NDI>MCARI $_ { _ { 1 } > }$ TVIBL ${ > } \mathrm { N D V I } _ { 7 0 5 } { > }$ GREEN-NDVI $[ >$ REP>mSRI,灌浆 期 依 次 为MCARI>mNDVI $>$ REP>NDI>TVIBL $\vartriangle$ NDCI>NDVI705>GREEN-NDVI>mSRI，成 熟期依次为 $\mathrm { N D C I > m N D V I > N D I > T V I B L > M C A R I _ { 1 } > }$ $\mathrm { N D V I } _ { 7 0 5 } >$ REP>GREEN-NDVI>mSRI。分别于不同生育时期选择与PNC灰色关联度最高的植被指数用于对PNC进行监测。
+
+<html><body><table><tr><td>植被指数 Vegetationindex</td><td>拔节期 Jointing</td><td>孕穗期 Booting</td><td>抽穗期 Heading</td><td>灌浆期 Filling</td><td>成熟期 Maturity</td></tr><tr><td>修正归一化差异指数 Modified normalized difference vegetation index (mNDVI)</td><td>0.891**</td><td>0.875**</td><td>0.931**</td><td>0.884**</td><td>0.892**</td></tr><tr><td>归一化差值叶绿素指数 Normalized difference chlorophyll index (NDCI)</td><td>0.897**</td><td>0.924**</td><td>0.904**</td><td>0.831**</td><td>0.905**</td></tr><tr><td>归一化差异指数 Normalized difference index (NDI)</td><td>0.868**</td><td>0.842**</td><td>0.892**</td><td>0.851**</td><td>0.856**</td></tr><tr><td>修正三角植被指数 Modified triangle vegetation index (TVIBL)</td><td>0.862**</td><td>0.835**</td><td>0.841**</td><td>0.847**</td><td>0.854**</td></tr><tr><td>修正叶绿素吸收反射率指数 Modified chlorophyll absorption reflectance index (MCARI1)</td><td>0.909**</td><td>0.881**</td><td>0.889**</td><td>0.927**</td><td>0.841**</td></tr><tr><td>红边归一化植被指数 Red edge normalized difference vegetation index (NDVI70s)</td><td>0.853**</td><td>0.833**</td><td>0.834**</td><td>0.821**</td><td>0.781**</td></tr><tr><td>归一化绿度指数 Green normalized difference vegetation index (GREEN-NDVI)</td><td>0.844**</td><td>0.797**</td><td>0.829**</td><td>0.782**</td><td>0.748**</td></tr><tr><td>结构不敏感色素指数 Structure insensitive pigment index (SIPI)</td><td>-0.681**</td><td>-0.673**</td><td>-0.554**</td><td>-0.467**</td><td>-0.616**</td></tr><tr><td>修正简单比值植被指数 Modified simple ratio index (mSRI)</td><td>0.815**</td><td>0.715**</td><td>0.793**</td><td>0.627**</td><td>0.714**</td></tr><tr><td>红边位置指数 Red edge position index (REP)</td><td>0.826**</td><td>0.832**</td><td>0.801**</td><td>0.879**</td><td>0.751**</td></tr><tr><td>植被色素比率 Plant pigment ratio (PPR)</td><td>-0.383NS</td><td>-0.404NS</td><td>-0.363NS</td><td>-0.285NS</td><td>-0.154NS</td></tr></table></body></html>
+
+\*和\*\*分别表示在 $5 \%$ 和 $1 \%$ 水平上差异显著,NS 表示相关性不显著。\* and \*\* represent significant correlation at $5 \%$ and $1 \%$ levels, respectively.NS represents no significant correlation.
+
+表4不同生育时期植被指数与植株氮含量(PNC)的相关性 $\scriptstyle ( n = 1 2 0 )$ 0 Table 4Correlation between vegetation indexes and plant nitrogen content (PNC)of winter wheat at different growth stages $\scriptstyle ( n = 1 2 0 )$ 0   
+表5不同生育时期植被指数与植株氮含量(PNC)的灰色关联及大小顺序 $\scriptstyle ( n = 1 2 0 )$ Table 5Greycorrelation degres andrank ofvegetation indexes for plant nitrogen content (PNC)of winter wheat at different growth stages $\scriptstyle ( n = 1 2 0 )$ 0   
+
+<html><body><table><tr><td rowspan="2">植被指数 Vegetation index</td><td colspan="2">拔节期 Jointing</td><td colspan="2">孕穗期 Booting</td><td colspan="2">抽穗期 Heading</td><td colspan="2">灌浆期 Filling</td><td colspan="2">成熟期 Maturity</td></tr><tr><td>灰色关联度 ($=0.5) Grey</td><td>顺序 Order</td><td>灰色关联度 (5=0.5) Grey</td><td>顺序 Order</td><td>灰色关联度 (5=0.5) Grey</td><td>顺序 Order</td><td>灰色关联度 (s=0.5) Grey</td><td>顺序 Order</td><td>灰色关联度 (5=0.5) Grey</td><td>顺序 Order</td></tr><tr><td>mNDVI</td><td>correlation 0.915</td><td>3</td><td>correlation 0.898</td><td>3</td><td>correlation 0.957</td><td>1</td><td>correlation 0.908</td><td>2</td><td>correlation 0.916</td><td>2</td></tr><tr><td>NDCI</td><td>0.943</td><td>2</td><td>0.950</td><td>1</td><td>0.929</td><td>2</td><td>0.852</td><td>6</td><td>0.940</td><td>1</td></tr><tr><td>NDI</td><td>0.891</td><td>4</td><td>0.863</td><td>4</td><td>0.916</td><td>3</td><td>0.873</td><td>4</td><td>0.878</td><td>3</td></tr><tr><td>TVIBL</td><td>0.885</td><td>5</td><td>0.856</td><td>5</td><td>0.862</td><td>5</td><td>0.869</td><td>5</td><td>0.876</td><td>4</td></tr><tr><td>MCARI1</td><td>0.957</td><td>1</td><td>0.905</td><td>2</td><td>0.913</td><td>4</td><td>0.926</td><td>1</td><td>0.862</td><td>5</td></tr><tr><td>NDVI705</td><td>0.875</td><td>6</td><td>0.854</td><td>6</td><td>0.855</td><td>6</td><td>0.841</td><td>7</td><td>0.859</td><td>6</td></tr><tr><td>GREEN-NDVI</td><td>0.866</td><td>7</td><td>0.816</td><td>8</td><td>0.850</td><td>7</td><td>0.823</td><td>8</td><td>0.834</td><td>8</td></tr><tr><td>mSRI</td><td>0.835</td><td>9</td><td>0.730</td><td>9</td><td>0.827</td><td>9</td><td>0.797</td><td>9</td><td>0.791</td><td>9</td></tr><tr><td>REP</td><td>0.847</td><td>8</td><td>0.843</td><td>7</td><td>0.836</td><td>8</td><td>0.903</td><td>3</td><td>0.851</td><td>7</td></tr></table></body></html>
+
+植被指数栏各代码的意义见表4。Meanings of the codes of vegetation indexes are shown in the Table 4.
+
+# http://www.ecoagri.ac.cn
+
+# 2.4 不同生育时期PNC高光谱监测模型的建立与验证
+
+通过表5灰色关联度分析，获得不同生育时期与PNC稳定相关的最佳植被指数，基于表3不同生育时期PNC与GPC的相关性，通过偏最小二乘回归方法，建立基于最佳植被指数的不同生育时期PNC监测模型 $\scriptstyle ( n = 1 2 0 )$ ，并以2009—2010年独立数据对模型精度进行验证 $\scriptstyle ( n = 4 0 )$ (表6)。
+
+由表6拟合模型可知在拔节期、孕穗期、抽穗期、灌浆期、成熟期基于 $\mathbf { M C A R I } _ { 1 }$ 、NDCI、mNDVI、$\mathbf { M C A R I _ { 1 } }$ 、NDCI等植被指数建立不同生育时期冬小麦PNC模型，拟合精度 $( R ^ { 2 } )$ 分别为0.826、0.854、
+
+0.867、0.859和0.819，标准误差(SE)分别为0.213、0.191、0.136、0.177和0.243。以独立数据对模型预测值进行验证，结果显示拔节期、孕穗期、抽穗期、灌浆期、成熟期基于 $\mathbf { M C A R I } _ { 1 }$ 、NDCI、mNDVI、$\mathbf { M C A R I _ { 1 } }$ 、NDCI建立PNC模型预测值与实测值间相对误差(RE)分别为 $1 4 . 0 8 \%$ 、 $1 3 . 6 3 \%$ 人 $10 . 3 1 \%$ 人 $12 . 1 7 \%$ 和 $1 5 . 1 6 \%$ ，均方根误差(RMSE)分别为 $0 . 3 2 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、$0 . 3 1 7 { \mathrm { ~ g } } { \cdot } { \mathrm { k g } } ^ { - 1 } , \ 0 . 1 2 5 { \mathrm { ~ g } } { \cdot } { \mathrm { k g } } ^ { - 1 } , \ 0 . 2 3 0 { \mathrm { ~ g } } { \cdot } { \mathrm { k g } } ^ { - 1 }$ 和 $0 . 4 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。表明不同生育时期基于不同植被指数建立PNC监测模型具有较好的拟合和验证效果，且在不同生育时期均以直线方程 $\scriptstyle \mathrm { P N C = d \cdot V I + e }$ 形式的拟合效果最佳。
+
+表6不同生育期冬小麦植株氮含量(y)与植被指数 $\mathbf { \alpha } ( x )$ 的拟合 $\scriptstyle ( n = 1 2 0 )$ 及验证 $\scriptstyle ( n = 4 0 )$ Table 6Simulating $\scriptstyle ( n = 1 2 0 )$ ）and performance $( n { = } 4 0 )$ of monitoring models between plant nitrogen content (y) and the best vegetation index (x) of winter wheat at different growth stages   
+
+<html><body><table><tr><td rowspan="2">生育时期 Growth stage</td><td rowspan="2">植被指数 Vegetation index</td><td colspan="3">拟合模型 Fitting model</td><td colspan="2">验证模型 Performance model</td></tr><tr><td>拟合方程 Equation</td><td>决定系数(R²) Determination</td><td>标准误差(SE) Standard</td><td>相对误差(RE) Rreltive)</td><td>均方根误差(RMSE) Rootmeakg1re er</td></tr><tr><td>拔节期Jointing</td><td>MCARI1</td><td>y=2.215x+4.233</td><td>0.826</td><td>0.213</td><td>14.08</td><td>0.324</td></tr><tr><td>孕穗期Booting</td><td>NDCI</td><td>y=1.471x+6.483</td><td>0.854</td><td>0.191</td><td>13.63</td><td>0.317</td></tr><tr><td>抽穗期 Heading</td><td>mNDVI</td><td>y=0.738x+9.145</td><td>0.867</td><td>0.136</td><td>10.31</td><td>0.125</td></tr><tr><td>灌浆期Filling</td><td>MCARI1</td><td>y=0.927x+5.314</td><td>0.859</td><td>0.177</td><td>12.17</td><td>0.230</td></tr><tr><td>成熟期Maturity</td><td>NDCI</td><td>y=0.898x+6.164</td><td>0.819</td><td>0.243</td><td>15.16</td><td>0.421</td></tr></table></body></html>
+
+植被指数栏各代码的意义见表4。Meanings of the codes of vegetation indexes are shown in the Table 4.
+
+# 2.5 籽粒蛋白质含量(GPC)高光谱遥感监测模型的建立与验证
+
+由于不同生育时期PNC与成熟期GPC间呈极显著相关 $( P { < } 0 . 0 1 )$ ，基于PNC可以建立成熟期GPC的预测模型，基于不同生育时期PNC 拟合GPC以$y = \mathbf { a } x + \mathbf { b } x ^ { 2 } + \mathbf { c }$ 形式效果最好；而基于植被指数建立不同生育时期PNC遥感模型，具有较高的拟合精度和验证效果，不同生育时期 $\scriptstyle \mathrm { P N C = d \times V I + e }$ 形式拟合效果最佳。因此，可以通过不同生育时期PNC将植被指数与GPC进行链接。按照“VI—PNC—GPC"的联系，以PNC为链接点，将植被指数和成熟期GPC链接，将基于植被指数的PNC监测模型与基于PNC的籽粒蛋白质监测模型组合，建立基于植被指数且融合不同生育时期PNC动态变化的GPC遥感监测模型：
+
+$\mathrm { G P C = a \times ( d \times V I + e ) + b \times ( d \times V I + e ) ^ { 2 } + c }$ (1)式中：GPC 为籽粒蛋白质含量,VI为植被指数,a、b、c、d、e均为常数。
+
+为了对模型的稳定性和适用性进行评价，以2013—2014年不同品种实测数据对上述优选模型进行验证 $( n { = } 4 0 )$ ，不同生育时期GPC 模型预测结果见表7。由表7可知：拔节期、孕穗期、抽穗期、灌浆期和成熟期实测值分别对MCARI_—PNC—GPC、NDCI—PNC—GPC、mNDVI—PNC—GPC、MCARI—PNC—GPC、NDCI—PNC—GPC路线拟合的GPC具有较好的验证效果，不同生育时期模型最佳监测模型分别为：
+
+以独立数据对模型进行验证 $( n { = } 4 0 )$ ，不同生育时期监测模型的预测值与田间实测值间相对误差(RE)分别为 $1 1 . 2 6 \%$ 人 $10 . 7 4 \%$ / $8 . 4 1 \%$ ！ $10 . 2 5 \%$ 人 $1 1 . 3 6 \%$ ，均方根误差(RMSE)分别为 $2 . 2 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 8 2 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、$1 . 2 1 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $1 . 7 6 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $2 . 1 3 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。表明可以利用不同生育时期关键植被指数对不同氮磷营养水平下不同类型冬小麦品种成熟期籽粒蛋白质进行预测，且在抽穗期和灌浆期监测效果较好。图2为不同生育时期GPC田间实测值与模型预测值比较结果。
+
+表7不同生育时期冬小麦籽粒蛋白质含量监测模型验证(2013一2014年)Performance of monitoring model of grain protein content of winter wheat at diferent growth sta:  
+
+<html><body><table><tr><td rowspan="2">生育时期 Growth stage</td><td rowspan="2">技术路线 Method</td><td rowspan="2">拟合精度(R) Fitting precision</td><td rowspan="2">相对误差(RE) Relative error (%)</td><td rowspan="2">均方根误差(RMSE) Root mean square error (g·kg-1)</td></tr><tr><td></td></tr><tr><td>拔节期Jointing</td><td>MCARI-—PNC—GPC</td><td>0.935</td><td>11.26</td><td>2.221</td></tr><tr><td>孕穗期Booting</td><td>NDCI-PNC-GPC</td><td>0.972</td><td>10.74</td><td>1.825</td></tr><tr><td>抽穗期 Heading</td><td>mNDVI—PNC—GPC</td><td>0.990</td><td>8.41</td><td>1.214</td></tr><tr><td>灌浆期Filling</td><td>MCARI—PNC—GPC</td><td>0.979</td><td>10.25</td><td>1.767</td></tr><tr><td>成熟期Maturity</td><td>NDCI—PNC—GPC</td><td>0.936</td><td>11.36</td><td>2.137</td></tr></table></body></html>
+
+PNC 为植株氮含量,GPC为籽粒蛋白质含量,“技术路线"列的其他符号见表4。PNC:plant ntrogencontent; GPC:grain protein content;othel codes in the method column are shown in the Table 4.
+
+# 3讨论
+
+GPC是评价小麦品质的重要指标，其氮素积累主要包括开花前植株储藏氮素运转和花后氮素同化两部分[32]，即GPC与不同生育时期植株氮素营养有密切关系，因此可以基于不同生育时期PNC对成熟期GPC进行监测[33-36]。本文通过连续5年定位研究不同生育时期冬小麦冠层光谱反射率、PNC以及成熟期GPC，通过相关分析、回归分析，建立基于PNC的成熟期GPC 监测模型；进一步分析植被指数与PNC的相关性与灰色关联度，筛选最佳植被指数，以偏最小二乘回归分析，建立基于植被指数的PNC监测模型；最终以PNC为链接点，将PNC模型与成熟期GPC模型耦合，建立基于植被指数且融合不同生育时期PNC的成熟期GPC监测模型，为高光谱遥感技术监测冬小麦成熟期GPC 增加农学解释机理，更合理地阐述了不同生育时期PNC对成熟期GPC形成的动态理论，为冬小麦成熟期GPC快速无损预测提供科学依据。
+
+# 3.1基于PNC 的GPC 监测模型
+
+不同生育时期PNC与成熟期GPC均呈极显著相关 $( P { < } 0 . 0 1 )$ ，表明可以基于不同生育时期PNC实现对成熟期GPC的预测。这与前人研究结果一致[16,18,21,37]。虽然从拔节期至成熟期均可依据PNC对成熟期GPC进行预测，但以灌浆后期监测精度较高。这是由于冬小麦籽粒蛋白质形成和积累是动态的，在不同生育时期生长重心不同，灌浆前以营养生长为主，植株氮素同化积累较慢，而灌浆后，由营养生长转入生殖生长，氮素营养快速同化并积累储存于籽粒，所以，不同生育时期监测精度存在差异。
+
+# 3.2基于植被指数的PNC监测模型
+
+本文在对不同生育时期植被指数与PNC相关性分析的基础上，分析植被指数与PNC的灰色关联度并排序，筛选最佳植被指数，这些植被指数基于与植株氮素密切相关的敏感波段构建，通过多波段组合增强对PNC的相关性，更好地反映不同生育时期PNC状况；继而通过偏最小二乘回归建立基于植被指数的不同生育时期PNC监测模型，在拔节期、孕穗期、抽穗期、灌浆期、成熟期基于 $\mathbf { M C A R I } _ { 1 }$ /NDCI、mNDVI、 $\mathbf { M C A R I } _ { 1 }$ 、NDCI等植被指数监测PNC具有较好的监测精度 $( R ^ { 2 } )$ 和估计标准误差(SE);同时对不同生育时期最佳监测模型以不同年度间不同品种类型独立数据进行评价，均具有较好的验证效果，表明该模型具有一定的稳定性和可靠性。
+
+# 3.3GPC的高光谱遥感监测模型
+
+冬小麦籽粒蛋白质形成与积累是一个动态过程[38-39]本研究以不同生育时期PNC为切入点，将不同生育时期VI与成熟期GPC链接，依据‘VI—PNC—GPC"的联系，将VI、PNC、GPC三者耦合，在GPC监测模型中引入不同生育时期植株氮素状况与VI，并以独立数据对模型稳定性和适用性进行评价，模型具有较高的验证效果，可以对该地区内不同肥力水平下不同抗旱类型冬小麦品种GPC进行预测。该方法以PNC这一与GPC密切相关的农学参数为中间变量，基于植被指数建立GPC监测模型，增强了GPC监测模型的农学解释机理，实现在不同生育时期借助高光谱遥感技术对冬小麦成熟期GPC的监测，同时以独立数据对模型精度及可靠性进行验证，均有较好效果。
+
+# 3.4 GPC监测模型研究展望
+
+本文通过连续5年对不同氮磷水平下不同抗旱类型的冬小麦品种不同生育时期PNC、冠层光谱反射率、成熟期GPC进行分析，基于“VI—PNC—GPC"建立成熟期GPC监测模型，具有较高的验证精度。在建模过程中，融入冠层光谱特征及植株氮素营养状况，提高模型的预测精度和验证精度。由于受试验条件限制，本模型的建立与验证均在同一试验小区内，土壤、水分、光照等因素基本一致。今后模型应在不同生态区域范围内，扩
+
+16 MUAKI—PNU RE=11.2353 -GPN 品 日 □   
+140 RMSE=2.221   
+130 □ □   
+120 品 □□   
+00 □ 品 目□ 80 □ 70 品 □ 60L   
+170 孕穗期Booting   
+160 NDCI-PNC-GPC   
+150 R²=0.972 □   
+140 RE=10.74%   
+130 RMSE=1.825 站   
+110 品   
+100 复□ 90 A 80 P 70 60L   
+(oy 180 mNDPec-GPC R²= 0.990 日 RE=8.41% RMSE=1.214 g   
+140 10   
+120 七 足   
+100 七 □ 母 80   
+170   
+150 160 MCARIPCGPC R²= 0.979 日   
+140 RM=101.767 哈   
+130 品   
+120 品   
+110 首   
+100 国 90 品 间 80   
+170 成熟期 Maturity   
+160 NDCI-PNC-GPC   
+150 R²=0.936 B   
+140 RE=11.36% 88 RMSE=2.137   
+130   
+000 品品 90 四 80 品品 □ 70 X 60日 80 90 100 110 120 130 140 150 160 17 实测值 Observed value $( \mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } )$
+
+大建模因素的空间差异性，增强对模型外推性及稳定性。另外，本文建立GPC监测模型，仅从PNC这一参数出发，缺乏对该区域内常年积温、降雨量、土壤状况等田间生态因素的考虑。因此，有必要在研究生理参数的同时，结合区域内生态因素建立明确物理意义的监测模型，促进高光谱遥感技术在精准农业中的应用。
+
+# 4结论
+
+1)在相同氮肥水平下，GPC随施磷量增加而显著增加 $( P { < } 0 . 0 5 ) 7 . 2 8 \% { \sim } 1 7 . 8 7 \%$ ；在相同磷肥水平下，GPC随施氮量增加显著递增 $5 . 5 4 \% { \sim } 4 6 . 8 1 \%$ $( P { < } 0 . 0 5 )$ 。成熟期GPC与不同生育时期PNC极显著相关 $( P { < } 0 . 0 1 )$ ，相关系数 $( r )$ 为 $0 . 7 8 1 { \sim } 0 . 8 7 6$ ，可以基于不同生育时期PNC建立成熟期GPC模型，均以二项式函数 $( y = \tt a x { + } b x ^ { 2 } { + } c )$ 拟合效果最好，拔节期、孕穗期、抽穗期、灌浆期、成熟期拟合精度 $( R ^ { 2 } )$ 分别为0.636、0.661、0.767、0.811和0.770。
+
+2)通过相关分析、灰色关联度分析，在不同生育时期选择最佳植被指数，通过偏最小二乘回归方法建立基于 $\mathbf { M C A R I _ { 1 } }$ 、NDCI、mNDVI、 $\mathbf { M C A R I } _ { 1 }$ 、NDCI的拔节期、孕穗期、抽穗期、灌浆期、成熟期冬小麦PNC高光谱遥感监测模型，不同生育时期模型拟合精度 $( R ^ { 2 } )$ 分别为 $0 . 8 2 6 , 0 . 8 5 4 , 0 . 8 6 7 , 0 . 8 5 9$ 和0.819,标准误差(SE)分别为0.213、0.191、0.136、0.177和0.243。以独立数据对模型进行检验，相对误差(RE)分别为 $1 4 . 0 8 \%$ 、 $1 3 . 6 3 \%$ 、 $10 . 3 1 \%$ 、 $12 . 1 7 \%$ 和 $1 5 . 1 6 \%$ ，均方根误差(RMSE)分别为 $0 . 3 2 4 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $0 . 3 1 7 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ！$0 . 1 2 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、 $0 . 2 3 0 \ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $0 . 4 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 。表明不同生育时期基于不同植被指数建立PNC监测模型具有较好的监测和验证效果。
+
+3)以PNC为链接点，依据"VI—PNC—GPC"的路线，将基于植被指数的PNC监测模型与基于PNC的成熟期GPC监测模型进行组合，建立基于VI且融合PNC的成熟期GPC监测模型，增强模型的农学机理解释。以独立数据对拔节期、孕穗期、抽穗期、灌浆期和成熟期GPC监测模型进行验证，不同生育时期模型预测值与田间实测值间相对误差(RE)分别为： $1 1 . 2 6 \%$ 、 $10 . 7 4 \%$ 、 $8 . 4 1 \%$ 、 $1 0 . 2 5 \%$ $1 1 . 3 6 \%$ ，均方根误差分别(RMSE)为 $2 . 2 2 1 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ 、$1 . 8 2 5 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ！ $1 . 2 1 4 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、 $1 . 7 6 7 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ 和 $2 . 1 3 7 \mathrm { g } \mathrm { \cdot k g } ^ { - 1 }$ 。说明可以通过不同生育时期植被指数监测PNC实现对成熟期GPC的监测，且模型具有较好的稳定性和适用性。
+
+# 参考文献References
+
+[1]孙彦坤，付强，王宏燕．不同播期对春小麦产量及蛋白质 含量的影响研究[J]．中国生态农业学报，2003，11(4): 155-157 Sun Y K,Fu Q,Wang H Y.Effects of different sowing dates on yield and protein content of spring wheat[J]. Chinese Journal of Eco-Agriculture,2003,11(4): 155-157   
+[2] 姜延涛，许韬，段霞瑜，等．品种混种控制小麦白粉病及其 对小麦产量和蛋白质含量的影响[J]．作物学报,2015,41(2) 276-285 Jiang Y T,Xu T,Duan XY,et al.Effect of variety mixture planting on powdery mildew controlling as well as yield and protein contents in common wheat[J]．Acta Agronomica Sinica,2015,41(2):276-285   
+[3] 熊淑萍，王静，王小纯，等．耕作方式及施氮量对砂姜黑土 区小麦氮代谢及籽粒产量和蛋白质含量的影响[J]．植物生 态学报,2014,38(7): 767-775 Xiong S P,Wang J,Wang X C,et al.Effects of tillage and nitrogen addition rate on nitrogen metabolism, grain yield and protein content in wheat in lime concretion black soil region[J].Chinese Journal of Plant Ecology，2014,38(7): 767-775   
+[4] 王纪华，李存军，刘良云，等．作物品质遥感监测预报研究 进展[J]．中国农业科学,2008,41(9):2633-2640 Wang JH,LiC J,LiuL Y,et al. Progressof remote sensing monitoringandforecastingcropquality[J].Scientia Agricultura Sinica,2008,41(9): 2633-2640   
+[5] 李少昆，谭海珍，王克如，等．小麦籽粒蛋白质含量遥感监 测研究进展[J].农业工程学报,2009,25(2):302-307 Li S K,Tan H Z, Wang K R, et al. Research progress in wheat grain protein content monitoring using remote sensing[J]. Transactions of the CSAE,2009,25(2): 302-307   
+[6] 蒋烨林，王让会，李焱，等．艾比湖流域不同土地覆盖类型 土壤养分高光谱反演模型研究[J]．中国生态农业学报, 2016,24(11): 1555-1564 Jiang Y L,Wang R H, Li Y,et al. Hyper-spectral retrieval of soil nutrient content of various land-cover types in Ebinur Lake Basin[J]. Chinese Journal of Eco-Agriculture,2016, 24(11): 1555-1564   
+[7] 柴仲平，陈波浪，蒋平安，等．库尔勒香梨叶片全钾含量高 光谱估算模型研究[J]．中国生态农业学报，2014，22(1): 80-86 Chai Z P,Chen B L,Jiang P A，et al．Hyperspectral estimation models for total potassium content of Kuerle fragrant pear leaves[J]. Chinese Journal of Eco-Agriculture, 2014,22(1): 80-86   
+[8] Hansen P M,Jorgensen JR,Thomsen A. Predicting grain yield and protein content in winter wheat and spring barley using repeated canopy reflectance measurements and partial least squares regression[J]. Journal of Agricultural Science, 2002,139(3):307-318   
+[9] Basnet B B,Apan A A,Kelly R M, et al.Relating satellite imagery with grain protein content[C]//Proceedings of the 2003Spatial SciencesInstitute Biennial Conference   
+[10]Reyniers M,Vrindts E,De BaerdemaekerJ.Comparison of an aerial-based system and an on the ground continuous measuring device to predict yield of winter wheat[J]. European Journal of Agronomy,2006,24(2): 87-94   
+[11] Liu L Y,Wang JH,Bao Y S,et al. Predicting winter wheat condition，grainyieldandproteincontentusing multi-temporal EnviSat-ASAR and Landsat TM satellite images[J]. International Journal of Remote Sensing,2006, 27(4): 737-753   
+[12] Wang Z J,Wang JH,Liu L Y,et al. Prediction of grain protein content in winter wheat (Triticum aestivum L.） using plant pigment ratio (PPR)[J]. Field Crops Research, 2004, 90(2/3): 311-321   
+[13] Zhao C J, Liu L Y,Wang JH,et al. Predicting grain protein content of winter wheat using remote sensing data based on nitrogen status and water stress[J]. International Journal of Applied Earth Observation and Geoinformation,2005,7(1): 1-9   
+[14] Petersson C G,Eckersten H. Prediction of grain protein in spring malting barley grown in northern Europe[J]. European Journal of Agronomy,2007,27(2/4): 205-214   
+[15]薛利红，曹卫星，李映雪，等．水稻冠层反射光谱特征与籽 粒品质指标的相关性研究[J]．中国水稻科学，2004，18(5): 431-436 Xue L H, Cao W X,LiY X,et al.Relationship between canopy spectral reflectance characteristics and grain quality traits in rice[J]. Chinese Journal of Rice Science,2004,18(5): 431-436   
+[16]田永超，朱艳，曹卫星，等．利用冠层反射光谱和叶片 SPAD 值预测小麦籽粒蛋白质和淀粉的积累[J]．中国农业 科学,2004,37(6): 808-813 Tian Y C, Zhu Y,Cao W X,et al.Monitoring protein and starch accumulation in wheat grains with leaf SPAD and canopy spectral reflectance[J]. Scientia Agricultura Sinica, 2004,37(6): 808-813   
+[17]薛利红，朱艳，张宪，等．利用冠层反射光谱预测小麦籽粒 品质指标的研究[J]．作物学报,2004,30(10):1036-1041 Xue L H, Zhu Y, Zhang X,et al. Predicting wheat grain quality with canopy reflectance spectra[J].Acta Agronomica Sinica,2004,30(10): 1036-1041   
+[18] 李卫国，王纪华，赵春江，等．基于 NDVI和氮素积累的冬 小麦籽粒蛋白质含量预测模型[J]．遥感学报，2008，12(3): 506-514 Li W G,Wang JH, Zhao C J,et al.A model for predicting protein content in winter wheat grain based on Land-Sat TM image and nitrogen accumulation[J]. Journal of Remote Sensing,2008,12(3): 506-514   
+[19]金秀良，徐新刚，李振海，等．基于新型植被指数对冬小麦 蛋白质含量的估算研究[J]．光谱学与光谱分析,2013,33(9): 2541-2545 Jin XL,Xu XG,Li Z H,et al. Estimation of winter wheat protein content based on new indexes[J]. Spectroscopy and Spectral Analysis,2013,33(9): 2541-2545
+
+[20]李振海，徐新刚，金秀良，等．基于氮素运转原理和
+
+GRA-PLS算法的冬小麦籽粒蛋日质含量遥感预测[J].中国 农业科学,2014,47(19):3780-3790 Li Z H, Xu X G, Jin X L,et al. Remote sensing prediction of winter wheat protein content based on nitrogen translocation and GRA-PLS method[J]. Scientia Agricultura Sinica,2014, 47(19):3780-3790   
+[21]冯伟，姚霞，田永超，等．小麦籽粒蛋白质含量高光谱预测 模型研究[J]．作物学报,2007,33(12):1935-1942 Feng W,Yao X, Tian Y C,et al. Predicting grain protein content with canopy hyperspectral remote sensing in wheat[J]. Acta Agronomica Sinica,2007,33(12):1935-1942   
+[22] Sim D A,Gamon JA.Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages[J]. Remote Sensing of Environment,2002,81(2/3):331-354   
+[23]Mishra S,Mishra D R.Normalized difference chlorophyll index:A novel model for remote estimation of chlorophyll-a concentration in turbid productive waters[J]. Remote Sensing of Environment, 2012,117: 394-406   
+[24] Broge $\ l _ { \textsc { N H } }$ ，Leblanc E. Comparing prediction power and stability of broadband and hyperspectral vegetation indices for estimation of green leaf area index and canopy chlorophyll density[J]. Remote Sensing of Environment,2001,76(2): 156-172   
+[25] Haboudane D,Miller JR,Tremblay N,et al．Integrated narrow-band vegetation indices for prediction of crop chlorophyll content for application to precision agriculture[J]. Remote Sensing of Environment, 2002,81(2/3): 416-426   
+[26]Gitelson A A,Merzlyak M N. Signature analysis of leaf reflectance spectra: Algorithm development for remote sensing of chlorophyll[J]. Journal of Plant Physiology,1996, 148(3/4): 494-500   
+[27] Mistele B,Schmidhalter U.Estimating the nitrogen nutrition index using spectral canopy reflectance measurements[J]. European Journal of Agronomy,2008,29(4): 184-190   
+[28]Penuelas J,Baret F,Filella I. Semi-empirical indices to assess carotenoids/chlorophyllaratiofromleafspectral reflectance[J]. Photosynthetica,1995,31: 221-230   
+[29]MetternichtG.Vegetationindicesderivedfrom high-resolution airborne videography for precision crop management[J]. International Journal of Remote Sensing, 2003,24(14): 2855-2877   
+[30]邓聚龙灰理论基础[M]武汉·华中科技大学出版社 2010: 5-28 Deng JL. Introduction to Grey Theory[M]. Wuhan: Huazhong University of Science & Technology Press,2010: 5-28   
+[31]曹明霞．灰色关联分析模型及其应用的研究[D]．南京：南 京航空航天大学,2007 Cao M X. Research on grey incidence analysis model and its application[D]. Nanjing: Nanjing University of Aeronautics and Astronautics,2007   
+[32]于振文．作物栽培学各论[M]．北京：中国农业出版社, 2005:52 Yu Z W.Crop Cultivation[M]. Beijing: China Agriculture Press,2005: 52   
+[33] Boman R K,Westerman R L,Raun W R,et al. Time of nitrogen application: Effects on winter wheat and residual soil nitrate[J]. Soil Science Society of America Journal,1995, 59(5): 1364-1369   
+[34] Woodard HJ, Bly A. Relationship of nitrogen management to winter wheat yield and grain protein in South Dakota[J]. Journal of Plant Nutrition,1998,21(2): 217-233   
+[35]Gebbing T,Schnyder H.Pre-anthesis reserve utilization for protein and carbohydrate synthesis in grains of wheat[J]. Plant Physiology,1999,121(3): 871-878   
+[36] Huang W J,Wang JH,Wang Z J,et al. Inversion of foliar biochemical parameters at various physiological stages and grain quality indicators of winter wheat with canopy reflectance[J]. International Journal of Remote Sensing,2004, 25(12): 2409-2419   
+[37]陈鹏飞，王吉顺，潘鹏，等．基于氮素营养指数的冬小麦籽 粒蛋白质含量遥感反演[J]．农业工程学报，2011，27(9): 75-80 Chen P F,Wang JS,Pan P,et al. Remote detection of wheat grain protein content using nitrogen nutrition index[J]. Transactions of the CSAE,2011,27(9):75-80   
+[38] Wright D L, Rasmussen V P,Ramsey R D,et al. Canopy reflectance estimation of wheat nitrogen content for grain protein management[J].GIScience & Remote Sensing，2004, 41(4): 287-300   
+[39] 黄文江，王纪华，刘良云，等．小麦品质指标与冠层光谱特征 的相关性的初步研究[J]．农业工程学报,2004,20(4):203-207 Huang W J,Wang JH, Liu L Y,et al. Correlation between grain quality indicators and spectral reflectance properties of wheat canopies by using hyperspectral data from winter wheat[J]. Transactions of the CSAE,2004,20(4):203-207

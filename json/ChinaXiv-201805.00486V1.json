@@ -1,0 +1,707 @@
+[
+    {
+        "type": "text",
+        "text": "基于旋转基技术的多目标粒子群优化算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "戴永彬，纪川川，康伟伟(辽宁工业大学 软件学院，辽宁 锦州 121001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了解决多目标优化求解的问题，提出一种基于旋转基技术的多目标粒子群优化算法(rtMOPSO)。首先，改进了旋转基可视化技术并将Pareto前沿映射到改进的旋转基扇形平面上，采用差熵指标监测种群进化状态；其次，为平衡归档集的收敛性和多样性，提出了角度支配和角度支配力度两种新的概念并设计归档集新的排序方法；最后，在融合了旋转基角度和距离的概念的基础上，提出了一种改进的全局引导粒子的选择策略。改进算法采用两个类别的测试函数，与5种多目标优化算法进行了对比实验。实验结果表明，改进算法在收敛性和多样性方面优势明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：粒子群；多目标优化；旋转基技术 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.02.0138 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-objective particle swarm algorithm based on rotation basis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dai Yongbin, Ji Chuanchuan, Kang Weiwei (CollegeofSoftware Liaoning UniversityofTechnology,Jinzhou Liaoningl2l0o1,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper proposeda multi-objectiveparticle swarm algorithmbasedonrotation basis (rtMOPSO)inorder to solve problemsaboutmulti-objective optimization.FirstlyPareto front maps totheimprovedsectorialplaneofrotationbasis sothat evolutionary statusofthepopulation were detectedbytheentropyand itsdifferenceentropyof the population.Then,angle dominanceandstrengthofangledominance wereproposed todesignanarchive maintainingstrategywhichcanbalancediversity and convergence.Finally,selecting the global best solution was proposed based onrotation angleand distance oftherotation basis.The improved algorithm iscompared with5multi-objectiveoptimizationalgorithms ontwo kinds of testsuites.The Simulationresultsshowthatimprovedalgorithminthis paperhas bigadvantagesovertheothercompetitors interms ofdiversity and convergence. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: particle swarm; multi-objective optimization; rotation basis technique ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，多目标优化问题受到了学术界和工程界广泛关注，取得了大量的研究成果。然而当多目标优化问题的维数大于3时，如何准确呈现Pareto前沿的分布状态从而实施相应的控制策略获取最优Pareto解集，是一项十分困难的工作。可视化技术是一种解决多目标优化问题的重要手段[1]。可视化技术主要采用降维算法映射Pareto前端，分为无损降维和有损降维。无损降维方法实现降维不会损坏数据信息，主要包括平行坐标系、旋转基坐标等方法[2-4]；有损降维首先获取高维数据的特征和关系，将其映射到低维空间，主要包括主成分分析、高斯随机过程模型、聚类等[5,6]。文献[4]利用旋转基可视化技术反映Pareto解优劣情况，方便决策者进行分析和决策，但是不能监控粒子种群的进化状态，有效解决多目标优化问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "粒子群可以快速收敛，但容易早熟，陷入局部最优。虽然可以采取措施避免粒子种群早熟，但是一定会影响粒子种群后期的多样性。因此如何平衡局部收敛性和种群多样性急需有效的解决方案。为此，进一步完善归档集的管理与维护、全局引导粒子的选取以及种群进化状态的监测等方面的算法成为提高粒子群收敛性和多样性的关键所在。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，在归档集的管理方面，国内外学者提出了多种维护策略进，主要分为两类：第一类方法是根据种群密度的大小剪裁归档集，例如，自适应网格、拥挤距离、 $\\delta$ 支配[8.9]等方法。第二类方法是依据归档集粒子和参考点或参考区的距离整理归档集，例如，参考区域、参考点等偏好算法[10,I]。在全局引导粒子的选取方面，现已提出了大量的性能优异的算法和改进算法，如sigma以及改进算法、灰色关联、信息熵法、差分算法、动态加权、轮盘赌[12-14]等方法。通过这些算法可以获得全局最优粒子，从而保证了粒子种群的正确飞行方向，提高了种群的收敛性和分布性。另外，还有多种根据种群进化状态调节收敛性和多样性的平衡算法，如动态调整惯性权重和学习因子、种群规模自适应算法、种群的交叉与变异算法、多层次信息交互算法等，但是这些算法对种群进化状态还未能准确监测，因此也就不能清楚地辨别进化状态，从而有效地执行进化策略。为了监测种群进化状态，文献[8]提出了状态熵以及差熵的概念，对归档集状态熵的变化情况进行分析和辨识，从而确定粒子群进化状态的边界阈值。但文献[8]使用密度排序方法维护归档集，这种单一排序方法不能同时满足归档集收敛性和多样性的维护需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合以上分析，本文将平行坐标和文献[4]提出的旋转基技术相结合，改进了旋转基映射策略从而实现高维数据到二维空间的映射，使决策者可以对Pareto 解集的进行准确地分析和决策。其次，在归档集的维护和管理方面提出了旋转基角度支配和角度支配力度的新概念，设计了归档集双排序算法。另外，本文将旋转基角度和距离作为全局最优粒子的选择指标，因此可以获取综合性能最强的粒子作为全局最优粒子。最后，对文献[8]提出的基于Pareto熵的状态监测方法进行了改进，通过监测种群状态选择不同的归档集排序方法，实现了归档集的综合动态管理，提高了种群的收敛性和分布性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1多目标优化问题和粒子群基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1多目标优化问题 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多目标问题可描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } f ( X ) { = } \\{ f _ { 1 } ( X ) , f _ { 2 } ( X ) { \\ldots } , f _ { m } ( X ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { s . t . \\left\\{ \\begin{array} { l l } { g _ { i } ( x ) \\geq 0 \\qquad i = 1 , 2 , \\cdots , p } \\\\ { h _ { j } ( x ) = 0 \\qquad j = 1 , 2 , \\cdots , q } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X$ 为 $\\pmb { R }$ 空间的决策变量； $g _ { i } ( x )$ 为和 $h _ { j } ( x )$ 分别是不等式约束和等式约束。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多目标优化问题一般采用Pareto 解集作为寻优的结果。Pareto 解集内一般有若干非劣解，可以根据决策需要选取合适的非劣解作为最优解，在Pareto 前沿均匀分布并无限靠近真实值，这是Pareto 解集的最理想的状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2粒子群算法基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粒子群是一种基于群体仿生的进化算法。 $x$ 代表粒子的位置， $\\nu$ 代表粒子的速度，两者的关系可以描述为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\nu _ { i } ^ { t + 1 } = w { \\nu _ { i } ^ { t } } + c _ { 1 } r _ { 1 } ( p _ { i } ^ { t } - x _ { i } ^ { t } ) + c _ { 2 } r _ { 2 } ( g _ { i } ^ { t } - x _ { i } ^ { t } ) } } \\\\ { { x _ { i } ^ { t + 1 } = x _ { i } ^ { t } + \\nu _ { i } ^ { t + 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { i } = ( \\nu _ { i { 1 } } , \\nu _ { i { 2 } } , { \\cdots } , \\nu _ { i { D } } ) , x _ { i } = ( x _ { i { 1 } } , x _ { i { 2 } } , { \\cdots } , x _ { i { D } } )$ 。另外， $w$ 为惯性权值，个体最优值和全局最优值分别是  \n$p _ { i } = ( p _ { i 1 } , p _ { i 2 } , \\cdots , p _ { i D } ) , g = ( g _ { 1 } , g _ { 2 } , \\cdots , g _ { D } ) , c _ { 1 } , c _ { 2 } \\frac { \\sqcup } { \\operatorname { \\scriptstyle \\mathscr { x } \\in } }$ 学习因子，$r _ { 1 }$ ， $r _ { 2 }$ 是介于[0,1]的随机数， $t$ 表示粒子群迭代更新次数， $D$ 代表粒子的维数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 旋转基技术及进化状态监测的改进",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多维数据可视化属于信息可视化的研究领域，主要应用在数据挖掘、网络、社交、文本等可视化方面。旋转基技术是重要可视化技术之一，可以将多维数据直接呈现给用户或决策者，辅助决策。但该算法不适合直接用于种群进化状态的监控，文献[4]也没有将其用于多目标优化问题的求解。为此，本文对旋转基进行了改进并应用于多目标粒子群优化算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1旋转基技术的改进",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旋转基可视化算法的基本原理是利用旋转基向量的旋转角度表示Pareto解在各维目标上的取值情况，再将各目标上的基向量叠加，在90扇形平面上形成一条折线。绘制点的旋转角度表示该解的性能，终点向量到原点的长度或距离表示该解性能的波动情况。标准化后的旋转角度公式如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } ^ { k } = \\frac { f _ { i } ^ { k } - f _ { i } ^ { \\mathrm { m } } } { f _ { i } ^ { \\mathrm { M } } - f _ { i } ^ { \\mathrm { m } } } \\times \\frac { \\pi } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $i$ 为目标的数量， $i { = } 1 , 2 , \\ { \\cdots } M ;$ $k$ 表示种群的粒子的序号， $k { = } 1 , 2 , \\ \\cdots \\ K ; \\ f ^ { \\mathrm { m } } , \\ f ^ { \\mathrm { M } }$ 为适应度函数的最大值和最小值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旋转基向量的连接过程如下：首先，设定一组固定长度的路径向量基 $\\{ w _ { i } , \\ i { = } 1 , 2 , \\cdots \\ M \\}$ ，向量的数量等于目标的维数。其次，以原点为起点，按照水平方向，逆时针旋转角度 $\\theta _ { 1 } ^ { k }$ ，得到Pareto 解的第一个目标的映射坐标，然后再以该点为起始坐标，采用同样方式绘制下一个目标的映射坐标。依次类推即可完成第 $M$ 个目标映射坐标的绘制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上分析可知，旋转基可视化技术可以表示Pareto 解的性能的优劣程度，但是没有采用类似密度等指标展示全部粒子在Pareto 前沿分布状况[8]。为此，本文将旋转基和平行坐标结合起来，改进旋转基技术。具体如下：根据种群粒子的数量将旋转基90度扇形区域划成 $K$ 个扇区，每个扇区的圆心角的角度为$\\pi / 2 K$ 。然后采用平行坐标的思想，将目标维数取 $M$ 条垂直轴线，每条轴线上的数值范围为目标适应度函数的最小值到最大值并且均匀分布。为了将旋转基融入平行坐标，本文将平行坐标的 $M$ 条垂直轴线转换为旋转基90度扇区内的 $M$ 条同心圆圆弧，这样就形成 $K \\mathbf { x } M$ 个扇块。经过平行坐标映射的旋转基平面称为旋转基扇区平面，被同心圆圆弧所分割的扇区平面称为旋转基扇块。如，令 $K { = } 3$ ， $\\scriptstyle { M = 4 }$ ，这样形成共计12个扇块，具体如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这样，高维的Pareto前沿被映射成旋转基扇区平面内，种群粒子也同时被映射到旋转基扇块内。通过分析扇区块内的粒子的数量可以获知Pareto 前沿粒子的分布状态。为了计算每个粒子的目标分量所在的扇块位置，可用如下公式表示。如第 $k$ 个粒子第 $i$ 个目标分量映射到旋转基扇区的扇块编号 $H$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { i } ^ { k } = \\left\\lceil { \\frac { K \\cdot \\theta _ { i } ^ { k } } { \\pi / 2 } } \\right\\rceil\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lceil x \\rceil$ 表示向上取整数； $\\boldsymbol { H } _ { i } ^ { k }$ 为[1， $| \\boldsymbol { K } \\boldsymbol { ] }$ 的整数；如果 ${ \\theta } _ { i } ^ { k }$ 为0时，可设 $H _ { i } ^ { k }$ 为1。例如，假定多目标优化问题有4个目标，粒子总数为3，按照公式（4)，可计算出每个粒子编号。例如，第1个粒子的第2个目标分量编号为3，即 $k _ { 1 } i _ { 3 }$ 的 $H$ 值为3，可写成 $H _ { 2 } ^ { 1 } = 3$ 。具体分布如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2状态熵及进化状态阈值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1状态熵 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用了Pareto 熵和差熵[9]监测Pareto 前沿的进化状态。Pareto熵和差熵能够准确描述旋转基扇区平面上种群粒子分布情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）状态熵公式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( t ) = - { \\sum _ { H = 1 } ^ { K } } \\sum _ { i = 1 } ^ { M } { \\frac { { S e c t o r _ { i } ^ { H } } ( t ) } { K M } } \\mathrm { l o g } { \\frac { { S e c t o r _ { i } ^ { H } } ( t ) } { K M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $S e c t o r _ { i } ^ { H } ( t )$ 表示落在第 $H$ 行第 $i$ 列扇块内的坐标分量的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）差熵的公式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E = E ( t ) - E ( t - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2进化状态阈值的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子群种群在进化过程中会经历收敛状态、多样性状态和停滞状态等三个状态。其中，多样性状态为种群收敛和停滞的中间状态，因此只需要确定中间状态差熵的最大边界阈值 $\\scriptstyle a$ 和最小阈值 $\\beta$ ，就可以确定进化状态。为此，设定种群分布的一种极端情况：Pareto最优解集有3个粒子且有3个目标分量，粒子 $k _ { 3 }$ 的所在的每个扇块内都有两个分量，具体如图3所示。当Pareto 前沿迭代更新后，出现的第一种极端情况是，旧粒子$k _ { 3 }$ 被更新的粒子 $k _ { 3 }$ 替换并全部落入了3个空闲的扇块，具体如图4；另一种情况是更新粒子 $k _ { 3 }$ 只落入了1个空闲的扇块。归档集内发生了更新的粒子，其差熵发生变化，其他没有更新的粒子差熵值不变，因此只要计算出更新前后发生变化的粒子熵的差值即可计算出归档集差熵变化。具体如式（7）（8）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\alpha = \\left( \\sum _ { i = 1 } ^ { M } \\displaystyle \\frac { 1 } { Q M } \\log \\displaystyle \\frac { 1 } { Q M } - \\sum _ { i = 1 } ^ { M } \\displaystyle \\frac { 2 } { Q M } \\log \\displaystyle \\frac { 2 } { Q M } \\right) + } } \\\\ { { \\displaystyle \\left( \\sum _ { i = 1 } ^ { M } \\displaystyle \\frac { 1 } { Q M } \\log \\displaystyle \\frac { 1 } { Q M } - \\sum _ { i = 1 } ^ { M } \\displaystyle \\frac { 0 } { Q M } \\log \\displaystyle \\frac { 0 } { Q M } \\right) = \\displaystyle \\frac { 2 } { Q } \\log 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\frac { 2 } { M K } \\log 2\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，为 $\\varrho$ 当前归档集 $\\textbf {  { A } }$ 中粒子的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，当 $| \\triangle E | > a$ 或 $Q ( t ) { \\neq } Q ( t - 1 )$ 时，种群处于收敛状态;当 $\\scriptstyle A = K$ 且 $\\beta { < } | \\triangle E | { < } \\alpha$ 时处于多样化状态；当 $\\scriptstyle A = K$ 且 $\\triangle E | < \\beta$ 时，种群处于停滞状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 归档集的维护与全局引导粒子选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1归档集的维护与管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子群的全部非支配解一般存放在归档集中。一个高效的归档集维护策略是实现归档集收敛性和多样性的保证。目前，多数归档集采用单一的管理策略很难兼顾归档集的收敛性和多样性指标。例如，归档集经常采用粒子密度作为归档集排序的指标[8]，这种策略侧重于选择压力的控制；有的采用自适应网格策略则侧重于分布性的控制。实际上，归档集的维护策略应该根据种群进化状态自适应切换，当种群处于收敛状态时，为了保持收敛速度，保留收敛性强的粒子；当种群处于多样性状态时，为维护归档集的多样性，删除分布密度比较高的粒子。为此，本文采用双排序的维护策略，在不同的进化阶段选择不同排序策略，平衡选择压力和分布性。本文提出了收敛程度指标和分布程序指标作为双排序的依据，具体如下",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1收敛程度指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了度量种群的收敛程度，本文提出了角度支配和角度支配力度的概念并将角度支配力度作为收敛程度的指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）角度支配概念 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归档集的任意两个解为 $x$ 和 $y$ ，两个解的旋转基角度分别是 $\\theta _ { x } ^ { i } , \\theta _ { y } ^ { i }$ ，称 $x$ 角度支配 $y$ 当且仅当",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall i = 1 , 2 , \\cdots M , \\theta _ { x } ^ { i } \\le \\theta _ { y } ^ { i } \\wedge \\exists j = 1 , 2 , \\cdots M , \\theta _ { x } ^ { j } < \\theta _ { y } ^ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）角度支配力度概念 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "归档集的任意一个解 $x \\in A$ ，其支配力度 $S _ { i }$ 是角度支配其他解的数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { S i } } { = } \\{ { \\bf { u } } | { \\bf { x } } \\in \\mathbb { A } , x { \\prec } u ~ \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "角度支配力度表明了归档集中粒子向Pareto前沿收敛的程度，角度支配力度越大，说明该解越靠近真实的Pareto 前沿。3.1.2分布程度指标",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } = \\sqrt { \\frac { 1 } { K - 1 } ( \\stackrel { - } { d } - d _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $K$ 为Pareto解集中解的总数；$d _ { i } = \\operatorname* { m i n } ( \\sum _ { k = 1 } ^ { M } \\Bigl | H _ { k } ^ { i } ( x ) - H _ { k } ^ { j } ( x ) \\Bigr | )$ ，（ $i \\neq j$ )表示某个非劣解的目标向量到最优解目标向量的距离； $\\bar { d }$ 是 $d i$ 的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分布程度指标 $F _ { i }$ 反应了非劣解集对应前端的均匀程度。其值越小，分布性能越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3旋转基折线距离 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "归档集粒子排序时，如果粒子 $S _ { i }$ 和 $F _ { i }$ 的指标都相同，则采用旋转基映射折线距离作为辅助判断指标。旋转基折线距离公式，具体如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { k } = \\frac { 1 } { M ^ { ' } } ( M + \\sum _ { i = 1 } ^ { M } \\sum _ { j = 1 ( j \\neq i ) } ^ { M } ( \\cos \\theta _ { _ i } ^ { k } - \\theta _ { _ j } ^ { k } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "旋转基折线距离越大说明该粒子在各个目标上性能波动越小，性能越均衡。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.4归档集的排序与维护 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据进化状态，如果种群处于收敛阶段，先按照 $S _ { i }$ 、 $F _ { i }$ 和$L _ { k }$ 次序，对关键字 $S _ { i }$ 按升序而 $F _ { i }$ 和 $L _ { k }$ 按降序排序；如果种群处于多样化阶段，则归档集粒子可按照 $F _ { i } , \\ S _ { i }$ 和 $L _ { k }$ 次序，对对关键字 $S _ { i }$ 按升序而 $F _ { i }$ 和 $L _ { k }$ 按降序排序。最后，按照进化状态情况以及归档集规模情况，将归档集中排序靠后的多余粒子裁剪掉即可。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2全局最优粒子的选取",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "粒子群全局最优粒子决定着种群进化方向，也影响着种群的选择压力和种群的多样性。因此，为了选取综合性能最强的粒子作为全局最优粒子必须建立一种有效的、合理的选取策略。本文利用旋转基可视化技术的优点，采用旋转角度和旋转基折线距离作为全局最优粒子的选取依据。 $\\varphi$ 越小，旋转基折线距离越大，该粒子的多目标综合性能越好，公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ^ { k } = \\arctan ( \\frac { \\displaystyle \\sum _ { i = 1 } ^ { M } \\cos \\theta _ { i } ^ { k } } { \\displaystyle \\sum _ { i = 1 } ^ { M } \\sin \\theta _ { i } ^ { k } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全局最优粒子的一般选取过程如下：首先按照旋转角度排序，选择旋转角度最小的粒子作为全局最优粒子；如果有若干粒子的旋转角度相同，则比较其旋转基折线距离，然后选择旋转基折线距离最长的粒子作为全局最优粒子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据以上分析可知，在文献[8]算法的基础上，对归档集的维护和全局最优粒子选取进行了改进，使本文算法的性能有较大提升。首先，文献[8]对归档集的维护只采用密度指标进行单排序策略。总所周知，密度指标主要反应归档集粒子的多样性。因此，该策略没有将粒子排序情况和种群的收敛性能结合在一起。本文算法可根据种群的进化状态，采用双排序策略，同时保证了归档集粒子的多样性和收敛性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd73f51d824144564117c4ca8fe66571fc815681686c05eb2a38386293be6bd2.jpg",
+        "table_caption": [
+            "表1格占优强度与旋转基角度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粒子</td><td>fi</td><td>f</td><td>f</td><td>L LL3</td><td>格占优强度</td><td>旋转基角度</td></tr><tr><td>P1</td><td>0.6010</td><td>0.0003</td><td>0.0047</td><td>4 11</td><td>0</td><td>0.4636</td></tr><tr><td>P2</td><td>0.5270</td><td>0.0309</td><td>0.0232</td><td>4 4 1</td><td></td><td>1.0242</td></tr><tr><td>P</td><td>0.4715</td><td>0.0309</td><td>0.0655</td><td>3 4 2</td><td>0</td><td>1.0383</td></tr><tr><td>P4</td><td>0.2081</td><td>0.0031</td><td>0.2002</td><td>1 14</td><td>0</td><td>0.5215</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其次，在全局最优粒子的选取中，文献[8]采用了格占优强度和密度混合算法。实际上，格占优强度算法在一些特定条件下，区分粒子的优劣能力不足。例如，假设存在4个粒子3个目标最优解，其格占优强度皆为0，具体如表1所示。为此，必须利用密度指标进行二次排序才能选出全局 ${ \\bf P } _ { 1 }$ 。格占优强度算法的分辨力之所以较弱，主要是由于该算最优粒子。本文的旋转基的可视化选取策略，可以直接区分4个粒子的优劣程度，一次排序计算即可获知最优粒子为法在算计平行格坐标时采用向上取整的方法，会出现计算误差。平面网格划分的格数越少，损失的信息越多，造成的误差也就越大。相反，本文算法的旋转基角度映射函数会将粒子之间的微小差别放大。另外，计算旋转基角度时没有信息损失，因此对粒子的优劣具有较强的分辨能力，这也是可视化技术的主要特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 rtMOPSO算法流程与时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1算法的流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)种群参数初始化。粒子群种群主要参数包括种群的归档集规模 $K$ 、种群的规模 $n$ 、最大循环次数 $t _ { \\mathrm { m a x } }$ ，权重及学习因子$w$ 、c1、 $c _ { 2 }$ 。将归档集粒子数量 $k$ ，迭代循环变量 $t$ 等参数清零。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)进化状态判断。将归档集粒子按照式（3）（4）映射到旋转基扇区平面上；然后利用式（7）（8）计算状态熵和差熵；最后，按照2.2节的进化状态的阈值判断进化状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)归档集管理与维护。根据进化状态，按照3.1节的规则对归档集粒子排序并剪裁多余粒子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)根据3.2节策略更新全局最优粒子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)按照式（2）更新粒子群种群。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)如果大于或等于最大循环次数则停止运行，输出最优解集；否则，跳到b)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2算法时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在rtMOPSO算法中，为了便于计算，设置粒子群种群和归档集的大小都为 $N$ ，多目标优化的目标数量为 $M$ ，粒子维数为$D$ 。根据算法的流程，rtMOPSO算法主要步骤的时间复杂度的分析如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stepl，初始化复杂度为 $O ( N D )$ ；Step2，旋转基扇区映射为线性操作，状态熵和差熵的时间复杂度为 $O ( N M )$ ;在 Step3中,首先从粒子群种群中选择有效粒子进入归档集，其复杂度为$O ( M N ^ { 2 } )$ 。其次，执行维护策略时需要分别计算收敛程度、分布程度和辅助判断指标，其时间复杂度为 $O ( N M ^ { 2 } )$ ，多指标排序的复杂度为 $O ( N \\mathrm { l o g } N )$ ；Step5，粒子种群的位置和速度更新为线性操作。综上所述，本文算法的最大时间复杂度的值为 $O ( M N ^ { 2 } )$ 。因此，本文算法和文献[8]算法以及主要采用Pareto支配、NSGA快速排序等方法的多目标粒子群优化算法的时间复杂度相同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d850a06aa48a1afdd0d7731657388c3e6ffd4967a9d4e7ee519f4d8fcfb8d782.jpg",
+        "table_caption": [
+            "表2测试结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Problem</td><td>NSGAII</td><td>SPEA2</td><td>MOEAD</td><td>dMOPSO</td><td>SMPSO</td><td>rMOPSO</td></tr><tr><td></td><td>DTLZ1</td><td>8.0280e-3</td><td>6.8079e-2</td><td>5.8709e-3</td><td>1.6370e+1</td><td>8.5590e+0</td><td>5.7273e-3</td></tr><tr><td>GD</td><td>DTLZ2</td><td>1.1326e-3</td><td>1.0332e-3</td><td>5.0483e-4</td><td>1.5412e-2</td><td>3.8664e-3</td><td>6.1321e-4</td></tr><tr><td>(均值)</td><td>DTLZ6</td><td>4.9899e-6</td><td>4.7047e-6</td><td>3.6114e-3</td><td>1.9039e-2</td><td>4.8176e-6</td><td>3.7941e-6</td></tr><tr><td></td><td>ZDT1</td><td>3.0491e-5</td><td>2.3469e-5</td><td>8.6386e-5</td><td>6.0845e-4</td><td>3.8624e-5</td><td>0.1350e-5</td></tr><tr><td></td><td>ZDT2</td><td>1.8500e-5</td><td>4.6469e-6</td><td>1.8572e-4</td><td>5.5901e-4</td><td>2.9975e-5</td><td>2.7368e-6</td></tr><tr><td></td><td>ZDT3</td><td>3.9224e-5</td><td>3.2040e-5</td><td>2.1738e-4</td><td>4.1661e-4</td><td>4.3316e-5</td><td>2.5246e-5</td></tr><tr><td></td><td>DTLZ1</td><td>4.8551e-1</td><td>2.7821e-1</td><td>1.6938e-1</td><td>7.9282e-1</td><td>8.3284e-1</td><td>1.7325e-1</td></tr><tr><td>Spread</td><td>DTLZ2</td><td>5.3215e-1</td><td>9.1660e-2</td><td>1.7041e-1</td><td>2.3881e-1</td><td>4.0660e-1</td><td>8.4357e-2</td></tr><tr><td>(均值)</td><td>DTLZ6</td><td>7.3369e-1</td><td>1.2879e-1</td><td>2.0492e+0</td><td>1.9683e+0</td><td>4.4293e-1</td><td>1.1258e-1</td></tr><tr><td></td><td>ZDT1</td><td>4.4291e-1</td><td>1.2359e-1</td><td>2.7783e-1</td><td>2.7843e-1</td><td>4.1422e-1</td><td>1.0139e-1</td></tr><tr><td></td><td>ZDT2</td><td>4.4236e-1</td><td>1.2982e-1</td><td>1.4822e-1</td><td>3.2305e-1</td><td>4.1902e-1</td><td>1.0846e-1</td></tr><tr><td></td><td>ZDT3</td><td>4.5690e-1</td><td>1.1906e-1</td><td>5.8705e-1</td><td>5.6158e-1</td><td>3.9600e-1</td><td>0.9937e-1</td></tr><tr><td></td><td>DTLZ1</td><td>1.2142e-1</td><td>1.3848e-1</td><td>1.2491e-1</td><td>5.3803e-3</td><td>1.3352e-2</td><td>1.8945e-1</td></tr><tr><td>HV</td><td>DTLZ2</td><td>7.0738e-1</td><td>7.3819e-1</td><td>7.4475e-1</td><td>5.5509e-1</td><td>6.7827e-1</td><td>7.0857e-1</td></tr><tr><td>(均值)</td><td>DTLZ6</td><td>1.3270e-1</td><td>1.3316e-1</td><td>1.2103e-1</td><td>1.2121e-1</td><td>1.3284e-1</td><td>1.4183e-1</td></tr><tr><td></td><td>ZDT1</td><td>8.7091e-1</td><td>8.7186e-1</td><td>8.7036e-1</td><td>8.6267e-1</td><td>8.7034e-1</td><td>8.9032e-1</td></tr><tr><td></td><td>ZDT2</td><td>5.3771e-1</td><td>5.3858e-1</td><td>5.3734e-1</td><td>4.4506e-1</td><td>5.3721e-1</td><td>5.5126e-1</td></tr><tr><td></td><td>ZDT3</td><td>1.0202e+0</td><td>1.0237e+0</td><td>1.0139e+0</td><td>1.0101e+0</td><td>1.0232e+0</td><td>1.0328e+0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/642f5ed2361bdeeef4cc47552a234caf1ff78b600df55949d4e9e468e169b85a.jpg",
+        "table_caption": [
+            "表3部分对比算法的仿真图形"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>dMOPSO</td><td>SMPSO</td><td>NSGAII</td><td>rtMOPSO</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4de65da6d1407efd07e9fc39a1323359bc5356edc05a74506cef66e543fe225.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DTLZ1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DTLZ2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 实验与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1测试算法及对比算法选择 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了检验改进算法rtMOPSO的算法性能，本文选取ZDT[15]系列和DTLZ[16系列中6个函数作为测试集，包括 ZDT1、ZDT2、ZDT3和DTLZ1、DTLZ2、DTLZ6。其中ZDT1、ZDT2、ZDT3三个函数测试改进算法在凸和非凸以及不连续的二维Pareto 前沿上寻优的能力；DTLZ1、DTLZ2、DTLZ6三个函数测试对多目标、多变量函数的寻优能力。对比算法选择了dMOPSO[17]、SMPSO[18]共两种多目标粒子群算法以及NSGA-I[9]、SPEA2[20]、MOEA/D[21]共三种典型的进化算法进行对比测试。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在比较仿真实验中，为保证实验的客观和公平性，所有的测试函数的主要参数设置一致。例如，粒子种群规模为100、归档集规模为100，最大评估次数为30000；ZDT系列测试的目标维数设置为2，DTLZ系列测试的目标维数设置为3；进化算法的交叉率设为0.9，变异概率为0.1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2评价方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了评价对比算法的收敛性和多样性选择以下三种指标：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)世代距离（generational distance,GD)[22]反映获取的Pareto解集靠近真实值的程度。其值越小，说明越接近真实的前沿。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b)多样性指标（spread)[19]主要表明对解集分布均匀情况。其值越小，说明解集的分布性越好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c)超体积(hypervolume,HV)[23]可以衡量解集覆盖的目标空间区域范围并同时度量了收敛性和多样性的性能。HV的值越大，说明解集的综合性能越好.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3实验结果的比较与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了便于实验结果，本文将测试结果列表说明，具体如表",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2和3所示。其中表2是将rtMOPSO和各种对比算法运行30次后获得实验结果。根据表2可知，rtMOPSO在二维目标的测试实验中，在GD、Spread 指标上都优于其他对比算法，因此对2维目标问题，本文算法表现出较好的收敛性和多样性；对3 维目标问题，总体上来看，本文算法的收敛性也比较突出，只有 MOEA/D 的 DTLZ1、DTLZ2 的性能和本文算法接近，DTLZ6 测试，本文算法性能与 SPEA2持平。实验数据表明，对于大部分算法而言，对DTLZ1中的测试结果略有不足，但本文算法在2、3维目标的测试过程没有明显缺陷。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步说明本文算法的有效性，可通过算法的对综合性能进行比对。本文采用了HV指标，同时从收敛性和多样性进行对比说明。从表2可知，虽然 Spea2和MOEAD是比较优秀的算法，具有较好的综合性能，但本文算法rtMOPSO在HV方面表现更佳，这表明本文提出的算法能够更好的覆盖Pareto前沿，获得最优解集。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更加直观、清晰地显示本文算法rtMOPSO的优越性，在表3中，本文给出了rtMOPSO和部分对比算法的仿真曲线。根据表3可知，其他算法在三个性能指标上存在不同程度的不足之处。例如dMOPSO、SMPSO两种粒子群算法在3维目标的性能稍显不足，尤其是在DTLZ1的测试实验中，解集的分布性较差；NSGAⅡI算法对ZDT3和DTLZ2的测试中各种性能较差。本文算法的解集无论在2维的ZDT真实前沿曲线上，还是3 维的 DTLZ 真实前沿曲面上都非常接近真实解。因此综合考量，本文算法优于5种对比算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文算法rtMOPSO具有较大优势主要原因是本文算法采用了旋转基可视化技术，有利于决策者选择最优粒子，提高了归档集的管理质量并确保选取了全局最优粒子。另外，在粒子群算法中，采用了进化状态监测策略。在进化过程中判断进化状态后，选择合理的归档集的排序和搜索策略，使种群同时具有较好的收敛性和多样性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文改进了旋转基可视化技术，可以清晰呈现归档集粒子Pareto前沿的分布和进化状态，有利于决策者选择合适的策略维护归档集和全局最优粒子。另外，借助Pareto 熵和差熵的概念监控种群进化的情况并根据总群进化的状态自动选择不同的进化管理策略，解决了粒子群进化过程中快速收敛和多样性的不平衡的矛盾。本文利用旋转基可视化技术设计了双排序的档案集维护策略，改进了传统的按密度排序的单一排序方法，使归档集在收敛性和多样性两个方面同时满足要求。最后，使用旋转基角度和距离，提出了全局最优粒子的选择策略。该策略融合旋转基可视化技术的优点，便于选择综合性能最强的粒子，引导种群向Pareto 前沿靠近。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]孔维健，丁进良，柴天佑．高维多目标进化算法研究综述[J].控制与 决策,2010,25 (3):321-326.(Kong Weijian,Ding Jinliang,Chai Tianyou. Survey on large-dimensional multi-objective evolutionary algorithms [J]. Control and Decision,2010,25 (3):321-326.)   \n[2]Claessen JH T,Wijk JJ.Flexible linked axes for multivariate data visualization [J].IEEE Trans on Visualization and Computer Graphics,2011, 17 (12): 2310-2316   \n[3]Gettinger J, Kiesling E, Stummer C,et al.A comparison of representations for discrete multi-criteria decision problems [J]. Decision Support Systems, 2013,54 (2): 976-985.   \n[4]毕晓君，李博，苍岩．基于交互式决策的旋转基多目标可视化技术[J]. 计算机辅助设计与图形学学报,2014,26(5):739-746.(BiXiaojun,Li Bo, Cang Yan.Visualization of high dimension multi-objective of rotation basis based on interactive decision making [J]. (Journal of Computer-Aided Design & Computer Graphics,2014,26(5): 739-746.)   \n[5]Taghavi T,Pimentel AD,Sabeghi M.VMODEX: a novel visualization tool forrapid analysis of heuristic-based multi-objective design space exploration of heterogeneousMPSoC architectures [J]. Simulation Modelling Practice and Theory,2012,22(5):166-196.   \n[6] Zio E,Bazzo R.A clustering procedure for reducing the number of representative solutions in the pareto front of multiobjective optimization problems [J].European Journal ofOperational Research,2011,210 (3): 624- 634.   \n[7]Coello CAC,Pulido G T,Lechuga M S.Handling multiple objectives with particle swarm optimization [J]. IEEE Trans on Evolutionary Computation, 2004,8 (3): 256-279.   \n[8]胡旺,GaryGY,张鑫．基于Pareto 熵的多目标粒子群优化算法[J].软 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "件学报,2014,25 (5):1025-1050.(Hu Wang,Gary GY, Zhang Xin.Multiobjective particle swarm optimization based on pareto entropy[J].Journal of Software,2014,25(5): 1025-1050.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]Al M N,Andrei P,John M D.MOPSO: MOPSO based on decomposition and dominance with archiving using crowding distance in objective and solution spaces [J].IEEE Trans on Evolutionary Computation,2014,22 (1): 47-77.   \n[10]蒲保兴，杨路明，谢东．嵌入决策者偏好区域的多目标优化算法[J]. 小型微型计算机系统,2009,1(1):144-147.(Pu Baoxing,Yang Luming, Xie Dong.Multi-objective optimization algorithm embedded by user preference region [J].Journal of Chinese Computer Systems,2009,1(1): 144-147. )   \n[11] Deb K, Sunder J,Rao N UB,et al. Reference point based multi-objective optimization using evolutionary algorithms [J]. International Journal of Computational Intelligence Research,2006,2 (3): 273-286.   \n[12]黄敏，江渝，毛安，等．基于全局最优位置自适应选取与局部搜索的多 目标粒子群优化算法[J].计算机应用,2014,34(4):1074-1079.(Huang Min, Jiang Yu,Mao An,et al. Multi-objective particle swarm optimization algorithm based on global best position adaptive selection and local search [J]. Journal of Computer Applications,2014,34(4):1074-1079.)   \n[13]于繁华，刘寒冰，戴金波．求解多目标优化问题的灰色粒子群算法[J]. 计算机应用,2006,26(12):2950-2952.(Yu Fuanhua,Liu Hanbing,Dai Jinbo.Grey particle swarm algorithm for multi-objective optimization problems [J]. Computer Applications,2006,26 (12): 2950-2952.)   \n[14]杨景明，马明明，车海军，等．多目标自适应混沌粒子群优化算法[] 控制与决策,2015,30(12): 2168-2174.(Yang Jingming,Ma Mingming, Che Haijun,et al. Multi-objective adaptive chaotic particle swarm optimization algorithm[J].Controland Decision,2015,30(12): 2168-2174.)   \n[15] Zitzler E,Deb K, Thiele L. Comparison of multi-objective evolutionary algorithms: Empirical results [J].IEEE Transon Evolutionary Computation, 2000, 8 (2): 173-195.   \n[16] Deb K,Thiele L,Laumanns M,et al. Scalable test problems for evolutionary multiobjectiveoptimization[C].//Evolutionary Multiobjective Optimization. London: Springer, 2005: 105-145.   \n[17] Nebro A J, Durillo JJ, Garcia-Nieto J, Coello CC,et al. SMPSO: a new PSO-based metaheuristic for multi-objective optimization [C]// Proc of Computational Inteligence in Multi-Criteria Decision-Making.2009:66- 73.   \n[18] Coello Coello CA.A multi-objective particle swarm optimizer based on decomposition [C]//Proc of the 13th Annual Conference on Genetic and Evolutionary Computation. New York: ACM Press,2011: 69-76.   \n[19] Deb K,Pratap A,Agarwal S,et al.A fast and elitist multiobjective genetic algorithm: NSGA-II[J]. IEEE Trans on Evolutionary Computation,2002, 6 (2): 182-197.   \n[20] Zizler E,Laumanns M,Thiele L. SPEA2: Improving the strength Pareto evolutionaryalgorithm [R]. Lanusanne:Swiss Federal Instituteof Technology Computer Engineering and Networks Laboratory,2001 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21] Zhang Qingfu,Li Hui.MOEA//D:A multiobjective evolutionary algorithm based on decomposition [J].IEEE Trans on Evolutionary Computation,2007, 11 (6): 712-731 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22] Van VDA,Lamont G B.Evolutionary Computation and Convergence to a Pareto Front [C]// Proc of the Late Breaking Papers at the Genetic ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Programming Conference.Stanford:Stanford University Bookstore,1998: 221-228. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23]Beume N,Fonseca C M.On the complexity of computing the hyper-volume indicator[J].IEEE Trans on Evolutionary Computation,20o9,13 (5):1075- 1082. ",
+        "page_idx": 7
+    }
+]

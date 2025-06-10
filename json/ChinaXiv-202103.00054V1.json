@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "稳定碳同位素技术在土壤有机碳研究中的应用进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘丽贞1,2，庞丹波12，王新云12，陈　林1,2，李学斌1²，吴梦瑶12，刘波1²，祝忠有1²，李静尧³4，王继飞3.4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.宁夏大学西北退化生态系统恢复与重建教育部重点实验室，宁夏银川750021；2.宁夏大学西北土地退化与生态恢复国家重点实验室培育基地，宁夏银川750021；3.宁夏贺兰山国家级自然保护区管理局，宁夏银川 750021；4.宁夏贺兰山森林生态系统定位观测研究站，宁夏银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：土壤碳周转是大气圈、生物圈与岩石圈之间碳迁移转化的重要过程,其微小变化将影响大气 $\\mathrm { C O } _ { 2 }$ 浓度，改变植物地上与地下部分碳的动态与分配。目前稳定碳同位素技术广泛应用于不同时间尺度与空间尺度碳素生物地球化学循环研究,但缺乏针对稳定碳同位素技术应用于土壤有机碳研究的概述。本文在对当前利用稳定碳同位素技术研究土壤碳起源、动态变化以及周转等资料整理的基础上，简要总结陆地生态系统植物叶片-调落物-土壤连续体、叶片-土壤连续体和土壤中稳定碳同位素 $\\left( 8 ^ { 1 3 } \\mathrm { C } \\right)$ 变化规律。重点介绍了土壤碳素循环的主要影响因素及其适应规律，同时对比 $^ { 1 3 } \\mathrm { C }$ 自然与 $^ { 1 3 } \\mathrm { C }$ 人工标记法的异同,指出利用稳定碳同位素方法研究土壤碳动态过程中应加强的方面和未来的重点研究方向及趋势。明确上述过程及机制可为预测生态系统的源/汇效应奠定基础,加强对陆地生态系统碳循环定量研究,将对土壤碳源/汇潜力的了解和土壤有机碳周转机理的深人了解有所裨益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：稳定碳同位素； $\\ S ^ { 1 3 } \\mathrm { C }$ ；土壤有机碳； $\\Delta \\delta ^ { 1 3 } \\mathrm { C }$ ；影响因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆地生态系统一方面通过植物光合作用吸收大气中的 $\\mathrm { C O } _ { 2 }$ ，另一方面通过如土壤微生物等的自养呼吸或异养呼吸等方式将碳以气体形式返还到大气[1-2]。碳循环主要指碳素在大气圈、生物圈、土壤圈与岩石圈等各圈层之间的迁移转化过程。土壤 $1 \\mathrm { m }$ 深度内的碳储量约为 $2 0 0 0 \\mathrm { G t } ^ { \\left[ 3 \\right] }$ ,其中土壤碳库是大气碳库的2倍，植物碳库的3倍，土壤碳的“汇/源\"效应在很大程度上影响全球碳的收支与平衡[4-7]。近年来， $\\mathrm { C O } _ { 2 }$ 排放速率仍在增长[8],土壤碳库增加 $1 \\%$ ，大气 $\\mathrm { C O } _ { 2 }$ 浓度将减少 $7 \\mathrm { \\ p p m }$ ,土壤碳库对于减缓 $\\mathrm { C O } _ { 2 }$ 浓度的作用很大[9-10]。自《巴黎气候协定》签署后，土壤有机碳(SOC)已成为重要的政治议题[1I-12],全球约2/3的土壤碳以有机碳的形式存在[13]。土壤是连接生物圈、大气圈与岩石圈的重要部分，同时土壤在陆地生态系统与大气$\\mathrm { C O } _ { 2 }$ 交换过程中起着重要的作用，因此土壤碳周转过程是生态系统能量流动的核心问题[14-15]。由于土壤碳周转的复杂性以及研究手段的不足，以往的研究主要是测定土壤碳的含量与状态，而无法准确地把握碳的来源与动态变化。自1958年Keeling开始稳定碳同位素测定实验并提出Keeling曲线[16],稳定碳同位素技术逐步被引入到土壤碳的研究中。运用稳定碳同位素的标记功能，可以整合碳在土壤中的转化过程，为土壤碳周转研究提供指示作用。近年来，随着稳定碳同位素技术在土壤碳循环研究中应用的增加，人们对稳定碳同位素技术重要性的理解逐渐加深。但基于稳定碳同位素技术的土壤碳的来源、转化与释放过程及影响因素介绍不全面。基于此，本文在说明稳定碳同位素概念及其在土壤碳生物地球化学循环应用原理的基础上，阐释稳定碳同位素技术在土壤碳来源、转化与释放过程中的应用，并重点讨论影响土壤碳周转的主要因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1稳定碳同位素技术原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同位素为质子数相同，而中子数(质量数)不同的同一种化学元素的不同形式。同位素分为放射性同位素和稳定同位素。稳定碳同位素分 $^ { 1 2 } \\mathrm { C }$ 与 $^ { 1 3 } \\mathrm { C }$ 两种,其自然丰度分别是 $9 8 . 8 9 \\%$ 与 $1 . 1 1 \\% ^ { [ 1 7 ] }$ 。同位素丰度是指一种元素的同位素混合物中，某特定同位素的原子数与该元素的总原子数之比。同一元素的重同位素与轻同位素的丰度之比常用同位素比率 $( R )$ 表示，例如 ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ 。自然界中轻同位素的丰度远大于重同位素，所以同位素比率很小。在实际工作中为使用方便,常用同位素比值(8值)表示样品中2种同位素 $R$ 值相对于某一标准对应 $R$ 值的相对千分差，表达式为： $\\delta ( \\mathcal { Y } _ { 0 o } ) { = } ( R _ { \\sharp _ { \\mathrm { H } } } / R _ { \\sharp _ { \\mathrm { H } } } { - } 1 ) { \\times } 1 0 0 0 \\% \\delta \\mathfrak { e } ^ { [ 1 8 ] }$ 式中， $R _ { ☉ * \\mathstrut }$ 因标准物的不同而不同，得出的8值也各异。碳同位素的标准物为美国南卡罗来纳州白垩系皮狄组地层中的美洲拟箭石(PeeDeeBelemnite,PDB),其 $R$ 值为 $1 . 1 2 4 \\times 1 0 ^ { - 4 }$ ,现已耗尽。实际多使用人工制备的V-PDB标准物，其 $R$ 值为 $1 . 1 1 7 9 7 \\times 1 0 ^ { - 2 }$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同光化学途径( $\\mathrm { . C } _ { 3 } , \\mathrm { C } _ { 4 }$ 和CAM)因光合羧化酶中 $\\mathrm { R u B P }$ 酶、PEP酶)对C的分馏程度不同，导致 $\\mathrm { \\bf \\cdot \\delta \\delta G }$ 存在差异[19-20]。如 $\\mathrm { C } _ { 3 } \\big ( - 2 2 \\% o { \\sim } - 3 2 \\% o$ ） $\\mathrm { . C _ { 4 } ( - 9 \\% o { \\sim } - 1 7 \\% o ) }$ （204号植物之间差 $1 3 \\% o \\mathrm { \\sim } 1 5 \\% o ^ { [ 2 1 \\mathrm { - } 2 2 ] }$ 。由于植物的碳同位素组成的差异，产生的地面腐殖质和根际沉积物不同。微生物分解植物碎屑过程中，倾向于选择较轻的 $^ { 1 2 } \\mathrm { C }$ ,反过来，土壤基质中的重碳 ${ } ^ { ' { } ^ { 1 3 } \\mathrm { C } ) }$ 变得丰富。因此不同碳同位素组成的植被会显著影响土壤有机碳 $\\mathbf { \\cdot } \\mathbf { \\delta } ^ { 1 3 } \\mathbf { C }$ 特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稳定碳同位素技术以其取样量少、破坏小、准确性高等优势，已成为土壤有机碳研究中一种不可或缺的研究手段[17,23-25]。运用稳定碳同位素技术可定量研究土壤有机质的来源、周转、迁移、稳定性、分解程度等[26-27]。随着稳定碳同位素技术的不断发展，国内外已有大量关于稳定碳同位素的研究，稳定同位素技术不但能从植物个体、不同功能群、植物群落冠层到生态系统等不同尺度对碳动态进行研究[28],还能对在叶片-调落物-土壤连续体、叶片-土壤连续体等碳循环进行研究[23.29]。对植物进行$^ { 1 3 } \\mathrm { C }$ 人工脉冲标记,为研究C在植物、土壤和大气中的动态变化提供新方法[30],而利用植物和土壤 $^ { 1 3 } \\mathrm { C }$ 自然标记功能可方便快捷地预测环境变化对生态系统碳循环过程的影响[31]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 影响土壤稳定碳同位素自然丰度的因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1温度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "温度可通过影响土壤微生物和酶活性以及基质有效性直接或间接地影响碳分解过程[32-33],改变土壤有机碳输入量的大小，进而影响土壤有机碳$\\ S ^ { 1 3 } \\mathrm { C }$ 的丰度。尽管已有研究分析温度对土壤有机碳$\\mathfrak { F } ^ { 1 3 } \\mathrm { C }$ 的影响，但已有的研究结果中存在矛盾，需进一步的研究论证[34-38]。如在 $^ { 1 3 } \\mathrm { C }$ 脉冲标记处理下,对照组中单位温度变化使813Cleaf和813Csoit增加约0.19%[37,39]然而，在青藏高原地区研究发现 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { s o i l } } }$ 与温度呈负相关关系[38]。这可能是在高寒地区低温限制土壤有机质的分解和呼吸，土壤有机碳的周转时间随着温度的降低而增加，因此温度越低， $\\mathfrak { F } ^ { 1 3 } \\mathrm { C }$ 值越大。此外，温度对土壤养分矿化和土壤水分的影响可能直接或间接影响 $\\ S ^ { 1 3 } \\mathrm { C }$ 大小。总体而言，温度对稳定碳同位素的影响作用尚无定论，有待进一步的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2降水",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水分是土壤碳动态的主要驱动因子之一[40],当土壤水分太低，微生物分解有机碳进程受抑制。水分太高，土壤含氧量减少，导致土壤微生物活性降低。目前研究发现土壤有机碳 $\\ S ^ { 1 3 } \\mathrm { C }$ 与水分多存在负相关关系[41-43]。干旱缺水条件下植物通过降低叶片气孔导度，降低了进入叶片内部 $\\mathrm { C O } _ { 2 }$ 的浓度，使得 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { l e a f } } }$ 变大，而植被凋落物是土壤 $^ { 1 3 } \\mathrm { C }$ 的主要来源， $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { l e a f } } }$ 的变化规律反映了水分对 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { s o i l } } }$ 的影响。且高温多水的环境有利于植物残体分解，也利于有机物归还于土壤，土壤有机碳 $\\mathbf { \\cdot } \\mathbf { \\delta } ^ { 1 3 } \\mathbf { C }$ 随水分增大而增大。在研究阿根廷原始森林中植物和土壤的稳定碳同位素组成时发现土壤有机碳 $\\mathbf { \\cdot } \\mathbf { \\delta } ^ { 1 3 } \\mathbf { C }$ 与水分呈正相关规律[44]。尽管研究方向与程度并不相同,诸多研究均已证实水分对土壤有机碳 $\\mathbf { \\delta } ^ { \\mathbf { \\delta } } \\mathbf { \\delta } ^ { \\mathbf { \\delta } } \\mathbf { C }$ 的影响显著。国内外学者对不同降水梯度下土壤有机碳 $\\mathbf { \\cdot } \\mathbf { \\delta } ^ { 1 3 } \\mathbf { C }$ 的典型研究(表1)，经对比发现随降水量增加，土壤有机碳$\\ S ^ { 1 3 } \\mathrm { C }$ 呈现逐渐减少的趋势，在降水量 $3 0 0 0 \\ \\mathrm { m m }$ 左右出现\"拐点”,这与之前研究结果相似[45]。这可能是因为在非常潮湿的环境限制土壤酶与好氧型微生物的活性，进而导致有机碳分解速率减慢，土壤有机碳 $\\mathrm { \\bf \\cdot \\delta \\delta G }$ 丰度增大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3植被类型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被凋落物为土壤碳库的主要来源，每年植物向土壤输入的碳约为 $6 0 \\mathrm { P g } ^ { [ 4 0 ] }$ ,植被类型在很大程度上决定土壤碳库的质量，有研究表明 $\\mathrm { C } _ { 3 }$ 生态系统$\\ S ^ { 1 3 } \\mathrm { C }$ 在土壤表层中富集作用明显，且与土壤理化性质无关，主要受植被凋落物同位素分馏作用的影响[43.57-58]。目前对于植物稳定碳同位素研究多为$\\ S ^ { 1 3 } \\mathrm { C _ { l e a f } }$ 或 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { s o i l } } }$ 对某因子的响应，同时对植物与土壤$\\ S ^ { 1 3 } \\mathrm { C }$ 的研究较少。 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { l e a f } } }$ 会因枯枝落叶对 $\\mathfrak { F } ^ { 1 3 } \\mathrm { C } _ { \\mathrm { s o i l } }$ 产生直接影响，且叶片的叶形与厚度影响土壤微生物的分解速率[59],进而影响土壤碳的输入量，最终导致$\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { s o i l } } }$ 的差异变化。在高山、高原和滨岸[60-62]研究中均发现调落物类型和地表植被类型显著影响土壤有机碳 $\\ S ^ { 1 3 } \\mathrm { C }$ 。因此，不考虑植被而单独研究某种土壤或气候因子对 $\\mathrm { \\ddot { 8 } ^ { 1 3 } C _ { \\mathrm { s o i l } } }$ 的影响，可能会高估或低估该因子的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0caefac5ab4b9b82623f4db53054bb2e8085b88c60426969c79f96695640e7c3.jpg",
+        "table_caption": [
+            "表1对不同降水量地区土壤有机碳 $\\delta ^ { 1 3 } \\mathbf { C }$ 的研究",
+            "Tab.1 Literature review of $\\delta ^ { 1 3 } \\mathbf { C }$ values in SOC with differing mean annual precipitation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究区</td><td>土地利用方式</td><td>年均降水量/mm</td><td>813C/%0</td><td>文献</td></tr><tr><td>宁夏</td><td>草原</td><td>280</td><td>-21.15</td><td>[46]</td></tr><tr><td>中国</td><td>1</td><td>400</td><td>-23.30</td><td>[35]</td></tr><tr><td>青藏高原</td><td>草地</td><td>672</td><td>-24.66</td><td>[42]</td></tr><tr><td>美国肯塔基州</td><td>森林</td><td>1050</td><td>-25.88</td><td>[47]</td></tr><tr><td>广东省湛江市</td><td>森林</td><td>1168</td><td>-27.10</td><td>[41]</td></tr><tr><td>阿巴拉契亚山脉</td><td>森林</td><td>1220</td><td>-27.08</td><td>[48]</td></tr><tr><td>海南省海口市</td><td>森林</td><td>1676</td><td>-26.10</td><td>[41]</td></tr><tr><td>海南省文昌市</td><td>森林</td><td>1741</td><td>-27.50</td><td>[41]</td></tr><tr><td>福建省漳州市</td><td>森林</td><td>1871</td><td>-25.20</td><td>[41]</td></tr><tr><td>澳大利亚东北部</td><td>森林</td><td>2159</td><td>-27.00</td><td>[49]</td></tr><tr><td>印度尼西亚苏门答腊</td><td>森林</td><td>2224</td><td>-29.70</td><td>[50]</td></tr><tr><td>亚马逊东部</td><td>森林</td><td>2500</td><td>-27.70</td><td>[51]</td></tr><tr><td>巴拿马科罗拉多岛</td><td>森林</td><td>2600</td><td>-26.75</td><td>[52]</td></tr><tr><td></td><td>草地</td><td>2600</td><td>-22.30</td><td></td></tr><tr><td>澳大利亚东部</td><td>森林</td><td>3000</td><td>-24.50</td><td>[53]</td></tr><tr><td>新西兰</td><td>森林</td><td>3455</td><td>-28.26</td><td>[54]</td></tr><tr><td>哥伦比亚</td><td>草地</td><td>3500</td><td>-23.78</td><td>[55]</td></tr><tr><td></td><td>森林</td><td>4500</td><td>-27.30</td><td>[35]</td></tr><tr><td>哥斯达黎加</td><td>森林</td><td>4065</td><td>-26.58</td><td>[56]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 土壤性质",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳 $\\ S ^ { 1 3 } \\mathrm { C }$ 在大尺度水平分布情况主要受气候因子与植被类型的影响。因土壤空间异质性大且有机碳在土壤碳库中周转时间长， $\\ S ^ { 1 3 } \\mathrm { C }$ 垂直分布受土壤因子如土壤质地、 $\\mathrm { C / N , p H }$ 和电导率等影响[63-65]。一般来说,土壤 $\\ S ^ { 1 3 } \\mathrm { C }$ 随着粒径的减小而减小[66]。土壤粒径较大不利于微生物分解，且富含$\\ S ^ { 1 3 } \\mathrm { C }$ 的有机碳被微生物吸收，随着时间的推移，更少的 $^ { 1 3 } \\mathrm { C }$ 逐渐转移到更小颗粒中。Wang等[65]发现 $\\mathbb { \\cdot } ^ { 8 ^ { 1 3 } \\mathrm { C } }$ 与细砂粒含量呈显著负相关，与砂粒含量呈显著正相关。与Zhao等[42]研究结果相似。这可能是因为有机质含量的表层土层较丰富，砂粒含量随土壤深度的增加而降低，但深层土壤往往 $\\mathbf { \\delta } \\mathbf { \\delta } \\mathbf { \\delta } \\mathbf { \\delta }$ 更大。土壤中元素含量的高低直接影响稳定同位素技术在土壤碳周转过程的应用和测试结果，如土壤C/N是土壤基质质量的一个指标[42.45.67],由于土壤有机质的微生物分解受到基质质量的限制，C/N高的土壤碳分解速率较低[45],因此，高C/N土壤中微生物的分解速度较快，使得土壤中轻碳( ${ } ^ { 1 2 } \\mathrm { C } )$ 流失而重碳 ${ } ^ { \\prime } { } ^ { 1 3 } \\mathrm { C } \\mathrm { ) }$ 富集,土壤有机碳 $\\mathrm { \\bf \\cdot \\delta \\delta G }$ 值较小。Acton等[47]与Zhao等[42]的研究均得出相似结果。但Michelsen等[68]发现亚北极森林土壤有机碳 $\\mathbf { \\delta } ^ { \\mathrm { 8 ^ { 1 3 } C } }$ 与土壤C/N呈负相关。这可能是由于不同研究区物种组成和气候因子不同所致。土壤 $\\mathrm { \\ p H }$ 、电导率和容重是 $\\ S ^ { 1 3 } \\mathrm { C }$ 变化的主要影响因素,但研究的结果明显矛盾[41-42,64]。这些相互矛盾的结果值得进一步研究，以助更好地了解土壤性质在稳定同位素丰度研究中的重要作用，确定土壤有机碳 $\\mathbf { \\cdot } \\mathbf { \\delta } ^ { 1 3 } \\mathbf { C }$ 丰度变化的主导因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3稳定碳同位素技术在土壤碳循环研究中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1碳输入和释放 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤碳主要来源于凋落物分解和根系分泌物的释放，植物凋落物经土壤微生物分解为有机碳，并释放大量的 $\\mathrm { C O } _ { 2 }$ 回到大气中[42,69]。稳定碳同位素技术可区分同一区域不同植被类型(草、森林、灌木)的碳来源[70]。土壤 $\\ S ^ { 1 3 } \\mathrm { C }$ 可表征有机碳的来源及其动态变化过程，且 $\\mathbb { \\cdot } ^ { 8 ^ { 1 3 } \\mathrm { C } }$ 在土壤垂直分布情况可反映新旧碳混合程度[71-73]。 $\\mathrm { C } _ { 3 }$ 植物和 $\\mathrm { C _ { 4 } }$ 植物分配比例的不同，土壤的稳定同位素组成不同，可能造成不同土壤深度碳来源差异[74-75]。研究处于 $\\mathrm { C } _ { 3 } , \\mathrm { C } _ { 4 }$ 植物混合阶段的土壤碳，结果表层 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤有机碳$\\ S ^ { 1 3 } \\mathrm { C }$ 明显高于其他土层。而 $\\mathrm { C } _ { 4 }$ 植物的有机碳 $\\ S ^ { 1 3 } \\mathrm { C }$ 在 $- 9 \\% o \\mathrm { \\sim } 1 7 \\%$ 之间，高于 $\\mathrm { C } _ { 3 }$ 植物的有机碳 $\\ S ^ { 1 3 } \\mathrm { C }$ （204 $( - 2 2 \\% o \\sim - 3 2 \\% o )$ 。同时发现研究区 $\\mathrm { C _ { 4 } }$ 植物的根分布在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层中，根系分泌物释放对土壤有机碳$\\ S ^ { 1 3 } \\mathrm { C }$ 也会产生影响。经对比发现当 $\\mathrm { C } _ { 3 }$ 植物群落中出现 $\\mathrm { C } _ { 4 }$ 植物时，首先影响表层 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤有机碳$\\ S ^ { 1 3 } \\mathrm { C }$ 。随 $\\mathrm { C _ { 4 } }$ 植物在群落中的增长，土壤有机碳 $\\mathrm { \\bf \\cdot \\delta \\delta G }$ 较之前更为富集[76]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤碳释放过程是大气 $\\mathrm { C O } _ { 2 }$ 浓度和全球气候变化的一个关键组成部分，土壤 $\\mathrm { C O } _ { 2 }$ 仍然是大多数生态系统中第二大碳排放源，占生态系统总呼吸量的$6 0 \\% { \\sim } 9 0 \\%$ 。稳定碳同位素技术为研究土壤碳释放提供一个新的研究方法。一般情况下，土壤呼吸产生的 $\\mathrm { C O } _ { 2 }$ 开始 $^ { 1 3 } \\mathrm { C }$ 出现贫化，之后富集，最后趋于稳定。但因其稳定碳同位素丰度变化不能直接测定，多进行室内培养实验。稳定碳同位素技术还能评估不同组分的停留时间及对土壤呼吸的影响[19]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究根、土壤和凋落物 $\\mathrm { C O } _ { 2 }$ 排放情况，采用$^ { 1 3 } \\mathrm { C }$ 人工标记方法对森林土壤进行原位标记,发现森林土壤C释放的 $\\ S ^ { 1 3 } \\mathrm { C }$ 变化较大，且在生长季节根系对土壤总呼吸的贡献最高[78-80]。Lin等[5]应用稳定碳同位素技术分析不同 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理下道格拉斯冷杉群落的土壤 $\\mathrm { C O } _ { 2 }$ 外排情况，发现根呼吸释放的碳对 $\\mathrm { C O } _ { 2 }$ 浓度升高反应最强烈，且 $6 0 \\% { \\sim } 6 4 \\%$ 的碳释放来自土壤有机质的分解， $23 \\% \\sim 3 2 \\%$ 来自根呼吸。每种碳释放的相对重要性在不同生长季各不相同， $\\mathrm { C _ { 4 } }$ 植物在生长过程中，土壤 $\\mathrm { C O } _ { 2 }$ 的 $\\mathfrak { F } ^ { 1 3 } \\mathrm { C }$ 值较低，这是由于根呼吸对碳释放的贡献率增加所致。而在生长季后期根呼吸的贡献率下降，可能是受到土壤温度梯度变化导致 $\\mathrm { C O } _ { 2 }$ 大多扩散到土壤中而排放量较少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2碳转化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 $^ { 1 3 } \\mathrm { C }$ 自然标记国内外学者利用稳定碳同位素方法对土壤有机碳分解和转化速率进行了研究。赵云飞等[42.81]研究了青藏高原沼泽草甸、草原化草甸和退化草甸的碳分解，发现土壤 $\\ S ^ { 1 3 } \\mathrm { C }$ 随土层加深而增大，退化草甸的碳分解速率大于沼泽草甸和草原化草甸。在Garten等[82]、Acton等[47]与 Zhao等[42]的研究中，土壤 $\\ S ^ { 1 3 } \\mathrm { C }$ 与土壤有机碳含量对数之间的线性回归斜率被定义为β值。 $\\beta { = } \\log _ { \\mathrm { s o c } } / 8 ^ { 1 3 } \\mathrm { C } , \\beta$ 可反映有机碳周转和分解的快慢[42.67,82-83]。斜率越负，$\\beta$ 值下降越大，微生物分解速度越快，有机碳分解与转化速率越快[47]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于每个碳库具有不同的周转速率，从植物到土壤库间的移动具有时滞效应[84-85]。 $\\Delta \\mathfrak { d } ^ { 1 3 } \\mathrm { C } \\left( \\Delta \\mathfrak { d } ^ { 1 3 } \\mathrm { C } = \\right.$ $\\ S ^ { 1 3 } \\mathrm { C _ { l e a f } } - \\ S ^ { 1 3 } \\mathrm { C _ { s o i l } } ,$ 的变化规律可有效阐明碳在植物到土壤库的变化情况[31-33]。因植物的 $\\ S ^ { 1 3 } \\mathrm { C }$ 可准确记录植物生长过程中气候环境信息， $\\Delta \\ S ^ { 1 3 } \\mathrm { C }$ 可综合反应植物体碳同化与土壤碳动态过程[65.86-87]。同时适当开展调落物 $\\ S ^ { 1 3 } \\mathrm { C }$ 的研究,可更全面的阐释植物-土壤生态系统碳的分配特征[58]。对叶片-凋落物-土壤连续体 $\\mathbf { \\delta } ^ { 8 } { } ^ { 1 3 } \\mathbf { C }$ 分布格局及相互作用研究，可揭示森林生态系统中碳循环规律[88-89]。目前关于 $\\Delta \\mathfrak { d } ^ { 1 3 } \\mathrm { C }$ 研究大多数研究仍仅选取耕地、林地或湿地等单一景观作为研究对象，而在多种土壤类型之间展开对比的研究较少，且植被类型、土壤因子与气候因子的耦合作用使得情况复杂化，多种环境和土壤因素的匹配关系究竟如何影响土壤 $\\Delta \\ S ^ { 1 3 } \\mathrm { C }$ 与β值仍有待深入研究。3.2.2 $^ { 1 3 } \\mathrm { C }$ 人工标记 $^ { 1 3 } \\mathrm { C }$ 人工标记法指在植物整个生长季中用 $^ { 1 3 } \\mathrm { C }$ 进行连续标记，可定量测定植物不同时期向土壤的C输入量，进而研究土壤碳周转特征[90-92]。有学者对黑麦草进行 $^ { 1 3 } \\mathrm { C }$ 脉冲标记,发现$2 4 \\mathrm { h }$ 内有 $1 0 \\%$ 以上 $^ { 1 3 } \\mathrm { C }$ 从植物转化到土壤中。1\\~8d根际土壤中 $^ { 1 3 } \\mathrm { C }$ 比例从 $9 0 \\%$ 下降到 $3 5 \\%$ ,在非根际土壤中从 $8 0 \\%$ 下降到 $30 \\%$ $^ { 1 3 } \\mathrm { C }$ 在根际土壤中的转化速度快于非根际[90]。为阐释在碳周转中新固定碳的根沉降作用，对草地进行的 $^ { 1 3 } \\mathrm { C }$ 脉冲重复标记研究，发现标记 $^ { 4 \\mathrm { h } }$ 后 $^ { 1 3 } \\mathrm { C }$ 在根际土壤中显著富集，并在$2 4 { \\sim } 4 8 \\mathrm { ~ h ~ }$ 之间达到峰值[92]。但也有研究发现在标记后的第15d,根中的 $^ { 1 3 } \\mathrm { C }$ 浓度最高[88],这可能因为土壤呼吸使大部分碳迅速流失，而少部分根沉降部分碳进入土壤。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一些学者对半干旱区灌浆期和成熟期小麦进行 $^ { 1 3 } \\mathrm { C }$ 脉冲重复标记,发现 $\\mathrm { C O } _ { 2 }$ 浓度升高( $5 5 0 \\ \\mathrm { p p m } )$ ，小麦的地上部分生物量( $5 5 \\%$ 与 $2 5 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层中小麦根系生物量增加( $1 3 . 5 \\%$ )。土壤中的 $^ { 1 3 } \\mathrm { C }$ 含量增高，且在灌浆期进行 $^ { 1 3 } \\mathrm { C }$ 标记后，土壤中 $^ { 1 3 } \\mathrm { C }$ 显著增加，说明小麦的土壤碳主要在灌浆期转入[93]。有研究得出相似规律，且研究表明 $\\mathrm { C O } _ { 2 }$ 浓度升高，小麦土壤C分解程度和周转速率显著提高[94]。对温带荒漠区唐古特白刺的土壤碳分配研究表明，在标记 $^ { \\textrm { 1 h } }$ 内，新固定的碳大多集中在地上部分，在 $2 4 { \\sim } 4 8 \\mathrm { ~ h ~ }$ 新碳逐渐周转至地下部分，最后约有 $1 6 . 7 \\%$ 存于根系，$1 5 . 8 \\%$ 稳定在土壤碳库中， $3 1 . 9 \\%$ 以土壤呼吸方式返回大气，而 $3 5 . 5 9 \\%$ 的新碳存于地上部分[95]。说明在植物中新固定的碳比例最多，而对蒺藜苜蓿%的研究也得出相似的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 3 } \\mathrm { C }$ 人工标记法可通过直接计算获知土壤碳转化的不同比例与数量，有效阐明碳在土壤中的迁移和转换过程，定量评价碳转化规律。目前 $^ { 1 3 } \\mathrm { C }$ 人工标记法大都采用室内模拟的方法对C4植物土壤进行研究，而对 $\\mathrm { C } _ { 3 }$ 植物等的野外原位检测研究多采用 $^ { 1 3 } \\mathrm { C }$ 自然标记法。今后应加强不同植被类型、不同土壤类型和不同环境条件等多因素交叉试验研究，尤其重视多因子在碳周转中的协同效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，运用稳定碳同位素技术能够阐释陆地生态系统中有机碳的来源、释放与转化过程。运用稳定碳同位素技术研究土壤有机碳，整合植被类型、气候因子和土壤因子，这将有助于对土壤碳周转主导因素研究。随着稳定碳同位素质谱仪、激光光谱同位素分析仪等仪器品种的增加和仪器自动化程度的不断提高，稳定碳同位素技术在碳循环研究中得到广泛应用。总体而言，稳定同位素在研究生态系统碳的周转过程存在优势，同时，受多种因素的限制，该技术也存在一定的不足，如对测试样品量中碳的含量、自然植被覆盖下植被类型较为单一、不同植物有机物归还量和分解转化的时间均有要求。稳定碳同位素技术还不够成熟、检测设备的价格昂贵和结果的精度等限制了该技术在碳循环研究中的进一步推广与使用，且 $^ { 1 3 } \\mathrm { C }$ 在植物体和土壤中分布的不均匀使得取样存在误差。稳定碳同位素技术与其他测试技术如GIS技术等的结合、互补，拓宽了土壤中碳周转过程的研究，且存在有较大的优势。未来研究的重点为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）规范研究方法。稳定碳同位素技术主要运用自然标记的方法，但 $\\mathbb { \\cdot } ^ { 8 ^ { 1 3 } \\mathrm { C } }$ 自然丰度低，且干扰因素多。同时，目前采样、测样以及运用数学模型的规范还未建立，采集的固体样品需用铝箔纸包装，放入冷藏箱中保存带回实验室研究。今后应不断规范研究方法，以求稳定碳同位素技术的广泛应用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）完善对影响碳周转因素的研究。除植被类型、气候因子与土壤性质差异外，人为活动(营林活动特别是干扰强度较大的火烧与皆伐和放牧)都会直接或间接导致 $\\ S ^ { 1 3 } \\mathrm { C _ { \\mathrm { s o i l } } }$ 发生变化。同时深入研究上述因素对陆地生态系统中 $\\delta ^ { 1 3 } \\mathrm { C } _ { \\mathrm { s o i l } } , \\Delta \\delta ^ { 1 3 } \\mathrm { C }$ 和 $| \\beta \\rrangle$ 值的影响，将对土壤碳周转更深层次研究提供可能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）加强分子水平的研究。自然界各种物质间的稳定碳同位素比值存在明显的差异，可根据稳定碳同位素规律和机制来追踪C在生态系统的流动过程。目前应用稳定碳同位素技术多集中在个体-生态系统、种群-生态系统、群落-生态系统、区域-全球等尺度的陆地生态系统土壤碳周转研究中，而在分子尺度的研究，如因微生物对调落物的分解作用而对土壤稳定碳同位素组成影响的研究较少。在以后的研究中应加强对土壤有机碳分子水平尺度的探究，加深对土壤碳周转机理的认知。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 欧阳婷萍,张金兰，曾敬,等.土地利用变化的土壤碳效应研究 进展[J].热带地理,2008,28(3):203-208.[Ouyang Tingping Zhang Jinlan, Zeng Jing,et al.Advances in the study of soil carbon effect of land-use change[J]. Tropical Geography,2Oo8,28(3): 203-208.]   \n[2] 陶波,葛全胜,李克让,等.陆地生态系统碳循环研究进展[J].地 理研究,2001,20(5): 564-575.[Tao Bo,Ge Quansheng,Li Kerang et al.Progress in the studies on carbon cycle in terrestrial ecosystem[J]. Geographicl Research,2001,20(5): 564-575.]   \n[3]李涵诗,毛艳玲,邹双全. $\\ S ^ { 1 3 } \\mathrm { C }$ 标记林木残体碳在土壤团聚体中 的分布[J].土壤学报,2017,54(4):1038-1046.[Li Hanshi,Mao Yanling, Zou Shuangquan. Distribution of $8 ^ { 1 3 } \\mathrm { C }$ -labeled wood residue carbon in soil aggregates[J].Acta Pedologica Sinica,2017, 54 (4): 1038-1046.]   \n[4]Lal R.Soil carbon sequestration impacts on global climate change and food security[J]. Science,2004,304(5677): 1623-1627.   \n[5]Lin G,EhleringerJR,Rygiewicz PT,etal.Elevated $\\mathrm { C O } _ { 2 }$ and temperature impacts on different components of soil COz efflux in Douglas-fir terracosms[J]. Global Change Biology,1999,5(2):157- 168.   \n[6]周玉荣,于振良,赵士洞.我国主要森林生态系统碳贮量和碳平 衡[J].植物生态学报,2000,24(5): 518-522.[Zhou Yurong,Yu Zhenliang, Zhao Shidong. Carbon storage and budget of major Chinese forest types[J]. Acta Phytoecologica Sinica,200,24(5): 518- 522.]   \n[7]潘根兴,曹建华,周运超.土壤碳及其在地球表层系统碳循环中 的意义[J].第四纪研究,20,20(4):325-334.[Pan Genxing, Cao Jianhua, Zhou Yunchao.Soil carbon and its significance in carbon cycling of earth surface system[J]. Quaternary Sciences, 2000,20(4): 325-334.]   \n[8]Smith P.Soil carbon sequestration and biochar as negative emission technologies[J]. Global Change Biology,2016,22(3): 1315- 1324.   \n[9]林光辉.稳定同位素生态学[M].北京:高等教育出版社,2013: 10-35.[Lin Guanghui. Stable Isotope Ecology[M]. Beijing: Higher Education Press, 2013: 10-35.]   \n[10] 周晓宇,张称意,郭广芬.气候变化对森林土壤有机碳贮藏影响 的研究进展[J].应用生态学报,2010,21(7):1867-1874.[Zhou Xiaoyu, Zhang Chengyi, Guo Guangfen. Effects of climate change on forest soil organic carbon storage: A review[J]. Chinese Journal of Applied Ecology,2010,21(7): 1867-1874.]   \n[11]Rumpel C,Amiraslani F, Koutika L S,et al. Put more carbon in soils to meet Paris climate pledges[J]. Nature,2018, 564(7734): 32-34.   \n[12] Zhou G Y,Xu S,Ciais P,et al. Climate and liter C/N ratio constrain soil organic carbon accumulation[J]. National Science Review,2019,6(4): 746-757.   \n[13]BatjesNH.Totalcarbonand nitrogenin thesoilsofthe world[J]. European Journal of Soil Science,1996, (47): 151-163.   \n[14]Lal R. Soil carbon management and climate change[J]. Carbon Management,2013,4(4): 439-462.   \n[15] 徐小锋,田汉勤,万师强.气候变暖对陆地生态系统碳循环的影 响[J].植物生态学报,2007,31(2):175-188.[Xu Xiaofeng,Tian Hanqin,Wan Shiqiang.Climate warming impacts on carbon cycling in terrestrial ecosystems[J]. Journal of Plant Ecology,2007, 31(2): 175-188.]   \n[16]Keeling C D.The concentration and isotopic abundances of atmospheric carbon dioxide in rural areas[J]. Geochimica et Cosmochimica Acta, 1958,13(4): 322-334.   \n[17]朱书法,刘丛强,陶发祥. $\\ S ^ { 1 3 } \\mathrm C$ 方法在土壤有机质研究中的应用 [J].土壤学报,2005,42(3): 495-503.[Zhu Shufa,Liu Congqiang, Tao Faxiang. Use of $\\delta ^ { 1 3 } \\mathrm { C }$ methodin studying soilorganicatter[J]. Acta Pedologica Sinica, 2005,42(3): 495-503.]   \n[18]Mckiney C R, Mccrea JM,Epstein S,et al. Improvements in mass spectrometers for the measurement of small differences in isotope abundance ratios[J].Review of Scientific Instruments, 1950,21(8): 724-730.   \n[19]Amelung W,Brodowski S,Sandhage-Hofmann A,etal.Combining biomarker with stable isotope analyses for assessing the transformation and turnover of soil organic mater[J]. Advances in Agronomy,2008,100: 155-250.   \n[20]Bowling D R,Pataki D E,Randerson JT. Carbon isotopes in terrestrial ecosystem pools and CO $^ { 1 2 }$ fluxes[J].NewPhytologist,2008, 178(1): 24-40.   \n[21]Yakir D,Leonel D S L S.The use of stable isotopes to study eco system gas exchange[J]. Oecologia,2000,123(3): 297-311.   \n[22]Kohn M J. Carbon isotope compositions of terrestrial $\\mathrm { C } _ { 3 }$ plants as indicators of (paleo) ecology and (paleo) climate[J]. PANS,2010, 107(46): 19691-19695.   \n[23] 刘微,吕豪豪,陈英旭,等.稳定碳同位素技术在土壤-植物系 统碳循环中的应用[J].应用生态学报,2008,19(3):674-680. [Liu Wei,Lyu Haohao,Chen Yingxu,et al. Application of stable carbon isotope technique in the research of carbon cycling in soilplant system[J]. Chinese Journal of Applied Ecology,2008,19(3): 674-680.]   \n[24] Cloern JE,Canuel E A,Harris D.Stable carbon and nitrogen isotope composition of aquatic and terrestrial plants of the San FranCiscoBay estuarinesystem[J]. Limnologyand Oceanography, 2002, 47(3): 713-729.   \n[25]Ehleringer JR,Buchmann N,FlanaganLB.Carbon isotopeatios in belowground carbon cycle processes[J]. Ecological Applications,2000,10(2): 412-422.   \n[26] Six J,ElliottET,Paustian K.Soil macroaggregate turnoverand microaggregate formation: A mechanism for C sequestration under no-tillage agriculture[J].Soil Biology and Biochemistry,2000,32 (14): 2099-2103.   \n[27] Tu C L, Liu C Q, Quine TA,et al.Dynamics of soil organic carbon following land-use change: Insights from stable C-isotope analysis in black soil of Northeast China[J].Acta Geochimica,2O18,37(5): 746-757.   \n[28] 陈世苹,白永飞,韩兴国.稳定性碳同位素技术在生态学研究中 的应用[J].植物生态学报,2002,26(5):549-560.[Chen Shiping, Bai Yongfei, Han Xingguo.Applications of stable carbon isotope techniques to ecological research[J].Acta Phytoecologica Sinica, 2002,26(5): 549-560.]   \n[29] 郑兴波,张岩,顾广虹.碳同位素技术在森林生态系统碳循环研 究中的应用[J].生态学杂志,2005,24(11): 84-88.[Zheng Xingbo, Zhang Yan,Gu Guanghong.Application of carbon isotope technique in forest ecosystem carbon cycling research[J]. Chinese Journal of Ecology,2005,24(11): 84-88.]   \n[30]Epron D,Bahn M,Derrien D,et al. Pulse-labelling trees to study carbon allocation dynamics: A review of methods,current knowledge and future prospects[J]. Tree Physiology,2012, 32(6): 776- 798.   \n[31] 周咏春,张文博,程希雷,等.植物及土壤碳同位素组成对环境 变化响应研究进展[J].环境科学研究,2019,32(4):565-572. [Zhou Yongchun, Zhang Wenbo, Cheng Xilei,et al.A review on the responses of plant and soil carbon stable isotope composition to environmental change[J].Research of Environmental Sciences, 2019,32(4): 565-572.]   \n[32]Davidson E A,Janssens I A. Temperature sensitivity of soil carbon decomposition and feedbacks to climate change[J]. Nature,2006, 440(7081): 165-173.   \n[33]Liu X, Su Q,Li C,et al. Responses of carbon isotope ratios of $\\mathrm { C } _ { 3 }$ （204号 herbs to humidity index in northern China[J]. Turkish Journal of Earth Sciences,2014,23: 100-111.   \n[34] Giardina C P,Ryan M G.Evidence that decomposition rates of organic carbon in mineral soil do not vary with temperature[J]. Nature,2000,404(6780): 858-861.   \n[35]Jia YF,Wang G A,Tan QQ,et al. Temperature exerted no influence on the organic carbon isotope of surface soil along the isopleth of 4OO mm mean annual precipitation in China[J]. Biogeosciences Discussions,2016: 1-31. doi: 10.5194/bg-2015-624.   \n[36] Feng Z D, Wang L X,Ji Y H,et al. Climatic dependency of soil organic carbon isotopic composition along the S-N Transect from （204号 $3 4 ^ { \\circ }$ N to $5 2 ^ { \\circ }$ Nincentral-astsia[J].Paleogeograph,l matology,Palaeoecology,2008,257(3): 335-343.   \n[37]Cheng X, Luo Y, Xu X,et al. Soil organic mater dynamics in a North America tallgrass prairie after 9 yr of experimental warming [J. Biogeosciences,2011, 8(6): 1487-1498.   \n[38]Lu HY,Wu N Q,Gu Z A,etal. Distribution of carbon isotope composition of modern soils on the Qinghai- Tibetan Plateau[J]. Biogeochemistry,2004,70: 273-297.   \n[39] 耿元波,王子腾,李茹霞. $8 ^ { 1 3 } \\mathrm { C }$ 值在羊草草原植物体中的差异和 变化及其影响因素分析[J].草地学报,2019,27(1):153-162. [Geng Yuanbo,Wang Ziteng,Li Ruxia.Analysis of differences and influencing factors of plant $\\ S ^ { 1 3 } \\mathrm { C }$ in Leymus chinensis grassland in Inner-Mongolia, China[J].Acta Agrestia Sinica,2019,27 (1): 153-162.]   \n[40] Houghton R A.Aboveground forest biomassand the global carbon balance[J]. Global Change Biology,2005,11(6): 945-958.   \n[41]Gao Y, Zhou J, Wang L M,et al. Distribution patterns and controlling factors for the soil organic carbon in four mangrove forests of China[J]. Global Ecology and Conservation,2019,17: e00575.   \n[42] Zhao YF,Wang X, Ou Y S,et al. Variations in soil $\\ S ^ { 1 3 } \\mathrm { C }$ with alpine meadow degradation on the eastern Qinghai-Tibet Plateau[J]. Geoderma,2019,338:178-186.   \n[43]Deng L, Liu G B, Shangguan Z P.Land-use conversion and changing soil carbon stocks in China’s‘Grain-for-Green’Program: A synthesis[J]. Global Change Biology,2014,20(11): 3544-3556.   \n[44]Peri P L,Ladd B,Pepper D A,et al. Carbon ( $\\ S ^ { 1 3 } ($ ）and nitrogen （204号 $( 8 ^ { 1 5 } \\mathrm { N } )$ stable isotope composition in plant and soil in Southern Patagonia's native forests[J]. Global Change Biology,2012,18(1): 311-321.   \n[45]Xu X,Shi Z,Li D J, et al. Soil properties control decomposition of soil organic carbon: Results from data- assimilation analysis[J]. Geoderma,2016,262: 235-242.   \n[46]An H,Li QL,Yan X,etal.Desertficationcontrolonsoil inorganic and organic carbon accumulation in the topsoil of desert grassland in Ningxia,Northwest China[J],Ecological Engineering,2019, 127: 348-355.   \n[47]ActonP,FoxJ,CampbellE,etal.Carbon isotopes forstiating soil decomposition and physical mixing in well-drained forest soils [J].Journal of Geophysical Research: Biogeosciences,2013,118 (4): 1532-1545.   \n[48] CampbellJE,Fox JF,Davis C M,et al. Carbon and nitrogen isotopic measurements from southern Appalachian soils:Assessing soil carbon sequestration under climate and land-use variation[J]. Journal of Environmental Engineering,2009,135(6): 439-448.   \n[49]Richards AE,Dalal R C, Schmidt S.Soil carbon turnover and sequestration in native subtropical tree plantations[J]. Soil Biology and Biochemistry,2007,39(8): 2078-2090.   \n[50]Guillaume T,Damris M, Kuzyakov Y.Losses of soil carbon by converting tropical forest to plantations: Erosion and decomposition estimated by $8 ^ { 1 3 }$ C[J].Global Change Biology,2015,21(9):3548- 3560.   \n[51]Desjardins T,Andreux F,Volkoff B,et al. Organic carbon and $^ { 1 3 } \\mathrm { C }$ （204号 contents in soils and soil size-fractions,and their changes due to deforestation and pasture installation in eastern Amazonia[J]. Geoderma,1994,61(1): 103-118.   \n[52]Schwendenmann L,Pendall E.Efects of forest conversion into grassland on soil aggregate structure and carbon storage in Panama: Evidence from soil carbon fractionation and stable isotopes[J]. Plant andSol,,28(2):   \n[53]Wynn J,Bird M, Wong V.Rayleigh distillation and the depth profile of ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ ratiosofsoilorganiccarbonfromsoilsofdispaate texture in Iron Range National Park,Far North Queensland,Australia [J]. Geochimica et Cosmochimica Acta,2005,69(8): 1961-1973.   \n[54]Brunn M, Condron L,Wells A,et al. Vertical distribution of carbon and nitrogen stable isotope ratios in topsoils across a temperate rainforest dune chronosequence in New Zealand[J]. Biogeochemistry,2016,129(1-2): 37-51.   \n[55] Mosquera O, Buurman P,Ramirez B L,et al. Carbon replacement and stability changes in short-term silvo-pastoral experiments in Colombian Amazonia[J].Geoderma,2012,170: 56-63.   \n[56]Powers JS, Schlesinger W H. Geographic and vertical patterns of stable carbon isotopes in tropical rain forest soils of Costa Rica[J]. Geoderma,2002,109(1): 141-160. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[57]Li DJ, Niu SL,Luo YQ.Global patterns of the dynamics of soil ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "carbon and nitrogen stocks following afforestation: A meta-analysis [J]. New Phytologist,2012,195(1): 172-181.   \n[58]何春霞,李吉跃,张燕香,等.5种绿化树种叶片比叶重、光合色 素含量和 $\\ S ^ { 1 3 } \\mathrm { C }$ 的开度与方位差异[J].植物生态学报,2010,34 (2):134-143.[He Chunxia, Li Jiyue,Zhang Yanxiang,et al.Differences in leaf mass per area, photosynthetic pigments and $\\ S ^ { 1 3 } \\mathrm { C }$ （20 by orientation and crown position in five greening tree species[J]. Chinese Journal of Plant Ecology,2010,34(2): 134-143.]   \n[59] 熊鑫,张慧玲,吴建平,等.鼎湖山森林演替序列植物-土壤碳 氮同位素特征[J].植物生态学报,2016,40(6):533-542.Xiong Xin, Zhang Huiling, Wu Jianping,et al. $^ { 1 3 } \\mathrm { C }$ and $\\mathrm { ^ { 1 5 } N }$ isotopic signatures of plant-soil continuum along a successional gradient in Dinghushan Biosphere Reserve[J]. Chinese Journal of Plant Ecology, 2016, 40(6): 533-542.]   \n[60] 吴健,沙晨燕,王敏,等.典型滨岸草地生态系统碳稳定同位素 组成及分布特征[J].应用生态学报,2017,28(7):2231-2238. [Wu Jian, Sha Chenyan,Wang Min,et al.Composition and distribution characteristics of stablecarbon isotope in typical riparian grassand ecosystem[J].Chinese Journal of Applied Ecology, 2017,28(7): 2231-2238.]   \n[61］ 綦琳.青藏高原东缘表土有机碳同位素分布特征及其主控因素 研究[D].北京:中国地质大学,2017.[Qi Lin.Distribution of Organic Carbon Isotope Composition for Mordern Soils form the Eastern Marfin of the Tibetan Plateau and its Main Controlling Factors [D]. Beijing: China University of Geosciences, 2017.]   \n[62]Garten Jr. C T,Cooper L W,Post II W M,et al. Climate controls on forest soil C isotope ratios in the southern Appalachian Mountains[J]. Ecology,2000,81(4): 1108-1119.   \n[63]Shtangeeva I, Busa L,Viksna A. Carbon and nitrogen stable isotope ratios of soils and grasses as indicators of soil characteristics and biological taxa[J]. Applied Geochemistry,2019,104: 19-24.   \n[64]DengL,Wang K,Tang Z,et al. Soil organic carbon dynamics following natural vegetation restoration: Evidence from stable carbon isotopes ( $\\hat { \\boldsymbol { \\delta } } ^ { 1 3 }$ C)[J].Agriculture Ecosystems & Environment,2016, 221: 235-244.   \n[65] Wang S Q,Fan JW,Song M H, et al. Patterns of SOC and soil $^ { 1 3 } \\mathrm { C }$ and their relations to climatic factors and soil characteristics on the Qinghai- Tibetan Plateau[J]. Plant and Soil,2013,363(1-2): 243-255.   \n[66]Bird MI, Veenendaal E M,Lloyd JJ. Soil carbon inventories and （20 $\\ S ^ { 1 3 } \\mathrm { C }$ along a moisture gradient in Botswana[J]. Global Change Biology,2004, (10): 342-349.   \n[67]Wang C,Houlton B Z, Liu D W,et al. Stable isotopic constraints on global soil organic carbon turnover[J]. Biogeosciences,2018, (15): 987-995.   \n[68] Michelsen A, Jonasson S, Sleep D,et al. Shoot biomass, $\\ S ^ { 1 3 } \\mathrm { C }$ , nitrogen and chlorophyll responses of two arctic dwarf shrubs to in situ shading,nutrient application and warming simulating climatic change[J]. Oecologia,1996,105(1): 1-12.   \n[69]Kuzyakov Y. Sources of $\\mathrm { C O } _ { 2 }$ efflux from soil and review of partitioning methods[J].Soil Biology and Biochemistry,2006,38(3): 425-448.   \n[70] 刘琦.黄土丘陵区不同土地利用土壤呼吸及其碳来源研究[D]. 西安:西安理工大学,2018.[Liu Qi. The Soil Respiration and its Carbon Source under Different Land Use Conditions in Loess Hilly Region[D].Xi'an: Xi'an University of Technology,2018.]   \n[71] 刘哲,韩霁昌,孙增慧,等. $\\ S ^ { 1 3 } \\mathrm { C }$ 法研究砂姜黑土添加秸秆后团 聚体有机碳变化规律[J].农业工程学报,2017,33(14): 179 187.[Liu Zhe,Han Jichang,Sun Zenghui,et al. Change law of organiccarboninlimeconcretionblacksoilaggegates withapplica tion of straw by $\\delta ^ { 1 3 } \\mathrm { C }$ method[J]. Transactions of the Chinese Society of Agricultural Engineering,2017,33(14): 179-187.]   \n[72] 涂成龙,刘丛强,武永锋.应用 $\\ S ^ { 1 3 } \\mathrm { C }$ 值探讨林地土壤有机碳的分 异[J].北京林业大学学报,2008,30(5):1-6.[Tu Chenglong, Liu Congqiang,Wu Yongfeng. Discussing variance of forest soil organic carbon by analysis of $\\delta ^ { 1 3 } \\mathrm { C }$ [J].Journal of Beijing Forestry University,2008,30(5): 1-6.]   \n[73] 尹云锋,蔡祖聪.利用 $\\ S ^ { 1 3 } \\mathrm { C }$ 方法研究添加玉米秸秆下红壤总有 机碳和重组有机碳的分解速率[J].土壤学报,2007,44(6): 1022-1027.[Yin Yunfeng, Cai Zucong.Decmposition rates of organic carbon in whole soil and heavy fraction of red soil incorporated with maize stalks using carbon-13 natural abundance[J].Acta Pedologica Sinica,2007,44(6): 1022-1027.]   \n[74]Bai E,Boutton T W,Liu F,et al. Spatial patterns of soil $\\ S ^ { 1 3 } \\mathrm { C }$ reveal grassland-to-woodland successional processes[J]. Organic Geochemistry,2012,42(12): 1512-1518.   \n[75] Liu C,Dong Y T,Li Z W,et al. Tracing the source of sedimentary organic carbon in the Loess Plateau of China: An integrated elementalratio,stablearbonsigatures,nddioactiveisoopach [J]. Journal of Environmental Radioactivity,2O16,167: 201-210.   \n[76] 吴英.大针茅草原放牧退化过程中土壤有机碳组分及其来源研 究[D].呼和浩特:内蒙古大学,2017.[Wu Ying.Study on Fractions of Soil Organic Carbon and its Sources during Grazing Degradationof Stipa Grandis[D].Hohhot: Iner Mongolia University, 2017.]   \n[77]Longdoz B, Yernaux M,Aubinet M. Soil CO $2$ efflux measurements in a mixed forest: Impactof chamber disturbances,spatial vriability and seasonal evolution[J]. Global Change Biology,2000,6(8): 907-917.   \n[78]Mcdowell W H, Magill A H,Aitkenhead-Peterson JA,et al. Effects of chronic nitrogen amendment on disolved organic mater and inorganic nitrogen in soil solution[J].Forest Ecology and Management,2004,196(1): 29-41.   \n[79] Hanson PJ, Edwards N T, Garten C T, et al. Separating root and soil microbial contributions to soil respiration: A review of methods and observations[J]. Biogeochemistry,200o,48(1): 115-146.   \n[80] Knohl A,Buchmann N.Partitioning the net CC $^ { \\prime } { } _ { 2 }$ flux of a deciduous forest into respiration and assimilation using stable carbon isotopes[J]. Global Biogeochemical Cycles,2005,19(4): 1-14.   \n[81] 赵云飞,汪霞,欧延升,等.若尔盖草甸退化对土壤碳、氮和碳稳 定同位素的影响[J].应用生态学报,2018,29(5):1405-1411. [Zhao Yunfei,Wang Xia,Ou Yansheng,et al. Eects of alpine meadow degradation on soil carbon,nitrogen,and carbon stable isotope in Zoige Plateau[J]. Chinese Journal of Applied Ecology, 2018,29(5): 1405-1411.]   \n[82]Garten Jr C T.Relationships among forest soil C isotopic composition,partitioning,and turnover times[J]. Canadian Journal of Forest Research,2006,36(9): 2157-2167.   \n[83]Bernoux M, Cerri C C,Neill C,et al. The use of stable carbon isotopes for estimating soil organic matter turnover rates[J]. Geoderma,1998,82(1): 43-58.   \n[84] Maricle BR, Zwenger S R,Lee R W. Carbon,nitrogen,and hydrogen isotope ratios in creekside trees in western Kansas[J]. Environmental and Experimental Botany,2011,71(1): 1-9.   \n[85]Canadell JG,Kirschbaum MU, Kurz WA,et al. Factoring out natural and indirect human effects on terrestrial carbon sources and sinks[J]. Environmental Science & Policy,2007,10(4): 370-384.   \n[86] 刘贤赵,宿庆,李嘉竹,等.控温条件下 $\\mathrm { C } _ { 3 } \\mathrm { , C } _ { 4 }$ 草本植物碳同位素 组成对温度的响应[J].生态学报,2015,35(10):3278-3287. [Liu Xianzhao,Su Qing,Li Jiazhu,et al.Responses of carbon isotopic composition of $\\mathrm { C } _ { 3 }$ and $\\mathrm { C _ { 4 } }$ herbaceous plants to temperature under controlled temperature conditions[J].Acta Ecologica Sinica, 2015,35(10): 3278-3287.]   \n[87] 何春霞,李吉跃,孟平,等.树木叶片稳定碳同位素分馏对环境 梯度的响应[J].生态学报,2010,30(14):3828-3838.[He Chunxia,Li Jiyue,Meng Ping,et al. Changes in leaf stable carbon isotope fractionation of trees across climatic gradients[J].Acta Ecologica Sinica,2010,30(14): 3828-3838.]   \n[88] 喻阳华,程雯,杨丹丽,等.黔西北次生林优势树种叶片-凋落 物-土壤连续体有机质碳稳定同位素特征[J].生态学报,2018, 38(24): 8733-8740.[Yu Yanghua, Cheng Wen,Yang Danli,et al. Carbon stable isotopic characteristics of organic matter in the leaflitter-soil continuum of dominant tree species in a secondary forest in northwestern Guizhou[J].Acta Ecologica Sinica,2018,38(24): 8733-8740.]   \n[89] 司高月,李晓玉,程淑兰,等.长白山垂直带森林叶片-调落物- 土壤连续体有机碳动态——基于稳定性碳同位素分析[J].生 态学报,2017,37(16): 5285-5293.[Si Gaoyue,Li Xiaoyu, Cheng Shulan,et al. Organic carbon dynamics of the leaf-liter-soil continuum in the typical forests of the Changbai Mountain transect: An analysis of stable carbon isotope technology[J].Acta Ecologica Sinica,2017,37(16): 5285-5293.]   \n[90]Butler JL,Bottomley PJ,Griffith S M,et al.Distribution and turnover of recently fixed photosynthate in ryegrass rhizospheres[J]. Soil Biology and Biochemistry,2004,36(2): 371-382.   \n[91]Wu Y B,Tan HC,Deng YC,et al.Partitioning patern of carbon flux in a Kobresia grassland on the Qinghai- Tibetan Plateau revealed by field $^ { 1 3 } \\mathrm { C }$ pulse-labeling[J]. Global Change Biology,2010, 16(8): 2322-2333.   \n[92] Johnson D, Leake JR,Ostle N,et al.In situ $^ { 1 3 } \\mathrm { C O } _ { 2 }$ pulse-labelling of upland grassand demonstrates a rapid pathway of carbon flux from arbuscular mycorrhizal mycelia to the soil[J].New Phytologist,2002,153:327-334.   \n[93]Butterly CR,Armstrong R,Chen D,et al.Carbon and nitrogen partitioning of wheat and field pea grown with two nitrogen levels under elevated CO2[J].Plant and Soil,2015,391(1-2): 367-382.   \n[94]马田,刘肖,李骏,等. $\\mathrm { C O } _ { 2 }$ 浓度升高对土壤-植物(春小麦)系统 光合碳分配和积累的影响[J].核农学报,2014,28(12):2238- 2246.[Ma Tian,Liu Xiao,Li Jun,et al. Effects of elevated atmospheric $\\mathrm { C O } _ { 2 }$ on the distribution and accumulation of photosynthetic carbon in soil-plant (Spring Wheat) system[J]. Journal of Nuclear Agricultural Sciences,2014,28(12): 2238-2246.]   \n[95] 李新乐,鲍芳,吴波,等.荒漠植物白刺新固定碳在植物-土壤 系统中的分配[J].草业学报,2019,28(2):33-40.[Li Xinle,Bao Fang,Wu Bo,et al.Distribution of newly fixed carbon of nitraria tangutorumin the plant- soil system[J].Acta Prataculturae Sinica. 2019,28(2): 33-40.]   \n[96]Crawford M C,Grace PR,Oades JM. Allocation of carbon to shoots,roots,soil and rhizosphere respiration by barrel medic (Medicago truncatula) beforeand after defoliation[J].Plant and Soil,2000,227(1-2): 67-75. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Application of stable carbon isotope technique in soil organic carbon research: A literature review ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIU Lizhen1²，PANG Danbo²，WANG Xinyun1²，CHEN Lin'²，LI Xuebin'2, WU Mengyaol²，LIU Bo'²，ZHU Zhongyoul²，LI Jingyao³4，WANG Jifei34   \n(1.Breeding Base for State Key Laboratory ofLand Degradationand Ecological Restoration in Northwest China,   \nNingxia University,Yinchuan 75o21,Ningxia,China; 2.KeyLaboratory for RestorationandReconstructionof   \nDegraded Ecosystemin Northwest Chinaof MinistryofEducation,Ningxia University,Yinchuan75oO21,Ningxia, China; 3.Ningxia Helan Mountain National Nature Reserve Management Bureau, Yinchuan 75OO21,Ningxia, China;4.Ningxia Helan Mountain Forest Ecosystem Location Observation and Research Station, Yinchuan 750021,Ningxia, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil carbon turnover is an important part of carbon transfer between the atmosphere,biosphere,and lithosphere. Even small changes in the soil carbon pool could affect the atmospheric $\\mathrm { C O } _ { 2 }$ concentration and dynamic carbon above and underground. Stable carbon isotope technology is currently used widely in carbon biogeochemical cycle research at diferent time and space scales.However,there is a lack of integration of this technology with soil carbon turnover research.This literature review examined numerous studieson the application of stable carbon isotope technology to soil carbon origin,turnover,and dynamic changes. It also analyzed stable carbon isotope $( \\delta ^ { 1 3 } \\mathrm { C } )$ variations in the leaf-liter-soil leaf-soil continuums,and terrestrial ecosystems; focusing on (1) the characteristics of stable carbon isotope technology in the soil carbon cycle,(2) the main factors influencing the cycle,(3） the adaptive rules of soil carbon cycle turnover,(4） the similarities and differences between natural and artificial $^ { 1 3 } \\mathrm { C }$ labeling methods,and (5) the aspects of future research integration that should be emphasized.This review could elucidate therole of soil carbon sources and sinks in terrestrial ecosystems and soil organic carbon turnover mechanisms and processes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords:stable carbon isotope; $\\delta ^ { 1 3 } \\mathrm { C }$ ；soil organic carbon; $\\Delta \\delta ^ { 1 3 } \\mathrm { C }$ ；influence factors ",
+        "page_idx": 9
+    }
+]

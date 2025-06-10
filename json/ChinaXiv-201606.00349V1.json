@@ -1,0 +1,293 @@
+[
+    {
+        "type": "text",
+        "text": "Electroweak Beautygenesis: From $b \\to s$ CP-violation to the Cosmic Baryon Asymmetry ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tao Liu,1 Michael J. Ramsey-Musolf,² and Jing Shu ${ } ^ { 3 , 4 }$ $^ { 1 }$ Department of Physics， University of California， Santa Barbara, CA 93106, USA （204号 $\\mathcal { Z }$ Department of Physics，University of Wisconsin， Madison，WI 53706,USA   \nand Kellogg Radiation Laboratory，California Institute of Technology，Pasadena，CA 91125 （204号 $^ { 3 }$ Institute for the Physics and Mathematics of the Universe, University of Tokyo，Kashiwa， Chiba 277-8568， Japan   \nInternational School for Advanced Studies (SISSA)， Via Bonomea 265, I-34136 Trieste, Italy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We address the possibility that CP-violation in $B _ { s } \\mathrm { ~ - ~ } B _ { s }$ mixing may help explain the origin of the cosmic baryon asymmetry.We propose a new baryogenesis mechanism - “Electroweak Beautygenesis”- explicitly showing that these two CP-violating phenomena can be sourced by a common CP-phase.As an illustration,we work in the Two-Higgs-Doublet model. Because the relevant CPphase is favoroff-diagonal,this mechanism is less severely constrained bynull results of electric dipole moment searches than other scenarios.We show how measurements of flavor observables by the DO,CDF,and LHCb collaborations test this scenario. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction The baryon asymmetry of the Universe (BAU) has been precisely measured by the WMAP collaboration. Combining its five year results with those from other CMB and large scale structure measurements gives $\\Omega _ { b } h ^ { 2 } \\ : = \\ : 0 . 0 2 2 6 5 \\pm 0 . 0 0 0 5 9$ [1] which is in excellent agreement with the 95% C.L.range $0 . 0 1 7 - 0 . 0 2 4$ obtained from Big Bang Nucleosynthesis [2]. The implied ratio of baryon density $n _ { B }$ to entropy $s$ is $n _ { B } / s = $ $( 8 . 8 2 \\pm 0 . 2 3 ) \\times 1 0 ^ { - 1 1 }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To generate the observed BAU,three Sakharov criteria [3] must be satisfied in the early Universe:(1) baryon number violation;(2) C and CP violation;(3)a departure from thermal equilibrium (or CPT violation).These requirements are not unconquerable,though doing so requires physics beyond the Standard Model (SM) of particle physics.Indeed,there exist a number of possibilities, though none have been conclusively established.One of the most popular - standard thermal leptogenesis - provides a theoretically attractive solution,yet it is generally difficult to test experimentally. It is,therefore,worth considering scenarios that may be more directly tested laboratory experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A particularly interesting and largely unexplored possibility involves CP-violation that enters the $B _ { s }$ meson system. The relevant phases are generically flavor offdiagonal,making them less susceptible to constraints from searches for permanent electric dipole moments (EDMs) that challenge other baryogenesis scenarios (for an illustration in the Minimal Supersymmetric Standard Model (MSSM)，see，e.g. [4]）. Moreover，recent measurementsinB-factoriesand at the Tevatron exhibit indications of CP-violation that differ by a few standard deviations from the SM predictions [5,6],though even more recent results from the LHCb collaboration favor smaller effects [7].From a theoretical perspective if the CP phase(s) encoding the CP-violation in $B _ { s }$ system can successfully drive the generation of the BAU and can be probed experimentally,our understanding of the BAU problem will be considerably advanced. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter,we report on an initial effort addressing this question. We propose a new mechanism in the framework of Electroweak Baryogenesis (EWBG)，explicitly showing that the CP-violating phenomena characterized by different energy scales ( $B _ { s }$ observables and BAU) can be sourced by a common CP-phase. As an illustration, we will work in a Two-Higgs-Doublet Model (2HDM). In this context,if a sufficiently strong,first-order electroweak phase transition (EWPT）occurs in the early Universe，the CP phase associated with the tree-level, Higgs- $b$ $s$ interaction at the phase boundary can induce CP-asymmetries that ultimately induce the BAU.While EWBG in the 2HDM has been discussed extensively in the past [8], including two recent studies using the 2HDM that have addressed the possible connection between the BAU and $B _ { s }$ observables[9] (see also [1O])，we emphasize that the mechanism discussed below is the only one thus far to explore the feasibility of baryogenesis directly driven by the $b  s$ CP-violation. Given the novel features that are generically absent elsewhere and the crucial role played by “beauty” quarks,we denote this mechanism “Electroweak Beautygenesis” (EWBTG). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In what follows,we concentrate on the issue of CPviolation and do not treat the question of the first order EWPT in the 2HDM.Following Ref.[9],we instead refer the reader to more general studies that may indicate its feasibility [8]. We note,however，that these analyses are typically gauge-dependent and therefore open to question. Rather than delve into these subtleties of perturbative treatments of the EWPT,we also refer the readers to a recent and more extensive discussion [11]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two Higgs Doublet Model The Higgs sector in the general 2HDM is ( $H _ { u , d }$ are Higgs doublets with their SM gauge charges being $( 0 , 2 , \\pm 1 / 2 )$ ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { L } = \\lambda _ { i j } ^ { u } \\bar { Q } ^ { i } ( \\epsilon H _ { d } ^ { \\dagger } ) u _ { R } ^ { j } - \\lambda _ { i j } ^ { d } \\bar { Q } ^ { i } H _ { d } d _ { R } ^ { j } } \\\\ { - y _ { i j } ^ { u } \\bar { Q } ^ { i } H _ { u } u _ { R } ^ { j } + y _ { i j } ^ { d } \\bar { Q } ^ { i } ( \\epsilon H _ { u } ^ { \\dagger } ) d _ { R } ^ { j } + h . c . . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ina supersymmetric embedding,the first term can arise at loop level [12]. For experimental relevance,we focus on the two flavor $b$ $s$ system,with its mass matrix ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { i j } = y _ { i j } v _ { u } + \\lambda _ { i j } v _ { d } = ( y _ { i j } \\sin \\beta + \\lambda _ { i j } \\cos \\beta ) v ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $v _ { u , d }$ are vacuum expectation values (VEVs) of the neutral Higgs fields with $v ~ = ~ \\sqrt { v _ { u } ^ { 2 } + v _ { d } ^ { 2 } }$ and $\\tan \\beta \\ =$ $v _ { u } / v _ { d }$ ： $v _ { u , d }$ are functions of spacetime during the EWPT. Meanwhile, $H _ { b s } = - \\cos \\beta H _ { u } + \\sin \\beta H _ { d } ^ { \\dagger }$ ,a linear combination of Higgs mass eigenstates,will introduce flavorchanging neutral current effects at zero temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since we are investigating the feasibility that a common phase can source the BAU and account for the $B _ { s }$ CP-violating observables,we will work in a simplified but suffciently representative scenario, deferring a more comprehensive treatment to future work where the following scenario would arise in one region of parameter space.First,we take $\\tan \\beta = 1$ at zero temperature,emphasizing that $\\tan \\beta$ is not a constant during an EWPT. Second,we assume $y _ { s b } = \\lambda _ { s b } = m _ { s b } = 0$ .In the limit of $y _ { s s } , \\lambda _ { s s } \\to 0$ , there is one CP-violating phase after appropriate field redefinitions.Without loss of generality, we assume that $\\lambda _ { b s }$ is complex (with $\\theta _ { \\lambda _ { b s } } = \\mathrm { A r g } ( \\lambda _ { b s } ) )$ and $y _ { b s } , ~ y _ { b b }$ and $\\lambda _ { b b }$ are real,and furthermore,assume $\\lambda _ { i i } = y _ { i i }$ and $| \\lambda _ { b s } | = | y _ { b s } |$ . The mass matrix is then ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { \\pm 2 \\xi _ { s s } } } & { { 0 } } \\\\ { { \\xi _ { b s } ( \\pm 1 + e ^ { i \\theta _ { \\lambda _ { b s } } } ) } } & { { \\pm 2 \\xi _ { b b } } } \\end{array} \\right) v ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "here $\\xi _ { i j } = | \\lambda _ { i j } | / \\sqrt { 2 }$ and the “ $\\pm$ ” signs are due to $y _ { s s }$ ， $y _ { b s }$ and $y _ { b b } >$ or $< 0$ . Denoting $m _ { b s }$ as $m _ { b s } = \\Delta \\exp ( i \\theta )$ ，we have $\\Delta = 2 \\xi _ { b s } | \\cos ( \\theta _ { \\lambda _ { b s } } / 2 ) | v$ ， $\\theta = \\theta _ { \\lambda _ { b s } } / 2$ for $y _ { b s } > 0$ ,and （204号 $\\Delta = 2 \\xi _ { b s } | \\sin ( \\theta _ { \\lambda _ { b s } } / 2 ) | v$ ， $\\theta = ( \\theta _ { \\lambda _ { b s } } + \\pi ) / 2$ for $y _ { b s } < 0$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The mass matrix can be diagonalized by a unitary transformation $U _ { L } ^ { \\dag } M U _ { R } = D$ .In the small $m _ { s s }$ limit, $U _ { L }$ is trivial and $U _ { R }$ is parametrized by a rotation angle （204号 $\\alpha _ { R } = - \\arctan ( \\Delta / m _ { b b } )$ . The coupling of $H _ { b s }$ and $b _ { L } , s _ { R }$ quarks in the mass eigenstate basis is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta _ { b s } = \\xi _ { b s } [ \\mp 1 + \\exp ( i \\theta _ { \\lambda _ { b s } } ) ] \\cos \\alpha _ { R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\mathrm { A r g } ( \\zeta _ { b s } ) = \\theta \\pm \\pi / 2$ for $y _ { b s } > 0$ and $< 0$ ,respectively. It is just the phase $\\theta$ (or $\\theta _ { \\lambda _ { b s } }$ ）that both introduces CPviolation in $b  s$ transitions (via $\\zeta _ { b s }$ ）and source the generation of baryon asymmetry (via $m _ { b s }$ ). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electroweak Beautygenesis Production of the BAU duringa first-orderEWPT involvesa dynamic generation of CP-violating charge asymmetries through particle interactions in the wall of nucleated bubbles.Those charge asymmetries are converted，via left-handed fermions $( n _ { L } )$ ，into the baryon asymmetry through the electroweak sphaleron transitions.We ignore the wall cur vature in our analysis so all relevant functions depend on the variable $\\hat { z } \\ = \\ z + v _ { w } t$ .Here $v _ { w }$ is the wall velocity; $\\bar { z } < 0$ and $> 0$ correspond to the unbroken and broken phases,respectively;and the boundary extends over $0 ~ < ~ \\bar { z } ~ < ~ L _ { w }$ . As pointed out in [19]，the transport properties of particles during the EWPT is most appropriately treated using non-equilibrium quantum field theory. Working in its closed time path formulation (for pedagogical discussions,see [2O]） and under the“VEVinsertion”approximation (see,e.g.,Refs.[9,19-21]),we compute the CP-violating source induced by the Higgs mediated process $b _ { L }  s _ { R }  b _ { L }$ . It is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { S _ { b _ { L } } ^ { \\mathcal { G } \\mathrm { P } } = } & { - S _ { s _ { R } } ^ { \\mathcal { G } \\mathrm { P } } = \\displaystyle \\frac { N _ { c } \\Delta ( \\bar { z } ) ^ { 2 } } { \\pi ^ { 2 } } \\dot { \\theta } ( \\bar { z } ) \\int _ { 0 } ^ { \\infty } \\frac { d k k ^ { 2 } } { \\omega _ { b _ { L } } \\omega _ { s _ { R } } } } \\\\ & { \\times \\mathrm { I m } \\Big \\{ \\displaystyle \\frac { ( \\mathcal { E } _ { b _ { L } } ^ { * } \\mathcal { E } _ { s _ { R } } - k ^ { 2 } ) \\big ( n _ { F } \\big ( \\mathcal { E } _ { s _ { R } } \\big ) - n _ { F } \\big ( \\mathcal { E } _ { b _ { L } } ^ { * } \\big ) \\big ) } { ( \\mathcal { E } _ { s _ { R } } - \\mathcal { E } _ { b _ { L } } ^ { * } ) ^ { 2 } } } \\\\ & { + \\displaystyle \\frac { ( \\mathcal { E } _ { b _ { L } } \\mathcal { E } _ { s _ { R } } + k ^ { 2 } ) \\big ( n _ { F } \\big ( \\mathcal { E } _ { s _ { R } } \\big ) + n _ { F } \\big ( \\mathcal { E } _ { b _ { L } } \\big ) \\big ) } { \\big ( \\mathcal { E } _ { s _ { R } } + \\mathcal { E } _ { b _ { L } } \\big ) ^ { 2 } } \\Big \\} \\quad . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $n _ { F } ( x ) { = } 1 / ( \\exp ( x ) + 1 )$ is the Fermi distribution; tral function with Wbs $\\mathcal { E } _ { b _ { L } , s _ { R } } = \\omega _ { b _ { L } , s _ { R } } - i \\Gamma _ { b _ { L } , s _ { R } }$ $\\omega _ { b _ { L } , s _ { R } } ^ { 2 } = k ^ { 2 } + m _ { b _ { L } , s _ { R } } ^ { 2 }$ are complex poles of the spec- ured $^ { \\prime } { } ^ { T } { } ^ { l } { } _ { b _ { L } , s _ { R } }$ d $\\Gamma _ { b _ { L } , s _ { R } }$   \nto the “A\"-type terms in Eq. (58) of [20],after properly accounting for temperature-independent vacuum contributions that are removed via normal ordering [31]. The quantity $\\dot { \\theta } ( \\bar { z } ) = d \\theta ( \\bar { z } ) / d t$ is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\theta } ( \\bar { z } ) = \\frac { - 2 f ( \\bar { z } ) } { \\Delta ( \\bar { z } ) ^ { 2 } } \\mathrm { s i g n } ( y _ { b s } ) \\xi _ { b s } ^ { 2 } ( \\infty ) \\sin \\theta _ { \\lambda _ { b s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $f ( \\bar { z } ) = ( \\dot { v } _ { u } ( \\bar { z } ) v _ { d } ( \\bar { z } ) - v _ { u } ( \\bar { z } ) \\dot { v } _ { d } ( \\bar { z } ) ) \\sim v _ { w } v ^ { 2 } \\delta \\beta / L _ { w }$ being a function describing the relative variation of the Higgs VEVs across the bubble wall. Although analyses performed in the MSSM [22] indicate $\\delta \\beta \\sim \\mathcal { O } ( 1 0 ^ { - 2 } )$ a systematic analysis is absent in the 2HDM.Here,we will simply adopt $\\delta \\beta = - 0 . 0 5$ (if $y _ { b s }$ is complex and $\\lambda _ { b s }$ is real, we need $\\delta \\beta > 0$ to keep the sign of $f ( \\bar { z } )$ unchanged). Note, $S _ { b _ { L } } ^ { \\mathcal { Q } \\mathrm { F } }$ is non-zeroonlywithithemovingbublewall， where $\\dot { \\theta } ( \\bar { z } ) \\neq 0$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In contrast to EWBG driven by flavor-diagonal sources,the transport of both the second and third familyparticles is sourced by CP-violating terms. We define the number densities $\\{ Q _ { 1 , 2 , 3 } , U , D , C , S , T , B , H \\ =$ $H _ { u } ^ { + } + H _ { u } ^ { 0 } - H _ { d } ^ { - } - H _ { d } ^ { 0 } \\}$ which correspond, respectively, to left-chiral quarks of different families,right-chiral up, down，charm，strange，top and bottoms,and Higgs bosons. Since all light quarks (except $b _ { L }$ and $s _ { R }$ ）are mainly produced by strong sphaleron processes and all quarks have similar diffusion constants，baryon number conservation on time-scales shorter than the inverse electroweak sphaleron rate implies the approximate constraints $Q _ { 1 } = Q _ { 2 } = - 2 U = - 2 D = - 2 C = - 2 B$ and $S + T + Q _ { 3 } = 0$ . The set of Boltzmann equations is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\partial ^ { \\mu } Q _ { 3 \\mu } \\ = \\ \\Gamma _ { m _ { t } } \\left( \\xi _ { T } - \\xi _ { Q _ { 3 } } \\right) + \\Gamma _ { t } \\left( \\xi _ { T } - \\xi _ { H } - \\xi _ { Q _ { 3 } } \\right) } & { } \\\\ & { \\quad + 2 \\Gamma _ { s s } \\left( \\xi _ { T } - 2 \\xi _ { Q _ { 3 } } + \\xi _ { S } + 8 \\xi _ { B } \\right) + S _ { b _ { L } } ^ { \\mathcal { G } \\mathrm { P } } } \\\\ { \\partial ^ { \\mu } T _ { \\mu } \\ = \\ - \\Gamma _ { m _ { t } } \\left( \\xi _ { T } - \\xi _ { Q _ { 3 } } \\right) - \\Gamma _ { t } \\left( \\xi _ { T } - \\xi _ { H } - \\xi _ { Q _ { 3 } } \\right) } & { } \\\\ & { \\quad - \\Gamma _ { s s } \\left( \\xi _ { T } - 2 \\xi _ { Q _ { 3 } } + \\xi _ { S } + 8 \\xi _ { B } \\right) } \\\\ { \\partial ^ { \\mu } \\delta _ { \\mu } \\ = \\ - S _ { b _ { L } } ^ { \\mathcal { G } \\mathrm { P } } , \\quad \\mathrm { ( w i t h } \\ \\delta = S - B ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { \\mu } H _ { \\mu } \\ = \\ \\Gamma _ { t } \\left( \\xi _ { T } - \\xi _ { H } - \\xi _ { Q _ { 3 } } \\right) - 2 \\Gamma _ { h } H ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here d = vwd $\\begin{array} { r } { \\partial ^ { \\mu } \\ = \\ v _ { w } \\frac { d } { d \\bar { z } } \\ - \\ D _ { a } \\frac { d ^ { 2 } } { d \\bar { z } ^ { 2 } } } \\end{array}$ in theplanarbube wal approximation with $D _ { a }$ $\\xi _ { a } = n _ { a } / k _ { a }$ with $n _ { a }$ and $k _ { a }$ being the number density and the statistical factor of particle“a\".Apart from the CP-violating sources, the interactions in Eq.(7) include (i) inelastic top Yukawa ( $\\Gamma _ { t }$ ）and strong sphaleron $( \\Gamma _ { s s } )$ processes; (ii) top relaxation processes $\\left( \\Gamma _ { m _ { t } } \\right)$ ，while we neglect the other Yukawa interactions since $\\Gamma D _ { q } / v _ { w } ^ { 2 } < 1$ and (iii） Higgs relaxation processes $\\left( \\Gamma _ { h } \\right)$ due to Higgs mass mixing,with typically $\\Gamma _ { h } < \\Gamma _ { m _ { t } }$ in this scenario. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assuming $S _ { b _ { L } } ^ { \\mathcal { L } \\mathrm { P } } ( \\bar { z } ~ < ~ 0 ) ~ = ~ 0$ ，we solve the Boltzmann equations for the net left-handed fermion density $\\textstyle n _ { L } = \\sum _ { i = 1 } ^ { 3 } Q _ { i }$ analytically order-by-order in $1 / \\Gamma _ { s s }$ ，with （204 $\\Gamma _ { s s } = 1 6 \\alpha _ { s } ^ { 4 } T$ . The leading contribution arises at first order in this expansion. The baryon asymmetry $\\rho _ { B }$ is then produced in weak sphaleron process,described by [23] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { \\mu } \\rho _ { B _ { \\mu } } = - \\Theta ( - \\bar { z } ) \\Gamma _ { w s } \\left( \\frac { 1 5 } { 4 } \\rho _ { B } + 3 n _ { L } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { w s } = 1 2 0 \\alpha _ { w } ^ { 5 } T$ is the weak sphaleron rate [24]. In the broken phase this gives ( $k _ { S } = k _ { B }$ is assumed) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { B } = \\frac { 3 \\Gamma _ { \\mathrm { w s } } } { v _ { w } ^ { 2 } } \\int _ { 0 } ^ { \\infty } \\left[ r \\frac { v _ { w } ^ { 2 } } { \\Gamma _ { s s } \\bar { D } } \\left( 1 - \\frac { D _ { q } } { \\bar { D } } \\right) \\frac { \\bar { S } ( \\bar { z } ) } { \\kappa ^ { + } } e ^ { - \\kappa ^ { + } \\bar { z } } \\right] d \\bar { z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { r = - \\frac { 3 } { 2 } \\left[ \\frac { k _ { B } \\left( k _ { Q } + 2 k _ { T } \\right) } { k _ { H } \\left( 9 k _ { T } + 9 k _ { Q } + k _ { B } \\right) } \\right] } \\end{array}$ and $\\kappa ^ { + } \\simeq ( \\sqrt { v _ { w } ^ { 2 } + 4 \\bar { \\Gamma } \\bar { D } } +$ $v _ { w } ) / 2 \\bar { D }$ .Here $\\bar { D }$ ， $\\bar { \\Gamma }$ and $\\bar { S }$ are,respectively, the effective diffusion constant,decay rate and CP-violating source for the Higgs number density. $\\bar { D }$ is defined in [20],while ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\bar { \\Gamma } \\ = \\ ( 9 k _ { T } + 9 k _ { Q } + k _ { B } ) ( \\Gamma _ { m _ { t } } + 2 \\Gamma _ { h } ) / X } \\\\ { \\bar { S } \\ = \\ k _ { H } ( k _ { Q _ { 3 } } - 7 k _ { T } + k _ { B } ) S _ { b _ { L } } ^ { \\mathcal { O P } } / X \\qquad ( 1 0 ) } \\\\ { X \\ = \\ 9 k _ { Q _ { 3 } } k _ { T } + k _ { B } k _ { Q _ { 3 } } + 4 k _ { T } k _ { B } + k _ { H } ( 9 k _ { T } + 9 k _ { Q _ { 3 } } + k _ { B } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note that while the weak sphaleron transitions are driven by the diffusion tail for $n _ { L }$ that extends ahead of the advancingwall intheunbrokenphase ( $\\bar { z } < 0$ ),thesolution in Eq.(9) contains an integral over the source in the broken phase that appears when matching the solutions to the Boltzmann equations at the phase boundary. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CP-violation in the $B _ { s } - \\bar { B } _ { s }$ Mixing Depending on the details of the scalar potential, $H _ { b s }$ may be approximately a mass eigenstate,which we assume for illustration.Tree-level exchange of $H _ { \\mathrm { b s } }$ with a VEV insertion leads to a $B _ { s } - \\bar { B } _ { s }$ mixing operator in the basis of quark mass eigenstates ( $\\Lambda _ { b s }$ is an effective new physics scale): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\zeta _ { b s } ^ { 2 } } { \\Lambda _ { b s } ^ { 2 } } ( \\bar { b } _ { L } s _ { R } ) ( \\bar { b } _ { L } s _ { R } ) , \\mathrm { w i t h } m _ { H _ { b s } } ^ { 2 } \\sim v \\Lambda _ { b s } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The RG running of this operator involves a mixture of scalar operator ${ \\cal O } _ { S R R } ^ { b s } \\equiv ( \\bar { b } P _ { R } s ) ( \\bar { b } P _ { R } s )$ and tensor operators $O _ { T R R } ^ { b s } \\equiv ( b \\sigma ^ { \\mu \\nu } P _ { R } s ) ( b \\sigma _ { \\mu \\nu } P _ { R } s )$ whose matrix elements are $\\langle B _ { s } | O _ { S R R } ^ { b s } | \\bar { B } _ { s } \\rangle \\approx - 5 m _ { B _ { s } } f _ { B _ { s } } ^ { 2 } B _ { S R R } ^ { b s } / 2 4$ and $\\langle B _ { s } | { \\cal O } _ { T R R } ^ { b s } | B _ { s } \\rangle \\approx - m _ { B _ { s } } f _ { B _ { s } } ^ { 2 } B _ { T R R } ^ { b s } / 2$ [14]. Assuming $m _ { B _ { s } } ^ { 2 }$ $\\approx ~ ( m _ { b } + m _ { s } ) ^ { 2 }$ and $B _ { S R R } ^ { b s } \\ \\simeq \\ B _ { T R R } ^ { b s } \\ = \\ B _ { B _ { s } }$ we obtain $M _ { 1 2 } ^ { s } \\equiv \\langle B _ { s } | \\mathcal { H } | B _ { s } \\rangle = - \\zeta _ { b s } ^ { 2 } f _ { B _ { s } } ^ { 2 } m _ { B _ { s } } B _ { B _ { s } } ( 5 \\eta _ { S R R } / 2 4 +$ $\\eta _ { T R R } / 2 ) / \\Lambda _ { b s } ^ { 2 }$ ，with $\\eta _ { S R R } \\approx 1 . 8 7$ ， $\\eta _ { T R R } \\approx - 0 . 0 1$ [14]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9355f721ec3fe227641cf139fa44faf3ef995ac2e9c067bd892a144192a83707.jpg",
+        "img_caption": [
+            "FIG.1: Contours of $n _ { B } / s$ (in units of $1 0 ^ { - 1 0 }$ ). Orange，yellow and green contours indicate $9 5 \\%$ C.L.Tevatron(with and without di-muon asymmetry） and LHCb constraints,respectively. We assume $k _ { Q _ { 3 } } = 2 k _ { T } = 2 k _ { B } = 6$ [25]， $k _ { H } = 4$ 5 $v _ { w } = 0 . 4$ [26], $L _ { w } = 2 / T$ ， $D _ { q } = 6 / T$ and $\\Lambda _ { b s } = 1$ TeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee7c2706e5d450495afa9608c92b403450b45add034b7a8f5021d8ceeb92d752.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>BSM</td><td>βTev [5]</td><td>fB√BBs</td></tr><tr><td>0.019 ± 0.001</td><td>0.27 ± 0.15</td><td>(275±13) MeV</td></tr><tr><td>(△mBs)SM</td><td>(△mBg)Tev [17]</td><td>SM</td></tr><tr><td>19.30 ± 2.2 ps-1</td><td>17.77 ± 0.12 ps-1</td><td>(4.2 ±1.4) × 10-3</td></tr><tr><td>(△r)SM</td><td>(△Is)Tev</td><td>A[6]</td></tr><tr><td>0.098±0.024 ps-1</td><td>0.097 ± 0.031 ps)</td><td>(-7.40±1.93)× 10</td></tr><tr><td>(△mBs)LHCb[7]</td><td>(△Γs)LHCb[7]</td><td>βLHCb[7]</td></tr><tr><td>17.725 ±0.049 ps-1 0.123 ± 0.030 ps-1</td><td></td><td>-0.015 ±0.087</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: The theoretical input parameters [2,15] and the experimental data from the Tevatron and LHCb. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Choosing $\\Gamma _ { q }$ to be real and parametrizing $M _ { 1 2 } ^ { s }$ as[16] $M _ { 1 2 } ^ { s } \\equiv ( M _ { 1 2 } ^ { s } ) ^ { \\mathrm { S M } } \\Delta _ { s }$ with $\\Delta _ { s } \\equiv | \\Delta _ { s } | e ^ { i \\phi _ { s } ^ { \\Delta } }$ , we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Delta \\Gamma _ { s } = \\Delta \\Gamma _ { s } ^ { \\mathrm { S M } } \\cos ( \\phi _ { s } ^ { \\mathrm { S M } } + \\phi _ { s } ^ { \\Delta } ) , \\quad \\Delta m _ { s } = \\Delta m _ { s } ^ { \\mathrm { S M } } \\left| \\Delta _ { s } \\right| , } } \\\\ { { a _ { \\mathrm { S L } } ^ { s } = \\displaystyle \\frac { \\Delta \\Gamma _ { s } ^ { \\mathrm { S M } } } { \\Delta m _ { s } ^ { \\mathrm { S M } } } \\displaystyle \\frac { \\sin ( \\phi _ { s } ^ { \\mathrm { S M } } + \\phi _ { s } ^ { \\Delta } ) } { \\left| \\Delta _ { s } \\right| } , \\quad 2 \\beta _ { s } = 2 \\beta _ { s } ^ { \\mathrm { S M } } - \\phi _ { s } ^ { \\Delta } \\left( 1 - \\frac { \\Delta \\Gamma _ { s } } { 2 } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here $\\Delta m _ { s }$ and $\\Delta \\Gamma _ { s }$ are the mass and decay width difference between the heavy and light $B _ { s }$ mass eigenstates, $a _ { S L } ^ { s }$ is the charge asymmetry in semileptonic $B _ { s }$ decays, and $\\beta _ { s }$ measures the time-dependent CP asymmetries in the hadronic $B _ { s }$ decay. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The theoretical inputs and experimental results are listed in the Table I. The decay constants and bag parameters are taken from Ref.[18], while $A _ { s l } ^ { b }$ ，and $\\beta _ { s } ^ { \\mathrm { E x p } }$ ， $\\Delta \\Gamma ^ { \\mathrm { E x p } }$ are obtained by combining the Dβ and CDF measurements [5,6]. We perform a $\\chi ^ { 2 }$ fit to the four observables in Eq.(11),neglecting the correlation between $\\Delta \\Gamma _ { s }$ and $\\beta _ { s }$ for simplicity. Assuming $\\Lambda _ { b s }$ of 1 TeV,we scan over the remaining parameters,yielding the regions of $9 5 \\%$ C.L.from the Tevatron and the LHCb results. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion The contours of constant $n _ { B } / s$ in the $\\mathrm { s i g n } ( y _ { b s } ) \\xi _ { b s } - \\mathrm { s i n } \\theta _ { \\lambda _ { b s } }$ plane are indicated in Fig.1.We observe that the regions favored by the low-energy flavor studies at 95% C.L.overlap with regions in which a sizable portion of the baryon asymmetry is generated. The LHCb results on the $B _ { s }$ hadronic decay are more constraining on the parameter space than the Tevatron ones that do not include the dimuon asymmetry. Although tension exists between the LHCb- and Tevatronfavored regions,it appears feasible that a common CPviolating phase may be responsible for both generating a non-negligible portion of the BAU and accounting for observations in the $B _ { s }$ system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A definitive statement awaits the resolution of both the experimental tensions as well as several theoretical issues，including the development of a VEV-resummed CP-violating source (for recent progress,see,e.g., [27]), analysis of the full numerical solutions to Eqs.(7),and completion of a gauge-invariant analysis of the EWPT in the 2HDM.Indeed, the results of this initial study are likely to indicate the maximum magnitude of the BAU that can be achieved in this scenario,given the generous assumptions we have made about various input parameters,including $\\delta \\beta$ and $v _ { w }$ and the use of an analytic rather than numerical solution of the Boltzmann equations.Nevertheless,we expect that after future refinements are implemented,EWBTG may account for an interesting portion of the BAU in appropriate regions of parameter space.It thus appears that a more comprehensive analysis of this scenario is warranted. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Though the foregoing discussion relied on the illustrative case of a two-flavor system of the 2HDM with a single phase,generalization to variants,including minimal flavor violation with flavor-blind phases (e.g.，see [28]) or spontaneous CP-violation，would be straightforward. We leave the consideration of these possibilities,along with EWBTG in other models such as the four-family SM(e.g., see [29]), family non-universal $U ( 1 ) ^ { \\prime }$ model [30], and supersymmetric models,etc.to future work. Acknowledgements We thank V.Cirigliano,J. Cline, S. Gori,C.Lee，S. Tulin and C.Wagner for helpful discussions; P.Draper for collaboration at the early stages of this project; and the Shanghai Jiao Tong University where part of this work was carried out.We are grateful to S.Tulin for pointing out an error in an earlier version of this work and for a critical reading of this manuscript. The work is partially supported by U.S. Department of Energy contracts DE-FG02-91ER40618 （TL）and DEFG02-08ER41531 (MJRM)； the Wisconsin Alumni Research Foundation (MJRM);and the World Premier International Research Center Initiative (WPI initiative) MEXT, Japan (JS),Grant-in-Aid for scientific research (Young Scientists(B) 21740169) from Japan Society for Promotion of Science (JS) and the ERC Advanced Grant no.267985“DaMESyFla”(JS). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] E.Komatsu et al.[WMAP Collaboration],Astrophys.J. Suppl.180,330 (2009). [2]K.Nakamura [Particle Data Group]，J. Phys.G 37, 075021 (2010). [3] A.D. Sakharov, JETP Lett.5,24(1967). 4] Y.Li et al., JHEP 1008,062 (2010). [5] CDF Public Note 10206; V. M. Abazov et al. [D0 Collaboration],arXiv:1109.3166 [hep-ex]. [6] V. M. Abazov et al. [Do Collaboration],arXiv:1106.6308 [hep-ex]; CDF Public Note 9015. [7] G.Raven (LHCb) (2011)，Talk at the Lepton-Photon 2011,Mumbai; LHCb-CONF-2011-050. [8] L.Fromme et.al., JHEP 0611, 038 (2006);M.Laine et. al.,Nucl. Phys.B597, 23-69 (2001); J. M. Cline et. al., Phys. Rev. D 55,3873 (1997); A. T. Davies et. al., Phys. Lett.B336,464-470 (1994); N. Turok et.al.,Nucl. Phys. B 358,471 (1991); Nucl. Phys.B 369, 729 (1992). [9] S.Tulin et.al.，[arXiv:1105.2848 [hep-ph]]； J. M. Cline et.al.,[arXiv:1107.3559 [hep-ph]]. 10]W.Chao,Y.-c.Zhang,[arXiv:1008.5277 [hep-ph]]. 11] H.H. Patel et.al., JHEP 1107,029 (2011). [12]B.A.Dobrescu et al,Eur.Phys.J.C 70,263 (2010). [13] S. Davidso] Phys.Rev.D 72，035004 (2005); .E.Haber Phys. Rev.D 74,015018 (2006). [14]A.J.Bura Nucl.Phys.B 605,600 (2001). [15] A.Lenz et al, JHEP 0706,072 (2007). [16] S. C. Park et al, Phys.Rev.D 82,114003 (2010). [17] A.Abulencia et al.[CDF Collaboration],Phys.Rev.Let. 97,242003 (2006). [18] J.Laiho et al, Phys. Rev. D 81, 034503 (2010). [19] A.Riotto,Phys.Rev.D 58,095009 (1998). [20] C.Lee et al, Phys.Rev.D 71,075010 (2005). [21] D. J. H. Chung et al, JHEP 0912,067 (2009); K. Blum et al,JHEP 1005,101 (2010). [22] J. M. Moreno et.al., Nucl. Phys.B526,489-500 (1998); F.Csikor et.al., Phys.Rev.Lett.85,932-935 (2000). [23] J.M. Cline et al, JHEP 0007, 018 (2000); M. S. Carena et al,Nucl. Phys.B 650, 24 (2003). [24] D.Bodeker et al，Phys.Rev.D 61,056003 (2000); G.D.Moore,Phys.Rev.D 62,085011 (2000). [25] P.Huet et al, Phys. Rev. D53,4578-4597 (1996). [26] A. Megevand et al, Nucl. Phys. B 825,151 (2010). [27] T.Konstandin et al, Nucl. Phys.B738,1-22 (2006); V. Cirigliano et al,Phys.Rev.D81，103503 (2010); V. Cirigliano et al, [arXiv:1106.0747 [hep-ph];； C.Fidler et al, [arXiv:1108.2309 [hep-ph]. [28]A. J.Buras et.al., JHEP 1010,009 (2010)；A.J.Buras et.al.,Phys.Lett.B694,402-409 (2011). [29] G.W. S. Hou,PoS ICHEP2010, 244 (2010). [30] P.Langacker et.al., Phys.Rev. D 62,013006 (2000); V.Barger et.al., Phys.Rev.D 80,055008 (2009); JHEP 0912,048 (2009);L.L. Everett et.al., Phys.Rev.D82, 094024 (2010). [31] We thank C.Lee for clarification of this point. ",
+        "page_idx": 3
+    }
+]

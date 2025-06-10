@@ -1,0 +1,252 @@
+[
+    {
+        "type": "text",
+        "text": "Lithium-assisted exfoliation of pristine graphite for fewlayer graphene nanosheets ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Minwei $\\mathsf { X u } ^ { 1 , 2 }$ ,Huiting Sun1, Cai Shen³,Sen Yang1, Wenxiu Que²,Yin Zhang4 $( \\boxtimes )$ ,and Xiaoping Song1 (区) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1MOEKeyLaboratorfoeqlibuesisddlatiofodeedateiaotongersityia   \n2ElectronicteralsechbtorytetianterfelectrisechogUsity   \n3Ningbo InstituteofMaterialsTechnologyand Engineering,ChineseAcademyofciences,Ningbo,315201,China   \n4 Schoolof Materials Science and Engineering,Tongji University,Shanghai,201804,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "graphene,   \nfew-layer,   \nlithium Intercalation,   \nexfoliation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alithium-assisted approach has been developed for the exfoliation of pristine graphite， which allows the large-scale preparation of few-layer graphene nanosheets. The process involves an unexpected physical insertion and exfoliation, and the graphene nanosheets prepared by this method reveal undisturbed $\\mathsf { s p } ^ { 2 } .$ -hybridized structures.A possible two-step mechanism,which involves the negative charge being trapped around the edges of the graphite layers and a subsequent lithiation process, is proposed to explain the insertion of lithium inside the graphite interlayers.If necessary, the present exfoliation can be repeated and thinner (single or 2-3 layer) graphene can be achieved on a large scale. This simple process provides an effcient process for the exfoliation of pristine graphite, which might promote the future applications of graphene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphene，a single layer of carbon atoms in a honeycomb lattice,has been at the forefront of the scientific community since its discovery in 20o4 [1-4]. It offers a number of fundamentally exceptional properties that make it a promising material for a wide range of applications including electronic devices [5-8], transparent conductive films [9,10], energy storage [11-14],and biosensors [15].As the first step to realize these applications,however， the mass production of high-quality graphene nanosheets remains a great challenge.To date，numerous methods have been developed to produce graphene nanosheets, such as mechanical exfoliation[1], reduction of graphene oxide [16,17],liquid-phase exfoliation [18,19]，chemical vapour deposition [20], epitaxial growth on SiC substrates [21],electrochemical exfoliation [22,23] and organic synthesis [24].However， these synthetic methods usually lack one or more of the following attributes: (1) Products with undisturbed $\\mathsf { s p } ^ { 2 } .$ -hybridized structures; (2) high throughput and lowcost; (3) controllability over layer number, size and shape; (4) low energy consumption; and (5) mild processes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thus,many challenges remain and the foremost target is to develop the alternative methods for the largescale synthesis of graphene nanosheets. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inspired by the electrochemical reactions of negative graphite electrodes in lithium ion batteries (LIBs),we believe that the exfoliation of lithium intercalated graphite can give rise to single- or few-layer graphene nanosheets.For example, Zhang et al. developed a universal lithiation process to fabricate single-layer 2D nanomaterials [25],which has potential significance to advance the fabrication of high-quality graphene nanosheets.However， in their work lithium intercalation was performed in a test cell,wherea Li foil anode and electrolyte were needed. The complexity of the electrochemical intercalation process and the limited throughput limit the applicability of this method.Herein,based on the lithium intercalation concept, we demonstrate a simple approach to pro ducing ultrathin graphene nanosheets in large yield and with high quality by lithium-assisted exfoliation of bulk graphite minerals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Liquid ammonia was selected as the solvent since metallic lithium can be dissolved in anhydrous ammonia.The simple and reproducible exfoliation was performed as follow: Initial bulk graphite $( 3 0 \\mathrm { m g } )$ （204号 wasaddedtoaflame-dried $1 0 0 ~ \\mathrm { m L }$ flatbottom flask. Liquid ammonia (about $6 0 ~ \\mathrm { m L }$ ）wasthencooled and condensed into the flask,followed by addition of $3 0 0 \\mathrm { m g }$ of lithium metal. The deep blue colored composites were magnetically stirred for $2 \\mathrm { h }$ with the temperature maintained at about $- 3 3 ^ { \\circ } \\mathrm { C }$ by means of anacetone/dry ice bath.The bath was removed after $^ { 2 \\mathrm { h } }$ and the reaction continued overnight with slow evaporationof ammonia.Then, $2 0 0 \\mathrm { m L }$ of dilute HCl solution was added into flask while mild sonication was applied.Finally, the black products were cleaned by filtration several times and finally dispersed in ethanol. After a slow centrifugation, the supernatant dispersion wascollected for the furthercharacterization. The resulting graphene nanosheets display a good stability of their dispersion in ethanol. The present exfoliation is easily reproducible and we believe that that thinner graphene nanosheets can be achieved. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Liquid ammonia is an ionizing solvent. It can dissolve metallic lithium to form a deep blue solution, which is widelyused for hydrogenation of aromatic hydrocarbons and various carbon allotropes [26-29]. In this work,we used this Li/liquid ammonia solution to synthesize a lithium intercalated graphite precursor in order to obtain few-layer graphene nanosheets on alarge scale.The overall processes are illustrated in Fig.1. The Li/liquid ammonia solution is a strong reducing agent and reacts with graphite to form the well-known [graphite anion] ${ \\bf - L i ^ { + } }$ composites [30]. As aresult, the graphene layers of the graphite become negatively charged and the van der Waals forces between the stacked graphene layers are overcome. More importantly, the charged points tend to occur around the defect sites of graphene interlayers, whilst maintaining the majority of the pristine $\\mathsf { s p } ^ { 2 }$ structure [31]. This means that the $\\mathrm { L i ^ { + } }$ ions are likely to aggregate at the edges of the graphite sheets, since the edges show much higher defect density. Such aggregation will expand the edges of the graphite layers and openachannel to facilitate the insertion of Li inside the graphite. When the liquid ammonia was evaporated slowly,as shown in Fig.S1 in the Electronic Supplementary Material (ESM)，the color of the solution changed from blue to brilliant bronze due to the increasing concentration.Meanwhile, the lithium intercalated graphite is formed spontaneously (Fig. 1(b)) The subsequent acid treatment allows the intercalated Li to react with HCl solution. The resulting release of $\\mathrm { H } _ { 2 }$ is able to lead to exfoliation, which further unwraps the graphite layers and forces them apart (Fig.1(c)). This exfoliation will completely destroy the pristine graphite stacking structure, finally affording graphene nanosheets (Fig. 1(d)). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/058a3add84fa115cd533d76579b76950ed2afbfcd5b5611d2da408107980348d.jpg",
+        "img_caption": [
+            "Figure 1 Schematic illustration of the lithium-assisted exfoliation of bulk graphite minerals. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As revealed in Fig.2， the starting bulk graphite showed a very disordered and irregular appearance with an average particle size of $1 5 0 \\mu \\mathrm { m }$ (Fig. 2(a)) and it was used as received.As shown in a representative Scanning Electron Microscope (SEM, JEOL JSM-7000F) image (Fig. 2(b)), the as-produced graphene showed a wrinkled morphology, which suggested that almost all the graphite powderhad been exploded into pieces of soft graphene nanosheets.These graphene nanosheets were clearly observed without any charging problems. Figures 2(c) and S2 (in the ESM) reveal the individual nanosheets,which are spread on the substrate and havea wrinkled appearance.Bymild sonication, these graphene nanosheets can be well dispersed in ethanol (Fig.2(d)). Figure S3 (in the ESM) shows the graphite and graphene nanosheet suspensions,after being kept quiescent overnight. An obvious volume expansion is revealed,which demonstrates the exfoliation of the graphite. Moreover, the supernatant of the graphene suspension displays a typical Tyndall effect, suggesting the formation of stable graphene nanosheets.The exfoliation of the graphite can also be demonstrated by X-ray diffraction (XRD). As shown in Fig. S4 (in the ESM), the intensity of the sharp diffraction peak of graphite ( $2 \\theta = 2 6 . 5 ^ { \\circ } ,$ ，corresponding to the interlayer distance $\\left( 0 . 3 3 6 \\mathrm { n m } \\right)$ ）decreased dramatically.No new diffraction peaks for graphene oxide or other impurities appeared, indicating the exfoliation of graphite. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transmission Electron Microscope(TEM，JEOL JEM-21oO) was then carried out to further identify and characterize the degree of exfoliation and quality of graphene. The TEM sample was prepared by directly dropping the supernatant of the graphene suspension in ethanol onto a Cu grid. In Figs.2(e) and 2(f), large thin graphene sheets can be observed on the top of the Cu grid,where they resemble crumpled silk veil waves.The edges of the graphene sheets tend to scroll and fold, which is regarded as an intrinsic property of graphene.The graphene nanosheets are transparent and exhibit a very stable nature under electron beam. Since the suspended sheets always wrinkle, this offers a means to reveal the layer number of graphene by using high magnification TEM (HRTEM).As shown in Fig. 2(g). triple layers of graphene nanosheets were identified in the corrugated regions.Figure 2(i) exhibits a typical folded feature in the middle of a graphene nanosheet. As illustrated, four-layer graphene appears to be folded in the center. The planar lattice can be clearly resolved in the ordered crystal structure.The distinctive lattice structure reveals that the high-quality graphene sheets maintained their structural integrity without significant defects.The selected area electron diffraction (SAED) pattern confirms the hexagonal 2D crystal structure of our products.More graphene images and layer detail can be found in Fig. S5 (in the ESM). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab1b6a10bb294bf9039d261c62b1ce1d25646ccc0228c8a7fdd8d6c20905c522.jpg",
+        "img_caption": [
+            "Figure2SEMimagesof (a)bulk graphite,(b)as-produced grapheneand(c)an individual graphene nanosheet.Theentire image (b)consistsofmassveindividualgraphnenanosetsembledintoaflower-likestructurewithcavities,edgesorwinkles.(d)A photographof a graphene nanosheet dispersion inethanol.(e)-(g)TEMimagesand(insetand (i))HRTEMimageof graphene nanosheets. (h) The SAED pattern originating from the marked area in (e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the Atomic Force Microscope (AFM, Agilent 55oo) images of isolated graphene nanosheets which were prepared by spin coating from a dilute ethanol solution on freshly cleaved mica. The representative image exhibits a lateral dimension ranging from several hundred nanometers to micrometers and a uniform thickness of ${ \\sim } 1 . 1 \\ \\mathrm { n m } ,$ ：corresponding to 2-3 layers of graphene.The AFM images confirm that the dispersion contains isolated graphene nanosheets with ultrathin thickness. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Raman spectroscopy has historically played a significant role in characterizing carbon allotropes, and is widely used in studying the defects in graphene nanosheets. The G peak located at $\\sim 1 { , } 5 8 0 \\ c m ^ { - 1 }$ and 2D (G') peak at \\~ $2 { , } 7 0 0 \\mathrm { c m } ^ { - 1 }$ arise from in-plane vibrations of $\\mathsf { s p } ^ { 2 }$ carbon atoms and second-order zone boundary phonons,respectively. The D band is stimulated by the first-order zone boundary phonons,which result from the presence of defects or edge effects of graphene [32]. The Raman spectrum of our pristine bulk graphite displays a weak D peak at $1 { , } 3 3 6 \\mathrm { c m } ^ { - 1 } ,$ a strong G peak at $1 { , } 5 8 2 \\thinspace \\mathrm { c m ^ { - 1 } } ,$ ，and a 2D peak at $2 { , } 7 2 7 \\mathrm { c m } ^ { - 1 }$ .For the graphene nanosheets,an increased intensity of the D peak and the appearance of a new peak (at $1 , 6 1 0 \\mathrm { c m } ^ { - 1 } ,$ ）near the $G$ band are observed. The new peak is denoted the $\\mathrm { \\Delta D ^ { \\prime } }$ peak,and also arises from disorder (Fig.4 inset). Our synthesis method does not remove carbon atoms from the graphene lattice [33]. Thus, the appearance of the $\\mathbf { D ^ { \\prime } }$ peak and the increased intensity of the D peak result mainly from functionalization of the graphene. Since the Raman excitation beam can cover a large number of graphene edges,we believe that the functionalization mainly occurs near the graphene edges. The lack of broadening G band also indicates that the disorder comes from the edges,rather than from structural defects within the graphene planes [34-36]. Figure 4(b) shows the Fourier transform infrared (FTIR) spectrum of the graphene nanosheets. The absorption bands near $2 { , } 8 5 0 \\mathrm { c m } ^ { - 1 }$ can be assigned to $\\mathrm { C - H }$ stretching modes [37].The presence of such C-H stretching modes, which are absent in the FTIR spectrum of pristine graphite, indicates the functionalization of graphene edge by hydrogen during the exfoliation process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main reaction responsible for the hydrogenation of graphite in Li/liquid ammonia systems is the reaction of reduced graphite with proton sources, which involves a single-electron transfer from the graphenide sheets to the proton source forming H radicals[38]. Subsequentradical recombination reactions lead to the hydrogenation of graphene. The key prerequisite for high efficiency of graphene hydrogenation is that the proton source should be slowly added. The presence of a low local concentration of hydrogen radicals ensures the hydrogenation of graphene rather than their recombination to afford $\\mathrm { H } _ { 2 }$ .In our process, the rapid addition of HCl solution will quench the reaction rather than promote the hydrogenation of graphene.In addition,no other proton sources such as methanol,ethanol or tertbutyl alcohol are involved.Thus,we believe that the exfoliation is the dominant process， whilethe unavoidable adsorbed watermolecules or the water molecules in air can cause a small amount of hydrogenation of graphene at the edge areas. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e56d8e93cdaea95701f79820505c0569a28058d8a2163bd71a69e63e25d6bd0.jpg",
+        "img_caption": [
+            "Figure 3(a)AFM images of the obtained graphene nanosheets with (b)thecorresponding height profile ofaline scan. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/83dc2f60e021fc3c5b27f8850966ad6f3013773bd424382329f5b05d05c0ee95.jpg",
+        "img_caption": [
+            "Figure 4(a) Raman and (b) FTIR spectroscopy of the graphite and graphene nanosheets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To investigate the stability of the graphene nanosheets,we performed thermogravimetric analysis and the results are shown in Fig.S6 (in the ESM). The graphene nanosheets show a slight weight loss up to $7 0 0 ^ { \\circ } \\mathrm { C }$ in $\\Nu _ { 2 }$ atmosphere. In air, the major mass loss took place above $5 0 0 ^ { \\circ } \\mathrm { C }$ while a slight mass loss in the temperature range $2 0 0 { - } 4 0 0 ^ { \\circ } \\mathrm { C }$ can also be observed. Generally speaking,a weight loss below $4 0 0 ^ { \\circ } \\mathrm { C }$ can beattributed to the release of adsorbed species such as alcohol and ammonia [39]. For our materials, the extramass loss for graphene nanosheets in air below $4 0 0 ^ { \\circ } \\mathrm { C }$ can be attributed to the decomposition of graphene nanosheets at the defect areas,such as the edgesand hydrogenated areas.These defect areasare more reactive than an undistorted graphene lattice and react with $\\mathrm { O } _ { 2 }$ at lower temperature.However, the combustion of graphene at about $5 5 0 ^ { \\circ } \\mathrm { C }$ is still the dominant process，which is consistent with hydrogenated areabeing very limited. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be mentioned that it is well known that alkali metals form graphite intercalation compounds (GICs, such as $\\mathsf { K C } _ { 8 } , \\mathsf { C s C } _ { 8 } )$ by mixing the molten alkali metals with graphite powder [40-42]. After the discovery of graphene, several groups attempted to prepare graphenebyexfoliation of these GICs.However，to the best of our knowledge，such methods only achieved the graphite nanoplatelets rather than single or few-layer graphene [43]. Comparing these previous studies with our lithium-assisted exfoliation, we suggest that the formation of [graphite anion]-Li+ composites plays an important role in exfoliation since the negatively charged graphene layers can not only overcome the van der Waals's interplanar binding force but also facilitate the lithiation process leading to graphite intercalation compounds.As a result, the exfoliation efficiency can be significantly improved. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to gain a better understanding of the lithium-assisted exfoliation,a sodium-assisted exfoliation experiment,where lithium was replaced by sodium,was also investigated. The obtained products show relativelylarge flakesand very thick features (seeFig.S7 in the ESM),which is indicative of a low exfoliation efficiency. Theprobable reasonwhy intercalated graphite is more readily formed when Li is used as the intercalant is due to the large size of the sodium ion. Thus, the activation energy for sodium access should be much higher and the materials contain less intercalated sodium,resulting an incomplete exfoliation. As a result,only graphene flakes could be obtained when sodium metal was used. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wehavedevelopedaneffectiveandefficientmethod for the preparation of few-layer graphene nanosheets by lithium-assisted exfoliation of pristine graphite. The negatively charged graphene layers can not only overcome the van der Waals's interplanar binding force,but also facilitate the insertion of lithium into the graphite. Our exfoliation involves a mild physical treatment which maintains the honeycomb lattice. If necessary, the exfoliation process can be repeated and thinner (single or 2-3 layer) graphene can be achieved. These results may be useful for industrial-scale graphene preparation, and might promote the applications of graphene. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (No.51222104) and the Fundamental Research Funds for the Central Universities. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electronic Supplementary Material: Supplementary material (photographs of the precursor and the obtained graphene nanosheets, XRD curves,Thermogravimetric Analysis(TGA,NETZSCHSTA 449CJUPITER) curves and further SEM and TEM images for graphene nanosheets and graphene flakes） is available in the online version of this article at http://dx.doi.org/ 10.1007/s12274-014-0562-4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Novoselov,K. S.; Geim,A.K.; Morozov, S.V.; Jiang,D.; Zhang,Y.; Dubonos, S.V.; Grigorieva, I.V.; Firsov,A.A. Electric field effect in atomically thin carbon films. Science 2004,306,666-669.   \n[2] Geim,A.K.; Novoselov, K. S. The rise of graphene. Nat. Mater.2007,6,183-191.   \n[3] Novoselov, K. S.; Fal'ko, V.I.; Colombo,L.; Gellert,P. R.; Schwab,M.G.; Kim, K.A roadmap for graphene.Nature 2012,490,192-200.   \n[4]Singh,V.; Joung, D.; Zhai, L.; Das, S.; Khondaker, S. I.; Seal, S. Graphene based materials: Past, present and future. Prog. Mater. Sci. 2011,56,1178-1271.   \n[5]Avouris,P.; Dimitrakopoulos, C. Graphene: Synthesis and applications. Mater. Today 2012,15,86-97.   \n[6]Wu, J. S.； Pisula,W.； Müllen, K. Graphene as potential material for electronics. Chem. Rev. 2007,107,718-747.   \n[7]Weis, N. O.; Zhou, H.L.; Liao,L.; Liu,Y.; Jiang, S.; Huang, Y.; Duan, X. F. Graphene: An emerging electronic material. Adv. Mater. 2012,43, 5782-5825.   \n[8]Bonaccorso,F.; Sun, Z.; Hasan, T.; Ferrari, A. C. Graphene photonics and optoelectronics. Nat.Photon. 2010,4,611- 622.   \n[9]Wang, X.; Zhi, L. J.; Mullen, K. Transparent,conductive graphene electrodes for dye-sensitized solar cells. Nano Lett. 2008,8,323-327.   \n[10] Zhu, Y. W.; Murali, S.; Cai, W. W.; Li, X. S.; Suk, J.W.; Potts, J. R.; Ruoff, R. S. Graphene and graphene oxide: Synthesis, properties,and applications.Adv. Mater. 2010,22,3906-3924.   \n[11] Sun, Y. Q.; Wu, Q.; Shi, G. Q. Graphene based new energy materials.Energy Environ. Sci.2011,4,1113-1132.   \n[12] Sahoo,N. G.; Pan, Y. Z.; Li, L.; Chan, S. H. Graphenebased materials for energy conversion. Adv. Mater. 2012, 24,4203-4210.   \n[13] Xu, C. H.; Xu, B. H.; Gu, Y.; Xiong, Z. G.; Sun, J.; Zhao, X. S. Graphene-based electrodes for electrochemical energy storage.Energy Environ. Sci. 2013,6,1388-1414.   \n[14] Huang, X.; Qi, X. Y.; Boey,F.; Zhang, H. Graphene-based composites.Chem. Soc. Rev. 2012,41,666-686.   \n[15] Yang, W. R.; Ratinac, K. R.; Ringer, S.P.; Thordarson, P.; Gooding,J.J.; Braet,F. Carbon nanomaterials in Biosensors: Should you use nanotubes or graphene? Angew. Chem. Int. Ed. 2010,49,2114-2138.   \n[16] Hummers, W. S.; Offeman, R. E. Preparation of graphitic oxide.J.Am. Chem. Soc.1958,80,1339-1339.   \n[17] Tung,V. C.; Allen, M. J.; Yang, Y.; Kaner, R. B. Highthroughput solution processing of large-scale graphene. Nat. Nanotechnol. 2009,4,25-29.   \n[18] Lotya, M.; Hernandez, Y.; King, P. J.; Smith, R. J.; Nicolosi, V.; Karlsson, L. S.; Blighe, F. M.; De, S.; Wang, Z. M.; McGovern, I. T. et al. Liquid phase production of graphene by exfoliation of graphite in surfactant/water solutions.J. Am. Chem. Soc.2009,131,3611-3620.   \n[19] Hernandez, Y.; Nicolosi, V.; Lotya, M.; Blighe,F. M.; Sun, Z. Y.;De, S.; McGovern, I. T.； Holland,B.; Byrne, M.; Gun'Ko, Y. K. et al. High-yield production of graphene by liquid-phase exfoliation of graphite.Nat. Nanotechnol. 2008, 3.563-568.   \n[20] Li, X. S.; Cai, W. W.; An, J.; Kim, S.; Nah, J.; Yang, D. X.; Piner,R.; Velamakanni, A.; Jung, I.; Tutuc, E. et al. Largearea synthesis of high-quality and uniform graphene films on copper foils. Science 2009,324,1312-1314.   \n[21] Virojanadara, C.; Syvajarvi, M.; Yakimova,R.; Johansson, L.I.; Zakharov,A.A.; Balasubramanian, T. Homogeneous large-area graphene layer growth in 6H-SiC(Ooo1).Phys. Rev.B 2008,78,245403.   \n[22] Su, C. Y.; Lu, A. Y.; Xu, Y. P.; Chen, F.R.; Khlobystov, A. N.; Li,L. J. High-quality thin graphene films from fast electrochemical exfoliation. ACS Nano 2011,5,2332-2339.   \n[23]Wang,J.Z.; Manga,K.K.; Bao,Q.L.; Loh,K.P.High-yield synthesis of few-layer graphene flakes through electrochemical expansion of graphite in propylene carbonate electrolyte. J. Am. Chem. Soc.2011,133,8888-8891.   \n[24] Choucair,M.; Thordarson,P.; Stride, J.A. Gram-scale production of graphene based on solvothermal synthesis and sonication. Nat.Nanotechnol.20o9,4,30-33.   \n[25] Zeng, Z. Y.; Yin, Z. Y.; Huang, X.; Li, H.; He, Q. Y.; Lu, G.；Boey，F.； Zhang，H. Single-layer semiconducting nanosheets:High-yield preparation and device fabrication. Angew. Chem.Int. Ed.2011,50,11093-11097.   \n[26] Vasil'ev,Y.；Wallis,D.； Nüchter,M.； Ondruschka,B.; Lobach,A.; Drewello,T. From major to minor and backa decisive assessment of $\\mathrm { C } _ { 6 0 } \\mathrm { H } _ { 3 6 }$ with respect to the Birch reduction of $\\mathrm { C } _ { 6 0 }$ .Chem. Commun. 2000,1233-1234.   \n[27]Birch,A.J.Reduction by dissolving metals.Part I.J. Chem. Soc. 1944, 430-436.   \n[28] Subrahmanyam, K. S.; Kumar, P.; Maitra, U.; Govindaraj, A.; Hembram, K. P. S. S.; Waghmare, U.V.; Rao, C. N. R. Chemical storage of hydrogen in few-layer graphene. Proc. Natl. Acad. Sci. USA 2011,108,2674-2677.   \n[29] Liang, F.; Sadana, A. K.; Peera, A.; Chattopadhyay, J.; Gu, Z. N.; Hauge,R. H.; Billups,W.E.A convenient route to functionalized carbon nanotubes. Nano Lett. 2004,4,1257- 1260.   \n[30] Yang, Z. Q.; Sun, Y. Q.; Alemany,L. B.; Narayanan, T. N.; Billups, W.E. Birch reduction of graphite edge and interior functionalization by hydrogen.J.Am. Chem. Soc.2012,134, 18689-18694.   \n[31] Deng, S. L.; Zhang,Y.； Brozena,A. H.； Mayes,M. L.; Banerjee,P.; Chiou, W. A.; Rubloff, G.W.; Schatz, G. C.; Wang,Y. H. Confined propagation of covalent chemical reactions on single-walled carbon nanotubes.Nat. Commun. 2011, 2, 382.   \n[32] Dresselhaus,M. S.; Jorio,A.; Hofmann, M.; Dresselhaus, G.; Saito, R. Perspectives on carbon nanotubes and graphene Raman spectroscopy. Nano Lett. 2010,10,751-758.   \n[33] Sun, C. F.; Karki, K.; Jia, Z.; Liao, H. W.; Zhang, Y.; Li, T.; Qi, Y.; Cumings, J.; Rubloff, G. W.; Wang, Y. H. A beadedstring silicon anode. ACS Nano 2013,7,2717-2724.   \n[34] Liu, W.W.; Wang, J. N. Direct exfoliation of graphene in organic solvents with addition of NaOH. Chem. Commun. 2011,47, 6888-6890.   \n[35] Ferrari, A. C.; Basko, D. M. Raman spectroscopy as a versatile tool for studying the properties of graphene. Nat. Nanotechnol. 2013,8,235-246.   \n[36] Casiraghi, C.; Hartschuh,A.; Qian, H.; Piscanec, S.; Georgi, C.; Fasoli, A.; Novoselov,K. S.; Basko,D.M.; Ferrari,A. C. Raman spectroscopy of graphene edges. Nano Lett 2009, 4, 1433-1441.   \n[37] Krishna, R.; Titus,E.; Costa, L. C.; Menezes, J. C. J. M. D. S.; Correia, M.R.P.; Pinto, S.;Ventura, J.; Araujo,J.P.; Cavaleiro, J.A. S.； Gracio, J.J.A. Facile synthesis of hydrogenated reduced graphene oxide via hydrogen spillover mechanism.J.Mater. Chem.2012,22,10457-10459.   \n[38] Schafer, R. A.; Englert,J. M.; Wehrfritz, P.; Bauer, W.; Hauke,F.; Seyller,T.; Hirsch,A. On the way to graphane— pronounced fluorescence of polyhydrogenated graphene. Angew. Chem. Int. Ed.2013,52,754-757.   \n[39]Pekker, S.; Salvetat, J.P.; Jakab,E.; Bonard, J. M.; Forr6,L. Hydrogenation of carbon nanotubes and graphite in liquid ammonia.J.Phys.Chem.B2001,105,7938-7943.   \n[40] Chakraborty, S.; Chattopadhyay, J.; Guo, W. H.; Billups, W. E.Functionalization of potassium graphite. Angew. Chem. Int.Ed.2007,46,4486-4488.   \n[41] Savoia, D.; Trombini, C.; Umani-Ronchi,A.Applications of potassium-graphite and metals dispersed on graphite in organic synthesis. Pure Appl. Chem.1985,57,1887-1896.   \n[42] Matsumoto,R.; Akuzawa, N.; Takahashi, Y. Thermoelectric properties of cesium-graphite intercalation compounds. Mater. Trans. 2006,47,1458-1463.   \n[43]Viculis,L.M.; Mack,J.J.;Mayer, O.M.;Hahm,H. T.; Haner,R. B. Intercation and exfoliation routes to graphite nanoplatelets.J. Mater. Chem. 2005,15,974-978. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

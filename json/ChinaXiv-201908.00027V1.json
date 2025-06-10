@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "卫宁平原包气带水分运移特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昊旭'，崔亚莉，马小波²，胡现振³（1中国地质大学(北京)水资源与环境学院,北京100083；2宁夏回族自治区水文环境地质勘察院,宁夏银川 750011；3 河北省地质环境监测院,河北 石家庄 050021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：降雨、灌溉入渗和潜水蒸发在卫宁平原地下水循环中有重要的作用。为了准确评价卫宁平原地下水垂向入渗补给量和蒸发量,通过设立中卫、中宁两个包气带原位试验点,观测期为2013年6月\\~2013年11月和2014年4月 $\\sim 2 0 1 4$ 年10月，获取了两个试验点不同埋深处的土壤水负压、温度、岩性及水分运移参数，并采用定位通量法计算试验点的地表蒸散发、入渗量和潜水面蒸发、入渗量。结果显示：在包气带岩性相同、灌溉期相同( $7 \\sim 1 0$ 月）、总灌溉量相近条件下，作物的灌溉模式决定了灌溉对潜水的补给强度：玉米少次大量（ $1 5 0 ~ \\mathrm { m m }$ ·次-1）灌溉对潜水的补给量为373.65mm，远远大于茄子多次小量 $\\langle 5 0 \\ \\mathrm { m m } \\cdot \\ n Y - 1$ )的灌溉模式下的 $1 5 2 . 3 ~ \\mathrm { m m }$ ;而在包气带岩性相同、种植作物相同、灌溉模式不变的前提下，同时期潜水面净补给强度相近：中宁试验点2013 年 $7 \\sim 1 0$ 月份潜水面净通量为 $3 2 . 8 8 \\ \\mathrm { m m } , 2 0 1 4$ 年同期为 $5 7 . 4 2 \\ \\mathrm { m m }$ 。在降雨情况或灌溉量较小( $\\mathrm { 5 0 ~ m m } ,$ 的情况下，植被的生长会阻碍水分在包气带中的下渗；在灌溉量较大( $1 0 0 ~ \\mathrm { { m m } }$ 和 $1 5 0 ~ \\mathrm { m m }$ ）的情况下，植被的生长会促进包气带水分的下渗。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：卫宁平原；包气带；水分运移特征文章编号： 1000-6060(2019)04-0845-09(0845\\~0853)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "包气带在水文循环中有着重要作用，决定了水分和溶质从地表向含水层运移的过程[1]。由于野外实测地下水垂向补排量有一定难度[2]，目前常用计算地下水垂向补排量的方法有：蒸渗仪法[3]、零通量法[4]、水均衡法[5]、达西定律法[6]、示踪剂法[7]和数值模拟法[8]。在这些方法中,野外原位试验具有重要的不可替代的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，国内外以包气带原位试验方法开展土壤水分运移和地下水垂向补排关系的研究很多，如 STEPHENS 等[9]在美国新墨西哥干早区建立原位试验场，并用达西定律法计算其地下水补给量；汪可欣[10]通过田间试验与理论分析相结合的手段,对保护性耕作条件下土壤水分运动规律进行了研究，并分析各种覆盖方式对土壤水分动态过程的影响;韩占涛等[]对宁夏清水河平原农田旱作和灌溉条件下的冬小麦田包气带水分运移特征进行了观测研究;ASSEFA等[12]利用野外原位试验数据建立了数值模型对加拿大北欧垦娜根地下水补给量进行了模拟计算;HOU 等[13]对巴丹吉林沙漠腹地厚包气带进行野外观测，并用数值模拟法分析了不同气候条件下的降雨入渗补给量。在大多数研究中往往仅考虑单一地表覆盖情况，并没有考虑到不同植被覆盖与裸地的对比，也很少考虑到土壤温度对水分运移的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卫宁平原位于中国宁夏回族自治区，地处中国西北内陆，分布于黄河两侧，属引黄灌溉区。目前，对卫宁平原地下水资源的研究较为有限，大多是对卫宁平原区域水资源的分析[14]、地下水环境的研究[15]以及地下水脆弱性的评估[16]。针对地下水补排量的专题研究很少。根据前人研究成果，面状补给(大气降水入渗补给和灌溉入渗补给)约占地下水补给资源量的 $44 \\%$ ,潜水蒸发占平原地下水排泄量的 $30 \\%$ 左右[15]。由此可见,卫宁平原包气带水分运移研究对于准确评价该地区的地下水资源量起",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "着重要的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要介绍了宁夏卫宁平原两个包气带水分运移原位试验点的建立和数据采集，考虑水温对土壤饱和导水率的影响，采用定位通量法计算观测期内两个试验点4种地表覆盖情况下的地表蒸散发、入渗量和潜水面蒸发、入渗量，并分析不同岩性、不同地表覆盖情况下卫宁平原包气带的水分运移特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1原位试验与计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 原位试验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对卫宁平原水文地质概况和野外实地考察，考虑到卫宁平原地形东西狭长，分布于黄河两岸，为了更好地反映研究区包气带水分运移特点，本次研究在中卫平原和中宁平原分别设置2个试验点，其试验点分别位于黄河两侧、卫宁平原的东部和西部（图1）。为了研究当地农田灌溉和植被生长对包气带水分运移的影响，试验点设置在农田区，分别设立裸地和植被两个试验对比组。在两个试验点分别设置了深度为 $2 \\mathrm { ~ m ~ }$ 的包气带剖面，并埋设了DLS系列负压计、土壤温度记录仪、DLS土壤水采样器，在试验点附近设置SM1型雨量器、AM3型蒸发血和地下水位观测井。主要观测两个试验点的土壤水负压、地下水位、土壤温度、水面蒸发量和降水量。试验设备埋设的平面分布见图2，剖面埋设见图3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究野外观测期为2013年6月～2013年11月和2014年4月\\~2014年10月（表1），土壤水负压和地下水位埋深于每日早8：00进行观测，并在几次典型降雨和灌溉中进行加密观测。由于设备原因，冬季只对地下水位和土壤温度进行了观测。本次研究中的气象数据主要来自当地的气象站，部分数据用试验点测量的降雨量和水面蒸发量进行修正。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验考虑了卫宁平原区典型粮食作物、常见蔬菜作物以及当地广泛种植的特色经济作物，植被组在观测期内分别种植了3种不同的作物：玉",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c8bbb59098af16b225cc931506eef2a831ec068d035dcce5f1343c6769fc286.jpg",
+        "img_caption": [
+            "图1试验点位置图",
+            "Fig.1Location of the in situ experiments "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验点作物种植情况表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddcaba642e3e9a73f9df40a8739d1a7b5a7fbd75f15df0ba0d16db957d87b9c6.jpg",
+        "table_caption": [
+            "Tab.1Crop planting at the experiment sites "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验点</td><td>观测期</td><td>生长期</td><td>作物类型</td><td>灌溉次数</td><td>单次灌溉量／mm</td></tr><tr><td rowspan=\"2\">中卫</td><td>2013-6-15~2013-11-9</td><td>2013-06-15~2013-09-06</td><td>玉米</td><td>3</td><td>150</td></tr><tr><td>2014-4-15~2014-10-31</td><td>2014-05-07~2014-09 -25</td><td>茄子</td><td>10</td><td>50</td></tr><tr><td rowspan=\"2\">中宁</td><td>2013-6-15~2013-11-9</td><td rowspan=\"2\">多年生植物</td><td rowspan=\"2\">枸杞</td><td>3</td><td>100</td></tr><tr><td>2014-4-18~2014-10-31</td><td>7</td><td>100</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b450e91f94def5a0287b950a5930cb66167e561e7252fdbe74afcc79ca5b781b.jpg",
+        "img_caption": [
+            "图2试验点各设备平面分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8aa50ed0877aa26558ad1df2b2ef6eec53f15da860ee74ef71e0c60379a0877e.jpg",
+        "img_caption": [
+            "Fig.2Experimental devices distribution ",
+            "图3试验点土壤剖面及监测设备布置图 Fig.3Soil profiles and monitoring devices layout at the experiment sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "米、茄子和枸杞。作物种植情况如表1所示。试验点灌溉均为渠水漫灌，灌溉量通过当地农民经验估测得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 样品采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次试验中，为了确定包气带岩性结构，分别对两个试验点不同深度的包气带土壤进行取样分析，根据试验点土壤特征，采用密度计法测定土壤各粒组含量，得到各层土壤样品的粘粒、粉粒和砂粒含量，并依据美国农业部的土壤定名标准，对试验点各层位土壤进行定名。2个试验点的包气带岩性主要为壤土和粉壤，中间夹有砂壤土层和粉粘壤土层（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验采用HITACHI-CR21GI型高速离心机测定土壤水分特征曲线，利用RETC软件，采用VanGenuchten公式进行拟合，确定了所观测土壤水负压与土壤含水率之间的转换关系。采用BS-STXS11-1型饱和渗透系数测定装置，用变水头方法测定试验点各层土壤的饱和导水率。中卫试验点的土壤饱和导水率取值在 $2 . 0 8 \\sim 6 7 . 8 1 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,中宁试验点的土壤饱和导水率取值在 $0 . \\ 1 5 \\sim 4 1 . 4 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ 。这组参数的确定，为进一步定量描述包气带水分运移提供了基本条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3蒸发入渗量的计算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合试验点土壤水分运移参数、试验点观测土壤水负压和温度数据,采用定位通量法[17]对2个试验点在观测期内的地表蒸散发、入渗量和潜水面蒸发、入渗量进行计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ ( z ) ~ = ~ Q ( z ^ { \\prime } ) ~ + \\int _ { z ^ { \\prime } } ^ { z } \\theta ( z , t _ { 1 } ) \\mathrm { d } z - \\int _ { z ^ { \\prime } } ^ { z } \\theta ( z , t _ { 2 } ) \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $z$ 为地表(或潜水位)位置; $z ^ { \\prime }$ 为定位点位置； $\\mathbf { \\Phi } _ { t }$ 为时间； $\\theta$ 为含水率; $Q$ 为 $t _ { 1 }$ 至 $t _ { 2 }$ 时间段内的单位断面面积上通过的水量！ $\\left( { \\bf m } { \\bf m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用达西定律计算 $z ^ { \\prime }$ 处的土壤水分通量为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = - K ( \\theta ) \\frac { \\Delta \\varphi } { \\Delta z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $K ( \\theta )$ 为含水率为 $\\theta$ 时的土壤非饱和导水率（2号 $( \\mathbf { m } \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 }$ ）； $\\Delta \\varphi$ 为 $z ^ { \\prime }$ 上下临近两点 $z _ { 1 }$ 和 $z _ { 2 }$ 处的土水势差值； $\\Delta z$ 为 $z _ { 1 }$ 和 $z _ { 2 }$ 的高度差值; $q$ 为 $z ^ { \\prime }$ 处的土壤水分通量( $[ \\mathrm { m } \\mathrm { m } \\cdot \\mathrm { d } ^ { - 1 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于卫宁平原气候条件四季分明，本次研究考虑水温对土壤饱和导水率的影响[18],通过不同埋深处实测土壤温度的月平均值对每月的土壤饱和导水率进行折算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { t } = K _ { T } \\frac { \\mu _ { T } } { \\mu _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mu _ { T } \\setminus \\mu _ { t }$ 分别为 $T ^ { \\mathrm { \\circ } } \\mathrm { C }$ 和 $\\textit { t } ^ { \\circ } \\mathrm { C }$ 时水的动力粘滞系数，研究中不同温度下水的动力粘滞系数是根据经验值取得[18]。 $K _ { T } \\setminus K _ { t }$ 分别为 $T ^ { \\mathrm { \\circ } } \\mathrm { C }$ 和 $\\textit { t } ^ { \\circ } \\mathrm { C }$ 时土壤的饱和导水率( $\\mathbf { \\chi } _ { \\mathrm { m m } } \\cdot \\mathbf { d \\phi } ^ { - 1 }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1包气带水分运移规律 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对两个试验点在观测期内的地表蒸散发、入渗量和潜水面蒸发、入渗量进行分析与计算（图4），得出2013年6月 $1 6 \\sim 3 0$ 日为计算期,2014年4月 $2 0 \\sim 3 0$ 日为计算期。观测期试验点潜水面净通量见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4中可以看出，地表蒸散发、入渗量和潜水面蒸发、入渗量均受季节变化影响显著，一般夏季6月和7月较大（中卫试验点2014年茄子组7月份地表蒸散发量为 $1 1 9 . 5 3 \\ \\mathrm { m m }$ ，入渗量为 $7 3 . 1 7 \\ \\mathrm { m m }$ ，潜水面蒸发量为 $1 0 1 . 1 6 \\ \\mathrm { m m }$ ,入渗量为 $6 1 . 7 4 \\ \\mathrm { m m }$ ，春秋季节较小（中卫试验点2014年茄子组10月份地表蒸散发量为 $5 8 . 7 6 \\ \\mathrm { m m }$ ，入渗量为 $3 . 8 1 \\ \\mathrm { m m }$ ，潜水面蒸发量为 $3 7 . 4 9 \\ \\mathrm { { \\ m m } }$ ，入渗量为 $5 . 0 9 \\ \\mathrm { m m }$ )。将试验中植被组与裸地组相对比，可发现植被组的地表蒸散发量和潜水蒸发量均大于裸地组，而植被组的地表入渗量与裸地组相近，但潜水面入渗量却与裸地组差异明显。这是由于植被的生长促进了地表的蒸散发和潜水的蒸发，并且不同时期所种植的农作物不同，玉米和枸杞种植情况下的单次灌溉量较大，水分大量快速透过包气带土壤补给到地下水中，而茄子种植情况下的单次灌溉量较小，水分不足以使包气带土壤饱和，大部分水分滞留在包气带中。因而，在玉米和枸杞种植情况下，植被组的潜水面入渗量要明显大于裸地组的潜水面入渗量，在茄子种植情况下，裸地组要明显大于植被组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中卫试验点植被组2013年7～10月份潜水面入渗补给 $3 7 3 . 6 5 \\mathrm { m m }$ ,2014年同期潜水面入渗补给",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c55084820ebd41c9429ed7c0d8c55b3c074fc2f984703018760bded2d5b0042.jpg",
+        "img_caption": [
+            "图4试验点地表蒸散发、入渗和潜水面蒸发、入渗情况图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Evapotranspiration and infiltration at theland surface,evaporation and infiltration on the groundwater table ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7b5b49fb9ebd8db61b2abdb7510522aa924a0a040d70c2fca6ea1a6e6a34a87.jpg",
+        "table_caption": [
+            "Tab.2Net quantity of water exchange on the groundwater table during the observation periods "
+        ],
+        "table_footnote": [
+            "注：表中正值代表入渗，负值代表蒸发 "
+        ],
+        "table_body": "<html><body><table><tr><td>试验点</td><td colspan=\"2\">2013-7-1~2014-10-31 潜水面净通量／mm</td><td colspan=\"2\">2014 -4-20~2014-06 -30 潜水面净通量／mm</td><td colspan=\"2\">2014-07-01~2014-10 -31 潜水面净通量／mm</td></tr><tr><td></td><td>植被组</td><td>裸地组</td><td>植被组</td><td>裸地组</td><td>植被组</td><td>裸地组</td></tr><tr><td>中卫</td><td>128.37</td><td>152.91</td><td>-85.31</td><td>-73.90</td><td>-116.18</td><td>-86.68</td></tr><tr><td>中宁</td><td>32.88</td><td>34.38</td><td>-35.98</td><td>-29.85</td><td>57.42</td><td>59.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 5 2 . 3 ~ \\mathrm { m m }$ ，明显小于2013年。由表2可见，中卫试验点2013年7～10月份潜水面净通量为入渗量，2014年 $7 \\sim 1 0$ 月份的潜水面净通量为蒸发量。由于两年的气象条件和所种植作物（玉米和茄子）的生长期、耗水模式、灌溉模式不同，将两个时间段内的植被组与裸地组的潜水面净通量进行了对比，发现植被的生长因素（生长期和耗水模式)对潜水面净通量的影响远小于气象条件和灌溉模式，而试验点地处中温带干旱区，降雨量较小，灌溉量是试验点潜水的主要补给来源，因而，两年同时期的潜水面补排量的较大差异主要归因于灌溉模式的变化较大。说明在包气带岩性相同、种植作物不同的情况下，当总灌溉量相近时，少次大量( $1 5 0 \\ \\mathrm { m m } { \\mathord { \\left/ { \\vphantom { \\left( 1 5 0 \\ \\mathrm { m m } \\right) } } \\right. \\kern - delimiterspace } }$ 次)的灌溉模式对试验点潜水补给量的贡献大于多次小量（50mm/次)的灌溉模式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中宁试验点植被组2013年7～10月潜水面入渗补给 $2 8 4 . 2 1 \\ \\mathrm { \\ m m }$ ,2014年同期潜水面入渗补给$3 1 2 . 3 1 \\ \\mathrm { m m }$ 。可见,试验点两年同期潜水面入渗量相近。由表2可见，试验点2013年7月 $\\sim 1 0$ 月潜水面净入渗补给量与2014年同期相差不大。这是由于中宁试验点观测期内一直种植枸杞，植被生长和灌溉模式相近，且两年气象条件变化不大，因而中宁试验点两年同时期的潜水面净通量相近。这说明了在包气带岩性相同、种植作物相同的情况下，试验点同期潜水面入渗补给强度相近。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2包气带水分运移影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1降雨和灌溉对包气带水分运移的影响以观测期内的8次典型降雨和灌溉为例，对试验点包气带土壤水分运移过程进行分析，具体情况见表3，部分降雨和灌溉情况下的土水势变化曲线见图5、图6、图7。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5看出，中卫试验点在降雨量为 $1 0 . 5 \\ \\mathrm { m m }$ 的情况下，裸地组包气带表层土壤很快从蒸发状态变为入渗状态,影响深度仅在 $5 0 \\ \\mathrm { c m }$ 左右(图5a）;而植被组由始至终都维持蒸发状态，土水势并没有较大变化（图5b），说明这次降雨并没有补给到地下水。以中卫试验点裸地组为例，由表3可以看出，在降雨量为 $1 3 . 4 \\ \\mathrm { m m }$ 的情况下，试验点地下水受到$1 . 5 2 \\ \\mathrm { m m }$ 的入渗补给，产生了较小的水位抬升；在降雨量为 $2 0 . 8 ~ \\mathrm { m m }$ 的情况下，试验点地下水的入渗补给量为 $2 . 8 1 \\ \\mathrm { m m }$ ,却产生了明显的水位抬升;在漫灌量 $5 0 ~ \\mathrm { m m }$ 的情况下，试验点地下水入渗补给量增为$2 4 . 6 2 \\ \\mathrm { m m }$ ;在漫灌量 $1 5 0 ~ \\mathrm { m m }$ 的情况下，试验点地下水受到的入渗补给量为 $8 8 . 4 7 ~ \\mathrm { m m }$ 。可见，在单次降雨情况下，只有降雨量足够大( $1 3 . 4 \\ \\mathrm { m m }$ 左右)时，才会对地下水产生入渗补给，在漫灌情况下，灌溉量越大对地下水产生的入渗量也越大。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b63a30461800bf2d6ce5506b44977ba4f5acd2261bff75eeb61c8428456259d4.jpg",
+        "table_caption": [
+            "表2观测期内潜水面净通量表",
+            "表3典型降雨、灌溉情况下水分入渗补给状况表",
+            "Tab.3 Groundwater recharge under the typical rainfall and irrigation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">试 验 点</td><td rowspan=\"2\">时间</td><td rowspan=\"2\">降雨量</td><td rowspan=\"2\">灌溉量</td><td rowspan=\"2\">前地下水 位埋深 /mm</td><td rowspan=\"2\">后地下水 位埋深 /mm</td><td colspan=\"2\">植被组</td><td colspan=\"2\">裸地组</td></tr><tr><td>地表人渗 量/mm</td><td>潜水面入 渗量／mm</td><td>地表人渗 量/mm</td><td>潜水面入 渗量／mm</td></tr><tr><td rowspan=\"5\">中卫</td><td>2013-9-01</td><td>10.5</td><td></td><td>100.1</td><td>100.1</td><td>3.13</td><td></td><td>8.77</td><td></td></tr><tr><td>2014-9 -23</td><td>13.4</td><td></td><td>127.8</td><td>124</td><td>5.86</td><td>0.49</td><td>9.06</td><td>1.52</td></tr><tr><td>2013-7-09</td><td>20.8</td><td></td><td>106.4</td><td>93.8</td><td>10.75</td><td>0.74</td><td>11.43</td><td>2.81</td></tr><tr><td>2014-7-31</td><td></td><td>50</td><td>91.3</td><td>83</td><td>41.95</td><td>20.18</td><td>42.85</td><td>24.62</td></tr><tr><td>2013-7-19</td><td></td><td>150</td><td>105</td><td>85</td><td>117.80</td><td>99.50</td><td>107.27</td><td>88.47</td></tr><tr><td rowspan=\"3\">中宁</td><td>2014-6-28</td><td>9.8</td><td></td><td>123</td><td>123</td><td>3.06</td><td></td><td>6.38</td><td></td></tr><tr><td>2013-9-10</td><td>14</td><td></td><td>179</td><td>171</td><td>6.29</td><td>0.45</td><td>9.6</td><td>1.37</td></tr><tr><td>2013-7-01</td><td></td><td>100</td><td>177.5</td><td>116</td><td>96.57</td><td>30.31</td><td>94.61</td><td>25.98</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9470ac42c92918c4c63dcffa422dccd08834d6799f1217c00ac2878f0ead18b0.jpg",
+        "img_caption": [
+            "注：图中蓝色虚线表示土壤的饱和界线",
+            "Fig.5Soil water potential curves before and after the rainfallon Sep1,2O13 at Zhongwei experiment station "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe6d5ed39c87fa944d22c638693ab95321e0b31880a4015d98bd33539e37c960.jpg",
+        "img_caption": [
+            "图5中卫试验点2013年9月1日降雨前后土水势变化曲线",
+            "图6中卫试验点2013年7月9日降雨前后土水势变化曲线",
+            "Fig.6Soil water potential curves before and after the rainfall on $\\operatorname { J u l } 9$ ,2013 at Zhongwei experiment static "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同理，中宁试验点在单次降雨量达到 $1 4 ~ \\mathrm { m m }$ 左右时，才会对地下水产生入渗补给。并且相比于降雨，农业灌溉对试验点地下水的入渗补给有更大的贡献。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2植被对包气带水分运移的影响中卫试验点降雨 $1 0 . 5 \\ \\mathrm { m m }$ 的情况下（图5），裸地组包气带明显存在水分入渗过程，而植被组没有，这是由于植被冠层的覆盖阻碍了水分的由地表入渗。在降雨$2 0 . 8 ~ \\mathrm { m m }$ 的情况下（图6），两组试验的地下水均受到补给，裸地组潜水接受补给 $2 . 8 1 \\ \\mathrm { m m }$ ,植被组潜水接受补给 $0 . 7 4 \\ \\mathrm { m m }$ ,由此可见，植被根系的蓄水作用阻碍了水分的下渗。由表3可见，在漫灌 $5 0 ~ \\mathrm { m m }$ 的情况下，两组试验均对地下水产生补给，裸地组地下水接受补给 $2 4 . 6 2 \\ \\mathrm { m m }$ ,植被组地下水接受补给20.$1 8 ~ \\mathrm { m m }$ ;在漫灌 $1 5 0 \\ \\mathrm { m m }$ 情况下，裸地组地下水接受补给 $8 8 . 4 7 ~ \\mathrm { m m }$ ,植被组地下水接受补给 $9 9 . 5 ~ \\mathrm { m m }$ ，说明在降雨或灌溉量较小的情况下，植被组地下水接受的入渗补给量小于裸地组，而随着灌溉量增大，灌溉使得包气带土壤近饱和状态，使植被产生水分胁迫作用，植被组地下水接受的入渗补给量大于裸地组，此时植被的生长促进了水分的下渗。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在降雨或灌溉量较小( $5 0 ~ \\mathrm { m m } ;$ )的情况下，由于植被的冠层覆盖和根系蓄水作用，植被的生长阻碍了水分在包气带中的下渗；在灌溉量较大（ $1 0 0 \\ \\mathrm { m m }$ 和 $1 5 0 ~ \\mathrm { m m } ^ { \\cdot }$ )的情况下，植被的生长促进了包气带水分的下渗。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/52a1fa7bef0bfb48d38629f6c83c006272bdb12eaadae2606b2259348798cba1.jpg",
+        "img_caption": [
+            "图7中宁试验点2013年7月1日灌溉前后土水势变化曲线",
+            "Fig.7Soil water potentialcurvesbeforeand after theirigationon Jul1,2Ol3at Zhongning experiment station "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3岩性结构对包气带水分运移的影响对比两个试验点的包气带岩性，中卫试验点的包气带相较中宁试验点岩性颗粒稍粗，渗透能力比中宁试验点强，更有利于水分的入渗补给。将中卫试验点裸地组入渗情况下的土水势变化曲线与包气带岩性进行对比(图6a)，发现中卫试验点裸地组在水分入渗前第一个零通量面出现在埋深 $4 0 \\ \\mathrm { c m }$ 左右，位于持水能力和导水能力有较大差异的壤土层与砂壤层的交界处，在水分入渗中，第一个零通量面出现在埋深$5 0 ~ \\mathrm { c m }$ 左右，是由于砂壤与下层粉粘壤的持水与导水能力的差异较大。由图7a可见，中宁试验点裸地组在无水分入渗情况卜，发育3个零通量面，均位于粉壤层，在灌溉 $^ { 2 \\mathrm { ~ h ~ } }$ 后，土壤剖面呈近饱和状态，水分饱和点首先出现在埋深 $5 0 ~ \\mathrm { c m }$ 和 $1 0 0 \\ \\mathrm { c m }$ 左右处,这是由于粉壤层内部的饱和导水率差异所致，通过对土壤样品的测试，发现埋深 $3 0 \\sim 7 5 \\ \\mathrm { c m }$ 范围内的粉壤饱和导水率稍大于上下两层粉壤。同时也说明了试验点包气带垂向岩性特征的差异会引起剖面上土水势曲线的偏转,形成土水势线的弯曲或零通量面，进而影响水分在包气带中的运移。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）试验点的地表蒸散发、入渗量和潜水面蒸发、入渗量均受季节变化影响显著，夏季较大，春秋季节较小。在包气带岩性相同、种植作物不同的情况下，当总灌溉量相近时，少次大量( $1 5 0 ~ \\mathrm { m m } / \\$ 次的灌溉模式对试验点潜水补给量的贡献大于多次小量（ $5 0 ~ \\mathrm { m m }$ 次)的灌溉模式，如，中卫试验点种植玉米情况下，2013年7\\~10月份潜水面入渗补给373.65$\\mathbf { m } \\mathbf { m }$ ，潜水面水量交换以入渗补给为主，种植茄子情况下，2014年同期潜水面入渗补给 $1 5 2 . 3 ~ \\mathrm { m m }$ ，潜水面水量交换以蒸发排泄为主。在包气带岩性相同、种植作物相同的情况下，试验点同期潜水面入渗补给强度相近，如中宁试验点植被组2013年 $7 \\sim 1 0$ 月份潜水面入渗补给 $2 8 4 . 2 1 \\ \\mathrm { m m }$ ,2014年同期潜水面入渗补给 $3 1 2 . 3 1 \\ \\mathrm { m m }$ ,潜水面水量交换均以入渗补给为主，并且净补给量相近。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）中卫试验点在单次降雨情况下，只有降雨量足够大( $1 3 . 4 ~ \\mathrm { m m }$ 左右)时，才会对地下水产生入渗补给，中宁试验点在单次降雨量达到 $1 4 ~ \\mathrm { m m }$ 左右时，才会对地下水产生入渗补给，在漫灌情况下，灌溉量越大对地下水产生的入渗量也越大。在降雨或灌溉量较小( $5 0 ~ \\mathrm { m m } ^ { \\cdot }$ )的情况下，由于植被的冠层覆盖和根系蓄水作用，植被的生长阻碍了水分在包气带中的下渗;在灌溉量较大( $1 0 \\ \\mathrm { m m }$ 和 $1 5 0 \\ \\mathrm { m m } ^ { \\cdot }$ 的情况下，植被的生长促进了包气带水分的下渗。包气带垂向岩性特征的差异可以促进土水势线的弯曲和零通量面的形成，并影响水分在包气带中的运移。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）本次研究在野外试验观测中，由于设备原因未能获取冬季野外数据，在以后的研究中可加以改进;另外，本文中的计算结果依赖于两个试验点的野外数据，下一步工作有必要从区域尺度和土壤空间变异性的角度进行考虑。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究依托于中国地调局宁夏沿黄经济区水文地质环境地质调查项目中的卫宁平原包气带原位试验及水分运移研究专题，感谢项目合作单位宁夏回族自治区水文环境地质勘察院在原位试验中的帮助，并感谢课题组王彪、赵丽在原位试验和后续工作中的协助合作。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] KEIMD M,WESTLJ,ODLING NE.Convergent flow in unsaturated fractured chalk[J].Vadose Zone Journal,2012,11（4）： 841-852.   \n[2] IWASAKI Y,NAKAMURA K,HORINO H,et al.Assessment of factors influencing groundwater-level change using groundwater flow simulation,considering vertical infiltration from rice-planted and crop-rotated paddy fields in Japan[J].Hydrogeology Journal, 2014,22(8):1841 -1855.   \n[3] WEGEHENKEL M,ZHANG Y,ZENKER T,et al.The use of lysimeter data for the test of two soil-water balance models:A case study[J]. Journal of Plant Nutrition and Soil Science,2OO8,171 (5):762 -776.   \n[4] DREISS S J,ANDERSON L D.Estimating vertical soil-moisture flux ata land treatment site[J].Ground Water,1985,23（4）： 503 -511.   \n[5] ARNOLD JG,ALLENP M.Estimating hydrologic budgets for three Ilinois watersheds[J]. Journal of Hydrology,1996,176（1- 4) :57 -77.   \n[6] SIBANDA T,NONNER JC,UHLENBROOK S. Comparison of groundwater recharge estimation methods for the semi-arid Nyamandhlovu area,Zimbabwe[J].Hydrogeology Journal,2009,17 (6):1427 -1441.   \n[7] FLURY M,WAI N N. Dyes as tracers for vadose zone hydrology [J].Reviews of Geophysics,2003,41(1）:1002.   \n[8] SCANLON B,HEALY R,COOK P. Choosing appropriate techniques for quantifying groundwater recharge[J].Hydrogeology Journal,2002,10(1):18 -39.   \n[9]STEPHENS D B,KNOWLTON R. Soil water movement and recharge through sand at a semiarid site in New Mexico[J].Water Resources Research,1986,22(6）:881 -889.   \n[10］汪可欣.保护性耕作条件下土壤水分运动规律的研究［D].沈 阳:沈阳农业大学,2009.[WANG Kexin.Research on soil water movement of conservation tillage[D].Shenyang:Shenyang Agriculture University,2009.   \n[11］韩占涛,荆恩春,李向全,等.宁夏清水河平原农田包气带水分 运移特征分析[J].干旱区资源与环境,2011,25（4）：138- 142.[HAN Zhantao,JING Enchun,LI Xiangquan,et al.Characteristics of water migration in vadose zone of farmland in Qingshuihe plain,Ningxia[J]. Journal of Arid Land Resources and Environment,2011,25(4) :138 -142.]   \n[12]ASSEFA K A，WOODBURY A D.Transient，spatially varied groundwater recharge modeling[J]. Water Resources Research, 2013,49(8):4593-4606.   \n[13]HOU L Z,WANG X S,HU B X,et al. Experimental and numerical investigations of soil water balance at the hinterland of the Badain Jaran Desert for groundwater recharge estimation[J]. Journal of Hydrology,2016,540:386-396.   \n[14］于艳青,张作辰.宁夏河套平原地下水资源开发潜力分析[J]. 水文地质工程地质,2002,29（2）：56-58.[YU Yanqing, ZHANG Zuochen. Analysis on groundwater resources exploitation potentiality in Hetao plain of Ningxia[J].Hydrogeology&Engineering Geology,2002,29（2）:56-58.]   \n[15］李培月.人类活动影响下地下水环境研究[D].西安：长安大 学,2014.［LI Peiyue.Research on groundwater environment under human interferences:A case study from Weining Plain,Northwest China[D].Xi'an:Chang'an University,2014.]   \n[16]LI S,LIANG S C.Application of DRASTIC model based on entropy weight to the assessment on vulnerability of groundwater in Weining Plain[J].Advances in Environmental Science and Engineering,2012,518:4007 -4014.   \n[17］雷志栋,杨诗秀,谢森传.土壤水动力学[M].北京;清华大学 出版社,1988:51 -56.[LEI Zhidong,YANG Shixiu,XIE Senchuan.Soil water dynamics[M].Beijing：Tsinghua University Press ,1988:51 -56.]   \n[18］张克恭,刘松玉.土力学［M].北京：中国建筑工业出版社, 2001:51.[ZHANG Kegong,LIU Songyu. Soil mechanics[M]. Beijing:China Architecture & Building Press,2001:51.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moisture migration characteristics in vadose zones in Weining Plain ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Hao-xu¹，CUI Ya-li1，MA Xiao-bou²，HU Xian-zheng³ (1Scholof Water Resources and Environment，China Universityof Geosciences(Beijing）,Beijing 1Oo083,China; 2HydrogeologyandEngineering Exploration Instituteof Ningxia Hui Autonomous Region,Yinchuan75ool1,Ningxia，China; 3Geological Environment Survey Institute of Hebei Province,Shijiazhuang O5OO21,Hebei ,China） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Moisture migration including precipitation,irigation infiltration and evaporation from phreatic water in vadose zone plays an important role in groundwater circulation.In order to accurately evaluate the water exchange quantitythrough thevadose zone in Weining Plain,two in situ experiment sites were setin Zhongwei County and Zhongning County,Ningxia Hui Autonomous Region,China in this study.The observation wasconducted from Jun 2013 to Nov 2013 and from Apr 2014 to $0 \\mathrm { c t } 2 0 1 4$ respectively.The soil water pressure ,soil temperature,soil texture and soil hydraulic parametersat diferent depths were measured.The evapotranspiration,infiltrationatthe land surface and the evaporation,infitrationon the groundwater table werecalculated using the oriented flux method.At Zhongwei experiment site,the groundwater recharge through the vadose zone in maize land which was $3 7 3 . 6 5 ~ \\mathrm { m m }$ is much greater than that in eggplant land which was $1 5 2 . 3 \\ \\mathrm { m m }$ ,with the irgation pattern in maize land being low frequency with large amount of water each time（ $1 5 0 ~ \\mathrm { m m }$ ）,and the irrigation pattern in the eggplant land being high frequency with small amount of water each time ( $5 0 ~ \\mathrm { m m }$ ).It indicates that under the condition of the same soil texture,thesame irrigation period（Julyto October）and the similar total irrigationamount,the irrigation pattrn of crops determines the recharge quantity to the phreatic water.At Zhongning experiment site,the groundwater net recharge through the vadose zone was $3 2 . 8 8 ~ \\mathrm { m m }$ from Jul to Oct in 2013 and $5 7 . 4 2 \\ \\mathrm { m m }$ during the same period in 2014.It indicates that underthe condition ofthe same soil texture,the same crop,and the same irrigation pattern, the changeof the groundwater net recharge through thevadose zone is litle.Under the rainfall or smallamount of flooding irrigation( $5 0 ~ \\mathrm { m m }$ )the vegetation in growth will hinder the water from being infiltrated into the vadose zone,but it accelerates the infiltration of water in the case of large irrigation volume（ $1 0 0 - 1 5 0 ~ \\mathrm { m m }$ ）. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Weining Plain；vadose zone；moisture migration characteristics ",
+        "page_idx": 8
+    }
+]

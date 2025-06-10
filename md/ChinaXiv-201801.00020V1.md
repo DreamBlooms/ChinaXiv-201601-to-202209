@@ -1,0 +1,218 @@
+编号：163075
+
+# 超临界压力 ${ \mathsf { C } } 0 _ { 2 }$ 水平管内冷却换热机理研究
+
+相梦如1,2 郭江峰」²淮秀兰¹²成克用¹²崔欣莹¹² 张泽’张健’(1.中国科学院工程热物理研究所，北京100190；2.中国科学院大学工程科学学院，北京100049;3.北方工业大学，北京，100144)
+
+摘要：采用 SST $k { - } \omega$ 模型对冷却条件下超临界压力 $\mathrm { C O } _ { 2 }$ 在水平管内的对流换热进行了数值研究，分析了流体物性、热流密度、直径以及浮升力等对其在拟临界点附近的流动换热特性的影响，并从场协同的角度分析了超临界压力 $\mathrm { C O } _ { 2 }$ 的传热机理。结果表明：浮力效应使流体在流动截面上出现温度场不对称和二次流现象；下壁面的对流换热系数比上壁面先达到峰值，但换热系数小于上壁面；增大热流密度对换热系数的影响较小但能够使换热系数的峰值向入口段移动；增大热流密度和增大直径能够增强浮力效应对流体换热特性的影响；场协同原理可以解释同一截面处的换热不均匀现象。
+
+关键词：超临界压力 $\mathrm { C O } _ { 2 }$ ；对流换热；场协同原理；浮力效应；数值模拟中图分类号：TK124 文献标识码：A
+
+# A study on the cooling heat transfer mechanism for supercritical pressure
+
+# ${ \mathsf { C } } { \mathsf { 0 } } _ { 2 }$ in horizontal tube
+
+XIANG Meng-Ru1, 2 GUO Jiang-Feng' HUAI Xiu-Lan1 CHENG Ke-Yong1 CUI Xin-Ying1,2 ZHANG $\boldsymbol { Z } \boldsymbol { \mathrm { e } } ^ { 3 }$ ZHANG Jian³
+
+(1.Institute of Engineering Thermophysics, Chinese Academy of Sciences,Beijing 100190, China;
+
+2.School of Engineering Science, University of Chinese Academy of Sciences,Beijing 10oo49, China
+
+3.North China University of Technology,Beijing 100144, China)
+
+Abstract: The convective heat transfer of supercritical pressure $\mathrm { C O } _ { 2 }$ in horizontal tube under cooling condition is numerically investigated using $\operatorname { s s r } k$ - ωturbulent model. The effects of thermal physical properties, heat flux, tube diameterand buoyancy on the heat transfer characteristics are discussed.The results show that the temperature is asymmetric and secondary flow is generated on the cross section due to the buoyancy effect.The peak value of heat transfer coeffcient appears earlieron the botom surface than on the top surface,but its value is smaller than that on the top surface.The increasing heatflux has litle influence on the peak value ofheat transfer coeffcient,but affects its position seriously.The larger the heat flux and the tube diameter are,the more significant the buoyancy effect is. The non-uniformity of heat transfer on the same cross section can be explained by field synergy principle.
+
+Key words: supercritical pressure $\mathrm { C O } _ { 2 }$ ; convective heat transfer; field synergy principle; buoyancy effect; numerical simulation
+
+# 0引言
+
+$\mathrm { C O } _ { 2 }$ 流体具有无毒、不燃、性能稳定以及价格便宜等优点，而且超临界 $\mathrm { C O } _ { 2 }$ 流体由于其特殊的物性变化，表现出良好的流动和传热特性，因此在核反
+
+应堆、太阳能系统、制冷系统等领域中具有广阔的应用前景[12]。与传统常物性流体相比，超临界 $\mathrm { C O } _ { 2 }$ 流体在临界点和拟临界点附近物性变化剧烈，传热规律特殊而复杂，因此超临界 $\mathrm { C O } _ { 2 }$ 流体的流动换热特性成为近年来的研究热点3]。
+
+Dang&Hihara[4,5采用实验和数值模拟方法研究了直径、质量流量和热流密度等因素对超临界压力 $\mathrm { C O } _ { 2 }$ 流体在水平管中的对流换热特性，并且假设浮力效应忽略不计。Du 等人发现水平管中浮力效应强化了超临界压力 $\mathrm { C O } _ { 2 }$ 流体在拟临界点附近的换热强度。
+
+过增元等[7-9提出了场协同原理，认为热源强度不仅取决于流体的物性和速度，还取决与速度和温度梯度场的协同性。当速度矢量和温度梯度矢量的夹角小于 $9 0 ^ { \circ }$ 时，夹角越小，则换热强度越好。
+
+本文采用数值方法研究超临界压力 $\mathrm { C O } _ { 2 }$ 在拟临界点 $\stackrel { \cdot } { T } _ { \mathrm { p c } } { = } 3 0 7 . 8 \mathrm { ~ K ~ }$ ， $p { = } 8 \ \mathrm { M P a } )$ 附近的对流换热特性，重点分析热流密度、直径和浮升力对局部对流换热强度的影响，并从场协同的角度分析超临界压力 $\mathrm { C O } _ { 2 }$ 的局部传热机理，以便能够为高效换热器的开发和设计提供理论基础。
+
+# 1数值模拟
+
+# 1.1物理模型
+
+由于超临界压力 $\mathrm { C O } _ { 2 }$ 物性变化剧烈，为了准确模拟其在水平管内的局部对流换热特性，建立三维模型，如图1所示。模型尺寸：直径2、4、 $6 \mathrm { m m }$ 的水平单管，长度 $8 4 0 ~ \mathrm { m m }$ ，由 $2 4 0 ~ \mathrm { m m }$ 绝热入口段和$6 0 0 \mathrm { m m }$ 冷却段组成，以便在冷却段开始处使流动接近充分发展，减小入口效应。
+
+![](images/46bab6d9584a06e64622b4777e0211a9bc14dd4bd551caacfd5480a51cb9dd1f.jpg)  
+图1物理模型  
+Fig.1 Physical model
+
+# 1.2控制方程
+
+直角坐标系下的控制方程如下[0,1]：连续性方程：
+
+$$
+\frac { \hat { \sigma } } { \hat { \sigma } x _ { i } } \big ( \rho u _ { i } \big ) = 0
+$$
+
+动量方程：
+
+$$
+\begin{array} { l } { \displaystyle \frac { \hat { \partial } } { \partial x _ { j } } \big ( \rho u _ { i } u _ { j } \big ) = - \frac { \hat { \partial } p _ { i } } { \hat { \partial } x _ { i } } + \rho g _ { i } } \\ { \displaystyle + \frac { \hat { \partial } } { \hat { \partial } x _ { j } } \Bigg [ \big ( \mu + \mu _ { \mathrm { t } } \big ) \Bigg ( \frac { \hat { \partial } u _ { i } } { \hat { \partial } x _ { j } } + \frac { \hat { \partial } u _ { j } } { \hat { \partial } x _ { i } } \Bigg ) - \frac { 2 } { 3 } \big ( \mu + \mu _ { \mathrm { t } } \big ) \frac { \hat { \partial } u _ { k } } { \hat { \partial } x _ { k } } \Bigg ] } \end{array}
+$$
+
+能量方程：
+
+$$
+\frac { \hat { \sigma } } { \hat { \alpha } _ { i } } \big ( \rho u _ { i } c _ { \mathrm { p } } T \big ) = \frac { \hat { \sigma } } { \hat { \alpha } x _ { i } } \Bigg ( \hat { \lambda } \frac { \hat { \sigma } T } { \hat { \alpha } x _ { i } } \Bigg ) + \varPhi
+$$
+
+其中， $\phi$ 为粘性引起的能量耗散， $\mu _ { \mathrm { t } }$ 为基于湍流模型的湍流粘度。
+
+# 1.3数值方法和边界条件
+
+采用ANSYSCFX[12软件进行数值计算，采用NIST Standard Reference Database 23(REFPROP)Version $7 ^ { [ 1 3 ] }$ 数据库计算超临界 $\mathrm { C O } _ { 2 }$ 的热物性参数，并编写RGP物性文件，导入CFX软件。与线性插值方法相比，物性RGP文件能够更精确地反映物性的剧烈变化。计算采用压力速度耦合算法和 $\operatorname { s s r } k - \omega$ 模型， $\operatorname { s s r } k - \omega$ 模型兼具有 $k - \varepsilon$ 模型的健壮性和独立性以及 $k { - } \omega$ 模型在近壁面区计算准确的优点。当所有控制方程的迭代残差小于 ${ { 1 0 } ^ { - 6 } }$ 时，认为数值计算已经收敛。
+
+边界条件：质量流量入口，压力出口，绝热入□段壁面以及定热流冷却段壁面。质量流量100-300$\mathrm { k g / m } ^ { 2 } \mathrm { s }$ ，压力 $8 \mathrm { M P a }$ ，入口温度 $3 4 0 . 1 5 \mathrm { K }$ ，热流密度$3 5 { - } 4 5 \mathrm { k W / m } ^ { 2 }$ ，入口雷诺数约为 $3 \times { 1 0 } ^ { 4 }$ 。
+
+# 1.4网格无关性验证和数值方法验证
+
+网格由ANSYSICEM生成，径向网格加密，确保近壁面 $y + < 1$ ，以满足SST湍流模型对 $y +$ 的要求，网格质量大于0.6，满足要求。网格无关性验证结果如表1所示。序号3和5的两套网格对应的换热系数的相对误差为 $0 . 2 \%$ ，考虑计算时间和求解精度，选择3号网格进行模拟。为了验证数值模拟的准确性，将模拟结果与Dang&Hihara4的实验数据进行对比。模型尺寸和边界条件均与文献实验工况一致。模拟与实验结果对比如图2所示。模拟数据和实验数据的最大相对误差为 $1 3 . 5 \%$ ，说明了数值方法的准确性和可靠性。
+
+表1网格无关性验证  
+Table 1 Mesh independence verification   
+
+<html><body><table><tr><td>序号</td><td>网格数</td><td>y+</td><td>h/W·m²·K-1</td><td>误差 (%)</td></tr><tr><td>1</td><td>156975</td><td>0.743</td><td>10259.66</td><td>4.9</td></tr><tr><td>2</td><td>268128</td><td>0.744</td><td>10188.78</td><td>4.2</td></tr><tr><td>3</td><td>557403</td><td>0.594</td><td>9803.29</td><td>0.2</td></tr><tr><td>4</td><td>697103</td><td>0.594</td><td>9803.29</td><td>0.2</td></tr><tr><td>5</td><td>940615</td><td>0.595</td><td>9778.95</td><td>0</td></tr></table></body></html>
+
+![](images/f6258bdb64f29bc5fed49e329a3704585c7d289d01bf7d09e850283065d424b9.jpg)  
+图2数值方法验证[4]
+
+# 2 场协同原理
+
+对于一般三维模型，考虑稳态无内热源情况其对流换热能量方程的积分式为[7]：
+
+$$
+\begin{array} { r l } & { \displaystyle { \int _ { 0 } ^ { \delta _ { \mathrm { t } } } } \left[ \rho { c _ { \mathrm { p } } } \left( u \frac { \partial T } { \partial x } { + \nu \frac { \partial T } { \partial y } } { + \nu \frac { \partial T } { \partial z } } \right) { - k \left( \frac { \partial ^ { 2 } T } { \partial x ^ { 2 } } + \frac { \partial ^ { 2 } T } { \partial z ^ { 2 } } \right) } \right] d y } \\ & { \displaystyle { = - k \frac { \partial T } { \partial y } \Bigg \vert _ { \mathrm { w } } = q _ { \mathrm { w } } } } \end{array}
+$$
+
+其中， $\rho _ { \setminus } \ c _ { \mathfrak { p } }$ 和 $k$ 分别为流体密度、定压比热和导热系数， $\delta _ { \mathrm { t } }$ 为热边界层厚度， $q _ { \mathrm { w } }$ 表示壁面热流密度。忽略轴向导热，将(4)式写成矢量形式：
+
+$$
+\int _ { 0 } ^ { \delta _ { \mathrm { t } } } \rho c _ { \mathrm { p } } \left( U \cdot \nabla T \right) d y = q _ { \mathrm { w } }
+$$
+
+引入无因次变量：
+
+$$
+\overline { { U } } = \frac { U } { u _ { \mathrm { b } } } , \quad \nabla \overline { { T } } = \frac { \nabla T } { \left( T _ { \mathrm { w } } - T _ { \mathrm { b } } \right) / \delta _ { \mathrm { t } } } , \quad \overline { { y } } = \frac { y } { \delta _ { \mathrm { t } } }
+$$
+
+其中， $u _ { \mathrm { b } }$ 和 $T _ { \flat }$ 分别为流体平均速度和平均温度， $T _ { \mathrm { w } }$ 为壁面温度。
+
+将(6)式代入(5)式并整理可得无因次关系式：
+
+$$
+\int _ { 0 } ^ { 1 } R e _ { \mathrm { b } } P r _ { \mathrm { { b } } } \left( \boldsymbol { \overline { { U } } } \cdot \nabla \boldsymbol { \overline { { T } } } \right) d \boldsymbol { \overline { { y } } } = \frac { q _ { \mathrm { w } } d } { \left( T _ { \mathrm { w } } - T _ { \mathrm { b } } \right) k _ { \mathrm { b } } } = \frac { h d } { k _ { \mathrm { b } } } = N u _ { \mathrm { b } }
+$$
+
+其中， $h$ 为对流换热系数，雷诺数 $R e = { \frac { \rho u d } { \Gamma } }$ ，普朗特$\overline { { \mu } }$ 数 $P r = \frac { \mu c _ { \mathrm { p } } } { k }$ ，下标b表示主流体，下标 $\mathbf { w }$ 表示壁面，$\overline { { U } } \cdot \nabla \overline { { T } }$ 可以表示为：
+
+$$
+\overline { { U } } \cdot \nabla \overline { { T } } = \Big | \overline { { U } } \Big | \cdot \Big | \nabla \overline { { T } } \Big | c o s \beta
+$$
+
+其中， $\beta$ 为速度矢量与温度梯度矢量之间的夹角，即场协同角。
+
+式(7)表明在变物性情况下， $N u _ { \mathrm { b } }$ 与流体的流动、物性和通道直径有关，还与速度场和温度梯度场的协同性有关，影响因素众多，比较复杂。因此将式(7)改写成：
+
+$$
+\int _ { 0 } ^ { 1 } \rho c _ { \mathrm { p } } u _ { \mathrm { b } } \left( { \overline { { U } } } \cdot \nabla { \overline { { T } } } \right) d { \overline { { y } } } = { \frac { q _ { \mathrm { w } } } { \left( T _ { \mathrm { w } } - T _ { \mathrm { b } } \right) } } = h
+$$
+
+![](images/3ab7152799c4f10a5637dddb1f5ecb8c316f4b811c18a3564a0aa95bf27b0ea2.jpg)  
+Fig.2 Verificationof numerical method
+
+# 3．计算结果与讨论
+
+# 3.1热流密度对流动换热的影响
+
+为了研究热流密度对超临界压力 $\mathrm { C O } _ { 2 }$ 流动换热特性的影响，采用直径为 $6 ~ \mathrm { m m }$ ，热流密度为35、45$\operatorname { k W } / \mathrm { m } ^ { 2 }$ ，压力 $8 \mathrm { M P a }$ ，入口温度 $3 4 0 . 1 5 \mathrm { K }$ 。
+
+图3(a)给出了不同热流密度条件下，流体平均温度 $T _ { \mathrm { b } }$ 和局部壁面温度 $T _ { \mathrm { w } }$ 沿程分布。图3(a)表明在定热流条件下，流体温度和壁面温度沿流向逐渐降低到拟临界温度以下；上壁面温度比下壁面温度下降快，这是由于超临界压力 $\mathrm { C O } _ { 2 }$ 物性变化剧烈，在水平管内被冷却时，密度差引起浮力效应，使得上下壁温分布并不对称；当热流密度增大时，流体的冷却速度加快，而且上下壁面温度的差值明显增大，说明增大热流密度能够增强浮升力对超临界压力$\mathrm { C O } _ { 2 }$ 流动换热的影响。
+
+图3(b)给出了对流换热系数 $h$ 沿程分布，换热系数沿流向先增大到峰值后减小，这与超临界 $\mathrm { C O } _ { 2 }$ 的定压比热随温度的变化趋势一致。下壁面换热系数比上壁面先达到峰值，但其数值明显小于上壁面，在冷却条件下，靠近壁面的流体先被冷却，由于浮力影响，温度高而密度小的流体向上移动，导致上壁面温度与主流体之间的温差较小，因此上壁面具有更高的换热系数。当热流密度增大时，局部换热系数的峰值几乎没有变化，但达到峰值的位置提前，这是由于增大热流密度使流体温度更快降低到拟临界温度，在拟临界温度附近，换热系数达到峰值。
+
+![](images/be24cd38136910114469f04fbab4b4b4e829cea8445904f4eca66412fe02ee73.jpg)  
+图3不同热流下(a)温度和(b)对流换热系数沿程分布 Fig.3Distributions of(a) temperature and (b) heat transfer coefficient along the tube at different heat fluxes
+
+图4给出了不同热流密度下局部 $N u _ { \mathrm { b } }$ 分布情况，随着热流密度的增大， $N u _ { \mathrm { b } }$ 的峰值略有提高，说明增大热流密度有利于增强对流换热强度。图5给出了该工况下局部场协同角的分布，场协同角沿程分布不均匀，近上壁面处的场协同角小于下壁面，说明近上壁面处速度和温度梯度的协同性比下壁面好，因此具有更好的换热特性；在其它条件相同时，同一截面处，上下近壁面处的场协同角之间的差距随着热流密度的增大而增大，说明增大热流密度使浮力效应引起的对流换热场的不均匀性更加明显。
+
+![](images/90655e99adbbd0a5ad968567de6983258283d7416a610fa3b407a342962ca1f0.jpg)  
+图4不同热流密度下 $N u _ { \mathrm { b } }$ 沿程分布  
+Fig.4Distribution of $N u _ { b }$ along the tube at different heat fluxes
+
+![](images/a2f421c7e74668112978515b1998e593da59bb6da5d731b28c96846c4fdd6001.jpg)  
+图5不同热流密度下场协同角沿程分布
+
+# 3.2浮升力对流动换热的影响
+
+为了更加直观的了解浮升力对超临界压力 $\mathrm { C O } _ { 2 }$ 流动换热特性的影响,在不考虑重力 $\scriptstyle ( g = 0 )$ 情况下进行了模拟，并与考虑重力 $\left( g _ { y } { = } { - } 9 . 8 1 \ \mathrm { \ m / s } ^ { 2 } \right)$ 工况进行对比。
+
+图6给出了重力对 $N u _ { \mathrm { b } }$ 沿程分布的影响。从图中可以看出：考虑重力时的局部对流换热强度略高于不考虑重力时的工况，说明重力引起的浮力效应能够增强换热强度，但主要表现在冷却的后半段，即主流体温度小于拟临界温度的区域；随着热流密度的增大，重力引起的浮力效应更加明显。图7给出了对应工况下的局部场协同角，可以看出，不考虑重力时的场协同角小于考虑重力时的工况，因此对于物性剧烈变化的超临界流体，场协同原理的应用不能简单归因为场协同角的减小，应综合考虑多种影响因素。
+
+![](images/f091673a8865d37f84f09778da2aaaa5848fd31b2ce1e0bb431b20ed974fe8ca.jpg)  
+Fig.5Distribution of $\beta$ along the tube at different heat fluxes   
+图6有无重力条件下 $N u _ { \mathrm { b } }$ 沿程分布  
+Fig. 6 Distribution of $N u _ { \mathrm { b } }$ along the tube with or without gravity
+
+![](images/9ab6c035596f928cf4106aba13c889b84d98ba3506828b3394fd0ab58d780465.jpg)  
+图7有无重力条件下场协同角沿程分布
+
+图8给出了有无重力条件下，当量热源的数值-pc,(U ·VT）的沿程分布。考虑重力时的当量热源明显大于不考虑重力时的工况，而且考虑重力时当量热源沿程分布不均匀，当量热源随着热流密度的增大而增大。根据式(5)和(7)，增大当量热源能够增强换热强度，当量热源的数值不仅与速度、温度以及两者的夹角有关，还与流体的物性有关，由于超临界 $\mathrm { C O } _ { 2 }$ 流体的物性随温度变化剧烈，因此物性的剧烈变化成为其流动换热特性的主要影响因素。
+
+![](images/c34879086af676e3e624532259e811c22d065d696a31afbeb837080995444e4c.jpg)
+
+# 3.3直径对流动换热的影响
+
+为了研究直径对超临界压力 $\mathrm { C O } _ { 2 }$ 流动换热特性的影响，采用直径为 $2 、 4 、 6 ~ \mathrm { m m }$ ，热流密度为45$\mathrm { k W / m } ^ { 2 }$ ，压力 $8 \mathrm { M P a }$ ，入口温度 $3 4 0 . 1 5 \mathrm { K }$ ，入口雷诺数均为 $3 \times 1 0 ^ { 4 }$ 。
+
+图9给出了不同直径对应的 $N u _ { \mathrm { b } }$ 沿程分布，在$N u _ { \mathrm { b } }$ 达到峰值之前， $N u _ { \mathrm { b } }$ 随着直径的增加而增加，达到峰值之后， $N u _ { \mathrm { b } }$ 逐渐减小，此时直径大小对其影响较小。该工况对应的场协同角分布如图10所示，由图10可见，流体温度达到拟临界温度之前，场协同角随着直径的增大而明显减小，即在其他条件相同时，增大管径能够改善速度场和温度梯度场的协同性，增强换热强度。当流体温度小于拟临界温度时，管径对场协同角的影响较小，同时对传热系数的影响也比较小。
+
+![](images/a8348f1eb766f9c8b9abfb303c35b16153ddf482d5f35cbc3af0ae25c5017537.jpg)  
+Fig.7Distribution of $\beta$ along the tube with and without gravity   
+图9不同直径对应的 $N u _ { \mathrm { b } }$ 沿程分布
+
+![](images/f5d714a9557a28cca9f61b29c6fa0d59b7bd95165612fad7058f0f8d6a20fdd3.jpg)  
+图8有无重力条件下 ${ \mathsf { - } } \rho c _ { \mathsf { p } } \left( U \cdot \nabla T \right)$ 沿程分布 Fig. 8 Distribution of $- \rho { c } _ { \mathrm { p } } \left( U \cdot \nabla { T } \right)$ along the tube with and without gravity   
+Fig.9 Distribution of $N u _ { \mathrm { b } }$ along the tube with different diameters   
+图10不同直径对应的场协同角沿程分布  
+Fig.10 Distribution of $\beta$ along the tube with different diameters
+
+图11给出了超临界 $\mathrm { C O } _ { 2 }$ 在直径 $2 \ \mathrm { m m }$ 和 $6 \ \mathrm { m m }$ 的水平管内冷却时， $z { = } 3 9 0 \ \mathrm { m m }$ 截面上流体温度、径向速度和场协同角的分布。截面上流体温度出现不对称分布，温度高而密度小的流体向上聚集，温度低而密度大的流体主要集中在底部；重力引起的浮力效应使得截面上形成二次流，增加了流体的混合程度；截面上场协同角也呈不均匀分布，上部的场协同角小于底部的场协同角；随着直径的减小，截面上温度分布和场协同角分布更加均匀，二次流强度减小。
+
+![](images/de90b6d0238449ce34ab571bf6fba543ae99f57757bf33c11b898360d160f648.jpg)  
+图11截面上温度、速度和场协同角分布  
+Fig.11 Distributions of temperature, velocity and field synergy angle on cross section
+
+# 4结论
+
+本文利用双值力么叭儿了却求什「起怕乔压力 $\mathrm { C O } _ { 2 }$ 在水平管内的对流换热特性，主要结论如下：
+
+(1)浮力效应使截面上流体温度场分布不对称，同一截面处上壁面温度大于下壁面，近壁面流体先被冷却，产生较大密度差，形成二次流。(2)下壁面的对流换热系数比上壁面先达到峰值，但换热系数小于上壁面，截面顶部的场协同角小于底部。(3)热流密度的增大使换热系数的峰值向入口段移动，增大热流密度和直径能够增强浮力效应对流体换热特性的影响。(4)与 $g { = } 0$ 相比，考虑重力 $\scriptstyle ( g _ { y } = - 9 . 8 1 \ m / \mathrm { s } ^ { 2 } )$ 时虽然场协同角较大，但当量热源也比较大，因此换热强度大于 $g { = } 0$ 时的工况。
+
+# 参考文献
+
+[1]GUO Jiangfeng,HUAI Xiulan.Performance Analysis of Printed Circuit Heat Exchanger for Supercritical Carbon Dioxide[J].Journal ofHeat Transfer,2017,139:061801
+
+[2] HUANG Dan, WU Zan, Sunden B, et al. A brief review on convection heat transfer of fluids at supercritical pressures in tubes and the recent progress[J]. Applied Energy，2016, 162:494-505   
+[3] Rao N T, Oumer A N, Jamaludin U K. State-of-the-art on flow and heat transfer characteristics of supercritical $\mathrm { C O } _ { 2 }$ in various channels[J]. The Journal of Supercritical Fluids,2016, 116: 132-147   
+[4] Dang C，Hihara E. In-tube cooling heat transfer of supercritical carbon dioxide. Part1.Experimental measurement[J]. International Journal of Refrigeration, 2004,27(7):736-747 [5] Dang C，Hihara E.In-tube cooling heat transfer of supercritical carbon dioxide. Part 2. Comparison of numerical calculation with different turbulence models. International Journal of Refrigeration, 2004, 27(7):748-760   
+[6] DU Zhongxuan, LIN Wensheng, GU Anzhong. Numerical investigation of cooling heat transfer to supercritical $\mathrm { C O } _ { 2 }$ ina horizontal circular tube[J]. The Journal of Supercritical Fluids, 2010, 55(1):116-121   
+[7]过增元．对流换热的物理机制及其控制:速度场与热流场 的协同[J]．科学通报,2000,45(19):2118-2122   
+GUO Zengyuan. Physical mechanism and control of convective heat transfer: Field synergy for velocity and heat flux[J]. Chinese Science Bulletin,2000,45(19):2118-2122   
+[8]过增元．换热器中的场协同原则及其应用[J]．机械工程 学报,2003,39(12):1-9   
+GUO Zengyuan. Field synergy principle and its applications in heat exchanger[J]. Chinese Journal of Mechanical Enginering, 2003, 39(12):1-9   
+[9] GUO Z Y,LI D Y,WANG B X.A novel concept for convective heat transfer enhancement[J]. International Journal of Heat and Mass Transfer,1998,41(14):2221-2225   
+[10] GUO Jiangfeng,XU Mingtian, Cheng Lin. Numerical investigations of circular tube fitted with helical screw-tape inserts from the viewpoint of field synergy principle[J]. 2010, 49(4):410-417   
+[11] Garg V K, Ameri A A. Two-equation turbulence models for prediction of heat transfer on a transonic turbine blade[J]. International Journal ofHeatand FluidFlow， 2001, 22(6):593-602   
+[12] ANSYS CFX 15.0. Solver Theory Guide,ANSYS Inc., 2013.   
+[13] Refprop 7.0. NIST Standard Reference Database 23, Version 7.0

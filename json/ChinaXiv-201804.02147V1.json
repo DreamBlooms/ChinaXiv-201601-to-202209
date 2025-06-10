@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "基于SDWN的负载感知终端多点关联方案研究‘",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "池亚平1,²，李晓1，许萍²，杨建喜²(1．西安电子科技大学，通信工程学院，西安 710071;2．北京电子科技学院，通信工程系，北京 100070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：软件定义无线网络（SDWN）是一种控制与转发分离的无线网络架构。该架构可以快速获取全局拓扑并且其可编程性结合资源虚拟化技术可以对网络接入进行动态控制。针对现有WLAN 网络接入负载不均衡问题及移动终端与AP硬关联导致的切换速度较慢的问题，基于SDWN架构提出了一种负载感知终端多点关联方案。该方案对 SDWN网络架构下的终端接入算法进行改进，采用多点关联技术，即终端在感知AP负载数据后，可关联多个虚拟AP，达到动态分流并提高网络吞吐量的目的。最后在SDWN的开源Odin平台上验证了方案的可行性，实验表明相比无缝切换至另一AP，此方案可改变原有终端与AP接入一一对应的接入关系，根据AP 负载动态接入，可有效提升网络吞吐量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：终端多点关联；负载感知；软件定义无线网络 中图分类号：TP393.02 doi: 10.3969/j.issn.1001-3695.2017.12.0858 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on terminal multi-point association scheme based on load-aware in SDWN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chi Yaping1, ²,Li Xiao1,Xu Ping², Yang Jianxi² (1.Xidian University,Xian01,China;2.BeijingElectronicsScience&TechologyInstitute,Beijingo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Software Defined WirelessNetwork (SDWN)is a wireless network architecture that separates control plane and forward plane.Itcan get globaltopologyquickly andits programmable combined with resource virtualization technology can controlnetworkaccessdynamicallyInorder to solve the problemofunbalancedloadinexisting WLANandhandoverproblem caused bythehard associationbetween mobile terminalandAP,this paperproposesaterminal multi-point associationcheme based onload-aware in SDWN.This scheme improves the seamless handoff algorithm between AP based on trafc load perception.WhensensingAPload,theterminalcan connect multiple virtual APstoachieve dynamic diversion.Finaly,this scheme is verifiedonan experimental platform.Experiments show thatthis scheme changes therelationship between the terminaland the APonebyonecompared toseamlesslyswitching to another AP,which effectivelyimproves the terminal network throughput. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: terminal multi-point association ; load-aware ; software defined wireless network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年来，随着移动终端呈爆炸式增长，WLAN的应用越来越广泛。但是现有WLAN存在以下几点不足：a)WLAN下，移动终端一般基于信号强度（RSSI）选择AP，但此算法容易造成某AP关联终端过多，而相邻AP无终端现象，浪费网络资源;b)WLAN中，移动终端在AP之间的切换一般是硬切换，终端和AP间会有短时间的断开。这两点对用户服务质量（QoS）的影响较大，因此，解决上述问题迫在眉睫。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "软件定义网络（softwaredefinednetwork，SDN）作为一种新型的网络架构，主要思想是将控制层和数据转发层分离[1],使网络更为灵活可控。随着SDN思想的产生，学者们将 SDN和WLAN相结合，用以解决WLAN中的问题，软件定义无线网络[2]（software defined wireless network,SDWN）应运而生。SDWN拥有网络集中控制，可编程及可虚拟化等优点，可更好的解决现有WLAN的不足。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题 a)，文献[2\\~5]均考虑了多种影响终端选择AP的因子;针对上述问题b)，文献[6]提出了一种基于SDN 的无线网络双网卡移交技术，但该技术需要对终端进行硬件改造。针对问题 a)b)，文献[7]提出了一种 SDWN下基于流量负载感知的无缝切换算法，该算法可有效解决AP间负载不均衡问题。在此算法中，引入了虚拟接入点(light virtual access point,LVAP)的观点，主张采用虚拟接入点随着终端移动而“迁移”的策略实现移动性管理等网络优化工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文在文献[7]的基础上，提出了终端多点关联方案，在感知AP负载的情况下，终端可连接多个虚拟接入点(LVAP)，达到动态分流并提升终端网络吞吐量的目的，最终解决WLAN下负载不均衡问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 关键技术分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1负载感知技术研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WLAN中，移动终端在选择关联AP时，往往选择的是某个信号强度最强的AP，但此选择方法容易导致某个AP关联终端过多，相邻AP无终端使用的情况，造成网络资源的极大浪费，也无法保证QoS。文献[2\\~5]中，提出了将用户连接数目，信号强度带宽空闲率及传输错误率等作为终端选择AP的评估标准。文献[7]中扩展了传统Odin[8]架构，在控制器中加入AP状态获取模块，AP负载计算模块，AP权重计算模块及切换因子模块，通过考虑RSSI及AP流量负载，可有效解决AP间负载不均衡问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2虚拟化接入技术研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WLAN中，移动终端与AP之间的接入关联关系实质上是硬关联。由于是硬关联，在移动过程中，AP必须断开与之前服务AP的连接，才能够重新寻找新的AP进行接入关联。随着SDN技术的发展，现如今在WLAN架构下，通过AP虚拟化的方法，在AP上为终端提供一对一的虚拟接入点（vitural accesspoint,VAP）成为可能。文献[9]提出基于多信道的虚拟接入点接入方法，该方法需要物理AP之间相互存储相邻接入点的信息，如IP地址，MAC地址等，物理AP不仅需要存储产生VAP的信息，还要记录其他AP的信息，不利于网络管理。文献[6]提出了一种基于SDN的无线网络单网卡移交设计，将数据流重定向至客户端新的位置，从而实现用户跨网段漫游无中断。但是该方法需要修改每一条数据流，工作量巨大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在多点接入方面，文献[10]提出在IP层和MAC层引入一个中间层，对无线网卡进行虚拟化，利用算法使无线网卡在不同网络之间来回切换。但是此方法也需要修改终端。文献[11]对终端网卡进行虚拟化实现多点接入，提高终端服务质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前移动终端与虚拟AP之间的关系大多都是硬件关联，需要对硬件进行改造，不利于大规模部署。对于虚拟接入点的管理也成为关键性问题。本文基于 SDWN 网络架构，提出一种基于负载感知的终端多点关联技术，在得知AP负载的情况下，利用控制器与AP之间的交互过程，使一个终端对应多个虚拟AP成为可能，达到动态分流并提升终端网络吞吐量的目的，解决了WLAN下负载不均衡问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于SDWN的负载感知终端多点关联方案 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1主要应用场景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相比较传统的网卡虚拟化思想，本文采用的方案为轻量级虚拟化思想：即在SDWN架构下，通过虚拟BSSID进行无线资源虚拟化。文献[7]提出了一个扩展Odin架构，在该架构中，AP 端加入Click软路由系统[12]，可实现物理AP虚拟化：通过APagent（click）将探测请求发送给控制器，控制器分配虚拟BSSID(虚拟AP)给物理AP，并指导AP代理利用该虚拟BSSID给终端回应探测请求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在该架构中，在负载均衡算法执行前，终端与虚拟AP一一对应（如图1(a))，同时屏蔽物理AP本身的BSSID。在感知负载后，根据负载情况进行无缝切换，将终端对应虚拟AP“迁移”至相邻负载小的物理AP(负载均衡算法执行后，图1(b))。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a35f3ce4a1eb314e2041f7c9ff4251f2251187daa9f9819fc7d0dcde936e050.jpg",
+        "img_caption": [
+            "图1(a)基于SDWN的负载感知AP间无缝切换场景（负载均衡前）"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fb139dd2a7bf35e5081e7e8e3db83c57086bbfe0ac486445c1b1951e62c6d5d.jpg",
+        "img_caption": [
+            "图1(b)基于SDWN的负载感知AP间无缝切换场景(负载均衡后）"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在此思路上进行改进：在多个AP部署的环境中，感知AP负载的情况下，若需要将某终端切换到相邻AP时，在能够感知该终端信号的AP上分别建立相同的虚拟AP，为终端提供一个或多个虚拟接入点，实现负载均衡的目的，过程如图2a（负载均衡前的多点接入情况）和图2b（负载均衡后的多点接入情况）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b9c0ad2f4624668dab125f26193b17093651b0b7f64ca04a274c437a6291fc0.jpg",
+        "img_caption": [
+            "图2(a)基于SDWN的负载感知的终端多点关联方案应用场景 (负载均衡前)"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/97706b3956a4b05580410fb3cfa7e0e727ff74613e12ddc4686926723847464f.jpg",
+        "img_caption": [
+            "图2(b)基于SDWN的负载感知的终端多点关联方案场景（负载均衡后）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2终端多点关联方案设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1终端多点关联信令流程设计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于SDWN的负载感知终端多点关联方案信令流程如图3所示，具体描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)控制器向每个AP发 subscription-AP-status 帧来请求AP参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)当Client在AP重叠区时，当前连接AP与客户端之间的信号强度随client动态移动，且该终端的瞬时流量及平均流量也在动态变化当中，控制器根据定期返回的new-AP-status 帧中的状态信息，根据负载因子计算模块，计算出该AP是否负载严重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)若该AP负载严重，控制器在所有上传该client状态信息（即所有能够收到终端信号）的AP中，向物理AP中的 APagent发送产生该终端对应LVAP副本的命令，完成多点接入。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)完成多点关联后，根据不同的动态分流方案将该终端上的数据流分AP转发，达到动态分流的目的，完成负载均衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "至此结束了负载均衡感知、终端多点接入及动态分流全过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/38780b333fcc223796f8ca036fc0f6f1c3ebf3b62fdf7ed841fab809af8cd6a7.jpg",
+        "img_caption": [
+            "图3终端多点关联方案信令流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2多点关联流程设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤a)b)的负载感知及负载因子计算模块在文献[7]中有详细描述，本文不再赘述。步骤c)中，具体实施办法如图4所示。控制器中加入APagent管理模块，将上传该client信息的所有agent 组件放入APagent 管理模块的一个集合当中。当控制器感知需要负载均衡时，在该集合中取出agent并且下发添加该终端唯一LVAP 的命令。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文中，利用结构体表示某一终端x-client的信息（MAC地址，LVAP（BSSID,SSID)，IP地址等)，采取多对多的一种映射关系表示LVAP与AP之间的关系。set<X-APagent>表示该终端所属 AP 的集合，set<X-LVAP>表示某一物理 AP 中包含LVAP的个数集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f04b9172a62b63d059874bd5cfde190cf25fbb301a299c172f84dda1541478cf.jpg",
+        "img_caption": [
+            "图4多点关联流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 动态分流应用方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有别于传统的单点AP转发所有类型的数据流，实现终端多点关联后，多个物理AP中都拥有可传输终端数据的唯一一个LVAP。但是如何充分利用LVAP，对终端的数据流进行动态分流，达到负载均衡的目的成为了一个关键问题。本文根据Openflow1.3协议，将数据流根据传输层协议分为基于TCP的数据流和基于UDP的数据流。在实际应用中，用户可根据自己的需求自定义任何数据流分流标准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SDN下，Openflow流表包含三部分：匹配域、计数器和操作集[13]。在本方案中，控制器 floodlight有两种流表下发模式：主动和被动。本文采取主动方式，即控制器主动下发流表，数据包达到交换机后和流表匹配并执行流表操作。控制器根据不同需求对对物理AP中的OpenVswitch下发不同的流表。在本文中，流表根据匹配域关键字ip_proto 将基于TCP 流和基于",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UDP流进行区分，其中ip_proto $\\scriptstyle 1 = 0 \\mathrm { X } 1 2$ 为TCP流,ip_protc $\\scriptstyle 1 = 0 \\mathrm { X } 0 5$ 为UDP流，具体流表如表1所示，控制器下发命令如下： curl-d’{\"switch\":\"00:00:72:d8:c8:dd:5c:fg\",\"name\":\"TCPflow\",\"cookie\":\"1\",\"priority\":\"410\",\"in_port\":\"2\",\"eth_type\":\"0x0 800\",\"ip_proto\":\"0x12\",\"nw_src\":\"192.168.1.167\",\"nw_dst\":\"192. 168.1.137\",\"tp_src\":\"3010\",\"tp_dst\":\"3016\",\"active\":\"true\",\"action s\":\"output=5\"}http://<control_ip>8080/wm/Staticflowpusher/json。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实际运用中，由于每条流表中都有源地址，目的地址等12元组匹配域，针对每个终端可设置不同流表，可实现根据每个终端的需求动态分流，以此提升网络吞吐量目的。本文具体分流方案如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c2d493ec09dc6636b262fe6c9eed55b799222d4618f85488997380a4d7213bf.jpg",
+        "img_caption": [
+            "图5动态分流方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验平台搭建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过搭建实验平台验证基于SDWN的负载感知终端多点关联方案对用户服务质量的影响。软硬件如表1和2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1动态分流之TCP流表",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/098daff4573fbd9cb6e925eebb333a9056350ac8a938bc8571299d214dcbb96e.jpg",
+        "table_caption": [
+            "注：json 格式/OpenFlow1.3",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Flow={</td><td></td></tr><tr><td>\"switch\":\"00:00:72:d8:c8:dd:5c:fg\",//DPID，链路标识</td><td></td></tr><tr><td>\"name\":\"TCP-flow\",</td><td>//流名称</td></tr><tr><td>\"cookie\":\"1\",</td><td>//cookie</td></tr><tr><td>\"priority\":\"410\",</td><td>I流表优先级</td></tr><tr><td>\"in_port\":\"2\",</td><td>//数据包入端口</td></tr><tr><td>\"eth_type\":\"0x0800\",</td><td>//IP类型包</td></tr><tr><td>\"ip_proto\":\"0x12\",</td><td>//TCP包</td></tr><tr><td>\"nw_src\":\"192.168.1.167\",</td><td>//源IP 地址</td></tr><tr><td>\"nw_dst\":\"192.168.1.137\",</td><td>/目的IP地址</td></tr><tr><td>\"tp_src\":\"3010\",</td><td>//源端口号</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4882756bc9931b3e7d522b6d618b92e22f93924c0453ab57373f8c815f662f5e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>\"tp_dst\":\"3016\",</td><td>//目的端口号</td></tr><tr><td>\"active\":\"true\",</td><td>//执行动作</td></tr><tr><td>\"actions\":\"output=5\"</td><td>Ⅱ/从5端口转发</td></tr><tr><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/999a9efba89d1a3b4db998ee234bc33e32f5d00dff97440fedb60470f1f72b21.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">表2Odin 软件设备构成图</td></tr><tr><td>软件名称</td><td>软件版本</td></tr><tr><td>floodlight</td><td>Floodlight1.2</td></tr><tr><td>Openvswitch软交换</td><td>Openvswitch2.3.0</td></tr><tr><td>Click 软路由</td><td>Click2.0.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d7b48864b2520099391517b5c5761b7091817b20095a7184c16a23bcface3e3.jpg",
+        "table_caption": [
+            "表3Odin硬件设备构成图"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>硬件名称</td><td>型号</td><td>系统版本</td></tr><tr><td>AP</td><td>Wndr3700/wndr3800</td><td>Openwrt barrier</td></tr><tr><td rowspan=\"2\">移动终端</td><td></td><td>breaker 14.07</td></tr><tr><td>Acer 5420</td><td>Ubuntu 16.04</td></tr><tr><td></td><td>IPhone 6，Acer5570</td><td></td></tr><tr><td>控制器</td><td>联想</td><td>Ubuntu16.04</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验验证及性能评估 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次实验目的是比较传统WLAN、SDWN架构下基于负载均衡的无缝切换算法及 SDWN 架构下基于负载感知的终端多点关联三种接入方案对终端QoS的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验场景如图1（a）所示。由于本文在文献[7]基础上做出改进，因此对负载均衡模块引用此文献算法。参数设置如下：本文所有client均对平均流量要求较高且M值取2（经过5次实验取平均值)。client1、client2连接APa，client3连接APb。在当client2位于APa与APb的重叠区域并略靠近APa时，client1的TCP吞吐量为5Mbit/s、client2的TCP吞吐量为5Mbit/s，client3的TCP吞吐量为6Mbit/s，此时APa的负载大于APb的负载，且 $_ { \\mathrm { R S S I a > R S S I b } }$ 。在30s时，传统WLAN连接环境下不进行AP切换，此时client1、client2的吞吐量较低，用户服务质量未受到保障，如图6和7中蓝色虚线所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/691917e9660c9c6af74fd4e37b5aaf155eb57dde2510fd4ac88a88df299c424c.jpg",
+        "img_caption": [
+            "图6client1的TCP吞吐量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3660923ba40cb1f996d1b14622697f95fdda29c64b3776c7109ea392c3172dfb.jpg",
+        "img_caption": [
+            "图7client2的TCP吞吐量"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/69df56f7e90078d6b28cf5df458c3c70cf710f9fef107db05b2eee36a2292f60.jpg",
+        "img_caption": [
+            "图8client3的TCP吞吐量"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SDWN架构下基于负载感知的无缝切换算法根据负载均衡模块无缝切换到APb，切换到APb后，client1的吞吐量提高明显，但client2因切换到APb,和client3共享带宽，因此client2的吞吐量提高不明显且client3的吞吐量受到了一定的影响，各终端吞吐量如图6\\~8中白色圆点线所示；在SDWN架构下根据负载均衡模块计算后实施多点关联方案，在30 s之后client1与client2的吞吐量得到提升，但client3的吞吐量也未受到较大影响，结果如图6\\~8红线所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所示，在重叠区域，本文的终端多点关联技术在文献[7]的基础上做出改进，相比传统WLAN下及文献[7]的无缝切换算法，可有效提升终端的用户服务质量，并减少对相邻终端影响，达到本文目的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种面向软件定义无线网络（SDWN）的负载感知终端多点关联方案,在文献[7]的基础上提出终端多点关联方案，在扩展Odin 架构上通过实验对比了终端多点关联方案和传统单点接入方案对用户服务质量的影响，在网络吞吐量方面对比了每个连接终端的服务质量，验证了本文方案的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Open Network Foundation (ONF).Software defined networking: the new norm for networks [EB/OL].(2012-04-20）[2015-02-12]. htps://www. opennetworking. org/images/stories/downloads/sdn-resources/whitepapers/wp-sdn-newnorm. pdf.   \n[2]Han Yunong, Yang Kun,et al. An adaptive mobility manager for softwaredefined enterprise WLANs [C]//Proc of the8th International Conference on Ubiquitous and Future Networks.2016: 888-893   \n[3]Anil KR,Baldaniya HB,et al.Load-aware hand-offs in software defined wireless LANs [C]// Proc of the 10th IEEE International Conference on Wireless and Mobile Computing,Networking and Communications.2014: 685-690   \n[4]LiHY,TseTsung Y,et al. SNMP-based approach to load distribution in ieee 802.11 networks[C]// Procof the 63rd,IEEE Vehicular Technology Conference.2006: 1196-1200.   \n[5]李云，周亚峰，曹俣．基于软件定义网络的 WLAN 架构及负载均衡切 换[J].重庆邮电大学学报,2016,28(5):614-619   \n[6]候喆．基于软件定义网络的无线网络移交技术研究[D]北京：北京邮 电大学2015.   \n[7] 李晓，杨建喜，池亚萍，等.SDWN 下基于流量负载感知的 AP 间无缝 切换算法研究[J].计算机应用研究,2018,35(10).   \n[8]Suresh L, Schulz Zander J,Merz R, et al. Towards programableenterprise WLANS with Odin [C]/ Proc of the 1st Workshop on Hot Topics in Software Defined Networks.New York: ACMPress,2012:115-120.   \n[9]Berezin M E,Rousseau F, Duda A. Multichannel virtual access points for seamless handoffs in ieee 802.11 wireless networks [C]//Procd of the 73rd Vehicular Technology Conference. 2011: 1-5.   \n[10] Chandra R,Bahl P,Bahl P.MultiNet: connecting to multiple IEEE 802.11 networks using a single wireless card [C].Proc of IEEE INFOCOM.2004: 882-893.   \n[11]Ahn SW,Yoo C. Network interfacevirtualization in wireless communication for multi-streaming service [C]// Proc of IEEE International Symposium on Consumer Electronics.,2011: 67-70.   \n[12]Kohler E,Morris R.The click modular router[J].ACM Trans on Computer Systems,2000,18 (3): 263-297.   \n[13]AdrianL,AnishaK,etal.Network Inovationusing openflow:auey[J] IEEE Communications Surveys & Tutorials,2014,16: 493-512 ",
+        "page_idx": 4
+    }
+]

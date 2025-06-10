@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "Flexible transparent conductive films on PET substrates with an AZO/AgNW/AZO sandwich structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qingsong Xu,ä Wenfeng Shen,\\*a Qijin Huang,a Ye Yang,a Ruiqin Tan,b Ke Zhu,ä Ning Dai and Weijie Song\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hybrid transparent conductive films (TCFs) with a sandwich structure composed of aluminum-doped zinc Oxide(AZO)and Ag nanowires (AgNWs)were deposited on polyethylene terephthalate (PET) substrates.The AZO layers were prepared at room temperature by RF magnetron sputtering.The AgNWs were synthesized bya modified polyol method and inserted into the AZO layers.The optical properties and conductivity can be modified by the number of spin-coating cycles of an AgNWs suspension.Typicalyan AZO/AgNW/AZO hybrid film exhibited an optical transmittance of $80 . 5 \\%$ ,a sheet resistance of $2 7 . 6 \\Omega \\mathsf { s q } ^ { - 1 }$ and an optical haze of $1 4 . 9 \\%$ .The increase in optical haze caused by the silver nanowires may be beneficial for applications in solar cels.Thehybridfilms presented excelentflexible stability,showing only minorresistance changes and no surface cracks compared with pure AZO films.The AZO layers acted as the protecting layers that enhanced the adhesive and thermal stabilityof the hybrid films.The resulting hybrid TCFs with an AZO/ AgNW/AZO sandwich structure show potential applications in flexible electronics,energy storage and photovoltaic devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years，increasing attention has been devoted to transparent conductive films (TCFs) because of their various applications in liquid crystal displays,1 touch panels,² solar cells and organic light-emitting diodes.4 For these applications, most TCFs are based on indium tin oxide (ITO) due to its high transparency and high conductivity.However，the limited availability of indium and the high cost deposition result in increasing price of ITO-based TCFs.In addition,the brittle nature of ITO films limits its application in flexible electronics because the films crack easily when the substrate is bent.To solve these problems, various indium-free materials,including other oxide films,5,6 metal thin films, metal nanowires,8 graphene1° and carbon nanotubes,11 have been investigated as compelling alternatives to ITO.Among these alternatives, AgNW films have been attracting greater interest because of their intriguing electrical,optical and mechanical properties.12,13 Furthermore,bulk silver exhibits the highest electrical and thermal conductivities among all metal elements.The ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AgNW films exhibit comparative optoelectronic properties to ITO which is helpful for improvement of power conversion efficiency of solar cells14 and luminous efficiency of light emitting diodes (LEDs).15 The AgNW films are also compatible with flexible substrates and large scale deposition,such as roll-to-roll printing.16 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PureAgNW filmsalso have somedrawbacks,such as high surface roughness and poor adhesion，which render them incompatible with solar cell applications.17 Furthermore, oxidation and corrosion occur easily when the bare AgNWs are exposed to air over certain period of time.Whenused in electronic devices,thermal instability is also an issue.1& Recently, methods have been adopted to solve these problems.Hybrid transparent and conducting films based on AgNWs composited with polymer,19 graphene, $^ { 2 0 } \\mathrm { I T O ^ { 2 1 } }$ and pure $\\mathrm { Z n O } ^ { 2 2 }$ have recently been investigated.However，the thermal instability of conducting polymers,deposition uniformity of larger scale graphene,scarcity of indium and electrical property limitation of pure $z \\mathrm { n o }$ will give new issues.Therefore,finding hybrid films with low cost and high quality is an important research aim.In all transparent conductive oxides (TCOs)，ZnO-based transparent conductive thin films are a promising alternative to ITO, as they have perfect optoelectronic performance,as well as effective cost and non-toxic.23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many strategies have been used to synthesize silver nanowires， such aspolyol，hydrothermal， seed-mediated and template growth methods.24-28 Among these synthesis methods, the polyol method has been widely used because of its low cost, high yield and simplicity.In this method,silver nitrate is reduced by ethylene glycol in the presence of PvP,which controls the growth rates of various faces of silver to form nanowires.29 In addition,the morphology of silveris influenced by some salts.In Xia and his co-workers'previous research, the addition of the salts (CuCl, $\\mathrm { \\ c u { C l } _ { 2 } }$ )has been shown to successfully synthesize the silver nanowires by reducing the level of free ${ \\bf A } { \\bf g } ^ { + }$ present initially.3 Based on this,we developed the polyol method to synthesize silver nanowires in a large scale by adding a trace amount of $\\mathrm { N a } _ { 2 } \\mathrm { S }$ in place of CuCl or $\\mathrm { { C u C l } } _ { 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we successfully synthesized large scale silver nanowiresbya modified polyol method.The AgNW networks were embedded in AZO films which were fabricated by magnetron sputtering.The optical and electrical properties of hybrid sandwich flms with various AgNW densities were investigated.A typical AZO/AgNW/AZO hybrid film exhibited a transmittance of $8 0 . 5 \\%$ ,a sheet resistance of $2 7 . 6 \\Omega \\mathrm { s q } ^ { - 1 }$ and a haze of $1 4 . 9 \\%$ ，aswell as perfect flexibility，adhesivity and thermal stability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All reagents - silver nitrate $\\left( { \\bf A g N O } _ { 3 } \\right)$ ，poly (vinylpyrrolidone) (PVP,K-30)，sodium sulfide $\\left( \\mathrm { N a } _ { 2 } \\mathrm { S } \\right)$ ，ethylene glycol (EG) and acetone - were of analytical grade and were purchased from Sinopharm Chemical Reagent Co., Ltd. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of silver nanowires ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Silver nanowires were fabricated by a modified polyol reduction process.Ina typical synthesis, $1 5 0 \\mathrm { m l }$ of $0 . 1 5 { \\bf M }$ PVP EG solution in a three-neck flask was heated to $1 6 5 ~ ^ { \\circ } \\mathrm { C }$ ，Afterapproximately one hour when the temperature was stable, $1 2 0 \\mu \\mathrm { l }$ of $0 . 1 \\mathrm { ~ M ~ N a } _ { 2 } \\mathrm { S }$ EG solution was added and stirred for $1 0 \\ \\mathrm { m i n }$ . Subsequently, $1 5 0 \\mathrm { m l }$ of $0 . 1 \\mathrm { ~ M ~ A g N O } _ { 3 }$ EG solution was added to the flask dropby-drop at a rate of $1 5 \\mathrm { \\ m l \\ m i n ^ { - 1 } }$ . After $2 0 \\ \\mathrm { m i n }$ ，the solution became dark gray followed by the solution becoming bright gray,indicating the fabrication of sliver nanowires.Then the solution was cooled to room temperature and was centrifuged with the addition of acetone three times at $2 0 0 0 \\mathrm { r p m }$ for $2 0 \\mathrm { m i n }$ to remove solvent (EG)，PVP and other impurities in the supernatant. After the final centrifuge,the AgNWs were redispersed in ethanol with a concentration of $1 ~ \\mathrm { m g } \\mathrm { m l } ^ { - 1 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3Fabrication of hybrid films,pure AZO film and pure AgNW films ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AZO/AgNW/AZO hybrid films were prepared by radio frequency magnetron sputtering at room temperature with various AgNW densities.The bottom AZO layer was sputtered on the PET substrate using an AZO target at a contrast RF power of 200 W,an Ar flow of 30 sccm，and a working pressure of 3 mTorr.The middle AgNW layer was deposited on the bottom AZO layer by spin-coating an AgNW suspension with various spin-coating times.Then,the film was dried at $6 0 ~ ^ { \\circ } \\mathbf { C }$ for $3 \\mathrm { m i n }$ Finally,the top AZO layer was deposited on the AgNW layer under the same sputtering conditions.The pure AZO film was deposited under the same conditions,except for an AgNW layer, which was not deposited. Pure AgNW films were prepared by the spin-coating of an AgNW suspension. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4Characterization and measurement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structural characterization of the films was performed using X-ray diffraction (XRD) on a Bruker AXS D8 Advance diffractometer with Cu $\\kappa \\boldsymbol { \\mathfrak { a } }$ radiation $\\lambda = 0 . 1 5 4 2 \\ \\mathrm { n m }$ ).Theoptical transmittance,haze and absorption of the AzO film and $\\mathbf { A Z O } /$ AgNW/AzO hybrid films were obtained at room temperature usinga UV-vis spectrophotometer (Perkin-Elmer,Lambda 950, USA)with an integrating sphere.The sheet resistance was measured bya four-point probe system (Napson Corp.Cresbox). The surface morphologies of AgNWs and its hybrid films were examined by SEM (Hitachi S-480o).The hybrid TCFs were pretreated prior to obtaining cross-sectional images by immersing the samples in liquid ${ \\bf N } _ { 2 }$ and then cutting them.The transmission electron microscope (TEM) image was obtained on a JEOL-21oo instrument.The mechanical stability tests were performed using a homemade instrument that had a bending radius ofapproximately $3 \\mathrm { m m }$ anda bending speed of one cycle per second.The adhesion test was performed using 3M stock tapes.The thermal stability test was performed by measuring the variation in the resistance of films as a function of time at a temperature of $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ in air. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Microstructure of AgNWs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AgNWs which were synthesized by the modified polyol reduction method were characterized by SEM and TEM,as shown in Fig.1a and b.No other morphology of AgNWs was observed; therefore,the yield ofAgNWsisalmost $1 0 0 \\%$ by this method.Fig.1c and d show the distributions of diameter and length by measuring 1oo nanowires.The silver nanowires present a relatively high aspect ratio (approximately 2oo) with an average diameter of $8 7 . 8 ~ \\mathrm { n m }$ and average length of $1 6 . 3 ~ { \\mu \\mathrm { m } }$ 业 Fig.2 shows the XRD pattern of dried silver nanowires.The three strongest peaks can be observed at $3 8 . 2 ^ { \\circ }$ ， $4 4 . 4 ^ { \\circ }$ and $6 4 . 5 ^ { \\circ }$ which were attributed to the diffraction of the (111),(2oo) and (220) crystalline planes of the face-centered structure of silver, respectively,according to the Silver Joint Committee on Powder Diffraction Standards Database (file no.O4-0783).The calculated lattice constant according to the (111) peak is approximately $4 . 0 8 3 \\mathring { \\mathrm { ~ A ~ } }$ ,which is consistent with the standard value of $4 . 0 8 6 \\mathring { \\mathbf { A } }$ .It reveals that high purity FCC silver can be synthetized by the modified polyol method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 Microstructure of AZO/AgNW/AZO hybrid films ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AZO/AgNW/AZO hybrid films were fabricated by inserting theAgNWfilmbetweentwo sputtered AZOlayerswhich served as the filler in the AgNW holes (Fig.3a).The synthesized hybrid films sample AZO/3AgNW/AZO (3AgNW represents AgNW with spin times $= 3$ ）with $T _ { 4 0 0 - 1 2 0 0 \\ \\mathrm { n m } } = 7 1 . 3 \\%$ ， ${ T _ { 5 5 0 \\mathrm { n m } } }$ (excluding PET substrate) $= 8 0 . 5 \\%$ and $R _ { \\mathrm { s } } = 2 7 . 6 ~ \\Omega ~ \\mathrm { s q } ^ { - 1 }$ is shown in Fig.3b.The thickness of a single AZO layer is approximately ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bc414e16d351329371a16fc863d7e32e3f18e119259732639293b9aec23e7d3.jpg",
+        "img_caption": [
+            "Fig.1（a)SEMimageofsytesizedilernanoiresatowmagnifcatio.(b)Eimageofsthesiedslrnanowiesatlargmagification (Inset:TEMimageofsilvernanowire.）（c)Histogramofdiametersizedisribution(0nanowiresmeasured).d)Histogramoflgthsie distribution (1oo nanowires measured). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b66ed4e62b25aa1946f557b8ceea4479a9672e239c6bebd6ee2de2867eced31.jpg",
+        "img_caption": [
+            "Fig.2 XRD pattern of silver nanowires. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$5 0 \\ \\mathrm { n m }$ ,which is close to the diameter of the AgNWs (Fig. 3c). Fig.3d shows that the AgNWs are tightly connected with each other,which reduces the connect resistance between AgNWs and enhances conductivity of the AgNW flms.The surface of an AgNW was covered with the AZO crystalline grain.Fig.3d reveals that the spin-coated AgNW films are relatively uniform over a large scale. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3Optical and electrical properties of AZO/AgNW/AZO hybridfilms ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the optical transmittance and reflectance of AZO/ AgNW/AZO hybrid flms.The absorption curve was plotted by subtracting the transmittance and reflectance of these films from $1 0 0 \\%$ .The pure AZO film shows comparable high optical transmittance in the visible wavelength region,but a large loss in the near-infrared wavelength region,which is attributed to the plasma resonance of free carriers.31 When the AgNWswere inserted as previously described,the transmittance of films decreased with an increase in the number of spin-coating cycles.This change is mainly due to the reflecting and scattering light by the AgNWs and the interface between AgNWs and the AZOlayer.However,withincrease in thedensityofAgNWs, the films showedalower sheet resistance (Table1).The sample of AZO/8AgNW/AZO had a sheet resistance of $6 . 4 ~ \\Omega ~ \\mathrm { s q } ^ { - 1 }$ . These results indicated that theAgNWdensity on the surface of films is a variable that can be used to adjust the optical and electrical properties of AZO/AgNW/AZO hybrid films. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c66482ac4ee34682dab85c6270a79dfb1f45a38fb7d53a6fb3fb051d81f9717.jpg",
+        "img_caption": [
+            "Fig.3(a)chematicfhybridflpreparati.(b)EmagfthZA/AOybridfm.(c)andd)Srossectioaliaofte AZO/3AgNW/AZO hybrid film. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6720c465afe91d884673875b624984c12b469c8cae5181cb6341d8a79e8801c.jpg",
+        "img_caption": [
+            "Fig.4(a)Optical ransmitanceand(b)absorptionof theAZOflmand AZO/AgNW/AZOhybridfilms withvariousspintimes $( \\mathsf { s p } = 1 , 2 , 3 , 5 , 8 )$ of the AgNW suspension. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As has been done in previous research,an equation was used to elucidate the electrical contribution of the AgNWs in AZO/ AgNW/AZO.21,32 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { R _ { \\mathrm { t o t a l } } } } = { \\frac { 2 } { R _ { \\mathrm { A Z O } } } } + { \\frac { 1 } { R _ { \\mathrm { A g N W } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { t o t a l } } , R _ { \\mathrm { A Z O } } ,$ and $R _ { \\mathrm { A g N W } }$ are the sheet resistance of the hybrid film，the AzO film,and the AgNW film，respectively. When the hybrid film was fabricated with low AgNW density (spin times $= 1 ^ { \\cdot }$ ),there was no obvious change in sheet resistance compared with the pure AZO flm. This lack of change is because the AgNWs were not inter-connected and the AZO layers were dominant in the conductivity of the hybrid film. However,when the AgNW density reached to a criticality (spin times $\\geq 3$ ),the AgNW film exhibitedan enhanced conductivity that greatly contributed to the low sheet resistance of the hybrid film.This phenomenon is in agreement with the predictions of eqn (1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,to determine which hybrid film has the best performance, the figure of merit $\\left( \\phi \\right)$ is introduced.33 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\frac { T ^ { 1 0 } } { R _ { \\mathrm { s } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $T$ and $R _ { \\mathrm { s } }$ are the transmittance at a wavelength of $5 5 0 \\mathrm { n m }$ and sheet resistance of the film,respectively.According to Table ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1,the hybrid film with the best optoelectronic characteristics is the sample AZO/3AgNW/AZO with a figure of merit of $4 . 1 \\times 1 0 ^ { - 3 }$ $\\Omega ^ { - 1 }$ ,which is near to that of ITO on PET.2² This result indicates thatacertainamount of AgNWsarebeneficial for the figure of merit.When the AgNW density is too low, the figure of meritis inferior to that of the pure AZO film due to the lack of connections between AgNWs. When the AgNW density increases,the AgNWs inter-connect with each other,creating networks ofAgNWsand resulting in enhanced conductivityand anincrease in the figure of merit.However,when the AgNW density is too high,the loss of transmittance of the films is relatively large compared with the enhancement of the conductivity,leading to decrease in the figure of merit. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a9b5972e64a5b46f5acd28aabf3fceac62db55f81ff85c984bd824e54ca188.jpg",
+        "img_caption": [
+            "Fig.5 The haze curves of the AZO film and the AZO/AgNW/AZO hybrid films with various spin times $\\mathtt { \\backslash 5 p } = 1 , 2 , 3 , 5 , 8$ ）of theAgNW suspension. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c702b817498f69184e607777507c5cf1f0207a9530d292f87f99616e4261057.jpg",
+        "table_caption": [
+            "Table1ComparisonofteelectricalandopticalpropertiesoftheAZOandAZO/AgNW/AZOhybridflmsgrownonthePETsubstrate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Spin-coating times</td><td>(%) T400-1200 nm</td><td>(%) T550 nm</td><td>Sheet resistance (Ω sq-1)</td><td>Haze (%) at 550 nm</td><td>Figure of merit (10-Ω-1)</td></tr><tr><td>0</td><td>83.3</td><td>94.9</td><td>308.7</td><td>4.2</td><td>1.9</td></tr><tr><td>1</td><td>79.7</td><td>90.9</td><td>222.3</td><td>8.4</td><td>1.7</td></tr><tr><td>2</td><td>74.0</td><td>83.8</td><td>62.4</td><td>12.1</td><td>2.7</td></tr><tr><td>3</td><td>71.3</td><td>80.5</td><td>27.6</td><td>14.9</td><td>4.1</td></tr><tr><td>5</td><td>63.7</td><td>71.6</td><td>11.0</td><td>20.8</td><td>3.2</td></tr><tr><td>8</td><td>60.0</td><td>67.4</td><td>6.4</td><td>26.0</td><td>3.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition to transmittance and sheet resistance,haze is also an important factor to quantify transparent conducting films.Fig.5 shows haze curves of a pure AZO film and hybrid films.The pure AZO film exhibits relatively uniform haze due to the smooth surface and low light scattering.The haze values of hybrid films increase with wavelength，rapidly reach the maximum at approximately $4 5 0 ~ \\mathrm { \\ n m }$ ，and then gradually decrease across the visible spectrum.These effectsare likely due to AgNWs covered by the AZO grains interacting with short wavelength part of visible light.34 In addition, the haze can be finely tuned by varying AgNW density as seen in Fig. 4and Table 1.For the sample AZO/8AgNW/AZO,the haze value reaches $2 6 \\%$ ,which is triple that of the pure AZO film. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4Mechanical properties of AZO/AgNW/AZOhybrid films ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To compare the mechanical flexibility of the pure AZO filmand AZO/AgNW/AZO hybrid films,a tension bending test was performed usinga homemade instrumentwitha bending radius of approximately $3 \\ \\mathrm { m m }$ .Fig.6a shows the changes in sheet resistance expressed as $( R \\mathrm { ~ - ~ } R _ { 0 } ) / R _ { 0 } ,$ ，where $R _ { 0 }$ is the initial sheet resistance and $R$ is the sheet resistance after bending as a function of the number of bending cycles. Fig. 6b shows the AZO film cracks after a bending test,which results ina sharp increase in sheet resistance.However,the AZO/3AgNW/AZO hybrid film maintained a constant resistance even after 500 bending cycles due to the superior flexibility of the embedded AgNWs.35 The AgNWs reinforced the AZO layers and protected them from cracking as shown in Fig. 6c. To evaluate the performance of hybrid flms after the bending test,we fabricated a simple electronic circuit on photo-paper by inkjet printing according to our previous work6 and put the AZO/ 3AgNW/AZO hybrid film and LEDs into the circuit.As shown in Fig. 6d,the bending film after 5oo repetitions of the bending test can still carry through current to power the LEDs,wherein, thebackground logo of Chinese Academy of SciencesandLEDs can be clearly seen through this hybrid film.This result indicates that AZO/AgNW/AZO hybrid films have potential applications in flexible electronic devices. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/be8f229e7d6fc5acfe32a80b23002b8f67d735460373f1b4431575b03df58c70.jpg",
+        "img_caption": [
+            "Fig.6(a) Changes in the normalized sheet resistance during the tension bending test for the AZO film and the AZO/3AgNW/AZO hybrid film on the PET substrate.The inset shows a schematic of the tension bending test (bending radius $r \\sim 3 ~ \\mathsf { m m }$ ). (b) SEMimages of the AZO film.(c) AZO/3AgNW/AZO hybrid film after 500 repetitions of the bending test. (d) Working LED device with the bending AZO/3AgNW/ AZO hybrid film after 50O repetitions of the bending test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another issue that limits the applications of the AgNW films isadhesion failure.The adhesion test of the hybrid film is shown in Fig.7a.The region to the right of the red line was treated with 3M taping (sticking on and peeling off),and the region to the left of the red line was not treated.No obvious changes in the surface were observed after testing. For comparison,the pure AgNW film left few AgNWs after the test, as shownin Fig.7b.This result can be explained by the fact that the AgNWs are tightly capped by the top AZO layer and embedded into AZO layers to prevent them from detachment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5Thermal stability of AZO/AgNW/AZO hybrid films ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The thermal stability test was performed by measuring variations in sheet resistance of films as a function of time at a temperature of $1 0 0 ~ ^ { \\circ } \\mathbf { C }$ in air,as shown in Fig.8.The sheet resistance of pure AgNW films exhibited exponential growth with increase in the heating time.It reached $1 0 ~ \\mathrm { { \\bf { M } } \\Omega }$ after 24 hours,far beyond what is reasonable for application in devices.It is well known that the AgNWs will fail when heated in air due to oxidation or corrosion.18 However,only very slight decrease in sheet resistance (from $2 7 . 6 ~ \\Omega ~ \\mathrm { s q } ^ { - 1 }$ to $2 6 . 5 ~ \\Omega ~ \\mathrm { { s q } ^ { - 1 } } .$ 0 was observed for the hybrid filmafter 24 hours due to the AZO cover protecting the AgNWs from oxidation and heat treatment enhancing the connection between AZO and AgNWs.This indicates that the hybrid films possess high thermal stability compared with the pure AgNW film. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f36c3f39a94720021bf0103c4656ecdde41c75d2f7b0b5cb3c7a40fba7c3dc.jpg",
+        "img_caption": [
+            "Fig.7SEM images comparing (a) AZO/8AgNW/AZO and (b) the AgNW film before (left of the red line) and after (right of the red line) the 3M taping test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/336f1bbacfea42c94754c38bb5cac7eae3b00db32ef6a7cf406935c65b060d5a.jpg",
+        "img_caption": [
+            "Fig.8Variations in sheet resistance of a pure AgNW film and the AZO/ 3AgNW/AZO hybrid filmas a function of the time at a temperature of $1 0 0 ^ { \\circ } \\mathsf { C }$ in air. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,we fabricated flexible TCFs with an AZO/AgNW/AZO sandwich structure on a PET substrate.By adjusting the number of spin cycles of the AgNW suspension,a typical hybrid film with an optical transmittance of $8 0 . 5 \\%$ (excluding PET substrate),a sheet resistance of $2 7 . 6 \\Omega \\mathrm { s q } ^ { - 1 }$ ,a figure of merit of $4 . 1 \\times 1 0 ^ { - 3 } \\Omega ^ { - 1 }$ and a haze of $1 4 . 9 \\%$ was obtained.In the presence of AgNWs, the hybrid films exhibited enhanced flexibility and larger optical haze compared with the pure AZO film,which is beneficial for applications in flexible electronic devices.The AZO layers covered the AgNW holes to tighten the junctions of AgNWs and thus enhance the conductivity.Furthermore,the hybrid films passed the adhesion test and no obvious resistance changes were observedafter $2 4 \\mathrm { h }$ inairata temperature of $1 0 0 ^ { \\circ } \\mathrm { C }$ .Due to high transparency,thermal stability,excellent conductivity,low cost, and desirable flexibility,the hybrid TCFs with the AZO/AgNW/ AZO sandwich structure demonstrate the potential for applications in high-performance,flexible electronics,energy storage, photovoltaic devices, etc. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9 A. P. Periasamy, J. Liu, H.-M. Lin and H.-T. Chang,J. Mater. Chem. A,2013,1, 5973-5981.   \n10 X. Wang, L. J. Zhi and K. Mullen, Nano Lett, 2008,8, 323- 327.   \n11 Z. C. Wu, Z. H. Chen， X. Du, J. M. Logan, J. Sippel, M. Nikolou,K. Kamaras,J. R. Reynolds,D. B. Tanner, A.F.Hebard and A. G. Rinzler,Science,2004,305,1273-1276.   \n12 A.Cao and Y.Wei,Phys. Rev. B: Condens. Matter Mater. Phys., 2006,74,214108.   \n13 B.Wu, A. Heidelberg,J. J. Boland,J.E. Sader, X. M. Sun and Y.D.Li, Nano Lett,2006,6, 468-472.   \n14 J.-Y.Lee, S. T.Connor, Y. Cui and P. Peumans, Nano Lett., 2008,8,689-692.   \n15 Z. Yu, Q. Zhang,L. Li, Q. Chen, X. Niu,J. Liu and Q.Pei,Adv. Mater.,2011,23,664-668.   \n16 C.-H. Liu and X. Yu, Nanoscale Res. Lett., 2011, 6,75.   \n17 D. S.Hecht,L.Hu and G.Irvin,Adv. Mater.,2011,23,1482- 1513.   \n18 H. H. Khaligh and I. A. Goldthorpe,Nanoscale Res. Lett., 2013,8,235.   \n19 J.Lee,P. Lee,H.B. Lee,S.Hong,I. Lee, J. Yeo, S. S.Lee, T.-S. Kim,D. Lee and S.H. Ko,Adv. Funct. Mater.,2013,23, 4171-4176.   \n20 M. S. Lee, K. Lee,S.Y. Kim, H. Lee, J. Park,K. H. Cho, H. K. Kim, D.G. Kim, D. Y. Lee, S. Nam and J. U. Park, Nano Lett.,2013,13,2814-2821.   \n21 K.-H. Choi, J. Kim, Y.-J. Noh, S.-I. Na and H.-K. Kim, Sol. Energy Mater. Sol. Cells,2013,110,147-153.   \n22 A. Kim, Y. Won, K. Woo, C.-H. Kim and J. Moon,ACS Nano, 2013,7,1081-1091.   \n23 Y. Liu, Y. Li and H. Zeng,J. Nanomater.,2013, 2013.   \n24 Y.G. Sun and Y. N. Xia,Adv. Mater.,2002,14,833-837.   \n25 Y.G. Sun,B. Mayers,T.Herricks and Y.N. Xia, Nano Lett., 2003,3, 955-960.   \n26 X.M. Sun and Y.D.Li,Adv. Mater.,2005,17,2626-2630.   \n27 N. R. Jana,L. Gearheart and C. J. Murphy, Chem. Commun., 2001,617-618.   \n28 G. Riveros, S.Green, A. Cortes, H. Gomez, R. E. Marotti and E.A.Dalchiele,Nanotechnology,2006,17, 561-570.   \n29 Y. G. Sun, B. Mayers, T. Herricks and Y. N. Xia, Nano Lett, 2003,3, 955-960.   \n30 K.E.Korte, S.E. Skrabalak and Y. Xia,J. Mater. Chem.,2008, 18,437-441.   \n31 S.Brehme，F.Fenske，W.Fuhs，E.Nebauer, M.Poschenrieder,B. Selle and I. Sieber,Thin Solid Films, 1999, 342, 167-173.   \n32 Y.-Y. Choi,K.-H. Choi,H. Lee,H. Lee,J.-W. Kang and H.-K. Kim,Sol. Energy Mater.Sol. Cells,2011,95,1615-1623.   \n33 G. Haacke,J. Appl. Phys.,1976,47, 4086-4089.   \n34 S.Mehra,M. G. Christoforo,P. Peumans and A. Salleo, Nanoscale,2013,5, 4400-4403.   \n35 I. Lee,J. Lee, S. H. Ko and T.-S. Kim, Nanotechnology,2013, 24,415704.   \n36 W. Shen, X. Zhang, Q. Huang,Q. Xu and W. Song, Nanoscale, 2014,6, 1622-1628. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported by the National Natural Science Foundation of China (Grant no． 21205127， 61275114, 21377o63), the Zhejiang Provincial Natural Science Foundation of China (Grant no.LY12E020o9) and the Ningbo Innovative Research Team Pr0gram (2009B21005,2011B82005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 B.Y. Oh,M. C. Jeong, T.H. Moon,W. Lee, J. M. Myoung, J.Y.Hwang and D. S. Seo,J.Appl.Phys.,2006,99,124505.   \n2S.-F. Tseng,W.-T.Hsiao,K.-C.Huang,D. Chiang,M.-F.Chen and C.-P.Chou,Appl. Surf. Sci.,2010,257,1487-1494.   \n3 H.Chen,A. Du Pasquier,G. Saraf,J. Zhong and Y. Lu, Semicond. Sci. Technol.,2008,23,045004.   \n4 S.Chen,L. Deng,J. Xie,L. Peng,L. Xie, Q. Fan and W.Huang, Adv.Mater.,2010,22,5227-5239.   \n5M.Wang,Y.Yang,P.Lan,K. Zhu,J.Huang,Y.Lu,R.Tan and W.Song,Phys. Status Solidi RRL,2014,8,172-175.   \n6 T．Terasako，H.Song，H.Makino，S.Shirakata and T.Yamamoto,Thin Solid Films,2013,528,19-25.   \n7B.Koo,S.Kim andJ.-L.Lee,J.Mater. Chem.C,2013,1,246-252.   \n8L.B.Hu,H. S.Kim,J.Y.Lee,P.Peumans and Y.Cui,ACS Nano,2010,4,2955-2963. ",
+        "page_idx": 5
+    }
+]

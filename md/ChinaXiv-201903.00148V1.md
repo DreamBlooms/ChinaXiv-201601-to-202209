@@ -1,0 +1,244 @@
+# 印度河上游Bagrot山谷降水稳定同位素变化及与水汽来源的关系
+
+王邺凡1²，余武生1,3，张寅生1,，张腾1，高海峰ʰ，Muhammad Atif Wazir1,2,4
+
+（1中国科学院青藏高原研究所青藏高原环境变化与地表过程重点实验室,北京100101;2中国科学院大学,北京10049；3中国科学院青藏高原地球科学卓越创新中心,北京 100101;4巴基斯坦气象局,伊斯兰堡,巴基斯坦44000)
+
+摘要：利用2015年8月—2016年7月在印度河上游流域Bagrot山谷降水稳定同位素( $\delta ^ { 1 8 } \mathrm { O }$ 和SD)观测结果以及当地气象资料，利用同位素示踪及统计分析方法，并结合HYSPLIT模型，对研究区降水稳定同位素变化特征、大气水线以及水汽来源进行了分析。结果表明：观测期间Bagrot山谷降水稳定同位素的季节变化明显， $\delta ^ { 1 8 } \mathrm { O }$ 与SD秋冬季偏低，春夏季偏高，且与气温变化一致，存在显著的温度效应，而降水量效应不明显。而且发现研究区局地大气水线截距和斜率均低于全球的，反映了降水过程中云下二次蒸发作用较为强烈，因此，不同的降水形态导致该研究区局地大气水线的斜率和截距不同。当液态降水(降雨)发生时，由于在较为干旱的气候环境下，雨滴在降落的过程中受到二次蒸发相对较强,使得局地大气水线的斜率和截距偏低；而当固态降水(降雪)发生时，由于温度较低，受再循环水汽和二次蒸发的影响较小，导致局地大气水线的斜率和截距均偏高。Bagrot山谷及其周边地区，从南到北局地大气水线的斜率相差不大，而其截距总体上随着纬度升高而降低，可能与云下二次蒸发导致稳定同位素发生的不平衡分馏逐渐强烈有关。通过Bagrot山谷站点降水稳定同位素观测结果并结合HYSPLIT模型的后向追踪，研究还发现，研究区全年主要受西风环流以及局地环流的影响。但与研究区以北的临近站点(慕士塔格、和田等)相比有所不同，由于Bagrot山谷位置更靠南，其仍然偶尔受到来自南方的海洋性水汽影响。这一研究结果可能对该地区树轮稳定同位素记录的解译具有一定的指示意义。
+
+关键词：印度河上游；降水稳定同位素；大气水线；水汽来源文章编号： 1000-6060(2019)02-0252-11(0252\~0262)
+
+被称为水的“指纹”的稳定同位素（8D和$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ ),能非常敏感地响应气候环境的变化,并记载着水循环的整个历史信息[1]。大量研究表明,降水稳定同位素变化主要受温度、降水量、相对湿度、气压等不同气象要素的影响[2-3],在不同海拔、下垫面以及蒸发与凝结程度的不同也会导致降水稳定同位素发生改变[4-7]。另外,降水稳定同位素还与不同的水汽来源、水汽传输过程及输送方式联系密切[8-1]。因此,降水稳定同位素研究有助于加深对流域水循环过程以及区域气候变化的理解，同时也为冰芯、石笋、树轮中稳定同位素记录重建古气候提供重要的理论基础[12-15] 。
+
+早在1964年，DANSGAARD提出了过量氘（ $d .$ excess或简写为 $d$ ）的概念，将其定义为 $d = \mathfrak { d } \mathrm { D } \mathrm { ~ - ~ }$ $8 \mathfrak { F } ^ { 1 8 } \mathbf { O } ^ { [ 2 ] }$ 。 $d$ 反映了水体在动力分馏过程中稳定同位素变化的差异，主要受水汽源地的温度以及相对湿度影响,同时也与降水过程中的气象条件有关[16]已有研究表明,全球降水 $d$ 平均值约为 $10 \% o ^ { [ 2 ] }$ ,而相对于 $10 \text{‰}$ 较高的 $d$ 值代表水汽源地气候较为干燥，水汽蒸发过程中受到了强烈的动力分馏的作用，较低的 $d$ 值则代表了较为湿润的海洋性气团带来的水汽[17]。另外,在降水过程中,云下二次蒸发会加剧同位素动力分馏作用，也会导致降水中 $d$ 值明显降低[18-19]。因此,利用 $d$ 可以为研究水汽源地、水循环以及局地气候条件提供了一定的依据[20-21] 。
+
+全球大范围的降水稳定同位素观测活动可以追溯到1961年，国际原子能机构（IAEA)与世界气象组织（WMO)合作在全球范围内建立了降水稳定同位素观测网络（Global Network of Isotopes in Precipi-tation，GNIP），先后在全球120多个国家和地区建立了1000多个降水观测站点，以期对全球降水中稳定同位素进行长期监测[22]。中国对降水同位素的研究虽然开始较晚，但发展较为迅速，无论是在全国尺度上[23-26],还是地区、流域尺度上[27-39]都取得了很大的进展。尤其是从1991年开始，中国科学院在青藏高原上启动了降水稳定同位素观测计划(Tibetan Plateau Network of Isotopes in Precipitation,TNIP）[2,40-45],迄今已有40多个站点。以这些站点观测资料为基础，YAO等揭示了青藏高原降水稳定同位素表现出季风模态、过渡模态和西风模态等三种形态[41」;其中在主要受西风影响的青藏高原北部,降水 $8 ^ { 1 8 } 0$ 主要表现为温度效应( $8 ^ { 1 8 } 0$ 与温度呈正相关关系）;在青藏高原中部过渡区，在长时间尺度上，降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 受温度变化控制，表现为温度效应，但夏季印度季风降水会削弱其与温度的关系；而在主要受印度季风影响的青藏高原南部，降水 $\delta ^ { 1 8 } \mathrm { O }$ 主要表现为降水量效应( $\delta ^ { 1 8 } 0$ 与降水量呈反相关关系)[40]。
+
+位于青藏高原西缘的印度河上游，地处西风区和季风区交界处，西风与印度季风如何影响其区域内水循环变化广受关注。KARIM等人利用河水稳定同位素计算得出印度河上游有 $6 4 \% \sim 7 2 \%$ 水汽源于地中海地区，由西风环流带来[46]。类似的,SHARMA指出印度河上游由西风环流带来的水汽为 $5 1 \%$ 。二者研究结果之所以有差别是因为他们研究的具体区域不同：前者研究区域位于印度河上游在巴控克什米尔地区，而后者主要聚焦于印度河上游在印控克什米尔地区。相对而言，西风对于前者的影响比后者的(更靠西南)影响要更为强烈，因此由前者的研究区域西风环流所带来的水汽含量更大[47]。印度河上游水体稳定同位素研究虽然取得了部分成果，但主要集中于基于单次考察，缺乏连续性，故对水体稳定同位素的季节变化研究还不够深入,且主要侧重于地表水体稳定同位素研究[46-51]。 。地表水对于捕捉水汽来源、温度、降水量变化以及蒸发、对流、凝结等天气过程不够敏感并且具有滞后性。相对而言，降水稳定同位素研究能够有效地弥补这一不足。连续而系统地观测降水稳定同位素，对印度河上游水汽来源变化及其水循环过程研究具有积极的意义。在此背景下，本研究在印度河上游地区Bagrot山谷连续一年开展了降水稳定同位素观测，并结合当地气象资料，探讨了研究区降水稳定同位素的季节变化特征，并对其水汽来源进行了初步分析。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+降水样品收集站点Bagrot山谷（ $\langle 7 4 . 5 6 ^ { \circ } \mathrm { ~ E ~ }$ ，$3 6 . 0 3 ^ { \circ } \mathrm { ~ N ~ }$ ，海拔 $2 ~ 3 9 0 ~ \mathrm { ~ m ~ }$ ）位于巴基斯坦北部印度河上游(图1），处在喀喇昆仑山脉南坡，山谷总长度为 $3 2 ~ \mathrm { k m }$ 。据1994—2009 年山谷内海拔 $2 \ 3 1 0 \ \mathrm { m }$ 处气象观测资料,山谷内年平均温度为 $1 1 . 6 ~ \mathrm { { ^ { \circ } C } }$ ,年平均降水量为 $2 9 3 . 6 ~ \mathrm { m m }$ ,月平均降水和温度（图1b），主要分布在春夏二季，占全年降水的 $70 \%$ 。山谷内由于降水较少,植被稀疏,表现为典型的半干旱气候特征[52]
+
+# 1.2样品收集与分析
+
+在2015年8月一2016年7月一个完整水文年共收集83个降水样品，包括71个液态降水样品以及12个固态降水样品。对于液态降水，在每次降水事件结束后，立即将其倒入 $1 5 ~ \mathrm { m L }$ 的样品瓶密封保存;对于固态降水，则先装入样品袋中予以封紧，待其在室温下完全融化后，再装入样品瓶中密封保存。所有样品在进行实验室测量之前均冷冻保存。在降水样品收集同时，对降水事件的开始与结束时间、气温、降水量进行记录。
+
+样品的分析工作在中国科学院青藏高原研究所环境变化与地表过程重点实验室内用Picarro-L2130i液体水同位素光谱仪上进行的。稳定同位素的比率用相对于维也纳标准平均海洋水（V-SMOW2）的千分差表示：
+
+$$
+8 ~ ( \% 0 ) ~ = ~ ( R _ { \# _ { \mathrm { \tiny ~ m e } } ^ { \mathrm { e \tiny ~ m } } } { \Big / } R _ { \mathrm { v - s m o w 2 } } - 1 ) ~ \times 1 ~ 0 0 0
+$$
+
+![](images/76a68464a7c42c9471668928317f6ddfe866d1ecd703b457b5b4d4ebce75d58d.jpg)  
+图1印度河上游位置及降水样品收集站点示意图（a.西风、印度季风及印度河上游流域示意图;b.Bagrot 山谷多年温度和降水月变化)  
+Fig.1Location of Upper Indus Basin and the sampling site.（a.Sketch of the westerlies，Indian monsoon and Upper Indus Basin；b.Monthly variations in temperature and precipitation amount in Bagrot Valy)
+
+式中： $R _ { \# \sharp _ { \sharp \sharp } }$ 和 $R _ { \mathrm { v } \mathrm { - } \mathrm { { S M o w } } 2 }$ 分别为降水样品和V-SMOW2的稳定同位素比值( $\mathrm { D / H }$ 或 $^ { 1 8 } 0 / ^ { 1 6 } 0$ )，仪器测试精度分别为 $0 . 6 \text{‰}$ （8D）和 $0 . 1 \% o \mathrm { ~ ( ~ } \delta ^ { 1 8 } \mathrm { { O } ) }$ 。降水稳定同位素的日、月和季节平均值为降水量加权平均，计算方法如下：
+
+$$
+{ \mathfrak { d } } ^ { 1 8 } \mathrm { O } _ { \nu } = \ \sum \ P _ { i } \mathfrak { d } ^ { 1 8 } \mathrm { O } _ { i } \bigg / \ \sum \ P _ { i }
+$$
+
+式中： $\mathfrak { F } ^ { 1 8 } \mathrm { O } _ { i }$ 和 $P _ { i }$ 为次降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 以及对应的降水量，$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O } _ { w }$ 为日、月降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 加权平均值。
+
+为验证稳定同位素所指示的降水水汽来源，本研究选取美国海洋及大气管理局（NOAA)所提供的HYSPLIT气团轨迹模型[53]（http://ready.arl.noaa.gov/HYSPLIT.php），利用美国国家环境预测中心(NCEP)的全球再分析资料（ftp：/arlftp.arlhq.noaa.gov/pub/archives/reanalysis），以降水样品收集站点为示踪终点，采用后向轨迹法，追踪观测站点上空$1 5 0 0 \mathrm { ~ m ~ }$ 气团 $1 2 0 \mathrm { ~ h ~ }$ 内的后向传输轨迹。
+
+# 2结果与分析
+
+# 2.1降水稳定同位素的变化及其与气象要素的关系
+
+图2和表1展示了Bagrot山谷2015年8月—2016年7月 $d , \mathfrak { \delta } \mathrm { D } , \mathfrak { \delta } ^ { 1 8 } 0$ 、温度和降水量的日变化特征。 $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ 与 8D变化范围分别为 $- \ 2 2 . \ 5 4 \% o$ \~$9 . 7 0 \text{‰}$ 和 $- 1 6 5 . 6 9 \% o \sim 8 1 . 9 0 \% o$ ,年加权平均值分别为-5. $92 \text{‰}$ 和 $- ~ 4 0 . ~ 8 7 \% o$ 。 $d$ 值的变化范围为$- 1 4 . 1 9 \% o \sim 2 1 . 5 2 \% o$ ，年加权平均值为 $6 . 5 2 \text{‰}$ ，低于全球平均值 $10 \text{‰}$ 。由于研究区降水稳定同位素和 $d$ 值季节变化较为明显，本研究将全年分为秋冬季(9月 $\sim$ 翌年2月)和春夏季(3\~8月)进行分析。
+
+Bagrot山谷秋冬季与夏秋季降水稳定同位素和平均值差异明显，秋冬季 $\delta ^ { 1 8 } \mathrm { O }$ 与 8D加权平均值分别为 $- 4 . 8 6 \% o$ 和 $- 3 3 . 1 6 \text{‰}$ ,春夏季 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 与8D加权平均值分别为 $\mathrm { ~ - ~ } 1 0 . 5 6 \% o$ 和 $\mathrm { ~ - ~ } 7 4 . 4 8 \% o$ ,秋冬季$\delta ^ { 1 8 } \mathrm { O }$ 与8D明显低于春夏季的。具体表现为，秋季
+
+# 表1 $\tilde { \mathbf { 0 } } ^ { 1 8 } \mathbf { 0 }$ 、SD和 $\textbf { \em d }$ 的最高值、最低值以及加权平均值
+
+Tab.1 The maximum-value,minimum-value and weight average value for $\tilde { \mathbf { 0 } } ^ { 1 8 } \mathbf { 0 }$ ，SD and d in different time scales （whole year，autumn-winter,and spring-summer)   
+
+<html><body><table><tr><td></td><td colspan="3">全年</td><td colspan="3">秋冬季</td><td colspan="3">春夏季</td></tr><tr><td></td><td>8180</td><td>8D/%0</td><td>d</td><td>8180</td><td>8D/%0</td><td>d</td><td>8180</td><td>8D/ %0</td><td>d</td></tr><tr><td>最低值</td><td>-22.54</td><td>- 165. 69</td><td>-14.19</td><td>-22.54</td><td>-165.69</td><td>-7.36</td><td>-17.99</td><td>- 144.14</td><td>-14.19</td></tr><tr><td>最高值</td><td>9.70</td><td>81.90</td><td>21.52</td><td>7.50</td><td>52.64</td><td>18.04</td><td>9.70</td><td>81.90</td><td>21.52</td></tr><tr><td>加权平均值</td><td>-4.86</td><td>-33.16</td><td>6.52</td><td>-10.56</td><td>-74.48</td><td>9.96</td><td>-4.86</td><td>-33.16</td><td>5.72</td></tr></table></body></html>
+
+![](images/d5448c2402c0307cb1f9cca099bef52b41cd63c64ebd2d12eb12ac06b69f6b2d.jpg)  
+图22015年8月—2016年7月Bagrot山谷各气象要素和同位素的季节变化  
+Fig.2Seasonal changes in meteorological elements, SD and $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ in Bagrot Valley from August，2015 to July,2016
+
+$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 与8D 随着温度的下降开始波动下降,进入冬季后温度达到全年最低，同时对应的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 与8D也达到全年最低并且相对比较稳定，降水多以固态形式(降雪)出现。结合 $\delta ^ { 1 8 } \mathrm { O }$ 的值和气象数据来看，秋冬季降水较为稀少，整个秋冬季仅有21d发生降水事件。鉴于入秋以后9月份的降水事件,9月20日$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 的值为 $7 . 5 0 \text{‰}$ ,远高于其前后的9月7日以及9月23日降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 的值( $\mathrm { ~ - ~ } 1 . 3 7 \% o$ 和 $- 2 2 . 5 4 \% o$ ）。研究发现，此日温度为 $1 5 . 3 \mathrm { ~ } \mathrm { { ‰ } }$ ，明显高于9月7日和9月23日发生降水事件时的温度（ $1 2 . 3 \mathrm { ~ } \mathrm { \textdegree C }$ 和$1 1 . 3 \mathrm { ~ \textdegree C }$ ），同时对应的降水量较为稀少（仅为1.1$\mathbf { m m } _ { , } ^ { \cdot }$ ）。因此，9月20日降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 的异常高值,可能与温度升高以及细小雨滴在降落过程中受到明显的二次蒸发有关，也可能还与其它要素有关，本研究将在后续研究中结合更长时间尺度的降水稳定同位素观测，以期进行深入分析。9月23日温度骤降，并且对应的降水量为 $4 . 8 \ \mathrm { m m }$ ，水汽冷凝较为充分，降水量较大，雨滴在降落的过程中受到的二次蒸发作用较弱，因此降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { 0 }$ 的值也相应发生骤降,达到了全年最低值 $- 2 2 . 5 4 \text{‰}$ 。之后，降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 与8D伴随着温度的下降逐渐降低。
+
+3月入春开始,温度开始上升,对应的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 与8D开始波动上升，到夏季达到最高值。从图 $3 \mathrm { a } \sim$ 3c、表2看出,Bagrot山谷降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 与8D与温度之间均存在良好的线性关系，在全年、秋冬季和春夏季等不同时期，二者均呈正相关关系，相关系数分别为0.73、0.72和0.66，且均能够通过 $P < 0 . 0 1$ 的显著性检验，表明Bagrot山谷降水稳定同位素存在显著的"温度效应”。而且发现,秋冬季降水 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 与温度的相关系数（0.72）高于春夏季的（0.66），这说明在秋冬季温度对于降水稳定同位素有着绝对的控制，而春夏季温度对降水稳定同位素的影响相对减弱。但Bagrot山谷降水稳定同位素与降水量无明显的相关关系，不表现出“降水量效应"（图3d\~3e，表2）。这与前人的研究结果，即内陆地区降水量效应不明显,而降水 $\delta ^ { 1 8 } \mathrm { O }$ 在内陆中高纬度地区更易受到温度的影响[42-54]是一致的。在青藏高原西北部的改则与狮泉河[55]、班公错[56]、和田乃至帕米尔高原的塔什库尔干[44]和慕士塔格[57]以及天山周边[58-59]等地的研究均表明,降水稳定同位素具有明显的温度效应，主要受西风环流以及局地水循环的影响。
+
+Bagrot 山谷 $d$ 值全年季节变化表现为春夏低，秋冬高，波动范围较大。其中，春夏季 $d$ 值的变化范围为： $- 1 4 . 1 9 \% o \sim 2 1 . 5 2 \% o$ ,平均值为 $5 . 7 2 \text{‰}$ ,秋冬季 $d$ 值的变化范围为： $- 7 . 3 6 \% c \sim 1 8 . 0 4 \% o$ ,平均值为 $9 . 9 6 \% o$ ,接近全球的平均水平( $10 \text{‰}$ 。春夏季 $d$ 值小于 $10 \text{‰}$ 的次数(40次)远远多于 $d$ 值大于 $10 \text{‰}$ 表2 $\tilde { \mathbf { 0 } } ^ { 1 8 } \mathbf { 0 }$ 和SD与温度和降水量的线性关系的次数（11次），春夏季的降水量占到了全年降水量的 $8 1 . 3 \%$ ，春夏 $d$ 值较秋冬季低，并且波动幅度较大，表明该时段内水汽来源比较为复杂。尤其是，研究发现，春夏季降水中 $d$ 值发生较低事件对应的降水量都很小，雨滴在降落的过程中经历了明显的二次蒸发，动力分馏作用较强，从而导致降水中 $d$ 值出现异常低值。秋冬季的降水量只占全年降水量的$1 8 . 7 \%$ ,而秋冬季 $d$ 值整体维持在一个比较高的值域范围内，这可能与降水的固态形式有关，降雪事件发生时，由于环境温度相对较低，因此降雪在降落过程中的动力分馏相对较弱，从而使得其 $d$ 值相对较高[60]。
+
+![](images/3dfeda4b688cc794960634a9e67615fb9932f22a2a0d29c596c3bf66a143ab95.jpg)  
+图3不同时间尺度下Bagrot山谷降水稳定氢氧稳定同位素与温度和降水量的关系Fig.3Relationship between $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ （&D）and temperature and precipitation in Bagrot Valley for
+
+Tab.2Correlation between stable isotopes ( $\mathfrak { F } ^ { 1 8 } \mathbf { O }$ and δD) and meteorological factors（temperature and precipitation amount）atBagrotValley for different time scales (whole year,autumn-winter，and spring-summer)   
+
+<html><body><table><tr><td colspan="2"></td><td>8180 -T</td><td>8D -T</td><td>8180-P</td><td>8D-P</td></tr><tr><td rowspan="7">全年</td><td>斜率</td><td>0.87</td><td>6.60</td><td>0.043</td><td>0.51</td></tr><tr><td>截距</td><td>-15.34</td><td>-113.04</td><td>-6.37</td><td>-46.30</td></tr><tr><td>r</td><td>0.73</td><td>0.71</td><td>0.03</td><td>0.05</td></tr><tr><td>n</td><td>72</td><td>72</td><td>72</td><td>72</td></tr><tr><td>P</td><td>0.00</td><td>0.00</td><td>0.80</td><td>0.70</td></tr><tr><td>秋冬季 斜率</td><td>1.04</td><td>8.04</td><td>0.201</td><td>1.963</td></tr><tr><td>截距</td><td>- 17.36</td><td>-128.41</td><td>-11.82</td><td>-86.79</td></tr><tr><td rowspan="6">春夏季</td><td>r</td><td>0.72</td><td>0.72</td><td>0.09</td><td>0.11</td></tr><tr><td>n</td><td>21</td><td>21</td><td>21</td><td>21</td></tr><tr><td>P</td><td>0.00</td><td>0.00</td><td>0.71</td><td>0.64</td></tr><tr><td>斜率</td><td>0.74</td><td>5.63</td><td>-0.14</td><td>-0.85</td></tr><tr><td>截距</td><td>-13.29</td><td>-98.24</td><td>-3.24</td><td>-23.36</td></tr><tr><td>r</td><td>0.66</td><td>0.62</td><td>0.12</td><td>0.09</td></tr><tr><td>n</td><td>51</td><td></td><td>51</td><td>51</td><td>51</td></tr><tr><td>P</td><td></td><td>0.00</td><td>0.00</td><td>0.39</td><td>0.52</td></tr></table></body></html>
+
+注： $\boldsymbol { r }$ 为相关系数， $n$ 为样品数， $P$ 为显著性水平
+
+# 2.2 局地大气水线
+
+降水稳定同位素中8D 与 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 之间的线性关系称为大气降水线。在1961年CRAIG根据来自全球不同地区的400多个降水、河水及湖水样品中8D与 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathbf { 0 }$ 定义了全球大气水线（GlobalMeteoricWa-terLine,简称GMWL）,这一规律可以用 $ { 8 \mathrm { D } } = 8  { 8 } ^ { 1 8 } \mathrm { O }$ $+ 1 0$ 来表示[61]。随后,ROZANSKI对全球 206个站点长期观测的降水SD 与 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 进行分析,进一步修正了大气水线方程,即8D=8.17810+10.35[3] ○
+
+局地大气水线（LocalWaterMeteoricLine，简称LWML）是指某一地区降水中δD 和 $8 ^ { 1 8 } 0$ 之间的线性关系。水汽从源地蒸发到凝结降水的这一过程中，影响稳定同位素分馏的因子有所不同，因此局地大气水线可以有效地反应不同区域内气象条件以及自然环境的差异。根据在Bagrot山谷观测期间所获得的降水样品的8D 和 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathbf { 0 }$ 数据,利用最小二乘法，分别计算得出研究区全年局地大气水线（图4）：
+
+$$
+\mathfrak { S } \mathrm { D } = 7 . 7 7 \mathfrak { d } ^ { 1 8 } \mathrm { O } + 4 . 2 8 ( R ^ { 2 } = 0 . 9 9 , n = 8 3 , P < 0 . 0 1 )
+$$
+
+春夏季大气水线：
+
+$$
+\mathfrak { S } \mathrm { D } = 7 . 8 9 \mathfrak { s } ^ { 1 8 } \mathrm { O } + 3 . 8 2 ( R ^ { 2 } = 0 . 9 8 , n = 5 8 , P < 0 . 0 1 )
+$$
+
+秋冬季大气水线：
+
+$$
+\mathfrak { S } \mathrm { D } = 7 . 8 1 \mathfrak { d } ^ { 1 8 } \mathrm { O } + 6 . 8 0 \ ( R ^ { 2 } = 0 . 9 9 , n = 2 5 , P < 0 . 0 1 )
+$$
+
+与全球大气水线相比，全年局地大气水线斜率和截距均偏低，这可能是由于降水过程中雨滴受到了较为强烈的云下二次蒸发的作用引起的，也即间接地受控于当地相对干燥的自然环境。已有研究表明，当气温较高且相对湿度较低的情况下，降雨过程所受到的云下二次蒸发作用较强，由此造成了同位素的不平衡分馏[2,8,18]。研究时段内较小的降水事件（ ${ \leqslant } 5 \ \mathrm { m m }$ ）占总降水事件次数的 $6 5 \%$ ，降水量较小的降水事件更容易受到云下二次蒸发的影响，从而导致研究区大气水线斜率和截距低于全球大气水
+
+100。 秋冬季 秋冬季LMWL:8D=7.81818O+6.80 O。春夏季 $R ^ { 2 } { = } 0 . 9 9$ n=25,P<0.01 。50 秋冬季LMWL 00春夏季LMWL 1088全年LMWL0 --GMWL 8.9个8%0%/09 08-50 -GMWL:8D=8818O+10 春夏季LMWL:8O=7.898D+3.820 86 Bo R²=0.98, $\scriptstyle n = 5 8$ P<0.01-100800-150 8全年LMWL:8D=7.77818O+4.28R²=0.99,n=83,P<0.01-200 L-25 -20 -15 -10 -5 0 5 10 15818D/%0
+
+线,这一过程在较为干旱的地区尤为强烈[19]。另外，研究还发现，降水的不同形态对局地大气水线的斜率和截距产生一定的影响。本研究的所有降雨事件8D和 $\delta ^ { 1 8 } \mathrm { O }$ 之间的线性关系（图5）为：
+
+$$
+\mathfrak { S } \mathrm { D } = 7 . 8 2 8 ^ { 1 8 } \mathrm { O } + 3 . 9 9 \ ( R ^ { 2 } = 0 . 9 8 , n = 7 1 , P < 0 . 0 1 )
+$$
+
+相对而言，降雪过程则会造成截距和斜率的偏大，本研究中所有降水样品中的12个降雪样品，其8D和 $8 ^ { 1 8 } 0$ 之间的线性关系（图5）为：
+
+$$
+\mathfrak { S } \mathrm { D } = 9 . 0 0 8 ^ { 1 8 } \mathrm { O } + 2 6 . 2 7 \left( R ^ { 2 } = 0 . 9 9 , n = 1 2 , P < 0 . 0 1 \right)
+$$
+
+式中的斜率和截距均大于全球大气水线的以及研究区全年大气水线的，表明冬季降雪事件受再循环水汽和二次蒸发的影响较小，水汽来源较为单一。这也是秋冬季局地大气水线比春夏季局地大气水线斜率和截距大的原因。
+
+而通过与研究区周边地区局地大气水线对比发现（表3），整体上研究区周边地区大气水线与研究区大气水线相比，其斜率大小比较相近，但其截距显著不同。研究发现，从南到北，总体上随着纬度的升高，局地大气水线截距呈变低的趋势（狮泉河站点除外)。这可能是由于随着纬度的升高，降水受海洋性水汽的影响越小，气候愈加干燥雨滴降落时强烈的云下二次蒸发作用使得稳定同位素发生不平衡分馏，造成截距逐渐降低，
+
+# 2.3 水汽来源分析
+
+从地理位置上来看，研究区远离海洋，位于亚洲大陆内部，并且研究区南部有众多山脉，阻挡了大部
+
+![](images/b0cbb289da218cc6042d2de066a0e58305159902a59b7824486129a233e94819.jpg)  
+图4Bagrot山谷全年、不同季节(春夏季、秋冬季)的局地大气水线和全球大气水线Fig.4GMWL and LWML for different seasons(spring-summer,autumn-winter）in Bagrot Valley  
+图5Bagrot山谷降雨、降雪不同降水形态时的局地大气水线与全球大气水线  
+Fig.5GMWL and LWML for different precipitation phases (rainfall events and snow events）in Bagrot Valley
+
+# 干旱区地理
+
+表3研究区以及周边地区局地大气水线(以纬度排序)  
+Tab.3Local Water Meteoric Line of Bagrot Valley and its adjacent area   
+
+<html><body><table><tr><td>研究区域</td><td>经度</td><td>纬度</td><td>局地大气水线</td><td>资料来源</td></tr><tr><td>和田</td><td>79.58°</td><td>37.10°</td><td>8D=7.248180 +1.96</td><td>GNIP</td></tr><tr><td>Bagrot Valley</td><td>74.56°</td><td>36.03°</td><td>8D=7.778180 +4.28</td><td>本研究</td></tr><tr><td>Kashmir Himalaya</td><td>74.50°</td><td>34.25°</td><td>8D =7.598180 +11.79</td><td>文献[49-50]</td></tr><tr><td>阿里</td><td>79.70°</td><td>33.39°</td><td>8D=8.518180+11.57</td><td>文献[56]</td></tr><tr><td>狮泉河</td><td>84.08°</td><td>32.50°</td><td>SD =8.098180 +7.96</td><td>文献[42]</td></tr><tr><td>改则</td><td>84.02°</td><td>32.03°</td><td>8D =8.298180 +11.62</td><td>文献[57]</td></tr></table></body></html>
+
+分来自于印度洋的暖湿气流，降水可能主要来自于西风带气流的水汽输送以及局地环流。根据YAO等人的研究结果，可以认为本研究区域降水隶属于西风模态，降水稳定同位素变化主要受温度变化控制[41]。
+
+为进一步研究该区域水汽来源，借助NOAA提供的 HYSPLIT气团轨迹模型,对 Bagrot山谷样品收集站点上空 $1 \ 5 0 0 \ \mathrm { m }$ 处的气团为运动终点，对2015年8月到2016年7月降水进行后向 $1 2 0 \mathrm { ~ h ~ }$ 轨迹模拟追踪,将模拟轨迹近似代表水汽团的轨迹[62]
+
+春夏季和秋冬季降水的水汽运行轨迹有一定差别（图6a，6b），可以将春夏和秋冬季的水汽来源大致分为3大类：(1)来自于研究区西部的大西洋、亚欧大陆腹地以及地中海区域；（2)来自于研究区周边地区；(3)来自于研究区南部的阿拉伯海。
+
+第一类水汽来源主要经西风环流长距离输送到达研究区，地中海地区和亚欧大陆腹地为降水 $d$ 的峰值区[17],故来自于此区域的水汽具有较高的 $d$ 值，可以看到秋冬季由西风环流来的水汽轨迹距离相较于春夏季的更长，并且占总轨迹数的比例更高，导致 $d$ 值偏高而 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值偏低。第二类水汽来源为局地循环水汽，通过短距离的水汽传输过程到达研究区，此类水汽一般来自于土壤蒸发、植物蒸腾以及地表水体蒸发，春夏季由于温度较高，蒸发较强，对流天气较多，强烈的再循环过程使得 $\delta ^ { 1 8 } \mathrm { O }$ 富集，并使 $d$ 值偏低[39]。第三类水汽来源主要为来自南方的海洋性水汽。此类水汽从沿海到内陆经历长途输送，在输送过程中水汽不断“洗脱”以及遇到高大山脉阻挡被迫抬升，从而凝结产生降水，使得剩余水汽$\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 不断贫化,到达研究区后，导致后续形成的降水出现较低的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 值，这可以解释研究区偶尔出现的较低的 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 的降水过程[9]。例如3月18日,由HYSPLIT模型的模拟结果来看（图7），其后向轨迹追踪在 $3 \ 0 0 0 \ \mathrm { ~ m ~ }$ 高度有来自于阿拉伯海的水汽输入，从而导致Bagrot山谷此日降水稳定同位素相对较低， $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ 和 8D分别为 $- 1 3 . 8 3 \% o$ 和 $- 1 1 3 . 1 5 \% o _ { \odot }$ 但3月19日模拟结果显示，水汽主要来自于西风远距离和局地循环，导致此日降水稳定同位素相对较高， $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 和 8D分别为 $- 1 0 . 0 3 \% o$ 和 $- 7 0 . 5 7 \text{‰}$ 。可见不同水汽来源的转换会影响降水稳定同位素的变化。
+
+注：秋冬季为9月～2月;春夏季3月\~8月;轨迹计算为在降水发生事件当天的 $0 \mathopen { } \mathclose \bgroup : 0 0 , 6 \mathopen { } \mathclose \bgroup : 0 0 , 1 2 \mathopen { } \mathclose \bgroup : 0 0$ 和18:00,模拟时间为向前 $^ { 1 2 0 \mathrm { ~ h ~ } }$ ，高度为地面以上 $1 \ 5 0 0 \ \mathrm { m }$ ，数据为NCEP再分析数据
+
+![](images/cb38a9a062d56bcf3c0f3c96fa234b406c6092156d6cbe44a806690bef8ef709.jpg)  
+图6Bagrot山谷气流后向轨迹图  
+Fig.6Backward trajectories simulated by HYSPLIT for Bagrot Valley
+
+![](images/9f82c291bd501fa3989e7daf75d91559f92d33b142269aedb4f5d6eb6e851bb6.jpg)  
+注：红色轨迹表示地面上模拟高度 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ ;蓝色轨迹表示地面上 $2 \ 0 0 0 \ \mathrm { m }$ ;绿色轨迹表示地面上 $3 \ 0 0 0 \ \mathrm { m }$   
+图7HYSPLIT后向轨迹追踪模拟图  
+Fig.7Back trajectories simulated by HYSPLIT at 100O（red lines），2 OOO（blue line）and $3 \ 0 0 0 \ \mathrm { m }$ （green line）a.g.l.onMarch 18 and19,2016
+
+从整体上看，Bagrot山谷降水稳定同位素变化特征与青藏高原西北部塔什库尔干的研究结果相似，其变化主要受西风环流和局地循环水汽的影响[44]。不过,与塔什库尔干以及和田等地的研究稍有不同的是，Bagrot山谷降水稳定同位素仍然识别到南方的海洋性水汽偶尔仍会影响到此研究区。这可能与Bagrot山谷相比塔什库尔干更靠南，并且海拔较低有关。
+
+# 3结论
+
+本研究通过对印度河上游流域Bagrot山谷2015年8月—2016年7月降水稳定同位素观测结果,结合研究区气象观测数据以及HYSPLIT模型后向轨迹追踪，利用同位素示踪及统计分析方法分析了Bagrot山谷降水稳定同位素变化特征及与水汽来源的关系，得出以下主要结论：
+
+（1）Bagrot山谷降水稳定同位素 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathbf { 0 }$ 与8D季节变化明显，秋冬季较低，春夏季较高，与温度呈正相关关系，全年温度效应明显，相关系数达到了0.73，而降水量效应不明显。
+
+（2）Bagrot山谷局地大气水线截距和斜率均小于与全球大气水线，这反映了研究区较为干旱的环境和降水受云下二次蒸发的影响。特别的是，通过对不同的降水形态（降雨、降雪）大气水线研究发现，不同的降水形态会导致该研究区的局地大气水线的斜率和截距不同。降雨事件受到的二次蒸发相对较强，使得局地大气水线的斜率和截距明显偏低;而降雪事件发生时，由于环境温度较低，受再循环水汽和二次蒸发的影响较小，导致其局地大气水线的斜率和截距偏高。通过与研究区周边地区局地大气水线对比发现,从南到北,其斜率大小基本相同，而其截距随着纬度的升高呈变低的趋势（狮泉河站点除外），这可能是由于随纬度升高，受海洋性水汽影响越小，受云下二次蒸发影响越大造成的。
+
+（3）根据降水稳定同位素数据及HYSPLIT模型模拟结果表明：研究区全年主要受西风环流以及局地环流的影响，不同水汽来源的转换会引起降水稳定同位素的变化。但是，与研究区以北的临近站点(慕士塔格、和田等)相比有所不同，由于Bagrot山谷位置更靠南，其仍然偶尔受到来自南方的海洋性水汽影响。
+
+# 参考文献(References）
+
+[1] GATJR. Oxygen and hydrogen isotopes in the hydrologic cycle [J].Annual Review of Earth and Planetary Sciences,1996,24 (1):225-262.   
+[2] DANSGAARD W. Stable isotopes in precipitation[J]. Tellus, 1964，16(4):436-468.   
+[3] ROZANSKI K,ARAGUAS-ARAGUAS L,GONFIANTINI R. ISOtopicpatterns in modern global precipitation［M].Washington DC:American Geophysical Union Geophysical Monograph Series 1993,78;1 - 36.   
+[4]KURITA N,YAMADA H.The role of local moisture recycling evaluated using stable isotope data from over the middle of the Tibetan Plateau during the monsoon season[J]. Journal of Hydrometeorology,2008,9(4) :760-775.   
+[5]GUAN H,SIMMONS C T,LOVE A J. Orographic controls on rain water isotope distribution in the Mount Lofty Ranges of South Australia[J].Journal of Hydrology,2009,374(3）:255-264.   
+[6]SINCLAIR K,MARSHALL S,MORAN T. A Lagrangian aproach to modelling stable isotopes in precipitation over mountainous terrain[J].Hydrological Processes,2011,25(16）:2481-2491.   
+[7]RISI C,BONY S,VIMEUX F.Influence of convective processes on the isotopic composition （ $\textup { \ r { 8 } } ^ { 1 8 } \mathrm { O }$ and &D）of precipitation and water vapor in the tropics:2.Physical interpretation of the amount effect [J].Journal of Geophysical Research; Atmospheres,2008,113 （D19）,doi:10.1029/2008JD009943   
+[8]ARAGUAS-ARAGUAS L,FROEHLICH K,ROZANSKI K. Stable isotope composition of precipitation over southeast Asia[J]. Journal of Geophysical Research:Atmospheres,1998,103（D22）: 28721 -28742.   
+[9]BHATTACHARYA S K,FROEHLICH K,AGGARWAL P K,et al. Isotopic variation in Indian Monsoon precipitation;Records from Bombay and New Delhi[J].Geophysical Research Letters,2003, 30(24）,doi:10.1029/2003GL018453,24.   
+[10]LAWRENCE JR,GEDZELMAN S D,DEXHEIMER D,et al. Stable isotopic composition of water vapor in the tropics[J]. Journal of Geophysical Research: Atmospheres,2004,109（D6）,doi: 10. 1029/2003JD004046.   
+[11]YAMANAKA T,SHIMADA J,MIYAOKA K.Footprint analysis using event-based isotope data for identifying source area of precipitated water[J]. Journal of Geophysical Research: Atmospheres, 2002,107（D22）,doi:10.1029/2001JD001187.   
+[12]THOMPSON L G,YAO T,MOSLEY-THOMPSON E,et al.A highresolution millennial record of the South Asian monsoon from Himalayan ice cores[J].Science,2000,289(5486）:1916 -1919.   
+[13]CAI Y,CHENG H,ANZ,et al.Large variations of oxygenisotopes in precipitation over south-central Tibet during Marine Isotope Stage 5[J]. Geology,2010,38(3）:243 -246.   
+[14]TREYDTE K S,SCHLESER G H,HELLE G,et al. The twentieth century was the wettst period in northern Pakistan over the past millennium[J].Nature,2006,440(7088）:1179-1182.   
+[15]PANG H,HOU S,KASPARI S,et al. Influence of regional precipitation paterns on stable isotopes in ice cores from the central Himalayas[J].The Cryosphere,2014,8（1）:289-301.   
+[16］MERLIVAT L,JOUZEL J. Global climatic interpretation of the deuterium-oxygen 18 relationship for precipitation[J]. Journal of Geophysical Research:Oceans,1979,84（C8）:5029 -5033.   
+[17]GAT JR,KLEIN B,KUSHNIR Y,et al.Isotope composition of air moisture over the Mediterranean Sea:An index of the air-sea interaction patterm[J].Tellus B,2003,55(5）:953-965.   
+[18]PENG H,MAYER B,HARRIS S,et al.A 10-year record of stable isotope ratios of hydrogenand oxygen in precipitation at Calgary, Alberta,Canada[J].TellusB,2004,56(2）:147-159.   
+[19]PENG H,MAYER B,HARRIS S,et al. The influence of belowcloud secondary efects on the stable isotope composition of hydrogen and oxygen in precipitation at Calgary,Alberta,Canada[J]. Tellus B,2007,59(4） :698-704.   
+[20]TIAN L,YAO T,MACCLUNE K,et al. Stable isotopic variations in west China:A consideration of moisture sources[J]. Journal of Geophysical Research：Atmospheres,2007,112（D10）,doi;10. 1029/2006JD007718.   
+[21］章新平,刘晶淼,中尾正义,等.我国西南地区降水中过量氘指 示水汽来源[J].冰川冻土,2009,31（4）:613-619.[ZHANG Xinping,LIU Jingmiao,MASAYOSHI Nakawo,et al. Vapor origins revealed by deuterium excess in precipitation in southwest China [J]. Journal of Glaciology and Geocryology,2009,31（4）:613- 619.]   
+[22]ARAGUAS-ARAGUAS L,FROEHLICH K,ROZANSKI K. Deuterium and oxygen-18 isotope composition of precipitation and atmospheric moisture[J]. Hydrological Processes,200,14（8）： 1341 - 1355.   
+[23]ZHAO L,XIAO H,ZHOU M,et al.Factors controling spatial and seasonaldisrbutionsofprecipitation $\ S ^ { 1 8 } \mathrm { O }$ in China[J]. Hydrological Processes,2012,26(1) :143-152.   
+[24]LIU J,SONG X,YUAN G,et al. Stable isotopic compositions of precipitation in China[J].Tellus B,2014,66(1）,doi:10.3402/ tellusb.v66.22567   
+[25]LIU Z,TIAN L,CHAI X,et al.A model-based determination of spatial variation of precipitation $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { ~ 0 ~ }$ over China[J].Chemical Geology,2008,249(1) :203-212.   
+[26］宋献方,柳鉴容,孙晓敏,等.基于CERN 的中国大气降水同位 素观测网络[J].地球科学进展,2007,22（7）：738－747. [SONG Xianfang,LIU Jianrong,SUN Xiaomin,etal. Establishment of Chinese Netword of Isotopes in Precipitation（CHNIP) based on CERN[J].Advances in Earth Science,2007,22（7）： 738 -747.]   
+[27] ZHANG M,WANG S.A review of precipitation isotope studies in China: Basic pattern and hydrological process[J]. Journal of Geographical Sciences,2016,26(7) :921-938.   
+[28］章新平,刘晶淼,孙维贞,等.中国西南地区降水中氧稳定同位 素比率与相关气象要素之间关系的研究［J].中国科学（D 辑）：地球科学,2006,36(9）:850-859.[ZHANG Xinping,LIU Jingmiao,SUNWeizhen,etal.The oxygen isotope ratio in precipitation and relationship with meteorological factors in Southwest China[J].Scientia Sinica(Terrae）,2006,36(9）:850-859.]   
+[29]WANG S,ZHANG M,CRAWFORD J,et al.The effect of moisture source and synoptic conditions on precipitation isotopes in arid central Asia[J].Journal of Geopysical Research: Atmosphres, 2017,122,2667 - 2682   
+[30]TANG Y,PANG H,ZHANG W,et al.Effects of changes in moisture source and the upstream rainout on stable isotopes in precipitation:A case study in Nanjing,eastern China[J].Hydrology and Earth System Sciences,2015,19(10):4293-4306.   
+[31]LI Z,FENG Q,YONG S,et al. Stable isotope compositionof precipitation in the south and north slopes of Wushaoling Mountain,northwestern China[J].Atmospheric Research,2016,182:87 -101.   
+[32]LI Z,FENG Q,WANG Q,et al. Contributions of local terrestrial evaporation and transpiration to precipitation using $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { \mathrm { O } }$ and D-excess as äa proxy in Shiyang inland river basin in China[J].Global and Planetary Change,2016,146:140-151.   
+[33]WEN X,ZHANG S,SUN X,et al. Water vapor and precipitation isotope ratios in Beijing,China[J].Journal of Geophysical Research;Atmospheres,2010,115（D1）,D01103,doi:10.1029/ 2009JD012408..   
+[34]PU T,HE Y,ZHU G,et al. Characteristics of water stable isotopes and hydrograph separation in Baishui Catchment during the wet season in Mt. Yulong region,south western China[J]. Hydrological Processes,2013,27(25):3641-3648.   
+[35］孙芳强,尹立河,马洪云,等.新疆三工河流域土壤水 8D 和 $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ 特征及其补给来源[J].干旱区地理,2016,39(6):1298- 1304.[SUN Fangqiang,YINLihe,MA Hongyun,etal.Featuresf SD and $\mathfrak { F } ^ { 1 8 } 0$ and origin of soil water in Sangong River Basin,Xinjiang[J]Arid Land Geography,2006,39(6）:1298-1304.]   
+[36］赵良菊,尹力,肖洪浪,等.黑河源区水汽来源及地表径流组成 的稳定同位素证据[J].科学通报,2011,56（1）：58－70. [ ZHAO Liangju,YIN Li,XIAO Honglang,et al. Isotopic evidence for the moisture origin and composition of surface runoff in the headwaters of the Heihe River basin[J].Science Bulletin,2011, 56(1):58 -70.]   
+[37］王彩霞,张杰,董志文,等.基于氢氧同位素和水化学的祁连山 老虎沟冰川区径流过程分析[J].干旱区地理,2015,38（5）： 927 - 935.[WANG Caixia, ZHANG Jie,DONG Zhiwen,et al. Glacier meltwater runoff process analysis based on D and $\mathfrak { 8 } ^ { 1 8 } 0 \ \mathrm { i } \mathrm { - }$ sotope andchemistry in the Laohugou glacier basin of the Qilian Mountains[J]Arid Land Geography,2015,38(5）:927 -935.]   
+[38］刘相超,宋献方,夏军,等.东台沟实验流域降水氧同位素特征 与水汽来源[J].地理研究,2005,24（2）：196-205.［LIU Xiangchao,SONG Xianfang,XIAJun,etal.Astudyonoxgeniso tope in precipitation of Dongtaigou Basin in Chao and Bai River Basin[J].Geographical Research,2005,24(2）:196-205.]   
+[39］庞朔光,赵诗坤,文蓉,等.海河流域大气降水中稳定同位素的 时空变化[J].科学通报,2015,60：（13）：1218－1226［PANG Shuoguang,ZHAO Shikun,WEN Rong,et al.Spatial and temporal variation of stable isotopes in precipitation in the Haihe River basin[J].Chinese Science Bulletin,2015,60(13）:1218 -1226.]   
+[40]TIANL,MASSON-DELMOTTE V,STIEVENARD M,et al. Tibetan Plateau summer monsoon northward extent revealed by measurements of water stable isotopes[J]. Journal of Geophysical Research:Atmospheres,2001,106(D22）:28081-28088.   
+[41]YAO T,MASSON-DELMOTTE V,GAO J,et al. A review of climatic controls on $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { \mathrm { O } }$ in precipitationoverthe TibetanPlateau; Observations and simulations[J]. Reviews of Geophysics,2013,51 (4) :525-548.   
+[42]YU W,YAO T,TIANL,et al.Relationships between $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ in precipitation and air temperature and moisture origin on a south-north transect of the Tibetan Plateau[J].Atmospheric Research,2008, 87(2) :158 -169.   
+[43]YUW,YAO T,TIANL,et al.Short-term variability in the dates of the Indian monsoon onset and retreat on the southern and northern slopes of the central Himalayas as determined by precipitation stable isotopes[J]. Climate Dynamics,2016,47(1-2）:159 -172.   
+[44]YU W,TIAN L,RISI C,et al. $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { { O } }$ records in water vapor and an ice core from the eastern Pamir Plateau: Implications for paleoclimate reconstructions[J].Earth and Planetary Science Letters， 2016,456:146 - 156.   
+[45]GAO J,MASSON-DELMOTTE V,YAO T,et al. Precipitation water stable isotopes in the south Tibetan Plateau:Observations and modeling[J].Journal of Climate,2011,24（13）:3161-3178.   
+[46]KARIMA,VEIZER J.Water balance of the Indus River Basin and moisture source in the Karakoram and western Himalayas:Implications from hydrogen and oxygen isotopes in river water[J]. Journal of Geophysical Research;Atmospheres,2002,107（D18）,doi:10. 1029/2000JD000253.   
+[47] SHARMA A, KUMAR K,LASKAR A,et al. Oxygen,deuterium, and strontium isotope characteristics of the Indus River water system[J]. Geomorphology,2017,284:5-16.   
+[48]AHMAD M,LATIF Z,TARIQ JA,et al. Isotope investigations of major rivers of Indus Basin,Pakistan[J].Monitoring Isotopes in Rivers:Creation of the Global Network of Isotopes in Rivers (GNIR）,2012:167.   
+[49] JEELANI G,BHAT N A,SHIVANNA K. Use of $\ S ^ { 1 8 } \mathrm { O }$ tracer to identify stream and spring origins of a mountainous catchment:A case study from Liddar watershed,western Himalaya,India[J]. Journal of Hydrology,2010,393(3）:257-264.   
+[50]JEELANIG,KUMAR U S,KUMAR B.Variation of $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { \mathrm { O } }$ and 8D in precipitation and stream waters across the Kashmir Himalaya (India）to distinguish and estimate the seasonal sources of stream flow[J]. Journal of Hydrology,2013,481:157-165.   
+[51]RAI S P,THAYYEN R J,PURUSHOTHAMAN P,et al.Isotopic characteristics of cryospheric waters in parts of Western Himalayas,India[J].Environmental Earth Sciences,2016,75(7）:1-9.   
+[52]WINIGER M,GUMPERT M,YAMOUT H. Karakorum-Hindukushwestern Himalaya：Assessing high-altitude water resources[J]. Hydrological Processes,2005,19（12）:2329-2338.   
+[53]DRAXLER RR,HESS G D.An overview of the HYSPLIT_4 modelling system for trajectories[J].Australian Meteorological Magazine,1998,47(4）:295-308.   
+[54]GAT JR,GONFIANTINI R. Stable isotope hydrology: Deuterium and oxygen-18 in the water cycle[J].IAEA,Vienna,1981,103- 142.   
+[55］余武生,马耀明,孙维贞,等.青藏高原西部降水中 $\delta ^ { 1 8 } 0$ 变化 特征及其气候意义[J].科学通报,2009,54(15）:2131-2139. [YUWusheng,MA Yaoming,SUNWeizhen,etal.Climatic significance of $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ records from precipitation on the western Tibetan Plateau[J].Chinese Science Bulletin,2009,54（15）:2732- 2741. ]   
+[56]GUO X,TIAN L,WEN R,et al. Controls of precipitation $\ S ^ { 1 8 } \mathrm { O }$ on the northwestern Tibetan Plateau: A case study at Ngari station [J].Atmospheric Research,2017,189:141 -151.   
+[57]YU W,YAO T,TIAN L,et al. Relationships between $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ in summer precipitation and temperature and moisture trajectories at Muztagata,western China[J]. Science in China Series D,2006,49 (1) :27 -35.   
+[58]KONG Y,PANG Z,FROEHLICH K. Quantifying recycled moisture fraction in precipitation of an arid region using deuterium excess [J].Tellus B,2013,65,doi:10.3402/tellusb.v65i0.19251.   
+[59]WANG S,ZHANG M,HUGHES C E,et al.Factors controlling stable isotope composition of precipitation in arid conditions:An observation network in the Tianshan Mountains,central Asia[J]. Tellus B,2016,68:26206,doi:10.3402/tellusb.v68.26206.   
+[60]JOUZEL J,MERLIVATL. Deuterium and oxygen 18 in precipitation:Modeling of the isotopic effects during snow formation[J]. Journal of Geophysical Research;Atmospheres,1984,89（D7）:
+
+ations of rainfall events in a coastal area of South Australia and its relationship with synoptic weather systems and atmospheric moisture sources[J]. Journal of Geophysical Research;Atmospheres, 2013,118(2):1123-1138
+
+# Precipitation stable isotope variation and its relationship with moisture sources in Bagrot Valley of Upper Indus Basin
+
+WANG Ye-fan1,2, YU Wu-sheng1 1,3 ，ZHANG Yin-sheng1,3, ZHANG Teng $^ { 1 , 3 }$ GAO Hai-feng1， MUHAMMAD Atif Wazir1,2.4
+
+(1KeyLaboratoryof Tibetan Environment Changes andLand SurfaceProceses,Instituteof Tibetan Plateau Research; Chinese AcademyofSciences,Beijing 10oo1,China；2Universityof Chinese AcademyofSciences,Beijing100049,China; 3Center for Excellence in Tibetan Plateau Earth Sciences,Chinese Academyof Sciences,Beijing 10o101,China; 4Pakistan Meteorological Department,Islamabad 44ooo,Pakistan)
+
+Abstract:Precipitation stable isotopes are integrated tracers of atmospheric processes worldwide.The precipitation stable isotopes （ $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ and 8D）are influenced by numerous factors,including the condensation temperature,atmospheric humidity,air pressure,precipitation amounts,moisture sourcesand orographic terrain.In recent decades, many efforts have been dedicated to studying precipitation isotopic composition invarious regions in the Tibetan Plateau,China,located at the convergence between the westerliesand Indian monsoon. However,few studiesare conducted inthe Upper Indus Basin（UIB）,which located in the western Tibetan Plateau.Based on theobservation of precipitation stable isotopes ( $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { O }$ and &D）and local meteorological factors from August 2015 to July 2016 ,combining withthe HYSPLITmodel,this study investigated thecharacteristics of stable isotopes in precipitation,therelationship between isotopic variationsand meteorological factors,Local Meteoric Water Line（LMWL）,and the moisture sources of typical watershed in Bagrot Valley,Upper Indus Basin.The results show that precipitation $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { 0 }$ （204号 and 8D in Bagrot Valley displayed an obvious seasonal change. The $\boldsymbol { \mathfrak { \delta } } ^ { 1 \mathrm { \nu } } \mathbf { 0 }$ and δD values are more depleted in autumn and winterbut relatively enriched in springand summer,indicating a significant temperature efec rather than precipitation amount effect.Moreover,the lower intercept and slope of Local Meteoric Water Line（LMWL）relative to GMWL indicated a strong sub-cloud evaporation owing to the relatively arid climate in the study area.Interestingly,diferent precipitation phases led toa diference in interceptand slope of meteoric water line.The lower intercept and slope of rainfall eventsresult from strong sub-cloud evaporation.While meteoric water lineof snowfall events hashigher slopeand intercept.It resulted from litle impacts of recycled moistureand sub-cloud evaporation,due to the low temperature.Besides,compared with adjacent regions,the slopes of the LMWLs are nearlythe same,however,the itercepts were increased with the latitude（except Shiquanhe）,this may be caused by the strengthening subcloud evaporation and weakening efect of the marine moisture.In addition,theoutputs of HYSPLIT model and resultsof precipitation stable isotopes demonstrated that Bagrot Valley is consistently dominated bythe westerliesand local moisture recycling throughout the year and moisture source changes afect stable isotopes in precipitation.However,compared with Muztagata and Hotan,where marine moisture cannot reach,the study area of Bagrot Valley is affected by the marine moisture from the ocean occasionally as it lies southern to Muztagata and Hotan.
+
+Key words:Upper Indus Basin；precipitation stable isotopes；meteoric water line；moisture sources

@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "组蛋白去乙酰化酶的结构及应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹端方 杨娜\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院生物物理研究所，生物大分子国家重点实验室，北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要组蛋白赖氨酸乙酰化是目前研究最为广泛和深入的组蛋白翻译后修饰之一，在染色质重塑和基因表达调控等方面发挥重要作用，这种修饰在体内受到组蛋白乙酰化酶和去乙酰化酶的高度动态调控．除了以组蛋白为底物外，组蛋白去乙酰化酶还可以催化多种非组蛋白的去乙酰化，参与多种生命过程的调节．本文围绕四类人源组蛋白去乙酰化酶，综述了其分类依据、结构与功能特点、催化反应的分子机制，以及针对这些组蛋白去乙酰化酶的抑制剂和激动剂的开发和应用等方面的研究进展.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词组蛋白乙酰化修饰，组蛋白去乙酰化酶，Sirtuin，结构与功能，催化机制，抑制剂，激动剂学科分类号Q6 DOI:10.16476/j.pibb.2015.0260",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "核小体是真核生物染色质的基本结构单位[-3],它由约146bpDNA缠绕组蛋白八聚体组成，其中组蛋白八聚体包含2个(H2A-H2B)二聚体和1个$( \\mathrm { H } 3 \\mathrm { - } \\mathrm { H } 4 ) _ { 2 }$ 四聚体．相邻的核小体之间由连接DNA(linkerDNA)及连接组蛋白H1相连．组蛋白H2A/H2B/H3/H4属于核心组蛋白，它们均具有典型的球状组蛋白折叠结构域(histonefold)，组成了核小体的核心部分．而它们N端和C端的柔性带电的尾巴则从核心区域伸出来，能够被各种修饰酶共价修饰．组蛋白翻译后修饰(post-translationalmodifications，PTMs)主要包括乙酰化、甲基化、磷酸化、泛素化、SUMO化和ADP 核糖基化修饰等．其中发生在赖氨酸侧链 $\\boldsymbol { \\varepsilon }$ 氨基上的组蛋白乙酰化修饰是最早被发现的组蛋白翻译后修饰之一[4,四膜虫GCN5和人源Rpd3是最早被鉴定的组蛋白乙酰化酶和去乙酰化酶．很早以来，人们就认识到组蛋白乙酰化修饰与染色质结构和基因转录调控密切相关[5-8．在松散的、转录活跃的常染色质区域，组蛋白尾巴呈高度乙酰化状态，而在紧凑的、非转录激活的异染色质区域，组蛋白尾巴的乙酰化程度则相对较低．组蛋白乙酰化修饰呈特异性的高度动态变化，它的调控是由组蛋白乙酰化转移酶(histoneacetyltransferase，HAT)[9-lo]和组蛋白去乙酰化酶(histone deacetylase，HDAC)共同实现的[11-12].",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1993年AlanWolffe研究组发现组蛋白N端尾巴的乙酰化修饰有利于转录因子与DNA的结合，从而促进基因转录[13]．Allis 等[14-15]在1996 年鉴定了第一个组蛋白乙酰转移酶．他们发现四膜虫HAT A(histone acetyltransferase type A)的 p55 亚基具有组蛋白乙酰化酶催化活性，并与酵母中转录调节因子 Gcn5p(general control nonrepressed) 同源,这一发现直接地将组蛋白乙酰化修饰与基因转录调控联系起来．HAT的催化活性利用乙酰辅酶A为乙酰基供体，将乙酰基转移到组蛋白赖氨酸侧链的ε氨基上．这一修饰中和了赖氨酸的正电荷，从而减弱了组蛋白N端尾巴与DNA磷酸骨架负电荷之间的相互作用，使染色质处于相对疏松的状态．这种状态有利于转录因子、RNA聚合酶及其他效应蛋白的接近，从而促进基因转录及各种染色质动态变化参与的生命过程[13.16].",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与之相对应的是去乙酰化酶HDAC的发现.1996 年Taunton 等[7发现了第一个组蛋白去乙酰化酶HD1 (histonedeacetylasecatalyticsubunit,HDAC1)，它与酵母中的转录调节因子Rpd3(reduced potassium dependency-3)序 列一致性达$60 \\%$ ，这一发现将组蛋白去乙酰化与基因沉默联系起来．随着其他HDAC蛋白的发现和研究不断深入，人们发现：一方面，HDAC能够介导组蛋白底物赖氨酸的去乙酰化，从而有利于染色质形成更为紧密的结构，并且某些HDAC能够与其他染色质调节蛋白相互作用形成共抑制复合物，从而调控基因表达、细胞周期及细胞分化等生命过程[8.18]；另一方面，部分HDAC还能够催化非组蛋白底物赖氨酸的去乙酰化，从而在更多的细胞调控通路中发挥着重要作用[19-23]．此外，研究发现HDAC 抑制小分子对于治疗癌症等疾病有着巨大潜力[24-26，而NAD依赖的去乙酰化酶Sir2蛋白则被报道能够延缓细胞衰老和延长生命周期[27-30]，从而激发起针对Sir2类去乙酰化酶的小分子激动剂的研究热情．以上种种使人们对组蛋白去乙酰化酶的作用机制及调控机制方面的研究一直保持着高度热情，推动了对组蛋白去乙酰化酶的不断探索和研究．本文主要综述人源组蛋白去乙酰化酶的分类依据、结构和功能特点、催化反应的分子机制以及在制药领域的应用.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 HDAC的分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前在人体中共发现了18种HDAC，根据进化分析和序列同源性分析，它们被分为4种类型(图1)[12.31l：第I类是与酵母中Rpd3蛋白序列同源性较高的 $\\mathrm { H D A C l } \\sim 3 , 8$ ，它们主要位于细胞核内，其中 HDAC3也存在于细胞质中；第Ⅱ类是与酵母中 Hdal(histone deacetylase-1)蛋白序列同源性较高的 $\\mathrm { H D A C 4 } { \\sim } 7 , 9 , 1 0$ ，它们能够应对不同的细胞信号应答而在细胞核和细胞质间穿梭，具有细胞和组织特异性；第Ⅲ类是与酵母中Sir2(silentinformation regulator2)蛋白同源的 sirtuin 蛋白家族，包括 $\\mathrm { { S I R T 1 } } \\sim 7$ ；第V类仅包含一个成员HDAC11，它的序列同源性介于Rpd3 和Hda1之间，主要位于细胞核内．第I、Ⅱ、Ⅳ类HDAC又可被归类为Rpd3/Had1去乙酰化酶家族[32]，它们均包含同源性较高的催化核心结构域，其催化活性依赖于锌离子的参与，可能的催化机制详见图 $2 \\mathbf { a } ^ { \\left[ 3 3 - 3 5 \\right] } .$ 它们在催化结构域之外的序列和结构则相对多变，提示了不同的生物学功能；第Ⅲ类HDAC是一类完全区别于其他HDAC的非典型的组蛋白去乙酰化酶家族， $\\mathrm { N A D ^ { + } }$ 依赖型 Sir2 超蛋白家族[36-38]．它们虽然也结合锌离子，并且锌离子对其去乙酰化酶活性是必需的，但是锌离子并不直接参与去乙酰化酶反应，其催化反应机制参见图 $2  { \\mathbf { b } } ^ { [ 3 9 - 4 1 ] }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第I类 细胞定位及酶活性HDAC1 1① 482 细胞核HDAC2 10 428 488 细胞核、细胞质 复物活性HDAC8 1 D377 细胞核 单独具去乙酰化酶活性第Ⅱ类  \nHDACs HDA4 1 D1084 细胞核、细胞质HDAC5 1C D1122 细胞核、细胞质 引入复合物后才HDAC7 1C D952 细胞核、细胞质 具去乙酰化酶活性HDAC9 1C 1011 细胞核、细胞质b型HDAC6 1 //1215主要位于细胞质HDAC101C 669 细胞核、细胞质单独具去乙酰化酶活性第Ⅳ类LHDAC111C D347 主要位于细胞核第Ⅲ类SIRT1 1 D747 细胞核、细胞质SIRT2 10 389 主要位于细胞质 强乙酰化酶活性  \nSirtuins SIRT4 19 314 399 线粒体 ADP 核糖转移酶活性 弱去SIRT5 1C 310 粒去基基基化酶活性SIRT6 1C D355LSIRT7 1C 400 细胞核 活性催化结构域 350个氨基酸//",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "催化结构域用红色标注．右侧文字标出每种HDAC 的细胞定位和酶活性．“/”代表约 350个氨基酸，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a)第I、II、V类HDAC的反应机制(b)第Ⅲ类HDAC的反应机制",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc16ff4e7b4f35158213bbdb72111f0ad1cb46b4ca454363d0ae86e127f33618.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5671cf1cb82cc9d4caf3a002dfc4ac2a6c1db5bf5025e57f7ff5fe6081a5558a.jpg",
+        "img_caption": [
+            "Fig.2Catalytic mechanisms of HDAC and Sirtuin图2HDAC催化反应的分子机制示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)以 HDAC8 为代表的第I、ⅡI、V类HDAC 的去乙酰化反应的分子机制示意图．(b)NAD依赖的 Sirtuin 家族去乙酰化反应的分子机制示意图.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2HDAC的结构与功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1第I类HDAC ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最早发现的第I类HDAC家族成员是出芽酵母中的Rpd3． $\\mathrm { H D A C l } \\sim 3 ,$ 8属于此类HDAC，它们的催化结构域均位于蛋白质N端，与酵母Rpd3的催化结构域享有 $4 0 \\% \\sim 7 0 \\%$ 的序列保守性[32．除催化结构域以外， $\\mathrm { H D A C l } \\sim 3$ 还拥有不同长度的C端延伸区域，可被磷酸化修饰，从而增强其去乙酰化酶活性，并且能够影响共抑制复合物的形成[42-43].不同于HDAC1，HDAC2仅存在于细胞核中，而",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HDAC3 不仅包含NLS(nuclear localization signal)区域，还包含有 NES(nuclear export-signal)区域，HDAC3在细胞核和细胞质之间的定位转换可能与细胞类型和细胞所处的环境条件有关[44．另外，${ \\mathrm { H D A C l } } \\sim 3$ 只有通过与其他蛋白相互作用形成多亚基共抑制复合体才能显现较强的去乙酰化酶活性：其中HDAC1和HDAC2相互结合，共同组成了多个共抑制复合体的催化核心，包括Sin3A复合体 [45-46]、 NuRD(nucleosome remodeling deacetylase)复合体[47]和 CoREST(corepressor of RE1-silencingtranscriptionfactor)复合体[48]；而HDAC3参与了共抑制复合 体 SMRT/NCoR(silencing mediator ofretinoic acid and thyroid hormone receptors/nuclearreceptorcorepressor)的形成[4449]．这些复合体能够激活 $\\mathrm { H D A C l } \\sim 3$ 的去乙酰化酶活性，通过与其他调节蛋白相互作用来介导特定位点的基因转录沉默.与 $\\mathrm { H D A C l } \\sim 3$ 不同的是，HDAC8除催化核心结构域外没有C端的延伸区域，并且HDAC8蛋白单独就有明显的组蛋白去乙酰化酶活性以及底物选择性，因此它可能相对独立地行使功能[23.50]．不过在体内HDAC8能够与一些蛋白结合，这种蛋白质之间的相互作用可能会影响其底物选择性和生物学功能[23]．对HDAC8酶活性的调节可通过其催化结构域N端第39位丝氨酸的磷酸化修饰来实现：该位点能够被蛋白激酶A磷酸化，从而使HDAC8的去乙酰化酶活性受到抑制，导致组蛋白H3和H4的高度乙酰化[51].",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一个被发现的去乙酰化酶的结构是一个细菌的同源复合物，它的结构提供了对于去乙酰化反应机理的重要认识34．第一个被解析的人源组蛋白去乙酰化酶的结构是HDAC8催化结构域的晶体结构[33.52，目前已解析了第I类HDAC家族中的$\\mathrm { H D A C l } \\sim 3$ 催化结构域的晶体结构[53-55]．第I类HDAC都包含一个保守的、约400个氨基酸残基的催化结构域，它们在整体结构上类似(图3a)：由8条平行的 $\\beta$ 折叠束组成的 $\\beta$ 折叠片构成结构域的核心部分，周围环绕13个以上的 $\\propto$ 螺旋，从 $\\beta$ 折叠的C端延伸出来长的loops组成了一个狭长的通道．通道处的保守性疏水残基提供了底物的结合位点，底物的乙酰化赖氨酸伸向通道底部的催化核心口袋，并与该处结合的锌离子相互作用(图3b)．锌离子与其周围的保守性组氨酸和天冬氨酸残基的侧链以及1个水分子相互作用，直接参与去乙酰化酶的催化过程(图2a，图3b)．除了底物结合位点和锌离子结合位点外，HDAC的催化结构域还拥有2个金属离子结合位点，可各结合有1个钾离子或钠离子．位点1位于锌离子结合位点附近，位点2位于催化结构域的外围，靠近 $\\beta$ 折叠束的N 端(图3a)．2个金属离子的结合可能有利于稳定酶的整体结构，位点1的金属离子还有可能帮助锌离子的结合，并对去乙酰化酶反应有一定作用[2].",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2582cbcf242e54e1589bbd92d598556fe1b4f0a40253ee2098e2713fd2b0f2e3.jpg",
+        "img_caption": [
+            "Fig.3Structures of the catalytic domains of class I HDAC图3第I类HDAC催化结构域的结构特点"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)HDAC8的催化结构域(蓝绿色)与 p53底物小肽(亮紫色)的复合物晶体结构(2V5W)．结构中结合有1个锌离子(浅灰色)和2个钾离子(紫色).(b)HDAC8(2V5W)催化活性口袋处底物小肽与锌离子及关键氨基酸(浅灰色)结合的细节图.(c)HDAC8 的催化结构域(2V5W，蓝绿色)与 HDAC3 的催化结构域(4A69，黄色)的结构比对图．与 HDAC3 结合的 SMRT-DAD 结构域粉色表示．它们之间的主要区别在于helix1和loop6的构象变化，从而使HDAC8的催化口袋相对于HDAC7更为开阔.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Schwabe课题组先后发表的文章，关于HDAC3 与 SMRT 复合 物中 DAD(deacetylaseactivationdomain)结构域的复合物晶体结构[54，及HDAC1 与 NuRD 复 合 物 中 MTA1(metastasis-associatedprotein1)蛋白的复合物晶体结构[5，展示了共抑制蛋白能够与HDAC催化结构域中靠近底物结合通道的一端相结合，并且能够显著促进HDAC的去乙酰化酶活性．另外，他们发现磷酸肌醇是一种在第I类HDAC共抑制复合物中保守存在的、能够有效促进HDAC酶活性的调节因子，并且只有共抑制蛋白及磷酸肌醇同时存在时，才能有效激活HDAC的酶活性：在HDAC3/DAD复合物结构中，一个磷酸肌醇 $\\mathrm { I n s } ( 1 , 4 , 5 , 6 ) \\mathrm { P } 4$ 分子结合在HDAC3的底物结合通道与DAD结构域之间，一方面帮助了二者的结合，另一方面 $\\mathrm { I n s } ( 1 , 4 , 5 , 6 )$ P4与底物结合通道处“扭曲”的类 $\\propto$ 螺旋 $\\mathrm { H } 1$ 、loopL1和loopL6相结合，这些结合都有可能改变底物结合通道的构象，从而有利于底物进入催化活性位点．而HDAC8并不需要与共抑制蛋白或辅助调节因子结合即拥有酶活性，与HDAC3的催化结构域相比(图3c)，HDAC8的 $\\propto$ 螺旋H1 是规律的、典型的 $\\propto$ 螺旋结构，loopL1比HDAC3 的L1短了2 个氨基酸残基，loopL6包含的1个脯氨酸使该loop 稍稍远离了催化活性位点，因此HDAC8拥有一个相对较为开阔的催化活性口袋，这可能能够使底物更容易接近其催化核心位点．并且以上不同之处在 $\\mathrm { H D A C l } \\sim 3$ 的晶体结构中均存在，使HDAC8成为一个区别于 $\\mathrm { H D A C l } \\sim 3$ 的更为独立的去乙酰化酶[54].",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 第Ⅱ类HDAC ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第Ⅱ类HDAC家族是出芽酵母Hda1蛋白的同源物[．第Ⅱ类HDAC又被划分为a型和b型两个亚型，其中HDAC4,5,7,9属于a型，而HDAC6及后来发现的HDAC10 属于b型[57-60l．除了位于蛋白C端的催化核心结构域，a型HDAC还拥有独特的、保守的N端延伸区域，其上包含多个结合位点：例如 MEF2(myogenic transcription factor 2)结合位点，可结合MEF2蛋白抑制肌肉细胞分化[61]； $2 { \\sim } 3$ 个磷酸化丝氨酸位点，可与14-3-3蛋白结合来调控酶的细胞定位[62-63]．此外，a型HDAC同时拥有一个位于N端的NLS区域和一个位于C端的NES区域，因此它们可以在细胞核和细胞质之间穿梭[6265]，例如HDAC4,5,7可应答特定的细胞信号，在不同分化时期的肌肉细胞中转入和转出细胞核来调控肌肉细胞分化[6667]．研究表明第Ⅱ类a 型HDAC单独存在时没有去乙酰化酶活性，已发现HDAC4,5,7在体内能够通过SMRT/NCoR共抑制复合体与HDAC3相互作用而激活其去乙酰化酶活性[8-69]．因此推测a型HDAC 可能更倾向于扮演一种“调节因子”的角色，通过其N端结合位点与转录因子等调节因子结合，进而通过其C端催化结构域将具有酶活性的SMRT/NCoR-HDAC3复合物定位到特定位点处，从而起到调控作用[].",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第Ⅱ类b型HDAC与a型HDAC除具有同源的催化结构域外，存在较多不同之处．HDAC6的N端包含有2个串联的、独立的催化结构域，均具有去乙酰化酶活性，C端包含1个ZnF-UBP(ubiquitin C-terminal hydrolase-like zinc finger)锌指结构域[57，能够与游离的泛素以及泛素化修饰的蛋白相结合[70-7I1．HDAC6 主要存在于细胞质中，拥有多种非组蛋白底物，例如HDAC6能够使 $\\alpha$ 微管蛋白去乙酰化，从而调节多种微管依赖性的细胞运动性[22]，而HDAC6催化的热休克蛋白 $\\mathrm { H s p 9 0 }$ 的去乙酰化状态，对其分子伴侣活性以及与其他相互作用蛋白，如与共伴侣蛋白 $\\mathsf { p } 2 3$ 、糖皮质激素受体GR 等的识别至关重要[72]．HDAC10 的保守催化结构域也存在于N端，C端区域虽与N端具有一定的序列相似性，但是不具有去乙酰化酶活性[58.73].HDAC10同样在细胞质中富集，其C端的亮氨酸富集结构域与其细胞质内的定位相关[．但是研究发现HDAC10也存在于细胞核内，催化组蛋白底物的去乙酰化并抑制转录．此外，与a型HDAC类似，HDAC10也可以与HDAC3相互作用，但是不同之处在于HDAC10 单独就具有去乙酰化酶活性[3].",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前只解析了第Ⅱ类HDAC中a型的HDAC4和 HDAC7催化域的晶体结构[74-75]．从整体结构上看，第Ⅱ类a型HDAC的催化结构域与第I类HDAC 的催化结构域大致相同(图 4a)，也是由一个$\\alpha / \\beta$ 结构域组成，几段loops形成底物结合通道及催化活性位点，在活性位点处结合有1个锌离子，除此之外也同样拥有2个钾/钠离子结合位点．不同之处在于，第Ⅱ类a型HDAC在催化中心外侧还包含有一个额外的、柔性构象的锌离子结合元件，由催化中心伸出的 $\\scriptstyle \\alpha 1 - \\alpha 2$ 螺旋之间的 loop 以及一个 $\\beta$ 发夹结构组成(图4a.b)．这个额外的锌离子结合元件是第Ⅱ类a型HDAC所特有，其中与锌离子结合的半胱氨酸和组氨酸残基在第Ⅱ类a型HDAC 中高度保守，如 HDAC7的 Cys533、Cys535、His541 和Cys618(图4a,b)．该锌离子结合元件在底物结合通道口附近形成了一个独特的疏水口袋，可能与底物识别、酶活性调节以及与其他蛋白质相互作用有关．另一个关键的不同之处在于，在催化活性中心靠近第一个锌离子结合位点处，第I类HDAC和第Ⅱ类b型HDAC拥有一个保守的酪氨酸残基，如 HDAC8 的 Tyr306(图 4b,c),它的侧链羟基能够与催化反应的氧化中间物相互作用并稳定这种催化过渡状态，而在第Ⅱ类a型HDAC中取而代之的是一个保守的组氨酸残基，如HDAC7的His843(图4b,c)，它的侧链向外翻转而远离了催化活性位点，因此不能有效地参与到去乙酰化酶反应中．研究表明H843Y突变的HDAC7则具有较强的去乙酰化酶催化活性，这说明第Ⅱ类a 型HDAC所特有的组氨酸残基可能是此类HDAC丧失酶活性的原因之一.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea85d392d10e68236c3357fd883ea6cedb5be65840034c0331b61fc3f83c820b.jpg",
+        "img_caption": [
+            "ig.4Structures of the catalytic domains of class I HDAC and its comparison with ClassI HDA( ",
+            "图4第Ⅱ类HDAC催化结构域的结构特点及与第I类结构的比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)HDAC7(3COY，粉色)与 HDAC8(IT69，银色)催化结构域的结构比对图．第I类a型 HDAC 的催化结构域与第I类HDAC 相比拥有1个额外的锌离子结合位点(浅绿色)．结合第二个锌离子的氨基酸残基显示为亮蓝色．(b)第Ⅱ类a型 HDAC额外的锌离子结合元件(浅绿色)，关键氨基酸残基亮蓝色表示．在催化活性位点处，HDAC8 的关键酪氨酸残基Y306(黄色)与底物和锌离子(深灰色)相对靠近，而与之相对应的HDAC7的组氨酸残基H843 则远离了活性中心.(c)第I、Ⅱ、V类HDAC催化中心的同源序列比对图．第Ⅱ类a型 HDAC特有的组氨酸残基和其他HDAC 相应位置的酪氨酸残基用星号标注.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前对于第I类HDAC催化域之外的调节结构域也有一些研究[76-77]．在HDAC9 的N端MEF2结合区域与MEF2蛋白及DNA的复合物晶体结构中，HDAC9的MEF2结合元件与MEF2蛋白二聚体的一侧相结合，同时MEF2二聚体的另一侧与DNA相结合．在HDAC6的C端ZnF-UBP结构域与泛素C端区域的复合物晶体结构中，ZnF-UBP结构域能够与泛素C端的甘氨酸残基相结合，从而影响泛素化蛋白聚集体的形成和转运．这些催化域以外的重要区域的结构生物学研究对设计和开发特异性的、针对不同HDAC的药物制剂等具有重要意义.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 第Ⅲ类HDAC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第Ⅲ类HDAC是以酵母Sir2蛋白为代表的Sirtuin蛋白家族．完全不同于上述锌离子依赖型的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HDAC，它们是一类 $\\mathrm { N A D ^ { + } }$ 依赖型的去乙酰化酶，催化组蛋白底物和非组蛋白底物的去乙酰化反应[36-37.78.Sirtuin蛋白从原核生物到真核生物都高度保守，在人体中共有7个家族成员， $\\mathrm { S I R T 1 } \\sim 7$ (图1)．人源Sirtuin蛋白除具有一个由约275个氨基酸残基组成的、高度保守的催化核心结构域外，有的Sirtuin蛋白还具有独特的N端和C端延伸区域，这些延伸区域在长度、序列及二级结构上均不相同，已发现这些区域具有参与细胞定位、与其他蛋白相互作用、调节自身酶活性及调节蛋白寡聚状态等多种功能[37-38.79-80]．人源 Sirtuin 蛋白在细胞定位和底物特异性方面各不相同[37-38.81-8：SIRT1,6,7主要位于细胞核内，能够影响染色质稳定性及基因转录.SIRT1也存在于细胞质中并参与细胞质中一些重要通路的调节[82．最近发现，SIRT6也存在于内质网中，参与调节肿瘤坏死因子TNF $\\mathbf { \\alpha } _ { \\cdot \\propto }$ 的分泌[86];SIRT2主要位于细胞质，催化微管蛋白等胞质蛋白的去乙酰化反应，但在有丝分裂期也可在细胞核中富集[81,83]； $\\operatorname { S I R T } 3 \\sim 5$ 位于线粒体，能够调节多种线粒体能量代谢通路和压力应答[84]． $\\mathrm { S I R T } 1 \\sim 3$ 具有很强的去乙酰化酶活性，而 $\\mathrm { S I R T } 4 \\sim 7$ 则只能检测到很弱的去乙酰化酶活性，后经研究发现，SIRT5还具有去琥珀酰基化和去丙二酰基化酶活性，而",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SIRT4和SIRT6还具有ADP核糖转移酶活性，SIRT6还具有较强的去长链脂肪酰基化酶活性[37.85-8",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前人源Sirtuin 蛋白中的SIRT1,2,3,5,6的催化核心结构域的晶体结构均已被解析，由于催化活性区域在进化和序列上的保守性，它们在整体结构上也基本一致(图5a)[79.85-91l．催化结构域整体呈椭圆形，由一大一小两个亚结构域组成：相对保守的大结构域包含一个典型的Rossmann-fold结构",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/42807118fe29e00f3ecfb9d39b1ef06b8612b096bdaf420dcaed3d2566b1b432.jpg",
+        "img_caption": [
+            "Fig.5Structures of Sirtuin family deacetylases and the regulation of SIRT1 activity by resveratrol ",
+            "图5Sirtuin家族去乙酰化酶的结构特点及酶活性调节机制"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)SIRT1催化结构域的晶体结构图．底物p53小肽(黄色)以及NAD(绿色)由与4KXQ结构比对模拟生成.(b)SIRT1催化结构域中大小亚基两种不同构象的比较．打开的“非激活”构象结构(4IG9，灰色)，结合产物 ADP核糖(绿色)的闭合“激活”构象结构(4KXQ，亮紫色).(c)SIRT1全酶与底物和激活剂复合体的晶体结构(5BTR，SIRT1NTD绿色，CATD亮蓝色，CTR亮紫色，p53 小肽黄色，白藜芦醇洋红色)，以及与 $\\mathrm { S i r } 2 / \\mathrm { S i r } 4 ^ { \\mathrm { S I D } }$ 复合物晶体结构(4IAO，浅灰色)的比对图，其中 $\\mathrm { S i r 4 ^ { \\mathrm { s m } } }$ 的结合位置用桔色阴影示意．(d)SIRT1的催化位点处底物小肽与其周围关键氨基酸残基的结合细节示意图．(e)激活剂白藜芦醇与 SIRT1及底物的相会作用.3个白藜芦醇小分子一方面与 SIRT1的NTD 和CATD 相结合，另一方面与p53底物小肽的AMC 荧光环相结合.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "域，由中心的包含6个 $\\beta$ -strands的 $\\beta$ 片层和两侧的几个 $\\propto$ 螺旋组成，提供了能够容纳和结合NAD+的口袋；相对多变的小结构域是由大结构域中伸出的两个模块组成的，其中包括一个保守的锌离子结合元件，以及一个相对可变性较高的 $\\propto$ 螺旋区域．锌指结构域由3个反向平行的 $\\beta$ -strands及1个 $\\propto$ 螺旋组成，锌离子与保守序列 $\\mathrm { C y s X } _ { 2 4 } .$ （204号$\\mathrm { C y s X _ { 1 5 - 4 0 }  – C y s X _ { 2 - 4 } – C y s }$ 中的两对半胱氨酸残基结合，呈四面体构型．在SIRT1蛋白结构中，锌离子距离催化活性中心较远，并没有直接参与催化反应(图5a)．但是研究表明锌离子的结合对于酶的催化活性是必需的，因此推测锌离子可能帮助稳定了小结构域的构象[79.92]．连接大小结构域的4个 loops区域在整个Sirtuin家族中是高度保守的，构成了底物结合口袋和催化活性中心．其中最大的 loop、$\\left. \\beta \\right. - \\alpha 2$ loop，又称为辅助因子结合loop，提供了部分 $\\mathrm { N A D ^ { + } }$ 结合位点，被发现在结构上具有高度动态性，对催化反应起着重要作用.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "底物小肽结合在两个亚结构域之间的交界面处，乙酰化赖氨酸的侧链插入到结合口袋深处的疏水性通道中，与周围高度保守的氨基酸残基(如SIRT1的 Arg274、 Phe297、 His363、 Val412、Phe414)相互作用，而底物小肽的N端和C端摆在结合口袋的外侧(图5c,d,e)，与酶之间的相互作用相对有限，这可能是Sirtuin蛋白底物特异性不高的原因之一[79.93]．两个亚结构域的相对位置是随着底物的结合而改变的：当没有底物结合时，催化结构域呈打开的“非激活”构象，两个亚结构域之间的凹槽较为开阔，使底物的结合位点较为暴露，方便底物的进入和结合；当有底物结合时，催化结构域呈相对闭合的“激活”构象，小结构域更为靠近大结构域，使二者之间的结合通道闭合形成乙酰化赖氨酸结合所必需的疏水性口袋(图5b)88,93-94].",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除催化结构域以外，有些Sirtuin蛋白(例如Sir2、HST1和SIRT1)还拥有额外的N端和/或C端调节区域[95-9]．研究发现，这些调节区域的存在能够使 SIRT1的酶活性显著增强[80.97-98]，另外这些区域还可以为其他蛋白质提供结合位点，通过蛋白之间的相互作用来调控自身酶活性[95.99]．已解析的Sir2与 Sir4-SID(Sir2 interaction domain)结构域的复合物晶体结构中(图5c)[95]，Sir2的N端结构域由5个 $\\propto$ 螺旋组成，垂直位于Sir2催化结构域的外侧，Sir4与Sir2的N端结构域相结合，通过一条很长的loop 调节 Sir2的N端结构域和催化结构域之间的相对空间位置，从而促进Sir2的去乙酰化酶活性．我们最新解析的SIRT1全酶和白藜芦醇以及底物p53小肽的三元复合物结构中(图5c,e)，SIRT1的N端结构域(NTD)由3个 $\\propto$ 螺旋组成，位于催化结构域(CATD)底物结合口袋的外侧，3个白藜芦醇分子和底物小肽夹在了NTD和CATD 之间．另一个SIRT1全酶与激动剂的复合物结构中，激动剂与SIRT1的NTD相结合，但NTD摆向了CATD的外侧而远离了催化活性口袋，可见SIRT1的 NTD 相对于CATD存在较大的柔性变化[0]．通过比较 $\\mathrm { S i r } 2 { \\cdot } \\mathrm { S i r } 4 ^ { \\mathrm { { s m } } }$ 和 SIRT1的结构可见，SIRT1和Sir2 的NTD均通过一个柔性的loop 与催化结构域相连，这使NTD在空间上有很大的可变性，因此可以受其他蛋白质或小分子的调节，通过变构效应来调节酶的催化活性．另外，Sir2和SIRT1均包含C 端的调节结构域(CTR)，CTR呈 $\\beta$ 发夹结构，结合在催化结构域的底部(图5c)，对酶的催化活性也十分重要.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 第IV类HDAC ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第IV类HDAC仅包含一个成员HDAC11[101],它与第I类和第Ⅱ类HDAC的同源程度均较低.HDAC11是目前已发现的HDAC中最短的蛋白，几乎仅包含核心的催化结构域，单独即具有去乙酰化酶活性．最初发现HDAC11主要存在于细胞核中，后来有研究发现HDAC11也能够存在于细胞质中．HDAC11的表达具有组织特异性，在肾脏、心脏、脑部、骨骼肌、睾丸等组织细胞中具有较高表达水平．研究发现HDAC11不与上述包含HDAC的复合体相互作用，但是在体内它能够与HDAC6形成复合物．另外，HDAC11可与SMN(survivalofmotorneurons)复合物的多个成员相结合，从而参与调节mRNA剪接[2]．目前对HDAC11的功能、作用机制和结构生物学方面的研究较少，还需进一步的深入探究.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 HDAC的应用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 HDAC抑制剂",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究发现，HADCs在多种肿瘤细胞中异常表达[24,103]，例如HDAC1在前列腺癌[104]、胃癌[105]、结肠癌[10和乳腺癌[07细胞中过表达，HDAC2在结肠直肠癌[106]、宫颈癌[08]和胃癌[9]细胞中过表达．通过HDAC抑制剂或siRNA干扰来抑制特定肿瘤细胞中过表达的HDAC可以抑制肿瘤细胞的增殖[108 110]此外，虽然在某些肿瘤发生过程中HDAC的表达没有直接改变，但是HDAC能够与染色体易位导致的致癌性融合蛋白相互作用，被引入到特定位点的启动子区域，抑制目的基因表达从而引发癌症.例如在急性早幼粒细胞性白血病(pro-myelocyticleukemia,PML)中，PML 基因或PLZF(promyelocyticleukaemiazincfinger)基因与维甲酸受体 $\\propto$ (retinoicacid receptor $\\alpha$ ，RAR $\\alpha$ 基因融合形成的融合蛋白，能够通过招募HDAC抑制相关靶基因的转录，从而影响早幼粒细胞分化和造血功能，维甲酸能够治疗PML-RAR $\\propto$ 融合蛋白引发的白血病，而联合使用维甲酸和HDAC抑制剂则能够治疗PLZF-RAR $\\alpha$ 融合蛋白引发的白血病[1II-112].",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对经典的组蛋白去乙酰化酶Rpd3/Hda1蛋白家族抑制剂的研究已较为广泛和深入[24-26,103,113-114].从目前已解析的HDAC与其抑制剂或底物小肽的复合物晶体结构可见(图6)，常见的HDAC抑制剂的药效基团一般都拥有3个基本区域：a．锌离子结合区域，可与活性位点处的锌离子结合；b．连接区域，能够占据底物结合位点处通向活性位点的管状通道；c．“帽状”表面识别区域，能够与管状通道的外表面相互作用．根据它们化学结构的不同，大致可分为异羟肟酸类、短链脂肪酸类、苯甲酰胺类、环状四肽类、亲电酮类和其他类等6种.它们能够通过多种途径杀伤肿瘤细胞[25-26,103.114]，例如能够上调促凋亡蛋白、下调抗凋亡蛋白、激活死亡受体通路、导致细胞周期停滞、引起氧化应激损伤、影响蛋白酶体系统、诱发DNA损伤及抑制DNA修复等等．这些HDAC抑制剂具有其自身的优势，它们能够在一定条件和浓度下选择性地介导肿瘤细胞损伤和凋亡，而对正常细胞产生毒性和损伤则较小(I15-I17]，这可能是因为正常细胞能够逃逸或修复HDAC 抑制剂诱发的细胞损伤[18-120]；HDAC抑制剂的这种肿瘤细胞选择性的作用机制虽然还不完全明确，但是这种选择性对于其作为有效的抗肿瘤药物试剂十分重要.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前已发现多种抑制剂能够在微摩尔或纳摩尔水平上有效抑制HDAC的酶活性，并且已经进入临床试验阶段[103]．其中异羟酸类的伏立诺他(vorinostat，SAHA)是第一个被美国食品药品管理局(FDA)批准上市的HDAC抑制剂药物，用于治疗皮肤T细胞淋巴瘤[；环状四肽类的罗米地辛(romidepsin，FK228)于2009年和 2011年先后被FDA批准用于治疗皮肤T细胞淋巴瘤和外周T细胞淋巴瘤[122-123]；2014年异羟肟酸类的贝利司他(belinostat，PXD101)被FDA批准用于治疗外周T细胞淋巴瘤[124]．但是这些进入临床阶段的抑制剂大多都是针对第I类、第Ⅱ类和第V类HDAC的广谱HDAC抑制剂（如异羟肟酸类的TSA、SAHA)，部分是针对第I类HDAC和第Ⅱ类a型HDAC(如短链脂肪酸类的butyrate)或只针对第I类HDAC(如苯甲酰胺类的entinostat)的亚型抑制剂，只有少部分是针对某种HDAC蛋白的选择性抑制剂(如针对HDAC6的异羟酸类抑制剂tubacin)，而非特异性的HDAC抑制剂可能会在临床治疗中引发毒性副作用，因此进一步了解HDAC及其抑制剂的作用途径和作用机制，从而针对不同病症开发更具选择特异性的HDAC抑制剂十分必要[125].2015年初中国深圳微芯生物科技公司自主研发的抗癌药物西达本胺被国家食品药品监督管理总局(CFDA)批准用于治疗外周T细胞淋巴瘤，这是全球首个获准上市的具有亚型选择性(针对HDAC1 $\\sim$ 3和HDAC10)的新型HDAC抑制剂药物，对整个HDAC抑制剂药物开发领域具有重要意义.",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6940e0c1800b6edea442c2ef68e43f349838c417e222deb0fc1a9ddb82ccf4de.jpg",
+        "img_caption": [
+            "Fig.6Characteristic ofHDAC inhibitors and structural mechanism of their inhibitionof enzyme activities 图6HDAC 抑制剂抑制HDAC酶活性的结构机理 (a)HDAC抑制剂SAHA的分子式及药效基团区域．(b)HDAC8催 化结构域与底物小肽(2V5W)和抑制剂SAHA(1T69)复合物的结构比 对图. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上述HDAC抑制剂对于第Ⅲ类去乙酰化酶Sirtuin家族无效，因为前文已经介绍过Sirtuin家族是一类 $\\mathrm { N A D ^ { + } }$ 依赖型的去乙酰化酶，其结构及作用机制与其他3种典型的HDAC完全不同．由于",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sirtuin蛋白的底物和功能的多样性，它们在癌症等相关疾病中的作用非常复杂，已发现恶性肿瘤中存在Sirtuin蛋白的去乙酰化酶活性或表达水平上调的现象[126-128]：例如 SIRT1在白血病、成胶质细胞瘤、前列腺癌和皮肤癌等癌症细胞中存在过表达现象[26]，它能够抑制 p53、p73、HIC1等肿瘤抑制因子的活性，其过表达会导致肿瘤细胞的增殖和生存[20.129-130]，并且可提高肿瘤化疗的抗药性[131]；发现SIRT2和SIRT7的表达水平在宫颈癌中有明显提高．另外，已发现SIRT7能够通过选择性地介导H3K18Ac的去乙酰化来抑制基因转录，在肿瘤细胞转化方面具有重要作用[127,132]．因此Sirtuin抑制剂的研发对于肿瘤治疗具有重要意义[133-136]．目前对 Sirtuin蛋白抑制剂的研究相对较少，大部分抑制剂是针对 SIRT1和 SIRT2 的去乙酰化酶活性抑制，也有少量抑制剂能够抑制 SIRT3 和 SIRT5 的酶活性[127-28.137-138]．总体来说 Sirtuin 抑制剂包括烟酰胺、sirtinol、splitomicin及其衍生物、cambinol、indoles、 AGK2、 suramin、 tenovins、 salermide 等等，它们大多能够在微摩尔水平上抑制Sirtuin蛋白的酶活性．这些抑制剂的抑制机制各不相同[137-139]．烟酰胺是内源性的非特异性的 Sirtuin 抑制剂，一方面它可以占据催化核心区域的C位点，从而阻止NAD+的结合，另一方面它可以与氧代烷基中间物通过可逆反应重新形成NAD+从而抑制酶活性[139]；而cambinol能够竞争性地抑制底物小肽的结合[40]；suramin 则通过结合在烟酰胺结合口袋和底物结合口袋之间来抑制酶反应．研发更加有效、特异、细胞毒性更小的抑制剂，并将之应用于Sirtuin蛋白引起的相关疾病治疗中，是后续要解决的问题.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2 HDAC激动剂",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前开发和设计的HDAC激动剂主要是针对Sirtuin蛋白家族．研究发现Sir2及其同源蛋白能够延长酵母细胞[27、秀丽线虫[28]和果蝇[3的寿命，能量限制能够通过诱发SIRT1表达量增加来延缓细胞衰老和延长生命周期[141．Sirtuin蛋白在部分癌症中能够抑制肿瘤的发生和增长[142-143]．另外，在人体中SIRT1还与情绪调节相关：研究发现，在情绪抑郁状态下，重度抑郁症患者的白细胞中SIRT1的mRNA水平明显下降，而在情绪缓解状态下，他们的白细胞中SIRT1的mRNA水平趋于正常[44]；最新报道称，通过对5303位中国女性重症抑郁症患者进行全基因组测序，发现了2个与重度抑郁症相关的基因突变位点，其中一个即位于SIRT1基因附近．因此有关Sirtuin激动剂的研究对于延年益寿、情绪调节等疾病治疗具有重要意义，引起了人们极大的兴趣和广泛的关注.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前报道的Sirtuin 激动剂主要是SIRT1特异性的激活小分子，其中最先被发现的是以白藜芦醇为代表的 STACs(SIRT1-activating compounds)，它们能够显著地、特异地提高SIRT1对其底物小肽亲和力，并有效促进SIRT1的去乙酰化酶活性[145].研究发现，在酵母、线虫和果蝇等低等模式生物中，白藜芦醇能够通过模拟能量限制来延长它们的生命周期，并且这种延长寿命的作用依赖于Sir2或其同源物的存在[4，而在脊椎动物中，白藜芦醇能够延长非洲齿鲤以及蜜蜂的生命周期[147-148],并且能够提高高热量饮食条件下小鼠的存活率[149],然而目前还不清楚这种促进作用是否依赖于SIRT1．随后Sirtris公司开发了几种新的SIRT1激动剂(SRT2183，SRT1460 和 SRT1720)，它们与白藜芦醇拥有不同的结构，并具有更强的 SIRT1 激活能力，还能够增强胰岛素敏感度和维持血糖稳态[150]．然而，上述激动剂很快受到了质疑，多个课题组报道发现在体外实验中这些激动剂的激活效果依赖于酶反应试剂盒中底物小肽上的荧光基团标记，而对没有荧光标记的天然小肽，及p53、AceCS1和 $\\mathsf { P G C - l } \\alpha$ 等全长蛋白没有激活效果[151-154].但是同时也有部分文献报道称这些激动剂可以促进SIRT1对某些天然底物小肽的去乙酰化酶活性[55-157],例如对于催化位点C端 $+ 1$ 位和 $^ { + 6 }$ 位是芳香族氨基酸残基的天然底物，如 $\\mathsf { P G C - l } \\alpha$ 和 FOXO-3a,STACs仍具有激活作用，因为这些芳香族残基的侧链可以模拟荧光基团的作用[15]．我们最新解析的 SIRT1全酶和白藜芦醇以及荧光修饰的p53 小肽的三元复合物结构中(图5c,e)%，3个白藜芦醇小分子结合在底物结合口袋附近，一方面与SIRT1-NTD的3个氨基酸残基相结合，另一方面与p53小肽的荧光基团相互作用，通过变构效应调节 SIRT1-NTD与CATD之间的位置，进而提高酶与底物之间的亲和力，从而促进SIRT1的酶活性．然而我们的研究结果表明对于没有荧光修饰的天然小肽，白藜芦醇不能促进 SIRT1的酶活性.综上所述，目前对已知的SIRT1激动剂研究引发了较大争议，如何找到更加行之有效的激活小分子是目前面临的挑战.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HDAC在染色质重构、基因表达调控、细胞代谢、癌症以及衰老等多种生命过程中发挥着重要作用．目前人们已经针对HDAC的功能、活性调控以及结构指导下的药物设计展开了广泛的研究，并取得了一定的成果．然而在这个领域仍然存在很多需要解答的问题．HDAC在恶性肿瘤等相关疾病中的作用使人们对HDAC抑制剂的开发保持着高度的热情，目前已开发的HDAC抑制剂具有高效性和低细胞毒性等特点，已有多种抑制剂开始了临床试验阶段，并且已经有三种HDAC抑制剂类药物被FDA批准用于治疗不同类型的淋巴瘤．然而目前的HDAC抑制剂大部分是广谱抑制剂，因此开发更为有效的、具有细胞选择性以及HDAC亚型特异性的抑制剂是面临的挑战之一．Sirtuin 蛋白在提高细胞生存能力以及延缓细胞衰老等方面的功能显示了对Sirtuin激动剂研究的重要性，然而目前已开发的Sirtuin激动剂存在较大的争议，因此如何建立完善、正确的检测体系，开发和设计真正有效的激动剂是目前需要解决的问题．另外，由于Sirtuin蛋白的底物多样性，它们参与了体内多种生命过程的调节，目前对于Sirtuin蛋白在恶性肿瘤中扮演的角色仍然存在矛盾和模糊的地方．因此研究各类Sirtuin蛋白的结构及功能信息对于开发真正有效的、细胞毒性小、高选择性的Sirtuin 激动剂或抑制剂具有重要意义．总之，HDAC在对抗癌症、延缓衰老以及情绪调节等方面的巨大潜力已成为推动该领域的进一步研究和探索的动力，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Kornberg R D.Structure of chromatin．Annual Review of Biochemistry,1977,46: 931-954   \n[2]Luger K,MaderAW,Richmond RK,et al.Crystal structure of the nucleosome core particle at 2.8 angstrom resolution.Nature,1997, 389(6648): 251-260   \n[3]Kornberg RD,Lorch YL.Twenty-five years of the nucleosome, fundamental particle of the eukaryote chromosome.Cell,1999, 98(3):285-294   \n[4]Allfrey VG,FaulknerR,Mirsky AE.Acetylation and methylation of histones and their possible role in regulation of RNA synthesis. Proc Natl Acad Sci USA,1964,51(5): 786-794   \n[5]Struhl K.Histone acetylation and transcriptional regulatory mechanisms.Genes& Development,1998,12(5):599-606   \n[6] Grunstein M. Histone acetylation in chromatin structure and transcription.Nature,1997,389(6649): 349-352   \n[7]Choudhary C, Kumar C,Gnad F,et al.Lysine acetylation targets protein complexes and Co-regulates major cellular functions. Science,2009,325(5942): 834-840   \n[8]Wade PA.Transcriptional control at regulatory checkpoints by histone deacetylases: molecular connections between cancer and chromatin.Human Molecular Genetics,2001,10(7):693-698   \n[9]Roth S Y, Denu JM, Allis C D. Histone acetyltransferases.Annual Review of Biochemistry,2001,70: 81-120   \n[10] Marmorstein R,Roth S Y.Histone acetyltransferases: function, structure,and catalysis.Current Opinion inGenetics& Development, 2001,11(2): 155-161   \n[11] Gray S G,Ekstrom T J.The human histone deacetylase family. Experimental Cell Research,2001,262(2): 75-83   \n[12]DeRuijterAJM,Van GennipAH,Caron HN,et al.Histone deacetylases (HDACs): characterization of the classcal HDAC family.Biochemical Journal,2003,370(3): 737-749   \n[13] Lee D Y,Hayes JJ,Pruss D,et al.A positive role for histone acetylation in transcription factor access to nuceosomal DNA. Cell, 1993, 72(1): 73-84   \n[14] Brownell JE,Allis C D.An activity gel assay detects a single cataytically active histone acetyltransferase subunit in tetrahymena mactonuclei. Proc Natl Acad Sci USA,1995,92(14): 6364- 6368   \n[15] BrownellJE,Zhou JX,Ranalli T,et al. Tetrahymena histone acetyltransferase A:A homolog to yeast Gcn5p linking histone acetylation to gene activation. Cell,1996,84(6): 843-851   \n[16] Shogren-Knaak M,Ishii H,Sun JM,et al.Histone H4-K16 acetylation controls chromatin structure and protein interactions. Science,2006,311(5762): 844-847   \n[17] Taunton J,Hassg C A,Schreiber SL.A mammalian histone deacetylase related to the yeast transcriptional regulator Rpd3p. Science,1996,272(5260): 408-411   \n[18] Cress W D, Seto E. Histone deacetylases,transcriptional control, and cancer. Journal of Cellular Physiology,2000,184(1):1-16   \n[19] Juan L J,Shia W J,M.H.Chen,et al.Histone deacetylases specifically down-regulate p53-dependent gene activation. Journal of Biological Chemistry,2000,275(27): 20436-20443   \n[20] Vaziri H,Dessain SK,Eagon EN,et al.hSIR2(SIRT1) functions as an NAD-dependent p53 deacetylase.Cell, 2001,107(2): 149-159   \n[21] Brunet A,Sweeney L B,Sturgill JF,et al. Stress-dependent regulation of FOXO transcription factors by the SIRT1 deacetylase. Science,2004,303(5666): 2011-2015   \n[22] Hubbert C,Guardiola A,Shao R,et al.HDAC6 is a microtubuleassociated deacetylase.Nature,2002,417(6887): 455-458   \n[23] Wolfson NA,Pitcairn C,Fierke C A.HDAC8 substrates:Histones and beyond. Biopolymers,2013,99(2): 112-126   \n[24]Bolden JE,Peart MJ,Johnstone R W.Anticancer activities of histone deacetylase inhibitors.Nature Reviews Drug Discovery, 2006,5(9): 769-784   \n[25] Minucci S,Pelicci P G.Histone deacetylase inhibitors and the promise of epigenetic (and more） treatments for cancer. Nature Reviews Cancer,2006,6(1): 38-51   \n[26] Dickinson M, Johnstone R W,Prince H M.Histone deacetylase inhibitors: potential targets responsible for their anti-cancer ffect. Investigational New Drugs,2010,28(Suppl 1): S3-S20   \n[27] Lin S J, Defossez P A, Guarente L. Requirement of NAD and SIR2 for life-span extension by calorie restriction in Saccharomyces cerevisiae.Science,2000,289(5487): 2126-2128   \n[28] Tissenbaum H A,Guarente L. Increased dosage of a sir-2 gene extendslifespan in Caenorhabditiselegans.Nature， 2001, 410(6825): 227-230   \n[29] Luo JY,Nikolaev AY,Imai S,et al.Negative control of p53 by Sir2 alpha promotes cell survival under stress. Cell,20o1,107(2): 137-148   \n[30] Rogina B,Helfand SL. Sir2 mediates longevity in the fly through a pathway related to calorie restriction.Proc Natl Acad Sci USA, 2004,101(45): 15998-16003   \n[31] Gregoretti IV,Lee Y M, Goodson H V. Molecular evolution of the histone deacetylase family: Functional implications of phylogenetic analysis.Journal of Molecular Biology,2004,338(1): 17-31   \n[32] Yang XJ,Seto E.The Rpd3/Hdal family of lysine deacetylases: from bacteria and yeast to mice and men.Nature Reviews Molecular Cell Biology,2008,9(3): 206-218   \n[33] Somoza JR, Skene R J,Katz B A,et al.Structural snapshots of human HDAC8 provide insights into the classI histone deacetylases.Structure,2004,12(7): 1325-1334   \n[34] Finnin MS,Donigian JR,Cohen A,et al.Structuresof ahistone deacetylase homologue bound to the TSA and SAHA inhibitors. Nature,1999,401(6749): 188-193   \n[35] Wu R B,Wang S L, Zhou N J,et al. A proton-shuttle reaction mechanism for histone deacetylase 8 and the catalytic role of metal Ions.Journal of the American Chemical Society,2010,132(27): 9471-9479   \n[36] Blander G,Guarente L.The Sir2 family of protein deacetylases. Annual Review of Biochemistry,2004,73: 417-435   \n[37]Michan S,Sinclair D. Sirtuins in mammals: insights into their biological function.Biochemical Journal,20o7,404(1):1-13   \n[38] Haigis MC,Sinclair DA.Mammalian sirtuins: biological insights and disease relevance,in Annual Review of Pathology-Mechanisms of Disease.2010,Annual Reviews: Palo Alto,5: 253-295   \n[39] Feldman JL,Dittenhafer-Reed KE,Denu JM. Sirtuin catalysis and regulation. Journal of Biological Chemistry,2012,287(51): 42419- 42427   \n[40] Landry J,Slama JT,Sternglanz R.Role of NAD $( + )$ in the deacetylase activity of the SIR2-like proteins.Biochemical and Biophysical Research Communications,20oo,278(3): 685-690   \n[41]Sauve A A. Sirtuin chemical mechanisms.Biochimica Et Biophysica Acta-Proteins and Proteomics,2010,1804(8):1591- 1603   \n[42] Pflum M KH, Tong JK,Lane W S,et al.Histone deacetylase I phosphorylation promotesenzymaticactivityand complex formation. Journal of Biological Chemistry,2001,276(50): 47733- 47741   \n[43] Sengupta N,Seto E.Regulation of histone deacetylase activities. Journal of Celular Biochemistry,2004,93(1):57-67   \n[44] Yang W M,Tsai S C,Wen Y D,et al.Functional domains of histone deacetylase-3.Journal of Biological Chemistry，2002, 277(11): 9447-9454   \n[45] Hassig CA,Fleischer T C,Billin A N,et al. Histone deacetylase activity is required for full transcriptional repression by mSin3A. Cell, 1997,89(3): 341-347   \n[46] Laherty C D,Yang W M, Sun JM,et al.Histone deacetylases associated with the mSin3 corepressor mediate Mad transcriptional repression. Cell,1997,89(3): 349-356   \n[47] Zhang Y,Ng HH, Erdjument-Bromage H,et al.Analysis of the NuRD subunits reveals a histone deacetylase core complex and a connection with DNA methylation. Genes & Development,1999, 13(15): 1924-1935   \n[48]Humphrey GW,WangYH,RussanovaVR,et al.Stable histone deacetylase complexes distinguished by the presence of SANT domain proteins CoREST/kiaaOO71 and Mta-L1．Journal of Biological Chemistry,2001,276(9): 6817-6824   \n[49] Guenther MG,Lane W S,Fischle W,et al.A core SMRT corepressor complex containing HDAC3 and TBL1,a WD40-repeat protein linked to deafness. Genes & Development,200,14(9): 1048-1057   \n[50] Hu E,Chen ZX,Fredrickson T,et al.Cloning and characterization of a novel human.Class I histone deacetylase that functions as a transcription repressor. Journal of Biological Chemistry，2000, 275(20): 15254-15264   \n[51] Lee H,Rezai-Zadeh N,Seto E.Negative regulationof histone deacetylase 8 activity by cyclic AMP-dependent protein kinase A. Molecular and Cellular Biology,2004,24(2): 765-773   \n[52] Vannini A,Volpari C,Filocamo G,et al.Crystal structure of a eukaryotic zinc-dependent histone deacetylase,human HDAC8, complexed with a hydroxamic acid inhibitor. Proc Natl Acad Sci USA,2004,101(42): 15064-15069   \n[53] Bress JC,Jennings AJ, Skene R,et al.Exploration of the HDAC2 foot pocket: Synthesis and SAR of substituted N-(2-aminophenyl) benzamides.Bioorganic & Medicinal Chemistry Letters,2010, 20(10): 3142-3145   \n[54] Watson PJ,Fairall L, Santos G M,et al. Structure of HDAC3 bound to co-repressor and inositol tetraphosphate.Nature,2012, 481(7381): 335-340   \n[55] Millard CJ,Watson PJ, Celardo I,et al. ClassIHDACs share a common mechanism of regulation by inositol phosphates. Molecular Cell,2013,51(1): 57-67   \n[56] Rundlett SE,Carmen AA,KobayashiR,et al.HDA1 and RPD3 are members of distinct yeast histone deacetylase complexes that regulate silencing and transcription.Proc Natl Acad Sci USA,1996, 93(25): 14503-14508   \n[57] Grozinger C M, Hassg C A, Schreiber S L. Three proteins define a class of human histone deacetylases related to yeast Hdalp.Proc Natl Acad Sci USA,1999,96(9): 4868-4873   \n[58] Kao HY,Lee CH,Komarov A,et al. Isolation and characterization of mammalian HDAC1O,a novel histone deacetylase. Journal of Biological Chemistry,2002,277(1): 187-193 [59] Verdin E,Dequiedt F, Kasler HG. Class II histone deacetylases: versatile regulators.Trends in Genetics,2003,19(5): 286-293 [60] Yang XJ, Gregoire S. Class II histone deacetylases: from sequence to function,regulation,and clinical implication.Molecular and Cellular Biology,2005,25(8): 2873-2884 [61] Lu JR,McKinsey TA,Zhang C L,et al.Regulation of skeletal myogenesis by association of the MEF2 transcription factor with class $\\mathbb { I }$ histone deacetylases.Molecular Cell,2000,6(2): 233-244 [62] Grozinger CM, Schreiber SL.Regulation of histone deacetylase 4 and 5 and transcriptional activity by 14-3-3-dependent cellular localization.Proc Natl Acad Sci USA,2000,97(14): 7835-7840 [63] Kao H Y，Verdel A，Tsai C C，et al.Mechanism for nucleocytoplasmic shuttling of histone deacetylase 7. Journal of Biological Chemistry,2001,276(50): 47496-47507 [64] McKinsey TA, Zhang CL,Olson EN.Identification of a signalresponsive nuclear export sequence in class II histone deacetylases. Molecular and Cellular Biology,2001,21(18): 6312-6321 [65] Wang A H, Yang $\\mathrm { ~ X ~ J ~ }$ Histone deacetylase 4 possesses intrinsic nuclear import and export signals. Molecular and Cellular Biology,   \n2001,21(17): 5992-6005 [66] McKinsey TA, Zhang CL,Lu JR,et al. Signal-dependent nuclear export of a histone deacetylase regulates muscle diferentiation. Nature,2000,408(6808): 106-111 [67]McKinsey T A,Zhang C L,Olson E N.Control of muscle development by dueling HATs and HDACs. Current Opinion in Genetics & Development,2001,11(5): 497-504 [68] Fischle W,Dequiedt F,Fillon M,et al.Human HDAC7 histone deacetylase activity is associated with HDAC3 in vivo.Journal of Biological Chemistry,2001,276(38): 35826-35835 [69]Fischle W,Dequiedt F,Hendzel MJ,et al.Enzymatic activity associated with class IIHDACs is dependent on a multiprotein complex containing HDAC3 and SMRT/N-CoR.Molecular Cell,   \n2002,9(1): 45-57 [70] Seigneurin-Berny D,Verdel A,Curtet S,et al.Identification of components of the murine histone deacetylase 6 complex:Link betweenacetylation and ubiquitination signalingpathways. Molecular and Cellular Biology,2001,21(23): 8035-8044 [71] Hook S S,Orian A,Cowley S M,et al. Histone deacetylase 6 binds polyubiquitin through its zinc finger (PAZ domain) and copurifies with deubiquitinating enzymes. Proc Natl Acad Sci USA,2002,   \n99(21): 13425-13430 [72] Kovacs JJ,Murphy PJM,Gaillard S,et al.HDAC6 regulates Hsp90acetylationandchaperone-dependentactivationof glucocorticoid receptor. Molecular Cell,2005,18(5): 601-607 [73] Tong JJ, Liu JH, Bertos NR,et al. Identification of HDAC10,a novel class II human histone deacetylase containing a leucine-rich domain. Nucleic Acids Research,2002,30(5): 1114-1123 [74] Bottomley MJ,Lo Surdo P,Di Giovine P,et al.Structural and functional analysis of the human HDAC4 catalytic domain reveals a regulatory structural zinc-binding domain. Journal of Biological Chemistry,2008,283(39):26694-26704 [75] Schuetz A, Min J,Allali-Hassani A,et al. Human HDAC7 harborsa class Ila histone deacetylase-specific zinc binding motif and cryptic deacetylase activity.Journal of Biological Chemistry，2008, 283(17): 11355-11363   \n[76] Han AD,He J, Wu YQ,et al.Mechanism of recruitment of class II histone deacetylases by myocyte enhancer factor-2.Journal of Molecular Biology,2005,345(1): 91-102   \n[77] Ouyang H, Ali Y O, Ravichandran M,et al.Protein aggregates are recruited to aggresome by histone deacetylase 6 via unanchored ubiquitin Ctermini. Journal of Biological Chemistry,20l2,287(4): 2317-2327   \n[78] Landry J, Sutton A,Tafrov S T,et al. The silencing protein SIR2 and its homologs are MAD-dependent protein deacetylases.Proc Natl Acad Sci USA,2000,97(11): 5807-5811   \n[79] Sanders B D,Jackson B,Marmorstein R. Structural basis for sirtuin function:What we know and what we don't. Biochimica Et Biophysica Acta-Proteins and Proteomics,2010,1804(8):1604- 1616   \n[80] Pan M,Yuan H,Brent M,et al.SIRT1 Contains N-and C-terminal regions that potentiate deacetylase activity. Journal of Biological Chemistry,2012,287(4): 2468-2476   \n[81] North B J,Marshall B L,Borra M T,et al.The human Sir2 ortholog，SIRT2,is an NAD $\\left( + \\right)$ -dependent tubulin deacetylase. Molecular Cell,2003,11(2): 437-444   \n[82] Tanno M, Sakamoto J,Miura T,et al.Nucleocytoplasmic shuttling of the $\\mathrm { \\Delta N A D ( + ) }$ -dependent histone deacrtylase SIRT1. Journal of Biological Chemistry,2007,282(9): 6823-6832   \n[83] North B J, Verdin E. Interphase nucleo-cytoplasmic shuttling and localization of SIRT2 during mitosis.Plos One,2007,2(8)   \n[84] Huang JY,Hirschey MD,Shimazu T,et al. Mitochondrial sirtuins. Biochimica Et Biophysica Acta-Proteins and Proteomics,2010, 1804(8): 1645-1651   \n[85] Du JT,Zhou YY,Su XY,et al.Sirt5 is a NAD-dependent protein lysine demalonylase and desuccinylase. Science,2011,334(6057): 806-809   \n[86] Jiang H,Khan S,Wang Y,et al. SIRT6 regulates TNF-alpha secretion through hydrolysis of long-chain fatty acyl lysine.Nature, 2013,496(7443): 110-113   \n[87] Zhao X,Allison D,Condon B,et al. The 2.5 angstrom crystal structure of the SIRT1 catalytic domain bound to nicotinamide adenine dinucleotide $\\left( \\mathrm { N A D \\left( + \\right) } \\right)$ and an indole (EX527 analogue) revealsa novel mechanism of histone deacetylase inhibition. Journal of Medicinal Chemistry,2013,56(3): 963-969   \n[88] Davenport A M,Huber F M,Hoelz A. Structural and functional analysis of human SIRT1. Journal of Molecular Biology，2014, 426(3): 526-541   \n[89] Finnin M S,Donigian JR,Pavletich NP. Structure of the histone deacetylase SIRT2. Nature Structural Biology,2001, 8(7): 621-625   \n[90] Jin L,Wei W T,Jiang Y B,et al.Crystal structures of human SIRT3displayingsubstrate-induced conformational changes. Journal of Biological Chemistry,2009,284(36): 24394-24405   \n[91] Schuetz A,Min JR,Antoshenko T,et al. Structural basis of inhibition of the human $\\mathrm { \\mathbf { N A D } ( + ) }$ -dependent deacetylase SIRT5 by suramin. Structure,2007,15(3): 377-389   \n[92] Min JR,Landry J, Sternglanz R,et al.Crystal structure of a SIR2 homolog-NAD complex. Cell,2001,105(2): 269-279   \n[93] Avalos JL,Celic I, Muhammad S,et al. Structure of a Sir2 enzyme bound to an acetylated p53 peptide. Molecular Cell,202,10(3): 523-535   \n[94] Avalos JL,Boeke JD,Wolberger C. Structural basis for the mechanism and regulation of Sir2 enzymes. Molecular Cell, 2004, 13(5): 639-648   \n[95] Hsu HC,Wang CL,Wang M,et al. Structural basis for allosteric stimulation of Sir2 activity by Sir4 binding. Genes & Development, 2013, 27(1): 64-73   \n[96] Cao D,Wang M,Qiu X,et al. Structural basis for allosteric, substrate-dependent stimulation of SIRT1 activity by resveratrol. Genes & Development,2015,29(12): 1316-1325   \n[97]MalikR,KashyapA,Bansal K,et al.Comparative deacetylase activity of wild type and mutants of SIRT1.Biochemical and Biophysical Research Communications,2010,391(1): 739-743   \n[98] Kang H,Suh JY, Jung Y S,et al.Peptide switch is essential for Sirtl deacetylase activity.Molecular Cell,2011,44(2): 203-213   \n[99] Kim E J, Kho JH,Kang MR,et al.Active regulator of SIRT1 cooperates with SIRT1 and facilitates suppression of p53 activity. Molecular Cell,2007,28(2): 277-290   \n[100]Dai H, Case A W, Riera TV,etal. Crystallgraphic structureof a smallmolecule SIRT1activator-enzyme complex.Nature Communications, 2015,6: 7645   \n[101]Gao L,Cueto M A,Asselbergs F,et al. Cloning and functional characterization of HDAC11,a novel member of the human histone deacetylase family.Journal ofBiological Chemistry，2002, 277(28): 25748-25755   \n[102]Preeti J,Greco T M, Guise A J,et al.The functional interactome landscape of the human histone deacetylase family.Molecular Systems Biology,2013,9(1): 252-256   \n[103]Zhang J,Zhong Q.Histone deacetylase inhibitors and cell death. Cellular and Molecular Life Sciences,2014,71(20): 3885-3901   \n[104]Halkidou K,Gaughan L,Cook S,et al.Upregulation and nuclear recruitment of HDACI in hormone refractory prostate cancer. Prostate,2004,59(2): 177-189   \n[105]Choi JH,Kwon HJ,Yoon BI,et al. Expression profile of histone deacetylase 1 in gastric cancer tissues. Japanese Journal of Cancer Research,2001,92(12): 1300-1304   \n[106]Wilson A J,Byun D S,Popova N,et al.Histone deacetylase 3 (HDAC3）and other class IHDACs regulate colon cell maturation and p21 expression and are deregulated in human colon cancer. Journal of Biological Chemistry,2006,281(19):13548-13558   \n[107]Zhang ZH, Yamashita H, Toyama T,et al. Quantitation of HDAC1 mRNA expression in invasive carcinoma of the breast.Breast Cancer Research and Treatment, 2005,94(1): 11-16   \n[108]Huang B H,Laban M,Leung C HW,et al.Inhibition of histone deacetylase 2 increases apoptosis and p21(Cip1/WAF1) expression, independentofhistonedeacetylase1.Cell Deathand Differentiation,2005,12(4):395-404   \n[109]Song J,Noh JH,Lee JH,et al.Increased expression of historic deacetylase 2 is found in human gastric cancer. Apmis,2005, 113(4): 264-268   \n[110]Glaser KB,Li JL, Staver MJ,et al. Role of Class I and Class ⅡI histone deacetylases in carcinoma cells using siRNA.Biochemical and Biophysical Research Communications,2003,310(2): 529-536   \n[111]Grignani F,De Matteis S,Nervi C,et al.Fusion proteins of the retinoicacidreceptor-alpha recruit histonedeacetylasein promyelocytic leukaemia.Nature,1998,391(6669): 815-818   \n[112]Lin RJ, Sternsdorf T, Tini M,et al. Transcriptional regulation in acute promyelocytic leukemia.Oncogene,2001，20 (49): 7204- 7215   \n[113]Bertrand P. Inside HDAC with HDAC inhibitors. European Journal of Medicinal Chemistry,2010,45(6): 2095-2116   \n[114]Bose P,Dai Y,Grant S.Histone deacetylase inhibitor (HDACI) mechanisms of action:Emerging insights.Pharmacology& Therapeutics,2014,143(3): 323-336   \n[115]Marks PA,Richon V M,Rifkind R A.Histone deacetylase inhibitors: Inducers of differentiation or apoptosis of transformed cells.Journal of the National Cancer Institute,2O00,92 (15): 1210-1216   \n[116]Butler L M,Agus D B,Scher HI,et al．Suberoylanilide hydroxamic acid,an inhibitor of histone deacetylase,suppresses the growth of prostate cancer cells in vitro and in vivo.Cancer Research,2000,60(18): 5165-5170   \n[117]Atadja P,Gao L,Kwon P,et al. Selective growth inhibition of tumor cels by a novel histone deacetylase inhibitor,NVP-LAQ824. Cancer Research,2004,64(2): 689-695   \n[118]UngerstedtJS,Sowa Y,Xu W S,et al.Role of thioredoxin in the response of normal and transformed cells to histone deacetylase inhibitors.Proc Natl Acad Sci USA,2005,102(3): 673-678   \n[119]Lee JH,Choy ML,Ngo L,et al.Histone deacetylase inhibitor induces DNA damage,which normal but not transformed cells can repair. Proc Natl Acad Sci USA,2010,107(33): 14639-14644   \n[120]Insinga A,Monestiroli S,Ronzoni S,et al.Inhibitors of histone deacetylases induce tumor-selective apoptosis through activation of the death receptor pathway. Nature Medicine,20o5,11(1): 71-76   \n[121]Mann B S,Johnson JR,Cohen M H,et al.FDA approval summary: Vorinostat for treatment of advanced primary cutaneous T-cellymphoma.Oncologist,2007,12(10):1247-1252   \n[122]Whitaker SJ,Demierre MF,Kim EJ,et al.Final results froma multicenter, international, pivotal studyof romidepsin in efractory cutaneous T-cell lymphoma. Journal of Clinical Oncology，2010, 28(29): 4485-4491   \n[123]Coiffier B,Pro B,Prince H M,et al.Results from a pivotal, open-label,Phase II study of romidepsin in relapsed or refractory peripheral T-cell lymphoma after prior systemic therapy. Journal of Clinical Oncology,2012, 30(6): 631-636   \n[124]McDermott J, Jimeno A.Belinostat for the treatment of peripheral T-cell lymphomas.Drugs of Today,2014,50(5): 337-345   \n[125]Balasubramanian S,Verner E,Buggy JJ. Isoform-specific histone deacetvlase inhibitors: The next step? Cancer Letters.20o9.280(2): 211-221   \n[126]Liu T,Liu PY,Marshall G M.The critical role of the classII histone deacetylase SIRT1 in cancer. Cancer Research,2Oo9,69(5): 1702-1705   \n[127]Kozako T,Suzuki T,Yoshimitsu M,et al.Anticancer agents targeted to sirtuins.Molecules,2014,19(12): 20295-20313   \n[128]Hu J,Jing H,Lin H. Sirtuin inhibitors as anticancer agents.Future Medicinal Chemistry,2014,6(8): 945-966   \n[129]Dai JM,Wang ZY,Sun DC,et al. SIRT1 interacts with p73 and suppresses p73-dependent transcriptional activity.Journal of Cellular Physiology,2007,210(1):161-166   \n[130]Chen WY,Wang DH,Yen RWC,et al. Tumor suppressor HIC1 directly regulates SIRT1 to modulate p53-dependent DNA-damage responses. Cell,2005,123(3): 437-448   \n[131]Chu F, Chou PM, Zheng X,et al.Control of multidrug resistance gene mdrl and cancer resistance to chemotherapy by the longevity gene sirt1.Cancer Research,2005,65(22):10183-10187   \n[132]BarberMF,Michishita-Kioi E,Xi Y,et al. SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation. Nature, 2012, 487(7405): 114-118   \n[133]PeckB,ChenCY,HoKK,etal.SIRTinhibitorsinduce cell death and p53 acetylation through targeting both SIRT1 and SIRT2. Molecular Cancer Therapeutics,2010,9(4): 844-855   \n[134]Outeiro T F,Kontopoulos E,Altmann S M,et al. Sirtuin 2 inhibitors rescue alpha-synuclein-mediated toxicity in models of Parkinson's disease. Science,200,317(5837): 516-519   \n[135]Vergnes B，Vanhille L，Ouaissi A，etal.Stage-specific antileishmanial activity of an inhibitor of SIR2 histone deacetylase. Acta Tropica,2005,94(2): 107-115   \n[136]Pagans S,Pedal A，North B J，et al．SIRT1 regulates HIV transcription via Tat deacetylation.Plos Biology，2005,3(2): 210-220   \n[137]Lawson M, Uciechowska U，Schemies J，et al.Inhibitors to understand molecularmechanismsofNAD $( + )$ - dependent deacetylases (sirtuins).Biochimica Et Biophysica Acta-Gene Regulatory Mechanisms,2010,1799(10-12): 726-739   \n[138]Cen Y. Sirtuins inhibitors: The approach to affinity and selectivity. Biochimica Et Biophysica Acta-Proteins and Proteomics,2010, 1804(8): 1635-1644   \n[139]Yuan H,Marmorstein R. Structural basis for sirtuin activity and inhibition.Journal of Biological Chemistry,2012,287(51): 42428 42435   \n[140]Heltweg B, Gatbonton T,Schuler A D,et al. Antitumor activityof a small-molecule inhibitor of human silent information regulator 2 enzymes. Cancer Research,2006,66(8): 4368-4377   \n[141]Cohen HY,Miller C,Biterman KJ,et al.Calorie restriction promotes mammalian cell survival by inducing the SIRT1 deacetylase. Science,2004,305(5682): 390-392   \n[142]Kabra N,Li ZY,Chen L H,et dl.SirTlisan inhibitor of proliferation and tumor formation in colon cancer. Journal of Biological Chemistry,2009,284(27):18210-18217   \n[143]Firestein R,Blander G,Michan S,et al.The SIRT1 deacetylase suppresses intestinal tumorigenesis and colon cancer growth. Plos One, 2008, 3(4)   \n[144]Abe N, Uchida S, Otsuki K,et al. Altered sirtuin deacetylase gene expression in patients with a mood disorder.Journal of Psychiatric Research,2011,45(8): 1106-1112   \n[145]Howitz K T,Bitterman KJ,Cohen HY,et al.Small molecule activators of sirtuins extend Saccharomyces cerevisiae lifespan. Nature,2003,425(6954): 191-196   \n[146]Wood JG,Rogina B,Lavu S,et al. Sirtuin activators mimic caloric restriction and delay ageing in metazoans. Nature,2O04,430(7000): 686-689   \n[147]Valenzano DR,Terzibasi E,Genade T,et al.Resveratrol prolongs lifespan and retards the onset of age-related markers in a short-lived vertebrate.Current Biology,2006,16(3): 296-300   \n[148]Rascon B,Hubbard BP,SinclairDA,et al.The lifespan extension effects of resveratrol are conserved in the honey bee and may be driven by a mechanism related to caloric restriction.Aging-Us, 2012,4(7): 499-508   \n[149]Baur JA,Pearson KJ,Price NL,et al. Resveratrol improves health and survival of mice on a high-calorie diet.Nature,2006, 444(7117): 337-342   \n[150]Milne JC,Lambert PD,Schenk S,et al. Small molecule activators of SIRT1 as therapeutics for the treatment of type 2 diabetes. Nature,2007,450(7170): 712-716   \n[151]Pacholec M,Bleasdale JE,Chrunyk B,et al. SRT1720, SRT2183, SRT1460,and resveratrol are not direct activators of SIRT1. Journal of Biological Chemistry,2010,285(11): 8340-8351   \n[152]Beher D,Wu J,Cumine S,et al.Resveratrol is not a direct activator of SIRT1 enzyme activity.Chemical Biology & Drug Design,2009,74(6): 619-624   \n[153]Borra M T, Smith B C,Denu JM. Mechanism of human SIRT1 activation by resveratrol. Journal of Biological Chemistry,2005, 280(17): 17187-17195   \n[154]Kaeberlein M,McDonagh T,Heltweg B,et al. Substrate-specific activation ofsirtuinsbyresveratrol．Journal of Biological Chemistry,2005,280(17): 17038-17045   \n[155]Hubbard BP,Gomes AP,Dai H,et al.Evidence for a common mechanism of SIRT1 regulation by allosteric activators.Science, 2013, 339(6124): 1216-1219   \n[156]Lakshminarasimhan M,Rauh D,Schutkowski M,et al． Sirt1 activation by resveratrol is substrate sequence-selective.Aging-Us, 2013, 5(3): 151-154   \n[157]Dai H,Kustigian L,Carney D,et al. SIRT1 activation by small molecules kinetic and biophysical evidence for direct interaction of enzyme and activator. Journal of Biological Chemistry，2010, 285(43): 32695-32703 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Structure and Catalytic Mechanisms of Histone Deacetylases? ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "CAO Duan-Fang, YANG Na\\*\\* (NationalLaboratoryfiomacromolecules,stituteofphysics,ChineseAcademyofSiences,Beijingo,ina) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "AbstractLysine aetylation is one of the most widely studied post-translational modifications of histones.It plays important roles in the regulation of chromatin remodeling and gene expression.This modification is dynamically regulated in viwo by histone acetyltransferases and deacetylases. Besides histone substrates，many histone deacetylases can also catalyze deacetylation of non-histone substrates,and participate in the regulation of various biological pathways.In this review，we discuss the clasification，structure,function,and catalytic mechanisms of the four known classes of human histone deacetylases,as wellas the progress in the development and application of small molecule inhibitors and activators of these deacetylases. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key wordshistone acetylation,deacetylase, Sirtuin,structure and function,catalytic mechanism,inhibitors,   \nactivators   \nDOI: 10.16476/j.pibb.2015.0260 ",
+        "page_idx": 15
+    }
+]

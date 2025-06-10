@@ -1,0 +1,273 @@
+[
+    {
+        "type": "text",
+        "text": "动作的主动控制感与因果关系的主动控制感：主动动作时间压缩效应的产生机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴迪1,²顾晶金1,²李明³凌懿白1,²张明4.5赵科1²傅小兰1,2(中国科学院心理研究所，脑与认知科学国家重点实验室，北京 100101)(中国科学院大学心理学系，北京 100049）(吉首大学，吉首 41600)(4中国科学院心理研究所心理健康重点实验室，北京 100101)(大连医科大学心理学系，大连116044)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：主动动作的时间压缩效应指主动动作到动作结果之间存在时间上的主观压缩。基于动作的主动控制感和因果关系的主动控制感是该效应的两种理论解释。本文首先分别介绍动作的主动控制感和因果关系的主动控制感，并从行为和脑机制角度提供相应的证据解释时间压缩效应的机制。同时，本文提出了在主动动作时间压缩效应中动作的主动控制感与因果关系的主动控制感之间可能存在的序列加工和平行加工的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：主动动作；主动控制感；因果关系；时间压缩效应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "主动动作指有动作预期并伴随一定结果的动作（James,1890)。主动动作，尤其是按键动作，是心理学、认知神经科学、计算机科学等领域中广泛使用的反应方式。主动动作的时间压缩效应是与主动动作相关联的一种效应，是指主动动作到动作结果（视觉或者听觉等）之间的时间被主观压缩的现象(Capozzi,Becchio,Garbarini, Savazzi,& Pia,2016; Cavazzana et al.,2014; Haggard,2017; Haggard,Clark,& Kalogeras,2002; Moore & Obhi,20l2; Ruess,Thomaschke,& Kiesel,2018; Sidarus & Haggard,2016;Yabe & Goodale,2015)。最早研究该效应的是英国伦敦大学学院的 Haggard教授，他使用 Libet 时钟，该时钟指针不断旋转，每转一圈是 2560毫秒。实验中被试主动按键，按键后250毫秒出现一个声音刺激，被试需要报告按键时指针的位置以及声音刺激出现时指针的位置。结果表明，主动按键到声音刺激出现之间的时间间隔被主观压缩了(Haggard et al.,2002)。另外一种研究范式是间隔估计范式，实验中要求被试直接估计按键到动作结果之间的时距(Humphreys& Buehner,2009;Zhao,Chen,Yan,& Fu,2013)，结果也表明主动动作到动作结果之间的时距产生了主观压缩。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主动动作的时间压缩效应引起了研究者的广泛兴趣，比较一致的观点是主动控制感造成了主观时间的压缩。主动控制感是主动动作过程中产生的控制自身动作进而控制外界事物和环境的一种主观感觉(Haggard,2017)。主动控制感分为两种，一种是低水平的基于动作的主动控制感，另一种是高水平的基于因果关系的主动控制感(Synofzik etal.,2008)。相应地，对主动动作的时间压缩效应的解释也被认为与这两种类型的主动控制感有关：一种观点认为，因为主动动作和实际的动作感觉反馈匹配而产生了主动控制感，从而造成了时间的主观压缩。这种观点基于动作比较器模型，认为是动作的主动控制感造成了主观时间的压缩；另一种观点认为，由于动作结果发生的先后顺序以及时间上的接近性，被试能觉察到动作和结果之间存在因果关系，是这种因果关系造成了主观时间的压缩。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/63731a057efd4e40a2298606b07fe7a9893ba7b3b49719408fbd49a268f8a118.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1.Haggard等人(2002)研究结果示意图。当要求被试主动按键时，被试报告的动作发生时刻点靠后（15毫秒），而报告的声音刺激出现的时刻点提前（46毫秒）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2主动动作的时间压缩效应与动作的主动控制感",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主动控制感指在主动动作过程中产生的控制自身动作，进而控制外界事物和环境的一种主观体验。基于动作的主动控制感建立在动作比较模型的基础上(Blakemore,Frith,&Wolpert,1999;Wolpert,1997)。根据该模型，主动控制感是在预期结果和实际的感觉反馈结果匹配时产生的。在这种解释下，如果预期动作和实际反馈匹配则产生控制感并造成时间压缩效应。因此，预期的动作结果和实际的感觉反馈匹配对于主动动作的时间压缩效应十分重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于动作的主动控制感，有两个重要影响因素。第一是主观意愿。在Haggard最早的研究中，当使用TMS刺激大脑的运动皮层时，会造成被试无主观意愿地被动按键，导致动作到结果之间的时间压缩效应消失(Haggard etal.,2002)。同时，有研究采用自主、非自主动作装置，结果也表明，在被动按键条件下，时间压缩效应消失了(Zhao et al.,2016)。而在Haggard最近的一项研究中，要求被试配合实验助手进行电击伤害。实验助手会通过指令胁迫或者不胁迫被试执行电击行为。结果表明，相比于不胁迫条件，胁迫情况下的时间压缩效应会减小。作者解释为在胁迫的情况下，被试的主观意愿下降，所以产生了更小的时间压缩(Caspar,Christensen, Cleeremans,& Haggard,2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主动控制感的第二个影响因素是及时的感觉反馈。根据比较器模型，如果预期的动作和感觉反馈结果匹配就会产生主动控制感,因此，及时的感觉反馈非常重要。通过对主动按键和主动抬键的比较可知，按键动作和触觉反馈的匹配是产生时间压缩效应的重要因素。主动按键伴随着及时的触觉反馈，会比无及时触觉反馈的抬键动作产生更大的时间压缩效应。如果将动作后的触觉反馈去除，主动按键和主动抬键将产生相同的时间压缩效应(Zhao etal.,2016)。并且，有研究进一步发现，动作和动作结果（视觉刺激）之间的时间间隔在大约200毫秒以内时，抬键动作和按键动作会产生相同的时间压缩效应(Zhao etal.,2013)，说明及时的视觉反馈也和触觉反馈一样都能产生时间压缩效应。由此可见预期动作与及时的感觉反馈匹配至关重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主动控制感对于时间压缩效应的解释也有其对应的脑机制。脑电研究发现，主动按键动作会比抬键动作产生一个更大的P1成分，这一成分的头皮分布在脑前中皮层，对应了delta-theta频率成分，而这个时频成分被认为与时间压缩效应成反比(Zhao etal.,2014)。对于动作和结果的不匹配，Band等人(2009)设计了一个概率学习的任务，实验要求被试处理与任务有关的外在反馈，结果发现负性的结果会产生一个负性相关的脑电成分 $( \\mathrm { N } _ { \\mathrm { F B } } )$ 。更重要的是，不可预期且任务无关的结果诱发了一个跟NFB相同的成分，他们把这个成分叫做动作效应负波 $( \\mathrm { N _ { A E } } )$ 。这一结果表明，动作-结果联结形成后，如果预期结果和实际反馈不匹配就会产生NAE(Band,van Steenbergen,Ridderinkhof,Falkenstein,& Hommel,2009)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "脑成像的结果也发现，小脑可能参与了感觉运动协调的控制(Blakemore et al.，1998;Blakemore,Wolpert,&Frith,1999;Blakemore,Frith,& Wolpert,2001)。Blakemore等人(1998)的研究发现，相比于被动挠痒，主动挠痒时小脑的激活程度下降。因此，小脑的活动可能只反映了运动的协调，也就是动作指令的预期匹配，而不是对完成一个动作去造成一个结果的反映(Waszak,Cardoso-Leite,&Hughes,2012)。Bastian(2006)认为小脑会产生一个内在感知状态的预测模型，这一模型能够学习感觉运动联结，从而促进前馈动作的控制(Bastian,2006)。在另一项研究中，Blakemore 等人(1999)采用 PPI分析，发现小脑的动作调节程度和运动皮层以及脑干有关，而小脑的预期活动与感觉运动皮层的激活程度降低有关(Blakemore,Wolpert,et al.,1999)。同时，小脑的激活与动作结果的延迟有关联，进一步表明小脑可能参与了侦测预期动作结果和实际动作结果之间的匹配过程(Blakemore etal.,2001)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3主动动作的时间压缩效应与因果关系的主动控制感",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因果关系的提出可追溯到哲学家休谟(Hume,1777/1888)，他认为，我们根据下列因素来判断是一个事件导致第二个事件的发生：相似性、事件的接近性(时间和空间的接近性)和事件发生可能性(发生的概率)。在心理学中，因果关系的影响得到了广泛的研究(Buehner&Humphreys,2009; Eagleman &Holcombe,2002;Wen,Yamashita,& Asama,2015;Woods et al.,2014)。有结果表明，主动动作的时间压缩效应与因果关系有关。当动作的结果与动作发生相距4秒时，主动动作的时间压缩效应依然存在。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这一结果不能通过动作的主动控制感来解释，因为动作与结果相距4秒时，预期的及时反馈和延迟的感觉反馈是不匹配的，此时，基于因果关系的主动控制感能更好地解释这一现象(Buehner &Humphreys,2009)。因果关系的主动控制感与动作的主动控制感相近，是指对动作与结果之间因果关系的觉察与推断(Scholl& Tremoulet,2000,Kawabe etal.,2013)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因果关系的主动控制感不能直接感知，但可以根据动作和结果间的关系推理得来。因果关系的主动控制感也被认为与主动动作的时间压缩效应有关联，主要体现在以下几个方面：第一，时间上更加接近的两个事物更可能被知觉为原因和结果的关系，从而产生动作和结果之间的时间压缩效应。Haggard 等人（2002）设置了动作和结果之间的时间间隔为250，450和650毫秒的不同实验条件，结果发现在长时间间隔下，时间压缩效应降低。随着时间间隔的增加，动作结果之间的因果关系减弱，被试会认为动作结果并非是自己造成。第二，事件发生的概率也影响主动动作的时间压缩效应。Engbert和Wohlschlager（2007）的结果表明，高概率（ $80 \\%$ ）条件相比低概率（ $20 \\%$ ）条件下的时间压缩效应更大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，为了探究因果关系在时间压缩效应中的重要性，研究者在一种实验条件下要求被试主动按键，在另一种实验条件下使用机器手按键，实验要求被试对动作和动作结果的时间进行估计，研究表明，机器手按键和主动按键条件都产生了时间压缩效应。这是因为，虽然机器手按键不是被试的主动动作，但是机器手按键和动作结果之间存在着因果关系，从而造成了时间压缩效应(Buehner,2012)。Desantis 等人(2011)也研究了因果关系的主动控制感是否会影响时间的压缩效应。在实验中，真被试和假被试坐在一“墙\"之隔的隔间里，他们会看到相同内容的屏幕（图2)。如果被试相信声音刺激是自己的动作诱发的（实际这个声音不是自己诱发的)，将会产生更大的时间压缩效应；如果被试相信声音刺激不是自己的动作造成的而是假被试造成的，就算声音实际上是自己的动作造成的，时间压缩效应也会消失。另外，有研究发现口头报告有因果关系的动作-结果比报告没有因果关系的动作-结果在时间维度上将更加压缩(Buehner & Humphreys,2009; Humphreys & Buehner,2009)。Kawabe 等人（2013）的研究中，被试的任务是判断触觉刺激后视觉刺激是否延迟并对延迟的概率做出估计。结果发现，如果触觉刺激和视觉刺激匹配了更多的听觉刺激则报告延迟的比例下降，也就意味着因果关系的主动控制感增强。外显的评定也发现，动作结果的因果关系越强，时间越压缩。对精神分裂症患者的研究发现，精神分裂症患者会比正常被试产生更大的时间压缩效应，这可能是因为这些患者有错误的因果关系(Voss,Chambon,Wenke,Kuhn,& Haggard,2017; Voss et al.,2010)。克他命(ketamine)是一种致幻药物，服用后的症状和精神分裂症相同。研究表明，正常被试服用克他命后也能显著增强时间压缩效应(Moore et al., 2013)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef511c599f09665b776cb11af08a3293b35d3c11a2d760c49ca59ba09c7cbfa5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2.Desantis等人(2011)的实验装置示意图。每次实验都包含一名真被试和一名假被试，二者之间使用隔板隔开。真假被试会看到相同内容的屏幕。实验中要求被试当指针位于钟表的高亮区域时按键，时钟的下面会出现做出按键动作者的姓名，因此，有可能按键动作是被试做的，但是屏幕提示不是被试做的。按键后间隔一定时间会出现一个声音刺激，指导语告诉被试是报告按键时的指针位置还是动作后声音呈现时的指针位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，后内侧前额皮层（pMFC，posterior medial frontal cortex）参与动作和动作结果之间的匹配过程，而辅助运动区（SMA，supplementalmotor area）和前辅助运动区（pre-SMA，pre-supplementary motor area）主要负责高级决策，与动作结果的预期有关。采用PET和fMRI的研究进一步发现，pre-SMA可能是一个表征新形成的动作-结果联结的脑区(Elsner et al.,2002;Melcher,Weidema,Eenshuistra,Hommel,& Gruber,2008;Ticini,Schutz-Bosbach,Weiss,Casile,& Waszak,2012)。Elsner等人(2002)的研究中，通过学习，使被试建立起按键-声音联结，PET成像结果显示，被动地听学习过的动作-结果联结中作为结果的声音也会造成SMA的激活，这表明SMA可能是表征动作和结果联结的重要脑区。因果关系的主动控制感也得到了脑电证据的支持。最近有研究发现，pre-SMA产生的准备电位(RP）的波幅越大，时间压缩效应也越大(Jo,Wittmann,Hinterberger,& Schmidt,2014)。并且，当结果发生的概率增大的时候，动作到结果之间的P2脑电成分的波幅更大(Eppinger,Kray,Mock,&Mecklinger,2008)。我们的研究也证实了主动按键和主动抬键都产生了相同的P2成分，其可能反应了对于延迟动作结果的预期(Zhao etal.,2014)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 主动动作时间压缩效应中基于动作的主动控制感与因果关系的主动控制感间的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于动作的主动控制感与因果关系的主动控制感在主动动作时间压缩效应中都有着重要的作用。有人认为这两种因素的作用不是互斥的，二者都能产生时间压缩效应(Moore&Obhi,2012;Pacherie,2008)。越来越多的证据表明，单一因素无法完全解释时间压缩效应。在一项采用Libet时钟的研究中,一种条件下按键后有 $7 5 \\%$ 的可能性出现声音刺激，另外一种条件下有 $50 \\%$ 的可能性出现声音刺激。为了体现预期的作用，研究者比较了在 $7 5 \\%$ 和 $50 \\%$ 的条件下没有出现声音刺激时对主动按键动作时间的估计差异。为了体现因果关系的重要性，研究者比较了在 $50 \\%$ 的条件下，按键后无声音和按键后有声音两种条件中时间压缩效应的异同。结果发现，预期和因果关系对于产生时间压缩效应都不可缺少(Moore & Haggard,2008)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，动作的主动控制感和因果关系的主动控制感也不能单独解释主动按键和主动抬键动作产生的不同的时间压缩效应(Zhao et al.,2013;Zhao et al.,2014; Zhao et al.,2016)。对于按键条件而言，按键后有一个及时的触觉反馈，这种反馈会产生主动控制感。如果去除触觉反馈，则主动按键和主动抬键会产生相同的时间压缩效应，由此可见动作的主动控制感的作用。同时，当间隔增大的时候，主动按键和主动抬键会产生不同的时间压缩效应，而当间隔为4秒时，主动按键条件下依然存在时间压缩效应(Humphreys&Buehner,2009)，因此，动作的主动控制感和因果关系的主动控制感都对时间压缩效应的产生起作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然而，基于动作的主动控制感和因果关系的主动控制感在时间压缩效应的产生中是一种什么样的关系尚未明了。动作的主动控制感强调动作造成的时间压缩，而因果关系的主动控制感强调动作结果的压缩。有两种观点可以用来解释他们之间的关系：第一，基于两种因素时间发生的先后性及实证研究的证据，二者的关系可能是两阶段的序列关系（图3)。时间上的先后性导致在某个特定时间点前是主动控制感发生作用，通过预计的动作和实际的感觉反馈匹配产主动控制感。而在这个时间点后是因果关系起作用，这是基于对动作和结果之间的关系的预测、觉察。第二，基于动作的主动控制感和因果关系的主动控制感对于时间压缩效应的产生是一种平行的关系，这种观点认为，基于动作的主动控制感是基于动作的压缩，因果关系的主动控制感是观念水平上的压缩，两者发生在不同的层面上，是并列进行的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于两阶段序列关系的观点，动作的主动控制感和因果关系的主动控制感应该存在一个时间上的分界点。根据以往的研究，大概在200毫秒左右，如果主动动作后有一个及时的感觉反馈，预计的动作和动作结果匹配就会产生主动控制感；如果主动动作和结果之间的间隔超过了200毫秒，被试能感觉到主动动作和动作结果不匹配，动作和结果之间的因果关系依然能觉察，还是会造成时间上的压缩(Zhaoet al.,2013)。也就是说，在 200毫秒内，当主动动作和感觉反馈匹配时，产生动作的主动控制感，如果动作-结果的间隔超过了200 毫秒，被试会认为主动动作和动作结果之间不匹配，但是被试会觉察到因果关系，这两种条件下都能产生时间压缩效应。序列两阶段模型得到了一些研究结果的支持。Zhao 等人(2014)设置了按键和抬键两种条件，要求被试采用间隔估计的方法报告时间，并记录被试的脑电信号，结果发现，主动按键比抬键产生了更大的时间压缩效应，同时脑电的结果也显示主动按键比抬键产生了更大的脑电P1成分，按键和抬键都产生了相同的P2 成分。先出现的P1成分可能反映了动作和实际感觉反馈之间的匹配，是基于动作的主动控制感；而后出现的 P2成分反映了动作结果之间联结的预期，是一种基于因果关系的主动控制感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6da421d395c4694b574a09e57e70a79b0f7adbea8d79efc84d807ecbc9279744.jpg",
+        "img_caption": [
+            "图3.主动动作时间压缩效应的两阶段序列加工示意图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "另外一种观点认为，动作的主动控制感和因果关系的主动控制感是一种平行的关系。动作的主动控制感是一种非概念层面的、低水平的心理加工过程。而因果关系的主动控制感是一种基于动作与结果之间因果关系的概念层面的、高水平的心理加工过程。因此，两者并不存在时间上的先后关系，而是同时起作用。如前所述，从脑机制的角度来说，主动控制感主要与相对低级的脑区如小脑有关，小脑主要负责动作协调性的控制和匹配(Bastian,2006; Blakemore et al.,1999; Blakemore et al.,2001)。对因果关系觉察，则依赖于高级脑区如大脑皮层pre-SMA或者 SMA，这些脑区的作用主要是对动作结果进行预期(Elsner et al.,2002;Melcher et al.,2008; Ticini et al.,2012)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5研究展望",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文系统总结了主动动作时间压缩效应的两种认知机制：基于动作比较器的主动控制感和基于因果关系理论的主动控制感，并提出两者在主动动作时间压缩效应中的序列加工和平行加工的观点。未来的研究需要进一步探讨两者的作用方式及其脑机制：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一：基于动作的主动控制感和基于因果关系的主动控制感可能存在不同的加工脑机制。基于动作主动控制感的特异性的脑区主要包括小脑;而在因果关系的主动控制感中,大脑皮层尤其是SMA 和 pre-SMA 在动作结果的预期中起作用。未来的研究要更加注重区分这两种类型的时间压缩效应的脑机制,可通过脑成像技术探讨这两种解释机制下相同和不同的脑网络。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二：动作的主动控制感和因果关系的主动控制感在主动动作的时间压缩效应中的作用方式有待研究，两者对时间压缩效应的影响是平行加工的还是序列加工的尚未可知，未来的实证研究需更关注两者是否存在交互与重叠。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第三，对于特殊群体的施测将提供更多关于主动动作时间压缩效应机制的证据。对精神疾患如抑郁症和精神分裂症患者在该问题上的研究将深化我们对时间压缩效应机制的理解。以往的研究发现精神分裂症患者可能由于因果关系混乱造成了更强的时间压缩，而抑郁症患者的主动意识不够强，动作的主动控制感下降，这可能造成时间压缩效应的减弱。未来的研究需要进一步探讨精神类病患，如精神分裂症、抑郁症、焦虑症等患者在主动动作时间压缩效应上的异同，进一步明确两种不同的主动控制感的产生机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Band,G.P.H.,van Steenbergen,H.,idderinkhof,K.R.,Falkenstein,M.,&Hommel,B.(o9).Action-effectgatiity: Irrelevant action effects are monitored like relevant fedback.Biological Psychology,82(3),211-218. doi:10.1016/j.biopsycho.2009.06.011   \nBastian,A.J.(o6).Learing to predictthe future: thecerebellumadapts fedforward movementcontrol. CurrOpin Neurobiol, 16(6),645-649. doi:10.1016/j.conb.2006.08.016   \n收稿日期：2018-03-31   \n\\*中国国家自然科学基金(31400876/61632004/61621136008)和德国研究基金项目（DFG TRR-169）   \n通信作者：赵科,E-mail: zhaok@psych.ac.cn   \nBlakemore,S.J.,Frith,C.D.,&Wolpert,D.M.(99).patio-temporalpredictio modulatestheperceptionofself-produced stimuli.JCogn Neurosci, 1(5), 551-559.   \nBlakemore,S.J.,Frith,C.D.,&Wolpert,D.M.(2Ool).Thecerebellumisinvolved inpredicting thesensoryconsequencesof action. Neurorep0rt, 12(9),1879-1884. doi:Doi 10.1097/00001756-200107030-00023   \nBlakemore,S.J.,Wolpert,D.M.,&Frith,C.D.(1998).Centralcancelationofself-produced tickle sensation.NatNeurosci 1(7), 635-640. doi:10.1038/2870   \nBlakemore,S.J.,Wolpert,D.M.,&Frith,C.D.(1999).Thecerebellmcontributes tosomatosensorycorticalactivityduring self-produced tactile stimulation. Neuroimage,10(4), 448-459. doi:DOI 10.1006/nimg.1999.0478   \nBuehner,M.J. (2O12).Understandingthepast,predictingthefuture:causation,not intentioalaction,istherootoftemporal binding. Psychol Sci,23(12),1490-1497. doi:10.1177/0956797612444612   \nBuehner,M.J.,& Humphreys,G.R.(209).Causalbinding ofactions totheir effects.Psychol Sci,20(1),1-1228. doi:10.1111/j.1467-9280.2009.02435.x   \nCapozzi,F.,echio,C.,Garbarini,F.,Savazi,S.&ia,L. (6).Tmporalpercetioinjontactionisisactio. Conscious Cogn,40,26-33. doi:10.1016/j.concog.2015.12.004   \nCaspar,E.A.,hrstensen,J.,Cleeremans,A.,&Haggard,P. (l6).CoercionChanges theSnseofAgencyintheHuan Brain. Curr Biol, 26(5),585-592. doi:10.1016/j.cub.2015.12.067   \nCavazzana,A.,Begliomini, C.,&Bisiachi,P.S.(2014).Intentionalbindingefectichdre: isightsfromanewparadigm. Front Hum Neurosci, 8,651. doi:10.3389/fnhum.2014.00651   \nDesantis,A.,Rousel,C.,& Waszak,F. (2O11).Onthe influenceofcausal beliefs onthe felingofagency. Conscious Cogn, 20(4),1211-1220. doi:10.1016/j.concog.2011.02.012   \nEagleman,D.M.,& Holcombe,A. O. (2002). Causality and the perception of time. Trends Cogn Sci, 6(8),323-325.   \nElsner,B.,Hommel,B.,entschel,C.,Drzezga,A,Prinz,W,Conrd,.,&iebner,H.(2).Likingactionsadthir perceivable consequences in the human brain. Neuroimage,17(1),364-372.doi:10.1006/nimg.2002.1162   \nEngbert,K.,&Wolschlager,A.().Itentiosandexpectationsintemporalbding.Conscious ogn6(2)64. doi:10.1016/j.concog.2006.09.010   \nEppinger,B.,Kray,J.,Mock,B.,&Mecklinger,A.(2Oo8).Beterorworse thanexpected?Aging,learning,ndthe ERN. Neuropsychologia, 46(2),521-539. doi:10.1016/j.neuropsychologia.2007.09.001   \nHaggard,P.,lark,S,&Kalogeras,J. (2o2).Voluntaryactioadconsciousawareness.NatNeurosci,5(4)82385. doi:10.1038/nn827   \nHaggard,P. (2O17). Sense of agency in the human brain. Nature Reviews Neuroscience,18(4),196-207.   \nHume,D.(1888). Treatise of human nature.Oxford,England: Clarendon Press. (Original work published 1777)   \nHumphreys,G.R.,&Buehner,M.J. (2O09).Magnitude estimationreveals temporalbinding atsuper-second intervals.JExp Psychol Hum Percept Perform, 35(5),1542-1549. doi:10.1037/a0014492   \nJames,W. (1890). The Principles of Psychology: Vol. 2. New York: Dover.   \nJo,H.G.,Witan,.,nterberger,T.,&hidt,S.(014).Teeadines potentalrflectsitentioalinding.FrontHum Neurosci,8,421. doi:10.3389/fnhum.2014.00421   \nMelcher,T.,Weidema,M.,Eenshuistra,R.M.,Hommel,B.,& Gruber,O. (2Oo8).The neural substrateofthe ideomotor principle: An event-related fMRI analysis. Neuroimage,39(3),1274-1288.doi:10.1016/j.neuroimage.2007.09.049   \nMoore, J.,&Haggard,P.(20o8).Awareness of action: Inference and prediction. Conscious Cogn,17(1),136-144. doi:10.1016/j.concog.2006.12.004   \nMoore,J. W.,Cambridge,V.C.,organ,H.,Gorlando,F.,Adapa,R,&Fletcher,P.C. (2l3).Tme,actionand psychosis: Using subjective time to investigate the efects of ketamine on sense of agency. Neuropsychologia, 51(2),377-384. doi:10.1016/j.neuropsychologia.2012.07.005   \nMoore,J.W.,&Obhi,S.S.(20l2).Intentional binding and thesenseofagency:review.Conscious Cogn,21(1),546-561. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1016/j.concog.2011.12.002 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pacherie,E.(2008). The phenomenology of action: A conceptual framework. Cognition,107(1),179-217. doi:10.1016/j.cognition.2007.09.003   \nRuess,M.,Thomaschke,R.,&Kiesel,A. (2018). Intentional binding ofvisual eects.Atten Percept Psychophys,80(3), 713-722.doi:10.3758/s13414-017-1479-2   \nScholl,B.J,&emouletD.().Perepalualitydamacyendsinogieiences4(8)9 10.1016/S1364-6613(00)01506-0   \nSynofzik,M.,Vosgerau, G.,&Newen,A. (20o8). Beyondthecomparator model: amultifactorial two-stepaccountofagency. Consciousness and cognition,17(1),219-239.   \nSynofzik,M.Vosgerau,G.,&Vos,M. (20l3).Theexperienceofagency:aninterplaybetweenpredictionand postdiction. Frontiers in psychology,4,127.   \nSidarus,N.,&Haggard,P.(216).Dificultactiondecisionsreducethesenseofagency:AstudyusingtheEriksenflankertask. Acta Psychol (Amst),166,1-11. doi:10.1016/j.actpsy.2016.03.003   \nTicini,L.F.,Schutz-Bosbach,S.,Weis,C.,Casile,A.,& Waszak,F. (20l2). WhenSounds Become Actions: Higher-rder Representation of Newly Learned Action Sounds in the Human Motor System.Journal of Cognitive Neuroscience, 24(2),464-474. doi:10.1162/jocn_a_00134   \nVos,M.,Chambon,V.,Wenke,D.,Kuhn,S.,&Haggard,P.(217).Inadoutofcontrol: brainmechanismslinkingfluencyof action selection to self-agency in patients with schizophrenia.Brain,140,2226-2239.doi:10.1093/brain/awx136   \nVoss,M.,Mooe,Jusr,,llat,Jz,A,&agrd,P().leredwarenesofionia: specific deficit in predicting action consequences. Brain,133,3104-3112.doi:10.1093/brain/awq152   \nWaszak,F.,Cardoso-Leite,P.,& Hughes,G. (2Ol2).Action efect anticipation: Neurophysiological basisand functional consequences.Neuroscience and Biobehavioral Reviews,36(2),943-959.doi:10.1016/j.neubiorev.2011.11.004   \nWen,W.,Yamashita,A.,&Asama,H.(20l5).The influenceofaction-outcomedelayand arousal onsenseofagencyand the intentional binding effect. Conscious Cogn,36,87-95.doi:10.1016/j.concog.2015.06.004   \nWolpert,D.M.(997).Computationalapproaches to motorcontrol.Trends Cogn Sci,1(6),209-216.doi:10.1016/S1364- 6613(97)01070-X   \nWoods,A.J.,Hamlon,R.HKranjec,.,inaus,P.,Bson,M.,u,J,&Chaterjee,A.().Space,te,andcasality the human brain. Neuroimage, 92,285-297. doi:10.1016/j.neuroimage.2014.02.015   \nYabe,Y.,& Goodale,M.A. (2015).Time Flies WhenWe Intend toAct: Temporal Distortion ina Go/No-Go Task.Journalof Neuroscience,35(12), 5023-5029.doi:10.1523/Jneurosci.4386-14.2015   \nZhao,K.,Chen,Y.H.,Yan,W.J.,&Fu,X. (21).TobindorottobindDferenttemporalbndingeffectsfromvountary pressing and releasing actions. PLoS One,8(5), e64819.doi:10.1371/journal.pone.0064819   \nZhao,K.,Gu,R,Wang,L.,XiaoP.,Chen,Y.H.iang,J.,..Fu,X.(24).Voluntarypressngandreleasingactionduce diferent senses of time: evidence from event-related brain responses.Sci Rep,4,6047.doi:10.1038/srep06047   \nZhao,K.,Hu,L.,Qu,F., Cui,Q.,Piao,Q.,Xu,H,.Fu,X. (2016).Voluntaryactionandtactile sensoryfeedback inthe intentional binding effect.Exp Brain Res.234(8),2283-2292.doi:10.1007/s00221-016-4633-5 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sense of Agency Based on Action and Causation: The Mechanism of Intentional Binding Effect for Voluntary Action ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WUDi $^ { 1 , 2 }$ ; GU Jingjin1²; LI Ming²; LING Yibai1,²; ZHANG Ming4,5; ZHAO Ke14， FU Xiaolan1,2",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(StateKeyLboratoryofBainandCognitiveSience,IstituteofsychologyChineseAcdemyofSiences,Beijingina) ( Departmentof Psychology,University ofChineseAcademyofSciences,Beijing 10o049,China) (JishuUobl China) ( DepartmentofPsychology,Dalian Medical University,Dalian,China,Beijing116044,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The intentional binding effect refers to subjective compresson in time between a voluntary action and its delayed outcome. Sense of agency based on action and causation are two explanations for this effect. We first introduced the mechanisms underlying sense of agency related to action and sense of agency related to causation to interpret the intentional binding effect through providing corresponding evidence from both behavioral and neural perspectives. Meanwhile, we discussed the relationship between these two explanations for the intentional binding effect. We provide two perspectives regarding the relationship between the two factors to explain intentional binding effect. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Keywords: voluntary action; sense of agency; causation; intentional binding effect ",
+        "page_idx": 13
+    }
+]

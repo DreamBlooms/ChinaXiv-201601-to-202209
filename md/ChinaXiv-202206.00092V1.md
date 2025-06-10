@@ -1,0 +1,222 @@
+# 蓖麻根腐病抗性鉴定及其SSR标记的初步建立
+
+刘海燕，陆建农，殷学贵\*，顾帅磊，谢钰，张柳琴，黄冠荣，刘朝裕，张肖肖，左金鹰（广东海洋大学 滨海农业学院，广东 湛江 524088）
+
+摘要：蓖麻根腐病是茄腐镰孢菌（Fusariumsolani）引起的根部病害，严重威胁蓖麻产量。由于缺乏抗源，制约了抗病品种的选育。为寻找抗病种质、建立抗性分子标记，本研究对252份材料的抗性进行了表型和分子标记鉴定。结果表明：（1）浓度为 $1 \times 1 0 ^ { 6 }$ 个 $\cdot \mathrm { m } \mathrm { L } ^ { - 1 }$ 的孢子悬浮液灌根是一种有效的接种方法；以接种后枯萎天数为基础的5级评价法，可作为鉴定标准。（2)鉴定出了130份抗病材料，其中高抗的105份。（3)野生材料中抗病材料比例（ $6 6 \%$ 远高于栽培材料（ $3 5 \%$ )，建议将野生材料，尤其是中国华南野生材料的研究利用作为今后抗病育种的重要方向。（4）初步建立了8个与抗性关联的 SSR标记。该结果提供了有效的根腐病抗性鉴定方法和评价标准，筛选出了一批育种迫切需要的抗病基因资源，初步建立了可用于辅助选择的SSR标记，为蓖麻抗根腐病育种奠定了重要基础。
+
+关键词：蓖麻，根腐病，抗病性鉴定，茄腐镰孢菌，孢子悬浮液，SSR中图分类号：S435.656 文献标识码：A 文章编号：
+
+# Identification of resistance to root rot and preliminary establishment of its SSR markers in castor bean
+
+LIU Haiyan，LU Jiannong，YIN Xuegui\*，GU Shuailei，XIE Yu， ZHANG Liuqin，HUANGGuanrong，LIU Chaoyu， ZHANG Xiaoxiao， ZUO Jinying  
+(Collge of Coastal Agricultural Sciences， Guangdong Ocean University， Zhanjiang 524088,Guangdong， China)
+
+Abstract: Castor root rot is a root disease caused by Fusarium solani, which seriously threatens the production of castor bean.Due to the lack of resistance genes,the breeding for root rot resistance in castor bean was seriously restricted. In order to mine resistant resources and establish resistant molecular markers,the phenotypic and molecular marker identification was performed on the disease resistance of 252 castor accessions in this study. The results were as follows: (1)
+
+Irrigating roots with the conidia suspension of $1 \times 1 0 ^ { 6 }$ spores $\cdot \mathrm { m L ^ { - 1 } }$ was an effective inoculation method. The 5-grade evaluation method based on the days of wilt after inoculation could be used as the criteria to evaluate the resistant level of accessons objectively. (2) According to the criteria, the resistance of 252 accessons were divided into five grades from high to low,among which grade l was high resistance and grade 2 was moderate resistance. The number of accessions with different grades from 1 to 5 were 105,25,33,31 and 58 respectively,accounting for $42 \%$ ， $10 \%$
+
+$13 \%$ ， $12 \%$ and $23 \%$ respectively. 130 resistant accessions were identified,of which 105 were high resistance and 25 were moderate resistance. (3） The proportion of resistant accessions in wild accessions $( 6 6 \% )$ was much higher than that in cultivated accessions $( 3 5 \% )$ . Among wild accessions from South China, $69 \%$ were resistant accessions,and $60 \%$ were high resistance accessions.It is strongly suggested that the research and utilization of wild accessions, especially the wild accessons in South China, should be an important direction of resistance breeding in the future. (4) 8 SSR markers associated with the resistance were preliminarily established. Although different resistant accessions carried different marker or marker combination, most of them carried 3 to 4 of the above markers,therefore,they can be used as resistant molecular markers for assisted selection. The results of this study provide an effective method and evaluation criteria for root rot resistance identification, screen out a number of resistance genetic resources urgently needed in breding,and preliminarily establish the SSR markers available for assisted selection, which lay an important foundation for resistance breeding of castor bean root rot.
+
+Key words: castor bean,root rot, resistance identification, Fusarium solani, conidia suspension, SSR
+
+蓖麻（Ricinus communisL.）属于大戟科、蓖麻属，一年生草本或多年生草质木本，是重要的工业用油作物。蓖麻的主要经济价值在于蓖麻油。由于独特的理化性质，蓖麻油广泛应用于航空航天、机械制造、医药化工、纺织印染等多个领域(Fan et al.,2019;Xu etal.,2021)。随着经济的发展，国内外对蓖麻油的需求持续增加，市场供不应求。由于缺乏高产抗病品种，近十几年来，我国蓖麻种植面积持续减少，蓖麻籽进口依赖率持续高达 $90 \%$ 以上。
+
+蓖麻病害种类繁多，我国报道的有30多种（汤健蓉等，2021)，国外报道的有50多种（Parmar etal.,2018)，其中枯萎病是最主要的病害，其病原菌为尖孢镰刀菌蓖麻专化型（Shaw etal.,2018,2022)。目前枯萎病还没有统一的鉴定方法和评价标准。国外常用的接种方法有浸根法（Dange& Desai,2003;Raoof et al.,2008）、病盆法（Shaw et al.,2016,2022）、灌根法（Raoof et al.,2008; Shaw et al.,2016）和浸种法（Shaw etal.,2016)。浸根法和病盆法工作量大且繁琐，不适合大批量鉴定；浸种法虽然操作简单，但接种感染率低，其可靠性还有待验证（Shaw etal.,2016)；灌根法操作简单，只要选择适宜的菌液浓度，即可模拟大田发病条件，对材料做出客观的评价。国内根据茎叶病斑大小及多少将枯萎病抗性划分为 $0 \sim$ 4共5个等级（沙洪林等，2002；刘伟等，2012)；国外主要根据发病率（Kumar etal.,2015）、死亡天数（Shaw etal.,2016）和枯萎天数（Shaw etal.,2018,2022）进行抗性评价。
+
+随着蓖麻在华南地区种植面积的增加，发病程度也日趋严重，发病率平均为 $2 6 \%$ ，严重的地块超过 $50 \%$ ，甚至全田死亡。经采样分离和基因组测序鉴定证明，最主要的病害是根腐病，病原菌为茄腐镰孢菌（Fusarium solani）（Zhou etal.,2019）。除病原菌不同之外，根腐病发病症状与枯萎病完全相同，均表现为根部维管组织变黑、叶片萎蔫、最后整株枯萎、根系腐烂而死亡。目前尚无根腐病抗性鉴定方法、评价标准和抗性种质资源筛选方面的研究报道。
+
+蓖麻是一个遗传多样性很低的物种（Allan etal.,2008；Bajay etal.,2009)。近年来研究者们将目光投向了野生材料，证明野生材料的遗传多样性高于栽培材料（Xuetal.,2019,2021),而中国华南野生材料的遗传多样性又高于已经报道的其它蓖麻群体(汪亚菲等,2019;Agyenim-Boateng et al.,2019；杨婷等，2020)，其中，中国广东的材料遗传多样性最高，其次是中国广西，中国海南的最低（汪亚菲等，2019；Agyenim-Boateng et al.,2019)。这意味着野生蓖麻材料，尤其是中国华南野生蓖麻材料中可能蕴藏着更多的抗性材料。
+
+本研究以252份蓖麻材料为研究对象，通过对其进行表型和分子标记鉴定，拟探讨以下问题：（1）为蓖麻根腐病抗性鉴定提供有效的方法和标准；（2）对野生材料，尤其是中国华南野生材料的育种价值作出科学评价，筛选出一批育种急需的抗病资源；（3）建立可用于辅助选择的分子标记，为蓖麻抗根腐病育种奠定重要基础。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+# 1.1.1 蓖麻材料
+
+供试材料由三部分组成，一是广东海洋大学蓖麻课题组提供的66份自交系和杂交种；二是来自11个国家15个地区的65份自交系、杂交种和少量野生材料；三是121份中国华南野生材料。
+
+1.1.2 供试菌株
+
+供试菌株为茄腐镰孢菌（Fusarium solani)，由广东海洋大学滨海农业学院植物病理研究室分离、保存和提供。
+
+# 1.2材料的种植
+
+用 $2 . 5 \%$ 的次氯酸钠溶液浸泡种子 $1 0 \mathrm { m i n }$ ，经自来水清洗后，用 $5 0 \ \mathrm { ^ \circ C }$ 温水浸种 $3 0 \mathrm { m i n }$ 洗净后播种于盛有灭菌营养基质的育苗盘，每穴播1粒种子。当幼苗四叶一心时，进行人工接种。在接种后第4d，选择规格一致的幼苗移栽到花盆中，每盆5棵，每个材料3盆。
+
+# 1.3孢子悬浮液的制备及接种方法
+
+将试管保存的茄腐镰孢菌转接到PDA培养基上培养7d，打取直径 $0 . 5 \mathrm { c m }$ 的菌饼，接种到 PDA培养基中扩繁；7d后加入无菌水，刮取表面菌丝，4层纱布过滤后，用血球计数板在光学显微镜下计算分生孢子的数量，用无菌水将浓度调至 $1 \times 1 0 ^ { 6 }$ 个孢子 ${ \cdot { \mathrm { m L } } ^ { - 1 } }$ 。四叶一心时，采用灌根法接种，即在每株幼苗根际周围的基质中注射 $1 5 ~ \mathrm { m L }$ 孢子悬浮液。接种后的材料置于温室内培养，温度 $2 0 { \sim } 2 8 \ \mathrm { ^ circ C }$ 、相对湿度 $70 \% \sim 8 0 \%$ ，自然光照明。
+
+# 1.4抗病性鉴定
+
+采用接种后的枯萎天数和发病率作为评价指标，只要有枯萎就算发病。接种后，每天调查不同材料的发病时间、发病株数并计算发病率和抗病材料比率，直至无新的发病株出现（本试验为60d)，则停止调查。
+
+抗性评价标准：1级（高抗）， $6 0 \mathrm { d }$ 以上；2级（中抗)， $4 6 { \sim } 6 0 \mathrm { d }$ ；3级 $3 1 { \sim } 4 5 \mathrm { d }$ ；4级$1 6 { \sim } 3 0 \mathrm { d }$ ；5级 $1 \sim 1 5 { \mathrm { d } }$ 。
+
+发病率 $( \% ) =$ （发病株数/调查株数） $\times 1 0 0$ 抗病材料比率 $( \% ) = [$ （1级材料数 $+ 2$ 级材料数）/材料总数 ${ \mathrm { ~  ~ \ l ~ } } \times 1 0 0$
+
+# 1.5抗病性分子标记的建立
+
+1.5.1基因组DNA的提取与检测
+
+采用改良的CTAB 法（Cullings,2010）提取基因组DNA。用 $1 \%$ 的琼脂糖凝胶电泳检测DNA 的完整性，用 NaNoDRop-2000 仪器检测DNA的质量和浓度，统一稀释至 $3 0 { \mathrm { ~ n g } } { \cdot } { \mathrm { \textmu L } } ^ { - 1 }$ 后， $\mathrm { ~ - ~ } 2 0 ~ \mathrm { { ^ { \circ } C } }$ 保存备用。
+
+1.5.2多态性引物的筛选
+
+先构建极端抗、感材料的DNA混池，用于筛选多态性引物。然后用小群体抗、感个体验证筛选出的多态性引物，并对非多态性引物进行再次筛选，以防多态性引物的遗漏。1.5.3PCR扩增及产物鉴定
+
+使用 $1 0 ~ \mu \mathrm { L }$ 的反应体系，包括模板 $1 ~ \mu \mathrm { L }$ （ $3 0 \mathrm { n g } { \cdot } \mathrm { \mu } \mathrm { L } ^ { - 1 }$ ）、引物 $1 ~ \mu \mathrm { L }$ （ $. 1 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ ）、 $2 \times$ Taq
+
+PCR Master Mix $4 \mu \mathrm { L }$ ( $1 0 \times$ Buffer $2 \mu \mathrm { L }$ 、25 mmol·L-1 MgCl2 1.6 μL、 ${ 5 \mathrm { U } { \cdot } \mathrm { \textmu L } ^ { - 1 } }$ Taq DNA 聚合酶$0 . 2 ~ \mu \mathrm { L }$ 、10 mmol·L-1 dNTPs $0 . 2 ~ \mu \mathrm { L }$ ）、 $\mathrm { d d H } _ { 2 } \mathrm { O } 4 \mu \mathrm { L }$ 。扩增程序为： $9 4 ~ \mathrm { ^ { \circ } C }$ 预变性 $5 \mathrm { m i n }$ ; $9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $3 0 ~ \mathrm { s }$ ， $5 5 \ \mathrm { ^ \circ C }$ 复性 $3 0 ~ \mathrm { s }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $4 5 \mathrm { ~ s ~ }$ ，共35个循环； $7 2 \ \mathrm { { ^ \circ C } }$ 终延伸 $7 \mathrm { m i n }$ ; $4 \mathrm { { ^ \circ C } }$ 保存。PCR扩增在Biorad（MyCycler）型PCR仪进行。扩增产物用 $6 \%$ 非变性聚丙烯酰胺凝胶分离，$2 2 0 \mathrm { V }$ 恒压电泳分离 $2 . 5 \mathrm { h }$ 。银染、水洗、显影后读带。
+
+# 1.5.4基因型数据的读取
+
+采用0、1数据记录电泳分离结果，在相同位置上，有带记为1，无带记为0。
+
+# 1.5.5相关回归分析
+
+参照单标记定位原理（翟虎渠和王健康，2007)，对252份材料作抗性和分子标记间的回归分析，若回归关系显著，则为抗病分子标记。用SPSS 26.0统计分析软件处理相关数据。
+
+# 2结果与分析
+
+# 2.1菌株的培养和孢子悬浮液的制备
+
+培养基上菌株长势良好（图1：A-B)，光学显微镜下分生孢子形态正常（图1：C)。经镜检，孢子液浓度为 $1 \times 1 0 ^ { 6 }$ 个孢子·mL-1。
+
+![](images/114ec3086378960a9ea865aa49cd486adfc7da37791754b7363d6c17cf2dcd0c.jpg)  
+图1茄腐镰孢菌的菌落及显微形态图
+
+A．菌落正面；B.菌落背面；C.分生孢子；标尺 $= 1 0 ~ { \mu \mathrm { m } }$ 。 A.Colony front；B.Colony back；C.Conidia；scale ${ \mathrm { : = } } 1 0 { \mu \mathrm { m } }$
+
+Fig.1 Colony and microscopic morphology of Fusarium solani
+
+# 2.2抗病性鉴定
+
+不同材料的发病率存在明显差异（表1)，最低的为0，有105份材料，均为高抗；最高的为 $100 \%$ ，有5份材料，发病最快，均为高感，表明发病条件充分、抗性鉴定结果可靠（图2)。
+
+![](images/1ea47245d5468cf731895d99f61567940c81631ce4ee6a737a328df0cfcf8b51.jpg)
+
+A.FTB001（接种后第 $1 0 { \dot { \mathrm { d } } } { \dot { } }$ ；B.Y-1H-27GH（接种后第27d)；C.9048-12P/ES037M（接种后第13d)；D.YB4S-4/1003（接种后第 $\mathrm { ^ { 7 d } }$ ）
+
+A.FTB001( $1 0 ^ { \mathrm { t h } }$ day after vaccination);B.Y-1H-27GH( $2 7 ^ { \mathrm { t h } }$ day after vaccination)； C.9048-12P/ES037M(13t day after vaccination)；D. YB4S-4/1003( $7 ^ { \mathrm { t h } }$ day after vaccination).
+
+图2蓖麻材料的根腐病发病症状Fig.2 Root rot symptoms of castor accessions
+
+252份材料中，抗性从1到5级分别有105份（ $42 \%$ ）、25份（ $10 \%$ ）、33份（ $13 \%$ ）、31份（ $12 \%$ ）和58份（ $23 \%$ ）（图3)，抗病材料比例为 $52 \%$ 。抗病材料中，中国华南野生材料占 $64 \%$ （表1)。野生材料的抗病材料比例（ $66 \%$ ）明显高于栽培材料！ $( 3 5 \% )$ ，其中中国华南野生材料为 $69 \%$ ，非洲野生材料为 $43 \%$ ；117份栽培材料中，来自中国广东海洋大学、中国云南、以色列、印度和法国的材料抗病比例分别为 $3 6 \%$ 、 $47 \%$ 、 $44 \%$ 、 $3 8 \%$ 和0(表1)。
+
+不同来源的材料中，各抗性级别的材料比例有较大差异（表1)。中国广东海洋大学材料中，最抗（ $24 \%$ ）和最感材料（ $32 \%$ ）的比例都较高，可能与所用的亲本有关，其亲本一类是中国华南野生材料，另外一类是农艺性状较好但抗病性较差的国内栽培材料；中国云南材料中高抗材料比例（ $41 \%$ ）较高，可能是云南蓖麻资源本身很丰富，另外可能与东南亚热带种质资源的利用有关。
+
+![](images/8e54a543f573b3986cbf50a3ea97e25fec672ba2ede46a19c990d04653fcc634.jpg)  
+图3不同抗性等级蓖麻材料所占比例
+
+Fig.3 Proportion of castor accessions with different resistance grades
+
+# 表1252份蓖麻材料抗根腐病鉴定结果
+
+Table 1 Identification of resistance to root rot of 252 castor accessions   
+
+<html><body><table><tr><td>菲律宾</td><td rowspan="16"></td><td colspan="2">France 法国</td><td colspan="2"></td><td colspan="2">India 印度</td><td colspan="2"></td><td colspan="2">Israel</td><td>以色列</td><td colspan="2"></td><td></td><td colspan="2">China Yunnan,</td><td>中国云南</td><td colspan="2"></td><td></td><td></td><td></td><td>CW, China</td><td></td><td>中国华南野</td><td></td><td>Origin</td><td></td><td></td><td></td></tr><tr><td>I</td><td>4</td><td></td><td>I</td><td></td><td>乙</td><td>乙</td><td></td><td>I</td><td>乙</td><td></td><td>乙</td><td></td><td>乙</td><td></td><td>I</td><td></td><td>L</td><td>g</td><td></td><td></td><td>u</td><td></td><td></td><td>u</td><td></td><td>Number 份数</td></tr><tr><td></td><td>S</td><td></td><td></td><td>s 4</td><td></td><td>乙 一</td><td>s</td><td>4</td><td>乙 8</td><td></td><td>一</td><td>s</td><td>4</td><td>乙</td><td></td><td>I</td><td></td><td>S</td><td></td><td></td><td>c</td><td>乙</td><td></td><td></td><td>R grade 抗性级别</td></tr><tr><td></td><td>20～100</td><td>记</td><td>8~17</td><td>8~17</td><td>8~20</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>13~25</td><td></td><td></td><td>0</td><td>8~44</td><td></td><td>8~50</td><td>9~40</td><td>8~25</td><td></td><td>0</td><td>Incidence 发病率</td></tr><tr><td>Shtxi.China</td><td>中国山西 China</td><td>川</td><td></td><td>中国台湾 Mozambique</td><td></td><td>缅甸 Kazakhstan</td><td>哈萨克斯坦</td><td>Congo The republic of</td><td>刚果布</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Ethiopia</td><td></td><td></td><td></td><td></td><td></td><td></td><td>中国广东海洋</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>埃塞俄比亚</td><td></td><td></td><td></td><td></td><td></td><td>GDOU, China </td><td></td><td>Origin 材料来源</td></tr><tr><td>I</td><td></td><td>I</td><td></td><td>乙</td><td>I I</td><td>乙</td><td>I</td><td></td><td>I I</td><td>I</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>I</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>乙</td><td>乙</td><td>I</td><td></td><td>c</td><td></td><td></td><td>6</td><td></td><td>8</td><td></td><td></td><td>Number 份数</td></tr><tr><td>s</td><td>4</td><td>s</td><td></td><td>S I</td><td></td><td>I</td><td>s</td><td></td><td>I</td><td></td><td>一</td><td></td><td>s 4</td><td>c</td><td>乙</td><td></td><td>I</td><td>S</td><td></td><td>4</td><td></td><td>乙</td><td></td><td></td><td>R grade 抗性级别</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>u</td><td></td><td>8</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td>8</td><td></td><td></td><td></td><td></td><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>发病率</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>9~100</td><td></td><td></td><td></td><td>8~33</td><td></td><td>0</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>40~60</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Incidence</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>17~60</td><td></td><td>29~42</td><td></td><td></td><td></td><td></td><td></td><td>8~80</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20~2</td><td></td><td></td><td></td><td></td><td></td><td>8~60</td><td></td><td></td><td></td><td></td><td></td></table></body></html>
+
+注：GDOU为中国广东海洋大学材料；SCW为中国华南野生材料。
+
+Note：GDOU refers to the materials from Guangdong Ocean University,China；SCW refers to the wild materials in South China.
+
+发病率和抗病等级基本呈一致趋势（表2)。105份高抗材料的发病率均为0；抗性 $2 { \sim } 5$ 级的材料，虽然同一等级下发病率变化范围较大，但总的趋势是等级越高，发病率越高，反之亦然；另外，越是感病材料，发病率变化范围也越大， $2 { \sim } 5$ 级的材料发病率分别为 $20 \%$ 以内、 $10 \% { \sim } 4 0 \%$ 、 $1 0 \% { \sim } 6 0 \%$ 和 $1 0 \% \sim 1 0 \%$ 。
+
+Table 2 The proportion of accessions with different resistance grades under different incidence
+
+表2不同发病率下各级别材料所占比例  
+
+<html><body><table><tr><td rowspan="2">发病率 Incidence</td><td rowspan="2">总数 Sum</td><td colspan="2">2级</td><td colspan="2">3级</td><td colspan="2">4级</td><td colspan="2">5级</td></tr><tr><td>Grade 2 N</td><td>P</td><td>Grade 3</td><td>P</td><td>Grade 4</td><td>P</td><td>Grade 5 N</td><td>P</td></tr><tr><td>≤10</td><td>134</td><td>12</td><td>9</td><td>N 4</td><td>3</td><td>N 6</td><td>4</td><td>7</td><td>5</td></tr><tr><td>>10</td><td>118</td><td>13</td><td>11</td><td>29</td><td>25</td><td>25</td><td>21</td><td>51</td><td>43</td></tr><tr><td>>20</td><td>79</td><td>6</td><td>8</td><td>20</td><td>25</td><td>15</td><td>19</td><td>38</td><td>48</td></tr><tr><td>>30</td><td>58</td><td>1</td><td>2</td><td>13</td><td>22</td><td>13</td><td>22</td><td>31</td><td>53</td></tr><tr><td>>40</td><td>36</td><td>0</td><td>0</td><td>7</td><td>19</td><td>7</td><td>19</td><td>22</td><td>61</td></tr><tr><td>>50</td><td>20</td><td>0</td><td>0</td><td>4</td><td>20</td><td>3</td><td>15</td><td>13</td><td>65</td></tr><tr><td>>60</td><td>13</td><td>0</td><td>0</td><td>2</td><td>15</td><td>0</td><td>0</td><td>11</td><td>85</td></tr><tr><td>>70</td><td>12</td><td>0</td><td>0</td><td>2</td><td>17</td><td>0</td><td>0</td><td>10</td><td>83</td></tr><tr><td>>80</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>100</td></tr></table></body></html>
+
+注：N为材料数目；P为比例。 Note：N refers to accession number；P refers to the proportion.
+
+# 2.3抗病分子标记的建立
+
+# 2.3.1DNA的提取
+
+琼脂糖凝胶电泳显示，条带无明显拖尾现象。OD260/OD280比值在 $1 . 8 \sim 2 . 0$ 之间。说明DNA提取质量较好，可用于PCR扩增。
+
+# 2.3.2多态性引物的筛选
+
+从393 对带型清晰、多态性好的引物中筛选出了76对多态性 SSR引物，用于252 份材料的基因组扫描（图4）。
+
+![](images/c0752ef731a2086641e06854e617d9e4a43f3e4d003b2df3b68da0caa82ccc59.jpg)  
+图4引物RCM330扩增图谱 Fig.4 Amplification profiles of primers RCM330
+
+M.Marker；1-60.样品编号。   
+M.Marker；1-60.Number of samples.
+
+# 2.3.3抗病标记的确定
+
+76对多态性引物共扩增出542个等位变异，每对引物可检测到 $2 \sim 1 2$ 个，平均为7.132个。4对 SSR引物与抗病性之间的相关性显著或极显著，它们是RCM1634、RCM1639、RCM1435和RCM1368（表3)。抗病性分别与这4对引物扩增出的8条带之间回归关系显著或极显著（表4)，是可能的抗病分子标记。
+
+# 表34对SSR引物信息
+
+Table 3 Information of 4 pairs of SSR primers   
+
+<html><body><table><tr><td>引物 Primer</td><td>正向引物序列(5'-3') Forward primer sequence (5'-3')</td><td>反向引物序列(5'-3') Reverse primer sequence (5'-3')</td><td>退火温度 Annealing</td></tr><tr><td>RCM1634</td><td>TCAAGTTAAGTAGTGGGACATGACA</td><td>CAAAGTCATGCTCGATTAGGC</td><td>temperature 59.98</td></tr><tr><td>RCM1639</td><td>AATACCAAACAAGCCCCATT</td><td>CATGGAATCAATTTCTGAGAT</td><td>58.30</td></tr><tr><td></td><td></td><td>CAT</td><td></td></tr><tr><td>RCM1435</td><td>ACAAATCCTAAAGGGACCCG</td><td>CGAAACCCAGTTTTGGAGAA</td><td>60.18</td></tr><tr><td>RCM1368</td><td>CAGTTATGTAATGCACAAATATACG</td><td>GCTCGAATCCCATGTGTAAAA</td><td>57.47</td></tr></table></body></html>
+
+表4与抗病性关联的分子标记  
+
+<html><body><table><tr><td colspan="4">Table4MoiecuiarmarkersassociatedWinTesistance</td></tr><tr><td>标记</td><td>皮尔逊相关系数</td><td>回归显著性</td><td>回归方程</td></tr><tr><td>Marker</td><td>Pearson correlation coefficient</td><td>Regression Significance</td><td>Regression equation</td></tr><tr><td>RCM1634-160 bp</td><td>-0.139*</td><td>0.013*</td><td>y=2.772-0.553x</td></tr><tr><td>RCM1634-190 bp</td><td>-0.142*</td><td>0.012*</td><td>y=2.893-0.465x</td></tr><tr><td>RCM1639-305 bp</td><td>-0.182**</td><td>0.002**</td><td>y=2.782-0.806x</td></tr><tr><td>RCM1639-350 bp</td><td>-0.128*</td><td>0.021*</td><td>y=2.826-0.427x</td></tr><tr><td>RCM1435-25 bp</td><td>-0.211**</td><td><0.001**</td><td>y=2.819-0.881x</td></tr><tr><td>RCM1435-275 bp</td><td>-0.190**</td><td>0.001**</td><td>y=2.991-0.626x</td></tr><tr><td>RCM1368-208 bp</td><td>-0.284**</td><td><0.001**</td><td>y=2.965-1.003x</td></tr><tr><td>RCM1368-255 bp</td><td>-0.165**</td><td>0.004**</td><td>y=2.780-0.695x</td></tr></table></body></html>
+
+注：\*\*表示 $P { < } 0 . 0 1$ ；\*表示 $P { < } 0 . 0 5$ 。Note: $^ { * * }$ means $P { < } 0 . 0 1$ ； \* means $P { < } 0 . 0 5$
+
+按单个标记统计，携带以上8个标记的材料中抗病材料比例分别为 $6 5 . 5 \% . 5 8 . 1 \% . 7 0 . 8 \%$ $5 8 . 3 \%$ 、 $73 \%$ 、 $57 . 7 \%$ 、 $6 9 . 6 \%$ 和 $6 3 . 8 \%$ ，其中1级材料比例分别为 $56 . 4 \%$ 、 $4 6 . 6 \%$ 、 $61 \%$ 、 $4 6 . 6 \%$ 、$6 8 . 8 \%$ 、 $4 8 . 9 \%$ 、 $62 \%$ 和 $5 5 . 3 \%$ （表5)，只携带单一标记的抗病材料占材料总数的 $6 6 . 6 \%$ （表6)，反映了携带标记材料的整体抗病趋势。
+
+不同抗病材料携带的标记种类和数目不尽相同(表6)，反映了蓖麻根腐病抗性遗传机制的复杂性。不同抗病材料携带的抗病标记数为 $0 { \sim } 6$ 个，随着标记数的增加，抗病材料比例呈现先升后降的趋势。大部分抗病材料携带 $3 { \sim } 4$ 个标记。但是，携带 $5 { \sim } 6$ 个标记的材料，其抗病材料比率并非最高，携带不同标记的材料中都有一些材料表现感病（表5)，甚至不含抗病标记的材料也有表现抗病的（表6)，这可能是某些抗病基因之间存在负向互作及标记与抗病基因之间交换重组所致，有待进一步研究。
+
+# 表5携带不同标记的材料数及其比例
+
+Table 5Number and proportion of accessions with markers   
+
+<html><body><table><tr><td rowspan="3">标记 Marker</td><td colspan="2">总数</td><td colspan="2">1级</td><td colspan="2">2级</td><td colspan="2">3级</td><td colspan="2">4级</td><td colspan="2">5级</td></tr><tr><td colspan="2">Sum</td><td colspan="2">Grade 1</td><td colspan="2">Grade 2</td><td colspan="2">Grade 3</td><td colspan="2">Grade 4</td><td colspan="2">Grade 5</td></tr><tr><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td></tr><tr><td>RCM1634-160 bp</td><td>55</td><td>21.8</td><td>31</td><td>56.4</td><td>5</td><td>9.1</td><td>6</td><td>10.9</td><td>2</td><td>3.6</td><td>11</td><td>20</td></tr><tr><td>RCM1634-190 bp</td><td>131</td><td>52.4</td><td>61</td><td>46.6</td><td>15</td><td>11.5</td><td>16</td><td>12.2</td><td>16</td><td>12.2</td><td>23</td><td>17.6</td></tr><tr><td>RCM1639-305 bp</td><td>41</td><td>16.3</td><td>25</td><td>61</td><td>4</td><td>9.8</td><td>4</td><td>9.8</td><td>4</td><td>9.8</td><td>4</td><td>9.8</td></tr><tr><td>RCM1639-350 bp</td><td>103</td><td>40.9</td><td>48</td><td>46.6</td><td>12</td><td>11.7</td><td>14</td><td>13.6</td><td>12</td><td>11.7</td><td>17</td><td>16.5</td></tr><tr><td>RCM1435-255 bp</td><td>48</td><td>19.1</td><td>33</td><td>68.8</td><td>2</td><td>4.2</td><td>3</td><td>6.3</td><td>3</td><td>6.3</td><td>7</td><td>14.6</td></tr><tr><td>RCM1435-275 bp</td><td>137</td><td>54.4</td><td>67</td><td>48.9</td><td>12</td><td>8.8</td><td>21</td><td>15.3</td><td>15</td><td>10.9</td><td>22</td><td>16.1</td></tr><tr><td>RCM1368-208 bp</td><td>79</td><td>31.4</td><td>49</td><td>62</td><td>6</td><td>7.6</td><td>11</td><td>13.9</td><td>4</td><td>5.1</td><td>9</td><td>11.4</td></tr><tr><td>RCM1368-255 bp</td><td>47</td><td>18.7</td><td>26</td><td>55.3</td><td>4</td><td>8.5</td><td>9</td><td>19.1</td><td>3</td><td>6.4</td><td>5</td><td>10.6</td></tr></table></body></html>
+
+注：N为材料数目；P为比例。下同。 Note：N refers to accession number；P refers to the proportion.The same below.
+
+表6抗病标记数目与抗病材料比例间的关系  
+Table 6Relationship between resistant marker number and resistant material proportion   
+
+<html><body><table><tr><td rowspan="2">标记数目 Marker</td><td colspan="2">总数</td><td colspan="2">1级</td><td colspan="2">2级</td><td colspan="2">3级</td><td colspan="2">4级</td><td colspan="2">5级</td></tr><tr><td colspan="2">Sum</td><td colspan="2">Grade 1</td><td colspan="2">Grade 2</td><td colspan="2">Grade 3</td><td colspan="2">Grade 4</td><td colspan="2">Grade 5</td></tr><tr><td>number</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td><td>N</td><td>P</td></tr><tr><td>0</td><td>28</td><td>11.1</td><td>4</td><td>14.3</td><td>3</td><td>10.7</td><td>4</td><td>14.3</td><td>5</td><td>17.9</td><td>12</td><td>42.9</td></tr><tr><td>1</td><td>9</td><td>3.6</td><td>4</td><td>44.4</td><td>2</td><td>22.2</td><td>1</td><td>11.1</td><td>1</td><td>11.1</td><td>1</td><td>11.1</td></tr><tr><td>2</td><td>16</td><td>6.3</td><td>11</td><td>68.8</td><td>1</td><td>6.3</td><td>0</td><td>0</td><td>2</td><td>12.5</td><td>2</td><td>12.5</td></tr><tr><td>3</td><td>95 77</td><td>37.7 30.6</td><td>40 38</td><td>42.1 49.4</td><td>8 8</td><td>8.4 10.4</td><td>12 10</td><td>12.6 13</td><td>14</td><td>14.7</td><td>21</td><td>22.1</td></tr><tr><td>4</td><td></td><td>9.5</td><td>7</td><td></td><td>3</td><td>12.5</td><td>5</td><td>20.8</td><td>5 4</td><td>6.5</td><td>16</td><td>20.8</td></tr><tr><td>5 6</td><td>24 3</td><td>1.2</td><td>1</td><td>29.2 33.3</td><td>0</td><td>0</td><td>1</td><td>33.3</td><td>0</td><td>16.7 0</td><td>5 1</td><td>20.8 33.3</td></tr></table></body></html>
+
+# 3讨论与结论
+
+国内外尚无蓖麻根腐病统一的鉴定方法和评价标准。Raoof等（2008）和 Shaw 等（2016）的研究结果表明，在蓖麻枯萎病的抗性鉴定中，采用孢子悬浮液灌根接种法更接近于大田发病条件，其抗性评价结果更为客观。本研究参考枯萎病鉴定的经验，形成了根腐病的鉴定方法，即浓度为 $1 \times 1 0 ^ { 6 }$ 个孢子 $\mathrm { \cdot m L ^ { - 1 } }$ 的孢子悬浮液灌根接种，以接种后的枯萎天数划分抗性等级。此法创造了充分的发病条件，对材料抗性做出了客观的评价，这一结果与 Shaw等（2018,2022）的研究结果相似。本研究还证明了枯萎天数与发病率的一致性，因此，建议后续在对大批量材料进行鉴定时，可以把枯萎天数作为评价标准，在对重点材料进行深入鉴定时，除枯萎天数外，还可将发病率作为参考标准。
+
+目前国内外尚无蓖麻根腐病抗性种质筛选的报道。因此，本研究筛选出的130份抗病材料（包含105 份高抗)，为抗根腐病育种提供了一批急需的基因资源，将扭转抗源缺乏的被动局面，为抗病育种迈出了坚实的一步。野生材料的抗病材料比例（ $66 \%$ ）远高于栽培材料（ $3 5 \%$ )，这可能是因为野生材料保留了更高的遗传多样性、蕴含着更多的抗性基因所致（毕川等，2010；Xu etal.,2019,2021；范伟等，2020；陆建军等，2021)。而中国华南野生材料的抗病材料比例（ $69 \%$ ）高于整个野生材料群体，这与它们具有更高的遗传多样性密切相关（汪亚菲等，2019；Agyenim-Boateng et al.,2019；杨婷等，2020）。而且根腐病作为华南地区的主要病害，与该地区特有的自然气候土壤条件密不可分，长期的自然选择使中国华南野生材料进化出了相应的防御机制，因此表现出较高的抗性。基于野生材料具有较高的遗传多样性和抗根腐病比例，可能在枯萎病和灰霉病等其它主要病害中，也表现出较高的抗性。因此，野生材料不失为一个研究切入点，建议在今后的抗病育种中，可以加强野生材料，尤其是中国华南野生材料的研究和利用。
+
+本研究采用的引物筛选方法，既避免了多态性引物的遗漏，又大大减轻了工作量，在后续研究中，可以采用该方法对自然群体进行引物筛选。虽然限于单标记定位法本身的局限性以及多态性引物数量、标记与基因间的遗传距离等原因，建立的这8个抗病标记仍有待进一步研究，但这些标记可以用于大批量材料根腐病抗性的辅助选择。建议后续可以把这些标记作为候选的抗病基因进行深入研究，为基因挖掘和分子育种奠定重要基础。
+
+综上所述，本研究为蓖麻根腐病抗性鉴定提供了有效的方法和评价标准；为育种提供了一批急需的抗病基因资源；提出野生材料尤其是中国华南野生材料的研究利用是今后抗病育种的重要方向；初步建立了抗根腐病 SSR 分子标记，为蓖麻抗根腐病的基因挖掘和分子育种奠定了重要基础。
+
+# 参考文献：
+
+AGYENIM-BOATENG KG,LU J, SHI Y, et al., 2019. SRAP analysis of the genetic diversity of wild castor (Ricinus communis L.) in South China[J]. PLoS One,14(7): e0219667.   
+ALLAN G, WILLIAMS A, RABINOWICZ PD, et al., 2008. Worldwide genotyping of castor bean germplasm (Ricinus communis L.） using AFLPs and SSRs[J]. Genet Resour Crop Evol, 55(3): 365-378.   
+BAJAY MM, PINHEIRO JB, BATISTA CEA, et al., 2009. Development and characterization of microsatelite markers for castor (Ricinus communis L.), an important oleaginous species for biodiesel production[J]. Conserv Genet Resour, 1(1): 237.   
+BI C,2010. Studies on genetic relationship,combining ability & genetic map in castor-oil plant[D]. Zhanjiang: Guangdong Ocean University:1-27．［毕川，2010．蓖麻亲缘关系与配 合力分析及遗传图谱构建[D]．湛江：广东海洋大学：1-27.]   
+CULLINGS KW,2010. Design and testing of a plant-specific PCR primer for ecological and evolutionary studies[J]. Mol Ecol,1(4): 233-240.   
+DANGE SRS,DESAI AG, 2003. Effect of soil solarization on Fusarium wilt of castor[J]. Agric Sci Dig, 23(1): 20-22.   
+FAN W,LU J,PAN C, et al., 2019. Sequencing of Chinese castor lines reveals genetic signatures of selection and yield-associated loci[J]. Nat Comm, 1O(1): 1-11.   
+FAN W,2020.Population genetic analysis of castor (Ricinus communis) based on whole genome resequencing[D].Beijing: Chinese Academy of Agricultural Sciences: 1-58. [范伟，2020.基 于全基因组重测序的蓖麻（Ricinus communis）群体遗传分析[D].北京：中国农业科学院： 1-58.]   
+KUMAR M, SHANKAR VG, RAMYA V, et al., 2015. Enhancing castor (Ricinus communis L.) productivity through genetic improvement for Fusarium wilt resistance-a review[J]. Ind Crops Prod, 67: 330-335.   
+LIU W,LENG TR, ZHANG YW, et al., 2012. Studies on the chemical control of Fusarium wilt of castor bean[J].JJilinAgric Sci,37(3):25-27．[刘伟，冷廷瑞，张云万，等，2012．蓖麻枯 萎病药剂防治的初步研究[J]．吉林农业科学，37(3)：25-27.]   
+LU J, 2021. Genome-wide association analysis of important agronomic traits in castor and wild castor genome assembly[D]. Wuhan: Chinese Academy of Sciences: 87-90. [陆建军,2021．蓖 麻重要农艺性状关联分析及野生种基因组组装[D]．武汉：中国科学院大学：87-90.]   
+PARMAR H, KAPADIYA H, BHALIYA CM, 2018. Integrated management of root rot of castor (Ricinus communis L.) caused by Macrophomina phaseolina (Tassi) Goid[J]. Int J Chem Stud, 6(1): 849-851.   
+RAOOF MA， SUJATHA M， SANTHALAKSHMI PM, 2008. Morphological, pathogenic and genetic variability in castor wilt isolates[J]. Indian Phytopathol, 61(1): 18-27.   
+SHA HL, XUE LJ, JIN ZY, et al., 2002. Study of identification methods and selection of resistance resources of castor bean Fusarium wilt[J]. JJilin Agric Sci, 27(z1): 27-29. [沙洪林, 薛丽静，金哲宇，等，2002．蓖麻枯萎病抗病性鉴定方法及抗病资源筛选研究[J]．吉林农 业科学，27(z1):27-29.]   
+SHAW RK, SHAIK M, MIR ZA, et al., 2016. Establishing a high throughput screening method for large scale phenotyping of castor genotypes for resistance to Fusarium wilt disease[J]. Phytoparasitica, 44(4): 539-548.   
+SHAW RK, KADIRVEL P, SHAIK M, et al., 2018. Genetic characterization of resistance to wilt disease caused by Fusarium oxysporum f. sp. ricini in castor (Ricinus communis L.)[J]. Plant Genet Resour, 16(2): 169-177.   
+SHAW RK, SHAIK M, PRASAD MSL, et al.,2022. Genomic regions associated with resistance to Fusarium wilt in castor identified through linkage and association mapping approaches[J]. Genome, 65(3): 123-136.   
+TANG JR, 2021. Identification of pathogen of fungal disease of castor (Ricinus communis L.) in Zhanjiang area[D]. Zhanjiang: Guangdong Ocean University: 12-21．[汤健蓉，2021. 湛江地 区蓖麻真菌性病害病原鉴定[D]．湛江：广东海洋大学：12-21.]   
+WANG YF,LU JN, SHI YZ, et al., 2019. Genetic diversity analysis of wild castor materials in South China based on SSR markers[J].Mol Plant Breed,17(3): 910-916．[汪亚菲，陆建农， 施玉珍,等,2019.基于 SSR 标记的华南野生蓖麻遗传多样性分析[J]．分子植物育种,17(3): 910-916.]   
+XU W, YANG T, QIU L,et al.,2019. Genomic analysis reveals rich genetic variation and potential targets of selection during domestication of castor bean from perennial woody tree to annual semi-woody crop[J].Plant Direct, 3(10): e00173.   
+XU W, WU D, YANG T, et al., 2021. Genomic insights into the origin, domestication and genetic basis of agronomic traits of castor bean[J]. Genome Biol, 22(1): 1-27.   
+YANG T, LU JN, ZHANG D, et al., 2020. Evaluation and classification of germplasm resources of wild castor in southern China[J]. Chin JOil Crop Sci,42(3): 420-431．[杨婷，陆建农，张 丹，等，2020.华南野生蓖麻种质资源的分类与评价[J]．中国油料作物学报，42(3): 420-431.]   
+ZHAI HQ，WANG JK, 2007. Applied quantitative genetics[M]. Beijing: China Agricultural Science and Technology Press: 269．[翟虎渠，王健康，2007．应用数量遗传学[M]．北京： 中国农业科学技术出版社：269.]   
+ZHOU YH, LIU YL, YIN XG, et al., 2019. First report of Fusarium root rot of castor caused by
+
+Fusarium solani species complex in Zhanjiang, China[J]. Plant Dis,103(9): 2470.

@@ -1,0 +1,174 @@
+# 黄土塬区夏玉米物质生产及水分利用对品种间作竞争的响应
+
+王小林(1,2);徐伟洲(1,2);张雄(1);张岁岐(3)
+
+(1).榆林学院生命科学学院榆林719000;(2).陕西省陕北矿区生态修复重点实验室榆林 719000;土高原土壤侵蚀与旱地农业国家重点实验室杨凌712100
+
+摘要：品种间作竞争具有优化作物个体形态特征和生物量分配的生态效应。综合干旱环境、密度和降雨年际变化影响下的品种间作生物量分配机制研究，可为旱区作物增产增效栽培提供理论依据。试验于2011年(降雨量 $6 4 5 . 0 \ \mathrm { m m }$ ，湿润年份)和2012年(降雨量 $4 9 7 . 1 \mathrm { m m }$ ，干旱年份)调查了两个玉米品种(郑单958和‘沈单16号')、两种密度(4.5万株 $\cdot \mathrm { h m } ^ { - 2 }$ 和7.5万株， $\mathrm { h m } ^ { - 2 }$ ）下隔行间作处理下，地上部生物量和地下部根系形态特征，并分析了品种间作下生物量分配策略、根系竞争机制与产量、水分利用效率的关系。结果显示：(1)干旱增加根系表面积(SA)，低密度间作下‘沈单16号扬花期SA显著降低，高密度间作‘郑单958的SA显著下降 $3 0 . 5 \%$ ，间作下根系对于水资源的竞争随密度的增加而加剧；两个密度和两个不同降雨年份，混作系统$0 { \sim } 2 0 ~ \mathrm { c m }$ 土层根长密度 $( R L D )$ 显著增加，增加密度和雨水亏缺，刺激根系向深层土壤生长，造成 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 王层RLD的增加，且“郑单958'的 $R L D$ 增加幅度远高于‘沈单16号'。(2)间作竞争下生物量积累优势具有品种差异，‘郑单958'集中在营养生长期，而‘沈单16号'集中在生殖生长期；且随密度的增加，间作栽培下单株生物量显著降低。(3)群体收获指数(HI)在高密度混作下，两个不同降雨年份出现平均 $6 . 0 \%$ 的增加幅，雨水充足促进群体HI的提升；根冠比因降雨和密度而变，雨水充足、低密度间作下根冠比较大；干旱和高密度下资源竞争造成‘郑单958'根冠比显著下降;(4)干旱年份玉米品种间作增产优势显著，高、低密度间作增产率分别为 $1 0 . 3 \%$ 和 $2 1 . 4 \%$ ，水分利用效率(WUE)分别增加 $2 8 . 2 \%$ 和 $4 2 . 0 \%$ ；且‘郑单958'增产和增效能力分别较‘沈单16号高出 $1 7 . 6 \%$ 和 $5 0 . 0 \%$ 。综上所述，品种间作栽培下‘郑单958'具有更合理的地上部生物量分配和响应机制，其根系通过减少冗余生长，降低资源消耗来应对土壤干旱，高效的根系自我调节能力和生物量分配机制在间作系统产量形成和WUE提升中起到了关键作用。
+
+关键词：夏玉米；品种间作；生物量分配；资源竞争；水分利用效率；黄土塬区中图分类号：S181
+
+# Responses of dry matter distribution and water use in summer maize (zea mays.L) to cultivars intercropped competition on the Loess Plateau of China
+
+WANG Xiaolin1,2, XU Weizhou1,2, ZHANG Xiong], ZHANG Suiqi3\*\*   
+(1.Colegeoflifesience,YulinUniversityYulin9,China;2.SaiKeyLaboratoryofEcologicalRestorationiabei   
+Mining Area,Yulin719oo,China;3.StateKeyLaboratoryofSoilErosionandDrylandFarmingontheLoess PlateauNorthwest A&F University,Yangling 712100, China)
+
+Abstract:OntheLoess Plateaumaize morphological structureandyield performancewererestricted byrainfallcapacityandsoil nutrientstatus.Resourcecompetitionin intercropedcultivationcanprovideapostiveefectontheindividual establishmentand biomasallocationofmaizecultivars.Theresearchonroot morphologyandbiomassallcationofmaizeunderintegratedinfluenceof annualrainfallevel,plantingdensitisandintercroppedcultivationimedforclearanddefiitetheecesityandimportacefintercropped modelsonthegrain yield and wateruse eficiency(WUE)increase.Field experiment was conducted ataclassic dry farmmingregion inasemi-aridregionofLoessPlateau in Northwest China.Two maizecultivars (Zhengdan958,Z958and Shendan 16, S16) with two planting densities as 45000 plants. $\mathrm { h m } ^ { - 2 }$ and 75000 plants $\mathrm { . h m } ^ { - 2 }$ , intercroped planting in two rows interlaced,aboveandbelowgroundcompetive growthand biomass accumulation were measuredandanalyzedforasessingthecoelationamong biomasallocation,otdistributionainyieldandWUE.Theresultssowedas: (1)Soilwaterdeficiencyshowedaneectivefore to rootsurface area (SA)decrease of S16atflowering stage underlow intercroped density,and SAof Z958 decreased by $3 0 . 5 \%$ under high intercropeddensity，watercompetitionwas intensifiedwiththeintercroppeddensityincrease.Overtwoexperimental years,Z958 and S16 intercropping increased root length density (RLD) in $0 { - } 2 0 ~ \mathrm { c m }$ soil layer significantly, denstiy increase and rainwater deficiencyboth stimulatedrot growingdeeper for wateruptaking whichthenenhancedrotcompetitionforwater,finaly， caused the RLD obvious increase in $3 0 { \cdot } 4 0 \ \mathrm { c m }$ soil layer and Z958 appeared deeper root distribution capacity than S16 in two planting densities. (2)Biomassaccumulatedadvantageunder intercroped planting hadagentype diference,Z958appeared growing promotiondurigvegetative periodandthatofS16was duringreproductive period.Individual biomassoftwo maizecultivars decreased withtheintercroped density increase,and there hadaincrease in S16dry weight during duringreproductive growing period compared with thatof Z958 in2O11underlow intercroped planting density;with high densityand more droughtcondition,maize cultivars ntercropsdecreasedindividualbiomassaccmulationafterflowering.(3)thehigh intercropeddensitysystembtaieda increase of harvest index (HI) by $6 . 0 \%$ averagely over two different rainfall years,and ample rain promoted the HI of intercroped group.Rootand shootcould grow normallyue toinefficentlightcompetitionunder thesufficient precipitationandlowplanting density;Soildroughtandigintercropeddensityrsultedintesigificantdecreaseofottoshootate(RSR)inZ958becausete rootcompetion for water was enhanced.(4)Inthe drought year (2Ol1)，competitive advantagewas fullyappeared inthetwo intercroped systems,showed as final yield and WUE increased by 10.3 and $2 1 . 4 \%$ ，28.2 and $4 2 . 0 \%$ respectively in the two intercroped densities, furthermore,yield and WUE of Z958 under mixed system were 17.6 and $5 0 . 0 \%$ higher than S16 over two years. Finaly,Z958showedreasonal biomass distributionandresponse mechnisimtosoildroughtunderintercropping with S16,through decreasedrootredundant growthanduselessresouces consume.Efectiverotmorphologicaladjustmentandbiomass distributionof Z958 were responsible for yield and WUE increase.
+
+Keywords: Summer maize; Cultivars mixed cropping; Dry mater distribution; Resource competition; Water use efficiency; Semi-arid region on the LoessPlateau
+
+黄土塬区实现植物根系高效汲取土壤水分和养分并合理调整光合产物分配，是植物适应土壤干旱、提高资源利用效率的关键。不同作物品种间作栽培可改善作物复合群体冠层结构，使不同形态作物能够多层次利用光能资源和土壤水分、养分资源[。玉米高矮品种间作形成的波浪式冠层结构，增加群体受光面积，改善冠层内部通气状况、提高群体内 $\mathrm { C O } _ { 2 } \mathrm { \cdot }$ 浓度，间作优势还可体现在叶片光合速率、植株形态发育和生物量分配等各个方面，实现光合产物积累和分配的有效调节[2]。朱敏等3研究认为，玉米品种间作生长习性形成互补，可增强植株对逆境的适应性和抗性，并有效防止由于品种单一而产生的防御机制脆弱现象。间作系统中，品种特征的一致性和差异性相统一，高秆品种的增产潜力与矮秆品种的稳产性相结合，品种抗性、形态可塑性、系统发育等方面的协调互补对群体的增产稳产至关重要[4]。刘天学等[5]总结指出：合理的间作模式，应由不同形态特征、不同生育期资源需求的作物，组合形成不同时空生态位互补的复合群体，通过增强农田生态系统的稳定性、提高作物群体对逆境胁迫的抗性，来实现光、热、水、肥、土、气等自然资源的高效利用。目前，品种间作模式研究多集中于群体质量、光合生理和抗性方面的研究，而品种间作根系形态发育、单株生物量积累和分配与产量形成的关系研究较少。
+
+Weiner 等研究认为通过适当改变植物根冠生物量分配，可实现有限的光照、水分和养分资源的高效利用，提高植物适应能力和竞争力。相对于直接的外界环境因素而言，植物内在基因型不同也会影响其生物量的分配规律[2-3]。植物通过根、茎、叶生物量的差异性分配来适应土壤水分时空异质性、光照强度层次分布等外部环境差异；植株生长和物质分配的异速增长规律，集中反映了环境因子、遗传因子、植物生长调控和物质分配间的协调适应策略[7]。基于遗传适应和环境调控的作物间作栽培系统对有限资源的有益竞争，必然形成较强的群体特异性[I，表现为产量的增加或资源利用效率的提升[7]。玉米(Zea mays.L)不同基因型、不同品种适应特性间作，可显著优化群体复合结构，形成高效的冠层形态结构，提高光能截获率和作物光合速率；根系相互交错，提高单位体积土壤的根系分布，实现产量增加的同时，可以保证作物对水肥资源的高效利用[8]。植物响应环境条件的变化是通过调节各构件生物量分配，以最大化地获取光、土壤营养和水分等受限资源]。间作植物地上和地下部分的竞争强度是随环境不断变化的，两者之间的动态平衡，赋予植物更强的表型可塑性和环境适应性[7-8]。间作竞争导致的生物量分配可塑性变化贯穿植物的整个生活史，决定着植物在不同环境中获取和利用资源的能力[10-11]，品种竞争能力的加强是以资源消耗和产量降低为代价的，竞争能力增强势必影响养分的再分配和有效利用，制约产量的形成[1.5，12]。所以，在黄土旱地雨养农业区，科学合理利用作物(品种)形态可塑性及环境适应性特征，通过间作栽培实现种间竞争的产量和水分利用正向效应具有重要的现实意义。
+
+在黄土旱地雨养农业区，品种间作竞争对玉米单株根冠形态发育的研究有待深入，生物量积累和分配规律还不清楚。群落生产效率的提升空间和潜力必须建立在单株生产能力提升的基础之上，所以，本试验从干物质生产角度出发，以不同的年份降雨为环境背景，通过分析生物量分配与品种间作竞争效应的关联性阐明品种间作模式下水分利用与产量提升的形态学规律，可为旱地玉米栽培、产量和水分利用提升提供理论依据和实践参考。
+
+# 1材料与方法
+
+# 1.1试验地概况
+
+试验在中国科学院水利部水土保持研究所长武生态农业试验站进行。试验站位于黄土高原中南部陕甘交界处，陕西省长武县洪家镇王东村 $( 1 0 7 ^ { \circ } 4 0 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { E }$ ， $3 5 ^ { \circ } 1 2 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { N } )$ ，海拔 $1 2 0 0 \mathrm { ~ m ~ }$ ，属暖温带半湿润半干旱大陆性季风气候，光照充足，昼夜温差较大；年均降雨量 $5 8 4 . 1 ~ \mathrm { m m }$ ，且多集中于7—9月份，年均气温 $9 . 1 ~ \mathrm { ~ \textdegree ~ }$ 无霜期171d，作物种植多为一年一季；地下水埋深 $5 0 { \sim } 8 0 \mathrm { ~ m ~ }$ ，田间持水量年均值在 $20 \%$ 左右，属典型旱作农业区；地貌属高原沟壑区，塬面和沟壑两大地貌单元各占 $3 5 \%$ 和 $6 5 \%$ ；地带性土壤为黑泸土，土体结构均匀疏松， $0 { \sim } 2 0 0 ~ \mathrm { c m }$ 土壤容重均值为 $1 . 4 0 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ ；土壤有机质含量为 $1 1 . 5 8 ~ \mathrm { g { \cdot k g ^ { - 1 } } }$ ，全氮 $0 . 8 0 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，碱解氮$5 2 . 4 5 ~ \mathrm { m g { \cdot k g ^ { - 1 } } }$ ，全磷 $0 . 6 7 9 \ \mathrm { g \cdot k g ^ { - 1 } }$ ，速效磷 $1 1 . 1 4 ~ \mathrm { m g { \cdot k g ^ { - 1 } } }$ ，速效钾 $1 5 4 . 8 8 ~ \mathrm { m g { \cdot } k g ^ { - 1 } }$ ，是黄土高原沟壑区典型性土壤。生育期降雨量分布和温度变化见图1。试验区域50年平均降雨量为 $5 7 8 \ \mathrm { m m }$ 。试验期间，玉米生育期降雨量表现为：2011年降雨量高出50年平均值 $1 1 . 6 \%$ ，而2012年降雨量低出50年平均值 $1 4 . 0 \%$ 。具有明显的降雨差异，必然对混作玉米的生长发育、产量形成和水分利用产生具有生态学意义的影响。
+
+![](images/d50675b3c10f24c63552ec5fe19fa2a674d207e778ea6a91be41bf3c6da14c25.jpg)  
+图12011—2012玉米生育期降雨与温度日变化 Fig.1Precipitation and daily temperature during maize growth in 2O11 and 2012
+
+# 1.2试验设计及处理
+
+试验选用黄土塬区普遍种植、不同株型的高产玉米品种：紧凑型‘郑单 958'和半紧凑型‘沈单16号’。两个品种生育期相近，适应范围广、耐密植、高抗倒性和抗病性；适宜种植密度如下：‘郑单958"密度范围为6.00\~7.50万株 $\mathrm { h m } ^ { - 2 }$ ；‘沈单16号'密度范围为5.25\~7.25万株， $\mathrm { h m } ^ { - 2 }$ 。
+
+试验分别于2011和2012年4—10月进行。‘郑单 $9 5 8 ^ { \circ } ( \mathrm { A } )$ 和‘沈单16号'(B)进行两个密度水平[4.5万株 $\mathrm { h m } ^ { - 2 } ( 1 )$ 和7.5万株 $\mathrm { h m } ^ { - 2 } ( 2 ) ]$ 的双行间作试验。两个密度、两个品种间作处理2个(A1B1和 A2B2)，间作行比1:1，采用 $5 0 ~ \mathrm { c m }$ 等行距覆膜种植；两个密度下品种单作为对照处理4个(CK-A1,CK-A2,CK-B1,CK-B2)；小区面积为 $1 5 ~ \mathrm { m } ^ { 2 }$ ，各处理均3次重复，采用随机区组试验设计。播前施用底肥N $1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 9 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { K } _ { 2 } \mathrm { O } 9 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；各处理于拔节期雨后追施 $\mathrm { ~ N ~ } 1 8 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，其余操作皆与当地农户相同。
+
+# 1.3取样方法及数据分析
+
+地上部生物量：分别于6叶期(V6)、12叶期(V12)、抽雄期(VT)、灌浆初期(R1)、乳熟期(R3)，蜡熟期(R5)和成熟期(R6)，各处理随机选择代表性植株3棵，于地面上 $. 5 \ \mathrm { c m }$ 处切断，室内切段分装，于105 $\mathrm { { ^ \circ C } }$ 杀青 $0 . 5 \mathrm { ~ h ~ }$ 并在 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘至恒重，称量统计。
+
+根系形态：在玉米扬花期利用根钻法(直径 $9 \ \mathrm { c m } \times$ 高度 $1 0 \ \mathrm { c m } ,$ 进行根系形态取样测定，取样位置如图2所示，分别在行间(P1)、株上(P2)和株间(P3)每小区取样3株, $0 { \sim } 1 0 0 \ \mathrm { c m }$ 每 $1 0 \mathrm { c m }$ 深度取样一次；土样分装在标注好的塑料袋中，利用尼龙网筛去除大部分土壤，然后在缓流水柱下清洗，洗出根系样本防水信封中保存。室内利用Epson Perfection V700(Seiko Epson Crop，Suwa,Japan)进行根系扫描，根系长度、根系表面积利用WinRHIZO (Regent Instrument Inc., Quebec,Canada） 软件分析获得。
+
+![](images/1835e4599861e3181708840c34f92dda5eae3b9f529ae039c73b421debfdd232.jpg)  
+图2玉米品种'郑单958(Z958)和沈单16号(S16)间作模式及根系取样点(P1,P2,P3)示意图 ig. 2 Sketch mapofmixed cropping patern of maize varieties‘Z958'and‘S16' and positions (P1,P2,P3)ofrotssampling
+
+产量测定:2011和2012年分别在9月15和20日进行籽粒收获，选择各处理小区中间4行，选择长度为 $2 \mathrm { m }$ 连续玉米植株，两玉米品种分别摘取所有成熟穗，去除苞叶，装入测产专用网袋，风干至 $1 5 \%$ 含水量，进行籽粒产量测定。籽粒称取 $5 0 0 \ \mathrm { g }$ ，装袋放置 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下烘干至恒重，结合收获期地上部干物质量，利用公式(1)计算收获指数(HI):
+
+$$
+\begin{array} { r } { H I = \frac { G B } { G B + S B } } \end{array}
+$$
+
+式中：GB为籽粒干重,SB为地上部营养器官干重。
+
+耗水量测定：土壤含水量分别在播前和收获期利用土钻法测定，于不同品种相邻的两行间选取3处样点， $0 { \sim } 1 0 0 \mathrm { c m }$ 土层每 $1 0 \mathrm { c m }$ 取样1次， $1 0 0 { \sim } 2 0 0 \mathrm { c m }$ 土层每 $2 0 \mathrm { c m }$ 取样1次，利用烘干法测定土壤含水量，水量平衡法计算土壤储水量差值。生育期降雨量利用长武生态农业试验站气象观测场连续监测获得，耗水量利用农田水量平衡法计算，产量和耗水量计算水分利用效率(WUE)。间作产量根据测定的混作品种各自产量，结合间作比例，得出间作模式产量:
+
+$$
+Y _ { i } { = } Y _ { a i } { \times } Z _ { a i } { + } Y _ { b i } { \times } Z _ { b i }
+$$
+
+$$
+E T { = } \Delta S W S { + } P _ { i }
+$$
+
+$$
+W U E { = } Y _ { i } / E T
+$$
+
+式中: $Y _ { i }$ 为间作产量, $Y _ { a i }$ 为间作模式下品种A的产量, $Y _ { b i }$ 为间作模式下品种B的产量, $Z _ { a i }$ 为品种A的间作面积占比, $Z _ { b i }$ 为品种B间作间作面积占比, $E T$ 为耗水量， $\Delta S W S$ 为播前、收后土壤储水量差， $P _ { i }$ 为降雨量,WUE为水分利用效率。
+
+# 1.4数据分析
+
+不同处理间平均值比较利用SPSS Statistics17中单因素方差分析(ANOVA, $P < 0 . 0 5$ )。品种间显著性分析采用最小显著差法(LSD, $P < 0 . 0 5 )$ 进行比较分析。
+
+# 2.结果与分析
+
+# 2.2品种间作下单株生物量积累
+
+随生育期延伸，单株生物量呈增加趋势。品种间作模式下，种间资源相互竞争抑制单株生物量积累(图3)。营养生长期，间作栽培对单株生物量无显著影响，但两玉米品种呈现出此消彼长的现象。降雨充足有利于'郑单 958'生物量积累，尤其是营养生长期；进入生殖生长阶段后，间作显著降低'郑单 958'生物量分配;\*沈单 16 号'低密度间作下生殖生长迅速；降雨量不足时，间作郑单958'营养生长迅速，而进入生殖生长后生物量积累较单作降低；间作‘沈单16号'生殖生长期生物量高于'郑单958'和其单作栽培。相对于同密度的单作而言，扬花期是生物量间作优势消失的转折点，扬花期之前，间作栽培下两品种生物量积累呈正增加,‘郑单958"明显大于‘沈单16号'的增长幅度。灌浆期伊始，两玉米品种生物积累都受到间作竞争的限制，‘沈单 16 号'尤为显著。
+
+![](images/fc42aaef93b95d40f718a5fd7b39addfcb54b64d4afed22d252764a41f402296.jpg)  
+图32011年(A,B)和2012年(C,D)不同种植密度下品种间作对玉米生育期生物量积累的影响.g.3Effect oftwo maize cultivars intercrops ondry matter accumulation at different maize growth periods in 201l an
+
+1B1-Al(BI）表示两玉米品种低密度间作下 Z958(S16）的单株生物量动态变化;A2B2-A2(B2）表示高密度间作下两玉米品种Z958(S16）的单株生物量动态变化；CK-A1(B1,A2,B2)分别表示两种密度单作栽培下两玉米品种生物量积累动态变化。A,B表示2011年相同密度下品种间作栽培与单作下单株生物量差异性;C,D显示2012年相同密度下品种间作栽培与单作下单株生物量差异性(均值±SE);柱状图上标不同字母表示生物量积累在相同生育期不同处理间的显著性 $( P < 0 . 0 5 )$ ,下图相同。,A1B1-A1(B1) represents the dynamic changes of individual biomass in Z958 (S16)under low inter-copedsitcofassieodsitindicatesthedcadaoassfolioafoddatodddiferent letersabove histograms indicates thesignificantvariationamong thetreatmentsatO.O5levels,thesameas below.
+
+# 2.3品种间作下玉米收获指数 $( H I )$ 的变化
+
+HI反映籽粒干重与地上部生物量积累之间的关系。间作品种的地上、地下部资源竞争，总体有助于间作体系 $H I$ 的增加，即生物量优化配置，有助于光合产物向籽粒转移、积累。从图4可以看出，两玉米品种间作有助于 $H I$ 增加，低密度间作 $H I$ 平均增加 $1 . 3 \%$ ，雨水充足的2011年增加 $6 . 3 \%$ ，缺水的2012年减少 $3 . 8 \%$ 高密度间作HI两年平均增加 $6 . 0 \%$ ，雨水充足年份增加 $7 . 6 \%$ ，缺水年份增加 $4 . 4 \%$ 。
+
+![](images/676eaa718091bfd8b4a5915d2c21762ce366abffa70d4caba5613c254e2645e3.jpg)  
+图42011年(A)和2012年(B)间作下玉米收获指数 $( H I )$ 的变化ig.4Changes of HI under mixed cultivation in 2O11(A) and 2012(B不同字母表示不同处理间差异显著 $( P < 0 . 0 5 )$ 。A1B1表示两玉米品种低密度间作下 $H I$ 均值变化;A2B2表示高密度间作下两玉米品种HI均值变化;CK-A1(B1,A2,B2)分别表示两种密度单作栽培下两玉米品种 $H I _ { \circ }$ A,2011;B,2Ol2; the different letters above histograms indicates the significantvaritionamogattesept58teisittdtei
+
+density; CK-A1(B1,A2,B2) indicates the dynamic changes of individual biomass of twocultivars in monoculture.
+
+# 2.4品种间作对玉米扬花期根系总表面积(SA)的影响
+
+在雨水充足年份，玉米品种间作显著降低玉米扬花期SA，‘沈单16号低密度间作SA较同密度单作降低$8 . 8 \%$ ，‘郑单958'降低 $6 . 7 \%$ ；‘郑单958'高密度间作SA较同密度单作降低 $2 0 . 8 \%$ ，沈单16号'降低 $9 . 2 \%$ ；降雨较少年份,SA 显著减少；在低密度间作下，‘沈单16 号'的 SA 较同密度单作显著降低 $1 6 . 2 \%$ ，而‘郑单958'显著增加 $2 1 . 1 \%$ ；高密度间作下，‘郑单958'的SA较同密度单作显著降低 $2 5 . 3 \%$ ，而'沈单16号'增加 $9 . 3 \%$ 图5)。在高密度间作体系中，‘沈单16号'的 SA 两个降雨年份都无显著变化，而'郑单958'的 $S A$ 呈现显著降低现象。
+
+![](images/f1864d4fda699f66d9ac387a88266fcd3ebdc4df8bdefd47724918deee7867a5.jpg)  
+图52011年(A)和2012年(B)间作下玉米扬花期总根系表面积
+
+Figure 5root surface areas under intercropped cultivation at maize flowering stage in 2Ol1 (A)and 2012 (B),A,2011年;B,2012年；柱状图上标不同字母表示不同处理间总根系表面积在0.05 水平的显著性差异。A,2011;B,Ol;thderentletesabovehstogamsidcatestheigniicantvartionamongthetreatmentsatOlevels.
+
+# 2.5品种间作对玉米扬花期根长密度(RLD)的影响
+
+![](images/ce31cfc426864edd2aed578a48aeb1235932a4b352b33478793b269165bc6b12.jpg)  
+图6品种间作下玉米扬花期根长密度 $( R L D )$ 的垂直分布
+
+Fig.6 the vertical distribution of root length density under mixed cultivation at flowering stage1B1-A1(B1)表示两玉米品种低密度间作下 Z958(S16）的单株生物量动态变化;A2B2-A2(B2）表示高密度间作下两玉米品种 Z958(S16）的株生物量动态变化;CK-A1(B1,A2,B2)分别表示两种密度单作栽培下两玉米品种生物量积累动态变化。A,B表示2011年相同密度下品种间作栽培与单作下单株生物量差异性;C,D显示2012年相同密度下品种间作栽培与单作下单株生物量差异性(均值 $\pm \mathrm { S E }$ ；柱状图上标不同字母表示生物量积累在相同生育期不同处理间的显著性 $( P < 0 . 0 5 )$ 。; A1B1-A1(B1) represents the dynamic changes of individual biomassin Z958 (S16)under low intercroppeddesity;dyamicchangsfalostisioolueataoiadtatfsowdidtiletters above histograms indicates the significant variation among the treatments at O.O5 levels.
+
+玉米品种间作竞争和土壤水分时空异质性具有调节玉米根长密度 $( R L D )$ 垂直分布的综合效应。年际间降雨差异引起土壤含水量的生育期变化，显著影响两间作玉米品种 $0 { \sim } 4 0 \mathrm { c m }$ 土层 $R L D$ 分布。湿润年份(2011年)，低密度间作水资源竞争相对缓和，‘郑单 958'和‘沈单16 号'的 $R L D$ 在 $0 { \sim } 2 0 \ \mathrm { c m }$ 土层显著增加$1 1 . 1 \% { \sim } 4 7 . 6 \%$ ）， $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层呈显著降低趋势 $( - 1 5 . 1 \% \sim 2 4 . 5 \% )$ ；干旱年份(2012年)，根系对水分的竞争较为激烈，造成低密度间作下 $R L D$ 在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层相对于单作显著增加 $( 3 6 . 8 \% \sim 1 1 9 . 7 \% )$ ，且 $4 0 \ \mathrm { c m }$ 深度呈增加趋势(图6-a和6-b)。高密度间作体系中，单株对土壤水分的竞争程度更加激烈，尤其是降雨较少的年份；雨水充足的年份，郑单958'和'沈单16号'高密度间作下 $R L D$ 在 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层显著增加( $( 1 6 . 4 \% \small { \sim } 4 9 . 7 \% )$ ，且沈单16号'增加幅度大于'郑单 $9 5 8 ^ { \circ }$ ；在雨水亏缺年份，高密度间作下品种根系对水分竞争强度增加, $R L D$ 较单作只有在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 浅层土壤呈显著增加 $( 7 . 4 \% { \sim } 4 5 . 5 \% )$ ,且‘郑单958'增加幅度 $1 6 . 3 \% { \sim } 4 5 . 5 \%$ ，远大于沈单16号的 $7 . 4 \% \sim 2 2 . 9 \%$ ；在 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层 $R L D$ 呈减少现象，郑单958'的 $R L D$ 减少幅度达 $1 8 . 6 \%$ (图6-c 和6-d)。
+
+# 2.6品种间作下植株根冠比(RSR)的差异
+
+品种间作RSR 受品种根系生长特性和生育期降雨量的综合影响(图7)。湿润年份(2011年)两品种间作下RSR都呈降低趋势，高密度间作下‘沈单16号'较单作显著降低；两品种间作RSR 随密度的增加，降低幅度增加，‘郑单958'降低幅度为 $2 . 1 \% { \sim } 9 . 4 \%$ ，‘沈单16号'为 $6 . 2 \% \sim 2 5 . 2 \%$ ；干旱年份(2012年)两品种间作下RSR表现出品种差异，间作下·郑单 $9 5 8 ' R S R$ 显著降低：低密度间作降低 $1 3 . 0 \%$ ，高密度间作降低 $2 8 . 4 \%$ ；低密度间作下‘沈单16号'的RSR 显著增加 $5 3 . 5 \%$ ，高密度间作下增加幅度为 $1 2 . 3 \%$ 。品种根系生长特性随降雨时空分布而发生自我调节现象，尤其是'郑单 $9 5 8 ^ { \circ }$ 。
+
+![](images/3ac13659ffdaa757de660224f86b7aef7aee1aa8a485e2dce3d12c2d5756100c.jpg)  
+图7间作下玉米品种根冠比的差异性变化
+
+Fig.7Differences of root to shoot ratio (RSR) in two maize cultivars under mixed cultivation 下同字母表示不同处理间在O.O5水平的显著性差异。Diffrent ettrs indicates significant diferenceamongtreatments at0.5 levels.，
+
+# 2.7品种间作下产量形成和水分利用效率变化
+
+品种间作产量和WUE的增加受到生育期降雨量、品种特性及栽培密度的综合影响。湿润年份(2011年),品种低密度间作产量和WUE增加幅度不明显， $( 0 . 7 \%$ 和 $1 . 0 \% \AA$ ；高密度间作在土壤水分充足条件下，产量和WUE出现降低现象( $- 2 . 0 \%$ 和 $. 0 . 2 \%$ ，表1)。干旱年份(2012年)，品种间作竞争起到积极的增产增效作用，产量在高、低密度间作下较单作分别增加 $1 0 . 3 \%$ 和 $2 1 . 4 \%$ ，其中‘郑单958'增加幅度高于‘沈单16号';WUE 在高、低密度间作下较单作分别增加 $2 8 . 8 \%$ 和 $4 2 . 0 \%$ ，且在两种间作密度下'郑单958'的WUE增加幅度较'沈单16号'高出 $1 7 . 6 \%$ 和 $5 0 . 0 \%$ ;WUE在品种间作下的增长率大于产量增长率；干旱年份，郑单958'具有更强的混作增产增效优势。
+
+表1不同密度品种间作下玉米产量、耗水量 $( E T )$ 和水分利用效率(WUE)的差异  
+ble1thesignificantdiferencesamong yield,ETandWUEunder twomaizecultivars intercroppedintwoplantingdensitie   
+
+<html><body><table><tr><td>处理</td><td>产量</td><td>增长率</td><td>产量</td><td>增长率</td><td>耗水量</td><td>水分利用效率</td><td>增长率</td><td>水分利用效率</td><td>增长率</td></tr><tr><td>Treatment</td><td>Yield</td><td>%</td><td>Yield</td><td>%</td><td>ET</td><td>WUE</td><td>%</td><td>WUE</td><td>%</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td colspan="2">2011</td><td colspan="2">2012</td><td colspan="2">2011</td><td colspan="2">2012</td><td colspan="2">2012</td></tr><tr><td>A1B1</td><td>9.13c †</td><td>0.7</td><td>13.85 c</td><td>21.4</td><td>353.14 a b</td><td>345.34 c</td><td>2011 25.84 c</td><td>1.0</td><td>40.10 a b</td><td>42.0</td></tr><tr><td>A2B2</td><td>12.92 b</td><td>-2.0</td><td>15.42 a</td><td>10.3</td><td>352.87a b</td><td>351.01b c</td><td>36.62 a b</td><td>-0.2</td><td>43.93 a</td><td>28.8</td></tr><tr><td>CK-A1</td><td>9.09 c</td><td></td><td>11.45 d</td><td></td><td>347.99 b</td><td>361.49 b</td><td>26.12 c</td><td></td><td>32.69 d</td><td></td></tr><tr><td>CK-B1</td><td>9.11 c</td><td></td><td>12.57 c</td><td></td><td>360.06 a</td><td>373.98a b</td><td>25.31 c</td><td></td><td>33.61 d</td><td></td></tr><tr><td>CK-A2</td><td>14.13 a</td><td></td><td>14.35 b</td><td></td><td>368.47 a</td><td>383.10 a</td><td>38.36 a</td><td></td><td>37.45 c</td><td></td></tr><tr><td>CK-B2</td><td>12.12 b</td><td></td><td>14.99 b</td><td></td><td>345.14 b</td><td>380.48 a</td><td>35.11 a b</td><td></td><td>39.39 b c</td><td></td></tr><tr><td>Density (D)</td><td colspan="8">**</td><td colspan="3"></td></tr><tr><td>Year (Y)</td><td colspan="3">**</td><td colspan="2"></td><td colspan="2">NS</td><td colspan="3"></td></tr><tr><td>DxY</td><td colspan="3">*</td><td colspan="2">NS NS</td><td colspan="2"></td><td colspan="3">* *</td></tr></table></body></html>
+
+ψ产量单位: $\times 1 0 ^ { 3 } \mathrm { k g . h m ^ { - 2 } }$ ；耗水量单位：mm；水分利用效率单位： $\mathrm { k g } \mathrm { h m } ^ { - 2 } \mathrm { m m } ^ { - 1 }$ ；每列不同字母表示间作系统与单作处理间的显著性 $( P { < } 0 . 0 5 )$ 差异; 增长率表示相同年份、相同密度下间作产量和WUE 相对于同年同密度单作的增长率 $( \% )$ ；\*和\*\*表示相同密度处理间和年份间显著性 $( P < 0 . 0 5 )$ ;NS,不 显著。The different lettrs in a row showed the significant differences among intercropped system and monoculture at $P < 0 . 0 5$ ; the number in a bracket represents theincreaserateof yieldand WUEinamixed system compared with monoculture inthesame yearand density; \*and $^ { * * }$ indicated the significant differencesamong the treatments with same planting densities or the treatments inthesame year;NS,non-significant.
+
+# 3讨论
+
+植物如何协调形态发育与功能之间的资源配置和利用，即植物在生长过程中如何调节根、茎、叶各器官生物量分配来实现有限资源的高效利用，也是植物适应逆境胁迫环境的自我调节策略[13-14]。本试验两年间降雨量差异较大，形成年际间土壤含水量的鲜明对比，对黄土旱区玉米品种生物量积累和分配造成不同程度的影响，土壤干旱降低单株生物量，增加根系生物量和生长深度，群体收获指数有所提升，适度干旱有助于生物量向籽粒积累，但受栽培密度和栽培模式的综合影响。
+
+植物生物量分配与功能发挥存在密切的关联性，植物获取资源的能力与该植物直接向吸收该资源营养器官的能量投入呈正相关[15-16]。较高大的植株或具有较大叶面积指数的群体，就会有相对较高的光竞争能力，而庞大的根系有相对较高的水分、养分竞争能力[2]。基于上述原理，黄土旱区玉米品种间作模式下，影响植株生物量积累和分配的因素，如品种特性和资源现状，就可以作为激发间作竞争正效应的客观依据。试验结果表明，玉米品种间作竞争抑制单株总生物量的积累，但在不同的降雨年份和发育阶段，表现出明显的品种差异，湿润年份，‘沈单16号'在低密度间作时具有较高的生物量积累速率，与其株型特点和生长习性相关；而'郑单958'在高密度间作和干旱年份，生殖生长后期具有较强的生物量积累能力(图3)。收获指数(HI)可以有效反映籽粒形成与地上部生物量积累之间的关系，在间作竞争环境下，HI总体呈增加趋势，高密度间作增加幅度更加明显(两年均值 $6 . 0 \%$ )；缺水年份和低密度间作，HI出现降低现象，分析原因可能为竞争正效应弱于水分胁迫负效应(图4)。从生物量分配角度分析，相对于‘沈单16号'而言，间作下郑单958'具有更强的自我调节和资源利用能力，而且干旱年份自我调节能力更加明显，植株通过降低营养器官资源消耗比例，提高籽粒生物量转化积累，尤其在籽粒灌浆期对有限资源的适应和调配更加稳定高效。
+
+根系是最先感知到土壤水分变化的功能构件，是连接土壤和植物地上部构件的桥梁8，间作栽培营造更加复杂和多样的根际关系，提升不同植物间根系的相互作用和交流[17]。当土壤中水分含量或养分含量较低时，植物更容易受到水分和养分的限制，植物分配至根系的生物量会增加，以获取更多的土壤水肥资源[18]；相反，当土壤水分和养分充足时，植物将更多的生物量分配至地上部分以增加光合作用能力[9]。不同玉米基因型根系生物量、侧根长对于局部土壤水分、养分存在显著的互作效应[19]，而品种间作会增强此效应的强度。本研究显示，玉米品种间作竞争下根系形态特征与品种生长习性和间作密度紧密相关。低密度间作显著降低两玉米品种 $0 { \sim } 3 0 \mathrm { c m }$ 土层根长密度 $( R L D )$ ，高密度间作则显著降低 $0 { \cdot } 1 0 \mathrm { c m }$ 土层RLD，干旱条件下增加植株 $R L D$ 的同时，加剧间作与单作栽培之间的 $R L D$ 差异；干旱年份，‘郑单958'在 $0 { \sim } 2 0 \mathrm { c m }$ 土层 $R L D$ 增加幅度大于沈单16号'，且 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层 $R L D$ 降低幅度大于沈单16号'；湿润年份，低密度间作 $0 { - } 2 0 \mathrm { c m }$ 土层 $R L D$ 显著降低，而高密度间作显著性差异发生在 $0 { \cdot } 1 0 \mathrm { c m }$ 土层；根系总表面积(SA)两个降雨年份间差异较大，湿润年份品种间作降低 SA，高密度下较显著；干旱年份植株 SA 显著降低，低密度间作‘沈单16号'显著降低，高密度间作‘郑单 958'显著降低；说明‘郑单 958'在应对土壤干旱时具有更灵活的根系生长自我调节机制和适应干旱的能力。史振声等2的研究同样认为，在干旱年份，低密度间作下单株水资源占有率有限，所以竞争力度增加，根系分布较单作在 $0 { \sim } 4 0 \ \mathrm { c m }$ 显著增加；而随着间作密度的增加，单株水分资源获得率降低、土壤水资源有效性减弱，两者同时限制根系的伸长生长，而在耕层土壤中的根系分布就会尽最大可能吸收土壤水分，造就了 $0 { - } 2 0 \mathrm { c m }$ 土层 $R L D$ 显著增加，缓解土壤缺水造成植株生长受限，‘郑单958'充分体现了竞争环境下根系应对土壤相对干旱的灵活性和高效性，是间作体现增产增效的主要贡献者。
+
+根系与冠层构成了作物的整体功能系统，二者结构和功能的最优匹配对提高作物水分利用效率具有重要意义，根冠比可充分表征植物生物量在地下部和地上部器官中的分配策略[20]。Hammer[21等认为在美国玉米品种更替过程中，对产量有直接影响的是根系构型的优化，而非冠层结构的改变。因此，在我国黄土旱地农业区，可以通过栽培模式调节根系发育和控制营养器官生长，改变生物量在营养器官和生殖器官间的分配比例，实现产量增加和水资源高效利用[22.23]。本研究结果显示，间作玉米品种根冠比(RSR)存在明显差异，随间作密度的增加，根冠对资源竞争加剧，根冠比显著降低；但在干旱年份‘沈单16号'低密度间作 RSR 显著增加，湿润年份高密度间作显著降低；而'郑单 958'RSR 两个降雨年份皆是高密度间作显著降低，反映了品种在竞争环境地上部、地下部生物量分配策略：‘沈单16号'低密度竞争下牺牲地上部生物量来增加根系的资源获取能力，高密度时根系竞争力减弱，根系生物量远小于冠层生物量；‘郑单958通过调节根系冗余生长，降低资源的过渡消耗来保障冠层功能和最终产量的形成(图7)。在不同的土壤水分条件下，植物通过调整地上和地下部器官生物量的分配产生形态可塑性生长[24]，当光合产物向某一功能器官分配增加时，势必导致向其它功能分配的减少，也就是说，个体竞争能力的提高将极有可能导致生殖功能分配的减少，这样对群体高产来说是不利的[25]。但是，在间作栽培模式下，只要个体因资源竞争而获得的收益大于为此而付出的代价，那么优化个体生物量分配模式的间作竞争将有利于作物群体产量和资源利用效率的提升[2.26]
+
+资源竞争对于不同植物在生物量分配上的影响存在差异[20]。营养生长与繁殖生长的分异现象在竞争环境下变化更加多样和复杂，禾本科植物燕麦繁殖器官生物量分配比例随资源竞争强度的增加呈上升趋势，根生物量分配则逐渐减少；物质转移过程也随着竞争环境的变化，差异性集中体现在生殖生长期即籽粒形成阶段[22]。生物量分配在营养器官和生殖器官中的比例，最终影响光合产物转移和籽粒形成[27]。增加间作密度降低根系自身对有限资源的损耗，同时提升单根资源吸收和运输能力，显著增加间作优势和地下部贡献率，地上部、地下部器官合理竞争可提高群体干物质生产力，从而弥补单株生产力的下降，有利于密植效应充分发挥[28]。本研究结果得出，干旱年份，间作竞争在可有效提高产量和水分利用效率(WUE)，高、低密度间作增产率分别为10.3和 $2 1 . 4 \%$ ，WUE分别为28.2和 $4 2 . 0 \%$ ；且‘郑单958'增产和增效能力分别较'沈单16 号'高出 $1 7 . 6 \%$ 和 $5 0 . 0 \%$ (表 1)，干旱环境下‘郑单 958'具有更强的间作增产、增效优势得力于'郑单 958'灵活、高效的根系自我调控能力和器官间物质合理配置机制。
+
+# 4.结论
+
+间作栽培模式下，品种单株生物量较单作普遍降低；‘郑单958'在高密度间作下籽粒灌浆后期生物量积累较大，低密度间作下随生育期的延伸，单株生物量逐渐减小，降雨年份间差异不明显；降雨量对‘沈单16号'影响较大，在低密度间作下单株生物量显著增加，干旱年份和高密度间作显著制约‘沈单16 号'单株生物量积累；地上部生物量变化与根系形态紧密相关，低密度间作下‘沈单16号'扬花期根系总表面积显著降低高密度间作下‘郑单958的根系总表面积显著下降，直接影响到水分、养分运输和地上部生长；密度增加和降雨减少都会加剧间作品种根系对土壤水肥的竞争，造成间作体系中 $0 { - } 2 0 \mathrm { c m }$ 土层两个玉米品种根长密度显著增加，雨水亏缺加强间作竞争对根长密度的促进作用，并造成 $2 0 { \cdot } 4 0 \ \mathrm { c m }$ 土层根长密度的增加，且表层土壤中'郑单958'的根长密度增加幅度远高于‘沈单16号';干旱和间作密植造成'郑单958根冠比显著下降体现出‘郑单958减少根系冗余和资源无效损耗的自我调节机制；高密度间作，不同降雨年份收获指数出现平均 $6 . 0 \%$ 的增加幅度得益于高强度的间作竞争对于生物量分配的调配作用；干旱年份产量和WUE增长显著，玉米品种高、低密度间作增产率分别为10.3和 $2 1 . 4 \%$ ，WUE分别为28.2和 $4 2 . 0 \%$ ；且‘郑单958'增产和增效能力分别较'沈单16号'高出 $1 7 . 6 \%$ 和 $5 0 . 0 \%$ ，充分证明了‘郑单958具有更强的根系自我调节能力和灵活的生物量分配机制，高密度间作可充分发挥品种特性和发挥间作竞争的增产增效潜力。
+
+# 参考文献 References
+
+[1]刘天学，李潮海，付景，等．不同基因型玉米间作的群体质量[J].生态学报,2009,29(11):6302-6309.
+
+LiuTX,LiCH,FuJ,etal.Populationqualityofdierent Maize (ZeamaysL.)genotypes intercropped[J].ActaEcologica Sinica,2009,29(11): 6302-6309   
+[2] 史振声，朱敏，李凤海，等．玉米不同品种间作的增产效果研究[J]).玉米科学,2008,16(2):107-109 Shi ZH,ZhuM,LiFH,etal.ResearchonYield-icreasingofiferentKindsofaize[J].MizeSci2008,6(2):1009   
+[3] 朱敏．不同基因型玉米混作研究初报[J]．中国种业,2010,(8):63-65 Zhu M. Preliminary research of different genotypes intercropping [J]. Seed industry,2O10 ,(8): 63-65 [4] 李潮海，苏新宏，孙敦立．不同基因型玉米间作复合群体生态生理效应[J]．生态学报,2002,22(12):2096～2103. Ecophysiological CharacterizationofDiferent Maize（ZeamaysL.）GenotypesunderMono-orInter-cropping Conditions[J]. Acta Ecologica Sinica,2002,22(12): 2096-2103. [5] 刘天学,王振河，董朋飞，等．玉米间作系统的生理生态效应研究进展[J].玉米科学,2007,15(5):114-116,124 LiuTX,WangZH,DongF,ealResearchrogresofysiolgicalandEcologicalEfects inMizeItercroppingSystem,J maize sci,2007,15(5): 114-116,124 [6] Weiner J. Allocation,plasticity and allometry in plants[J]. Per Plant Eco,Evol Syst,2004,6: 207-215 [7] 贾风勤，张娜，纳森.巴特.干旱地区不同生境庭荠生物量的分布研究[J].西南林业大学学报(自然科学版),2017,37(2):   
+128-134 JiaFQ,ZhangN,BNasen.StudyonBiomassDistributionof Alyssum desertorum Under Diferent Habitats inArid Area[J]. J Southwest Fore Univ,2017,37(2):128-134 [8]王小林,张岁岐．黄土塬区不同玉米品种间作的竞争力表现 [J]．中国生态农业学报,2013,21(11):1403-1410 Wang XL,ZHang SQ.Competitiveness of intercropped maizecultivars intheLoess Plateau, China[J]. ChineseJEco-Agri,   
+2013, 21(11): 1403-1410 [9]谢然，陶冶，常顺利．四种一年生荒漠植物构件形态与生物量间的异速生长关系[J].生态学杂志,2015,34(3):648-655 XieR,Tao Y,Chang SL.Allometric relationshipbetweenmodularmorphologyandbiomassoffourannuals in theGurbantunggu Desert, China [J]. Chin JEco,2015,34(3): 648-655 [10] 刘文辉，张英俊，师尚礼，等．高寒地区燕麦(Avena sativaL.)人工草地生物量分配对施肥和混播措施的响应 [J]．植物营 养与肥料学报,2017,23(2):398-407 Liu WH,Zhang YJ,Shi S,etal.Efectofvariety,fertilzationand mixturesowing onoatbiomassallocationin thealpine cultivated pasture [J]. Plant Nutr Fert Sci,2017,23(2): 398-407 [11] 王杨，徐文婷，熊高明，等．木生物量分配特征 [J]．植物生态学报,2017,41(1):105-114 Wansg Y,XuW,XiongGM,etal.Biomass allcation paternsofLoropetlumchinense[J].CinJPlantEco,17,41(1):   
+105-114 [12] 王小林，张岁岐，王淑庆.不同密度下品种间作对玉米水分平衡的影响 [J].中国生态农业学报,2013,21(2):171-178 Wang XL,Zhang SQ,Wang SQ.Efects ofcultivars intercroppingonmaize waterbalance under diferent planting densities [J] Chin J Eco-Agr,2013,21(2): 171-178 [13]赵春玲．双基因型玉米间作品种组合及行比模式研究[D]．硕士学位论文，河南农业大学，郑州,2010,32-34 Zhao CL.Study on model of varietycombination and row ratio for maize inercropping with double genotypes [D]. Master degree dissertation, Henan agricultural university, ZhengZhou,2010,32-34 [14]罗永开，方精云，胡会峰．山西芦芽山14种常见灌木生物量模型及生物量分配[J]．植物生态学报,2017,41(1):115-125 Luo YK,Fang JY,HuHF.Bomassestimationmodelsandallcatiopaernsof14 srub species inMountainLuya,Shanxi, China [J]. Chin JPlant Eco,2017,41(1): 115-125 [15]张维，杨晓绒，贾娜尔·阿汗，等．新疆伊犁河岸小叶白蜡复叶构件生物量分配[J].干旱区研究,2016,3(1):114-119 Zhang W,YangXR,JianaerH,etal.Biomass locationamong ComponentsofCompoundLeavesofFraxinussogdianainYili River Reaches, Xinjiang [J]. Arid Zone Res,2016,33(1): 114-119 [16]FujitaY,VenterinkHO,VanBodegomPM.Lowinvestmentinsxualreproductionthreatensplantsadaptedtophospors lim itation [J]. Nature,2014,505: 82-86 [17]陈哲，伊霞，陈范骏，等．玉米根系对局部氮磷供应响应的基因型差异 [J].植物营养与肥料学报,2017,23(1):83-90 Chen Z,YinXChenFJ,etal.Diferentialresponseofmaizerots toeterogeneous localnitrogenand phosphorussupplyand genotypic differences [J].Plant Nutr Fert Sci,2017,23(1): 83-90 [18]史振声，朱敏,李凤海，等．玉米不同品种间作增产机制 [J]．种子,2008,12:1-4 Shi ZH,ZhuM,LiFH,etal.Mechanismofyieldincreaseindiferentheightmaizecultivarsinter-plantingsystem[J].Sed,   
+2008, 12: 1-4 [19] 廖荣伟，刘晶淼，白月明，等．玉米生长后期的根系分布研究[J]．中国生态农业学报,2014,22(3):284-291 Liao RW,LiuJM,BaiYM,etal. Spatial distributionandtemporalvariationofmaizerootin thesoilunderfieldconditions [J]. Chinese Journal of Eco-Agriculture,2014,22(3): 284-291 [20] 杨弦，郭焱培，安尼瓦尔·买买提，等．中国北方温带灌丛生物量的分布及其与环境的关系[J]．植物生态学报,2017,   
+41(1): 22-30 Yang X,GuoYP,Mohhamot A,etal.Distributioofbiomassinelatio toevironments inshrublandsof temperate China[J]. ChinJPlant Eco,2017,41(1):22-30   
+[21] HammerGL,Dong Z,McleanG.Canchanges incanopyand/orrootsystemarchitecture explainhistoricalmaize yieldtrends in the U. S. Corn Belt [J]? Cro Sci,2009,49: 299-312   
+[22]赵宏魁，马真，张春辉，等．种植密度和施氮水平对燕麦生物量分配的影响 [J]．草业科学,2016,3(2):249-258 Zhao HK,Ma Z,Zhang CH,etal.Thereproductive alocationofavenasativa underdiferentplantingdensitiesandnitrogenaddition treatments [J]. Prata Sci,2016,33(2): 249-258   
+[23] 刘梅，吴广俊，路笃旭，等．不同年代玉米品种氮素利用效率与其根系特征的关系[J].植物营养与肥料学报,2017, 23(1): 71-82 Liu M, Wu GJ,LuDX,etal.Improvementofnitrogenuseeficiencyandtherelationship withrootsystemcharactersofmaize cultivarsin different years [J].Plant Nutr Fert Sci,2017,23(1): 71-82   
+[24]徐军，陈海玲，李清河，等．土壤水分含量对白刺幼苗表型可塑性生长的影响 [J].西北林学院学报,2017,32(2):101-105 XuJ,ChenHL,Li QH,etal.Phenotypicplasticityofnitratiatangutorumresponsetowaterchange[J].JNorthwestForeUniv, 2017,32(2): 101-105   
+[25]张荣，张大勇，原保忠，等．半干旱区春小麦品种竞争能力与产量关系的研究[J]．植物生态学报,1999,23(3):14-19 Zhang R,Zhang DY,YuanBZ,etal.A studyofthe relationship betweencompetitiveabilityand productive performanceof spring wheat in semi-arid regions of loess plateau [J]. Chin JPlant Eco,1999,23(3): 14-19   
+[26] 冯萌，于成，林丽果，等．灌溉和施氮对河西走廊紫花苜蓿生物量分配与 水分利用效率的影响[J]．中国生态农业学报， 2016,24(12): 1623-1632 Feng M,YuC,LinLG,etalEfectsofwaterandnitrogenfertiizeronbiomassdistrbutionand wateruseefficiencyofalfalfa (Medicago sativa) in Hexi Corridor[J]. Chinese Journal of Eco-Agriculture,Dec.2016,24(12):1623-1632   
+[27]王一帆，秦亚洲，冯福学，等．根间作用与密度协同作用对小麦间作玉米产量及产量构成的影响 [J].作物学报,2017, 43(5): 754-762 Wang YF,Qin YZ,FengFX,et al.Synergistic Efectof Root InteractionandDensityon Yieldand Yield Compo-nents of Wheat/Maize Intercropping System [J]. Acta Agro Sin, 2017, 43(5): 754-762   
+[28]宋振伟，齐华，张振平，等．春玉米中单909农艺性状和产量对密植的响应及其在东北不同区域的差异[J].作物学报， 2012,38(12): 2267- 2277 Song ZW,Qi H,Zhang ZP,etal.Efectsofplantdensityonagronomic traitsand yieldinspring maizezhongdan909 andtheir regional differences in northeast china [J].Acta Agro Sin,2012,38(12): 2267- 2277

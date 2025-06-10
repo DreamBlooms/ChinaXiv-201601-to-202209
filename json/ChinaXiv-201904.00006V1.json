@@ -1,0 +1,663 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进阈值函数的小波变换图像去噪算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张绘娟，张达敏，闫威，陈忠云，辛梓芸(贵州大学 大数据与信息工程学院，贵阳 550025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统硬阈值函数在阈值处的不连续、软阈值函数中原小波系数与小波估计系数之间存在的恒定偏差问题，提出一种基于改进阈值函数的图像去噪算法。该算法结合已改进阈值函数的优点，通过设置适当的调整参数动态选取固定阈值，增加调节因子来降低原小波系数和估计小波系数之间存在的恒定偏差，从而提高重构图像和原图像的逼近程度。改进后的阈值函数在阈值处满足连续性，同时满足函数的渐进性和高阶可导性。仿真结果表明，采用改进后的阈值函数进行图像去噪,视觉效果好，另一方面对均方误差(MSE)、峰值信噪比(PSNR)和信噪比(SNR)等去噪性能指标进行比较，PSNR和 SNR 都提高了，MSE 有所降低，去噪效果得到了优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：小波变换；阈值函数；阈值图像去噪；均方误差；峰值信噪比；信噪比 中图分类号：TN911.73 doi: 10.19734/j.issn.1001-3695.2018.10.0844 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wavelet transform image denoising algorithm based on improved threshold function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Huijuan, Zhang Damin†, Yan Wei, Chen Zhongyun, Xin Ziyun (College ofBig Data &Information Engineering,Guizhou University,Guiyang 55o025,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aimingatthediscontinuityof thetraditionalhardthresholdfunctionatthethresholdand theconstantdeviation between the original waveletcoeficient and the wavelet estimation coefficient inthe soft threshold function,an image denoising algorithm basedon the improved threshold function is proposed.Thealgorithm combines the advantages of the improved thresholdfunction,dynamicallselects thefixed thresholdbysetingappropriate adjustment parameters,andadds theadjustmentfactors toreducetheconstantdeviation betweentheoriginal waveletcoeficientand the estimated wavelet coeficient,therebyimproving the degreeofapproximationofthereconstructedimageandthe original image.The improved thresholdfunctionsatisfiescontinuityatthe threshold whilesatisfying theasymptoticandhigherorderconductibilityof the function.Simulation results show that the improved threshold function isused for image denoising.There isa good visual efect. Onthe otherhand,the denoising performance indicators such as mean square error(MSE),peak signal-to-noiseratio (PSNR)andsignal-to-noiseratio (SNR)are performed.Incomparison,both PSNRand SNR are improved,MSE is reduced. The denoising effect is optimized. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Wavelet transform;threshold function;threshold image denoising;mean-square error;peak signal-to-noise Ratio; signal-to-noise Ratio ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像在传输的过程中不可避免地会受到不同程度的噪声污染，造成图像模糊等问题，影响图像的质量和后期的处理等。因此，有效的图像去噪方案相当重要。小波变换对不同频率在时域上的取样长度可以进行调节，具有多分辨的特点。1994年，Donoho 和Johnstone 在小波变换的基础上提出了小波阈值去噪算法，该方法在图像去噪中的应用也日渐成熟[1-6].典型的的硬阈值函数和软阈值函数都存在相应的不足之处，硬阈值函数在阈值处不连续，软阈值函数中原小波系数和小波估计系数之间存在恒定的偏差问题。针对以上问题，大量学者对阈值函数进行了重点研究，并对经典的阈值函数进行了改进[7\\~12]。文献[7]提出了一种新的阈值函数，该阈值函数中存在调节因子，虽然可以动态调整阈值函数，但是去噪声效果并不是很理想；文献[8]提出了一种改进的阈值函数，加入调整参数 $m$ 对典型的硬、软阈值函数进行优化，效果得到了一定的改善；文献[9]采用基于多层阈值函数的小波图像去噪，根据采样长度的不同决定调节阈值因子，但并未分析分解层数对去噪函数的影响；文献[10]提出了一种自适应的阈值去噪函数，通过设置合适的调整参数来减少原小波系数和小波估计系数之间存在的偏差问题，但是效果不理想；文献[11]提出了一种新型符号函数的小波阈值图像去噪函数，并设置不同的调节因子比较分析峰值信噪比的变化，从仿真结果可知依然存在恒定偏差问题；文献[12]结合传统的硬、软阈值去噪函数，提出了一种新的阈值去噪函数，通过比较仿真结果可知，改进的阈值函数下产生的PSNR有所提高，但是效果不是特别显著。针对以上文献所提方案存在的不足之处，本文综合典型的硬、软阈值函数的优点和已改进新的阈值函数提出一种新的阈值去函数。通过设置不同的调节因子，并比较分析不同调节因子下的去噪性能指标值，再选取最优调节因子，同理，通过设置不同的小波分解层数来选取最佳分解层数，从而确定改进阈值函数中的相关调整参数和最佳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "小波分解总层数 $n$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1小波阈值去噪原理及其计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1小波阈值去噪原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波阈值去噪算法是图像去噪中常用的方法，其思想是对处于高频部分的噪声进行阈值处理，再对处理后的小波系数进行重构得到去噪后的图像。阈值的具体估计和阈值函数的选取是影响小波阈值函数去噪效果的关键因素，阈值设定太小，去噪后的图像仍然存在噪声；反之太大则会将重要图像特征滤掉，造成重构图像模糊。所以阈值函数和阈值判定准则的选取尤为关键。本文将含高斯白噪声图像的数学模型描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( j , l ) = g ( j , l ) + n ( j , l )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f ( j , l )$ 表示含高斯白噪声的图像， $g ( j , l )$ 表示不含噪声的图像， $n ( j , l )$ 表示高斯白噪声，服从正态分布 $N ( 0 , \\delta ^ { 2 } )$ ， $j$ 和$l$ 表示图像的像素位置。小波阈值去噪的主要步骤(图1)如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)对 $f ( j , l )$ 作小波变换，得到各尺度的小波系数 $w _ { j , l }$ ;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)设定各分解层阈值，对小波系数 $w _ { j , l }$ 进行阈值处理，得到小波估计系数 $\\hat { w } _ { j , l }$ ：c)重构小波系数，再利用小波估计系数 $\\hat { w } _ { j , l }$ 进行重新构造得到去噪处理后的图像 $\\hat { f } _ { j , l }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "含噪 小波 阈值和阈值 图像 去噪图像 分解 函数量化处理 重构 图像",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2小波阈值的计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在小波阈值去噪领域中，阈值的选取直接影响小波阈值的去噪效果。目前常用的阈值选取法有：Stein无偏似然估计（rigrsure准则）、启发式阈值（heursure 准则）、最大最小阀值（minimaxi准则）、固定阈值（sqtwolog准则)。采用不同的阈值准则会产生不同的去噪效果，固定阈值和启发式阈值在确定阈值时，阈值选取过大，导致图像的细节系数容易丢失，Stein无偏似然估计和最大最小阈值在确定阈值时，阈值选取过小，去噪效果不明显。目前常使用的是Donoho等在高斯噪声模型基础上[13]，通过独立正态变量决策理论而得出其表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda { = } \\delta \\sqrt { 2 \\ln ( M \\times N ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda$ 表示阈值， $M \\times N$ 表示图像的大小， $\\delta$ 表示高斯噪声方差，实际中噪声的方差是无法预知的，需要事先估计得到，通过 $\\delta = m e d i a n ( \\left| w _ { j , l } \\right| ) / 0 . 6 7 4 5$ 来获取高斯噪声方差。为了使阈值不限定在某一个固定值，本文采用、文献[14]中的改进阈值选取法，其数学表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\mathrm { n e w } } = ( \\delta \\sqrt { 2 \\ln ( M \\times N ) } ) \\times e ^ { ( \\mathrm { l - l / n } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "下文涉及到的固定阈值都由式(3)来更新， $e ^ { ( 1 - 1 / n ) }$ 为收缩因子， $n$ 为小波总分解层数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 小波阈值去噪函数的改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1常用的小波阈值函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阈值函数的选取将直接决定小波系数的处理策略，从而影响最后的去噪效果。其中广泛应用的是由Donoho等提出的硬、软阈值方法，之后大量研究学者在此基础上对阈值函数作出改进，例如软硬阈值折中函数[15\\~16]，传统的阈值函数表达式如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硬阈值函数定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\mathbf { \\xi } } _ { w _ { j , l } } ^ { \\mathrm { ~ } } = \\{ \\begin{array} { l l } { w _ { j , l } , } & { | w _ { j , l } | \\mathit { \\omega } _ { j , l } | \\mathit { \\omega } \\ge \\lambda } \\\\ { 0 , } & { | w _ { j , l } | < \\lambda } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软阈值函数定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol { w } } _ { j , l } = \\left\\{ \\begin{array} { l l } { \\mathrm { s g n } ( w _ { j , l } ) ( \\left| \\boldsymbol { w } _ { j , l } \\right| - \\lambda ) , \\left| \\boldsymbol { w } _ { j , l } \\right| \\ge \\lambda } \\\\ { 0 , \\qquad \\left| \\boldsymbol { w } _ { j , l } \\right| < \\lambda } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软硬阈值折中函数定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { \\boldsymbol { w } } _ { j , l } = \\left\\{ \\begin{array} { l l } { \\mathrm { s g n } ( w _ { j , l } ) ( \\left| \\boldsymbol { w } _ { j , l } \\right| - \\alpha \\lambda ) , \\left| \\boldsymbol { w } _ { j , l } \\right| \\ge \\lambda , \\alpha { = } 0 . 5 } \\\\ { 0 , \\left| \\boldsymbol { w } _ { j , l } \\right| < \\lambda } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "典型硬、软阈值函数的曲线变化如图2所示，从图可知，若采用硬阈值函数获取的小波估计系数连续性很差，小波估计系数在 $\\pm \\beta$ 处是不连续的，因此最后重构得到的图像会产生振荡，出现截断效应等不利影响；软阈值函数具有较好的连续性，但是小波系数与小波估计系数之间存在一定的偏差问题，导致重构图像与原始图像之间的逼近度减弱，达不到理想的重构效果，从而影响最后的去噪效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/22fdfad0d5f417ba2b9b8024fa240699d5dc6a6a5eb1b52462c238fd05904536.jpg",
+        "img_caption": [
+            "图1小波阈值去噪流程图",
+            "Fig.1Wavelet threshold denoising flow chart ",
+            "图2硬阈值函数与软阈值函数",
+            "Fig.2Hard threshold function and soft threshold function "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的小波阈值函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对传统的硬软阈值去噪函数存在的缺陷问题，文献[17，18]提出的改进阈值函数分别如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { \\overset { \\wedge } { w } } _ { j , l } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname { s g n } ( w _ { j , l } ) \\times ( \\left| w _ { j , l } \\right| - \\frac { 2 \\lambda } { 1 + e ^ { ( | w _ { j , l } | - \\lambda ) } } ) , } & { \\left| w _ { j , l } \\right| \\geq \\lambda } \\\\ { 0 , } & { \\left| w _ { j , l } \\right| < \\lambda } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { \\wedge } { w } _ { j , l } = \\left\\{ \\begin{array} { l l } { \\mathrm { s g n } ( w _ { j , l } ) \\times ( \\left| w _ { j , l } \\right| - \\lambda + \\lambda / ( 2 k + 1 ) ) , } & { \\left| w _ { j , l } \\right| \\ge \\lambda } \\\\ { \\displaystyle \\frac { w _ { j , l } { } ^ { 2 k + 1 } } { ( 2 k + 1 ) \\cdot \\lambda ^ { 2 k } } , } & { \\left| w _ { j , l } \\right| < \\lambda } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：式（7）很好地解决了含噪图像的小波系数和估计小波系数存在恒等差的问题，但是阈值函数中不含调节因子，因此不能动态调整阈值函数；式（8）中存在调节因子 $k$ ，可以动态调整阈值函数值， $k$ 取值为1。并且在 $| w _ { j , l } | < \\lambda$ 的区内，并不是简单地将阈值函数置为0，而是通过一个非线性的函数实现对阈值的逐渐压缩，既可以保证阈值函数的连续性又可以避免阈值函数的直接截断而引起的震荡效应，可以很好地解决小波系数与估计小波系数存在的恒定偏差问题，具有较好的阈值去噪效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3一种新的改进小波阈值函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文结合传统的硬、软阈值函数的优点和当前已改进阈值函数的思想，对阈值函数进行改进。通过增加调节因子来缩小原小波系数与估计小波系数之间存在的恒定偏差，因此提出一种新的改进阈值去噪函数，其表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\mathbf { \\Gamma } } _ { w _ { j , l } } ^ { \\mathrm { { ^ { \\wedge } } } } = \\left\\{ \\begin{array} { l l } { u w _ { j , l } + ( 1 - u ) \\mathrm { ~ s g n } ( w _ { j , l } ) ( \\left| w _ { j , l } \\right| - \\displaystyle \\frac { \\lambda } { e ^ { a ( \\left| w _ { j , l } \\right| - \\lambda ) ^ { m } } } ) , } & { \\left| w _ { j , l } \\right| \\ge \\lambda } \\\\ { \\mathrm { ~ s g n } ( w _ { j , l } ) \\displaystyle \\frac { { w _ { j , l } } ^ { 2 t + 1 } } { ( e ^ { t } - 1 / 2 ) \\lambda ^ { 2 t } } , } & { \\left| w _ { j , l } \\right| < \\lambda } \\end{array} \\right. \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $u = 1 - e ^ { - b ( | w _ { j , l } | - \\lambda ) ^ { 2 } }$ ， $a$ ，b， $\\mathbf { \\nabla } _ { m }$ ， $\\mathbf { \\chi } _ { t }$ 为可调参数，且都为正数，所以可以通过选取不同的数值来提升阈值函数的去噪性能。并且在 $\\left| w _ { j , l } \\right| < \\lambda$ 的区间内，并不是直接将阈值函数置为0，而",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "是通过一个非线性的函数实现对阈值的逐渐压缩，这样可以避免阈值函数的直接截断而引起的震荡效应，进一步解决阈值函数中存在的恒定偏差问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从数学角度去考察改进的阈值函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）函数的连续性分析",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { w _ { j , l } \\to \\ast } { \\operatorname* { l i m } } \\ \\hat { w } _ { j , l } = \\underset { w _ { j , l } \\to \\ast } { \\operatorname* { l i m } } [ u w _ { j , l } + ( 1 - u ) \\mathrm { \\mathrm { ~ s g n } } ( w _ { j , l } ) ( \\left. w _ { j , l } \\right. - \\frac { \\lambda } { e ^ { u ( w _ { j , l } / \\lambda ) ^ { n } } } ) ] } \\\\ & { = \\underset { w _ { j , l } \\to \\lambda ^ { \\perp } } { \\operatorname* { l i m } } [ ( 1 - u ) \\mathrm { \\mathrm { ~ s g n } } ( w _ { j , l } ) ( \\left. w _ { j , l } \\right. - \\frac { \\lambda } { e ^ { u ( w _ { j , l } / \\lambda ) ^ { n } } } ) ] } \\\\ & { = \\underset { w _ { j , l } \\to \\lambda ^ { \\perp } } { \\operatorname* { l i m } } [ \\mathrm { ~ s g n } ( w _ { j , l } ) ( \\left. w _ { j , l } \\right. - \\frac { \\lambda } { e ^ { \\alpha ( w _ { j , l } / \\lambda ) ^ { n } } } ) ] } \\\\ & { = \\underset { w _ { j , l } \\to \\lambda ^ { \\perp } } { \\operatorname* { l i m } } [ w _ { j , l } - \\frac { \\lambda } { e ^ { \\alpha ( w _ { j , l } / \\lambda ) ^ { n } } } ] } \\\\ & { = 0 } \\\\ & { = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { w _ { j , l } \\to \\lambda ^ { + } } \\hat { w } _ { j , l } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理可证：limW=0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则有 $\\operatorname* { l i m } _ { w _ { j , l } \\to \\lambda ^ { + } } \\hat { w } _ { j , l } = \\operatorname* { l i m } _ { w _ { j , l } \\to \\lambda ^ { - } } \\hat { w } _ { j , l } = 0$ ，说明该阈值函数在 $\\lambda$ 处是连续的；",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } \\hat { w } _ { j , t } = \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } [ u w _ { j , t } + ( 1 - u ) \\operatorname { s g n } ( w _ { j , t } ) ( \\left| w _ { j , t } \\right| - \\frac { \\lambda } { e ^ { \\alpha ( | w _ { j , t } | - \\lambda ) ^ { * } } } ) ] } \\ ~ } \\\\ { { = \\displaystyle \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } [ - ( 1 - u ) \\left( \\left| w _ { j , t } \\right| - \\frac { \\lambda } { e ^ { \\alpha ( | w _ { j , t } | - \\lambda ) ^ { * } } } \\right) ] } \\ ~ } \\\\ { { = \\displaystyle \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } [ - ( | w _ { j , t } | - \\frac { \\lambda } { e ^ { \\alpha ( | w _ { j , t } | - \\lambda ) ^ { * } } } ) ] } \\ ~ } \\\\ { { = \\displaystyle \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } [ \\ \\lambda ^ { * } - \\frac { \\lambda } { e ^ { \\alpha ( | w _ { j , t } | - \\lambda ) ^ { * } } } ] } \\ ~ } \\\\ { { = \\displaystyle \\operatorname* { l i m } _ { w _ { j , t } \\to - \\lambda ^ { * } } [ \\ \\lambda ^ { - } - \\frac { \\lambda } { e ^ { \\alpha ( | w _ { j , t } | - \\lambda ) ^ { * } } } ] } \\ ~ } \\\\ { { = \\displaystyle 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { l i m } _ { w _ { j , l }  \\lambda ^ { - } } \\hat { w } _ { j , l } = 0 , \\quad \\operatorname * { l i m } _ { w _ { j , l }  \\lambda ^ { + } } \\hat { w } _ { j , l } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则有 $\\operatorname* { l i m } _ { w _ { j , l } \\to - \\lambda ^ { - } } \\hat { w } _ { j , l } = \\operatorname* { l i m } _ { w _ { j , l } \\to - \\lambda ^ { + } } \\hat { w } _ { j , l } = 0$ ；说明阈值函数在 $- \\lambda$ 处也是连续的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，改进的阈值函数在 $\\pm \\lambda$ 处都是是连续的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）函数的渐近性分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $w _ { j , l } \\to + \\infty$ 时，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { w _ { j , l } \\to \\infty } { \\operatorname* { l i m } } \\frac { \\hat { w } _ { j , l } } { w _ { j , l } } = \\underset { w _ { j , l } \\to \\infty } { \\operatorname* { l i m } } \\frac { u w _ { j , l } + ( 1 - u ) \\mathrm { \\ s g n } ( w _ { j , l } ) ( \\left| w _ { j , l } \\right| - \\frac { \\lambda } { e ^ { a ( | w _ { j , l } | - \\lambda ) ^ { m } } } ) } { w _ { j , l } } } \\\\ & { = \\underset { w _ { j , l } \\to \\infty } { \\operatorname* { l i m } } [ u + \\frac { ( 1 - u ) ( \\left| w _ { j , l } \\right| - \\frac { \\lambda } { e ^ { a ( | w _ { j , l } | - \\lambda ) ^ { m } } } ) } { w _ { j , l } } ] } \\\\ & { = 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $w _ { j , l } \\to - \\infty$ 时，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { w _ { j , l } \\to - \\infty } { \\operatorname* { l i m } } \\frac { \\displaystyle { \\overset { \\wedge } { w _ { j , l } } } } { w _ { j , l } } = \\underset { w _ { j , l } \\to - \\infty } { \\operatorname* { l i m } } \\frac { u w _ { j , l } + ( 1 - u ) \\mathrm { \\normalfont ~ s g n } ( w _ { j , l } ) ( \\left| w _ { j , l } \\right| - \\frac { \\displaystyle \\lambda } { \\textstyle e ^ { \\alpha ( | w _ { j , l } | - \\lambda ) ^ { m } } } ) } { w _ { j , l } } } \\\\ & { = \\underset { w _ { j , l } \\to - \\infty } { \\operatorname* { l i m } } [ u + \\frac { - ( 1 - u ) ( \\left| w _ { j , l } \\right| - \\frac { \\displaystyle \\lambda } { \\textstyle e ^ { \\alpha ( | w _ { j , l } | - \\lambda ) ^ { m } } } ) } { w _ { j , l } } ] } \\\\ & { = 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，当 $w _ { j , l } \\to \\infty$ 时：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\operatorname* { l i m } _ { w _ { j , l } \\to \\infty } ( \\hat { w } _ { j , l } - w _ { j , l } ) = } \\\\ { \\displaystyle \\operatorname* { l i m } _ { w _ { j , l } \\to \\infty } \\{ [ u w _ { j , l } + ( 1 - u ) \\mathrm {  { \\mathrm {  ~ s g n } } } ( w _ { j , l } ) ( \\left| w _ { j , l } \\right| - \\frac { \\lambda } { e ^ { a ( \\left| w _ { j , l } \\right| - \\lambda ) ^ { m } } } ) ] - w _ { j , l } \\} } \\\\ { = \\displaystyle \\operatorname* { l i m } _ { w _ { j , l } \\to \\infty } \\{ w _ { j , l } - w _ { j , l } \\} } \\\\ { = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所诉，本文改进的阈值函数式（9）是以 $\\hat { w } _ { j , l } = w _ { j , l }$ 为渐近线的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）改进阈值函数的偏差性分析",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } ( \\hat { w } _ { i , j } - w _ { j , j } ) = } \\\\ & { \\quad \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } ( w _ { i , j } + ( 1 - u ) \\mathrm { s g n } ( w _ { j , j } ) ( | w _ { i , j } | - \\frac { \\lambda } { e ^ { ( 1 ( v _ { i } ) \\lambda \\lambda \\lambda \\textbf { r } ) } } ) - w _ { i , j } ] } \\\\ & { \\quad \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } [ w _ { i , j } - w _ { j , j } ] } \\\\ & { = \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } ( w _ { i , j } - w _ { j , j } ] } \\\\ & { \\quad = 0 } \\\\ & { \\quad \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } ( \\hat { w } _ { i , j } - w _ { j , j } ) = } \\\\ & { \\quad \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } [ w _ { i , j } + ( 1 - u ) \\mathrm { s g n } ( w _ { j , j } ) ( | w _ { i , j } | - \\frac { \\lambda } { e ^ { ( 1 ( v _ { i } ) \\lambda \\lambda \\textbf { r } ) } } ) - w _ { i , j } ] } \\\\ & { \\quad = \\underset { x _ { i } , \\ldots + x } { \\overset { \\mathrm { l i m } } { \\longrightarrow } } [ w _ { i , j } - w _ { j , j } ] } \\\\ & { = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以可得 $\\operatorname* { l i m } _ { w _ { j , l }  + \\infty } \\stackrel { \\wedge } { ( w _ { j , l } - w _ { j , l } ) } = \\operatorname* { l i m } _ { w _ { j , l }  - \\infty } \\stackrel { \\wedge } { ( w _ { j , l } - w _ { j , l } ) } = 0$ ，当 $\\hat { \\mathbf { \\Omega } } _ { w _ { j , l } } ^ { \\mathrm { ~ ~ } }$ 逐渐增大时， $\\hat { w } _ { j , l }$ 和 $w _ { j , l }$ 之间的偏差会逐渐减小，这样可以克服软阈值函数中存在的固定偏差问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4）函数的高阶可导性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从改进的阈值函数的表达式可知，当 $\\left. w _ { j , l } \\right. \\geq \\lambda$ 时，改进的阈值函数满足高阶可导，有利于进行各种数学变换及处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5）阈值可调因子 $\\mathbf { \\Delta } _ { a }$ ， $b$ ， $\\mathbf { \\nabla } _ { m }$ ， $\\mathbf { \\chi } _ { t }$ 的影响分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\left. w _ { j , l } \\right. \\geq \\lambda$ 时，当 $\\scriptstyle a = 0$ 且 $\\scriptstyle b = 0$ 时，改进阈值函数为软阈值函数；当 $b \\to \\infty$ 时，改进阈值函数为硬阈值函数。因此，改进的阈值函数可以在软、硬阈值函数之间进行调整，可以根据实际应用来增大或者减小 $a$ ， $b$ ，的值，进行合理调节，从而达到最佳去噪效果。在 $\\left. w _ { j , l } \\right. < \\lambda$ 的区间内，并不是直接将阈值函数置为0，而是采用一个非线性的函数对阈值进行逐渐压缩，同时通过选取不同的 $t$ 值可以调整阈值的取值。为了获取更优的调整参数，根据经验取值可知， $a$ ，b， $m$ 都为正数， $t \\in [ 0 \\ 3 ]$ 为正整数，并且通过反复实验比较得到，当可调参数 $\\mathbf { \\Delta } _ { a }$ 取值为1， $b$ 取值为1， $\\mathbf { \\nabla } _ { m }$ 取值为2，t取值为1时，去噪效果最佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，通过从改进阈值去噪函数的连续性、渐近性、偏差性以及调节参数进行分析，从给出的证明可知，本文改进的阈值函数进一步克服了硬阈值函数存在的不连续性和软阈值函数中小波系数存在的恒定偏差问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于改进小波阈值函数的图像去噪算法步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）选择合适的小波基函数db5，然后对含噪声的图像$f ( j , l )$ 进行多层次的正交小波变换，获取一组小波分解系数Wj；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)根据 $\\delta = \\mathrm { m e d i a n } ( \\left| w _ { j , l } \\right| ) / 0 . 6 7 4 5$ 对噪声方差 $\\delta$ 进行估计，在此基础上，使用式（3）的定义来计算固定阈值 $\\lambda$ ，以λ为门限值，通过式（9）对小波分解系数进行阈值处理，然后获取小波估计系数 $\\hat { w } _ { j , l }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)根据阈值处理后获取估计小波估计系数 $\\hat { w } _ { j , l }$ 和处于低频部分的小波系数，然后利用小波基函数来进行小波重构后，得到进行阈值去噪后的图像 $\\hat { f } _ { j , l }$ 。本文改进算法的流程图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\left. w _ { j , l } \\right. \\geq \\lambda$ 和 $| w _ { j , l } | < \\lambda$ 时，令表达式分别如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r }  \\bigwedge _ { \\begin{array} { l } { W _ { j , l 1 } = u W _ { j , l } + ( 1 - u ) ~ \\mathrm { s g n } ( w _ { j , l } ) ( \\left| w _ { j , l } \\right| ~ - \\frac { \\lambda } { e ^ { a ( | w _ { j , l } | - \\lambda ) ^ { m } } } ) } \\\\ { \\stackrel { \\wedge } { w } _ { j , l 2 } = \\mathrm { s g n } ( w _ { j , l } ) \\frac { { w _ { j , l } } ^ { 2 t + 1 } } { ( e ^ { t } - 1 / 2 ) \\lambda ^ { 2 t } } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果及其性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文提出的改进阈值去噪函数的有效性，采用小波基函数db5进行不同层数的分解与重构。所选用的测试图像大小都是 $5 1 2 \\times 5 1 2$ 。对含有不同方差值噪声的Lena图像和 peppers 图像，分别使用典型的硬、软阈值函数、软硬折中阈值函数、文献[17，18]和本文改进的阈值函数进行实验测试。选用不同的高斯噪声方差值： $\\scriptstyle { \\delta = 0 . 0 1 }$ ， $\\scriptstyle { \\delta = 0 . 0 3 }$ ， ${ \\delta } \\mathrm { { = } } 0 . 0 5$ ，对图像进行加噪，采用小波基函数db5进行小波分解与重构，同时选用不同的分解层次数 $n$ 。当 $\\scriptstyle { \\delta = 0 . 0 1 }$ ， $\\scriptstyle n = 3$ 时，Lena去噪图像和Peppers去噪图像如图4、5所示，从视觉角度上可以看出，本文改进阈值函数下的去噪图像比另外五种去噪函数下的去噪图像更清晰，去噪效果明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证本文所提出的改进阈值函数的去噪效果从客观数据上比较分析所提出的阈值函数的性能。使用均方误差（meansquared error，MSE）、峰值信噪比（peaksignal-to-noiseratio，PSNR）[19]和信噪比（SNR）[20]对去噪后的图像进行数值计算，MSE的数值越小说明去噪图像质量越好；峰值信噪比的数值越大，说明去噪效果越好。均方误差的表达式如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ M S E { = } \\frac { 1 } { M \\times N } [ \\sum _ { \\mathrm { i } = 1 } ^ { M } \\sum _ { j = 1 } ^ { N } ( f ( j , l ) - \\hat { \\boldsymbol f } _ { j , l } ) ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "峰值信噪比和信噪比的表达式分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP S N R = 1 0 \\times \\mathrm { l g } ( \\frac { 2 5 5 ^ { 2 } } { M S E } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS N R = 1 0 \\times \\mathrm { l g } \\{ [ \\sum _ { \\mathrm { i = 1 } } ^ { M } \\sum _ { j = 1 } ^ { N } f ( j , l ) ^ { 2 } ] / \\left( M \\times N \\right) \\cdot M S E \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $M \\times N$ 为测试图像大小， $f ( j , l )$ 和 $\\hat { \\boldsymbol f } _ { j , l }$ 分别表示为无噪图像和去噪图像。为了更全面地比较阈值函数的性能，进一步比较分析不同去噪方法下的均方误差（MSE）、峰值信噪比（PSNR）和信噪比（SNR)。选用了不同的噪声方差 $\\delta$ 和不同的分解层次数 $n$ ，通过实验仿真得到的数据如下图表所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9115e90f6b85417efe3db914229f2ea6300f4b2bf4f1bc7487ed717d6c88828d.jpg",
+        "img_caption": [
+            "图3改进算法流程图",
+            "Fig.3Improved algorithm flowchart "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "武发术发术 (a)原始图像 (b)含噪声图像(c)硬阈值去噪(d)软阈值去噪 (e)软硬折中去噪 (f)文献[17]去噪 (g)文献[18]去噪 (h)本文去噪 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2e87cee579b34376de045fd811a79d71a12319d564eb545813a21a7ab499b8f.jpg",
+        "img_caption": [
+            "图4Lena图像采用不同方法去噪效果",
+            "Fig.4Lena image uses different methods to denoise the effect ",
+            "图5Peppers图像采用不同方法去噪效果",
+            "Fig.5Peppers image uses different methods to denoise the effect "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用不同的阈值去噪方法对加噪的Lena 图像进行阈值去噪，评定指标数值如表1所示。从表中数据的变化趋势可知，与传统的硬软阈值去噪函数相比，当前已改进的阈值去噪函数下加噪图像的峰值信噪比PSNR增加了约8dB，均方误差MSE值大大降低了，信噪比SNR增加了约 $7 . 5 ~ \\mathrm { d B }$ 。本文改进阈值函数下的峰值信噪比值最大值为30.7349，与传统的软阈值函数下的PSNR相比，增加了约11dB，由此可知，采用本文阈值函数下的去噪效果是最佳的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理，采用不同的阈值去噪方法对加噪peppers图像进行阈值去噪，去噪图像的评定指标数值如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对Peppers 加噪图像，取同一小波总分解层数 $\\scriptstyle \\mathrm { n = 3 }$ ，设置不同的噪声方差，峰值信噪比PSNR随着噪声方差值的变化而变化，仿真结果如图6所示。从曲线的变化趋势可知，随着噪声方差的增大，峰值信噪比值PSNR在逐渐降低。当噪声方差值增加到0.11时，6种阈值去噪函数下的PSNR都一定程度地减小了，与其他阈值去噪函数下的PSNR相比，本文阈值函数下的PSNR仍然是最大的，去噪效果比较理想。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1含噪Lena图像去噪效果评定指标（ $\\scriptstyle \\cdot = 3$ 5 $\\scriptstyle { \\delta = 0 . 0 1 }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24c0130012297a25703e200ce87f0050ee067a733ed29e704c8871c9afa85e2b.jpg",
+        "table_caption": [
+            "Table1 Noise-free Lena image denoising effect evaluation index $( \\mathrm { n } { = } 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">δ=0.01)</td></tr><tr><td>去噪方法</td><td>MSE</td><td>PSNR/dB</td><td>SNR/dB</td></tr><tr><td>含噪声图像</td><td>640.5461</td><td>20.0653</td><td>14.4081</td></tr><tr><td>硬阈值去噪</td><td>138.6119</td><td>26.7128</td><td>21.0557</td></tr><tr><td>软阈值去噪</td><td>182.4737</td><td>25.5188</td><td>19.8616</td></tr><tr><td>软硬折中去噪</td><td>157.1739</td><td>26.1670</td><td>20.5099</td></tr><tr><td>文献[17]去噪</td><td>105.4922</td><td>27.8986</td><td>22.2414</td></tr><tr><td>文献[18]去噪</td><td>114.5066</td><td>27.5425</td><td>21.8853</td></tr><tr><td>本文阈值去噪</td><td>54.9023</td><td>30.7349</td><td>24.6808</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2含噪Peppers 图像去噪效果评定指标（ $\\scriptstyle \\mathtt { n } = 3$ $\\scriptstyle { \\delta = 0 . 0 1 }$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe3e2996ee605b9fa8cea731f08fb5b1430e499f412d2235ebeb2cefe97e1d2b.jpg",
+        "table_caption": [
+            "Table 2Noisy peppers Image Denoising Effect Evaluation Index $\\scriptstyle \\cdot = 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">δ=0.01)</td></tr><tr><td>去噪方法</td><td>MSE</td><td>PSNR/dB</td><td>SNR/dB</td></tr><tr><td>含噪声图像</td><td>626.6721</td><td>20.1604</td><td>14.3506</td></tr><tr><td>硬阈值去噪</td><td>121.5823</td><td>27.2821</td><td>21.4724</td></tr><tr><td>软阈值去噪</td><td>151.0220</td><td>26.3404</td><td>20.5306</td></tr><tr><td>软硬折中去噪</td><td>112.8523</td><td>27.6057</td><td>21.7959</td></tr><tr><td>文献[17]去噪</td><td>103.0980</td><td>27.9983</td><td>22.1885</td></tr><tr><td>文献[18]去噪</td><td>107.0065</td><td>27.8367</td><td>22.0269</td></tr><tr><td>本文阈值去噪</td><td>45.2533</td><td>31.5743</td><td>24.0783</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1cfe5f4812de5e97bbc514d07040350246679b06b5982428d29501a6612c752.jpg",
+        "img_caption": [
+            "图6含噪 peppers 图像的PSNR 随噪声方差的变化曲线（ $\\scriptstyle \\mathbf { n } = 3$ ）Fig.6PSNR of noise-containing peppers image with noise variancecurve ( $\\scriptstyle 1 = 3$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同理，针对同一peppers 加噪图像，当小波总分解层数$\\scriptstyle \\mathtt { n } = 3$ 时，取不同的噪声方差值，信噪比SNR随着噪声方差值的增大而减小，仿真结果如图7所示。从曲线的变换趋势可知，当噪声方差增大时，6种阈值去噪函数下的SNR都相应地降低了，当方差为0.11时，本文改进阈值函数下的SNR比另外5种方案下的SNR都大。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/51fd0ce47bffcedd13a5e9ee2c8f6426aecd982271102b223295f88625bf804b.jpg",
+        "img_caption": [
+            "图7含噪 peppers 图像的 SNR 随噪声方差的变化曲线（ $\\scriptstyle \\cdot = 3$ ）Fig.7SNR of noise-containing Peppers image with noise variancecurve( $\\scriptstyle \\cdot = 3$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对同一Peppers 加噪图像，取噪声方差 $\\scriptstyle { \\delta = 0 . 0 1 }$ ，设置不同的小波分解层次数n，峰值信噪比PSNR随着总分解层数 $\\mathfrak { n }$ 的变化而变化，仿真结果如图8所示。从曲线的变化趋势可知，小波分解总层数不同，得到的PSNR值也不同，随着小波总分解层数的增大，峰值信噪比PSNR呈下降趋势，加噪图像中的有用信息将会丢失。当取相同的小波分解层数 $\\mathfrak { n }$ 时，本文改进的阈值函数下的PSNR比另外五种阈值去噪函数下的PSNR都大，去噪效果也比较理想。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5a12b3141336eb8313f6e1b0d92abe559d9ebc219c2bbd99bd8560215fcbf61.jpg",
+        "img_caption": [
+            "图8含噪peppers 图像的PSNR随小波总分解层数的变化趋势( $\\scriptstyle { \\delta = 0 . 0 1 }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同理，针对同一peppers 加噪图像，取噪声方差 $\\scriptstyle { \\delta = 0 . 0 1 }$ ，设置不同的小波分解层次数 $\\mathfrak { n }$ ，得到的信噪比 SNR 也不同。仿真结果如图9所示，从曲线的变化趋势可知，随着小波分解总层数的增大，SNR数值呈下降趋势，当取同一小波分解层数n时，本文改进阈值函数下的SNR比另外5种阈值去噪函数下的SNR都大，说明去噪效果比较理想。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b4e114494bbdac2c822c997809cba960f1e6307366ea3da4a91fd64de0d8885.jpg",
+        "img_caption": [
+            "Fig.8PSNR of the noisy Peppers image with the total number of wavelet decomposition layers（ $\\scriptstyle { \\delta = 0 . 0 1 }$ ） ",
+            "图9含噪peppers 图像的SNR随小波总分解层数的变化趋势( $\\scriptstyle { \\delta = 0 . 0 1 }$ ）",
+            "Fig.9SNR of the noisy peppers image with the total number of wavelet decomposition layers（ $\\scriptstyle { \\delta = 0 . 0 1 }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，设置不同的噪声方差和不同的小波总分解层次数会带来不同的去噪效果。从以上仿真实验数据比较分析可知，峰值信噪比PSNR和信噪比SNR 随着噪声方差值的增大而减小，选取不同的分解层数 $\\mathfrak { n }$ 去噪效果不一样。与另外5种阈值去噪函数比较可知，本文所提的阈值去噪函数在一定程度上提高了图像的峰值信噪比，降低了均方误差值，去噪效果有明显的提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种改进的阈值图像去噪函数，通过选取不同的噪声方差和不同的小波分解层数，对典型的软、硬阈值去噪函数、软硬折中阈值去噪函数、文献[17，18]和本文提出的阈值去噪函数下的三个评定指标进行比较分析。本文的阈值取值采用了新的阈值取值规则，因此，不同的分解层数可以选择不同的阈值，增加了阈值选取的灵活性。同时，本文改进的阈值去噪函数含有调节阈值因子，通过改变调节参数，获取最佳的小波估计系数。仿真实验结果表明，不论从视觉效果还是从三个评定指标中进行比较分析，在去除噪声的同时也有效地保留了有用信号，与其他去噪方案相比，基于本文改进阈值去噪函数下的去噪效果更加理想。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 周先春，吴婷，石兰芳，等．一种基于曲率变分正则化的小波变换图 像去噪方法[J]．电子学报,2018,46(3):621-628.(Zhou Xianchun,Wu Ting,Shi Lanfang,et al.A kind of wavelet transform image denoising method based on curvature variation regularization[J].A Kind of Wavelet Transform Image Denoising Method Based on Curvature Variation Regularization,2018,46(3): 621-628.)   \n[2]Tang Hui,Liu Zengli, Chen Lin,et al.Wavelet image denoising based on the new threshold function [J].Applied Mechanics and Materials, 2013,347-350:2231-2235.   \n[3]罗元，谭琴，张毅．基于 Teager 能量算子的改进阈值函数的去噪算 法研究[J/OL].计算机应用研究,2019,36(5).[2018-09-30].http:/kns. cnki．net/kcms/detail/51．1196．TP.20180314．1730．066．htm. (LuoYuan,Tan Qin, Zhang Yi. Improved threshold function denoising algorithm based on Teager energy operator [J/OL].Application Research of Computers，2019,36(5).[2018-09-30]. http://kns.cnki. net/kcms/detail/51.1196.TP.20180314.1730.066.html.)   \n[4]Zhang Jianhua, Zhu Qiang, Zhang Jinrong,et al.A novel algorithm for threshold image denoising based on wavelet construction [J].Cluster Computing, 2018: 1-8.   \n[5]易清明，陈明敏，石敏．一种改进的小波去噪方法在红外图像中应 用[J].计算机工程与应用，2016,52(1):173-177.(Yi Qingming, Chen Mingmin,Shi Min,Improved wavelet de-noising method for infrared image application [J]. Computer Engineering and Applications, 2016,52(1): 173-177.)   \n[6]朱芳，刘卫．一种新的基于 NIG 模型的四元数小波图像去噪方法 [J]．红外技术,2017,39(10):928-935.   \n[7]张莲，秦华峰，余成波．基于小波阈值去噪算法的研究[J].计算机 工程与应用,2008,44(9):172-173+199.(Zhang Lian,Qin Huafeng,Yu Chengbo.Reseach of denoising method based on wavelet threshold [J]. Computer Engineering and Applications,2008,44(9): 172-173+199.）   \n[8]王蓓，张根耀，李智,等．基于新阈值函数的小波阈值去噪算法[J]. 计算机应用,2014,34(5):1499-1502.(Wang Bei,Zhang Genyao,Li Zhi et al. Wavelet threshold denoising algorithm based on new threshold function [J]. Journal of Computer Applications,2014,34(5): 1499-1502.)   \n[9]秦冬冬，陈志军，闫学勤．多层阈值函数下的小波图像去噪[J].计 算机工程,2017,43(6):202-206.(Qin Dongdong,Chen Zhijun, Yan Xueqin. Wavelet image denoising with multilevel thresholding function [J].Computer Engineering,2017,43(6): 202-206.)   \n[10]王瑞，张友纯．新阈值函数下的小波阈值去噪[J].计算机工程与应 用,2013,49(15): 215-218.(Wang Rui, Zhang Youchun. New threshold function in wavelet threshold de-noising [J]. Computer Engineering and Applications,2013,49(15): 215-218.)   \n[11]崔金鸽，陈炳权，徐庆,等．一种基于新型符号函数的小波阈值图像 去噪算法[J].电信科学,2017,33(1):45-52.(Cui Jinge,Chen Bingquan, Xu qing,et al.A wavelet threshold image denoising algorithm based on a new kind of sign function [J].Telecommunication Science,2017, 33(1): 45-52.)   \n[12]黄玉昌，侯德文．基于改进小波阈值函数的指纹图像去噪[J].计算 机工程与应用，2014，50(6):179-181,209.(Huang Yuchang，Hou Dewen.Fingerprint de-noising based on improved wavelet threshold function [J].Computer Engineering and Applications,2014,50(6): 179-181,209.)   \n[13]胡然，郭成城，杨剑锋．基于小波阈值和主成分分析的视频去噪算 法[J].计算机科,2016,43(4):290-293.(Hu Ran,Guo Chengcheng,Yang Jianfeng. Video Denoising Algorithm Based on Wavelet Threshold and PCA[J]. Computer Science,2016,43(4):290-293.)   \n[14]杨恢先，王绪四，谢鹏鹤，等．改进阈值与尺度间相关的小波红外图 像去噪[J]．自动化学报，201，37(10):1167-1174.(Yang Huixian, Wang Xusi, Xie Penghe et al. Infrared image denoising based on improved threshold and inter-scale correlation of wavelet transform [J]. Action Automatica Sinica,2011,37(10):1167-1174.)   \n[15] Donoho D L,Johnstone I M.Adapting to unknown smoothness via waved shrinkage [J]. Journal of the American Statistical Association, 1995,90(432): 1200-1224.   \n[16] Song Yajun, Yang Chen, Yang Jinbao.Image denoising algorithm using regional threshold by wavelet-based contourlet transform [C]//Proc of International Conference on Identification,Information and Knowledge in the Internet of Things.Washington DC:IEEE Computer Society, 2018: 380-385.   \n[17]周西峰，朱文文，郭前岗．基于渐近半软阈值函数的超声信号去噪 方法[J]．探测与控制学报，2011,33(2):35-39.(Zhou Xifeng，Zhu Wenwen, Guo Qiangang. The denoising of ultrasonic signal based on asymptoticsemi-softthresholdingfunction[J].Journalof Detection&Control,2011,33(2): 35-39.)   \n[18]陈竹安，胡志峰．小波阈值改进算法的遥感图像去噪[J]．测绘通报, 2018 (4): 28-31. (Chen Zhuan, Hu Zhifeng.Remote sensing image denoising based on improved wavelet threshold algorithm [J].Bulletin of Surveying and Mapping,2018 (4): 28-31.)   \n[19]张承志，冯华君，徐之海,等．图像噪声方差分段估计法[J].浙江大 学学报：工学版，2018，52(9):1804-1810.(Zhang Chengzhi,Feng Huajun,Xu Zhihai et al.Piece-wise noise variance estimation of images based on wavelet transform [J].Journal of Zhejiang University: Engineering Science,2018,52(9): 1804-1810.)   \n[20]周风波，李长庚，朱红求．基于提升小波变换的阈值改进去噪算法 在紫外可见光谱中的研究[J]．光谱学与光谱分析，2018，38(2): 506-510.(Zhou Fengbo,Li Changgeng， Zhu Hongqiu.Research on threshold improved denoising algorithm based on lifting wavelet transform in UV-Vis spectrum [J]. Spectroscopy and Spectral Analysis, 2018,38(2): 506-510.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

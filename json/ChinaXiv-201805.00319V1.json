@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201707011187 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈登帅,李晶,杨晓楠,刘岩.渭河流域生态系统服务权衡优化研究.生态学报,2018,38(9);3260-3271.  \nChenDS,LiJgudfdtosiniesiaoca（:3260-3271.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "渭河流域生态系统服务权衡优化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈登帅1,2,李 晶1,2，\\*,杨晓楠1,2,刘 刘岩1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1陕西师范大学地理科学与旅游学院，西安710119  \n2陕西师范大学地理学国家级实验教学示范中心，西安710119",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究生态系统服务之间以及与土地利用类型之间的复杂关系,进行生态系统服务导向下的土地利用优化,对实现社会经济与生态保护协调可持续发展具有重要的意义。以渭河流域关中-天水经济区段(简称关天段)为研究对象,在子流域尺度估算了2000—2013年的生物多样性、固碳和产水3种生态系统服务量,定量化研究彼此之间的权衡和协同关系;并利用CA-Markov模型预测 2050年土地利用变化情景,以此测算未来情景下的生态系统服务并引入生产可能性边界(PPF)方法，进行权衡与协同分析，探究2050年最优生态系统服务下的土地利用格局。研究得出： $\\textcircled { 1 } 2 0 0 0 - 2 0 1 3$ 年研究区的总产水量呈增加趋势。秦岭与六盘山地区总固碳量较大,生物多样性质量较高;而关中平原地区人口和城市分布较多，固碳能力较差,生境退化度普遍较高。 $\\textcircled{2}$ 固碳与生物多样性之间呈现协同关系,而产水与生物多样性和产水与固碳之间均表现为权衡关系。 $\\textcircled{3}$ 绘制了2050年的生态系统服务下的最优帕累托效率曲线,并进一步进行权衡协同分析,得到相对应的土地利用优化图。将生态系统服务及权衡需求纳入到土地决策和优化管理过程中,将有助于研究区的生态,社会和经济达到共赢状态。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生物多样性；固碳;产水；权衡；情景；优化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Trade-offs and optimization among ecosystem services in the Weihe River basin CHEN Dengshuai1,2， LI Jing1,2,\\*， YANG/Xiaonan1,²,LIU Yan1,2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geography and Tourism，Shaanxi Normal University，Xi'an 710119,China   \n2National Demonstration CenterforExperimental GeographyEducation,Shaanxi Normal University，Xi'an7O119，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Withtherapid increase in human populationandtheexcesiveutilizationof natural resources,humans frequently enhancethe productionofsome servicesattheexpenseof others.Therefore，it is important toaccurately understand the trade-offsand synergies among ecosystem services and explore land useoptimization inorder to improve ecosystem services inthe Weihe River watershed.In this study，we first simulatedand mapped three keyecosystem services atthesub-basin levelfrom 2OoO to2O13，including water yield，carbonsequestration，andbiological diversity.Then，wequantitatively analyzed the dynamic changes in trade-ofs and synergies between ecosystemservices by using R language programs and productionpossibility frontiers（PPF).Finally，the CA-Markov model was used to predict land usechange scenarios for 2050.We estimated and optimized thequalities of various ecosystem services in 205Oand theoptimal patern of land use was generated based on the Optimal Pareto Frontier between ecosystem services.The results indicate that : $\\textcircled{1}$ the water yield increasedinthe WeiheRiver watershed from 2O0O to2O13.Thetotal quantityof carbonsequesteredinthe Qinling Mountainsand Liupan Mountains was relativelylargeandthe biodiversityquality was relatively high.TheGuanzhong Plain region hada large population andurban distribution，thecarbonsequestrationcapacity waspoor，and the habitat degradation degree was generally higher. $\\textcircled{2}$ There were tradeoffs between water yield and carbon sequestration，as well as water yield and biological diversity.There was synergy between carbon sequestration and biological diversity. $\\textcircled{3}$ The optimal pater of land use was generated basedon the Optimal Pareto Frontier between ecosystem services in2O50.Our research suggested that integrating ecosystem servicesandtrade-offanalyses into land system architecture andoptimal managementis of great value to the sustainable development of the environment and economy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:biodiversity；carbon sequestration；water yield；trade-off； scenario；optimization ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态系统为人类提供赖以生存的自然环境条件及效用，人类直接或间接地从中获取所有惠益就是生态系统服务[1]。生态系统服务种类多种多样,不仅可以为人类的生存直接提供粮食、氧气、水等,并具有净化污染、涵养水源、保护生物多样性、水土保持等功能[2]。生态系统服务之间关系复杂,相互影响,具体表现为此消彼长的权衡关系和相互增益的协同关系[3]。正确理解生态系统服务间的权衡与协同关系对提高人类福祉和实现区域可持续性具有重要的意义。 2？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前,国内外学者对生物多样性、产水和固碳等生态系统服务之间的权衡和协同关系做了一定的探索。Hall 等[4]利用GIS 空间分析方法探讨了增加林木覆盖面积对森林碳储量和生物多样性的影响,并且固碳与生物多样性存在着复杂的关系[5];Hatanaka等[通过对树龄分级,分析了固碳与生物多样性之间的权衡关系；Bradshaw 等[7]从碳排放价格方面研究了澳大利亚不同碳排放价格对生物多样性的影响;Rodriguez等[8]指出造林虽然可以增加固碳量,调节气候,但也会增大蒸散量,减少径流量;在实践中需要对碳价格和水价格做出权衡,从而确定造林面积;Onaindia等[9]在不同碳价格基础上探究了生物多样性、固碳和水供应之间的权衡关系,提出在经济的趋势下增加人工林会减少水的提供并危害生物多样性。李晶等[10]利用相关系数和空间制图研究了关天经济区的NPP、固碳释氧、水文调节、水土保持等多种服务的权衡协同关系,并指出调节型生态系统服务与供给型生态系统服务之间存在权衡关系。然而,国内外对生态系统服务之间权衡与协同关系的定量化及其驱动机制研究还远远不够,多重生态系统服务之间非线性动态关系仍然非常模糊。此外,随着西部经济大开发和“一带一路\"等经济战略的实施,渭河流域城市化进程加快,人们对生态系统服务的需求也急剧增加,导致了严重的生态环境问题,具体表现为水资源短缺、环境污染、物种多样性减少、生境破碎等[11-12]。因此,加强态系统服务之间及其与人类发展和生态环境的权衡分析,为区域经济发展和生态建设提供决策依据是非常有必要的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于未来的不确定性与现实决策的需要，土地利用情景预测是目前国际上进行生态系统服务权衡与协同分析的重要方法[13-14]。而有关渭河流域的研究中,对于未来土地利用变化情景的设置多以土地利用现状为基础,简单设置不同土地利用类型面积的增减变化,较少结合研究区域的实际和发展规划。因此,本文以渭河流域(关天段)为研究对象,通过设定经济发展优先、环境保护优先和两者兼顾等一系列土地利用情景,定量模拟了未来多种生态系统服务的质量与空间格局变化,并进一步通过权衡与协同分析,结合当地的发展目标或利益需求,得出最优的土地利用类型分布,为该区域的可持续发展和生态文明建设提供决策支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况和数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "渭河是黄河的最大的支流,主要流经甘肃天水、陕西宝鸡、咸阳、西安等地,在陕西潼关县汇入黄河,全长$8 1 8 ~ \\mathrm { k m }$ ,多年平均径流量 $7 5 . 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 。渭河流域地形特点为西高东低,可分为东西二部：西为黄土丘陵沟壑区,东为关中平原区;南有东西走向的秦岭横亘,北有六盘山屏障。渭河径流年际变化表现为南部小,北部大;季节变化明显，干流以秋季流量最大,约占年径流的 $3 8 \\% - 4 0 \\%$ 。渭河流域关天段涵盖6市1区，从西向东分别为：天水市、宝鸡市、杨凌示范区、西安市、咸阳市、铜川市、渭南市、商洛市部分区县(图1)。此区域为陕西省的行政中心和经济枢纽,人口密度和城市化程度较高。渭河承担着经济区的生产、生活用水以及生态补水",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的水域功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4db765384b75644392ce16ea8bb64bbf980627d53f4635c22ccbcda730db3003.jpg",
+        "img_caption": [
+            "图1渭河流域关天段区域图",
+            "Fig.1The location of Guantian section in Weihe River basir "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究选用的数据主要包括渭河流域关天段的基础地理信息数据(行政区县、河流、道路等）、遥感影像图、DEM数据、土地利用数据(2000年、2005年、2010年、2013年）、气象数据(降水、温度、风速、相对湿度等），统计数据(人口、GDP等)。野外采样与实地调查数据,沿路线西安-商洛-铜川-渭南-宝鸡-天水-杨凌-咸阳-西安环绕渭河流域关天段,共采集90个土壤样点数据(图1)。通过重铬酸钾氧化-外加热法测算采样点的土壤有机碳含量[15],并与碳循环模型反演土壤呼吸计算得出的土壤有机碳含量进行对比验证,相关系数达到0.7391。并通过实地调查及谷歌地球影像验证遥感解译的土地利用类型图并修改与实际不符合的部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 固碳估算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文研究的固碳主要分为地上与地下两部分,地上部分由净初级生产力(NPP)推算得出,每千克干物质会固定 $1 . 6 3 ~ \\mathrm { k g }$ 的 $\\mathrm { C O } _ { 2 }$ ;地下部分主要关注土壤有机碳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)地上部分采用CASA（Carnegie-Ames-Stanford Approach）模型计算植被净初级生产力,进而计算出地上固碳量。净初级生产力的估算由植被吸收的光合有效辐射(APAR)和光能转化率 $( \\varepsilon )$ 两个变量确定[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } ( x , t ) = \\mathrm { A P A R } ( x , t ) \\times \\varepsilon ( x , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x$ 表示空间位置； $\\mathbf { \\Phi } _ { t }$ 表示时间; $\\mathrm { A P A R } \\left( x , t \\right)$ 表示空间位置 $x$ 在 $\\mathbf { \\chi } _ { t }$ 月吸收的光合有效辐射（MJ $\\mathrm { m } ^ { - 2 }$ 月 $^ { - 1 }$ ）； $\\varepsilon$   \n$\\left( \\boldsymbol { \\hat { x } } , \\boldsymbol { \\mathbf { \\rho } } _ { t } \\right)$ 为像元 $\\mathbf { \\Psi } _ { x } ^ { }$ 在 $\\mathbf { \\chi } _ { t }$ 月的光能转化率( $\\mathrm { \\Delta } _ { \\mathrm { g C / M J } }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)地下部分选用了由周涛等[17]改进的碳循环过程模型来反演土壤基础呼吸,进而与全国第二次土壤普查的土壤有机碳数据进行回归分析,得到土壤呼吸与土壤有机碳含量的回归方程。碳循环过程模型的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i j } = \\frac { \\mathrm { N P P } } { \\exp ( b \\times T ) \\times y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $A _ { i j }$ 为土壤基础呼吸；NPP为净初级生产力； $b$ 为温度敏感常数因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生物多样性估算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文中应用InVEST软件的生物多样性模块测算生境质量指数评价生境质量。计算结果范围为：0—1,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值越大代表栖息地质量越高，生物多样性质量越高。计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { x j } = H _ { j } ( 1 - \\left( D _ { x j } ^ { z } / ( D _ { x j } ^ { z } + k ^ { z } ) \\right) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $Q _ { x j }$ 是土地利用类型 $j$ 中栅格 $x$ 的生境质量; $D _ { _ { x j } }$ 是土地利用类型 $j$ 栅格 $x$ 的生境胁迫水平; $k$ 是缩放参数（常数）。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { x j } = \\sum _ { r = 1 } ^ { R } \\sum _ { y = 1 } ^ { Y _ { r } } \\Big ( W _ { r } \\Big / \\sum _ { r = 1 } ^ { R } W _ { r } \\Big ) \\big ( 1 - \\big ( \\frac { d _ { x y } } { d _ { \\operatorname* { m a x } } } \\big ) \\big ) r _ { y } \\beta _ { x } S _ { j r }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $d _ { x y }$ 为栅格 $x$ 与 $y$ 之间的线性距离； $d _ { r \\operatorname* { m a x } }$ 为胁迫因子最大有效威胁距离; $\\textstyle \\ W _ { r }$ 为胁迫因子的权重;β为栅格x的可达性水平； $S _ { j r }$ 为土地利用类型 $j$ 对胁迫因子的敏感性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3产水估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文构建了渭河流域的SWAT模型,并根据研究区面积、土地利用类型、土壤属性等实际情况,设定最小集水面积阈值为 $1 5 0 0 0 \\ \\mathrm { h m } ^ { 2 }$ ,将渭河流域关天段划分为157个子流域（图1)。产水服务是基于SWAT模型水文模块测算的[18],其计算公式如下： 1",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中，WYLD为总产水量,是指时间步长内进入主河道的总水量( $\\mathbf { \\dot { m } } \\mathbf { m }$ );SURQ为时间步长内地表径流对主河道总径流的贡献量( $\\mathbf { m m } )$ ;LATQ 为时间步长内,侧向流对河川径流的贡献量 $\\left( { \\bf m m } \\right)$ ;GWQ 为时间步长内,地下径流对主河道总径流的贡献量( $\\mathbf { m m } \\mathrm { ' }$ );TLOSS为河床传输的水损失量（mm）： $P A$ 为池塘截留量( $\\mathrm { { ( } _ { m m } \\mathrm { { ' } } }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证构建模型的准确性,研究选择1990年至2013年咸阳水文站的实测径流数据对 SWAT模型进行参数的率定和验证。其中1990—1999年为率定期,以2000年、2005年、2010年、2013 年的径流数据进行验证。1990—1999 年逐月实测径流量与模拟值分布接近,相关性比较好,相关系数 $R ^ { 2 }$ 为0.78,NES 值为0.71,均大于0.5;验证阶段 2000 年至2013年,这4年的模拟值和实测值吻合度也比较好,相关系数 $R ^ { 2 }$ 为0.73(图2)。这说明构建的SWAT模型在渭河流域具有良好的适用性,径流模拟精度很高,可以用来做进一步的研究工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4土地利用情景预测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据流域历史土地利用转移规律,结合未来发展规划,构建了流域未来3种土地利用发展情景,利用IDRISI软件的CA-Markov 模块[19]对流域 2050 年的土地利用进行模拟。不同情景规划下,对高程、降水、人□、道路、水系等驱动及限制因子设置不同参数与权重值,得到 2050年土地利用类型图（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景1为计划情景,土地利用变化按原有趋势持续演变,并参考渭河流域土地利用总体规划,调整未来土地利用类型面积和分布。（",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景2为开发情景,在现有土地利用的基础上推进城市化建设,城镇边缘的耕地,稀疏灌木林地大量转化城镇建设用地。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景3为保护情景,限制城镇化发展,生态环境保护为第一目的。严格限制城镇建设、工业用地侵占耕地和水域,对坡度大于 $2 0 ^ { \\circ }$ 的耕地进行退耕还林还草措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5生态系统服务优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本文中,研究引入生产可能性边界方法对未来生态系统服务的进行优化,并得到最优生态系统服务对应的土地利用类型。生产可能性边界,也称为帕累托曲线（Pareto frontiers）,是指在资源量固定不变的情景下,所能够产出的一种或多种产品的量的总和[20]。数学方式表达出来即为一条坐标轴中的曲线,可以用来反映潜力与过度问题。如果产品组合点在曲线的下方,说明资源利用不充分,存在优化潜力;若组合点落在曲线上,则为最优配置;若落在曲线以外,那么是无法达到的。下面以生物多样性与产水两种生态系统服务为例，说明制作两者之间的帕累托效率曲线的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先,对生物多样性栅格图层与产水图层相除得到比值图层，比值图层中每个单元格代表对应地理位置的生物多样性与产水的比值;然后,按照生物多样性/产水的大小对比值图层每个单元格做升序排列;最后,按照排列的升序顺序,依次分别对单元格对应地理位置的生物多样性质量和产水量进行累计求和,并按照结果绘制曲线，即得到生物多样性-产水之间的帕累托效率曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de97b63453e44c6467d5815036f37a9548775e325a27eb42c24eaf2db0254be3.jpg",
+        "img_caption": [
+            "图2率定期和验证期逐月径流量模拟值与实测值对比图",
+            "Fig.2Simulated and realistic monthly runoff data in calibration and validation period "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1生态系统服务时空变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用相关模型,测算并制图渭河流域 2000—2013年的产水,固碳和生物多样性（图4）。渭河流域产水量呈现逐年增多的趋势。2000年所有子流域的平均产水量为 $1 1 0 . 8 4 7 ~ \\mathrm { m m }$ ,2005 年平均产水量比2000 年小幅度增加了31.5mm,到了2010 年和 2013年平均产水量大幅增长，分别是 $2 4 7 . 9 1 \\ \\mathrm { m m }$ 和 $2 7 5 . 4 2 \\ \\mathrm { m m }$ 。主要是因为2010年和 2013年的降水量增加,尤其是在7、8月份的高强度降雨,造成河川径流量也大幅增长。在空间上分析,除了2000年的产水分布是下游最高，中游略小于上游外，其他几个年份都是产水量下游远远高于中游和上游,上游的产水量最小。除此以外,4个年份的最高产水量均出现在下游的2号子流域。通过测算地上、地下固碳量,发现2000年至2013年固碳量空间分布特征总体变化不大,平均固碳量最高的区域在62号子流域,最低值在3号子流域,其中2000 年是最低值为 $2 7 . 6 ~ \\mathrm { t / h m } ^ { 2 }$ 。62 号子流域及其相邻区域拥有较高的平均固碳量是因为它们的土地利用类型基本都是林地,植被覆盖率高的地方固碳量会比较高。关中平原地区子流域固碳量相对较少,秦岭地区子流域固碳量较大;局部变化比较明显,个别子流域从2000年至2013年的固碳量有明显变化,降水量变化及子流域内土地利用类型变更可能是导致固碳量变化的主要原因。20年至 2013年渭河流域关天段生物多样性质量呈下降趋势。渭河流域关天段的生物多样性得分范围为0.29—0.73,城市建设用地的得分普遍较低,秦岭山地的得分较高,这表明秦岭地区的生态退化程度低,生物多样性质量高。如位于秦岭山地的157号子流域,生态威胁因子数量较少,生境与威胁因子距离较远,生物多样性质量高。而关中平原生境质量得分在0.38左右,该区域受人为影响较大,城镇化导致生境斑块破碎度与生态脆弱性加大，生境质量下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6af4000a1b6f8a9ccb536d5211b28e0ef586ead063b5a8411ad6a89ab28219f8.jpg",
+        "img_caption": [
+            "图3渭河流域关天段土地利用类型图",
+            "Fig.3The land use patterns for 20oo,2010 and 2050 in Guantian section of Weihe River basi "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2生态系统服务之间相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文以子流域为研究对象,运用R语言编程实现对子流域样点的相关性分析[21]。图5的各图左下角为散点图,右上角为用于展示相关系数的饼图,散点图与饼状图共同表达生态系统服务之间相关性的情况。饼状图填充大小代表相关系数值,填充满表示相关系数为1。颜色深浅代表值的大小,值越大颜色越深,蓝色代表正相关,粉色代表负相关。若为正相关关系则顺时针填充饼图,若为负相关关系则逆时针填充饼图。由图5可以看出,2000年至2013年,固碳与生物多样性均表现为正相关,2010年相关系数最大,约为0.78,2013 年最小,约为0.63。固碳与产水均表现为负相关,2005年相关系数最大,约为0.45,2000年最小,约为0.13;生物多样性与产水之间为负相关,2010年相关系数最大,约为0.26,2000 年最小,约为0.08。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运用Python语言绘制固碳、产水和生物多样性三者之间的PPF曲线,进而对渭河流域关天段这一固定资源量的生态系统进行生态系统服务之间权衡与协同关系的定量研究[22]。如图6所示,固碳与生物多样性之间呈明显协同关系，从点a $ \\mathrm { b }$ 和 $\\mathrm { ~ c  d ~ }$ ,固碳增加量都是 $5 0 \\times 1 0 ^ { 6 } \\mathrm { t }$ ,而生物多样性分别增加了 $0 . 6 3 \\times 1 0 ^ { 6 }$ 和0.72$\\times 1 0 ^ { 6 }$ ,这说明固碳量累计越多,对生物多样性质量越有利。图6所示,固碳与产水以及生物多样性与产水之间的 PPF曲线表现为向外\"凸”的曲线,存在此消彼长的权衡关系。以图6b 中： $\\boldsymbol { 1 } , \\mathrm { b } , \\mathrm { c } , \\mathrm { d } 4$ 个点进行固碳与产水之间的权衡关系分析。从a点到b点,变化幅度比较小,平均斜率 $k$ 为 $- 2 0 4 . 7 / 5 0$ ,即增加 $5 0 \\times 1 0 ^ { 6 } \\mathrm { ~ t ~ }$ 的固碳量会减少 $2 0 4 . 7 { \\times } 1 0 ^ { 6 } \\mathrm { ~ t ~ }$ 的产水量;从 $\\mathbf { c }$ 点到d点的斜率为 $- 5 4 1 . 1 / 5 0$ ,即增加 $5 0 \\times 1 0 ^ { 6 } { \\mathrm { ~ t ~ } }$ 的固碳量会减少 $5 4 1 . 1 \\times 1 0 ^ { 6 } { \\mathrm { ~ t ~ } }$ 的产水量。研究称固碳为产水的机会成本,不同阶段减少产水量所付出的计划成本是有差异的,从 $\\mathrm { \\Phi _ { a } \\to b }$ 和c$ \\mathrm { d }$ 付出相同的成本带来的效益是不同的,显然从 $\\mathrm { c \\mathrm { \\longrightarrow } d }$ 获得的收益比较大，这表明固碳量积累越多越有利于保水。产水与生物多样性之间的帕累托效率曲线的斜率同样也是从右向左逐渐变大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3生态系统服务优化配置",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文模拟了2050年的土地利用类型情景,并测算了3种情景下的固碳、生物多样性和产水3种生态系统服务量。为了使未来的3种生态系统服务能够达到最大化,选取2050年3种情景下的固碳、生物多样性与产水3种生态系统服务的最大值绘制最优帕累托效率曲线,代表未来土地资源所能提供的最优的生态系统服务总量。并将 2013年的土地利用资源配置下的生态系统服务组合情况展点到坐标系中,发现2013年生态系统服务的组合点均在最优帕累托效率曲线下方,说明资源配置存在优化的潜力。下面我们将以固碳与生物多样性为例,探究这两种生态系统服务最优帕累托效率曲线下的土地利用优化。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5e77945c88b5111355fda16c68cc909e89c3736ff039c6ad2cda053e6bb988f.jpg",
+        "img_caption": [
+            "图42000一2013年渭河流域关天段子流域产水、固碳和生物多样性空间分布图",
+            "Fig.4The spatial distribution of water yield，carbon sequestration and biodiversity from 2ooo to 201: "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在图7中，点 $\\mathrm { b } ( 1 5 0 , 1 . 8 8 )$ 为 2013年的固碳和生物多样性,所对应的土地利用类型在空间分布上包括渭河流域关天段的上游和关中平原的大部分区域,耕地面积为 $2 . 2 7 \\times 1 0 ^ { 6 } \\ \\mathrm { h m } ^ { 2 }$ ,林地面积为 $5 . 1 9 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,草地面积为 $9 . 5 1 \\times 1 0 ^ { 5 } \\ \\mathrm { h m } ^ { 2 }$ ,水域面积为 $1 . 0 2 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,城镇用地面积为 $9 . 1 3 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。最优帕累托效率曲线上的点c(150,2.16)和点d(132,1.88)是2050 年最优配置下的固碳和生物多样性。对于存在优化潜力的点b（150,1.88)可以采取两种极端的方式到达最优帕累托效率曲线,一种是通过上移至点c(150,2.16),固碳量保持不变,增加生物多样性;需要将b点对应的土地利用优化成c点所对应的土地利用类型及分布。 $| \\mathrm { ~ c ~ } |$ 点对应的土地利用分类中,耕地面积为 $2 . 4 5 \\times 1 0 ^ { 6 } ~ \\mathrm { h m } ^ { 2 }$ ,林地为 $5 . 7 6 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,草地为 $9 . 3 4 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,水域为 $1 . 0 5 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ，城镇用地为 $1 . 1 3 \\times 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ 。对比 $\\mathbf { b }$ 点地类面积, $\\mathbf { c }$ 点中只有草地的面积减少,其余地类的面积均有所增加。 $\\mathbf { b }$ 、c 两者之间的空间分布差异较大,b点中南部的地类去除,而东南与西南方向增加了区域。另一种方式是右移至点d(132,1.88）,生物多样性保持不变,减少固碳量;需要将所对应的土地利用转变成d点对应的土地利用类型及分布。 $\\textrm { d }$ 点对应的耕地面积为 $2 . 2 5 \\times 1 0 ^ { 6 } ~ \\mathrm { h m } ^ { 2 }$ ,林地为 $4 . 3 2 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,草地为 $8 . 1 4 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,水域为 $1 . 0 1 \\times$ $1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,城镇用地为 $1 . 0 3 \\times 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ 。实际中,只要能够通过改变土地利用方式使更加接近这条曲线,即为实现了生态系统服务的优化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当2013年的累计固碳量达到最大值时,就是坐标系中的点a,此时所对应的土地利用分布就是整个研究区渭河流域(关天段)。研究可以根据曲线对整个研究区的土地利用类型进行优化,使生态系统服务到达最优值,即达到曲线上的点A。a、A点所对应下的土地利用类型及空间分布情况如图8所示。综上,我们可以利用最优帕累托效率曲线,权衡不同的目标和生态服务需求,进行定量化的土地利用优化,从而获取最大化的生态系统服务价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/df487c99479e73c7d9f146c34da465cc39e23ac63366feeea21ffb9cf69d50ef.jpg",
+        "img_caption": [
+            "图52000一2013年渭河流域关天段生态系统服务之间相关性",
+            "Fig.5The correlations of ecosystem services in Guantian section of Weihe River basin from 2O to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文引入生产可能性边界对固碳、生物多样性和产水之间协同与权衡关系进行了定量化地动态分析,并利用R和Python 语言对三者之间的协同与权衡关系进行了更加直观、清晰地表达,而不是仅仅停留在相关性等宏观分析。从科学研究层面讲,多重生态系统服务之间及其与地理环境之间复杂关系的变化特征和作用机理还需进一步的归纳和总结。在现有工作的基础上,进一步研究生态系统服务协同与权衡关系动态变化的驱动机制和探讨地理环境空间异质性下的尺度效应是本文下一步的研究方向;从实际决策层面讲,人类活动(如城市化,退耕还林等)会导致地表类型发生剧烈改变,而土地利用/覆盖变化是引起生态系统服务及其彼此之间的权衡关系发生变化的主要驱动因素[23-24]。例如,本文的研究结果表明,产水与固碳之间存在权衡关系,相关性系数在 2000 年为0.13,但在 2013年相关系数出现显著增长,约为0.45,这主要是归因于降水量的增加和林地的减少。2005 年与 2000 年相比,土地利用类型也发生了明显变化,林地面积减少 $6 2 2 1 4 ~ \\mathrm { h m } ^ { 2 }$ ，城镇用地增加了 $1 8 5 0 4 \\mathrm { \\ : h m } _ { \\circ } ^ { 2 }$ 植被减少直接影响碳固定,同时城市化也加快了碳排放和产流的速率。2005 年与2000 年相比,降水量增加了约 $7 0 ~ \\mathrm { m m }$ ,这直接导致产水量增加。在经济迅速发展的同时,人类活动对自然环境造成了巨大的负面影响,为了实现永续发展,必须在经济发展和生态保护之间找到平衡点。这就在客观上要求强化对多种服务之间及其与生态环境之间的权衡分析,从而为区域发展和生态建设提供决策依据;从具体应用层面讲,生态系统服务的情景模拟与权衡分析是针对性解决生态系统和土地利用管理中存在问题的有效手段,可以为区域国土规划、生物多样性保护和生态补偿等提供科学依据[25-26]。例如,退耕还林或重造森林会丰富生物多样性,增强气候调节和森林水质净化等功能,但同时可能会增加蒸散发,减少产水量[27-28],并影响农业生产活动中食物和原材料的供给等[29]。本研究结果也表明,在流域的实际管理过程中,利益相关者可以通过优化土地利用使固碳量和生物多样性同时增加,或者通过权衡需求使固碳量或者产水量其中一个增加,另一个减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d331d7012395b8a24acff868cc9fe3e128e918f32fc8f5468c7d791b903026c0.jpg",
+        "img_caption": [
+            "图6渭河流域关天段固碳、生物多样性和产水之间的生产可能性边界(PPF)曲线",
+            "Fig.6ThetradeandsyergiesbetwencarbnsequestrationiodiversityandwaterieldinuantiasectionofWeieiverbasin "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究中设定经济发展优先、环境保护优先和两者兼顾一系列土地利用情景，可以定量模拟未来多种生态系统服务的质量与空间格局变化，进一步通过权衡与协同分析，结合当地的发展目标或利益需求，选择最优方案并提出相应的优化管理措施。但未来土地利用的发展受多方面的影响和制约,并存在一些不可控因素（例如政策导向因素),可能需要模拟几十甚至上百种情景来还原现实。而情景只是对可能的未来的描述,鉴于未来的不确定性,无疑会影响未来生态系统服务的模拟精度,增加权衡与协同分析的不确定性[30-31]。因此,在接下来的研究中进一步完善土地利用情景设置,加强对不确定性的定量化分析及空间制图化表达,对于生态系统管理和土地利用决策具有重要的意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/19bcfaa73099c2ae5247c9e672ca52c6f562efdf3104993d9d30bd7aa51fbf45.jpg",
+        "img_caption": [
+            "图7未来情景下生态系统服务之间的权衡与协同关系及土地利用优化 Fig.7Trade-off and synergy between ecosystem services in future scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8adf94d79433dd001b3b0d0e1fd8e92d543fbc1140f6586c53c1c980e5670f40.jpg",
+        "img_caption": [
+            "图8最优帕累托效率曲线对应的土地利用分布图",
+            "Fig.8The land use patterns under the optimal Pareto frontier "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文以渭河流域关天段为研究对象,在子流域尺度估算了2000年,2005年,2010年,2013年的生物多样性、固碳和产水3种生态系统服务,并对生态系统服务彼此之间权衡和协同关系进行定量化的动态分析；并通过土地利用情景预测和最优帕累托效率曲线优化了2050年最优生态系统服务下的土地利用格局。结果表明：(1)2000—2013年以来,渭河流域关天段总产水量呈增加趋势,主要分布于渭河流域下游地区;秦岭与六",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "盘山地区植被覆盖度高,固碳量大,受生态威胁因子影响较小,生境多样性质量高;而关中平原城市地区的固碳能力差,受人类活动扰动因素较多，生物多样性质量低。（2)渭河流域关天段的生态系统服务呈现权衡加强协同略减的趋势。具体而言：固碳和生物多样性之间为协同关系,且14年来相关性呈现上下波动,总体上略微减弱的趋势;产水与固碳为权衡关系,相关性在2005年出现显著增强,之后逐渐减弱;产水与生物多样性为权衡关系,相关性在 2000—2010年呈现逐渐增强,之后在 2015 年略有减弱。（3)绘制了 2050 年的生态系统服务下的最优帕累托效率曲线并得出对应的土地利用优化图,通过转变土地利用类型使生态服务功能达到规划目标。这些有关生态系统服务协同与权衡关系及其未来最大生态系统服务指导下的土地利用优化的研究结果，为延河流域土地资源管理和协调可持续发展提供了必要的科学依据。 C）)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Daily G.Nature's Services: Societal Dependence on Natural Ecosystems.Washington,DC：Island Press，1997.  \n[2]Assessment M E. Ecosystems and Human Well-Being.Washington，DC：Island Press,2005.  \n[3]LeeH,LautenbachS.Aquantitativereviewofrelatioshipsbetweecosystemservices.EcologicalInicators，016，66:340351.  \n[4]HallJleEofeiilandscapes. Landscape Ecology，2012,27(8）:1135-1147.  \n[5]Thomas C D,Anderson BJ,Moilanen A,Eigenbrod F,Heinemeyer A,Quaife T,Roy D B,Gillings S Armsworth P R,Gaston K J. Reconcilingbiodiversity and carbon conservation.Ecology Letters，2013，16(S1）：39-47.  \n[6]HatanakightW,,all‘olgalyplearb’-ingdesitsabtoragdbaresome austral temperate forests. Global Ecology and Biogeography，2011，20(2）:260-271.  \n[7]Bradshaw CJA,BowmanDMJS,BondNR,MurphyBP,MoreAD,Fordham DA,ThackwayR,Lawes MJ,McCalumH,GregorySD,Dalal R C,BoerMM,LynchAJJ,BradstockRA,BrookBW,HenryBK,HuntLP,FisherDO,HunterD,JohsonCN,KeithDA,LefroyE C,PenmanTD,MeyerWS,ThomsonJR,ThorntonCM,Van Der WalJ，WillamsRJ,KenigerL，SpechtA.Brave newgreenworld-Consequences of acarbon economy fortheconservationof Australian biodiversity.Biological Conservation，2013，161:71-90.  \n[8]RodrgueeteasetaaJatioalosstiritifolagrbdatersouceaagtiolLand Use Policy，2015,42：609-618.  \n[9]OnaindaDeaelBadariagIodgueaGbeitsdradeofsetwnodiversityarbosoagdeforegulation.Forest Ecology and Management， 2013,289：1-9.  \n[10］李晶，李红艳，张良.关中-天水经济区生态系统服务权衡与协同关系.生态学报，2016，36(10)：3053-3062.  \n[11] 傅伯杰，周国逸，白永飞，宋长春，刘纪远，张惠远，吕一河，郑华，谢高地.中国主要陆地生态系统服务功能与生态安全.地球科学进展，2009，24(6)：571-576.  \n[12] 赵其国，黄国勤，马艳芹.中国生态环境状况与生态文明建设.生态学报，2016，36(19)：6328-6335.  \n[13] BaralH,KeenanRJ，ShaaSK，StorkNE，KaselS.Economicevaluationofcosystemgodsandservicesunderdiferentlandscapemanagement scenarios. Land Use Policy， 2014， 39: 54-64.  \n[14]KubiszeiostaderS，utohfuturevufosercs：obalseasdtialipliaticoServices ,2017，26:289-301.  \n[15] 双龙，妮萨娜，杜江，滕朝阳，石成纲.重铬酸钾氧化-外加热法测定化探土壤样品中有机碳含量.安徽化工，2016,42(4)：110-112.  \n[16] 周自翔，李晶，冯雪铭.基于GIS 的关中-天水经济区土地生态系统固碳释氧价值评价.生态学报，2013，33（9)：2907-2918.  \n17 周涛，史培军，罗巾英，邵振艳.基于遥感与碳循环过程模型估算土壤有机碳储量.遥感学报，2007,11(1)：127-136.18] FicklinDL,aartdooelparaeecatndisplatosforraticprjetiosielpdtwatersheds. Journal of Hydrology，2014,519：2081-2090.19 YangX,ZengXQ,enR.AlandsegodeltegratingldapeateidexesdrkC.Eocaldeling41-7.  \n[20] CordAF,BartkowskiB，BeckmannM,DitrichA，Hermans-NeumannK,KaimA,LienhopN,Locher-KrauseKE，PriessJ,hroterSchlackC,hrepelrhavwadseticalyofoseecerdeofsmain concepts，methods and the road ahead. Ecosystem Services，2017.  \n[21］杨晓楠，李晶，秦克玉，李婷，刘婧雅.关中-天水经济区生态系统服务的权衡关系.地理学报，2015,70(11)：1762-1763.  \n[22］杨晓楠.渭河流域(关天段)生态系统服务时空变化及权衡优化研究[D].西安：陕西师范大学，2016.  \n[23]Ellaeesigovernance.AMBIO，2015，44（S1）：1-5.  \n24]PnY,uJpilefluhcEcosystem Services，2013,5：4-10.  \n[25]Raudsepp-HeaeC,eersoGeettEEcosysteiceuesfoalyingtradeofsidiverseladscapesProdiofteNational Academy of Sciences of the United States of America，2010,107(11):5242-5247.  \n26]BaiY，ZHXaggdeliletateosetiodesBeijing.Journal of Environmental Sciences，2012,24(3）：419-426.  \n[27]NelsonE，MendozaG,RegetzJ,PolaskyS,TalisH,CameronD,ChanKM,DailyGC,GoldsteinJ,KareivaP,LsdofEadoRRickets TH，aodelguostece，ivesitoeatiomityodtioddeofsatdalFrontiers in Ecology and the Environment,2009,7(1）：4-11.  \n[28]DymondJR,AuseilAGE,EkanayakeJC,KirscbauMUF.Trdeofsbetweensoil，water,ndcarbon-anationalsaleaaly fromNewZealand. Journal of Environmental Management,2012,95(1）：124-131.  \n[29]GullE，usobnsoouseellodelnesiomaingtticiaterfseprovisioning ecosystem services and biodiversity.Agricultural Systems，2015，137：12-23.  \n[30] LanduytD,BrekxS,EgelenGUjeIVanereulenGetalsPGeportaefucertatisienaralysdyfuture ecosystem service delivery in Flanders.Science of the Total Environment，2O16,553：504-518.  \n[1]Gret-RettallManagement，2013，127(S1）：S145-S154.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,216 @@
+# 共情对灾后青少年亲社会行为的影响：感恩、社会支持和创伤后成长的中介作用
+
+王文超 伍新春
+
+(北京师范大学心理学部,应用实验心理北京市重点实验室,心理学国家级实验教学示范中心(北京师范大学),北京,100875)
+
+摘要以雅安地震极重灾区芦山县的 542名中学生为被试，在地震发生3.5年后，采用人际反应指数量表测查被试的共情能力，并在震后4.5年采用感恩问卷、社会关系网络问卷、创伤后成长问卷和亲社会行为问卷测查被试的感恩、社会支持、PTG和亲社会行为，从追踪的视角考察地震后青少年的共情能力对亲社会行为的影响，并探讨感恩、社会支持和创伤后成长(PTG)在其中的中介作用。结果显示，共情可直接正向预测亲社会行为；共情对亲社会行为的预测可分别通过感恩、社会支持和PTG的中介进行；共情还可以分别通过感恩经社会支持、感恩经PTG、社会支持经PTG、感恩经社会支持再经PTG的链式中介对亲社会行为起到正向预测作用。这一发现提示，未来的创伤后心理辅导工作应更加关注青少年的积极心理和社会行为的发展。
+
+关键词共情；感恩；社会支持；创伤后成长；亲社会行为
+
+# 1问题提出
+
+在地震等自然灾难后，幸存者可能会出现创伤后应激障碍、抑郁、攻击行为等消极心理和行为反应(Zhou,An,&Wu,2017)。不过，地震在给个体带来消极影响的同时，也会促使个体在心理和行为上发生积极变化。如地震受灾群众可能会表现出诸如参与救援、捐款、献血、做志愿者等亲社会行为，而这些亲社会行为对于灾后的自救互救和重建工作，都具有重要意义。实际上，对创伤后群体的研究发现，创伤后幸存者的亲社会行为相比创伤前有显著增加(Vollhardt& Staub,2011)，如Rao 等(2011)在汶川地震后对不同受灾地区的调查发现，震后居民的亲社会行为随着创伤暴露水平的增加而提高。基于灾难后亲社会行为增加这一现象，Staub 和 Vollhardt(2008)提出了“源于苦难的利他”(altruism born of suffering)的概念，他们认为苦难可以促进亲社会行为的发展，而不仅仅是在遭受苦难后保持原有的亲社会行为。
+
+对于亲社会行为产生的原因，研究者们从不同的角度进行了考察，其中共情被认为是影响亲社会行为产生的重要因素(Batson,1987;Roberts,Strayer,&Denham,2014;丁凤琴,陆朝晖,2016)。共情是一种个体特质，是对他人感同身受的能力，它意味着一个人有能力准确地体会到他人的感受，并且理解这些感受的含义(Kalisch,1973)。Batson(1987)提出的共情一利他假说(empathy altruism hypothesis)认为，当个体目睹他人的不幸时，在共情的作用下，个体会产生怜悯和同情等情绪反应，并促使个体去实施帮助行为。认知神经科学的研究认为，大脑中镜像神经元系统(mirror neuron system)是共情产生的生理基础，当目睹他人处于苦难之中，个体的额下回、脑岛和杏仁核等区域会被激活，并产生与他人相似的痛苦感受，而帮助行为的实施在一定程度上可缓解自我的消极感受(肖凤秋,郑志伟,陈英和,2014)。国内外的实证研究也发现个体的共情能力会促进亲社会行为的产生(孙炳海,苗德露,李伟健,张海形,徐静逸,2011; Roberts et al.,2014)。
+
+不过，以往对共情影响亲社会行为的研究，大多关注的是一般群体，而对于经历了地震这种大规模集体创伤的青少年来说，他们的共情能力是如何对亲社会行为产生影响的呢众所周知，亲社会行为的出现要有一定的心理基础，创伤后成长(posttraumatic growth,PTG)作为个体创伤后常出现的积极心理反应，可能在共情对创伤后青少年亲社会行为的影响中发挥重要作用。Vollhardt(2009)认为，经历创伤事件后，个体关于自我和人际的态度、世界观、生命价值观等都会发生改变，有可能变得更加积极，即出现PTG，而这种积极的世界观和生命观会进一步促使个体更愿意帮助他人。以往研究也发现，PTG的出现会给灾后幸存者带来一系列积极的行为改变，如更乐于助人、积极参与公益活动、更愿意与他人合作等，即创伤后青少年的PTG会促进亲社会行为的产生(Vollhardt& Staub,2011;王文超,伍新春,田雨馨,周宵,2018)。此外，创伤后个体PTG水平的高低也与其共情能力密切相关。暴露于创伤情境是PTG产生的前提，在自然灾难发生后，共情能力高的个体更容易受到周围恶劣环境和他人创伤遭遇的影响，致使个体出现更大的心理压力并产生恐惧、害怕等情绪，而这些压力和负面情绪，会迫使个体思考创伤的意义，从而促进PTG的产生(安媛媛,臧伟伟,伍新春,林崇德,周佶,2011)。
+
+共情作为个体重要的积极心理特质，固然会对创伤幸存者的PTG 和亲社会行为产生重要影响，不过，在积极心理学家 Seligman 和Csikszentmihalyi(2000)看来，除了个体层面的积极特质外，主观层面的积极情绪和集体层面的积极环境也是积极心理和行为产生的重要原因。已有研究发现，共情这一心理特质可以帮助个体更好地应对创伤事件，引发更多的积极情绪体验，如感恩等(O'Brien,DeLongis,Pomaki,Puterman,& Zwicker,2009)，并通过促进社会联结和支持寻求(Shirtcliff et al.,2009)，从而有效减轻创伤后的心理症状，并帮助个体在遭受创伤后出现更多的积极转变(Swickert,Hitner,&Foster,2012)。也就是说，感恩这一积极情绪体验和社会支持所代表的积极环境因素，有可能在共情对PTG和亲社会行为的影响中起到中介作用。
+
+在de Waal(2008)看来，共情的结构就像俄罗斯套娃一样，具有由内到外的不同层次，其核心层次是作为情绪成分的情绪感染，最外层次是作为认知成分的观点采择。一旦个体对他人产生共情，共情的情绪和认知成分都可能被激活。共情的认知成分被激活，会使得个体更能够站在他人的立场看待问题，认识到别人为自己或他人所做的贡献。一般来说，感恩被定义为个体认识到他人善行或从他人善行中获益后产生的一种积极情绪(McCullough,Emmons,&Tsang,2002)。共情能力较低的人，难以认识到别人为他们所做的牺牲，甚至有可能认为别人的利他行为背后的动机是自私的，从而也就无法产生感激之情。Worthen 和Isakson(2007)曾提出，个体的共情能力是感恩产生的基础。实证研究也发现，高共情者更懂得感恩(Rosenberg,1998)。
+
+共情除了可能引发感恩这一积极情绪外，还有利于个体社会支持的获得。正如共情的套娃理论(de Waal,2008)所认为的，当共情的情绪感染成分被激活后，个体更能倾听和理解他人的感受，并将对于他人的感受以适当的方式表达出来，获得被共情者的反馈，这一过程有助于增进个体与他人的关系，促进人际间的交流(Cano&Williams,2010)。也就是说，共情有利于个体分享自我的情绪体验，实现人际合作，从而获得和感知更多的社会支持。关于共情在社会关系领域的研究也发现，共情会使得个体拥有更好的人际关系，并获得更多的社会支持(Stephan & Finlay,1999)。
+
+事实上，创伤后青少年的社会支持不仅可以被共情直接激发，还有可能通过共情引发的感恩情绪而获得提高。感恩具有的动机功能有助于人们产生紧密的社会连接(McCullough,Kimeldorf,& Cohen,2008)。积极情绪的扩展建构理论(the broaden-and-build theory)认为，感恩这种积极情绪可以拓展个体的行为和认知，改善个体与外部环境的互动模式，有利于个体建立具有支持性的社会系统，并更多地感受到来自他人的支持(Fredrickson,2001)。
+
+既然感恩和社会支持都可能受到共情的影响，那这两者又是如何对PTG 和亲社会行为发挥作用的呢？首先，就感恩来说，其作为个体创伤后常见的积极情绪，有利于个体获得更多的心理资源，使个体对他人和外界环境抱有更为积极的认知(Nelson,2009)，而这种积极的认知方式，有利于促进自我体验、人际体验和生命价值观的改变，进而促进PTG 的出现(Peterson, Park,Pole,D' Andrea,& Seligman,2008; Wang,Wu,& Tian, 2018)，而 PTG 的出现则会进一步提高亲社会行为。除了通过PTG的中介外，感恩还有可能直接预测亲社会行为。感恩可以促进受惠者对于他人帮助的积极认知，认识到自己从他人那里得到的好处，并激发受惠者产生积极的动机和行动，出现“恩泽传递”的现象(Nowak&Roch,2007)。根据感恩的互惠理论(the reciprocity theory)，受到他人帮助后能够激活个体帮助他人的意愿，个体更愿意帮助那些曾经帮助过自己的人(Tsang,2006)；而且有研究发现这种亲社会行为的激活不仅局限于个体所感激的对象，而且具有扩大化的表现，即使是对陌生人也会如此(Graham, 1988)。
+
+其次，社会支持同样也会对PTG和亲社会行为产生影响。当个体拥有亲密而稳定的社会关系时，就更有可能感受到被关爱，拥有更高的安全感，从而促使他们变得更加慷慨，乐于助人；相反，社会支持较低的个体则更倾向于用消极的心态来解读周围环境，把世界看作是充满敌意的，并以同样的方式进行回应(Twenge,Baumeister,Dewall,Ciarocco,&Bartels,2007)。对社会支持与亲社会行为关系的研究也发现，社会支持水平较高的个体会有更多的亲社会行为(Gest, Bermann,& Hartup,2001)。此外，社会支持还可能通过 PTG 的中介进而对亲社会行为起到促进作用。Schaefer 和Moos(1992)提出的危机一成长理论(the theoryof crises and personal growth)认为，环境因素是影响个体在危机事件后能否获得成长的关键。社会支持是环境因素的重要指标，充分的社会支持可以为创伤幸存者提供一个安全的环境让他们得以自由地与他人谈论创伤经历和相关情绪。因此，社会支持可以引导个体重构创伤后的世界观，从而提高PTG(Zhou,Wu,& Zhen,2017)。
+
+近年来，积极心理学的兴起也在改变着创伤心理学的研究，很多研究者开始关注创伤可能给青少年带来的积极影响。Seligman 和Csikszentmihalyi(2000)认为，积极心理学的研究要关注三个核心因素，分别是个体层面的积极特质、主观层面的积极体验和集体层面的积极环境。个体创伤后的心理和行为反应，如PTG 和亲社会行为，会受到三者的共同作用。具体来说，共情作为个体层面的积极特质可能会通过感恩这一主观层面的积极体验和社会支持所代表的积极环境因素的共同作用对PTG和亲社会行为产生影响。PTG作为创伤后心理反应也会对创伤后亲社会行为产生影响。虽然以往已有研究分别探讨了共情、感恩、社会支持、PTG 和亲社会行为其中两者或三者之间的关系，但还鲜有研究考察共情究竟如何通过感恩、社会支持和PTG的中介对亲社会行为产生影响。而且，对于共情、感恩和社会支持这三者对于亲社会行为的影响是否会经过PTG这一创伤后心理反应的中介，也还缺乏论证。此外，以往对共情影响亲社会行为的探讨，大多是横断数据得出的结果，无法很好说明二者之间的因果关系，因此有必要通过纵向追踪数据考察共情影响亲社会行为的机制。
+
+为此，本研究拟从积极心理学的视角并采用追踪研究的范式，考察灾后青少年的共情对亲社会行为的影响，并分析感恩、社会支持和PTG在其中的中介作用。由于本研究是在地震创伤后青少年群体中进行，因此在模型中对个体的创伤暴露水平进行了控制。此外，个体创伤后的亲社会行为也会受到其自身关于利他主义(altruism)信念的影响(Vollhardt,2009)，为此我们也对个体的利他主义信念进行了测量并在模型中加以控制。以往研究表明，青少年是创伤事件的易感群体，更易受地震等自然灾难的消极影响（Margolin,Ramos,&Guran,2010）；同时，青少年阶段也是个体形成积极心理品质和良好行为的关键时期。因此，考察创伤后青少年亲社会行为的产生机制，对于创伤后青少年的心理干预工作具有重要意义，可为创伤后青少年的积极心理和行为建设提供参考。
+
+# 2方法
+
+# 2.1研究对象
+
+本研究分别在雅安地震3.5年和4.5年后对地震极重灾区芦山县两所学校的中学生进行调查。地震3.5年后(T1)，有542名中学生参与了问卷调查，其中，男生243人 $( 4 5 . 8 \% )$ ，女生287人 $( 5 4 . 2 \% )$ ，12人未报告性别 $( 2 . 2 \% )$ ；年龄范围在11至18岁之间，平均年龄为$1 4 . 0 7 { \scriptstyle \pm 1 . 5 9 }$ 岁。在一年后(T2)，有 $7 5 . 1 \% ( 4 0 7$ 人)的被试参与了追踪调查，被试流失的主要原因是学生毕业、转学、休学、班级调整等。对流失被试进行检验，发现流失被试与追踪被试在各变量上的差异均不显著。参与追踪调查的被试中，男生181人 $( 4 4 . 5 \% )$ ，女生226人$( 5 5 . 5 \% )$ ，平均年龄 $1 5 . 1 6 { \pm } 1 . 5 6$ 岁。所有被试在雅安地震发生时都在地震灾区，且亲眼目睹或事后得知了房屋倒塌、他人伤亡等创伤事件。该研究通过了北京师范大学心理学部伦理委员会的审核，所有参与调查的被试均对研究知情同意。
+
+# 2.2研究工具
+
+# 2.2.1创伤暴露程度问卷
+
+采用伍新春、张宇迪、林崇德和臧伟伟(2013)编制的创伤调查问卷测查青少年的创伤暴露程度，问卷包括18个题目，所有题项采用1(无此情况)\~3(亲眼目睹)的3点计分。该问卷在本研究中的Cronbach's $\mathfrak { a }$ 系数为0.83。创伤暴露程度问卷在地震发生3.5年后进行施测，让被试回顾并填写地震发生时亲人、师友的被困、受伤、死亡等客观情况。在本研究中，创伤暴露作为控制变量。
+
+# 2.2.2利他主义信念量表
+
+采用人性的哲学量表(Wrightsman,1974)中的利他主义信念分量表测查被试的利他信念。该分量表包含14个题目，采用1(完全不同意)\~6(完全同意)的6点计分。问卷施测于地震发生3.5年后，即第一个时间点。该问卷在本研究中的Cronbach's $\mathfrak { a }$ 系数为0.78。本研究中，个体的利他信念作为控制变量。
+
+# 2.2.3人际反应指数量表
+
+本研究采用人际反应指数量表(Davis,1980)测量地震后青少年的共情能力。该量表共 28个题目，均为1(完全不符)\~5(完全相符)的5点计分，分为观点采择、幻想、共情关注和个人忧伤等四个维度。根据 Siu 和 Shek(2005)的观点，在人际反应指数量表中，最能够代表共情的题项主要体现在观点采择和共情关注两个方面。其中，观点采择主要考察“采纳他人的观点以及站在他人的角度看问题”的程度；共情关注主要考察“对他人的温暖、同情以及关注的感受”。基于此，本研究主要选择观点采择和共情关注两个维度进行研究。在本研究中，两个分量表的Cronbach'sα系数分别为0.71和0.76。
+
+# 2.2.4感恩问卷
+
+采用McCullough等(2002)编制的感恩问卷。该问卷共6个题目，采用0(完全不同意)\~6(完全同意)的7点计分。在本研究中，问卷的Cronbach's $\alpha$ 系数为0.84。
+
+# 2.2.5社会关系网络问卷
+
+社会支持的测量采用了邹泓(1999)编制的社会关系网络问卷，该问卷共20 题，采用0(从不)\~4(总是)的5点计分方式，分为情感支持、工具性支持、陪伴、亲密感和肯定价值等五个维度。本研究中问卷的Cronbach's $\mathfrak { a }$ 系数为0.96。
+
+# 2.2.6创伤后成长问卷
+
+采用周宵、伍新春、安媛媛和陈杰灵(2014)修订的创伤后成长问卷测查地震后青少年的PTG 状况。该问卷共 22题，采用0(没有变化)\~6(变化很大)的7点记分，包括自我觉知的改变、人际体验的改变、生命价值观的改变三个维度。在本研究中，问卷的Cronbach's $\mathfrak { a }$ 系数为0.93。
+
+# 2.2.7亲社会行为问卷
+
+采用张庆鹏和寇或(2011)编制的亲社会行为问卷。该问卷共15题，采用1(完全不符)\~7(完全符合)的7点计分。问卷由利他性、遵规与公益性、关系性以及特质性等四个维度构成。在本研究中，该量表的Cronbach'sα系数为0.95。
+
+# 2.3研究程序及数据处理
+
+研究采用 SPSS17.0和Mplus 7.0进行数据分析。采用Harman单因子检验发现，未旋转和旋转后得到的第一个因子解释的变异量均低于 $40 \%$ ，说明本研究不存在明显的共同方法偏差。随后，我们基于研究的假设对数据进行分析，首先进行描述统计和相关分析；在此基础上，采用结构方程模型建模的方法，在控制创伤暴露和利他信念后，考察共情对亲社会行为的影响中感恩、社会支持和PTG所发挥的作用；最后，采用 Bootstrap 程序来检验中介效应。
+
+由于本研究存在缺失值，我们分别采用完全信息极大似然估计法（fullinformationmaximum likelihood,FIML）和删除法处理缺失值并建立模型，通过模型比较发现，FIML( $\scriptstyle { \overbrace { n { = } 5 4 2 } }$ ）和删除法 $( n { = } 4 0 7 )$ 所得模型并无显著差异。以往研究发现FIML在参数估计和标准误方面优于删除法等传统方法，具有更高的统计功效（Jelicic,Phelps,&Lermer,2010;Newman,2003）。因此，本研究采用FIML所得结果作为最终结果进行呈现。
+
+# 3结果
+
+# 3.1创伤暴露、利他信念、共情、感恩、社会支持、PTG和亲社会行为之间的相关
+
+由表1可见，创伤暴露仅与感恩和社会支持呈显著的正相关，其余各变量两两之间均存在显著的正相关。
+
+表1创伤暴露、利他信念、共情、感恩、社会支持、PTG和亲社会行为之间的相关表  
+
+<html><body><table><tr><td>变量</td><td>M±SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1.T1 创伤暴露</td><td>20.79±4.21</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2 T1利他信念</td><td>52.29±11.81</td><td>0.05</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.T1共情</td><td>45.98±6.33</td><td>0.01</td><td>0.12**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>4.T2感恩</td><td>24.72±6.87</td><td>0.09*</td><td>0.19***</td><td>0.32***</td><td>1</td><td></td><td></td><td></td></tr><tr><td>5.T2 社会支持</td><td>46.49±17.43</td><td>0.09*</td><td>0.13**</td><td>0.30***</td><td>0.35***</td><td>1</td><td></td><td></td></tr><tr><td>6. T2 PTG</td><td>58.30±23.99</td><td>0.06</td><td>0.23***</td><td>0.21***</td><td>0.37***</td><td>0.42***</td><td>1</td><td></td></tr><tr><td>7.T2 亲社会行为</td><td>71.85±16.42</td><td>0.06</td><td>0.17**</td><td>0.23***</td><td>0.39***</td><td>0.44***</td><td>0.52***</td><td>1</td></tr></table></body></html>
+
+美 $p { < } 0 . 0 0 I$ ，\*\* ${ \dot { p } } { < } 0 . 0 I$ ， $^ { * } p { < } 0 . 0 5$ ，下同。
+
+# 3.2感恩、社会支持和PTG在共情与亲社会行为之间的中介作用检验
+
+首先对测量模型进行检验。测量模型由共情、社会支持、PTG和亲社会行为等四个潜变量构成，各潜变量都是根据其维度抽取而来。其中，共情由观点采择和共情关注两个显变量抽取而来；社会支持由情感支持、工具性支持、陪伴、亲密感和肯定价值等五个显变量抽取而来；PTG由自我觉知的改变、人际体验的改变、生命价值观的改变等三个显变量抽取而来;亲社会行为由利他性、遵规与公益性、关系性以及特质性等四个显变量抽取而来。在测量模型中，我们设定共情、社会支持、PTG 和亲社会行为各潜变量之间存在相关，且各变量的因子载荷被自由估计。对此测量模型进行检验，发现模型的拟合指数良好 $[ \chi ^ { 2 } / d f { = } 2 . 2 4 2$ CFI=0.980,TLI=0.971,RMSEA( $90 \%$ CI)=0.052(0.043-0.061)]，说明模型可接受，并可进行进一步的结构模型分析。
+
+在对中介效应进行检验之前，我们首先在控制了创伤暴露和利他信念后，对共情对亲社会行为的直接效应进行了检验，发现模型拟合指数良好 $[ \chi ^ { 2 } / d f { = } 2 . 7 4 3$ , CFI=0.984,TL $\scriptstyle { \mathrm { I = } } 0 . 9 7 6$ ,RMSEA $9 0 \% \mathrm { { C I } ) = 0 . 0 5 7 ( 0 . 0 3 8 - 0 . 0 7 6 ) ] }$ 。路径分析的结果显示，共情对亲社会行为直接效应的路径系数为 $\beta { = } 0 . 3 0 ( p { < } 0 . 0 0 1 )$ 。
+
+![](images/75d08c775cd1a19ca2a65adccb32daf76f87151c52667cb46573647f9b1c8179.jpg)  
+图1感恩、社会支持和PTG在共情对亲社会行为影响间的中介作用
+
+为进一步考察共情对亲社会行为的预测机制，本研究以直接预测模型为基础，将感恩、社会支持和PTG同时作为中介变量纳入直接效应模型中，模型拟合指数良好， $\chi ^ { 2 } / \mathrm { d f } = 2 . 7 8 3$ $\mathrm { C F I } = 0 . 9 7 0$ ， $\mathrm { T L I } = 0 . 9 5 6$ ,RMSEA $( 9 0 \% \mathrm { C I } ) = 0 . 0 5 7 ( 0 . 0 5 0 - 0 . 0 6 5 ) \mathrm { { \Omega } }$ 。模型结果如图1所示。对该模型中的各个路径进行分析，发现共情正向预测感恩、社会支持和 $\operatorname { P T G } ( \beta = 0 . 3 9 , p < 0 . 0 0 1$ ，$\scriptstyle { \beta = 0 . 2 7 }$ $p { < } 0 . 0 0 1$ ：， $\beta { = } 0 . 1 4$ $\scriptstyle { p = 0 . 0 1 9 }$ )，感恩正向预测社会支持、PTG 和亲社会行为 $( \beta = 0 . 2 6$ $\left. \langle 0 . 0 0 1 ; \beta = 0 . 2 1 , p < 0 . 0 0 1 ; \beta = 0 . 1 6 , p < 0 . 0 0 1 \right)$ ，社会支持正向预测PTG 和亲社会行为 $( \beta { = } 0 . 3 6$ $p { < } 0 . 0 0 1 ; \beta { = } 0 . 2 3 , p { < } 0 . 0 0 1 )$ ，PTG 正向预测亲社会行为 $( \beta { = } 0 . 2 9 , p { < } 0 . 0 0 1 )$ 。
+
+采用Bias-Corrected Bootsrap 程序对中介效应进行检验。结果见表2。由表2可知，各路径中介效应 $9 5 \%$ 的置信区间均不包含0。说明各中介路径均成立。
+
+表2链式中介模型中介效应显著性检验的Bootstrap分析  
+
+<html><body><table><tr><td>间接路径</td><td>标准化间接</td><td>间接效应解释总</td><td colspan="2">95%的置信区间</td></tr><tr><td></td><td>效应估计值</td><td>效应的百分比</td><td>下限</td><td>上限</td></tr><tr><td>共情-PTG-亲社会行为</td><td>0.041*</td><td>13.67%</td><td>0.027</td><td>0.055</td></tr><tr><td>共情-感恩-亲社会行为</td><td>0.063*</td><td>21.00%</td><td>0.034</td><td>0.082</td></tr><tr><td>共情-社会支持-亲社会行为</td><td>0.062*</td><td>20.67%</td><td>0.033</td><td>0.081</td></tr><tr><td>共情-感恩-PTG-亲社会行为</td><td>0.024*</td><td>8.00%</td><td>0.014</td><td>0.036</td></tr><tr><td>共情-社会支持-PTG-亲社会行为</td><td>0.028* 0.023*</td><td>9.33%</td><td>0.017</td><td>0.039</td></tr><tr><td>共情-感恩-社会支持-亲社会行为</td><td></td><td>7.66%</td><td>0.013</td><td>0.035</td></tr><tr><td>共情-感恩-社会支持-PTG-亲社会行为</td><td>0.011*</td><td>3.66%</td><td>0.003</td><td>0.020</td></tr></table></body></html>
+
+# 4讨论
+
+本研究采用追踪研究的范式通过构建结构方程模型考察了地震后青少年共情对亲社会行为的影响及其机制。首先，从相关表中可见，除创伤暴露与利他信念、共情、PTG 和亲社会行为没有显著相关外，其他各变量两两之间均存在显著的相关关系。本研究中所测的利他信念和共情能力均属于较为稳定的人格特质，不易受创伤暴露的影响。PTG 和亲社会行为调查于地震发生4.5年后，此时个体创伤后心理和行为反应更多地受到其人格特质、情绪以及外界环境等因素的影响(王文超,伍新春,周宵,2018)。因此，本研究将创伤暴露和利他信念作为控制变量，考察共情能力通过感恩这一积极情绪和社会支持所代表的积极环境因素对个体创伤后的积极心理和行为反应的影响。
+
+对直接效应模型的检验发现，在控制创伤暴露和利他信念后，前一个时间点的共情可以显著正向预测后一个时间点的亲社会行为，验证了共情-利他假说(Batson,1987)。Li,Li,Decety和Lee(2013)对汶川地震前后9岁儿童亲社会行为的调查发现，地震3个月后的儿童相比地震之前表现出更多的亲社会行为，其中高共情的儿童亲社会行为的增加更为突出。在地震发生后，由于共情能力的存在，灾区满目疮痍的创伤情境会引发青少年的共情体验，使得青少年对他人所遭受的不幸感同身受(Figley,1995)，而共情所具有的动机功能会促使他们去采取行动帮助别人，以缓解目睹他人苦难所引起的不良心理感受。
+
+共情对亲社会行为的预测可以分别通过PTG、感恩和社会支持的中介进行。首先，共情会通过促进PTG进而影响亲社会行为。地震灾难一方面会直接给个体造成身心创伤，如受伤、被困等经历会让个体产生巨大的心理阴影；另一方面，有些地震的幸存者可能本身并没有受伤或被困，但是他们在震后亲眼目睹了他人的人身伤亡，这些悲惨情境会给青少年幼小的心灵带来极大的刺激。共情能力高的青少年更能够感知和体会他人的痛苦，因而也就会有更多的心理压力，使得他们原有的关于世界和生命的信念受到挑战，这种认知失衡的状态会促使个体去重新评价创伤事件，思考创伤可能给自身带来的意义，进而产生PTG(周宵等,2014)。而PTG的出现标志着创伤后青少年会认为自己更有能力帮助他人，更加注重自身品德的修养，拥有更强的责任感等(安媛媛,李秋伊,伍新春,2015)；同时PTG 也可以促进青少年去积极寻求生命的意义，而生命意义感又可引发更多的亲社会行为(王文超,伍新春，田雨馨,周宵,2018)。
+
+共情除了可以通过PTG的中介对亲社会行为起到预测作用外，还可以通过影响感恩进而对亲社会行为发挥积极影响。共情对感恩的正向预测与以往研究相一致(Rosenberg,1998)。基于de Waal(2008)的套娃理论，共情所具有的观点采择成分会使个体更能够设身处地地理解他人的所思所感，也就是更能够从他人的角度看问题；而感恩的产生就是建立在对他人善行的积极认知之上(McCullough etal.,2002)。地震发生后，地震灾区的青少年受到了社会各界在物质和心理等方面的大量援助，对他人的共情使得青少年更能够认识到别人对自己的帮助所传递的善意，进而产生感恩。而感恩作为受惠者对于他人恩惠的积极评价，可以进一步激发个体的亲社会动机(McCullough etal.,2008)，并促进亲社会行为的产生。此外，感恩对亲社会行为的积极影响也印证了感恩的互惠理论(Tsang,2006)，震后青少年在得到他人的帮助后产生的感激之情，会促使他们更愿意去帮助那些需要帮助的人。
+
+值得注意的是，感恩除了可以直接预测亲社会行为，还可以通过提高PTG进而间接对亲社会行为产生正向预测。根据积极情绪的扩展建构理论(Fredrickson,2001)，感恩这一积极情绪可以扩展个体的注意和认知范围，注意范围的扩展使得个体能够从创伤引发的痛苦体验中转移出来，感受更多创伤可能带来的积极变化(Fredrickson& Branigan,2005)；认知范围的扩展能够促使个体对创伤事件进行积极的认知加工，有助于建立创伤后的积极信念体系，这些都有助于促进PTG的实现。在地震发生后，感恩使得青少年看到了灾后人与人之间的真情与关爱，更能采用积极的视角看待创伤事件，有助于PTG的产生，而PTG又可进一步促进亲社会行为。
+
+同时，共情还可以通过直接促进社会支持从而对亲社会行为产生影响。以往就有研究发现，共情使得个体更能够倾听和理解他人的感受，并给予对方反馈，从而起到增进人际关系的作用(Stephan&Finlay,1999;deWaal,2008)。在人际交往中，共情能力高的青少年可以更敏锐地认知和感受他人的情绪，特别是对他人苦难的感同身受，会让对方感受到温暖，进而拉近人与人之间的距离，而良好的人际关系本身也就意味着更多的社会支持(Jordan&Foster,2016)。社会支持对亲社会行为的正向预测与以往的研究相一致(Twenge et al.,2007;Gest et al.,2001)。青少年的亲社会行为之所以会产生，很大程度上源于青少年相信自己是集体的一部分，在这个集体中，人们相互寻求支持和帮助，彼此相亲相爱(Twenge et al.,2007)。对于社会支持匮乏的青少年来说，往往倾向于认为自己不被他人或集体接纳，因而可能会对他人抱有敌意，不利于亲社会行为的出现(Gest et al.,2001)；而当个体拥有充足的社会支持时，则更倾向于采用积极的心态来解读周围的环境，并对他人的需要给予积极的回应，进而有可能产生更多的亲社会行为(Twenge etal.,2007)。
+
+此外，社会支持对亲社会行为的影响还可以通过促进PTG来间接实现。社会支持对PTG 的促进作用已被很多研究所证实(周宵,伍新春,王文超，田雨馨,2017; Zhou,Wu,&Zhen,2018)，正如危机一成长理论所指出的，社会支持所营造的积极环境可以为青少年提供安全感和必要的资源(Schaefer&Moos,1992)，帮助创伤后青少年直面创伤经历并整合创伤相关线索，促进青少年去发现创伤背后蕴含的意义，从而实现PTG，并进一步促进行为的积极改变。
+
+本研究还有一个重要的发现，那就是共情可以通过感恩、社会支持和PTG三者的链式中介促进亲社会行为的产生。虽然前人的研究分别考察了共情对感恩、社会支持、PTG 和亲社会行为的影响(O'Brien et al.,2009; Roberts et al.,2014; Stephan&Finlay,1999)，但本研究第一次在积极心理学的理论视角下将共情这一积极心理特质、感恩这一积极情绪体验和社会支持这一积极环境因素整合到同一模型中，考察三者对创伤后积极心理和行为反应的作用机制，即在经历创伤事件后，青少年的共情能力使得其对外界的援助更加心存感激，感恩的情绪有助于青少年收获更多的社会支持，进而促进创伤后积极心理反应PTG的发展，并最终提高其亲社会行为。这一结果验证并扩展了共情-利他假说(Batson,1987)、感恩的互惠理论(Tsang,2006)、积极情绪的扩展建构理论(Fredrickson,2001)和危机-成长理论(Schaefer &Moos,1992)等理论假说，并构建了一个包含了人格特质、情绪因素和环境因素的创伤后个体心理和行为反应的整合模型。可以说，本研究在一定程度上解释了灾难发生后亲社会行为增加的内在机制，并为青少年创伤后心理和行为研究提供了新的视角。
+
+当然，本研究也存在一些不足。首先，本研究是在雅安地震发生3.5和4.5年后进行的，被试可能在地震后还经历过其他创伤性事件，研究中没有排除其他创伤事件的作用。其次，本研究中的变量都是被试自陈所得，主观性较强，特别是对于亲社会行为的测量，容易受到社会赞许效应的影响，未来研究可以考虑从不同的途径收取数据，如通过行为实验或通过教师、同学等多主体的评价来考察被试的亲社会行为。再次，本研究只有两个时间点的追踪数据，且没有严格控制T2所测变量在T1的基线水平，一定程度上会影响结果的严密性，未来的研究可以采用更多时间点的追踪数据进行分析，进一步验证和扩展本研究的发现。最后，本研究只是调查了地震后的青少年群体，外部效度可能会受到影响，未来的研究还需进一步验证该模型在不同创伤后群体中是否成立。
+
+尽管存在上述局限，本研究得到的结果仍是很有意义的，并可为青少年创伤后心理辅导工作提供几点启示。首先，心理辅导工作者要认识到，除了地震本身会对青少年造成冲击外，共情能力所引发的二次创伤暴露同样会对青少年的身心反应产生重要影响。其次，在心理辅导工作中，不仅要关注青少年消极心理和行为问题的解决，还要重视促进其积极心理和行为倾向的发展。最后，本研究为如何促进青少年创伤后亲社会行为提供了具体的循证指导，即要积极关注青少年的共情能力，引导其常怀感恩之心，让青少年感知并获得更多的社会支持，从而提高PTG，并最终促进亲社会行为的产生。
+
+# 参考文献
+
+An,Y.Y.,LiQ.,u,X.C.(5).aliesraicgotheaualsastesitdol of Wenchuan earthquake.Journalof Beijing Normal University (Social Science Edition),(6),107-113.   
+[安媛媛,李秋伊,伍新春.(2015).自然灾害后青少年创伤后成长的质性研究——以汶川地震为例.北京师范大学学报(社会科学 版),(6),107-113.]   
+An,Y.Y.,Zang,WWWu,X.C.,Lin,C.D,&Zou,J.(l1).Effctsoftraumaexposureopostraumaticgrowthheoleof resilience as amoderator.Journal of Psychological Science,34(3),727-732.   
+[安媛媛,臧伟伟,伍新春,林崇德，周佶.(2011).创伤暴露程度对中学生创伤后成长的影响—一复原力的调节作用.心理科学， 34(3),727-732.]   
+Batson,C.D.(1987).Prosocialotiation:Isitevertrulyrustic?dvancesinExperimetalocialPycholg.   
+Cano,A.,&Wilms,A.C.().Socialinteractioipain:Rforingpainbaviorsordingitimacy?Pai,49()91.   
+Davis,M.H.(980).Amulti-imensionalapproachtoindividualdiferences inmpathyJSASCatalogof SelectedDocumentsin Psychology,10,85.   
+de Wal.,&Frans,B.(Oo8).Putingthealtruismbackintoaltruism:Theevolutionofempathy.Annual ReviewofPsychology9(1), 279-300.   
+Ding,F.Q.,&Lu,C.H.(O16).Asoiationbetweeempathyndprosocialbeavir:Astematiceviewndmetaanalsisdances in Psychological Science,24(8),1159-1174.   
+[丁凤琴,陆朝晖.(2016).共情与亲社会行为关系的元分析.心理科学进展,24(8),1159-1174.]   
+Figley,C.R.(995)isodaaticrsodr:.Iigd.)moe Copingwithsecondarytraumaticstressdisorderinthosewho treatthetraumatized (pp.1-20).NewYork:Brunner-Rutledge   
+Fredrickson,B.L.(Ool).Teroleofpositiveemotionsinpositivepsychology:Thebroadenandbuildtheoryofpositiveemotios AmericanPsychologist,56(3),218-226.   
+Fredrickson,B.L,&ranigan,C.(O5).Positiveemotionsboadenthesopeofatentioandtoughtactionpertoi.ogition andEmotion,9(3),1   
+Gest,S.D.,Graham-Bermann,S.A,&Hartup,W.W.(Ool).Perexperience:Commonandunique featuresofnumberoffriendshs social network centrality,and sociometric status.Social Development,10(1),23-40.   
+Graham,S.(1988).Children'sdevelopinguderstandingofthemotivationalroleofafect:Anaributionalanalysis.Cognitive Development, 3(1),7-88.   
+Jelicic,H.,Pels,,er,..().WsindataerieloialufdoleevelotUingte 4-h study to understandtheusesof different missing data methods.Journalof Youth and Adolescence,39(7),816-835.   
+Jordan,K.DFster,P..(6)dialsdtmpth:tesoaldistcsdeatdanesinlthence Education,21(5),1009-2.   
+Kalisch,B.J.(1973).What is empathy? The American JournalofNursing,73(9),1548-1552.   
+Li,Y,L,Hey)ci 1686-1695.   
+Margolin,G.,amos,.C,&uran,E.L.(lo).Earthquakesanddren:Teroleofpsyhologistsithmiliesadcois Professional Psychology:Research and Practice,41(1),1-9.   
+McCullough,.E.,ons,..,ang,A.().eatefuldispsitioocetuadpicaogaJlof Personality and Social Psychology,82(1),112-127.   
+McCullough,.Eimelorf,.,n,..(8)daationflrsm:eialcaesoialctsdal evolution of gratitude. Current Directions in Psychological Science,17(4),281-285.   
+Nelson,C.(o9).Appreciatinggratitude:Cangratitudebeusedasapsychological interventiontoimproveindividualwellbeing? Counselling Psychology Review,24(3),38-50.   
+Newman,D.A.(Oo3).Longitudinalmodelingwithrandomlyandsystematicallymisingata:Asimulationofadhoc,maxium likelihood,and multipleimputation techniques.Organizational ResearchMethods,6(3),328362.   
+Nowak,M.A.&och,S.().Upstreameciprocityndtheevolutionofatude.rocdingsofteoyalScietyBolgical Sciences,274(1610),605-610.   
+O'Brien,T.B.DeLongis,A.omaki,G.,Puterman,E.,&Zwicker,A.().Couplescopngwithstress:Theroleofmpathic responding.EuropeanPsychologist,14(1),18-28.   
+Peterson,C.ark,,ole,da,W,elignE.()regsofracterdraticgrothJolf Traumatic Stress,21(2),214-217.   
+Rao,L.L,Han,RenX.PBiXW,egR,u,H.Li().sadvaagadrosialbavr:e Wenchuan earthquake.Evolution & Human Behavior;32(1),63-69.   
+Roberts，W.，Strayer,J.，&Denham,S.(2014).Empathyanger,guil:Emotionsandprosocialbhaviour.CanadianJournalof Behavioural Science,46(4),465-474   
+Rosenberg,E.L. (1998).Levelsofanalysisandtheorganizationofaffct.ReviewofGeneralPsychology,2(3),247-270.   
+Schaefer,J.A,os,R.H.(99).iferissdpsolgrowthI..Capenter(Ed.)rsoacing:o application (pp.149-170). Westport, CTPraeger.   
+Seligman,M.E.P.,&Ckszentmhalyi,M.(o).Positivepychology:AnintroductionAmericanPschologist,5(),14.   
+Shirtclif,E.,Viao,.Jra.,ish.J,e,J,&n-WaxlerC().eroiologatd callousness: Implicationsforthedevelopmentofantisocialbehavior. Behavioral Sciences&theLaw,27(2),137-171.   
+Siu,A.M.H,&ek,D.T.L(o5).VaidationofteinterpersonalreactivityindexinCinsecontextResearchoSialWork Practice,15(2),118-126.   
+Staub,E.，&Vollhardt,J.(20o8).Altruismbonofsuffering:Therootsofcaringand helpingaftervictimizationandothertrauma AmericanJounalofOrthopsyhiatry78(3),680   
+Stephan,W.G.,&Finlay,K.(1999).The roleof empathy in im ving intergroup relations.Journal of Social issues,55(4),729-743   
+Sun,B.H.,ioD.L,i,WJ,Zan,HX,&Xu,J.().erpeciveingadeligbaioriversitydets: role of group relation and empathic response.Psychological Development and Education,27(5),491-497.   
+[孙炳海,苗德露,李伟健,张海形,徐静逸.(2011).大学生的观点采择与助人行为：群体关系与共情反应的不同作用.心理发展与 教育,27(5),491-497.]   
+Swickert,R.J.,Hiter,.B.&Foster,A.(012).Aproposedmediatedpathbetweengenderandpostraumaticgrowth:Theoesof empathyand social support in a mixed-age sample.Psychology,3(12),1142-1147.   
+Tsang,J.A. (oo6).Theectsofelperintentionongratitudeandindebtedness.MotivationandEmotion,30(3),98204.   
+Twenge,J.sressio Journal of Personality and Social Psychology,92(1),56-66.   
+Vollhardt,J.R.(o9).Altruismboofsufeingandprosocialbehaviorflowingadverselifeeents:Aevieandconcepualizatio Social Justice Research,22(1),53-97.   
+Vollrdt,J.R,tabEl).uselisf:elaishedveiproociai behavior toward disadvantaged outgroups.American Journal of Orthopsychiatry,81(3),307-315.   
+Wang,W.C.,Wu,X.C&Tan,Y.X.(ol8).Mediatingolesofgratitudeandsocialsupportinterelatiobetweensurviorultand postraumaticstressdisorder,postraumaticgowthamongadolescentsaftertheYa'aneartquake.Frontiersinpsychology，9, e02131.   
+Wang,W.C.,Wu,X.C.,Tian,Y.X.,&Zou,X.(8).Mediatingrolesofmeaningilifeintherelationshpbtwnosatic stressdisorder,postraumaticgrowthandprosocialbehavioramongadolescentsaftertheWenchuanearthquake.Psychological DevelopmentandEducation,34(1),119.   
+[王文超,伍新春,田雨馨,周宵.(2018).青少年创伤后应激障碍和创伤后成长对亲社会行为的影响：生命意义的中介作用.心理发 展与教育,34(1),112-119.]   
+Wang,W.C.,Wu,X.C.,&Zhou,X. (018).Prevalenceandpredictorsofpostraumaticstressdisorderand postraumaticgrowthamong adolescentsurvivorsaftertheWenchuanearthquake.JournalofBeijingNormalUniversity(ScialScienceEdition),(2)5-63.   
+[王文超,伍新春,周宵.(2018).青少年创伤后应激障碍和创伤后成长的状况与影响因素——汶川地震后的 10年探索.北京师范大 学学报(社会科学版),(2),51-63.]   
+Wrightsman,L.S.(974).Assumptionsbout humannature:Asocial-psychologicalanalysis.MontereyCA:Brooks/Cole.   
+Worthen,V.E.&Isakson,R.L.(2o).Thetherapeuticvalueofexperiencingandexpressinggratitude.IssesinRligionand Psychotherapy,31(1),3-46.   
+Wu,X.C.,Zhang,Y.D.,Lin,C.D,&Zang,W.W.(o3).heeectofdisasterexposureonofprimaryndsecondarysudents Mediating and moderating effect,Psychological Development and Education,29(6),641-648.   
+[伍新春,张宇迪,林崇德,臧伟伟.(2013).中小学生的灾难暴露程度对创伤后应激障碍的影响：中介和调节效应.心理发展与教育， 29(6), 641-648.]   
+Xiao,F.Q.,Zhn,ZW,&hen,Y.H.(14).Nuralbsisadectsofmathonrosialbavrs,shologcaleveot   
+and Education,30(2),208-215.   
+[肖凤秋,郑志伟,陈英和.(2014).共情对亲社会行为的影响及神经基础.心理发展与教育,30(2),208-215.]   
+Zang,Q.P.,&Kou,Y.(20).Thedimensionofmeasurementonprosocialbehavior: Explorationandconfimation.SciologyResearch (4), 105-121.   
+[张庆鹏,寇或.(2011).青少年亲社会行为测评维度的建立与验证.社会学研究,(4),105-121.]   
+Zhou,X.,Wu,X.CAn,YY,&n,J.L.(4).erolesofrumatioandocialsupprtieassciatiosbtwrebelief challengeandposttraumatic growthamongadolescentsurvivorsaftertheWenchuanarthquake.ActaPsychologicaSinica,46(10) 1509-1520.   
+[周宵,伍新春,安媛媛,陈杰灵.(2014).青少年核心信念挑战对创伤后成长的影响：反刍与社会支持的作用.心理学报,46(10), 1509–1520.]   
+Zhou,X.,Wu,X.C,ang,W.W,Tn,Y.X().gialageetweociaprt,srticrsde postraumatic growthamong primaryschoolstudentsaftertheYa'anearthquake.ActaPsychologicaSinica,49(11),1428-1438.   
+[周宵,伍新春,王文超,田雨馨.(2017).社会支持、创伤后应激障碍与创伤后成长之间的关系:来自雅安地震后小学生的追踪研究，
+
+心理学报,49(11),1428-1438.]
+
+Zhou,X.,An,YY,&Wu,X.C.(7).Lgidinalnagesbtwpostraticstressdsorderstosandvioltbvi among Chineseadolescents followingtheWenchuanearthquake.JournalofAggessonMaltreament&Tauma,6(3),-4.   
+Zhou，X.，Wu，X.C.，&Zhen，R.(2017).Understanding therelationshipbetwensocial supportandpostraumatic stress disorder/postraumatic growth amongadolescentsafter Ya'anearthquake:Theroleof emotionregulation.PsychologicalTrauma, 9(2),214-221.   
+Zou,H.(1999.Socialsupprtetorksandperelationsipsinidleshoolstudents.JoualofeijingNoalUniversitySoial Science Edition),(1),3442.
+
+邹泓.(1999).中学生的社会支持系统与同伴关系.北京师范大学学报(社会科学版),(1),34-42.
+
+# Mediating roles of gratitude, social support and posttraumatic growth in the relation between empathy and prosocial behavior among adolescents after the Ya'an earthquake
+
+WANGWenchao; WUXinchun (Beijing Key Laboratory of Applied Experimental Psychology, National   
+Demonstration Center for Experimental Psychology Education (Beijing Normal   
+University), Faculty of Psychology, Beijing Normal University, Beijing 100875, China)
+
+# Abstract
+
+Empathy refers to the traits, or tendencies, of a person to affectively experience emotions of concern at the suffering of others and to cognitively adopt another person's perspective. Possession of empathy has been assumed to encourage prosocial behavior. The mechanisms by which empathy affects prosocial behavior for adolescent survivors of disaster, however, are unclear. Posttraumatic growth (PTG) was considered a common positive change following trauma events and was identified as having a high prevalence rate in various trauma types. After experiencing natural disasters,individuals with high empathy are more vulnerable to their adverse environment and the traumatic situations of others. This results in more psychological pressure and fear, and these pressures and negative emotions force individuals to think about the meaning of trauma, thus promoting the generation of PTG. The emergence of PTG brings positive behavioral change among survivors after the disaster. Therefore,it was suggested that empathy may exert indirect effects on prosocial behavior through PTG.
+
+According to current theories, empathy has different emotional and cognitive components. When individuals empathize with others, these components are activated, which may lead to gratitude and, in turn, result in prosocial behavior. As a moral barometer, gratitude informs the beneficiary that a benefactor has bestowed a gift. The prosocial behavior of a benefactor toward a beneficiary is thought to produce gratitude within the beneficiary. This then stimulates the beneficiary's prosocial behavior, further strengthening the benefactor's own prosocial behavior.
+
+Furthermore， traumatized survivors with greaterempathy may improve communication with others, increase the sense of intimacy, and perceive more support from others-meaning that empathy may lead individuals to have more social support. Social support refers to an individual's perception of the support provided by others. That perception can be influenced by gratitude. Adolescents with low social support are more likely to interpret other people's ambiguous actions as aggressive. Thus, stable social relationships seem to promote PTG and prosocial behavior. Taken together, it is possible that empathy can promote prosocial behavior through gratitude, social support, and PTG in post-disaster contexts. The utility of these predictions, however, was unclear.
+
+To examine the relation between empathy, gratitude, social support, PTG and prosocial behavior, this study used an interpersonal reactivity index scale, gratitude questionnaire， social support questionnaire， posttraumatic growth inventory and prosocial behavior questionnaire to assess 542 adolescents following Ya'an earthquake. The results indicated that after controlling the trauma exposure, empathy have a positive association with prosocial behavior through the following routes: three one-mediator paths of gratitude， social support and PTG, respectively; three twomediator paths of gratitude via PTG, social support via PTG and gratitude via social support, and one three-mediator path from gratitude to PTG via social support. These findings suggested that following a natural disaster, adolescent survivors’ empathy may have an indirect and positive relation with prosocial behavior by gratitude, social support and PTG.
+
+Key words empathy; gratitude; social support; PTG; prosocial behavior

@@ -1,0 +1,170 @@
+# 国际预印本平台的主要发展态势研究
+
+张智雄’²，黄金霞¹，王颖’，刘静羽¹，陈雪飞'
+
+（1.中国科学院文献情报中心，北京100190；2.中国科学院武汉文献情报中心，武汉430071 ）
+
+摘要：在开放获取、开放科研等大潮的影响下，预印本和基于预印本平台的学术交流得到科学界高度关注。本文对2013年以来国际上预印本平台建设的相关情况进行总结梳理，研究提出当前国际预印本发展的7个主要态势。研究表明，以arXiv、SSRN为代表的传统预印本平台通过可持续发展模式探索，赢来大发展；以BioRXiv、ChemRXiv等为代表的新预印本平台如雨后春笋般纷纷推出，带来预印本平台的大繁荣；而在科学界，基于论文手稿的预印本交流模式，得到学术团体、学协会、科技管理机构、基金组织，甚至是传统出版商的广泛认可，表明以学界自治为基础的预印本学术交流模式正在改变传统的以期刊为主体的学术交流模式。
+
+关键词：预印本平台；学术交流模式；arXiv；SSRN；发展态势
+
+中图分类号：G250
+
+1991年8月，Ginsparg 在洛斯阿拉莫斯国家实验室开发了基于电子邮件的预印本平台xxx.lanl.gov（也即是后来的arXiv.org)，开启了电子预印本时代[1-2]。1994年，Jensen 等构建了社会和人文科学领域的预印本平台 SSRN（Social Science Research Network）[3]。
+
+虽然预印本平台有近30年的历史，但前20多年的历史中，除arXiv和 SSRN这样的少数品牌和高能物理这样的少数领域外，预印本和预印本平台在整个科学界的认可度并不高，影响力也有限，在基于期刊的传统学术交流模式的挤压下，预印本和基于预印本的学术交流处于较为尴尬的境地，得不到学术团体、科研管理机构、基金组织等相关方面的广泛认可。
+
+然而，近几年情况发生很大变化。在开放获取、开放科研等大潮的影响下，预印本和基于预印本平台的学术交流得到科学界高度关注。一方面，以BioRxiv 为代表的新预印本平台如雨后春笋般纷纷推出，各种“Xiv”层出不穷，带来预印本服务的空前繁荣；另一方面，基于论文手稿的预印本交流模式，得到学术团体、学协会、科技管理机构、基金组织，甚至是传统出版商的广泛认可，均以各种方式支持预印本平台发展和预印本交流。
+
+很多迹象表明，以学界自治为基础的预印本学术交流模式正在快速发展，它正在改变传统的以期刊为主体的学术交流模式，正悄然引领新一轮的开放获取运动大潮。本文对 2013年以来国际预印本平台建设进程中的重要事件进行梳理，总结当前国际预印本平台建设的主要发展态势，以期国内研究人员能够对该新型学术交流模式加以关注。
+
+# 1arXiv实现了可持续发展模式，赢来大发展
+
+arXiv 是目前国际最知名的预印本平台，1998年转由康乃尔大学图书馆运营。在2010年之前，虽然arXiv已成为高能物理等领域的重要学术基础设施，但由于仅得到康乃尔大学图书馆的支持，经费问题一直困扰arXiv 的发展。
+
+自2010年1月，康乃尔大学图书馆开始了历时三年的arXiv可持续发展模式探索，促使arXiv 从康乃尔大学图书馆全权主管的模式，向多机构合作共管、多团体有效支持的会员管理模式转变。2012年8月28日，由康乃尔大学图书馆提出的arXiv 可持续发展模式得到西蒙斯基金会资助。根据资助计划，2013一2017年，西蒙斯基金会每年向康乃尔大学图书馆资助 300 000 美元经费；每年“无条件赠予”康乃尔大学图书馆50000 美元，以支持其对arXiv 的运营管理。目前，arXiv已构建起由康乃尔大学图书馆、西蒙斯基金会和全球成员机构共同支持的长期可持续发展模式。特别是近两年，arXiv 持续得到海辛-西蒙斯基金会（Heising-Simons Foundation）和斯隆基金会（Sloan Foundation）支持，以改善其平台基础架构，开发服务新模式，从而实现下一代arXiv 计划（arXiv-NG）所提出的建设目标[4]。
+
+近年来，在arXiv 发布的论文数量实现多个突破性增长。2012年10月，在arXiv 发布的研究论文有79万余篇；2015年1月12日，在arXiv发布的论文数突破100万篇[5]；2017年10月，在arXiv发布的论文量已达131万篇，5年间增长了52万余篇。与此相应的是，每月新提交给arXiv的论文数量大幅增长。在2011年，全年arXiv共新增76 578篇论文，每个月平均新增数不足6400 篇。由于 arXiv 的文章标识符以“年月 $+$ 序列号”（即arXiv:YYMM.number）为编号，序列号是以4位数进行编号，足以容纳每个月的新提交论文。2014年年底，arXiv预测未来单月论文提交数量将可能超过万篇，因此自2015年，arXiv的文章序列号从4位数提升至5位数[]。2016年10月,arXiv平台的新提交论文量达到10100篇，首次在单月内论文提交量超过万篇[7]。
+
+在 2017年，arXiv分两次对其收录的学科领域进行扩展。之前arXiv只收录6个学科领域的预印本论文，分别为物理学、数学、计算机科学、定量生物学、定量金融和统计学。在相关学术团队（如 IEEE信号处理学会）和领域专家的要求下，经过arXiv 科学咨询委员会的研究决定，2017年9月18日，arXiv扩展了电气工程与系统科学领域8，于9月26日，扩展了经济学领域[9]。
+
+# 2 SSRN被EIsevier收购，正在面向多个重要领域扩张
+
+虽然 SSRN平台在预印本平台方面的影响力尚不及arXiv，但其近两年的发展模式突破常规屡次创新，甚至比arXiv有过之而无不及。
+
+2016年5月17日，Elsevier收购了预印本平台系统 SSRN。此事在当时引起了业界的高度关注。人们普遍关注两个重要问题：Elsevier这样的出版巨头为什么会收购 SSRN这样一个服务于社会科学领域的预印本平台？SSRN在被收购之后，将会怎样发展？
+
+关于第一个问题，在 Elsevier 发布的新闻稿中其实已经做了阐述[10]。正如 Elsevier 在文中所声称的那样，Elsevier积极适应开放获取的潮流，深刻认识到开放共享在学术研究中的价值，Elsevier收购 SSRN是希望构建支持学者交流沟通的开放科研网络。作为整体战略中的一步，Elsevier将在原有基于期刊的学术交流渠道上，充分发挥其内容资源优势，借助Mendeley 技术平台及其科研用户群体，并且充分利用 SSRN的预印本交流渠道，进而构建一种充分支持学者交流沟通的开放科研网络。显然，Elsevier 收购 SSRN 有着长远打算,Elsevier已然看到了传统学术交流模式正在改变的主流趋势。
+
+关于第二个问题，在一年之后的今天，可以明确看到答案。2017年，被Elsevier收购后的 SSRN以新的姿态出现。在服务用户界面得到极大改善的同时，SSRN不再固守于社会和人文科学领域，开始积极面向更多重要领域的开放研究网络扩展[11]。2017年5月，SSRN平台扩展了生物学科研网络（Biology Research Network，BioRN）[12]；2017年8月，SSRN平台又进一步推出化学科研网络（Chemistry Research Network，ChemRN）[13]。按照计划,SSRN 还将在2017年年底继续扩展4个科研网络。SSRN的领域扩张，预示着基于预印本交流的渠道竞争已经开始。
+
+# 3BioRxiv强势而来，已成生物领域预印本服务的品牌
+
+近年来，生物学领域的科学家积极借鉴arXiv 在物理学领域的经验，努力促进预印本交流在生物学领域的推广和应用。2013年，美国冷泉港实验室推出面向生物学领域的预印本平台 BioRxiv[14]。在2013年，平台总计收到 824 篇预印本论文。到 2016年2月，BioRxiv上面的论文约3100篇[15]。可以看到，在其起步的前三年，BioRxiv 的论文增速并不很迅速。
+
+2016 年2月，一个名为 ASAPbio (Accelerating Science and Publication in biology)的组织出现，推动 BioRxiv进入了一个快速发展的时期。ASAPbio 是一个由科学家自主发起，致力于在生物学领域应用预印本来促进学术成果交流的草根组织[16]。ASAPbio 通过组织多次生物领域的预印本建设讨论会，积极推动科学家、科研管理机构、科学协会、出版商、基金组织对生物领域预印本平台构建的支持。在ASAPbio 相关活动影响下，BioRxiv 的预印本论文提交量快速增长，仅2016年其新增论文量就已超过 5000 篇。截至2017年10月，BioRxiv的论文数量达到16000篇，每月提交的新论文数量也超过1000 篇，已经成为生物领域重要的科研基础平台。
+
+BioRxiv预印本平台在创立之初就得到劳里基金会（LourieFoundation）支持，近年来得到更多基金会高度关注。2017年2月，ASAPbio 发布了一个经费支持需求，希望相关基金组织积极支持构建包括bioRxiv在内的生物学领域的集中预印本平台，以促进科研成果的尽快交流。此项需求得到美国国立卫生研究院（NIH）、威康信托基金会（Wellome Trust）以及其他资助者积极响应。2017年4月26日,bioRxiv 得到陈扎克伯克基金会(Chan ZuckerbergInitiative，CZI）一个“多年期资助方案”支持。该资助方案将为bioRxiv支付员工薪水、支持bioRxiv 的技术开发和其他基础设施建设[17]。
+
+# 4ACS力推ChemRxiv，打造国际化学界预印本平台
+
+在数学、物理、化学、生物这些大领域中，化学由于其研究成果直接与实际应用挂钩，带来经济效益，因此，化学相对是一个较为保守、不愿开放的领域。但自2016年以来，随着学术交流环境的变化，以美国化学学会（ACS）为首的化学界也在积极推动预印本平台的建设，以构建服务于化学界的国际化预印本平台。
+
+2016年8月10日，作为推动全球化学领域开放合作的一项重要任务，美国化学学会宣布创建化学领域的国际化预印本平台ChemRxiv，以促进重要的科学发现能被快速传播和应用[18]。美国化学学会相关人员认为，ChemRxiv 将参照物理学领域的arXiv 和生命科学领域的bioRxiv模式，使化学领域研究人员能够跨越研究领域界限，在论文正式进入同行评议和出版前，能及时分享作者早期的研究结果和数据。2017年8月14日，美国化学学会宣布ChemRxiv的Beta版正式对外发布，可供全球化学科研团体和研究人员使用和测试。ChemRxiv 测试版由数字仓储平台Figshare提供支持。在公开对外发布之前，Beta版已被广泛试用，并征询了美国化学学会、英国皇家化学学会、德国化学学会，及相关非营利组织、科学出版商和预印本平台的意见[19-20]。ChemRxiv 坚持免费的提交和访问服务，用户可以访问所需要的文本内容，也可以通过开放的API或OAI-PMH协议对数据进行收割。
+
+ChemRxiv 被认为是由化学界驱动，为化学界服务的国际化预印本平台，旨在让全球化学家能够及时分享其研究成果，让其研究发现能尽早为全球化学界所认可。在ChemRxiv 开发过程中，美国化学学会联合英国皇家化学学会、德国化学学会及部分非营利组织，使ChemRxiv 具有中立性、国际性特点。目前，在ChemRxiv 由美国化学学会代表国际化学科学界对平台进行管理，后续将组建管理委员会和科学委员会，对平台的战略方向进行管理。
+
+# 5众多“Xiv”纷纷推出，预印本发展出现空前繁荣
+
+除上述预印本平台外，近年来，各类学术组织、知识服务团体不断推出各领域的新预印本平台，预印本发展空前繁荣。
+
+2013 年4月，PeerJ推出预印本平台PeerJPreprints，提供生物学、医学、健康学以及计算机科学领域的预印本存缴服务。截至目前，平台已汇集3350篇研究论文，其影响力还在不断扩大。2016年6月，位于瑞典巴塞尔的多领域数字出版所（MDPI）推出多领域预印本平台（The Multidisciplinary Preprint Platform)，面向所有学科提供预印本服务，目前已发布2200 篇论文手稿。2017年4月，工程领域预印本服务系统engrXiv 正式对外提供预印本存缴服务。该平台于2016年由开放科学中心发起建立，由威斯康星大学进行管理。
+
+此外，各领域预印本平台不断被推出。如 2016年，心理学领域的预印本平台PsyArXiv发布；2016年12月，社会科学领域的预印本平台 SocArXiv正式发布；2017年，国际医疗机构 Open Therapeutics 启动医疗预印本 Therapoid平台；2017年，图书馆学档案学领域的预印本平台LISSA 发布；2017年2月，农业领域的预印本平台AgrXiv 启动；2017 年年初，考古学领域的预印本平台 PaleorXiv 启动；2017年4月，体育领域的预印本平台 SportRxiv启动；2017年5月，法律领域的预印本平台LawArXiv启动；2017年8月，印度尼西亚创建针对印度尼西亚多个学科领域的预印本平台INArxiv；2017年8月，专门供学生进行硕博士论文预印本交流的平台 ThesisCommons 启动；2017年9月，医学和健康领域的预印本平台 MedArXiv 启动。
+
+另外，还有一些领域的预印本平台正在建设中。如由美国地球物理联会建设的ESSOAr预计在2017年11月推出；地学领域还将推出第二个预印本平台 EarthArXiv；海洋保护和海洋气候领域的预印本平台MarXiv也预计于2017年11月推出。
+
+国内预印本平台也得到快速发展。2016年6月13日，中国科学院推出中国科学院科技论文预发布平台（ChinaXiv)，其目标是构建一个按国际通行模式规范运营的预印本平台。
+
+# 6基金组织支持预印本，将其作为项目申请和结题的依据
+
+为鼓励创新，推动科研新成果能及时发布、迅速传播和扩散应用，产生社会经济效益，基金组织大多对预印本持积极态度，鼓励项目申请者和项目执行者及时通过预印本平台发布研究成果。一些基金组织认为，通过发布预印本论文的方式，能让研究成果被更多人阅读和评议，提升基金项目研究的严谨性；研究成果的及时发布也有助于提高基金所支持项目的影响力。
+
+目前，很多科研基金组织将预印本作为一种项目申请和研究报告的依据，并提出在项目申请和研究报告中引用预印本的标准规范。美国国立卫生研究院（NIH）是这方面的重要带动者。2016年10月，NIH发起了一个意见调查，研究在NIH的基金申请和研究报告中是否包括预印本等阶段性研究成果，以及将采用什么规范来引用阶段性成果[21]。在广泛征求意见后，2017年3月，NIH宣布自2017年5月25日起，在NIH的项目申请和NIH的研究成效进展报告（RPPR）之中可以引用项目的预印本论文及其他阶段性研究成果[22]。在这一通知中，NIH鼓励科研人员充分利用预印本交流模式，在快速扩散研究成果的同时，进一步增强研究工作的严谨性。通知还明确了科研人员在引用这些阶段性研究成果、表明这些成果得到NIH资助时应当遵守的相关规范。
+
+总体而言，NIH明确指出预印本等阶段研究成果可以像正式发表的论文一样在项目申请和研究报告的相关地方被引用。如申请书中的参考书目和引用文献部分、申请人简介、计划产出成果等部分，以及研究成效进展报告中的主要成果产出部分等。NIH进一步明确，为促进预印本成果的规范引用，项目申请人和项目执行人须在引用中标明预印本的数字对象标识符，明确标识对象类型为预印本，列出预印本的版本信息（包括最近修改的日期）及引用预印本的日期。
+
+为了让NIH 资助的预印本等阶段性成果产生更大效益，NIH希望其资助的预印本论文能够及时开放获取，尽可能遵循CC-BY许可协议，并在预印本正文中通过致谢的方式表明预印本受到NIH资助，明确指出这项研究成果尚未经过同行评议，并对任何竞争性利益进
+
+行声明。
+
+对于受资助的论文作者要选择哪些预印本平台来发布其预印本成果，NIH指导性意见包括预印本平台要确保内容可查找、可访问、可互操作和可重用；预印本的元数据（包括使用统计信息）可开放访问、易于访问；具有长期战略，确保成果可以长期保存等。
+
+除 NIH 外，还有很多基金和研究组织在支持预印本。如英国医学研究委员会宣布将自2017年4月起支持预印本；威康信托基金会在2017年1月表示，将接受预印本作为项目申请和项目结题的依据；英国癌症研究中心于2017年5月30日宣布在项目申请中接受预印本；霍华德休斯医学研究所、赫尔姆斯利信托、西蒙斯基金会等也表示支持预印本。
+
+# 7英吉尔芬格规则正在被打破，更多期刊支持预印本交流
+
+英吉尔芬格规则由 Ingelfinger 于1969 年提出。该规则要求作者投稿给某一种期刊的论文手稿，不能是已投稿给其他期刊或已在别的地方发布过的论文手稿 [23]。其本质是要求作者不能一稿多投，保证期刊不发布已经发表的内容，保证论文的原创性。但这条规则也阻止了很多作者将其研究成果提交给预印本平台。
+
+近年来，在出版领域，英吉尔芬格规则正在被打破，越来越多的期刊允许作者在论文投稿前将论文手稿发布在预印本平台上（如 Nature、Science)；也有期刊采取“一事一议”的方式，要求作者与期刊联系，讨论决定是否允许先在预印本平台上公开手稿（如Cell)。
+
+虽然还有期刊继续坚持英吉尔芬格规则，但遭到科技界的反对，很多科学家团体、学协会正积极组织起来，努力打破英吉尔芬格规则。美国化学学会是这方面的一个典型例子。特别是在2016年8月美国化学学会宣布支持预印本交流后，旗下学会期刊陆续推出各自预印本支持政策，不同程度地允许作者在向其期刊投稿前，将论文手稿放在预印本平台上进行交流。如ACSChemical Biology 和Nano Letters对有预印本发布和无预印本发布的论文投稿一视同仁，仅需要在投稿时告诉编辑。
+
+# 8总结分析
+
+近年来，特别是自 2016 年以来，是预印本平台空前繁荣的发展时期。在科学界，基于论文手稿的预印本交流模式，得到学术团体、学协会、科技管理机构、基金组织，甚至是传统出版商的广泛认可。具体而言，以arXiv、SSRN 为代表的传统预印本平台通过可持续发展模式探索，赢来大发展；以BioRXiv、ChemRXiv等为代表的各领域新预印本平台不断被推出，并且有的已经形成新的服务品牌，带来预印本平台的大繁荣；基金组织积极支持预印本交流，正在将预印本作为一种项目申请和项目研究报告的依据，并提出在项目申请和研究报告中引用预印本的标准规范；在出版领域，英吉尔芬格规则正在被打破，越来越多的期刊允许作者在论文投稿前将论文手稿发布在预印本平台。这些趋势足以表明以学界自治为基础的预印本学术交流模式正在改变传统以期刊为主体的单一学术交流模式。
+
+面对当前空前繁荣的国际预印本平台，本文认为有以下5个方面值得业界同仁高度关注。（1）开放科研是预印本平台大发展的主导因素。开放科研所倡导的全周期公开透明的  
+科研模式正在成为科研主流，预印本平台和基于预印本的学术交流成为科研人员、学术团体、  
+学协会、出版商和基金组织等适应开放科研需要的重要工具和手段。（2）科学界自治是科研团体支持预印本平台的主要出发点。科学界的事情交由科学界  
+来处理一直是很多科研团体的基本要求。在过度依赖期刊来评价一篇论文的质量的现实情况  
+下，很多学术团体更加充分地认识到研究成果的评价和交流，更需要学界自治。不依赖于出  
+版机构的预印本平台，更能体现学界自治的特点。（3）基金组织的积极支持是预印本平台得到发展的主要推手。基金组织作为科研活动  
+的资金提供者，希望科研早出成果、出好成果，更希望成果的尽快扩散，尽早产生效益和影
+
+响。这与预印本平台及时交流研究成果的初衷如出一辙。
+
+（4）预印本平台间的相互竞争是预印本平台发展的激励因素。在众多预印本平台推出的背后是科研交流渠道和科研话语权的激烈竞争。这点在化学领域的预印本平台建设方面清晰可见，在 SSRN 推出化学科研网络一周之后，美国化学学会马上就发布了ChemRxiv。（5）学术交流模式改变是预印本平台大发展的应有结果。预印本平台的发展，必然改变传统的学术交流模式。我国相关机构应当积极组织建设国家级的科技预印本平台，主导符合国际潮流的新型学术交流模式，提升国家在学术交流中的主导权和话语权。
+
+# 参考文献
+
+[1]GINSPARG P.It was twenty years ago today   
+[EB/OL].(2011-08-14)[2017-09-24].https://arxiv.0rg/abs/1108.2700.   
+[2] GINSPARG P.Preprint Déja Vu: an FAQ[EB/OL].(2017-06-13)   
+[2017-09-24].https://arxiv.0rg/abs/1706.04188.   
+[3] Elsevier.Social Science Research Network[EB/OL].   
+[2017-09-24].https://en.wikipedia.org/wiki/Social_Science_Research_Network. [4] RIEGER O Y.Grant from the Heising-Simons Foundation[EB/OL].(2017-08-30) [2017-09-24].   
+https://confluence.cornell.edu/display/arxivpub/2017/08/30/Grant+from+the+HeisingSimons+Foundation.   
+[5]Cornell University Library.arXiv Hits 1 Million Submissions[EB/OL].   
+[2017-09-24].https://www.library.cornell.edu/about/news/press-releases/arxiv-hits-1- million-submissions-0.   
+[6] Understanding the arXiv   
+identifier[EB/OL].[2017-09-24].https://arxiv.org/help/arxiv_identifier.   
+[7] arXiv monthly submission rates[CSV][EB/OL].   
+[2017-09-24].https://arxiv.org/stats/monthly_submissions.   
+[8]Introducing arXiv/EESS (Electrical Engineering and Systems   
+Science)[EB/OL].[2017-09-18].https://arxiv.org/help/eess/announcement.   
+[9] Announcement of new Economics (econ) archive[EB/OL].   
+(2017-09-26)[ 2017-09-27].https://arxiv.org/help/econ/announcement.   
+[10] GORDON G.SSRN一the leading social science and humanities repository and online community-joins Elsevier[EB/OL].   
+(2016-05-17)[2017-09-24].https://www.elsevier.com/connect/ssrn-the-leading-social-s cience-and-humanities-repository-and-online-community-joins-elsevier.   
+[11]Elsevier.About   
+SSRN[EB/OL].[2017-09-24].htps://www.elsevier.com/solutions/ssrn [12] SSRN.Biology research network[EB/OL].   
+[2017-09-24].https://www.ssrn.com/en/index.cfm/biorn/.   
+[13]SSRN.Chemistry research network[EB/OL].   
+[2017-09-24].https://www.ssrn.com/en/index.cfm/chemrn/.   
+[14]CSH.bioRxiv[EB/OL].[2017-09-24].https://www.biorxiv.0rg/.   
+[15] bioRxiv[EB/OL].[2017-09-24].https://en.wikipedia.org/wiki/BioRxiv.   
+[16] ASAPbio[EB/OL].[2017-09-24].http://asapbio.0rg/.   
+[17]CALLAWAY E.BioRxiv preprint server gets cash boost from Chan Zuckerberg Initiative   
+[EB/OL].(2017-04-26)[2017-09-24].https://www.nature.com/news/biorxiv-preprint-se rver-gets-cash-boost-from-chan-zuckerberg-initiative-1.21894.   
+[18]ACS.American Chemical Society announces intention to establish“ChemRxiv” preprint server to promote early research sharing[EB/OL].(2016-08-10)[2017-09-24]. https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/august/acs-announc es-intention-to-establish-chemrxiv-preprint-server-to-promote-early-research-sharing. html.   
+[19]ACS.ChemRxivTM Beta open for submissions and powered by   
+Figshare[EB/OL].(2017-08-14)[2017-09-24].   
+https://www.acs.org/content/acs/en/pressroom/newsreleases/2017/august/chemrxiv-be ta-open-for-submissions-and-powered-by-figshare.html.   
+[20] ChemRxiv.ChemRxiv Beta:The Preprint Server for Chemistry   
+ChemRxiv[EB/OL].[2017-09-24].https://hemrxiv.org/.   
+[21]National Institutes of Health. Request for information (RFI): Including Preprints and Interim Research Products in NIH Applications and Reports[EB/OL].   
+(2016-10-06)[2017-09-24].htps://grants.nih.gov/grants/guide/notice-files/NOT-OD-1 7-006.html.   
+[22]UW Research.NIH:Reporting Preprints and Other Interim Research   
+Products.[EB/OL].(2017-04-19)[2017-09-24].htp://www.washington.edu/research/an nouncements/nih-preprints-interim/.   
+[23] INGELFINGER FJ.Definition ofsole contribution [J].The New England Journal of Medicine, 1969,281:676-677.
+
+作者简介
+
+张智雄，男，1971年生，博士，中国科学院文献情报中心副主任，中国科学院武汉文献情报中心主任，研究员，博士生导师，研究方向：信息系统和智能信息处理。ChinaXiv 项目
+
+负责人。Email: zhangzhx@mail.las.ac.cn;  
+黄金霞，1972年生，副研究馆员，硕士生导师，研究方向：信息组织方法研究；  
+王颖，1982年生，博士，馆员，研究方向：本体、知识组织；  
+刘静羽，1989年生，馆员，研究方向：开放资源建设；  
+陈雪飞，1987年生，馆员，研究方向：开放资源建设。
+
+# Study on the Main Trends of the International Preprint Servers
+
+ZHANG ZhiXiong1,² ,HUANG JinXia', WANG Ying], LIU JingYu1,Cheng XueFei1 (1.National Science Library, Chinese Academy of Sciences, Beijing 100190, China;2.Wuhan
+
+Library, Chinese Academy of Sciences, Wuhan 430071,China)
+
+Abstract: Influenced by Open Access Movement and Open Science, preprints and the scholarly communication based on preprint servers have received great attention from the scientific community. This paper summarizes the status of the international preprint serversince 2O13 and proposes seven main trends of current international preprint development. It is found out that traditional preprint servers, such as arXiv and SSRN， have seen gorgeousachievements by exploringa sustainable development model. Also, some new preprint servers,such as bioRxiv, ChemRxiv, have sprung up like mushrooms in recent years, bringing prosperity for preprint servers. Moreover, for scientific community, the scholarly communication model with manuscripts of research articles has won widely recognition from academic groups,societies, science and technology management institutions, the IMF,and even the traditional publishers.It indicates that the scholarly communication based on the preprints is changing the traditional scholarly communication model in which journals are as the main body.
+
+Keywords:Preprint Server; Scholarly Communication; arXiv; SSRN; Development Trend

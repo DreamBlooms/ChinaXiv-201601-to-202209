@@ -1,0 +1,802 @@
+[
+    {
+        "type": "text",
+        "text": "Exact Solution for Three-Dimensional Ising Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Degang Zhang $^ { 1 , 2 }$ $^ { 1 }$ College of Physics and Electronic Engineering, Sichuan Normal University, Chengdu 610101， China $\\mathcal { Z }$ Institute of Solid State Physics，Sichuan Normal University，Chengdu 610101，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three-dimensional Ising model in zero external feld is exactly solved by operator algebras,similar to the Onsager's approach in two dimensions. The partition function of the simple cubic crystal imposed by the periodic boundary condition along both (O10) and (Ool) directions and the screw boundary condition along the (1o0) direction is calculated rigorously.In the thermodynamic limit an integral replaces a sum in the formula of the partition function.When the $z$ axis is chosen as the transfer matrix direction,a order-disorder transition in the infinite crystal occurs at a temperature $T = T _ { c }$ $\\frac { 2 J } { k _ { B } T _ { c } }$ sinh $\\begin{array} { r } { \\frac { 2 ( J _ { 1 } + J _ { 2 } ) } { k _ { B } T _ { c } } = 1 } \\end{array}$ ,where $\\left( J _ { 1 } J _ { 2 } J \\right)$ are the interaction energies in three directions,respectively. The analytical expressions for the internal energy and the specific heat are also given.It is also shown that the thermodynamic properties of 3D Ising model with $J _ { 1 } = J _ { 2 }$ are connected to those in 2D Ising model with the interaction energies $\\left( J _ { 1 } J _ { 2 D } \\right)$ by the relation $\\begin{array} { r } { \\big ( \\frac { J _ { 2 D } } { k _ { B } T } \\big ) ^ { * } = \\big ( \\frac { J } { k _ { B } T } \\big ) ^ { * } - \\frac { J _ { 1 } } { k _ { B } T } } \\end{array}$ ，where $\\begin{array} { r } { x ^ { * } = \\frac { 1 } { 2 } \\mathrm { l n c o t h } x = \\operatorname { t a n h } ^ { - 1 } ( e ^ { - 2 x } ) } \\end{array}$ . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 05.50.+q,64.60.-i, 75.10.-b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The exact solution for three-dimensional (3D） Ising model has been one of the greatest challenges to the physics community for decades.In 1925,Ising presented the simple statistical model in order to study the orderdisorder transition in ferromagnets [1]. Subsequently the so-called Ising model has been widely applied in condensed matter physics.Unfortunately, one-dimensional Ising model has no phase transition at nonzero temperature.However,such systems could have a transition at nonzero temperature in higher dimensions [2].In 1941, Kramers and Wannier located the critical point of twodimensional (2D）Ising model at finite temperature by employing the dual transformation[3]. About two and a half years later Onsager solved exactly 2D Ising model by using an algebraic approach [4] and calculated the thermodynamic properties. Contrary to the continuous internal energy, the specific heat becomes infinite at the sinh transition temperature $\\frac { 2 J } { k _ { B } T _ { c } }$ sinhg $\\begin{array} { r } { \\frac { 2 J ^ { \\prime } } { k _ { B } T _ { c } } = 1 } \\end{array}$ whtere $T = T _ { c }$ $\\left( J ^ { \\prime } J \\right)$ given by the condition: are he itsrci respectively. The partition function of 2D Ising model was also re-evaluated by a spinor analysis [5]. Up to now many 2D statistical systems have been exactly solved [6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tors,which is similar to that in solving 2D Ising model [4].Under suitable boundary conditions,3D Ising model with vanishing external field can be described by the operator algebras,and thus is solved exactly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.THEORY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well-known that 3D Ising model has not been solved exactly yet due to its complexity. Because there is no dual transformation, the critical point of 3D Ising model cannot be fixed by such a symmetry. We also note that it is difficult to write the Hamiltonian along the third dimension of 3D Ising model with periodic boundary conditions in terms of the Onsager's operators. In addition,due to the existence of nonlocal rotation，3D Ising model seems not to be also solved by the spinor analysis. Therefore, the key to solve 3D Ising model is to find the operator expression of the interaction along the third dimension.Here we introduce a set of opera",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consider a simple cubic lattice with $l$ layers, $n$ rowsper layer， and $m$ sitesper row. Then $\\begin{array} { r l } { H } & { { } = } \\end{array}$ $\\begin{array} { r l } { - \\sum _ { i , j , k = 1 } ^ { m , n , l } ( J _ { 1 } \\sigma _ { i j k } ^ { z } \\sigma _ { i + 1 k j } ^ { z } + J _ { 2 } \\sigma _ { i j k } ^ { z } \\sigma _ { i j + 1 k } ^ { z } + J \\sigma _ { i j k } ^ { z } s _ { i j k + 1 } ^ { z } ) } & { { } } \\end{array}$ where $\\sigma _ { i j k } ^ { z } ~ = ~ \\pm 1 \\$ is the spin on the site $[ i j k ]$ Assume that $\\nu _ { k }$ labels the spin configurations in the $k$ th layer，we have $1 ~ \\leq ~ \\nu _ { k } ~ \\leq ~ 2 ^ { m n }$ .As a result, the energy of a spin，configuration of the crystal $\\begin{array} { r } { E _ { s c } = \\sum _ { k = 1 } ^ { l } E _ { 1 } ( \\nu _ { k } ) + \\sum _ { k = 1 } ^ { l } E _ { 2 } ( \\nu _ { k } ) + \\sum _ { k = 1 } ^ { l } E ( \\nu _ { k } , \\nu _ { k + 1 } ) } \\end{array}$ ， where $E _ { 1 } ( \\nu _ { k } )$ and $E _ { 2 } ( \\nu _ { k } )$ arethe energies along twoperpendiculardirectionsinthe $k$ th layer，respectively，and $E ( \\nu _ { k } , \\nu _ { k + 1 } )$ isthe energybetween two adjacent layers.Now we define $\\begin{array} { r } { ( V _ { 1 } V _ { 2 } ) _ { \\nu _ { k } \\nu _ { k } } = \\sum _ { \\nu _ { k } ^ { \\prime } } ( V _ { 1 } ) _ { \\nu _ { k } \\nu _ { k } ^ { \\prime } } ( V _ { 2 } ) _ { \\nu _ { k } ^ { \\prime } \\nu _ { k } } = ( V _ { 1 } ) _ { \\nu _ { k } \\nu _ { k } } ( V _ { 2 } } \\end{array}$ )vkvk= $\\begin{array} { r l r } { \\exp [ - E _ { 1 } ( \\nu _ { k } ) / ( k _ { B } T ) ] } & { { } \\times } & { \\exp [ - E _ { 2 } ( \\nu _ { k } ) / ( k _ { B } T ) ] } \\end{array}$ and $\\begin{array} { r l r } { ( V _ { 3 } ) _ { \\nu _ { k } \\nu _ { k + 1 } } } & { { } \\equiv } & { \\exp [ - E ( \\nu _ { k } , \\nu _ { k + 1 } ) / ( k _ { B } T ) ] } \\end{array}$ Herewe use the periodic boundary conditions along both (010) and (Oo1） directions and the screw boundary condition along the（1oo） direction for simplicity [3] (see Fig.1). So the spin configurations along $\\mathbf { X }$ direction in a layer can be described by the spin variables $\\sigma _ { 1 } ^ { z } , \\sigma _ { 2 } ^ { z } , \\cdots , \\sigma _ { m n } ^ { z }$ Because the_probability of a_spin configuration is proportional to $\\exp [ - E _ { s c } / ( k _ { B } T ) ] ~ =$ $( V _ { 1 } V _ { 2 } ) _ { \\nu _ { 1 } \\nu _ { 1 } } ( V _ { 3 } ) _ { \\nu _ { 1 } \\nu _ { 2 } } ( V _ { 1 } V _ { 2 } ) _ { \\nu _ { 2 } \\nu _ { 2 } } ( V _ { 3 } ) _ { \\nu _ { 2 } \\nu _ { 3 } } \\cdot \\cdot \\cdot ( V _ { 1 } V _ { 2 } ) _ { \\nu _ {  l } \\nu _ { l } } ( V _ { 3 } ) _ { \\nu _ { l } \\nu _ { 1 } }$ the partition function of 3D Ising model is ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { Z = \\sum _ { \\nu _ { 1 } , \\nu _ { 2 } , \\cdots , \\nu _ { l } } ( V _ { 1 } V _ { 2 } ) _ { \\nu _ { 1 } \\nu _ { 1 } } ( V _ { 3 } ) _ { \\nu _ { 1 } \\nu _ { 2 } } \\cdots ( V _ { 1 } V _ { 2 } ) _ { \\nu _ { l } \\nu _ { l } } ( V _ { 3 } ) _ { \\nu _ { l } \\nu _ { 1 } } } } \\\\ { { \\mathrm { } \\equiv \\mathrm { t r } ( V _ { 1 } V _ { 2 } V _ { 3 } ) ^ { l } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/db435a6a12256d6bc504e80a697ec532fe1fa805fd72190d79bf94a42cbbea95.jpg",
+        "img_caption": [
+            "FIG.1:(Color online) The lattice structure in each layer of the simple cubic crystal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We note that $V _ { 1 }$ ， $V _ { 2 }$ and $V _ { 3 }$ are $2 ^ { m n }$ -dimensional matrices,and both $V _ { 1 }$ and $V _ { 2 }$ are diagonal. Following Ref. [4], weobtain ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { V _ { 1 } ~ = ~ \\mathrm { e x p } ( H _ { 1 } \\sum _ { \\tau = 1 } ^ { m n } \\sigma _ { \\tau } ^ { z } \\sigma _ { \\tau + 1 } ^ { z } ) \\equiv \\mathrm { e x p } ( H _ { 1 } H _ { x } ) , } \\\\ & { V _ { 2 } ~ = ~ \\mathrm { e x p } ( H _ { 2 } \\sum _ { \\tau = 1 } ^ { m n } \\sigma _ { \\tau } ^ { z } \\sigma _ { \\tau + m } ^ { z } ) \\equiv \\mathrm { e x p } ( H _ { 2 } H _ { y } ) , } \\\\ & { V _ { 3 } ~ = ~ [ 2 \\sinh ( 2 H ) ] ^ { m n / 2 } \\exp ( H ^ { * } \\sum _ { \\tau = 1 } ^ { m n } \\sigma _ { \\tau } ^ { x } ) } \\\\ & { ~ \\equiv ~ [ 2 \\sinh ( 2 H ) ] ^ { m n / 2 } \\exp ( H ^ { * } H _ { z } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { 1 } = J _ { 1 } / ( k _ { B } T ) , H _ { 2 } = J _ { 2 } / ( k _ { B } T ) , H = J / ( k _ { B } T )$ ），and $H ^ { * } = { \\textstyle { \\frac { 1 } { 2 } } } \\ln \\coth H = \\operatorname { t a n h } ^ { - 1 } ( e ^ { - 2 H } )$ 号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to diagonalize the transfer matrix $V \\equiv$ $V _ { 1 } V _ { 2 } V _ { 3 }$ ，following the Onsager's famous work in two dimensions,we first introduce the operators ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { a , a } = - \\sigma _ { a } ^ { x } , \\quad L _ { a , b } = \\sigma _ { a } ^ { z } \\sigma _ { a + 1 } ^ { x } \\sigma _ { a + 2 } ^ { x } \\cdot \\cdot \\cdot \\sigma _ { b - 1 } ^ { x } \\sigma _ { b } ^ { z }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in spin space $\\Gamma$ along the $\\mathbf { X }$ direction under the boundary conditions mentioned above.Here $a , b = 1 , 2 , \\cdot \\cdot \\cdot , 2 m n$ ， （20 $\\boldsymbol { \\sigma } _ { a } ^ { x }$ ， $\\boldsymbol { \\sigma } _ { a } ^ { y }$ and $\\boldsymbol { \\sigma } _ { a } ^ { z }$ are the Pauli matrices at site $a$ ，respectively. Then we have $L _ { a , b } ^ { 2 } = 1$ and ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { a , b + m n } = L _ { a + m n , b } = - Q L _ { a , b } = - L _ { a , b } Q\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { Q \\equiv \\prod _ { a = 1 } ^ { n \\prime \\prime \\prime } \\sigma _ { a } ^ { x } = \\pm 1 } \\end{array}$ .It is obvious that the period of $\\boldsymbol { L } _ { a , b }$ is 2mn.We note that these operators $\\boldsymbol { L } _ { a , b }$ are identical to $P _ { a b }$ in Ref. [4] except mn replaces $n$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$H _ { x }$ and $H _ { z }$ in the transfer matrix $V$ can be expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { H _ { x } = \\sum _ { a = 1 } ^ { m n } L _ { a , a + 1 } , } } \\\\ { { H _ { z } = \\sum _ { a = 1 } ^ { m n } \\sigma _ { a } ^ { x } = - \\sum _ { a = 1 } ^ { m n } L _ { a , a } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Following Onsager's idea [4],we introduce the operators ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\alpha _ { r } ~ = } & { - \\frac { 1 } { 4 m n } \\sum _ { a , b = 1 } ^ { 2 m n } L _ { a , b } \\cos { \\frac { ( a - b ) r \\pi } { m n } } , } \\\\ { \\beta _ { r } ~ = } & { - \\frac { 1 } { 4 m n } \\sum _ { a , b = 1 } ^ { 2 m n } L _ { a , b } \\sin { \\frac { ( a - b ) r \\pi } { m n } } , } \\\\ { \\gamma _ { r } ~ = } & { \\frac { i } { 8 m n } \\sum _ { a , b = 1 } ^ { 2 m n } ( L _ { a , x } L _ { b , x } - L _ { x , a } L _ { x , b } ) \\sin { \\frac { ( a - b ) r \\pi } { m n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $x$ is an arbitrary index. Obviously,we have $\\alpha _ { - r } =$ $\\alpha _ { r }$ ， $\\beta _ { - r } = - \\beta _ { r }$ ， $\\beta _ { 0 } = \\beta _ { m n } = 0$ ， $\\gamma _ { - r } = - \\gamma _ { r }$ ，and $\\gamma _ { 0 } =$ $\\gamma _ { m n } = 0$ .Eqs.(6) can be rewritten as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\alpha _ { r } \\ = \\ - \\frac { 1 } { 2 m n } \\sum _ { s = 1 } ^ { 2 m n } A _ { s } \\cos \\frac { r s \\pi } { m n } , } & { } \\\\ { \\beta _ { r } \\ = \\ \\frac { 1 } { 2 m n } \\sum _ { s = 1 } ^ { 2 m n } A _ { s } \\sin \\frac { r s \\pi } { m n } , } & { } \\\\ { \\gamma _ { r } \\ = \\ - \\frac { i } { 2 m n } \\sum _ { s = 1 } ^ { 2 m n } G _ { s } \\sin \\frac { r s \\pi } { m n } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where As 二 ∑m Laa+s and （204号 $\\begin{array} { r l } { G _ { s } } & { { } = } \\end{array}$ $\\begin{array} { r } { \\frac { 1 } { 2 } \\sum _ { a = 1 } ^ { m n } ( L _ { a , x } L _ { a + s , x } \\ - \\ L _ { x , a } L _ { x , a + s } ) } \\end{array}$ Accordingto the orthogonal properties of the coefficients,we obtain ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { A _ { s } } & { = \\ \\sum _ { r = 1 } ^ { 2 m n } [ - \\alpha _ { r } \\cos { \\frac { r s \\pi } { m n } } + \\beta _ { r } \\sin { \\frac { r s \\pi } { m n } } ] , } \\\\ { G _ { s } } & { = \\ i \\sum _ { r = 1 } ^ { 2 m n } \\gamma _ { r } \\sin { \\frac { r s \\pi } { m n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From Eqs. (5)-(8), $H _ { x }$ and $H _ { z }$ have the expansions ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H _ { x } = A _ { 1 } = - 2 \\sum _ { r = 1 } ^ { m n - 1 } ( \\alpha _ { r } \\cos \\frac { r \\pi } { m n } - \\beta _ { r } \\sin \\frac { r \\pi } { m n } ) } \\\\ & { \\phantom { \\frac { 1 } { 1 } } - \\alpha _ { 0 } + \\alpha _ { m n } , } \\\\ & { H _ { z } = - A _ { 0 } = \\alpha _ { 0 } + 2 \\sum _ { r = 1 } ^ { m n - 1 } \\alpha _ { r } + \\alpha _ { m n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because $A _ { m n + s } ~ = ~ - Q A _ { s } ~ = ~ - A _ { s } Q$ and $\\begin{array} { r l } { G _ { m n + s } } & { { } = } \\end{array}$ $- Q G _ { s } = - G _ { s } Q$ ,and combining with Eqs. (8),we have ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ 1 + ( - 1 ) ^ { r } Q ] \\alpha _ { r } = [ 1 + ( - 1 ) ^ { r } Q ] \\beta _ { r } = [ 1 + ( - 1 ) ^ { r } Q ] \\gamma _ { r } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When $Q \\ : = \\ : 1$ ， $\\alpha _ { 2 r } = \\beta _ { 2 r } = \\gamma _ { 2 r } = 0$ while $\\alpha _ { 2 r + 1 } ~ =$ $\\beta _ { 2 r + 1 } = \\gamma _ { 2 r + 1 } = 0$ if $Q = - 1$ . So we can investigate the algebra(8) with $Q = 1$ or -1 independently. However, we keep them together for convenience.In order to diagonalize the transfer matrix $V$ ，we must first determine the commutation relations among the operators $\\alpha _ { r }$ ， $\\beta _ { r }$ and $\\gamma _ { r }$ . Similar to those calculations in Ref.[4],we obtain ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { [ A _ { i } , A _ { j } ] = 4 G _ { i - j } , \\quad [ G _ { i } , G _ { j } ] = 0 , } } \\\\ { { [ G _ { i } , A _ { j } ] = 2 ( A _ { j + i } - A _ { j - i } ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eqs. (8) into Eqs.(11),we arrive at ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\alpha _ { r } , \\beta _ { r } ] = 2 i \\gamma _ { r } , [ \\beta _ { r } , \\gamma _ { r } ] = 2 i \\alpha _ { r } , [ \\gamma _ { r } , \\alpha _ { r } ] = 2 i \\beta _ { r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $r = 1 , 2 , \\cdots , m n - 1$ ，and all the other commutators vanish. Obviously, the algbra(12） is associated with the site $r$ ，and hence is local. Because $\\alpha _ { r }$ ， $\\beta _ { r }$ ，and $\\gamma _ { r }$ obey the same commutation relations with $- X _ { r }$ ， $- Y _ { r }$ . and $- Z _ { r }$ in Ref.[4],we have the further relations ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\alpha _ { 0 } ^ { 2 } = \\frac { 1 } { 2 } ( 1 - Q ) = R _ { 0 } , } \\\\ & { \\alpha _ { m n } ^ { 2 } = \\frac { 1 } { 2 } [ 1 - ( - 1 ) ^ { m n } Q ] = R _ { m n } , } \\\\ & { \\alpha _ { r } \\beta _ { r } = i \\gamma _ { r } , \\beta _ { r } \\gamma _ { r } = i \\alpha _ { r } , \\gamma _ { r } \\alpha _ { r } = i \\beta _ { r } , } \\\\ & { \\alpha _ { r } ^ { 2 } = \\beta _ { r } ^ { 2 } = \\gamma _ { r } ^ { 2 } = R _ { r } ^ { 2 } = R _ { r } , \\alpha _ { r } = R _ { r } \\alpha _ { r } = \\alpha _ { r } R _ { r } , } \\\\ & { \\beta _ { r } = R _ { r } \\beta _ { r } = \\beta _ { r } R _ { r } , \\gamma _ { r } = R _ { r } \\gamma _ { r } = \\gamma _ { r } R _ { r } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l } { \\mathrm { W e } \\quad { \\mathrm { n o t e } } \\quad { \\mathrm { t h a t } } \\quad A _ { s m } \\quad } & { = \\quad \\sum _ { p = 1 } ^ { m } A _ { p , s } \\quad \\quad = } \\\\ { \\sum _ { p = 1 } ^ { m } \\sum _ { a = 1 } ^ { n } L _ { a , a + s } ^ { p } = \\sum _ { p = 1 } ^ { m } \\sum _ { a = 1 } ^ { n } L _ { p + ( a - 1 ) m , p + ( a - 1 + s ) m } } & \\\\ { { \\mathrm { a n d } } G _ { s m } = \\sum _ { p = 1 } ^ { m } G _ { p , s } = { \\frac { 1 } { 2 } } \\sum _ { p = 1 } ^ { m } \\sum _ { a = 1 } ^ { n } [ L _ { p + ( a - 1 ) m , x } \\times } & \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8669ad8b11d5beb03392205e6cd5f3aecc1ded1aafd1f8b583131b1ee359c72e.jpg",
+        "img_caption": [
+            "FIG.2:(Color online） Operator renormalization: schematic d $\\mathcal { L } _ { a , b } ^ { p }$ $\\Gamma _ { p }$ along the $\\mathbf { Y }$ direction and $L _ { a , b } ^ { p }$ 目 $\\Gamma$ along the $\\mathbf { X }$ direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { l } { { L _ { p + ( a - 1 + s ) m , x } \\mathrm { ~ - ~ } L _ { x , p + ( a - 1 ) m } L _ { x , p + ( a - 1 + s ) m } \\mathrm { ] , ~ } } } \\\\ { { s = 1 , 2 , \\cdot \\cdot \\cdot , 2 n , \\mathrm { a n d } } } \\end{array}$ （204号 where",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { A _ { p , s } = \\sum _ { q = 1 } ^ { 2 n } \\{ - \\alpha _ { p + ( q - 1 ) m } \\cos \\frac { [ p + ( q - 1 ) m ] s \\pi } { n } } \\\\ & { } & { + \\beta _ { p + ( q - 1 ) m } \\sin \\frac { [ p + ( q - 1 ) m ] s \\pi } { n } \\} , } \\\\ & { } & { G _ { p , s } = i \\sum _ { q = 1 } ^ { 2 n } \\gamma _ { p + ( q - 1 ) m } \\sin \\frac { [ p + ( q - 1 ) m ] s \\pi } { n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When $m = p = 1$ ，Eqs.(14） recover the results in $\\mathrm { t }$ wo dimensions [4]. It is obvious that $A _ { p , i }$ and $G _ { p , j }$ also satisfy the commutation relations (11). When $p \\neq p ^ { \\prime }$ ， $[ A _ { p , i } , A _ { p ^ { \\prime } , i ^ { \\prime } } ] = [ G _ { p , j } , G _ { p ^ { \\prime } , j ^ { \\prime } } ] = [ A _ { p , i } , G _ { p ^ { \\prime } , i ^ { \\prime } } ] = 0$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We have obtained the expressions of $H _ { x }$ and $H _ { z }$ in terms of the operators $\\alpha _ { r }$ ， $\\beta _ { r }$ and $\\gamma _ { r }$ in the space $\\Gamma$ .In order to get the Hamiltonian in the third dimension,we project the operator algebra in the space $\\Gamma$ into the $\\mathbf { Y }$ direction. Then we have $m$ subspaces $\\Gamma _ { p } ( p = 1 , 2 , \\cdot \\cdot \\cdot , m )$ ， in which the operator algebra with period $2 n$ is same with that in $\\Gamma$ .In $\\Gamma _ { p }$ , we define ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal L _ { a , a } ^ { p } = - \\sigma _ { p + ( a - 1 ) m } ^ { x } , } \\\\ & { \\mathcal L _ { a , b } ^ { p } = \\sigma _ { p + ( a - 1 ) m } ^ { z } \\sigma _ { p + a m } ^ { x } \\cdot \\cdot \\cdot \\sigma _ { p + ( b - 2 ) m } ^ { x } \\sigma _ { p + ( b - 1 ) m } ^ { z } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "along the （20 $\\mathbf { Y }$ （20 direction. Then we have $\\begin{array} { r l r } { \\mathcal { A } _ { p , s } } & { { } \\ = \\ } & { \\sum _ { a = 1 } ^ { n } \\mathcal { L } _ { a , a + s } ^ { p } } \\end{array}$ （204 and $\\begin{array} { r l } { \\mathcal { G } _ { p , s } } & { { } = } \\end{array}$ （204号 $\\begin{array} { r l r } { \\frac { 1 } { 2 } \\sum _ { a = 1 } ^ { n } [ \\mathcal { L } _ { p + ( a - 1 ) m , x } \\mathcal { L } _ { p + ( a - 1 + s ) m , x } } & { { } - } & { \\mathcal { L } _ { x , p + ( a - 1 , p + 1 ) m } } \\end{array}$ Lx,p+(a-1)m × $\\mathcal { L } _ { x , p + ( a - 1 + s ) m } ]$ ，which also obey the same commutation relations (1i） and (12),similar to $A _ { p , s }$ and $G _ { p , s }$ . Then the Hamiltonian $\\begin{array} { r } { H _ { y } = \\sum _ { p = 1 } ^ { m } \\mathcal { A } _ { p , 1 } } \\end{array}$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because $[ \\mathcal { L } _ { a , a + s } ^ { p } , \\mathit { L } _ { b , b + s } ^ { p } ] \\ = \\ 0$ (see Fig. 2)， we have $[ \\mathcal { A } _ { p , s } , \\mathcal { A } _ { p , s } ] = 0$ ，which leads to $\\mathcal { A } _ { p , s } \\equiv A _ { p , s }$ due to their common local algebra (12). This is $a$ renormalization of operator， which means that $\\mathcal { A } _ { p , s }$ and $A _ { p , s }$ have same eigenfunctions and eigenvalues in $\\Gamma _ { p }$ or $\\Gamma$ space. We note that $V _ { 2 }$ is the transfer matrix along $\\mathbf { Y }$ direction,which must be calculated in $\\Gamma$ rather than $\\Gamma _ { p }$ space by mapping $\\mathcal { A } _ { p , 1 } \\equiv A _ { p , 1 }$ in order to diagonalize total transfer matrix ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$V$ . Therefore,we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H _ { y } \\ = \\ \\sum _ { p = 1 } ^ { m } { \\mathcal { A } } _ { p , 1 } = \\sum _ { p = 1 } ^ { m } { \\cal A } _ { p , 1 } \\equiv { \\cal A } _ { m } } \\\\ & { = \\ - \\alpha _ { 0 } - 2 \\sum _ { r = 1 } ^ { m n - 1 } ( \\alpha _ { r } \\cos \\frac { r \\pi } { n } - \\beta _ { r } \\sin \\frac { r \\pi } { n } ) } \\\\ & { \\quad \\quad - ( - 1 ) ^ { m } \\alpha _ { m n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, we would like to mention that $\\begin{array} { r } { H _ { z } = - \\sum _ { p = 1 } ^ { m } \\mathcal { A } _ { p , 0 } \\equiv } \\end{array}$ $- A _ { 0 }$ ，which is same with that in (9).This means that when $J _ { 1 } = 0$ ，the Hamiltonian of 2D Ising model is recovered immediately. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because $[ Q , H _ { x } ] = [ Q , H _ { y } ] = [ Q , H _ { z } ] = [ Q , V ] = 0$ ， $V$ and $Q$ can be simultaneously diagonalized on the same basis.In other words,the eigenvalue problem of $V$ can be classified by the value $\\pm 1$ of $Q$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transfer matrix $V$ with Eqs.(9) and(16) becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { V } & { = } & { [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { H _ { 1 } A _ { 1 } } e ^ { H _ { 2 } A _ { m } } e ^ { - H ^ { * } A _ { 0 } } } \\\\ & { = } & { [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { ( H ^ { * } - H _ { 1 } - H _ { 2 } ) \\alpha _ { 0 } } } \\\\ & { } & { \\times \\prod _ { r = 1 } ^ { m n - 1 } U _ { r } e ^ { [ H ^ { * } + H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } ] \\alpha _ { m n } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U _ { r } \\ = \\ e ^ { - 2 H _ { 1 } ( \\alpha _ { r } \\cos \\frac { r \\pi } { m n } - \\beta _ { r } \\sin \\frac { r \\pi } { m n } ) } } \\\\ { \\times e ^ { - 2 H _ { 2 } ( \\alpha _ { r } \\cos \\frac { r \\pi } { n } - \\beta _ { r } \\sin \\frac { r \\pi } { n } ) } e ^ { 2 H ^ { * } \\alpha _ { r } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to obtain the eigenvalues of the transfer matrix $V$ ，we first diagonalize $U _ { r }$ by employing the general unitary transformation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { e ^ { \\frac { i } { 2 } \\eta _ { r } \\gamma _ { r } } e ^ { a _ { r } \\left( \\alpha _ { r } \\cos \\theta _ { r } + \\beta _ { r } \\sin \\theta _ { r } \\right) } U _ { r } } \\\\ & { \\times e ^ { - a _ { r } \\left( \\alpha _ { r } \\cos \\theta _ { r } + \\beta _ { r } \\sin \\theta _ { r } \\right) } e ^ { - \\frac { i } { 2 } \\eta _ { r } \\gamma _ { r } } = e ^ { \\xi _ { r } \\alpha _ { r } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here $\\theta _ { r }$ is an arbitrary constant and can be taken to be zero without loss of generality, and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\cosh \\xi _ { r } = \\mathcal { D } _ { r } , } \\\\ & { \\sinh \\xi _ { r } \\cos \\eta _ { r } = \\mathcal { A } _ { r } , \\quad \\operatorname { t a n h } ( 2 a _ { r } ) = \\frac { \\mathcal { C } _ { r } } { \\mathcal { B } _ { r } } , } \\\\ & { \\sinh \\xi _ { r } \\sin \\eta _ { r } = \\mathcal { B } _ { r } \\cosh ( 2 a _ { r } ) - \\mathcal { C } _ { r } \\sinh ( 2 a _ { r } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { A } _ { \\nu } } & { = \\mathrm { c o s h } ( 2 H _ { 1 } ) \\mathrm { c o n h } ( 2 H _ { 2 } ) \\mathrm { s i n h } ( 2 H ^ { * } ) } \\\\ & { \\quad - \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { c o s h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { c o n } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad - \\mathrm { c o s h } ( 2 H _ { 1 } ) \\mathrm { s i n h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { c o n s } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad + \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { s i n h } ( 2 H _ { 2 } ) \\mathrm { s i n h } ( 2 H ^ { * } ) \\mathrm { c o n s } ^ { \\frac { \\mathrm { s r s } } { m ^ { 3 } } } , } \\\\ { \\mathcal { B } _ { \\nu } } & { = \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { c o n h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad + \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { c o n h } ( 2 H _ { 2 } ) \\mathrm { s i n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad + \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { s i n h } ( 2 H _ { 2 } ) \\mathrm { s i n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ { \\mathcal { C } _ { \\nu } } & { = \\mathrm { s i n h } ( 2 H _ { 1 } ) \\mathrm { c o n h } ( 2 H _ { 2 } ) \\mathrm { s i n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad + \\mathrm { c o s h } ( 2 H _ { 1 } ) \\mathrm { s i n h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ & { \\quad + \\mathrm { c o s h } ( 2 H _ { 1 } ) \\mathrm { s i n h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { s i n h } \\frac { \\mathrm { s r s } } { m ^ { 3 } } , } \\\\ { \\mathcal { D } _ { \\nu } } & { = \\mathrm { c o s h } ( 2 H _ { 1 } ) \\mathrm { c o n h } ( 2 H _ { 2 } ) \\mathrm { c o n h } ( 2 H ^ { * } ) \\mathrm { c o n s } \\frac { \\mathrm { s r s } } { m ^ { 3 } } } \\\\ &  \\quad - \\mathrm { c o s h } ( 2 H _  1 \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We note that $\\mathcal { D } _ { r } ^ { 2 } + \\mathcal { C } _ { r } ^ { 2 } - \\mathcal { A } _ { r } ^ { 2 } - \\mathcal { B } _ { r } ^ { 2 } \\equiv 1$ ，which ensures that 3D Ising model can be solved exactly in the whole parameter space.When $H _ { 2 } = 0 ( i . e . J _ { 2 } = 0 )$ and $n = 1$ ， or ${ H _ { 1 } = 0 ( i . e . J _ { 1 } = 0 ) }$ and $m = 1$ ，we have $a _ { r } = H ^ { * }$ . So Eqs.(19) recover the Onsager's results in 2D Ising model [4]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then the transfer matrix $V$ hasa diagonal form ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { e ^ { \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } \\gamma _ { r } } e ^ { \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } \\alpha _ { r } } V e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } \\alpha _ { r } } } \\\\ & { \\times e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } \\gamma _ { r } } = [ 2 \\sinh ( 2 H ^ { * } ) ] ^ { \\frac { m n } { 2 } } } \\\\ & { \\times e ^ { ( H ^ { * } - H _ { 1 } - H _ { 2 } ) \\alpha _ { 0 } + \\sum _ { r = 1 } ^ { m n - 1 } \\xi _ { r } \\alpha _ { r } + [ H ^ { * } + H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } ] \\alpha _ { m n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\mathcal A } _ { r } ^ { * } \\ = \\ \\sinh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) } & { } \\\\ & { \\ - \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos \\frac { r \\pi } { m n } } \\\\ & { \\ - \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos \\frac { r \\pi } { n } } \\\\ & { \\ + \\cosh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\cos \\frac { ( m - 1 ) r \\pi } { m n } , } \\\\ { { \\mathcal B } _ { r } ^ { * } \\ = \\ \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\sin \\frac { r \\pi } { m n } } \\\\ & { \\ + \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\sin \\frac { r \\pi } { m n } } \\\\ & { \\ + \\cosh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\sin \\frac { ( m - 1 ) r \\pi } { m n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also have $\\mathcal { D } _ { r } ^ { 2 } + \\mathcal { C } _ { r } ^ { 2 } - \\mathcal { A } _ { r } ^ { * 2 } - \\mathcal { B } _ { r } ^ { * 2 } \\equiv 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.Transformation 1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Transformation 2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to explore the symmetries in 3D Ising model, we take the transformation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\alpha _ { r } ^ { * } \\ = \\ - \\alpha _ { r } \\cos \\frac { r \\pi } { m n } + \\beta _ { r } \\sin \\frac { r \\pi } { m n } , } \\\\ & { \\beta _ { r } ^ { * } \\ = \\ \\alpha _ { r } \\sin \\frac { r \\pi } { m n } + \\beta _ { r } \\cos \\frac { r \\pi } { m n } , \\ \\gamma _ { r } ^ { * } = - \\gamma _ { r } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is easy to prove that $\\alpha _ { r } ^ { * }$ ， $\\beta _ { r } ^ { * }$ and $\\gamma _ { r } ^ { * }$ satisfy the same commutation relations with $\\alpha _ { r }$ ， $\\beta _ { r }$ and $\\gamma _ { r }$ . Then we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H _ { x } = \\alpha _ { 0 } ^ { * } + 2 \\sum _ { r = 1 } ^ { m n - 1 } \\alpha _ { r } ^ { * } + \\alpha _ { m n } ^ { * } , } \\\\ & { H _ { y } = \\alpha _ { 0 } ^ { * } + 2 \\sum _ { r = 1 } ^ { m n - 1 } [ \\alpha _ { r } ^ { * } \\cos \\frac { ( m - 1 ) r \\pi } { m n } + \\beta _ { r } ^ { * } \\sin \\frac { ( m - 1 ) r \\pi } { m n } ] } \\\\ & { \\phantom { \\frac { 1 } { 1 } } - ( - 1 ) ^ { m } \\alpha _ { m n } ^ { * } , } \\\\ & { H _ { z } = - \\alpha _ { 0 } ^ { * } - 2 \\sum _ { r = 1 } ^ { m n - 1 } [ \\alpha _ { r } ^ { * } \\cos \\frac { r \\pi } { m n } - \\beta _ { r } ^ { * } \\sin \\frac { r \\pi } { m n } ] + \\alpha _ { m n } ^ { * } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Obviously, such a transformation exchanges the interaction forms in $( 1 , 0 , 0 )$ and $( 0 , 0 , 1 )$ directions,but changes the interaction form in $( 0 , 1 , 0 )$ direction.Therefore,3D Ising model has no a dual transformation,and the critical point cannot be fixed by the Kramers and Wannier's approach [3]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The transfer matrix can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { V ~ = } & { [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { H _ { 1 } A _ { 1 } } e ^ { H _ { 2 } A _ { m } } e ^ { - H ^ { * } A _ { 0 } } } \\\\ { ~ = } & { [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { ( H _ { 1 } + H _ { 2 } - H ^ { * } ) \\alpha _ { 0 } ^ { * } } } \\\\ & { ~ \\times \\prod _ { r = 1 } ^ { m n - 1 } U _ { r } ^ { * } e ^ { [ H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } + H ^ { * } ] \\alpha _ { m n } ^ { * } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { U _ { r } ^ { * } ~ = ~ e ^ { 2 H _ { 1 } \\alpha _ { r } ^ { * } } e ^ { 2 H _ { 2 } [ \\alpha _ { r } ^ { * } \\cos { \\frac { ( m - 1 ) r \\pi } { m n } } + \\beta _ { r } ^ { * } \\sin { \\frac { ( m - 1 ) r \\pi } { m n } } ] } } } \\\\ { { \\times e ^ { - 2 H ^ { * } ( \\alpha _ { r } ^ { * } \\cos { \\frac { r \\pi } { m n } } - \\beta _ { r } ^ { * } \\sin { \\frac { r \\pi } { m n } } ) } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Following the procedure above,we can diagonalize the transfer matrix $V$ ，i.e. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { e ^ { \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } ^ { * } \\gamma _ { r } ^ { * } } e ^ { \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } ^ { * } \\alpha _ { r } ^ { * } } V e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } ^ { * } \\alpha _ { r } ^ { * } } } \\\\ & { \\times e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } ^ { * } \\gamma _ { r } ^ { * } } = [ 2 \\sinh ( 2 H ^ { * } ) ] ^ { \\frac { m n } { 2 } } } \\\\ & { \\times e ^ { ( H _ { 1 } + H _ { 2 } - H ^ { * } ) \\alpha _ { 0 } ^ { * } + \\sum _ { r = 1 } ^ { m n - 1 } \\xi _ { r } \\alpha _ { r } ^ { * } + [ H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } + H ^ { * } ] \\alpha _ { m n } ^ { * } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\sinh \\xi _ { r } \\cos \\eta _ { r } ^ { * } = \\mathcal { A } _ { r } ^ { * } , \\operatorname { t a n h } ( 2 a _ { r } ^ { * } ) = - \\frac { \\mathcal { C } _ { r } } { \\mathcal { B } _ { r } ^ { * } } , } \\\\ & { \\sinh \\xi _ { r } \\sin \\eta _ { r } ^ { * } = \\mathcal { B } _ { r } ^ { * } \\cosh ( 2 a _ { r } ^ { * } ) + \\mathcal { C } _ { r } \\sinh ( 2 a _ { r } ^ { * } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\alpha _ { r } ^ { \\prime } \\ = \\ - \\alpha _ { r } \\cos \\frac { r \\pi } { n } + \\beta _ { r } \\sin \\frac { r \\pi } { n } , } & { } \\\\ { \\beta _ { r } ^ { \\prime } \\ = \\ \\alpha _ { r } \\sin \\frac { r \\pi } { n } + \\beta _ { r } \\cos \\frac { r \\pi } { n } , \\ \\gamma _ { r } ^ { \\prime } = - \\gamma _ { r } , } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H _ { x } = \\alpha _ { 0 } ^ { \\prime } + 2 \\sum _ { r = 1 } ^ { m n - 1 } [ \\alpha _ { r } ^ { \\prime } \\cos \\frac { ( m - 1 ) r \\pi } { m n } - \\beta _ { r } ^ { \\prime } \\sin \\frac { ( m - 1 ) r \\pi } { m n } ] } \\\\ & { \\phantom { \\frac { 1 } { 1 } } - ( - 1 ) ^ { m } \\alpha _ { m n } ^ { \\prime } , } \\\\ & { H _ { y } = \\alpha _ { 0 } ^ { \\prime } + 2 \\sum _ { r = 1 } ^ { m n - 1 } \\alpha _ { r } ^ { \\prime } + \\alpha _ { m n } ^ { \\prime } , } \\\\ & { H _ { z } = - \\alpha _ { 0 } ^ { \\prime } - 2 \\sum _ { r = 1 } ^ { m n - 1 } [ \\alpha _ { r } ^ { \\prime } \\cos \\frac { r \\pi } { n } - \\beta _ { r } ^ { \\prime } \\sin \\frac { r \\pi } { n } ] } \\\\ & { \\phantom { \\frac { 1 } { 1 } } - ( - 1 ) ^ { m } \\alpha _ { m n } ^ { \\prime } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The transfer matrix reads ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { V ~ = ~ [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { H _ { 1 } A _ { 1 } } e ^ { H _ { 2 } A _ { m } } e ^ { - H ^ { * } A _ { 0 } } } } \\\\ { { } } & { { } } & { { = ~ [ 2 \\sinh ( 2 H ) ] ^ { \\frac { m n } { 2 } } e ^ { ( H _ { 1 } + H _ { 2 } - H ^ { * } ) \\alpha _ { 0 } ^ { \\prime } } } } \\\\ { { } } & { { } } & { { ~ \\times \\prod _ { r = 1 } ^ { m n - 1 } U _ { r } ^ { \\prime } e ^ { [ - ( - 1 ) ^ { m } H _ { 1 } + H _ { 2 } - ( - 1 ) ^ { m } H ^ { * } ] \\alpha _ { m n } ^ { \\prime } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U _ { r } ^ { \\prime } ~ = ~ e ^ { 2 H _ { 1 } [ \\alpha _ { r } ^ { \\prime } \\cos \\frac { ( m - 1 ) r \\pi } { m n } - \\beta _ { r } ^ { \\prime } \\sin \\frac { ( m - 1 ) r \\pi } { m n } ] } e ^ { 2 H _ { 2 } \\alpha _ { r } ^ { \\prime } } } \\\\ { \\times e ^ { - 2 H ^ { * } ( \\alpha _ { r } ^ { \\prime } \\cos \\frac { r \\pi } { n } - \\beta _ { r } ^ { \\prime } \\sin \\frac { r \\pi } { n } ) } . \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Similarly, we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { e ^ { \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } ^ { \\prime } \\gamma _ { r } ^ { \\prime } } e ^ { \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } ^ { \\prime } \\alpha _ { r } ^ { \\prime } } V e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } ^ { \\prime } \\alpha _ { r } ^ { \\prime } } } \\\\ & { \\times e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } \\eta _ { r } ^ { \\prime } \\gamma _ { r } ^ { \\prime } } = [ 2 \\sinh ( 2 H ^ { * } ) ] ^ { \\frac { m n } { 2 } } } \\\\ & { \\times e ^ { ( H _ { 1 } + H _ { 2 } - H ^ { * } ) \\alpha _ { 0 } ^ { \\prime } + \\sum _ { r = 1 } ^ { m n - 1 } \\xi _ { r } \\alpha _ { r } ^ { \\prime } + [ H _ { 2 } - ( - 1 ) ^ { m } ( H _ { 1 } + H ^ { * } ) ] \\alpha _ { m n } ^ { \\prime } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\sinh \\xi _ { r } \\cos \\eta _ { r } ^ { \\prime } =  { \\mathcal { A } } _ { r } ^ { \\prime } , \\operatorname { t a n h } ( 2 a _ { r } ^ { \\prime } ) = - \\frac {  { \\mathcal { C } } _ { r } } {  { \\mathcal { B } } _ { r } ^ { \\prime } } , } \\\\ & { \\sinh \\xi _ { r } \\sin \\eta _ { r } ^ { \\prime } =  { \\mathcal { B } } _ { r } ^ { \\prime } \\cosh ( 2 a _ { r } ^ { \\prime } ) +  { \\mathcal { C } } _ { r } \\sinh ( 2 a _ { r } ^ { \\prime } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { A _ { r } ^ { \\prime } = \\cosh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) } } \\\\ & { } & { - \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos { \\frac { r \\pi } { n } } } \\\\ & { } & { - \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos { \\frac { ( 2 m - 1 ) r \\pi } { m n } } } \\\\ & { } & { + \\sinh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\cos { \\frac { ( m - 1 ) r \\pi } { m n } } , } \\\\ & { } & { B _ { r } ^ { \\prime } = \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\sin { \\frac { r \\pi } { n } } } \\\\ & { } & { - \\sinh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\sin { \\frac { ( m - 1 ) r \\pi } { m n } } } \\\\ & { } & { + \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\sin { \\frac { ( 2 m - 1 ) r \\pi } { m n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The identity $\\mathcal { D } _ { r } ^ { 2 } + \\mathcal { C } _ { r } ^ { 2 } - \\mathcal { A } _ { r } ^ { \\prime 2 } - \\mathcal { B } _ { r } ^ { \\prime 2 } \\equiv 1$ also holds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.RESULTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because αo,α1, $\\alpha _ { 0 } , \\alpha _ { 1 } , \\cdots , \\alpha _ { m n }$ have the common eigenvectors $\\chi _ { 0 }$ withthecorrespondingeigenvalues $\\Delta _ { 0 } , \\Delta _ { 1 } , \\cdots , \\Delta _ { m n }$ ，from Eq.(20)，we have $V \\psi = \\lambda \\psi$ ， where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { r } { \\psi = \\ e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } a _ { r } \\alpha _ { r } } e ^ { - \\sum _ { r = 1 } ^ { m n - 1 } \\frac { i } { 2 } q _ { r } \\gamma _ { r } } \\chi _ { 0 } , \\qquad } \\\\ { \\ln \\lambda = \\ \\frac { 1 } { 2 } m n \\ln [ 2 \\sinh ( 2 H ) ] + ( H ^ { * } - H _ { 1 } - H _ { 2 } ) \\Delta _ { 0 } \\qquad } \\\\ { + \\sum _ { r = 1 } ^ { m n - 1 } \\xi _ { r } \\Delta _ { r } + [ H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } + H ^ { * } ] \\Delta _ { m n } . } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At the critical point,we have $\\xi _ { 0 } = H ^ { \\ast } - H _ { 1 } - H _ { 2 } = 0$ [4]. This leads to a critical temperature $T = T _ { c }$ given by the condition ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sinh ( 2 H ) \\sinh ( 2 H _ { 1 } + 2 H _ { 2 } ) = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If $H _ { 2 } = 0$ or $H _ { 1 } = 0$ ,we obtain the critical temperature in 2DIsing model [3, 4]. We note that when $H _ { 1 } = H _ { 2 } = H$ ， the critical value $H _ { c } = J / ( k _ { B } T _ { c } ) = 0 . 3 0 4 6 8 8 9 3$ ，which is larger than the conjectured value about O.22 from the previous numerical simulations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We note that the thermodynamic properties of a large crystal are determined by the largest eigenvalue $\\lambda _ { \\mathrm { m a x } }$ of the transfer matrix $V$ . Following Ref. [4],we have ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\ln \\lambda _ { \\mathrm { m a x } } - \\frac { 1 } { 2 } m n \\ln [ 2 \\sinh ( 2 H ) ] } \\\\ & { \\qquad \\xi _ { 1 } + \\xi _ { 3 } + \\cdot \\cdot \\cdot + \\xi _ { 2 L - 1 } \\mathrm { f o r } m n = 2 L ; } \\\\ & { = \\{ \\xi _ { 1 } + \\xi _ { 3 } + \\cdot \\cdot \\cdot + \\xi _ { 2 L - 1 } } \\\\ & { \\qquad + H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } + H ^ { * } \\mathrm { f o r } m n = 2 L + 1 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here $\\Delta _ { 1 } = \\Delta _ { 3 } = \\cdot \\cdot \\cdot = \\Delta _ { m n - 1 } = 1$ ，which are same with the eigenvalues of the operators $X _ { r }$ in Ref.[4].We note that these two results above can be combined due to $\\xi _ { - r } = \\xi _ { r }$ and $\\xi _ { m n } = 2 [ H _ { 1 } - ( - 1 ) ^ { m } H _ { 2 } + H ^ { * } ]$ . So Eqs. (33）have the compact form ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\ln \\lambda _ { \\mathrm { m a x } } - \\frac { 1 } { 2 } m n \\ln [ 2 \\sinh ( 2 H ) ] = \\frac { 1 } { 2 } \\sum _ { r = 1 } ^ { m n } \\xi _ { 2 r - 1 } } \\\\ & { = \\frac { 1 } { 2 } \\sum _ { r = 1 } ^ { m n } \\cosh ^ { - 1 } [ \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) } \\\\ & { \\phantom { \\frac { 1 } { 2 } m n } - \\sinh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos \\frac { ( 2 r - 1 ) \\pi } { 2 m n } } \\\\ & { \\phantom { \\frac { 1 } { 2 } m n } - \\cosh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos \\frac { ( 2 r - 1 ) \\pi } { 2 n } } \\\\ & { \\phantom { \\frac { 1 } { 2 } m n } + \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\cos \\frac { ( m - 1 ) ( 2 r - 1 ) \\pi } { 2 m n } \\bigr ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to calculate the partition function per atom （204号 $\\begin{array} { r } { \\lambda _ { \\infty } = \\operatorname* { l i m } _ { m , n \\to \\infty } ( \\lambda _ { \\mathrm { m a x } } ) ^ { \\frac { 1 } { m n } } } \\end{array}$ for the infinite crystal, we replace the sum in Eq. (34) by the integral ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\lambda _ { \\infty } = \\frac { 1 } { 2 } \\ln [ 2 \\sinh ( 2 H ) ] + \\frac { 1 } { 2 \\pi } \\operatorname* { l i m } _ { m  \\infty } \\int _ { 0 } ^ { \\pi } \\xi _ { m } ( \\omega ) d \\omega ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\cosh \\xi _ { m } ( \\omega ) = \\mathcal { D } ( \\omega ) = \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) } \\\\ & { \\quad - \\sinh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos \\omega } \\\\ & { \\quad - \\cosh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\sinh ( 2 H ^ { * } ) \\cos ( m \\omega ) } \\\\ & { \\quad + \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 } ) \\cosh ( 2 H ^ { * } ) \\cos [ ( m - 1 ) \\omega ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similarly, the continuous $\\scriptstyle A ( \\omega )$ ， $A ^ { * } ( \\omega )$ ， $\\mathcal { A ^ { \\prime } } ( \\omega )$ ， $B ( \\omega )$ . $B ^ { * } ( \\omega )$ ， $B ^ { \\prime } ( \\omega )$ ， $\\mathcal { C } ( \\omega )$ ， $\\xi _ { m } ( \\omega )$ ， $\\eta ( \\omega )$ ， $\\eta ^ { * } ( \\omega )$ ，and $\\eta ^ { \\prime } ( \\omega )$ replace the discrete $\\boldsymbol { \\mathcal { A } } _ { r }$ ， $\\boldsymbol { \\mathcal { A } } _ { r } ^ { * }$ ， $\\boldsymbol { \\mathcal { A } } _ { r } ^ { \\prime }$ ， $\\boldsymbol { B } _ { r }$ ， ${ { B } } _ { r } ^ { * }$ ， $B _ { r } ^ { \\prime }$ ， $\\scriptstyle { \\mathcal { C } } _ { r }$ ， $\\xi _ { r }$ ， $\\eta _ { r }$ ， $\\eta _ { r } ^ { * }$ and $\\eta _ { r } ^ { \\prime }$ , respectively, by letting $\\begin{array} { r } { \\omega = \\frac { r \\pi } { m n } } \\end{array}$ . Here we emphasis that when $H _ { 2 } = 0$ ，or $H _ { 1 } = 0$ ,Eq.(35) is nothing but the Onsager's famous result in the 2D case [4].We also note that very different from the 2D case, the partition function of 3D Ising model is oscillatory with the system size $m$ . Therefore,the conjectured values extrapolating to the infinite system seem to be unreliable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For a crystal of $N = m n l$ , the free energy ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = U - T S = - N k _ { B } T \\ln \\lambda _ { \\infty } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the internal energy ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U \\ = \\ F - T \\frac { d F } { d T } = N k _ { B } T ^ { 2 } \\frac { \\ln \\lambda _ { \\infty } } { d T } \\qquad } \\\\ { \\ = \\ - N k _ { B } T [ H _ { 1 } \\frac { \\partial \\ln \\lambda _ { \\infty } } { \\partial H _ { 1 } } + H _ { 2 } \\frac { \\partial \\ln \\lambda _ { \\infty } } { \\partial H _ { 2 } } + H \\frac { \\partial \\ln \\lambda _ { \\infty } } { \\partial H } ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the specific heat ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C = \\frac { d U } { d T } = N k _ { B } [ H _ { 1 } ^ { 2 } \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H _ { 1 } ^ { 2 } } + H _ { 2 } ^ { 2 } \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H _ { 2 } ^ { 2 } } + H ^ { 2 } \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H ^ { 2 } } } \\\\ { + 2 H _ { 1 } H _ { 2 } \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H _ { 1 } \\partial H _ { 2 } } + 2 H _ { 1 } H \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H _ { 1 } \\partial H } + 2 H _ { 2 } H \\frac { \\partial ^ { 2 } \\ln \\lambda _ { \\infty } } { \\partial H _ { 2 } \\partial H } ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\partial \\ln \\Lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { c o s s } \\int _ { \\gamma } ^ { \\pi } \\mathrm { d } \\omega } \\\\ & { \\frac { \\partial \\ln \\Lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\frac { \\partial \\ln \\Lambda } { \\partial t } \\mathrm { d } \\omega , } \\\\ & { \\frac { \\partial \\ln \\Lambda } { \\partial t } = \\mathrm { ~ c o s s } ( 2 \\pi ) ( 2 t ) ^ { \\pi } - \\frac { 1 } { \\lambda } \\operatorname* { l i m } ( 2 t ) ^ { \\pi } \\mathrm { d } \\omega + \\int _ { 0 } ^ { \\pi } \\mathrm { c o s s } \\eta \\mathrm { d } \\omega , } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\Lambda } { \\partial t } = - \\frac { 2 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { d } \\omega + \\int _ { 0 } ^ { \\pi } \\mathrm { c o s s } \\int _ { \\gamma } ^ { \\pi } \\mathrm { d } \\omega } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { d } \\omega } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { d } \\omega } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = 2 \\sinh ^ { 2 } ( 2 \\pi ) \\frac { 1 } { \\lambda } \\mathrm { ~ c o s s } ( 2 \\pi ) \\mathrm { d } \\omega - \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { c o s s } \\eta \\mathrm { d } \\omega , } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = \\frac { 2 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { d } \\omega \\mathrm { d } \\omega } \\\\ & { \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\frac { \\partial \\ln \\lambda } { \\partial t } \\mathrm { d } \\omega - \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\mathrm { c o s s } \\eta \\mathrm { d } \\omega } \\\\ &  \\frac { \\partial ^ { 2 } \\ln \\lambda } { \\partial t } = \\frac { 1 } { \\lambda } \\operatorname* { l i m } _ { n \\to \\infty } \\int _ { 0 } ^ { \\pi } \\frac { \\partial \\ln \\lambda } { \\partial t } \\mathrm { d } \\omega - \\frac  \\partial ^ { 2 } \\ln \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We note that at the critical point, $\\begin{array} { r } { \\operatorname* { l i m } _ { \\omega \\to 0 } \\xi _ { m } \\to 0 } \\end{array}$ . HowD/sinh ξm →-cosn(O). Therefore, we can see from Eqs.(37) and (38) that at the critical point, the internal energy $U$ is continuous while the specific heat $C$ becomes infinite, similar to the 2D case. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We consider the special case of $J _ { 1 } ~ = ~ J _ { 2 }$ ，where the calculation of the thermodynamic functions can be simplified considerably. After integrating,Eq.(36) can be rewritten as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\cosh \\xi _ { \\infty } ( \\omega ) = \\cosh ( 2 H _ { 1 } ) \\cosh ( 2 H _ { 2 D } ^ { * } ) \\qquad } \\\\ { - \\sinh ( 2 H _ { 1 } ) \\sinh ( 2 H _ { 2 D } ^ { * } ) \\cos \\omega , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { 2 D } ^ { * } = H ^ { * } - H _ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is surprising that Eq.(4O） is nothing but that in 2D Ising model with the interaction energies $\\left( J _ { 1 } , J _ { 2 D } \\right)$ and $\\begin{array} { r } { H _ { 2 D } \\ = \\ \\frac { J _ { 2 D } } { k _ { B } T } } \\end{array}$ Therefore, $\\begin{array} { r } { \\ln \\lambda _ { \\infty } - \\frac { 1 } { 2 } \\ln [ 2 \\sinh ( 2 H ) ] } \\end{array}$ in three dimensions can be obtained from $\\ln \\lambda _ { \\infty } ^ { 2 D } ~ -$ $_ { \\mathrm { ~ 2 ~ } } ^ { \\mathrm { ~ 1 ~ } } \\ln [ 2 \\sinh ( 2 H _ { 2 D } ) ]$ in two dimensions by taking the transformation (41). In other words,the thermodynamic properties of 3D Ising model originate from those in 2D case.We can also see from Eq.(41) that both 2D and 3D Ising systems approach simultaneously the critical point, i.e. $H _ { 2 D } ^ { * } = H _ { 1 }$ and $H ^ { * } = 2 H _ { 1 }$ .It is expected that the scaling laws near the critical point in two dimensions also hold in three dimensions [6]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The energy $U$ and the specific heat $C$ of 2D Ising model with the quadratic symmetry (i.e. $H _ { 1 } = H _ { 2 D }$ ）have been calculated analytically by Onsager and can be expressed in terms of the complete elliptic integrals [4]. The critical exponent associated with the specific heat $\\alpha _ { 2 D } = 0$ Because 3D Ising model with the simple cubic symmetry (i.e. $H _ { 1 } = H _ { 2 } = H$ ）can be mapped exactly into 2D one by Eq. (41), the expressions of $U$ and $C$ in three dimensions have similar forms with those in two dimensions. So the critical exponent $\\alpha _ { 3 D }$ of the 3D Ising model is identical to $\\alpha _ { 2 D }$ ,i.e. $\\alpha _ { 3 D } = 0$ . According to the scaling laws dv = 2-α and μ+v = 2- α [6], we have V3D = and $\\begin{array} { r } { \\mu _ { 3 D } = \\frac { 4 } { 3 } } \\end{array}$ ． ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Up to now，we have obtained the partition function persite and some physical quantities when the $z$ axis is chosen as the transfer matrix direction.However,if the $x ( y )$ axis is parallel to the transfer matrix direction,the corresponding partition function per site can be achieved from Eqs.(35）and(36） by exchanging the interaction constants along the $x ( y )$ and $z$ axes.Therefore,the total physical quantity in 3D Ising model, such as the free energy, the internal energy, the specific heat,and etc.,can be calculated by taking the average over three directions. We note that the average of a physical quantity naturally holds for 2D Ising model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "from Eqs. (35) and (36),we obtain ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l } { \\ln { \\frac { \\lambda _ { \\infty } } { 2 } } } & { = { \\frac { 1 } { 2 \\pi ^ { 2 } } } \\int _ { 0 } ^ { \\pi } \\int _ { 0 } ^ { \\pi } \\ln \\left\\{ \\cosh ^ { 3 } ( 2 H ) \\right. } \\\\ & { \\left. - \\sinh ( 2 H ) \\cosh ( 2 H ) [ \\cos \\omega t + \\cos ( m \\omega ) ] \\right. } \\\\ & { \\left. + \\sinh ^ { 2 } ( 2 H ) \\cos \\sin ( 2 H ) \\cos ( ( m - 1 ) \\omega ) \\right] } \\\\ & { \\left. - \\sinh ( 2 H ) \\cos \\omega ^ { * } \\right\\} d \\omega d \\omega ^ { \\prime } } \\\\ & { = 3 \\ln c \\mathrm { i n } H + { \\frac { 3 } { 2 } } \\ln ( 1 + k ^ { 2 } ) } \\\\ & { + { \\frac { 3 } { 2 \\pi ^ { 2 } } } \\int _ { 0 } ^ { \\pi } \\int _ { 0 } ^ { \\pi } \\ln \\left\\{ 1 - { \\frac { 2 k ( 1 - k ^ { 2 } ) ^ { 2 } } { 1 + k ^ { 2 } } } [ \\cos \\omega + \\cos ( m \\omega ) ] \\right. } \\\\ & { \\left. + { \\frac { 4 k ^ { 2 } } { ( 1 + k ^ { 2 } ) ^ { 2 } } } \\cos ( m - 1 ) \\omega \\right\\} } \\\\ & { - { \\frac { 2 k ( 1 - k ^ { 2 } ) ^ { 2 } } { ( 1 + k ^ { 2 } ) ^ { 3 } } } \\cos \\omega \\omega ^ { \\prime } d \\omega d \\omega ^ { \\prime } } \\\\ & { = 3 \\ln c \\mathrm { o s h } H - 3 k ^ { 4 } - 6 2 k ^ { 6 } - { \\frac { 2 0 8 1 } { 2 } } k ^ { 8 } } \\\\ & { - 2 1 0 2 4 k ^ { 1 0 } - \\cdots . } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $k = \\operatorname { t a n h } { H }$ . Therefore,the partition function per atom in high temperatures is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\infty } = 2 \\cosh ^ { 3 } H ( 1 - 3 k ^ { 4 } - 6 2 k ^ { 6 } - 1 0 3 6 k ^ { 8 } - 2 0 8 3 8 k ^ { 1 0 } - \\cdot \\cdot \\cdot ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wenote that for periodic boundary conditions, the high temperature partition function per atom reads [7] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\infty } ^ { p } = 2 \\cosh ^ { 3 } H ( 1 + 3 k ^ { 4 } + 2 2 k ^ { 6 } + 1 9 2 k ^ { 8 } + 2 0 4 6 k ^ { 1 0 } + \\cdot \\cdot \\cdot ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Obviously, the difference between $\\lambda _ { \\infty }$ and $\\lambda _ { \\infty } ^ { p }$ comes from the screw boundary condition along the $\\mathbf { X }$ direction (see Fig. 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have exactly solved 3D Ising model by an algebraic approach. The critical temperature $T _ { i c } ( i = 1 , 2 , 3 )$ ，at which an order transition occurs,is determined.At $T _ { i c }$ the internal energy is continuous while the specifc heat diverges. Obviously, the thermodynamic properties in three dimensions are highly correlated to those of 2D Ising system.When the interaction energy in the third dimension vanishes,the Onsager's exact solution of 2D Ising model is recovered immediately. This guarantees the correctness of the exact solution of 3D Ising model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.HIGHTEMPERATUREEXPANSIONS",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Sichuan Normal University and the \"Thousand Talents Program”of Sichuan Province, China. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now we calculate the high temperature expansions of the partition function per atom when $J _ { 1 } = J _ { 2 } = J$ . According to the identity ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { 2 \\pi } \\ln ( 2 \\mathrm { c o s h } x - 2 \\mathrm { c o s } \\omega ^ { \\prime } ) d \\omega ^ { \\prime } = 2 \\pi x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]E.Ising,Zeits.f.Physik 31,253(1925).   \n[2]R.Peierls,Proc.Camb.Phil.Soc.32,471(1936);ibid 32, 477 (1936).   \n[3] H.A.Kramers and G.H. Wannier,Phys. Rev. 60,252, 263 (1941).   \n[4]L.Onsager,Phys.Rev.65,117 (1944). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]B.Kaufman,Phys.Rev.76,1232 (1949). [6]R.J.Baxter,Exactly Solved Models in Statistical Mechanics,Academic Press,London，1982. [7] C.Domb,in Phase Transitions and Critical Phenomena, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C.Domb and M.S. Green,eds.Vol. 3,(Academic Press, London,1974). ",
+        "page_idx": 6
+    }
+]

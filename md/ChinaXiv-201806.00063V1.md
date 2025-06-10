@@ -1,0 +1,207 @@
+# DOI:10.5846/stxb201704240739
+
+刘家琰,谢宗强，申国珍，樊大勇,熊高明，赵常明，周友兵,徐文婷.基于 SPOT-VEGETATION 数据的神农架林区1998—2013年植被覆盖度格局变化.生态学报,2018,38（11）：3961-3969.LiuJY,XieQnGZnDogG,ZaC,ZoY,XuaalysisofgeatiorciogesiForest District during 1998 to2013 byusing SPOT-VEGETATIONNDVIdata.Acta EcologicaSinica,2018,38(11):3961-3969.
+
+# 基于SPOT-VEGETATION 数据的神农架林区1998—2013年植被覆盖度格局变化
+
+刘家琰},²，谢宗强1,²，申国珍¹，樊大勇}，熊高明'，赵常明}，周友兵'，徐文婷1，
+
+1中国科学院植物研究所植被与环境变化国家重点实验室，北京100093  
+2中国科学院大学，北京100049
+
+摘要：基于1998—2013年的SPOT-VEGETATION归一化植被指数(normalized diferentialvegetation index，NDVI)数据,利用二分模型法、相关性分析和空间分析的方法,结合同期降水量和平均温度数据，估算了神农架林区及神农架国家级自然保护区的植被覆盖度,并分析了空间格局及植被覆盖度变化的影响因素。结果表明,1998—2013年间,神农架林区平均植被覆盖度为$6 6 . 8 \%$ ,年最大植被覆盖度为 $9 3 . 8 \%$ ,保护区内最大植被覆盖度显著高于保护区外;林区植被覆盖度变化率为 $1 . 4 5 \%$ ,保护区植被覆盖度变化率为 $2 . 2 6 \%$ ,植被整体呈增加的趋势,保护区保护效果较好。温度、降水量、年最低气温、距道路和居民地距离的远近是影响植被覆盖度变化的重要因子，而海拔对植被覆盖度变化无影响。
+
+关键词：归一化植被指数;植被覆盖度;保护有效性;变化率;影响因素
+
+# Dynamics and analysis of vegetation fraction changes in Shennongjia Forest District during 1998 to 2013 by using SPOT-VEGETATION NDVI data
+
+LIU Jiayan12， XIE Zongqiang12， SHEN Guozhen],FAN Dayong1， XIONG Gaoming1， ZHAO Changming'， ZHOU  
+Youbing'，XU Wenting1, \*  
+1StateKeyLboratoryfVegetationndEoentlChangeituteofotanyneseAcdeyfSciences，inin  
+2 University of Chinese Academy of Sciences，Beijing 10oo49,China
+
+Abstract:The fractional vegetation cover（FVC）isavery important parameter for describing forest vegetation dynamics andforest ecosystems.Among allthe methods used for measuring FVC,theremote sensing method has itsownadvantages because of thevastspatiotemporal scale of satelitedata.Shennongjia Forest District，consideredasone of thewellpreserved primary forest distributionareas incentral China，hasdiversespeciesand forestresources.However,the forest was adversely influenced toa large extent by human activities in the 197Osand198Os，becauseof therapidly growing populationand remarkablecommercial loging.The anthropogenic disturbance hasbeen mitigatedand improved since a naturereserve was established，andrelated protecting policieswere implemented.The protecting eficiencyof the National NatureReservewas determined byusinga dimidiate modelto measure the fractionalvegetation coverover the Shennongjia Forest District from 1998 to 2013 by using the $1 ~ \mathrm { k m }$ resolution，ten-day NDVI serial data of SPOT-VEGETATION.Yearly precipitationandaverage temperatureinthesame period,aswellas elevation，distancetoresidentialareasand mainroads were included，and the main influencingfactors weredetermined byconducting corelation analysis.Theannualaverage
+
+FVC of the study area was $6 6 . 8 \%$ ，whereas the annual maximum FVC was $9 3 . 8 \%$ ，which was higher inside the reserve. During1998—20l3,FVCshowed increasingtendenciesbothovertheentiredistrictand insidethereserve,and it increased by $1 . 4 5 \%$ and $2 . 2 6 \%$ for the Shennongjia Forest District and National Reserve，respectively.The National Reserve had a beterprotecting effciency forforestvegetation.Thecorelationanalysis for themain influencing factorsshowed that environmental factors，including yearly precipitation，average temperature，and extremecold temperature，were positively correlated withFVC，whereaselevationdidnotshowasignificantcorelation.Thesocioeconomicfactors，includingthe distanceto main roadsandresidentialareas,hadremarkableimpactsonthechanges ofFVC.FVCnearresidentialareas has increased owing to the urbanization andgreening processes.FVC nearroads showed both increasing and decreasing tendencies in space，becauseof thesimultaneous construction of newroadsandaforestation.Thisstudyrevealed the changingtendencyinShennongjia Forest DistrictandtheNational Reserveand indicatedthat bothnaturaland socioeconomic factors hadremarkable impactsondynamicsofractional vegetationcoverandforestecosystems，which might provide detailed scientific basis for ecosystem management.
+
+KeyWords:normalizeddiferential vegetation index；fractionalvegetationcover;protectingeficiency；changingrate; influencing factors
+
+植被是覆盖地表的森林、灌丛、草地和农作物等的总称,在陆地生态系统的碳水循环和能量交换方面有着重要的意义[1]。植被覆盖度(fractional vegetation cover，FVC)是指单位面积内植被(包括叶、茎、枝)的垂直投影所占百分比[2],是描述植被群落及生态系统的重要参数[3-6]。
+
+全球气候变化、人类活动都会对植被覆盖产生重要的影响,使植被-土壤系统的蒸散量、植被表面的反射率和粗糙度等特性发生改变,从而进一步影响生态系统的能量平衡、碳循环过程以及生产力[7]。对植被覆盖度进行不同尺度的监测十分必要。例如,对于干旱半干旱地区由于畜牧业和沙漠化造成的土地退化来说,植被覆盖度是评估该区草地状况的重要指标[8]。植被覆盖度及其变化对水文、生态、全球变化等都具有重要意义,在植被变化[9]、生态环境调查、水土保持研究、蒸散量研究以及土地退化[10]、盐渍化[11]和沙漠化[12]等研究领域都有广泛的应用。
+
+植被覆盖度的监测方法可分为地面测量和遥感监测[13」,而遥感由于其大范围的数据获取和连续观测,已成为植被覆盖度研究的主要手段[14]。GIMMS（Global Inventory Modelingand Mappng Studies）、MODIS（Moderate Resolution Imaging Spectroradiometer）、SPOT-VEGETATION 等数据产品为研究长时间序列的植被覆盖变化提供了可能。研究表明,通过建立遥感数据的植被指数或多波段光谱组合与地面实测植被覆盖度间的回归关系,可以较好的估算小范围的植被覆盖度。Shoshany 等[15]利用TM数据建立多元线性回归模型估算植被覆盖度,相关系数达到0.88;Xiao等[16]利用ETMNDVI数据的线性回归方程对美国新墨西哥州中部区域的植被覆盖度进行拟合,相关系数达0.89。Graetz 等[17]利用 MSS 数据与实测数据估算了澳大利亚南部半干旱地区稀疏草地的植被覆盖度,有效地监测到了牧区植被覆盖度在经受干旱、放牧胁迫前后的变化,为该牧区植被退化程度的监测提供了技术支撑;Boyd等[18]利用非线性回归模型估算了美国西北部的针叶林盖度,相关系数为0.56。像元分解模型可成功用于估算区域尺度的植被覆盖度。孙久虎等[19]利用像元二分模型估算了北运河地区1994—2004年间植被覆盖变化情况,结果表明研究区内植被退化严重,植被覆盖度下降了9.$9 9 \%$ ;陈云浩等[13]利用植被覆盖度计算模型对北京市海淀区的植被覆盖进行动态遥感监测研究,结果显示海淀区1975—1997年间西北部山区植被覆盖度呈持续增长趋势,而植被覆盖度为 $2 5 \%$ 一 $5 0 \%$ 的区域则表现为由东向西的大面积减少,一定程度上反映了城市化过程对植被覆盖的影响;李苗苗等[20]通过 NDVI像元二分法估算密云水库上游植被覆盖度,沟谷、平地等地势较低的区域植被覆盖度受人为干扰较大,而地势较高的山区植被覆盖度变化较小,且经过验证该结果具有较高精度（相关系数0.89,协方差0.02);张喜旺等[21]对伊洛河流域的植被覆盖度空间分异进行了研究,Detsch 等[22利用GIMM数据对植被覆盖动态及季节性进行了
+
+研究。
+
+神农架被认为是我国华中地区的“生物基因库”,具有丰富的生物多样性和森林资源,是我国保存较为完整的亚热带亚高山森林生态系统区域[23-24]和华中地区唯一现存的原始林分布区。19 世纪70、80 年代,由于人口增长、土地利用/土地覆盖剧烈变化,神农架林区覆盖度大幅度下降[25-26]。1986年,神农架林区建立国家级森林和野生动物自然保护区,2000 年全面停止对天然林的砍伐,实行“天保工程”和退耕还林工程。目前有关神农架林区植被覆盖变化的研究较少,其中黄靖等[27」利用 2003—2012年的 MODIS EVI（enhancedvegetation index)数据分析了神农架林区植被动态变化及其与气候因子的关系,发现这10年来林区植被覆盖整体呈增加趋势且东部增幅大于西部,气温是影响植被覆盖的主要因子;姜哲等[28]利用Landsat 数据对神农架林区1987年、2000 年和2013年3个时期的土地覆盖进行解释,发现两个时段内森林净增长面积分别为14.$7 0 ~ \mathrm { k m } ^ { 2 }$ 和 $2 0 7 . 4 9 \ \mathrm { k m } ^ { 2 }$ 。但以上研究并未指出神农架林区植被覆盖的变化程度，且较少涉及其与社会经济因素的关系。 O/Ay
+
+本文利用1998—2013年的 SPOT-VEGETATION 归一化植被指数数据,应用像元二分法估算了神农架林区的植被覆盖度及其变化趋势,分析了神农架国家级自然保护区内植被覆盖度变化与保护区外的差异,为进一步有效地保护神农架林区原始天然林提供依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+神农架林区( $1 0 9 ^ { \circ } 5 6 ^ { \prime }$ 一 $1 1 0 ^ { \circ } 5 8 ^ { \prime } \ ]$ E， $3 1 ^ { \circ } 1 5 ^ { \prime }$ —31°75'N)位于鄂西边陲，是全国唯一以林区命名的县级行政单位,总面积 $3 2 5 0 ~ \mathrm { k m } ^ { 2 }$ ,拥有全球中纬度地区唯一一块保存完好的原始林,森林覆盖度为 $8 8 . 7 \% ^ { [ 2 8 ] }$ ;神农架国家级自然保护区位于神农架林区的西南部,面积为 $7 6 9 . 5 ~ \mathrm { k m } ^ { 2 } \mathrm { ~ c ~ }$ 。神农架林区为秦岭山系大巴山脉东段,地势由西向东,由南向北逐渐降低,海拔 $3 1 0 5 . 4 \mathrm { ~ m ~ }$ 的最高峰神农顶是华中第一峰。该区地处北亚热带季风区,气温偏低且多雨,年平均气温 $1 2 \%$ ,年平均降水量 $1 1 8 5 ~ \mathrm { m m } ^ { [ 2 7 ] }$ 。区内植被以亚热带成分为主,兼有温带和热带成分,并具有明显的垂直地带性,海拔 $4 0 0 \div 1 0 0 0 \mathrm { ~ m ~ }$ 为亚热带常绿阔叶林带,海拔 $1 0 0 0 { - } 1 7 0 0 \mathrm { ~ m ~ }$ 为北亚热带常绿落叶阔叶混交林带，海拔1700—2200 $\mathbf { \chi } _ { \mathrm { m } } ^ { \ }$ 为暖温带落叶阔叶林带,海拔 $2 2 0 0 { - } 2 6 0 0 \ \mathrm { m }$ 为温带针阔混交林带,海拔 $2 6 0 0 { - } 3 0 0 0 \ \mathrm { m }$ 为寒温性针叶林带, $3 0 0 0 \mathrm { - m }$ 以上为亚高山灌丛草甸带。
+
+# 1.2 数据源及处理
+
+# 1.2.1 遥感数据
+
+下载（htp://www.vgt.vito.be/）1998—2013 年法国 SPOT-VEGETATION卫星的的归一化植被指数数据，数据空间分辨率为1km。该数据为每 $1 0 \mathrm { ~ d ~ }$ 最大化合成（maximumvalue composite，MVC）的 NDVI数据,将云和大气散射的影响降到最低[29]。将数据换算,转化为 NDVI原始值。
+
+# 1.2.2 气象数据
+
+利用中国气象数据网（htp://data.cma.cn/）上的中国地面国际交换站气候资料日值数据集（V3.0）,得到1998—2013年间中国各气象台站的气温、降水量数据,在ArcGIS 10.1中利用Kriging 插值法进行插值,得到神农架林区 $1 ~ \mathrm { k m }$ 分辨率的平均气温、最低气温和降水量分布图。
+
+# 1.2.3DEM数据
+
+从 CGIAR CSI(http://www.cgiar-csi.org/）网站下载研究区域 $9 0 \mathrm { ~ m ~ }$ 分辨率的 STRM DEM 数据。
+
+# 1.2.4 物种数数据
+
+根据 Zhao 等[30]发表的论文,提取神农架林区不同海拔段的群落物种数和乔木物种数据。该研究中,海拔每升高 $1 0 0 \mathrm { ~ m ~ }$ 设置一个样方进行调查,或选取特殊的群落类型进行样方调查,共设乔木样方166个。对乔木进行每木调查,并记录胸径、树高、冠幅等信息,以及样地的海拔、坡度、坡向、经纬度等环境因素。
+
+# 1.3 研究方法
+
+# 1.3.1 植被覆盖度的计算
+
+遥感图像中的一个像元往往包含多个组分(如植被、裸土),各组分均对遥感器所观测到的像元信息有所贡献;我们常用像元分解模型将像元中的遥感信息(如波段、植被指数)分解，并进一步估算植被覆盖度。像元二分模型是最简单的一种像元分解模型,其只由植被覆盖地表、无植被覆盖地表两部分构成。研究表明，NDVI对土壤背景变化敏感,且其大小取决于植被覆盖度和叶面积指数,因此可以用NDVI反演植被覆盖度计算公式如下[31]：
+
+$$
+\mathrm { F V C } = \frac { \mathrm { N D V I - N D V I _ { \mathrm { s o i l } } } } { \mathrm { N D V I _ { \mathrm { v e g } } - N D V I _ { \mathrm { s o i l } } } }
+$$
+
+式中， $\mathrm { \Delta N D V I _ { s o i l } }$ 表示裸地的归一化植被指数， $\mathrm { \Delta N D V I _ { v e g } }$ 表示完全植被覆盖的植被指数。
+
+植被覆盖度小于 $1 5 \%$ 时,NDVI可将土壤与植被较好区分开;植被覆盖度在 $2 5 \% - 8 0 \%$ 范围内,NDVI随植被覆盖度线性增加;植被覆盖度大于 $8 0 \%$ 时，其检测能力有所下降。尽管NDVI存在自身的局限性且许多其他的植被指数因考虑了土壤、大气等因素得到发展，但NDVI因其对植被检测的高灵敏度、对植被覆盖度较宽的检测范围、对地形及群落结构造成阴影干扰的消除和对太阳高度角及大气带来噪声的削弱等特点被广泛应用[32]。Leprieur等[33]比较了不同植被指数估算植被覆盖度的能力,结果表明尽管全球环境监测指数（global environmental monitoring index，GEMI）考虑大气的影响,修正型土壤植被指数（modified soil-adjustedvegetation index，MSAVI)考虑土壤背景的影响,但在实际应用中归一化植被指数 NDVI更具优势。
+
+求解公式(1)的关键在于 $\mathrm { \Delta N D V I _ { s o i l } }$ 和 $\mathrm { \Delta N D V I _ { v e g } }$ 的取值,而两者的值在不同图像中应是不一样的,因此不可取定值,而应由图像本身决定,以削弱干扰因素的影响[34]。通常 NDVIoi是 NDVI 图像中的最小值,而 $\mathrm { \Delta N D V I _ { v e g } }$ 是图像中的最大值,Gutman 和 Ignatoo[5]提出以 $\mathrm { N D V } _ { \infty } ^ { \infty }$ 替代 $\mathrm { N D V I _ { v e g } }$ ,以 NDVI最小值替代 $\mathrm { \Delta N D V I _ { s o i l } }$ ,然而该基于像元分解的密度分解的方法在实际中难以应用。李苗苗[34]将该模型进一步简化,为排除异常值,取 NDVI图像累积频率为 $9 5 \%$ （24号 $5 \%$ 处的像元值分别作为NDVIv和 $\mathrm { N D V } _ { \mathrm { s o i l } }$ ,也就得到了以下公式：
+
+该研究利用以上公式计算得到密云水库上游植被覆盖度,经精度验证,实测值与估计值相关系数达$9 9 \%$ ,协方差0.06,表明该模型估计植被覆盖度具有很高的准确性。李晓锦[35]利用该模型估算黄土高原植被覆盖度,基于Landsant/TM数据提取的植被覆盖度精度为 $9 5 . 0 2 \%$ ，同样具有较高的精度。
+
+根据公式(2)计算时间序列上每一景(每一时相)影像中NDVI的频率累积值，取频率为 $5 \%$ 处的NDVI值作为 $\mathrm { \Delta N D V I _ { s o i l } }$ ，取 $9 5 \%$ 处的 NDVI值作为 $\mathrm { \Delta N D V I _ { v e g } }$ （图1)，得到 $1 9 9 8 - 2 0 1 3$ 年每旬的逐像元植被覆盖度，按旬平均得到全年平均植被覆盖度（下文中如无特殊说明，简称植被覆盖度）。为进一步分析研究区内植被覆盖度在时间、空间上的分异与变化，在所得逐像元植被覆盖度的基础上，计算多年平均植被覆盖度（逐像元及研究区平均)、年平均最大植被覆盖度(即年最大植被覆盖度的多年平均值，同样按逐像元及研究区内平均计算）。
+
+![](images/31510aeb328af0cb02f2fffbe59fc6ae6d764484861bde0aaedb149cb421cee5.jpg)  
+图1NDVI在置信区间上的取值Fig.1NDVI value in confidential interval
+
+# 1.3.2 植被覆盖度变化率的计算
+
+为了更好地分析1998—2013年间神农架林区植被
+
+覆盖度的变化程度以及变化在空间上的分布,需消除年季节动态导致的植被覆盖度波动影响,可采用如下公式[36]计算每年生长季(5—9月）FVC的变化率：
+
+# $\mathrm { F V C } _ { \alpha } =$ 直线斜率／均值 $\times ~ 1 6 \times 1 0 0$
+
+式中， $\mathrm { F V C } _ { \alpha }$ 为植被覆盖度变化率,直线斜率为1998—2013年生长季平均FVC 对年份回归的直线斜率,均值为多年生长季平均的FVC 值。所有空间分析及空间动态分析均在ArcGIS10.0中进行。
+
+1.3.3 植被覆盖度动态变化的影响因素分析
+
+利用R语言[37]分析神农架林区植被覆盖度的动态变化与距离居民地最近距离、距离公路最近距离、平均温度、降水量、年最低温度、海拔等因素的相关性。
+
+1.3.4植被覆盖度海拔梯度格局与物种数间关系分析
+
+利用R语言分析神农架林区植被覆盖度的动态变化与海拔梯度、不同海拔梯度上的物种数的相关关系。
+
+# 2结果
+
+2.1神农架林区平均植被覆盖度
+
+神农架林区1998—2013年间的多年平均植被覆盖度为 $6 6 . 8 \%$ ,年际间变动范围 $6 4 . 3 \% - 7 1 . 4 \%$ ,其中2012年植被覆盖度最低（图2）。年平均最大植被覆盖度为 $9 3 . 8 \%$ ,年际间变动范围 $9 2 . 5 \%$ 一 $9 4 . 5 \%$ ,2005年最大植被覆盖度最低。保护区内和保护区外的多年平均覆盖度分别为 $6 6 . 5 \%$ 和 $6 6 . 8 \%$ ;保护区内和保护区外的多年平均最大植被覆盖度分别为 $9 4 . 3 \%$ 和 $9 3 . 7 \%$ ,保护区内植被覆盖度显著高于保护区外（成对 $\mathbf { \chi } _ { t }$ 检验,（204号 $ { t } = 3 . 2 2 1$ ， $P < 0 . 0 1$ ）。 C
+
+![](images/b3debd109df367be67299358c500209d07ca4b23122b393cd8a2efb816123f7b.jpg)  
+图2神农架国家级保护区内外平均植被覆盖度及最大覆盖度(平均值 $\cdot \pm$ 标准差)  
+Fig.2Mean and maximum fractional vegetation cover insideand outside the Shennongjia National Nature Reserve（average $\pm$ standard deviation) A 1 D
+
+1998—2013年间神农架林区多年平均覆盖度在空间分布上存在差异（图3）,空间上最大植被覆盖度为$8 2 . 4 \%$ ,最小为 $2 7 . 7 \%$ 。空间聚类分析发现,高覆盖度聚集区主要分布在阴峪河流域、九冲河流域、里叉河流域、温水河流域以及宋洛河流域,而低覆盖度聚集区主要在大九湖、松柏、老君山以及保护区内旅游公路两侧区域。17
+
+植被覆盖度海拔格局分析结果表明,海拔1500— $2 0 0 0 \mathrm { ~ m ~ }$ 区域植被覆盖度最高( $R ^ { 2 } = 0 . 1 8 5$ ， $P < 0 . 0 1$ ）；植被覆盖度在海拔 $1 7 0 0 \mathrm { ~ m ~ }$ 以下随着海拔的升高而增加,而在 $1 7 0 0 \mathrm { ~ m ~ }$ 以上，随着海拔的升高而降低（图4）。根据 Zhao 等[30]有关乔木物种数和群落总物种数的调查数据,结合本研究估算的植被覆盖度,覆盖度与乔木物种数和总物种数随海拔的变化趋势相似（图4)，且覆盖度与乔木物种数( $ { r } = \ 0 . 9 5 3$ ， $P < 0 . 0 1$ ）、总物种数（ $r = 0 . 8 0 7$ ， $P < 0 . 0 1$ )之间有着极高的相关性;覆盖度和乔木的物种丰富度均在海拔1500— $2 0 0 0 \mathrm { ~ m ~ }$ 之间最高,而这一海拔段也是典型地带性植被常绿落叶阔叶混交林分布区域。
+
+# 2.21998—2013 年间神农架林区植被覆盖的变化
+
+神农架林区在1998—2013年间植被覆盖度的平均变化率为 $1 . 4 5 \%$ ,其中保护区内变化率为 $2 . 2 6 \%$ ,保护区外的变化率为 $1 . 2 3 \%$ 。单因素方差分析方法(one-way ANOVA)结果表明保护区内外植被覆盖度的平均变化率有显著差异( $\ P < 0 . 0 1 )$ 。老君山顶、神农顶、青树村、东溪村以及保护区西南部的相思岭村等地植被盖度均有明显增加，保护区旅游公路两侧植被覆盖度也有少量增加;植被覆盖率降低的区域主要集中在大草坪和宋洛村(图5）。
+
+![](images/081183046b92dc68b9520dae283f74a4d4ce8eb0f2cb6048849bcddeb31c1a01.jpg)  
+图3神农架林区1998—2013年平均植被覆盖度空间分布
+
+# 2.3神农架地区植被覆盖动态变化的影响因素分析
+
+对植被覆盖度变化率及其影响因素进行相关性分析，结果表明林区1998—2013年间植被覆盖度的变化率受温度、降水、年最低温、距居民地距离、距公路距离等因素影响（温度： $r \ = \ 0 . 1 2$ ， ${ P < 0 . 0 1 }$ ;降雨： $\boldsymbol { r } ~ =$ 0.18, $P < 0 . 0 1$ ；年最低温： $r = 0 . 0 4$ ， $P < 0 . 0 1$ ;距居民地距离： $r = - 0 . 0 9 , P \ll 0 . 0 1$ ;距公路距离： $r = - 0 . 1 6$ ，$P < 0 . 0 1$ )。海拔与植被覆盖度变化率无显著相关性(表1)。
+
+![](images/f869c0ac2380b585ce8b56dbd364f4f318dad45486d445401857ea7d60ad7a03.jpg)  
+Fig.3The mean fractional vegetation cover pattern of Shennongjia Forest District   
+图4神农架林区植被覆盖度海拔梯度格局及与物种数间的关系 Fig.4The mean fractional vegetation cover altitude pattern of Shennongjia Forest District and relationship with species richness
+
+# 3讨论
+
+神农架林区是全球中纬度地带唯一现存的原始林分布区,保存有较好的自然植被[23]。其植被覆盖度在空间上的分布存在明显的差异。原始林主要分布在阴峪河流域、金猴岭,温水河流域以及宋洛河流域也分布有少量原始森林。因而这些区域植被覆盖度较高。林区西部大九湖区域具有大量农田、湿地和少量裸岩,导致其植被覆盖度较低;老君山以及保护区内旅游公路的西北段,由于海拔较高,植被类型主要是高山草甸和灌丛，因而植被覆盖度较低。
+
+植被覆盖度多年平均变化率表明,1998—2013年神农架林区植被覆盖在空间上有增有减，且差异明显，但整体变化率为 $1 . 4 5 \%$ ,植被覆盖呈现较好的增长趋势,这与前人研究的结果一致,如姜哲等[28]利用LandsatTM 数据对3期土地覆盖进行分类,发现神农架林区森林面积净增加 $2 0 7 . 4 9 ~ \mathrm { k m } ^ { 2 }$ ;黄靖和夏智宏[27]利用Modis
+
+![](images/2c6565952547bf958eedacb239e88ca249dfa8159866e4341f0cf8ce921fe880.jpg)  
+图5神农架林区1998—2013年间植被覆盖度变化程度  
+Fig.5The fractional vegetation cover change of Shennongjia Forest District of 1998-2013
+
+EVI数据研究2003—2012年神农架林区植被指数的变化,也发现植被指数呈现增长的趋势。
+
+表1植被覆盖度变化率与各因素相关性  
+Table 1 The relations between the changing rate of FVC and influence factors   
+
+<html><body><table><tr><td>影响因素 Influencing factors</td><td>植被覆盖 度变化率 Cha nraing rate vegetation cover</td><td>距居民地 最近距离 diNtanceto residential area</td><td>距道路最 近距离 diNeanesto roads</td><td>海拔 Altitude</td><td>气温 Temperature</td><td>降雨 Precipitation</td></tr><tr><td>距居民地最近距离 Nearest distance to residential area</td><td>0.09 *</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>距道路最近距离 Nearest distance to roads</td><td>-0.16 **</td><td>0.45 **</td><td></td><td></td><td></td><td></td></tr><tr><td>海拔 Altitude</td><td>0.02</td><td>0.52**</td><td>0.11**</td><td></td><td></td><td></td></tr><tr><td>气温 Temperature</td><td>0.12 **</td><td>-0.05 **</td><td>-0.11**</td><td>-0.18**</td><td></td><td></td></tr><tr><td>降雨Precipitation</td><td>0.18 **</td><td>0.16 **</td><td>0.09**</td><td>0.39 **</td><td>-0.04 *</td><td></td></tr><tr><td>年最低温 Annual minimum temperature</td><td>0.04**</td><td>-0.44 **</td><td>-0.02</td><td>-0.78**</td><td>0.21**</td><td>0.04 *</td></tr></table></body></html>
+
+：P<0.05;\*\* P<0.01
+
+保护区内植被覆盖度空间分布于1998—2013年间有增有减,但总体保护效果优于保护区外。保护区内植被覆盖度的增加幅度约为保护区外的2倍,表明国家级自然保护区发挥了良好的保护效果。除植被自然恢复外,2000 年移栽人工日本落叶松林(Larix kaempferi（Lamb.）Car.）,使保护区东部(老君山顶)植被覆盖度显著增加;保护区北部(青树村、东溪村)于2001年实施移民搬迁,植被人为干扰较少,处于恢复状态,因而植被覆盖度有所增加。保护区内同样存在植被覆盖度下降的区域,集中分布在阴峪河流域、落阳河流域、黄柏阡和兴隆寺村、坪阡村等区域。保护区内植被覆盖度降低,可能是由于受到2004年底、2005 年初极端低温的影响（其间最低温度达 $- 1 3 . 2 \mathrm { { ^ { \circ } C } }$ ）,以及2008年初极端低温（低达 $- 1 7 . 7 \mathrm { { ^ { \circ } C } }$ )的影响,尤其部分地区(阴峪河流域、落阳河流域等)因海拔较低,常绿植物占优势的植被遭受到的冰冻雪灾更为严重;除此之外,保护区内部分地区
+
+http://www.ecologica.cn
+
+(如落阳河流域、黄柏阡、兴隆寺村等)均有相当面积的华山松分布(1300— $2 7 0 0 \ \mathrm { m } \overrightharpoon { }$ [38-39],而神农架林区华山松大小蠹自 2012年以来呈爆发趋势,华山松林受灾严重[40],导致其覆盖度大幅度下降。再则,2012年保护区内水库的修建（坪阡村附近），也导致植被覆盖度有所下降。
+
+保护区外植被覆盖度亦同时存在增加和下降的趋势。神农架机场和滑雪场等设施的修建导致保护区外部分地区(大草坪、宋洛村附近)植被减少,植被覆盖度下降。而保护区外的公路对植被覆盖度的影响较为复杂。林区内的两条主要公路为307省道和209 国道,307省道两侧植被覆盖度有所减少,而209 国道两侧植被覆盖度呈明显增加趋势;其主要原因是209 国道由于鄂西生态文化旅游圈项目的实施,于2008年完成道路两侧共 $1 5 . 8 ~ \mathrm { k m } ^ { 2 }$ 的绿化工作,这与Pauleit 等[41]关于城镇化表现为人工绿地的增加和自然植被的减少的研究结果一致。
+
+Ge 等[42]对神农架长期监测样地的分析表明,极端低温事件极有可能威胁亚热带地区以常绿树种为主的阔叶林的存在。这与本文神农架保护区内中低海拔以常绿物种为优势的区域植被覆盖度的降低较为明显的研究结果一致。此外,人类干扰、自然灾害等均会对植物生长产生影响,进而影响植被覆盖度。因此,未来对保护区的保护和管理不仅仅应关注人类干扰,对自然干扰也应予以重视。
+
+# 参考文献（References）：
+
+[1]SitchS,SmithB,renticeIC,Ath,odeuA,raerW,KaplanJ,LevisS,chtWSkesMT.Evaluatioofecosysteais,plant geographandterresrialcarboncyinginteLJdyamicgbalvegeationmodel.GlobalChangeBology，O，9（2）:61-185.  
+[2]GielsoA,tark,itsUstKaYVgelsibesealceoetdeforremote estimation of vegetation fraction.International Journal of Remote Sensing，2002，23(13）：2537-2562.  
+[3]DeardofJWEftpredictioofgoudufcetempeaturedoisturewiticusiooflaeofgeaioJualofGicalResearch:Oceans，1978,83(C4）：1889-1903.  
+4]iticKsaveetielielle9(4): 209-215.  
+[5]GutmanG,IgatovA.ThedrivatioofthegreevegetatiofractiofroNOAA/AVRdataforuseinumericalweatherpreditoodels.International Journal of Remote Sensing，1998,19(8）：1533-1543.  
+[6] HiranoY，YsuaYTUrbatelaoopotiteliveaoisriointlemeteorological model. Theoretical and Applied Climatology，2004，79(3/4）：175-184.  
+[7]RoyP,TomarSandscapecoverdyamicspateinMeghalaya.InteatioalJoualofRemoteSesing，o，22（18）:3813-3825.  
+[8]PrevdoatesaoelatissteateeatiocsteatialfRemote Sensing，1998，19(18）: 3519-3535.  
+[9] AdamsJB,SabolDE,KaposVlmeidaFihoR,RobertsDA,SmithMO,GillspieAR.ClassficationofmultispetralimagesbasedofractionsofedmembersAlicationtoland-coverchangeintherailanAzonemoteSesingofEnviont，99,2）：54.  
+[10] DymondJ，StehsPese，WildeR.ercentagevegetatiocoverofegadingangelandfroSO.IteatioalJoualfotSensing，1992,13(11): 1999-2007.  
+[11] 潘晓玲.于旱区绿洲生态系统动态稳定性的初步研究.第四纪研究，2001，21(4)：345-351.  
+[12] 张云霞，李晓兵，陈云浩.草地植被盖度的多尺度遥感与实地测量方法综述.地球科学进展，2003，18（1)：85-93.  
+[13 陈云浩，李晓兵，史培军，周海丽.北京海淀区植被覆盖的遥感动态研究.植物生态学报，2001，25(5）：588-593.  
+[14] 贾坤，姚云军，魏香琴，高帅，江波，赵祥.植被覆盖度遥感估算研究进展.地球科学进展，2013，28（7)：774-782.  
+[15] ShoshanyM，KutielP，LaveeH.onitoringemoralvegeationcoverhangesinMediteraneanandaridecosystesusingarotesingtechnique：case studyof theJudean Mountainand the Judean Desert.Journal of AridEnvironments，1996,33(1）：9-21.  
+[16] XiaoJ,MoodmpofodfotticlgoeisepadtsioialMexico，USA.Remote Sensing of Environment，2005,98(2/3）：237-250.  
+[17]GraetRechRvisetdfeleaegesigledattatelof Remote Sensing，1988,9(7）：1201-1222.  
+[18]BydDFodyGiplWEauatiroacforeseratioinacifst,UAsingetesgledGeography，2002，22(4)：375-392.  
+[19］孙久虎，刘晓萌，李佑钢，张洁，孟健.北运河地区植被覆盖的遥感估算及变化分析.水土保持研究，2006，13（6)：97-99.  
+[20］李苗苗，吴炳方，颜长珍，周为峰.密云水库上游植被覆盖度的遥感估算.资源科学，2004，26(4)：153-159.  
+[21］张喜旺，吴炳方.基于中高分辨率遥感的植被覆盖度时相变换方法.生态学报，2015，35(4)：1155-1164.  
+[22] DetschF,OteI，AppeasTpA，ssTeasalndlg-eegetatiodmfro-bsediat.Kilimanjaro，Tanzania.Remote Sensing of Environment,2016，178：70-83.  
+[23］杨大三，陈炳浩.神农架森林与生物多样性研究.湖北林业科技，1994，（2)：1-14.  
+[24] 田自强，陈钥，赵常明，谢宗强，陈伟烈.中国神农架地区的植被制图及植物群落物种多样性.生态学报，2004，24（8)：1611-1621.  
+[25] 徐长安.神农架，中国成功保护了她.世纪行，2007，（8)：125-125.  
+[26] 任园园.大巴山地区植被指数变化及其驱动力分析[D].西安：西北大学，2012.  
+[27] 黄靖，夏智宏.基于 MODIS-EVI数据的神农架林区植被指数变化特征研究.气象与环境科学，2013，36(3）：39-43.  
+[28］姜哲，刘芳，张微，栾晓峰，李迪强，李佳.基于Landsat遥感影像解译的神农架林区近30年土地覆盖动态变化.长江科学院院报，2016，33(6):150-154.  
+[29]StowDA,HopeA,McGuireD,VerbylaD,GamonJ,HuemmrichF,HoustonS,RacineC,SturmM，TapeK，HinzmanL,YoshikawaK,TwedieC,NoylB,ilapasanC,DoglasD,GiftB,JiaG,EpstenH,WaerD,Dhr,eteenA,ZouL,Myesensing of vegetationandland-coverchange inArcticTundraEcosystems.RemoteSensingof Environment，2O04，89（3）:281-308.  
+[30]ZhaoCM，Chen WL，Tian Z Q，XieZQ.Altitudinal patern of plant species diversity in Shennongjia Mountains ，Central China. Journal ofIntegrative Plant Biology，2005，47(12）：1431-1449.  
+[31]CaloiplelefractilaticondeeReoteesigoft,9,62(3):241-252.  
+[32］罗修岳，郑柯.脆弱生态环境植被指数和植被盖度数字图像的编制及应用研究——以晋陕蒙地区为例//郑兴年，张渊智.晋陕蒙接壤地区脆弱生态系统遥感监测与管理研究.北京：宇航出版社，1994：24-35.  
+33]LeprieurCKerasto，eJitngeatiooecrossaridegosmpsoofoteetiosfrvarious scales.International Journal of Remote Sensing，200o,21（2）： 281-300.  
+[34］李苗苗.植被覆盖度的遥感估算方法研究[D].北京：中国科学院研究生院(遥感应用研究所)，2003.  
+[35] 李晓锦.基于混合像元分解的植被覆盖度估算及动态变化分析[D].西安：西北大学，2011.  
+[36] 方精云，朴世龙，贺金生，马文红.近 20年来中国植被活动在增强.中国科学(C辑：生命科学)，2003,33(6)：554-565.  
+[37] RCoreTeam.R：ALanguageandEnvironmentforStatistcalComputingVienna，Austria：RFoundationforStatisticalomputing，016.  
+[38] 应俊生，马成功，张志松.鄂西神农架地区的植被和植物区系．中国科学院大学学报，1979，17（3)：41-60.  
+[39] 李兆华.神农架野生珍稀濒危植物及其保护对策研究.长江流域资源与环境，1992，（1)：49-54.  
+[40] 张子一，查玉平，王少明，洪承昊，曾博，陈京元.神农架林区华山松大小蠹生物学特性研究.中国森林病虫，2015，34（6)：1-4.  
+[41]PauleitS,EnosR，GoldingY.ModelingtheenviromentalimpactsofurbanlanduseandlandcoverchangeastudyinMerseyside，UK.Landscape and Urban Planning，2005，71(2/4): 295-310.  
+[42]GeJL,XiongGM,WangZX,ZhangM,ZhaoCM,ShenGZ,XuWT,XieZQ.Altereddynamicsofbroad-leavedtreespeciesinaChinesesubtropicalmontanemixedforest:theoleofananomalousextreme2008icestoepisode.EcologyandEvolution，015,5（7）：1484-1493.17

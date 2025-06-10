@@ -1,0 +1,462 @@
+[
+    {
+        "type": "text",
+        "text": "混菌固态发酵白酒糟开发为蛋白质饲料的条件优化及营养价值评定张玉诚薛白\\*达勒措 李秋瑾　何宇（四川农业大学动物营养研究所，成都611130）（四川衣业八子幼物吕介研九所，成郁011130）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在优化白地霉、米曲霉、绿色木霉和枯草芽孢杆菌混菌固态发酵白酒糟开发为蛋白质饲料的条件，并评定其营养价值。将白地霉、米曲霉、绿色木霉和枯草芽孢杆菌按照1:1:1:1混合后按 $10 \\%$ 接种到培养基中，采用 $\\mathrm { L } _ { 1 6 } ( 5 ^ { 4 } )$ 正交试验设计，共5个发酵条件，分别为基料、尿素、磷酸二氢钾、 $\\mathsf { p H }$ 、水分，每个条件4个变量，共16组发酵条件。按条件配制好的混合物放置于（ $3 0 { \\pm } 2$ ） $\\mathrm { { ^ \\circ C } }$ 中培养 $7 2 \\mathrm { { h } }$ 。对发酵前后真蛋白质、粗纤维含量进行极差分析确定最优条件，再比较最优条件发酵前后白酒糟营养水平和氨基酸组成的变化。结果显示：1）基料按照 $80 \\%$ 白酒糟、 $10 \\%$ 麸皮、 $5 \\%$ 玉米粉、 $5 \\%$ 菜籽粕配比，尿素添加量为$1 . 5 \\%$ ，磷酸二氢钾添加量为 $0 . 7 \\%$ ， $\\mathsf { p H }$ 为5、水分为 $5 0 \\%$ 时发酵效果最好，为最优发酵条件。2）最优条件下发酵后白酒糟与发酵前相比，真蛋白质含量提高了 $5 7 . 8 5 \\%$ ( $_ { . } P { < } 0 . 0 1 \\rangle$ ；粗纤维、酸性洗涤纤维、中性洗涤纤维、粗脂肪含量分别降低了 $4 2 . 3 9 \\%$ 、 $3 1 . 9 5 \\%$ 、 $2 7 . 7 3 \\%$ 、 $2 1 . 4 8 \\%$ （ $P { < } 0 . 0 1 \\ \\cdot$ ;钙、磷含量分别提高了 $1 6 . 6 7 \\%$ 和 $6 8 . 1 8 \\% ( P { < } 0 . 0 1 )$ ；总氨基酸含量提高了 $2 4 . 4 7 \\%$ ，其中赖氨酸、蛋氨酸、苏氨酸、氨酸、亮氨酸、异亮氨酸和脯氨酸含量分别提高了 $1 0 9 . 6 8 \\%$ 、$3 8 . 0 9 \\%$ 、 $3 9 . 3 9 \\%$ 、 $7 1 . 4 3 \\%$ 、 $2 8 . 9 3 \\%$ 、 $1 0 . 8 7 \\%$ 和 $3 . 7 0 \\%$ 。综上可得，利用白地霉、米曲霉、绿色木霉和枯草芽孢杆菌混菌发酵白酒糟的最佳条件是：基料组成 $80 \\%$ 白酒糟、 $10 \\%$ 麸皮、$5 \\%$ 玉米粉、 $5 \\%$ 菜籽粕，尿素 $1 . 5 \\%$ ，磷酸二氢钾 $0 . 7 \\%$ ， $\\mathsf { p H } 5$ ，水分 $5 0 \\%$ ，发酵产物的真蛋白质含量为 $2 4 . 3 4 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：白酒糟；混菌；固态发酵；营养价值；优化中图分类号：S816.6",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是生产白酒的大国，白酒糟的年产量已经达到 $3 { \\times } 1 0 ^ { 1 0 }$ t[]。然而由于白酒糟粗纤维含量高，动物的消化率低下，再加上水分含量极高极易腐败变质，给白酒糟的进一步利用带来很大的困难[2]。有研究表明，微生物能够利用酒糟中的淀粉、糖类等营养物质转化为自身的代谢产物，并同时产生脂肪酶、蛋白酶、纤维素酶等酶类降解酒糟中的纤维素，提高酒糟的蛋白质含量，进而改善酒糟的品质。酵母菌与霉菌组合具有正协同作用。尽管米曲霉(Aspergillus oryzae)等霉菌能有效地将淀粉、纤维素降解为酵母菌易利用的单糖类物质，合成菌体蛋白[3]。但是米曲霉只产生外切水解肽酶，对于酒糟中蛋白质的利用是有限的。芽孢杆菌能够产生活性较强的蛋白质内切肽酶、淀粉酶和脂肪酶，其能够分泌很多动物机体本身所不具有的酶，还有降解饲料中复杂碳水化合物如果胶、葡聚糖、纤维素等的酶，并且能够提高饲料中氨基酸含量，弥补其他菌种的不足。绿色木霉(Trichoderma viride)是公认的最好的纤维素酶生产菌，它不仅能分解纤维素，还能分解半纤维素和果胶物质等其他物质。因此本试验选用白地霉(Geotrichum candidum)绿色木霉、米曲霉和枯草芽孢杆菌(Bacillus subtils)混菌对白酒糟进行发酵，以期优化发酵条件，进一步提高白酒糟的营养价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1试验菌种与培养基",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "白酒糟购于雅安沙坪酒厂，水分含量为 $6 3 . 4 5 \\%$ ，干物质基础的营养水平如下：粗蛋白质 $1 6 . 3 2 \\%$ ，真蛋白质 $1 5 . 0 1 \\%$ ，粗纤维 $34 . 9 0 \\%$ ，酸性洗涤纤维 $5 5 . 6 0 \\%$ ，中性洗涤纤维 $6 5 . 3 9 \\%$ ，粗脂肪 $2 . 5 8 \\%$ ，粗灰分 $1 2 . 6 5 \\%$ ，钙 $0 . 2 2 \\%$ ，磷 $0 . 1 8 \\%$ 。麸皮、菜籽粕、玉米粉购于四川农业大学动物营养所试验场。白地霉、米曲霉、枯草芽孢杆菌、绿色木霉购于中国工业微生物保藏中心，供试菌种所用培养基及主要作用见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1供试菌种所用培养基及主要作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bed008d098d265226bddb93fa9774200fd178a59695e4c30c38fff46265b833.jpg",
+        "table_caption": [
+            "Table 1Mediums and primary functions of microorganism for test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>培养基 Medium</td><td>主要作用 Primary function</td></tr><tr><td>白地霉 Geotrichum candidum</td><td>麦芽汁培养基</td><td>为饲料酵母，用于生产蛋白质饲</td></tr><tr><td>米曲霉 Aspergillus oryzae</td><td>麦芽汁培养基</td><td>料 产中性蛋白酶、酸性蛋白酶</td></tr><tr><td>枯草芽孢杆菌Bacillussubtils</td><td>牛肉膏淀粉培养基</td><td></td></tr><tr><td></td><td></td><td>产蛋白酶、纤维素酶</td></tr><tr><td>绿色木霉Trichoderma viride</td><td>PDA培养基</td><td>产纤维素酶</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PDA培养基：称取 $2 0 0 \\ \\mathrm { g }$ 去皮的马铃薯，切碎，加入 $8 0 0 ~ \\mathrm { { m L } }$ 蒸馏水，放在电炉上煮沸",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 0 \\mathrm { m i n }$ 左右，用8层纱布过滤，留取滤液，加入 $2 0 \\mathrm { g }$ 葡萄糖，加水至 $1 0 0 0 { \\mathrm { m L } }$ 。（如配  \n制固体培养基需加入 $2 0 \\mathrm { g }$ 琼脂，定容至 $1 0 0 0 { \\mathrm { m L } }$ 。 $1 2 1 ^ { \\circ } \\mathrm { C }$ 高压灭菌 $2 0 \\mathrm { m i n }$ 。麦芽汁培养基: $1 5 \\mathrm { g }$ 琼脂，5Be麦芽汁定容至 $1 0 0 0 { \\mathrm { m L } }$ ，， $1 2 1 ^ { \\circ } \\mathrm { C }$ 灭菌 $2 0 \\mathrm { m i n }$ 。牛肉膏淀粉培养基:牛肉膏 $2 0 \\mathrm { g }$ ，淀粉 $2 0 \\mathrm { g }$ ，蛋白脉 $1 0 \\mathrm { { g } }$ ，琼脂 $2 0 \\mathrm { g }$ ，加蒸馏水定容至1  \n$0 0 0 { \\mathrm { m L } }$ ，pH7.2,121 $\\mathrm { { } ^ { \\circ } C }$ 灭菌 $2 0 \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 菌种活化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用无菌吸管吸取 $0 . 5 { \\mathrm { ~ m L } }$ 的液体培养基于安瓿管中将干燥菌体全部溶解，吸出并放入盛有 $4 { \\sim } 5 \\ \\mathrm { m L }$ 液体培养基的试管中，白地霉和米曲霉用麦芽汁培养基，培养3\\~5d。绿色木霉用 PDA培养基，培养5\\~7d。枯草芽孢杆菌用牛肉膏淀粉培养基，培养 $2 \\mathrm { d }$ 活化2\\~3代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 微生物种子准备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绿色木霉用 PDA 培养基 $2 8 ^ { \\circ } \\mathrm { C }$ 培养至菌丝铺满斜面，米曲霉用麦芽汁培养基 $2 8 ^ { \\circ } \\mathrm { C }$ 培养5\\~7d，用适量无菌水将孢子冲洗，4层擦镜纸过滤，采用血球计数板计算孢子悬液的浓度，稀释至 $1 \\times 1 0 ^ { 7 }$ CFU/mL，备用；白地霉液体培养基 $2 8 ^ { \\circ } \\mathrm { C } , 1 5 0 \\mathrm { r } / \\mathrm { m i n }$ 摇瓶培养至浓度约为 $1 \\times 1 0 ^ { 7 }$ CFU/mL；枯草芽孢杆菌用牛肉膏培养基 $2 8 ~ ^ { \\circ } \\mathrm { C }$ 、 $2 5 0 ~ \\mathrm { \\ r / m i n }$ 摇瓶培养至浓度约为 $\\scriptstyle 1 \\times 1 0 ^ { 7 }$ CFU/mL。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "白地霉、米曲霉、绿色木霉和枯草芽孢杆菌按照1:1:1:1混合后按 $10 \\%$ 接种到培养基中。采用L16（54）正交试验设计，共5个发酵条件，分别为基料（A）、尿素(B)、磷酸二氢钾(C)、 $\\mathrm { \\ p H ( D ) }$ 、水分(E)，每个条件 4个变量，共16 组发酵条件。发酵条件Ll6（54）正交试验设计方案见表2。按条件配制好的混合物放置于（ $3 0 { \\pm } 2$ ） $^ { \\circ } \\mathrm { C }$ 恒温培养箱中培养 $^ { 7 2 \\mathrm { ~ h ~ } }$ ，每隔 $1 2 \\mathrm { ~ h ~ }$ 搅拌1次，防止内部温度太高，试验结束后取一部分立即测定水分，剩下部分烘干待测。首先通过真蛋白质和粗纤维含量2个指标筛选出最优的发酵条件，然后在最优的发酵条件下发酵白酒糟，测定其营养水平和氨基酸含量，比较发酵前后的变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2发酵条件L16 $( 5 ^ { 4 } )$ ）正交试验设计方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/272b3040f30ac48f9e8b80afe5fb594f6c9d00755aae77e015169489c48f7b5e.jpg",
+        "table_caption": [
+            "Table 2 L16 $( 5 ^ { 4 }$ ）orthogonal testing design scheme for fermentation condition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>号</td><td></td><td>发酵条件 Fermentation condition</td><td colspan=\"5\"></td></tr><tr><td>oup No.A[基料（干物质基础）</td><td></td><td>Stock blend（DM basis）]</td><td>B(尿素 Urea/%)</td><td>C(磷酸二氢钾</td><td>D(pH)</td><td>E(</td><td>水 分</td></tr><tr><td></td><td></td><td></td><td></td><td>KHPO4/%)</td><td></td><td>Moisture/% )</td><td></td></tr><tr><td>1</td><td>2（80%白酒糟+20%麸皮）</td><td>2 (1.0) 4(2.0)</td><td></td><td>2 (0.3)</td><td>2 (6)</td><td></td><td>1(50)</td></tr><tr><td>2 3</td><td>2（80%白酒糟+20%麸皮） 1（100%白酒糟)</td><td></td><td>2(1.0)</td><td>3 (0.5) 3(0.5)</td><td>1(5) 5(8)</td><td></td><td>3(60)</td></tr><tr><td>4</td><td>3（80%白酒糟+10%麸皮+10%玉米粉）</td><td>3(1.5)</td><td></td><td></td><td>3 (7)</td><td></td><td>2(55)</td></tr><tr><td>5</td><td>1（100%白酒糟)</td><td></td><td>1 (0.5)</td><td>3 (0.5)</td><td></td><td></td><td>1(50)</td></tr><tr><td>6</td><td>1（100%白酒糟）</td><td>4 (2.0)</td><td></td><td>1 (0.1) 2 (0.3)</td><td>1(5)</td><td></td><td>1(50)</td></tr><tr><td>7</td><td>3（80%白酒糟+10%麸皮+10%玉米粉）</td><td>1 (0.5)</td><td></td><td></td><td>3 (7) 4(8)</td><td></td><td>4(65)</td></tr><tr><td>8</td><td>1（100%白酒糟）</td><td>3(1.5)</td><td>2(0.3)</td><td></td><td></td><td></td><td>3(60)</td></tr><tr><td>9</td><td>4（80%白酒糟+10%麸皮+5%玉米粉+5%菜籽粕）</td><td>3 (1.5)</td><td></td><td>4 (0.7)</td><td>2(6) 1(5)</td><td></td><td>3(60)</td></tr><tr><td>10</td><td>2（80%白酒糟+20%麸皮）</td><td>3 (1.5)</td><td></td><td>2 (0.3)</td><td>4(8)</td><td></td><td>2(55)</td></tr><tr><td>11</td><td>3（80%白酒糟+10%麸皮+10%玉米粉）</td><td>4(2.0)</td><td></td><td>1 (0.1) 1 (0.1)</td><td>2 (6)</td><td></td><td>4(65)</td></tr><tr><td>12</td><td>2（80%白酒糟+20%麸皮）</td><td>1 (0.5)</td><td>4 (0.7)</td><td></td><td>3(7)</td><td></td><td>2(55)</td></tr><tr><td>13</td><td>4（80%白酒糟+10%麸皮+5%玉米粉+5%菜籽粕）</td><td></td><td>1 (0.5)</td><td>3(0.5)</td><td>2 (6)</td><td></td><td>2 (55)</td></tr><tr><td>14</td><td>3（80%白酒糟+10%麸皮+10%玉米粉）</td><td></td><td>2 (1.0)</td><td>4 (0.7)</td><td>1(5)</td><td></td><td>4(65) 4(65)</td></tr><tr><td>15</td><td>4（80%白酒糟+10%麸皮+5%玉米粉+5%菜籽粕）</td><td></td><td>4(2.0)</td><td>4 (0.7)</td><td>4(8)</td><td></td><td>1(50)</td></tr><tr><td>16</td><td>4（80%白酒糟+10%麸皮+5%玉米粉+5%菜籽粕）</td><td></td><td>2(1.0)</td><td>1 (0.1)</td><td>3(7)</td><td></td><td>3(60)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "发酵条件括号外为编号，括号内为具体条件参数。 Fermentation condition outside the bracket was coding No.，and those inside the bracket was specific condition parameters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "发酵结束后将样品置于鼓风干燥烘箱65℃烘干，制备成风干样品。真蛋白质含量的测定利用过量的氢氧化铜将真蛋白质沉淀，用水洗去水溶性含氮物。沉淀部分利用凯氏定氮的方法测定真蛋白质含量[4]；利用酸碱洗涤法测定粗纤维含量；测定中性洗涤纤维和酸性洗涤纤维含量时，在沉淀中分别加入酸性洗涤液和中性洗涤液洗涤微沸1h，之后用热蒸馏水洗去可溶物，105℃将剩余物质烘干，具体参照Van Soest等[5]方法进行；钙含量利用高锰酸钾滴定法测定；磷含量利用钼黄分光光度计比色法测定；氨基酸含量采用氨基酸自动分析仪（日立L-8900）测定，具体参照张丽英[7]的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据首先用Excel2007进行初步整理，然后再用 SPSS19.0处理、分析，试验结果进行极差分析与方差分析，显著性采用Duncan 法进行多重比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1混菌发酵正交试验真蛋白质含量极差分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3极差分析可知，影响真蛋白质含量的效应依次为B、A、E、C、D，即主要影响因素是尿素，次要影响因素依次为基料、水分、磷酸二氢钾和 $\\mathrm { \\ p H }$ ，最优的组合为 $\\mathbf { A _ { 4 } B _ { 3 } C _ { 4 } D _ { 1 } E _ { 1 } }$ 。直观分析可以得到，真蛋白质含量最高组是9组，组合为 $\\mathbf { A } _ { 4 } \\mathbf { B } _ { 3 } \\mathbf { C } _ { 2 } \\mathbf { D } _ { 1 } \\mathbf { E } _ { 2 }$ ，真蛋白质含量是$2 3 . 9 5 \\%$ ，与未发酵的白酒糟相比，真蛋白质含量提高了 $5 9 . 5 6 \\%$ 。这与极差分析的最佳组合不一致，因此需要进一步的验证试验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3混菌发酵Li6（45）正交试验真蛋白质含量极差分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ed32fe03f509bb95dd2edfffb39b06c8aa36e899983dfa4954f1939f9972032.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table3</td><td></td><td>RangeanalysisfortrueproteincontentinLi6（4）</td><td></td><td></td><td></td><td>orthogonal test of complex stains fermentation</td></tr><tr><td>组号</td><td>Group</td><td></td><td colspan=\"4\">发酵条件Fermentation condition</td></tr><tr><td>No.</td><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>真蛋白质TP/%</td></tr><tr><td></td><td>1</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>22.69</td></tr><tr><td></td><td>2</td><td>2</td><td>4</td><td>3</td><td>1</td><td>3</td><td>22.46</td></tr><tr><td></td><td>3</td><td>1</td><td>2</td><td>3</td><td>4</td><td>2</td><td>21.89</td></tr><tr><td>4</td><td></td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>23.83</td></tr><tr><td>5</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>21.33</td></tr><tr><td>6</td><td></td><td>1</td><td>4</td><td>2</td><td>3</td><td>4</td><td>22.04</td></tr><tr><td>7</td><td></td><td>3</td><td>1</td><td>2</td><td>4</td><td>3</td><td>21.35</td></tr><tr><td>8</td><td></td><td>1</td><td>3</td><td>4</td><td>2</td><td>3</td><td>22.81</td></tr><tr><td>9</td><td></td><td>4</td><td>3</td><td>2</td><td>1</td><td>2</td><td>23.95</td></tr><tr><td>10</td><td></td><td>2</td><td>3</td><td>1</td><td>4</td><td>4</td><td>23.00</td></tr><tr><td>11</td><td></td><td>3</td><td>4</td><td>1</td><td>2</td><td>2</td><td>22.35</td></tr><tr><td>12</td><td></td><td>2</td><td>1</td><td>4</td><td>3</td><td>2</td><td>21.81</td></tr><tr><td>13</td><td></td><td>4</td><td>1</td><td>3</td><td>2</td><td>4</td><td>21.91</td></tr><tr><td>14</td><td></td><td>3</td><td>2</td><td>4</td><td>1</td><td>4</td><td>22.28</td></tr><tr><td>15</td><td></td><td>4</td><td>4</td><td>4</td><td>4</td><td></td><td>23.38</td></tr><tr><td>16</td><td></td><td>4</td><td>2</td><td>1</td><td>3</td><td>1</td><td>22.01</td></tr><tr><td>K1</td><td></td><td>22.02</td><td>21.60</td><td>22.18</td><td>22.51</td><td>3</td><td></td></tr><tr><td>K2</td><td></td><td></td><td></td><td>22.51</td><td></td><td>22.81</td><td></td></tr><tr><td>K3</td><td></td><td>22.49</td><td>22.22</td><td></td><td>22.44</td><td>22.50</td><td></td></tr><tr><td></td><td></td><td>22.45</td><td>23.40</td><td>22.52 22.57</td><td>22.42</td><td>22.16</td><td></td></tr><tr><td>K4 R</td><td></td><td>22.82 0.80</td><td>22.56 1.80</td><td>0.39</td><td>22.40 0.11</td><td>22.31 0.65</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "K1、K2、K3、K4分别表示对应编号的发酵条件下得到数据的平均值；R表示极差，即K1、K2、K3、K4 的最大值减去最小值。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "K1，K2，K3 and K4 wereaverage values of data calculated under fermentation conditions with corresponding coding No.. R was the range,and was the diffrence of the maximum and minimum of K1，K2, K3 and K4. The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2混菌发酵正交试验粗纤维含量极差分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4极差分析可知，影响粗纤维含量的效应依次为A、C、B、D、E，说明发酵白酒糟纤维素降解的主要影响因素是基料，次要影响因素依次是磷酸二氢钾、尿素、pH和水分。因此可以得到降解纤维的最优组合为 $\\mathbf { A _ { 4 } B _ { 3 } C _ { 4 } D _ { 1 } E _ { 1 } }$ ，与以真蛋白质含量筛选的结果一致。直观分析可以得到15组的纤维素含量最低为 $2 0 . 2 3 \\%$ ，相比较未发酵的白酒糟降低了 $4 2 . 0 3 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4混菌发酵Li6（45）正交试验粗纤维含量极差分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 4Range analysis for crude fiber content in L16 （45）orthogonal test of complex stains ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/574d7e5311b7530c97f692eee88ac43e71b1533318d33d998b5351cc15766053.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">fermentation</td></tr><tr><td></td><td></td><td>发酵条件 Fermentation condition</td><td></td><td></td><td>粗纤维 CF/%</td></tr><tr><td>号 Group No.</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>1</td><td>2</td><td>2</td><td>2</td><td>2 1</td><td>22.89</td></tr><tr><td>2</td><td>2</td><td>4</td><td>3</td><td>1 3</td><td>21.87</td></tr><tr><td>3</td><td>1</td><td>2</td><td>3</td><td>4 2</td><td>28.15</td></tr><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3 1</td><td>21.30</td></tr><tr><td>5</td><td>1</td><td>1</td><td>1</td><td>1 1</td><td>29.08</td></tr><tr><td>6</td><td>1</td><td>4</td><td>2</td><td>3 4</td><td>27.86</td></tr><tr><td>7</td><td>3</td><td>1</td><td>2</td><td>4 3</td><td>23.94</td></tr><tr><td>8</td><td>1</td><td>3</td><td>4</td><td>2 3</td><td>26.61</td></tr><tr><td>9</td><td>4</td><td>3</td><td>2</td><td>1 2</td><td>20.40</td></tr><tr><td>10</td><td>2</td><td>3</td><td>1</td><td>4 4</td><td>24.52</td></tr><tr><td>11</td><td>3</td><td>4</td><td>1</td><td>2 2</td><td>23.44</td></tr><tr><td>12</td><td>2</td><td>1</td><td>4</td><td>3 2</td><td>23.37</td></tr><tr><td>13</td><td>4</td><td>1</td><td>3</td><td>2 4</td><td>22.45</td></tr><tr><td>14</td><td>3</td><td>2</td><td>4</td><td>1 4</td><td>21.58</td></tr><tr><td>15</td><td>4</td><td>4</td><td>4</td><td>4 1</td><td>20.23</td></tr><tr><td>16</td><td>4</td><td>2</td><td>1</td><td>3 3</td><td>22.97</td></tr><tr><td>K1</td><td>27.94</td><td>24.71</td><td>25.00</td><td>23.23</td><td>23.38</td></tr><tr><td>K2</td><td>23.17</td><td>23.89</td><td>23.77</td><td>23.85</td><td>23.84</td></tr><tr><td>K3</td><td>22.58</td><td>23.30</td><td>23.44</td><td>23.87</td><td>23.85</td></tr><tr><td>K4</td><td>21.53</td><td>23.35</td><td>22.95</td><td>24.21</td><td>24.11</td></tr><tr><td>R</td><td>6.41</td><td>1.41</td><td>2.05</td><td>0.98</td><td>0.73</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3最优组合发酵前后营养水平的比较 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，发酵后白酒糟真蛋白质含量极显著的高于发酵前（ $\\scriptstyle \\cdot < 0 . 0 1$ ），相比较发酵前提高了 $5 7 . 8 5 \\%$ 。发酵后粗纤维含量极显著低于发酵前（ $\\scriptstyle P < 0 . 0 1 .$ )，降低了 $4 2 . 3 9 \\%$ ，并且，酸性洗涤纤维和中性洗涤纤维含量也相应呈现极显著的降低( $( P { < } 0 . 0 1 )$ )，分别降低了 $3 1 . 9 5 \\%$ 和 $2 7 . 7 3 \\%$ 。粗脂肪含量发酵后极显著地低于发酵前，但是粗灰分、钙和磷含量发酵后极显著的高于发酵前（ $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ )，分别提高了 $4 . 4 2 \\%$ 、 $1 6 . 6 7 \\%$ 和 $6 8 . 1 8 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6e8ad960fcec1387277c938753d9e25ca61e14ed7d5dabc1b6b33b9a55a779e.jpg",
+        "table_caption": [
+            "Table 5Comparison of nutrient levels before and after fermentation under optimal condition (DM basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>未发酵 Unfermented</td><td>发酵前 Before fermentation</td><td>发酵后 After fermentation</td><td>增长率 Growth</td></tr><tr><td>粗蛋白质 CP</td><td>16.32±0.78A</td><td>18.78±0.66B</td><td>29.43±0.87C</td><td>rate</td></tr><tr><td>真蛋白质 TP</td><td>15.01±0.46Aa</td><td>15.42±0.17Aa</td><td>24.34±0.23Bb</td><td>56.71 57.85</td></tr><tr><td>粗纤维CF</td><td>34.90±1.56Aa</td><td>34.82±1.78Aa</td><td>20.06±0.98Bb</td><td>-42.39</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>55.60±3.12Aa</td><td>55.36±2.67Aa</td><td>37.67±1.86Bb</td><td></td></tr><tr><td>中性洗涤纤维 NDF</td><td>65.39±3.55Aa</td><td></td><td>47.23±2.35Bb</td><td>-31.95</td></tr><tr><td>粗脂肪 EE</td><td>2.58±0.05Aa</td><td>65.35±3.05Aa 2.56±0.02Aa</td><td>2.01±0.12Bb</td><td>-27.73</td></tr><tr><td>粗灰分 Ash</td><td>12.65±0.25Aa</td><td>12.67±0.23Aa</td><td>13.23±0.15Bb</td><td>-21.48</td></tr><tr><td>钙Ca</td><td>0.22±0.01Aa</td><td>0.24±0.01Aa</td><td>0.28±0.02Bb</td><td>4.42 16.67</td></tr><tr><td>磷P</td><td>0.18±0.01A</td><td>0.22±0.12B</td><td>0.37±0.18C</td><td>68.18</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "增长率 $_ { \\mathrm { - } 1 0 0 } \\times$ （发酵后-发酵前）/发酵前。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Growth rate $_ { \\mathrm { { = } 1 0 0 } }$ （after fermentation-before fermentation）/before fermentation.The same as below.同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。In the same row, values with no letter or the same letter superscripts mean no significant difference ( $\\mathrm { ' } P { > } 0 . 0 5 \\mathrm { ' }$ ），while with different small letter superscripts mean significant difference ( $\\scriptstyle \\sum 0 . 0 5 ,$ ),and with different capital lettersuperscripts mean significant difference ( $\\scriptstyle \\mathbf { \\mathit { P } } < 0 . 0 1$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4最优组合发酵前后氨基酸组成的比较 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，发酵后总氨基酸含量为 $1 6 . 5 8 \\%$ ，相比发酵前提高了 $2 4 . 4 7 \\%$ 。发酵后除了胱氨酸含量比发酵前下降了 $1 1 . 4 3 \\%$ ，其余氨基酸含量均有不同程度的提高，其中赖氨酸含量增幅最高，比发酵前提高了 $1 0 9 . 6 8 \\%$ ，必需氨基酸蛋氨酸、苏氨酸、氨酸、亮氨酸、异亮氨酸和脯氨酸分别提高了 $3 8 . 0 9 \\%$ 、 $3 9 . 3 9 \\%$ 、 $7 1 . 4 3 \\%$ 、 $2 8 . 9 3 \\%$ 、 $1 0 . 8 7 \\%$ 和 $3 . 7 0 \\%$ 。非必需氨基酸含量的总体增幅略低于必需氨基酸。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6最优组合发酵前后氨基酸组成的比较(干物质基础)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e108c7300ff6a81c40abb756aeea6628a6ddab9178a05f7d4cc3a24f065b2b21.jpg",
+        "table_caption": [
+            "表5最优组合发酵前后营养水平的比较（干物质基础）",
+            "Table 6Comparison of AA composition before and after fermentation under optimal condition （DM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">basis） %</td><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\"></td><td>发酵前</td><td>占总氨基酸百分</td><td>发酵后</td><td>占总氨基酸百</td><td>增长率 Growth</td></tr><tr><td>Before</td><td>比 Percent of</td><td>After</td><td>分比Percent of</td><td>rate</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3b3b94190b93095b4fdc61cf4878ff67ce96b8e6b9443f258912b1c4aaf4259.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>fermentation</td><td>TAA</td><td>fermentation</td><td>TAA</td><td></td></tr><tr><td>赖氨酸Lys</td><td>0.31</td><td>2.33</td><td>0.65</td><td>3.92</td><td>109.68</td></tr><tr><td>蛋氨酸 Met</td><td>0.21</td><td>1.60</td><td>0.29</td><td>1.75</td><td>38.09</td></tr><tr><td>甘氨酸 Gly</td><td>0.56</td><td>4.20</td><td>0.96</td><td>5.79</td><td>71.43</td></tr><tr><td>苏氨酸Thr</td><td>0.33</td><td>2.48</td><td>0.46</td><td>2.77</td><td>39.39</td></tr><tr><td>天冬氨酸 Asp</td><td>0.87</td><td>6.53</td><td>1.18</td><td>7.12</td><td>35.63</td></tr><tr><td>丙氨酸 Ala</td><td>0.95</td><td>7.13</td><td>1.35</td><td>8.14</td><td>42.11</td></tr><tr><td>氨酸Val</td><td>0.56</td><td>4.21</td><td>0.96</td><td>5.79</td><td>71.43</td></tr><tr><td>亮氨酸Leu</td><td>1.21</td><td>9.08</td><td>1.56</td><td>9.40</td><td>28.93</td></tr><tr><td>异亮氨酸 Ile</td><td>0.46</td><td>3.45</td><td>0.51</td><td>3.07</td><td>10.87</td></tr><tr><td>胱氨酸Cys</td><td>0.35</td><td>2.63</td><td>0.31</td><td>1.86</td><td>-11.43</td></tr><tr><td>精氨酸Arg</td><td>0.45</td><td>3.38</td><td>0.62</td><td>3.73</td><td>37.78</td></tr><tr><td>组氨酸 His</td><td>0.41</td><td>3.08</td><td>0.49</td><td>2.95</td><td>19.51</td></tr><tr><td>谷氨酸 Glu</td><td>3.33</td><td>25.00</td><td>3.67</td><td>22.13</td><td>10.21</td></tr><tr><td>酪氨酸Tyr</td><td>0.67</td><td>5.03</td><td>0.71</td><td>4.28</td><td>5.97</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.78</td><td>5.86</td><td>0.82</td><td>4.94</td><td>5.13</td></tr><tr><td>丝氨酸 Ser</td><td>0.52</td><td>3.91</td><td>0.64</td><td>3.86</td><td>23.08</td></tr><tr><td>脯氨酸 Pro</td><td>1.35</td><td>10.14</td><td>1.40</td><td>8.44</td><td>3.70</td></tr><tr><td>总氨基酸 TAA</td><td>13.32</td><td></td><td>16.58</td><td></td><td>24.47</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1白酒糟发酵条件的优化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基料的组成不同严重影响微生物发酵产物的优劣。白酒糟作为酿酒的副产物自身营养物质不均衡，因此需要在培养基中加入其他原料来平衡。麸皮、玉米粉和菜籽粕含有丰富的碳源，发酵中适量添加不仅可以改善白酒糟的营养品质，而且增加培养基的蓬松程度，有助于氧气的流通，促进好氧菌的生长。郭志等8研究表明，添加麸皮和玉米粉能够显著提高热带假丝酵母、黑曲霉和绿色木霉混菌对白酒糟的发酵效果。焦肖飞等研究表明，当麸皮的添加量小于 $1 5 \\%$ 时，随着麸皮添加量的逐渐提高，发酵产物中蛋白质的含量呈现增长趋势。张博润等[10]添加 $10 \\%$ 的菜籽粕对白酒糟发酵也有显著的改善作用。本试验得到，添加 $10 \\%$ 麸皮、 $5 \\%$ 玉米粉和 $5 \\%$ 菜籽粕组发酵效果最好，真蛋白质含量最高，并且粗纤维含量最低，显著优于其他组。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "水分是微生物生长不可缺少的因素。微生物能够在固体培养基上生长，一般固态培养基水分含量大于时 $40 \\%$ 微生物可以繁殖，当培养基中有一定自由流动水时，微生物的代谢产物及各种酶渗透流动进入基质内，促进微生物的生长繁殖，改善白酒糟的品质。刘达玉等[]组合菌种发酵酒糟制备蛋白质饲料研究得到，发酵培养基水分达到 $50 \\% { \\sim } 6 0 \\%$ 时，产物中粗蛋白质含量达到稳定。本试验结果表明，当发酵培养基中水分含量为 $5 0 \\%$ 时发酵产物的真蛋白质含量最高，在实际生产中水分越低越有利于产品的推广。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "发酵底物的初始pH也是影响微生物生长情况的重要因素之一，适宜的pH条件有利微生物生长，否则会抑制生长。侯文华等[12]研究表明， $\\mathsf { p H }$ 为5.5时自选菌种8505和8503发酵酒糟粗蛋白质含量最高，比未发酵提高了 $2 3 . 7 5 \\%$ ，当 $\\mathsf { p H }$ 大于6.0时，粗蛋白质含量显著下降。然而，孙东伟等[13]采用多菌种固态混合发酵得到， $\\mathsf { p H }$ 为6.31时发酵产物蛋白质产量最高。董文豪等[14]研究得到，菌种发酵的最适宜 $\\mathsf { p H }$ 为9.0。本试验研究结果表明，混菌发酵 pH为 5.0时，菌种发酵的真蛋白质含量最高。不同学者研究结果都不相同，这可能是由于发酵所选的菌种各不相同，而不同菌种生长所需的最适宜pH存在差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "钾不仅是生物体内各种重要酶系的激活剂，而且也作为电解质维持渗透压、调节酸碱平衡、控制水的代谢。磷是生物体内化学反应底物磷酸化的重要参与者，是生命遗传物质和众多酶类的组成部分。因此，本试验通过添加磷酸二氢钾调节钾和磷元素含量。易弋等[15]研究表明，培养基中磷酸二氢钾含量为 $0 . 6 \\%$ 时，发酵白酒糟中菌体的密度最大。本试验结果得到，磷酸二氢钾添加 $0 . 7 \\%$ 时，发酵白酒糟真蛋白质含量最高。这与其的研究结果相近。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "微生物能够利用非蛋白氮转化为自身代谢产物的一部分，因此可以添加外源氮提高发酵产物中的真蛋白质含量。李日强等[16]研究表明，白酒糟中添加 $2 \\%$ 的尿素，白酒糟中真蛋白质的含量最高。陆娟等[17]利用枯草芽孢杆菌和热带假丝酵母混菌发酵得到白酒糟中添加 $3 \\%$ 的尿素最适宜。然而本试验结果表明，白酒糟中添加 $1 . 5 \\%$ 尿素真蛋白质含量最高，低于这2 位学者的研究结果，这可能是因为发酵菌种和白酒糟原料的不同所致。当尿素含量大于1.5%时真蛋白质含量下降，这可能是由于微生物对外源氮的转化是有限的，超过最佳的添加量并不能提高发酵产物的真蛋白质含量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2最优发酵条件对白酒糟营养水平的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "白酒糟经过微生物发酵能够极大地改善其营养价值。宋善丹等[18]选用产肮假丝酵母、黑曲霉、米曲霉、枯草芽孢杆菌进行组合发酵，最优条件组的粗蛋白质、真蛋白质含量均显著增高，同时酸性洗涤纤维和中性洗涤纤维含量也降低了，陈风风[19]利用混菌固态发酵白酒糟，发酵产物的真蛋白质含量提高了 $2 7 . 4 4 \\%$ ，中性洗涤纤维含量降低了 $5 . 5 3 \\%$ 。王炫等[20]采用白地霉和假丝酵母混菌发酵白酒糟，白酒糟的粗纤维降解 $2 0 . 1 \\%$ ，粗脂肪降解 $6 1 . 8 1 \\%$ 。钟世博等[21以绿色木霉和热带假丝酵母混菌协同固态发酵白酒糟，得到发酵产物的蛋白质含量有所提高。孙东伟等[13]将白地霉、黑曲霉、米曲霉和产肮假丝酵母共同混合发酵酒糟，发现产物中蛋白质含量上升，粗纤维含量显著下降，酒糟的品质和营养价值得到改善和提高。郭素环等[22]将乳酸菌、班图酒香酵母、绿色木霉和枯草芽孢杆菌等比例混合发酵，在最优条件下产物中的真蛋白质含量显著高于未发酵的白酒糟，中性洗涤纤维、酸性洗涤纤维和粗纤维的含量降幅最大。本试验结果表明，利用白地霉、绿色木霉、米曲霉、枯草芽孢杆菌等比例混合固态发酵，最优条件下发酵白酒糟的常规营养水平优于发酵之前，真蛋白质含量提高 $5 7 . 8 5 \\%$ ，这一增幅相比较宋善丹等[18]、陈风风[19]钟世博等[21]的 $1 5 . 6 7 \\%$ 、 $2 7 . 4 4 \\%$ 、 $4 3 . 4 0 \\%$ 分别提高了 $2 6 9 . 1 8 \\%$ 、 $1 1 0 . 8 2 \\%$ 、 $3 3 . 2 9 \\%$ ，粗纤维含量降幅相比较王炫等[20]的结果提高$1 1 0 . 8 9 \\%$ ，但是粗脂肪含量降幅却低了 $6 5 . 2 0 \\%$ ，中性洗涤纤维和酸性洗涤纤维降解量相比较宋善丹等[18]的结果分别提高了 $1 2 . 3 0 \\%$ 和 $6 8 . 2 3 \\%$ ，但是相对于郭素环等[22]却低了 $2 2 . 5 0 \\%$ 和$1 5 . 5 6 \\%$ 。造成以上这些不同的原因可能是由于本试验所选的菌种之间代谢产物能产生最佳的互补作用，并且添加了磷酸二氢钾作为各种酶系的激活剂，使得发酵产生更多的蛋白酶、纤维素降解酶。同时微生物也可以利用尿素和菜籽粕的非蛋白氮转化为真蛋白质和各种小肽，进而提高了发酵产物的蛋白质含量。本试验结果表明，发酵后白酒糟粗灰分含量提高了4.42%，钙含量提高了 $1 6 . 6 7 \\%$ ，磷含量提高了 $6 8 . 1 8 \\%$ 。这可能是由于在发酵的过程中，微生物产生二氧化碳得到释放，造成有机物的损失，从而引起以上产物相对含量的提高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3最优发酵条件对白酒糟氨基酸组成的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "反刍动物的蛋白质营养主要是将其降解为氨基酸进行吸收，进入血液参与机体的代谢。尽管白酒糟的氨基酸含量非常丰富，但是他的氨基酸组成极其不平衡。白酒糟通过微生物的发酵，在充足的碳源、氮源和矿物质的条件下，合成了大量的氨基酸。本试验在最优条件下，发酵产物中除了半胱氨酸外其他氨基酸含量均有不同程度的增加，尤其是反刍动物的限制性氨基酸赖氨酸、蛋氨酸、组氨酸[23]，分别比发酵前提高了 $1 0 9 . 6 8 \\%$ 、 $3 8 . 0 9 \\%$ 、 $1 9 . 5 1 \\%$ 。Mullins等[24研究发现，当饲粮中赖氨酸与蛋氨酸的比例为3:1时，犊牛的生长性能最好并且达到最大的氮利用率。本试验结果得到，发酵前赖氨酸与蛋氨酸的比例为1.47:1.00，发酵后赖氨酸与蛋氨酸的比例为2.24:1.00，发酵后的比例与Mullins 等[24]的结果相近，说明发酵后的白酒糟对于反刍动物来说利用价值更高。Wang 等[25]研究结果表明，肉牛饲粮中赖氨酸和苏氨酸的适宜比例为1.00:0.65，与本试验的结果相近。胱氨酸是一种含硫氨基酸，参与到谷胱甘肽",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "和牛磺酸等活性物质的合成，对于动物的氧化、免疫等具有重要作用。本试验结果表明，胱氨酸的含量呈现一定幅度的下降，这可能与胱氨酸参与微生物代谢过程中生理活动有关，具体原因需要进一步研究。  \n通过联合国粮食与农业组织世界卫生组织(FAO/WHO)和鸡蛋蛋白质理想氨基酸模式评分（表7）发现，发酵后必需氨基酸占总氨基酸的比值为0.37，接近FAO/WHO提出的0.4。必需氨基酸与非必需氨基酸比值为0.59，也是接近FAO/WHO 提出的 $0 . 6 ^ { [ 2 6 ] }$ 。苏氨酸、赖氨酸和异亮氨酸含量是FAO/WHO理想氨基酸模式的 $4 7 . 2 5 \\%$ 、 $4 8 . 5 5 \\%$ 和 $5 2 . 2 5 \\%$ ，鸡蛋蛋白质被认为是最优质的蛋白质，只有鸡蛋蛋白质的 $2 8 . 6 4 \\%$ 、 $4 1 . 7 2 \\%$ 、 $4 0 . 9 8 \\%$ ，因此这3种氨基酸分别是发酵白酒糟的第一、第二和第三限制性氨基酸。然而发酵后的白酒糟苯丙氨酸 $^ +$ 酪氨酸的含量是FAO/WHO 理想氨基酸模式的 $1 0 4 . 8 3 \\%$ ，优于FAO/WHO 理想蛋白质，并且亮氨酸含量也接近理想氨基酸模式。与动物的营养需要相比较，亮氨酸和缬氨酸含量高于生长蛋鸡和瘦肉型猪 （ $2 { \\sim } 2 0 \\mathrm { k g }$ ）的营养需要量[27]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 7Comparison between AA composition of fermented distillers grains and ideal modes of AA ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a08d91315da86f4a3428d70c2c1175b3f0a3559329ea2ef9308473efe0425ff0.jpg",
+        "table_caption": [
+            "表7发酵白酒糟氨基酸组成与理想氨基酸模式的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>发酵白酒糟 Fermented distillers</td><td>理想氨基酸模式 Ideal mode of AA</td><td></td><td>氨基酸评分 AAS</td><td>化学评</td></tr><tr><td></td><td>grains</td><td>联合国粮食与农业组织</td><td></td><td></td><td>分CS</td></tr><tr><td></td><td></td><td>世界卫生组织</td><td>鸡蛋蛋白质 Egg protein</td><td></td><td></td></tr><tr><td></td><td></td><td>FAO/WHO</td><td></td><td></td><td></td></tr><tr><td>亮氨酸 Leu</td><td>6.40</td><td>7.0</td><td>8.8</td><td>91.43</td><td>72.73</td></tr><tr><td>异亮氨酸 Ile</td><td>2.09</td><td>4.0</td><td>5.1</td><td>52.25</td><td>40.98</td></tr><tr><td>赖氨酸Lys</td><td>2.67</td><td>5.5</td><td>6.4</td><td>48.55</td><td>41.71</td></tr><tr><td>蛋氨酸+胱氨酸 Met+Cys</td><td>2.47</td><td>3.5</td><td>5.5</td><td>70.57</td><td>44.91</td></tr><tr><td>苏氨酸Thr</td><td>1.89</td><td>4.0</td><td>6.6</td><td>47.25</td><td>28.63</td></tr><tr><td>苯丙氨酸+酪氨酸 Phe+Tyr</td><td>6.29</td><td>6.0</td><td>10.0</td><td>104.83</td><td>62.90</td></tr><tr><td>氨酸Val</td><td>3.94</td><td>5.0</td><td>7.3</td><td>78.80</td><td>53.97</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "发酵白酒糟的必需氨基酸理想氨基酸平衡模式高于猪，但是苏氨酸含量接近，相差只有$6 \\%$ ；发酵白酒糟的理想氨基酸平衡模式高于肉牛；然而毛发的理想氨基酸平衡模式高于发酵白酒糟；蛋鸡对于异亮氨酸、蛋氨酸 $^ +$ 胱氨酸和苏氨酸的需要量与发酵白酒糟的理想氨基酸平衡模式相近 (表8)。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ad5532db307024220b5fdf264f766034801e742b7ce9b639c2aaa45180839c6.jpg",
+        "table_caption": [
+            "Table 8Comparison of ideal AA balance pattern "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>发酵白酒糟 Fermented</td><td>生长猪</td><td>肉牛Beef</td><td>毛</td><td>蛋鸡</td></tr><tr><td></td><td>distillers grains</td><td>Growing pig</td><td>cattle</td><td>Hair</td><td>Laying hen</td></tr><tr><td>赖氨酸 Lys</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>亮氨酸Leu</td><td>239</td><td>100</td><td>74</td><td>313</td><td></td></tr><tr><td>异亮氨酸Ile</td><td>78</td><td>60</td><td>50</td><td>113</td><td>79</td></tr><tr><td>蛋氨酸+胱氨酸 Met+Cys</td><td>92</td><td>60</td><td>40</td><td>386</td><td>94</td></tr><tr><td>苏氨酸 Thr</td><td>71</td><td>65</td><td>47</td><td>216</td><td>73</td></tr><tr><td>苯丙氨酸+酪氨酸 Phe+Tyr</td><td>235</td><td>95</td><td>75</td><td>336</td><td></td></tr><tr><td>氨酸Val</td><td>147</td><td>68</td><td>50</td><td>170</td><td>102</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "224 4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 利用白地霉、米曲霉、绿色木霉和枯草芽孢杆菌混菌发酵白酒糟的最佳条件是：基  \n料组成 $80 \\%$ 白酒糟、 $10 \\%$ 麸皮、 $5 \\%$ 玉米粉、 $5 \\%$ 菜籽粕，尿素 $1 . 5 \\%$ ，磷酸二氢钾 $0 . 7 \\%$ ，pH5,  \n水分 $5 0 \\%$ 。$\\textcircled{2}$ 最优条件下发酵的白酒糟真蛋白质、粗纤维和总氨基酸含量分别为 $2 4 . 3 4 \\%$ 、 $2 0 . 0 6 \\%$   \n和 $1 6 . 5 8 \\%$ 。  \n参考文献：  \n[1]中国工业年鉴编委会.2013 中国工业年鉴[M].北京:北京理工大出版社,2014.  \n[2] 汪善锋,陈安国.白酒糟资源的开发利用途径[J].饲料工业,2003,24(5):43-46.  \n[3]徐姗楠,邱宏端.微生物发酵生产蛋白饲料的研究进展[J].福州大学学报:自然科学版,2002,30(增刊):709-713.  \n[4] 胡艳丽,王克然.饲料中真蛋白的测定[J].河南畜牧兽医,2007,28(10):31-32.  \n[5] VAN SOEST P J,ROBERTSON JB,LEWIS B A.Methods for dietary fiber,neutral detergentfiber,and nonstarch polysaccharides in relation to animal nutrition[J].Journal of DairyScience,1991,74(10):3583-3597.  \n[6] HARRIS W D,POPAT P.Determination of the phosphorus content of lipids[J].Journal of theAmerican Oil Chemists’ Society,1954,31(4):124-127.  \n[7] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.  \n[8] 郭志,明红梅,沈才萍,等.白酒丢糟饲料化的发酵培养基优化研究[J].粮食与饲料工业,2013(11):35-38.  \n[9] 焦肖飞,刘建学,韩四海,等.复合菌生物转化白酒糟发酵条件的优化[J].食品科学,2015,36(17):164-168.  \n[10] 张博润,刘玉方,何秀萍,等.发酵白酒糟生产饲料蛋白的培养条件及产物分析[J].微生物学报,1997,37(4):281-285.  \n[11]刘达玉,黄丹,夏兵兵,等.组合菌种发酵制备酒糟饲料的研究[J].四川理工学院学报:自然科学版,2008,21(6):68-70,73.  \n[12]侯文华,李政一,杨力,等.利用酒糟生产饲料蛋白的菌种选育[J].环境科学,1999,20(1):77-79.  \n[13]孙东伟,刘军,牛广杰.多菌种固态发酵酒糟生产菌体饲料蛋白的研究[J].中国饲料,2010(7):38-39,43.  \n[14] 董文豪,史慧玲,郝晓鸣,等.枯草芽胞杆菌发酵对玉米干酒糟氨基酸组成的影响及发酵条件研究[J].饲料工业,2015,36(9):17-21.  \n[15]易弋,黎娅,李伟华,等.利用白酒糟生产蛋白饲料的研究[J].饲料研究,2009(12):27-29.  \n[16] 李日强,张峰,韩文辉,等.不同菌株固态发酵废白酒糟生产饲料蛋白的研究[J].重庆环境科学,2003,25(11):63-64,86.  \n[17] 陆娟,李炎,木魁.白酒糟固态发酵生产蛋白饲料条件的优化[J].阜阳师范学院学报:自然科学版,2014,31(1):46-48,58.  \n[18] 宋善丹,陈光吉,饶开晴,等.白酒糟固态发酵条件的筛选及营养价值评定[J].中国畜牧杂志,2015,51(15):66-70.  \n[19]陈风风.混菌固态发酵酒糟发酵条件的研究[J].农业技术与装备,2013(23):65-67.  \n[20] 王炫,汪江波,薛栋升.混菌固态发酵小曲白酒糟生产蛋白饲料的研究[J].湖北工业大学学报,2014,29(1):111-115.  \n[21] 钟世博,赵建国,朱中原.混种固态发酵大曲酒糟生产蛋白饲料研究[J].粮食与饲料工业,2000(11):23-25.  \n[22] 郭素环,周碧君,文明,等.白酒糟发酵菌种组合的筛选[J].饲料工业,2012,33(15):17-21.  \n[23]黄健,杨福合,李光玉,等.反刍动物氨基酸营养研究进展[J].中国畜牧兽医,2014,41(5):116-120.  \n[24] MULLINS C R,MAMEDOVA L K,CARPENTER A J,et al.Analysis of rumen microbial",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "populations in lactating dairy catle fed diets varying in carbohydrate profiles and Saccharomyces cerevisiae fermentation product[J].Journal of Dairy Science,2013,96(9):5872-5881. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[25] WANG J H,DIAO Q Y,TU Y,et al.The limiting sequence and proper ratio of lysine,methionineand threonine for calvesfed milk replacerscontainingsoy protein[J].Asian-Australasian Journal of Animal Sciences,2012,25(2):224-233. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[26] FAO.FAO:nutritional studies:amino-acid content of foods and biological data on proteins[J].Fao Nutritional Studies,1970,26(24):1-285. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[27]彭国华.家畜饲养学[M].南宁:广西科学技术出版社,1992.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Distillers Grains: Optimization of Mixed Bacterial Solid-State Fermentation Conditions to Produce Protein Feed and Nutrient Value Analysis ZHANG YuchengXUE Bai\\*Dalecuo LIQiujin HE Yu (Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130, China)   \nAbstrsct: This experiment was conducted to optimize mixed bacterial (Geotrichum candidum,   \nAspergillus oryzae,Trichoderma viride and Bacillus subtils) solid-state fermentation conditions to   \nproduce protein feed, and analyzed the nutrient value. Geotrichum candidum, Aspergillus oryzae,   \nTrichoderma viride and Bacillus subtils (1:1:1:1) was added to culture medium at $10 \\%$ .L16 $( 5 ^ { 4 } )$ （20   \northogonal testing design was used, and 5 fermentation conditions with 4 variables were set (16   \ngroups of fermentation conditions in al). The conditions were base materials,urea,potassium   \ndi-hydrogen phosphate, pH and moisture. The mixtures prepared according to the conditions were   \ncultured under( $3 0 { \\pm } 2$ ） $\\mathrm { { ^ \\circ C } }$ for 72 h. Range analyses for true protein and crude fiber contents   \nbefore and after fermentation were carried out to determine the optimal conditions,and   \ncomparisons of nutrient levels and amino acid composition of distillers grains between before and   \nafter fermentation under optimal condition were done.The results showed as follows:1） the   \noptimal combination was that base materials of $80 \\%$ distillers grains, $10 \\%$ wheat bran, $5 \\%$ corn   \nflour and $5 \\%$ rapeseed meal supplemented with $1 . 5 \\%$ adding urea and $0 . 7 \\%$ potassium ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "di-hydrogen phosphate with $\\mathrm { p H } 5$ and $50 \\%$ moisture.2) True protein content of distillers grains after fermentation improved by $5 7 . 8 5 \\%$ compared with that before fermentation $( P { < } 0 . 0 1 )$ ；the contents of crude fiber,acid detergent fiber, neutral detergent fiber and ether extract were reduced by $4 2 . 3 9 \\%$ ， $3 1 . 9 5 \\%$ ， $2 7 . 7 3 \\%$ and $2 1 . 4 8 \\%$ 1 $( P { < } 0 . 0 1 )$ , respectively; and the contents of calcium and phosphorus were increased by $1 6 . 6 7 \\%$ and $6 8 . 1 8 \\%$ ? $( P { < } 0 . 0 1 )$ ，respectively； total amino acids content was increased by $2 4 . 4 7 \\%$ ，and the contents of lysine,methionine,threonine,valine, leucine, isoleucine and proline were increased by $1 0 9 . 6 8 \\%$ ， $3 8 . 0 9 \\%$ ， $3 9 . 3 9 \\%$ ， $7 1 . 4 3 \\%$ ， $2 8 . 9 3 \\%$ $1 0 . 8 7 \\%$ and $3 . 7 0 \\%$ ，respectively. In conclusion,the optimal conditions for of distillers grains solid-state fermentation using Geotrichum candidum, Aspergillus oryzae,Trichoderma viride and Bacillus subtils were as follows: base materials of $80 \\%$ distillers grains, $10 \\%$ wheat bran, $5 \\%$ corn flour and $5 \\%$ rapeseed meal supplemented with $1 . 5 \\%$ urea and $0 . 7 \\%$ potassium di-hydrogen phosphate with $\\mathrm { p H } 5$ and $50 \\%$ moisture. True protein content of fermented distillers grains was 24.34. Key words: distillers grains; mixed bacteria; solid-state fermentation; nutrient value; optimum ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

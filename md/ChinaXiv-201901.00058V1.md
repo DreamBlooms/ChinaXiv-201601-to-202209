@@ -1,0 +1,252 @@
+# 结合项目流行度加权的协同过滤推荐算法
+
+魏甜甜，陈莉，范婷婷，吴小华(西北大学 信息科学与技术学院，西安 710127)
+
+摘要：针对传统协同过滤算法中存在的流行度偏差问题，提出一种结合项目流行度加权的协同过滤推荐算法。在项目协同过滤算法的基础上，分析项目流行度和流行度差异对相似度的影响；设置流行度阈值，对大于该阈值的流行项目设计惩罚权重，降低其对项目间相似度的贡献。通过在MovieLens1M和Epinion 数据集上进行实验验证和对比，结果表明，所提算法的预测准确度和覆盖率均优于传统算法，有效提高了推荐的多样性和新颖性，一定程度上缓解了流行度偏差问题。
+
+关键词：协同过滤；相似性度量；流行度偏差；项目流行度 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.08.0618
+
+Collaborative filtering recommendation algorithm based on item popularity weighting
+
+Wei Tiantian, Chen $\mathrm { L i ^ { \dagger } }$ , Fan Tingting,Wu Xiaohua (School of Information Science&Technology,Northwest University,Xi'an 71Ol27,China)
+
+Abstract:Aiming at the popularity bias problem in traditional colaborative filtering algorithms,this paper proposes a collaborative fltering recommendationalgorithm combined with item popularity weighting.Onthe basisof the item collaborative filtering algorithm,itanalyzesthe influenceof itempopularityandpopularitydiference between itemson similarity.Thealgorithm,byanalyzingtheinfluenceofitem popularityandpopularitydifferenceonitemsimilarityuses the item popularityand popularitydiference designed thepenalty weight functions toadjustthe similaritybetween popularity items when theitempopularityis greater thanthe threshold.The experiments onthe MovieLens1Mand Epinion datasets show tha the proposed algorithm has beter prediction acuracyandcoverage than traditional algorithms,which ffectively improves the diversity and novelty of recommendations,and alleviates the popularity bias problem.
+
+Key words:collaborative filtering; similarity measure; popularity bias; item popularity
+
+# 0 引言
+
+互联网技术的迅猛发展将人们带进了数据爆炸的时代，海量数据的同时呈现，加剧了信息过载问题[1]。推荐系统作为缓解信息过载的有效手段之一，已经广泛地被应用到电子商务(Amazon、京东)、电影和视频(Youtubo、MovieLens)等领域并取得较大进展。
+
+协同过滤(collaborative filtering，CF)[2]是目前应用最广泛、最成功的推荐算法，它的基本假设是：如果用户对一些项目的评分比较相似，则他们具有相似的偏好，因此他们对其他项目的评分也相似。CF主要分为基于用户的协同过滤算法(user based collaborative filtering,UBCF)和基于项目的协同过滤算法(item based collaborative filtering,IBCF)。UBCF 通过计算用户间的相似度得到“邻居”用户集合，帮助目标用户找到可能会感兴趣的项目；而IBCF则通过计算项目间的相似度得到“邻居”项目集合，根据目标用户的历史偏好记录，为其推荐相似的项目。
+
+为了找到“邻居”集合，一般要度量用户或项目间的相似度，不同的相似性度量函数，产生不同的“邻居”集合，最终影响推荐结果。因此利用合适的相似性度量函数产生偏好相似的“邻居”是整个协同过滤推荐算法的关键[3]。在实际的系统中存在数据稀疏性问题[4]，传统的相似性度量方法[5,6]加剧了数据的稀疏性，导致部分相似度计算欠准确。针对该问题， $\Delta \mathrm { h n } ^ { [ 7 ] }$ 提出一种新的用户相似性度量方式PIP(proximity-impact-popularity)，利用三种因子共同计算用户间的相似度，推荐质量优于传统的相似性度量方法。Ekstrand 等人[8]在RecSys 年会上公布了开源工具LensKit，提出了一种均值标准化的余弦相似度计算方法。在计算两个项目的相似度时，考虑到只对其中一个项目有评分的数据惩罚项目间的相关性，缓解了相似度计算欠准确的问题。上述两种方法[7.8通过改进相似度计算公式缓解数据稀疏性问题，以达到提高推荐准确度的目的，但是并没有考虑到流行度偏差现象[9\~11]，导致推荐结果的覆盖率较低。针对该问题，Zhao等人[12]利用项目流行度阈值设计权重函数，降低流行项目对用户相似度的影响。实验结果表明，该方法一定程度上缓解了UBCF存在的流行度偏差现象，且推荐准确度优于传统的UBCF。Chen等人[13]通过分析流行度对推荐结果的影响，提出利用可调节的项目流行度改进基于用户偏好的方法，实验结果证明适度地项目流行度调节可以提高推荐的准确性和多样性。但是随着用户和项目的不断加入，改进的UBCF可能会面临可扩展性问题。王锦坤等人[14]在IBCF的基础上，提出一种考虑用户活跃度和项目流行度的协同过滤算法，根据流行度差异阈值对项目相似度设计惩罚权重，一定程度上缓解了可扩展性问题，提高了数据稀疏环境下流行度较低的项目被推荐的概率。但是该方法仅仅对部分项目设计惩罚函数，忽略了同时对两个项目有评分的数据，相似度计算欠准确。
+
+结合项目流行度改进的IBCF对于缓解流行度偏差现象取得了一定的效果，但是在计算项目间的相似度时，忽略了两个项目由于流行度不同，对相似度会产生不同的影响。流行度高的项目被用户同时选择和评价的可能性较大，导致流行项目间的相似度普遍偏高。针对该问题，本文设置流行度阈值，对大于该流行度阈值的项目，利用项目流行度和流行度差异分别设计权重函数，并将其引入到项目相似度计算过程中，实现了项目流行度加权的相似性度量方法popularityweighting-IBCF(PW-IBCF)。本文在MovieLens1M和Epinion数据集上进行实验仿真，实验结果表明，本文算法能够有效改善流行度偏差问题，提高推荐的多样性和新颖性。
+
+# 1 相关工作
+
+# 1.1基于项目的协同过滤算法
+
+基于项目的协同过滤基本思想是计算项目间的相似度，选取目标项目的“邻居”项目集合，将类似的物品推荐给目标用户。假设 $U = \{ u _ { 1 } , u _ { 2 } , . . . , u _ { m } \}$ 表示 $\mathrm { ~ m ~ }$ 个用户集合， $I = \{ i _ { 1 } , i _ { 2 } , . . . , i _ { n } \}$ 表示 $\mathfrak { n }$ 个项目集合，用户对项目的评分信息使用 $\mathrm { m } { \times } \mathrm { n }$ 阶的用户-项目评分矩阵R表示， $\boldsymbol { R } = \left[ r _ { u i } \right] ^ { m \times n }$ 。表1给出了用户项目评分矩阵的例子。其中， $r _ { u i }$ 表示用户 $\mathbf { u }$ 对项目i的评分； $r _ { u i } = 0$ 代表该用户对该项目未产生评分。
+
+表1用户一项目评分矩阵
+
+Table 1Example of user-item rating matrix   
+
+<html><body><table><tr><td>ru</td><td>i</td><td>i</td><td>i</td><td>i</td></tr><tr><td>u1</td><td>2</td><td>3</td><td>0</td><td>0</td></tr><tr><td>u2</td><td>1</td><td>0</td><td>0</td><td>5</td></tr><tr><td>u3</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>u4</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>
+
+得到用户项目评分矩阵后，基于项目的协同过滤算法如下：
+
+a)计算目标项目i与系统中其他项目 $j \in I$ 的相似度$s i m ( i , j )$ 。利用项目相似度计算公式计算项目间的相似度，得到项目相似度矩阵 $M _ { i t e m } \left( i , j \right)$ □
+
+b)确定目标项目的近邻集合 $N _ { i }$ 。根据 $M _ { i t e m } \left( i , j \right)$ 为目标项目i选取相似度最大的K个项目作为近邻项目集合 $N _ { i }$ 。
+
+c)产生评分预测。根据目标项目i与近邻项目 $j \in N _ { i }$ 的相似度 $s i m ( i , j )$ 和评分值 $r _ { u j }$ 计算评分预测值 $P _ { u i }$ ，预测方法如式(1)所示。
+
+$$
+\mathrm { P } _ { u i } = \frac { \displaystyle \sum _ { j \in N _ { i } } s i m ( i , j ) r _ { u j } } { \displaystyle \sum _ { j \in N _ { i } } s i m ( i , j ) }
+$$
+
+# 1.2传统的相似性度量方法
+
+传统的项目相似度计算公式[5主要有三种，包括余弦相似度、修正的余弦相似度和皮尔森相关系数。
+
+余弦相似度：项目评分被看成是 $\mathrm { ~ m ~ }$ 维用户空间上的向量，项目间的相似性通过向量间的余弦夹角度量。设项目i的和j的评分向量为 $\vec { r _ { i } }$ 和 $\overrightarrow { r _ { j } }$ ，余弦相似度计算方法如式(2)所示。
+
+$$
+s i m ( i , j ) ^ { c o s } = \frac { \underset { r _ { i } } {  } \cdot \underset { r _ { j } } {  } } { \| \underset { r _ { i } } {  } \| \times \| \underset { r _ { j } } {  } \| }
+$$
+
+修正的余弦相似度：余弦相似度没有考虑不同用户的评分尺度问题，修正的余弦相似度通过减去不同用户的评分均值来改善上述问题。假设对项目i和j同时评分过的用户集合为 $U _ { i } \cap U _ { j }$ ， $\_$ 表示用户 $\mathrm { ~  ~ u ~ }$ 的评分均值，修正的余弦相似度计算方法如式(3)所示。
+
+皮尔森相关系数：反映两个变量线性相关程度，也被广泛用于协同过滤相似性的度量。假设 $\overline { { r _ { i } } }$ 和 $\overline { { r _ { j } } }$ 分别表示项目i和j的评分均值，皮尔森相关系数计算方法如式(4)所示。
+
+$$
+s i m ( i , j ) ^ { A C O S } = \frac { \displaystyle { \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { u } } } \right) \left( r _ { u j } - \overline { { r _ { u } } } \right) } } { \displaystyle { \sqrt { \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { u } } } \right) ^ { 2 } } } \sqrt { \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { u } } } \right) ^ { 2 } } }
+$$
+
+$$
+s i m { ( i , j ) } ^ { P C C } = \frac { \displaystyle \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { i } } } \right) \left( r _ { u j } - \overline { { r _ { j } } } \right) } { \displaystyle \sqrt { \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { i } } } \right) ^ { 2 } } \sqrt { \sum _ { u \in U _ { i } \cap U _ { j } } \left( r _ { \mathrm { u i } } - \overline { { r _ { j } } } \right) ^ { 2 } } }
+$$
+
+# 1.3流行度偏差现象
+
+流行度偏差[2]是传统协同过滤算法中普遍存在的一种现象，流行度越高的项目被推荐得越频繁，而流行度较低的项目则不容易得到推荐。统计MovieLens1M用户评分数据集的项目流行度，其中流行度较低(小于项目流行度均值)的项目约占 $70 \%$ ，流行度较高的项目约占 $30 \%$ ，流行度较低的项目明显比流度高的项目多。然而传统的协同过滤算法产生的推荐列表中流行项目较多，导致多样性和新颖性较低。因此，在推荐系统中需要减少流行项目被推荐的机会以缓解流行度偏差现象。
+
+# 2 结合项目流行度加权的协同过滤推荐算法
+
+传统的项目协同过滤算法在计算相似度时忽略了项目流行度的影响，导致流行度低的项目不容易得到推荐。为了有效地缓解流行度偏差现象，需要对流行度较高的设计相似度惩罚函数。通过分析项目流行度和流行度差异对项目相似度的影响，对流行度较高的利用项目流行度与项目流行度差异对相似度设计惩罚权重，降低流行项目间的相似度以缓解传统相似性度量方法存在的不足，使得项目间的相似度比较准确。
+
+# 2.1 项目流行度
+
+项目流行度一般是指该项目被用户评分的用户数[13]，某个项目被评价的次数越多，该项目的流行度越高。流行度高的项目可能由于其知名度或者性价比高被大多数用户评价，如果存在共同评分项目，并不代表该流行项目与其他项目相似。对于每一个项目i，统计对其评分的用户数 $N u m U _ { i }$ 。项目i的流行度 $P o p I t e m _ { i } = N u m U _ { i }$ ，对其进行归一化，使项目流行度的取值范围保持在[0.1]之间。归一化公式如式（5）所示.
+
+$$
+N o r m P o p I t e m _ { i } = \frac { P o p I t e m _ { i } - M i n P o p } { M a x P o p - M i n P o p }
+$$
+
+其中：NormPopltem 是归一化后项目i的流行度；PopItemi 是项目i的流行度；MinPop、MaxPop分别是项目流行度的最小值和最大值。
+
+表1中展示的评分矩阵包括四个项目，分别统计其项目流行度。PopItem、Popltem、Popltem、Popltem4 分别是2、1、0、2。按照式(5)对其进行归一化，则归一化后的项目流行度分别为1、0.5、0、1。
+
+# 2.2流行度差异
+
+流行度差异越小的项目一起出现的可能性越大，本文将项目间的流行度差异定义为归一化后项目流行度之差的绝对值。当项目间的流行度差异越小，这两个项目由于流行度相近而同时出现的可能性越大，同时被评价的可能性也越大；反之，如果项目间的流行度差异越大，则同时被评价的可能性越小。NormPopltemi表示归一化后项目i的流行度，NormPopItemj表示归一化后项目j的流行度，则项目i和j的流行度差异定义如式（6）所示。
+
+$$
+P o p B i a s _ { i , j } = \left| N o r m P o p I t e m _ { i } - N o r m P o p I t e m _ { j } \right|
+$$
+
+按照式(6)计算表1中的项目流行度差异，构建项目流行度差异矩阵如表2所示。由表2可知，PopBias1,2 $\prec$ PopBias1,3,因此项目1和2一起出现的可能性大于项目1和3一起出现的可能性。
+
+Table 2Matrix of item popularity difference   
+
+<html><body><table><tr><td>PopBiasi.,i</td><td>i</td><td>i</td><td>i</td><td>i4</td></tr><tr><td>i</td><td>0</td><td>0.5</td><td>1</td><td>0</td></tr><tr><td></td><td>0.5</td><td>0</td><td>0.5</td><td>0.5</td></tr><tr><td>i</td><td>1</td><td>0.5</td><td>0</td><td>1</td></tr><tr><td>i4</td><td>0</td><td>0.5</td><td>1</td><td>0</td></tr></table></body></html>
+
+# 2.3项目流行度和流行度差异对相似度的影响
+
+传统的项目相似度计算方法忽略了项目流行度的影响，事实上流行度高的项目更容易被用户选择和评价，导致大多数流行项目间的相似度偏高。在计算两个项目的相似度时，使用项目流行度阈值将项目分为两个部分，当流行度大于该阈值，则对其相关度进行惩罚。流行度越高的项目，对相似度的贡献越小；反之则对相似度贡献越大，因此项目流行度与惩罚权重正相关。除了项目流行度外，项目间的流行度差异对其相似度也有影响。两个项目间的流行度差异越小，被同时评价的可能性越大，相似度惩罚权重也就越大，流行度差异与惩罚权重负相关。
+
+结合以上分析，根据两个项目的流行度不同本文在相似度计算公式中分别引入惩罚权重式(7)和(8)。
+
+$$
+w _ { i } = \left\{ \begin{array} { c c } { 1 } & { N o r m P o p I t e m _ { i } < \alpha } \\ { N o r m P o p I t e m _ { i } } & { N o r m P o p I t e m _ { i } \ge \alpha } \end{array} \right.
+$$
+
+$$
+w _ { j } = \left\{ \begin{array} { c c } { 1 } & { N o r m P o p I t e m _ { j } < \alpha } \\ { N o r m P o p I t e m _ { j } } & { N o r m P o p I t e m _ { j } \ge \alpha } \\ { P o p B i a s _ { i , j } } & { N o r m P o p I t e m _ { j } \ge \alpha } \end{array} \right.
+$$
+
+其中： $w _ { i }$ 和 $\boldsymbol { w } _ { j }$ 分别是项目i和j的惩罚函数，反映了流行度不同的两个项目在计算其相似度时体现的不同权重。其中 $\alpha$ 是设定的流行度阈值，如果项目i或j的流行度小于该阈值，则认为该项目的流行度较低，惩罚权重设置为1；若是大于该阈值，则认为该项目流行度较高。惩罚权重设置为该项目的流行度与流行度差异的比值，项目的流行度越高，项目间流行度差异越小，则惩罚权重越大。将设计的权重函数引入到相似度计算公式中，改进后的项目相似度计算公式为
+
+$$
+s i m ( i , j ) = \frac { \displaystyle \sum _ { u \in U _ { i } \cap U _ { j } } \left( \left( r _ { u i } - \overline { { r _ { i } } } \right) w _ { i } \right) \left( \left( r _ { u j } - \overline { { r _ { j } } } \right) w _ { j } \right) } { \sqrt { \displaystyle \sum _ { u \in U _ { i } } \left( \left( r _ { u i } - \overline { { r _ { i } } } \right) w _ { i } \right) ^ { 2 } } \sqrt { \displaystyle \sum _ { u \in U _ { j } } \left( \left( r _ { u j } - \overline { { r _ { j } } } \right) w _ { j } \right) ^ { 2 } } }
+$$
+
+其中： $u \in U _ { i } \cap U _ { j }$ 表示两个项目均有评分的用户集合， $u \in U _ { i }$ 表示对项目i评分的用户集合， $u \in \boldsymbol { U } _ { j }$ 表示对项目 $\mathrm { j }$ 评分的用户集合。
+
+# 2.4算法描述
+
+基于以上分析，提出了利用项目流行度对相似度进行惩罚的协同过滤算法。首先根据用户项目评分矩阵R计算项目流行度以及项目流行度差异，设置项目流行度阈值 $\alpha$ 分别计算两个项目的惩罚权重，在计算相似度时，利用惩罚权重调节不同流行度的项目对相似度的贡献。算法的具体描述如下：
+
+算法：结合项目流行度加权的协同过滤推荐算法输入：用户项目评分矩阵R、目标用户 $\mathbf { u }$ 、目标项目i。输出：目标用户 $\mathbf { u }$ 对目标项目i的预测评分 $P _ { u i }$ 。
+
+a)计算项目i的流行度PopItem，根据式(5)对其归一化;  
+b)根据定义6计算项目流行度差异 $P o p B i a s _ { i , j }$ ；
+
+c)设置流行度阈值 $\alpha$ ：
+
+d)利用式(7)和(8)计算项目的惩罚权重 $w _ { i }$ 和 $w _ { j }$ ·
+
+e)根据式(9)计算项目间的相似度 $s i m ( i , j )$ ，构建项目相似度矩阵 $M _ { i t e m } \left( i , j \right)$ ：
+
+f)根据 $M _ { i t e m } \left( i , j \right)$ 为项目 $i \in I$ ，找到相似度最大的K个项目集合作为项目的最近邻 ${ N } _ { i }$ ：
+
+g)利用式(1)计算目标用户 $\mathrm { ~  ~ u ~ }$ 对目标项目i的评分预测值Pui。
+
+# 3 实验结果及分析
+
+本章首先介绍实验所用到的数据集；然后说明评价标准以及对比算法和参数设置；最后给出本文提出的算法与其他算法的对比实验结果，并对实验结果进行分析。
+
+# 3.1实验数据集描述
+
+本文实验使用两个数据集，分别是明尼苏达大学GroupLens研究组收集的ML-1M电影数据集[15]和Epinion数据集。在ML-1M数据集中，每个用户至少对20部电影评分，而在Epinion数据集中每个项目至少被评分1次。使用5折交叉验证对数据集进行划分，从中抽取 $8 0 \%$ 作为训练集构建模型， $20 \%$ 作为测试集验证算法的效果。
+
+表2项目流行度差异矩阵  
+表3实验数据集描述  
+Table 3Description of datasets used in experiments   
+
+<html><body><table><tr><td>数据集名称</td><td>用户数(m)</td><td>项目数(n)</td><td>评分数 (r)</td><td>稀疏度(s)</td></tr><tr><td>ML-1M</td><td>6040</td><td>3952</td><td>1000209</td><td>95.81%</td></tr><tr><td>Epinion</td><td>1071</td><td>6131</td><td>71833</td><td>98.91%</td></tr></table></body></html>
+
+实验数据集描述如表3所示。其中稀疏度表示数据集中未评分项目的占比。稀疏度s越大，表示该数据集越稀疏，计算方法如式(10)所示。
+
+$$
+s = 1 - \frac { r \times 1 0 0 \% } { m \times n }
+$$
+
+# 3.2度量标准
+
+平均绝对误差(meanabsoluteerror，MAE)是推荐系统中常用的推荐质量度量方法，通过预测评分与实际评分的差异计算预测的准确性。MAE的定义如下：
+
+$$
+\ M A E = { \frac { \displaystyle \sum _ { u , i \in T } \left| r _ { u i } - \mathbf { P } _ { u i } \right| } { \displaystyle \left| T \right| } }
+$$
+
+其中：T是测试集； $r _ { u i }$ 是用户 $\mathbf { u }$ 对项目i的真实评分值； $P _ { u i }$ 是用户 $\mathbf { u }$ 对项目i的预测评分值。MAE值越小，表示预测准确度越高。
+
+覆盖率(coverage)衡量推荐系统中推荐的物品占总物品集合的比例，能有效反映推荐的多样性和新颖性[16]。覆盖率的计算公式为
+
+$$
+{ \mathrm { c o v e r a g e } } = { \frac { \displaystyle \bigcup _ { u \in \operatorname { U } } R ( u ) { \Biggl | } } { \displaystyle | I | } }
+$$
+
+其中：U为进行推荐的用户集合；I为系统中的项目集合； $\boldsymbol { R } ( \boldsymbol { u } )$ 是为用户 $\mathbf { u }$ 推荐的项目列表。覆盖率较高时，多样性和新颖性也相对较高。
+
+# 3.3对比算法及参数设置
+
+为了证明本文算法(PW-IBCF)的有效性，将本文算法与现有的结合项目流行度的推荐算法进行对比实验。对比算法包括基于均值标准化的余弦相似度的项目最近邻方法(NCOS-IBCF)[8]、结合流行度权重的用户协同过滤推荐算法(W-UBCF)[12]、结合项目流行度控制的增强协同过滤算法(ECF)[13]和考虑用户活跃度和项目流行度的基于项目最近邻的协同过滤算法(UA-IBCF)[14]，所有的算法均采取同样的评分预测方法。
+
+本文实验环境为Windows1064位操作系统，8GB内存，Intel(R) Core(TM) i5 $- 4 6 7 0 \mathrm { C P U } \ @ \ 3 . 4 0 \mathrm { G H z } \ 3 . 4 0 \mathrm { G H z }$ ，实验代码在MATLABR2016a上运行。数据集的稀疏度不同，其项目的流行度分布也不同。如果数据集的稀疏度s较高，其项目流行度则普遍偏低。通过分析实验数据集的项目流行度，本文算法将ML-1M数据集的流行度阈值 $\alpha$ 设置为[0.2,0.6]，步长为0.1；Epinion数据集的流行度阈值 $\alpha$ 设置为[0.1,0.3]，步长为0.05；邻居数量取值为[10,100]，步长为10；推荐列表长度 $_ { \mathrm { L = 1 0 } }$ 。
+
+# 3.4实验结果及分析
+
+# 3.4.1ML-1M数据集
+
+为了验证不同的流行度阈值 $\alpha$ 对实验结果的影响，通过比较不同邻居数量下的MAE值做了多组实验。在ML-1M数据集中，随着邻居数量的变化不同的流行度阈值对MAE值的影响如图1所示。随着流行度阈值 $\alpha$ 的变化，本文算法的MAE值保持在[0.76.0.766]间。当流行度阈值 $\alpha$ 取0.4时，MAE值较低且稳定性较好。即当项目流行度大于0.4时，对其项目间的相似度进行惩罚，有利于提高评分预测准确度，该数据集的后续实验参数依此设置。
+
+![](images/1f0823491bebbd50e4eacfd72c23fbb86e9e48bffc3f469a8feb0e6eee2efcd4.jpg)  
+图1参数 $\alpha$ 对MAE 值的影响(ML-1M数据集)
+
+在ML-1M数据集中，对比算法的预测准确度MAE的对比结果如图2所示。由图2可知，NOCS-IBCF方法的预测准确度较低，可能是因为在惩罚项目间的相似度时并未考虑项目的流行度。W-UBCF、ECF和UA-IBCF方法考虑到项目流行度对相似度的影响，一定程度上提高了预测准确度。在邻居数量为50时，本文算法的MAE达到最低，约为0.76，优于其他对比算法，具有更高的预测准确度。
+
+覆盖率的对比实验结果如图3所示。基于NCOS-IBCF的算法随着邻居数量的增加，覆盖率逐渐降低，说明邻居数量的增加会导致推荐越来越趋向于热门，导致覆盖率下降。而W-UBCF、ECF、UA-IBCF以及本文算法PW-IBCF随着邻居数量的增加，覆盖率逐渐升高，表明推荐结果的多样性和新颖性也逐渐增加。即考虑项目流行度的推荐算法可以降低热门项目的推荐频率，增加冷门项目的推荐。在邻居数量超过30时，本文算法的覆盖率达 $30 \%$ ，高于其他对比算法，且处于上升趋势，表现出更好的推荐性能。
+
+![](images/55d0dfbc6c7706de03ac9d63bf76e583bd484c77a4cbb798356b61ad9f552606.jpg)  
+图2预测准确度对比结果(ML-1M数据集)
+
+![](images/9dc037fb07c7fd5abe8ef51335919333c52fc83f1e883241f421d0ffdcb0fb80.jpg)  
+Fig.2Accuracy with different neighbors (ML-1M)   
+图3覆盖率对比结果(ML-1M数据集) Fig.3Coverage with different neighbors (ML-1M)
+
+# 3.4.2Epinion数据集
+
+在Epinion数据集中，不同的流行度阈值对MAE值的影响如图4所示。随着流行度阈值 $\alpha$ 的变化，本文算法的MAE值保持在[0.79.0.8]间。当流行度阈值 $\alpha$ 取0.15时，MAE值较低且稳定性较好。当项目流行度大于0.15时，对其项目间的相似度进行惩罚，有利于提高预测准确度，该数据集的后续实验参数 $\alpha$ 依此设置。
+
+![](images/c5b0a9a882869840b6cdb838208649f6880a3547f9763a40515ead61ab7eab33.jpg)  
+Fig.1Effect of parameter $\mathfrak { a }$ on MAE (ML-1M)   
+图4参数 $\alpha$ 对 MAE 值的影响(Epinion 数据集)Fig.4Effect of parameter $\mathfrak { a }$ on MAE (Epinion)
+
+在Epinion数据集中，对比算法的预测准确度MAE的对比结果如图5所示。随着邻居数量的变化，对比算法的MAE值逐渐降低并趋于平缓。在邻居数量为50时，本文算法的MAE值达到最低，约为0.79，优于对比算法。因此，本文算法具有更高的预测准确度。
+
+覆盖率的对比实验结果如图6所示。基于NCOS-IBCF的算法随着邻居数量的增加，覆盖率呈下降趋势。W-UBCF、ECF、UA-IBCF以及本文算法PW-IBCF随着邻居数量的增加，覆盖率逐渐升高。在邻居数量超过50时，本文算法的覆盖率接近 $2 5 \%$ ，而其他对比算法约为 $20 \%$ ，本文算法的覆盖率明显高于其他对比算法，推荐的多样性和新颖性表现更好。
+
+![](images/3e1da97ebeea1b1749093afe8f8a0e7f6d9844636cc052483dc9742caf601b7d.jpg)  
+图5预测准确度对比结果(Epinion 数据集)
+
+![](images/a91e02891ad4e2eaddebcb9cf8b9c228808b674dd48ac06d54595265005494a3.jpg)  
+Fig.5Accuracy with different neighbors(Epinion)   
+图6覆盖率对比结果(Epinion 数据集) Fig.6Coverage with different neighbors (Epinion)
+
+# 4 结束语
+
+本文改进了利用项目流行度计算项目相似度的度量策略，提出了一种结合项目流行度加权的协同过滤推荐算法。在传统的项目协同过滤算法的基础上，对流行度较高的项目设计相似度惩罚函数，提高相似度计算的准确性，并缓解流行度偏差问题。实验结果表明，当项目流行度超过一定阈值时，对大于该阈值的项目相似度进行相关性惩罚，一定程度上可以提高预测准确度以及推荐多样性。考虑到用户对流行项目的偏好程度对相似度也有影响，将用户对流行项目的偏好程度融入相似度计算，以获得更好的推荐性能是后续工作的主要方向。
+
+# 参考文献：
+
+[1]Bobadilla J,Ortega F,Hernando A.Recommender systems survey [J]. Knowledge-Based Systems,2013,46 (1):109-132.   
+[2]Ekstrand M D，Riedl JT,Konstan JA．Collaborative filtering recommender systems[J].ACMTrans on Information Systems,2011,4 (2): 81-173.   
+[3]Wang Jun，Vries D，et al. Unifying user-based and item-based collaborative filtering approaches by similarity fusion [C]//Proc of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. New York: ACM Press,2006: 501-508.   
+[4]Liu Limin, Zhang Pengxiang,Lin Le,et al. Research of data sparsity based on collaborative filtering algorithm [J].Applied Mechanics & Materials,2014,462-463: 856-860.   
+[5]Linden G,Smith B，York J.Amazon． com recommendations: item-to-item collaborative filtering [J]. IEEE Internet Computing,2003, 7(1): 76-80.   
+[6] 周军锋，汤显，郭景峰．一种优化的协同过滤推荐算法[J].计算机 研究与发展，2004，41(10):1842-1847.(Zhou Junfeng，Tang Xian, Guo Jingfeng.Optimized collaborative filtering recommendation algorithm [J]. Journal of Computer Research & Development,2004,41 (10): 1842-1847. )   
+[7] Ahn H J.A new similarity measure for collaborative filtering to alleviate the new user cold-starting problem [J]. Information Sciences, 2008,178 (1): 37-51.   
+[8]Ekstrand M D,Ludwig M,Konstan JA,et al. Rethinking the recommender research ecosystem:reproducibility，openness，and LensKit [C]/ Proc of ACM Conference on Recommender Systems. New York:ACMPress,2011:133-140.   
+[9]Steck H. Item popularity and recommendation accuracy [C]// Proc of ACM Conference on Recommender Systems.New York:ACM Press, 2011: 125-132.   
+[10] Jannach D,Lerche L,Kamehkhosh I,et al. What recommenders recommend:an analysis of recommendation biases and possible countermeasures [J].User Modeling and User-Adapted Interaction, 2015, 25 (5): 427-491.   
+[11] Abdollahpouri H, Burke R,Mobasher B. Controlling popularity bias in learning-to-rank recommendation [C]// Procof the 1lth ACM Conference on Recommender Systems.New York: ACM Press,2017.   
+[12] Zhao Xiangyu,Niu Zhendong,Chen Wei. Opinion-based collaborative filtering to solve popularity bias in recommender systems [Cl//Lecture Notes in Computer Science.Berlin: Springer-Verlag,2013: 426-433.   
+[13] Chen Tu,Tian Hui, Zhu Xuzhen.An enhanced collaborative filtering with flexible item popularity control for recommender systems [C]// Proc of International Conference on Social Computing.New York: ACM Press,2014: 1-6.   
+[14]王锦坤，姜元春，孙见山，等．考虑用户活跃度和项目流行度的基于 项目最近邻的协同过滤算法[J].计算机科学，2016，43(12): 158-162．(Wang Jinkun，Jiang Yuanchun， Sun Jianshan，et al. Item-basedcolaborative filtering algorithm integrating user activity and item popularity [J].Computer Science,2016,43(12):158-162.)   
+[15] Harper FM, Konstan JA. The MovieLens datasets [J].ACM Trans on Interactive Intelligent Systems,2016,5 (4): 1-19.   
+[16] Shani G, Gunawardana A.Evaluating recommendation systems [M]// Recommender Systems Handbook. Boston: Springer-Verlag， 2011: 257-297.

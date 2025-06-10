@@ -1,0 +1,209 @@
+# 天山森林生态系统碳储量格局及其影响因素
+
+许文强1\* 杨辽}陈曦高亚琪²王蕾²中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室，乌鲁木齐 830011;新疆林业科学院现代林业研究所，乌鲁木齐 830063摘要科学地估算亚洲中部天山雪岭杉(Picea schrenkiana)生态系统碳密度与碳储量是评价新疆森林碳汇潜力、评估森林在减缓大气 $\mathrm { C O } _ { 2 }$ 浓度上升、应对气候变化等方面功能的关键，对干旱区森林生态系统的保育和可持续发展具有重要意义。该文基于在天山雪岭杉林区布设的70个野外样地调查数据，结合新疆森林资源连续清查数据，全面估算了天山雪岭杉生态系统的碳密度和碳储量，分析了其分布格局与影响因素。结果表明：天山雪岭杉不同龄组叶、枝、干和根的含碳率变化不显著，其乔木层平均含碳率为 $4 9 \%$ ，而林下植被(调落物、草本等)平均含碳率仅为 $4 2 \%$ 。雪岭杉森林生态系统单位面积生物量为187.98$ { \mathrm { M g } } \cdot  { \mathrm { h m } } ^ { - 2 }$ ，其中乔木层生物量占生态系统总生物量的 $9 8 . 9 3 \%$ 。乔木层各组分生物量大小为：干 $>$ 根 $>$ 枝>叶，而各龄组生物量排序为：成熟林>中龄林>近熟林>过熟林>幼龄林。雪岭杉生态系统碳密度为 $5 4 4 . 5 7 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，碳储量为 $2 9 0 . 8 4 \mathrm { ~ T g ~ C ~ }$ ，其中植被碳密度为 $9 2 . 5 7 ~ \mathrm { M g } . \mathrm { h m } ^ { - 2 }$ ，植被碳储量为 ${ 5 3 . 1 4 \mathrm { T g } \mathrm { C } } , $ ，土壤碳密度为 $4 5 2 . 0 0 \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，土壤碳储量为 $2 3 7 . 7 0 \mathrm { T g } \mathrm { C }$ 。天山雪岭杉生态系统碳密度分异与不同林区林带垂直宽度变化具有很高的相关性，其生态系统碳密度西高东低的分布格局和它所处的环境因子西优东劣的变异是相一致的，即不同的环境因素组合是造成天山雪岭杉生态系统碳密度差异的主要原因。
+
+关键词生物量；含碳率；碳密度；环境因子；调查样地；雪岭杉引用格式：许文强，杨辽，陈曦，高亚琪，王蕾(2016).天山森林生态系统碳储量格局及其影响因素．植物生态学报，40,1-1.doi:10.17521/cjpe.2015.0235
+
+# Carbon storage,spatial distribution and the influence factors in Tianshan forests
+
+XU Wen-Qiang1\*, YANG Liao1, CHEN $\mathrm { { X i } ^ { 1 } }$ , GAO Ya-Qi², and WANG Lei²   
+StateKeybediodeUi   
+²Research InstituteofModern Forestry,Xinjiang Academy ofForestry,Urimqi 83oo63,China
+
+# Abstract
+
+AimsAccurate estimation of carbon density and storage is among the key challnges in evaluating ecosystem carbon sink potentials for reducing atmospheric $\mathrm { C O } _ { 2 }$ concentration. It is also important for developing future conservation strategies and sustainable practices.Our objectives were to estimate the ecosystem carbon density and storage of Picea schrenkiana forests in Tianshan region of Xinjiang,and to analyze the spatial distribution and influencing factors.
+
+MethodsBased on field measurements,the forest resource inventories,and laboratory analyses,we studied the carbon storage,its spatial distribution,and the potential influencing factors in Picea schrenkiana forest of Tianshan. Field surveys of 7O sites,with $8 0 0 \mathrm { m } ^ { 2 }$ （ $2 8 . 3 ~ \mathrm { m } \times 2 8 . 3 ~ \mathrm { m } )$ for plot size,was conducted in 2O11 for quantifying arbor biomass(leaf,branch,trunk and root), grassand literfallbiomass,soil bulk densityand other laboratory analyses of vegetation carbon content, soil organic carbon content, etc.
+
+Important findingsThe carbon content of the leaf,branch,trunk and root of Picea schrenkiana is varied from $4 6 . 5 6 \%$ to $5 2 . 2 2 \%$ . The vegetation carbon content of arbor and the herbatious/litterfall layer was $49 \%$ and $4 2 \%$ ， respectively. The forest biomass of Picea schrenkiana was $1 8 7 . 9 8 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,with $9 8 . 9 3 \%$ found in the arbor layer. The biomass in all layers was in the order of trunk( $1 0 9 . 8 1 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 } )$ $>$ root $( 3 9 . 7 9 ~ \mathrm { M g } \mathrm { . h m } ^ { - 2 } ) \succsim$ branch (23.62 $\mathrm { M g \cdot h m } ^ { - 2 } ) >$ leaf $( 1 2 . 7 6 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 } )$ . From the age-group point of view,the highest and the lowest biomass was found at the mature forest $( 2 2 8 . 7 4 \mathrm { M g } . \mathrm { h m } ^ { - 2 } ,$ ）and young forest ( $( 1 4 6 . 7 7 \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 } )$ , respectively. The carbon density and storage were $5 4 4 . 5 7 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $2 9 0 . 8 4 \mathrm { ~ T g ~ C ~ }$ ， with vegetation portion of $9 2 . 5 7 ~ \mathrm { M g } . \mathrm { h m } ^ { - 2 }$ and $5 3 . 1 4 ~ \mathrm { T g } ~ \mathrm { C }$ and soil portion of $4 5 2 . 0 0 \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ and $2 3 7 . 7 0 \mathrm { T g } \mathrm { C }$ , respectively. The spatial distribution of carbon density and storage appeared higher in the western areas than those in the eastern regions.In the western Tianshan Mountains (e.g.,Iili district),carbon density was the highest, whereas the central Tianshan Mountains (e.g.,Manas County, Fukang City,Qitai County) also had high carbon density. In the eastern Tianshan Mountains (e.g., Hami), it was low.This distribution seemed consistent with the changes in environmental conditions.The primary causes of carbon density diference might be a combined effects of multiple environmental factors suchas terain,precipitation, temperature,and soil.
+
+Key wordsbiomass; carbon content; carbon density; environmental factors; Sampling plots; Picea schrenkiana
+
+Citation: XuWQ,YangL,Chen X,GaoYQ,WangL (2O16).Carbonstorage,spatial distributionandtheinfluencefactors inTian shanforests.Chinese Journal ofPlant Ecology,40,1-1.doi: 10.1752l/cjpe.2015.0235
+
+森林作为陆地生态系统的主体，是陆地面积最大、分布最广、组成结构最为复杂的地表覆被类型,也是自然界功能最完善的生物基因库和水、碳、养分储存调节库，它储存了陆地地上部分碳库的 $80 \%$ ，地下部分碳库的 $40 \%$ ，对改善生态环境、维护生态平衡及减缓全球气候变化具有不可替代的作用(Dixonetal.,1994)。森林生态系统是陆地生态系统的重要碳汇，尤其是北半球中、高纬度地区的森林生态系统，它们是重要的陆地碳储库，在全球碳平衡中发挥着重要的碳汇功能(Houghton,2005)。因此,科学准确地计量森林生态系统碳密度及碳储量是评价森林碳汇潜力、评估森林在减缓大气CO2浓度上升、应对气候变化等方面功能的关键(罗天祥,1996;胡海清等，2015)。目前关于森林生态系统植被碳储量和碳汇功能方面的研究已经取得了丰硕的成果(王效科等,2001;Pan et al.,2004; Zhou et al.,2006;吴庆标等，2008；郭兆迪等，2013；胡海清等，2015),无论是在全球尺度还是国家尺度和区域尺度上都有很多成功的研究案例(周玉荣等，2000；Fanget al.,2001；赵敏和周广胜，2004；Su et al.，2007；Pan etal.，2011)。然而，由于采用的数据来源与估算方法方面的差异，森林碳储量估算结果存在较大的不确定性。因此，需要获得更多区域尺度的基于样地调查的精确参数和数据来减小碳储量估算结果的不确定性。同时，更多的不同类型的森林生态系统的碳储量与碳固定的研究需要展开，以丰富世界森林生态系统案例研究。
+
+亚洲中部干旱区地处欧亚大陆腹地，自然条件独特，高山与盆地相间分布，在全球变化和人类活动强干扰背景下，气候发生了显著的变化(罗格平等,2011; Li et al., 2015;Wang et al.,2015)。天山山脉作为亚洲中部干旱区的主体部分，其中山带森林生态系统具有涵养水源、调节径流的作用，能够为下游绿洲提供安全的生态保障，对整个干旱区的可持续发展极为重要(张百平等,2003)。目前天山中山带森林生态系统固碳研究越来越受到学术界的重视，很多基于样地调查数据、森林资源清查数据的研究取得了很多成果(Ni,2004；苏宏新，2005；Suetal.,2007；Xuetal.，2011)，但相关研究多是针对较小尺度的某一林区展开的，且对地上部分生物量的研究较多，而对地下草本、凋落物及土壤碳的研究需要加强。因此，需要开展更多的基于区域尺度的整合乔木、灌木、草本、调落物、根系和土壤碳等生态系统全要素的研究，以全面精确地估算天山森林生态系统碳储量。本文以天山中山带针叶林生态系统为研究对象，应用野外样地调查方法，估算天山针叶林生态系统碳储量，分析碳储量格局及其影响因素，以期为我国干旱区森林生态系统碳汇估算研究提供基础数据和科学参考。
+
+# 1材料和方法
+
+# 1.1 研究区概况
+
+天山横亘于新疆中部，向西延伸至哈萨克斯坦和吉尔吉斯斯坦，在我国境内东西长达1300多 $\mathrm { k m }$ 南北跨距达 $5 0 0 \mathrm { k m }$ (图1)。天山山地针叶林主要分布在天山北坡，天山中部和天山南坡则分布较少。雪岭杉(Picea schrenkiana)是天山山地最主要的地带性森林植被，林分以纯林为主，面积约 $5 2 . 8 4 \times 1 0 ^ { 4 }$ $\mathrm { h m } ^ { 2 }$ ，占新疆天然林有林地面积的 $4 4 . 9 \%$ ，是构成天山乃至新疆森林生态系统的物质主体。天山中山带温和而湿润的生境为雪岭杉的生长发育提供了良好的场所，森林郁闭度可达0.6-0.8，生产力较高，林下灌木和草本植被发育受到一定的抑制。
+
+天山雪岭杉主要分布于天山北坡海拔 $1 ~ 4 0 0 -$ $2 8 0 0 \mathrm { ~ m ~ }$ 的阴坡和半阴坡，林区多年平均气温-2.8-$2 . 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，年降水量 $4 0 0 { \mathrm { - } } 7 0 0 \ \mathrm { m m }$ ，针叶林建群种为雪岭杉，但在东部部分林区出现了少量雪岭杉和西伯利亚落叶松(Larix sibirica)的混交林。针叶林土壤成土母质主要为黄土状物质和钙质岩石风化物，也有坡积物和冰磷物，林下发育的山地灰褐色森林土是天山分布最集中、面积最大的山地森林土壤类型。
+
+![](images/1fe6b8a5103c4f54e588e447ec224f872b706db9a38e25effa53849daad30845.jpg)  
+图1天山山脉及森林调查样地分布示意图。 Fig.1The sketch map of Tianshan Mountains and the distribution of sampling plots.
+
+# 1.2 数据及来源
+
+本文涉及的主要数据包括森林生态系统野外样地调查数据、2011年第6次新疆森林资源连续清查数据和天山区域部分气象站点观测数据。其中森林生态系统野外样地调查数据于2011年通过野外样地调查获得；气象站点观测数据选择天山区域海拔高度相差不大的7个站点2001-2010年平均气温和降水量数据，站点由西向东依次为伊宁站(海拔 $6 6 3 ~ \mathrm { m } )$ 、精河站(海拔 $3 2 0 \mathrm { m } \mathrm { \Omega }$ 、乌苏站(海拔 $4 7 9 { \mathrm { m } } { \mathrm { , } }$ 、石河子站(海拔 $4 4 3 ~ \mathrm { m }$ 和奇台站(海拔 $7 9 4 ~ \mathrm { m }$ (图1)。所有数据的汇总与分析是通过数理统计分析软件SPSS19.0进行的。不同龄组对树木器官碳含量、生物量及土壤碳密度的影响是通过单因素方差分析(one-wayANOVA)来完成的。
+
+# 1.3样地调查与室内分析
+
+# 1.3.1 样地的布设
+
+本文根据新疆气候、自然地理和植被类型空间分布的实际情况，采用网格法对新疆森林生态系统进行野外调查样地的布设。首先将新疆划分为10$\mathrm { k m } \times 1 0 ~ \mathrm { k m }$ 的网格，其中覆盖新疆主要森林分布区(乔木林分布区)的网格约210个，而位于天山山脉雪岭杉分布区的网格约70个；然后根据天然林的林龄状况、面积与蓄积权重等，确定出幼龄林、中龄林、近熟林、成熟林和过熟林4种龄组的样地数量总共为70个；最后，综合考虑天山各林区的林业经营管理强度、流域分布等情况，确定出70个样地的位置分布(表1；图1)。所有调查样地面积均为 $8 0 0 \ \mathrm { ~ m } ^ { 2 }$ (28.3$\mathrm { m } \times 2 8 . 3 \mathrm { m } \rangle$ ，样地优势树种为雪岭杉。
+
+# 1.3.2样地植被生物量及碳含量测定
+
+在雪岭杉不同龄组样地分别调查每个样地内的乔木、草本和调落物生物量，由于天山山地针叶林大部分为雪岭杉纯林，林下几乎无灌木和苔藓生长，因此本研究不再调查林下灌木和苔藓层生物量。参照国家林业部森林资源清查的操作规范①，在自然林中确定胸高直径(距离树干基部 $1 . 3 \mathrm { ~ m ~ }$ 处的直径)大于 $5 \ \mathrm { c m }$ (胸径 $( D B H ) \ \geqslant \ 5 \ \mathrm { ~ c m } )$ 作为起测径阶，测定每个样地内所有 $D B H \geqslant 5 \mathrm { ~ c m ~ }$ 的乔木的胸径和树高，应用雪岭杉的生物量方程②，计算样地内每木生物量及单位面积乔木层生物量(表2)。
+
+同时，在每个样地中随机设置3个 $1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ 的样方，测定草本层地上部分和地下根系生物量鲜质量，并收集样方中所有调落物并称取鲜质量。取一定数量的草本样和调落物样在65 $\mathrm { { } ^ { \circ } C }$ 烘干至恒质量，计算单位面积草本和调落物现存量。同时在部分样地内随机采集一定数量的乔木样品(叶、枝、干、根)、草本和调落物样品，带回室内烘干、粉碎并过100目筛，采用重铬酸钾-硫酸氧化法测定植被样品的有机碳含量。
+
+表1基于天山雪岭杉面积和蓄积确定的调查样地数量及其基本信息统计 Table1The number of sampling sites Was determined based on forest type and the spatial distribution in the egion   
+
+<html><body><table><tr><td rowspan="2">龄组 Age group</td><td rowspan="2">林龄 Age (a)</td><td colspan="2">基于面积的统计 Forest area statistics</td><td colspan="2">基于蓄积的统计 Forest accumulation statistics</td><td rowspan="2">样地数量 No. of sites</td><td rowspan="2">平均胸径 Average DBH (cm)</td><td rowspan="2">平均树高 Average tree height (m)</td><td rowspan="2">平均林分密度 Average stand density (plants·hm-2)</td></tr><tr><td>面积 Area (x104 hm²)</td><td>比重 Proportion (%)</td><td>面积Area (x104 hm²)</td><td>比重 Proportion (%)</td></tr><tr><td>幼龄林</td><td>≤60</td><td>2.30</td><td>4.35</td><td>288</td><td>2.39</td><td>5</td><td>19.6</td><td>12.3</td><td>1079</td></tr><tr><td>Young forest 中龄林 Middle-aged forest</td><td>61-100</td><td>10.02</td><td>18.97</td><td>1719</td><td>14.24</td><td>14</td><td>22.2</td><td>12.7</td><td>877</td></tr><tr><td>近熟林 Near-mature forest</td><td>101-120</td><td>12.58</td><td>23.81</td><td>2712</td><td>22.47</td><td>13</td><td>21.2</td><td>13.1</td><td>750</td></tr><tr><td>成熟林 Mature forest</td><td>121-160</td><td>20.62</td><td>39.03</td><td>4951</td><td>41.02</td><td>27</td><td>28.5</td><td>14.4</td><td>627</td></tr><tr><td>过熟林 Over-mature forest</td><td>≥161</td><td>7.32</td><td>13.84</td><td>2400</td><td>19.88</td><td>11</td><td>28.8</td><td>14.7</td><td>364</td></tr><tr><td>合计Total</td><td></td><td>52.84</td><td>100.00</td><td>12 070</td><td>100.00</td><td>70</td><td></td><td></td><td></td></tr></table></body></html>
+
+所有样地优势树种均为雪岭杉。 Picea schrenkiana is the dominant species in allsurvey sites.DBH,diameter at breast height.
+
+表2雪岭杉生物量方程 Table2 The allometric equations for estimating biomass of Picea schrenkiana   
+
+<html><body><table><tr><td>树木器官 Tree organ</td><td>生物量异速生长方程 Biomass allometric equation</td><td>R</td><td>胸径 Diameter at breast height</td></tr><tr><td>叶Leaf</td><td>WL = 0.0117(D²H)0.8304</td><td>0.998</td><td>(cm) 5.0-123.5</td></tr><tr><td>枝Branch</td><td>WB = 0.0014(D²H)1.0972</td><td>0.998</td><td>5.0-123.5</td></tr><tr><td>干 Stem</td><td>Ws = 0.0375(D²H)0.928</td><td>0.998</td><td>5.0-123.5</td></tr><tr><td>根Root</td><td>WR = 0.0089(D²H)0.9695</td><td>0.998</td><td>5.0-123.5</td></tr></table></body></html>
+
+$D$ ，单株乔木胸径 $\mathrm { ( c m ) }$ ： $H ,$ 单株乔木高度 $\mathrm { { ( m ) } }$ $W _ { \mathrm { B } }$ ，乔木枝生物量 $( \mathrm { k g } )$ $W _ { \mathrm { L } }$ ，乔木叶生物量 $( \mathbf { k g } )$ $W _ { \mathrm { R } }$ ，乔木根生物量 $( \mathbf { k g } )$ $W _ { \mathrm { T } }$ ，乔木干生物量 $( \mathrm { k g } )$ 。 $D$ ，individual tree diameter (cm); $H ,$ individual tree height $\mathrm { { ( m ) } }$ · $W _ { \mathrm { B } }$ ，tree branch biomass $( \mathrm { k g } )$ $W _ { \mathrm { L } }$ ,tree leaf biomass $( \mathrm { k g } )$ $W _ { \mathrm { R } }$ ,tree root biomass $( \mathrm { k g } )$ $W _ { \mathrm { S } }$ ,tree stem biomass $\mathbf { \left( k g \right) }$
+
+本文主要以野外样地调查数据估算天山雪岭杉生态系统生物量，但为了验证和比较估算结果的不确定性，亦采用换算因子连续函数法估算了单位面积乔木层生物量，计算公式为：
+
+$$
+W = a V / S + b
+$$
+
+式中： $W$ 为优势树种的单位面积乔木层生物量$( \mathrm { M g } \cdot \mathrm { h m } ^ { - 2 } )$ ， $V$ 为优势树种的森林蓄积 $( \mathbf { m } ^ { 3 } )$ ，S为优势树种的森林面积 $( \mathrm { h m } ^ { 2 } )$ ， $a$ 和 $b$ 均为参数。V和S的具体数值参考2011年第六次新疆森林资源连续清查数据。对天山雪岭杉而言， $a$ 和 $b$ 值分别为0.4642和47.4990(方精云等,1996)。
+
+# 1.3.3 样地土壤容重及含碳量测定
+
+在调查样地内选择1个未受人为干扰、植被结构和土壤具有代表性的地段，挖掘1个土壤剖面，深度为 $1 0 0 \ \mathrm { c m }$ (不够 $1 0 0 ~ \mathrm { c m }$ 的挖至基岩为止)。沿剖面按0-10、10-20、20-30、30-50和 $5 0 { \mathrm { - } } 1 0 0 ~ { \mathrm { c m } }$ 分层，用环刀采集各层土壤，带回实验室测定土壤容重；同时在每层采集土壤样品，带回室内进行风干、研磨并过筛，采用重铬酸钾外加热法测定样品土壤有机碳含量。
+
+# 1.3.4森林碳密度和碳储量的计算
+
+根据雪岭杉生物量方程可计算得到所有调查样地内乔木各器官生物量及乔木总生物量，将其乘以树木各器官的含碳率，再累计相加，得到样地乔木碳密度，进而推算出该优势树种乔木层单位面积碳密度。
+
+基于70个雪岭杉样地的调查资料，获取草本及凋落物层生物量，乘以其含碳率得到草本和凋落物层碳密度，将乔木层碳密度、草本层碳密度和凋落物层碳密度相加即得到植被碳密度，再乘以森林面积得到植被碳储量。
+
+土壤碳密度由各层土壤容重、土层厚度、土壤有机碳含量和直径大于 $2 \ \mathrm { m m }$ 的石砾所占体积百分比相乘后累加得到，土壤碳密度乘以土壤面积即为土壤碳储量。
+
+植被碳储量与土壤碳储量相加即为森林生态系统碳储量。
+
+$$
+C _ { t } = \sum _ { i = 1 } ^ { n } \left[ ( D _ { v i } \times / A _ { i } ) + ( D _ { s i } \times / A _ { i } ) \right] / 1 0 0 0 0 0 0
+$$
+
+式中, $D _ { \nu i }$ 为第 $i$ 个龄组植被碳密度 $( \mathrm { M g \cdot h m } ^ { - 2 } )$ ）， $D _ { s i }$ 为第$i$ 个龄组土壤碳密度 $( \mathbf { M g } { \cdot } \mathbf { h m } ^ { - 2 } )$ ， $A _ { i }$ 为第 $i$ 个龄组的森
+
+林面积 $( \mathrm { h m } ^ { 2 } )$ ）， $C _ { t }$ 为森林生态系统总碳储量 $( { \mathrm { T g } } \mathbf { \mathrm { C } } )$ 。
+
+# 2 结果和分析
+
+# 2.1天山雪岭杉生物量含碳率
+
+天山雪岭杉乔木层各组分的含碳率在 $4 6 . 5 6 \text{‰}$ $5 2 . 2 2 \%$ 之间变化，不同龄组对树木器官碳含量的影响不显著(表3)。其中叶的含碳率相对较高，干的含碳率最低，各组分含碳率由高到低依次为：叶>枝>根 $>$ 干。整个地上部分生物量含碳率大小为：乔木层$>$ 调落物层 $>$ 草本层，草本层和调落物层含碳率较低，平均为 $4 1 . 9 6 \%$ 。
+
+表3天山雪岭杉各组分含碳率统计 $( \% )$ Table 3The carbon content of different organs by age group for Picea schrenkiana   
+
+<html><body><table><tr><td rowspan="2">龄组 Age group</td><td colspan="4">乔木层 Arbor</td><td rowspan="2">草本层 Grass</td><td rowspan="2">调落物层 Litterfall</td></tr><tr><td>干 Trunk Branch</td><td>枝</td><td>叶 Leaf</td><td>根 Root</td></tr><tr><td>幼龄林</td><td>46.56</td><td>46.57</td><td>48.69</td><td>46.87</td><td>40.40</td><td>42.14</td></tr><tr><td>Young forest 中龄林</td><td>48.69</td><td>50.39</td><td>51.39</td><td>49.71</td><td>42.19</td><td>42.58</td></tr><tr><td>Middle-aged forest 近熟林</td><td>49.22</td><td>51.39</td><td>52.22</td><td>49.83</td><td>42.54</td><td>41.83</td></tr><tr><td>Near-mature forest 成熟林</td><td>48.29</td><td>49.22</td><td>50.10</td><td>49.42</td><td>42.00</td><td>42.42</td></tr><tr><td>Mature forest 过熟林</td><td>48.12</td><td>48.64</td><td>49.90</td><td>49.12</td><td>41.13</td><td>42.40</td></tr><tr><td>Over-mature forest 平均值</td><td>48.17</td><td>49.24</td><td>50.46</td><td>48.99</td><td>41.65</td><td>42.27</td></tr><tr><td>Mean F值Fvalue</td><td>0.65</td><td>0.83</td><td>0.87</td><td>0.41</td><td>0.32</td><td>0.65</td></tr></table></body></html>
+
+许多研究在生物量与碳储量换算时没有进行生物量的含碳率测定，而是采用均一化的生物量含碳率进行估算。目前国内外对各种树种常采用 $5 0 \%$ 的生物量含碳率来计量乔木层生物量的碳储量，用 $45 \%$ 来计量林下植被(调落物、草本等)的含碳率(Dixon&Krankina，1993；方精云和陈安平，2001；IPCC,
+
+2006)。从表3可知，雪岭杉乔木层平均含碳率约为$4 9 \%$ ，林下植被的平均含碳率约为 $4 2 \%$ ，与国内外常用的乔木层 $5 0 \%$ 和林下植被 $45 \%$ 的含碳率略有差异。
+
+# 2.2天山雪岭杉生态系统生物量及其分配
+
+天山雪岭杉森林生态系统单位面积平均生物量为 $1 8 7 . 9 8 ~ \mathrm { M g } . \mathrm { h m } ^ { - 2 }$ ，其中乔木层生物量占生态系统总生物量的 $9 8 . 9 3 \%$ ，调落物层占 $0 . 7 3 \%$ ，草本层仅占 $0 . 3 4 \%$ ，这主要是因为天山雪岭杉林分以纯林为主，森林郁闭度较高，使得林下灌木和草本植被的发育受到一定的抑制所致(中国林业科学研究院林业研究所，1986；新疆维吾尔自治区林业厅，1995;苏宏新，2005)。雪岭杉不同龄组对乔木干、枝和根生物量的影响显著 $( p < 0 . 1 )$ 。在乔木层生物量分配方面，各层平均生物量大小顺序为：干 $>$ 根 $>$ 枝 $>$ 叶。从各龄组来看，成熟林生态系统生物量最高，其余依次为中龄林>近熟林 $. >$ 过熟林 $>$ 幼龄林(表4)。
+
+# 2.3天山雪岭杉生态系统碳密度与碳储量
+
+天山雪岭杉生态系统土壤平均碳密度为452.00$\mathrm { { M g } } { \cdot } \mathrm { { h m } } ^ { - 2 }$ ，其中成熟林和过熟林土壤碳密度最高。从剖面不同深度土壤平均碳密度来看， $0 { - } 1 0 \mathrm { c m }$ 深度土壤平均碳密度占整个剖面的 $2 2 . 2 2 \%$ ， $0 { - } 3 0 ~ \mathrm { c m }$ 占$5 2 . 3 6 \%$ 。 $ { 0 - 5 0 } ~ \mathrm { c m }$ 占 $7 2 . 2 3 \%$ (表5)，说明大部分土壤碳储存在剖面 $5 0 \mathrm { c m }$ 深度内。
+
+天山雪岭杉生态系统平均碳密度为 $5 4 4 . 5 7 ~ \mathrm { M g }$ $\mathrm { h m } ^ { - 2 }$ ，其中植被平均碳密度为 $9 2 . 5 7 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，为生态系统碳密度的 $17 \%$ ，土壤平均碳密度为452.00$\mathrm { { M g } } { \cdot } \mathrm { { h m } } ^ { - 2 }$ ，为生态系统碳密度的 $8 3 \%$ (表6)。这主要是因为森林通过凋落物把大量有机质、氮素及各种微量元素归还于土壤，由于天山中山森林带海拔较高，气温较低，导致土壤微生物活性较低，森林凋落物的分解作用相对减弱，使得土壤腐殖质的积累作用增强(新疆维吾尔自治区林业厅，1995；Reichsteinetal.，2000;Drewnik，2006)，因此在高海拔的天山中山森林带土壤碳密度较高。
+
+表4天山雪岭杉森林生态系统单位面积生物量 $( \mathbf { M g } \mathbf { \cdot } \mathbf { h m } ^ { - 2 } )$ Table4Distribution of biomass in Picea schrenkiana forests in Tianshan Mountains $( \mathbf { M g } { \cdot } \mathbf { h m } ^ { - 2 } )$   
+
+<html><body><table><tr><td rowspan="2">龄组 Age group</td><td colspan="4">乔木层 Arbor</td><td rowspan="2">草本层 Grass</td><td rowspan="2">调落物层 Litterfall</td><td rowspan="2">生态系统 Ecosystem</td></tr><tr><td>干Trunk</td><td>枝Branch</td><td>叶Leaf</td><td>根Root</td></tr><tr><td>幼龄林 Young forest</td><td>86.03</td><td>17.70</td><td>10.42</td><td>30.72</td><td>0.69</td><td>1.21</td><td>146.77</td></tr><tr><td>中龄林 Middle-aged forest</td><td>116.65</td><td>25.81</td><td>13.33</td><td>42.32</td><td>0.62</td><td>0.97</td><td>199.71</td></tr><tr><td>近熟林 Near-mature forest</td><td>112.36</td><td>22.29</td><td>13.62</td><td>40.03</td><td>0.44</td><td>1.68</td><td>190.41</td></tr><tr><td>成熟林 Mature forest</td><td>133.55</td><td>29.11</td><td>15.31</td><td>48.70</td><td>0.63</td><td>1.43</td><td>228.74</td></tr><tr><td>过熟林 Over-mature forest</td><td>100.47</td><td>23.17</td><td>11.11</td><td>37.18</td><td>0.75</td><td>1.59</td><td>174.27</td></tr><tr><td>平均值 Mean</td><td>109.81</td><td>23.62</td><td>12.76</td><td>39.79</td><td>0.63</td><td>1.38</td><td>187.98</td></tr><tr><td>F值Fvalue</td><td>2.07*</td><td>2.19*</td><td>1.89</td><td>2.11*</td><td>0.96</td><td>0.50</td><td></td></tr></table></body></html>
+
+$^ { \ast } p < 0 . 1$ 。
+
+表5天山雪岭杉生态系统不同剖面深度土壤碳密度统计 $\left( \mathrm { M g } \cdot \mathrm { h m } ^ { - 2 \cdot } \right.$ 门Table5Changes in soil carbon density in different depths of Picea schrenkiana forest $( \mathbf { M g } { \cdot } \mathbf { h m } ^ { - 2 } )$ （204号  
+
+<html><body><table><tr><td>龄组 Age group</td><td>0-10 cm</td><td>10-20 cm</td><td>20-30 cm</td><td>30-50 cm</td><td>50-100 cm</td><td>合计Total</td></tr><tr><td>幼龄林 Young forest</td><td>111.60</td><td>73.93</td><td>54.81</td><td>89.23</td><td>120.76</td><td>450.33</td></tr><tr><td>中龄林 Middle-aged forest</td><td>93.24</td><td>68.37</td><td>74.15</td><td>73.92</td><td>107.63</td><td>417.31</td></tr><tr><td>近熟林 Near-mature forest</td><td>89.48</td><td>70.45</td><td>55.79</td><td>67.02</td><td>87.18</td><td>369.92</td></tr><tr><td>成熟林 Mature forest</td><td>96.50</td><td>73.20</td><td>61.84</td><td>110.81</td><td>140.05</td><td>482.39</td></tr><tr><td>过熟林 Over-mature forest</td><td>111.30</td><td>78.80</td><td>69.88</td><td>108.00</td><td>172.07</td><td>540.05</td></tr><tr><td>平均值 Mean</td><td>100.42</td><td>72.95</td><td>63.29</td><td>89.80</td><td>125.54</td><td>452.00</td></tr><tr><td>F值Fvalue</td><td>0.76</td><td>0.45</td><td>0.31</td><td>0.64</td><td>1.35</td><td></td></tr></table></body></html>
+
+表6天山雪岭杉生态系统碳密度和碳储量 Table 6Carbon density and carbon storage of Picea schrenkiana forests in Tianshan Mountains   
+
+<html><body><table><tr><td rowspan="2">龄组 Age group</td><td colspan="3">碳密度 Carbon density (Mg C·hm-2)</td><td colspan="3">碳储量Carbon storage(Tg C)</td></tr><tr><td>植被 Vegetation</td><td>土壤 Soil</td><td>生态系统 Ecosystem</td><td>植被Vegetation</td><td>土壤 Soil</td><td>生态系统 Ecosystem</td></tr><tr><td>幼龄林 Young forest</td><td>69.12</td><td>450.32</td><td>519.45</td><td>1.59</td><td>10.34</td><td>11.93</td></tr><tr><td>中龄林 Middle-aged forest</td><td>99.82</td><td>417.31</td><td>517.12</td><td>10.01</td><td>41.83</td><td>51.83</td></tr><tr><td>近熟林 Near-mature forest</td><td>96.29</td><td>369.92</td><td>466.21</td><td>12.12</td><td>46.55</td><td>58.66</td></tr><tr><td>成熟林 Mature forest</td><td>112.53</td><td>482.39</td><td>594.91</td><td>23.20</td><td>99.47</td><td>122.68</td></tr><tr><td>过熟林 Over-mature forest</td><td>85.12</td><td>540.04</td><td>625.16</td><td>6.23</td><td>39.51</td><td>45.73</td></tr><tr><td>平均值 Mean</td><td>92.57</td><td>452.00</td><td>544.57</td><td>10.63</td><td>47.54</td><td>58.17</td></tr><tr><td>合计Total</td><td></td><td></td><td></td><td>53.14</td><td>237.70</td><td>290.84</td></tr></table></body></html>
+
+天山雪岭杉生态系统碳储量为 $2 9 0 . 8 4 ~ \mathrm { T g ~ C } ,$ ，其中植被碳储量为 $5 3 . 1 4 \mathrm { ~ T g ~ C ~ } ,$ ，土壤碳储量为237.70TgC，土壤碳储量是植被碳储量的4.47倍。其中成熟林、近熟林和中龄林碳储量较大，过熟林和幼龄林碳储量较小，且不同龄组间植被和土壤碳储量差异较大(表5)。研究显示全球森林生态系统平均土壤碳库是植被碳库的2.19倍，且在高纬度区域$( 5 0 ^ { \circ } - 7 0 ^ { \circ } \mathrm { ~ N ~ } )$ 可达5.35倍(杨洪晓等，2005)；我国王新闯等(2011)计算的吉林省森林生态系统土壤碳储量是植被碳储量的2.72倍，高阳等(2014)计算的宁夏回族自治区森林生态系统土壤碳储量是植被碳储量的8.76倍，新疆天山雪岭杉生态系统土壤碳储量是植被碳储量的4.47倍，说明土壤碳库是森林生态系统碳库的主体，该结论与相关研究结果一致。
+
+# 2.4天山雪岭杉生态系统碳密度分布格局
+
+天山中山带发育的山地针叶林是干旱区典型的森林类型，其分布具有明显的"同构模式”(张百平等，2003)，即在天山东西长约 $1 \ 3 0 0 \ \mathrm { k m }$ 的中山带仅发育以雪岭杉为建群种的针叶林，其分布的连续性没有被天山东部、中部及西部的不同气候、地形、土壤影响下的水热组合条件所打破，但其对天山森林生态系统碳密度和格局的影响较为明显。在天山北坡从西向东分别估算伊犁、乌苏、玛纳斯、阜康和奇台林区内所有样地的植被和土壤碳密度(表7),结果显示雪岭杉生态系统碳密度分布格局为西高东低，即伊犁林区植被和土壤碳密度最高，其次为玛纳斯、阜康和奇台林区，乌苏林区最低，这与各林区温度、降水和地形影响下的水热组合条件密切相关(陈曦等,2008;Xuetal.,2011)。天山各林区植被碳密度占生态系统碳密度的比例为 $1 7 . 2 1 \%$ ，相关研究显示宁夏地区青海云杉林植被碳密度占生态系统总碳密度的比例为 $2 1 . 5 8 \%$ (高阳等，2014)，高于天山雪岭杉林，即土壤碳密度占整个生态系统碳密度的比例大，这与天山中山带所处的高海拔和低气温环境有直接关系。
+
+# 3结论和讨论
+
+3.1天山森林生态系统固碳差异的影响因素分析天山山脉东西跨度达 $1 ~ 3 0 0 ~ \mathrm { k m }$ ，在其广阔的水平和垂直分布范围内，气候、地形地貌、土壤等环境因素差异悬殊，虽然中山带针叶林优势树种均为单一的雪岭杉(仅最东部的巴里坤林区出现了小面积的雪岭杉和西伯利亚落叶松混交林)，但从东到西，其森林生态系统固碳差异明显(表7)。天山东段哈密-巴里坤林区受到蒙古西伯利亚反气旋干燥寒冷气团的侵袭，降水稀少，气温变化剧烈，针叶林分布面积较小，林型为草类-云杉落叶松林，森林生产力较低，其林下土壤类型为山地石灰性灰褐色森林土亚类，有机碳含量较低，因此其森林生态系统碳密度较低；天山中段玛纳斯、阜康、奇台林区受干燥寒冷气团影响略小，而北冰洋冷湿气流影响显著增加，因而较天山东段湿润，尤其是玛纳斯林区山势高大，山体宽阔，年降水量可达 $6 0 0 \ \mathrm { m m }$ ，林型为草类-藓类-云杉林，森林生产力较高，其林下土壤类型为山地普通灰褐色森林土亚类，有机碳含量较高，因此其森林生态系统碳密度亦较高；天山西段伊犁地区的地形特点是山体呈喇叭口状向西敞开，受地形抬升作用的影响易于截获大量来自大西洋的暖湿气流，使得中山森林带降水量丰富，针叶林生长茂密，林型为鳞毛蕨-藓类-云杉林，森林生产力最高，林下土壤类型为山地淋溶灰褐色森林土亚类，有机碳含量很高，故其雪岭杉生态系统碳密度最大(中国林业科学研究院林业研究所，1986；新疆维吾尔自治区林业厅，1995；苏宏新，2005;Xu etal.，2011)。因此，天山从东段到西段的地形地貌、气候等环境因素具有明显的差异，总体上表现出西优东劣的特点。图2为天山区域气象站点2001-2010年平均气温和降水量变化图，其变化趋势与不同区域森林碳密度变化具有很好的一致性。同时，天山雪岭杉林带垂直宽度(即森林上限和下限海拔高度之差)的变化即是对不同林区气候、地形地貌、土壤
+
+表7天山从西到东不同林区植被和土壤碳密度分布 Table7Vegetation and soil carbon densityof the spruce forests from the westto the eastin Tianshan Mountains   
+
+<html><body><table><tr><td>林区 Forest district</td><td>植被碳密度 Vegetation carbon density (Mg·hm-2)</td><td>所占比重 Proportion (%)</td><td>土壤碳密度 Soil carbon density (Mg·hm-2)</td><td>所占比重 Proportion (%)</td><td>总碳密度 Total carbon density (Mg·hm-2)</td></tr><tr><td>伊型Ili</td><td>124.61</td><td>16.74</td><td>619.98</td><td>83.26</td><td>744.59</td></tr><tr><td>乌苏Usu</td><td>68.16</td><td>17.05</td><td>331.57</td><td>82.95</td><td>399.72</td></tr><tr><td>玛纳斯 Manas</td><td>96.16</td><td>14.83</td><td>552.37</td><td>85.17</td><td>648.53</td></tr><tr><td>阜康Fukang</td><td>85.65</td><td>18.23</td><td>384.08</td><td>81.77</td><td>469.73</td></tr><tr><td>奇台Qitai</td><td>88.32</td><td>19.19</td><td>372.01</td><td>80.81</td><td>460.32</td></tr><tr><td>平均值 Mean</td><td>92.58</td><td>17.21</td><td>452.00</td><td>83.79</td><td>544.57</td></tr></table></body></html>
+
+400 降水量Precipitation □ 气温 Air temperature 12 rlgaeaaermrm 300 er 200 100 0 0 伊宁 精河 乌苏 石河子 奇台 Yining Jinghe Usu Shihezi Qitai (81.33°E) (82.90E) （20 $( 8 4 . 6 7 ^ { \circ } \mathrm { { F } }$ D （20 $( 8 6 . 0 5 ^ { \circ } \mathrm { E } )$ （ (89.57°E)
+
+![](images/4e386cecd8bfd3aa23cd83573ef4a0577abf5f5b808c6096aa2eb2947d138649.jpg)  
+图2天山区域不同经度气象站点2001-2010年平均气温和 降水量变化图。 Fig.2The mean air temperature and precipitation in five locations in Tianshan Mountains during 2Oo1-2010.   
+图3天山区域气象要素变化及不同林区森林碳密度与林带 垂直宽度的关系。 Fig.3The empirical relationship between forest carbon density and vertical belt width of the forest district in Tianshan Mountains.
+
+等环境因素影响结果的综合体现，图3为天山不同 林区森林碳密度与林带垂直宽度的关系图，二者相 关性很高， $\textstyle R ^ { 2 }$ 值达0.90。
+
+总之，天山雪岭杉生态系统碳密度分异与不同林区林带垂直宽度变化具有很高的相关性，其生态系统碳密度西高东低的分布格局和它所处的环境因子西优东劣的变异是相一致的，即不同的环境因素组合是造成天山雪岭杉生态系统碳密度差异的主要原因。
+
+# 3.2 乔木层生物量估算结果的不确定性分析
+
+1979年张瑛山等(1980)在天山中部首次测量了雪岭杉近熟林地上部分生物量(包括干、皮、叶和枝)结果显示雪岭杉近熟林地上部分平均生物量为$1 7 7 . 4 6 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。本文样地调查数据显示近熟林地上部分平均生物量(包括干、枝和叶)为148.27$\mathrm { { M g } } { \cdot } \mathrm { { h m } } ^ { - 2 }$ ，略低于张瑛山等(1980)的研究结果。王燕和赵士洞(1999)选择天山木垒林场为研究区、苏宏新(2005)选择天山伊吾、阜康、小渠子和伊犁林区分别对雪岭杉森林生态系统生物量进行了研究，结果分别为 $2 1 6 . 1 7 ~ \mathrm { M g } \mathrm { \cdot h m } ^ { - 2 }$ 和 $1 2 0 7 . 8 9 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，均高于本文的研究结果 $1 8 7 . 9 8 ~ \mathrm { M g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；本文也应用转换因子连续函数法(方精云等，1996)估算了雪岭杉乔木层生物量，结果为 $1 4 7 . 8 1 ~ \mathrm { \ M g { \cdot h m } ^ { - 2 } }$ ，低于本文通过样地调查法得到的生物量 $1 8 5 . 9 7 ~ \mathrm { M g } . \mathrm { h m } ^ { - 2 }$ 。与本文研究结果相比，其他研究结果估算差异最大约为本文研究结果的 $\pm 2 0 \%$ ，这可能与不同研究选择调查样地的代表性有关。大多研究只针对天山针叶林某一林区开展，其研究数据难以应用到所有林区;而本研究针对整个天山雪岭杉布设多达70个样地，样地数量分配考虑了区内各森林类型及其龄组的面积和蓄积，具有显著的代表性，研究结果的不确定性较小。
+
+# 3.3天山雪岭杉生态系统碳储量在新疆的地位
+
+由于不同学者所采用的估算方法不同，因此对森林植被碳储量的估算结果差异较大。郭兆迪等(2013)估算的新疆森林植被碳库为 $1 1 7 . 8 \mathrm { T g } \mathrm { C }$ ，占全国植被碳库的 $1 . 7 \%$ ；吴庆标等(2008)估算的新疆森林植被碳库为116.21TgC，占全国植被碳库的$2 . 2 \%$ ；方精云和陈安平(2001)估算的新疆森林植被碳库为 $7 3 . 5 3 ~ \mathrm { T g } ~ \mathrm { C } ,$ ，占全国植被碳库的 $1 . 5 3 \%$ ；王效科等(2001)基于文献检索方法估算的新疆森林生态系统植物碳储量为 $6 6 . 6 4 \mathrm { ~ T g ~ C ~ } _ {  }$ ，占全国植被碳库的$2 . 0 \%$ 。本研究没有估算新疆全部植被的碳储量，仅对天山雪岭杉植被碳储量进行了估算，结果为53.14TgC，若分别以新疆植被碳库估算最高的郭兆迪等(2013)和碳库估算最低的王效科等(2001)的研究结果为基础的话，天山雪岭杉碳储量占新疆全部森林植被碳储量的比例分别为 $4 5 . 1 \%$ 和 $7 9 . 7 \%$ ，与天山雪岭杉森林蓄积量占新疆的 $3 5 . 9 \%$ 相比，雪岭杉森林植被碳储量比例偏高。
+
+基金项目中国科学院战略性先导科技专项(XDA05050202)和国家自然科学基金(41271323)。
+
+致谢感谢新疆林业科学院和新疆维吾尔自治区各县市林业部门在野外采样调查工作中的支持和配合。
+
+# 参考文献
+
+Chen X,Xu WQ,Luo GP,Lin Q, Xiao LX (2008). Soil properties at the tree limits of Picea schrenkiana forests in response to varying environmental conditions on the northern slope of Tianshan Mountains. Acta Ecologica Sinica, 28,53-61.(in Chinese with English abstract)[陈曦，许文 强，罗格平，葡卿，肖鲁湘 (2008)．天山北坡不同环境 条件下雪岭云杉(Picea schrenkiana)林限土壤属性．生 态学报,28,53-61.]   
+Dixon RK, Krankina ON (1993).Forest fires in Russia: Carbon dioxide emissions to the atmosphere. Canadian Journal of Forest Research,23,700-705.   
+Dixon RK,Solomon AM,Brown S,Houghton RA，Trexler MC,Wisniewski J(1994). Carbon pools and flux of global forest ecosystems. Science,263,185-190.   
+Drewnik M(2Oo6). The effect of environmental conditions on the decomposition rate of cellulose in mountain soils.Geoderma,132,116-130.   
+Fang JY,Chen AP (2OO1). Dynamic forest biomass carbon pools in China and their significance.Acta Botanica Sinica,43,967-973.(in Chinese with English abstract) [方 精云，陈安平 (2001)．中国森林植被碳库的动态变化及 其意义．植物学报,43,967-973.]   
+Fang JY, Chen AP,Peng CH, Zhao SQ, Ci LJ (2001). Changes in forest biomass carbon storage in China between 1949 and 1998. Science,292,2320-2322.   
+Fang JY,Liu GH,Xu SL (1996). Biomass and net production of forest vegetation in China.Acta Ecologica Sinica,16, 497-508.(in Chinese with English abstract）[方精云，刘 国华，徐嵩龄 (1996).我国森林植被的生物量和净生产 量．生态学报,16,497-508.]   
+Gao Y,Jin JW,Cheng JM,Su JS,Zhu RB,Ma ZR,Liu W (2014). Carbon sequestration status of forest ecosystems in Ningxia Hui Autonomous Region. Chinese Journal of Applied Ecology，25,639-646.(in Chinese with English abstract）[高阳，金晶炜，程积民，苏纪帅，朱仁斌，马正 锐，刘伟 (2014)．宁夏回族自治区森林生态系统固碳现 状．应用生态学报,25,639-646.] 1'dm Jauu-ttpuial changes in biomass carbon sinks in China's forests form 1977 to 2008. Science China: Life Sciences, 56, 661-671. [郭兆迪，胡会峰，李品，李怒云，方精云 (2013).1977- 2008年中国森林生物量碳汇的时空变化．中国科学：生 命科学,43,421-431.]   
+Houghton RA (2Oo5). Aboveground forest biomass and the global carbon balance. Global Change Biology,11, 945-958.   
+Hu HQ,Luo BZ,Wei SJ,Wei SW, Sun L,Luo SS,Ma HB (2015).Biomass carbon density and carbon sequestration capacity in seven typical forest types of the Xiaoxing'an Mountains, China. Chinese Journal of Plant Ecology,39, 140-158.(in Chinese with English abstract)[胡海清，罗 碧珍，魏书精，魏书威，孙龙，罗斯生，马洪斌 (2015). 小兴安岭7种典型林型林分生物量碳密度与固碳能力. 植物生态学报,39,140-158.]   
+IPCC (Intergovernmental Panel on Climate Change）(2006). Agriculture,forestry and other land use.In: Eggleston HS, Buendia L,Miwa K,Ngara T, Tanabe K eds.2O06 IPCC Guidelines for National Greenhouse Gas Inventories. InStitute for Global Environmental Strategies， Kanagawa, Japan.   
+Li CF, Zhang C, Luo GP, Chen X,Maisupova B,Madaminov AA,Han QF,Djenbaev B (2015).Carbon stock and its responses to climate change in Central Asia. Global Change Biology,21,1951-1967.   
+Luo GP,Dai L,Li YZ,Lu L (2011). Prospects on alpine timberline change and its driving mechanism in arid area of Central Asia. Arid Land Geography，34，873-879. (in Chinese with English abstract）[罗格平，戴丽，李艳忠, 鲁蕾 (2011).亚洲中部干旱区高山林线变化及其驱动 机制研究展望．干旱区地理,34,873-879.]   
+Luo TX (1996).Patterns of Net Primary Productivity for Chinese Major Forest Types and Their Mathematical Models. PhD dissertation, Chinese Academy of Sciences, Beijing. (in Chinese)[罗天祥 (1996).中国主要森林类型生物生 产力格局及其数学模型．博士学位论文，中国科学院, 北京.]   
+Ni J (2OO4). Forest productivity of the Altay and Tianshan Mountains in the dryland,northwestern China.Forest Ecology and Management, 202,13-22.   
+Pan YD,Birdsey RA,Fang JG,Houghton R,Kauppi PE,Kurz WA,Philips OL, Shvidenko A,Lewis SL, Canadell JG, Ciais P,Jackson RB,Pacala SW,McGuire AD,Piao S, Rautiainen A, Sitch S, Hayes D (2011). A large and persistent carbon sink in the world's forests. Science,333, 988-993.   
+Pan YD,Luo TX,Birdsey R,Hom J,Melillo J (2004).New estimates of carbon storage and sequestration in China's forests: Effects of age-class and method on inventorybased carbon estimation. Climatic Change,67,211-236.   
+Reichstein M,Bednorz F,Broll G,Katterer T (2O0O). Temperature dependence of carbon mineralisation: Conclusions from a long-term incubation of subalpine soil samples. Soil Biology & Biochemistry,32,947-958.   
+Research Institute of Forestry Chinese Academy of Forestry (1986).Forest Soil of China. Science Press， Beijing. 587-642.(in Chinese)[中国林业科学研究院林业研究所 (1986)．中国森林土壤．科学出版社，北京.587-642.]   
+Su HX (2005). Analyzing and Simulating the Growth of Picea schrenkiana Forests in Xinjiang Under Global Climate Change.PhD dissertation,Graduate School of Chinese Academy of Sciences,Beijing.65-68.(in Chinese)[苏宏 新 (2005).全球气候变化条件下新疆天山云杉林生长 的分析与模拟．博士学位论文，中国科学院研究生院, 北京.65-68.]   
+Su HX, Sang WG, Wang YX, Ma KP (2007). Simulating Picea schrenkiana forest productivity under climatic changes and atmospheric $\mathrm { C O } _ { 2 }$ increase in Tianshan Mountains, Xinjiang Autonomous Region, China. Forest Ecology and Management, 246,273-284.   
+The Forest Department of Xinjiang Uygur Autonomous Region (1995). Forest Soil of Xinjiang Mountain Region. Xinjiang Science Technology and Hygiene Publishing House, Urumqi.152-198.(in Chinese）[新疆维吾尔自治区林业 厅(1995)．新疆山地森林土壤．新疆科技卫生出版社, 乌鲁木齐.152-198.]   
+Wang T,Ren GY,Chen F,Yuan YJ (2015).An analysis of precipitation variationsin the west-central Tianshan Mountains over the last 30O years. Quaternary International, 358, 48-57.   
+Wang XC,Qi G,Yu DP,Zhou L,Dai LM (2011).Carbon storage,density,and distribution in forest ecosystems in Jilin Province of Northeast China. Chinese Journal of Applied Ecology,22,2013-2020.(in Chinese with English abstract）[王新闯，齐光，于大炮，周莉，代力民(2011). 吉林省森林生态系统的碳储量、碳密度及其分布．应用 生态学报,22,2013-2020.]   
+Wang XK, Feng ZW, Ouyang ZY (2001). Vegetation carbon storage and density of forest ecosystems in China. Chinese Journal of Applied Ecology，12,13-16.(in Chinese with English abstract）[王效科，冯宗炜，欧阳志云 (2001). 中国森林生态系统的植物碳储量和碳密度研究．应用 生态学报,12,13-16.]   
+Wang Y, Zhao SD (1999). Biomass and net productivity of Picea schrenkiana var. tianshanica forest. Chinese Journal of Applied Ecology，10,389-391. (in Chinese with English abstract）[王燕，赵士洞(1999).天山云杉林生 物量和生产力的研究．应用生态学报,10,389-391.]   
+Wu QB,Wang XK, Duan XN, Deng LB, Lu F, Ouyang ZY, Feng ZW (2Oo8). Carbon sequestration and its potential by forest ecosystems in China.Acta Ecologica Sinica，28, 517-524.(in Chinese with English abstract)[吴庆标，王 效科，段晓男，邓立斌，逯非，欧阳志云，冯宗炜 (2008).中国森林生态系统植被固碳现状和潜力．生态 学报,28,517-524.]   
+Xu WQ, Chen X,Luo GP,Zhang Q,Lin Q(2011). Soil properties at the tree limits of the coniferous forest in response to varying environmental conditions in the Tianshan Mountains,northwest China.Environmental Earth Sciences,63, 741-750.   
+Yang HX,Wu B,Zhang JT,Lin DR,Chang SL(2O05).Progress of research into carbon fixation and storage of forest ecosystems.JournalofBeijingNormalUniversity(Natural Science),41,172-177.[杨洪晓，吴波，张金屯，林德 荣，常顺利 (2005).森林生态系统的固碳功能和碳储量 研究进展．北京师范大学学报(自然科学版)，41, 172-177.]   
+Zhang BP,Zhou CH, Chen SP (2O03). The geo-info-spectrum of montane altitudinal belts in China.Acta Geographica Sinica,58(2),163-171.(in Chinese with English abstract) [张百平，周成虎，陈述彭 (2003)．中国山地垂直带信 息图谱的探讨．地理学报,58(2),163-171.]   
+Zhang YS,Wang XL,ZhouLS(198O).Primary study on biomass ofPicea schrenkiana.Journal of Xinjiang August 1st AgricultureCollege,(3),19-25.(inChinese)[张瑛山，王 学兰，周林生 (1980).雪岭云杉林生物量测定的初步研 究．新疆八一农学院学报,(3),19-25.]   
+Zhao M, Zhou GS (2Oo4). Carbon storage of forest vegetation and its relationship with climaticfactors.Scientia Geographica Sinica,24,50-54. (in Chinese with English abstract）[赵敏，周广胜(2004)．中国森林生态系统的 植物碳贮量及其影响因子分析．地理科学,24,50-54.]   
+Zhou GY,Liu SG,Li ZA,Zhang DQ, Tang XL, Zhou CY, Yan JH,Mo JM (2006)．Old-growth forests can accumulate carbon in soils. Science,314,1417.   
+Zhou YR,Yu ZL, Zhao SD (2O0O). Carbon storage and budget ofmajor Chinese forest types.Acta Phytoecologica Sinica, 24,518-522.(in Chinese with English abstract)[周玉荣, 于振良，赵士洞 (2000).我国主要森林生态系统碳贮量 和碳平衡．植物生态学报,24,518-522.]
+
+特邀编委:杜盛责任编辑:王葳

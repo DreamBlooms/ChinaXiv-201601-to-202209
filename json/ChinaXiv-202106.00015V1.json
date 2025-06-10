@@ -1,0 +1,717 @@
+[
+    {
+        "type": "text",
+        "text": "Spatiotemporal analysis of drought variability based on the standardized precipitation evapotranspiration index in the Koshi River Basin, Nepal ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nirmal M DAHAL1,2， XIONG Donghong $^ { 1 , 3 , 4 ^ { * } }$ ，Nilhari NEUPANE5，Belayneh YIGEZ1,2, ZHANG Baojun1.3.4, YUAN Yong1,2, Saroj KOIRALA1.2, LIU Lin1.2, FANG Yiping1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of Mountain Hazards and Environment,Chinese Academy of Sciences,Chengdu 61O041, China;   \n2 University of Chinese Academy of Sciences,Beijing 100049,China;   \n3 Branch of Sustainable Mountain Development,Kathmandu Centerfor Research andEducation,CAS-TU,Kathmandu44600,   \nNepal;   \n4 Sino-Nepal Joint Research Centre for Geography, IMHE-TU-YNU,Kathmandu 446O0,Nepal;   \n5 International Centre for Integrated Mountain Development (ICIMOD),Lalitpur, GPO 3226,Nepal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drought is an inevitable condition with negative impacts in the agricultural and climatic sectors, especially in developing countries.This study attempts to examine the spatial and temporal characteristics of drought and its trends in the Koshi River Basin (KRB) in Nepal,using the standardized precipitation evapotranspiration index (SPEI) over the period from 1987 to 2017.The Mann-Kendalltest was used to explore the trends of the SPEI values.The study ilustrated the increasing annual and seasonal drought trends in the KRB over the study period.Spatialy,the hillregion of the KRB showed substantial increasing drought trends at the annual and seasonal scales, especially in summer and winter. The mountain region also showed a significant increasing drought trend in winter.The drought characteristic analysis indicated that the maximum duration,intensity,and severity of drought events were observed in the KRB after 2000.The Terai region presented the highest drought frequency and intensity, while the hil region presented the longest maximum drought duration. Moreover, the spatial extent of drought showed a significant increasing trend in the hill region at the monthly (drought station proportion of $7 . 6 \\% / 1 0 \\mathrm { a }$ in August)，seasonal (drought station proportion of $7 . 2 \\% / 1 0 \\mathrm { a }$ in summer)，and annual (drought station proportion of $6 . 7 \\% / 1 0 \\mathrm { a } ,$ ）scales.The findings of this study can assist local governments，planners，and project implementers in understanding drought and developing appropriate mitigation strategies to cope with its impacts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: drought duration; drought intensity; drought severity; standardized precipitation evapotranspiration index; mountains; hills; Terai ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drought is a recurrent climate phenomenon that occurs due to a reduction in normal precipitation amount and/or delays in the rainy season in a region for a specific time (Wilhite and Glantz,1985; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "di Lena et al.,2O14). This phenomenon can last for months to years and presents a larger spatial extent than any other climatic hazard (Dabanli, 2O18). Droughts may cause a significant shortage of the water supply and reduce agricultural production. Wilhite and Glantz (1985) categorized drought as a meteorological，agricultural， hydrological，and socioeconomic phenomenon based on the precipitation deficit over time.The causal effects of drought can be recognized at spatial and temporal scales by the intensity, duration, frequency,and severity characteristics (Wilhite,2005; Touma et al.,20i5; WMO and GWP,2016). Sheffield and Wood (2007) studied the increasing drought duration from 195O to 2OoO at different latitudes at a global scale. Similarly,Trenberth et al. (2011） reported that the magnitude,intensity, frequency,and spatial extent of drought have doubled since the 197Os in different parts of the world,including South and East Asia.The Hindu Kush Himalayan region is the largest mountain range in the world. The freshwater towers of South Asia and some parts of Southeast Asia provide water to more than one bilion people (Bolch et al., 2012).This region is highly susceptible to natural hazards that have significant_impacts on livelihood (Sharma et al.,2O19). Nepal is one of the hazard-prone countries of the Hindu Kush Himalayan region along with its two large neighboring countries, China and India (Chen et al., 2013; Liu et al.,2O15; Das et al., 2O16). The transboundary river basins in Nepal, such as Koshi, Gandaki,and Karnali，which originate from the high Himalayas to the plain land, sustain the livelihood of people in the mountain, hill,and low lands,which are facing extreme climate events (Sharma et al.,2O19). The South Asian monsoon climate together with its strong interaction with extreme topographic variations within the short south-north distance predominantly affects the precipitation pattern in Nepal (Karki et al., 2OO9). The horizontal extension of hill and mountain ranges results in moist conditions on the south- and west-facing slopes and rain shadow efects on the northern sides of the slopes (Sigdel and Ikeda,2O12). The Intergovernmental Panel on Climate Change (IPCC) reported that the increasing trend in global temperature has largely impacted the precipitation pattern in different parts of the world (IPCC,2O18). A study by Manton et al. (2001) observed an increasing number of annual hot days and warm nights and a decreasing number of rainy days in the Asian region. Several studies have shown evidence of erratic precipitation patterns (Shrestha et al.，2OoO） and increasing maximum temperatures $( 0 . 0 6 ^ { \\circ } \\mathrm { C } / \\mathrm { a } - 0 . 1 2 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ in Nepal (Shrestha et al.,1999). Agrawala et al. (2O03) revealed that Nepal will present an increment in mean temperature of $1 . 2 ^ { \\circ } \\mathrm { C }$ and $3 . 0 ^ { \\circ } \\mathrm { C }$ by 2050 and 21O0,respectively. The increasing temperature may increase evapotranspiration and reduce soil moisture, which accelerates the high-risk climatic hazards in Nepal river basins.This risk is serious,especially in associated with extreme climatic events,such as drought (Easterling et al., 2000; Nijssen et al.,2OOl; Adnan et al., 2017). Since drought occurrence is primarily related to precipitation (decreasing) and temperature (increasing) factors,the aspects of drought intensity, duration,and frequency at spatial and temporal scales vary with the magnitude of these changing factors (Burke et al.,2OO6; Wanders and Wada,2O15; Jamro et al.,2019; Wang et al., 2O19). Therefore,it is essential to study drought at spatial and temporal scales of Nepal. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drought indices are often used to study and monitor drought phenomena. Several drought indices have been developed for drought studies that can define and study drought at spatial and temporal scales (Mishra and Singh, 2O1O). Some of these indices are the Palmer drought severity index (PDSI) (Palmer,1965)，rainfall anomaly index (van Rooy，1965)，crop moisture index (Palmer,1968)， surface water supply index (Shafer and Dezman，1982)，and standardized precipitation index (SPI) (McKee et al.，1993).The development of the PDSI is considered the milestone in studying drought and one of the commonly used indices.However, its major limitations are that it is unable to capture short-term drought and does not possess multiscalar features in assessing drought (Alley,1984; Yang et al., 2016; Wang et al.,2019). To overcome these limitations,researchers widely used the SPI for drought studies (Livada and Assimakopoulos, 2007; Pai et al.,2O11) because it is simple to calculate and can quantify the precipitation deficit for multiple time scales that reflect the drought impact on water resource availability (WMO, 2012). Because the SPI is based only on precipitation data, it is especially suited for studying meteorological drought (Portela et al., 2O17; Wang et al., 2O19). Many studies have indicated that temperature and evapotranspiration are also influencing factors for drought but are not considered in the SPI; therefore,this method is not suitable for studying drought in the context of climate change (WMO,2012; Wang et al.,2016; Jamro et al.,2019). Thus, the standardized precipitation evapotranspiration index (SPEI） was proposed by Vicente-Serrano et al. (2O1O)； this index incorporates the merits of the SPI and PDSI, such as multitemporal scales, climate water balance, and evapotranspiration， and can reflect the influence of climate change on drought (Vicente-Serano et al.,201O; Begueria et al.,2O14). Therefore,this study considered the SPEI for drought analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Drought studies are relatively recent in Nepal. Ghimire et al. (2O1O) conducted qualitative assessments of climate-induced drought vulnerability at the household level of hill agriculture in Nepal.Kafle (2014） studied spatial and temporal drought assessments from 1982 to 2012 in western Nepal using the standardized reconnaissance drought index.Adhikari (2O18) reviewed climate-induced drought hazards in mid-hillfarming systems in western Nepal. Baniya et al. (2019) studied spatial and temporal analyses of drought in Nepal for the period 1982-2O15 using the SPI and vegetation condition index. Hamal et al. (2O2O) studied the impact of drought on crop yields across Nepal using the SPEI method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are three major river basins in Nepal, namely, Gandaki, Karnali, and Koshi. Dahal et al. (2016)conducted a drought risk assessment in the Gandaki River Basin of central Nepal from 1981 to 2012 using the SPI. Similarly， Khatiwada and Pandey(2O19) characterizedthe hydrometeorological drought in the Karnali River Basin of western Nepal from 1981 to 2014.In this study, several drought indices were used and the results revealed that the SPI is correlated with other indices and is capable of capturing hydrometeorological drought, which indicates that in the Karnali River Basin,the significance of other drought factors is negligible; under such conditions, drought is mostly contributed by precipitation variations (Vicente-Serrano et al.， 2012). Nevertheless,several studies have shown the role of warming-induced drought in the context of climate change (Li et al.,202O; Pei et al., 2020) and the impacts of drought on agriculture (Chen et al., 2016; Wang et al., 2016; Hamal et al., 2020). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A wide range of water-related hazards have affected the Koshi River Basin (KRB),and among these hazards,drought has affected large areas (Chen et al.，2O13). The river basin receives approximately $9 0 0 . 0 { - } 1 2 0 0 . 0 ~ \\mathrm { m m }$ of annual precipitation,and the annual mean evapotranspiration is approximately $1 5 0 0 . 0 { - } 2 0 0 0 . 0 \\ \\mathrm { m m }$ (Chen et al.,2O13). Therefore,this river basin always has a water shortage.The basin shows increasing weather extremes (Shrestha et al.,2O17),and seasonal precipitation is unevenly distributed. Approximately $7 5 \\%$ of the annual precipitation occurs during the summer monsoon (from June to September), $10 \\%$ occurs during October and November, and $1 5 \\%$ occurs during the winter and spring seasons (Agarwal et al., 2O14). The daily minimum and maximum temperatures are increased by $0 . 3 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ and $0 . 1 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ ，respectively,and consecutive dry days are increasing (Shrestha et al., 2O17). The monthly average maximum and minimum temperatures range from $2 7 . 0 ^ { \\circ } \\mathrm { C }$ to $3 2 . 0 ^ { \\circ } \\mathrm { C }$ and from $0 . 0 ^ { \\circ } \\mathrm { C }$ to $5 . 0 ^ { \\circ } \\mathrm { C }$ ,respectively. The studies cited above also projected that the annual and seasonal minimum and maximum temperatures will have an increasing trend in the future in the entire basin.Approximately $70 \\%$ of the population in the river basin relies on rainfed agriculture for their livelihood; therefore,the uneven precipitation distribution and increasing temperatures cause water stress in the basin (Dixit et al., 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Several studies have been conducted in the KRB regarding these variations in precipitation (Agarwal et al.,2O14), temperature (Agarwal et al.,2O16),water resources (Bharati et al.,2019), climate change,and agricultural production (Neupane et al.,2O13; Bhatt et al.,2O14). Bharati et al. (2014) mentioned the future impact of climate change and the inclusion of extreme climate events, such as drought, in the planning process. A study of Wu et al. (2O19) was conducted in the entire basin (including the transboundary region) on drought using the satellite-based crop water shortage index from 2000 to 2014. Shrestha et al. (2017) estimated the SPI values in the KRB (Nepal's part) to compare the precipitation-based drought severity and assess the accuracy of two climate hazard group satelite precipitation estimates. As mentioned earlier, increasing temperature is also one of the factors affecting drought occurrence，and the KRB is already facing increasing weather extremes. In this scenario， studying drought in the context of climate change based on meteorological indices is also essential. Thus,this study aims to (1） examine the spatial and temporal variations in drought in different ecological regions of the KRB from 1987 to 2O17; and (2) analyze drought characteristics using the SPEI at a three-month time scale from 1987 to 2017. This study evaluated drought characteristics using the SPEI based on ground station meteorological data over 31 years in the KRB,Nepal. The investigation of the spatial and temporal variability of drought in this study can provide valuable information for decision-makers to devise plausible policies, make climate-smart decisions,and implement these policies and decisions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study area is located at $2 6 ^ { \\circ } 4 9 ^ { \\prime } - 2 7 ^ { \\circ } 5 9 ^ { \\prime } \\mathrm { N }$ latitude and $8 6 ^ { \\circ } 5 5 ^ { \\prime } - 8 7 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { E }$ longitude within the KRB (Koshi River Basin) in the central and eastern regions of Nepal. The KRB is a transboundary river system with a total area of $8 . 7 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ and covers five counties in China, 27 districts in Nepal, and 16 districts in India (Bharati et al.,2O19). In Nepal, the basin covers three distinct ecological regions in general, namely,the mountains,hils,and Terai,from north to south,and the elevations range from 60 to $8 8 4 9 \\mathrm { ~ m ~ }$ a.s.l.(Fig.1) (Khanal et al., 2O18). The climate within the KRB (Nepal) varies from tropical in the Terai to alpine on high mountains.The climate in the hills is subtropical warm temperate (Dixit et al.，2O09). Generally, the temperature decreases from south to north, although the topography causes spatial variations. The annual mean temperature in the mountains, hills,and Terai is $1 6 . 0 ^ { \\circ } \\mathrm { C }$ ， $2 0 . 0 ^ { \\circ } \\mathrm { C }$ and $2 5 . 0 ^ { \\circ } \\mathrm { C }$ ，respectively. The annual precipitation decreases from 1931.0 to $5 3 6 . 0 \\ \\mathrm { m m }$ . Among the 27 districts in the KRB (Nepal),we selected 16 districts for our study based on data availability. Among these districts,three are located in the mountains, seven are located in the hills,and six are located in the Terai ecological zone (Fig.1).The major climatic features of the mountain, hill and Terai regions estimated from the available data (1987- 2017)of these studied districts are illustrated in Table 1 (Norbu, 2OO4; Dixit et al.,2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ff861e8188fd45bfca9549e51cfea97e92c5db954f3886436b437df8b1c556e.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Koshi River Basin (KRB), Nepal (a)as wellas the distributions of weather stations in the KRB (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a5e8c8b625d5221f3d20c70058e6042cc279738a10fd109b9371a375cdd55e3.jpg",
+        "table_caption": [
+            "Table1Major climate features of the mountain,hilland Terai regions(derived fromthe selected districts)of the Koshi River Basin (KRB), Nepal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Region</td><td>Annual mea rminimum</td><td>Annual meanrm aximum</td><td>Annual precitation</td><td>Climate</td><td>Elevation</td></tr><tr><td>Mountain</td><td>11.3</td><td>22.3</td><td>1953.5</td><td>Cool temperate to alpine</td><td>>2000</td></tr><tr><td>Hill</td><td>13.0</td><td>24.2</td><td>1641.4</td><td>Subtropical to warm temperate</td><td>300-2000</td></tr><tr><td>Terai</td><td>19.2</td><td>30.6</td><td>1637.2</td><td>Tropical</td><td><300</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The data employed in this study included the monthly precipitation and minimum and maximum temperatures.The data were colected from the Department of Hydrology and Meteorology, Government of Nepal. For the current study，we considered the longest period of climate data available from the maximum number of weather stations. Altogether, 31 years of data from 23 weather stations between 1987 and 2O17 were collected.The 23 weather stations are located within 16 districts of the KRB (Nepal).Among these 23 weather stations,3 are in the mountain region districts (hereafter mountain region),11 are in the hill region districts (hereafter hillregion),and 9 are in the Terai region districts (hereafter Terai region). The details of weather stations are given in Table 2.For the consideration of basin- and regional-level distributions of drought,we calculated the average value of climate data at multiple time scales from all weather stations in the basin and respective regions (mountain,hill and Terai） and obtained the SPEI values (Sigdel and Ikeda, 2010; Liu et al.,2018; Hamal et al.,2O2O). We assumed that the collection of the longest period of data from the maximum available stations for the drought study can help to minimize the uncertainties regarding the spatial variation in drought in the region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c0596c0b48aa15a486f2b970d55e8b30f80ef81530b986c694dc59b97594a6f.jpg",
+        "table_caption": [
+            "Table2Details of the weather stations selected from different regions in the KRB,Nepal "
+        ],
+        "table_footnote": [
+            "Note:AMP,annual mean precipitation; CV,coefficient of variation; PET,potential evapotranspiration. "
+        ],
+        "table_body": "<html><body><table><tr><td>Region</td><td>District</td><td>Station name</td><td>Elevation</td><td>AMP</td><td>CV-AMP (%)</td><td>PET</td><td>CV-PET (%)</td></tr><tr><td>Mountain</td><td>Dolakha</td><td>Jiri</td><td>1877</td><td>2441.4</td><td>10.3</td><td>1222.3</td><td>2.3</td></tr><tr><td rowspan=\"6\">Hill</td><td>Sankhuwasabha</td><td>Chainpur</td><td>1277</td><td>1444.2</td><td>14.3</td><td>1367.8</td><td>4.7</td></tr><tr><td>Taplejung</td><td>Taplejung</td><td>1744</td><td>1974.9</td><td>13.2</td><td>1161.3</td><td>4.3</td></tr><tr><td>Kathmandu</td><td>Panipokhari</td><td>1329</td><td>1504.9</td><td>13.2</td><td>1449.1</td><td>6.1</td></tr><tr><td>Kathmandu</td><td>Kathmandu Airport</td><td>1337</td><td>1480.4</td><td>14.8</td><td>1476.0</td><td>2.6</td></tr><tr><td>Lalitpur</td><td>Khumaltar</td><td>1334</td><td>1163.4</td><td>16.7</td><td>1394.6</td><td>2.4</td></tr><tr><td>Lalitpur</td><td>Godavari</td><td>1527</td><td>1708.6</td><td>18.0</td><td>1273.1</td><td>6.3</td></tr><tr><td rowspan=\"14\"></td><td>Bhaktapur</td><td>Nagarkot</td><td>2147</td><td>1863.3</td><td>14.4</td><td>1129.7</td><td>9.3</td></tr><tr><td>Makwanpur</td><td>Hetauda</td><td>452</td><td>2365.3</td><td>17.9</td><td>1607.6</td><td>3.8</td></tr><tr><td>Kavre</td><td>Dhulikhel</td><td>1543</td><td>1483.1</td><td>18.8</td><td>1230.6</td><td>8.0</td></tr><tr><td>Kavre</td><td>Panchkhal</td><td>857</td><td>1121.9</td><td>17.6</td><td>1621.1</td><td>2.8</td></tr><tr><td>Okhaldhunga</td><td>Okhaldhunga</td><td>1731</td><td>1781.4</td><td>11.4</td><td>1185.4</td><td>7.3</td></tr><tr><td>Dhankuta</td><td>Pakhribas</td><td>1720</td><td>1530.5</td><td>12.4</td><td>1110.1</td><td>2.5</td></tr><tr><td>Dhankuta</td><td>Dhankuta</td><td>1192</td><td>967.0</td><td>19.9</td><td>1261.1</td><td>9.8</td></tr><tr><td>Bara</td><td>Simara</td><td>137</td><td>1814.7</td><td>22.0</td><td>1609.1</td><td>2.9</td></tr><tr><td>Bara</td><td>Parwanipur</td><td>87</td><td>1591.9</td><td>21.8</td><td>1599.3</td><td>3.5</td></tr><tr><td>Sarlahi</td><td>Karmaiya</td><td>139</td><td>1834.0</td><td>20.3</td><td>1549.3</td><td>2.8</td></tr><tr><td>Sarlahi</td><td>Manusmara</td><td>90</td><td>1438.8</td><td>30.2</td><td>1608.5</td><td>2.8</td></tr><tr><td>Dhanusa</td><td>Janakpur</td><td>76</td><td>1523.2</td><td>26.8</td><td>1540.5</td><td>2.7</td></tr><tr><td>Siraha</td><td>Lahan</td><td>110</td><td>1368.1</td><td>22.5</td><td>1485.2</td><td>12.4</td></tr><tr><td>Saptari</td><td>Rajbiraj</td><td>68</td><td>1500.0</td><td>26.4</td><td>1601.8</td><td>5.5</td></tr><tr><td>Saptari</td><td>Phattepur</td><td>83</td><td>1731.6</td><td>23.9</td><td>1693.5</td><td>4.5</td></tr><tr><td>Sunsari</td><td>Tarahara</td><td>120</td><td>1976.1</td><td>17.6</td><td>1553.3</td><td>2.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, we used the SPEI index and Mann-Kendall(M-K) test to quantify drought and detect its trend in the KRB. The SPEI is considered an improved drought index to study drought conditions (Begueria et al., 2O14). Similarly, the M-K test is a widely used nonparametric approach to detect trends in time series data (Salmi et al.,2OO2).The details of these methods are illustrated in the following sections. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Standardized potential evapotranspiration index (SPEI) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SPEI is a drought index developed by Vicente-Serrano et al. (2OlO) that uses the precipitation and temperature components to calculate the index.The strength of this index is the inclusion of temperature components along with precipitation to account for its efect on drought. The SPEI uses the \"climatic water balance\" component, which is the difference between precipitation and potential evapotranspiration rather than precipitation as the input variable. Specifically,the climatic water balance compares water availability with atmospheric evaporative demand and therefore provides reliable drought severity measurements rather than only considering precipitation as the input variable (Begueria et al.,2O14). The output of the SPEI is applicable for all climate regimes, and the results are comparable because they are standardized (WMO and GWP,2O16). The SPEI can be calculated at different time scales. Therefore,it is possible to detect both short- and long-term drought (Vicente-Serrano et al.,2O1O).The calculation of the SPEI is based on monthly precipitation and monthly potential evapotranspiration. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SPEI package version 1.7 in R software was used to calculate the monthly SPEI values in the study area.The negative values of the SPEI indicate drought conditions.The lower the negative values,the worse the drought conditions. The multiscale features of time for the SPEI values at a 3-month time scale (May for spring,August for summer, November for autumn,and February for winter in our case） provide drought in the seasonal context. Similarly, the SPEI values at the 12-month time scale (December SPEI of each year) of each year indicate the whole-year water conditions caused by drought. The 3-month and 12-month time scales reflect the agricultural and hydrological drought conditions,respectively. The 3-month time scale also describes the short- and medium-term soil moisture and the seasonal precipitation estimation. Similarly,the 12-month time scale observes the long-term precipitation pattern over a period. The 12 consecutive months can also provide annual moisture conditions (WMO,2012; Wang et al., 2O14). This study examined the annual and seasonal drought characteristics in the KRB and focused on moderate,severe,and extreme drought events based on the SPEI values illustrated in Table 3 (McKee et al.,1993; Vicente-Serrano et al.,2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/492970a6abef659342b08e9aebe2c2f3a3054cbba672875e0c5c25ef980f6b64.jpg",
+        "table_caption": [
+            "Table 3Clasification of drought based on the standardized precipitation evapotranspiration index (SPEI) values "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SPEI value</td><td>Category</td></tr><tr><td>≥-0.99</td><td>Near normal</td></tr><tr><td>-1.49- -1.00</td><td>Moderate drought</td></tr><tr><td>-1.99- -1.50</td><td>Severe drought</td></tr><tr><td>≤-2.00</td><td>Extreme drought</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on this classification, we extracted 3-month (seasonal) and 12-month (annual) time scales of the monthly SPEI values from 1987 to 2O17. The livelihood in the KRB is based on agriculture (Neupane et al.,2O13); thus,studying drought at the seasonal scale can be essential (Tan et al., 2015).Therefore,the monthly SPEI values at the 3-month time scale were used to calculate the drought event characteristics (intensity, duration, severity,and frequency). The annual SPEI was indicated by the December SPEI of each year. Similarly, the seasonal SPEI was obtained in May for spring,August for summer, November for autumn,and February for winter. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Estimation of potential evapotranspiration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To calculate the SPEI values, it is necessary to estimate potential evapotranspiration from the available climate data. There are several methods to estimate this variable,and some commonly used methods are the Thornthwaite method (Thornthwaite,1948), Hargreaves method (Hargreaves and Samani,1985),and Penman-Monteith method (Allen et al.,1994; Allen et al.,1998). Each method has different data inputs. Several studies have used these methods based on input data availability; for example,Tan et al. (2O15) and Mohsenipour et al.(2O18) used the Thornthwaite method, Prabnakorn et al. (2O18) and Bisht et al. (2O19) used the Hargreaves method, whereas Gao et al. (2017) and Huang et al. (2O18) used the Penman-Monteith method. Among these methods, the Penman-Monteith method (Penman-Monteith FAO-56) is recommended by the Food and Agriculture Organization (FAO) because it has a greater potential for estimating accurate PET in a wide range of climate conditions (Alen et al.,1998). However, this method requires a number of inputs,such as wind speed, net radiation,temperature,and relative humidity, which are not readily available, especially in developing countries across the globe (Farmer et al.,2O11). Therefore,the alternative methods that require relatively few data are the Thornthwaite and Hargreaves methods; they are widely used for the estimation of potential evapotranspiration (Xu and Singh,2OO1; Tam et al., 2019). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thornthwaite and Hargreaves methods are the temperature-based approaches for calculating potential evapotranspiration. The Thornthwaite method requires the average temperature and latitude(calculated sunshine duration） to calculate potential evapotranspiration. The Hargreaves method uses the minimum and maximum temperatures and extraterrestrial radiation as inputs (Hargreaves and Samani， 1985). This method is recommended as the standard method for computing potential evapotranspiration when only temperature data are available (Bandyopadhyay et al.,2009; Begueria et al., 2014; Khan et al., 2020). It is also recommended by the FAO as an alternative method (Allen et al.，1998)，which is comparable to the findings of the Penman-Monteith method (Droogers and Alen, 2002). Stagge et al. (2014) studied the sensitivity of the SPEI to potential evapotranspiration estimation methods. Their study includes five potential evapotranspiration estimation methods,namely, the Thornthwaite,Hargreaves,Penman-Monteith Hargreaves,Priestley Taylor, and Penman-Monteith FAO-56.Among these,the SPEI estimated from the Hargreaves and the other three methods (Penman-Monteith Hargreaves,Priestley Taylor, and Penman-Monteith FAO-56） are more internally consistent than that estimated from the Thornthwaite method.Therefore,the Hargreaves method is the most useful and consistent method to estimate potential evapotranspiration in data-scarce areas (Stagge et al., 2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Therefore， ourstudyalso adopted the Hargreavesmethod to estimatepotential evapotranspiration because of data limitations.The Hargreaves method has also been successfully applied in Nepal. For example,Bhatt et al. (2O14) estimated potential evapotranspiration of the KRB; Dahal et al. (2Ol6) studied the impact of climate change on water availability in the Bagmati River Basin; Penton et al.(2O16) used this method for modeling the hydroclimate and stream flow in the KRB; Aadhar and Mishra (2O17) studied real-time drought analysis and monitoring in South Asia (including Nepal); and Hamal et al. (2O2O) assessed drought impacts on crop yields in Nepal. The equation of the Hargreaves method can be expressed as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T _ { 0 } } = 0 . 0 0 2 3 \\times { R A } \\big ( T _ { \\mathrm { a v g } } + 1 7 . 8 \\big ) \\times { T D } ^ { 0 . 5 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E T _ { 0 } }$ is the mean monthly reference or potential evapotranspiration (mm/month); $R A$ is the extraterrestrial radiation ( $\\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { m }$ onth)) estimated from the latitude and month of the year; $T _ { \\mathrm { a v g } }$ is the average monthly temperature ${ } ^ { ( \\circ } \\mathrm { C } )$ ·， $T D$ is the mean monthly temperature range $( ^ { \\circ } \\mathrm { C } )$ (difference between mean maximum and mean minimum temperatures); and O.OO23 is the coeficient proposed by Hargreaves and Samani (1985). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Definition of drought characteristics ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A drought event is defined as a period in which the drought index value is continuously negative and reaches the value of $- 1 . 0 0$ or less.Drought starts when the value falls below zero and ends when it reachesa positive value following the value of $- 1 . 0 0$ orless (McKee et al., 1993). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Drought frequency is defined as the number of drought events to the total years of the study period.It is calculated as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ s } = \\frac { n _ { _ s } } { N _ { _ s } } { \\times 1 0 0 \\% } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { s }$ is the drought frequency $( \\% )$ $n _ { s }$ is the number of drought events; $N _ { s }$ is the total years for the studyperiod; and $s$ is the station. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Drought duration is the number of months between the start and end of a drought event. The start month will be included and the end month will be excluded during the counting (Spinoni et al., 2014). Severity is the sum of all SPEI values (absolute) during a drought event; it is defined as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Bigg | S _ { e } = \\sum _ { j = 1 } ^ { m } \\mathrm { S P E I } _ { j } \\Bigg | _ { e } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $e$ is the drought event; $j$ is the month; and $m$ and $S _ { e }$ are the duration and severity of a drought event $e$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Drought intensity $\\left( \\mathrm { D I } _ { e } \\right)$ is obtained by dividing severity by duration (Eq. 4). The larger the intensity, the greater the drought severity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { \\mathbf { D } }  { \\mathrm { I } _ { e } } = \\frac {  { \\boldsymbol { S } } _ { e } } { m } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The drought station proportion is the number of drought stations on a time scale relative to the total number of stations studied. It provides the spatial extent of drought events during a period over the stations (Gumus and Algin,2O17).It is calculated as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { j } = \\frac { n _ { j } } { N _ { j } } { \\times } 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { j }$ is the drought station proportion at a given time scale $( \\% ) ; j$ is the time scale; $n _ { j }$ is the number of droughts in the given time scale; and $N _ { j }$ is the total number of stations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Trend analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The M-K test and Sen's slope methods (Salmi et al.,2OO2) were used for trend analysis.These methods are widely used in detecting trends in the hydrometeorological data series (Burn and Elnur, 20O2; Tan et al.,2O15), including drought index series (Damberg and AghaKouchak, 2014). The M-K test is a nonparametric test and does not require any specific data distribution. The Sen's slope method is also not highly affected by single data errors or outliers (Salmi et al.,2O02). These tools can help to obtain the magnitude and trend significance in the time series data. The significance of the monotonic positive or negative trend was determined by the M-K test, and the Sen's slope provided the magnitude of change.The positive and negative signs in the value indicate increasing and decreasing magnitudes, respectively. The M-K test uses the hypothesis testing approach towards the monotonic trend in the time series data. It tests the null hypothesis $\\left( \\mathrm { H } _ { 0 } \\right)$ ifa trend is not observed in the time series data as well as the alternative hypothesis if a trend is not observed in the data series at the O.001,O.O1,and O.O5 levels of significance.The M-K test statistic $S$ is calculated as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\sum _ { k = 1 } ^ { n - 1 } \\sum _ { j = k + 1 } ^ { n } \\operatorname { s g n } \\Bigl ( x _ { j } - x _ { k } \\Bigr ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { j }$ and $x _ { k }$ are the annual values in years $j$ and $k ( j > k )$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { s g n } ( x _ { j } - x _ { k } ) = { \\left\\{ \\begin{array} { l l } { 1 , { \\mathrm { i f } } \\ x _ { j } - x _ { k } > 0 } \\\\ { 0 , { \\mathrm { i f } } \\ x _ { j } - x _ { k } = 0 . } \\\\ { - 1 , { \\mathrm { i f } } \\ x _ { j } - x _ { k } < 0 } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When the number of values in data series $( n )$ is less than or equal to 9,the absolute $S$ value is compared directly to the theoretical distribution of $S$ derived by the $\\mathbf { M } \\mathbf { - K }$ method (Gilbert, 1987). When $n { \\geq } 1 0$ , the normal approximation test is used,and the variance of $S$ is calculated as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { V A R } ( S ) = \\frac { 1 } { 1 8 } \\Bigg [ n \\Big ( n - 1 \\Big ) \\Big ( 2 n + 5 \\Big ) - \\sum _ { p = 1 } ^ { q } t _ { p } \\Big ( t _ { p } - 1 \\Big ) \\Big ( 2 t _ { p } + 5 \\Big ) \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\operatorname { V A R } ( S )$ is the variance of $S ; q$ is the number of connected groups in series;and $t _ { p }$ is the number of data values in the $p ^ { \\mathrm { t h } }$ group. The test statistic $Z$ is calculated using $S$ and VAR(S) as shown below: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\left\\{ \\begin{array} { l l } { \\displaystyle { { \\cal S } - 1 } } & { \\mathrm { i f } \\ { \\cal S } > 0 } \\\\ { \\sqrt { \\mathrm { V A R } ( { \\cal S } ) } } & { \\mathrm { i f } \\ { \\cal S } > 0 } \\\\ { 0 , \\mathrm { i f } \\ { \\cal S } = 0 } & { \\mathrm { . } } \\\\ { \\displaystyle { { \\cal S } + 1 } } & { \\mathrm { i f } \\ { \\cal S } < 0 } \\end{array} \\right. \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The $Z$ value is used to evaluate the presence of a statistically significant trend. Positive and negative $Z$ values indicate the increasing and decreasing trends,respectively. The increasing and decreasing trends (a two-tailed test) are tested at the $\\boldsymbol { a }$ level of significance. $\\mathrm { H } _ { \\mathrm { 0 } }$ is rejected if the $Z$ value is greater than the $Z _ { 1 - \\alpha / 2 }$ value,where $Z _ { 1 - \\alpha / 2 }$ is obtained from a standard normal cumulative distribution.In this study, we tested the significance at 0.0O1, 0.O1,and O.O5 levels. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The trend magnitude $( Q )$ is quantified by the Sen's slope method and computed as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { i } = \\frac { x _ { j } - x _ { k } } { j - k } \\left( k \\neq j ; i = 1 , 2 , 3 , . . . , N \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $j$ and $k$ are the data series that have $n$ number of values,and $x _ { j }$ and $x _ { k }$ are the data values of these series.The slope observations $( N )$ are calculated as $N { = } n ( n { - } 1 ) / 2$ . The median of $N$ values of slope observations gives Sen's estimator of slope $Q _ { i }$ . The $N$ values of $Q _ { i }$ are ranked from ascending to descending order,and then the Sen's estimator is expressed as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = Q _ { { } [ ( N + 1 ) / 2 ] } \\mathrm { i f } N \\mathrm { i s o d d ~ o r } Q = { \\frac { 1 } { 2 } } \\Big ( Q _ { [ N / 2 ] } + Q _ { { } [ ( N + 2 ) / 2 ] } \\Big ) \\mathrm { i f } N \\mathrm { i s e v e n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, $\\boldsymbol { Q }$ is tested by a two-sided hypothesis test at a $1 0 0 \\% ( 1 - a )$ confidence interval, and the true slope is obtained.If the slope is significant at the $9 5 \\%$ confidence interval by means of a nonparametric technique based on a normal distribution, then the quantity of $\\alpha \\left( C _ { \\alpha } \\right)$ is computed as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { \\alpha } = Z _ { 1 - \\alpha / 2 } \\sqrt { \\operatorname { V A R } ( S ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where VAR(S) is defined in Equation 8 and $Z _ { 1 - \\alpha / 2 }$ is estimated from the standard normal distribution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$Z$ represents the standard normal deviate and $ { \\boldsymbol { a } }$ is set as O.O5,then the lower and upper confidence limits( $M _ { 1 }$ and $M _ { 2 }$ ,respectively)are calculated as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M _ { 1 } = ( N - C _ { \\alpha } ) / 2 , } } \\\\ { { { } } } \\\\ { { M _ { 2 } = ( N + C _ { \\alpha } ) / 2 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The lower and upper limits of the confidence interval, $Q _ { \\mathrm { m i n } }$ and $Q _ { \\mathrm { m a x } } .$ ,are the $M _ { 1 } ^ { \\mathrm { { t h } } }$ largest and the （204号 $( M _ { 2 } { + } 1 ) ^ { \\mathrm { t h } }$ largest of the $N$ ordered slope estimates $Q _ { i }$ ，respectively. If $M _ { 1 }$ and $M _ { 2 }$ are not whole numbers,then the lower and upper limits are interpolated,respectively (Salmi et al.,2OO2). In this study，we used the Microsoft Excel program MAKESENS 1.O developed by the Finnish Meteorological Institute in 2OO2 for the analysis (Salmi et al., 2002). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1Spatial and temporal variations in the SPEI ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The annual variation in the SPEI showed a decreasing trend at the regional and basin levels of the KRB from 1987 to 2017 (Fig. 2). The negative SPEI values represent the drought conditions (as shown in Table 3).The temporal variation from the SPEI analysis results revealed that the mountain region experienced moderate drought in 1992, 2011,2014,and 2015,whereas severe drought occurrences were observed in 2O05 and 2009. Similarly,in the hilly region，moderate drought was observed in 1992, 2008,2009,2015,and 2017,and severe drought occurred in 2012. Moderate drought was observed in 2009 and 2015 and severe drought was observed in 1992,1994, and 2012 in the Terai region. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5b3407d0f710043e5e92de3fc4a3cf95fa262a042f9e85aaa438251931aee04.jpg",
+        "img_caption": [
+            "Fig.2Annual variation of the standardized precipitation evapotranspiration index (SPEI) values at the 12-month time scale at the regional (a-c)and basin (d)levelsof the KRB from 1987to 2017.The trendof the SPEI per decade (Mann-Kendall test) and the statistical level of significance are also shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatially,annual variation in moderate drought was observed in the mountains, hills and Terai during the recent year (e.g., 2O15). In 1992, drought was moderate in the mountains and hills, whereas it was severe in the Terai. In 2OO9,drought was severe in the mountains and moderate in the hills and Terai. Similarly,the analysis showed severe drought in the hils and Terai in 2O12. Our results revealed that the drought conditions in the mountain,hill and Terai regions are independent. However,for certain years,the occurrence of drought might be related, which was not consistent over the study period of 1987-2017. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The overall results indicated that drought occurrence was frequent after 2OOo.Moderate drought occurrence was relatively higher in the hill region,and severe drought was higher in the Terai region. Spatially, the consistency in annual drought occurrence was higher within the hills and Terai among the three regions.The annual SPEI values showed a significant decreasing trend every ten years in the hills,indicating the great possibility of increasing drought tendency in the future. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Similar to the annual trend,the seasonal variation in the SPEI also showed a decreasing trend in the regional and basin levels of the KRB from 1987 to 2017 (Fig.3).In the mountain region, extreme drought was observed in autumn (2Oo9); severe drought was observed in spring (1992 and 2011),summer (1993 and 2009),and winter (1999 and 2006)；and moderate drought was also noticed in spring (2005,2007,2014,and 2016),summer (1992,2005,and 2011),autumn (1994, 2000,2002,2005,and 2015) and winter (2008,2009,2014,and 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the hilly region, severe drought occurred in spring (1996), summer (2006 and 2017),autumn (2000),and winter (2006 and 2009); moderate drought also occurred in spring (1992,1995,1999, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2012,and 2014),summer (2008,2009,and 2012),autumn (1988,1997,2008,2009,2012,2015,and   \n2017) and winter (1999,2001,and 2017). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "--- Moderate drought ---- Severe drought ---- Extreme drought Spring SPEISummer SPEI Autumn SPEIWinter SPEI 3(a) Mountains 31 (b) Mountains   \nSSPPe da 21 Spring:Trend=-0.20/10a, NS D 21 Autumn: Trend=-0.01/10a, NS 0 l L 0 -1 2 2 -3 Summer:Trend=-0.30/10a,NS Winter:Trend=-0.60/10a,P<0.05 1985 1990 1995 2000 2005 2010 2015 2020 1985 1990 1995 2000 2005 2010 2015 2020 2 Sr 3 (d)Hills t   \nnee 0 H 2 门 0 1 1 1   \nIPI −1 □ H H −1 -2 -2 -3 1985 1990 1995 2000 2005 2010 2015 2020 1985 1990 1995 2000 2005 2010 2015 2020   \nSJPe ra Sprm 1 310 Ttai te:e □ 0 1 -1 2 2 -3 1985 1990 1995 2000 2005 2010 2015 2020 1985 1990 1995 2000 2005 20102015 2020   \nSSPPe dt 31210 (@)KRB L S 1( KR 0 ite: -1 1 -2 -2 -3 3 1985 1990 1995 2000 2005 2010 2015 2020 1985 1990 1995 2000 2005 2010 2015 2020 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the Terai region, an extreme autumn drought was observed in 2Oo9. Similarly, severe drought was observed in spring (1995 and 1996), summer (1992,1994,and 2012),autumn (2005),and winter (2006,2017); and moderate drought was also noticed in spring (1991,1992,1994,and 2012), summer(2006,2013,and 2015),autumn (2008,2012,and 2015),and winter (1999 and 2001). The SPEI values showed a decreasing trend in allfour seasons during the entire study period. However, the trend is only significant during the summer season in the hillregion and during the winter season in the mountain and hill regions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatially, the seasonal drought showed variations in the study period. In some years,a similar seasonal drought pattrn was observed for all the regions.For instance,in the mountain, hill and Terai regions,severe winter drought was observed in 2OO6 and moderate autumn drought was observed in 2O12. Similarly, in some years,although all regions showed seasonal drought, the pattern was consistent in at least two regions. For example, in 1992, moderate spring drought was observed in the hils and Terai while severe drought was observed in the mountains.A similar patrn was also observed for winter drought in 1999.Further, in 2OO9,an extreme autumn drought was observed in the mountains and Terai while moderate drought was observed in the hills.In 2017, moderate winter drought was observed in the mountain and hill regions, while severe drought was observed in the Terai region. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the results showed seasonal drought in at least two regions.The drought severity was similar in some cases (mostly in the hill and Terai regions)but different in others.For example, the hill and Terai regions showed severe spring drought in 1996,moderate winter drought in 2001, moderate autumn drought in 2008 and 2015,and moderate spring drought in 2012. In the same way, moderate summer drought was observed in the mountain and hill regions in 2Oll and moderate spring drought was observed in 2014. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In some years, different severities of seasonal drought were also observed in two regions. For instance,during the autumn of 2Oo0, moderate drought was observed in the mountains while severe drought was observed in the hils. During the same season (autumn) in 2Oo5,the mountains showed moderate drought and the Terai showed severe drought. Similarly, in 1995, moderate spring drought was detected in the mountain region and severe drought was detected in the Terai region. During the summer of 1992,moderate drought and severe drought were observed in the mountain and Terai regions，respectively. In addition，during the summers of 2OO6 and 2009，severe drought was observed in the hills and mountains while moderate drought was observed in the Terai and hills. Similarly, during the winter of 2OO9, moderate drought was observed in the mountains and severe drought was observed in the hills. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The overall results of the seasonal variation in the SPEI indicated that both moderate drought (most common) and severe drought occurred in all regions of the KRB. In some years,a higher spatial consistency in seasonal drought was observed in two regions than in all regions.A significant decreasing trend in the SPEI was observed in the hillregion in summer but in the mountain and hill regions in winter. In the entire KRB region, a significant decreasing trend of seasonal SPEI values was observed in the summer and winter seasons. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2Analysis of drought characteristics ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.1Duration and severity of drought events ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The average drought duration calculated from the SPEI for the KRB during the period 1987-2017 was 5.8 months. In this basin, the maximum drought duration (for approximately 15.O months) was observed during the period 2O09-2O10. Spatially,substantial differences in the average drought duration from 1987 to 2O17 were not observed between the mountain and hillregions,although the values were relatively lower (by a month) in the Terai region. The maximum drought duration (from 20O7 to 2O09) was greatest in the hill region.The occurrence of the maximum drought duration in the mountain region was observed twice from 20O5 to 2013，whereas it was only observed in the mid-199Os in the Terai region (Table 4). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The average and maximum severity values of drought events in the KRB from 1987 to 2017 were 5.80 and 16.O5,respectively. Spatially, the average severity of drought events was highest in the hilly region and lowest in the Terai region, although the magnitude of the maximum severity was highest in the Terai region and lowest in the mountain region. The longest duration of the maximum severity was observed in the mid-199Os in the Terai region but in the mid-2O0Os and late 2000s in the mountains and hills. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/31ed049256d94e4519803834da8765a119bab12d0741dd401702e4ee32898031.jpg",
+        "table_caption": [
+            "Table 4Summaryof the duration,severity,and intensityof drought events identified fromthe SPEI valuesat the 3-month time scale from 1987 to 2O17 at the regional and basin levels of the KRB "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"6\">Maximum drought</td></tr><tr><td>Duration (month)</td><td>Starting-ending time</td><td>Severity</td><td>Starting-ending time</td><td>Intensity</td><td>Starting-ending time</td></tr><tr><td>Mountain</td><td>14.0</td><td>Apr 2005-May 2006 Feb 2012-Mar 2013</td><td>15.49</td><td>Apr 2005-May 2006</td><td>1.74</td><td>Jun 2009-Nov 2009</td></tr><tr><td>Hill</td><td>17.0</td><td>Dec 2007-Apr 2009</td><td>15.72</td><td>Dec 2007-Apr 2009</td><td>1.39</td><td>Jan 2006-Mar 2006</td></tr><tr><td>Terai</td><td>16.0</td><td>Apr 1994-Jul 1995</td><td>17.28</td><td>Apr 1994-Jul1995</td><td>1.84</td><td>Nov 2005</td></tr><tr><td>KRB</td><td>15.0</td><td>Jan 2009-Aug 2010</td><td>16.05</td><td>Feb 2012-Mar2013</td><td>1.59</td><td>Jan 2006-Mar 2006</td></tr><tr><td rowspan=\"2\">Region</td><td></td><td>Averg drough</td><td></td><td>Drought frequency</td><td></td><td></td></tr><tr><td>Duration</td><td></td><td>Intensity</td><td></td><td></td><td></td></tr><tr><td>Mountain</td><td>5.7</td><td>5.37</td><td>0.94</td><td>74</td><td></td><td></td></tr><tr><td>Hill</td><td>5.9</td><td>5.60</td><td>0.94</td><td>77</td><td></td><td></td></tr><tr><td>Terai</td><td>4.7</td><td>4.77</td><td>1.01</td><td>81</td><td></td><td></td></tr><tr><td>KRB</td><td>5.8</td><td>5.80</td><td>1.00</td><td>71</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.2Intensity and frequency of drought events ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The average and maximum drought intensities calculated from the SPEI in the KRB during the period 1987-2017 were 1.00 and 1.59,respectively. The maximum intensity was observed over a 3-month duration in 2OO6. Spatially, the Terai region showed the highest magnitude of the average and maximum drought intensity compared with the mountain and hill regions.The highest drought intensity in the Terai region was observed in a single month duration (November) of 2005. The magnitude of the average drought intensity in the mountain and hill regions was O.94, while the maximum intensity was higher in the mountain region (1.74). The duration of the maximum drought intensity in the mountain，hill，and Terai regions was six,three,and one months, respectively. The frequency of drought events in the KRB from 1987 to 2017 was $71 \\%$ . Spatially, the frequency of drought events was $74 \\%$ in the mountain region, $7 7 \\%$ in the hill region,and $81 \\%$ in the Terai region, which indicated that there was a general increment of drought frequency events from the mountain region to the Terai region. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The overall results from the SPEI analysis indicated that the maximum duration,intensity,and severity of drought events were mainly observed after 2OOO in the KRB region.Spatially, the onset of the maximum duration and severity of drought events occurred either in the winter or spring season in all regions, including the entire KRB,and ended mostly in the spring season of the next year. Similarly, the maximum drought intensity was observed in summer and late autumn in the mountain region, in the mid-winter and early spring in the hill region and the entire KRB,and in the late autumn in the Terai region. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3 Variation in drought station proportion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The monthly drought station proportion was calculated from the monthly SPEI values using Equation 5 for the period 1987-2Ol7.The annual and seasonal drought station proportions for the same period were calculated by averaging the monthly proportions of a year and their respective seasons.The M-K trends of these proportions at the monthly, interannual,and interseasonal scales from 1987 to 2O17 are ilustrated in Table 5.In the mountain region, the proportion at the monthly scale did not show trends in any month. However, at the interseasonal and interannual scales, significant increasing trends of $4 . 1 \\% / 1 0 \\mathrm { a }$ and $5 . 8 \\% / 1 0 \\mathrm { a }$ $( P { < } 0 . 0 5 )$ were found， respectively. Similarly,in the hill region,a significant increasing trend was found in January $( 5 . 3 \\% / 1 0 \\mathrm { a }$ ：， $P { < } 0 . 0 5 )$ ，March $( 3 . 0 \\% / 1 0 \\mathrm { a }$ ， $P { < } 0 . 0 5 )$ ，July $( 5 . 1 \\% / 1 0 \\mathrm { a }$ ：， $P { < } 0 . 0 5$ )，August ( $7 . 6 \\% / 1 0 \\mathrm { a }$ ， $P { < } 0 . 0 5 \\$ ，and September $7 . 0 \\% / 1 0 \\mathrm { a }$ ${ P \\mathrm { < } } 0 . 0 1$ ); no trend was found in other months.At the interseasonal scale, the proportion showed an increasing trend in all seasons but was only significant in summer （204 $( 7 . 2 \\% / 1 0 \\mathrm { a }$ ： $P { < } 0 . 0 5 )$ ，autumn $\\mathrm { \\langle 4 . 5 \\% / 1 0 a }$ ： $P { < } 0 . 0 5 )$ ，and winter $5 . 7 \\% / 1 0 \\mathrm { a }$ $P { < } 0 . 0 5 )$ .At the interannual scale, the proportion also showed a significant increasing trend $( 6 . 7 \\% / 1 0 \\mathrm { a }$ ， $P { < } 0 . 0 1 \\$ ） Similarly, in the Terai region, the proportion showed a significant decreasing trend $( - 4 . 8 \\% / 1 0 \\mathrm { a }$ ， $P { < } 0 . 0 5 )$ in June and no trends were observed in other months.At the interseasonal scale,a positive trend was observed in spring and autumn,a negative trend was observed in winter, and no trend was observed in summer. Similarly, at the interannual scale, no trend was observed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The overal results indicated that the spatial extent of drought has a significant increasing trend in summer,autumn,and winter in the hill region. In the entire KRB region,the drought station proportion calculated from the SPEI showed an increasing trend in January and February and from July to November; no trends were observed from March to June and in December. However, only the trends in February,August,and September were statistically significant $( P { < } 0 . 0 5$ ; Table 5). At the interseasonal scale, the drought station proportion in all seasons showed an increasing trend but was not statistically significant. However，the annual drought station proportion showed a significant increasing trend ( $4 . 2 \\% / 1 0 \\mathrm { a }$ · $P { < } 0 . 0 5 )$ from 1987 to 2017. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Our study showed that the drought and its characteristics exhibited significant spatial and temporal variations in the KRB from 1987 to 2O17.These variations are directly and indirectly influenced by many factors,such as precipitation, temperature,and topography. The variations on these factors, especially the decreasing precipitation and increasing temperature,are the contributing factors of drought events. Thus,the variations also lead to differences in the drought intensity and duration (Trenberth, 2011; Wang et al.，2O19).A global-level study on drought revealed that since the mid-198Os,the drought tendency has been increasing because of the increasing temperature trend through evapotranspiration mechanism (Dai, 2O11; Vicente-Serrano et al.， 2011). Similarly, the reduced precipitation frequency triggers and enhances the drought (Potop et al.， 2O14). The topographic diversity in a region can also lead to drought. Topographic features can create a rain shadow region that receives low precipitation and reinforce the drought (Dixit et al., 2Oo9). Our results exhibited more significant increasing trend of annual and seasonal temperatures in the hill region than in the other regions (Table 6). The winter precipitation showed significant decreasing trends in allregions while the annual trend was only observed in the hills.To bettr understand the drought conditions at the spatial and temporal scales,we discussed some influencing factors and their implications as follows. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/b164f7db23395381ab3445cfc0d66e8f2ecd0b799ede09ce312fc6c85e7b6d6b.jpg",
+        "table_caption": [
+            "Table 5Mann-Kendall(M-K) trends in drought station proportion series calculated from the SPEI values at the 3-month time scale at the regional and basin levels of the KRB from 1987 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*and \\*represent M-K trends statistically significant at O.O1 and 0.O5 levels,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Time</td><td colspan=\"4\">M-K trend in drought station proportion (%/10a)</td></tr><tr><td>Mountains</td><td>Hills</td><td>Terai</td><td>KRB</td></tr><tr><td>January</td><td>0.0</td><td>5.3*</td><td>0.0</td><td>2.2</td></tr><tr><td>February</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.9*</td></tr><tr><td>March</td><td>0.0</td><td>3.0*</td><td>0.0</td><td>0.0</td></tr><tr><td>April</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>May</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>June</td><td>0.0</td><td>0.0</td><td>-4.8*</td><td>0.0</td></tr><tr><td>July</td><td>0.0</td><td>5.1*</td><td>0.0</td><td>3.3</td></tr><tr><td>August</td><td>0.0</td><td>7.6*</td><td>0.0</td><td>5.7*</td></tr><tr><td>September</td><td>0.0</td><td>7.0**</td><td>0.0</td><td>4.8*</td></tr><tr><td>October</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.3</td></tr><tr><td>November</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.9</td></tr><tr><td>December</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Spring</td><td>0.0</td><td>3.0</td><td>1.6</td><td>0.7</td></tr><tr><td>Summer</td><td>4.1</td><td>7.2*</td><td>0.0</td><td>3.8</td></tr><tr><td>Autumn</td><td>0.0</td><td>4.5*</td><td>-2.5</td><td>4.6</td></tr><tr><td>Winter</td><td>0.0</td><td>5.7*</td><td>-1.4</td><td>3.9</td></tr><tr><td>Annual</td><td>5.8*</td><td>6.7**</td><td>0.0</td><td>4.2*</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e0bb8a5189c5aaf22b408e20b3d9f6327be4f8ec05fa4a35efb685d08d6a6fc.jpg",
+        "table_caption": [
+            "Table 6M-K trends of seasonal and annual precipitation and temperature at the regional and basin levels of the KRB from 1987 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*\\*\\*,nddenotesignificanceleelsof,.and,espectively "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td rowspan=\"2\">Climate variable</td><td colspan=\"4\">Season</td><td rowspan=\"2\">Annual</td></tr><tr><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td></tr><tr><td rowspan=\"2\">Mountain</td><td>Precipitation (mm/a)</td><td>-6.40</td><td>-7.70</td><td>4.80</td><td>-11.70*</td><td>-25.10</td></tr><tr><td>Temperature(C/a)</td><td>0.20</td><td>0.10</td><td>0.10</td><td>0.30</td><td>0.20</td></tr><tr><td rowspan=\"2\">Hill</td><td>Precipitation (mm/a)</td><td>1.70</td><td>-68.30</td><td>-0.40</td><td>-10.90*</td><td>-84.40*</td></tr><tr><td>Temperature (C/a)</td><td>0.50**</td><td>0.40**</td><td>0.30**</td><td>0.50***</td><td>0.40***</td></tr><tr><td rowspan=\"2\">Terai</td><td>Precipitation (mm/a)</td><td>11.80</td><td>-59.60</td><td>-13.40</td><td>-8.00*</td><td>-59.00</td></tr><tr><td>Temperature (C/a)</td><td>0.20</td><td>0.20**</td><td>0.10</td><td>0.03</td><td>0.10</td></tr><tr><td rowspan=\"2\">KRB</td><td>Precipitation (mm/a)</td><td>2.20</td><td>-64.00</td><td>-12.50</td><td>-10.50*</td><td>-60.60</td></tr><tr><td>Temperature (C/a)</td><td>0.30**</td><td>0.30***</td><td>0.20**</td><td>0.20*</td><td>0.30***</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1Spatial and temporal drought trend variations in the KRB ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "One of the purposes of this study is to scrutinize the spatial and temporal variations in drought based on the SPEI. Our findings revealed that the drought trend in the basin is increasing spatially and temporally. Significant increasing drought trends were observed at the annual and seasonal (summer and winter） scales in the hils and in winter in the mountains.This increasing drought trend indicates that the occurrence of drought is likely to be more frequent and thus can negatively impact water resources,agriculture,and livelihood in the KRB.The drought findings in the hill region resembles the findings of some quantitative and qualitative studies conducted in the hill region of Nepal.For instance,Ghimire et al.(2O1O) identified that $6 3 \\%$ of farms in the hills of Nepal are highly vulnerable to drought; Kafle (2O14) identified incidents of extreme drought events from five meteorological stations in the mid- and far-western hill regions of Nepal; Sapkota et al. (2016) mentioned the severe drought-affected area in Kavre District in the hily region of the KRB and explored climate change vulnerability; Adhikari (2O18) studied the occurrence of drought and its impact on rainfed agriculture in the western hills ofNepal. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Several studies have explained that increasing temperature and decreasing precipitation are directly linked to drought variations (Challinor et al.,2OO9; Sigdel and Ikeda,2O1O; Liu et al., 2015；Dehghan，2O2O). The variation in these climatic variables creates higher atmospheric evaporative demand and long dry spell durations,thereby increasing the dynamics and magnitude of drought (NCVST,2009; Vicente-Serrano et al., 2014; Wang et al., 2014). Based on these facts, the annual and seasonal precipitation and temperature trends of the three topographic regions (mountain,hill,and Terai) and the entire KRB from 1987 to 2017 are shown in Table 6.The analysis in the entire KRB in our study is consistent with the findings of Baniya et al. (2O18) that the annual precipitation decreased at the rate of $5 . 1 2 \\ \\mathrm { m m / a }$ and the temperature increased at the rate of $0 . 0 3 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ from 1982 to 2O15 in Nepal. The increasing and decreasing trends in temperature and precipitation at both annual and seasonal scale also fit with the respective SPEI trends from our findings (Figs.2 and 3),which indicate a high drought risk. The other causes of variations in drought might be the geographical features of the KRB.As the elevation increases from the Terai (south)to the mountains (north),the climate varies from tropical to warm temperate (Shrestha et al.,2017). The South Asian monsoon influences the climate of the southern and northern parts, which lie in rain shadow areas. The precipitation pattern in the basin is linked with summer monsoon-southeasterly and winter monsoon-westerly circulations (Sigdel and Ikeda, 2010). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Due to substantial differences in topography, the spatial and temporal variations in precipitation are observed within a short distance. In the mountain region，even after the monsoon，the north-facing slopes have a relatively higher humidity than the south-facing slopes because of diffuse solar radiation in the north-facing slopes. On a hill,a sudden cloudburst can cause intense precipitation within a day, whereas in the rain shadow areas of the Tibetan Plateau,the conditions may be dry (Dixit et al.，2Oo9). Therefore,local geographical features,orography, and complex terrain produce varied microclimates that might cause drought conditions in the basin (Kansakar et al., 2004; Sigdel and Ikeda, 201O; Zuo et al., 2018). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2 Variation of drought characteristics in theKRB ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Another key purpose of this study was to detect the variation of drought characteristics in the KRB using the SPEI values.The analysis of the SPEI values showed the highest frequency and intensity (average and maximum) of drought in the Terai region. Similarly,the highest duration of the maximum drought was observed in the hill region. Saravi et al. (2OO9) indicated that a drought event with the longest duration may not necessarily be intense enough to result in the greatest impacts. In our case,the Terai region had only a 1-month drought duration in 2O05 with the maximum drought intensity of 1.84, whereas the mountain and hill regions had a relatively longer drought duration (Table 4). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Our study found that the magnitude of drought intensity was highest in the Terai region, which might have impacted the growth of winter crops,especially wheat. Our finding is similar to the results of Wu et al. (2O19) that severe drought occurred in the downstream of the KRB from 2000 to 2014.The study by Wu et al. (2O19) in the transboundary regions of the KRB revealed that the highest drought intensity is directly related to the higher drought severity and thus it has a significant impact on crops and water facilities. Our study observed the occurrence of drought in different seasons,especially winter and spring in the hills and summer, winter, and spring in the mountains, Terai,and the entire KRB.These seasons are highly important for producing major cereals crops, such as wheat, maize,and rice. Therefore,any kind of drought conditions might affect production. These findings support the results of Joshi (2O18) mentioned by Adhikari (2018), who revealed that the eastern and central regions of Nepal faced droughts in 1992,1994,1997, 2002,2008,2009,2012,and 2013 because of inadequate and poor distribution of precipitation, which caused major crop loss of approximately $3 . 8 5 \\times 1 0 ^ { 5 }$ t. The seasonal occurrence of drought is also consistent with the findings of Baniya et al.(2O19) that during the period of 1982-2015, several severe and moderate droughts occurred during the decades of the 199Os,2OoOs,and 2010s at the annual and seasonal scales. Similarly,a study in Nepal also showed moderate to extreme drought intensity from 1972 to 2003 (Sigdel and Ikeda,2010). Some other findings also revealed that the western part of Nepal is also experiencing extreme drought conditions, especiall in summer and winter (Wang et al., 2013; Kafle, 2014).A study using the SPI values from 1981 to 2012 in the Gandaki River Basin of Nepal showed that 2004,2005,2006,and 2009 were the years with severe drought (Dahal et al., 2O16). These results on drought from several studies indicated that different regions and river basins of Nepal along with the KRB experienced drought from the 1980s to 2010s. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3Implications of drought variations in the KRB ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The implications of drought occurrence and variations in any location at a given time can be determined by the climate features and biophysical conditions of the location (Wilhite,2000). Therefore,these conditions can also evaluate the seasonal and annual drought in the KRB.The 3-month time scale highlights the soil moisture conditions and the 12-month time scale reflects the water levels in the source regions; these time scales are most effective in the agricultural region. Our findings revealed that the annual and seasonal drought trends were increased in the KRB from 1987 to 2O17 (Figs.2 and 3),which can reduce the soil moisture and decrease the water source levels and water availability (Wilhite,2OOO; Neupane et al.,2O13; Amrit et al.,2O18).It is accepted that the increased intensity， duration， and frequency of drought can affect water sources and agricultural productivity (Peterson et al.,2O12; Duan and Mei, 2O14). A review study by Adhikari (2018）on the hils of Nepal showed that the climate-induced drought profoundly affects agricultural systems. The KRB region has a significant quantity of arable land and therefore is more sensitive to drought. Aryal (2O12） mentioned that crops are sensitive to the water requirements during their lifecycle. In the stage of crop growth and development, crops have a high-water demand and any delay of water supply would affect the growth of crops and decrease the production potential (Paudyal et al.,2OO1). A study conducted by Bhatt et al. (2O14) mentioned that rice，maize，and wheat cultivated below 11OO，135O，and $1 7 0 0 \\mathrm { ~ m ~ }$ a.s.l. in the KRB, respectively, suffer from drought caused by increasing temperatures during the flowering and yield formation phases. Thus,the delay in fulfiling water demand at the growth stage will ultimately affect the yield.Malla (2OO8)revealed that in Nepal, the number of rainy days is decreasing and the rainy days are highly intense followed by prolonged drought. In the KRB region, the sectoral water demand increases from the mountain region to the Terai region; it is highest in the agricultural sector $( 9 2 \\% )$ , followed by the domestic $( 6 \\% )$ and industrial $( 2 \\% )$ sectors (Chinnasamy et al., 2015). Temporally,the water demand is higher in the dry season than in the wet season. In this scenario, our results imply that drought may decrease the water availability for all sectors in the future; therefore, necessary policies and plans for water management, such as increasing water storage capacity and other drought mitigation strategies, should be adopted. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this study, the spatial and temporal characteristics of drought in the KRB were assessed from 1987 to 2O17. The spatial and temporal variations in the SPEI values indicated that drought occurrence was more frequent after 2Ooo.The moderate and severe drought occurrences were relatively higher in the hill and Terai regions,respectively. The annual SPEI values showed a significant decreasing trend per decade in the hill region and the entire KRB, implying an increasing drought tendency in the future,which could be further exacerbated due to climate change.The rank of the magnitude of the drought trend was hils>mountains>Terai.The seasonal variation in the SPEI indicated that both moderate (most common) and severe droughts occurred in all regions of the KRB. These droughts had a significant increasing trend in winter over the mountain and hill regions and in summer and winter over the hill region. The overall rank of the magnitude of the spring drought trend was Terai>mountains>hills; rank of summer drought trend was hills>mountains>Terai; rank of winter drought trend was mountains>hills>Terai; and rank of autumn drought trend was the hills and Terai>mountains.Therefore,the regions that are more likely to be affected by seasonal drought should focus on essential mitigation measures. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the drought characteristics indicates that the maximum duration, intensity, and severity of drought events were observed in the KRB after 2OO0. These drought characteristics mainly appeared either in winter or spring of the current year and mostly ended in spring of the next year in the entire region of the KRB.The Terai region had the highest drought frequency $( 8 1 \\% )$ and average drought intensity (1.O1),while the hill region had the highest average drought severity (5.6O) and drought duration (5.9 months). Similarly，the hill region had the longest maximum drought duration (17.O months) and the Terai region had the maximum drought severity (17.28). The drought station proportion calculated from the SPEI values at a 3-month time scale showed the highest significant increasing trend in the hill region at the monthly $7 . 6 \\% / 1 0 \\mathrm { a }$ in August)，seasonal ( $7 . 2 \\% / 1 0 \\mathrm { a }$ in summer),and annual $( 6 . 7 \\% / 1 0 \\mathrm { a } )$ scales. The spatial extent of drought decreased only in the Terai in June in summer $( P { < } 0 . 0 5 )$ ,autumn and winter during the entire study period. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In this study, we atempted to observe drought conditions in diferent ecological regions of the KRB using the SPEI values.The overall findings revealed that drought is significant in the KRB; the results provide a basis for long-term monitoring of drought in the future.This study could provide resource planners and policy-makers information on drought conditions under a changing climate,which can help them make informed climate decisions and implement them. Moreover, a further detailed study should be conducted to understand the drought impact at the district level. In addition，further research is necessary to investigate the detailed impacts of increasing drought trends during crop growth phases and water demand in scenarios of population growth. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the CAS (Chinese Academy of Sciences) Overseas Institutions Platform Project (Grant No.131C11KYSB20200033) and the NSFC-ICIMOD Joint Research Project(Grant No.41661144038).We would like to express our gratitude to the Department of Hydrology and Meteorology (Government of Nepal) for providing the original data for this research work.We also thank Dr.Bikram PANDEYand Mr.Javed HASSAN for their valuable suggestions and support during the revision work. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Aadhar S,MishraV.2Ol7.High-resolutionnearreal-time drought monitoringin South Asia.Scientific Data,4:170145,doi: 10.1038/sdata.2017.145.   \nAdhikariS.2O18.Drought impactandadaptationstrategies inthemid-hillfarmingsystemof western Nepal.Environments,5(9): 101,doi:10.3390/environments5090101.   \nAdnan S,UllhK,Khan AH.2O17Meteorological impactsonevapotranspiration indierentclimatic onesofPakistan.Joural of Arid Land,9(6): 938-952.   \nAgarwal A,BabelMS,MaskeyS.2O14.Analysisoffutureprecipitation inthe Koshi riverbasin,Nepal.JournalofHydrology, 513: 422-434.   \nAgarwalA,BabelMS,MaskeyS,etal.2Ol6.Analysisof temperatureprojectionsintheKoshiRiverBasi,Nepal.Iteatioal Journal of Climatology,36(1): 266-279. hydropower.Environment Directorate Development Co-operation Directorate.Paris: Organization for Economic Co-operation and Development, 64.   \nAlenRG,SmithM,PereiraLS,etal.994.Anupdateforthecalculationofreference evapotranspirationICIulletin,43(2): 1-34.   \nAlen R G,PereiraLS,Raes D,etal.998.Cropevapotranspiration-Guidelines forcomputing cropwater requirements.FAO Irrigation and Drainage Paper 56.Rome: FAO,300(9): D05109.   \nAlley WM.1984.The Palmer drought severity index:limitationsand assumptions.Journal of Climate and Applied Meteorology, 23(7): 1100-1109.   \nAmrit K,PandeyRP,MishraSK.2O18.Characteristicsofmeteorologicaldroughts innorthwesternIndia.NaturalHazards,94(2): 561-582.   \nAryal S.2ol12.Rainfalland waterrequirementofriceduringgrowing period.The Jouralof Agriculture and Environment,3:1- 4.   \nBandyopadyayA,Bhadra A,Raghuwanshi N,etal.2Oo9.Temporal trends in estimatesof referenceevapotranspirationover India. Journal of Hydrologic Engineering,14(5): 508-515.   \nBaniya B,TangQ,XuX,etal.2O19.Spatialandtemporalvariationofdroughtbasedonsatelitederivedvegetationcondition index in Nepal from 1982-2015. Sensors,19(2): 430,doi: 10.3390/s19020430.   \nBegueria S,Vicente-SerranoSM,Reig F,etal.2O14.Standardized precipitationevapotranspirationindex(SPEI)revisited: paramete fiting，evapotranspirationmodels，tools，datasetsanddrought monitoring.International Journal of Climatology, 34(10):3001-3023.   \nBharatiL,GurungP,JayakodyPetal.2O14.The projectedimpactofcimatechangeonwateravailabilityanddevelopmentinth Koshi Basin, Nepal. Mountain Research and Development, 34(2): 118-130.   \nBharatiL,Bhatarai U,KhadkaA,etal.2O19.Fromthemountainstotheplains:Impactoflimatechangeonwateresoucesin the Koshi River Basin. Colombo: International Water Management Institute (IWMI),49.   \nBhattD,MaskeyS,Babel MS,etal.2014.Climate trends and impactson cropproductionin the Koshi River basinof Nepal. Regional Environment Change,14(4): 1291-1301.   \nBisht D S,SridharV,Mishra A,etal.2O19.Droughtcharacterizationover Indiaunder projected climatescenario.Interational Journal of Climatology, 39(4): 1889-1911.   \nBolch T,Kulkarmi A,KabA,et al.2O12.The state and fateof Himalayan glaciers.Science,336(6079): 310-314.   \nBurkeEJ,BrownSJ,ChristidisN.2O6.Modelingtherecentevolutionofglobal droughtandprojectionsforthetwentyfist century with the Hadley Centre climate model. Journal of Hydrometeorology,7(5):1113-1125.   \nBurn DH,Elnur MAH.2002.Detectionof hydrologic trendsand variability.Journalof Hydrology,255(1-4):107-122.   \nChallinorAJ,EwertFAoldS,etal.O9.Crosndcmateange:proges,trendsndcallngesinimulatigictsd informing adaptation. Journal of Experimental Botany, 6O(1O): 2775-2789.   \nChen N S,Hu G S,Deng W,et al.2O13.Onthe waterhazards in the trans-boundary KosiRiver basin.Natural Hazards &Earth System Sciences,13(3): 795-808.   \nChenT,XiaG,Liu T,etal.2016.Assessmentof drought impactonmaincereal crops usingastandardized precipitation evapotranspiration index in Liaoning Province,China. Sustainability,8(10):1069,doi: 10.3390/su8101069.   \nChinnasamyP,BharatiL,Bhatarai U,etal.2O15.Impactof planed waterresourcedevelopmentoncurrentandfuture water demand in the Koshi River basin, Nepal. Water International,4O(7):1004-1020.   \nDabanli I.2O18.Drought risk assssment byusing drought hazard and vulnerability indexes.Natural Hazards and Earth System Sciences,129:1-15.   \nDahalP,Sresta,esthaM,etal.6.roughtisesmnticntralepal:tmporalandsatialaasis.tural Hazards,80(3): 1913-1932.   \nDahal V,ShakyaNM,Bhattarai R.2O16.Estimating theimpactofclimate changeon wateravailabilityinBagmati Basin,Nepal. Environmental Processes,3(1): 1-17.   \nDaiA.20l1.Characteristicsand trendsin various formsof thePalmer Drought Severity Index during 90o-20o8.Journalof Geophysical Research: Atmospheres,116(D12),doi: 10.1029/2010JD015541.   \nDamberg L，AghaKouchak A.2014.Global trendsand patternsof drought from space.Theoretical and Applied Climatology, 117(3-4): 441-448.   \nDas $\\mathrm { ~ P ~ K ~ }$ ,Dutta D,Sharma J,et al.2016.Trends and behaviour of meteorological drought (1901-2O08)over Indian region using   \nDehghan S,SalehniaN,SayariN,etal.2O20.Predictionofmeteorologicaldroughtinaridandsemi-aridregionsusingPDSIand SDSM: a case study inFars Province,Iran.Journal of Arid Land,12(2): 31-330.   \ndi Lena B,VergniL,Antenucci F,etal.2O14.Analysisof droughtintheregionof Abruzzo(Central Italy)bythestandardized precipitation index. Theoretical and Applied Climatology,115(1-2): 41-52.   \nDixitA,UpadhyaM,Dixit K,etal.2O09.Living with Water StressintheHilsof theKoshiBasin,Nepal.Kathmandu: International Centre for Integrated Mountain Development, 31.   \nDroogers P,Allen R G.2OO2.Estimating referenceevapotranspirationunder inacurate dataconditions.Irigation and Drainage Systems,16(1): 33-45.   \nDuan K,MeiY.2014.Comparisonof meteorological,hydrologicalandagricultural droughtresponses to climatechange and uncertainty assessment. Water Resources Management, 28(14): 5039-5054.   \nEasterlingDR,MeehlGA,ParmesanC,etal.o.Climate extremes:bservations,modeling,ndimpacts.Science,289(548): 2068-2074.   \nFarmer W,Strzepek K,SchlosserCA,etal.20l1.Amethodforcalculatingreferenceevapotranspiratioondailytimescales.M Joint Program on the Science and Policy of Global Change. Cambridge: Massachusets Institute of Technology, 21.   \nGao X,ZhaoQ,Zhao X,etal.20l7.Temporaland spatial evolutionof thestandardized precipitation evapotranspiration ndex (SPEI) ntheLoess Plateauunder climatechange from 200lto 2050.Scienceof the Total Environment,595:191-200.   \nGhimireYN,hivakoti GP,PerretSR.2l0.Household-level vulnerabilitytodroughtinhillagricultureof Nepal: implicatin for adaptation planning.International Journal of Sustainable Development & World Ecology,17(3): 225-230.   \nGilbert RO.1987.Statistical Methods forEnvironmentalPollution Monitoring.New York: John Wiley & Sons,320.   \nGumus V,Algin HM.2017.Meteorologicaland hydrological droughtanalysisof the Seyhan-Ceyhan River Basins,Turkey. Meteorological Applications,24(1): 62-73.   \nHamal K,Sharma S,Khadka N,et al.2O20.Assessment of drought impactsoncropyieldsacross Nepal during1987-2017. Meteorological Applications,27(5): 1-18.   \nHargreaves GH,Samani ZA.1985.Referencecrop evapotranspirationfromtemperature.Applied Engineering inAgriculture, 1(2): 96-99.   \nHuang J,Zhai J,JiangT,etal.2o18.Analysisoffuture droughtcharacteristicsinChinausing theregionalclimate model CCLM. Climate Dynamics,50(1-2): 507-525.   \nIPCC (Intergovernmental Panel on Climate Change). 2018.Global warming of $1 . 5 ^ { \\circ } \\mathrm { C }$ .An IPCC special report on the impacts of global warming of $1 . 5 ^ { \\circ } \\mathrm { C }$ above pre-industrial levels and related global greenhouse gas emission pathways,in the context of strengthening theglobalresponse tothethreatofclimatechange,sustainabledevelopment,and eforts toeradicate poverty. Geneva: Intergovernmental Panel on Climate Change, 616.   \nJamroS,DarsGH,AnsariK,etal.2O19.Spatio-temporal variabilityofdroughtinPakistanusingstandardized precipitation evapotranspiration index.Applied Sciences,9(21): 4588,doi: $1 0 . 3 3 9 0 / \\mathrm { a p p } 9 2 1 4 5 8 8 .$   \nJoshi GR.2018.Agricultural economyof Nepal: Development challnges &opportunities.Kathmandu: Sustainable Research & Development Center, 374.   \nKafle HK.2O14.Spatial and temporal variationof drought in farand mid-westerregionsof Nepal: Time series analysis (1982- 2012). Nepal Journal of Science and Technology,15(2): 65-76.   \nKansakarSR,HanahDM,GerrardJ,etal.O4.Spatialpaternintheprecipitationregimeof Nepal.InterationalJoualof Climatology,24(13): 1645-1659.   \nKarkiM,MoolP,Shrestha A.2Oo9.Climate change and its increasing impacts in Nepal.The Initiation,3:30-37.   \nKhanJU,IslamAS,Das MK,etal.220.Futurechanges in meteorological droughtcharacteristicsoverBangladesh projectedby the CMIP5 multi-model ensemble.Climatic Change,162: 667-685.   \nKhanalU,WilsonCHoangV-,etal.2O18.Farmers'adaptationtocimatechange,itsdeterminantsandimpactsonriceieldin Nepal. Ecological Economics,144: 139-147.   \nKhatiwada KR,PandeyVP.2O19.Characterizationof hydro-meteorologicaldroughtinNepal Himalaya:Acaseof Karnali River Basin.Weather and Climate Extremes,26:100239,doi: 10.1016/j.wace.2019.100239.   \nLiL,She D,Zheng H,etal.2O2o.Elucidatingdiversedroughtcharacteristicsfromtw meteorological droughtindices (Pand SPEI) n China. Journal of Hydrometeorology,21(7): 1513-1530.   \nLiu X,WangS,Zhou Y,etal.2Ol5.Regionalizationand spatiotemporal variationof drought in China basedonstandardized precipitation evapotranspiration index (1961-2013).Advances in Meteorology,2015,doi:10.1155/2015/950262. LIuA， INUIuI Ca rla. JouiHaI UI Hydrology, 564: 984-996.   \nLivadaIAsimakopoulos V.oo7.Spatialandtemporalanalysisofdroughtin GreeceusingtheStandardized PrecipitationIdex (SPI). Theoretical and Applied Climatology,89(3-4): 143-153.   \nMal G.2O08.Climate changeand its impact on Nepaleseagriculture.Joumal of Agriculture and Environment,9: 62-71.   \nMantonMJ,Dell-MartaPM,HaylockMR,etal2Oo1.Tends inextremedailyainfaland temperature inoutheastAsiaand the South Pacific:1961-1998.International Journal of Climatology,21(3): 269-284.   \nMcKee TB,DoeskenN,KleistJ.1993.Therelationshipof drought frequencyanddurationtotime scales.In:Procedingsof the ${ 8 ^ { \\mathrm { { u } } } }$ Conference on Applied Climatology. Anaheim: American Meteorological Society,179-183.   \nMishra A K, Singh VP.2010.Areview of drought concepts.Journal of Hydrology,391(1-2): 202-216.   \nMohsenipourM,ShahidS,Chung E,et al.2018.Changing patternof droughts during cropingseasons of Bangladesh.Water Resources Management, 32(5): 1555-1568.   \nNCVST(Nepal Climate Vulnerability Study Team).2O09.Vulnerability through the eyes of vulnerable: Climatechange induced uncertaintiesandNepal'sdevelopmentpredicaments.Kathmandu: InstituteforSocialandEnvironmentalTransition-Nepal,95.   \nNeupane N,MurthyMSR,RasulG,etal.2Ol3.Integratedbiophysicalandsocioeconomic modelforadaptationtoclimate change for agriculture and waterin the Koshi Basin.In:Leal Filho W.Handbook of Climate Change Adaptation.Berlin: Springer,1-77.   \nNijsen B,ODonnell GM,HamletAFetal.2o1.Hydrologicsensitivityof global rivers toclimatechange.ClimaticChange, 50(1-2): 143-175.   \nNorbu N.2O04.Invasion success of Chromolaenaodorata in the Teraiof Nepal.Enschede:Geo-Information Science, International Institute for Geo-information and Earth Observation (ITC),41.   \nPai D,SridarL,Guhathakurta P,etal.2O1.District-widedrought climatologyof thesouthwestmonsoonseasonover India based on standardized precipitation index (SPI).Natural Hazards,59(3): 1797-1813.   \nPalmerWC.1965.MeteorologicalDrought,Research PaperNo.45.Washington,DC:Oficeof Climatology,US WeatherBureau, 58.   \nPalmer WC.1968.Keeping track of crop moisture conditions,nationwide: The NewCrop Moisture Index. Weatherwise, 21(4): 156-161.   \nPaudyal KR,RansomJK,AdikariK,etal.2O1.MaizeinNepal: ProductionSystems,Constraints,ndPrioritiesforesearch. Kathmandu: Nepal Agricultural Research Council, International Maize and Wheat Improvement Center,48.   \nPeiZ,Fang S,WangL,etal.2O2o.Comparativeanalysisof drought indicatedbytheSPIand SPEIatvarious timescalesinnner Mongolia,China.Water,12(7):1925,doi: 10.3390/w12071925.   \nPentonD,NeumannL,DoodyT,etal.2O16.PreliminaryanalysisofhydroclimateandstreamflowmodelingintheKoshiBasin: Climate，hydrology，ecologyand institutional seting.In:Sustainable Development InvestmentPortfolio(SDIP）Project. Canberra: CSIRO, 68.   \nPetersonTC,StottPA,HerringS.2O12.Explaining extreme events of211fromaclimate perspective.BuletinoftheAmerican Meteorological Society, 93(7): 1041-1067.   \nPortela M,SivaA,antosJ,etal.2O7.AssessngtheuseofSPIindetectingagricuturalandhydrologicaldroughtsndteir temporal cyclicity: some Slovakian case studies.European Water, 6O: 233-239.   \nPotop V,Boroneant C,MznyM,etal.2O14.Obseredspatiotemporalcharacteristicsofdroughtonarioustimescalesoverthe Czech Republic.Theoretical and Applied Climatology,115(3-4): 563-581.   \nPrabnakom S,MaskeyS,SuryadiF,etal.2O18.Riceyieldinresponse toclimate trendsanddrought indexinthe Mun River Basin,Thailand. Science of the Total Environment, 621: 108-119.   \nSalmiT,MaataA,AntilaPetal.2O.DetectingtrendsofnualvauesofatmospericpolutatsbytheMan-Kendallttad Sen's slope estimates-the excel template application MAKESENS.Helsinki: Finnish Meteorological Institute,35.   \nSapkotaP,KeenanRJ,PaschenJA,etal.2Ol6.Social productionofvulnerabilitytoclimatechange intherural middlehillsf Nepal. Journal of Rural Studies,48: 53-64.   \nSaraviMM,Safdari A,Malekian A.2O9.Intensity-duration-frequencyandspatial analysisof droughtsusing thestandrdized precipitation index.Hydrology & Earth System Sciences Discussions,6(2),doi:10.5194/hessd-6-1347-2009.   \nShafer B,DezmanL.1982.Developmentofasurface water supply index (SWSI) toasess the severityofdrought conditions in snowpack runoffareas.In: Proceedingof the Western Snow Conference.Reno,NV: Colorado State University,164-175.   \nSharmaE,MoldenD,RahmanA,etal.2O19.Introduction tothe Hindu Kush Himalayaasessent.In:WesterP,MishraA, of-linesimulationof theterestrial hydrologiccycle.Journalof Geophysical Research:Atmospheres，12(D17)，doi: 10.1029/2006JD008288.   \nShrestha AB,Wake CP,MayewskiPA,etal.199.Maximumtemperature trends inthe Himalaya and its vicinity:ananalysis based on temperature records from Nepal for the period 1971-94.Journal of Climate,12(9): 2775-2786.   \nShresthaAB,WakeCP,DibbJE,etal.2Oo.Precipitationfluctuations inthe Nepal Himalayaanditsvicinityandrelationsip with some large scale climatological parameters.International Journal of Climatology,2O(3): 317-327.   \nShrestha A B,Bajracharya SR,Sharma AR,etal.2O17.Observed trendsand changes in daily temperatureand precipitation extremes over the Koshi river basin 1975-20l0.International Journal of Climatology,37(2):1066-1083.   \nShresthaNK,QamerFM,Pedreros D,etal.2Ol7.EvaluatingtheacuracyofClimate HazardGroup(CHG)sateliterainfall estimates forprecipitationbased droughtmonitoring inKoshi basin,Nepal.Joural of Hydrology:Regional Studies,3:138- 151.   \nSigdelM,Ikeda M.2010.Spatialand temporal analysisof drought in Nepalusing standardized precipitation indexand its relationship with climate indices.Journal of Hydrology and Meteorology,7(1):59-74.   \nSigdelM,Ikeda M.2O12.Seasonalcontrastinprecipitationmechanismsover Nepal deduced fromrelationship withthe large-scale climate patterns.Nepal Journal of Science and Technology,13(1): 115-123.   \nSpinoni J,NaumannG,CarroH,etal2Ol4.Worlddroughtfrequencyduration,andseverityfor951-20l0.Inteational Journal of Climatology,34(8): 2792-2804.   \nStaggeJH,TalaksenM,XuCY,etal.4.Sdardedprecipiationevapotranspratinidex(SPE):ensitivityetial evapotranspirationmodelandparameters.In:Hydrology ina Changing World.Montpelier:International Asociationof Hydrological Sciences,367-373.   \nTamBY,SzetoK,BonsalB,etal.2019.CMIP5droughtprojectionsinCanadabasedonthe StandardizedPrecipitation Evapotranspiration Index. Canadian Water Resources Journal,44(1): 90-107.   \nTan C,Yang J,LiM.2015.Temporal-spatial variationof drought indicatedbySPIand SPEIin ingxia Hui AutonomousRegion, China. Atmosphere,6(10): 1399-1421.   \nThornthwaite C W.1948.Anapproach toward a rational clasification of climate. Geographical Review,38(1): 55-94.   \nTouma D,Ashfaq M,Nayak MA,et al.2Ol5.Amulti-model and multi-indexevaluationof droughtcharacteristics in the $2 1 ^ { \\mathrm { s t } }$ （204号 century. Journal of Hydrology, 526: 196-207.   \nTrenberth K,MeehlJ,Masters J,etal.2O11.Currnt Extreme Weatherand Climate Change.Colorado: Climate Communication Science and Outreach,28.   \nTrenberth KE.2011.Changes in precipitation with climate change. Climate Research,47(1-2):123-138.   \nvan Rooy M.1965.A rainfall anomaly index independent of time and space.Notos,14: 43-48.   \nVicente-Serrano SM,BegueriaS,López-Moreno JI.2l0.A multiscalardrought indexsensitive toglobal warming:the standardized precipitation evapotranspiration index.Journal of Climate, 23(7): 1696-1718.   \nVicente-SerrnoSM,Begueria S,Lopez-MorenoJI.20l1.Commenton \"Characteristicsand trends invariousformsof he Palmer Drought SeverityIndex (PDSI)during190-2008\"byAiguoDai.Atmosphere,116(D19),doi:10.1029/2010JD015541.   \nVicente-SerraoSgueria,renLcruJ,etal..Perfanceofoughtdicsforolgicalagicluald hydrological applications. Earth Interactions,16(1O): 1-27.   \nVicente-SeranoMope-renoJegueriaS,tal.4.Evidenceoficreasingdroughtseveritycusedbyature rise in southern Europe.Environmental Research Letters,9(4): 044001,doi: 10.1088/1748-9326/9/4/044001.   \nWanders N,Wada Y.2O15.Human and climate impacts on the $2 1 ^ { \\mathrm { s t } }$ century hydrological drought.Journal of Hydrology,526: 208- 220.   \nWangH,Vicente-Serrno SM,TaoF,etal.2Ol6.Monitoringwinterwheat droughtthreatinNorthern Chinausingmultiple climate-based drought indices andsoil moisture during 20o0-2013.AgriculturalandForest Meteorology,228-229:1-12.   \nWangJ,inH,HuangJ,etall9.Varatiosofroughttedencyfrequcydharacteristicsdteiresposetate change under CMIP5 RCP scenarios in Huai River Basin,China. Water,11(1O): 2174,doi:10.3390/w11102174.   \nWang Q,WuJ,LeiT,etal.014.Temporal-spatialcharacteristicsofsevere droughteventsandtheir impactoagricultureoa global scale. Quaternary International, 349:10-21.   \nWang SY,YoonJH,GiliesRR,etal.2Ol3.Whatcausedthewinterdroughtinwestern Nepalduringrecentyears?Joualof Climate,26(21): 8241-8256.   \nWangY,Quan Q,ShenB.2O19.Spatio-temporalvariabilityofdroughtandeffectoflargescaleclimate inthesourceregionof Yellow River. Geomatics,Natural Hazards and Risk,1O(l): 678-698.   \nWilhiteDA,GantzMH.1985.Understanding:theroghtphenomenon:theroleofefinitions.WaterInterational,0(): 120.   \nWilhite DA.2Ooo.Drought asanatural hazard:Conceptsanddefinitions.In:WilhiteDA.Drought:A Global Assessment. London: Routledge,3-18.   \nWilhite DA.2Oo5.Drought and Water Crises: Science,Technologyand Management Isses.Boca Raton:Taylor&Francis Group,432.   \nWMO（World Meteorological Organization).2012.StandardizedPrecipitation Index User Guide.WMO-No.1090.Geneva: WMO, 16.   \nWMO（World Meteorological Organization)，GWP(Global WaterPartnership).2016.Handbook of Drought Indicatorsand Indices.WMO/GWP Integrated Drought Management Programme (IDMP).WMO-No.1173.Geneva,Switzerland: WMO,and Stockholm, Sweden:GWP.   \nWu H,XiongD,LiuB,etal.2O19.Spatio-temporalanalysisof droughtvariabilityusingCWSIinthe KoshiRiverBasin (KRB). International Journal of Environmental Research and Public Health,16(17): 3100,doi:10.3390/ijerph16173100.   \nXuCY,Singh VP.2Oo1.Evaluationandeneralizationof temperature-based methodsforcalculating evaporation.Hydrological Processes,15(2):305-319.   \nYang MJ,YanDH,YuYD,etal.216.SPE-based spatiotemporalanalysisofdrought inHaiheRiverBasin from1961to2010. Advances in Meteorology,2016: 7658015,doi: 10.1155/2016/7658015.   \nZuo D,CaiS,XuZ,etal.2Ol8.Spatiotemporalpaternsofdroughtatvarious timesalesinShandongrovinceofEasteChina. Theoretical and Applied Climatology,131(1-2): 271-284. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

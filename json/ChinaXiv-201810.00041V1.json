@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "基于存储改进的分区并行关联规则挖掘算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王永贵，谢南，曲海成(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于关联规则在大数据挖掘领域正引起广泛关注，算法的重点及难点就是挖掘频繁集。针对现有算法存储结构简单、生成大量冗余的候选集、时间和空间复杂度高，挖掘效率不理想的情况。为了进一步提高关联规则算法挖掘频繁集的速度，优化算法的执行性能，提出基于内存结构改进的关联规则挖掘算法。算法基于 Spark 分布式框架，分区并行挖掘出频繁集，提出在挖掘过程中利用布隆过滤器进行项目存储，并对事务集和候选集进行精简化操作，进而达到优化挖掘频繁集的速度、节省计算资源的目的。算法在占用较少内存的条件下，相比于YAFIM和MRApriori算法，在挖掘频繁集效率上有明显地提升。算法不但能较好提升挖掘速度，降低了内存的压力，而且具有很好的可扩展性，使得算法可以应用到更大规模的数据集和集群，从而达到优化算法性能的目的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：关联规则；大数据；候选集；布隆过滤器；Spark 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.06.0396 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Partitioned parallel association rules mining algorithm based on storage improvement ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Yonggui, Xie Nan†, Qu Haicheng (SchoolofSoftware LiaoningTechnical University,Huludao Liaoningl251o5,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Associationrulesareattracting wide atention inthe fieldofbigdata mining.The keyand diffcult pointof the algorithmis tomine frequentsets.Inorderto furtherimprove thespeedoftheassociationrules miningfrequentsetsandoptimize the execution performance of the algorithm,an asociation rule mining algorithm based on improved memory structure is proposed.For the existing algorithm,the storage structure is simple,thecandidate set with a large amountofredundancyis generated,thetimeandspacecomplexityishigh,andtheminingeffciencyisnotideal.Thealgorithmofthispaperisbasedon the Spark distributed framework.Thepartitions are mined in paralel to extract frequentsets.It is proposed tousethe Bloom filter tostoretheprojectinthemining processandtosimplifytheoperationofthetransactionsetandthecandidateset,soas to optimize the speed of mining frequent sets.Savecomputing resources.Compared with the YAFIM algorithm and the MRApriori algorithm,thealgorithmhas asignificant improvementinthe efciencyof mining frequentsets under thecondition of occupying lessmemory.The algorithm can notonly improve the mining speed,reduce the memory pressure,but also has good scalability,sothat thealgorithmcanbeappliedtolargerdatasetsandclusters,soas tooptimize theperformanceof the algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:association rule; big data;bloom fileter; Spark ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关联规则起初是用来发掘购物篮中商品间的有趣关系，逐渐地成为数据挖掘的重要方法之一[1。关联规则的目的是找出隐藏在大数据中的商品关系，重点是找出大数据集中的频繁项集，即那些频繁共同出现的商品集合。关联规则中最经典、影响最大的算法就是Agrawal等人提出的Apriori算法[2]，通过逐层搜索的迭代方式进行频繁项的挖掘，能够快速精准的挖掘出关联规则。随后出现了大量Apriori改进算法，但是都采用串行的方式，只有当提供的数据集很小时才会有较好的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着大数据时代的到来，集合中元素的增加，需要的存储空间越来越大，检索速度也越来越慢。各种单机的Apriori算法已经不能满足人们对时间和效率的需求。研究者们发现Apriori算法具有高并行性的可能性，因此，为了更高效地挖掘频繁集，引入了并行算法[3\\~5]。基于集群的关联规则算法能够提高处理事务数据集的效率，但是算法结构复杂，而且存在同步、数据复制等问题。研究发现基于MapReduce 进行关联规则，挖掘频繁集效率更好，随后并行算法被MapReduce 所取代，Apriori 算法基于",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MapReduce 的实现[6\\~8]被提出，与传统的Apriori 算法相比显示出高性能增益。ApacheHadoop[是作为MapReduce 模型的最佳平台之一。文献[10,11]基于 Hadoop 平台实现的 Apriori 算法，这些算法以MapReduce 的方式对Apriori算法进行并行化处理，用HDFS存储数据集，在海量数据中发现频繁项集，实验表明该算法明显优于之前 Apriori 传统算法。但是基于Hadoop 的 Apriori算法的实现仍然存在一些限制。在Hadoop平台上，每次迭代后都会将结果存储到HDFS中，并从HDFS中获取输入以进行下一次迭代的过程导致性能降低。文献[12]中还指出Hadoop 中MapReduce在迭代计算时任务启动和磁盘I/O开销过大使得执行效率降低，后来研究者们提出了Spark平台，可以很好地解决这些难题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spark[13]平台通过使用弹性分布式数据集架构RDD 解决了这些问题，该架构在迭代结束时将结果存储在本地缓存中，并将它们提供给下一次迭代。对此提出基于Spark平台来改进Apriori算法，Spark 将数据基于内存计算，克服了上述Hadoop 平台存在的问题，使其更加适用于在线、迭代和数据流算法。基于 Spark平台，Zhang 等人[14]提出了一种分布式频繁项目集挖掘算法用于大数据分析，效果远远好于基于Hadoop 平台实现的Apriori算法。上述算法基于线性表、链表、树等数据结构，这些数据结构，数据记录在结构中的相对位置是随机的，查找时进行大量关键字之间的比较，查找效率过于依赖查找过程中所进行的比较次数，随着数据量的增长，效率都将下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Qiu 等人[15]提出了YAFIM算法，基于Spark 框架对大数据分区并行挖掘频繁集。该算法把候选集存储在哈希树中，被认为是目前较好的 Apriori 算法。实验结果发现YAFIM比基于Hadoop平台的算法要快很多倍。但是基于哈希树存储改进的Apriori 算法需要先自连接生成候选集，再把候选集存储在哈希树中。当数据集大时，哈希函数很容易发生地址冲突，需要大量内存来完成每次迭代，第二次迭代出现最多候选集时内存占用尤为严重，严重影响算法效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在数据量很大的情况下，对数据结构中项目集的频繁增加和删除，容易导致数据结构退化为链表结构，当进行迭代过程，大量数据存储在内存中会对服务器造成巨大压力，挖掘频繁集性能必然将下降。因此，如何高效地判断一个项目是否在数据集中是提升算法执行速度的关键。布隆过滤器在底层只会使用几个bit来代表这个元素，并且对项目插入和查询时间都是常数，因此布隆过滤器在空间和时间方面有巨大的优势，方便Apriori算法的并行实现。基此提出把布隆过滤器应用到Apriori算法中，用布隆过滤器来改进Apriori算法存储结构，可以高效判断项目是否存在于数据集中。算法基于Spark分布式框架，对大数据集进行分区处理，随机分割成大小相似、非重叠的分区数据集，然后并行获取频繁集。本文算法可以明显节省内存空间的同时很好地提高数据处理的效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Apriori算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apriori算法是一种挖掘布尔关联规则频繁模式集的算法[16]，首先遍历一次事务数据库，对所有一项集的计数，然后过滤到小于最小支持度的一项集，得到频繁一项集 $\\mathrm { L } _ { 1 }$ ；然后进行迭代，由频繁k-1项集 $L _ { \\mathrm { k - 1 } }$ 进行连接剪枝生成候选k项集 $\\mathrm { C _ { k } }$ ；最后过滤掉小于最小支持度的候选集得到频繁 $\\mathbf { k }$ 项集 $\\mathrm { L } _ { \\mathrm { k } }$ ，直到 $\\mathrm { L } _ { \\mathrm { k } }$ 为空时停止迭代，输出规则。算法主要思想就是通过定理1进行逐层搜索的迭代方式获取频繁集的过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定理1若一个模式不是频繁的，那么该模式的所有超集也都不是频繁模式.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有的关联规则算法的数据结构简单，当处理大事务数据集时效率过低；所有事务始终位于文件系统或数据库，每次迭代都需要扫描事务数据库；Aprori算法挖掘频繁集时，会生成大量项目集合，导致I/O开销过大且系统资源占用过多，因此时间性能和效率都很差。第二次迭代时，频繁一项集有n个，自连接会生成2\"个候选二项集集合，候选集数量和占用计算资源是整个挖掘过程中最多的，过多导致算法第二次迭代挖掘频繁集过程耗时过久甚至无法继续运行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Spark 平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spark 是一个围绕速度、易用性和复杂分析构建的大数据处理平台，提供全面、统一的框架。Spark为交互式查询和迭代算法而开发，通过大数据查询的延迟计算，可以优化大数据处理流程中的处理步骤，支持内存式存储和高效的容错机制，将中间结果保存在内存而不是写入磁盘，使得MapReduce 提升到更高层次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在Spark平台下，将需要多次迭代的机器学习算法并行化，减少算法的时间复杂度和空间复杂度，在标准数据集上得到更高效的结果，这使得 Spark 平台适合实现Apriori 算法。本文算法基于Spark大数据框架构建的分布式平台来改进Apriori算法，保证结果精确度的同时，解决了单机内存资源受限问题，并很好地提升了时间性能。在大数据背景下，算法能快速的、精准的进行关联规则挖掘。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3布隆过滤器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "布隆过滤器(Bloomfilter)[17]是由一组很长的二进制向量和一系列随机散列函数组成的随机数据结构，这种数据结构用于判断一个元素是否在集合内。现构建一个长度为M位的数组布隆过滤器，且所有位都初始化0、一组哈希函数$\\mathrm { H } ( \\mathrm { x } ) { = } \\{ \\mathrm { h } _ { 0 } ( \\mathrm { x } ) , \\mathrm { h } _ { 1 } ( \\mathrm { x } ) , \\mathrm { h } _ { 2 } ( \\mathrm { x } ) . . . \\} $ 、事务 $\\scriptstyle \\mathrm { T = \\{ A , B , C \\} }$ ，事务中每个项目都通过K个不同的hash函数随机散列到数组的K个位置上，并将这些位置置为1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现要判断项目w是否在该事务T中，通过hash函数将事务w 映射成位阵列中的点，只要看这些点是否都为1就知道元素是否在集合中。假设项目 $\\mathbf { w }$ 通过三个哈希函数进行散列，发现出现有地址值为0，可判断元素w不属于该集合，示例如图1所",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4481cad8270f5f2e6d6cfb68169605b3e406bf2cd29d1b6d3f27d3772eea3318.jpg",
+        "img_caption": [
+            "图1布隆过滤器示例图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "布隆过滤器在判断一个项目是否属于该事务时，可能出现误判（falsepositive），即项目并不属于该事务但经过哈希散列后值都为1。项目经映射后值都为1的概率 $\\mathfrak { p }$ （误判率）为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = \\left[ 1 - \\left( 1 - \\frac { 1 } { M } \\right) ^ { K n } \\right] ^ { K } \\approx \\left( 1 - e ^ { - K n / M } \\right) ^ { K }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化简为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = e ^ { \\left[ K l n ( 1 - e ^ { - K n / M } \\ ) \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令g为令q为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng = K \\ln ( 1 - e ^ { - K n / M } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { q } = e ^ { - K n / M }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以将g改写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng = - \\frac { M } { n } \\ln ( q ) \\ln ( 1 - q )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据对称法则可以得到当 $\\mathtt { q } = 0 . 5$ 时，即当 $\\mathrm { K n } / \\mathrm { M } { = } \\mathrm { l n } 2$ 时，p取得最小值。本文算法根据上述条件，自适应数据集，根据频繁一项集数目自适应选择哈希函数个数K与数组大小M，进而减少不必要的散列操作，避免浪费时间空间且误判率最小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1候选集的精简化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法基于Spark框架，生成候选集的过程，首先压缩事务集，因为 $C _ { \\mathrm { k } }$ 一定是由 $\\mathbf { k }$ 个项目组成，所以事务中项目个数小于$\\mathbf { k }$ 时，无法生成候选集 $C _ { \\mathbf { k } }$ ，删除掉包含项目个数小于k的事务；然后压缩事务中的项目，根据定理2只保留存储在布隆过滤器中的频繁单项集，通过一个map()函数把这些频繁单项集组成所有可能的 $\\mathbf { k }$ 项集；最后根据推论1压缩 $\\mathbf { k }$ 项集，过滤掉出现次数不等于 $\\mathbf { k } ( \\mathbf { k } { - } 1 ) / 2$ 的 $\\mathbf { k }$ 项集。本文算法不再进行冗余的连接步和剪切步来生成候选集，精简了事务集和候选集，从而减少每次迭代时需要扫描的事务、项目和候选集的数量，进而可以达到提升挖掘效率并节省计算资源的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理2 一个频繁集的所有非空子集都是频繁集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "推论1 一个频繁 $\\mathbf { k }$ 项集 $\\mathrm { L } _ { \\mathrm { k } }$ ，由 $\\mathbf { k }$ 个k-1项集的构成，且出现了 $\\mathbf { k } ( \\mathbf { k } { - } 1 ) / 2$ 次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明假设一个频繁三项集{A,B,C}可仅由两个频繁二项集{A,B}、{A,C}构成，这样{A,B,C}仅出现一次，即得出{B,C}不为频繁集，与定理2不符。所以 $\\{ \\mathrm { A , B , C } \\}$ 必由{A,B}、{A,C}、{B,C}构成即{A,B,C}出现三次，频繁 $\\mathbf { k }$ 项集（ $k { > } 3$ ）依然如此，所以推论成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2算法实现 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文算法基于Spark 内部运行机制，读入HDFS 的事务数据集加载到SparkRDD中，充分利用集群内存实现对弹性数据集RDD的并行计算，将数据集以RDD的形式存储，利用textfile算子扫描指定数据集并设置分片数，把数据集分为大小相似、非重叠的数据块，并分配到每个work 节点进行处理。整个Spark编程框架均是基于RDD 操作，结合 flatMap、map、reduceByKey、filter 等算子进行挖掘频繁集，使用scala语言进行编写。挖掘频繁集过程中把频繁集中的每个项目存储到布隆过滤器中。挖掘频繁集流程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d28ecdfcbe61df62625e47cc098e4c3b3cf41b2a4b9db0ead641c5c818feab32.jpg",
+        "img_caption": [
+            "图2频繁集挖掘的流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "挖掘过程分为频繁一项集的获取和迭代生成频繁 $\\mathbf { k }$ 项集俩个阶段。第一阶段寻找出所有的频繁一项集，读入HDFS 中的待读取数据集。首先将flatMapO函数应用于数据集中的每个分区数据集得到每个事务，再对于每个事务再应用flatMap()函数得到每一个项目；然后对每一项目应用 map()函数生成<key,value>键值对，其中key表示事务中的每个项目，value为这个事务的所有项目，本文将value设为1，根据关键字通过reduceByKey()函数得到项目的计数<item,count>；最后通过filter()函数筛选出大于最小支持度阈值的项目，结果存储在SparkRDD 并把频繁一项集存在布隆过滤器中。算法1为获取频繁一项集的算法，图3展示了频繁一项集生成的示例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1获取频繁一项集  \n频繁一项集的获取  \n输入：数据集D，最小支持度 min_sup  \n输出：频繁一项集L1  \n1:for each Transaction T∈D  \n2: flatMap(T.split(\"\"))  \n3: for each itemi∈T  \n4: yield(i，1)  \n5: end flatMap  \n6: soreAtRDD1  \n7: RDD2 $\\mathrel { \\mathop : } =$ RDD1.reduceByKey(_+_)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8： for each tuple $\\mathfrak { t } \\in$ RDD2   \n9: flatMap(t，count)   \n10: if t.count $> =$ min_sup   \n11: yield(t，count)   \n12: end flatMapO   \n13: storeAtRDD3 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/db0306844b6d73a862e5944b86b9155af72436efccc106113d18be8190deba9d.jpg",
+        "img_caption": [
+            "图3频繁一项集的生成的示例图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二阶段开始进行迭代，由频繁k-1项集生成 $\\mathbf { k }$ 项集。首先对 RDD 中待处理的数据集应用 flatMap()函数，获取数据集中的每个事务，对每个事务应用map()函数进行修剪，删除掉项目个数小于 $\\mathbf { k } { + } \\mathbf { l }$ 的事务，并且事务仅包含Bloom过滤器中存在的项目集；对修剪后的事务应用map()函数产生所有可能的 $\\mathbf { k }$ 项集配对，生成<key,value>键值对，其中key 表示事务中的k项候选模式，value是事务中所有的 $\\mathbf { k }$ 项候选模式集合，将它设为整数1，并只保留出现次数为 $\\mathbf { k } ( \\mathbf { k } { + } 1 ) / 2$ 的 $\\mathbf { k }$ 项候选集；根据关键字通过reduceByKey()函数组合所有键值对，并得到每个候选模式的计数，格式为<itemset,count>；最后通过filter()函数筛选出频率大于最小支持值的集合，把频繁 $\\textstyle \\mathrm { K } { + } 1$ 项集存储在 SparkRDD和布隆过滤器中。当不再有频繁集生成时迭代结束，合并所有的频繁集合。算法2为获取频繁一项集的算法，图4展示了频繁二项集生成的示例。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b52952a979094bfc89735404c2873440763e5e9eda1522bd4ecd49831cfb2874.jpg",
+        "img_caption": [
+            "图4频繁二项集生成的示例图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2频繁k项集获取频繁k项集的获取",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：事务数据库D，频繁k-1项集Lk-1输出：频繁k项集Lk",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1: Lk-1.storeInBloomFilter   \n2: for each Transaction $\\mathrm { T } \\in \\mathrm { D }$   \n3： flatMap(T.split(\"\"))   \n4: item=intersect(T,Lk-1)   \n5: C=map(item $\\mid = >$ (itemSet,1))   \n6: for each itemSet $\\mathsf { s } \\in \\mathbf { C }$   \n7: Ck=intersect(C，s.count=k(k-1)/2))   \n8: end flatMap   \n9: soreAtRDD1   \n10: for each Transaction T∈D   \n11: flatMap(T.split(\"\"))   \n12: CT=subset(Ck，T)   \n13: for each canadiate $\\mathsf { c } \\in \\mathbf { C } \\mathrm { T }$   \n14: yield(c，1)   \n15: end flatMap   \n16: soreAtRDD1   \n17: RDD2=RDD1.reduceByKey(_+_)   \n18: for each itemSet $\\in$ RDD2   \n19: flatMap(itemSet，count)   \n20: if itemSet.count $\\scriptstyle > =$ min_sup   \n21: yield(itemSet，count)   \n22: end flatMap(   \n23: storeAtRDD3 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3算法的复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第K次迭代，由频繁K-1项集生成频繁K项集，频繁K-1项集 $\\mathrm { L } _ { \\mathrm { k - 1 } }$ 的个数为f，假设有 $\\textbf { x }$ 个事务， $\\mathbf { m }$ 个Mapper，每个事务中的平均项目个数为 $\\mathbf { g }$ ，n为k次迭代生成的候选集个数，t为在哈希树中搜索一个元素花费的时间，t2为在布隆过滤器中搜索一个元素花费的时间，t为压缩过程所花时间，每个候选集占 $\\mathbf { b } _ { 1 }$ 个字节，每单个项目占b2个字节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第K次迭代，由频繁K-1项集生成频繁K项集，假设f为的频繁K-1项集个数，候选K项集 $C _ { \\mathrm { k } }$ 的个数为 $\\mathfrak { n }$ ，有 $\\textbf { x }$ 个事务，m个Mapper，每个事务中的平均项目个数为 $\\mathrm { \\bf ~ g }$ ，，t为在哈希树中搜索一个元素花费的时间，b为在布隆过滤器中搜索一个元素花费的时间。压缩时间c",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1时间复杂度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生成候选集的时间（连接和剪切的总时间）T1，候选集存储到哈希树中的时间T2，生成键值对的时间T3，基于哈希树改进算法进行第K次迭代花费的时间为O(Ta）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生成候选集的时间为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT l = K ^ { * } n ^ { f }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "存储候选集到哈希树中的时间为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT 2 = K * n ^ { f }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "搜索和生成键值对的时间为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT 3 = \\frac { x } { m } * t _ { 1 } g\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "哈希树改进算法的第 $\\mathrm { ~ K ~ }$ 次迭代的时间复杂度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT a = O ( 2 K n ^ { f } + \\frac { x } { m } * t _ { 1 } g )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "存储频繁单项集在布隆过滤器中的时间T4，剪切事务的时间T5，生成键值对的时间T6，利用布隆过滤器改进算法花费时间为O(Tb)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "频繁一项集存储在布隆过滤器中的时间：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT 4 = t _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进行事务剪枝的时间：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT 5 = \\frac { x } { m } * g + t _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在最糟糕的情况下生成键值对的时间：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT 6 = { \\frac { x } { m } } * n ^ { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "布隆过滤器改进算法第K次迭代时间复杂度：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT { \\bf b } = O ( t _ { 2 } + t _ { 3 } + { \\frac { x } { m } } * \\left( n ^ { g } + g \\right) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在大数据前提下， $\\mathbf { k }$ （迭代次数）， $\\mathbf { t } _ { 1 }$ （哈希树中搜索一个元素花费的时间）， $\\mathbf { t } _ { 2 }$ （布隆过滤器中搜索一个元素花费的时间），t（事务和项目压缩的时间)都相对于其他值过小可以忽略不计，在迭代过程中 $\\mathfrak { n }$ 和f存在如下关系：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn = { \\frac { f ( f - 1 ) } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在大数据环境下 $\\mathfrak { n }$ 特别大，因此f关于 $\\mathfrak { n }$ 的关系式可以化简得到",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = { \\sqrt { 2 } } n\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ta-Tb可化简为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 K n ^ { \\sqrt { 2 } n } + \\gamma \\prime _ { m } \\times t _ { 1 } g - \\gamma \\prime _ { m } \\times n ^ { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第二次迭代时候选集过大， $\\sqrt { 2 } n > > g$ 即 $\\scriptstyle \\mathrm { { T a } > > \\mathrm { { T b } } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由此可以得出，改进算法的时间复杂度远远低于YAFIM算法的时间复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2空间复杂度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "YAFIM算法的空间复杂度是生成候选集和创建哈希树存储候选集所占内存的和。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "存储候选集的空间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\big ( \\mathrm { c } ^ { f } \\left( \\mathbf { k } + \\mathbf { l } \\right) \\times b _ { \\mathrm { 1 } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "创建一个hash 树空间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO \\big ( \\boldsymbol { k } \\times \\boldsymbol { c } ^ { f } \\times \\boldsymbol { b } _ { 2 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Apriori算法总体空间复杂度",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\left( c ^ { f } \\left[ k ( b _ { _ { I } } + b _ { _ { 2 } } ) + b _ { _ { I } } \\right] \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法在布隆过滤器中存储频繁集当中的单个项目，空间复杂度为 $0 { \\left( b _ { _ { 2 } } \\times f \\right) }$ 。本文算法的空间复杂度远远小于Apriori 算法的空间复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验选择了六个特点不同的大数据集，如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验环境",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验的软件环境为64位Ubantu14.04Linux操作系统、JDK-",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.8Hadoop-2.6.0 Scala-2.12.1 Spark-1.6.1Python-3.6.3 Anaconda ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.0；硬件环境为Intelcorei7-6500U8GB内存1T硬盘。采用8台计算机搭建 Spark集群运行环境，集群共8个节点，把其中一台计算机设为master节点，其他7台机器设为slave 节点，每个节点8个cores，64GBRAM。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/519014242e70f599c8deb4b0f8bf6cdc7af9c7df642eb5bc89eed2ed3ceb9127.jpg",
+        "table_caption": [
+            "表1数据集表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>事务个数</td><td>项目个数</td></tr><tr><td>T1014D100K</td><td>100000</td><td>870</td></tr><tr><td>Retail</td><td>88163</td><td>16470</td></tr><tr><td>Musroom</td><td>8124</td><td>119</td></tr><tr><td>Kosarak</td><td>990002</td><td>41270</td></tr><tr><td>BMSWebView2</td><td>77512</td><td>3340</td></tr><tr><td>T25110D10K</td><td>4900</td><td>990</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 可扩展性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可扩展性[18]实际上是与并行算法以及并行计算机体系结构放在一起讨论的，某种算法在某个机器上的可扩展性反映该算法是否能有效利用不断增加的cores[19]。本文研究可扩展性的目的就是要使算法可以利用更多的处理器，并且可以预测当某个算法移植到大规模处理机上的运行效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验用增加逻辑核core的个数和数据集的复制倍数的方式，观察算法对不同数据集的执行时间，判断该算法的可执行性和可扩展性。本文选用了Retail、Musroom、Kosarak、BMSWebView2数据集进行实验，实验结果如图5、6所示。图5表示随着逻辑核个数的增加，执行时间几乎是呈现线性减少趋势；图6表示随着数据集复制倍数的增加，执行时间几乎是呈现线性增加的趋势，实验结果说明该算法是具有可执行性和可扩展性的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e83f0190d4b5a93d8adb4374bb9b4df104dd63a85621354ecc7811f9f7c954e.jpg",
+        "img_caption": [
+            "图5随着逻辑核个数的增多，算法执行时间的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/53dbc563a9659e75f37d40108e9a8d54adeea0d0d96901a0518356bbc4cc0e75.jpg",
+        "img_caption": [
+            "图6随着数据集复制倍数的增多，算法执行时间的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4对比实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比实验选用基于Hadoop 的经典算法 MRApriori 算法、基于Spark上实现的YFAIM算法和本文算法，在同一数据集和最小支持度下进行比较。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在Retail数据集上， $\\operatorname* { m i n } _ { - } \\mathrm { s u p } { = } 0 . 1 5 \\%$ 的条件下三种算法的时间比较如图7所示。本文算法明显优于YFAIM、MRApriori算法，尤其在第二次迭代，生成频繁二项集时，本文算法在速度上比YFAIM算法提升了近6倍，比MRApriori算法提升了近30倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/153e6f183edfca0f683a90c960a24bd58f09e136e56310d17ff6a9638896e894.jpg",
+        "img_caption": [
+            "图7在Retail数据集下三个算法每次迭代的时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 T10I4D100K 数据集上, $\\operatorname* { m i n } _ { - } \\mathrm { s u p } { = } 0 . 1 5 \\%$ 条件下三种算法的比较时间如图8所示。本文算法明显优于YFAIM、MRApriori算法，尤其在第二次迭代生成频繁二项集时，本文算法在速度上比YFAIM算法提升了近三倍，比MRApriori算法提升了近10倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d1758598b30b4bb676e8942319f6be1df4379acec28632eeec562783969e8d9.jpg",
+        "img_caption": [
+            "图8T10I4D100K数据集下三个算法每次迭代的时间对比",
+            "图9T25I10D10K数据集下三个算法每次迭代的时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 T25I10D10K 数据集上， $\\mathrm { \\ m i n \\_ s u p { = } } 0 . 1 0 \\%$ 条件下三种算法的比较时间如图9所示。本文算法明显优于YFAIM、MRApriori算法，尤其在第二次迭代生成频繁二项集时，本文算法在速度上比YFAIM算法提升了近三倍，比MRApriori算法提升了近10倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MRApriori300 ? YAFIM本文算法  \n200  \n/间  \n时10002 3 4迭代次数",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出基于存储改进的分区并行算法，围绕如何提升算法执行性能进行改进，充分利用布隆过滤器存储数据的时间和空间优势来满足挖掘过程中的存储、查询需要，避免大量数据存储在内存中会对服务器造成巨大压力。算法基于Spark 框架，每次迭代，首先对事务进行压缩，并过滤掉未在布隆过滤器中出现的项目，然后基于频繁集中的单项组成候选集，压缩候选集，最后分区并行挖掘频繁集。实验结果表明，算法较好提升挖掘频繁项集效率尤其让第二次迭代变得高效，节省了资源空间同时具有很好的可扩展性，可以应用算法到更大规模的数据集和集群。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]崔妍，包志强．关联规则挖掘综述[J].计算机应用研究,2016,33(2): 330-334.(Chui Yan, Bao Zhiqiang. Summary of association rules mining [J]. Application Research of Computers,2016,33 (2): 330-334.)   \n[2]Mirjana M,Quintareli E, Tanca L. Data mining for XML query-answering support [J].IEEE Transon Knowledge and Data Engineering,2012,24(8): 1393-1407.   \n[3]Riondato M,DeBrabant JA,Fonseca R,et al.PARMA:a parallel randomized algorithm for approximate association rules mining in MapReduce [C]// Proc of the 21st ACM International Conference on Information and Knowledge Management. NewYork: ACM Press, 2012: 85- 94.   \n[4]Wang Zuocheng, Xue Lixia.A fast algorithm for mining association rules in image [Cl// Proc of the 5th IEEE International Conference on Software Engineering and Service Science.Piscataway, NJ: IEEE Press,2014: 487- 499.   \n[5]张忠林，田苗凤，刘宗成．大数据环境下关联规则并行分层挖掘算法研 究[J].计算机科学，2016,43(1):286-289.(Zhang Zhonglin,Tian Fengmiao,Liu Zongcheng. Research on parallel mining algorithm of association rules in big data environment [J]. Computer Science,2016,43 (1): 286-289.)   \n[6] Nguyen D,Vo B,Le B.Efficient strategies for parallel mining class association rules [J].Expert Systems with Applications,2014,41(10): 4716- 4729.   \n[7]Lin M,Lee P, Hsueh S.Apriori-based frequent itemset mining algorithms on MapReduce [C]// Proc of the 6th International Conference on Ubiquitous Information Management and Communication. NewYork: ACMPress,2012: 1-8.   \n[8]Lin Xueyan.Mr-apriori: association rules algorithm based on mapreduce [C]//Proc of the 5th IEEE International Conference on Software Engineering and Service Science.Piscataway,NJ: IEEE Press,2014:141- 144.   \n[9]Yahya O,Hegazy O,Ezat E.An efficient implementation of A-Priori algorithm based on Hadoop-Mapreduce model[J]. International Sjournal of Reviews in Computing,2012,12 (7): 59-67.   \n[10] 林长方．吴扬扬.黄仲开，等．基于MapReduce 的 Apriori 算法并行化 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[J].江南大学学报：自然科学版,2014,13(4):411-415.(Lin Zhangfang, Wu Yangyang,Huang Zhongkai,et al.Parallelization of Apriori algorithm based on MapReduce [J]. Journal of Jiangnan University: Natural Science,   \n2014,13 (4): 411-415.) [11] Saabith AL S,Sundararajan E,Abubakar A.Parallel implementation of apriori algorithms on the Hadoop-mapreduce platform-an evaluation of literature [J]. Journal of Theoretical and Applied Information Technology,   \n2016,85 (3): 321-351. [12] Zaharia M, Shixin R,Das T,et al.Apache Spark:a unified engine for big data processing [J].Communications of the ACM,2016,59 (11): 56-65. [13] Shanahan JG,Dai Laing.Large scale distributed data science using apache spark [C]//Proc of the 21th ACM SIGKDD International Conference on KnowledgeDiscovery andDataMining.NewYork:ACMPress,2015:2323-   \n2324. [14] Zhang Feng,Liu Min,Gui Feng,et al.A distributed frequent itemset mining algorithm using Spark for Big Data analytics [J].Cluster Computing,2015, 18 (4): 1493-1501.   \n[15] Qiu Hongjian,Gu Rong,Yuan Chunfeng,etal.YAFIM: a parallel frequent itemset mining algorithm with Spark [C]// Proc of IEEE IPDPSW. Piscataway, NJ: IEEE Press,2014:1664-1671.   \n[16]杨启防，马广平．关联规则挖掘Apriori算法的改进[J].电子技术与软 件工程,2014,28(19):199-200.(Yang Qifang,Ma Guangpin. Improvement of association rules mining apriori algorithm [J].Electronic Technology and Software Engineering,2014,28(19):199-200.)   \n[17]Holley G,Wittler R,Stoye J.Bloom filter trie:an alignment-free and reference-free data structure for pan-genome storage [J].Algorithms for Molecular Biology Amb,2016,11(1):1-9.   \n[18]LiLi, Chou Wu,Zhou Wei,et al.Design patterns and extensibilityofREST API for networking applications [J].IEEE Trans on Network & Service Management,2016,13 (1): 154-167. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

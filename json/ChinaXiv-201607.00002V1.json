@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "Generation of arbitrary radially polarized array beams by modulating the correlation structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shijun Zhu,a Jing Wang, and Zhenhua Li ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofInformationPhysicsandEngineering,Nanjing UniversityofScienceandTechnologyNanjing,0094, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We demonstrate a convenient approach for simultaneouslymanipulating the amplitude and polarization of light beams by means of the modulation ofthecorrelation structure.As anillustration,weconstructed a periodiccorrelation structure that can generate anarbitraryradially polarized array (RPA)beamof aradial orrectangular symmetry array in the focal plane fromaradiall polarized (RP)beam.The physical realizabilityconditions for such source and the far-field beam condition are derived.It is ilustrated thatthe beamlet shapeand the stateof polarization (SOP)can beeffectivelycontrolld bythe initial correlation structureand the coherence width.Furthermore,bydesigning the source correlation structure,atunable OK-shaped RPA beamandan optical cage are demonstrated,which can find widespread applications in non-destructive manipulation of particles andliving biological cells.Tearbitrariness in the design ofcorrelation structure prompted us to find more convenient approaches for controling the statistics oflight beams in terms of amplitude and polarization. $@$ 2016 AIP Publishing LLC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,arraybeams have seen arapid growth of interest in the useofoptical interconnections,ultracold atoms andoptical tweezers[1-4].Therefore,avarietyof appoaches have been introducedforgeneratingarrybeams such as arraysof microlenses,binaryphasegratings,andinterferometrictechnique [5-7].Ingeneral,array beams inprevious studies including Gauianarraybeams,dark-hollowarraybeams,flat-toppedarray beams,and Besselbeams withaspatially homogeneous state of polarization (SOP),are within the framework of scalar beams [8-10].However,if the SOPof alight beamis inhomogeneousbutisinsteadaspatiallyvaryingpolarizationdistribution inthetransversebeamcros-section, vectortheory is needed.Due totheir essential features thatare not present in scalarbeams,vectorbeams havestarted toopen up new research opportunities in optics [11]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,significant eforts have been devoted to the generation of cylindrical vector(CV) beams,afamilyof vector solutions of Maxwel's equation,which features a cylindrical SOP orthogonal to the propagation direction.As an importantclassofCVbeams,radiallypolarized (RP)beams have ben extensively investigateddue totheir special features such as atight focal beam spot and strong longitudinal component ofthe electric field at the focal plane,which have proved tobe a powerful tool for manyapplications in polarization information encryption,optical data storage,super-resolution imaging,material processing,plasmonic focusingand optical tweezers[12-23]. Various methods for generating RPbeams in terms of interferometrictechnique,modifiedlasercavities,binaryoptical elements,half-wave plates,andliquidcrystalpase modulators havebeen widelyexplored[24-32].However,veryfewworkhasrefered tothegenerationofradiallypolarized array(PA）beams.In some cases of practical application，for instance,multiple manipulation of nanoparticles,living biological cellsand organeles withincels,a RPA beam have significant advantages incomparison withconventional scalar beams [3, 12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The notion of coherence isan important fundamental of modern optics.Itiswell known that thecoherence is intrinsicallyconnected withthespectral intensity,SOP,beamqualityand theorbitalangular moment (OAM)[33-42].For instance,one cannot determine coherence fromthe visibilityof interference pattern when the SOPofa vector beam is ignored.Recently,a sufficient condition was introduced byGori etal.fordevising genuine spatial correlation functions on taking intoaccountthenon-negative definitenessconstraintofthecross-spectral density(CSD)[43,44].Avarietyof light beams with peculiar corelation properties havebeen proposed,for which unexpected features have been revealed such as self-accelerating,rng-shaped profileaswellasoptical laticesinthefarfield45-56].Inthis paper,weextend the work from scalarcaseto thevectorcase,anddemonstrate theabilityofcorelationstructuretosimultaneouslymanipulate theamplitude and polarization.Byconstructing a tunable periodic corelation structure,we have achieved a physically feasible approach for convertingaRPbeamintoanarbitraryRPAof highlydirectional beam inthe focal plane.Therealizabilityconditions for such source andthe beam condition forradiationgenerated by such source are established.Ithas been shown thatthe farfield SOP and the beam shape can be efectively manipulated bytaking advantage ofthe source correlation structure and the coherence width. As further explorations,a tunable OK-shaped RPA beam and an optical cage are demonstrated by using a similarapproach,which willbe found importantapplications innon-destructive manipulationof living biological celsnd captureof metal nanoparticles.Owning to therapidly growing currnt interest inanunified theory of coherence and polarization,itis hopedthatthe arbitrariness inthedesignofcorrelationstructure willstimulate furtherresearch nto the generation and manipulation of novel vector beams. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In general,the spatial coherence properties of alight fieldcanbecharacterized bymeansof CSD.Within the paraxial approximationyield，thesecond-ordercorelationpropertiesofaquasi-monochromatic，statisticallystationary electromagnetic beam propagating along z-direction can be described by the $2 \\times 2$ CSD matrix in space-frequency domain, whose elements are given by [33] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\beta } \\left( \\mathbf { r } _ { 1 } , \\mathbf { r } _ { 2 } \\right) = \\big \\langle E _ { \\alpha } ^ { * } \\left( \\mathbf { r } _ { 1 } \\right) E _ { \\beta } \\left( \\mathbf { r } _ { 2 } \\right) \\big \\rangle ; \\quad \\big ( \\alpha , \\beta = x , y \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { r } _ { j } \\equiv ( \\dot { x _ { j } } , \\dot { y _ { j } } )$ ， $( j = 1 , 2 )$ is thearbitrary position vector in the source under the Cartesian coordinate. The angle brackets denote time average and the asterisk represents the complex conjugate. $E _ { \\alpha } ( \\alpha = x , y )$ denotes the fluctuating electric field component along $\\mathfrak { a }$ -direction. For simplicity,we not specify the frequency $\\omega$ throughout this paper. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is well known that thecoherenceiscloselyasociated withthepolarization.Naturallyonecan expecttomodulate the polarizationby means ofthecoherence.However,althoughthecorelation modelof lightbeam hasrich varietyofchoices,it canotbechosenat willbecauseof thenon-negativedefinitenessconstraints [43].Toensure thattheconstructedcorrelation structure isreasonable and physicallrealizable,the elementsofCSD matrix have tobenon-negative definite kernels.Let's define the quadratic form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\sum _ { \\alpha } \\sum _ { \\beta } \\iint f _ { \\alpha } ^ { * } ( \\mathbf { r } _ { 1 } ) f _ { \\beta } ( \\mathbf { r } _ { 2 } ) \\Gamma _ { \\alpha \\beta } ( \\mathbf { r } _ { 1 } , \\mathbf { r } _ { 2 } ) \\mathrm { d } \\mathbf { r } _ { 1 } ^ { 2 } \\mathrm { d } \\mathbf { r } _ { 2 } ^ { 2 } , \\big ( \\alpha , \\beta = x , y \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { \\alpha }$ is anarbitrary(wel-behaving)function. Then,the non-negative constraint means that,for anychoice of $f _ { x }$ and $f _ { y }$ ， （20 $\\boldsymbol { Q }$ must be non-negative. However, to make sure that $\\boldsymbol { Q }$ meets the conditions for a given form of $\\Gamma _ { \\alpha \\beta }$ is quite difficult, because of the arbitrariness in the choice of $f _ { x }$ and $f _ { y }$ . A sufficiency condition for satisfying the non-negative constraint in Eq. (2)has recentlybeen proposed [43].Itisshown that a well-defined formforthe elementsof CSDwith the helpof the reproducing kernel Hilbert spaces can be expressed as an integral ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\beta } ^ { \\mathrm { } } ( { \\bf r } _ { 1 } , { \\bf r } _ { 2 } ) = \\iint { p _ { \\alpha \\beta } ^ { \\mathrm { } } ( { \\bf v } ) K _ { \\alpha } ^ { * } ( { \\bf r } _ { 1 } , { \\bf v } ) K _ { \\beta } ^ { \\mathrm { } } ( { \\bf r } _ { 2 } , { \\bf v } ) \\mathrm { d } { \\bf v } ^ { 2 } } , \\big ( \\alpha , \\beta = x , y \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { v } \\equiv ( \\nu _ { _ x } , \\nu _ { _ y } ) , \\ p _ { \\alpha \\beta }$ is an non-negative weighting functions and can consist of a set of delta functions with positive coefficients. $K _ { \\alpha }$ is an arbitrary kernel and can be regard as the physically available response functions associated with the electric field components $K _ { \\alpha }$ . On inserting from Eq. (3） into Eq. (2),for any non-negative definiteness constraint of $\\boldsymbol { Q }$ ， （204号 $p _ { \\alpha \\beta }$ should satisfy the following inequality [44] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for any V.As aconsequence,the elements ofCSD matrix constructed by means of the recipe given byEq.(3)arenecessarily non-negative definite,namely,it is physically realizable,as far as Eq.(4) is satisfied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since $K _ { \\alpha }$ represent arbitrary kernels of linear transformation associated with $\\mathbf { v }$ , it has various choices such as Fourier, Laplace, Hankel, mellin, and etc.,. Here, for simplicity, let us suppose kernel $K _ { \\alpha }$ to be a conventional Fourier-like form, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\alpha } ( \\mathbf { r } , \\mathbf { v } ) = U _ { \\alpha } ( \\mathbf { r } ) \\exp \\bigl [ - 2 \\pi i g _ { \\alpha } ( \\mathbf { r } ) \\cdot \\mathbf { v } \\bigr ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $U _ { \\alpha } ( \\mathbf { r } )$ is possible complex profile function and $g _ { \\alpha }$ is arbitrary vectorial real function. On inserting Eq. (5) into Eq. (3), we get the following form ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\beta } ( \\mathbf { r } _ { 1 } , \\mathbf { r } _ { 2 } ) = U _ { \\alpha } ^ { * } ( \\mathbf { r } _ { 1 } ) U _ { \\beta } ( \\mathbf { r } _ { 2 } ) \\tilde { p } _ { \\alpha \\beta } \\Big [ g _ { \\beta } ( \\mathbf { r } _ { 2 } ) - g _ { \\alpha } ( \\mathbf { r } _ { 1 } ) \\Big ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the tilde represents the Fourier transform. It is seen that $\\tilde { p } _ { \\alpha \\beta }$ coincide with the source complex degree of coherence (DOC). Since $g _ { \\alpha }$ can be chosen as will, the elements $\\Gamma _ { \\alpha \\beta }$ can have rather sophisticated structures. Let us consider the simplest case, for instance $g _ { \\alpha } ( \\mathbf { r } ) = \\mathbf { r }$ . In comparison with Eq. (3) and Eq. (6),one finds that the source correlation function is the Fourier ransform of weighting function Paβ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is worthwhiletorecalla typicalcase that the corelation structure has a Gausian form (knownas Schell-model (SM) [33-45]. Then, the weighting function $p _ { \\alpha \\beta }$ has the following form ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { \\alpha \\beta } ^ { ( S M ) } ( \\mathbf { v } ) = 2 \\pi \\sigma _ { 0 } ^ { 2 } \\exp \\Bigl [ - 2 \\pi ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\mathbf { v } ^ { 2 } \\Bigr ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the following, let us construct $p _ { \\alpha \\beta }$ to have a $M \\times N$ radial array structure with the help of a periodic comb function, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { \\alpha \\beta } ^ { ( 0 ) } ( \\nu _ { x } , \\nu _ { y } ) = \\frac { 2 \\pi \\sigma _ { 0 } ^ { 2 } } { C _ { 0 } } \\sum _ { n = 0 } ^ { N } \\sum _ { m = 1 } ^ { M } \\exp \\Bigl [ - 2 \\pi ^ { 2 } \\sigma _ { 0 } ^ { 2 } ( \\nu _ { x } + m r _ { 0 } \\cos \\varphi _ { n } ) ^ { 2 } \\Bigr ] \\exp \\Bigl [ - 2 \\pi ^ { 2 } \\sigma _ { 0 } ^ { 2 } ( \\nu _ { y } + m r _ { 0 } \\sin \\varphi _ { n } ) ^ { 2 } \\Bigr ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { \\mathrm { o } } = M \\left( 2 N + 1 \\right)$ and $\\displaystyle \\varphi _ { n } = 2 \\pi n \\big / \\big ( N + 1 \\big )$ ， $r _ { 0 }$ is the radial of the inner ring. On the other hand,since profile function can be chosen at will, let us take into account $U _ { \\alpha } ( \\mathbf { r } )$ having a RP form [12, 13], ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\alpha } ^ { * } ( \\mathbf { r } _ { 1 } ) U _ { \\beta } ( \\mathbf { r } _ { 2 } ) = \\frac { \\alpha _ { 1 } ^ { \\prime } \\beta _ { 2 } ^ { ' } } { w _ { 0 } ^ { 2 } } \\exp \\biggl [ - \\frac { \\mathbf { r } _ { 1 } ^ { 2 } + \\mathbf { r } _ { 2 } ^ { 2 } } { 4 w _ { 0 } ^ { 2 } } \\biggr ] , \\ \\big ( \\alpha , \\beta = x , y \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $w _ { 0 }$ denotes the transverse beam size.On inserting from Eqs.(8）and (9)into Eq.(6)，we obtain the following expressions for the elements of CSD matrix ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf \\Pi } _ { \\alpha \\beta } ^ { \\mathrm { ( 0 ) } } ( { \\bf r } _ { 1 } , { \\bf r } _ { 2 } ) = \\sum _ { n = 0 } ^ { N } \\sum _ { m = 1 } ^ { M } \\frac { \\alpha _ { 1 } ^ { ' } \\beta _ { 2 } ^ { ' } } { N M w _ { 0 } ^ { 2 } } \\exp \\left[ - \\frac { { \\bf r } _ { 1 } ^ { 2 } + { \\bf r } _ { 2 } ^ { 2 } } { 4 w _ { 0 } ^ { 2 } } - \\frac { \\left( { \\bf r } _ { 2 } - { \\bf r _ { i } } \\right) ^ { 2 } } { 2 \\sigma _ { 0 } ^ { 2 } } \\right] \\exp \\left\\{ i 2 \\pi m r _ { 0 } \\left[ \\cos \\varphi _ { n } ( \\dot { x _ { 2 } } - \\dot { x _ { 1 } } ) + \\sin \\varphi _ { n } ( { y _ { 2 } } ^ { ' } ) \\right] \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Onecan notice that Eq.(1O)characterizes a RP beam with a Schell-model arraycorrelated (SMAC)functionof radial symmetry. By evaluating Eq. (8), it is easy to find ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { x x } ( \\mathbf { v } ) = p _ { y y } ( \\mathbf { v } ) = p _ { x y } ( \\mathbf { v } ) > 0 , { \\mathrm { ~ a n d ~ } } { \\big | } p _ { x y } ( \\mathbf { v } ) { \\big | } ^ { 2 } \\equiv p _ { x x } ( \\mathbf { v } ) p _ { y y } ( \\mathbf { v } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According totheEq.(1O),itisclearthatEq. (4) issatisfiedfor anyv.Furthermore,for this new typeof non-uniformly correlatedRPbeam,the beamconditionforradiation generatedbysuch sourcecanrefer toRefs.[49-52],anditisderivedas ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 4 w _ { 0 } ^ { 2 } } + \\frac { 1 } { \\sigma _ { 0 } ^ { 2 } } < < \\frac { 2 \\pi ^ { 2 } } { \\lambda ^ { 2 } } \\big ( 1 - 2 \\lambda M r _ { 0 } \\big ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/886cc7774b65d66664dc7cbdd71b6b83592f1e069b6e890198e8f8c40bd082a9.jpg",
+        "img_caption": [
+            "FIG.1.Contour graphs of the sourcespectral DOCs and thecoresponding cross ines forradialandrectangular SMACRPbeamsas function of $\\dot { \\sigma } _ { 0 }$ . (a1)-(b1): $\\sigma _ { 0 } = \\mathrm { l m m } , 2 a = r _ { 0 } = 1 \\mathrm { m m }$ (a2)-(b2): $\\sigma _ { 0 } = 1 0 \\mathrm { m m } , a = 2 r _ { 0 } = 1 \\mathrm { m m } .$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the source spectral DOCs and the corresponding cross ines for radial and rectangular SMAC RP beams as a function of $\\sigma _ { 0 }$ . The parameters are chosen to be $\\lambda = 6 3 2 . 8 \\mathrm { n m } , w _ { 0 } = 1 \\mathrm { m m } , M = 2 , N = 7 , M ^ { \\prime } = N ^ { \\prime } = 1$ ，and $\\sigma _ { 0 }$ represents the initialcoherence width.Itcan be seenthatthe sourcecorrelation arraystructures are determinedbythe periodic functionin the spectral DOC,and the region ofcorrelatin array iscontrollable owing to the Gaussiancorrelation function.As the increase of the value $\\sigma _ { 0 }$ , the correlation array region gradually expand. Owning to the nonconventional correlation structure, light beams thus exhibit verydiferent modulation characteristics.We shallemphasize thatthe propagation-induced statistics changes are completelydue to the correlation structure and do not result from any deterministic phase modulation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the following,let us consider the paraxial propagation of this beam through a stigmatic ABCD.The components of spectral intensity at any point $ { \\mathbf { \\rho } } \\equiv ( x , y )$ across the transverse plane can be evaluated by the generalized Collins formula [13, 33] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\beta } ^ { ( 0 ) } ( \\mathbf { \\pmb { \\rho } } , \\mathbf { \\pmb { \\rho } } ) = \\frac { 1 } { \\lambda ^ { 2 } B ^ { 2 } } \\iiint \\Gamma _ { \\alpha \\beta } ^ { ( 0 ) } ( \\mathbf { r } _ { 1 } , \\mathbf { r } _ { 2 } ) \\exp \\biggl [ - \\frac { i k A } { 2 B } \\bigl ( \\mathbf { r } _ { 1 } ^ { 2 } - \\mathbf { r } _ { 2 } ^ { 2 } \\bigr ) \\biggr ] \\mathrm { e x p } \\biggl [ \\frac { i k } { B } \\bigl ( \\mathbf { r } _ { 1 } \\cdot \\mathbf { \\rho } - \\mathbf { r } _ { 2 } \\cdot \\mathbf { \\ p } \\bigr ) \\biggr ] d ^ { 2 } \\mathbf { r } _ { 1 } d ^ { 2 } \\mathbf { r } _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is the wavelength and $k = 2 \\pi / \\lambda$ denotes the wave number. On substituting from Eq.(1O) into Eq.(13),we obtain the following expressions for the components of spectral intensity ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\alpha } ^ { ( 0 ) } ( { \\bf p } , { \\bf p } ) = \\frac { w _ { 0 } ^ { - 2 } } { C _ { 0 } \\Omega ^ { 2 } } \\sum _ { n = 0 } ^ { N } \\sum _ { m = 1 } ^ { M } \\left[ \\frac { B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 2 } } + \\left( 1 - \\frac { w _ { 0 } ^ { - 2 } B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\Omega } \\right) \\xi _ { \\alpha } ^ { 2 } \\right] \\exp \\left( - \\frac { \\xi ^ { 2 } } { 2 w _ { 0 } ^ { 2 } \\Omega } \\right) , \\quad ( \\alpha = x , y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { x y } ^ { ( 0 ) } ( \\mathbf { p } , \\mathbf { 0 } ) = \\Gamma _ { y x } ^ { ( 0 ) * } ( \\mathbf { p } , \\mathbf { p } ) = \\frac { w _ { 0 } ^ { - 2 } } { C _ { 0 } \\Omega ^ { 2 } } \\sum _ { n = 0 } ^ { N } \\sum _ { m = 1 } ^ { M } \\xi _ { x } \\xi _ { y } \\exp \\left( \\frac { - \\xi ^ { 2 } } { 2 w _ { 0 } ^ { 2 } \\Omega } \\right) \\left( 1 + \\frac { B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 4 } \\Omega } - \\frac { w _ { 0 } ^ { - 2 } B ^ { 2 } } { 2 k ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\Omega } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { \\alpha } = \\alpha - \\lambda m r _ { 0 } B \\cos \\varphi _ { n } , \\alpha = ( x , y ) , \\mathrm { a n d } \\Omega = A ^ { 2 } + \\frac { B ^ { 2 } } { 4 k ^ { 2 } w _ { 0 } ^ { 4 } } \\left( 1 + \\frac { 4 w _ { 0 } ^ { 2 } } { \\sigma _ { 0 } ^ { 2 } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By applying a coordinate transform,we further obtain the following components of spectral intensity for a $\\left( 2 M ^ { \\prime } + 1 \\right)$ $\\times ( 2 N ^ { \\prime } + 1 )$ rectangular SMAC RP beam, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\alpha \\alpha } ^ { ( \\perp ) } ( \\mathbf { 0 } , \\mathbf { \\ p } ) = \\frac { w _ { 0 } ^ { - 2 } } { C _ { \\perp } \\Omega ^ { 2 } } \\sum _ { m = - M ^ { \\prime } } ^ { M ^ { \\prime } } \\sum _ { n = - N ^ { \\prime } } ^ { N ^ { \\prime } } \\left[ \\frac { B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 2 } } + \\left( 1 - \\frac { w _ { 0 } ^ { - 2 } B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\Omega } \\right) \\zeta _ { \\alpha } ^ { 2 } \\right] \\exp \\left[ - \\frac { w _ { 0 } ^ { - 2 } } { 2 \\Omega } \\left( \\zeta _ { x } ^ { 2 } + \\zeta _ { y } ^ { 2 } \\right) \\right] , ( \\alpha = x , y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { x y } ^ { \\mathrm { ( 4 ) } } ( \\mathbf { p } , \\mathbf { \\rho } ) = \\Gamma _ { x y } ^ { \\mathrm { ( 4 ) * } } ( \\mathbf { p } , \\mathbf { \\rho } ) = \\frac { w _ { 0 } ^ { - 2 } } { C _ { \\mathrm { 4 } } \\Omega ^ { 2 } } \\sum _ { m = - M ^ { \\prime } } ^ { M ^ { \\prime } } \\sum _ { n = - N ^ { \\prime } } ^ { N ^ { \\prime } } \\zeta _ { x } \\zeta _ { y } \\left( 1 + \\frac { B ^ { 2 } } { k ^ { 2 } \\sigma _ { 0 } ^ { 4 } \\Omega } - \\frac { w _ { 0 } ^ { - 2 } B ^ { 2 } } { 2 k ^ { 2 } \\sigma _ { 0 } ^ { 2 } \\Omega } \\right) \\exp \\left[ \\frac { - w _ { 0 } ^ { - 2 } } { 2 \\Omega } \\left( \\zeta _ { x } ^ { 2 } + \\zeta _ { y } ^ { 2 } \\right) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\zeta _ { x } = x - \\lambda m B / 2 a , \\ \\zeta _ { y } = y - \\lambda n B / 2 a , { \\mathrm { a n d } } C _ { \\perp } = ( 2 M ^ { \\prime } + 1 ) ( 2 N ^ { \\prime } + 1 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $a$ is the separation distance.It is easy to find that the realizability conditions for a rectangular SMACRP source is coincide with the radial SMAC RP source,and the beam condition is obtained as follows ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 4 w _ { 0 } ^ { 2 } } + \\frac { 1 } { \\sigma _ { 0 } ^ { 2 } } < < \\frac { 2 \\pi ^ { 2 } } { \\lambda ^ { 2 } } \\left[ 1 - \\frac { \\lambda } { 2 a } \\cdot \\operatorname* { m a x } \\left( M , N \\right) \\right] ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let us now take into account the focusing vector properties. Here, we assume that the source beam propagates a distance of $l = 1 5 0 \\mathrm { m m }$ , and then focused by a thin lens with focal length $f = 1 5 0 \\mathrm { m m }$ . The elements of the transfer matrix between the source plane and the focal plane are given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = 1 - \\frac { z } { f } , \\quad B = f , \\quad C = - \\frac { 1 } { f } , \\quad D = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Source 0.24 Focal plane 0.12 Focalplane 井   \n(uu) (uu)x 中 (uu) 米 米 0.5   \n-2 -0.12 湘 拼 -0.06 (a1) (a2) 来 （a3) 来 好 -2 0 2 4 024-01202060060 x(mm) x(mm) x(mm) 4 Source 0.16 Focal plane 0.08 Focal plane 2 0.08 米米\\* 米 米米米 0.04   \n(uu) (uu)^ 0 米米 (uu) 0 0.5   \n-2 -0.08 -0.04 米 (b1) (b2) （b3) -2 0 2 4 0.16 -0.16-0.08 00.080.160-0.08-0.04 0 0.040.08 x(mm) x(mm) x(mm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the contour plots of the spectral SOP for radial and rectangular SMAC RP beams in the source plane as wellas that inthe focal plane.Itisclearlyseen that thespectral densityinthefocal planeexhibitsarraydistribution with radial orrectangularsymmetry.This means thattheFourier-likerelationbetwen theinitial corelation functionandthe farfield spectral intensitydistribution isstillvalidforvector beams [56].Atthesame time,each beamlet evolves froma Gaussian shape into a dark-hollow profile when the value of $\\sigma _ { 0 }$ increases. In addition, each beamlet copies the initial SOP and displaysRPstructure.This implies the initial overall polarizationstructure iscompletely broken induced by the nonconventional correlation structure.More explicitly，polarization modulation and amplitude modulation are not independent features thatcan be simultaneously manipulated by means of the specially designed correlation structure.Our furtherstudy shows thatthis reproduction inducedbythe sourcecorrelation structure is alsoapplicabletoother vectorbeams such as generic CV beams.However,the present example for modulating avector beam is more than just a simple split (as it might appear) of initial SOP,and needs for further investigation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/67ae24c9e8577e7fa8bdaddb52359098bd1e02123972aed901c09e324e46d47c.jpg",
+        "img_caption": [
+            "FIG.3.Contourplotsof theSOP,correspondingintensitycomponentsandthecros linesofradialSMACRPbeaminthefocalplar with different $\\sigma _ { 0 }$ . (a1)-(a3): $\\sigma _ { 0 } = \\mathrm { l m m }$ , (b1)-(b3): $\\sigma _ { \\mathrm { 0 } } = 1 0 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 3illustrates the SOP and the corresponding intensity components of a radial SMAC RP beam in the focal plane as a function of $\\sigma _ { 0 }$ . Previous studies show that a separable weighting function $p _ { \\alpha \\beta }$ in the Cartesian coordinate system leads to a rectangle-likefar-fieldintensityprofile45,56].However,Fig.3showsthatthisisnotasuficientconditionandacircular beam can be obtained as well, even $p _ { \\alpha \\beta }$ is derived under the Cartesian coordinate system. Different from the polarization reproduction shown inFig.2,itcan be seen that theSOPinFig.3displaysa morecomplicated structure.Inthecaseof lower value of coherence width such as $\\sigma _ { 0 } = 1 \\mathrm { m m }$ ,one finds from Figs.3(a1)-3(a3) that the most region of the beam is azimuthally polarized,except the edge portion displays a RP structure.However，as the increase of the coherence width such as $\\sigma _ { \\mathrm { 0 } } = 1 0 \\mathrm { m m }$ ,Fig.3(b1） shows that the SOP in the central region evolves into RP structure. Furthermore,the corresponding intensitycomponents,aspresented inFigs.3(a2),3(a3),3(b2)and 3(b3)clearlydemonstrate thisvariation inpolarization state. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To demonstrate more about this method,Fig.4illustrates an OK-shaped RPA beam in the focal plane based on the special designed initialcorelation structures.Itis interesting tonotethatnotonlythearraystructurecanbearbitrarily designed,butalsotheSOPcanbepreciselycontrolledbymeansof theinitialcorelationstructure.Theabilityof generation arbitrary vector arraybeamcan find widespread applications in particle manipulation and optical enginering.Byusing a similarapproach,Fig.5demonstrate anopticalcage intensityprofilearound thefocalregion.Inparticular,thesizeofoptical cage can be effectivelyregulated bytaking advantage of athin lens.Such an optical cage is essntial needed for nondestructivemanpulatioofiolgicalcellsandcaptureofmetalanoparticles[2,3].inally,itismportant topointutthat thecorelation structures mentioned above can begeneratedexperimentally bymeansof a liquid crystal spatial light modulator or a method proposed recently in Refs. 44 and 45. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3528bdf5253b4dd1c6031acee928cb512c9c39a1c5daa74999cbd167c5efbb36.jpg",
+        "img_caption": [
+            "FIG.4.Contour plots of an OK-shaped RPA beam and its corresponding intensity components in the focal plane "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/850f48b8518ebf5fb32fbabde9fd114df668836aab9f0d351171151e930f2a18.jpg",
+        "img_caption": [
+            "FIG.5.An optical cage is derived around the focal region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In conclusion，we have demonstrated a convenient approach for simultaneously manipulating the amplitude and polarization oflight beams bymeans of the design ofthe corelation structure.As an ilustration,byconstructing a periodic correlation structure,aRPbeam is focused toanarbitrary RPAinthe focal plane.Therealizabilityconditions for the corelation structures andthe far-field beamconditionare established.It has been shown thatthe far-field spectral intensity distributionand the SOPcanbeefectivelycontrolled bymodulating the initialcoherence width.Furthermore,correlation structures give riseto a tunable OK-shaped RPA beam and an opticalcage are demonstrated.The abilityto appropriately manipulateamplitude and polarizationof light beams bydesigning the initial correlation structure gives an incentive forthe generation of more complex vector beams such as high-order vector beams,generic CVbeams or Airy beams and promises important supports in the fields of imaging, laser machining, and optical tweezers. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The author's research is supported bythe National Natural Science Foundation of China under Grant No.11504172,the Natural Science Foundation of Jiangsu Province under Grant No.BK20150763,and the project of the Priority Academic Program Development (PAPD) of Jiangsu Higher Education Institutions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.C. Yu, M. R.Wang,A. J. Varela,and B. Chen, Opt. Commun. 177, 369 (2000).   \n2.D.G. Grier,Nature, 424,810 (2003).   \n3.K. C.Neuman and S. M. Block,Rev. Sci. Instrum. 75,2787 (2004).   \n4.Chotia,B.Neyenhuis,S.A.Moses,B.Yan,J.P.Covey,M.Foss-Feig,A.M.Rey,D.S.Jin,andJ.Ye,Phys.Rev.Lett.   \n108,080405 (2012).   \n5.D.P.Resler, D.S.Hobbs,R. C. Sharp,L.J. Friedman,and T.A. Dorschner, Opt. Lett2,689 (1996).   \n6.D. McGloina, G. C.Spaldinga, H. Melville, W. Sibbet,and K. Dholakia, Opt. Commun. 225,215 (2003).   \n7.F. Xiao,W. Hu,and A. Xu, Appl. Opt. 44, 5429 (2005).   \n8.B.P.S. Ahluwalia,X.C.Yuan,S.H.Tao,J.Bu,H. Wang,X.Peng,and H.B.Niu, Appl. Phys.Let.87,84104(2005).   \n9.Y. Cai, Q. Lin, Y. Baykal, and H. T. Eyyuboglu, Opt. Commun. 278,157 (2007).   \n10．P. Zhou, Y. Ma, X. Wang, H. Ma, X. Xu,and Z. Liu, Appl. Phys.B 48,5251 (2009).   \n11. C. Brosseau, Fundamentals of Polarized Light: A Statistical Approach (Wiley,1998).   \n12．Q. Zhan, Adv. Opt. Photonics 1,1 (2009).   \n13．Y.Cai,F.Wang, C. Zhao,S. Zhu, G.Wu,and Y.Dong,“Partially coherent vector beams: from theory to   \nexperiment,” in Vectorial Optical Fields: Fundamentals and Applications,Q. Zhen, ed. (World Scientific, 2   \nChap. 7. 221-273.   \n14．R. Dorn, S. Quabis,and G.Leuchs,Phys. Rev. Lett. 91,233901 (2003).   \n15. W. Chen and Q. Zhan, Opt. Express 15, 4106 (2007).   \n16． X. Luo and T. Ishihara, Appl. Phys. Lett 84, 4780 (2004).   \n17． A. F. Abouraddy and K. C. Toussaint, Jr., Phys. Rev. Lett. 96,153901 (2006).   \n18. Y. Cai, Q. Lin, H. T. Eyyuboglu,and Y. Baykal, Opt. Express 16, 7665 (2008).   \n19． Y. Gu, O. Korotkova,and G. Gbur, Opt. Let 34,2261 (2009).   \n20. X.Li, T.H. Lan, C.H. Tien, and M. Gu, Nat. Commun. 3, 998 (2012).   \n21. S. Zhu, X. Zhu, L. Liu,F. Wang,and Y. Cai, Opt. Express 21, 27682 (2013).   \n22. S. Zhu, F. Wang, Y. Chen, Z. Li,and Y. Cai, Opt. Express 22, 28697 (2014).   \n23．R. Martinez-Herrero and F. Prado,Opt. Express 23,5043 (2015).   \n24.S. C. Tidwel,D. H. Ford,and W. D. Kimura, Appl. Opt. 29,2234 (1990).   \n25．Z. Bomzon and E. Hasman, Appl. Phys. Let.77,3322 (2000).   \n26.Y. Kozawa and S. Sato, Opt. Lett 30,3063 (2005).   \n27． G. Machavariani, Y.Lumer,I. Moshe,A. Meir, and S.Jackel, Opt. Let. 32,1468 (2007).   \n28. X.L. Wang, J. Ding, W. J. Ni, C. S. Guo, and H. T. Wang, Opt. Let. 32, 3549 (2007).   \n29.H. Wang,L. Shi,B.Lukyanchuk, C.J. R. Sheppard,and C.T. Chong, Nat. Photonics 2,501 (2008).   \n30. S. Ramachandran,P. Kristensen,and M. F. Yan, Opt. Lett. 34,2525 (2009).   \n31．F. Wang, Y. Cai, Y. Dong, and O. Korotkova, Appl. Phys. Let. 100, 051108 (2012).   \n32. J. Lin, P. Genevet, M. A. Kats, N. Antoniou,and F. Capasso, Nano Lett. 13,4269 (2013).   \n33.E. Wolf, Introduction to the Theory of Coherence and Polarization ofLight (Cambridge University,2007).   \n34. T. Setala, J. Tervo,and A. Friberg, Opt. Lett. 29,328 (2004).   \n35.P.Ryczkowski,M. Barbier,A. T.Friberg,J. M. Dudley,and G. Genty,Nature Photon.10,167 (2016).   \n36.S. A. Ponomarenko,J. Opt. Soc. Am. A 18,150 (2001).   \n37．G. Gbur,T. Visser,and E.Wolf,Phys. Rev.Lett. 88,013901 (2001).   \n38．G. Gbur,T. Visser,and E. Wolf,J. Opt. A,Pure Appl. Opt. 6, S239 (2004).   \n39． S. Zhu, Y. Cai,and O. Korotkova, Opt. Express 18,12587 (2010).   \n40． S. Zhu and Y. Cai, Appl. Phys.B 103,971 (2011).   \n41． Y. Cai and S. Zhu, Opt. Lett.39,1968 (2014).   \n42． S. Zhu and Z.Li, Appl. Phys. B 118,481 (2015).   \n43．F. Gori and M. Santarsiero, Opt. Lett. 32, 3531 (2007).   \n44．F.Gori, V.Ramirez-Sánchez, M. Santarsiero,and T.Shirai,J. Opt. A,Pure Appl. Opt.11,085706 (2009).   \n45. Y. Cai, Y. Chen, and F. Wang, J. Opt. Soc. Am. A 31, 2083 (2014).   \n46.H. Lajunen and T. Saastamoinen, Opt. Lett. 36, 4104 (2011).   \n47． S. Sahin and O. Korotkova, Opt. Lett. 37, 2970 (2012).   \n48. F. Wang, X. Liu, Y. Yuan, and Y. Cai, Opt. Lett. 38,1814 (2013).   \n49. Z. Mei and O.Korotkova, Opt.Lett. 38,2578 (2013).   \n50．Z. Mei,D. Zhao, O. Korotkova,and Y.Mao,Opt.Lett. 40,5662 (2015).   \n51. Y. Zhang and D. Zhao, Opt. Express 21,24781 (2013).   \n52. C. Ding, O. Korotkova, Y. T. Zhang, and L. Z. Pan, Opt. Express 22, 931 (2014).   \n53. L. Ma and S. A. Ponomarenko, Opt. Lett. 39, 6656 (2014).   \n54. L. Ma and S.A. Ponomarenko, Opt. Express 23,1848 (2015).   \n55. S. Zhu, Y. Chen, J. Wang, H. Wang, Z. Li,and Y. Cai, Opt. Express 23,33099 (2015).   \n56．F. Wang and O. Korotkova, Opt. Lett. 41, 516 (2016). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

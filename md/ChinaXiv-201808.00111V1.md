@@ -1,0 +1,322 @@
+# 多任务学习的不平衡SVM+算法\*
+
+周国华1,²，过林吉‘，殷新春²
+
+(1．常州轻工职业技术学院 信息工程与技术学院，江苏 常州 213164；2.扬州大学 信息工程学院，江苏 扬州225127)
+
+摘要：处理不平衡数据分类时，传统支持向量机技术(SVM)对少数类样本识别率较低。鉴于 $\mathbf { \Delta } \mathbf { S } \mathbf { V } \mathbf { M } +$ 技术能利用样本间隐藏信息的启发，提出了多任务学习的不平衡 $\mathbf { S V M + }$ 算法（MTL-IC-SVM+)。MTL-IC-SVM+基于 $\mathbf { S V M + }$ 将不平衡数据的分类表示为一个多任务的学习问题，并从纠正分类面的偏移出发，分别赋予多数类和少数类样本不同的错分惩罚因子，且设置少数类样本到分类面的距离大于多数类样本到分类面的距离。UCI数据集上的实验结果表明，MTL-IC-SVM $\cdot +$ 在不平衡数据分类问题上具有较高的分类精度。
+
+关键词：不平衡数据；支持向量机； $\mathbf { \Delta } \mathrm { S V M + }$ ；多任务学习；分类中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.03.0276
+
+# Multi-task learning of $\mathbf { S V M + }$ for imbalanced classification
+
+Zhou Guohual,², Guo Linji1, Yin Xinchun² (1.SchoolofInformationEnginering&TechnologyChangzhouInstituteofLight IndustryTechnologyChangzhouJangsu 213164,China; 2. College of Information Engineering,Yangzhou University,Yangzhou Jiangsu 225127,China)
+
+Abstract:When learning from imbalanced datasets，the traditional support vector machines (SVMs）had alowrate of identification on the minority class.Inspired by that $\mathrm { { S V M } + }$ can utilize the additional information hidden in the training data and mult-task learning can improve the generalization performance by training multiplerelated taskssimultaneouslythis paper proposed a new support vector machine called multi-task learning $\mathbf { S V M + }$ forimbalanced classification (MTL-IC-SVM+) .MTL-IC-SVM+ incorporated the multi-task learning framework into $\mathbf { S V M + }$ to hand the problem of class imbalance byapplying thedifferentpenaltyfactors tothe data,especially，themargin between thehypersphereand the minorityclass wasas large as posible.Experiments conductedon several UCIdatasets showthatthe proposed methods lead to very encouraging results on imbalanced datasets.
+
+Key words:imbalanced datasets;support vector machine; $\mathrm { { \ s V M + } }$ ；multi-task learning;classification
+
+# 0 引言
+
+支持向量机（SVM）同时以结构风险和经验风险最小化为原则，能利用核技术处理非线性识别问题，与其他机器学习方法相比，SVM具有良好的泛化性能。但常规的SVM都只适应于数据平衡的分类场景，而在不平衡数据下，SVM为达到整体数据分类误差的最小化倾向于追求多数类样本的高识别率，此时分类面向少数类样本偏移造成少数类样本的高误判率[1.2]。但在实际应用中，不平衡数据广泛存在与各个领域，如网络入侵检测、图像识别、信息检索与过滤、医疗诊断、工业过程检测等[3-5]。因此，研究SVM在不平衡数据分类上的应用是有必要的和值得关注的。目前，SVM中处理不平衡数据的策略可分成基于数据采样和基于算法调整的两种。前者的代表有过采样和欠采样算法[6]；后者的代表有代价敏感学习[7]、Boosting技术[8]和不平衡集成学习9等。但过采样易出现过拟合现象；欠采样易导致数据信息的不完整，同时真实的错分代价在代价敏感学习中常难以准确估计；Boosting技术与SVM相结合往往伴有大的计算量；不平衡集成学习一般通过迭代的方式优化训练数据集而无法保证分类结果的全局最优解[10.11]。
+
+近期研究表明，多任务学习通过多个相关任务的共同学习能明显提高单个任务学习的性能。同时多任务学习能有效利用任务相关性，因而对样本较少的分类情况是非常有效的[12,13]。受此启发，本文提出不平衡 $\mathbf { S V M + }$ 分类算法（multi-task learningbased on $\mathrm { { \ s V M + } }$ forimbalancedclassification,MTL-IC-SVM $^ +$ ）。Vapnik提出的 $\mathrm { S V M } + ^ { [ 1 4 ] }$ 建立在传统 SVM模型上，但将松弛变量用修正函数的形式表示，用以挖掘样本间隐藏的结构信息。
+
+鉴于 $\mathbf { S V M + }$ 算法在单任务学习中的高泛化性能，本文在 $\mathbf { S V M + }$ 模型的基础上分别赋予多数类和少数类样本不同的错分惩罚因子，且基于分类面“大间隔”的策略，设置少数类样本到分类面的距离大于多数类样本到分类面的距离；同时参照多任务学习的框架将不平衡数据的分类表示为一个多任务的学习问题，利用相关任务间的有效信息来提高学习所得模型的泛化能力。
+
+# 1 SVM+算法
+
+为了提高SVM性能和减少训练所需的样本数， $\mathbf { S V M + }$ 算法将样本的结构信息引入到SVM模型。与常规SVM中松弛变量为一实数不同， $\mathrm { { \ s V M + } }$ 中松弛变量表示为一组修正函数。设给定样本集 $X = \{ \pmb { x } _ { 1 } , \pmb { x } _ { 2 } , . . . , \pmb { x } _ { N } \}$ 和其对应的类别标签$Y = \{ y _ { 1 } , y _ { 2 } , . . . , y _ { N } \} ( y _ { i } \in \{ - 1 , + 1 \} , i = 1 , 2 , . . . , N )$ ，依据属性特征的覆盖范围将训练样本划分成 $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { \mathbf { \Psi } }$ 组，每组样本及其标签可以表示为
+
+$$
+{ \pmb { D } } _ { r } = \{ \{ X _ { r } , Y _ { r } \} , r = 1 , . . . , t \} = \{ ( { \pmb x } _ { r _ { i } } , y _ { r _ { i } } ) { \subseteq } { \pmb R } ^ { N } , i \in T _ { r } \}
+$$
+
+其中: $T _ { r }$ 表示分组编号。 $\mathbf { S V M + }$ 使用核技术将训练样本映射到两个不同的Hilbert空间：（1）使用核函数 $\phi ( \pmb { x } _ { i } )$ 将全部训练样本映射至决策空间 $z$ ，并对应得到决策函数（ $( { \pmb w } , b )$ 为决策函数参数)）（2）使用核函数 $\phi _ { r } ( \pmb { x } _ { i } )$ 将训练样本映射至修正空间 $\textstyle { \mathbf { Z } } _ { r }$ ，并由此得到 $\boldsymbol { r }$ 组修正函数（ $( w _ { r } , d _ { r } )$ 为修正函数参数))，即
+
+$$
+\begin{array} { r } { \xi _ { r } ( \pmb { x } _ { i } ) = ( \pmb { w } _ { r } \cdot \pmb { \phi } _ { r } ( \pmb { x } _ { i } ) ) + d _ { r } } \end{array}
+$$
+
+$$
+\phi _ { r } ( { \bf x } _ { i } ) \in { \cal Z } _ { r } , i \in { \cal T } _ { r } , r = 1 , . . . , t
+$$
+
+$\mathbf { S V M + }$ 中所有样本使用同一核函数映射至同一决策空间;但不同组别样本映射到修正空间时可以使用不同的核函数映射至不同的核空间。 $\mathbf { S V M + }$ 目标函数可以表示为[15]
+
+$$
+\operatorname* { m i n } _ { \stackrel { w , w _ { 1 } , \ldots , w _ { r } , } { b , d _ { 1 } , \ldots , d _ { r } } } \frac { 1 } { 2 } ( \pmb { w } \cdot \pmb { w } ) + \frac { r } { 2 } \sum _ { r = 1 } ^ { t } ( \pmb { w } _ { r } \cdot \pmb { w } _ { r } ) + C \sum _ { r = 1 } ^ { t } \sum _ { i \in T _ { r } } \xi _ { i } ^ { r }
+$$
+
+$$
+\xi _ { i } ^ { r } = ( w _ { r } \cdot \phi _ { r } ( { \pmb x } _ { i } ) ) + d _ { r } , i \in T _ { r } , r = 1 , . . . , t
+$$
+
+$$
+\xi _ { i } ^ { r } \ge 0 , i \in T _ { r } , r = 1 , . . . , t
+$$
+
+引入非负的Lagrange 因子 ${ \pmb \alpha } , { \pmb \beta }$ ， $\mathrm { { S V M } + }$ 的对偶问题可表示为如下二次规划问题：
+
+$$
+\begin{array} { r l } & { \underset { \alpha , \beta } { \operatorname* { m i n } } \overset { N } { \underset { i = 1 } { \sum } } \alpha _ { i } - \cfrac { 1 } { 2 } \underset { i = 1 } { \overset { N } { \sum } } \underset { j = 1 } { \overset { N } { \sum } } \alpha _ { i } \alpha _ { j } y _ { i } y _ { j } \phi ( \pmb { x } _ { i } ) \cdot \phi ( \pmb { x } _ { j } ) + } \\ & { \frac { 1 } { 2 \gamma } \underset { r = 1 } { \overset { t } { \sum } } \underset { i , j \in { \cal T } _ { r } } { \sum } ( \alpha _ { i } + \beta _ { i } - C ) ( \alpha _ { j } + \beta _ { j } - C ) \phi _ { r } ( \pmb { x } _ { i } ) \phi _ { r } ( \pmb { x } _ { j } ) } \end{array}
+$$
+
+$$
+\sum _ { i = 1 } ^ { N } \alpha _ { i } y _ { i } = 0
+$$
+
+$$
+\sum _ { i \in T _ { r } } ( \alpha _ { i } + \beta _ { i } ) = T _ { r } C , r = 1 , . . . , t
+$$
+
+$$
+\alpha _ { i } \geq 0 , \beta _ { i } \geq 0 , i = 1 , . . . , N
+$$
+
+通过对上式的求解，可得 $\mathbf { S V M + }$ 的决策函数：
+
+$$
+f ( { \pmb x } ) = { \pmb w } \cdot { \pmb \phi } ( { \pmb x } ) + b
+$$
+
+# 2 多任务学习的不平衡 $\mathsf { S V M + }$ 算法(MTL-IC-SVM+)
+
+# 2.1 目标函数构造
+
+由式（2）容易看到， $\mathbf { S V M + }$ 算法在目标函数中追求训练样本错分的最小化，即
+
+$$
+\operatorname* { m i n } \sum _ { i = 1 } ^ { N } y _ { i } ( \pmb { w } \cdot \phi ( \pmb { x } _ { i } ) + b ) - 1
+$$
+
+在处理分类问题时，如果两类样本容量相差较大，分类面往往向少数类样本偏移来达到整体样本低错分率的目的。本文采取两类样本平均错分率最小原则，同时，为纠正分类面的偏移，寻找的分类面在达到两类间距离的最大化的同时保证少数类到分类面的距离不得小于多数类到分类面的距离，因此式(5)可改写成
+
+$$
+\begin{array} { l } { \displaystyle \operatorname* { m i n } \frac { 1 } { \nu ^ { + } N ^ { + } } ( \sum _ { i = 1 } ^ { N ^ { + } } y _ { i } ( \pmb { w } \cdot \phi ( \pmb { x } _ { i } ) + b ) - 1 ) } \\ { \displaystyle \qquad + \frac { 1 } { \nu ^ { - } N ^ { - } } ( \sum _ { i = N ^ { + } + 1 } ^ { N } y _ { i } ( \pmb { w } \cdot \phi ( \pmb { x } _ { i } ) + b ) - 1 - \rho ^ { 2 } ) } \end{array}
+$$
+
+其中: $N ^ { + }$ 和 $N ^ { - }$ 分别是少数类和多数类样本的个数； $\nu ^ { + }$ 和 $\nu ^ { - }$ 为两个正常数，用来调节两类样本的错分比例；常数 $\rho ^ { 2 }$ 保证少数类到分类面的距离大于多数类到分类面的距离。
+
+多任务学习的特性指多个任务中的数据一般属于多个分布不同但存在共性的数据域[10]，本文将 $\mathbf { \boldsymbol { S } } \mathbf { \boldsymbol { V } } \mathbf { M } +$ 中的每个数据分组看成是一个子任务，自然地可以将该 $\mathbf { S V M + }$ 改造成一个多任务学习模型。依据多任务学习方法的思想，多个子任务的决策模型应该是相似的，在保持各个子学习机局部优化的同时各学习机之间的全局差异最小化。此时，每个子任务的决策函数 $f _ { r }$ 可以表现为一个公共决策函数 $g _ { 0 }$ 和修正函数 $g _ { r }$ 的和：
+
+$$
+\scriptstyle \mathrm { f r = g 0 + g r }
+$$
+
+具体地，决策函数 $f _ { r }$ 可以写成
+
+$$
+f _ { r } ( { \pmb x } ) = { \pmb w } \cdot { \phi } ( { \pmb x } ) + { b } + { \pmb w } _ { r } \cdot { \phi } _ { r } ( { \pmb x } ) + { d } _ { r } , r = 1 , . . . , t
+$$
+
+其中：对于全体样本的决策函数 $g _ { 0 } = { \pmb w } \cdot { \phi } ( { \pmb x } ) + b$ ，对应于每个子任务的修正函数 $g _ { r } = \pmb { w } _ { r } \cdot \phi _ { r } ( \pmb { x } ) + d _ { r }$ □
+
+基于以上的分析，给出MTL-IC-SVM $\cdot +$ 算法的目标函数为
+
+$$
+\begin{array} { r l } { \underset { w , w _ { r } , b , d _ { 1 } , \ldots , d _ { r } } { \operatorname* { m i n } } \frac { 1 } { 2 } ( \pmb { w } \cdot \pmb { w } ) + \frac { \gamma } { 2 } \overset { t } { \underset { r = 1 } { \sum } } ( \pmb { w } _ { r } \cdot \pmb { w } _ { r } ) + \overset { t } { \underset { r = 1 } { \sum } } ( \frac { 1 } { \nu _ { r } ^ { + } m _ { r } ^ { + } } \overset { \sum } { i \in } \overset { \varepsilon ^ { r } } { \underset { r } { \sum } } ) } & { } \\ { + \overset { t } { \underset { r = 1 } { \sum } } ( \frac { 1 } { \nu _ { r } ^ { - } m _ { r } ^ { - } } \overset { \sum } { j \in } \overset { r } { \underset { r } { \sum } } ) - \nu \overset { t } { \underset { r = 1 } { \sum } } \rho _ { r } ^ { 2 } } & { } \end{array}
+$$
+
+s.t. $w \cdot \phi ( { \boldsymbol { \mathbf { \mathit { x } } } } _ { i } ) + b + { \boldsymbol { \mathbf { \mathit { w } } } } _ { r } \cdot \phi _ { r } ( { \boldsymbol { \mathbf { \mathit { x } } } } _ { i } ) + d _ { r } \geq 1 - \xi _ { i } ^ { r } .$
+
+$$
+- ( \pmb { w } \cdot \phi ( \pmb { x } _ { i } ) + b + \pmb { w } _ { r } \cdot \phi _ { r } ( \pmb { x } _ { i } ) + d _ { r } ) \geq 1 + \rho _ { r } ^ { 2 } - \xi _ { j } ^ { r } ,
+$$
+
+$$
+\xi _ { i } ^ { r } \geq 0 , \xi _ { j } ^ { r } \geq 0 , \quad i \in T _ { r } ^ { + } , j \in T _ { r } ^ { - } , r = 1 , . . . , t
+$$
+
+其中： $m _ { r } ^ { + }$ 和 $m _ { r } ^ { - }$ 分别表示少数类和多数类样本在第 $\boldsymbol { r }$ 个子任务中的样本个数，每个子任务中的数据规模不一。 $ { \boldsymbol \nu } _ { r } ^ { + }$ 和 $ { \boldsymbol \nu } _ { r } ^ { - }$ 分别对应第 $\boldsymbol { r }$ 个子任务中少数类和多数类的正则化常量。常数 $\gamma$ 表示决策函数和相关修正函数间的权重。 $\xi _ { i } ^ { r }$ 和 $\xi _ { j } ^ { r }$ 分别表示少数类和多数类样本在第 $\boldsymbol { r }$ 个子任务中的松弛变量。
+
+为了进一步阐述上述优化目标函数的机理，给出如下的分析与说明：
+
+a)MTL-IC-SVM $\dot { + }$ 算法在保证每个子任务学习达到最优的同时，需要考虑这 $\boldsymbol { r }$ 个子任务之间学习的相似性和一致性，以获取不同任务间有益的归纳信息。目标式中 $\sum _ { r = 1 } ^ { t } ( \pmb { w } _ { r } \cdot \pmb { w } _ { r } )$ 表示各个子任务之间的差异项，其数值越大，表示各任务之间的差异越大；反之，差异越小。惩罚的程度则用参数／来调节。
+
+b)公共决策函数和修正函数中使用的核函数可以相同，也可以不同。关于核函数的选择，本文在实验部分有详细介绍。
+
+c)参照 $\mathbf { \Delta } \mathrm { S V M + }$ 对属性特征划分组的方式来产生子任务，MTL-IC-SVM $^ +$ 能够继承 $\mathbf { S V M + }$ 利用样本的结构信息的特性，通过挖掘样本的隐藏信息来提高模型的泛化能力。
+
+$\mathrm { \ d ) { \cal S } V M + }$ 目标函数中，松弛变量表示为修正函数，由于松弛变量不得小于0，所以修正函数也必须大于等于0。而在MTL-IC-SVM+算法中，修正函数表示为任务间的差异程度，因此修正函数无需设置为大于0。
+
+通过引入拉格朗日向量 $\pmb { a }$ 和 $\beta$ ,式（9）对应的拉格朗日函数可以写成以下形式：
+
+$$
+L ( w , w _ { 1 } , . . . , w _ { t } , \rho _ { 1 } , . . . , \rho _ { t } , d _ { 1 } , . . . , d _ { t } , \alpha , \pmb { \beta } ) = \frac { 1 } { 2 } ( \pmb { w } \cdot \pmb { w } )
+$$
+
+$$
++ \frac { \gamma } { 2 } \sum _ { r = 1 } ^ { t } ( \pmb { w } _ { r } \cdot \pmb { w } _ { r } ) + \sum _ { r = 1 } ^ { t } ( \frac { 1 } { \nu _ { r } ^ { + } m _ { r } ^ { + } } \sum _ { i \in T _ { r } ^ { + } } \xi _ { i } ^ { r } ) + \sum _ { r = 1 } ^ { t } ( \frac { 1 } { \nu _ { r } ^ { - } m _ { r } ^ { - } } \sum _ { j \in T _ { r } ^ { + } } \xi _ { j } ^ { r } )
+$$
+
+$$
+\begin{array} { r l r } {  { - \sum _ { r = 1 } ^ { t } ( \sum _ { i \in T _ { r } ^ { + } } \alpha _ { i } ( \boldsymbol { w } \cdot \phi ( \boldsymbol { x } _ { i } ) + \boldsymbol { b } + \boldsymbol { w } _ { r } \cdot \phi _ { r } ( \boldsymbol { x } _ { i } ) + \boldsymbol { d } _ { r } - 1 + \xi _ { i } ^ { r } ) } } \\ & { } & { + \sum _ { j \in T _ { r } ^ { - } } \alpha _ { j } ( \boldsymbol { w } \cdot \phi ( \boldsymbol { x } _ { j } ) + \boldsymbol { b } + \boldsymbol { w } _ { r } \cdot \phi _ { r } ( \boldsymbol { x } _ { j } ) + \boldsymbol { d } _ { r } + 1 + \rho _ { t } ^ { 2 } - \xi _ { j } ^ { r } ) ) } \\ & { } & { - \sum _ { r = 1 } ^ { t } \sum _ { i \in T _ { r } ^ { + } } \beta _ { i } \xi _ { i } ^ { r } - \sum _ { r = 1 } ^ { t } \sum _ { j \in T _ { r } ^ { - } } \beta _ { j } \xi _ { j } ^ { r } - \nu \sum _ { r = 1 } ^ { t } \rho _ { r } ^ { \mathrm { \Delta } } \qquad ( 1 0 ) } \end{array}
+$$
+
+根据KKT条件，可得
+
+$$
+\frac { \hat { \sigma } L } { \hat { \sigma } w } = 0 \Rightarrow w = \sum _ { i = 1 } ^ { N } \alpha _ { i } y _ { i } \phi ( \pmb { x } _ { i } )
+$$
+
+$$
+\frac { \partial L } { \partial w _ { r } } = 0 \Rightarrow w _ { r } = \frac { 1 } { r } \sum _ { i = 1 } ^ { N } \alpha _ { i } y _ { i } \phi _ { r } ( \pmb { x } _ { i } )
+$$
+
+$$
+\frac { \partial L } { \partial b } = 0 \Rightarrow \sum _ { i \in T _ { r } ^ { + } } \alpha _ { i } - \sum _ { j \in T _ { r } ^ { - } } \alpha _ { j } = 0 , r = 1 , . . . , t
+$$
+
+$$
+\frac { \partial L } { \partial \rho _ { r } } = 0 \Longrightarrow \sum _ { j \in T _ { r } ^ { - } } \alpha _ { j } = \nu , \ r = 1 , . . . , t
+$$
+
+$$
+\frac { \partial L } { \partial \xi _ { i } ^ { r } } = 0 \Longrightarrow \alpha _ { i } + \beta _ { i } = \frac { 1 } { \nu _ { r } ^ { + } m _ { r } ^ { + } } , i \in T _ { r } ^ { + } , r = 1 , . . . , t
+$$
+
+$$
+\frac { \hat { \partial } L } { \hat { \partial } \xi _ { j } ^ { r } } = 0 \Longrightarrow \alpha _ { j } + \beta _ { j } = \frac { 1 } { \nu _ { r } ^ { - } m _ { r } ^ { - } } , j \in T _ { r } ^ { - } , r = 1 , . . . , t
+$$
+
+将式(11)\~(16)代入(10), 可得到式(10)的对偶式:
+
+$$
+\begin{array} { l } { \displaystyle \operatorname* { m i n } _ { a } \sum _ { i = 1 } ^ { N } \sum _ { j = 1 } ^ { N } \alpha _ { i } \alpha _ { j } y _ { i } y _ { j } ( \phi ( x _ { i } ) { \cdot } \phi ( x _ { j } ) ) } \\ { \displaystyle \quad + \frac { 1 } { r } \sum _ { i = 1 } ^ { N } \sum _ { j = 1 } ^ { N } \alpha _ { i } \alpha _ { j } y _ { i } y _ { j } ( \phi _ { r } ( x _ { i } ) { \cdot } \phi _ { r } ( x _ { j } ) ) } \end{array}
+$$
+
+$$
+\operatorname { s . t . } \sum _ { i \in T _ { r } } \alpha _ { i } y _ { i } = 0 , r = 1 , . . . , t
+$$
+
+$$
+\sum _ { i \in T _ { r } ^ { + } } \alpha _ { i } = \nu \ , \sum _ { j \in T _ { r } ^ { - } } \alpha _ { j } = \nu \ , r = 1 , . . . , t
+$$
+
+$$
+0 \leq \alpha _ { i } \leq \frac { 1 } { \nu _ { r } ^ { + } m _ { r } ^ { + } } , i \in T _ { r } ^ { + } , r = 1 , . . . , t
+$$
+
+$$
+0 \leq \alpha _ { j } \leq \frac { 1 } { \nu _ { r } ^ { - } m _ { r } ^ { - } } , j \in T _ { r } ^ { - } , r = 1 , . . . , t
+$$
+
+$$
+\alpha _ { i } \ge 0 , i = 1 , . . . , N
+$$
+
+由式（17）易知，MTL-IC $\mathbf { \nabla } \cdot \mathbf { S } \mathbf { V } \mathbf { M } +$ 对偶形式的时间复杂度为$O ( N ^ { 3 } )$ ，若采用SMO方法求解的时间复杂度为 $O ( N ^ { 2 } )$ 。
+
+# 2.2v-性质分析
+
+本节讨论MTL-IC-SVM $\cdot +$ 模型中参数 $\nu$ ， $\nu _ { 1 }$ 和 $\mathbf { \sigma } _ { \nu 2 }$ 参数之间的关系以及对训练精度的影响。根据SVM基本理论，一个训练样本 $\pmb { x } _ { i } ( 1 \leq i \leq N )$ 如果其对应的松弛变量 $\xi _ { i } > 0$ ，那么这个样本称为错分样本。设 $n _ { r } ^ { + }$ 和 $n _ { r } ^ { - }$ 分别表示第 $\boldsymbol { r }$ 个子任务中少数类和多数类错分样本的个数， $s _ { r } ^ { + }$ 和 $s _ { r } ^ { - }$ 分别表示第 $\boldsymbol { r }$ 个子任务中少数类和多数类中支持向量的个数。
+
+定理1 $\nu \nu _ { r } ^ { + }$ 和 $\nu \nu _ { r } ^ { - }$ 分别是少数类和多数类的错分率的上界和支持向量集的下界，即
+
+$$
+\begin{array} { c } { { n _ { r } ^ { + } / m _ { r } ^ { + } \leq \nu \nu _ { r } ^ { + } \leq s _ { r } ^ { + } / m _ { r } ^ { + } , } } \\ { { n _ { r } ^ { - } / m _ { r } ^ { - } \leq \nu \nu _ { r } ^ { - } \leq s _ { r } ^ { - } / m _ { r } ^ { - } } } \end{array}
+$$
+
+证明式（17）中第2个约束项是 $\sum _ { i \in { \cal T } _ { r } ^ { + } } \alpha _ { i } = \nu$ ，根据KKT条件，所有 $\pmb { \zeta } _ { i } ^ { r } > 0$ 的样本均满足 $\beta _ { i } = 0 ( i \in T _ { r } ^ { + } , r = 1 , . . . , t )$ 。从式（17）中第3个约束项可以看出，对每个任务中少数类样本中的每个错分样本均满足 $\smash { \alpha _ { i } = 1 / \nu _ { r } ^ { + } m _ { r } ^ { + } \quad ( i \in T _ { r } ^ { + } , r = 1 , . . . , t ) }$ ，因此可得下式：
+
+$$
+n _ { r } ^ { + } / \nu _ { r } ^ { + } m _ { r } ^ { + } \leq \sum _ { i \in T _ { r } ^ { + } } \alpha _ { i } = \nu
+$$
+
+此外，从式（17）可以看出，每个任务中的拉格朗日因子满足 $\alpha _ { i } \leq 1 / \nu _ { r } ^ { + } m _ { r } ^ { + }$ ，将这些 $\alpha _ { i }$ 相加，可得：
+
+$$
+\sum _ { i \in { \cal { T } } _ { r } ^ { + } } \alpha _ { i } \leq s _ { r } ^ { + } / \nu _ { r } ^ { + } m _ { r } ^ { + }
+$$
+
+联合式（19）（20）可以得到不等式 $n _ { r } ^ { + } / m _ { r } ^ { + } \leq \nu \nu _ { r } ^ { + } \leq s _ { r } ^ { + } / m _ { r } ^ { + }$ 。用类似的方法可以得证 $n _ { r } ^ { - } / m _ { r } ^ { - } \leq \nu \nu _ { r } ^ { - } \leq s _ { r } ^ { - } / m _ { r } ^ { - }$ 。
+
+# 3 实验与分析
+
+依照不平衡分类问题中常用的设定方法，实验中将少数类指定为正类，将多数类指定为负类。为了评价MTL-IC-SVM+的性能，实验将从两方面进行：a）针对决策函数和修正函数中核函数的选择的实验；b）与相关不平衡算法的比较性实验。实验引入 SVM[19]、 $\mathbf { S } \mathbf { V } \mathbf { M } { + } ^ { [ 1 5 ] }$ 、DEC[16]、EasyEnsemble[17]和AdaBoost[18]与本文所提算法进行了比较。这五种算法中，SVM作为基线算法；DEC、EasyEnsemble 和AdaBoost均为不平衡分类算法，与之比较是为了验证本文算法与其他优秀的不平衡算法具有可比较甚至精度更高的性能。所有算法在MATLAB2010b 环境下实现，SVM算法由LIBSVM软件[19]实现。
+
+# 3.1实验设置
+
+为体现不同程度的不平衡性对算法分类性能产生的影响，本文采用G-mean评价指标来评价算法的分类性能：
+
+$$
+G - m e a n = { \sqrt { P o s i t i \nu e A c c u r a c y \times N e g a t i \nu e A c c u r a c y } }
+$$
+
+其中：PositiveAccuracy为正类（少数类）样本的分类精度，NegativeAccuracy为负类（多数类）样本的分类精度。G-mean指标因同时兼顾多数类和少数类样本的分类精度而被广泛用于处理不平衡数据分类问题。
+
+参照文献[15,20]中的方法，实验中通过给属性划分数据组的方式来产生若干个多任务学习。鉴于医学数据集常出现类别的不平衡的现象，本节将在4个UCI医学数据集[21上对MTL-IC-SVM+进行评价。这四个UCI医学数据集分别是 StalogHeartDisease（Heart),Pima Indians'diabetes（Pima),Hepatitis和BUPALiver（Liver）。
+
+Heart集包含13个特征，实验中随机选择40个正类样本和150个负类样本构成190个样本的数据集，正负类比例是4:15。首先，多任务学习A依据特征'age’的分布范围将数据集划分成3个子任务：子任务1 $\mathrm { ( a g e < 5 0 }$ ，60个样本)，子任务2（50≤age $< 6 0$ ，66个样本）和子任务3(age $\geqslant 6 0$ ,64个样本)。其次，Heart集上多任务学习B依据特征'sex’的分布范围将数据集划分成2个子任务：子任务1 $( \mathrm { s e x } = 0 , 4 7$ 个样本）和子任务2(sex$= 1$ ，143 个样本)。
+
+Pima 集包含768样本，8个特征，其中正负类比例是67:134。Pima集上多任务学习A依据特征‘age’将数据集划分成3个不同的子任务：子任务1（age $\leqslant 2 5$ ，267个样本)，子任务2 $( 2 6 { \leqslant } \mathrm { a g e } { < } 3 9$ ，294个样本）和子任务3(age $\geqslant 4 0$ ，207个样本）。其次，多任务学习B依据特征‘diabetespedigreefunction(pedigree)的分布范围划分3个子任务：子任务1(pedigree $< 0 . 2 5$ ，205个样本)，子任务2（ $0 . 2 5 \leqslant$ pedigree ${ \leqslant } 0 . 5$ ，286个样本）和子任务3(pedigree $> 0 . 5$ ，277 个样本)。
+
+Hepatitis集包含19个特征，实验中随机选择30个正类样本和 85个负类样本构成115个样本的数据集，正负类比例是6:17。实验中在这一数据集上产生两个多任务学习，多任务学习A 依据特征steroid’的分布范围将数据集划分成2个子任务：子任务1(steroid $_ { . = 1 }$ ，58个样本)，子任务2(steroid $_ { = 2 }$ ，57个样本)。多任务学习B依据特征‘malaise’的分布范围将数据集划分成2个子任务：子任务1(malaise $_ { : = 1 }$ ，61个样本)和子任务2(malaise $_ { : = 2 }$ ，54个样本)。
+
+Liver 数据集包含六个特征，其中正负类比例是29:40，共345个样本。实验中多任务学习A的产生是依据特征drinksnumber of half-pint equivalents of alcoholic beverages drunk perday(drinks）的分布范围将数据集划分成两个子任务：子任务1(drinks $\leqslant 1 7$ ，112个样本)，子任务2( $1 8 \leqslant$ drinks $\leqslant 3 6$ ，111个样本）和子任务3（drinks $> 3 6$ ，112个样本)。其次，Pima 数据集上多任务学习B是依据特征'sgpt alamine aminotransferase'(sgpt)的分布范围将数据集划分成三个子任务：子任务1 $1 ~ ( \mathrm { s g p t } { \leqslant } 2 0$ ，104 个样本)，子任务2（ $2 1 { \leqslant } \mathrm { s g p t } { \leqslant } 3 0$ ，113个样本）和子任务3(sgpt $> 3 1$ ，118 个样本)。
+
+本文使用10折交叉验证按照以下网格划分在训练集上寻找最优参数：SVM、 $\mathbf { S V M + }$ 和本文所提方法的高斯核的核参数在[0.1,0.2,0.4,0.6,1,1.5,3]，正则化参数 $c$ 在[0.1,1,10,100],参数在[0.001,0.1,0.1,1,10]，参数 $\nu$ 在[10,30,50,70,90],参数 $ { \boldsymbol \nu } _ { r } ^ { + }$ 和 $ { \boldsymbol \nu } _ { r } ^ { - }$ 在[0.001，0.01]。对于其他对比算法，均按照原文参数设置方法完成设置，其中DEC中参数 $C ^ { - } / C ^ { + }$ 的值等于少数类样本容量与多数类样本容量的比值；对于 EasyEnsemble 和Adaboost，设置弱分类器的个数是10。
+
+# 3.2MTL-IC-SVM $^ +$ 中核类型的选择
+
+正如前文所述，MTL-IC-SVM+算法中的决策函数和修正函数中的核函数是独立的，两者可以相同也可以不同。实验中分别在两者中使用线性核和高斯核 $\exp ( - \sigma \| \mathbf { x } - \mathbf { y } \| ^ { 2 } )$ ，共有四种核类型组合，分别用符合M1、M2、M3和M4表示，如表1所示。高斯核的核参数 $\sigma _ { 1 }$ 和 $\sigma _ { 2 }$ 均在实验设定的范围内寻优获得。为了找到适用于MTL-IC-SVM+的核类型，实验中分别将表1所示的四种核类型组合在Heart、Pima、Hepatitis和Liver集运行，结果如表2所示。
+
+表1MTL-IC-SVM+中的核类型选择  
+
+<html><body><table><tr><td>核类型</td><td>决策函数中的核类型</td><td>修正函数中的核类型</td></tr><tr><td>M1</td><td>线性核</td><td>线性核</td></tr><tr><td>M2</td><td>线性核</td><td>高斯核O2</td></tr><tr><td>M3</td><td>高斯核σ</td><td>线性核</td></tr><tr><td>M4</td><td>高斯核σ1</td><td>高斯核</td></tr><tr><td>表2</td><td>MTL-IC-SVM+不同核类型下的G-mean 值比较</td><td></td></tr><tr><td>数据集</td><td>多任务名称 M1</td><td>M2 M3 M4</td></tr><tr><td rowspan="4">Heart</td><td>70.13 多任务A</td><td>72.86 76.62 78.58</td></tr><tr><td>±1.01</td><td>±1.00 ±1.14 ±1.07 78.09</td></tr><tr><td>71.00 多任务B</td><td>72.59 76.08</td></tr><tr><td>±1.12</td><td>±1.06 ±1.20 ±1.09</td></tr><tr><td rowspan="4">Pima</td><td>67.13 多任务A</td><td>69.06 71.55</td><td>73.09</td></tr><tr><td>±2.08</td><td>±1.83 ±1.77</td><td>±2.18</td></tr><tr><td>67.00 多任务B</td><td>69.13</td><td>71.46 73.12</td></tr><tr><td>±2.00</td><td>±1.94 ±1.79</td><td>±2.02</td></tr><tr><td rowspan="2">Hepatitis</td><td>60.84 多任务A</td><td>62.51</td><td>68.00 68.86</td></tr><tr><td>±1.90</td><td>±2.03</td><td>±1.91 ±1.66</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="6">多任务A Liver</td><td rowspan="5">多任务B</td><td>60.32</td><td>62.11</td><td>67.89</td><td>68.41</td></tr><tr><td>±1.78</td><td>±2.21</td><td>±1.85</td><td>±1.80</td></tr><tr><td>61.06</td><td>61.99</td><td>65.77</td><td>66.24</td></tr><tr><td>±2.56</td><td>±2.12</td><td>±2.30</td><td>±2.38</td></tr><tr><td>61.15</td><td>61.84</td><td>65.82</td><td>66.13</td></tr><tr><td>多任务B ±2.74</td><td>±2.33</td><td>±2.85</td><td>±2.86</td></tr></table></body></html>
+
+文献[3]得出结论：SVM在绝大多数真实数据上使用非线性核的分类效果要优于使用线性核的情况。表2显MTL-IC-SVM+在各数据集上的G-mean值最优值均在M4模型上获得，次优值在M3 模型上获得，而在M1模型获得的G-mean值均是最低的。显然，本文所提 MTL-IC-SVM+在实验中验证了这一说法。因此在后续的实验中，本文在决策函数和修正函数上均使用高斯核函数。但需要说明的是，决策函数和修正函数中使用的高斯核函数使用不同的核参 $\sigma _ { 1 }$ 和 $\sigma _ { 2 }$ 。
+
+# 3.3MTL-IC-SVM $^ +$ 性能比较
+
+为了评价MTL-IC-SVM+在不平衡分类问题中的性能，实验中将MTL-IC-SVM $\cdot +$ 与SVM、 $\mathbf { S V M + }$ 、DEC、EasyEnsemble 和Adaboost在四个不平衡UCI数据集上的性能进行了比较，实验结果如表3所示。从表中数据可以看出：
+
+a）MTL-IC-SVM $+$ 对比5种对比算法在四个不平衡数据集上均取得了最好的 $G$ -mean值。实验中在每个数据集上均建立了两个任务学习任务，结果显示两者间的差距不大，说明不同的属性特征中均蕴含一定的样本结构信息。
+
+b）较 SVM 和 DEC 只能将样本映射至决策空间，MTL-IC-SVM+可以将样本同时映射至决策空间和修正空间，这为MTL-IC-SVM+适用于不同任务的训练数据提供了更多的灵活性。
+
+c）SVM和 $\mathbf { \Delta } \mathrm { S V M + }$ 未考虑数据的不平衡性造成分类面的偏移，从表中数据可知，这四种算法对应的Positive accuracy值较低，因此 $G$ -mean值也低于其他算法。
+
+d)EasyEnsemble 和Adaboost算法使用过采样技术来增加少数类样本的数量，由于改变了样本的分布结构容易造成分类器过拟合的现象。因此，这两种算法获得的 $G$ -mean值也低于MTL-IC-SVM+。
+
+为了进一步评价MTL-IC-SVM $\cdot +$ 在不同正负类比例下的分类性能，对四个UCI医学数据集进行改造，各类数据集随机划分成训练集和测试集，训练集包含从多数类样本中抽取的 $70 \%$ 样本和根据{ $20 \%$ ， $40 \%$ ， $60 \%$ ， $8 0 \%$ }不同取值所分别抽取的不同的少数类样本，其余样本作为测试数据集。考虑到MTL-IC-SVM+中两个多任务分类效果相当，实验中在每个数据集上按照4.1节的组别的设置生成多任务A， $\mathbf { S V M + }$ 中的分组属性同样使用多任务A的分组属性。实验中依然通过10折交叉验证的方法进行参数的选择，图1记录了六种算法在四个不平衡UCI医学数据集上不同正负类比例下 $G$ -mean值。结果显示MTL-IC-SVM+对于各数据集下不同的正负类比例均具有优良的分类性能。
+
+表3UCI数据集上不同分类器分类效果的比较  
+
+<html><body><table><tr><td>数据集</td><td>算法</td><td>Positive accuracy</td><td>Negative accuracy</td><td>G-mean</td></tr><tr><td rowspan="10">Heart</td><td>SVM</td><td>45.08±2.53</td><td>88.80±2.62</td><td>63.71±2.58</td></tr><tr><td>SVM+(分组属性‘age’）</td><td>47.19±2.05</td><td>88.00±2.42</td><td>64.47±2.16</td></tr><tr><td>SVM+(分组属性‘sex’）</td><td>47.10±2.47</td><td>87.75±1.74</td><td>64.29±2.02</td></tr><tr><td>DEC</td><td>71.12±2.39</td><td>82.50±1.90</td><td>76.41±2.25</td></tr><tr><td>EasyEnsemble</td><td>72.74±2.21</td><td>81.02±1.58</td><td>77.34±1.77</td></tr><tr><td>Adaboost</td><td>72.75±2.42</td><td>81.51±1.55</td><td>77.22±1.88</td></tr><tr><td>MTL-IC-SVM+</td><td>77.24±1.18</td><td>80.01±0.94</td><td>78.58±1.07</td></tr><tr><td>(多任务A) MTL-IC-SVM+</td><td></td><td></td><td></td></tr><tr><td>(多任务B)</td><td>76.19±1.08</td><td>80.44±0.88</td><td>78.09±1.09</td></tr><tr><td>SVM</td><td>50.10±2.34</td><td>88.30±2.45</td><td>66.57±2.35</td></tr><tr><td></td><td>SVM+(分组属性‘age’）</td><td>52.33±2.37</td><td>87.91±2.34</td><td>67.45±2.31</td></tr><tr><td></td><td>SVM+</td><td>52.54±2.32</td><td>87.61±2.28</td><td></td></tr><tr><td></td><td>（分组属性‘pedigree’）</td><td></td><td></td><td>67.20±2.31</td></tr><tr><td></td><td>DEC</td><td>65.94±2.83</td><td>77.93±2.34</td><td>71.29±2.52</td></tr><tr><td>Pima</td><td>EasyEnsemble</td><td>68.12±2.56</td><td>76.80±2.11</td><td>72.64±2.46</td></tr><tr><td></td><td>Adaboost</td><td>67.19±3.35</td><td>77.80±3.43</td><td>72.22±3.78</td></tr><tr><td></td><td>MTL-IC-SVM+</td><td>71.05±2.13</td><td>75.80±2.06</td><td></td></tr><tr><td></td><td>(多任务A)</td><td></td><td></td><td>73.09±2.18</td></tr><tr><td>MTL-IC-SVM+</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>数据集</td><td>算法</td><td>Positive accuracy</td><td>Negative accuracy</td><td>G-mean</td></tr><tr><td rowspan="10">Hepatitis</td><td>SVM</td><td>35.76±1.07</td><td>97.75±2.24</td><td>59.03±1.64</td></tr><tr><td>SVM+</td><td>39.43±2.47</td><td>95.58±1.96</td><td>61.16±2.07</td></tr><tr><td>(分组属性‘steroid’） SVM+</td><td></td><td></td><td></td></tr><tr><td>(分组属性‘malaise’</td><td>39.86±2.53</td><td>95.27±2.31</td><td>61.26±2.44</td></tr><tr><td>DEC</td><td>56.63±1.52</td><td>88.02±2.60</td><td>68.08±2.21</td></tr><tr><td>EasyEnsemble</td><td>55.45±1.01</td><td>83.35±1.60</td><td>67.75±1.47</td></tr><tr><td>Adaboost</td><td>55.35±2.72</td><td>83.41±1.60</td><td>67.70±2.01</td></tr><tr><td>MTL-IC-SVM+ (多任务A)</td><td>57.32±1.75</td><td>81.76±1.50</td><td>68.86±1.66</td></tr><tr><td>MTL-IC-SVM+</td><td>57.15±1.24</td><td>81.76±2.13</td><td></td></tr><tr><td>(多任务B)</td><td></td><td></td><td>68.41±1.80</td></tr><tr><td rowspan="8"></td><td>SVM</td><td>40.32±2.98</td><td>75.34±2.45</td><td>54.20±2.68</td></tr><tr><td>SVM+</td><td>43.79±2.74</td><td>72.85±2.24</td><td>56.11±2.36</td></tr><tr><td>（分组属性‘drinks’） SVM+（分组属性‘sgpt’）</td><td></td><td></td><td></td></tr><tr><td>DEC</td><td>43.29±2.73</td><td>73.03±2.44</td><td>55.01±2.66</td></tr><tr><td>EasyEnsemble</td><td>60.87±2.14</td><td>71.03±2.34 71.56±2.62</td><td>65.35±2.22</td></tr><tr><td>Adaboost</td><td>60.03±2.32 60.57±2.77</td><td>71.32±2.81</td><td>65.37±2.47</td></tr><tr><td>MTL-IC-SVM+</td><td></td><td></td><td>65.54±2.79</td></tr><tr><td></td><td>62.41±3.69</td><td>70.84±2.53</td><td></td></tr><tr><td>(多任务A) MTL-IC-SVM+</td><td></td><td></td><td>66.24±2.38</td></tr></table></body></html>
+
+![](images/478ee407498ad19b565f9060d08183e5086e99d72e7cc3397e83545e8bce4bcd.jpg)  
+图1UCI医学集上6种算法在不同正负类比例下G-mean 比较
+
+# 4 结束语
+
+本文提出的MTL-IC-SVM $\cdot +$ 在使用"大间隔"的机制设置少数类到分类面的距离大于多数类到分类面的距离，并按照样本数比例设置多数类和少数类样本不同的错分惩罚因子的同时，将 $\mathbf { S V M + }$ 的分组挖掘样本隐藏信息的单任务学习改造为多任务学习的模型来提高模型的分类泛化能力。在4个不平衡UCI数据集上的实验表明，MTL-IC-SVM $\cdot +$ 具有良好的分类性能。应当指出，本文对如何更合理地选择特征属性作为划分子任务的依据，以及MTL-IC-SVM $\cdot +$ 能否有效解决大样本、处理有噪声数据等问题没有进行深入探讨，MTL-IC-SVM+仍面临进一步提高实用性的挑战，这些将作为笔者近期的研究重点。
+
+# 参考文献：
+
+[1]Sun Zhongbin，Song Qinbao,Zhu Xiaoyan，et al.A novel ensemble method for classifying imbalanced data [J]. Pattern Recognition,2015,48 (5): 1623-1637.   
+[2] 刘东启，陈志坚，徐银，等．面向不平衡数据分类的复合 SVM 算法研 究[J].计算机应用研究，2018,35(4):1023-1027.(Liu Dongqi，Chen Zhijian，Xu Yin,et al.Hybrid SVM algorithm oriented to classifying imbalanced datasets,Application Research of Computers,2018,35 (4): 1023-1027. )   
+[3]Chen Wei,Pourghasemi H, Kornejady A,et al.Landslide spatial modeling: introducing new ensembles of ANN,MaxEnt,and SVM machine learning techniques [J].Geoderma,2017,305 (11): 314-327.   
+[4]Wang Zhigang, Zhao Zengshun,Weng Shifeng,et al. Incremental multiple instance outlier detection [J].Neural Computing& Applications,2O15,26 (4): 957-968.   
+[5]Zhao Zengshun,Feng Xiang，Wei Fang,et al. Learning representative features for robot topological localization [J]. International Journal of Advanced Robotic Systems,2013,10 (4):1-12.   
+[6]Abidine M,Fergani B.Effect of oversampling versus undersampling for SVM and LDA classifiers for activity recognition [J]. International Journal of Design & Nature & Ecodynamics,2016,11(3): 306-316.   
+[7]Maldonadoa S,López J.Dealing with high-dimensional class-imbalanced datasets:Embedded feature selection for SVM classification [J].Applied Soft Computing,2018,67 (6): 94-105.   
+[8]Wang Boyu,Pineau J. Online bagging and boosting for imbalanced data streams [J].IEEE Trans on Knowledge and Data Engineering,2016,28 (12): 3353-3366.   
+[9]López V,Fernandez A, Jesus M,et al.A hierarchical genetic fuzzy system based on genetic programming for addressing classification with highly imbalanced and borderline datasets [J].Knowledge Based Systems,2013, 38 (3): 85-104.   
+[10] Yu Lean, Zhou Rongtian,Tang Ling,et al. ADBN-based resampling SVM ensemble learning paradigm for credit classification with imbalanced data Research article [J]. Applied Soft Computing,2018,69 (8):192-202.   
+[11] Cheng Fanyong, Zhang Jing,Wen Cuihong,et al. Large Cost-Sensitive Margin Distribution Machine for Imbalanced Data Clasification [J]. Neurocomputing,2017,224 (8): 45-57.   
+[12]Jiang Yingzhang,Deng Zhaohong,Chung FL,et al.Multi-task TSK fuzzy system modeling by mining inter-Task common hidden structure [J]. IEEE Trans on Cybernetics,2015,45 (3): 548-61.   
+[13]Jiang Yingzhang,Deng Zhaohong,Choi K S,et al.A novel multi-task TSK fuzzy classifier and its enhanced version for labeling-risk-aware multi-task classification [J]. Information Sciences,2016,357 (2): 39-60.   
+[14] Vapnik V, Vashist A.A new learning paradigm: Learning using privileged information [J]. Neural Networks,2009,22 (5): 544-557.   
+[15]Liang Lichen,Cai Feng,Cherkassky V. Predictive learning with structured (grouped) data[J]. Neural Networks,2009,22(6): 766-773.   
+[16] He Haibo,Ma Yunqian. Imbalanced learning: foundations,algorithms,and applications [M].Hoboken: Wiley,2013: 83-96.   
+[17] Liu Xuying,Wu Jianxin,Zhou Zhihua.Exploratory undersampling for class imbalance learning [J]. IEEE Transon Systems，Man，and Cybernetics,Part B: Cybernetics,2009,39 (2): 539-550.   
+[18] Wang Shuo,Yao Xin．Multiclass imbalance problems:analysis and potential solutions [J].IEEE Trans on Systems,Man and Cybernetics Part B: Cybernetics,2012,42 (4): 1119-1130.   
+[19] Chang C C,Lin C J, LIBSVM: a library for support vector machines [J]. ACM Trans on Intelligence System Technology,2011,2 (3):1-27.   
+[20] Zhu Wenxin, Zhong Ping.A new one-class SVM based on hidden information [J].Knowledge Based Systems,2014,60 (4): 35-43.   
+[21] UCIrvine Machine Learning Repository. UCI database [DB/OL]. [2016-09-28] http://www.ics.uci. edu/%20mlearn/MLRepositoy. html.

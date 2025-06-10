@@ -1,0 +1,675 @@
+[
+    {
+        "type": "text",
+        "text": "机会中继协同通信系统在Nakagami-m衰落信道中的折中性能分析及系统优化\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭磊，臧国珍，高媛媛，沙楠，蒋炫佑(陆军工程大学 通信工程学院，南京 210007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对外部窃听者对多中继协同通信系统中信息传输带来的安全威胁，提出一种由中继节点在转发信息的同时发送人工干扰信号的协同安全传输方案，并对该方案在 Nakagami-m 衰落信道中的安全性能进行了分析，推导出了用于评估机会中继系统可靠性的中断概率和安全性的截获概率的闭式表达式，并在此基础上从可靠性和安全性两方面对系统的折中性能进行了讨论。通过仿真，验证了推导的正确性，明确了中继个数对系统折中性能的影响。最后，为进一步提高系统折中性能，文中还讨论了系统中人工干扰信号与通信信号间的功率分配问题，并通过仿真得到了能使系统折中性能达到最优的功率分配因子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：协同通信；Nakagami-m衰落信道；中继选择；中断概率；截获概率 中图分类号：TN918.6 doi:10.3969/j.issn.1001-3695.2018.06.0400 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tradeoff performance analysis and system optimization of opportunistic relay cooperative communication system under Nakagami-m fading channel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Lei, Zang Guozhen, Gao Yuanyuan, Sha Nan, Jiang Xuanyou (College ofCommunications Engineering,Army Engineering University ofPLA,Nanjing 21007,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Regardingtothesecuritythreattotheinformation transmision fromtheexternaleavesdropper inthemulti-relay cooperative communication system，this paper proposed acooperative secure transmision scheme,that relay forwards informationand sends artificial interference simultaneously.Also,this paper analyzedthe securityperformanceof thescheme under the Nakagami-m fading channel,and derived theexact closed-form expresionsofoutage probabilityand ntercept probability.Moreover,thispaperdiscussd the tradeofperformanceofthe systemfromtwoaspects ofreliabilityandsecurity. Throughsimulation,verifying thecorrectness ofthe derivation,and clarifying theimpactofrelaynumberonthetradeoff performanceofthesystem.Finaly,inordertofurtherimprovete tradeoffperformanceofthesystem,thispaperalsodiscussed the power allocationproblembetween theartificialinterference signalandthecommunicationsignal,andobtainedthepower allocation factor which can make the tradeoff performance optimal by simulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:cooperativecommunication;Nakagami-mfadingchannel; relayselection;outageprobability;interceptprobability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着无线通信技术的快速发展及广泛应用，人们对数据业务的需求日益增长，同时对个人私密信息的保密传输也提出了更高的要求。协同通信利用系统内各节点协作处理信息，能够获得很好的分集增益，从而有效提高信息传输的可靠性[1]。凭借其优异的抗衰落性能，协同通信技术在无线通信领域得到了广泛研究[23]。然而，由于无线信道的开放性和信息传输的广播特性，协同通信在利用中继节点进行协同传输提高信息传输的可靠性、扩大通信范围的同时，也增加了信息被窃听者截获的可能性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，物理层安全技术作为传统加密技术的补充而得到了广泛的关注，其中人工干扰技术是实现物理层安全的一种常用手段，在解决协同通信系统面临的安全威胁问题中得到了非常广泛的应用[45]。文献[4]给出了一种由源节点发送人工干扰信号的安全通信方案，为了使系统获得最佳的安全性能还对系统的总发送功率进行了优化分配；文献[5]利用人工干扰提高双向中继通信系统的安全，通过设计中继和用户的预编码矩阵，有效地防止了信息被窃听者截获。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对协同通信系统的研究多以可靠性或安全性这些单一的性能指标为性能评价标准而展开，然而实际应用时更需关注系统的综合性能。近来，业界已逐渐开始对协同通信系统在可靠性和安全性方面的综合性能同时进行研究[6][7],使其更适用于实际应用。文献[6]首次提出安全中断概率的概念，为后来的系统安全性分析开辟了新的思路。文献[7]对瑞利信道下机会中继协同通信系统的可靠性和安全性进行了分析，通过对分别用于代表可靠性和安全性的中断概率和截获概率进行数值仿真，发现协同通信系统中信息传输可靠性的提升同时伴随着安全性的降低，反之亦如此，然而实际系统通常是期望可靠性和安全性都能达到最好，而该文献没有考虑系统在这两方面的综合性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中继节点是协同通信系统所特有的，一般来讲选择不同的节点作为中继进行协同传输的系统性能是不同的，因而中继节点的选择一直是协同通信系统构成的关键，已得到业界的广泛研究[8:9]。文献[8]采用最大信噪比策略进行了中继选择，并分析了系统的中断概率和分集增益。文献[9]针对窃听信道状态信息是否已知，分别提出了最优中继选择方案和次优中继选择方案，并推导出两种方案下的安全中断概率的渐近闭式表达式。但这些文献也都是以可靠性或安全性方面的单一性能对系统中的中继选择进行研究的，而没有考虑系统的综合性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对存在窃听者的多中继协同通信系统模型，提出了一种利用机会中继转发信息的同时发送人工干扰的安全传输方案。基于更一般的Nakagami-m 衰落信道，对系统的可靠性和安全性进行了折中分析。首先推导了用于代表可靠性的主信道中断概率和用于代表安全性的窃听信道截获概率，并将中断概率和截获概率作为一个整体，分析了系统在信息传输的可靠性与安全性两方面的折中性能。仿真验证了推导的正确性，分析了中继个数对系统安全性能的影响。最后，讨论了人工干扰与源信号间的功率分配问题，并得到了使系统折中性能达到最优的功率分配因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文考虑的系统模型如图1所示，在存在窃听者E的情况下，包含单个源S、目的端D和 $\\mathrm { ~  ~ N ~ }$ 个中继 $R _ { k } ( k = 1 , \\cdots , N )$ ，假设S与D、S与E之间由于距离较远而没有直通链路，而D和E在 $R _ { k }$ 的通信覆盖范围内，因此在中继转发信息给D时，E也能收到中继转发的信息。假设中继节点都工作在半双工模式，且采用译码转发的协同策略。所有节点都只有一根天线用于发送和接收信息。在通信过程中，假设系统采用机会中继策略只选一个中继为目的端D转发源信息。为降低窃听信道质量，假设被选中继在转发源信息的同时发送D已知的人工干扰信号(如伪随机序列)以降低E处的信干噪比(SINR)。假设所有链路是Nakagami-m衰落信道。文中常用的符号对应的含义如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13643bbce899d07d0146da2980c8299053d988ee34a014aa88b8f9ed87eeebb.jpg",
+        "img_caption": [
+            "图1存在窃听者的机会中继协同通信系统模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bc8cab73319bbfd456fa54db9263675d30bad2d22f5b2910dd2f68a8169a91c.jpg",
+        "table_caption": [
+            "表1常用符号含义"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>D</td><td>能够译码的中继集合</td></tr><tr><td>N</td><td>中继总数</td></tr><tr><td>yi</td><td>i节点的接收信号，i∈{R,D,E}</td></tr><tr><td>X</td><td>i节点的发送信号，i∈{S,R}</td></tr><tr><td>hi</td><td>服从Nakagami-m分布的信道衰落系数，i∈{S,R}，j∈{R,D,E}</td></tr><tr><td>Pi</td><td>信号发送功率i∈{S,R}或人工干扰功率i∈{J}</td></tr><tr><td>n</td><td>i节点的加性高斯白噪声ni~CN(0σ²)，i∈{R,D,E}</td></tr><tr><td>Ci</td><td>i节点处的信道容量，i∈{R,D,E}</td></tr><tr><td>Yi</td><td>Yu=|h²，且Yij~Ga(mij,𝜆ij），i∈{S,R}，j∈{R,D,E}</td></tr><tr><td></td><td></td></tr><tr><td></td><td>的平均功率，i∈{S,R}，j∈{R,D,E}</td></tr><tr><td>r()</td><td>伽马函数</td></tr><tr><td>R*</td><td>选出的最佳中继</td></tr><tr><td>Rs</td><td>目标数据传输速率</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整个信息传输过程可以分为两个阶段，在第一阶段，S将源信息发送给所有中继。由于S到各 $R _ { k } ( k = 1 , \\cdots , N )$ 间的链路信道存在差异，各 $R _ { k }$ 接收到的信号并不是都能够满足实现完美译码转发的要求。为便于分析，设能够译码的中继集合为 $\\mathcal { D }$ 。当$\\mathcal { D }$ 为空集时，表示没有中继能够译码出源信息；当 $\\mathcal { D }$ 为全集，即 $| \\mathcal { D } | = N ( | \\mathcal { D } |$ 表示集合 $\\mathcal { D }$ 的基)时，表示所有中继能够实现完美译码。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在第一阶段，中继 $R _ { k }$ 处接收到的信号可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { R _ { k } } = \\sqrt { P _ { S } } h _ { S R _ { k } } x _ { S } + n _ { R _ { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { S }$ 表示 S 的发送功率， $h _ { S R _ { k } }$ 表示S与第 $\\mathbf { k }$ 个中继之间服从Nakagami $. \\mathrm { m }$ 分布的信道衰落系数， $x _ { S }$ 表示源信号， $n _ { R _ { k } }$ 表示中继 $R _ { k }$ 处均值为0，方差为 $\\sigma _ { R _ { k } } ^ { 2 }$ 的加性高斯白噪声(AWGN)，即 $n _ { R _ { k } } \\sim C N \\left( 0 , \\sigma _ { R _ { k } } ^ { 2 } \\right)$ 。因此，运用香农定理，可得到S与 $R _ { k }$ 之间的信道容量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { R _ { k } } = \\frac { 1 } { 2 } \\log _ { 2 } \\left( 1 + \\frac { P _ { S } \\gamma _ { S R _ { k } } } { \\sigma _ { R _ { k } } ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { R _ { k } }$ 表示所在信道可靠通信能达到的最大速率，对数前面的因子 $\\frac { 1 } { 2 }$ 表示信息传输需要占用两个时隙。 $\\gamma _ { S R _ { k } } = \\left| h _ { S R _ { k } } \\right| ^ { 2 }$ 服从伽马分布， $\\gamma _ { S R _ { k } } \\sim G a \\left( m _ { S R _ { k } } , \\lambda _ { S R _ { k } } \\right)$ （ $G a ( \\bullet )$ 表示伽马分布， $m _ { S R _ { k } }$ 为Nakagami分布的形状因子，代表由于散射过程和多径干涉过程造成的传播信号的衰落程度。sR=R ，代表多径散射分量的平均功率），其概率密度函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\Gamma _ { S R _ { k } } } \\left( \\gamma _ { S R _ { k } } \\right) = \\frac { \\lambda _ { S R _ { k } } ^ { m } } { \\Gamma \\left( m _ { S R _ { k } } \\right) } \\gamma _ { S R _ { k } } ^ { m _ { S R _ { k } } - 1 } e ^ { - \\lambda _ { S R _ { k } } \\gamma _ { S R _ { k } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在第二阶段，如果译码中继集合 $\\mathcal { D }$ 不是为空集，则其中一个中继转发的信息将被作为目的端 $\\mathrm { ~ D ~ }$ 的译码信号。本文的中继选择策略为选择使 $R _ { k }$ 到 $\\mathrm { ~ D ~ }$ 信道系数最大的中继，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { R } ^ { * } = \\arg \\operatorname* { m a x } _ { \\boldsymbol { R _ { k } } \\in \\boldsymbol { D } } \\left. h _ { \\boldsymbol { R _ { k } } \\boldsymbol { D } } \\right. ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\left| h _ { R _ { k } D } \\right| ^ { 2 }$ 表示第 $\\mathbf { k }$ 个中继与 $\\mathrm { ~ D ~ }$ 间的信道增益。这种中继选择策略只需要知道主信道的信道状态信息(CSI)，而不需要知道窃听信道的状态信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择出的中继 $\\boldsymbol { R } ^ { * }$ 将来自S的信息译码后重新编码并转发出去，同时发送D已知的人工干扰信号，目的端和窃听端接收到的信号可分别表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { D } = \\sqrt { P _ { R } } h _ { \\bar { R ^ { \\prime } } D } x _ { R } + \\sqrt { P _ { J } } h _ { R ^ { * } D } x _ { J } + n _ { D }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { E } = \\sqrt { P _ { R } } h _ { \\bar { R ^ { * } } E } x _ { R } + \\sqrt { P _ { J } } h _ { R ^ { * } E } x _ { J } + n _ { E }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { R }$ 和 $P _ { J }$ 分别为中继转发信号的功率和发射干扰信号的功率， $x _ { R }$ 和 $x _ { J }$ 分别为中继转发的源信号和人工干扰信号，$n _ { D } \\sim C N \\left( 0 , \\sigma _ { D } ^ { 2 } \\right)$ 和 $n _ { E } \\sim C N \\left( 0 , \\sigma _ { E } ^ { 2 } \\right)$ 分别表示在目的端和窃听端接收到的加性高斯白噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设目的端D已知主信道的CSI和中继发送的人工干扰，因此能够完全消除人工干扰对译码带来的影响，而窃听者E对人工干扰一无所知，则被选中继 $\\boldsymbol { R } ^ { * }$ 与 $\\mathrm { ~ D ~ }$ 和E的信道容量可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { D } = \\frac { 1 } { 2 } \\mathrm { l o g } _ { 2 } \\left( 1 + \\frac { P _ { R } \\gamma _ { R ^ { * } D } } { \\sigma _ { D } ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { E } = \\frac { 1 } { 2 } \\log _ { 2 } \\left( 1 + \\frac { P _ { R } \\gamma _ { R ^ { ^ { 8 } E } } } { P _ { J } \\gamma _ { _ { R ^ { ^ { 8 } E } } } + \\sigma _ { E } ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma _ { _ { R ^ { * } D } }$ 和 $\\gamma _ { _ { R ^ { * } E } }$ 都服从伽马分布，即 $\\gamma _ { _ { R ^ { * } D } } { \\sim } G a \\Big ( m _ { _ { R ^ { * } D } } { , } \\lambda _ { _ { R ^ { * } D } } \\Big )$ $\\gamma _ { _ { R ^ { * } E } } \\sim G a \\big ( m _ { _ { R ^ { * } E } } , \\lambda _ { _ { R ^ { * } E } } \\big ) \\circ$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 系统性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这部分，推导出了本文系统方案在 Nakagami 衰落信道中的中断概率(OP，用于代表系统的可靠性)和截获概率(IP，代表系统的安全性)的闭式表达式，然后给出了一个将系统可靠性和安全性作为一个整体对系统折中性能(SRT)进行分析的性能指标T，最后对系统中各信号间的功率分配对系统性能的影响进行了分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在物理层安全中，源编码者通常需要设法设计出使合法目的端D的数据速率( $R _ { s }$ )和窃听者E的疑义速率( $R _ { e }$ )最大的编码。如果数据速率与疑义速率相等( $R _ { s } = R _ { e }$ )就表示能实现完美安全，这意味着D可实现以 $R _ { s }$ 的数据速率，而S与E之间传输的互信息为零[7。因此在下文的分析中，对于中断概率和截获概率选用相同的门限值 $R _ { s }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1中断概率(可靠性) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上文得到了中继节点和目的节点处的信道容量，对于一个给定的目标传输速率 $R _ { s }$ ，系统信息传输的中断概率(OP)可以定义为发生中断事件 $C _ { _ R } { < } R _ { s }$ 或 $C _ { D } < R _ { s }$ 的概率[7]，其可以用来衡量通信系统信息传输的可靠性。因此，根据全概率公式得到的OP表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { O P } = \\sum _ { n = 0 } ^ { N } \\sum _ { D \\subset \\mathbb { R } } \\operatorname* { P r } \\left\\{ \\left| \\mathcal { D } \\right| = n , C _ { _ { R ^ { * } D } } < R _ { S } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { S }$ 为数据传输速率， $\\mathbb { R } = \\left\\{ R _ { 1 } , R _ { 2 } , \\cdot \\cdot \\cdot , R _ { N } \\right\\}$ 表示中继集合。当 $\\left| \\mathcal { D } \\right| { = } 0$ ，也就意味着 $\\mathcal { D } = \\mathcal { O }$ ，此时没有中继转发信息到 $\\mathrm { ~ D ~ }$ 因此，式(9)又可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { O P } = \\operatorname* { P r } { \\big \\{ } { \\mathcal { D } } = \\emptyset { \\big \\} } + \\sum _ { n = 1 } ^ { N } \\sum _ { { \\mathcal { D } } \\subset { \\mathbb { R } } } \\operatorname* { P r } { \\big \\{ } { \\big | } { \\mathcal { D } } { \\big | } = n { \\big \\} } \\operatorname* { P r } { \\big \\{ } C _ { R ^ { * } D } < R _ { S } { \\big \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Pr \\left\\{ \\left| { \\mathcal { D } } \\right| = n \\right\\}$ 表示 $\\mathfrak { n }$ 个中继能够成功译码源信息 $x _ { S }$ 的概率,结合式(2)可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\operatorname* { P r } \\left\\{ | \\mathcal D | = n \\right\\} = \\prod _ { R _ { i } \\in \\mathcal { D } } \\operatorname* { P r } \\left\\{ C _ { R _ { i } } \\succ R _ { S } \\right\\} \\prod _ { R _ { j } \\in \\mathcal { P } } \\operatorname* { P r } \\left\\{ C _ { R _ { j } } < R _ { S } \\right\\} } \\\\ { \\displaystyle } & { = \\prod _ { R _ { i } \\in \\mathcal { D } } \\operatorname* { P r } \\Bigg \\{ C _ { R _ { i } } = \\frac { 1 } { 2 } \\log _ { 2 } \\left( 1 + \\frac { P _ { S } \\gamma _ { S R _ { i } } } { \\sigma _ { R _ { i } } ^ { R _ { i } } } \\right) > R _ { S } \\Bigg \\} } \\\\ { \\displaystyle } & { \\~ \\times \\prod _ { R _ { j } \\in \\mathcal { D } } \\operatorname* { P r } \\Bigg \\{ C _ { R _ { j } } = \\frac { 1 } { 2 } \\log _ { 2 } \\left( 1 + \\frac { P _ { S } \\gamma _ { S R _ { j } } } { \\sigma _ { R _ { j } } ^ { 2 } } \\right) < R _ { S } \\Bigg \\} } \\\\ { \\displaystyle } & { = \\left[ 1 - \\operatorname* { P r } \\left\\{ \\gamma _ { S R _ { i } } < \\Lambda _ { 1 } \\right\\} \\right] ^ { n } \\left[ \\operatorname* { P r } \\left\\{ \\gamma _ { S R _ { i } } < \\Lambda _ { 1 } \\right\\} \\right] ^ { N - n } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { \\mathcal { D } } }$ 为 $\\mathcal { D }$ 的补集， $\\Lambda _ { 1 } = \\frac { \\sigma _ { R _ { k } } ^ { 2 } \\left( 2 ^ { 2 R _ { S } } - 1 \\right) } { P _ { S } }$ 类似的， $\\mathrm { P r } \\{ \\mathcal { D } = \\emptyset \\}$ 可以计算为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\operatorname* { P r } \\left\\{ { \\mathcal { D } } = \\mathcal { D } \\right\\} } = \\prod _ { i = 1 } ^ { N } \\operatorname* { P r } \\left\\{ C _ { R _ { i } } < R _ { S } \\right\\} } \\ ~ } \\\\ { { \\displaystyle ~ = \\prod _ { i = 1 } ^ { N } \\operatorname* { P r } \\left\\{ C _ { R _ { i } } = \\frac { 1 } { 2 } \\log _ { 2 } \\left( 1 + \\frac { P _ { S } \\gamma _ { S R _ { i } } } { \\sigma _ { R _ { i } } ^ { 2 } } \\right) < R _ { S } \\right\\} } \\ ~ } \\\\ { { \\displaystyle ~ = \\left[ \\operatorname* { P r } \\left\\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\right\\} \\right] ^ { N } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合式(4)和(7)可以发现，当忽略人工干扰对合法接收端的影响时，选择第 $\\mathbf { k }$ 个中继到 $\\mathrm { ~ D ~ }$ 的信道增益最大的中继也就是选择使信道容量最大的中继，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R ^ { * } = \\arg \\underset { R _ { k } \\in D } { \\operatorname* { m a x } } \\Big | h _ { R _ { k } D } \\Big | ^ { 2 } } \\\\ { = \\arg \\underset { R _ { k } \\in D } { \\operatorname* { m a x } } C _ { R _ { k } D } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\operatorname* { P r } \\Big \\{ C _ { R ^ { * } D } < R _ { S } \\Big \\} } & { = \\operatorname* { P r } \\bigg \\{ \\underset { R _ { i } \\in \\mathcal { D } } { \\operatorname* { m a x } } C _ { R _ { i } D } < R _ { S } \\bigg \\} } \\\\ & { = \\underset { R _ { i } \\in \\mathcal { D } } { \\prod } \\operatorname* { P r } \\big \\{ C _ { D } < R _ { S } \\big \\} } \\\\ & { = \\bigg [ \\operatorname* { P r } \\Big \\{ \\gamma _ { R _ { k } D } < \\Lambda _ { 2 } \\Big \\} \\bigg ] ^ { n } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\Lambda _ { 2 } = \\frac { \\sigma _ { D } ^ { 2 } \\left( 2 ^ { 2 R _ { S } } - 1 \\right) } { P _ { R } }$ 将式(11)(12)和(14)代入(10)可得OP 的闭式表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P _ { O P } = \\left[ \\displaystyle \\operatorname* { P r } \\Big \\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\Big \\} \\right] ^ { N } } \\\\ & { \\quad \\quad + \\displaystyle \\sum _ { n = 1 } ^ { N } \\sum _ { \\mathcal { D } \\in \\mathbb { R } } \\Big [ 1 - \\operatorname* { P r } \\Big \\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\Big \\} \\Big ] ^ { n } \\Big [ \\operatorname* { P r } \\Big \\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\Big \\} \\Big ] ^ { N - n } \\Big [ \\operatorname* { P r } \\Big \\{ \\gamma _ { R _ { k } D } < \\Lambda _ { 2 } \\Big \\} \\Big ] ^ { n } } \\\\ & { \\quad = \\displaystyle \\Phi _ { 1 } ^ { N } + \\sum _ { n = 1 } ^ { N } \\binom { N } { n } \\big ( 1 - \\Phi _ { 1 } \\big ) ^ { n } \\Phi _ { 1 } ^ { N - n } \\Phi _ { 2 } ^ { n } } \\\\ & { \\quad = \\big ( \\Phi _ { 1 } + \\Phi _ { 2 } - \\Phi _ { 1 } \\Phi _ { 2 } \\big ) ^ { N } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Phi _ { 1 } = \\mathrm { P r } \\big \\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\big \\}$ ， $\\Phi _ { 2 } = \\mathrm { P r } \\left\\{ \\gamma _ { R _ { k } D } < \\Lambda _ { 2 } \\right\\}$ ，根据附录A的推导，其闭式表达式分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 1 } = \\frac { \\lambda _ { S R _ { k } } ^ { m _ { S R _ { k } } } } { \\Gamma \\left( m _ { S R _ { k } } \\right) } \\sum _ { i = 0 } ^ { \\infty } \\frac { \\left( - \\lambda _ { S R _ { k } } \\right) ^ { i } } { i ! } \\frac { \\Lambda _ { 1 } ^ { i + m _ { S R _ { k } } } } { i + m _ { S R _ { k } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 2 } = \\frac { \\lambda _ { R _ { k } D } ^ { m _ { R _ { k } D } } } { \\Gamma \\left( m _ { R _ { k } D } \\right) } \\sum _ { i = 0 } ^ { \\infty } \\frac { \\left( - \\lambda _ { R _ { k } D } \\right) ^ { i } } { i ! } \\frac { \\Lambda _ { 2 } ^ { i + m _ { R _ { k } D } } } { i + m _ { R _ { k } D } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2截获概率(安全性)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，截获概率(IP)可以定义为截获事件 $C _ { \\phantom { } _ { E } } > R _ { s }$ 发生的概率，其可以用来衡量通信系统信息传输的安全性[7]。对于本文系统模型，截获事件发生的前提存在中继能够正确译码，即IP为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { I P } = \\operatorname* { P r } \\left\\{ C _ { E } > R _ { S } \\ : | \\ : \\mathcal { D } \\neq \\emptyset \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对上式条件概率利用全概率公式展开可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle P _ { I P } = \\sum _ { n = 0 } ^ { N } \\sum _ { \\mathcal { D } \\subset \\mathbb { R } } \\mathrm { P r } \\left\\{ \\left| \\mathcal { D } \\right| = n , C _ { E } > R _ { S } \\right\\} } } \\\\ { { \\displaystyle \\quad = \\sum _ { n = 1 } ^ { N } \\sum _ { \\mathcal { D } \\subset \\mathbb { R } } \\mathrm { P r } \\left\\{ \\left| \\mathcal { D } \\right| = n \\right\\} \\mathrm { P r } \\left\\{ C _ { E } > R _ { S } \\right\\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\operatorname* { P r } \\left\\{ \\left| D \\right| = n \\right\\}$ 的表达式(11)已经给出，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  { \\displaystyle { \\operatorname* { P r } \\left\\{ C _ { E } > R _ { S } \\right\\} } = { \\operatorname* { P r } \\left\\{ \\frac { 1 } { 2 } { \\log _ { 2 } } \\left( 1 + \\frac { P _ { R } \\gamma _ { R ^ { * } E } } { P _ { J } \\gamma _ { R ^ { * } E } + \\sigma _ { E } ^ { 2 } } \\right) > R _ { S } \\right\\} } } \\\\ { { \\displaystyle ~ = { \\operatorname* { P r } \\left\\{ \\frac { 1 } { \\gamma _ { R ^ { * } E } } < \\frac { 1 } { \\Lambda _ { 3 } } \\right\\} } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Lambda _ { 3 } = \\frac { \\Big ( 2 ^ { 2 R _ { S } } - 1 \\Big ) \\sigma _ { E } ^ { 2 } } { P _ { R } - \\Big ( 2 ^ { 2 R _ { S } } - 1 \\Big ) P _ { J } }$ 。若 $\\frac { 1 } { \\Lambda _ { 3 } } \\le 0 \\ , \\ \\mathrm { P r } \\left\\{ C _ { E } > R _ { S } \\right\\} = 0 \\ ; \\ \\frac { 1 } { \\Lambda _ { 3 } } > 0 \\ ,$ （204则",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\mathrm { P r } \\left\\{ C _ { E } > R _ { S } \\right\\} } & { = } & { \\mathrm { P r } \\left\\{ \\gamma _ { R ^ { * } E } > \\Lambda _ { 3 } \\right\\} \\quad } \\\\ & { } & { = } & { 1 - \\mathrm { P r } \\left\\{ \\gamma _ { R ^ { * } E } < \\Lambda _ { 3 } \\right\\} \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式(11)和(21)代入式(19)可得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle P _ { I P } = \\sum _ { n = 1 } ^ { N } \\sum _ { \\mathcal { D } \\subset \\mathbb { R } } \\operatorname* { P r } \\left\\{ \\left| \\mathcal { D } \\right| = n \\right\\} \\operatorname* { P r } \\left\\{ C _ { E } > R _ { S } \\right\\} } } \\\\ { ~ } \\\\ { { \\displaystyle ~ = \\sum _ { n = 1 } ^ { N } \\binom { N } { n } \\big ( 1 - \\Phi _ { 1 } \\big ) ^ { n } \\Phi _ { 1 } ^ { N - n } \\Phi _ { 3 } } } \\\\ { { \\displaystyle ~ = \\left( 1 - \\Phi _ { 1 } ^ { N } \\right) \\Phi _ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：Φ=Pr{CE<Rs）。当 ≤0，Φ=0；当 $\\frac { 1 } { \\Lambda _ { 3 } } > 0$ $\\Phi _ { 3 } = 1 - \\mathrm { P r } \\left\\{ \\gamma _ { R ^ { * } E } < \\Lambda _ { 3 } \\right\\}$ ,结合附录A得到的闭式表达式，为 $\\Phi _ { 3 }$ 表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 3 } = \\{ \\begin{array} { c c } { { 0 , } } & { { { \\frac { 1 } { \\Lambda _ { 3 } } } \\le 0 } } \\\\ { { { 1 - { \\frac { \\displaystyle \\lambda _ { R ^ { * } E } ^ { m _ { R ^ { * } E } } } { \\displaystyle \\Gamma ( m _ { R ^ { * } E } ^ { * } ) } } \\sum _ { i = 0 } ^ { \\infty } { { \\frac { \\displaystyle ( - \\lambda _ { R ^ { * } E } ^ { * } ) ^ { i } } { \\displaystyle i ! } } { \\frac { \\Lambda _ { 3 } ^ { i + m _ { R ^ { * } E } } } { \\displaystyle i + m _ { R ^ { * } E } } } } , } } } & { { { { \\frac { 1 } { \\Lambda _ { 3 } } } > 0 } } } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3可靠性安全性折中分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于任何通信系统而言，都希望其可靠性和安全性都高，这相当于由式(9)(15)定义的两个概率都要尽可能小。然而已有研究表明，这两个衡量系统性能的指标实际上是一对矛盾，不能做到同时都小。为了对系统性能进行综合分析，本文将两者作为一个整体在文献[10]中定义了包含OP和IP的折中性能指标：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T } = \\left( 1 - P _ { O P } \\right) \\times \\left( 1 - P _ { I P } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将上文推导出的OP 和 IP 的闭式表达式(14)和(21)代入上式，便可得到本文所提方案的折中性能",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { T } } = \\left[ 1 - \\left( \\Phi _ { 1 } + \\Phi _ { 2 } - \\Phi _ { 1 } \\Phi _ { 2 } \\right) ^ { N } \\right] \\times \\left[ 1 - \\left( 1 - \\Phi _ { 1 } ^ { N } \\right) \\Phi _ { 3 } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从式子可以看出，T值越大，系统的折中性能越好；T值越小，系统折中性能越差。通过这个式子，便可以很方便地得到各个参数对系统性能的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4功率分配",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步提高系统折中性能，对系统功率分配的考虑是有必要的。考虑系统总功率受限和不受限两种情况对系统功率分配讨论如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当系统总功率受限时，不失一般性，假设系统总功率为 $P$ ，中继转发功率和人工干扰发送功率分别为 $P _ { R } = \\upsilon P$ ， $P _ { J } = \\mu P$ ，则 S 的发送功率为 $P _ { S } = \\left( 1 - \\mu - \\nu \\right) P$ 。因此，最优化问题可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\underset { \\mu , \\nu } { \\operatorname* { m a x } } \\ \\mathrm { T } \\big ( \\mu , \\nu \\big ) } \\\\ { s . t . 0 { \\le } \\mu { \\le } 1 } \\\\ { 0 { \\le } \\nu { \\le } 1 } \\\\ { \\mu { + } \\nu { < } 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\operatorname { T } ( \\mu , \\nu )$ 表示系统 SRT 性能随 $\\mu$ 、 $\\nu$ 变化。每个中继分配的转发功率和干扰发送功率分别为 $\\frac { \\upsilon P } { n }$ 和 $\\frac { \\mu P } { n }$ （ $n$ 为第一阶段能够正确译码的中继数)。随着中继数量的增多，每个中继分配的转发功率和人工干扰发送功率会不断减小，因此系统SRT性能也相应的会不断变差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当系统总功率不受限时，为每个中继分配固定的功率值，理论上随着中继数的增加，系统性能会不断变好，但是随着中继数量的增加，系统总功率也相应的增加。后面的仿真将对两种情况进行比较。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这部分，基于MATLAB 进行了一系列仿真分析。除非特别说明，各个参数都默认取如下值：²===1，5=为接收端信噪比， $R _ { s } = 1 b i t / s / H z$ ，假设人工干扰分配功率为$P _ { _ { J } } = 0 . 1 P$ ，源和中继转发分配功率为 $P _ { \\scriptscriptstyle R } = P _ { \\scriptscriptstyle S } = 0 . 4 5 P$ ，即$\\mu = 0 . 1$ ， $\\nu = 0 . 4 5$ ，Nakagami形状因子取 $m = 1$ 。仿真中各信道系数相互独立且同分布。首先对系统功率受限和不受限两种情况进行比较。接着，得到了目标速率为 $1 b i t s / s / H z$ 时的最佳信噪比，然后对系统功率受限情况下的功率分配进行了讨论。最后对Nakagami-m衰落信道中 $\\mathbf { m }$ 取不同值时 SRT性能进行了比较和分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1功率受限与不受限比较 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2是对功率受限(PL)和功率不受限(nPL)两种情况下系统SRT性能随能正确译码中继数 $n$ 变化的仿真。通过观察可以发现图中折中性能的理论分析结果（实线）和蒙特卡洛仿真结果（点线）基本完全重合，这说明关于中断概率和截获概率的推导是正确的。图中PL 情况下取 $\\zeta = 1 5 d B$ ，nPL 情况下case1和case2分别表示nPL情况下中继节点功率(转发功率和人工干扰发送功率之和)取PL情况下能正确译码中继数分别为15和25时每个中继分配的功率大小，且不管中继数为多少，每个中继功率固定。从图中可以看出，PL情况下，系统SRT性能T随着能正确译码中继数 $\\mathfrak { n }$ 先上升后下降，当 $n = 1 2$ 时系统SRT性能T达到最大。当中继数较少时，适当增加中继数可提高系统分集增益从而提高系统可靠性；而后下降是因为随着中继数目不断增多，每个中继分配的功率不断减小，用于转发信息和发送人工干扰的功率不断减小，因此系统SRT性能下降。对于nPL情况下，系统SRT性能T随着中继数 $n$ 的增大不断增大，当中继数目增加到一定时，系统SRT性能趋于稳定，这是由于随着$n$ 增大，系统可靠性逐渐达到峰值，而 $n$ 的增加不会改变系统安全性的大小，因此系统SRT性能趋于稳定。然而在实际系统中，功率作为系统中一项重要资源，并不是可以无限增大的，通常情况下系统的总功率是恒定的。因此后续的仿真分析主要是基于PL情况进行的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9233aecd4815c71fef675ce7cf17ccd53e6b00779324b8304636871482127f4f.jpg",
+        "img_caption": [
+            "图2功率受限和不受限情况下系统SRT性能随能正确译码中继数n的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 寻找最优ζ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取图2得到的PL情况下最优中继数 $n = 1 2$ 进行的系统SRT性能随 $\\zeta$ 和 $R _ { s }$ 变化的三维图如图3所示。从图中可以看出，对于固定的 $R _ { s }$ ，都存在相应的 $\\boldsymbol { \\zeta }$ 使系统 SRT性能达到最优。对于本文假设的目标速率 $R _ { s } = 1 b i t / s / H z$ ，当 $\\zeta = 1 5 . 5 d B$ 时系统SRT性能达到最优 $\\scriptstyle \\mathrm { T = } 0 . 9 5 1 4 2$ 。因此在接下来的关于功率分配的仿真中，取 $\\zeta = 1 5 . 5 d B$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2236ee4dc711e97ce9db5f49a3a69883f301c1d18784ce5839dc22755cee8628.jpg",
+        "img_caption": [
+            "图3系统 SRT性能随 $\\zeta$ 和 $R _ { s }$ 变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 最优功率分配",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取前文得到的PL情况下最优能正确译码中继数 $n = 1 2$ 和最优信噪比 $\\zeta = 1 5 . 5 d B$ 对系统 SRT 性能随 $\\mu$ 和 $\\nu$ 的变化三维仿真如图4所示。从图中得到的最优功率分配因子为 $\\scriptstyle \\mu = 0 . 1 9$ ，$\\nu = 0 . 6 2$ ，最优系统SRT性能T接近于1，此时源节点的功率分配因子为0.19，并不是前文仿真中假设的 $P _ { s } = P _ { \\scriptscriptstyle R } = 0 . 4 5 P$ ，这是因为当前能正确译码的中继数为12，中继数较多，占用的系统功率较多，从而源节点分配的功率变少。人工干扰的功率为$P _ { \\scriptscriptstyle { J } } = 0 . 1 9 P$ ，平均分配给每个中继之后只有 $0 . 0 1 5 8 P$ ，可见用于发送人工干扰的功率并不需要太多便能实现信息的安全传输。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae5289ff9ca1f10b3febc085a2e4b35fd34b4396f722cbb726400c4f24fbf063.jpg",
+        "img_caption": [
+            "图4系统 SRT性能随 $\\mu$ 和 $\\nu$ 的变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4不同信道条件下折中性能的仿真",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "取前文得到的最优参数 $n = 1 2$ ， $\\mu = 0 . 1 9$ ， $\\nu = 0 . 6 2$ ，在不同信道条件下对系统SRT性能随信噪比 $\\zeta$ 的变化仿真如图5所示。从图中可以看出，三种信道条件下系统SRT性能都能接近1，说明系统可以实现信息的可靠安全传输。随着 $m$ 不断增大,即信道条件不断变好，系统SRT性能达到最优时的 $\\zeta$ 有所减小，即需要较小的系统功率便可实现系统较优的SRT性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d310263a19895880b911b0704f5e5bcfb05e714136f71e4cce70fdcf7ce9868.jpg",
+        "img_caption": [
+            "图5不同信道条件下系统SRT性能随的变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对多中继协同通信系统，本文提出了一种基于人工干扰的协同安全传输方案，该方案中机会中继在转发源信息的同时发送人工干扰信号来干扰窃听者以降低其对源信息的截获能力。在Nakagami-m衰落信道下，对该方案下的系统安全性能进行了分析，推导出了中断概率和截获概率的闭式表达式，并将中断概率和截获概率作为一个整体从系统信息传输的可靠性和安全性两方面对系统的综合性能进行了折中分析和系统优化。通过计算机仿真验证了理论分析的准确性，明确了中继个数对系统安全性能的影响。此外，通过各信号间的功率分配对系统折中性能的影响的仿真，得到了能使系统折中性能达到最优的功率分配因子。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人工干扰对于提高系统安全具有重要作用，然而现有文献鲜有关于合法接收者对于人工干扰具体消除方案的研究。下一步工作，将借助已有的干扰消除和信号分离方法，针对不同的人工干扰信号设计出不同的消除方案，实现信息高效安全传输的目的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Nosratinia TE,Hunter, Hedayat A.Cooperative communication in wireless networks [J].IEEE Communications Magazine,2004,42(10):74-80.   \n[2]熊莹，唐伦，陈前斌．两跳双中继协同ARQ策略研究[J].计算机应用 研究，2010,27(1):311-313.(Xiong Ying,Tang Lun,Chen Qianbin. Research on cooperative ARQ for two-hop and two-relay system [J]. Application Research of Computer,2010,27(1): 311-313.)   \n[3]KimYG,Beaulieu N C.SEP of decode-and-forward cooperative systems ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with relay selection in Nakagami-m fading channels [J].IEEE Trans on ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Vehicular Technology,2015,64(5):1882-1894.   \n[4] Zhang Qianqian,Gao Yuanyuan,Zang Guozhen,et al.Physical layer security for cooperative communication system with untrusted relay based on jamming signals [C]// Proc of International Conference on Wireless Communications & Signal Processing. Piscataway, NJ: IEEE Press, 2015: 1-4.   \n[5]Tubail D,El-Absi M,Ikki S,et al.Artificial noise based physical layer security in interference alignment multipair two-way relaying networks [J]. IEEE Access,2018,6: 19073-19085.   \n[6] Zhou Xiangyun,McKay MR,Maham B,et al.Rethinking the secrecy outage formulation:a secure transmission design perspective [J].IEEE Communications Letters,2011,15 (3): 302-304.   \n[7]Zou Yulong,Wang Xianbin, Shen Weiming,et al. Security versus reliability analysis of opportunistic relaying [J]. IEEE Trans on Vehicular Technology, 2014, 63 (6): 2653-2661.   \n[8]Heidarpour AR,Ardakani M,Telambura C. Generalized relay selection for network-coded cooperation systems [J]. IEEE Communications Letters, 2017,21(12): 2742-2745.   \n[9]Lei Hongjiang, Zhang Huan,Ansari I S,et al. On secrecy outage of relay selection in underlay cognitive radio networks over nakagami-m fading channels [J]. IEEE Trans on Cognitive Communications and Networking, 2017,3 (4): 614-627.   \n[10] Peng Lei, Zang Guozhen, Zhou Qian,et al. Security performance analysis for cooperative communication system under Nakagami-m fading channel [C]//Proc of IEEE International Conference on Communication Technology. Piscataway,NJ: IEEE Press,2017:187-192 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "附录A ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\Phi _ { 1 }$ ： $\\Phi _ { 2 }$ 和 $\\Phi _ { 3 }$ 的推导:由式(3)中 $\\gamma _ { S R _ { k } }$ 的概率密度函数可得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\Phi _ { 1 } = \\operatorname* { P r } \\Big \\{ \\gamma _ { S R _ { k } } < \\Lambda _ { 1 } \\Big \\} } \\quad } & { } \\\\ & { = \\int _ { 0 } ^ { \\Lambda _ { 1 } } \\frac { \\lambda _ { S R _ { k } } ^ { m _ { S R _ { k } } } } { \\Gamma ( m _ { S R _ { k } } ) } \\gamma _ { S R _ { k } } ^ { m _ { S R _ { k } } - 1 } e ^ { - \\lambda _ { S R _ { k } } \\gamma _ { S R _ { k } } } d \\gamma _ { S R _ { k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对上式中 $e ^ { - \\lambda _ { S R _ { k } } \\gamma _ { S R _ { k } } }$ 利用泰勒公式展开并求积分可得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 1 } = \\frac { \\lambda _ { S R _ { k } } ^ { m _ { S R _ { k } } } } { \\Gamma \\left( m _ { S R _ { k } } \\right) } \\sum _ { i = 0 } ^ { \\infty } \\frac { \\left( - \\lambda _ { S R _ { k } } \\right) ^ { i } } { i ! } \\frac { \\Lambda _ { 1 } ^ { i + m _ { S R _ { k } } } } { i + m _ { S R _ { k } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同理可得 $\\Phi _ { 2 }$ 的闭式表达式为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Phi _ { 2 } = \\mathrm { P r } \\left\\{ \\gamma _ { R _ { k } D } < \\Lambda _ { 2 } \\right\\} } } \\\\ { { \\displaystyle ~ = \\frac { \\lambda _ { R _ { k } D } ^ { m _ { R _ { k } D } } } { \\Gamma \\left( m _ { R _ { k } D } \\right) } \\sum _ { i = 0 } ^ { \\infty } \\frac { \\left( - \\lambda _ { R _ { k } D } \\right) ^ { i } } { i ! } \\frac { \\Lambda _ { 2 } ^ { i + m _ { R _ { k } D } } } { i + m _ { R _ { k } D } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于 $\\Phi _ { 3 }$ ，由(19)式可知， $\\frac { 1 } { \\Lambda _ { 3 } } > 0$ >0时",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 3 } = 1 - \\mathrm { P r } \\left\\{ \\gamma _ { _ { R ^ { * } E } } < \\Lambda _ { 3 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同理可得当 $\\frac { 1 } { \\Lambda _ { 3 } } > 0$ ->0时，Φ的闭式表达式为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { 3 } = 1 - \\frac { \\lambda _ { R ^ { * } E } ^ { m _ { R ^ { * } E } } } { \\Gamma \\left( m _ { R ^ { * } E } \\right) } { \\sum _ { i = 0 } ^ { \\infty } } \\frac { \\left( - \\lambda _ { R ^ { * } E } \\right) ^ { i } } { i ! } \\frac { \\Lambda _ { 2 } ^ { i + m _ { R ^ { * } E } } } { i + m _ { R ^ { * } E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    }
+]

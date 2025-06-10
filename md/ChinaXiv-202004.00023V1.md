@@ -1,0 +1,356 @@
+# 表层穿透雷达在月球和深空探测中的应用
+
+王瑞刚1,2.3，苏彦1,2，洪天晟1,2.3，戴舜1,2，刘晨迪1,2,3(1.中国科学院国家天文台，北京100012；2.中国科学院月球与深空探测重点实验室，北京100012；3．中国科学院大学，北京 100049)
+
+摘要：对月球以及更远天体或者空间环境的探测是人类航天活动的重要方向。开展月球和深空探测任务有利于研究太阳系起源、演化与现状，以及生命起源与演变等重大科学问题，有利于催生基础性、前瞻性的学科与技术。相比光学等探测方法，雷达具有强穿透性、极化特性以及不受光照限制等优势，是探测天体特性的有效手段之一，在人类的月球和深空探测任务中发挥了重要作用。电磁波能够穿透几米到几千米的次表层，可用于探测月球和深空目标的表层介电常数、次表层结构、电离层及水冰等。按照探测方式的不同，表层穿透雷达探测主要包括地基雷达、环绕器雷达及巡视器雷达三种方式。针对不同的科学目标，不同的探测方式具有各自的优势和不足。本文回顾了表层穿透雷达在月球、火星以及小行星等探测中的科学应用，总结了已经投入使用的以及计划中的各种雷达科学载荷的探测任务、参数设计、工作原理和探测结果，展望了在未来利用表层穿透雷达进行月球和深空探测的发展趋势。
+
+关键词：表层穿透雷达；深空探测；地基雷达；环绕器雷达；巡视器雷达中图分类号：P412.25 文献标识码：A
+
+# 0引言
+
+深空探测是指脱离地球引力场，进入太阳系空间和宇宙空间的探测活动[。从1958年美国Pioneer计划首次发射月球探测器开始，人类的月球和深空探测活动经历了两个高峰期[]。1958年到1976年是第一次探测高峰期，对月球、火星、金星、水星等开展了一系列探测任务。其中具有标志性的任务是完成了载人登陆月球及采样返回[l。1994年美国克莱门汀号（Clementine)探测发现在月球上可能存在水冰[2]，拉开了第二次探测高峰期的序幕，更多的国家（欧洲航天局、中国、印度、日本）制定并实施了其探测计划，完成了对月球、火星的进一步探测，实现了月球背面软着陆和月球背面探月雷达探测。2020年，欧洲航天局、美国及中国都将发射火星探测器，将实现火星软着陆及火星表面巡视探测。深空探测雷达已经有很长一段历史，雷达探测实时性强，可以对深空目标进行全天候探测。表层穿透雷达的探测方式主要包括地基雷达、环绕器雷达以及巡视器雷达。
+
+地基雷达是最早的探测方式，利用地基雷达进行月球和深空探测最早开始于1946年对月球的探测，其后又不断开展了对金星、水星、火星及小行星的探测。Arecibo在70cm波段获得了月球的后向散射数据，在此基础上Shkuratov和Bondarenko计算得到第一幅正面的月壤厚度分布图[3]。在1988年至1990年间，Harmon等利用Arecibo和Goldstone雷达对火星进行了长期观察，研究了雷达回波与雷达频率的关系。通过进一步的分析研究，Harmon等获得了火星表面图像，并研究了火星表面分米级尺度的粗糙程度[4.5]。
+
+环绕器雷达在月球和深空探测中起步相对较晚。1972年，Apollo17使用ALSE对月球部分区域进行了探测。1994年，美国发射的Clementine号研究了月球对电磁波的掩蔽现象，同时利用回波信息分析了水冰和其他冰冻挥发物存在于月球极地的可能性。2003年，欧洲航天局MARSIS,对次表层和浅表层结构进行了探测，获得了全球3-5MHz表面雷达回波图，并由此求得了整个火星浅层介电常数分布7]。2018年，意大利航天局通过对MARSIS数据分析，在Planum Australe区域的冰盖下1.5km左右发现了宽20km的水湖。2005年，美国航天局发射的火星环绕器搭载了SHARAD雷达对火星进行探测。2019年，Nerozzi等利用SHARAD在火星北极大约 $1 5 0 0 \mathrm { m }$ 深度发现了大片冰层[8]。2007年，日本KAGUYA搭载的Lunar Radar Sounder（LRS）观测数据表明在近月面处的月海表面以下几百米深处具有强列信号反射，推测反射来自于被几百米厚的玄武质岩浆岩覆盖的月壤层[9-1]。2009年，Spudis等利用印度探月卫星Chandrayaan-1搭载的Mini-SAR观测数据，得到反射信号的斯托克斯参数，可以区分由水冰引起的体散射和其他形式的散射[12]。
+
+由于受到行星登陆计划不断延迟或被取消的影响，巡视器雷达自从1972年阿波罗17号的SEP之后，处于停滞状态。直到2014年中国嫦娥三号着陆月球，人类再次实现在深空目标表面利用巡视器雷达对地下结构进行探测。2019年，中国嫦娥四号实现了人类首次在月球背面软着陆，其携带的探月雷达设备实现了人类首次在月球背面进行巡视器雷达探测。2020年，中国、美国、欧洲计划登陆火星，火星巡视器将分别携带MAPER、WISDOM及RIMFAX雷达，巡视器雷达将在探测火星次表层结构及火星水冰方面发挥重要作用。
+
+表层穿透雷达在月球和深空探测中的探测方式经历了从地基雷达到环绕器雷达，再到巡视器雷达的过程。雷达探测模式逐渐从脉冲式雷达过渡到了合成孔径雷达及调频雷达。雷达在月球和深空探测中已经取得了丰硕的成果，已被用于探测行星表层介电特性、次表层结构、水冰等。随着雷达技术的不断发展进步，在未来月球和深空探测领域，雷达探测将继续发挥重要作用。
+
+# 1 地基雷达
+
+地基雷达（可用于月球和深空探测的表层穿透地基雷达）是一种特大功率的主动式雷达观测系统，其由地面设备向月球或深空目标发射特定频率的电磁波，当电磁波遇到目标星体表层及内部介电常数不连续界面时，会被反射回来，被地面设备接收。通过对接收信号进行分析，可以对深空目标的次表层结构、表面介电特征等进行研究。地基雷达主要有美国的Arecibo、GSSR(全称Goldstone system radar)、GBT（Green bank telescope），及瑞典的LOIS系统[3,6,13]。表1列举了这几种雷达的主要参数。
+
+表1表层穿透地基雷达参数 Tab.1 Parameters of ground-based surface penetrating radar   
+
+<html><body><table><tr><td>名称</td><td>国家</td><td>发射天线口径/m</td><td>频段/MHz</td><td>发射功率</td></tr><tr><td>Arecibo</td><td>美国</td><td>305</td><td>430 2380</td><td>1 MW</td></tr><tr><td>GSSR</td><td>美国</td><td>70</td><td>8560</td><td>500kW</td></tr><tr><td>GBT</td><td>美国</td><td>100</td><td>50000</td><td>1MW</td></tr><tr><td>LOIS</td><td>瑞典</td><td>（阵列天线）</td><td>10-240</td><td>500kW</td></tr></table></body></html>
+
+![](images/e77cf79cfb08b3f6200bd227fae3b4c19791024cd918998fa9052ec3c153530c.jpg)  
+图1地基雷达工作原理图[3]  
+Fig.1The Schematic diagram of the working principle of the ground-based radai
+
+地基雷达最早于1946年用于月球探测，Schubert和Schaber等人分别利用地基雷达研究了月面撞击坑以及雨海盆地的岩浆流[3。随着光学探测技术的不断发展进步，在月球光照充足的区域地基雷达探测方法已经被光学方法替代，其研究重心转向了光照条件差的两极阴影区[3]。2008年，NASA利用Goldstone地基雷达获得了比月球环绕卫星Clementine分辨率高50倍的月球南极地形图。Shkuratov等人利用Arecibo雷达数据，结合月球钛铁含量，反演得到了月球介电常数分布及月球正面的月壤厚度分布[14]。地基雷达也被广泛地应用于火星、金星、水星及小行星的探测[3]。研究人员从开普勒望远镜发现的1235颗潜在类地行星中精选出86颗，作为GBT雷达系统的观测对象，其将在探索地外生命及宜居星球发挥重要作用。
+
+![](images/4aec4de36eea6a2e7cea93c994a55d83ad0dacd3996f339a0383cfe5490c714c.jpg)  
+图2主要地基雷达图片  
+Fig.2Picturesofkeyground-basedradar.(a)Areciboada;(b)Goldstonesolarsystemradar;(c)GrenBanktelescope; (d)LOSradar
+
+用于月球和深空探测的表层穿透地基雷达也是深空测控网络的重要组成部分，其在深空测控中发挥了重要作用。随着探测器离地球越来越远，地面接收的探测器信号越来越弱，普通的单个天线已经无法满足数据传输的需求。将现有的表层穿透地基雷达与其他天线组网形成深空测控网络是解决这一问题的主要途径之一。深空测控网络具有更大的等效口径，可以显著提高信号传输质量，具有更高的信噪比。美国、欧洲宇航局及中国已经建立了各自的深空测控网络，俄罗斯、日本、印度、意大利、德国等国家没有完整的深空测控网，但是已经具有各自的深空测控设备[15]。目前，只有美国的深空网络能够实现表层穿透雷达探测，其他国家和机构的测控网主要用于测控，不具备主动式表层穿透雷达探测能力[16]。
+
+相比其他探测方法，表层穿透地基雷达具有突出的优点：（1）低成本。地基雷达的建设和维护费用相比航天项目更加经济，成本更低。（2）高灵活性。地基雷达可以对多个深空目标进行探测。但是地基雷达的缺点也制约其发展：（1）数据处理流程复杂。因为地球和深空目标的自转和公转，地球和深空目标的相对位置随时发生着变化，因此利用地基雷达对深空目标进行观测的时候需要考虑相对运动的影响；（2）信号微弱。由于地基雷达与深空目标距离遥远，虽然信号的发射功率很强，但是返回的信号很微弱，加之宇宙本身的电磁干扰，使得很难从大的
+
+电磁背景中获得有效信息。
+
+# 2.环绕器雷达
+
+环绕器雷达发射电磁脉冲，穿透行星表层与次表层，当脉冲遇到行星表面以及次表层内不连续的分界面时，将产生回波信号并由雷达接收天线接收。通过对回波信号的分析与解译，便可以获得月球次表层的地质结构信息。表2及表3分别列举了各个国家已经投入使用的以及计划中的环绕器雷达及其基本参数。
+
+<html><body><table><tr><td>序号</td><td>设备</td><td>任务</td><td>目标</td><td>频率参数</td></tr><tr><td>1</td><td>ALSE</td><td>Apollo 17 (1972) 美国</td><td>月球</td><td>5,15,150 MHz</td></tr><tr><td>2</td><td>BRE</td><td>Clementine (1994) 美国</td><td>月球</td><td>2.273GHz</td></tr><tr><td>3</td><td>Gassini</td><td>Cassini-Huygens (1997) 美国</td><td>土星卫星</td><td>13.8 GHz</td></tr><tr><td>4</td><td>MARSIS</td><td>Mars Express (2003) 欧洲</td><td>火星</td><td>1.3-2.3,2.5-3.5, 3.5-4.5,4.5-5.5MHz</td></tr><tr><td>5</td><td>CNSR</td><td>Rosetta (2004) 欧洲</td><td>67P/C彗星</td><td>90 MHz</td></tr><tr><td>6</td><td>SHARAD</td><td>MRO (2005) 美国</td><td>火星</td><td>15MHz-25MHz</td></tr><tr><td>7</td><td>LRS</td><td>Kaguya (2007) 日本</td><td>月球</td><td>4-6 MHz 1 MHz 15 MHz</td></tr><tr><td>8</td><td>Mini-SAR</td><td>Chandrayaan-1 (2008) 印度</td><td>月球</td><td>2.5 GHz</td></tr><tr><td>9</td><td>Mini-RF</td><td>LRO (2009) 美国</td><td>月球</td><td>2.38 GHz 7.14 GHz</td></tr></table></body></html>
+
+# 表3计划中的环绕器雷达基本参数
+
+表2已投入使用环绕器雷达基本参数Tab.2Key Parameters of Space-borne radar in service  
+Tab.3 Key Parameters of the planned Space-borne radar   
+
+<html><body><table><tr><td>序号</td><td>设备</td><td>任务</td><td>目标</td><td>频率参数</td></tr><tr><td>1</td><td>MOSIR</td><td>HX-1 (2020) 中国</td><td>火星</td><td>10 MHz-20 MHz 30MHz-50MHz</td></tr><tr><td>2</td><td>RIME</td><td>JUICE (2022) 欧洲</td><td>木星 卫星 (木卫二、三、四)</td><td>9 MHz</td></tr></table></body></html>
+
+# 2.1已投入使用的环绕器雷达
+
+# 2.1.1ALSE
+
+ALSE（全称Apollo lunar sounder experiment）是美国于1972年发射的阿波罗17号探测器的载荷之一，ALSE实现了人类首次对月球次表层的雷达探测，其主要探测任务包括：（1）探测月球次表层结构；（2）绘制月球剖面，确定月球地形地貌；（3）月球表面微波成像；（4）测量月球环境中的银河系电磁辐射测量[17]。
+
+ALSE工作在主频为5MHz、15MHz及 $1 5 0 ~ \mathrm { M H z }$ 三个频段，ALSE发射的电磁波穿透月球表层与次表层，当遇到月球表面以及月球次表层内不连续的分界面时，将产生回波信号并由ASLE接收天线接收。通过分析回波信号，便可以获得月球次表层的地质结构信息。1973年,R.JPhillips等利用ASLE数据分析得出月球次表层探测的最大深度约为 $1 ~ \mathrm { k m }$ 。ALSE在澄海地区观测到两个几乎连续的反射层，在危海观测到一个反射层[6.18]。
+
+![](images/16899f6d51cb5df45b25599f2b2d4d04e6f7dcc3406156ef1e4e065c86e4da8d.jpg)  
+图6ALSE雷达工作原理示意图[6]
+
+![](images/4f32e778730b9afe07f3733d04cc7f41149bd092708e3b8d61d59571b3af8c90.jpg)  
+Fig.6 Schematic diagram of the working principle of the ALSE radar
+
+![](images/90dafae5c72ec4b9758a08019ed3d2cf126a7aa9505cf4a0bb8d634cfe6d3bee.jpg)  
+图7ALSE获得的月球次表层结构[17]危海地区(b）澄海地区Fig.7 The lunar subsurface structure obtained by the ALSE radarMare Crisium(b) Mare Serenitatis  
+  
+图8ASLE对义特前盆地探测结果 Fig.8 The subsurface structure of the Aitken Basin measured by the ASLE radar
+
+# 2.1.2BRE
+
+BRE（全称Bistatic radar experiment）是美国于1994年发射的克莱门汀号环绕器携带的双基雷达。BRE雷达主要用于探测月球极地地区可能出现的水冰[2]。BRE雷达设备向月球发射电磁波，当遇到月球表面或月球内部介电常数不连续的界面时会产生反射信号，这些信号会被地球上的深空网络（Deep Space Network，简称DSN）雷达天线接收。通过对研究反射信号的分析，即可反演月球表面的地质信息。
+
+对BRE反射信号的幅度和极化分析表明，月球表面土壤中存在水冰。然而，Arecibo地基雷达探测结果表明，即使在非永久性阴影的区域也会出现类似BRE的水冰信号。因此，BRE获得的水冰信号可能是由于表面粗糙度等其他因素造成的。
+
+# 2.1.3Gassini Orbiter
+
+Gassini雷达是美国于1997年发射的Cassini-Huygens探测器的载荷之一，Cassini-Huygens于2004年实现人类探测器首次进入土星轨道进行探测，入轨不久后,Gassini和Huygens分离,Gassini继续保持在土星卫星轨道上，Huygens则成功着陆在土卫六表面[1]。Cassini的雷达设备主要用于研究土星的卫星土卫六，虽然很早之前就有了土卫六存在液态甲烷海洋和湖泊的预测，但是受到土星厚厚的大气层的影响，无法通过常规方法探测到大气层之下的信息。2006年Gassini探测器绕过土卫六，实现了对土卫六的雷达探测。
+
+土卫六的表面隐藏着厚厚的大气层，环绕器雷达发射的电磁波可以穿透土卫六的大气层，到达土卫六表层，从土卫六上反射回来，通过对反射信号的分析可以研究土卫六大气层之下的地质地貌，如湖泊、山脉、沙丘等。Cassini雷达的radiometry模式是被动雷达模式，通过分析接收到的土卫六自身发出的电磁波可以确定表面温度。Cassini雷达设备的scatterometry模式可以探测土卫六表面的粗糙程度，为研究土卫六的甲烷海洋提供了科学数据。此外，Cassini雷达设备还可用来研究土星、土星环和土星的其他卫星。
+
+![](images/1e536e77ecded8ec16464dff894f0a71fa215c9865e78b2ebe19ba1da7c6b359.jpg)  
+图9Gassini探测器获得的土卫六地貌图 Fig.9 The topographic map obtained by the Gassini prospector
+
+# 2.1.4MARSIS
+
+MARSIS（全称Mars advanced radar for subsurface and ionosphere sounding）是欧洲航天局于2003年发射的Mars Express环绕器上的载荷之一。主要用来探测火星次表层结构及火星极区冰层[7,20-23]
+
+MARSIS采用脉冲压缩模式，对接收到的信号进行匹配滤波，再将接收信号与发射信号进行相关处理，即可使得回波脉冲变窄，能量更加集中。为了消除脉冲压缩之后出现的旁瓣的影响，MARSIS采用汉宁窗对参考信号进行了加窗处理。
+
+2012年到2015年之间，MARSIS雷达在火星PlanumAustrale区域测得与地面湖泊极为相似的反射信号。经过对数据的进一步分析，意大利航天局的MARSIS团队于2018年公布该反射信号来自冰川和冰下湖泊的分界面，冰盖表面下1.5千米处存在宽为20公里左右的液态水湖。但是目前还无法通过其他雷达设备获得相似信号，包括美国的SHARAD。
+
+![](images/a88237a180986857c3f963729d247375013885a8d0ccdf878d0c74cdc27dfc9e.jpg)  
+Fig.10 The picture of the ice cap prospected by the MARSIS radar
+
+![](images/21dc3c2feb183e498f5b9f890cfdd4d3046f66b6333bd4dadae1cdb7ea6ff690.jpg)  
+图10MARSIS探测的冰盖区域图像  
+图11MARSIS工作原理图 Fig.11 Schematic diagram of the working principle of the MARSIS radar
+
+# 2.1.5CONCERT
+
+CONCERT（Comet Nucleus Sounding Experiment by Radiowave Transmission）是欧洲航天局2004年发射的Rosetta任务CNSR（全称Comet Nucleus Sample Return）中使用的雷达设备。CONCERT的主要任务是探测彗星表面的介电特性、大尺寸结构（10米量级）、彗星内部小尺度结构分布、分层结构[24]。
+
+CONCERT雷达的任务是引导飞行器着陆到彗星上、采样并返回地球。在着陆器着陆彗星之前，首先要选择降落点，要求降落在有冰雪及挥发性物质的地方（具有科学考察价值的地方），同时降落点还要能保证着陆器顺利着陆及返回。因此，在着陆器着陆之前，首先需要对彗星的表面结构进行探测。CNSR的主要任务之一就是利用雷达系统对彗星的地貌及表层结构进行探
+
+测，从而选择最佳的着陆位置。
+
+CONCERT的基本原理是电磁波在传播过程中有能量损失和速度变化，这个过程和彗星物质的复杂介电常数、非均质性及雷达频率紧密相关。通过测量速度和能量变化即可反演彗星表层结构及介质特性。CONCERT的雷达信号由环绕器发射，而由着陆器接收，当环绕器绕彗星转动时，环绕器和着陆器的相对位置发生了变化，可以测得不同测线的彗星表层参数。
+
+![](images/fc87561df7387764e6c7c964b878e30cc0c61f00ef1988fefd6df0abfe7d79f0.jpg)  
+图12着陆器Philae和环绕器Rosetta工作示意图 Fig.12 Schematic diagram of the working principle ofPhilae and Rosetta
+
+# 2.1.6 SHARAD
+
+SHARAD（火星浅表雷达，全称Shallow subsurface radar）是美国于2005年发射的火星勘测轨道器（Marsreconnaissance orbiter，简称MRO）的载荷之一。SHARAD主要任务是探测火星次表层结构及极区冰层[8,2.25]。在20年左右的运行时间内，SHARAD与MARSIS基本实现了对整个火星的雷达探测。
+
+与MARSIS相似，SHARAD也采用了脉冲压缩模式，但是在处理方法上和MARSIS稍有不同。同时，不同的处理团队在处理SHARAD原始数据时使用不同的方法。意大利团队采用定标数据得到的参考信号进行脉压，然后使用PGA（相位梯度自聚焦，全称Phase-gradient autofocusing）方法进行电离层校正。美国团队则使用线性调频信号频率等分量的等幅模型，脉冲压缩后采用频率决定相位误差模型进行电离层校正。
+
+2019年，Nerozzi等利用SHARAD在火星北极大约 $1 5 0 0 \mathrm { m }$ 深度发现了大片冰层8]。2018年，意大利航天局利用MARSIS在Planum Australe发现了冰下湖，但是SHARAD没有在该区域获得相似的反射信号。对比分析可知，MARSIS的工作频率为1.3-5.5MHz，低于SHARAD的15-25MHz,由于高频成分容易被衰减，因此，SHARAD使用的频率较高也可能是导致SHARAD无法发现同样深度的反射信号的原因之一。
+
+![](images/7ff889f0c9d3b3ea5696cd1a69023a83df3609f752ce083feafd772ef869e7a7.jpg)  
+图13SHARAD工作原理图Fig.13 Schematic diagram of the SHARAD radar
+
+![](images/c74d18a4b89d84317e6a3d8e96c435bbd48ae7d24af2a2dc70be8124c314ce4f.jpg)  
+图14SHARAD获得的火星北极表层结构及测线信息[2  
+（a）雷达剖面；（b）测线图 Fig.14 The measuring line and the subsurface structure of the Martian North pole area (a)Radar profile (b) picture of the measuring line
+
+# 2.1.7 LRS
+
+LRS（全称Lunar Radar Sounder）是日本于2007年发射的Kaguya号环绕器的载荷之一。主要任务是探测月球的次表层结构[9,10]
+
+LRS采用调频连续波模式，中心频率为 $5 \mathrm { { M H z } }$ ，扫频范围为 $2 \mathrm { M H z }$ 。脉冲通过一组12米的偶极天线发射，从月面返回的信号由第二组偶极子天线接收，与第一组天线相同，但垂直定向。脉冲每50毫秒重复一次，扫描速率为10MHz/s。脉冲将穿透到月球表面以下几公里处，垂直分辨率为75米左右。LRS将有助于研究月球表面区域的热历史，时间尺度为几亿年。LRS还将用于探测 $1 0 \mathrm { H z }$ 到30 MHz之间的等离子波、太阳和行星无线电波[10]。
+
+![](images/a4a83eb7be0dadac3b324835c8f7d3ae85fa69f26af32b0f09d6c19ecc991056.jpg)  
+图15LRS雷达工作原理示意图[10]
+
+![](images/46062a41134e29f4fe8c1559d9a3b5762b0481ae73f8324c2db1493066c5eca7.jpg)  
+Fig.15 Schematic diagram of the working principle of the LRS rada   
+图16LRS工作示意图[10]Fig.16 Schematic diagram of the LRS radar
+
+# 2.1.8Mini-SAR
+
+Mini-SAR（微型合成孔径雷达，全称 Miniature Synthetic Aperture Radar）是印度航天局于2008年发射的Chandrayaan-1的载荷之一。Mini-SAR的主要任务是探测月球极地地下几米的永久阴暗区域是否存在冰水。研究表明，冰水物质可能存在于月球极地位置。包含着水珠的矿物质结构彗星残骸和陨星时常坠落在月球表面，虽然其中多数的水分已在太空中蒸发消失，但是随着时间的推移，具有显著数量的水分将累积起来[12]。
+
+Mini-SAR接收时采用左圆极化和右圆极化，发射时采用右圆极化。Mini-SAR可以用来测量表面反射率、粗糙程度、圆极化比及介电常数等特性。同时，由于冰具有相干后向散射相反效应，使得反射率和圆极化率增大，这些变化可以用Mini-SAR探测到。因此，Mini-SAR可以探测到月球水冰的位置和分布情况。2009年，Chandrayaan-1与地面站失去联系。2010年，NASA利用Mini-SAR数据获得了月球北极附近将近40多个含有水冰的陨石坑的照片。
+
+![](images/d51bd7206941b6be8fb1a5c3702028d8500493175387338db8fbf16d1067d306.jpg)  
+图17月球极地地区发现疑似水冰的位置Fig.17 Suspected water ice containing area in the lunar pole area
+
+# 2.1.9Mini-RF
+
+Mini-RF（微型射频仪雷达，全称MiniatureRadio Frequency）是美国2009年发射的月球勘测器（Lunar Reconnaissance Obiter）的七大载荷之一。主要任务是寻找月球表面以下的水冰存在。此外，该仪器还能为月球上被永久背光区域拍摄高清晰图像。Mini-RF是一种合成孔径雷达，分辨率为30米。相比传统的星载合成孔径雷达，Mini-RF体积小、耗电小、成本低[26]。
+
+LCROSS探测器（全称Lunar Crater Observation Sensing Satellite）在Cabeus陨石坑探测到了水冰迹象，但Mini-RF并没有在该地区探测到水水冰。Mini-RF雷达在月球北极的陨石坑的观测表明，月球北极的陨石坑中可能存在水冰，但是其存在形式和储量有待于进一步研究。2011年，Mini-RF出现故障，只能通过地面发射雷达信号，通过月球反射后被Mini-RF接收。
+
+![](images/6dc2bc0e8eb70aab60c15e42bf82b98f76e37d2387d4063797b621c6cc9e46a6.jpg)  
+图18MiniRF 微型射频仪雷达工作原理示意图Fig.18 Schematic diagram of the working principle of the Mini RF radar
+
+# 2.2计划中的环绕器雷达
+
+# 2.2.1MOSIR
+
+MOSIR是中国即将在2020年发射的HX-1环绕卫星的载荷之一。将利用MOSIR获取火星表层和次表层双频双极化雷达回波数据，开展火星次表层结构和地下水冰的探测和研究。也可以利用回波数据，获取探测器星下点高度，开展火星表面地形研究。在地火转移轨道，将开展行星际甚低频射电频谱探测，获取行星际甚低频射电频谱数据。
+
+环绕器次表层探测雷达采用线性调频脉冲压缩体制，具有HH、HV两种极化方式。在环绕器围绕火星飞行过程中，环绕器雷达发射机向火星表面辐射电磁波信号，一部分信号在火星表面被反射；一部分穿透火星次表层，在火星地下介质传播，遇到火星土壤、冰层、岩石等不同介质的交界面时，产生回波信号。通过对回波信号的分析，可以获得环绕器星下点高度、火星表层及次表层介质分层结构、水冰信号、电离层总电子浓度（TEC）等信息。另外，环绕器雷达还将进行甚低频探测（ $1 0 ~ \mathrm { K H z } { \sim } 1 0 ~ \mathrm { M H z }$ ）。此时，在进行甚低频探测时，次表层探测雷达不发射信号，并通过雷达信号处理模块分两段（两段分别为10KHz-500KHz和500KHz-10 MHz）并行处理。
+
+# 2.2.2RIME
+
+RIME（全称Radar forIcy Moons Exploration）是欧洲航天局与美国航天局计划于2022年发射的JUICE计划（全称Jupiter Icy Moons Explorer）的载荷之一。主要目标为：探索木卫三适宜人类居住的可能性；探测木卫二的活动区域；研究早期木星系统产生的木卫四号；确定冰壳的分布及表面年龄[27]。
+
+经过对雷达穿透能力、反射面粗糙程度、木星无线电噪声等方面的优化分析，RIME最终采用的频率为9MHz，带宽为3MHz，由 $1 6 \mathrm { m }$ 长的偶极子天线发射，可以对木星卫星表层下9公里的范围内进行探测，垂直分辨率为 $3 0 \mathrm { m }$ 。冰水界面介电常数差异较大，雷达波会被反射，利用界面信息可以计算损耗，从而获得冰内散射体的大小。此外，雷达信号在冰中的衰减其成分和温度的函数，因此可以利用测得的雷达信号反演冰层的温度和其成分。
+
+# 3.巡视器雷达
+
+巡视器雷达利用搭载在巡视器上的雷达对星球表面进行就位探测。巡视器雷达比环绕器雷达离星球表面更近，能够有效地消除空间传播损耗以及空间复杂电磁背景等干扰因素影响[，可以获得更高分辨率的星球次表层结构。由于巡视器行走缓慢，巡视器雷达只能在星球表面的局部区域进行探测，探测范围有限，探测效率较低。表4及表5分别列举了已投入使用的以及在计划中的巡视器雷达的基本参数。
+
+表4已投入使用的巡视器雷达基本参数Tab.4Key parameters of the Rover radar in service  
+
+<html><body><table><tr><td>序号</td><td>设备</td><td>任务</td><td>目标</td><td>参数</td></tr><tr><td>1</td><td>SEP</td><td>阿波罗17号 (1972)</td><td>月球</td><td>1-32 MHz</td></tr><tr><td>2</td><td>LPR</td><td>嫦娥3号 (2013) 嫦娥4号 (2018)</td><td>月球</td><td>40-80MHz 250-750MHz</td></tr></table></body></html>
+
+表5计划中的巡视器雷达基本参数Tab.5Key parameters of the planned Rover radar  
+
+<html><body><table><tr><td>序号</td><td>设备</td><td>任务</td><td>目标</td><td>参数</td></tr><tr><td>1</td><td>WISDOM</td><td>Exo Mars (2020) 欧洲航天局</td><td>火星</td><td>500 MHz-3 GHz</td></tr><tr><td>2</td><td>MAPER</td><td>HX-1 (2020)</td><td>火星</td><td>35MHz-75MHz 800MHz-1800MHz</td></tr><tr><td></td><td></td><td></td><td></td><td>150-300 MHz</td></tr><tr><td></td><td></td><td>中国</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>3</td><td>RIMFAX</td><td>MARS2020</td><td>火星</td><td>300-600MHz</td></tr><tr><td></td><td></td><td>(2020)</td><td></td><td>600-1200 MHz</td></tr><tr><td></td><td></td><td>美国</td><td></td><td></td></tr></table></body></html>
+
+# 3.1已投入使用环绕器雷达
+
+# 3.1.1 SEP
+
+SEP（全称Surface Electrical Properties）是美国1972年发射的阿波罗17号携带的载荷之一。主要用于测量介电常数、损耗角正切，对月下分层结构进行研究[28]。
+
+![](images/a8d38a68c29317b2e04fcd0ba4289bdd0f6242bff98a6b93114ad464d7336ada.jpg)  
+图19 SEP工作原理示意图[28]  
+Fig.19 Schematic diagram of the working principle of the SEP radar
+
+SEP发射天线为交叉偶极子，接收器由三个互相垂直的线圈组成。发射天线固定在月球表面，接收天线安装在巡视器上，随着巡视器移动而进行动态测量。SEP利用表面波和次表面波之间的干涉计算介电常数及损耗角正切。此外，SEP数据也可以用来研究来自地下不同介质的分界面及次表层结构[28.29]。SEP是最原始的巡视器雷达，由于其发射天线固定在月表，当巡视器行走较远距离时，信号衰减明显，需要重新放置发射天线，探测效率较低。
+
+SEP测得的冰的介电常数为3.3，损耗角正切为0.1，这与其他方法测得的介电常数典型值一致。在外场实验中测得的冰的深度（25米）也和其他方法测得的真实值符合。在1-32MHz范围内，根据层结构和电学性质的不同，可探测5米到几公里范围内的分层。在频率为2MHz、8MHz和16 MHz时，尺寸为35米的大的散射体特征明显。频率为1MHz和2MHz时，尺寸小于35米的大的散射体的信号消失，无法探测到回波信号[28]。
+
+# 3.1.2LPR
+
+LPR（全称Lunar penetrating radar）是中国探月工程与分别于2013年及2018年发射的嫦娥三号与嫦娥四号巡视器的载荷之一。LPR主要探测任务是巡视路线上月壤厚度及浅层结构探测[30-33]
+
+测月雷达采用收发分置天线，发射天线系统产生微秒电磁脉冲。雷达系统产生的电磁波信号在月下传播过程中，如果遇到不均匀层、不同介质交界面、熔岩管、漂石等目标，将被反射和散射。接收天线接收到回波信号后，经过接收机放大、采样后获得相应的探测数据。通过对探测数据进行分析、处理和成像，可以反演巡视器行走路径下方月壤厚度及其分布、漂石和熔岩管的分布以及月壳次表层岩石地质结构等信息[32]。
+
+测月雷达贴近月球表面探测，有效地消除了电磁背景和空间衰减的影响，具有更高分辨率和信噪比，利用测月雷达数据已经取得了很多科学成果。肖龙等利用嫦娥三号LPR数据对月球次表层进行了研究，获得了9个分层结构，表明该区域前期经历了复杂的地质活动。张金海等利用嫦娥三号LPR数据获得了月球表层月壤厚度大约为5米，大于以往对月球表层厚度的估计[34]。张金海等认为，大厚度的月球表层表明，巡视路径附近的表层物质并非附近陨石坑形成时的喷射物沉积形成[35。赖嘉龙等利用嫦娥三号LPR雷达剖面中的绕射双曲线计算了次表层介电常数，根据获得的介电常数差异，赖嘉龙等确定了三层次表层结构，厚度分别为 $0 . 9 5 \mathrm { ~ m ~ }$ ， $1 . 2 5 \mathrm { ~ m ~ }$ 及1.7$\mathbf { m } ^ { [ 3 6 ] }$ 。邢树果利用嫦娥三号LPR雷达数据分析了雷达穿透深度，结果表明，低频模式下雷达的穿透深度为 $1 3 6 . 9 \mathrm { m } \cdot 1 6 5 . 5 \mathrm { m }$ ，而高频模式下雷达的穿透深度为 $1 3 \mathrm { m } - 1 7 . 5 \mathrm { m } ^ { [ 3 7 ] }$ 。嫦娥四号携带的测月雷达实现了人类首次在月球背面使用巡视器雷达进行探测，李春来等利用嫦娥四号巡视器雷达数据划分了着陆区附近的次表层结构，如图24所示[38]。研究表明：（1）嫦娥四号着陆点的雷达高频信号的穿透深度比嫦娥三号着陆点的深得多；（2）嫦娥四号着陆区月表以下主要由低损耗、高孔隙度、颗粒状材料和不同大小的漂砾构成；（3）月海基底层的顶部应深于40米[38]。
+
+![](images/5352f7ddf7cdcdcfbe7435af57cb54f8b23b92c36919b70f4d1242d85a3b84d6.jpg)  
+图20嫦娥三号巡视器及LPR装置Fig.20 Chang'e-3 Rover and the LPR instrument
+
+![](images/4e4f33f9856783217bd4c8d12420dd2c5a4da2672060ee064f93e5e4ad44e236.jpg)  
+图21 嫦娥三号探月雷达高频数据反演的分层结构[34]
+
+Fig.21 Lunar subsurface structure derived from the high frequency radar data of Chang'e-3
+
+![](images/97ec1dc964a7e3aa9aef3dbd07248b19ff8dfc2ff1e94d6ab5abdcfb9fcda68a.jpg)  
+图22利用嫦娥三号LPR数据获取月壤厚度[3  
+月尘与月壤分界线，红色实线为月壤层下界面，黑圈为巡视路径上关键道分析得到的月壤层与下部岩石
+
+![](images/62565aa5c2ffb7cd20fd5b5fd97e2ef9a7b665b1451e250b52c0d6bd35c68070.jpg)  
+Fig.22 Obtaining the lunar regolith thickness by Chang'e-3LPR radargram blacklinerepresentstheinterfacebetweenlunarsoilsublayerandtheunarregolith;Boldredinedenotesthebottomofthelunar olith;Blackciclesarederivedfromtheanalysisofeytracesalongthemeasuringline,it’stebotompointofthelunargoith)   
+图23嫦娥三号巡视路径上的雷达剖面及反演的地层模型[34]  
+Fig.23TheadargramalongtheraceofYuturoverandthederivedgeologicalmodelthereof.(a)radargram(b)derivedgeologicalodel
+
+![](images/badf40d297542e907c2974ac01dd4461b4c5e05e07c00563dc2ad6ef122bdda8.jpg)  
+(a)嫦娥四号雷达剖面
+
+![](images/ac229bd7b285b129b95e9c214a64c5759debfcc7a09a6a5adea1aa97083f6c61.jpg)  
+(b)嫦娥四号雷达数据反演的分层结构
+
+![](images/c521a21b4bb99f46584c1304a253e0cdf6cf7e7e58054f989d40418199ddb831.jpg)  
+图24嫦娥四号测月雷达数据反演结果  
+24 InversionofLPRdataofCE-4. (a)radargramofLPRdata;(b)subsurfacestructure;(c)geologicalprofilederived byLPl
+
+# 3.2计划中的巡视器雷达
+
+# 3.2.1WISDOM
+
+WISDOM（全称Water Ice and Subsurface Deposit Observation on Mars）是欧洲航天局计划于2020年发射的ExoMars任务的Rosalind Franklin巡视器上的载荷之一。WISDOM是一种表层穿透雷达，科学目标为研究火星浅次表层的性质，并寻找过去以及现在火星上生命存在的证据[39]。
+
+WISDOM是一种特高频步进频率雷达，频段500MHz-3GHz，带宽2.5GHz，通过天线发射大量连续波信号，每个连续波对应一个频率，持续时间为一个步长时间间隔。完成一次测量需要对每个频率的回波进行测量，这些频率覆盖了整个工作波段，测量获得的是后向散射信号的实部。测量完成后，将对数据进行希尔伯特变换，反演出被雷达覆盖的环境的复传递函数，再进行反傅里叶变换将信号转变回时间域。此外，还将对回波信号施加不同的频谱窗函数以减小距离向上的旁瓣，进行滤波提高信号的信噪比[40]。图24和图25为WISDOM外场实验获得的雷达剖面，从图中可以清晰看到地层界面。图25(a)中可以看出厚度约为 $5 0 \mathrm { c m }$ 的干河床，图25 (b)中可以两个火山碎屑岩沉积层，最上部的水平层状碎屑岩对应于厚度大约为 $5 0 \mathrm { c m }$ 的全球层。
+
+![](images/3386c855b13c43d568c6eea79d16b6200890adaa365cf249be12d5d790264532.jpg)  
+图25WISDOM雷达地面测试结果[39] Fig.25 Ground test results of WISDOMradar. (a)test result of Atacama desert;(b)test result of volcano Etna
+
+# 3.2.2MAPER
+
+MAPER是中国计划于2020年发射的HX-1火星探测任务的巡视器载荷之一。MAPER具有高频和低频两个通道，分别主要用于探测浅层和深层的土壤厚度与冰层结构
+
+在火星车行进过程中，雷达发射机产生超宽带微波信号，向火星地下辐射电磁波信号。当电磁波遇到土壤分层、冰层、岩石等目标时，产生散射和反射回波信号。雷达接收天线接收雷达回波信号后将其传送至接收机进行处理。通过对雷达回波信号的分析，可以获得巡视器巡视路径下的地质分层、岩石、冰层等信息，将有助于火星地质演化分析和水冰的探测。不同于中国测月雷达（简称LPR）的高频通道，MAPER的高频通道可以进行HH、HV、VH、VV全极化探测，能够用于分析和探测水冰、散射体形状、地层分界面的形状和粗糙程度。
+
+![](images/975ab2d0c7a62dda4189e12ed34b5338f7a5267f813734a0ca734b525dfa0851.jpg)  
+图26MAPER工作原理示意图 Fig.26 Schematic diagram of the working principle of the MAPER radar
+
+# 3.2.3 RIMFAX
+
+RIMFAX（全称The Radar Imager for Mars' Subsurface Experiment）是美国计划于2020年发射的MARS2020火星探测任务的巡视器载荷之一。RIMFAX的主要目标为对火星次表层结构成像，获取火星地表下的地质特征，并提供关于次表层成分的信息。RIMFAX获取的雷达剖面图像可以用于揭示层积岩过去暴露在火星表面上的历史，比如撞击、风蚀、河流冲积痕迹等[41]。
+
+RIMFAX的天线为超宽带蝴蝶结形缝隙天线，具有发射和接收两个模式，工作时在两个模式之间来回切换。RIMFAX采用门限调频连续波模式，有三个扫描频段，分别为150-300 MHz、300-600MHz和600-1200MHz。RIMFAX有两种工作模式，第一种为浅层工作模式，在该模式下雷达系统会设置门限，使表面反射信号在接收窗口内；而另一种模式用于探测深处的次表层，该模式去除了表面反射信号以及其他的强反射源，在该模式下系统增益将变大，发射功率也将变大[41]。RIMFAX的探测深度为10米，垂直分辨率约为 $3 0 \mathrm { c m } ^ { [ 4 1 ] }$ 。图28为RIMFAX在2015于挪威斯瓦尔巴特的冰川上测得的雷达剖面，从图中可以看出两个界面，最上部冰川温度低，下部冰川温度相对较高，这一结果符合MidtreLovenbreen冰川冷温复合型冰川的[41]。
+
+![](images/608f08aa706fba671d8df0c1fd1616f4200032b20804a04606306febcfc819f1.jpg)  
+Fig.27Schematic diagramof theworking diagram of theRIMFAX radar
+
+![](images/8eac30a9258be87801fbc087c65819e7614e7f574bfbc55cdfb063b9f12223e0.jpg)  
+图27RIMFAX工作原理图  
+图28RIMFAX在Midtre Lovenbreen冰川获得的雷达剖面[41] Fig.28Radargram of GlacierMidtre Lovenbreen obtained byRIMFAX
+
+# 4.总结与展望
+
+表层穿透雷达是人类探索宇宙的有效方法，有利于推动宇宙形成与演化等一系列重大科学问题研究。同时，深空探测也将有助于催生一系列基础性、前瞻性的新学科、新技术，促进科学技术发展[。雷达穿透性强，不依赖于光照，具有全天候性、分辨率高等优势，其在月球和深空探测中发挥了重要作用。人类利用雷达进行月球和深空探测已经有一段历史，地基雷达、环绕器雷达及巡视器雷达在月球和深空探测领域已经取得了丰硕的成果。20世纪以来，各国加大了月球和深空探测领域的投入，月球和深空探测将迎来新的高峰期，人类将探测离地球更远的深空目标。随着探测距离越来越远，面临的科学问题也越来越复杂，对月球和深空探测的要求也越来越高。为了满足对月球和深空目标的探测要求，需要在现有的成果和技术基础上，对传统的表层穿透雷达进行改进，使其适应于探测更远、更复杂的深空目标，将有助于推动月球和深空探测事业的发展。
+
+# 4.1月球和深空探测的发展趋势
+
+纵观表层穿透雷达在月球和深空探测的应用历史，从最开始的月球探测，到近地行星探测
+
+（金星和火星），再到离地球较远的其它星体的探测，表层穿透雷达对月球和深空目标的探测大体经历了由近到远的过程，未来的月球和深空探测也将遵循这一原则。对于特定的探测目标，对其探测方法又大体经历了地基雷达探测、环绕器雷达探测、巡视器雷达探测、载人登陆和采样返回的过程，这也是未来月球和深空探测方式的发展趋势。
+
+对于太阳系星体，人类已经都实现了地基雷达观测。对月球、火星、金星、土星、木星实现了环绕器雷达探测。对月球、金星、火星及木卫六实现了着陆探测。由于独特的位置优势，月球是人类探测最早、探测次数最多的星球，也是人类唯一登陆探测的星球。人类对月球的探测实现了首次对地外星球从地基雷达到环绕器雷达、巡视器雷达、再到载人登陆及采样返回的完整探测。从各国制定的探月计划可知，未来对月球的探测将沿着载人登陆及更加精细化探测的方向发展。截止目前，对火星的探测已经实现了地基雷达观测、环绕卫星探测以及无人着陆巡视，未来火星探测将逐步实现载人登陆及采样返回。表6和表7分别汇总了中国及外国在未来10年内的主要月球和深空探测任务。
+
+# 表6 中国未来十年的主要探测任务[45]
+
+Tab.6Deep space exploration missions of China in the next 1O years   
+
+<html><body><table><tr><td>序号</td><td>任务</td><td>年份</td><td>探测对象</td><td>探测方式</td></tr><tr><td>1</td><td>嫦娥五号</td><td>2020年</td><td>月球</td><td>着陆、采样、返回</td></tr><tr><td>2</td><td>火星探测</td><td>2020年</td><td>火星</td><td>环绕、着陆、巡视</td></tr><tr><td>3</td><td>小行星探测</td><td>2024年前后</td><td>小行星</td><td>伴飞、附着、取样、返回</td></tr><tr><td>3</td><td>火星探测</td><td>2028年前后</td><td>火星</td><td>着陆、采样、返回</td></tr><tr><td>4</td><td>木星探测</td><td>2036年前后</td><td>木星、金星</td><td>环绕</td></tr></table></body></html>
+
+# 表7外国未来10年主要探测任务[46.47]
+
+Tab.7Deep space exploration missions of foreign countries in the next 1O years   
+
+<html><body><table><tr><td>序号</td><td>任务</td><td>国家或机构</td><td>计划发射时间</td><td>探测对象</td><td>探测方式</td></tr><tr><td>1</td><td>MARS2020</td><td>NASA</td><td>2020年</td><td>火星</td><td>着陆、巡视</td></tr><tr><td>2</td><td>ExoMars2020</td><td>ESA</td><td>2020年</td><td>火星</td><td>着陆、巡视</td></tr><tr><td>3</td><td>Hope</td><td>阿联酉</td><td>2020年</td><td>火星</td><td>环绕</td></tr><tr><td>4</td><td>JUICE</td><td>ESA</td><td>2022年</td><td>木星卫星</td><td>环绕</td></tr><tr><td>5</td><td>火星探测</td><td>SpaceX</td><td>2022年</td><td>火星</td><td>环绕</td></tr><tr><td>6</td><td>空间探测计划</td><td>俄罗斯</td><td>2025年前</td><td>月球、火星</td><td>着陆、采样、返回</td></tr><tr><td>7</td><td>火星探测</td><td>SpaceX</td><td>2025年</td><td>火星</td><td>载人登陆</td></tr><tr><td>8</td><td>蜻蜓</td><td>NASA</td><td>2026年</td><td>土卫六</td><td>旋翼飞行</td></tr><tr><td>9</td><td>火星之旅</td><td>日本</td><td>2024年</td><td>火星</td><td>环绕</td></tr><tr><td>10</td><td>月球探测</td><td>NASA</td><td>2027年前后</td><td>月球</td><td>载人登陆</td></tr><tr><td>11</td><td>天王星及海王星探测</td><td>NASA</td><td>2030年前后</td><td>天王星及海王星</td><td>环绕</td></tr><tr><td>12</td><td>月球探测</td><td>俄罗斯</td><td>2030年前后</td><td>月球</td><td>载人登陆</td></tr></table></body></html>
+
+# 4.2表层穿透雷达的发展趋势
+
+# （1）地基雷达
+
+远距离、广覆盖面、高分辨率、多目标追踪是未来地基雷达系统的发展趋势[13]。同时，为了提高数据传输的效率，地基雷达需要具有更大口径。随着雷达口径逐渐到了设计极限，需要将各地的天线组合起来形成具备更大等效口径的天线阵。在未来地基雷达设计中，为雷达设计用于天线阵组网的开放接口，使其能够实现天线组网是未来地基雷达的发展趋势之—[1,42-44]。美国将在2020年建成由400多个 $1 2 \mathrm { ~ m ~ }$ 天线组成的等效口径为 $2 4 0 \mathrm { m }$ 的天线阵，接收信号的信噪比将显著提高。
+
+地基雷达具有成本低、建设周期短、灵活性好等优势，国外很早就开始利用地基雷达进行月球和深空探测，取得了丰硕的成果。随着时间的推移，其技术也更加成熟。对我国而言，环绕器雷达和巡视器雷达已经比较成熟，但是国内目前还没有用于深空探测的地基雷达。因此，地基雷达系统建设是我国雷达深空探测的发展方向之一，建设用于深空探测的地基雷达将有利于推动我国深空探测事业的发展。
+
+（2）环绕器雷达
+
+大孔径、轻质量、高增益、小体积是未来环绕器雷达的总体发展趋势[13]。低频信号探测深度大、分辨率低，而高频信号探测深度小、分辨率高。因此，未来环绕器雷达将设计多频段探测模式。此外，利用环绕器雷达可以进行多极化多方位观测，结合其他探测方法（如光学、伽马射线等），可以探测水冰、确定分层结构及表面粗糙程度[4]。因此，环绕器的多极化探测也将成为环绕器雷达的发展趋势之一。
+
+# （3）巡视器雷达
+
+截止目前，只有阿波罗17号的SEP和中国嫦娥三号、嫦娥四号的LPR实现了在星球表面利用巡视器雷达进行探测。SEP发射天线固定在月表，接收天线安装在巡视器上。由于其探测效率较低，逐渐被共偏移距的脉冲雷达替代。LPR使用脉冲雷达模式，其发射天线和接收天线都安装在巡视器上，采用收发分置共偏移距模式，探测效率高，比SEP具有更高的分辨率。但是LPR使用的脉冲雷达无法同时满足高分辨率和大探测深度的要求，而且其发射功率较大，容易受电离层影响。与月球探测相比，火星探测还需要考虑电离层的影响。因此，脉冲雷达模式不适用于火星环境的探测。为了消除电离层的影响，同时提高探测深度和分辨率，巡视器雷达需要采用调频信号及脉冲压缩处理方法，这将成为未来巡视器雷达的主要探测方式。在2020年，欧洲航天局、美国及中国都计划发射火星探测器，其巡视器将分别携带WISDOM、RIMFAX及MAPER雷达。WISDOM、RIMFAX及MAPER将分别采用步进频率连续波、门限调频连续波及线性调频连续波模式。
+
+# A Review of Application of Surface Penetrating Radar in the Moon and Deep-Space Exploration
+
+Wang Ruigang123，SuYan12，HongTiansheng23，Dai Shun12，LiuChendi12.3   
+(1.NationalAstroomicalObservatories,ChinaAcademyofciences,Beijig0ol,China;2.KeyLaboratoryofLunarand-pace   
+Exploration,tialrocalOetossecadefia;Uesityfid Sciences,Beijing 100049,China)
+
+Abstract: The exploration of the moon and deep space objects or environment is an important field of human space activities.The exploration of the moon and deep space is conducive to the study of the origin,evolution and current situation of the solar system,the origin and evolution of life and other major scientific issues，and to the birth of basic and forward-looking disciplines and technologies. Compared with other detection methods such as optics,radar has the advantages of strong penetration, polarization and not limited by light. It is one of the effective means to detect the characteristics of the moon and deep space objects and plays an important role in the exploration process. Electromagnetic wave can penetrate several meters to several thousand meters of subsurface, which can be used to detect the surface dielectric constant,subsurface structure,ionosphere and water ice of the moon and deep space targets. According to different detection methods, surface penetrating radar detection mainly includes ground-based radar,space-borne radar and rover radar. For different scientific objectives,different detection methods have their own advantages and disadvantages. Our review covers the retrospect of the scientific application of surface penetrating radar in the exploration of moon,Mars and asteroids,summarizes the exploration tasks,parameter design,working principle and results of various radar on-board different exploration missions,both planed and those in service, and looks forward to the development trend of lunar and deep space exploration using surface penetrating radar in the future.
+
+Key words:Surface penetrating radar; Deep-space exploration; Ground-based radar; Space-borne radar; Rover radar
+
+# 参考文献:
+
+[1] 吴伟仁，于登云．深空探测发展与未来关键技术[J]．深空探测学报,2014(01):13-25.   
+[2]D.T.Blewet,P.G.Lcey,B.R.Hawke,etal.Clementineimagesofthelunarsample-returstations:Refinementofeand TiO 2 mapping techniques[J]. Journal of Geophysical Research Planets,1997,102(E7):16319-16325.   
+[3]郑磊，苏彦，郑永春等．地基雷达技术及其在太阳系天体探测中的应用[J].天文学进展,2009(04):85-94.   
+[4] 金亚秋，法文哲，徐丰.火星探测的微波遥感技术[J].空间科学学报,2008(03):82-90.   
+[5]HarmonJK,ArvidsonRE,Guinness EA,etal.Marsmapping withdelay-Dopplerradar[J].Journalof Geophysical Research,1999,104(E6):14065.   
+[6]丁春雨，封剑青，郑磊等．雷达探测技术在探月中的应用[J].天文研究与技术,2015,12(2):228-242   
+[7]GumettDA,HuffRL,MorganDD,etal.Anoverviewofradarsoundingsofthe martianionosphere fromthe Mars Expres spacecraft[J]. Advances in Space Research,2008,41(9):1335-1346.   
+[8]S.Nerozzi,J.W.Holt.Buriediceandsandcaps at the northpoleof mars: Revealingarecordof climatechange inthecaviuni with SHARAD[J]. Geophysical Research Letrs,2019,46(13).   
+[9]FukushimaA,Ashizawa K,Yamaguchi T,etal.InitialResulsofLunar Radar Sounder(LRS)ExperimentOn-Board the Kaguya (SELENE) Spacecraft[J]. 2007,59(112):629-637.   
+[10]T.Ono,A.Kumamoto,Y.Kasahara,etal.The LunarRadarSounder(LRS)Onboard theKaguya (SELENE)Spacecraft[J] Space Science Reviews,2010,154(1-4):145-192.   
+[11] Kobayashi,T,Kim,JH,L,S.R,etal.SimultaneousObservationofLunarRadarSounderandLaserlimeterofKgya for Lunar Regolith Layer Thickness Estimate[J]. IEEE Geoscience &Remote Sensing Leters,7(3):435-439.   
+[12]Paul Spudis,Stewart Nozete,BenBussey.Mini-SAR:animagingradarexperimentfortheChandraya-1misiotothe Moon[J]. Current Science,2009,96(4):533-539.   
+[13] 倪嘉骊．深空探测雷达及其关键技术分析[J].现代雷达(11):1-5.   
+[14]ShkuratovYG,BondarenkoNV.RegolithLayerThicknessMappingof the MoonbyRadarandOpticalData[J].Icarus 2001,149(2):329-338.   
+[15] 吴伟仁，李海涛，李赞等．中国深空测控网现状与展望[J].中国科学.信息科学,2020:87-108.   
+[16]李新胜．深空地基探测雷达的发展现状与建议[J].现代雷达,2017(8).   
+[17]PorcellLJ,JordanRL,ZelenkaJS,etal.The Apollo lunarsounderradarsystem[J].Proceedingsof the IEEE,1974, 62(6):769-783.   
+[18]PhillpsRJ，Adams GF，Brown Jr WE，et al．The Apolo17 lunar sounder[C]//Proceedings ofthe Lunar Science Conference.1973: 2821-2831.   
+[19]D.T.Blewet,P.G.Lucey,B.R.Hawke,etal.Clementineimagesofthelunarsample-returstations: RefinementofFeOand TiO 2 mapping techniques[J].Joumalof GeophysicalResearch Planets,1997,102(E7):16319-16325.   
+[20]PicardiG,Sorge S,SeuR,etal.The Mars Advanced Radar for Subsurfaceand Ionosphere Sounding (MARSIS):concept and performance[C]// IEEE International Geoscience & Remote Sensing Symposium. IEEE,1999.   
+[21]陈世平.“火星快车"的有效载荷[J]．国际太空,2004(07):27-32.   
+[22] 张洪波．火星环绕器次表层探测雷达发展综述[J].探测与控制学报,2016(6):57-61.   
+[23] 肖媛,苏彦,戴舜,封剑青,丁春雨,邢树果,李春来.雷达对火星次表层的探测与研究现状[J].天文研究与技 术,2017,14(02):192-211.   
+[24]戴成松．用于空间计划的CNSR雷达探测器[J].现代雷达,1993(04):19-25.   
+[25]NathanielE.Putzig,RogerJ.Phillis,BruceA. Campbell,etal.Subsurface structureof Planum Boreum fromMars Reconnaissance Orbiter Shallow Radar soundings[J]. Icarus,204(2):443-457.   
+[26]Nozete S,SpudisPDussyB,etal.TheLunarReconnaissanceOrbiterminiatureadiofrequency(Min-RF)techology demonstration[J].Space Science Reviews,2010,150(14):285-302.   
+[27]Bruzzone,L.,etal. (2O13),RIME:RadarforIcyMoonExploration,in:Proc.33rdIEEInterm.Geosc.andRem.Sens.Sym
+
+IGAKSS 2013,390/-3910. [28]Simmons,G.,rangwayDnan,P.,Baker,.aister,Lrow,,Coopr,W,ubley,D,ebeet, England,A.W,etal.,97.urfaceelectricalpropertiesxperiment.I:Apollo7:PreliminaryScienceReport,ol..pp. 15-1-15-14. [29]GrimmRE.NewanalysisoftheApolo17surface electricalproperties experiment[J].Iarus,2Ol8,314:389-399. [30]Fang,Guang-You,Zhou,Bin,Ji,Yi-Cai,etal.unarPnetratingRadaronboardtheChang'e-3mission[J].Rearchi Astronomy and Astrophysics,14(12):1607-1622. [31] WenzheFa,Meng-Hua Zhu,TiantianLiu,etal.Regolith stratigraphyattheChangE-3landingsiteasseenbylunar penetrating radar[J]. Geophysical Research Letters,2015, 42. [32]ShunDai,YanSu,Yuan Xiaoetal.Lunarregolith structuremodelandechosimulatioforLunarPenetratingRadath International Conference on Ground Penetrating Radar.2014. [33]孙辉先，李慧军，张宝明等．中国月球与深空探测有效载荷技术的成就与展望[J]．深空探测学报,2017. [34]Long Xiao,Peimin Zhu,GuangyouFang,etal.Ayoung multilayeredteraneof thenorthern Mare Imbriumrevealed by Chang'E-3 mission[J]. Science,2015,347(6227):1226-1229. [35]Zhang,Jinhai,Yng,Wei,Hu,enetal.VolcanichistoryoftheIbrumbasinAcoseupiefromteluarroverYutu[J]. Proceedings of the National Academy of Sciences of the United States of America,112(17):5342-5347. [36]JialongLai,YiXu,XiaopingZhang,Zesheng Tang.Structuralanalysisoflunarsubsurface withChangE-3lunarpenetrating radar[J].Planetary and Space Science,2016,12O:96-102 [37]XingSG,SuY,FengJQ,etal.ThepenetratingdepthanalysisofLunarPenetrating RadaronboardChange-3over[J]. Research inAstronomy and Astrophysics, 2017,17(5):046. [38]ChunlaiLiYanSu,ElenaPetiell,etal.TheMoon’sfarsideshallowsubsurfacestructureunveiledbyhang'E-4Lunar Penetrating Radar[J]. Science Advances,2020,6(9):2375-2548. [39]CiarlettiV,CorbelCPlettemeierD,etal.WISDOMGPRDesigned forShallowand High-Resolution Soundngof the Martian Subsurface[J].Proceedings of the IEEE,2011,99(5):824-836. [40] Valerie Ciarleti,tephenClifrd,DirkPlettemeier,etal.The WDOMRadar:UnveilingtheSubsurfaceBeneathe ExoMars Rover and Identifying the Best Locations for Drilling[J].Astrobiology,2O17,17(6). [41]Hamran SE,BergerT,BrovollS,etal.RIMFAX:AGPRfortheMars 2020rovermission[C]//2O158th Interational Workshop on Advanced Ground Penetrating Radar (IWAGPR). IEEE,2015. [42]王骞，于宏毅．深空网中的天线组阵技术及其发展[J].信息工程大学学报,2009(03):69-72 [43] 李海涛，李宇华，匡乃雪．深空探测中的天线组阵技术[J].飞行器测控学报,2004,23(4):57-60. [44] 姚飞，匡麟玲，詹亚锋，陆建华．深空通信天线组阵关键技术及其发展趋势[J].宇航学报(10):2231-2238. [45]吴季，孙丽琳，尤亮等.2016-2030年中国空间科学发展规划建议[J].中国科学院院刊,2015(6期):707-720. [46]周生东，王永生．俄罗斯联邦2016-2025年航天计划基本内容[J].国际太空,2017(5). [47]伍晓京，张扬眉．美国深空探测的战略规划及未来趋势研究(上)[J]．国际太空,2015,No.442(10):59-67.

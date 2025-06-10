@@ -1,0 +1,632 @@
+[
+    {
+        "type": "text",
+        "text": "中国人整体性思维特征的情境评估法及其应用\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柯晓晓‘齐惠紫‘梁家辉」金欣园‘高婕」张明霞²汪亚珉（首都师范大学心理学院，北京市“学习与认知”重点实验室，北京100048）（中国科学院心理研究所，行为科学重点研究室，北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要创设了新的中国人思维特征的情境评估方法，初步应用于整体性思维特征与创造力倾向关系的研究并对其信效度进行了检验。新评估法选取体现典型文化意境和中国人思维特征的成语谜语作为材料，利用虚拟现实技术构建形与意、情境与语境相互转换的成语谜语文化园，记录被试游览时即景说出的成语建立成语库，并编码所录成语的思维特征类型以作为被试的整体性思维测量指标。基于测试数据的信效度分析表明整体性思维成语测试系统信效度表现良好。整体性思维与创造力倾向的相关分析表明，整体性思维与创造力倾向中的好奇性显著负相关。研究首次证实了利用虚拟现实技术来重建传统文化情境以实现对中国人思维特征的情境评估的可行性，提示基于虚拟现实技术的情境评估法在未来心理学相关研究中的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：成语，整体性思维特征，创新能力，虚拟现实，生态学效度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1中国人思维特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20 世纪80年代以来，随着文化心理学领域对比研究的深入，东西方文化、行为、思维方式等方面存在的诸多差异已经得到了广泛的讨论。Peng、Nisbett等人的研究把东西方思维方式的差异与东西方文明的起源联系在一起，揭示了文化影响的深层机制一—文化通过认识论造就了思维的差异（侯玉波等,2016）。侯玉波和朱滢（2002）基于Peng 和 Nisbet（1999）的研究，总结了中国人常用的两种思维方式——辩证性思维和整体性思维。辩证性思维指中国人从世界是普遍联系的、变化的及复杂的观点出发看待矛盾，包含变化论、矛盾论和中和论三大原理。而中国人的整体性思维是指中国人倾向于用联系的、整体的观点看待问题，倾向于强调事物之间的关系，往往会将问题与所处的背景相结合。这一观点得到了许多实证研究的支持，例如有研究表明，中国人在棒框实验中的成绩和西方人相比相对较低，这主要因为中国人难以把目标从背景中抽离出来，更倾向于把目标和背景当作整体看待（Jiet al.,2000）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "就思维特征的研究而言，如何评估这些特征很重要。早期东西方归因差异研究较多使用实验评估法，通过分析不同文化背景的被试对相同实验材料的归因倾向探究东西方思维特征差异，典型的实验材料包括鱼群游动的动画、抽象的物体运动动画及一系列社会冲突情境等（Morris&Peng,1994;Nisbett,2004），其结果虽然普遍验证了东西方思维存在显著差异，但难以对思维特征进一步量化。目前具体衡量中国人思维特征主要采用量表评估的方式，典型的测量工具有：赵志裕和杨中芳（2000）编制的中庸实践思维量表及在此基础上精简化的一系列中庸思维体系量表，Spencer-Rodgers 等人（2004）编制的辩证思维量表，侯玉波等人（2016）编制的中国人整体思维方式量表。中庸思维系列量表聚焦于“中庸”这一中国人思维的直观特征，体现了其在思维、行动等不同侧面的表现；辩证思维量表是东西方在对比研究中发展而成的，具有较高跨文化应用价值；中国人整体思维方式量表提出并验证了中国人思维方式整体结构，为进一步探索中国人思维特性提供了一定的理论基础。以上量表从不同的理论思路出发为中国人思维特征的不同方面提供了本土化的测量工具，具有很高的理论与应用价值。利用这些便捷高效的量表工具，已有研究取得了许多有价值的成果（段锦云,凌斌,2011；侯玉波 等,2016; Spencer-Rodgers et al.,2004）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但同时囿于较为单一且缺乏文化意境创设的测量方式限制，当前中国人思维特征测量的生态学效度相对不足。中国人思维特征的形成是植根于中华源远流长的文化中的，正如 Hong等人（1997）通过给香港双文化背景的学生事先展现东方或西方文化图片获得的两组被试对于相同材料的解释结果不同，文化情境可能会影响思维特征的表现。为了进一步深入准确地把握中国人思维特征，需要兼具生态性、直观性、自然性同时能够较好进行实验控制的测量方法。随着虚拟仿真技术的发展成熟，其在实验条件的真实性及实验的可复制性等方面的优势使得这一愿望成为可能（彭凯平 等,2011），本研究拟通过虚拟现实技术来模拟中国传统文化中典型的山水园林环境作为测试情境，以情境评估的方式来测量中国被试在传统中国文化环境下的典型思维特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2成语故事中的整体性思维特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "成语是中国人在自古以来的生产生活实践情景中创造并提炼出来的一种独特文化元素，当这种元素再次回归到现实情景中时，最能体现创造这种语言文化体系的民族的思维方式（卢铁澎,2008）。以往针对创造性和顿悟的许多研究，就使用了汉语的成语谜题作为材料进行施测（杨文娇 等,2013；朱新秤 等,2009）。成语运用类比、比喻的手法，以人们日常生活经验为基础，通过感知形象相联系，由此及彼、触类旁通，体现出重整体感知，轻细节认识的思维方式（卢铁澎,2008)。因此，借用成语故事来研究中国人的整体性思维特征是十",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分合理的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有研究中对于成语故事中整体性思维的构成没有明确结论，因此本研究拟参照已有思维特征测量的结构确定成语整体性思维测量指标。Choi等人（2007）依据Nisbett所提出的关于东西方思维差异的理论为基础，发展出分析性/整体性思维方式量表(Analysis-Holism Scale，AHS)，以因果观、矛盾观、变化观和关注点四个维度作为整体思维方式的组成结构。侯玉波等人(2016)同样根据Nisbett理论编制的中国人整体思维方式量表则包含了联系性、变化性和矛盾性三个因素。两份量表的各个维度见表1所示。从文化的角度来看，中国人的思维是辩证的，中国人的思维更是整体包容的。如果把辩证思维视作广义的整体性思维，那么二者的结构都是广义上的整体思维。为尝试性地基于情境评估法研究中国人的整体性思维特征，本研究选择性地探讨“联系地、整体地看待事物”这一关键特征，即AHS结构中的“关注点”“因果观”与中国人整体思维方式量表结构中的“联系性”。“矛盾”与“变化”是典型的辩证性思维特征，涉及更复杂的思维特征结构模型，不是本研究关注的重点。根据以上思维特征可以总结出成语整体性思维指标应该反映出成语故事中注重整体环境内容、关注事物联系及强调交互的特征，并需要进一步将其在编码时进行操作化。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae317e19a515ee18cb37051834d25927d9a0b10e4adbc85243c32d43be6c7c12.jpg",
+        "table_caption": [
+            "表1文献综述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>来源</td><td>维度</td><td>主要内容</td></tr><tr><td>AHS量表</td><td>因果观</td><td>强调目标与环境的关系，注重交互作用</td></tr><tr><td></td><td>矛盾观</td><td>面对矛盾时寻求折中和妥协</td></tr><tr><td></td><td>变化观</td><td>现象是非静态的，不断变化的</td></tr><tr><td></td><td>关注点</td><td>关注目标与目标之间/目标与环境之间的关系</td></tr><tr><td>中国人整体思</td><td>联系性</td><td>世界是普遍联系的</td></tr><tr><td>维方式量表</td><td>变化性</td><td>世界是不断变化的</td></tr><tr><td></td><td>矛盾性</td><td>世界是充满矛盾的统一体</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3成语谜语与虚拟现实环境的契合 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明，当人们运用或生成成语时，会根据成语的文字描述形成表象（Nippold&Duthie,2003），图画形式的表象能显著提高成语的记忆效率（谭华玉，刘鸣,2009）。也就是说，生动、形象的情境将更直接地激活人们相应的成语语义表达。因此，利用虚拟现实技术直观呈现成语故事无疑是非常合适的表达方式，比传统的二维图画更具表现力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "成语理解的相关理论也证明了虚拟现实坏境表达与成语理解机制之间的高度一致性。成语理解的具身认知理论（embodimentcognitionview）指出，空间信息是理解抽象概念的基础（苏得权等,2013；叶浩生，2011），身体的状态直接影响着认知过程的进行，大脑与身体的特殊感觉-运动通道在认知的形成中扮演着至关重要的角色。这与虚拟现实环境的浸入性与交互性完全一致。同样，浸入式经历者框架理论（TheImmersed Experiencer Frame）也指出，成语理解是以语言输入为线索，通过整合和序列追踪现实经验痕迹，对所描述的事件的身临其境的经历（鲁忠义，张雅静，2007）。已有研究已证明了虚拟环境在模拟现实环境时的有效性（彭凯平 等,2011），因此，利用虚拟现实技术构建特定的心理行为发生情境是完全可行的（袁小钧 等,2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4成语中的整体性思维对创造力倾向的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中国人思维特征与创造力倾向之间的关系是思维特征影响研究中的热门，以往的大多数研究都暗示了辩证性思维方式与创造力倾向之间的紧密联系。许多研究表明，辩证性思维在发现问题的过程中具有重要作用，可能会对创造思维有促进作用（Arlin,1976;Arlin&Levitt,1998;Benack etal.,1989;Rothenberg,1996）。然而，也有研究表明，在白种人群体中，朴素辩证思维降低了发现问题任务中的原创性，二者之间的关系可能与特定的文化相关（Paletz& Peng,2009）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而中国式思维特征的整体性与创造力倾向关系的研究还相对不足。中国文化中倾向于以宏观眼光看待问题的整体性思维方式与场依存的认知风格有所联系，而以往大多研究在场依存与创造力的关系上则展现了负相关的结果（李寿欣，李涛，2000；武欣，张厚粲，1997）。因此有必要进一步探讨在典型的中国文化意境下，中国人的整体思维是否仍然负向预测创造力或者创造力的某个方面。具体到本研究就是典型中国文化意境下，成语谜语中所体现的中国人整体思维方式与创造力倾向之间是否存在某种预测关系。根据已有研究发现来预测，虚拟成语谜语文化园测试中的整体思维特征可能仍然会预测创造力倾向的某些方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5研究目的和假设",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要目的是利用虚拟现实技术来呈现成语意境和意象，从而建立一种观测中国人思维方式的情境评估方法，并探讨在典型中国文化情境中的整体性思维特征与创造力关系这一重要学术问题。在校标效度检验方面，选取镶嵌图形测试作为中国人整体性思维情境评估的校标，选择这一测试作为效标测试的主要原因在于两者的结构相似，即都是基于图形意象来评估人的思维特征，并且场独立与场依存型认知加工方式的划分与本研究中的虚拟现实环境一样都是基于模拟仿真情境来观察评测人的认知加工特征的。同时选取大五人格测试作为被试人格变量的观测，以便观察主要的被试变量在这之中的可能影响。在应用检验方面，选取威廉斯创造力倾向量表测量被试创造力倾向，验证与整体性思维特征的关系。根据已有研究发现，我们假设整体性思维方式与场依存的认知风格正相关，与创造力倾向负相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究在北京地区招募了90名成年人作为研究对象。其中，男性35人，女性 55人，年龄为16\\~36 岁（ $\\scriptstyle . M = 2 2 . 1 2$ ， $S D { = } 2 . 7 4 \\cdot$ )。在实验开始前，被试均阅读并填写了知情同意书。该实验通过了首都师范大学伦理委员会的审核。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2设备",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究使用的“中国成语谜语虚拟现实测评系统”，是由所在虚拟现实实验室团队协作完成。在开发过程中，使用3DsMax2018进行建模，Unity5.6.0开发虚拟现实系统。研究中使用的硬件设备主要有HTCVive 虚拟现实头戴式头盔（包含激光定位器、操控手柄)，DellPrecisionT6510工作站。头戴式头盔的分辨率为 $2 1 6 0 ^ { * } 1 2 0 0$ 像素，刷新率为 $9 0 \\mathrm { { H z } }$ ，视角为110 度。激光定位器刷新率 $1 0 0 \\mathrm { H z }$ ，可追踪区域为 $7 . 5 ^ { * } 7 . 5$ 米，可追踪区域内可实现360 度移动追踪，时延低于 $2 0 \\mathrm { m s }$ 。Vive 操控手柄通过激光发射与场景进行交互。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3虚拟现实测试系统",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1虚拟现实场景",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所采用的虚拟实验场景为典型的山水文化园林场景，场景集园林文化要素（如山、河、舟、桥、花、草、亭、房、星、月等）和成语典故要素（如生活、文化、动物、人情世故等)，包含典型的文化要素38类,图1为园林场景的一个局部。整体场景大小约为570米 $\\times 5 7 0$ 米，包含的所有模型共计4700万面。场景中的模型大多为网上免费下载的模型，少部分为网上购买的模型，还有一部分为实验室团队成员制作的模型，所有模型均用于教育与科研。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/90541251b11cec0412e1bcf8e02279da8c9cbbecc23192df9ffe58932eed549f.jpg",
+        "img_caption": [
+            "图1实验中所采用的虚拟文化园林场景"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2成语谜语库的建立 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "成语谜语库分由核心成语谜语库和自由创意成语谜语库两部分构成。核心成语库是在场景制作前有计划地进行了形意转换的成语，建立主要分为两步：首先，从网上的分类成语库中选取数百个具有典型的形意转换特性的常用成语，并根据成语涉及到的题材，按动物、人文故事、景物进行平衡，形成备选成语150条。而后，由创意小组（由心理学专业文科类本科生2名、理科类本科生2名、心理学专业研究生1名，研究生导师1名组成）对备选成语进行形意转换创意，并按照静态组合，动态展示两类进行平衡，根据创意的质量和虚拟现实表达的良好程度选取具有高代表性、高表达性的核心成语测试库，最终在场景中实现的数量为59 条。核心成语库中成语的虚拟现实表达有一半带有动画，近三分之二以上设置有与玩家之间的交互功能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "自由创意成语库则是在实验过程中记录和选择的，根据设计，文化园林场景中包括楼、台、山、河、舟、瀑、花、草、龙、虎、鸡等为代表的文化元素可以作为成语刺激材料，激发被试对成语的联想。排除与这些刺激信息无关的成语后，筛选出符合环境信息或被试表现出的心理、行为特征的成语作为自由创意成语库。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "无论是核心库还是自由创意成语谜语，成语的选择或是潜在选择均不考虑其表达特征的分类，主要考虑成语的形意转换性与常用性。成语库分类只作为筛选方式的区分，所包含的成语在后续的编码中使用统一标准。部分成语的创意表达如图2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/65522cdd3fefb8884157596755f57623edf0971d83222ace9d098b19a85708e4.jpg",
+        "img_caption": [
+            "图2成语谜语的虚拟现实创意表达示例 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（上面为“曲径通幽”，下面为“井底之蛙”）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4问卷",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "镶嵌图形测验本研究使用北京师范大学修订的镶嵌图形测验（EFT）测量被试的认知风格。要求被试在限时内找出一个隐藏在复杂图形中的简单图形，测试分为练习部分和正式测验部分，按照被试正式测验部分正确画出的简单图形个数计分，每画出一个计1分，满分为20分。得分高的学生认知风格属于场独立型，反之属于场依存型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "大五人格量表本研究使用中国大五人格问卷简式版（Chinese BigFivePersonality",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inventory brief version,CBF-PI-B）测试被试的人格特征（王孟成 等,2011)。该问卷包括 5个维度，外向性（8项； $\\scriptstyle { \\mathfrak { a } } = 0 . 8 1 3$ ）、宜人性（8项； $\\mathrm { \\Delta } \\mathrm { a } { = } 0 . 7 8 7 \\mathrm { \\Omega } .$ ，责任心（8项； $\\scriptstyle \\mathtt { a } = 0 . 7 7 9$ ）神经质（8项； $\\mathrm { \\bf q } = 0 . 7 7 6 \\mathrm { \\bf \\cdot }$ ），开放性（8项； $\\mathrm { \\Delta } \\mathrm { a } { = } 0 . 7 8 7$ ）每个项目的评分范围从1（“非常不同意\"）到5（“非常同意\")。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "威廉斯创造力倾向量表本研究使用《威廉斯创造力倾向量表》测试被试的创造力倾向。尽管这一量表是在西方文化中析出的标准，但它经过了世界范围内大量研究的支持。问卷从冒险性、好奇心、想象力、挑战性四个方面对学生的创造力倾向进行了测试。各维度之 $\\mathfrak { a }$ 系数为 $0 . 4 0 1 \\sim 0 . 7 8 0$ ，重测相关系数为 $0 . 4 8 9 \\sim 0 . 8 1 0$ （林幸台，王木荣，1999）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IPQ 问卷采用 Schubert 等人（2001）所编制的 Igroup Presence Questionnaire（IPQ)问卷，评估学生在使用浸入式虚拟现实场景时所产生的临场感。该量表为7点李克特量表，共计14个项目，量表的内部一致性信度为0.87。四个维度分别是空间临场感（Spatialpresence）、参与度（Involvement）、真实感（Realism）和总体临场感（General presence）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5实验流程",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验流程包含虚拟现实场景漫游和问卷调查两部分。被试佩戴设备进入虚拟现实实验场景后从起点开始乘船在U型河道上漂流，以尽快熟悉所在的虚拟现实场景。到达漂流终点后要求被试通过按键来沿着设置好的小径一路漫游，被试可以通过手柄与场景中的物体进行交互。被试需要至少在场景中游览15分钟，并与场景中所有可交互的物体完成交互。要求其在漫游过程中根据场景自由地进行成语概括或抽象，并尽可能多地口头报告出所观察到或联想到的成语，由主试实时将其进行记录下来。当被试确认无法报告出更多成语且已经到达陆上漫游终点时，漫游结束。被试摘下头盔休息一分钟后填写IPQ量表、镶嵌图形测验、大五人格量表和威廉斯创造力倾向量表。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6数据处理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了给予被试根据环境信息自由联想的空间，同时排除被试为了完成报告任务而机械背诵导致结果产生偏差的可能性。在收集所有被试报告出的成语后，排除错误成语及与环境信息无关的成语，其余成语录入自由创意成语库，被试报告的核心成语和自由创意成语均作为合理成语进行编码。根据前文总结出的成语整体性思维特征进一步操作化，首先选择能够体现整体环境内容和被试总体心境体验的典型整体性思维特征成语编码为“总体型成语”，这一类型的成语能够从表面含义上直接反应出整体性思维的核心特征。但在实际的编码过程中，我们发现部分成语虽然描述的是事物的细节线索，但却反映了被试对表象细节与事物内涵的联系以及对具体事物与背景环境交互作用的关注，如“点睛之笔”虽然描述的是“笔”这一具体事物形象及“画”这一具体动作，但并非简单的描述事物表象，同时也反映了“画”的行为对背景的“点睛”作用，这类成语也反映了整体性思维结构中“联系性”和“因果观”的特征。同时，还有一类成语不仅仅反映客观现实，而是体现了被试的个人经验体验，如“一叶障目”是自身感官受到环境影响的结果，针对同一环境报告“鸟语花香”比“花红柳绿”体现更多的个体评价，我们认为这也在一定程度上体现了整体性思维联系性的特征，与总体性不同，这种思维方式关注的并非事物之间，而是个人与环境的联系。为了更全面的考察成语整体性思维，我们将以上两类成语也纳入考量，分别编码为“会意型”与“主观型”，最终形成的分类编码标准见表2。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/db38265861f8a93c65b866c2eee1a082317df60726855da460656ad592df58c0.jpg",
+        "table_caption": [
+            "表2成语编码分类标准"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类</td><td>操作性定义</td></tr><tr><td>合理成语</td><td>符合环境信息或被试表现出的心理、行为特征的成语</td></tr><tr><td>总体型</td><td>体现整体环境内容和被试总体心境体验的成语</td></tr><tr><td>具体型</td><td>体现线索事物细节内容、被试具体动作和即时体验的成语</td></tr><tr><td>会形型</td><td>只是简单地描写的事物表象，并无深层含义的成语；</td></tr><tr><td rowspan=\"3\">会意型</td><td>拥有深层含义，但是在场景之中只是选择了表面的、具象的意义进行表达的成语</td></tr><tr><td>表现事物氛围的成语；</td></tr><tr><td>除了表面意义之外，还有并且被试能够在环境中体会到更深一层引申意义的成语</td></tr><tr><td>主观型</td><td>体现被试自身行为、情绪、感受、评价的成语</td></tr><tr><td>客观型</td><td>仅体现环境信息、不涉及被试主观体验的成语</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在操作性定义上，三个维度的编码彼此独立，各维度内部采用二分法。由于本研究编码需要考虑到成语在虚拟环境中的表达形式，主要由一名熟悉场景内容的评分者负责编码，另外邀请两名评分者独立编码以检验编码的合理性，表3中列举了部分成语的编码结果。最终收录的221条成语中总体型101条，局部型120条；会形成语112条，会意成语109条；主观型成语39条，客观型182条。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a3e5c0a4bd171d19c2f929d6421ed754bd91760939bdaef4b3dc9c18bd4cb00.jpg",
+        "table_caption": [
+            "表3成语编码方式示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>成语名称</td><td>总体型</td><td>局部型</td><td>会形</td><td>会意</td><td>客观型</td><td>主观型</td></tr><tr><td>生机勃勃</td><td>√</td><td></td><td></td><td>√</td><td></td><td>√</td></tr><tr><td>画蛇添足</td><td></td><td>√</td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>画地为牢</td><td></td><td>√</td><td></td><td>√</td><td>√</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/850b377e8d91e71b6a5d593801a59f2b1ef76dbc4a6bf42eb2ce0ea0956f84aa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>家徒四壁 √</td><td></td><td>√</td><td>√</td></tr><tr><td>山清水秀</td><td>√</td><td>√</td><td>√</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于被试的文化水平、掌握成语的数量不一，为避免被试成语水平对测试结果的影响，本研究采用被试各类别成语报告的比例而不是数量作为被试思维特征的指标。具体的计算方式如下：合理比例 $\\ c =$ 合理成语数量/报告成语总数，总体比例 $| = .$ 总体型成语数量/合理成语数量，会意比例 $=$ 会意成语数量/合理成语数量，主观比例 $\\ c =$ 主观成语数量/合理成语数量。其中合理比例与报告数量仅作为被试成语报告特征的指标，不作为被试整体性思维特征指标。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1描述统计与信度检验",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS18.0进行数据分析，表4列出了成语测试的描述统计结果。根据所使用的虚拟现实场景中涉及的38类典型文化要素进行情境划分，按照被试能否根据该情境报告出合理成语进行0-1计分，计算所有情景项目的Cronbach'salpha 系数为0.79，内部一致性较好，表明所使用的情境能够较为一致的诱发被试的合理成语联想。对三位评分者进行编码一致性计算，总体性维度两两之间Kappa值分别为0.65、079、0.80，会意性维度分别为0.55、0.81、0.72，主观性维度分别为0.62、0.67、0.72，一致性较高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，表4中还列出了IPQ 问卷各维度的得分情况。在虚拟现实环境的设计方面，IPQ得分可以反映被试在进入虚拟现实后的沉浸感受，均分高于3分，则虚拟现实环境较好。本研究的场景测验中空间临场感、参与度、真实感、总体临场感的均分分别为4.59、3.46、3.28、3.03。证明本研究所使用的虚拟现实环境设计良好，被试在体验虚拟漫游测试时具有较高的参与度，能够体验较高的临场感和真实感，适合用来模拟被试在真实环境中生成成语时的思维特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/55d3171b9fee08455a2541d4d6bdfc3eb6dac57b903d477dbe4c0fc4a43e00d7.jpg",
+        "table_caption": [
+            "表4描述统计（ $\\scriptstyle \\cdot { \\cal N } = 9 0$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>项目数</td><td>平均数</td><td>标准差</td><td>范围</td></tr><tr><td>成语</td><td></td><td></td><td></td><td></td></tr><tr><td>报告数</td><td></td><td>31.50</td><td>21.28</td><td>4-125</td></tr><tr><td>合理数</td><td></td><td>19.50</td><td>8.32</td><td>4-47</td></tr><tr><td>合理比例</td><td></td><td>0.70</td><td>0.18</td><td>0.21-1.00</td></tr><tr><td>总体比例</td><td></td><td>0.32</td><td>0.19</td><td>0.00-1.00</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ada1e709d1085956a9b7327e43059bee28776fdee7433386fd853370ab78031.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>会意比例</td><td>0.37</td><td>0.12</td><td>0.00-0.65</td><td></td></tr><tr><td>主观比例</td><td></td><td>0.10</td><td>0.09</td><td>0.00-0.40</td></tr><tr><td>IPQ问卷</td><td></td><td></td><td></td><td></td></tr><tr><td>空间临场感</td><td>5</td><td>4.59</td><td>1.35</td><td>1.80-6.60</td></tr><tr><td>参与度</td><td>4</td><td>3.46</td><td>1.08</td><td>1.25-6.00</td></tr><tr><td>真实感</td><td>4</td><td>3.28</td><td>0.84</td><td>1.25-5.25</td></tr><tr><td>总体临场</td><td>1</td><td>3.03</td><td>1.94</td><td>0.00-6.00</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2整体性思维特征指标的相关",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对成语汇报数量及各个类型成语的汇报比例进行相关分析，结果如表5所示。除合理比例以外，其他各变量与报告数的相关均不显著，证明使用报告成语种类的比例能够较好的排除被试的成语水平对测量结果的影响。同时，根据变量之间的相关可以将被试大致分为两类：关注环境整体、事物内涵和自身体验的被试，报告的合理比例较低；关注具体细节、外在线索和描述性信息的被试，报告成语的合理比例较高。这一分类也符合前人研究及生活经验中整体性思维和非整体性思维人群的特征。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/429825f99f6ecd5e36cc6b8640a7d515cc7f6a1d3aefa3ce4c1f4e9a8ba11e13.jpg",
+        "table_caption": [
+            "表5报告倾向与整体性思维特征的相关"
+        ],
+        "table_footnote": [
+            "注：\\*\\*为p $\\cdot < 0 . 0 1$ ， $\\ast \\varkappa \\varkappa p < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>报告数</td><td>合理比例</td><td>总体比例</td><td>会意比例</td><td>主观比例</td></tr><tr><td>报告数</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合理比例</td><td>-0.65**</td><td></td><td></td><td></td><td></td></tr><tr><td>总体比例</td><td>0.08</td><td>-0.39**</td><td></td><td></td><td></td></tr><tr><td>会意比例</td><td>0.14</td><td>-0.27**</td><td>0.26*</td><td></td><td></td></tr><tr><td>主观比例</td><td>0.05</td><td>-0.34**</td><td>0.62**</td><td>0.53**</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3校标效度",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.1镶嵌图形 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "将镶嵌图形测试分数作为校标，结果表明：镶嵌图形测验总分与被试报告成语总体比例负相关显著（ $\\dot { \\mathbf { \\zeta } } r = - 0 . 2 7 , p = 0 . 0 0 9 \\$ ，与报告数、合理比例、会意比例和主观比例的相关均不显著，相关系数分别为0.09，0.03，-0.12 和-0.07。这符合我们的预测，报告总体比例高的被试，注重与环境联系，知觉受背景变换影响较大，不容易聚焦于事物细节，偏向于场依存的认知风格。镶嵌图形测试分数与会意比例和主观比例相关不显著，是由于是否受外来因素干扰的认知方式与注重现象与内涵的联系以及主观体验没有必然的联系，反映了三个指标所测量的思维特征之间具有良好的区分。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.2大五人格",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "除镶嵌图形测验外，被试还完成了中国大五人格问卷简式版，整体性思维特征与大五人格的相关见表6。可以看出，主观比例与神经质负相关显著，表明更多关注自我表现而非外在信息的人更加淡定、平静。这符合我们的假设，坚定自我的人，对外部信息不敏感，不易受到他人看法、评价等外部信息的影响，神经质水平较低；宜人性与会意比例负相关显著，这也符合我们对人的理解，宜人性高的人更加直率、坦诚，因此对信息的理解较为直观，更多的相信事物的表面信息，反之较少的探究和领会深层含义；开放性和总体比例负相关显著，开放性高的群体对陌生的环境和体验更感兴趣，乐于探索、富于想象，这可能体现在他们关注事物具体细节的变化，而不是直接将其视为一个笼统的整体。这些效度指标都证明了整体性思维特征测量具有一定的聚合效度。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "除此之外，总体比例与神经质、严谨性、宜人性，会意比例与严谨性、外向性，主观比例与严谨性、宜人性等没有必然联系的变量间相关不显著，也进一步证明了整体性思维特征测量具有一定的区分效度。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c643a653f5fb3d5d1c894fe5fa42ac9ab8bbe0b4476f491df7cc403e66cf073.jpg",
+        "table_caption": [
+            "表6整体性思维特征与大五人格的相关"
+        ],
+        "table_footnote": [
+            "注：\\*\\*为 $p < 0 . 0 1$ ，\\*为 $p < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>报告数</td><td>合理比例</td><td>总体比例</td><td>会意比例</td><td>主观比例</td><td>神经质</td><td>严谨性</td><td>宜人性</td><td>开放性</td><td>外向性</td></tr><tr><td>报告数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合理比例</td><td>-0.65**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总体比例</td><td>0.08</td><td>-0.39**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>会意比例</td><td>0.14</td><td>-0.27**</td><td>0.26*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主观比例</td><td>0.05</td><td>-0.34**</td><td>0.62**</td><td>0.53**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>神经质</td><td>-0.15</td><td>0.12</td><td>-0.09</td><td>0.06</td><td>-0.22*</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>严谨性</td><td>0.12</td><td>-0.05</td><td>0.00</td><td>-0.09</td><td>-0.03</td><td>-0.14</td><td></td><td></td><td></td><td></td></tr><tr><td>宜人性</td><td>0.06</td><td>-0.03</td><td>0.02</td><td>-0.26*</td><td>-0.01</td><td>-0.35**</td><td>0.15</td><td></td><td></td><td></td></tr><tr><td>开放性</td><td>0.08</td><td>0.09</td><td>-0.23*</td><td>-0.08</td><td>-0.05</td><td>-0.23*</td><td>0.10</td><td>0.22*</td><td></td><td></td></tr><tr><td>外向性</td><td>0.18</td><td>-0.17</td><td>0.04</td><td>-0.04</td><td>0.13</td><td>-0.32**</td><td>0.02</td><td>0.32**</td><td>0.51**</td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4测试的应用检验：以与创造力倾向的关系为例",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在上文中，我们已经验证了整体性思维与场依存认知风格的联系，接下来将根据研究假设进一步探索整体性思维与创造力倾向的关系。首先对整体性思维特征与创造力倾向进行相关分析，结果见表7。好奇性与总体比例正相关显著，这符合我们的假设，关注环境整体、不注重事物细节的人好奇性低，不擅长把握特殊现象（场景中存在着与环境背景有一定冲突的具体信息，例如园林环境中的士兵等，总体比例高意味着对这部分信息相关的成语报告少)。同时，好奇性与合理比例显著正相关，与报告数显著负相关，可能是由于好奇心较强的群体对当前环境更有探索欲，更多的关注到了当前场景中提供的信息，报告出的成语更符合当前体验。而好奇心低的群体，更可能专注于汇报成语的数量，较少关注环境。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/231913a1832ed8db07f354d1182c54cf93194ec3273d7912ec29a7fe7e5c1d03.jpg",
+        "table_caption": [
+            "表7整体性思维特征与创造力倾向的相关"
+        ],
+        "table_footnote": [
+            "注：\\*\\*为p $< 0 . 0 1$ ，\\*为 $) < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>报告数</td><td>合理比例</td><td>总体比例</td><td>会意比例</td><td>主观比例</td><td>冒险性</td><td>好奇性</td><td>想象力</td><td>挑战性</td></tr><tr><td>报告数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合理比例</td><td>-0.65**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总体比例</td><td>0.08</td><td>-0.39**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>会意比例</td><td>0.14</td><td>-0.27**</td><td>0.26*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>主观比例</td><td>0.05</td><td>-0.34**</td><td>0.62**</td><td>0.53**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>冒险性</td><td>-0.16</td><td>0.08</td><td>-0.14</td><td>-0.09</td><td>-0.01</td><td></td><td></td><td></td><td></td></tr><tr><td>好奇性</td><td>-0.23*</td><td>0.36**</td><td>-0.28**</td><td>-0.06</td><td>-0.17</td><td>0.48**</td><td></td><td></td><td></td></tr><tr><td>想象力</td><td>0.04</td><td>-0.01</td><td>-0.16</td><td>0.05</td><td>-0.04</td><td>0.49**</td><td>0.46**</td><td></td><td></td></tr><tr><td>挑战性</td><td>-0.05</td><td>0.08</td><td>-0.06</td><td>-0.05</td><td>-0.01</td><td>0.43**</td><td>0.54**</td><td>0.52**</td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "为了进一步考察好奇性与被试整体性思维之间的关系，使用与好奇性显著相关的合理比例和总体比例两个指标标准化后进行K均值聚类分析。根据前期的数据分析可以看出被试大致可以分为整体性高和整体性低两个类型，因此拟定聚类数为2。迭代8次达到收敛，成功将被试分为两类：第一类被试40人，合理比例Z分数的聚类中心为0.86，总体比例Z分数的聚类中心为-0.65；第二类被试50人，合理比例Z分数的聚类中心为-0.69，总体比例 Z分数的聚类中心为0.52。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "按照聚类分类对两类被试的报告进行独立样本T检验，结果如表8所示，可以看出两类被试的成语报告数、合理比例、总体比例、会意比例与主观比例的差异均显著，且除会意比例效应量中等外，其余各变量效应量均较大。表明这种分类方式能够较好的区分出具有不同整体性思维水平的被试。根据两类被试报告指标的均值也可以进一步看出，这两类被试总体思维特征符合我们的假设。1类被试汇报的总体比例、会意比例及主观比例都高于2类被试，可以概括为是整体性思维强的被试，他们汇报的合理比例较低，但是汇报数较多。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/2def36f3afe1a12b544e5a04e1d0f7b27787c00c210998b96f7a0806f380d63a.jpg",
+        "table_caption": [
+            "表8两类被试成语报告的差异检验比较"
+        ],
+        "table_footnote": [
+            "注：\\*\\*为p $\\cdot < 0 . 0 1$ ，\\*为p<0.05 "
+        ],
+        "table_body": "<html><body><table><tr><td>报告指标</td><td>被试类被号</td><td>M±SD</td><td>t</td><td>Cohen'sd</td></tr><tr><td>报告数</td><td>1</td><td>21.15±6.16</td><td>-5.04**</td><td>1.02</td></tr><tr><td rowspan=\"3\">合理比例</td><td>2</td><td>39.78±25.20</td><td></td><td></td></tr><tr><td>1</td><td>0.85±0.09</td><td>11.41**</td><td>2.50</td></tr><tr><td>2</td><td>0.57±0.13</td><td></td><td></td></tr><tr><td rowspan=\"2\">总体比例</td><td>1</td><td>0.19±0.13</td><td>-6.80**</td><td>1.47</td></tr><tr><td>2</td><td>0.42±0.18</td><td></td><td></td></tr><tr><td rowspan=\"2\">会意比例</td><td>1</td><td>0.34±0.11</td><td>-2.49**</td><td>0.52</td></tr><tr><td>2</td><td>0.40±0.12</td><td></td><td></td></tr><tr><td rowspan=\"2\">主观比例</td><td>1</td><td>0.05±0.06</td><td>-5.03**</td><td>1.04</td></tr><tr><td>2</td><td>0.13±0.09</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "进一步对两类被试的好奇性进行独立样本T 检验，结果表明两组之间差异显著，且效应量较大 $( t ( 8 8 ) = 3 . 4 6 , p = 0 . 0 0 1 , d = 0 . 7 4 )$ 。整体性思维强的被试好奇性( $\\mathrm { \\bf M } = 3 0 . 3 4$ $\\mathrm { S D } = 3 . 6 1$ ）显著低于整体性思维弱 $\\mathbf { \\mathrm { M } } = 3 2 . 8 5$ ， $\\mathrm { S D } = 3 . 1 7 _ { . }$ )的被试，符合我们的假设。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要目的是探索和检验在虚拟现实创设的文化环境中根据被试自由报告成语的方式测量中国人整体性思维的方法，并在此基础上初步验证典型文化情境下整体性思维与创造力倾向的关系。研究结果表明这一方法具有良好的信度和效度，同时也从实证角度验证了中国式思维特征中整体性思维方式对好奇性具有抑制作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "中国人独特的思维方式是从中华民族的历史传统和文化模式中发展出来的，离开了这种文化情境思维特征就无从探讨。本研究使用虚拟现实技术模拟山水园林环境作为测试场景、以成语谜语作为测验材料的思维特征测试系统，内容类似于中国古人猜灯谜的传统活动。所使用场景的 IPQ 量表得分表明虚拟现实环境设计良好。为了使测试结果更符合被试在环境中自由联想时的思维特征，成语库中除了研究者事先选定的成语外，也收录了被试报告的所有“合理”成语。在成语编码与指标选择方面，考虑到受被试成语水平的影响可能造成偏差，本研究使用被试报告的总体型、会意型及主观型成语的比例而不是数量作为整体性思维的测量指标。在后续的数据分析中，这三个变量与报告数的相关均不显著，也证明了这种方式较好的排除了被试报告数量的影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本评估方法信效度表现良好，所使用的典型情境诱发合理成语报告得分的内部一致性系数达0.79，各维度评分者两两之间一致性均大于0.55。总体比例、会意比例及主观比例三个变量之间正相关显著，且均与合理比例负相关显著，同时合理比例与报告数负相关显著。表明整体性思维强的被试，报告的数量较多，但合理性较低；整体性思维弱的被试报告数量较少，但合理性较高。这一结果符合我们的假设，为整体性思维特征不同的人提供了初步的行为画像。在校标效度检验中，使用了镶嵌图形测验，结果表明被试报告成语的总体比例与镶嵌图形总分显著负相关，符合前人进行棒框实验中关于中国人整体型认知取向的推论（Jietal.,2000)。在整体性思维与人格的相关方面，主观比例与神经质、宜人性与会意比例、开放性和总体比例的负相关显著，同时总体比例与神经质、严谨性、宜人性，会意比例与严谨性、外向性，主观比例与严谨性、宜人性等变量间相关不显著，这都符合我们的理论假设及对人的理解，证明了本测试系统具有良好的区分效度和聚合效度。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "整体性思维在一定程度上影响创造力中的好奇性，结果表明被试成语报告的总体比例与好奇性存在显著负相关。这可能是由于总体性的关注点会减少个体对事物内在结构的关注度，这种倾向于以宏观眼光看待问题的方式可能导致个体更少接触到具体信息中的新奇刺激，进而抑制了好奇心的产生（Düzel etal.,2010)。此外，好奇的信息缺口理论（information-gap theory）表明，好奇的产生是由于个体当前的知识与想要获得的知识存在差距(Loewenstein,1994)。整体性思维可能在一定程度上抑制了对细节性知识的渴望，因此主观层面难以意识到自己在具体知识的理解上存在着信息缺口（李天然，俞国良,2015)。同时值得注意的是，好奇性与合理比例具有显著正相关，可能是由于好奇心较强的群体更有探索欲，更能关注到场景中提供的信息。使用总体比例与合理比例进行K均值聚类分析可以将被试分为两类，两类被试间成语报告数、合理比例、总体比例、会意比例与主观比例的差异均显著，表明该方法能够有效区分被试的整体思维特征和报告行为表现，可以概括为整体性思维强和整体性思维弱两类，这两类被试的好奇性差异显著。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究的理论贡献和应用价值主要体现在：一、探索了结合虚拟现实技术使用具有文化特异性的材料进行思维测试的可能性，这种经过设计还原的文化情境比量表测试更具有文化意境，能够更好的模拟被试在传统文化情境下的思维特征，为进一步研究中华文化坏境中典型中国人的心理和行为提供了新的可能。二、探索出的成语谜语测试系统，具有较好的生态学效度，测试内容隐蔽，被试很难根据实验任务猜测所要测量的变量，同时也省去了在现实中塑造传统文化环境的困难，具有良好的可重复性、可扩展性以及可获得性，应用难度低。三、进一步验证了整体性思维、合理性及好奇性存在着相关关系，整体性思维可能在某种程度上对于好奇性具有抑制作用，为研究中国人思维特征与创造性之间的关系提供了新的证",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "据。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "但同时作为一项创新的探索性研究，仍存在着很多不足之处。首先，目前中国人整体性思维的具体结构还缺少确定的研究结论。首先，本研究中整体性思维指标的选择是依据前人思维特征相关量表结构(Choi et al.,2007；侯玉波 等,2016)，选取与整体性思维关键特征相一致的关键维度，并在实际编码过程中结合被试报告的成语内容进行分析确定的。其中“总体性”维度在正式编码前由前人研究中整体性思维结构特征总结而成，能够较为直接的反映整体性思维的核心特征，而“会意性”与“主观性”则是在编码过程中进一步分析报告成语的内涵与整体性思维的联系所确定的，这种选择使得指标更能体现文化特性，也更完整的包含了成语可能体现的整体性思维特征，但相对来说理论严谨性较弱。后续的研究结果也证明了相对于会意性和主观性，总体性指标与其他变量的相关更为稳定，进一步表明了总体性可能是成语整体性思维评估的核心指标。但同时会意性、主观性与总体性之间及二者与部分人格变量之间的也存在显著相关结果，考虑到实际报告成语内容的分析中相对于总体性更多的体现整体性思维“关注点”这一表面特征，会意性与主观性更可能反应“联系性”这个整体性思维的另一关键特征，本研究对其进行保留。随着日后相关理论研究中思维特征结构模型的明晰，这些指标有待进一步调整。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "第二，本研究的结果仍不足以确定各关键变量间的具体结构关系。本研究中对于整体性思维与创造力倾向关系的假设是基于场依存认知方式与中国人整体性思维的关联（Ji et al,2000）及场依存与创造力的负相关关系（李寿欣，李涛,2000；武欣，张厚粲,1997）推导而来。研究结果虽然一定程度上验证了这种抑制作用存在，但对于定论二者之间的关系仍缺乏关键证据。同时也没有进一步探究合理性在整体性思维与好奇性的关系中如何发挥作用，我们认为报告的合理性可能体现了对环境信息的感知、理解和整合的程度，可能是由于整体性思维抑制了好奇性从而降低了报告的合理性，这种可能仍有待进一步的研究进行论证。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "第三，本研究选取的测评工具存在一定的片面性。在创造力的测量方面，本研究选用的《威廉斯创造力倾向量表》仅测量创造力倾向，而除此之外整体性思维也可能影响创造力的变通性、流畅性等其他相关方面，这些创造力指标仍有待丰富。此外如果强调中国文化与西方文化在创造力维度上是不同的，那么西方发展的测量工具在测量中国文化中的创造力上可能尚显不足，难以全面地显示不同文化背景的个体在不同情景中的创造力水平（刘晓陵 等，2016）。在校标测量方面，考虑到本研究是评估特定文化情境下被试表现出的整体性思维特征，而非对整体性思维方式的认同，选择了同样基于特定的视觉环境刺激、基于图形意象来评估人思维特征的镶嵌图形测验。但这一指标略显单薄，在研究过程中我们也受到启发，在后续的研究中，可以考虑将以往中西方思维方式差异研究中使用的归因模式、解决其他思维问题的表现等作为进一步的校标补充。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "总体来说，本研究基于提升中国人思维特征评估生态学效度的要求，探索了利用虚拟现实技术实现在特定文化意境坏境中测量思维特征的可能，除了整体性思维之外这种情境评估方法也可能应用于辩证性思维、创造性思维等更多文化心理学领域所关注的具有文化特异性的思维特征测验。但我们的工作仅仅只是一个开始，要将其作为一个全面的中国人思维特征评估工具仍需在接下来的研究中对上述问题进行进一步的探索和补充。我们希望，这种情境评估方法能够在进一步的中国人思维特征研究的理论和实践应用中不断发展和完善。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Arlin,P.K.(97)oadtailoelfgielonthteaiolulingdaeot) 247-253. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Arlin,P.K.,&vit,L.(1998).AevelopmentalprspectiveonifednsCreaivityesearchJoual,1(4)45.  \nBenack,S.,Basseches,M.,&Swan,T.(1989).DialecticalTinkingandAdultCreativity.HandbookofCreativity199-208  \nChiu,C.Y.).Aetfooicig:elarfroaHggoflSciences,18,33-55.  \n[赵志裕（2000）.中庸思维的测量：一项跨地区研究的初步结果，香港社会科学学报，18，33-54]  \ni,I691-705.  \nDuan,JY.,&ing,1).edigeoudyfosrutofploViceeiordhceofogotPsychologica Sinica,43(10),1185-1197.  \n[段锦云，凌斌.(2011).中国背景下员工建言行为结构及中庸思维对其的影响．心理学报,43(10)，1185- 1197]  \nDzel,EImplications for healthy aging.Neuroscienceand Biobehavioral Reviews,34,660-669.  \nHongY,Chiung.9.geutirottsflgciatiialoinAsianSocialsychology,,46  \nHou,Y.B.,ngKP,uY.).toedurelci  \n[侯玉波，彭凯平，朱滢．(2016)．中国人整体思维方式量表的编制与确认．中国社会心理学评论，02，45－72]  \nHou,YB.,&Zu,Y.(2).TheEectofCultureonkingStyleofesePeople.ActaPsychologicainica,34(),.  \n[侯玉波，朱滢．(2002)．文化对中国人思维方式的影响．心理学报，34(1)，106-111.]  \nJiLJPsychology，78(5),943-955  \nLiS.X&olof Psychological Science,23(1),119-120.  \n[李寿欣，李涛．(2000)．大学生认知方式与人际交往及创造力之间关系的研究．心理科学，23(1)，119-120.]  \nLi,T.R.,&GL.)resiouCocetctdeoteoluritdacsiniclScience,23(1),132-141.  \n[李天然，俞国良．(2015)．人类为什么会好奇?人际好奇的概念、功能及理论解释．心理科学进展，23(1)，132-141.]  \nLin,X.T.,&Wang,M.R.(1999).Williams creativity test.Taipei,China: Psychological Publishing  \n[林幸台，王木荣． (1999)．威廉斯创造力测验．台北：心理出版社]  \nLiuX.L.13(3). 51-58.  \n[刘晓陵，刘路，邱燕霞，金瑜，周隽．(2016)．威廉斯创造力测验的信效度检验．基础教育，13(3)．51-58.]  \nLoewenstein,G.(1994).Thepsychologyofcuriosity:Areviewandreinterpretation.PsychologicalBulltin,I6(1),75-98.  \nLu,T.P.(2oo8).The Cultural Characteristics of Chinese Idioms.Overseas Chinese Education,4,16-23.  \n[卢铁澎．(2008)．汉语成语的文化特性．海外华文教育，04，16- 23.]  \nLu,Z.Y&ag,Y).etofolgicaloohWingoryieseeadgpresioActaicSinica,05,768-776.]  \n[鲁忠义，张亚静．(2007)．工作记忆中的语音回路对汉语阅读理解的影响．心理学报，05，768－776.]  \nMois,M.W.&gKP99).lrededtodtlofSocialPsychology,67,947-971  \nNipold,Attlanguage,and hearing research: JSHLR,46(4),788-799.  \nNisbettR.E.(2o4).Thegeographyofthought:HowAsiansandwesterners thinkdiferently..andwhy.NewYork:FreePress.  \nPaletzS.B.FK.)bdsaliand creativity.Creativity Research Journal,21(2-3),139-151.  \nPeng,K.P.,uC,a)allottis19(7)，933-943.  \n[彭凯平，刘钰，曹春梅，张伟．(2011)．虚拟社会心理学：现实，探索及意义．心理科学进展，19(7)，933-943.]  \nPeng,K.P.,&betR.E.9).ltu,alectidsongbttractioAmeicaolist,54),4.  \nRothenberg,A.(1996).The JanusianProcess inScientificCreativity.CreativityResearch Journal,9(2-3),207-231.  \nSchubert,T.ehtefcectolthctodEnvironments,10(3),266-281.  \nSpencerRodgeg,K.gL)leialtedtstieioicaPersonalityand SocialPsychology Bulletin,30(11),1416-1432.  \nSu,D.Q.,Zhong,Y,ZngH,&Ye,HS.(3).EmbodiedSemanticrocessingofineseActioioms:EvidencefrofudyctaPsychologica Sinica,45(11),1187-1199.  \n[苏得权，钟元，曾红，叶浩生。(2013)．汉语动作成语语义理解激活脑区及其具身效应：来自 fMRI的证据．心理学报，45(11)，1187-1199.]  \nTan,H.Y,&Liu,M.(o).TheEfectsofImageryontheemoryofChineseIdioms.JounalofsychologicalSience,()，-24.  \n[谭华玉，刘鸣．(2009)．表象对成语记忆影响的实验研究．心理科学， $\\boldsymbol { \\mathscr { s } } \\boldsymbol { \\mathscr { Z } } ( 1 )$ ，21-24.]  \nWang,M.C..)eloteeealieCBF-PI Brief Version.Chinese Journal of Clinical Psychology,19(4),454-457.  \n[王孟成，戴晓阳，姚树桥．(2011)．中国大五人格问卷的初步编制ⅢII：简式版的制定及信效度检验．中国临床心理学杂志，19(4)，454 - 457. ]  \nWu,X.,&Zag,H.C.(99).eveloeofeaivitachJoaofgalUivesity(oalic).  \n[武欣，张厚粲．（1997)．创造力研究的新进展．北京师范大学学报：社会科学版，139(1)，13－18.]  \nYang,W.J.,Zag,HJ&ZouYJ.(3).Thectsofuesoeta-iionitorofagaSolvng.siclExploration,33(1),28-33.  \n[杨文娇，张和云，李瑞菊，周治金．(2013)．线索对谜语问题解决过程中元认知监测过程的影响．心理学探新，33(1)，28-33.]  \nYe,H.S.(2011).EmbodiedCognition:AConsiderationfromTheoreticalPsychology.ActaPsychologicainica,43(5),589-598.  \n[叶浩生．(2011)．有关具身认知思潮的理论心理学思考．心理学报，43(5)，589-598.]  \nYuan,X.J.CoKag,)abased visual search task,Acta Psychologica Sinica,50(6),622-636.  \n[袁小钧，崔晓霞，曹正操，阐红，王晓，汪亚珉．(2018)．虚拟仿真场景中威胁性视觉刺激搜索的注意偏向效应，心理学报，50(6)，622 - 636.]  \nZhu,X.C.,Li,J&Zou,Y.J.(9).eRoleofCuesinhineseIdiomRiddleSolvingActaPsychologicSinica4(5),97405  \n[朱新秤，李瑞菊，周治金．(2009)．谜语问题解决中线索的作用．心理学报，41(5)，397-405.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Situational Evaluation Method of the Chinese People's Holistic Thinking Characteristics and Their Application ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "KE Xiaoxiao1 QI Huizi1 LIANGJiahui1 JIN Xinyuan1 GAOJie1 ZHANGMingxia² WANG Yamin1 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "（Beijing KeyLaboratoryof\"Learning &Cognition”,SchoolofPsychology,CapitalNormal UniversityBeijing100048, China)）（² CAS KeyLaboratory ofBehavioral Science,Institute of Psychology, Beijing l00101, China） ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The Chinese method of thinking includes dialectical and holistic thinking.Holistic thinking refers to people's tendency to think in a holistic manner and focus on the relationship between things, which has no effective measurement method at present. Numerous studies have speculated on the relationship between Chinese thinking and creativity,but no known empirical research has focused on exploring their relationship.An uncertain aspect is whether and how Chinese thinking styles make an impact on creativity. The present study developed a situation assessment test to measure holistic thinking and explored its relationship with creative tendency.We hypothesize that (1) holistic thinking may be (1) correlated with field-dependence cognitive style and (2) may prohibit creative tendency. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "To verify the preceding hypothesis, idiom stories with typical Chinese thinking styles are first selected. Thereafter, an idiom riddle cultural park with transformation of form and meaning, situation, and context was constructed using virtual reality technology. By recording and coding idioms reported by participants when they visited the park,their level of holistic thinking could be measured.Lastly, cognitive style was evaluated using embedded figure test, personality traits were evaluated using the Chinese Big Five Personality Inventory brief version,and creativity tendency was evaluated by utilizing the Wiliams Prefer Measurement Forms. SPSS 18.O was used for statistical analyses. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Reliability and validity research has shown that the coeficient of homogeneity is high. Results showed that under an experimental condition， holistic thinking was significantly positively correlated with field-dependence cognitive style,， the proportion of subjective words was significantly negatively correlated with neuroticism, the proportion of words with deep meaning was significantly negatively correlated with agreeableness,and the proportion of words that focus on the overall effect was significantly negatively correlated with openness. These results proved that the developed test has good calibration validity. Cluster analysis indicated two types of participants: (1） people with strong holistic thinking (i.e.，report words with deep meaning, considerably self-involved，and focus on overall effect） will report numerous words and are considerably unreasonable,and (2) people with weak holistic thinking (i.e., report words with plain meaning，minimally self-involved，and focus on details） will report a few words and are substantially reasonable. The independent sample T-test on the creativity tendency of the two types of participants showed that the curiosity of people with strong holistic thinking was significantly higher than that of people with weak holistic thinking. Moreover, no significant difference was observed in other aspects of creativity tendency. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Results support our hypothesis.The situation assessment test we developed has good reliability and validity and a useful method to measure Chinese holistic thinking. Compared with previous test methods,the current test has better ecological validity,can measure Chinese thinking in the natural cultural mood,and provide reference for other cultural tests. The current study can also contribute to an improved understanding of Chinese thinking styles and creativity tendency. This research is the first to realize the relationship between the two concepts in a virtual reality environment.Lastly, this method provides new ideas for a follow-up research on thinking and creativity. Keywords: idiom, holistic thinking, creativity, virtual reality, ecological validity ",
+        "page_idx": 21
+    }
+]

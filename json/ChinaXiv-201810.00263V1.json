@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "基于cDNA-AFLP分析桂花开花进程中差异表达基因",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾祥玲¹²，章晓琴2,3，邹晶晶¹²，王彩云\\*（1．湖北科技学院 核技术与化学生物学院，湖北 咸宁 437100；2．华中农业大学 园艺植物生物学教育部重点实验室，武汉 430070；3．武汉市园林科学研究院，武汉 430081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：桂花是我国重要的传统名花香花植物。花色与花香是桂花两个重要的观赏品质，受开花进程的影响。目前已有关于其色、香物质成分及相关合成基因的研究报道，但有关开花进程中色与香的合成过程及相关分子基础研究鲜有报道。该研究利用不同花期的桂花花瓣和幼叶建立了适用于多个样本的cDNA-AFLP体系，并分析开花进程中基因的表达差异，获得283 个在花瓣中特异且差异表达的转录衍生片段(transcript-derived fragments,TDFs)。其中,120个TDFs 在数据库中无同源序列；12个有同源序列，但功能未知；150个已知生物学功能的序列，其主要功能包括次级代谢、初级代谢和发育过程等。对其中已知功能的6个TDFs进行qRT-PCR 验证，4个转录水平较高的TDFs表达模式与AFLP分析结果基本一致。该研究结果对了解开花进程中桂花色与香的合成过程相关基因的表达奠定了基础，也为进一步研究桂花色香形成的分子机制提供了参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：桂花，cDNA-AFLP，转录衍生片段，花色，花香中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "cDNA-AFLP analysis of differentially expressed genes during flowering in Osmanthus fragrans ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZENG Xiangling1,2, ZHANG Xiaoqin2,3, ZOU Jingjing1,2, WANG Caiyun² 2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. School of Nuclear Technology and Chemistry & Biology,Hubei University of Science and Technology,   \nXianning 4371o0,Hubei,China; 2.Key Laboratory for Biologyof Horticultural Plants,MinistryofEducation,   \nHuazhong Agricultural University, Wuhan 43oo7o,China; 3. Wuhan instituteof LandscapeArchitecture,Wuhan 430081, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Osmanthus fragrans is an important traditional fragrant flower in China.Floral color and scent as the important ornamental characters are influenced by flowering process. Reports on the components of floral color and scent and related synthetic genes have been reported. However, studies on the synthesis and molecular basis of floral color and scent during flowering process are rarely reported.The study established a cDNA-AFLP system suitable for multiple samples and analyzed genes differential expression at different flowering stages. Finally，283 TDFs with specific expression in petals and differential expression during flowering were successfully cloned and sequenced. Public databases blast showed that 12O TDFs had no homologous sequences,12 TDFs had homologous sequences but their functions were unknown,and 150 TDFs had known biological functions, including secondary metabolism， primary metabolism and development process,ect. qRT-PCR results of 6 TDFs with known functions comparing with cDNA-AFLP displayed that 4 TDFs with higher transcriptional level had consistent expression level. These results would be helpful to understand the gene expression of petals during flowering processes, and provide useful information for exploiting the mechanism of the floral color and scent formation of $O$ fragrans from molecular level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Osmanthus fragrans, cDNA-AFLP, transcript-derived fragments, floral color, floral scent ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "桂花（Osmanthusfragrans）是我国的十大传统名花之一，作为重要的香花植物被广泛应用于园林绿化、食品加工、精油及天然色素提取等领域（向其柏和刘玉莲，2008；杨康民，2012）。前人报道了桂花花香成分主要是萜类、酯类、醇类、酮类和醛类等（Xin etal,2013;Cai etal,2014），花色成分主要是类胡萝卜素和黄酮类化合物（蔡璇 等，2010；侯丹，2014;Han et al,2014）。与花香和花色合成相关的基因也逐渐被挖掘，如CCDs、TPSs等（Huanget al,2009；Baldermann et al,2010；曾祥玲等，2016）。花瓣是花香和花色物质合成的主要组织部位，而且在不同发育时期花瓣中，花香和花色物质的合成速率不同（Dudareva et al,2013；Tanakaetal,2008）。在桂花中，花香与花色的物质合成随着花朵的开放显著增加，盛花期之后又逐渐下降（Zeng etal,2015；曾祥玲等，2016；邹晶晶等，2017）。目前，有关开花进程中桂花色与香的合成过程及相关分子基础的研究报道却很少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，由于桂花目前无基因组报道，开花过程的转录组研究也无参考，因此限制了开花进程中桂花色香形成分子基础研究的进一步深入。cDNA-AFLP 技术是由 Bachem et al（1996）将扩增片段长度多态性(amplified fragment length polymorphism,AFLP)技术应用于mRNA表达差异分析的一种mRNA指纹图谱技术。该技术的优点是成本较低、无需预知序列信息、多态性丰富、稳定性高、可对生物体转录组进行全面系统的分析，目前在海棠、文心兰、菊花等观赏植物的基因差异表达研究中已成功运用（李志红等，2008；龚茂江等，2011;Huang etal,2012）。张园（2009）和Han etal（2015）利用cDNA-AFLP分别比较了‘银桂'铃梗期和盛花初期、盛花期'银桂'和'丹桂'花瓣的基因表达差异，分别获得 50 和102个差异表达的基因片段（transcript-derived fragments，TDFs）。冷春旭等（2007）以不同发育时期的愈伤组织为材料，利用cDNA-AFLP对陆地棉体细胞胚胎发生过程中的基因差异表达进行了分析，找到了与胚胎发育有关为胚性愈伤所特有的差异条带，这表明cDNA-AFLP能将多个样品同时进行比较分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本研究通过mRNA分离、限制性内切酶和选择性扩增引物组合的筛选，建立了桂花中多个样本的cDNA-AFLP体系；并利用该体系同步分析‘柳叶金桂'叶片以及6个不同开花时间花瓣的转录组，从中获得花瓣中特异表达且各花期差异表达的转录衍生片段(transcript-derived fragments,TDFs)。从而挖掘开花进程中影响桂花色香形成的相关基因，为进一步揭示桂花色香形成的分子机理提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验所用植物材料为华中农业大学校园苗圃内光照均匀且无病虫害的健康植株桂花品种‘柳叶金桂’（O.fragrans‘Liuye jingui'），其花瓣发育时期参考 Zou et al（2014）的划分，花瓣发育时期对应的具体取样时间如图1所示：（1）铃梗期：花朵未展开，花瓣呈紧闭的花苞状（time=0d）；（2）初花期：花朵半开放，花瓣微张（time=2d）；（3）盛花期：花朵完全展开，直径到达最大，且无褐色斑点（time=4d和6d）；（4）盛花末期：花瓣出现褐色斑点，且出现一定程度脱落（time=8d）。幼叶于5月采取；花瓣于当年10月份采取，自铃梗期开始，每隔2d取样一次，除初花期（time $_ { : = 2 }$ d）分别于上午10:00 和下午$5 { : } 0 0 \\ \\mathrm { p m }$ 进行两次取样外，其余取样时期均统一为上午10:00 左右。对取样材料称重后立即置于液氮中速冻，尽快转移至 $- 8 0 ~ ^ { \\circ } \\mathrm { C }$ 冰箱保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：1.铃梗期（time $_ { \\mathrm { = 0 ~ d } }$ ）；2.初花期（time ${ \\boldsymbol { \\mathbf { \\mathit { \\sigma } } } } = 2 { \\mathrm { ~ d ~ } }$ ）；3.盛花期（time $\\mathtt { \\Omega } = 4 \\mathrm { ~ d ~ }$ ）；4.盛花期（time $_ { = 6 \\mathrm { ~ d ~ } }$ ）；5.盛花末期（time $\\scriptstyle = 8 \\mathrm { ~ d ~ }$ ）；CK.幼叶。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a586f213c63a682bcc861ac2425b1182eb44954f06cb61f046d57b55377cb18.jpg",
+        "img_caption": [
+            "图1桂花花朵及幼叶的发育状态及取样时间"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note: 1. Tight bud stage (time $= 0 \\mathrm { ~ d ~ }$ ); 2.Initial flowering stage (time ${ \\tt = } 2 \\mathrm { ~ d ~ }$ ); 3.Full flowering stage (time $\\scriptstyle = 4 \\ d$ ); 4. Full flowering stage (time $_ { \\mathrm { = 6 d } }$ ); 5.Late full floweringstage (time ${ \\tt \\simeq } 8 { \\mathrm { ~ d ~ } }$ ); CK. Young leaves. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Developmental state of flowers and young leaves and the sampling time of Osmanthus fragrans ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1RNA提取及cDNA合成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取适量花瓣或叶片样品用液氮进行研磨,参考Trizol试剂盒方法(CoWin Biotech Co.,Ltd,Beijing.China）提取样品总RNA。RNA的完整性和浓度分别利用 $1 . 0 \\%$ 琼脂糖凝胶电泳和NanoDrop 2000 (Thermo 公司)微量分光光度计进行检测。采用 OligotexTM-dT30<Super>mRNA 纯化试剂盒（Takara 公司）进行mRNA分离。之后，参考RevertAidTM Premium FirstStrandcDNASynthesisKit（Fermentas公司）说明书合成双链cDNA。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 双链cDNA 的酶切",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验选用两组限制性内切酶组合，分别为FastDigest $\\textsuperscript { \\textregistered }$ EcoRI和FastDigest $\\textsuperscript { \\textregistered }$ Mse I组合、FastDigest $\\textsuperscript { \\textregistered }$ Taq I 和 FastDigest $\\textsuperscript { \\textregistered }$ AseI组合，以筛选更好的组合。EcoRI/MseI组合的反应程序为： $3 7 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { m i n }$ ， $6 5 ~ \\mathrm { ^ { \\circ } C } ~ 5 ~ \\mathrm { m i n }$ ， $8 0 \\ { ^ { \\circ } C } \\ 5 \\ \\operatorname* { m i n }$ 灭活；AseI/TaqI组合的反应程序为 $3 7 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { m i n }$ ， $6 5 \\ \\mathrm { ^ { \\circ } C } \\ 3 0 \\ \\mathrm { m i n }$ ，然后用氯仿抽提灭活。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3cDNA-AFLP分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AFLP 分析步骤参考Bachem etal（1996)。利用 T4DNA连接酶（Fermentas 公司）对酶切后的cDNA分别进行接头连接，然后分别利用 $\\mathrm { E c o R 0 0 / M s e 0 0 }$ 和 $\\mathrm { \\ A s e { 0 0 } / T 0 0 }$ 引物进行PCR预扩增，取 ${ 5 \\mu \\mathrm { L } }$ 的预扩增产物用 $1 \\%$ 琼脂糖凝胶电泳检测。对合适的预扩增产物进行$5 0 \\times$ 稀释,之后利用16条EcoRI引物和16条MseI引物组成256对引物组合进行选择性扩增。引物见表1。选择性扩增反应总体积为 $2 0 { \\mu \\mathrm { L } }$ ，包含 $1 ~ \\mu \\mathrm { L }$ 模板，EcoRI和MseI选择性扩增引物 $( 1 0 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } )$ 各 $1 ~ \\mu \\mathrm { L }$ ， $1 0 \\mu \\mathrm { L } 2 \\times$ DreamTaq PCRMaster Mix（Fermentas 公司）；扩增反应条件： $9 5 \\ \\mathrm { ^ { \\circ } C } \\ 3 \\ \\mathrm { m i n }$ ： $9 5 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $6 5 ^ { \\circ } \\mathrm { C }$ （每个循环递减 $0 . 7 ^ { \\circ } \\mathrm { C } \\mathrm { ) }$ 退火 $3 0 \\mathrm { { s } , \\ 7 2 \\mathrm { { ^ { \\circ } C } } }$ 延伸 $1 \\mathrm { m i n }$ ，12个循环； $9 5 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $5 6 ^ { \\circ } \\mathrm { C }$ 退火 $3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $1 \\mathrm { m i n }$ ，25个循环； $7 2 ^ { \\circ } \\mathrm { C }$ 终延伸 $5 \\mathrm { m i n }$ 。扩增产物经 $6 \\%$ 变性聚丙烯酰胺凝胶电泳分离得到差异表达片段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4差异TDFs回收、克隆和序列分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用锋利的刀片将胶板上的目的片段切割下来，放入干净的PCR管中，条带浓时少量，淡时多量。用双蒸水清洗条带，之后用移液枪把多余的水分吸取干净。按选择扩增时的反应体系和条件进行二次扩增。将扩增产物回收纯化并连接至 pEASY-T1 克隆载体（全式金公司），然后挑选阳性克隆送公司测序。将克隆得到的序列在NCBI数据库(https://blast.ncbi.nlm.nih.gov/Blast.cgi)的 BLAST 工具中进行同源性比对，并利用 Blast2Go软件结合 Amigo 网站（http://amigo1.geneontology.org/cgi-bin/amigo/blast.cgi）进行基因本体(Gene Ontology,GO)功能注释和分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7185e63dddda5ffc4cb0598f6dc35ffced9069f4c4fbb3eac0970a7126f7691.jpg",
+        "table_caption": [
+            "Table1 Adaptor and primer sequences for cDNA-AFLP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>接头及引物序列</td><td>编号</td><td>接头及引物序列</td></tr><tr><td>Code</td><td>Adaptor and primer sequences</td><td>Code</td><td>Adaptor and primer sequences</td></tr><tr><td>EcoR I-ad1</td><td>5'CTCGTAGACTGCGTACC3'</td><td>Mse I-ad1</td><td>5'GACGATGAGTCCTGAG3'</td></tr><tr><td>EcoR I-ad2</td><td>5'PAATTGGTACGCAGTCTAC3'</td><td>Mse I-ad2</td><td>5'PTACTCAGGACTCAT3'</td></tr><tr><td>Ase I-ad1</td><td>5'CTCGTAGACTGCGTACC3'</td><td>Taq I-ad1</td><td>5'GACGATGAGTCCTGAG3'</td></tr><tr><td>Ase I-ad2</td><td>5'PTAGGTACGCAGTCTAC3'</td><td>Taq I-ad2</td><td>5'PCGCTCAGGACTCAT3'</td></tr><tr><td>EcoR00</td><td>5'GACTGCGATCCAATTC3'</td><td>Mse00</td><td>5'GATGAGTCCTGAGTAA3'</td></tr><tr><td>Ase00</td><td>5'GTAGACTGCGATCCTAAT3'</td><td>Taq00</td><td>5'GATGAGTCCTGAGCGA3'</td></tr><tr><td>E11</td><td>5'GACTGCGATCCAATTCAC3'</td><td>M11</td><td>5'GATGAGTCCTGAGTAAAC3'</td></tr><tr><td>E12</td><td>5'GACTGCGATCCAATTCAG3'</td><td>M12</td><td>5'GATGAGTCCTGAGTAAAG3'</td></tr><tr><td>E13</td><td>5'GACTGCGATCCAATTCAT3'</td><td>M13</td><td>5'GATGAGTCCTGAGTAAAT3'</td></tr><tr><td>E14</td><td>5'GACTGCGATCCAATTCAA3'</td><td>M14</td><td>5'GATGAGTCCTGAGTAAAA3'</td></tr><tr><td>E21</td><td>5'GACTGCGATCCAATTCCC3'</td><td>M21</td><td>5'GATGAGTCCTGAGTAACC3'</td></tr><tr><td>E22</td><td>5'GACTGCGATCCAATTCCG3'</td><td>M22</td><td>5'GATGAGTCCTGAGTAACG3'</td></tr><tr><td>E23</td><td>5'GACTGCGATCCAATTCCT3'</td><td>M23</td><td>5'GATGAGTCCTGAGTAACT3'</td></tr><tr><td>E24</td><td>5'GACTGCGATCCAATTCCA3'</td><td>M24</td><td>5'GATGAGTCCTGAGTAACA3'</td></tr><tr><td>E31</td><td>5'GACTGCGATCCAATTCGC3'</td><td>M31</td><td>5'GATGAGTCCTGAGTAAGC3'</td></tr><tr><td>E32</td><td>5'GACTGCGATCCAATTCGG3'</td><td>M32</td><td>5'GATGAGTCCTGAGTAAGG3'</td></tr><tr><td>E33</td><td>5'GACTGCGATCCAATTCGT3'</td><td>M33</td><td>5'GATGAGTCCTGAGTAAGT3'</td></tr><tr><td>E34</td><td>5'GACTGCGATCCAATTCGA3'</td><td>M34</td><td>5'GATGAGTCCTGAGTAAGA3'</td></tr><tr><td>E41</td><td>5'GACTGCGATCCAATTCTC3'</td><td>M41</td><td>5'GATGAGTCCTGAGTAATC3'</td></tr><tr><td>E42</td><td>5'GACTGCGATCCAATTCTG3'</td><td>M42</td><td>5'GATGAGTCCTGAGTAATG3'</td></tr><tr><td>E43</td><td>5'GACTGCGATCCAATTCTT3'</td><td>M43</td><td>5'GATGAGTCCTGAGTAATT3'</td></tr><tr><td>E44</td><td>5'GACTGCGATCCAATTCTA3'</td><td>M44</td><td>5'GATGAGTCCTGAGTAATA3'</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5RACE方法克隆差异片段的3'端",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据已有的序列设计引物克隆差异片段的3'端，引物见表2。3'RACE-cDNA的合成参考 Smart RACE（Clontech）操作说明。将扩增产物回收纯化并连接至pEASY-T1克隆载体（全式金公司），然后挑选阳性克隆送公司测序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6差异片段的Real-time qPCR分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据差异片段的3'端序列设计Real-time $\\operatorname { q P C R }$ 引物，引物见表2。cDNA 的合成参考RevertAidTM Premium First Strand cDNA Synthesis Kit（Fermentas 公司）说明书，合成的第一链cDNA 稀释20倍后用于Real-timeqPCR分析。运用ABI 公司的7500Fast荧光定量 PCR仪，反应体系和程序参考SYBR $\\textsuperscript { \\textregistered }$ PremixExTaqTM（Takara 公司)操作说明。以桂花的 $\\beta$ -actin基因作为内参，叶片中基因转录水平设为1，采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法来确定基因的相对表达量。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ecdebbdf98c05adaf08030f79f24c22fd7f145ac368a0c50dcfedff48f6fe03.jpg",
+        "table_caption": [
+            "表1cDNA-AFLP的接头和引物序列",
+            "表2差异表达基因的3'RACE 和Real-time qPCR引物",
+            "Table 2 Primers for 3'RACE and real-time qPCR of the differential expressed gene fragments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物编号 Primer codes</td><td>引物序列 Primer sequences</td></tr><tr><td>For 3'RACE</td><td></td></tr><tr><td>M13E32-24-3-1</td><td>5'GCATGCGAAGACTGCAAGGTAGCTGGC3'</td></tr><tr><td>M13E32-24-3-2</td><td>5'CGACATTCAGAAAGAAACCCGAGTGCTC3'</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e467237bdaabafc849db059c17a6f1bd037db1fd6d2262e15d6ae884091988a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>M21E14-1-3-1 M21E14-1-3-2</td><td>5'CAGCAAAACTGGTGGAGCCGCCAAAGCA3' 5'TCCATGTACGAGCGAGAAGGGGTCAAGC3</td></tr><tr><td>M13E23-11-3-1</td><td>5'GCAGGTGGATGTTGTTATATCGACGGTG3'</td></tr><tr><td>M13E23-11-3-2</td><td>5'GGTGGGGCAACTTCAGTTAGCCGATCA3'</td></tr><tr><td>M22E31-11-3-1 M22E31-11-3-2</td><td>5'AGGATGGCACCACCACTGCTGGAAATTC3' 5'CCAAGTGAGTGATGGTGCTGGAGCTGTG3</td></tr><tr><td></td><td></td></tr><tr><td>M41E14-13-3-1 M41E14-13-3-2</td><td>5'CGGAGTCGTCCCAGGTTGTCGGAATTA3' 5'CCGGCGCTGGCTTTCTTGCCCTCATG3'</td></tr><tr><td>M34E22-31-3-1</td><td>5'CGACCACCTGTTTCCCCACTTAGCATGC3</td></tr><tr><td>M34E22-31-3-2</td><td>5'ACGGGAAAGAGTTGTCGTTTGCGGTGGC3'</td></tr><tr><td>For Real-time PCR</td><td></td></tr><tr><td>M13E32-24-f0</td><td>5'CAGAAAGAAACCCGAGTGCTCGTAA3'</td></tr><tr><td>M13E32-24-r0</td><td>5'CACATCCTCCTCCCTGAACCAAATG3'</td></tr><tr><td>M21E14-1-f0</td><td>5'CCCATATCTATACACGCCTTTTCCAA3'</td></tr><tr><td>M21E14-1-r0</td><td>5'AACCTTCCCCCGTCATTCATCATTA3'</td></tr><tr><td>M13E23-11-f0</td><td>5'TACTTTGCTGGCTACTTTCTTCCGAC3'</td></tr><tr><td>M13E23-11-r0</td><td>5'AGGAGGCTTGATGTAAAGGATCTTGT3</td></tr><tr><td>M22E31-11-f0</td><td>5'ATTTTAGAGAGAGATGGAGAAGGCA3'</td></tr><tr><td>M22E31-11-r0</td><td>5'GCTGAACATATAGACGCGGAGATT3</td></tr><tr><td>M41E14-13-f0</td><td>5'CACCACTTCACGGCTGCGTTT3'</td></tr><tr><td>M41E14-13-r0</td><td>5'ACAACCTGGGACGACTCCGATTT3'</td></tr><tr><td></td><td></td></tr><tr><td>M34E22-31-f0 M34E22-31-r0</td><td>5'GAATTCACTAGCTCGTGCTGCCAG3' 5'TCCATAATCAAAAGTTGTTCCTCCG3'</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1桂花多样本cDNA-AFLP体系的建立",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对提取的花瓣和叶片RNA进行质量和浓度检测，结果显示，取 $2 0 0 ~ \\mathrm { { m g } }$ 材料提取RNA,所得 RNA 浓度更高、纯度较高、完整性较好，电泳检测质量较好（图2：A）。分离出的花瓣和叶片中的 mRNA 集中分布在 $8 0 0 { \\sim } 2 0 0 0 \\mathrm { b p }$ 左右，呈弥散状，mRNA的质量较好。利用分离的mRNA进一步合成的双链cDNA呈弥散状，主带集中在 $5 0 0 { \\sim } 1 0 0 0 \\mathrm { b p }$ （图2：B）。以合成的双链cDNA为模板扩增 $\\beta$ -actin基因，得到与预期大小一致、条带清晰的目的条带（图2：C），表明合成的双链cDNA质量较高，符合进一步cDNA-AFLP分析要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用两组限制性内切酶组合AseI/TaqI和EcoRI/MseI对花瓣和幼叶的双链cDNA分别进行双酶切。经AseI/TaqI双酶切的cDNA存在明显的条带集中区，主要在 $3 0 0 ~ \\mathrm { b p }$ 左右（如图3：A）；而经EcoRI/MseI双酶切后无明显的条带集中区，在 $1 0 0 { \\sim } 1 0 0 0 \\mathrm { b p }$ 弥散分布（如图3：B）。对两组酶切产物加接头之后，取接头连接产物分别进行25个和30个循环的预扩增反应，电泳结果表明，经AseI/TaqI双酶切的预扩增产物主要集中在100\\~250 bp，5个循环数的差异导致产物浓度差异较大（如图3：A）；而经EcoRIMseI双酶切的预扩增产物在 $1 0 0 { \\sim } 1 0 0 0 \\mathrm { b p }$ 之间均匀分布，5个循环数的差异对产物浓度的影响并不太大（如图3：B）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 EcoRI/MseI双酶切的预扩增产物，进行256对选择性扩增引物组合的初步分析，结果见表3。从表中可以看出，其中96 对引物扩增出的条带数目多且清晰可辨度高，定为A 级；121对引物扩增出的条带数目和清晰度适中，列为B级；另有39 对引物扩增产物条带数目少或模糊，列为C级。选取A级的全部引物和B级的部分引物用于后续实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：A.花瓣和叶片中总RNA提取；B.cDNA 的电泳检测；C. $\\beta$ -actin 基因的PCR检测。1.50 mg; $2 . 2 0 0 \\ : \\mathrm { m g }$ ；a.花瓣；b.幼叶；ck.空白对照；M.DNA分子量标准。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6194fab55c100b87ee369e732ce984a0ffc62f23641c875efae6cbffc8c0a5e8.jpg",
+        "img_caption": [
+            "图2桂花总RNA及cDNA电泳图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note: A. Total RNA from petals and leaves; B. The electrophoresis detection of cDNA; C. ${ \\mathfrak { \\beta } }$ -actin PCR detection 1. 50 mg; 2. 5O mg; a. Petals; b. Young leaves; ck. Blank controls; M: DNA molecular marker. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Electrophoresis profiles of total RNA and cDNA from Osmanthus fragrans 注：A.Ase I/TaqI的结果；B.EcoR I/Mse I的结果。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M.DNA 分子量标准；1.花瓣 cDNA 的双酶切产物；2.幼叶cDNA 的双酶切产物；3.花瓣 cDNA 预扩增产物，25个循环；4.幼叶cDNA预扩增产物，25个循环；5.花瓣 cDNA预扩增产物，30个循环；6.幼叶cDNA预扩增产物，30个循环；7，8.空白对照的预扩增产物。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/08ea9ee6aab76ea2cc8f3cc977ba9f9af590dd32e0c1c6b61d2404c83b348d78.jpg",
+        "img_caption": [
+            "图3cDNA的酶切及预扩增结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note:A. Result of Ase I/Taq I. B. Result of EcoR I/Mse I. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M.DNA molecular marker; 1. Double enzyme digestion products of petal cDNA; 2. Double enzyme digestion products of young leaves cDNA;3.Preamplification products of petal cDNA,25 cycles; 4.Preamplification products of young leaves cDNA，25 cycles; 5. Preamplification products of petal cDNA，30cycles；6. Preamplification products of young leaves cDNA,30 cycles; 7,8.Preamplification products of blank controls. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Results of enzyme digestion and preamplification of cDNA ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ee4771f3e0b38ec3a5c03faee1780be3c0100bda1d4f3a78623c7b288737742.jpg",
+        "table_caption": [
+            "表3cDNA-AFLP选择扩增引物组合质量评价",
+            "Table 3 Quality evaluation of the selected amplification primer combinations in cDNA-AFLP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级 编号</td><td colspan=\"7\"></td></tr><tr><td>Grades</td><td colspan=\"7\">Codes</td></tr><tr><td>A (96)</td><td>M11E11，M11E12，M11E13，M11E34，M12E12，M12E13，M12E14，M12E21，M12E22，M12E23,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M12E24，M12E32，M14E14，M14E23，M14E24，M21E11，M21E12，M21E13，M21E14，M21E21,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M21E22，M21E23，M21E24，M21E31，M21E41，M21E43，M22E11，M22E12，M22E13，M22E14,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M22E21，M22E23，M22E24，M22E31，M22E33，M22E34，M22E43，M23E12，M23E21，M23E22，</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M24E13，M24E14，M24E22，M24E23，M24E24，M24E31，M24E32，M24E33，M24E34，M24E41,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M24E43，M31E13，M31E23，M31E31，M31E32，M31E43，M32E11，M32E13，M32E14，M32E21,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M32E22，M32E23，M32E31，M32E32，M32E34，M32E41，M32E42，M33E12，M33E13，M33E14,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M33E22，M33E23，M33E24，M33E31，M33E33，M34E11，M34E12，M34E14，M34E21，M34E32,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M41E13，M41E14，M41E21，M41E22，M41E24，M42E12，M42E13，M42E14，M42E21，M41E33,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M43E12，M43E13，M43E14，M43E21，M43E22，M44E31</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B(121）</td><td>M11E14，M11E21，M11E23，M11E24，M12E11，M12E31，M12E33，M12E34，M12E43，M13E13,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M13E21，M13E22，M13E23，M13E24，M13E31，M13E33，M13E34，M13E11，M13E12，M13E14,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M13E32，M13E41，M13E43，M13E44，M14E12，M14E21，M14E22，M14E32，M14E33，M14E34,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M14E42，M14E43，M14E44，M21E32，M21E33，M21E34，M21E44，M22E22，M22E32，M22E44,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M23E11，M23E14，M23E23，M23E24，M23E31，M23E32，M23E33，M23E34，M23E42，M23E43,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M23E44，M24E21，M24E42，M24E44，M31E11，M31E12，M31E14，M31E22，M31E24，M31E34,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M31E41，M31E42，M31E44，M32E12，M32E24，M32E33，M32E43，M32E44，M33E21，M33E32,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M33E34，M33E42，M33E43，M33E44，M34E13，M34E22，M34E23，M34E24，M34E31，M34E42,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M34E43，M34E44，M41E11，M41E12，M41E23，M41E31，M41E32，M41E33，M41E34，M41E41,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M41E42，M41E43，M41E44，M42E11，M42E22，M42E23，M42E32，M41E34，M42E44，M43E23,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M43E24，M43E32，M43E33，M43E34，M43E41，M43E42，M43E43，M43E44，M44E11，M44E12,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M44E13，M44E22，M44E23，M44E24，M44E32，M44E33，M44E41，M44E42，M44E34，M44E43,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M44E44</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">C(39)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M11E22，M11E31，M11E32，M11E33，M11E41，M11E42，M11E43，M11E44，M12E41，M12E42,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M12E44，M13E42，M14E11，M14E13，M14E31，M14E41，M21E42，M22E41，M22E42，M23E13,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M23E41，M24E11，M24E12，M31E21，M31E33，M33E11，M33E41，M34E33，M34E34，M34E41,</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>M42E24，M42E31，M42E41，M42E42，M42E43，M43E11，M43E31，M44E14，M44E21</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2差异表达TDFs的获得及功能分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在花发育过程cDNA-AFLP分析中，以叶片为对照（泳道7），部分引物选择扩增产物的聚丙烯酰胺凝胶电泳结果如图4：A。将 TDFs 的差异表达模式大致分为3大类：第一类为花瓣与幼叶中持续表达的基因（图4：B）；第二类为幼叶中不表达，但不同发育时期的花瓣中无明显差异的基因（图4：D）；第三类为花瓣中特异表达且在不同发育时期存在差异的基因（图4：C，E）。选取第三类的TDFs进行切胶回收测序，共得到283条差异 TDFs,根据选择性扩增引物进行命名编号。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对获得的283条序列利用Blast2GO 和Amigo 网站，结合NCBI数据库BLAST结果进行GO功能注释，结果如图5。发现有120条序列没有同源基因，占了总序列的 $4 2 \\%$ ；有13条序列具有相应的同源基因，但这些同源基因无功能注释，占总序列的 $5 \\%$ ；只有150条序列有相应的同源基因，也有详细的功能注释。根据相应同源基因在生物进程中的功能注释，其生物学功能大致分为10类：初级代谢（41条， $14 \\%$ ）、响应刺激（20条， $7 \\%$ ）、运输（19条， $7 \\%$ ）、次级代谢（17条； $6 \\%$ ）、细胞组成与发生（15条， $5 \\%$ ）、发育过程（11条， $4 \\%$ ）、氧化还原过程（10条； $4 \\%$ ）、调控生物过程（8条， $3 \\%$ ）、信号传导（5条，$2 \\%$ ）、其余功能（4条， $1 \\%$ ）（参与细胞分裂或调控生物质量）。A",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7aaa44659cd934f46becadfee13625259a40193241ac4753fb702afb09430b9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：A．部分引物组合选择扩增产物的聚丙烯酰胺凝胶电泳图谱；B.花瓣与叶中持续表达的基因；C．花瓣中特异表达且不同花发育时期有差异的基因；D.花瓣中特异表达但不同花发育时期无明显差异的基因；E.花瓣中特异表达且不同花发育时期有差异的基因。1.铃梗期（0d）；2.初花期（ ${ 2 } \\mathrm { d } , 1 0 \\mathrm { a m }$ ）；3.初花期 $( 2 \\mathrm { d } , 5 \\mathrm { p m } )$ ）；4.盛花期（4d）；5.盛花期（6d）；6.盛花末期（8d）；7.幼叶。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: A.Polyacrylamide gel mapping of the selective amplification products in parts of the primer combinations.   \nB.Gene continuously expressed in petals and leaves.C. Gene sepecially expressed in petals with diffrent levels as floral development. D. Gene sepecially expressed in petals with no difference.E. Gene sepecially expressed in   \npetals with diffrent levels as floral development.1.Tightbud stage (Od); 2.Initialflowering stage(2d,10am); 3.Initial flowering stage $( 2 \\mathrm { d } , 5 \\mathrm { p m } )$ ; 4. Fullflowering stage (4 d); 5. Full flowering stage (6 d); 6. Late full flowering stage (8 d); 7. Young leaves. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4部分引物组合的选择性扩增结果及基因表达的不同类型",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Results of the selective amplification in parts of the primer combinations and the different types of gene expression ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8ffe396768ea3d8479bf4bd358e15d7a7a25c0a2783dd9f084239b9a4ef609c.jpg",
+        "img_caption": [
+            "图5差异表达片段的功能分类"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Function classification of the differential expressed transcript derived fragments ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3部分差异表达TDFs的表达模式分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "选取已知功能的6个差异表达TDFS:M13E23-11、M13E32-24、M21E14-1、M22E31-11、M34E22-31和M41E14-13，进行Real-time qPCR 检测，如图6。Real-time qPCR 检测结果表明，其中M13E32-24、M21E14-1、M22E31-11和 M34E22-31的表达模式符合cDNA-AFLP的表达谱特征。M13E32-24（图6：B）在幼叶和铃梗期花瓣中表达量很低，在花朵开放后表达量迅速增加，在第四天的盛花期表达量达到最高；M21E14-1（图6：C）在第二天的初花期上午和第四天的盛花期表达量较高；M22E31-11（图6：D）在花朵开放后表达有所增加，在第二天的初花期上午和第四、六天的盛花期表达量均较高；M34E22-31（图6：E)仅在花瓣中表达，花朵开放后的表达量显著增加，且整个花期维持较好水平。M13E23-11（图6：A）除了在第八天的盛花末期与cDNA-AFLP 的表达存在差异，其他时期均保持一致。M41E14-13（图6：F）则与cDNA-AFLP的表达特征存在很大的差异，尤其是在盛花末期和叶片中的表达。从cDNA-AFLP图中的结果可以看出，M13E23-11和M41E14-13的表达丰度很低。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/596ef8153ec99a13115ef2a4b399f37aefd58498710759a88e5422dac6085d9a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注：A.M13E23-11；B.M13E32-24；C.M21E14-1；D.M22E31-11；E.M34E22-31；F.M41E14-13。 1.铃梗期（0d）；2.初花期（ $( 2 \\mathrm { d } , 1 0 \\mathrm { a m }$ ）；3.初花期（ $^ { 2 \\mathrm { d } , 5 \\mathrm { p m } }$ ）；4.盛花期（4d）； 5.盛花期（6d）；6.盛花末期（8d）；7.幼叶。 Note: A.M13E23-11; B.M13E32-24; C.M21E14-1; D.M22E31-11; E. M34E22-31; F.M41E14-13.   \n1.Tight bud stage (0d); 2.Initial flowering stage (2d,10am); 3.Initial flowering stage (2 d,5pm); 4.Full flowering stage (4 d); 5. Fullflowering stage (6 d); 6.Late fullflowering stage (8 d); 7. Young leaves. 图6差异表达片段在cDNA-AFLP和Real-time qPCR中的表达模式分析 Fig. 6Expression patterns of the differential expressed transcript derived fragments in cDNA-AFLP and Real-time qRT-PCR analysis ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "限制性内切酶的选择和基因表达的丰度是影响cDNA-AFLP分析结果的关键。对不同的物种进行cDNA-AFLP分析时，所适用的限制性内切酶也不尽相同（韩斌和彭建营，2006）。在菜心、黄瓜和油菜等农作物中常选用 TaqI/AseI组合（肖旭峰等，2013；孙涌栋等，2008;王家丰，2009），而在菊花、芍药和珠眉海棠等观赏植物中更趋向选用 EcoRI/MseI组合（任洪艳等，2011；孙晓梅等，2015；李志红等，2008）。本实验比较了这两种组合在桂花中的酶切效果，结果发现，经TaqI/AseI组合酶切后的cDNA及预扩增产物多集中在 $3 0 0 \\mathrm { b p }$ 左右，而且分布不均匀；经EcoRI/MseI组合酶切后的cDNA及预扩增产物在100\\~1000bp均匀分布，由此说明 EcoRI/MseI组合更适合用于桂花cDNA酶切。后续选取的6个已知功能 TDFs进行表达模式验证，4 个表达丰度较高的 TDFs 的 qRT-PCR 与 AFLP 结果一致，证明cDNA-AFLP技术能够较为准确地检测出差异表达基因，具有良好的可行性和可靠性。与张园（2009）和Han etal（2015）仅对两个样本进行cDNA-AFLP分析相比，本实验可以呈现基因表达水平的动态变化过程，多态性更为丰富，可提高低丰度基因筛选的准确性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "桂花花香和花色物质成分和含量随着开花或衰老进程而变化（Zengetal,2015；邹晶晶等，2017）。本研究利用cDNA-AFLP分析了桂花叶片和不同发育时期花瓣中基因的表达差异，共获得283个在花瓣中特异表达且在花发育各时期差异表达的TDFs。对其中150个有相应功能注释的TDFs进行分类，涉及次级代谢、初级代谢、发育过程、响应刺激、调控、运输等多个生物学过程。次级代谢过程直接参与花香或花色物质的合成（Dudareva et al,2013；Tanakaetal,2008）。本研究共获得17条参与次生代谢过程的TDFs，包含萜类香气物质、类胡萝卜素和类黄酮色素成分代谢等的多个基因。但是，获得的参与次生代谢过程的TDFs只占 $6 \\%$ 。为次级代谢过程提供前体物质的初级代谢过程占比最大，达 $14 \\%$ 。其余的$80 \\%$ 涉及发育过程、响应次级、调控等多个生物学过程。由此说明，花香与花色的形成受多个生物学过程的影响；初级代谢过程作为中间代谢物的提供者，对桂花色香代谢的影响值得深入研究。本研究结果为挖掘开花进程中色香形成相关基因，揭示其分子调控机制提供了重要参考，为进一步从分子水平研究桂花的花香与花色形成奠定了基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BACHEM CW,VAN RS,DE BRUIJN SM,et al，1996. Visualization of differential gene expression using a novel method of RNA fingerprinting based on AFLP: Analysis of gene expression during potato tuber development [J]. Plant J, 9: 745-753.   \nBALDERMANN S, KATO M, KUROSAWA M, et al, 2016. Functional characterization of a carotenoid cleavage dioxygenase 1 and its relation to the carotenoid accumulation and volatile emission during the floral development of Osmanthus fragrans Lour [J]. J Exp Bot, 61(11): 2967-2977.   \nCAI X, SU F, JIN HX, et al, 2O10. Components and extraction methods for petal pigments of Osmanthus fragrans‘Siji Gui’[J].J Zhejiang For Coll,27(4):559-564.[蔡璇，苏蘩，金荷仙, 等，2010．四季桂花瓣色素的初步鉴定与提取方法[J]．浙江林学院学报，27(4):559-564.]   \nCAI X，MAI RZ, ZOU JJ, et al, 2O14. Analysis of aroma-active compounds in three sweet Osmanthus (Osmanthus fragrans) cultivars by gas-chromatography-olfactometry and GC-mass spectrometry [J]. J Zhejiang Univ SciB,15(7):638-648.   \nDUDAREVA N,KLEMPIEN A，MUHLEMANN JK,et al, 2013. Biosynthesis, function and metabolic engineering of plant volatile organic compounds [J]. New Phytol,198(1): 16-32.   \nGONG MJ, TIAN M, WANG CX, 2011. Establishment of cDNA-AFLP system in Oncidium Orchid and TDFs analysis [J].JNucl Agric Sci,25(6):1142-1147.[龚茂江，田 敏，王彩霞, 2011．文心兰cDNA-AFLP 体系的建立及 TDFs 分析[J]．核农学报，25(6):1142-1147.]   \nHAN B& PENG JY, 2OO6.cDNA-AFLP and its application in research about gene expressions of plants [J].Acta Bot Boreali-Occident Sin，26(8):1753-1758.[韩斌和彭建营，2006. cDNA-AFLP 技术及其在植物基因表达研究中的应用[J]．西北植物学报,26(8):1753-1758.]   \nHAN Y,WANG X, CHEN W, et al, 2014. Differential expression of carotenoid-related genes determines diversified carotenoid coloration in flower petal of Osmanthus fragrans[J]. Tree Genet Genomes,10: 329-338. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HAN Y, CHEN W, YANG F, et al,2015. cDNA-AFLP analysis on 2 Osmanthus fragrans cultivars with different flower color and molecular characteristics of OfMYB1 gene [J]. Trees, 29(3): 931-940. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "HOU D,2014. Analysis of floral scent and pigment constituents and the reflectance to temperature fluctuation in Osmanthus fragrans (Thunb.） Lour. [D]. Hangzhou: Zhejiang University of Agriculture and Forestry.[侯丹，2014．桂花主要品种花香与花色及其温度变化的响应[D]. 杭州：浙江农林大学.]   \nHUANG FC，MOLNAR P， SCHWABW， 2009. Cloning and functional characterization of carotenoid cleavage dioxygenase 4 genes [J]. J Exp Bot, 6O(11): 3011-3022.   \nLENG CX,LI FG, CHEN GY, et al, 2007. cDNA-AFLP analysis of somatic embryogenesis at early stage in TM-1 (Gossypium Hirsutum L.) [J]. Acta Bot Boreali-Occident Sin, 27:233-237. [冷春旭，李付广，陈国跃，等，2007．陆地棉体细胞胚胎发生过程的CDNA-AFLP分析[J]. 西北植物学报，27(2)：233-237.]   \nLI ZH, TANG ML,LIU J, et al, 2008. Establishment of cDNA-AFLP system of Malus zumi Mats [J].JNucl Agric Sci，22(5):607-610.[李志红，唐美玲，刘佳，等，2008．珠眉海棠 cDNA-AFLP 分析体系的建立[J]．核农学报，22(5):607-610.]   \nREN HY, SUN X, ZHENG CS,et al,2O11. Differential analysis of flowering related genes by cDNA-AFLP in chrysanthemum[J].Agric Sci Chin,44(16): 3386-3394.[任洪艳，孙霞，郑成 淑，等，2011．利用cDNA-AFLP 技术筛选菊花开花相关基因[J]．中国农业科学， 44(16):3386-3394.]   \nSUN XM, YANG PP,LU XJ, et al, 2015. Establishment of cDNA-AFLP system of Paeonia lactiflora seed[J].Acta Hortic Sin,42 (3): 576-584.[孙晓梅，杨盼盼，陆秀君，等，2015．芍 药种子cDNA-AFLP 体系的建立[J]．园艺学报，42(3):576-584.]   \nSUN YD, ZHANG XG,LUO WR, et al, 2008. Clone and analysis of expansin gene of cucumber fruit [J].Acta Bot Boreali-Occident Sin,28(2):0233-0236.[孙涌栋,张兴国,罗未蓉,等,2008. 黄瓜果实扩张蛋白基因克隆与分析[J]．西北植物学报，28(2):233-236.]   \nTANAKA Y, SASAKI N, OHMIYA A， 2008.Biosynthesis of plant pigments: anthocyanins, betalains and carotenoids [J]. Plant J, 54:733-749.   \nWANG JF,2OO9. Research of differential gene expression in the developing seed of Brassica napus under high temperatures stress [D]. Chongqin: Southwest University.[王家丰，2009.高 温胁迫下甘蓝型油菜发育种子相关基因的差异表达研究[D]．重庆：西南大学.]   \nXIANG QB& LIU YL, 2OO8.An illustrated monograph of the sweet osmanthus cultivars in China [M].Hangzhou: Zhejiang Science & Technology Press.[向其柏和刘玉莲，2008．中国桂花品 种图志[M]．杭州：浙江科学技术出版社.]   \nXIAO XF, WANG H, HUANG M, et al, 2013. Optimization and establishment of cDNA-AFLP analysis system for flowering Chinese cabbage[J]. Acta Agric Univ Jiangxi, 35(2):296-300. [肖 旭峰，王恒，黄敏，等，2013．菜心cDNA-AFLP 分析体系的优化与建立[J]．江西农业大 学学报，35(2):296-300.]   \nXIN H, WU B, ZHANG H, et al, 2013. Characterization of volatile compounds in flowers from four groups of sweet osmanthus (Osmanthus fragrans) cultivars [J]. Can J Plant Sci, 93: 923-931.   \nYANG KM, 2011. Chinese Osmanthus [M]. Beijing: China Forestry Publishing House.[杨康民, 2011．中国桂花[M]．北京：中国林业出版社.]   \nZENG X, LIU C, ZHENG R, et al, 2015. Emission and accumμlation of monoterpene and the key terpene synthase (TPS) associated with monoterpene biosynthesis in Osmanthus fragrans Lour [J]. Front Plant Sci, 6:1232.doi:,10.3389/fpls.2015.01232. ZENG XL， ZHENG RR，LUO J，et al， 2O16.Cloning and characterization of cinnamate   \n4-hydroxylase (C4H) Genes from Osmanthus fragrans[J]. Acta Hortic Sin, 43(3): 525-537.[曾 祥玲，郑日如，罗靖，等，2016.桂花C4H 基因的克隆与表达特性分析[J]．园艺学报，   \n43 (3): 525-537.] ZHANG Y, 2009. Separation of fragrance-related genes of Osmanthus fragrans by using cDNA-AFLP technology [D]. Fuzhou: Fujian Agriculture and Forestry University.[张园，2009. cDNA-AFLP 技术分离桂花香气相关基因[D]．福州：福建农林大学.] ZOU JJ, ZENG XL,CHEN HG,et al, 2017. Analysis on characteristic color compounds in different varieties of Osmanthus fragrans Lour. during flowering and senescence[J]. J S Agric,   \n48(9):1683-1690．[邹晶晶，曾祥玲，陈洪国，等，2017．不同桂花品种开花及衰老过程 中的花色物质成分分析[J]．南方农业学报，48(9):1683-1690. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

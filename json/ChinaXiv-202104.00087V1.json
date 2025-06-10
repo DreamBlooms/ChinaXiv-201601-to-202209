@@ -1,0 +1,536 @@
+[
+    {
+        "type": "text",
+        "text": "基于三元精神病态模型（TriPMmodel）的精神病态认知一情感加工框架",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程诚1,2.3，郭培杨\\*1,2.3，杨丽\\*1,2.3，王梦雅1,2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．天津大学教育学院，天津，300350  \n2．天津大学应用心理研究所，天津，300350  \n3．天津市教育委员会自杀心理与行为研究实验室，天津，300350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 精神病态作为暴力犯罪、累犯和青少年犯罪的重要预测变量，在临床心理学和司法领域受到了广泛重视。三元精神病态模型通过大胆、卑劣和去抑制三个维度对精神病态进行了操作化定义，反映了精神病态在神经生物学维度上存在的认知情感加工缺陷。其中，低威胁敏感性是精神病态大胆的主要病因学基础；而执行功能受损，尤其是注意调节缺陷则导致了精神病态的去抑制倾向；而与情绪识别存在联系的共情缺陷可能是卑劣的深层原因。未来研究中仍需关注精神病态的概念化问题，以及不同精神病态特质之间是否存在共同的潜在病因学基础，探索精神病态特质在生命早期阶段的体现从而进行及时有效的干预。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词三元精神病态模型，低威胁敏感性，执行功能受损，共情缺陷",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "精神病态（Psychopathy）在人格领域中，可以称得上是一种“至暗”人格。Cleckley(1964)将精神病态描述为一种综合征，并详细界定了16 条诊断标准，主要包括三个方面（1）与其他精神障碍区别开来的适应性特征，如智力正常甚至超越常人、有魅力、无妄想、自杀倾向低；（2）行为上的偏异，如冲动反社会行为、药物滥用、酗酒、缺乏明确的生活计划；（3)肤浅的情感和虚伪，指精神病态具有的低焦虑、低内疚、缺乏共情、无法去爱的特点。在心理学和精神病学中，精神病态在许多重要的研究领域内得到了关注，比如人际与情感缺陷所表现出的冷酷无情、低焦虑、低恐惧和缺乏负面的面部情绪感知能力的特征(Hare&Neumann,2008;Wilson etal.,2011)，以及注意缺陷和敌意认知导致的认知与行为模式与正常社会规范的偏离(Garofalo, Neumann, et al., 2020; Hare & Neumann, 2008; Smith & Lilienfeld,2015)。在司法犯罪的应用研究中，精神病态亦占据重要位置。犯罪的整合理论(Unified Theory of Crime;Delisi，2016)甚至将精神病态视作是犯罪行为的一种精准表现，涉及暴力犯罪、累犯等造成严重社会影响的恶劣行为。这将精神病态视为犯罪的动机性因素，而不是单纯的相关关系(Ireland et al.,2020)。在社会生活中，精神病态群体对社会造成的损耗是巨大的，他们频繁地卷入反社会行为，且发展成为累犯的可能性是普通罪犯的三到四倍(Delisi,2016)。一个全球范围的监狱服刑人员的研究发现，男性罪犯中精神病态所占的比例约为 $5 \\%$ ，另一个国际性的青少年男性服刑群体的研究中，精神病态诊断甚至高达 $4 0 \\%$ (Neumann et al., 2015)。而在社区人群中，虽然精神病态的比例仅在 $2 . 1 \\%$ 左右，但是他们却参与了社区 $1 8 . 7 \\%$ 的暴力事件，人群归因危险度为 $1 6 . 6 \\%$ (Coid & Yang, 2011)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床心理学领域对精神病态病因学的研究能够解释该人群异常行为模式之下的病理性机制，并进行有效的干预和治疗。早期便有学者对精神病态的病因进行了解释，Karpman(1940,1948)曾提出了两种精神病态亚型，具体为原发性(特发性)精神病态(primary/idiopathicpsychopathy)，表现为冷酷无情、操纵欲强、极度自私、不诚实；以及继发性(症状性)精神病态（secondary/symptomatic psychopathy），具有更多的负面情绪、高伤害回避、在面对威胁或危险时表现出冲动倾向。其中，焦虑是区分两种亚型的关键。原发性精神病态缺乏焦虑、抑郁等负面情绪体验，而继发性精神病态则具有较高的特质焦虑水平。两种亚型在潜在病因学上存在相对异质性，这源于发育途径上的差异。原发性精神病态是由特定基因型和神经生理缺陷引起的特发性情感缺陷。而继发性精神病态的冲动和失败的生活方式更有症状性，是源于童年创伤和弱的环境适应性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于早期精神病态的概念化不完善，缺乏精神病态的实证研究，许多对于精神病态病因的解释存在固有的局限性。时至今日，精神病态的概念化问题依然存在争议，如精神病态与反社会人格障碍（Antisocial Personality Disorder；ASPD）的关系(Wygant et al.,2016)，无畏（fearless）、应激免疫（stress immunity）和低负面情绪体验等适应型的特征是否属于精神病态的一部分(Miler&Lynam,2012a,2012b)，精神病态的异质性或精神病态亚型(Bronchain etal.,2020;Lee& Salekin,2010;Mokros et al.,2015)。对这种疾病的性质和界限的概念分歧必定会阻碍病因学研究的进展。因此，本文基于三元精神病态模型(Triarchic Model of Psychopathy;Patrick etal.,2009)及相关研究，提出一个整合性的精神病态病因学框架。而在进行综述之前，有必要阐述一下精神病态概念化历史进程中的一些问题，并介绍本文所采取的用于定义精神病态的三元模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.精神病态概念化的历史",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1精神病态与反社会人格",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在精神疾病诊断和统计手册第五版(Diagnostic and Statistical Manual of Mental Disorders,Fifth Edition,DSM-5; American Psychiatric Association,2013)中，反社会人格障碍被描述为一种漠视或侵犯他人权利的心理行为模式，其核心特征为欺诈和操纵、缺乏同理心、夸大的自我评价。反社会人格障碍和精神病态是否在很大程度上相似，或在根本上是否反映了不同的结构，这个问题在心理病理学和临床心理学领域内经历了广泛的探讨。精神病态与反社会人格的分道扬镳产生于精神病学诊断史上一次重要的挑战与变革，即整改诊断标准以提高精神疾病诊断的信度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，这两个概念的分歧最高可追溯至DSM-II(American Psychiatric Association,1968)时期。Cleckley 对于精神病态的概念化在DSM-II中得到了突出体现，然而考虑到人际和情感特征测量的困难性，DSM-I(American Psychiatric Association,1980)中很大程度上删除了这些非外显特征，只保留了反社会行为相关的外在指标，以提高诊断的信度。于是就形成了临床领域内人格基础的精神病态和 DSM-III 中行为基础的反社会人格障碍两股交错并进的分支。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行为的 靴 精研究分支  \n会 ：人际-情感因子；因子2：怪异的生活方 RobertD.Hare共  \n增加内容 影响力扩大  \nDSM-IV DonaldD.Lynam等 Scott O.Lilienfeld；Christopher J.Patrick；  \n对社会人格障碍的诊断进行 V 新 V 精神病态的研究被纳入诊断体系",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1.精神病态与反社会人格障碍的概念化历史。注： $\\mathrm { D S M } =$ 精神疾病诊断手册 (Diagnositic and statistical manual ofmental disorders); $\\mathrm { \\ P C L = }$ 精神病态检核表 (Psychopathy Checklist); $\\mathrm { { P C L - R } = }$ 精神病态检核表-修订版 (PsychopathyChecklist-Revised); $\\mathbf { S R P = }$ 精神病态自评量表 (Self-report Psychopathy Scale)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "回顾精神病态的研究历程，从早期的临床理论到实证研究的兴起，这主要得益于RobertHare 的工作。他所编制的精神病态检核表(Psychopathy Checklist,PCL; Hare,1980)，及其修订版(Psychopathy Checklist-Revised,PCL-R; Hare et al.,1990)，完美地捕获了 Cleckley 对精神病态的描述，并在监狱和临床人群得到了广泛应用。有研究者在服刑人群中使用PCL-R对精神病态进行诊断，并与 DSM-IV(American Psychiatric Association,1994）中反社会人格障碍的诊断结果进行比较。结果发现，多达 $50 \\% \\sim 8 0 \\%$ 的囚犯符合DSM-IV中ASPD的诊断标准，而符合PCL/PCL-R所界定的精神病态的仅为 $1 5 \\%$ 。因此，有研究者认为ASPD 和精神病态可能反映了两种不同的测量结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而后，这一猜想得到了实证研究的证实。在大量基于PCL-R 的研究中，PCL-R的因子分析结果表现出了相对稳定，可复制的两因子结构(Hare&Neumann,2008;Hare et al.,1990)。其中，因子1反映了精神病态在人际和情感方面的缺陷，包括在人际关系上表现出的操纵、欺骗、自恋的特点，同时缺乏深层的情感，存在共情上的障碍，冷酷无情。而因子2则由冲动、兴奋寻求、不负责任、寄生性的生活方式和反社会行为构成。尽管因子1与因子2呈现出中等程度的相关，但是两个因子实际上反映了不同的精神病态特征，且被证实在外部相关性上存在差异。具体来说，因子1更多的与高自私、剥削（比如自恋、马基雅维利主义、主动攻击）和低共情有关，同时也展现出一定的适应性倾向，比如与社会支配呈正相关，与恐惧、焦虑、沮丧等内化病理呈负相关。而因子2 则表达了一种愤怒一攻击倾向，与冲动、物质滥用、酗酒、攻击等外化病理存在联系。相比与因子1，ASPD与因子2的关系更为密切。因此，在DSM-5人格障碍诊断体系发生变革之前，许多研究者认为反社会人格障碍是区别于精神病态的，可能更多地反映了与精神病态中与因子2相关的外在行为特征(Verona et al,2001)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，DSM-5人格障碍替代模型出现之后，开创性地提出通过两种新的诊断标准，即标准A（人格功能；Personality Functioning）和标准B（人格特质）来重新定义现有的人格障碍分类。在标准A中，自我（self）和人际（interpersonal）两种人格功能的受损形成了不同的人格病理模式。反社会人格障碍群体的自我功能受损表现为自我中心，缺乏内部亲社会准则，无法确认行为的合法性；人际功能的受损体现在不关心他人、缺乏共情、剥削性，使用欺诈、压迫、操纵满足内部需要的适应不良的人际互动模式。在标准B中，所有人格障碍都被嵌入到了病理性人格五因素模型所包含的5个领域和25个病理性人格特质中。对反社会人格障碍的描述是对抗（操纵、冷酷、敌意）和去抑制（风险寻求、冲动、不负责任)中6个特质的组合(American Psychiatric Association,2013)。两种新的诊断标准为研究反社会人格障碍和精神病态的概念问题提供了基础，Wygant 等 (2016)的研究表明，相比于原始的分类诊断,DSM-5替代模型中的反社会人格障碍评估与PCL-R有更高的相关( $\\scriptstyle { r = 0 . 5 9 }$ vs 0.88)。可见，替代模型中的定义一定程度上弥合了反社会人格障碍与精神病态之间的分裂。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2精神病态的多维性本质 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "传统的人格障碍分类模型将精神病态概念化为一种综合征（syndrome)，即精神病态的所有症状和特征之间存在中度至高度的相关，具有共同的病因学基础。但事实上，精神病态可能是一些具有独立病因学基础的特征的组合，不同特征之间并不具有很高的相关性，即精神病态的本质是多维性的(Lilienfeld,2018)。从精神病态多维性的角度出发，能够发现既往研究中可能存在的部分局限性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一个可能存在的局限在于用测量总分对精神病态进行评估，将精神病态看作一个整体结构。因为以往研究中的两因子模型表明，因子1和因子2分别承载着不同的精神病态特征信息，并具有独立的病因学基础。在理论方面（至少部分地)，因子1源自恐惧体验能力的下降，而因子2则来自冲动控制能力的受损(Patrick et al.,2009)。在实证研究中，两个因子在一些外部结果上的相关性也存在差异，甚至表现出相反的外部相关。比如因子2同时与内化（internalizing）和外化（externalizing）病理，冲动性存在正相关，而因子1则与痛苦，焦虑等消极情绪无关，或存在微弱的负相关，还与减少的冲动性存在联系(Harpur etal.,1989;Hicks&Patrick,2006)。在一个更精细的基于PCL-R的4个方面的研究中，发现缺乏预谋，缺乏毅力相关的冲动性的减少主要是由因子1中的人际方面，而不是情感特征方面驱动的。而这些因子所传达的独特信息或因子间的交互效应都会被总分所掩盖，这可能暴露了一种错误的精神病态研究方式，即过度关注精神病态的全部结构,缺乏对其分维度足够的注意(Lilienfeld, 2018)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二个可能存在的局限性在于过度关注冷酷无情（Callous-Unemotional）这一精神病态核心特质。冷酷无情特质量表(the Inventory of Callous-Unemotional Traits,ICU; Frick,2004)包含了三个相关特质，冷酷（callous）、漠不关心（unconcern）、以及无情（unemotional）(Walleret al.,2014)。冷酷无情特质在青少年人群中得到了广泛的研究，已被证实是个体生命发展过程中一个相对稳定的特质，且能够预测个体成年后的反社会行为，是精神病态以及品行障碍的一个重要的发展前体（precursors）(Flom& Saudino,2017)。但是单独的冷酷无情特质仅反映了精神病态在情感上的缺陷，对该维度的过度关注则忽略了其他有价值的重要信息。例如，在解释精神病态特质与攻击性行为关系时，冷酷无情和冲动性对攻击性行为的影响途径是不同的。Preston 和 Anestis (2019)发现冷酷无情特质是通过共情能力受损来促进个体的主动性攻击，而自我中心冲动性（Self-Centered Impulsivity）则可以通过共情能力降低和情绪失调同时增加个体的主动性和反应性攻击倾向。而且，除了冷酷无情特质外，多种特质的混合更能体现精神病态完整的临床表现。Berg 等 (2017)邀请了具有临床心理学知识背景的被试评估一系列文本信息所描述的内容与精神病态的相似性，发现当一些适应性特质（无畏，支配力）的描述添加到精神病态典型的适应不良特质（冷酷无情，冲动）描述中时，被试评估的文本与精神病态的相似性也显著提高了。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，许多研究者都强调了将精神病态作为一个多维结构来进行概念化的重要性(Hare& Neumann,2005; Lilienfeld et al.,2014; Patrick et al.,2009)。在临床中评估精神病态时，将多个维度进行结合能够得到更丰富，更有干预价值的临床信息。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3精神病态测量的三个转变",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PCL-R所引起的精神病态实证研究热潮兴起后，该领域内便长期地处于一种百家争鸣的局势。随后出现的较具影响力的精神病态测量，如精神病态人格问卷(PsychopathicPersonality Inventory-Revised，PPI-R；Lilienfeld & Widows，2O05)，三元精神病态测量(Triarchic psychopathy measure,TriPM; Patrick,2O1O)，在一片争议中脱颖而出(Lilienfeld et al.,2012;Miller&Lynam,2012a,2012b)，将精神病态的测量推入了一个新的阶段。尽管和PCL-R一样都基于Cleckley 对于传统精神病态的描述，但相比之下，新兴的精神病态测量发生了三个重要的转变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，测量人群由临床和监狱群体向正常群体转移。虽然历史上精神病态主要在犯罪人群中进行研究，但是心理病理学的层级分类模型(TheHierarchical TaxonomyofPsychopathology,HiTOP;Kotov et al.,2017)指出人格特征在正常和临床人群之间的连续性,人格病理的研究需要同时关注异常人群与健康人群中所传达出的病理学特征(Kotov et al,2017;Krueger et al.,2018)。Latzman 等 (2017)也提到，精神病态代表了一种基于基本生物行为特征的多维结构，呈现出的是水平上的差异，而非类别。以这种方式来看，研究包括临床和非临床样本在内的一系列人群的这些基本维度分布，以及机构人群和非机构人群之间的相似性和差异性可能会为精神病态在正常情况下的表现，与障碍相关的潜在病因以及不良结果和治疗方法的特异性等方面提供进一步的见解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，反社会行为的外显行为评估减少了，而是转向与精神病态相关的人格特质。越来越多的研究者认识到反社会/犯罪行为应该被视为可能的后果，而不是精神病态的组成部分(Boduszek & Debowska,2016; Boduszek et al.,2017; Skeem & Cooke,2010a,2010b)。PCL-R 中因子2的评估涉及到了大量的反社会行为指标，使用PCL-R在监狱进行精神病态评估可能会高估了犯罪者样本中的精神病态患病率(Boduszek & Debowska,2016;Edens et al.,2001)。当放弃反社会行为相关内容作为测量项目，使用基于特质的精神病态测量时，监狱人群与大学生群体中的高度精神病态比例均为 $7 \\%$ 左右(Boduszek etal.,2019)，表明囚犯群体并不比非囚犯表现出更严重的精神病态程度，为反对将犯罪/反社会行为纳入精神病态评估提供了重要的实证证据。因此，在非临床和非监狱人群中使用自我报告的，基于人格的测量，可能会捕获完整的精神病态特质，同时避免了对犯罪或反社会行为的过度关注。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，新兴的精神病态测量模型为精神病态的研究提供了一条整合的路径，尤其是三元精神病态模型。该模型的设计目的是建立一个理论结构，该结构不仅将精神病态的概念与正常人格和精神病理学的更广泛的维度模型联系起来，提供了一条理解临床精神病态、犯罪精神病态和成功精神病态的整合框架，还进一步为精神病态病因学及其可观察症状背后的核心过程的研究提供了启示(Patrick&Drislane,2015)。如图2所示，大量实证研究已经建立起了三元精神病态模型与其他领域的丰富的关系网络，包括五因素人格、神经生理学、遗传病因学和发展途径等(Dotterer et al.,2017; Latzman et al.,2017; Patrick & Drislane,2015; Sleep et al,2019;Tuvblad et al.,2018)。接下来，我们将着重介绍三元精神病态模型，并将其与现有的精神病态的认知，情感相关的实证研究进行整合，提供一个相对完整的精神病态认知一情感加工框架。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "少 1， 早期发展轨迹 遗传效应解释的变异约占24%\\~65% 遗传病因学 数以查核为核心良的基惧系统 神经生理学基础铺 神经质（外倾性7个弱正相关 i中等正相关 V鲜W 成人器、现稳定的在退√ 去抑制 -.-·-·-·-· 遗传效应解释的变异约占43%-66% 早期发展轨迹￥ V 遗传病因学-..-.-.-.-.-.-.. 3-岁时现出的低的反制题； 遗传效应解释的变异约占13%\\~49% ，发有 P负责早期发展轨迹 遗传病因学 神经生理学基础 人格特质-.-",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图2.基于TriPM 模型的整合的精神病态认知一情感加工框架。注：FFM $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 五因素人格模型 (Five Factor Model); PID-5$\\mathbf { \\sigma } = \\mathbf { \\sigma }$ DSM-5人格量表 (Personality Inventory for DSM-5)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.三元精神病态模型的内在结构",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1 大胆 (boldness)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大胆用来描述在危险和威胁面前能够保持镇静、考虑自身情境的能力，从应激事件中迅速恢复，高的自我肯定（self-assurance）和社会效能（social potency），对危险和陌生的忍耐力(Patrick&Drislane,2015;Patrick etal.,2009)。在人格领域中，大胆所包含的特征与低神经质和高外倾性存在较大的重叠(Hyattet al.,2019)。在心理病理学维度中，大胆在外化（0.41)和内化因子（-0.33）上存在交叉负荷(Latzman et al.,2020)，与反社会行为、攻击性和物质滥用等外化症状存在微弱的相关（平均相关为0.10)，和焦虑、抑郁等内化症状存在中等程度的负相关（平均相关为-0.36)，表现出高感觉寻求、自尊和社会效能的个人特征(Sleep et al,2019)。在其他精神病态测量中，大胆对应于PCL-R中的人际层面（facet1)，以及PPI中的无畏支配维度（fearless-dominance）(Patrick et al.,2009)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型的争议主要集中在这一表型结构上。Miller 和 Lynam (2012a,2012b)认为精神病态应体现的是适应不良特质的集合体，而大胆所包含的特质是高度健康的、适应性的表现，且与精神病态典型的外化症状无关，于是对大胆这一结构作为精神病态重要表征的做法提出质疑。而支持者表明，大胆所反映的内容在Cleckley 对精神病态的描述中便有所体现，代表了精神病态带有“掩饰性”（mask）的成分(Lilienfeld et al.,2012)，即精神病态适应不良的核心特征会被有魅力的，缺乏焦虑和神经质症状，具有社交潜力等适应性的表象所掩盖。而后有研究者对Cleckley 记录的精神病态案例所具有的特征进行了定量评分，其中大胆、自信、低焦虑特征的评估都得到了高分，这些都是三元模型中大胆特征的体现(Crego&Widiger,2016)。以往研究过度关注精神病态的典型适应不良特征（冷酷无情和冲动）却忽略大胆是有失偏颇的，精神病态包含了多项复杂的混合特征，反映了表面的健康以及内部的心理功能障碍，将这些特征同时进行研究是必要的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Patrick 等 (2009)认为大胆作为精神病态的一种表型结构，是深层次无畏基因型（genotypic fearlessness）的一种表达。无畏代表了一种基于基因的基本倾向，对应于威胁敏感性（threat sensitivity）的神经行为维度。正常情况下，个体检测到环境中的威胁相关条件线索时，声音或图像的感觉信息会通过丘脑（thalamus）先到达作为感官输入子系统的基底外侧杏仁核（basolateral amygdala,BA），随后传至行动动员的子系统，即杏仁核的中央核（central nucleus of the amygdala,CeN)。通过这条神经通路，当恐惧或威胁相关的条件刺激出现时，以杏仁核为核心的防御系统便会自动激活并作出回避反应。而三元精神病态模型的大胆则被认为反映了个体在基于杏仁核和相关结构的大脑核心防御系统对威胁或惩罚线索的敏感性的降低，从而表现出应激免疫，低恐惧和对惩罚不敏感的特点(Patrick& Drislane,2015;Patrick et al.,2009)。大胆所展现出的高社会效能、心理弹性和勇敢可以被认为是无畏基因型的一种温和的表达方式，它在表型上有别于攻击性的外化异常行为，展现出适应性的倾向。相比之下，冷酷无情/卑劣则是低恐惧的一种恶性表达，展现出了高度的人际对抗和外化等适应不良的症状。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2去抑制(disinhibition) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型中的去抑制描述了一种表型倾向性的冲动控制问题，包括缺乏计划性和远见，对情感和冲动的调节不力，坚持即刻满足和缺乏行为约束，可以被看作是冲动性和消极情感之间的纽带(Patrick&Drislane,2015)。从三元精神病态模型的角度来看，去抑制必须结合以大胆或卑劣的形式出现的情感解离（emotionaldetachment)，才能形成精神病态的诊断标准。在人格领域中，去抑制主要反映了低尽责性和高神经质有关的特质集合(Hyatet al.,2019)。在HiTOP 模型(Krueger et al.,2018)中，去抑制对应了两种外化谱系中的去抑制外化（disinhibition externalizing），其与反社会行为、攻击性等外化症状（平均相关为0.44)，以及焦虑、抑郁等内化症状（平均相关为0.33）均存在中等程度的正相关，表现出易冲动的个人特征(Sleep et al.,2019)。与其他精神病态测量进行对照时，去抑制与精神病态冲动反社会因子（factor 2）存在高度相关(Patrick et al.,2009)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Patrick 等 (2009)认为去抑制表型结构的发展可追溯到儿童时期所表现出的困难气质，包括早期便存在的的高负面情绪、易怒、高度活跃、注意力集中缺陷以及对新异环境的较差的适应性。有纵向研究为这一假设提供了证据，指出精神病态个体早在3\\~5岁时便表现出了低反应控制的特点(Dotterer et al.,2017)。同时，大量的研究表明，较差的自控力和去抑制在个体生命发展过程中是相对稳定的(Caspi et al.,2005;Patrick,2018)，而且这种抑制控制的缺陷具有较高的遗传倾向。在 Tuvblad 等(2018)的双生子研究中，共享遗传效应解释了去抑制 $49 \\%$ 的变异。Venables 等(2016）将去抑制相关的量表与P300 数据进行结合形成的综合指标与药物滥用的症状显示中度的表型相关 $( r { = } 0 . 4 4 )$ ，而共享遗传因素解释了其中 $89 \\%$ 的协方差。这些结果表明，精神病态所表现出的冲动相关的行为问题以及异常神经生理指标之下，是具有高度遗传性的去抑制倾向。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3卑劣 (meanness) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型中的卑劣意味着缺乏共情和亲密关系，对他人表现出蔑视，掠夺性剥削以及通过残忍或破坏性的手段获得权力。卑劣在Cleckley 的精神病态概念中是核心，通常体现为傲慢和嘲弄，对权威的蔑视，缺乏亲密的人际关系，对人和动物的残酷虐待，主动性攻击，操纵和欺骗他人谋取利益，以及通过破坏寻求兴奋，反映了人际上的对抗(Patrick&Drislane,2015;Patrick et al.,2009)。在人格领域中，卑劣与低宜人性存在联系(Hyatt et al.,2019)。在 HiTOP 模型(Krueger et al.，2018)中，则对应了另一种外化形式，对抗外化（antagonisticextermalizing)。卑劣与反社会行为、攻击性等外化症状存在中等程度的正相关（平均相关为0.38)，与焦虑、抑郁等内化症状存在微弱的联系（平均相关为0.17)，表现出低共情和低观点采择的个人特征(Sleep et al.,2019)。三元模型的卑劣维度对应于 PCL-R 中的情感层面（facet 2)，以及ICU 所测量的冷酷无情特质(Patrick etal.,2009)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Patrick 和 Drislane (2015)认为卑劣在三元精神病态模型中起到了“表型胶”（phenotypicglue）的作用，将三个表型结构联系了起来。一方面，卑劣和大胆共同反映了无畏基因型对个体发展的潜在影响。无畏基因型所导致的对惩罚和威胁线索的不敏感除了会发展出社交自信、领导力和勇敢这样的适应性特征，还会限制个体对惩罚线索形成条件性情感反应的能力，影响个体对规则或规范的内化，阻碍良心的发展，从而形成卑劣或人际对抗的适应不良后果。另一方面，卑劣和去抑制则都受到了困难气质和后天教养环境的影响。具备困难气质的儿童会表现出高负面情绪、易怒的特点，在需要维持注意时表现不佳，难以适应环境中的变化，而这些会和父母的教养方式相互影响。若父母的胜任力不足，则个体建立安全依恋关系，内化社会规范的进程便会极为艰难，从而导致行为抑制能力的不足和对抗性人际风格的发展。卑劣代表了三种维度之间的病因交汇点，在遗传水平上与抑制作用相关联，并通过环境的塑造作用与去抑制和大胆相联系(Latzman et al.,2017)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.三元精神病态结构与认知一情感加工缺陷的联系",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型假设精神病态是由三个不同的表型结构组成的，即大胆、卑劣和去抑制。三个表型结构之下蕴含着更深层次的病因学和发展途径相关的内容，为精神病态研究提供了一个广阔的框架。接下来，本文尝试将精神病态认知一情感加工过程中的一些缺陷（低威胁敏感性、执行功能受损和共情缺陷）与三元精神病态模型所包含的三个结构建立联系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1大胆和低威胁敏感性",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "威胁敏感性是对威胁刺激（如厌恶、惊吓、惩罚）作出防御性反应的一种普遍倾向，被认为反映了个体在基于杏仁核和其相关结构的大脑核心防御系统的反应性上的差异，是三元精神病态模型中的大胆在神经生理层面上的体现(Patrick&Drislane,2015)。精神病态个体所表现出的应激免疫（低焦虑）和低伤害回避（低恐惧）可能源于核心防御系统受损所产生的低威胁敏感性。因为在精神病态研究中有一个长期存在的观点，即精神病态存在恐惧反应的缺陷(Patrick,2018)。恐惧反映了在面对迫在眉睫或不可避免的危险时作出的反应，与之相关的脑区主要是杏仁核的外侧核（lateral amygdala,LA）和中央核（CeN)。Kramer 等（2011)在一个成年双生子样本中对一系列测量恐惧或缺乏恐惧的量表进行了探索性因子分析，最终提取出了一个高阶因子，并将其解释为威胁敏感性，表明了缺乏恐惧反应之下所蕴含的一种更普遍的倾向。在后续研究中，Yancey 等 (2016)还建立了威胁敏感性的一系列神经生理指标，如威胁线索下的惊吓增强反应、肌电反应、心率等。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "精神病态存在低威胁敏感性的构想最早在低恐惧模型(Lykken，1995)中便有所体现。低恐惧模型认为，低的恐惧/威胁敏感性使这些人的父母或其他养育者在试图塑造他们的行为，灌输亲社会态度和形成内在约束时所施加的各种威胁或惩罚的强化效果较其他人要小(Lykken,1995)，这可能表现在个体行为抑制系统反应性的降低。其他的精神病态相关特征，如兴奋寻求、缺乏内疚感、肤浅的魅力都是低恐惧引发的后续连锁症状。时至今日，许多实证研究为精神病态的低威胁敏感性提供了证据。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第一，威胁敏感性的相关缺陷会在神经生理层面有所体现。已有的研究检验了精神病态和正常个体的杏仁核结构特性，发现精神病态的确与杏仁核的外侧核(LA)和中央核（CeN)的体积异常有关(Boccardi et al.,2011; Yang et al.,2009)。而在激活水平上，精神病态个体的杏仁核激活水平与正常人也存在差异，表现为中央杏仁核（CeN）过度激活，而基底外侧杏仁核（BA）则激活不足(Mouletal.,2012)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二，低威胁敏感性意味着精神病态个体在各种情境中较少对威胁线索或引发恐惧的刺激做出反应。惊吓是对无条件或有条件危险刺激的自动防御反应，在证实精神病态低恐惧的研究中得到了广泛应用。在一系列对照实验中，高精神病态得分组在面对恐惧相关线索时比正常组表现出更少的惊吓反应(Baskin-Sommers et al.,2013; Justus & Finn,2007; Sutton et al,2002)，而其他的与危险相关的自动化反应，比如皮肤电导反应，也表现出了反应性的降低(Thomson et al.,2019)。当单独考虑精神病态的无畏特征时，精神病态人格问卷(Psychopathy",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Personality Inventory,PPI; Lilienfeld & Andrews,1996)中的因子1无畏支配(fearless dominance)分数高的被试，在不同厌恶线索增强的惊吓反射（aversive startle potentiation）中也表现出反应减少(Benning et al.,2005; Dindo & Fowles,2011; Lopez Penades et al.,2012)。这些研究表明精神病态的惊吓反应与大胆或无畏相关的自我报告评分呈现负相关，这与低威胁敏感性的假设是一致的。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第三，与威胁相关的条件反射的研究也支持精神病态低威胁敏感性这一假设。在一项以厌恶性的气味作为无条件刺激（US)，建立威胁相关的条件反射的研究中，精神病态个体表现出了威胁联结学习上的功能受损(Flor et al.,2002)。在另一项以面孔作为条件刺激(CS)，以电击作为非条件刺激(US)的恐惧条件作用任务中，精神病态个体也表现出了条件反射反应性的降低，而且这种异常主要是由人际-情感（因子1）驱动的。可以由此推测，正常人会对环境中预示着危险的信息建立条件反射，在暴露于相应情境时便会产生恐惧体验，而精神病态个体危险联结学习的缺陷导致他们在危险相关的情境中并不会产生条件性的恐惧反应。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第四，在精神病态亚型的研究中也存在证明精神病态低威胁敏感性的证据。Gill 和Stickle (2016)在一个青少年服刑样本中发现了原发性精神病态亚型的存在，该组人群展现出了远低于普通罪犯的自我报告的焦虑，抑郁和行为抑制系统（BIS）得分，侧面反应了由缺乏恐惧引起的威胁或惩罚敏感性的降低。在大量以人为中心的精神病态研究中，经常稳定地出现一个符合原发性精神病态理论描述的精神病态亚型，在人际方面(Poythress et al.,2010)、无畏支配(Garofalo,Sijtsema, et al.,2020; Lee & Salekin,2010)、情绪稳定性(Bronchain et al.,2020)上的得分显著高于其他亚型，表现出高度的应激免疫和较低的伤害回避倾向，这些都是低威胁敏感性的体现。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在大胆或无畏程度较高的个体中，防御系统的反应水平通常较低，从而表现出对威胁或恐惧相关线索的不敏感。这些个体在童年时容易表现出无畏的气质，而在青春期和成年期往往发展出社交自信、冒险精神和情绪弹性的特征。但是这些反映的内容都是低威胁敏感性导致的一系列良性的发展结果，如社会统治力、应激免疫等，而精神病态的核心特征更多的是人际对抗和冷酷无情等适应不良的结果。这就需要考虑，低威胁敏感性和哪些病因学因素相互作用从而导致了这些适应不良的恶性后果，而三元模型的其他结构可能便包含了这些信息。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2去抑制与执行功能受损",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在神经行为研究中，纹状体（Striatum）的多巴胺奖赏系统和前额皮层（prefrontal cortex）",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "相互作用能够使个体在目标导向和情绪调节过程中约束和指导行为，而这些区域的受损会导致个体在面对延迟目标时抑制行为和调节情绪上出现困难(Patrick et al.,2012)。这些都是执行功能受损的体现，其外在表现为抑制控制能力的不足，构成了许多外化病理共同的病因学基础，包括三元精神病态模型中的去抑制(Patrick,2018)。三元精神病态模型中的去抑制与执行功能之间的关系已经被许多神经生理学和行为研究所证实。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "首先，高度外化或去抑制的个体通常会表现出与认知一执行功能受损有关的异常大脑反应。一方面是P300振幅的降低。P300 是神经层面抑制控制能力的反映，神经元过度兴奋性作为一般外化问题的常见风险因素与 P300 振幅的降低存在联系(Patrick et al.，2006)。Venables 和 Patrick (2014)使用oddball 任务在一个男性罪犯样本检验了 PCL-R 的得分与P300 反应的关系，发现其中与去抑制高度相关的冲动一反社会（因子2）分数的增高和 P300幅度的降低有关。在另一项男性罪犯样本的研究中，Venables等 (2015)检验了个体在观看情绪性和中性图片时的皮质电反应（electrocortical response）与精神病态因子之间的关系，发现 PCL-R冲动一反社会(因子2)分数的提高与观看图片后出现的早期 P300 电位振幅的降低有关，且这种关系不受图片所展示的情绪效价的影响。而人际一情感(因子1)分数则仅与观看厌恶图片后晚期正电位反应的降低有关。这些研究将三元精神病态模型中的去抑制与P300 建立了联系，表明了高度去抑制个体抑制控制功能的受损。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "另一方面是错误相关负波（error-related negativity,ERN）振幅的降低。错误相关负波是由行为错误诱发的一种脑电波成分，经常被看作是行为监测功能的神经生理指标，其振幅降低表明了个体行为监测功能的受损。以往研究对精神病态特质与个体在go/nogo 任务中的行为和神经生理表现之间的关系进行了大量的探索，发现高精神病态得分的个体在go／nogo 任务中通常会作出更多的错误反应，其中错误反应的次数与去抑制特质的联系最为密切。Paiva 等 (2020)检验了参与者在进行go／nogo任务时的事件相关电位，发现三元精神病态模型中的去抑制和错误相关负波振幅的降低存在联系。Ribes-Guardiola 等 (2020)对此进行了更精细化的研究，将个体在go/no go与flanker 任务中的表现进行了对比，结果发现高去抑制的参与者仅表现出在no-go 时错误相关负波（ERN）的降低，在 flanker任务中则没有。他们推测，去抑制特质可能反映了在处理重要动机性事件的后期精细化阶段中大脑反应性的降低，从而表现出对优势反应（prepotent response）倾向的抑制能力不足。这些研究将三元精神病态模型中的去抑制与错误相关负波建立了联系，表明了高度去抑制个体加工动机性事件和行为监测功能的受损。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "其次，在精神病态病因学研究中较具影响力的反应调节假说(Response Modulation",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Hypothesis;Newman,1998)也为精神病态执行功能受损提供了支持。根据反应调节假说，精神病态的核心缺陷本质上是认知缺陷，尤其是注意缺陷。正常个体的注意会发生周期性的转移，从当前的行为转向对环境中线索的评估，确定当前的行为是否适当，从而根据需要调整自身的行为。而针对精神病态个体，反应调节假说认为在主导反应定势(dominant response set)存在的情况下，该群体的注意很难转移到其他背景线索上，难以根据环境中的其他信息调整自己的行为，从而表现出冲动和行为抑制的困难。主导反应定势在实验中通常指首要任务或首要的注意焦点，而背景或环境线索涉及任何次要的实验任务或注意焦点(Smith&Lilienfeld,2015)。这一假设与神经生理研究中提到的前额叶皮质和奖赏系统功能紊乱所导致的冲动性后果的描述吻合，可能反映了高去抑制个体执行功能的受损和对奖赏的非理性追求。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "关于精神病态个体对惩罚线索的不敏感，反应调节假说的解释和低恐惧模型不同，认为对惩罚没有反应并不是因为缺乏恐惧，而是由于精神病态个体的反应坚持性(Smith &Lilienfeld,2015)。反应坚持性代表了一种不顾环境线索（比如惩罚)，继续参与反应的倾向。精神病态其实有能力从惩罚中学习，前提是避免惩罚被确立为一种主导的反应，并且不与奖赏事件相竞争。为了验证这一假设，Newman 和 Kosson（1986）设置了两种 go／no go 任务情境。在第一个试验中，参与者如果回答正确，就会得到金钱奖励；如果回答错误，就会受到损失金钱的惩罚。而在第二次试验中，参与者开始时便获得了一定量的钱，过程中对正确的回答不给予奖励，但错误的反应会受到损失金钱的惩罚。结果和假设一致，第一个任务中由于同时存在奖励和惩罚的机制，精神病态个体将获得奖励设为主导反应，便忽略了惩罚线索，比非精神病态组表现出更多的错误反应。而第二个任务中只存在避免惩罚的机制，于是避免惩罚成为主导反应时，精神病态组的表现和控制组没有显著差异。这证明了精神病态个体反应坚持性的存在，难以抑制寻求奖励的主导反应，也为精神病态执行功能缺陷提供了证据。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "除了在动机性（追求奖励）事件中存在抑制控制的困难，在动机中性事件中也观察到了去抑制特质与执行功能受损存在联系的证据。Delfin 等 (2018)使用剑桥自动化成套神经心理测试（Cambridge Neuropsychological Test Automated Batery；CANTAB）检验了精神病态特征与执行功能的联系。该测试包含了了执行功能的四个方面：认知灵活性、工作记忆、抑制控制和计划一问题解决，所选取的任务分别为内外空间成套变换（IEC）、空间工作记忆（SWM)、停止信号任务（SST）和剑桥袜（SOC)。结果发现精神病态的冲动-反社会因子（和去抑制高度相关）与计划一问题解决任务（SOC）中减少的初始思考时间显著相关。去抑制特质所描述的缺乏计划和缺乏思考的行动通过较低的平均初始思考时间得到了体现。同样的结果在其他的研究中也存在，高去抑制的个体在不涉及奖赏惩罚的计划和问题解决任务中表现较差(Bagshaw et al.,2014; Baskin-Sommers et al.,2015)。这也为反应调节假说提供了证据，即高去抑制特质的个体存在普遍的注意缺陷，一旦确立了目标导向行为便难以将注意转移到背景环境中，表现出抑制控制的困难(Smith&Lilienfeld,2015)。而动机性系统（尤其是奖励）可能会加重高去抑制个体执行功能的缺陷，使其在任务中表现得更差。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型中去抑制的一个重要外部表现是导致各种适应不良后果（如惩罚）的冲动性行为，而执行功能受损很好地解释了这一部分。可是三元精神病态模型对精神病态的定义是多维化的，虽然三个表型结构间存在微弱或中等程度的相关，但实际上反映的是三个基于不同病因学基础的独特结构。而且有研究发现精神病态的因子1（人际一情感）与因子2（冲动一反社会）与执行功能的联系是不一致的。人际一情感特征上得分高的精神病态具有正常或高于平均水平的额叶执行能力和P300 振幅，而那些在冲动-反社会特征上得分高的精神病态额叶执行能力和 P300 振幅则有所下降(Pasion et al.,2017;Weidacker et al.,2017)。这意味着难以通过单独的执行功能受损来解释精神病态的全部临床表现。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.3卑劣与共情缺陷 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Verschuere 等(2018)基于PCL-R对三个跨文化样本进行了网络分析，发现情感特征中的缺乏共情是精神病态最核心的特征。共情包括情感共情和认知共情，情感共情指个体对他人情绪产生一致的替代性体验，认知共情则指通过联想或观点采择的过程来理解他人的情绪(Cox et al.,2012)。已有研究表明，精神病态个体缺乏的主要是情感共情的能力(Brouns et al.,2013)。由于人际交互过程中的复杂性，很少有病因学理论能对卑劣的发展进行完整的概括，但是已有的大量研究都发现了冷酷无情特质与共情能力不足之间的独特联系，并将精神病态卑劣或冷酷无情的病因指向了共情的缺陷。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "首先，精神病态存在主观情绪体验的减少，而这会影响到个体的共情能力。对于情绪的主观体验，脑岛（Insula）和前扣带回皮质（anterior cingulate cortex,ACC）是至关重要的大脑区域(Hoppenbrouwers et al.,2016)。其中，前扣带回皮质已被强调是抑制过度情绪反应的重要区域，与个体意识到的疼痛（pain）体验有关(Viswanathan et al.,2013)。而脑岛被激活的情境通常涉及到自我或他人的体验，无论刺激是行动（motoric）、疼痛还是情绪。前岛叶(anterior insula,AI）则被证明与个体的疼痛加工和共情有关(Kanel et al.,2019; Kogler et al.,2020)。有证据表明，精神病态个体对自己的痛苦（distress）表现出了更低的生理唤醒，比如恐惧和愤怒有关的前扣带回皮质反应性的降低(Flasbeck et al.,2019; Sethi et al.,2018)。在与情绪体验有关的大脑结构和功能上也与正常个体存在差异，包括精神病态个体的脑岛变薄，以及脑岛和前扣带回皮质的功能连接性降低(Ly etal.,2012)。这些主观体验的减少可能会导致共情功能障碍，从而表现出精神病态应激免疫和冷酷无情的特征(Shirtcliff et al.,2009)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "其次，共情缺陷涉及到对他人的痛苦缺乏敏感性，而精神病态个体确实存在痛苦线索识别能力的不足。以往诸多情绪识别的研究表明，具有精神病态特质的青少年和成人存在情绪识别功能的受损，且这种损伤是有选择性的。例如，他们对愤怒和厌恶的表情有正常的识别能力，但对痛苦表情(即恐惧和悲伤)与快乐表情的处理存在缺陷(Gillespie et al.,2019; Mooreet al.,2019;White et al.,2012)。由杏仁核，以及与替代性体验（vicarious experience）有关的大脑结构，如前岛叶（AI）和前扣带回皮层（ACC)，组成的情感共情系统的受损，可能是精神病态卑劣或冷酷无情的重要神经生理基础。Blair (2013)认为，基底外侧杏仁核（BA)涉及情绪有关的感觉信息的输入，与个体的面部情绪识别缺陷有关，而具备高冷酷无情特质个体的杏仁核对痛苦相关线索的激活水平降低，继而导致了个体在对他人痛苦进行共情的能力不足。Seara-Cardoso 等 (2015)的研究也发现，精神病态的人际一情感特征（因子1）的增高与对他人痛苦的感受性降低有关，表现出前岛叶皮层和前扣带皮层激活水平的降低；而冲动反社会特征（因子2）与痛苦感受性的关系与因子1相反。这些结果表明了与情感共情相关的大脑结构反应性不足会导致精神病态个体共情敏感性的降低，从而表现出冷酷无情或卑劣的外显症状。许多遗传病因学研究已经证实，卑劣或冷酷无情表现出了比较强的遗传效应(Latzman et al.,2017; Tuvblad et al.,2018)，而且冷酷无情特质与痛苦线索的识别缺陷之间具有部分共享的遗传病因(Moore et al.,2019;Petitclerc et al.,2019),表明卑劣特质与共情缺陷之间的联系是受基因影响的。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "第三，早期不安全的依恋会影响共情能力的发展，而精神病态个体确实难以建立安全的依恋关系。精神病态的情感维度，即卑劣或冷酷无情特质，与早期不安全的依恋风格，尤其是回避型依恋（低承诺，低共情，人际犬儒主义）相关(Christian et al.,2017; Jonason& Buss,2012;Vanheule&DeGanck,2015)。而且大量的研究发现，不安全依恋模式会导致个体表现出更低的认知和情感共情能力(Ardenghi et al.,2019; Stern & Cassdy,2017)，这会促进个体对他人的冷漠、剥削态度，逐步发展为卑劣的特征(Patrick et al.,2009)。可以推测，早期的困难气质以及不敏感，或缺乏反应性的养育方式导致了不安全的依恋关系，使得个体在后期的人际交往中回避情绪，依赖和亲密关系，较少关注他人的情绪体验，对人际关系表现出消极的态度(Patrick etal.,2009)，这必然会与个体的共情能力发展相互影响。从依恋的角度来讲，精神病态个体的卑劣可能是回避型依恋风格在人际交往中的体现，是一种先发制人的反击，以应对他人会利用、支配和残忍对待他们的预期，这些都是低共情敏感性的体现。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "情感有关的大脑结构和功能的受损，是导致共情缺陷的重要神经生物学因素。而不安全的依恋则是导致共情缺陷的重要环境或家庭因素。这些都可能使个体发展出缺乏亲密关系、人际对抗等卑劣的特征。三元精神病态模型将精神病态的社会缺陷描述为主动地脱离（disaffiliation)，描述了为达目的不择手段，完全不顾及他人的感受的一种倾向(Patrick et al.,2009)。这种主动地脱离可能是由共情缺陷驱动的，代表着三元精神病态卑劣的核心病因。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.讨论与研究展望",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "现有的关于精神病态的认知和情感缺陷的研究成果很丰富，其来源也是多样的，有来自反社会人格障碍的证据(刘宇平 等，2019)，也有受到冷酷无情特质研究的启发(肖玉琴 等，2014)。本文尝试将当前较有影响力的三元精神病态模型与精神病态的低威胁敏感性、执行功能受损和共情缺陷进行整合，并提供了一个相对完整的精神病态认知一情感加工框架，给予了一些精神病态理论研究和临床治疗中的有用信息。但是该框架并不能解释精神病态所有的临床特征，因为影响精神病态特征发展的因素是丰富的。性别、种族、年龄、样本类型和测量方法在精神病态的研究中都是重要的调节变量(Sleep et al.,2019)，可能都会影响到精神病态特质与认知和情感缺陷之间的关系。文中的所列举的精神病态人群的认知与情感缺陷包含了该领域内较为成熟的大量研究结果，但并不能囊括所有已知的认知、情感缺陷。在此，我们认为未来精神病态研究中需注意以下几个关键点：",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.1三元精神病态结构之间的区分效度",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "三元精神病态模型假设大胆、卑劣和去抑制三种表型结构具有不同的病因学基础，大量的实证研究对此假设进行了检验，所得结果也争论不一。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "一方面，已有的证据表明，高大胆所反映的低威胁敏感性和高去抑制所反映的执行功能受损具有显著的排他性。Yancey 等(2016)通过对一系列量表和生理数据进行因子分析建立了威胁敏感性的心理神经测量学（psychoneurometric）定义，发现威胁敏感性与恐惧相关障碍均表现出了较高的相关，而与物质使用障碍、oddball任务中的P300 电位（均被认为是去抑制/执行功能受损的表现)则呈现微弱相关或完全不相关(Kramer et al.,2020;Nelson et al.,2016;Yancey etal.,2016)。这些证据支持了大胆和去抑制两种结构，及其所对应的加工缺陷的区分效度。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "另一方面，心理病理学的层级分类模型（HiTOP）尝试重新定义现有的DSM分类诊断体系，其强调了一般性心理病理因素（P因素）的存在。这意味着尽管现有的所有精神疾病之间存在各自独特的症状和病因学基础，但是的确存在一个P 因素，会对所有疾病产生影响。目前的研究认为这个P因素是一种认知能力上的缺陷，尤其是执行功能(Krueger et al.,2018)。而在精神病态中，也有研究证明了P因素的存在，而且这个一般性精神病态因子的遗传效应达到了 $64 \\%$ (Latzman et al.，2017)，暗示了精神病态结构之间可能存在潜在的共同病因学基础。这在本文中整合性的精神病态病因学框架中也有所体现，如卑劣和去抑制结构都涉及认知上的缺陷，而大胆和卑劣在神经生理学层面上的受损都涉及到了杏仁核。未来亟需具体研究从表型和病因学层面对三元精神病态结构的区分效度进行检验。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2精神病态的亚型",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "人格障碍分类模型对亚型的定义建立在不同的测量和诊断标准之上。相比之下，提倡精神病态多维性的研究者认为，亚型所反映的是一些人格特质在不同水平上的组合。近期越来越多的研究秉着维度化模型的观点，对精神病态相关特质进行聚类分析或潜在剖面分析，根据个体间特质水平的相似性划分出几个相对同质的类，并与理论描述中的精神病态亚型匹配。而此类研究中，几乎都出现了两个相对稳定的亚型，对应了理论描述中的原发性精神病态和继发性精神病态(Boduszek et al.,2019; Bronchain et al.,2020; Colins et al.,2018; Gill& Stickle,2016;Hicks etal.,2004)。两种亚型具有不同的病因学基础，普遍接受的观点是原发性精神病态代表了遗传性的情感缺陷，伴有冷漠无情，依恋能力丧失，表现出有限的内化问题，高度操控性和工具性或主动性攻击。相比之下，继发性精神病态通常被认为是由于不良环境，如虐待、缺乏教养、拒绝或忽视导致的情绪和行为调节功能障碍，从而表现出更冲动和更多的反应性的攻击行为(Hicks et al.,2012; Lykken,1995;Patrick,2018; Preston & Anestis,2019)。在 Gill 和 Stickle (2016)对青年少年精神病态亚型的研究中，继发性精神病态比原发性精神病态显示出了更频繁，更强烈的积极和消极情绪体验，并且这种情感体验中介了精神病态亚型与抑郁症状之间的关系。继发性精神病态虽然也存在反社会和冲动的普遍倾向，但是往往展现出高焦虑和伤害回避的神经质特点，具有一定的边缘性人格特征。而传统精神病态概念中，冷酷无情是精神病态的核心特征。从某种意义上说，继发性或症状性精神病态的概念是有问题的，并且具有误导性，因为它们暗示了这类人群也是精神病态的一种。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "归根到底，亚型的产生其实反映精神病态概念化过程中存在的一个核心问题，即什么才是真正的精神病态。尽管目前这一问题仍未解决，但可以预见的是，精神病态实质上是一种多维的结构。未来的研究中必须接受其多维结构的复杂性，避开只关注这种疾病的某一个子维度（如冷酷无情)，以及将精神病态作为单一整体的研究方法(Lilienfeld,2018)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3精神病态特征在生命发展不同阶段的体现",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "当前的大量精神病态研究都是采用横断研究的方法，研究对象集中在成年罪犯、临床和社区群体上。虽然大胆、卑劣和去抑制在成年人群中都可以通过相对稳定的外部行为表现（如应激免疫、低共情和冲动）和神经生理指标（如P300、杏仁核、额叶和扣带回反应性的降低）来体现，但是这些特征在生命发展的不同阶段是否连续是仍需研究澄清的。Dotterer 等(2017)曾对三元精神病态模型中大胆、卑劣和去抑制的发展稳定性进行了研究，检验了三个关键发展时期(3\\~5岁、9\\~11岁、15\\~17岁)内精神病态特征的外部表现。结果表明，大胆的相关特征表现出了生命发展过程中的连续性，成年后大胆特征高的被试在生命早期就表现出了较低的反应性控制，较少的内化特征和更强的弹性。而去抑制相关特质在青春期后期（15\\~17岁）才表现出连续性，表现出较低的反应控制、更多的内化、外化和物质使用问题。而卑劣在发展过程中并不稳定，在不同的年龄段有不同的表现。这可能源于此研究中精神病态特征的测量是通过正常人格评分转化过来的，难以捕获精神病态适应不良的特征。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "使用不同类型（临床，非临床）和年龄（儿童，青少年，成人）的样本开展精神病态纵向研究是必要的。对于精神病态的治疗，在青少年群体中往往表现出比成年人更好的治疗效果(Ribeiro da Silva et al.,2019)。而生命不同阶段中稳定的，有效的精神病态生理或行为指标是进行干预，诊断和治疗的关键。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "刘宇平，赵辉，李姗珊，张卓，杨波.(2019)．反社会人格障碍的神经生物学基础及其司法启 示.心理科学进展,27(10),1726-1742.   \n肖玉琴，张卓，宋平，杨波.(2014).冷酷无情特质:一种易于暴力犯罪的人格倾向．心理科学 进展,22(09),1456-1466.   \nAmerican Psychiatric Association. (1968). Diagnostic and statistical manual of mental disorders (2nd ed.). Washington, DC: Author.   \nAmerican Psychiatric Association. (198O). Diagnostic and statistical manual of mental disorders (3rd ed.). Washington, DC: Author.   \nAmerican Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author.   \nAmerican Psychiatric Association. (2O13). Diagnostic and statistical manual of mental disorders (5th ed.). htps://doi.0rg/10.1176/appi.books.9780890425596   \nArdenghi, S., Rampoldi, G., Bani, M., & Strepparava, M. (2019). Attachment styles as predictors of self-reported empathy in medical students during pre-clinical years. Patient Education and Counseling,103. htps://doi.org/10.1016/j.pec.2019.11.004   \nBagshaw, R., Gray, N.,& Snowden, R. (2014). Executive function in psychopathy: The Tower of London，Brixton Spatial Anticipation and the Hayling Sentence Completion Tests. Psychiatry Research, 220. https://doi.org/10.1016/j.psychres.2014.07.031   \nBaskin-Sommers,A., Brazil, 1.,Ryan, J., Kohlenberg, N., Neumann,C.,& Newman, J. (2015). Mapping the association of global executive functioning onto diverse measures of psychopathic traits. Personality Disorders: Theory， Research， and Treatment， 6. https://doi.0rg/10.1037/per0000125   \nBaskin-Sommers, A., Curtin,J.,& Newman,J. (2O13). Emotion-modulated startle in psychopathy: Clarifyingfamiliareffects. JournalofAbnormalPsychology， 122. https://doi.0rg/10.1037/a0030958   \nBenning，S.，Patrick，C.，& Iacono，W.(2Oo5).Psychopathy， startle blink modulation，and electrodermalreactivityintwin men. Psychophysiology, 42， 753-762. https://doi.0rg/10.1111/j.1469-8986.2005.00353.x   \nBerg,J., Lilienfeld, S.，& Sellbom, M. (2017). The role of boldness in psychopathy: A study of academic and clinical perceptions. Personality Disorders: Theory， Research, and Treatment, 8. https://oi.0rg/10.1037/per0000247   \nBlair,R.J. R. (2O13). The neurobiology of psychopathic traits in youths. Nature Reviews Neuroscience, 14(11), 786-799. https://doi.org/10.1038/nrn3577   \nBoccardi,M.,Frisoni, G.B., Hare,R.D., Cavedo,E.,Najt,P.,Pievani,M.,Rasser,P.E.,Laakso, M.P.，Aronen,H.J.,Repo-Tiihonen,E.， Vaurio, O.， Thompson,P.M.,& Tiihonen,J. (2011). Cortex and amygdala morphology in psychopathy. Psychiatry Research: Neuroimaging, 193(2), 85-92. https://doi.org/https://doi.org/10.1016/j.pscychresns.2010.12.013   \nBoduszek, D.,& Debowska, A. (2016). Critical evaluation of psychopathy measurement (PCL-R and SRP-III/SF) and recommendations for future research. Journal of Criminal Justice, 44, 1-12. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2015.11.004   \nBoduszek, D., Debowska,A., Sherretts,N., Willmot, D., Boulton, M., Kielkiewicz, K., Popiolek, K., & Hyland, P. (2O19). Are prisoners more psychopathic than non-forensic populations? Profiling psychopathic traits among prisoners,community adults, university students, and adolescents. Deviant Behavior,1-13. https://doi.org/10.1080/01639625.2019.1665221   \nBoduszek, D., Debowska, A., & Willmott, D.(2O17). Latent profile analysis of psychopathic traits among homicide， general violent，property，and white-collar offenders. Journal of Criminal Justice,51, 17-23. htps://doi.org/https://doi.org/10.1016/j.jcrimjus.2017.06.001   \nBronchain,J.，Raynal，P.，& Chabrol, H. (202O). Heterogeneity of adaptive features among psychopathy variants. Personality Disorders: Theory， Research, and Treatment, 1l(1), 63-68. https://doi.org/10.1037/per0000366   \nBrouns, B.H., de Wied, M. A., Keijsers,L.,Branje, S., van Goozen, S. H., & Meeus, W. H. (2013). Concurrent and prospective effects of psychopathic traits on affective and cognitive empathy in a community sample of late adolescents. Jouranl of Child Psychology and Psychiatry, 54(9), 969-976. https://doi.0rg/10.1111/jcpp.12052   \nCaspi,A.，Roberts,B.，& Shiner,R. (2O05). Personality development: Stability and change. Annual Review of Psychology, 56, 453-484. https://doi.0rg/10.1146/annurev.psych.55.090902.141913   \nChristian,E.， Sellbom，M.，& Wilkinson,R.B.(2017). Clarifying the associations between individual differences in general atachment styles and psychopathy. Personality Disorders: Theory, Research, and Treatment, 8(4), 329-339. https://doi.0rg/10.1037/per0000206   \nCleckley, H. M. (1964). The mask of sanity: An attempt to clarify some issues about the so-called psychopathic personality (4th ed.). Saint Louis: C. V. Mosby Co.   \nCoid,J.，& Yang，M. (2011). The impact of psychopathy on violence among the household population of Great Britain. Social Psychiatry and Psychiatric Epidemiology, 46(6), 473- 480. htps://doi.0rg/10.1007/s00127-010-0212-4   \nColins, O. F., Fanti, K. A., Salekin, R. T., Mulder, E.,& Andershed, H. (2018). Psychopathy in detained boys: The search for primary and secondary variants in a clinical setting. PersonalityDisorders: Theory， Research, and Treatment, 9(5)， 408-419. https://doi.0rg/10.1037/per0000277   \nCox, C. L., Uddin, L. Q., Di Martino, A., Castellanos, F. X., Milham, M. P.,& Kelly, C.(2012). The balance between feeling and knowing: Affective and cognitive empathy are reflected in the brain's intrinsic functional dynamics. Social Cognitive and Afective Neuroscience, 7(6), 727-737. https://doi.org/10.1093/scan/nsr051   \nCrego,C.，& Widiger, T. A. (2016). Cleckley's psychopaths: Revisited. Journal of Abnormal Psychology, 125(1), 75-87. https://doi.org/10.1037/abn0000130   \nDelfin，C.，Andiné，P.，Hofvander，B.，Billstedt，E.，& Wallnius，M.(2018).Examining associations between psychopathic traits and executive functions in incarcerated violent offenders. Frontiers in Psychiatry, 9. https://doi.org/10.3389/fpsyt.2018.00310   \nDelisi, M. (2O16). Psychopathy as Unified Theory of Crime. New York: Palgrave Macmillan.   \nDindo,L.，& Fowles, D. (2011). Dual temperamental risk factors for psychopathic personality: Evidence from self-report and skin conductance. Journal of Personality and Social Psychology, 100, 557-566. https://doi.0rg/10.1037/a0021848   \nDotterer, H. L. Waller, R., Cope, L. M., Hicks, B. M., Nigg, J. T., Zucker, R. A., & Hyde, L. W. (2017). Concurrent and developmental correlates of psychopathic traits using a triarchic psychopathy model approach. Journal of Abnormal Psychology， 126(7)，859-876. https://doi.org/10.1037/abn0000302   \nEdens,J., Skeem, J., Cruise,K.,& Cauffman, E. (2001). Assessment of \\`juvenile psychopathy\" and its association with violence: A critical review. Behavioral Sciences and the Law, 19, 53-80. https://doi.0rg/10.1002/bsl.425.abs   \nFlasbeck, V., Enzi, B.,& Brine,M. (2019). Enhanced processing of painful emotions in patients with borderline personality disorder: A functional magnetic resonance imaging study. Frontiers in Psychiatry, 10. https://doi.org/10.3389/fpsyt.2019.00357   \nFlom,M.,& Saudino,K. J. (2017). Callous-unemotional behaviors in early childhood: Genetic andenvironmental contributionsto stability and change. Developmentand Psychopathology, 29(4), 1227-1234. htps://doi.0rg/10.1017/S0954579416001267   \nFlor, H., Birbaumer, N., Hermann, C., Ziegler, S., & Patrick, C.J. (2O02). Aversive pavlovian conditioning in psychopaths: Peripheral and central correlates. Psychophysiology, 39(4), 505-518. htps://doi.0rg/10.111/1469-8986.3940505   \nGarofalo, C., Neumann, C.,& Veloti, P. (202O). Psychopathy and aggression: The role of emotion dysregulation. Journal of Interpersonal Violence, 886260519900946. https://doi.0rg/10.1177/0886260519900946   \nGarofalo, C., Sijtsema, J. J., De Caluwé,E.， Vaughn, M.,& Delisi, M. (202O). A latent profile analysis of the Psychopathic Personality Inventory in a representative sample of referred boys.PersonalityDisorders:Theory，Research,andTreatment，11. https://doi.0rg/10.1037/per0000393   \nGill,A. D.，& Stickle,T. R. (2016). Affective diferences between psychopathy variants and genders in adjudicated youth. Journal of Abnormal Child Psychology, 44(2), 295-307. https://doi.0rg/10.1007/s10802-015-9990-1   \nGillespie, S. M.,Rotshtein, P., Chapman, H., Brown, E., Beech, A. R.,& Mitchell, I. J. (2019). Pupil reactivity of emotional faces among convicted violent offenders: The role of psychopathictraits. JournalofAbnormalPsychology， 128(6)， 622-632. https://doi.0rg/10.1037/abn0000445   \nHare,R., & Neumann, C. (2005). Structural models of psychopathy. Current Psychiatry Reports,7, 57-64. https://doi.0rg/10.1007/s11920-005-0026-3   \nHare,R.，& Neumann, C. (2O08). Psychopathy as a clinical and empirical construct. Annual Review of Clinical Psychology, 4, 217-246. https://doi.org/10.1146/annurev.clinpsy.3.022806.091452   \nHare,R. D. (1980). A research scale for the assessment of psychopathy in criminal populations. Personality and Individual Differences, 1(2), 111-119. https://doi.0rg/htps://doi.0rg/10.1016/0191-8869(80)90028-8   \nHare,R. D., Harpur, T.J., Hakstian, A.R.,Forth, A. E., Hart, S.D.,& Newman, J.P.(199O). The revised Psychopathy Checklist: Reliability and factor structure. Psychological Assessment: AJournalofConsultingand ClinicalPsychology， 2(3)， 338-341. https://doi.0rg/10.1037/1040-3590.2.3.338   \nHarpur, T.，Hare，R.，& Hakstian,R.(1989). Two-factor conceptualization of psychopathy: Construct validity and assessment implications.Psychological Assessment: A Journal of Consulting and Clinical Psychology, 1, 6-17. https://doi.0rg/10.1037/1040-3590.1.1.6   \nHicks,B.,& Patrick, C. (2006). Psychopathy and negative emotionality: Analyses of suppressor effects reveal distinct relations with emotional distress,fearfulness,and anger-hostility. Journal of Abnormal Psychology, 115, 276-287. https://doi.0rg/10.1037/0021-843X.115.2.276   \nHicks,B. M., Carlson, M. D., Blonigen, D. M., Patrick, C.J.,Iacono, W. G.,& Mgue, M. (2012). Psychopathic personality traits and environmental contexts: Differential correlates, gender differences, and genetic mediation. Personality Disorders: Theory， Research，and Treatment, 3(3), 209-227. htps://doi.0rg/10.1037/a0025084   \nHicks,B. M., Markon, K. E., Patrick, C. J., Krueger, R. F.,& Newman, J. P. (2004). Identifying psychopathy subtypes on the basis of personality structure. Psychological Assessment, 16(3), 276-288. https://doi.0rg/10.1037/1040-3590.16.3.276   \nHoppenbrouwers, S. S., Bulten, B.H.,& Brazil, I. A. (2016). Parsing fear: A reassessment of the evidence for fear deficits in psychopathy. Psychological Bulletin, 142(6)， 573-600. https://doi.0rg/10.1037/bu10000040   \nHyatt,C., Crowe,M., Lynam, D.,& Miller, J. (2019). Components of the Triarchic Model of psychopathy and the Five-Factor Model domains share largely overlapping nomological networks. Assessment, 27. https://doi.0rg/10.1177/1073191119860903   \nIreland,J. L., Mann, S.,Lewis, M., Ozanne,R., McNeill, K.,& Ireland, C. A. (202O). Psychopathy and trauma: Exploring a potential association. International Journal of Law and Psychiatry, 69, 101543. https://doi.0rg/10.1016/j.ijlp.2020.101543   \nJonason, P., & Buss, D. (2012). Avoiding entangling commitments: Tactics for implementing a short-term mating strategy. Personality and Individual Differences， 52， 606-610. https://doi.0rg/10.1016/j.paid.2011.12.015   \nJustus,A. N.,& Finn, P.R. (2OO7). Startle modulation in non-incarcerated men and women with psychopathic traits. Personality and Individual Differences， 43(8)， 2057-2071. https://doi.org/https://doi.0rg/10.1016/j.paid.2007.06.020   \nKanel,D., Al-Wasity, S., Stefanov, K.,& Pollick,F. E.(2019).Empathy to emotional voices and the use of real-time fMRI to enhance activation of the anterior insula. Neuroimage,198, 53-62. https://doi.0rg/10.1016/j.neuroimage.2019.05.021   \nKarpman, B. (194O). On the need of separating psychopathy into two distinct clinical types: The symptomatic and the idiopathic. Journal of Criminal Psychopathology,3,112-137.   \nKarpman, B.(1948). Conscience in the psychopath: Another version. The American Journal of Orthopsychiatry, 18, 455-491. htps://doi.0rg/10.1111/j.1939-0025.1948.tb05109.x   \nKogler,L., Muller, V.I., Werminghausen,E.,Eickhoff, S.B.,& Derntl, B.(202O).Do I feel or do I know? Neuroimaging meta-analyses on the multiple facets of empathy. Cortex,129, 341-355. https://doi.0rg/10.1016/j.cortex.2020.04.031   \nKotov, R., Krueger, R., Watson, D., Achenbach,T.,Althoff,R., Bagby,R., Brown, T., Carpenter, W., Caspi, A., Clark, L., Eaton, N., Forbes,M., Forbush, K., Goldberg, D., Hasin, D, Hyman，S.，Ivanova，M.，Lynam，D.，Markon，K.，& Zimmerman，M. (2017).The Hierarchical Taxonomy of Psychopathology (HiTOP): A Dimensional Alternative to Traditional Nosologies. Journal of Abnormal Psychology, 126. https://doi.0rg/10.1037/abn0000258   \nKramer, M., Patrick, C., Krueger,R.，& Gasperi, M. (2011). Delineating physiologic defensive reactivity in the domain of self-report: Phenotypic and etiologic structure of dispositional fear. Psychological Medicine, 42, 1305-1320. https://doi.0rg/10.1017/S0033291711002194   \nKramer, M. D. Patrick, C.J., Hettema, J. M., Moore, A. A. Sawyers, C. K.,& Yancey, J. R. (2020).Quantifying dispositional fear as threat sensitivity: Development and initial validation ofa model-basedscale measure. Assessment, 27(3)， 533-546. https://doi.0rg/10.1177/1073191119837613   \nKrueger, R., Kotov, R., Watson, D., Forbes, M., Eaton, N., Ruggero, C., Simms,L., Widiger,T., Achenbach, T., Bach, B.,Bagby, R., Bornovalova, M., Carpenter,W., Chmielewski,M., Cicero, D., Clark,L., Conway, C., De Clercq,B., Deyoung, C., & Zimmermann, J. (2018). Progress in achieving quantitative classification of psychopathology. World Psychiatry, 17. https://doi.0rg/10.1002/wps.20566   \nLatzman,R.D., Patrick, C.J., Freeman, H.J., Schapiro, S.J.,& Hopkins, W.D. (2017).Etiology oftriarchic psychopathy dimensions in chimpanzees (pan troglodytes). Clinical Psychological Science, 5(2), 341-354. https://doi.0rg/10.1177/2167702616676582   \nLatzman, R. D., Tobin, K. E., Palumbo,I. M., Conway, C. C., Lilienfeld, S. O., Patrick, C. J.,& Krueger, R. F. (2O2O). Locating psychopathy within the domain space of personality pathology. Personality and Individual Differences, 164. https://doi.org/10.1016/j.paid.2020.110124   \nLee, Z., & Salekin, R. T. (2O1O). Psychopathy in a noninstitutional sample: Differences in primary and secondary subtypes. Personality Disorders: Theory， Research, and Treatment,1(3), 153-169. https://doi.org/10.1037/a0019269   \nLilienfeld, S., Watts,A., Smith, S., Berg, J.,& Latzman, R. (2014). Psychopathy deconstructed and reconstructed: Identifying and assembling the personality building blocks of Cleckley's chimera. Journal of Personality, 83. https://doi.org/10.1111/jopy.12118   \nLilienfeld, S. O. (2O18). The multidimensional nature of psychopathy: Five recommendations for research. Journal of Psychopathology and Behavioral Assessment, 40(1)， 79-85. https://doi.0rg/10.1007/s10862-018-9657-7   \nLilienfeld, S. O.，& Andrews,B.P.(1996).Development and preliminary validation of a self-report measure of psychopathic personality traits in noncriminal populations. Journal of Personality Assessment, 66(3), 488-524. https://doi.0rg/10.1207/s15327752jpa6603_3   \nLilienfeld, S.O.,Patrick, C.J., Benning, S.D., Berg,J., Selbom,M.,& Edens,J.F. (2012). The role of fearless dominance in psychopathy: Confusions, controversies,and clarifications. Personality Disorders:Theory， Research, and Treatment, 3(3)， 327-340. https://doi.0rg/10.1037/a0026987   \nLilienfeld, S. O., & Widows, M.R. (20o5). Professional manual for the Psychopathic Personality Inventory-Revised: (PPI-R). Lutz, FL: Psychological Assessment Resources.   \nLopez Penades,R.， Poy, R.，Patrick, C.，& Moltó, J. (2O12). Deficient fear conditioning and self-reported psychopathy: The role of fearless dominance.Psychophysiology，50. https://doi.0rg/10.1111/j.1469-8986.2012.01493.x   \nLy, M., Motzkin,J.,Philippi, C., Kirk, G.,Newman,J., Kiehl, K.,& Koenigs,M. (2012). Cortical thinning in psychopathy. The American Journal of Psychiatry， 169, 743-749. https://doi.0rg/10.1176/appi.ajp.2012.1111627   \nLykken, D.T. (1995). The antisocial personalities. Hillsdale: Lawrence Erlbaum Associates.   \nMillr,J. D.，& Lynam，D.R. (2O12a)． An examination of the Psychopathic Personality Inventory's nomological network: A meta-analytic review. Personality Disorders: Theory, Research, and Treatment, 3(3), 305-326. https://doi.0rg/10.1037/a0024567   \nMiller,J.D.，& Lynam, D.R.(2O12b). Supplemental material for fearless dominance and psychopathy: A response to Lilienfeld et al. Personality Disorders: Theory, Research, and Treatment. htps://doi.0rg/10.1037/a0028296.supp   \nMokros,A., Hare, R. D.， Neumann, C. S., Santila, P., Habermeyer, E.，& Nitschke, J. (2015). Variants of psychopathy in adult male offenders: A latent profile analysis. Journal of Abnormal Psychology,124(2), 372-386. https://doi.0rg/10.1037/abn0000042   \nMoore,A. A., Rappaport,L. M., Blair, R.J., Pine, D. S.,Leibenluft, E., Brotman, M. A., Hettema, J. M.,& Roberson-Nay, R. (2O19). Genetic underpinnings of callous-unemotional traits and emotion recognition in children, adolescents,and emerging adults. Journal of Child Psychology and Psychiatry, 60(6), 638-645. https://doi.org/10.1111/jcpp.13018   \nMoul,C.， Killcross,S.，& Dadds,M. (2012). A model of diferential amygdala activation in psychopathy. Psychological Review, 119, 789-806. https://doi.org/10.1037/a0029342   \nNeumann,C. S.，Hare,R. D.，& Pardini, D.A. (2O15). Antisociality and the construct of psychopathy: Data from across the globe. Journal of Personality，83(6)，678-692. https://doi.org/10.1111/jopy.12127   \nNewman, J. (1998). Psychopathic behavior: An information processing perspective. In D. Cooke, A. Forth, & R. Hare (Eds.), Psychopathy: Theory, research and implications for society (pp. 81-104). Dordrecht, Netherland: Springer. https://doi.0rg/10.1007/978-94-011-3965-6_5   \nNewman，J.，& Kosson，D. (1986). Passive avoidance learning in psychopathic and nonpsychopathic ofenders. Journal of Abnormal Psychology， 95， 252-256. https://doi.0rg/10.1037/0021-843X.95.3.252   \nPaiva，T. O.，Almeida，P.R.，Coelho，R.C.，Pasion，R.，Barbosa，F，Ferreira-Santos，F, Bastos-Leite, A. J.，& Marques-Teixeira, J. (2O2O). The neurophysiological correlates of the triarchic model of psychopathy: An approach to the basic mechanisms of threat conditioning and inhibitory control. Psychophysiology， 57(8)， Article e13567. https://doi.org/10.111/psyp.13567   \nPasion，R.，Fernandes,C.，R Pereira,M.，& Barbosa，F.(2O17).Antisocial behaviour and psychopathy: Uncovering the externalizing link in the P3 modulation. Neuroscience and Biobehavioral Reviews, 91. https://doi.org/10.1016/j.neubiorev.2017.03.012   \nPatrick，C.，Bernat， E.，Malone，S.，Iacono，W.，Krueger,R.，& McGue，M.(2006).P300 Amplitude as an indicator of externalizing in adolescent males. Psychophysiology, 43, 84-92. https://doi.0rg/10.1111/j.1469-8986.2006.00376.x   \nPatrick，C.，Durbin，C.，& Moser，J. (2012). Reconceptualizing antisocial deviance in neurobehavioral terms. Developmentand Psychopathology， 24， 1047-1071. https://doi.0rg/10.1017/S0954579412000533   \nPatrick, C. J. (2010). Triarchic Psychopathy Measure (TriPM). https://www.phenxtoolkit.org/index.php?pageLink=browse.protocoldetails&id=121601.   \nPatrick, C. J. (2018). Handbook of psychopathy (Second edition. ed.). New York: The Guilford Press.   \nPatrick，C. J.，& Drislane，L. E.(2015). Triarchic model of psychopathy:Origins, operationalizations, and observed linkages with personality and general psychopathology. Journal of Personality, 83(6), 627-643. https://doi.org/10.111/jopy.12119   \nPatrick, C.J., Fowles, D. C.,& Krueger, R.F. (2009). Triarchic conceptualization of psychopathy: Developmental origins of disinhibition， boldness，and meanness. Development and Psychopathology,21(3), 913-938. https://oi.0rg/10.1017/S0954579409000492   \nPetitclerc,A.,Henry, J.,Feng,B., Poliakova, N., Brendgen, M., Dionne, G., Vitaro,F., Tremblay, R.E.，& Boivin，M. (2O19).Genetic correlation between child callous-unemotional behaviors and fear recognition deficit: Evidence for a neurocognitive endophenotype. Journal of Abnormal Child Psychology, 47(9), 1483-1493. https://doi.0rg/10.1007/s10802-019-00529-2   \nPoythres,N.,Edens,J., Skeem,J.,Lilienfeld,S.,Douglas,K.,Frick,P.,Patrick, C.,Epstein,., & Wang，T. (2O1O). Identifying subtypes among offenders with antisocial personality disorder: A cluster-analytic study. Journal of Abnormal Psychology， 119，389-400. https://doi.0rg/10.1037/a0018611   \nPreston, O. C., & Anestis, J. C. (2O19). The indirect relationships between psychopathic traits and proactive and reactive aggression through empathy and emotion dysregulation. Journal of Psychopathology and Behavioral Assessment. https://doi.0rg/10.1007/s10862-019-09760-z   \nRibeiro da Silva, D., Salekin, R. T.,& Rijo, D. (2O19). Psychopathic severity profiles: A latent profile analysis in youth samples with implications for the diagnosis of conduct disorder. Journal of Criminal Justice, 60, 74-83. https://doi.org/https://doi.org/10.1016/j.jcrimjus.2018.12.003   \nRibes-Guardiola, P.，Poy，R.，Patrick, C. J.，& Molto, J. (202O). Electrocortical measures of performance monitoring from go/no-go and flanker tasks: Diferential relations with trait dimensions of the triarchic model of psychopathy. Psychophysiology, 57(6), 22,Article e13573. https://doi.org/10.1111/psyp.13573   \nSeara-Cardoso,A., Viding, E., Lickley, R.,& Sebastian, C. (2015). Neural responses to others’ pain vary with psychopathic traits in healthy adult males. Cognitive, Affective & Behavioral Neuroscience, 15. https://doi.org/10.3758/s13415-015-0346-7   \nSethi,A., McCrory,E.,Puetz, V., Hoffmann,F,Knodt, A.R.,Radtke, S.R.,Brigidi, B.D.,Hariri, A. R.,& Viding,E. (2O18). Primary and secondary variants of psychopathy in a volunteer sampleareassociated withdifferentneurocognitivemechanisms. Biological Psychiatry-CognitiveNeuroscienceandNeuroimaging, 3(12), 1013-1021. https://doi.0rg/10.1016/j.bpsc.2018.04.002   \nShirtcliff,E.A., Vitacco,M.J., Graf,A.R., Gostisha, A.J.,Merz,J.L.,& Zahn-Waxler, C.(2009). Neurobiology of empathy and callousness: Implications for the development of antisocial behavior. Behavioral Sciences and the Law, 27(2), 137-171. https://doi.0rg/10.1002/bsl.862   \nSkeem，J.，& Cooke,D. (2010a). Is criminal behavior a central component of psychopathy? Conceptual directions for resolving the debate. Psychological Assessment, 22, 433-445. https://doi.0rg/10.1037/a0008512   \nSkeem, J.，& Cooke, D. (2010b). One measure does not a construct make: Directions toward reinvigorating psychopathy research-reply to Hare and Neumann (2010). Psychological Assessment, 22, 455-459. https://doi.0rg/10.1037/a0014862   \nSleep,C.E.，Weiss,B.,Lynam, D.R.,& Miller, J. D. (2019). An examination of the Triarchic Model of psychopathy's nomological network: A meta-analytic review. Clinical Psychological Review, 71, 1-26. https://doi.0rg/10.1016/j.cpr.2019.04.005   \nSmith,S.F.,& Lilienfeld, S. O.(2015). The response modulation hypothesis of psychopathy: A meta-analytic and narrative analysis. Psychological Bulletin， 141(6)， 1145-1177. https://doi.0rg/10.1037/bul0000024   \nStern, J.,& Cassidy, J. (2O17). Empathy from infancy to adolescence: An attachment perspective onthe development of individual differences. Developmental Review， 47. https://doi.0rg/10.1016/j.dr.2017.09.002   \nSutton, S., Vitale, J.，& Newman, J. (2002). Emotion among women with psychopathy during picture perception. JournalofAbnormalPsychology， 1ll， 610-619. https://doi.0rg/10.1037/0021-843X.111.4.610   \nThomson, N. D., Aboutanos, M., Kiehl, K. A., Neumann, C., Galusha, C.,& Fanti, K. A. (2019). Physiological reactivity in response to a fear-induced virtual reality experience: Associations with psychopathic traits. Psychophysiology, ${ \\it 5 6 ( 1 ) }$ ，16,Article e13276. https://doi.org/10.1111/psyp.13276   \nTuvblad, C.， Wang, P., Patrick, C., Berntsen,L.， Raine,A.，& Baker, L. (2018). Genetic and environmental influences on disinhibition, boldness,and meanness as assessed by the triarchic psychopathy measure in 19-20-year-old twins. Psychological Medicine, 49, 1-10. https://doi.0rg/10.1017/S0033291718002052   \nVanheule, S.,& De Ganck,J. (2O15). Bad boys don't cry: A thematic analysis of interpersonal dynamics in interview narratives of young offenders with psychopathic traits. Frontiers in Psychology, 6. https://doi.0rg/10.3389/fpsyg.2015.00960   \nVenables, N., Hicks, B., Yancey, J., Kramer, M., Nelson,L., Strickland, C., Krueger, R., Iacono, W.,& Patrick, C.(2O16).Evidence of a prominent genetic basis for associations between psychoneurometric traits and common mental disorders. International Journal of Psychophysiology, 115. https://doi.org/10.1016/j.ijpsycho.2016.09.011   \nVenables,N.，& Patrick, C. (2O14). Reconciling discrepant findings for P3 brain response in criminal psychopathy through reference to the concept of externalizing proneness. Psychophysiology,51. htps://doi.0org/10.1111/psyp.12189   \nVenables, N. C., Hall, J. R.， Yancey, J. R.,& Patrick, C. J. (2O15). Factors of psychopathy and electrocortical response to emotional pictures: Further evidence for a two-process theory. Journal of Abnormal Psychology, 124(2), 319-328. htps://doi.0rg/10.1037/abn0000032   \nVerona, E., Patrick, C.,& Joiner, T. (2Oo1). Psychopathy, antisocial personality, and suicide risk. Journal of Abnormal Psychology, 110, 462-470. https://doi.0rg/10.1037/0021-843X.110.3.462   \nVerschuere,B., van Ghesel Grothe, S., Waldorp,L., Watts,A.L.,Lilienfeld, S. O., Edens, J. F, Skeem, J.L., & Noordhof, A. (2O18). What features of psychopathy might be central? A network analysis of the Psychopathy Checklist-Revised (PCL-R) in three large samples. Journal of Abnormal Psychology, 127(1),51-65. https://doi.org/10.1037/abn0000315   \nViswanathan, A., Harsh, V.,Pereira, E.,& Aziz,T. (2013). Cingulotomy for Medically Refractory Cancer Pain. https://doi.0rg/10.3171/2013.6.FOCUS13236)   \nWaler, R., Wright,A., Shaw,D., Gardner,F.,Dishion,T., Wilson, M.,& Hyde,L. (2014).Factor structure and construct validity of the parent-reported inventory of callous-unemotional traits among high-risk 9-year-olds. Assessment, 22.   \nWeidacker, K., Snowden, R., Boy, F.,& Johnston, S. (2O17). Response inhibition in the parametric go/no-gotaskinpsychopathicoffenders.PsychiatryResearch,250. https://doi.0rg/10.1016/j.psychres.2017.01.083   \nWhite,S.,Willams,W.,Brislin, S., Sinclair,S.,Blair, K.,Fowler,K.,Pine,D.,Pope,K.,&Blair, R. (2012). Reduced activity within the dorsal endogenous orienting of attention network to fearful expressions in youth with disruptive behavior disorders and psychopathic traits. Development and Psychopathology, 24, 1105-1116. https://doi.0rg/10.1017/S0954579412000569   \nWilson, K., Juodis,M.,& Porter, S. (2O11). Fear and loathing in psychopaths: A meta-analytic investigation of the facial affect recognition deficit. Crimial Justice and Behavior,38. https://doi.0rg/10.1177/0093854811404120   \nWygant, D.B., Selbom, M., Sleep, C.E., Wall, T.D., Applegate, K. C., Krueger,R.F., & Patrick, C. J. (2016). Examining the DSM-5alternativepersonality disorder model operationalization of antisocial personality disorder and psychopathy in a male correctional sample.Personality Disorders: Theory, Research, and Treatment,7(3),229- 239. https://doi.0rg/10.1037/per0000179   \nYancey,J.， Venables,N.，& Patrick, C. (2O16). Psychoneurometric operationalization of threat sensitivity: relations with clinical symptom and physiological response criteria. Psychophysiology, 53, 393-405. https://doi.0rg/10.1111/psyp.12512   \nYang,Y., Raine,A., Narr, K. L., Colletti, P.,& Toga, A. W. (2Oo9).Localization of deformations within the amygdala in individuals with psychopathy. Archives of General Psychiatry, 66(9), 986-994. https://doi.org/10.1001/archgenpsychiatry.2009.110 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A cognition-affective processing framework of psychopathy based on the TriPM model ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "CHENG Cheng1,2,3, GUO Peiyang1,2.3, YANG Li1.2.3, WANG Mengya1.2.3 ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "1．School of Education,Tianjin University, Tianjin, China   \n2.Institute of Applied Psychology, Tianjin University, Tianjin, China   \n3.Laboratory of Suicidology, Tianjin Municipal Education Commission, Tianjin, China ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As an important predictor of violent crime, recidivism, and juvenile delinquency, psychopathy has received extensive attention in clinical psychology and justice research. The Triarchic Model of Psychopathy conceptualized psychopathy as three phenotypic structures include boldness，meanness，and disinhibition，which counterpart to distinct cognitive and affective processing defects in neurobiological dimensions. In particular,low threat sensitivity is the main etiological basis of boldness；the impairment of executive function，especiall the impaired attentional modulation will lead to disinhibition; and the empathy deficits associated with emotion recognition may contribute to the development of meanness. Future research still needs to focus on the conceptualization of psychopathy and to further investigate whether there is a common underlying etiological basis between different psychopathic variants. Meanwhile, it is necessary to explore the precursors of adult psychopathic traits for early treatment and intervention. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Triachic Model of Psychopathy, low threat sensitivity, impaired executive function, empathy deficits ",
+        "page_idx": 30
+    }
+]

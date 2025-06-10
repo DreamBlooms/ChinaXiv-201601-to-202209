@@ -1,0 +1,289 @@
+# 通过PCAL信号定标绝对链路时延方法及应用
+
+常捷1,2，王锦清1.3,4，江永琛1，舒逢春1
+
+（1.中国科学院上海天文台，上海 200030;2.中国科学院大学,北京100049 ;3.中国科学院射电天文重点实验室，南京210008；4．上海市空间导航与定位技术重点实验室，上海200030）
+
+摘要：甚长基线干涉测量（VLBI）通过相位校准（PCAL）信号来校准链路时延。但现有系统的 PCAL信号只能获取链路时延的相对变化。而面对UT1精准测量、台站钟差补偿、维护诊断和提升未来深空探测精度等需求，天线链路的绝对时延定标至关重要。在天线链路中，由于存在变频器等器件，绝对时延测量较为困难。本文利用梳状谱相位随频率线性变化的特点,提出了一种不需要参考变频器,采用PCAL信号定标绝对链路群时延的方法。同时，本文设计了一款用于台站快速诊断和绝对时延定标的轻量级PCAL提取软件，该软件目前已在实际调试工作中应用。
+
+关键词：链路时延；甚长基线干涉测量；相位校正信号；相位校准；模糊度
+
+中国分类号：P16
+
+# 1引言
+
+在甚长基线干涉测量(VLBI)中,由线缆、变频器等导致的链路时延是重要误差之一，因此需要对其进行校准，才能获得真正的几何时延。现有校准技术为在前端接收机处注入等间隔的点频信号，即相位校准（PCAL）信号，相关处理时将PCAL信号的相位提取出来，通过计算得到群时延变化曲线，即可获取准确的链路时延变化，从而进行校准[1-5]。在一般VLBI观测中，仅关注链路时延的相对变化，绝对链路时延采用差分观测消除。但面向未来，我国深空探测的目标是要向更深、更远的天体进行研究，需要更精准的测角精度，定标绝对链路时延对消除误差、提升精度有一定帮助。在UT1精准测量、台站钟差补偿和维护诊断中，也需要对链路的绝对时延进行定标[18,19]。
+
+对于抛物面天线的结构，按照信号传输的路径可以分为反射面光程段、馈源段和线缆段。其中光程段时延可通基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+过几何计算得到，其因俯仰重力和温度引起的变化，可通过摄影测量[27]和微波全息测量进行定标[2-24]。馈源段主要由喇叭和馈源网络组成，其中喇叭段时延较稳定，可忽略不计[25.26]。对于馈源网络和线缆段，比较复杂，因此需要PCAL信号进行定标、监测和校准。
+
+对于线缆、放大器和滤波器等器件，可以用矢量网络分析仪定标绝时延。对于变频器，目前的方法主要为引入参考变频器，或者通过梳状谱校准标量混频器，使之替代参考变频器[12-17]。本文提出一种用PCAL信号定标绝对链路时延的方法，该方法利用梳状谱相位随频率线性变化的特点，不需要参考变频器，同时用改变频率间隔的方法解决了模糊度问题，可直接对整个天线链路绝对时延进行定标，用于满足台站建设和维护诊断中的需求。
+
+同时，目前VLBI台站所用PCAL提取软件都是基于大型相关机设计，有较强的并行计算能力和批处理能力，在处理多台站PCAL信号时展现出强大的性能[8-11]。但面向台站快速诊断和本文提到的绝对时延定标等方面的实际需求，尤其是提高诊断和定标效率的需求，轻量化软件是非常必要的。因此，本文就根据该需求，设计了一款轻量化的 PCAL提取软件，该软件目前已在实际调试工作中应用。
+
+# 2基本原理
+
+PCAL发生器为一个窄脉冲形成器（或称梳状频谱发生器），该器件的频率基准由氢原子钟提供，最后形成宽度为毫微秒量级的脉冲串,在频域表现为等频率间隔的梳状点频信号,即 PCAL信号[]。根据 PCAL发生器的原理，信号的时域表达式为：
+
+$$
+x ( t ) = \sum \delta \left( t - n T \right)
+$$
+
+其中，T为脉冲周期。
+
+通过傅里叶变换，可得：
+
+$$
+X ( j \omega ) = { \frac { 2 \pi } { T } } \sum \delta \left( \omega - { \frac { 2 \pi n } { T } } \right)
+$$
+
+根据傅里叶时移特性，经时延 $\boldsymbol { \tau }$ ，时域和频域分别变为：
+
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助  
+作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn  
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+$$
+x ( t ) = \sum \delta \left( t - \tau - n T \right)
+$$
+
+$$
+X ( j \omega ) = { \frac { 2 \pi } { T } } \sum \delta \left( \omega - { \frac { 2 \pi n } { T } } \right) e ^ { - j \omega \tau }
+$$
+
+根据上式，PCAL信号中，梳状谱各谱线的相位随频率呈线性变化。因此，不同频率的PCAL位点可以得到相同的相频斜率。本文利用此特性，让不同频率的PCAL信号互相关，求解群时延。
+
+如图1(a)所示，PCAL信号发生器在天线的馈源之后，前级放大之前注入（PCAL1），与观测到的射电信号通过同样的路径进入记录器，本文将该链路称为待测链路，与射电信号有同样的链路时延。同时，在记录器处还有一个PCAL发生器（PCAL2），该PCAL信号经防混叠带通滤波器滤波后直接进入记录器，本文将该链路称为参考链路。两个PCAL发生器采用同一本振参考，并用稳相传输系统锁住，保证初始相位一致。同时，还需搭建一校准链路，如图1(b)所示，用于消除参考链路的固定时延差。
+
+![](images/3805eb391fc75ff65820f0c44c61937a09d7ac5c2883ae668c1d2c35355d7f19.jpg)  
+图1PCAL链路框图  
+Fig.1 Diagram of PCAL link
+
+根据以上描述，由于PCAL信号的频率基准为氢原子钟，各频率分量均为谐波，相位是相干的。因此，在注入处，各频点相位为：
+
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助  
+作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn  
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+$$
+\varphi ( i ) = i f _ { o } \varphi ( 0 )
+$$
+
+其中， $f _ { o }$ 为基频， $\varphi ( 0 )$ 为基频初始相位
+
+PCAL信号经过传输线缆、变频器等路径，产生 $\boldsymbol { \tau }$ 的时延，此时各频点相位为：
+
+$$
+\varphi ( i ) = i f _ { o } \varphi ( 0 ) - 2 \pi f _ { o } \cdot i \tau
+$$
+
+对相邻PCAL位点求相位差，可得：
+
+$$
+\Delta \varphi = \varphi ( i - 1 ) - \varphi ( i ) = 2 \pi f _ { o } \tau + f _ { o } \varphi ( 0 )
+$$
+
+分别对待测链路与参考链路，校准链路与参考链路作相关处理，再对相邻 PCAL位点求相位差，可得：
+
+$$
+\begin{array} { r l } & { \Delta \varphi _ { i n s } - \Delta \varphi _ { r e f } = 2 \pi f _ { o } \big ( \tau _ { i n s } - \tau _ { r e f } \big ) + f _ { o } [ \varphi _ { 1 } ( 0 ) - \varphi _ { 2 } ( 0 ) ] } \\ & { \Delta \varphi _ { c a l } - \Delta \varphi _ { r e f } = 2 \pi f _ { o } \big ( \tau _ { c a l } - \tau _ { r e f } \big ) + f _ { o } [ \varphi _ { 1 } ( 0 ) - \theta \varphi _ { 2 } ( 0 ) ] } \end{array}
+$$
+
+其中 $, \tau _ { i n s }$ 为待测链路的时延，即真正的绝对链路时延。 $\tau _ { r e f }$ 和 $\tau _ { c a l }$ 分别为参考链路和校准链路的时延，其中 $\tau _ { c a l }$ 可
+
+相对容易地用矢量网络分析仪单独定标。 $\varphi _ { 1 } ( 0 ) - \varphi _ { 2 } ( 0 )$ 为 PCAL1和 PCAL2之间的基频初始相位差，由于采用稳相传输系统锁定，该差值相对稳定。
+
+因此将两式相减、移项便可得到绝对链路时延：
+
+$$
+\tau _ { i n s } = \frac { \Delta \varphi _ { i n s } - \Delta \varphi _ { c a l } } { 2 \pi f _ { o } } + \tau _ { c a l }
+$$
+
+在实际测量中，还需考虑模糊度问题。由于 $\Delta \varphi$ 的范围为 $( - \pi , \pi )$ ，因此，链路时延的校准范围为 $\scriptstyle ( - { \frac { 1 } { 2 f _ { o } } } , { \frac { 1 } { 2 f _ { o } } } )$ 。此时真实的时延可以表示为：
+
+$$
+\tau = \tau _ { m e s u r e } + \frac { M } { f _ { o } }
+$$
+
+其中：M为含任意自然数， 1为PCAL产生的模糊度 $\frac { 1 } { f _ { o } }$
+
+下表给出了不同频率间隔下，PCAL产生的模糊度：
+
+# 表1不同频率间隔的模糊度
+
+Table 1 Ambiguity of different frequency intervals   
+
+<html><body><table><tr><td>Interval</td><td>Ambiguity</td><td>Measurement range</td><td>Cable length</td></tr></table></body></html>
+
+<html><body><table><tr><td>500KHz</td><td>2us</td><td>(-1,1)us</td><td>480m</td></tr><tr><td>1MHz</td><td>1us</td><td>(-500,500)ns</td><td>240m</td></tr><tr><td>2MHz</td><td>500ns</td><td>(-250,250)ns</td><td>120m</td></tr><tr><td>5MHz</td><td>200ns</td><td>(-100,100)ns</td><td>48m</td></tr></table></body></html>
+
+其中：群速度取0.8c，即 $2 . 4 \times 1 0 ^ { 8 } m / s$ ，并假设纯线缆时延，无变频器等其余时延的情形
+
+考虑到实际台站的线缆长度一般不会超过 $1 0 0 \mathrm { m }$ ，总链路时延一般不会超过1us，最大不会超过2us，因此一般情况下1MHz间隔已经够用，可保留 $5 0 0 \mathsf { K H z }$ 设置用于极端情况下的测量。
+
+# 3精度评估
+
+如图2所示，横轴（实轴）与纵轴（虚轴）分别表示信号向量在实部与虚部的振幅分量，信号向量与实轴夹角则为相位。S为信号向量，N为噪声向量， $\overrightarrow { M }$ 为合向量，S向量与M向量的相位差即为误差。当PCAL信号的信噪比为SNR，积分时间为T时，单个PCAL位点相位精度为：
+
+$$
+\sigma _ { \varphi } = \frac { 1 } { \sqrt { 2 T S N R } }
+$$
+
+根据上节描述，时延本质为相位对频率的斜率。实际测量操作为，对不同频率处带有误差的相位作线性拟合。因此，拟合误差即为时延误差，有：
+
+$$
+\varphi _ { i } = 2 \pi f _ { i } \tau + b
+$$
+
+Jacobian系数矩阵为：
+
+$$
+A = { \binom { 2 \pi f _ { 1 } \quad 1 } { 2 \pi f _ { 2 } \quad 1 } } \quad
+$$
+
+观测误差矩阵为：
+
+$$
+\Sigma = \sigma _ { \varphi } ^ { 2 } I
+$$
+
+经矩阵变换，可得时延精度为：
+
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助  
+作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn  
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+![](images/f40ba5361bf9af42192232c2e3ddfa34cba7443091dfeb434c1a7aa6f95b33c7.jpg)  
+图2单个PCAL位点相位误差  
+Fig. 2 Phase error of single PCAL point
+
+以上海天文天佘山13m射电望远镜为例，每线程总带宽为512MH，积分时间为10s，5MHz间隔下的信噪比为20dB,内有8个子通道,中心频率分别为 560MHz、592MHz、624MHz、752MHz、848MHz、912MHz、976MHz和 1008MHz，表2给出各PCAL频率间隔下的时延精度。随着频率间隔的减小，时延精度也随之降低。因此，在实际测量中，通过小间隔PCAL测出绝对时延后，还需用该值带入大间隔PCAL的测量值中解模糊度，以测得更精确的链路时延。
+
+表2不同频率间隔的时延精度  
+Table 2 Group delayaccuracy of different frequency intervals   
+
+<html><body><table><tr><td>Interval</td><td>Group delay accuracy</td></tr><tr><td>500KHz</td><td>135.1ps</td></tr><tr><td>1MHz</td><td>95.5ps</td></tr><tr><td>2MHz</td><td>67.5ps</td></tr><tr><td>5MHz</td><td>42.8ps</td></tr></table></body></html>
+
+# 4PCAL提取软件
+
+在 PCAL信号处理中，需要对信号做 DFT变换，以提取 PCAL各位点的相位。由于噪声的存在，需要对信号进行积分，并通过线性拟合测量出各PCAL位点相位相对于频率的斜率，此时链路时延的测量值有：
+
+$$
+\tau _ { m } = \frac { N } { 2 \pi f _ { s } } \frac { d p } { d n }
+$$
+
+其中：N为DFT点数， $f _ { s }$ 为采样率 为相位对DFT点的斜率
+
+如图3所示，本文设计的软件支持多通道Mark6格式，并兼容原始采样数据RAW格式。软件为全图形界面，操作简单，自动寻找PCAL位点，并对位点相位进行提取和线性拟合。对于Mark6格式，软件会自动识别数据帧头，根据帧头信息自动匹配采样率和采样深度，并自动分割通道，用户只需按提示选取文件和通道。对于原始数据RAW 格式，用户也仅需手工输入采样率、采样比特深度等少量信息即可。
+
+要对绝对时延进行定标，由于模糊度的存在，需要逐级缩小PCAL频率间隔，直到链路时延测量值不再发生变化，即完全消除模糊度。在本软件的辅助下，详细步骤如图4所示。最后，将5MHz频率间隔下的链路时延测量值加上M倍（自然数）模糊度，直到与定标的真实链路时延基本相同，即可记录下M的值，该值为解算出的模糊度，在一定时间内都不会发生变化，可以在后续观测中直接使用。
+
+![](images/a7bbdd55d421c019a30a7ccb081c993f0ca9504468063a98f977721e454a3088.jpg)  
+图3PCAL提取软件操作界面
+
+![](images/a03b1aba9154570e6954e6e044ae13b1b67172cf897f772ba0939b461e1713fb.jpg)  
+Fig.3 Ul of PCAL extraction software   
+图4绝对时延定标步骤  
+Fig. 4 Steps of finding absolute group delay
+
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助  
+作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn  
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+# 5实测
+
+为了对本方法进行验证，本文选择上海天文台佘山13m射电望远镜的超宽带数字变频器（UDC），分两组进行实测。其中一组实测目标为对UDC 的绝对时延进行定标；另一组依次插入不同长度的线缆，模拟真实天线链路，分别对线缆和整体链路的绝对时延进行定标，并用矢量网络分析仪对所定标的线缆绝对时延结果进行验证。
+
+记录器选择9个20MHz带宽的子通道，每个子通道的中心频率为：
+
+$$
+f _ { c } ( j ) = 5 0 0 + 5 0 j ( M H z ) ; j = 1 , 2 \dots 9
+$$
+
+提取每个子通道的PCAL相位后对所有子通道进行带宽综合。如图5所示,为每个子通道的所有相位加上 $2 \pi$ 的整数倍，让所有通道的PCAL相位基本在一条直线上，再通过拟合得到群时延，并求出每个相位的拟合残差。测试均选用5MHz的PCAL频率间隔所测数据，同时按照图4的步骤逐级降低频率间隔来验证并消除模糊度。最终实测结果如表3所示，其中UDC和全链路绝对时延仅用本文所述的PCAL定标方法进行测量，依次插入的线缆时延与采用矢量网络分析仪验证的结果基本一致，误差约为1ns，考虑到测试环境、对接头等差异，视为正常。
+
+![](images/9678d3afca59b77b1ba023ae1875befce063a652624c9e7fafc9ec2998b8db21.jpg)  
+图5带宽综合后的PCAL相位及群时延  
+Fig.5 PCAL phase and group delay after bandwidth synthesis
+
+# 表3绝对链路时延实测结果
+
+Table 3 Results of absolute group delay   
+
+<html><body><table><tr><td></td><td colspan="2">Absolute delay (ns)</td></tr><tr><td></td><td>PCAL</td><td>VNA</td></tr><tr><td>UDC</td><td>11.12</td><td></td></tr><tr><td>全链路</td><td>175.02</td><td></td></tr><tr><td>线缆1</td><td>14.12</td><td>15.29</td></tr></table></body></html>
+
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+<html><body><table><tr><td>线缆2</td><td>49.24</td><td>50.45</td></tr><tr><td>线缆3</td><td>149.78</td><td>150.58</td></tr></table></body></html>
+
+# 6结语
+
+本文提出一种用PCAL信号定标绝对链路时延的方法，该方法不需要参考变频器，同时用改变频率间隔的方法解决了模糊度问题，可直接对整个天线链路绝对时延进行定标，用于满足精准测量UT1、台站钟差补偿、维护诊断和提升未来深空探测精度的需求。经实测与比对验证，该方法能准确定标绝对时延，在10s积分下达40ps 测量精度，可以满足需求。
+
+同时，本文设计了一款用于台站快速诊断和绝对时延定标的轻量级PCAL提取软件，经验证，该软件能够解码Mark6 格式和 RAW格式，并快速准确提取PCAL相位，目前已在台站实际调试工作中应用。
+
+参考文献[1]ThompsonAR,MoranJM,Swenson G,etal.Interferometryandsynthesis inradioastronomy,Wiley,2017.[2] Takahashi F, Kondo T, Takahashi Y, et al. Very long baseline interferometer, 2000.[3] Thomas JB.The tone generator and phase calibration in VLBl measurements[J]. Deep Space NetworkProgress Report, 1978.[4] Jacobs C S. Phase Calibration Tone Processing With the Block II VLBl Correlator,1998.[5]Kiuchi，Hitoshi，Takahashi，etal.VLBlPhase-Calibration System Suitablefor Very-Wide-Bandand  
+： Ultra-High-Frequency Operation.[J]. IEEE Transactions on Instrumentation & Measurement,1999.  
+）[6]王锦清,韦文仁.相位校准电路原理分析及测试[J].中国科学院上海天文台年刊,2006(00):83-91.  
+[[7]叶伟,项英,赵融冰.相位校正信号提取在CDAS 中的实现及测试[J].中国科学院上海天文台年  
+刊,2010(00):111-118.  
+[8]杨艳,郑为民.VLBI相位校正信号提取的软件实现方法[J].中国科学院上海天文台年刊,2006(00):107-117.  
+[9]姜坤,侯孝民,许可,等.PCAL信号多频点高效并行提取方法[J].飞行器测控学报,2012,31(06):32-36.  
+[10] 檀祝根,翟宁,陈永强.PCAL信号的产生原理及实现[J].无线电工程,2015,45(06):32-34+98.  
+[11] 刘友永,郭肃丽,王彬.VLBI观测中相位校准信号的处理[J].载人航天,2010,16(04):5-8+13.[12] 黄坤超.矢量网络分析仪的时域功能在天线测量中的应用[J].电讯技术,2007(03):189-191.[13]王笃文.一种基于网分的接收机群时延测试方法[J].信息通信,2017(06):49-51.[14]张慧君,陈淑芳.应用矢量网络分析仪测定变频器的群时延特性[J].时间频率学报,2005(01):56-62.[15] 曹芸,邱新宇,鲁芳丽,等.矢量网络分析仪在变频器件群时延测量方面的应用[J].中国仪器仪表,2012(04):58-60.[16] 杨露.一种新型的变频器件群时延特性测量方法[J].国外电子测量技术,2020,39(04):106-109.[17]尹仲琪,黄凯冬,胡勇,等.最小二乘法对群时延测量的改善[J].电子测量与仪器学报,2009,23(S1):364-367.基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助作者简介·常捷 男 硕十 研究方向·天文技术与方法 Fmail:channi@shan ar.cn
+
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+[18]冯浩通,舒逢春,何旋.上海佘山 VLBI站的钟差补偿精度分析[J].武汉大学学报(信息科学版),2021:1-6.  
+[19]姚当,弓剑军,马浪明,等.基于VGOS 系统的UT1初步观测与计算[J].时间频率学报,2018,41(03):234-241.  
+[20]张浩,张娟,刘磊,等.空间VLBI数据记录格式RDF解析与数据解码[J].天文研究与技术,2020,17(02):163-170.  
+[21]罗近涛,陈岚,吴亚军,等.VLBI数字基带转换器测试进展[J].天文研究与技术,2010,7(03):214-221.  
+[22]魏善祥,王启明,孔德庆,等.大型双反射面天线指向误差评估算法[J.天文研究与技术,2020,17(04):513-521.  
+[23] 汪赞,孔德庆,陈志平.大型射电望远镜面形精度测量方法研究综述[J].天文研究与技术,2020,17(01):52-59.  
+[24] 王锦清,左秀婷,MICHAELKesteven,等.TM65m射电望远镜面形微波全息测量[J.中国科学:物理学力学天文学,2017,47(09):92-102.  
+[25]温日红,冯晓超.温变条件下抛物面天线时延特性研究[J].无线电工程,2010,40(06):42-44.  
+[26]黄旭峰,马煦.抛物面天线时延变化特性研究[J].数字通信世界,2019(06):12-14.  
+[27]徐广州,阮萍.高精度光学抛物面面形参数计算新方法[J].红外与激光工程,2019,48(06):441-447.
+
+# Citation:
+
+[1]ThompsonAR,Moran JM,Swenson G,etal.Interferometryand synthesis in radioastronomy,Wiley,2017. [2] Takahashi F, Kondo T,Takahashi Y,et al. Very long baseline interferometer, 2000.   
+[3] Thomas JB.The tone generator and phase calibration in VLBl measurements[J]. Deep Space Network Progress Report, 1978.   
+[4] Jacobs C S. Phase Calibration Tone Processing With the Block Il VLBl Correlator, 1998.   
+[5] Kiuchi，Hitoshi，Takahashi，et al.VLBl Phase-Calibration System Suitable for Very-Wide-Band and UItra-High-Frequency Operation.[J]. IEEE Transactions on Instrumentation & Measurement,1999.   
+[6] WANG J Q,WEI W R.The Analysis and Test of Phase Calibration[J]. Annals of Shanghai Astronomical 基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助 作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn   
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+Observatory Chinese Academy of Sciences,20o6(00):83-91.
+
+[7] YE W， XIANG Y， ZHAO R B.The Implementation and Test of Phase Calibration Signal's Extraction in CDAS[J]. Annals of Shanghai Astronomical Observatory Chinese Academy of Sciences,2010(00):111-118.
+
+[8] YANG Y,ZHENG W M. Software Realization Method of Extracting VLBI Phase Calibration Signal[J].Annals of Shanghai Astronomical Observatory Chinese Academy of Sciences, 20o6(00):107-117.   
+[9] JIANG K,HOU XM,XUK,etal. High Efciency Paralel Extraction of Multi-Tone PCAL Signals[J]. Journalof Spacecraft TT&C Technology, 2012,31(06):32-36.   
+[10] TAN Z G, ZHAl N, CHEN Y Q.The Principle and Implementation of PCAL Signal[J]. Radio Engineering, 2015,45(06):32-34+98.   
+[11] LIUYY, GUO S L, WANG B. The Processing of Phase Calibration Signal in VLBl Observation[J]. Manned Spaceflight, 2010,16(04):5-8+13.   
+[12] HUANG K C. Application of the Time Domain Option of a Vector Network Analyzer in Antenna Specification Measurement[J]. Telecommunication Engineering, 2007(03):189-191.   
+[13] WANG D W.A Receiver Group Delay Test Method based on VNA[J]. Information & Communications, 2017(06):49-51.   
+[14] ZHANG HJ, CHEN S F. Determining Converter's Group Delay Characteristic by Vector Network Analyzer[J]. Journal of Time and Frequency,2005(01):56-62.   
+[15] CAO Y,QIU X Y,LUF L,et al. Application of Measurement on Group Delay of Frequency-Translating Devices with VNA[J]. China Instrumentation, 2012(04):58-60.   
+[16]YANG L.Novel Method for Measuring Group Delayof Frequency Converting Devices[J].Foreign Electronic Measurement Technology, 2020,39(04):106-109.   
+基金项目：国家重点研发计划（2018YFA0404702）资助；国家自然科学基金（11873015）资助；中国科学院关键技术人才项目资助 作者简介：常捷，男，硕士．研究方向：天文技术与方法.Email:changj@shao.ac.cn   
+通讯作者：王锦清，男，正高级工程师．研究方向：天文技术与方法.Email: jqwang@shao.ac.cn
+
+[17] YINZQ, HUANG KD,HUY,et al.Least-Square Method Improving Group Delay Measurement[J].电子测量 与仪器学报,2009,23(S1):364-367.
+
+[18] FENG HT, SHU F C, HE X.Accuracy Analysis of Clock Ofset Compensation of Shanghai Sheshan VLBI Station[J]. Geomatics and Information Science of Wuhan University, 2021:1-6.   
+[19] YAO D,GONG JJ, MA L M, et al. The Preliminary Test Observation of UT1 with the VGOS System[J]. Journal of Time and Frequency, 2018,41(03):234-241.   
+[20] ZHANG H, ZHANG J,LIU L,et al.A Study of Space VLBI Data Recording Format—RDF and Its Data Decoding[J]. Astronomical Research & Technology, 2020,17(02):163-170.   
+[21]LUOJT,CHENL,WUYJ,etal. Progressof Testing of a VLBI Digital Baseband Converter[J]. Astronomical Research & Technology, 2010,7(03):214-221.   
+[22] WEI S X,WANG Q M,KONG D Q,et al. Algorithm for Estimating Pointing Eror of Large Dual-reflector Antenna[J]. Astronomical Research & Technology, 2020,17(04):513-521.   
+[23] WANG Z, KONG D Q,CHEN Z P.Surface Measuring Methods of Large Antenna: A Review[J]. Astronomical Research & Technology, 2020,17(01):52-59.   
+[24] WANG J Q,ZUO XT, MICHAEL Kesteven,et al.TM65m radio telescope microwave holography[J]. Scientia Sinica(Physica,Mechanica & Astronomica), 2017,47(09):92-102.   
+[25] WEN R H,FENGXC.Research on Time Delay Characteristic of Parabolic Antenna along with Temperature Variety[J]. Radio Engineering, 2010,40(06):42-44.   
+[26] HUANG X F，MA X.Analysis for Antenna Time Delay Stability[J]. Digital Communication World, 2019(06):12-14. [27] XUG Z, RUAN P. New Algorithmof Surface Parameter for Optical Parabolic Surface with High-precision[J].   
+Infrared and Laser Engineering, 2019, 48(06):441-447.
+
+# Method and application of measuring absolute link delay by PCAL
+
+Chang Jie1, 2， Wang Jinqing1,3,4, Jiang Yongchen1， Shu Fengchun1 (1.Shanghai Astronomical Observatory,Chinese Academy of Sciences,Shanghai 20o030,China; 2.Universityof Chinese Academy of Sciences,Beijing 10o049, China; 3.KeyLaboratory of Radio Astronomy, Chinese Academy ofSciences,Nanjing 210o08,China; 4.Shanghai Key Laoratory of Space Navigation and Positioning Techniques, Shanghai 200030,China) Abstract Very long baseline interferometry (VLBl) uses phase calibration (PCAL) signal to calibrate link delay. However,the existing PCALsignal can onlyobtain the relative change oflink delay.To meet the requirements of accurate measurement of absolute UT1，station clock error compensation，maintenance and diagnosis，and improving the accuracyof deep space TT&C in the future,absolute link delay is necessary to know.Inactual link, it is difficult to measure the absolute delay due to the existence of converter and other devices.This paper proposes a method to measure the absolute link delay using PCAL based on the linear variation of comb spectrum phase with frequency.Atthe same time,this paper designs a lightweight PCAL extraction software for fast diagnosis and absolute time delay measuring,which has been applied in actual work. Key Words link delay,very long baseline interferometry, PCAL,phase calibration,ambiguity

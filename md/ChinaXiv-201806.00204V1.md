@@ -1,0 +1,106 @@
+# 霍尔传感器故障造成特高压直流阀组解锁失败案例分析
+
+![](images/7dafaa45301701af5a5a2b29aa911398efb4d91814d21d0b1c6b9d2163afec15.jpg)
+
+谢超男1979年生，高级工程师，从事高压直流输电系统运行维护工作。
+
+谢　超　李乾坤　王慧泉（中国南方电网超高压输电公司广州局广州510663）
+
+摘要：霍尔传感器是特高压直流输电系统中旁路断路器特有的分合闸位置传感元件，在同一极中单阀组运行状态下解锁另一阀组的过程中起到重要作用。本文分析了一起由于霍尔传感器故障造成阀组解锁不成功的案例，提出对霍尔传感器进行定期校验的改进建议。
+
+关键词：特高压直流 霍尔传感器 旁路断路器 解锁失败中图分类号：TM45
+
+# Analysis of UHVDC Valve Group Deblock Fault Caused by Hall Sensor Failure
+
+Xie Chao Li Qiankun Wang Huiquan(Guangzhou Bureau CSG EHV Power Transmission CompanyGuangzhou 510663 China）
+
+![](images/d83c1fcfbb01553c2502dc1d581de294d607d2644e6ced69d230b188922efdfc.jpg)
+
+Abstract: Hall sensor is the specific switchposition sensor of bypass-switch in UHV system, and it is important to the process of deblock the single valve group while the anothervalve group is operating in the same pole. In this paper a valve group deblock failure caused by the Hall sensor fault is analized,and the improvement suggestions are proposed to regularly test on Hall sensor.
+
+李乾坤男 1985年生，工程师，从事直流输电技术管理工作。
+
+Keywords: UHVDC,Hall sensor, bypass-switch,deblock failed
+
+# 1 引言
+
+云广直流输电工程是世界上第1回 $\pm 8 0 0 \mathrm { k V }$ 特高压直流输电工程[1]，采用双极4阀组设计，每极由2个12脉动阀组串联组成，通过并联于阀组的旁路断路器的通断，可控制单个阀组独立运行[2]。
+
+由于旁路断路器需开断额定电压为 $4 0 0 \mathrm { k V }$ 、额定电流为3150A的直流电流，目前无论采用有源型和无源型直流断路器均无法直接开断这样的直流电流，需要通过换流阀组的配合，实现直流电流的转移[3]。在云广直流工程实际运行过程中，出现一起旁路断路器位置传感器故障造成换流阀无法解锁的故障，本文对此故障进行分析，并提出对旁路断路器预防性试验的改进建议。
+
+# 2 故障现象
+
+2014年4月2日17：46，某 $\pm 8 0 0 \mathrm { k V }$ 换流站在极Ⅱ低端阀组运行状态下，进行极Ⅱ高端阀组顺控解锁时，极Ⅱ高端阀组旁路断路器0820（简称0820）分闸后，极Ⅱ高端阀组保护旁路断路器82BPS动作，极Ⅱ高端阀组启动直流紧急停运控制(Emergency SwitchOff，ESOF），0820 重新合闸,极Ⅱ高端阀组顺控解锁不成功。
+
+直流场旁路断路器（Bypass Switch，BPS）开关配置旁路断路器保护I段 (82BPS-I)，保护动作逻辑如下：旁路断路器保护I段（82BPS-I）动作判据： $| I _ { \mathrm { d B P S } } | > 0 . 0 7 \mathrm { p u }$ （219A）& Open Bypass SwitchRequest $= 1$ （或者 Bypass Switch Checkback $= 0$ )， $T =$ $5 0 \mathrm { m s }$ ，即当组保护收到组控系统分BPS开关的命令或者BPS开关在分位，同时流过BPS开关的电流$I _ { \mathrm { d B P S } } > 2 1 9 \mathrm { A }$ 时，旁路断路器保护I段 (82BPS-I)延时 $5 0 \mathrm { m s }$ 动作合上BPS开关。
+
+根据录波图1可知，17：46：07.03002时刻，阀组保护！ $\left( = 2 2 \mathrm { R G 1 1 + R 1 } \right.$ ）（简称组保护）收到组控系统分开旁路断路器0820的命令，此时组保护软件程序内“22RG11+R1/GC_BPS_OPEN_REQ”信号（即“Open Bypass Switch Request”信号）的开关量由“0”突变为“1”，且该命令持续了约 $1 0 0 \mathrm { { m s } }$ 。
+
+组保护收到分0820命令后延时15ms开放旁路断路器保护I段（82BPS-I)，且17：46：07.0586时刻，组保护软件程序内“22RG11+R1/GDCP_BPS_Checkback”信号（即“Bypass Switch Checkback”信号，简称“Checkback”信号）的开关量由“1”突变为“0”，如图2所示红色开关量。
+
+在组保护开放期间 $I _ { \mathrm { d B P S } }$ 电流量由3146A上升到3750A，一直满足 $| I _ { \mathrm { d B P S } } | > 0 . 0 7 \mathrm { p u }$ （219A）判据,经 $5 0 \mathrm { m s }$ 延时后，17：46：07.096时刻，组保护动作合上0820，如图3所示绿色开关量，即“22RG11+R1/CLS_BS_REQ”信号。
+
+结合以上动作情况分析可知，旁路断路器保护I段（82BPS-I）正确动作。
+
+# 3 处理过程
+
+对于特高压直流输电系统，一极的两个阀组其中一个阀组运行，解锁第二个阀组时，需断开第二个阀组的旁路断路器。由于旁路断路器本身的断弧能力有限，因此解锁第二个阀组时，必须依靠阀组控制系统的精确控制，使换流阀的触发时序与预解锁阀组旁路断路器的分闸时间紧密配合，确保阀组旁路断路器打开时，流过的电流最小，使阀组旁路断路器电流可靠转移到换流阀上（简称强制移相过程)。
+
+![](images/e8d9ba71f8df7672981aa4b46688fd9b4161734b52448ff24279522c13506450.jpg)  
+图1“Open Bypass Switch Request”信号持续时间Fig.1“Open Bypass Switch Request” signal duration
+
+![](images/a51038d054a26837649bdf2c349b11afc3c4ff93d0b73aed83adfb425f566b00.jpg)  
+图2“Checkback”信号持续时间
+
+![](images/619700f2249b3c893409f096770c79a1afb47836119c212ed26bfe096e58b39c.jpg)  
+Fig.2“Checkback” signal duration   
+图3保护动作时间  
+Fig.3Operate time of protection
+
+具体原理如下：在一个阀组已处于解锁状态的情况下，为能够使阀组旁路断路器的分合控制与换流阀的触发时序紧密配合，在阀组旁路断路器中设置一个开关位置检测单元，该单元会在开关机构即将完成分合闸前 $1 0 \mathrm { m s }$ 发出一个 $4 \sim 2 0 \mathrm { m A }$ 的模拟量信号，提前通知阀组控制系统，进行换流阀触发脉冲释放。阀组解锁后首先发出分旁路断路器命令，不解锁换流阀。阀组旁路断路器接收到分闸命令后启动操作机构进行分闸，在该开关运行 $4 0 \mathrm { m s }$ 时，开关位置检测单元给出相应的模拟量信号到阀组控制系统，指示在 $1 0 \mathrm { m s }$ 以后开关即将打开。阀组控制系统接收到该模拟量后立即释放触发脉冲，并且保持触发角为 $7 0 ^ { \circ }$ 。由于解锁阀组的直流侧被阀组旁路断路器短路，解锁阀组加在旁路断路器上的电流与另一阀组产生的电流方向相反。通过试验发现，触发角保持为 $7 0 ^ { \circ }$ 解锁后 $1 0 \mathrm { m s }$ 产生的冲击电流可以将旁路断路器的电流转移到换流阀上，旁路断路器上流过的电流能够满足开关灭弧能力要求。阀组旁路断路器在换流阀解锁后 $1 0 \mathrm { m s }$ 可靠打开，阀组控制系统再延时6ms根据整流侧或逆变侧将触发角由 $7 0 ^ { \circ }$ 切换到正常状态，第二个阀组解锁成功。组控系统的软件逻辑如图4所示。
+
+由图5可见，极Ⅱ高端阀组启动解锁程序，发出分0820命令后 $6 5 \mathrm { m s }$ 内（组保护从接到0820分闸命令到旁路断路器保护I段动作的时间间隔为$1 5 \mathrm { m s } + 5 0 \mathrm { m s } = 6 5 \mathrm { m s } ,$ ，组控系统未收到0820分位信号，导致组控系统未能及时启动强制移相过程，使流经0820的电流熄弧。因而由于0820电流没有降低，一直保持在3125A以上，使组保护的旁路断路器保护I段动作，重新合上0820并启动阀组ESOF。此外，由图5可见，故障时刻，0820分位信号延迟了约 $1 4 3 \mathrm { m s }$ 才反馈至组控系统。而正常情况下，旁路断路器分位信号应该在组控系统发出解锁命令后延迟约 $4 0 \mathrm { { m s } }$ 就反馈至组控系统。
+
+![](images/a4ff84a1ca66e15cb82e23cd14478dab219b71c30d7e265d28240a2b8c2d0227.jpg)  
+图4组控系统的软件逻辑
+
+旁路断路器本体的位置变送器能随着开关分合闸操作，传送 $4 \sim 2 0 \mathrm { m A }$ 的模拟量电流信号来表征该开关位置的变化。因此，通过对比组保护“Checkback”信号及组控系统“CLOSED”信号的延迟时间发现，旁路开关机构箱位置变送器没有正常工作，组控系统是通过现场总线收到测控装置上送的位置信号。所以，初步判断是旁路开关上送组控系统的位置变送器出现问题。
+
+![](images/48a18838aee8c67866feec26eb71ee81b7bfb2a0789a9da69c29f2a45e440874.jpg)  
+Fig.4Software logic of the group control system   
+图50820分位信号延迟情况 Fig.5Delay of O820 tripping signal
+
+由于需要在旁路断路器完成分闸前 $1 0 \mathrm { m s }$ 发送位置信号给组控系统，因此无法采用常规断路器的分合闸辅助触头上送信号。组控系统收到的位置信号实际上由固定于断路器的霍尔传感器上送。
+
+霍尔传感器是常用传感器的一种，具有感受磁场的独特能力，电路结构简单、噪声小、体积小、动态范围大、频率范围宽、寿命长等。可以用磁场作为被检测信息的载体，在测量技术中将位移、力、加速度、角度、角速度、转速等非电、非磁物理量转换为电量[4。
+
+由霍尔传感器特性可见，其非常适合用于对旁路断路器尚未完全分闸时的非接触位置信号判断。当断路器分合闸时，固定于断路器拐臂上的坡莫合金材质感应头则随着断路器拐臂的运动而动作，如图6所示。
+
+坡莫合金的最大特点是具有很高的弱磁场导磁率，当其快速划过霍尔传感器元件 (见图6箭头)时，霍尔传感器内部产生一个 $4 \sim 2 0 \mathrm { m A }$ 的模拟量电流信号，通过感应头安装位置的不同，可以实现反映断路器分合的任何行程的信号上送。
+
+![](images/6fee7d8a7097b7a4818f28a66ad8264efb77f1e3ad7b058762763b6cc26df2e1.jpg)  
+图6霍尔传感器位置Fig.6Hall sensor position
+
+更换霍尔传感器元件后，重新进行远方分合闸操作，并在操作过程进行录波，查看录波文件发现0820与控制保护系统配合时间满足程序要求，具体如图7所示。更换后正常解锁该阀组。
+
+# 4 结束语
+
+从此次阀组解锁不成功案例分析可知，旁路断路器的位置变送器在极I的两个阀组中的其中一个阀组上运行，解锁第二个阀组时对控制系统起到重要作用。目前现有的各种断路器检验规程对此种霍尔传感器原理的位置变送器均无检验要求，常规预试项目中，测量断路器分合闸时间只是测量触头分合时间，对信号上送时间没有测量要求，因此建议在对旁路断路器进行预防性试验测试断路器分合闸动作时间时，还应测量该位置信号上送时间，确保分合位信号输出正常。
+
+![](images/d7c9f9d63dd0903907d93e1224a2fe898814b6b035dc1210c2329dc367b7b490.jpg)  
+图70820分位信号正常送出情况  
+Fig.7Normal delivery of O820 tripping signal
+
+# 参考文献
+
+[1] 许爱东，柳勇军，吴晓辰． $\pm 8 0 0 \ \mathrm { k V }$ 云广特高压直流安全稳定控制策略研究[J]．南方电网技术，2008，2(5):14-18.Xu Aidong,Liu Yongun,Wu Xiaochen. Study onsecurity and stability control strategy for $\pm 8 0 0 \ \mathrm { k V }$ Yun-Guang UHVDC transmission[J]. SouthernPower System Technology,2008,2(5):14-18.  
+[2] 高文．特高压直流输电系统用开关设备研发现状与结构分析[J]．高压电器，2012，48(11)：134-138.Gao Wen.Development and structure analysis ofthe switchgear applied to UHVDC transmissionsystem[J].High Voltage Apparatus,2012,48(11):134-138.  
+[3] 陈育中．霍尔传感器测速系统的设计[J]．科学技术与工程，2010，30(10)：7529-7532.Chen Yuzhong. Design of the velocity measuringsystem of hall sensor[J]. Science Technology andEngineering,2010,30(10): 7529-7532.  
+[4] 王帮田．高压直流断路器技术[J]．高压电器,2010，46(9):61-64，68.Wang Bangtian.Technology of HVDC circuitbreaker[J]. High Voltage Apparatus,2010,46(9): 61-64,68.
+
+# （上接第44页）
+
+Automation of Electric Power Systems,2009, 33(17): 66-70. [5] 蒋陆萍，曾祥君，李泽文，等．基于GPS 实现 电力系统高精度同步时钟[J]．电网技术，2011, 35(2):201-206. Jiang Luping, Zeng Xiangjun,Li Zewen,et al. Realization of high accuracy synchronous clock for power system based on GPS[J].Power System Technol0gy,2011,35(2):201-206.
+
+[6] 杨贵玉，江道灼，邱家驹．相角测量装置的同步测 量精度问题[J]．电力系统自动化，2003，27(14)： 57-61. Yang Yugui, Jiang Daozhuo,Qiu Jiaju.Synchronous measurement precision of phasor measurement unit[J].Automation of Electric Power Systems,2003, 27(14): 57-61.   
+[7] IEEE1588—2000 IEEE standard for a precision clock synchronization protocol for networked measurement and control systems[S].2003.

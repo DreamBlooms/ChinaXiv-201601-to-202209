@@ -1,0 +1,202 @@
+# DOI:10.5846/stxb201701200169
+
+杨淑娇,杨永平,石玲玲,毕迎凤,李建文,杨锦超,杨雪飞.基于PLFA 的高山栎和高山松林松茸菌塘土壤微生物群落特征研究.生态学报,201838(5):1630-1638.YangJ,Yag,JggsoflcobliosidrucureimatsutakeshirondoshiolsinQuercssemecapifoliandPnusdesataforestsctaEcoogicainica,18,8（5）668.
+
+# 基于PLFA的高山栎和高山松林松茸菌塘土壤微生物群落特征研究 C
+
+杨淑娇1,²,杨永平¹，石玲玲³，毕迎凤³，李建文³，杨锦超4，杨雪飞³，\*
+
+1中国科学院昆明植物研究所中国西南野生生物种质资源库，昆明650201  
+2中国科学院大学，北京100049  
+3中国科学院昆明植物研究所资源植物与生物技术重点实验室，昆明650201  
+4西南林业大学，昆明655024
+
+摘要：通过磷脂脂肪酸(Phospholipid fatty acid,PLFA)生物标记法对云南省香格里拉县的高山栎林和高山松林内的松茸菌塘和非菌塘的土壤微生物群落进行对比分析,结果显示:1)菌塘内的优势菌群主要包括真菌(18:2ω6,9c、18:1ω9c、18:3 w6c(6,9,12)）、革兰氏阴性菌(19:0 cyclow8c）、革兰氏阳性菌(15:0 iso)和未被鉴定的PLFAs( $1 6 { : } 0 \dot { . } 1 7 { : } 1$ anteiso B、18:1 w6c、16:1 w6c和18:0);2)从群落组成上看,菌塘内的真菌百分含量、真菌/细菌生物量比(F/B)显著高于非菌塘,而革兰氏阴性菌(GNB)和革兰氏阳性菌(GPB)的百分含量,以及总PLFAs均匀度(J)均低于非菌塘;3)从群落结构上看,土壤微生物群落在菌塘和非菌塘间、以及不同林型间均存在显著差异,且菌塘对群落结构的影响大于林型;4)无论是在群落组成还是群落结构上,林型均不与菌塘存在交互作用,即松茸菌塘的土壤微生物群落特征不随宿主森林类型而发生改变;5)土壤化学性质与林型密切相关,但与菌塘关系不明显。上述结果表明,菌塘内的土壤微生物群落组成和结构与非菌塘有所不同,且在两种林型中表现相似。
+
+关键词：松茸;菌塘；土壤微生物群落；林型;磷脂脂肪酸(PLFA)
+
+# Comparison of soil microbial community composition and structure in Tricholoma matsutake shiro and non-shiro soils in Quercus semecarpifolia and Pinus densata forests
+
+YANG Shujiao1²，YANG Yongping1，SHI Lingling³，BI Yingfeng³,LI Jianwen³，YANG Jinchao4，YANG Xuefei3 \*
+
+1 Germplasm Bank of Wild Species，Kunming Institute of Botany，Chinese Academy of Sciences，Kunming 650201，China   
+2 University of Chinese Academy of Sciences， Beijing 100049，China   
+3KeyLaboratorfoicntsdoteoougutefotecdeofeces，uin   
+4 Southwest Forestry University， Kunming 655024， China
+
+Abstract:The compositionand structure of the soil microbial community isa keydeterminantof thegrowth and developmentoftheprizededible mycorrizalfungus Tricholoma matsutakeanditsshiro.However,litleisknownaboutany differences inthecompositionand structureofsoil microbial communities between shiroand non-shirosoils，and whether these differences vary among diferent host forest types.Inthisstudy，we used phospholipid fattyacid（PLFA）analysis to comparethesoil microbial communities of shiroand non-shiro soils intwo forests dominated byQuercus semecarpifoliaand
+
+Pinus densata in Shangri-La County in northwest Yunnan，China.We found that：1）fungi $^ { \prime } _ { 1 8 : 2 \omega 6 , 9 \mathrm { c } , 1 8 : 1 \omega 9 \mathrm { c } }$ ，18:3 w6c（6,9,12）），gram-negative bacteria（19:0cyclo w8c），gram-positive bacteria（15:0iso），and non-specific PLFAs (16:0,17:1 anteiso B,18:1 w6c,16:1 w6c,18:0）were the dominant microbial groups in shiro；2）the percentage of fungiandthebiomassratiooffungitobacteria（F/B）weresignificantlyhigherinshirothan innon-shirosoils，butthe percentages of gram-negative bacteria and gram-positive bacteria，and the evenness $( J )$ of total PLFAs were lower in shiro thaninnon-shirosoils；3）soil microbialcommunitystructuredifered significantlybetweenshiroand non-shirosoilsand betweenthe twoforest types，andthe diference betweenshiroandnon-shirosoils was greater thanthe diference between thetwo forest types；4）there was no interaction between shiroand forest type，which indicates that shiro microbial communitycharacteristicsdidnotdiferbetweenhostforesttypes；5）soilchemical properties diferedsignificantlybetween the two forest types；however，no obvious diference was found between shiroand non-shirosoils.Our findings revealed differences inthecompositionandstructureof shiroand non-shirosoilmicrobialcommunities，and that these diferences were consistent across both Quercus semecarpifolia and Pinus densata forests.
+
+Key Words: Tricholoma matsutake;；shiro； soil microbial community； forest type；phospholipid fatty acid (PLFA)
+
+外生菌根(Ectomycorhiza,ECM)是由土壤真菌与植物根系形成的互惠共生体[1-2],是森林生态系统的重要组成部分,在维持生态系统稳定和多样性等方面发挥着重要作用[3]。松口蘑（Tricholoma matsutake）,又名松茸,是一种北半球广布的典型 ECM真菌,主要与松科和壳斗科多种植物共生形成外生菌根,包括日本的赤松（Pinus densiflora）、偃松（Pinus pumila）、南日本铁杉（Tsuga siebordii）[410],芬兰的欧洲赤松（Pinussylvestris）、欧洲云杉（Picea abies）[1],以及中国的高山松（Pinus densata）、云南松（Pinus yunnanensis）、高山栎（Quercus semecarpifolia）和元江锥（Castanopsis orthacantha)等[12,13]。最新研究还发现,松茸能被成功接种到其他科属的根系,在试验条件下产生共生关系甚至形成菌塘结构,例如,蔷薇科的Prunus speciosa[14]、桦木科的Betula platyphylla var. japonica[15]以及楝科的 Cedrela herrerae[16]。这充分说明松茸宿主植物的多样性和广谱性。 C S
+
+松茸子实体是名贵的野生食用菌,主要出口日本,在当地市场上价格高达1000 美元 $/ \mathbf { k g } ^ { [ 1 7 ] }$ 。以日本学者为主的科学家对松茸的人工栽培进行了近百年的探索[10-11,8-19],取得一定成果。目前能实现菌根合成并生成一定的菌塘结构,但尚未完全实现人工栽培出菇[20-21]。究其原因,一方面是我们对松茸与其宿主植物之间的相互关系和作用机制的了解不全面;另一方面,对松茸菌塘及其内的微生物群落特征了解较少。
+
+菌塘（Shiro)是由松茸的地下菌丝、宿主根系及周围的土壤结合形成的白色海绵状结构[4」,是松茸生长的重要载体和完成主要生活史的具体场所[22]。关于松茸菌塘内的微生物,前人已做了一些探讨[23-26],研究结果的广度和深度随着技术的发展不断提高。日本学者Ohara 等人早在1967年便采用分离培养的方式发现菌塘中可培养的细菌和放线菌减少[23]。随着技术的发展,Lian[24]、Kataoka[25]、Vaario[26]、马大龙[27]等人分别通过形态学鉴定、ITS(Internal transcribed spacer,ITS)多态性分析、PCR-变性梯度凝胶电泳（Denaturing gradient gelelectrophoresis,DGGE)技术、磷脂脂肪酸(Phospholipid fattacid,PLFA)生物标记法等手段对松茸菌塘土壤微生物群落特征进行了深人研究。近年来,由于新一代测序技术的发展,宏基因组学方法也运用到松茸菌塘的研究中来[28-29]。尽管如此,前人对松茸菌塘微生物的研究只针对松科某一种宿主森林类型,如Ogawa[4,7-9],i $\mathrm { K i m } ^ { [ 2 8 - 2 9 ] }$ 等人的研究，尚未见壳斗科宿主森林菌塘内微生物群落的研究报道。除此之外，还未见不同宿主森林类型内松茸菌塘微生物群落组成和结构的对比分析,缺乏对规律性的认知。
+
+本研究以松茸典型产区云南省迪庆州香格里拉县分布的高山栎林和高山松林为研究对象,采用磷脂脂肪酸(PLFA)生物标记法[30]对比研究上述两种松茸宿主森林类型内的菌塘和非菌塘的土壤微生物群落特征,分析与其相关的土壤化学性质。目的是回答松茸菌塘微生物群落特征在不同林型间是否存在异同的科学问题，为科学管理具有高附加值的松茸资源,保障其产量和质量,以及探索人工栽培条件奠定研究基础。
+
+# 1研究地区与研究方法
+
+# 1.1 研究点概况
+
+选择松茸产量较高且具有高山松和高山栎分布的云南省迪庆州香格里拉县建塘镇吉迪村为研究地点。该村所在的香格里拉县平均海拔 $3 3 0 0 \mathrm { m }$ ,干湿季分明且昼夜温差较大。年平均气温为 $7 . 3 \mathrm { ^ { \circ } C }$ ,年平均最低气温为 $1 . 9 \mathrm { { ^ { \circ } C } }$ ,年平均最高气温为 $1 4 . 3 \mathrm { ^ { \circ } C }$ ,年平均降水量为 $3 8 . 5 \mathrm { m m }$ ,年平均相对湿度为 $6 1 \%$ （中国气象数据网http://data.cma.cn/site/index.html香格里拉气象站数据）。其中高山栎林研究点( $9 9 ^ { \circ } 3 7 ^ { \prime } 5 2 . 5 9 ^ { \prime \prime } \mathrm { E }$ $2 8 ^ { \circ } 0 5 ^ { \prime } 3 8 . 4 8 ^ { \prime \prime } \mathrm { N } \ ,$ 平均海拔为 $3 7 4 7 \mathrm { { m } }$ ,森林建群种为高山栎（Quercus semecarpifolia）,约占 $4 5 . 1 9 \%$ ,平均高度为 $7 . 7 1 \mathrm { m }$ ;高山松林研究点 $\mathrm { ^ { \prime } } 9 9 ^ { \circ } 3 8 ^ { \prime } 2 8 . 7 3 { ^ { \prime \prime } }$ E, $2 8 ^ { \circ } 0 4 ^ { \prime } 1 1 . 0 9 ^ { \prime \prime } \mathrm { N } \rangle$ 平均海拔为 $3 4 5 2 \mathrm { m }$ ,森林建群种为高山松（Pinusdensata），约占$6 4 . 0 6 \%$ ,平均高度为 $6 . 2 0 \mathrm { m }$ 。两种森林类型下均有杜鹃灌丛分布。 2
+
+# 1.2样品采集
+
+土样采集工作于2014年8月上旬完成,该时间段为松茸出菇的活跃期。为使取样具有代表性,在两种林型各设置了5个 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的重复样方。为避免假重复,样方间的距离均大于 $2 5 \mathrm { m } ,$ 且每个样方中至少有3个距离大于 $2 \mathrm { m }$ 的松茸菌塘。去除土壤腐殖质层后,在每个样方中,用土钻采集3个菌塘的矿质层0—10cm 处的土壤。作为对照,再根据五点取样法采集5个非菌塘的矿质层0—10cm 处的土壤。采集的土样先过 $4 \mathrm { m m }$ 筛,然后用冰袋保鲜及时运回实验室。所有土样一部分风干用于土壤化学性质测定,另一部分保存在 $- 2 0 \%$ 冰箱用于土壤微生物分析。
+
+本实验共10个样方,80份土壤样品。后期处理中,按样方将重复样品均匀合并,每个样方有2份土壤样品：一份菌塘矿质层土样和一份非菌塘矿质层土样。最终共有 20份土壤样品用于后面的土壤微生物群落结构分析和土壤化学性质测定。
+
+# 1.3土壤化学性质测定
+
+用于化学性质测定的土壤首先过 $2 \mathrm { m m }$ 的筛，一部分用碳氮分析仪（Vario MAXCN,Germany）测定土壤全碳和全氮含量,用ICP-AES分析仪测定土壤全磷含量。另一部分经研磨再过 $0 . 2 5 \mathrm { m m }$ 筛后用精密酸度计（PHS-3C,Shanghai)测定土壤pH值。测定过程交由中国科学院西双版纳热带植物园生物地球化学实验室完成。
+
+# 1.4土壤微生物群落PLFAs 测定
+
+土壤微生物群落组成的测定,采用PLFA 生物标记法。PLFA 的提取过程参考 Bosio 和 Scow[31]的方法,测定过程由中国科学院华南植物园退化生态系统植被恢复与管理重点实验室完成。
+
+# 1.5 数据处理
+
+对PLFA 原始数据进行整理,包括每个样品中PLFA的组成、百分含量和生物量等信息。其中,单个PLFA 的百分含量表示该特征PLFA占总提取的PLFAs量的百分数[30]。单个PLFA 的生物量由内标19:0的反应值转换而来，单位为 $\mathrm { n m o l } / \mathrm { g }$ ,表示每克干土中该PLFA的含量,公式如下：
+
+用R软件包(vegan)进行数据分析。测定微生物多样性的指标,包括 Shannon-Wiener多样性指数 $( H )$ 、Pielou均匀度指数（Evenness, $J$ )和PLFAs丰度(Richness， $s$ )。具体计算公式如下：
+
+（1)Shannon-Wiener多样性指数 $( H ) ^ { [ 3 0 , 3 2 ] }$ （204号
+
+$$
+H = - \sum _ { i = 1 } ^ { s } P _ { i } \mathrm { l n } P _ { i }
+$$
+
+式中，S表示样品中PLFA生物标记的数目，即丰度， $P _ { i }$ 表示第 $i$ 个种占总数的比例。
+
+(2)Pielou均匀度指数 $( J ) ^ { [ 3 0 , 3 2 ] }$
+
+$$
+J = - \sum _ { i = 1 } ^ { s } P _ { i } \mathrm { l n } P _ { i } / \mathrm { l n } S
+$$
+
+用百分含量、生物量和多样性指数表征土壤微生物群落组成。根据各个变量的数据分布属性,分别采用二项分布检验(Binomial test,针对百分含量),双因素方差分析(Two-way ANOVA,针对生物量)和泊松分布检验(Poisson test,针对总PLFAs 多样性、均匀度和丰度)进行菌塘、林型及其交互作用对土壤微生物组成影响的显著性检验。用非参数多元方差分析法（Permutational analysis of variance,PERMANOVA)分析群落结构差异，及其与菌塘和林型的相互关系,并通过典范对应分析（Canonical correspondence analysis,CCA,CANOCO 4.5软件)偶联与之相关的土壤化学因子。 ）
+
+# 2结果与分析
+
+# 2.1菌塘的土壤微生物群落组成
+
+不同的磷脂脂肪酸表征不同的微生物类群[33],表1显示了所有样品中出现的 PLFAs及其代表的微生物类群。所有样品中共出现了76种PLFAs,每个样品中平均有 $( 4 0 \pm 5 )$ 种。²
+
+菌塘中共计出现63种PLFAs,其中主要的10 种PLFAs分别为指代真菌的 $1 8 : 2 \omega 6 , 9 \epsilon \left( 8 . 4 9 \% \right) , 1 8 : 1 \omega 9 \mathrm { c }$ $( 7 . 5 1 \% )$ ）和18:3w6c(6,9,12)( $2 . 4 4 \%$ ），共占 $1 8 . 4 4 \%$ ;指代革兰氏阴性菌的19:0cyclo $\mathrm { { w } } 8 \mathrm { { c } }$ ，占 $3 . 7 8 \%$ ;指代革兰氏阳性菌的15:0 iso,占 $3 . 5 1 \%$ ;未被鉴定的非特异性脂肪酸16:0（16.96%）、17:1 anteiso $\mathrm { B } ( 1 3 . 7 7 \% )$ ）、18:1 w6c( $6 . 8 5 \%$ ）、16:1w6c( $4 . 7 5 \%$ 和 $1 8 : 0 ( 3 . 1 6 \% )$ ，共占 $4 5 . 4 9 \%$ 。
+
+表1用于微生物生物标记的磷脂脂肪酸  
+Table1 Phospholipid fatty acids(PLFAs)used as microbial indicators   
+
+<html><body><table><tr><td>微生物类型 Microbial groups</td><td>磷脂脂肪酸生物标记PLFAbiomarke</td><td></td><td></td></tr><tr><td>放线菌Actinomycetes[34-36]</td><td>16:0 10-methyl,17:0 10-methyl,18:0 10-methyl,TBSA，19:0 10-methyl</td><td></td><td></td></tr><tr><td>丛枝菌根真菌AMF[37-38]</td><td>16:1 ω5c</td><td></td><td></td></tr><tr><td>真菌Fungi[35-37]</td><td>18:2 ω6,9c,18:1 ω9c,18:3 ω6,9,12c</td><td></td><td></td></tr><tr><td>革兰氏阴性菌GNB[35-37,39-40]</td><td></td><td></td><td>12:0 20H,15:1 @6c,15:0 30H,16:1 @9c,16:1 ω7c alcohol,16:1 ω11c,16:0 20H,16:1 20H,17:1</td></tr><tr><td>革兰氏阳性菌GPB[35-37,41]</td><td>13:0 iso，14:0iso，15:0iso,15:0anteiso,16:0iso,16:0anteiso,17:0iso,17:0 anteiso,18:0 iso</td><td>ω8c，17:0 cyclo，18:0 20H,18:1 ω5c，19:0 cyclo ω8c,20:1 ω9c</td><td></td></tr><tr><td></td><td>(18:2 @6,9c,18:1 @9c,18:3 ω6,9,12c)/(12:0 20H,15:1 @6c，16:1 @9c,16:1 ω7c alcohol,16:1</td><td></td><td></td></tr><tr><td>真菌/细菌比F/B ratio</td><td>0 iso，14:0 iso，15:0 anteiso,15:0 iso,16:0 iso,16:0 anteiso,17:0 iso,17:0 anteiso)</td><td></td><td>@11c,16:0 20H,16:120H,17:1 @8c,17:0 cyclo,18:0 20H,18:1 ω5c,19:0 cyclo @8c,20:1 ω9c,13:</td></tr><tr><td></td><td>(12:0 20H,15:1 ω6c,16:1 ω9c,16:1 @7c alcohol,16:1 ω11c,16:0 20H,16:1 20H,17:1 @8c,17:0</td><td></td><td></td></tr><tr><td>革兰氏阴性菌/革兰氏阳性菌 GNB/GPB ratio</td><td>cyclo，18:0 20H,18:1 ω5c,19:0 cyclo @8c,20:1 ω9c)/(13:0 iso,14:0iso,15:0 iso,15:0 anteiso,16:0</td><td></td><td></td></tr><tr><td></td><td>iso，16:0 anteiso，17:0 iso，17:0 anteiso)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>10:0 20H,10:0 30H,11:0 iso 30H,12:0,12:0 iso,12:030H,12:1 at11-12,13:0,13:0 anteiso,13:0</td><td></td></tr><tr><td></td><td></td><td>2OH,13:030H,14:0,14:0 iso 30H,14:1∞5c,15:0,15:020H,15:1iso G,15:1isoF,15:0iso 3OH,</td><td></td></tr><tr><td>非特异性脂肪酸</td><td>15:1 anteiso A,15:1 @8c,16:0,16:1iso G,16:1 isoH,16:0 30H,16:1 ω6c,17:0,17:0 20H,17:1 iso</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Unspecific PLFAs</td><td>ω5c,17:1 anteisoA,17:1 anteiso B,17:1 anteiso @9c,17:1 @7c,17:0 iso 3OH,18:0,18:03OH,18:1</td><td></td><td></td></tr><tr><td></td><td>20H,18:1 @6c,18:1 ω7c 11-methyl,19:0,19:0 iso,19:0 anteiso，19:1 ω9c，19:1 @6c,20:0,20:1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>ω7c，unknown 10.928</td><td></td><td></td></tr></table></body></html>
+
+二 GNB：革兰氏阴性菌Gram-negativebacteria;GPB：革兰氏阳性菌Gram-positivebacteria;AMF：丛枝菌根真菌Arbuscular mycorhizalfungi;F/ B:真菌/细菌比Ratioffungal tobacterial PLFAs；GNB/GPB：革兰氏阴性菌/阳性菌比RatioofGram-negativebacteriltoGram-positive bacterial PLFAs
+
+# 2.2菌塘和林型对土壤微生物群落组成的影响
+
+总结土壤微生物群落组成的各个指标在菌塘和林型间的差异(表2）,统计检验结果发现,土壤微生物的百分含量、生物量和多样性均在不同程度上受菌塘的影响,植被类型对土壤微生物群落的影响仅体现在个别
+
+类群的生物量方面。
+
+菌塘内真菌百分含量显著增加( $P < 0 . 0 0 1 \rangle$ ,革兰氏阴性菌 $\left( \mathrm { G N B } , P < 0 . 0 5 \right)$ 和革兰氏阳性菌（GPB, $P <$ 0.01)的百分含量显著降低。例如，真菌百分含量在高山栎林内由 $1 2 . 0 3 { \scriptstyle \pm 0 . 2 5 }$ 增加为 $1 9 . 9 8 { \scriptstyle \pm 3 . 3 8 }$ ,在高山松林内由 $1 3 . 9 2 { \scriptstyle \pm 0 . 3 9 }$ 增加到 $1 6 . 8 9 { \scriptstyle \pm 1 . 0 2 }$ 。菌塘内放线菌和丛枝菌根真菌(AMF)的百分含量减少,但不显著( $P >$ 0.05）。菌塘内真菌/细菌生物量比(F/B)显著高于非菌塘( $\ P < 0 . 0 1 \cdot$ ）。总的来说,菌塘并不影响土壤微生物总 PLFAs多样性(Shannon 多样性指数)和丰度,及各微生物类群的 PLFAs丰度,但菌塘内土壤微生物总PLFAs均匀度(Pielou 均匀度指数)显著低于非菌塘( $\ P < 0 . 0 5 )$ 。 n
+
+除了真菌和AMF的生物量,林型对大部分表征土壤微生物群落组成指标的影响并不显著,也不与菌塘产生交互作用。林型对真菌和AMF生物量的影响表现为;真菌和AMF 生物量在高山栎林内均显著高于高山松林( $\ P < 0 . 0 5 )$ 。 .0
+
+表2菌塘、林型及其交互作用对土壤微生物百分含量、生物量和多样性的影响  
+:2Effects of shiro,forest type and their interactions on soil microbial percent，biomass and diversity (mean±( $n = 5$ ）   
+
+<html><body><table><tr><td rowspan="3" colspan="2">变量Variables</td><td colspan="2">高山栎林 Q.semecarpifolia</td><td colspan="2">高山松林 P.densata</td><td colspan="3">显著性检验 Significance test</td><td></td></tr><tr><td rowspan="2">菌塘 Shiro</td><td>非菌塘 Non- Shiro</td><td colspan="2">菌塘</td><td rowspan="2">非菌塘 Non- Shiro</td><td rowspan="2">菌塘</td><td>林型 Forest</td><td>菌塘×林型 Shiro ×</td></tr><tr><td></td><td>Shiro</td><td>Shiro</td><td>type</td><td>Forest type</td></tr><tr><td>百分含量a</td><td>真菌Fungi</td><td>19.980±3.382</td><td>12.034±0.247</td><td>16.886±1.023 13.920±0.388</td><td></td><td></td><td>***</td><td>ns</td><td>ns</td></tr><tr><td>Percent/%</td><td>革兰氏阴性菌GNB</td><td>10.384±1.112</td><td>13.278±0.168</td><td>8.184±1.160</td><td></td><td>11.526±0.224</td><td>*</td><td>ns</td><td>ns</td></tr><tr><td></td><td>革兰氏阳性菌GPB</td><td>10.356±2.209</td><td>14.870±0.230</td><td>10.338±1.276</td><td></td><td>13.768±0.618</td><td>**</td><td>ns</td><td>ns</td></tr><tr><td></td><td>放线菌 Actinomycetes</td><td></td><td>3.318±1.3664.808±0.799</td><td>2.790±0.952</td><td></td><td>4.624±0.677</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>丛枝菌根真菌AMF</td><td>1.040±0.275</td><td>1.984±0.048</td><td>0.674±0.073</td><td></td><td>1.328±0.128</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>非特异性PLFAs</td><td></td><td>54.500±1.310 53.024±0.815</td><td>61.110±2.099</td><td></td><td>54.256±1.237</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>生物量b</td><td>总 PLFAs Total PLFAs</td><td>33.373±8.344</td><td>33.571±5.896 21.222±3.654</td><td></td><td></td><td>27.558±1.757</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Biomass/(nmol/g)</td><td>真菌Fungi</td><td>5.983±0.8144.047±0.640</td><td></td><td>3.514±0.430</td><td></td><td>3.880±0.274</td><td>ns</td><td>*</td><td>ns</td></tr><tr><td></td><td>革兰氏阴性菌GNB</td><td>3.684±1.171</td><td>4.564±0.832</td><td>1.897±0.583</td><td></td><td>3.218±0.254</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>革兰氏阳性菌GPB</td><td>4.031±1.820</td><td>4.849±0.820</td><td>2.254±0.592</td><td></td><td>3.871±0.314</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>放线菌Actinomycetes</td><td>1.469±0.920</td><td>1.693±0.483</td><td>0.738±0.396</td><td></td><td>1.321±0.251</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>非特异性 PLFAs</td><td>丛枝菌根真菌AMF</td><td>0.408±0.198</td><td>0.657±0.107</td><td>0.148±0.036</td><td></td><td>0.370±0.058</td><td>ns</td><td>*</td><td>ns</td></tr><tr><td>F/B</td><td></td><td>18.305±4.008</td><td>17.986±3.114</td><td>13.058±1.751</td><td></td><td>15.122±0.676</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>GNB/GPB</td><td></td><td>1.120±0.286</td><td>0.435±0.013</td><td>1.019±0.205</td><td></td><td>0.550±0.023</td><td>**</td><td>ns</td><td>ns</td></tr><tr><td>总 PLFAs 多样性(H)</td><td></td><td>1.085±0.158</td><td>0.937±0.019</td><td>0.829±0.099</td><td></td><td>0.832±0.012</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>总 PLFAs均匀度(J)</td><td></td><td>2.910±0.078</td><td>3.026±0.019</td><td>2.834±0.086</td><td></td><td>2.962±0.040</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>总 PLFAs 丰度(S)</td><td></td><td>0.785±0.011</td><td>0.817±0.006</td><td>0.783±0.014</td><td></td><td>0.804±0.005</td><td>*</td><td>ns</td><td>ns</td></tr><tr><td>真菌Fungi丰度</td><td></td><td>41.000±3.332</td><td>40.600±0.927</td><td>37.400±2.064</td><td></td><td>40.000±1.517</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td></td><td>3.000±0.000</td><td>3.000±0.000</td><td>3.000±0.000</td><td></td><td>2.800±0.179</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>革兰氏阴性菌GNB 丰度</td><td>8.200±0.716</td><td>7.600±0.492</td><td>6.800±0.581</td><td></td><td>7.600±0.224</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>革兰氏阳性菌 GPB丰度</td><td>6.600±0.492</td><td>7.000±0.000</td><td>6.200±0.179</td><td></td><td>6.600±0.224</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>丛枝菌根真菌AMF 丰度</td><td>放线菌Actinomycetes 丰度</td><td>2.400±0.224</td><td>2.800±0.179</td><td>2.200±0.179</td><td></td><td>2.600±0.224</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td></td><td>1.000±0.000</td><td>1.000±0.000</td><td>1.000±0.000</td><td></td><td>1.000±0.000</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>非特异性 PLFAs 丰度</td><td></td><td>19.800±2.102</td><td>19.200±0.716</td><td>18.200±1.252</td><td></td><td>19.200±1.252</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>
+
+ns: $P > 0 . 0 5$ ，\* $\textit { P } < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ ， $^ { * * * } P < 0 . 0 0 1 ; \mathrm { a }$ ：采用二项分布检验;b：采用双因素方差分析;c：采用泊松分布检验
+
+# 2.3菌塘和林型对土壤微生物群落结构的影响
+
+通过非参数多元方差分析发现(表3),菌塘、林型均显著影响土壤微生物群落结构,其中菌塘( $R ^ { 2 } = { }$ $0 . 2 6 3 , P < 0 . 0 1 ,$ 的影响大于林型( $^ { \prime } R ^ { 2 } { = } 0 . 1 7 3 , P < 0 . 0 5 )$ 的影响,但两者的交互作用对微生物群落结构的影响不显著( $\ P > 0 . 0 5 ,$
+
+http://www.ecologica.cn
+
+ble3ResultofPERMANOVAtestabouttheefectsofshiro,foresttypeandtheir interactionsonsoilmicrobialcommunitystruct   
+
+<html><body><table><tr><td>变量Variables</td><td>Df</td><td>Sq</td><td>F.Model</td><td>R²</td><td>P</td><td></td></tr><tr><td>菌塘 Shiro</td><td>1.000</td><td>0.212</td><td>7.574</td><td>0.263</td><td>0.004 **</td><td></td></tr><tr><td>林型Forest type</td><td>1.000</td><td>0.140</td><td>4.975</td><td>0.173</td><td>0.015 *</td><td></td></tr><tr><td>菌塘×林型 Shiro × Forest type</td><td>1.000</td><td>0.007</td><td>0.249</td><td>0.009</td><td>0.869</td><td>2</td></tr></table></body></html>
+
+\* $P < 0 . 0 5$ ，\*\* $P < 0 . 0 1$ ;df:自由度 Degree of freedom;Sq:均方 Mean Square;F.Model:F检验的结果 The result of F-test
+
+# 2.4微生物群落结构与菌塘、林型和土壤化学性质的关系
+
+对样品中出现频率最高的 40 种磷脂脂肪酸进行典范对应分析（Canonical correspondence analysis,CCA），发现除菌塘和森林类型外,各个土壤化学指标也在不同程度上与土壤微生物的群落结构相关(图1)。然而进一步分析表明,这些土壤化学指标主要与林型相关联(表4）,表现为高山栎林的全碳( $( P ^ { ' } ( 0 . 0 0 1 )$ 全氮（ $P <$ 0.05）、全磷( $P < 0 . 0 0 1 ;$ 和碳氮比( $P < 0 . 0 0 1 _ { \cdot }$ )显著高于高山松林，而 $\mathrm { \ p H }$ 值显著低于高山松林 $( P _ { 1 } < 0 . 0 5 )$ 。对于菌塘和非菌塘,土壤化学性质间并无显著差异（表4）。
+
+表3菌塘、林型及其交互作用对土壤微生物群落结构的非参数多元方差（PERMANOVA)分析  
+表4菌塘、林型及其交互作用对土壤化学性质的影响  
+Table 4Efects of shiro,forest type and their interactions on soil chemical properties（mean±SE, $n = 5$ ）   
+
+<html><body><table><tr><td rowspan="2">变量Variables</td><td colspan="2">高山栎林Q.semecarpifolia</td><td colspan="2">高山松林P.densata</td><td colspan="4">双因素方差分析 Two-way anova</td></tr><tr><td>菌塘 Shiro</td><td>非菌塘 Non-Shiro</td><td>菌塘 Shiro</td><td>非菌塘 Non-Shiro</td><td></td><td>菌塘 Shiro</td><td>林型 Forest type</td><td>菌塘×林型 Shiro × Forest type</td></tr><tr><td>pH</td><td>4.532±0.327</td><td>4.476±0.332</td><td>4.944±0.117</td><td>5.236±0.109</td><td></td><td>ns</td><td>*</td><td>ns</td></tr><tr><td>全碳 Total carbon/(g/kg)</td><td>51.412±11.177</td><td>57.592±9.962</td><td>15.500±1.851</td><td>22.144±3.374</td><td></td><td>ns</td><td>***</td><td>ns</td></tr><tr><td>全氮 Total nitrogen/(g/kg)</td><td>1.770±0.467</td><td>2.282±0.423</td><td>0.930±0.158</td><td>1.206±0.182</td><td></td><td>ns</td><td>*</td><td>ns</td></tr><tr><td>全磷 Total phosphorus/(g/kg)</td><td>0.576±0.043</td><td>0.634±0.046</td><td>0.372±0.045</td><td>0.430±0.049</td><td></td><td>ns</td><td>***</td><td>ns</td></tr><tr><td>碳氮比(C/N)</td><td>29.998±1.140</td><td>25.544±0.698</td><td>17.438± 1.671</td><td>18.621±1.266</td><td></td><td>ns</td><td>***</td><td>*</td></tr></table></body></html>
+
+ns:P>0.05，\* P<0.05，\*\*P<0.01，\*\*\*P<0.001
+
+# 3讨论
+
+掌握菌塘内微生物群落结构及其与宿主植物的相互关系,对科学管理具有高附加值的松茸资源,保障其产量和质量、并最终实现人工栽培具有重要意义。在自然界松茸与松科和壳斗科的多个物种产生共生关系。过去针对赤松（Pinusdensiflora）林[23-25,28-29]、偃松（Pinus pumila）林[7]、云杉（Piceaglehni）林[8]、铁杉（Tsugasieboldii)林[4]等宿主森林的研究为我们认知松茸菌塘内的微生物群落组成奠定了基础。但这些研究结果通常相对独立、缺乏横向对比，限制了我们对松茸菌塘微生物群落特征的规律性认知。本研究不仅首次研究了壳斗科高山栎林内的菌塘微生物群落特征,还将其与高山松林进行对比分析,浅析其共性和规律。
+
+研究主要发现,尽管高山栎林的真菌和AMF的生物量显著高于高山松林(表2),且两种林型在微生物群落结构上存在显著差异(表3、图1),但高山栎林和高山松林间菌塘微生物群落特征的差异并不显著。此外，非参数多元方差分析也表明菌塘对土壤微生物群落结构的影响大于林型（表3）,且两者间不产生交互作用。综上所述,研究认为本研究涉及的两种林型间松茸菌塘微生物群落的特征基本相似,具有共性。然而该共性是否普遍存在并具有规律？有待更加广泛的取样和深入的研究来解答。
+
+松茸菌塘具有特定的微生物群落特征。与非菌塘相比,菌塘内的真菌含量增加,可能主要由松茸本身为优势类群所决定。无论采用哪种方法,前人已知的研究结果均表明菌塘内细菌减少[23,25]。本研究再次印证了该观点,发现GPB和GNB在菌塘中的百分含量显著下降。分析其原因,目前存在两种可能性解释。首先，根据最新研究,松茸子实体在实验室离体条件下会分泌由吡喃糖氧化酶（pyranose oxidase）产生的过氧化氢，可抑制致病菌立枯丝核菌(Rhizoctonia solani)的生长[42]。本研究中土壤取样时间恰好是出菇期,如果在野外条件下松茸子实体也能分泌过氧化氢,可能是解释GPB和GNB 减少的原因。其次,Park 等人[43」从松茸担子果、赤松根尖和菌塘土壤中均分离到一个木霉属新种Trichodermasongyi,该属物种通常为植物病原体的生物控制媒介，而Vaario 等[26]的文章也提出,木霉属真菌与松茸总是存在共生关系，因此另一种可能即是松茸在木霉属物种的协助下抑制菌塘内细菌生长。
+
+本研究还发现，从PLFAs多样性看，菌塘与非菌塘并不存在显著差异，也就是说菌塘也具有丰富的类群多样性(表2），这与Vaario等[26]的观点相似。另外,菌塘与非菌塘的总PLFAs生物量也基本等量。有趣的是，针对北方温带森林外生菌根菌Piloderma菌丝垫和非菌丝垫(与本文菌塘和非菌塘概念相似)的定量PCR研究也有类似发现[44]。这可能说明在外生菌根菌主导的土壤菌丝际，微生物总生物量与周边土壤保持一致。然而，菌塘的PLFAs均匀度显著下降，说明尽管总生物量和多样性维持稳定，但菌塘内各组分间的相对含量较非菌塘发生了变化，这种变化的结果使得各组分间的相对含量差异增大。最为典型的代表便是真菌与细菌的相对变化上，菌塘内真菌比例增加,细菌比例下降,导致菌塘内F/B 显著增加(表2）。
+
+![](images/938e06fb22a4149b7201b9d94b92b726b68553e59758d5656033783a57ff6596.jpg)  
+图1土壤微生物PLFAs与土壤化学性质的典范对应分析Fig.1Canonical correspondence analysis of soil microbial PLFAsand soil chemical factorsQs：高山栎林 $Q$ semecarpifolia；Pd:高山松林 P.densata；Shiro:菌塘；Non-Shiro：非菌塘;TC：全碳Totalcarbon；TN：全氮Totalnitrogen；TP：全磷 Total phosphorus；C/N：碳氮比 Ratio of totalcarbon to total nitrogen
+
+分析发现尽管两种林型间的 $\mathrm { \ p H }$ 、全碳、全氮、全磷
+
+和碳氮比存在显著差异(表4),但菌塘和非菌塘的土壤化学特征基本相同,说明松茸主导菌塘后并未改变土壤的化学性质。该结果与Vaario 等[26]在的芬兰的研究结果相同。最后,值得注意的是,仍有超过一半的PLFAs未能被鉴定（表2）,在一定程度上限制了我们对菌塘微生物群落的全面理解,未来可结合其他研究手段,特别是结合下一代测序技术深入解析松茸菌塘的微生物群落特征。
+
+# 4结论
+
+综上所述,松茸菌塘内的土壤微生物群落组成和结构特征与非菌塘存在差异,菌塘的真菌含量和F/B 增加,细菌含量减少,表明松茸改变了菌塘的土壤微生物群落组成和结构,导致菌塘具有特定的微生物群落特征。此外,菌塘和非菌塘微生物群落特征的差异在高山栎和高山松林内表现相似,说明松茸对菌塘微生物群落结构的影响不随宿主森林类型而改变。
+
+# 参考文献（References）:
+
+[1]Pennsi E.The secret life of fungi. Science,2004,304(5677): 1620-1622.高程，郭良栋.外生菌根真菌多样性的分布格局与维持机制研究进展.生物多样性，2013，21（4)：488-498.5 VanDerHeijdenMG,BardgettRD,VanStralenNM.Theunseenmajoritysoilmicrobesasdriversofplantdiversityandproductivityinterrestrial ecosystems.Ecology Letters，2008，11(3）：296-310.OgawaM.Microbalologof‘Siro’iTicholomamatsuake（S.otIai）SingnditsaliedspecsVicomamatsutakeiTsugsieboldi forests.Transactions of the Mycological Society of Japan，1977,18(1）：34-46.  
+[5]HamadaM.GeneralitroductiontTricholomamatsutake（inJapanse）//TheMatsutakeResearchAsociation，edMatsutake（TricholomatsutakeSinger）itsundmetalSudisdEconcroductioofteFitodKyoto：eatsutakeReearchsocatio966.  
+[6]ndoisioiaaiuailsueveitchii and Tsuga diversifolia in the subalpine forests of Japan.Mycoscience,2O15,56(4）：402-412.  
+[7]Ogawacobalolof‘S’incolomsuke（SIotIa）ingditsldsisIcoamatsutaiipumila var.yezoalpina forest.Transactions of the Mycological Society of Japan，1976,17:176-187.  
+[8]Ogawaoalolf‘Siloatsue（Sinsdse:amatsuicglehni and Picea glehniiAbiessachalinensis forests.Transactiosof the Mycological Societyof Japan，1976,17:188-198.  
+[9]OgawaMrobaolof‘Sio’icolomatsuae（SoIi）Singdtsldsi:coloamatsueudiversifolia forests.Transactions of the Mycological Society of Japan，1977,18：20-33.  
+[10] Ogawa M.The Biology of Matsutake.Tokyo：Tsukiji-Shokan，1978.  
+[11] VaarioLM,erjalavnEsaloJtooatioofcosutakedtoajoesan assessment of in vitro mycorrhiza formation.Mycorrhiza，2010,20(7）：511-518.  
+[12]YamanaaK,ian，CaHenJSpeofottreaicolomsukedoeleisiuScience & Biotechnology，2011,19：79-87.  
+[13］苏开美.云南楚雄、中甸地区松茸生态环境调查研究.中国食用菌，2002，21(3)：19-20.  
+[14] Murata H，Yamada A，Yokota S,Maruyama T,Endo N,Yamamoto K,Ohira T,Neda H.Rot endophyte s vitro between theectomycozalbsidioyeeTricholoamatsutkeandebsularycoalplntPrusspecisyoa444).  
+[15]MurataH，Yaad，aruaedHctooasinvitroetwnTrcholomatsutae，bsiyetehaoaihPinaceae，and Betula platyphylla var.japonica，anearly-successional birch species，incool-temperate . Mycorrhiza，2015，25（3）:237-241.  
+[16] MurataH，YamadaA，MaruyamaT,EndoN，YamamotoK，HayakawaN，NedaH.Inviroshiroformationbetweenthectomcozalbasidiomycete Tricholoma matsutakeand Cedrela herrerae in the Mahogany family（Meliaceae).Mycoscie ，2014，55(4): 275-279.  
+[17] 陈荣民，张春凤，张虎.松茸生态及人工增产技术综述.中国林副特产,2003，（4)：21-22.  
+[18]TminagaY.richoloma mtsutke/hangST,HayesWA,Eds.TeBologndCivatioofEdibleMushooNeYork:Acadee,1978: 683-697.  
+[19] YamadaA，KanekawaS，Oasa M.EtomycorhizaforationofTricholomamatsutakeonPinusdensifor.Mycoscience，1999，4（2）：193-198.  
+20]ddsattsiosueusitresembles naturally occurring‘shiro’. Mycorrhiza，2006,16(2):111-116.  
+[21]Vaario L M，Guerin-Laguete A，Gill W M,Lapeyrie Only two weeks are required for Tricholoma matsutake to differentiateectocotsofsedtbl：293-297.  
+[22］李小林，金鑫，李强，熊川，郑林用.生态环境因子对四川松茸菌塘土壤微生物的影响.应用与环境生物学报，2015，21（1)：164-169.  
+23]OaraHapeaaeceoftiysioase（aie,213(5075): 528-529.  
+24]LinCkealfeogroundgenets，sociationwithultilestreendalterationofexistingtomoralcomuiiesNewPytologst，，（4）：825-836.  
+[25]Kataoka R, Siddiqui Z A KikuchiJ,Ando M,Sriwati R,Nozaki A,Futai K.Detecting nonculturable bacteria in theactive mycorrhizal zoneofthe pine mushroom Tricholoma matsutake.The Journal of Microbiology，2012,50(2）: 199-206.  
+26]Vaieloforest soils.Applied and Environmental Microbiology，2011,77(24）：8523-8531.  
+[27] 马大龙，臧淑英，李莹.基于磷脂脂肪酸生物标记法的松茸生长土壤微生物测定.贵州农业科学,2015，43（3)：106-109.  
+[28] KimM,YooH,iY,KiJ,gW,iJGpaaielisofelesitdiisbiigtgfTricholoma matsutake by barcoded pyrosequencing.Journal of Applied Microbiology，2014,117(3）：699-710.  
+29] Kim M,YoonH,YouYH,KimYE,WooJR,SeoY,LeeGM,KimYJ,KongWS,KimJG.MetagenomicanalysisoffungalCoiisInhabitingtheFairyRing ZoneofTricholomamatsutake.Jouralof MicrobiologyandBiotechnology，2O13,23（10)：347-1356.  
+[30] 张秋芳，刘波，林营志，史怀，杨述省，周先冶.土壤微生物群落磷脂脂肪酸 PLFA 生物标记多样性.生态学报，2009，29（8)：4127-4137.  
+[31]BossioAScoKmpctsbdgolcobaluiti：ospolidatyidprofldubstraelipaterms.Microbial Ecology，1998,35(3）: 265-278.  
+[32] 戈峰.现代生态学.北京：科学出版社,2002：252-254.  
+[33] WuJP,LiuZF,WangXL,SunYX,ZouLX,LinYB,FuSLEfetsofunderstoryeovalandtregirdlingonsoilmicrobaloitycompositionandliterdecompositionintwoEucalyptusplantations inSouthChina.FunctionalEcology，2011,25(4）：921-931.  
+[34]Bssio,lecJAcoK,FjlteratooflcbalutiesdwaterualitinstoedeadsSdBiochemistry，2006，38(6)：1223-1233.  
+[35]VestalJitidsioalolatiiastoolo535-541.  
+[36]ZellsLPosphlipiattcdprofilesielectedmemersoflcobalommunitis.Cemosere,995（/）：-94.  
+[37] Frostegard $\check { \mathrm { A } }$ ，TunlidA，BathE.Phospholipidfatyacidcomposition，biomass，andactivityofmicrobialcommunitiesfromtwosoiltypeexperimentally exposed todiferentheavy metals.Appliedand Environmental Microbiology，1993,59（11)：3605-3617.  
+8OssoaufleafdeacillEcology，1999,29（4)：303-310.  
+[39] FiererN，chelJ,denratisicaloityompoiiotouhtolepthflesSloondst2003，35(1):167-176.  
+[40] ParkerJH,SmithGA,rdricksoH,VestalJR,WiteDCesiveassayedodroftycidsfroopolysahadelipidA,forGram-negative bacteria in sediments.Applied and Environmental Microbiology，1982,44(5）：1170-1177.  
+[41] WilkinsonS.Gam-negativebacteria//RatledgeC，Wilkinson SG,eds.MicrobialLipids.London：Academic Press，1988，1:299-88.  
+[42] TakakuraY.TricholoamatsutakefuitdiesscretehdrogenperoxideaspotentinbitoroffungaowthCaadanJoualoficoiolog，2015,61(6):447-450.  
+[43]Park MS,OSY,ChoHJ,FongJ,CheonWJ,LimYW.Trichodermasongyispnov.，anewspeciesasociatedwiththepineshoo（Tricholoma matsutake）.Antonie van Leeuwenhoek，2014,106(4）：593-603.  
+[44]KlberLAiJEyticifgldcterluieaditfdoulBiology and Biochemistry，2011，43（5）：1042-1050.>

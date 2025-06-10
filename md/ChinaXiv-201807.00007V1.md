@@ -1,0 +1,220 @@
+# 1989一2016年吐鲁番高昌区绿洲时空格局变化及其驱动因素
+
+刘亚文'，阿不都沙拉木·加拉力丁}²，阿拉努尔·艾尼娃尔'，买合甫拉提·乃比'
+
+（1．新疆大学资源与环境科学学院，新疆 乌鲁木齐830046;2．新疆大学绿洲生态教育部重点实验室，新疆 乌鲁木齐830046)
+
+摘要：本文以1989、1997、2002、2009、2016 年吐鲁番高昌区遥感影像作为数据源,提取高昌近27a 的绿洲分布情况。利用GIS、Fragstats 和相关统计方法,开展高昌绿洲时间序列和空间分布上的变化及驱动因素分析。结果表明;27 a来高昌绿洲总体呈扩张趋势,同时绿洲与非绿洲转换现象显著,绿洲面积由1989 年的 $4 1 3 . 4 7 ~ \mathrm { k m } ^ { 2 }$ 增长至2016的 $8 0 0 . 4 8 ~ \mathrm { k m } ^ { 2 }$ ,其中1997—2002年扩张速度最快;绿洲面积扩张、缩减主要发生在东西两侧,绿洲稳定区主要集中在绿洲中部,波动变化主要集中在绿洲边缘地区,分布零散地区;绿洲景观格局破碎度先下降后逐渐上升，景观形状趋于复杂,但整体景观结构仍比较单一，易受人类活动影响;27a来高昌区绿洲变化受自然、人文社会因素的影响,但人文因素起决定作用,其中水资源的开发利用是绿洲扩张的前提条件,农业人口、经济发展、农业现代化和政策是主要的驱动因素。
+
+关键词：绿洲；时空格局；驱动因素；人类活动；高昌区；吐鲁番；新疆
+
+绿洲作为干旱区的一种中小尺度的非地带性生态景观，为人类的生产、生活提供了基本的资源供应和环境基础，是干旱区人类生存活动与发展的中心[1-2]。近年来在干旱气候、水资源、人类经济活动等因素的共同作用下，绿洲规模、景观格局发生了变化，进而对绿洲生态的稳定性和区域经济的可持续发展产生影响〔3-4」。目前,国内的绿洲研究主要集中在河西的金塔、民勤、石羊河、黑河、疏勒河以及新疆艾比湖、玛纳斯河、克里雅河、和田、策勒等区域，内容主要包括绿洲时空变化与演变[5-12]、土地利用覆被变化[13-17]、绿洲化与荒漠化[18-19],而对干旱区绿洲时空变化景观格局分析及变化驱动机制研究还比较薄弱[21]。吐鲁番高昌区绿洲是西北干旱地区农耕绿洲的典型代表，该地降水量极少，蒸发量极高，被高山和荒漠包围，生态环境脆弱，人地矛盾越来越突出。因此，深入了解绿洲时空格局变化及驱动机制对于合理利用、开发绿洲水土资源有重要意义[22]
+
+吐鲁番高昌区位于吐鲁番盆地，属于温带大陆性荒漠气候，是典型的风沙区、农牧交错区和生态脆弱区，该地绿洲具有很大的变动性、脆弱性，其发展过程总是受各种外部因素尤其是水资源以及人类活动的影响。因此，监测和量化绿洲时空变化并分析其人文驱动因素对绿洲的保护与开发具有重要的意义。本文以高昌区绿洲为例，利用1989—2016年不同年份的遥感数据提取绿洲信息，基于3S技术分析了近27a来高昌绿洲时空格局变化特征及其驱动因素，为绿洲生态保护与可持续发展提供科学依据，也为今后绿洲动态变化的模拟提供参考依据。
+
+# 1研究区概况与数据来源
+
+# 1.1 研究区域
+
+高昌区位于新疆天山支脉博格达峰南麓，地处$8 8 ^ { \circ } 4 6 ^ { \prime } 1 4 ^ { \prime \prime } \sim 8 9 ^ { \circ } 9 3 ^ { \prime } 6 1 ^ { \prime \prime } \mathrm { E }$ ， $4 1 ^ { \circ } 3 5 ^ { \prime } 6 7 ^ { \prime \prime } \sim 4 3 ^ { \circ } 6 3 ^ { \prime } 1 4 ^ { \prime \prime } \mathrm { N _ { c } }$ 地势总体西北高而东南低，地貌主要为山地、平原戈壁、沙漠绿洲。干旱荒漠气候是吐鲁番盆地的主要气候条件,夏季降雨少，白天地表温度高、蒸发大,整体表现为干燥炎热。高昌区的水资源较少，属于缺水地带。高昌区隶属于吐鲁番市，2015年4月12日地改市后原吐鲁番市改设为高昌区。高昌区是吐鲁番盆地的中心、吐鲁番市行政中心，总面积1.37$\times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,下辖七泉湖镇、大河沿镇,亚尔乡、艾丁湖乡、三堡乡、二堡乡、葡萄乡、胜金乡、恰特喀勒乡。
+
+![](images/73ca6dd5267c61f4cf5533745e6cf95de2e1cfa789846f9d34ba1d2c0842ef20.jpg)  
+图1研究区示意图Fig.1The study area
+
+# 1. 2 数据来源
+
+研究资料主要包括Landsat5TM、Landsat8ETM$^ +$ SLC-off遥感影像图（分辨率 $3 0 \mathrm { ~ m ~ }$ ），涉及1989、1997、2002、2009、2016年5个时段（获取时间为6—9月，由于部分年份影像资料缺失造成时间间隔不均)。本研究对影像经过几何校正、坐标配准，以及解译、矢量化处理，选取7、4、3波段进行组合提取了高昌区的绿洲信息，并结合GoogleEarth卫星地图对高昌区绿洲的数据进行验证和修正。社会经济数据来自新疆年鉴、吐鲁番年鉴、高昌统计年鉴，以及政府网站发布的经济公报。农业灌溉、水利设施、水资源数据来自新疆水利厅、吐鲁番水利局、高昌区水利局提供的统计资料。
+
+# 2 研究方法
+
+# 2.1 绿洲变化率
+
+绿洲的面积变化可以直观地表达面积变化的大小，但是不能反映绿洲变化的幅度和速度，即绿洲变化的强度。基于此，本文选择绿洲变化率来描述绿
+
+洲变化的剧烈程度,具体公式[5-6如下：
+
+$$
+K _ { s } = \frac { S _ { 1 } - S _ { 2 } } { S _ { 1 } } \times \frac { 1 } { T } \times 1 0 0 \%
+$$
+
+式中： $S _ { 1 } , S _ { 2 }$ 分别为初期和末期绿洲的面积； $T$ 为研究时段，当 $T$ 的单位为年时， $K$ 值就是该研究区绿洲的年变化率，当 $K > 0$ 是说明绿洲扩张， $K$ 越大扩张强度越大；当 $K < 0$ 时说明绿洲萎缩， $K$ 越大萎缩强度越小。
+
+# 2.2 双向动态度模型
+
+为了清楚地反映绿洲扩张与退缩双向变化情况，可以借助双向动态度来分析，绿洲双向动态度以绿洲面积为基础，反映绿洲“扩张”和“退缩”两个方向的绿洲变化剧烈程度，值越大表示绿洲与非绿洲的相互转化越为剧烈,具体公式[5-如下：
+
+$$
+K _ { s s } = \frac { \Delta S _ { 1 } + \Delta S _ { 2 } } { S _ { 1 } } \times \frac { 1 } { T } \times 1 0 0 \%
+$$
+
+式中： $\varDelta S _ { 1 }$ 表示研究时段内绿洲增加面积； $\varDelta S _ { 2 }$ 表示绿洲减少面积; $K _ { s s }$ 表示绿洲变化程度，值越大表示绿洲变化越为剧烈。
+
+# 2.3 叠置分析
+
+在GIS软件中对每个年份的矢量图层的属性表中标识出绿洲和非绿洲，经叠置分析后生成多个多边形，依据各个多边形属性表中的绿洲标识字段值，按照时间顺序分别以绿洲稳定、绿洲扩张、绿洲退缩进行标识[7]。其中,将始终为绿洲的多边形标识为稳定区；将前期为绿洲后期为非绿洲的区域标识为退缩区；将后期为绿洲而前期为非绿洲的区域标识为扩张区。
+
+# 2.4空间累计变化率分析
+
+叠置分析只能反映2期绿洲变化的空间位置和强度，要反映近27a来绿洲空间变化的总体特征,还需要利用累计变化率进行描述。表达式[10]为：
+
+$$
+\begin{array} { r } { C K _ { \mathrm { g i r d } } = \sum _ { i = 1 } ^ { N - 1 } ~ \mathrm { ~ \big | ~ } K _ { \mathrm { g i r d } } = T _ { i } - T _ { i + 1 } ~ \mathrm { ~ \big | ~ } } \end{array}
+$$
+
+式中： $N$ 为样本年数; $C K _ { \mathrm { g i r d } }$ 可反映长时间绿洲的变化情况，其值越接近于0，说明绿洲越稳定，其值越大，说明变化越剧烈。对 $2 7 \mathrm { ~ a ~ }$ 高昌区绿洲变化强度进行分类，其范围在0\~4之间，将其划分为 $\ : 0 . 0 \ : \sim \ :$ $1 , 1 \sim 2 , 2 \sim 4$ 四个区间，分别标识为无变化、轻微波动、较强波动、剧烈波动。
+
+# 2.5 景观特征指数分析
+
+景观格局指数是景观格局信息的集中体现[5,21]。本文将绿洲视为单一景观,对研究区域从景观的数量分配、空间分布两方面选取了斑块数量（NP）、斑块密度（PD）、周长-面积分维数（PAF-RAC）、景观形状指数(LSI)来分别表征绿洲景观在破碎度、形状复杂程度和受人为干扰程度方面的变化[1,5,9]。以上景观指标可通过 Fragstats4.0计算得到。
+
+# 3数据与结果
+
+# 3.1 绿洲数量变化分析
+
+3.1.1绿洲面积变化本文对5个样本年的绿洲分布数据进行统计，获得了1989—2016年的绿洲面积数据。由图2可见，1989—1997年绿洲面积总体有所缩减，1997—2016年绿洲面积总体均在扩大，并且呈直线上升趋势，说明扩张速度较快。由图3可知,1989—1997 年,绿洲面积扩张了 $6 4 . 8 5 ~ \mathrm { k m } ^ { 2 }$ ，缩减了 $1 0 1 . 2 1 ~ \mathrm { k m } ^ { 2 }$ ;1997—2002 年绿洲面积扩张了$2 0 1 . 1 ~ \mathrm { k m } ^ { 2 }$ ,缩减了 $6 7 . 2 ~ \mathrm { k m } ^ { 2 }$ ;2002—2009 年扩张了$2 4 2 . 9 3 ~ \mathrm { k m } ^ { 2 }$ ,缩减了 $7 2 . 6 4 ~ \mathrm { k m } ^ { 2 }$ ;2009—2016 年扩张了 $2 1 0 . 3 4 ~ \mathrm { k m } ^ { 2 }$ ，缩减了 $9 9 . 1 9 ~ \mathrm { k m } ^ { 2 }$ 。
+
+![](images/1898a7f6d79d1176305ea6fa1059807af3cb5b3cd3e424af9eb6d9adec4c2b1c.jpg)  
+图2高昌区绿洲面积变化曲线
+
+![](images/dc2683e3e861bb968c64526045d2a9513b8511e087387746bda0ece52ba87c98.jpg)  
+Fig.2The change of the oasis of in Gaochang   
+图3高昌区绿洲面积增减变化 Fig.3The change of increasing and decreasing area of oasis in Gaochang
+
+3.1.2绿洲变化动态度由计算得到高昌区1989—2016绿洲变化单一动态度（图4），可看到除了1989一1997年绿洲变化动态度为负数，其余均为正数，依次经历了低一高一低一低的变化。1989—1997年绿洲变化度为负，变化度值较低，说明绿洲缩减，并且变化较缓慢。1997一2016年绿洲变化度均为正值，且变化度值较高，说明变化比较强烈,其中1997—2002 年变化度值最高 $( 7 . 5 3 \%$ ），最为剧烈，绿洲面积持续快速扩张，其次分别是2002—2009年 $( 4 . 6 9 \%$ ）,2009—2016 年 $( 2 . 3 \%$ )，变化度值相对于1994-2002年较低，但是依然属于高值，说明绿洲面积仍然以较快的速度扩张，但是相对于前一时段速度有所放缓，变化幅度有所减小。
+
+![](images/cf9c10bc7d0ef27b48ca2c4f9e8de45286a3384a2eedcfd1cfe0f66c9033969e.jpg)  
+图41989—2016年高昌区绿洲动态度Fig.4Dynamic degree of the oasis in Gaochangfrom 1989 to 2016
+
+由图4可知，高昌区绿洲的双向动态度由递增转为递减，且均维持在一个较高的水平，绿洲的转化仍然比较剧烈。1997—2002年 $( 8 . 8 9 3 \%$ )双向动态度比1989—1997年 $( 8 . 0 3 2 \%$ )有所增加并达到最高值，说明绿洲与非绿洲的转换强度增强，且该时间段绿洲与非绿洲转化最为剧烈;2002—2009 年、2009—2016年双向动态度分别为8. $6 8 6 \%$ 、6.$41 4 \%$ ,与1994—2002年相比逐年降低，说明转化幅度开始减小。
+
+从图4可以看出，1989—1997年，绿洲单一动态度与双向动态度变化趋势不一致，单一动态度小而双向动态度大，说明该时期虽然绿洲总面积没有太大变化，但其内部绿洲与非绿洲的相互转化十分剧烈。1997—2016 年，绿洲单一动态度与双向动态度变化趋势基本一致，呈递减趋势，说明绿洲的扩张及退缩和非绿洲与绿洲之间的转换具有同步性。整个研究时段内单一动态度平均值为 $3 . 3 6 \%$ ，双向动态度平均值高达 $8 \%$ ，说明近27a来高昌区绿洲扩张明显的同时，绿洲与非绿洲的相互转化现象非常显著。
+
+# 3.2 绿洲空间格局变化分析
+
+3.2.1绿洲空间变化利用ArcGis10.0对1989一2016年5期的绿洲矢量数据进行空间叠置分析，并根据水渠、坎儿井、机井的空间分布情况对绿洲灌区进行了分类，得到高昌区近27a的绿洲空间变化以及灌区分布情况（图5）。从图5中可以看到，高昌绿洲扩张面积总体大于缩减面积，扩张是绿洲变化的主要方向。其中 1989—1997 年高昌绿洲大部分是处于稳定状态，且集中于渠灌区，绿洲扩张面积小于绿洲缩减面积，变化主要集中在绿洲边缘。绿洲退缩情况在中西部坎儿井灌区比较明显，而在东部的联合灌区绿洲扩张比较明显。1997—2002年绿洲扩张面积大于缩减面积。绿洲的退缩转移到东部的二堡乡、三堡乡、胜金乡，而扩张主要发生在西部的艾丁湖乡以及中部部分地区。2002—2009年，绿洲变化主要以扩张为主，其中在东部联合灌区开始大范围扩张，绿洲退缩主要发生在艾丁湖乡西部，其他地方绿洲退缩面积较小。2009—2016 年绿洲扩张大于缩减。绿洲扩张主要发生在东部联合灌区，缩减主要发生在艾丁湖及其以西的区域，中北部渠灌区无明显扩张或缩减变化。
+
+![](images/7fd473dd68f3de637f7e96356bb4425674cab7c260c1a1db696c37ba93c1afe8.jpg)  
+图51989—2016 年绿洲空间变化示意图  
+Fig.5Spatial distribution of oasis change of Gaochang
+
+对高昌绿洲27a累计变化进行强度分类得到图6，对比图5可以看到高昌区绿洲多年稳定区域占主体，主要集中在中北部渠灌区，河泉出水口周围，由于充足的水源保障，使其成块分布，具有规模性、稳定性。绿洲变化较强区域中、剧烈波动变化的绿洲占比较大，主要分布在高昌绿洲东西两侧，无变化区域与微弱波动区域的过渡带，人类的反复开垦是其剧烈变化的原因。微弱波动的绿洲占比较小，多为新开垦的耕地绿洲，分布在流域末端绿洲边缘邻近荒漠地带，且分布零散、斑块破碎、规模较小。3.2.2绿洲景观格局变化利用Fragstats4.0计算得到1989—2016年各时期的绿洲景观格局指数（表1）。从表1中看到斑块数量(NP)减少后维持在23${ \sim } 2 6$ 个，在2016年增长至82个。结合同期绿洲面
+
+8840E 89°0'E 89°20'E 89°40'E 4403N人 大河沿镇 七泉湖镇  
+0 10 20kmL 1亚尔乡葡萄乡 胜金 乡 40.3N艾 堡乡特喀勒 堡乡T 突一 化 440N微波动一 较强波动剧烈波动
+
+积变化情况来看，1989一1997年受绿洲面积萎缩的影响，斑块数量减少，绿洲景观破碎度降低；1997—2009 年斑块数量在23～26个，在绿洲面积扩张的情况下，绿洲景观破碎度较稳定，有小斑块融于大斑块的现象，绿洲面积以内部扩充的方式增长。2009—2016年斑块数量迅速增加，绿洲景观更加破碎。边缘密度(ED)1989—1997年由9.75下降至4.48，1997—2016年由4.48逐步升高至12.5，说明绿洲景观破碎度先下降后又逐渐升高。在绿洲面积不断扩大的前提下，绿洲景观破碎度的上升，表明绿洲受人类活动干扰程度增大[23],绿洲扩张表现的较零碎、分散。面积－周长分维数（PAFRAC)1989—2016年均处在 $1 . 0 5 \sim 1 . 1 1 \$ 之间，期间呈微弱波动上升趋势。景观形状指数（LSI)在初期有下降，1997一2016年逐渐上升，总体来看LSI值偏低接近1,变化幅度较小，说明高昌区绿洲景观结构虽有趋于复杂的趋势，但是表现并不明显，斑块形状曲折程度较低。人工开垦的耕地绿洲，其边界比较规整，形状比较简单，因而整体景观数值都处于较低水平，且易受人类活动影响。
+
+表11989—2016年高昌区绿洲景观格局指数变化  
+Tab.1The change of landscape pattern in Gaochang oasis from1989 to 2016   
+
+<html><body><table><tr><td>年份</td><td>斑块数量 (NP/个）</td><td>边缘密度 (ED)</td><td>斑块分维数 (PAFRAC)</td><td>景观形状指数 (LSI)</td></tr><tr><td>1989</td><td>28</td><td>9.75</td><td>1.08</td><td>2.20</td></tr><tr><td>1997</td><td>23</td><td>4.48</td><td>1.05</td><td>1.57</td></tr><tr><td>2002</td><td>26</td><td>6.94</td><td>1.07</td><td>1.88</td></tr><tr><td>2009</td><td>23</td><td>7.59</td><td>1.08</td><td>1.96</td></tr><tr><td>2016</td><td>82</td><td>12.5</td><td>1. 11</td><td>2.59</td></tr></table></body></html>
+
+# 3.3 绿洲变化驱动力分析
+
+3.3.1自然因素自然气候对绿洲面积以及空间分布格局的影响主要表现在降水量和温度的变化[13]。在干旱缺水且蒸发量大的高昌绿洲发展的过程中，气候和水文等自然因素的变化往往引起地表或地下水资源的变化。从图7看出1989—1997年平均降水量波动起伏较大，出现极小值，与该时间段绿洲面积缩减有一定联系，1998—2016 年平均降水量波动有所减弱。总体来看，在研究时段内，高昌绿洲年均降水稀少，但降水趋势平稳，年平均气温在$1 4 \sim 1 7 . 5 \mathrm { ~ \textdegree C }$ ，变化不大，因此，不能成为绿洲变化的主要驱动因素。
+
+自然地形、地貌制约着绿洲的形成与发展，决定着引水、灌溉、耕种条件。高昌绿洲分布于火焰山以南的山前洪积扇平原上，河泉出水口周围。分布在流域下游的绿洲，水资源充足，地下水引水条件好，因此，该区域绿洲波动变化小，成为绿洲稳定区。绿洲北部紧靠火焰山，南部紧邻戈壁荒漠，山区地形复杂，荒漠地区缺水、盐渍化问题较重，因此绿洲的退缩与扩张主要发生在东西两侧。
+
+![](images/6f0b679ce5c359bd7716813a93545eece38643ad640b7c758ae69df222e493e5.jpg)  
+图61989—2016年高昌绿洲累计变化率空间分布示意图Fig.6The spatial distribution of cumulative changerate of Gaochang oasis  
+图7高昌绿洲气温和降水量变化 Fig.7Changes of precipitation and temperature in Gaochang oasis
+
+3.3.2人文因素本文选取了5类具有代表性的影响高昌绿洲时空变化的人文因素指标，采用回归分析法，分析不同指标对绿洲面积变化的影响情况[4],各类指标如下：
+
+（1）人口变化：年总人口数量( ${ 1 0 } ^ { 4 }$ 人， $X _ { 1 }$ ）、农  
+村人口( $1 0 ^ { 4 }$ 人， $X _ { 2 }$ ）（2）社会经济发展：地区生产总值（ $1 0 ^ { 4 }$ 元，  
+$X _ { 3 }$ ）、农业生产总值( ${ 1 0 } ^ { 4 }$ 元， $X _ { 4 }$ ）（3）水资源分配：机井数量（眼， $X _ { 5 }$ ）、年供水量
+
+# 表2回归系数与显著性检验
+
+Tab.2 Coefficients and significant testing   
+
+<html><body><table><tr><td>模型数</td><td>常数项</td><td>农业人口 (104人)</td><td>农业生产总值 (104元)</td><td>农村用电量 （104kWh)</td><td>机井数量 （眼）</td><td>节水面积 （hm²）</td></tr><tr><td>非标准回归系</td><td>1 567.343</td><td>- 59.996</td><td>9.754</td><td>-0.043</td><td>-0.013</td><td>0.221</td></tr><tr><td>标准回归系数</td><td></td><td>0.626</td><td>-0.716</td><td>-0.695</td><td>-0.029</td><td>1.563</td></tr><tr><td>显著性水平数</td><td></td><td>0.012</td><td>0.004</td><td>0.004</td><td>0.018</td><td>0.001</td></tr><tr><td>相关性系</td><td></td><td>0.868</td><td>0.924</td><td>0.924</td><td>0.843</td><td>0.993</td></tr></table></body></html>
+
+$( 1 0 ^ { 4 } ~ \mathrm { m } ^ { 3 } , X _ { 6 } )$ （204
+
+(4)农业现代化：农业机械总动力： $( \mathrm { \ k W h } , X _ { 7 } )$ 、农村用电量 $\mathrm { ^ { \prime } 1 0 ^ { 4 } \ k W h } , X _ { 8 } \mathrm { ^ { \circ } } ,$
+
+(5)政策：节水灌溉面积 $( \mathrm { { h m } } ^ { 2 } , X _ { 9 } ) ,$ ）、水利工程投资 $1 0 ^ { 4 }$ 元， $X _ { 1 0 }$ ）
+
+对高昌区1989—2016年5个时段绿洲面积的变化和不同人文因素指标进行多元逐步回归分析，发现不同指标对其产生不同的影响。利用SPSS17.0 软件得到标准线性回归方程，可用来表示高昌区绿洲随时间变化模型，即：
+
+$Y = 1 \ 5 6 7 . \ 3 4 3 \ - 5 9 . \ 9 9 6 X _ { 2 } \ + 9 . \ 7 5 4 X _ { 4 } \ - 0 . \ 0 4 3 X _ { 5 }$ $- 0 . 0 1 3 X _ { 8 } + 0 . 2 2 1 X _ { 9 }$ (4)
+
+由表2和回归方程可知Sig.值均 $< 0 . 0 5$ ，因此$X _ { 2 } \ 、 X _ { 4 } \ 、 X _ { 5 } \ 、 X _ { 8 } \ 、 X _ { 9 } 5$ 个人文因素均对高昌区绿洲变化起着较为显著的作用。
+
+人口变化主要通过影响耕地面积的变化，从而影响绿洲化过程。高昌区27a来，农业人口由15.$5 1 \times 1 0 ^ { 5 }$ 人增长 $2 . 0 3 \times 1 0 ^ { 5 }$ 万人，增长幅度为34.$6 \%$ ,呈快速增长趋势，且增长趋势与绿洲面积变化具有较好的一致性。吐鲁番高昌区是典型的农业绿洲，人口的快速增长特别是农业人口，不仅对土地产品需求量的增加，而且为绿洲开垦奠定了人力和物质基础，使人类的经济活动日益频繁，进而影响着绿洲面积扩退波动、景观格局破碎度与复杂程度的变化[24]
+
+绿洲的变化与社会经济发展有着密切的联系。高昌农业生产总值从1989 年 $3 . 5 \times 1 0 ^ { 8 }$ 元增长至$3 5 . 9 \times 1 0 ^ { 8 }$ 元,增幅高达 $9 2 5 \%$ 。整体来看高昌区绿洲东部的经济水平高于西部，其中二堡乡、三堡乡、胜金乡大力发展葡萄、棉花、蔬菜、林果种植业，积极推进绿洲城镇化、工业化，绿洲以内部填充的方式向外扩张。在高昌区绿洲西部艾丁湖乡区域内，多发展农牧经济，这种生产活动波动性较大，弃耕、荒、牧场迁移现象时常发生，导致了该区域绿洲面积退缩、波动变化，也使得绿洲景观格局破碎度上升。
+
+在干旱区环境中，往往是以水定地，高昌区绿洲发展依靠河泉水、坎儿井、水渠以及机电井联合灌溉[25]，水资源的分布格局与开发利用直接决定了绿洲的大小和规模。从1965年高昌区开始大规模发展机电井、水渠，机电井数量从1989年1218眼增加至目前的2009眼。由于渠道防渗，机电井提取地下水，减少了地下水对坎儿井的补给，坎儿井大量干涸，截至1997年坎儿井仅存800条，坎儿井引水量减少了1/3，这是导致1989—1997年西部坎儿井灌区绿洲退缩的因素之一，但水渠、机井等灌区配套设施的增加，使东部联合灌区的水源供给更充足，促进了该区域的绿洲扩张。水利工程的总体建设使高昌区年供水量从1989 年 $3 . 0 9 \times 1 0 8 ~ \mathrm { m } 3$ 增至2016年$4 . 2 4 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,为绿洲农业灌溉、生产提供了保障。
+
+农业现代化、机械化程度的不断提高，使得水土资源利用更趋高产高效[26]。高昌区农村机械总动力从1989年的 $1 0 5 ~ 4 0 1 ~ \mathrm { k W }$ 增至2016年的185399$\mathbf { k } \mathbb { W }$ ，说明农业机械设备使用更加普及，农业机械化水平提高；农村用电量也因此迅速增长，从1989年的 $6 ~ 6 2 2 ~ \mathrm { k W } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ 增长至2016年的 $1 2 ~ 5 5 8 ~ \mathrm { k W }$ ：$\ln ^ { - 1 }$ ,增涨幅度为 $8 9 . 6 \%$ 。农业机械的广泛应用不仅提高了农业耕作效率，也为区域进行土地整理、开垦荒地，绿洲面积的扩张提供了物质条件。
+
+除上述因素以外，国家地区政策对绿洲变化具有导向作用[27]。在西部大开发战略背景下,高昌区产业结构调整推动了绿洲农业发展；国家指导下的定居兴牧水利骨干配套工程、高效节水农业建设促进了水资源合理配置，截至2016年高昌区水利投资高达 $9 . 6 6 \times 1 0 ^ { 8 }$ 元,节水面积累计超过 $6 . 0 0 \times 1 0 ^ { 4 }$ $\mathrm { { h m } } ^ { 2 }$ 。节水设施投资不断增加,节水面积不断扩大,灌溉效率得到提高，从而对绿洲扩张有积极影响。
+
+# 4结论与讨论
+
+近27a来，高昌绿洲面积扩张与退缩情况并存，但总体来看，绿洲面积扩张显著。1989一1997年绿洲面积小规模缩减，从1997年开始绿洲面积进入大范围的扩张，1997—2002 年绿洲面积扩张速度最快,2016 年达最大 $8 0 0 . 4 8 ~ \mathrm { k m } ^ { 2 }$ 。整个研究期间高昌绿洲面积扩张了 $3 8 7 ~ \mathrm { k m } ^ { 2 }$ ,增长率达 $9 7 . 7 \%$ 。绿洲面积扩张的同时，绿洲与非绿洲的转换现象也比较显著，1997—2002年转换最为剧烈。整体来看，高昌绿洲的大规模扩张与退缩主要发生在绿洲流域末端的东西两侧及边缘地带，分布零散。绿洲变化稳定区域集中分布在中北部、流域下游，具有规模性。
+
+从空间格局上来看，绿洲演化在景观水平上景观指数的复杂性与绿洲时空演化响应相对一致。1989—1997高昌区绿洲边缘密度、斑块分维数，景观形状指数同步下降，说明景观破碎度降低与绿洲面积的缩减有一定关系；1997-2016年景观各项指数同步上升，说明绿洲景观的破碎度呈上升趋势，面积-周长分维数、景观格局指数值上升，绿洲景观形状趋于复杂，但数值普遍较低，景观结构仍较简单，景观格局变化主要受人类活动影响。
+
+对高昌区绿洲变化的驱动因素分析得知，自然因素和人文因素同时对其产生作用，但人文因素的作用更加直接和显著。地形、地貌限制绿洲的发展，自然气候方面的极端降水、气温会对绿洲变化产生影响，但在短时间内，与人类活动相关的人文社会经济因素起主导作用。通过多元回归分析可知，高昌区绿洲时空变化主要是由人口的变化、社会经济发展水平、水资源分配、农业现代化水平以及政策等多种因素共同驱动下的结果。
+
+对于以耕地为主的高昌区绿洲来说，适宜的绿洲规模是绿洲经济发展、社会稳定、生态环境可持续发展的基础，而水资源是绿洲生存的基础，也是决定其规模的关键因素。因而需要“以水定地”，确定绿洲适宜发展规模，特别是农耕面积，同时对绿洲农业结构进行调整，适当退耕还林、退牧还草；改进灌溉技术，加大节水工程建设，建立高效节水型社会；重视生态环境保护，加强绿洲防护林建设；提高人口素质，提倡科技兴农。
+
+# 参考文献（References）：
+
+[1]巩杰,谢余初,孙朋,等.乡镇尺度金塔绿洲时空格[J].生态学 报,2013,33（11）:3 470-3 479.[GongJie,Xie Yuchu，,Sun Peng,et al. Spatio- temporal change on township scale of Jinta Oasisin the latest20 years[J].Acta Ecologica Sinica,2015,35(3） : 603 -612.]
+
+[2]頡耀文，姜海兰，王学强,等.1963-2012年黑河下游额济纳绿洲的时空变化[J].干旱区地理，2014，37（4）：786-792.［JieYaowen,Jiang Hailan,Wang Xueqiang etal. Spatial- temporalchanges of oases in Ejin Banner of the Heihe River Basin from1963 to 2012[J].Arid Land Geography,2014,37(4）:786-792.
+
+[3]林兴周.临泽绿洲时空变化过程及其驱动机制研究〔D].兰 州：兰州大学,2O13.［Lin Xinzhou.Researchon Spatio-temporal changes processes and driving forces mechanism in Linze Oasis [D].Lanzhou :Lanzhou University,2016.]
+
+[4]巩杰,孙朋，谢余初,等.基于移动窗口法的肃州绿洲化与景观破碎化时空变化[J].生态学报，2015，35（19）：6470-6480.[Gong Jie,Sun Pen,Xie Yuchu,et al.Spatiotemporal change andlandscape fragmentation in Suzhou oasis using the moving windowmethod[J].Acta Ecologica Sinica,2015,35（19）:6 470 -6480.]
+
+[5]卫娇娇.基于遥感的甘肃河西地区绿洲分布提取及时空变化 分析[D].兰州：兰州大学,2016.［WeiJiaojiao.TheHexi area oasis extraction method and spatial distribution based on remote sensing[D].Lanzhou :Lanzhou University,2016.]
+
+[6]頡耀文，陈云海，田文婷,等.1963-2012 年山丹绿洲的时空变化过程[J].甘肃农业大学学报，2014，49（4)：147-153.［JieYaowen,Chen Yunai,Tian Wenting,etal.The spatial- temporalchanges of Shandan oasis during 1963 to 2012[J]. Journal of Gan-su Agricultural University,2014,49(4）:147-153.]
+
+[7」頡耀文,弥沛峰,田菲.近50 年甘肃省张掖市甘州区绿洲时空变化过程[J].生态学杂志，2014，33（1）：198-205.［XieYaowen,MiPeifeng,Tian Fei.The temporal and spatial change of theoasis in Ganzhou District,Zhangye City of Gansu Province in therecent five decades[J].Chinese Journal of Ecology,2014,33（1）：198 -205.]
+
+[8] 田文婷，頡耀文，陈云海.近50a高台县绿洲时空变化研究[J].干旱区研究,2013,30(6）：1122-1128.[TianWenting,Xie Yaowen,Chen yunhai.Spatiotemporal change of Oasis in Gao-tai county in recent 5O years[J].Arid Zone Research,2O13,30(6):1 122-1128.]
+
+[9]吕利利,颉耀文,张秀霞,等.1986—2015 年瓜州绿洲变化[J].生态学报,2017,37(16）:5 482-5 491.[Lv Lili,Xie Yaowen,Zhang Xiuxia et al.Changes in Guazhou oasis between 1986 and2015[J].ActaEcologicaSinica,2017,37(16）:5482-5491.][10]鲁晖，頡耀文，张文培，等.1986—2015年民勤县绿洲时空变化分析[J/0L].干旱区研究，2017，36（6)：1410-1417.［LuHui,Xie Yaowen,Zhang Wenpei,et al.Spatiotemporal change ofthe oasis in Minqin county during the period from 1986 to 2015[J].Arid ZoneResearch ,2017,36(6):1410-1 417.]
+
+[11］张秀霞,颉耀文,卫娇娇,等.1986—2015 年干旱区敦煌绿洲景 观的时空演变过程[J].干旱区研究,2017,34(3）：669-676.[ Zhang Xiuxia,Xie Yaowen,Wei jiaojiao,et al.Spatiotemporal evolution of landscapes in the arid Dunhuang oasis during the period of 1986-2015[J].Arid Zone Research,2017,34（3）:669- 676.]   
+[12]陈亚宁,陈忠升.干旱区绿洲演变与适宜发展规模研究—以塔 里木河流域为例[J].中国生态农业学报,2013,21（1)：134－ 140.［Chen Yaning,Chen Zhongshen.Analysis of oasis evolution and suitable development scale for arid regions:A case study of the Tarim River Basin[J].Chinese Journal of Eco- Agriculture, 2013,21(1) :134 -140.]   
+[13］艾克拜尔·买提尼牙孜,阿里木江·卡斯木.新疆维吾尔自治 区皮山县绿洲景观格局变化及驱动力分析[J].干旱区资源与 环境,2017,31（7）:55-62.[Aikebaier Maitiniyazi,Alimujiang Kasimu.Landscape patern changes and its driving factors in Pishan oasis,Xinjiang Uyghur Autonomous Region[J]. Journal of Arid Land Resources and Environment,2017,31（7）:55-62.]   
+[14］李润林,董鹏程.2001—2010 年张掖市甘州区土地利用景观格 局演变研究[J].江西农业学报,2016,28（6)：109-113.［Li RunLing,Dong Pengcheng. Study on land use and Landscape pattern change in Ganzhou district of Zhangye city from 2OO1 to 2010 [J].Acta Agriculturae Jiangxi,2016,28(6）:109-113.]   
+[15]罗格平,周成虎,陈曦.干旱区绿洲土地利用与覆被变化过程 [J].地理学报,2003.58（1）:63-72.[Luo Geping,Zhou Chenghu,Chen Xi.Process of land use/land cover change in the oasis of arid region[J].Acta Geographica Sinica,2003.58（1）:63-72.]   
+[16]孙倩,张飞,丁建丽,等.渭干河－库车河三角洲绿洲土地利 用/覆被时空变化遥感研究[J].生态学报,2012,32（10）：3 252-3 265.Sun Qian,Zhang Fei,Ding Jianli,et al.Dynamics of land use/cover changes in the Weigan and Kuqa rivers delta oasis based on Remote Sensing[J].Acta Ecologica Sinica,2012,32 (10) :3 252-3 265.   
+[17］韩涛,王大为.2000—2014 年石羊河流域植被覆盖变化研究 [J].中国农学通报,2017,33（13）:66-74.Han Tao,Wang Dawei. Change of vegetation coverage in Shiyang river basin 2000 - 2014[J]. Chinese Agricultural Science Buletin,2017,33（13）:66 -74.   
+[18］王涛．干旱区绿洲化、荒漠化研究的进展与趋势[J]．中国沙 漠,2009,29(1）:1-9．Wang Tao.Review and prospect of research on oasification and desertification in arid regions[J]. Journal of Desert Research,2009,29(1):1-9.   
+[19］谢霞.艾比湖流域绿洲化与荒漠化过程时空演变研究[J].中 国沙漠,2013,33（1）:38-45.Xie Xia.Spatio-temporal change
+
+of oasis and desert in the Ebinur Lake Basin in Xinjiang,China [J].Journal of Desert Research,2013,33（1）:38-45.
+
+[20]黄铃凌，王平，刘淑英，等.民勤绿洲农田生态系统能值空间分 异特征[J].中国沙漠,2014,34(1）:291-298.Huang Lingling， Wang Ping,Liu Shuying,et al.Characteristics of emergy spatial heterogeneity of farmland ecosystem in the Minqin oasis[J]. Journal of Desert Research,2014,34(1):291-298.
+
+[21]孙朋，巩杰，高彦净，等.干旱区流域绿洲时空变化及其景观响 应[J].干旱区研究,2014,31(2）:355-361.SunPen,Gong Jie, Gao YanJing,et al. Spatiotemporal change of oases and their landscape response in arid areas in northwest China[J].Arid Zone Research,2014,31(2):355-361.
+
+[22]张杰,潘晓玲.焉耆盆地库鲁克绿洲扩展时空格局动态分析 [J].资源科学，2009，31（8）:1369-1377.ZhangJie，PanXiaoling.Spatio- temporal dynamic pattern of Kuruk oasis expansion in Yanqi Basin[J].Resources Science,2009,31（8）:1 369-1 377.
+
+[23］巩杰,张玲玲，孙朋.近40 年来酒泉肃州绿洲时空变化及景观稳定性[J].兰州大学学报（自然科学版），2014,50（3）：398-403.Gong Jie,Zhang Lingling,Sun Pen. Spatio- temporal changesand landscape stability of Suzhou Oasis,Jiuquan in the recent 40years[J].Journal of Lanzhou University（Natural Sciences）,2014,50(3):398-403.
+
+[24]罗格平，周成虎，陈曦.从景观格局分析人为驱动的绿洲时空 变化——以天山北坡三工河流域绿洲为例[J].生态学报， 2005,25(9）:2 197-2 205.Luo Geping,Zhou Chenghu,Chen Xi.Study on the spatio -temporal variability and stability of oasis in Sangong River watershed in the northern slope of Tianshan Mountains[J].Acta Ecologica Sinica,2005,25（9）:2 197-2 205.
+
+[25]樊自立，王亚俊，陈亚宁.新疆人工灌溉绿洲的形成和发展演 变[J].干旱区研究,2006,23（3）：410-418.[Fan Zili,Wang Yajun,Chen Yaning.Formation,development and evolution of the artificially- irrigated oasis in Xinjiang[J].Arid Zone Research, 2006,23(3):410 -418.]
+
+[26]许英勤，徐曼.塔里木河下游垦区绿洲景观格局变化分析[J]. 干旱区地理,2004,27(2）:193-198.[Xu Yingqin,Xu Man.Analysis on the change of the oasis landscape patterns in the reclamation area in the lower reaches of the Tarim River[J].Arid Land Geography,2004,27(2):193-198.]
+
+[27]王林林，刘普幸.近38年来格尔木河中下游绿洲时空演变及 其与人类活动的关系[J].土壤，2016，48（3）：597－605. [Wang Linlin,Liu Puxing.Spatial and temporal change of oasis in middle and lower reaches of Golmud river and its relationship with human activities[J].Soils,2016,48(3）:597-605.]
+
+# Spatiotemporal change and driving factors analysis of oasis in Gaochang,Turpan from 1989 \~2016
+
+Liu Yawen1,Abudushalamu $\cdot \cdot$ JALALIDING21,2,Alanuer·ANIWAER1,Mahpirat $\cdot \cdot$ NABI1 (1. College of Resource and Environment Sciences ,Xinjiang University ,Urumqi 83oo46,China ; 2. Key Laboratoryofoasis ecology,Ministryofeducation,Xinjiang University,Xinjiang,Urumqi 83o04,China)
+
+Abstract:In this paper,we used remote sensing image of Gaochang area(1989,1997,2002,209,2016)as the data source to extractthe oasis distribution of 27a in Gaochang.By using the methodsof GIS,fragstatsand related statistical methods,the change of time sequence and spatial distribution in Gaochang oasisand driving factors were analyzed.The results showed that:during the study period,Gaochang oasis change showed the trend of expansion, and the oasis and non oasis conversion phenomenon is obvious,the area from $4 1 3 . 4 7 \mathrm { k m }$ in 1989 to 2016 - 800. $4 8 \mathrm { k m }$ -growth,the speed of expansion in 1997 -2002 years was the fast.The expansion and reduction of oasis mainly occurred on both sides ofthe East and West.The oasis stabilized area was mainlyconcentrated in thecentral part of theoasis.The fluctuation mainlyconcentrated in theedge area of theoasis,and the distribution was scattered.Thefragmentation of theoasis landscape patern first descended and then gradually increased,and thelandscape shape tended to becomplex,but the overallandscape structure was still relatively single,easily affcted by human activities.In past 27 years,oasischange afected bythe natural of Gaochang,social and cultural factors,and the research in human factors playa decisive role inthe development and utilization of water resources,which is the premise of oasis expansion,population（Agriculture）,economic development,andagricultural modernization,the policy is the main driving factors.
+
+Key words: Gaochang oasis； spatiotemporal pattern change；driving factor; human activities

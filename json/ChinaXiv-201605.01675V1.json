@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "Yang Zhen,LiYuanyuan,Gao Chen,Niu Wenlong,Meng Xin.Amethodofcoverageanalysis for multipointcouplingplasm letectionon space processes (in Chinese).Chin.J.Space Sci.,2015,35(2):237-243,doi:10.11728/cjss2015.02.237 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空间物理过程时空协同探测的覆盖分析方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨震1,2 李元元 1,2 高辰12 牛文龙1.2 孟新1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(中国科学院空间科学与应用研究中心中国科学院复杂航天系统电子信息技术重点实验室北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对空间物理过程时空协同探测任务的定量化探测覆盖分析需求，在采用时空相关函数方法描述和分析空间物理时空过程的基础上,提出一种基于 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图的探测覆盖分析方法.通过分析不同设计方案在一定累计时间周期内的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图，根据其覆盖范围的不同选择所需要的设计方案.采用该方法对两条共轨道面椭圆轨道的时空协同探测过程进行了定量的覆盖分析，验证了该方法的有效性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词空间物理过程,时空协同探测，探测覆盖, $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 P3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Method of Coverage Analysis for Multipoint Coupling Plasma Detection on Space Processes ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Zhen $^ { 1 , 2 }$ （204号 LI Yuanyuan $^ { 1 , 2 }$ （204号 GAO Chen $^ { 1 , 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NIU Wenlong $^ { 1 , 2 }$ （20 MENG Xin1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(KeyLaboratory of Electronicsand Information Technology for Space Systems，Center for Space Science andApplied Research,Chinese Academy of Sciences,Beijing 100190) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(UniversityofChineseAcademyofSciences,Beijing 1o0049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSo far the analysis method of detective coverage in multipoint coupling plasma detective missions on space processes is stillat the stage of qualitative analysis. Statistical analysis of a certain space region for the satelites also cannot undergo further quantitative analysis. To meet the needs offast development of space science missions,on the basis of correlation function and space processes analysis, a coverage analysis method based on $\\theta$ $t _ { \\mathrm { R } }$ coverage diagram is proposed. By analysis of $\\theta$ （204号 $t _ { \\mathrm { R } }$ （204 coverage diagram in accumulative time period of various design alternative, the appropriate design can be chosen according to the characteristics of coverage range. Then quantitative analysis is made on multipoint coupling detective processs of two coplanar eliptic orbits, with which the method is verified. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsSpace processes, Multipoint coupling plasma detection, Detective coverage, $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1时空物理过程的数学描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着空间探测的不断深入，人们逐渐认识到整个日地系统从太阳、行星际空间到地球磁层、电离层和热层大气是一个紧密耦合的复杂系统．由于空间物理过程的时空尺度非常大，单个卫星探测无法区分空间物理现象的时空变化，也无法确定不同时空区域之间的耦合关系，要揭示其科学规律往往需要采用多颗卫星或者星座时空协同探测的方式来完成.空间物理探测已发展到了多点、多时空尺度的时代，即对日地空间复杂物理过程进行多颗卫星的时空协同观测．1998年ESA发射的由4颗卫星组成的Clus-terⅡ星座计划在探测小尺度空间等离子体三维结构方面取得巨大成功；NASA在2007年2月成功发射了THEMIS卫星计划，其是由5颗卫星组成的编队协同探测，研究在全球和流体尺度上的磁层动力学过程，特别是亚暴触发机制，并计划在2015年发射由4颗卫星组成的MMS卫星编队，MMS卫星编队将用于研究电子和离子尺度的空间物理现象，特别是磁场重联；中国方面提出了磁层-电离层-热层耦合探测计划(MIT计划),拟对磁层、电离层、热层中的物理过程开展空间探测研究[1].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间物理过程时空协同探测任务的研究目标多是动态变化的空间结构或空间现象，其探测对象具有明显的时空变化特征，不仅是各种属性随时间在变化，其空间结构和位置也在随时间发生变化．空间物理时空协同探测任务的科学目标是发现及揭示各种空间物理现象的规律和本质，例如太阳风、磁层、电离层的耦合过程，这些现象往往是一个时空变化的动力学过程，观测到空间物理现象的完整时空变化过程比观测到这一过程的静态片段更具科学价值，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间科学探测卫星在一定时间段内对探测对象或者探测区域的覆盖情况，是载荷视场设计、载荷总体布局、轨道设计、姿态设计的主要考虑因素，也是数据管理传输及地面系统设计的主要依据，因此是空间科学任务论证的一项重要指标．目前针对空间物理过程时空协同探测任务探测覆盖情况的分析方法还停留在定性分析以及对卫星经过某个空间区域时间长度的统计分析阶段，没有进一步的定量分析，远远不能满足空间科学任务快速发展的需求.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于空间物理过程时空协同探测的覆盖分析方法研究较少,Horbury[2]在探讨利用ClusterI任务开展空间物理场紊流探测可能性时，采用相关函数方法对ClusterⅡ的时空探测覆盖性能进行了分析.在流场、热物理和地震波等研究方面，已广泛采用相关函数分析方法[3-5].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相关函数包括时间相关函数和空间相关函数，能够描述系统量变化关于空间两点或者两个时刻的相互关联，因此可以利用其来描述空间物理系统中复杂耦合过程在空间上的联系.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 空间相关函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间相关函数描述物理量在空间某点的扰动对另一点的影响，并给出复杂耦合过程在空间上的联系．在平衡态的空间物理系统中，空间物理场与粒子间有相互耦合作用，不同位置的空间物理参数间存在一定相关性.为了在数学上描述这种空间相关性定义空间物理量 $A ( \\pmb { r } )$ 在两个不同位置 $\\boldsymbol { r } , \\boldsymbol { r } ^ { \\prime }$ 上的涨落 $\\Delta A$ 的相关函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { \\Delta A ( \\pmb { r } ) \\Delta A ( \\pmb { r ^ { \\prime } } ) } } } = K _ { A A } ( \\pmb { r } - \\pmb { r ^ { \\prime } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "等式左边为系统的平均值， $\\Delta A ( \\pmb { r } ) = A ( \\pmb { r } ) - \\overline { { A ( \\pmb { r } ) } }$ 表示在空间位置 $\\textbf { \\textit { r } }$ 点处空间物理量的涨落， $A ( \\pmb { r } )$ 可以是任意的空间物理量，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间相关函数 $K _ { A A }$ 是描述两个不同空间位置点处物理量涨落相关性的量．如果空间两点的物理量涨落是相互独立的，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\Delta A ( \\pmb { r } ) \\Delta A ( \\pmb { r } ^ { \\prime } ) } } = \\overline { { \\Delta A ( \\pmb { r } ) \\Delta A ( \\pmb { r } ^ { \\prime } ) } } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果空间物理系统是均匀的，相关函数就是空间两点矢量差 $\\boldsymbol { r } - \\boldsymbol { r } ^ { \\prime }$ 的函数．相关函数值随两点间距离 $| \\boldsymbol { r } - \\boldsymbol { r } ^ { \\prime } |$ 的增大而减小，当距离无限大时，相关性消失.如果两点间距离小于某一个值 $l$ ，相关函数随 $| \\boldsymbol { r } - \\boldsymbol { r } ^ { \\prime } |$ 变化很大，则在此范围内相关性显著；两点间距离大于 $\\mathbf { \\xi } _ { l }$ 时，相关性很弱甚至可以略去，则可用 $l$ 作为空间相关性范围的一种量度，称！为空间关联长度.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 时间相关函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "时间相关函数描述某一时刻扰动对另一时刻物理量的影响，给出原因与结果及复杂耦合过程在时间上的联系．为了在数学上描述这种空间相关性，定义空间物理量 $A ( t )$ 在两个不同时刻 $t , t ^ { \\prime }$ 上的涨落 $\\Delta A$ 的时间相关函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { A ( t ) A ( t ^ { \\prime } ) } } = \\phi _ { A A } ( t , t ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\overline { { { A ( t ) A ( t ^ { \\prime } ) } } } = \\overline { { { A ( t ) A ( t + \\tau ) } } } = } } \\\\ { { { } } } \\\\ { { \\displaystyle { \\operatorname* { l i m } _ { T  \\infty } \\frac { 1 } { T } { \\int _ { 0 } ^ { T } A ( t ) A ( t + \\tau ) \\mathrm { d } t } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是在时间间隔 $\\tau$ 给定时对时间长 $\\mathbf { \\Psi } _ { t }$ 的平均．当 $\\tau$ 足够长时 $A ( t )$ 与 $A ( t + \\tau )$ 已不相关,则上式等于零,时间相关函数也等于零.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果两个时刻的时间差小于某一 $\\tau$ 值时，相关函数随 $\\vert t - t ^ { \\prime } \\vert$ 变化很大，则在此范围内相关性显著;两个时刻的时间差大于某一 $\\tau$ 值时，相关性很弱甚至可以略去，则可用 $\\tau$ 作为时间相关性范围的一种量度，称 $\\tau$ 为时间关联长度，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 泰勒假说",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实际的流场测量实验中，通常是通过一快速移动的探测器在穿越乱流过程中测量瞬时流速而得到时空相关函数．由于探测器是快速流动的，所探测之乱流在测量期间变化不会很大，因此测得的信号 $u ( t )$ 可近似认为是 $\\boldsymbol { u } ( \\boldsymbol { x } / v )$ ．其中 $\\textbf {  { v } }$ 为探测器移动速度，$\\mathbf { \\alpha } _ { \\mathbf { { x } } , t }$ 分别为位置和时间量.泰勒假说成立的条件是乱流速度紊变值远小于探测器移动速度 $\\textbf {  { v } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在泰勒假说下乱流的结构并无变化，如同被冻结一样，因此泰勒假说又称为冰冻乱流近似 (frozenturbulence approximation).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照泰勒假说，时间相关性可以转换为空间相关性.通过快速移动探测器的测量实验方法，可以依靠 $\\scriptstyle t = x / v$ 的时空变换得到各种速度场的一维谱,从而测量出乱流场中速度紊变的空间结构．在空间物理过程的时空协同探测中，虽然不一定严格满足泰勒假说的约束条件，但在某种程度上可以参考该假说来进行分析.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 $\\theta \\mathrm { - } t _ { \\mathrm { R } }$ 覆盖图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过空间物理过程的时空相关函数描述可知，对于时空耦合过程探测，时间相关性与空间相关性同样重要,是时空过程的重要一维. $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图正是在时空协同探测任务中提出的， $\\theta$ 表示两个探测器连线矢量与参考矢量的夹角， $t _ { \\mathrm { R } }$ 表示进入协同探测区域的相对时间，则通过分析不同设计方案在一定累计时间周期内的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图，可以看出其覆盖范围不同，从而选择所需要的设计方案，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以下讨论利用两个探测器运动轨迹进行空间物理过程时空相关性函数探测问题",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图描述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 分别沿探测轨迹 $T _ { \\mathrm { A } }$ 和 $T _ { \\mathrm { B } }$ 按照其运动特性进行单向移动.两个探测器按照一定的采样周期进行测量量采集.探测器 $E _ { \\mathrm { A } }$ 第 $i$ 次测量记为 $M ( P _ { \\mathrm { A } i } , t _ { \\mathrm { A } i } )$ ，表示 $t _ { \\mathrm { A } i }$ 时刻探测器 $E _ { \\mathrm { A } }$ 处于其探测轨迹 $T _ { \\mathrm { A } }$ 的位置坐标 $P _ { \\mathrm { A } i }$ 处进行的一次测量（ $0 \\leqslant i \\leqslant m$ . $t _ { \\mathrm { A 0 } }$ 为探测器 $E _ { \\mathrm { A } }$ 进入协同探测区域的时刻，此时其位置坐标为 $P _ { \\mathrm { A 0 } }$ ： $t _ { \\mathrm { A } m }$ 为探测器 $E _ { \\mathrm { A } }$ 离开协同探测区域的时刻,此时其位置坐标为 $P _ { { \\mathrm A } m }$ ）探测器 $ { E _ { \\mathrm { B } } }$ 第 $j$ 次测量记为 $M ( P _ { \\mathrm { B } j } , t _ { \\mathrm { B } j } )$ ，表示 $t _ { \\mathrm { B } j }$ 时刻探测器 $ { E _ { \\mathrm { B } } }$ 处于其探测轨迹 $T _ { \\mathrm { B } }$ 的位置坐标 $P _ { \\mathrm { B } j }$ 处进行的一次测量（ $0 \\leqslant j \\leqslant n$ ： $t _ { \\mathrm { B 0 } }$ 为探测器 $ { E _ { \\mathrm { B } } }$ 进入协同探测区域的时刻,此时其位置坐标为 $P _ { \\mathrm { B 0 } }$ ；而 $t _ { \\mathrm { B } n }$ 为探测器 $ { E _ { \\mathrm { B } } }$ 离开协同探测区域的时刻，此时其位置坐标为 $P _ { { \\mathrm B n } } { \\mathrm { \\Omega } }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 同时处于协同探测区域内时进行的一次时间差为 $\\Delta t = t _ { \\mathrm { B } j } - t _ { \\mathrm { A } i }$ ( $| \\Delta t | \\leqslant$ $\\tau , \\tau$ 为探测对象时间关联长度）的时空相关性测量称为一次有效测量，记作 $M ( P _ { \\mathrm { A } i } , P _ { \\mathrm { B } j } , \\Delta t )$ ( $\\Delta t \\ =$ $t _ { \\mathrm { B } j } - t _ { \\mathrm { A } i } )$ ．从时空相关函数测量的角度考虑，希望获取 $P _ { \\mathrm { A } i }$ ， $P _ { \\mathrm { B } j }$ ， $\\Delta t$ 三者所有可能组合对应的测量数据，称为对两条探测轨迹上时空相关函数测量空间的完全覆盖.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际测量过程中由于探测器沿运动轨迹运动过程中位置坐标与采样时刻一一对应，一次有效测量 $M ( P _ { \\mathrm { A } i } , P _ { \\mathrm { B } j } , \\Delta t )$ 中，当 $P _ { \\mathrm { A } i }$ ， $P _ { \\mathrm { B } j }$ 确定时， $\\Delta t$ 也是唯一确定的，不能获取时间差 $\\Delta t$ 在探测对象时间关联长度 $\\tau$ 内所有可能情况下的数据；也就是说一次协同探测过程只能覆盖 $P _ { \\mathrm { A } i }$ ， $P _ { \\mathrm { B } j }$ ， $\\Delta t$ 定义的三维测量空间中的一部分.若想实现对两条探测轨迹上时空相关函数测量空间的完全覆盖，需要多次不同的有效测量才能实现",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为定量化并直观地描述每个不同协同探测过程在 $P _ { \\mathrm { A } i }$ ， $P _ { \\mathrm { B } j }$ ， $\\Delta t$ 测量空间的覆盖情况和累计多次协同探测过程的覆盖情况，提出了 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图的概念.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义两个探测位置 $P _ { \\mathrm { A } i }$ ， $P _ { \\mathrm { B } j }$ 的连线矢量与参考矢量（一般取被探测时空过程的主方向）之间的夹角为 $\\theta$ ：在一次有效测量过程中，定义相对时间$t _ { \\mathrm { R } } ~ = ~ t - t _ { 0 }$ ，这里设定一次有效测量过程中两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 均进入协同探测区域的有效测量起始时刻为 $t _ { 0 }$ ， $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 其中之一离开协同探测区域的有效测量结束时刻为 $t _ { \\mathrm { e n d } }$ ，且 $0 \\leqslant t _ { \\mathrm { R } } \\leqslant t _ { \\mathrm { e n d } } - t _ { 0 }$ 通过 $\\theta$ 随相对时间 $t _ { \\mathrm { R } }$ 的变化曲线来描述不同有效测量过程中两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 相对运动关系的不同，从而直观分析其探测覆盖情况.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在空间物理过程时空协同探测任务设计过程中，由于航天器轨道一般为椭圆轨道，将两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 的探测轨迹限定为椭圆轨道的某一弧段．由轨道运动特性可知，如果两个探测器 $E _ { \\mathrm { A } }$ 和 $ { E _ { \\mathrm { B } } }$ 的轨道参数确定，其在协同探测区域内的相对运动将满足一定关系．也就是说，对于某一个协同探测弧段，其在 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 二维空间的探测曲线是可知的，因此可将整个任务评估周期内所有协同探测弧段在 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 二维空间的探测曲线绘制出来，形成 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3仿真验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设利用卫星1和卫星2 (两者轨道为共面的地球椭圆轨道)开展空间物理过程时空协同探测，协同探测区域定义为 $7 0 ^ { \\circ } \\mathrm { S - 9 0 ^ { \\circ } S }$ 区间上空的圆锥形区域，当两颗卫星同时处于协同探测区域的一个连续时间区间时称为一个有效协同探测弧段，一定时间周期内所有有效协同探测弧段的总时长称为累计有效协同探测时间．取地心指向北天极点的矢量为主方向， $\\theta$ 角定义为卫星2中心点指向卫星1中心点的矢量与主方向之间的夹角，在一个有效协同探测弧段内取两颗卫星同时进入协同探测区域的时刻为相对时间起点 $t _ { 0 }$ ，一个有效协同探测弧段内的相对时间 $t _ { \\mathrm { R } } = t - t _ { 0 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真验证所应用的轨道参数为：卫星1采用椭圆轨道方案，半长轴 $\\mathrm { 3 1 9 4 7 k m }$ 。偏心率0.6,近地点位于北极地区上空;卫星2采用三种不同高度的近圆轨道方案，轨道2-1的半长轴为 $7 3 7 8 \\mathrm { k m }$ ，轨道2-2的半长轴为 $7 2 7 8 \\mathrm { k m }$ ，轨道2-3的半长轴为 $7 1 7 8 \\mathrm { k m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用STK分别进行三种不同轨道设计方案情况下的仿真计算，统计一个月时间周期内所有有效协同探测弧段的计算结果，仿真步长为 $6 0 \\mathrm { s }$ ，绘制得到三种不同轨道方案下的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图 (散点图)．图内纵坐标为 $\\theta$ 。横坐标为一个有效协同探测弧段内的相对时间 $\\scriptstyle t _ { \\mathrm { R } }$ ．为分析方便，分别绘制出了不同方案下前五个有效协同探测弧段的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 曲线 (折线图)，如图 $1 { \\sim } 6$ 所示.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11c8ba96dfa0c4e3df75510b5971615db03588911e17df6c70254ced2418c450.jpg",
+        "img_caption": [
+            "图1轨道2-1的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5183c6a140669f9754b4ad594e8d5b95dc2eb180bbc2ee0289f9bf1dc5a8208b.jpg",
+        "img_caption": [
+            "Fig.1 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram of satellite orbit 2-1 ",
+            "图2轨道2-1的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72b1ee5871ac74410840869d428772f15a282fd0378893edaff00a5879f07851.jpg",
+        "img_caption": [
+            "Fig.2 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage curve of satellite orbit 2-1 ",
+            "图3轨道2-2的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图",
+            "Fig.3 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram of satellite orbit 2-2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0e1dac51d79a563c97959b57252e999b87e163ba5e28701cbcf62175ef64964.jpg",
+        "img_caption": [
+            "图4轨道2-2的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9096e35bcecd6ef13a3738eaf951adfe4d0bb63f56ab19ae0b33ae3b88f9b94.jpg",
+        "img_caption": [
+            "Fig.4 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage curve of satellite orbit 2-2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设两颗卫星第 $i$ 次协同探测的时间为 $t _ { i }$ ，累计协同探测时间为 $t$ 则 $t = t _ { 1 } + t _ { 2 } + \\cdot \\cdot \\cdot + t _ { i } + \\cdot \\cdot \\cdot + t _ { n }$ 其中 $n$ 表示在观测周期内两颗卫星协同探测的次数，累计协同探测时间越长，在 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 图中的覆盖范围就越大.由图 $1 { \\sim } 6$ 可见，三个不同设计方案在一个月时间周期内的累计有效协同观测时间相差不大．但是轨道2-1的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖范围明显较小，只能覆盖有限的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 范围.这主要是因为卫星1和轨道2-1的轨道周期具有严格的整倍数关系，造成两卫星在协同探测区域内的相对运动具有很强的周期回归特性",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0bce9ff4c462dfb3b0c7b03adb1bdfad1b8b19b8a172a7982e91560cf451efc.jpg",
+        "img_caption": [
+            "Fig.50- $t _ { \\mathrm { R } }$ coverage diagram of satellite orbit 2-3 ",
+            "如图7所示，在卫星1的不同轨道周期内，能够",
+            "图6轨道2-3的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf07f68515e737c661450f4207224d6fbf5216125c2f250c0002c5256f6c7ac4.jpg",
+        "img_caption": [
+            "图5轨道2-3的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图",
+            "Fig.6 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage curve of satellite orbit 2-3 ",
+            "图7卫星1和卫星2-1的位置示意",
+            "Fig.7 Location of satellite orbit 1 and 2-1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与轨道2-1形成有效协同探测的弧段总是重复固定的两个弧段 (图7中卫星1轨道上的两个加粗弧段),造成 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖范围有限.这种回归性或者说周期性比较明显地体现在不同有效协同探测弧段的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 曲线上(见图2)，就是有效协同探测弧段的重叠",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7中还标出了 $\\theta$ 为 $1 8 0 ^ { \\circ }$ 时对应的两卫星相对位置，此时两颗卫星连线方向与参考矢量方向相反;$\\theta$ 为 $1 5 3 ^ { \\circ }$ 时两卫星相对位置对应于一颗卫星刚刚进入协同探测区域，而另一颗卫星即将离开协同探测区域.为实现时空相关函数测量空间的完全覆盖，需通过多次协同测量尽可能囊括协同探测区域内两颗卫星之间各种可能的相对空间关系.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于轨道2-2和2-3，由于卫星轨道1与轨道2-2和2-3周期不存在整倍数关系，因而其每个有效协同探测弧段的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 轨迹以不同的间隔和重复周期扫过 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖平面，可以实现较好的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖效果.通过分析一定累计时间周期内的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图，可以直观看到不同轨道设计方案的时空协同探测整体覆盖效果；通过分析每个有效协同探测弧段的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖曲线，可以确定该轨道设计方案形成的每个有效 $\\theta .$ $t _ { \\mathrm { R } }$ 覆盖轨迹移动的周期和间隔，从而直观得出两颗卫星相对运动关系的变化规律，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于同样的三种轨道设计方案,进一步研究协同探测区域不同时的结果．将协同探测区域定义为纬度处于 $7 0 ^ { \\circ } \\mathrm { N - 9 0 ^ { \\circ } N }$ 区间上空的圆锥形区域,重复上述仿真过程，得到的计算结果如图 $8 { \\sim } 1 0$ 所示",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "轨道2-1由于两卫星轨道周期存在整倍数关系，其 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖范围依然较小；但是同样由于轨道周期的整倍数关系，轨道2-1在一个月时间周期内的累计有效协同观测时间显著多于轨道2-2和2-3.在实际任务方案评估比较过程中，需要兼顾累计有效协同观测时间和 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖两个指标要素.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验验证结果表明，所提出的基于 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图的探测覆盖分析方法能够对采用不同轨道的两颗卫星开展空间物理过程时空协同探测的探测性能进行定量的覆盖分析评估．其得出的覆盖分析结果直观清晰，对时空协同探测任务的总体方案论证和设计优化具有一定参考价值．在实际应用中需要根据具体探测对象的不同来增加针对性和约束条件，同时还需进一步研究两颗卫星轨道不共面、采用三颗或更多颗卫星进行空间物理过程时空协同探测任务的探测覆盖分析方法",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b74fc4c98102ff86a1e481cbe027b78075c850314cd9d27fcdcba08926796c32.jpg",
+        "img_caption": [
+            "图8轨道2-1的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7def310d56e2b6e03e684aeaa4c004adc04d7aa7bba812b5758a6e7acdf34a52.jpg",
+        "img_caption": [
+            "Fig.8 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram of Satellite Orbit 2-1 ",
+            "图9轨道2-2的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1daac4c685e2334443e97c6784a01874327949b8fad307b48cff9bf1a9a07f4.jpg",
+        "img_caption": [
+            "Fig.9 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram of Satellite Orbit 2-2 ",
+            "图10轨道2-3的 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ 覆盖图",
+            "Fig.10 $\\scriptstyle \\theta - t _ { \\mathrm { R } }$ coverage diagram of Satellite Orbit 2-3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Liu Yong,Wang Chi,Xu Jiyao. The Requirements analysis of space exploration in magnetosphere,ionosphere and thermosphere coupling[J]．Aerospace China, 2013(1):44- 48.In Chinese(刘勇，王赤,徐寄遥．磁层－电离层－热层耦 合的空间探测需求分析[J].中国航天，2013(1):44-48)   \n[2] Horbury T S. Cluster II Analysis of Turbulence Using Correlation Functions [R],ESA SP-449.London:Cluster II Workshop On Multiscale/Multipoint Plasma Measurement,1999   \n[3] Fan Wanchun,Qiu Hongmao.Adaptive endpoint detection of seismic signal based on auto-correlated function [J]. Nucl.Elec.Detect.Tech.,2001,21(5):348-351.In Chinese (范万春,邱宏茂.基于自相关函数的地震信号自适应端点 检测[J].核电子学与探测技术，2001,21(5):348-351)   \n[4] Chen Jun,Shi Lin,An Qingsong.The Analysis of Fluid Transport Properties’Stability By Molecular Dynamics Simulations [J]. J. Eng. Thermophys., 2010,31(11):1801- 1805.In Chinese（陈俊，史琳,安青松.流体输运特性自相关函 数积分的稳定性研究[J].工程热物理学报，2010,31(11):1801- 1805)   \n[5] Hou Yonghui. The progress of the three-point correlation function[J]. Progr.Astron.,2006,24(2):142-159.In Chinese (侯永辉.三点相关函数研究进展[J]．天文学进展，2006, 24(2):142-159)   \n[6] Xiao Yelun,Zhang Xiaomin. Orbital dynamical characteristics and configuration design of formation flying satellites[J].J.Astron.,2001,22(4):7-12.In Chinese(肖业伦, 张晓敏．编队飞行卫星群的轨道动力学特性与构型设计[J].宇 航学报，2001,22(4):7-12)   \n[7] Zhang Xiaomin. Study on Relative Orbital Dynamics and Control of Spacecraft [D].Beijing:Beijing University of Aeronautics and Aeronautics,2Ooo．In Chinese (张晓敏. 航天器相对轨道运动动力学与控制研究[D].北京：北京航空航 天大学，2000)   \n[8] Han Chao,Yin Jianfeng.Study of satellite relative motion in elliptical orbit using relative orbit elements[J].Acta Aeron．Astron．Sin.,2011,32(12):2244-2258.In Chinese (韩潮，殷建丰．基于相对轨道要素的椭圆轨道卫星相对运动研 究[J].航空学报，2011,32(12):2244-2258)   \n[9] Tang Weiwei.Latitude argument difference expression based on orbit element difference[J]. Comput.Aided Eng., 2009,18(1):31-34．In Chinese (汤维炜．基于轨道要素差的 纬度辐角差表达式[J].计算机辅助工程,2009,18(1):31-34)   \n[10] Zhang Qian,Zhao Yan,Xu Mei.Computation model of constellation space coverage performance [J].J. Spacecr. TT&C Tech.,2011,30(1):6-10．In Chinese (张倩，赵砚, 徐梅.卫星星座的空域覆盖性能计算模型[J]．飞行器测控学报, 2011, 30(1):6-10)   \n[11]Li Yangsi,Zhang Ke,Yu Ruixing，Dong Peng.Multisensor cooperative detection techniques for time critical target cooperative striking[J].Comput. Modern.,2013 (6):30-33．In Chinese(李洋思，张科，于瑞星，董鹏．攻击 时敏目标的多传感器协同探测技术[J].计算机与现代化，2013 (6):30-33)   \n[12] Yu Ze,Zhou Yinqing,Chen Jie,Li Chunsheng. Constellation design method of space cooperation detection system[J].J.Beijing Uniu. Aeron.Astron.,2010,36(3):324- 327．In Chinese（于泽，周荫清，陈杰,李春升．一种空间协 同探测系统的星座设计方法[J].北京航空航天大学学报，2010, 36(3):324-327)   \n[13] Zhu Weigang,Hou Guojiang,Zhou Yinqing.Evaluation of effect on multi-sensor cooperative detection based on grey relational analysis [J]. Sci. Tech. Inf.,2010(12):426- 427．In Chinese（朱卫纲，侯国江，周荫清．基于灰色关联分 析的多传感器协同探测效果评估[J]．科技信息，2010(12):426- 427) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

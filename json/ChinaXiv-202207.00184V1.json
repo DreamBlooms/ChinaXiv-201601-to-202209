@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "重视骨质疏松症的共病研究与早期筛查",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j. issn. 1007-9572.2022.0425 魏戌‘²，刘宁‘，章轶立，韩涛‘，孙凯¹²，齐保玉‘，陈忻¹²， 秦晓宽1，高景华‘²，谢雁鸣4\\*，朱立国1,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：骨质疏松症患者常共患多种疾病，涉及内分泌、循环、呼吸、泌尿、免疫、骨骼肌肉、神经等多系统疾病，共病发生率较高，且这些共病可能会加重骨质疏松症，从而增加骨质疏松性骨折发生的风险，严重影响患者生活质量，同时使疾病管理更加复杂，给家庭和社会带来沉重负担。目前对于骨质疏松症共病的研究较为缺乏，现有的研究策略在共因、共防、共治方面难以有效指导临床医生开展共病管理。鉴于此，建议引入多学科综合治疗(multidisciplinary integrated treatment,MDT）理念，加强骨质疏松症相关共病及其致病机制的认识，对于可能合并骨质疏松症的患者需尽早筛查，一旦发现骨量减少、骨质疏松，应积极进行防治以降低骨折风险，早筛、早诊、早治，实现OP共病共防、共治。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：骨质疏松症；共病研究；发病机制；多学科综合治疗；早期筛查",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pay attention to the comorbidity research and early screening of osteoporosis WEI Xu1,2, LIU Ning1, ZHANG Yili³, HAN Tao1,SUN Kai1,², QI Baoyu',CHEN Xin1,2, QIN Xiaokuan', GAO Jinghual,2, XIE Yanming3\\*, ZHU Liguo1.,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Wangjing Hospital, China Academy of Chinese Medical Sciences, Beijing 100102,基金项目：国家中医药管理局传承创新团队项目（ZYYCTXD-C-202003）；中国中医科学院科技创新工程重大攻关项目（CI2021A02013)；中国中医科学院循证医学中心业务研究室主任专项（2020YJSZX-4）；中国中医科学院优秀青年科技人才（创新类）培养专项(ZZ13-YQ-039)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.100102北京市，中国中医科学院望京医院2.100700北京市，北京市中西医结合骨伤研究所3.210023江苏省南京市，南京中医药大学中医学院·中西医结合学院4.100700 北京市，中国中医科学院中医临床基础医学研究所",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通讯作者：谢雁鸣，主任医师，博士生导师；E-mail: ktzu2018@163.com；朱立国，主任医师，博士生导师；E-mail: zhlg95@aliyun.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Institute of Orthopaedics of Beijing Integrative Medicine, Beijing lO0700, China 3.School of Traditional Chinese Medicine & School of Integrated Chinese and Western Medicine, Nanjing University of Chinese Medicine, Nanjing 21O023, China 4.Institute of Basic Research in Clinical Medicine， China Academy of Chinese Medical Sciences, Beijing 100700, China   \n\\*Corresponding author: XIE Yanming, Chief physician, Doctoral supervisor; $E$ -mail: ktzu2018@163.com ; ZHU Liguo, Chief physician, Doctoral supervisor; $E$ -mail: zhlg95@aliyun.com ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 The Patients with osteoporosis (OP) often suffer from a variety of comorbidities, including endocrine, circulatory, respiratory,urinary, immune, skeletal muscle, nerve and other multi system diseases. The incidence of OP comorbidity is high,and these comorbidities may aggravate osteoporosis and increase the risk of osteoporotic fracture,seriously affect the quality of patient's life,and make the clinical management more complex. So the situation brings a heavy burden to the families and society. At present, there is a lack of overall research on osteoporosis and its comorbidities.The existing research strategies are difficult to effectively guide clinicians to carry out comorbidity management in terms of common causes, common prevention and common treatment. In view of this,it is suggested to introduce the concept of multidisciplinary integrated treatment (MDT)， and strengthen the understanding of osteoporosis related comorbidities and their pathogenesis.Patients who may be complicated with osteoporosis should be screened as early as possible. Once osteopenia and osteoporosis are found,active prevention and intervention should be carried out to reduce the risk of fracture. Early screening, early diagnosis and early treatment is necessary to realize the prevention and treatment of OP comorbidities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Osteoporosis; Comorbidity research; Pathogenic mechanism;Multidisciplinary integrated treatment; Early screening",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "骨质疏松症（Osteoporosis，OP）是由于多种原因导致的骨密度（Bone mineraldensity，BMD）和骨质量下降，骨微结构破坏，造成骨骼脆性增加，易引发骨折的全身性骨病。共病（Comorbidity）由Feinstein 教授于1970 年首次提出[],又称同病、合病，主要是指索引疾病患者伴有其他不同的疾病。OP作为一种全身性、代谢性疾病，与全身各个系统的多种疾病密切相关，一项大型调查显示约有 $9 5 \\%$ 的 OP 患者存在至少一种共病[2。共病的存在可能会给OP 带来严重不良影响，临床医生在诊治OP时，应对相关共病予以重视，提高相关科室医生的共病管理能力，改善患者的生活质量和生存率并减轻患者负担。因此，OP常见共病的流行病学、发病机制及早期筛查是亟待关注与研究的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1OP与内分泌系统疾病",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1OP与糖尿病",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "糖尿病（Diabetesmellitus，DM）是一种常见的代谢性疾病，已被证明是OP的重要风险因素，可造成糖尿病性骨质疏松症（Diabetic osteoporosis，DOP）。据统计，在1型糖尿病（Diabetes mellitus type1，T1DM）患者中OP的患病率高达 $4 8 \\% - 7 2 \\% ^ { [ 3 ] }$ 。T1DM对于骨骼的损害更为严重，该型患者的BMD 降低，骨质量下降，骨折风险明显升高，挪威一项总计25159名男性和女性的研究表明，与没有糖尿病的对照组相比，患有T1DM的患者髋部骨折风险增加了近18倍[4]。一项基于人群的研究评估了丹麦所有报告的骨折，T1DM 患者骨折风险增加$3 0 \\% ^ { [ 4 ] }$ 。另有研究提示，2 型糖尿病（Diabetes mellitus type 2，T2DM）患者 BMD显示正常或增高，但骨折风险高于正常人，这可能与该类患者的骨质量下降有关。一项为期18年，纳入87224名OP患者的随访研究显示，合并T2DM的OP 患者骨折患病率高出 $1 6 \\% ^ { [ 5 ] }$ 。DM 诱发OP风险的确切机制目前尚存争议，相关研究认为，对于DM1和 DM2 而言，共同机制[6-8可能主要与高血糖、胰岛素水平、骨髓脂肪含量、全身性炎症、氧化应激、以及糖尿病并发症等有关。不同机制在于[8.9]：T2DM 患者前期出现胰岛素抵抗，导致 BMD 增加；再者 T2DM 的患者服用的噻唑烷二酮类药物易使骨形成受损诱发 $\\mathrm { O P } ^ { [ 9 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总结分析发现，目前仍缺乏专门针对DM患者OP 筛查和骨折风险评估的指南,既往研究[1]提示 T2DM 患者在双能 $\\textbf { \\em x }$ 线吸收法（Dual-energy X-rayabsorptiometry，DXA)扫描中出现BMD增加现象，因此无法通过DXA评估该类患者的骨量变化。此外，骨折风险评估工具（Fracture risk assessmenttool,FRAX）评分可能低估了T2DM患者的骨折概率，有学者也建议将DM作为OP性骨折的独立预测因素纳入 FRAX 预测工具中[]。因此，未来对 DM 患者除了进行常规BMD 筛查和 FRAX 骨折风险评估外，建议采用诸如小梁骨评分（Trabecular bone score，TBS)、高分辨外周定量计算机断层成像（High resolutionperipheral quantitative computed tomography,HR-pQCT）、骨组织活检等方法分析骨骼的微结构和骨质量。另外，I型原胶原氨基端肽（Procollagen type 1N-terminal propeptide，P1NP）、骨钙素、骨特异性碱性磷酸酶等骨代谢标志物也已被发现在DM患者中呈降低趋势[2]，可作为DOP 的预测指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2OP与高脂血症 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高脂血症（Hyperlipidemia，HLP）发病率高，不仅是导致动脉粥样硬化和血管钙化的危险因素，而且与OP存在密不可分的关系。早在1963年就有学者提出了脂质与生物矿化之间的关系[13]，越来越多的研究表明，HLP 可以加速骨质流失，加重OP的发生，成为OP的重要危险因子。国外调查数据显示， $6 3 \\%$ 的 OP 患者同时患有 $\\mathrm { H L P ^ { [ 1 4 ] } }$ 。此外，双膦酸盐治疗可逆转血脂异常，他汀类药物治疗 HLP 的同时患者可出现 BMD 升高，表明骨骼和脂质的代谢过程存在共享途径[15]。HLP诱发骨代谢异常/紊乱的机制仍不明确，主要集中在以下几个方面[16-20]：脂质聚集、炎症、过氧化脂质、氧化应激、骨髓腔内微循环障碍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总之，HLP患者是OP的高危人群，应做好OP的早期筛查。可通过 DXA、定量CT（Quantitative CT，QCT）、定量超声（Quantitative ultrasound,QUS）进行BMD 和骨质量的定期监测。同时建议HLP 患者在 BMD 检查正常情况下，也应行骨钙素等骨代谢标志物检测并定期追踪，便于早期防治 $\\mathrm { O P } ^ { [ 2 1 ] }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2OP与循环系统疾病",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.10P与冠心病",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冠心病（Coronaryheart disease，CHD）是全球范围内的主要死亡原因，由动脉粥样硬化血栓性血管闭塞引起，动脉硬化（Atherosclerosis，AS）是CHD的主要原因。OP与CHD的风险显著相关，一项基于人群的队列研究结果表明，OP 患者较非OP 患者罹患CHD 的风险更高[22]。而另一项研究发现，老年女性CHD人群中OP 的患病率达 $6 0 . 8 \\%$ 。CHD、OP是老年人常见多发病，常共存于一体，国内研究发现OP与CHD在男性中的共存率为 $2 7 . 8 7 \\%$ ，而在女性中的共存率可达 $4 1 . 0 7 \\% ^ { [ 2 3 ] }$ 。越来越多的证据表明，OP与CHD 的发生、发展有许多共同的途径，主要包括过氧化脂质、氧化应激、血管钙化、全身性炎症增加，雌激素减少以及肾素-血管紧张素系统激活等方面[16,22.24-26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于CHD 患者OP风险筛查评估没有相应的指南，弗雷明汉CHD 风险预测模型和相应的CHD风险类别可能有助于识别具有低BMD 患者，以及筛选应行BMD 筛查的人群[27]。目前公认的BMD 测定方法为DXA，其中腰椎和全髋关节是评估OP的部位，其检测值可作为OP的诊断标准。此外，研究人员发现，有心脏病病史的人比那些没有病史的人手腕骨（桡骨远端）骨皮质体积骨密度大幅降低，通过使用HR-pQCT能更有效评估 $\\mathrm { O P } ^ { [ 2 8 ] }$ 。而 FRAX 结合患者疾病、药物及BMD情况可对患者未来10年骨折风险分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2OP与高血压病 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高血压病（Hypertension，HTN）是心血管死亡、发病和致残的主要风险因素，全球成人患病率在 $20 \\%$ 至 $40 \\%$ 之间[29]，随着经济发展和人口老龄化的加速，以及生活方式的改变，HTN 的患病率也在增加。HTN 与OP 具有相关性，高血压是OP及OP骨折的独立危险因素，随着血压的升高，骨骼中矿物质的丢失率增加[30]。在一项基于 2733人的大规模队列研究中，Yang[29]等发现高血压与股骨颈 BMD 降低和骨折风险增加相关。HTN导致OP可能主要由肾素—血管紧张素—醛固酮系统激活、甲状旁腺素增加、尿钙增多、细胞因子及免疫系统激活引起[29-32]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HTN是引起OP的危险因素，HTN人群要控制好血压，定期检测BMD。应对患者的骨代谢标志物和相关生化指标及时追踪，以防OP和脆性骨折的出现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3OP与呼吸系统疾病",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以慢性阻塞性肺炎（Chronicobstructive pneumonia，COPD）为代表的的呼吸系统疾病是全球排名第四的死亡原因，40岁以上成年人中患病率约为 $9 \\%$ 至$1 0 \\% ^ { [ 3 3 ] }$ 。COPD 被认为是一种全身性疾病，且伴有多种共病，其中OP 极其常见。国外研究调查显示，在995名COPD受试者中，OP患病率为 $1 6 . 9 \\%$ ，比14828名 45岁以上非COPD 受试者的 $8 . 9 \\%$ 高出 1.9 倍[34]。在之前的一项包括13 项研究共 775 名COPD 患者的系统综述中，OP 总患病率平均为 $3 5 . 1 \\% ^ { [ 3 5 ] }$ 。COPD合并 OP 的机制复杂且尚未明确[36-40]，其中COPD 患者全身炎症、氧化应激、肺功能障碍、维生素D缺乏以及糖皮质激素的应用在OP的发病过程中发挥重要作用。此外，COPD 患者体力活动减少以及吸烟增多也是引发OP的主要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管COPD 患者发生OP 和OP 骨折的风险较高，但在COPD 的诊疗中常被漏诊。目前尚无COPD 相关OP 筛查的指南，因此，对COPD 患者及时进行 DXA髋部骨密度和骨代谢标志物的检查。COPD在临床上与BMD 降低有关，但骨折风险的很大一部分可能与BMD 无关，故 BMD 不能有效评价COPD 患者继发OP 骨折的风险，建议采用 TBS 联合FRAX一起用于骨折预测[41]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4OP与泌尿系统疾病",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "慢性肾病（Chronic kidneydisease，CKD）在全球范围内影响约7.52亿人。CKD 在OP的发生与发展中扮演着重要的角色。一项1702例女性CKD患者调查研究发现，CKD 患者中 OP 发生率为 $4 7 . 1 \\%$ ，且发生率随肾小球滤过率（Glomerular filtration rate，GFR）下降而逐渐增加， $\\mathrm { G F R } { < } 6 0$ 毫升/分钟的患者OP 的患病率是 $\\mathrm { G F R } { > } 6 0$ 毫升/分钟患者的两倍[42]。另一项报告显示，CKD 患者髋部骨折的风险显著增加，其发生率高达 $5 . 2 \\% ^ { [ 4 3 ] }$ 。其发病机制主要有继发甲状旁腺功能亢进、氧化应激和晚期糖基化终产物的积累、炎症、代谢性酸中毒、血清低钙高磷、硬化素和 DKK1 增加、VD 缺乏等[44-48]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CKD 患者 OP的早期筛查主要依据改善全球肾脏病预后组织（（KidneyDisease:Improving Global Outcomes，KDIGO）的指南建议[49]：每间隔 6-12 个月检查血清钙、磷、碱性磷酸酶、全段甲状旁腺激素、25(OH)D3等生化指标和相关骨代谢标志物；另外建议对CKDG1～G2 期患者通过DXA 定期测定腰椎及髋关节骨密度以评估是否合并OP，其他检测手段还有QCT，QUS等。而对 $\\mathrm { C K D G 3 a } { \\sim } \\mathrm { G } 5 \\mathrm { D }$ 期有CKD证据和(（或）或)有OP风险患者测定BMD以评估骨折风险，并通过OP自我筛查工具(OSTA)和FRAX对CKD 患者进行OP 骨折风险预测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5OP与免疫系统疾病",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "类风湿性关节炎（Rheumatoidarthritis，RA）是一种最为常见的免疫系统疾病，以局部和全身骨丢失为特征，影响全球约 $0 . 3 \\% 1 . 0 \\%$ 的人口。Bilgici[50]等人研究发现，在304 例RA患者中，91人存在OP（ $2 9 . 9 \\%$ ，RA患者的OP发病率比非RA患者高 $9 0 \\%$ 。此外,RA患者发生OP性骨折的风险增加，一项在47000名 RA 患者的人群队列中，OP 性骨折的风险约为非RA 患者的1.5 倍[51]。RA 患者体内炎症因子、抗环瓜氨酸肽抗体（Anti-cyclic citrullinated peptide antibody，ACPA）、Dkk-1表达的升高，以及VD 缺乏和糖皮质激素的应用等是导致OP 发生的重要因素[52-54]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RA合并OP早期易被忽略，故定期筛查非常重要。RA患者的OP筛查策略应包括临床和VD评估、骨重塑的生化标志物和骨成像评估。特别是DXA检查，虽然腰椎和全髋关节是评估OP的常用部位，但在RA发生发展及评估过程中，掌骨骨丢失水平也是值得关注的指标之一。此外，QCT检查在RA与OP共病患者中具有一定优势，值得进一步研究和探讨。而 FRAX、TBS、HR-pQCT可用于骨折风险预测[55]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6OP与骨骼肌肉系统疾病",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "骨性关节炎（Osteoarthritis，OA）是一种以软骨退变和继发性骨质增生为特征的慢性关节疾病，并伴有不同程度的滑膜炎症，通常发生在50岁以上的人群中，发病率高、致残风险大。研究表明OA与OP关系密切，两者之间可能存在某种内在联系，在临床中常同时出现，一项纳入3985 名亚洲成年人的抽样调查发现，OA 患者更易合并 $\\mathrm { O P ^ { [ 5 6 ] } }$ 。在欧洲的一项纳入 5006 名患者研究中，发现OA 患者的全身 BMD 比正常组低，OA 患者发生 OP 骨折的风险比正常人高$5 0 \\% ^ { [ 5 7 ] }$ 。OP 与OA的共病机制可能与炎症、氧化应激、一氧化氮、瘦素、骨髓间充质干细胞、雌激素和VD 缺乏以及机械因素等关系密切[58-62]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在OA 患者中筛选并识别OP 进行相关治疗具有重要临床意义。尽管 DXA测得的BMD为OP 诊断的标准，但其不便于携带，不能很好的应用于社区OA患者OP的筛查，而超声骨密度仪价格便宜，易于操作，便于携带，更适合应用于大规模的OP筛查。已有研究发现提示，跟骨定量超声对OA患者的骨量降低和 OP 均有较高的诊断效能，因此可被作为OA 患者筛查OP 的方式之一[63]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7OP与神经系统疾病",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抑郁症（Depression，DP）是一种常见的神经系统疾病，也是导致残疾的主要原因，影响着全球至少1.2亿人。在美国，大约 $10 \\%$ 的成年人服用抗DP药物超过6个月[64]。OP 在 DP 患者中较为常见，研究显示共患 DP 和焦虑症的人患OP的风险是正常人的2.47倍，大约有 $45 \\%$ 的DP女性患者合并OP，她们的DP持续时间与BMD 呈强负相关。此外，与轻度 DP 患者相比，中度DP 患者有较高的髋部骨折风险，而重度DP 患者有更高的髋部骨折风险[65]。其中炎症、氧化应激、下丘脑-垂体-肾上腺轴过度激活和胰岛素、瘦素、5-羟色胺、VD 水平降低是DP导致OP 的主要机制，另外DP 患者体力活动减少以及吸烟、饮酒增多以及抗DP药物的使用，在导致OP 的过程中起着重要作用[65-67]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "建议对DP 患者定期进行DXA、QCT、QUS 测定以评估是否合并OP，此外通过开展实验室相关生化指标、骨代谢标志物进行早期筛查，为临床OP防治提供参考依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8OP与其他疾病",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与此同时，慢性胃炎、肝炎等消化系统疾病，甲状腺功能亢进症等内分泌系统疾病，肌少症等肌肉骨骼系统疾病，阿尔茨海默症、帕金森病等神经系统疾病，血友病、贫血等血液系统疾病，以及艾滋病等传染性疾病，这些都有可能与OP共同存在，在临床诊治过程中要予以重视。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OP 共病的发病率较高，常与多种老年慢性疾病共存，但目前临床上OP 共病概念尚不够普及，缺乏特异性的共病患者OP筛查、评估工具及管理指南；临床诊疗模式尚未完善，仍以专科诊疗为主，各学科之间相互分离，难以实现及时有效的沟通，可能造成OP共病患者过度医疗、治疗中断、治疗不系统、不全面等相关问题。随着OP共病患者增多，未来建议引入多学科综合治疗（Multi-disciplinary team，MDT）理念，应进一步加强OP共病患者的全面评估，完善相关筛查指标，及时发现OP并进行系统治疗；以往单一OP诊治已不能满足临床需要,还需从以单一OP为中心的模式转变成以患者为中心的个体化管理。同时应积极开展OP共病的相关研究，以更好地服务临床。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OP 共病研究是一项复杂的系统工程，正处于起步阶段。目前我国尚缺乏OP与相关共病的流行病学调查以及共病患者OP风险评估手段。因此在以后的OP共病研究中应对受试者开展远期随访研究，系统采集基本信息、影响因素信息、相关疾病与中医证候学相关信息，建立具有病证结合特点的临床生物样本库。从中获取OP常见共病人群及共病率，并分析共病患者出现OP的相关危险因素，探讨建立适宜的风险评估模型。同时借助基因组学、代谢组学、蛋白质组学等技术,探索OP共病患者的早期生物标志物或者差异性骨代谢标志物、易感基因等，对高危人群进行早期预警，从而选择适当的干预手段，减少与延缓疾病进展。OP 共病的发病机制较为复杂且尚未完全明确，因此深入研究了解OP共病的发生、发展机制可能能为OP的预防和诊疗提供新思路，发现新靶点。综上，只有积极重视OP共病研究及早期筛查，才能实现OP共病共防、共治，以预防或延缓不同疾病终点结局的发生，达到不同疾病之间管理的协调统一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：魏戌、谢雁鸣、朱立国负责文章整体设计；魏戌、刘宁、章轶立负责论文撰写；韩涛、孙凯、齐保玉、陈忻、秦晓宽负责文献检索；魏戌、高景华负责对文章内容进行审校及质量控制;魏戌、谢雁鸣、朱立国对文章整体负责。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] FEINSTEIN A R. The pre-therapeutic classification of co-morbidity in chronic disease [J]. J Chron Dis, 1970, 23(7): 455-469. DOI: 10.1016/0021-9681(70)90054-8.   \n[2] SALIVE ME. Multimorbidity in older adults [J]. Epidemiol Rev, 2013,35: 75-83. DOI: 10.1093/epirev/mxs009.   \n[3] 裴育，巴建明．1型和2型糖尿病与骨质疏松症的关系[J].中华糖尿病杂志， 2016，8 (1): 12-14. DOI: 10.3760/cma.j.issn.1674-5809.2016.01.004. Pei Y，Ba J M. Relationship between type 1 and type 2 diabetes and osteoporosis[J]. Chin J Diabetes Mellitus， 2016， 8(1): 12-14. DOI: 10.3760/cma.j.issn.1674-5809.2016.01.004.   \n[4] CORTET B,LUCAS S, LEGROUX-GEROT I, et al. Bone disorders associated with diabetesmellitus and its treatments [J]. Joint Bone Spine,2O19,86(3): 315-320. DO1: 10.1016/j.jbspin.2018.08.002.   \n[5] GOLDSHTEIN I，NGUYEN A M，DEPAPP A E，et al.Epidemiology and correlates of osteoporotic fractures among type 2 diabetic patients [J].Arch Osteop0r0s,2018, 13(1): 15.D0I: 10.1007/s11657-018-0432-x. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6] HULL B, SMITH N R.Diabetes and Bone [J]. Am J Med Sci, 2016,351(4): 356-360.DOI: 10.1016/j.amjms.2016.02.010. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7] VALDERRABANO R J, LINARES M I. Diabetes mellitus and bone health: epidemiology, etiology and implications for fracture risk stratification [J]. Clin Diabetes Endocrinol, 2018, 4: 9. DO1: 10.1186/s40842-018-0060-9. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[8] KURRA S,FINK D A, SIRIS E S. Osteoporosis-associated fracture and diabetes [J].Endocrinol Metab Clin North Am， 2014， 43(1): 233-243.DOI: 10.1016/j.ecl.2013.09.004.   \n[9] 杨译，张广润，杨瑞霞，等．糖尿病骨质疏松症发病机制研究进展[J]．甘肃 医药，2018，37（11): 973-976.DOI: 10.15975/j.cnki.gsy.2018.11.005. Yang Y, Yang G R, Yang R X，et al. Progress in pathogenesis of diabetic Osteopor0sis [J]. Gansu Medical Journal， 2018， 37(11): 973-976. DOI: 10.15975/j.cnki.gsy.2018.11.005.   \n[10] EPSTEIN S, DEFEUDIS G,MANFRINI S, et al. Scientific Committee of the FirstInternational Symposium on Diabetes and Bone. Diabetes and disordered bone metabolism (diabetic osteodystrophy): time for recognition [J]. Osteoporos Int, 2016, 27(6): 1931-1951. DO1: 10.1007/s00198-015-3454-x.   \n[11] GIANGREGORIO L M, LESLIE W D, LIX L M, et al. FRAX underestimates fracture risk in patients with diabetes [J]. J Bone Miner Res,2O12,27(2): 301-308. DO1: 10.1002/jbmr.556.   \n[12] PAPAIOANNOU I, PANTAZIDOU G, KOKKALIS Z, et al. Systematic Review: Are the Elderly With Diabetes Mellitus Type 2 Prone to Fragility Fractures [J]. Cureus,2021, 13(4): e14514. DOI: 10.7759/cureus.14514.   \n[13] IRVING J T. Calcification of the organic matrix of enamel [J]. Arch Oral Biol, 1963, 8: 773-774. DO1: 10.1016/0003-9969(63)90010-4.   \n[14] MURCH O, COLLIN M, HINDS C J, et al. Lipoproteins in inflammation and sepsis. I. Basic science [J]. Intensive Care Med，2007，33(1): 13-24. DOI: 10.1007/s00134-006-0432-y.   \n[15] LEKAMWASAM S,WEERARATHNA T, RODRIGO M, et al. Osteoporosis and cardiovascular risk among premenopausal women in Sri Lanka [J]. J Clin ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Densit0m, 2009, 12(2): 245-250. D01: 10.1016/j.j0cd.2009.02.001. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16] PARHAMI F. Possible role of oxidized lipids in osteoporosis: could hyperlipidemia be a risk factor [J]. Prostaglandins Leukot Essent Fatty Acids, 2003,68(6): 373-378. D01: 10.1016/s0952-3278(03)00061-9.   \n[17] WANG Y, ZHU Y, LU S, et al. Beneficial effects of paeoniflorin on osteoporosis induced by high-carbohydrate, high-fat diet-associated hyperlipidemia in vivo [J].Biochem Biophys Res Commun， 2018， 498(4): 981-987． DOI: 10.1016/j.bbrc.2018.03.093.   \n[18] GRAHAM L S, TINTUT Y, PARHAMI F, et al. Bone density and hyperlipidemia: the T-lymphocyte connection [J]. J Bone Miner Res, 2010, 25(11): 2460-2469. DOI: 10.1002/jbmr.148.   \n[19] XIAO Y, CUI J,LI Y X, et al. Dyslipidemic high-fat diet affects adversely bone metabolism in mice associated with impaired antioxidant capacity [J]. Nutrition, 2011,27(2): 214-220. D01: 10.1016/j.nut.2009.11.012.   \n[20] TINTUT Y, DEMER LL. Effects of bioactive lipids and lipoproteins on bone [J]. Trends Endocrinol Metab, 2014,25(2): 53-59.DOI: 10.1016/j.tem.2013.10.001.   \n[21] 蔡晓燕，董光富．脂代谢及血清骨钙素水平与骨质疏松症的相关性分析[J]. 中国骨质疏松杂志，2016，22（6)：711-712，730. Cai X Y, Dong G F. Correlation analysis between lipid metabolism， serum Osteocalcin level and osteoporosis [J]. Chin J Osteoporos,2016, 22(6): 711-712, 730. DO1: 10.3969/j.issn.1006-7108.2016.06.011.   \n[22] CHEN S J, LIN C S,LIN C L, et al. Osteoporosis Is Associated With High Risk for Coronary Heart Disease: A Population-Based Cohort Study [J]. Medicine (Baltim0re),2015, 94(27): e1146. DOI: 10.1097/MD.0000000000001146.   \n[23] 李洁，杨希立，郭晋爱，等．老年冠心病与骨质疏松的相关性研究[J]．中国 实用内科杂志，2010，30（S1)：20-23. LI J, YANG X L, GUO J A, et al. Correlation between coronary heart disease and osteoporosis in the elderly [J]. Chin J Pract Intern Med, 2O1O,30(S1): 20-23.   \n[24] LAROCHE M, PECOURNEAU V, BLAIN H, et al. Osteoporosis and ischemic ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "cardiovascular disease [J]. Joint Bone Spine, 2017，84(4): 427-432. DOI: 10.1016/j.jbspin.2016.09.022. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25] ZHAN J K, WANG Y, HE J Y, et al. Artery calcification, osteoporosis, and plasma adiponectin levels in Chinese elderly [J]. Heart Lung，2O15,44(6): 539-543. DO1: 10.1016/j.hrtlng.2015.08.006. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26]魏戌，章轶立，谢雁鸣，等．骨质疏松症与冠心病共病患者的临床特征及其影响因素[J]．中华骨质疏松和骨矿盐疾病杂志，2020，13（4)：318-325.DOI:10.3969 /j.issn.1674-2591.2020.04.006.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WEI X, ZHANG Y L, XIE Y M, et al. Clinical characteristics and influencing factors in patients with osteoporosis complicated with coronary atherosclerotic heart disease [J]. Chin J Osteoporos Bone Miner Res,2020,13(4): 318-325. DOI: 10.3969 /j.issn.1674-2591.2020.04.006. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27] BROUSSARD D L，MAGNUS J H. Coronary heart disease risk and bone mineral density among U.S.women and men [J]. JWomens Health (Larchmt), 2008,17(3): 479-490. DO1: 10.1089/jwh.2007.0593. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28] PACCOU J, EDWARDS M H， WARD K,et al. Relationships between bone geometry, volumetric bone mineral density and bone microarchitecture of the distal radius and tibia with alcohol consumption [J]. Bone, 2015,78: 122-129. DOI: 10.1016/j.b0ne.2015.05.002. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29] YANG S,NGUYEN ND, CENTER JR, et al. Association between hypertension and fragility fracture: a longitudinal study [J]. Osteoporos Int, 2O14, 25(1): 97-103.DOI: 10.1007/s00198-013-2457-8. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30] AL-HARIRI M, ALDHAFERY B. Association of Hypertension and Lipid Profile with Osteoporosis[J]. Scientifica (Cairo)， 2020，2020: 7075815.DOI: 10.1155/2020/7075815. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31] VARENNA M，MANARA M，GALLI L，et al. The association between Osteoporosis and hypertension: the role of a low dairy intake [J]. Calcif Tissue Int, 2013, 93(1): 86-92. DOI: 10.1007/s00223-013-9731-9. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32] GUAN X X, ZHOU Y, LI J Y. Reciprocal roles of angiotensin II and Angiotensin I Receptors Blockade (ARB) in regulating Cbfa1/RANKL via cAMP signaling pathway:possible mechanism for hypertension-related osteoporosisand antagonistic effect of ARB on hypertension-related osteoporosis [J]. Int J Mol Sci,2011,12(7): 4206-4213.DOI: 10.3390/ijms12074206. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33] HU X, SUN Y, XU W, et al. Expression of RANKL by peripheral neutrophils and its association with bone mineral density in COPD [J]. Respirology, 2017, 22(1): 126-132. DOI: 10.1111/resp.12878. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34] WATANABE R, TAI N, HIRANO J, et al. Independent association of bone mineral density and trabecular bone score to vertebral fracture in male subjects with chronic obstructive pulmonary disease [J]. Osteoporos Int, 2O18,29(3): 615-623. DOI: 10.1007/s00198-017-4314-7. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35] INOUE D,WATANABE R, OKAZAKI R. COPD and osteoporosis: links, risks, and treatment challenges [J]. Int J Chron Obstruct Pulmon Dis,2O16,11: 637-648. DOI: 10.2147/COPD.S79638. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36] OZCAKIR S，SIGIRLI D， URSAVAS A，et al. COPD and Osteoporosis: Associated Factors in Patients Treated with Inhaled Corticosteroids [J]. Int J Chron Obstruct Pulmon Dis, 2020, 15: 2441-2448. DOI: 10.2147/COPD.S274728. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37] CHUBACHI S,NAKAMURA H, SASAKI M, et al. Polymorphism of LRP5 gene and emphysema severity are associated with osteoporosis in Japanese patients with or at risk for COPD [J]. Respirology, 2015, 20(2): 286-295. DOI: 10.1111/resp.12429. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38] BERNARDO I, BOZINOVSKI S，VLAHOS R. Targeting oxidant-dependent mechanisms for the treatment of COPD and its comorbidities [J].Pharmacol Ther, 2015,155: 60-79.DO1: 10.1016/j.pharmthera.2015.08.005. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[39] BARNES P J. Inflammatory mechanisms in patients with chronic obstructive pulmonary disease [J]. J Allergy Clin Immunol, 2016, 138(1): 16-27. DOI: 10.1016/j.jaci.2016.05.011. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[40] CHEN S J, LIAO W C, HUANG K H, et al. Chronic obstructive pulmonary disease and allied conditions is a strong independent risk factor for osteoporosis and pathologic fractures: a population-based cohort study [J]. QJM,2015, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "108(8): 633-640.DOI: 10.1093/qjmed/hcv012. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[41] ROMME E A,GEUSENS P, LEMS W F, et al. Fracture prevention in COPD patients;a clinical 5-step approach [J]. Respir Res，2015,16(1): 32.DOI: 10.1186/s12931-015-0192-8 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[42] KINSELLA S, CHAVRIMOOTOO S, MOLLOY M G, et al. Moderate chronic kidney disease in women is associated with fracture occurrence independently of osteoporosis [J]. Nephron Clin Pract，2010，116(3): c256-262. DOI: 10.1159/000317207. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[43] NITTA K, YAJIMA A, TSUCHIYA K. Management of Osteoporosis in Chronic Kidney Disease[J]. Intern Med, 2017， 56(24): 3271-3276. DOI: 10.2169/internalmedicine.8618-16. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[44] HSU C Y,CHEN L R，CHEN K H. Osteoporosis in Patients with Chronic Kidney Diseases: A Systemic Review [J]. Int J Mol Sci, 2020, 21(18): 6846. DOI: 10.3390/ijms21186846. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[45] KHAIRALLAH P, NICKOLAS T L. Updates in CKD-Associated Osteoporosis [J]. Curr Osteoporos Rep, 2018, 16(6): 712-723. DOI: 10.1007/s11914-018-0491-3. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[46] KAZAMA JJ, MATSUO K, IWASAKI Y, et al. Chronic kidney disease and bone metabolism[J]. J Bone Miner Metab， 2015， 33(3): 245-252. DOI: 10.1007/s00774-014-0639-x. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[47] MAZZAFERRO S,DE MARTINI N, ROTONDI S,et al.Bone, inflammation and chronic kidney disease [J]. Clin Chim Acta,2020, 506: 236-240. DOI: 10.1016/j.cca.2020.03.040. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[48] GUPTA A. Management of osteoporosis in patients with chronic kidney disease [J]. Br J Hosp Med (Lond), 2014, 75(2): 83-89. DOI: 10.12968/hmed.2014.75.2.83. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[49] KETTELER M, BLOCK GA, EVENEPOEL P, et al. Executive summary of the 2017 KDIGO Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and why it matters [J]. Kidney Int, 2017, 92(1): 26-36. DO1: 10.1016/j.kint.2017.04.006. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[50] LIU L C, LU M C, WANG S Y, et al. Association of use of rehabilitation services with development of osteoporosis among patients with rheumatoid arthritis: a nationwide population-based cohort study [J]. Osteoporos Int, 2018,29(8): 1897-1903.DOI: 10.1007/s00198-018-4569-7. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[51] LINDNER L, CALLHOFF J,ALTEN R, et al. Osteoporosis in patients with rheumatoid arthritis: trends in the German National Database 2OO7-2O17 [J]. Rheumatol Int, 2020, 40(12):2005-2012. DOI: 10.1007/s00296-020-04593-6. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[52] ADAMI G， SAAG K G. Osteoporosis Pathophysiology， Epidemiology， and Screening in Rheumatoid Arthritis [J]. Curr Rheumatol Rep,2O19, 21(7): 34. DOI: 10.1007/s11926-019-0836-7. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[53] HEINLEN L, HUMPHREY M B. Skeletal complications of rheumatoid arthritis [J]. Osteoporos Int, 2017, 28(10): 2801-2812. DOI: 10.1007/s00198-017-4170-5. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[54] LLORENTE I, GARCiA-CASTANEDA N, VALERO C, et al. Osteoporosis in Rheumatoid Arthritis: Dangerous Liaisons [J]. Front Med (Lausanne), 2020, 7: 601618.DOI: 10.3389/fmed.2020.601618.L ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[55] FARDELLONE P， SALAWATI E，LE MONNIER L，et al. Bone Loss, Osteoporosis,and Fractures in Patients with Rheumatoid Arthritis: A Review [J]. J Clin Med, 2020, 9(10): 3361. DOI: 10.3390/jcm9103361. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[56] AL SALEH J， SAYED M E,MONSEF N, et al. The Prevalence and the Determinants of Musculoskeletal Diseases in Emiratis Attending Primary Health Care Clinics in Dubai [J]. Oman Med J, 2016,31(2): 117-123. DOI: 10.5001/omj.2016.23. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[57] CLAYTON E S,HOCHBERG M C. Osteoporosis and osteoarthritis, rheumatoid arthritis and spondylarthropathies [J]. Curr Osteoporos Rep，2O13,11(4): 257-262. DOI: 10.1007/s11914-013-0172-1. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[58] BULTINK IE,LEMS W F. Osteoarthritis and osteoporosis: what is the overlap [J]. Curr Rheumatol Rep, 2013, 15(5): 328. DOI: 10.1007/s11926-013-0328-0. [59] VRTACNIK P, ZUPAN J, MLAKAR V, et al. Epigenetic enzymes influenced by oxidative stress and hypoxia mimetic in osteoblasts are differentially expressed in patients with osteoporosis and osteoarthritis [J]. Sci Rep,2018, 8(1): 16215. DOI: 10.1038/s41598-018-34255-4. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[60] GANGULY P, EL-JAWHARI J J, GIANNOUDIS P V, et al. Age-related Changes in Bone Marrow Mesenchymal Stromal Cells: A Potential Impact on Osteoporosis and Osteoarthritis Development [J]. Cell Transplant, 2O17, 26(9): 1520-1529.DOI: 10.1177/0963689717721201. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[61] SCOTECE M，MOBASHERI A. Leptin in osteoarthritis: Focus on articular cartilage and chondrocytes[J]. Life Sci， 2015， 140: 75-78.DOI: 10.1016/j.1fs.2015.05.025. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[62] ABRAMSON S B. Osteoarthritis and nitric oxide [J]. Osteoarthritis Cartilage, 2008,16 Suppl 2: S15-20. DOI: 10.1016/S1063-4584(08)60008-4. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[63]曾展鹏，戴才锋，郑伟杰，等．超声骨密度筛查膝关节骨性关节炎患者骨质疏松症的效果[J]．实用医学杂志，2018，34（2）：243-246.DOI:10.3969/j.issn.1006-5725.2018.02.021.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ZENG Z P, DAI C F, ZHENG W J, et al. Effect of quantitative ultrasound bone mineral density test on the screening of osteoporosis in patient with knee osteoarthritis [J]. J Pract Med, 2018, 34(2): 243-246. DOI: 10.3969/j.issn.1006- 5725.2018.02.021. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[64] CHENG B H, CHEN P C, YANG Y H,et al. Effects of depression and antidepressant medications on hip fracture: A population-based cohort study in Taiwan [J]. Medicine(Baltimore)，2016， 95(36):e4655. DOI: 10.1097/MD.0000000000004655. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[65] WENG S F, HSU H R, WENG Y L, et al. Health-Related Quality of Life and Medical Resource Use in Patients with Osteoporosis and Depression: A Cross-Sectional Analysis from the National Health and Nutrition Examination Survey [J]. Int J Environ Res Public Health，2020，17(3): 1124. DOI: 10.3390/ijerph17031124. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[66] 胡劲涛，许超，周晓成．心理学与骨质疏松症的相关性研究概况[J]．中国骨",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "伤，2013， 26（1): 85-87.DOI: 10.3969/j.issn.1003-0034.2013.01.001. HU J T, XU C, ZHOU X C. Relationship between psychology and osteoporosis [J]. China J Orthop Trauma,2013,26(1): 85-87. DOI: 10.3969/j.issn.1003- 0034.2013.01.001. [67] ROSENBLAT J D, GREGORY J M, CARVALHO A F, et al. Depression and Disturbed Bone Metabolism: A Narrative Review of the Epidemiological Findings and Postulated Mechanisms [J]. Curr Mol Med, 2016,16(2): 165-178. DOI: 10.2174/1566524016666160126144303 ",
+        "page_idx": 16
+    }
+]

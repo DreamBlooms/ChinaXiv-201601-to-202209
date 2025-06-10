@@ -1,0 +1,431 @@
+[
+    {
+        "type": "text",
+        "text": "祁连山南坡水体氢氧稳定同位素特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘芳²，曹广超¹²，曹生奎²，张卓¹²，杨羽帆³(1.青海师范大学地理科学学院/青海省自然地理与环境过程重点实验室,青海 西宁810008；  \n2.青藏高原地表过程与生态保育教育部重点实验室，青海 西宁810008;  \n3.陕西师范大学地理科学与旅游学院,陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水体氢氧稳定同位素是表征水体运移和水分转化的重要指示剂，可为地区水文循环过程的研究提供判断依据。基于稳定同位素技术,分析祁连山南坡不同水体的氢氧同位素组成特征,探讨其影响因素。结果表明：(1)祁连山南坡不同水体的氢氧稳定同位素特征存在差异,降水的稳定同位素值波动范围大于河水、地下水及冰川融水；（2）河水与地下水稳定同位素关系点接近，两者水力联系较强；（3）研究区冰川融水蒸发线方程为 $\\scriptstyle y = 6 . 3 3 1 x +$ $1 . 7 5 6 ( n { = } 8 , R ^ { 2 } { = } 0 . 9 8 )$ ，河水蒸发线方程为 $y = 4 . 4 6 7 x - 1 1 . 7 1 6 \\left( n { = } 7 5 , R ^ { 2 } { = } 0 . 8 0 \\right)$ ,地下水蒸发线方程为 $y { = } 4 . 8 8 9 x { - } 7 . 4 8 1 ( n { = }$ $n =$ $1 9 , R ^ { 2 } { = } 0 . 7 6 \\$ ,各水体氢氧稳定同位素值之间均具有较好的线性关系,河水与地下水补给源关系较复杂;(4）冰川融水、河水与地下水氢氧稳定同位素的环境效应均不显著，而降水则具有较明显的高程效应、纬度效应和大陆效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水体；氢氧稳定同位素；影响因素；祁连山南坡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "受气候变化和人类活动的影响，水资源匮乏已成为全球三大系统性风险之一[1]。水循环是水资源可持续利用的重要过程，影响着地区生态环境的平衡。我国西北内陆干旱地区，水资源短缺，河流发源于高寒山区，冰川、森林和草地等不同地物形成了高寒地区较为复杂的下垫面系统，致使高山流域水循环过程更为复杂[2]。因此，高寒山区流域水文循环过程机制的研究对深入了解干旱内陆地区水文过程具有极其重要的作用。作为表征水体运移和水分转化的重要指标，水体氢氧稳定同位素特征及差异研究可为地区水文循环研究提供理论依据[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁连山脉位于青藏高原东北部，是我国西北十旱区重要的生态安全屏障及其黄河流域重要的水源地。近年来，随着祁连山国家公园试点的建立以及生态价值的提高，以祁连山脉为核心的西北内陆干旱半干旱地区同位素水循环研究成为诸多学者关注的焦点，对于整个祁连山稳定同位素及水化学的研究逐渐增多[4-6],但因祁连山南北坡自然地理环境不同，水汽来源不同，水循环过程也存在明显差异。祁连山南坡是黑河、托勒河、青海湖等内陆水系和黄河流域外流水系的发源地。目前，祁连山南坡水体同位素的研究主要以流域尺度的降水、河水和地下水水循环单元为主，研究内容集中于降水氢氧稳定同位素特征及水汽来源[7-9]、不同水体间转化关系[10-11]、地下水测年[12]和水化学特征[13]等。据此,本文对祁连山南坡降水、冰川融水、地表水、地下水的氢氧同位素特征及其影响因素进行分析，了解不同水体之间的相互联系，为水资源合理利用与水循环过程提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区与研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁连山南坡位于青海省东北部，地理位置为$9 8 ^ { \\circ } 0 8 ^ { \\prime } 1 3 ^ { \\prime \\prime } \\sim 1 0 2 ^ { \\circ } 3 8 ^ { \\prime } 1 6 ^ { \\prime \\prime } \\mathrm { E } , 3 7 ^ { \\circ } 0 3 ^ { \\prime } 1 7 ^ { \\prime \\prime } \\sim 3 9 ^ { \\circ } 0 5 ^ { \\prime } 5 6 ^ { \\prime \\prime } \\mathrm { N }$ 总面积 $2 . 4 0 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ 。该区以大陆性气候为主，年平均气温 $- 5 . 9 \\mathrm { ~ \\textdegree C }$ ,年降水量在 $3 0 0 { \\sim } 4 0 0 ~ \\mathrm { m m }$ ,太阳辐射强,相对湿度低,蒸发活动强烈[14]。地形以山地为主，海拔介于 $2 2 5 7 \\sim 5 2 3 5 \\mathrm { ~ m }$ 。研究区储水以冰川为主，冰川融水出流形成祁连山水系，主要河流为黑河、大通河等。祁连山为黑河与大通河的源头，年径流量 $2 3 . 2 2 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ,水能资源理论储藏量 $5 6 . 7 7 \\times$ $1 0 ^ { 4 } \\mathrm { k W }$ 。黑河分东西两支，东支为干流，上游分东西两岔，东岔为八宝河,发源于锦羊岭，长 $1 0 0 \\mathrm { k m }$ 。西岔为野牛沟河,发源于祁连山主峰东坡,河长 $1 7 5 \\mathrm { k m }$ 。两支流在祁连县黄藏寺汇合,于莺落峡出山[15]。西支托勒河系黑河一级支流，发源于托勒山南麓，河长 $1 1 0 . 8 \\mathrm { k m }$ 。大通河系黄河水系-湟水的一级支流，发源于天峻县托莱南山[16]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据祁连山南坡地形、地貌和河流分布特征，结合野外调查，于2018年8月13—20日，采集降水、冰川融水、河水和地下水样品共计111组(图1)，其中，雨水样7组，冰川样及冰川融水10组，河水样75组，地下水样19组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降水样品(降水量 $> 2 ~ \\mathrm { m m }$ )以随机采样的方式于自制雨量桶内收集；冰样采集于八一冰川末端表层$( 0 { \\sim } 1 0 ~ \\mathrm { c m } )$ ；冰川融水采集于黑河上游的冰川消融区；河水采自距河岸 $1 \\mathrm { m }$ 、流速较快的河流中部；地下水采集于居民家中的饮用水水井；泉水采集于山前泉眼处。所有样品均利用事先冲洗好的 $6 0 ~ \\mathrm { m L }$ 的聚乙烯采样瓶收集，为防止分馏现象发生，使用Parafilm膜密封；利用手持GPS仪记录采样点的高程及经纬度，同时记录样品编号与水温数据；所采样品均置于 $- 4 ^ { \\circ } \\mathrm { C }$ 的环境中冷藏，直至测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降水、冰川融水、地表水和地下水样品氢氧稳定同位素的测定均在青海省自然地理与环境过程重点实验室进行，所有水样通过 $0 . 2 2 ~ \\mu \\mathrm { m }$ 过滤膜过滤，测定仪器为美国LGR公司生产的IWA-35EP（型号912-0026-0001)水同位素分析仪，测定结果以相对维也纳标准平均海水（VSMOW)的千分差表示[4]，测定精度分别为 $0 . 2 \\% o ( ^ { 1 8 } \\mathrm { O } / ^ { 1 6 } \\mathrm { O } )$ 和 $0 . 5 \\% o ( \\mathrm { { D / H } ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文运用SPSS软件、ArcGIS软件对降水、冰川融水、河水及地下水 $8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 值及氘盈余数据进行统计分析，通过Origin进行图表制作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1大气降水线分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域大气降水线可用于表征区域降水中 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与8D之间的线性关系，其斜率指示大气降水中水体形态变化[17]，反映 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与8D的分馏速率。已有大量基于不同时期和不同采样点的观测研究表明，祁连山地区大气降水线方程均表现出斜率小于8、截距大于10的特征，同时降水同位素关系点明显偏离全球大气降水线且位于其右下方，反映出该地区大气降水普遍受到蒸发作用影响[4-6]。大气降水线是反映当地大气降水规律的统计平均模型，其方程的精确模拟是一个长期且高频率的观测过程[18],但因本文所涉及的降水采样点较少，采样期较短，在综合考虑降水观测时长、观测范围和观测频率等因素的前提下，笔者采用孙从建等[19]提出的祁连山大气降水线 $\\mathrm { L W M L : } \\delta \\mathrm { D } \\mathrm { = } 7 . 7 7 8 ^ { 1 8 } \\mathrm { O } \\mathrm { + } 1 3 . 0 3 \\left( R ^ { 2 } \\mathrm { = } 0 . 9 9 , n \\mathrm { = } 1 2 7 \\right)$ 作为当地大气降水线，并辅以实测降水数据来探讨其同位素组成特征。采样期共收集降水样品7个，在所得到的降水同位素数据中， $8 ^ { 1 8 } 0$ 与8D最大值分别为 $- 4 . 5 1 \\% o$ 和 $- 2 9 . 8 7 \\% o$ ,最小值分别为 $- 9 . 7 6 \\% o$ 和 $- 6 3 . 6 8 \\% o$ ,均值分别为 $- 7 . 4 7 \\% o . - 4 7 . 6 2 \\% o$ ;降水d-excess值介于 $6 . 2 1 \\% o \\sim 1 4 . 8 3 \\% o$ ,均值为 $12 . 1 1 \\text{‰}$ 。由图2可知，降水氢氧稳定同位素关系点大部分位于当地降水线(LWML)与全球降水线(GWML)之间，其降水线斜率( $k { = } 6 . 4 6$ )明显比当地大气降水线斜率小，这表明夏季祁连山南坡水体受到强烈的蒸发分馏作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/38dc4029c1ae557ac6bf4fd9356520982979db7869ae9eae8d37f32516137f78.jpg",
+        "img_caption": [
+            "图1研究区位置及采样点示意图",
+            "Fig.1Location of the study area and distribution of the sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec387d36b9aa8ed4d395cb4fb7a481e871553c50f0153284fc91597026698599.jpg",
+        "img_caption": [
+            "图2降水 $\\delta ^ { 1 8 } \\mathrm { O }$ 与8D的关系及d-excess变化 Fig.2 The correlation of $8 ^ { 1 8 } 0$ and 8D in precipitation and the variation of d-excess "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2冰川融水氢氧稳定同位素特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冰氢氧稳定同位素组成中，冰样的 $\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ 与8D均值分别为 $- 5 . 9 6 \\% o$ 和 $- 4 4 . 8 1 \\% o$ ,d-excess介于 $0 \\sim$ $10 \\text{‰}$ 。由图3可知，冰样的同位素值位于大气降水线的右下方，表明夏季冰面消融强烈，冰面上有径流产生，冰面融水流速快，致使冰的剩余比例越来越小，冰中 $\\delta ^ { 1 8 } \\mathrm { O }$ 越来越富集。这与何元庆等2在分析中国西部不同类型冰川区积雪及其融水径流中稳定同位素比率的变化特征一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在冰川融水的氢氧稳定同位素组成中， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5f9c7b367110cfecc298a03da367fbabf63e7c4e58c757e1ca5dcd98bf3184a.jpg",
+        "img_caption": [
+            "图3冰与冰川融水 $\\delta ^ { 1 8 } \\mathrm { O }$ 与8D的关系及d-excess变化 Fig.3The correlation of $8 ^ { 1 8 } 0$ and δD in ice and glacier meltwater and the variation of d-excess "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8D的最大值分别为 $- 6 . 7 6 \\% o$ 和 $- 4 1 . 1 6 \\% o$ ,最小值分别为 $- 8 . 9 1 \\text{‰}$ 和 $- 5 4 . 6 9 \\% o$ ，均值分别为 $- 7 . 7 0 \\%$ 和$- 4 6 . 9 9 \\% o$ 。冰川融水 $8 ^ { 1 8 } 0$ 与8D值靠近并位于当地大气降水线上，表明冰川融水来源于大气降水。冰川融水d-excess值介于 $1 2 . 9 2 \\% o \\sim 1 6 . 5 9 \\% o$ ,均值为$1 4 . 6 7 \\text{‰}$ 。地处西北干旱半干旱地区的祁连山南坡，因夏季太阳辐射较强，冰川表面消融显著(消融过程中形成深度浅且与空气接触面积较大的表面流），加之该地区蒸发强烈，消融的冰川水在蒸发作用下导致轻同位素逸散到大气中，剩余水体中重同位素则较为富集，同时因较低的空气湿度以及快速的蒸发使得该地区冰川融水氘盈余值较高，其值均位于 $10 \\text{‰}$ 平均线以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3河水氢氧稳定同位素特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "祁连山南坡河水样点主要集中于黑河干流、托勒河和大通河上游区域。氢氧同位素值变化较小，$\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与8D最大值分别为 $- 6 . 8 8 \\% o$ 和 $- 4 2 . 3 6 \\% o$ ,最小值分别为 $- 9 . 9 5 \\% o$ 和 $- 5 6 . 6 7 \\%$ ， $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与8D的均值分别为- $8 . 6 0 \\text{‰}$ 和- $5 0 . 1 5 \\% o$ 。d-excess 值范围为$1 2 . 6 8 \\% o \\sim 2 4 . 7 6 \\% o$ ,均值为 $1 8 . 6 9 \\text{‰}$ 。祁连山南坡3个流域上游氢氧稳定同位素平均值相比，黑河 $<$ 托勒河 $\\mathit { \\Pi } _ { < } ^ { }$ 大通河，黑河与托勒河差距不大，黑河上游区域 ${ \\mathfrak { F } } ^ { 1 8 } \\mathrm { O }$ 与8D均值为 $- 8 . 7 7 \\% o$ ） $- 5 0 . 8 2 \\%$ ,同位素值较贫化。一个河川系统中，有多个支流汇入，每个小流域不同的地理因素会影响这些支流河水中的氢氧同位素组成，从而影响主干流河水中同位素的变化[2],因此，受不同地理要素影响的支流汇入，使得祁连山南坡河流干流氢氧稳定同位素组成存在变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "祁连山南坡黑河干流共采集西岔野牛沟河21组，东岔八宝河26组。其中，东西岔十流样点14组，支流样点33组。干支流河水氢氧稳定同位素组成中，干流 $8 ^ { 1 8 } 0$ 与8D均值分别为 $- 8 . 6 5 \\% o$ 和 $- 5 0 . 2 6 \\%$ ，支流均值分别为 $- 8 . 8 2 \\% o$ 和 $- 5 1 . 0 5 \\% o$ ，显然，干流同位素组成较支流富集。由图4可知，东南部、南部与西北部为河水氢氧同位素高值区，北部为低值区。高值区位于海拔较高山区，低值区主要位于河流下游地区。可能原因在于，祁连山南坡诸多河流最先受到上游高海拔山区冰川融水或降水的补给，二者中稳定同位素值均较为富集（冰川融水 $\\mathbf { 8 ^ { 1 8 } O }$ 平均值为 $- 7 . 7 0 \\% o$ ，降水 $\\mathbb { \\cdot } ^ { 8 ^ { 1 8 } 0 }$ 平均值为 $- 7 . 4 7 \\% o$ )，在自上而下流动过程中，河水与同位素值较为贫化的地下水等水体发生交互作用(地下水 $\\mathbf { 8 ^ { 1 8 } O }$ 平均值为 $- 8 . 8 8 \\% o$ ，致使河水氢氧稳定同位素值减小，形成高海拔地区河水稳定同位素值较高，而低海拔地区稳定同位素较低的现象，进而体现出因不同补给源的作用，导致河水稳定同位素值空间分布上存在差异，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a574c031c208327f2e98662072ff4282c810f4c372d9051631e8f76bb3dabd30.jpg",
+        "img_caption": [
+            "Fig.4Distribution of $\\delta ^ { 1 8 } \\mathrm { O }$ value (a) and SD value (b) of river water in the upper reaches of the Heihe River "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4地下水氢氧稳定同位素特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地下水氢氧同位素组成中， $\\mathbf { 8 ^ { 1 8 } O }$ 与8D最大值分别为 $- 6 . 7 5 \\% o$ 和 $- 4 0 . 3 6 \\%$ ，最小值分别为 $- 9 . 6 1 \\% o$ 和$- 5 7 . 8 2 \\% o$ $\\mathfrak { \\delta } ^ { 1 8 } \\mathrm { O }$ 与8D的均值分别为- $- 8 . 8 8 \\% o$ 和 $- 5 0 . 8 7 \\% o$ 。由图5可以看出，地下水氢氧同位素值靠近当地大气水线，位于其左上方，表明地下水受到降水补给。氢氧同位素组成中，温泉水 $\\angle$ 泉水<井水，且井水的氢氧同位素组成差异较大。温泉水呈现出“8D值的贫化”，这可能是降水向地壳下渗和迁移时，经深循环与地下围岩发生同位素交换，此外，地热增温效应也可能致使同位素分馏效应增强[22]。而泉水出露地表，易于受到蒸发分馏的影响，表现出水体贫化现象。井水滞留于地下，外界环境影响不大，但会因人为原因或地下水氢氧同位素高程效应造成井水氢氧同位素差异。地下水d-excess值介于$10 \\% o \\sim 2 5 \\% o$ ,平均值为 $1 9 . 1 2 \\% o$ 。西北干旱区降水主要集中在夏秋季节，水汽再循环作用较明显，土壤、植被及河流等蒸发参与水循环过程，致使地下水的再循环特征明显，地下水d-excess值偏高。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7802148e31ef4b1d8d736f956888c42d4b3528d7997cad0c0bb92958e66ef8d2.jpg",
+        "img_caption": [
+            "图4黑河上游河水 $\\delta ^ { \\scriptscriptstyle 1 8 } \\mathrm { O }$ 值(a)和8D值(b)空间分布",
+            "图5地下水 $\\delta ^ { \\mathrm { 1 8 } } \\mathrm { O }$ 与8D的关系及d-excess变化 Fig.5The correlation of $8 ^ { 1 8 } 0$ and δD in groundwater and the variation of d-excess "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1不同水体氢氧稳定同位素特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "祁连山南坡所有水体的稳定同位素组成中， $\\mathfrak { \\delta } ^ { 1 8 } \\mathrm { O }$ 值介于 $- 4 . 5 1 \\% o \\mathrm { ~ \\sim ~ } - 9 . 9 5 \\%$ 之间，变化幅度为$5 . 4 4 \\text{‰}$ ,平均值为 $- 8 . 5 1 \\% o$ ，标准差为0.85；8D值介于 $- 2 9 . 8 7 \\% o \\sim - 6 3 . 6 8 \\% o$ 之间，变化幅度为 $3 3 . 8 1 \\text{‰}$ ，平均值为 $- 4 9 . 8 8 \\%$ ，标准差为4.48。与上文提到的降水稳定同位素取值范围一致，由此可知，降水的稳定同位素值波动范围大于河水、地下水及冰川融水。d-excess值取值范围为 $6 . 2 1 \\% o \\sim 2 4 . 7 6 \\% o$ ,变幅较小为18.55，平均值为 $1 8 . 2 2 \\% o$ ,表明祁连山夏季不同水体的 $8 ^ { 1 8 } 0$ 与8D值、d-excess值均较高。局地蒸发水汽参与水分循环是氘盈余偏大的一个重要因素[23],祁连山对流性降水较充沛，山区局地水循环对区域降水贡献率较大[24],表明局地蒸发水汽参与祁连山南坡水循环过程导致水汽分馏效应明显，氘盈余偏大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，不同水体氢氧同位素富集程度比较中，冰川融水的 $8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 值高于河水与地下水，且d-excess值低于河水和地下水，河水与地下水的8D和d-excess取值存在交叉。单因素方差分析显示，冰川融水、河水、地下水的 $\\mathbf { \\delta } ^ { 1 8 } \\mathbf { 0 } \\mathbf { , 8 D }$ 值均通过方差齐性检验，且水体之间存在显著差异 $\\stackrel { \\prime } { P } < 0 . 0 5 , F = 9 . 5 6 2$ 和3.872)，而Duncan法两两比较显示，河水与地下水的氢氧同位素值无明显差异，河水与地下水的$\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 值范围分别为 $- 9 . 9 5 \\% o \\sim - 6 . 8 8 \\% o$ 和 $- 9 . 6 1 \\% o \\sim$ $- 6 . 7 5 \\% o$ ，均值分别为 $- 8 . 6 0 \\% o$ 和 $- 8 . 8 8 \\% o$ ，相关性较明显，水力联系较强，具有密切的补排关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/72033e00e829de97f71f03822f2e02a6aed0a57f5580cddf7a4c74248cfd5df8.jpg",
+        "table_caption": [
+            "表1祁连山南坡水体稳定氢氧同位素比值及d-excess值",
+            "Tab.1Hydrogen and oxygen isotope ratio of water body in the southern slope of Qilian Mountains "
+        ],
+        "table_footnote": [
+            "注：字母表示Duncan法比较结果,字母相同表示两种水体无显著差异,字母不同表示两种水体差异显著( $\\cdot P < 0 . 0 5 ,$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类型</td><td colspan=\"2\">8180/%0</td><td colspan=\"2\">8D/%0</td><td colspan=\"2\">d-excess/%0</td></tr><tr><td>平均值±标准差</td><td>取值范围</td><td>平均值±标准差</td><td>取值范围</td><td>平均值±标准差</td><td>取值范围</td></tr><tr><td>冰川融水</td><td>-7.70±0.69A</td><td>-8.91~ -6.76</td><td>-46.99±4.41A</td><td>-54.69~ -41.16</td><td>14.61±1.31</td><td>12.92~16.59</td></tr><tr><td>河水</td><td>-8.60±0.62B</td><td>-9.95~ -6.88</td><td>-50.15±3.08B</td><td>-56.67~ -42.36</td><td>18.69±2.58</td><td>12.68~ 24.76</td></tr><tr><td>地下水</td><td>-8.88±0.73B</td><td>-9.61~-6.75</td><td>-50.87±4.03B</td><td>-57.82~ -40.36</td><td>20.13±2.97</td><td>13.61~24.18</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2蒸发线特征分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受环境以及气候条件影响，不同地区水体蒸发程度存在差异，导致水体蒸发线也不尽相同[25]。根据祁连山南坡冰川融水、河水、地下水水体的 ${ \\mathfrak { F } } ^ { 1 8 } \\mathrm { O }$ ）8D值拟合蒸发趋势线： $y = 4 . 4 9 1 x - 1 1 . 4 7 4 ( n = 1 0 2 , R ^ { 2 } =$ 0.81)。同时，对3种水体氢氧同位素组成分别进行拟合，得出蒸发趋势线方程分别为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冰川融水： $; y = 6 . 3 3 1 x + 1 . 7 5 6 ( n = 8 , R ^ { 2 } = 0 . 9 8 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "河水： $y = 4 . 4 6 7 x - 1 1 . 7 1 6 \\left( n { = } 7 5 , R ^ { 2 } { = } 0 . 8 0 \\right)$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地下水： $\\scriptstyle : y = 4 . 8 8 9 x - 7 . 4 8 1 ( n = 1 9 , R ^ { 2 } = 0 . 7 6 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，研究区所有水体氢氧同位素值之间具有较好线性关系。冰川融水、河水、地下水及水体蒸发趋势线的斜率和截距均明显小于地方大气降水线斜率8与截距10,这是因为祁连山南坡地区海拔高，太阳辐射强烈，导致森林、灌丛与草地的蒸发强烈，局地水汽再循环对同位素演化影响较大,致使水体 $8 ^ { 1 8 } 0$ 和8D值大多偏离大气降水线，而河水与地下水偏离程度大于冰川融水，表明冰川融水直接受到当地大气降水补给，而河水与地下水还有其他的补给源。通过比较不同水体蒸发线斜率，可知河水蒸发强度最大，这是因为祁连山为河流发源地，河流流程长，作为开放性水体，蒸发作用相对较强烈。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/254d871d73e25253f83f52d4ec6a0ad16ad0f24b57cd447f72709decb8f74450.jpg",
+        "img_caption": [
+            "图6不同水体 ${ \\cdot 8 ^ { 1 8 } } \\mathrm { O }$ 与8D的关系及蒸发趋势线 Fig.6Relationship between $8 ^ { 1 8 } 0$ and SD in different water bodies and evaporation trend line "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3水体氢氧同位素组成的环境效应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水体中 $\\mathbf { \\delta } ^ { 8 } \\mathbf { \\mathrm { ~ ‰ ~ } }$ 与8D值因海拔、温度和离海洋距离等地理和环境因子的差异会表现出不同的分布特征[26],即氢氧稳定同位素的环境效应。因此，可以通过分析4种水体 $\\cdot 8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 值与海拔、水温、经纬度之间相关性，明确祁连山南坡各水体的高程效应、大陆效应、纬度效应与温度效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，冰川融水、河水与地下水的高程效应、大陆效应、纬度效应和温度效应均不显著，表明冰川融水、河水与地下水水分来源较复杂，研究区内部水汽再循环活动也较频繁",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/66f192528ec5e7fbe8bf5d67e18cdb63aafdf4a8813538865b5c64c6758be34a.jpg",
+        "table_caption": [
+            "表2不同水体稳定同位素与经度、纬度、海拔和温度的相关性",
+            "Tab.2Relationship between hydrogen and oxygen isotope of different water bodies and longitude, latitude,altitudeandtemperature "
+        ],
+        "table_footnote": [
+            "注：\\*表示线性相关性达到显著水平( $\\cdot P < 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">降水</td><td colspan=\"2\">冰川融水</td><td colspan=\"2\">河水</td><td colspan=\"2\">地下水</td></tr><tr><td>8180</td><td>8D</td><td>8180</td><td>8D</td><td>8180</td><td>8D</td><td>8180</td><td>8D</td></tr><tr><td>经度</td><td>0.752</td><td>0.738</td><td>-0.287</td><td>-0.442</td><td>0.179</td><td>0.318</td><td>-0.017</td><td>0.276</td></tr><tr><td>纬度</td><td>-0.782*</td><td>-0.762*</td><td>0.695</td><td>0.648</td><td>-0.215</td><td>-0.330</td><td>-0.006</td><td>-0.294</td></tr><tr><td>海拔</td><td>-0.859*</td><td>-0.885*</td><td>0.618</td><td>0.606</td><td>0.021</td><td>-0.179</td><td>0.209</td><td>-0.195</td></tr><tr><td>温度</td><td>二</td><td></td><td>-0.059</td><td>-0.118</td><td>0.266</td><td>0.198</td><td>-0.332</td><td>-0.619</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "降水的 $8 ^ { 1 8 } \\mathrm { O } , 8 \\mathrm { D }$ 值与海拔、纬度之间存在显著负相关关系，即降水 $8 ^ { 1 8 } 0$ 值与海拔、纬度之间的一元线性回归方程为 $y = - 0 . 0 0 4 x + 4 . 4 4 \\left( R ^ { 2 } = 0 . 7 4 \\right) , y = - 0 . 2 2 0 +$ 36.56( $R ^ { 2 } { = } 0 . 6 1 \\$ )，降水8D值与海拔、纬度之间的一元线性回归方程为 $y = - \\ 0 . 0 0 3 x + 3 2 . 4 2$ （ $R ^ { 2 } { = } 0 . 7 8$ 、$y = - 0 . 0 3 3 x + 3 6 . 6 3$ （ $R ^ { 2 } { = } 0 . 5 8 )$ 。而降水与海拔、纬度、经度相关性均较高，表明降水氢氧稳定同位素具有高程效应、纬度效应和大陆效应。高程效应意指海拔越高温度越低，同位素越贫化，一般情况下，温度效应主要出现在中、高纬度地区，但在大陆内部，其正相关关系显著[27],这表明祁连山南坡高程效应与大气温度密切相关。祁连山南坡纬度效应可能归因于温度随纬度升高而降低，越向高纬，降水总量越少的现象，同时受研究区夏季强烈内循环作用影响，使得降水氢氧稳定同位素值偏负。此外，研究区为东南-西北走向，东南部距海较近，最先受到来自西太平洋及印度洋暖湿水汽的影响，同位素值较高，这是降水稳定同位素大陆效应的原因所在。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，通过分析不同水体稳定同位素值与各环境因子间的相关性，不难看出，降水氢氧稳定同位素值受海拔、纬度和经度影响均较大，其中海拔是影响其同位素值大小的主要因素；冰川融水与纬度、海拔的相关性较高，二者是影响其同位素值大小的主要因素，而温度对其影响最小;河水氢氧稳定同位素值与各单一环境因子之间的相关性均较小，可能原因在于河水补给源较多，同位素组成较为复杂，影响其稳定同位素值大小的因素往往会是多种环境因子的综合体现，而不是某种单一环境因子的贡献；同河水类似，地下水补给来源多样，其稳定同位素值的大小也受多种环境因子的影响，体现其补给多样性以及综合性，而这也将作为后续研究继续深入探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）不同水体的氢氧稳定同位素组成具有不同的特征：祁连山南坡夏季水体受到强烈的蒸发分馏作用；与冰川融水相比，冰的氢氧同位素组成最富集，但来源均为大气降水；河水氢氧同位素均值对比：黑河 $\\angle$ 托勒河 $\\angle$ 大通河，不同水源的补给是黑河河水稳定同位素值产生空间差异的主要原因；地下水氢氧同位素组成中，温泉水 $\\angle$ 泉水<井水，且井水的氢氧同位素组成差异较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）祁连山南坡水体的稳定同位素组成中， ${ \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 与8D值偏正，d-excess值偏大，降水的稳定同位素值波动范围较其他水体偏大。冰川融水、河水、地下水的氢氧稳定同位素富集程度存在显著差异，Dun-can法两两比较显示，河水与地下水的稳定同位素值无明显差异，且取值范围接近，相关性较明显，水力联系较强",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）研究区冰川融水的蒸发线方程为 $y =$ $6 . 3 3 1 x + 1 . 7 5 6 \\left( n { = } 8 , R ^ { 2 } { = } 0 . 9 8 \\right)$ ，河水的蒸发线方程为$y = 4 . 4 6 7 x - 1 1 . 7 1 6 \\left( n { = } 7 5 , R ^ { 2 } { = } 0 . 8 0 \\right)$ ），地下水的蒸发线方程为 $y = 4 . 8 8 9 x - 7 . 4 8 1 \\left( n { = } 1 9 , R ^ { 2 } { = } 0 . 7 6 \\right)$ ，所有水体氢氧同位素值之间具有较好的线性关系，水体 $\\mathbf { \\delta } ^ { 8 } \\mathbf { ^ { 1 8 } } \\mathbf { O }$ 和8D值大，多偏离大气降水线，河水与地下水偏离程度大于冰川融水，补给源较复杂。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）冰川融水、河水与地下水氢氧稳定同位素的环境效应均不显著，而降水则具有较明显的高程效应、纬度效应和大陆效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Hoekstra,Arjen Y.Water scarity challenges to business[J].Nature Climate Change,2014,4(5): 318-320. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]丁永建,张世强.西北内陆河山区流域内循环过程与机理研究: 现状与挑战[J].地球科学进展,2018,33(7):719-727.[Ding Yongjian, Zhang Shiqiang. Study on water internal recycle process and mechanism in typical mountain areas of inland basins,Northwest China: Progress and challenge[J].Advances in Earth Science, 2018,33(7): 719-727.]   \n[3]王亚俊,宋献方,马英,等.北京东南郊再生水灌区不同水体氢 氧同位素特征及成因[J].地理研究,2017,36(2):361-372. [Wang Yajun,Song Xianfang,Ma Ying,et al. Characterizing the hydrogen and oxygen isotopic compositions of different waters at reclaimed water irigatedistrictisoutheastsuburbofBeijing[J]. Geographical Research, 2017,36(2): 361-372.]   \n[4]Li Zongxing,Gui Juan,Wang Xufeng,et al. Water resources in inland regions of Central Asia: Evidence from stable isotope tracing [J]. Journal of Hydrology,2019,570: 1-16.   \n[5]Qiu Xue,Zhang Mingjun,Wang Shengjie,et al. The test of the ecohydrological separation hypothesis in a dry zone of the northeastern Tibetan Plateau[J]. Ecohydrology,2019,12: e2077.https: // doi.org/10.1002/eco.2077.   \n[6]Li Zongjie,Li Zongxing,Yu Haichao,etal.Environmental signifcance and zonal characteristics of stable isotope of atmospheric precipitation in arid Central Asia[J]. Atmospheric Research,2019, 227: 24-40.   \n[7]张应华,件彦卿.黑河流域中上游地区降水 $\\mathbb { \\cdot } ^ { 8 ^ { 1 8 } 0 }$ 变化特征[J].冰 川冻土，2007,29(3): 440-445.[ZhangYinghua,Wu Yanqing. Characteristics of the $\\mathrm { 8 ^ { 1 8 } O }$ inprecipitation in the upper and middle reaches of Heihe River[J]. Journal of Glaciology and Geocryology, 2007,29(3): 440-445.]   \n[8]张应华,忤彦卿.黑河流域中上游地区降水中氢氧同位素研究 [J].冰川冻土,2009,31(1): 34-39.[Zhang Yinghua,Wu Yanqing. Oxygen and hydrogen isotopes of precipitation in the upper and middle reaches of Heihe River Basin[J]. Journal of Glaciology and Geocryology,2009,31(1): 34-39.]   \n[9]赵良菊,尹力,肖洪浪,等.黑河源区水汽来源及地表径流组成 的稳定同位素证据[J].科学通报,2011,56(1):58-70.[Zhao Liangju,Yin Li, Xiao Honglang,et al. Isotopic evidence for the water vapor sources and composition of surface runoffin the head waters of the Heihe River Basin[J]. Chinese Science Bulltin,2011, 56(1): 58-70.]   \n[10] Zhang Yinghua, Song Xianfang,Wu Yiqin. Use of oxygen-18 isotope to quantify flows in the upriver and middle reaches of the Heihe River,Northwestern China[J]. Environmental Geology,2009,58 (3): 645-653.   \n[11] 潘钊,孙自永,马瑞,等.黑河上游高寒山区降雨-径流形成过 程的同位素示踪[J].地球科学,2018,43(11):4226-4236.[Pan Zhao,Sun Ziyong,Ma Rui,etal.Isotopic investigationofrainfallrunoff generation in analpine catchment in head water regions of Heihe River,Northeast Qinghai- Tibet Plateau[J].Earth Science, 2018, 43(11): 4226-4236.]   \n[12]阮云峰,赵良菊,肖洪浪,等.黑河流域地下水同位素年龄及可 更新能力研究[J].冰川冻土,2015,37(3):767-782.[Ruan Yunfeng,Zhao Liangju, Xiao Honglang,et al. The groundwater in the Heihe River Basin: Isotope and renew ability[J].Journal of Glaciology and Geocryology,2015,37(3): 767-782.]   \n[13] 武小波,李全莲,贺建桥,等.黑河上游夏半年河水化学组成及 年内过程[J].中国沙漠,2008,28(6):1190-1196.[Wu Xiaobo,Li Quanlian,He Jianqiao,et al. Hydrochemical characteristics and inner-year process of upper Heihe River in summer half year[J]. Journal of Desert Research,2008,28(6): 1190-1196.]   \n[14] 袁杰,曹生奎,曹广超,等.祁连山南坡不同植被类型土壤粒度 特征[J].水土保持通报,2019,39(2):76-82.[Yuan Jie,Cao Shengkui, Cao Guangchao,et al. Soil particle size characteristics under different vegetation types on southern slop of Qilian Mountains[J]. Bulltin of Soil and Water Conservation,2019,39(2): 76- 82.]   \n[15] 连运涛,王昱,郑健,等.黑河流域上游水沙输移趋势及其成因 分析[J].干旱区资源与环境,2019,33(3):98-104.[Lian Yuntao, Wang Yu,Zheng Jian,et al. The trend of runoff and sediment transport in the upper reaches of Heihe Basin and its cause analysis[J]. Journal of Arid Land Resources and Environment,2019,33 (3): 98-104.]   \n[16] 彭敏,曹广民,叶润蓉,等.青海祁连山地区生态环境与小流域 综合生态治理[M].北京:中国林业出版社,2017:32-34.[Peng Min,Cao Guangmin,YeRunrong,et al.ComprehensiveEcological Treatment of Small Watershed and Ecological Environment in Qilian Mountains of Qinghai Province[M].Beijing: China Forestry Publishing House,2017: 32-34.]   \n[17] 李文宝,李畅游,贾德彬,等.内蒙古中部夏季大气降水中同位 素变化[J].干旱区研究,2017,34(6): 1214-1221.[Li Wenbao,Li Changyou,Jia Debin,et al. Change of stable isotopes in summer precipitation in central Inner Mongolia[J].Arid Zone Research, 2017, 34(6): 1214-1221.]   \n[18] Smith D B.Statistical treatment of data on environmental isotopes inprecipitation:Technical reportseriesno.331,International Atomic Energy Agency (IAEA)[J]. Journal of Hydrology，1993, 146: 454-455.   \n[19] 孙从建,张子宇,陈伟,等.亚洲中部高山降水稳定同位素空间 分布特征[J].干旱区研究,2019,36(1):22-31.[Sun Congjian, Zhang Ziyu, Chen Wei,et al. Spatial distribution of precipitation stable isotopes in the alpine Zones in Central Asia[J].Arid Zone Research,2019,36(1): 22-31.]   \n[20] 何元庆,庞洪喜,卢爱刚,等.中国西部不同类型冰川区积雪及 其融水径流中稳定同位素比率的时空变化及其气候效应[J] 冰川冻土,2006,28(1): 22-28.[He Yuanqing,Pang Hongxi, Lu Aigang,et al. Spatial and temporal variation of the stable isotopes in snowpacks and glacial runoff in different types of glacier areas in Wester China and itsclimatic effects[J]. Journal of Glaciology and Geocryology,2006,28(1): 22-28.]   \n[21]吴华武,李小雁,赵国琴，等.青海湖流域降水和河水中 ${ \\mathfrak { d } } ^ { 1 8 } \\mathrm { O }$ 和 8D变化特征[J].自然资源学报,2014,29(9):1552-1564.[Wu Huawu,Li Xiaoyan, Zhao Guoqin,et al. The variation characteristics of $\\mathbf { \\delta } ^ { 1 8 } \\mathbf { 0 }$ and SD in precipitation and river water,Qinghai Lake Basin[J]. Journal of Natural Resources,2014,29(9): 1552-1564.]   \n[22]王基华,林元武,刘成龙,等.张家口南部地区温泉形成的氢氧 稳定同位素及气体组成证据[J].水文地质工程地质,2000(4): 30-33.[Wang Jihua,Lin Yuanwu,Liu Chenglong,etal.Evidence for the formation of hydrogen and oxygen stable isotopes and dissolved gas components of the hot spring water in the southern area of Zhangjiakou[J].Hydrogeology and Engineering Geology,2000 (4): 30-33.]   \n[23]Hughes CE,Crawford J.Spatial and temporal variation in precipitation isotopes in the Sydney Basin,Australia[J]. Journal of Hydrology,2013,489:42-55.   \n[24] 张应华,件彦卿.黑河流域大气降水水汽来源分析[J].干旱区地 理,2008,31(3): 403-408.[Zhang Yinghua,Wu Yanqing.Precipi tation from different water vapor sources in Heihe River Basin, China[J].Arid Land Geography,2008,31(3): 403-408.]   \n[25]余秀秀,张明军,王圣杰,等.基于LMDZ模型的西北干旱区水 汽再循环率分析[J].干旱区研究,2019,36(1):29-43.[Yu Xiux iu, Zhang Mingjun,Wang Shengjie,et al. Contribution of moisture recycling to precipitation in the arid region in Northwest China based on LMDZ model[J].Arid Zone Research,2019,36(1): 29-43.]   \n[26]Li Zongxing,Feng Qi, Yong Song,et al. Stable isotope composition of precipitation in the south and north slopes of Wushaoling Mountain,Northwestern China[J].Atmospheric Research,2O16,182: 87-101.   \n[27]侯典炯,秦翔,吴锦奎,等.乌鲁木齐大气降水稳定同位素与水 汽来源关系研究[J].干旱区资源与环境,2011,25(10):136- 142.[Hou Dianjiong,Qin Xiang,Wu Jinkui,et al.Characteristics of stable isotopesin precipitation and the water vapor sources in Urumqi[J]. Journal of Arid Land Resources and Environment, 2011,25(10): 136-142.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hydrogen and oxygen isotope characteristics of water bodies on the southern slope of the Qilian Mountains ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIU Fang1²， CAO Guang-chaol²， CAO Sheng-kui1²， ZHANG Zhuo'²， YANG Yu-fan (1.School of Geographical Sciences & Qinghai Provincial Key Laboratory of Physical Geography and   \nEnvironmental Processes,Qinghai Normal University, Xining 81008,Qinghai,China;2.MOK Key Laboratory of Tibetan Plateau Land Surface Processes and Ecological Conservation, Xining 81o08,Qinghai, China; 3.SchoolofGeography and Tourism,Shaanxi Normal University,Xian 710119,Shaanxi,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Hydrogen-oxygen stable isotopecomposition of water is an important indicator for characterizing water migration and transformation processes and can providea basis for studying regional hydrological cycle processes. On the basis of the stable isotope technique,this paper analyzes the hydrogen and oxygen isotope composition and influencing factors of diferent water bodieson the southern slope of the Qilian Mountains.The results are as follows.(1)Hydrogen and oxygen stable isotope characteristics of diferent water bodies on the southern slope of the Qilian Mountains are diffrent,the fluctuation range of stable isotope values of precipitation is larger than river water,groundwater and glacier meltwater.(2)The relationship between the stable isotope of river water and groundwater is close,and the hydraulic connections are strong.(3） The evaporation line equation of glacier meltwater in the study area is $y = 6 . 3 3 1 x + 1 . 7 5 6$ 0 $n$ =8, $R ^ { 2 }$ :0.98),and the evaporation line equation of river water is $y =$ 4.467x-11.716( $n { = } 7 5$ $R ^ { 2 } { = } 0 . 8 0$ ). The evaporation line equation of groundwater is y=4.889x-7.481(n=19, $R ^ { 2 }$ 0.76). There is a good linear relationship between the hydrogen and oxygen isotope values of water.The values of $\\ S ^ { 1 8 } \\mathrm { O }$ and SD in water mostly deviate from the atmospheric precipitation line.The deviation degree ofriver water and groundwater is greater than that of glacier meltwater,and the source of supply is more complicated.(4) The environmental efects of hydrogenand oxygen stable isotopes of glacier meltwater,river water,and groundwaterare not significant, whereas precipitation has obvious elevation,latitude,and continental effects. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: water body； hydrogen-oxygen stable isotope; influencing factors; southern slope of Qilian Mountains ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,140 @@
+# Computational Study on the Influence of Number of Threads on the Performance of Single Screw Pump at High Angular Velocities
+
+Jaison Philip1, Abhilash Suryan1, T.V Sanand², P Unnikrishnan Nair² and S. Sivakumar3
+
+1. Department of Mechanical Engineering, College of Engineering Trivandrum, Kerala, India 695016   
+2. Turbo Pump Division, LPSC, Valiamala, Trivandrum, Kerala.   
+3.DepartmentofMechanicalEnginering,Rajadhani Institute Engineering &Technology,Trivandrum,Kerala,India
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017
+
+Fluid flow in a screw pump which rotates at very high angular velocity is numericall analyzed.In the present study, fluid flow in screw pumps under high Reynolds number,of the order of $1 0 ^ { 5 }$ , is considered. Screw pump has two major elements,a plain shroud which is a stationary element and a rotating hub with helical grooves contained within the shroud. In this paper, three variants of hubs with different number of thread starts numbering six, eight and twelve in combination with a plain shroud is studied.Each of the three possble combinations are analyzed on the basis of pressure rise developed,eficiencyand shaft power.It was seen that pressure rise,efficiency and shaft power increases as the number of threads increases in the range of mass flow rates studied.
+
+# Keywords: Screw pump,Turbulent flow,Angular velocity
+
+# Introduction
+
+Screw pump is a typical axial flow rotary pump. It works on the basic principle of the turning of the screw (hub） to convey a volume of fluid through its helical channels by imparting tangential velocities to it which in turn increases the kinetic energy of the fluid.This kinetic energy is converted to pressure energy at outlet.
+
+Invention of screw pump is credited to Archimedes who lived around third century BC.Since then it has become popular for many common applications such as pumping water for irrigation purposes.Presently, screw pumps are mainly used in the field of extrusion industry, petrochemical engineering,machinery and agriculture for single-phase liquid transportation， solid-liquid mixed transportation and gas-liquid mixed transportation. Different types of screw pump such as; twin spindle screw pumps,three spindle screw pumps and labyrinth screw pumps have been modeled and studied over the years.
+
+Numerous studies have been conducted on the design, working and performance of screw pumps. Campbell et al [1] studied the drag flow in the screw pump at low $\mathbf { r } / \mathrm { m i n }$ experimentally by rotating the barrel and screw separately They proposed an expression connecting the flowrate, rotational velocity and a constant based on the screw helix geometry. Li and Hsieh [2] developed an analytical model for a screw pump which pumps highly viscous fluids and provided a more detailed prediction. The main assumption was that all inertial terms can be neglected since they are inconsequential compared to the viscous terms.Alves etal[3] further developed this analytical model by studying the flow inside the screw pump witha low viscous fluid.They used this analytical model to predict the flow for a screw pump supplying oil into reciprocating compressors [4].
+
+Recently numerous studies have been conducted on labyrinth screw pumps.In 2O1O a CFD analysis on triangular threaded labyrinth screw pumps was done by Ma and Wang [5] explaining how the screw pump behaves under varying diametric clearances.They concluded that fitting clearances have no effect on drag on the rotor hence have no effect on the pump.Based on Prandtl's mixing length theory, they also developed a mathematical model for modelling two-dimensional Reynolds stress equations for screw pump applications [6].
+
+<html><body><table><tr><td colspan="4">Nomenclature</td></tr><tr><td>De</td><td>Hydraulic diameter of the screw channel (m)</td><td>W</td><td>Velocity in z direction (m/s)</td></tr><tr><td>h</td><td>Height of the screw thread (m)</td><td>W</td><td>Cross sectional base width of the screw thread</td></tr><tr><td>P</td><td>Pressure (Pa)</td><td colspan="2">Greek letters</td></tr><tr><td>r</td><td>Average radius of the fluid domain (m) pxVavg×De</td><td>β,β*</td><td>Turbulence model constants</td></tr><tr><td>Re</td><td>Reynolds number, 从</td><td></td><td>Turbulence dissipation rate</td></tr><tr><td>u</td><td>Velocity in x direction (m/s)</td><td></td><td>Dynamic viscosity of the simulating fluid (kg/m-s)</td></tr><tr><td>V</td><td>Velocity in y direction (m/s)</td><td>p</td><td>Density of the simulating fluid (kg/m³)</td></tr><tr><td>Vavg</td><td>Average velocityof the luid in the</td><td>0</td><td>Turbulence model constants</td></tr><tr><td>k</td><td>Turbulent kinetic energy</td><td></td><td>Specific dissipation rate</td></tr><tr><td></td><td>Velocity Vector</td><td></td><td></td></tr></table></body></html>
+
+In this study, turbulent interaction between the fluid in the screw grooves and the fluid in the sleeve grooves which increases the pump head was analyzed.Flow in the screw pump with different shapes of grooves was analyzed and a constant to characterize the pump total head was developed. They found that increasing the number of threads increases the head coefficient and increasing the aspect ratio decreases the head coefficient. But in most of all these studies,the angular velocity of the pump was low, less than $3 0 0 0 ~ \mathrm { r / m i n }$ .The results are validated only for laminar flow conditions.Therefore,a newmodel is required to analyze the flow under highly turbulent conditions.
+
+Numerical analysis of fluid flow in a screw pump rotating at very high angular velocity is carried out in the present studyusing ANSYS CFX solver. The effect of increasing the number of blades for a screw pump with threaded hub and a plain shroud is studied.Turbulence modelling was done using SST $k$ -ω model [7]. The screw pump is modelled as two parts,a hub,rotor with helical channels,anda shroud,stator,which covers the hub so as to contain the flow driven by the hub.Based on the pressure developed, efficiency and shaft power three different combinations of hub and shroud are analyzed over a range of flow rates at constant speed. Water at $2 5 ^ { \circ } \mathrm { C }$ is used as the simulating fluid.Trapezoidal threads are used in this study.Three sets each of hub are selected with the same shroud and a total of three combinations are obtained. The shroud selected is plain and contains no internal thread grooves. Three sets of hubs with six,eight, twelve thread starts(TS) are selected.
+
+Allthe threadsarelefthandedthreadswithaleadof
+
+$7 2 \mathrm { m m }$ .In all these cases the thread shape is kept constant witha height of $2 \mathrm { m m }$ and cross sectional base width of $2 . 5 \mathrm { m m }$ .Included angle of the thread is taken as $3 0 ^ { \circ }$ Cross sectional view of the thread is illustrated in Fig.1. Diameter of hub shaft is $6 9 \mathrm { m m }$ with threads on top of it which will result in a hub outer diameter of $7 3 \mathrm { m m }$ Internal diameter of the shroud is taken as $7 3 \mathrm { m m }$ as no diametrical clearance is modeled. Total axial length of the pump is $3 4 \mathrm { m m }$
+
+![](images/f35295a05816eac303e6365a9f91b88ab026540a2c01df4784e8fe1cbba62592.jpg)  
+Fig.1 Cross sectional view of screw thread
+
+# CFD Modelling
+
+Fluid domain of the pump was modified as per the above geometry. Buffer zones are provided at the inlet and outlet to capture entry and exit phenomena.
+
+Because of the complexity of the geometry, unstructured tetrahedral elements are used to mesh the groove of the hub and shroud with number of prism layers not less than30.Local $\mathrm { y + }$ on the walls of hub and shroud is less than 2 for SST k-@ turbulence model. The resulting grid size was 8 million elements to 10 million elements depending on the geometry.
+
+Inlet pressure is specified at the inlet boundary and with medium turbulence intensity $( 5 \% )$ . Mass flow rate is specified at the outlet. The screws of the hub is maintained as a rotating wall and the shroud wall is maintained as stationary wall. Screw is rotated about the Z-axis at a constant rotating speed of $1 9 0 0 0 \mathrm { r / m i n }$ in such away that it pushes the fluid in the positive Zaxis direction.Working fluid is water with constant properties.
+
+The model selected is the moving reference frame (MRF） model and the continuity and momentum equations are discretized by the higher order discretization and solved by the pressure velocity coupled algorithm in CFX. Since the fluid flow in screw pump is turbulent with high Reynolds number, of the order of $1 0 ^ { 5 }$ ，SSTk-ω turbulence model is selected since it can capture the flow under adverse pressure gradients and has given better results for similar problems [5] in literature.The hydraulic power of the screw pump is calculated as the product of the torque on the hub and the angular velocity of the screw in rad/s.
+
+![](images/af31f8e787e41ea8a8ffc1b21107b8e72cf9862f7aca79e4bcd54b76d8a8ee21.jpg)  
+Fig.2Cut section of 6 TS hub pump
+
+# Governing Equations
+
+Governing equations used in present study[7] are: Continuity equation:
+
+$$
+\frac { \partial u } { \partial x } + \frac { \partial \nu } { \partial y } + \frac { \partial w } { \partial z } = 0
+$$
+
+Momentum equations:
+
+$$
+\begin{array} { r l } & { \rho \bigg [ u \frac { \partial u } { \partial x } + \nu \frac { \partial u } { \partial y } + \nu \frac { \partial u } { \partial z } \bigg ] = - \frac { \partial u } { \partial x } - \frac { \partial u } { \partial x } \bigg [ u \bigg ( \frac { 2 } { \partial x } \frac { \partial u } { \partial x } - \frac { 2 } { 3 } \nabla \cdot \overline { { x } } ) \bigg ] } \\ & { \qquad + \frac { \partial } { \partial x } \bigg [ \rho \bigg ( \frac { \partial u } { \partial x } + \frac { \partial u } { \partial y } \bigg ) \bigg ] } \\ & { \qquad \quad + \frac { \partial } { \partial z } \bigg [ \rho \bigg ( \frac { \partial u } { \partial x } + \frac { \partial u } { \partial y } \bigg ) \bigg ] } \\ & { \qquad \quad + \frac { \partial } { \partial z } \bigg [ u \bigg ( \frac { \partial w } { \partial x } + \frac { \partial u } { \partial z } \bigg ) \bigg ] } \\ & { \qquad \quad \partial \bigg ( \mu \frac { \partial w } { \partial x } + \nu \frac { \partial w } { \partial y } + \nu \frac { \partial w } { \partial z } \bigg ] - \frac { \partial p } { \partial y } + \frac { \partial } { \partial z } \bigg [ \mu \bigg ( \frac { \partial u } { \partial x } - \frac { \partial u } { \partial y } \bigg ) \bigg ] } \\ & { \qquad \quad + \mu \frac { \partial } { \partial y } \bigg ( \rho \bigg ( 2 \frac { \partial w } { \partial y } - \frac { 2 } { 3 } \nabla \cdot \overline { { x } } ) \bigg ) \bigg ] } \\ & { \qquad \quad + \frac { \partial } { \partial z } \bigg [ \rho \bigg ( \frac { \partial w } { \partial y } + \frac { \partial w } { \partial z } \bigg ) \bigg ] } \\ & { \qquad \quad + \frac { \partial } { \partial z } \bigg [ \rho \bigg ( \frac { \partial w } { \partial y } + \frac { \partial w } { \partial z } \bigg ) \bigg ] } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \rho \Bigg ( u \frac { \hat { \sigma } w } { \hat { \sigma } x } + \nu \frac { \hat { \sigma } w } { \hat { \sigma } y } + w \frac { \hat { \sigma } w } { \hat { \sigma } z } \Bigg ) = - \frac { \hat { \sigma } P } { \hat { \sigma } z } + \frac { \hat { \sigma } } { \hat { \sigma } x } \Bigg ( \mu \Bigg ( \frac { \hat { \sigma } w } { \hat { \sigma } x } + \frac { \hat { \sigma } u } { \hat { \sigma } z } \Bigg ) \Bigg ) } \\ & { \qquad + \frac { \hat { \sigma } } { \hat { \sigma } y } \Bigg ( \mu \Bigg ( \frac { \hat { \sigma } w } { \hat { \sigma } y } + \frac { \hat { \sigma } \nu } { \hat { \sigma } z } \Bigg ) \Bigg ) } \\ & { \qquad + \mu \frac { \hat { \sigma } } { \hat { \sigma } z } \Bigg ( \mu \Bigg ( 2 \frac { \hat { \sigma } w } { \hat { \sigma } z } - \frac { 2 } { 3 } \nabla \cdot \vec { \nu } \Bigg ) \Bigg ) } \end{array}
+$$
+
+The two equations of the turbulence model[8] are:
+
+$$
+\begin{array} { r l } & { \rho \cdot \frac { \hat { \sigma } \big ( u _ { j } k _ { j } \big ) } { \hat { \sigma } \hat { x } _ { j } } = \tau _ { i j } \frac { \hat { \sigma } u _ { i } } { \hat { \sigma } \hat { x } _ { j } } - \beta ^ { * } \rho \omega k + \frac { \hat { \sigma } } { \hat { \alpha } \gamma _ { j } } \Bigg [ \big ( \mu + \sigma _ { k } \mu _ { t } \big ) \frac { \partial k } { \hat { \sigma } x _ { j } } \Bigg ] } \\ & { \qquad \rho \cdot \frac { \hat { \sigma } \big ( u _ { j } \big ) } { \hat { \sigma } \hat { x } _ { j } } = \frac { \gamma } { \nu _ { t } } \tau _ { i j } \frac { \hat { \sigma } u _ { i } } { \hat { \sigma } \hat { x } _ { j } } - \beta \rho \omega ^ { 2 } } \\ & { \qquad \quad + \frac { \hat { \sigma } } { \hat { \alpha } \gamma _ { j } } \Bigg [ \big ( \mu + \sigma _ { \omega } \mu _ { t } \big ) \frac { \hat { \sigma } \omega } { \hat { \sigma } x _ { j } } \Bigg ] } \\ & { \qquad \quad + 2 \rho \big ( 1 - F _ { 1 } \big ) \sigma _ { \omega ^ { 2 } } \frac { 1 } { \omega \hat { \sigma } \hat { x } _ { j } } \frac { \hat { \sigma } k } { \hat { \sigma } \hat { x } _ { j } } } \end{array}
+$$
+
+# Results and Discussion
+
+Three combinations of hub and the shroud were analyzed. On comparing the combinations as shown in Fig.3, the pressure rise developed for the 8TS hub pump was higher than that of 6TS hub pump but the pressure rise developed for the 12TS hub pump was higher than both. This shows a relation between pressure rise and number of threads in the hub.As the number of threads in the hub is increased, pressure rise is also seen to have increased. But at a higher mass flow rate $( 2 . 5 3 ~ \mathrm { k g / s } )$ ，the pressure rise developed for all the combinations were almost same. Figures 4-6 shows the pressure contours on a blade to blade view of the pumps with 6TS,8TS and 12TS respectively.
+
+![](images/06cc89db3d37fb74162bfeb635933bdc506dd61ecb6ff3ab947ceb46f8384d4c.jpg)  
+Fig.3 Pressure risevs Mass Flow
+
+From the efficiency curve(Fig 7) it is seen that the maximum efficiency is for 12TS hub followed by 8TS hub and 6TS hub respectively. Also it is seen that the efficiency curve shifts to the left when the number of threadsinthehubis increased.Thisisdueto thefactthat when the number of threads in the hub are increased, the cross sectional area of the pump reduces.
+
+For a constant angular velocity,when the cross-sectional area gets reduced, mass flow rate corresponding to zero pressure rise decreases. This shifts the efficiency graph to the left [9] as the threads on the hub are increased.
+
+From shaft power vs mass flow graph (Fig. 8), it is clear that as the number of threads are increased,the power consumed is also increased.
+
+When the number of threads are increased keeping the angular velocity and mass flow rate as a constant, the outlet flow velocity will be less deviated from its intended path.Thus the pressure rise and efficiency will be more when the number of threads are increased. However. the increase in pressure rise is much greater than the increase in efficiency resulting in more shaft power consumption.
+
+![](images/64d6ba762134a8aca0334bc9a627ec31296e4df43cbf6a0df081387e75f6ae70.jpg)  
+Fig.4Blade to blade view of screw pump with 6TS hub with a close up viewof inletand outlet blade tips
+
+![](images/0b6d49a9469e4916cf97dbba502361eccba41bb2727683c41cf713de6f96c09c.jpg)  
+Fig.5Blade to blade view of screw pump with 8TS hub witha close up viewof inletand outlet blade tips
+
+![](images/179ce25dae41ce2878a3ce89ecea084284000335f3ae9f61a8e5157582c298b5.jpg)  
+Fig.6Blade to blade view of screw pump with 12 TS hub with a close up view of inlet and outlet blade tips
+
+![](images/b489bc30150d805a48d29859df213cb7093ad6c64d9b9af1fcde7bd0401b6d41.jpg)  
+Fig.7Efficiencyvs Mass Flow
+
+![](images/f96874d58f47cf9924d8ce62c4f64eae90f2eed45ae52886a8585a7fb1984676.jpg)  
+Fig.8Shaft Power vs Mass Flow
+
+To verify the effect of increasing the number of threads, themaximumabsolute flowrate thatisachievable by each combination of the plain shroud with different hubs when the number of threads are increased beyond12 were analyzed.A total of eight combinations were consideredwithhubs of12,13,14,15,16,17,18 and 20 thread starts respectively.
+
+Theoretically,a pump achieves maximum absolute flow rate when it produces zero pressure rise. This condition is achieved when the pump operates at the same inlet and outlet pressure.
+
+Although this condition is a theoretical concept and is impossible to achieve practically, (as every pump will have a small amount of frictional head loss thathas to be achieved by the pump in order to maintain a continuous flow through the pump） this parameter can be used to compare the maximum capabilities of a pump. The pump is expected to produce a mass flow rate of at least $2 . 3 \mathrm { k g / s }$
+
+From the Fig.9,it is seen that when the number of threadsisless than13,themaximumabsolutemassflow rate isabove the desired value.Butwhile using13TShub the maximum absolute mass flow rate is closer to the design mass flow rate,thus the pressure rise developed at $2 . 3 ~ \mathrm { k g / s }$ will be low. When the number of threads in the hub is increased beyond 13,a significant drop in maximum absolute mass flow rate is observed. If the requirement of the problem was a mass flow rate less than, say $2 . 3 \mathrm { k g / s }$ ,we would have chosen the hub with corresponding number of thread starts or less. Since we expect a mass flow rate of at least $2 . 3 ~ \mathrm { k g / s }$ ，weshould choose hubs with thread starts less than 13.Hence thread starts numbering 6,8 and 12 were chosen in the present study.
+
+![](images/f3a4b34f9b0ef5448ea94413936405284784186f4ca4fb6dafb1b370b61e55aa.jpg)  
+Fig.9Maximum Absolute Mass Flow Rate vs Number of threads in hub
+
+But there is another constraint in the form of angular velocity which is $1 9 0 0 0 ~ \mathrm { r / m i n }$ . So the pump should have a sufficient mass flow rate and should yet produce the maximum pressure rise working at the constant angular velocity. Recalling Fig 3,at this constant mass flow rate $( 2 . 3 \mathrm { k g / s } )$ and angular velocity( $( 1 9 0 0 0 \mathrm { r / m i n } )$ ,hub with 12 TS produces maximum pressure rise.But if we increase the number of threads in the hub keeping the mass flow rate constant, the pump will not produce enough pressure rise as it cannot produce that mass flow rate.From these two observations,it can be said that with a plain shroud, the optimum number of threads on the hub should be 12 in order to achieve the maximum pressure rise at a constant mass flow rate and the constant angular velocity.
+
+# Conclusion
+
+In the present analysis,performance of three variants of single screw pump at a constant angular velocity was analyzed.The number of thread starts was increased from 6 to 20.The conclusions made are presented as follows:
+
+a） The pressure rise obtained showed an increasing trend as the number of threads were increased.This is due to the better guidance of the working fluid as the number of threads is increased.Better guidance reduces the slip angle at the screw pump outlet there by increasing the tangential component of velocity and hence the pressure rise.As the pressure rise increases,so does the power consumed by the pump.
+
+b) Reduction in slip angle at the outlet results in an increase in the pump efficiency.
+
+c) The optimum number of threads for the hub of a screw pump with the design as stated in this paper is 12. Beyond 13TS the pump will not meet the required constraints and at 13 TS, the pressure rise developed will be really small.
+
+d)These results were obtained for models with no diametrical clearance which is a hypothetical situation. Fromliterature itisknownthatwhendiametricalclearance is added, the pressure rise will get reduced [6]. But due to computational limitations,modelling of diametrical clearance was not considered in this study.
+
+# References
+
+[1]Campbell, G.A., Sweeney, P.A.and Felton, J.N.,“Analysis of an alternative extruder screw pump design",J. International Polymer Processing,7(4) pp.320-326,1992   
+[2]Li, Y.and Hsieh,F.,“Modeling of flow in a single screw extruder", Journal of Food Engineering,27, pp. 353-375, 1996   
+[3]Alves,M.V.C,Barbosa Jr.,J.R.and Prata,A.T.,“Analytical solution of single screw extrusion applicable to intermediate values of screw channel aspect ratio", Journal of Food Engineering,92,pp.152-156,2009   
+[4]Alves,M. V. C., Barbosa Jr. J.R.,Prata, A.T and Ribas Jr., F.A.,“Fluid flow in a screw pump oil supply system for reciprocating compressors", International Journal of Refrigeration,34(1),pp.74-83,2011   
+[5]Ma,R.and Wang,K.,“CFD numerical simulation and experimental study of effects of screw-sleeve fitting clearance upon triangular thread labyrinth screw pump (LSP) performance", Journal of Applied Fluid Mechanics, 3(1),pp. 75-81,2010   
+[6]Ma,R. and Wang,K.，“Modeling of pumping performance of labyrinth screw pump (LSP) by 2D Reynolds stress equations",ASME Journal of Fluids Engineering, 131(8): 085001,2009   
+[7]ANSYS CFX-Solver, Theory Guide   
+[8]Menter,F.R.,“Two-equation eddy-viscosity turbulence modelsfor engineering applications",AIAA Journal, 32(8), pp.1598-1605,1994   
+[9]Philip,J.，Suryan,A.,Sanand T.V.,and Unnikrishnan Nair,P,“Flow Analysis of a Screw Pump in the Turbo Pump of a Semi-Cryogenic Engine,”Proceedings of LAMSYS2016,Sriharikota,India,2016.

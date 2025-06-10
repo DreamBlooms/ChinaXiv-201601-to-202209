@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "图像灰度密度分布计算模型及肺结节良恶性分类",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vanbang $\\mathrm { L e ^ { 1 } }$ ，朱煜1，郑兵兵'，杨达伟²，任晓东‘，ThiminhchinhNgo³(1.华东理工大学 信息科学与工程学院，上海 200237;2．复旦大学附属中山医院，上海 20032；河内高科技研究中心，越南 河内)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：计算机辅助肺癌诊断对于肺癌的早期发现及提早治疗具有重要意义。提出一种基于密度分布的特征评估算法，同时引入模式识别模型来评估该方法的效率。首先，从肺部肿瘤图像中随机提取像素块集，通过K-均值聚类算法将其分为10类，根据CT图像中肺结节像素值和聚类中心的关系，提取出10维特征向量，利用随机森林分类器进行模型训练，进而判断肺结节良恶性水平。通过CT图像公开数据集LIDC-IDRI实验表明分类平均精度达到0.9008。实验结果对比分析表明，提出的特征表达方法具有更优的分类效果和更高的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肺结节分类；密度分布特征；K-均值 中图分类号：TP391.41 doi: 10.19734/j.issn.1001-3695.2018.05.0505 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pulmonary nodule image grey density distribution feature extraction algorithm and adenocarcinoma benign/malignant classification ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vanbang $\\mathrm { L e ^ { 1 } }$ ,Zhu $\\mathrm { Y u ^ { 1 \\dag } }$ , Zheng Bingbing1, Yang Dawei², Ren Xiaodongl,Thiminhchinh Ngo3 (1.SchoolofInformationScience&Engneering,EastChina UniversityofScience&Technology,hanghai2o37,China;2. Zhongshan Hospital,Fudan University,Shanghai o32,China;3.Hitech TlecommunicationCenter,Hanoi Vietnam) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimed-at lung noduleBenign/Malignantclassification,an efective greyscaledensitydistribution feature extraction algorithmwhich was combined withpaternrecognitionmodels toevaluate theclasificationsystem was proposed.The proposed featureextractionalgorithmfirstcolectedalarge numberof blocks from lung tumorimagesanddeterminedthe distance matrix bycalculatingtherelationshipsamong the image blocks.Then,K-means clustering methods wasused toclasifythecurrent image blocksandobtained10 clustercenters.Afterthat,calculatedthe distributiondensityfeatures bymapping CTvalueof noduleimage pixels with the1Oclustercenters and extracteda10-dimensional feature vector.Finaly,theextracted feature vectors were divided into training andtestingset to identifylung adenocarcinomasrisk levels byRandomForestclasification model.Theclasificationframework was evaluated inLIDC-IDRIdataset,teaverageacuracyreachedto09o08.Theproposed methodoutperforms the most recent techniques,andthe experimental results show great robustnessofthe proposed method for different lung CT image datasets. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:lung nodule classification; density distribution feature;K-means ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据世界各大癌症研究中心和卫生组织的调查显示，肺癌已经成为全世界致死率最高的第一大癌症。目前胸腔扫描图像技术的应用范围越来越广泛。通过分析CT（computedtomography）图像的特征发现早期肺结节并且及时给出正确的诊断、治疗，从而提高病患者的生存率，因此通过数字图像处理技术对肺部CT图像进行分析已经成为热点研究方向。肺部CT图像计算机辅助诊断系统中主要包含肺结节检测，分割，分类等研究项目。其中提升微小肺腺结节（病灶直径 ${ < } 3 0 \\mathrm { m m }$ ）的诊断和识别水平能显著的提高肺癌的诊断准确率以便为临床医生提供更加准确的诊断建议，所以其一直是图像处理领域的重要课题[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "辅助诊断系统中肺结节分割一直为最重要的步骤之一，对肺结节良/恶性分类影响很大。常见的肺结节的分割方法为灰度阈值法、GRAPH-CUTS、水平集、深度学习等。而主要的算法验证数据为LIDC-IDRI[2]、ELCAP[3]、NLST[4]等。借助分割后的结节图片能够在一定程度上评估结节的后续增长趋势及良恶性病变水平[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肺结节良/恶性分类旨在给医生提供科学、可靠的辅助分类结果，使诊断过程更加精准并且有效的降低医生的阅片工作量。肺结节分类的基础为图像特征提取方法，通过图像特征并与分类器结合进行训练和测试。而常见的分类器主要包含SVM[]、KNN[7]、随机森林[8]等。临床医学中从CT值分布角度可将肺结节分为磨玻璃型、半实质型及实质型的，而从危险程度来看可分为良性和恶性肺结节。Han 等人[9以LIDC数据库为研究对象，通过提取肺结节的2D/3D纹理（Harralick纹理特征）及几何特征（圆度、外接矩形充实度等）将肺结节分为良性/恶性两类。实验结果的最大ROC指数为 $9 2 . 7 \\%$ 。Dhara[10]根据肺结节的几何和Harralick纹理特征将LIDC-IDRI数据的样本集分为良性和恶性两类，其最优AUC（AreaUnderCurve）值达到了0.9505。康奈尔大学的Reeves[11]使用46维空间特征对 PLIB（public lung image database）和 NLST（national lungscreeningtrialdatabase）实现肺结节良恶性分类。实验表明在参数最优的前提下，其分类准确率达到了 $70 \\%$ 。梅奥医疗中心生理与生物医学团队在研究成果中介绍了CANARY（computer aided nodule assessment and risk yield）系统[l2]，其对NLST进行密度聚类分析，并对病患经过5年的跟踪研究，提出了计算机辅助肺结节分类与风险预测结论。Maldonado[12]提出一种肺结节图像密度分布计算方法用于CANARY的分类模块中，该特征描述肺结节的HU（hounsfieldunit）值分布情况，非常有借鉴意义。太原理工大学的裴博[15]使用基于双向隶属度函数的模糊支持向量机，综合考虑肺结节的灰度、纹理及形状特征，实现了 $83 \\%$ 的识别准确率和 $10 \\%$ 的误诊率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为提高肺结节良/恶性的分类性能，本文中提出一种基于图像子块集的肺结节图像灰度密度分布特征提取模型。首先从肺结节图像集中获取子块集，计算该数据集的自相关矩阵并使用无监督聚类算法对自相关矩阵进行聚类。从而获得图像子块对应的标签，然后通过寻找目标测试像素最匹配的子块计算测试图像每一像素的标签。最后统计、生成肺结节图像的灰度密度分布特征，并结合随机森林分类器对数据集分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LIDC-IDRI 肺部 CT 公开数据库（The lung image databaseconsortiumand image database resource initiative）为目前较大、常用的肺 CT 公开数据库。LIDC-IDRI 数据库从 The CancerImagingArchive（TCIA）官网下载，肺结节的边缘坐标及特征可以从附带的\\*.XML文件中提取。LIDC-IDRI中，肺部CT图像尺寸均为 $5 1 2 \\times 5 1 2$ （单位为HU值)，其重要的参数为：Slice",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thickness表示切片厚度（单位为毫米)；PixelSpacing表示像素中心间的物理间距（单位为毫米)。肺结节的精确边缘坐标及其特征标注一般由4位放射科医生实现，标注结果很显然是存在一定的差异的。从XML文件获取肺结节区域时，被选择的目标标注为最大面积的区域，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { n o d u l e } = \\mathrm { a r c } \\operatorname* { m a x } \\left( \\mathrm { m a r k } ^ { \\mathrm { ( i ) } } \\left. i = 1 { \\sim } 4 \\right. \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中从LIDC-IDRI大规模的肺结节样本数量选取出一部分作为研究对象，选取对象的共同点是均为小型肺结节，最大长径均小于 $2 0 \\mathrm { m m }$ ，共1285肺结节样本。研究对象数据中，像素间距及片间距分布分别从0.5至 $0 . 8 \\mathrm { m m }$ 与 $0 . 6 \\mathrm { m m }$ 至 $5 . 0 \\mathrm { m m }$ 长径范围为 $[ 2 . 7 9 \\mathrm { m m }$ + $1 5 . 7 7 \\mathrm { m m } ]$ 。肺结节最重要的评估参数一一危险程度被分为5个等级（rank1\\~5)，实验中其样本数量分别为147/390/387/250/119，共1285个肺结节。使用Han[9的良恶性规划方案，形成3种良恶性先验定义方案，分别为Configuration1,2,3（CF1,2,3)。其中，CF1的良性与恶性结节分别由rank1,2和rank4,5的样本组成；CF2的良性样本为rank1,2,3组成，恶性样本为rank4和5；CF3则将rank3的肺结节定义为恶性，即rank1,2的样本为良性，rank3,4,5的样本为恶性。LIDC-IDRI数据集样本详细信息统计如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/302c38f2794a9000d3b95a3257c73e4a5220e3f8b73763521ce6d4fc73040f6a.jpg",
+        "table_caption": [
+            "表1LIDC-IDRI部分样本及不同数据子集基本信息",
+            "Table1LIDC-IDRI partial samples and basic information of different subset of data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sub-sets</td><td rowspan=\"2\">Cfs.</td><td colspan=\"2\">Benign</td><td colspan=\"2\">Malignant</td></tr><tr><td>Ranks</td><td>样本</td><td>Ranks</td><td>样本</td></tr><tr><td>Sub-set 1</td><td>CF1</td><td>‘1'~'2'</td><td>475</td><td>'4'~‘5'</td><td>180</td></tr><tr><td>(LS 1)</td><td>CF2</td><td>‘1'~'3'</td><td>802</td><td>'4'~‘5'</td><td>180</td></tr><tr><td>(3-10)mm</td><td>CF3</td><td>‘1'~'2'</td><td>475</td><td>‘3'~‘5'</td><td>507</td></tr><tr><td>Sub-set 2</td><td>CF1</td><td>'1'~'2'</td><td>54</td><td>'4'~5'</td><td>189</td></tr><tr><td>(LS 2)</td><td>CF2</td><td>‘1'~‘3'</td><td>114</td><td>‘4'~‘5'</td><td>189</td></tr><tr><td>(10-20)mm</td><td>CF3</td><td>`1'~'2'</td><td>54</td><td>‘3'~'5'</td><td>249</td></tr><tr><td rowspan=\"3\">All nodules</td><td>CF1</td><td>‘1'~'2'</td><td>529</td><td>‘4'~'5'</td><td>369</td></tr><tr><td>CF2</td><td>'1'~'3'</td><td>916</td><td>‘4'~‘5'</td><td>369</td></tr><tr><td>CF3</td><td>‘1'~'2'</td><td>529</td><td>‘3'~‘5'</td><td>796</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对不同尺寸下的分类性能分析，本文将肺结节进一步分为两个数据子集 Sub-set1和2（LIDC-IDRISub-set,LS)，其中LS1中的肺结节尺寸范围从 ${ \\sim } 3 \\mathrm { m m }$ 至 ${ \\sim } 1 0 \\mathrm { m m }$ 而LS2肺结节的从${ \\sim } 1 1 \\mathrm { m m }$ 至 ${ \\sim } 2 0 \\mathrm { m m }$ 。通过对统计LS和LS2分类性能的差异及详细的分析，本文总结了图像特征对识别不同尺寸肺结节的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2肺结节图像灰度密度分布特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肺部CT影像中，可疑区域的灰度级分布影响到肺结节的定位和分类。因此灰度密度分布是肺结节图像危险程度重要的判决指标之一。图像的灰度密度分布指的是图像中像素值与周围邻近点之间的关系，其表征着图像任意局部区域灰度值出现的强度及其幅度。图像中密集出现高灰度值的区域为高密度区域，而高灰度值像素较稀疏的则为低密度区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1图像单元库获取方法及其自相关矩阵",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肺部CT图像单元数据库（Imageblockdatabase,IBD）是本文提出的肺结节图像特征提取过程中作为最重要的环节。这些图像单元是从肺结节图像中随机提取出来，其数量和多样性将决定特征的表征精度。为确保IBD的多样性及使其平衡，在不同的肺结节数据库（LIDC-IDRI和ZSDB）的各类别中挑选出平衡数量的图像单元。对图像单元大小而言，因为目标处理的肺结节图像大小范围为 $3 \\mathrm { m m } { \\sim } 3 0 \\mathrm { m m }$ ，图像单元不能太大也不能太小。如果太小，处理之后更接近于点处理的结果从而会引入噪声，太大则对较小的肺结节带来较大误差，因此一般采用 $5 { \\times } 5$ 、 $7 { \\times } 7$ 或 $9 { \\times } 9$ 的图像单元大小。单元大小会影响到目标计算图像的平滑效果，较大的单元适用于大型肺结节，而对小型肺结节不能使用太大（尺寸）的图像单元集。在每一个肺结节图像随机提取图像单元构造出各类数量均衡的IBD。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为对IBD进行聚类，先计算两两图像单元之间的距离并生成 IBD 的距离矩阵 $h ( i , j )$ 。设IBD中的图像单元数量为N，则$h ( i , j )$ 为大小为 $\\mathbf { N } { \\times } \\mathbf { N }$ 的对称方阵。 $h ( i , j )$ 中每一行（或列）为某个单元与其他单元的距离向量。向量之间通常的距离计算方法包含Euclid (EU)、Canberra (CA)、Chebyshev(CH)、Braycurtis(BR)等多种模式，为保证距离值之间具有最大的区分度本文中使用Canberra距离来计算向量之间的距离。任意两个等长的向量p和q的Canberra,Euclid,Chebyshev及Braycurtis的距离计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { c a } ( \\boldsymbol { p } , \\boldsymbol { q } ) = \\sum _ { i = 1 } ^ { n } \\frac { \\left| p _ { i } - q _ { i } \\right| } { \\left| p _ { i } \\right| + \\left| q _ { i } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { _ { E U } } ( p , q ) = \\sqrt { \\sum _ { i = 1 } ^ { n } \\bigl ( p _ { i } + q _ { i } \\bigr ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { { \\scriptscriptstyle C H } } ( p , q ) = \\operatorname* { m a x } _ { i } \\vert p _ { i } - q _ { i } \\vert\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { _ { B R } } ( p , q ) = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left| p _ { i } - q _ { i } \\right| } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left| p _ { i } + q _ { i } \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中n为向量的长度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文中通过无监督聚类方法对距离矩阵进行归类，聚类中心数量为10。实验表K-Means[14]聚类方法返回结果的Silhouette[I3]（SIL）是最优的。将聚类结果映射至IBD并找出对应图像单元的标签，这样每一个单元都被标上记号并生成被标记的图像单元数据库（MarkedImageBlockDatabase,MIBD）。此时，距离矩阵的每一个行（或列）的聚类结果同时也是距离向量所对应的图像单元的灰度密度分布等级。IBD聚类过程中，图像单元、距离矩阵及聚类统计结果示意图如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1中，图1（A）为IDB的可视化图像，其中1600个图像单元排成 $[ ( 4 0 \\times 7 ) \\times ( 4 0 \\times 7 ) ]$ 的矩阵，图中蓝色和深橙色代表图像单元最小与最大的灰度值。图1（B）的1,2,3,4分别为不同向量间距离计算方法（BR,CA,CH,EU）的自相关矩阵（左边）及其对应的聚类标签（右边），而对应的直方图(bins ${ } _ { 1 = 2 5 6 }$ ）如图1（C）所示。通过聚类距离矩阵计算出对应图像单元的标签（ $\\mathrm { K } { = } 1 0$ )。图像单元集IDB聚类标签统计如图1(D)所示，从图中的分布曲线可以看出由CA和BR计算得到距离矩阵的聚类统计分布较平滑。为定量分析聚类结果之间的优异与否，本文使用Silhouette（SIL）参数计算聚类的相对精度。SIL参数由类间距离及类内的紧凑度构成，分布范围为[-1，1]。SIL越大表明性能越好（最好时为1)。CA的对应SIL为最大0.4310，因此本文中使用CA距离计算方法对图像单元集进行自相关分析。本文中IDB的标签已按类别中心的值从小至大进行排序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3a7d06d9b316f58d19d75bdcfc8ea2585207c4ea6b4340fde1cd72d98c05a96.jpg",
+        "img_caption": [
+            "图1图像单元集图像及其自相关矩阵与聚类统计结果",
+            "Fig.1Image unit set image and its autocorrelation matrix and clustering statistical results "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2基于图像单元灰度密度分布特征获取",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IBD 进行聚类后，对肺结节图像遍历计算每一个非背景像素的灰度密度分布等级。在此过程中，以目标像素为中心提取遍历窗□ $I _ { t e s t } ( x , y )$ ，窗口大小等于IBD中图像单元的大小。通过欧式距离的计算，搜寻IBD中与之匹配的单元（距离最小的)，记为 $I _ { m a t c h e d } ( x , y )$ ，见式(6)",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { m a t c h e d } ( x , y ) = \\underset { i \\in [ 1 , N ] } { \\arg \\operatorname* { m i n } } \\big ( \\big \\| I B D _ { i } , I _ { t e s t } ( x , y ) \\big \\| \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时， $I _ { m a t c h e d } ( x , y )$ 在聚类结果中的标签为 $I _ { t e s t } ( x , y )$ 的灰度密度分布等级，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL e \\nu e l ( I _ { t e s t } ( x , y ) ) = L a b e l ( I _ { m a t c h e d } ( x , y ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依次计算肺结节图像中全部非零像素的密度分布等级最终得到肺结节的CT值密度分布图像。该图像的有效值数量为10(1\\~10)，在这过程中将灰度密度分布等级代替了像素原有的值。本文将密度分布特征作为肺结节的识别特征，用于机器学习训练的标准特征向量集。特征提取过程示意图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中，(a)为肺结节图像， (b)为肺结节图像的灰度密度分布图像，(c为饼图表示的特征向量。通过密度分布图像可以看出肺结节内的HU值高低分布情况有助于定量估计实质部分的位置及大小从而提高临床医生对肺结节分类的准确性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ec45618ba22397f7cf9658d7d55a8ec3e97201ec52b73ca95434ceca5240933.jpg",
+        "img_caption": [
+            "图2肺结节基于图像单元集的密度分布图像和特征向量示意图 Fig.2Lung nodule based on image unit set density distribution image and eigenvector schematic map "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3随机森林分类器及模式识别评价",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文中使用随机森林（Randomforest）方法作为分类器，该分类器是包含多个决策树的分类器。分类评价参数为敏感度（Sensitivity），特异性（Specificity），ROC（Receiveroperatingcharacteristic）曲线及识别精度（Accuracy）。其中，敏感度（Sensitivity）或真阳性率（True positive rate,TPR）为描述分类性能的“阳性”样本正确判别率，数学模型为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S e n s i v i t y } = { \\frac { T P } { T P + F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "特异性（specificity）或真阴性率（true negative rate,TNR）统计分类性能的“阴性”样本正确判别率，数学公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { S p e c i f i c i t y } } = { \\frac { T N } { T N + F P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：真阳性：（truepositive,TP） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 正确判断为真；假阳性：（false positive,FP） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 错误的判断为真；真阴性：（truenegative,TN） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 正确判断为假；假阴性：（false negative,FN）$\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 错误的判断为假。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ROC曲线通过图像方式对二分类模型进行评价，由真阳性率（TPR）及假阳性率（FPR）构成。ROC曲线下的面积AUC（areaunderthecurve，AUC）被用来量化ROC曲线。AUC值越大说明分类器性能越优。识别精度Accuracy的计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { A c c u r a c y } } = { \\frac { \\sum T P + \\sum T N } { { \\mathrm { A l l S a m p l e s } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节展示验证数据库的分类性能的实验效果及其分析结果，分类模型实验配置具体如下：分类器为随机森林（RF），estimator $= 1 0 0$ ；对于LIDC-IDRI 的训练和测试样本比例为$5 0 { : } 5 0 ~ ( \\% )$ ；每一个子集分别做100 次实验并计算平均的性能评价参数值。实验平台配置：编程语言：Python3.0-Windows10；硬件信息：Processor Intel(R）Core(TM）i7-6700HQ2.60GHz(8CPUs);GPUGeforce960;RAM8Gb。实验过程中，提出的系统运算效率较高并满足实时性处理要求，单样本分类的平均运行时间为 $3 5 { \\pm } 0 . 5$ （ms）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1肺结节图像特征提取与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIDC-IDRI数据库中的样本聚类结果展示图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3中可以看出肺结节的密度图中各个类别一般以环形围绕着中心点，最外围为最小值（ $\\mathbf { k } { = } 1$ )，因此在特征向量中第一分量均为非零的。对于LIDC-IDRI数据库特征向量中低等级密度占据的比例从rank1至rank5稳定递减而高等级的密度比例则为递增的。LIDC-IDRI中高分布等级比例的排序为rank$1 <$ rank $2 <$ rank $3 <$ rank $4 <$ rank5。LIDC-IDRI肺结节的灰度密度分布特征具有可靠的统计意义，各类特征向量之间差异很明显且稳定，非常有助于提高肺结节良恶性的分类性能。LIDC-IDRI样本的灰度密度分布特征均值如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba72e5f6da62a6cbb5cd1f584a665abb635124467796a9fc3c862db21f88053d.jpg",
+        "img_caption": [
+            "图3基于图像子块集灰度密度分布特征示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e52310ee18293614a795324b52fabb7a4bc149f5b440b1c229010282978f825.jpg",
+        "img_caption": [
+            "Fig.3Gray scale density distribution based on image subblock ",
+            "图4密度分布平均特征向量（左：LS1；中间：LS2；右： $\\mathrm { L S } 1 { + } \\mathrm { L S } 2 $ 0 Fig.4Average eigenvector of density distribution (left:LS1; middle: LS2; right: LS1+LS2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于LIDC-IDRI数据库，小型和大型肺结节的良恶性特征分布虽然具有一定的区分度但差异并不明显，rank1至rank 5平均曲线的趋势较类似，尤其是直径大于 $1 0 \\mathrm { m m }$ 的LS2。对整体的 $\\mathrm { L S l } { + } \\mathrm { L S } 2$ 而言，rank1至rank5平均向量前四个分量（密度值小于-663HU）之和分别为 $51 . 3 \\%$ ， $5 5 . 2 4 \\%$ ， $5 5 . 6 3 \\%$ ，$3 8 . 5 2 \\%$ 和 $3 2 . 0 1 \\%$ 而最后4个分量（密度值大于-282HU）的总和依次为 $1 1 . 1 9 \\%$ ， $12 . 5 7 \\%$ ， $12 . 8 5 \\%$ ， $2 6 . 6 1 \\%$ 和 $34 . 8 3 \\%$ 。其中后四个分量（代表实质性区域比例）的排序均为rank1<rank$2 <$ rank $3 <$ rank $^ { 4 < }$ rank5。从而可以看出rank1\\~5的特征向量分布趋势为低等级分量比例逐渐降低而高等级密度分量则相反",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，临床应用中通过观察肺结节的密度分布图以及统计密度特征可以更直观地表达病灶的结构，有助于提高诊断效率以及分类精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2肺结节图像的分类",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明整体样本集上（ $\\mathrm { L S } 1 { + } \\mathrm { L S } 2$ ）分类性能最好的是CF1，而当rank3的肺结节被分配至良或恶性类别（CF2与CF3）时评价指数低一些。分类评价参数的AUC，敏感度和特异性统计如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7d751ceba862fe2cdfcd9ace2a0d9ad23196a9197ee7f52f29383ff32bb8b81.jpg",
+        "table_caption": [
+            "表2LIDC-IDRI分类性能评价参数统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">LS1+LS2 (所有样本)</td></tr><tr><td>Cfs.</td><td>AUC</td><td>敏感度</td><td>特异性</td></tr><tr><td>CF1</td><td>0.9681±0.0055</td><td>0.9333±0.0255</td><td>0.8786±0.0250</td></tr><tr><td>CF2</td><td>0.9405±0.0065</td><td>0.8742±0.0317</td><td>0.8800±0.0137</td></tr><tr><td>CF3</td><td>0.8070±0.0129</td><td>0.7239±0.0297</td><td>0.7296±0.0476</td></tr><tr><td colspan=\"4\">LS1-较小的结节</td></tr><tr><td>CF1</td><td>0.9820±0.0043</td><td>0.9114±0.0324</td><td>0.9475±0.0132</td></tr><tr><td>CF2</td><td>0.9702±0.0045</td><td>0.8661±0.0413</td><td>0.9436±0.0108</td></tr><tr><td>CF3</td><td>0.7681±0.0148</td><td>0.5958±0.0402</td><td>0.8047±0.0573</td></tr><tr><td colspan=\"4\">LS2-较大的结节</td></tr><tr><td>CF1</td><td>0.9273±0.0196</td><td>0.9347±0.0416</td><td>0.5894±0.1452</td></tr><tr><td>CF2</td><td>0.8203±0.0263</td><td>0.8897±0.0494</td><td>0.5934±0.0671</td></tr><tr><td>CF3</td><td>0.8941±0.0219</td><td>0.9603±0.0238</td><td>0.3839±0.1497</td></tr><tr><td colspan=\"4\">Cfs.：样本规划方案(Configurations)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2看出对于LS1，性能评价排序为 $\\mathrm { C F 1 > C F 2 > C F 3 }$ 而对于LS2为 $_ { \\mathrm { C F 1 > C F 3 > C F 2 } }$ 。从而可以判断LIDC-IDRI中的rank3小型肺结节较倾向于良性的，而大型的则倾向于恶性的。由于LS1的样本较大（LIDC-IDRI中多数肺结节均小于 $1 0 \\mathrm { m m } .$ )，故整体数据上rank3的肺结节更具有良性肺结节的特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LIDC-IDRI测试样本的识别精度对于CF1，CF2和CF3分别为0.9008，0.8782与0.7258。其中阳性/阴性预测交叉矩阵如图5所示。其中，Bn 表示良性（Benign)；Ml表示恶性（Malignant）。左至右分别为CF1，CF2和CF3)。）。由于rank3肺结节的干扰，CF1的分类性能较稳定于CF2和CF3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 0.12 0.88 0.12 0.73 0.27 0.93 0.13 0.87 0.28 0.72 Bn MI Bn MI Bn MI CF1 CF2 CF3 PredictLabels ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如上述所说，rank3的样本对LIDC-IDRI良恶性分类性能影响很大，使用的数据中rank3肺结节数量越多在理论上分类效果越不稳定。对于实验数据结构而言，相较于Han 等人[9]（172 样本）和Dhara[10]（349 样本)，本文使用的rank3样本数量为387，数据集给分类模型带来的困难较大。虽然如此，利用本文所提出的灰度密度分布特征，测试数据时仍然获得非常可观的评价指标。其中CF1，CF2 和CF3的平均AUC分别为0.9681，0.9405和0.8070。本文提出灰度密度分布特征与几何和纹理特征的ROC对比如表3所示。由表3中可以看出虽然rank3样本数量较大但是本文提出的分类模型在三种样本先验规划下性能均略高于文献[9]和[10]提出的基于几何和纹理特征的分类模型。因此表明所提出的灰度密度分布特征对肺结节良恶性分类的有效性，同时也证明了所提出特征的分类性能优于图像2D/3D几何和纹理特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/60a416b187bbe6e8f6bb93ce66d91b50b0d0b05290843aca7db893909b2ed0b0.jpg",
+        "table_caption": [
+            "Table 2Evaluation parameter statistics of LIDC-IDRI classification performance evaluation parameter statistics ",
+            "表3分类性能与对比",
+            "Table 3Comparison of classification performance "
+        ],
+        "table_footnote": [
+            "\\*本文数据使用Dhara[1提出几何和纹理特征时的ROC."
+        ],
+        "table_body": "<html><body><table><tr><td>Configurations</td><td>CF1</td><td>CF2</td><td>CF3</td></tr><tr><td>本文特征</td><td>0.9681</td><td>0.9405</td><td>0.8070</td></tr><tr><td>几何和纹理特征*</td><td>0.8784</td><td>0.8108</td><td>0.7210</td></tr><tr><td>文献[10]</td><td>0.9505</td><td>0.8822</td><td>0.8488</td></tr><tr><td>文献[9]</td><td>0.9450</td><td>0.8703</td><td>0.8315</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文中提出一种基于图像子块集的肺结节灰度密度分布特征计算方法。首先从肺结节图像集随机挑选得到一致大小的若干图像单元构成单元集。然后计算该数据集的自相关矩阵并将距离矩阵聚为10类，获得对应图像单元的聚类标签。最后通过遍历肺结节图像，每一个像素与周围邻近点构成的窗口与图像单元集对照，寻找最匹配的单元，该单元的标签则为测试像素的灰度密度分布等级。最终统计肺结节图像的密度分布图获取其特征。实验结果与对比分析表明，基于密度分布的特征评估算法具有能有效的对肺结节良恶性等级进行分类的能力。本文的研究结果为肺结节临床辅助诊断提供了新的方法，同时也对中国或亚洲地区的肺癌早期诊断系统的发展有参考价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]张满.孤立性肺结节良恶性预测模型的建立[D].广州：南方医科大学, 2016.(Zhang Man.Establishment of a mathematic model for predicting malignancy in solitary pulmonary nodules [D]. Guangzhou: Southern Medical University,2016.)   \n[2]Armato SG,McLennan G,et al. The lung image database consortium (LIDC) and image database resource initiative (IDRI):a completed reference database of lung nodules on CT scans [J].Medical physics,2011,38 (2): 915-931.   \n[3]Welch HG,Woloshin S,Schwartz LM,et al. Overstating the evidence for lung cancer screening: the international early lung cancer action program (IELCAP) study[J].Archives of Internal Medicine,2007,167 (21): 2289- 2295.   \n[4]National Lung Screening Trial Research Team.Reduced lung-cancer mortality with low-dose computed tomographic screening[J].New England Journal of Medicine,2011,365 (5): 395-409.   \n[5]邢谦谦．不规则形态肺结节的分割及毛刺检测研究[D].广州：南方医 科大学,2015.(Xing Qianqian.Research on irregular lung nodule automatic segmentation and spiculation detection [D].Guangzhou: Southern Medical University,2015.)   \n[6]Tan Yongqiang,Schwartz LH, Zhao Binsheng.Segmentation of lung lesions on CT scans using watershed,active contours,and Markov random field [J]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Medical Physics,2013,40 (4): 043502-043502. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7]El-Baz A,Nitzken M,ElnakibA,et al. 3D shape analysis for early diagnosis of malignant lung nodules.[C]// Proc of International Conference on Medical Image Computing and Computer-Assisted Intervention. SpringerVerlag,2011:175-82.   \n[8] Breiman L.Random forests [J].Machine learning,20o1,45(1): 5-32.   \n[9] Han Fangfang,Wang Huafeng,Zhang Guopeng，et al.Texture feature analysis for computer-aided diagnosis on pulmonary nodules [J]. Journal of Digital Imaging,2015,28 (1): 99-115.   \n[10] Dhara AK,Mukhopadhyay S,Dutta A,et al.A combination of shape and texture features for classification of pulmonary nodules in lung CT Images [J].Journal of Digital Imaging,2016,29 (4): 466-475.   \n[11]Reeves AP,Xie Yiting, Jirapatnakul A.Automated pulmonary nodule CT image characterization in lung cancer screening[J]. International Journal of Computer Assisted Radiology & Surgery,2016,11(1):73-88.   \n[12]Maldonado F,Boland JM,Raghunath S,et al.Noninvasive characterization of the histopathologic features of pulmonary nodules of the lung adenocarcinoma spectrum using computer-aided nodule assessment and risk yield(CANARY) -pilot study[J]. Journal of Thoracic Oncology,2013,8(4): 452-460.   \n[13] Rousseeuw P J.Silhouettes:A graphical aid to the interpretation and validation of cluster analysis [J].Journal of Computational & Applied Mathematics,1987,20:53-65.   \n[14] Sculley D.Web-scale $\\mathbf { k }$ -means clustering [C]// Proc of International Conference on World WideWeb.2010:1177-1178.   \n[15]裴博，强彦，赵涓涓．一个基于PET//CT的孤立性肺结节恶性概率的预 测模型[J].计算机应用与软件,2015,32(12):170-174.(Pei Bo,Qiang Yan,Zhao Juanjuan.A PET//CT-Based prediction model for malignancy probability of solitary pulmonary nodules [J].Computer Applications and Software,2015,32(12): 170-174.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

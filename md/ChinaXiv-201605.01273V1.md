@@ -1,0 +1,127 @@
+# Ultrafast Photoinduced Electron Transfer in Green Fluorescent Protein Bearing a Genetically Encoded Electron Acceptor
+
+Xiaoxuan Lv YangYu\$l Meng Zhou,Cheng Hu Feng Gao JjiasongLi XiaohongLiu Kai Deng Peng Zheng, Weimin Gong† Andong Xia,\*# and Jiangyun Wang\*,t
+
+Laboratory ofRNA BiologyandLaboratoryofQuantum Biophysics,Istituteof Biophysics, ChineseAcademyofSciences,15Datun   
+Road, Chaoyang District, Beijing 100101, China   
+\*Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190,China   
+\$Departmentof Chemistry, Universityof Illnois at Urbana-Champaign, Urbana, Illnois 61801, United States
+
+③ Supporting Information
+
+ABSTRACT: Electron transfer (ET) is widely used for driving the processes that underlie the chemistry of life. However， our abilities to probe electron transfer mechanisms in proteins and design redox enzymes are limited， due to the lack of methods to site-specifically insert electron acceptors into proteins in vivo. Here we describe the synthesis and genetic incorporation of 4- fluoro-3-nitrophenylalanine $\left( \mathrm { F N O } _ { 2 } \mathrm { P h e } \right)$ , which has similar reduction potentials to $\mathrm { { N A D } ( P ) H }$ and ferredoxin，the most important biological reductants. Through the genetic incorporation of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ into green fluorescent protein (GFP) and femtosecond transient absorption measurement, we show that photoinduced electron transfer (PET) from the GFP chromophore to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ occurs very fast (within $1 1 \ \mathrm { p s } )$ ，which is comparable to thatof the first electron transfer step in photosystem I, from $\mathrm { P 7 0 0 ^ { * } }$ to $\mathbf { A } _ { 0 } .$ This genetically encoded， low-reduction potential unnatural amino acid (UAA) can significantly improve our ability to investigate electron transfer mechanisms in complex reductases and facilitate the design of miniature proteins that mimic their functions.
+
+# Scheme 1.RedoxPotential Range ofVarious Metal Cofactors (in Millivolts,versus the Standard Hydrogen Electrode) in Proteins and Genetically Encoded Unnatural Amino Acidsa
+
+![](images/c79bb16127bee3d0829679290253e934bb6c16ca991f5d461b4e0dfd8a816865.jpg)  
+äThe structure of 4-fluoro-3-nitrophenylalanine,which is reported in this work,is highlighted in red.
+
+T electrons in proteins.- Y-18 While natural amino acids (such as cysteine,tyrosine,and tryptophan) can serve as electron donors, they are not known to be used as electron acceptors.19-24 To facilitate efficient electron transfer in living systems, nature has employed numerous metal-containing electron-accepting cofactors such as iron-sulfur clusters, copper,and haem,which have broadly tunable redox potentials (Scheme 1 and Figure S1).125-33Fr example, theiroulfurustesare preset in photosystem I (PI),which together form a facile electron accepting route to the photochemical reduction of $\mathrm { { N A D } ( P ) ^ { + } }$ to produce $\mathrm { { N A D } ( P ) H }$ 25However， the factors controlling the redox potentials of metal cofactors are still poorly understood, and it is difficult to introduce metal binding sites with desirable redox potentials into proteins.34-36 Furthermore,the mechanism of metal-cofactor insertion into proteins in vivo is extremely complicated and remains an important frontier of bioinorganic chemistry.37
+
+New methods for the genetic incorporation of metalindependent redox probes with various reduction potentials greatly expand our ability to investigate electron transfer mechanism in proteins,38design oxidases and reductases, and construct photoinduced electron transfer (PET）fluorescent sensors,4in vivo and in vitro.In previous works,weand others have reported the genetic incorporation of the unnatural amino acids(UAA）3,5-dichlorotyrosine $( \mathrm { C l } _ { 2 } \mathrm { Y } )$ ，3,5-difluorotyrosine$\left( \mathrm { F } _ { 2 } \mathrm { Y } \right) , ^ { \dot { 3 } 8 , 4 0 }$ andDpaicpotets from 400 to $8 0 0 ~ \mathrm { { m V } }$ .While we have demonstrated that upon $\mathtt { C u } ( \mathtt { I I } )$ binding_,the genetically encoded UAA 3-pyrazoletyrosine $\left( \mathrm { p y T y r } \right) ^ { 4 1 }$ can be used as an eficient electron acceptor, the reduction potential of the pyTyr/ $\mathrm { { C u } ( I I ) }$ complex $( 1 6 8 \mathrm { \bar { m V } ) }$ （204号 is much higher than $\mathrm { { N A D } ( P ) H }$ and therefore precludes the design of reductases.42
+
+In this work,we describe the facile synthesis and genetic incorporation of 4-fluoro-3-nitrophenylalanine $\mathrm { ^ { \prime } F N O } _ { 2 } \mathrm { \bar { P h e } } ,$ or FN) 1. The crystal structure of the Aequorea victoria green fluorescent protein （GFP）bearing $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ at a specific site (Figure 2) reveals that the small size of the $\mathrm { F N O } _ { 2 }$ Phe does not cause significant structural changes to GFP.
+
+Through femtosecond transient absorption measurement, we establish that electron transfer from the GFP chromophore to $\mathrm { F N O } _ { 2 }$ Phe occurs very fast,within1l ps,ina distance-dependent manner.This rate is comparable to that of the first electron transfer step in photosystem I, from $\mathrm { P 7 0 0 ^ { * } }$ to $\mathbf { A } _ { 0 } ,$ which occurs within 10-30 ps after P700 photoexcitation43 (Figure S2). The GFP mutants bearing $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ reported in this work recapitulate two important properties of photosystem I: very fast forward electron transfer rate and photoinduced production of strongly reducing species. Further development along this route may result in miniature protein systems,which recapitulate the most important property of PS I，the photocatalytic production of $\mathrm { { N A D } ( P ) H }$
+
+The UAAs $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ and $\mathrm { N O } _ { 2 } \mathrm { P h e }$ (Scheme $S 1 ) ^ { 4 5 - 4 7 }$ have peak potentials comparable to that of the iron-sulfur clusters and $\bar { \mathrm { N A D } } ( \mathrm { P } ) \mathrm { H }$ at $- 3 1 0$ and $- 4 7 0 \mathrm { m V } ,$ ,respectively,as shown by cyclic voltammetry measurements (Figure S8).44 ${ \dot { \mathrm { F N O } } } _ { 2 } { \mathrm { P h e } }$ was synthesized in two steps using a previously reported method with minor modifications (Scheme S1).48 To selectively incorporate $\mathrm { F N O } _ { 2 }$ Pheat specific sites in proteins produced inE.coli,a mutant Methanocaldococcus jannaschii tyrosyl amber suppressor tRNA $\left( M j \mathrm { t R N A } ^ { \mathrm { T y r } } _ { \mathrm { C U A } } \right) /$ (tyrosyl-tRNA synthetase (MjTyrRS) pair was evolved to incorporate $\mathrm { F N O } _ { 2 }$ Phe in response to the TAG codon as previously reported.49 One MjTyrRS clone emerged after three rounds of positive selection and two rounds of negative selection. This clone was named $\mathrm { F N O } _ { 2 } \mathrm { P h e R S }$ (Table S1).
+
+To determine whether $\mathrm { F N O } _ { 2 } \mathrm { P h e R S }$ can facilitate the incorporation of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ into proteins with high efficiency and fidelity,an amber stop codon was substituted for residue Ser4 in sperm whale myoglobin or Tyrl51 in GFP.Protein synthesis was carried out in $E _ {  }$ coli in the presence of UAA specific TyrRS mutants, $M j \mathrm { t R N A } ^ { \mathrm { T y r } } _ { \mathrm { C U A } }$ and $1 \ \mathrm { m M }$ UAA, or in the absence of UAA as a negative control.Analysis of the purified protein by SDS-PAGE showed that full-length myoglobin and GFP expressed only in the presence of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ (Figure 1), indicating that $\mathrm { F N O } _ { 2 } \mathrm { P h e R S }$ was specifically active for $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ but inactive for any natural amino acids.The yields of mutant myoglobin and GFP were 1O and $2 0 { \mathrm { ~ m g / L } } ,$ respectively. For comparison， the yields of wild-type sperm whale myoglobin (wtMb) and GFP were S0 and ${ 1 0 0 } ~ \mathrm { { m g / L } , }$ respectively.ESI-MS analysis of $\mathrm { F N O } _ { 2 }$ Phe encoded mutant GFP $\big ( \mathrm { G F P 1 5 1 F N O } _ { 2 } \mathrm { P h e } ,$ gave average masses of $2 7 7 5 6 \mathrm { \ D a } ,$ in agreement with the calculated mass (Figure 1C).The N-terminus methionine is cleaved,one water molecule and two hydrogen atoms are lost during chromophore maturation. Subsequent tryptic digestion and tandem mass spectrometric analysis confirmed the presence of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ at position 151 of the GFP (Figure S4).The highresolution crystal structure of GFP151 $. { \mathrm { F N O } } _ { 2 } ^ { \cdot }$ Pheshowsthat the replacementofTyrl51by $\mathrm { F N O } _ { 2 }$ Phe causes little perturbation to the overall structure of GFP (Figure 2).The fluorine atom and nitro group are coplanar with the benzene ring. The planar structure of $\mathrm { F N O } _ { 2 }$ Phe should be favorable for minimizing reorganization energy upon 1 electron reduction since the nitrobenzene anion radical also has a planar structure.46
+
+![](images/5f1cd570147be314f0143a03cb129cde7bd2467ffbc4e77f451c78e6cfb90282.jpg)  
+Figure 1. Coomassie-stained SDS-PAGE of TAG4 mutants myoglobin (A) or TAG151 mutants GFP(B) expressed in the presence or absence of $1 ~ \mathrm { m M }$ UAA. (C) ESI-MS spectra of the $\mathrm { G F P 1 5 1 F N O } _ { 2 } \cdot$ Phemutant. The inset shows the deconvoluted spectrum.Expected mass, $2 7 7 5 6 \mathrm { D a } ;$ （204号 observed mass, $2 7 7 5 6 \mathrm { D a }$
+
+![](images/4055340f349eaa058aa97e584be682684bf3cbffc84b0073be317b0f7d8b91e3.jpg)  
+Figure 2.Crystal structure of the GF $\mathrm { P 1 5 1 F N O _ { 2 } P }$ hecomplex (pdb code: 4ON8).The GFP chromophore and residues 151,149,95,and 17 are shown as sticks.
+
+We then measured the relative fluorescence intensity of SuM wild-type GFP, $\mathrm { G F P 1 5 1 F N O _ { 2 } P h e } _ { ; }$ ，and GFP151 $\mathrm { \Delta N O _ { 2 } P h e }$ As shown in Figure S6,GFP151FNO,Phe exhibited $6 6 \%$ quenching compared to wild-type GFP.By contrast，GFI $1 5 1 \mathrm { N O } _ { 2 } \mathrm { P h e }$ showed less than $5 \%$ quenching (see Figure S6). Since the absorption spectrum of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ does not overlap with the emission spectrum of GFP (see Figure S7),the fluorescence quenching is not caused by fluorescence resonance energy transfer (FRET).The difference in quenching can be explained by the difference in reduction potentials between $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ and $\mathrm { N O } _ { 2 } \mathrm { P h e }$ .The reduction potential of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ is $1 6 0 ~ \mathrm { m V }$ lower than that of $\mathrm { N O } _ { 2 } \mathrm { P h e } ,$ ,so there is a stronger driving force for PET from the GFP chromophore to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ ,resulting in stronger quenching than is observed for $\mathrm { N O } _ { 2 } \mathrm { P h e }$ .We therefore chose $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ for all our subsequent investigations.
+
+Toanalyze the rate and distance-dependence ofPETbetween the GFP chromophore and the electron accepting $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ femtosecond transient absorption measurements of wtGFP and GFP mutants were performed using a $4 0 0 \ \mathrm { n m }$ pump laser. $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ alone has no absorption at $4 0 0 ~ \mathrm { n m }$ (Figure S7). The transient absorption spectrum of wtGFP fits well to a sequential model (Scheme S2),with two components having decay times of ${ \sim } 1 . 3$ ps and ${ \sim } 3 . 0$ ns (Figure 3A and Table S2),consistent with previous investigations0-53Theseresults indicatethatafter photoexcitation of the protonated neutral GFP chromophore deprotonation occurs within 1.3 ps,resulting in the formation of anionic $\mathrm { I ^ { * } }$ with an excited-state absorption (ESA） around 440 nm and a stimulated emission(SE) around $5 0 9 \mathrm { n m }$
+
+![](images/269a3354bf185f2dc30c336e7adf2fac9edf3269d963282c3d103744b9de0a94.jpg)  
+Figure 3.(A) Evolution of the transient absorption spectra of wtGFP and GFP1S1FNO,Phe.The spectra are obtained at different delay times (pump at $4 0 0 \ \mathrm { n m }$ ).The inset shows the kinetic traces at specific wavelengths.(B) Species associated difference spectra (SADS) and (C) time-dependent concentrations of transient species obtained from target global fitting combined with singular value decomposition (SVD).
+
+The ESA and SE of $\mathrm { G F P 1 5 1 F N O _ { 2 } P h e }$ show a fast decay compared to the wtGFP(Figure 3),indicating efficient electron transfer from the GFP chromophore to $\mathrm { F N O } _ { 2 } ^ { \cdot }$ Phe.To extractthe electron transferrate,a kinetic scheme shown in Scheme S2 is proposed, which indicates electron transfer from $\mathrm { I ^ { * } }$ to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ to yield the $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ anion radical $\left( \mathrm { F N ^ { - } } \right)$
+
+A target global fitting procedure based on the proposed kinetic model combined with singular value decomposition (SVD)50-54 was then employed to extract the time-dependent concentrations of transient species and species associated difference spectra $( S A D S ) ^ { 5 0 - 5 4 }$ fromthe transient dataas shown in Figure 3.The fitted time constants of wtGFP and GFP mutants are listed in Table S2.Besides the 1.8 ps excited state deprotonation reaction from $\mathbf { A } ^ { * }$ to $\mathrm { I ^ { * } }$ and a 3.2 ns decay from $\mathrm { I ^ { * } }$ to ground state, a new decay process with a time-constant of 73 ps was obtained, resulting from the electron transfer from the GFP chromophore to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ .Our SADS data (Figure 3B) suggests the formation of the $\mathrm { F N O } _ { 2 }$ Phe anion radical since a new peak around $4 7 0 \ \mathrm { n m }$ appeared in $\mathrm { G F P 1 5 1 F N O } _ { 2 } \mathrm { P h e } ,$ but not in wtGFP.This is consistent with previous electrochemical studies,which have reported that the nitrobenzene anion radical has absorbance maxima around $4 7 0 \ \mathrm { n m }$ .55 Furthermore, the similar transient absorption spectra of GFP14 $9 \mathrm { F N O } _ { 2 } \mathrm { P h e }$ $\mathrm { G F P 9 5 F N O } _ { 2 } \mathrm { P h e }$ and $\mathrm { G F P 1 7 F N O _ { 2 } F }$ he are given in Figure S9,and the time-dependent concentrations of transient species and species associated difference spectra (SADS）are also extracted based on the samekinetic model as shown in Scheme S2.The fitted time constants of these GFP mutants are also listed in Table S2.In order to show the quality of fitting,kinetics at several selected wavelengths are plotted together with a global fit of all the collected time traces (Figure S10).
+
+Based on the electron transfer time constants $( \tau _ { \mathrm { E T } } )$ of GFP$\mathrm { F N O } _ { 2 }$ Phe mutants obtained from the fitting procedure (see $\tau _ { \mathrm { E T } } \mathrm { , }$ 0.56 GFP149FNO2Phe gives the shortest electron transfer time constant of 1l ps,which corresponds to an electron transfer rate constant of $9 . { \overset { \mathrm { ~ \bar { } { 0 } 9 } } { \ } } \times \ 1 0 ^ { 1 0 } \ \mathrm { s ^ { - 1 } }$ The ET rate constants of （ $\mathrm { \Delta G F P 1 5 1 F N O _ { 2 } P h \epsilon }$ ， $\mathrm { G F P 1 7 F N O } _ { 2 } \mathrm { P h }$ e，and $\mathrm { \Delta _ { G F P 9 5 F N O _ { 2 } F } }$ he were slower,at $1 . 3 7 \times 1 0 ^ { 1 0 } ,$ $5 . 4 6 \times 1 0 ^ { 9 } ;$ and $3 . 9 5 \times 1 0 ^ { 9 } \ s ^ { - 1 } ,$ respectively. The edge-to-edge distance from the GFP chromophore to residue $\mathrm { F N O } _ { 2 }$ Phe 151 was $1 0 . 3 \ \mathring { \mathrm { A } } ,$ according to the $\mathrm { G F P 1 5 1 F N O _ { 2 } P h e }$ structure (Figure 2). Edge-to-edge distances from the GFP chromophore to residues $\mathrm { F N O } _ { 2 } \mathrm { P h e } 1 4 9 _ { ; }$ （2 $\mathrm { F N O } _ { 2 } \mathrm { P h e } 1 7 .$ and $\mathrm { F N O } _ { 2 } \mathrm { P h e } 9 5$ were estimated by measuring the shortest distance between the GFP chromophore and the $\beta \mathrm { . }$ carbons of residues Asnl49,Glul7，and Glu95，respectively (Figure 2).57-60 Taken together these results demonstrate that PET from the GFP chromophore to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ can occur and that the rate of PET decreases exponentiallyas distance increases (Table 1).57 The distance decay factor $\overset { \cdot } { ( \beta = 0 . 9 \mathrm { \AA } ^ { - 1 } ) }$ is close to that of a single-step tunneling reaction (Figure S11).58,59
+
+Figure SiO and Table 1),we are able to calculate the electron transfer rate from the GFP chromophore to $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ 1 $\left. k _ { \mathrm { E T } } = 1 / \right.$   
+Table1.Distance-Dependent Electron Transfer Rate of wtGFP and Mutants   
+
+<html><body><table><tr><td> mutant</td><td>TEt (ps)</td><td>distance (A)</td><td>kEt (s-1)</td><td></td></tr><tr><td>GFP149FNO2Phe</td><td>11 ± 0.55</td><td>8.8</td><td>(9.09 ± 0.45) × 1010</td><td></td></tr><tr><td>GFP151FNO2Phe</td><td>73 ± 3.5</td><td>10.3</td><td>(1.37 ± 0.07) × 10</td><td></td></tr><tr><td>GFP95FNO2Phe</td><td>183 ± 11</td><td>11.7</td><td>(5.46 ± 0.33) × 109</td><td></td></tr><tr><td>GFP17FNO2Phe</td><td>253 ±13</td><td>12.9</td><td>(3.95 ± 0.20) × 109</td><td></td></tr></table></body></html>
+
+In conclusion, we have demonstrated the genetic incorporation of $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ as an efficient electron accepting probe, which has reduction potential similar to that of iron-sulfur clusters and $\mathrm { { N A D } ( P ) \hat { H } }$ ，This new probe is well-suited for investigating electron transfer mechanism for reductases,such as photosystem I，hydrogenase，sulfite(nitrite）reductase，and nitrogenase,thus facilitating the design of miniature proteins mimicking their functions.In these complex enzymes,multistep electron hopping through iron-sulfur clusters is employed to optimize electron transfer rates. Since it is difficult to incorporate iron-sulfur cluster in designed metalloenzymes,1 the genetically coded $\mathrm { F N O } _ { 2 }$ Phe may provide a suitable alternative for designing complex metalloeznymes. The fluorine atom on $\mathrm { F N O } _ { 2 } \mathrm { P h e }$ should also be helpful for EPR and NMR assignments for electron transfer studies.
+
+Using this new method and femtosecond transient absorption measurement,we demonstrated that photoinduced electron transfer (PET） between green fluorescent protein (GFP) chromophore and protein-bound electron acceptor can occur rapidly,within 11 ps,suggesting that GFP may be optimized for PET reaction.
+
+# ASSOCIATEDCONTENT
+
+# $\otimes$ Supporting Information
+
+Methods.This material isavailable free of charge via the The Supporting Information is available free of charge on the ACS Publications website at DOI:10.1021/jacs.Sb03652.
+
+# AUTHORINFORMATION
+
+Corresponding Authors   
+\*andong@iccas.ac.cn   
+\*jwang@ibp.ac.cn   
+Author Contributions   
+These authors contributed equally to this work.
+
+Notes The authors declare no competing financial interest.
+
+# ACKNOWLEDGMENTS
+
+We gratefully acknowledge the Major State Basic Research Program of China (2015CB856203)，the National Science Foundation of China (21325211,91313301,21333012),CAS grant (KJZD-EW-Lo1), Innovation Fund For Technology Based Firms（14C26211100178） and Tianjin Municipal Grant (Y1M6101241).We thank Xiang Ding at the Core Facility for Protein Research, CAS for MS spectrum.
+
+# REFERENCES
+
+(1)Wasielewski, M.R. Chem.Rev.1992,92,435.   
+(2) Moser, C.C.; Keske,J. M.; Warncke,K.; Farid, R S.; Dutton, P.L.   
+Nature 1992,355,796.   
+(3) Migliore,A.; Polizzi,N.F.; Therien,M.J.; Beratan,D.N.Chem.Rev.   
+2014, 114, 3381.   
+(4) Cordes,M.; Giese,B. Chem. Soc.Rev.2009,38,892.   
+(S)Winkler,J.R;Gray,H.B.Chem.Rev.2014,14,69.   
+(6)Barber,J;ersson.Nure99470,1.   
+(7) Schultz,D.M.; Yoon,T.P.Science 2014,343,985.   
+(8) Skourtis,S.S.; Beratan,D.N. Science 2007,316,703.   
+(9) Wang, H.Y.; Lin,S.; Allen,J.P.; Williams,J. C.; Blankert,S.; Laser, C.; Woodbury,N.W. Science 2007,316,747.   
+(10) Genereux,J. C.; Barton,J. K Chem. Rev.2010,110,1642.   
+(11) Hammes-Schiffer, S.; Stuchebrukhov,A.A. Chem.Rev.2010,110, 6939.   
+(12) Giese,B.; Graber,M.; Cordes, M. Curr. Opin. Chem. Biol. 2008, 12,755.   
+(13）Merino,E.J.; Boal,A. K.； Barton,J.K. Curr. Opin.Chem.Biol.   
+2008,12,229.   
+(14) Seefeldt,L.C.; Hoffman, B.M.; Dean, D.R. Curr. Opin. Chem.   
+Biol. 2012, 16,19.   
+(15)Balzani,V.; Credi,A.; Venturi,M. Curr. Opin. Chem. Biol.1997,1, 506.   
+(16)Boekema,E.J.;van Breemen,J.F.; van Roon,H.;Dekker,J.P.   
+Biochemistry 2000,39,12907.   
+(17）Stewart,D.H.；Nixon,P.J.；Diner，B.A.；Brudvig,G.W.   
+Biochemistry 2000,39,14583.   
+(18) Vasil'ev, S.; Bruce,D.Biochemistry 20oo,39,14211.   
+(19) Liu, Z.; Tan, C.; Guo,X.; Li,J.; Wang,L.; Sancar,A.; Zhong,D.   
+Proc.Natl. Acad. Sci. U.S.A.2013,1i0,12966.   
+(20) Liu, Z.; Zhang,M.; Guo,X.; Tan,C.; Li,J.; Wang,L.; Sancar,A.;   
+Zhong,D.Proc.Natl.Acad.Sci. U.S.A.2013,110,12972.   
+(21) Shih,C.; Museth,A.K.; Abrahamsson,M.; Blanco-Rodriguez,A.   
+M.; Di Bilio,A.J.; Sudhamsu, J.; Crane, B.R; Ronayne,K.L.; Towrie, M.; Vlcek,A; Richards,J.H.; Winkler,J.R; Gray,H. B. Science 2008, 320,1760.   
+(22）Doose,S.; Neuweiler,H.； Sauer,M. ChemPhysChem 2009,10, 1389.   
+(23) Dutta,P.K.; Lin,S.; Loskutov,A.; Levenberg,S.; Jun,D.; Saer,R;   
+Beatty,J. T.; Liu,Y.; Yan, H.; Woodbury,N.W.J. Am. Chem. Soc. 2014, 136,4599.   
+(24) Gritsch，P.J.；Leitner， C.；Pfaffenbach，M.； Gaich，T.Angew.   
+Chem., Int.Ed.2014,53,1208.   
+(25) Osyczka,A.; Moser,C.C.; Daldal, F.; Dutton,P.L. Nature 2004, 427, 607.   
+(26) Mayo,S.L.; Ellis,W.R; Crutchley,R.J.; Gray,H.B.Science 1986, 233, 948.   
+(27）Park,J. S.； Karnas,E.； Ohkubo,K.； Chen,P.； Kadish,K M.;   
+Fukuzumi, S.; Bielawski, C.W.; Hudnal, T.W.; Lynch,V.M.; Sessler,J.   
+L. Science 2010, 329,1324.   
+(28) Beinert,H.; Holm,R H.; Munck,E. Science 1997,277,653.   
+(29)Liu,J.；ChakrabortyS.；Hosseinzadeh,P.; Yu,Y.；Tian,.L;   
+Petrik,L; Bhagi,A; Lu,Y.Chem.Rev.2014,114,4366.   
+(30)Rivalta, I.; Brudvig, G.W.; Batista,V. S. Cur. Opin. Chem. Biol.   
+2012, 16, 11.
+
+(31) Tobin,P.H.; Wilson, C.J.J.Am. Chem. Soc.2014,136,1793. (32) Yu,F.T.; Penner-Hahn,J.E.; Pecoraro, V.L. J.Am. Chem.Soc. 2013,135,18096. (33)J J. FraustódaSilva, Williams,R.J.P.TheBiological Chemistryof the Elements; Oxford University Press: Oxford,U.K.,2001. (34)Liu,J.; Meier,K K; Tian,S.L.; Zhang,J.LGuo,H.C.;Schulz,C. E.; Robinson,H.; Nilges,M.J.; Munck,E.;Lu,Y.J.Am.Chem.Soc.2014, 136,12337. (35） Bhagi-Damodaran,A.; Petrik, I.D.; Marshal, N.M.; Robinson, H; Lu,Y.J.Am. Chem. Soc.2014,136,11882. (36)Liu,J.; Chakraborty,S.; Hosseinzadeh,P.;Yu,Y.; Tian,S.;Petrik, L; Bhagi,A; Lu,Y. Chem.Rev.2014,114,4366. (37) Gaetke,L. M.; Chow, C.K. Toxicology 2003,189,147. (38) Minnihan,E. C.; Young, D.D.; Schultz, P. G.； Stubbe,J. J.Am. Chem. Soc.2011,133,15942. (39)Alfonta,L.; Zhang, Z.W.; Uryu, S.; Loo,J.A; Schultz,P.G. J. Am. Chem. Soc.2003,125,14662. (40) Liu, X. H.; Jiang,L.; Li, J. S.; Wang,L.; Yu, Y.; Zhou, $\mathrm { Q . ; }$ Lv, X.; Gong,W.; Lu,Y.; Wang, J.Y.J.Am. Chem. Soc.2014,136,13094. (41) Liu, X.H.; Li, J.; Dong, J.; Hu,C.; Gong, W.; Wang, J. Angew. Chem.Int.Ed.2012,S1,10261. (42)Rae,T.D.; Schmidt,P.J.; Pufahl,R.A.; Culotta,V.C.; O'Halloran, T.V. Science 1999,284, 805. (43)Hastings,G.; Kleinherenbrink, F.A. M.; Lin, S.; Mchugh,T.J; Blankenship,R.E.Biochemistry 1994,33,3193. (44)Dunnivant,F.M.; Schwarzenbach,RP.; Macalady,D.L.Environ. Sci. Technol. 1992, 26,213. (45) Tsao,M.L.; Summerer,D.; Ryu, Y.; Schultz,P.G.J.Am. Chem. Soc. 2006,128,4572. (46)Peters,F.B.; Brock,A.; Wang,J.; Schultz,P.G. Chem. Biol.2009, 16, 148. (47)Wang,Y.S.; Fang,X; Chen,H.Y.; Wu,B.; Wang,Z.U.; Hilty,C.; Liu,W. R ACS Chem. Biol. 2013,8, 405. (48)Vergne, C.; BoisChoussy,M.; Ouazzani,J.; Beugelmans,R; Zhu, J. P. Tetrahedron: Asymmetry 1997,8,391. (49) Wang,J.; Zhang, W.; Song,W.; Wang, Y.; Yu, Z.; Li,J.; Wu, M.; Wang,L; Zng,J;in,JAm.Chem.c.1. (S0) Kennis,J.T.; Larsen, D.S.; van Stokkum,I. H.; Vengris,M.; van Thor,J.J;van Grondele,R Proc.Natl.Acad.Sci.US.A20001 17988. (51) Leiderman, P.; Genosar,L.; Huppert, D.; Shu, X.; Remington, S. J.; Solntsev,K.M.; Tolbert,L.M.Biochemistry 2007,46,12026. (52) Shi,X.; Abbyad,P.; Shu,X.; Kallio,K.; Kanchanawong,P.; Childs, W.;Remingt.J;oe.G.cemistr4614 (53)Kennis,J.T.M.;van Stokkum, I.H.M.; Peterson,D.S.; Pandit, A.;Wachter,R.M.J.Phys. Chem.B 2013,117,11134. (54) van Wilderen,L.J. G.W.; Lincoln,C.N.; van Thor,J.J.PLoS One 2011, 6, e17373. (S5) Compton,R G.; Dryfe,R A.W.; Fisher,A. C.J.Chem. Soc.,Perk. Trans. 1994, 1581. (56) Hay,S.; Wallace,B.B.; Smith, T.A.; Ghiggino,K.P.; Wydrzyski, T.Proc.Natl.Acad.Sci.UA.24,7675. (57) Gray,H. B.; Winkler,J. R. Biochim. Biophys.Acta 2010,1797, 1563. (58)Page, C.C.; Moser, C.C.; Chen,X.X.; Dutton,P.L. Nature 1999, 402, 47. (59)Marcus,R.A.J.Chem.Phys.1956,24,966. (60) Gray,H.B.; Winkler,J.R. Q.Rev.Biophys.2003,36,341. (61) Hu, C.; Chan,S.I; Sawyer,E.B.; Yu,Y.; Wang,J. Y. Chem. Soc. Rev. 2014,43,6498.

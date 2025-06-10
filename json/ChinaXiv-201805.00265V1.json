@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "地空信道基于OFDM/OQAM系统的波形自适应算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李环宇1,²，杨超1，李燕龙1,2，王波1,2(1.桂林电子科技大学 认知无线电与信息处理省部共建教育部重点实验室，广西 桂林 541004;2.中国电子科技集团公司第54研究所 通信网信息传输与分发技术重点实验室，石家庄050081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统的正交频分复用/偏移正交幅度调制（OFDM/OQAM）系统波形自适应设计主要针对具有非指数型时延功率谱和非U型多普勒功率谱的信道模型对波形进行优化，而实际中，波形自适应设计会因不同的信道模型产生不同的信道匹配准则系数。结合地空信道模型和扩展高斯函数的特性，在传统基于信干噪比 SINR优化的OFDM/OQAM系统波形自适应算法的基础上提出一种新的 OFDM/OQAM 系统波形自适应设计算法。该算法引入信道匹配系数 β，通过信道匹配准则建立波形时频域间隔与信道最大多径时延、最大多普勒频移的关系，再结合传统 SINR优化函数计算扩展因子参数，将参数反馈给发送端并调整发送端和接收端的滤波器达到波形自适应的目的。仿真结果表明，4QAM和16QAM调制下，信道匹配系数 $\\beta$ 的引入在系统误码性能上均有1.0dB以上的改善。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地空信道；OFDM/OQAM；波形自适应算法；扩展高斯函数 中图分类号：TN92 doi:10.3969/j.issn.1001-3695.2017.07.0883 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Waveform adaptive algorithm for OFDM/OQAM system under air-ground channel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Huanyu1,2, Yang Chao1, Li Yanlong1,2†, Wang Bo1, 2 (1.KeyLaboratoryofCognitive Radio&Information Procesing Information Processing,Guilin Universityof Electronic Technology，GuilinGuangxi 541o04,China;2.Science&Technologyon Information Transmision&Disseminationin Communication Networks Laboratory，The 54th Research Institute of China Electronics Technology Group Corporation, Shijiazhuang 050081, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The conventional adaptive waveform design of orthogonal frequency division multiplexing／ofset quadrature amplitude modulation (OFDM/OQAM)system are mainly forthechannel modelofnon-exponential-type delay powerspectrum and non-U-type Doppler power spectrum. However, waveformadaptive design results indiferent channel matching criterion coeffcients duetodiferentchanelmodelsinpractice.Therefore,this paperdisusses thecharacteristicsof groundairchael model and extended Gaussfunction and proposes anew OFDM/OQAM waveform adaptive algorithmbased on the traditional SINR-adaptive waveform design. In this algorithm,a matching coeficient $\\beta$ is introduced into the traditional waveform matching criterion,which establishes therelation between the time-frequency domain and the maximum multipath delay-Doppler frequencyshiftof the waveform.Combined with the traditional optimization functionof SINR,the parameters of the pulse shaping filterareoptimizedand then fedback tothetransmiter toadjustthe filterbanks atthetransmiterandreceiver. Simulation results show that,under the modulation of 4QAM and 16QAM,the channel matching coefficient $\\beta$ has an improvement of 1.0 dB or more in the system error performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: air-ground channel; OFDM/OQAM; Waveform adaptive algorithm; extended Gauss function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "multiplexing，OFDM/OQAM）技术通过引入时频聚焦特性良好的原型脉冲滤波器——EGF 函数（extended Gussian function,EGF)，使系统在无循环前缀(cyclic prefix,CP)的条件下兼具良好的抗ISI（inter symbol interference）和ICI（inter carrier",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为5G物理层备选调制方案之一，OFDM/OQAM（offsetquadrature modulation based orthogonal frequency divisioninterference）能力。同时，EGF函数具备时频可调特性，系统可以设计合适的脉冲成型函数以更好地抵抗ISI和ICI干扰。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，波形自适应脉冲成型函数设计方法分为两类，一类是结合滤波器自身特性优化滤波器参数。LS（least-squares）算法[1]、Minimax（minimize the maximum stopband ripple）算法[1]和干扰能量最小化算法[2.3]等通过利用频域上最小化滤波器旁瓣干扰的方法来优化OFDM/OQAM脉冲成型函数，TFL优化（time-frequencylocalization optimization）算法[4]通过优化描述滤波器时频聚焦性能Heisenberg参数来设计脉冲成型函数。然而，此类方法没有结合实际信道，不适用于广义平稳非相关散射信道（wide sense stationary uncorrelated scattering，WSSUS）信道的波形自适应算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第二类方法是结合信道特性通过优化信干噪比（Signal tointerference noiseratio，SINR）获取最优化滤波器参数。Kozek等人提出了非正交成型脉冲的设计思路[5]，并在滤波器和信道特性之间给出一种信道匹配准则；Schafhuber 等人提出了信干噪比优化的方法[，但没有结合波形匹配准则设计脉冲函数;文献[7,8]从信道散射函数出发，结合波形匹配准则将WSSUS信道分为两种模型：具有均匀时延功率谱、均匀的多普勒功率谱特征和具有指数型时延功率谱、 $U$ 型多普勒功率谱特征的时频双衰信道，重新确定了两种模型下的波形匹配准则；文献[9]在DVB-T（digitalvideo broadcasting）信道和DRM（digital radiomondial)信道模型下验证WSSUS信道下的信干噪比优化算法；文献[10]通过模糊函数来分析成型脉冲函数的能量聚焦性，阐明模糊函数对波形自适应算法中滤波器扩展因子的影响；Goto结合具有均匀时延功率谱和均匀多普勒功率谱的WSSUS信道模型并证明散射函数为常量[1I]，通过模糊函数能量聚焦特性来设计成型脉冲函数。然而，上述文献均在OFDM系统下设计波形自适应算法，没有结合OFDM/OQAM系统特性，OFDM/OQAM系统波形自适应设计会因时频格点关系式、信道模型和EGF滤波器而产生不同的信道匹配准则系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文提出一种OFDM/OQAM系统波形自适应算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该算法结合EGF滤波器和地空信道模型，在OFDM/OQAM系统中给出WSSUS信道模型的信道匹配系数 $\\beta$ 及信噪干比优化二元函数 $S I N R ( \\beta , \\alpha )$ ，通过该函数计算最优化信干噪比$S I N R _ { \\operatorname* { m a x } } ( \\beta , \\alpha )$ 和其优化匹配系数 $\\beta _ { o p t }$ 、优化扩展因子 $\\alpha _ { o p t }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 信道模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WSSUS信道模型是移动通信中时变多径信道的常用模型。其在时延域 $\\tau$ 和多普勒频移域 $\\upsilon$ 上具有非相关特性，在时间域$t$ 和频率域 $f$ 上具有广义平稳特性[12]，二阶统计特性可由散射函数 $\\boldsymbol { S } _ { H } \\left( \\boldsymbol { \\tau } , \\ \\upsilon \\right)$ 确定。现已有研究者在OFDM系统波形自适应研究下将WSSUS信道分为两种模型[7-8]:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型1具有均匀型时延功率谱和均匀型多普勒功率谱的时频双衰信道。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { H } \\left( \\tau , \\mathbf { \\lambda } \\nu \\right) = \\frac { 1 } { 2 \\tau _ { \\mathrm { m a x } } \\upsilon _ { \\mathrm { m a x } } } , 0 \\leq \\tau \\leq \\tau _ { \\mathrm { m a x } } , - \\upsilon _ { \\mathrm { m a x } } \\leq \\upsilon \\leq \\upsilon _ { \\mathrm { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型 2具有指数型时延功率谱和 $U$ 型多普勒功率谱的时频双衰信道。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { H } \\left( \\tau , \\nu \\right) = \\frac { e ^ { - \\frac { \\tau } { \\tau _ { \\mathrm { m a x } } } } \\cdot \\frac { 1 } { \\pi \\upsilon _ { \\mathrm { m a x } } } } { \\tau _ { \\mathrm { m a x } } \\sqrt { 1 - \\frac { \\upsilon ^ { 2 } } { \\upsilon _ { \\mathrm { m a x } } ^ { 2 } } } } , \\tau > 0 , - \\upsilon _ { \\mathrm { m a x } } \\leq \\upsilon \\leq \\upsilon _ { \\mathrm { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tau _ { \\mathrm { m a x } }$ 表示信道的最大多径时延， $\\upsilon _ { \\mathrm { m a x } }$ 表示最大多普勒频移。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的地空信道统计特性[13,14]如表1所示。其中，$1 / \\tau _ { \\mathrm { s l o p e } }$ 表示延时斜率， ${ { \\varphi } _ { L } }$ 和 $\\varphi _ { H }$ 分别表示飞行器到达最低和最大俯仰角。停场（Parking）状态衰落服从Rayleigh分布，多普勒和时延功率谱采用COST207标准建议的典型市区环境；滑行（Taxi）状态衰落服从Rician分布，多普勒和时延功率谱采用COST207标准建议的乡村环境；飞行（En-Route）和到达（Arrival）状态服从Rician分布。表1给出的时延功率谱函数均服从指数型分布，多普勒功率谱函数均服从 $U$ 型分布，根据上述WSSUS信道模型可知地空信道属于模型2。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/77c5385ffae450e4201f132f9baecf4ab1b427c459586e52178d48e6866ce1a2.jpg",
+        "table_caption": [
+            "表1地空信道统计特性表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>信道状态</td><td colspan=\"4\">时延功率谱</td></tr><tr><td rowspan=\"2\">Parking</td><td rowspan=\"2\">P(t)=Tslope(1-e</td><td colspan=\"3\">多普勒功率谱 1 mif<≤Txs=</td></tr><tr><td></td><td>P(U)=πmax√1-(u/Umx)²</td><td>iflu|<Umax</td></tr><tr><td rowspan=\"3\">Taxi</td><td></td><td>0, else if0<τ≤Tmax slop =1/9.2 μs</td><td></td><td>0, else 1</td><td></td></tr><tr><td>P(τ)={ Tsope</td><td>(1-eTmx/tsope</td><td></td><td>P(v)=πvmax√1-(u/Umax)</td><td>iflu|<Umax</td></tr><tr><td>0,</td><td>else</td><td>0,</td><td></td><td>else</td></tr><tr><td>En-Route</td><td></td><td>Two-ray</td><td>P(U)=(φH-φ)Umax√1-(v/vmax)²</td><td>1</td><td>ifUmax cos φH<D<Umax Cos φL</td></tr><tr><td rowspan=\"3\">Arrival</td><td></td><td></td><td></td><td>0,</td><td>else</td></tr><tr><td>P(τ)=</td><td>if0<τ≤TmaxTslope =1μs xTslope</td><td>P(v)=πvmax√1-(v/vmax)²</td><td>1</td><td>if0<v<vmax</td></tr><tr><td>0,</td><td>else</td><td></td><td>0,</td><td>else</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 波形自适应设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1OFDM/OQAM系统模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EGF 滤波器的引入使得OFDM/OQAM系统在无CP的条件下兼具良好的抗ISI和ICI能力。因此本文把波形自适应算法研究建立在OFDM/OQAM系统[15]基础上。由于EGF 滤波器具有仅满足实数域正交的特性，OFDM系统必须采用OQAM的调制方式，OFDM符号分为实虚两路传输。假设 $T$ 为OFDM符号周期， $\\upsilon _ { 0 }$ 和 $\\tau _ { \\scriptscriptstyle 0 }$ 分别表示频域上子载波间隔和时域上相邻OQAM实值符号的时间偏移，则系统时频表达式如式（3）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\upsilon } _ { 0 } { \\tau } _ { 0 } { = } { \\upsilon } _ { 0 } \\bullet \\frac { T } { 2 } { = } \\frac { 1 } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时域OFDM/OQAM系统的等效基带传输信号如式（4）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( t ) = \\sum _ { n = - \\infty } ^ { + \\infty } \\sum _ { m = 0 } ^ { M - 1 } a _ { m , n } \\underbrace { e ^ { j { \\frac { \\pi } { 2 } } ( m + n ) } e ^ { j 2 \\pi m { \\nu _ { 0 } } t } g ( t - n \\tau _ { 0 } ) } _ { g _ { m , n } ( t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $M$ 表示系统子载波的数目， $a _ { m , n }$ 表示第 $\\mathbf { \\nabla } _ { m }$ 个子载波上的第 $n$ 个OFDM/OQAM实值符号。 $g _ { m , n } ( t )$ 表示时频格点 $( m , n )$ （204号第 $m$ 个子载波第 $n$ 个符号的滤波器基函数， $g ( t )$ 为成型脉冲函数，即EGF函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实数域正交性通过发送滤波器基函数和接收滤波器基函数的内积表示如式（5）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left. g _ { m , n } , g _ { m _ { 0 } , n _ { 0 } } \\right. _ { \\mathbb { \\Re } } = \\left\\{ \\int g _ { m , n } ( t ) g _ { m _ { 0 } , n _ { 0 } } ( t ) d t \\right\\} _ { \\mathbb { \\Re } } = } \\\\ & { \\left\\{ j ^ { m + n - m _ { 0 } - n _ { 0 } + ( m - m _ { 0 } ) ( n _ { 0 } + n ) } \\bullet A _ { g ( \\alpha ) } [ ( n _ { 0 } - n ) \\tau _ { 0 } , ( m - m _ { 0 } ) \\upsilon _ { 0 } ] \\right\\} _ { \\mathbb { \\Re } } = \\delta _ { m , m _ { 0 } } \\delta _ { n , n _ { 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { < ^ { \\bullet } , ^ { \\bullet } > }$ 表示内积操作， $\\Re$ 表示取实操作， $\\delta _ { m , m _ { 0 } }$ 表示Kronecker 内积，且当 $m = m _ { 0 } , n = n _ { 0 }$ 时， $\\delta _ { m , m _ { 0 } } \\delta _ { n , n _ { 0 } } \\mathopen { } \\mathclose \\bgroup = \\bgroup 1$ ，实数域正交条件为实数符号，否则为虚数符号。 $A _ { g ( \\alpha ) } ( \\tau , \\upsilon )$ 表示EGF滤波器模糊函数， $\\alpha$ 为滤波器扩展因子。其表达式如式（6)：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { g ( \\alpha ) } ( \\tau , \\upsilon ) = \\int g ( t + \\frac { \\tau } { 2 } ) g ^ { * } ( t - \\frac { \\tau } { 2 } ) e ^ { j 2 \\pi \\upsilon t } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2本文提出的波形自适应算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WSSUS 信道具有时频域快速衰落的特征，OFDM/OQAM系统需要实时适应信道变化的EGF 滤波器。EGF 滤波器具备时频可调特性，因此波形自适应设计在WSSUS信道中尤为重要，波形自适应算法设计框架图如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65867b0d372da14bba5ef98471f0abc5e805d4722efe263bd91831a030b1690b.jpg",
+        "img_caption": [
+            "图1波形自适应算法设计框架图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，信源产生二进制随机信息序列，经过调制模块后进入信道进行数据传输。接收端通过信道估计获取信道最大多径时延和最大多普勒频移参数，利用波形自适应算法模块计算滤波器参数并在反馈链路中传送给发射端，然后由发送端根据反馈参数调整发送端和接收端脉冲成型函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[5]在滤波器函数和信道特性之间给出一种信道匹配准则：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { W _ { f } } { W _ { t } } \\approx \\frac { \\upsilon _ { 0 } } { \\tau _ { 0 } } \\approx \\frac { \\upsilon _ { \\mathrm { { m a x } } } } { \\tau _ { \\mathrm { { m a x } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $w _ { t }$ 和 $W _ { f }$ 表示滤波器的时频能量分配参数，描述了滤波器能量沿时间轴和频率轴的散布情况。 $\\tau _ { \\mathrm { m a x } }$ 表示信道的最大多径时延， $\\upsilon _ { \\mathrm { m a x } }$ 表示最大多普勒频移。信道匹配准则决定于滤波器函数和信道特性等，例如，在基于高斯滤波器的OFDM系统中，信道模型1产生的信道匹配系数为1，信道模型2则为$2 / 3 ^ { [ 7 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文结合地空信道模型将模型2用于OFDM/OQAM系统波形自适应算法，引入波形匹配系数 $\\beta$ ，用于确定EGF函数和信道特性的匹配关系。则式（7）可以改写为式（8)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cfrac { W _ { f } } { W _ { t } } = \\frac { \\upsilon _ { 0 } } { \\tau _ { 0 } } = \\frac { 1 } { \\beta } \\frac { \\upsilon _ { \\operatorname* { m a x } } } { \\tau _ { \\operatorname* { m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过信道估计可以获取 $\\tau _ { \\mathrm { m a x } }$ 和 $\\upsilon _ { \\mathrm { m a x } }$ ，波形时频间隔 $\\tau _ { 0 }$ 和 $\\upsilon _ { 0 }$ 可以表示成 $\\beta .$ ， $\\tau _ { \\mathrm { m a x } }$ 和 $\\upsilon _ { \\mathrm { m a x } }$ 的关系式。根据式（3）和（8）可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { r } { \\left\\{ \\tau _ { 0 } = \\sqrt { \\displaystyle \\frac { \\beta } { 2 } } \\bullet \\sqrt { \\displaystyle \\frac { \\tau _ { \\mathrm { m a x } } } { \\upsilon _ { \\mathrm { m a x } } } } \\right.} \\\\ { \\upsilon _ { 0 } = \\sqrt { \\displaystyle \\frac { 1 } { 2 \\beta } } \\bullet \\sqrt { \\displaystyle \\frac { \\upsilon _ { \\mathrm { m a x } } } { \\tau _ { \\mathrm { m a x } } } } } \\end{array}   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在信干噪比SINR优化波形自适应设计方法中，信干噪比表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I N R = \\frac { \\sigma _ { S } ^ { 2 } } { \\sigma _ { I N } ^ { 2 } } = \\frac { E _ { S } \\int _ { \\upsilon } \\int _ { \\tau } S _ { H } \\left( \\tau , \\upsilon \\right) \\bigg | A _ { g ( \\alpha ) } \\left( \\tau , \\upsilon \\right) \\bigg | ^ { 2 } d \\tau d \\upsilon } { E _ { S } \\underset { ( m , n ) \\neq ( 0 , 0 ) } { \\sum } \\int _ { \\upsilon } \\int _ { \\tau } S _ { H } \\left( \\tau , \\upsilon \\right) \\bigg | A _ { g ( \\alpha ) } \\left( n \\tau _ { 0 } + \\tau , m \\upsilon _ { 0 } + \\upsilon \\right) \\bigg | ^ { 2 } d \\tau d \\upsilon }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：Es=E $E _ { S } { = } E \\left\\{ \\left| a _ { m , n } \\right| ^ { 2 } \\right\\}$ 为实值符号的能量， $s _ { H } ( \\tau , \\upsilon )$ 为信道散射函数(采用模型2)， $A _ { g ( \\alpha ) } ( \\tau , \\upsilon )$ 为 EGF 滤波器的模糊函数值。一般地，OFDM/OQAM系统由于应用了时频聚焦性能较好的EGF滤波器，期望符号的ISI和ICI干扰一般来自于相邻符号，即 $( m , n ) = ( \\pm 1 , 0 ) , \\left( 0 , \\pm 1 \\right)$ 。综上，式（10）可以表示为式（11）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "滤波器模糊函数 $A _ { g } ( \\tau , \\upsilon )$ 如式（6）所示；EGF滤波器函数表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle z _ { \\alpha ^ { * } , \\nu _ { 0 } , \\tau _ { 0 } } = \\frac { 1 } { 2 } \\{ \\sum _ { k = 0 } ^ { + \\infty } d _ { k , \\alpha ^ { * } , \\nu _ { 0 } } [ g _ { \\alpha ^ { * } } ( t + \\frac { k } { \\nu _ { 0 } } ) + g _ { \\alpha ^ { * } } ( t - \\frac { k } { \\nu _ { 0 } } ) ] \\} } } \\\\ { { \\displaystyle \\times \\sum _ { l = 0 } ^ { + \\infty } d _ { l , 1 / \\alpha ^ { * } , \\tau _ { 0 } } \\cos ( 2 \\pi l t / \\tau _ { 0 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $0 . 5 2 8 \\nu _ { 0 } ^ { 2 } \\leq \\alpha ^ { * } \\leq 7 . 5 6 8 \\nu _ { 0 } ^ { 2 }$ ， $d _ { { \\boldsymbol { k } } , { \\boldsymbol { \\alpha } } ^ { * } , \\nu _ { 0 } }$ 为实系数， $g _ { \\alpha ^ { * } }$ 为高斯函数。对于IOTA 函数， $\\alpha ^ { * } { = } 1 \\ ^ { , } ~ \\nu _ { 0 } { = } \\tau _ { 0 } { = } 1 / \\sqrt { 2 }$ 。该函数的各向同性特性使其在时频域具有等效的衰减特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea8842649ec999c4e71fcec436c33163b0825a4eb61248331635ae9946647d7b.jpg",
+        "img_caption": [
+            "图2波形自适应算法设计流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，波形自适应算法设计流程图如图2所示。根据式(11)可知，SINR是关于波形匹配系数 $\\beta$ 和滤波器扩展因子 $\\alpha ^ { * }$ 的二元表达式，即 $S I N R ( \\beta , \\alpha ^ { * } )$ 。通过计算 $S I N R _ { \\operatorname* { m a x } } ( \\beta , \\alpha ^ { * } )$ 对应的(βp,αopr）即可得到适合当前信道模型的优化EGF 滤波器参数，将参数反馈给发送端调整发送端和接收端的滤波器组达到波形自适应的目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节将在地空信道下对比IOTA滤波器、不含 $\\beta$ 的脉冲成型函数（以下简称classical-EGF）和含 $\\beta$ 的脉冲成型函数（以下简称 $\\beta$ -EGF对系统性能的影响。系统参数设置如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地空信道模型[13]参数通过SPIRENT-VR5空间信道仿真仪设置。在时间-频率双选择性衰落信道下的基于Weyl-Heisenberg 框架的无线多径传输系统[10]中，随着QAM阶数的增加，频谱效率提高但系统性能会变差。因此本文在频谱效率和系统性能之间取了折中值4QAM和16QAM。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0e5dd248320f4561a7eb4b86234d569f7dd532393001f1f9934560703430397.jpg",
+        "table_caption": [
+            "表2系统参数设置表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名称</td><td>设置值</td></tr><tr><td>系统带宽</td><td>20MHz</td></tr><tr><td>载波频率</td><td>2.4GHz</td></tr><tr><td rowspan=\"2\">码元速率</td><td>24.99Mbps(4QAM)</td></tr><tr><td>49.99Mbps(16QAM)</td></tr><tr><td>采样频率</td><td>20MHz</td></tr><tr><td>符号数目</td><td>10</td></tr><tr><td>子载波数目</td><td>1024</td></tr><tr><td>子载波间隔</td><td>19.53kHz</td></tr><tr><td>均衡算法</td><td>迫零均衡</td></tr><tr><td>星座映射方式[10]</td><td>4QAM，16QAM</td></tr><tr><td rowspan=\"2\">信噪比设置</td><td>SNR=0:3:15（4QAM)</td></tr><tr><td>SNR=0:5:30(16QAM)</td></tr><tr><td>滤波器重叠因子</td><td>4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在给定滤波器扩展因子 $\\alpha ^ { * }$ 的范围 $\\left( \\phantom { } 0 . 5 2 8 \\nu _ { 0 } ^ { 2 } \\leq \\alpha ^ { * } \\leq 7 . 5 6 8 \\nu _ { 0 } ^ { 2 } \\phantom { } \\right)$ 和波形匹配系数 $\\beta$ 范围（ $1 \\leq \\beta \\leq 2$ ）的情况下，对信干噪比SINR(β,α\\*)的仿真结果如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { S I N R ( \\beta , \\boldsymbol { \\alpha } ^ { * } ) = } } \\\\ & { } & { \\frac { \\int _ { b } \\int _ { \\tau } S _ { H } ( \\tau , \\boldsymbol { v } ) | A _ { g ( \\boldsymbol { \\alpha } ) } ( \\tau , \\boldsymbol { v } ) | ^ { 2 } d \\tau d \\nu } { ( m , n ) = \\overset { \\sum } { ( \\pm 1 , 0 ) , ( 0 , \\pm 1 ) } | b | _ { \\tau } \\tau } s _ { H } ( \\tau , \\boldsymbol { v } ) \\Bigg | A _ { g ( \\boldsymbol { \\alpha } ) } ( n \\tau _ { 0 } + \\tau , m v _ { 0 } + \\nu ) | ^ { 2 } d \\tau d \\nu } =  \\\\ & { } & { \\frac { \\int _ { b = \\mathrm { a s s } } ^ { b _ { \\mathrm { a s } } } \\int _ { 0 } ^ { \\tau _ { \\mathrm { m a x } } } \\int _ { 0 } ^ { \\tau _ { \\mathrm { m a x } } } S _ { H } ( \\tau , \\boldsymbol { v } ) | A _ { g ( \\boldsymbol { \\alpha } ) } ( \\tau , \\boldsymbol { v } ) | ^ { 2 } d \\tau d \\nu } { ( m , n ) = ( \\pm 1 , 0 ) , ( 0 , \\pm 1 ) ^ { 2 } - \\nu _ { \\mathrm { a s s } } \\int _ { 0 } ^ { \\tau _ { \\mathrm { m a x } } } S _ { H } ( \\tau , \\boldsymbol { v } ) | A _ { g ( \\boldsymbol { \\alpha } ) } ( n \\tau _ { \\mathrm { s } } \\sqrt { \\frac { \\beta } { 2 } } \\cdot [ \\frac { \\tau _ { \\mathrm { m a x } } } { v _ { \\mathrm { m a x } } } + \\tau , m \\cdot \\sqrt { \\frac { 1 } { 2 \\beta } } \\cdot [ \\frac { v _ { \\mathrm { m a x } } } { \\tau _ { \\mathrm { m a x } } } + \\nu ] ] ^ { 2 } d \\tau d \\nu }  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/578df68272549f58fa251b361e03904bdecf173370a89c4f6a1a76ac37ec7f1e.jpg",
+        "img_caption": [
+            "图3地空信道波形自适应算法结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $3 \\ ( \\mathbf { a } ) \\sim ( \\mathbf { d } )$ 分别表示Parking、Taxi、En-Route 和Arrival四种状态波形自适应算法结果图， $X$ 轴表示滤波器扩展因子 $\\alpha ^ { * }$ ，$Y$ 轴表示信道匹配系数 $\\beta \\ : , \\ : Z$ 轴表示信干噪比SINR，通过结果图可以得到地空信道四种状态的 $S I N R _ { \\operatorname* { m a x } } ( \\beta , \\alpha ^ { * } )$ 对应的。从图3中的标注结果可以得到，地空信道四种状态下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a） $\\beta$ -EGF的参数分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { P a r k i n g } = ( 1 . 5 , 1 . 5 3 7 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { T a x i } = ( 2 . 0 , 1 . 8 7 6 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { \\phantom { * } o p t } ^ { * } ) _ { E n - R o u t e } = ( 1 . 9 , 2 . 9 0 8 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { A r r i \\nu a l } = ( 1 . 5 , 1 . 4 8 0 \\times 1 0 ^ { 8 } ) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）classical-EGF参数分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { P a r k i n g } = ( 1 . 0 , 1 . 9 3 7 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { T a x i } = ( 1 . 0 , 2 . 8 7 6 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { \\ o p t } ^ { * } ) _ { E n - R o u t e } = ( 1 . 0 , 4 . 1 0 8 \\times 1 0 ^ { 8 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\beta _ { o p t } , \\alpha _ { o p t } ^ { * } ) _ { A r r i \\nu a l } = ( 1 . 0 , 1 . 7 8 0 \\times 1 0 ^ { 8 } ) ~ _ { \\odot }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上述得到的不同信道状态的优化滤波器，本文给出了4QAM和16QAM基带调制下的OFDM/OQAM系统误码性能曲线如图4和图5。其中，图中给出的 $\\alpha$ 为等效扩展因子，$\\scriptstyle \\alpha = 2 \\alpha ^ { * } \\cdot \\tau _ { 0 } ^ { 2 }$ 。图中 $\\scriptstyle { \\beta = 1 }$ 代表classical-EGF滤波器的仿真结果，即从滤波器扩展因子 $\\mathbf {  { a } }$ 出发优化。 $\\{ \\ u \\ne 1$ 代表 $\\beta$ -EGF滤波器的仿真效果，其在滤波器优化过程中，同时考虑了扩展因子 $\\mathbf {  { a } }$ 和信道匹配系数 $\\beta$ ，从两个系数优化EGF 滤波器。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cc5e2797378e166bd0ea6d47a6eb2b9dc8516ba2213b867be83fc634be69c6e.jpg",
+        "img_caption": [
+            "图4地空信道4QAM基带调制下的OFDM/OQAM系统性能曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a21712b76690a56581525e1f10a31869334018aee6ca7d198ba739caacdacbdf.jpg",
+        "img_caption": [
+            "图5地空信道16QAM基带调制下的OFDM/OQAM系统性能曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4和5可以看出：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a）4QAM调制，Parking状态下（ $\\operatorname { S N R } { = } 9 \\mathrm { d B }$ 时） $\\beta { - } E G F$ 在 系统误码性能上比classical-EGF有约2.9dB增益，Taxi状态下 （ $\\operatorname { S N R } { = } 9 \\mathrm { d B }$ 时）有约1.7dB增益，En-Route 状态下（SNR $\\ c =$ 15dB 时）有约1.4dB增益，Arrival状态下（ $\\mathrm { \\ S N R } { = } 1 2 \\mathrm { d B }$ 时）有约1.7dB 增益; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b）16QAM 调制， SNR=30dB 时，Parking 状态下 $\\beta$ -EGF 在系统误码性能上比classical-EGF有约17.5dB增益，Taxi状 态下有约7.0dB增益，En-Route 状态下有约2.1dB增益，Arrival 状态下有约2.0dB增益; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，信道匹配系数 $\\beta$ 的引入比classical-EGF函数在OFDM/OQAM系统误码性能有一定增益改善。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文结合WSSUS信道地空信道模型和EGF函数的特性，提出一种OFDM/OQAM系统波形自适应算法，在地空信道场景下仿真得到信道匹配系数和优化滤波器扩展因子。仿真结果表明，信道匹配系数 $\\beta$ 的引入在适应具有指数型时延功率谱和$U$ 型多普勒功率谱的 WSSUS 信道的同时，比classical-EGF函数有良好的性能改善，更适用于类地空信道的WSSUS信道模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Viholainen A,Ihalainen T, Stitz TH,et al.Prototype filter design for filter bank based multicarrier transmission [C]// Proc of European Signal Processing Conference.2010:1359-1363.   \n[2]Sharique M, Chaturvedi AK.A new family of time-limited nyquist pulses for OFDM systems [J].IEEE Communications Letters,2016,20 (10):1943- 1946.   \n[3]陈达.OQAM-OFDM无线通信系统关键技术研究[D].武汉：华中科技 大学,2015.   \n[4]Dandach Y, Siohan P.Design method of OFDM//OQAM systems using a weighted time-frequency localization criterion [C]//Proc of European Signal Processing Conference.2010: 70-74.   \n[5]Kozek W,Molisch A F. Nonorthogonal pulseshapes for multicarrier communications in doubly dispersive channels[J].IEEE Journal on Selected Areas in Communications,1998,16 (8): 1579-1589.   \n[6]Schafhuber D,Matz G, Hlawatsch F. Pulse-shaping OFDM//BFDM systems for time-varying channels:ISI//ICI analysis,optimal pulse design,and efficient implementation [C]// Proc of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications.20o2:1012-1016.   \n[7]Han F M, Zhang XD.Wireless multicarrier digital transmission via weylheisenberg frames over time-frequency dispersive channels [J].IEEE Trans on Communications,2009,57(6): 1721-1733.   \n[8]Sahin A,Guvenc I,Arslan H.A Survey on multicarrier communications: prototype filters,lattce structures,and implementation aspects [J]. IEEE Communications Surveys & Tutorials,2012,16 (3):1312-1338.   \n[9]Matz G,Schafhuber D,Grochenig K,et al. Analysis,optimization,and implementation of low-interference wireless multicarrier systems [J]. IEEE Trans on Wireless Communications,2007,6 (5):1921-1931.   \n[10]胡苏，武刚，李少谦.OFDM//OQAM 系统自适应波形设计及多址接入 系统[J].电子与信息学报,2012,34(5):1214-1219.   \n[11] Goto D, Yamazato T,Mongol B. Gaussian pulse shape optimization of BFDM in time-frequency dispersive channels [C]// Proc of Vehicular Technology Conference.2012:1-5.   \n[12] Pätzold M,Hajri N,Youssef N.Analysis of the level-crossing rate and average duration of fades of WSSUS channels [C]// Proc of European Conference on Antennas and Propagation. 2017.   \n[13]Haas E.Aeronautical channel modeling [J].IEEE Trans on Vehicular Technology,2002,51(2): 254-264.   \n[14] Sun R,Matolak D W,Rayess W.Air-ground channel characterization for unmanned aircraft systems,part IV: airframe shadowing [J]. IEEE Trans on Vehicular Technology,2017,PP (99):1-1.   \n[15]程国兵.OFDM//OQAM 系统中的关键技术研究[D].成都：电子科技 大学,2013. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

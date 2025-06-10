@@ -1,0 +1,140 @@
+DOI:10.13930/j.cnki.cjea.160658
+
+黄国勤．中国南方农业生态系统可持续发展面临的问题及对策[J]．中国生态农业学报,2017,25(1):13-18Huang GQ.Problems and countermeasures of sustainable development of agricultural ecosystem in Southern China[J].Chinese Journal of Eco-Agriculture,2017,25(1): 13-18
+
+# 中国南方农业生态系统可持续发展面临的问题及对策
+
+黄国勤
+
+(江西农业大学生态科学研究中心/江西省高校生态学学科联盟 南昌 330045)
+
+摘要：南方农业生态系统在我国整个农业生态系统中占有重要地位和作用，具有结构的复杂性、功能的多样性、生产的高效性、价值的珍贵性和开发利用潜力的巨大性等特征。当前，南方农业生态系统存在着耕地擢荒、地力下降、土壤污染、灾害频繁、效益低下和后劲不足等方面的问题，严重制约着生态系统的可持续发展。为实现南方农业生态系统的可持续发展，应采取以下对策和措施：(1)实行集约用地;(2)开展环境整治;(3)推行轮作休耕;(4)实施用养结合;(5)优化系统结构;(6)深化农村改革。
+
+关键词：农业生态系统；可持续发展；经济效益、生态效益和社会效益；南方中图分类号：S154.1 文献标识码：A 文章编号:1671-3990(2017)01-0013-06
+
+# Problems and countermeasures of sustainable development of agricultural ecosystem in Southern China
+
+HUANG Guoqin (EcologicalScienceResearch CenterofJiangxi AgriculturalUniversity/UnionofEcological Disciplines in Colleges and Universities of Jiangxi Province,Nanchang 33o045,China)
+
+Abstract: The agricultural ecosystem in South China plays an important role in the whole agricultural ecosystem in China. Southern agricultural ecosystem has some features,such as,complex structure,diverse function,high eficient production, precious alue and huge development andutilization potential.At present,tereisaseries of problems in southernagriculture ecological system—arable landabandonment,soil fertilitydecline,soil polution,frequentnatural disasters,loweiciency andlack of stamina,which seriouslyrestrictthe sustainabledevelopmentof southern agricultural ecologicalsystem.Inorder to achieve thesustainable developmentof agricultural ecosystem in South China,the following measuresshould beadopt: (1) implementationof intensivelanduse; (2)carryingoutofenvironmentalremediation; (3)implementationoffallowrotation;(4) combinationof landuse and protection;(5)optimization ofagricultural ecosystem structure and(6)deepening ofruralreform.
+
+Keywords: Agricultural ecosystem;Sustainable development; Ecological,economic and social benefits; South China
+
+我国南方系指长江中下游区的上海、江苏、浙江、安徽、江西、湖北、湖南，华南区的福建、广东、广西、海南，以及西南区的重庆、四川、贵州、云南，共计15省(区、市)。根据《中国统计年鉴—2015》资料整理(表1)[1],2014年南方15省(区、市)共有人口7.861亿，占全国总数的 $5 7 . 4 7 \%$ ；耕地5421.49万 $\mathbf { h } \mathbf { m } ^ { 2 }$ (2013年)，占全国的 $40 . 1 1 \%$ ；2014年南方粮食总产量为26769.2万t，其中稻谷16378.7万t，分别占全国总量的 $4 4 . 1 0 \%$ 和 $7 9 . 3 1 \%$ ；棉花总产量108.8万t，占全国总量的 $1 7 . 6 1 \%$ ；油料总产量1833.2万t，占全国比重 $5 2 . 2 7 \%$ 。由此可见，南方农业在我国整个农业发展中占有重要战略地位，维护和保持南方农业生态系统的可持续发展至关重要。
+
+表1中国南方15个省(区、市)人口、耕地、粮食总产量及占全国比重(2014年)Table1Proportionsofpopulation,cultivatedlandandgrainoutput inthe15provinces (autonomous regionsand municipalities)of the whole country (2014)  
+
+<html><body><table><tr><td rowspan="2">省(区、市) Province (Autonomous Region, City)</td><td rowspan="2">人口(万人) Population (x104 people)</td><td rowspan="2">耕地 Cultivated land (×104 hm²)</td><td colspan="2">粮食Food(×104 t)</td><td rowspan="2">棉花 Cotton (x104)</td><td rowspan="2">油料 Oil (x104t)</td></tr><tr><td>总产量 Total output</td><td>稻谷 Rice</td></tr><tr><td>上海市 Shanghai City</td><td>2 426</td><td>18.80</td><td>112.5</td><td>84.1</td><td>0.1</td><td>1.3</td></tr><tr><td>江苏省 Jiangsu Province</td><td>7960</td><td>458.16</td><td>3 490.6</td><td>1912.0</td><td>16.0</td><td>146.6</td></tr><tr><td>浙江省 Zhejiang Province</td><td>5508</td><td>197.85</td><td>757.4</td><td>590.1</td><td>2.5</td><td>30.7</td></tr><tr><td>安徽省 Anhui Province</td><td>6083</td><td>588.31</td><td>3 415.8</td><td>1 394.6</td><td>26.3</td><td>228.8</td></tr><tr><td>福建省Fujian Province</td><td>3806</td><td>133.87</td><td>667.0</td><td>497.1</td><td>0.0</td><td>29.8</td></tr><tr><td>江西省 Jiangxi Province</td><td>4542</td><td>308.73</td><td>2 143.5</td><td>2 025.2</td><td>13.4</td><td>121.7</td></tr><tr><td>湖北省 Hubei Province</td><td>5816</td><td>528.18</td><td>2 584.2</td><td>1 729.5</td><td>36.0</td><td>341.7</td></tr><tr><td>湖南省 Hunan Province</td><td>6737</td><td>414.95</td><td>3 001.3</td><td>2 634.0</td><td>12.9</td><td>233.8</td></tr><tr><td>广东省 Guangdong Province</td><td>10 724</td><td>262.18</td><td>1357.3</td><td>1091.6</td><td>0.0</td><td>105.5</td></tr><tr><td>广西壮族自治区 Guangxi Zhuang Autonomous Region</td><td>4 754</td><td>441.94</td><td>1 534.4</td><td>1 166.1</td><td>0.3</td><td>61.3</td></tr><tr><td>海南省 Hainan Province</td><td>903</td><td>72.67</td><td>186.6</td><td>155.4</td><td>0.0</td><td>11.6</td></tr><tr><td>重庆市 Chongqing Province</td><td>2 991</td><td>245.58</td><td>1 144.5</td><td>503.2</td><td>0.0</td><td>56.9</td></tr><tr><td>四川省 Sichuan Province</td><td>8140</td><td>673.48</td><td>3 374.9</td><td>1 526.5</td><td>1.2</td><td>300.8</td></tr><tr><td>贵州省 Guizhou Province</td><td>3508</td><td>454.81</td><td>1 138.5</td><td>403.2</td><td>0.1</td><td>98.0</td></tr><tr><td>云南省 Yunnan Province</td><td>4 714</td><td>621.98</td><td>1 860.7</td><td>666.1</td><td>0.0</td><td>64.7</td></tr><tr><td>合计Total</td><td>78 612</td><td>5 421.49</td><td>26 769.2</td><td>16 378.7</td><td>108.8</td><td>1 833.2</td></tr><tr><td>占全国比重 Proportion of the county (%)</td><td>57.47</td><td>40.11</td><td>44.10</td><td>79.31</td><td>17.61</td><td>52.27</td></tr></table></body></html>
+
+? 根据《中国统计年鉴—2015》[1资料整理而成，其中耕地系2013年数据，其余均为2014年数据。Compiled accordingtothe“China StatiticalYearbook-2015"[1],the data ofcultivated land is for 2013,the rest data is for 2014.
+
+# 1南方农业生态系统特征
+
+# 1.1 结构的复杂性
+
+由于南方各省(区、市)地处热带、亚热带湿润气候区，光、温、水资源充足，适宜多种植物、动物和微生物的生长和繁殖，生物多样性十分丰富，由农业生物及其环境所组成的农业生态系统结构也十分复杂。在大田农业生产中，南方多数地区形成了以一年多熟为主体的耕作制度体系，具有组成作物多、配置方式多、种植模式多、系统结构复杂的特点[2]。
+
+# 1.2 功能的多样性
+
+结构决定功能。复杂的南方农业生态系统结构，必然产生多样化的南方农业生态系统功能。南方农业生态系统功能的多样性表现在：1)具有一般农业生态系统的基本功能—“内在"功能，即能量流动(能流)、物质循环(物流)、价值增值(价值流)和信息传递(信息流);2)具有"外在"功能，如： $\textcircled{1}$ 生产功能。
+
+近年来南方稻田生态系统每年生产了占全国约 $80 \%$ 的稻谷，对维护国家粮食安全发挥了重要作用； $\textcircled{2}$ 净化功能。南方每年有大量有机肥，包括农作物秸秆施入农田，农田生态系统通过土壤微生物等各种生物的共同作用，将其进行转化，从而培肥了土壤，同时又净化了“环境”，这对农业增产、增效，以及维持农业生态系统的可持续发展具有重要作用。 $\textcircled{3}$ 贮水功能。以南方稻田生态系统为例，贮藏着相当数量的水资源，发挥着“农田水库”、“隐形水库"的作用，为水资源合理利用、抗御旱涝灾害，以及维护水资源安全等起到了不可替代的作用； $\textcircled{4}$ 碳汇功能。据研究，我国南方长江中下游区2616.524万 $\mathrm { h m } ^ { 2 }$ 的农作物种植面积，农田土壤固碳量为 $3 . 6 9 \mathrm { \ T g ( C ) ^ { \cdot } a ^ { - 1 } }$ ，占全国年农田土壤固碳量的 $1 3 . 9 1 \%$ ；华南区672.695万 $\mathrm { h m } ^ { 2 }$ 的农作物种植面积，农田土壤固碳量为 $0 . 9 6 \mathrm { \ T g ( C ) { \cdot } a } ^ { - 1 }$ 占全国年农田土壤固碳量的 $3 . 6 2 \%$ ；西南区1801.737万 $\mathrm { h m } ^ { 2 }$ 的农作物种植面积，农田土壤固碳量为$4 . 1 2 \mathrm { T g } ( \mathrm { C } ) { \cdot } \mathrm { a } ^ { - 1 }$ ，占全国年农田土壤固碳量的 $1 5 . 5 3 \text{‰}$ （204整个南方地区农田土壤固碳量总共为 $8 . 7 7 \mathrm { T g } ( \mathrm { C } ) { \cdot } \mathrm { a } ^ { - 1 }$ ，占全国年农田土壤固碳量的 $3 3 . 0 6 \% ^ { [ 3 ] }$ 0
+
+# 1.3 生产的高效性
+
+南方农业生态系统的生产高效性，主要体现在以下几方面：1)光能利用率高。南京农业大学对江西省临川县小华山红壤试验基点3种不同农业生态系统功能分析结果表明，“林、果、经、肥"复合农业生态系统的光能利用率达到 $1 . 1 7 \% ^ { [ 4 ] }$ ，远高于“经、肥”农业生态系统和单一果园(桔园)农业生态系统的光能利用率。而这种“立体型"和“复合型"农业生态系统在我国南方分布极为普遍，这也是南方农业生态系统光能利用率高的原因之所在。2)土地利用率高。与北方比较而言，我国南方总体呈现“人多、地少、人均耕地不足"之格局，再加上南方水热同季，因此南方土地(耕地)复种指数普遍高于北方，南方多行一年2熟或3熟，而北方则多为一年1熟或两年3熟。3)单位面积产出高。以谷物为例,2014年南方的上海、江苏、浙江、福建、江西、湖北、湖南、重庆的单产均超过 $6 \ 0 0 0 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，分别为 $6 9 7 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ /$6 7 5 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ / $6 5 8 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } .$ $6 0 3 7 \mathrm { k g } \mathrm { \cdot h m } ^ { - 2 }$ / $6 0 2 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } .$ $6 \ 3 1 3 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $6 \ : 2 8 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $6 \ : 2 4 1 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，远高于北方各地及全国平均产量 $( 5 ~ 8 9 2 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } ) ^ { [ 1 ] }$ 。
+
+# 1.4 价值的珍贵性
+
+2002年，在全球环境基金(GEF)支持下，联合国粮农组织(FAO)联合有关国际组织和国家，发起了一个大型项目——全球重要农业文化遗产(GloballyImportant Agricultural Heritage Systems,GIAHS)保护。通过该项目的实施，旨在建立全球重要农业文化遗产及其有关的景观、生物多样性、知识和文化保护体系，并在世界范围内得到认可与保护，使之成为可持续管理的基础。该项自将努力促进地区和全球范围内对当地农民和少数民族关于自然和环境的传统知识和管理经验的更好认识，并运用这些知识和经验来应对当代发展所面临的挑战，特别是促进可持续农业的振兴和农村发展目标的实现。
+
+截至2015年底，全球已有15个国家的36个传统农业系统被列入GIAHS名录，其中中国占11个，位居世界各国之首。中国入选GIAHS名录的11个中，南方农业生态系统占8个，如：浙江青田稻鱼共生系统、云南红河哈尼稻作梯田系统、江西万年稻作文化系统、贵州从江侗乡稻-鱼-鸭系统、云南普洱古茶园与茶文化系统、浙江绍兴会稽山古香榧群、福建福州茉莉花与茶文化系统、江苏兴化垛田传统农业系统[5]。显然，南方农业生态系统在传承传统文化、保护生物多样性、促进农业可持续发展等方面价值十分珍贵，值得倍加保护。
+
+# 1.5开发利用潜力的巨大性
+
+南方农业生态系统的开发利用潜力巨大，突出表现在：1)光、温资源潜力。赵其国等[对北京、哈尔滨、酒泉、南京、广州等地区的生物生产潜力研究的结果表明，从生物产量潜力这个指标来衡量，以广东为例，其比东北地区的哈尔滨和西北地区的酒泉高出约1倍，是华北地区北京的1.5倍。可见，南方农业生态系统的生物生产潜力之巨大。2)中、低产田潜力。南方15省(区、市)尚有 2/3的农田属于中、低产田，只要稍加改造，消除障碍因子，并加强管理，即可获得 $1 5 \% { \sim } 2 0 \%$ 幅度的增产，如实行精细管理和“精准"施肥，其增产幅度可达 $50 \%$ 以上，甚至更高。3)整个农业资源综合开发利用的潜力。只要技术先进、措施得力、方法得当，南方丰富的农业资源综合开发利用的潜力就更大。
+
+# 2南方农业生态系统问题
+
+# 2.1 耕地擢荒
+
+据作者近年对南方各地农业发展问题的实地调查，一个普遍存在的问题是耕地擢荒十分严重。一是面积大。南方各地由于冬季农田闲置、荒而形成的“冬闲田”，约占整个耕地面积的 $50 \% { \sim } 6 0 \%$ ，有的地方达到 $80 \% { \sim } 9 0 \%$ ，有的地方冬季水田(稻田)基本上不种，全部是休闲、荒。二是类型多。除“冬闲田"外，还有“秋闲田”、“夏闲田"等不同季节的“季节性揢荒"；除季节性休闲、荒外，还有全年都休闲、擢荒的农田；除一年休闲、荒的农田外，还有长年休闲、荒的农田。三是分布广。可以说南方15省(区、市)，没有不存在休闲、荒农田的地方，只是面积大小不同、涵盖范围不同、休闲时间长短不同而已。四是产生负面影响。由于耕地攘荒，造成南方粮食生产能力下降，昔日的“南粮北运”，如今却是“北粮南调”；耕地擢荒，特别是长期擢荒还造成地力“衰退”，昔日的农田变成如今的"荒地”、“草地”、“林地”。
+
+# 2.2 地力下降
+
+地力是农业生态系统生产力的基础，在一定范围内，地力越高，则系统生产力越高；反之，地力越低，则系统生产力越低。因此，千方百计提升农田土壤地力，对提升农业生态系统生产力至关重要。
+
+根据调查，近些年来，由于自然和人为等多方面的原因，南方农业生态系统的农田土壤地力已出现明显下降，具体表现在：1)耕层变浅，如南方稻田耕作层深度比 10\~20 年前正常情况下变浅 $1 { \sim } 2 \ \mathrm { c m }$ 或 $2 { \sim } 3 \ \mathrm { c m }$ ，有的甚至达 $3 { \sim } 5 ~ \mathrm { c m } ^ { [ 7 ] }$ 。2)土壤变酸。土壤变酸，即土壤 $\mathsf { p H }$ 下降，土壤酸化。根据2005—2011年测土配方施肥902万个土壤样品测试数据统计分析显示[8]，与30 年前的第2次土壤普查相比，全国耕地土壤酸碱性 $\mathrm { ( p H ) }$ 下降 $0 . 1 3 \mathrm { \sim } 1 . 3$ ，平均下降0.8个单位，我国 $40 \%$ 的耕地土壤处于 $\mathsf { p H } ~ 6 . 5$ 以下，其中 $\mathsf { p H } 4 . 5$ 以下有 $1 . 8 \%$ ， $\mathrm { p H } ~ 4 . 5 { \sim } 5 . 5$ 之间有$1 5 . 8 5 \%$ ， $\mathrm { p H } 5 . 5 { \sim } 6 . 5$ 之间有 $2 2 . 7 \%$ 。全国查明 $\mathsf { p H } 4 . 5$ 以下的耕地面积19万 $\mathrm { h m } ^ { 2 }$ ，前10位的省份有山东省、广东省、四川省、江西省、重庆市、福建省、湖北省、湖南省、广西壮族自治区、安徽省。全国查明 $\mathsf { p H } ~ 5 . 5$ 以下的面积 $0 . 1 5 \ \mathrm { \textbar { 1 } } Z \ \mathrm { h m } ^ { 2 }$ ，前10位的省份依次为湖南、江西、黑龙江、安徽、广东、四川、湖北、重庆、福建、山东，除黑龙江省、山东省之外，其余8个省(市)均属南方。全国查明 $\mathrm { p H } 6 . 5$ 以下的前10位省份依次为黑龙江、湖南、江西、安徽、吉林、湖北、四川、辽宁、内蒙古、山东，南方占一半。3)性状变劣。由于长年复种连作和偏施、滥施、过量施化肥，以及不合理的耕作等原因，造成南方稻田土壤次生潜育化、酸化和退化问题突出，使土壤理化和生物学性状变劣，不利于作物的生长发育和农业的高产稳产。4)肥力变低。由于绿肥种植面积下降，生物养地削弱，用养结合(即用地与养地结合)不到位，导致南方部分稻田出现土壤肥力下降有的甚至出现“缺素"(缺乏营养元素)的现象，这不利于稻田生态系统的可持续发展。
+
+# 2.3 土壤污染
+
+2014年国家环境保护部等公布的《全国土壤污染状况调查公报》显示[9]，全国土壤环境状况总体不容乐观，部分地区土壤污染较重，耕地土壤环境质量堪忧，工矿业废弃地土壤环境问题突出。全国土壤总的点位超标率(指土壤超标点位的数量占调查点位总数量的比例)为 $1 6 . 1 \%$ ，耕地土壤点位超标率达 $1 9 . 4 \%$ ，其中重度污染点位超标率 $1 . 1 \text{‰}$ 土壤污染总体分布状况为：南方土壤污染重于北方，尤其是长三角、珠三角等部分区域土壤污染问题较为突出，西南、中南地区土壤重金属超标范围较大。
+
+造成南方农田土壤污染变重的原因是多方面的，如：工业废弃物的排放对南方农田生态系统造成的污染；城镇周围、村落旁边的农田，受到生活垃圾的污染；污水灌溉造成的农田污染；过施、滥施化肥、农药、除草剂等化学制品造成农田生态环境污染。严重的农田土壤污染，对生产无公害食品、绿色食品、有机食品十分不利，对维护食品安全带来严重威胁，必须尽快采取积极而有效的防治措施。
+
+# 2.4 灾害频繁
+
+南方区域广阔，地形、地貌复杂多变，由此形成的自然灾害也极其严重。1)灾种多。可以说，全国所有的灾害种类，在南方均能找到，在南方均会发生。
+
+2)受灾面广。南方发生灾害的“覆盖面"特别广，几乎是“处处有灾”。3)受灾频率高。一年四季、一月三旬,可以说是“季季有灾、时时有灾”，只是种类、程度不同而已。4)灾损重。由灾害造成的损失极其严重的年份，如2014年，南方15省(区、市)，农作物受灾总面积为925.74万 $\mathrm { h m } ^ { 2 }$ ，绝收总面积为102.96万 $\mathrm { h m } ^ { 2 }$ ，分别均占全国总面积的 $3 7 . 1 9 \%$ 和 $3 3 . 3 2 \%$ ，全年由于自然灾害造成受灾人口13338.1万人次、死亡和失踪人□1640人，分别占全国的 $5 4 . 7 7 \%$ 和 $9 0 . 2 1 \%$ ，造成直接经济损失2153.2亿元，占全国 $6 3 . 8 2 \%$ (表2)[1]。
+
+# 2.5 效益低下
+
+经济效益低下，是当前南方农业生态系统可持续发展面临的最大挑战之一。南方各地之所以出现大量农田闲置、擇荒，尽管其中原因很多，但种田经济效益低，“划不来”、“不合算"是其重要原因之一。
+
+造成南方农业生态系统经济效益不高的主要原因：1)多数农产品价格呈下跌态势，一定程度上影响了农民生产积极性；2)农资价格持续上升，尤其是化肥、农药价格快速上涨，直接导致农民种田的“物化”成本增加；3)工业化、城镇化快速推进，客观上增加了农民进城的“吸引力”，特别是农民进城“打工"的效益既“高"又“快”，对农民“回乡种田"造成前有未有的“冲击”，“不愿种田”、“不想种田”、“不会种田”已渐形成“新常态”。
+
+# 2.6 后劲不足
+
+从未来着想，南方农业生态系统可持续发展面临"后劲不足"的问题。首先，从“硬件"来看，南方各地普遍存在农业基础设施老化的问题，水利设施如水库、水坝、水沟等存在多年来“没有人管”，即使有人管，也是少数地方、少数设施；其次，从“软件"来看，“三农"(农业、农村、农民)的管理问题更是“过松"(管理松懈)、“过粗"（管理粗放)、“过软"(管理措施不得力)，或者说"没人管”，农民"往外跑”—进城打工，村干部“往外跑”—当“走读干部”，农业生产没有人“干”、没有人“管"已在南方很多地方普遍存在。如这种状况不能及时改变，南方农业生态系统可持续发展无从谈起，到头来只能是一句空话。
+
+# 3南方农业生态系统发展对策
+
+针对上述存在的问题，为实现南方农业生态系统的可持续发展，应采取以下对策与措施：
+
+# 3.1 实行集约用地
+
+人多地少是中国的基本国情。为确保粮食安全、农产品安全、农业安全，走集约化农业发展之路是中国必然选择，南方尤其如此。
+
+表2南方15省(区、市)自然灾害面积及其造成的损失(2014年)  
+Table 1Areas of natural disasters in 15 provinces (autonomous regions and municipalities) in the South China (2014) $\times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$   
+
+<html><body><table><tr><td rowspan="2">省区、市） (Autonomous Region, City)</td><td colspan="2">Tot受灾面合计 rea</td><td colspan="2">早g</td><td colspan="2">debris flow and typhoon</td><td colspan="2">id</td><td colspan="2"></td></tr><tr><td>受灾 Affected</td><td>绝收 No yield</td><td>受灾 Affected</td><td>绝收 No yield</td><td>受灾 Affected</td><td>绝收 No yield</td><td>受灾 Affected</td><td>绝收 No yield</td><td>受灾 Affected</td><td>绝收 No yield</td></tr><tr><td>上海市 Shanghai City</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Jian 江苏r省vice</td><td>55.41</td><td>3.98</td><td>47.39</td><td>3.45</td><td>2.34</td><td>0.03</td><td>5.63</td><td>0.50</td><td>0.05</td><td>0.00</td></tr><tr><td>浙江省 Zhejiang Province</td><td>20.40</td><td>1.38</td><td>0.00</td><td>0.00</td><td>19.22</td><td>1.36</td><td>0.53</td><td>0.02</td><td>0.65</td><td>0.00</td></tr><tr><td>安徽省 Anhui Province</td><td>64.13</td><td>2.20</td><td>28.33</td><td>1.65</td><td>30.72</td><td>0.54</td><td>0.98</td><td>0.00</td><td>4.10</td><td>0.01</td></tr><tr><td>福建省 Fujian Province</td><td>10.26</td><td>1.11</td><td>0.00</td><td>0.00</td><td>9.78</td><td>1.09</td><td>0.27</td><td>0.02</td><td>0.21</td><td>0.00</td></tr><tr><td>江西省 Jiangxi Province</td><td>48.71</td><td>4.66</td><td>0.00</td><td>0.00</td><td>41.63</td><td>4.21</td><td>4.24</td><td>0.44</td><td>2.84</td><td>0.01</td></tr><tr><td>湖北省 Hubei Province</td><td>105.88</td><td>7.28</td><td>63.35</td><td>2.18</td><td>29.36</td><td>3.61</td><td>4.88</td><td>0.42</td><td>8.29</td><td>1.07</td></tr><tr><td>湖南省 Hunan Province</td><td>113.61</td><td>19.20</td><td>0.00</td><td>0.00</td><td>104.15</td><td>18.29</td><td>2.14</td><td>0.42</td><td>7.32</td><td>0.49</td></tr><tr><td>广东省 Guangdong Province</td><td>84.24</td><td>15.95</td><td>0.00</td><td>0.00</td><td>82.18</td><td>15.88</td><td>1.53</td><td>0.06</td><td>0.53</td><td>0.01</td></tr><tr><td>广西壮族自治区 Guangxi Zhuang Autonomous Region</td><td>121.27</td><td>6.11</td><td>1.56</td><td>0.02</td><td>116.72</td><td>5.89</td><td>1.48</td><td>0.11</td><td>1.51</td><td>0.09</td></tr><tr><td>海南省 Hainan Province</td><td>30.94</td><td>11.08</td><td>0.00</td><td>0.00</td><td>30.94</td><td>11.08</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>重庆市 Chongqing City</td><td>28.09</td><td>3.44</td><td>0.76</td><td>0.11</td><td>25.09</td><td>3.10</td><td>2.07</td><td>0.20</td><td>0.71</td><td>0.03</td></tr><tr><td>四川省 Sichuan Province</td><td>91.93</td><td>8.09</td><td>57.68</td><td>2.13</td><td>29.25</td><td>5.21</td><td>2.98</td><td>0.50</td><td>1.75</td><td>0.25</td></tr><tr><td>贵州省 Guizhou Province</td><td>62.67</td><td>9.74</td><td>0.95</td><td>0.00</td><td>41.17</td><td>6.51</td><td>16.09</td><td>3.04</td><td>4.39</td><td>0.19</td></tr><tr><td>云南省 Yunnan Province</td><td>88.20</td><td>8.74</td><td>33.20</td><td>1.91</td><td>28.27</td><td>4.12</td><td>15.71</td><td>1.93</td><td>7.45</td><td>0.50</td></tr><tr><td>合计Total</td><td>925.74</td><td>102.96</td><td>233.22</td><td>11.45</td><td>590.82</td><td>80.92</td><td>58.53</td><td>7.66</td><td>39.80</td><td>2.65</td></tr><tr><td>占全国比重 National proportion (%)</td><td>37.19</td><td>33.32</td><td>19.01</td><td>7.71</td><td>81.81</td><td>82.83</td><td>18.15</td><td>16.74</td><td>18.66</td><td>15.76</td></tr></table></body></html>
+
+根据《中国统计年鉴 2015》[1]资料整理而成。Compiled according to“China Statistical Yearbook－2015”[1].
+
+南方各地走集约化农业发展之路，最根本的就是要实行集约用地，要节约集约利用耕地资源。1)要变耕地"荒"为“农作”，即将现有所有闲置、擢荒的农田种上农作物，实现绿色植物(作物)“全覆盖”，彻底消灭耕地休闲、荒的"陋习"；2)要变“少熟制”为“多熟制”，即将南方现有的农田一年1熟制、2熟制，改为一年2熟制、3熟制，增加熟制，提高耕地复种指数，既是中国南方的农业优良传统，更是今后农业发展的战略方向；3)要变“平面型"种植为“立体型"种植，大力发展以间、混、套作为主体的多熟复种种植制度体系；4)充分利用“耕地"之外的闲置土地资源，如将路边、沟边、渠边、房前屋后、屋顶、阳台等各种"闲置土地"利用起来，种植农作物，不仅绿化、美化环境，还可增加农产品产出，一举多得。
+
+# 3.2 开展环境整治
+
+如前所述，南方农业生态系统尚存在土壤污染，尤其是土壤重金属污染的问题，必须采取措施进行环境整治。要整顿农田周边环境，切断“污染源”。农田土壤污染源是土壤生态环境变劣的“祸害”、“祸根”，必须坚决铲除。要对南方各地农田周边的工厂、企业、医院、学校、规模养殖场，以及所谓的"示范区”、“开发区”、“园区"等逐一进行“检查”、“筛查”“排查”，如发现存在“污染源”，对农业生态环境造成严重污染，必须坚决取缔、限期整改，彻底切断“污染源”，以保护农业生态环境。
+
+# 3.3 推行轮作休耕
+
+2015年10月29日通过的《中共中央关于制定国民经济和社会发展十三五规划的建议》，明确提出在我国"探索实行耕地轮作休耕制度试点"[10]。
+
+为促进南方农业生态系统可持续发展，必须根据南方各地的实际情况，实行轮作休耕，恢复农田生态系统的“生产力”。首先，对于南方有关省、区、市，如湖南、江西、广西、贵州等省(区)，由于部分农田，特别是稻田、菜田，受重金属污染，不适宜继续种植食用植物(水稻、蔬菜等)，应有计划地实行轮作休耕，进行生态修复，待过2\~3年或3\~5年之后，待农田土壤“完全恢复"了生产力，方可再行“正常”耕种。其次，对于南方水土流失严重地区(如江南红壤丘陵地区、西南喀斯特地区等)，宜暂停农业耕作进行必要的轮作休耕和生态修复，待其生态完全恢复后再进行正常农作。
+
+# 3.4 实施用养结合
+
+用地与养地相结合，既是建立我国合理耕作制度的基本原则，又是我国农业生态系统之所以能经久不衰、实现可持续发展的重要“秘密"和“经验”。要实行用地养地结合，必须做到：1)充分利用绿肥、作物秸秆、家畜粪肥、生活垃圾等各种有机肥料，“变废为宝"，提高资源利用率；2)种植“养地型"作物,如种植蚕豆、豌豆、大豆、绿豆、花生等豆类作物，可进行生物固氮，增加土壤氮素含量;3)种植油菜、棉花等“兼养型"作物，改善土壤理化性状，促进农作物高产;4)实行稻田养鱼、稻田养鸭、棉田养鸡、林下养蛙、森林养猪等各种“复合型”、“生态型"种养结合模式，提高农业生态系统的经济效益、生态效益和社会效益。只有这样，培肥地力、提高农业生产力、实现农业生态系统可持续发展才有希望。
+
+# 3.5 优化系统结构
+
+优化农业生态系统的结构，对于提升农业生态系统的功能起着重要的作用。首先，优化南方农业生态系统的生物结构，根据南方各地的自然条件和社会经济状况，选择“最佳"的、“最适合"的农作物种类和品种，充分发挥农作物的增产潜力；其次，优化南方农业生态系统的环境结构，千方百计提高南方各地的森林覆盖率，减少水土流失，减轻自然灾害，确保农业稳产高产和可持续发展。
+
+# 3.6 深化农村改革
+
+从长远来看，要真正实现南方农业生态系统的可持续发展，必须深化农业、农村改革，完善农业生态系统可持续发展的体制机制，如进一步建立和完善强农、惠农、富农的政策；建立推进南方农业生态系统可持续发展的“生态补偿"机制；开展农田基本建设的专项扶持政策，推进农田“标准化"和生产“规模化”；完善农村土地流转制度，加快建设家庭农场、农民专业合作社等，创新农业经营体制，激发农村发展活力。只有这样，才能从根本上确保南方农业生态系统的可持续发展。
+
+参考文献 References   
+[1]中华人民共和国国家统计局．中国统计年鉴—2015[M]．北 京：中国统计出版社,2015 Compilation of the National Bureau of Statistics of the People's Republic of China.China Statistical Yearbook 2015[M].Beijing: China Statistics Press,2015   
+[2]黄国勤，张桃林，赵其国．中国南方耕作制度[M]．北京: 中国农业出版社,1997 Huang G Q, Zhang TL, Zhao Q G. Cropping System in South China[M]. Beijing: China Agriculture Press,1997   
+[3]佘玮，黄璜，官春云，等．我国典型农作区作物生产碳汇功 能研究[J]．中国工程科学,2016,18(1):106-113 She W, Huang H,Guan C Y, et al. Study on the carbon sink function of crop production in typical agricultural areas of China[J]. Engineering Science,2016,18(1): 106-113   
+[4]周勇，徐盛荣．三种不同农业生态系统功能分析及最佳生 态模式建造研究——以江西省临川县小华山红壤试验基点 为例[J]．农业现代化研究,1990,11(4):43-45 Zhou Y,Xu S R.Functional analysis of three different agricultural ecosystems and research on the construction of the best ecological model - A case study of red soil experiment in Linchuan County,Jiangxi ProvinceJ].Research of Agricultural Modernization,1990,11(4): 43-45   
+[5] 李文华．农业文化遗产的保护与发展[J]．农业环境科学学 报,2015,34(1): 1-6 Li W H. Agri-cultural heritage research and conservation practices: Progress and perspectives[J]. Journal of AgroEnvironment Science,2015,34(1): 1-6   
+[6]赵其国，吴志东．我国南方农业综合发展战略[J]．中国科 学院院刊,1990,5(4):316-323 Zhao Q G, Wu Z D. Comprehensive development strategy of agriculture in South China[J].Bulletin of the Chinese Academy of Sciences,1990,5(4): 316-323   
+[7] 黄国勤．南方稻田耕作制度可持续发展面临的十大问题[J]. 耕作与栽培,2009(3):1-2 Huang G Q.Ten problems of sustainable development of paddy field in the south of China[J]. Tillage and Cultivation, 2009(3): 1-2   
+[8]孟远夺．我国农田土壤酸化状况与治理措施探讨[J]．中国 农技推广,2014,30(6):38-39 Meng Y D. Study on soil acidification status and control measures of farmland in China[J]. China Agricultural Technology Extension,2014,30(6): 38-39   
+[9] 张桃林．加强土壤和产地环境管理促进农业可持续发展[J]. 中国科学院院刊,2015,30(4):435-444 Zhang T L. Strengthening soil and environment management ofagricultural producing area,promotingsustainable development of agriculture in China[J].Bulltin of Chinese Academy of Sciences,2015,30(4):435-444   
+10]中共中央关于制定国民经济和社会发展第十三个五年规划 的建议[M]．北京：人民出版社,2015 “Proposal of the CPC Central Committee on the Development of the 13th Five-Year Plan for National Economic and Social Development"[M]. Beijing: People Press, 2015

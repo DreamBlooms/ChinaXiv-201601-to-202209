@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "Modified Newtonian Dynamics with Inverse Dissipation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Potential as an Alternative to Dark Matter and Dark Energy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinwen $\\mathrm { H u } ^ { * }$ School ofPhyscis,Wuhan university, Wuhan 43o060, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper introduces the inverse dissipation potential into the Newtonian Dynamic equation and studies the motion equations of the objects in the isolated gravitational system. It is found that at large scales it can derive the dynamical equation of cosmic expansion similar to the ΛCDM model and yield the flat rotation curves for spiral galaxy. Different from the usual dark matter models,the derived flat rotation curves are the result of time accumulation rather than the direct action of mechanics.And the Tully-Fisher relationship is also discussed,it is found that the basic constant $a _ { 0 }$ in the MOND model and the form of the function $\\mu$ have a clear corresponding physical significance in the model of this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "dark matter, dark energy, Newtonian dynamic equation, inverse dissipation, MOND ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dark matter and dark energy are two major problems in today's cosmology [1-4]. These two \"invisible\" substances show two total distinct effects that dark matter produces gravity, while dark energy produces anti-gravity. Various theoretical models, based on general relativity, are proposed to explain these two phenomena. Obviously, there are two different modification methods.By changing the left side of the Einstein field equation， the time-space geometry itself is modified and form the theories represented by $f ( R )$ gravity theory [5,6], brane-world gravity theory [7], MOND [8,9], etc. The other is to modify the right side of the Einstein field equation with additional fields or matter within the time-space，such as ΛCDM [10],Quintessence [11], phantom [12,13], etc. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, none of the present theories could solve all problems perfectly, especially, since the search for dark matter particles and the measurement of dark energy have found nothing [14,15], it prompted us to think that perhaps modifying the gravity equation was an option to try. And it can be seen in Ref.[16-21] that some scholars have done a lot of work in this area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the various models that replace dark matter, the MOND model proposed by M. Milgrom is a popularly discussed one. This model presented an empirical formula, in which a basic constant $a _ { 0 }$ is introduced to explain some observational phenomena [22-28], for example,it can explain the Tully-Fisher relationship well [24,25]. However, the model still has some problems in explaining other observation data, such as the mass deviation in the cluster of galaxies [29],and the theory itself as it violates the basic law of momentum conservation [30]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In short, the MOND theory is not perfect at the time of its submission. Therefore, based on the original MOND theory, Bekenstein et al.， TG Zlosnik et al. and M. Milgrom proposed the relativistic MOND theory， namely Tensor-Vector-Scalar Theory (TeVeS) [20,26],Einstein-Aether theory [31] and subsequently Bimetric MOND Theory [32,33]，respectively. Although these theories greatly enrich the content of MOND, problems still exist [34,35]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The partial success of MOND theory and its extension theories vaguely implies that it maybe stems from a more basic theoretical system. Hence, this paper, based on the theory of non-relativistic Newtonian dynamics,utilizes the theoretical method of correcting inertia [37] by introducing the dissipative potential to Newton's Dynamic equation to discuss its influence on the motion of objects at large scales,and attempts to further reveal the deep physical significance of the basic constants $a _ { 0 }$ in MOND theory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Newtonian dynamic equation with dissipative potential energy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the frame of non-relativistic, the Newtonian dynamic equation is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = m \\pmb { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where m is the mass of the object and $\\mathbf { \\Delta } \\pmb { a }$ is the kinematic acceleration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are usually two ways to modify the Newtonian dynamic equation: the first is to modify the right side of the equation to establish a modified inertia theory, and the second is to modify the left side of the equation to establish a modified gravity theory. In the case of relativity, the two modified theories are equivalent. While,in non-relativistic case, and applying the modified inertia theory, Eq.(1) can be assumed to be the following modification form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { F } = m ( \\pmb { a } - \\lambda \\pmb { \\nu } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $\\lambda$ is a constant, $\\nu$ is the velocity of a moving object. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For an isolated gravitational system $\\Sigma .$ ，consisting of only two objects, and an object with mass $m$ is moving within a 2D-plane in the gravitational field of a quasi-stationary object with mass $M \\left( M > > m \\right)$ , we can obtain the Lagrangian equation for system $\\varSigma$ based on Eq. (2) ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } = E - U = { \\frac { 1 } { 2 } } m [ ( { \\dot { r } } ) ^ { 2 } + ( r { \\dot { \\theta } } ) ^ { 2 } ] + { \\frac { G M m } { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Where $( r , \\theta )$ is the polar coordinate system of the 2D-plane, $G$ isthe gravitational constant. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a velocity-dependent dissipation function is introduced in Eq. (2), then the corresponding dissipation potential is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi = - \\frac { 1 } { 2 } m \\lambda [ ( \\dot { r } ) ^ { 2 } + ( r \\dot { \\theta } ) ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the Hamiltonian principle of a dissipative system, the motion equation of the object with mass $m$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l } & { \\left\\{ { \\frac { d } { d t } } ( r ^ { 2 } \\ { \\dot { \\theta } } ) = \\lambda r ^ { 2 } \\ { \\dot { \\theta } } \\right. } \\\\ & { \\left. { \\frac { } { r - r { \\dot { \\theta } } } } ^ { 2 } + { \\frac { G M } { r ^ { 2 } } } = \\lambda { \\dot { r } } \\right. } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the object with mass $m$ moves along the radial direction of the polar coordinate system, namely $\\scriptstyle { \\theta = 0 }$ . Thus, the second formula of Eq. (5) can be rewritten as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel { \\bullet } { r } = - { \\frac { G M } { r ^ { 2 } } } + \\lambda \\stackrel { \\bullet } { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As we known that the cosmological equations can be obtained from Newtonian mechanics [37]. For a sphere with the radius of $r$ ,if the physical coordinate $\\scriptstyle { r = a ( t ) R }$ （204 0 $R$ is the comoving coordinate of the cosmic expansion, $a ( t )$ is the cosmic expansion factor),the density is $\\scriptstyle \\rho = \\rho _ { 0 } a ^ { - 3 }$ ， and the quality of the material inside the sphere is $\\scriptstyle { M = 4 \\pi / 3 \\rho r ^ { 3 } }$ , it can be expressed from Eq. (6) that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel { \\bullet } { a } = - \\frac { 4 \\pi G \\rho _ { 0 } } { 3 a ^ { 2 } } + \\lambda \\stackrel { \\bullet } { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Substitute Hubble's law $H = a / a$ into Eq.(7), we can obtain ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel { \\bullet } { a } = - \\frac { 4 \\pi G \\rho _ { 0 } } { 3 a ^ { 2 } } + \\lambda H a\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Comparing Eq. (8) to the time-time component of the field equation in the ΛCDM model [10], it can be obtained ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Lambda } { 3 } \\sim \\lambda H\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Eq. (9) shows that the Newtonian dynamic equation with inverse dissipation potential can derive the dynamic equations similar to the expansive cosmological ΛCDM model at large scales. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Now we discuss the second case. For a given initial condition at $\\scriptstyle t = 0$ ，that an object with mass m circle a quasi-stationary object with mass $M$ in its gravitational 2 field, ie $r _ { 0 } = 0$ ， $G M / r _ { 0 } ^ { 2 } = \\theta _ { 0 } r _ { 0 }$ . In a dissipative system, $r$ and $\\theta$ will change with time. Let's assume $r = r _ { 0 } f _ { 1 } ( t ) , \\ \\dot { \\theta } = \\dot { \\theta _ { 0 } } f _ { 2 } ( t )$ , then the second formula in Eq. (5) can be rewritten as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel { \\bullet \\bullet } { r - } f _ { 1 } f _ { 2 } ^ { 2 } r _ { 0 } \\stackrel { \\bullet \\bullet } { \\theta _ { 0 } } ^ { 2 } + \\frac { 1 } { f _ { 1 } ^ { 2 } } \\frac { G M } { r _ { 0 } ^ { 2 } } = \\lambda \\stackrel { \\bullet } { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overleftrightarrow { r } + { \\frac { G M } { r _ { 0 } ^ { 2 } } } ( { \\frac { 1 } { f _ { 1 } ^ { 2 } } } - f _ { 1 } f _ { 2 } ^ { 2 } ) = \\lambda { \\dot { r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Considering the initial condition, when the gravitational field is very weak, namely ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { G M } { r _ { 0 } ^ { 2 } } } \\sim 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then substituting Eq. (12) into Eq. (11) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { \\ddot { r } } \\approx \\lambda { \\dot { r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Solving Eq. (13), then the radius $r$ is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = r _ { 0 } e ^ { \\lambda t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the first formula in Eq.(5), it can be obtained that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ { 2 } \\dot { \\theta } = r _ { 0 } ^ { 2 } \\dot { \\theta _ { \\scriptscriptstyle 0 } } e ^ { \\lambda t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr \\dot { \\theta } = r _ { 0 } \\dot { \\theta _ { \\scriptscriptstyle 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the rotational tangential velocity $V = { \\dot { \\theta } } r$ ，the initial rotational tangential velocity $V _ { 0 } = \\dot { \\theta _ { 0 } } r _ { 0 }$ ,then ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = V _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It can be indicated from Eq.(14) and Eq. (17) that the radius increases exponentially with time, but the rotational tangential velocity of the object remains the same,which coincides with the asymptotical flat rotational velocity properties typically exhibited by some spiral galaxies [38,39]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.MOND Model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As we konwn, M. Milgrom introduced a basic constant $a _ { 0 }$ into the MOND theory, which modified the actual acceleration and Newtonian acceleration in Newtonian mechanics as follows [8,9] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { N } = a \\mu ( a / a _ { 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When $a / a _ { 0 } { > } { > } 1$ ， $\\mu \\left( a / a _ { 0 } \\right) \\sim 1$ ; when $a / a _ { 0 } { < } { < } 1 , ~ \\mu \\left( a / a _ { 0 } \\right) { \\sim } a / a _ { 0 } .$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From Eq.(12), it shows that when the gravitational field of the initial condition is very weak, the tangential velocity of the object with mass m remains basically unchanged with time, while, the distance $r$ could still increase. Suppose the intensity of the weak gravitational field at initial corresponds to $g _ { \\boldsymbol { \\theta } }$ ,that is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { 0 } = { \\frac { G M } { r _ { 0 } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq. (19) into Eq.(17), it can be obtained ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { 4 } = V _ { 0 } ^ { 4 } = G M g _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rewriting Eq. (20) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lg ( L ) = 4 \\lg ( V ) - \\lg ( G g _ { 0 } < M / L > )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathrm { { M } / L }$ is the mass-to-light ratio. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We can see that Eq. (21) is just the Tully-Fisher relationship. Comparing Eq. (20) withtheMOND theory，itcan befoundthat $g _ { \\boldsymbol { \\theta } } { = } a _ { \\boldsymbol { \\theta } }$ Therefore, the centripetal/actual acceleration of the object obtained from Eq.(14) is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = { \\frac { V ^ { 2 } } { r } } = { \\frac { V _ { 0 } ^ { 2 } } { r _ { 0 } e ^ { \\lambda t } } } = { \\frac { g _ { 0 } } { e ^ { \\lambda t } } } = { \\frac { a _ { 0 } } { e ^ { \\lambda t } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Newtonian acceleration is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { _ { N } } = { \\frac { G M } { r ^ { ^ 2 } } } = { \\frac { G M } { r _ { _ 0 } ^ { 2 } e ^ { 2 \\lambda t } } } = { \\frac { g _ { _ 0 } } { e ^ { 2 \\lambda t } } } = { \\frac { a _ { _ 0 } } { e ^ { 2 \\lambda t } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Divide Eq. (23) by Eq. (22) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { a _ { N } } { a } = \\frac { 1 } { e ^ { \\lambda t } } = \\frac { a } { a _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hence,comparing Eq. (24) with Eq. (18), it shows that the model in this paper can derive the form of the empirical function $\\mu$ introduced in the MOND theory. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An isolated gravitational system is studied in this paper through introducing the inverse dissipation potential into Newton's dynamic equation. It is found that the modified dynamic equation can simultaneously deduce the cosmic expansion dynamic equation similar to the ΛCDM model and the asymptotical flat rotational velocity properties typically exhibited by spiral galaxies, which is generally considered to be dark energy and dark matter, respectively. It suggests that the dark energy efect and the dark matter effect may be two aspects of the same physical reality after the introduction of the inverse dissipation potential. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unlike the usual dark matter model, this kind of the asymptotic flat rotational velocity properties of the spiral galaxies are the result of long-term accumulations with time, rather than the direct action effect of mechanics.And in its derived cosmic expansion dynamic equation， an equivalent time-varying cosmological constant is presented, which is consistent with the Quintessence model and the phantom model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally, same with the MOND model, the modified Newton's dynamic equation also derives the Tully-Fisher relationship.Moreover, the basic constant $a _ { 0 }$ introduced in the MOND model and the form of the function $\\mu$ show a clearly corresponding physical significance in the model of this paper. However, the discussion in this paper is still not a relativistic correction of the Newtonian gravity, which requires further study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Universe and a Cosmologiacal Constant, Astron. J., l16, 1009-1038 (1998).   \n[2]P. A. R. Ade, et al., Planck 2013 results. XXI. All-sky Compton parameter power spectrum and high-order statistics, Astronomy and Astrophysics, 571, A16 (2013). [3]E. Komatsu et al, Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation, Astrophys. J. Suppl., 192,18 (2011). [4]Nolta M. R.，Dunkley J.，Hill R. S.，et al.，Five-year wilkinson microwave anisotropy probe (wmap) observations: angular power spectra, Astrophys. J. Suppl., 180, 296 (2009).   \n[5]Nojiri S， Odintsov S D， Introduction to Modified Gravity and Gravitational Alternative for Dark Energy, Int. J. Geom. Meth.Mod. Phys., 4,115 (2007).   \n[6]Carroll S M, Duwuri V, Trodden M,et al.， Is cosmic speed-up due to new gravitational Physics? Phys. Rev.D, 70, 043528 (2004).   \n[7] Roy Maartens, Brane-world gravity, Living Rev. Rel., 7,7 (2004).   \n[8] Milgrom M., A modification of the newtonian dynamics as a possible alternative to the hidden mass hypothesis,Astrophys. J., 270, 365 (1983).   \n[9]M. Milgrom, A modification of the Newtonian dynamics: implications for galaxy systems, Astrophys. J., 270, 371 (1983).   \n[10]P. J. E. Peebles, B. Rhatra, The Cosmological Constant and Dark Energy, Rev. Mod. Phys., 75,559 (2003).   \n[11]J. A. Frieman，C. T. Hill，A. Stebbins，et al.， Cosmology with Ultra-light Pseudo-Nambu-Goldstone Bosons, Phys. Rev. Let, 75,2077 (1995).   \n[12]P. Singh, M. Sami, N. Dadhich, Cosmological Dynamics of phantom Field, Phys. Rev. D, 68, 023522 (2003).   \n[13] R. R. Caldwell， M. Kamionkowski, N. N. Weinberg, Phantom Energy and Cosmic Doomsday, Phys. Rev. Lett., 91, 071301 (2003).   \n[14]Gianfranco Bertone, Particle Dark Matter, Cambridge University press (2010). [15]T. M. Davis,E. Mortsell, J. Sollerman, et al, Scrutinizing Exotic Cosmological Models Using Essence Supernova Data Combined with Other Cosmological Probes, Astrophys. J., 666,716 (2007).   \n[16]Capozziello S， Francaviglia M， Extended theories of gravity and their cosmological and astrophysical applications, Gen. Relativ. Gravit., 40(2),357 (2008). [17]De Felice A, Tsujikawa S, $f ( R )$ Theories, Living Rev. Relat., 13,3 (2010). [18]Ferraro R, Fiorini F, Modified teleparallel gravity: Inflation without an inflaton, Phys. Rev.D, 75, 084031 (2007).   \n[19]Bengochea G R, Ferraro R, Dark torsion as the cosmic speed-up, Phys. Rev. D, 79,124019 (2009).   \n[20]Bekenstein J. D., Relativistic gravitation theory for the MOND paradigm, Phys. Rev. D, 70, 083509 (2004).   \n[21]T. G. Zlosnik, P. G. Ferreira, G. D. Starkman, Modifying gravity with the Aether: An alternative to Dark Matter, Phys. Rev. D, 75,044017 (2007).   \n[22]M. Milgrom, Sanders R. H., MOND predictions of halo phenomenology in disc galaxies, Mon. Not. R. Astron. Soc., 357,45 (2005).   \n[23]M. Milgrom， Sanders R.H.， MOND rotation curves of very low mass spiral galaxies, Astrophys. J., 658,L17 (2007).   \n[24]McGaugh S. S., Schombert J. M., Bothun G. D., et al., The baryonic tully-fisher relation, Astrophys. J., 533,L99 (2000).   \n[25]McGaugh S. S.， The baryonic tully-fisher relation of galaxies with extended rntation curves and the stellar mass nf rotating galaxies. Astronhvs.I. 632.859 (2005).   \n[26]Skordis C.， The tensor-vector-scalar theory and its cosmology， Class.Quant. Grav.,26,143001 (2009).   \n[27]Cardone V.，Angus G.， Diaferio A.， et al., The modified newtonian dynamics fundamental plane, MNRAS, 412,2617 (2011).   \n[28]Famaey B. McGaugh S.， Modified newtonian dynamics(MOND): Observational phenomenology and relativistic extensions, Living Reviews in Relativity， 15,10 (2012).   \n[29]G.Gentile，B.Famaey，W. J.G.de Blok, THINGS about MOND, arXiv: 1011.4148(2010).   \n[30]J. Bekenstein, A Primer to Relativistic MOND theory, Contemporary Physics, 47,387 (2006).   \n[31]T. G. Zlosnik, P. G. Ferreira, G. D. Starkman, Modifying gravity with the Aether: An alternative to Dark Matter, Phys. Rev. D, 75,044017 (2007).   \n[32]M. Milgrom, Bimetric MOND gravity, Phys. Rev. D, 80, 123536 (2009).   \n[33]M. Milgrom, Cosmological fluctuation growth in bimetric MOND, Phys. Rev. D, 82, 043523 (2010).   \n[34]J. P. Bruneton, S. Liberati, L. Sindoni, et al., Reconciling MOND and dark matter? JCAP, 03,021 (2009).   \n[35]J. M. Romero, et al., Electrodynamics a la Horava, Mod. Phys. Lett. A, 25(29), 2501 (2010).   \n[36]M. Milgrom, Dynamics with a non-standard inertia-acceleration relation: an alternative to dark matter, Ann. Phys., 229, 384 (1994).   \n[37]Malcolm S. Longair, Galaxy Formation, Springer press, 2008.   \n[38]Bertone G,Hooper D, Silk J.， Particle dark matter: evidence, candidates and constraints,Phys. Rep., 405,279 (2005).   \n[39]Begeman, K. G., Broeils, A. H., Sanders, R. H., Extended rotation curves of spiral galaxies: Dark haloes and modified dynamics. Monthly Notices of the Royal Astronomical Society,249, 523 (1991). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

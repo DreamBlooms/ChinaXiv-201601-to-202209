@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "AnalyticalMethods ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development of a novel biosensor based on $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase for the detection of 2-dodecylcyclobutanone in irradiated beef ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yueliang Zhao a.1, Yiming Haa,1, Jiachang Yue b.\\*, Feng Wang a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "t   \nof Agriculture,Beijing100193,China   \nb NationalLaboratoryofBomacromolecules,InstituteofBiophysics,ChineseAcademyofSciences,Beijing00,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 22 December 2014   \nReceived in revised form8 April 2015   \nAccepted 30 April 2015   \nAvailable online 1 May 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nFoFi-ATPase   \nImmuno-rotarybiosensor   \n2-Dodecylcyclobutanone   \nIrradiated beef   \nGC-MS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A novel biosensor regulated by the rotator of $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase was developed to analyze 2-dodecylcyclobutanone （2-DCB） to detect $\\gamma$ -ray irradiated beef rapidly.The biosensor was assembled by conjugating 2-DCB monoclonal antibodies with the “rotator”ε-subunit of $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within chromatophores through anε-subunit monoclonal antibody-biotin-avidin-biotin linker.The limit of detection (LOD)of 2-DCB was approximately $1 0 ^ { - 8 } { \\mu \\mathrm { g / m L } }$ The recovery ratio of 2-DCB from ground beef patties ranged from $7 5 . 1 \\%$ to $1 1 6 . 4 \\%$ .The intra-assay and inter-assay coefficients of variation were both $< 1 5 . 0 \\%$ .The proposed method was validated by gas chromatography-mass spectrometry with high correlation.The biosensor was used to detect 2-DCB in ground beef patties with different fat contents ( $1 0 \\%$ $2 0 \\%$ and $3 0 \\%$ )irradiated at 0.5,1.0,3.0,5.0,and $7 . 0 \\mathrm { k G y }$ .The 2-DCB concentration linearly increased with the radiation dose in all the beef samples.2-DCB concentration increased with fat levels in the three samples. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Irradiation of food improves food safetyand maintains food quality by controlling microorganisms and extending shelf life (Gadgil, Smith, Hachmeister,& Kropf, 2005). Although this process is considered a safe food preserving method,to comply with both national and international legislation and to enhance consumer confidence,it is necessaryto developa reliable,convenient,and rapid method to distinguish irradiated from non-irradiated products (Hijaz，Kumar,& Smith，201O). 2-Alkylcyclobutanones are radiolytic products that include 2-dodecylcyclobutanone(2-DCB) from palmitic acid and 2-tetradecylcyclobutanone(2-TCB） from stearic acid;these compounds have been used to detect irradiated lipid-containing foods(Blanch, Caja,Flores,& Castillo,2oo9;Elliott, Hamilton， Stevenson， McCaughey， & Boyd， 1995； Gadgil, Hachmeister， Smith， &Kropf, 2002； Horvatovich， Miesch, Hasselmann，Delinceée，& Marchioni，2Oo5；Obana，Furuta，& Tanaka, 2005;Soncin et al., 2012; Zhao, Wang, Li, Li, & Ha, 2012) 2-Alkylcyclobutanones are considered unique radiolytic products because they are not formed during cooking or any other heat-processing methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The analytical method EN 1785 based on mass spectrometric detection of 2-DCB and 2-TCB after gas chromatographic separation(GC-MS)， adopted bytheEuropean Committeefor Standardization as an officialmethod(European Standard, EN1785) (Anonymous,20o3), has been widely used for the identification of irradiated food.The method comprises three steps:fat extraction using Soxhlet extraction method,followed by adsorption chromatography cleanup,and then chromatographic analysis via GC/MS,which is accurate but expensive and time-consuming (Elliott et al., 1995). Recently, $\\mathrm { ^ 1 H }$ NMR lipid profiling and metabolite profiling has been applied to distinguish irradiated beef from non-irradiated ones (Zanardi et al.,2013,2015). The method is promising because of the simple sample preparation procedure and decreased analysis time.However,beef samples irradiated at doses lower than $2 . 5 \\mathrm { k G y }$ cannot be identified using the method currently and it needs a relative large number of samples to validate the technique and to classify new samples.Therefore,a novel simple and fast method is required for rapid 2-DCB detection to identify irradiated lipid-containing foods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase,a membrane-bound holoenzyme in chloroplasts, bacteria,and in the mitochondria,is a ubiquitous rotary motor that have two components, $\\mathrm { F } _ { 0 }$ $\\mathbf { \\nabla } ) \\left( \\mathsf { a } _ { 1 } \\mathsf { b } _ { 2 } \\mathsf { c } _ { \\mathrm { n } } \\right)$ and $\\vec { \\mathfrak { c } } _ { 1 } \\left( \\mathfrak { A } _ { 3 } \\beta _ { 3 } \\gamma _ { 1 } \\delta _ { 1 } \\varepsilon _ { 1 } \\right)$ ,which are mechanically coupled by a common central stalk (\"rotor\"), $\\mathbf { C } _ { \\mathrm { { n } } } \\varepsilon \\gamma$ (Yagi et al.,2007).The membrane-embedded $\\mathtt { F } _ { 0 }$ unit converts the electrochemical potential of protons(or sodium ions in some bacteria）across membrane into mechanical rotation of the“rotor\" ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$c _ { \\mathrm { n } } \\varepsilon \\gamma$ ，forcing a cyclic conformational change in the $\\alpha _ { 3 } \\beta _ { 3 }$ crown (\"stator\")of $\\mathsf { F } _ { 1 }$ ,resulting in ATP synthesis fromadenosine diphosphate(ADP) and inorganic phosphate(Pi) (Imamuraa et al., 2009; Liu，Zhang，Yue，Jiang，& Zhang，2OO6；Noji & Yoshida，2001; Okuno,Iino,& Noji,2O11). Previous investigations(Zhao et al., 2012) have demonstrated that the holoenzyme activity can be regulated by external links on the“rotator\"ε-subunit.ATP synthetic activity wasactivated with external complexes bind to the“rotor\" ε-subunit. Therefore, $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase has great potential for designing rapid，free-labeled， sensitive,and selectiveimmuno-rotary biosensors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,a biosensor regulated by the“rotator\"ε-subunitof $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase Was developed to analyze 2-DCB to detect $\\gamma$ -rayirradiated beef for the first time.The biosensor developed in this paper isa potential alternative to chromatography or spectrometry for the regulatory analysis of 2-DCB in irradiated lipid-containing foods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Chemicals and reagents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Standard 2-DCB and 2-TCB,ADP,and neutroavidin were purchased from Sigma-Aldrich (Buchs,Switzerland).Hexane was purchased from Fisher Scientific (Pittsburg,PA,USA).Acetonitrile, 2-ethylcyclobutanone,2-oxo-cyclobutane,carboxylic acid,tridecanoic acid, $n$ -tridecane,and anhydrous sodium sulfate were obtained domestically.Mega Bond Elut SI, $1 \\ \\mathrm { g } / 6 \\ \\mathrm { m L }$ were obtained from Varian Inc.(Palo Alto,CA,USA). ENLITEN Luciferase/Luciferin Reagent was purchased from Promega, USA.The microplate luminometer was a Centro XS3 LB 96O (Germany).Chromatophores containing $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase,biotinylated $\\varepsilon$ -subunit monoclonal antibodies,ATP synthesis buffer,and biotinylated 2-DCB monoclonal antibodies were prepared according to previous study (Zhao, Wang, Li,& Ha,2013; Zhao etal.,2012). All other analytically purified reagents were purchased domestically. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Construction of immuno-rotary biosensor (IRB) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The IRB was constructed according to previous study (Zhao et al.,2012）with slight modifications.Approximately $1 5 \\mu \\mathrm { L }$ of chromatophores $( 5 0 ~ \\mathrm { m g / m L } )$ and ${ 8 \\mu \\mathrm { L } }$ （204号 $( 0 . 5 \\mathrm { m g / m L } )$ of biotinylated ε-subunit monoclonal antibodies were mixed in $1 \\mathrm { m L }$ of PBS buffer, and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $6 0 \\mathrm { { m i n } }$ .Then, the free ε-subunit monoclonal antibodies were washed away by centrifugation at $4 0 , 0 0 0 \\times g$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C$ The precipitate was resuspended in $5 0 0 \\mu \\mathrm { L }$ of PBSbuffer.Then, $7 . 5 ~ \\mu \\mathrm { L }$ $( 0 . 1 \\mathrm { m g / m L } )$ of neutroavidin was added and diluted into $1 \\mathrm { m L }$ with PBS buffer,and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathrm { m i n }$ .The free neutroavidin was washed away by $2 0 \\mathrm { m i n }$ centrifugationat $4 0 , 0 0 0 \\times g$ at $4 ^ { \\circ } \\mathsf C$ ，The precipitate was resuspended in $5 0 0 \\mu \\mathrm { L }$ of PBS buffer.Then, $2 8 \\mu \\mathrm { L }$ 1 $\\mathrm { \\langle 0 . 0 3 6 \\ m g / m L \\rangle }$ ofbiotinylated 2-DCB monoclonal antibodies were added and diluted into $1 ~ \\mathrm { m L }$ with PBSbuffer,and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathrm { m i n }$ .Thefree 2-DCB monoclonal antibodies were then washed away by centrifugation at $4 0 , 0 0 0 \\times g$ for $2 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf C$ .The precipitate was resuspended in $5 0 0 \\mu \\mathrm { L }$ of PBS buffer.The IRB are stable at $- 2 0 ^ { \\circ } C$ for atleast1year.Avoid repeated freeze-thaw cycles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.ATP synthesis activity assay of $F _ { O } F _ { 1 }$ -ATPasewithin the chromatophores ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ATP synthesis activity of $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within the chromatophores was determined using the luciferin-luciferase method viaa microplate luminometer according to previous study（Zhao et al.，2012）with slight modifications.Up to $1 0 \\mu \\mathrm { L }$ of the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase molecular motor biosensors and $3 0 \\mu \\mathrm { L }$ of ATP synthesis buffer were mixed together and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathrm { m i n }$ = After the reaction was terminated by adding $4 5 0 \\mu \\mathrm { L }$ of PBS, $5 0 ~ \\mu \\mathrm { L }$ of dilution buffer was added to $3 0 \\mu \\mathrm { L }$ of the luciferase/luciferin reagent,and was mixed.The chemiluminescence was then immediately detected usinga microplate luminometer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Sample pretreatment for biosensor test ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The sample was pretreated according to previous study (Zhao et al.,2013) with slight modifications. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fresh chilled ground beef patties ( $10 \\%$ $20 \\%$ and $30 \\%$ fat)packed in polyethylene packs were purchased from local markets in Beijing and were irradiated at O.5,1.0,3.0,5.0 and $7 . 0 \\mathrm { k G y }$ using a $^ { 6 0 } C 0$ radiation source at room temperature in the radiation center of the Chemistry Institute of Peking University,and then were immediately stored at $- 2 0 ^ { \\circ } C$ A $_ { 5 \\mathrm { g } }$ sample of each set of ground beef patties was homogenized with $1 0 { \\mathrm { g } }$ of anhydrous sodium sulfate.The homogenate was blended with $1 0 0 ~ \\mathrm { { m L } }$ acetonitrile using a tissue-mashing instrument for $1 \\mathrm { m i n }$ .The mixture was left to stand for 1 min before it was blended again for another 1 min. The extraction solvent was carefully passed through filter paper as it was transferred to a $5 0 0 ~ \\mathrm { m L }$ round-bottomed flask.The reaction mixture was retained in the tissue-mashing instrument. Another $1 0 0 ~ \\mathrm { { m L } }$ acetonitrile was then added,and the entire extraction procedure was repeated,as described above.Finally，the extract solutions were combined and evaporated using a rotary evaporator until dry.The round-bottomed flask was washed with hexane,and the obtained solution was collected into a $5 0 ~ \\mathrm { m L }$ volumetric flask.A $1 0 \\mathrm { m L }$ Hexane $\\mathrm { \\Omega } _ { \\mathrm { \\cdot } 1 0 \\mathrm { \\ m L } } )$ was evaporated to $1 ~ \\mathrm { m L }$ via a nitrogen stream,added to a silica SPE cartridge column,and immediately rinsed with $1 0 \\mathrm { m L }$ of $n$ -hexane for conditioning before use.A $1 0 \\mathrm { m L }$ （20 $n$ -hexane aliquot was eluted and discarded. Subsequently,a $1 0 \\mathrm { m L }$ aliquot of a $2 \\%$ diethyl ether-n-hexane solution(2:98， $\\mathbf { v } / \\mathbf { v } )$ waselutedandcollectedfromthe 2-alkylcyclobutanone fraction.The eluted solution was concentrated using a nitrogen stream until dry,and resuspended in $5 0 \\mu \\mathrm { L }$ methanol followed by $4 5 0 \\mu \\mathrm { L }$ ofa PBS buffer $\\left( \\mathsf { p H } \\ 7 . 4 \\right)$ .A $1 0 \\mu \\mathrm { L }$ aliquot of the resulting solution was then assayed by the biosensor.For the GC-MS analysis,after concentrated to dryness, the remaining eluate was resuspended in $5 0 0 \\mu \\mathrm { L }$ of $n$ -hexane.A $1 \\mu \\mathrm { L }$ aliquot of the resulting solution was subsequently used in the GC-MS analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Detection of 2-DCB solution using the biosensor ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The presence of 2-DCB was detected using the novel biosensor, asindicated by the change in fluorescence intensity through ATP synthesis bythe $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within the chromatophores. $1 0 \\mu \\mathrm { L }$ of the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase molecular motor biosensors labeled with 2-DCB monoclonal antibodies were mixed with $1 0 \\mu \\mathrm { L }$ of 2-DCB solution/pretreated sample solution. After $1 0 \\mathrm { m i n }$ ，the ATP synthetic activity of $1 0 \\mu \\mathrm { L }$ of the mixture was determined. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Validationof thebiosensormethod by GC-MS analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To validate the proposed biosensor, the 2-DCB spiked ground beef patties were analyzed usinga QP2o10 Plus model GC-MS system (Shimadzu,Kyoto,Japan).The GC conditions were according to previous study(Zhao et al.,2O12）as follows:column,Rtx-5MS $( 3 0 . 0 \\mathrm { ~ m } \\times 0 . 2 5 \\mathrm { ~ \\textmu m } \\times 0 . 2 5 \\mathrm { ~ m m } )$ )；column temperatureprogram, $5 5 ^ { \\circ } \\mathsf { C }$ (1 min), $5 5 ^ { \\circ } \\mathsf { C }$ to $1 8 0 ^ { \\circ } { \\mathsf { C } }$ at $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ ， $1 8 0 ^ { \\circ } \\mathsf C$ to $2 5 0 ^ { \\circ } \\mathsf C$ at $2 ^ { \\circ } C / \\operatorname* { m i n } , 2 5 0 ^ { \\circ } C ( 2 \\operatorname* { m i n } ) ;$ carrier gas,helium at $1 . 0 0 \\mathrm { m L / m i n }$ ；injection temperature, $2 5 0 ^ { \\circ } \\mathsf C$ ；injection mode,splitless；andinjection volume, $1 \\mu \\mathrm { L }$ .The MS conditions were as follows:ionization mode, electron ionization; ion detection, selected ion monitoring (SIM); ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "detector voltage, $0 . 8 \\mathrm { k V }$ ；ion source temperature, $2 0 0 ^ { \\circ } { \\mathsf C }$ ；and transfer line temperature, $2 5 0 ^ { \\circ } \\mathsf C$ 、The monitored ions were $m / z$ 98 and 112; $m / z$ 98was likewise selected for determination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Optimization of the rotary biosensor conjugation conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(adapt from Zhao et al.,2012 with slight modifications) shows the basic design of the novel rotary biosensor based on $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within a chromatophore. ${ 8 \\mu \\mathrm { l } }$ $( 0 . 5 \\mathrm { m g / m L } )$ of the ε-subunit monoclonal antibodies and $7 . 5 \\mu \\mathrm { l }$ $\\left( 0 . 1 \\mathrm { m g / m L } \\right)$ of neutroavidin were linked to $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase as described previously (Zhao et al.，2O12).Then，the ATP synthetic activity of the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase regulated by binding different quantities of 2-DCB monoclonal antibodies was studied in detail to optimize the construction conditions of the biosensor.Fig.2 shows the average fold-increase in relative fluorescence intensity caused by the loading of biotinylated 2-DCB monoclonal antibodies onto the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 } { \\mathrm { - } } \\mathrm { A T P a s e }$ within thechromatophores. Thebiotinylated ε-subunit monoclonal antibodies were linked with $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase as described in the Materials and methods section,followed by neutroavidin,and the mixture obtained was used as control. Then the biotinylated 2-DCB monoclonal antibodies were linked. The fluorescence intensities,which reveal a good correlation with the ATP synthetic activity,stabilized when the amount of biotinylated 2-DCB monoclonal antibodies was $2 8 \\mu \\mathrm { l }$ $( 0 . 0 3 6 \\mathrm { m g / m L } )$ which was caused by the quantitative limitation in chromatophores.This result indicates that the 2-DCB monoclonal antibodies were successfully linked with the ε-subunit of the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within the chromatophores and $2 8 \\mu \\mathrm { l } \\left( 0 . 0 3 6 \\mathrm { m g / m L } \\right)$ of 2-DCB monoclonal antibodies was optimum for conjugation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaaf0500db5cd6469fa7df0fcdceed3a02b204654f3684f60e8a218e2d7e487d.jpg",
+        "img_caption": [
+            "Fig.1.The schematic illustration of immuno-rotary biosensor based on $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 } .$ ATPase.(1) ε-Subunit monoclonal antibody;(2) neutroavidin;(3) biotin;(4)2-DCB monoclonal antibody;(5)2-DCB molecular(adapt from Zhao et al.,2012 with slight modifications). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/554b8ae1a92179e06218c82f1f55c3c768a76d4c2ff4d75f1c9573ed9e08cce6.jpg",
+        "img_caption": [
+            "Fig.2.Intensity change of relative ATP synthesis activities of the $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase caused by the loading of biotinylated 2-DCB monoclonal antibody onto $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase within the chromatophores $( n = 3 )$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Characterization of the assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under optimal assay conditions,the sensitivity and specificity of the proposed biosensor were investigated.The standard curve of the biosensor for 2-DCB determination in buffer solution was constructed at concentrations from $0 . 0 0 0 1 ~ \\mu \\mathrm { g / m L }$ to $1 0 0 \\mu \\mathrm { g / m L }$ in the buffer solution(Fig.3). This curve could be described using the linear equation $y = 0 . 0 3 7 9 x + 0 . 3 3 5 3$ ， $R ^ { 2 } = 0 . 9 5 3$ .The limit of detection (LOD),calculated as ten times the mean value of the blank buffer solution,was approximately $1 0 ^ { - 8 } \\mathrm { \\mu g / m }$ ,thereby indicating high sensitivity of the assay.Inaddition,2-DCB can be determined for onlyabout $1 0 \\mathrm { m i n }$ using the proposed biosensor without blocking,labeling,and washing procedure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The specificity of the nanoscale biosensor was assessed by detectingfivestructurallyrelatedcompounds(2-TCB, 2-ethylcyclobutanone，2-oxocyclobutanecarboxylic acid， tridecanoic acid,and $n$ -tridecane) simultaneously.The results show that the relative fluorescence intensity caused by loading $1 0 \\mu \\mathrm { L }$ of blank buffer solutionwhichwasusedasthecontrolwas $0 . 0 0 1 9 3 \\pm 0 . 0 0 0 2 7$ 、The relative fluorescence intensity caused by loading $1 0 \\mu \\mathrm { L }$ of the five structurally related compounds at $1 ~ \\mu \\mathrm { g / m L }$ were $0 . 0 0 2 7 9 \\pm 0 . 0 0 0 4 5$ ， $0 . 0 0 1 9 6 \\pm 0 . 0 0 0 4 2$ ， $0 . 0 0 1 8 2 \\pm$ 0.00063, $0 . 0 0 1 6 5 \\pm 0 . 0 0 0 5 4$ ，and $0 . 0 0 1 9 2 \\pm 0 . 0 0 0 3 8$ ，respectively. There was no significant difference compared with the control, which indicates that the five structurally related compounds do not have any direct effect on the biosensor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.Accuracy and precision of the assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To test the accuracy and precision of the proposed biosensor, ground beef patties were spiked with 2-DCB at concentrations of 0.01，0.1，and $0 . 5 \\mathrm { m g / k g }$ of sample to determine recovery, intra-assay variation,and inter-assay variation of each treatment. Unspiked samples were used as blanks.The sampleswere extracted with acetonitrile via direct solvent extraction with a tissue-mashing instrument before they were purified using a $_ { 1 \\mathrm { ~ g ~ } }$ silica cartridge. The elution was concentrated to dryness, resuspended in $5 0 \\mu \\mathrm { L }$ methanol,and diluted with $4 5 0 \\mu \\mathrm { L }$ PBS(pH 7.4) to completely eliminate the matrix effect.The diluted extracts were then analyzed by the biosensor.2-DCB was not detected in unspiked samples.The recovery ratios were calculated using the standard calibration curve;the results are shown in Table 1.The biosensor gave acceptable recovery ratios in the range of $7 5 . 1 \\%$ to $1 1 6 . 4 \\%$ .Theintra-assayand inter-assay coefficients of variation were both $< 1 5 . 0$ ，thereby demonstrating the high accuracy and precision of the assay. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/010e4f2c2efe2b3ad7f239568435fd324981040b4cb0c3f9cd6ad214b91ac5e0.jpg",
+        "img_caption": [
+            "Fig.3.The standard curve of 2-DCB $( n = 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/616c11e8d38872e0b3484f038ad8da12e1816bb2eec01c7343da7c909b8a2c75.jpg",
+        "table_caption": [
+            "Table 1 Results of the recovery,inter-assay variation,and intra-assay variation of ground beef patties spiked with 2-DCB $( n = 3 )$ using the biosensor. "
+        ],
+        "table_footnote": [
+            "a Intra-assay variation was determined by analyzing one extraction sample on a single day three times. b Inter-assay variation was determined by analyzing one extraction sample with three independently constructed IRB. "
+        ],
+        "table_body": "<html><body><table><tr><td>Concentration fortified (mg/kg of beef)</td><td>Average recovery (%)</td><td>Intra-assay variationa (%)</td><td>Inter-assay variationb (%)</td></tr><tr><td>0.01</td><td>106.5</td><td>11.2</td><td>12.1</td></tr><tr><td>0.1</td><td>75.1</td><td>12.4</td><td>14.4</td></tr><tr><td>0.5</td><td>116.4</td><td>5.8</td><td>13.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1905ba94d45664dce5f7817aa6ba358293b02ed0ba1df51495031ad024a9207d.jpg",
+        "img_caption": [
+            "Fig.4.Correlation between the proposed biosensor and GC-MS for ground beef patties spiked with 2-DCB at concentrations of 0.01,O.1 and $0 . 5 \\mathrm { m g } / \\mathrm { k g }$ beef $( n = 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.Validation of the biosensor method by GC-MS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the quality of the biosensor developed in our research,ground beef patties spiked with 2-DCB at concentrations of 0.01, 0.1 and $0 . 5 \\mathrm { m g / k g }$ were simultaneously analyzed by GCMS and biosensor.2-DCB was independently extracted from the beef samples and cleaned up before 2-DCB measurements by GC-MS and biosensor.The GC-MS calibration curve for 2-DCB was constructed in 0.01,0.02,0.05,0.10,0.50,and $1 . 0 \\mu \\mathrm { g / m L }$ ；its linear equation was $y = 2 6 3 1 7 5 . 6 x - 2 5 1 3 . 9 9 4$ 0 $R ^ { 2 } = 0 . 9 9 9 5$ .As shown in Fig.4,the results from these two methods were highly correlated.The linear regression equation of $y = 0 . 7 8 5 5 x + 0 . 0 1 3$ $R ^ { 2 } = 0 . 9 9 1 4$ indicated the reliability of the proposed biosensor test. These results suggested that 2-DCB in food samples could be simply,rapidly,and accurately detected by the biosensor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.2-DCB contentof irradiated ground beefpatties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The proposed biosensor was used to evaluate the amount of 2-DCB in the ground beef patties with different fat contents ( $1 0 \\%$ $20 \\%$ and $30 \\%$ ）irradiatedat 0.5,1.0,3.0,5.0,and $7 . 0 \\mathrm { k G y }$ .2-DCB was not detected in the non-irradiated beef samples.The linear relationship between the irradiation doseand the 2-DCB content is presented in Fig.5.2-DCB concentration increased with fat levels in the three samples.This result agrees with similar studies on the effect of the irradiation dose on the 2-DCB concentration (D'oca et al.,2Oo9;Tewfik,20o8).However,an exponential increase was observed between 2-ACBs content and irradiation dose in the study of irradiating of three cured meat products salame Milano, pancetta,and coppa (Zanardi et al.，2Oo7). The inconsistency between the relationship observed in this study and our study could be ascribed to the ingredients and additives with pro-oxidant(sodium chloride）and antioxidant (sodium nitrate, sodium nitrite,and ascorbic acid）properties that are present in cured meat products,but absent in raw meat.Because the additives may affect the formation of 2-ACBs in cured pork products by scavenging the radicals formed during irradiation depending on the irradiationdose. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase based biosensor was developed to analyze 2-DCB to detect $\\gamma$ -rayirradiated beef.The limit of detection(LOD) of the optimized biosensor was $1 0 ^ { - 8 } \\mu \\mathrm { g / m L }$ .Interferences caused by sample matrix were easily overcome by a simple dilution step before analysis.After sample pretreatment,2-DCB in the irradiated ground beef patties can be determined for only about $1 0 \\mathrm { m i n }$ using the proposed biosensor without blocking,labeling,and washing. The recovery ratio was $7 5 . 1 \\%$ to $1 1 6 . 4 \\%$ ，whereas the intra-assay and inter-assay coefficients of variation were both $< 1 3 . 0$ ，thereby demonstrating the high accuracy and precision of the assay.The proposed method was validated by its good correlation with GCMS results.The proposed method was likewise used to detect 2-DCB in ground beef patties irradiated at O.5,1.0,3.0,5.0,and $7 . 0 \\mathrm { k G y }$ 、The concentration of 2-DcB linearly increased with the irradiation dose.In addition,2-DCB concentration increased with fat levels in the three samples.The proposed biosensor has high sensitivity,high simplicity,rapid reaction time,low cost,and high sample throughput.Thus,the biosensor could be used as a feasible quantitative screening method for the 2-DCB analysis of irradiated ground beef and other lipid-containing foods. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0157ebff4204d53c3f50347b2d2e065f72449181cf076c25ce53441023b0337f.jpg",
+        "img_caption": [
+            "Fig.5.Effect of irrdiation dose and fat level on the concentration of 2-DCB in irradiated ground bef patties $( n = 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thiswork wassupported by the“SpecialFundfor Agro-scientific Research in the Public Interest”(Grant No. 201103oO7）and the“The National Science and Technology Supported Program for the Control of Food Biological Toxin Pollution and Early Warning Technology of the Radioactive Pollution\"(Grant No.2012BAK17B13). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Anonymous.(2oo1).Foodstuffs.Detection of irradiated food containing fat. Gas Chromatographic/Mass Spectrometric Analysis of2-Alkylcyclobutanones;EN1785; European Committee for Standardization:Brussels,Belgium,revised 2003.   \nBlanch, G.P., Caja, M. M.,Flores, G.,& Castillo, M. L. R. (2O09). Identification of 2- dodecylcyclobutanone and linear-alkanes as irradiation markers in sliced drycured ham. Food Chemistry,113,616-620.   \nD'oca,M. C., Bartolotta, A., Cammilleri, M. C., Giuffrida, S. A., Parlato, A., Di Noto, A. M. et al. (20o9). The gas chromatography/mass spectrometry can be used for dose estimation in irradiated pork. Radiation Physics and Chemistry,78,687-689.   \nElliott, C.T., Hamilton,L., Stevenson,M.H., McCaughey,W. J.,& Boyd, D.R.(1995). Detection of irradiated chicken meat by analysis of lipid extracts for 2- substituted cyclobutanonesusing enzyme-linked immunosorbent assay. Analyst, 120, 2337-2341.   \nGadgil，P.，Hachmeister，K. A.，Smith，J. S.，& Kropf,D. H. (2002)．2- Alkylcyclobutanones as irradiation dose indicators in irradiated ground beef patties. Journal of Agricultural and Food Chemistry, 50(20), 5746-5750.   \nGadgil, P., Smith, J. S., Hachmeister, K.A.,& Kropf, D.H. (2005). Evaluation of 2- dodecylcyclobutanone as an irradiation dose indicator in fresh irradiated ground beef. Journal of Agricultural and Food Chemistry, 53,1890-1893.   \nHijaz,F. M., Kumar, A.,& Smith,J. S. (2010). A rapid direct solvent extraction method for the extraction of 2-dodecylcyclobutanone from irradiated ground beef pattiesusingacetonitrile. Journal of Food Science, 75,T118-T122.   \nHorvatovich, P.,Miesch, M., Hasselmann, C., Delinceée,H.,& Marchioni, E. (2005). Determination of monounsaturated alkyl side chain 2-alkylcyclobutanones in irradiated foods. Journal of Agricultural and Food Chemistry, 53, 5836-5841.   \nImamuraa, H., Nhat, K. P. H., Togawa, H., Saito, K., Iino, R., Kato-Yamada, Y., et al. (2009). Visualization of ATP levels inside single living cells with fluorescence resonance energy transfer-based genetically encoded indicators. Processing of the National Academy of Sciences of the United States of America,106, 15651-15656.   \nLiu,X. L., Zhang, Y., Yue, J. C., Jiang, P. D.,& Zhang, Z. X. (2OO6). FoF1-ATPase as biosensorto detect single virus. Biochemical and Biophysical Research Communications,342,1319-1322.   \nNoji,H.,& Yoshida, M.(2oo1). The rotary machine in the cell, ATP synthase.Journal of Biological Chemistry,276,1665-1668.   \nObana, H., Furuta, M.,& Tanaka, Y. (2oo5). Analysis of 2-alkylcyclobutanones with accelerated solvent extraction to detect irradiated meat and fish. Journal of Agricultural and Food Chemistry,53, 6603-6608.   \nOkuno, D., Iino,R.,& Noji, H. (2oi1). Rotation and structure of $\\mathrm { F _ { 0 } F _ { 1 } }$ -ATP synthase. Journal of Biochemistry,149, 655-664.   \nSoncin, S., Panseri, S., Rusconi, M.,Mariani, M., Chiesa,L. M.,& Biondi, P.A. (2012). Improved determination of 2-dodecylcyclobutanone in irradiated ground beef patties by gas-chromatography-mass-spectrometry (GC/MS） coupled with solid-phase microextraction (SPME) technique. Food Chemistry, 134, 440-444.   \nTewfik, I. (2oo8). Extraction and identification of cyclobutanones from irradiated cheese employing a rapid direct solvent extraction method. International Journal ofFood Sciences and Nutrition, 59,590-598.   \nYagi, H., Kajiwara, N., Tanaka, H., Tsukihara, T., Kato-Yamada, Y., Yoshida, M., et al. (2007). Structures of the thermophilic $\\mathrm { F } _ { 1 }$ -ATPase subunit suggesting ATPregulated arm motion of its C-terminal domain in F1. Processing of the National Academy of Sciences of the United States of America,104,11233-11238.   \nZanardi, E., Battaglia, A., Ghidini, S., Conter,M., Badiani, A.,& Ianieri, A. (2007). Evaluation of 2-alkylcyclobutanones in irradiated cured pork products during vacuum-packed storage. Journal of Agricultural and Food Chemistry， 55(10), 4264-4270.   \nZanardi, E., Caligiani, A., Padovani, E., Mariani, M., Ghidini, S., Palla, G., et al. (2013). Detection of irradiated beef by nuclear magnetic resonance lipid_profiling combined with chemometric techniques. Meat Science, 93(2),171-177.   \nZanardi,E., Caligiani, A.,Palla,L., Mariani,M., Ghidini, S.,Di Ciccio,P. A., et al. (2015). Metabolic profiling by $\\mathrm { ^ 1 H }$ -NMR of ground beef irradiated at different irradiation doses. Meat Science,103,83-89.   \nZhao,Y., Wang, F.,Li, W.,& Ha, Y. (2013). Development of a competitive indirect enzyme-linked immunosorbent assay based on monoclonal antibodies for the detection of 2-dodecylcyclobutanone in irradiated beef. Journal of Agricultural and Food Chemistry, 61(32), 7749-7753.   \nZhao,Y. L., Wang, F., Li, W. M., Li, A., & Ha, Y. M.(2012). 2-Dodecylcyclobutanone as an irradiation dose indicator to identify and estimate original dose in irradiated ground beef. European Food Research and Technology,235, 901-906.   \nZhao,Y. L., Wang, P.R., Wang, F., Zhou,H.J., Li, W.M., Yue,J. C., et al. (2012). A novel biosensor regulated by the rotator of $\\mathrm { F } _ { 0 } \\mathrm { F } _ { 1 }$ -ATPase to detect deoxynivalenol rapidly. Biochemical and Biophysical Research Communications,423,195-199. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

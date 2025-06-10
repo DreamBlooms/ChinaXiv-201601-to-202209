@@ -1,0 +1,98 @@
+# 临床研究
+
+# 三叉神经痛患者脑灰质结构的变化：一项基于体素的形态学测量
+
+颜剑豪，李盟，汪天悦，詹文峰，江桂华广东省第二人民医院影像科，广东广州510317
+
+摘要：目的 运用基于体素的形态学测量(VBM)方法分析三叉神经痛患者(TNP)和正常对照组间全脑灰质体积的差异。方法采用PHILIPS1.5T磁共振扫描仪对28例TNP患者和28例正常对照进行全脑高分辨结构像扫描。采用SPM8对采集的三维结构像数据进行预处理,利用DARTEL对全脑结构进行VBM分析，并以双样本t检验比较两组被试灰质体积的差异。结果与正常对照组相比,TNP显示双侧大脑半球广泛脑区的灰质体积减少,这些减少的区域主要位于双侧颞中回,双侧额上回,额中回，左侧中央前后回,右侧梭状回,前扣带回等区域。结论 VBM揭示了TNP存在广泛脑区灰质密度异常,这些脑区基本属于疼痛的感知和处理区域。此外，这种脑结构改变有助于对TNP神经机制的探讨。
+
+关键词：三叉神经痛；灰质体积；VBM;磁共振成像
+
+# Structural changes in the gray matter in patients with trigeminal neuralgia: a voxel-based morphometric study
+
+YAN Jianhao,LI Meng,WANG Tianyue,ZHANWenfeng,JIANGGuihua DepartmentofMedical Imaging,Guangdong SecondProvincial People's Hospital,Guangzhou 510317,China
+
+Abstract: Objective To investigate the changes in whole brain gray mater volume in patients withtrigeminal neuralgia using voxel-based morphometry (VBM).MethodsTwenty-eight patientswith trigeminal neuralgiaand28healthycontrols underwent magnetic resonance imaging with a Philips1.5TMRI scanner. VBM was used tocompare the structural diffrences in the whole brain gray mater between the two groups based on the DARTEL after data preprocessng with SPM8 software package.Results Compared with the healthy controls, the patients with trigeminal neuralgia presented with decreased gray matter volumeinseveralbrainregions including the bilateral middle temporal gyrus,bilateral superior/middle frontal gyrus, left pre-/post-central gyrus,right fusiformand anterior cingulate gyrus. ConclusionsPatients with trigeminal neuralgia had abnormal gray mater volume in some brain regions asociated with perception and processing of pain sensation. These changes may provide clues for further exploration of the neuropathogenic basis of trigeminal neuralgia.
+
+Key words: trigeminal neuralgia; gray matter volume; voxel-based morphometry; magnetic resonance imaging
+
+三叉神经痛(Trigeminal neuralgia,TN)属于慢性神经性疼痛，临床上以反复发作的面部三叉神经区域的剧烈电触样疼痛为特点[],严重影响人们正常的生活。针对TN的发病机制，通过以往研究，主要形成并存在外周及中枢两种观点[2]。近年来，关于慢性疼痛[3-5的研究让人们认识到，长期疼痛刺激可促使中枢神经系统疼痛相关脑区皮层发生病理性重构，但是对TN患者神经机制的研究较少针对脑形态学的变化
+
+基于体素的形态测量学是在体素水平上对全脑或局部脑区灰质体积差异进行研究的重要方法，为大脑形态学的研究提供了一个重要的指标。因此，本研究采用VBM的方法对TN患者进行全脑分析，从而定量TN患者脑部灰质结构的改变，为三叉神经痛发病机制提供新的影像学证据。
+
+# 1资料与方法
+
+1.1研究对象
+
+TN组：本实验28名三叉神经痛患者(女13例，男15例，年龄 $4 5 . 8 6 { \pm } 1 1 . 1 7$ 岁，汉族)均来自广东省第二人民医院神经外科、神经内科。人组标准： $\textcircled{1}$ 符合三叉神经痛诊断标准； $\textcircled{2}$ 常规MRI检查颅脑未见明显异常； $\textcircled{3}$ 排除心脑血管、糖尿病等重大疾病病史及脑外伤病史，或药物依赖史； $\textcircled{4}$ 右利手； $\textcircled{5}$ 年龄在18\~50岁； $\textcircled{6}$ 可配合磁共振数据扫描。正常对照组：通过社区征集，我们招募了在性别年龄学历与实验组相匹配的28名健康志愿者作为正常对照组(女13例，男15例，年龄 $4 5 . 8 6 \pm$
+
+11.17岁，汉族)。人组标准： $\textcircled{1}$ 无三叉神经痛症状； $\textcircled{2}$ 排除严重的器质性及精神疾病或药物依赖史； $\textcircled{3}$ 无MRI扫描禁忌; $\textcircled{4}$ 参与其他临床试验者； $\textcircled{5}$ 右利手。表1列出了所有被试的人口统计学信息。本项研究经过广东省第二人民医院心理健康伦理委员会批准。每个被试都签署了知情同意书。
+
+# 表1三叉神经痛组和控制组人口统计学信息
+
+Tab.1 Demographic data of patients with trigeminal neuralgia (TN)and healthy controls   
+
+<html><body><table><tr><td></td><td>TN Patients (n=28)</td><td>Healthy Control (n=28)</td><td>P</td></tr><tr><td>Age (year)</td><td>45.86±11.17</td><td>44.78±9.19</td><td>0.73</td></tr><tr><td>Gender (famale/male)</td><td>13/15</td><td>5/13</td><td>0.21</td></tr><tr><td>Education (year)</td><td>11.39±2.38</td><td>12.22±3.17</td><td>0.317</td></tr><tr><td>Pain duration (week)</td><td>90.64±205.37</td><td>N/A</td><td></td></tr></table></body></html>
+
+# 1.2MRI数据的扫描与处理
+
+1.2.1数据的扫描每个被试的MRI数据扫描均在广东省第二人民医院影像科进行，并由1.5T飞利浦扫描仪获得。每个被试仰卧，且由带子和泡沫垫固定头部。T1加权3D高分辨率的大脑结构图像的获得采用以下参数：重复时间 $( \mathrm { T R } ) { = } 2 5 ~ \mathrm { m s }$ ,回波时间 $( \mathrm { T E } ) { = } 4 . 1 ~ \mathrm { m s }$ ，翻转角(Flip Angle) $\scriptstyle 1 = 3 0 ^ { \circ }$ ,获得矩阵 $= 2 5 6 \times 2 5 6$ ,视野(FOV) $\ c =$ $2 3 0 \mathrm { m m } ^ { 2 }$ ，厚度 $\mathrm { \dot { \bar { \mathbf { \rho } } } = } 1 . 0 \ \mathrm { m m }$ ,160层矢状位。
+
+1.2.2数据处理基于Matlab2013平台，采用SPM8软件包对采集的三维结构像数据进行预处理(http://www.
+
+fil.ion.ucl.ac.uk/spm/),利用DARTEL对全脑结构进行基于体素的形态测量学(VBM)分析。主要步骤：(1)图像转换：将原始数据DICOM格式转换成NIFTI格式;(2)图像分割:使用"New segment"进行三维脑图像的分割，并选择"Native $^ +$ DARTELImported"的输出图像格式,分割完成后主要得到灰质(graymatter,GM）、白质(white matter,WM）和 脑 脊 液（cerebrospinal fluid,CSF)3部分，产生原始空间中分割图像，以及DARTEL默认格式的图像；(3)创建模板：分割后得到的DARTEL默认格式的灰质图像通过多次迭代求平均模板，并得到灰质图像的变形场;(4)配准、调制、平滑：利用上一步生成的模板和形变场配准原始图像，将所有原始灰质图像和制作模板配准到蒙特利尔神经学研究所(MNI的标准空间中，为了保持标准化每个体素的绝对体积不发生改变，需要进行调制，最后，应用 $8 \mathrm { m m }$ 半高全宽的高斯核对经过体积调制后的脑灰质进行空间平滑。
+
+# 1.3 统计分析
+
+采用SPM8软件运用一般线性模型，以独立样本 $\mathbf { \Phi } _ { t }$ 检验比较两组被试灰质体积的差异。当 $P { < } 0 . 0 0 5$ ，簇体积大于200个体素时，认为灰质体积的差异有统计学意义。
+
+# 2结果
+
+三叉神经痛组和健康控制组在年龄、性别组成、教育年限上不存在显著差异。使用双样本t检验发现，与健康控制组相比，三叉神经痛组灰质体积减少，这些减少的区域主要位于双侧颞中回，双侧额上回，额中回，左侧中央前后回，右侧小脑，距状沟，前扣带回等(表2,图1)。
+
+表2三叉神经痛患者与健康控制组间灰质体积存在显著差异脑区的参数值 Tab.2Parametersof thebrainregions showing significantchangesingray mattervolume inpatients withtrigeminalneuralgia   
+
+<html><body><table><tr><td rowspan="2" colspan="2">Brain areas</td><td colspan="3">MNI</td><td rowspan="2">Voxel size</td><td rowspan="2">T value</td><td rowspan="2">Brodmann areas</td></tr><tr><td>X</td><td>y</td><td>Z</td></tr><tr><td>Middle temporal gyrus</td><td>R</td><td>45</td><td>3</td><td>-33</td><td>524</td><td>3.21</td><td>20.21</td></tr><tr><td>Cerebellum, fusiform gyrus</td><td>L</td><td>57</td><td>-59</td><td>-30</td><td>235</td><td>3.50</td><td>19.37</td></tr><tr><td>Middle temporal gyrus</td><td>R</td><td>68</td><td>-11</td><td>-29</td><td>255</td><td>4.00</td><td>21</td></tr><tr><td>Middle temporal gyrus</td><td>L</td><td>-51</td><td>-5</td><td>-21</td><td>867</td><td>3.45</td><td>20. 21.38</td></tr><tr><td>Middle temporal gyrus,superior temporal gyrus</td><td>L</td><td>-51</td><td>-20</td><td>-6</td><td>583</td><td>3.91</td><td>21.22</td></tr><tr><td>Parahippocampal gyrus, lingual</td><td>R</td><td>35</td><td>-56</td><td>-6</td><td>216</td><td>3.16</td><td>19.27</td></tr><tr><td>Middle frontal gyrus,superior frontal gyrus,anterior cingutate</td><td>R</td><td>26</td><td>33</td><td>36</td><td>319</td><td>3.52</td><td>8.9</td></tr><tr><td>Posterior central gyrus,precentral gyrus</td><td>L</td><td>-50</td><td>-17</td><td>33</td><td>334</td><td>3.93</td><td>3.4.6</td></tr><tr><td>Middle frontal gyrus,superior frontal gyrus</td><td>L</td><td>-20</td><td>14</td><td>44</td><td>493</td><td>3.87</td><td>6.8</td></tr></table></body></html>
+
+L: leftR: right; MNI: Montreal Neurological Institute.
+
+# 3讨论
+
+使用基于体素的形态测量学，本研究探讨了三叉神经痛患者和健康对照组之间灰质体积的差异，发现TN患者前扣带回、颞叶、额叶、梭状回，中央前后回等区域灰质体积减小。
+
+与疼痛相关的灰质的变化在以往关于各种疼痛的研究中都报告过。如，一项关于疼痛的元分析选取了15种疼痛条件相关的30篇VBM研究，发现灰质的变化在不同的疼痛综合征中的表现是不同的，但也有共同的作用脑区，如：扣带皮层、颞叶、额叶皮层、运动皮层、丘脑等，这些区域前作为疼痛相关脑区，在对疼痛信息的认知、情感及情绪调控方面具有重要作用[7]。
+
+![](images/eb94a680edc2ff7c07647da0a798d9698f72bf8e240782d6307d37ac8cfc02fe.jpg)  
+图1三叉神经痛患者和正常控制组间灰质体积存在显著差异的区域  
+Fig.1Branregionsshowingsignificantchanges ingraymatervolumeinpatientswithtrigeminalneuralgia.A:Brainregions with significant changes shown on coronal scanning images ( $_ { z = - 3 0 \ \mathrm { m m } }$ to $+ 4 5 ~ \mathrm { m m }$ ); B:Brain regionswith significant changes shown in renderings; C: Brain regions with significant changes shown in glass brain.
+
+本研究发现，TN患者前扣带回及额上、中回区域灰质体积减小,与以往的研究结果一致[8-9]。前扣带皮层是边缘系统的重要结构，它与边缘系统各个脑区之间，以及与中枢其他部位脑区(如前额皮层)之间有着广泛的联系，参与认知控制、基于强化的学习、疼痛、情绪、动作功能等神经活动调节，且存在有关疼痛的处理、认知、情感和消极影响的整合功能[10]。前额皮层涉及高级的认知功能，包括决策、执行和注意等，两区域间存在一前额-扣带网络，该网络灰质体积的变化会导致认知功能的损伤。Schmidt-Wilcke等使用VBM的方法对长期面部疼痛患者灰质体积的变化进行研究，发现疼痛组在左侧前扣带回和颞叶-脑岛区域以及感觉运动区灰质体积减少。而且1项对三叉神经痛患者的研究中，Oberman等也发现TN患者前扣带回、前额皮层等区域灰质体积异常,并在此基础上,进一步对三叉神经痛患者的患病时间与异常脑区的病变程度进行了相关性分析，呈现明显的负相关性。因此前扣带回及额叶区域灰质体积的减少被认为是在慢性疼痛的发展中是非常重要的因素，我们的研究中前扣带回和额叶体积明显减少，进一步支持该结论。
+
+本研究还发现相比于正常控制组，TN患者梭状回的灰质体积小，且在不同的疼痛情况下，也得到一致的结果[11-13]。例如,Minassian等[12]通过给予20位正常人以短暂电刺激,并观察到急性疼痛发作时，左侧梭状回、海马、初级次级视觉环路等区域活动性增强。这些脑区的活动性，特别是在左侧梭状回，与被试者疼痛反应的等级成明显的负相关性，因此，左侧梭状回在疼痛的感知中具有重要的作用。一项偏关于头痛病人的研究也报告了梭状回体积的变化，相比于控制组，未中风的偏头痛患者这一区域明显萎缩[13]。Parise等[1]也发现,三叉神经痛患者梭状回区域皮层厚度降低。梭状回与多感觉整合区域，认知加工脑区具有关联性，且梭状回属于多巴胺通道，与疼痛反应等级呈负相关，这可能与这些脑区参与了对相似体验、情景的检索、认知的有关[12]这似乎可以推测，三叉神经痛患者的触电样疼痛长期反复发作时，对梭状回等脑区的形态产生了影响。因此，支持梭状回在三叉神经痛发病机理中的作用。
+
+我们发现TN组在颞叶、中央前回等区域灰质体积减小。以往的研究认为，颞叶皮层参与情绪的感知，是负责评估、整合和预测与情绪和焦虑有明显关联的疼痛的二次加工区。长期的疼痛会引发患者的出现情绪症状，如焦虑、抑郁等，这一区域的异常可能与TN患者的这些并发情绪症状有关[14]。而且TN患者中央前后回灰质体积减小,这一结果与Moavedi等[15关于颞颌关节紊乱性疼痛的研究结果相一致。可能的解释为患者为避免引发或诱导疼痛发作而刻意减少相关动作或运动，进而导致与运动相关的运动皮层灰质体积减小[16]。以往关于慢性疼痛的研究中[8.11,16],还发现楔叶、脑岛、丘脑等区域灰质结构的变化，而本研究中没有发现，可能的原因是研究所选用的患者群体不同，抑或由于本研究所选三叉神经痛患者中存在药物使用情况，因此未来研究需进一步综合考虑并排除无关因素干扰。
+
+在本研究中仍存在一定的局限性，首先本研究采用横断设计，不能确定三叉神经痛和灰质体积变化的因果关系，未来研究可按疼痛病程进行纵向研究。第二，三叉神经痛患者组被试均为住院病人，且疼痛侧位未一致，需进一步考虑药物使用情况或招募未用药且疼痛侧位一致的被试加以研究。第三，试验被试者的男女比例不均衡，虽然两组被试性别组成上平衡，但性别因素是否对结果存在影响无法排除。
+
+总之，使用基于体素的形态测量学的分析方法，我们发现三叉神经痛患者在前扣带回、梭状回、以及颞叶、额叶、中央前回等区域灰质体积改变，这些发现与之前的研究结果大体相符。这一研究可能会为三叉神经痛生理机制的研究提供相关信息，也可以为临床治疗提供依据。但结果揭示的形态学改变究竟是三叉神经痛长期发展的结果抑或是其中枢神经系统病因造成的，还需要进一步研究。
+
+# 参考文献：
+
+[1]Headache Classification Committee of the International Headache. The international classification of headache disorders [M].3rd edition (beta version).Cephalalgia,2013,33(9):629-808.   
+[2]Love S,Coakham HB．Trigeminal neuralgia:pathology and pathogenesis[J].Brain,2001,124(Pt 12): 2347-60.   
+[3]Apkarian AV, Sosa Y,Krauss BR,et al. Chronic pain patients are impairea on an emotional aecision-making tasKLJ」.Pain,zUu4,108 (1/2): 129-36.   
+[4]May A. Chronic pain May change the structure of the brain[J].Pain, 2008,137(1): 7-15.   
+[5]Rodriguez-Raecke R,Niemeier A, Ihle K,et al. Brain gray matter decrease in chronic pain is the consequence and not the cause of pain[J]. J Neurosci,2009,29(44): 13746-50.   
+[6]Ashburner J,Friston KJ. Voxel-Based morphometry-the methods[J]. Neuroimage,2000,11(6): 805-21.   
+[7]May A. Structural brain imaging: a window into chronic pain[J]. Neuroscientist,2011,17(2): 209-20.   
+[8] Obermann M,Rodriguez-Raecke R,Naegel S,et al. Gray mater volume reduction reflects chronic pain in trigeminal neuralgia[J]. Neuroimage,2013,74: 352-8.   
+[9] Schmidt-Wilcke T, Hierlmeier S,Leinisch E.Altered regional brain morphology in patients with chronic facial pain[J].Headache, 2010,50(8): 1278-85.   
+[10]Shackman AJ, Salomons TV, Slagter HA,et al. The integration of negative affect,pain and cognitive control in the cingulate cortex [J].Nat Rev Neurosci,2011,12(3): 154-67.   
+[11]Parise M,Kubo TT,Doring TM,etal. Cuneus and fusiform cortices thickness is reduced in trigeminal neuralgia[J].JHeadache Pain, 2014, 15: 17.   
+[12] Ter Minassian A,Ricalens E,Humbert S,et al. Dissociating anticipation from perception: Acute pain activates default mode network[J].Hum Brain Mapp,2013,34(9): 2228-43.   
+[13]Rocca MA,Messina R,Colombo B,et al. Structural brain MRI abnormalities in pediatric patients with migraine[J].JNeurol, 2014, 261(2): 350-7.   
+[14]Lioti M,Mayberg HS,Brannan SK,et al. Diferential limbiccortical correlates of sadness and anxiety in healthy subjects: implications for affective disorders[J].Biol Psychiatry,2000,48 (1): 30-42.   
+[15]Moayedi M,Weissman-Fogel I, Crawley AP,et al. Contribution of chronic pain and neuroticism to abnormal forebrain gray matter in patients with temporomandibular disorder[J]. Neuroimage,2011,55 (1): 277-86.   
+[16] Desouza DD,Moayedi M, Chen DQ,et al. Sensorimotor and pain modulationbrainabnormalitiesintrigeminalneuralgia:a paroxysmal, Sensory-Triggered neuropathic pain[J].PLoS One, 2013,8(6): e66340.
+
+(编辑：吴锦雅）

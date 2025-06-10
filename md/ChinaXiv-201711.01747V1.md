@@ -1,0 +1,168 @@
+高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能、血清生化指标、消化酶及抗氧化酶活性的影响
+
+（1.南京农业大学无锡渔业学院，无锡 214081；2.中国水产科学研究院淡水渔业研究中心，农业部淡水渔业和种质资源利用重点实验室，无锡 214081；3.中国水产科学研究院淡水渔业研究中心，无
+
+# 锡 214081)
+
+摘要：本试验旨在探讨高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能、血清生化指标、肠道消化酶活性及肝脏抗氧化酶活性的影响。试验设计5个组，分别为饥饿0、5、10、15、20d后再补偿摄食3周，依次标记为 S0（对照）、S5、S10、S15、S20 组。选择初始均重为（ $2 2 . 0 3 { \scriptstyle \pm 0 . 0 4 }$ ）g的团头鲂幼鱼270尾，随机分入这5组，每组3个重复，每个重复18尾。结果显示：1）S10组试验鱼末体均重、增重率、特定生长率和饲料效率均达到最高，且补偿摄食期间其日摄食量和饲料效率显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ )，说明团头鲂幼鱼补偿生长是通过提高摄食率和饲料效率共同实现的。2)S5、S10 组血清甘油三酯水平显著低于其他组（ $\scriptstyle P < 0 . 0 5 .$ )，而 S20组血清谷草转氨酶活性显著高于其他组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，说明饥饿时间过长鱼体肝脏受到一定程度损伤；血清中其他生化指标如葡萄糖、总蛋白、白蛋白、总胆固醇水平和谷丙转氨酶活性在各组间无显著差异（ $P { > } 0 . 0 5$ )。3）补偿摄食后，S15组肠道脂肪酶活性显著高于其他组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ；S20 组肠道蛋白酶活性显著高于其他组（除 S5组外）（ $\cdot P { < } 0 . 0 5 )$ ，说明饥饿时间过长在补偿摄食后鱼体内蛋白质消化能力增强。4）各饥饿后补偿摄食组肝脏超氧化物歧化酶（除 S5、S20 组外）和过氧化氢酶活性均显著高于对照组（ $P { < } 0 . 0 5 \$ ，而S20 组肝脏谷胱甘肽过氧化物酶活性显著低于其他饥饿后补偿摄食组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，说明饥饿时间过长对机体抗氧化能力的恢复有所影响。由此可见，在本试验中，高温季节团头鲂幼鱼饥饿 $1 0 \mathrm { d }$ 后补偿摄食3周，补偿生长效果达到最佳，鱼体免疫与抗氧化能力也得到一定增强。
+
+关键词：团头鲂；饥饿后补偿摄食；生长性能；血清生化指标；消化酶；抗氧化酶中图分类号：S963 文献标识码：A文章编号：
+
+由于季节更替、气候突变以及长期生态变化等原因，在自然水域生态系统中，鱼类会因食物分布不均、活动不易等限制因素遭受饥饿胁迫或营养不足[1-2]。在人工养殖条件下，水产集约化养殖技术指数倍地拉长了养殖鱼类的生产力极限[3]，鱼类也会因投饲不足、不均或投喂方式不当等遭遇饥饿[4-5]。鱼类对于饥饿应激有一定生理生态学上的适应性，短期饥饿后恢复摄食，机体可能会表现出比正常摄食鱼类生长更快的现象，称为补偿生长，但超过一定限度后，则会因摄食量不足或鱼体生理机能下降，出现消化功能衰竭等现象，从而丧失补偿生长能力[6-7]。
+
+在过去关于鱼类饥饿后补偿生长的研究中，有相关报道的淡水养殖鱼类有奥尼罗非鱼( Oreochromis aureus $\times$ Oreochromis niloticus）[8]、尼罗罗非鱼（Oreochromis niloticus）[9]、异育银鲫（Carassius auratus gibelio）[10]、红鲫幼鱼（red crucian carp）[1]和金头鲷（Sparus aurata）[12]等,但是有关团头鲂（Megalobramaamblycephala）的饥饿后补偿生长试验鲜有报道，仅见乔秋实等[13]进来了饥饿再投喂对团头鲂生长、体组成及肠道消化酶活性影响的研究。有研究显示高温会影响团头鲂的生长和摄食率，严重时会引起死亡；高温应激会导致细胞发生胁迫反应，破坏鱼体抗氧化系统，降低免疫机能；长时间高温更容易使鱼体暴露于不利环境而感染病原体，抗病力急剧下降[14-15]。因此，本试验将关注高温下团头鲂是否存在饥饿后补偿生长效应。团头鲂，又称武昌鱼，隶属于硬骨鱼纲，鲤形目，鲤科，亚科，其养殖历史悠久，肉质鲜美、生长迅速，且成活率高，是中国重要的经济型淡水养殖鱼类[16-17]。之前已有相关报道描述了团头鲂在饥饿状态下血液生化指标的变化情况[18]，因此本试验在高温季节条件下，通过对团头鲂幼鱼生长性能、血液生化指标、肠道消化酶及肝脏抗氧化酶活性的研究，探讨饥饿后补偿摄食能否使其达到短时间内快速生长与提高机体免疫机能的双重效果，为团头鲂在高温季节的科学投喂模式提供参考依据。
+
+# 31材料与方法
+
+1.1 试验设计
+
+试验用团头鲂幼鱼选自中国水产科学研究院淡水渔业研究中心南泉渔场，初始均重为$( 2 2 . 0 3 { \scriptstyle \pm 0 . 0 4 }$ ）g。依据其他参考资料[1,9-21]，设计试验鱼的饥饿天数分别为0、5、10、15、20 d,随后补偿摄食3周，一共为5组，依次标记为S0（对照）、S5、S10、S15、S20组，每组3个重复，每个重复放养试验鱼18尾，放养规格见表1。试验鱼在正式饲养前用通威公司商品饲料（蛋白质水平 $32 \%$ ，脂肪水平 $6 \%$ ）驯化2周，以适应养殖环境，在正式试验开始前禁食 $2 4 \mathrm { h }$ 。试验容器为盛放$1 4 0 \mathrm { ~ L ~ }$ 循环水的 $2 0 0 \mathrm { ~ L ~ }$ 圆形塑料养殖桶，连续 $2 4 \mathrm { ~ h ~ }$ 充气，溶氧（DO）浓度为 $5 . 4 { \sim } 6 . 8 ~ \mathrm { m g / L }$ ，水温为（ $( 3 2 . 9 8 { \scriptstyle \pm 0 . 3 6 }$ ） $\mathrm { { ^ \circ C } }$ ， $\mathfrak { p H }$ 为 $7 . 7 { \pm } 0 . 2 \$ ，氨氮浓度保持低于 $0 . 1 ~ \mathrm { m g / L }$ 。补偿摄食期间每天饱食投喂通威公司商品饲料3次（08:00、12:00、16:00)，缓慢投喂，直到不再有鱼摄食为止。试验期间，每天观察鱼游泳、摄食以及鱼体的损伤情况。若发现有试验鱼死亡，捞出并计数称重，解剖鱼体观察内脏器官的病理变化情况。每天记录饲料投喂量以及剩余量。
+
+# 1.2样品采集
+
+养殖试验结束停止投喂 $2 4 \mathrm { ~ h ~ }$ 后，对每桶试验鱼计数并称重。每桶随机取3尾试验鱼用MS-222进行麻醉，然后立即用注射器进行尾静脉抽血；取得的血液样品随后在 $4 \mathrm { { ~ } ^ { \circ } C }$ 、 $7 ~ 5 0 0 ~ \mathrm { r / m i n }$ 的条件下离心 $5 \mathrm { m i n }$ ，分离得到血清，将其保存在 $- 8 0 ~ \mathrm { { ^ circ C } }$ 条件下待测。抽血结束后，解剖鱼体，取肠道和肝脏样品，保存在 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 条件下以便进一步分析。
+
+# 1.3 指标测定
+
+按下式计算增重率(weight gain rate,WG)、特定生长率(specific growth rate,SGR)、饲料效率(feed  
+efficiency ratio,FER)、日摄食量(daily feed intake,DFI)、肝体比(hepatosomatic index,HSI)、脏体比  
+(viscerosomatic index,VSI)、肥满度(condition factor,CF)、存活率（survival rate,SR):增重率 $( \% ) { = } 1 0 0 { \times } ( W _ { \mathrm { t } } { - } W _ { 0 } ) / W _ { 0 }$ 特定生长率 $( \% / \mathrm { d } ) { = } 1 0 0 { \times } ( \ln W _ { \mathrm { t } } { - } \ln W _ { 0 } ) / t$
+
+饲料效率 ${ \boldsymbol { \mathbf { \rho } } } _ { = } ( W _ { \mathrm { t } } - W _ { 0 } ) / F$ ;日摄食量 $( \mathbf { g } / \mathrm { d } ) { = } F / t$ 肝体比 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { h } } / W _ { \mathrm { b } }$ ：脏体比 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { v } } / W _ { \mathrm { b } }$ ：肥满度 $\scriptstyle ( \% ) = 1 0 0 \times W _ { \mathrm { b } } / L ^ { 3 }$ ：存活率 $( \% ) = 1 0 0 { \times } N _ { \mathrm { t } } / N _ { 0 } .$ 式中： $W _ { 0 }$ 为鱼初体均重 $\mathbf { \tau } ( \mathbf { g } )$ ； $\boldsymbol { W _ { \mathrm { t } } }$ 为鱼末体均重(g); $\mathbf { \chi } _ { t }$ 为饲喂天数(d); $F$ 为每尾鱼平均摄食饲料总量(风干基础) $\mathbf { \tau } ( \mathbf { g } )$ ； $W _ { \mathrm { h } }$ 为每尾鱼末肝脏重 $\mathbf { \tau } ( \mathbf { g } )$ ； $W _ { \mathrm { v } }$ 为每尾鱼末内脏重 $\mathbf { \tau } ( \mathbf { g } )$ ； $W _ { \mathfrak { b } }$ 为每尾鱼末体重(g)；L为每尾鱼末体长(cm)； $N _ { 0 }$ 为鱼初尾数； $N _ { \mathrm { t } }$ 为鱼末尾数。血清葡萄糖(glucose,GLU)、总蛋白(total protein,TP)、白蛋白(albumin,ALB)、甘油三酯(triglycerides,TG)、胆固醇(cholesterol,TC)水平及碱性磷酸酶(alkaline phosphatase,ALP)、谷丙转氨酶(alanine aminotransferase,ALT)和谷草转氨酶(aspartate transaminase,AST)活性均使用全自动生化分析仪测定，试剂盒均购自深圳迈瑞生物医疗电子股份有限公司。将肠道和肝脏样品分别与浓度为 $84 \%$ 的生理盐水按照9：1（质量体积比）的比例稀释制得 $10 \%$ 匀浆液，制得的 $10 \%$ 匀浆液随后在 $4 \mathrm { { ^ \circ C } }$ 、3 000 r/min 的条件下离心 $1 0 ~ \mathrm { { m i n } }$ ，并将上清液等分试样用于肠道淀粉酶(amylase,AMS)、脂肪酶(lipase,LPS)、蛋白酶(protease,PTS)以及肝脏超氧化物歧化酶(superoxide dismutase,SOD)、过氧化氢酶(catalase,CAT)和谷胱甘肽过氧化物酶(glutathioneperoxidase,GPX)活性的测定。肠道和肝脏样品中酶的活性均用商业试剂盒测定，试剂盒均购自南京建成生物工程研究所。
+
+1.4数据处理试验数据采用 SPSS19.0 统计软件中的单因素方差分析(one-wayANOVA)进行检验， $P { < } 0 . 0 5$ 为差  
+异显著，若差异显著时,再采用Duncan 氏法进行组间多重比较，试验结果以平均值 $\pm$ 标准误(mean±SE)  
+表示。2.1高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能的影响  
+高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能的影响见表1。各组试验鱼存活率均为 $100 \%$ 。在补偿摄食时间相等的情况下，随着前期饥饿时间的增加，试验鱼的末体均重、特定生长率、增重率和饲料效率均呈先增加后降低的趋势，且均是 S10 组效果最佳，该组获得最高末体均重( $\cdot 5 5 . 5 8 \ \mathrm { g } \rangle$ 、特定生长率（ $6 . 1 0 \% / \mathrm { d } )$ 、增重率（ $1 5 1 . 6 5 \%$ ）和饲料效率（0.98)，显著高于其他各组（ $\cdot P { < } 0 . 0 5 )$ ；S10、S15组试验鱼的脏体比显著高于S0组( $( P { < } 0 . 0 5 )$ ，其他饥饿后补偿摄食组与S0组无显著差异( ${ ( P { > } 0 . 0 5 ) }$ S15 组试验鱼的肝体比显著高于S0、S5、S10 组（ $\scriptstyle P < 0 . 0 5 .$ )，与S20组无显著差异（ $P { > } 0 . 0 5 )$ ；试验鱼的肥满度在各组间无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表1高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能的影响
+
+Table 1Effects of compensatory feeding after starvation on growth performance of blunt snout
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">bream in summer</td></tr><tr><td></td><td></td><td>组别Groups</td><td></td><td>S20</td></tr><tr><td>初体均重</td><td>S0 22.00±0.15</td><td>S5 22.04±0.08</td><td>S10 22.09±0.05</td><td>S15 21.91±0.12</td><td>22.09±0.05</td></tr><tr><td>IBW/g 末体均重</td><td>36.73±0.58b</td><td>38.06±0.34b</td><td>55.58±4.55a</td><td>38.27±1.83b</td><td>37.71±0.62b</td></tr><tr><td>特定生长率 FBW/g</td><td>3.42±0.13b</td><td>3.64±0.07b</td><td>6.10±0.58a</td><td>3.70±0.33b</td><td>3.56±0.12b</td></tr><tr><td>SGR/(%/d) 增重率</td><td>66.97±3.38b</td><td>72.70±1.80b</td><td>151.65±21.09a</td><td>74.76±8.89b</td><td>70.68±2.93b</td></tr><tr><td>WGR/% 饲料效率</td><td>0.48±0.02b</td><td>0.48±0.01b</td><td>0.98±0.12a</td><td>0.48±0.06b</td><td>0.43±0.01b</td></tr><tr><td>FER 日摄食量</td><td>1.45±0.07℃</td><td>1.59±0.03b</td><td>1.62±0.02ab</td><td>1.62±0.02ab</td><td></td></tr><tr><td>DFI/(g/d) 脏体比</td><td>8.74±0.40b</td><td>10.25±0.40ab</td><td>10.54±0.37a</td><td>11.20±1.02a</td><td>1.71±0.02a 10.38±0.23ab</td></tr><tr><td>VSI/% 肝体比</td><td>1.45±0.06b</td><td>1.55±0.07b</td><td>1.42±0.07b</td><td>2.01±0.14a</td><td>1.70±0.19ab</td></tr><tr><td>HSI/% 肥满度</td><td>2.07±0.05</td><td>1.97±0.14</td><td>1.88±0.05</td><td></td><td></td></tr><tr><td>CF/%</td><td>100.00±0.00</td><td></td><td></td><td>2.01±0.05</td><td>2.08±0.09</td></tr><tr><td>存活率 SR/%</td><td></td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td><td>100.00±0.00</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ,不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ .The same as below.
+
+2.2高温季节饥饿后补偿摄食对团头鲂幼鱼血清生化指标的影响  
+高温季节饥饿后补偿摄食对团头鲂幼鱼血清生化指标的影响见表2。在补偿摄食时间相等的情况下，S5、S10组血清TG水平显著低于除 S20 组外的其他组（ $_ { . P < 0 . 0 5 ) }$ ；S10组血清ALP活性显著高于S0组（ $\scriptstyle \cdot - 0 . 0 5$ )，与其他饥饿后补偿摄食组无显著差异（ $. P { > } 0 . 0 5 )$ ；血清AST在 S20 组表现出最高活性，显著高于其他各组（ $\cdot P { < } 0 . 0 5 \$ )；血清GLU、TP、ALB、TC水平及ALT活性在各组间无显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ ）°
+
+# 表2高温季节饥饿后补偿摄食对团头鲂幼鱼血清生化指标的影响
+
+Table 2Effects of compensatory feeding after starvation on serum biochemical indexs of blunt snout
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">bream in summer</td></tr><tr><td></td><td></td><td>组别 Groups</td><td></td><td></td></tr><tr><td>总蛋白</td><td>S0 30.07±1.05</td><td>S5 28.89±0.92</td><td>S10 27.95±0.72</td><td>S15 28.22±1.09</td><td>S20 28.66±0.82</td></tr><tr><td>TP/(g/L) 白蛋白</td><td>12.02±0.47</td><td>11.17±0.36</td><td>11.10±0.24</td><td>10.87±0.55</td><td>10.86±0.35</td></tr><tr><td>ALB/(g/L) 总胆固醇</td><td>7.27±0.32</td><td>7.06±0.31</td><td>7.04±0.26</td><td>6.80±0.14</td><td>7.06±0.15</td></tr><tr><td>TC/(mmol/L) 甘油三酯</td><td>3.25±0.19a</td><td>2.66±0.14b</td><td>2.50±0.15b</td><td>3.24±0.21a</td><td>2.86±0.15ab</td></tr><tr><td>TG/(mmol/L) 葡萄糖</td><td>10.86±1.32</td><td>12.66±0.81</td><td>12.69±1.02</td><td>13.31±1.05</td><td>10.95±0.61</td></tr><tr><td>GLU/(mmol/L)</td><td>53.80±2.48b</td><td>64.86±5.70ab</td><td>83.50±8.32a</td><td></td><td></td></tr><tr><td>碱性磷酸酶 ALP/(U/L) 谷丙转氨酶</td><td>9.58±1.66</td><td>11.16±0.45</td><td>10.80±1.35</td><td>70.80±4.78ab</td><td>76.41±7.77ab</td></tr><tr><td>ALT/(U/L)</td><td></td><td></td><td></td><td>6.90±0.92</td><td>9.31±1.30</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>203.17±53.70b</td><td>212.28±29.13b</td><td>189.17±9.80b</td><td>201.86±11.70b</td><td>285.41±21.55a</td></tr></table></body></html>
+
+2.3高温季节饥饿后补偿摄食对团头鲂幼鱼肠道消化酶活性的影响
+
+高温季节饥饿后补偿摄食对团头鲂幼鱼肠道消化酶活性的影响见表3。在补偿摄食时间相等的情况下，S15 组肠道LPS活性最高，显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，其他饥饿后补偿摄食组与S0 组差异不显著（ $. P { > } 0 . 0 5 )$ ；S20 组肠道PTS活性显著高于除S5组外的其他组（ $\cdot P { < } 0 . 0 5 )$ ，其他饥饿后补偿摄食组与S0组差异不显著（ $\cdot P { > } 0 . 0 5 \$ )。肠道AMS活性较稳定，在各组间均无显著差异（ $. P { > } 0 . 0 5 )$ °
+
+Table 3Effects of compensatory feeding after starvation intestinal digestive enzyme activities of blunt :32.4高温季节饥饿后补偿摄食对团头鲂幼鱼肝脏抗氧化酶活性的影响
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">snout bream in summer</td></tr><tr><td></td><td></td><td>组别Groups</td><td></td><td></td></tr><tr><td></td><td>S0</td><td>S5</td><td>S10</td><td>S15</td><td>S20</td></tr><tr><td>淀粉酶 AMS/(U/mg)</td><td>27.81±3.39</td><td>31.78±3.95</td><td>20.94±3.48</td><td>33.94±6.87</td><td>22.47±3.22</td></tr><tr><td>脂肪酶</td><td>6.95±0.99bc</td><td>4.10±0.34c</td><td>9.14±1.81b</td><td>13.28±0.88a</td><td>4.94±0.64c</td></tr><tr><td>LPS/(U/g)</td><td>3.11±0.57b</td><td>4.31±0.48ab</td><td>2.61±0.23b</td><td>3.21±0.78b</td><td>5.03±0.54a</td></tr><tr><td>蛋白酶 PTS/(U/mg)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+高温季节饥饿后补偿摄食对团头鲂幼鱼肝脏抗氧化酶活性的影响见表4。在补偿摄食时间相等的情况下，各饥饿后补偿摄食组肝脏 SOD(除 S5、S20 组外)和CAT 活性均显著高于 S0 组 $( P { < } 0 . 0 5 )$ ：S20组肝脏GPX活性显著低于其他饥饿后补偿摄食组（ $. P { < } 0 . 0 5 )$ 。
+
+# 表4高温季节饥饿后补偿摄食对团头鲂幼鱼肝脏抗氧化酶活性的影响
+
+Table 4Effects of compensatory feeding after starvation on hepatic antioxidant enzyme activities of
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">blunt snout bream in summer</td><td rowspan="2"></td></tr><tr><td></td><td></td><td>组别 Groups</td><td></td></tr><tr><td></td><td>S0</td><td>S5</td><td>S10</td><td>S15</td><td>S20</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mg)</td><td>68.93±4.32b</td><td>70.61±1.89b</td><td>93.44±9.09a</td><td>94.93±4.47a</td><td>80.10±3.11b</td></tr><tr><td>过氧化氢酶</td><td>392.26±77.82b</td><td>692.77±104.39a</td><td>656.11±72.64a</td><td>642.53±42.63a</td><td>665.58±71.02a</td></tr><tr><td>CAT/(U/mg)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶</td><td>2</td><td>3</td><td>2</td><td>3</td><td>1</td></tr><tr><td>GPX/(U/mg)</td><td>231.34±179.51bc</td><td>090.47±216.17a</td><td>871.01±331.58ab</td><td>274.32±301.54a</td><td>925.03±275.67</td></tr></table></body></html>
+
+3讨论
+
+3.1高温季节饥饿后补偿摄食对团头鲂幼鱼生长性能的影响
+
+鱼类的补偿生长效应按补偿量来说，大致可分为4类：超补偿生长、完全补偿生长、部分补偿生长和不补偿生长[22-23]。补偿生长的发生与否及效应程度是通过比较相同时间持续摄食的对照组和补偿摄食组的体重与特定生长率来决定的[24]。有研究表明高温季节鱼类摄食量少且分配于生长的能量减少，因此高温胁迫下鱼类生长会减慢[25-26]。本试验结果表明，S10组的团头鲂幼鱼在补偿摄食后具有最佳生长性能且具有超补偿生长效应，其他饥饿后补偿摄食组也均达到完全补偿生长效应。该结果与其他研究结果相似，例如：周期性饥饿投喂虹鳟（Salmo gairdneri）3周后，其增重率比持续投喂组要高，表明该虹鳟为超补偿生长[27]；吉富罗非鱼（Oreochromis niloticus）在饥饿5 d恢复投喂15d后，表现为完全补偿生长[28]，但在饥饿10、15d后恢复投喂同样天数其体重明显低于对照组，只获得了部分补偿生长。当然，也有研究发现短时间（3周以内）限食无法使大西洋鳕（Gudus morhua）发生补偿性生长[29]。目前关于动物补偿生长的生理机制尚无确切定论，补偿摄食后饥饿鱼可能是通过大量摄食，也有可能是通过低代谢消耗使用于生长的净能增加，从而提高饲料转化率来促进生长的[30-31]。本试验中，S10组试验鱼日摄食量与饲料效率均很高，说明该组试验鱼在增加食欲的同时提高了饲料转化率，从而获得快速生长，该结论与太平洋鲑（Oncorhynchus spp）[32]和异育银鲫[3]的补偿生长机制一致；而其他饥饿后补偿摄食组仅通过提高摄食量来实现补偿生长，类似的结果在西伯利亚鲟（Acipenser baerii）[19]的补偿生长试验中也有观察到。因此，鱼类发生补偿生长的条件、程度与机制可能与饥饿处理的时间和方式有关，也可能与物种、试验动物大小和试验条件有关。
+
+3.2高温季节饥饿后补偿摄食对团头鲂幼鱼血清生化指标的影响
+
+血清生化指标的波动能用来评价鱼体营养健康状况及对环境的适应状况[34]，常作为反映鱼体生理状况和代谢机能的重要指标之一。GLU是体内多数组织的必需燃料，正常情况下，在神经系统和内分泌系统的调节下，鱼体血糖浓度会处于动态平衡[35]，由此可见血糖浓度维持稳定对鱼类正常生命活动有重要作用[36-37]。本试验中所有组之间血清GLU水平无显著差异，说明在饥饿与补偿摄食过程中，为了维持正常的生命活动，团头鲂会适应性地调节血糖平衡。血清TG在脂质代谢中起重要作用[38]，本试验中S5、S10组血清TG水平较S0组显著降低，这表明鱼体内存在与内源性脂质转运机制相关的生理活动，间接说明补偿摄食后鱼体大幅度动用机体脂肪来补充能量加速生长，该现象在黑鲷（Acanthopagrus schlegeli）幼鱼[39]的试验中也有出现。ALP是体内酶的重要代谢调节剂，主要涉及转移磷酸基团和钙磷代谢，在吸收营养物质过程中起重要作用[40]。该理论与本试验中最高ALP活性组具有最佳生长性能的现象相符合。ALT和AST是动物体内一类重要的氨基转移酶，广泛存在于线粒体中[41]，与体内蛋白质代谢密切相关，S20组血清AST活性最高，说明该组试验鱼肝脏细胞可能受到损伤，膜通透性加大，导致组织内大量AST渗入血液，表明饥饿时间过长可能易导致肝脏发生器质性变化。
+
+3.3高温季节饥饿后补偿摄食对团头鲂幼鱼肠道消化酶活性的影响  
+鱼类在限食或营养不足的情况下，必须调节自身各种酶的活性以提高体内贮存营养物质的利用效率，从而维持生命[42-43]。若饥饿时间不长，消化系统未发生实质性改变，补偿摄食后鱼体受到感官刺激，中枢神经系统对消化腺分泌发出指令[445]，为积极利用体内外营养物质，消化酶的分泌量会迅速增加，与正常摄食鱼的分泌水平持平，甚至某些酶的分泌量还会超过正常摄食鱼，原因在于饥饿鱼表现出补偿性的摄食与消化水平[46]。本试验中饥饿后补偿摄食组团头鲂肠道LPS活性增加以加快脂肪供能，该结果与之前某些学者研究得出团头鲂在饥饿阶段主要利用脂肪作为能源物质的结果[13,18]相吻合，且本试验研究结果与胭脂鱼（Myxocyprinus asiaticus）[19]和建鲤（Cyprinus carpio var.Jian）[47]的研究结果相似。然而，S20组的肠道LPS活性较低而PTS活性较高，可能是长时间饥饿使机体耗尽脂肪后开始动用蛋白质作为能量物质，因此长期饥饿且补偿摄食后团头鲂蛋白质消化能力加强。有研究报道花鲈（Lateolabrax japonicus）在饥饿过程中就是先利用肌肉脂肪后动用蛋白质，且恢复投喂后机体组织蛋白质有不断回升趋势[48]。同样，饥饿胁迫下黑鲷（Acanthopagrus schlegeli)也是先后依次动用体组织脂肪和蛋白质且主要靠消耗蛋白质来维持生命活动[39]。饥饿过程中鱼动用体内储存物质的类型及顺序与饥饿程度和鱼的大小、种类有关，且补偿摄食后，鱼体利用获取的能量来恢复贮备物质的先后顺序也不尽相同。  
+3.4高温饥饿后补偿摄食对团头鲂幼鱼肝脏抗氧化酶活性的影响  
+饥饿应激和高温胁迫都易引起鱼体内过量活性氧(ROS)的产生，体内自由基快速蓄积，造成组织氧化受损，而鱼体抗氧化酶（例如 SOD、CAT、GPX）的防御系统可防止ROS 的产生[15.49-51]。SOD能催化超氧阴离子（ $\overline { { \mathbf { O } _ { 2 } } } ^ { - }$ ）歧化产生过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ )，阻止体内过氧化反应，以减轻自由基对机体造成的损害[49]。一般有 2 种方法来解毒 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ：1）CAT减少 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 产生 $\mathrm { H } _ { 2 } \mathrm { O }$ 和氧气（ $\dot { \mathbf { \Omega } } _ { \mathbf { \Omega } } \mathrm { O } _ { 2 }$ ）；2）GPX解毒 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } ^ { [ 5 2 ] }$ 。在本试验中，各饥饿后补偿摄食组肝脏 SOD 和CAT 活性均得到补偿性升高，该结果
+
+与建鲤周期性饥饿再投喂试验结果[41]一致，即各饥饿后补偿摄食组建鲤肝脏 SOD 活性均高于对照组，说明饥饿后补偿摄食一定程度上可以提高肝脏 SOD 活性。同时，研究发现牡蛎（Saccostreaglomerata）在饥饿时肝脏 SOD 和CAT 活性被抑制，恢复投喂后上述酶活性开始上升，且试验强调了胁迫持续时间对酶活性的重要影响[53]。肝脏GPX在 S20 组表现出最低活性，说明饥饿过久可能导致机体抗氧化防御失败，使细胞对氧化性损伤更为敏感。本试验中饥饿后补偿摄食对团头鲂幼鱼肝脏抗氧化酶活性的作用机制仍然不清楚，其内在分子机制亟需进一步研究。
+
+4结论
+
+本试验中，在高温季节团头鲂幼鱼饥饿10d后补偿摄食3周，可通过提高摄食量与饲料效率达到最佳补偿生长效果，其抗氧化能力也有所增强。
+
+参考文献：
+
+[1] CARUSO G,DENARO M G,CARUSO R,et al.Response to short term starvation of growth,haematological,biochemical and non-specific immune parameters in European sea bass (Dicentrarchus labrax) and blackspot sea bream (Pagells bogaraveo)[J].Marine Environmental Research,2011,72(1/2):46-52.   
+[2]BAVCEVIC L,KLANJSCEK T,KARAMARKO V,et al.Compensatory growth in gilthead sea bream (Sparus aurata) compensates weight,but not length[J].Aquaculture,2010,301(1/2/3/4):57-63.   
+[3]MOHAPATRA S,CHAKRABORTY T,SHIMIZU S,et al.Starvation beneficially influences the liver physiology and nutrient metabolism in Edwardsiella tarda infected red sea bream (Pagrus major)[J].ComparativeBiochemistryandPhysiologyPartA:Molecular&Integrative Physiology,2015,189:1-10.   
+[4]田娟,涂玮,曾令兵,等.饥饿和再投喂期间尼罗罗非鱼生长、血清生化指标和肝胰脏生长激素、类 胰岛素生长因子-I和胰岛素mRNA表达丰度的变化[J].水产学报,2012,36(6):900-907.   
+[5] 朱站英,华雪铭,于宁,等.草鱼蛋白质和脂肪代谢对饥饿胁迫的响应[J].水产学
+
+报,2015,36(5):756-763.
+
+[6] HEIDE A,FOSS A,STEFANSSON S O,et al.Compensatory growth and fillt crude composition in juvenileAtlantichalibut:effectsofshort term starvation periodsandsubsequent feeding[J].Aquaculture,2006,261(1):109-117.
+
+[7]FOSS A,IMSLAND A K,VIKINGSTAD E,et al.Compensatory growth in Atlantic halibut:effect of starvationandsubsequentfeeding on growth,maturation,feed utilization and flesh quality[J].Aquaculture,2009,290(3/4):304-310.
+
+[8]李程琼,冯健,刘永坚,等.奥尼罗非鱼多重周期饥饿后的补偿生长[J].中山大学学报:自然科学版,2005,44(4):99-102.
+
+[9]ALI T E S,MARTINEZ LLORENS S,MONINO A V,et al.Effects of weekly feeding frequency and previous ration restriction on the compensatory growth and body composition of Nile tilapia fingerlings[J].The Egyptian Journal of Aquatic Research,2016,42(3):357-363.
+
+[10] ZHU X M,XIE S Q,ZOU Z J,et al.Compensatory growth and food consumption in gibel carp,Carassius auratus gibelio,and Chinese longsnout catfish,Leiocassis longirostris,experiencing cycles of feed deprivation and re-feeding[J].Aquaculture,2004,241(1/2/3/4):235-247.
+
+[11]吴蒙蒙,李吉方,高海涛.饥饿和补偿生长对红鲫幼鱼生长和体组分的影响[J].水生态学杂 志,2009,2(5):80-84.
+
+[12] PERES H,SANTOS S,OLIVA-TELES A.Lack of compensatory growth response in gilthead seabream (Sparus aurata) juveniles following starvation and subsequent refeeding[J].Aquaculture,2011,318(3/4):384-388.
+
+[13]乔秋实,徐维娜,朱浩,等.饥饿再投喂对团头鲂生长、体组成及肠道消化酶的影响[J].淡水渔 业,2011,41(2):63-68.
+
+[14]周明,刘波,戈贤平,等.不同水平维生素E对高温应激及常温恢复后团头鲂血清生化指标、肠道抗 [15]LIU B,XU P,BROWN P B,et al.The efect of hyperthermia on liver histology,oxidative stress and disease resistance of the Wuchang bream,Megalobrama amblycephala[J].Fish &Shellfish Immunology,2016,52:317-324.
+
+[16]任鸣春,周群兰,缪凌鸿,等.团头鲂营养需求与健康研究进展[J].水产学报,2015,39(5):761-768.  
+[17]周明,刘波,戈贤平,等.饲料维生素E添加水平对团头鲂生长性能及血液和肌肉理化指标的影响[J].动物营养学报,2013,25(7):1488-1496.  
+[18]胡海彦,宋迁红,韩军涛,等.饥饿对不同体重组团头鲂肌肉和血清生化成分的影响[J].中国农学通报,2010,26(24):408-411.  
+[19]王川,金丽,刘晓蕾,等.延迟首次投喂对胭脂鱼仔鱼生长、摄食及消化酶活性的影响[J].水产学报,2013,37(11):1706-1715.  
+[20]黄莹,朱晓鸣,解绶启,等.西伯利亚鲟在高温下饥饿后的补偿生长[J].水生生物学报,2010,34(6):1113-1121.  
+[21]吴立新,董双林.水产动物继饥饿或营养不足后的补偿生长研究进展[J].应用生态学报,2000,11(6):943-946.  
+[22]刘龙龙,罗鸣,陈傅晓,等.卵形鲳鲹幼鱼的饥饿和补偿生长研究[J].上海海洋大学学报,2014,23(1):31-36.  
+[23]杜劲松,高攀,胡建勇,等.饥饿和再投喂对白斑狗鱼生长性能和生化组成的影响[J].水生态学杂志,2010,3(6):96-100.  
+[24]宋国,彭士明,孙鹏,等.饥饿与再投喂及投喂频率对条石鲷幼鱼生长和消化酶活力的影响[J].中国水产科学,2011,18(6):1269-1277.  
+[25]李洁,黄国强,张秀梅,等.高温一最佳温度循环对褐牙鲆生长、能量分配和身体成分的影响[J].水产学报,2010,34(8):1236-1243.
+
+26] HANDELAND S O,IMSLAND A K,STEFANSSON S O.The effect of temperature and fish size on growth,feed intake,food conversion eficiency and stomach evacuation rate of Atlantic salmon post-smolts[J].Aquaculture,2008,283(1/2/3/4):36-42.
+
+[27]DOBSON S H,HOLMES R M.Compensatory growth in the rainbow trout,Salmo gairdneriRichardson[J].Journal of Fish Biology,1984,25(6):649-656.  
+[28]秦志清,林建斌,樊海平,等.饥饿和补偿生长对吉富罗非鱼摄食、生长及体成分的影响[J].集美大学学报:自然科学版,2011,16(4):252-257.  
+[29]JOBLING M,MELOY O H,SANTOS J D,et al.The compensatory growth response of the Atlanticcod:effects of nutritional history[J].Aquaculture International,1994,2(2):75-90.  
+[30]吴玉波,吴立新,陈晶,等.饥饿对牙鲆幼鱼补偿生长、生化组成及能量收支的影响[J].生态学杂志,2011,30(8):1691-1695.  
+[31]杨其彬,姜松,黄建华,等.斑节对虾的饥饿试验和补偿生长[J].南方水产科学,2013,9(5):25-31.  
+[32]冯健,罩志彪.淡水养殖太平洋鲑循环饥饿后补偿性生长效果研究[J].水生生物学报,2006,30(5):508-514.  
+[33]QIAN X,CUI Y,XIONG B,et al.Compensatory growth,feed utilization and activity in gibelcarp,following feed deprivation[J].Journal of Fish Biology,2000,56(1):228-232.  
+[34]周玉,郭文场,杨振国,等.鱼类血液学指标研究的进展[J].上海水产大学学报,2001,10(2):163-165.  
+[35]林艳,缪凌鸿,戈贤平,等.投喂频率对团头鲂幼鱼生长性能、肌肉品质和血浆生化指标的影响[J].动物营养学报,2015,27(9):2749-2756.  
+[36]钱云霞,陈惠群,孙江飞.饥饿对养殖鲈鱼血液生理生化指标的影响[J].中国水产科学,2002,9(2):133-137.  
+[37]刘波,何庆国,唐永凯,等.饥饿胁迫对吉富罗非鱼生长及生理生化指标的影响[J].中国水产科学,2009,16(2):230-237.
+
+[38]骆作勇,王雷,王宝杰,等.奥利亚罗非鱼饥饿后补偿生长对血液理化指标的影响[J].海洋科学进展,2007,25(3):340-345.
+
+[39]龙章强,彭士明,陈立侨,等.饥饿与再投喂对黑鲷幼鱼体质量变化、生化组成及肝脏消化酶活性 的影响[J].中国水产科学,2008,15(4):606-614.   
+[40]孙盛明,戈贤平,朱健,等.零换水条件下饲料蛋白水平对团头鲂幼鱼生长、消化酶活力和血清生化 指标的影响[J].水生态学杂志,2017,38(1):68-74.   
+[41]乔秋实.周期性饥饿再投喂对团头鲂和建鲤生长性能、体组成、消化酶及抗氧化酶的影响[D]. 硕士学位论文.南京:南京农业大学,2011.   
+[42]RIVERA PEREZ C,GARCIA CARRENO F L.Digestive lipase activity through development and after fasting and re-feedinginthe whiteleg shrimp Penaeus vannamei[J].Aquaculture,2010,300(1/2/3/4):163-168.   
+[43]李志华,谢松,王军霞,等.间歇性饥饿对日本沼虾生长和几种消化酶的影响[J].水产学 报,2007,31(4):456-462.   
+[44]王辉,强俊,李瑞伟,等.短期饥饿对奥尼罗非鱼幼鱼生长和几种消化酶的影响[J].广东海洋大学学 报,2010,30(1):7-12.   
+[45]高露姣,陈立侨,赵晓勤,等.施氏鲟幼鱼的饥饿和补偿生长研究——对消化器官结构和酶活性的 影响[J].中国水产科学,2004,30(5):413-419.   
+[46]李芹,唐洪玉,郑永华,等.饥饿和再投喂对厚颌鲂稚鱼生长及消化酶活性的影响[J].西南大学学报： 自然科学版,2013,35(7):39-44.   
+[47]乔秋实,蒋广震,刘文斌,等.周期性饥饿再投喂对建鲤(Cyprinus carpio var.Jian)生长、体组成、 消化酶的影响[J].海洋与湖沼,2011,42(3):367-373.   
+[48]楼宝,史会来,毛国民,等.饥饿及恢复投饵过程中花鲈肌肉组成及非特异免疫水平的变化[J].水产 学报,2008,32(6):929-938.   
+[49]鞠雪,王秋举,罗莎,等.氧化鱼油对草鱼幼鱼脂质过氧化及抗氧化酶活性的影响[J].南京农业大学 学报,2015,38(3):491-496.   
+[50] 叶继丹,韩友文,赵吉伟,等.喹乙醇对鲤肝胰脏抗氧化酶系统的影响[J].水产学 报,2004,29(6):1439-1445.   
+[51] CHENG C H,YANG F F,LIAO S A,et al.High temperature induces apoptosis and oxidative stress in pufferfish (Takifugu obscurus) blood cels[J].Journal of Thermal Biology,2015,53:172-179.   
+[52]LI S,YAN T,YANG J Q,et al.The role of cellular glutathione peroxidase redox regulation in the suppression of tumor cell growth by manganesesuperoxidedismutase[J].Cancer Research,2000,60(14):3927-3939.   
+[53]BUTT D,ALADAILEH S,O CONNOR W A,et al.Efect of starvation on biological factors related to immunological defence in the Sydney rock oyster (Saccostrea glomerata)[J].Aquaculture,2007,264(1/2/3/4):82-91. Effects of Compensatory Feeding after Starvation on Growth Performance, Serum Biochemical Indexs,   
+Intestinal Digestive Enzyme Activities and Hepatic Antioxidant Enzyme Activities of Juvenile Blunt Snout Bream (Megalobrama amblycephal) in Summer SU Yanli'GE Xianping1\*SUN Shengming² ZHU Jian³ZHANG Wuxiao' YU Han' (1. Wuxi Fishery Collge Nanjing Agricultural University, Wuxi 214081, China; 2. Key Laboratory of   
+Freshwater Fisheries and Germplasm Resources Utilization, Ministry ofAgriculture,Freshwater Fisheries Research Center, Chinese Academy ofFishery Sciences, Wuxi 214081, China; 3.Freshwater Fisheries Research Center, Chinese Academy of Fishery Sciences, Wuxi 214081, China)   
+Abstract: A feeding trial was conducted to investigate the effcts of compensatory feeding after starvation
+
+on growth performance，serum biochemical indices,intestinal digestive enzyme activities and hepatic antioxidant enzyme activities of juvenile blunt snout bream (Megalobrama amblycephal) in summer. Five groups were designed,they were hungering 0,5,10,15,20 days and then refeeding 3 weeks, which marked as S0 (control), S5, S10, S15 and S20 groups,respectively. Two hundred and seventy juvenile blunt snout breams with an average body weight of $( 2 2 . 0 3 { \scriptstyle \pm 0 . 0 4 } )$ g were randomly divided into 5 groups with 3 replicates in each group and 18 fish in each replicate.The results showed as follows:1) the final fish weight, weight gain rate, specific growth rate and feed eficiency ratio were highest in S10 group and the daily feed intake and feed efciency ratio in S10 group were significantly increased compared with control group $( P { < } 0 . 0 5 )$ ，which indicated that the compensatory growth of juvenile blunt snout breams was accomplished through increasing feeding rate and feed effciency ratio. 2) The levels of triglycerides in S5 and S10 groups was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ ; however, the activity of serum aspartate transaminase in S2O group was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ ，which indicated that long-term starvation may damage the liver. No significant differences were detected among the groups in serum glucose, total protein, albumin,total cholesterol contents and alanine aminotransferase activity $( P { > } 0 . 0 5 )$ . 3）After compensatory feeding， the intestinal lipase activity in S15 group was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ , and the intestinal protease activity in S20 group was significantly higher than that in other groups except S5 group $( P { < } 0 . 0 5 )$ , which indicated that compensatory feding after long-term starvation may improve protein digestive ability in vivo. 4) The activities of hepatic superoxide dismutase (except S5 and S2O groups） and catalase in compensatory feeding groups were significantly higher than those in control group $( P { < } 0 . 0 5 )$ , and the activity of hepatic glutathione peroxidase in S20 group was significantly lower than that in other compensatory feeding groups $( P { < } 0 . 0 5 )$ ，which indicated that long-term starvation may repress the recovery of antioxidant capacity. It is concluded that juvenile blunt snout bream after 10-day starvation and 3-week refeeding achieve the best compensatory growth effect in summer,the immune and antioxidant capacity also increase certainly in this experiment. Key words: blunt snout bream (Megalobrama amblycephala); Compensatory Feeding after Starvation;

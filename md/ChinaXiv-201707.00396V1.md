@@ -1,0 +1,128 @@
+# 智库报告
+
+# 当前我国企业创新的特点及挑战：来自全国企业创新调查的证据
+
+熊鸿儒1.2
+
+1国务院发展研究中心北京100010²中国（海南）改革发展研究院海口570311
+
+摘要：［目的/意义]企业的创新活力和创新能力是反映一个国家创新水平的关键指标，也是评估创新政策实施效果的重要参考。[方法/过程]本文对国家统计局2015年全国企业创新调查的统计结果进行了数据分析，归纳了当前企业创新的进展情况和主要问题。[结果/结论]我国企业创新已进入规模提升、形式丰富、潜力强劲的快速发展期，呈现出多个行业并发、多种类型并举、多数企业家重视的良好局面。但同时，创新的企业仍是相对少数，创新效果难以凸显削弱了企业创新的动力，创新表现的差距在内部、外部都较大，总体创新活力仍显不足。多数企业的创新能力进入爬坡、攻坚阶段，面临知识产权保护不力、人才匮乏、成本居高、开放合作不足的多重挑战。为此，政府必须正确、高效地发挥作用——既要在营造创新环境中破除资源配置扭曲，也要在保护知识产权、激励创新人才、降低创新成本、促进开放合作方面帮助企业补足短板，不断壮大创新群体，提升企业创新的动力和能力。
+
+关键词：创新调查企业创新创新活力创新能力分类号：C936DOI: 10.19318/j.cnki.issn.2096-1634.2016.05.15
+
+随着我国经济发展进人提质增效的新阶段，创新已成为结构调整和产业转型升级的第一动力。企业作为科技和经济紧密结合的主要载体，也是最重要的创新主体之一，其开展创新活动的进展和水平既是反映我国创新质量和效率的关键指标，也是分析创新驱动发展战略执行效果的重要参考。利用国家统计局2015年开展全国企业创新调查的统计结果，我们进行了大样本的数据分析和比较，总结了当前我国企业创新活动的主要特点。对企业创新活动总体图景的描绘和关键瓶颈的剖析，将为政府决策者和企业管理者提供参考。
+
+# 1我国企业创新已初具规模，进入快速扩张时期
+
+过去30多年的快速追赶为我国企业创新奠定了良好基础。进入新常态以来，开展创新活动的企业数量和比重有了大幅提高，尤其体现在技术密集型的行业领域。同时，多种类型的创新活动并举，创新的信息来源越来越丰富。新一代企业家也普遍重视创新的作用。
+
+# 1.1企业开展创新活动的规模有所提升
+
+2013—2014年间，调查64.6万家企业中有
+
+# 熊鸿儒．当前我国企业创新的特点及挑战：来自全国企业创新调查的证据[J].智库理论与实践，2016，1(5):106-110.
+
+26.6万家企业开展了创新活动，占比 $41 . 3 \%$ 。这与10年前的规模相比，有了大幅的提升。以工业领域为例，开展创新活动的企业比重从10年前的$2 8 . 8 \%$ 增长到了 $4 6 . 8 \%$ 。同时，企业创新活跃度高的领域大多分布在技术密集型行业。
+
+# 1.2多种类型的创新活动并举
+
+当前，我国企业开展产品创新、工艺创新、组织创新和营销创新的企业比重分别达到$1 8 . 7 \%$ 、 $20 \%$ 、 $2 7 . 9 \%$ 和 $2 5 . 8 \%$ 。这表明企业在重视技术创新的同时，也更加注重提升管理效率、创新商业模式，拓展了创新范围。在活动形式上，除了内部研发和购置机器设备、软件之外，企业也注重相关培训、市场推介等创新活动，致力于提升吸收能力和市场能力。
+
+# 1.3创新的信息来源趋于多样化
+
+过去我国企业创新以跟踪、模仿为主，开展产品或工艺创新的信息主要来自一些国外同行或国际机构，导致原始创新不足、创新层次不高。如今，客户、高校及研究机构、政府部门、行业协会、互联网以及企业（集团）内部等都已成为创新信息的重要来源，创新潜力大幅提升。
+
+# 1.4 新一代企业家崛起，多数重视创新
+
+企业家群体呈现出年轻化、高学历的特征。50岁以下的中青年企业家占比接近八成；在一些高技术或新兴产业领域，30岁以下企业家占比超过 $1 5 \%$ 。学历方面，拥有大专及本科以上学历的企业家占比也超过八成。同时，多数企业家重视创新的作用。认为创新对企业的生存和发展“起重要作用”和“起一定作用”的合计占比接近九成。
+
+# 1.5创新直接带动了新产品的市场扩张
+
+2013一2014年，实现产品创新的工业企业$100 \%$ 都有“本企业新产品”，超过六成的企业有“市场新产品”，超过两成的企业有“国际市场新产品”，新产品的市场扩张成为当前企业创新的直接成效。同时，企业2014年的新产品销售总收人超过了23万亿元，占主营业务收入比重达$1 3 . 1 \%$ 。
+
+# 2企业创新的活跃度有限，创新收益不显著，不同创新主体间的差距较大
+
+尽管企业创新规模有所提升，但考虑到新常态下创新驱动发展的迫切需要，同时与国际上一些创新型发达国家相比，我国企业的总体创新活力仍显不足，创新活动仍局限于少数企业。创新效果的不突出抑制了企业创新的积极性。国内不同类型、不同部门间的创新表现也存在较大的差距。
+
+# 2.1创新仍主要局限于少数企业，投入强度和产出质量均落后于国际先进水平
+
+2013一2014年，我国开展创新活动的企业占比虽已升至 $41 . 3 \%$ ，但仍低于欧盟27国2008—2010年 $5 2 . 9 \%$ 的平均水平。其中，开展技术创新的企业比重仅 $2 6 . 9 \%$ ，低于德国的 $5 5 \%$ 、日本的$2 7 . 5 \%$ 和韩国的 $3 7 . 2 \%$ 。同时，创新的投入强度和产出效果方面更加落后。与德国相比，2014年我国制造业创新费用支出强度仅 $1 . 5 8 \%$ ，远低于德国的 $4 . 5 \%$ ；技术创新对企业的盈利贡献率也不高：我国制造业新产品销售收入占比为 $14 . 5 \%$ ，也不及德国的 $23 . 3 \%$ 。
+
+# 2.2企业创新的经济效益不显著，抑制了创新动力
+
+创新对于企业当前的利润贡献十分有限。调查的37.8万家规模以上工业企业2013—2014年的总体平均利润率为 $6 . 2 2 \%$ ，其中有创新活动的企业平均利润率仅 $6 . 2 8 \%$ ，没有创新活动的企业平均利润率为 $6 . 0 9 \%$ —开展创新的企业并不比未开展创新的企业有明显的利润增值。这可以部分解释创新动力不足的现状，也说明很多企业尚未真正进入到完全依靠创新脱颖而出的发展阶段。
+
+背后的原因值得深思：除了创新投人的效果显现可能会有滞后性之外，主要与企业自身的创新水平不高、创新风险较大以及获取创新收益的外部环境有关。由于多数企业或缺乏原始创新，或处于产业价值链的中低端环节，或关键技术、基础元件受制于人，导致创新活动的低水平、高成本、低收益并存，企业不得不面对产品附加值小、市场认可度低、沉没成本和转换成本高等问题，“后发劣势”远大于“后发优势”，创新的利润贡献自然十分有限，更会加剧企业投入创新的高失败率。另外，一些企业仅靠非市场化手段占据垄断地位、甚至违规侵权就能获得收益，而其他一些创新的企业反而受制于不公平竞争或创新成果被违规“抄袭”，应有的创新收益也难以显现，甚至出现劣币驱逐良币的现象。
+
+这种状况不仅抑制了企业创新的内生动力，也在一定程度上降低了企业家对创新必要性的认知。调查显示，有 $14 . 6 \%$ 的企业家认为创新对企业“不起作用”，这一比重在一些传统行业更高。许多传统产业中的企业正面临去产能、去库存、降成本的经营压力，往往对创新无暇顾及。
+
+# 2.3国内不同规模、不同所有制、不同行业间的创新表现差距较大
+
+与企业规模有关的创新表现差异一一数量占比超过七成的小企业在创新动力和创新效果上均不及占比不及一成的大企业。以工业为例，小企业开展技术创新的比重仅 $2 9 . 6 \%$ ，而大企业为$7 5 . 3 \%$ ；小企业的新产品销售收入占比仅 $4 . 8 \%$ ，而大企业高达 $2 2 . 1 \%$ ○
+
+与企业所有制形式有关的表现差异一国有、集体企业的创新动力相对不足，创新成效也不及私营、外资企业。国企中缺乏创新动力的企业比重近 $20 \%$ ，高于私企的 $14 . 3 \%$ 。这与一些领域管制过多、竞争不足有关。
+
+与产业类型有关的创新表现差异一服务业创新水平整体落后于制造业。缺乏创新动力的服务业企业占比 $23 . 9 \%$ ，远高于制造业的 $1 3 . 9 \%$ ；而开展创新的服务业企业仅占 $32 . 6 \%$ ，不及制造业的$4 8 . 2 \%$ 。服务业创新不足不仅影响生产率提升，更不利于结构调整和经济增长。
+
+# 3企业创新能力进入爬坡攻坚期，正面临多重阻力
+
+我国企业创新能力的发展进入了爬坡、攻坚阶段，正面临多重阻力。主要表现为：创新成果的保护方式落后，创新人才匮乏和成本居高不下，开放与合作创新水平不高。
+
+# 3.1企业保护知识产权的能力不足
+
+伴随创新产出数量的快速增加，我国企业开始注重对创新成果的保护。但是，当前企业保护知识产权的方式比较单一化、层次不高，保护创新成果的能力亟待提升。我国企业将“技术秘密内部保护”和“发挥时间上先发优势”作为最常用的保护方式，相应的占比达 $12 . 3 \%$ 和 $1 7 \%$ ；而申请过专利的企业仅占 $7 . 3 \%$ ，形成国家或行业技术标准的企业仅占 $6 . 3 \%$ ，应用难以复制的复杂技术的企业比重低至 $2 . 5 \%$ 。
+
+这种状况一定程度上说明我国企业保护知识产权的认知水平和能力均相对落后，更折射出知识产权保护环境的不尽完善。过去对一些侵权行为的处罚不力，导致侵权成本低、维权成本高。加上受一些行业技术特点影响，企业只好选择内部保密或“打时间差”这类保护方式。
+
+# 3.2企业创新人才匮乏，创新成本过高
+
+创新具有高投入、高风险、高门槛的特点，创新能力在不同发展阶段都会遭遇一些特定的阻碍因素。此次调查了12项阻碍因素发现：除动力不足外，人才匮乏或人才流失、创新成本过高是当前制约我国企业创新最突出的两类因素。
+
+在企业家看来，“人”是影响企业创新是否成功的最重要因素；缺乏人才或人才流失已成为我国企业创新活动的第一大阻力。这种状况与我国已成为R&D人员规模世界第一大国的优势地位极不匹配。究其原因，既与创新人才激励机制落后有关，也与科研人员市场化流动不足，人才培养缺乏创造性、包容性，人才引进机制缺乏灵活性等因素有关。
+
+创新成本过高、缺乏稳定的资金来源是制约我国企业创新能力提升的另一大阻力。企业创新需要长期、稳定的投入，过高的创新成本不仅削弱动力，更不利于创新能力的提升。对我国企业而言，一方面是与创新投入直接相关的研发成本过高，在直接引进核心技术变得困难的同时，内部研发周期长、不确定性大，而银行信贷、政府补贴、引导基金等外部来源十分有限，资金成本居高不下；另一方面，一些制度性成本、机会成本偏高，如税收负担、产权保护、行业准入、产业间相对收益率差异等，是企业加大创新的隐性成本。此外，当前国内金融体系对实体经济的支持相对不足，有利于创新型企业成长的多层次资
+
+熊鸿儒．当前我国企业创新的特点及挑战：来自全国企业创新调查的证据[J].智库理论与实践，2016，1(5):106-110.
+
+本市场尚未建立。
+
+# 3.3创新的开放与合作程度不足
+
+当前企业创新活动的开放性不足，利用和整合外部资源的能力不强，至少存在3类失衡。一是企业多以内部创新为主，外部创新较少，直接引进技术也变得越来越难；二是创新费用存在内部研发与外部研发的支出比例严重失衡；三是依靠独立开发与合作开发实现创新的比例也失衡。
+
+企业开展创新合作的意愿也不强，围绕创新链的合作相对不足。仅 $20 . 1 \%$ 的企业有过创新合作，开展创新活动越少的产业或企业，创新合作的水平也越低。同时，企业更愿意选择供应商、客户等处于产业链上下游的合作伙伴，而对高校、研究机构、政府部门以及风险投资等处于创新链上的伙伴选择比重普遍较低。这种状况不仅不利于企业创新生态网络的扩展，还将加剧产业链和创新链的脱节。
+
+我国企业的产学研合作深度也十分有限。从产学研合作形式看，大多以共同完成科研项目、聘用高校或研究机构人员到企业兼职为主，而建立联合研发机构的比重并不高。这说明当前产学研合作仍以完成临时性科研项目为主，产学研深度合作的协同创新体系尚未形成。
+
+# 4结论与启示：政府如何在激发企业创新动力和提升创新能力上有效作为
+
+经历了数十年的快速追赶，当前我国企业创新已进入规模提升、形式多样、潜力强劲的快速发展期，体现出了“大众创业、万众创新”的新局面、新趋势。企业创新正加速从“数量扩张”向“质量提升”转型，这有利于培育转型时期经济增长的新动能，助力若干产业迈向中高端，引领经济稳步进人新常态。通过面向企业创新的大样本调查分析发现：集中突破我国企业当前在创新动力和能力方面的发展瓶颈，是当前深入实施创新驱动发展战略的紧迫任务。
+
+要让不创新的企业投入创新，也让创新的企业更好地获取创新收益，离不开政府正确、高效地发挥作用。政府应尊重创新活动的市场导向规律，既不能代替企业和市场做判断、定路线、配资源，也不能以硬性考核个别中间指标的方式来评估短期内的创新成效。特别是在营造创新环境的过程中，政府重点要破除因干预不当或监管缺失造成的制度壁垒或政策歧视，扭转部分领域创新资源的低效配置，减少非市场行为对创新的“挤出效应”，壮大创新群体。
+
+随着新一轮科技革命和产业变革加速，增长动力的阶段转换开始，客观上要求企业创新能力实现从“跟踪、并行"并存到“跟踪”为主向“并行、领跑”为主的跃迁。改进传统的创新方式，补足创新活动的多重短板，也离不开政府的积极作为。结合当前形势，5个方面的政府作用亟待加强：一是应加大对侵犯知识产权行为的惩罚力度，切实降低维权成本，保障创新的合理、正当收益；二是改进创新人才的引进、评价和激励机制，提升企业家的创新素养；三是多措并举地帮助企业降低创新成本，如：增强对小企业、私营企业研发投人的减税力度，提高政府引导基金对共性技术研发的支持力度和运作效率等；四是从资源共享、要素流动、投融资体制改革等方面创造条件激发企业通过开放与合作创新提升能力，扩大创新网络；五是加速淘汰落后产能，强化公平竞争、监管约束及价格机制对企业创新的“倒逼”，推动更多自下而上的社会创新。
+
+说明：本文所采用的统计数据均来自国家统计局2015年全国企业创新调查的问卷统计结果。
+
+# Research on the Feature and Challenges of Firm Innovation in China: Evidence from the National Firm Innovation Survey
+
+Xiong Hongru1,2
+
+1Development Research Center of State Council of PRC, Beijing 100010   
+²China Institute for Reform and Development (CIRD), Haikou 570311
+
+Abstract: [Purpose/significance] The firm-level innovation vitality and capability are not only the key indicators of reflectingthe innovationcapacitybutalso the important reference inassessing the effect ofinovation policy implementation. [Method/process] Using the statistical results of the data analysis from the national innovation survey conducted by the National Bureau of Statistics in 2O15,this paper summed up the progress of the firm-level innovation in China,together with some criticalchallnges.[Result/conclusion] Itis found that Chinese firm innovation has already entered a“golden” time of rapid growth, which presents the increasing scale,plentiful modes and strong potential. However, the innovative firms are stillthe minority,especially the profit-making effects from innovation are dificult to showup,which greatly weakens the activenessoffirm innovation.In addition,both the internal and external gaps ofte inovation performancearequite large,and the overall vitalityis stillinadequate. Regarding the innovation capability,the majority is experiencing the crucial transition phase,and facing the lack of the protection of inteletual property rights,innovative talents,and innovation collaboration,as wellas facing the high cost ofR&D.Therefore,the government should correctly and effectively play its role while supporting the firmlevel innovation.Concretely,itis necessary forthe government notonlytodispelresource allocation distortion by building the innovation-friendly environment to stimulate more innovative activities,but also to help indigenous firms make up their critical short boards by developing their innovation capabilities.
+
+Keywords: innovation survey firm innovation innovation vitality innovation capability 收稿日期：2016-10-13 修回日期：2016-10-25 本文责任编辑：唐果媛
+
+（上接第96页）
+
+# The Weakness,Paths and Methods of the Construction of the Ideal Think Tanks
+
+Liu Yuqing
+
+Jiangsu Brand Association,Nanjing 210007
+
+Abstract: [Purpose/significance] At present, the“word of mouth effect”of some domestic think tanks, is not ideal.Their wisdom gene is not good enough,and thinking methods are not scientific.The sustainable development of think tanks has been lacking confidence.The phenomenon above has become the focal point and one of the difficult problems of theconstruction of think tanks with Chinese characteristics.Therefore,the author attaches great importance to the existing problems,and pays atention to the concept and practice of the think tank,the methodology to promote the social emergence ofideal think tanks.This has become atop priority.[Method/process] By using the multidimensional thinking and the case analysis,the author made in-depth analysis in three aspects: facing the problems,ading wisdom to contents,emphasizing theconstruction of methodology.Then,the author put forward some advice for practice.[Result/conclusion] With the gene factors of wise eyes,the intellgent brain and the strategic tank,wecanconstructthe“ideal think tank”bythe path with forward-looking,innovativeand applicable basic functions in terms of categories,values, culture, functions, market, channels,tools and planning.
+
+Keywords: ideal think tank the think tank of think tanksthink tank coalitionwisdom methodology

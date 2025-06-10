@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "Chemical characteristics of precipitation and the indicative significance for sand dust events in the northern and southern slopes of Wushaoling Mountain, northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Zongjiel\\*, LIU Fei1, SONG Yong², SONG Lingling³, TIAN Qing', JIA Bing4, LI Yongge4, MAJinzhu1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 KeyLaboratoryof Western China’sEnvironmental Systems (MinistryofEducation),Collegeof Earthand Environmental Sciences,Lanzhou University,Lanzhou 73oooo, China;   \n2CSIRO Land and Water,Private Bag10,Clayton South,VIC3169,Australia;   \n3College of Forestry,Gansu Agricultural University, Lanzhou 73oo70,China;   \n4Key Laboratory of Ecohydrologyof Inland River Basin Gansu/Hydrologyand Water Resources Engineering Research Center, Northwest Institute of Eco-Environment and Resources,Chinese Academy of Scienes,Lanzhou 73Ooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Precipitation chemistry analysis is essential to evaluate the atmospheric environmental quality and identify the sources of atmospheric pollutants.In this study,we collected a total of 48O precipitation samples at 6 sampling sites in the northern and southern slopes of Wushaoling Mountain from May 2013 to July 2014 to analyze the chemical characteristics of precipitation and to identify the main sources of ions in precipitation.Furthermore,we also explored the indicative significance for sand dust events in the northern and southern slopes of Wushaoling Mountain based on the precipitation chemistry analysis. During the sampling period (from May 2013 to July 2014),the $\\mathrm { \\ p H }$ values,EC (electrical conductivity) values and concentrations of cations $( \\mathrm { C a } ^ { 2 + }$ 。 $\\mathrm { M g ^ { 2 + } }$ ， $\\mathrm { N a ^ { + } }$ ， $\\mathrm { K ^ { + } }$ and $\\mathrm { N H _ { 4 } ^ { + } }$ ）and anions $( \\mathrm { S O } _ { 4 } { } ^ { 2 - } ;$ $\\mathrm { N O } _ { 3 } -$ 。 $\\mathrm { C l ^ { - } } .$ $\\mathrm { N O } _ { 2 } -$ and $\\mathrm { F ^ { - } }$ ）in precipitation were different in the northern and southern slopes at daily and seasonal time scales,with most of the values being higher in the northern slope than in the southern slope.The chemical type of precipitation in the southern and northern slopes was the same,i.e., $\\mathrm { S O _ { 4 } 2 \\mathrm { - } \\mathrm { - } C a ^ { 2 + } \\mathrm { - } N O _ { 3 } \\mathrm { - } }$ 1 $\\cdot \\mathrm { N a ^ { + } }$ .The concentrations of ions in precipitation were mainly controlled by terrigenous material and anthropogenic activities (with an exception of $\\mathrm { C l ^ { - } }$ . The concentration of $\\mathrm { C l ^ { - } }$ in precipitation was mainly controlled by the sea salt fraction. The concentrations of $\\mathrm { N a ^ { + } }$ and $\\mathrm { C l ^ { - } }$ showed an increasing trend after the occurrence of sand dust events both in the northern and southern slopes.In addition,after the Occurrence of sand dust events,the concentrations of $\\mathrm { K ^ { + } }$ ， $\\mathrm { M g ^ { 2 + } }$ 。 $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ ， $\\mathrm { N O } _ { 3 } { } ^ { - }$ and $\\mathrm { C a } ^ { 2 + }$ showed an increasing trend in the southern slope and a decreasing trend in the northern slope. It is our hope that the results may be helpful to further understand the atmospheric pollution caused by sand dust events in the Wushaoling Mountain and can also provide a scientific basis for the effective prevention of atmospheric pollution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: precipitation chemistry; source assessment; sand dust event; Wushaoling Mountain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Precipitation chemistry is one of the foci in the researches of atmospheric science and geography (Shrestha et al.，2002； Zhang et al.,2003a,b; Mahlknecht et al.，2004; Laouali et al.，2012). Precipitation chemistry analysis can evaluate the atmospheric environmental quality,reveal the acidification mechanism of precipitation，and identify the sources of atmospheric pollutants (Al-khashman,2005; Laouali et al., 2012; Li and Morrill, 2015; Li et al., 2016,2017a, b). In addition, precipitation chemistry analysis has some indicative significance of sand dust events (Li et al.,20l7b). Water-soluble ionic components in precipitation are the combined results of natural processes and anthropogenic activities (Al-Khashman, 20o5; Eneroth et al., 20O7; Li et al., 2009; Laouali et al., 2012; Vet et al., 2O14). The sources of these ionic components in precipitation include anthropogenic activities (combustion of fossil fuels,industrial emissions and agricultural activities), terrigenous material (including sand dust),and sea salt aerosol (Li etal.,2Ol1; Li et al., 2012;Ma et al., 2013; Itahashi et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China, the contradiction between economic growth and environmental protection is becoming increasingly acute，with the continuous development of the industrialization and urbanization processes,especially in the central and western regions (Xu et al., 2OO9; Li et al., 2011;Li and Morrill, 2O15). Many regions in China are faced with atmospheric environmental problems such as fog haze,acid rain, extreme weather and so on (Li and Morrill,2O15; Li et al., 2016).Due to the effects of global warming, precipitation patterns in the interior region of China and the influence of the monsoon circulation have changed significantly,further leading to the variations in the chemical characteristics of precipitation (Zhu et al.,2O1O; Laouali et al.,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wushaoling Mountain is one of the mountian ranges in the Qilian Mountains. As a convergence Zone of the Loess Plateau, Inner Mongolia Plateau and Tibetan Plateau,Wushaoling Mountain is the boundary of arid and semi-arid regions and also the boundary of monsoon and non-monsoon regions (Li et al., 2009,2014,2015),with the northern slope being drier than the southern slope. Chemical characteristics of precipitation in the northern and southern slopes of Wushaoling Mountain may be distinct and are worthy to be studied. However,researches on the chemical characteristics of precipitation in the Wushaoling Mountain are scarce. Study on chemical characteristics of precipitation in the Wushaoling Mountain can help to evaluate the atmospheric environmental quality and identify the sources of chemical components in precipitation in this region (Li et al.,2O17a). It is of great significance to protect the ecosystem sustainability of the Qilian Mountains (Li et al., 2009; Zhu et al., 2010; Li et al.,2014, 2015,2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The purposes of this study are:(1） to analyze the characteristics of $\\mathsf { p H }$ ，electrical conductivity (EC)and concentrations of major ions (including $\\mathrm { C a } ^ { 2 + }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { \\Delta N a ^ { + } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathrm { N H } _ { 4 } { } ^ { + }$ ， $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ ， $\\mathrm { N O } _ { 3 } { } ^ { - }$ ， $\\mathrm { C l ^ { - } }$ $\\mathrm { N O } _ { 2 } ^ { - }$ and $\\mathrm { F ^ { - } }$ ）in precipitation in the northern and southern slopes of Wushaoling Mountain; (2) to explore the relationships among these ions and identify the main sources of these ions; and (3) to discuss the indicative significance for sand dust events based on the above-mentioned precipitation chemistry analysis. The results are expected to provide scientific reference for further understanding the atmospheric environmental quality in the Wushaoling Mountain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Study area and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wushaoling Mountain is an important range of the Qilian Mountains, which located in the east of Hexi Corridor and the south of Wuwei City, Northwest China ( $\\mathrm { ( 1 0 2 ^ { \\circ } 5 2 ^ { \\prime } 0 0 ^ { \\prime \\prime } E }$ ， $3 7 ^ { \\circ } 1 2 ^ { \\prime } 0 0 ^ { \\prime } \\mathrm { N } )$ ： Wushaoling Mountain is the convergence Zone of the Loess Plateau, Inner Mongolia Plateau and Tibetan Plateau. It has a length of $1 7 \\ \\mathrm { k m }$ from east to west and a width of $1 0 ~ \\mathrm { k m }$ from south to north.The region is characterized by a temperate semi-arid climate. Annual average temperature is $0 ^ { \\circ } \\mathrm { C }$ ，with the minimum of $- 3 0 . 6 ^ { \\circ } \\mathrm { C }$ and the maximum of $2 8 . 1 ^ { \\circ } \\mathrm { C }$ ，Average annual precipitation is $4 0 1 . 6 \\ \\mathrm { m m }$ (Yang et al., 2010, 2012). Annual average wind speed is $4 . 8 3 ~ \\mathrm { m / s }$ , and the prevailing wind comes from north and southeast. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Sample collection and laboratory analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, we collected a total of 48O precipitation samples from 6 sampling sites in the southern and northern slopes of Wushaoling Mountain, during the period from May 2O13 to July 2014 (Table 1). The sampling process was manual operation. Specifically,a tin bucket (diameter of $2 0 \\ \\mathrm { c m } ,$ covered with fresh polyethylene film was placed in a height of $1 . 5 \\mathrm { m }$ above the ground at the beginning of each rainfall event. After each rainfall event, the collcted rain sample was poured into a polyethylene sample botle that cleaned with deionized water in advance. The snow samples were collected immediately after the end of the snowfall events.All samples were immediately sealed and kept in cold storage at $- 1 8 ^ { \\circ } \\mathrm { C }$ .Anti-pollution measures were taken in the sampling process. Then， samples were transported to the laboratory of Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences,and immediately stored at low temperature $( - 1 5 ^ { \\circ } \\mathrm { C } )$ . Precipitation samples were melted naturally at room temperature (about $1 5 ^ { \\circ } \\mathrm { C } )$ before they were analyzed for chemical components. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { p H }$ and electrical conductivity (EC） were measured with a PHS-3B $\\mathrm { p H }$ meter and a DDSJ-3O8A conductivity meter (Shanghai Precision & Scientific Instrument Co.,Ltd., China), respectively. Concentrations of cations (including $\\mathrm { C a } ^ { 2 + }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { \\Delta N a ^ { + } }$ ， $\\mathrm { K ^ { + } }$ and $\\mathrm { N H _ { 4 } ^ { + } }$ ）and anions (including $S O _ { 4 } { } ^ { 2 - }$ ， $\\mathrm { N O } _ { 3 } { } ^ { - }$ ， $\\mathrm { C l ^ { - } }$ ， $\\mathrm { N O } _ { 2 } ^ { - }$ and $\\mathrm { F ^ { - } }$ ）were measured by DX-320 and ICS1500 (Diane Limited Company, China), respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/439299d1c0817a795a9916ee9a62fe3bdb93c47388b865cf2b633edf5858c634.jpg",
+        "table_caption": [
+            "Table 1 Characteristics of sampling sites in the southern and northern slopes of Wushaoling Mountain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Wushaoling Mountain</td><td>Sampling site</td><td>Latitude</td><td>Longitude</td><td>Altitude (m)</td><td>Samples</td></tr><tr><td>Northern slope</td><td>Wushaoling</td><td>37°12'00'N</td><td>102°52'00'E</td><td>3045</td><td>51</td></tr><tr><td rowspan=\"5\">Southern slope</td><td>Heisongyi</td><td>37°21'29\"N</td><td>102°54'45\"E</td><td>2326</td><td>74</td></tr><tr><td>Gulang</td><td>37°27'50\"N</td><td>102°53'21\"E</td><td>2105</td><td>83</td></tr><tr><td>Tianzhu</td><td>36°57'54\"N</td><td>10308'17\"E</td><td>2425</td><td>40</td></tr><tr><td>Jinqiangyi</td><td>37°08'38'N</td><td>102°53'00'E</td><td>2755</td><td>99</td></tr><tr><td>Daiqian</td><td>37°15'19'N</td><td>102°34'36\"E</td><td>3272</td><td>133</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Factor analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,we used the multivariate analytical technique to obtain the matrix of geochemical data. Specifically，we applied the factor analysis (i.e., principal component analysis (PCA) to determine the dominant parameters by transforming a large number of correlated parameters into a small number of uncorrelated parameters (Ma et al.,2O12; Li et al.,2O15). We standardized the data before analysis to minimize the effects of differences in measurement units and to render the data dimensionless (Li et al.,2O14).Factor analysis was explored by extracting eigenvectors and eigenvalues of the correlation matrix,and then the less important parameters were discarded (Zhu et al.,2O1O).Each factor was independent so that the varimax rotation could be used to constrain factors containing the greatest variability (Mahlknecht et al., 2O04). In this study, we performed the algorithm of factor analysis with SPSS 22.O software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Enrichment factor analysis and source contribution analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used the enrichment factor method to calculate the enrichment factor (degree of enrichment) of the interested ion in the objective substance with respect to the reference ion in the reference substance, which can be used to identify the sources of the interested ion (Ren et al.,2Ol2). There are no active volcanoes around the Wushaoling Mountain, so the contribution of volcanic dust can be ignored.Therefore,it is suitable to apply the enrichment factor method in the study area. This method was firstly proposed by Keene et al. (1986). Subsequently, Xiao et al. (1993) summed up the following reference ions of ocean:（1） $\\mathrm { { N a ^ { + } } }$ asa reference ion of ocean when $\\mathrm { [ C l ^ { - } }$ $/ \\mathrm { N a ^ { + } ] _ { p r e c i p i t a t i o n } { = } 1 . 1 6 5 [ C l ^ { - } / N a ^ { + } ] _ { o c e a n } }$ and $[ \\mathrm { M g ^ { 2 + } / N a ^ { + } } ] _ { \\mathrm { p r e c i p i t a t i o n } } { \\scriptstyle \\geq 0 . 2 2 7 [ \\mathrm { M g ^ { 2 + } / N a ^ { + } } ] _ { \\mathrm { o c e a n } } }$ (2） $\\mathbf { C l } ^ { - }$ as a reference ion of ocean when $\\mathrm { [ N a ^ { + } / C l ^ { - } }$ lprecipitatior $\\lvert \\ge 0 . 8 5 9 [ \\mathrm { N a ^ { + } / C l ^ { - } }$ loceanand $[ \\mathbf { M } \\mathbf { g } ^ { 2 + } / \\mathbf { C } \\mathbf { l } ^ { - } ] _ { \\mathrm { p r e c i p i t a t i o n } } { \\geq } 0 . 1 9 5 [ \\mathbf { M } \\mathbf { g } ^ { 2 + } / \\mathbf { C } \\mathbf { l } ^ { - } ] _ { \\mathrm { o c e a n } }$ and (3) $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ asa reference ion of ocean when $\\mathrm { [ N a ^ { + } / M g ^ { 2 + } }$ lprecipitatio $\\scriptstyle \\geq 4 . 4 0 3 [ \\mathrm { N a ^ { + } / M g ^ { 2 + } } ] _ { \\mathrm { o c e a n } }$ and $[ \\mathrm { C l ^ { - } / M g ^ { 2 + } } ]$ precipitatior $_ { 1 } 2 5 . 1 2 6 [ \\mathrm { C l ^ { - } / M g ^ { 2 + } } ] _ { \\mathrm { o c e a n } } .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, we determined the reference ion of ocean according to the above-mentioned rules, and selected $\\mathrm { C a } ^ { 2 + }$ as the reference ion of crust according to the study of Taylor (1964). The enrichment factor of the interested ion in precipitation with respect to the reference ion of crust （204号 $( E F _ { \\mathrm { c r u s t } } )$ and the enrichment factor of the interested ion in precipitation with respect to the reference ion of ocean $( E F _ { \\mathrm { o c e a n } } )$ were calculated as follows (Okay et al., 2002; Ren et al., 2012): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { E F _ { \\mathrm { c r u s t } } { = } [ X / \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { p r e c i p i t a t i o n } } / [ X / \\mathrm { C a } ^ { 2 + } ] _ { \\mathrm { c r u s t } } , } \\\\ & { \\qquad E F _ { \\mathrm { o c e a n } } { = } [ X / N ] _ { \\mathrm { p r e c i p i t a t i o n } } / [ X / N ] _ { \\mathrm { o c e a n } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $X$ is the concentration of the interested ion in precipitation $( \\mathrm { m o l / L } )$ ，and $N$ is the concentration of the reference ion in ocean (mol/L). In this study, the value of $[ X / { \\mathrm { C a } ^ { 2 + } } ] _ { \\mathrm { c r u s t } }$ was referred from the crustal data in the study of Taylor (1964),and the value of $[ X / N ] _ { \\mathrm { o c e a n } }$ was referred from the ocean data in the study of Keene et al. (1986).Generally speaking, $\\mathrm { E F } { \\leq } 1$ represents that the interested ion in precipitation is diluted，while $\\mathrm { E F } { > } 1$ represents that the interested ion in precipitation is enriched. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sources of ions in precipitation include anthropogenic activities, terrigenous material, and sea salt aerosol. We therefore calculated the sea salt fraction (SSF),crust faction (CF） and anthropogenic fraction (AF) to identify the sources of ions in precipitation. They were calculated by the following equations (Keene et al.,1986; Li et al., 2015): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S F \\left( \\mathcal { \\% } \\right) { = } 1 0 0 { \\times } [ X / N ] _ { \\mathrm { o c e a n } } / [ X / N ] _ { \\mathrm { p r e c i p i t a t i o n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC F \\left( \\mathcal { I } _ { o } \\right) = 1 0 0 \\times [ X / \\mathrm { C a ^ { 2 + } } ] _ { \\mathrm { c r u s t } } / [ X / \\mathrm { C a ^ { 2 + } } ] _ { \\mathrm { p r e c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA F ( \\% ) { = } 1 0 0 \\% { - } S S F { - } C F .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variations in pH values of precipitation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the sampling period (i.e., from May 2013 to July 2014), the $\\mathsf { p H }$ values of precipitation in the southern and northern slopes of Wushaoling Mountain almost showed the same variation range,with the average value in the northern slope being slightly higher than that in the southern slope. Specifically, $\\mathsf { p H }$ values of precipitation ranged from 6.81 to 8.68 in the southern slope (average of 7.50) and from 6.66 to 8.54 in the northern slope (average of 7.55). The $\\mathsf { p H }$ values of precipitation in the northern and southern slopes were almost alkaline. Seasonal variations in $\\mathrm { p H }$ values of precipitation in the southern and northern slopes of Wushaoling Mountain are shown in Figure 1. It can be seen that the average $\\mathsf { p H }$ in precipitation was highest in summer both in the southern and northern slopes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38750752b59bdd8c5be674427598f93837582cef2df2267b25d2d0947ed054ef.jpg",
+        "img_caption": [
+            "Fig.1Seasonal variations in $\\mathsf { p H }$ values of precipitation in the southern (a) and northern (b） slopes of Wushaoling Mountain.The median of the data is presented by the line inside of the rectangle and“whiskers” above and below the box display the locations of the maximum and minimum values,respectively.The black square inside of the rectangle represents the outlier. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Variations in EC values of precipitation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the southern slope of Wushaoling Mountain,the EC values of precipitation ranged from 13.15 to $1 0 8 6 . 0 0 ~ \\mu \\mathrm { s / c m }$ ，with a mean of $1 5 6 . 0 7 ~ { \\mu \\mathrm { s } } / { \\mathrm { c m } }$ ； while in the northern slope, the values ranged from 17.28 to $9 7 1 . 5 0 ~ \\mu \\mathrm { s / c m }$ ，with a mean of $1 7 9 . 6 0 ~ { \\mu \\mathrm { s } } / { \\mathrm { c m } }$ (Fig.2).In the southern slope,the highest EC value was observed on 1 May,2O14 and the lowest value appeared on 15 September, 2013.In the northern slope,the highest EC value was observed on 24 April, 2O14 and the lowest value appeared on 11 August, 2O13.At seasonal scale,the EC values of precipitation in the southern slope were all lower than those in the northern slope.As shown in Figure 2c,the EC values of precipitation were higher in spring and winter than in summer and autumn. This may be due to the frequent sand dust events in spring and winter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbe85ca22fb201188650499cfe547c371db6cdbb35eb8965d416e8070ec93364.jpg",
+        "img_caption": [
+            "Fig.2Variations of electrical conductivity (EC）in precipitation in the northern and southern slopes of Wushaoling Mountain from May 2013 to July 2O14 at daily(a,b) and seasonal (c) scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Variations in ion concentrations of precipitation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of ions in precipitation in the northern and southern slopes of Wushaoling Mountain are shown in Table 2. It can be seen that concentrations of $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ $\\mathrm { C a } ^ { 2 + }$ $\\mathrm { N H } _ { 4 } { } ^ { + }$ $\\mathrm { F } ^ { - }$ $\\mathrm { N O } _ { 3 } { } ^ { - }$ and $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ were significant between the northern and southern slopes，while there was no significant difference in concentrations of $\\mathrm { N a ^ { + } , \\ K ^ { + } , \\ C l ^ { - } }$ and $\\mathsf { N O } _ { 2 } ^ { - }$ between the northern and southern slopes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the southern slope of Wushaoling Mountain, $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { { N a ^ { + } } }$ dominated the cations of precipitation (accounting for $8 3 . 5 8 \\%$ of the total cation composition)，while $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and ${ \\bf N O } _ { 3 } { } ^ { - }$ dominated the anions (accounting for $8 3 . 7 8 \\%$ of the total anion composition） (Fig.3).The chemical type of precipitation in the southern slope was $\\mathrm { S O _ { 4 } ^ { 2 - } { - } C a ^ { 2 + } { - } N O _ { 3 } ^ { - } { - } N a ^ { + } }$ ，with the four ions accounting for $8 3 . 6 9 \\%$ of the total ion concentration.In the northern slope of Wushaoling Mountain,also the $\\mathrm { C a ^ { 2 + } }$ and $\\mathrm { { N a ^ { + } } }$ dominated the cations (accounting for $7 3 . 1 8 \\%$ of the total cation composition), and $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ dominated the anions (accounting for $8 3 . 8 2 \\%$ of the total anion composition). The chemical type of precipitation in the northern slope was $\\mathrm { S O _ { 4 } } \\mathrm { ^ { 2 - } } \\mathrm { - } \\mathrm { C a } ^ { 2 + } \\mathrm { - } \\mathrm { N O _ { 3 } } \\mathrm { ^ { - } } \\mathrm { - } \\mathrm { N a } ^ { + }$ with the four ions accounting for $7 9 . 7 7 \\%$ of the total ion concentration．In addition，the percentage of individual ion concentration in precipitation wasin the orderof $\\mathrm  C a ^ { 2 + } { > } S O _ { 4 } { ^ { 2 - } > } N O _ { 3 } {  } C l { ^ { - } > } N a ^ { + } { > } K ^ { + } { > } M g ^ { 2 + } { > } N H _ { 4 } { ^ { + } > } F ^ { - } { > } N O _ { 2 } { ^ { - } } K ^ { + } { > } N O _ { 4 } { ^ { + } } K ^ { + } { > } K ^ { + } { > } M g ^ { 2 + } { > } N O _ { 4 } { ^ { + } } K ^ { + } { > } K ^ { + } { > } K ^ { + } { > } K ^ { + } { > } K ^ { + } { > } K ^ { + } { > } K ^ { + }$ in the southern slope,and in the order of $\\mathrm { S O _ { 4 } ^ { 2 - } { \\scriptstyle > } C a ^ { 2 + } { \\scriptstyle > } N O _ { 3 } { \\scriptstyle > } C l { \\scriptstyle > } N a ^ { + } { \\scriptstyle > } M g ^ { 2 + } { \\scriptstyle > } K ^ { + } { \\scriptstyle > } N H _ { 4 } { \\scriptstyle ^ { + } > } N O _ { 2 } { \\scriptstyle > } F ^ { - } }$ in the northern slope. It can be seen that the order of the percentage of individual ion concentration in precipitation was basically the same in the southern and northern slopes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0248c4e4583a3047e16dd25535bd14d2d7f94769cc57d604786327ead981995.jpg",
+        "table_caption": [
+            "Table 2Concentrations of ions in precipitation in the northern and southern slopes of Wushaoling Mountain "
+        ],
+        "table_footnote": [
+            "Note:Mean±SE.Dierentuppercaselettrs withacolumnindicatesignificantdiferenceofionconcentrationinprecipitationbetween the southern and northern slopes at $P { < } 0 . 0 1$ level;while different lowercase letters with a column indicate significant difference of ion concentration in precipitation between the southern and northern slopes at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Wushaoling Mountain</td><td>Na+</td><td>K</td><td>Mg2+</td><td>Ca2+</td><td>NH4+</td></tr><tr><td colspan=\"3\">(μeq/L)</td><td></td><td></td></tr><tr><td>Southern slope</td><td>3.50±0.51a</td><td>1.70±0.18a</td><td>1.66±0.15A</td><td>17.78±1.34A</td><td>0.82±0.06A</td></tr><tr><td>Northern slope</td><td>4.69±0.78a</td><td>1.95±0.31a</td><td>2.74±0.34B</td><td>12.26±1.06B</td><td>1.52±0.15B</td></tr><tr><td rowspan=\"2\">Wushaoling Mountain</td><td>F</td><td>CI-</td><td>NO2</td><td>NO3</td><td>SO42</td></tr><tr><td></td><td></td><td>(μeq/L)</td><td></td><td></td></tr><tr><td>Southern slope</td><td>0.17±0.02a</td><td>4.74±0.89a</td><td>0.14±0.03a</td><td>10.40±0.90a</td><td>15.69±1.83a</td></tr><tr><td>Northern slope</td><td>0.11±0.01b</td><td>5.82±0.95a</td><td>0.15±0.06a</td><td>7.69±0.82b</td><td>23.82±2.83b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bea5d2bef008d562a7fb2588d4ff08f9c1c4e182d34db1234743fc21edea3d3.jpg",
+        "img_caption": [
+            "Fig.3Percentage of individual ion concentration in precipitationin the northern and southern slopes of Wushaoling Mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At seasonal scale， the total ion concentration in precipitation was in the order of spring>winter>autumn>summer in the southern slope of Wushaoling Mountain (Fig. 4a) and in the order of winter>spring>autumn>summer in the northern slope (Fig.4b). In the southern slope, the concentration of $\\mathrm { C a } ^ { 2 + }$ in precipitation was higher in spring than in winter,and higher in summer than in autumn.In the northern slope, the concentration of $\\mathrm { C a } ^ { 2 + }$ in precipitation was also higher in spring than in winter, and higher in summer than in autumn. The concentration of $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ was highest in winter and spring in the northern slope and southern slope,respectively. The seasonal variation of ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ in precipitation in the northern and southern slopes exhibited the same order, that is,winter $\\mathrm { > }$ spring $>$ autumn $>$ summer. The concentration of $\\mathrm { { N a ^ { + } } }$ in precipitation showed the same seasonal variation in the northern and southern slopes. The seasonal variation of $\\mathrm { C l ^ { - } }$ in precipitation was in the order of winter>spring>autumn>summer in the northern slope,and in the order of spring>winter>autumn> summer in the southern slope. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Relationships of ions in precipitation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Relationships of ions in precipitation in the southern and northern slopes of Wushaoling Mountain are shown in Tables 3 and 4,respectively. The $S O _ { 4 } { } ^ { 2 - }$ in precipitation showed significant correlations with $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { F } ^ { - }$ ， $\\mathrm { C l ^ { - } }$ and ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ in precipitation both in the southern and northern slopes.In the southern slope,the ${ \\bf N O } _ { 3 } ^ { - }$ in precipitation showed significant correlations with $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { F ^ { - } }$ and $\\mathrm { C l ^ { - } }$ in precipitation; while in the northern slope, the $\\mathrm { N O } _ { 3 } { } ^ { - }$ in precipitation was significantly correlated with $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { K ^ { + } }$ ， $\\mathrm { F ^ { - } }$ and $\\mathbf { C l } ^ { - }$ in precipitation.The $\\mathrm { C l ^ { - } }$ in precipitation was significantly correlated with $\\mathrm { { N a ^ { + } } }$ ， $\\mathrm { K ^ { + } }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C a ^ { 2 + } }$ and $\\mathrm { F } ^ { - }$ in precipitation both in the southern and northern slopes of Wushaoling Mountain (Tables 3 and 4). The $\\mathrm { N H } _ { 4 } { } ^ { + }$ in precipitation showed significant correlations with $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ and $\\mathrm { N O } _ { 3 } { } ^ { - }$ in precipitation in the southern slope,indicating that $\\mathrm { N H } _ { 4 } { } ^ { + }$ was the major neutralizing ion for $S O _ { 4 } { } ^ { 2 - }$ and ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ .By comparing the correlation coefficients among all ions in precipitation between the southern slope and the northern slope,we found that the correlation coefficients among $\\mathrm { { N a ^ { + } } }$ $\\mathrm { K } ^ { + }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ $\\mathrm { C a } ^ { 2 + }$ and $\\Nu { 0 } _ { 3 } \\mathrm { { ^ - i n } }$ the southern slope were higher than those in the northern slope,while the coeficient between $\\mathrm { F } ^ { - }$ and $\\mathrm { C l ^ { - } }$ in the northern slope was higher than that in the southern slope. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/40c75016f95b8083f128e04f45f853f199fc4b3807e71d41bdf2dd3887264f10.jpg",
+        "img_caption": [
+            "Fig.4Seasonal variations of ion concentrations in precipitation in the southern (a)and northern(b） slopes of Wushaoling Mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Sources of ions in precipitation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking,the ion concentrations of precipitation were higher in the northern slope than in the southern slope of Wushaoling Mountain. This may be due to that the northern slope is near to the sand dust sources,especially near to the deserts. Furthermore,there are many cement factories distributed in the northern slope,leading to the increase in the ion concentrations in precipitation. At seasonal scale,the ion concentrations of precipitation were relatively high in winter and spring both in the southern and northern slopes. This may be related to the low precipitation, high wind speed,and frequent sand dust events in these two seasons. Sand dust events can increase the terrigenous material in the atmosphere (Li et al.,2Ol7b),，inevitably resulting in the increase of ion concentrations in precipitation. By contrast, the ion concentrations of precipitation were relatively low in summer and autumn,which may be related to the high precipitation amount. Specifically,the influence of dilution effect from precipitation on the ion concentrations was more obvious in summer and autumn, leading to the low ion concentrations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking, the $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ was mainly from the local sources. On the one hand, it was from the contribution of weathering effect of the sulphate minerals, which related to the enrichment of $\\mathrm { C a S O _ { 4 } }$ and $\\mathrm { M g } \\mathrm { S O } _ { 4 }$ . On the other hand, it was from the $\\mathrm { S O } _ { 2 }$ created by the industrial production and anthropogenic activities. The $\\mathrm { C a } ^ { 2 + }$ and $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ are two important crustal material components, reflecting that the important influences of $\\bf { M g S O _ { 4 } }$ and $\\mathrm { C a S O _ { 4 } }$ are from the local source particles (Al-khashman，2005；Eneroth et al.，2007；Li et al.，2014). The ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ was mainly from the pollutant emissions of anthropogenic activities in the southern slope,and from the oil consumption and pollutant emissions of anthropogenic activities in the northern slope. The average ratio of $\\mathrm { { N a ^ { + } } }$ concentration to $\\mathrm { C l ^ { - } }$ concentration in precipitation was O.73 in the southern slope and O.81 in the northern slope (Table 2),being lower than the average ratio of $\\mathrm { { N a ^ { + } } }$ concentration to $\\mathrm { C l ^ { - } }$ concentration in seawater (O.86) (Al-khashman, 2Oo5; Eneroth et al., 2007). This suggested that the sources of $\\mathrm { C l ^ { - } }$ in precipitation were complex,and the $\\mathrm { C l ^ { - } }$ may probably come from the ocean sources,local sources and anthropogenic activities. The ratio of $\\mathrm { K ^ { + } }$ concentration to $\\mathrm { C l ^ { - } }$ concentration in precipitation was O.36 in the southern slope and O.34 in the northern slope(Table 2),being higher than the ratio of $\\mathrm { K ^ { + } }$ concentration to $\\mathrm { C l ^ { - } }$ concentration in seawater (O.O61).This suggested that the contribution of ocean to $\\mathrm { K ^ { + } }$ can be ignored.By contrast, local sources and anthropogenic activities may play an important role in the concentration of $\\mathrm { K } ^ { + }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/340d4909e0d789dd2b1babab8a2ae18aaff836dac6efb445f9026ec7ffcfb78a.jpg",
+        "table_caption": [
+            "Table 3Pearson correlation analysis of ions in precipitation in the southern slope of Wushaoling Mountain "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* means correlation is significant at $P { < } 0 . 0 1$ level (2-tailed). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Na+</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>NH4+</td><td>F</td><td>CI-</td><td>NO2−</td><td>NO3−</td><td>SO42-</td></tr><tr><td>Na+</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>K+</td><td>0.538**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mg2+</td><td>0.743**</td><td>0.471</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca2+</td><td>0.693**</td><td>0.682**</td><td>0.615**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NH4+</td><td>-0.157</td><td>-0.163</td><td>-0.169</td><td>-0.198</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F</td><td>0.306**</td><td>0.319**</td><td>0.316**</td><td>0.453**</td><td>0.005</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>CI-</td><td>0.737**</td><td>0.392**</td><td>0.370**</td><td>0.463**</td><td>-0.032</td><td>0.339**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>NO2-</td><td>0.081</td><td>0.268**</td><td>0.086</td><td>0.102</td><td>0.016</td><td>0.114</td><td>0.108</td><td>1.000</td><td></td><td></td></tr><tr><td>NO3-</td><td>0.483**</td><td>0.579**</td><td>0.356**</td><td>0.576**</td><td>-0.210**</td><td>0.452**</td><td>0.411**</td><td>0.038</td><td>1.000</td><td></td></tr><tr><td>SO42-</td><td>0.665**</td><td>0.555**</td><td>0.538**</td><td>0.698**</td><td>-0.201**</td><td>0.544**</td><td>0.530**</td><td>0.041</td><td>0.764**</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/75653ba71beb09ba948da4ff879e15bda4e26ca2d4a8d310f71a892f72dde9d4.jpg",
+        "table_caption": [
+            "Table 4Pearson correlation analysis of ions in precipitation in the northern slope of Wushaoling Mountain "
+        ],
+        "table_footnote": [
+            "Note:\\*\\* means correlation is significant at $P { < } 0 . 0 1$ level (2-tailed). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Na+</td><td>K+</td><td>Mg2+</td><td>Ca2+</td><td>NH4+</td><td>F</td><td>CI-</td><td>NO2−</td><td>NO3</td><td>SO42-</td></tr><tr><td>Na+</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>K+</td><td>0.549**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mg2+</td><td>0.579**</td><td>0.256**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca2+</td><td>0.412**</td><td>0.258**</td><td>0.292**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NH4+</td><td>-0.173</td><td>-0.065</td><td>-0.239</td><td>-0.119</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F</td><td>0.276**</td><td>0.366**</td><td>0.187</td><td>0.292**</td><td>0.152</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>CI-</td><td>0.690**</td><td>0.475**</td><td>0.361**</td><td>0.319**</td><td>-0.104</td><td>0.576**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>NO2−</td><td>0.153</td><td>0.228</td><td>0.038</td><td>0.159</td><td>-0.046</td><td>0.095</td><td>0.101</td><td>1.000</td><td></td><td></td></tr><tr><td>NO3−</td><td>0.428**</td><td>0.411**</td><td>0.226</td><td>0.145</td><td>-0.142</td><td>0.345**</td><td>0.510**</td><td>0.028</td><td>1.000</td><td></td></tr><tr><td>SO42-</td><td>0.630**</td><td>0.452**</td><td>0.343**</td><td>0.324**</td><td>-0.021</td><td>0.671**</td><td>0.896**</td><td>0.059</td><td>0.526**</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the southern slope of Wushaoling Mountain,the first three PC (principal component) factors explained $6 6 . 6 7 \\%$ of the total variance of precipitation chemistry (Table 5). Specifically, the first PC factor explained $4 4 . 2 4 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalues of all ions (with exceptions of $\\mathrm { N H } _ { 4 } { } ^ { + }$ and $\\mathrm { N O } _ { 2 } ^ { - }$ ). This suggested that ions in precipitation were mainly from the local sources. The second PC factor explained $1 1 . 9 0 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalue of $\\mathrm { N O } _ { 2 } ^ { - }$ This indicated that industrial emissions, municipal waste incineration and automobile exhaust also contributed to the chemical characteristics of precipitation. The third PC factor explained $1 0 . 5 3 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalues of $\\mathrm { N H } _ { 4 } { } ^ { + }$ and $\\mathrm { F } ^ { - }$ . This reflected the contribution of industrial and agricultural production,and organic decomposition on the chemical characteristics of precipitation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the northern slope of Wushaoling Mountain, the first three PC factors explained $6 4 . 8 3 \\%$ of the total variance of precipitation chemistry (Table 5). The first PC factor explained $4 0 . 7 8 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalues of all ions (with exceptions of $\\mathrm { N H _ { 4 } } ^ { + }$ and $\\mathbf { N O } _ { 2 } ^ { - } ,$ . This indicated that ions in precipitation were mainly from local sources. The second PC factor explained $1 3 . 0 7 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalue of $\\mathrm { N H } _ { 4 } { } ^ { + }$ and $\\mathrm { F } ^ { - }$ .This suggested the contribution of industrial and agricultural production,and organic decomposition on the chemical characteristics of precipitation. The third PC factor explained $1 0 . 9 8 \\%$ of the total variance of precipitation chemistry,and this factor had high loading eigenvalue of $\\mathrm { N O } _ { 2 } ^ { - }$ .This reflected the contribution of waste gas emissons from industrial production, municipal waste incineration and automobile exhaust. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/dff413de32ff93068f7334834ac54ea7f60c19e865722208d42668ec35c7fb5c.jpg",
+        "table_caption": [
+            "Table 5Eigenvalues and variances of the first threePC(principal component)factors for ions in precipitation in the southern and northern slopes of Wushaoling Mountain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Eigenvalue/Variance</td><td colspan=\"3\">Southern slope</td><td rowspan=\"2\"></td><td colspan=\"3\">Northern slope</td></tr><tr><td>PC1</td><td>PC 2</td><td>PC3</td><td>PC1</td><td>PC2</td><td>PC 3</td></tr><tr><td>Na+</td><td>0.829</td><td></td><td>0.360</td><td>-0.041</td><td>0.824</td><td>-0.257</td><td>-0.020</td></tr><tr><td>K+</td><td>0.776</td><td>0.120</td><td></td><td>-0.199</td><td>0.640</td><td>-0.126</td><td>0.351</td></tr><tr><td>Mg2+</td><td>0.743</td><td></td><td>0.127</td><td>-0.274</td><td>0.608</td><td>-0.404</td><td>-0.185</td></tr><tr><td>Ca2+</td><td>0.869</td><td></td><td>-0.008</td><td>-0.149</td><td>0.568</td><td>-0.127</td><td>0.229</td></tr><tr><td>NH4+</td><td>-0.256</td><td></td><td>0.368</td><td>0.698</td><td>-0.164</td><td>0.755</td><td>0.237</td></tr><tr><td>F</td><td>0.540</td><td></td><td>-0.248</td><td>0.533</td><td>0.617</td><td>0.562</td><td>0.072</td></tr><tr><td>CI-</td><td>0.577</td><td>0.414</td><td></td><td>0.278</td><td>0.875</td><td>0.184</td><td>-0.135</td></tr><tr><td>NO2</td><td>0.227</td><td>0.554</td><td></td><td>-0.039</td><td>0.204</td><td>-0.180</td><td>0.847</td></tr><tr><td>NO3</td><td>0.697</td><td>-0.444</td><td></td><td>0.142</td><td>0.586</td><td>0.001</td><td>-0.255</td></tr><tr><td>SO42-</td><td>0.774</td><td>-0.395</td><td></td><td>0.209</td><td>0.860</td><td>0.306</td><td>-0.159</td></tr><tr><td>Percentage of variance (%)</td><td>44.24</td><td>11.90</td><td></td><td>10.53</td><td>40.78</td><td>13.07</td><td>10.98</td></tr><tr><td>Cumulative percentage of variance (%)</td><td>44.24</td><td></td><td>56.14</td><td>66.67</td><td>40.78</td><td>53.85</td><td>64.83</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We used the enrichment factor method to identify the sources of ions in precipitation in the Wushaoling Mountain. It should be noted again that the sources of ions in precipitation include anthropogenic activities, terrigenous material, and sea salt aerosol (Al-khashman, 2Oo5; Li et al., 2014,2015, 2016; Guo et al., 2015). We calculated the $\\mathrm { [ C l ^ { - } / N a ^ { + } ] }$ lprecipitatior $\\scriptstyle 1 = 1 . 3 5 [ \\mathrm { C l } ^ { - } / \\mathrm { N a } ^ { + } ]$ ocean and $[ \\mathrm { M g ^ { 2 + } / N a ^ { + } } ] _ { \\mathrm { p r e c i p i t a t i o n } } { = } 0 . 4 7 [ \\mathrm { C l ^ { - } / N a ^ { + } } ] _ { \\mathrm { o c e a n } }$ for the southern slope, and the $\\mathrm { [ C l ^ { - } / N a ^ { + } ] }$ precipitatio $\\mathrm { \\Omega _ { n = 1 } } . 2 4 [ \\mathrm { C l { \\bar { \\Gamma } } }$ $/ \\mathrm { N a ^ { + } ] _ { \\mathrm { o c e a n } } }$ and $[ \\mathrm { M g ^ { 2 + } / N a ^ { + } } ] _ { \\mathrm { p r e c i p i t a t i o n } } { = } 0 . 5 8 [ \\mathrm { C l ^ { - } / N a ^ { + } } ] _ { \\mathrm { o c e a n } }$ in the northern slope, suggesting that $\\mathrm { { N a ^ { + } } }$ was the reference ion of ocean (Xiao et al., 1993). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The enrichment factors of ions in precipitation in the southern and northern slopes of Wushaoling Mountain are shown in Table 6. The $E F _ { \\mathrm { c r u s t } }$ values of $\\mathrm { { N a ^ { + } } }$ were generally lower than 1 both in the southern and northern slopes,indicating that $\\mathrm { { N a ^ { + } } }$ was derived from the crust. The $E F _ { \\mathrm { c r u s t } }$ values of $\\mathrm { K ^ { + } }$ were much lower than 1 while the $E F _ { \\mathrm { o c e a n } }$ values of $\\mathrm { K } ^ { + }$ were much higher than 1,which suggested that $\\mathrm { K } ^ { + }$ was mainly derived from the crust. The $E F _ { \\mathrm { c r u s t } }$ values of $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ were lower than 1 while the $E F _ { \\mathrm { o c e a n } }$ values of $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ were higher than 1 in the two slopes,indicating that $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ was mainly from the crust. The $E F _ { \\mathrm { c r u s t } }$ values of $\\mathrm { C l ^ { - } }$ ranged from 46.83 to 138.05 in the southern slope and from 1O8.93 to 326.84 in the northern slope；and,only in autumn in the northern slope, the $E F _ { \\mathrm { o c e a n } }$ value of $\\mathrm { C l ^ { - } }$ was higher than 1. This suggested that ocean was the main source for $\\mathrm { C l ^ { - } }$ The $E F _ { \\mathrm { c r u s t } }$ values of ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ were higher than 233.77 and the $E F _ { \\mathrm { o c e a n } }$ values of ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ were higher than 717.O7 in the southern and northern slopes, indicating that ocean and crust almost exhibited no contribution to ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ ，and the main source of ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ was anthropogenic activities. In addition, $S O _ { 4 } { } ^ { 2 - }$ was also mainly from anthropogenic activities. The $E F _ { \\mathrm { o c e a n } }$ values of $\\mathrm { C a } ^ { 2 + }$ ranged from 89.66 to 212.01 in the southern slope and from 35.61 to 102.11 in the northern slope, suggesting that $\\mathrm { C a } ^ { 2 + }$ was mainly from the crust. The $E F _ { \\mathrm { o c e a n } }$ values of $\\mathrm { F ^ { - } }$ were higher than 1 in the two slopes,which indicated that $\\mathrm { F ^ { - } }$ was mainly from the crust. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study， we calculated the source contributions of sea salt fraction,crust fraction and anthropogenic fraction (Equations 3-5,respectively） to further determine the sources of ions in precipitation in the study area (Mahlknecht et al., 2OO4; Li et al., 2O15). The results are shown in Table 7. The ${ \\bf N } { \\bf O } _ { 3 } { } ^ { - }$ in precipitation was mainly from the anthropogenic activities,with contribution of $9 9 . 6 4 \\%$ in the southern slope of Wushaoling Mountain and $9 9 . 6 9 \\%$ in the northern slope. Only a small part of $S O _ { 4 } { } ^ { 2 - }$ was contributed from the ocean fraction and crust fraction. The contributions of crust fraction and anthropogenic fraction for $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ and $\\mathrm { K } ^ { + }$ in precipitation were $7 6 . 0 0 \\%$ and $9 3 . 7 5 \\%$ in the southern slope,and $8 0 . 3 5 \\%$ and $9 3 . 4 3 \\%$ in the northern slope,respectively. Similarly, the $\\mathrm { F ^ { - } }$ in precipitation in the southern and northern slopes was mainly affected by crust and anthropogenic activities,with contributions of $8 7 . 8 6 \\%$ and $7 6 . 1 8 \\%$ ，respectively.Different from the other ions,the $\\mathrm { C l ^ { - } }$ in precipitation mainly came from the sea salt fraction,with the contributions of $9 8 . 8 3 \\%$ and $9 9 . 5 3 \\%$ in the southern and northern slopes, respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbb1b05822e77b3343a3bc25ac06429ecdb988bdf3379977b72a95ec60f3fe7c.jpg",
+        "table_caption": [
+            "Table 6Enrichment factors of ions in precipitation in the southern and northern slopes of Wushaoling Mountain with respect to the reference ion in the reference substance "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Southern slope</td><td colspan=\"6\">Enrichment factor of ion in precipitation relative to Ca²+ in crust</td><td colspan=\"7\">Enrichment factor of ion in precipitation relative to Na+ in ocean</td></tr><tr><td>Na+</td><td>K+</td><td>Mg2+</td><td>CI-</td><td>NO3</td><td>SO42-</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>F</td><td>CI-</td><td>NO3-</td><td>SO42-</td></tr><tr><td>Spring</td><td>0.53</td><td>0.19</td><td>0.19</td><td>138.05</td><td>285.29</td><td>60.77</td><td>8.74</td><td>2.84</td><td>89.66</td><td>3.88</td><td>0.71</td><td>1342.82</td><td>15.53</td></tr><tr><td>Summer</td><td>0.22</td><td>0.18</td><td>0.15</td><td>46.83</td><td>233.77</td><td>31.34</td><td>19.7</td><td>5.25</td><td>212.01</td><td>10.77</td><td>0.57</td><td>2601.90</td><td>18.94</td></tr><tr><td>Autumn</td><td>0.32</td><td>0.14</td><td>0.17</td><td>82.30</td><td>381.94</td><td>53.22</td><td>10.04</td><td>4.10</td><td>147.28</td><td>9.97</td><td>0.69</td><td>2953.28</td><td>22.35</td></tr><tr><td>Winter</td><td>0.25</td><td>0.26</td><td>0.14</td><td>73.55</td><td>338.03</td><td>58.83</td><td>25.50</td><td>4.36</td><td>192.53</td><td>8.32</td><td>0.81</td><td>3416.75</td><td>32.29</td></tr><tr><td rowspan=\"2\">Northern slope</td><td colspan=\"6\">Enrichment factor of ion in precipitation relative to Ca²+ in crust</td><td colspan=\"7\">Enrichment factor of ion in precipitation relative to Na+ in ocean</td></tr><tr><td>Na+</td><td>K+</td><td>Mg2+</td><td>CI-</td><td>NO3</td><td>SO42-</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>F</td><td>CI-</td><td>NO3</td><td>SO42-</td></tr><tr><td>Spring</td><td>0.91</td><td>0.26</td><td>0.4</td><td>164.63</td><td>262.06</td><td>110.30</td><td>6.88</td><td>3.45</td><td>52.12</td><td>1.99</td><td>0.49</td><td>717.07</td><td>16.39</td></tr><tr><td>Summer</td><td>0.47</td><td>0.24</td><td>0.35</td><td>108.93</td><td>264.58</td><td>69.67</td><td>12.25</td><td>5.91</td><td>102.11</td><td>4.97</td><td>0.63</td><td>1418.42</td><td>20.28</td></tr><tr><td>Autumn</td><td>0.51</td><td>0.59</td><td>0.55</td><td>237.19</td><td>407.17</td><td>169.53</td><td>27.85</td><td>8.38</td><td>93.14</td><td>6.17</td><td>1.26</td><td>1990.94</td><td>45.01</td></tr><tr><td>Winter</td><td>1.33</td><td>0.77</td><td>0.45</td><td>326.84</td><td>712.50</td><td>239.53</td><td>13.82</td><td>2.62</td><td>35.61</td><td>3.66</td><td>0.66</td><td>1331.98</td><td>24.32</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bf7eed596f4dcde25c52dae1e6a021f12e8343444fa0a44852828edeb62cb60.jpg",
+        "table_caption": [
+            "Table7Source contributions for different ions in precipitation in the southern and northern slopes of Wushaoling Mountain "
+        ],
+        "table_footnote": [
+            "Note: SSF,sea salt fraction; CF,crust fraction;AF,anthropogenic fraction "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Source</td><td>Fraction</td><td>Na+</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>F</td><td>CI-</td><td>NO3</td><td>SO42-</td></tr><tr><td rowspan=\"3\">Southern slope</td><td>Ocean source</td><td>SSF (%)</td><td>0.00</td><td>6.25</td><td>24.00</td><td>0.00</td><td>12.14</td><td>98.83</td><td>0.32</td><td>4.48</td></tr><tr><td>Land source</td><td>CF (%)</td><td>100.00</td><td>93.75</td><td>76.00</td><td>100.00</td><td>87.86</td><td>1.17</td><td>0.04</td><td>1.95</td></tr><tr><td></td><td>AF (%)</td><td>0.00</td><td></td><td></td><td>0.00</td><td></td><td>0.00</td><td>99.64</td><td>93.57</td></tr><tr><td></td><td>Source</td><td>Fraction</td><td>Na+</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>F</td><td>CI-</td><td>NO3</td><td>SO42-</td></tr><tr><td rowspan=\"3\">Northern slope</td><td>Ocean source</td><td>SSF (%)</td><td>0.00</td><td>6.57</td><td>19.65</td><td>0.00</td><td>23.82</td><td>99.53</td><td>0.07</td><td>3.77</td></tr><tr><td>Land source</td><td>CF (%)</td><td>100.00</td><td>93.43</td><td>80.35</td><td>100.00</td><td>76.18</td><td>0.47</td><td>0.24</td><td>0.67</td></tr><tr><td></td><td>AF (%)</td><td>0.00</td><td></td><td></td><td>0.00</td><td></td><td>0.00</td><td>99.69</td><td>95.56</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Indicative significance for sand dust events ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to study the indication of precipitation chemistry to sand dust events,we selected three typical sand dust events occurred in the Wushaoling Mountain based on the frequency of sand dust events and the temporal distribution of precipitation. Specifically, we analyzed the changes in chemical characteristics of precipitation after the occurrence of sand dust events.The first sand dust event occurred on 22 May, 2O13; the second sand dust event occurred on 23 and 24 April, 2014;and the third sand dust event occurred on 3O April, 2O14. It should be noted that for the three selected sand dust events, precipitation occurred after the occurrence of sand dust events. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 5, $\\mathrm { \\Delta N a ^ { + } }$ in precipitation exhibited a high concentration after the occurrence of sand dust events both in the southern and northern slopes of Wushaoling Mountain. As above-mentioned analysis, $\\mathrm { { N a ^ { + } } }$ in precipitation was mainly from the terrigenous material. Sand dust events could increase the terrigenous material in the atmosphere,leading to the increase in the concentration of $\\mathrm { { N a ^ { + } } }$ in precipitation. After the occurrence of sand dust events，the concentrations of $\\mathrm { K ^ { + } }$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { S O } _ { 4 } { } ^ { 2 - }$ $\\mathrm { N O } _ { 3 } { } ^ { - }$ and $\\mathrm { C a } ^ { 2 + }$ in precipitation increased in the southern slope and decreased in the northern slope.There may be two possible reasons. On the one hand, these ions were mainly from the terrigenous material and anthropogenic activities. On the other hand, a large number of sand dusts were blown to the southern slope when the sand dust events occurred, thereby increasing the ion concentrations in precipitation in the southern slope and decreasing the ion concentrations in the northern slope.The concentration of $\\mathrm { C l ^ { - } }$ increased after the occurrence of sand dust events both in the southern and northern slopes,indicating that the sands and dusts contained a high concentration of $\\mathrm { { N a C l } }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5d707dbeaca6d93eb3a8ac0f4aed371dea07a3253885d2bd0d272abe31a2757.jpg",
+        "img_caption": [
+            "Fig.5Concentrations of ions in precipitation in the southern and northern slopes of Wushaoling Mountain.It should be noted that the first sand dust event occurred on 22 May,2Ol3 (orange line);the second sand dust event occurred on 23 and 24 April,2O14;and the third sand dust event occurred on 30 April,2014. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "During the sampling period (i.e., from May 2013 to July 2014), the $\\mathsf { p H }$ values of precipitation in the southern and northern slopes of Wushaoling Mountain exhibited the same variation range, with the average value in the northern slope being slightly higher than that in the southern slope. The EC values of precipitation in the northern slope were higher than those in the southern slope. Concentrations of $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ， $\\mathrm { C a } ^ { 2 + }$ ， $\\mathrm { N H } _ { 4 } { } ^ { + }$ $\\mathrm { F } ^ { - }$ ， $\\mathrm { N O } _ { 3 } { } ^ { - }$ ，and $S O _ { 4 } { } ^ { 2 - }$ showed significant difference between the northern and southern slopes. The chemical type of precipitation was similar in the southern and northern slopes, i.e., $\\mathrm { S O _ { 4 } ^ { 2 - } { - } C a ^ { 2 + } { - } N O _ { 3 } ^ { - } { - } N a ^ { + } }$ . The land sources (including terrigenous material and anthropogenic activities） played an important role in determining the ion concentrations of precipitation both in the southern and northern slopes (with an exception of $\\mathrm { C l ^ { - } }$ ).The $\\mathrm { C l ^ { - } }$ in precipitation mainly came from the sea salt fraction. After the occurrence of sand dust events, the concentration of $\\mathrm { { N a ^ { + } } }$ in precipitation increased both in the southern and northern slopes. Furthermore, the concentrations of $\\mathrm { K ^ { + } }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ $S O _ { 4 } { } ^ { 2 - }$ $\\mathrm { N O } _ { 3 } { } ^ { - }$ and $\\mathrm { C a } ^ { 2 + }$ in precipitation in the southern slope increased, while the concentrations decreased in the northern slope. This results are helpful to further understand the atmospheric pollution caused by sand dust events in the Wushaoling Mountain and can also provide a scientific basis for the effective prevention of atmospheric pollution in this region. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Gansu Province Science Fund for Distinguished Young Scholars (1506RJDA282),the National Natural Science Foundation of China (41271039,91547102),the Open Foundation of MOE Key Laboratory of Western China's Environmental System of Lanzhou University, the Open Foundation from State Key Laboratory (SKLFSE2O1403),and the West Light Program for Talent Cultivation of Chinese Academy of Sciences. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Al-KhashmanOA.2Oo5.Studyof chemical composition inwetatmosphericprecipitation inEshidiyaarea,Jordan. Atmospheric Environment,39(33):6175-6183.   \nEneroth K,Holmen K,Berg T,etal.2O7.Springtime depletionof tropospheric ozone,gaseous elemental mercury and non-methane hydrocarbons in the European Arctic,and itsrelation toatmospheric transport.Atmospheric Environment, 41(38): 8511-8526.   \nGuo XY,FengQ,Liu W,etal.2015.Stable isotopicandgeochemical identificationof groundwater evolutionandrecharge sources in the arid Shule River Basin of Northwestern China.Hydrological Processes,29(22): 4703-4718.   \nItahashiS,UnoI,HayamiH,etal.2O14.Modelinginvestigationofcontrolingfactors intheincreasingratioofnitrateto non-sea salt sulfate in precipitation over Japan.Atmospheric Environment,92:171-177.   \nKeene WC,PszennyAAP,GallowayJN,etal.986.Sea-saltcorrectionsand interpretationofconstituentratios nmarine precipitation.Journal of Geophysical Research: Atmospheres,91(D6): 6647-6658.   \nLaoualiD,Galy-LacauxC,DiopB,etal.20l2.Long term monitoringof thechemicalcompositionof precipitationand wet deposition fluxes over three Sahelian savannas.Atmospheric Environment,5O:314-327.   \nLiXM,LiLH,GuoLP,etal.2O1ImpactoflimatefactorsonrunoffintheKaiduRiverwatershed:pathnalysisof-year data.Journal of Arid Land,3(2): 132-140.   \nLi Y,MorillC.2015.A Holocene East Asian winter monsoonrecordat the southern edgeof the Gobi Desert and its comparison with a transient simulation.Climate Dynamics,45(5-6):1219-1234.   \nLi ZJ,LiZX,WangTT,etal.20l5.Compositionof wetdepositioninthecentralQilian Mountains,China.Environmental Earth Sciences,73(11): 7315-7328.   \nLi ZJ,SongLL,TianQ.Ol6.Analysisofprecipitationcharacteristicsand watervapor sources intheEastof HexiCoidor. Environmental Chemistry,35(4):721-732.(in Chinese)   \nLi ZJ,SongLL,TianQ,etal.2O17a.Characteristicsandsourcesofatmosphericcompositionbasedonprecipitationcheistry in the Shiyang River Basin,Northwestern China. Arabian Journal of Geosciences,1O(2):1379.   \nLi ZJ,SongLL,ChenFC,etal.2O17b.The indicativesignificanceofsand-dust weatherandchemicalhangeofprecipitation in the inland arid area:acase of Minle County.Environmental Chemistry,36(2):373-379.(in Chinese)   \nLi ZX,He YQ,Pang HX,etal.2Oo9.Chemistryof snowdepositedduring the summer monsoon andinthewinterseasonat Baishui glacier No.1, Yulong Mountain,China. Journal of Glaciology,55(190): 221-228.   \nLi ZX,HeYQ,WangPY,etal.20l2.Changesofdailyclimate extremes in southwestemChina during1961-2008.Global and Planetary Change,80-81: 255-272.   \nLi ZX,FengQ,Liu W,etal.2014.Studyonthecontributionofcryospheretorunoffinthecoldalpine basin:Acasestudyof Hulugou River Basin in the Qilian Mountains.Global and Planetary Change,122: 345-361.   \nLi ZX,Feng Q,GuoXY,etal.2015.The evolutionandenvironmentalsignificanceof glaciochemistryduring theablation period in the north of Tibetan Plateau, China. Quaternary International,374: 93-109.   \nLi ZX,FengQWangQJ,etal.2Ol6.Contribution fromfrozensoil meltwatertounof inanin-landriverbasinunder water scarcity by isotopic tracing in northwestern China.Global and Planetary Change,l36: 41-51.   \nMa JZ,Zhang P,ZhuGF,et al.2012.Thecompositionand distributionof chemicalsand isotopes in precipitation in the Shiyang River system,northwestern China.Journal of Hydrology,436-437: 92-101.   \nMaJZ,ChenLH,HeJH,etal.2O13.Trendsand periodicities inobservedtemperature,precipitationandrunoff inadesert catchment:case studyforthe ShiyangRiverBasin in Northwestern China.WaterandEnvironment Journal,27(1):86-98.   \nMahlknechtJ,teinichB,DeLeónIN.2O04.Groundwaterchemistryand mass transfersinthe Independenceaquifer,entral Mexico,by using multivariate statistics and mass-balance models.Environmental Geology,45(6):781-795.   \nOkayC,AkoyunluBO,Tayanc M.2O02.Compositionof wetdepositioninKaynarca,Turkey.EnvironmentalPolution, 118(3):401-410.   \nRenLH,Chen JH,Bai ZP,et al.2Ol2.Ioniccomposition andsourceanalysisof precipitationat Wuzhi Mountain in Hainan Province and Wuyi Mountain in Fujian Province.Research of Environmental Sciences,25(4):404-410.(in Chinese)   \nShresthaAB,WakeCP,DibbJE,etal.2O2.Aerosoland precipitationchemistryataremoteHimalayansiteinNepal.Aerosol Science and Technology,36(4): 441-456.   \nTaylor SR.1964.Abundanceof chemical elements in thecontinentalcrust:anew table.Geochimica et Cosmochimica Acta, 28(8): 1273-1285.   \nVetR,ArtzRS,CarouS,etal.2O14.Aglobalassessmentofprecipitationchemistryandepositionofsulfur,ntrogenasalt, base cations,organic acids,acidity and pH,and phosphorus.Atmospheric Environment,93:3-100.   \nXiao H,Shen ZL,Huang M Y.1993.Chemical characteristics of tropical Western Pacific precipitation.Acta Scientiae Circumstantiae,13(2):143-149.(in Chinese)   \nXuZF,LiYS,TangY,etal.29.ChemicalandstrontiumisotopecharacterizationofranwateratanurbansiteinLoes Plateau,Northwest China.Atmospheric Research,94(3): 481-490.   \nYang XL,DingWK,GuoLM.2Ol0.Analysis onthe basiccharacteristicsof precipitation intheEast Hexi Corrior.Arid Zone Research,27(5): 663-668.(in Chinese)   \nYang XL,Ding WK,Yuan JM,etal.2O12.Climate characteristicsof thegaleand itsforecastin East Hexi Corridor. Transactions of Atmospheric Science,35(1):121-127.(in Chinese)   \nZhang DD,Peart M,JimCY,etal.2003a.PrecipitationchemistryofLhasa and otherremote towns,Tibet.Atmospheric Environment,37(2): 231-240.   \nZhang DD,JimCY,PeartMR,etal.2O3b.Rapidchangesof precipitationpHinQinghai Province,thenortheasterTibetan Plateau.Science of the Total Environment,305(1-3): 241-248.   \nZhu GF,SuYH,Huang CL,etal.2Ol0.Hydrogeochemical processs inthe groundwater environment of HeieiverBasin, northwest China.Environmental Earth Sciences,6O(1):139-153. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

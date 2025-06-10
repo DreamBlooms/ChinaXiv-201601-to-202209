@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "细胞穿膜肽在肿瘤靶向治疗及疾病诊断中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张裕丰，谢梦佳，周舒蕾，徐玲玲，赵铁军\\*浙江师范大学化学与生命科学学院，浙江 金华321004摘要：近年来细胞穿膜肽（Cell-penetrating peptides，CPP）在生物医药领域广泛应用，它为生物分子的胞内递送提供了有效的策略。关注CPP在肿瘤治疗及疾病诊断中的作用，并重点介绍其在肿瘤靶向治疗和医学影像诊断中的应用及优势。同时，根据CPP在药物传递系统中的特点，改进CPP存在的不足，扩大其联合用药的可能性，这也成为CPP研究的热点。对CPP及其在肿瘤等疾病的诊断及治疗中的应用作一综述，并简述其优化及改进策略，以期促进CPP在临床中的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：穿膜肽，肿瘤，CPP ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of Cell-Penetrating Peptides in tumor targeted therapy and disease diagnosis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yu-feng, XIE Meng-jia, ZHOU Shu-lei, XU Ling-ling, and ZHAO Tie-jun ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(College ofChemistry andLife Sciences,Zhejiang Normal University,Jinhua 321o04,Zhejiang,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In recent years,cell-penetrating peptides (CPP) have provided an efective strategy for intracellular delivery of biomolecules in the biomedical field.This article focuses on the application of CPP in cancer treatment and disease diagnosis,mainly on its roles and advantages in tumor targeted therapy and medical imaging diagnosis. Meanwhile,according to the characteristics ofCPP in drug delivery system,the deficiency of CPP should be improved to expand the possibility of combined drug utility, which has become the research hotspot.We review CPP and its applications,then describes some optimized and improved methods to expand the clinical application of CPP. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Target Peptides; Cancer; CPP ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "细胞穿透肽(Cell-penetrating peptides，CPP）也被称为靶向多肽、蛋白质转导结构域、特洛伊木马肽等。它是一大类短氨基酸序列(5-30个残基)，能够穿过生物膜并传递多种化合物至细胞内，包括小分子，核酸，蛋白质，病毒，成像剂和药物等[1,2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1988年，两个研究小组独立发现了第一个能够跨越细胞膜的蛋白质[3.4]。他们观察到人类免疫缺陷病毒-1(HIV-1）反式激活蛋白（Tat）能够进入培养的细胞，易位至细胞核并反式激活病毒基因表达。研究发现[5]Tat蛋白的α螺旋结构域主要由碱性氨基酸组成，它是细胞内化和细胞核易位的主要决定因素。Tat十二肽GRKKRRQRRRPQ已被证明是最小的功能分子，许多CPP从这个原始序列当中衍生出来[6]。1991年，由果蝇触角基因编码的同源结构域显示其可以穿过神经元膜，移位到细胞核并导致神经元形态分化[7]。触角蛋白同源域第三螺旋的16个氨基酸所组成的多肽(RQIKIWFQNRRMKWKK）被人们定义为穿孔素肽，这种多肽能够以不依赖能量的方式有效地穿过细胞膜[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在近30年的时间里，CPP被广泛地用于基础研究和临床前期研究，用于治疗感染，炎症，神经退行性疾病和癌症等多种疾病[9]。然而，由于质膜的渗透性有限，递送效率低以及对靶肿瘤细胞的特异性差等缺陷，临床试验中只对一部分CPP的效果进行了评估。目前已经使用不同的实验方法来生产能够特异性地到达癌细胞并将对应的抗癌药物递送到细胞内的活性分子。因为多肽是非免疫原性分子，通常不具有细胞毒性，在生理条件下较为稳定，并且能够有效快速递送许多运载物到细胞中，例如蛋白质，其他肽或核酸[10]，所以基于多肽的合成策略相比于其他递送系统有很大的优越性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 CPP的分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前有超过100 种CPP 存在（表1），他们的序列存在着巨大的变化。我们可以将这些CPP通过不同的方法分类，例如起源、功能、序列、摄入机制和在生物医学中的应用等。根据其物理化学性质的不同，CPP可以分为三大类：阳离子CPP、疏水性 CPP 和两性CPP。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 阳离子CPP ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常用的阳离子CPP含有丰富的正电荷，它们来源于精氨酸（Arg）和赖氨酸(Lys）的基本短链，两者在介导各种治疗性药物的内化方面起着至关重要的作用。使用最广泛的两种阳离子CPP是TAT介导的多肽例如Antennapedia 同源域衍生肽和包含九个精氨酸的寡聚精氨酸多肽Polyariginines[11,12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d7dac629521ce59c4abb4be8d52fa8cbf46bfe1777a12af813fbf0bcf975512.jpg",
+        "table_caption": [
+            "表1： 常用细胞穿膜肽Table 1 Commonly used cell transmembrane peptide"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>CPP</td><td>Amino acid sequence</td></tr><tr><td>Polyariginines</td><td>RRRRRRRRR(R9)</td></tr><tr><td>Tat49-57</td><td>RKKRRQRRR</td></tr><tr><td>Penetratin(Antennapedia)</td><td>RQIKIWFQNRRMKWKK</td></tr><tr><td>Pep-1</td><td>KETWWETWWTEWSQPKKKRKV</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 疏水CPP ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二类的CPP属疏水性肽，主要含有非极性残基。这些CPP拥有疏水性氨基酸，疏水性氨基酸在维持低电荷和帮助细胞摄取多肽等方面起着重要的作用。疏水的CPP包含一些信号序列，这些序列来自于卡波成纤维细胞生长因子(K-FGF)[13]和成纤维细胞生长因子-12(FGF-12)[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 两性CPP ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后一类含极性和非极性氨基酸区域的双亲肽，包括多抗原肽(MAP)[15]，整合素受体靶向肽 Arg-Gly-Asp (RGD)[16]和单纯疱疹病毒蛋白VP22。这些肽都表现出能够在细胞间转运的特性，并且他们主要聚集在细胞核中[17]。蛋白质转导领域的天然蛋白的筛选也在进行中[18]。据报道，有几种CPPs能与生物分子形成非共价复合物，并改善其在哺乳动物细胞中的传递。例如将 $\\mathrm { H I V  – 1 \\ g p 4 1 }$ 蛋白的疏水融合结构域与SV40大T抗原（KKKRKV）的核定位信号连接可以产生两性CPPMPG(GALFLGFL-GAAGSTMGAWSQPKKKRKV) 和 Pep-1(KETWWETWWTEWSQPKKKRKV)MPG和Pep-1通过非共价静电和疏水相互作用与各自的运载物 (寡核苷酸或蛋白质/肽）形成稳定的复合物，帮助CPP定位[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3CPP的摄入机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然对于CPP的细胞摄取机制尚未完全了解,但根据CPP的物理化学性质不同，我们推测CPP进入细胞可能会存在几种独立的机制或者是这些机制共同起作用。同时，细胞对CPP的摄取也取决于运载物的类型、大小和电荷。这些分子会产生不同的累积和应用效率[20]。目前普遍接受的细胞摄取的主要机制包括内吞作用介导的途径，反胶束模型和类地毯机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 内吞介导 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内吞作用机制为大多数CPP提供了主要的细胞摄取途径。该过程大体包含两个步骤，即内吞入胞和内体逃逸。但内吞入胞实际上可能涉及若干途径，包括了网格蛋白介导的胞吞作用[21]，不依赖网格蛋白的内吞作用 (如通过脂筏或细胞膜腔内膜的内吞作用）和微细胞增多等方式[22,23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 反胶束模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究者提出反胶束模型来解释CPP穿膜蛋白家族易位[24]。穿膜蛋白CPP是富含赖氨酸和精氨酸的多肽，可以在低温下穿过细胞膜，这表明了该过程不需要能量的参与。此外，穿膜肽CPP的细胞摄取与任何膜受体无关。反胶束模型认为,带正电的残基(精氨酸和赖氨酸）最开始与细胞膜上带负电的磷脂结合[25]，因此能够与膜融合，形成了含有CPP的口袋状胶束。接着，CPP穿过该胶束内的细胞膜朝向细胞质一侧。当这些胶束穿过膜后，它们便发生反转释放CPP和它的运载物进入细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 类地毯机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类地毯的机制最初是用来描述蛙皮抗菌肽的渗透现象，也可以解释高浓度CPP对细胞的毒害[26]。这些多肽具有穿透微生物的细胞膜并导致细胞溶解的能力。根据类地毯模型，这些裂解肽带正电荷的结构域最初与细胞表面上的带负电的磷脂结合，以类似于地毯的方式覆盖细胞膜。当这些肽在膜的特定区域达到一定浓度时，膜变得局部不稳定，形成孔洞，因此CPP和它们的运载物能够通过细胞[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4CPP在肿瘤治疗及疾病诊断中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "癌症是造成人类死亡的主要原因，其中化疗是最常见的治疗方法[28]。但是化疗存在着许多缺点，主要包括：药物难以进入肿瘤组织、高剂量使用药物或长期治疗而产生了耐药性、以及剂量依赖等副作用。药物难以渗透肿瘤组织主要是因为肿瘤细胞上致密的结缔组织基质阻碍分子进入（比如胰腺癌）以及由异常的血液和淋巴管引起的高间质压力的存在。CPP可通过促进癌细胞的外渗和药物渗透进入肿瘤细胞来促进药物递送，且能够不影响其他正常组织。因为某些治疗性抗体或肽能特异性识别肿瘤细胞靶分子，这种治疗策略可以将一定量的抑癌药物富集到肿瘤组织中。因此，当药物在肿瘤部位定位并优先累积时，药物对于肿瘤的杀伤活性大大增加并且对健康组织的毒性有所降低[29]。内源性刺激如激活特定酶可增强细胞特异性。外部刺激如轻度热可以促进运载物运输并增加CPP递送药物的积累。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 CPP与生物活性分子的递送",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蛋白质，核酸或其他小分子物质都能够调节细胞功能并产生治疗效果。然而因为细胞选择渗透性的特点，相较于体外实验，这些分子在体内表现出的活性则明显较弱。通常，这是由它们分子量较大或阴离子富集造成的。因此，可以利用CPP促使这些药剂转移穿过细胞膜，直达病灶发挥作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 小分子递送",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CPP最重要的功能之一是它们能够将多种化合物递送到胞质溶胶中并保持生物学活性。许多具有化疗效应的小分子，如紫杉醇[30]，环孢菌素A[31]和甲氨蝶呤[32]，当与CPP结合时仍能显示出应有的活性。值得注意的是，尽管CPP-药物偶联物在体外纯化的生物化学系统中可能表现出低活性，但细胞的高效摄取可以弥补这种不足。已有研究证明，尽管CPP-甲氨蝶呤偶联物的效力与单独的药物相比损失20倍，但它仍然是抗甲氨蝶呤细胞系的高效细胞毒素[32]。因为CPP 偶联物可以有效地增加生物活性小分子进入细胞的水平，进一步抵消其药物活性降低的不足。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 肽和蛋白质递送",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "细胞往往会限制生物活性大分子的富集。然而，利用CPP作为分子转运蛋白可以允许这些分子在细胞内以足够的水平递送，从而产生生物学效应。有研究揭示了CPP引起转录因子活性改变的机制，该机制涉及了STAT-6肽抑制剂。STAT-6能结合磷酸化的蛋白质以防止其二聚化并抑制活性[33]。为了实现在细胞内的递送，抑制肽与 HIV-Tat 衍生的PTD4 CPP 缀合。缀合物的内化发挥显著的负面作用，并且当缀合物被递送至小鼠的上呼吸道时，它能减弱卵清蛋白诱导的炎症反应和粘液产生。这表明STAT-6活性与过敏性疾病有关[34],STAT-6抑制肽有望成为新型过敏性鼻炎和哮喘治疗方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CPP介导免疫应答调节的一个例子是克服细菌败血症。脓毒症是由于淋巴细胞和树突细胞的凋亡丧失造成的，能抑制免疫并最终导致死亡[35,36]。由于抑制细胞凋亡的疗法已被证明可以提高生存率[37]，CPP可以通过递送抗凋亡蛋白来治疗脓毒症[38]。将Bcl-xL及其BH4 结构域与 Tat缀合，并在患有脓毒症诱导的淋巴细胞凋亡的小鼠中使用这些缀合物。研究发现施用缀合物的小鼠体内脓毒症诱导的淋巴细胞凋亡率明显下调。这项工作是首次利用CPP传递抗凋亡蛋白来对抗败血症诱导的细胞凋亡。该系统的效力表明它是一种非常有效的方法，可以减少脓毒症后免疫系统的消耗并提高生存率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 核酸和siRNA递送",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "核酸等阴离子生物分子的递送非常具有挑战性。无任何辅助手段的核酸摄取仅在非常低的水平下发生，并且这些分子的载体辅助递送通常会导致内体陷入或由核酸酶引起的降解[39,40]。两种方法已被广泛采用来规避这些障碍：工程内体逃逸[41]，以及利用中性核酸类似物如肽核酸(PNA)[42]。后者是具有肽骨架的核碱基衍生物，其结构导致电中性分子能够抵抗细胞降解。尽管进行了这种修饰，PNA仍保留了天然核酸的互补碱基配对功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CPP还有助于递送用于调节基因表达的小干扰RNA(siRNA)[43]。之前的报道重点关注了使用Tat能有效地将siRNA递送到细胞中进行基因沉默[44]。近期，有研究发现一种新的CPP，即“用于眼部递送的肽”（POD），能够将小分子输送到眼组织中[45]。POD成功地将 siRNA递送到人胚胎视网膜细胞中，并观察到大于 $50 \\%$ 基因沉默效应。POD还将质粒DNA递送至细胞，实现大于 $50 \\%$ 的转基因表达。此外，将POD-染料缀合物局部施用于小鼠的角膜可实现运送分子有效分布到邻近的眼组织中并提高细胞的摄取速度。这项工作证明了CPP能增强核酸向眼组织递送的潜在效用。然而，为了确定局部施用于角膜的POD-核酸缀合物是否也能够实现眼组织分布和加快细胞摄取速，科研工作者仍在进一步的研究中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 CPP在影像学中的应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当前，使用CPP传递成像剂和生物传感器是研究的焦点[46-48]。实现活体内部特征和生理结构可视化对理解、诊断和治疗疾病至关重要。例如，在手术过程中直接观察患病组织并辨别患者的病前状态将对医学产生深远影响。在生物医学研究中，观察干细胞分化过程，或跟踪动物免疫细胞动力学，有利于形成对这些生物过程的基本了解。非侵入性的生物医学成像技术，如荧光成像和磁共振成像（MRI）已经应用于体内组织可视化。但是由于一些显像剂的有效成分不能穿透细胞或组织，或者细胞摄取不良、靶向不足以及荧光团缺乏光稳定性等原因，CPP已被考虑作为运载工具使用。使之与成像显像标记结合，以达到优化体内荧光成像的目的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前已经有多种稳定性更强，摄取水平更高的荧光团-CPP缀合物作为显像剂。例如，用荧光素掺杂直径约 $7 0 \\mathrm { n m }$ 的单分散二氧化硅颗粒，并加以Tat肽修饰后，缀合物能够高效地穿过血脑屏障，进而标记大鼠体内神经元组织[47]。Tsien及其同事[49]报道了CPP应用于成像的另一个例子，他们设计了荧光素肽发夹，该构建体由共价连接聚阴离子片段的聚精氨酸肽组成，由阳离子肽诱导的细胞的摄取过程被可切割接头附着的一小段酸性残基所阻断。一旦接头被蛋白酶切割，抑制效应就会被解除，阳离子CPP可以自由地将其载体带入细胞中。由于靶向的蛋白酶在癌细胞上过表达，所以可将之用于选择性标记肿瘤。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，半导体纳米晶体或量子点(QD）的发展为分子荧光团提供了一种强有力的替代方案，最终有可能在成像应用中占据半壁江山。QD的尺寸和成分导致了电子的量子限制，因此这些材料能显示出许多有利的光学特性[50]。尽管具有强发光性，耐光漂白，发光寿命长，吸附范围广，发射剖面窄等理想特性，量子点在生物环境中并不总是稳定的。它几乎不能被细胞摄取，因此阻碍了体内成像的稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是CPP技术就能够较好地解决这一难题，已经有研究表明，用CPP官能化QD可以改善生物相容性。例如，将Tat修饰的 ${ \\mathrm { C d S } } { \\mathrm { : M n / Z n S } }$ 量子点注射至大鼠的动脉中，几分钟内便能有效地标记脑组织[47]。Tat-QD不仅能穿过血脑屏障，而且用手持灯就能实现可视化，这进一步说明了该类型的显像剂在实现患病组织的可视化方面有很大的潜力。其他CPP 如Pep-1和聚精氨酸[51,52]也能用于QD的细胞传递。尽管已经实现非共价递送量子点，但这只是针对Pep-1而言[46]，所有其他CPP似乎都需要化学缀合以提高细胞摄取水平。CPP与QD的连接以多种方式进行：例如，半胱氨酸和赖氨酸残基以共价键连接[47]，肽与链霉亲和素包被的纳米粒子需要生物素缀合[52-54]，或通过对纳米晶体内所含金属有亲和力的多组氨酸肽接头[54]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5CPP的改造与完善 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CPP是目前可以提供细胞内药物递送的有效手段，然而它们不具有很强的细胞类型特异性。考虑到CPP摄取的机制涉及CPP与膜脂质的强结合，大多数CPP将被各种细胞内化。这种无处不在的内化，成为了CPP选择性地将高活性药物递送至癌细胞应用于临床的主要障碍[55]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CPP与归巢肽的缀合是一种增强CPP特异性递送药物至患病组织和细胞的策略。这种方法将CPP的细胞穿透能力与归巢肽的能力相结合，以识别特定的细胞类型。归巢结构域与CPP缀合后，基于CPP的药物递送系统的特异性有所增加[56]。实现药物选择性递送癌细胞的另一个常见策略是靶向配体与CPP的缀合。例如，当与Tat衍生的CPP融合时，靶向在 $30 \\%$ 乳腺癌中过表达的表皮生长因子ErbB2的抗Her-2/neu肽模拟物成功降低了非特异性摄取并提高了癌细胞特异性摄取的效率[57]。许多研究也集中在将CPP与RGD 肽，叶酸或透明质酸等活性靶向配体偶联，这些活性配体在肿瘤中都有表达，包括肿瘤上皮细胞[58-60]。为了提高CPP 的优势，同时增强对细胞识别的特异性，仍需要进一步的研究来开发和证明有效的体内策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管CPP有一些共同的特性，但CPP家族在质膜结合方式以及易位机制上有所不同。结合和易位可能取决于细胞质膜的细胞外基质成分（ECM），以及其脂质和糖组分[61]。因此，特定的CPP可以优先结合其膜组分有利于与该CPP相互作用的细胞。例如，注入小鼠脑中的穿膜肽优先结合神经元细胞表面上的α-2,8-聚睡液酸，并在神经元中被选择性摄取[62]。在另一项研究中，Lim等[63]揭示了CPP与癌细胞的特异性结合。抗癌肽BufforinIIb 的细胞穿透基序通过与神经节苷脂特异性相互作用，能够靶向定位癌细胞，随后利用脂质介导的胞饮作用进行内化。这些实验结果均表明了CPP在药物递送中的巨大潜力，同时强调了对CPP将多种化学治疗剂递送到体内靶细胞等方面进行研究的必要性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从改造CPP缀合物的角度来说，也可以设计缀合物，采用可切割接头的结构，如酸不稳定的腙键[64]、还原-可切割的二硫键[65]、可被蛋白酶破坏的肽键等[66]影响运载物在肿瘤部位的释放。然而，这种修饰会导致运载物分子或CPP的结构发生些许变化，因此需要确认结构轻微改变不会显著改变这些分子的生物活性。当肽作为CPP的运载物时，缀合过程就更简单，可以通过基因工程技术将编码肽运载物的序列插入CPP序列的N或C末端来产生复合肽。Orzechowska等[67]就是通过这种技术设计出了TAT-BID建构体，使癌细胞对肿瘤坏死因子相关凋亡诱导配体(TRAIL）更加敏感，最终导致凋亡。如果运载物是一个基因，这个过程就更简单了。考虑到大多数CPP包含阳离子氨基酸，可以用简单的混合过程制备CPP与带负电的核酸（如质粒，miRNA或siRNA）的复合物。在Wang等人的研究中[68]，将siRNA沉默polo 样激酶-1(Plk-1）与静电复合物中的R9CPP这两者的混合物分别在体外和体内递送至MDA-MB-231乳腺癌细胞，均能得到PIk-1的表达被干扰，并减缓肿瘤生长的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来，基因组学和蛋白质组学技术的进步推进了药物有效识别不同疾病状态的分子靶点[69]。实现药物能直接到达病灶是药物成功开发的必要条件，因此药物分子必须是细胞可渗透的。穿越质膜对一些治疗剂来说是一种挑战，许多药物在体外能表现出理想的活性，但是当进行体内实验时其活性就大打折扣。因此，优化治疗剂的细胞递送是首要问题。已经有多项研究证明，CPP可以通过改善细胞摄取来提高几种治疗剂的功效，并且使用CPP作为分子载体，优于其他递送载体，包括较低的毒性和更明显的受控作用。CPP成功地促进了从小分子到大蛋白质或核酸的治疗剂的细胞内转运，表明CPP介导的药物递送具有较好的应用前景。未来我们应该建立一个更加完整的体系，针对各种疾病和环境对CPP-治疗剂化合物做出相应的试验和评估，将这种方法应用到更多的疾病当中，为临床治疗提供新的思路。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]HEITZ F,MORRIS MC,DIVITA G. Twenty yearsofcell-penetratingpeptides:from molecular mechanisms to therapeutics[J]. British journal of pharmacology, 2009,157(2): 195-206. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2] GUIDOTTI G，BRAMBILLA L，ROSSI D. Cell-PenetratingPeptides: From Basic ResearchtoClinics[J].Trendsin pharmacological sciences, 2017, 38(4): 406-24.   \n[3] FRANKEL A D, PABO C O. Cellular uptake of the tat protein from human immunodeficiency virus [J]. Cell,1988,55(6): 1189-93.   \n[4] GREENM，LOEWENSTEIN P M. Autonomous functional domains of chemically synthesized human immunodeficiency virus tat trans-activator protein [J]. Cell，1988, 55(6): 1179-88.   \n[5] RUBEN S, PERKINS A, PURCELL R, et al. Structural and functional characterization of human immunodeficiency virus tat protein [J]. Journal of virology,1989,63(1): 1-8.   \n[6] PARK J, RYU J, KIM K A, et al. Mutational analysis of a human immunodeficiency virus type 1 Tat protein transduction domain which is required for delivery of an exogenous protein into mammalian cells [J]. The Journal of general virology, 2002, 83(Pt 5): 1173-81.   \n[7] JOLIOT A, PERNELLE C, DEAGOSTINI-BAZIN H,et al. Antennapedia homeobox peptide regulates neural morphogenesis [J]. Proceedings of the National Academy of Sciences of the United States of America, 1991,88(5): 1864-8.   \n[8] DEROSSI D, JOLIOT A H, CHASSAING G, et al. The third helix of the Antennapedia homeodomain translocates through biological membranes [J]. The Journal of biological chemistry,1994,269(14): 10444-50.   \n[9] VASCONCELOS L， PARN K, LANGEL U. Therapeuticpotentialofcell-penetrating peptides [J]. Therapeutic delivery,2013,4(5): 573-91.   \n10] MARTIN M E,RICE K G. Peptide-guided gene delivery [J]. The AAPS journal, 2007, 9(1): E18-29.   \n11] EL-SAYED A, FUTAKI S, HARASHIMA H. Delivery of macromolecules using arginine-rich cell-penetrating peptides: ways to overcomeendosomal entrapment [J]. The AAPS journal, 2009,11(1): 13-22.   \n12] REGBERG J， SRIMANEE A，LANGEL U. Applications of cell-penetrating peptides for tumor targeting and future cancer therapies [J]. Pharmaceuticals,2012, 5(9): 991-1007.   \n[13]DOKKA S, TOLEDO-VELASQUEZ D, SHI X. et al.Cellular delivery of oligonucleotides by syntheticimportpeptidecarrier [J] Pharmaceutical research,1997, 14(12): 1759-64.   \n[14] NAKAYAMA F, YASUDA T, UMEDA S, et al. Fibroblast growth factor-12 (FGF12) translocation into intestinal epithelial cells is dependent on a novel cell-penetrating peptide domain: involvement of internalization in the in vivo role of exogenous FGF12 [J]. The Journal ofbiological chemistry，2011， 286(29): 25823-34.   \n[15] FERNANDEZ-CARNEADO J, KOGAN M J, PUJALS S, et al. Amphipathic peptides and drug delivery [J].Biopolymers，2004，76(2): 196-203.   \n[16] TIAN H, LIN L, CHEN J, et al. RGD targeting hyaluronic acid coating system for PEI-PBLG polycationgenecarriers[J]. Journalof controlled release :official journal of the Controlled Release Society，2011，155(1): 47-53.   \n[17] ELLIOTTG,O'HAREP.Intercellular trafficking of VP22-GFP fusion proteins [J]. Gene therapy,1999, 6(1): 149-51.   \n[18] DIETRICH U, DURR R, KOCH J. Peptides as drugs:from screening to application [J]. Current pharmaceutical biotechnology，2013, 14(5): 501-12.   \n[19] MORRIS MC,DESHAYES S,HEITZ F,et al. Cell-penetratingpeptides:from molecular mechanisms to therapeutics [J].Biology of the cell, 2008,100(4): 201-17.   \n[20]FONSECA S B,PEREIRA MP,KELLEY S O. Recent advances in the use of cell-penetrating peptidesformedicaland biological applications[J]. Advanceddrug delivery reviews,2009,61(11): 953-64.   \n[21] RICHARD JP,MELIKOV K,VIVES E, et al. Cell-penetrating peptides. A revaluation of the mechanism of cellular uptake [J]. The Journal of biological chemistry,2003,278(1): 585-90.   \n[22] FUTAKI S, NAKASE I, TADOKORO A, et al. Arginine-rich peptides and their internalization mechanisms[J].Biochemical Society transactions, 2007, 35(Pt 4): 784-7.   \n[23] MAYOR S，PAGANO R E. Pathways of clathrin-independent endocytosis [J]. Nature reviews Molecular cell biology，2007，8(8): 603-12.   \n[24] MALER L. Solution NMR studiesof cell-penetrating peptides in model membrane systems [J]. Advanced drug delivery reviews, 2013, 65(8): 1002-11.   \n[25] PROCHIANTZ A. Homeoprotein intercellular transfer，the hidden face of cell-penetrating peptides [J]. Methods in molecular biology, 2011, 683(683):249.   \n[26] MOR A, NGUYEN V H,DELFOUR A, et al. Isolation,amino acid sequence,and synthesis of dermaseptin, a novel antimicrobial peptide of amphibian skin [J]．Biochemistry，1991, 30(36): 8824-30.   \n[27] SHAI Y. Mode of action of membrane active antimicrobial peptides [J]. Biopolymers, 2002, 66(4): 236-48.   \n[28]FARKHANI S M,VALIZADEH A,KARAMI H,et al. Cell penetrating peptides: efficient vectors fordeliveryofnanoparticles, nanocarriers，therapeuticanddiagnostic molecules [J]. Peptides,2014, 57(7):78-94.   \n[29] RUOSLAHTI E. Tumor penetrating peptides for improved drug delivery [J]. Advanced drug delivery reviews,2017,(110-111):3-12   \n[30] DESHAYES S,MORRIS M, HEITZ F, et al. Delivery of proteins and nucleic acids using a non-covalentpeptide-basedstrategy[J]. Advanced drug delivery reviews, 2008, 60(4-5): 537-47.   \n[31] ROTHBARD JB, GARLINGTON S, LIN Q, et al. Conjugation of arginine oligomersto cyclosporin A facilitates topical delivery and inhibition of inflammation [J]. Nature medicine, 2000,6(11): 1253-7.   \n[32] LINDGREN M， ROSENTHAL-AIZMAN K, SAAR K，et al. Overcoming methotrexate resistance in breast cancer tumour cells by the use of a new cel-penetrating peptide [J]. Biochemicalpharmacology， 2006, 71(4): 416-25.   \n[33] MCCUSKER C T, WANG Y, SHAN J, et al. Inhibition of experimental allergicairways diseasebylocalapplicationofa cell-penetratingdominant-negativeSTAT-6 peptide [J].Journal of immunology，2007, 179(4): 2556-64.   \n[34] TAMURAK,ARAKAWAH, SUZUKI M, et al. Novel dinucleotide repeat polymorphism in the first exon of the STAT-6 gene is associated with allergic diseases [J]. Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology,2001,31(10): 1509-14.   \n[35] HOTCHKISSRS， SWANSONPE, FREEMAN B D, et al. Apoptotic cell death in patients with sepsis, shock,and multiple organ dysfunction [J]. Critical care medicine,1999, 27(7): 1230-51.   \n[36] HOTCHKISSRS， TINSLEYKW, SWANSON P E,et al. Depletion of dendritic cells,but not macrophages,in patients with sepsis [J]. Journal of immunology,2002,168(5): 2493-500.   \n[37] HOTCHKISSRS， SWANSONPE, KNUDSON C M,et al. Overexpression of Bcl-2 in transgenic mice decreases apoptosis and improves survival in sepsis [J]. Journal of immunology, 1999,162(7): 4148-56.   \n[38] HOTCHKISS R S，MCCONNELL K W, BULLOK K,et al.TAT-BH4 and TAT-Bcl-xL peptidesprotectagainstsepsis-induced lymphocyte apoptosis in vivo [J]. Journal of immunology,2006,176(9): 5471-7.   \n[39] PATIL S D,RHODES D G,BURGESS D J. DNA-based therapeutics and DNA delivery systems: a comprehensive review [J]. The AAPS journal, 2005,7(1): E61-77.   \n[40] AKHTAR S,JULIANO R L. Cellular uptake andintracellular fateof antisense oligonucleotides[J].Trendsin cell biology, 1992, 2(5): 139-44.   \n[41] LO S L，WANG S.An endosomolytic Tat peptide produced by incorporation of histidine and cysteine residues as a nonviral vector for DNA transfection [J].Biomaterials, 2008, 29(15): 2408-14.   \n[42] RAY A,NORDEN B. Peptide nucleic acid (PNA):itsmedicalandbiotechnical applications and promise for the future [J]. FASEB journal :official publication of the FederationofAmerican Societiesfor Experimental Biology,2000,14(9): 1041-60.   \n[43] MCMANUS M T, SHARP PA. Gene silencing in mammals by small interfering RNAs [J]. Nature reviews Genetics,2002,3(10): 737-47.   \n[44] CHIU Y L, ALI A, CHU C Y, et al. Visualizing acorrelation between siRNA localization, cellular uptake,and RNAi in living cells [J]. Chemistry & biology,2004,11(8): 1165-75.   \n[45] JOHNSONL N, CASHMANSM, KUMAR-SINGH R. Cell-penetrating peptide for enhanced delivery of nucleic acids and drugs to ocular tissues including retina and cornea [J]. Molecular therapy : the journal of the American Society of Gene Therapy, 2008, 16(1): 107-14.   \n[46] ROZENZHAKS M， KADAKIA MP, CASERTA T M,et al.Cellular internalization and targeting of semiconductor quantum dots [J].Chemical communications, 2005，17(17): 2217-2219.   \n[47] SANTRA S, YANG H, DUTTA D,et al. TAT conjugated, FITC doped silica nanoparticles for bioimaging applications[J]. Chemical communications,2004,24(24): 2810-2811.   \n[48]WEBSTER A, COMPTON S J,AYLOTT JW. Optical calcium sensors: development of a generic method for their introduction to the cell using conjugated cell penetrating peptides [J]. The Analyst,2005,130(2): 163-70.   \n[49] JIANG T, OLSON E S, NGUYEN Q T, et al. Tumor imaging bymeansof proteolytic activation of cell-penetratingpeptides[J]. Proceedings of the National Academy of Sciences of the United States of America, 2004, 101(51): 17867-72.   \n[50] ALIVISATOS A P, JOHNSSON K P, PENG X, et al.Organization of 'nanocrystal molecules' using DNA [J]. Nature，1996，382(6592): 609-11.   \n[51] BALLOU B,LAGERHOLM B C, ERNST L A, et al. Noninvasive imaging of quantum dots in mice [J]. Bioconjugate chemistry, 2004,15(1): 79-86.   \n[52] SILVER J, OU W. Photoactivation of quantum dot fluorescence following endocytosis[J]. Nano letters,2005, 5(7): 1445-9.   \n[53] LAGERHOLM B C， WEINREBGE, JACOBSON K, et al. Detecting microdomains in intact cell membranes [J].Annual review of physical chemistry,2005,56(1)309-336.   \n[54] DELEHANTY JB, MEDINTZ I L, PONS T, et al.Self-assembledquantum dot-peptide bioconjugatesforselective intracellular deliverv [I Rinconiioate chemistrv 2006 17(4): 920-7.   \n[55] YU W, ZHAN Y, XUE B, et al. Highly efficient cellular uptake of a cell-penetrating peptide (CPP）derived from the capsid protein of porcine circovirus type 2 [J]. The Journal of biological chemistry,2018,   \n[56] RUOSLAHTI E, BHATIA S N, SAILOR M J. Targeting of drugs and nanoparticles to tumors [J].The Journal of cell biology,2010,188(6): 759-68.   \n[57] TAN M,LAN K H, YAO J, et al. Selective inhibitionofErbB2-overexpressingbreast cancerin vivobya novel TAT-based ErbB2-targetingsignaltransducers and activators of transcription 3-blocking peptide [J].Cancer research,2006,66(7): 3764-72.   \n[58] SALAZAR M D,RATNAM M.The folate receptor:whatdoes it promise in tissue-targetedtherapeutics?[J].Cancer metastasis reviews,2007,26(1): 141-52.   \n[59] KUNATH K, MERDAN T, HEGENER O, et al. Integrin targeting using RGD-PEI conjugates for in vitro gene transfer [J]. The journal of gene medicine, 2003,5(7): 588-99.   \n[60] WANG L， SU W, LIU Z，et al. CD44 antibody-targeted liposomal nanoparticles for molecularimaging and therapy of hepatocelllarcarcinoma [J].Biomaterials, 2012,33(20): 5107-14.   \n[61] XU Y,WANG B，KAUR R, et al． A Supramolecular[1O]CPP Junction Enables EfficientElectronTransferin Modular Porphyrin-[10]CPP supersetFullerene Complexes [J]. Angewandte Chemie, 2018, 57(36): 11549-53.   \n[62] BOLTON S J, JONES D N, DARKER JG, et al. Cellularuptakeandspreadofthe cell-permeable peptide penetratin in adult rat brain [J]. The European journal of neuroscience, 2000,12(8): 2847-55.   \n[63] LIMKJ, SUNG BH, SHINJR, et al.A cancer specific cell-penetrating peptide,BR2, for the efficient delivery of an scFv into cancer cells [J]. PloS one,2013,8(6): e66084.   \n[64]LERICHE G,CHISHOLM L，WAGNER A. Cleavable linkers in chemical biology [J]. Bioorganic & medicinal chemistry,2012,20(2): 571-82.   \n[65] ALVES ID, CARRE M, MONTERO MP, et al. A proapoptotic peptide conjugated to penetratin selectively inhibitstumor cell growth[J]. Biochimica et biophysica acta,2014,1838(8): 2087-98.   \n[66] CHOIKY,SWIERCZEWSKAM,LEE S, et al. Protease-activateddrugdevelopment [J] Theranostics,2012,2(2):156-78.   \n[67] ORZECHOWSKA E J，KOZLOWSKAE, CZUBATYA,etal.Controlled delivery of BID protein fused with TAT peptide sensitizes cancer cells to apoptosis [J].BMC cancer,2014, 14(1)1-13.   \n[68][WANG H X,YANG X Z, SUN C Y, et al. Matrix metalloproteinase 2-responsive micelle for siRNA delivery [J]．Biomaterials,2014, 35(26): 7622-34.   \n[69]CHANG X,HOU Y.Expression of RecA and cell-penetrating peptide (CPP) fusion protein in bacteriaandinmammaliancells [J] International journal of biochemistryand molecular biology,2018,9(1):1-10. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

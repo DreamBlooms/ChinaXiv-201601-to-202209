@@ -1,0 +1,365 @@
+[
+    {
+        "type": "text",
+        "text": "生物钟PRR蛋白促进拟南芥幼苗中花青素的合成",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨甲甲1,²，杨米连1,²，胡彦如l\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．热带植物资源可持续利用重点实验室，中国科学院西双版纳热带植物园，昆明 650223；2．中国科",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学院大学，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生物钟（circadianclock）是激发植物生理特征节律性表达并使之维持稳定的保守内源调节机制。PRR（PSEUDO-RESPONSEREGULATOR）蛋白家族是生物钟中央振荡器的重要组分，调控植物种子萌发、下胚轴伸长和开花等多种生命过程。花青素（anthocyanins）是植物次生代谢产物，对植物的繁衍、生长发育和抵抗逆境胁迫有重要作用。该文以拟南芥（Arabidopsis thaliana）为研究对象，探讨生物钟PRR蛋白对花青素生物合成的调控功能和分子机制。结果表明：（1）在PRR基因单突变体及多突变体幼苗中，花青素的积累明显降低，并且某些花青素合成相关基因的表达显著降低。（2）相反，在PRR5过表达幼苗中，花青素的积累以及某些花青素合成相关基因的表达显著升高。（3）蛋白相互作用实验结果表明，PRR5蛋白能与MYB75、TT8、MYB90及MYB113等花青素调控蛋白相互作用形成复合物。（4）遗传学分析结果表明，拟南芥PRR5 诱导幼苗中花青素的合成依赖于MYB家族花青素调控蛋白。综上所述，生物钟PRR蛋白可能通过PRR5与MYB75、TT8等相互作用促进拟南芥幼苗中花青素的合成和积累。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：拟南芥，生物钟，PRR蛋白，花青素，MBW复合体中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Circadian clock PRR proteins stimulate anthocyanin synthesis in Arabidopsis thaliana seedlings ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Jiajia1,², YANG Milian1,², HU Yanru1\\* (1. CAS Key Laboratory ofTropical Plant Resources and Sustainable Use,Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences,Kunming 650223,China; 2. University of Chinese Academy of Sciences, Beijing 100049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The circadian clock is a conservative endogenous regulatory mechanism that stimulates and maintains the rhythmic expression of plant physiological characteristics.The PRR proteins are critical components of the circadian clock central oscillator and regulate a variety of life processes such as seed germination and flowering. Anthocyanins are plant secondary metabolites,which play an important role in plant growth,reproduction and stress responses. In this study, we took Arabidopsis thaliana as the research object and explored the function and mechanism of circadian clock PRR proteins in the control of anthocyanin biosynthesis.The results were as follows: (1) The accumulation of anthocyanins and the expression of some anthocyanin synthesis-related genes were significantly reduced in PRR genes single mutant and multiple mutant seedlings. (2) In the seedlings with overexpression of PRR5,the accumulation of anthocyanin and the expression of some anthocyanin synthesis-related genes were significantly increased. (3） The results of the protein-protein interaction experiment showed that PRR5 protein can interact with MYB75, MYB90, MYB113 and TT8 to form protein complexes. (4) Results of genetic analysis showed that PRR5 promoted anthocyanin synthesis in A. thaliana seedlings was the MYB family anthocyanin regulatory proteins dependent. In conclusion, the circadian clock PRR protein may promote the synthesis and accumulation of anthocyanins in A. thaliana seedlings through the interaction of PRR5 protein with MYB75, TT8. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Arabidopsis thaliana, circadian clock,PRR protein, anthocyanin, MBW complex ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花青素，又称花色素苷，是植物次级代谢产物，在花、果实和叶片等植物器官中广泛存在（Liang et al.,2018; Song et al.,2021）。植物体内六类花青素天竺葵素（Pelargonidin）、矢车菊素（cyanidin）、芍药素（peonidin）、矮牵牛素（petunidin）、飞燕草素（delphinidin）和锦葵素（malvidin）通过糖基化、甲基化和酰基化等修饰作用生成600余种花青素，从而赋予植物丰富的色彩（Li et al.,2018;Wang et al.,2018; Gardeli et al.,2019; Sun et al.,2021）。花青素可以提高植物对多种逆境胁迫的抵抗能力，对植物适应环境具有重要意义（Hatier etal.,2013;Fan et al.,2016;Li etal.,2018）。此外，花青素具有丰富的观赏价值、营养价值和医疗价值（Davies et al.,2012;Peifer et al.,2016;Nomi et al.,2019）。编码花青素生物合成通路中相关酶的结构基因主要分为两类：CHS、CHI和F3H等早期花青素生物合成基因以及DFR、ANS 和 UFGT等晚期花青素生物合成基因（Deng&Lu,2017;Chen et al.,2020）。这些结构基因受到多种转录因子的精密调控，其中被研究最多也是最重要的分别是 MYB（Myeloblastosis）、bHLH（basic Helix-Loop-Helix）和WDR（又称WD40）三类转录因子家族（Tanaka etal.,2008）。MYB75/PAP1是拟南芥MYB蛋白家族中调控花青素合成的重要转录因子，过表达MYB75转基因植物的根、茎、叶和花中积累了大量花青素（Rinaldo etal.,2015; Shin et al.,2015）。此外，MYB 家族 MYB90/PAP2、MYB113 和 MYB114 也正调控拟南芥花青素的生物合成（Gonzalez etal.,2008;Maier etal.,2013; Shi&Xie,2014）。bHLH蛋白家族 TT8、GL3、EGL3 和MYC1等通过激活CHS、DFR 等结构基因的表达，参与调控花青素的合成（Martinez-Garcia etal.,2000）。WDR蛋白家族TTG1等也是诱导花青素稳定积累不可或缺的一类重要转录因子（Payne etal.，200O）。MYB、bHLH和WDR三类转录因子除了可以各自发挥功能促进植物花青素的合成外，三者可以结合形成三元MBW 复合体直接调控结构基因的表达促进植物花青素的合成（Liang etal.,2018）。越来越多的研究结果表明microRNA也直接或间接的参与调控了植物体内花青素的合成(Varsha etal.,2019;Heetal.,2019;Maria etal.,2019）。基于花青素的生物学功能及在育种、食品和医药等方面的应用前景，深入研究花青素生物合成与调控信号具有重要的应用价值和科学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，外源环境信号及内源植物激素信号调控花青素生物合成与积累的研究取得了重要进展。例如，光强和光质均对花青素的合成起关键作用（Guo etal.,2008;Maier&Hoecker,2015）；低温促进花青素的生物合成（Mori etal.,2007; Zhang et al.,2011）；植物激素脱落酸、茉莉酸、生长素等通过调控花青素合成相关基因的表达来影响植物花青素的合成与积累（Ji et al.,2015;Xie et al.,2016; Chen et al.,2019; Chen et al.,2020）。植物生物钟系统通过核心振荡器接收外界环境中如光照、温度和营养元素等环境因子动态变化的时间信息（输入途径），在植物体内产生内源性的昼夜节律（中央振荡器），进而调控植物生长发育的众多过程，如开花、生物和非生物胁迫响应、激素代谢等多种生命过程(输出途径）（Weietal.,2018)。PRR 家族中的PRR5、PRR7和PRR9是中央振荡器早循环的关键组分，在调控植物生长发育和响应逆境胁迫方面发挥了重要作用（Sanchez＆Kay,2016）。生物钟与花青素均在植物响应逆境胁迫中发挥重要功能（Wei etal.,2018; Song etal.,2021），但是关于生物钟信号调控花青素合成的研究尚未见报道。近期有研究表明，生物钟PRR蛋白能够促进ABA信号抑制种子萌发及萌发后生长（Yang etal.,2021），而 ABA信号可以诱导拟南芥幼苗中花青素的合成与积累（Chen etal.,2020）。那么生物钟 PRR蛋白是否与花青素合成直接相关呢？本研究以拟南芥为实验材料，通过分子生物学和遗传学相关的实验方法探究了生物钟 PRR蛋白促进拟南芥幼苗花青素合成的生物学功能及其分子机制。这对于发掘PRR蛋白新的生物学功能，深入理解生物钟信号调控植物幼苗的环境适应性具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1植物材料及生长条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究中所使用的野生型（WT）、突变体和过表达拟南芥植物均属于哥伦比亚（Col-0）遗传背景，突变体种子prr5-1（SALK_006280）、prr5-2（SALK_135000C）、prr7-1（SALK_091569C）和prr7-2（SALK_030430C）来源于俄亥俄州立大学的拟南芥资源中心，prr5 prr7双突变体是通过prr5-1和 $p r r 7 – 2$ 采用遗传杂交得到，prr5prr9和prr5prr7prr9由中国科学院植物研究所王雷研究员提供，myb-RNAi由杨洪全教授提供。为了获得35S:PRR5-FLAG 转基因植株，将2FLAG标签序列连接的PRR5全长cDNAs，使用SmaI和XbaI酶切位点克隆到由 $C a M V 3 5 S$ 启动的pOCA30载体，经农杆菌转化野生型（Col-0）拟南芥获得 ${ \\mathrm { T } } _ { 3 }$ 代纯合PRR5 过表达植物（Yang et al.,2021）。根据需要选取适量拟南芥突变体种子、过表达种子和野生型种子，加入 $20 \\%$ 种子消毒液（立白白衣漂渍液）浸泡 $8 \\mathrm { m i n }$ ，使用无菌水清洗 $3 { \\sim } 5$ 次，播种于含有 $1 \\%$ （w/v）蔗糖的1/2MS 固体培养基上（ $\\mathrm { \\cdot p H } 5 . 8 \\mathrm { \\cdot }$ ）。 $4 ^ { \\circ } \\mathrm { C }$ 春化 $2 4 \\mathrm { h }$ 后，转移到光照培养间长日照条件下（全天 $2 2 ^ { \\circ } \\mathrm { C }$ ，白光光照 $1 6 \\mathrm { h }$ ，黑暗8h）条件下培养8d左右，移栽至湿润土壤中。使用保鲜膜覆盖幼苗，放置在培养间长日照条件下，$2 { \\sim } 3 \\mathrm { d }$ 后揭膜继续培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 花青素含量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在长日照条件下生长6d的拟南芥幼苗（包括Col-0、prr5-1、prr5-2、prr7-1、prr7-2、$p r r 5 p r r 7 . p r r 5 p r r 9 . p r r 5 p r r 7 p r r 9$ 和 $3 5 S { : } P R R 5 { \\cdot } F L A G$ 等），于当天光照的第10个小时（ZT10）进行取样并称重 $\\mathbf { W } ( \\mathbf { g } )$ ，加入 $1 \\ \\mathrm { m L }$ 花青素提取液（甲醇、盐酸体积比为 $9 9 : 1 \\dot { }$ ）。 $4 ^ { \\circ } \\mathrm { C }$ 黑暗条件下振荡 $2 4 \\mathrm { h }$ ， $1 3 0 0 0 \\mathrm { r } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ 离心 $1 0 \\mathrm { m i n }$ 后吸取上清。以花青素提取液作空白对照，使用分光光度计测量上清液在 $5 3 0 ~ \\mathrm { n m }$ 、 $6 5 7 ~ \\mathrm { n m }$ 波长处的吸光度（ $\\mathbf { A } _ { 5 3 0 }$ 和 $\\mathbf { A } _ { 6 5 7 }$ ）。花青素相对含量用公式（ $\\mathrm { \\Delta } _ { \\mathrm { { A } _ { 5 3 0 } - 0 . 2 5 \\times A _ { 6 5 7 } } }$ ） $\\mathrm { ~ g ~ } ^ { - 1 }$ FW 计算（Chenetal.,2020）。实验至少进行3次生物学重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3拟南芥RNA提取和RT-qPCR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在长日照条件下生长6d的拟南芥幼苗，于当天光照的第10个小时（ZT10）进行取样，使用 Trizol试剂提取拟南芥幼苗总RNA，逆转录成cDNA后进行RT-qPCR反应（Han et al.,2020）。用于RT-qPCR实验的的引物见表1，基因表达的内参使用拟南芥ACTIN2基因。实验至少进行3次生物学重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed47b240583f22371708729d6c2f57d45d600737eb6028682590e1a1d7508bc9.jpg",
+        "table_caption": [
+            "表1RT-qPCR引物",
+            "Table1PrimersofRT-qPCR "
+        ],
+        "table_footnote": [
+            "1.4酵母双杂交实验(Y2H)"
+        ],
+        "table_body": "<html><body><table><tr><td>基因名称</td><td>正向引物</td><td>反向引物</td></tr><tr><td>Gene name</td><td>Forward primer</td><td>Reverse primer</td></tr><tr><td>ACTIN2</td><td>TGTGCCAATCTACGAGGGTTT</td><td>TTTCCCGCTCTGCTGTTGT</td></tr><tr><td>DFR</td><td>TGGTGGTCGGTCCATTCAT</td><td>GAGAGAGCGCGGTGATAAGG</td></tr><tr><td>LDOX</td><td>TCCGGGTTTGCAGCTTTTC</td><td>ATCAGGAACACATTTTGCAGTGA</td></tr><tr><td>UF3GT</td><td>TGGAGGTGGCGGTTGAA</td><td>CTTTGCCGCGAGAACCA</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用酵母双杂交系统（Huetal.,2019）筛选可能与生物钟PRR蛋白相互作用的花青素合成调控蛋白。将 PRR5、PRR7与PRR9 的全长编码序列克隆到pGBKT7载体，构建质粒BD-PRR5、BD-PRR7 和 BD-PRR9，并构建分段质粒 BD-PRR51-180、BD-PRR5172-558和BD-PRR5502-58（Yang et al.,2021）。将花青素合成调控蛋白 MYB75、MYB90、MYB113、MYB114 和TT8 的全长编码序列克隆到pGADT7载体，构建质粒AD-MYB75、AD-MYB90、AD-MYB113、AD-MYB114 和AD-TT8，并构建分段质粒AD-MYB75-N（第1至第122个氨基酸）、AD-MYB75-C（第123至第 249个氨基酸）、AD-TT8-N（第1至第358个氨基酸）和AD-TT8-C（第 359 至第 519个氨基酸）（Xie et al.,2016;Chen et al.,2020）。构建酵母双杂交实验所需克隆的引物见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c48ed5475caa3502647b17b2eb8361079667fb7c7ce5289494f86acf22efd762.jpg",
+        "table_caption": [
+            "表2各种表达载体构建引物",
+            "Table 2 Primers used for generating various clones "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>克隆名称</td><td>正向引物</td><td>反向引物</td></tr><tr><td>Clone name</td><td>Forward primer</td><td>Reverse primer</td></tr><tr><td>BD-PRR5</td><td>ATACATATGATGACTAGTAGCGAGGAAGTAGTTGAA</td><td>ATAGAATTCCTATGGAGCTTGTGTGGATTGGA</td></tr><tr><td>BD-PRR51-180</td><td>ATACATATGATGACTAGTAGCGAGGAAGTAGTTGAA</td><td>ATAGAATTCAAAGCTATCAGGAGCAAGTGAAGTT</td></tr><tr><td>BD-PRR5 172-558</td><td>ATACATATGCAAACTTCACTTGCTCCTGATAGC</td><td>ATAGAATTCTGGAGCTTGTGTGGATTGGAC</td></tr><tr><td>BD-PRR5502-558 2</td><td>ATACATATGAAAATTCAGCAATCTCTTCAACGA</td><td>ATAGAATTCTGGAGCTTGTGTGGATTGGAC</td></tr><tr><td>PRR5-cYFP</td><td>ATATCTAGAATGACTAGTAGC</td><td>ATAGGATCCTGGAGCTTGTGTGGATTGG</td></tr><tr><td>PRR51-180-cYFP</td><td>ATATCTAGAATGACTAGTAGC</td><td>ATAGGATCCAAAGCTATCAGGAGCAAG</td></tr><tr><td>BD-PRR7</td><td>ATACATATGATGAATGCTAATGAGGAGGG</td><td>ATAGAATTCTTAGCTATCCTCAATGTTTTTTATGTC</td></tr><tr><td>BD-PRR9</td><td>ATACATATGATGGGGGAGATTGTGGTTTTAA</td><td>ATAGAATTCTCATGATTTTGTAGACGCGTCTG</td></tr><tr><td>AD-MYB75</td><td>ATACATATGATGGAGGGTTCGTCCAAAGG</td><td>ATAGAATTCCTAATCAAATTTCACAGTCTCTCCATC</td></tr><tr><td>CAD-MYB75-N</td><td>ATACATATGATGGAGGGTTCGTCCAAAGG</td><td>ATAGAATTCCTTTTTCATCTTTATCTTACAACACGG</td></tr><tr><td></td><td>ATACATATGAGAGACATTACGCCCATTCCTAC</td><td>ATAGAATTCCTAATCAAATTTCACAGTCTCTCCATC</td></tr><tr><td>MYB75-nYFP</td><td>ATAGGATCCATGGAGGGTTCGTCCAAAGG</td><td>ATATCTAGAATCAAATTTCACAGTCTCTCCATCG</td></tr><tr><td>AD-MYB90</td><td>ATACATATGATGGAGGGTTCGTCCAAAGG</td><td>ATAGAATTCCTAATCAAGTTCAACAGTCTCTCCATC</td></tr><tr><td>MYB90-nYFP</td><td>ATAGGATCCATGGAGGGTTCGTCCAAAGG</td><td>ATATCTAGAATCAAGTTCAACAGTCTCTCCATCA</td></tr><tr><td>AD-MYB113</td><td>ATACATATGATGGGCGAATCACCCAAAG</td><td>ATAGAATTCCTAATTCAGTTCTAAAGTCTCTTCATCAAA</td></tr><tr><td>MYB113-nYFP</td><td>ATAGGATCCATGGGCGAATCACCCAAAG</td><td>ATATCTAGAATTCAGTTCTAAAGTCTCTTCATCAAAC</td></tr><tr><td>AD-MYB114</td><td>ATACATATGATGGAGGGTTCGTCCAAAGG</td><td>ATAGAATTCCTAAAAAATATCGACTTTTTGGGC</td></tr><tr><td>AD-TT8</td><td>ATAGAATTCATGGATGAATCAAGTATTATTCCGG</td><td>ATAGGATCCCTATAGATTAGTATCATGTATTATGACTTGGTG</td></tr><tr><td>AD-TT8-N</td><td>ATAGAATTCATGGATGAATCAAGTATTATTCCGG</td><td>ATAGGATCCCGGTAGCCTCTTATCTTTAGTGTTGT</td></tr><tr><td>AD-TT8-C</td><td>ATAGAATTCCGGGAAGATCTGAGCCACG</td><td>ATAGGATCCCTATAGATTAGTATCATGTATTATGACTTGGTG</td></tr><tr><td>TT8-nYFP</td><td>ATAGGATCCATGGATGAATCAAGTATTATTCCGG</td><td>ATAGGATCCTAGATTAGTATCATGTATTATGACTTGGTGG</td></tr><tr><td>GUS-nYFP</td><td>ATAGGATCCATGGTCCGTCCTGTAGAAACC</td><td>ATATCTAGATTGTTTGCCTCCCTGCTGC</td></tr><tr><td>GUS-cYFP</td><td>ATATCTAGAATGGTCCGTCCTGTAGAAACC</td><td>ATAGGATCCTTGTTTGCCTCCCTGCTGC</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5双分子荧光互补实验（BiFCAssays）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 PRR5、PRR51-180、GUS 的编码序列融合于 pFGC-cYFP（Kim et al.,2008）中，构建质粒 PRR51-180-cYFP、PRR5-cYFP 和 GUS-cYFP。将 MYB75、MYB90、MYB113、TT8 和GUS 的编码序列融合于 pFGC-nYFP（Kim et al.，2008）中，构建质粒 MYB75-nYFP、MYB90-nYFP、MYB113-nYFP、TT8-nYFP和GUS-nYFP。将构建好的质粒转化到农杆菌（菌株为GV3101）中，取不同菌液（OD值为1.0）按 $1 : 1$ 体积比混合均匀，注射到生长状态良好的本氏烟草（Nicotianabenthamiana）叶片中，在避光、湿润的环境中放置 $4 8 \\mathrm { { h } }$ 后，使",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用激光共聚焦显微镜（Olympus,Tokyo,Japan）观察YFP 和DAPI荧光（Yang et al.,2021）。  \n构建BiFC实验所需克隆的引物见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 基因 ID",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本课题所涉及到的拟南芥基因的ID 如下：PRR5，AT5G24470；PRR7，AT5G02810;PRR9，AT2G46790；MYB75，AT1G56650；MYB90，AT1G66390；MYB113，AT1G66370;MYB114，AT1G66380；TT8，AT4G09820；DFR，AT5G42800；LDOX，AT4G22880；UF3GT,AT5G54060。以上所用基因序列信息均可在 The Arabidopsis Information Resource（TAIR）网站中获取。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1prr5与prr7突变体幼苗中花青素含量降低 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为探究生物钟蛋白PRR是否能参与调控植物花青素的合成，观察在1/2MS 培养基上生长6d的野生型（WT）、prr5-1、prr5-2、prr7-1和 $p r r 7 – 2$ 突变体拟南芥幼苗。结果显示，与野生型相比，prr5-1、prr5-2、prr7-1 和 prr7-2 突变体幼苗中花青素积累明显降低，表现为突变体幼苗茎尖颜色更浅（图 $1 : \\mathrm { A }$ ）。通过花青素含量测定发现，与观察到的表型相一致，野生型幼苗的花青素含量最高，prr5-1、prr5-2、prr7-1 和 prr7-2 突变体幼苗的花青素含量显著低于野生型幼苗，且prr5-1和 $p r r 5 { - } 2$ 突变体幼苗的花青素含量较prr7-1和prr7-2突变体幼苗更低（图 $1 : { \\bf { B } }$ ）。这些结果表明，当PRR5和PRR7突变后，幼苗中花青素含量降低，即PRR5 和PRR7可能诱导植物幼苗花青素的积累。为进一步验证该结果，检测了相关结构基因DFR、UF3GT和LDOX的表达情况。DFR、UF3GT和LDOX是编码花青素合成通路中关键酶的结构基因，这些基因的表达直接激活花青素的生物合成，从而促进拟南芥花青素的积累（Tanaka et al.,2008）。提取WT、prr5-1、prr5-2、prr7-1和prr7-2 突变体幼苗总RNA后逆转录cDNA，并进行RT-qPCR 实验，检测 DFR 等结构基因的相对表达量。实验结果表明，prr5-1、prr5-2、prr7-1和 prr7-2突变体幼苗中 DFR、UF3GT和 LDOX 基因的表达量显著降低（图 $1 : \\mathrm { C - E }$ ）。这表明PRR5和PRR7能够通过诱导拟南芥幼苗中DFR等结构基因的表达促进花青素的积累。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a72fce8235dc35bf6d752c86e2484d1a9d3e734f8acac64a3d6beeeb8cf1499.jpg",
+        "img_caption": [
+            "图1prr5与 $p r r 7$ 突变体幼苗中花青素含量降低"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*和\\*\\*分别表示与WT比较有显著差异（ $P { < } 0 . 0 5$ ）和极显著差异（ $P { < } 0 . 0 1$ ）。下同。 \\* and $\\ast \\ast$ indicate existing significant differences ( $\\scriptstyle \\mathbf { \\overbrace { \\mathbf { } } } ^ { P < 0 . 0 5 } ,$ and extremely significant differences ( $( P { < } 0 . 0 1$ ） compare to WT. The same below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Decreased anthocyanin contents in prr5 and $p r r 7$ mutant seedlings ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2PRR5、PRR7和PRR9协同促进幼苗花青素的积累 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为确定PRR5、PRR7和 PRR9 蛋白是否协同调控花青素生物合成，观察了prr5 prr7、prr5 prr9 和 $p r r 5 p r r 7 p r r 9$ 等多突变体幼苗的花青素积累表型，结果显示，与野生型相比，prr双突变和三突变体幼苗的花青素积累明显更低，其中 prr5 prr7prr9 三突变体幼苗花青素积累最低，prr5prr7双突变体幼苗花青素积累低于 $p r r 5 p r r 9$ 双突变体（图2：A），通过花青素含量测定，结果与观察到的表型相一致（图 $2 : \\mathbf { B }$ ）。同样地，发现与prr5-1、prr5-2、prr7-1和prr7-2等单突变体相比（图 $1 : \\mathrm { A }$ ，B），prr5 prr7 和 prr5 prr7 prr9 幼苗花青素含量显著降低，其中 $p r r 5 p r r 9$ 双突变体幼苗花青素含量略低于prr5-1和prr5-2单突变体（图$2 : \\mathrm { A }$ ，B）。相一致地，检测相关结构基因DFR、UF3GT和LDOX的表达，结果显示，与野生型相比,prr双突变和三突变体幼苗中相关基因的表达量明显更低,其中在prr5 prr7 prr9三突变体幼苗中表达量最低，在prr5 prr7双突变体幼苗中的表达量低于prr5 prr9 双突变体（图 $2 : \\mathrm { C - E } )$ 。上述结果表明 PRR5、PRR7和PRR9 协同促进幼苗花青素的积累，prr5 prr7prr9 三突变体幼苗花青素积累更低。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fc09bacac8926d6627b04ac0c75d7fea3018c2ccb419dd34b0b45cf1c040ee6.jpg",
+        "img_caption": [
+            "图2PRR5、PRR7和PRR9协同促进幼苗花青素的积累"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 PRR5,PRR7 and PRR9 synergistically promote anthocyanin accumulation in seedlings 2.3 过表达PRR5 使幼苗中花青素含量升高 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步确定PRR蛋白调控植物花青素合成的生物学功能，构建了CaMV35S启动子驱动的过表达 PRR5 转基因植物35S:PRR5-FLAG（Yang et al.2021），筛选出表达量较高的三个纯合株系（35S:PRR5-FLAG-9、35S:PRR5-FLAG-10 和35S:PRR5-FLAG-15）并检测其幼苗花青素含量。如图 $3 : \\mathrm { A }$ ，B所示，与野生型相比，35S:PRR5-FLAG-9、35S:PRR5-FLAG-10和35S:PRR5-FLAG-15幼苗中花青素的积累显著升高，表现为茎尖的颜色加深，呈现出明显的紫红色。与之相一致地，PRR5 过表达转基因植物幼苗中DFR、UF3GT和LDOX 基因的相对表达量显著高于野生型（图3:C-E）。这进一步证实了生物钟蛋白PRR确实能够促进植物幼苗花青素的积累。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/78773ff9be374de20eac61d9105b8bbaafd78624bc3a467e3355aee24b098573.jpg",
+        "img_caption": [
+            "图3PRR5过表达使幼苗中花青素含量升高",
+            "Fig.3 Overexpression of PRR5 increases anthocyanin content in seedlings ",
+            "图4PRR5与花青素合成相关的MYB75、MYB90、MYB113 和TT8蛋白在酵母中相互作用Fig. 4 PRR5 physically interacts with the anthocyanin synthesis-related MYB75, MYB90,"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4MYB75和TT8蛋白与PRR5蛋白相互作用",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为探究生物钟PRR蛋白调控拟南芥幼苗花青素合成的分子机理，我们使用酵母双杂交系统（Y2H）筛选可能与PRR蛋白相互作用的花青素合成相关蛋白。我们将PRR5、PRR7和 PRR9与诱饵载体Gal4 DNA 结合域载体相融合（BD-PRR5 等），MYB75、MYB90、MYB113、MYB114和TT8等花青素合成相关蛋白与猎物载体的Gal4DNA 激活域融合（AD-MYB75等）。通过酵母双杂交实验表明，MYB75和TT8蛋白与PRR5蛋白在酵母中发生强相互作用，而MYB90、MYB113蛋白与PRR5蛋白在酵母中相互作用较弱（图4）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r }  \\begin{array} { c c }  \\rho ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } _ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } } \\end{array} \\qquad \\begin{array} { c c }  \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta } } } } _  \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\alpha ^ { \\beta } } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\alpha ^ { \\beta } } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\alpha ^ { \\beta } } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\alpha ^ { \\beta } } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\alpha } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha } } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } } \\rho ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha } } } } } } \\rho ^  \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha } } } } } } \\rho ^  \\alpha ^ { \\beta ^ { \\alpha ^ { \\alpha ^ { \\beta ^ { \\alpha ^ \\alpha ^ { \\beta } } } } } } \\rho ^  \\alpha ^  \\beta ^  \\alpha ^  \\alpha  \\end{array} \\end{array}$   \nBD-PRR7   \nBD-PRR9 BD -Trp-Leu -Trp-Leu-His-Ade ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MYB113 and TT8 proteins in yeast ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为进一步验证MYB75、MYB90、MYB113和TT8蛋白与PRR5蛋白相互作用，我们使用双分子荧光互补实验（BiFC）在植物体内进行检测分析。将PRR5与CaMV35S启动子驱动的C 端黄色荧光蛋白（c-YFP）片段融合形成PRR5-cYFP，并将MYB75、MYB90、MYB113和 TT8 与 N 端YFP 片段融合获得 MYB75-nYFP、MYB90-nYFP、MYB113-nYFP 和TT8-nYFP。将PRR5-cYFP与MYB75-nYFP、MYB90-nYFP、MYB113-nYFP或TT8-nYFP共转化到烟草叶片中，我们在烟草细胞核内检测到强烈的荧光信号，而在相关的对照组中未观察到荧光信号（图5）。这说明 PRR5能与花青素合成相关的MYB75、MYB90、MYB113和 TT8蛋白在植物细胞核内相互作用形成复合物。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3b99dbdbd23cc043c6c8e904ead22bf82d7b85acf75012ee79d773c263506a0.jpg",
+        "img_caption": [
+            "图5PRR5与花青素合成相关的MYB75、MYB90、MYB113和TT8蛋白在植物细胞中相互作用",
+            "Fig. 5 PRR5 physically interacts with the anthocyanin synthesis-related MYB75, MYB90, MYB113 and TT8 proteins in plant cells "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5MYB75和TT8蛋白与PRR5蛋白相互作用的结构域",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了确定PRR5蛋白与MYB75、MYB90、MYB113和TT8蛋白相互作用所必需的区域，将突变的PRR5序列融合到Gal4DNA结合域载体作为诱饵，并进行了酵母双杂交分析。如图6A所示，PRR5 蛋白的PR 结构域（BD-PRR51-180）与CCT 结构域（BD-PRR5502-558）不与 MYB75、MYB90、MYB113 和TT8蛋白相互作用,而PRR5蛋白C端片段(BD-PRR5172-558）与MYB75、MYB90、MYB113和TT8蛋白相互作用。这些结果表明，PRR5的C端氨基酸结构域介导了PRR5蛋白与MYB75、MYB90、MYB113和TT8蛋白之间的相互作用。同时，将在酵母中与PRR5蛋白强相互作用的MYB75和TT8蛋白突变为N端和C端，融合到Gal4DNA激活域载体，并进行酵母双杂交分析。如图 $6 : \\mathbf { B } \\cdot \\mathbf { C }$ 所示，当MYB75和TT8蛋白的N端缺失时，它们不能与PRR5蛋白相互作用。这些结果表明，MYB75和TT8蛋白的N端氨基酸结构域介导了它们与PRR5蛋白之间的相互作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a72d036393901b95a950bad18dc64fb5211723f79a69c671d7b957b64f8a606.jpg",
+        "img_caption": [
+            "图6MYB75、MYB90、MYB113和TT8蛋白与PRR5蛋白相互作用的结构域Fig. 6 Domains of MYB75,MYB90, MYB113 and TT8 proteins interacting with PRR5 protein2.6PRR5促进花青素的合成依赖于MYB家族花青素调控蛋白"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究前期研究发现，PRR蛋白与花青素合成相关的MYB75、MYB90、MYB113和TT8蛋白相互作用诱导花青素合成，进一步通过遗传学实验分析了PRR5促进花青素的合成是否依赖于MYB家族花青素调控蛋白的功能。通过拟南芥遗传杂交的方法，构建了myb-RNAi35S:PRR5-FLAG的杂交材料,获得了 $\\mathrm { F } _ { 3 }$ 代纯合植物，并分析了花青素积累的表型。如图7所示，与myb-RNAi突变体表型一致，myb-RNAi 35S:PRR5-FLAG杂交材料幼苗中花青素的积累显著下降，表现为茎尖的颜色较浅（图 $7 : \\mathrm { A }$ ），通过花青素含量测定，结果与观察到的表型相一致（图 $7 : \\mathrm { B }$ ）。这表明PRR5促进花青素的合成依赖于MYB家族花青素调控蛋白。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/67a78600c16e2ee72f0f30c4b0cec49968387edcd432df7d590f5b3ef2d96ca4.jpg",
+        "img_caption": [
+            "图7PRR5促进花青素的合成依赖于MYB75",
+            "Fig.7 PRR5 promotes anthocyanin synthesis dependent on MYB75 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "生物钟系统使植物可以感知和预测环境因子的周期性变化，以协调体内代谢稳态、生长发育与防御反应的动态平衡，使植物在合适的时间完成其关键生长发育过程（Greenham&McClung,2015;Wei etal.,2018）。生物钟PRR蛋白家族在调控植物生长发育和响应逆境胁迫方面发挥了重要作用，影响幼苗光形态建成、增强拟南芥对寒冷、干旱和盐的耐受性等（Kreps et al.,2002; Kaczorowski & Quail,2003; Keily et al.,2013; Liu et al.,2013）。近期有研究表明，生物钟PRR 蛋白在种子萌发及萌发后生长过程中促进ABA信号，在白天抑制种子萌发及萌发后生长（Yang etal.,2021）。花青素在植物抵抗多种逆境胁迫中发挥重要作用，由 MYB、bHLH和WDR三类转录因子形成的MBW复合体是其生物合成中最关键的转录调控因子（Liang etal.,2018;Li etal.,2018）。外源环境信号如光照、温度及内源植物激素信号脱落酸、茉莉酸等可以通过调控花青素合成相关基因的表达影响花青素生物合成与积累(Mori et al., 2007; Guo et al., 2008; Xie et al.,2016; Chen et al., 2020）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究发现，生物钟PRR 基因突变后拟南芥幼苗中花青素含量降低。进一步分析PRR基因双突变体和三突变体幼苗的表型发现，PRR5、PRR7和PRR9协同促进幼苗花青素的积累。对PRR基因相关突变体进行RT-qPCR实验分析结果表明，花青素合成通路重要结构基因DFR、UF3GT和LDOX基因的相对表达量显著降低，且与花青素积累表型趋势一致。通过构建PRR5基因过表达转基因植物并检测其幼苗花青素含量，结果表明过表达PRR5 转基因植物幼苗的花青素含量显著高于野生型。因此，本研究认为生物钟 PRR 蛋白能够通过调控某些花青素合成结构基因的表达来促进幼苗中花青素的合成。通过酵母双杂交与BiFC 实验表明，PRR5蛋白能与花青素合成调控蛋白MYB75、MYB90、MYB113和TT8相互作用。拟南芥中的PRR 蛋白家族属于CCT(CONSTANS/CONSTANSLIKE/TOC1)大家族，它们都具有 N 端的 PRR/RLD(RECEIVER LIKE DOMAIN)结构域和C 端的 CCT 结构域(Farre and Liu,2013）。通过分段实验发现了PRR5蛋白N端的PRR结构域和C端的CCT结构域均不能与MYB75等调控蛋白相互作用，而包含CCT结构域的C端结构域介导了PRR5与MYB75等调控蛋白的相互作用。本研究还确认了与PRR5强相互作用的MYB75、TT8蛋白的N端介导了它们与PRR5蛋白的互作。因此，本研究认为生物钟PRR5蛋白能够与花青素合成调控蛋白MYB75、MYB90、MYB113 和 TT8 等互作形成复合物。进一步构建myb-RNAi35S:PRR5-FLAG杂交材料后发现，其幼苗的花青素含量与myb-RNAi突变体基本一致，表明PRR5促进花青素的合成依赖于MYB家族花青素调控蛋白。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究认为拟南芥生物钟 PRR 蛋白能够促进幼苗中花青素的积累，并可能通过PRR5与MBW复合体相互作用调控花青素的合成。本研究发现了生物钟信号与花青素合成的联系，初步揭示了生物钟PRR蛋白促进拟南芥幼苗花青素合成的调控机制，对于深入理解生物钟信号调控植物环境适应性具有重要意义。种子萌发直至幼苗形态建成是植物生命周期中关键的发育阶段，也是植物适应环境最敏感的阶段之一，极易受到外界逆境环境的胁迫而死亡。拟南芥种子属于需光型种子，在土壤表层才能萌发生长，幼苗在白天更易受到强光、干旱等环境的胁迫。而花青素是植物天然的光保护剂，同时能够增强植物抗旱的能力（Guo et al.,2008;Ahmed etal.,2014）。本研究认为生物钟 PRR 蛋白促进幼苗花青素的合成与积累，以保护植物抵御白天可能的强光、干旱等逆境胁迫；同时 PRR在白天抑制种子萌发和幼苗下胚轴伸长（Lietal.,2020;Yang et al.,2021），以协调防御反应和生长发育的动态平衡，使植物安全渡过关键生长发育过程。但PRR蛋白通过MBW复合体调控花青素合成的分子机制仍需进一步解析，生物钟 PRR 蛋白促进幼苗花青素合成的生物学功能在不同物种中是否具有保守性还需深入研究，这对于培育优良品种以及作物生产具有重要意义。生物钟系统其他蛋白是否参与调控花青素合成也有待进一步探索。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "少兮人献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AHMED NU, PARK JI, JUNG HJ, et al., 2014. Characterization of dihydroflavonol 4-reductase (DFR) genes and their association with cold and freezing stress in Brassca rapa[J]. Gene, 550(1): 46-55.   \nCHEN JJ, MEI S,HU YR, 2020. Abscisic acid induces anthocyanin synthesis in Arabidopsis thaliana seedlings[J].Guihaia,40(8):1169-1180.[陈俊洁，梅松，胡彦如，2020．脱落酸 激素诱导拟南芥幼苗中花青素的合成[J].广西植物，40（8）：1169-1180.]   \nCHEN LH, HU B, QIN YH,2O19. Advance of the negative regulation of anthocyanin biosynthesis by MYB transcription factors[J].Plant Physiol Biochem, 136(7):178-187.   \nDAVIES KM，ALBERT NW， SCHWINN KE，2012. From landing lights to mimicry: the molecular regulation of flower colouration and mechanisms for pigmentation patterning[J]. Funct Plant Biol, 39(8): 619-638.   \nDENG YX, LU SF, 2017. Biosynthesis and regulation of phenylpropanoids in plants[J]. Crit Rev Plant Sci, 36(4): 257-290.   \nFAN XP, FAN BH, WANG YX, et al., 2O16. Anthocyanin accumulation enhanced in Lc-transgenic cotton under light and increased resistance to bollworm[J].Plant Biotechnol Rep,10: 1-11.   \nGARDELI C, VARELA K, KROKIDA E, et al., 2019. Investigation of anthocyanins stability from pomegranate juice (Punica granatum L. cv Ermioni) under a simulated digestion process[J]. Medicines, 6(3): 90.   \nGONZALEZ A, ZHAO M,LEAVITT JM, et al., 2008. Regulation of the anthocyanin biosynthetic pathway by the TTG1/bHLH/Myb transcriptional complex in Arabidopsis seedlings[J]. Plant J, 53(5): 814-827.   \nGREENHAM K, MCCLUNG CR， 2015. Integrating circadian dynamics with physiological processes in plants[J]. Nat Rev Genet,16(1O): 598-610.   \nGUO J,HAN W,WANG MH, 2O08. Ultraviolet and environmental stresses involved in the induction and regulation of anthocyanin biosynthesis: A review[J]. Afr J Biotechnol, 7(25): 4966-4972.   \nHAN X, ZHANG MH, YANG ML, et al.， 2020. Arabidopsis JAZ proteins interact with and suppressRHD6transcription factortoregulateJasmonate-stimulated roothair development[J]. Plant Cell, 32(4): 1049-1062.   \nHATIER JHB，CLEARWATER MJ，GOULD KS，2O13.The functional significanceof black-pigmented leaves: photosynthesis， photoprotection and productivity in Ophiopogon planiscapus ‘Nigrescens'[J]. PLoS ONE, 8(6): e67850.   \nHE LH，TANG RM， SHI XW,et al.， 2019. Uncovering anthocyanin biosynthesis related microRNAs and their target genes by small RNA and degradome sequencing in tuberous roots of sweetpotato[J]. Plant Biol, 19: 232.   \nHU YR，HAN X，YANG ML，et al.，2019. The transcription factor INDUCER OF CBF EXPRESSION1 interacts with ABSCISIC ACID INSENSITIVE5 and DELLA proteins to fine-tune abscisic acid signaling during seed germination in Arabidopsis[J]. Plant Cell, 31(7): 1520-1538.   \nJI XH,WANG YT, ZHANG R,et al.，2015. Effct of auxin,cytokinin and nitrogen on anthocyanin biosynthesis in callus cultures of red-fleshed apple[J]. Plant Cell Tiss Org, 120(1): 325-337.   \nKACZOROWSKI KA, QUAIL PH, 2003. Arabidopsis PSEUDO-RESPONSE REGULATOR7 is a signaling intermediate in phytochrome-regulated seedling deetiolation and phasing of the circadian clock[J]. Plant Cell,15(11): 2654-2665.   \nKEILY J, MACGREGOR DR, SMITH RW, et al., 2013. Model selection reveals control of cold signalling by evening-phased components of the plant circadian clock[J]. Plant J，76(2): 247-257.   \nKREPS JA, WU YJ, CHANG HS, et al.,2002. Transcriptome changes for Arabidopsis in response to salt, osmotic,and cold stress[J]. Plant Physiol, 130(4): 2129-2141.   \nLI N, ZHANG YY,HE YQ， et al, 2020 Pseudo response regulators regulate photoperiodic hypocotyl growth by repressing PIF4/5 transcription[J]. Plant Physiol,183 (2): 686-699.   \nLI SC, GUO JH, REVA A, et al., 2018. Methyltransferases of gentamicin biosynthesis[J]. Proc Natl Acad Sci USA, 115(6): 1340-1345.   \nLI X, HE YM, XIE CM, et al., 2018. Effects of UV-B radiation on the infectivity of Magnaporthe oryzae and rice disease-resistant physiology in Yuanyang terraces [J]. Photochem Photobiol Sci, 17(1): 8-17.   \nLIANG LJ,YANG YC, WANG EH, et al., 2018. Research progress on biosynthesis and regulation of plant anthocyanin[J].JAnhui Agric Sci,46(21): 18-24.[梁立军，杨祎辰，王二欢，等, 2018．植物花青素生物合成与调控研究进展[J]．安徽农业科学，46（21）:18-24.]   \nLIU T, CARLSSON J, TAKEUCHI T, et al., 2013. Direct regulation of abiotic responses by the Arabidopsis circadian clock component PRR7[J]. Plant J,76(1): 101-114.   \nMAIER A, HOECKER U, 2015. COP1/SPA ubiquitin ligase complexes repress anthcyanin accumulation under low light and high light conditions[J]. Plant Signal Behav,10(1): e970440.   \nMAIER A， SCHRADER A, KOKKELINK L,et al., 2013. Light and the E3 ubiquitin ligase COP1/SPA control the protein stability of the MYB transcription factors PAP1 and PAP2 involved in anthocyanin accumulation in Arabidopsis[J]. Plant J, 74(4): 638-651.   \nMARIA J, LOPEZ G, INMACULADA GR, et al.,， 2019.Expresson of miR159 is altered in tomato plants undergoing drought stress[J]. Plants, 8(7): 201.   \nMARTINEZ-GARCIA JF, HUQ E,QUAIL PH, 2000. Direct targeting of light signals to a promoter element-bound transcription factor[J]. Science, 288(5467): 859-863.   \nMORI K, GOTO-YAMAMOTO N, KITAYAMA M, et al., 2007. Loss of anthocyanins in red-wine grape under high temperature[J]. J Exp Bot, 58(8): 1935-1945.   \nNOMI Y, IWASAKI-KURASHIGE K， MATSUMOTO H，2019. Therapeutic effectsof anthocyanins for vision and eye health[J]. Molecules,24(18): 3311.   \nPAYNE CT, ZHANG F, LLOYD AM, 20O0. GL3 encodes a bHLH protein that regulates trichome development in Arabidopsis through interaction with GL1 and TTG1[J]. Genetics,156(3): 1349-1362.   \nPEIFFER DS，WANG LS, ZIMMERMAN NP,et al.，2016.Dietary consumption of black raspberries or their anthocyanin constituents alters innate immune cell trafficking in esophageal cancer[J]. Cancer Immunol Res, 4(1): 72-82.   \nRINALDO AR, CAVALLINI E, JIA Y, et al., 2015. A grapevine anthocyanin acyltransferase, transcriptionally regulated by VvMYBA, can produce most acylated anthocyanins present in grape skins[J]. Plant Physiol,169(3): 1897-1916.   \nSANCHEZ SE, KAY SA, 2016. The plant circadian clock: from a simple timekeeper to a complex developmental manager[J]. Csh Perspect Biol, 8(12): a027748.   \nSHI MZ, XIE DY, 2014. Biosynthesis and metabolic engineering of anthocyanins in Arabidopsis thaliana[J]. Recent Pat Biotechnol, 8(1): 47-60.   \nSHIN DH, CHO M,CHOI MG, et al.，2015. Identification of genes that may regulate the expression of the transcription factor production of anthocyanin pigment 1 (PAP1)/MYB75 involved in Arabidopsis anthocyanin biosynthesis[J]. Plant Cell Rep, 34(5): 805-815.   \nSONG JH, GUO CK, SHI M, 2021. Anthocyanin biosynthesis and transcriptional regulation in plant[J].Mol Plant Breed,19(11):3612-3620.[宋建辉，郭长奎，石敏，2021．植物花青素 生物合成及调控[J]．分子植物育种，19（11）：3612-3620.]   \nSUN Q, HUANG MY, WEI YQ, 2021. Diversity of the reaction mechanisms of SAM-dependent enzymes[J].Acta Pharm Sin B,11(3): 632-650.   \nTANAKA Y, SASAKI N, OHMIYA A, 2008. Biosynthesis of plant pigments: anthocyanins, betalains and carotenoids[J]. Plant J, 54(4): 733-749.   \nVARSHA T, CHENNA S,ASHWIN N, et al., 2019. MiR828 and miR858 regulate VvMYB114 to promote anthocyanin and flavonol accumulation in grapes[J]. J Exp Bot, 7O(18): 4775-4792.   \nWANG HX, WANG CY, FAN WJ, et al., 2O18. A novel glycosyltransferase catalyses the transfer of glucose to glucosylated anthocyanins in purple sweet potato[J]. J Exp Bot, 69(22): 5444-5459.   \nWEI H, WANG Y, LIU B,et al. 2018. Deciphering the underlying mechanism of the plant circadian system and its regulation on plant growth and development[J]. Bull Bot, 53(4): 456-467.[魏华，王岩，刘宝辉，等，2018．植物生物钟及其调控生长发育的研究进展[J]. 植物学报，53（4）：456-467.]   \nXIE Y, TAN HJ, MA ZX, et al. 2016. DELLA proteins promote anthocyanin biosynthesis via sequestering MYBL2 and JAZ suppressors of the MYB/bHLH/WD40 complex in Arabidopsis thaliana[J]. Mol Plant, 9(5): 711-721.   \nYANG ML,HAN X, YANG JJ, et al., 2021. The Arabidopsis circadian clock protein PRR5 interacts with and stimulates ABI5 to modulate abscisic acid signaling during seed germination[J]. Plant Cell, 33(9): 3022-3041.   \nZHANG YQ, ZHENG S, LIU ZJ, et al., 2011. Both HY5 and HYH are necessary regulators for low temperature-induced anthocyanin accumulation in Arabidopsis seedlings[J]. J Plant Physiol, 168(4): 367-374. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

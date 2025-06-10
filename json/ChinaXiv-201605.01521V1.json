@@ -1,0 +1,466 @@
+[
+    {
+        "type": "text",
+        "text": "Syntaxin opening by the MUN domain underlies the function of Muncl3 in synaptic-vesicle priming ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaoyu Yangl,7, Shen Wang1,7, Yi Sheng1,7, Mingshu Zhang2, Wenjuan ${ \\bf { Z o u } } ^ { 3 }$ ,Lijie $\\mathbf { W u ^ { 4 } }$ ,Lijun Kang3,Josep Rizo5, Rongguang Zhang2,4, Tao $\\mathbf { X } \\mathbf { u } ^ { 1 , 2 , 6 }$ & Cong $\\mathbf { M } \\mathbf { a } ^ { 1 }$ （204 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UNC-13-Munc13s haveacentral function insynaptic-vesicleprimingthroughtheir MUNdomains.However,itis unclear whetherthis functionarises fromtheabilityofthe MUNdomaintomediate thetransition fromthe Munc18-1-closedsyntaxin-1 complex to the SNAREcomplex in vitro.The crystal structureoftherat Munc13-1 MUNdomainnowreveals anelongated, arch-shaped architecture formed by $\\mathfrak { a }$ -helical bundles,with a highly conserved hydrophobic pocket in the middle.Mutation of tworesidues(NF)in this pocketabolishes thestimulationcausedbythe Munc13-1MUNdomainonSNARE-complexassembly andonSNARE-dependentproteoliposome fusioninvitro.Moreover,thesame mutationinUNC-13abrogates synaptic-vesicle primingin Caenorhabditis elegans neuromuscularjunctions.Theseresultssupportthe notion thatorchestrationof syntaxin-1 opening and SNARE-complexassembly underlies the central role of UNC-13-Munc13sin synaptic-vesicle priming. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neurotransmitter release mediated by $\\mathrm { C a } ^ { 2 + }$ -triggered synaptic-vesicle exocytosis isa fundamental process for synaptic transmission.This process is tightlyregulated bymultiple proteins that form the release machinery. The core machinery includes the neuronal SNAREs syntaxin-1,SNAP-25 and synaptobrevin,as well as the Secl-Munc18 protein Muncl8-1(refs.1-4).These proteins are conserved in eukaryotes including yeast and humans,and they have key functions in most types of intracellular membrane fusion.The SNAREs play a central partin membrane fusion by forming tight SNARE complexes through their SNARE motifs,to force the vesicle and plasma membranes into proximity5-8.Munc18-1 orchestrates SNARE-complex assembly through its interactions with the SNAREs.For instance,Muncl8-1 locks syntaxin-1inaclosed conformation that involves intramolecular binding of syntaxin-1's N-terminal $\\mathrm { H _ { a b c } }$ domain and SNARE motif, thus gating entry of syntaxin-1 into the SNARE complex9-11.Munc18-1 also interacts with an N-terminal sequence of syntaxin-1 called the N peptide and with the assembled SNARE complex containing an open conformation of syntaxin-1, both of which have been suggested to help to catalyze membrane fusionl2-14.These multiple interactions,which coordinate syntaxin-1 opening and SNARE-complex assembly, are believed to be spatially and temporally modulated by other key proteins to enable the exquisite regulation of neurotransmitter release. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Particularly important among these proteins are the UNC13-Muncl3s,which are large $( \\sim 2 0 0 \\mathrm { - k D a } )$ multidomain proteins from presynaptic active zones where vesicles are releasedl5.Physiological data have shown that UNC-13-Muncl3s are crucial components of the release machinery, because release is totally abolished in neurons lacking these proteins,and that UNC-13-Muncl3s play a central part in synaptic-vesicle primingl6-19.This function relies on an autonomously folded C-terminal region of UNC-13-Muncl3s called the MUNdomain (Fig.1),which is regarded as the minimal module required for the crucial vesicle-priming function ofUNC-13-Muncl3s (refs.20-22).The finding that syntaxin-1 bearing a so-called ‘LE mutation' that facilitates opening of syntaxin-1 partially rescues release in C.elegans deficient in unc-13 suggested that UNC-13-Muncl3s are involved in opening syntaxin-1 (ref.23).However, it was unclear whether direct physical interactions between UNC-13-Muncl3sand the SNAREs or Muncl8-1 underlie this function.For instance, the syntaxin-1LE mutant also rescued the phenotype observed in the absence of Uncl0-RIMs24,which are active zone proteins with functions thatare coupled to UNC-13-Muncl3s1.A direct role for the UNC-13-Muncl3s in opening syntaxin-1 was strongly supported by recent in vitro studies showing that the Muncl3-1MUNdomain accelerates the transition from the Muncl8-1-closed syntaxin-1 complex to the SNARE complexl5 and stimulates SNARE-mediated liposome fusion25.However, the biological relevance of these findings has not been tested with physiological experiments in vivo. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sequence analyses have indicated that theUNC-13-Muncl3 MUN domain is homologous to subunits from diverse tethering factors involved in traffic at multiple membrane compartments,such as the exocyst,GARP,COG and Dsllp complexes26. This homology and the crystal structures available for some of these tethering factors²7, particularly that of $\\mathsf { S e c 6 p } ^ { 2 8 }$ ，suggested that the UNC-13-Munc13 MUN domain contains four subdomains (termed A-D).Indeed, the crystal structure of the region of the Muncl3-1 MUN domain spanning the C and D subdomains (MUN-CD) revealed a striking structural similarity with the tethering factors29,thus suggesting that UNC-13-Muncl3s might play a part in vesicle tethering through the MUN domain in addition to functioning in synaptic-vesicle priming.However, to our knowledge,no three-dimensional structure of an entire UNC-13-Muncl3 MUNdomain has been described,and this has hindered studies involving structure-activity relationships to test the biological relevance of the activity of the MUNdomain in opening syntaxin-1 in vitro or of its putative function in tethering. Moreover, the structure of the UNC-13-Muncl3 MUN domain is the onlyone lacking fora central component of the neurotransmitterrelease machinery,because structures have been described for other key components such as the three neuronal SNAREs,Secl-Munc18s, syntaptotagmin-1 and complexins (reviewed in ref.30). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To shed light on the way in which UNC-13-Muncl3s regulate syntaxin-1opening and vesicle priming,we have determined the crystal structure of the Muncl3-1 MUN domain at 2.9-A resolution. Using in vitro fluorescence resonance energy transfer (FRET) and reconstitution experiments,we have identified two highly conserved residues located in the middle of the MUN domain as key sites that mediate opening of syntaxin-1 and SNARE-complex assembly.Furthermore, electrophysiological data recorded at cholinergic neuromuscular junctions(NMJs) of C.elegans confirm that these two residues are important for both spontaneous and evoked neurotransmitter release, thus reflecting a critical role in vesicle priming.These results provide compelling evidence that the activity of the MUN domain in stimulating the transition from the Muncl8-1-closed syntaxin-1 complex to the SNARE complex in vitro underlies the crucial function of UNC-13-Muncl3s in synaptic-vesicle priming in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "s69 1 1816 C.elegans UNC-13L CA CaMb C1 C2B MUN $\\mathsf { C } _ { 2 } \\mathsf { C }$ （204号 s69 1464 1 C.elegans UNC-13S C1 C2B MUN CC EF 1 567 859 1407_1453 1531 1735 A B C D Rat Munc13-1 CA CaMb C CB MUN C2C 529 1531 $\\mathsf { C } _ { 1 } { \\cdot } \\mathsf { C } _ { 2 } \\mathsf { B }$ -MUN Figure 1 Domain organization of 859 1531 MUN\\* UNC-13-Munc13s.The diagrams 933 1531 MUN933 correspond to C.elegans UNC-13L and UNC-13S and to rat Munc13-1 859 1407 MUN-ABC\\* and its fragments,as used in this study. 933 1167 MUN-AB# The $\\mathsf C _ { 2 } \\mathsf A$ ,calmodulin-binding(CaMb), 1011 1531 MUN-BCD $\\mathsf C _ { 1 }$ $\\mathsf C _ { 2 } \\mathsf B$ ，MUNand $\\mathtt { C } _ { 2 } \\mathtt { C }$ domains indicated were previously described20. 1011 1407 MUN-BC# The s69 allele corresponds to a 5-bp 1148 1531 MUN-CD deletion in an exon of UNC-13 (exon 21) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and fragment boundaries.The predicted subdomains within the MUN domain are colored in blue, green,yellow and orange and are labeled A-D.A long loop of the MUN domain that spans residues 1408-1452 was deleted and replaced with residues glutamate and phenylalanine (EF),represented bya slash.For the proper folding of the fragments indicated by $\\#$ ,the boundaries of subdomains B and C are extended to residues 1167and 14O7,respectively,rather than ending at residues 1148 and 1314,as defined from the structure.Allfragments used are well folded according to analyses by CD spectroscopy (Supplementary Fig.2a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS Crystal structure of the Munc13-1 MUN domain ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Muncl3-1 MUN domain (residues 859-1531,Fig.1) is regarded as the minimal module required for the activity of Muncl3-1 in synapticvesicle priming2o.As mentioned above,structure-based sequence alignments using the available structures of tethering factors homologous to Muncl3-1 (ref.26) have indicated that the MUN domain contains four subdomains termed A-D and have identified a highly conserved sequence on the C-terminal region of the MUN domain (MUN-CD,residues 1148-1531),thus aiding in the elucidation of the crystal structure of the MUN-CD region29.However, the ability of MUN-CD to open syntaxin-1 is strongly impaired,consistently with physiological data showing thata fragment (residues lo45-1531) encompassing the MUN-CD region is unable to rescue neurotransmitter release20.These data imply that the N-terminal portion of the MUN domain (called MUN-AB,residues 859-1l47) is indispensable for the priming activity of the MUN domain.Thus,we aimed to crystallize the entire MUN domain containing its A-D subdomains. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previously, by removing a flexible loop (residues 1408-1452), we successfully improved the yield and solubility of the MUN domainl5 (referred to as $\\mathrm { M U N ^ { * } }$ ,residues 859-1407,EF,1453-1531 (Fig.1)),but we were still not be able to obtain high-quality crystals of $\\mathrm { M U N ^ { \\ast } }$ for structure determination.To solve this problem, we designed a series of truncations of $\\mathrm { M U N ^ { * } }$ (data not shown). Among these truncations,a fragment lacking the first 74 residues on the N terminus of $\\mathrm { M U N ^ { * } }$ (referred to as $\\mathrm { M U N } ^ { 9 3 3 }$ ,residues 933-1407,EF, 1453-1531,Fig.1) finally crystallized.We determined the $\\mathrm { M U N } ^ { 9 3 3 }$ structure and refined it to $2 . 9 \\mathrm { ~ \\AA ~ }$ in resolution (Online Methods, Fig.2a and Table 1),and the crystals contained one molecule per asymmetricunit. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of $\\mathrm { \\hat { M } U N } ^ { 9 3 3 }$ exhibits an elongated shape spanning $1 5 0 \\mathrm { \\AA }$ in length.Consecutive helices pack against each other in a mixed antiparallelorparallelmannerand stabilize the whole structure by interhelical interactions. $\\mathrm { M U N } ^ { 9 3 3 }$ is composed of helical-bundle subdomains connected by flexible loopsand short turns (Fig.2a).Its four subdomains (A-D）are aligned accordingly from the N to C terminus along the $\\mathrm { M U N } ^ { 9 3 3 }$ structure (Fig.2a).SubdomainsA-D consist ofhelices H1 and H2 (A),H3-H6 (B),H7-H11(C)and H12-H15 (D) (Fig. 2a,b). H7 forms a long and continuous helix that bends and changes direction gradually, with its N-terminal portionpacked against the precedinghelixH6. $\\mathrm { M U N } ^ { 9 3 3 }$ is considerably charged,with positive and negative charges widely distributed throughout the surface (Supplementary Fig.la).An exposed hydrophobic patch at the junction of subdomainsBand C that involves helices H6,H7 and H8 (Supplementary Fig.Ib) is found on the surface of $\\mathrm { M U N } ^ { 9 3 3 }$ as discussed below. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As expected, $\\mathrm { M U N } ^ { 9 3 3 }$ has a similar architecture to those of vesicle-tethering factors including Sec6p,Tip20 and Exo70 (refs.28,31-33) (Fig.2c).However, $\\mathrm { M U N } ^ { 9 3 3 }$ （204号 adoptsadistinctive arch-shapedarchitecture that differs from the more straight structure of Exo70 and the sharply hooked shape of Tip20.Itis unclear whether the overall arch shape of $\\mathrm { M U N } ^ { 9 3 3 }$ may result from crystal packing,but this feature mightbe important for the functional specificity of theMUNdomain in synaptic-vesicle priming. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a55add1c75057d6e2890c3e37f6c137d7e753b2bef10764482b5dabb25f0eb54.jpg",
+        "img_caption": [
+            "Figure 2 Crystal structure of the Muncl3-1 MUN domain.(a) Ribbon diagrams of the crystal structure of $\\mathsf { M U N } ^ { 9 3 3 }$ ,shown in two orientations rotated $\\sim 1 8 0 ^ { \\circ }$ with respect to each other.Subdomains A-D are labeled and colored in blue,green,yellow and orange,respectively. Helices H1-H15 are labeled from the N to the C terminus of the structure. (b) Sequence of $M \\cup \\mathsf { N } ^ { 9 3 3 }$ .Secondary-structure elements are labeled and colored as ina.Dotted line represents regions in the crystal structure that are either flexible or disordered.(c) Comparison of the structure of $M \\cup \\mathsf { N } ^ { 9 3 3 }$ with those of homologous tethering factors that have been solved (Tip20,PDB 3FHN31;Exo7O,PDB 2PFT33). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A conserved hydrophobic pocket is key for opening syntaxin-1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that Muncl3-1 MUN\\* stimulates the transition from the Muncl8-1-syntaxin-1 complex to the SNARE complexl5.We thus performed FRET experiments to investigate the activity of $\\mathrm { M U N } ^ { 9 3 3 }$ in the stimulation (Fig.3a-e).SNARE-assembly reactions initiated with syntaxin-1 alone or the Muncl8-1-syntaxin-1 complex illustrate that Muncl8-1 strongly inhibits SNARE-complex formation,whereas addition of either $\\mathrm { M U N ^ { * } }$ or $\\mathrm { M U N } ^ { 9 3 3 }$ facilitates SNARE-complex assembly equally(Fig.3b).This result confirms that $\\mathrm { M U N } ^ { 9 3 3 }$ is functional in stimulating SNARE-complex assembly starting from the Muncl8-1-syntaxin-1 complex. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To identify the region of $\\mathrm { M U N } ^ { 9 3 3 }$ responsible for this activity, we used the solved structure of $\\mathrm { M U N } ^ { 9 3 3 }$ as a guide and designed several fragments that encompass one or more subdomains of MUN933, referred to as MUN-ABC,MUN-BCD,MUN-AB,MUN-BCand MUN-CD (Fig.1).All these fragments are wellfolded and show large $\\alpha$ -helical content,as judged from their CD spectra (Supplementary Fig.2a).Among these fragments,MUN-AB and MUN-CD did not stimulate the transition from the Muncl8-1-syntaxin-1 complex to the SNARE complex,whereas MUN-ABC,MUN-BCD and MUN-BC exhibited a range of activities in stimulating the transition (Fig.3c).These results identify subdomains B and C as the core region for $\\mathrm { M U N } ^ { 9 3 3 }$ activity. Fragments MUN-ABC and MUN-BCD showed relatively higher activities than MUN-BC,but lower activity than $\\mathrm { M U N } ^ { 9 3 3 }$ , thus suggesting that subdomains A and D have additional,albeit less critical,roles (compared to those of subdomains B and C） in stimulating Muncl8-1-dependent SNARE-complex assembly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we aimed to identifykey residues that mediate theactivity of $\\mathrm { M U N } ^ { 9 3 3 }$ . According to the $\\mathrm { M U N } ^ { 9 3 3 }$ structure,we designed a series of mutations on the surface of subdomains B and C (Supplementary Fig.3a).Usinga native gel assay that we established (Online Methods and SupplementaryFig.3b)and extensive screening,we found that residuesAsnl128 and Phell31(referred to as NF)are crucial for the activity of $\\mathrm { M U N } ^ { 9 3 3 }$ in promoting the transition from the Muncl8- 1-syntaxin-1complex to the SNARE complex(SupplementaryFig.3c). FRET experiments confirmed this finding by showing that double mutation ofNF to alanine(NFAA) totally disrupted the activity of $\\mathrm { M U N } ^ { 9 3 3 }$ (Fig. 3d,e). We observed no activity even when the concentration ofNFAAwas elevated to $1 0 0 \\mu \\mathrm { M }$ (data not shown),thus showing the critical importance of the NF sequence.Notably, CD ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcd9c491eb3f39f541c181c3d7cc6c257264d118d834b926ab7140ee00c88c23.jpg",
+        "table_caption": [
+            "Table 1 Data collection and refinement statistics "
+        ],
+        "table_footnote": [
+            "Values in parentheses are for highest-resolution shell. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Munc13-1 MUN933</td></tr><tr><td>Data collection</td><td></td></tr><tr><td>Space group</td><td>P21212</td></tr><tr><td>Cell dimensions</td><td></td></tr><tr><td>a,b,c (A)</td><td>114.1,270.9,47.7</td></tr><tr><td>α,β,γ()</td><td>90.0,90.0,90.0</td></tr><tr><td>Resolution (A)</td><td>50.0-2.9 (2.95-2.90)</td></tr><tr><td>Rmerge (%)</td><td>6.9 (63.4)</td></tr><tr><td>I/σI</td><td>27.3 (1.95)</td></tr><tr><td>Completeness (%)</td><td>99.3 (98.7)</td></tr><tr><td>Redundancy</td><td>5.4 (5.1)</td></tr><tr><td>Refinement</td><td></td></tr><tr><td>Resolution (A)</td><td>50.0-2.9 (2.97-2.90)</td></tr><tr><td>No.reflections</td><td>32,104 (1,712)</td></tr><tr><td>Rwork /Rfree</td><td>0.217/0.252</td></tr><tr><td>No.atoms</td><td></td></tr><tr><td>Protein</td><td>4,347</td></tr><tr><td>B factors</td><td></td></tr><tr><td>Protein</td><td>85.4</td></tr><tr><td>r.m.s.deviations</td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.006</td></tr><tr><td>Bond angles (°)</td><td>1.384</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure3 A conserved hydrophobic pocket thatmediates the stimulatoryactivityof MUN933 in the transition from the Munc18- 1-syntaxin-1 complex to the SNARE complex. (a)Illustration of FRET assay to detect SNAREcomplex assembly.(b-d) FRET experiments showing the FRET between a BODIPY FL fluorescence donor on SNAP-25 (SN25)and a rhodamine fluorescence acceptor on syntaxin$1 _ { 2 - 2 5 3 }$ within the Munc18-syntaxin-12-253 complex(M18-Syx).The stimulation caused by MUN933, $M \\cup \\mathbb { N } ^ { * }$ ,the $M \\cup \\mathsf { N } ^ { 9 3 3 }$ fragments and the NFAA mutant are shown,as indicated. (e)Quantification of the stimulation activities obtained in b-d (means $\\pm \\thinspace 5 . 0$ ： $\\begin{array} { r } { { \\cal n } = 3 } \\end{array}$ technical replicates).(f) Position of the hydrophobic pocket in ${ \\mathsf { M U N } } ^ { 9 3 3 }$ and enlarged view of its structure.The conserved residues forming the pocket are labeled and colored in yellow,and residues Asn1128 and Phel131 are colored in red.(g) Sequence alignment of the hydrophobic pocket region shared in UNC-13-Munc13 species.Red and asterisk,residues Asn1128 and Phell31;yellow box,conserved residues in the pocket;cyan,other conserved residues; Rn,Rattus norvegicus;Mm,Mus musculus;Hs, Homo sapiens;Ce,C.elegans;Dm,Drosophila melanogaster;Dr,Danio rerio. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a Munc18 +SN25 H+synaptobrevin+MUNSNARE complexSyntaxin-1a(closed) Syntaxin-1a(open)  \nb C d0.4- Syx WT 0.4- 0.4  \nE +MUN933 +MUN\\* 0.3- +MUN933 +C 8 +MUN933 +MUN933NFAA01 M18-Syx 01 MBSyxWT 0.1 M18-Syxo 公 60 6 0 ,500 0 00 0 n0 0 6 602 2, 2Time (s) Time (s) Time (s)f  \ne40  \n(xx1 j %) 00e 302010 N1128 bitll0W1165M18-9 -SyxWT Syx WT +MUr +MUN9 2 N933NFAA 935 MUN-A N +MUN-BC 名 +MUN- +MUN-A -CD +MUN-BC ABC F1131 L1219 I1215 11216N +MUN9  \ng H5 H6 H7  \nRn Munc13-1 1114 EHDKHRLCKSADYMNLHFKVKWLYNEYVAELPTFKDRVPEYPAWFEPFVIQWLDENEEVSRDFLHGALER  \nRn Munc13-2 1033 EHEKDRLCKSADYMNLHFKVKWLHNEYVRELPALQGQVPEYPAWFEQFVLQWLDENEDVSLEFLRGGLEI  \nRn Munc13-3 1635 EHEKQRLCKSTDYMNLHFKVKWFYNEYVRELPAFKDAVPEYSLWFEPFVMQWLDENEDVSMEFLHGALGR  \nMm Munc13-1 1110 EHDKHRLCKSADYMNLHFKVKWLYNEYVAELPTFKDRVPEYPAWFEPFVIQWLDENEEVSRDFLHGALER  \nHs Munc13-1 1101 EHDKHRLCKSADYMNLHFKVKWLYNEYVTELPAFKDRVPEYPAWFEPFVIQWLDENEEVSRDFLHGALER  \nCe Unc13 866 EHAQKKRCKTPEYMNLYFKVKGFYFKYVADLSTYKSSIPEFPAWFIPFVMDWLNENDEHSMDILRNAYNV  \nDm Unc13 1148 EHEAHRLCKSAAYMNLHFRVKWLYSNYVKEVPPYKGAVPDYPAWFEPFVMQWLNENDDVSLEYLHGAFKR  \nDr Unc13 1159 EHEKNRLCKSADYMNLHFKVKWLYNEYCKDLPFFKSRVPEYPTWFEPFVIQWLDENEEVSRDFLHGALEFH8 H9  \nRn Munc13-1 1184 DKKDGFQQTSEHALFSCSVVDVFSQLNQSFEIIKKLECPDPQIVGHYMRRFAKTISNVLLQYADIV  \nRn Munc13-2 1103 DKRDGFQQTSEHALFSCSVVDVFTQLNQSFEIIRKLECPDPSILAHYMRRFAKTIGKVLIQYADIL  \nRn Munc13-3 1705 DKKDGFQQTSDHALFSCSVVDVFAQLNQSFEIIKKLECPNPEALSHLMRRFAKTINKVLVQYAAIV  \nMm Munc13-1 1180 DKKDGFQQTSEHALFSCSVVDVFSQLNQSFEIIKKLECPDPQIVGHYMRRFAKTISNVLLQYADIV  \nHs Munc13-1 1171 DKKDGFQQTSEHALFSCSVVDVFSQLNQSFEIIKKLECPDPQIVGHYMRRFAKTISNVLLQYADII  \nCe Unc13 950 DKADNFPQTSEHTKFSNSVVDVFTQLNAALKLLKQMDCPNPEVAADMMKRFSKTLNKVLLAYADMV  \nDm Unc13 1218 DKKDGFQKSSEHALFSNSVVDVFTQLTQCFDVVSKLECPDPEIWKRYMRRFAKTIVKVLIAYADIG  \nDr Unc13 1229 DKKDGYQQTSEHALFSCSVVDVFSQLNQSFEIIKKLECPDPQIVGHYMKRFAKTISNVLLSYADII",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "spectroscopy and gel filtration showed that theNFAAmutantiswell folded and exhibits similar CD spectra,denaturation curves and elution volume as $\\mathrm { M U N } ^ { 9 3 3 }$ (Supplementary Fig.2b,c).These results rule out the possibility that loss of activity is caused by protein misfolding. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the structure of $\\mathrm { M U N } ^ { 9 3 3 }$ ,the NF residues reside next to each other on the surface of helix H6 in subdomain B.H6 packs against helices H7 and H8 in an antiparallel and parallel manner, respectively,with Met1127 on H6,Val1162 and Trp1165 on H7,and Ilel215,Ilel216 and Leul219 on H8 forming a shallow hydrophobic pocket(Fig.3f).Thus, this hydrophobic pocket built by these highly conserved residues is formed by residues from subdomains Band Cat the junction between the two domains (Fig.3f),results indicating that the loss of function of MUN-AB and MUN-CD arises because the integrity of the hydro phobic pocket is broken.Importantly,sequence alignments showed that the NF residues are highly conserved in UNC-13-Muncl3 proteins (Fig.3g).Together, these data show that the hydrophobic pocket, especially the conserved NF residues,are central for the activity of the MUN domain in opening syntaxin-1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The NF sequence is crucial for proteoliposome fusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FRET experiments showed the importance of the NF sequence for theability of the MUNdomain to mediate the transition from the Muncl8-1-syntaxin-1 complex to the SNARE complex in solution. We next sought to verify the key role of the NF sequence in SNAREmediated membrane fusion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our newly established in vitro reconstitution assay25 has recently reproduced the vital functions of Muncl8-1 and Muncl3-1 in neurotransmitter release.In this assay, instead of using syntaxin-1-SNAP-25 liposomes,we used liposomes reconstituted with Muncl8-1-syntaxin-1 complex to start fusion reactions with synaptobrevin-containing liposomes and monitored lipid mixing and content mixing by fluorescence dequenching methods25,34.For these experiments,we used a Munc13-1 fragment that contains the diacylglycerol-binding $\\mathrm { C } _ { 1 }$ domain,the phosphatidylinositol 4,5 bisphosphate-binding $\\mathrm { C } _ { 2 } \\mathrm { B }$ domain and the MUN domain (residues 529-1407,EF,1453-1531; referred to as $\\mathrm { C } _ { 1 }$ 1 $\\mathrm { C } _ { 2 } \\mathrm { B }$ -MUN(Fig.1)) because this fragmentis much more efficient than the isolated MUN domain,owing to the membrane interactions of the $\\mathrm { C } _ { 1 }$ and $\\mathbf { C } _ { 2 } \\mathbf { B }$ domains25.We observed virtually no lipid mixing or content mixing between Muncl8-1-syntaxin-1 liposomes and synaptobrevin liposomes when adding SNAP-25 and syntaptotagmin1 $\\mathbf { C } _ { 2 } \\mathrm { A B }$ in the presence of $\\mathrm { C a } ^ { 2 + }$ (Fig.4).Further addition of $1 \\mu \\mathrm { M }$ Munc13-1 $\\mathrm { | C _ { 1 } . . C _ { 2 } B }$ -MUNdramaticallyfacilitated theSNARE-mediated lipid mixing and content mixing (Fig.4).However, $\\mathrm { C } _ { 1 } { \\mathrm { - } } \\mathrm { C } _ { 2 } \\mathrm { B }$ -MUN containing the NFAA double mutation completely abolished such activity in stimulating both lipid mixing and content mixing (Fig.4b,e).These data demonstrate that the NF sequence is critical for the activity ofMuncl3-1in SNARE-mediated membrane fusion.We also note that $\\mathrm { C } _ { 2 } \\mathrm { A B }$ was critical for content mixing in the experiments with WT $\\mathrm { C } _ { 1 } { \\mathrm { - C } _ { 2 } \\mathrm { B } }$ -MUN (Fig. 4e,f),as described previously25. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a04aa51f7f2530522495fa5773d2f8b94735d2c081a0d471c0936e170248262a.jpg",
+        "img_caption": [
+            "Figure4 The Munc13-1NFAA mutation abolishes SNARE-mediated liposome fusion. (a) Illustration of the lipid-mixing experiment (Online Methods).The donor liposomes (v-vesicles) contain synaptobrevin,whereas the acceptor liposomes (t-vesicles) contain the Munc18-1-syntaxin $\\cdot 1 _ { 1 - 2 8 8 }$ complex or its LE mutant (M18-Syx LE).NBD,7-nitrobenz2-oxa-1,3-diazol label.(b) Lipid-mixing experiments confirming the critical role of the NF sequence.The experiments were performed in the presence of SNAP-25, synaptotagmin-1 cytoplasmic region $( \\mathsf C _ { 2 } \\mathsf { A B } )$ ， $\\mathsf { C } _ { 1 ^ { - } } \\mathsf { C } _ { 2 } \\mathsf { B }$ -MUN(Ml3)and/or the NFAA mutant,and $0 . 5 { \\mathrm { ~ m M ~ C a ^ { 2 + } } }$ as indicated. (c) Quantification of the results obtained (means $\\pm :$ s.d.; $\\begin{array} { r } { { \\cal n } = 3 } \\end{array}$ technical replicates). (d) Illustration of the content-mixing experiment (Online Methods),in which sulforhodamine fluorescence is dequenched as donor and acceptor liposomes merge.(e) Content-mixing experiments confirming the critical role of the NF sequence.(f) Quantification of the results obtained (means $\\pm \\thinspace 5 . 0$ .； $\\begin{array} { r } { { \\cal n } = 3 } \\end{array}$ technical replicates).SN25,SNAP-25. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that the syntaxin-1 LE mutation,which helps to open syntaxin-1,partially rescues release in unc13-null C.elegans and suppresses the block caused by Muncl8-1 in SNARE-complex formation,thus suggesting that UNC-13- Muncl3s are involved in opening syntaxin-1 (refs.15,23).In our study,we tested whether the syntaxin-1 LE mutation could rescue membrane fusion in the absence of Munc13-1. Indeed,efficient lipid mixing and content mixing between Muncl8-1-syntaxin-1 LE liposomes and synaptobrevin liposomes were still observable in the absence of Munc13-1 and the presence of SNAP-25, $\\mathrm { C } _ { 2 } \\mathrm { A B }$ and $\\mathrm { C a } ^ { 2 + }$ (Fig.4b,e).These data suggest that syntaxin1 LE mutation reverses the blocking effect caused by Muncl8-1 and further support the notion thatUNC-13-Muncl3s are involved in opening syntaxin-1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The NF sequence is pivotal for synaptic-vesicle priming ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The in vitro experiments above provide strong evidence that the NF sequence of Muncl3-1 has a key role in opening syntaxin-1. Sequence alignments showed that the residues NF are highly conserved in UNC-13-Muncl3s from different species (Fig.3g). To investigate the function of the NF sequence in vivo,we took C.elegans UNC-13 as a model protein and studied its function in synaptic transmission atNMJs.The C.elegansunc-13 gene,which is essential for synapticvesicle exocytosis35,encodes long and short isoforms (UNC-13L and UNC-13S).Both of these isoforms share a common region containing the $\\mathrm { C } _ { 1 }$ 0 $\\mathbf { C } _ { 2 } \\mathbf { B }$ ,MUNand $\\mathrm { C } _ { 2 } \\mathrm { C }$ domains (Fig.1).UNC-13L or Muncl3s (e.g.,Muncl3-1 and Muncl3-2) have an additional N-terminal $\\mathrm { C } _ { 2 } \\mathrm { A }$ domainanda CaM-binding domain thatUNC-13S lacks36 (Fig.1). Expression of either UNC-13L or UNC-13S in unc-13-mutant worms rescued locomotion and neurotransmission defects,thus indicating that both isoforms are able to restore synapticvesicle exocytosis37.It has also been shown that Muncl3 mutants thatlackN-terminal $\\mathrm { C } _ { 2 } \\mathrm { A } -$ and CaM-binding domains can rescue the priming defects of synaptic vesicles in the absence of Munc $1 3 s ^ { 2 0 , 3 8 }$ Hence,to minimize the complexity of our system,we used UNC-13S to assess the role of the NF sequence in synaptic function. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $s 6 9$ allele of unc-13 corresponds to a 5-bp deletion in an exon shared by UNC-13S and UNC-13L39, which shifts the reading frame,thereby inactivating both isoforms.Consistently with previous findings37,expression of UNC-13S in unc-13(s69) rescued the locomotion rate (to $3 2 . 2 5 \\%$ that of wild-type worms; Supplementary Fig.4).In contrast,when we mutated the NF residues to alanines (hereafter referred toas UNC-13SNFAA),the mutant failed to rescue the locomotion defects (Supplementary Fig.4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To directly characterize the role of the NF sequence in synaptic transmission,we recorded excitatory postsynaptic currents (EPSCs) at NMJs from adult body-wall muscles (Fig.5).We analyzed both endogenous EPSCs,which represent spontaneous fusion of single synaptic vesicles under resting conditions,and evoked EPSCs,which represent $\\mathrm { C a } ^ { 2 + }$ -triggered exocytosis of hundreds of synaptic vesicles simultaneously. To minimize variation in recording evoked EPSCs, we used the optogenetic method by expressing ChR2 in presynaptic neurons and shining blue light ( $4 5 0 \\mathrm { - } 4 9 0 ~ \\mathrm { n m } ,$ ）on them to induce depolarization.unc-13(s69)worms exhibited neither spontaneous nor evoked EPSCs.Expressing UNC-13S in a unc-13(s69) background rescued the endogenous EPSC rate (to $1 6 . 2 2 \\%$ that of wild type; Fig.5a,b) and evoked EPSCs (to $6 4 . 7 3 \\%$ that of wild type; Fig.5c,d), consistently with previous results37,40.In contrast, the UNC-13S NFAA mutant completely failed to rescue both endogenous and $\\mathrm { C a } ^ { 2 + }$ -triggered evoked EPSCs (Fig.5a-d),thus confirming the vital function of the NF sequence in synaptic-vesicle exocytosis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f97b025d3be1584fc4859bf6aae798ac82d984bdcd4a669329c514232ad98cf.jpg",
+        "img_caption": [
+            "Figure5TheUNC-13-ucl3NFAAmutatioabolisssapticsiclermingndexocytosis.(abRecordingsofedogeousSCsfrodult body-wallmusfthdatedgotyepresetatiracs)andmardatabreodRecdingofevodCfro adultody-aluftdedotvedacsndlatigrasferdeoefveraecodrace) and summary of transferred charges (f) of vesicle release induced by $0 . 5 ~ \\mathsf { M }$ hypertonic on in worms of the indicated genotypes.Values that differsignificantly from controlsare indicated $( ^ { \\star \\star \\star } P < 0 . 0 0 1$ $^ { \\ast } P < 0 . 0 5$ by two-tailed Student's $t$ test).For each genotype,independent experiments were carried out in different animals,with the numbers of worms indicated in the graphs.Error bars,s.e.m. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The defect in presynaptic release of the UNC-13S NFAA mutant could be due to defective priming of synaptic vesicles or to a defect in the response of synaptic vesicles to $\\mathrm { C a } ^ { 2 + }$ influx. A classic assay to analyze priming involves the application of hypertonic sucrose solution to induce synaptic-vesicle exocytosis in a $\\mathrm { C a } ^ { 2 + }$ -independent manner; this is often used as a measure of the readily releasable pool of vesicles41. Here we used a prolonged sucrose-stimulation protocol41 to release the majorityof primed synaptic vesicles at C.elegans NMJs. Under this protocol, the sucrose-induced charge transfer observed in wild-type and unc-13(s69)worms were $2 1 . 2 9 \\pm 1 . 5 7 \\mathrm { \\ p C }$ and $4 . 0 9 \\pm 0 . 8 2 \\mathrm { p C }$ ,respectively,during $0 { - } 1 \\ \\mathbf { s } .$ and $7 3 . 9 9 \\pm 7 . 7 8 \\mathrm { p C }$ and $2 2 . 3 1 \\pm 1 . 8 3 \\mathrm { p C } ,$ respectively, during 0-5 s (Fig.5e,f),comparably to previous results40,42. UNC-i3S expression in unc-13(s69)worms rescued the sucrose-induced charge transfer to $1 3 . 5 4 \\pm 2 . 6 8 \\mathrm { p C }$ (to $6 3 . 6 0 \\%$ that of wild type,Fig.5e,f during O-1 s and $4 5 . 3 7 \\pm 5 . 1 5 { \\mathrm { p C } }$ during $0 { - } 5 \\mathrm { ~ s ~ }$ stimulation (to $6 1 . 3 2 \\%$ that of wild type,Fig.5e,f),whereas the UNC-13S NFAA mutant failed to rescue the sucrose-induced charge transfers $( 3 . 5 9 \\pm 1 . 0 3 ~ \\mathrm { p C }$ during 0-1 s and $1 4 . 5 8 \\pm 5 . 3 7 \\mathrm { p C }$ during $_ { 0 - 5 \\mathrm { ~ s ~ } }$ ；Fig.5e,f).These results reveal that the NF sequence is critical for both spontaneous and evoked release,and they indicatea key role for the NF sequence in the priming of synaptic vesicles. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UNC-13-Muncl3s perform a crucial function in synaptic-vesicle priming,a step before $\\mathrm { C a } ^ { 2 + }$ -triggered release thatis believed to involve opening of syntaxin-1 as well as SNARE-complex assembly15,23. Previous studies have suggested a pathway in which SNARE-complex assembly starts with the Muncl8-1-syntaxin-1 complex and depends critically on regulationby the Munc13-1 MUN domain15,25.However, the physiological relevance of this model had been unclear because there was no evidence correlating the priming function of UNC-13- Muncl3s in vivo with the activity of the MUN domain in opening syntaxin-1 in vitro.To bridge the gap between the understanding of the functional properties of the MUN domain and of its molecular features,we solved the crystal structure of the Muncl3-1 MUN domain and identified key residues responsible for its activity in opening syntaxin-1.Moreover, the physiological data demonstrated the essential role of these residues in synaptic-vesicle priming.These results provide evidence that the critical functionof the MUNdomain in the transition of the Muncl8-1-syntaxin-1 complex to the SNARE complex underlies the central function of UNC-13-Muncl3s in synaptic-vesicle priming. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Crystallization of the UNC-13-Muncl3 MUN domain has been a long-sought goal because this was the only essential element of the neurotransmitter-release machinery for whicha three-dimensional structure had not been determined.The crystal structure of the rat Muncl3-1 MUNdomain described here revealsan elongated architecture formed by $\\alpha$ -helical bundles,as expected from its predicted homology with tethering factors26.The structure enabled us to design a series of mutations in conserved surface residues to probe their importance in the ability of the MUN domain to open syntaxin-1. Byusing an in vitro SNARE complex-assembly assay,we identified afunctionallycritical,smallhydrophobic pocketlocated at the junction of subdomains B and C.We showed that two highly conserved residues in this hydrophobic pocket,NF,have a key role in mediating the transition from the Muncl8-1-syntaxin-1 complex to the SNARE complex.The NF side chains face the surface of the hydrophobic pocket (Fig.3f),thus providinga plausible binding contact forits potential‘substrate’ (for example,syntaxin-1 or other SNAREs). Mutation of these residues to alanines (NFAA mutation) does not alter the folding of the MUN domain (Supplementary Fig.2).Thus, the functional effects of the NFAA mutation must arise from disruption of specific interactions involving these side chains.We characterized these effects at three different levels: (i) SNARE-complex assembly in solution; (ii) SNARE-dependent liposome fusion in a reconstituted proteoliposome system;and (i) synaptic transmission at NMJs in C.elegans.The drastic effects of theNFAA mutationatthese three levels(Figs.3d,4and 5) demonstrate the vital nature of the NF sequence for MUN-domain function and leave little doubt that the impairment caused by this mutation on stimulation of SNARE-complex assembly and proteoliposome fusion underlies the abrogation of synapticvesicle priming caused by the mutation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0757a8769052572dc28f54af0f3827a317c28c5ffaeb4f56b71d3920f72e23c4.jpg",
+        "img_caption": [
+            "Figure 6 Working model for the mechanism underlying the activity of the MUN domain.The diagrams represent the Munc18-1-syntaxin-1 complex (left), the syntaxin-1-SNAP-25 complex bound to Muncl8-1 (upper right) and the SNARE complex bound to Munc18-1 and the MUN domain (lower right)as well as intermediate states that are proposed to mediate the transitions between the different complexes. A key aspect of the model is thatmultiple weak interactions of the MUN domain with Muncl8-1,syntaxin-1 and perhaps the other SNAREs lower the energy barriers involved in these transitions.Starting from the Munc18-1- syntaxin-1 complex,binding of the MUN domain to Munc18-1 and syntaxin-1 is proposed to ",
+            "transientlyopetain-tusadigtotemdiatedingof-5eadsttemediate2ichaseessubstratefo complexassebly(wichisprobablyreversible)uponsyaptobrevinbndingIntermediate2couldalsobeinthepathladingfromthstain 1-SNAP-5coletoteunc-syain-mpeitabseeofsaobevinelatieizoftoilstratestatio thatMunc18-1displacesSAP-2fromstain-1.hemembranesarenotshownbutelsoexpectedtoinfluencetheequilibiabcausef interactions with the MUN domain and perhaps with other components. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The observation that subdomains Aand/orD enhance the activity of subdomains B and C in the SNARE complex-assembly assay (Fig.3c,e) suggests that multiple sites of the MUN domain cooperate in catalyzing syntaxin-1 opening.The multiple interactions underlying the activity of the MUN domain probably involve Muncl8-1 in addition to syntaxin-1,because the MUN domain accelerates SNARE-complex assembly starting from the Muncl8-1-syntaxin1 complex but not from isolated syntaxin-1 (ref.15).Moreover,in cofloatation assays,we observed that the MUN domain binds to liposomes containing reconstituted Muncl8-1-syntaxin-1 complex but not to liposomes containing isolated syntaxin-1 or syntaxin1-SNAP-25 complex,and the MUNNFAA mutation disrupts binding to the Muncl8-1-syntaxin-1 liposomes (Supplementary Fig. 5). These results suggest that interaction between the MUN-domain NF pocket and the Muncl8-1-syntaxin-1 complex is key for opening syntaxin-1 and that membrane anchoring enhances the affinity of the MUN domain for the Muncl8-1-syntaxin-1 complex. Such enhancement probably arises from weak interactions of basic regions of the MUNdomain (SupplementaryFig.la) with the phospholipids. These multiple interactions are likely to underlie the finding that the MUN domain catalyzes not only the transition from the Muncl8- 1-syntaxin-1 complex to the SNARE complexbut also the transition from the syntaxin-1-SNAP-25 complex to the Muncl8-1-syntaxin-1 complex,as reported in our previous work25.These observations lead us to proposea working model of how UNC-13-Muncl3s function (Fig.6).Briefly, SNARE-complex formation is irreversible once synaptobrevin is available,whereas in the absence of synaptobrevin the equilibrium shifts toward the Muncl8-1-syntaxin-1 complex because it is more stable than the syntaxin-1-SNAP-25 complex.The MUN domain lowers the energy barrier of the transitions between these complexes (Fig.6,intermediate states). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Growing evidence has suggested that,in addition to mediating the opening of syntaxin-1 and the assembly of the SNARE complex, the UNC-13-Muncl3 MUN domain functions in tethering vesicles to presynaptic active zones43-45. This tethering function should be favored by the elongated $\\alpha$ -helix-bundle structure of the Muncl3-1 MUN domain,which spans more than $1 5 0 \\mathrm { ~ \\AA ~ }$ and is similar to those of factors with known roles in tethering,such as Sec6p,Tip20 and Exo70.We suggest that the function of UNC-13-Muncl3s in tethering depends on this elongated $\\mathfrak { a }$ -helical-bundle structure and probably on their association with other factors (for example,RIMs) to form a tethering complex1.Nevertheless,structure-based sequence alignments showed that key residues responsible for forming the NF pocket of UNC-13-Muncl3s are not shared by other tethering proteins (Supplementary Fig.6).Hence,these residues probably endow the UNC-13-Muncl3 MUN domain with specificity in synaptic-vesicle priming. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Further research will be required not only to identify the target of the MUNNF pocketbut also to elucidate the function and molecular mechanism of the MUN domain in tethering. The structure of the Muncl3-1 MUN-domain structure described here provides a framework to design and interpret these studies. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Methods and any associated references are available in the online version of the paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Accession codes.Coordinates and structure factors for $\\mathrm { M U N } ^ { 9 3 3 }$ have been deposited in the Protein Data Bank under accession code 4Y21. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Any Supplementary Information and SourceData files are availablein theonline version of the paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank the BL19ID station at the Advanced Photon Source,Argonne National Laboratory, for helping with data collection.We thank J.Kaplan (Massachusetts ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "General Hospital) for providing the unc-13(s69) strain and the Caenorhabditis Genetic Center for providing other strains used in this work.We thank Y.Li and X.Wang of the Huazhong University of Science and Technology(HUST) for initial efforts in constructing MUN-domain mutations and M. Zhang (Hong Kong University of Science and Technology) for insightful comments on the manuscript. This work was supported by grant 31370819 from the National Science Foundation of China and grant 2014CB910203 from the National Key Basic Research Program of China (both to C.M.),grants (31130065 and 91313301) from the National Science Foundation of China (both to T.X.) and grant NS372oo from the US National Institutes of Health (to J.R.). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C.M.,M.Z.,L.W.and R.Z.performed the structural-biology experiments; X.Y.and S.W. generated all mutants used in this study and performed in vitro experiments of SNARE-complex assembly and liposome fusion; Y.S.,W.Z.and L.K.performed in vivo electrophysiology experiments; T.X.and C.M.conceived the experiments; and J.R.,T.X.and C.M. wrote the paper. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMPETINGFINANCIALINTERESTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permissions information is available online at http://www.nature.com/ reprints/index.html. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1．Rizo,J.& Sudhof,T.C.The membrane fusion enigma:SNAREs,Secl/Munc18 proteins,and their accomplices—guilty as charged? Annu.Rev. Cell Dev. Biol.28,   \n279-308 (2012).   \n2．Toonen,R.F.& Verhage,M.Muncl8-1 in secretion: lonely Munc joins SNARE team and takes control. Trends Neurosci.30,564-572 (2007).   \n3．Jahn,R.& Scheller,R.H.SNAREs:engines for membrane fusion. Nat. Rev. Mol. Cell Biol.7,631-643 (2006).   \n4．Brunger，A.T.，Weninger，K.，Bowen，M.& Chu，S.Single-molecule studies of theneuronal SNARE fusion machinery. Annu.Rev. Biochem．78，903-928 (2009).   \n5．Sollner，T.，Bennett，M.K.，Whiteheart,S.W.，Scheller，R.H.& Rothman,J.E．A protein assembly-disassembly pathway in vitro that may correspond to sequential steps of synaptic vesicle docking，activation，and fusion．Ce// 75，409-418 (1993).   \n6．Hanson，P.I.，Roth，R.，Morisaki，H.，Jahn，R．& Heuser，J.E.Structure and conformational changes in NSF and its membrane receptor complexes visualized by quick-freeze/deep-etch electron microscopy. Cel/90,523-535 (1997).   \n7.Poirier,M.A.et al.The synaptic SNARE complex is a parallel four-stranded helical bundle.Nat. Struct. Biol.5,765-769 (1998).   \n8．Sutton,R.B.,Fasshauer, D.,Jahn,R.& Brunger,A.T.Crystal structure of a SNARE complex involved in synaptic exocytosis at 2.4 A resolution.Nature 395,347-353 (1998).   \n9．Dulubova,I.et al.A conformational switch in syntaxin during exocytosis:role of munc18.EMB0 J.18,4372-4382 (1999).   \n10.Misura,K.M.，Scheller，R.H.& Weis，W.I.Three-dimensional structure of the neuronal-Sec1-syntaxin 1a complex.Nature 404，355-362 (2000).   \n11.Gerber， S.H.et al. Conformational switch of syntaxin-1 controls synaptic vesicle fusion.Science 321,1507-1510 (2008).   \n12.Rizo,J.，Chen，X.& Arac,D. Unraveling the mechanisms of synaptotagmin and SNARE function in neurotransmitter release．Trends Cel/ Biol．16，339-350 (2006).   \n13.Dulubova,I.et al. Muncl8-1 binds directly to the neuronal SNARE complex. Proc. Natl.Acad. Sci. USA 104,2697-2702 (2007).   \n14.Shen,J.,Tareste,D.C.,Paumet,F.,Rothman,J.E.& Melia,T.J. Selective activation ofcognate SNAREpins by Secl/Munc18 proteins.Ce// 128，183-195 (2007).   \n15.Ma,C.,Li,W.,Xu,Y.& Rizo,J.Muncl3 mediates the transition from the closed syntaxin-Muncl8 complex to the SNARE complex.Nat. Struct.Mol. Biol.18,   \n542-549 (2011).   \n16.Augustin,I.,Rosenmund,C.,Sudhof,T.C.& Brose,N.Muncl3-1 is essential for fusion competence of glutamatergic synaptic vesicles.Nature 4oo，457-461 (1999).   \n17.Varoqueaux,F.et al.Total arrest of spontaneous and evoked synaptic transmission but normal synaptogenesis in the absence of Muncl3-mediated vesicle priming. Proc.Natl. Acad.Sci.USA 99,9037-9042 (2002).   \n18.Richmond,J.E.，Davis,W.S.& Jorgensen，E.M.UNC-13 is required for synaptic vesicle fusion in C.elegans. Nat.Neurosci.2,959-964 (1999).   \n19.Aravamudan,B.,Fergestad,T., Davis,W.S.,Rodesch,C.K.& Broadie,K. Drosophila UNC-13 is essential for synaptic transmission．Nat.Neurosci.2，965-971 (1999).   \n20.Basu,J.et al.A minimal domain responsible for Muncl3 activity.Nat. Struct.Mol. Biol. 12,1017-1018 (2005).   \n21.Madison,J.M.，Nurrish,S.& Kaplan,J.M. UNC-13 interaction with syntaxin is required for synaptic transmission. Curr. Biol.15,2236-2242 (2005).   \n22.Stevens,D.R.etal.Identificationof theminimal proteindomain required forpriming activity of Munc13-1.Curr.Biol.15,2243-2248 (2005).   \n23.Richmond,J.E.,Weimer,R.M.&Jorgensen,E.M.Anopenformofsyntaxinbypasses the requirement for UNC-13 in vesicle priming.Nature 412,338-341 (2001).   \n24.Koushika,S.P.etal.A post-docking role for active zone protein Rim.Nat. Neurosci. 4,997-1005 (2001).   \n25.Ma,C.,Su,L.,Seven,A.B.,Xu,Y.& Rizo,J.Reconstitution of the vital functions of Muncl8 and Muncl3 in neurotransmitter release.Science 339，421-425 (2013).   \n26.Pei,J.，Ma,C.，Rizo,J.& Grishin,N.V.Remote homology between Muncl3 MUN domain and vesicle tethering complexes.J.Mol. Biol.391,509-517 (2009).   \n27.Yu,I.M.& Hughson,F.M.Tethering factors as organizers of intracellular vesicular traffic.Annu.Rev.Cell Dev.Biol.26,137-156 (2010).   \n28.Sivaram，M.V.，Furgason，M.L.，Brewer,D.N.& Munson，M.The structure of the exocyst subunit Sec6p defines a conserved architecture with diverse roles. Nat. Struct.Mol. Biol.13,555-556 (2006).   \n29.Li,W. et al. The crystal structure of a Muncl3 C-terminal module exhibits a remarkable similarity to vesicle tethering factors.Structure 19，1443-1455 (2011).   \n30.Rizo，J.& Rosenmund，C.Synaptic vesicle fusion．Nat.Struct.Mol．Biol.15, 665-674 (2008).   \n31.Tripathi,A.，Ren,Y., Jeffrey， P.D.& Hughson,F.M. Structural characterization of $\\pi _ { \\mathsf { P } } 2 0 \\mathsf { p }$ and Dsllp,subunits of the Dsllp vesicle tethering complex.Nat.Struct. Mol. Biol.16,114-123 (2009).   \n32.Dong,G.,Hutagalung,A.H.,Fu,C.,Novick,P.& Reinisch,K.M.The structures of exocyst subunit Exo7Op and the Exo84p C-terminal domains reveal a common motif.Nat.Struct.Mol.Biol.12，1094-1100 (2005).   \n33.Moore,B.A.,Robinson,H.H.& Xu,Z.The crystal structure of mouse Exo7O reveals unique features of the mammalian exocyst.J.Mol.Biol.371,41O-421 (2007).   \n34.Weber,T.et al. SNAREpins:minimal machinery for membrane fusion.Cel 92, 759-772 (1998).   \n35.Richmond，J.E.，Davis,W.S.& Jorgensen，E.M.UNC-13isrequired for synaptic vesicle fusion in C.elegans.Nat. Neurosci.2,959-964 (1999).   \n36.Brose,N.，Rosenmund,C.& Rettig,J. Regulation of transmitter release by Unc-13 and its homologues.Curr. Opin.Neurobiol.10,303-311 (2000).   \n37.Hu,Z.,Tong,X.J.& Kaplan,J.M. UNC-13L,UNC-13S,and Tomosyn form a protein code for fast and slow neurotransmiter release in Caenorhabditis elegans.eLife 2, e00967 (2013).   \n38.Deng,L., Kaeser,P.S., Xu,W.& Südhof,T.C.RIM proteins activate vesicle priming byreversing autoinhibitory homodimerization of Muncl3.Neuron 69,317-331 (2011).   \n39.Rose,A.M.& Baillie,D.L.Genetic organization of the region around UNC-15 (l), ageneaffecting paramyosin in Caenorhabditis elegans.Genetics 96，639-648 (1980).   \n40.Zhou,K.,Stawicki,T.M.,Goncharov, A.& Jin,Y.Position of UNC-13 in the active zone regulates synaptic vesicle release probability and release kinetics.eLife 2, e01180 (2013).   \n41.Rosenmund,C.& Stevens, C.F. Definition of the readily releasable pool of vesicles at hippocampal synapses.Neuron 16,1197-1207 (1996).   \n42.Gracheva,E.O.et al.Tomosyn inhibits synaptic vesicle priming in Caenorhabditis elegans.PLoS Biol.4,e261 (2006).   \n43.Hammarlund，M.，Palfreyman，M.T.，Watanabe，S.，Olsen，S.&_Jorgensen，E.M. Open syntaxin docks synaptic vesicles.PLoS Biol.5,el98 (2007).   \n44.Siksou,L.et al.A common molecular basis for membrane docking and functional priming of synaptic vesicles. Eur.J.Neurosci.30,49-56 (2009).   \n45.Weimer,R.M.etal. UNC-13and UNC-1O/rim localize synaptic vesicles to specific membrane domains.J. Neurosci.26,8040-8047 (2006). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ONLINEMETHODS",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recombinant-protein purification.Full-length rat synaptobrevin-2 and its cytoplasmic domain (residues 29-93),full-length rat syntaxin-laand its cytoplasmic domain (residues 2-253),full-length human SNAP-25A(with its four cysteines mutated to serines) and its SNARE motifs (SN1,residues 11-82; SN3,residues 141-203),full-length rat Muncl8-1,squid Muncl8-1,rat Muncl3-1 MUN\\* domain (residues 859-1407,EF,1453-1531),C1-C2B-MUN domain (residues 529-1407,EF,1453-1531),coexpressed Muncl8-1-syntaxin-1,and rat synaptotagmin-1 cytoplasmic domain $\\mathbf { C } _ { 2 } \\mathrm { A B }$ (residues 140-421) were expressed and purified as described previously8,9,13,15,20,25.Recombinant rat Munc13-1 MUN933 (residues 933-1407,EF,1453-1531) was expressed in BL21 Escherichia coli cells as a GST-fusion protein, with a pGEX-KG vector(GE Healthcare).GST-MUN933 was first purified on a glutathione-Sepharose 4B (GE Healthcare) affinity column; this was followed by removal of the GST tag with thrombin overnight at $4 ^ { \\circ } \\mathrm { C }$ Further purification was carried out by successive chromatography steps on a Resource Qanion-exchange column and Superdex-2o0 16/600 column (GE Healthcare). Finally, $\\mathrm { M U N } ^ { 9 3 3 }$ in a buffer containing $2 0 \\mathrm { m M }$ Tris (hydroxymethyl) aminomethane (Tris),pH8.5,150 mMNaCl, $1 0 \\%$ glycerol (v/v) (bufferA) and $5 \\mathrm { m M }$ DL-dithiothreitol (DTT) was concentrated to $9 - 1 0 \\mathrm { m g / m l }$ for crystallization.Mutants and fragments of the MUN domain,including $\\mathrm { M U N } ^ { 9 3 3 }$ NFAA, MUN-ABC (residues 859-1407),MUN-AB (residues 933-1167),MUN-BCD (residues 1011-1407,EF,1453-1531),MUN-BC (residues 1011-1407),and MUN-CD (residues 1148-1407,EF,1453-1531) were expressed,purified and concentrated as described for $\\mathrm { M U N } ^ { 9 3 3 }$ .C1-C2B-MUN NFAA was expressed and purified as described previously25 in insect cells (sf9).Protein concentrations were determined with a UV-visible spectrometer (SHIMADZU UV-2450). All the regents were analytical pure grade. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Protein crystallization and structure determination.Crystals were grown by the hanging-drop vapor-diffusion method at $4 ~ ^ { \\circ } \\mathrm { C }$ Purified tag-free $\\mathrm { M U N } ^ { 9 3 3 }$ at $9 - 1 0 \\mathrm { m g / m l }$ in buffer A and $5 \\mathrm { m M }$ DTT was mixed with an equal volume of precipitant solution containing $1 8 \\mathrm { - } 2 5 \\%$ PEG3350 $\\mathrm { ( v / v ) }$ ,0.1MMES, $\\mathrm { p H } 5 . 8 – 6 . 3$ and 0.2 $\\mathrm { M } \\mathrm { M g } ( \\mathrm { N O } _ { 3 } ) _ { 2 }$ .Full-size crystals were cryoprotected by soaking in harvesting liquor supplemented with $3 0 \\%$ glycerol $\\left( \\mathrm { v / v } \\right)$ before flash cooling in liquid nitrogen.X-ray diffraction data were collected at beamline 19ID(Advanced Photon Source (APS),Argonne National Laboratory).Data were processed with HKL2000 (ref.46).The primary model of the $\\mathrm { M U N } ^ { 9 3 3 }$ was determined by molecular replacement with the MUN-CD (PDB 3SWH29) as a starting model. Molecular replacement was performed with Phaser47.Then a model completion was performed with the pipeline IPCAS (OASIS4.2,available at http://cryst.iphy. $\\mathtt { a c . c n / }$ ),which gave an almost-complete model of the protein. The model was manually improved in $\\mathrm { C O O T ^ { 4 8 } }$ and iteratively refined by Refmac49.In the final model, more than $9 7 \\%$ of residues fellin the favored region in the Ramachandran plot,and the final $R _ { \\mathrm { w o r k } } / R _ { \\mathrm { f r e e } }$ values are 0.212/0.252.Data collection and refinement statistics are listed in Table1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Circular dichroism spectroscopy. $\\mathrm { M U N } ^ { 9 3 3 }$ ,its fragments and the mutant NFAA were diluted to a concentration of $0 . 1 \\mathrm { m g / m l }$ in bufferAand $0 . 1 \\mathrm { m M }$ Tris (2-carboxyethyl) phosphine (TCEP,Sigma-Aldrich).CD spectra were recorded with a JASCO J-810 Spectropolarimeter at $2 5 ^ { \\circ } \\mathrm { C }$ from $2 0 0 \\mathrm { n m }$ to $2 5 0 \\mathrm { n m }$ with a cuvette with $1 \\mathrm { - m m }$ path length.Thermal denaturation was recorded with a MOS-50o Spectropolarimeter (Bio-Logic) at absorption of $2 2 2 { \\mathrm { n m } }$ from $2 5 ^ { \\circ } \\mathrm { C }$ to $9 5 ^ { \\circ } \\mathrm { C }$ at $1 \\mathrm { - m m }$ bandwidth. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Time-based fluorescence resonance energy transfer (FRET） assay.Rat syntaxin-1(residues 2-253,C145S,S249C)and human SNAP-25A SN3 (residues 141-203,S187C) were labeled with tetramethylrhodamine-5-maleimide,single isomer(TMR,Molecular Probes)and BODIPY-FL maleimide(Molecular Probes),respectively.Protein labeling was performed byaddition of 2o-fold molar excess of dyes ina buffer containing $2 0 \\mathrm { m M }$ sodium phosphate,pH7.4, $1 0 0 \\mathrm { m M }$ NaCl (buffer B) and $1 \\mathrm { m M }$ TCEP overnight at $4 ^ { \\circ } \\mathrm { C } .$ Labeled proteins were purified by PD-10 desalting columns (GEHealthcare) ina buffer containing $2 5 \\mathrm { m M }$ 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES),pH7.4, $1 5 0 \\mathrm { m M }$ KCl, $1 0 \\%$ glycerol(v/v) (bufferC)and 2 mMDTT(for BODIPY-FL-labeled SNAP25A SN3) or anion-exchange chromatography (for TMR-labeled syntaxin-1); this was followed by gel filtration in bufer C to remove free dyes.In the reaction,BODIPY-FL-labeled SNAP-25A SN3 was added ata final concentration of ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$2 \\mu \\mathrm { M }$ ,TMR labeled syntaxin-1 (preincubated or not with squid Muncl8) was at $1 0 \\mu \\mathrm { M } .$ and $\\mathrm { M U N ^ { * } }$ 5 $\\mathrm { M U N } ^ { 9 3 3 }$ and its fragments and mutants were at $3 0 \\mu \\mathrm { M }$ Each experiment was repeated at least three times,and FRET efficiency was calculated according to $E = ( F _ { 0 } - F _ { \\mathrm { o b s } } ) / F _ { 0 }$ where $F _ { 0 }$ is the initial fluorescence intensity,and $F _ { \\mathrm { o b s } }$ is the fluorescence intensity measured as a function of time. Because of the limited solubility of rat Muncl8-1,addition of isolated Munc18-1 at concentrations above $2 0 \\mu \\mathrm { M }$ was done with squid Muncl8-1,which is more soluble and has a $6 6 . 4 \\%$ sequence identity with rat Muncl8-1 as well as very similar biochemical properties15. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Native gel assay.The reactions were initiated byaddition of purified Muncl8-1 and syntaxin-1 (residues 2-253)with a protein/protein ratio of1.2:1; they were then incubated with synaptobrevin-2 (residues 29-93),SNAP-25Aand excess of $\\mathrm { M U N } ^ { 9 3 3 }$ or its mutants at room temperature for $^ { 2 \\mathrm { h } }$ .Nondenaturing gels were prepared with $1 5 \\%$ (w/v) polyacrylamide (acrylamide/bisacrylamide,29:1) for the resolving gel and $4 \\%$ (w/v) for the stacking gel.The electrophoresis buffer was composed of $2 5 \\mathrm { m M }$ Tris, $2 5 0 \\mathrm { m M }$ glycine, $\\mathrm { p H } 8 . 3$ .Approximately ${ 5 \\mu \\mathrm { l } }$ of each reaction sample was loaded per well and subjected to electrophoresis overnight at $4 ^ { \\circ } \\mathrm { C }$ at $8 0 \\mathrm { V } .$ The complex of Muncl8-1with syntaxin-1(Muncl8-Syx) displays sharp and clear bands in native gels,whereas other proteins or complexes show smeared bands.Each reactionwas repeated atleast three times,and the quantification of the Muncl8-Syx bands was obtained by Image J(NIH). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lipid-mixing and content-mixing assays.Proteoliposomes were prepared with established procedures25.Donor (synaptobrevin- $\\mathbf { \\nabla } \\cdot 2 , \\mathbf { v } -$ )liposomes contained $6 0 \\%$ POPC, $1 7 \\%$ POPE and $2 0 \\%$ DOPS.Acceptor (Muncl8-1-syntaxin-1,t-) liposomes contained $5 8 \\%$ POPC, $1 5 \\%$ POPE, $2 0 \\%$ DOPS, $2 \\%$ PIP2 and $5 \\%$ DAG. (All phospholipids were purchased from Avanti Polar Lipids.) Lipid mixtures were dried in glass tubes with nitrogen gas and subjected to vacuum for at least $^ { 5 \\mathrm { ~ h ~ } }$ .Lipid films were resuspended in buffer C with $1 \\ \\mathrm { m M }$ DTT and $1 \\%$ 3-[(3-cholamidopropyl) dimethylammonio] propanesulfonate (CHAPS) $( \\mathrm { w } / \\mathrm { v } ,$ Amersco) and vortexed for $1 5 \\mathrm { m i n }$ Purified proteins in bufferC containing $1 \\%$ CHAPS $\\scriptstyle \\left( \\mathbf { w } / \\mathbf { v } \\right)$ were added slowly to micelles at a final concentration of $5 \\mathrm { m M }$ total lipids.The protein/lipid ratio for v-liposomes was about l:5oo,whereas the protein/lipid ratio for t-liposomes was about 1:1,0oo.The liposome-protein mixtures were incubated at room temperature for $3 0 \\mathrm { m i n }$ this was followed by dialysis against buffer C and $1 \\mathrm { m M }$ DTT, $1 \\mathrm { g / L }$ Bio-Beads SM2 (Bio-Rad) three times at $4 ~ ^ { \\circ } \\mathrm { C }$ in order to remove the detergent extensively.For lipid-mixing assays,v-liposomes $\\mathrm { \\Omega } 0 . 2 5 \\mathrm { m M }$ total lipids) containing $1 . 5 \\%$ NBD-PE and $1 . 5 \\%$ rhodamine-PE were mixed with t-liposomes ( $\\mathrm { i } 0 . 5 \\mathrm { m M }$ lipids) in the presence of ${ \\sim } 0 . 5 { - } 1 . 0 { \\mu } \\mathrm { M }$ C1-C2B-MUN(M13)or C1-C2B-MUN NFAA(M13 NFAA), ${ 5 \\mu \\mathrm { M } }$ SNAP-25A, $2 \\mu \\mathrm { M }$ $\\mathrm { C } _ { 2 } \\mathrm { A B }$ fragment (residues 140-421) and/or $0 . 5 \\mathrm { m M } \\mathrm { C a } ^ { 2 + }$ (as indicated in the figures)ina total volume of $6 0 \\mu \\mathrm { l }$ NBD fluorescence emission at $5 3 8 \\mathrm { n m }$ (excitation $4 6 0 \\mathrm { n m }$ )was monitored with aPTI QM-40 spectrofluorometer. For content-mixing assays,v-liposomes were dissolved in buffer C containing $1 \\% \\mathrm { w / v } \\beta$ -OGand $4 0 \\mathrm { m M }$ sulforhodamine B (Sigma),purified fulllength synaptobrevin-2 in buffer containing $1 \\% \\mathrm { w / v \\beta }$ -OG was added to the lipid mixtures to make the final concentration of lipids $2 \\mathrm { m M }$ and the $\\mathrm { P / L }$ ratio 1:500. The proteoliposome was first dialyzed in small volume in buffer C containing $4 0 ~ \\mathrm { m M }$ sulforhodamine B; this was followed by dialysis in buffer Ccontaining $\\mathrm { 1 \\ m M }$ DTTand $1 \\mathrm { g / L }$ Bio-Beads three times at $4 ^ { \\circ } \\mathrm { C }$ (two times for $^ { 2 \\mathrm { h } }$ and one time overnight).To remove remnant detergents,t-liposomes were prepared with the same method described for the lipid-mixing assays.Content mixing was monitored as described for the lipid-mixing assays by measurement of dequenching of sulforhodamine B (excitation at $5 6 5 ~ \\mathrm { n m }$ ,emission at $5 8 7 \\mathrm { n m }$ ).Thedata were analyzed and quantified as described above for the lipid-mixing assays. All experiments were performed at $3 0 ^ { \\circ } \\mathrm { C }$ at least three times.At the end of each reaction, $1 \\%$ CHAPS $\\scriptstyle \\left( \\mathbf { w } / \\mathbf { v } \\right)$ was added to solubilize the liposomes.For moreconsistent results,the time traces were converted to $F _ { \\mathrm { o b s } } / F _ { 0 }$ where $F _ { \\mathrm { o b s } }$ is the observed fluorescence intensity,and $F _ { 0 }$ is the initial intensity. The $F _ { \\mathrm { o b s } } / F _ { 0 }$ value observed upon detergent addition for an entire set of experiments was averaged. This average was finally used to normalize all the traces to display the data as a percentage of maximum fluorescence.The relative efficiencies resulting from different additions were reproducible in separate sets of experiments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Liposome coflotationassay.Muncl8-1-syntaxin-1,syntaxin-1 and syntaxin1-SNAP-25 liposomes containing PC/PE/PS $( 6 0 \\% ; 2 0 \\% ; 2 0 \\% )$ ）withaprotein/ lipid $\\left( \\mathrm { P / L } \\right)$ ratio of 1:8o0 were prepared with the same method described for the liposome-fusion assays.The liposomes ( $3 . 5 \\mathrm { m M }$ total lipids) were incubated with $1 0 \\mu \\mathrm { M } \\mathrm { M } \\mathrm { U N } ^ { 9 3 3 }$ or $\\mathrm { M U N } ^ { 9 3 3 }$ NFAA for $^ { 3 \\mathrm { h } }$ a $1 6 ^ { \\circ } \\mathrm { C }$ The proteoliposomes and bound proteins were isolated by flotation on a Histodenz density gradient $( 4 0 \\% ; 3 5 \\% ; 3 0 \\% )$ ),as previously described25.Samples on the top $( 4 0 \\mu \\mathrm { l } )$ were taken and analyzed by SDS-PAGE and Coomassie blue staining. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Strains.Strain maintenance and genetic manipulation were performed as previously described50.Worms were cultivated at $2 0 ~ ^ { \\circ } \\mathrm { C }$ on agar nematode growth medium seeded with OP50 bacteria.The following strains were used in this study: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wild type,N2 bristol   \nunc-13(s69)   \nEx[Psnb-1::UNC-13S]; unc-13(s69)   \nEx [Psnb-1:: UNC-13S NFAA]; unc-13(s69)   \nST422,zxIs6 [Punc-17:: chop-2(H134R):: YFP;LIN-15]   \nzxIs6[Punc-17::chop-2(H134R) $\\because$ YFP;LIN-15]; unc-13(s69)   \nEx[Psnb-1:: UNC-13S]; zxIs6 [Punc-17:: chop-2(H134R):: YFP; LIN-15]; unc-13(s69)   \nEx [Psnb-1:: UNC-13S NFAA]; zxIs6 [Punc-17:: chop-2(H134R):: YFP; LIN-15]; unc-13(s69) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Transgenic strains were isolated by microinjection of various plasmids with Plin-44::GFPas coinjection markers.Plasmid encoding UNC-13S was a gift from J. Kaplan's laboratory,as previously described37.For UNC-13SNFAA,amino acid coordinates corresponding to residues Asn1l28 and Phel131of Muncl3-1 were mutated to alanines in UNC-13ScDNA.For electrophysiological recordings and locomotion behavior assays,transgenes were expressed by the snb-1 promoter. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Locomotion and behavior assays.Worm trackingand analysis were performed as previously described51.Briefly,worms were reared at $2 0 ~ ^ { \\circ } \\mathrm { C }$ and moved to room temperature $3 0 \\mathrm { m i n }$ before imaging. Young-adult animals were randomly picked to agar plates with no bacterial lawn (30 worms per plate).Forlocomotion assays,worms were randomly picked,and locomotionwas analyzed $1 0 \\mathrm { m i n }$ after the worms were removed from food.A WAT-902H2 camera (Automatic System, Inc.）was used to capture high-contrast dark-field images of the assay plates. The behavior movies were taped at $1 \\times$ magnification with a ZEISs V8 microscope at $2 5 ~ \\mathrm { H z }$ .These datawere analyzed automaticallybya home-writtenobjecttracking plugin in ImageJ (http://imagej.nih.gov/ij/).Locomotion speed and the 30-s crawling trail were determined by Image plugin. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Electrophysiology.Electrophysiology assays were performed at the neuromuscular junctions of dissected C.elegans under an Olympus microscope (BX51WI) with an EPC-1O amplifier and Patchmaster software (HEKA),as previously described52,53. Recording pipettes were pulled from borosilicate glass capillaries (Sutter Instruments) to a resistance of $3 { - } 4 \\mathrm { M } \\Omega$ on a P-97 micropipette puller (Sutter Instruments).Day2 worms were glued on the surface of Sylgard-coated coverslipswith cyanoacrylate-based glue.A dorsolateral incision was made with sharp glass pipettes,and a cuticle flap was then folded and glued down to the coverslip to expose the body-wall muscles.The preparation was treated bycollagenase typeIV(Sigma-Aldrich) for 30 s ata concentration of $0 . 4 \\mathrm { m g / m l }$ at $2 0 ~ ^ { \\circ } \\mathrm { C }$ 、The bath solution contained $1 2 7 ~ \\mathrm { m M }$ NaCl, $5 ~ \\mathrm { m M }$ KCl, $2 6 ~ \\mathrm { m M }$ ${ \\mathrm { N a H C O } } _ { 3 }$ $1 . 2 5 \\mathrm { m M } \\mathrm { N a H } _ { 2 } \\mathrm { P O } _ { 4 } , 2 \\mathrm { m M } \\mathrm { C a C l } _ { 2 } .$ 4mM $\\mathrm { M g C l } _ { 2 }$ and $1 0 \\mathrm { m M }$ glucose 中 $3 2 5 { - } 3 3 5 \\mathrm { m O s m }$ 0 $\\mathrm { p H } 7 . 3$ ).The pipette solution contained $1 2 0 \\mathrm { m M }$ $\\mathrm { C H } _ { 3 } \\mathrm { O } _ { 3 } \\mathrm { S C s }$ $4 \\mathrm { m M }$ CsCl, $1 5 \\mathrm { m M }$ CsF, $4 \\mathrm { m M }$ $\\mathrm { M g C l } _ { 2 }$ $5 \\mathrm { m M }$ EGTA, $0 . 2 5 \\mathrm { m M } \\mathrm { C a C l } _ { 2 }$ $1 0 ~ \\mathrm { m M }$ HEPES and $4 ~ \\mathrm { m M }$ ${ \\mathrm { N a } } _ { 2 } { \\mathrm { - A T P } }$ (315-325 mOsm, $\\mathrm { p H } 7 . 2 \\$ ).Membrane potential was clamped at $- 6 0 \\mathrm { m V } .$ The ZXIS6 strain,in which light-gated cation channel channelrhodopsin-2(ChR2)-YFP was expressed in cholinergic neurons,was used for recording evoked $\\mathrm { E P S C s } ^ { 5 4 }$ .All-trans retinal was added to the NGM plates at a final concentration of $2 . 5 \\mu \\mathrm { M }$ to mediate light stimulation of ChR2.L4 worms were transferred to NGM plates containing all-trans retinal,and next-generation hermaphrodite adults were used.For depletion of the readily releasable pool the $0 . 5 { \\mathrm { ~ M ~ } }$ sucrose in bath solution was applied to the ventral nerve cord near the recorded muscles by an IM-3o0 microinjector(Narishige) with 8 psi for 5 s (ref.4O). Signals were filtered at $2 \\mathrm { k H z }$ ,sampled at $2 0 \\mathrm { k H z } ,$ andanalyzed withIGORPro (Wavemetrics). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.Statistical significance was determined by two-tailed Student's t tests.Experimental data meet the assumptions of normal distribution.For behavior and electrophysiology assays of worms,the sample size was chosen on the basis of previous studies37,40 with no inclusion/exclusion criteria. The variances were similar between the groups being statistically compared. The investigators were not blinded to the group allocation during the experiments and data analysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "46.Otwinowski，Z.& Minor，W. Processing of X-ray diffraction data collected in oscillation mode.Methods Enzymol.276,307-326 (1997).   \n47.McCoy，A.J．et al.Phaser crystallographic software．J.Appl．Crystallogr.40, 658-674 (2007).   \n48.Emsley，P.，Lohkamp,B.，Scott,W.G.& Cowtan，K.Features and development of Coot.Acta Crystallogr.D Biol.Crystallogr.66,486-501 (2010).   \n49.Vagin,A.A.et al.REFMAC5 dictionary:organisation of prior chemical knowledge and guidelines for its use.Acta Crystallogr.D Biol.Crystallogr.60,2184-2195 (2004).   \n50.Brenner,S.The genetics of Caenorhabditis elegans.Genetics 77,71-94 (1974).   \n51.Yue,Y.et al.The CCl-FHA dimer is essential for KIF1A-mediated axonal transport of synaptic vesicles in C.elegans.Biochem. Biophys.Res.Commun.435,441-446 (2013).   \n52.Richmond，J.E.& Jorgensen，E.M.One GABA and two acetylcholine receptors function at the C.elegans neuromuscular junction.Nat. Neurosci.2，791-797 (1999).   \n53.Kang,L.,Gao,J.,Schafer,W.R.,Xie,Z.& Xu,X.Z.C.e/egans TRP family protein TRP-4 is a pore-forming subunit of a native mechanotransduction channel. Neuron 67,381-391 (2010).   \n54.Liewald,J.F.et al. Optogenetic analysis of synaptic function．Nat.Methods 5, 895-902 (2008). ",
+        "page_idx": 9
+    }
+]

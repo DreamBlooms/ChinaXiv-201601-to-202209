@@ -1,0 +1,142 @@
+# 基础研究
+
+# TALEN介导的MYH9基因沉默及对细胞周期与凋亡的影响
+
+朱显军,邓海军，叶耿泰,沈智勇，李风萍,郭伟洪,杨庆斌,刘 浩,李国新南方医科大学南方医院普外科，广东广州 510515
+
+摘要：目的 利用TALEN技术敲除人胃癌细胞系MGC803细胞株MYH9基因，观察MYH9基因沉默后细胞周期及凋亡改变。方法根据斯丹赛FastTALETMTALEN试剂盒说明书,设计并构建靶向MYH9基因的TALEN质粒对。通过质粒转染、DNA测序、RT-PCR和Westerm blot等检测质粒活性,成功挑取MYH9基因敲低单克隆株,并对构建好的细胞株进行周期和凋亡检测。结果成功挑选的MGC803单克隆细胞株未检测到MYH9基因完全敲除；MYH9基因敲低后,MGC803细胞周期受阻于G2/M期 $( P { < } 0 . 0 5 )$ ，早期凋亡增加( $P { < } 0 . 0 5 )$ 。结论利用TALEN技术成功构建MGC803细胞MYH9基因敲低单克隆株，该模型有助于后期深入探讨胃癌MYH9基因功能。
+
+关键词:TALEN技术;MYH9;细胞周期;细胞凋亡
+
+# TALEN-mediated MYH9 Knock-down and its influence on cell cycle and apoptosis of MGC803 cell line
+
+ZHU Xianjun,ENGHaijun,YEGengtai,HENZiong,LIFengping,GUOWeihong,YANGQingbin,UHao,Guoin DepartmentofGeneral urgery,NnfangHospital,SouthernedicalUniversity,Guangzhou5o515,ina
+
+Abstract:ObjectiveToconstructaMYH9geneknockoutmodelinMGC803cellineusingtranscriptionactivator-likeeector nuclease (TALEN)and observe its efect on cell cycle and apoptosis.Methods Acording to FastTALEM TALEN Kit, we designed TALEN pairs and constructed the plasmids targeting to MYH9 gene. After detecting their activity in MGC803cels by plasmidtransfection,DNAsequencing,RT-CRand westernblot,weselectedthemonclonalcellsandstudiedthechanges in the cell cycleand apoptosis.Results MYH9 gene could not be knocked out but knocked down in selected MGC803 monoclonal cells, which caused cell cycle arrested at $\mathbf { G } 2 / \mathbf { M }$ phase $( P { < } 0 . \ 0 5 )$ and a significant increase in the cell number with early apoptosis $( P { < } 0 . \ 0 1 )$ . Conclusion We successfully generated a MYH9 knockdown model in MGC803 cellines by TALEN, which could be in favor of MYH9 function study in gastric cancer.
+
+Key words: transcription activator-like effector nuclease; MYH9 gene; cell cycle; cell apoptosis
+
+胃癌是全世界常见的恶性肿瘤之一。据统计，2012年全世界约有95.16万胃癌新增病例，72.31万胃癌死亡病例[。尽管现代诊疗技术不断发展，胃癌仍是世界性难题,发生发展机制有待进一步深入。前期我们通过蛋白组学技术筛选6例晚期胃癌患者肿瘤原发灶、腹膜转移灶及相应胃正常上皮间表达差异的蛋白质，发现非肌细胞肌球蛋白重链MYH9(myosin,heavy chain9,non-muscle)基因在胃癌组织中表达上调,并与胃癌患者生存预后相关[2]。MYH9参与细胞的极性形成、收缩、迁移、细胞分裂等过程[3,它与许多疾病的发生有关，如遗传性血小板减少症、疱疹病毒感染及胚胎发育等[4]其在诸多实体肿瘤中表达异常,在胃癌5]、结肠癌、食管癌及乳腺癌8中促进肿瘤的发生与发展，而在头颈部鳞癌中扮演抑癌角色，并与预后呈正相关。作为潜在的治疗靶点及预后指标，MYH9如何影响胃癌细胞生物学行为是我们后续的分子机制研究重点。获得可靠的基因敲除细胞模型是深入研究特定基因功能的有力保证。随着分子生物学相关技术的不断发展，基因编辑技术不断涌现并改进，本研究选用效果稳定可靠的类转录激活因子效应物核酸酶(TALEN)技术构建MGC803胃癌细胞系MYH9基因沉默单克隆株模型，并初步检测MYH9沉默后细胞周期改变及凋亡情况，为进一步探索MYH9分子机制提供可靠模型及潜在研究方向，为胃癌的分子靶向治疗提供潜在的治疗靶点。
+
+# 1 材料和方法
+
+# 1.1 材料
+
+人胃癌细胞MGC803由南方医科大学南方医院消化内科实验室保存。TALEN质粒构建试剂盒购自上海斯丹赛公司;RMPI1640 培养基、胎牛血清及胰蛋白酶购自Hyclone;Fugene转染试剂购自Roche;卡那霉素购自GIBCO；LipofectamineTM 300O 转 染 试剂购自Solarbio;无内毒质粒小提试剂盒(EZgeneTMEndoFreePlasmidMiniprepKit)购自美国Biomiga;质粒中提试剂盒(QIAGENPlasmidMidiKit)购自德国QIAGEN;兔抗人MYH9、GAPDH多克隆抗体购自Proteintech;总RNA 提取试剂RNAisoTM Plus、RNA逆转录试剂PrimeScriptTM RT Master Mix、real-time PCR 试剂$\operatorname { S Y B R } ^ { \textregistered }$ Premix Ex TaqTMII、MYH9及GAPDH引物均购自日本Takara;细胞周期试剂盒购自凯基生物;细胞调亡试剂盒购自联科生物；其余化学试剂为国产分析纯产品。
+
+# 1.2 方法
+
+1.2.1细胞培养胃癌细胞MGC803用含 $10 \%$ 胎牛血清的RMPI1640培养基培养,孵箱条件为 $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 饱和湿度，细胞长满时胰蛋白酶消化传代，细胞状态良好时用于实验。
+
+# 1.2.2TALEN质粒左右臂构建
+
+1.2.2.1TALEN左右臂识别位点的选择根据TALEN识别位点的标准，我们根据MYH9基因序列设计了左、右臂打靶序列，左臂序列L为：5'-GTGGTCATCAATCCTTA-3'，右臂序列R为:5'-CCACAATCTCTTCAGAGT-3'
+
+1.2.2.2TALEN的模块式组装按照设计好的左、右臂识别序列，在试剂盒的模块中选择对应编号的模块将其集中到一个PCR管并混匀，放置于PCR仪中反应约 $4  { \mathrm { h _ { \circ } } }$ 1.2.2.3涂板、挑单克隆、摇菌将在PCR仪中反应后的产物转化大肠杆菌，均匀涂布于卡那霉素抗性 $\left( \mathrm { K a ^ { + } } \right)$ 的平板中，置于 $3 7 ~ \mathrm { ^ { \circ } C }$ 培养箱中培养 $1 2 { \sim } 1 6 \mathrm { ~ h ~ }$ ；次日挑取单克隆，将单克隆接种于装有 $5 ~ \mathrm { m L }$ LB培养液（含 $\mathrm { K a } ^ { + }$ 的$1 5 ~ \mathrm { m L }$ 离心管中置于 $3 7 \mathrm { ^ { \circ } C } , 2 5 0 \mathrm { \ r / m i n }$ 的摇床中培养 $1 6 \mathrm { h }$ 左右。
+
+1.2.2.4质粒抽提、酶切并测序用常规无内毒质粒小提试剂盒进行质粒抽提，并进行 $B a m \mathrm { ~ H ~ I ~ } { + } P s t \mathrm { ~ I ~ }$ 双酶切鉴定，并将酶切鉴定条带位置正确的质粒送测序，引物为：5'-GGGAGGATCTTCACTTACAGGGCAG-3'和 5'-AACATGTCCTCTGGATAGCCACTGG-3'。测序结果在NCBIBLAST中比对，最终确定左右臂质粒是否正确。
+
+# 1.2.3TALEN质粒活性检测
+
+1.2.3.1中提质粒、转染用质粒中提试剂盒抽提 TALEN正确质粒，得到高浓度高纯度的TALEN质粒;
+
+转染前1d将MGC803细胞传至6孔板中， $1 6 { \sim } 1 8 \mathrm { h }$ 内密度达到 $6 0 \% { \sim } 8 0 \%$ 即可进行转染，将TALEN左右臂质粒各 $2 ~ { \mu \mathrm { L } } { + } 0 . 5 ~ { \mu \mathrm { L } }$ $\operatorname { E G F P + 5 } \mu \mathrm { L }$ Lipofectamine 300o 混合孵育并均匀加至MGC803细胞中，轻摇混匀后置于$3 7 ^ { \circ } \mathrm { C }$ 孵箱，次日观察转染效率。
+
+1.2.3.2药筛、提取基因组DNA并送测序设置不同的Puromycin浓度梯度进行药物筛选，选择最合适的药物浓度筛选转染细胞;细胞培养一段时间后，收集药筛后的存活细胞提取基因组DNA并送测序。
+
+1.2.3.3挑单克隆连接T载体并测序根据DNA测序结果，选择有多个套峰的质粒对转染的细胞挑单克隆，收集细胞提取DNA测序，得到双套峰图，将单克隆株PCR产物连接T载体测序，确定各单克隆细胞株打靶位置的碱基序列。
+
+1.2.4利用TALEN质粒建立MGC-803细胞系将鉴定得到的MYH9基因敲低单克隆细胞株扩增、保存，胃癌细胞MGC803MYH9基因敲低单克隆细胞株稳转系建立成功。
+
+1.2.5提取MYH9基因敲低单克隆细胞株总RNA进行RT-PCR验证根据试剂说明书，提取野生型和挑选的四个单克隆细胞株总RNA,以PrimeScriptTMRTMasterMix制备cDNA,具体反应体系：RNA样品 $0 . 5 ~ \mu \mathrm { g } , 5 \times$ PrimeScriptRTMaster Mix $2 ~ \mu \mathrm { L }$ ，最后加DEPC水至$1 0 \mu \mathrm { L } , \mathrm { P C R }$ 扩增仪反应，条件为 $: 3 7 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ } 1 5 \mathrm { ~ m i n } , 8 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ } 5 \mathrm { ~ s ~ }$ ，$4 ^ { \circ } \mathrm { C }$ 保存，逆转录反应产物分别加入 $4 0 ~  { \mu \mathrm { L } }$ DEPC水稀释5倍后用于RT-PCR。选择 $\operatorname { S Y B R } ^ { \textregistered }$ Green进行RealTime PCR的操作方法,条件为：预变性 $9 5 ^ { \circ } \mathrm { C } , 3 0 \ \mathrm { s } ; \mathrm { q P C R }$ 扩增共40个循环(变性 $9 5 ~ \mathrm { ^ { \circ } C } , 5 ~ \mathrm { s }$ 退火 $6 0 \ \mathrm { { ^ circ C } , 2 0 \ { s } }$ 。
+
+1.2.6提取MYH9基因敲低单克隆细胞株蛋白进行Westernblot验证提取细胞蛋白并测浓度， $10 \%$ SDS-PAGE电泳分离蛋白质后，转蛋白至PVDF膜， $5 \%$ BSA室温封闭1h;相应一抗 $( 1 : 2 0 0 0 ) 4 ~ \mathrm { ^ { \circ } C }$ 下摇床孵育过夜，TBST清洗 $1 0 \ \mathrm { m i n } \times 3$ 次，二抗以 $1 : 3 0 0 0$ 稀释，室温孵育1h，TBST清洗 $1 0 \mathrm { m i n } \times 3$ 次；GAPDH为内参，SynGene显影仪显影。
+
+1.2.7细胞周期实验收集MYH9基因敲低单克隆细胞株和野生型MGC803细胞株，以MGC803为对照组，用PBS洗涤细胞1次 $( 2 0 0 0 \mathrm { r / m i n } , 5 \mathrm { m i n } )$ 收集并调整细胞浓度为 $1 { \times } 1 0 ^ { 6 } / \mathrm { m L }$ ，取 $1 \mathrm { m L }$ 单细胞悬液离心去上清，加入$70 \%$ 乙醇 $5 0 0 ~ \mu \mathrm { L }$ $4 \mathrm { { ^ \circ C } }$ 固定过夜，PBS洗去固定液后加$1 0 0 ~ \mu \mathrm { L }$ RNase A $3 7 ~ \mathrm { ^ { \circ } C }$ 水浴 $3 0 ~ \mathrm { m i n }$ ，再加入 $4 0 0 ~  { \mu \mathrm { L } }$ PI染色混匀， $4 \mathrm { { ^ { \circ } C } }$ 避光 $3 0 \mathrm { m i n }$ 后上机检测。
+
+1.2.8细胞凋亡实验收集MYH9基因敲低单克隆细胞株和野生型MGC803细胞株，以MGC803为对照组，冷PBS洗2次，用 $1 \times$ bindingbuffer调整细胞浓度为 $1 \times$ $1 0 ^ { 6 - 7 } / \mathrm { m L }$ ，取 $1 0 0 ~ \mu \mathrm { L }$ 细胞悬液,加入 ${ 5 \mu \mathrm { L } }$ V-APC和 $1 0 ~ \mu \mathrm { L }$
+
+7-AAD,混匀，冰上避光孵育 $1 5 \mathrm { m i n }$ ，加 $3 8 0 ~ \mu \mathrm { L }$ 冷的 $1 \times$ bindingbuffer后上机检测。
+
+1.2.9统计学方法应用GraphPadPrism5软件分析，两样本之间采用独立样本t检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1构建TALEN质粒左右臂
+
+根据说明书构建质粒双酶切，电泳鉴定结果示左右臂被酶切后的片段数目和大小与预期相符(图1)。测序后得到正确的左右臂质粒。
+
+![](images/0b99b7ea19f229883c0fd0d7dbdffee159e67076d39e0fa0a3b834e0db2922af.jpg)  
+图1敲除MYH9基因的左、右臂质粒酶切图 Fig.1 Enzyme digestion results of the plasmids for knocking out the left and right arms of MYH9 gene.M:Marker.1:Plasmid of the right arm; 2: BamHI and Pst I double enzyme digestion of the right arm;3:Plasmid of the left arm; 4:BamHI and Pst I double enzyme digestion products of the left arm.bp: base pairs.
+
+# 2.2转染细胞并测活性
+
+将设计正确的左右臂质粒按1：1组合用Lipofectamine3000转染胃癌MGC803细胞，嘌呤霉素$( 2 ~ \mu \mathrm { g / m L }$ )药筛后剩余细胞提取DNA、PCR扩增并测序鉴定(图2)，出现多个套峰说明该质粒组合有活性。
+
+# 2.3筛选阳性克隆并成功构建MYH9基因敲低单克隆细胞株
+
+将出现多个套峰的细胞株挑单克隆株传代(共挑选到3\~4个单克隆株)，收集细胞提取DNA测序，得到双套峰图(图3A)说明是成功挑选出的单克隆株，将单克隆株PCR产物连接T载体测序发现运用TALEN技术敲除胃癌细胞系MYH9基因效果不明显，仅能得到基因敲低的单克隆细胞株，即同源染色体有一条是野生型或虽两条染色体均有片段缺失但缺失的碱基数至少一条是3的倍数(图3B)，将测序正确的MYH9基因敲低单克隆细胞株扩增，成功构建MYH9基因敲低单克隆细胞株。
+
+![](images/1bb7174d7440cafc8c39b5d13b07a6cb1a2a4763077fb4162f9dd81beb1d2426.jpg)  
+图2PCR产物测序确定质粒活性 Fig.2 The sequences of PCR products to test plasmidsactivity.
+
+![](images/cdadb0736b0765293f5390cb9cb14d78b79f5aba9b081ad372ed21e122932f05.jpg)  
+图3测序鉴定MYH9基因敲低单克隆株  
+Fig.3 DNA sequence analysis for identification of MYH9 gene knockdown in the monoclonal cells.A: DNA sequences of monoclonal cell lines.B:Alignment of the sequences of mutated and wild-type MYH9 at the TALEN target sites. The number of deleted nucleotides (dashes) was marked on the right end of each sequence.
+
+# 2.4荧光定量PCR和Westernblotting验证MYH9基因敲低单克隆细胞株
+
+使用RT-PCR检测MGC803单克隆细胞株的MYH9mRNA表达(采用 $2 ^ { - \triangle \triangle \mathrm { { c t } } }$ 值进行两独立样本 $t$ 检验），结果示：挑选的单克隆MGC803-1,2,4细胞株MYH9mRNA的表达量明显低于野生型（ $( P { < } 0 . 0 0 1 )$ ；而MGC803-3细胞株与野生型细胞株MYH9mRNA的表达量未见明显差异( $scriptstyle { \overbrace { P { = } 0 . 1 4 } }$ ,图4A）。选用敲低效果最明显的MGC803-1进一步在蛋白水平验证，我们发现 $\mathrm { M G C 8 0 3 - 1 \ M Y H 9 }$ 基因敲低单克隆细胞株中MYH9的表达明显低于野生型对照组(图4B)。以上实验结果表明成功构建了MYH9基因敲低的MGC803细胞株。
+
+![](images/ab0a8e759a7e8a5a4dd71667fb6f99056fac4cafd4f9bc5bf1a3f08f82a94610.jpg)  
+图4Real timePCR和Westernblot检测MYH9基因的表达 Fig.4Expression of MYH9 detected by real-time PCR(A) and Western blotting $( B )$ in MGC803 cells.MGC803-1,2,3 and 4 represent different monoclonal cell lines.WT: Wild-type.NS: Not significant. $* * * P { \mathrm { < 0 . 0 0 1 } }$ ：
+
+# 2.5MYH9基因敲低后抑制细胞周期
+
+将构建成功的MYH9基因敲低单克隆细胞株MGC803-1与野生型MGC803分为实验组和对照组，分
+
+别收集细胞固定过夜进行流式细胞周期检测，结果显示(图5)：相比对照组，MYH9基因敲低后细胞受阻于G2/M期 $P { = } 0 . 0 2 4 )$ ，不能进入M期进行正常的有丝分裂，
+
+![](images/e0ab07f4a11fb4530c416d8acf3be336ed9024af1a0214865fcbb20e65869873.jpg)
+
+# 2.6MYH9基因敲低后促进细胞早期调亡
+
+将MYH9基因敲低细胞株MGC803-1和野生型MGC803分为实验组和对照组，分别收集细胞进行流式细胞凋亡检测，结果显示(图6)：相比对照组，MYH9基因敲低后，早期凋亡细胞数目明显增加( $scriptstyle { \overbrace { P { = } 0 . 0 1 } }$ ，差异有统计学意义。
+
+# 3讨论
+
+细胞特定基因表达沉默一般通过RNA干扰(RNAi)技术在转录后水平实现。RNAi干扰分瞬时转染和稳定转染：瞬时转染的干扰片段不整合到宿主染色体中，干扰效果持续时间短，适合短期观察;稳定转染的干扰片段一般整合到宿主染色体中，但整合具有随机性，可能破坏某些重要基因的表达。
+
+![](images/ee29b7851068cfeb794cafd6a40d967a4de6c5acb2db62601dddd6de49f272b4.jpg)  
+图6MYH9基因敲低对细胞凋亡的影响 Fig.6Effect of MYH9 gene knockdown on apoptosis of MGC803cels detected by Annexin APCand 7AADona flow cytometer. A: Control group;B: The percentage of early apoptotic cells obviously increased compared with the control group; C: Quantification of the percentage of early apoptotic cells.
+
+基因编辑技术是在基因水平精确实现对特定位点的剪切和诱发细胞自主修复，可高效、稳定和精准地实现对特定基因的表达沉默。常用的基因编辑技术包括锌指核酸酶(ZFN)技术,类转录激活因子效应物核酸酶(TALEN)技术和成簇的规律间隔的短回文重复序列(CRISPR/Cas9)技术。ZFN技术筛选复杂、成本过高限制了其在细胞实验中的应用[]。相比之下,TALEN技术相对廉价，操作更为灵活。然而，TALEN质粒构建繁琐限制了其推广。近年来，随着TALEN质粒构建试剂盒的商品化，复杂的TALEN质粒构建变得更为简单、易于实验室人员操作。此外，未采用操作更为简单、近期大放异彩的CRISPR/Cas9技术主要考虑到实验初期Cas9技术尚不成熟，“脱靶"效应有待改善。因此，我们最终使用更为成熟的TALEN技术进行MYH9基因编辑。
+
+MYH9作为细胞中重要的骨架蛋白相关基因，编码ⅡA型非肌细胞肌球蛋白(NMⅡA)的重链(NMMHCⅡIA),与调节轻链MLC20、肌动蛋白β-actin等通过影响细胞极性形成、收缩及粘附等过程促进肿瘤细胞浸润转移[10]。近年来，有研究发现骨架蛋白除作为细胞质收缩相关蛋白,还可在核内参与基因转录[1-12]。2009年，有研究发现平滑肌肌球蛋白重链MHC(编码基因MYH11)与肌动蛋白在小鼠结肠平滑肌细胞核内表达；MHC通过轻链MLC20识别细胞间粘附分子-1(ICAM-1)核心启动子区的AGCTCC（-39/-34)，同时与有RNAPⅡ招募功能的肌动蛋白结合，三者一起结合于ICAM-1启动子区,促进该基因转录[13]。2015年,有研究发现心肌缺血/再灌注损伤发生后，MLC20通过识别黄嘌呤氧化酶启动子区GTCGCC促进该基因转录从而增加心肌的氧化应激水平[14]。MYH9作为骨架蛋白是否和上述蛋白一样存在核定位及基因表达调控能力？通过建立该模型，有助于明确该问题，并为后续在转录组水平研究MYH9表达相关基因、深入了解MYH9核内功能奠定基础。
+
+本研究在挑选MGC803胃癌细胞单克隆株时发现,单克隆细胞株同源染色体上的MYH9基因靶向编辑位点碱基序列存在一定特点：同源染色体上的等位编辑位点若有一条缺失/插入的碱基数是非3倍数，另一条只会是野生型或缺失/插入的碱基数为3的倍数，即有一条染色体可以表达正常的MYH9蛋白，仅能得到基因敲低细胞株。鉴于有研究发现，MYH9基因敲除小鼠胚胎细胞间粘附减弱和功能性脏壁内胚层形成障碍，在胚胎第6.5天原肠胚形成之前就会死亡[15-16],考虑MYH9是细胞生存的关键基因之一，完全敲除对细胞株和胚胎发育有致死性。作为细胞骨架蛋白成员之一[17],MYH9基因缺失引起的致死现象提示其可能存在异于其它家族成员的功能。因此，本研究初步对MYH9基因敲低细胞株进行了凋亡及周期等细胞生物学行为检测。结果发现，MYH9基因敲低后的细胞G2峰明显上调(图5B),提示细胞周期受阻于G2/M期，考虑MYH9作为细胞内重要的骨架蛋白，参与分裂过程内在动力的产生，与细胞有丝分裂相关[18-19]。流式细胞凋亡实验发现MYH9基因敲低后，Q4区细胞数显著增多（见图6B)，提示细胞早期凋亡增加与MYH9表达下调相关。该现象是胃癌细胞G2/M期阻滞引起的后续效应，还是MYH9下调后引起凋亡相关基因或通路异常，有待于后期进一步研究。
+
+综上所述，利用TALEN技术最终获得可稳定传代的、在mRNA和蛋白水平稳定敲低MYH9基因的单克隆株，进一步证实TALEN技术是成熟、高效、稳定和可靠的基因编辑技术[20]。MYH9敲低影响胃癌细胞周期及凋亡，为进一步的分子机制研究提供了可靠的细胞模型和可能的研究方向。随着技术的发展和分子机制研究的深入，MYH9是否像肌动蛋白和MYH11等一样在核内参与重要基因转录、影响胃癌的发生与发展，有待于进一步的研究。由于时间和经费等原因，本研究未进行MYH9基因功能恢复实验，备在后续深入机制研究中进行补充。
+
+# 参考文献：
+
+[1] Torre LA,Bray F, Siegel RL,et al. Global cancer statistics,2012[J]. CA Cancer JClin,2015,65(2): 87-108.   
+[2]Liu D, Zhang L, Shen Z,et al. Clinicopathological significance of NMIIA overexpression in human gastric cancer[J]. Int J Mol Sci, 2012,13(11):15291-304.   
+[3]Vicente-Manzanares M,Ma X,Adelstein RS,et al. Non-muscle myosin II takes centre stage in cell adhesion and migration[J].Nat Rev Mol Cell Biol,2009,10(11): 778-90.   
+[4]Kunishima S,Kojima T,Matsushita T,et al. Mutations in the NMMHC-A gene cause autosomal dominant macrothrombocytopenia with leukocyte inclusions (May-Hegglin anomaly/Sebastian syndrome)[J].Blood,2001,97(4):1147-9.   
+[5]Liang S,He L,Zhao X,et al.MicroRNA let-7f inhibits tumor invasion and metastasis by targeting MYH9 in human gastric cancer [J].PLoS One,2011,6(4): e18409.   
+[6]Mu Y,Chen Y,Zhang G,et al．Identification of stromal differentially expressed proteins in the colon carcinoma by quantitative proteomics[J].Electrophoresis,2013,34(11):1679-92.   
+[7]Xia ZK,Yuan YC,Yin N,et al.Nonmuscle myosin IIA is associated with poor prognosis of esophageal squamous cancer[J].Dis Esophagus,2012,25(5):427-36.   
+[8］吴珊珊.非肌细胞肌球蛋白重链ⅡA亚型在乳腺癌转移中的作用 [D].长春:吉林大学,2012.   
+[9]SchramekD,Sendoel A, Segal JP,et al.Direct in vivo RNAi screen unveils myosin Ia asa tumor suppressor of squamous cell carcinomas[J]. Science,2014,343(6168): 309-13.   
+[10] Chen S,Oikonomou G,Chiu CN,et al.A large-scale in vivo analysis reveals that TALENs are significantly more mutagenic than ZFNs generated using context-dependent assembly[J].Nucleic Acids Res,2013,41(4): 2769-78.   
+[11]Hofmann WA,Stojiljkovic L,Fuchsova B,et al. Actin is part of pre-initiation complexes and is necessary for transcription by RNA polymerase I[J]. Nat Cell Biol,2004,6(11): 1094-101.   
+[12] Vreugde S,Ferrai C,Miluzio A,et al. Nuclear myosin VI enhances RNA polymerase II-dependent transcription[J].Mol Cell, 2006, 23 (5): 749-55.   
+[13]Li Q,Sarna SK.Nuclear myosin II regulates the assembly of preinitiationcomplex forICAM-1genetranscription [J]. Gastroenterology,2009,137(3):1051-60,1060.e1-3.   
+[14] Zhang YS,Liu B,Luo XJ,et al.A novel function of nuclear nonmuscle myosin regulatory light chain in promotion of xanthine oxidase transcription after myocardial ischemia/reperfusion[J].Free Radic Biol Med,2015,83(8): 115-28.   
+[15]Conti MA,Even-Ram S,Liu C,et al. Defects in cell adhesion and the visceral endoderm following ablation of nonmuscle myosin heavy chain II-A in mice[J].JBiol Chem,2004,279(40): 41263-6.   
+[16]Wang A,Ma X,Conti MA,et al.Distinct and redundant roles of the non-muscle myosin I isoforms and functional domains [J]. Biochem Soc Trans,2011,39(5):1131-5.   
+[17]Heissler SM,Manstein DJ.Nonmuscle myosin-2:mix and match [J].Cell Mol Life Sci,2013,70(1): 1-21.   
+[18] Obungu VH, Lee Burns A,Agarwal SK,et al. Menin,a tumor suppressor,associates with nonmuscle myosin II-A heavy chain[J]. Oncogene,2003,22(41): 6347-58.   
+[19]Croft DR,Coleman ML,Li S,et al. Actin-myosin-based contraction is responsible for apoptotic nuclear disintegration[J].J Cell Biol, 2005,168(2): 245-55.   
+[20]Boettcher M,Mcmanus MT.Choosing the right Tool for the job: RNAi, TALEN,or CRISPR[J].Mol Cell,2015,58(4): 575-85. (编辑.孙昌明)

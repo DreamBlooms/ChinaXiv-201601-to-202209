@@ -1,0 +1,605 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201711172052 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张灿灿，孙才志.基于CiteSpace 的水足迹文献计量分析.生态学报，2018,38（11）：4064-4076.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于CiteSpace的水足迹文献计量分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张灿灿1，孙才志1,2，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1辽宁师范大学城市与环境学院，大连116029  \n2辽宁师范大学海洋经济与可持续发展中心，大连116029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以WEB OF SCIENCE数据库和中国知网学术期刊网络出版总库中1993—2016年期刊论文作为数据源,以“water footprint（水足迹）”OR（或）“virtual water（虚拟水）”为关键词进行文献检索,利用CiteSpace可视化文献分析工具,对检索出的文献分别进行关键词、作者、发文机构和载文期刊分析,并绘制出相关知识图谱,以此来探讨水足迹研究领域的发展现状以及未来的相关研究热点。结果表明： $\\textcircled{1}$ 水足迹领域相关研究文献数量不断增长，水足迹越来越受到中外学者的关注； $\\textcircled{2}$ 国外水足迹研究主要围绕虚拟水和水足迹展开,且对于水权问题的关注度较高,国内水足迹研究主要着眼于虚拟水贸易和虚拟水消费,应用型研究成为水足迹研究的热点,未来水足迹研究热点可能会围绕“水-粮食-能源”三者的耦合展开,对于水足迹与社会经济问题相结合的研究力度会逐渐增大; $\\textcircled{3}$ 水足迹领域中外文文献的发文作者都集中于少数研究人员,主要发文作者的研究奠定了水足迹研究的基础; $\\textcircled{4}$ 主要的发文机构有 Univ Twente、中国科学院等,主要的载文期刊有 ECOL ECON、HYDROL EARTH SYST SC、WATER RESOUR MANAG以及《资源科学》《中国人口·资源与环境》《生态学报》等。根据水足迹研究现状,给出了关于水足迹领域未来发展的建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水足迹;虚拟水;CiteSpace;研究进展；知识图谱；综述",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水资源与人类生存和社会经济发展密切相关,但是在人类社会的发展过程中，一些不合理的水资源利用方式,导致了水资源短缺和水污染问题,水资源越来越成为社会经济发展的限制性因素。水资源危机的逐步显现,使得世界各国对准确测度人类对水资源的实际使用情况的要求越来越迫切。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1993 年英国学者 Tony Allan提出虚拟水（VirtualWater)的概念[1],将其定义为在生产产品和服务中所需要的水资源数量,即凝结在产品和服务中的虚拟水量。2002 年荷兰学者 Hoekstra等人在虚拟水的基础上提出了“水足迹\"概念[2],水足迹(Water Footprint)指的是一个国家、一个地区或一个人,在一定时间内消费的所有产品和服务所需要的水资源数量。水足迹的概念是对传统水资源消费统计指标的补充,水足迹概念的形成发展与在 20世纪90年代初加拿大学者Willian E.Rees 提出的生态足迹[3]类似,衡量的是在一定的物质生产标准下,生产一定人群消费的产品和服务所需要的水资源的数量,是维持人类产品和服务消费所需要的真实的水资源量。水足迹从消费视角出发计算人类对水资源的真实占用,将水资源利用与人类消费模式关联起来,同时把水问题的解决思路拓展到社会经济领域,从而成为当前测度人类活动对水资源系统环境影响的有效指标之一。水足迹概念提出的十几年来,世界各国学者对水足迹进行了广泛的关注和应用,目前,关于水足迹的研究主要集中于单个产品的水足迹含量分析[45]、水足迹影响因素研究[6-9]、区域或者国家层面的水足迹分析[10-13]、水足迹结构分析[14]等,其中,也不乏对水足迹研究成果的总结和综述[15-18],但大都是在主观基础上",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn进行简单的文献统计和分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献计量学将文献量、作者数、词汇数等作为主要的计量对象,运用数学和统计学的方法,对知识载体进行定量分析,而知识图谱则将文献计量的结果可视化的展现出来。美国德雷塞尔大学(Drexel University)信息科学与技术学院陈超美博士开发的CiteSpace 软件,通过对某一学科领域研究热点的分析,并将其可视化的呈现出来,从而成为当下较为流行的可视化科研数据的应用软件[19]。该软件自问世以来,在文献计量与分析和数据可视化方面得到了广泛的应用[20-24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有鉴于此,本文试图通过文献计量学的方法,对水足迹相关文献进行量化分析,运用CiteSpace 文献计量工具、通过绘制知识图谱展示水足迹领域的研究现状,对水足迹概念提出以来的研究成果作进一步的总结分析,旨在更加客观地揭示该研究领域的研究态势,以期为水足迹领域研究前沿与研究热点的挖掘提供一种新思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文运用CiteSpace 软件,对水足迹概念提出以来中外文文献进行文献量、关键词、作者群体、发文机构、载文期刊的分析,文章数据处理采用的 CiteSpace 版本为5.0.R2.SE 版本,其中文分析板块由大连理工大学1WISE团队开发。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水足迹的定义较为明确,是指生产某一国家或者区域内人口所消费商品和服务需要的淡水资源总量。同时考虑到虚拟水是水足迹中的重要组成部分，且水足迹的研究是建立在虚拟水的基础之上的,因此外文文献检索条目确定为“water footprint”和“virtual water”,数据样本选取自 WEB OF SCIENCE 数据库中 WEB OFSCIENCETM核心合集,以\"主题” $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ “water footprint\"OR\"virtual water”AND“文献类型” $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ “article”,选择检索时间范围为1993—2016年,共得检索结果1029 条,对检索结果进行去重、删除无关条目,最终整理得到 803 篇相关文献,这803 篇相关文献集中分布于2000—2016年。将中文文献检索的条目确定为“水足迹”和“虚拟水”,数据样本选取自中国学术期刊出版总库（CNKI总库),使用高级检索,以“主题”或者“关键词\" $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ “水足迹”或含“虚拟水”,选择时间为1993—2016年,精确匹配检索,共得检索结果1303条,对检索结果去重、删除无关条目，最终整理得到911篇相关文献,这911篇文献都分布在2003—2016 年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 发文量的时间分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将检索所得文献按照发文年份进行文献数量的统计,得到研究期间水足迹领域中外文文献发文数量折线图(图1),对中外文文献数量进行对比分析可知,中文文献起步晚,但是数量增长很快,年发文量仅一年就已超过外文文献发文量,究其原因,主要是在水足迹概念兴起之初,研究主要集中于地区与产品水足迹的测算，而中国地域辽阔、产业类型众多,因此在这一时期水足迹发文数量较多,随着地区与产品水足迹测算文献的饱和,水足迹中文文献的发文量增长速度逐渐减缓。其后水足迹研究范围不断扩大,外文文献开始转入水足迹与食品安全、环境变化等相关问题的研究,中文文献则更加侧重于水足迹空间差异及成因的探讨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1外文文献发文量的时间分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出,研究期间水足迹领域相关外文文献的发文数量总体上呈现出上升态势,个别年份发文数量有小幅波动。其文献数量增长情况大致可以分为3个阶段： $\\textcircled { 1 } 2 0 0 0 { - } 2 0 0 6$ 年，水足迹相关研究的发文数量基本上在低位徘徊,自水足迹概念提出以来,相关的水足迹会议也受到研究人员的密切关注,2002 年在世界水贸易专家会议上Hokestra 首次提及“水足迹”这一概念,随后 2003年日本举行第三届世界水论坛、2005年德国发展研究院召开虚拟水贸易专家会议,但这一阶段水足迹作为脱胎于虚拟水的一个全新概念,并未引起广泛关注，其研究尚处于讨论阶段，因此发文数量较少。 $\\textcircled{2}$ 2006—2013年，水足迹外文文献数量曲折上升，2006年在墨西哥召开的第四届水资源论坛、2006年在德国波恩由世界水资源系统项目举办的主题为“全球水资源政府治理”会议和在法兰克福由社会经济研究所举行的“虚拟水贸易”等会议上都对水足迹开展了讨论，这使得水足迹这一概念得到越来越多的专家学者的关注,因此自2006年后,水足迹相关研究得到国际学界的重视,但这一阶段水足迹的研究内容与范围并未得到确定,因此该阶段相关文献数量增长较为缓慢。③2013—2016年,文献数量快速增长,尤以 2013—2015 年度文献数量增长最为明显,掀起了水足迹研究的高潮。2015年联合国气候变化大会在巴黎召开,气候变化是关乎地球生命生存的重要问题,而水圈作为地球圈层中的重要组成部分,其三态变化对于气候变化具有十分特殊的影响作用,因此,应对全球气候变化问题,对于水资源的研究十分重要,这也使得水足迹的研究进人了一个全新的时期。水足迹作为脱胎于虚拟水概念的一个全新领域,仍存在许多不完善的地方,相关的专家学者在各种学术期刊和学术会议上展开对水足迹和虚拟水的讨论,尽管这种讨论和质疑时至今日依然存在,但正是这些质疑让水足迹概念更加快速的完善,成为一个备受关注的研究领域。 \\~7",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2中文文献发文量的时间分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，自2003年以来，水足迹中文文献的发文数量除个别年份略有下降外，总体发文数量呈现出增长的趋势。按照发文数量的增长趋势，大致分为三个阶段： $\\textcircled { 1 } 2 0 0 3$ 一2005年，是水足迹中文文献数量的迅猛增加阶段，该阶段的发文数量从2003年的3篇跃升至2005年的35篇，中国水资源数量的时空分布极不均匀，水足迹概念的引入为中国水资源问题的研究提供了新的思路，该阶段水足迹作为一个全新的概念，研究尚处于起步阶段，发文量较少但数量增加很快，说明水足迹作为一个全新的研究领域已经引起了相关专家学者的关注，同时也表明中国水资源学界对于新的研究方法的迫切需要。 $\\textcircled{2}$ 2005—2012年水足迹中文文献发文量处于波动上升阶段,个别年份略有回落,这一时期水足迹中文文献的研究主要集中于地区水足迹测算和产品水足迹测算，尽管文献数量总体仍在增长,但由于研究范围相对较窄,严重限制了水足迹在解决水资源问题方面的优势,水足迹发展遭遇瓶颈,亟需开拓新的研究方法与研究内容,因此该阶段水足迹中文文献数量波动较大。 $\\textcircled { 3 } 2 0 1 2$ —2016年,是水足迹中文文献发文数量的平稳增长阶段,这一阶段的发文数量一直很高且逐年稳定增长,在该时期,水足迹作为一个有效的水问题解决工具被广泛应用,众多水资源相关专家学者对于水足迹的研究进人了一个新的阶段,大部分研究开始转向水足迹时空差异及其成因分析、区域水资源评价等方面。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/235416ae468224068f1821354c226b7d2da5f40a5d9443a9a68e9796811eb04f.jpg",
+        "img_caption": [
+            "图12000—2016年水足迹研究领域中外文文献发文数量 Fig.1The number of documents in Chinese and foreign language in the research field of water footprint in 2ooo—2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2关键词分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关键词作为作者对文章主题的高度提炼,代表了文章的核心观点,对某一领域的关键词进行可视化分析，有助于挖掘相关领域的研究热点。将中外文文献数据分别导人CiteSpace 中,将时间跨度设置为1993—2016年,单个时间切片为1年,将聚类词来源设置为标题(title）、摘要（abstract）、作者关键词（author keywords）和增补关键词（keywords plus）；聚类词库选择突现词（burst terms）；节点类型选择关键词(Keyword）,选取标准设置为每个时间切片中被引频次最高的前 50个关键词,外文文献数据生成的关键词图谱如图2所示,中文文献数据生成的关键词图谱如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1外文文献关键词分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中共有192个节点,408条连接,网络密度为0.0223,其中节点越大表示该关键词在水足迹领域外文文献中出现的频次越高。最大节点是 water footprint,与之相关的关键词有 footprint,green,consumption,blue等,virtual water是该领域研究的第二大重点。在水足迹领域的相关研究中,主要的关键节点有6个,分别是water footprint、virtual water、consumption、resource、trade fotprint,通过对相关关键词的出现频次的分析,我们可以发现,在水足迹相关的外文文献中,水资源并不仅仅是作为一种资源存在的,水资源在相关的经济贸易以及水权的确定中扮演着重要的角色。由可视化图谱来看,最大的两个节点 water footprint 和 virtual water 是水足迹研究领域的两大绝对热点,这两个关键词的中心度最高,出现频次最大,与之相关联的各个分支,属于水足迹研究领域未来的研究重点和新兴的发展方向,应当引起该领域相关科研工作者的关注。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a68ff67a802625ae479933f3622492a4015257ce964f17a6ee3df120dfb773b.jpg",
+        "img_caption": [
+            "图22000一2016年水足迹外文文献高频关键词图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The higfrequency keyordsknowledgemapofforeignlanguageliteratureintheresearchfieldof waterfootprintin2o02016 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为便于分析关键词的具体内容,给出词频超过20 的高频关键词(如表1)。由表可知,在研究内容上,词频超过100的关键词中,研究范围较为明确,研究内容较为具体,大都与社会经济生活相关,多涉及贸易、资源、消费等方面,国际上对于水资源消费和水资源贸易的研究较为集中,对于虚拟水贸易的关注度很高;另外，气候变化、环境影响、食品安全、土地利用等高频关键词的出现,说明水足迹研究与这些方面息息相关;随着人类对水资源研究的深人，对于生命周期评估、生物燃料、投人产出分析的研究也逐渐增多,这也是可持续发展理念越来越受到科学研究重视的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4398cdae60135a83937283474e1f6371e30ec426ceb28c85bc46bd6b34c4253.jpg",
+        "table_caption": [
+            "表12000—2016年水足迹外文文献高频关键词",
+            "Table 1The high frequency keywords of foreign language literature in the research field of water footprint in 2000—2016 ",
+            "http://www.ecologica.cn "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sequence number 序号</td><td>被引频次 关键词 Word frequency Key words</td><td>序号 Sequence number</td><td>被引频次 Word frequency</td><td>关键词 Key words</td><td></td></tr><tr><td>1</td><td>273</td><td>water footprint</td><td>18</td><td>48</td><td>international trade</td></tr><tr><td>2</td><td>223</td><td>virtual water</td><td>19</td><td>47</td><td>green</td></tr><tr><td>3</td><td>185</td><td>consumption</td><td>20</td><td>45</td><td>nation</td></tr><tr><td>4</td><td>184</td><td>resource</td><td>21</td><td>44</td><td>environmental impact</td></tr><tr><td>5</td><td>136</td><td>trade</td><td>22</td><td>43</td><td>food</td></tr><tr><td>6</td><td>102</td><td>footprint</td><td>23</td><td>40</td><td>agriculture</td></tr><tr><td>7</td><td>96</td><td>China</td><td>24</td><td>40</td><td>model</td></tr><tr><td>8</td><td>77</td><td>impact</td><td>25</td><td>39</td><td>blue</td></tr><tr><td>9</td><td>72</td><td>flow</td><td>26</td><td>39</td><td>scarcity</td></tr><tr><td>10</td><td>70</td><td>product</td><td>27</td><td>36</td><td>irrigation</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3010d793939ee65a2e1ccf87f5da4d553b6515a3643bca1114bb48bac23f8a6.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>被引频次 Word frequency</td><td>关键词 Key words</td><td>序号 Sequence number</td><td>被引频次 Word frequency</td><td>关键词 Key words</td></tr><tr><td>11</td><td>68</td><td>management</td><td>28</td><td>35</td><td>ecological footprint</td></tr><tr><td>12</td><td>60</td><td>ica</td><td>29</td><td>33</td><td>carbon footprint</td></tr><tr><td>13</td><td>59</td><td>climate change</td><td>30</td><td>32</td><td>biofuel</td></tr><tr><td>14</td><td>56</td><td>sustainability</td><td>31</td><td>32</td><td>food security</td></tr><tr><td>15</td><td>54</td><td>water scarcity</td><td>32</td><td>32</td><td>input output analysis</td></tr><tr><td>16</td><td>52</td><td>energy</td><td>33</td><td>32</td><td>green water</td></tr><tr><td>17</td><td>51</td><td>life cycle assessment</td><td>34</td><td>25</td><td>river basin</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2中文文献关键词分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3中共有171个节点,94条连接,网络密度为0.0065，其中节点越大表示该关键词在水足迹领域中文文献中出现的频次越高。同时，表2给出2003—2016年水足迹中文文献的高频关键词。由图3可以看出，最大的关键节点是“虚拟水”，主要的相关研究包括“虚拟水贸易”“虚拟水战略”“虚拟水消费”“水资源承载力”“粮食安全”“可持续发展”等；“水足迹”是仅次于“虚拟水”的第二大关键节点，与之相关的研究主要包括“水资源”“农产品”等。由表2可知出现频次较高的关键词主要有“虚拟水”“水足迹”“水资源”“虚拟水贸易”“虚拟水战略”“农产品”“粮食安全”等，由此可见，“虚拟水”与“水足迹”所涉及的并不仅仅是一种自然资源研究，更是一种社会经济研究，它将对于水资源问题的研究从单纯的自然资源领域拓展到社会经济领域，拓宽了关于水资源问题的解决思路，使得可持续发展的观念在水资源问题方面的应用变得更加多元化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3a53f30a6e95cbf76dc3b8c72f91c69e3d76c50c64dfe06884ecc6945c03609.jpg",
+        "img_caption": [
+            "图32003—2016年水足迹中文文献高频关键词图谱 Fig.3The high frequency keywords knowledge map of Chinese literature in the research field of water footprint in 2003—2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合图1中显示的发文数量增长情况,我们把水足迹领域的研究成果数量增长情况划分为3个时间段：2003—2005 年的迅猛增长阶段,2005—2012年的曲折上升阶段,2012—2016年的增长趋缓阶段。从3个时间段来看，“虚拟水”和“水足迹”的出现频率都位于前列,是该研究领域内的绝对重点,同时，“水资源”和“虚拟水贸易\"这两个关键词的出现频率也相当靠前,由此我们可以得知，“虚拟水”和“水足迹”的研究对于解决水资源问题有很大的帮助,同时,虚拟水贸易又是其中的一个重要方法。由关键词年轮我们可以看出,水足迹领域中,对于水资源的应用性研究逐渐成为热点,在虚拟水研究中,虚拟水战略、虚拟水消费、水资源承载力、可持续发展逐渐代替虚拟水贸易和生态足迹,成为该领域内的研究热点。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/211cf2ff6b8c362c481b0157d531184b8a82d0497159253d7ce51f63a4a063fc.jpg",
+        "table_caption": [
+            "表22003—2016年水足迹中文文献高频关键词",
+            "Table 2The high frequency keywords of Chinese literature in the research field of water footprint in 2003-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>被引频次 Word frequency</td><td>关键词 Key words</td><td>序号 Sequence number</td><td>被引频次 Word frequency</td><td>关键词 Key words</td></tr><tr><td>1</td><td>453</td><td>虚拟水</td><td>8</td><td>26</td><td>生态足迹</td></tr><tr><td>2</td><td>285</td><td>水足迹</td><td>9</td><td>24</td><td>水资源管理</td></tr><tr><td>3</td><td>131</td><td>水资源</td><td>10</td><td>23</td><td>投入产出分析</td></tr><tr><td>4</td><td>122</td><td>虚拟水贸易</td><td>11</td><td>22</td><td>可持续发展</td></tr><tr><td>5</td><td>92</td><td>虚拟水战略</td><td>12</td><td>18</td><td>水安全</td></tr><tr><td>6</td><td>40</td><td>农产品</td><td>13</td><td>15</td><td>水资源安全</td></tr><tr><td>7</td><td>28</td><td>粮食安全</td><td>14</td><td>15</td><td>水资源承载力</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比中外文文献关键词图谱,可以看出,外文文献研究多集中于贸易、消费等方面,而中文文献的研究则更偏重于粮食安全、水资源评价等方面,主要原因是中国是一个人口众多的农业大国,粮食安全关乎中国国家安全,且中国水资源时空分布很不均匀,严重限制了中国各地区均衡发展。另外,外文文献的高频关键词的被引频次差距较小,使得外文文献关键词图谱呈现出团聚状态,而中文文献关键词被引频次差距较大,因此图谱呈现出以“水足迹”和“虚拟水”为中心的枝状分布。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3文献作者群体分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1外文文献作者群体分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用CiteSpace软件对水足迹领域外文文献的发文作者进行分析,得到作者图谱（图4）,该图谱共有193个节点,173条连接,网络密度为0.0093,发文次数越多的作者在图中显示的节点越大。从图中可以看出，出现次数最多的作者是Hoekstra AY,出现频次为58次,Hoekstra AY是水足迹概念的提出者,被称为“水足迹之父”,其次为 Mekonnen MM,出现次数为18次,发文量在10篇以上的作者还有 Wang YB、WuPT、Pfister S、SunSK、Zhao XN、Yang HKonar M、LiuJRidoutt BG,发文量在10篇以上的作者共有11位。图4显示外文文献3个核心作者群分别是:Univ Twente 的 Hoekstra AY 和 Mekonnen MM 学术团队;Northwest A&F Univ 的 WangYB、Wu PT、Sun SK、Zhao XN学术团队;SwissFed Inst Technol 的Pfister S和 Yang H学术团队,同一团队的研究人员通常来自于同一科研机构,从作者群体来看,外文文献发文作者群体之间的交流相比于中国学者之间要更为紧密。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/98950bf669fa2a58910cea7c14a16f1f1d3f74b40e22c23d468d1946e354ed8e.jpg",
+        "img_caption": [
+            "图42000—2016年水足迹外文文献发文作者图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4The authors knowledge map of foreign languageliterature in the research field of water fooprint in 2000—2016表3给出 2000—2016年水足迹外文文献发文作者发文数量的排名情况,从发文数量的排名上看,发文量在10 篇以上的作者共有11人,其中 Hoekstra ArjenY以58篇的发文数量遥遥领先,发文量在10篇以上的作者所发文献数量占研究期间发文总量的 $2 3 . 7 \\%$ ,表明水足迹领域外文文献的发文作者较为集中，少数高频次发文作者的研究对国际水足迹的理论基础起到奠基作用,其中以水足迹概念的提出者 Hoekstra Arjen Y尤为突出,作为水足迹研究领域的奠基人，其对水足迹的研究引领了国际水足迹研究的方向和热点,结合图4也可以看出,其他发文作者的研究多围绕 Hoekstra ArjenY的研究展开,对 Hoekstra Arjen Y的文献引用较多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2中文文献作者群体分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用CiteSpace 对水足迹领域中文文献相关发文作者进行分析,得到发文量高频作者图谱（图5）,图谱共有224个节点,72条连接,网络密度为0.0029,发文次数越多的作者在图中显示的节点越大。从图中我们可以看出,出现次数最多的的作者是孙才志,其次是秦丽杰,发文数量分别达到21篇和17篇,发文数量在十篇及以上的作者还有田贵良、徐中民、邹君、杨玉蓉、王新华、王玉宝、韩宇平、吴普特,共有十位作者的发文数量在十篇及其以上。从作者群体来看,这种“满天星\"式的作者图谱表明中国水足迹研究领域处于“大分散、小集中”的状态，各个团队内部联系紧密，而团队之间的相关交流比较少，常见的研究团队通常由同一个机构的研究人员组成。如图5所示,几个主要的研究团队分别是孙才志学术团队,秦丽杰学术团队,田贵良学术团队,徐中民、王新华学术团队,邹君、杨玉蓉学术团队,王玉宝、吴普特学术团队,韩宇平学术团队。不同的学术团队之间通常联系较少，这种情况不利于水足迹领域的科学发展。 2",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f3f5535356c2a430ae7284999508b8a4f92e77ed5c9e2e0c6913e4501a9a61f.jpg",
+        "table_caption": [
+            "表32000—2016年水足迹外文文献发文作者",
+            "Table 3The authors of foreign language literature in theresearch field of water footprint in 2000—2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>发文量 Number of each article</td><td>作者 Articles</td><td>机构 Scientific research institutions</td></tr><tr><td>1</td><td>58</td><td>Hoekstra AY</td><td>Univ Twente，Twente Water Ctr</td></tr><tr><td>2</td><td>18</td><td>Mekonnen MM</td><td>Univ Twente， Twente Water Ctr</td></tr><tr><td>3</td><td>16</td><td>Wang YB</td><td>Northwest A&F Univ, Inst Water Saving Agr Arid Reg China</td></tr><tr><td>4</td><td>16</td><td>Wu PT</td><td>Northwest A&F Univ, Inst Water Saving Agr Arid Reg China</td></tr><tr><td>5</td><td>14</td><td>Pfister S</td><td>SwissFed Inst Technol，InstEnvironm Engn，Chair Ecol Syst Design</td></tr><tr><td>6</td><td>13</td><td>Sun SK</td><td>Northwest A&F Univ， Coll Water Resources & Architectural Engn</td></tr><tr><td>7</td><td>13</td><td>Zhao XN</td><td></td></tr><tr><td>8</td><td>12</td><td>Yang H</td><td>Aquat Sci& Technol/UnivBasel，Dept</td></tr><tr><td>9</td><td>10</td><td>Konar M</td><td>Univ Illinois，Dept Civil&Environm Engn</td></tr><tr><td>10</td><td>10</td><td>Liu J</td><td>Jilin Univ, Coll Earth Sci</td></tr><tr><td>11</td><td>10</td><td>Ridoutt BG</td><td>CSIROs Sustainable Agr Natl Res Flagship Anim Foo</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照水足迹中文文献作者的发文量进行统计（表4)，发文量在15篇以上的作者仅有孙才志、秦丽杰、田贵良、徐中民4人，发文量在10篇以上的作者所发文献数量占到水足迹中文文献发文总量的 $1 4 . 8 \\%$ ,说明水足迹领域中文文献的发文作者集中于少数几位研究人员，核心作者的研究对中国水足迹的发展起到奠基作用，尤其是最先在中国进行水足迹研究的学者，如徐中民、王新华、邹君、杨玉蓉等人，他们的相关研究对于中国水足迹领域的发展作出了先导性的突出贡献。另外，孙才志、秦丽杰等人在前人研究的基础上，将水足迹进一步深化拓展,开始研究水足迹的空间分布[25-28]、农作物水足迹的相关情况[29-31]以及膳食水足迹[32-33],为水足迹的研究内容和研究方向拓宽了思路。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 发文机构分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1外文文献发文机构分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用CiteSpace对水足迹相关外文文献检索结果的发文机构进行分析，得到如图6所示的图谱，节点越大表示该机构发文数量越多,图中共有119个节点,103条连接,网络密度为0.0147,表明国外相关研究机构之间的共被引关系较多,学术交流相比于中国研究机构来说更为密切。从地域上看,发文量较多的机构大都处于沿海国家,地域分布并不均匀,发文量在10次以上的机构以中国、美国、日本以及欧洲居多,其中欧洲国家主要包括荷兰、意大利、瑞士,这些国家的科技水平处于世界前列,对于水资源的需求也十分紧迫,这在一定程度上说明了科研能力和用水需求对于水足迹研究的推动作用是十分强大的。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b88ac717f2d97cd554d1e6e07ca155a3801239bee6cb263d30f2ec3f580eb410.jpg",
+        "img_caption": [
+            "图52003—2016年水足迹中文文献发文作者图谱Fig.5The authors knowledge map of Chinese literature in theresearch field of water footprint in 2oo3—2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/039b588dba5ec468696490943b74519a06e232ebcdf0481640b19dd5ff36ca38.jpg",
+        "table_caption": [
+            "表42003—2016年水足迹中文文献发文作者",
+            "Table 4 The authors of Chinese literature in the research field of water footprint in 2Oo3-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence</td><td>发文数 Number of</td><td>作者 Articles</td><td>机构 Scientific research</td><td>序号 Sequence</td><td>发文数 Number of</td><td>作者 Articles</td><td>机构 Scientific research 5</td></tr><tr><td>number</td><td>each article</td><td>孙才志</td><td>institutions 辽宁师范大学</td><td>number 6</td><td>each article 11</td><td>杨玉蓉</td><td>institutions 衡阳师范学院</td></tr><tr><td>1 2</td><td>21 17</td><td>秦丽杰</td><td>东北师范大学</td><td>7</td><td>11</td><td>王新华</td><td>中国科学院</td></tr><tr><td>3</td><td>16</td><td>田贵良</td><td>河海大学</td><td>8</td><td>10</td><td>王玉宝</td><td>西北农林科技大学</td></tr><tr><td>4</td><td>15</td><td>徐中民</td><td>中国科学院</td><td>9</td><td>10</td><td>韩宇平</td><td>华北水利水电学院</td></tr><tr><td>5</td><td>14</td><td>邹君</td><td>衡阳师范学院</td><td>10</td><td>10</td><td>吴普特</td><td>西北农林科技大学</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/36f678e7271f662f9fd4604b5afdbeca631043dde9c04b091997104b0cec0575.jpg",
+        "img_caption": [
+            "图62000—2016年水足迹外文文献发文机构图谱",
+            "Fig.6The institutions knowledge mapofforeign language literature in theresearch field of water footprintin 2000-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以发文量的排名(表5)来看,发文量在10次以上的机构所发文数量占总发文数量的 $2 8 . 3 9 \\%$ ,说明国际水足迹研究中科研机构之间科研能力差异显著,在所有水足迹外文文献的发文机构中,出现次数在10次以上的研究机构共有12个,特文特大学出现次数最多,发文数量最多,为66次,该校位于荷兰恩斯赫德,是水足迹之父 HoekstraAY所在的研究机构,因此对于水足迹以及虚拟水的研究比较深人,其次是中国科学院,发文数量为30篇,所处国家是中国,中国是一个幅员辽阔的大国,水资源数量时空分布差异巨大，人口众多，人均水资源量低于世界平均水平,为了缓解缺水问题,对水资源的研究比较深入。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.2中文文献发文机构分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "使用CiteSpace 对水足迹领域911条中文文献检索结果的发文机构进行分析,得到水足迹中文文献发文机构图谱（图7),图中共有107个节点,28条连接,网络密度为0.0049,表明水足迹中文文献发文机构之间的学术交流与合作有待加强。合并所有二级机构,出现次数最多的机构是中国科学院,其次是河海大学和辽宁师范大学。从发文机构所处的地域范围来看,发文机构在全国的分布并不均匀,其中以沿海高校为主,其次是西北内陆等水资源贫乏地区，一定程度上说明了水资源的紧张程度与科研机构对水资源问题的研究力度是成正比的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e84af67951f29380eaf79292014d77e859b13cff3f8a3bec6490ae625aa4f817.jpg",
+        "table_caption": [
+            "表52000—2016年水足迹外文文献发文机构",
+            "Table5The institutionsofforeignlanguage literature intheresearch fieldof waterfootprintin2O00-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>出现次数 Frequency</td><td>机构 Scientific research institutions</td><td>中文译名 Chinese name of institution</td><td>所处国家 Country</td></tr><tr><td>1</td><td>66</td><td>Univ Twente</td><td>特文特大学</td><td>荷兰恩斯赫德</td></tr><tr><td>2</td><td>30</td><td>Chinese Acad Sci</td><td>中国科学院</td><td>中国</td></tr><tr><td>3</td><td>22</td><td>Beijing Normal Univ</td><td>北京师范大学</td><td>中国北京</td></tr><tr><td>4</td><td>18</td><td>Beijing Forestry Univ</td><td>北京林业大学</td><td>中国北京</td></tr><tr><td>5</td><td>14</td><td>Univ Virginia</td><td>弗吉尼亚大学</td><td>美国弗吉尼亚</td></tr><tr><td>6</td><td>14</td><td>Northwest A&F Univ</td><td>西北农林科技大学</td><td>中国西安</td></tr><tr><td>7</td><td>14</td><td>Natl Inst Environm Studies</td><td>国家环境研究所</td><td>日本</td></tr><tr><td>8</td><td>10</td><td>Univ Padua</td><td>帕多瓦大学</td><td>意大利威尼托帕多瓦</td></tr><tr><td>9</td><td>10</td><td>Peking Univ</td><td>北京大学</td><td>中国北京</td></tr><tr><td>10</td><td>10</td><td>Natl Engn Res Ctr Water Saveing Irrigat Yangling</td><td>国家节水灌溉工程技术研究中心</td><td>中国西安</td></tr><tr><td>11</td><td>10</td><td>Minist Water Resources</td><td>中国水利部</td><td>中国</td></tr><tr><td>12</td><td>10</td><td>ETH</td><td>苏黎世联邦理工学院</td><td>瑞士苏黎世</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/48c440399df93ce883a809921fd517de49b9b833137aac32103716512a0c9df3.jpg",
+        "img_caption": [
+            "图72003—2016年水足迹中文文献相关发文机构图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.7The institutions knowledge mapof Chinese literature in the research fieldof water fooprint in 2003-2016 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按照发文数量排序分析,出现次数在十次以上的科研机构共有十个,如表6所示。其中出现次数最多的是中国科学院,共64次,中科院作为中国自然科学最高学术机构、科学技术的最高咨询机构,其研究为中国国家层面的决策提供科学依据,是中国水足迹领域发文量最多的机构,其次是河海大学与辽宁师范大学,分别出现了46次和32次,河海大学是一所以水利为特色的重点高校,同时拥有水文水资源与水利工程科学国家重点实验室和水资源高效利用与工程安全国家工程研究中心,是中国水资源研究中的老牌强校,其余这些水足迹中文文献发文量较多的科研机构一般都有专门的研究团队作为水足迹领域的研究支撑。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 载文期刊分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.1外文文献载文期刊分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过CiteSpace 软件统计各外文期刊水足迹研究领域的相关载文数量,表7给出1993—2016年期间载文数量在100篇以上的21个期刊。其中,载文量最多的期刊是由荷兰 Netherlands 主办,Elsevier Science BV 出版的《Ecological Economics》,该期刊对于扩大和整合“自然家庭”（生态学)和\"人类家庭”（经济学)的学习和管理关注度较高,其主要的载文领域包括自然资源与评价、可持续农业与发展、生态综合技术等,另外载文量较多的期刊还有《Environmental Science & Technology》《Global Environmental Change》《Journal of EnvironmentalManagement》《Journal of Industrial Ecology》《Energy Policy》等,可见水足迹是一个与环境变化、生态安全、能源安全以及经济发展有密切关系的领域。在外文载文期刊中,还有一些主要研究水资源问题的期刊,这表明国外已经十分重视水资源的研究,并组织了一批高质量的水资源研究的专门期刊。 2",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d0e18cf2dc9007b7880593fb01713216323ef67f176d0ea42154f2f026998d6.jpg",
+        "table_caption": [
+            "Table 6The institutions of Chinese literature in the research field of water footprint in 2003-2016 ",
+            "表72000—2016年水足迹外文文献载文期刊"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>出现次数 Frequency</td><td>机构 Scientific research institutions</td><td>序号 Sequence number</td><td>机构 Scientific research institutions</td></tr><tr><td>1</td><td>64</td><td>中国科学院</td><td>6</td><td>西北农林科技大学</td></tr><tr><td>2</td><td>46</td><td>河海大学</td><td>7</td><td>宁夏大学</td></tr><tr><td>3</td><td>32</td><td>辽宁师范大学</td><td>8</td><td>西北师范大学</td></tr><tr><td>4</td><td>17</td><td>东北师范大学</td><td>9</td><td>衡阳师范学院</td></tr><tr><td>5</td><td>15</td><td>北京师范大学</td><td>10</td><td>西南大学</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdf5c670f8f7b6d591e2ed543c5b6ebfc789a6341917a7f1fa95f2d89cb38ba5.jpg",
+        "table_caption": [
+            "表62003—2016年水足迹中文文献相关发文机构",
+            "Table7The published journals of foreign language literature in the research field of waterfootprint in 200—2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>载文量 期刊 Number of papers Journal</td><td></td></tr><tr><td>1</td><td>392</td><td>Ecological Economics</td></tr><tr><td>2</td><td>317</td><td>Hydrology and Earth System Sciences</td></tr><tr><td>3</td><td>301</td><td>Water Resources Management</td></tr><tr><td>4</td><td>287</td><td>Environmental Science & Technology</td></tr><tr><td>5</td><td>279</td><td>Proceedings of the National Academy of Sciences of the United States of America</td></tr><tr><td>6</td><td>278</td><td>Global Environmental Change</td></tr><tr><td>7</td><td>234</td><td>Water Resources Research</td></tr><tr><td>8</td><td>228</td><td>Agricultural Water Management</td></tr><tr><td>9</td><td>213</td><td>Journal of Cleaner Production</td></tr><tr><td>10</td><td>213</td><td>Water International</td></tr><tr><td>11</td><td>206</td><td>Science</td></tr><tr><td>12</td><td>157</td><td>Journal of Hydrology</td></tr><tr><td>13</td><td>145</td><td>Ecological Indicators</td></tr><tr><td>14</td><td>142</td><td>International Journal of Life Cycle Assessment</td></tr><tr><td>15</td><td>138</td><td>Nature</td></tr><tr><td>16</td><td>131</td><td>Journal of Environmental Management</td></tr><tr><td>17</td><td>126</td><td>Ground Water</td></tr><tr><td>18</td><td>121</td><td>Water Science and Technology</td></tr><tr><td>19</td><td>113</td><td>Journal of Industrial Ecology</td></tr><tr><td>20</td><td>112</td><td>Energy Policy</td></tr><tr><td>21</td><td>100</td><td>Water Policy</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.2中文文献载文期刊分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "将检索所得水足迹中文文献数据按照期刊相关载文数量进行分别统计（表8）,其中《资源科学》主要刊载水足迹领域的文章,数量在各期刊中最多,达到34篇。在这19种期刊中,《资源科学》、《中国人口·资源与环境》、《生态学报》、《自然资源学报》、《冰川冻土》、《长江流域资源与环境》、《干旱区资源与环境》7种期刊作为复合影响因子在1.5以上的双核心期刊,所载相关水足迹文章一定程度上能够代表水足迹领域中文文献研究的核心与前沿热点。其中，《资源科学》《自然资源学报》《干旱区资源与环境》是资源科学方面的核心期刊,《中国人口·资源与环境》、《长江流域资源与环境》是环境科学与资源利用方面的核心期刊，《生态学报》是生态方面的核心期刊,《冰川冻土》是地球物理学方面的核心期刊。可见,水足迹的研究包含了资源科学、环境科学、资源利用、地球物理科学等诸多学科的特点,属于一个多领域的交叉研究点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe8526b830cfc166a3a2d38e19a5eccfe6de6ce71f717025bc04ccf4717c481f.jpg",
+        "table_caption": [
+            "表82003—2016年水足迹中文文献载文期刊",
+            "Table8Thepublished journals of Chinese literature in the research field of water footprint in 2003-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sequence number</td><td>载文量 Number of papers</td><td>期刊 Journal</td><td>序号 Sequence number</td><td>载文量 Number of papers</td><td>期刊 Journal D</td></tr><tr><td>1</td><td>34</td><td>资源科学</td><td>10</td><td>13</td><td>水电能源科学</td></tr><tr><td>2</td><td>29</td><td>水利经济</td><td>11</td><td>13</td><td>生态经济</td></tr><tr><td>3</td><td>23</td><td>中国人口·资源与环境</td><td>12</td><td>13</td><td>安徽农业科学</td></tr><tr><td>4</td><td>20</td><td>生态学报</td><td>13</td><td>12</td><td>自然资源学报</td></tr><tr><td>5</td><td>20</td><td>西北农林科技大学学报</td><td>14</td><td>11</td><td>冰川冻土</td></tr><tr><td>6</td><td>19</td><td>中国农村水利水电</td><td>15</td><td>11</td><td>长江流域资源与环境</td></tr><tr><td>7</td><td>17</td><td>人民黄河</td><td>16</td><td>10</td><td>水资源与水工程学报</td></tr><tr><td>8</td><td>15</td><td>中国水利</td><td>17</td><td>10</td><td>辽宁师范大学学报</td></tr><tr><td>9</td><td>14</td><td>资源开发与市场</td><td>18</td><td>10</td><td>干旱区资源与环境</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论与展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文基于CiteSpace 知识图谱,对国际水足迹研究领域进行文献计量分析,主要识别水足迹领域的研究热点、核心作者群、主要科研机构以及主要载文期刊,通过对1993—2016年国际水足迹研究相关文献的分析,发现自水足迹概念提出以来,相关研究成果不断增长，水足迹和虚拟水在水资源管理方面的作用不断凸显。但是国际形势的变化和水资源的日益紧张都对水资源问题的研究提出了新的挑战，今后水足迹的研究应该重点关注以下几个方面： 0n",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1)关注新兴的研究方向和未来可能的研究热点",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "水足迹概念的提出,把水资源管理与水资源问题的解决引入了一个全新的思路,将单纯的自然资源问题转化为社会经济问题,因此,水足迹的研究重心由“水足迹”和“虚拟水\"逐渐向“虚拟水贸易”“虚拟水战略'等方面转移,表明国内外学者对于水足迹的研究开始向更加实用的方向转变。当前水资源短缺、粮食安全、能源问题成为困扰世界各国经济社会稳定发展的三大问题,因此“水-粮食-能源\"三者的耦合是未来水足迹领域的一个可能的研究热点问题,水足迹方面的科研工作者应该善于把握这一趋势,把水足迹用于解决水资源问题的独特优势发挥出来。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)水足迹相关理论研究与评价体系的建立",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "自 2002年水足迹概念正式提出以来的十几年里,国内外水足迹领域的相关科研成果十分丰富,已经取得了相当大的成就,但是目前来看这些研究成果总体上更偏重于实证研究和基础应用,虽然也有对水足迹相关研究的产生背景、研究对象与研究特点等方面的探讨,但是水足迹仍不能够作为一个完整的学科系统,并未形成一个较为统一的认识和理论体系,主要的研究内容与方向依然很不固定,亟待夯实水足迹领域的基础理论研究。水足迹概念的引入扩大了水资源问题的解决思路,特别是在地区水资源评价方面,水足迹有相当大的优势,但是水资源评价体系的各自差别较大,没有形成统一完整的评价体系,使得不同的评价体系对地区水资源评价的结果差异较大,因此,需要对水足迹应用于水资源评价这一研究热点进行进一步的探索,尽快制定合理的评价体系,这对于水足迹在水资源问题解决方面的应用将大有裨益。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3)建立和完善广大农村地区和边缘产业的水足迹档案",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "目前关于地区水足迹的研究多集中于城市地区,而广大的农村地区拥有大量的水资源,并且进行着大量的水资源消耗,可以考虑着眼于第一产业进行水资源的优化利用,这需要首先对广大的农村地区进行水足迹档案的建立。另外,大部分的产业与产品的水足迹核算主要集中于主流产业和主要耗水产品,但是随着社会生产分工的细化,边缘产业的水足迹核算也是今后应当受到专家学者高度关注的重点研究方向。 2",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4)加强研究机构之间的学术交流与合作",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究发现目前国际水足迹研究中,机构内部研究团队合作较密切,而研究团队之间的合作则较少,这种情况不利于水足迹领域的长远发展,各学术团队之间应加强交流与合作,通过举办相关的学术论坛、学术会议等形式,对领域内的研究动向和研究现状进行交流讨论,使领域内学者之间能够互相启发,促进水足迹研究领域的整合与进步。另外,国际水足迹相关研究发文作者的集中度都比较高,这说明水足迹研究工作主要集中于少数研究人员,这些研究人员奠定了水足迹研究的基础与方向,但是足够的后备科研力量是水足迹领域得以长远发展的关键因素,加强研究生队伍培养,创立相关研究生论坛,培养科研后备力量是水足迹领域长远发展的重要一环。 C",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(5)加快专门期刊的组织与创立",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "水资源是关乎全人类生存发展的重要自然资源,被称为“生命之源”,对于水资源的研究是不可忽视的重要研究领域,但是由于专门期刊的缺乏,相关水资源研究成果无法及时得到学界的关注与讨论,严重限制了水资源领域研究成果的时效性,因此,组织一批高质量的专门期刊对于水足迹领域的发展至关重要,作为学术成果的展示平台,专门学术期刊能够更快更准确的传递领域内的最新学术成果,助力于水足迹的快速发展。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]AllnJAFortuatelteeeubstiutefwaterotheuro-polialfuturesouldbeiposible：ODA，ProriforWateResources Allocation and Management.London：ODA，1993.13-26.  \n[2]Chapagain A K,Hoekstra A Y. Value of Water Research Report Series（No.16).IHE Delft,2004.1-80.  \n[3]WackeagelMResWE.Ourecolgicalfotprint:educinghumanipactothearthM].Gabrolasland:NewSoetyublishers，196[4］邓晓军,谢世友,崔天顺,李艺,李晖.南疆棉花消费水足迹及其对生态环境影响研究.水土保持研究,2009,16(02)：176-180+185.  \n［5］石鑫.新疆近30 年棉花生产水足迹时空演变分析[D].西安：西北农林科技大学,2012.  \n[6］王晓萌，黄凯,杨顺顺,王梓元,胡婷婷.中国产业部门水足迹演变及其影响因素分析.自然资源学报,2014,29(12):2114-2126.  \n[7］李泽红,董锁成,李宇,李雪.武威绿洲农业水足迹变化及其驱动机制研究.自然资源学报,2013,28(03）:410-416.  \n[8］龙爱华,徐中民,王新华,尚海洋.人口、富裕及技术对 200年中国水足迹的影响.生态学报,2006,26(10):3358-3365.  \n[9]韩琴,孙才志,邹玮.1998-2012年中国省际灰水足迹效率测度与驱动模式分析.资源科学,2016,38(06):1179-1191.  \n[10］刘梅,许新宜,王红瑞,王峰.基于虚拟水理论的河北省水足迹时空差异分析.自然资源学报,2012,27(06):1022-1034.  \n[11］韩舒,师庆东,于洋,张履冰.新疆1999-2009 年水足迹计算与分析.干旱区地理,2013,36(02）:364-370.  \n[12]刘民士,刘晓双,侯兰功.基于水足迹理论的安徽省水资源评价.长江流域资源与环境,2014,23（02)：220-224.  \n[13］潘文俊,曹文志,王飞飞,陈劲松,曹娣.基于水足迹理论的九龙江流域水资源评价.资源科学,2012,34（10)：1905-1912.  \n[14] 宋智渊,冯起,张福平,高妍.敦煌1980-2012年农业水足迹及结构变化特征.干旱区资源与环境,2015,29(06)：133-138.  \n[15] 马晶，彭建.水足迹研究进展.生态学报，2013，33（18）：5458-5466.  \n[16] 吴兆丹,赵敏,Upmanu Lall,田泽,霍正刚.关于中国水足迹研究综述.中国人口·资源与环境,2013,223（11)：73-80.  \n[17］黄凯,王梓元,杨顺顺,金晨.水足迹的理论、核算方法及其应用进展.水利水电科技进展,2013,33(04）：78-83.  \n[18] 诸大建,田园宏.虚拟水与水足迹对比研究.同济大学学报（社会科学版),2012,23(04)：43-49.  \n[19］陈悦,陈超美,刘则渊,胡志刚,王贤文.CiteSpace 知识图谱的方法论功能.科学学研究,2015,33（02）:242-253.  \n[20]韩增林,李彬,张坤领,李璇.基于CiteSpace 中国海洋经济研究的知识图谱分析.地理科学,2016,36(05）:643-652.  \n[21］秦晓楠,卢小丽,武春友.国内生态安全研究知识图谱——基于CtieSpace 的计量分析.生态学报,2014,34（13）:3693-3703.  \n[22］李琬,孙斌栋.西方经济地理学的知识结构与研究热点——基于 CiteSpace 的图谱量化研究.经济地理,2014,34(04)： $7 - 1 2 + 4 5$ [23］范帅邦,郭琪,贺灿飞.西方经济地理学的政策研究综述——基于CiteSpace的知识图谱分析.经济地理,2015,35(05）：15-24.[24］韩增林,胡伟,李彬,刘天宝,胡渊.中国海洋产业研究进展与展望.经济地理,2016,36(01):89-96.  \n[25］孙才志,陈栓,赵良仕.基于ESDA的中国省际水足迹强度的空间关联格局分析.自然资源学报,2013,28（04）：571-582.  \n[26] 赵良仕,孙才志,郑德凤.中国省际水足迹强度收敛的空间计量分析.生态学报,2014,34(05)：1085-1093.  \n[27] 赵良仕,孙才志,邹玮.基于空间效应的中国省际经济增长与水足迹强度收敛关系分析.资源科学,2013,35(11)224-2231.  \n[28] 董璐,孙才志,邹玮,奚旭.水足迹视角下中国用水公平性评价及时空演变分析.资源科学,2014,36(09)：1799-1809.  \n[29] 秦丽杰,靳英华,段佩利.吉林省西部玉米生产水足迹研究.地理科学,2012,32(08)：1020-1025.  \n[30] 秦丽杰,段佩利.不同灌溉条件下吉林省玉米绿水足迹研究.资源开发与市场,2015,31(08)：978-981+1025.  \n[31] 段佩利，秦丽杰.吉林省玉米生长过程水足迹研究.资源开发与市场，2014,30（07）： $8 1 0 { - } 8 1 2 { + } 8 2 0$ [32] 秦文彦，唐珍珍，秦丽杰.长春市膳食水足迹研究.环境科学与管理,2013,38(10)：63-68.  \n[33] 秦丽杰,梅婷.吉林市不同收入水平的城市居民膳食水足迹研究.东北师大学报（自然科学版）,2013,45(04)：135-140.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/07426756f9a5c7d294def57bc74142a1fee873d4941af3bea1c64b14106dd0e7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    }
+]

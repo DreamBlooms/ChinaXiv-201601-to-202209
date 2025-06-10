@@ -1,0 +1,129 @@
+# 绵枣儿花芽分化的形态解剖学研究
+
+陈斌1，宫明雪」，刘筱玮1，李洪瑶1，王欢²，何淼1\*(1．东北林业大学园林学院，哈尔滨150040；2．牛驼镇人民政府，河北 固安 065500）
+
+摘要：为探明绵枣儿（Barnardia japonica）在哈尔滨地区的年生长节律以及花芽分化进程，以从长白山引种至东北林业大学花卉研究所苗圃内的绵枣儿为试验材料，采用田间观察法研究绵枣儿的年生长节律，采用石蜡切片法观察其花芽分化各阶段的形态解剖学特征。结果表明，绵枣儿在哈尔滨地区的生长节律大致可以分为4个时期：花芽分化与发育期、开花期、结实期、休眠期；绵枣儿花芽分化进程可以分为7个阶段：4月中上旬，由于土壤温度较低，鳞茎仍处于未分化期；4月下旬进入花序原基分化期；5月上旬苞片原基分化；5月下旬为小花原基分化期；5月末至6月初花被片原基分化；6月上旬进入雄蕊原基分化期；6月下旬为雌蕊原基分化期；6月末7月初为始花期。本研究明确了绵枣儿在哈尔滨地区的年生长节律和花芽分化各阶段的解剖学特性，为园林应用和新品种的选育提供了一定的科学依据。关键词：绵枣儿，生长节律，花芽分化，形态解剖
+
+中图分类号：Q944.58，S682.2文献标志码：A
+
+# Morphological and anatomical studies of flower bud
+
+differentiation of Barnardia japonica
+
+CHEN Bin1, GONG Mingxue1,LIU Xiaowei1,LI Hongyao],WANG Huan², HE Miao1\* (1.CollegeofLandscapeandArchitecture,NortheastForestry University,Harbin150o40,China;2.Niutuo Town People's Government, Gu'an O65500, Hebei, China.)
+
+Abstract: In this research, Barnardia japonica that were introduced from Changbai Mountain to the Flower Research Institute of Northeast Forestry University were used as experimental material to explore the annual growth rhythm and flower bud differentiation in Harbin. The annual growth rhythm was studied by field observation method,and the morphological and anatomical features of each stage of flower bud differentiation were observed by paraffin sectioning. The results indicated that: the annual growth rhythm of $B$ .japonica could be divided into four periods: flower bud differentiation and development phase, flowering phase,fruiting phase and dormancy phase; the flower bud differentiation process of $B$ ：japonica could be divided into seven stages: In early-middle April， the bulbs were still in the undifferentation phase due to the low soil temperature; The inflorescence primordium differentiation phase appeared in late April; In early May,the primordium differentiated;The florets primordial diferentiation arised in late May; In end of May and early June, the primordium was differentiated； The stamen primordium differentiation phase happened in early June; the pistil primordium differentiated in late June; The flowering phase was in late June and early July.This study clarified the anatomical characteristics of each stage of flower bud differentiation of $B$ ： japonica,which provided a scientific basis for garden application and breeding of new varieties.
+
+Key words: Barnardia japonica, growth rhythm， flower bud differentiation， morphologicalanatomy
+
+花在植物的整个生活史中发挥着举足轻重的作用，作为植物的繁殖器官，它能够影响植物的传粉、授粉和结实等过程（包宇等，2018；张亭等，2018），从而决定植物在自然界中的生存能力；而作为观赏性状，它数量的多少和品质的优劣是衡量其景观价值的重要指标（周亮等，2017），从而决定植物在园林应用中的市场前景。植物要开花，就要完成从营养生长阶段向生殖生长阶段的跨越，即顶端分生组织由叶芽状态转变为花芽状态，花器官原基发育成形，此过程就是花芽分化（许自龙等，2017）。由此可见花芽分化在植物的生长发育过程中是一个非常重要的阶段，研究植物的花芽分化过程有利于掌握该物种的开花生物学特征，从而为新品种的培育和园林栽培提供理论参考。
+
+绵枣儿(Barnardia japonica）为天门冬科（Asparagaceae）绵枣儿属（Barnardia）（AngiospermPhylogeny Group，2016）多年生草本植物，又名地枣、黏枣、天蒜，绵枣儿属植物种质资源丰富，约有90个种类，多数种类分布于亚、欧、非的温带地区，仅有极少数种类分布于热带山地。但我国的绵枣儿种质资源匮乏，仅产1个原生种和1个变种，即绵枣儿（B.japonica）和白绿绵枣儿（B.japonica var.alboviridis）。在园林绿化中，绵枣儿是一种极具应用前景的野生植物种类，它花色艳丽，线条优美，花期较长，耐寒耐旱力强，生长期管理粗放，病虫害少，可用于花境、林间草地，坡地群植，具有良好的造景能力，并且能产生一定的生态效益。目前，有关绵枣儿属的研究，主要集中在组织繁育（翟素萍等，2006）、光合特性（梁丽，2009）、染色体数目（Wang etal.,2008）、化学组分（Masateruet al.,2012；Masateru et al.,2013）和药用价值（Pillay et al.,2013；Shin et al.,2013）等方面的研究，但在开花生物学和花芽分化方面的相关研究很少，这使得绵枣儿在园林绿化中的合理应用和新品种的培育缺少相应的科学依据，因此，本研究以绵枣儿为试验材料，通过石蜡切片法，对花芽分化过程进行形态解剖学研究，以期进一步完善绵枣儿花芽分化各阶段的特征描述以及划分，为绵枣儿的新品种选育和园林栽培应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验地概况
+
+试验取样地于黑龙江省哈尔滨市东北林业大学花卉研究所苗圃，该地地处 $1 2 6 ^ { \circ } 3 7 ^ { \prime } 1 9 ^ { \prime \prime } \mathrm { E }$ $4 5 ^ { \circ } 4 2 ^ { \prime } 5 9 ^ { \prime \prime } \mathrm { N }$ ，为典型的中温带大陆性季风气候，冬长夏短，全年平均降水量 $5 6 9 . 1 \ \mathrm { m m }$ ，冬季11月至次年3月，均温零下 $1 9 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，4一6月为春季，气温回升快但变化无常，均温在 $8 { \sim } 1 0 \ \mathrm { ~ \textdegree ~ }$ 之间，夏季7一8月平均气温在25℃左右，秋季9—10月降雨量少，昼夜温差大，均温 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右。
+
+# 1.2 试验材料
+
+以2014年从长白山引种至在东北林业大学花卉研究所苗圃内的400余株绵枣儿为试验材料，选择其中立地条件、生长状况较为一致、生长健壮且无病虫害的植物为试验株系。
+
+# 1.3试验方法
+
+于 2016年4月至2017年7月对绵枣儿植株进行物候期的观察并进行采样，每隔3d采样1次，每次采样数量为10株。将绵枣儿的鳞茎挖出并用蒸馏水清洗干净，小心剥去外层的鳞茎，将鳞茎中心的的小芽取出并放入FAA固定液（ $5 0 \%$ 乙醇：冰醋酸：福尔马林的体积比为 $9 0 : 5 : 5 \dot { } \dot { }$ ）中固定和保存，用注射器进行抽气处理，让材料充分浸润在固定液中。抽气完毕后放 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱中进行保存。采用常规石蜡切片法制片，用爱氏苏木精染色法进行染色，用LeicaDM2500 显微镜观察绵枣儿花芽分化过程中各阶段的解剖结构特征。
+
+# 1.4绵枣儿花芽分化期间温度的测定
+
+在试验样地中心挂置温度计，试验期间每日上午 $^ { 1 0 \mathrm { ~ h ~ } }$ 记录环境温度。每个分化阶段内统计的最低温度为该阶段的温度下限，最高温度为该阶段的温度上限。
+
+# 2结果与分析
+
+# 2.1绵枣儿年生长节律观察
+
+观察发现（图1），绵枣儿鳞茎在4月中旬中就已经开始分化花芽，5月初地上部叶片开始生长，这表明绵枣儿在生殖生长的同时，营养生长也在进行。在6月末，地上部叶片已经停止了生长，花序梗露出地面，但小花序尚未完全发育，这表明绵枣儿的花芽分化仍在继续。7月末，绵枣儿进入花期，10月气温开始降低，绵枣儿地上部分枯萎，进入结实期，随后进入休眠期。因此，绵枣儿在哈尔滨地区的生长周期可划分为4个阶段，即花芽分化与发育期（4—7月），开花期（7—8月），结实期（9—10月），休眠期（10月至次年4月）。
+
+-.. ·  
+1月 2月 3月 4月 5月 6月 7月 8月 9月 10月 11月 12月  
+January:February! March Apri May June July August SeptemberOctoberNovemberDecember·休眠期 花芽分化与发育 开花期 结实期 休眠期Dormancyphase Flowerbuddifferentiation Floweringphase Fruitingphase Dormancyphaseanddevelopment phase
+
+# 2.2绵枣儿花芽分化进程及解剖结构特征
+
+绵枣儿花芽分化从起始阶段到结束阶段需要经历一系列形态变化过程，根据每个阶段的特点可划分为以下7个阶段：
+
+# 2.2.1未分化期
+
+通过对4月初采集的鳞茎材料的观察发现，此时鳞茎中心的生长点，仍然为休眠状态。剖面结构切片显示，此时生长锥呈先端圆润的圆丘状，且体积较小，外表面平滑，有典型的原套和原体分区结构（刘伟等，2012）。原套部分由外层排列整齐紧密、核大质浓的细胞构成，原体被原套包围，由内层排列散乱疏松的细胞构成（图2：A）。此阶段营养生长锥细胞分裂活跃，体积快速增大，叶原基在生长锥两侧继续分化。
+
+# 2.2.2花序原基分化期
+
+4月下旬，由于温度回升，土壤解冻，绵枣儿的地下部分逐步解除休眠，开始生长。此阶段生长锥高度开始增加，由扁圆形的圆丘状逐渐变为山丘状，同时生长锥的宽度也在增大，在生长锥两侧陆续分化出少量叶原基（图2：B,C,D,E）。在整个花芽分化过程中，花序梗始终保持垂直向上生长。在形态学上，花原基的形成标志植物由营养生长状态转为生殖生长状态，此期过后，绵枣儿植株开始进行花部各器官的分化进程。
+
+# 2.2.3苞片原基分化期
+
+5月中旬，花序原基继续分化，花序原基顶部圆钝，形成苞片原基，并开始纵向伸长生长（图2：H），逐渐包裹生长锥上部已分化的小花原基（图2：I）。随着小花原基的分化，苞片原基继续伸长生长，呈的狭披针形，并向中心弯曲，（图2：G，J），每个小花的基部有1\~2枚苞片。在整个花序轴上苞片原基与小花原基的界限明显，并且排列紧密。
+
+# 2.2.4 小花原基分化期
+
+随着苞片原基不断分化生长，其内侧不断分化出球状小花原基。球状凸起初期表现为圆丘形，其内部细胞数量多，排列紧密，分裂活动旺盛，花原基起初纵向伸长生长，然后经过注：GC.营养生长锥;RC.生殖生长锥;BP.小苞片原基;FP.小花原基;TeP.花被片原基;SP.雄蕊原;PP.雌蕊原基;Ov.子房;Ovp.胚珠原基;St.花柱;A.营养生长锥;B,C,D,E.花序原基分化;F,G花序轴伸长与小花分化同时进行;H.小苞片原基;I.小苞片原基与小花原基;I,J,K.小花原基分化过程;L,M.花被片原基分化；N,O,P.雄蕊原基分化;P-U.雌蕊原基分化;V.子房、胚珠、花药、花丝形成;W.柱头形成；显微标尺： $\mathrm { A { \sim } G , U , W { = } 2 0 0 \mu m }$ ；H\~T, $\mathrm { V } { = } 5 0 ~ \mu \mathrm { m }$ 。
+
+![](images/3c6c7f62bcec4f91f01fae2e77c8503ccbf37020f6e33dc12304e2bda3c1a320.jpg)
+
+Note:GC.Nutritive growth tip; RC.Reproductive growth tip; BP. Bracteole primordium; FP.Floret primordium;   
+TeP.Tepal primordium; SP.Stamen primordium ; PP. Pistil primordium; Ov.子房; Ovp.Ovule primordium; St.
+
+Style; A.Nutritive growth tip; B,C,D,E. Inflorescence primordium differentiation; F,G.Inflorescence axis elongation and florescence diferentiation simultaneously; H.Bracteole primordium; I Bracteole primordium and floret primordium ; I, J,K.The process of floret primordium ; L,M.Tepal primordium diferentiation; N,O,P. Stamen primordium diferentiation; P\~U.Pistil primordium diferentiation; V.The formation of ovary,ovule, anther and filament; W.The formation of stigma ; Microscopic ruler: ${ \mathrm { A } } { \mathrm { \sim } } { \mathrm { G U } } , { \mathrm { W } } { \mathrm { = } } 2 0 0 \ { \mu \mathrm { m } }$ ；H\~T, $\mathrm { V } { = } 5 0 ~ \mu \mathrm { m }$
+
+Fig.2 Process of bud differentiation of Barnardia japonica平周和垂周分裂，花原基膨大形成一个球状结构（图2：I,J,K）。每个花芽上具有许多个小花原基，但其发育进程大不相同，成熟程度由下至上升高，此时花序轴仍保持纵向伸长生长（图2：FG）。
+
+# 2.2.5花被片原基分化期
+
+绵枣儿的花与其他植物相比具有明显的差异，它的花无花瓣和花萼的区分，统称为花被片。解剖结构显示，花被片原基从5月下旬开始陆续出现。小花原基分化之后，花原基顶部生长锥变为平展状，并且两侧对称分化花被片原基（图2： $^ { \mathrm { L , M } }$ ）。花被片原基细胞不断分化生长，并向中心位置伸长弯曲，最终两片花被片紧密结合完全包裹中心的小花原基（图2：N,O,P）。
+
+# 2.2.6 雄蕊原基分化期
+
+在花被片将小花原基顶部包裹的过程中，同时进行了雄蕊原基的分化。雄蕊原基内细胞细胞质浓，并且排列紧密，以利于旺盛的分化活动。雄蕊原基的分化初期，呈半椭圆形（图2：N,O），通过平周分裂与垂周分裂变为半圆球形至指形（图2：P,Q,R）。雄蕊原基继续发育，分化出花丝与花药，花药内形成花粉囊（图2：V）。
+
+# 2.2.7 雌蕊原基分化期
+
+继雄蕊分化的同时，雌蕊原基的分化也逐渐开始。当雄蕊原基的变为半球形时，其内侧分化出的凸起形成心皮原基（图2：P,Q），心皮原基两侧分化迅速，中部分化不活跃，形成明显的杯状结构（图2：R,S）。随后，心皮顶端不断向中心靠拢内卷闭合形成子房（图2：T,U），子房内部分化出胚珠原基，形成胚珠（图2：V），子房上部为花柱（图2：W）。
+
+至6月末，花序上已具有花器官原基分化完全的小花。每个花序上虽具有几十个小花，但每个小花的发育状态不尽相同，此后，花芽分化与花器官发育同时进行，直至花期开始。
+
+# 2.3绵枣儿花芽分化进程
+
+通过对绵枣儿花芽分化各阶段解剖结构的观察与统计，发现绵枣儿植株在哈尔滨地区的花芽分化主要集中在4—7月。由表1可知，花芽未分化期主要发生在4月中上旬，此时哈尔滨地区刚入春，温度在10度左右，鳞茎尚处于休眠状态，，在7个分化时期中，营养生长期历时较长；进入4月下旬后，温度逐渐回暖，绵枣儿地下部分开始进行分化生长，花序原基形成，这一时期历时约15d；绵枣儿苞片原基分化期历时大约10d，此时哈尔滨温度范围在 $1 5 { \sim } 2 2 \ \mathrm { ~ \textdegree C }$ ；5月下旬，绵枣儿处于小花原基分化期，持续时间为8d，温度在 $1 8 { \sim } 2 3 \ \mathrm { ~ \textdegree C }$ 5月末6月初开始，绵枣儿陆续出现花被片，持续天数大约为12d，温度在 $2 0 { \sim } 2 4 \ \mathrm { ~ \textdegree ~ }$ ；雄蕊原基分化期与雌蕊原基分化期均历时12d，分别发生在6月中上旬及下旬，温度在 $2 5 \mathrm { ~ \textdegree C }$ 左右。在6月末至7月初，哈尔滨地区绵枣儿植株上开始分化出小花，逐渐进入开花期。绵枣儿从花芽分化到雌蕊形成历时 $8 9 \mathrm { d }$ ，温度范围在6\~26℃。
+
+表1绵枣儿花芽分化的时间与温度变化Table.1 Time and temperature variation of flower buds of Barnardia japonica  
+
+<html><body><table><tr><td>分化阶段 Differentiation phase</td><td>日期(月/日) Date(month/day)</td><td>持续天数 Days</td><td>温度 Temperature(℃)</td></tr><tr><td>未分化期 Undifferentation phase</td><td>4/5-4/25</td><td>15</td><td>6~15</td></tr><tr><td>花序原基分化期 Inflorescence primordium differentiation phase</td><td>4/26-5/10</td><td>15</td><td>10~20</td></tr><tr><td>苞片原基分化期 Bract primordium differentiation phase</td><td>5/11—5/20</td><td>10</td><td>15~22</td></tr><tr><td>小花原基分化期 Small flowers primordium differentiation phase</td><td>5/21-5/28</td><td>8</td><td>18~23</td></tr><tr><td>花被片原基分化期 Perianth primordium differentiation phase</td><td>5/29-6/10</td><td>12</td><td>20~24</td></tr><tr><td>雄蕊原基分化期 Stamen primordium differentiation phase</td><td>6/11-6/22</td><td>12</td><td>20~25</td></tr><tr><td>雌蕊原基分化期 Pistil primordium differentiation phase</td><td>6/23-7/3</td><td>12</td><td>20~26</td></tr></table></body></html>
+
+# 3结论与讨论
+
+植物的花芽分化过程是一个极为复杂的生理和形态分化过程。对植物的花芽分化进程的研究对植物的类群划分、花期调控、人工杂交授粉，品种间合理配置以及生产栽培具有重要意义（吴泽秀等，2019；常君等，2019；赵云芳等，2018；韦三立等，1995）。通常情况下，植物的花芽分化是以从外向内的顺序进行的，首先分化出萼片原基，接着分化出花瓣原基，最后分化出雄蕊原基和雌蕊原基（王彩云等，2002），绵枣儿的花芽分化进程符合这一规律。在当前的研究中，由于对花芽分化各阶段的划分没有统一的标准，导致各学者对花芽分化时期划分的标准不同，但大多数以形态结构和生理的变化作为划分依据。目前针对不同植物的花芽分化阶段的划分出现了多样性的局面。如在对细叶百合花芽分化的研究中，王家艳将其划分为6个时期，分别为未分化期、分化初期、小花原基分化期、花被片原基分化期、雄蕊原基和雌蕊原基分化期、花序形成期六个时期（王家艳，2014）。在对铁线莲属植物花芽分化的研究中，杨艺等人将其划分为未分化期、分化初期、花被片分化期、雄蕊分化期和雌蕊分化期（杨艺等，2019）。而宁云芬等人将新铁炮百合‘雷山’（Liliumformolongi‘Raizan’）的花芽分化进程划分为分化初期、花序原基和小花原基分化期、花器官分化期和花序形成期（宁云芬等，2008）。汪晓谦跟踪观察郁金香花芽分化进程，发现其分化始于6月中旬，至8月初结束，并划分为五个时期：未分化期、外轮花瓣分化期、内轮花瓣分化期、雄蕊分化期和雌蕊分化期（汪晓谦，2011）。
+
+由此可见，不同植物种间花芽分化过程存在较大差异，每个种类均具有自身的特异性，但从总体上看，对植物花芽分化不同阶段的划分依据主要是生长锥形态的变化以及花部各器官的组织结构的生长分化状态（赵云芳等，2018）。在本研究中，我们同样以此为主要划分依据，将绵枣儿的花芽分化进程划分为7个阶段：未分化期、花序原基分化期、苞片原基分化期、小花原基分化期、花被片原基分化期、雄蕊原基分化期和雌蕊原基分化期，综合年生长发育节律观察结果分析，绵枣儿在哈尔滨地区可作为7—8月观花的地被植物应用，对绵枣儿去雄进行杂交育种的最佳时期为雄蕊原基分化完成至雌蕊原基分化期，即6月下旬至7月初。此外，绵枣儿的花芽分化可能还受温度、光照等环境因子的控制，这有待于进一步的研究。
+
+参考文献：   
+Angiosperm Phylogeny Group, 2016. An update of the angiosperm phylogeny group classification for the orders and families of flowering plants: APG IV[J]. Bot JLinn Soc,181 (1): 1-20.   
+BAO Y, QIAO YN, YAN XF, et al.,2014. Prelimary study of the pollination biology of lychnis cognata and L.wilfordi[J].Chin Bull Bot,53(05):634-642.[包宇,乔娅楠，闫兴富，等,2014. 浅裂剪秋萝和丝瓣剪秋萝传粉特性的初步研究[J]．植物学报，53(05)：634-642.]   
+CHANG J, REN HD, LIU Y, et al., 2019. Morphological observation of staminate flower bud differentiation of Pecan (Carya illinoensis)[J].J SW Univ (Nat Sci Ed), 41(2): 33-38.[常君, 任华东，刘雨，等，2019．薄壳山核桃雄花花芽分化的解剖学研究[J]．西南大学学报(自 然科学版，41(2)：33-38.]   
+LIANG L, 2Oo9.Studies on the introduction and domestication of Scilla scilloides and their propagation techniques[D]. Hefei: Anhui Agricultural University.[梁丽，2Oo9.绵枣儿引种 驯化及繁殖技术的研究[D]．合肥：安徽农业大学.]   
+LIU W,LIU JD, ZHOU HG, 2012. Morphological observation on floral bud differentiation of Lilium formolongi under night-break condition[J]. Guihaia, 32(6):828-833.[刘伟，刘久东, 周厚高，2012．暗期光间断条件下新铁炮百合花芽分化的形态学研究[J]．广西植物， 32(6): 828-833.]   
+Masateru O, Yoshie T, Tetsuya O,et al.， 2012. Two new nortriterpenoid glycosides and a new phenylpropanoid glycoside from the bulbs of Scilla scilloides[J]. Chem Pharm Bull, 60(10): 1314-1319.   
+Masateru O, Tetsuya O, Shin Y, et al.,2013.Five new nortriterpenoid glycosides from the bulbs of Scilla scilloides[J]. Chem Pharm Bull, 61(5): 592-598.   
+NING YF，LONG MH，TAO J，et al.，2008.Morphological observation on flower bud differentiation of Lilium formolongi Bulb.[J]. Acta Hort Sin,35(9): 1368-1372.[宁云芬,龙明 华，陶劲，等，2008．新铁炮百合花芽分化过程的形态学观察[J]．园艺学报，35(9): 1368-1372.]   
+PILLAY P, PHULUKDAREE A, CHUTURGOON A, et al., 2013. The cytotoxiceffects of Scilla nervosa (Burch.） Jessop (Hyacinthaceae） aque-ous extract on cultured HepG2 cells[J]. J Ethnopharmacol, $1 4 5 ( 1 ) : 2 0 0$   
+SHIN Y, YOUICHIROU N, KENSUKE W, et al., 2013. Anti-inflammatory and antitioxidative effects of a methanol extract from bulbs of Scilla Scilloides[J]. Biosci Biotechnol Biochem, 77(7):1569-1571.   
+WANG AY, Zhao YH,Liu LD, et al.,208. Karyotype studyon Scilla scilloides (Lind.l) druce in Yantai[J]. Agric Ltural Sci Technol, 9(5): 99-101.   
+WANG CY, GAO LP,LU DF, et al. 2002. A study on morphological diffrentiation of flower bud of Osmanthus fragrans 'Houban Jingui'[J]. Acta Hort Sin,(O1): 52-56.[王彩云，高莉 萍，鲁涤非，等，2002.‘厚瓣金桂'桂花花芽形态分化的研究[J]．园艺学报，2002(01)： 52-56.]   
+WANG JY, 2014.Morphological research of flower bud differentiation of Llilium pumilum[D]. Harbin:Northeast Forestry University.[王家艳，2014．细叶百合花芽分化过程的形态学研 究[D]．哈尔滨：东北林业大学.]   
+WANG XQ，2011． Study on morphological and physiological evolution of floral bud differentiation in Tulip[D].Xi'an:Northwest A& F University.[汪晓谦，2011．郁金香花 芽分化的形态发育及其生理生化的研究[D]．西安：西北农林科技大学.]   
+WEI SL,CHEN Y,HAN BW,1995. Studies on bud differentiation of dahlia flower[J]. Acta Hort Sin，22(3):272-276.[韦三立，陈琰，韩碧文，1995．大丽花的花芽分化研究[J]．园艺学 报，22(3): 272-276.]   
+WU ZX, JIANG FL,LIU M, et al.,2019. The flower bud differentiation process of Allium sativum and its anatomical structure and morphological characteristics changes [J]. JPlant Resour Environ,28(1):25-33.[吴泽秀，蒋芳玲，刘敏，等，2019.大蒜花芽分化进程及其解剖 结构和形态特征变化[J]．植物资源与环境学报，28(1)：25-33.]   
+XU ZL,WANG YD, CHEN CY,et al., 2017. Observation of the morphological and anatomical characteristics of male flower bud development in Litsea cubeba (Lour.)Pers [J]. Plant Sci J, 35(2)：152-163.[许自龙，汪洋东，陈益存，等，2017．山鸡椒雄花花芽发育形态解剖特 征观察[J]．植物科学学报，35(2)：152-163.] YANG Y, WANG N, WANG KL, et al., 2O19. Studies on the flower bud differentiation of four species of Clematis [J].Acta Hort Sin,46(1):87-95.[杨艺，王娜，王奎玲，等，2019．铁 线莲属4种植物的花芽分化研究[J]．园艺学报，46(1)：87-95.]   
+ZHAI SP, XIONG L, WANG JH, et al., 2006. Establishment of regeneration system from leaves of Scilla scilloides (Lindl.)[J].Pl Physio Commun,42(1): 69.[翟素萍，熊丽，王继华，等, 2006.绵枣儿叶片植株再生体系的建立[J]．植物生理学通讯，42(1)：69.]   
+ZHAO YF, DAI JL, GAO SP, et al., 2018. Flower bud diferentiation process and its morphology and anatomical structure in two types of stigma of Plumbago auriculata [J]. JNanjing For Univ (Nat SciEd),42(6):203-208.[赵云芳，代佳灵，高素萍，等，2018．蓝花丹花芽 分化外部形态与解剖结构的关系[J]．南京林业大学学报(自然科学版)，42(6): 203-208.]   
+ZHANG T, YANG P, GUO YW, et al., 2018. Variation of floral scent composition of Amomum villosum before and after pollination and its ecological significance[J]. Chin JEcol, 37(12): 3640-3646.[张亭，杨培，郭岩伟，等，2018．阳春砂仁(Amomumvillosum)花气味传粉前 后的变化及其生态意义[J]．生态学杂志，37(12)：3640-3646.]   
+ZHOU L, XIE GL, ZOU YP, 2017. The rooting propagation of Plumbago auriculata[J]. J NW Univ (Nat Sci Ed),47(1):82-86.[周亮，谢桂林，邹义萍，2017．蓝雪花扦插繁殖技术研 究[J]．西北大学学报(自然科学版)，47(01)：82-86.]

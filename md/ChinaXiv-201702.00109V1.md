@@ -1,0 +1,226 @@
+# DOI:10.5846/stxb201507161501
+
+刘华,张丹桔,张健,杨万勤,李勋,张艳,张明锦.马尾松人工林林窗大小对四种调落叶质量损失和养分释放的影响.生态学报,2017,37（2）)：513-522.  
+LiuH,ZhngDagng,iagafheeePinus massoniana plantations.Acta Ecologica Sinica,2017,37(2）:513-522.
+
+# 马尾松人工林林窗大小对四种调落叶质量损失和养分 释放的影响
+
+刘华,张丹桔,张健\*，杨万勤,李勋,张艳,张明锦四川农业大学生态林业研究所,四川生态林业工程重点实验室，成都611130
+
+摘要：马尾松人工林乔木层植物凋落物的分解对林地养分平衡和系统物质循环具有重要意义，并可能受不同大小林窗下微环境差异的影响。采用凋落物袋分解法,以马尾松（Pinus massoniana）人工林人为砍伐形成的7个不同大小林窗( $\mathrm { ~  ~ \zeta ~ G ~ l ~ } : 1 0 0 \mathrm { ~  ~ m ~ } ^ { 2 } \cdot 6 2 \mathrm { ~  ~ \zeta ~ G ~ }$ ：$2 2 5 \textrm { m } ^ { 2 } \cdot \mathrm { G } ^ { 3 } : 4 0 0 \textrm { m } ^ { 2 } \cdot \mathrm { G } ^ { 4 } : 6 2 5 \textrm { m } ^ { 2 } \cdot \mathrm { G } 5 : 9 0 0 \textrm { m } ^ { 2 } \cdot \mathrm { G } 6 : 1 2 2 5 \mathrm { m } ^ { 2 } \cdot \mathrm { G } 7 : 1 6 0 0 \textrm { m } ^ { 2 } )$ 为研究对象,林下（G0)为对照,研究林窗大小对红椿（Tona ciliata）、桢楠（Phoebe zhennan）香樟（Cinnamomum camphora）和马尾松4种乡土树种凋落叶质量损失及养分释放的影响。结果显示:1)林窗大小(GO—G7)显著影响林窗中心放置的红椿和桢楠凋落叶N和P释放率、香樟凋落叶失重率和N、P、K释放率以及马尾松凋落叶P和K释放率。相对于林下,中小型林窗(G1—G4)的凋落叶失重率和 $_ { \textrm { N } , \textrm { P } }$ 释放率明显较大，而大型林窗(G6—G7)的凋落叶K释放率明显较大。2)林窗内放置位置显著影响红椿、桢楠和马尾松调落叶的K释放率及香樟凋落叶的P释放率。红椿和桢楠的凋落叶K释放率从林窗中心到边缘显著减少,而马尾松凋落叶K释放率及香樟P释放率从林窗中心到边缘显著增加。3)4种凋落叶类型中,红椿凋落叶分解最快,其分解 $5 0 \%$ 和 $9 5 \%$ 所需时间分别为5.29和23.14个月。上述结果表明,林窗大小和林窗内位置对调落物质量损失及其养分释放具有显著影响,但影响大小及趋势随物种初始基质质量的差异具有明显变化,研究结果为亚热带低山丘陵区马尾松人工低效林的科学经营及管理提高了一定的科学依据。
+
+关键词：林窗面积；马尾松人工林；失重率;养分淋溶;凋落叶特征
+
+# Effects of forest gap size on leaf litter weight loss and nutrient release of four species in Pinus massoniana plantations
+
+LIU Hua，ZHANG Danju， ZHANG Jian\*，YANG Wanqin，LI Xun，ZHANG Yan，ZHANG MingjinKeyLboratof
+
+Abstract:Literdecomposition isan essential componentof the nutrient balanceand materialcycling in Pinus masoniana plantations.Forestgap sizecould playanimportantrolein literdecompositionduetoitsefectsonthemicroenvironment. To evaluatethe efects offorestgap sizeonleaflitter massloss and nutrient releaseoffour native species（Toona ciliata, Phoebe zhennan，Cinnamomum camphora，Pinus masoniana），a field experiment consisting of seven gap sizes (i.e.，G1: $1 0 0 \ \mathrm { m } ^ { 2 }$ ，G2: $2 2 5 ~ \mathrm { m } ^ { 2 }$ ，G3: $4 0 0 \mathrm { ~ m } ^ { 2 }$ ,G4: $6 2 5 ~ \mathrm { m } ^ { 2 }$ ,G5: $9 0 0 \mathrm { m } ^ { 2 }$ ,G6: $1 2 2 5 \mathrm { m } ^ { 2 }$ ,and G7: $1 6 0 0 \mathrm { m } ^ { 2 }$ ）was established in 2013. The results showed that:1） Forest gap size significantly affected leaf liter mass loss of $C$ . camphora，but not the mass loss of the other three species.The litter nutrient release rate at the gap center for $T .$ ciliata（N,P）, $P$ . zhennan（N,P），C. camphora（N，P，K）and $P$ . massoniana（P，K）were significantly influenced by forest gap size.Furthermore，leaf litter mass loss rate，and N and $\mathrm { \Delta P }$ release rates were significantly higher in small and medium sized gaps （G1—G4） than in large gaps（G5-G7）（ $P { < } 0 . 0 5 )$ . However,litter K release rates were significantly lower in small and medium sized gaps（G1— G4）than in the larger gaps ( $\textstyle P < 0 . 0 5 ) . 2$ ）The leaf litter collection location in the forest gaps influenced the litter K release rate of $T _ { \cdot }$ ciliata, $P$ ， zhennan，and $P$ . massoniana. The K release rate of T. ciliata and $P$ ， zhennan litter at the gap centers were significantly higher than those at the gap edges ( $P { < } 0 . 0 5 )$ ). In contrast, $\mathrm { \Delta P }$ release rates of $C$ ， camphora litter and K release rates of $P$ . massoniana litter at the gap center were significantly lower than rates at the gap edges ( $P { < } 0 . 0 5$ ). 3) Litter mass loss and nutrient release rates of $T$ ，ciliata were the highest among the four species.According to the fitting equation，the $5 0 \%$ and $9 5 \%$ decomposition times for $T _ { \mathbf { \delta } }$ ，ciliata were 5.29 and 23.14 months，respectively. Overall， forest gapsizeand litersampling location in thegaps significantly afectedliter masslossand nutrient release.However，the extentof theseefectsand dynamicchanges dependedontheinitial literquality.Theseresultscanbebeneficial forthe scientific management of $P$ ，Massoniana plantations in low mountainous and hilly areas of subtropical zones.
+
+Key Words: forest gap size；Pinus masoniana plantations；mass loss rate； nutrient leaching；leaf liter traits
+
+干扰是森林生态系统循环的驱动力,连续不断的森林干扰决定了林分的结构和组成,其中,林窗是森林干扰中最常见的方式之一。林窗形成后对森林生境、植物群落、土壤动物、菌根及微生物量等产生重要影响，从而改变森林生态格局[1]。而且林窗的大小直接影响着林窗的光照、温度和其它生态环境因子,从而影响森林养分循环等过程[2]。迄今,国内对林窗大小的研究主要涉及林窗内环境、林下植被多样性、植被恢复与演替的影响等方面[3],而关于林窗大小对森林凋落物质量损失及养分释放的影响的研究报道较少。理论上,林窗面积越大,淋溶以及光降解作用越大,促进凋落物的分解[4]。然而,在亚热带森林研究中发现,小林窗下凋落物的损失率较大[5]。也有研究发现,林窗大小对凋落物分解无显著影响[6]。导致上述研究差异的原因可能在于气候和凋落物基质质量的差异。林窗面积决定了到达林窗地表的太阳辐射强度以及降水量,而林窗内不同位置因树冠的遮挡对上述环境因子能起到再分配作用。故此,林窗面积及林窗内不同位置可能综合影响凋落物的分解。马尾松(Pinus massoniana)是我国亚热带地区最重要的造林树种之一,分布广、适应性强、耐干旱与瘠薄。但马尾松人工纯林存在一系列的生态问题,如密度过大、林分结构单一、生物多样性低、地力衰退等,林窗干扰是改造低效人工林的主要技术手段[3]。为此,本实验选择宜宾市高县来复镇马尾松（Pinusmasoniana）人工低效林为研究对象,研究林窗大小对当地乡土树种红椿（Toonaciliata）、桢楠（Phoebezhennan）、香樟（Cinnamonumcamphora）和马尾松4种凋落叶质量损失及养分释放的影响,以期进一步认识马尾松人工林的养分动态循环特征,并为该地马尾松人工林生态经营及管理提供科学依据。
+
+# 1实验方法
+
+# 1.1 研究区概况
+
+研究区位于四川省宜宾市高县境内( $2 8 ^ { \circ } 4 0 ^ { \prime } 2 1 ^ { \prime \prime } .$ 一 $2 8 ^ { \circ } 4 2 ^ { \prime } 4 4 ^ { \prime \prime } \mathrm { N }$ ， $1 0 4 ^ { \circ } 3 5 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { - } 1 0 4 ^ { \circ } 3 9 ^ { \prime } 1 3 ^ { \prime \prime } \mathrm { E } \big )$ ，气候类型属中亚热带湿润季风气候,年均温 $1 8 . 1 ~ \mathrm { { ^ { q } C } }$ 、年降水量 $1 0 2 1 . 8 ~ \mathrm { m m }$ ,气候温和,雨量充沛,立体气候明显。该研究样地选自于来复辖区内川云中路毛顛坳的人工马尾松林,海拔高度 $4 0 0 { - } 5 5 0 \mathrm { ~ m }$ ,土壤为山地黄壤。选择地形地貌、海拔、母岩、土壤类型、坡度、坡位等相同或相近的42年生的马尾松人工林为研究样地。马尾松人工林林分结构简单，乔木以马尾松为主，郁闭度为0.7一0.8,乔木行间距 $2 . 5 ~ \mathrm { m } { \times } 2 . 5 ~ \mathrm { m }$ ,密度约为1100 株 $/ \mathrm { h m } ^ { 2 }$ 。林下植被盖度约为 $3 0 \%$ ,主要灌木有野梧桐（Mallotus japonicus）、梨叶悬钩子（Rubuspirifolius）和铁仔（Myrsineafricana）等,主要草本有商陆（Phytolacca acinosa）、芒萁（Dicranopteris dichotoma）、芒（Miscanthus sinensis）、草（Arthraxon hispidus）蕨(Pteridium aquilinum）和皱叶狗尾草(Setaria plicata)等。
+
+# 1.2样地设计与方法
+
+2011年10月在实验区选择林地情况相近、林分密度相似的42年生马尾松人工林,通过采伐形成7个面积不等的近正方形林窗（G1 $: 1 0 0 \mathrm { ~ m } ^ { 2 }$ 、G2:225 m²、G3: $4 0 0 ~ \mathrm { ~ m } ^ { 2 }$ 、G4:625 m²、G5:900 m²、G6:1225 m²、G7:
+
+$1 6 0 0 \ \mathrm { m } ^ { 2 }$ )。将这些林窗划分为小型林窗(G1—G2）、中型林窗（G3—G4）和大型林窗（G5—G7)3个等级[3]。同时，选择远离这些林窗且面积大于 $4 0 0 \ \mathrm { m } ^ { 2 }$ 的马尾松纯林作为对照样地，每个处理设置3个重复样地见附图1。样地基本情况见附表1。于2013年9月下旬分别于马尾松林中收集新鲜、自然凋落、上层未分解的马尾松、红椿、桢楠、香樟凋落叶,风干后称取 $1 0 \mathrm { ~ g ~ }$ 分装于大小为 $2 0 \ \mathrm { c m } { \times } 2 0 \ \mathrm { c m }$ 、孔径为 $0 . 5 ~ \mathrm { m m }$ 的尼龙网袋中,共计5760袋（7个林窗面积 $\mathbf { \nabla } \times 2$ 个取样点 $\times 3$ 次面积重复 $\times 8$ 次取样）。于首次野外埋样后，立即从样地随机抽取每物种5份风干凋落叶(考虑在埋样过程中可能出现质量损失等误差)于 $6 5 \mathrm { ^ { \circ } C }$ 烘箱烘干至恒重，测定其自然风干后的含水量,然后磨碎测定其初始基质质量。2013年11月中旬,沿同一坡向自林窗中央至林下依次按林窗中心（gap center）、林窗边缘（gapedge）（林窗边缘界定为林冠空隙与周围边界木基部所围成的部分）、林下均放置4种凋落物网袋(平铺于土壤表面，袋间距离 $\geqslant 2 { \mathrm { ~ c m } }$ ,以免相互影响）。分别在7个林窗的中心、边缘及林下的马尾松凋落物袋中放入纽扣式温湿度记录器，设定为每 $^ { 2 \mathrm { ~ h ~ } }$ 记录1次数据见附图2,不同阶段日平均温度如附表2。于2013年12月中旬、2014年年2月中旬、5月中旬、8月中旬(1个生长周期)在每个样方内取每种凋落物3袋。凋落袋取回后,及时将附着在上面的土壤颗粒等杂质去除干净,烘干至恒重并称重,用于分解模拟方程的建立。
+
+# 1.3样品分析
+
+全碳的测定采用重铬酸钾加热法（GB7657-87），称取过 $0 . 2 5 ~ \mathrm { m m }$ 筛网的烘干植物样 $0 . 0 1 \mathrm { ~ g ~ }$ 于烘干硬质试管中，加入 $0 . 1 \ \mathrm { m o l / L }$ 的重铬酸钾 $5 ~ \mathrm { m L }$ ,再缓慢加入 $5 ~ \mathrm { m L }$ 浓硫酸,于170— $1 7 5 \mathrm { ^ { \circ } C }$ 的蜡浴锅中，蜡浴 $5 ~ \mathrm { m i n }$ ，洗净于三角瓶中,加入邻菲啰呤指示剂3滴，摇匀，用 $0 . 1 \ \mathrm { m o l / L }$ 硫酸亚铁滴定即可。称取烘干并磨碎过筛的植物样 $0 . 5 \mathrm { ~ g ~ }$ 于开氏瓶中,采用硫酸-过氧化氢消化法7消煮,充分消煮完成后装于 $1 0 0 ~ \mathrm { m L }$ 塑料瓶中以供 $\smash { \mathrm { ~ N ~ } ,  { \mathrm { P } _ { \perp } }  { \mathrm { K } } }$ 的测定。全氮的测定采用凯氏定氮法（LY/T1269—1999）,全磷的测定采用钼锑抗比色法（LY/T1270—1999）,全钾的测定采用火焰光度计法（LY/T1270—1999）。木质素的测定采用范氏（Van Soest)洗涤纤维法[8],称样 $1 \ \mathrm { g } \ , 7 2 \%$ 硫酸浸泡,过夜,再用丙酮抽洗至透明, $1 7 0 \%$ 烘干1h,称重W1,马弗炉 $5 5 0 \mathrm { ^ { \circ } C }$ ,烧3h,称重W2,W1—W2即为木质素含量。
+
+# 1.4计算公式
+
+凋落物失重率[9]：
+
+$$
+D _ { \scriptscriptstyle { w i } } = ( \varDelta W / W _ { \mathrm { 0 } } ) \times 1 0 0 \%
+$$
+
+式中， $D _ { w i }$ 为失重率; $\Delta \mathcal { W }$ 为各阶段所取样品的失重量 ${ \bf \Xi } ( \bf { \Lambda } _ { g } )$ ; $\textstyle \mathbb { W } _ { 0 }$ 为投放时分解袋内样品重量 $\mathbf { \tau } ( \mathbf { g } )$ 。
+
+养分释放率[9]：
+
+$$
+E _ { i } = [ \left( e _ { _ 0 } - e _ { i } \right) / e _ { _ 0 } ] \times 1 0 0 \%
+$$
+
+式中， $E _ { i }$ 为第 $i$ 个月养分的净释放率 $( \% ) { \mathfrak { s } } _ { i }$ 为第 $i$ 个月所取样品养分的残留量 $( \mathbf { g } ) \mathbf { \Psi } _ { \mathbf { 0 } }$ 为凋落物养分的初始含量(g)。
+
+Olson[10]经典指数模型：
+
+$$
+\ y = a \mathrm { e } ^ { - k t }
+$$
+
+式中， $y$ 为凋落叶残留率 $( \% ) ; k$ 为分解系数； $\mathbf { \Phi } _ { t } ^ { t }$ 为时间 $( \mathbf { a } ) { : } a$ 为拟合参数; $\mathbf { e }$ 为自然对数底。
+
+# 1.5 数据分析
+
+数据统计与分析采用SPSS20.0和Excel2007,图表绘制用 Excel2007和 sigmaplot12.5。采用多因素方差分析（Thre-way ANOVA）,分析林窗大小、放置位置和物种3因素对凋落叶失重率和养分释放率的影响;采用单因素方差分析(One-way ANOVA)和最小显著差数法(LSD）,分析4种凋落叶初始基质质量的差异,并分别分析各种凋落叶失重率及养分释放率在不同大小林窗的差异；采用 $T$ 检验，检验林窗中心和边缘失重率、元素释放率的差异，显著水平均为0.05。
+
+# 2结果
+
+# 2.1凋落叶初始养分含量的差异
+
+不同树种凋落叶之间的初始C、N、P、K、C/N、C/P 和木质素含量差异均完全显著。凋落叶的C 含量由大
+
+到小依次排列为红椿 $: >$ 香樟 $>$ 桢楠 $>$ 马尾松，N、P和K含量由大到小依次排列均为红椿 $>$ 桢楠 $\mathrm { \dot { > } }$ 香樟 $\cdot >$ 马尾松，其C/N和C/P由大到小依次排列均为马尾松 $ { \mathrm {  ~ \cdot ~ } } >$ 香樟 $>$ 桢楠 $>$ 红椿，木质素含量由大到小排列依次为桢楠>马尾松 $\cdot >$ 香樟>红椿(表1）。
+
+Table 1Four leaf Liters'nutrients and recalcitrant components material content of initial parts   
+
+<html><body><table><tr><td>树种 Species</td><td>C/ （g/kg)</td><td>N/ （g/kg)</td><td>P/ （g/kg)</td><td>K/ （g/kg)</td><td>C/N</td><td>C/P</td><td>木质素/ （g/kg)</td></tr><tr><td>红椿 Toona ciliata</td><td>674.00±29.57a</td><td>58.76±0.24a</td><td>1.67±0.03a</td><td>12.76±0.27a</td><td>11.47d</td><td>403.6d</td><td>70.1d</td></tr><tr><td>桢楠Phoebe zhennan</td><td>555.10±13.64c</td><td>41.20±0.97b</td><td>1.19±0.01b</td><td>6.10±0.13b</td><td>13.47c</td><td>466.5c</td><td>346.71a</td></tr><tr><td>香樟Cinnamonum camphora</td><td>598.30±21.26b</td><td>34.8±3.22c</td><td>0.85±0.01c</td><td>3.73±0.14c</td><td>17.19b</td><td>703.9b</td><td>214.1c</td></tr><tr><td>马尾松Pinusmassoniana</td><td>455.00±16.83d</td><td>13.36±1.03d</td><td>0.34±0.01d</td><td>1.28±0.08d</td><td>34.06a</td><td>1338.2a</td><td>301.07b</td></tr></table></body></html>
+
+数值为平均值 $\pm$ 标准差；不同字母表示凋落物物种间差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$
+
+# 2.2不同大小林窗间凋落叶失重率的差异
+
+三因素方差分析结果表明,林窗大小显著影响凋落叶失重率,并均与放置位置和树种交互相关（表2)。林窗大小显著影响林窗中心放置的香樟凋落叶失重率,显著影响林窗边缘放置的红椿、香樟和马尾松凋落叶失重率。不同大小林窗间凋落叶失重率比较;林窗中心)红椿失重率G4最大,桢楠失重率G1最大,香樟失重率G5最大,马尾松失重率G4最大。林窗边缘)红椿G2最大，桢楠G3最大，香樟G5最大，马尾松G4最大（图1）。综上所述,相对于林下（G0）,G1一G5 放置的凋落叶失重率明显较高。
+
+表14种调落叶养分和难降解物质初始含量  
+表2林窗面积、位置和树种对4种调落叶失重率、养分释放率的影响  
+Table 2Effects of gap size,location and species on weight loss and nutrient release rate fi   
+
+<html><body><table><tr><td>影响因子 Factors</td><td>失重率/% Weight loss</td><td>氮释放率/% Nitrogen release rate</td><td>磷释放率/% Phosphorus release rate</td><td>钾释放率/% Potassium release rate</td></tr><tr><td>G</td><td>P <0.05</td><td>P <0.05</td><td>P <0.05</td><td>P <0.05</td></tr><tr><td>P</td><td>0.605</td><td>0.350</td><td>0.094</td><td>0.293</td></tr><tr><td>S</td><td><0.05</td><td><0.05</td><td><0.05</td><td><0.05</td></tr><tr><td>GxP</td><td>0.137</td><td><0.05</td><td><0.05</td><td><0.05</td></tr><tr><td>GxS</td><td>0.068</td><td><0.05</td><td><0.05</td><td><0.05</td></tr><tr><td>PxS</td><td>0.133</td><td>0.546</td><td><0.05</td><td><0.05</td></tr><tr><td>GxPxS</td><td><0.05</td><td><0.05</td><td><0.05</td><td><0.05</td></tr></table></body></html>
+
+G：林窗大小gap size；P：位置 position；S：树种 species； $\times$ 代表影响因子间的交互作用
+
+# 2.3不同大小林窗间凋落叶养分释放率的差异
+
+林窗大小显著影响失重率及凋落叶养分,并均与放置位置和树种交互相关(表2）。林窗大小显著影响林窗中心放置的红椿和桢楠凋落叶N 和P释放率、香樟凋落叶 $_ { \textrm { N } , \textrm { P } }$ 和K释放率、马尾松凋落叶P和K释放率，显著影响林窗边缘放置的红椿凋落叶N和P释放率、香樟和马尾松凋落叶N、P和K释放率。不同大小林窗间凋落叶养分释放率比较：林窗中心)红椿凋落叶，G4的 $_ { \textrm { N } , \textrm { P } }$ 释放率最大;桢楠凋落叶，G1的N、P 释放率最大;香樟凋落叶,G3的N释放率最大,G2的P释放率最大,G7的K释放率最大;马尾松凋落叶,G2的P释放率最大,G7的K释放率最大。林窗边缘)红椿凋落叶,G1的 $_ { \textrm { N } , \textrm { P } }$ 释放率最大;香樟凋落叶,G4 的N、P 释放率最大,G7的K释放率最大;马尾松凋落叶，G4的 $_ { \textrm { N } , \textrm { P } }$ 释放率最大，G6的K释放率最大（图2）。综上所述，相对于林下(GO),G1—G4 放置的凋落叶N、P 释放率明显较高,而G6—G7的K释放率明显较大。
+
+2.4林窗内放置位置间凋落叶失重率及养分释放率的差异
+
+凋落物放置位置对失重率及养分释放率主效应不明显,但与树种具有明显的交互作用。根据T检验结果表明：各凋落叶失重率从林窗中心到林窗边缘无显著变化,红椿和桢楠凋落叶K释放率从林窗中心到林窗边
+
+![](images/5d290c3a81473d35dfa9202e575dc72360ec1e1c24841d57edd8d3f517b3969d.jpg)  
+图1不同大小林窗间调落叶失重率的差异  
+Fig.1The difference of litter weight loss rate with different gap sizes
+
+G1—G7代表面积为 $1 0 0 \ : 2 2 5 \ : _ { \circ } 4 0 0 \ : 6 2 5 \ : _ { \circ } 9 0 0 \ : _ { \circ } 1 2 2 5 \ : _ { \circ } 1 6 0 0 \ : \mathrm { m } ^ { 2 }$ 的林窗，GO：林下对照 understory；GC：林窗中心gap center；GE：林窗边缘 gapedge；不同小写字母表示不同林窗之间的显著差异( $\scriptstyle P < 0 . 0 5$ ）
+
+缘显著减少,而香樟凋落叶 P释放率和马尾松凋落叶K释放率从林窗中心到林窗边缘显著增加（表3）。
+
+表3林窗内不同位置4种凋落叶失重率、养分释放率的独立样本T检验  
+  
+
+<html><body><table><tr><td colspan="6">Table3 The independentsampleT-testanalysisonweightloss andnutrientreleaserateoffourlittrsindiferentposition</td></tr><tr><td>物种 Species</td><td>位置 Position</td><td>失重率/% Weight loss</td><td>N释放率/% Nitrogen</td><td>P释放率/% Phosphorus</td><td>K释放率/% Potassium</td></tr><tr><td>红椿 Toona Ciliate</td><td></td><td></td><td>release rate</td><td>release rate</td><td>release rate</td></tr><tr><td rowspan="3">桢楠Phoebe Zhennan</td><td>GC</td><td>66.97±5.14a</td><td>85.50±2.42a</td><td>65.95±4.40a</td><td>93.72±3.15a</td></tr><tr><td>GE</td><td>67.81±6.06a</td><td>86.85±3.40a</td><td>67.67±6.74a</td><td>82.06±3.30b</td></tr><tr><td>GC</td><td>32.76±6.68a</td><td>72.05±3.38a</td><td>35.25±5.58a</td><td>28.73±5.63a</td></tr><tr><td>香樟 Cinnamonum camphora</td><td>GE</td><td>34.12±4.72a</td><td>72.60±2.60a</td><td>37.24±8.04a</td><td>24.48±3.77b</td></tr><tr><td rowspan="3">马尾松 Pinus Massoniana</td><td>GC</td><td>36.72±6.42a</td><td>68.74±4.72a</td><td>1.69±3.67b</td><td>13.18±3.10a</td></tr><tr><td>GE</td><td>39.06±6.37a</td><td>65.21±7.32a</td><td>5.23±3.05a</td><td>14.14±2.66a</td></tr><tr><td>GC</td><td>34.28±4.74a</td><td>65.95±4.19a</td><td>25.39±6.57a</td><td>22.74±5.60b</td></tr><tr><td></td><td>GE</td><td>31.44±8.09a</td><td>65.04±6.35a</td><td>24.86±2.09a</td><td>29.66±6.84a</td></tr></table></body></html>
+
+GC：林窗中心gapcenter;GE：林窗边缘gap edge;不同小写字母表示不同位置之间的显著差异( $P { < } 0 . 0 5 )$
+
+# 2.5不同凋落叶质量损失及养分释放速率的差异
+
+凋落叶分解9个月后，红椿凋落叶失重率和 $\smash { \mathrm { ~ N ~ } ,  { \mathrm { P } _ { \perp } }  { \mathrm { K } } }$ 养分的释放率均最大（图2，图3）。Olson指数衰减模型拟合方程结果显示：红椿调落叶质量损失最快，其分解 $5 0 \%$ 和 $9 5 \%$ 的时间为5.29个月和23.14个月；其次是香樟凋落叶,其分解 $5 0 \%$ 和 $9 5 \%$ 的时间为13.16个月和58.31个月；分解最慢的是马尾松，其分解 $5 0 \%$ 和$9 5 \%$ 的时间为15.47个月和70.02个月（表4）。
+
+# 3结果与讨论
+
+本文通过对不同大小林窗及放置位置凋落叶分解的研究，探讨马尾松人工林的林窗效应,验证林窗大小及放置位置综合影响凋落物分解。本研究结果表明,中小型林窗(G1—G4)较有利于调落叶质量损失和 $_ { \textrm { N } , \textrm { P } }$ 养分的释放,而大型林窗(G5—G7)较有利于凋落叶K养分的释放;林窗大小对桢楠凋落叶质量损失及养分
+
+红椿 桶 省悍 与甩松100GC 100GEAa%rereertetenret 90 8070 A丙 ABbC BT T ABb c A雨 IA A再 %rereeeitenn 90 8070 ABCa □ I I bAb 1E A bHA\ABC CCT 母1 日田 BCc 1 BCc60個50 60個50 iG0 G1 G2 G3 G4 G5 G6 G7 G0 G1 G2 G3 G4 G5 G6G7100GC 100GE%/rer eresrsettstotd 80 Aa Ba %/ereeerserotseotd 80 AT ABa ABa  
+密发数 604020 h 密数 60•40 西b H细 理 20 ABc0 省自里 H-20 0 H-40L G0 G1 G2 G3 G4 G5 G6 G7 -20[ G0 G1 G2 G3 G4 G5 G6 G7100GC Aa Aa Aa ABa ABa Ba Ba 100GECa 西 西 西 西 H 雨 中 T a aT a a a a a西 西 雨 I 丙 西 T80 80%heeeesertsrsetd %rerereertirtetr Ab  
+密 60 60 BbCDb40 b bAb 40 Ab8 入C Cb20 BBC 20 Dc 国 Dc CDC 用 ABc 都碧 N 有 1 1细 T0 0G0 G1 G2 G3 G4 G5 G6 G7 G0 G1 G2 G3 G4 G5 G6G7林窗Gap
+
+G1—G7代表面积为 $1 0 0 \ : 2 2 5 \ : _ { \cdot } 4 0 0 \ : _ { \cdot } 6 2 5 \ : _ { \cdot } 9 0 0 \ : _ { \cdot } 1 2 2 5 \ : _ { \cdot } 1 6 0 0 \ : \mathrm { m } ^ { 2 }$ 的林窗;GO:林下对照 understory;GC：林窗中心 gap center;GE：林窗边缘 gap edge;不同大写字母表示不同林窗之间的显著差异;不同小写字母表示不同物种之间的显著差异( $\scriptstyle P < 0 . 0 5$ ）
+
+释放影响较小,对其他3种凋落叶的影响较大,并且4种凋落叶的失重率及养分释放率随林窗面积增大的变化趋势有明显差异;不同凋落叶养分释放率从林窗中心到林窗边缘的变化趋势也有明显差异。以上结果表明,林窗大小及林窗位置显著影响了凋落叶分解及养分释放，其影响大小及趋势与物种初始基质质量的差异相关。
+
+表44种凋落叶分解残留率的回归方程  
+Table 4The regression equation of four kinds of leaf litter quality residual rate   
+
+<html><body><table><tr><td>物种 Species</td><td>回归方程 Equation</td><td>相关系数R Correlation efficiency</td><td>分解系数 Decomposition rate</td><td>T0.5/月</td><td>T0.95/月</td></tr><tr><td>红椿 Toona ciliata</td><td>y = 98.94e-0.129x</td><td>0.938</td><td>0.129</td><td>5.29</td><td>23.14</td></tr><tr><td>桢楠Phoebe zhennan</td><td>y = 97.95e-0.045 x</td><td>0.831</td><td>0.045</td><td>14.94</td><td>66.11</td></tr><tr><td>香樟 Cinnamonum camphora</td><td>y= 97.85e-0.051 x</td><td>0.887</td><td>0.051</td><td>13.16</td><td>58.31</td></tr><tr><td>马尾松 Pinus massoniana</td><td>y= 97.26e-0.043 x</td><td>0.846</td><td>0.043</td><td>15.47</td><td>70.02</td></tr></table></body></html>
+
+3.1林窗大小对凋落叶质量损失及养分释放的影响
+
+林窗形成后,改变了林下光照辐射条件,使林窗内的温度和湿度发生变化,进而使不同大小林窗之间具有微环境差异["1],从而影响凋落叶分解。相对于大型林窗,中小型林窗的湿度更高(附表1),有利于土壤养分的矿化和养分的可利用性,其土壤动物和微生物等活性越强[12];并且在林窗形成初期,中小型林窗内土壤草本植物更丰富,有利于土壤动物和微生物的繁殖与生长[13]。而且林窗面积越大,其地表环境变化越剧烈（附图2),各要素在林窗内的空间异质性越强[14]。故而,中小型林窗(G1—G4)较大型林窗(G5—G7)更有利于凋落叶的分解。林下因乔木枝叶对光照和降水量遮挡,明显减缓了凋落叶的分解速率。研究表明,林窗大小对桢楠凋落叶分解的影响较小,这可能与桢楠凋落叶叶片厚实,质地坚硬,不易受环境变化的影响[15]有关。林窗大小对红椿凋落叶影响更显著,这可能是因为红椿凋落叶叶片柔软,叶质较薄,对较小的微环境差异也会作出反应[16]。
+
+凋落叶中的养分主要由水溶性养分和有机养分组成,水溶性养分直接通过淋溶作用很快释放,有机养分需要分解者的分解释放。其中,N、P在枯落物中多以有机态存在,主要受分解者分解的影响,与凋落物的分解速率显著相关[17]。所以,中小型林窗(G1—G4)更有利于凋落叶分解,在一定程度上促进了其凋落叶 N、P养分的释放。而K在枯落物中多以离子态存在,主要受淋溶作用的影响[18-19]。相对于林下和中小型林窗,大型林窗因其环境变化更剧烈,有利于凋落叶物理破碎,并且降水量丰富,淋溶作用强,从而更有利于凋落叶 K养分的释放。
+
+# 3.2放置位置对凋落叶质量损失及养分释放的影响
+
+研究发现,林窗大小显著影响了林窗边缘放置的凋落叶质量损失和养分释放,中小型林窗边缘放置的凋落叶失重率及养分释放率较大型林窗明显更大,这可能与林窗边缘效应有关。已有的研究发现,林窗边缘独特的环境变化梯度和各植物物种在发生、竞争等过程上的差异,形成了林窗边缘组成物种的结构、配置和动态等多方面的特殊性质,特别是由于林窗边缘的异质性使得它具有边缘效应[20]。有研究表明,林窗边缘效应强度随林窗年龄的增长和林窗面积的增大,均呈现出减弱的趋势[21]。实验基于林窗形成初期,中小型林窗的物种多样性值显著小于大型林窗[3],导致其边缘效应强度明显大于大型林窗[22],这种不同大小林窗间边缘效应强度差异在很大程度上影响了凋落叶分解及养分释放。同一林窗中也存在空间异质性[23」,林窗中心的温湿度、光照及温湿度变化与林窗边缘存在较大的差异[12]。与降水和光照较充沛的林窗中心相比,林窗边缘由于林冠的遮阴和截流作用导致湿度较低和光照较弱,从而减缓凋落叶相关物质的分解[24],可能是导致林窗中心放置的红椿、桢楠凋落叶K释放率显著高于林窗边缘的根本原因。然而林窗中心放置的香樟凋落叶P释放率和马尾松凋落叶K释放率却显著低于林窗边缘,这与徐李亚等[25]在高山森林林窗中研究的结果一致,这可能是因为林窗边缘局部的光照条件改变了局部环境的温、湿度状况,影响到土壤理化性质,从而影响凋落物相关物质的分解[26]。上述结果表明,放置位置对凋落物质量损失及养分释放的影响大小及趋势与凋落物初始基质质量密切相关。
+
+http://www.ecologica.cn
+
+# 3.3树种对凋落叶质量损失及养分释放的影响
+
+调落叶分解及养分释放受多方面因素综合影响，在不同树种起到决定性作用的因子往往不同。凋落物质量指标主要有凋落物初始N含量、P含量、C/N和木质素/N等[27]。一般说来,凋落物中N含量越低、C/N 越高、木质素含量越高,凋落物分解速度越慢[28]。本研究结果表明,红椿凋落叶分解最快,主要是因为其N和P含量最高、C/N 比最低和木质素含量最低;与香樟和马尾松相比,桢楠凋落叶的初始养分含量更高,然而其失重率变化不大,与仲米财等[29人的研究结果一致,这与其木质素含量高有关;此外,桢楠凋落叶表面的角质层导致其透水性能较差,而且较硬的质地影响了微生物的分解腐化作用,也在一定程度上降低了其分解速率[19]。凋落物养分元素初始含量对元素释放模式和最终净释放率的大小具有重要的决定作用[30]。所以,红椿凋落叶的养分释放率最大,主要是因为其初始养分含量最高,能为微生物提供充足的养分,从而促进其养分释放。
+
+综上所述,不同大小林窗及林窗内不同凋落叶放置位置导致的微环境差异显著影响了4种凋落叶质量损失及养分释放,中小型林窗(G1—G4)更有利于调落叶质量损失及 $_ { \textrm { N } , \textrm { P } }$ 养分的释放，而大型林窗(G5—G7)更有利于凋落叶K养分的释放,然而这种影响的大小及趋势随物种初始质量的差异具有明显变化。4种凋落叶类型中,红椿凋落物质量损失及养分释放最快，并且转化为土壤腐殖质的过程最强烈，对改善土壤状况的影响最明显。因此,可利用中小型林窗对马尾松人工低效林进行改造,有利于生态系统的养分循环;可引入红椿营造混交林,增强系统的稳定性,加快养分释放,维持土壤养分平衡,对马尾松低效林的改造具有重要意义。
+
+# 参考文献（References）：
+
+［1］谭辉，朱教君，康宏樟，胡理乐.林窗干扰研究.生态学杂志，2007，26(4)：587-594.  
+［2］王家华，李建东.林窗研究进展.世界林业研究，2006，19(1)：27-30.  
+［3］崔宁洁，张丹桔，刘洋，张健，杨万勤，欧江，张捷，宋小艳，殷睿.马尾松人工林不同大小林窗植物多样性及其季节动态.植物生态学报，2014，38(5)：477-490.  
+[4]PrescotC，levisL，taleLEfesofearuigocopositoatesfieandforestfifrestsofrisbCanadian Journal of Forest Research,2000,30(11）：1751-1757.  
+[5]ZangQ,iagYfsofgapsiutriteeasefropantiecoposioinaturalforestosstaadaJoualofForest Research，1995,25(10)：1627-1638.  
+[6DensloisdEflsoodpil1998，86(4): 597-609.  
+［7］张山泉，陈川，徐沭，殷士学.硫酸-过氧化氢消化法测定植株氮磷钾方法的改进.土壤，2003，35(2)：174-175.  
+[8] GracaMAS,rlocherF,esserMOMethodstSudyLiterDecomposito：APracticalGude.Ntherlands：SpringerO：71.  
+[9] 李海涛，于贵瑞，李家永，陈永瑞，梁涛.亚热带红壤丘陵区四种人工林凋落物分解动态及养分释放.生态学报，2007,27（3)：898-908.  
+[10] Olson JS.Energy storageandthebalanceofproducersanddecomposersinecologicalsystems.Ecology，1963，44（2）：322-331.  
+11]AracacKfedlpopertoobalsibroialidfrstfsPlant and Soil,2000,223(1/2)：187-195.  
+[12］刘文杰，李庆军，张光明，施济普，白坤甲，王昌命.西双版纳望天树林干热季不同林窗间的小气候差异.生态学报，2000,20（6)：932-937.  
+[13］荣丽，李守剑，李贤伟，张健，王鹏.不同退耕模式细根(草根)分解过程中C动态及土壤活性有机碳的变化.生态学报，2011,31（1)：137- 144.  
+[14］王成，庞学勇，包维楷．低强度林窗式疏伐对云杉人工纯林地表微气候和土壤养分的短期影响.应用生态学报，2010,21（3）：541-548.  
+[15］林波，刘庆，吴彦，何海.森林凋落物研究进展.生态学杂志，2004，23（1）：60-64.  
+[16]JacksonFar,sao,aler.hetractabledounodeedtancotetoflavestropicaltree，bdforgelegumes.Journal of the Science of Food and Agriculture，1996,71(1）：103-110.  
+[17］王文君，杨万勤，谭波，刘瑞龙，吴福忠.四川盆地亚热带常绿阔叶林不同物候期土壤动物对调落物氮和磷释放的影响.林业科学，2015,51(1): 1-11.  
+[18］杨万勤，邓仁菊，张健.森林调落物分解及其对全球气候变化的响应.应用生态学报，2007，18（12）：2889-2895.
+
+http://www.ecologica.cn
+
+[19］李志安，邹碧，丁永祯，曹裕松.森林凋落物分解重要影响因子及其研究进展.生态学杂志，2004，23(6)：77-83.  
+[20］齐代华,李旭光，王周平，石胜友，何正明，许文蔚，邓先宝.缙云山针阔混交林更新层物种多样性林隙梯度变化初探.生物多样性，2001,9(1):51-55.  
+［21］阳含熙，谢海生.长白山红松混交林干扰历史的重构研究.植物生态学报，1994，18（3）：201-208.  
+[22］奚为民，钟章成，毕润成.四川缙云山森林群落林窗边缘效应的研究.植物生态学与地植物学学报，1993，17（3)：232-242.  
+23]BryantDdEestedtralislitecposiiiliedadaJoualfa98,6(7)：1295-1304.  
+24]iterE.LitdcopositiondronmineralatioinelfodsinDnishch（Fagssica）forestSliolodBiochemistry，2005，37(7)：1237-1247.  
+[25］徐李亚，杨万勤，李晗，倪祥银，何洁，吴福忠.高山森林林窗对调落物分解过程中水溶性氮和磷的影响.水土保持学报，2014，28（3)：214-221.  
+[26］何中声，刘金福，郑世群，苏松锦，洪伟，吴则焰，徐道炜，吴承祯.格氏考天然林林窗和林下种子散布及幼苗更新研究.热带亚热带植物学报，2012，20(5）：506-512.  
+[27]SticldE,urfdalisofrloosittof inoculum characteristics.Functional Ecology，2009，23(3）：627-636.  
+[28]MooreT,ofoJ,loB,lB,resoC,CireC,ueL,ylesJ,KakL,raabeerosona,SmithS,TitusBViserS,WenR,ZlaiSLitdecoositoratesinadianforestsobalChangeBoloy99,)82.  
+[29］仲米财，王清奎，高洪，于小军.中亚热带主要树种调落叶在杉木人工林中分解及氮磷释放过程.生态学杂志,2013,32（7)：1653-1659.  
+[30]GordenJC,WhelerCiologicalNitrognFixationofFrestEcosystem.Bijing：CineseForestryPublishngHouse，99-80.
+
+附录
+
+![](images/c93e4bea01fbf328a8e122777adf998119e46d0f26b8603e3d69f52021652b08.jpg)  
+附图1四川省宜宾市研究区域内样地位置示意图
+
+SupplementaryFig.S1Map of the samplingplots in study region in Yibin City SichuanProvince
+
+G1—G7代表面积为100、225、400、625、900、1225 $1 6 0 0 ~ \mathrm { m } ^ { 2 }$ 的林窗;CK(GO），林下对照understory;G-1，G-2，G-3表示各林窗面积的3个重复样地
+
+附表1马尾松人工林不同面积林窗样地基本概况  
+SuplementaryTableS1Generalcharacteristcsinthesamplingplots indiffrentsizeforestgapsofPinusmassonianaplantations   
+
+<html><body><table><tr><td>林窗 Gap</td><td>面积 Area/m²</td><td>海拔 Altitude /m</td><td>坡度 Slope /（°)</td><td>坡向 Aspect</td><td>土壤全碳 （g/kg)</td><td>土壤全氮 （g/kg)</td><td>pH</td><td>/（g/cm³）</td><td>土壤最大持水量 capacity/(g/kg)</td></tr><tr><td>G1</td><td>100</td><td>423</td><td>24.5</td><td>SW</td><td>10.67±3.99</td><td>0.60±0.21</td><td>4.1±0.1</td><td>1.40±0.14</td><td>435.5±40.3</td></tr><tr><td>G2</td><td>225</td><td>438</td><td>26</td><td>SE</td><td>12.05±3.51</td><td>0.58±0.12</td><td>4.2±0.3</td><td>1.20±0.09</td><td>393.7±31.9</td></tr><tr><td>G3</td><td>400</td><td>408</td><td>23.5</td><td>SE</td><td>10.90±0.76</td><td>0.56±0.06</td><td>4.2±0.2</td><td>1.28±0.08</td><td>394.1±65.1</td></tr><tr><td>G4</td><td>625</td><td>424</td><td>24</td><td>SE</td><td>10.24±1.47</td><td>0.53±0.15</td><td>4.1±0.1</td><td>1.35±0.11</td><td>326.1±68.2</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>林窗 Gap</td><td>面积 Area/m²</td><td>海拔 Altitude /m</td><td>坡度 Slope /（°)</td><td>坡向 Aspect</td><td>土壤全碳 TC/ （g/kg)</td><td>土壤全氮 TN/ （g/kg）</td><td>pH</td><td>土壤容重 Bulk density /（g/cm³）</td><td>土壤最大持水量 Maximum moisture capacity/(g/kg)</td></tr><tr><td>G5</td><td>900</td><td>441</td><td>21.5</td><td>S</td><td>12.44±1.21</td><td>0.67±0.12</td><td>4.3±0.2</td><td>1.41±0.11</td><td>388.1±75.1</td></tr><tr><td>G6</td><td>1225</td><td>418</td><td>27</td><td>SE</td><td>16.58±1.54</td><td>0.60±0.05</td><td>4.4±0.3</td><td>1.31±0.17</td><td>416.2±32.9</td></tr><tr><td>G7</td><td>1600</td><td>430</td><td>26</td><td>SE</td><td>9.10±1.37</td><td>0.53±0.12</td><td>4.0±0.1</td><td>1.29±0.26</td><td>326.6±21.1</td></tr><tr><td>CK</td><td>1</td><td>427</td><td>23</td><td>SE</td><td>13.77±4.08</td><td>0.66±0.22</td><td>4.6±0.2</td><td>1.41±0.04</td><td>363.0±54.7</td></tr></table></body></html>
+
+G1—G7 代表面积为100、225、400、625、900、1225 $1 6 0 0 ~ \mathrm { m } ^ { 2 }$ 的林窗；CK：林下对照understory
+
+![](images/5b96d68667b08c4b770cd0aea6024d4b8a156ab36020e33b311ef87b3ddaf8f9.jpg)  
+附图2四川省宜宾市研究区域内样地日平均温度动态图
+
+SupplementaryFig.S2Theaveragedailytemperatureofthesamplingplots instudyregioninYibin CityofSichuanProvinceG1—G7 代表面积为100、225、400、625、900、1225、 $1 6 0 0 ~ \mathrm { m } ^ { 2 }$ 的林窗，CK：林下对照understory；GC：林窗中心gap center；GE：林窗边缘gap edge
+
+附表2不同分解阶段各林窗凋落物分解的日平均温度  
+Supplementary Table S2The daily average temperature of different sampling date in diffrent size G&   
+
+<html><body><table><tr><td rowspan="2">林窗 Gap</td><td colspan="2">SupPrerhehrary 30d</td><td colspan="2">uveruge 90d</td><td colspan="2">sunpingdate 180d</td><td colspan="2">OuP 270d</td></tr><tr><td>GC</td><td>GE</td><td>GC</td><td>GE</td><td>GC</td><td>GE</td><td>GC</td><td>GE</td></tr><tr><td>CK</td><td>10.14</td><td>10.14</td><td>8.05</td><td>8.05</td><td>15.85</td><td>15.85</td><td>21.98</td><td>21.98</td></tr><tr><td>G1</td><td>12.46</td><td>12.15</td><td>9.04</td><td>8.58</td><td>17.76</td><td>17.97</td><td>23.95</td><td>22.75</td></tr><tr><td>G2</td><td>11.41</td><td>12.12</td><td>7.90</td><td>7.83</td><td>16.45</td><td>16.90</td><td>22.15</td><td>22.16</td></tr><tr><td>G3</td><td>11.68</td><td>12.40</td><td>8.61</td><td>8.89</td><td>17.77</td><td>16.39</td><td>23.71</td><td>21.32</td></tr><tr><td>G4</td><td>12.43</td><td>12.92</td><td>9.40</td><td>9.63</td><td>18.90</td><td>16.30</td><td>24.41</td><td>21.79</td></tr><tr><td>G5</td><td>11.92</td><td>11.14</td><td>8.64</td><td>7.90</td><td>16.77</td><td>15.87</td><td>22.75</td><td>21.12</td></tr><tr><td>G6</td><td>12.73</td><td>14.33</td><td>9.05</td><td>10.45</td><td>19.85</td><td>18.71</td><td>24.50</td><td>23.96</td></tr><tr><td>G7</td><td>13.04</td><td>14.07</td><td>9.34</td><td>10.47</td><td>16.85</td><td>16.19</td><td>24.07</td><td>22.12</td></tr></table></body></html>
+
+G1—G7代表面积为100、225、400、625、900、1225、 $1 6 0 0 ~ \mathrm { m } ^ { 2 }$ 的林窗，CK：林下对照understory；GC：林窗中心gap center；GE;林窗边缘:ap edge

@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "不同饲料添加剂对杜寒杂交肉羊体脂脂肪酸组成和氧化稳定性的影响！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "： 刘旺景　敖长金\\*丁　赫　哈斯额尔敦　丹　妮　李书仪　李　英　张佐忠（内蒙古农业大学动物科学学院，呼和浩特010018）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究不同饲料添加剂对杜寒杂交肉羊体脂脂肪酸组成和氧化稳定性的影响。选取30只健康、体重[（ $4 2 . 5 { \\pm } 3 . 1 \\$ ）kg]相近的6月龄杜寒杂交F1代肉羊，采用单因素完全随机区组试验设计，共分为3组，每组10只。对照组（G1组）试验羊饲喂基础饲粮，试验1组（G2组）试验羊饲喂添加了沙葱粉的基础饲粮，沙葱粉按照每只每天 $2 0 \\mathrm { g }$ 的量添加，试验组（G3组）试验羊饲喂添加了微生物发酵饲料的基础饲粮，微生物发酵饲料按照每只每天 $\\boldsymbol { 1 0 0 } \\mathrm { g }$ 的量添加。试验期为75d，其中预试期为 $1 5 { \\mathrm { d } }$ ，正试期为 $6 0 \\mathrm { d }$ 。在饲养试验结束后，每组随机选取3只羊进行屠宰，分别从肾脏周围、腹部皮下以及尾部采集脂肪样品，测定其脂肪酸组成以及丙二醛（MDA）含量和超氧化物歧化酶（SOD）活性。结果显示：与G1组相比,1)G2 组和G3 组肉羊平均日增重显著提高( $_ { . P < 0 . 0 5 ) }$ ，料重比显著降低 $( P { < } 0 . 0 5 )$ 2）G2组肾周、腹部皮下以及尾部脂肪组织中亚油酸（C18:2cis-6）、 $\\mathfrak { a }$ 亚麻酸（C18:3n-3）、二十碳五烯酸(EPA,C20:5n-3）、二十二碳六烯酸(DHA,C22:6n-3）、多不饱和脂肪酸(PUFA）、n-6PUFA的含量以及PUFA/饱和脂肪酸（SFA）的值显著提高（ $. P { < } 0 . 0 5 \\ '$ ，硬脂酸（C18:0）的含量显著降低( $\\cdot P { < } 0 . 0 5 ^ { \\cdot }$ ),G3 组腹部皮下和尾部脂肪组织中DHA的含量显著提高( $_ { , P < 0 . 0 5 ) }$ ，肾周脂肪组织中单不饱和脂肪酸（MUFA）和C18:0的含量显著降低（ $P { < } 0 . 0 5 \\$ ；3）G2组和G3组尾部脂肪组织中n-6PUFA的含量以及 $\\mathrm { n } { - } 6 / \\mathrm { n } { - } 3$ 的值显著提高（ $_ { \\cdot } P { < } 0 . 0 5 )$ ，G2组肾周脂肪组织中 $\\mathrm { n } { - } 3$ PUFA的含量显著提高（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )，G3 组肾周脂肪组织中PUFA/SFA的值显著降低 $( P { < } 0 . 0 5$ );4)G2组和G3组腹部皮下和肾周脂肪组织中SOD的活性显著提高( $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\$ ），MDA的含量显著降低（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ；5）肉羊腹部皮下（ $R ^ { 2 } { = } 0 . 9 6 7$ ）、尾部（ $R ^ { 2 } { = } 0 . 9 6 5$ ）和肾周脂肪组织( $R ^ { 2 } { = } 0 . 9 9 2 \\cdot$ )中MDA含量和SOD活性与PUFA沉积量之间存在线性关系( $\\cdot P { < } 0 . 0 0 1 )$ ，其中 MDA 对多元回归方程的贡献为负增加，而 SOD 为正增加。综上所述，饲粮中添加沙葱粉和微生物发酵饲料均能够提高舍饲杜寒杂交肉羊的生长性能；饲粮中添加沙葱粉可有效改善杜寒杂交肉羊体脂脂肪酸组成，并可提高脂肪氧化稳定性，改善脂肪品质；饲粮中添加微生物发酵饲料对杜寒杂交肉羊体脂脂肪酸组成改善效果欠佳，但可提高脂肪的氧化稳定性。关键词：饲料添加剂；肉羊；脂肪品质；抗氧化物；氧化稳定性；多不饱和脂肪酸中图分类号：S816 文献标识码：A 文章编号：羊在天然放牧时的行为习性和采食远比舍饲时复杂而丰富，使得在上述2种情况下饲养的肉羊在肉品质上存在着明显的差异，其差异主要体现在肉品脂肪酸组成以及抗氧化物含量上[1]。基于目前我国的国情，肉羊的放牧模式被逐步限制[2]，而舍饲或半舍饲快速育肥已经成为当今养羊业的主流模式。在这种模式下，精饲料的过度使用，加之运动量的不足，导致羊体脂肪的过度沉积、羊肉品质下降、饲料报酬低和生产效益受损等一系列问题。家畜体脂脂肪酸的构成是其肉类独特风味的基础，羊肉的风味主要与其体脂内短链支链脂肪酸、硬脂酸（C18:0）及不饱和脂肪酸（UFA）氧化降解产物有关[3-4]。大量研究表明，脂肪氧化是肉类在贮藏过程中品质恶化的主要原因之一，其中最重要的是促氧化成分和抗氧化成分之间的平衡[5-6]。多不饱和脂肪酸（PUFA）是肌肉细胞膜脂质氧化反应启动和加速的优选底物，如同金属离子、血红素蛋白和活性氧一样，是一种氧化强化剂，作为肉类产品中的一种高度不饱和成分，极易受氧化攻击而损伤，特别是磷脂极性部分含有的多不饱和脂肪酸，比例最高、氧化敏感性很强[7-8]。氧化导致肉品的风味和营养价值(主要是不饱和脂肪酸和脂溶性维生素)严重损失[9-10]。肉品在贮存过程中脂肪的氧化程度直接决定着肉品的感官品质，脂肪氧化不仅加速肉品的外观褪色，同时也产生特殊异味，使得肉品的可接受性降低[1]。饲粮营养素组",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "成对脂肪的代谢、沉积以及抗氧化起着关键性的作用[12]，因此，采用营养调控的手段是解决目前舍饲羊肉品质下降行之有效的方法。  \n天然植物提取物和微生物发酵饲料都能不同程度地改善肉品脂肪酸组成和氧化稳定性，进而提高其货架保鲜期。沙葱（Allum mongolicum Regel）又名蒙古韭，是生长在沙漠、荒地等干旱地区的天然优质牧草[13]。沙葱及其提取物对动物机体具有良好的抗氧化活性，同时对提升畜产品品质也有积极的作用。沙葱及其总黄酮能够显著提高肉羊[14]和小白鼠[15]血清中过氧化氢酶(CAT）、总超氧化物歧化酶(T-SOD)的活性，降低肝脏组织中丙二醛（MDA）的含量，提高其机体抗氧化能力。沙葱及其提取物对羊肉脂肪品质有良好的改善作用[16]。沙葱可提高肉羊肌内脂肪中PUFA、共轭亚油酸（CLA）的含量，降低C18:0 的含量[17]。沙葱及其提取物可降低舍饲肉羊背最长肌中饱和脂肪酸（SFA）的含量，同时提高单不饱和脂肪酸（MUFA）以及PUFA的含量，从而提高羊肉品质[18]。微生物发酵饲料是一类无毒、无残留的绿色饲料添加剂，饲粮中添加微生物发酵饲料后其营养价值得到明显改善，进而影响肉品脂肪酸组成。王莉梅[19研究发现，小尾寒羊饲粮中添加发酵饲料能够显著提高肌肉组织和肾脂中油酸（C18:lcis-9）和α-亚麻酸（C18:3n-3）的含量，进而改善羊肉脂肪酸组成。Lin 等[20]研究发现，杜 $\\times$ 长 $\\times$ 大三元杂交公猪饲粮中添加发酵饲料能够显著提高肌肉脂肪中C18:3n-3、MUFA的含量，提高了肉品营养价值；同时，降低了硫代巴比妥酸反应物值，减缓了脂肪氧化速率，从而延长了猪肉的货架期。本试验在课题组前期研究的基础上，以杜寒杂交F1代肉羊为动物模型，探究肉羊饲粮中分别添加适量沙葱粉和微生物发酵饲料对其各部位脂肪组织脂肪酸组成以及氧化稳定性的影响，并揭示PUFA在脂肪组织中的沉积量与氧化性能指标[MDA含量和超氧化物歧化酶（SOD）活性]之间的关联性，以期为新型饲料添加剂在舍饲肉羊饲养中的进一步应用提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验时间与地点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2017年7一10月在内蒙古农业大学“中加肉羊养殖与示范项目\"基地进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物与分组",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取30只健康、体重[（42.5±3.1） $\\mathbf { \\left| k g \\right] }$ 相近的6月龄杜寒杂交F1代肉羊，采用单因素完全随机区组试验设计，共分为3组，每组10只。基础饲粮为育肥羊颗粒型全混合日粮（TMR)，由内蒙古优牧特农牧科技股份有限公司生产。对照组（G1组）试验羊饲喂基础饲粮，试验1组（G2组）试验羊饲喂添加了沙葱粉的基础饲粮，沙葱粉按照每只每天加补20g（此添加量的设定参考文献[21]）的量添加，试验2组（G3组）试验羊饲喂添加了微生物发酵饲料的基础饲粮，微生物发酵饲料按照每只每天 $1 0 0 \\ \\mathrm { g }$ （厂家推荐添加量）的量添加。沙葱粉采购自内蒙古阿拉善盟浩海生物科技有限公司，微生物发酵饲料为驻马店吉兴隆牧业生物科技有限公司产品，含有生物活菌（枯草芽孢杆菌、光合细菌、酵母菌、双歧杆菌、黑曲霉菌等生物活性成分）及其发酵产物（氨基酸、有机酸、菌体蛋白、纤维二糖、双歧因子及免疫、促生长因子)。基础饲粮组成及营养水平见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平(干物质基础) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Composition and nutrient levels of the basal diet (DM basis) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content   \n原料Ingredients   \n羊草Leymus chinensis 32.00   \n苜蓿Alfalfa 17.60   \n破碎玉米 Cracked corn 25.00   \n小麦麸 Wheat bran 2.88   \n向日葵仁饼 Sunflower seed meal 17.23   \n豌豆茎叶 Pea stalk 2.77   \n磷酸氢钙 CaHPO4 0.79   \n食盐 NaCl 0.73   \n预混料 Premix1) 1.00 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "合计 Total 100.00  \n营养水平 Nutrient levels2)  \n消化能 DE/( $\\mathrm { \\Delta \\cdot M J / k g }$ ） 16.58  \n粗蛋白质 CP 16.48  \n粗脂肪 EE 3.12  \n中性洗涤纤维 NDF 36.63  \n酸性洗涤纤维 ADF 25.20  \n钙Ca 1.22  \n磷P 0.47",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per kg of the diet:Zn（as zinc sulfate） $3 0 \\mathrm { m g }$ Fe（as ferrous sulfate） $2 6 ~ \\mathrm { m g }$ ，Cu（as copper sulfate） $7 . 9 \\mathrm { m g }$ ，Mn（as manganese sulfate） $3 0 \\mathrm { m g }$ ，I(aspotassium iodide） ${ 5 . 4 } \\mathrm { m g }$ ，Co（as Cobalt sulfate） $0 . 1 ~ \\mathrm { m g }$ ，VA3 500 IU，VE 25 IU，VD1100 IU。2)消化能为估测值，其余为实测值。DE was an estimated value,while the others were measured values.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验前对试验羊进行驱虫，对畜舍进行统一的消毒处理。整个试验持续 $7 5 \\mathrm { d }$ ，其中预试期为15d，正试期为 $6 0 \\mathrm { d }$ 。正试期每天在07:00 和18:00各饲喂1次，采食时间持续 $1 . 5 \\mathrm { h }$ 在每天的08:30和19:30收集剩料，试验全期自由采食、饮水。试验期间各组的管理模式、饲养方式以及环境条件一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集在饲养试验结束后，每组随机选取3只体重相近的羊只，经检疫合格之后进行屠宰（宰  \n前 $2 4 \\mathrm { h }$ 禁食， $2 \\mathrm { h }$ 禁水)。宰后分别从腹部皮下、尾部中央以及肾脏周围中取脂肪样品， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$   \n冰箱保存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 指标测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 生长性能指标的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正试期内对剩料进行称重并记录，具体做法为每天饲喂前记录饲喂量，根据每组试验羊",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每天的实际采食量，计算平均日采食量。每15d对试验羊进行1次称重，记录体重变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 脂肪样品脂肪酸组成的测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "称取 $6 0 { \\sim } 7 0 ~ \\mathrm { m g }$ 脂肪样品，加入 $2 \\mathrm { m L }$ 氢氧化钠-甲醇混合溶液，并加入 $1 0 0 ~ \\mu \\mathrm { L }$ 内标液,将脂肪样品于 $8 5 ~ ^ { \\circ } \\mathrm { C }$ 恒温水浴 $3 0 ~ \\mathrm { m i n }$ ，再加入 $3 ~ \\mathrm { m L }$ 三氟化硼-甲醇混合溶液，于 $8 5 ~ ^ { \\circ } \\mathrm { C } \\cdot$ 恒温水浴 $3 0 \\mathrm { m i n . }$ 冷却至室温加入 $1 \\mathrm { m L }$ 正己烷振荡萃取静置，取 $1 0 0 ~ \\mu \\mathrm { L }$ 上清液，用正己烷定容至 $1 ~ \\mathrm { m L }$ ，上机测试。将制备好的脂肪酸甲酯用气相色谱仪（AgilentGC890N）进行分析。毛细管色谱柱：TG-5MS( $3 0 ~ \\mathrm { m } { \\times } 0 . 2 5 ~ \\mathrm { m m } { \\times } 0 . 2 5 ~ \\mathrm { \\mu m }$ ；柱温箱温度：起始温度 $8 0 ^ { \\circ } \\mathrm { C }$ ，保持 $1 \\mathrm { m i n }$ 以 $1 0 ~ \\mathrm { { ^ { o } C / m i n } }$ 的速率升至 $2 0 0 ^ { \\circ } \\mathrm { C }$ ，再以 $5 \\mathrm { { ^ {circ } C / m i n } }$ 的速率升至 $2 5 0 ^ { \\circ } \\mathrm { C }$ ，最后以 $2 \\mathrm { { ^ { \\circ } C / m i n } }$ 的速率升至 $2 7 0 ^ { \\circ } \\mathrm { C }$ ，保持 $3 \\mathrm { m i n }$ ；载气：氮气；载气流速： $1 . 2 ~ \\mathrm { m L / m i n }$ ；进样口温度： $2 9 0 ^ { \\circ } \\mathrm { C }$ ，不分流进样；离子源温度： $2 8 0 ^ { \\circ } \\mathrm { C }$ ；传输线温度： $2 8 0 ^ { \\circ } \\mathrm { C }$ ；进样量： $1 ~ \\mu \\mathrm { L }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 脂肪样品中MDA含量、SOD 活性的测定",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3个部位的脂肪样品中MDA含量、SOD 活性均分别采用南京建成生物工程研究所生产的 MDA 测试盒（货号：A003-1)、SOD 测试盒（货号：A001-1）严格按照说明书进行测定。脂肪组织中的蛋白质含量采用南京建成生物工程研究所生产的考马斯亮蓝试剂盒在596nm下测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用 Excel2007软件进行数据整理，采用 SAS9.2软件中的ANOVA程序进行单因素方差分析， $P { < } 0 . 0 5$ 为差异显著，差异显著时采用Duncan氏法进行多重比较。各部位脂肪组织中 MDA含量和 SOD 活性与PUFA沉积量之间的相关性用多元回归分析模型分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1不同饲料添加剂对杜寒杂交肉羊生长性能的影响由表2可知，各组间平均日采食量无显著差异（ $P { > } 0 . 0 5 \\$ )；平均日增重，G2组和G3组；显著高于G1组（ $\\cdot P { < } 0 . 0 5 \\$ )，G2组和G3组之间无显著差异（ $\\scriptstyle \\cdot > 0 . 0 5 ,$ ；G2组和G3组料重比",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "显著低于G1组（ $\\scriptstyle P < 0 . 0 5 .$ )，G2组和G3组之组间无显著差异（ $P { > } 0 . 0 5 \\$ )。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2不同饲料添加剂对杜寒杂交肉羊生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 2Effects of different feed additives on growth performance of Dorper×thin-tailed Han ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "crossbred muttonlambs ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1832d678c988d2a1982864a7e2df78c6df9a36367f558d9f301ec890dc8796a8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"3\">组别 Groups</td><td rowspan=\"2\">SEM</td><td>P值</td></tr><tr><td>Items</td><td>G1</td><td>G2</td><td>G3</td><td></td><td>P-value</td></tr><tr><td>初始体重 IBW/kg</td><td>42.58±2.78</td><td>42.63±3.57</td><td>42.95±3.40</td><td>1.61</td><td>0.730</td></tr><tr><td>平均日采食量 ADFI/(kg/d)</td><td>1.32±0.19</td><td>1.33±0.19</td><td>1.28±0.13</td><td>0.13</td><td>0.990</td></tr><tr><td>平均日增重 ADG/(kg/d)</td><td>0.19±0.06b</td><td>0.23±0.03a</td><td>0.23±0.02a</td><td>0.02</td><td>0.021</td></tr><tr><td>料重比F/G</td><td>6.93±0.99a</td><td>5.70±1.01b</td><td>5.56±1.28b</td><td>0.11</td><td>0.038</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5 )$ ，相同字母或无字母表示差异不显著（ $\\cdot P { > } 0 . 0 5 \\$ 。下表同。In the same row, values with different letter superscripts were significantly different $( P { < } 0 . 0 5 )$ ，  \nwhile with same or no letter superscripts were not significantly different $( P { > } 0 . 0 5 )$ . The same as  \nbelow.  \n2.2不同饲料添加剂对杜寒杂交肉羊腹部皮下脂肪组织脂肪酸组成、MDA含量和 SOD 活  \n性的影响由表3可知，本次试验从杜寒杂交肉羊腹部皮下脂肪组织中共检出21种脂肪酸，其中  \n含量最高的 SFA为棕榈酸（C16:0)，其次是C18:0，而在 MUFA 组成中含量最高的是  \nC18:1cis-9。PUFA 组成中含量最高的为亚油酸（C18:2cis-6)，其次是花生四烯酸 $\\scriptstyle ( \\mathbf { C } 2 0 : 4 \\mathbf { n - } 6 )$ 、  \nC18:3n-3 和二十二碳六烯酸（DHA，C22:6n-3）。G2组中C18:0的含量显著低于G1组和G3组( $_ { , P < 0 . 0 5 } )$ ，而G2 组中C18:2cis-6、C18:3n-3、  \n二十碳五烯酸（EPA，C20:5n-3）和DHA 的含量显著高于G1 组和G3 组（ $. P { < } 0 . 0 5 )$ ，G1组",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "和G3组之间差异不显著！ $( P { > } 0 . 0 5 )$ ；G2组中SFA的含量显著低于G1组和G3组 $( P { < } 0 . 0 5 )$ ），PUFA、n-6PUFA的含量和 PUFA/SFA 的值则显著高于G1 组和G3 组（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ，G1组和G3 组之间差异不显著（ $( P { > } 0 . 0 5 )$ ；G3 组中MUFA的含量显著高于G1组和G2组（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ ）°G2 组中MDA的含量显著低于G1组和G3 组（ $\\scriptstyle \\cdot < 0 . 0 5 .$ )，G3 组中MDA的含量显著低于G1组（ $. P { < } 0 . 0 5 \\$ )；G2 组中 SOD的活性显著高于G1组和G3组（ $\\scriptstyle \\cdot < 0 . 0 5 .$ )，G3组中SOD的活性显著高于G1组（ $_ { , P < 0 . 0 5 ) }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3不同饲料添加剂对杜寒杂交肉羊腹部皮下脂肪组织脂肪酸组成、MDA含量和 SOD 活",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "性的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3Effects of different feed additives on fatty acid composition,MDA content and SOD activity in abdominal subcutaneous adipose tissue of Dorper $\\cdot \\times$ thin-tailed Han crossbred mutton lambs ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9691642e92507968f68d9293a297ad1bb272994d7bdcb96d2fb74b43f52c436e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">项目</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P-Value</td></tr><tr><td>Items</td><td>G1</td><td>组别Groups G2</td></tr><tr><td>脂肪酸Fatty acids/（mg/g）</td><td></td><td></td><td></td><td></td></tr><tr><td>葵酸 C10:0</td><td>0.66</td><td>0.68</td><td>0.65 0.011</td><td>0.191 0</td></tr><tr><td>月桂酸C12:0</td><td>0.74</td><td>0.76</td><td>0.76 0.022</td><td>0.828 0</td></tr><tr><td>银杏酸C13:0</td><td>0.34</td><td>0.33</td><td>0.31 0.010</td><td>0.172 0</td></tr><tr><td>肉豆蔻酸 C14:0</td><td>9.36b</td><td>9.31b</td><td>10.30a 0.096</td><td>0.005 0</td></tr><tr><td>肉豆蔻油酸 C14:1</td><td>0.51b</td><td>0.76a</td><td>0.49b</td><td>0.019 <0.000 1</td></tr><tr><td>十五烷酸 C15:0</td><td>2.44</td><td>2.51</td><td>2.57</td><td>0.057 0.335 0</td></tr><tr><td>棕榈酸 C16:0</td><td>42.85a</td><td>35.92c</td><td>51.22b</td><td>0.460 <0.000 1</td></tr><tr><td>棕榈酸 C16:1</td><td>8.29b</td><td>8.24b</td><td>10.11a</td><td>0.069 0.000 1</td></tr><tr><td>十七烷酸 C17:0</td><td>10.25</td><td>10.61</td><td>9.82</td><td>0.230 0.130 0</td></tr><tr><td>十七碳一烯酸 C17:1</td><td>3.39b</td><td>4.60a</td><td>2.63c</td><td>0.180 0.000 7</td></tr><tr><td>硬脂酸C18:0</td><td>27.50b</td><td>18.10a</td><td>28.15b</td><td>0.910 0.000 4</td></tr><tr><td>油酸C18:1cis-9</td><td>27.50</td><td>26.43</td><td>28.15</td><td>0.790 0.363 0</td></tr><tr><td>亚油酸 C18:2cis-6</td><td>17.83b</td><td>24.87a</td><td>17.89b 0.740</td><td>0.000 8</td></tr><tr><td>α 6亚麻酸C18:3n-3</td><td>2.07b</td><td>2.46a</td><td>2.18b</td><td>0.064 0.013 0</td></tr><tr><td>γ-亚麻酸C18:3n-6</td><td>0.130a</td><td>0.130a</td><td>0.097b</td><td>0.005 0.005 2</td></tr><tr><td>花生一烯酸 C20:1</td><td>0.32a</td><td>0.33a</td><td>0.28b</td><td>0.008 0.009 5</td></tr><tr><td>花生二烯酸 C20:2</td><td>0.057b</td><td>0.098a</td><td>0.063b</td><td>0.003 0.000 7</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/822e0176935460cbafc0159e28a12b93410437b1111a4f9d4ce26af0be2b2790.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>二十碳三烯酸 C20:3n-6</td><td>0.037c</td><td>0.058a</td><td>0.046b</td><td>0.001</td><td>0.0001</td></tr><tr><td>花生四烯酸 C20:4n-6</td><td>4.56b</td><td>5.63a</td><td>4.56b</td><td>0.009</td><td>0.0018</td></tr><tr><td>二十碳五烯酸 C20:5n-3</td><td>0.15b</td><td>0.21a</td><td>0.15b</td><td>0.005</td><td>0.000 2</td></tr><tr><td>(EPA) 二十二碳六烯酸</td><td>0.67℃</td><td>0.95a</td><td>0.77b</td><td>0.016</td><td><0.000 1</td></tr><tr><td>C22:6n-3 (DHA)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饱和脂肪酸 SFA</td><td>93.75b</td><td>72.70c</td><td>103.08a</td><td>2.34</td><td>0.000 3</td></tr><tr><td>单不饱和脂肪酸MUFA</td><td>40.01b</td><td>30.56c</td><td>42.32a</td><td>0.60</td><td><0.000 1</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>22.23b</td><td>33.49a</td><td>25.39b</td><td>0.93</td><td>0.0004</td></tr><tr><td>n-6多不饱和脂肪酸 n-6</td><td>4.72b</td><td>5.65a</td><td>4.70b</td><td>0.10</td><td>0.000 7</td></tr><tr><td>PUFA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>n-3多不饱和脂肪酸n-3 PUFA</td><td>2.29</td><td>2.72</td><td>2.74</td><td>0.22</td><td>0.320 0</td></tr><tr><td>多不饱和脂肪酸/饱和脂</td><td>0.27b</td><td>0.47a</td><td>0.25b</td><td></td><td></td></tr><tr><td>肪酸PUFA/SFA</td><td></td><td></td><td></td><td>0.03</td><td>0.0019</td></tr><tr><td>n-6/n-3</td><td>2.07</td><td>2.14</td><td>1.72</td><td></td><td></td></tr><tr><td>丙二醛 MDA/（nmol/mg</td><td>106.54a</td><td>83.12c</td><td>92.77b</td><td>0.13</td><td>0.135 0</td></tr><tr><td>prot)</td><td></td><td></td><td></td><td>1.25</td><td>0.0003</td></tr><tr><td>超氧化物歧化酶 SOD/</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(U/mg prot）</td><td>175.67℃</td><td>207.67a</td><td>182.21b</td><td>1.10</td><td><0.000 1</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2不同饲料添加剂对杜寒杂交肉羊尾部脂肪组织脂肪酸组成、MDA含量和 SOD 活性的影响  \n由表4可知，本次试验从杜寒杂交肉羊尾部脂肪组织中共检出21种脂肪酸，其中含量最高的 SFA为C16:0，其次是C18:0，而在MUFA 组成中C18:1cis-9 的含量最高。PUFA中含量最高的为C18:2cis-6，其次是 $C 2 0 { : } 4 \\mathrm { n - } 6$ 、C18:3n-3和γ-亚麻酸（ $\\mathrm { C l } 8 { : } 3 \\mathrm { n - } 6 \\$ 。  \nG2 组中C18:0的含量显著低于G1组和G3组（ $P { < } 0 . 0 5$ )，G3组中C18:0的含量低于G1组，但差异不显著（ $P { < } 0 . 0 5$ ）。G2 组中C18:2cis-6、C18:3n-3、C18:3n-6、EPA和DHA的含量显著高于G1组和G3组( $\\cdot P { < } 0 . 0 5 ^ { \\cdot }$ ),G1组和G3组中，除了DHA的含量差异显著( $\\scriptstyle \\cdot < 0 . 0 5$ ）外，其余PUFA的含量差异均不显著（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ )。G2 组中 SFA的含量显著低于G1 组和G3组 $( P { < } 0 . 0 5 )$ ,G1 组和G3 组之间差异不显著 $( P { > } 0 . 0 5 )$ ；而G2 组中MUFA、PUFA、n-6PUFA、n-3PUFA的含量和PUFA/SFA的值显著高于G1组和G3组( $_ { \\cdot } P { < } 0 . 0 5$ ),G3组中除了n-6PUFA的含量和 $\\mathrm { n } { - } 6 / \\mathrm { n } { - } 3$ 的值显著高于G1组（ $\\scriptstyle \\cdot < 0 . 0 5$ ）外，其余指标在2组之间差异均不显著",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "G2 组中MDA的含量显著低于G1组和G3组（ $_ { \\cdot } P { < } 0 . 0 5 )$ ，G3组中MDA的含量显著低于G1组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ；G2 组中SOD的活性显著高于G1组和G3组（ $\\cdot P { < } 0 . 0 5 \\$ )，G3组和G1组之间无显著差异（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4不同饲料添加剂对杜寒杂交肉羊尾部脂肪组织脂肪酸组成、MDA含量和 SOD 活性的",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 4 Effects of different feed additives on fatty acid composition,MDAcontent and SOD activity in tail adipose tissue of Dorper $\\cdot \\times$ thin-tailed Han crossbred mutton lambs ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2743af12e7fd71f0abe177681000245bf49698c8e88c4d0b3643465759255c48.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"3\">组别 Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Items</td><td>G1</td><td>G2</td><td>G3</td></tr><tr><td>脂肪酸Fatty acids/（mg/g）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>葵酸C10:0</td><td>0.80</td><td>0.79</td><td>0.78</td><td>0.025</td><td>0.761 0</td></tr><tr><td>月桂酸C12:0</td><td>0.58</td><td>0.61</td><td>0.58</td><td>0.027</td><td>0.308 0</td></tr><tr><td>银杏酸 C13:0</td><td>0.16</td><td>0.15</td><td>0.15</td><td>0.003</td><td>0.163 0</td></tr><tr><td>肉豆蔻酸 C14:0</td><td>9.35b</td><td>9.29b</td><td>10.13a</td><td>0.120</td><td>0.004 7</td></tr><tr><td>肉豆蔻油酸 C14:1</td><td>0.61b</td><td>0.83a</td><td>0.62b</td><td>0.022</td><td>0.000 7</td></tr><tr><td>十五烷酸 C15:0</td><td>3.07</td><td>3.49</td><td>2.99</td><td>0.140</td><td>0.098 8</td></tr><tr><td>棕榈酸 C16:0</td><td>38.75b</td><td>35.02a</td><td>38.64b</td><td>0.590</td><td>0.006 6</td></tr><tr><td>棕榈酸 C16:1</td><td>8.48b</td><td>9.42a</td><td>9.18a</td><td>0.160</td><td>0.015 4</td></tr><tr><td>十七烷酸 C17:0</td><td>10.53</td><td>10.03</td><td>10.10</td><td>0.170</td><td>0.153 0</td></tr><tr><td>十七碳一烯酸 C17:1</td><td>5.18b</td><td>6.27a</td><td>4.37℃</td><td>0.054</td><td><0.000 1</td></tr><tr><td>硬脂酸 C18:0</td><td>22.01a</td><td>15.57b</td><td>21.04a</td><td>0.800</td><td>0.002 6</td></tr><tr><td>油酸 C18:lcis-9</td><td>36.90</td><td>38.32</td><td>38.50</td><td>0.470</td><td>0.110 0</td></tr><tr><td>亚油酸 C18:2cis-6</td><td>22.70b</td><td>25.67a</td><td>22.56b</td><td>0.660</td><td>0.027 2</td></tr><tr><td>α-亚麻酸 C18:3n-3</td><td>2.76b</td><td>3.11a</td><td>2.77b</td><td>0.061</td><td>0.0101</td></tr><tr><td>γ-亚麻酸C18:3n-6</td><td>0.68b</td><td>0.84a</td><td>0.64b</td><td>0.024</td><td>0.002 2</td></tr><tr><td>花生一烯酸 C20:1</td><td>0.46</td><td>0.48</td><td>0.42</td><td>0.034</td><td>0.507 0</td></tr><tr><td>花生二烯酸 C20:2</td><td>0.15b</td><td>0.17a</td><td>0.11c</td><td>0.008</td><td>0.003 2</td></tr><tr><td>二十碳三烯酸 C20:3n-6</td><td>0.059b</td><td>0.089a</td><td>0.045c</td><td>0.003</td><td>0.000 2</td></tr><tr><td>花生四烯酸 C20:4n-6</td><td>3.45b</td><td>4.58a</td><td>4.49a</td><td>0.032</td><td>0.078 8</td></tr><tr><td>二十碳五烯酸 C20:5n-3</td><td>0.13b</td><td>0.17a</td><td>0.15ab</td><td>0.006</td><td>0.009 8</td></tr><tr><td>(EPA)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二十二碳六烯酸</td><td>0.033c</td><td>0.056a</td><td>0.050b</td><td>0.002</td><td>0.000 1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed9308e47925eb7b1b319f3d321747590ff35c259669cad81bec2ea9cb594f59.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>饱和脂肪酸 SFA</td><td>84.26b</td><td>75.00a</td><td>84.39b</td><td>1.150</td><td>0.002 3</td></tr><tr><td>单不饱和脂肪酸MUFA</td><td>52.04b</td><td>55.32a</td><td>52.39b</td><td>0.530</td><td>0.008 5</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>28.97b</td><td>34.39a</td><td>30.15b</td><td>0.570</td><td>0.0012</td></tr><tr><td>n-6多不饱和脂肪酸 n-6 PUFA</td><td>3.20c</td><td>5.44a</td><td>5.18b</td><td>0.038</td><td><0.000 1</td></tr><tr><td>n-3多不饱和脂肪酸n-3 PUFA</td><td>2.92b</td><td>3.34a</td><td>2.97b</td><td>0.061</td><td>0.005 3</td></tr><tr><td>多不饱和脂肪酸/饱和脂</td><td>0.35b</td><td>0.46a</td><td>0.36b</td><td>0.010</td><td>0.000 3</td></tr><tr><td>肪酸PUFA/SFA</td><td>1.09b</td><td>1.63a</td><td>1.75a</td><td>0.036</td><td><0.000 1</td></tr><tr><td>n-6/n-3 丙二醛 MDA/（nmol/mg</td><td>117.97a</td><td>83.67c</td><td>110.82b</td><td>2.04</td><td><0.000 1</td></tr><tr><td>prot) 超氧化物歧化酶 SOD/ (U/mg prot)</td><td>197.68b</td><td>225.62a</td><td>203.63b</td><td>4.04</td><td>0.006 2</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3不同饲料添加剂对杜寒杂交肉羊肾周脂肪组织脂肪酸组成、MDA含量和 SOD 活性的影响  \n由表5可知，本次试验从杜寒杂交肉羊肾周脂肪组织中共检出21种脂肪酸，其中含量最高的 SFA为C18:0，其次是C16:0，而在MUFA 组成中C18:1cis-9 的含量最高。PUFA中含量最高的为C18:2cis-6，其次是 $C 2 0 { : } 4 \\mathrm { n - } 6$ 、C18:3n-3和花生一烯酸（C20:1）。  \nG2组中C18:0的含量显著低于G1组和G3组（ $\\scriptstyle P < 0 . 0 5$ )，G1组和G3组之间差异不显著（ $. P { > } 0 . 0 5 )$ ；G2 组中C18:2cis-6、C18:3n-3、C18:3n-6、EPA和 DHA 的含量显著高于G1组和G3组（ $( P { < } 0 . 0 5 )$ ，除C18:2cis-6和 $C 1 8 { : } 3 \\mathrm { n - } 6$ 的含量在G3 组中显著低于G1组（ $\\cdot P { < } 0 . 0 5$ ）外，其余PUFA在2组之间差异均不显著（ $. P { > } 0 . 0 5 )$ )；G2 组中SFA的含量显著低于G1组和G3组（ $( P { < } 0 . 0 5 )$ )，G1组和G3组之间差异不显著（ $_ { , P > 0 . 0 5 ) }$ ；而 G2 组中MUFA、PUFA、n-6PUFA、n-3PUFA的含量和PUFA/SFA的值显著高于G1组和G3组（ $\\scriptstyle P < 0 . 0 5$ ，除了G3组中MUFA、PUFA的含量和PUFA/SFA的值显著低于G1组（ $\\cdot P { < } 0 . 0 5$ ）外，其余指标在2组之间差异均不显著（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "G2 组中MDA的含量显著低于G1组和G3组（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ，G3组中MDA的含量与G1组无显著差异（ $. P { > } 0 . 0 5 \\$ )；G2 组和G3组中SOD的活性显著高于G1组（ $\\cdot P { < } 0 . 0 5$ )，G3组中SOD的活性显著高于G2组（ $. P { < } 0 . 0 5 )$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表5不同饲料添加剂对杜寒杂交肉羊肾周脂肪组织脂肪酸组成、MDA含量和 SOD 活性的",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "影响",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/475811cb5aa3cfea2afaa6df9b4175e2a552dcc2479f1e7abd538438a0e3f718.jpg",
+        "table_caption": [
+            "Table 5Effects of different feed additives on fatty acid composition,MDA content and SOD ",
+            "activity in perirenal adipose tissue of Dorper×thin-tailed Han crossbred mutton lambs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">P</td></tr><tr><td>项目</td><td></td><td colspan=\"2\">组别 Groups</td><td rowspan=\"2\">SEM</td><td>P值</td></tr><tr><td>Items</td><td>G1</td><td>G2 G3</td><td></td><td>P-value</td></tr><tr><td>脂肪酸 Fatty acids/（mg/g）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>葵酸C10:0</td><td>0.38b</td><td>0.46ab</td><td>0.51a</td><td>0.260</td><td>0.033 0</td></tr><tr><td>月桂酸C12:0</td><td>0.24</td><td>0.29</td><td>0.24</td><td>0.021</td><td>0.263 0</td></tr><tr><td>银杏酸 C13:0</td><td>0.021</td><td>0.025</td><td>0.021</td><td>0.002</td><td>0.247 0</td></tr><tr><td>肉豆蔻酸 C14:0</td><td>6.98</td><td>7.67</td><td>7.76</td><td>0.240</td><td>0.122 0</td></tr><tr><td>肉豆蔻油酸 C14:1</td><td>0.13</td><td>0.20</td><td>0.41</td><td>0.170</td><td>0.527 0</td></tr><tr><td>十五烷酸 C15:0</td><td>1.03</td><td>1.12</td><td>1.03</td><td>0.038</td><td>0.224 0</td></tr><tr><td>棕榈酸 C16:0</td><td>31.59</td><td>31.24</td><td>32.21</td><td>0.590</td><td>0.529 0</td></tr><tr><td>棕榈酸 C16:1</td><td>4.28b</td><td>5.02a</td><td>3.49c</td><td>0.210</td><td>0.006 2</td></tr><tr><td>十七烷酸 C17:0</td><td>6.42</td><td>6.99</td><td>6.70</td><td>0.140</td><td>0.001 4</td></tr><tr><td>十七碳一烯酸 C17:1</td><td>1.18</td><td>1.57</td><td>1.11</td><td>0.075</td><td>0.010 3</td></tr><tr><td>硬脂酸C18:0</td><td>38.96a</td><td>30.40c</td><td>34.04b</td><td>0.700</td><td>0.000 4</td></tr><tr><td>油酸 C18:1cis-9</td><td>35.75b</td><td>42.26a</td><td>31.04c</td><td>1.180</td><td>0.001 6</td></tr><tr><td>亚油酸 C18:2cis-6</td><td>27.18b</td><td>31.29a</td><td>12.92℃</td><td>0.950</td><td><0.000 1</td></tr><tr><td>α-亚麻酸 C18:3n-3</td><td>2.10b</td><td>2.70a</td><td>2.10b</td><td>0.063</td><td>0.000 7</td></tr><tr><td>γ-亚麻酸 C18:3n-6</td><td>0.09b</td><td>0.14a</td><td>0.06c</td><td>0.001</td><td><0.000 1</td></tr><tr><td>花生一烯酸 C20:1</td><td>0.30</td><td>0.32</td><td>0.30</td><td>0.016</td><td>0.547 0</td></tr><tr><td>花生二烯酸 C20:2</td><td>0.093c</td><td>0.10a</td><td>0.083b</td><td>0.002</td><td>0.000 9</td></tr><tr><td>二十碳三烯酸 C20:3n-6</td><td>0.045</td><td>0.048</td><td>0.039</td><td>0.003</td><td>0.213 0</td></tr><tr><td>花生四烯酸 C20:4n-6</td><td>4.29b</td><td>5.42a</td><td>4.27b</td><td>0.018</td><td>0.002 3</td></tr><tr><td>二十碳五烯酸 C20:5n-3 (EPA)</td><td>0.06b</td><td>0.17a</td><td>0.07b</td><td>0.006</td><td><0.000 1</td></tr><tr><td>二十二碳六烯酸</td><td>0.019b</td><td>0.058a</td><td>0.016b</td><td>0.003</td><td><0.000 1</td></tr><tr><td>C22:6n-3 (DHA)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饱和脂肪酸 SFA</td><td>79.28a</td><td>74.91b</td><td>84.41a</td><td>1.260</td><td>0.015 9</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>41.67b</td><td>49.38a</td><td>36.37℃</td><td>1.250</td><td>0.001 0</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>33.87b</td><td>39.93a</td><td>28.25c</td><td>1.020</td><td>0.000 6</td></tr><tr><td>n-6 多不饱和脂肪酸 n-6 PUFA</td><td>4.42b</td><td>5.60a</td><td>4.36b</td><td>0.019</td><td><0.000 1</td></tr><tr><td>n-3 多不饱和脂肪酸n-3</td><td>2.17b</td><td>2.93a</td><td>2.19b</td><td>0.066</td><td>0.0003</td></tr><tr><td>PUFA</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d0c616c799de9ccc1a7a306882e4cddd9ab6be98d44f75bff304d2b66605c55.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>多不饱和脂肪酸/饱和脂</td><td>0.43b</td><td>0.53a</td><td>0.34c</td><td>0.017</td><td>0.000 7</td></tr><tr><td>肪酸PUFA/SFA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>n-6/n-3</td><td>2.04</td><td>1.91</td><td>2.00</td><td>0.063</td><td>0.397 0</td></tr><tr><td>丙二醛 MDA/（nmol/mg</td><td>95.82a</td><td>89.77b</td><td>100.97a</td><td>1.920</td><td>0.002 2</td></tr><tr><td>超氧化物歧化酶 SOD/ prot)</td><td>198.93b</td><td>218.65a</td><td>286.88c</td><td>2.180</td><td>0.000 1</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4杜寒杂交肉羊各部位脂肪组织中 MDA含量和 SOD 活性与PUFA 沉积量之间的相关性分析  \n多元回归分析结果显示，杜寒杂交肉羊肾周脂肪组织中MDA含量和SOD 活性与PUFA沉积量之间存在线性关系，决定系数（R2）为0.992（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 0 1$ )，其中MDA对多元回归方程的贡献为负增加，而 SOD 为正增加（图1-A)；杜寒杂交肉羊腹部皮下脂肪组织（图1-B)和尾部脂肪组织（图1-C）中MDA含量和 SOD 活性与PUFA沉积量之间同样存在线性关系， $R ^ { 2 }$ 分别为0.967（ $P { < } 0 . 0 0 1$ ）和0.965（ $P { < } 0 . 0 0 1 \\rangle$ ，其中MDA对多元回归方程的贡献为负增加，而 SOD为正增加。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/3350c93f22d29c600d85462f9260d5ed72bead1b913d6533d69f2d72fbce3f36.jpg",
+        "img_caption": [
+            "丙二醛含量或超氧化物歧化酶活性MDAcontent or SOD activity "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c176a17c367bf16d8f84af03375c3e24fa8f94e1426be260e689f2365ae9f33.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图1杜寒杂交肉羊肾周（A）、腹部皮下（B）以及尾部脂肪组织（C）中MDA含量和 SOD",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "活性与PUFA沉积量与之间的关系",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Relationships between MDA content, SOD activity and PUFA deposition in perirenal adipose tissue（A）,abdominal subcutaneous adipose tissue (B) and tail adipose tissue (C) of ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Dorper×thin-tailed Han crossbred mutton lambs ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1不同饲料添加剂对杜寒杂交肉羊生长性能的影响现阶段在肉羊的集约化养殖中亟待解决的问题是，如何提高肉羊生产性能、降低料重比进而降低饲料成本。卢媛[21研究发现，饲粮中添加不同水平的沙葱冻干粉可显著提高杂种育成羊的日增重和屠宰率。贾鹏等[22]研究发现，在杜寒杂交肉羊饲粮中添加复合生物制剂能够显著提高其平均日增重，降低料重比。Mirzaei-Alamouti 等[23]研究表明，莫能菌素对羔羊干物质采食量无显著影响。本试验结果发现，沙葱粉和微生物发酵饲料对杜寒杂交肉羊平均日采食量无显著影响，说明沙葱粉和微生物发酵饲料对饲粮的适口性无显著影响，并能够显著提高肉羊生长性能。推测其可能的原因是，沙葱粉中的生物学活性成分和微生物发酵饲料中的益生菌能够减少肠道有害菌群的数量，增加纤维素、半纤维素分解菌等优势菌群在瘤胃和肠道的定植，最终抑制了有害菌群相对丰度的增加，改善肉羊瘤胃微生物区系，提高饲料转化率。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.2不同饲料添加剂对杜寒杂交肉羊各部位脂肪组织脂肪酸组成的影响",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "羊肉脂肪组织脂肪酸的组成是影响羊肉肉品嫩度、多汁性、风味、食用价值和营养价值的重要指标[24]。研究表明C18:0 的含量与羊肉的膻味密切相关，特别是皮下脂肪中C18:0含量过高会加重羊肉的膻味，从而降低消费者的购买欲[25]。据报道，饲粮中添加沙葱黄酮能有效降低羊肉中C18:0 的含量，说明沙葱黄酮对改善羊肉膻味具有一定的作用[26]。本次试验也得到类似的结果，可能是沙葱中含有的活性成分影响了与脂肪代谢相关酶的活性，进而影响与膻味有关脂肪酸的合成；G2组腹部皮下、尾部和肾周脂肪组织中C18:0的含量均显著低于G1组和G3组，而G3 组虽也低于G1组，但2组之间差异不显著，说明2种饲料添加剂对羊肉风味具有不同程度的改善作用。C18:2cis-6是羊肉中重要的PUFA，也是CLA的前体物，并具有防止动脉硬化、降低血脂等诸多保健功能[27]。研究显示，与对照组相比，沙葱水提物组和沙葱醇提物混合组蒙古羯羊皮下脂肪组织中C18:2cis-6 的含量显著增加[28]。本次试验结果表明，与G1组相比，G2组杜寒杂肉羊不仅皮下脂肪组织中C18:2cis-6的含量显著增加，而且其在尾部以及肾周脂肪组织中的含量也显著增加；G3 组肾周脂肪组织中C18:2cis-6的含量显著降低，其他部位的C18:2cis-6 含量无显著变化。C18:3n-3是合成 EPA、不能合成，必须从食物或者饲料中获取[29]。李艳等[30]从羊肉风味植物沙葱中提取到14 种脂肪酸，发现C16:0、C18:2cis-6和C18:3n-3这3种脂肪酸含量较高。本研究表明，C18:3n-3是PUFA组成中的主要脂肪酸之一，并且补饲沙葱粉的G2组杜寒杂交肉羊各部位脂肪组织中 C18:3n-3 的含量均最高，这可能是沙葱中的C18:3n-3 直接在羔羊脂肪中沉积，但补饲微生物发酵饲料的G3组杜寒杂交肉羊各部位脂肪组织中C18:3n-3的含量与对照组相比无显著变化，这与王莉梅[9]研究结果相似。EPA 和DHA是2种对人体有重要作用的多不饱和脂肪酸，EPA 能够促进体内 SFA的代谢，防止动脉粥样硬化，而DHA又称为是脑黄金，有助于幼儿视网膜及大脑发育[31]。赵国芬等[32]研究发现沙葱 $^ +$ 油籽能够显著提高蒙古羯羊体脂中EPA 的含量，该结果与本次试验结果相一致，即补饲沙葱粉可显著提高腹部皮下和尾部脂肪中 DHA 的含量，但对其他部位DHA 的含量无显著影响。SFA摄入过高可能引发冠心病，当 PUFA/SFA的值大于0.4[33]时则能减少机体循环系统中脂质水平，降低血浆胆固醇浓度，进而减少心血管疾病的发生几率[34]。本次研究发现，G2组3个部位脂肪组织中 SFA 的含量均显著低于G1组和G3 组，而G3 组腹部皮下脂肪中 SFA的含量较对照组显著提高，其他2个部位脂肪组织中 SFA 的含量也有提高趋势；G2组中各部位脂肪组织中PUFA/SFA 的值均大于推荐值0.4，G3 组3个部位脂肪组织中PUFA/SFA的值均显著低于G2 组且小于推荐值0.4，G3 组肾周脂肪组织中PUFA/SFA 的值显著低于G1组，其他部位无显著变化。沙葱粉中含有多种活性成分，这些成分具有很强的抗氧化性，因此推测其可能保护部分PUFA 在瘤胃内的生物氢化，进而有更多的PUFA过瘤胃后被吸收进入体内并沉积到体脂中，这可能是补饲沙葱粉的G2组PUFA/SFA的值增加的原因。综上所述，饲粮中添加沙葱粉能够有效改善杜寒杂交肉羊体脂脂肪酸组成，改善脂肪品质，进而提高肉品质量和风味；添加微生物发酵饲料对杜寒杂交肉羊体脂脂肪酸组成改善效果欠佳。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.3不同饲料添加剂对杜寒杂交肉羊各部位脂肪组织中MDA含量和 SOD 活性的影响",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "机体在代谢过程中通过酶系统或非酶系统产生氧自由基，后者能攻击生物膜中的PUFA，引发脂质过氧化作用，并形成脂质过氧化物，MDA就是细胞膜脂质过氧化物的终产物之一，其含量可以间接反映脂质过氧化程度[35]。SOD 对机体氧化与抗氧化平衡起着至关重要的作用，此酶可以清除超氧阴离子自由基而保护细胞免受损伤[36]。蒋红琴[37]在巴美肉羊的饲粮中添加番茄红素后发现其显著降低了肌肉中 MDA的含量，而 SOD 的活性显著提高，本试验结果与此相似。王娟娟等[38]研究发现，在仔猪饲粮中添加无抗生物发酵饲料能够显著提高仔猪血液中 SOD 的活性，增强仔猪机体自由基清除能力，有助于提高仔猪的抗应激能力。本次试验中，与G1组相比，G2组杜寒杂交肉羊腹部皮下、尾部和肾周脂肪组织中MDA 的含量显著降低，而 SOD 的活性显著升高；G3 组除了尾部脂肪组织中 SOD 的活性无显著变化外，肾周和腹部皮下脂肪组织中SOD的活性均显著升高，MDA的含量显著下降。这表明这2种饲料添加剂对肉羊体脂氧化稳定性都有提高作用。益生菌具有抗氧化活性[39]，这可能是补饲微生物发酵饲料组肉羊体脂抗氧化性能提高的主要原因。补饲沙葱粉组肉羊的脂肪品质较对照组得到改善，其可能的原因是，天然植物沙葱中含有黄酮、多糖以及萜烯类化合物等生物学活性成分[40]，这些成分都具有一定的抗氧化作用，其机理主要是在脂质氧化的不同阶段，这些活性成分起到还原剂、阻滞剂和螯合剂的作用，从而终止链反应的某个环节，降低链反应速度或者俘获链反应自由基来干扰链增殖，进而起到保护脂肪细胞的作用[41]。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.4PUFA沉积量与羊肉脂肪氧化性能的关系",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "由于PUFA是脂质氧化反应的首选底物，所以在肉类的脂质氧化中起着非常关键的作用[42]。肉类产品中PUFA之所以容易被氧化降解是因为其具有很高的磷脂亲和力，会引发酶促氧化反应，参与的底物主要为C20:4n-6 和C18:2cis-6等[43]。在贮藏的过程中，脂质氧化不仅会使羊肉产生不良风味，而且会降低其营养价值[44]。Lee 等[45]研究发现，在腊肠的加工过程中，以MDA为主的醛类氧化产物明显增加，而PUFA的含量则有下降的趋势。有学者对乌珠穆沁羊背最长肌PUFA的沉积量与MDA含量以及 SOD 和谷胱甘肽过氧化物酶(GSH-Px)活性进行多元回归分析后发现，MDA 和GSH-Px对回归方程的贡献为负增加，而SOD 为正增加[46]，这与本试验结果相似。本试验多元回归分析结果进一步说明，肉羊脂肪组织中PUFA沉积量与脂质过氧化物MDA含量和抗氧化物 SOD 活性密切相关，可以通过降低肉羊脂肪组织中MDA含量以及提高 SOD 活性的方式，提高肉羊机体 PUFA的沉积量。饲粮添加沙葱粉和微生物发酵饲料能够有效降低杜寒杂交肉羊各部位脂肪组织中MDA的含量，表明饲喂含有沙葱粉和微生物发酵饲料饲粮的杜寒杂交肉羊其脂质抗氧化性能优于对照组，进而有利于延长其货架期。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4结论 $\\textcircled{1}$ 饲粮中添加沙葱粉和生物发酵饲料能够提高舍饲杜寒杂交肉羊平均日增重，降低料   \n重比，进而提高生长性能。 $\\textcircled{2}$ 饲粮中添加沙葱粉能够有效改善舍饲杜寒杂交肉羊体脂脂肪酸组成，并可提高脂肪   \n的氧化稳定性，改善脂肪品质。 $\\textcircled{3}$ 饲粮中添加微生物发酵饲料对舍饲杜寒杂交肉羊体脂脂肪酸组成改善效果欠佳，但   \n可提高脂肪的氧化稳定性。   \n参考文献:   \n[1] WEBB E C,ERASMUS L J.The effect of production system and management practices on the quality of meat products from ruminant livestock[J].South African Journal of Animal Science,2013,43(3):413-423.   \n[2]董志录.嘉峪关市肉羊产业可持续发展的对策分析[J].畜牧兽医杂志,2016,35(2):76-77,80.   \n[3]WATKINSPJ,KEARNEYG,ROSE G,etal.Effectofbranched-chain fatty acids,3-methylindole and 4-methylphenol on consumer sensory scores of grilled lamb meat[J].Meat Science,2014,96(2):1088-1094.   \n[4] KUMAR S,MENDIRATTA S K,AGRAWAL R K,et al.Anti-oxidant and anti-microbial ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "properties of mutton nuggets incorporated with blends of essential oils[J].Journal of Food Science and Technology,2018,55(2):821-832. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[5]TURHAN S,SARICAOGLU F T,MORTAS M,et al.Evaluation of color,lipid oxidation and microbial quality in meatballs formulated with bee pollen during frozen storage[J].Journal of Food Processing and Preservation,2017,41(3):e12916.   \n[6]SOHAIB M,ANJUM F M,ARSHAD M S,et al.Oxidative stability and lipid oxidation flavoring volatiles in antioxidants treated chicken meat paties during storage[J].Lipids in Health and Disease,2017,16:27.   \n[7]RAEFSKY S M,RAN F,MILNE G,et al.Deuterated polyunsaturated fatty acids reduce brain lipid peroxidation and hippocampal amyloid $\\beta$ -peptide levels,without discernable behavioral effectsinanAPP/PS1mutanttransgenicmousemodelofAlzheimer's disease[J].Neurobiology of Aging,2018,66:165-176.   \n[8] LEUNG K S,CHAN H F,LEUNG H H,et al.Short-time UVA exposure to human keratinocytesinstigatedpolyunsaturatedfattyacidwithoutinducing lipid peroxidation[J].Free Radical Research,2017,51(3):269-280.   \n[9] COOMBS C E O,HOLMAN B W B,FRIEND M A,et al.Long-term red meat preservation using chilled and frozen storage combinations:a review[J].Meat Science,2017,125:84-94.   \n[10]张玉斌,郜晶晶,刘金鑫,等.天然抗氧化剂对冷却藏羊肉贮藏过程中脂质氧化影响的研究 [J].中国食品工业,2017(8):52-56.   \n[11] ROSSI R,PASTORELLI G,CANNATA S,et al.Effect of long term dietary supplementation with plant extract on carcass characteristics meat quality and oxidative stability in pork[J].Meat Science,2013,95(3):542-548.   \n[12] YAZDI F T,GOLIAN A,ZARGHI H,et al.Effect of wheat-soy diet nutrient density and ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "guanidine acetic acid supplementation on performance and energy metabolism in broiler chickens[J].Italian Journal of Animal Science,2017,16(4):593-600. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[13]张建贵.沙葱驯化的种植技术[J].林业科技通讯,2016(10):75-76.  \n[14]木其尔,敖长金,萨茹丽,等.沙葱总黄酮对肉羊抗氧化能力的影响[J].动物营养学报,2016,28(6):1823-1831.  \n[15]赵春艳,敖长金,缪亚娟,等.沙葱黄酮对小鼠抗氧化能力的影响[J].饲料工业,2009,30(24):10-13.  \n[16]曹志军,敖长金,刘敏,等.沙葱提取物对羊肉食用品质影响的研究[J].食品工业,2011(5):59-62.  \n[17] 赵国芬,敖长金,赵志恭,等.沙葱和油籽对羊肉中CLA和 PUFA含量的影响[J].饲料工业,2008,29(17):35-37.  \n[18]张巧娥.沙葱提取物的分离鉴定及其对绵羊消化道共轭亚油酸含量和胴体脂肪沉积影响的研究[D].博士学位论文.呼和浩特:内蒙古农业大学,2007:45-48.  \n[19]王莉梅.全混合发酵饲料对羊肉品质的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2013:11-15.  \n[20] LIN B S,LUO J,LI Y M,et al.Research on the eect of microbial fermentation feeds onslaughter performance and meat quality in pig with large-scale feeding[J].AgriculturalScience & Technology,2016,17(10):2329-2331.  \n[21]卢媛.沙葱、地椒风味活性成分及其对绵羊瘤胃发酵和羊肉风味的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2002:32-35.  \n[22] 贾鹏,万凡,马涛,等.饲粮中添加不同生物制剂对杜寒杂交肉羊生产性能和屠宰性能的影响[J].动物营养学报,2017,29(12):4621-4631.  \n[23] MIRZAEI-ALAMOUTI H,MORADI S,SHAHALIZADEH Z,et al.Both monensin and plant",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "extract alter ruminal fermentation in sheep but only monensin afects the expression of genes involved in acid-base transport of the ruminal epithelium[J].Animal Feed Science and Technology,2016,219:132-143. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[24] RANI Z T,NANTAPO C W T,HUGO A,et al.Factors affecting the physico-chemical quality and fatty acid profiles of mutton at point of purchase in the Eastern Cape province,South Africa[J].Archivos Latinoamericanos de Produccion Animal,2014,12:17-19.   \n[25] AL-AMER S,BEKHIT E D A,GOONERATNE R,et al.Nutritional composition of Mutton bird (Puffnus griseus) meat[J].Journal of Food Composition and Analysis,2016,46:22-28.   \n[26] 陈仁伟.沙葱黄酮对肉羊生产性能及其肉品质的影响[D].硕士学位论文.呼和浩特:内蒙古 农业大学,2016:34-35.   \n[27] VAN LEEUWEN K A,CAMIN F,JERONIMO E,et al.Dietary effects on stable carbon isotope composition of fatty acids in polar and neutral fractions of intramuscular fat of lambs[J].Journal of Agricultural and Food Chemistry,2017,65(43):9404-9411.   \n[28] BUCCIONI A,RAPACCINI S,ANTONGIOVANNI M,et al.Conjugated linoleic acid and C18:1 isomers content in milk fat of sheep and their transfer to Pecorino Toscano cheese[J].International Dairy Journal,2010,20(3):190-194.   \n[29] COTTIN S C,ALSALEH A,SANDERS T A B,et al.Lack of effect of supplementation with EPAor DHA on platelet-monocyte aggregatesand vascular function in healthy men[J].Nutrition,Metabolism and Cardiovascular Diseases,2016,26(8):743-751.   \n[30]李艳,周玉香,罗海玲,等.7种羊肉风味植物中脂肪酸成分分析[J].畜牧与兽 医,2012,44(8):49-51.   \n[31] RAMPRASATH V R,EYAL I,ZCHUT S,et al.Supplementation of krill oil with high phospholipid content increases sum of EPA and DHA in erythrocytes compared with low ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "phospholipid krill oil[J].Lipids in Health & Disease,2014,14:142. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[32]赵国芬,敖长金,赵志恭,等.沙葱和油籽对羊肉脂肪酸组成的影响[J].黑龙江畜牧兽 医,2008(3):46-49.   \n[33] LiorancasV,BakutisB.Effect of organicrearing system onpork qualityand preference[C]/Proceedings of 13th International Congress in Animal Hygiene.Tartu,Estonia,2007.   \n[34] IGGMAN D,RISEERUS U.Role of diferent dietary saturated fatty acids for cardiometabolic risk[J].Clinical Lipidology,2011,6(2):209-223..   \n[35]周立红,张铁梅.脂肪组织生物学功能的研究进展[J].国际老年医学杂志,2006,27(2):83-86.   \n[36] WATKINS P J,FRANK D,SINGH T K,et al.Sheepmeat flavor and the eect of different feeding systems:a review[J].Journal of Agricultural and Food Chemistry,2013,61(15):3561-3579.   \n[37]蒋红琴.番茄红素对巴美肉羊肉品质的影响及其抗氧化机理研究[D].博士学位论文.北京: 中国农业大学,2015:64-66.   \n[38]王娟娟,王顺喜,陆文清,等.无抗生素微生物发酵饲料对仔猪免疫及抗氧化功能的影响[J]. 中国饲料,2011(16):25-27,30.   \n[39] BASAK E,AYDIN F A,TURGAY E,et al.Antioxidant effects of probiotics in experimentally induced peritonitis[J].Surgical Infections,2016,17(1):114-115.   \n[40]敖长金.沙葱化学成分及其生物学功能研究进展[J].饲料工业,2010(18):1-5.   \n[41] AL-RASHEED N M,FADDA L M,ALI H M,et al.New mechanism in the modulation of carbon tetrachloride hepatotoxicity in rats using diferent natural antioxidants[J].Toxicology Methods,2016,26(4):243-250.   \n[42] GOBERT M,GRUFFAT D,HABEANU M,et al.Plant extracts combined with vitamin E in ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "PUFA-rich diets of cull cows protect processed beef against lipid oxidation[J].Meat Science,2010,85(4):676-683. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[43] VIGOR C,BERTRAND-MICHEL J,PINOT E,et al.Non-enzymatic lipid oxidation products inbiological systems:assessment of the metabolitesfrom polyunsaturated fatty acids[J].Journal of Chromatography B,2014,964:65-78.   \n[44]吴宝森,孙玥晖,刘姝韵,等.肉和肉制品中脂质氧化的研究进展[J].食品安全质量检测学 报,2017,8(3):814-818.   \n[45] LEE J Y,KUNZ B.The antioxidant propertiesof baechu-kimchi and freeze-dried kimchi-powder in fermented sausages[J].Meat Science,2005,69(4):741-747.   \n[46] LUCIANO G,BIONDI L,PAGANO R I,et al.The restriction of grazing duration does not compromise lamb meat colour and oxidative stability[J].Meat Science,2012,92(1):30-35. Effects of Different Feed additives on Fatty Acid Composition and Oxidation Stability of Body Fat in Dorper $\\cdot \\times$ Thin-Tailed Han Crossbred Mutton Lambs LIU Wangjing1AO Changjin\\* DING He Khaserdene DAN Ni LI Shuyi LI Ying ZHANG Zuozhong (College of animal science, Inner Mongolia Agricultural University, Hohhot O1oo18, China)   \nAbstract: The objective of this experiment was to investigate the effects of different fed additives   \non fatty acid composition and oxidation stability of body fat in Dorperxthin-tailed Han crossbred   \nmutton lambs. Single factor completely randomized block design was used in the current study. A   \ntotal of 30 healthy and six-month-old Dorper×thin-tailed Han crossbred muton lambs with similar   \nbody weight $[ ( 4 2 . 5 { \\pm } 3 . 1 ) \\mathrm { k g } ]$ were randomly divided into 3 groups with 10 lambs each. Lambs in   \ncontrol group (Gl group) were fed a basal diet, those in experimental group 1 (G2 group) were fed   \nthe basal diet supplemented with Allium mongolicum Regel powder ( $2 0 ~ \\mathrm { g / d }$ each lamb), and those   \nin experimental group 2(G3 group） were fed the basal diet supplemented with microbial   \nfermented feed( $\\mathrm { 1 0 0 ~ g / d }$ each lamb). The trial period lasted for $7 5 \\mathrm { ~ d ~ }$ ，which consisted of $1 5 { \\mathrm { ~ d ~ } }$ of   \nper-feeding period and $6 0 ~ \\mathrm { d }$ of formal period. At the end of feeding experiment, three lambs were   \nrandomly selected from each group and slaughtered to collect the perirenal adipose tissue,   \nabdominal subcutaneous adipose tissue and tail adipose tissue to measure fatty acid composition,   \nmalondialdehyde (MDA) content and superoxide dismutase (SOD) activity. The results showed as ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "431 follows: compared with Gl group,1) G2 group and G3 group showed significantly higher average   \n432 daily gain and significantly lower feed to gain ratio of mutton lambs $( P { < } 0 . 0 5 )$ . 2) G2 group   \n433 showed significantly higher the contents of linoleic acid (C18:2cis-6), $\\mathfrak { a }$ -linolenic acid (C18:3n-3),   \n434 eicosapentaenoic acid (EPA, $\\mathrm { C } 2 0 { : } 5 \\mathrm { n - } 3 \\rangle$ , docosahexaenoic acid (DHA, C22:6n-3), polyunsaturated   \n435 fatty acids（PUFA）, $\\mathrm { n } { - } 6$ PUFA and the value of PUFA/saturated fatty acid （SFA） $( P { < } 0 . 0 5 )$ and   \n436 significantly lower the content of C18:0 in the perirenal adipose tissue,abdominal subcutaneous   \n437 adipose tissue and tail adipose tissue $( P { < } 0 . 0 5 )$ ； G3 group showed significantly higher DHA   \n438 content in the abdominal subcutaneous adipose tissue and tail adipose tissue $( P { < } 0 . 0 5 )$ , and showed   \n439 significantly lower the contents of monounsaturated fatty acids (MUFA） and C18:O in the   \n440 perirenal adipose tissue ( $( P { < } 0 . 0 5 )$ . 3) The contents of n-6 PUFA and the value of $\\mathrm { n } { - } 6 / \\mathrm { n } { - } 3$ in the tail   \n441 adipose tissue in G2 group and G3 group were significantly increased $( P { < } 0 . 0 5 )$ , the content of n-3   \n442 PUFA in the perirenal adipose tissue in G2 group was significantly increased $( P { < } 0 . 0 5 )$ ，and the   \n443 value of PUFA/SFA in the perirenal adipose tissue in G3 group was significantly decreased   \n444 （204号 $( P { < } 0 . 0 5 )$ . 4) G2 group and G3 group significantly up-regulated the SOD activity and significantly   \n445 down-regulated the MDA content in the perirenal adipose tissue and abdominal subcutaneous   \n446 adipose tissue $( P { < } 0 . 0 5 )$ .5） There were linear relationships between the MDA content, SOD   \n447 activity and PUFA content $( P { < } 0 . 0 0 1 )$ in the perirenal adipose tissue $( R ^ { 2 } { = } 0 . 9 9 2 )$ )，abdominal   \n448 subcutaneous adipose tissue（ $R ^ { 2 } { = } 0 . 9 6 7 )$ and tail adipose tissue ( $R ^ { 2 } { = } 0 . 9 6 5 \\mathrm { \\Omega }$ . The contribution of   \n449 MDA was negative for the multiple regresson equation， whereas the SOD was positive. In   \n450 conclusion, diet supplemented with Alium mongilicum Regel powder and microbial fermented   \n451 feed both can improve the growth performance of Dorper $\\cdot \\times$ thin-tailed Han crossbred mutton lambs.   \n452 Diet supplemented with Allium mongilicum Regel powder can improve the faty acid composition   \n453 and fat oxidative stability effectively，which is significant in improving the fat quality of   \n454 Dorperxthin-tailed Han crossbred muton lambs. Diet supplemented with microbial fermented   \n455 feed cannot improve the fatty acid composition effectively,but can increase the fat oxidative   \n456 stability of Dorper×thin-tailed Han crossbred mutton lambs.   \n457 Key words: feed additives; mutton lamb; fat quality； antioxidant; oxidation stability; ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "polyunsaturated fatty acids ",
+        "page_idx": 23
+    }
+]

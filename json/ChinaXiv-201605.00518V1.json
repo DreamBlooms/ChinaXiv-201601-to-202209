@@ -1,0 +1,554 @@
+[
+    {
+        "type": "text",
+        "text": "Harvest management affects biomass composition responses of C4 perennial bioenergy grasses in the humid subtropical USA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHAE-IN NA,JEFFREYR.FEDENKO,LYNNE. SOLLENBERGER and JOHNE. ERICKSON AgronomyDepartment,UniversityofFlorida,Gainesuille,FL2611, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Elephantgrass (Pennisetum purpureum Schum.） and energycane (Saccharum spp. hybrid) are high-yielding C4 grasses that are attractive biofuel feedstocks in the humid subtropics. Determining appropriate harvest management practices for optimal feedstock chemical composition is an important precursor to their successful use in production systems. In this research,we have investigated the effects of harvest timing and frequency on biomass nutrient,carbohydrate and lignin composition of UF1 and cv.Merkeron elephantgrases and cv.L79-1002 energycane. Biomass properties under increased harvest frequency (twice per year) and delayed harvest (once per year after frost) were compared with a control (once per year prior to frost).There were no diferences between elephantgrass entries in structural carbohydrates; however,elephantgrasses had greater structural hexose concentration than energycane for single-harvest treatments (avg. 398 vs. $3 6 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ),a trait that is preferred for biofuel production. Delayed harvest of energycane decreased structural hexose compared with the control (374 vs. $3 5 \\bar { 7 } \\ \\mathrm { m g \\ g ^ { - 1 } }$ ）because nonstructural components accumulated in energycane stem as harvest was delayed.Frequent defoliation (2X) increased N,P,and ash concentrations ( $7 5 \\%$ for $\\mathrm { \\Delta N }$ and $\\mathrm { \\Delta P }$ and $5 8 \\%$ for ash) in harvested biomass compared with single-harvest treatments.We conclude that multiple harvests per year increase the harvest period during which feedstock is available for processing,but they do not result in optimal feedstock composition. In contrast, extending the period of feedstock supply by delaying a single harvest to after first freeze did not negatively affect cellwallconstituent properties，while it increased length of the harvest period by ${ \\sim } 3 0$ days in the southeast USA. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:biofuel,elephantgrass，energycae,fibercomposition，lignin,nitrogen,Peisetumpurpureum，Saccarumspp. structuralcarbohydrates ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received10 September 2015 andaccepted26 October2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plant structural biomass consists primarily of three major types of polymers: cellulose,hemicellulose,and lignin.These polymersare strongly bonded bynoncovalent forces and by covalent cross-linkages (Perez et al., 2002).The cell wall is composed of long crystalline cellulose microfibrils embedded in a matrix of other polysaccharides (Perez et al.，2002).In grasses, the pre dominant hemicellulosic polysaccharides in cell walls are glucuronoarabinoxylans that have a xylose backbone with arabinose and acetyl substitutions and constituents (Vermerris,2oo8).Given the abundance of cellulose and hemicellulose in cell walls of perennial grasses，they represent a major source of structural carbohydrates for conversion to bioenergy. Lignin is the third major component of plant structural biomass and limits not only the physical accessibility of cellulose and hemicellulose, but also the activity of cellulolytic enzymes (Jung et al., 2013).This occurs as a result of multiple factors,including shielding cellulose from microbial degradation by providing a surface that cellulolytic enzymes adsorb to irreversibly (Akin,2007;Vermerris,2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The proportions of cellulose and lignin in biomass affect the yield of biochemical conversion processes. For instance,due to the high lignin concentration in wood, more ethanol can be produced from switchgrass (Panicum virgatum L.） than that from the same weight of wood biomass (McKendry,2002).Actual concentrations of monomers from cellulose and hemicellulose can be analyzed by procedures established by the National Renewable Energy Laboratory (NREL). These procedures allow for the quantification of sugar monomers from extractives (nonstructural carbohydrates or soluble sugars）and structural carbohydrates,and measurement of acid-soluble and insoluble lignin (Sluiter, 2008a,b). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The desired composition of biomass for bioenergy is dependent upon the postharvest conversion process used,and in most processes,lower levels of N and ash in the feedstock are preferred (Lewandowski & Heinz, 2003;Waramit et al.,2011).High levels of Nand/or ash can reduce thermochemical conversion efficiency and increase wear， while decreasing energy generation whenused for co-firing (Shahandeh et al.,2011).Perennial C4 grasses have up to two times greater N-use efficiency than C3 plants (Jakob et al.，2009)，and high biomass production with low tissue N concentration makes them important candidate bioenergy grasses. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Harvest management affects not only biomass yield but also its composition (Casler & Boe,2003;Lewandowski & Heinz，2003;Adler et al.，2006).Miscanthus (Miscanthus giganteus) and giant reed (Arundo donax L.) showed a gradual decline in stem N concentration with increasing maturity in the United Kingdom (Smith & Slater,2011).The decline in plant $\\mathrm { \\Delta N }$ concentration with increasing maturity has been associated with decreasing leaf proportion and much lower N concentration in stem than in leaves.For instance, averageswitchgrassleafNconcentrationwas $1 3 . 5 ~ \\mathrm { m g ~ g ^ { - 1 } }$ compared with $5 . 7 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for stem (Shahandeh et al.，2011).Similarly，giant reed and switchgrass leaves contained twofold or greater $\\mathrm { \\Delta N }$ when compared with the stem and showed a decline in $\\mathrm { \\Delta N }$ and $\\mathrm { ~ P ~ } { }$ concentrations from October to December (Kering et al.,2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Elephantgrass (or napiergrass; Pennisetum purpureum Schum.) is indigenous to sub-Saharan Africa in areas of rainfall exceeding $1 0 0 0 ~ \\mathrm { { m m } }$ .It isin the tribe Paniceae of the Poaceae family (Hanna et al., 2004). Elephantgrass is a robust,creeping rhizomatous plant that perennates in the tropics and subtropics.Sollenberger et al. (2014) reported that elephantgrass breeding lines developed for biomass averaged $3 . 7 7 ~ \\mathrm { m }$ in plant height, $2 7 1 \\ \\mathrm { g }$ in tiller mass,and $7 . 4 ~ \\mathrm { m m }$ in tiller diameter in Florida. Sugarcane (Saccharum spp.）hybrids have a high concentration of cellulose instead of sucrose,and they are a potentially valuable feedstock resource for cellulosic ethanol production.This is why high-cellulose Saccharums are called ‘energycanes (Saccharum spp.hybrid)' (León et al.,2010). To bettr understand Saccharum spp. asa biofuel crop,it is useful to note that there are three distinctive types. These include sugarcane (primarily sugar， conventional sugarcane)， type I energycane (sugar and fiber)，and type II energycane (primarily fiber). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent studies on harvest frequency and timing for elephantgrass and energycane grown in Florida, USA, found that two harvests annually negatively affected long-term biomass yield and plant persistence (Na et al., 2015a,b).Harvest management is an important determinant of chemical composition of perennial grasses used for forage (Chaparro & Sollenberger，1997)，and it is reasonable to hypothesize that it affects composition of bioenergy feedstocks as well.Limited data exist describing harvest management effects on chemical composition of perennial grasses used for biofuel feedstocks grown on sandy soils in a subtropical environment. Therefore,the objective of this research was to determine the effect of harvest frequency and timing and grass entry on concentrations of plant structural and nonstructural carbohydrates，lignin,N,P,and ash in harvested biomass. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted during 2010 and 2011 at the Plant Science Research and Education Unit (PSREU) at Citra, FL $( 2 9 . 4 1 ^ { \\circ } \\mathrm { N } _ { \\cdot }$ ， $8 2 . 1 7 ^ { \\circ } \\mathrm { W } )$ .The soil was a well-drained Candler sand (hyperthermic,uncoated Lamellic Quartzipsamments). Initial soil characterization $( 0 { - } 2 0 ~ \\mathrm { c m } )$ ）showed an average soil $\\mathrm { \\Delta p H }$ of 7.0,and Mehlich-1 extractable P,K,and $\\mathbf { M } \\mathbf { g }$ of 54,20, and $1 2 3 ~ \\mathrm { m g ~ k g ^ { - 1 } } ,$ ，respectively. These concentrations are considered to be high for ${ \\mathrm { ~ P ~ } } ,$ very low for $\\mathrm { K , }$ and very high for $\\mathbf { M } \\mathbf { g }$ (Mylavarapu et al.，20o9).Monthly average，maximum，and minimum temperatures (Fig.1）and monthly precipitation (Fig.2) are shown for the experimental period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Treatments and experimental design ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Treatments included all factorial combinations of three grass entries and three harvest management practices.Each treatment was replicated four times in a split-plot arrangement of a randomized complete block design. Harvest treatment was the main plot and grass entry was the subplot. The three grass entries included two elephantgrasses，cv. Merkeron (Burton,1989)and a breeding line referred to as UF1, and cv.L 79-1002 type II energycane (Bischoff et al.,2008). These two species were chosen because earlier work with biomass feedstocks identified them as having the greatest potential in this region (Woodard & Prine,1993).Merkeron and L 79-1oo2 were also chosen because they were the cultivars with the largest current presence in the region. Breeding line UF1 was included because previous research had demonstrated its high yield potential and preferred morpho logical characteristics(Sollenbergeret al.，2014；Na et al., 2015a,b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three harvest management treatments were implemented that included different harvest frequency and timing.These were (i) two harvests per year (late July，named 2X-July; November harvest of regrowth after 2X-July harvest,named 2X-Nov),(ii) one harvest per year in fall [at initiation of Merkeron flowering (first entry to flower)and before first freeze; named 1X-Novl,and (iii) one harvest per year in winter (within 1 week following first freeze,with a freeze defined asa temperature of less than $0 ~ ^ { \\circ } \\mathrm { C }$ at $2 \\mathrm { ~ m ~ }$ above soil level resulting in complete kill of leaves,orat full flowering of Merkeron,whichever happened first; named 1X-Dec). In 2010,harvests occurred on $3 0 \\ \\mathrm { J u l y }$ for2X-July,10 November for 1X-Nov and 2X-Nov, and 9 December for 1X-Dec.In 2011,harvest dates were 21 July for 2X-July,8 November for 1X-Nov and 2X-Nov,and 15 December for 1X-Dec. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e550ff2a1e4cecef35b3c50781ddccc1ea0b69f28c00dc671c91c77297a361.jpg",
+        "img_caption": [
+            "Fig.1Monthlyaverageandmonthlymaximumandminimumair temperatures for 2010and 2011fortheexperimental location (availableatdutoatedathreorkp://fsufu)nderveragefornevileda( ableat Florida Climate Center,http://climatecenter.fsu.edu). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fddd933ce24d1bc13bc4e42ba6b24424ec9b432365580656e015608e49c985e.jpg",
+        "img_caption": [
+            "Fig.2Monthlyainfallforndlfortheexpermentalocation(vailabeatForidautomatedWeatherNetworktp://faw n.ifas.ufl.edu)daefoilldalblatotte://aecetedu). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plot preparation and management ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plots contained six rows,each $6 \\mathrm { ~ m ~ }$ long，with $1 \\mathrm { ~ m ~ }$ spacing between rows,and were established using aboveground stem pieces planted on December 15,2009.Thus,the 2010 data are from the establishment year.In both years,N was applied as ammonium sulfate $[ \\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } } ]$ at a rate of $1 5 0 \\ \\mathrm { k g \\ N h a } ^ { - 1 } ,$ and K was applied as muriate of potash (KCl) at a rate of $9 0 ~ \\mathrm { k g } \\mathrm { ~ K ~ h a } ^ { - 1 }$ . Nutrients were split applied,with applications of $5 0 \\mathrm { ~ k g ~ N ~ }$ and $4 5 ~ \\mathrm { k g } \\mathrm { K } \\mathrm { h a } ^ { - 1 }$ in mid-April and $1 0 0 \\mathrm { k g } \\mathrm { N }$ and $4 5 ~ \\mathrm { k g ~ K ~ h a } ^ { - 1 }$ in mid-May.No P was applied based on soil test results indicating sufficient levels.Limited irrigation was applied to the experiment only at visual signs of significant drought stress,for example,severe leaf rolling.There were five irrigation events in 2010 (total of $6 0 ~ \\mathrm { m m } ,$ ）and three irrigation events in 2011 (total of $5 0 ~ \\mathrm { m m } ,$ using a traveling gun irrigation system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At harvest, four representative tillers (approximately $3 ~ \\mathrm { k g }$ fresh weight) were selected frommid-rowat least a meter from all borders for determination of plant part proportion,dry matter，and chemical composition of harvested feedstock. Tillers were hand-separated into leaf (blade and sheath)and stem (including inflorescence，if present） components.Leaf :stem ratio data were reported previously (Na et al.,2015b). Samples were dried at $6 0 ~ ^ { \\circ } C$ until constant weight. Stem samples were initially grounded through a hammer mill to reduce particle size. Stem and leaf samples were ground to pass a $1 \\mathrm { - m m }$ stainlesssteel screenina Wileymill (Model4 Thomas-Wiley Laboratory Mill,Thomas Scientific,Swedesboro,NJ,USA).Ground samples were transferred to anairtight containerimmediately. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biomass fiber analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Each component of dried biomass (stem and leaves) was analyzed for chemical composition.A modified NREL procedure wasused for compositional analysis (Sluiter,20o8a,b).In the modified NREL procedure,dried biomass was analyzed for nonstructural extractives,structural carbohydrates,and total lignin (Fedenko et al.，2013)．For nonstructural extractives, $1 0 0 ~ \\mathrm { m l }$ of deionized (D.I.）water was added to $_ \\textrm { 1 g }$ of dried sample and autoclaved in sealed pressure tubes (ACE Glass, Inc.,Vineland,NJ,USA)at $1 2 1 ^ { \\circ } \\mathrm { C }$ for $^ { \\mathrm { ~ 1 ~ h ~ } }$ .Samples were then vacuum-filtered through wet-strengthened 113 filter paper (Whatman,GE healthcare,Little Chalfont,UK).Filtered extractives were collected for nonstructural carbohydrate analysis. The captured structural biomass from extraction was dried at $4 0 ~ ^ { \\circ } \\mathrm { C }$ and then weighed.A $0 . 3 \\mathrm { - g }$ dry subsample was used for two-stage acid hydrolysis; the first stage was a 1-h incubation at $3 0 ~ ^ { \\circ } C$ with concentrated sulfuric acid $( 7 2 \\%$ FlukaAlalytical; Sigma-Aldrich, St.Louis,MO, USA).In the second stage,sulfuric acid was diluted to $4 \\%$ byadding D.I.water for1-h digestion under elevated pressure and temperature $( 1 2 1 ~ ^ { \\circ } \\mathrm { C }$ and $1 0 3 \\ \\mathrm { k P a } )$ .Hydrolyzed sampleswere vacuum-filtered through a medium-porosity filtering crucible (Coors #60531;CoorsTek, Golden, CO,USA). Two aliquots of filtrate were taken,with one analyzed in duplicate for acid-soluble lignin at a wavelength of $2 4 0 ~ \\mathrm { n m }$ using a UV-vis spectrophotometer (StellarNet,Inc.，Tampa, ${ \\mathrm { F L } } ,$ USA). The second aliquot collected fromhydrolyzed sampleswasneutralized to $\\mathrm { p H } 5  – 7$ using calcium carbonate. Insoluble lignin was determined gravimetrically as total solids remaining in the crucible after vacuum filtration of hydrolyzed biomass.Total lignin was calculated as the sum of acid-soluble and insoluble lignin.Extractives and neutralized hydrolyzed samples were filtered through a 0.22- $\\mu \\mathrm { m }$ syringe filter and analyzed by HPLC (Perkin-Elmer Flexar system,Waltham,MA,USA) using a refractive index detector and a Bio-Rad Aminex HPX-87H column $( 3 0 0 \\times 7 . 8 ~ \\mathrm { { m m } , }$ maintained at $5 0 ~ ^ { \\circ } \\mathrm { C }$ ，Sulfuric acid (HPLC grade, $4 ~ \\mathrm { m M } .$ was used as the mobile phase at a flow rate of $0 . 4 ~ \\mathrm { m l } ~ \\mathrm { m i n } ^ { - 1 }$ witha $1 0 \\mathrm { - } \\mu \\mathrm { l }$ injection and 4O-min run time.Perkin-Elmer's Chromera software was used to quantify peaks (Fedenko,2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Extractives are considered to be the sum of all nonstructural components of plant tissue removed during extraction,of which soluble sugars are a major component. They were determinedonamass balance basisas thedifference between initial sample weight and sample weight after hot water extraction (Sluiter,20o8a).Hexoses and pentoses are the sum of six-carbon (6C;glucose and mannose) and five-carbon (5C;xylose and arabinose) structural carbohydrates,respectively.Mannose was never present at minimum quantifiable levels in this study. Total lignin is the sum of acid-soluble and insoluble lignin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Total nitrogen,phosphorus,and ash ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For N and $\\mathrm { \\Delta P }$ analyses,a modified Kjeldahl procedure was conducted. Samples were digested using a modification of the aluminum block digestion procedure (Gallaher et al.，1975). Sample weight was $_ { 0 . 2 5 \\ \\mathrm { g } , }$ catalyst used was $1 . 5 \\mathrm { ~ g ~ }$ of $9 : 1$ $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 } : \\mathrm { C u } \\mathrm { S O } _ { 4 } ,$ and digestion was conducted forat least $^ \\textrm { \\scriptsize 4 h }$ at $3 7 5 ~ ^ { \\circ } C$ using 6 ml of sulfuric acid and $2 ~ \\mathrm { m l }$ hydrogen peroxide. Analysis of digestate was carried out using the Technicon Autoanalyzer and semiautomated colorimetry to determine N and $\\mathrm { \\Delta P }$ in the digestate (Hambleton,1977).Absolute dry matter was determined by oven drying at $1 0 5 ~ ^ { \\circ } \\mathrm { C }$ to constant weight and then samples were ashed at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 6 \\mathrm { ~ h ~ } }$ to determine ash concentration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data were analyzed using mixed-model methods in PRoc MIXED (SAS Institute,20o8).In all models,harvest treatment and grass entry were considered fixed effects.Yearwas considered arepeated measurement (fixed).Block and interactions with block were considered random effects.Because there were two harvests per year in the 2X treatment,samples from both harvests were analyzed separately in the laboratory,and the model effectively contains four levels of the harvest management treatment,that is,2X-July,2X-Nov,1X-Nov,and 1X-Dec. Leaf,stem,and total aboveground biomass data were analyzed separately for each factor.Total aboveground biomass data were calculated as the weighted average of leaf and stem composition for each factor.Means were compared using the pdiff test of LsMEANs.All meansreported in the text are leastsquare means and were considered different if $P \\leq 0 . 0 5$ Because the effects of greatest interest were harvest management,entry,and their interaction,and because the harvest management $\\times$ entry interaction was significant in most cases, data presented are the means for this interaction. If the interaction was not significant, only main effect means were compared. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Extractives and total soluble sugars ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A harvest management $\\times$ entry interaction occurred ${ ' } P = 0 . 0 4 4 { \\mathrm { . } }$ ）for leaf extractives because UF1 elephantgrass showed a greater concentration than other entries in the 1X-Dec harvest,but there were no differences between elephantgrass entries for the other harvest treatments (Table1).Single-harvest (1X-Nov and 1XDec）leaf-extractive concentrations were lower than either 2X-July or 2X-Nov forall grass entries.A harvest management $\\mathrm { ~  ~ { ~ x ~ } ~ }$ entry interaction occurred for stem extractives $( P < 0 . 0 0 1$ ，Table 1).L 79-1002 stem extractives were greatest in 1X-Dec $\\left( 3 3 8 \\mathrm { ~ m g ~ g ^ { - 1 } } \\right) ,$ followed by 1X-Nov $( 3 1 3 \\mathrm { ~ m g ~ g ^ { - 1 } } ;$ ，while elephantgrass entries had greater stem extractives in 2X-July and 2X-Nov treatments (avg. 275 and $2 6 8 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ,respectively） than 1X",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/81b85966c245faaba0f7e8f43eed38cc4f7fb57908dd0d1c9f2718c8238b8f75.jpg",
+        "table_caption": [
+            "Table 1 Effect of grass entry and harvest management interaction on extractives in leaf $( P = 0 . 0 4 4 )$ ，stem $( P < 0 . 0 0 1 )$ ，and total above-ground biomass $( P < 0 . 0 0 1 ^ { \\cdot }$ .Dataaremeansacross fourreplicatesand2years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [
+            "\\*Harvest management treatments were harvested twice per year in July and November (2X-July and 2X-Nov),once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Harvest management means within an entry not followed by the same lower case letterare different $( P < 0 . 0 5 )$ 1： \\*Entry means within a harvest management not followed by the same upper case letter are different $( P < 0 . 0 5 )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">Entry</td><td colspan=\"4\">Harvest management*</td></tr><tr><td>2X-July</td><td>2X-Nov</td><td>1X-Nov</td><td>1X-Dec</td></tr><tr><td colspan=\"4\">mg extractives g-1 dry matter</td></tr><tr><td colspan=\"4\">Leaf</td></tr><tr><td>L 79-1002</td><td>199 aB</td><td>196 aB</td><td>164 bB</td><td>173 bC</td></tr><tr><td>Merkeron</td><td>221aA</td><td>226aA</td><td>194bA</td><td>187bB</td></tr><tr><td>UF1</td><td>216 aA</td><td>225aA</td><td>197bA</td><td>201bA</td></tr><tr><td>SE</td><td colspan=\"4\">4.0</td></tr><tr><td>Stem</td><td></td><td></td><td></td><td></td></tr><tr><td>L 79-1002</td><td>302 bcA</td><td>289 cA</td><td>313bA</td><td>338aA</td></tr><tr><td>Merkeron</td><td>265aC</td><td>262aC</td><td>250 abC</td><td>241bC</td></tr><tr><td>UF1</td><td>285aB</td><td>274 abB</td><td>262bB</td><td>263bB</td></tr><tr><td colspan=\"5\">SE 7.9 Total</td></tr><tr><td>L 79-1002</td><td>267bA</td><td>251cA</td><td>269 bA</td><td>289 aA</td></tr><tr><td>Merkeron</td><td>251aB</td><td>248abA</td><td>234 bcB</td><td>229 cC</td></tr><tr><td>UF1</td><td>262aA</td><td>256abA</td><td>244 bB</td><td>254 abB</td></tr><tr><td>SE</td><td>6.0</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nov and 1X-Dec (avg. 256 and $2 5 2 ~ \\mathrm { m g ~ g ^ { - 1 } } .$ ，respectively).In 1X-Dec,L 79-1002 showed the greatest stem extractive concentration followed by UF1 $( 2 6 3 ~ \\mathrm { m g ~ g ^ { - 1 } } )$ （204号 and then Merkeron $( 2 4 1 ~ \\mathrm { m g ~ g ^ { - 1 } } ,$ ). There also was a harvest management $\\mathbf { \\boldsymbol { x } }$ entry interaction $( P < 0 . 0 0 1 ^ { \\cdot }$ ）for extractive concentration in total aboveground biomass. There were no differences among entries within the 2X-Nov harvest, but L 79-1002 had greater extractive concentration than Merkeron for all other harvest treatments and greater than UF1 in both 1X-Nov and 1X-Dec. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Total soluble sugars in leaf tissue extractives showed a harvest management $\\times$ entry interaction $( P = 0 . 0 4 4 )$ （204号 because there were no differences among entries within the 2X-July management,but differences among entries occurred for other harvest managements. One of the elephantgrasses always had the greatest concentration, except for 2X-July，when there were no differences among entries (Table 2).In the stem,a harvest management $\\times$ entry interaction occurred $( P < 0 . 0 0 1 )$ ）fortotal soluble sugar concentrations (Table 2).For all three entries,2X-July total soluble sugar concentration was \\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per yearin November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Harvest management means within an entry not followed by the same lower case letter are different $( P < 0 . 0 5 )$ -： Entry means within a harvest management not followed by the same upper case letter are different $( P < 0 . 0 5 ) \\$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f766de33ae46fbb5a33ca440cb31db277c6251537607c603ade9981dba785be.jpg",
+        "table_caption": [
+            "Table2 Effect of grass entry and harvest management interaction on total soluble sugars concentration in leaf $( P = 0 . 0 4 4 ,$ ） stem $( P < 0 . 0 0 1 ^ { \\cdot }$ ),and total above-ground biomass $( P < 0 . 0 0 1 )$ ） Data are means across four replicates and 2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">Entry</td><td colspan=\"3\">Harvest management*</td></tr><tr><td>2X-July</td><td>2X-Nov 1X-Nov</td><td>1X-Dec</td></tr><tr><td colspan=\"3\">mg total soluble sugars g-1 dry matter</td></tr><tr><td colspan=\"4\">Leaf</td></tr><tr><td>L 79-1002</td><td>23bA</td><td>32 aB</td><td>14 cB 22 bB</td></tr><tr><td>Merkeron</td><td>26bA</td><td>40 aA</td><td>24 bA 22 bB</td></tr><tr><td>UF1</td><td>26bA 35aAB</td><td>29 abA</td><td>33abA</td></tr><tr><td>SE</td><td colspan=\"3\">2.9</td></tr><tr><td colspan=\"4\">Stem</td></tr><tr><td>L 79-1002</td><td>152cA</td><td>165cA</td><td>228bA 280aA</td></tr><tr><td>Merkeron</td><td>97bB 134 aB</td><td>138 aC</td><td>142 aC</td></tr><tr><td>UF1</td><td>138bA 147bB</td><td>161bB</td><td>189aB</td></tr><tr><td>SE</td><td colspan=\"3\">11.2</td></tr><tr><td colspan=\"4\">Total</td></tr><tr><td>L 79-1002</td><td>109 cA</td><td>110cA 96 bB</td><td>163bA 205aA</td></tr><tr><td>Merkeron</td><td>74 cB</td><td>106 abC</td><td>116 aC</td></tr><tr><td>UF1</td><td>102 cA 106 cAB</td><td>126bB</td><td>167 aB</td></tr><tr><td>SE</td><td>6.9</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "less than 1X-Dec.The magnitude of this difference varied among entries( $8 4 \\%$ increase in L 79-1002, $5 1 \\%$ in Merkeron,and $3 6 \\%$ in UF1,respectively).Across treatments,total soluble sugars in the leaves were several times lower than that in the stem (avg. 27 vs. $1 6 4 ~ \\mathrm { m g }$ soluble sugars $\\mathrm { g } ^ { - 1 }$ ).In total aboveground biomass,there was a harvest management $\\mathbf { \\boldsymbol { x } }$ entry interaction for soluble sugars (Table 2, $P < 0 . 0 0 1$ ).Because the concentration of leaf soluble sugar was very small and because leaves composed a small percentage of harvested bio mass,particularly for 1X-Nov and 1X-Dec,total aboveground biomass soluble sugar concentrations generally followed the same pattern as stem. Concentration of total soluble sugars varied mostly among entries for 1X vs. 2Xharvesttreatments.Interestingly， among elephantgrass entries,UF1 showed $4 4 \\%$ greater soluble sugar concentration in total aboveground biomass compared with Merkeron. Further investigation of UF1 soluble sugar concentration is needed to determine the specific sugars present. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Structural hexose and pentose ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the leaves， structural hexose concentration was affectedbyharvestmanagementand entry $( P < 0 . 0 0 1$ for both).EntryL 79-1002 showed greater hexose concentration than elephantgrass entries by $7 \\%$ (Table 3). Structural hexose concentrations were greater in 1X-Nov and 1X-Dec followed by 2X-July and then 2X-Nov. In stem, there was a harvest management $\\times$ entry interaction ${ \\mathit { \\Omega } } ^ { \\prime } P = 0 . 0 0 1$ ).Stems of elephantgrass entries had greater structural hexose concentration than those of L 79-1002 for all harvest treatments (Table 3).Structural hexose concentration in L 79-1002 was similar for 2X and 1XNov treatments,but it was least for 1X-Dec.Merkeron and UF1 had lowest structural hexose concentration in 2X-Nov,while UF1 had greater hexose concentration in 1X-Novand then1X-Dec,but forMerkeron,the1X-Nov and1X-Dec treatmentswerenotdifferent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In total aboveground biomass,harvest management $\\mathbf { \\boldsymbol { x } }$ entry interaction occurred ( $P = 0 . 0 0 1$ ).For2X-Nov,there were no differences among grass entries; however, entry L 79-1oo2 had lower structural hexose concentration than the elephantgrasses in 2X-July，1X-Nov,and 1XDec (Table 3). Comparing harvest managements within an entry,both Merkeron and UF1 had greatest hexose concentration in 1X-Nov and 1X-Dec and least in 2XNov,while energycane hexose concentration varied relatively little and was greater in 1X-Nov than in 2X-Nov and 1X-Dec. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Concentration of structural pentose in leaveswas affected by harvest management ${ \\mathit { P } } = 0 . 0 0 1$ ).The 2XJuly treatment had the lowest pentose concentration compared with other treatments，but there were no \\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). †Entry means across harvest managements not followed by the sameupper case letter are different $( P < 0 . 0 5 )$ 1： \\*Harvest management means across entries not followed by the same lower case letter are diferent $( P < 0 . 0 5 )$ 1： \\$Harvest management means within an entry not followed by the same lower case letter are different $( P < 0 . 0 5 )$ ！ TEntry means within a harvest management not followed by the same upper case letter are different $\\langle P < 0 . 0 5 \\rangle$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a96a78d34e14102b6d8d762d1f0e0cf3cfbe277c41d4438a8008d2a7fbfb46e8.jpg",
+        "table_caption": [
+            "Table 3 Effect of grass entry and harvest management interaction on structural hexose concentration in leaf $( P = 0 . 5 6 2 )$ L stem $( P = 0 . 0 0 1 ^ { \\cdot }$ ，and total above-ground biomass $( P = 0 . 0 0 1 ^ { \\cdot }$ ） Data are means across four replicates and 2 years $( n = 8 )$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"5\">Harvest management*</td></tr><tr><td colspan=\"5\">2X-July 2X-Nov</td></tr><tr><td colspan=\"5\">mg hexose g-1 dry matter</td></tr><tr><td colspan=\"5\">Leaf</td></tr><tr><td>L 79-1002</td><td>371</td><td>356</td><td>404</td><td>395</td><td>381A</td></tr><tr><td>Merkeron</td><td>346</td><td>334</td><td>370</td><td>369</td><td>355B</td></tr><tr><td>UF1</td><td>342</td><td>333</td><td>369</td><td>357</td><td>350B</td></tr><tr><td>Mean</td><td>353b‡ 5.2</td><td>341c</td><td>381a</td><td>374 a</td><td></td></tr><tr><td colspan=\"6\">SE</td></tr><tr><td colspan=\"6\">Stem L 79-1002</td></tr><tr><td></td><td>363aB</td><td>361aB</td><td>361aB</td><td>342bB</td><td></td></tr><tr><td>Merkeron</td><td>400 bA</td><td>385cA</td><td>415aA</td><td>406abA</td><td></td></tr><tr><td>UF1 SE</td><td>397bA 7.5</td><td>378cA</td><td>413aA</td><td>394bA</td><td></td></tr><tr><td colspan=\"6\">Total</td></tr><tr><td colspan=\"6\">L 79-1002</td></tr><tr><td></td><td>367abB</td><td>360bA</td><td>374 aB</td><td>357bB</td><td></td></tr><tr><td>Merkeron</td><td>382bA</td><td>365cA</td><td>403aA</td><td>399aA</td><td></td></tr><tr><td>UF1</td><td>381bA</td><td>362cA</td><td>402 aA</td><td>389bA</td><td></td></tr><tr><td>SE</td><td>6.2</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "differences among the other harvests. There was harvestmanagement $\\mathbf { \\boldsymbol { x } }$ entry interaction for stem pentose concentration ( $P = 0 . 0 0 3 ^ { \\cdot }$ .Themost pronounced difference was that $2 \\mathsf { X }$ -Nov had the greatest pentose concentration among all entries.For both 2X treatments,L79- 1002 had the greatest pentose concentration compared with the two elephantgrasses (Table 4).There were no differences among entries for the 1X-Nov harvest, while for 1X-Dec,Merkeron had greater pentose concentration than L 79-1002. In total aboveground biomass，structural pentose concentration was affected by harvest management and entry $( P = 0 . 0 0 1$ 、 $P < 0 . 0 0 1$ respectively). Entry L 79-1002 had greater pentose concentration than the elephantgrasses;however，the differences among entries were relatively small ( $\\mathrm { . 4 { - } } 5 \\ \\mathrm { m g }$ of pentose $\\mathrm { g } ^ { - 1 } .$ ). The 2X-Nov harvest management had greater pentose concentration than the other defoliation treatments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/24bfae73afbb897312b324a35eb1efdc0ec0ebda726ba1932687c06ead17c0a5.jpg",
+        "table_caption": [
+            "Table 4 Effect of grass entry and harvest management interaction on structural pentose concentration in leaf $( P = 0 . 9 7 7 )$ 1 stem $( P = 0 . 0 0 3 )$ ，and total above-ground biomass $( P = 0 . 1 3 9 )$ _： Data are means across four replicates and 2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">Harvest management*</td></tr><tr><td></td><td colspan=\"5\">2X-July 2X-Nov1X-Nov</td></tr><tr><td>Entry</td><td>mg pentose g-1 dry matter</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Leaf</td></tr><tr><td>L 79-1002</td><td>252</td><td>266</td><td>273</td><td>272</td><td>266A</td></tr><tr><td>Merkeron</td><td>251</td><td>266</td><td>271</td><td>272</td><td>265A</td></tr><tr><td>UF1</td><td>254</td><td>273</td><td>279</td><td>274</td><td>270A</td></tr><tr><td>Mean</td><td>252b†</td><td>268a</td><td>274 a</td><td>273 a</td><td></td></tr><tr><td>SE</td><td>4.0</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Stem</td></tr><tr><td>L 79-1002</td><td>217bAs</td><td>244 aA</td><td>209 bcA</td><td>202cB</td><td></td></tr><tr><td>Merkeron</td><td>206bB</td><td>233aB</td><td>209bA</td><td>213bA</td><td></td></tr><tr><td>UF1</td><td>206 bB</td><td>230 aB</td><td>209 bA</td><td>209 bAB</td><td></td></tr><tr><td>SE</td><td>3.1</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Total</td></tr><tr><td>L 79-1002</td><td>229</td><td>253</td><td>228</td><td>222</td><td>233A</td></tr><tr><td>Merkeron</td><td>221</td><td>246</td><td>225</td><td>225</td><td>229B</td></tr><tr><td>UF1</td><td>222</td><td>246</td><td>228</td><td>218</td><td>228B</td></tr><tr><td>Mean</td><td>224 b‡</td><td>248a</td><td>227b</td><td>222 b</td><td></td></tr><tr><td>SE</td><td>2.9</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Harvest management means across entries not followed by the same lower case letter are different $( P < 0 . 0 5 )$ 1： \\*Harvest management means within an entry not followed by the same lower case letter are different $( P < 0 . 0 5 )$ ） \\$Entry means within a harvest management not followed by the same upper case letter are different $( P < 0 . 0 5 )$ ： Entry means across harvest managements not followed by the sameupper case letter are different $( P < 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lignin ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Leaf lignin concentration was affected by harvest management ${ ' P } = 0 . 0 0 5 { \\mathrm { ; } }$ ）and entry $( P < 0 . 0 0 1 )$ .EntryL79- 1002leaf lignin concentration was greater than in Merkeron and UF1 by $7 \\%$ (218,204,and $2 0 1 ~ \\mathrm { m g }$ lignin $\\mathrm { g } ^ { - 1 } ,$ respectively,Table 5). Single-harvest management (1X-Nov and 1X-Dec; 214 and $2 1 2 ~ \\mathrm { m g }$ lignin $\\mathrm { g } ^ { - 1 }$ respectively) had greater leaf lignin concentration than 2X harvest managements (2X-July and 2X-Nov; 204 and $2 0 2 ~ \\mathrm { m g }$ lignin $\\mathrm { g } ^ { - 1 } ,$ ,respectively). For stem lignin concentration, there was a harvest management $\\times$ entry interaction ${ \\mathit { P } } = 0 . 0 0 2 { \\mathrm { , } }$ .For all entries,1X-Nov and 1X-Dec biomass had greater stem lignin concentration than either of the 2X harvest managements (Table 5).The interaction occurred because there were no differences between Merkeron and UF1 for 1X-Nov;in contrast, within the other harvest management treatments, Merkeron had greater stem lignin concentration than UF1 which had a greater lignin concentration than L 79- 1002. In total aboveground biomass,a harvest management $\\mathbf { \\boldsymbol { x } }$ entryinteraction occurred ${ \\mathit { \\Omega } } ^ { \\prime } P = 0 . 0 0 2 { \\mathrm { , } }$ .Similarto stem lignin concentration, both the $2 \\mathsf { X }$ harvest managements generally had lesser lignin concentration compared with 1X-Nov and 1X-Dec. Merkeron generally had greater lignin concentration than energycane. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen,phosphorus,and ash ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen concentration in the leaves was affected by harvest management and entry $( P < 0 . 0 0 1$ for both). Energycane leaveshad a lower $\\Nu$ concentration $( 9 . 9 \\ \\mathrm { m g \\ g ^ { - 1 } } , \\$ ）than elephantgrass entries (average of $1 1 . 5 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ，Table 6). Leaf $\\Nu$ concentration averaged approximately $3 7 \\%$ lower for the single-harvest treat\\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Entry means across harvest managements not followed by the same upper case letter are different $( P < 0 . 0 5 )$ . \\*Harvest management means across entries not followed by the same lower case letterare different $( P < 0 . 0 5 )$ 1 \\$Harvest management means within an entry not followed by the same lower case letter are different $( P < 0 . 0 5 )$ ： TEntry means within a harvest management not followed by the same upper case letter are different $( P < 0 . 0 5 ) \\$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7feb51f939458c2defbf1a4e0af6e0940050dbddeec3b3cfef440012a83e9d9b.jpg",
+        "table_caption": [
+            "Table5 Effect of grass entry and harvest management interaction on lignin concentration in leaf ${ ' } P = 0 . 0 6 9 { ' }$ ，stem （20 $( P = 0 . 0 0 2 )$ ，and total above-ground biomass $( P = 0 . 0 0 2 ,$ .Data are means across four replicates and 2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">Harvest management*</td></tr><tr><td></td><td>2X-July 2X-Nov</td><td>1X-Nov</td><td>1X-Dec</td><td>Mean</td></tr><tr><td>Entry</td><td colspan=\"4\">mg lignin g-1 dry matter</td></tr><tr><td colspan=\"5\">Leaf</td></tr><tr><td>L 79-1002</td><td>213</td><td>213 226</td><td>221</td><td>218A</td></tr><tr><td>Merkeron</td><td>199</td><td>197 210</td><td>211</td><td>204B</td></tr><tr><td>UF1</td><td>200</td><td>197 204</td><td>202</td><td>201C</td></tr><tr><td>Mean</td><td>204b 2.8</td><td>202b 214 a</td><td>212 a</td><td></td></tr><tr><td colspan=\"5\">SE Stem</td></tr><tr><td>L 79-1002</td><td>167bC</td><td>167bC</td><td>182aB</td><td>177 aC</td></tr><tr><td>Merkeron</td><td>184 bA</td><td>182 bA</td><td>203aA</td><td>206aA</td></tr><tr><td>UF1</td><td>176 bB</td><td>174 bB</td><td>199 aA</td><td>199 aB</td></tr><tr><td>SE</td><td>3.5</td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">Total</td></tr><tr><td>L 79-1002</td><td>183cB</td><td>186 bcAB</td><td>195aB</td><td>190 abC</td></tr><tr><td>Merkeron</td><td>189bA</td><td>188bA</td><td>204aA</td><td>207aA</td></tr><tr><td>UF1</td><td>183bB</td><td>183bB</td><td>201aA</td><td>200aB</td></tr><tr><td>SE</td><td>2.9</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/22012ee69af2ad931257c27a99ca73abddb336fb1bd483762b6437af3e34e155.jpg",
+        "table_caption": [
+            "Table 6 Effect of grass entry and harvest management interaction on nitrogen concentration in leaf $( P = 0 . 3 3 4 )$ ，stem （20 $( P = 0 . 9 4 2 ) $ ，and total above-ground biomass $( P = 0 . 9 5 5 )$ .Data aremeans across four replicatesand2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [
+            "\\*Harvest management treatments were harvested twice per year in July and November (2X-July,and $2 \\mathsf { X } \\mathrm { - N o v } ) .$ ，once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Entry means across harvest managements not followed by the sameupper case letter are different $( P < 0 . 0 5 )$ -： \\*Harvest management means across entries not followed by the samelower caseletteraredifferent $( P < 0 . 0 5 ) \\$ ！ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">Harvest management*</td></tr><tr><td></td><td colspan=\"5\">2X-July 2X-Nov 1X-Nov 1X-Dec</td></tr><tr><td>Entry</td><td>mg nitrogen g-1 dry matter</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Leaf</td></tr><tr><td>L 79-1002</td><td>12.5</td><td>12.9</td><td>7.4</td><td>6.6</td><td>9.9B†</td></tr><tr><td>Merkeron</td><td>14.1</td><td>14.2</td><td>9.5</td><td>8.2</td><td>11.5 A</td></tr><tr><td>UF1</td><td>13.0</td><td>13.7</td><td>9.5</td><td>9.5</td><td>11.4 A</td></tr><tr><td>Mean</td><td>13.2 a</td><td>13.6 a</td><td>8.8b</td><td>8.1 b</td><td></td></tr><tr><td>SE</td><td>0.76</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Stem</td></tr><tr><td>L 79-1002</td><td>5.3</td><td>4.4</td><td>3.3</td><td>3.0</td><td>4.0B</td></tr><tr><td>Merkeron</td><td>7.0</td><td>5.2</td><td>4.4</td><td>3.9</td><td>5.1A</td></tr><tr><td>UF1</td><td>5.5</td><td>4.9</td><td>3.4</td><td>3.4</td><td>4.3B</td></tr><tr><td>Mean</td><td>5.9 a</td><td>4.9 b</td><td>3.7 c</td><td>3.5 c</td><td></td></tr><tr><td>SE</td><td>0.56</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Total</td></tr><tr><td>L 79-1002</td><td>7.8</td><td>7.9</td><td>4.8</td><td>4.1</td><td>6.1B</td></tr><tr><td>Merkeron</td><td>9.1</td><td>8.7</td><td>5.8</td><td>4.8</td><td>7.1A</td></tr><tr><td>UF1</td><td>7.6</td><td>8.0</td><td>4.6</td><td>4.2</td><td>6.1B</td></tr><tr><td>Mean</td><td>8.2a</td><td>8.2a</td><td>5.0 b</td><td>4.4 b</td><td></td></tr><tr><td>SE</td><td>0.58</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ments (1X-Nov and 1X-Dec) compared with the 2X treatments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In stem, $\\Nu$ concentration was affected by harvest management ${ \\mathit { \\Omega } } ^ { \\prime } P = 0 . 0 0 2 { \\mathrm { , } }$ ）and entry $( P = 0 . 0 1 1 { \\mathrm { \\Omega } }$ .Merkeron $( 5 . 1 \\ \\mathrm { m g \\ g ^ { - 1 } } .$ ）N concentration was greater than other entries $( 4 . 3 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in UF1 and $4 . 0 \\ \\mathrm { m g \\ g ^ { - 1 } }$ inL 79-1002，Table 6).The 2X-July treatment，which was harvested about 8 week after the final spring fertilizer application,had greatest N concentration,while1X-Nov and $1 x$ -Dec harvest management were lowest in N. Similar to stem N, total aboveground biomass N concentrationwasaffected by harvest management $\\cdot P < 0 . 0 0 1 )$ andentry $( P = 0 . 0 0 4 ,$ .Merkeronhad greatest $_ \\mathrm { N }$ concentration. Nitrogen concentration decreased by $3 9 \\%$ from 2X-July and $2 \\mathsf { X }$ -Nov to 1X-Nov and $4 6 \\%$ to 1X-Dec. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phosphorus concentration in leaves,stem，and total aboveground biomass showed similar trends to $_ \\mathrm { N }$ concentrations.Phosphorus concentration was affected by harvest management and entry in leaf $( P = 0 . 0 0 2$ and 0.001,respectively),stem $\\mathit { \\Omega } ^ { \\prime } P < 0 . 0 0 1$ for both),and total aboveground biomass $( P = 0 . 0 0 1$ and $< 0 . 0 0 1$ ，respectively).In both plant parts and in total biomass,Merkeron had the greatest overall $\\mathrm { \\Delta P }$ concentration (Table 7). In leaves,stem,and total plant biomass,P concentration was greater for the $2 \\mathsf { X }$ treatments compared with 1XNov and 1X-Dec.For example，in total aboveground biomass,P concentration in 2X-Nov was approximately twice as great as the single-harvest treatment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There were harvest management and entry effects on leaf ash concentration ${ \\it P } = 0 . 0 1 2$ and $< 0 . 0 0 1$ ，respectively).Entry UF1 had the greatest leaf ash concentration followed by Merkeron and then L 79-1002 (Table 8).The 1X-Nov and 1X-Dec harvested biomass had lesser ash concentration (48 and $4 4 ~ \\mathrm { m g ~ g ^ { - 1 } } .$ respectively) than 2X-July and 2X-Nov treatments $( 5 4 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for both). In stem,ash concentration was affected by harvest management $( P < 0 . 0 0 1$ ).The average of the single-harvest treatments (1X-Nov and 1X-Dec) was $4 1 \\%$ less than the average of 2X-July and 2X-Nov (Table 8). In total aboveground biomass,ash concentration was affected by harvest management and entry $( P < 0 . 0 0 1 \\$ $< 0 . 0 1 2 ,$ ：respectively).Elephantgrass entries had greater (upto $1 1 \\%$ ）ashconcentration than energycane (Table 8). Because of generally greater ash concentration in leaves than stem and leaf senescence over the season, total ash concentration in 1X-Nov and 1X-Dec was less than in either of the 2X treatments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8179eb8eab52c6fc0424666f405340de73940ce0d90c4977d576af7232b984ca.jpg",
+        "table_caption": [
+            "Table7 Effect of grass entry harvest and management interaction on phosphorus concentration in leaf $( P = 0 . 1 3 9 )$ stem $( P = 0 . 3 6 0 )$ ，and total above-ground biomass $( P = 0 . 3 4 8 )$ ： Data are means across four replicates and 2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [
+            "\\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per year in November(1X-Nov),and once per year after first freeze in December (1X-Dec). †Entry means across harvest managements not followed by the sameupper case letter are different $( P < 0 . 0 5 )$ -： ↑Harvest management means across entries not followed by the samelowercaseletteraredifferent $( P < 0 . 0 5 ) \\$ 1： "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">Harvest management*</td></tr><tr><td></td><td colspan=\"4\">2X-July 2X-Nov 1X-Nov</td></tr><tr><td>Entry</td><td>mg phosphorus g-1 dry matter</td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">Leaf</td></tr><tr><td>L 79-1002</td><td>1.40</td><td>1.94</td><td>0.72</td><td>0.57 1.16 B†</td></tr><tr><td>Merkeron</td><td>1.95</td><td>2.13</td><td>1.14 1.03</td><td>1.56 A</td></tr><tr><td>UF1</td><td>1.32</td><td>1.51</td><td>0.88 1.00</td><td>1.17 B</td></tr><tr><td>Mean</td><td>1.56 a</td><td>1.86 a</td><td>0.91 b 0.87 b</td><td></td></tr><tr><td>SE</td><td>0.18</td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">Stem</td></tr><tr><td>L 79-1002</td><td>1.30</td><td>1.44</td><td>0.70 0.63 1.21</td><td>1.02 B</td></tr><tr><td>Merkeron</td><td>1.64</td><td>1.99</td><td>1.09</td><td>1.48 A</td></tr><tr><td>UF1</td><td>1.07</td><td>1.56</td><td>0.78 0.94</td><td>1.09 B</td></tr><tr><td>Mean</td><td>1.34 b</td><td>1.66 a</td><td>0.89 c 0.89 c</td><td></td></tr><tr><td>SE Total</td><td>0.14</td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">L 79-1002</td></tr><tr><td></td><td>1.31</td><td>1.66</td><td>0.73 1.19</td><td>1.08 B</td></tr><tr><td>Merkeron</td><td>1.71</td><td>2.04</td><td>1.07</td><td>1.50 A</td></tr><tr><td>UF1</td><td>1.13</td><td>1.53</td><td>0.80 0.95</td><td>1.10 B</td></tr><tr><td>Mean</td><td>1.38 b</td><td>1.74 a</td><td>0.90 c</td><td>0.88 c</td></tr><tr><td>SE</td><td>0.15</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b2e7c00415c016ca402d6cc283c3bcb6d3b8f942070c0431da1fa2a13f6d412.jpg",
+        "table_caption": [
+            "Table 8 Effect of grass entry and harvest management interaction on ash concentration in leaf $\\langle P = 0 . 3 5 9 \\rangle$ ，stem （24号 $( P = 0 . 2 5 7 )$ ，and total above-ground biomass $( P = 0 . 8 5 3 )$ .Data aremeansacross four replicatesand2 years $( n = 8 )$ 0 "
+        ],
+        "table_footnote": [
+            "\\*Harvest management treatments were harvested twice per year in July and November (2X-July,and 2X-Nov),once per year in November (1X-Nov),and once per year after first freeze in December (1X-Dec). +Entry means across harvest managements not followed by the sameupper case letter are different $( P < 0 . 0 5 )$ ： \\*Harvest management means across entries not followed by the same lowercase letterare different $( P < 0 . 0 5 )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">Harvest management*</td></tr><tr><td></td><td colspan=\"5\">2X-July 2X-Nov 1X-Nov 1X-Dec</td></tr><tr><td>Entry</td><td>mg ash g-1 dry matter</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Leaf</td></tr><tr><td>L 79-1002</td><td>44</td><td>45</td><td>33</td><td>32</td><td>38 C+</td></tr><tr><td>Merkeron</td><td>59</td><td>57</td><td>50</td><td>43</td><td>52B</td></tr><tr><td>UF1</td><td>60</td><td>60</td><td>60</td><td>56</td><td>59A</td></tr><tr><td>Mean</td><td>54a</td><td>54ab</td><td>48bc</td><td>44 c</td><td></td></tr><tr><td>SE</td><td>3.9</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Stem</td></tr><tr><td>L 79-1002</td><td>44</td><td>43</td><td>28</td><td>22</td><td>34A</td></tr><tr><td>Merkeron</td><td>40</td><td>43</td><td>26</td><td>25</td><td>34A</td></tr><tr><td>UF1</td><td>39</td><td>46</td><td>25</td><td>27</td><td>34A</td></tr><tr><td>Mean</td><td>41a</td><td>44 a</td><td>26b</td><td>24 b</td><td></td></tr><tr><td>SE</td><td>2.5</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Total</td></tr><tr><td>L 79-1002</td><td>44</td><td>44</td><td>29</td><td>24</td><td>35B</td></tr><tr><td>Merkeron</td><td>46</td><td>48</td><td>32</td><td>29</td><td>39A</td></tr><tr><td>UF1</td><td>45</td><td>51</td><td>32</td><td>31</td><td>40A</td></tr><tr><td>Mean</td><td>45a</td><td>48a</td><td>31b</td><td>28b</td><td></td></tr><tr><td>SE</td><td>2.4</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Extractives and total soluble sugars ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Elephantgrass and energycane extractive concentration responses to harvestmanagement were different.Elepha ntgrass biomass had greatest extractives concentrations when harvested twice per year，while energycane extractives were greatest when biomass was harvested once per year. This response was due to accumulation of extractives in energycane stems late in the growing season. Because of the preponderance of stem in harvested biomass，especially when harvested once per year，the effects of leaf extractives concentration were small.There are very limited data available for extractives concentration in perennial C4 grasses.An elephantgrass study in Vietnam reported $1 8 2 ~ \\mathrm { m g ~ g ^ { - 1 } }$ of extractives measured using a hot water extraction (Hoa et al.,20o8).As observed in the present study,Fedenko et al.(2o13) found that total extractives concentration was greater for energycane than elephantgrass when harvested once per year in fall prior to a freeze event (avg. 234 vs. $1 8 8 ~ \\mathrm { m g ~ g ^ { - 1 } } .$ ） due to sugar accumulation in energycane.In Colorado,extractives concentration varied among entries including $1 6 4 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for the $C 4$ perennial switchgrass, $2 5 4 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for the C3 perennial grass tall fescue (Festuca arundinacea L.), and $1 7 2 ~ \\mathrm { m g ~ g ^ { - 1 } }$ formaize stover (Zea mayL.; Thammasouk et al.,1997). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Stem was the major contributor of soluble sugars to total aboveground biomass for both grass species in the present study.Although differences existed in soluble sugar concentration in leaves, they contributed marginally to differences on a total harvested biomass basis because leaf proportion was low and leaf abscission occurred late in the growing season (Na et al., 2015b). Single-harvest (1X-Nov and Dec) energycane showed greatest soluble sugar concentration in total harvested biomass because of greater accumulation in the stem, mostly of sucrose.Although energycane stem has a relatively low sugar concentration compared with sugarcane (Saccharum spp. hybrid)，it shows measurable levels of soluble sugar accumulation late in the season (Bischoff et al.,2008;Kim & Day,2011;Tew et al.,2011). Unlike structural carbohydrates,non-cell wall carbohy drates are directly fermentable;however,they are susceptible to microbial degradation during storage (Dien et al.，20o6).Moreover，by degradation of free sugars, cellulosic fermentation inhibitors including furfural can beproduced (Tran & Chambers，1986;Zhang et al., 2011).If they cannot be used for conversion to biofuel, they will decrease feedstock quality as they reduce concentration of structural carbohydrates proportionally. In the previous research,L 79-1002 had $101 \\%$ (first year) and $45 \\%$ (second year） greater soluble sugar concentration than Merkeron (Fedenko et al.，2013)，a similar result to the present study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Structural hexose and pentose ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For lignocellulosic biomass,ethanol fermentation efficiency is determined by the quality of structural carbohydrates (Lu & Mosier，2008)，so it is critical to investigate tissue structural carbohydrates.Energycane had greater leaf structural hexose concentration than elephantgrass entries；however，elephantgrass entries showed greater hexose concentration in both stem and total aboveground biomass than energycane.This was due at least in part to an increase in total soluble sugar over time in energycane stem tissue,which resulted in a dilution of the concentration of structural components. A large amount of glucose from cell wall structural components is advantageous for ethanol production because glucose can be converted by most organisms more eficiently to ethanol than most other sugars, especially pentose sugars (Lu & Mosier，20o8).Similar to values observed in the present study,structural hexose concentrations of $3 4 7 ~ \\mathrm { m g ~ g ^ { - 1 } }$ have been reported for mixtures of $C 4$ grasses in Minnesota，USA (Gillitzer et al.，2013). Chemical composition of six-carbon structural sugars was $3 0 0 { - } 3 3 7 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for switchgrass $\\mathrm { \\langle X u }$ et al.,2011). In the prior work at the location of the present study, structural glucose concentration in elephantgrass and energycane was 374 vs. $3 6 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in the first year and 448 vs. $4 3 2 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in the second year, respectively (Fedenko et al.，2013).Late harvests and increasing maturity have been observed to increase glucose and nonglucose structural sugars in reed canarygrass (Phalaris arundinacea L.) $\\left( 2 3 3 - 2 8 6 ~ \\mathrm { m g ~ g ^ { - 1 } } \\right) $ ）and switchgrass $( 2 9 4 - 3 4 0 ~ \\mathrm { m g ~ g ^ { - 1 } } ,$ ）(Dien et al.，2006)．This corresponds to what was observed for elephantgrass, but not for energycane,in the present study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unlike structural hexose results,energycane showed the greatest pentose concentration in total aboveground biomass.As pentose concentrations increased, structural hexose concentrations decreased in the 2X-Nov harvest fortotalbiomass.Asindicated earlier,becauseof the fermentation ineficiency of pentose by most microorganisms，it is less favorable than hexose (Lu & Mosier, 2008).In switchgrass,the concentration of five-carbon structural sugars ranged from 183 to $1 9 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ? $\\mathrm { \\Delta } \\mathrm { X u }$ et al.，2011). Structural xylose concentration in seasonlong growth of elephantgrass in Florida was similar to that of energycane (135 and $1 4 5 ~ \\mathrm { m g ~ g ^ { - 1 } } ,$ ，respectively) (Fedenko,2011).For both reed canarygrass and switchgrass， structural five-carbon sugars increased with increasing maturity $\\left( 1 4 7 - 1 9 1 \\ \\mathrm { m g \\ g ^ { - 1 } } \\right.$ in reed canarygrass; $2 1 0 { - } 2 5 3 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in switchgrass) (Dien et al., 2006). This trend was not observed in the present study.Pentose concentrations of 198 and $1 8 7 ~ \\mathrm { m g ~ g ^ { - 1 } }$ from structural carbohydrates have been reported foramixture of C4 grasses and for a mixture of C3 grasses, respectively, inMinnesota (Gillitzer et al.,2013).Although there were statistical differences in pentose concentrations in the present study，unlike hexose concentrations，pentose was relatively constant across harvest managements and entries (avg. of $2 4 8 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ）except for2X-Nov，for which the range was $2 1 8 { - } 2 2 9 ~ \\mathrm { m g ~ g } ^ { - 1 }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Lignin ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Merkeron consistently exhibited the greatest total lignin concentration，and single-harvest per year treatments (1X-Nov and $1 X { \\mathrm { - D e c } }$ ）showed greater lignin concentration in total aboveground biomass than 2X treatments. Totallignin concentration in the present study is similar to $2 0 4 { - } 2 9 1 \\ \\mathrm { m g \\ g ^ { - 1 } }$ reported in a previous study for fullseasongrowth ofelephantgrassand energycane (Fedenko et al.,2013).The results of both studies agree that elephantgrass generally has greater lignin concentration than energycane. The reported lignin concentrations are also similar to those for three switchgrasses, which ranged from 214 to $2 3 0 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for full-season growth (Xu et al.,2011).Prior research withalfalfa (Medicago sativa L.）and pine (Pinus sp.）has shown that greater lignin concentrations decrease pretreatment efficiency relative to lesser concentrations and that even slight changes are sufficient to markedly affect conversion efficiency (Dixon & Chen,2oo7;Studer et al., 2011).Therefore,greater lignin concentrations in elephantgrass maynegatively affect pretreatment and biofuelproduction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen,phosphorus,and ash ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In general,2X treatmentsshowed greater $\\mathrm { \\Delta N }$ concentration compared with 1X treatments.Merkeron had the greatest $\\Nu$ concentration in total aboveground biomass. Similar to responses in the present study，harvest frequency of reed canarygrass in Iowa affected N concentration. When biomass was harvested twice per year (June and fall), $\\Nu$ concentration was 13.4 (June) and $8 . 8 ~ \\mathrm { m g ~ g ^ { - 1 } }$ (fall) compared with $8 . 3 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for a single harvest in fall (Tahir et al.，2011). In Japan, elephantgrass that was harvested less frequently had lower $_ \\mathrm { N }$ concentrations in both leaves and stem than thatharvested more frequently (Hsu et al.,1990).In the same study，the difference between leaf and stem N concentrationincreasedasharvestintervalwas extended.When plants reached a height of ${ 1 \\ \\mathrm { m } } ,$ N concentrations were $1 0 . 8 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in leaf vs. $5 . 0 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in stem,and when plants were $2 \\mathrm { ~ m ~ }$ tall,N concentrations were $8 . 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in leaf vs. $2 . 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in stem. Switchgrass biomass N concentration decreased over the season (Madakadze et al.,1999);however,N concentration wasrelativelyconstant after September at about $5 ~ \\mathrm { m g ~ g ^ { - 1 } }$ . Miscanthus N concentration decreased until October and then remained constant for the rest of the season (Heaton et al.,20o9). Similarly,delaying harvest from 1X-Nov to 1X-Dec in the present study did not result in a significant decrease in either leaf or stem N, but 1X-Dec N concentration of total aboveground biomass was slightly less than 1X-Nov because of leaf senescence and the resultant decrease in leaf $:$ stem ratio in 1X-Dec (Na et al., 2015a). When grown with no fertilizer on loamy sands in Georgia，Merkeron elephantgrass had greater overall $_ \\mathrm { N }$ concentration than L 79-1002 (3.8 vs. $2 . 7 \\ \\mathrm { m g \\ g ^ { - 1 } } ,$ ）(Knoll et al.，2012)，similar to the pattern of response in the present study，but Singh et al.(2015) reported no difference in total aboveground biomass N concentration between L 79-1o02 and MerkeronacrossthreesitesinFlorida. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Similar to $\\mathrm { \\Delta N }$ concentration，Merkeron showed the greatest tissue $\\mathrm { ~ P ~ } { }$ concentration.The 1X treatments had lesser $\\mathrm { \\Delta P }$ concentrations than either of the 2X treatments. Similar results were found for reed canarygrass in Iowa, where $\\mathrm { \\Delta P }$ concentration was greater for two harvests per year than fora single harvest (Tahir et al.,2011).Switchgrass $\\mathrm { ~ P ~ } { }$ concentration was also affected by harvest management,and decreased slightly from the first to second harvest of a two-harvest per year treatment,and was lowest in the fall harvest of a single-harvest per year treatment (1.3,1.1,and $0 . 8 ~ \\mathrm { m g ~ g ^ { - 1 } } .$ ,respectively） (Guretzky et al.,2011). Giant reed and switchgrass $\\mathrm { ~ P ~ } { }$ concentrations decreased from October to Decemberin Oklahoma (Kering et al.，2012). In switchgrass,leaf N was much greater compared with stem，but leaf and stem $\\mathrm { ~ P ~ } { }$ concentrations varied only slightly (Shahandeh et al., 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the present study,harvest management affected ash concentration. For the 1X treatment，total aboveground elephantgrass biomass ash concentration was lower than that for either harvestof the 2X treatment. The results of the present study are similar to those reported previously for MerkeronandL 79-1002.When 4-yeardata wereaveraged,Merkeron had greater ash concentration than L 79-1002 when grown with no fertilizer on loamy sands of the coastal plain of Georgia, USA (45.9 vs. $3 4 . 4 ~ \\mathrm { m g ~ g ^ { - 1 } }$ ，respectively） (Knoll et al., 2012). Reed canarygrass responded differently than elephantgrassandenergycane， asash concentration increased slightly over theseason(96，106，and $1 0 7 ~ \\mathrm { m g ~ g ^ { - 1 } }$ for two harvests per year in June and October,and for one harvest in October,respectively） (Tahir et al.,2011). In switchgrass,ash concentration in Iowa peaked in July $( 7 1 ~ \\mathrm { m g ~ g ^ { - 1 } } ,$ and decreased until fall after which it remained relatively constant between 43 and $4 5 ~ \\mathrm { m g ~ g ^ { - 1 } }$ (Wilson et al.,2013).Limited data for plant part ash concentration indicate that leaf was found to have greater ash than stem (Summers et al.，2001; Bakker & Elbersen,2005). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, harvest frequency (2X vs. single) significantly affects compositional quality of perennial grasses. A single harvest in fall appears to maximize the concentration of cellulose in total biomass,and delaying harvest from 1X-Nov to 1X-Dec had little impact on most response factors.The exception to thiswas for extractives and soluble sugars in energycane, which increased sig nificantly from 1X-Nov to 1X-Dec harvest.A relatively greater concentration of soluble sugars in energycane reduced the concentrations of the structural components. A major factor affecting concentration differences due to harvest management was differences in leaf:stem ratio because leaves generally had greater N, ${ \\mathrm { ~ P } } ,$ and ash than stem.Laterharvests were associated with lesserleaf percentage in total biomass,which caused N,P,and ash to decrease in 1X-Nov and 1X-Dec relative to 2X treatments. Total aboveground biomass N concentration in Merkeron decreased to a greater extent than the other entries because of greater leaf abscission (Na et al.,2015b).The 1X-Nov and 1X-Dec treatments of all entries had lesser concentrations of N and ash,components which can negatively affect some conversion processes,but they had slightly greater lignin concentration than 2X harvests. On the basis of this study results,a single harvest in fall will result in preferred biomass compositional properties, with maximum cellulose concentration of both elephantgrass and energycane. However，unlike energycane, delaying a single harvest of elephantgrass to after a freeze will not compromise cellulose concentration. This study provides needed information on nutrient, carbohydrate,and lignin concentrations and carbohydrate composition in elephantgrass and energycane that will guide decision making regarding biomass harvest frequency and timing for perennial grasses grown for biomass in the southeastern USA. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We gratefully acknowledge the assistance of Kenneth Woodard, Dwight Thomas,Miguel Castillo,Kim Mullenix, Nick Krueger, andMarcelo Wallau for theirhelp in data collection and field management. This study is part of the Ph.D.dissertation of the seniorauthorand was directed byDr.LynnE.Sollenberger at theUniversity ofFlorida.This researchis funded by theFlorida Department of Agriculture and Consumer Services. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AdlerPR,Sanderson MA,Boateng AA,WeimerPJ,Jung HJ (2006) Biomass yield and biofuel quality of switchgrass harvested in fall or spring.Agronomy Journal, 98, 1518–1525.   \nAkin DE (20o7) Grass lignocellulose: strategies to overcome recalcitrance.Applied Biochemistry and Biotechnology,137,3-15.   \nBakker RR,Elbersen HW (2oo5) Managing ash content and quality in herbaceous biomass:an analysis from plant to product. In:14th European Biomass Conference and Exhibition (ed. Sjunnesson,L. et al.),pp.210-213.ETA-Renewable Energies, Paris, France.   \nBischoff KP,Gravois KA,Reagan TE,Hoy JW,Kimbeng CA,Laborde CM,Hawkins GL (2008) Registration of L 79-1002' Sugarcane. Journal of Plant Registrations,2, 211-217.   \nBurton GW (1989)Registration of Merkeron' napiergrass. Crop Science,29,1327-1327.   \nCasler MD, Boe AR (2003) Cultivar X environment interactions in switchgrass.Crop Science,43,2226-2233.   \nChaparro CJ,Sollenberger LE (1997) Nutritive value of clipped Mott' elephantgrass herbage. Agronomy Journal,89,789-793.   \nDien BS,Jung HJ, Vogel KP et al.(2006) Chemical composition and response to dilute-acid pretreatment and enzymatic saccharification of alfalfa,reed canarygrass,and switchgrass.Biomass and Bioenergy,30,880-891.   \nDixon RA, Chen F (2Oo7) Lignin modification improves fermentable sugar yields for biofuel production.Nature Biotechnology,25,759-761.   \nFedenko JR (2011) Biomass yield and composition of potential bioenergy feedstocks. Ph.D dissertation. University of Florida,Florida, USA.   \nFedenko JR,Erickson JE,Woodard KR et al. (2013) Biomass production and composition of perennial grasses grown for bioenergy in a subtropical climate across Florida, USA.Bioenergy Research,6,082-1093.   \nGallaher RN,Weldon CO,Futral JG (1975) Analuminum block digester for plant and soil analysis. Soil Science Society of America Journal,39,803-806.   \nGillitzer PA,Wyse DL, Sheaffer CC, Taff SJ,Lehman CC (2013) Biomass production potentialof grassands in theoaksavannaregionof Minnesota USA.Bioenergy Research, 6,131-141.   \nGuretzky JA, Biermacher JT,Cook BJ,Kering MK,Mosali J(2011) Switchgrass for forage and bioenergy: harvest and nitrogen rate efects on biomass yields and nutrient composition.Plant and Soil,339,69-81.   \nHambleton LG (1977) Semiautomated method for simultaneous determination of phosphorus,calcium and crude protein in animal feds. Journal-Association of Official Analytical Chemists,60,845-852.   \nHanna WW,Chaparro CJ,Mathews BW, Burns JC, Sollnberger LE,Carpenter JR (2004)Perennial Pennisetums.In: Warm-Season (C4) Grasses (eds Moser LE, Burson BL, Sollenberger LE),pp.503-535.ASA-CSSA-SSSA,Madison, WI.   \nHeaton EA,Dohleman FG,Long SP (2009) Seasonal nitrogen dynamics of Miscanthus $\\times$ giganteus and Panicum virgatum.Global Change Biology-Bioenergy,1,297-307.   \nHoa DT,Man TD,Hau NG (2oo8)Pretreatment of lignocellulosic biomass for enzymatic hydrolysis.ASEAN Journal on Science and Technology for Development,25, 341-346.   \nHsuF,Hong K,LeeM,LeeK(1990) Effectsof cutting height on forage yield,forage and silage quality of napier grasses (writen in Chinese with abstract in English). Journal of theAgricultural Associationofhina,51,77-88.   \nJakob K, Zhou F,Paterson A (2009) Genetic improvement of C4 grasses as celulosic biofuel feedstocks.In Vitro Cellular& Developmental Biology,45,291-305.   \nJung JH,Vermerris W,Gallo M,Fedenko JR,Erickson JE,AltpeterF (2013) RNA interference suppresson of lignin biosynthesis increases fermentable sugar yields for biofuel production from field-grown sugarcane.Plant Biotechnology Journal,11, 709-716.   \nKering MK,Butler TJ, Biermacher JT,Guretzky JA (2012) Biomass yield and nutrient removalratesof perennial grasses under nitrogen fertlization.Bioenergy Research, 5, 61-70.   \nKim M, Day D (2011) Composition of sugar cane, energy cane,and sweet sorghum suitable for ethanol productionatLouisiana sugar mils.Journal of Industrial Microbiologyand Biotechnology,38,-07.   \nKnoll JE,Anderson WF,Strickland TC,Hubbard RK,Malik R (2012) Low-input production of biomass from perennial grasses in the coastal plain of Georgia, USA. Bioenergy Research,5,206-214.   \nLeón RG,Gilbert RA,Korndorfer PH,Comstock JC (2010) Selection criteria and performance of energycane clones (Saccharum spp. $\\times \\ : s$ spontaneum) for biomass production under tropical and sub-tropical conditions. Ceiba, 51,11-16.   \nLewandowski I, Heinz A (2oo3) Delayed harvest of miscanthus-influences on biomass quantity and quality and environmental impacts of energy production. European JournalofAgronomy,19,45-63.   \nLuY,MosierNS (20o8)Currenttechnologies forfuelethanolproduction from lignocellulosic plant biomass.In: Genetic Improvement of Bioenergy Crops.(ed. Vermerris W),pp.161-182. Springer, New York.   \nMadakadze IC, Stewart K,Peterson PR, Coulman BE,Smith DL (1999) Switchgrass biomass and chemical composition for biofuel in eastern Canada.Agronomy Journal, 91, 696-701.   \nMcKendry P (2002) Energy production from biomass (part 1):overview of biomass. Bioresource Technology,83,7-46.   \nMylavarapu R,Wright D,Kidder G,Chambliss C(2009)UF/IFAS StandardFertilization Recommendations for Agronomic Crops.Florida Cooperative Extension Service, UF/IFAS,Florida,USA.   \nNa C,Sollenberger LE,Erickson JE et al.(2015a) Management of perennial warmseason bioenergy grasss.I. Seasonal diferences in elephantgrass and energycane morphological characteristics afect responses to harvest frequency and timing. Bioenergy Research,8,618-626.   \nNa C,Sollenberger LE,Erickson JE,Woodard KR,Vendramini JM,Silveira M (2015b)Management of perennial warm-season bioenergy grasses.I. Biomass harvested, nutrient removal,and persistence responsesof elephantgrass and energycane to harvest frequency and timing.Bioenergy Research,8,581-589.   \nPerez J,Munoz-Dorado J,de la Rubia T,Martinez J (20o2) Biodegradation and biological treatmentsfellulose,mielloedliinteatioal cobog 5, 53-63.   \nSAS Institute (2008) SAS Online DOC 9.2.SAS Inst., Cary,NC.   \nShahandeh H, Chou CY,Hons FM,Hussey MA (2011) Nutrient partitioning and carbon and nitrogen mineralization of switchgrass plant parts. Communications in Soil Science and Plant Analysis,42,599-615.   \nSingh MP,Erickson JE, Sollnberger LE,Woodard KR,Vendramini JM, Gilbert RA (2015)Mineral composition and removal of six perennial grasses grown for bioenergy. Agronomy Journal,07,466-474.   \nSluiter A,Ruiz R,Scarlata C,SluiterJ,Templeton D (2008a) Determination of xtractives in Biomass; Laboratory Analytical Procedure (LAP).National Renewable Energy Laboratory, Colorado, USA.   \nSluiter A,Hames B,Ruiz R, Scarlata C,Sluiter J, Templeton D,Crocker D (2008b) Determination of Structural CarbohydratesandLignin in Biomass;LaboratoryAnalytical Procedure (LAP).National Renewable Energy Laboratory, Colorado, USA.   \nSmith R, Slater FM (2011) Mobilization of minerals and moisture loss during senescence of the energy crops Miscanthus $\\times$ giganteus,ArundodonaxandPhalarisaun dinacea inWales,UK.Global ChangeBiology-Bioenergy,3,148-157.   \nSollenberger LE,Woodard KR,Vendramini JM et al.(2014) Invasive populations of elephantgrass differ in morphological and growth characteristics from clones selected for biomass production. Bioenergy Research,7,1382-1391.   \nStuder MH,Demartini JD, Davis MF et al. (2011) Lignin content in natural Populus variantsafects sugar release.Procedings of the National Academyof Sciences,108, 6300-6305.   \nSummers ME,Jenkins BM,Hyde PR,Williams JF,Scardacci SC (2001) Properties of Rice Straw as Influencedby Variety,Seasonand Location.American SocietyofAgricultural Engineers Annual International Meeting, California, USA.   \nTahir MH,Casler MD,Moore KJ, Brummer EC (2011) Biomass yield and quality of reed canarygrass under five harvest management systems for bioenergy production. Bioenergy Research,4,111-119.   \nTew TL,Miller JD,Dufrene EO et al. (2011) Registration of HoCP 91-552'sugarcane. Journal ofPlant Registrations,5,181-190.   \nThammasouk K,Tandjo D,Penner MH (1997) Influence of extractives on the analysis of herbaceous biomass. Journal of Agricultural and Food Chemistry，45, 437-443.   \nTran A,Chambers R (1986) Lignin and extractives derived inhibitors in the 2,3-butanediol fermentation of mannose-rich prehydrolysates.Applied Microbiology and Biotechnology,23,191-197.   \nVermerris W (20o8) Composition and biosynthesis of lignocellulosic biomass.In: Genetic Improvementof Bioenergy Crops (ed.Vermerrs W),pp.89-142.Springer New York, USA.   \nWaramit N, Moore KJ,Heggenstaller AH (2011) Composition of native warm-season grasses for bioenergy production in response to nitrogen fertilization rate and harvest date. Agronomy Journal,103,655-662.   \nWilson DM, Dalluge DL,Rover M, Heaton EA, Brown RC (2013)Crop management impacts biofuel quality: influence of switchgrass harvest time on yield,nitrogen and ash of fast pyrolysis products.Bioenergy Research,6,103-13.   \nWoodard KR,PrineGM(1993)Regional performanceof tal tropicalbunchgassesin the southeastern USA. Bioenergy Research,5,3-21.   \nXu J, Chen Y, Cheng J, Sharma-Shivappa RR, Burns JC (2011) Delignification of switchgrasscultivars forbioethanol production.Bioresource Technology，6, 707-720.   \nZhang K,Agrawal M,Harper J,Chen R,Koros WJ (2011) Removal of the fermentation inhibitor,furfural,using activated carbon in cellulosic-ethanol production. Industrial & Fnoineprino Chemistru Resparch 50 14n55-14060 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

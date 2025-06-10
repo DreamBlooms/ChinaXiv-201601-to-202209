@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "秸秆还田对土壤水稳性团聚体及其碳分布的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王美佳，王沣，苏思慧，苏业涵，孙悦，王英俨，孟广鑫，姜英，齐华（沈阳农业大学农学院,辽宁 沈阳110866)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究秸秆还田方式对土壤水稳性团聚体组成、稳定性和有机碳分布的影响,为东北旱作区作物生产及秸秆还田制度提供参考。田间试验始于2015年,设置旋耕秸秆还田（RT）、旋耕秸秆不还田（CK1）、翻耕秸秆还田（PT)及翻耕秸秆不还田（CK2）4个处理,分别对2017年收获后土壤的样品不同粒级团聚体质量分数、稳定性、有机碳(SOC)分布以及近3a的玉米产量进行测定。结果表明：秸秆还田处理提高土壤表层各粒径团聚体的SOC 含量，促进大团聚体的形成与稳定。在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 土层中,相同耕作措施下，RT处理 SOC含量比CK1处理的提高 $1 3 . 9 0 \\%$ 1 $\\ P < 0 . 0 5 \\$ ）,PT处理比CK2处理提高 $9 . 2 9 \\%$ （ $\\ P < 0 . 0 5 )$ 。不同耕作措施下，RT处理与PT处理相比，大团聚体质量提高 $2 2 . 0 5 \\%$ ，团聚体平均重量直径(MWD)提高 $7 . 7 8 \\%$ ，粉 $^ +$ 黏团聚体含量降低 $1 6 . 8 1 \\%$ ( $\\textstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ )。比较不同年份玉米产量发现,降水量不同产量不同,2017年降水量低于2016年,2017年各处理产量均低于2016年,但处理间降幅不同，RT和PT处理降幅 $( 8 . 5 7 \\% 9 . 7 2 \\%$ )低于CK1和CK2处理 $( 1 0 . 8 4 \\% , 1 2 . 1 3 \\%$ ),说明秸秆还田处理有稳产作用,其中RT处理趋势较明显。因此,在东北春玉米旱作区秸秆全层还田条件下,旋耕秸秆还田促进土壤水稳性团聚体形成,提高土壤 SOC 含量,可为玉米生产在不同降水年份提供稳产保障。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：耕作方式；秸秆还田；土壤水稳性团聚体；土壤有机碳；玉米产量；沈阳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "东北是我国重要的粮食主产区，对保证粮食安全起着重要作用。然而，该地区玉米生产长期浅耕作业、忽视土壤培肥,导致土壤结构破坏、土壤肥力下降,严重制约作物稳产和高产[1-3]。因此,通过合理耕作与秸秆还田来改善土壤结构、稳定作物产量，对东北地区粮食生产具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，通过合理的耕作能疏松土壤、提高雨水利用率[4-7],并影响土壤中的团聚体组成和转化,从而对土壤结构和抗侵蚀能力造成影响[8-9]。此外,秸秆中含丰富的有机碳(SOC)及N、P、K和一些微量营养元素[10],秸秆还田有助于土壤团聚体的形成,从而改善土壤结构(11-12]。土壤团聚体是土壤中的重要成分和基本单元，能够贮藏水分、为微生物活动提供场所[13],对种子发芽、作物生长及土壤中SOC 含量有着重要作用,并且在土壤团聚过程中也是固碳的重要途径之-(14)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，通过土壤耕作与培肥措施改变土壤团聚体及SOC含量的研究是学者们普遍关注的热点问题。一些研究通过不同耕作方式处理分析微团聚体和大团聚体间的转化和分布[15]。还有研究认为秸秆还田能使土壤表层的 SOC含量得到一定程度的恢复[16]。但迄今为止,东北地区耕作方式和秸秆还田对土壤团聚体组成和SOC含量的研究相对较少。本试验研究了耕作方式和秸秆还田对不同粒级土壤团聚体质量分数、稳定性、土壤中SOC含量和产量等指标的影响，旨在为东北旱作区秸秆还田提供理论依据与技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地基本情况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "试验于2015—2017年在沈阳农业大学农学院试验基地进行( $\\langle 1 2 3 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { E } , 4 1 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { N }$ ,海拔 $4 3 \\mathrm { ~ m ~ }$ )。试验区属于典型温带大陆性季风气候，全年无霜期$1 5 5 \\sim 1 8 0 \\mathrm { ~ d ~ }$ 。田间耕作模式为一年一熟制，种植作物为春玉米。土壤类型为棕壤，采用“雨养”栽培方式，2015—2017年玉米生长季总降雨量分别为378$\\operatorname* { m m } \\phantom { + } 9 2 9 \\ \\mathrm { m m } \\phantom { - } 3 8 8 \\ \\mathrm { m m }$ （图1）。试验地 $0 \\sim 2 0 \\ \\mathrm { c m }$ 土层基本理化性状为：全氮 $0 . 9 1 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 、全磷0.82$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 、含水量 $2 2 . 2 2 \\%$ 、土壤容重 $1 . 4 1 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ 、$\\mathrm { p H } 5 . 6 0 \\$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/60f8ed11d45c48e6f86993ba75a41f16799e40b0e24c2dd99b3cfa6dc3c2b8ab.jpg",
+        "img_caption": [
+            "图12015—2017年玉米生长季降雨量",
+            "Fig.1The precipitation in growth season of maize during the period of 2015-2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验设置4个处理，分别为旋耕秸秆还田（15cm,RT）旋耕秸秆不还田（ $1 5 \\ \\mathrm { c m }$ ,CK1）、翻耕秸秆还田( $3 0 \\ \\mathrm { c m }$ ,PT）、翻耕秸秆不还田 $( 3 0 ~ \\mathrm { c m } , \\mathrm { C K } 2 )$ ，田间3次重复，随机区组排列。小区行长 $1 2 \\mathrm { ~ m ~ }$ ，行宽 $0 . 6 \\mathrm { ~ m ~ } , 1 0$ 行区,小区面积 $7 2 ~ \\mathrm { m } ^ { 2 }$ 。2015—2017 年均为收获后进行耕作方式与秸秆还田处理，秸秆不还田处理将秸秆全部移出，还田处理将秸秆粉碎后0 $( 5 ~ \\mathrm { c m } )$ 全量、全层还田，旋耕秸秆还田为混拌式，翻耕秸秆还田为翻埋式。供试玉米品种郑单958，种植密度67 500 株· $\\mathbf { h } \\mathbf { m } ^ { - 2 }$ 。播种时一次性施入N（尿素、二胺） $7 5 \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { P } _ { 2 }$ $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ （二胺） $7 5 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ 和$\\mathrm { K } _ { 2 } \\mathrm { O }$ （氯化钾） $2 5 0 \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 作底肥,在拔节期追施N(尿素） $1 5 0 \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,其他管理按照常规方式进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目及方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年10月玉米收获后，采用五点混合取样法采集土样,于 $0 \\sim 1 0 \\ \\mathrm { c m } \\ 1 0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 3 0 \\ \\mathrm { c m } \\ ,$ $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层采集原状土，室内自然风干后沿自然破碎面将土块轻轻掰开分离成 $1 ~ \\mathrm { { c m } } ^ { 3 }$ 左右小土块，剔除植物残体和石块等杂物后过 $8 ~ \\mathrm { m m }$ 筛备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用湿筛法[17]分离土壤团聚体,分离出 $> 2$ （204号$\\mathrm { m m . 2 } \\sim 0 . 2 5 \\mathrm { m m } \\ : 0 . 2 5 \\sim 0 . 0 5 3 \\mathrm { m m } \\ : \\sim 0 . 0 9 9 \\$ $< 0 . 0 5 3 \\mathrm { ~ m m ~ } 4$ 个粒径的团聚体，分别称为大团聚体、中间团聚体、微团聚体、粉 $^ +$ 黏团聚体[18],烘干称重,计算各级团聚体的质量百分比，将样品磨碎过100目筛，装入自封袋备用,采用重铬酸钾氧化法(19]测定土壤各粒径团聚体SOC含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4测产 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各区选取中间3行实收测产，依平均穗重取10个果穗脱粒测定籽粒含水量，据此换算为 $14 \\%$ 含水量的玉米产量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤各粒级团聚体质量分数（ $\\boldsymbol { W } \\boldsymbol { R } _ { i }$ )、土壤团聚体平均重量直径(MWD）、土壤团聚体不稳定团粒指数 $( E _ { \\mathrm { L T } } )$ 分别利用公式（1）、公式（2）、公式（3）计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW R _ { _ i } = \\frac { W _ { _ i } } { W _ { _ T } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM W D = \\sum _ { i = 1 } ^ { n } X _ { i } W _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { L T } } = \\frac { W _ { T } - W _ { 0 . 2 5 } } { W _ { T } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\mathbf { \\big | } { \\big | } { \\big | } { \\big | } _ { i }$ 为各级团聚体质量； $X _ { i }$ 为各粒级的平均直径； $\\boldsymbol { W } _ { T }$ 为供试土壤总重量； $W _ { 0 . 2 5 }$ 为大于 $0 . 2 5 ~ \\mathrm { m m }$ 团聚体的重量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2016进行数据处理，采用SPSS18.0进行方差分析和显著性检验（Duncan），采用Origin 2017和Excel2016 绘制图表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤水稳性团聚体含量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，土壤水稳性团聚体的组成随土层加深，各粒级的团聚体呈现不同分布趋势， $> 2 \\ \\mathrm { m m }$ 粒径大团聚体含量随土层加深而降低， $< 0 . 0 5 3 \\ \\mathrm { m m }$ 粒径粉 $^ +$ 黏团聚体含量随土层加深而增加。比较不同粒径在土层中的质量分数发现， $. 2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径中间团聚体含量较高 $( 6 6 . 7 1 \\% \\sim 4 5 . 8 7 \\% )$ ）， $> 2 \\ \\mathrm { m m }$ 粒径大团聚体含量较低 $( 9 . 5 2 \\% \\sim 1 . 3 2 \\%$ ）， $0 . 2 5 \\sim$ $0 . 0 5 3 \\ \\mathrm { m m }$ 微团聚体含量为 $1 1 . 8 4 \\% \\sim 1 7 . 9 2 \\%$ 。分析不同土层可知，各土层处理间 $< 0 . 0 5 3 \\ \\mathrm { m m }$ 粉 $^ +$ 黏团聚体含量变化趋势一致，均表现为： $ { \\mathrm { R T } } <  { \\mathrm { P T } } <$ $\\mathrm { C K } 1 < \\mathrm { C K } 2$ 。在 $0 \\sim 2 0 \\ \\mathrm { c m }$ 土层，随土层加深,RT处理大团聚体和中间团聚体含量较PT处理差异变大（ $\\ P < 0 . \\ 0 5 \\ \\cdot$ ）， $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层则表现出PT高于RT处理的趋势。在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层，秸秆还田处理的大团聚体含量高于秸秆不还田处理，其他粒径水稳性团聚体含量处理间差异不显著。总体看，在 $0 \\sim$ 注：CK1表示旋耕秸秆不还田,CK2表示翻耕秸秆不还田,RT表示旋耕秸杆还田,PT表示翻耕秸杆还田。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83d827f97eadcecbcd2bf25c1d60dd9a6319564d0fdac69a998341a3bde86497.jpg",
+        "img_caption": [
+            "图2不同处理土壤各粒径团聚体质量分数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同字母表示处理间在0.05水平的差异显著。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$4 0 \\ \\mathrm { c m }$ 各土层内，秸秆还田处理提高了大团聚体和中间团聚体含量，降低了粉 $^ +$ 黏团聚体含量，表层土壤中RT处理效果更显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤水稳性团聚体稳定性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤团聚体平均重量直径(MWD)是衡量土壤团聚体稳定性的重要指标。由图3看出，处理间MWD值随土层加深而降低。秸秆还田处理中MWD值高于秸秆不还田处理，秸秆不还田处理中CK1高于CK2,但差异不显著( $P < 0 . 0 5 )$ ；各秸秆还田处理MWD值在不同土层变化趋势不同，在 $0 \\sim 1 0 ~ \\mathrm { c m }$ 土层中 RT 高于PT处理， $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层中PT高于RT 处理，分别提高 $1 6 . 8 5 \\%$ 和 $1 8 . 2 9 \\%$ 。总体来看，在 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 土层， $M W D$ 值的顺序为： $\\mathrm { R T } > \\mathrm { P T } > \\mathrm { C K } 1 > \\mathrm { C K } 2$ ·在 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层,PT 处理 $M W D$ 值显著高于其他处理;而在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层,处理间无显著差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，处理间土层不稳定团粒指数 $( E _ { \\mathrm { L T } }$ ）变化存在差异。在 $0 \\sim 4 0 \\ \\mathrm { c m }$ 土层，CK1 和CK2处理 $E _ { \\mathrm { L T } }$ 值高于RT和PT处理，除RT处理外，其余处理 $E _ { \\mathrm { L T } }$ 值均随土层深度增加而增大。在 $0 \\sim 1 0 ~ \\mathrm { c m }$ 土层， $E _ { \\mathrm { L T } }$ 值的顺序为： $\\mathrm { P T } < \\mathrm { R T } < \\mathrm { C K } 2 < \\mathrm { C K } 1$ 。通过分析 $M W D$ 值和 $E _ { \\mathrm { L T } }$ 值的关系可知，虽二者均反映出团聚体的稳定性，但二者呈负相关， $M W D$ 值高说明土壤稳定性好， $E _ { \\mathrm { L T } }$ 值低说明土壤结构稳定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3水稳性团聚体中 SOC 和土壤总 SOC 分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，秸秆还田处理显著提高了各土层的土壤总SOC( $P < 0 . 0 5 )$ 。秸秆还田处理RT和PT的SOC含量近似，秸秆不还田处理CK1和CK2的注：不同字母表示处理间在0.05水平的差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb1873f242ab858583b5e7b772e452a6e43edfe65a195931da262df56a475142.jpg",
+        "img_caption": [
+            "Fig.2Mass fractions of soil water-stable aggregates under different treatments ",
+            "图3土壤团聚体平均重量直径(MWD)",
+            "Fig.3Mean weight diameters of soil water-stable aggregates "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27f2e842313f2ffa550ff234308abe6f18b77687a54ebf069cd94dd2a3445641.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a28fb8244f05d6514a54a256be1c77cbe7cc7004d55998fce18c55528f69857.jpg",
+        "img_caption": [
+            "图4团聚体不稳定团粒指数 Fig.4Index of unstable soil water-stable aggregates under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：不同字母表示处理间在0.05水平的差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SOC含量差异不显著。分析各土层发现，在 $0 \\sim 1 0$ cm土层，RT处理SOC含量最高，较 $\\mathrm { P T } \\ 、 \\mathrm { C K } 1$ 和CK2处理分别提高了 $5 . 9 3 \\% . 1 1 . \\ 1 0 \\%$ 和 $1 5 . 7 8 \\%$ 。在$2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层,SOC 含量的顺序为： $ { \\mathrm { P T } } >  { \\mathrm { R T } } >$ $\\mathrm { C K } 1 > \\mathrm { C K } 2$ 。在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层,处理间无显著差异，且该土层的SOC含量最低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各处理土壤团聚体SOC含量的变化范围是$1 4 . 6 9 \\sim 4 . 5 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,SOC 含量随团聚体粒级降低和土层的加深而减少（表1）。不同土层各处理 $> 2$ $\\mathbf { m } \\mathbf { m }$ 和 $2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径水稳性团聚体 SOC 含量表现出一定差异，在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 土层,秸秆还田处理高于秸秆不还田处理，RT处理显著高于PT处理，CK1处理高于CK2 处理。在 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层,PT 处理$2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径水稳性团聚体 SOC 含量增加，比$1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层提高 $6 . 2 3 \\%$ 。相同耕作方式下，在$0 \\sim 4 0 ~ \\mathrm { c m }$ 各土层内 $2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径中间团聚体",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/29791b2b0e4313ea516621e63d03fa0cead2e0e3231e5f46fb2e1e7cda3b023d.jpg",
+        "table_caption": [
+            "表1不同处理间土壤各粒径水稳性团聚体有机碳含量 Tab.1Soil organic carbon content of soil water-stable aggregates under different treatments $/ ( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 } )$ "
+        ],
+        "table_footnote": [
+            "注：不同字母表示相同土层不同处理在0.05水平的差异显著。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水稳性团 聚体粒径</td><td rowspan=\"2\">处理</td><td colspan=\"4\">土层深度/cm</td></tr><tr><td>0~10</td><td>10~20</td><td>20~30</td><td>30~40</td></tr><tr><td>>2 mm</td><td>CK1</td><td>12.24c</td><td>10.99b</td><td>9.68b</td><td>7.14a</td></tr><tr><td rowspan=\"7\">2~0.25mm</td><td>CK2</td><td>12.42c</td><td>10.79b</td><td>10.02b</td><td>7.03a</td></tr><tr><td>RT</td><td>14.69a</td><td>12.75a</td><td>11. 14a</td><td>7.09a</td></tr><tr><td>PT</td><td>13.24b</td><td>12.43a</td><td>11.26a</td><td>7.28a</td></tr><tr><td>CK1</td><td>11.53bc</td><td>10.47b</td><td>8.83c</td><td>6.17b</td></tr><tr><td>CK2</td><td>11.05c</td><td>9.51c</td><td>8.10d</td><td>5.34c</td></tr><tr><td>RT</td><td>12.91a</td><td>11.38a</td><td>9.15b</td><td>6.85a</td></tr><tr><td>PT</td><td>11.61b</td><td>10.14b</td><td>10.07a</td><td>6.56a</td></tr><tr><td rowspan=\"5\">0.25~0.053mm</td><td>CK1</td><td>9.83b</td><td>8.10c</td><td>6.45c</td><td>6.04ab</td></tr><tr><td>CK2</td><td>9.31b</td><td>8.36c</td><td>6.33c</td><td>5.08b</td></tr><tr><td>RT</td><td>10.89a</td><td>9.22a</td><td>8.40a</td><td>6.79a</td></tr><tr><td>PT</td><td>10.36a</td><td>8.86b</td><td>7.27b</td><td>5.36b</td></tr><tr><td>CK1</td><td>8.47a</td><td>6.21bc</td><td>5.07b</td><td>4.73a</td></tr><tr><td rowspan=\"3\"></td><td>CK2</td><td>8.64a</td><td>5.98c</td><td>4.57c</td><td>4.50a</td></tr><tr><td>RT</td><td>8.01a</td><td>7.10a</td><td>5.65a</td><td>4.52a</td></tr><tr><td>PT</td><td>7.80a</td><td>6.89ab</td><td>5.55a</td><td>4.54a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SOC含量RT处理显著高于CK1处理，增幅依此为$1 1 . 9 7 \\% . 8 . 6 9 \\% . 2 . 4 6 \\%$ 和 $1 1 . 0 2 \\%$ ,PT处理显著高于CK2处理，分别提高 $5 . 0 6 \\% . 6 . 6 2 \\% . 3 2 . 9 6 \\%$ 和$2 2 . 8 5 \\%$ 。总体上，RT处理提高 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层内 $>$ $2 ~ \\mathrm { m m }$ 和 $2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径水稳性团聚体SOC含量，PT 处理提高 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层中 $2 \\sim 0 . 2 5 ~ \\mathrm { m m }$ 粒径团聚体 SOC 含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 玉米产量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015一2017年的玉米产量，不同年份处理间表现出不同变化趋势（图6）。2015年产量依CK1、CK2、RT、PT次序降低，且CK1处理显著高于RT和",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f6ddd1b1be8ac64c8d66a987b500eee8f0ebdf7a6548df1e874564c393aef6e.jpg",
+        "img_caption": [
+            "图5不同处理间各土层总有机碳含量 Fig.5Total soil organic carbon contents in different soil layers under different treatments ",
+            "注：不同字母表示处理间在0.05水平的差异显著。图6秸秆还田和耕作措施对玉米籽粒产量的影响Fig. 6 Effect of straw turnover and cultivation measureson grain yield of maize"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PT 处理，可见秸秆还田初期降低了玉米产量。2016年雨水充足（图1），虽各处理产量无显著差异，但分别较 2015年高16. $36 \\%$ 、33. $09 \\%$ 、34. $8 8 \\%$ ！$4 2 . 9 9 \\%$ 。2017年各处理产量无显著差异，但均低于2016年产量。2017年和2015 年降水量相近，比较2017年和2015年产量，2017年产量高于2015年，各处理增幅顺序为 $\\mathrm { R T } > \\mathrm { P T } > \\mathrm { C K } 2 > \\mathrm { C K } 1$ ，秸秆还田处理增幅高于秸秆不还田处理。比较2017 年和2016年不同处理间玉米产量变化，产量降幅分别为 $1 2 . 1 3 \\%$ （CK1） $1 0 . 8 4 \\%$ （CK2） $9 . 7 2 \\%$ （PT）、$8 . 5 7 \\%$ （RT），秸秆还田处理籽粒产量的降幅低于秸秆不还田处理",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤团聚体是组成土壤结构的基本单位，主要由颗粒和黏合物组成[20,是作物高产的必要土壤条件[21]。Sodhi等[22]研究发现,秸秆还田能够显著增加土壤中大团聚体的含量及其稳定性。本研究结果表明，秸秆还田处理对土壤结构改善有积极作用，秸秆还田处理可促进 $> 0 . 2 5 \\ \\mathrm { m m }$ 粒径土壤团聚体形成,其中 $> 2 \\ \\mathrm { m m }$ 粒级大团聚体增加比例最高，且降低了粉 $^ +$ 黏团聚体( $< 0 . 0 5 3 \\ \\mathrm { m m }$ )含量。在 $0 \\sim 1 0$ $\\mathrm { c m } \\ . 1 0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 3 0 \\ \\mathrm { c m } \\ . 3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层中，不同处理间水稳性团聚体表现出不同的分布趋势，随着土层加深，水稳性团聚体呈现逐渐向小粒级扩大的趋势。在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层中粉 $^ +$ 黏团聚体分布最多，翻耕秸秆不还田处理尤为突出。一方面，秸秆作为有机物肥料施入，可增加微团聚体的团聚性能[23],利于促成小粒径团聚体聚合成大团聚体，使得秸秆还田处理大团聚体含量升高。另一方面，不同耕作措施下，翻耕处理土壤扰动程度大，更容易破坏土壤团粒结构，对 $> 0 . 2 5 \\ \\mathrm { m m }$ 大团聚体破坏率最大[24];大团聚体破碎后直接形成小粒径团聚体[25]，随着降水不断向下沉积，导致深层土壤中翻耕秸秆不还田处理小粒径团聚体含量上升，土壤稳定性和土壤水稳性团聚体平均重量直径（MWD)与大团聚体含量变化规律相似,随土层加深MWD值变小，除$2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层外,其他土层土壤稳定性均表现为$\\mathrm { R T } > \\mathrm { P T } > \\mathrm { C K } 1 > \\mathrm { C K } 2$ ，说明秸秆还田处理不仅增加了土壤大团聚体数量，也有利于提高土壤结构的稳定性。在 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土层,PT 处理高于RT 处理,这可能是因为翻耕秸秆还田处理下秸秆分布在 $2 0 \\sim$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$3 0 \\ \\mathrm { c m }$ 土层，秸秆腐解促进土壤中产生对土壤团聚体形成十分重要的胶结物质（有机胶结物质、无机胶结物质、有机无机复合体）[26]；此外，翻耕处理疏松深层土壤,增强根系生长及土壤微生物活性,使土层中根系分泌物和残留量提高，根系分泌物产生的高分子黏质对土壤颗粒有黏结作用[27],有助于大团聚体的形成和土壤结构稳定。而CK2处理MWD值低于CK1处理，说明秸秆还田对大团聚体的促进作用优于根系分泌物等的作用，改善土壤结构和培肥地力效果更显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤 SOC含量与土壤团聚体关系密切，土壤SOC含量的增加主要体现在表层大粒径团聚体( $>$ $0 . 2 5 \\mathrm { m m }$ )的 SOC 增加[28]。经过3a秸秆还田处理，SOC 含量在各土层中显著增加，在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层增加幅度较大，随土层加深SOC含量增幅下降，说明秸秆还田更利于表层土壤的改善。Barreto 等[29]认为，土壤耕层SOC含量不仅与秸秆还田有关，还受耕作方式的影响。本研究发现，秸秆不还田情况下，翻耕处理造成土壤SOC含量降低，翻耕处理将土壤翻转，增加了土壤与外界的接触面积，加速了土壤的矿化[30],且常年翻耕易造成水土流失,使得土壤中的 SOC 也随之流失[31]。在秸秆还田情况下， $0 \\sim 2 0$ cm 土层旋耕秸秆还田SOC含量高于翻耕秸秆还田，因为旋耕耕作扰动深度浅，主要疏松表层土壤，对大团聚体的破坏程度低于翻耕处理，并且土层中的秸秆分解后可补充土壤碳库，因而旋耕秸秆还田处理更利于土壤表层SOC含量的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "秸秆还田对作物产量的影响与年限直接相关,有研究表明秸秆还田初期作物籽粒产量下降了 $0 . 6 \\% \\sim 7 . 1 \\%$ ，但随着年限的增加籽粒产量有增产趋势[33]。但本研究中连续3a的玉米籽粒产量并没有随着秸秆还田年限的增加而增加，2017年秸秆还田处理玉米产量低于2016年，造成这种现象的原因可能与降雨量有关,正如 Turmel等[34)的研究表明，分析秸秆还田处理对土壤指标及作物产量的影响，还需考虑气候、土壤质地、试验年限和取样方法等非生物因素。2017年秸秆还田处理的玉米产量高于秸秆不还田处理，RT处理高于PT 处理，产量变化规律与土壤表层大团聚体和SOC含量相似，这是由于玉米根系主要分布在 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 土层内，表层土壤结构与作物产量更具相关性[35]。经过3a的秸秆还田处理,虽玉米产量未逐年提升，但土壤中大团聚体和SOC含量增多，改善了耕层土壤条件，相似降雨量年份间有一定增产效果。当年季间降雨量减少时，秸秆还田处理因土壤结构稳定，SOC储量多，为玉米生长提供了相对良好的土壤条件，从而使得秸秆还田处理籽粒产量降幅低于秸秆不还田处理，旋耕秸秆还田籽粒产量降幅低于翻耕秸秆还田，说明在降雨量不足年份秸秆还田处理有稳产作用，且旋耕秸秆还田优于翻耕秸秆还田。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过3a的定位试验结果表明，秸秆还田有利于增加土壤中大团聚体及其SOC含量，提高土壤水稳性团聚体结构水平和稳定性，使土壤结构趋于改善。在降雨量较少年份秸秆还田处理有稳产保收作用。综合耕作因素分析旋耕后对土壤扰动幅度适中，既能疏松土壤又不易使土壤 SOC 流失，表现出增产趋势。因此，在东北旱作区应推广秸秆还田处理，且在短期秸秆还田条件下，较适宜推广旋耕秸秆方式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]周兴祥,高焕文,刘晓峰.华北平原一年两熟保护性耕作体系 试验研究［J].农业工程学报,2001，17（6）：81-84.［Zhou Xingxiang,Gao Huanwen,Liu Xiaofeng.Experimental study on conservation tillage system in areas of two crops a year in North China Plain[J].Transactions of the Chinese Society of Agricultural Engineering,2001,17(6）:81-84.] [2]张国盛,ChanKY,LiGD,等.长期保护性耕种方式对农田表 层土壤性质的影响[J].生态学报，2008,28(6)：2722-2728. [Zhang Guosheng,Chan K Y,Li GD,et al. Long-term effects of tillage systems and rotation on selected soil properties in cropping zone of Southern NSW,Australia[J].Acta Ecologica Sinica,2008,   \n28(6):2 722 -2 728.] [3] 黄高宝，郭清毅,张仁陟，等.保护性耕作条件下旱地农田麦豆 双序列轮作体系的水分动态及产量效应[J].生态学报，2006，   \n26(4）:1 176 -1 185.[Huang Gaobao,Guo Qingyi,Zhang Renzhi,et al.Effects of conservation tillage on soil moisture and crop yield in a phased rotation system with spring wheat and field pea in dryland[J].Acta Ecologica Sinica,2006,26(4）:1 176-1185.] [4] Iqbal M,Anwar-ul-Hassan,Ibrahim M.Effects of tillage systems and mulch on soil physical quality parameters and maize （Zea maysL.）yield in semi-arid Pakistan[J].Biological Agriculture &Horticulture,2008,5(4):311-325. [5]Liu Y,Gao M S,Wu W,et al.The effects of conservation tillage practices on the soil water-holding capacity of a non-irrigated apple orchard in the Loess Plateau China[J].Soil & Tillage Research, 2013,130(12) :7 - 12.]   \n[6]王育红,姚宇卿,吕军杰,等.豫西旱坡地高留茬深松对冬小麦 生态效应的研究[J].中国生态农业学报,2004,12（2）：151－ 153.[Wang Yuhong,Yao Yuqing,Lu Junjie,etal.Ecological effect of subsoiling high stubble on the winter wheat in sloping land of western Henan[J].Chinese Journal of Eco-Agriculture,2004, 12(2) :151-153.]   \n[7］陈琳,任春颖,王崇明,等,基于克里金插值的耕地表层土壤有 机质空间预测[J].干旱区研究,2017,34（4）：798-805.[Chen Lin,Ren Chunying,Wang Chongming,et al.Prediction of spatial distribution of topsoil organic matter content in cultivated land using kriging methods[J]. Arid Zone Research,2017,34（4）: 798 - 805.]   \n[8]Chong S K,Cowsert PT.Infiltration in reclaimed mined land ameliorated with deep tillage treatments[J].Soil Tillage Research, 1997,44(3) :255 -264.]   \n[9]Klute A.Aggregate stability and size distribution[J]. Methods of Soil Analysis,1986(1) :425 -442.]   \n[10］张琦珠.土壤有机质对土壤肥力的作用第二讲土壤保肥性与 土壤有机质〔J].新疆农垦科技,1985（5）:54－56.[Zhang Qizhu.Effects of soil organic matteronsoil fertility,Second ; soil fertility preservation and soil organic matter[J].Xinjiang Agricultural Reclamation Technology,1985（5）:54-56.]   \n[11]詹其厚,袁朝良,张效朴.有机物料对砂姜黑土的改良效应及 其机制[J].土壤学报,2003,40（3）:420-425.[Zhan Qihou, Yuan Zhaoliang,Zhang Xiaopu.Ameliorative effct and mechanism of organic materials on vertisol[J].Acta Pedologica Sinica,2003, 40(3) :420 -425.]   \n[12］张晓文,赵改宾,杨仁全,等.农作物秸秆在循环经济中的综合 利用[J].农业工程学报,2006（增刊1）:107-109.[Zhang Xiaowen,Zhao Gaibin,Yang Renquan,et al. Comprehensive utilization of agricultural straws in recycle economy[J].Transactions of the CSAE,2006（Suppl.1）:107 -109.]   \n[13］王清奎,汪思龙.土壤团聚体形成与稳定机制及影响因素[J] 土壤通报,2005,36（3）:415-421.[Wang Qingkui,Wang Silong.Forming and stable mechanism of soil aggregate and influencing factors[J].Chinese Journal of Soil Science,2005,36（3）: 415 -421. ]   \n[14]Imbufe A U,Patti AF,Burrow D,et al. Effects of potassium humate on aggegate stabilityof two soils from Victoria,Australia[J]. Geoderma,2005,125（3）:321-330.]   \n[15]Lal R,Kimble JM. Conservation tillage for carbon sequestration [J].Nutrient Cycling in Agroecosystems,1997,49(1-3）:243- 253.   \n[16]Puget P,Chenu C,Balesdent J. Dynamic of soil organic matter associated with particle-size fractions of water-stable aggregate[J]. European Journal of Soil Science,2000,51:595-605.   \n[17]Cambardella C A,Elliott E T.Carbon and nitrogen distribution in aggregates from cultivated and native grassand soils[J]. Soil Sci",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ence Society of America Journal,1993,57(4):1 071-1076. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］王勇,姬强,刘帅,等.耕作措施对土壤水稳性团聚体及有机碳 分布的影响[J].农业环境科学学报,2012,31（7)：1365- 1373.[Wang Yong,Ji Qiang,Liu Shuai,et al.Effects of tillage practices on water-stable aggregaion-associated organic C in soils [J].Journal of Agro-Environment Science,2012,31（7）:1 365- 1 373.]   \n[19］李德成,张桃林.中国土壤颗粒组成的分形特征研究[J].土壤 与环境,2000,9（4）:7-9.[LiDecheng,Zhang Taolin.Fractal features of particle size distribution of soils in China[J].Soil and Environmental Scineces,2000,9(4):7 -9.]   \n[20]Scanlon B R,Andraski B J,Bilskie J. Methods of Soil Analysis: Part4Physical Methods[M].Soil Science Society of America Journal,2002:643 -668.]   \n[21]Limonortega A,Govaerts B,Sayre KD. Crop rotation,wheat straw management,and chicken manure effects on soil quality[J].Agronomy Journal,2009,101（3）:600 -606.]   \n[22]Tripathi R,Nayak AK,Bhattcharyya P,etal.Soil aggregation and distribution of carbon and nitrogen in different fractions under longterm application of compost in rice-wheat system[J].Soil and Tillage Research,2009,103（2）:412-418.]   \n[23]Waters A G,Oades JM. Organic matter in water-stable agregates [J]．Advances in Soil Organic Matter Research,2003：163- 174.]   \n[24]Mikha M M,Rice C W.Tillge and manure effects on soil and aggregate associated carbon and nitrogen[J]. Soil Science Society of America Journal,2004,68(3）:809 -816.   \n[25]Oades JM. Soil organic matter and structural stability:Mechanisms and implications for management[J].Plant and Soil,1984,76（1/ 3) :319 -337.]   \n[26]郭菊花,陈小云,刘满强,等.不同施肥处理对红壤性水稻土团 聚体的分布及有机碳、氮含量的影响[J].土壤，2007,39（5）： 787 - 793.[Guo Juhua,Chen Xiaoyun,Liu Manqiang,et al. Effects of fertilizer management practice on distribution of aggregates and content of organic carbon and nitrogen in red paddy soil [J].Soils,2007,39(5) :787 -793.]   \n[27］李鉴霖,江长胜,郝庆菊.土地利用方式对缙云山土壤团聚体 稳定性及其有机碳的影响〔J].环境科学,2014,35（12）： 4 695-4 704.[Li Jianlin,Jiang Changsheng,Hao Qingju.Impact of land use type on stabilityand organic carbon of soil aggregates in Jinyun Mountain[J].Environmental Science,2014,35（12）： 4 695 -4 704.]   \n[28]Killham K.Soil Ecology[M].Cambridge:Cambridge University Press,1994:102-113.   \n[29]Barreto R C,Madari B E,Maddock EL,et al.The impact of soil management on aggregation,carbon stabilization and carbon loss as $\\mathrm { C O } _ { 2 }$ in the surface layer of a Rhodic Ferralsol in Southern Brazil [J].Agriculture,Ecosystems and Environment,2009,132（3）： 243 -251.]   \n[30]王秀娟,解占军,董环,等.秸秆还田对玉米产量和土壤团聚体 组成及有机碳分布的影响[J].玉米科学,2018,26（1)：108- 115.[Wang Xiujuan,Xie Zhanjun,Dong Huan,et al. Effects of straw returning on yield and soil aggregates composition and organic carbon distribution[J].Journal of Maize Sciences,2018,26 （1):108 -115.]   \n[31］曹丽花,赵世伟.土壤有机碳库的影响因素及调控措施研究进 展[J].西北农林科技大学学报（自然科学版）,2007,35（3）： 177 -182.[Cao Lihua,Zhao Shiwei.Progress of study on factors of affecting the SOC pool and measures for its regulating and controlling[J]. Journal of Northwest Agriculture and Forestry University （Natural Science Edition）,2007,35(3）:177-182.]   \n[32]周虎,吕贻忠,杨志臣,等.保护性耕作对华北平原土壤团聚体 特征的影响[J].中国农业科学 2007,40（9)：1973-1979. [Zhou Hu,Lu Yizhong,Yang Zhichen,et al.Effects of conservation tillage onsoil aggregates in Huabei Plain China[J].Scientia Agricultura Sinica,2007,40(9):1 973-1 979.]   \n[33]Wang J,Wang X,Xu M,etal. Crop yield and soil organic matter after long-term straw return to soil in China[J].Nutrient Cycling in Agroecosystems,2015,102(3）:371-381.   \n[34]Turmel M S,Speratti A,Baudron F,et al. Crop residue management and soil health:A systems analysis[J]. Agriculture Systems,2015, 134 :6 -16. ]   \n[35］李静,周正朝,张强,等.黄土区不同退耕年限草地土壤分离速 率及其理化性质[J].干旱区研究,2017,34（3）：504-510.［Li Jing,Zhou Zhengchao,Zhang Qiang,et al. Soil physiochemical properties and soil detachment rate in grasslandswith diffrent years of grain for green in the loess plateau[J].Arid Zone Research,2017,34(3） :504 -510.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Effects of Straw Turnover on Soil Water-Stable Aggregates and Soil Carbon Distribution ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WANG Mei-jia， WANG Feng， SU Si-hui， SU Ye-han， SUN Yue， WANG Ying-yan,MENG Guang-Xin， JIANG Ying， QI Hua(College of Agronomy,Shenyang Agricultural University,Shenyang11o866,Liaoning,China)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inthis study,the effects of crop residue turnover on the composition and stabilityof soil water-stable agglomeration andthe distribution of soil organiccarbon in aggregates were investigated for giving a reference to crop production and crop residue turnover in the semiarid areas in northeast China.A field experiment including rotary tillage and plough tilage with/without cropresidue incorporation treatments（RT,CK1,PTand CK2）was started in 2015.The purposes of this study were to explorethe effctsof tillageand straw management practices on the ratioof soilaggregates withvarious sizes,stabilityofsoil water-stableagglomeration,distribution ofsoilorganiccarbon（SOC）in 2017 and maize yield from 2O15 to 2017.Our results indicated that theresidue incorporation could be used to significantly increase the SOC content by $1 3 . 9 0 \\%$ （RT）and $9 . 2 9 \\%$ （PT）,respectively,i $\\textrm { n } 0 - 1 0 \\ \\mathrm { c m }$ soil layer compared with those without residue incorporation ( $\\ P < 0 . 0 5 )$ .Compared with PT,the content of waterstable aggregates ( $\\mathrm { > } 2 \\ \\mathrm { m m }$ ） and average weight diameter of aggregates $( M W D )$ were significantly increased by $2 2 . 0 5 \\%$ and $7 . 7 8 \\%$ ,respectively,while the content of water-stable aggregates ( $< 0 . 0 5 3 \\ \\mathrm { m m }$ ） was significantly decreased by $1 6 . 8 1 \\%$ by RT management ( $\\textstyle P < 0 . 0 5 ^ { \\cdot }$ ).In addition,RT significantly enhanced the SOC of waterstable aggregates in topsoil,and the most improvement was found in the water-stable aggregates $> 2 \\mathrm { \\ m m }$ ( $P <$ 0.05)．There was no significant diference inmaize yield in 2016and2017.Compared withthe yield in 2016,the yield reduction from RT and PT treatments $( 8 . 5 7 \\% - 9 . 7 2 \\%$ ）was lower than that from CK1 and CK2（ $1 0 . 8 4 \\% -$ $1 2 . 1 3 \\%$ ）in 2017. Therefore,the rotary tillage with residue returning practice in dryland farming is recommended with benefits of promoting soil water-stable aggregate formation and increasing SOC content so that give a stable yield for maize production regardless of precipitation variation in northeast China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:tillage；residue returning； soil water-stable aggregate； soil organic carbon； maize yield; Shenyang",
+        "page_idx": 7
+    }
+]

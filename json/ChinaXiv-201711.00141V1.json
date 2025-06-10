@@ -1,0 +1,260 @@
+[
+    {
+        "type": "text",
+        "text": "Facile Synthesis of Uniform Zinc-blende ZnS Nanospheres with Excellent Photocatalytic Activity toward Methylene Blue Degradation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PENG Si-Yan(彭思艳);YANG Liu-Sai(杨流赛);LV Ying-Ying(吕英英);YU Le-Shu(余乐 书);HUANG Hai-Jin(黄海金);WU Li-Dan(吴丽丹) School of Chemistry and Environmental Science, Jiangxi Province Key Laboratory of Polymer Preparation and Processing, Shangrao Normal University, Shangrao, Jiangxi 334Oo1, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Uniform and well-dispersed ZnS nanospheres have been successfully synthesized via a facile chemical route. The crystal structure,morphology,surface area and photocatalytic properties of the sample were characterized by powder X-ray difraction (XRD)， scanning electron microscopy (SEM), Brunauer-Emmett-Teller (BET） and ultraviolet-visible （UV-vis） spectrum. The results of characterizations indicate that the products are identified as mesoporous zinc-blende $Z \\mathrm { n S }$ nanospheres with an average diameter of $2 0 0 ~ \\mathrm { { n m } }$ ,which are comprised of nanoparticles with the crystalite size of about $3 . 2 ~ \\mathrm { n m }$ calculated by XRD. Veryimportantly， photocatalytic degradation of methylene blue (MB) shows that the as-prepared ZnS nanospheres exhibit excellent photocatalytic activity with nearly $100 \\%$ of MB decomposed after UV-light irradiation for $2 5 ~ \\mathrm { m i n }$ . The excellent photocatalytic activity of $Z \\mathrm { n S }$ nanospheres can be ascribed to the large specific surface area and hierarchical mesoporous structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ZnS nanospheres, zinc-blende, photocatalytic activity, methylene blue, degradation; DOI: 10.14102/j.cnki.0254-5861.2011-1721 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the rapid development of textile dyeing industry,environmental wastewater pollution coming from various persistent and hazardous organic pollutants has atracted increasing attention in recent years. Over the past few decades， semiconductor photocatalystsare becoming more and more atractive due to their potential advantages such as cost-efective,easy operation,environment friendly， high efficiency， wide applicability and high chemical stability in resolving environmental wastewater pollution issues[1,2l.The semiconductor photocatalysis is also considered as one of the most effective methods in the degradation of pollutants because of the high reactivity of free radicals such as hydroxyl，which are originated from electron-hole pairs created in semiconductor materials by the absorption of photons[3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZnS is an important I-VI semiconducting material with a direct wide band gap.Due to its special electrical and optical properties,ZnS has been widely used in electroluminescencel4],field-effct transistorsl5],solar celsl6], gas sensing[7], photocatalysis[8] and soon. Because of morphology-dependent property and increasing interest in morphology-controllable synthesis, $Z \\mathrm { n S }$ materials with various morphologies, such as nanowires[9], nanobelts[10],，nanorods[],two-dimensional nanosheets[12]and three-dimensional flower-like architectures[13], have been fabricated in recent years.For photocatalysts,the hierarchical architectures would show superior photocatalytic efficiency，which can be ascribed to their high energy conversion efficiencies as well as light-harvesting capacities obtained by constructing the complex architectures[14l. Therefore，designing photocatalysts with hierarchical structures is of great importance to enhance the photocatalytic efficiency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, hierarchically uniform and well-dispersed zinc-blende $Z \\mathrm { n S }$ nanospheres assembled by nanoparticles have been successfully achieved by a facile solution approach. The synthesized $Z \\mathrm { n S }$ nanospheres can be employed as efficient photocatalysts (nearly $100 \\%$ degradation ratio) for the degradation of methylene blue under UV-light irradiation. To the best of our knowledge，there have been few reports on the hierarchically uniform zinc-blende $Z \\mathrm { n S }$ nanospheres composed of secondary nanoparticles with excellent photocatalytic performance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Preparation of zinc-blende ZnS nanospheres and common ZnS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of zinc-blende ZnS nanospheresAll chemicals were used as received without further purification. In a typical synthesis process,3 mmol zinc acetate dehydrate was dissolved in $2 5 ~ \\mathrm { m L }$ ethylene glycol under stirring to form a clear solution,and then $1 ~ \\mathrm { m L }$ ethylenediamine was added into the solution before heating. When the solution was first heated to $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，a freshly prepared $2 5 ~ \\mathrm { m L }$ ethylene glycol solution containing 4.5 mmol thiourea was dropwise added into the solution. After the solution was further heated to $1 5 0 ^ { \\circ } \\mathrm { C }$ ，1 mL dodecylamine was quickly injected into the solution. The whole solution was kept at ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for 3 hours.After cooling down to room temperature,the product was centrifuged, washed with ultrapure water and ethanol for several times,and then dried at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for 8 hours under vacuum. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation of common zinc-blende ZnSIn order to gain insights into the structure effect of ZnS nanospheres on the photocatalytic activity, common zinc-blende $Z \\mathrm { n S }$ was prepared by the precipitation method for comparison. $3 . 6 \\ \\mathrm { g \\ N a S { \\cdot } 9 H _ { 2 } O }$ （ $1 5 \\mathrm { m m o l }$ and $4 . 4 6 \\ \\mathrm { g } \\ Z \\mathrm { n } ( \\mathrm { N O } _ { 3 } ) _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ (15 mmol) were completely dissolved in $1 5 ~ \\mathrm { m L }$ deionized water, respectively,and then the two clear and colorless aqueous solutions were mixed together under stirring to form $Z \\mathrm { n S }$ precipitate at room temperature. The product was centrifuged, washed with ultrapure water for several times,and then dried at $1 0 0 ^ { \\circ } \\mathrm { C }$ for 8 hours under vacuum. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Characterizations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The morphologies of the sample were observed by scanning electron microscopy (SEM， JEOL JSM-6700F). The energy dispersive $\\mathrm { \\Delta } X$ -ray spectroscopy (EDS) analysis of the sample was measured using silicon wafer as the substrate on Field Emission Scanning Electron Microscope (Hitachi SU-801O). Powder X-ray diffraction (XRD) patterns were measured on a glass wafer by a Rigaku MiniFlex 6OO diffractometer with a Cu-Kα X ray source $( \\lambda = 1 . 5 4 0 6 \\mathrm { ~ \\AA ~ }$ ). UV-vis spectra were recorded on an Agilent Technologies Cary 60 spectrophotometer. The BET surface areas and pore size distributions of the samples were determined by ${ \\bf N } _ { 2 }$ adsorption-desorption at liquid nitrogen temperature (77 K), which was performed on a Micromeritics ASAP 2460 after the samples were degassed at $1 2 0 \\ \\mathrm { ^ { \\circ } C }$ for 2 hours. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Photocatalytic experiments ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic activities of $Z \\mathrm { n S }$ samples were carried out by the degradation of methylene blue (MB) aqueous solution with an initial concentration of $1 0 \\mathrm { m g / L }$ under the irradiation of two 8 W UV-light tubes ( $\\langle \\lambda =$ $2 5 4 ~ \\mathrm { n m }$ ） $5 0 ~ \\mathrm { m g }$ of catalyst powder was added to $5 0 ~ \\mathrm { m L }$ of MB solution in a quartz cup, corresponding to a catalyst dosage of $1 \\ \\mathrm { g / L }$ . Before UV-light irradiation,the whole system was placed in the dark under the magnetically stirring for $6 0 ~ \\mathrm { \\ m i n }$ to ensure an adsorption/desorption equilibrium. During the UV-light irradiation,about $4 ~ \\mathrm { m L }$ aliquots were sampled at given time intervals,and centrifuged. Then the top clear solution of MB was analyzed by a UV-vis spectrophotometer (TU-1901,PERSEE,Beijing). The degradation ratio was monitored by measuring the absorption of MB at the wavelength of $6 6 4 ~ \\mathrm { { n m } }$ ，which was calculated according to the formula: $\\eta = [ ( \\mathrm { A _ { 0 } } - \\mathrm { A _ { t } } ) / \\mathrm { A _ { 0 } } ] \\times 1 0 0 \\%$ ，where ${ \\bf A } _ { 0 }$ is the absorbance of MB solution with the initial concentration,and $\\mathbf { A } _ { \\mathrm { t } }$ is the absorbance of MB solution measured after photocatalytic degradation. For comparison, the blank control experiment (pure MB solution without catalyst under UV-light irradiation) was also determined in order to establish the effect of photolysis and catalysis on the conversion of MB. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Characterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The morphology， structure and component of as-synthesized ZnS nanospheres and common ZnS were examined by electron microscopy techniques. Fig. la displays a low magnification SEM image of $Z \\mathrm { n S }$ nanospheres, indicating that the obtained $Z \\mathrm { n S }$ sample consists of uniform and well-dispersed nanospheres with an average diameter of $2 0 0 \\mathrm { n m }$ . The higher magnification SEM image (Fig. 1b) of $Z \\mathrm { n S }$ nanospheres shows that the surfaces of nanospheres are rough. It suggests that nanospheres are likely assemblies of tiny nanoparticles. The EDS spectrum (Fig.lc) indicates that the as-prepared ZnS nanospheres are only composed of $Z \\mathrm { n }$ and S elements,while the signal for Si is from the substrate.The atomic ratio of Zn and S in $Z \\mathrm { n S }$ nanospheres is approximately 47.42:52.58,close to the stoichiometric ratio of $Z \\mathrm { n S }$ (1:1). As indicated by the SEM image in Fig. 1d, common $Z \\mathrm { n S }$ obtained by the precipitation method is composed of nanoparticles aggregates. The sizes of these aggregates are not uniform, which are mainly above $2 0 0 \\mathrm { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The phase compositions of the as-prepared $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n S }$ were characterized by XRD. As seen in Fig.2,allthe diffraction peaks of both samples match well with the standard diffraction data for a cubic zinc blende structure of ZnS (JCPDS,No. O5-0566)l15]. No traces of extra difraction peaks were detected, indicating the formation of a pure-phase structure in the as-prepared $Z \\mathrm { n S }$ nanospheres and common ZnS.Three broad peaks are observed for both ZnS nanospheres and common $Z \\mathrm { n } S$ at $2 \\theta = 2 8 . 6$ ,48.2 and $5 6 . 7 ^ { \\circ }$ which are assigned to (111), (220)and (311) characteristic difractions,respectivelyl16]. The typical broadening of the three diffraction peaks indicates that $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n S }$ are comprised of many tiny constituent nanoparticles. The mean crystalite sizes of $Z \\mathrm { n } S$ nanoparticles for $Z \\mathrm { n } S$ nanospheres and common ZnS estimated by the Debye-Scherrer formula based on the peak (111) are ca. 3.2 and $2 . 1 ~ \\mathrm { n m }$ ,respectively, which are much smaller than those of both samples observed by SEM. It demonstrates that $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n S }$ are both assemblies of tiny constituent nanoparticles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UV-vis spectrum is often applied to investigate the optical absorption properties of semiconductors. Fig. 3a presents the UV-vis absorption spectra of both $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n S }$ . Both $Z \\mathrm { n S }$ samples show a strong absorption edge in the ultraviolet region ( $3 1 0 \\sim 3 6 0 ~ \\mathrm { n m }$ ，which can be assigned to the optical absorption edge of $Z \\mathrm { n S }$ . It is seen that the absorption edge of $Z \\mathrm { n S }$ nanospheres shifts toward a lower wavelength relative to common $Z \\mathrm { n S }$ . The direct band gap energy $( { \\mathrm { E g } } )$ can be estimated from the UV-Vis spectra via a Tauc plot of $( \\mathsf { a h v } ) ^ { 2 }$ versus photon energy (hv) according to the Tauc relationship[17]: ${ \\mathrm { a h v } } = \\mathrm { A ( h v - }$ $\\mathrm { E _ { g } } ) ^ { 1 / 2 }$ ，where $\\mathfrak { a }$ is the absorption coefficient, hv is the photon energy, $\\mathrm { E _ { g } }$ is the direct band gap energy, and A is a constant. As illustrated in Fig. 3b, the estimated band gap energy of $Z \\mathrm { n S }$ nanospheres is about $3 . 6 2 ~ \\mathrm { e V }$ which is larger than that of common $Z \\mathrm { n S }$ (bandgap of $3 . 5 4 \\mathrm { e V }$ ). The observation of the blue shift in the band gap energy of $Z \\mathrm { n S }$ nanospheres can be attributed to the reduced particle size showing quantum confinement effects[18], which is in agreement with the SEM results. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the photocatalytic activity is directly correlated to the surface area and pore structure of the photocatalyst, nitrogen adsorption-desorption measurements were caried out. Fig. 4 displays the nitrogen adsorption-desorption isotherms and the corresponding Barrett-Joyner-Halenda (BJH) pore-size distributions of $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n } S$ ． A typical Type IV isotherm (Fig. 4a） indicates the presence of mesoporous structure in the $Z \\mathrm { n S }$ nanospheres stemmed from the aggregation of nanoparticles. The inset of Fig. 4a shows the sharp and narrow pore size distribution with the pore diameter in the range of $3 { \\sim } 4 \\ \\mathrm { n m }$ suggesting the uniform internal pore structures of $Z \\mathrm { n S }$ nanospheres. The mesoporous structure was also observed in the common $Z \\mathrm { n S }$ as presented in Fig. 4b. However, the pore size of common $Z \\mathrm { n S }$ displays more irregular arrange from 2 to $2 0 ~ \\mathrm { n m }$ (inset of Fig. 4b).Furthermore,the BET surface area of common $Z \\mathrm { n S }$ is calculated to be $7 1 . 8 8 \\mathrm { m } ^ { 2 } / \\mathrm { g }$ ,which is much lower than that of the as-prepared $Z \\mathrm { n S }$ nanospheres $( 1 0 7 . 6 8 \\mathrm { m } ^ { 2 } / \\mathrm { g } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Photocatalytic properties ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The photocatalytic activities of $Z \\mathrm { n S }$ nanospheres and common $Z \\mathrm { n S }$ were investigated by the degradation of methylene blue (MB) under UV-light irradiation,and the blank control experiment (pure MB solution without catalyst) was also evaluated under the same photocatalytic condition for comparison.Fig.5a shows the time-dependent UV-vis absorption spectra for the degradation of MB under UV-light irradiation in the presence of $Z \\mathrm { n S }$ nanospheres as a photocatalyst. It can be seen that the intensity of MB absorption peak around $6 6 4 ~ \\mathrm { { n m } }$ decreases continually with an increase in the UV-light irradiation time and completely disappears after $2 5 ~ \\mathrm { { m i n } }$ irradiation. As presented in Fig. 5b, the degradation ratio of MB has no significant increase for a long time in the presence of catalyst under dark conditions.Similar result of the blank control experiment was also obtained.These results indicate that the light and catalyst are both necessary for effective photodegradation of MB dye,and the photoinduced self-decomposition of MB can be ignored in comparison with the photocatalytic degradation caused by catalyst in the solution. It is worth noting that the as-prepared ZnS nanospheres exhibit remarkable photocatalytic activity towards methylene blue degradation under UV-light irradiation. The degradation ratio of MB can reach up to $9 9 . 4 \\%$ after irradiation for $2 5 \\ \\mathrm { m i n }$ .In addition, ZnS nanospheres show much better activity than common $Z \\mathrm { n } S$ for the photocatalytic degradation of MB.In comparison with common $Z \\mathrm { n S }$ ,the high photocatalytic efficiency of $Z \\mathrm { n S }$ nanospheres can be ascribed to the larger specific surface area and hierarchical mesoporous structure, which can contribute to the difusion and mass transportation of MB dye molecules and oxygen-containing radicals during the photocatalysis reaction[19]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary，well crystallized,mesoporous and zinc-blende ZnS nanospheres with uniform size were successfully obtained by a simple chemical process. It was found that the as-prepared $Z \\mathrm { n S }$ nanospheres are assemblies of tiny nanoparticles and exhibit excellent photocatalytic activity with nearly $100 \\%$ of MB degradation efficiency under UV-light irradiation for $2 5 ~ \\mathrm { { m i n } }$ . The large specific surface area and hierarchical mesoporous structure of $Z \\mathrm { n S }$ nanosphere are probably responsible for its excellent photocatalytic activity. The uniform and well-dispersed $Z \\mathrm { n S }$ nanospheres can be used as a promising photocatalyst and hold great potential applications in wastewater treatment for the photodegradation of organic pollutants.This work provides insight into designing high-performance photocatalysts by constructing the complex architectures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)Yin,L;Wgg;CLOaHoobleicaali nanoparticles.J. Alloys Compd.2016,664,476-480.   \n(2）Chen,F;cisdetal 6645-6652.   \n(3）oltani,oEu;seofare.al methylene blue under visible light using PVP-capped ZnS and CdS nanoparticles.Solar Energy.2013,97,147-154.   \n(4)Yang,Y;cdals Mater.Chem.1997,7,131-133.   \n(5）Rajesh.;Sarkar,T.;Mulchandani,A.Photo-induced charge transport in $Z \\mathrm { n S }$ nanocrystals decorated single walled carbon nanotube field-effect transistor.Appl. Phys.Lett.2011,99.   \n(6)uiao,lc quantum dot sensitized solar cells.Phys.Chem. Chem.Phys.2011,13,12024-12032.   \n(7)Hu,P.F;gZnF;gYic;Coaeao their gas-sensing properties.Dalton Trans.2016,45,2409-2416.   \n(8)DongF.F.ois and the application in photocatalytic degradation of organic dyes.Mater. Lett.2013,97,59-63.   \n(9)Moore,D.F.;Ding,Y.;Wang,ZLCrystalorientation-orderedZanowirebundles.J.Am.Chem.Soc.,264347.   \n(10Jiang,F.H;Zag,JtsdacteifoelssdeacAppA.   \n(11)Chn,X.J;uH.F;ZH;J;GuLLHZuei of wurtzite ZnS nanorods throughmild thermolysisofacovalentorganic-inorganicnetwork.Inorg.Chem.o03,42,1003106.   \n(12) Fang,X.S.; Ye, C.H.; Peng, X.S.; Wang, Y.H.; Wu, Y.C.; Zhang,L.D.Large-scale synthesis of $Z \\mathrm { n S }$ nanosheets by the evaporation of ZnS nanopowders.J. Cryst. Growth 2004,263,263-268.   \n(13)BaW.CFuCK.e with high visible light photocatalytic activity.Mater.Lett.2014,124,177-180.   \n(14)ZaoQ.;a,Geiisfaalcudocaaci Growth Des.2007,7,153-158.   \n(15)Yang;;dc and superior photocatalytic properties.Nanotechnology 2008,19.   \n(16)Park,J.YaJ;.;aK.;oo.edc cauliflower-like ZnS microspheres by simple self-assembly method.Mater.Lett.2014,121,97-100.   \n(17)Liu,S.H;aZuZoceC Chem. Solids 2003,64,455-458.   \n(18)RedyD;bsi.raliGsh.s;aYedy.Kofo on the structural,optical and magnetic propertiesof ZnS:Cr nanoparticles.J.Aloys Compd.o12,537,208-215.   \n(19)Lei,A.H;Qu.;ZoCgG;Zag.LZu..Fcilsdecedotocatalcivical porous ZnO microspheres. Mater.Lett.2012,66,72-75. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a15c1fa19c89091515481c22c208c5f5d5789ae73f7e04ee6bd0172b91f1da0f.jpg",
+        "img_caption": [
+            "Fig.1. (a) SEM image,(b) Enlarged SEM image, "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and (c) EDS spectrum of $\\mathbf { Z n S }$ nanospheres.(d) SEM image of common ZnS ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bbe01e36cddb99111f1649812e71c55b3a8700504d009f4c8870772d3d2ae15.jpg",
+        "img_caption": [
+            "Fig.2. XRD patterns of ZnS nanospheres and common ZnS. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Vertical bars at the bottom denote the standard data fora zinc-blende structure of ZnS (JCPDS,No.05-0566) ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/01242329e01fd321a706646dd7f9b17ace72d5917b318b22fe6a27c5ca682da8.jpg",
+        "img_caption": [
+            "Fig.3. (a) UV-vis absorption spectra of $\\mathbf { Z n S }$ nanospheres and common ZnS, and (b) Plots of $( \\mathbf { a } \\mathbf { h } \\mathbf { v } ) ^ { 2 } \\nu \\mathbf { s }$ .photon energy (hv) for ZnS nanospheres and common Zns "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bf33344c37a86f13b34f29a0f9f0390a4f5ccb3908d7b690df4c8351d9f7bf2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e071cd29f4d43a17f94445fab6b5aff080c97b760219c001aa3a6d51144a0801.jpg",
+        "img_caption": [
+            "Fig.4.Nitrogen absorption-desorption isotherm of (a) ZnS nanospheres and (b) Common ZnS.The insets correspond to the pore size distributions of the samples ",
+            "Fig.5．(a)Time-dependentUV-vis absorption spectraforthedegradationof MBover ZnS nanospheres under UV-light irradiation. (b) Degradation ratios of MB over $\\mathbf { z n s }$ nanospheres and common $\\mathbf { Z n S }$ under UV-light irradiation "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Facile Synthesis ofUniform Zinc-blende ZnS Nanospheres with Excellent Photocatalytic Activity toward Methylene Blue Degradation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PENG Si-Yan(彭思艳) YANGLiu-Sai(杨流赛） LV Ying-Ying(吕英英)YULe-Shu(余乐书） HUANGHai-Jin(黄海金) WU Li-Dan(吴丽丹)",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/085458d47f90fd38f1fdb8a1c9d887ab6223a53cb184c721eb92d4fe05175f8d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Uniform and well-dispersed ZnS nanospheres exhibit excellnt photocatalytic activity toward methylene blue degradation. The large specific surface area and hierarchical mesoporous structure are responsible for their excellent photocatalytic activity. ",
+        "page_idx": 9
+    }
+]

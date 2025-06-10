@@ -1,0 +1,137 @@
+# 抑菌剂浇施与不均匀施肥对玉米马铃薯生长和产量的影响
+
+李永贤；张晓云；张磊磊；李旺；吴开贤(云南农业大学农学与生物技术学院昆明 650201)
+
+摘要：农业生产中，肥料和抑菌性农药施用是两种重要的农业生产技术。在施肥过程中，点状和条状施肥是主要的施肥方式，易导致作物生长周期内土壤养分主要以斑块状分布，在这一情况下，根系趋肥性对养分的获取具有重要性。而在施用抑菌性农药时，药剂能够通过淋溶等过程进入土体中，能够对土壤生态环境和根-土过程产生直接或间接的影响。然而目前有关农药施用是否影响作物根系趋肥性，进而改变产量表现还不清楚。本研究选用旱地主要粮食作物玉米和马铃薯为研究对象，通过等量肥料下隔行施用的方式构建土壤养分斑块，在此基础上进行广谱性杀菌剂浇施土壤，研究抑菌性农药对作物利用异质性养分的影响。两年的大田试验数据表明，一定程度上，抑菌剂浇施和隔行施肥能够显著地影响作物的植株生物量、产量，根系生物量及分布，且对玉米生物量影响具显著交互效应，表现为隔行施肥对生物量的显著提高发生在抑菌剂浇施条件下，而抑菌剂对玉米生物量的提高则主要表现在隔行施肥条件下。同时，抑菌剂浇施能够提高作物的根系觅养精确度，其中在马铃薯上达到了显著水平，表明抑菌剂浇施对作物适应土壤养分斑块具有一定的促进作用。当然，抑菌农药和养分斑块在影响作物生长过程中的显著性受作物类型和种植年份的影响，具有复杂性。因此，进一步针对不同作物、生态环境和栽培措施，探讨抑菌剂农药在作物适应养分斑块中的作用以及对作物根系趋肥的影响机制具有必要性，这对于了解农药施用对化肥利用的影响具有潜在的价值。
+
+关键词：养分异质性；抑菌剂；根系趋肥性；土壤微生物；马铃薯；玉米
+
+# Effects of fungicide application and heterogeneous fertilization on the growth and yield of maize and potato
+
+LI Yongxian, ZHANG Xiaoyun, ZHANG Leilei, LI Wang,WU Kaixian (College of Agronomy and Biotecnology, Yunnan Agricultural University, Kunming 6502O1, China)
+
+Abstract:Inagriculture,fertilizerandfungicideapplicationaretwoimportant techiquesforighyield.Forthfertization,itis knowthat theblockandtrip-likefertilizatioarecommonpractice.These methodscanresult inthepatchesofsoilnutrients.Ithis case,thegrowthorientationofroots towardssoilnutrientsisimportantforabsorbingtheheterogeneous nutrient.Forthefungicide application,tefungicidecanpermeateintothesoil troughleaching,hichdirectlyorindirectlyaffectthesoilenvironmenandthe root-soil interactionHowever,itisotcearthatifsoilmicroorganismscanaectcropootgrowthorientationndyieldispaper conductedafieldexperimentin015and2016.The maizeand potato wereplanted toexplore herelationshipofsoilmicrorganisms and nutrientpatchesoncropgrowthand yield.Wefirstgeneratedthesoilnutrientpatchbytheinterlacedfertilization.Then,the broad-spectrum fungicides wereaplied bywatering.Thecrop yield,plantbiomass(includingroot)，rotbiomassandtheroot foraging precision weremeasured.Thetwoyearsfield experimentdemonstratedthat watering fungicidesand nutrientpatchescan significantlyafecttheplantbiomass，yieldrotbiomassandrotgrowthorientation.Importantly，weobservedasignificant interactionbetweenthefungicideandnutrientpatcheswithapositiverelationship.Thesignificantincrease inmaizeplantbioma resultedfromtheappicationoffungicideswasfoundundertheheterogeneous fertlizationcondition.Whilethesignificantincrease in maize plant biomass promoted by nutrient patches wasobserved whenthe fungicides was applied.Besides,theresults suggested thattheapplicationoffungicidecanbenefittheadaptationofcropstotheheterogeneousfertilization,becausethatboththeroot foragingprecisionofmaizeandpotato were promotedbytheaplicationoffungicide.Moreover,tere assignificant increase inthe rootforagingprecisionof potato.But,theeffectoffungicideand nutrient patches onplant growth wassignificantlyafectedbythe croptypesandplantigyears,andisomplex.Therefore,thefurterstudieswillbenecessarytoexploretheoleoffungicideonthe adaptionofcrop tonutrientpatchesandthemechanismonthegrowthorientationofrots towardssoil nutrients.Thesestudies shouldbe basedon thevariouscrops，ecological environmentsandcultivationpractices，which willbe potentialvalueto understanding the effects of pesticide application on the use of chemical fertilizers.
+
+Keywords:Nutrientheterogeneity;Fungicides;Rootgrowthorientationtowardssoilnutrients;Soilmcroorganisms;Potato;Maize
+
+化肥农药施用是农业生产中的主要物资投入，是现代农业发展的重要基础。然而，近年来化肥农药的投入已严重过量。据统计，目前中国每年化肥农药用量分别达到6022万t和178万t，居世界第一。其中，氮肥用量是世界平均水平的三倍。过量的化肥农药投入对农田及水体生态环境构成重大威胁，降低耕地地力和农业生物多样性，引发食物安全危机。目前，提高利用能力已被作为降低化肥农药高投入量的关键途径，其中通过肥药一体化相关技术实现化肥农药的减施增效正在引起关注。
+
+农业生产中，大多数农药施用时除了直接作用于作物地上部冠层，也能够通过雨水淋溶等途径进入根际土壤，从而影响作物根系生长。例如，抑菌剂的淋溶能够影响土壤微生物的存活、繁殖和种类构成[1-2]，进而调节植物根系对养分的吸收[3-4]。这一作用可能通过两种途径实现。一方面，植物对土壤养分的有效吸收和利用过程依赖于植株的健康程度，当植物受到病原性微生物侵害时，其肥料利用效率大幅度降低，导致不必要的化肥投入；另一方面，土壤微生物多样性[5]，以及一些与植物根系具有共生关系的土壤微生物(如菌根真菌)，对作物吸收、转化、运输养分具有重要的促进作用。因此，研究土壤微生物与植物营养的关系历来受到重视，且有大量研究报道[7-8]。
+
+事实上，在作物根际土壤环境中，受穴/条施肥、耕作，浇水等农艺措施的影响，土壤养分表现为高度的空间异质性[9-10]，即养分斑块。研究已证实，不论是在自然生态系统还是农田中，土壤养分斑块可改变根系对养分的吸收利用和生长表现[1-12]。在这一现象中，土壤微生物可能在两方面参与调控。一是由于根系为适应异质分布的环境资源，其生长常常选择性地集中在高养分斑块中，即具有趋肥性。这一过程会伴随在高养分斑块内根系分泌物增加[13]，生物量、分支数和比根长[9]也增加。这些根系生理和形态变化能强化根际病原微生物活性和增殖14，可能导致高养分斑块内根系对病原侵染更敏感。另一方面，土壤养分异质性也会影响土壤微生物的活性驱动土壤微生物物种和功能多样性的增加[15-16]，特别是菌根真菌及其多样性[17]进而改变作物生长[5]。因此理论上可以推测，抑菌性农药的淋溶及其伴随的土壤微生物变化与土壤养分异质性在影响作物生长过程中存在相互关系。
+
+本研究选用旱地主要粮食作物玉米(ZeamaysL.)和马铃薯(Solanum tuberosum L.)为研究对象，通过隔行施肥的方式构建土壤养分斑块，在此基础上浇施广谱性杀菌剂，研究抑菌性农药的使用及其可能伴随的土壤微生物变化是否调节作物根系的趋肥性及觅养能力，以期为农业生产中化肥农药施用方式、时期、位置等技术环节提供一定的理论参考。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验于 2015 年和 2016 年，在云南省昆明市寻甸县大河桥乡云南农业大学试验教学基地 $( 2 5 ^ { \circ } 3 1 ^ { \prime } 0 7 ^ { \prime \prime } \mathrm { N } .$ $1 0 3 ^ { \circ } 1 6 ^ { \prime } 4 1 ^ { \prime } \mathrm { E } )$ 进行，该地区海拔 $1 8 6 0 \mathrm { m }$ ，年平均气温 $1 4 . 7 ~ \mathrm { ^ { \circ } C }$ ，年均降水量 $9 6 0 . 0 \mathrm { { m m } }$ ，降水主要集中在5—9月，属亚热带高原季风气候。该地区土壤为水改旱红壤，前茬作物为蚕豆(Vicia fabaL.)。试验前取 $0 { \sim } 2 5 \ \mathrm { c m }$ 根层土样，运用常规方法分析土壤养分含量。土壤基本肥力状况为有机质含量 $2 2 . 9 7 \ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，全氮 $1 . 0 9 \mathrm { g { \cdot k g ^ { - 1 } } }$ 水解性氮 $9 0 . 1 0 \mathrm { m g \cdot k g ^ { - 1 } }$ ，全磷 $0 . 8 2 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，有效磷 $1 0 . 7 4 ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，全钾 $1 9 . 0 7 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，有效钾 $1 4 3 . 6 6 \mathrm { m g \cdot k g ^ { - 1 } }$ ,pH为7.92。
+
+# 1.2 试验设计
+
+试验选择主要旱地粮食作物玉米‘云瑞88'和马铃薯‘会-2'为研究材料，所选的两个品种均为试验所在地的主栽品种。针对两个作物，设施肥方式和抑制剂浇施方式两因素，其中施肥方式含两个水平，分别为均匀施肥(每行施肥)和不均匀施肥(隔行施肥)(图1)，微生物抑制剂浇施方式也含两个水平，分别为浇施广谱性土壤微生物抑制剂和对照(浇施等量清水)。试验中各作物有4个处理组合，重复3次，两作物共24个小区，按随机区组布置。
+
+肥料及位置Fertilizer placement均匀施肥 EER&EE E&&l& &&& && &g&& &8&8& &g&8 E8&&Homogeneity隔行施肥 88 8& & && W& CEB& & &Heterogeneity
+
+不均匀施肥通过隔行沟施控释性复合肥(沃夫特包膜控释肥 N26,P11,K11)来实现，该沟施法能够构建有效持久的养分斑块，也是当前生产中农户普遍采用的常规模式。操作时选择作物苗期，在行间开出 7\~8cm 深的窄沟，沟施后盖 $4 { \sim } 5 ~ \mathrm { c m }$ 表土覆盖。均匀施肥和隔行施肥的肥料用量均为播种前一次性施入600$\mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。土壤微生物抑制通过交替(每隔15天)浇施广谱性土壤微生物抑制剂多菌灵(国光, $5 0 \%$ 可湿性粉剂)和代森锰锌(国光, $70 \%$ 可湿性粉剂)来实现(均为双倍推荐剂量)。从作物苗期(玉米5叶龄期，马铃薯平均株高 $8 ~ \mathrm { c m } _ { , } ^ { \cdot }$ 开始，每隔15天用喷水壶均匀浇施一次(两种抑菌剂交替施用)，直至作物成熟(马铃薯成熟期地上部 $5 0 \%$ 枯死；玉米腊熟期)。浇施时间选择晴天早上进行。
+
+试验小区面积 $4 . 0 ~ \mathrm { m } \times 5 . 0 \mathrm { ~ m ~ }$ 。马铃薯播种期分别为2015年3月18日和2016年3月25日，行距和株距分别为 $4 0 \mathrm { c m }$ 和 $3 5 \mathrm { c m }$ ，东西行向，开沟播种，播深 $1 0 { \sim } 1 2 ~ \mathrm { c m }$ ；玉米播种期分别为2015年4月15日和2016年4月18日，行距和株距分别为 $4 0 \mathrm { c m }$ 和 $3 5 \mathrm { c m }$ ，东西行向，开沟播种，播深 $4 { \sim } 5 \mathrm { c m }$ 。试验期间，每月进行一次除草，同时适时浇水和病虫害防治。
+
+# 1.3 采样与观测
+
+作物生长至开花盛期时，将三分之一小区用于进行生物量和根系生长特征的观测。从每小区三分之一的区域内随机选取15株，齐地面取走地上部分， $8 0 ~ \mathrm { ^ { \circ } C }$ 下烘至恒重测定地上部分生物量。然后取根系(包括马铃薯块茎)。根系取样采用挖掘法进行，操作时用铁锹以植株为中心，以行距和株距中点线为边界，挖掘出根土混合体(马铃薯为长 $\times$ 宽 $\times$ 高 $\mathsf { i } { = } 2 0 \mathsf { c m } { \times } 1 6 . 5 \mathsf { c m } { \times } 2 5 \mathsf { c m }$ ，玉米为长 $\times$ 宽 $\times$ 高为 $2 0 \mathrm { c m } { \times } 1 6 . 5 \mathrm { c m } { \times } 3 0 \mathrm { c m } )$ 。并在田间条件下进行初步的根土分离，然后用自来水管冲洗，获得为根系样品。为评估不均匀施肥处理下作物根系的觅养精确度(高养分区根系生物量与低养分区根系生物量的比值)，田间标记根系的生长方向及所在养分区域，带回室内时沿行向中间线切开，获得不同区域的根样。最后将所有根样(包括马铃薯块茎)在 $7 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下烘至恒重测定干重。作物成熟时，对剩余的三分之二小区进行测产，其中马铃薯为鲜重，玉米在小区鲜产量的基础上，各处理随机选取8株烘干，计算鲜干比和出籽率，最后用 $14 \%$ 含水量进行校正，获得产量数据。
+
+# 1.4 数据处理与统计
+
+采用 SPSS19.0对所有指标进行方差分析，其中分析产量和生物量时，以养分分布和土壤微生物处理为固定因素，而分析觅养精确度时以微生物处理为固定因素。显著水平均为 $\scriptstyle { \mathfrak { a } } = 0 . 0 5$ ，分析前对方差不齐的变量进行自然对数转换。采用Duncan 法进行处理间的多重比较。
+
+# 2结果与分析
+
+# 2.1抑菌剂浇施与施肥方式对作物产量的影响
+
+抑菌剂浇施与施肥方式能够显著地影响作物产量，但其效应随作物类型和种植年份不同而变化(图 2,表 1)。从马铃薯来看，在2016年，田间抑菌剂浇施能够显著提高产量，而隔行施肥对产量影响不显著，且从趋势上未提高马铃薯产量；2015年，抑菌剂浇施与否对产量的影响没有达到显著水平；不论是否浇施抑菌剂，施肥方式均显著地提高马铃薯产量。从玉米来看，在2015年，抑菌剂浇施能显著提高产量，而在2016年却未达到显著水平；施肥方式对产量的影响在2015年和2016年均未达到显著水平。
+
+![](images/48974ba91d407c5c310eb5b81f6255e311b484feff8d2c79f45cf4d0f0319963.jpg)  
+图2抑菌剂浇施与隔行施肥对玉米马铃薯产量的影响
+
+Fig.2Effects of watering fungicide and heterogeneous fertilization on the biomassof maize and potato
+
+处理间不同小写字母表示同一年份内差异显著(Duncan, $\scriptstyle P \leqslant 0 . 0 5$ 。Different lowercase letters indicate significant differences among treatments in aear (Duncan, $\scriptstyle P \leqslant 0 . 0 5$ ）
+
+表1抑菌剂浇施与隔行施肥对玉米马铃薯生长和产量影响的方差分析(P值)表  
+Table1Varianceanalysisfortheeffectsof wateringfungicideandheterogeneous ferilizationonthegrowthandyieldof maize   
+
+<html><body><table><tr><td colspan="6">and potato</td></tr><tr><td></td><td></td><td></td><td colspan="3">试验因素</td></tr><tr><td>观测指标</td><td>作物</td><td>年份</td><td colspan="3">Experimental factors</td></tr><tr><td>Parameter</td><td>Crops</td><td>Year</td><td>微生物抑菌剂</td><td>养分异质性</td><td>微生物抑菌剂x养分异质性</td></tr><tr><td></td><td></td><td></td><td>fungicide (S)</td><td>Nutrient heterogeneity (N)</td><td>SxN</td></tr><tr><td>觅养精确度</td><td>马铃薯 Potato</td><td>2016</td><td>0.049</td><td>/</td><td>/</td></tr><tr><td>Foraging precision</td><td>玉米Maize</td><td>2016</td><td>0.889</td><td>/</td><td>/</td></tr></table></body></html>
+
+<html><body><table><tr><td>根系生物量 Root biomass</td><td>马铃薯 Potato</td><td>2016</td><td>0.034</td><td>0.972</td><td>0.860</td></tr><tr><td rowspan="4">植株生物量</td><td rowspan="4">玉米 Maize 马铃薯 Potato</td><td>2016</td><td>0.297</td><td>0.348</td><td>0.343</td></tr><tr><td>2016</td><td>0.013</td><td>0.808</td><td>0.664</td></tr><tr><td>2015</td><td>0.018</td><td>0.225</td><td>0.913</td></tr><tr><td>2016</td><td><0.001</td><td>0.133</td><td>0.006</td></tr><tr><td rowspan="4">产量</td><td rowspan="2">玉米Maize 马铃薯 Potato</td><td>2015</td><td>0.028</td><td>0.741</td><td>0.686</td></tr><tr><td>2016</td><td>0.019</td><td>0.052</td><td>0.914</td></tr><tr><td rowspan="2"></td><td>2015</td><td>0.520</td><td>0.013</td><td>0.784</td></tr><tr><td>2016</td><td>0.168</td><td>0.556</td><td>0.373</td></tr><tr><td>Yield</td><td>玉米Maize</td><td>2015</td><td>0.001</td><td>0.343</td><td>0.582</td></tr></table></body></html>
+
+粗体表示同一年份下，不同处理间差异在o.0水平显著。TheboldtextindictedthedferencebetweetreatmentswassignificantatO.05levelione
+
+# 2.2抑菌剂浇施与施肥方式对植株生物量的影响
+
+一定程度上，抑菌剂浇施与施肥方式对作物生物量均有显著影响，且两者间存在一定的交互效应，但其效应随作物类型和种植年份而变化(表1，表 2)。从马铃薯来看，不论均匀施肥还是隔行施肥，两年试验数据均显示田间浇施土壤微生物抑制剂能够显著地提高生物量。相反，不论是否浇施土壤微生物抑制剂，隔行施肥形成的养分斑块对植株生物量在两年间均无显著影响。从玉米来看，不论均匀施肥还是隔行施肥，2015 年浇施抑菌剂均显著地提高生物量；但在 2016 年，其显著的促进效应主要存在于不均匀施肥条件下，在均匀施肥条件下未达到显著水平。2015年不均匀施肥对玉米生物量的影响不显著，而在2016年，在未浇施微生物抑制剂的情况下，不均匀施肥对生物量的影响未达到显著水平，但在添加微生物抑制剂时，不均匀施肥能够显著地提高玉米生物量。
+
+表2抑菌剂浇施与隔行施肥对玉米马铃薯生物量(g)的影响  
+Table 2Effects of watering fungicide and heterogeneous fertilization on the biomass (g)of maize and potato   
+
+<html><body><table><tr><td>作物</td><td>年份</td><td colspan="2">均匀施肥 Homogeneity</td><td colspan="2">不均匀施肥 Heterogeneity</td></tr><tr><td>Crops</td><td>Years</td><td>CK</td><td>Fungicide</td><td>CK</td><td>Fungicide</td></tr><tr><td>马铃薯</td><td>2016</td><td>68.59±8.40 a</td><td>85.94±8.79 b</td><td>66.62±10.40 a</td><td>83.77±6.91 b</td></tr><tr><td>Potato</td><td>2015</td><td>94.62±5.05 a</td><td>104.55±3.84 b</td><td>99.44±3.47 a</td><td>110.31±4.59 b</td></tr><tr><td>玉米</td><td>2016</td><td>117.01±8.55 a</td><td>126.42±8.84 a</td><td>105.96±7.90 a</td><td>163.64±10.77 b</td></tr><tr><td>Maize</td><td>2015</td><td>187.86±7.72 a</td><td>202.83±7.23 c</td><td>188.34±5.17 a</td><td>204.69±7.49 c</td></tr></table></body></html>
+
+MI:浇施土壤微生物抑制剂,CK：对照；同行不同小写字母表示同一年份下处理间差异显著(Duncan, $\scriptstyle P \leqslant 0 . 0 5$ ）。Different letters in a row showsignificant difference among treatments in one year (Duncan, $\scriptstyle P \leqslant 0 . 0 5 ,$ ：
+
+# 2.3抑菌剂浇施与施肥方式对作物根系生长与觅养精确度的影响
+
+在不均匀施肥形成的养分斑块和土壤微生物的相互作用下，根系生长量及分布是影响作物生产力的关键。2016年，不论玉米还是马铃薯，抑菌剂浇施与否和施肥方式均未显著影响两作物的根系生物量(图3，表1)。然而，从不均匀施肥情况下的根系分布来看，浇施土壤微生物抑制剂能够提高作物的觅养精确度，其中对于马铃薯的觅养精确度促进效应达到了显著水平(图4，表1)。这一结果表明，土壤微生物可能抑制作物根系对养分斑块的觅获潜力。
+
+![](images/9d8f5cecbce060f88a47fc64310059ac0784fa1d1da6cf33e28086e0c105c6e4.jpg)  
+Fig.3Effects of watering fungicide and heterogeneous fertilization on root biomass of maize and potato (2016) 处理间不同小写字母表示差异显著(Duncan, $P { \leq } 0 . 0 5 )$ 。Different lowercase letters indicate significant difference among treatments (Duncan, $P { \leq } 0 . 0 5$ 1
+
+![](images/fab4f6ce9bdb97c41473983c2a03ffcbbc6babdd3bdcf5a9d7d46508f152e1a0.jpg)  
+图3抑菌剂浇施与隔行施肥对玉米马铃薯根系生物量的影响  
+图4抑菌剂浇施对玉米和马铃薯根系觅养精确度的影响(2016年)  
+Fig.4Effects of watering fungicide on the root foraging precision of maize and potato (2016)
+
+处理间不同小写字母表示差异显著 $\scriptstyle \left. { P \leqslant 0 . 0 5 } \right)$ 。Different lowercase letters indicate significant difference among treatments ( $\scriptstyle \mathbf { \overbrace { \mathbf { } } P \leqslant 0 . 0 5 } )$
+
+# 3讨论
+
+本研究以主要旱地粮食作物玉米和马铃薯为研究材料，通过两年的田间试验，发现抑菌剂浇施与施肥方式在影响作物生长过程中具有一定的交互效应，表现为在促进玉米生物量的过程中，抑菌剂浇施与隔行施肥间存在相互促进的作用。同时，浇施抑菌剂对作物根系觅养能力有促进作用，提高作物生物量。研究初步表明广谱性杀菌剂农药的施用能够影响作物对斑块状分布养分的吸收和利用，对于促进化肥农药的施用效果有一定的参考价值。
+
+当然，抑菌剂浇施与隔行施肥的交互效应随作物类型和种植年份变化，表明化肥与影响土壤微生物的农药在施用效应上的内在联系具有复杂性。若从气候因素来看，温度、水分和空气许多因素均可能带来影响。例如，降水差异导致土壤水分含量变化，改变土壤养分和抑菌剂的可移动性，可能使得微生物与养分斑块效应的关系出现差异；土壤温度和含水量均可影响根系活力和土壤微生物繁殖[2.13]，使得养分斑块对微生物的影响发生改变[8]；抑菌剂在土壤中的降解、挥发和作用维持时间也与气候有关[19]。由于试验过程中未对气候特征参数及其与作物根系觅养的关系进行观测并研究，上述推测有待于验证。从作物类型来看，可能与作物对异质性养分和土壤微生物的适应特征有关。
+
+异质养分条件下根系觅养能力是决定作物生长和产量表现的重要参数。本研究发现抑菌剂浇施对玉米和马铃薯根系觅养能力具有抑制作用。抑菌剂可能通过许多途径来影响植物根系，主要可能通过微生物抑制、土壤动物调节，或者作为植物生长调节剂发挥作用。然而，目前有关土壤动物和植物生长调节剂是否以及如何调节植物根系趋肥性的研究报道不多，其可能的作用不清楚。而对于土壤微生物，由于本研究中并未直接观察其变化特征，因此对于抑菌剂浇施是否通过土壤微生物调节来影响植物根系趋肥，以及深层次的作用过程只能进行理论推测。
+
+如果抑菌剂浇施通过土壤微生物调节来影响植物根系趋肥，其可能的原因是作物觅养过程中，根系分泌物质及根系周转加快，会激发特异性微生物的生长，导致根系病害[13]。然而，试验中并未发现该条件下根系存在明显的病害症状。因此，我们可以从另外两个角度来理解这一行为。一方面，养分斑块的形成促进有益的微生物例如菌根真菌，这些微生物可以充当根毛，起到类根系的作用[20]，或降低觅养过程中根系病害[2]，从而降低了作物根系生长投入的必要性。另一方面，养分斑块提高了土壤根际生态环境的多样性，从而直接或间接地促进微生物多样性的形成[15-16]，降低作物根系的病害发生，提高其根系活力，增强对养分的生理吸收能力。已有研究也表明，觅养精确度的提高并不必然促进养分的利用[22]，而且根系的生理可塑也可以改变养分的吸收。这也部分地解释为什么本研究中隔行施肥条件下，作物的产量和生长量并没有伴随觅养精确度提高而显著增加。因此，进一步研究土壤微生物对作物利用异质性分布养分的生理特征具有必要性。
+
+值得一提的是，植物对异质性分布养分的觅获能力具有较强的物种特异性[23]。对于玉米来说，农业生产中，采用撒施实现均匀施肥的较少，更多的是在植株单侧进行隔行条施、穴施、点施。这些施肥方法通常被认为能够提高作物的养分吸收效率。但本研究初步表明，玉米对养分斑块的觅养精确度略高于马铃薯，玉米对隔行施肥具有一定适宜性，但对马铃薯则传统的每行施肥可能更合适，因为其根系有一定的避肥性，产量潜力难以释放。根据本研究初步结果，建议马铃薯施肥采用植株双侧施肥，但对于玉米来说，可进行隔行施肥。这不仅能够提高养分利用，还一定程度地能降低劳动力投入，促进轻简栽培发展，这对于机械化程度低、劳动力日益短缺的山区农业生产具有一定实际价值。当然，不论是玉米还是马铃薯，在进行常规施肥(不均匀)的同时，进行土壤消毒，或者根据田间病害情况与抑菌性农药施用相结合，对于提高肥料的利用具有促进作用。
+
+# 4结论
+
+本研究以玉米和马铃薯为研究材料，通过两年的大田试验研究，发现抑菌剂浇施与隔行施肥在影响玉米生长中存在一定的交互效应，表现为两者有相互促进的现象。同时，初步明确了在隔行施肥条件下，抑菌剂浇施对玉米和马铃薯根系觅养能力有促进作用，可一定程度地提高植株生长表现。鉴于试验处理效应的显著性因作物类型和种植年份的不同而有差异，抑菌剂浇施和隔行施肥在影响玉米和马铃薯生长和产量过程中具有复杂性。因此，进一步针对不同作物、生态环境和栽培措施，探讨抑菌剂农药在作物适应养分斑块中的作用具有必要性；有必要揭示抑菌剂对作物根系趋肥的影响机制，例如具体的土壤微生物调节过程，是否存在作为植物生长调节剂发挥作用等，这对于了解农药施用对化肥利用的影响具有潜在的价值。
+
+# 参考文献References
+
+[1]谢慧，朱鲁生，谭梅英.哌虫啶在土壤中的降解动态及对土壤微生物的影响[J].土壤学报,2016,53(1):232-240. Xie H,ZhuLS,TanMYDegradationdnamicsofIPPinsoilanditseffectsonsoilmicroorganisms[J].Acta PedologicaSinica. 2016,53(1): 232-240.   
+[2]SchusterE,SchrderD.Sideectsofsquentiall-appedpesticidesonnon-targetsoilmcroorgaisms:fieldexpents[J]. Soil Biology & Biochemistry.1990,22(3): 367-373.   
+[3]韦莉莉，卢昌熠，丁晶，等．丛枝菌根真菌参与下植物一土壤系统的养分交流及调控[J].生态学报．2016,36(14): 4233-4243. Wei LL,LuCYDing J,YuS,etal.Functionalrelationshpsbetweenarbuscularmycohialsymbiontsandutrientdyamics in plant-soil-microbe system[J]. Acta Ecologica Sinica. 2016,36(14): 4233-4243.   
+[4]WeidnerS,ollr,atzE,aBactealivsityplsurntbsedplatsoiebcks[J].unctialEoog, 29(10): 1341-1349.   
+[5]CavagnaroTR,SmithFASmithSE,etal.Functional diversityinarbuscularmycorzas:exploitationofsoilpatcheswith diferent phosphate enrichment differs among fungal species[J].Plant, Celland Environment.20o5,28(5): 642-650.   
+[6]Hodge A.Theplasticplant:ootresponses toeterogeneoussuppiesofutrients[J].Newhytologist.O4,62(1):9-24.   
+[7]Smith SE,SmithFA.Roles ofarbuscular mycorrhizas in plant nutritionand growth: new paradigms fromcelulartoecosystem scales[J]. Annual Review of Plant Biology. 2011, 62(1): 227-250.   
+[8]DoddIC,Ruiz-LozanoJM.Microbialenhancementof cropresourceuseeficiencyJ]. Currnt OpinioninBiotechnology012, 23(2): 236-242.   
+[9]JinH,PfeferPE,DoudsDD,etal.Theuptake,metabolism,transportandtrasferof nitrogeninanarbuscularmycoizal symbiosis[J]. New Phytologist. 2005,168(3): 687-696.   
+[10]JacksonRBC.Thescaleofnutrient heterogeneityaroundindividualplantsanditsquantificationwithgeostatits[J].Ecology. 1993, 74(2): 612-614.   
+[1]WijesinghDK,JonEA,Hutchngs MJ.Doespateofsoilresourceeterogeeitydetermine plantcommuitystructure?An experimental investigation[J]. Journal of Ecology. 2005,93(1): 99-112.   
+[12] 吴开贤，安瞳昕，范志伟，等．土壤氮异质性与种间地上竞争对玉米和马铃薯生长的影响[J].中国生态农业学报. 2012(12): 1571-1578. Wu K X,AnTX,FanZW,etal.Mazeandpotato growthresposes toeterogeneous nitrogenandsootcompetitionJ].Cinese Journal of Eco-Agriculture. 2012(12): 1571-1578.   
+[13]Heinze J,GenschS,WeberE,etal.Soiltemperature modifiesefectsofsoi-biotaonplantgrowth[J].JouaofPlantEcology. 2016,10(5): 808-821   
+[13]PatersonE.RootexudtionfrohordeumvugareinesponsetolocaizednitratesupplyJ].JoualofExperimentalBotay6, 57(10): 2413-2420.   
+[14]SikesBA,CotenieK,KlironomosJN.Plantandfungalidentitydeterinespathognprotectionofplantrotsybuscular mycorrhizas[J]. The Journal of Ecology. 2009, 97(6): 1274.   
+[15]HoeksemaJD,ChaudharyVB,GehringCA,etal.Ametaanalysisofcontext-dependencyiplantresponsetoinoculatiowith mycorrhizal fungi[J]. Ecology Letters. 2010,13(3): 394-407.   
+[16] Delgado-baquerizoM,ReichPB,KhachaneAN,et al.Itiselemental: soil nutrient stoichiometrydrivesbacterial diversity.[J]. Environmental Microbiology. 2017,19(3): 1176-1188   
+[17]Boldt-burisch K,Naeth MA.MycorzationafectsootdistributionofLotusoricultusand Calamagrostis epigeios ina nutrient poor heterogeneous soil in a rhizotron experiment[J]. Rhizosphere. 2017,4(10): 36-47.   
+[18]Boldt-BurischK,Naeth MAHeterogeneoussoilconditions influencefungal alkalinephospataseactivityinrootsof Lotus corniculatus[J]. Applied Soil Ecology.2017,116: 55-63.   
+[19] 杜丽亚，章钢娅，靳伟.土壤含水量和胡敏酸对有机氯农药降解的影响[J].土壤学报.2006,43(2):332-336. Du L Y,Zhang G Y,Jin W.Efects ofsoil water content and humic acidon degradationof organochlorinepesticides[J].Acta Pedologica Sinica. 2006,43(2): 332-336.   
+[20]LiuB,LiHZu,etaComlemtarityitrfagigsategsofbotefeotsbsarycalui across 14 coexisting subtropical tree species[J]. New Phytologist. 2015,208(1): 125-136.   
+[21] Newsham KK,FiterAH, WatkinsonAR.Arbuscular mycorhza protectananual grassfromoot pathogenicfungiinthe field.[J]. Journal of Ecology. 1995,83(6): 991-1000.   
+[22]MaestreFTradfordM,ReyldsJFSoileterogeeityndommunityompositionjtlyifluence grassandioass[]. Journal of Vegetation Science. 2006,17(3): 261.   
+[23]LiH,Ma QLiH,etal.Rootmorpholoicalresponses tolocalizedutrietsupplydieramongrospeies ithcotrastigoot traits[J]. Plant and Soil. 2014,376(1-2): 151-163.

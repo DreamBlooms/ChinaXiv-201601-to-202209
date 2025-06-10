@@ -1,0 +1,89 @@
+临床研究
+
+# 颅内多发动脉瘤的诊断与治疗策略
+
+王刚，冯文峰，张国忠,李明洲，何小艳，彭四维,漆松涛南方医科大学南方医院神经外科，广东广州510515摘要：目的探讨颅内多发动脉瘤的影像学特点、诊断与治疗策略。方法回顾性分析96例共234枚颅内动脉瘤的临床及影像学特点，结合头颅CT提示的蛛网膜下腔出血模式及DSA结果判定责任动脉瘤。对责任动脉瘤均采取显微夹闭术或者血管内介人栓塞术积极治疗，对于非责任动脉瘤予以选择性治疗。结果96例多发动脉瘤行栓塞治疗56例，夹闭治疗28例，未治疗12例。44例一期治疗所有动脉瘤，4例分期处理所有动脉瘤,36例仅治疗责任动脉瘤。接受治疗的84例患者，出院时预后格拉斯哥预后评分（GOS)评分5分62例，4分12例，3分8例，1分2例。术后6个月DSA随访30例，1例复发接受再治疗，余29例治疗效果稳定。结论 颅内多发动脉瘤应在诊断全面的基础上，正确判断责任动脉瘤并积极治疗,对于非责任病灶需要综合评估出血风险，采取个体化治疗措施，尽量一期治疗所有动脉瘤，减少再出血风险。
+
+关键词：脑疾病;多发动脉瘤
+
+# Diagnosis and treatment of multiple intracranial aneurysms
+
+WANGGang,FENGWenfeng,ZHANGGuozhong,LIWeiguang,LIMingzhou,HEXiaoyan,PENGSiwei,QSongtao DepartmentofNeurosurgery,NanfangHospital,Southern Medical University,Guangzhou 51o5l5,China
+
+Abstract: Objective To explore the diagnosis and treatment strategy of multiple intracranial aneurysms (MIA). Methods We retrospectively analyzed 96 patients with MIA (234 aneurysms).The rupture site was determined on the basisof computed tomographic and angiographic findings,and the supposed ruptured aneurysm was treated with coiling OR clipping. Althe patients'records werereviewed including allcomputed tomographic scans and angiograms. Results Twelve patientsreceived conservativetreatment,56 patients were treatedbyendovascularembolization,nd28 patients received clipping; 44 patients receivedone-stage treatment,and 4 patients needed a second therapy.In 36 patients,onlytheruptured aneurysm was eliminated.Theclinicaloutcomesofthese84 patients evaluatedby GlasgowOutcomeScale grades were: absenceof deficits in 62 patients,minordeficits in1patientsajordeficitin8patients;deathocuedin2ase.irtypatientswerevalablefor a 6-month follow-upwithDSA,whichrevealedstableocclusionof theaneurysms in29patientsandtheneedof aretreatment dueto recanalization inonlyonepatient. Conclusion Corrct localization of the rupture aneurysm based ona comprehensive diagnosisiskeytoMIAtreatment.Allthe aneurysms should be treated inone session whenever possbletoprotectthe patient from rebleeding.
+
+Key words: multiple intracranial aneurysms; diagnosis; treatment strategy
+
+颅内多发动脉瘤(MIA)是指2个或2个以上动脉瘤，临床常见。由于动脉瘤数量的增加及空间分布的多样性，MIA一直是颅内动脉瘤治疗的难点之一。南方医院神经外科2006年7月\~2012年11月共收治MIA患者96例，现总结相关诊断及治疗经验如下。
+
+# 1资料和方法
+
+# 1.1一般资料
+
+2006年7月\~2012年11月共收治736例颅内动脉瘤，其中MIA96例(共234枚动脉瘤)，占 $1 3 . 1 \%$ 。女性62例，男性34例，男：女比例1:1.8;年龄29\~80岁，平均
+
+55.6岁。以颅神经症状起病1例，偶然发现未破裂多发动脉瘤7例,蛛网膜下腔出血(SAH)起病88例。Hunt-Hess分级：0级8例，I级2例，Ⅱ级28例，Ⅱ级42例，V级12例，V级4例。所有患者均行DSA全脑血管造影术，69例有2枚动脉瘤！ $( 7 1 . 9 \%$ ),19例有3枚动脉瘤（ $1 9 . 8 \%$ ),3例有4枚动脉瘤 $( 3 . 1 \% )$ ),3例有5枚动脉瘤 $( 3 . 1 \%$ )，2例有6枚动脉瘤 $( 2 . 1 \%$ )。234例动脉瘤中223例均位于前循环 $( 9 5 . 3 \% )$ ),11例位于后循环 $( 4 . 7 \% )$ 。其中前交通动脉瘤30例 $( 1 0 . 7 \% )$ ，大脑中动脉瘤42例 $( 1 7 . 9 \% )$ ，后交通动脉瘤72例 $( 3 0 . 7 \% )$ ，颈内动脉分叉部动脉瘤5例$( 2 . 1 \% )$ ，颈内动脉海绵窦段动脉瘤13例 $( 5 . 5 \% )$ )，颈内动脉床突上段动脉瘤13例 $( 5 . 5 \% )$ )，颈内动脉-眼动脉瘤9例 $( 3 . 8 \% )$ ,颈内动脉-垂体上动脉瘤4例 $( 1 . 7 \% )$ ，大脑前动脉瘤15例 $( 6 . 4 \% )$ ,脉络膜前动脉瘤16例 $( 6 . 8 \% )$ ，大脑后动脉瘤3例 $( 1 . 3 \% )$ ，小脑上动脉瘤1例 $( 0 . 4 \% )$ ，椎动脉瘤1例 $( 0 . 4 \% )$ ，基底动脉尖端动脉瘤6例 $( 2 . 6 \%$ 。
+
+# 1.2 责任动脉瘤判定
+
+(1)以SAH起病：血管造影发现与CT提示的血液凝聚位置相符合的动脉瘤；如果CT无局灶性血凝块，或者在血凝块分布位置存在多发动脉瘤，则考虑动脉瘤形态最不规则和(或)体积最大的动脉瘤为出血病灶;动脉瘤影像特征中，形态不规则(分叶，子囊形成等)比动脉瘤大小更具预测意义，其中动脉瘤子囊形成为最重要因素；(2)无出血史的MIA，根据颅神经症状及动脉瘤位置判定责任动脉瘤;(3)无症状性MIA，根据影像学特点预测出血风险最高的动脉瘤为责任动脉瘤，如动脉瘤形态不规则，或者动脉瘤大小超过 $5 \mathrm { m m }$ 。根据上述标准，96例MIA责任动脉瘤分布为前交通动脉瘤25例 $( 2 6 \%$ ），后交通动脉瘤35例 $3 6 . 4 \%$ ），大脑中动脉瘤15例1 $( 1 5 . 6 \% )$ ,颈内动脉分叉部4例 $( 4 . 1 \% )$ ，基底动脉尖部3例$( 3 . 1 \% )$ ，颈内动脉床突段动脉瘤6例 $( 6 . 2 \% )$ ，颈内动脉垂体上动脉瘤2例 $( 2 . 1 \% )$ ，大脑前动脉瘤3例 $3 . 1 \% \cdot$ ，右侧椎动脉瘤1例 $( 1 . 0 \% )$ ,大脑后动脉瘤2例 $( 2 . 1 \% )$ 。
+
+# 1.3 治疗方法
+
+责任动脉瘤处理后均予尼膜同持续静脉泵注 中 $2 0 \mathrm { m g / d }$ ,持续2周),并予3H疗法，间断行腰穿释放血
+
+性脑脊液并等量生盐水置换促进脑脊液循环。夹闭治疗组病情稳定后(1周)复查DSA脑血管造影术。
+
+# 2结果
+
+本组96例MIA行栓塞治疗56例，夹闭治疗28例，12例因家属拒绝手术而未行治疗。44例一期治疗所有动脉瘤，4例分期处理所有动脉瘤，36例仅治疗责任动脉瘤。出院时预后格拉斯哥预后评分(GOS)评分5分(恢复良好)62例，4分(轻残)12例，3分(重残)8例，1分(死亡)2例。术后6个月DSA随访30例，1例复发接受再治疗，余29例治疗效果稳定(图1，2)。
+
+# 3讨论
+
+MIA约占颅内动脉瘤的 $5 \% \sim 3 4 \% ^ { [ 1 - 4 ] }$ ，多见于50岁以上的女性，男女比例约为 $1 { : } 3$ 。高血压、吸烟史、家族行脑血管疾病史、女性及绝经期均与MIA存在显著相关性5。本组病例MIA发病率为 $1 3 . 1 \%$ ，动脉瘤多位于前循环 $( 9 5 . 3 \%$ ),绝大部分以SAH起病 $( 9 0 . 6 \%$ ，并以2枚动脉瘤居多 $( 7 1 . 9 \% )$ ),与国内外文献报道结论一致[2.6]
+
+DSA目前依然是颅内动脉瘤诊断的金标准，
+
+![](images/1a12458e7df641dae6f35273669c244a0b353880432ff299b8637aced2597f97.jpg)  
+图1多发动脉瘤栓塞治疗  
+Fig.1Embolizationofmultipleintracranialaneurysms.A:ThepreoperativeCTshowedsubarachnoidhemorrghewithfocal acumultionofaclotintherightsylviancisterm.B-D:DSArevealed2aneurysms,andtherightmiddlecerebralaneurysm was consideredastherupturesiteduetoitspresenceofadaughterloculusaswellasthelocalizedclotjustaroundtheaneurysm.The multilobulatedappearanceofteleftcommunicaigrteyaurmidcatedigisofupture.ESten-asistedcoilmbolatin of therightMCAaneurym.F:Stent-asstedcoilembolzationoftheleftcommucicatingarteryaneurysm.G-H:DAfollo-upatoeyar showed stable embolization of the multiple aneurysms.
+
+![](images/8fd572e9362e065b3519f0613b425b4ddc743d44fa12ecde60081bd2b72f9d0c.jpg)  
+图2多发动脉瘤夹闭术  
+Fig.2Microsurgicalclippngofmultipleintracranialaneurysms.A:ThepreoperativeCTshowedsubarachnoidhemoraghewith focal accumulationoflotinteleftsyvianste.-C:Arvealedaneursmsndtedstalmidlecerebalaeuysmasderd astherupturesiteduetoitsiregularsape.D-E:Bothaneurysmwascippedatonestagevialeftpterionaaproach.F:ostoperatie angiographyshowednoresidualaneurysms.G-H:DSAfolow-upatone yearshowedstablecompletcliping ofthemultipleaneurysms.
+
+3D-DSA的应用提高了颅内动脉瘤的检出率，利于MIA所有病灶的全面诊断，这是MIA后续治疗的基础。而MIA责任动脉瘤的正确判断直接决定了患者的短期预后。责任动脉瘤的判定目前多结合患者CT蛛网膜下腔出血特点及DSA动脉瘤形态特点及载瘤动脉有无血管痉挛等因素来综合评估[7-8],亦有学者认为责任动脉瘤的判定需要考虑血流动力学在动脉瘤性蛛网膜下腔出血病程中的作用，一般长轴方向与血流冲击方向相同且可见囊泡或子瘤位于血流冲击点之上的动脉瘤为责任病灶9。出现动脉瘤术后再出血的最常见原因是第1次放射学检查时没有发现真正破裂的动脉瘤，而认定的动脉瘤却未破裂。因此即使已确定了1个可能破裂的动脉瘤,仍要进行全面的全脑放射学检查8。需要注意的是，尽管严格按照前述标准，仍然有 $2 \% { \sim } 5 \%$ 的多发性动脉瘤无法判断哪一个为破裂动脉瘤。近期有文献报道了MR在颅内多发动脉瘤诊断中的价值。Matouk等"提出可以利用高分辨率MR进行血管成像来判断MIA中责任动脉瘤的位置，血管壁明显强化是破裂动脉瘤血管壁的特征。引起强化的可能机制为动脉瘤破裂后启动血管内皮炎症过程，增强造影剂通过功能异常的血管内皮渗入血管壁。但该方法的设备要求高(5例患者均在配有DSA、MR的手术室内进行)，并且检查时间长，要求患者在全麻状态及插管条件下进行。同时病例数较少（仅有3例MIA)，仍需大样本量的前瞻性研究。
+
+MIA出血后应积极、尽早处理责任动脉瘤，预防再次破裂出血，但对于未破裂动脉瘤的治疗目前仍有争议。Heiskanen等"通过对颅内多发动脉瘤未治疗的非责任动脉瘤(未破裂)进行长期随访，发现保守治疗后因动脉瘤再破裂出血导致的死亡率为 $1 1 . 6 \%$ ，超过动脉瘤夹闭术死亡率。认为颅内多发动脉瘤一旦诊断明确，只要病情允许，必须及时治疗。Yasui等[2研究认为MIA未破裂动脉瘤出血风险较单发未破裂动脉瘤增加。但国际未破裂动颅内脉瘤研究工作组(ISUIA)于2003年在Lancet杂志发表了颅内未破裂动脉瘤(UIA)前瞻性随访结果，提示不同大小UIA整体破裂风险分别为$1 . 2 \% ( 7 { \sim } 1 2 \ \mathrm { m m } )$ ） $3 . 1 \%$ （ $1 3 { \sim } 2 4 \mathrm { m m }$ ） $. 8 . 6 \% ( \gtrsim 2 5 \ \mathrm { m m } )$ OISUIA结果的发表引发了针对UIA治疗的广泛争议，而对于MIA中未破裂动脉瘤，有研究已证实未破裂动脉瘤出血风险增加[13，因此尽量一期处理MIA所有病灶以避免再出血风险是目前的共识[14-15]。而对于无条件一期治疗的MIA患者(费用、技术等原因)，未破裂动脉瘤是否需要治疗应结合动脉瘤位置、大小及患者年龄进行综合评估[1。笔者等认为：(1)对 $< 5 ~ \mathrm { m m }$ 的UIA均可以采取保守治疗，但需要考虑患者带瘤生存引起相关的心理负荷；(2)年龄 $< 6 0$ 岁，动脉瘤直径大于 $5 \mathrm { m m }$ 的患者应该接受积极治疗;由于后循环(特别是基底动脉尖端动脉瘤)及后交通动脉瘤破裂风险明显增加[1],RR值分别为2.3( $9 5 \%$ CI [1.1-4.8], $P { = } 0 . 0 2 5 )$ 和2.1( $9 5 \%$ CI[1.1-4.2], $P { = } 0 . 0 2 )$ ,因此即使患者年龄超过60岁也应该积极干预治疗预防出血引起的灾难性后果;(3)动脉瘤直径超过 $1 0 \mathrm { m m }$ 的患者年龄可放宽至70岁；(4)特定部位的动脉瘤，如颈内动脉海绵窦段动脉瘤，相对不容易发生破裂出血(RR为 $0 . 1 5 , 9 5 \%$ CI [0.04-0.64], $P =$ 0.01)[17],直径不超过 $1 0 ~ \mathrm { m m }$ 可以采取保守治疗；(5)动脉瘤形态特征具有重要意义：形态不规则、边缘欠光滑及子囊形成等均提示动脉瘤破裂风险增高，需要积极治疗；(6)对于未治疗UIA应该进行长期随访，如有显著增大或者形态发生变化，需及时治疗。
+
+显微夹闭术和血管内介入栓塞治疗是目前颅内动脉瘤治疗的两种一线治疗方法，对MIA治疗均有良好效果。由于MIA首次治疗目的在于修复出血动脉瘤，避免再次出血引起灾难性后果，因此治疗方式的选择主要依据责任动脉瘤的影像学特点。随着介入治疗理念及材料的发展，目前绝大部分动脉瘤均可以通过血管内栓塞实现，支架技术、球囊辅助技术及双导管技术等也是宽颈动脉瘤不再成为介入治疗的难点。因此对于MIA的治疗，笔者等认为血管内介入治疗可作为首选方式,理由如下：(1)不受动脉瘤位置影响，同时避免了对脑组织牵拉,创伤小,恢复快,有显著的优越性;(2)对于后循环动脉瘤，可以明显降低治疗相关风险，改善患者预后；(3)适用于于高龄、基础状态差不能耐受手术，Hunt-Hess分级IV-V级动脉瘤患者;(4)血管内介入治疗虽然无法直接清除蛛网膜下腔血块，但近期的研究结果证明与夹闭手术相比,栓塞治疗后3\~5d蛛网膜下腔血块的清除速度并无显著性差异，两组间有症状性血管痉挛的发生无明显差别18。但是在临床上，有部分MIA也倾向于开颅夹闭手术治疗：因为大部分责任动脉瘤同时适合栓塞及夹闭治疗，在UIA直径小或者瘤颈较宽，栓塞困难或者需要辅助技术时,客观上极大增加了患者经济负担，此时UIA往往难以实现一期治疗。这种情况下，如果动脉瘤位置分布满足单侧入路一次处理所有病灶，则可以选择动脉瘤夹闭术。一期开颅显微夹闭手术治疗MIA可以在处理动脉瘤的同时清除蛛网膜下腔积血，尽量减少血管痉挛风险，还可以确认术前判定动脉瘤是否为真正破裂的责任病灶。如对破裂动脉瘤的位置有怀疑,应考虑重新进行检查和(或)手术[8]。但相对而言,一期开颅手术治疗的适应证更加严格[19-20]。当病灶分布空间累及双侧甚至幕上/幕下时，单侧一次开颅往往无法治疗全部动脉瘤，此时可以采用栓塞治疗单纯处理责任动脉瘤，再根据出血风险二期治疗UIA。
+
+# 4结论
+
+MIA应在诊断全面的基础上，正确判断责任动脉瘤并积极治疗，对于非责任病灶需要综合评估出血风险，采取个体化治疗措施，尽量一期治疗所有动脉瘤，减少再出血风险。
+
+# 参考文献：
+
+[1]Kaminogo M,Yonekura M,Shibata S.Incidence and outcome of multiple intracranial aneurysms in a defined population[J].Stroke, 2003,34(1): 16-21.   
+[2]Baumann F,Khan N,Yonekawa Y. Patient and aneurysm characteristicsinmultiple intracranial aneurysms [J].Acta Neurochir Suppl,2008,103:19-28.   
+[3]秦尚振,马廉亭,龚 杰,等.颅内多发动脉瘤的诊治[J].中华神经外科 杂志,2012,28(9):872-4.   
+[4]Qureshi AI, Suarez JI, Parekh PD,et al. Risk factors for multiple intracranial aneurysms[J].Neurosurgery,1998,43(1): 26-7.   
+[5]Ellamushi HE,Grieve JP,Jäger HR,et al.Risk factors for the formation of multiple intracranial aneurysms[J]. J Neurosurg, 2001, 94(5): 728-32.   
+[6]Rinne J,Hernesniemi J,Puranen M,et al.Multiple intracranial aneurysms in a defined population:prospective angiographic and clinical study[J]. Neurosurgery,1994,35(5): 803-8.   
+[7]James Ling A,D'urso PS,Madan A. Simultaneous microsurgical and endovascular management of multiple cerebral aneurysms in acute subarachnoid haemorrhage[J].J Clin Neurosci,2Oo6,13(7): 784-8.   
+[8]Hino A,Fujimoto M,Iwamoto Y,et al. False localization of rupture site in patients with multiple cerebral aneurysms and subarachnoid hemorrhage[J].Neurosurgery,2000,46(4): 825-30.   
+[9]于金录,许 侃,丁小博,等.多发颅内前循环动脉瘤的显微外科治疗 [J].中华神经外科杂志,2012,28(5):440-3.   
+[10]Matouk CC,Mandell DM,Guinel M,et al.Vessel wall magnetic resonance imaging identifies the site of rupture in patients with multipleintracranialaneurysms:proofofprinciple[J]. Neurosurgery,2013,72(3): 492-6; discussion 496.   
+[11]Heiskanen O.Risk of bleeding from unruptured aneurysm in cases with multiple intracranial aneurysms[J].JNeurosurg,1981,55(4): 524-6.   
+[12]Yasui N,Suzuki A,Nishimura H,et al.P-1-1 - long-term follow-up studyof unruptured intracranial aneurysms [J].Clin Neurol Neurosurg,1997,99(Suppl 1): S41.   
+[13]孙建军,赵继宗,王 硕,等.颅内多发动脉瘤的外科治疗[J].北京大学 学报：医学版,2004,36(3):272-5.   
+[14]关宇欣,赵 军,李占义,等.单侧翼点入路一期治疗颅内多发动脉瘤 [J].中国脑血管病杂志,2010,7(3):143-5.   
+[15] James Ling A,D'urso PS,Madan A. Simultaneous microsurgical and endovascular management of multiple cerebral aneurysms in acute subarachnoid haemorrhage[J].J Clin Neurosci, 2Oo6,13(7): 784-8.   
+[16]Lu HT,Tan HQ,Gu BX,etal.Risk factors for multiple intracranial aneurysmsrupture:aretrospectivestudy [J].Clin Neurol Neurosurg,2013,115(6): 690-4.   
+[17]Wiebers DO,Whisnant JP,Huston J,et al.Unruptured intracranial aneurysms:natural history,clinical outcome,and risks of surgical and endovascular treatment[J].Lancet,2003,362(9378):103-10.   
+[18]Shirao S,Yoneda H,Ishihara H,et al.Fate of clots in patients with subarachnoid hemorrhageafterdifferentsurgicaltreatment modality:a comparison between surgical clipping and Guglielmi detachable coil embolization [J].Neurosurgery，2O11，68(4):   
+966-73;discussion 973. [19] Santana Pereira RS,Casulari LA. Surgical treatment of bilateral multiple intracranial aneurysms.Review of a personal experience in   
+69 cases[J].JNeurosurg Sci,2006,50(1): 1-8. [20]Rajesh A,Praveen A,Purohit AK,etal.Unilateral craniotomy for bilateral cerebral aneurysms[J].J Clin Neurosci,2O1O,17(10):   
+1294-7.
+
+(编辑：黄开颜)

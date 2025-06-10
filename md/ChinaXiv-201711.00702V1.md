@@ -1,0 +1,259 @@
+# 太阳能热化学与化学回热联合的冷热电系统
+
+刘泰秀1,² 隋军1,² 刘启斌1,2 刘锋1,2（1．中国科学院工程热物理研究所，北京100190;
+
+2．中国科学院大学，北京100049）
+
+摘要提出了一种太阳能热化学与化学回热过程联合的冷热电联产系统。利用太阳能驱动甲醇分解反应，产生的合成气在内燃机中燃烧作功，内燃机排烟余热与导热油换热，并驱动甲醇分解反应加以回收余热。对系统进行了热力学性能分析，探究了全年典型日下系统热力性能与储能特性规律。研究结果表明：设计工况下系统一次能源利用率为 $78 . 4 \%$ ，太阳能净发电效率为 $2 1 . 1 \%$ 。在 $3 0 0 { \sim } 1 0 0 0 \ \mathrm { W / m } ^ { 2 }$ 的直射辐照强度范围内，系统可以实现稳定运行，太阳能净发电效率稳定在 $1 9 . 3 \% { \sim } 2 1 . 5 \%$ 的变化范围内。
+
+关键词太阳能热化学；储能；化学回热；甲醇分解中图分类号：TK121 文献标识码：A
+
+# Combined Cooling Heating and Power System Integrated a Solar Thermochemical Process with Chemical Recuperation
+
+LIU Tai-Xiu1,2 SUI Jun1,2 LIU Qi-Bin1,2 LIU Feng1,2   
+(1. Institute ofEngineering Thermophysics,Chinese Academy ofSciences,Beijing 100190,China; 2. University of Chinese Academy of Sciences,Beijing 10o190, China)
+
+Abstract:A solar-hybrid combined cooling heating and power system integrated a solar thermochemical process with chemical recuperation was proposed. The solar thermal energy was upgraded to chemical energy of synthesis fuel which is produced by the methanol decomposition reaction in the solar thermochemical receives/reactors.Then, the chemical energy of synthesis fuel is released through the internal combustion engine.And a part of exhaust heat is recovered and stored to drive the methanol decomposition reaction as the sensible heat of thermal oil.The thermodynamic analysis has been implemented to evaluate the system performance and illustrate the characteristic of energy storage.The primary energy ratio and net solar-to-electric efficiency reaches up to $78 . 4 \%$ and $2 1 . 1 \%$ on the design condition, respectively.And the net solar-to-electric efficiency keeps in the range of $1 9 . 3 \% { \sim } 2 1 . 5 \%$ with the solar flux from $3 0 0 \mathrm { W / m } ^ { 2 }$ to $1 0 0 0 \mathrm { W / m } ^ { 2 }$ ：
+
+Key words: solar thermochemical; energy storage; chemical recuperation; methanol decomposition
+
+# 0引言
+
+太阳能的高效利用有利于减少化石能源的消耗及温室气体的排放。目前，太阳能利用形式主要有：光伏、光热，以及热化学等。通常太阳能光热发电技术是由太阳能加热循环工质通过动力循环输出电功[1-2]。太阳能热化学发电技术通过太阳能作为反应过程的热量，驱动吸热的化学反应，将所聚焦的太阳热能转化并存储在燃料的化学能当中，提升了太阳热能品位，实现了太阳能的储存和高效利用。目前在利用700℃以上的高温太阳热能驱动水和 $\mathrm { C O } _ { 2 }$ 分解、煤气化以及甲烷重整等方面取得了重要研究进展[3-9。但同时，上述高温太阳能热化学利用过程在太阳能吸收反应器、跟踪、催化剂等诸多问题，亟待解决。中低温太阳能热化学技术，利用150\~300℃中低温太阳能与甲醇热化学互补的能源系统，为太阳能的高效利用提供了新的研究思路[10-12]。
+
+同时，在分布式能源系统中，动力系统排烟余热通常直接驱动吸收式制冷机进行制冷，余热温度与吸收式制冷所需温度并不十分匹配，为了进一步加强排烟余热的回收利用，提升太阳能热化学发电系统的运行稳定性，本文提出了一种基于甲醇分解的太阳能热化学与化学回热联合的冷热电联产系统，并对系统进行了热力学性能分析以及变工况性能特性研究。
+
+# 1系统构思
+
+基金项目：国家自然科学基金重点项目（No.51236008）
+
+甲醇作为一种清洁的液体燃料，可在 $1 5 0 { \sim } 3 0 0 \mathrm { ~ } \mathrm { ~ C ~ }$ 发生分解反应生成以 $\mathrm { H } _ { 2 }$ 和CO等。采用太阳能驱动的甲醇分解反应的间接燃烧技术[13既可以将燃料热值提升约 $20 \%$ ，又可以在一定程度上实现热力系统热烟的增加以及燃烧烟损失的减小。相关反应方程如下：
+
+甲醇分解反应方程：
+
+$$
+\mathbb { C } \mathrm { H } _ { 3 } \mathbb { O } \mathrm { H }  \mathbb { C } \mathbb { O } + 2 \mathrm { H } _ { 2 } \Delta H _ { z \thinspace \mathbb { S } \mathrm { G K } } = 9 0 . 1 \mathrm { k J } / \mathrm { m o l }
+$$
+
+合成气燃烧反应：
+
+$$
+\mathtt { C O } + \mathtt { 2 H } _ { z } + \mathtt { 1 . 5 O } _ { z }  \mathtt { C O } _ { z } + \mathtt { 2 H } _ { z } \mathtt { 0 }
+$$
+
+$$
+\Delta H _ { \textrm { 2 9 2 E } } { = - 7 6 6 . 6 4 / \mathrm { / m o l } }
+$$
+
+目前直接利用 $4 0 0 { \sim } 5 0 0 \ \mathrm { ~ \textdegree }$ 燃气内燃机排烟驱动吸收式制冷机，由于其传热温差较大，使得该过程烟损失较大。本文所提出系统将高温段燃机排烟驱动甲醇分解加以利用，流程如图1所示。
+
+系统主要由：甲醇原料预处理单元，太阳能吸收/反应单元，化学回热单元，产物分离与储存单元，功、冷、热输出单元五部分组成。（1）甲醇液体经由两级预热后形成过热蒸汽；（2）抛物槽式太阳能聚光器聚集的太阳热能驱动吸收/反应器内部甲醇工质发生分解反应；（3）内燃机排烟与导热油换热，并驱动固定床反应器中甲醇分解反应；（4）高温合成气冷却及残余甲醇分离后驱动内燃机发电设备作功，剩余合成气将储存到合成气储罐当中；（5）内燃机排烟余热首先通过烟气换热器以导热油显热的形式进行储存，之后驱动双效溴化锂吸收式制冷机进行制冷；（6）利用内燃机缸套水加热生活热水。其中，太阳能热化学发电系统中的吸收/反应器实物如图2所示。
+
+其工作模式为：运行太阳能吸收/反应单元产气以满足内燃机发电设备耗气需求，当其产气不足时，优先使用储存的合成气，其次运行化学回热单元。在太阳辐照充足的情况下，独立运行太阳能吸收/反应单元，并将剩余的合成气储存；在太阳辐照不足的情况下，化学回热单元与太阳能吸收/反应单元互补运行；在太阳辐照为零的情况下，独立运行化学回热单元。
+
+系统主要特点如下：（1）将低品位的中低温太阳热能转化为高品位的合成气化学能，提升了太阳能的做功能力；（2）化学回热过程加强了排烟余热的回收利用；（3）太阳能热化学与化学回热耦合运行提升系统的运行稳定性、延长运行时间。
+
+![](images/8664bdcc95a957e563fccfa537dbc72813957dc93ac5013ef59461497a3d86dd.jpg)  
+图1太阳能热化学与化学回热联合的冷热电联产系统 Fig.1 CCHP system based on solar thermochemical with chemical recuperation
+
+![](images/aaa3c2da15e6f0532193933296b9a4557949d5140a7b76a3eb925ef5e7b6f00b.jpg)  
+图2 太阳能热化学吸收/反应器 Fig.2 Experimental platform with the solar thermochemical receiver/reactor
+
+# 2系统性能分析
+
+# 2.1模拟条件
+
+提出的系统参照位于河北省廊坊的中科院工程热物理研究所太阳能热化学发电实验基地的相关结构参数进行设计，如表1所示。
+
+其中，抛物槽式太阳能集热镜场采用南北方向布置，气象数据采用BSRN3000 气象站对当地的实测数据。其中，全年典型日下太阳直射辐射强度实时变化曲线如图3所示。
+
+![](images/b228f86d4e2f891cc702870323facac7ddec437aa0d661758f0179789423cfdd.jpg)  
+图3四季典型日DNI实时变化曲线 Fig.3 Received solar direct irradiation of the solar collector under different time instants
+
+系统集热效率 $\tilde { v } \gamma _ { \perp \perp }$ 计算模型[15];
+
+$$
+\eta _ { c e l } = \eta _ { c p \tau } \cdot \kappa - ( \alpha + c \cdot V _ { \mathrm { w i r a c } } ) \frac { T _ { c e l } - T _ { a } } { D M T }
+$$
+
+$$
+- \varepsilon \cdot b \frac { T _ { \bar { c } \bar { v } \mathrm { l } } ^ { 4 } - T _ { \bar { s } \bar { s } \bar { y } } ^ { 4 } } { D M }
+$$
+
+其中 $\eta _ { \tt E F }$ 为太阳能聚光镜场的光学效率； $\mu _ { i }$ 为抛物型太阳能集热器的余弦修正系数； $\varepsilon$ 为吸收/反应器的发射率； $\scriptstyle a , \ b$ ， $\mathbf { \Psi } _ { c }$ 是由集热管尺寸结构所决定的系数；DN为太阳直射辐照强度， $\mathrm { W / m } ^ { 2 }$ ； $V _ { \mathrm { s v i r a i } }$ 为风速， $\mathrm { m / s }$ ； $T _ { c o l }$ 、 $T _ { \varepsilon }$ 、 $T _ { \Xi \Xi ^ { \prime } }$ 分别为集热温度、环境温度、天空温度，K。
+
+# 2.2系统性能评价准则
+
+系统将采用系统热效率、系统烟效率、系统发电效率、太阳能净发电效率以及太阳能份额对所提出的系统进行性能评价。
+
+太阳能输入的能量为 $\mathbb { Q } _ { \mathtt { m } , \mathtt { l } }$ ，通过下式计算得出：
+
+$$
+\bar { \boldsymbol { \ell } } _ { \Xi \circ 1 } = \mathrm { A } \cdot \int _ { \bar { \boldsymbol { 0 } } } ^ { t } \bar { D } \boldsymbol { N } I \cdot \mathrm { d } t
+$$
+
+其中， $A$ 为镜场开口面积， ${ \mathfrak { m } } ^ { 2 }$ 。
+
+系统热效率是指系统总输出与总输入能量的比值，用来衡量系统对输入系统能量的利
+
+用性能。
+
+$$
+\eta _ { \mathrm { { t h } } } = { \frac { P + Q + C } { Q _ { 5 0 \mathrm { { i } } } + G _ { \mathrm { { M } } } H _ { \mathrm { { M } } } } }
+$$
+
+其中， $P$ 为系统发电功率， $\varrho$ 为系统的供热负荷， $C$ 为系统的制冷负荷， $Q _ { \Xi , \Xi } ]$ 为输入系统的太阳能， $\tilde { G } _ { \mathrm { M } }$ 为甲醇消耗量， $\mathcal { H } _ { \mathrm { M } }$ 为甲醇的焓值。
+
+系统烟效率为系统输出的烟与输入总烟的比值，其进一步反映了系统在能量品质方面的利用情况和系统各部件性能优化的潜力。
+
+$$
+\eta _ { \bar { e } \pi } = \frac { \bar { P } + \bar { Q } ( 1 - \frac { T _ { 0 } } { T _ { \bar { \tau } } } ) + \bar { C } ( \frac { T _ { 0 } } { T _ { \bar { \tau } } } - 1 ) } { \bar { Q } _ { \bar { s } \bar { s } 1 } ( 1 - \frac { T _ { 0 } } { T _ { \bar { s } \bar { s } 1 } } ) + \bar { G } _ { \bar { s } \bar { s } } E _ { \bar { s } \bar { s } } }
+$$
+
+其中， $\varPsi _ { 0 }$ 、 $\pmb { T } _ { \mathrm { h } }$ 、 $\mathcal { T } _ { \mathfrak { C } }$ 及 $T _ { \varepsilon \delta \perp }$ 分别为环境温度、供热温度、冷冻水出口温度及太阳能集热温度。系统发电效率是指系统输出总电功与输入系统的总能量的比值，直接反映了系统的发电性能。
+
+$$
+\eta _ { \bar { \mathsf { e l f e r } } } = \frac { P } { \bar { Q } _ { \bar { \mathsf { e a l } } } + \bar { G } _ { \mathrm { M } } H _ { \mathrm { M } } }
+$$
+
+表1系统关键参数设定  
+Table1Parameters of the proposed system   
+
+<html><body><table><tr><td>项目</td><td>值</td><td>项目</td><td>值</td><td>项目</td><td>值</td></tr><tr><td>环境温度</td><td>25℃</td><td>真空玻璃管内径</td><td>0.075 m</td><td>内燃机排烟温度</td><td>450℃</td></tr><tr><td>设计太阳能辐照</td><td>700 W/m²</td><td>真空玻璃管外径</td><td>0.085m</td><td>双效LiBr吸收式制冷COP</td><td>1.26[14]</td></tr><tr><td>集热镜场开口面积</td><td>84 m²</td><td>集热器光学效率</td><td>0.71</td><td>固定床反应器功率</td><td>36.5 kW</td></tr><tr><td>集热管长度</td><td>2 m</td><td>甲醇分解反应温度</td><td>240℃</td><td>合成气储罐体积</td><td>25m²</td></tr><tr><td>镜面开口宽度</td><td>3m</td><td>反应器运行压力</td><td>0.4 MPa</td><td>导热油储罐体积</td><td>6.5 m</td></tr><tr><td>吸收/反应器内径</td><td>0.038 m</td><td>内燃机额定发电功率</td><td>100 kW</td><td>高温储罐导热油温度</td><td>280℃</td></tr><tr><td>吸收/反应器外径</td><td>0.042 m</td><td>内燃机发电效率</td><td>0.35</td><td>低温储罐导热油温度</td><td>230℃</td></tr></table></body></html>
+
+系统能量输入包括太阳能与甲醇燃料化学能两部分，通过引入太阳能净发电效率实现对系统太阳能利用效率的评价。太阳能净发电效率根据下式计算得出。
+
+$$
+\eta _ { \tt S A - E I e c } = \frac { P } { \hat { Q } _ { \tt S O I } } \left( 1 - \frac { E _ { \tt M } } { H _ { \tt S J 2 } } \right)
+$$
+
+其中， $H _ { \mathrm { [ i ] } }$ 为单位摩尔甲醇燃料的焓值， $H _ { \mathrm { r m } }$ 为单位摩尔甲醇完全分解后合成气的焓值。
+
+通过引入太阳能份额来反映输入系统的太阳能占总输入能量的比值，进而在一定程度上反映系统对太阳能的利用程度。
+
+$$
+F _ { \natural \natural 1 } = { \frac { \bar { Q } _ { \natural \circ 1 } } { \bar { Q } _ { \natural \circ 1 } + \bar { G } _ { \mathbb { M } } H _ { \mathbb { M } } } }
+$$
+
+# 3结果与讨论
+
+针对系统设计工况、变工况下开展热力性能分析，探究了全年典型日下系统热力性能与储能特性规律。
+
+# 3.1设计工况系统性能
+
+针对系统设计工况进行能量平衡分析，主要结果如表2所示。
+
+能量平衡分析表中列出了系统在设计工况下的能量分配以及热力性能，在额定发电负荷 $1 0 0 \mathrm { k W }$ 下，系统能量总输入为 $3 0 9 . 5 8 \mathrm { k W }$ ，其中太阳能投入量为 $5 8 . 8 0 \mathrm { k W }$ ，占总输入能量的 $1 8 . 9 9 \%$ ，起到了节约化石燃料的效果。在 $7 0 0 \mathrm { W / m } ^ { 2 }$ 的设计辐照下，太阳能一体化吸收/反应器产生的合成气在满足内燃机满负荷运转后所剩余的 $1 5 . 3 9 \mathrm { k W }$ 合成气储存在合成气储罐。根据能量梯级利用原则，内燃机排烟首先通过导热油-烟气换热器将 $1 7 . 6 4 \mathrm { k W }$ 高温余热以导热油显热的形式蓄存，然后通过双效溴化锂吸收式制冷机输出 $2 3 . 8 6 \mathrm { k W }$ 的冷负荷，最后通入甲醇预热单元。设计工况下系统一次能源利用率为 $78 . 4 \%$ ，系统发电效率为 $34 . 0 \%$ ，太阳能净发电效率为 $2 1 . 1 \%$ 。
+
+表2设计工况下系统能量平衡分析 Table 2 Parameters of the proposed system on the design condition   
+
+<html><body><table><tr><td>项目</td><td>能量/kW</td><td>比例/%</td></tr><tr><td>能量总输入</td><td>309.58</td><td>100.00</td></tr><tr><td>甲醇化学能</td><td>250.78</td><td>81.01</td></tr><tr><td>太阳能</td><td>58.80</td><td>18.99</td></tr><tr><td>能量总输出</td><td>242.60</td><td>78.36</td></tr><tr><td>发电</td><td>100.00</td><td>32.30</td></tr><tr><td>供热</td><td>85.71</td><td>27.69</td></tr><tr><td>制冷</td><td>23.86</td><td>7.71</td></tr><tr><td>储存合成气</td><td>15.39</td><td>4.97</td></tr><tr><td>储存热量</td><td>17.64</td><td>5.70</td></tr><tr><td>能源利用率</td><td></td><td>78.36</td></tr><tr><td>系统发电效率</td><td></td><td>34.04</td></tr><tr><td>太阳能净发电效率</td><td></td><td>21.07</td></tr></table></body></html>
+
+为了加深对系统性能的分析，探求系统性能提升的潜力所在。从能质的角度对系统进行了不可逆性分析，结果如表3所示。系统设计工况下烟效率为 $45 . 6 \%$ ，由于合成气燃烧过程中燃料化学能向物理能的转化存在较大的不可逆损失，导致内燃机发生的烟损失最大，占输入总烟的 $4 2 . 2 \%$ 。设计工况下太阳能聚光集热系统集热效率为0.65，使得太阳能吸收/反应器烟损失较大，占系统总输入烟的 $4 . 1 \%$ 。此外，内燃机缸套水供热及吸收式制冷机也存在较大的烟损失。
+
+系统烟损失较大的地方也是系统改进中具有潜力的地方，针对系统中内燃机、太阳能吸收/反应器、缸套水供热及双效吸收式制冷机开展进一步的优化有助于提升系统的热力性能。
+
+表3系统烟平衡表 Table 3 Exergy analysis of the proposed system on the design condition   
+
+<html><body><table><tr><td>项目</td><td>烟/kW</td><td>比例/%</td></tr><tr><td>输入总烟</td><td>299.33</td><td>100.00</td></tr><tr><td>甲醇</td><td>276.08</td><td>92.23</td></tr><tr><td>太阳能</td><td>23.25</td><td>7.77</td></tr><tr><td>总烟损</td><td>162.84</td><td>54.40</td></tr><tr><td>甲醇预热</td><td>2.64</td><td>0.88</td></tr><tr><td>太阳能吸收/反应器</td><td>12.26</td><td>4.09</td></tr><tr><td>内燃机</td><td>126.28</td><td>42.19</td></tr><tr><td>导热油蓄能单元</td><td>2.20</td><td>0.74</td></tr><tr><td>缸套水供热</td><td>7.85</td><td>2.62</td></tr><tr><td>吸收式制冷</td><td>7.44</td><td>2.49</td></tr><tr><td>其他</td><td>4.17</td><td>1.39</td></tr><tr><td>输出总烟</td><td>136.58</td><td>45.63</td></tr><tr><td>电烟</td><td>100.00</td><td>33.41</td></tr><tr><td>冷烟</td><td>1.53</td><td>0.51</td></tr><tr><td>供热烟</td><td>12.31</td><td>4.11</td></tr><tr><td>蓄热烟</td><td>8.13</td><td>2.72</td></tr><tr><td>化学烟</td><td>14.61</td><td>4.88</td></tr><tr><td>烟效率</td><td></td><td>45.63</td></tr></table></body></html>
+
+# 3.2系统变工况性能
+
+变辐照条件下，太阳能热化学反应单元的运行性能将随着太阳能辐照有所变化，通过调控化学回热单元及合成气储存单元可以实现动力设备的稳定运行，提升系统的运行稳定性。系统太阳能净发电效率及太阳能份额随辐照变化关系如图4所示。
+
+![](images/d65c7fd4980232023f9d9bd7f3a1bb1e1ee22497a5b1edf13fefa85803996bea.jpg)
+
+图4变辐照下太阳能净发电效率及太阳能份额  
+Fig.4 Variations of solar-to-electric efficiency and solar share with solar flux  
+太阳直射辐照强度从 $3 0 0 { \sim } 7 0 0 \mathrm { W / m } ^ { 2 }$ 变化过程中，输入系统的甲醇化学能基本上维持稳定，投入到系统的太阳能逐渐增大，使得系统太阳能份额由 $9 . 6 \%$ 增大到 $1 9 . 0 \%$ ；在太阳直射辐照强度从 $7 0 0 { \sim } 1 0 0 0 \mathrm { W / m } ^ { 2 }$ 变化过程中，主动储存剩余合成气，输入系统的甲醇燃料化学能也呈现增大趋势，使得该过程太阳能份额缓慢变化。由上图知，变辐照下系统具有较高的太阳能利用效率及良好的运行稳定性，在 $3 0 0 { \sim } 1 0 0 0 \mathrm { W / m } ^ { 2 }$ 的直射辐照强度范围内，系统太阳能净发电效率维持在 $1 9 . 3 \% { \sim } 2 1 . 5 \%$ 的变化范围内，针对低辐照太阳能仍具有较高的利用效率。
+
+# 3.3全年典型日系统性能分析
+
+太阳辐照随季节性变化较为明显，且太阳方位角、环境温度等对太阳能集热器性能均有所影响。因此，本文选取全年典型日对所提出的系统进行变辐照热力性能分析，得出典型日下系统能量输入与储能之间的特性关系，阐述太阳能吸收/反应器、固定床反应器与储能单元之间的耦合规律。
+
+图5所示为典型日下太阳能输入量、化学能输入量、合成气储量及储热量之间的实时变化关系，阐述了系统在不同辐照条件下的运行特性及储能变化规律。以夏季典型日为例，在7\~16点期间太阳能辐照充足，随着太阳辐照的提高，系统输入的甲醇化学能将有所增加，太阳能热化学反应单元中甲醇分解产生的合成气燃料可以满足内燃机耗气需求，并将剩余的合成气进行储存；在16\~18点期间太阳能辐照不足，释放所储存的合成气以补充太阳能热化学反应单元的产气不足，维持内燃机动力设备的满负荷运转；在7\~18点期间部分烟气余热以导热油显热的形式回收利用，系统所储热量逐渐增大，在18\~7点期间太阳能辐照较小或为零，投入到系统的太阳能几乎为零，释放所储存的导热油显热驱动固定床反应器中甲醇分解产生合成气以满足动力单元的耗气需求，系统储热量将呈现减小趋势。
+
+研究中太阳能集热器采用南北布置的形式，受太阳方位角的影响，在冬季太阳能余弦损失较大，进而使得太阳能集热效率相对较低。另外，受冬季日照时间短、环境气温低等其他气象条件的影响，输入系统的太阳能相对较少，太阳能热化学反应单元不能够独立满足内燃机耗气需求，合成气储量为零，输入到系统的燃料化学能基本上维持稳定。通过固定床反应器与太阳能热化学反应单元互补运行以满足动力设备燃用合成气的需求，实现冬至日中系统满负荷连续运行 $9 . 0 \mathrm { h }$ 。
+
+350 1400 350 1400春分 夏至300 1200 300 12001000 250 1000200 太阳能输入量 能输入量 800 W/喜制化学能输入量 合成气储量150 合成气储量 600 150 储热量 600储热量系100 400 药100 40050 200 50 2000 0 0 100 4 8 12 16 20 24 0 4 8 12 16 20 24时间/h 时间/h
+
+350 1400 350 1400秋分 冬至1200 1200  
+200 能输入量 800 T/喜羽 200 能输入量 800 W/喜羽  
+150 合成气储量 600 150 合成气储量 600储热量 储热量  
+100 400 系100 40050 200 50 2000 甲号 10 0E -\*-+-- 00 4 8 12 16 20 24 0 4 8 12 16 20 24时间/h 时间/h
+
+图6所示将四季典型日系统的冷、热、电 $( C , \ Q , \ W )$ 输出总量以及系统日均发电效率（20 $( \eta _ { e l e s } )$ 、太阳能净发电效率 $( \eta _ { \tt S O I - E I E C } )$ 、太阳能份额（ $\boldsymbol { \cdot } \boldsymbol { F _ { \mathrm { { s o l } } } }$ ）及运行时长（Time）通过柱状图线进行对比分析。由于夏至日太阳辐照良好，且聚光集热系统余弦损失较小，使得夏至日连续运行 $2 4 . 0 \mathrm { h }$ ，发电总量达到 $8 . 6 4 \mathrm { G J }$ ，系统发电效率为 $3 6 . 7 \%$ ，太阳能净发电效率为 $2 0 . 6 \%$ 。系统在低辐照、低气温及余弦损失较大的冬至日可以实现连续运转 $9 . 0 \mathrm { h }$ 日发电总量可达 $3 . 2 5 \mathrm { G J }$ ，系统发电效率为 $3 3 . 4 \%$ ，太阳能净发电效率 $12 . 8 \%$ ，太阳能份额达 $1 5 . 9 \%$ 。
+
+![](images/437b11181d45aeb49a22f04745ff069a1e61b41bf5f031fb5f9521a3235e8160.jpg)  
+图5典型日系统能量输入与储能特性关系 Fig.5 Relationship between system energy input and storage   
+图6典型日系统冷、热、电输出量及热力性能对比 Fig.6 Daily average system performances on four typical days
+
+# 3.4年运行特性分析
+
+针对本文所提出的系统开展年运行性能分析。如图7所示为系统逐月的发电量及系统发电效率，全年范围内，由于夏、秋季太阳辐照充足，且太阳光线入射角较小，输入到系统的太阳能多于春、冬季。使得夏、秋季系统净发电量及系统发电效率明显优于春、秋季系统。
+
+如图8所示为系统逐月太阳能净发电效率及太阳能份额。由于夏、秋季输入到系统的太阳能充足，太阳能余弦损失小，使得系统太阳能净发电效率优于春、秋季。同时，由于夏、秋季太阳辐照充足，系统运行时间较长，所输入的甲醇燃料化学能较多，使得夏、秋季系统输入太阳能份额略低于春、冬季份额。通过对系统开展逐月的热力学性能分析得出，系统年均发电效率为 $3 5 . 7 \%$ ，年均太阳能净发电效率为 $1 8 . 5 \%$ 。
+
+45 38发电量  
+40  
+35 37  
+25 3g0  
+20 su  
+15  
+10 3550 3412345678 9 1011 12时间/月份
+
+![](images/3e726efcda6d5e0187d6c93e1a35c588bfcd179840e6949d36ff3c1f22818c4a.jpg)  
+图7系统逐月发电量及发电效率 Fig.7 Monthly net generated electricity and electrical efficiency   
+图8系统逐月太阳能净发电效率及太阳能份额 Fig.8Monthlynet solar-to-electric efficiencyand solar share
+
+上述分析可知，全年范围内系统运行性能良好。内燃机烟气余热储能、化学回热单元的引入，延长了系统连续运转时间，提升了系统的能源利用率以及太阳能净发电效率。
+
+# 4结论
+
+为提升太阳能热化学互补发电系统运行稳定性、加强动力系统余热回收利用，提出了一种基于甲醇分解的太阳能热化学与化学回热联合的冷热电联产系统，并对系统在设计工况及变工况下进行热力学性能分析。主要结论如下：
+
+（1）利用 $2 0 0 { \sim } 3 0 0 \mathrm { ^ { \circ } C }$ 的中低温太阳热能以及储存的内燃机烟气余热驱动甲醇分解产生合成气，一方面在甲醇分解过程中甲醇燃料品位的降低减小了动力系统燃烧过程中烟损失，另一方面中低温热到高品位燃料化学能的转化提升了中低温太阳能热及烟气余热的作功能力；
+
+（2）系统在设计工况下一次能源利用率为 $78 . 4 \%$ ，太阳能净发电效率为 $2 1 . 1 \%$ ，烟效率为 $45 . 6 \%$ 。在 $3 0 0 { \sim } 1 0 0 0 \mathrm { W / m } ^ { 2 }$ 的直射辐照强度范围内，系统太阳能净发电效率维持在$1 9 . 3 \% { \sim } 2 1 . 5 \%$ 的范围内。通过化学回热系统与太阳能热化学系统的集成，提升了系统太阳能净发电效率以及变辐照下的运行稳定性，提高了低辐照太阳能的利用效率；
+
+（3）典型日下系统动力设备满负荷运转，稳定输出电、热和冷，在夏至日系统连续运行长达 $2 4 . 0 \mathrm { h }$ ，日均太阳能净发电效率为 $20 . 6 \%$ ；在冬至日系统连续运行长达 $9 . 0 \mathrm { h }$ ，日均太阳能净发电效率为 $12 . 8 \%$ ，太阳能占能量总输入的 $1 5 . 9 \%$ 。系统年均发电效率为 $3 5 . 7 \%$ 年均太阳能净发电效率为 $1 8 . 5 \%$ 。系统具有连续运行时间长、太阳能净发电效率高及节能性能突出等优点。
+
+# 参考文献
+
+[1] Behar O,Khellaf A, Mohammedi K.A Review of Studies on Central Receiver Solar Thermal Power Plants[J].Renewableand Sustainable EnergyReviews,2O13,23:12-39
+
+[2] Mills D.Advances in Solar Thermal Electricity Technology[J]. Solar Energy,2004,76(1): 19-31   
+[3] Abanades S,Flamant G. Thermochemical Hydrogen Production from A Two-step Solar-driven   
+Water-spliting Cycle Based on Cerium Oxides[J].Solar Energy,2006,80(12): 1611-1623   
+[4] Bhosale R R, Kumar A,AlMomani F,et al.Assessment of $\mathrm { C e _ { x } Z r _ { y } H f _ { z } O _ { 2 } }$ Based Oxides as Potential Solar   
+Thermochemical $\mathrm { C O } _ { 2 }$ Splitting materials[J]. Ceramics International,2016,42(8): 9354-9362   
+[5] $\mathrm { { N g } Y \mathrm { { C } } }$ ,Lipinski W.Thermodynamic Analyses of Solar Thermal Gasification of Coal for Hybrid   
+Solar-fossil Power and Fuel Production[J].Energy,2012,44(1):720-731   
+[6] $\mathrm { \ X u \ J _ { \cdot } }$ ,Qiao L,Gore J.Multiphysics Well-stirred Reactor Modeling of Coal Gasification under Intense   
+Thermal Radiation[J]. International Journal of Hydrogen Energy, 2013,38(17): 7007-7015   
+[7] Shrivastava A,Prabu V.Thermodynamic Analysis of Solar Energy Integrated Underground Coal   
+Gasification in the Context of Cleaner Fossil Power Generation[J].Energy Conversion and Management, 2016,   
+110: 67-77   
+[8] Titus J, Roussiere T, Wasserschaff G, et al.Dry Reforming of Methane with Carbon Dioxide over   
+$\mathrm { N i O - M g O - Z r O _ { 2 } [ J ] }$ .Catalysis Today,2016,270: 68-75   
+[9] Zheng R,Diver R,CaldwellD,etal.Integrated Solar Thermochemical Reaction System for Steam Methane   
+Reforming[J].Energy Procedia,2015,69:1192-1200   
+[10] Hong H,JinH,Ji J,etal. Solar Thermal Power Cycle with Integration of Methanol Decomposition   
+and Middle-temperature Solar Thermal Energy[J]. Solar Energy,2005,78(1): 49-58   
+[11] Sui J,Liu Q,Dang J, et al. Experimental Investigation of Methanol Decomposition with Mid-and   
+Low-temperature Solar Thermal Energy[J]. International Journal ofEnergy Research,2011,35(1): 61-67   
+[12] Xu D,Liu Q,Lei J, et al. Performance of a Combined Cooling Heating and Power System with   
+Mid-and-low Temperature Solar Thermal Energy and Methanol Decomposition Integration[J]. Energy   
+Conversion and Management,2015,102:17-25   
+[13] 金红光,洪慧,王宝群,等．化学能与物理能综合梯级利用原理[J].中国科学E辑:工程科学 材料科   
+学,2005,03:299-313   
+JIN Hongguang, HONG Hui, WANG Baoqun, et al. Cascade Utilization of Chemical Exergy and Physical   
+Exergy[J].SCIENCEIN CHINA Ser.E Engineering& Materials Science,2005,03:299-313   
+[14] Han W, Chen Q,Lin R,et al.Assessment of Off-design Performance of a Small-scale Combined   
+Cooling and Power System Using an Alternative Operating Strategy for Gas Turbine[J]. Applied Energy, 2015,   
+138: 160-168   
+[15] Odeh S D,Morrison GL, Behnia M.Modelling of Parabolic Trough Direct Steam Generation Solar   
+Collectors[J]. Solar Energy,1998,62(6):395-406   
+作者：刘泰秀北京市海淀区北四环西路11号中国科学院工程热物理研究所   
+Tel:13371765658   
+Email: liutaixiu@iet.cn

@@ -1,0 +1,629 @@
+[
+    {
+        "type": "text",
+        "text": "鄂伦春族的视空间工作记忆能力优势：生态环境和生产方式的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王婷1 关宇霞² 关红英 张积家1(中国人民大学心理学系、国家民委民族语言文化心理重点研究基地、教育部民族教育发展中心民族心理与教育重点研究基地，北京100872)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(呼伦贝尔学院教育科学学院，内蒙古 海拉尔 021008)(鄂伦春民族研究会，内蒙古 阿里河 165400)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以鄂伦春族和汉族的高中生为被试，采用简单存储任务和复杂广度任务，并且引入材料复杂性变量，考察鄂伦春族和汉族的高中生在视空间工作记忆能力上的差异，探讨生态环境和生产方式对视空间工作记忆能力的影响。结果表明，鄂伦春族学生在4个视空间工作记忆任务上的表现均显著好于汉族学生，材料呈现的结构、数量和路径均不影响鄂伦春族学生在视空间工作记忆能力上的优势。整个研究表明，鄂伦春族千百年来的生态环境和生产方式已经成为重要的生态变量，影响其后代的视空间工作记忆能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词鄂伦春族；生态环境；生产方式；文化；视空间工作记忆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:C91;B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "记忆是人类的高级认知活动。Baddeley 和 Hitch (1974)提出工作记忆(working memory)的概念，认为工作记忆不仅是对呈现项目的即时回忆，还涉及信息的保存和加工。工作记忆在高级认知中起着重要作用，并且与学生的学业成就息息相关，是人类认知过程的核心(Baddeley，2003)。工作记忆具有语音环路(phonological loop)、视空间记忆(visual-spatialworking memory)、中央执行系统(central executive)和情景缓冲器(episodic buffer)4 个子系统(Allen,Hitch,Mate& Baddeley,2012; Baddeley,Allen& Hitch,2011)。视空间工作记忆接受并且加工来自感觉记忆或长时记忆的信息，并且将加工后的信息用于空间定向、空间运动、心理想象和绘画等复杂活动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "视空间工作记忆最初被看作是一个单一的系统(Baddeley，&Hitch，1974；Baddeley,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2003)。之后，研究证明了视客体记忆和空间记忆的可分离性，并且得到了神经心理学研究和发展心理学研究的支持(Hamilton,Coates & Heffernan,2O03;Lanfranchi,Cornoldi & Vianello,2004; Nee et al.,2013)。Mammarella,Pazzaglia 和 Cornoldi (2008)以小学生为被试，采用结构方程拟合工作记忆模型，发现测量视空间工作记忆的结构应该选择不同的简单存储任务和复杂广度任务，简单存储任务分为视觉任务、同时性空间任务和继时性空间任务，复杂广度任务要求被试同时记忆和加工视空间信息。信息的内容形式和注意控制的参与程度是视空间工作记忆类型区分的主要依据。Mammarella,Borella,Pastore 和 Pazzaglia (2013)以成人为被试，证实视觉任务、同时性空间任务、继时性空间任务和复杂广度任务能够最好地拟合视空间工作记忆模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "视空间工作记忆能力的差异是该领域的研究热点。研究者探讨了年龄(Brown,2016)、性别(Hamilton，Coates & Heffernan，2O03)、生理因素(Lanfranchi，Cornoldi & Vianello,2004;Milligan& Cockcroft,2017)、语言能力((Blom,Boerma, Bosma,Cornips & Everaert,2017)、认知方式(李寿欣，周颖萍,2006)等对视空间工作记忆能力的影响，但生态环境、生产方式和民族文化对视空间记忆的影响也不容忽视。研究表明，生态环境、生产方式和民族文化影响认知方式和场景知觉(McKone etal.，2010；Nisbett& Cohen，1996；Nisbett，Peng，Choi,&Norenzayan,2001; Oishi &Talhelm,2012；乔艳阳，张积家,2015; Sharon, Yumi, Carol, Alicia,&Richard,2009;Talhelm et al.,2014)。那么，生态环境和生产方式以及由此衍生的文化是否影响人的视空间工作记忆能力？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态环境对人类心理的影响表现在方方面面(武雪婷，金一波,2008)。人类通过与环境的互动把生态环境因素纳入认知结构中，决定了在不同生态环境下的群体对于世界有不同的认知。生态环境制约着生产方式，然后又与生产方式一起，影响着人的认知结构，形成了民族特有的认知结构。民族认知结构又作为民族文化的一部分，对年轻一代认知世界起着引导与制约作用。Linnell,Caparos,de Fockert 和 Davidoff (2013)对比了生活在草原和城市的辛巴族人的注意及工作记忆能力，发现城市辛巴族人的工作记忆能力更好，但在空间注意中却表现出了去中心化的加工，而留守草原的辛巴族人仍然能够更多地关注目标。Uskul,Kitayama和 Nisbett (2008)发现，强调依存型社会取向的农民和渔夫比强调独立型社会取向的猎人表现出更明显的整体型加工方式：在分类中，农民和渔夫更倾向于基于关系的分类，而猎人却更倾向于基于规则的分类。Talhelm 等人(2014)提出了“大米理论”，认为中国的北方和南方在环境、气候上存在着较大的差异，导致了不同的农作物种植史。与来自小麦种植区的人相比,来自水稻种植区的人采取更整体的思维方式，行事更加具有集体主义的特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文化是人类特有的进化形态，与认知密切相关。文化与认知互为视角，既可以从认知的角度来研究文化，又可从文化的角度来研究认知(吴晓燕，陈忠华,2007)。民族认知与民族文化关系密切。民族文化影响民族认知，民族认知又成为民族文化的一部分，影响着民族文化的形成。汪洪、陆志勇、王文富和刘诗翔(2005)证实，文化程度影响人脑的认知功能。杨红升(2007)总结了来自不同国家和地区的研究，发现文化不仅影响感知觉，也影响记忆、思维。在跨文化研究中，自变量主要集中在生态环境、生产方式、民族文化、社会结构和教育等因素上(邵华,2012)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "来自进化论、心理学、语言学和认知人类学的证据表明，文化影响认知不表现为领域普遍性，而是表现为领域特定性。特定的文化促进了相关能力的发展(吴晓燕，陈忠华,2007)。20 世纪80 年代以来，我国心理学家探讨了生态环境和文化对民族认知的影响，产生了许多有价值的成果。例如，傅金芝、周文、李鹏和冯涛(1999)发现，生态环境、生产方式和文化影响民族的认知方式；郑雪和陈中永(1995)发现，生态环境、生产方式决定的食物存贮程度、社会结构的紧密性、社会化倾向性和现代化影响人的认知操作和认知方式；郑雪和陈中永(1996)发现，狩猎和城市的生态环境和生产方式对人施加了一种生态压力，促使抽象型认知方式的形成；在捕鱼、游牧和农耕的生态环境和生产方式的作用下，个体倾向于具体型的认知方式。谢书书、张积家、林娜、和秀梅和肖二平(2008)发现，颜色文化影响彝族、白族、纳西族和汉族大学生对黑与白的知觉与再认。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "处于不同生态环境中的人，采用不同的生产方式，有着不同的生活条件和生活经验，其记忆会受生态环境、生产方式影响，从而会表现出独特性。由于无文字可供记录和储存信息，非文明社会的人往往发展出较强的记忆力。例如，许多没有本民族文字的民族往往都通过代际之间的口述传递来保留本民族的历史。即使在大学生中，也发现了记忆力的文化差异。文化对记忆的影响表现在很多方面，从对特定材料的记忆(Ross＆Miller,1970)、序列位置效应(杨红升，2007)、自传体记忆的获得年龄(Mullen,1994)到自我参照效应(朱滢，张力,2001)和群体参照效应(杨红升，黄希庭,2007)等，都存在着非常显著的文化差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究探查生态环境和生产方式对视空间记忆能力的影响，选择在生态环境与生产方式上非常有特色的鄂伦春族为研究对象。鄂伦春族是我国人口少的少数民族之一，分布在内蒙古和黑龙江两省。2010 年，鄂伦春族的人口为8659人。鄂伦春语属阿尔泰语系满-通古斯语族通古斯语支，没有本民族的文字(关红英，王丙珍，关小云,2014)。鄂伦春人世代以游猎为主，以捕鱼、采集与家庭手工业为辅。直到2001年，鄂伦春族的猎民才最后放下了猎枪。这种渔猎经济在全国处于原始社会形态的少数民族中也是少见的。渔猎经济的存在与生态环境分不开。鄂伦春族是森林民族，他们游猎于大、小兴安岭地区。在这里， $90 \\%$ 以上的土地为森林所覆盖，有500 多种植物。大片的森林不但为种类繁多的野生动物提供了栖息和繁殖场所，也为食草动物和食肉动物提供了丰富的食物，这里有珍禽异兽 50 多种(孟和，何文柱，关红英,2016)。在长期的狩猎、采集实践中，鄂伦春族掌握了狩猎采集的知识、技能和方法，了解了野生动植物的习性，熟悉了山川、河流，练就了百发百中的枪法，被称为大兴安岭地区的\"猎神”。从20 世纪60 年代起，国外的人类学家就对以狩猎和采集为生的民族如 KungBushman人、Eskimo人和澳洲Aborigines人做了调查；我国的人类学家也对采集、狩猎的赫哲人、苦聪人、鄂温克人和鄂伦春人等发表了调研报告(庄孔韶,2006)。但是，研究者大多是从人类学的角度进行调研，心理学研究寥寥无几。选择鄂伦春族作为研究对象，并且与在生态环境与生产方式上与之相差巨大的汉族作比较，可以凸显生态环境与生产方式的作用。研究假设是：与汉族人相比，鄂伦春族人在独特的生态环境下产生了独特的生产方式和民族文化，会对其视空间工作记忆能力产生积极的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2实验1：鄂伦春族学生和汉族学生的视觉空间工作记忆差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内蒙古自治区呼伦贝尔市鄂伦春自治旗的62 名高中生，年龄为16\\~18 岁( $M = 1 7$ $\\boldsymbol { S } \\boldsymbol { D } =$ 0.83)。鄂伦春族学生32人(男14名，女18名)，汉族学生30人(男12名，女18名)。被试均来自同一所民族中学，学习和生活的环境相似，在相同的班级里学习，学习成绩在班级处于中等水平。实验前一学期的期末考试成绩：鄂伦春族学生的语文成绩： $M = 7 7 . 8 4$ ， $S D = 1 5 . 3 5$ 汉族学生的语文成绩： $M = 8 1 . 9 7$ ， $S D = 1 1 . 5 7$ 。鄂伦春族学生的数学成绩： $M = 4 8 . 4 7$ ， $S D =$ 13.67；汉族学生的数学成绩： $M = 5 0 . 6 0 , S D = 1 5 . 8 8 \\circ$ $t$ 检验表明, $t _ { \\mathrm { \\ i ^ { \\ m } \\mathcal { X } } } ( 6 0 ) = 1 . 1 9$ $p > 0 . 0 5$ ,t数$_ { \\ z ( 6 0 ) } = 0 . 5 7 , p > 0 . 0 5$ 。被试的视力或矫正视力正常。鄂伦春族学生与汉族学生的语言背景相同，均为单语者。鄂伦春族学生不会讲也听不懂母语，他们的第一语言为汉语，能够流利地讲普通话和阅读中文书籍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 程序与计分方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时考虑视空间任务的呈现形式和注意控制的需求。选择不同呈现形式的简单存储任务和复杂广度任务。简单存储任务区分为客体工作记忆任务(记忆不规则图形)、同时性空间任务(记忆同时呈现的空间位置)、继时性空间任务(回忆一系列空间位置的顺序)。复杂广度任务要求被试同时记忆和加工视空间信息。参考国外研究(Mammarella,Borella,Pastore，&Pazzaglia,2013; Mammarella,Pazzaglia,& Cornoldi, 2008; Miyake et al.,200O)的做法，在每一实验中，任务的广度水平依次递增，最低为2个刺激。在每一广度下有3次测试，不能够通过同一广度水平的两次测试，实验终止。如果被试能够成功地通过3次测试中的两次，增加一个广度水平。在每一实验开始之前，练习3次，练习图形的数量为2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验在隔音、隔光的实验室内进行。被试完成4个视空间工作记忆实验，顺序采用拉丁方方式平衡。为了消除疲劳误差，被试每完成2个实验，休息2\\~3分钟。全部实验约需要1小时。在计分时，对每一任务，对每一广度水平赋予相应的分值，如广度水平为2，则记2分，广度水平为3，则记3分。最终的评分为被试达到的最高广度水平下正确的3个项目的分数之和。例如，被试最后答对的3个项目为2个3广度水平,1个4广度水平，则总分记为 $3 + 3 + 4$ $= 1 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3仪器",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4个任务均在单被试实验室内进行，采用 E-Prime 2.0 软件编程，采用LENOVO 计算机随机呈现刺激，显示器为17英寸彩色液晶屏幕，屏幕分辨率为 $1 0 2 4 \\times 7 6 8$ ，刷新率为 $6 0 \\mathrm { { H z } }$ 。屏幕的背景为白色。眼睛与屏幕中心的距离约为 $6 0 \\mathrm { c m }$ 。数据采用 SPSS18.0 统计分析(下同)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 设计与任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2(民族：鄂伦春族/汉族) $| \\times 4 |$ (实验任务：客体工作记忆任务/同时性空间任务/继时性空间任务/复杂广度任务)混合设计。其中，民族是被试间变量，实验任务是被试内变量，因变量为被试在4个视空间记忆任务上的成绩。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 客体工作记忆任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先在屏幕中央呈现注视点 ${ \\bf \\cdots } + { \\bf \\cdots } _ { 1 5 0 0 } \\mathrm { m s }$ ，接着在注视点位置依次呈现2\\~9个不规则图形，图形呈现顺序随机化，同一广度下无重复图形出现。不规则图形为黑色，大小 $2 \\mathrm { c m } \\times 2 \\mathrm { c m }$ 。备选图形如图1。每一图形呈现 $1 0 0 0 \\mathrm { { m s } }$ ，空屏 $5 0 0 \\mathrm { m s }$ ，要求被试努力记住每一图形的形状。图形呈现完毕后，在屏幕中央呈现一个由 $4 { \\times } 4$ 个不规则图形构成的矩阵，要求被试用鼠标将刚记忆过的不规则图形选择出来。在矩阵中，每一图形的大小为 $2 \\mathrm { c m } \\times 2 \\mathrm { c m }$ ，图形之间间隔$0 . 5 \\mathrm { c m }$ ，矩阵的空间范围为 $9 . 5 \\ : \\mathrm { c m } \\times 9 . 5 \\ : \\mathrm { c m }$ 。在每一广度下，不规则图形在矩阵中的位置均不相同，以避免被试产生特殊记忆。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 7 } { 1 } \\div \\frac { 4 } { 5 } \\times \\frac { 6 } { 5 } \\times \\frac { 8 } { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 同时性空间任务",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先在屏幕中央呈现注视点 $\\mathrm { \\ddot { \\cdots } } \\mathrm { 1 0 0 0 ~ m s }$ ，接着在注视点位置呈现一个 $5 { \\times } 5$ 方格矩阵，在25 个方格矩阵中随机同时呈现不同数量的红色圆点(从2个到19 个逐渐递增)，呈现时间为$2 0 0 0 \\mathrm { { m s } }$ ，红色圆点的呈现顺序避免产生特殊形状，被试难于进行知觉组织。要求被试努力记住圆点的呈现位置, $1 0 0 0 \\mathrm { m s }$ 的空屏之后，再呈现空的方格矩阵，要求被试用鼠标选择出之前记忆的圆点位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 继时性空间任务",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用Corsi 积木测验。用计算机呈现，以黑边的白色立方体 $( 1 ~ \\mathrm { c m } \\times 1 ~ \\mathrm { c m } \\times 1 ~ \\mathrm { c m } )$ 代替积木。首先呈现注视点 $^ { * * } \\mathrm { + } ^ { , * } 1 0 0 0 \\mathrm { ~ m s }$ ，接着在注视点位置呈现一个 $5 { \\times } 5$ 方格矩阵，被试点击屏幕下方的\"开始\"按钮后，不同数量的白色立方体以每个 $1 0 0 0 ~ \\mathrm { { m s } }$ 的速度依次变黑，数量从2个到19个逐渐递增，呈现完毕后，被试用鼠标按顺序依次点击刚才变黑的若干立方体。操作完成后，根据屏幕下方的提示点击\"开始\"按钮，进行另一顺序测试。目标立方体前后顺序之间产生的空间位置没有形成清晰结构，被试难于进行知觉组织。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.4 复杂广度任务",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "复杂广度任务要求被试同时记忆和加工视空间信息。材料为不同旋转角度的字母R，包括正像和镜像各一半，每一字母R有7个旋转角度，即顺时针偏离向上位置 $4 5 ^ { \\circ } 、 9 0 ^ { \\circ } 、 1 3 5 ^ { \\circ } .$ $1 8 0 ^ { \\circ }$ 、 $2 2 5 ^ { \\circ }$ 、 $2 7 0 ^ { \\circ }$ 、 $3 1 5 ^ { \\circ }$ ，共有14个刺激，大小均为 $2 \\mathrm { c m } \\times 2 \\mathrm { c m }$ 。实验程序为，首先在屏幕中央呈现注视点 $^ { \\cdot \\cdot } + ^ { \\cdot \\cdot } 1 0 0 0 \\mathrm { m s }$ ，接着在注视点位置呈现一个旋转一定角度的字母R，时间1500ms，被试要尽快地判断字母是正像还是镜像，如果是正像，按F键，如果是镜像，按J键。半数被试的按键方式按此规定，半数被试的按键方式相反。被试在判断的同时要记住字母旋转的角度。被试最长有 $3 0 0 0 ~ \\mathrm { { m s } }$ 来反应，之后，黑屏 $5 0 0 ~ \\mathrm { { m s } }$ ，接着呈现第二幅旋转到一定角度的字母。字母呈现广度从2个逐渐递增到9个。一个广度系列的字母呈现结束后，在屏幕中央呈现一个米字格，代表不同的方向，要求被试用鼠标在米字格上依次选出在此广度水平下每一字母的旋转角度(如图2)。在同一广度下，字母随机呈现，没有重复的角度出现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RB 米 判断为“正像” 判断为“反像” 2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验结果见图3。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecb83eadd44abbb97bd5b30ff8dd5b50d4a1605bd65bcbda979ac88118fb4b56.jpg",
+        "img_caption": [
+            "图3被试在4项任务上的成绩"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2（民族） $) { \\times } 4$ (任务类型)混合方差分析表明，民族的主效应显著, $F ( 1 , 6 0 ) = 2 8 . 8 9$ $p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathtt { p } } ^ { \\ 2 } = 0 . 3 3$ 。鄂伦春族学生的成绩显著好于汉族学生。任务类型的主效应显著， $F ( 3 , \\ 1 8 0 ) \\ =$ 158.20, $p < 0 . 0 0 1$ ， ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 7 3$ 。事后检验(Bonferroni)发现，同时性空间任务的成绩 $( M = 2 2 . 6 3 )$ （204号显著高于其他任务, $p \\mathrm { s } < 0 . 0 0 1$ ；继时性空间任务的成绩 $( M = 1 7 . 3 2 )$ 显著高于客体工作记忆任务 $( M = 1 0 . 4 8 )$ 和复杂广度任务 $( M = 9 . 0 3 )$ ， $p \\mathrm { s } < 0 . 0 0 1$ ；客体工作记忆任务的成绩显著高于复杂广度任务, $p < 0 . 0 1$ 。民族与任务类型的交互作用不显著, $F ( 3 , 1 8 0 ) = 0 . 6 2 , p > 0 . 0 5 ,$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相关分析显示，同时性空间任务与继时性空间任务的成绩相关显著, $r = 0 . 4 0 , p < 0 . 0 1$ 说明两个任务具有相似性，但因为空间位置继时呈现时需要被试在头脑中对先前呈现位置保持一段时间，所以相对于同时性空间任务，继时性空间任务对注意的要求更高。客体工作记忆任务与同时性空间任务的成绩相关为0.07，与继时性空间任务的成绩相关为0.23，与复杂广度任务的成绩相关为0.20，同时性空间任务与复杂广度任务的成绩相关为0.16，继时性空间任务与复杂广度任务的成绩相关为0.15，均不显著, $p \\mathrm { s } > 0 . 0 5$ 。这说明，客体工作记忆任务、空间任务和复杂广度任务分别测查视空间工作记忆的不同方面。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1同时考虑视空间任务的形式和注意控制的需求，选择3个简单存储任务和1个复杂广度任务，发现鄂伦春族学生在4个任务上的表现均好于汉族学生，表现出明显的优势。这种优势能否推广到更加生态化的任务中？鄂伦春族生活在原始森林中，那里林木茂密，地形复杂，视线所及事物，既有结构的复杂性，也有数量的复杂性和路径的复杂性。在这样的生态环境中生活，需要人具有高超的视空间工作记忆能力。这种能力可以使鄂伦春族人在复杂的视空间工作记忆任务中更显示出优势。生活经验也表明，鄂伦春人在森林中行走从不迷路，在大兴安岭地区修路时，他们往往充当向导，是\"活地图”。因此，参照 Kessels 等人(2000)和李寿欣和周颖萍(2006)的范式，实验2采用计算机呈现Corsi积木点击任务，引入了材料复杂性的变量，探讨结构复杂性、数量复杂性和路径复杂性是否影响鄂伦春族的视空间工作记忆能力的优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3实验2：材料复杂性对鄂伦春族学生和汉族学生视空间工作记忆的影响  \n3.1实验2a：结构复杂性和数量复杂性对鄂伦春族学生和汉族学生视空间工作记忆能力的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 被试 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "内蒙古自治区呼伦贝尔市鄂伦春自治旗的60 名高中生。年龄为16\\~18 岁 $M = 1 7$ $S D =$ 0.79)。鄂伦春族学生30人(男12名，女18名)，汉族学生30人(男12名，女18名)。被试的其他方面信息基本上同实验1，未参加实验1。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2(民族：鄂伦春族/汉族) $\\times 2 ($ （结构复杂性：矩阵/随机） $) { \\times } 2$ (数量复杂性：低数量/高数量)混合设计。其中，民族是被试间因素，结构复杂性和数量复杂性为被试内因素。因变量为被试的视空间工作记忆广度，即被试能够正确记忆的最大空间顺序。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 材料及仪器",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "材料是将经典的Corsi积木点击任务设计成计算机程序，用黑边的白色立方体( $( 1 ~ \\mathrm { c m } \\times 1$ $\\mathrm { c m } \\times 1 ~ \\mathrm { c m } )$ 代替积木，呈现在白色背景下。数量复杂性分为低数量和高数量，在低数量条件下显示9块立方体，在高数量条件下显示16块立方体。结构复杂性分为矩阵和随机，矩阵是指所呈现的立方体形成了 $3 { \\times } 3$ 或 $4 { \\times } 4$ 的矩阵(见图4a)，随机是指所呈现的立方体随机分布(见图 4b)。实验在单被试实验室内进行，实验仪器同实验1。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f73c91a461ccd4d41bfca64ff397cb76968a99085dee7fb8c2c6f2d57926d081.jpg",
+        "img_caption": [
+            "图4高数量条件下不同结构复杂性的立方体(注：实验时图中编号不显示)"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验有4种条件：低数量矩阵、低数量随机、高数量矩阵、高数量随机。被试分别接受4 种处理，顺序按拉丁方方式平衡。实验开始后，在低数量矩阵下，首先呈现注视点 $\\cdots - 1 0 0 0$ ms，接着在注视点位置呈现 $3 { \\times } 3$ 的方格矩阵，被试点击屏幕下方的\"开始\"按钮后，不同数量的白色立方体以每个 $1 0 0 0 \\mathrm { { m s } }$ 速度依次变成黑色，改变颜色的立方体数量从2个逐渐递增到",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9个。呈现完毕后，被试立即用鼠标按顺序依次点击刚才改变颜色的立方体。操作完成后，被试根据屏幕下方的提示点击\"开始\"按钮，进行另一顺序的测试。前后目标立方体的空间位置未形成清晰的结构，被试难于进行知觉组织。其他实验条件的程序相同。程序采用自我终止的原则，即在测验中增加记忆负荷直到被试不能立即准确地重复记忆信息。顺序长度从2开始，最多为9个刺激。在每一广度下有3次测试，在每次测试中立方体变黑的顺序都不同。如果被试通过了其中的2次测试，顺序长度增加1，被试继续进行广度为4 的测试，依此类推。如果被试不能够通过每一广度中的2次测试，计算机提示被试终止实验。在实验前，被试用广度为2的3次测试进行了练习。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.5 结果与分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验结果见图5。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd4cb0f1dd198c550af2f99f470c5716db560beead361e8b0aec7bb702ba2ba4.jpg",
+        "img_caption": [
+            "图5被试在不同条件下的视空间工作记忆广度"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2（民族 $) { \\times } 2 ($ 结构复杂性) $\\lvert \\times 2 \\rvert$ 数量复杂性)混合设计的方差分析表明，民族的主效应显著，$F ( 1 , 5 8 ) = 1 5 . 2 9$ ， $p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 2 0$ 。鄂伦春族学生的记忆容量 $( M = 6 . 2 7 )$ 显著高于汉族学生$\\left( M = 5 . 5 8 \\right)$ 。结构复杂性的主效应显著, $F ( 1 , 5 8 ) = 5 . 3 5 , p < 0 . 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 0 8$ 。在矩阵条件下的工作记忆广度 $( M = 6 . 0 6 )$ 显著高于在随机情境下 $( M = 5 . 8 0 )$ 。数量复杂性的主效应显著， $F ( 1 ,$ $5 8 ) = 2 6 . 0 5$ $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 3 0$ 。在低数量条件下的工作记忆广度 $( M = 6 . 1 7 )$ 显著高于在高数量条件下 $( M = 5 . 6 8 )$ 。各种交互作用均不显著， $p \\mathrm { s } > 0 . 0 5$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，鄂伦春族学生和汉族学生均存在着视空间工作记忆广度的结构复杂性和数量复杂性效应，与随机模式相比，被试对木块的规则位置记忆好，随着木块数量增加，记忆广度变低。这是因为与随机情境比，在结构情境中，木块按矩阵形式排列，提供了良好的结构性信息，便于被试知觉。并且，当呈现的积木数量少时，每一块积木在屏幕上的位置清楚而且明确，目标积木和其它积木具有很大的区分性，加工的信息少，被试具有更多的能量用于主动复述目标积木，记忆成绩便相应提高。随着积木数量增加，每一块积木的位置模糊，被试必须更准确地对目标位置进行编码，加工的信息明显多，记忆成绩也随之降低。但在4种条件下，鄂伦春族学生的视空间工作记忆广度均显著优于汉族学生。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2实验2b：路径复杂性对鄂伦春族学生和汉族学生视空间工作记忆的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 被试 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "内蒙古自治区呼伦贝尔市鄂伦春自治旗60 名高中生。年龄为16\\~18 岁 $( M = 1 7$ ， $S D = { }$ 0.79)。鄂伦春族 30人(男生12名，女生18名)，汉族 30人(男生12名，女生18名)。被试的其他信息基本上同实验1，未参加实验1和实验 2a。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2(民族：鄂伦春/汉族) $\\scriptstyle 1 \\times 2$ (路径复杂性：简单/复杂)混合设计。其中，民族是被试间因素，路径复杂性为被试内因素。因变量为被试的视空间工作记忆广度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 材料及仪器",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "材料是将经典的Corsi积木点击任务设计成计算机程序，用黑边的白色立方体( $( 1 \\ \\mathrm { c m } \\times 1 \\$ ${ \\mathrm { c m } } \\times 1 { \\mathrm { c m } } )$ 代替积木，有25块立方体，按 $5 { \\times } 5$ 矩阵形式在屏幕中央的白色背景中呈现。木块的移动路径具有对称、连续和重复等特征构成刺激的冗余度。对称是指箭头运动产生的空间模式在水平方向、垂直方向或矩阵的 $4 5 ^ { \\circ }$ 轴上对称；连续是指目标立方体形成的路径没有交叉；重复是指箭头运动顺序的一部分是否转换位置。路径复杂性由刺激的冗余度确定。如果刺激的一部分可以由其它部分预测，就说明该刺激具有冗余性，路径的复杂性低。简单路径指目标立方体之间存在简单的空间构形，被试较容易进行知觉组织，至少包含一个冗余性刺激(图 6a)；复杂路径是指目标立方体间存在复杂的空间构形，被试难于进行知觉组织，不包含冗余性的刺激(图6b)。实验在单被试实验室内进行，实验仪器同实验1。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e15a7256a159d5c53fa6250fca4694fc044b0598513f714f57d3b0792072b5b7.jpg",
+        "img_caption": [
+            "图6简单路径和复杂路径的立方体"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 程序",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "被试分别接受简单路径和复杂路径两种实验处理，顺序在被试间平衡。实验开始后，首先呈现注视点 ${ \\bf \\Sigma } ^ { \\bullet } + { \\bf \\Sigma } ^ { \\bullet } 1 0 0 0 \\ \\mathrm { m s }$ ，接着在注视点位置呈现一个 $5 { \\times } 5$ 的方格矩阵，被试点击屏幕下方的\"开始\"按钮后，不同数量的白色立方体以每个 $1 0 0 0 ~ \\mathrm { { m s } }$ 速度依次变成黑色，改变颜色的立方体数量从2个到9个逐渐递增。呈现完毕后，被试用鼠标按顺序依次点击刚才改变颜色的若干立方体。操作完成后，被试根据屏幕下方的提示点击“开始\"按钮，进行另一顺序的测试。程序采用自我终止原则，即在测验中增加记忆负荷直到被试不能够立即准确重复记忆信息。顺序长度从2开始，最多为9个刺激。每一广度下有3次测试，每次测试中立方体变成黑色的顺序不同。如果被试通过了其中2 次测试，顺序长度增加1，被试可以继续进行广度为 4的测试，依此类推；如果被试不能通过每一广度中的2次测试，计算机提示终止实验。被试首先进行了练习，练习为广度为2的3次测试。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 结果与分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验结果见图 $^ { 7 }$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b0113392601248caf59478884550a105b2d5b77f0cced398336996f00854330.jpg",
+        "img_caption": [
+            "图7被试在简单路径和复杂路径条件下的视空间工作记忆广度"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2（民族） $\\scriptstyle 1 \\times 2$ (路径复杂性)混合方差分析表明，民族的主效应显著, $F ( 1 , 5 8 ) = 8 . 5 3 \\$ ， $p = 0 . 0 0 5$ ${ \\mathfrak { \\eta } } _ { \\mathtt { p } } ^ { 2 } = 0 . 1 3$ 。鄂伦春族学生的工作记忆广度 $\\left( M = 5 . 4 2 \\right)$ 显著高于汉族学生 $( M = 4 . 8 4 )$ 。路径复杂性的主效应显著, $F ( 1 , 5 8 ) = 1 3 . 1 2 \\$ $p = 0 . 0 0 1$ ， ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 8$ 。在简单路径条件下的工作记忆广度（2 $\\left( M = 5 . 3 8 \\right)$ 显著高于在复杂路径情境下 $( M = 4 . 8 7 )$ )。民族与路径复杂性的交互作用不显著， $p >$ 0.05。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "因此，鄂伦春学生和汉族学生均存在着路径复杂性效应，其记忆成绩依赖于路径的空间构形，对简单路径的记忆好于对复杂路径的记忆。由于不同的数字顺序，使目标木块产生了不同路径，即空间构形。在简单路径中，前后顺序的目标积木之间产生的空间构形具有冗余度，存在明显的结构，便于被试知觉。在复杂路径中，前后顺序的目标积木之间产生的空间构形缺乏清晰的结构，被试难于知觉。但是，无论是简单路径还是复杂路径，鄂伦春族学生的视空间工作记忆能力均显著好于汉族学生。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究探讨了生态环境和生产方式对视空间工作记忆能力的影响。以鄂伦春族和汉族的高中生为被试，采用简单存储任务和复杂广度任务，并引入了材料复杂性的变量，考察鄂伦春族和汉族的高中生在视空间工作记忆能力上的差异。结果表明，鄂伦春族学生在客体工作记忆任务、同时性空间任务、继时性空间任务和复杂广度任务上表现均显著好于汉族学生，材料呈现的结构、数量和路径均不影响鄂伦春族学生在视空间工作记忆能力上的优势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1生态环境对鄂伦春族视空间工作记忆优势的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Berry(1967)的生态文化与行为理论(themodelof ecology-culture-behavior)从生态、文化的视角看待人类的行为，认为生态压力是文化与行为的原动力和模塑因素；生态变量限制、强迫、滋养着文化形式，文化形式转而塑造人的行为。即，一定的生态环境导致一定的文化形态，一定的生态和文化形态共同塑造人，使其产生了一定的行为方式。这种行为方式使人能够更好地适应生态环境和文化，甚至影响和改变它们。这一理论能够很好地解释许多研究发现。例如,Turnbull(1961)进入Ituri森林研究俾格米人，发现当地的居民不能够很好地判断远处的物体，他们未发展出知觉恒常性。这是因为俾格米人生活在丛林中，其居住地无开阔的景象，他们也从未见过远处的风景。远距离观察事物的能力对他们来说没有必要。鄂伦春族人的视空间工作记忆能力的优势也可以从生态环境的角度来解释。鄂伦春族生活的大、小兴安岭地区森林植被茂密，千姿百态的植物群落汇集在这里。在原始森林中，栖息着各种走兽飞禽，生长着许多野生植物，河流、沼泽中盛产着各种鱼类(鄂伦春自治旗人民政府，2014)。因此，在鄂伦春族的生态环境中，具有复杂的自然空间模式与丰富的自然生物模式。居住地的生态环境制约着鄂伦春民族的认知结构取向。森林环境和北方寒冷的生态压力要求鄂伦春人养成了强的独立性和高水平的空间分析技能，发展出良好的视空间工作记忆能力。鄂伦春族被试是青少年学生，他们比其前辈受过更多的教育，需要解决抽象问题，因而发展出良好的执行功能，而执行功能与视空间工作记忆关系十分密切(Miyake et al.,2000; Miyake& Friedman,2012)。总之，森林环境赋予了鄂伦春族以独特的认知世界的方式。自然适应约束着鄂伦春族以符合环境需要的方式进行认知选择与取向，因而形成了特有的认知功能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2生产方式是生态环境影响认知的中介因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "生态环境对认知的影响以生产方式为中介。生态环境与生产方式不同，需要不同的技能，因而造成了认知能力的差异。依据人类生存所需要的食物和生活资料的来源，可以将生产方式分为游猎与采集、游耕、游牧和精耕农业等。生态环境不同，生产方式不同，文化习俗不同，所发展出的记忆类型也不同(董艳,2006)。例如，刺绣、剪纸、蜡染活动需要人将花鸟鱼虫、自然景观、人物的表情举止、劳动生活的场景等牢记在心，因而发展出少数民族同胞的出色的形象记忆力。猎人和牧民具有根据动物气息辨别动物的种属、健康状况、行踪等独特的本领。长期与动物打交道发展出游牧民族特有的嗅觉记忆能力。在农业耕种和家畜饲养出现之前，狩猎-采集者曾经广泛分布于世界各地。但是，随着耕种和饲养的发展，农牧业的地域也随之扩展。到了20 世纪初，游猎民族已经被挤压到不适合农耕和放牧的狭小地带。在我国，从事采集、狩猎生计的民族包括赫哲人、苦聪人、鄂温克人和鄂伦春人(庄孔韶,2006)。森林、草原、河川、峡谷等构成的生态环境，决定了游猎-采集是鄂伦春族的生产方式，也决定了其社会结构、意识结构和生活习俗的特点。由于特殊的生活环境影响、生计的要求或职业的熏陶，人们经常运用某种或几种感官对特定的对象感知，其智力组成也就具有独特的结构或特征。对鄂伦春族而言，良好的视空间记忆能力为狩猎、采集活动所必需。一个好的猎手，一个高效率的采集者，需要具备丰富的地理知识和植物、动物的知识，对山川地形、河流分支、动植物的种类能够有效地区分和记忆。因此，千百年来在森林中狩猎、采集，就造就了鄂伦春人特有的视空间记忆能力。Gardner(2008)提出了“自然智力”(naturalistintelligence)的概念。自然智力是在自然界里认识动植物和自然环境的能力，如区分植物和动物，辨识地质特征和气候，明确季节的变化，辨识方向和磁极。自然智力强的人，在打猎、耕作和生物科学上表现突出。显然，鄂伦春族具有高水平的自然智力，而视空间工作记忆能力是自然智力的重要成分之一。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "不同的生产方式会产生不同的文化。人们在不同的环境下以不同的方式创造文化，并赋予文化以不同的特点。文化又塑造人本身。马林诺夫斯基认为，文化具有功能。文化是一组工具，其目的是满足需要(费孝通,1995)。每一种文化都具有指向性。文化不同，所造就的认知结构也不同。鄂伦春族直到解放前夕仍然保持着以猎为主，以捕鱼、采集和家庭手工业为辅的猎业经济。鄂伦春族的视空间工作记忆能力优势也是为了满足自己的需要。在长期的狩猎、采集实践中，鄂伦春族发展出了狩猎-采集智慧。他们精于狩猎，被人称为\"兴安猎神”。在狩猎的同时，他们也采集野菜、野果、植物块根、菌类、药材、鸟蛋等(宋宝峰，王艳梅，陈胜前,2008)。总之，通过千百年的实践，鄂伦春族创造出了独特的狩猎-采集文化，发展出与自然和谐相处的生态意识，具备了颇具特点的认知能力，形成了独具一格的生态文明。乔艳阳、张积家和李子健(2017)表明，经济因素对于民族文化及认知方式具有塑造作用。鄂伦春族在近60 年的定居生活中，社会变化快，以至于个体要在生命周期中经历跨越式的巨大变化，但生态环境和传统生产方式对认知功能的影响依然存在。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "探讨生态环境和生产方式对认知的影响，是民族学、人类学和心理学共同关心的话题。以往的鄂伦春研究多采用田野调查、历史文献研究、跨文化比较等途径进行。本研究通过实验法揭示出鄂伦春族的视空间工作记忆优势，验证了文化生态理论的合理性。本研究表明，生态环境、生产方式和民族文化对视空间工作记忆能力具有重要影响，说明记忆既是生理事件，也是文化事件。不同族群通过发展自身的生理与行为特征，通过生产行为与生态环境发生适应性的互动，使自身的需要与环境供给之间达到了动态平衡。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "与汉族学生比较，鄂伦春族学生具有明显的视觉空间工作记忆能力优势。生态环境与生产方式是影响视觉空间工作记忆能力的重要因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究得到鄂伦春民族研究会和鄂伦春中学师生的大力协助，在此致以诚挚的谢意！",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Allen,R.J.,Hitch, G.J.,Mate,J.,& Baddeley,A.D.(2O12).Feature binding and atention in working memory:A resolution of previous contradictory findings. Quarterly Journal of Experimental Psychology，65(12), 2369-2383.   \nBaddeley,A. (2Oo3). Working memory: Looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839.   \nBaddeley,A.D.,Alen,R.J.,& Hitch, G.J.(20l1).Binding in visual working memory: The role of the episodic buffer. Neuropsychologia, 49(6),1393-1400.   \nBaddeley,A.D.,& Hitch,G.L.(1974).Working memory.New York: Academic Press.   \nBerry,J.W.(1967). Independance and conformity in subsistence-level societies.Journal of Personality and Social Psychology, 7(4), 415-418.   \nBlom,E.,Boerma,T.,Bosma,E.,Cornips,L.,&Everaert,E. (2Ol7).Cognitive advantagesof biingualchildrenin different sociolinguistic contexts.Frontiers in Psychology,8,552.   \nBrown,L.A.(2O16). Spatial-sequential working memory in younger and older adults: Age predicts backward recall performance within both age groups.Frontiers in Psychology,7,1514.   \nDong,Y.(2Oo6).The influence of impartation and inheritance of ethnic cultures on intellgence development. Journal of Research on Education for Ethnic Minorities,(6),5-11.   \n[董艳.(2006).民族文化传承对智力发展的影响．民族教育研究,(6),5-11.]   \nFei,X.T.(1995).Learn from malinowski'sexperience of cultural theory. Journal of Peking University (Philosophy and Social Science Edition), (6),53-71.   \n[费孝通.(1995).从马林诺斯基老师学习文化论的体会．北京大学学报(哲学社会科学版),(6),53-71.]   \nFu,J. Z., Zhou, W.,Li, P.,& Feng,T. (1999). Comparative study on the cognitive style of college students in Yunnan. Journal of Yunnan Normal University (Philosophical Social Science Edition), (4),77-80.   \n[傅金芝，周文，李鹏，冯涛.(1999).云南大学生认知风格的比较研究.云南师范大学学报(哲学社会科学版), (4), 77-80.]   \nGuan, H.Y., Wang,B.Z., Guan, X.Y.(2O14). Research on the literature ofOroqen. Haerbin: Northern Literature and Art Publishing House.   \n[关红英，王丙珍，关小云.(2014)．鄂伦春族文学研究．哈尔滨：北方文艺出版社.]   \nGardner, M. (2Oo8). Intelligence reframed: Multiple intelligence for the $2 I ^ { s t }$ century. Beijing: China Renmin University Press.   \n[加德纳.(2008).智力的重构：21世纪的多元智力.北京：中国人民大学出版社.]   \nHamilton,C.J.， Coates，R.O.，& Hefernan，T. (2003). What develops in visuo-spatial working memory development? European Journal of Cognitive Psychology,15(1), 43-69.   \nKessels,R.P.C.,van Zandvoort,M. J. E.,Postma,A., Kappelle,L. J.,& de Haan,E. H.F. (200O). The corsi block-tapping task: Standardization and normative data. Applied Neuropsychology,7(4), 252-258.   \nLanfranchi, S., Cornoldi, C.,& Vianelo, R. (2O04). Verbal and visuospatial working memory deficits in children with Down syndrome.AmericanJournal on Mental Retardation,109(6),456-466.   \nLi,S.X., Zhou,Y.P.(2Oo6).The influence of individualcognitive style and material complexityon visuo-spatial working memory. Acta Psychologica Sinica, 38(4), 523-531.   \n[李寿欣，周颖萍.(2006).个体认知方式与材料复杂性对视空间工作记忆的影响.心理学报,38(4),523-531.]   \nLinnell,K.J.,Caparos,S.,deFockert,J.W.,& Davidof,J. (o13). Urbanizationdecrease attntional engagement. Journal of experimental psychology. Human perception and performance,39(5),1232-1247.   \nMammarella,I.C.,Borella,E.,Pastore,M.,& Pazzaglia,F.(2O13).The structure of visuospatial memory in adulthood. Learning and Individual Differences, 25,99-110.   \nMammarella,I.C.，Pazzaglia,F.，& Cornoldi，C.(20o8).Evidencefor diferent components inchildren's visuospatial working memory. British Journal of Developmental Psychology, 26(3),337-35.   \nMcKone,E.,Davies,A.A.,Fernando,D.,Aalders,R.,Leung,H.,Wickramariyaratne,T.,&Platow,M.J. (2010) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Asia has the global advantage: Race and visual attention. Vision Research,5O(16),1540-1549. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Meng,H., He, W. Z.,& Guan, H.Y. (2016). The vicisitudes and development of Oroqen autonomous banner. Hulunbeier: Inner Mongolia Culture Press. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[孟和，何文柱，关红英.(2016)．鄂伦春自治旗的变迁与发展．呼伦贝尔：内蒙古文化出版社.]   \nMillgan,R.，& Cockcroft,K. (2O17).Working memory profiles in HIV-exposed,uninfected and HIV-infected children: A comparison with neurotypical controls. Frontiers in Human Neuroscience,11: 348.   \nMiyake，A.，& Friedman,N.P.(2O12).The nature and organization of individual differences in executive functions: Four general conclusions. Current Direction in Psychological Science,21(1), 8-14.   \nMiyake,A.,Friedman, N.P.,Emerson, M.J., Witzki, A.H.,Howerter,A.,& Wager,T.D.(20Oo).The unity and diversity of executive functions and their contributions to complex \"frontal lobe\" tasks: A latent variable analysis. Cognitive Psychology, 41(1),49-100.   \nMulln,M. K. (1994). Earliest recollections of childhood- a demographic analysis. Cognition,52(1),5-79   \nNee,D.E.,Brown,J.W.,Askren,M. K.,BerMan,M.G.,DeMiralp,E.,Krawitz,A.,&Jonides,J. (2013).A Meta-analysis of executive components of working memory. Cerebral Cortex, 23(2),264-282.   \nNisbett，R.E.，& Cohen, D.(1996).Culture of honor:The psychology of violence in the south.Colorado: Westview Press, Inc   \nNisbet,R.E.,Peng,K.,Choi,I.,& Norenzayan,A. (2O01).Cultural and systems of thought:Holistic and analytic cognition. Psychological Review, 108(2),291-310.   \nOishi,S.,& Talhelm,T.(2O12). Residential mobility what psychological research reveals.Current Directionin Psychological Science, 21(6), 425-430.   \nPeople's Government of Oroqen Autonomous Banner. (2014).The brave Oroqen. Beijing: Nationalities Publishing House   \n[鄂伦春自治旗人民政府.(2014)．勇敢的鄂伦春.北京：民族出版社.]   \nQiao,Y. Y., Zhang, J. J. (2015). Cultural shaping of globallocal cognitive approaches: Theory, mechanism and inspiration. Journal of Research on Education for Ethnic Minorities,(6),96-104.   \n[乔艳阳，张积家.(2015).文化塑造整体-局部认知方式：理论、机制及启示.民族教育研究,(6),96-104]   \nQiao,Y.Y., Zhang,J.J.,&Li,Z. J. (2017).The influence of religion and economy on national culture and way of thinking - analysis of the cultural mixing eect of jingpo ethnic group. Journal of Southwest National University (Humanities and Social Sciences),(8),199-204 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[乔艳阳，张积家，李子健.(2017).宗教和经济对民族文化及思维方式的影响——以景颇族为例的文化混搭效应探析．西南民族大学学报(人文社科版),38(8),199-204]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ross,B. M.,& Milsom, C. (197o). Repeated memory of oral prose in ghana and new york. International Journal of Psychology, 5(3),173-181.   \nShao, H. (2O12). A review of the cognitive ecological research pattern. Journal of Southwest Jiaotong University (Social Science Edition),13(4),104-107.   \n[邵华.(2012).认知的生态研究模式述评.西南交通大学学报(社会科学版),13(4),104-107.]   \nSharon,G.G.,Yumi,A.,Carol,H.，Alicia,Y.,，& Richard,S.L.(2009).Cultural difference in the visual processing of meaning: Detecting incongruities between background and foreground objects using N400.Social Cogntive and Affective Neuroscience, 5(2-3),242-253.   \nSong,B.F., Wang,Y.M.,& Chen, S. Q. (2O08). The archaeological significance of hunting and gathering life in Oroqen. Frontier archaeology research, (1),41-56.   \n[宋宝峰，王艳梅，陈胜前.(2008)．鄂伦春狩猎采集生活的考古学意义.边疆考古研究,(1),41-56.]   \nTalhelm，T.， Zhang，X.， Oishi, S.， Shimin，C.，Duan，D.，Lan， X.，& Kitayama,S.(2014).Large-scale psychological diffrences within china explained by rice versus wheat agriculture. Science,344(6184), 603-608.   \nTurnbull,C. M. (1961). Some observations regarding the experiences and behavior of the BaMbuti pygmies. The American journal of psychology,74(2),304-308.   \nUskul,A.K.,Kitayama,S.,& Nisbet,R.E.(2Oo8).Ecoculturalbasisof cognition: Farmersand fishermenare more holistic than herders. Proceedings of the National Academy of Sciences,105(25),8552-8556   \nWang,H., Chen,Z. Y.,Wang,W.F.，& Liu, S. X. (20o5). The influence of education on military training achievement and brain cognitive function. Chinese Behavioral Medicine Science,14(3),215-215.   \n[汪洪，陈志勇，王文富，刘诗翔.(2005)．文化程度对军事训练成绩及脑认知功能的影响.中国行为医学科学， 14(3), 215-215.]   \nWu, X. T.,& Jin, Y.B.(2O08). Study on psychological differences between diffrent geographical environments and culturalbackgrounds. Journal of the papty school of CPC Ningbo Municipal Commitee,(3),87-90.   \n[武雪婷，金一波.(2008).不同地理环境与文化背景下人的心理差异研究.中共宁波市委党校学报，(3), 87-90.]   \nWu,X.Y.,& Chen, Z. H. (2O07). Cultural cognition: The ecological, social and cultural characteristics of cognition.Journalof Yantai University (Philosophical Social Science Edition),(1),114-119.   \n[吴晓燕，陈忠华.(2007)．文化认知观：认知的生态、社会和文化特征.烟台大学学报(哲学社会科学版),(1), ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "114-119.] ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Xie,S.S.,Zhang,J.J.,He,X.M.,& Xiao,E.P.(2008).Culture's effects on‘black'and‘white’ Color cognition of undergraduates from Yi Nation, Bai Nation, Naxi Nation and Han Nation. Acta Psychologica Sinica, 40(8), 890-901.   \n[谢书书，张积家，和秀梅，林娜，肖二平.(2008).文化差异影响彝、白、纳西和汉族大学生对黑白的认知. 心理学报,40(8),890-901.]   \nYang,H.S.(2007). Cognitive effects of cultural differences.Journal of Psychological Science. (4),002-1005.   \n[杨红升.(2007).文化差异的认知影响.心理科学,(4),1002-1005.]   \nYang,H. S.，& Huang,X.T. (2007). Group-reference effect in Chinese.Acta Psychologica Sinica,39(2), 235-241.   \n[杨红升，黄希庭.(2007)．中国人的群体对照记忆效应.心理学报,39(2),235-241.]   \nZheng,X.,& Chen, Z. Y. (1995). The relationship between cognitive operation and cognitive style and ecological culture factors.Acta Psychologica Sinica,27(2),152-158.   \n[郑雪，陈中永.(1995)．认知操作和认知方式与生态文化因素的关系.心理学报,27(2),152-158.]   \nZheng,X.,& Chen,Z.Y. (1996). The relationship between the specific cognition and abstract cognition and social and cultural factors.Journal of Psychological Science,(3),170-174.   \n[郑雪，陈中永.(1996)．具体认知和抽象认知与社会文化因素的关系.心理科学,(3),170-174.]   \nZhu,Y.,& Zhang,L. (2001).The experiments of self- reference effect.Science in China (Series C),31(6), 537-543.   \n[朱滢，张力.(2001)．自我记忆效应的实验研究.中国科学C辑,31(6),537-543.]   \nZhuang, K. S.(2006). Introduction to anthropology. Beijing: China Renmin University Press.   \n[庄孔韶.(2006)．人类学概论.北京：中国人民大学出版社.] ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effect of ecological environment and mode of production on the visual-spatial working memory of Oroqens ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "WANG Ting1; GUAN Yuxia²; GUAN Hongying³; ZHANG Jijial ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(DepartmentofPsychology,Renmin UniversityofChina;TheStateEthnic Affairs CommissionKeyResearch CenterforLanguage, Cultural,andPsychology;KeyResearchCenterforNationalPsychologyandEducation,theNationalEducationDevelopment ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "( Education Science Institute,Hulunbuir University,Hailar,Inner Mongolia,O21oo8,China) ( Orunchun National Research Center,Alihe,Inner Mongolia,l654Oo,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Working memory refers to a system of temporary holding and manipulation of information during the performance of a range of cognitive tasks,such as comprehension, learning,and reasoning. According to Baddeley (1974),the architecture of working memory comprises four separated components， namely， phonological loop, visual-spatial working memory，central executive,and episodic buffer. The visual-spatial working memory is involved in the temporary retention of visual-spatial information. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The Oroqen is one of the oldest ethnic groups in northeast China.Most Oroqens live in the Oroqen Autonomous Banner in the Greater Hinggan Mountains. The area is bestowed with rich resources with a variety of wild animals. For generations,the Oroqens lived a life of hunting and fishing in the forests. They went on hunting expeditions in groups.Researchers explored the ecological environment and mode of production that affected the performance of cognition. The present study aims to explore whether the natural environment, which has formed the Oroqen's hunting culture and hunting-gathering stage of economic production, affects their visual-spatial working memory. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In Experiment 1,four experiments were conducted to investigate the effect of the ecological environment and mode of production on the visuospatial working memory Oroqens. Oroqen ( $\\overset { \\cdot } { \\boldsymbol { n } } =$ 32)and Han( $\\tan { = } 3 0$ ） high school students performed simple storage and complex visual-spatial span tasks. Simple storage tasks were distinguished into three presentation formats: (i) visual, which involved maintaining irregular figures; (ii) spatial-sequential, which involved maintaining sequentially-presented locations;and (iii） spatial-simultaneous，which involved maintaining paterns of locations.The results proved that Oroqens performed significantly better than Hans in all the four visual-spatial working memory tasks. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In Experiment 2, the Corsi block test presented in a computer was employed to investigate whether the structural, quantitative,and path complexity influenced the visual-spatial working memory of Oroqen $( n = 3 0 )$ ）andHan( $\\left( n = 3 0 \\right.$ ）students.Results showed that superiority of the ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Oroqen on visual-spatial working memory still persisted when the memory materials differ in terms of difficulty. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In summary, the ecological environment and mode of production have a significant impact on visual-spatial working memory. The Oroqen people's ecological environment and traditional mode of production have become a genetic factor that may affect the visual-spatial working memory of their offspring. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Oroqen nationality; ecological environment; mode of production; culture; visual-spatial working memory ",
+        "page_idx": 19
+    }
+]

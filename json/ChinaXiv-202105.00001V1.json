@@ -1,0 +1,279 @@
+[
+    {
+        "type": "text",
+        "text": "神经美学视角的审美愉悦加工机制123 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张璇 周晓林",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中央美术学院， 北京 100102； 北京大学， 北京 100871)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 审美对象特有的刺激属性会唤起观赏者特定的情绪或情感反应。个体在欣赏自然、艺术品和其他人类作品时会产生审美愉悦体验。审美愉悦-兴趣模型（PIA）认为，审美愉悦体验包含审美过程中自动化加工阶段的审美愉悦和控制加工阶段的审美兴趣。近年来，神经美学研究表明，负责愉悦和奖赏的眶额叶皮层在审美过程中广泛激活,是自动化加工阶段初级审美愉悦奖赏的神经基础，而审美过程中纹状体亚回路中不同的连接和功能作用与两个阶段中审美愉悦的产生都有关联；上述结果支持了审美愉悦-兴趣模型。但审美高峰体验时默认模式网络（DMN）相关脑区的激活和负责控制与理性思维的外侧前额叶皮层等脑区的失活，提示在 PIA 模型强调的自动化加工审美愉悦和控制加工阶段审美兴趣之上，还有整合升华阶段的审美沉浸愉悦，PIA模型需得到进一步的扩展。未来研究应进一步检验审美愉悦认知加工模型及神经机制，探索审美对创造力的影响机制和神经基础，探讨不同审美经验愉悦机制的异同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词神经美学，审美愉悦，加工机制，审美愉悦-兴趣模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "审美对象具有的特定刺激属性，会唤起个体观赏审美对象时特定的情绪或情感反应；个体欣赏自然、艺术品和其他人类作品时就产生了审美愉悦体验(Packard& Berlyne,1974;Armstrong&Detweiler-Bedell,2008)。研究者将\"从审美中获得的、对审美对象所表达的目的或意义做出回应的一种共享的愉悦\"定义为审美愉悦 (Reber etal.,2004)。美学家对审美愉悦的本质进行了诸多阐释。柏拉图把审美愉悦看作是对美本身的彻悟所带来的无限欣喜;亚里士多德认为，审美愉悦是求知、摹仿的逼真带来的愉快；中国传统老庄文化提倡审美愉悦是一种忘我于美中的快乐，不同于日常吃喝满足的快感；朗吉鲁斯称，审美愉悦是心灵在伟大作品中被开拓、超越而获得愉快和自豪；康德指出，审美愉悦是由美的形式引发的个体对艺术作品或者自然之美的一种情绪性回应 (滕守尧,1998)。总之，审美愉悦是一种比简单的感官愉快更加复杂的愉悦情绪体验，它既有人对美的刺激的感官愉悦，也有对审美对象“因感而知\"的动心之乐，还有审美高峰体验中物我两忘、心与心交的沉浸陶醉（Chatterjee et al,2016；McKeown，2013)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2审美愉悦的理论模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究者先后提出心理生物双系统理论、原型理论、加工流畅性理论及审美愉悦与兴趣理论等理论模型，来解释审美愉悦产生的心理机制。双系统理论认为，审美体验由积极的奖励系统和消极的厌恶系统这两个情绪系统所驱使，积极奖励系统的产物是愉悦和兴趣，消极厌恶系统的产物是厌恶；审美过程中积极的奖励系统被唤起，个体就体验到审美愉悦(Packard& Berlyne,1974)。双系统模型强调，审美愉悦与奖赏系统自动化唤起水平有关，但该模型把审美愉悦简单归因于刺激的奖赏和厌恶，则过于简单宽泛。原型理论（Martindale,1990）认为，审美刺激的原型程度（如外在的形、色、质等）越高，个体获得的审美愉悦程度就越高；原型理论强调审美愉悦受个体对审美刺激认知表征的影响，但没有涉及审美加工心理过程。基于信息加工流畅性——情绪联结模型，审美加工流畅性理论指出，加工流畅性是信息在个体认知系统中流动的难易程度，加工过程中的高流畅性会引发积极情绪，而个体加工审美刺激时的流畅性经验会直接引发审美积极情绪；审美对象流畅性越高，个体获得的审美愉悦程度就越高，审美反应与刺激的流畅性特征正相关(Reber et al.,2004)。这一理论侧重于审美刺激认知过程难易程度对审美愉悦感影响，随后一些研究结果支持了审美刺激的对比度、对称性等流畅性信息对审美愉悦程度的增强作用；但是也有研究发现，审美对象的新颖程度等低流畅性特征也会提高审美愉悦程度，与该模型假设相左(Oppenheimer&Frank,2008)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在加工流畅性模型的基础上，Graf 和Landwehr 提出流畅性的双加工模型——审美愉悦与兴趣模型（The Pleasure-Interest Model of Aesthetic,PIA 模型)。该模型认为，审美存在双加工系统，即自动加工和控制加工；初级加工水平对应的自动加工系统，是一种无意识的加工，精细加工水平则对应控制加工系统，受个体主动、有意识的控制。审美愉悦体验包括初级自动化加工阶段的审美愉悦和控制加工阶段的审美兴趣；审美愉悦是审美初级阶段个体自发拥有的一种积极感受，是一种直接因审美对象而产生喜爱的愉悦体验，它的产生不需要其他中介调节作用；审美兴趣是控制加工阶段个体投入注意资源、对审美对象进行精细化加工所产生的审美愉悦体验，审美刺激的加工流畅性和个体注意资源投入会影响审美过程的愉悦程度(Graf&Landwehr,2015)。PIA理论将审美所产生的愉快体验细分为不同审美加工阶段的审美愉悦和审美兴趣两种愉悦体验，并阐述两种愉悦产生机制及影响因素。越来越多的研究支持该理论，但也有学者提出了该模型在解释审美愉悦产生机制的局限性。比如，PIA 模型是依据产品设计和抽象艺术品欣赏等所涉及的审美判断认知过程而提出的，其普遍适用性有待检验；同时，PIA 模型主要阐述审美主体感知加工审美刺激所产生的愉悦感，缺少对审美主体和客体相互作用、达到物我同一的\"妙悟”、“投入与超然\"等审美高峰体验的讨论(Muth & Carbon,2013;Graf & Landwehr,2017; Frijda & Sundararajan,2010；何先友 等,2019)。借助功能性磁共振成像（fMRI）、脑磁图（MEG）和脑电图（EEG）等技术，对审美过程的脑机制开展研究，神经美学为探索审美愉悦机制、认识审美愉悦本质以及检验审美愉悦理论模型提供了新的视角和证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.不同阶段审美愉悦的神经机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1眶额皮层与自动化加工阶段的愉悦奖赏 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，研究者针对审美体验的神经机制开展了研究（Nadal,2013；Pearce et al.,2016;Karim,&Likova,2018)。研究发现，审美过程中愉悦体验与奖赏系统的功能脑区活动有关，包括眶额皮层、伏隔核、杏仁核、脑岛、海马、前扣带回皮层等(Gerger et al.,2014; Boccia etal.,2016;Mark,2018)。个体欣赏绘画、摄影、建筑物、音乐和雕塑等各类艺术品时，都会激活眶额皮层；因此，眶额皮层被认为是重要的审美功能脑区(Matthew etal.,2016；Ishizu&Zeki,2017; Coburn et al., 2017; Stefan et al., 2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者使用 fMRI来探查个体欣赏不同类别绘画作品（肖像、风景、静物或抽象绘画）时是否会激活专门的脑区。在预实验阶段，每个被试观看各种类别的300 幅绘画作品，并将绘画作品评价为美、中性和丑，所有被试共同选出的美、中性和丑的绘画作品则成为正式实验材料。预实验3\\~6天之后，fMRI实验扫描被试观看筛选出的绘画作品时的脑区活动，结果表明，不管绘画作品类别如何，当个体欣赏美的作品时，眶额皮层的激活程度显著高于欣赏丑的绘画作品(Kawabata& Zeki,2004)。Ishizu 和 Zeki考查了绘画和音乐审美的脑区活动。预实验时邀请被试给绘画作品和音乐作品美的程度评分，分值为1\\~9分；根据被试评分，将绘画和音乐材料分为美、中性和丑三类；将筛选出来的材料作为正式fMRI 实验材料。21名被试看或听审美材料时进行美感程度评分，结果表明，内侧眶额叶皮层在欣赏美的绘画作品和音乐作品时都会被显著激活，内侧眶额叶皮层的激活强度与被试对审美材料美的评价程度成正比。在随后研究中，20 名被试分别观看120 幅图像，这些图像分为美而悲伤的、美而快乐的、中性的和丑的四类。结果发现，被试在欣赏悲伤与快乐的作品时内侧眶额叶皮层广泛激活(Ishizu& Zeki,2011; Ishizu & Zeki,2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "审美初级加工水平对应的自动加工系统，作为一种无意识的加工，并不受刺激具体属性（视觉、听觉/色彩、构图）的影响。眶额皮层被认为是愉悦体验和奖赏系统相关的功能脑区，负责自动情绪调节，参与无意识、目标驱动的、不需要有意控制的情绪调节过程（Mausset al.,2007；Mauss et al.,2010)，眶额皮层受损会影响对情绪刺激自动的注意朝向 (Hartikainenet al.,2012；Lovstad et al.,2012)。眶额皮层在审美过程中广泛激活，反映审美过程中自动化的愉悦体验奖赏（Matthew et al.,2017; Ticini,2017)，是审美自动化加工阶段的愉悦奖赏体验的神经基础。在这一阶段，眶额皮层参与审美刺激所带来的加工奖赏愉悦体验，个体自动化地获得最初的美的感受和愉悦奖赏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2纹状体与双加工阶段的审美愉悦 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "审美活动中，纹状体的尾状核和伏隔核表现出显著的激活，纹状体不同部位的激活会随着审美进程而发生改变（Marianne et al.,2017; Chao et al.,2017;Wald,2015)。Salimpoor 等人(Salimpo0r et al.,2011)将 fMRI与PET 结合起来，研究受试者在欣赏音乐时的脑区活动，结果发现，与听中性音乐相比，个体欣赏愉快音乐时尾状核、壳核和伏隔核显著激活，多巴胺释放增加。更重要的是，研究结合fMRI和PET的结果，观察到个体聆听音乐时多巴胺释放区域的时间差异，在音乐欣赏初期阶段，尾状核的血流动力学反应和多巴胺释放活性最大，随着音乐欣赏体验不断深入并达到审美体验的高峰，内源性多巴胺的分泌经腹侧从尾状核移至伏隔核；PET 结果显示，音乐欣赏过程中个体报告的高峰体验平均强度和愉悦程度与伏隔核内源性多巴胺释放呈正相关。上述研究为审美过程中审美愉悦存在不同加工阶段提供了神经层面的证据：审美愉悦的功能脑区会从尾状核转移到伏隔核，这在一定程度上支持了PIA 模型中提出的审美愉悦不是单一层次加工产物的说法，不同阶段产生的审美愉悦存在各自的神经生理机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "还有研究发现，腹侧纹状体在深度审美体验时显著激活。Blood 和 Zatorre 从具有8 年以上音乐训练经历被试中，根据被试体验到音乐高峰寒颤感的频次筛选出5名男性和5名女性，让每位被试选择聆听一首能自始至终带给他/她强烈愉悦体验的音乐曲目。结果发现，被试在聆听音乐时腹侧纹状体等功能区持续激活。这一激活也被更多的研究证实(Blood &Zatorre,2001；Marianne et al.,2017)。类似地，Brown 等人的一项PET研究发现，在听不熟悉但令人愉快的音乐片段时，腹侧纹状体被激活 (Brown,etal.,2011)。个体欣赏熟悉音乐时腹侧纹状体的激活水平与个体对音乐的欣赏体验相关，并在个体陶醉于深度音乐体验时达到高峰；腹侧纹状体的激活反映了审美体验中实际发生的强烈愉悦感受；研究者据此认为，腹侧纹状体与真实的审美情感、特别是深刻和强烈的审美情感相关（Zatorre，2015；Koelsch,2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尾状核参与奖励刺激的初级加工，这与对奖赏的预期自动化加工相关（Schultz，2000)。伏隔核参与编码刺激奖赏的几率和大小，整合来自大脑的感觉、情感及执行部位的反应（Morawetz et al.,2016; O'Doherty,2004; Yacubian et al.,2007）。Galanter (2010)提出,知觉系统在加工或整合某一审美特征时，会激活边缘系统，释放奖赏性的化学物质(如多巴胺等)，从而使该过程具有奖赏性，审美愉悦是奖赏系统作用的结果。审美过程中尾状核和伏隔核在激活时程上的差异，可能反映了审美过程中不同阶段愉悦奖赏的神经机制；尾部纹状体（尾状核）和腹侧纹状体（伏隔核）功能的分离，可能是个体从初级自动化审美加工转向精细控制化加工的神经机制所在，纹状体亚回路中不同的连接模式和功能作用分别与不同阶段审美愉悦的产生机制密切相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3大脑默认模式网络与深度审美沉浸",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "深度审美发生时个体会感受一种独特的快乐，是从艺术中获取力量之后的快乐，不再是感官满足,而是一种精神愉悦。神经美学研究发现，审美高峰体验时大脑默认模式网络（DMN）会得到激活。默认模式网络涉及到个体保持清醒时脑功能的基线状态，主要包括腹内侧前额叶皮质、内侧前额叶皮质、后扣带回皮层、楔前叶、颞顶联合区和额上回等区域(Mantini& Vanduffel,2013;Juanet al.,2016)。已有研究证实，当个体发生自我参照（如从自我的角度看问题）和指向自我内部（如内省、自我沉思等）的认知加工时，默认模式网络会被激活(Beaty& Schacter,2017)。Vessel等人（2012）的研究要求被试对所看到绘画作品的审美感动程度进行1\\~4级评分，结果发现，当个体在欣赏一般审美感动作品（评分为1\\~3分)，默认模式网络表现出与一般外部刺激加工中相似的基线下失活状态，而在欣赏最高审美感动（评分为4分）的绘画作品时，被试的默认模式网络（mPFC、PCC等）出现基线活跃，与个体在进行自我反思等内部加工过程中出现激活状态相似。研究者认为，内侧前额叶皮质作为默认网络系统的一个网关，在深度审美体验发生时激活并发出内在自我相关的信号，这个信号促使更多参与整合审美刺激加工和审美主体内部自我状态的脑区发挥功能（Vessel etal.,2012；Vartanian& Skov,2014；Mas-Herrero et al.,2018)。深度审美体验发生时，默认模式网络表现出活跃的基线水平，表明深度审美能够促使大脑将内在自我与外部审美对象整合起来；这个过程包括打破内在自我边界、外在审美刺激与内在自我匹配与连接等，为形成新的自我进行积极拓展和准备。默认模式网络将个体带入审美陶醉的愉悦状态，产生内在精神与外在世界沟通相融的纯粹审美愉悦体验，体验到从审美中获取力量的精神愉悦。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在深度审美体验过程中还观察到外侧前额叶皮质区域的广泛失活。外侧前额叶主要负责与理性思维、控制行为相关功能，参与预测、评价目标，修正与调整行为方式等理性活动。Limb 等人采用fMRI研究6名职业钢琴演奏家爵士乐演奏过程。实验中设置控制条件和实验条件，在控制条件中，演奏者反复演奏一个八度的C 大调音阶，实验条件中演奏者在相应的即兴条件下创作一段旋律，但仅限于在相同的八度范围内使用C大调四分音符。结果发现，与控制条件相比，职业演奏家即兴演奏并陶醉于最喜爱的爵士音乐时，默认模式网络中内侧前额叶（额极）皮层出现激活，而外侧前额叶皮质区域出现广泛的失活，表明在深度审美活动中该区域受到主动抑制。研究者认为，职业演奏家在欣赏最钟爱的乐曲时，不仅陶醉于乐曲本身旋律的美，更能领悟到自我与音乐之间契合的生命体验，进入到纯粹的审美高峰体验中，个体感受到自由、随性和富于激情的审美精神愉悦(Limb&Braun,2008；Pauli etal.,2017； Gold,2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究发现，当个体需要集中注意力完成有目标的活动时，默认模式网络会被抑制，出现失活（Fox etal.,2005)。审美高峰体验时观察到的默认模式网络激活和外侧前额叶皮层失活，说明这时候并不是处于审美愉悦-兴趣双加工模型中所提的精细化控制加工阶段。在审美高峰体验阶段，个体沉浸其中而获得的沉浸愉悦不再局限于对审美对象的持续集中注意、精细加工，而是一种指向自我内部、自我创造和升华的深度愉悦。“这不见得是理性，一切都和谐无间....艺术作品就通过这种方式，使你突然觉得想欣赏、了解这个世界....或是突然放开自我，了解我们与这个世界有何关联的能力”（Csikszentmihalyi，1990)，这是一种个体生命体验与审美对象所持有的内在生命结构契合相通，自下而上和自上而下加工相结合的复杂过程。人从艺术欣赏中获得力量和自我升华豁然开朗的精神愉悦，此时外侧前额叶活动减弱、默认模式网络激活，意味着理性的控制被大幅度削弱，内在自我被充分打开而进入物我两忘的状态，体验着“言有尽而意无穷\"的审美沉浸愉悦。这是不同于初级的审美奖赏反馈和刺激的精细化加工的审美兴趣体验。因此，具有双加工机制的 PIA 模型对审美愉悦的解释尚有局限性，在自下而上的审美认知所产生的自动化愉悦奖赏和控制阶段精细加工的审美兴趣之外，还存在我两忘、投入超然的审美沉浸愉悦，这是一种自下而上和自上而下双向加工的复杂审美过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.总结与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，神经美学为审美愉悦体验机制提供了新的证据和视角。如图1中PIA模型所示，我们从神经美学研究结果出发，对审美愉悦的产生阶段、神经基础、审美愉悦类型及加工方式进行了梳理。眶额叶皮层负责自动化情绪调节和愉悦奖赏，在审美活动中普遍激活，是初级审美愉悦的神经基础，反映的是个体在欣赏美的对象时所体验到的自动化加工审美愉悦。审美过程中纹状体功能性产生分离：尾状核内源性多巴胺释放集中在早期审美阶段，随后在审美体验深入过程中逐渐减少，而伏隔核内源性多巴胺释放持续增加，在审美体验深入阶段逐渐增加并在高峰时达到最大。尾状核与初级奖赏自动化加工相关，参与自动化加工阶段的审美愉悦；伏隔核参与刺激奖赏的几率和大小的编码加工，参与精细化控制加工时的审美兴趣。纹状体亚回路中不同的连接和功能作用方式与不同阶段审美愉悦的产生机制密切相关。因此，审美愉悦体验在审美过程中不仅存在时间差异，发生机制也不同。审美愉悦不是一种单一的愉悦感受，而是具有不同的加工层次和神经机制。这为 PIA 模型分阶段产生审美愉悦的理论主张提供了支持证据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "传统美学提出审美感观愉悦、审美领悟愉悦和审美精神愉悦三个层次（滕守尧,1998），李泽厚将审美体验分成“悦耳悦目\"悦心悦意\"和\"悦志悦神\"三个层次（李泽厚，1989)。神经美学的研究也表明，在自动化加工的审美愉悦和精细化加工的审美兴趣之外，还存在一个新的审美愉悦层次。个体进入审美高峰体验，默认模式网络（DMN）相关脑区激活，负责控制与理性思维的外侧前额叶皮层等脑区失活，说明审美愉悦在双加工层次之外还存在一个整合升华、指向物我两忘的的审美高峰体验。这个发现与传统美学所提出的审美三个层次相符 (滕守尧,1998)，也与日常审美体验中自我报告的感受相一致。在审美高峰体验时，审美主体经历强烈认同意识的沉浸体验，实现“心智、身体和环境三者密切相连，且动态统一”,全身心沉浸于艺术审美境界，开启心灵与自我的对话，获得一种深刻的精神快乐（吕坤维，2019；叶浩生，2013)。审美活动包含审美认知和审美元认知两类过程，这两类过程都能产生审美愉悦（丁峻，崔宁，2019；Mukhopadhyay,2014)。在审美元认知阶段，审美主体与审美对象之间不再是单向认知过程，而是相互影响，审美主体引发了自下而上和自上而下双向复杂的相互作用，高层次认知与低层次认知功能相结合，达到的投入超然的审美状态（Frijda& Sundararajan,2010)。审美高峰阶段默认模式网络（DMN）相关脑区的激活表明，个体发生了自我参照和指向自我内部（如内省、自我沉思等）的认知加工过程，审美认知过程审美刺激的加工扩展到了审美主体朝向自我的认知加工，从审美对象美的感官愉悦扩展到了审美主体与审美对象之间物我相联，身心同一的审美沉浸愉悦。感官的感受伴随的愉悦奖赏，对美的组织知觉加工所产生的审美兴趣，这两种审美愉悦与审美沉浸的精神愉快不同。审美沉浸不再是感官的需要得到满足，而是从精神上得到解放，心灵获得力量和勇气的高级快乐，是清醒的自我意识所造成的精神的愉快，因此审美沉浸是独立于愉悦奖赏和审美兴趣两阶段之外的新阶段。PIA模型对审美愉悦的解释，强调了人对审美对象客观的认知阶段，但忽略了人对自我内在审美的主观性认知阶段的审美愉悦。因此，我们提出 PIA 审美愉悦的扩展模型（如图1所示)，该扩展模型包括初级审美愉悦、审美兴趣和审美沉浸快乐三个层次的审美愉悦机制，分别产生于自动化加工、控制化加工以及整合升华三个阶段，具有各自的神经基础，共同构成了复杂、深刻和丰富的审美愉悦体验。在实际的审美过程中,因个体审美需要、审美经验和审美感受力的不同，个体所达到的审美愉悦层次可能并不相同；对同一个体而言，因审美对象、个体状态等差异在不同审美经验中所体验的审美愉悦层次也可能有差异。但是对于完整的审美过程而言，审美愉悦包含了愉悦奖赏、审美兴趣和审美沉浸三个层次。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ca3e4baa6f4441ec6918eaadb85cccba3c5b3af847032cc16c5ab16e3f19afd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“审美和艺术是人类创造性发挥最为充分的领域之一”。审美中视听联觉心理过程与幻想、形象思维和创造性想象有密切关系，审美对创造性发展起着独特的作用，是开发和培养创造性的最佳教育形式 (Pat,2017)。审美促进创造性的机制及神经基础到底为何？从神经美学的研究看，默认模式网络是审美高峰体验关键脑区之一，在深度审美发生时，DMN 出现去激活，这种激活伴随DMN 与相关脑区连接的改变，这是不是审美促进创造性的神经机制所在？创造性神经机制研究发现，高创造性个体表现出更强的默认网络和左侧顶上回的连接强度，以及控制网络和默认网络更为强烈的协同作用(Beaty etal.,2016)创造性越高，控制网络的脑区前扣带与默认网络内的脑区颞枕区域的连接强度就越强 (Mayseless et al.,2015)。因此，默认网络区域的内在功能连接以及与周围脑区功能连接是创造性高低的神经基础之一，经训练而获得的创造性提升与MPFC 和PCC这两个默认网络关键节点之间的静息态功能连接增强有关(Zhang et al.,2015)。审美提高创造性的机制是否在于在审美过程加强默认网络内在功能与与周围脑区功能连接？这有待于进一步的探索和验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最后，传统美学所区分审美经验类型，如优美感、崇高感和滑稽感等。审美对象的形式差别很大，个体主观体验的审美愉悦感受差异很大，如优美感是较为单纯的愉悦，是和谐、平静的形式所产生的一种以悠然自得、轻松柔和为主要感受的情感体验；崇高感是一种个体在欣赏具有巨大形式、力量的审美对象时所产生的紧张、严肃和激荡的复杂激烈的审美情感;滑稽感则是是由可笑、滑稽的对象的种种荒谬、虚假和错误而引起的一种轻松、戏谑、喜剧的愉快情感。从上述不同类别审美经验的感受来看，每一种审美经验都伴随着审美愉悦，但每一种审美经验还包含着多元和复杂的审美情感。目前神经美学的研究很少区分、对比不同类型审美经验，将来的研究可以探究不同审美经验的愉悦感是否具有共同的神经机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "丁峻,崔宁.(2019).审美认知的思想辩证法——兼论审美的\"第二客体\"．自然辩证法通讯.41(2),108-114.何先友,陈雅珏,杨丹妮,何德娴.(2019).流畅性对审美鉴赏的影响--从加工流畅性模型到审美愉悦与兴趣模型",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "华南师范大学学报（社会科学版）.2019(3),71-76.   \n李泽厚.(1989).美学四讲.北京：生活.读书.新知三联书店出版社.   \n吕坤维.(2019).中国人的情感—文化心理学阐释（谢中垚译）．北京：北京师范大学出版社.   \n契克森米哈赖,M.（1990）.心流（张定琦译）．北京：中信出版集团   \n滕守尧.(1998)．审美心理描述．四川：四川人民出版社.   \n叶浩生.(2013).认知与身体：理论心理学的视角.心理学报.45(4)，481-488.   \nArmstrong,T.,& Detweiler, B.B.(2Oo8).Beauty as an emotion: The exhilarating prospect of mastering a challenging world.Review ofGeneral Psychology,12(4), 305-329.   \nBeaty,R.E.,Benedek,M.,Silvia,P.J.,& Schacter,D.L.(2O16).Creativecognition and brain networkdynamics Trends in Cognitive Sciences,20(2), 87-95.   \nBeaty,R.E.，& Schacter,D.L.(2O17). Creativity，self-generated thought,and the brain's default network.The Creative Self, 171-183.   \nBlood,A.J.,& Zatorre,R.J.(2Ool). Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion.Proceedings of the National Academy of Sciences of the United States of America,98(20), 11818-11823.   \nBoccia,M.,Barbeti,S.,Piccardi,L.,Guariglia,C.,& Zaidel,D.W.(2O16).Where does brain neural activation in aesthetic responses to visual art occur? Meta-analytic evidence from neuroimaging studies. Neuroscience & Biobehavior Review, 60, 65-71.   \nBrown,S.,Gao,X.,Tisdele,L.，Eickhoff,S..,Liotti,M.(2O11).Naturalizing aesthetics: Brain areas foraesthetic appraisal across sensory modalities. Neuroimage,58, 250-258.   \nChao,L.,Elvira,B.,Basel,A.J.,Pereira,C.S.,Thomas,J.,& Nandi,A.K.(2O17).Efectof explicit evaluationon neural connectivity related to listening to unfamiliar music.Frontiers in Human Neuroscience,11, 611.   \nChaterjee,A.,& Vartanian,O. (2O16).Neuroscience of aesthetics.Annals of the New York Academy of science, 1369(1),172-194   \nCoburn,A.,Vartanian,O.,&Chaterjee,A. (2O17). Buildings,beauty,and the brain: Aneuroscience ofarchitectural experience. Journal of Cognitive Neuroscience,29(9), 1521-1531   \nFrijda,N.H.,& Sundararajan,L.(2Ol0).Emotion refinement: Atheory inspiredbychinese poetics. Perspectives on Psychological Science,2(3), 227-241.   \nFox,M.D.， Snyder，A.Z.，Vincent,J.L.(2O05). The human brainis intrinsically organizedinto dynamic, anticorrelated functional networks. Proceedings of the National Academy of Sciences,102(27), 9673-9678.   \nGalanter,P. (20lO). Complexity， neuroaesthetics,and computational aesthetic evaluation.13th Generative Art Conference, 399-409.   \nGerger,G,Leder, H.,& Kremer,A. (2014). Context Efects on Emotional and Aesthetic Evaluations of Artworks and IAPS Pictures. Acta Psychologica,151,174-83.   \nGold,B.P.,Pearce,M.T.,Mas-Herrero,E.,Dagher,A.,&Zatorre,R.J. (2O19).Predictabilityanduncertainty inthe pleasure of music: A reward for learning? Journal of Neuroscience,39(47), 9397-9409.   \nGraf,L.K.M.,& Landwehr,J.R. (2015). A dual-processperspective on fluency-based aesthetics:The pleasure-interest model of aesthetic liking.Personality and Social Psychology Review, 19(4),395-410.   \nGraf,L.K.M.,& Landwehr,J.R. (2017).Aesthetic pleasure versus aesthetic interest: The two routes to aesthetic liking. Frontiers in Psychology,8,1-15   \nHartikainen, K.M.,Ogawa, K.H.,& Knight,R.T.(2O12). Orbitofrontal cortexbiases attention toemotional events. Journal of Clinical and Experimental Neuropsychology,34(6),588-597.   \nIshizu,T.,& Zeki, S. (20l1). Toward a brain-based theory of beauty. Plos One, e21852.   \nIshizu,T.,& Zeki, S.(2017). The experience of beauty derived from sorrow. Human Brain Mapping，38, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4185-4200 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Juan,G.P.,Pereda,E.,& Fernando,M.(2016). Neurocognitive decoding of aesthetic appreciation. Multimodal Oscillation-based Connectivity Theory. 87-106   \nKarim,A.K,& Likova,L.T.(2O18).Haptic aesthetics in the blind: A behavioral and fMRI investigation. Electronic Imaging, 2018(14), 1-10.   \nKawabata,H.,& Zeki,S. (2004). Neural correlates of beauty. Journal of Neurophysiology,91(4),1699-1705.   \nKoelsch,S.， Vuust,P.，& Friston,K.(2019). Predictive processsand the peculiar case of music. Trends in Cognitive Sciences, 23(1), 63-77.   \nLimb, C.J.,& Braun, A.R. (2Oo8). Neural substrates of spontaneous musical performance: An fMRI study of jazz improvisation. Plos One,3(2), 1679.   \nLovstad,M.,Funderud,I.,Lindgren M,et al.,(20l2). Contribution of subregions of human frontal cortex to novelty processing. Journal of Cognitive Neuroscience, 24(2), 378-95.   \nMantini,D.,& Vanduffel, W. (2013).Emerging roles of the brain'sdefault network.Neuroscientist,19(1),76-87.   \nMark,R., Peter V.,& Elvira,B. (2018). Brain connectivity networks and the aesthetic experience of music. Brain Sciences,8(6),107-120.   \nMartindale, C. (1990). Aesthetic preference: Anomalous findings for berlyne's psychobiological model. American Journal of Psychology,103(1),53-80.   \nMarianne,T.,Elvira,B.,Johanna,M.,Jan,W.,& Suvi,S.2Ol7).Constituentsof musicand visual-art related pleasure - acritical integrative literature review. Frontiers in Psychology,8,1218-1229   \nMauss,IB., Cook, C.L,& Gross,J. J. (2oo7).Automatic emotion regulation during anger provocation. Journalof Experimental Social Psychology, 43(5), 698-711.   \nMauss,I. B., Bunge,S.A.,& Gross,J.J. (2010).Automatic emotion regulation.Social &Personality Psychology Compass,1(1),146-167.   \nMas-Herrero,E.,Karhulahti,M.,Marco-Pallares,J.,Zatorre,R.J.,Rodriguez-Fornels,A.(2O18).The impactof visual artand emotional sounds in specific musical anhedonia. Progress in Brain Research,237,399-413.   \nMayseless,N.,Eran,A.,& Shamay-Tsoory,S.G (2015). Generating original ideas: The neural underpinning of originality. Neuroimage,116, 232-239.   \nMcKeown, G.J. (2O13). The analogical peacock hypothesis: the sexual selection of mind-reading and relational cognition in human communication. Review of General Psychology, 17(3), 267-287.   \nMorawetz,C.,Bode,S.,Baudewig,J.,Jacobs,A.M.,& Heekeren,H.R. (2016).Neural representation of emotion regulation goals. Human Brain Mapping, 37(2), 600-620.   \nMatthew,P.,Markey,P.S.,Lauring,J.O.,& Helmut,L.,(2016). Visualizing the impact of art: an update and comparison of current psychological models of art experience.Frontiers in Human Neuroscience,10,1-21.   \nMahew,P.,Gernot, G.,Yasmine,C.,Markey,P.S.,&Helmut,L.(2O17).Butis itreallyart?The clasiicationof images as \"art or not art\"and correlation with appraisal and viewer interpersonal differences.Frontiers in Psychology,8,1729-1749   \nMukhopadhyay,D.(2014). Understanding the neuropsychology of aesthetic paradox: The dual phase oscillation hypothesis. Review of General Psychology, 18(3), 237-248.   \nMuth,C.,&Carbon,C.C.(2013).The aesthetic aha: On the pleasure of having insights into gestalt.Acta Psychologica, 144(1),25-30.   \nNadal,M. (2O13).The experience ofart: Insights from neuroimaging. Progress in Brain Research,204,135-158.   \nO'Doherty, J. P. (2OO4). Reward representations and reward-related learning in the human brain: Insights from neuroimaging. Current Opinion in Neurobiology,14(6), 769-776.   \nOppenheimer, D.M.，& Frank,M.C.(2008)．A rose in any other font would not smellassweet: Effects of perceptual fluency on categorization. Cognition,106( 3),1178-1194.   \nPackard,S.,& Berlyne,D.E. (1974).Aesthetics and psychobiology.Studies in Art Education,16(1), 64.   \nPat W.B. (2O17). Eloquent Absence: Aesthetic education in the United States. Journal of Education & Human Development, 6(2),23-30.   \nPauli,B.,Elvira,B.,&Peter,V. (2Ol7). Global sensory qualities and aesthetic experience in music.Frontiers in Neuroscience, 1-13.   \nPearce,M.T.,Zaidel,D.W., Vartanian,O.,Skov,M.,Leder,H.,Chaterjee,A.,&Nadal,M.(2O16). Neuroaesthetics: The cognitive neuroscience of aesthetic experience. Perspectives on Psychological science: A Journal of the Association for Psychological science,11(2), 265-279.   \nReber,R., Schwarz,N.,& Winkielman, P. (2O04). Processing fluency and aesthetic pleasure: Is beauty in the perceiver's processing experience? Personality and Social Psychology Review,8, 364-382.   \nSalimpoor,V.N., Benovoy, M,& Larcher,K. (2O11).Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience,14(2), 257-262.   \nSchultz,W. (20oo). Reward processng in primate orbitofrontal cortex and basal ganglia. Cerebral Cortex,10(3), 272-284.   \nStefan,K.,Stavros,S.,Gabriele,L.,& Satoru,H.(2O18).The auditorycortex hosts network nodes influential for ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "emotion processing: An fMRI study on music-evoked fear and joy.Plos One,13(I), e0190057. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ticini,L.(2Ol7).Theroleof the orbitofrontaland dorsolateral prefrontal cortices inaesthetic preference for art. Behavioral Sciences,7(2),31-40.   \nVartanian，O.,& Skov，M.(2014).Neural correlates of viewing paintings:Evidence from a quantitative meta-analysis of functional magnetic resonance imaging data. Brain and Cognition,87, 52-56.   \nVessel,E.A., Starr, GG.,&Rubin,N.(2O12).The brain onart: Intense aesthetic experience activates the default mode network.Frontiers in Human Neuroscience,6,1-17.   \nWald .C.(2015) .Neuroscience: The aesthetic brain. Nature, 526, S2-S3   \nYacubian,J.,Sommer,T.,Schroeder,K.etal.,(2Oo7).Subregionsof the ventral striatumshow preferential coding of reward magnitude and probability. Neuroimage,38(3), 557-563.   \nZatorre,R.J.(2O15). Musical pleasure and reward: Mechanisms and dysfunction. Annals of the New York Academy of Sciences,1337(1),202-211.   \nZhang,W.，Zhang,Q.P.，& Michael,S.(2O15).How do individual-level factorsaffect the creative solution formation process of teams? Creativity & Innovation Management, 24(3),508-524 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The processing mechanism of aesthetic pleasure in the perspective of neuroaesthetics ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHANGXUAN，ZHOUXIAOLIN ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(Central Academy of Fine Arts, Beijing 100102; Peking University,Beijing 100871, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The aesthetic objects arouse aesthetic pleasure that is specific and intense. The Pleasure-Interest of Aesthetic model (PIA） suggests that aesthetic processing is a dual-process including the automatic processing for sensory pleasure and the control processing for aesthetic interest pleasure. Here we review recent work on the neural substrates of aesthetic pleasure. A large body of studies demonstrate that the orbitofrontal cortex is automatically activated by aesthetic objects and different modes of connection with the striatum support different aspects of aesthetic processing. These results consistent with the PIA model. However, the default mode network (DMN) is activated and the lateral prefrontal cortex is deactivated when the aesthetic flow experience occurs, indicating that beyond the dual-process highlighted by the PIA model there is a higher level of aesthetic flow pleasure. We point out that the PIA model needs to be expanded to include this dimension of aesthetic processing and further studies should be conducted on how the aesthetic experience could impact upon creativity and to what extent different aesthetic experiences have the same or differential neural bases for giving rise to aesthetic pleasure. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS:neuroaesthetics,aesthetic pleasure, processing mechanisms, pleasure- interest aesthetic model ",
+        "page_idx": 13
+    }
+]

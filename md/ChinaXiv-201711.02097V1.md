@@ -1,0 +1,229 @@
+# 白腐菌对玉米秸秆营养价值及抗氧化性能的影响
+
+王雨琼1,2 周道玮1\*
+
+（1.中国科学院东北地理与农业生态研究所，长春 130000;2.中国科学院大学，北京100049）摘要：本试验旨在研究白腐菌对玉米秸秆营养价值及抗氧化性能的影响。选取4种侧耳属白腐菌，分别为红侧耳（Pleurotus diamor）、金顶侧耳（Pleurotus citrinopileatus）、刺芹侧耳（Pleurotus eryngii）和漏斗状侧耳（Pleurotus sajorcaju）。对照组玉米秸秆不接种菌株，试验组玉米秸秆分别接种4种侧耳属白腐菌，每个组设置3个重复，固态发酵 20d，测定发酵物的营养成分含量和体外干物质消化率(IVDMD)，并评估其抗氧化性能。结果显示：1)红侧耳组总有机物（TOM）损失率显著高于金顶侧耳组和刺芹侧耳组（ $. P { < } 0 . 0 5 \rangle$ ，漏斗状侧耳组酸性洗涤纤维（ADL）损失率显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，金顶侧耳组纤维素（CL）损失率显著高于刺芹侧耳组和漏斗状侧耳组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，金顶侧耳组半纤维素（HC）损失率显著高于其他各组( $. P { < } 0 . 0 5$ )。2)金顶侧耳组的粗蛋白质(CP)含量显著高于对照组( $. P { < } 0 . 0 5 )$ ，金顶侧耳组、漏斗状侧耳组和红侧耳组的粗脂肪（EE）含量显著高于对照组（ $P { < } 0 . 0 5 )$ ，4种白腐菌组的总氨基酸含量显著高于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，4种白腐菌组的IVDMD显著高于对照组（ $\cdot P { < } 0 . 0 5$ )。3）4种白腐菌组的1,1-二苯基2-三硝基苯胖(DPPH)自由基清除力、还原力、总抗氧化能力和总酚含量均显著高于对照组（ $_ { . P < 0 . 0 5 ) }$ 。由此可见，白腐菌预处理的玉米秸秆能提高其IVDMD、CP含量及抗氧化性能，可以作为反刍动物新型饲料资源。
+
+关键词：白腐菌；玉米秸秆；抗氧化性能中图分类号：S816.15 文献标识码：A 文章编号：
+
+我国农作物秸秆资源丰富，占全世界秸秆总产量的 $20 \% { \sim } 3 0 \%$ 。其中大部分被闲置和焚烧，不仅污染环境，还造成了资源的浪费。秸秆的饲料化是秸秆利用的有效方式之一，然而由于秸秆中含较高纤维素（CL）、半纤维素（HC）和木质素等大分子聚合物，导致低营养和低消化率等问题，严重限制了秸秆饲料化的发展[1]。近年来，随着各种秸秆加工处理技术（物理法、化学法和生物法）的成熟，秸秆饲料的营养价值及其应用有了大幅度改善，其中，生物法处理有效解决了秸秆低消化率和低营养价值等不足之处[2]，并在改善秸秆营养价值、安全、绿色、无污染等优势方面成为研究热点。
+
+真菌具有较强降解木质素等芳香族化合物的能力[3]，可通过自身分泌的胞外过氧化物酶有效地将秸秆中木质素、CL等大分子聚合物质降解为单体、二聚体或低聚酚等化合物[4-5]。研究表明，多糖和多酚类化合物具有抗氧化和调节免疫力等生物活性。动物组织正常的生理代谢会不断地产生自由基（如超氧化物阴离子、过氧自由基、一氧化氮和过氧化氢)，这些自由基能够破坏机体内蛋白质、脂肪、DNA 等重要的生物分子[]。而抗氧化物质有助于稳定这些高活性的自由基，进而维持动物机体结构和功能的完整性。动物能够从饲粮营养物质中摄取抗氧化剂，抵御自由基对机体产生的氧化损伤，由此可见，营养性饲料中的抗氧化成分对动物的健康和免疫系统至关重要[7]。
+
+关于优化生物处理秸秆的研究多集中在菌种筛选、产酶条件及降解机理等方面，目前，已经确定白腐菌降解木质CL效果最好，但对于其抗氧化能力的研究相对较少。因此，本试验选用4种侧耳属白腐菌：红侧耳（Pleurotus diamor）、金顶侧耳（Pleurotus citrinopileatus）、刺芹侧耳（Pleurotus eryngii）和漏斗状侧耳（Pleurotus sajor caju)，通过发酵处理玉米秸秆，来探究其对玉米秸秆营养价值及抗氧化性能的影响，旨在为进一步研究更具功能性饲料的开发利用提供理论依据。
+
+# 1材料与方法
+
+1.1菌种与主要试剂试验选用4种常见的侧耳属白腐菌：红侧耳、金顶侧耳、刺芹侧耳和漏斗状侧耳，菌种
+
+均购自江苏省天达食用菌研究所。
+
+1,1-二苯基 2-三硝基苯肼(DPPH)（纯度 $9 7 \%$ ）、铁氰化钾（纯度 $9 9 . 5 \%$ ）、三氯乙酸（纯度 $9 9 \%$ ）、三氯化铁（纯度 $9 9 \%$ )、三吡啶基三嗪（纯度 $9 7 \%$ ）、六水氯化铁、无水氯化亚铁、菲咯嗪（纯度 $98 \%$ ）、无水甲醇和无水乙醇均购自国药集团化学试剂有限公司，没食子酸（纯度 $9 9 \%$ ）和氨基酸标准品（纯度 $9 9 \%$ ）均购自美国 Sigma公司。
+
+# 1.2 菌种的活化
+
+用接种环将白腐菌接种到高压灭菌的马铃薯琼脂固体培养基（马铃薯 $2 0 0 ~ \mathrm { g }$ ，一水葡萄糖 $2 0 \ \mathrm { g }$ ，琼脂 $2 0 \ \mathrm { g }$ ，蒸馏水 $1 ~ 0 0 0 ~ \mathrm { m L }$ ， $\mathsf { p H }$ 自然，121 $\mathrm { { } ^ { \circ } C }$ 高压灭菌 $2 0 ~ \mathrm { m i n }$ ）上，置于 $2 5 \mathrm { ~ \textdegree ~ }$ 恒温培养箱中培养7d。
+
+# 1.3 液体菌种的制备
+
+向 $2 0 0 ~ \mathrm { g }$ 马铃薯中加入 $1 ~ 0 0 0 ~ \mathrm { { m L } }$ 蒸馏水，煮沸 $3 0 \mathrm { m i n }$ ，然后添加 $2 0 \mathrm { g }$ 一水葡萄糖， $2 { \mathrm { ~ g ~ } }$ 无水硫酸铵， $\mathrm { ~ 1 ~ g ~ }$ 蛋白陈， $\mathrm { ~ 1 ~ g ~ }$ 无水磷酸二氢钾， $_ \textrm { 1 g }$ 无水硫酸镁，自然pH，制备成液体马铃薯培养基，分装在 $2 5 0 ~ \mathrm { m L }$ 的三角瓶内，121 $\mathrm { { } ^ { \circ } C }$ 高压灭菌 $2 0 \mathrm { m i n }$ 后，室温下冷却，取8块8mm 的食用菌菌块,放入到液体培养基中， $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 恒温避光培养2d后，转入到 $2 5 \ \mathrm { ^ { \circ } C } \cdot 1 5 0 \ \mathrm { r / m i n }$ 水浴摇床中放置4d。
+
+# 1.4试验设计和固态发酵
+
+底料成分和比例： $31 . 5 \%$ 玉米秸秆( $2 { \sim } 3 ~ \mathrm { c m }$ ）、 $1 . 0 \%$ 玉米面、 $1 . 0 \%$ 尿素、 $0 . 5 \%$ 石膏、 $0 . 5 \%$ 维生素、 $0 . 5 \%$ 矿物质元素、 $6 5 . 0 \%$ 水，按照上述比例混匀，取 $2 0 0 \mathrm { ~ g ~ }$ 培养底料装入到耐高温的聚丙烯袋中，压实、封口。蒸汽高压处理 $3 0 ~ \mathrm { m i n }$ ，过夜，再次121℃高压灭菌 $3 0 ~ \mathrm { m i n }$ 室温下冷却后接种。对照组玉米秸秆不接种菌株，试验组玉米秸秆分别接种4种侧耳属白腐菌，每个组设置3个重复，接种量为底料干物质含量的 $10 \%$ （质量分数)，接种后放置在 $2 5 \mathrm { ~ \textdegree ~ }$ 无光恒温培养箱内培养 $2 0 \mathrm { d }$ ，在 $4 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘箱内烘干，置于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 保存待测。对照组同上培养条件及处理。
+
+# 1.5样品提取
+
+准确称取 $3 \mathrm { { g } }$ 样品放入到磨口的三角瓶内，加入 $1 0 ~ \mathrm { m L }$ 无水甲醇溶液，盖紧瓶盖并置于超声波仪内，超声处理 $2 0 ~ \mathrm { { m i n } }$ ，重复2次，过滤。采用旋转蒸发仪， $4 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下蒸发过滤液至${ 5 } \mathrm { m L }$ ，置于4℃环境下，1周内待用。
+
+# 1.6 测定指标及方法
+
+# 1.6.1 营养成分含量测定
+
+CL 和 HC 含量测定采用范氏（Vansoest）纤维测定方法[8]，酸性洗涤木质素（ADL）含量测定参照国标GB/T20805-2006方法，粗蛋白质（CP）含量测定采用凯氏定氮法，粗脂肪（EE）含量采用索氏提取法[8]。
+
+# 1.6.2 总氨基酸含量测定
+
+称取 $0 . 2 { \sim } 0 . 5 \ \mathrm { g }$ 的样品置于 $1 0 ~ \mathrm { m L }$ 盐酸（ $6 \mathrm { m o l / L }$ ）中， $1 1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 孵育 $2 4 \mathrm { h }$ ，室温冷却后，采用 $0 . 2 2 \mu \mathrm { m }$ 过滤膜过滤水解液后，用Agilent1290 高效液相色谱仪（美国Agilent公司）进行测定。
+
+测定条件：分析柱（ $4 . 6 \ : \mathrm { m m } \times 1 5 0 \ : \mathrm { m m }$ ， $3 . 5 \mu \mathrm { m }$ ）柱温 $4 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，保护柱（ $( 4 . 6 \ : \mathrm { m m } \times 1 2 . 5 \ : \mathrm { m m }$ ${ 5 \mu \mathrm { m } } \mathrm { . }$ )，进样量为 $2 \mu \mathrm { L }$ ，流速为 $1 . 0 \ : \mathrm { m L / m i n }$ 。流动相A为 $4 0 \mathrm { m m o l / L }$ 磷酸氢二钠， $\mathrm { p H } 7 . 8$ 流动相B为 $45 \%$ 乙腈、 $45 \%$ 甲醇和 $10 \%$ 的去离子水。
+
+# 1.6.3 体外干物质消化率（IVDMD）测定
+
+人工瘤胃营养液的配方参照 Menke 等[的方法。将 $5 0 \ \mathrm { g }$ （干重）绵羊粪便用研砵研碎与1L的人工瘤胃营养液混合，此过程中使用磁力搅拌器持续搅拌，使粪便与人工瘤胃营养液温度保持在 $3 9 . 5 \mathrm { ~ \ ^ ~ { \circ } C }$ ，持续通入 $\mathrm { C O } _ { 2 }$ 以保持厌氧环境。用分液器向称有 $\boldsymbol { 0 . 3 \mathrm { ~ g ~ } }$ 样品的厌氧培养瓶内加入 $3 0 ~ \mathrm { m L }$ 的人工瘤胃营养液，39.5℃培养 $4 8 \mathrm { { h } }$ 终止发酵，将样品烘干后，加入胃蛋白酶液消化 $2 4 \mathrm { h }$ ，消化结束后，用 $9 0 \mathrm { ~ \textdegree ~ }$ 蒸馏水冲洗， $1 0 6 2 5 \times g$ 离心，倒掉上清，105℃烘干[10-11]，并计算 IVDMD。
+
+# 1.6.4DPPH自由基清除力的测定
+
+参考文献[12]的方法，将 DPPH溶于无水乙醇溶液中，配制成0.1mmol/LDPPH工作液。取 $1 ~ \mathrm { m L }$ DPPH工作液加入 $0 . 5 ~ \mathrm { m L }$ 提取液混合均匀后，室温下静止 $3 0 ~ \mathrm { m i n }$ ，在 $5 1 7 ~ \mathrm { n m }$ 处测定吸光度值！ $\langle A _ { 1 }$ )，用同体积的无水乙醇溶液代替提取液测定空白吸光度值 $( \boldsymbol { A } _ { 0 } )$ ，用同体积无水乙醇溶液替代DPPH工作液测定对照组吸光度值 $( A _ { 2 } )$ )，采用岛津分光光度计（UV-1800）测定吸光度值（以下试验同)。
+
+DPPH自由基清除力 $( \% ) { = } [ 1 { - } ( A _ { 1 } { - } A _ { 2 } ) / A _ { 0 } ] \times 1 0 0$ 。
+
+# 1.6.5 还原力的测定
+
+参照文献[13]的方法，取 $0 . 5 ~ \mathrm { m L }$ 提取液加入 $0 . 1 \mathrm { m L } 1 \%$ 的铁氰化钾，混合均匀后，50℃下静止 $3 0 ~ \mathrm { m i n }$ ，然后加入 ${ 5 0 } ~ \mu \mathrm { L }$ 三氯乙酸和 ${ 5 0 } ~ \mu \mathrm { L }$ 、 $1 \%$ 的三氯化铁，室温下静止 $2 0 ~ \mathrm { m i n }$ 后于 $7 0 0 \mathrm { n m }$ 处测定吸光度值并计算还原力。
+
+# 1.6.6 总抗氧化能力的测定
+
+参照文献[14]的亚铁还原能力（FRAP）法， $\mathrm { F e S O } _ { 4 }$ 标准曲线的绘制：分别吸取0.1、0.2、0.4、0.6、0.8和 $1 . 0 \ \mathrm { m m o l / L }$ 的 $\mathrm { F e S O } _ { 4 }$ 标准液（ $1 . 0 \mathrm { m m o l / L }$ )，加入 $2 { \mathrm { m L } }$ FARP反应液和1mL蒸馏水，混匀后与 ${ 5 9 3 } \mathrm { n m }$ 处测定吸光度值。
+
+FRAP反应液是由 $3 0 0 \mathrm { m m o l / L }$ 的乙酸( $\operatorname { \mathrm { . p H } } 3 . 6 \$ 、 $1 0 \mathrm { m m o l / L }$ 三吡啶基三嗪和 $2 0 \mathrm { m m o l / L }$ 的氯化铁，按照体积10:1:1混合制成。取 $2 { \mathrm { ~ m L ~ } }$ 的FARP反应液，加入 $0 . 5 ~ \mathrm { m L }$ 提取液和 $1 ~ \mathrm { m L }$ 的蒸馏水，混合混匀后于 $5 9 3 ~ \mathrm { n m }$ 处测定吸光度值并计算总抗氧化能力。
+
+# 1.6.7 亚铁离子螯合能力测定
+
+参照文献[15]的方法，将 $0 . 5 ~ \mathrm { m L }$ 提取液与 $1 . 6 ~ \mathrm { m L }$ 去离子水， $0 . 5 ~ \mathrm { m L }$ 无水氯化亚铁和0.1mL、5mmol/L菲咯嗪混合均匀后， $4 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下孵育 $1 0 \mathrm { m i n }$ ，在 $5 6 2 \mathrm { n m }$ 处测定吸光度值 $\left( { { \cal A } _ { 1 } } \right)$ ），用同体积的无水甲醇溶液代替提取液测定空白吸光度值 $( A _ { 0 } )$ )，用等体积去离子水溶液替代氯化亚铁工作液进行测定对照组吸光度值 $( A _ { 2 } )$ 。
+
+亚铁离子螯合能力 $( \% ) { = } [ 1 { - } ( A _ { 1 } { - } A _ { 2 } ) / A _ { 0 } ] \times 1 0 0$ 。
+
+1.6.8总酚含量（total phenolic content,TPC）测定
+
+以没食子酸作为标准品标绘制准曲线。加入 $2 ~ \mathrm { m L }$ 的样品液，再加入 $1 ~ \mathrm { m L }$ 福林试剂，振荡 $3 { \sim } 4 ~ \mathrm { m i n }$ 后，加入 $1 \mathrm { \ m L 2 0 \% }$ 的碳酸钠， $3 0 \mathrm { ~ \textdegree ~ }$ 避光放置 $3 0 ~ \mathrm { m i n }$ ，置于 $7 6 0 ~ \mathrm { n m }$ 测定吸光值并计算总酚含量。
+
+# 1.7 数据统计分析
+
+以上样品测定指标均重复3次，采用 SPSS16.0软件对数据进行分析，试验数据用平均值±标准差表示，采用单因素方差分析(one-way ANOVA)和LSD 法分析组间差异显著性，不同的参数之间的相关性进行了皮尔森相关系数 $( R )$ 分析[16]。
+
+# 2结果与分析
+
+2.1白腐菌对玉米秸秆的生物质损失率的影响
+
+由表1可知，4 种白腐菌均能有效降解秸秆的生物质成分。红侧耳组总有机物（totalorganic matter,TOM）损失率显著高于金顶侧耳组和刺芹侧耳组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )。漏斗状侧耳组ADL损失率显著高于其他各组（ $P { < } 0 . 0 5 )$ ，说明漏斗状侧耳对ADL的降解能力强于其他3种白腐菌。金顶侧耳组CL 损失率显著高于刺芹侧耳组和漏斗状侧耳组（ $P { < } 0 . 0 5 \mathrm { : }$ ，金顶侧耳组HC 损失率显著高于其他各组（ $( P { < } 0 . 0 5 )$ ，可见金顶侧耳具有较强的CL和HC的分解能力。漏斗状侧耳对HC 的降解能力仅次于金顶侧耳。
+
+# 表1白腐菌对玉米秸秆的生物质损失率的影响
+
+Table 1Effects of white rot fungi on biomass constituent loss rates of corn stover   
+
+<html><body><table><tr><td>项目</td><td>总有机物损失率</td><td>酸性木质素损失率</td><td>纤维素损失率</td><td>半纤维素损失率</td></tr><tr><td>Items</td><td>TOM loss rate</td><td>ADL loss rate</td><td>CL loss rate</td><td>HC loss rate</td></tr><tr><td>金顶侧耳组</td><td>6.82±0.36b</td><td>16.01±0.82℃</td><td>9.26±1.42a</td><td>16.14±1.63a</td></tr><tr><td>P.citrinopileatus</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td> group</td><td></td><td></td><td></td><td></td></tr><tr><td>刺芹侧耳组</td><td>6.73±0.30b</td><td>17.47±0.84bc</td><td>2.23±0.12℃</td><td>8.99±1.93℃</td></tr><tr><td>P. eryngii group</td><td></td><td></td><td></td><td></td></tr><tr><td>漏斗状侧耳组</td><td>7.17±0.31ab</td><td>28.59±1.93a</td><td>5.04±0.57b</td><td>11.92±0.41b</td></tr><tr><td>P. sajor caju group</td><td></td><td></td><td></td><td></td></tr><tr><td>红侧耳组</td><td>7.61±0.24a</td><td>19.20±1.81b</td><td>8.20±0.55a</td><td>8.66±0.61℃</td></tr><tr><td>P. diamor group</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \ )$ ，相同或无字母表示差异不显著中 $. P { > } 0 . 0 5 )$ 。表2、表3同。
+
+In the same column, values with different small letter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ The same as Table 2 and Table 3.
+
+2.2 白腐菌对玉米秸秆营养成分含量及IVDMD的影响
+
+由表2可知，4 种白腐菌组的CP、EE、总氨基酸含量和IVDMD 均高于对照组。金顶侧耳组的CP含量显著高于对照组( $_ { . P < 0 . 0 5 ) }$ ，其他3组略高于对照组，但差异不显著( $P { > } 0 . 0 5 )$ ，4组之间CP含量差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )。与对照组相比，金顶侧耳组、漏斗状侧耳组和红侧耳组EE含量显著提高（ $_ { . P < 0 . 0 5 ) }$ ，EE含量增加了 $2 9 . 4 9 \% \sim 7 9 . 4 8 \%$ 。与对照组相比，4种白腐菌组的总氨基酸含量显著提高（ $\cdot P { < } 0 . 0 5 )$ ，刺芹侧耳组的总氨基酸含量显著低于其他3组1 $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。4种白腐菌组的IVDMD显著高于对照组（ $\cdot P { < } 0 . 0 5 \$ )，由高到低依次为：漏斗状侧耳组 $>$ 刺芹侧耳组 $. >$ 金顶侧耳组 $>$ 红侧耳组；漏斗状侧耳组的IVDMD其他各组相比，增加了 $6 . 5 7 \% { \sim } 9 0 . 0 8 \%$ 。
+
+# 表2白腐菌对玉米秸秆营养成分含量及体外干物质消化率的影响
+
+Table 2Effects of white rot fungi on nutrient component contents and in vitro dry matter
+
+digestibility of corn stover
+
+<html><body><table><tr><td colspan="4"></td></tr><tr><td>项目</td><td>粗蛋白质</td><td>粗脂肪</td><td>总氨基酸</td><td>体外干物质消化率</td></tr><tr><td>Items</td><td>CP/%</td><td>EE/%</td><td>Total amino</td><td>IVDMD/%</td></tr><tr><td></td><td></td><td></td><td>acids/(mg/g)</td><td></td></tr><tr><td>对照组</td><td>5.42±1.16b</td><td>0.78±0.15</td><td>159.59±7.65</td><td>20.05±1.52e</td></tr><tr><td>Control group</td><td></td><td></td><td></td><td></td></tr><tr><td>金顶侧耳组</td><td>8.05±0.62a</td><td>1.20±0.12ab</td><td>229.71±7.10a</td><td>41.50±1.32bc</td></tr><tr><td>P.citrinopileatus</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td></tr><tr><td>刺芹侧耳组</td><td>6.50±0.62ab</td><td>1.01±0.33bc</td><td>197.87±7.47b</td><td>43.68±1.15b</td></tr><tr><td>P. eryngii group</td><td></td><td></td><td></td><td></td></tr><tr><td>漏斗状侧耳组</td><td>7.11±1.13ab</td><td>1.15±0.15ab</td><td>220.48±5.37a</td><td>46.56±0.32a</td></tr><tr><td>P. sajor caju group</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>红侧耳组</td><td>6.96±0.63ab</td><td>1.40±0.11a</td><td>216.20±3.21a</td><td>40.91±0.35c</td></tr></table></body></html>
+
+P. diamor group
+
+# 2.3白腐菌对玉米秸秆抗氧化性能的影响
+
+如表3所示，与对照组相比，4种白腐菌组的玉米秸秆均可增加其抗氧化性能，DPPH自由基清除力、还原力、总抗氧化能力和总酚含量均显著高于对照组（ $\scriptstyle P < 0 . 0 5$ )。漏斗状侧耳组DPPH自由基清除力略高红侧耳组（ $P { > } 0 . 0 5 \$ )，此2组显著高于其他3组（ $\cdot P { < } 0 . 0 5 \$ 。4种白腐菌组的还原力显著高于对照组（ $. P { < } 0 . 0 5 )$ ，但4种白腐菌组之间差异不显著（ ${ \it P } { > } 0 . 0 5 )$ 。漏斗状侧耳组的总抗氧化能力最强，其次是红侧耳组，显著高于其他3组（ $\cdot P { < } 0 . 0 5$ )。漏斗状侧耳组亚铁离子螯合能力和总酚含量显著高于其他各组（ $P { < } 0 . 0 5 )$ ，其次是红侧耳组。以上结果表明，4 种白腐菌处理秸秆后其抗氧化性性能由大到小依次为：漏斗状侧耳组 $. >$ 红侧
+
+耳组 $. >$ 刺芹侧耳组 $>$ 金顶侧耳组。
+
+# 表3白腐菌对玉米秸秆抗氧化性能的影响
+
+Table 3Effects of white rot fungi on antioxidant properties of corn stove   
+
+<html><body><table><tr><td></td><td></td><td></td><td>总抗氧化能</td><td></td><td>总酚含量</td></tr><tr><td>项目</td><td>DPPH自由基清除力</td><td>还原力</td><td>力</td><td>亚铁离子螯合能力</td><td>Total</td></tr><tr><td></td><td>DPPH free radical</td><td>Reducing</td><td>Total</td><td>Fe2+ metal chelating</td><td>phenolic</td></tr><tr><td>Items</td><td>cleaning capacity/%</td><td>power/%</td><td>antioxidant</td><td>capacity/%</td><td>content/(m</td></tr><tr><td></td><td></td><td></td><td>capacity/%</td><td></td><td>g/g)</td></tr><tr><td>对照组</td><td>30.35±0.73d</td><td>0.51±0.12b</td><td>27.38±1.22d</td><td>10.56±1.25d</td><td>2.87±0.11d</td></tr><tr><td>Control group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>金顶侧耳组</td><td>32.96±1.50c</td><td>0.90±0.15a</td><td>38.78±1.65b</td><td>11.94±0.80cd</td><td>4.74±0.18</td></tr><tr><td>P.citrinopileatus</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>刺芹侧耳组</td><td>36.91±1.49b</td><td>0.74±0.11a</td><td>34.64±2.04c</td><td>12.71±0.78c</td><td>5.67±0.98b</td></tr><tr><td>P.eryngii group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>漏斗状侧耳组</td><td>54.90±1.47a</td><td>0.97±0.15a</td><td>43.35±1.46a</td><td>15.87±0.67a</td><td>7.27±0.32a</td></tr><tr><td>P.sajor caju</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>红侧耳组</td><td>53.60±0.56a</td><td></td><td></td><td>14.27±0.08b</td><td>6.26±0.39b</td></tr><tr><td></td><td></td><td>0.85±0.13a</td><td>40.79±0.46ab</td><td></td><td></td></tr></table></body></html>
+
+如表4所示，大部分参数之间存在相关性，ADL 损失率与IVDMD 和总酚含量显著正相关（ $_ { \scriptstyle P < 0 . 0 1 }$ )，总酚含量与DPPH自由基清除力、还原力、总抗氧化能力和亚铁离子螯合
+
+能力均呈显著的正相关性（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 0 1$ )。
+
+# 表4不同参数之间皮尔森相关系数
+
+Table 4Pearson's correlation coefficient (r) among different parameters   
+
+<html><body><table><tr><td colspan="9"></td></tr><tr><td>项目</td><td>总有机物损</td><td>酸性木质素</td><td>体外干物质</td><td>DPPH自由</td><td>还原力</td><td>总抗氧化能</td><td>亚铁离子螯合能</td><td>总酚</td></tr><tr><td>Items</td><td>失率</td><td>损失率</td><td>消化率</td><td>基清除力</td><td>Reducing</td><td>力</td><td>力Fe²+metal</td><td>含量</td></tr><tr><td></td><td>TOM loss</td><td>ADL loss</td><td>IVDMD/%</td><td>DPPH free</td><td>power/%</td><td>Total</td><td>chelating</td><td>Total</td></tr><tr><td></td><td>rate/%</td><td>rate/%</td><td></td><td>radical</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>antioxidant</td><td>capacity/%</td><td>phen</td></tr><tr><td></td><td></td><td></td><td></td><td>cleaning</td><td></td><td>capacity/%</td><td></td><td>olic</td></tr><tr><td></td><td></td><td></td><td></td><td>capacity/%</td><td></td><td></td><td></td><td>conte</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>nt/(m</td></tr><tr><td>总有机物损失</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>g/g)</td></tr><tr><td>TOM loss rate/%</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.329</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>rate /% C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体外消化率</td><td>0.049</td><td>0.797**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IVDMD/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DPPH自由基清除力</td><td>0.419</td><td>0.895***</td><td>0.762**</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>DPPH free radical</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>cleaning capacity/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.147</td><td>0.217</td><td></td><td>0.406</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>还原力</td><td></td><td></td><td>0.419</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>总抗氧化性</td><td>0.524</td><td></td><td>0.902***</td><td>0.748**</td><td>0.923***</td><td>0.517</td><td>1.000</td><td></td></tr><tr><td>Total</td><td>antioxidant</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>capacity/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>亚铁离子螯合能力</td><td></td><td>0.427</td><td>0.937***</td><td>0.663*</td><td>0.916***</td><td>0.531</td><td>0.937***</td><td>1.000</td></tr><tr><td>metal Fe2+</td><td>chelating</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>capacity/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总酚含量</td><td>0.391</td><td></td><td>0.874**</td><td>0.706*</td><td>0.839***</td><td>0.594*</td><td>0.853***</td><td>1.0 0.923***</td></tr></table></body></html>
+
+phenolic
+
+\*表示 $P { < } 0 . 0 5$ ， $^ { * * }$ 表示 $P { < } 0 . 0 1$ ，\*\*\*表示 $P { < } 0 . 0 0 1$ 。\* mean $P { < } 0 . 0 5$ ， $^ { * * }$ mean $P { < } 0 . 0 1$ ， \*\*\* mean $P { < } 0 . 0 0 1$
+
+# 3讨论
+
+3.1白腐菌对玉米秸秆生物质损失率的影响
+
+生物降解秸秆有效解决了木质CL难降解、不易被草食动物消化利用等难题。多年研究发现，自然界中，白腐菌是分解木质素最有效的真菌，经过长期的生物进化，白腐菌能够分泌多种氧化降解木质素的酶类，形成了一套独特的分解木质素降解酶系统[17]。本研究发现，4 种白腐菌发酵玉米秸秆明显改变了其生物质含量，ADL 降解最多，其次是 HC 和CL。这是因为白腐菌发酵玉米秸秆对植物细胞壁中的CL、HC及ADL的降解具有选择性，对 ADL 的降解具有优先选择性。饲粮中CL含量影响反刍动物对饲料的消化利用效率，木质素含量与消化率之间存在着负相关性，是决定消化率的重要因素。秸秆中木质素含量下降，意味着消化率和适口性增加，反之亦然。虽然许多研究证明了白腐菌对木质CL有降解作用，但同时也证明了不同种属的白腐菌降解木质素和分解有机物的能力存在明显差异[7]。在本研究中，漏斗状侧耳对 ADL 的降解能力较强，这与 Jafari 等[18研究结果相近。而金顶侧耳则具有较强降解CL和HC 能力。
+
+# 3.2白腐菌对玉米秸秆营养成分含量及IVDMD的影响
+
+多年来，我国畜牧业一直面临蛋白质饲料资源短缺问题，大量的粮食作物投入到动物饲料生产中，加剧人畜争粮矛盾激烈化，解决此问题刻不容缓。白腐真菌可将多种氮源转化为菌体蛋白，提高玉米秸秆等发酵物中的蛋白质含量[19]。目前，通常采用凯氏法测定CP含量，此法不能完全回收硝酸盐和亚硝酸盐等含氮化合物，而白腐菌可以将非蛋白氮转化成菌体蛋白（蛋白氮），导致凯氏定氮法测得的CP含量结果增加，这可能是白腐菌处理玉米秸秆增加CP含量原因之一。此外，白腐菌发酵的过程中可将木质CL氧化降解成二氧化碳（ $\mathrm { C O } _ { 2 }$ ），致使干物质含量降低，单位总蛋白质含量增加。本研究表明，4种侧耳属白腐菌利用发酵底物中的氮源合成蛋白质及丰富的氨基酸，并提高了玉米秸秆的消化效率，这与 Arora 等[7研究结果相似。玉米秸秆消化率的提高，一方面可能是由于白腐菌处理玉米秸秆后，木质CL含量降低，另一方面可能是因为白腐菌处理玉米秸秆使其中蛋白质含量增加。研究表明，饲粮中蛋白质和脂肪水平可以调控反刍家畜对粗纤维的消化率，瘤胃内氨态氮（ $\mathrm { N H } _ { 3 } – \mathrm { N } \dot { }$ ）浓度升高后，为瘤胃微生物提供生长繁殖所必须的氮源，导致细菌和原虫数量增加，小肽数量增多，促进瘤胃中CL分解菌生物活性，提高消化率。
+
+# 3.3白腐菌对玉米秸秆抗氧化性能的影响
+
+白腐菌在固态发酵条件下，可以利用不同类型低质量的农业废弃物，将其转化为高营养动物饲料补充料[20]。而抗氧化性能能够很好地反映出饲料化秸秆的品质，其中 DPPH 自由基清除力、还原力、总抗氧化能力、亚铁离子螯合能力和总酚含量是评价抗氧化性能的几个关键参数。在本试验中发现，4种白腐菌处理的玉米秸秆中DPPH自由基清除能力、还原力、总抗氧化能力、亚铁离子螯合能力和总酚含量均显著高于对照组，这说明白腐菌处理玉米秸秆的过程中，产生了具有抗氧化作用的物质，阻断自由基链式反应，与亚铁离子结合形成稳定的螯合物，消除物质氧化对机体造成的损伤，延缓蛋白质和糖类的氧化。此外，总酚含量与 DPPH自由基清除力、还原力、总抗氧化能力、亚铁离子螯合能力呈正相关，ADL 的损失率与总酚含量呈正相关，这可能是由于木质素的降解释放了酚类化合物，从而增加抗氧化活性，这与Chandra 等[21]和 Assi 等[22]研究的结果相似。已有研究表明，抗氧化剂通过保持细胞功能和结构的完整性，提高细胞或非细胞的免疫功能。如果抗氧化能力受到限制，将缩短免疫细胞的寿命，增加了疾病的发生率[23]。在动物饲料中补充抗氧化剂能够增强动物的免疫功能并促进动物的生长，提高生长性能[24]。因此，白腐菌发酵处理的秸秆作为抗氧化剂添加到动物饲料中具有重要的调节作用。
+
+# 4结论
+
+$\textcircled{1}$ □4 种白腐菌都能够有效地降解玉米秸秆中生物质（CL、HC 和ADL)，其中金顶侧耳降解CL和HC 效果最强，漏斗状侧耳降解ADL 效果最强。
+
+$\textcircled{2}$ 4种白腐菌发酵玉米秸秆后均可提高其营养价值含量和IVDMD，其中金顶侧耳组总氨酸含量最高，漏斗状侧耳组IVDMD显著高于其他各组。
+
+$\textcircled{3}$ 4种白腐菌发酵玉米秸秆增加了玉米秸秆的抗氧化能力。
+
+# 参考文献：
+
+[1] EASTRIDGE M L,STARKEY R A,GOTT P N,et al.Dairy coWs fed equivalent concentrations of forage neutral detergent fiber from corn silage,alfalfa hay,wheat straw,and corn stover had similarmilkyieldandtotal tractdigestibility[J].AnimalFeed Science and Technology,2017,225:81-86.
+
+[2] ARPRA D S,SHARMA R K.Comparative ligninolytic potential of Phlebia species and their role in improvement of in vitro digestibility of wheat straw[J].Journal of Animal and Feed Sciences,2009,18(1):151-161.
+
+[3]张婷婷,吴京科,祁娜,等.白腐菌在有机固体废弃物堆肥中的研究进展[J].吉林农业科
+
+学,2011,36(4):37-40.
+
+[4] 胡立红,周永红,刘瑞杰,等.木质素氧化降解制备酚类化合物研究进展(英文)[J].生物质化学工程,2012,46(1):23-33.
+
+[5] DUVAL A,LAWOKO M.A review on lignin-based polymeric,micro-and nano-structured materials[J].Reactive and Functional Polymers,2014,85:78-96.
+
+[6] SHARMA R K,ARORA D S.Fungal degradation of lignocellulosic residues:an aspect of improved nutritive quality[J].Critical Reviews in Microbiology,2015,41(1):52-60.
+
+[7] ARORA D S,SHARMA R K,CHANDRA P.Biodelignification of wheat straw and its effect on invitro digestibility and antioxidant properties[J].International Biodeterioration and Biodegradation,2011,65(2):352-358.
+
+[8]杨胜.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,1999.
+
+[9] MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feeding stuffs from the gas production when they are incubated with rumen liquorinvitro[J].TheJournalofAgricultural Science,1979,93(1):217 - 222.
+
+[10] LAHO T,VARADYOVA Z,MIHALIKOVA K,et al.Fermentation capacity of fecal microbial inocula of Przewalski horse,Kulan,and Chapman Zebra and polysaccharide hydrolytic activities of fecal microbial constituents (Ciliates and Bacteria) of Kulan and Chapman Zebra[J].Journal of Equine Veterinary Science,2013,33(3):143-149.
+
+[11]孙娟娟,玉柱,薛艳林,等.添加剂对羊草青贮发酵品质和体外消化率的影响[J].草地学报,2007,15(3):238-242.
+
+[12] ARORA D S,CHANDRA P.Assay of antioxidant potential of two Aspergillus isolates by different methods under variousphysio-chemical conditions[J].Brazilian Journal of
+
+Microbiology,2010,41(3)765-777.
+
+[13] CHANG L W,YEN W J,HUANG S C,et al.Antioxidant activity of sesame coat[J].Food Chemistry[J].2002,78(3):347-354.
+
+[14] OTHMAN A,ISMAIL A,GHANI N A,et al.Antioxidant capacity and phenolic content of cocoa beans[J].Food Chemistry,2007,100(4):1523-1530.
+
+[15] ZHAO G R,XIANG Z J,YE T X,et al.Antioxidant activities of Salvia miltiorrhiza and Panax notoginseng[J].Food Chemistry,2006,99(4):767-774.
+
+[16] SHARMA R K,ARORA D S.Changes in biochemical constituents of paddy straw during degradation by white rot fungi and its impact on in vitro digestibility[J].Journal of Applied Microbiology,2010,109(2):679-686.
+
+[17] SHARMA R K,ARORA D S.Production of lignocellulolytic enzymes and enhancement of in vitro digestibility during solid state fermentation of wheat straw by Phlebia floridensis[J].Bioresource Technology,2010,101(23):9248-9253.
+
+[18] MIRZAEI J,TABARI M,DAROODI H,et al.The effect of Pleurotus spp. fungi on chemical composition and in vitro digestibility of rice straw[J].Pakistan Journal of Biological Sciences,2007,10(15):2460-2464.
+
+[19] ARORA D S,SHARMAR K.Effect of different supplements on bioprocessing of wheat straw by Phlebia brevispora:changes in its chemical composition,in vitro digestibility and nutritional properties[J].Bioresource technology,2011,102(17):8085-8091.
+
+[20] LATEEF A,OLOKE J K,KANA E B G,et al.Improving the quality of agro-wastes by solid-state fermentation:enhanced antioxidant activities and nutritional qualities[J].World Journal of Microbiology and Biotechnology,2008,24(10):2369-2374.
+
+[21] CHANDRA P,ARORA D S.Antioxidant activity of fungi isolated from soil of different areas of Punjab,India[J].Journal of Applied and Natural Science,20o9,1(2):123-128.
+
+[22] ASSI J A,KING A J.Assessment of selected antioxidants in tomato pomace subsequent to treatment with theedible oystermushroom,Pleurotusostreatus,undersolid-state fermentation[J].Journal of Agricultural and Food Chemistry,2007,55(22):9095-9098.
+
+[23] WEISS W P.Antioxidant nutrients,cow health,and milk quality[C]//Dairy Cattle Nutrition Workshop.Penn State:Department of Dairy and Animal Sciences,2005:11-18.
+
+[24]王妍琪,孙文志.抗氧化饲料添加剂在畜牧业中的应用[J].饲料博览,2003(10):36-39.
+
+Effects of White Rot Fungi on Nutritional Value and Antioxidant Property of Corn Stover WANG Yuqiong1,2 ZHOU Daowei1\*
+
+(1. Northeast Institute of Geography and Agriecology, Chinese Academy of Sciences, Changchun 130102, China; 2. University of Chinese Academy of Sciences, Beijing 100049, China)
+
+Abstract: This experiment was conducted to investigate the effects of white rot fungi on nutritional value and antioxidant property of corn stover. Four Pleurotus white rot fungi were selected: Pleurotus diamor, Pleurotus citrinopileatus, Pleurotus eryngii and Pleurotus sajor caju. The corn stover in control group was not inoculated any strain, and corn stover in experimental groups was inoculated 4 kinds of Pleurotus white rot fungi, each group contained 3 replicates,solid-state fermented for 2O days. Some parameters including nutrient component content, in vitro dry matter digestibility （IVDMD） of corn stover and antioxidant property were studied. The results showed as follows: 1） the total organic matter （TOM） loss rate of Pleurotus diamor group was significantly higher than that of Pleurotus citrinopileatus and Pleurotus eryngi groups( $. P { < } 0 . 0 5 )$ ， the acid detergent fiber（ADL） loss rate of Pleurotus sajor caju group was significantly higher than that of other groups( $P { < } 0 . 0 5$ ）,the cellulose（CL） loss rate of Pleurotus citrinopileatus group was significantly higher than that of Pleurotus eryngii and Pleurotus sajor caju groups （ $. P { < } 0 . 0 5 )$ , the hemicelluloses (HC) loss rate of Pleurotus citrinopileatus group was significantly higher than that of other groups( $P { < } 0 . 0 5$ ）.2)The crude protein（CP） content of Pleurotus citrinopileatus group was significantly higher than that of control group（ $\scriptstyle P < 0 . 0 5 .$ ），theether extract (EE） content of Pleurotus citrinopileatus, Pleurotus sajor caju and Pleurotus diamor groups was significantly higher than that of control group( $P { < } 0 . 0 5 \$ ）,the total amino acid content of 4 kinds of white rot fungi groups was significantly higher than that of control group( $_ { ( P < 0 . 0 5 ) }$ ， the IVDMD of 4 kinds of white rot fungi groups was significantly higher than that of control group( $\scriptstyle P < 0 . 0 5$ ）. 3)The 1,1-diphenyl-2-picrylhydrazyl (DPPH) free radical cleaning capacity, reducing power, total antioxidant capacity and total phenolic content of 4 kinds of white rot fungi groups was significantly higher than that of control group( $P { < } 0 . 0 5$ ）.In conclusion,white rot fungi pretreatment with corn stover can improve the IVDMD, CP content and antioxidant property of corn stover, and it can be used as a novel feed resource for ruminant animals.
+
+Key words: white rot fung; corn stover; antioxidant property

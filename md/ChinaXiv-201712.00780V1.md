@@ -1,0 +1,100 @@
+临床研究
+
+# 三种腔镜前列腺切除手术并发症比较及Clavien-Dindo分级应用
+
+蔡芳震，陈朝虹，张建育福建医科大学附属第二医院泌尿外科，福建 泉州 362000摘要：目的比较经尿道前列腺电切术(TURP）、双极等离子切除术(PKRP)及伙激光剜除术(HoLEP)三种术式并发症差异,初步探讨Clavien-Dindo分级对3种术式并发症标准化评价的应用价值。方法2010年1月至2013年12月在本院泌尿外科接受腔镜手术的前列腺增生患者625例按照术式分为3组:TURP(214例)、PKRP(207例)和HoLEP(204例),分别统计3组各项并发症差异并纳入Clavien-Dindo分级进行比较。结果3组患者一般资料比较差异无统计学意义 $( P { > } 0 . 0 5 )$ ,TURP组各项的并发症发生率总体上高于PKRP组和HoLEP组,其中电解质失平衡、术中大量失血、尿路刺激症状、尿路堵塞、前列腺电切综合征、术后勃起功能障碍3组间差异有统计学意义 $( P { < } 0 . 0 5 )$ 。按照Clavien-Dindo分级，II级并发症比较,TURP组显著高于PKRP组和HoLEP组 $( P { < } 0 . 0 5 )$ ；I级和IV级并发症比较,TURP组显著高于HoLEP组( $P { < } 0 . 0 5 )$ ；I级和V级3组间差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论各项并发症和Clavien-Dindo分级结果比较表明PKRP和HoLEP并发症少,安全性高,值得临床推荐使用。Clavien-Dindo分级有利于手术并发症评价和比较的标准化，但还需要进一步完善和发展。
+
+关键词：经尿道前列腺电切术;经尿道等离子切除术；铁激光剜除术;并发症；Clavien-Dindo分级
+
+# Application of Clavien-Dindo classification for comparing complications of three endoscopic procedures for benign prostatic hyperplasia
+
+CAIFangzhen,CHENChaohong,ZHNAG Jianyu DepartmentofUrology,SecondAfiliatedHospitalofFujianMedical University,Quanzhou 362ooo,China
+
+Abstract:ObjectiveTocompare theincidencesofcomplicationsassciatedwith3diferentendoscopic procedures,namely transurethral resection of prostate (TURP)，bipolarplasmakinetic resection of the prostate (PKRP)，and holmium laser enucleationofthe prostate (HoLEP)inthe treatmentofbenign prostatichyperplasia (BPH)andassess theclinical valueof the Clavien-Dindoclassification systemfor standardizing the evaluationof thecomplications.Methods Between January 200and December 2013,atotal of 625 patients with BPH sheduled for endoscopic surgery underwent TURP(14 cases),PKRP (207 cases),or HoLEP (204cases).Thecomplications wererecorded in each groupand analyzed using the Clavien-Dindo classification system. Results There was no significant difference in the baseline data among the 3 groups $( P { > } 0 . 0 5 )$ . TURP was asociated withahighertotalincidencerateofcomplicationsthanPKRPandHoLEP,andtheincidencesofelectrolyte disturbance， masive intraoperative hemorrhage，urinary iritation symptom，urinary blockage，transurethral resection syndrome (TRUS)， and erectile dysfunction (ED) differed significantly among the 3 groups $_ { ( P < 0 . 0 5 ) }$ . According to Clavien-Dindoclassification,theincidenceof grade Icomplications wassignificantly higherinTURP groupthaninPKRPand HoLEP groups $_ { ( P < 0 . 0 5 ) }$ ， and that of grades II and IV complications was significantly higher in TURP group than in HoLEP group $( P { < } 0 . 0 5 ) .$ no significant difference was found in grade I or V complications among the 3 groups $( P { > } 0 . 0 5 )$ . Conclusion According totheresultsof Clavien-Dindoclasificationanalysis,PKRPand HoLEPare associated with fewercomplications with a bettr safety profile in the treatment of BPH. The current Clavien-Dindo clasfication system can contribute to standardized evaluation of surgical complications but stillneeds further modifications for better performance.
+
+Key words:transurethral resection of prostate; bipolar plasmakinetic resectionof the prostate; holmium laser enucleationof the prostate; complications; Clavien-Dindo classification
+
+前列腺增生症(benign prostatic hyperplasia,BPH)是泌尿外科的常见病多发病之一，近年来中国人口老龄化,BPH整体患病人数和发病率呈上升趋势,部分抽样调查报道BPH发病率已经达到 $2 6 . 8 \% { \sim } 6 6 . 9 \% ,$ 90岁以上男性几近 $1 0 0 \% ^ { [ 1 - 2 ] }$ 。BPH病程中后期,腔镜下手术是主要治疗方法，包括经尿道前列腺电切术(transurethral resectionof prostate,TURP）、双极等离子切 除 术（bipolar plasmakinetic resection of theprostate，PKRP）及钬 激光剜除术（holmium laserenucleationoftheprostate,HoLEP)等常见术式。对于3种手术的优劣性比较，大多数观点认为TURP、PKRP和HoLEP这3种手术对BPH疗效相当，但对于3者手术安全性和并发症方面尚存有一定争议，术后并发症缺乏一致性评价标准是产生分歧的主要原因[3-5]。本研究通过引人国际上最近出现的Clavien-Dindo分级比较3种手术并发症及安全性差异，现报道如下。
+
+# 1资料与方法
+
+# 1.1 入选病例及一般资料
+
+收集2010年1月 ${ \sim } 2 0 1 3$ 年12月在我院泌尿外科接受TURP、PKRP和HoLEP的BPH患者625例,年龄 $5 3 \sim$ 89岁，前列腺质量 $3 8 { \sim } 1 1 2 ~ \mathrm { g }$ ，合并糖尿病、高血压、冠心病、慢性支管炎等一般性内科疾病的有224例。病例纳入标准：有典型下尿路梗阻症状，临床体征、辅助检查和尿流动力学检查支持诊断，排除前列腺癌患者， $\mathrm { P S A } { \leqslant }$ $1 0 ~ \mu \mathrm { g / m L }$ ;服用5a还原酶抑制剂 $\mathbf { \nabla } \cdot \mathtt { a }$ 受体阻滞剂或二者联合6个月以上疗效不佳;术前检查无泌尿系结石和神经源性膀胱功能障碍病史；无重要脏器功能障碍和严重基础疾病。入选病例按照术式分为3组：TURP组、PKRP组和HoLEP组。
+
+# 1.2设备及手术方法
+
+3组患者采用椎管内麻醉或全麻，取膀胱截石位，手术由同1组医生完成。TURP组采用德国Wolf电切系统，电切功率 $1 2 0 { \sim } 1 3 0 \mathrm { W }$ ,电凝功率 $6 0 { \sim } 7 0 \mathrm { W }$ ,非糖尿病患者采用 $5 \%$ 葡萄糖溶液冲洗，糖尿病患者采用电切灌洗液(每 $1 0 0 ~ \mathrm { { m L } }$ 灌洗液含甘露醇 ${ 5 } \mathrm { g }$ ）。PKRP组采用英国Gyrus等离子体双极电切系统，电切功率 $1 2 0 { \sim } 1 6 0 \mathrm { W }$ 电凝功率为 $8 0 { \sim } 1 0 0 \ \mathrm { W }$ 。HoLEP组采用美国Lumenis钬激光系统，频率 $4 0 { \sim } 5 0 ~ \mathrm { H z }$ ,能量 $1 . 5 { \sim } 2 . 0 ~ \mathrm { J / s }$ ，功率为60\~10OW,PKRP和HoLEP均采用 $0 . 9 \%$ 生理盐水冲洗。手术方法：电切镜经尿道进入后确认双侧输尿管口、膀胧颈部、精阜等解剖标志，对于两侧叶增生为主，在膀胧颈5点及7点处切出标志沟，然后沿包膜切除大部分侧叶和尖部组织。对于三叶都有增生者，切除中叶后再按上法切除，术后留置导尿管。
+
+# 1.3研究方法及并发症评价
+
+记录病程、年龄、合并基础疾病及术中一般情况等数据,经直肠超声(Transrectalultrasonography,TRUS)测定前列腺体积。采用Clavien-Dindo分级评价3组并发症情况，Clavien-Dindo分级对术后并发症分为I～V级，I级：出现不需要药物、内镜、外科等处理的并发症，但包括退烧、止吐、止痛、电解质等一般性对症处理药物，包括切口局部感染、理疗等处理；Ⅱ级：切口感染需抗生素治疗、输血、全肠外营养、药物(不含I级所用药物)；Ⅲ级：需外科、内镜、介人放射治疗等进一步处理，其中ⅢIa不需要全身麻醉处理，Ⅲb需要全身麻醉;M级：危机生命的严重并发症，包括中枢神经系统并发症、ICU监护处理，其中Va为单器官功能不全，IVb为多器官功能不全；V级为死亡[.7]
+
+# 1.4 统计分析
+
+采用统计软件SPSS18.0进行统计分析， $P { < } 0 . 0 5$ 表示差异有统计学意义。计量资料以均数 $\trianglerighteq$ 标准差表示，采用单因素方差分析，组间两两比较采用SNK- $\cdot q$ 检验检验。计数资料以百分比表示，采用x检验或Fisher精确概率法,组间两两比较采用Mann-Whitney检验。
+
+# 2结果
+
+2.13组患者术前一般情况等基线资料比较
+
+3组患者的一般资料如年龄、病程、合并内科疾病及保守治疗时间等基线资料比较差异无统计学意义1 $\scriptstyle \mathrm { \overrightarrow { P } > 0 . 0 5 }$ ，表1)。
+
+表13组患者基线资料的比较 Tab.1 Comparison of the baseline data among the 3 groups (Mean±SD)   
+
+<html><body><table><tr><td>Items</td><td>TURP(214)</td><td>PKRP(207)</td><td>HoLEP(204)</td><td>xorf</td><td>P</td></tr><tr><td>Age (year)</td><td>65.64±8.38</td><td>67.48±10.22</td><td>66.57±10.06</td><td>1.944</td><td>0.144</td></tr><tr><td>Duration of disease (year)</td><td>12.13±3.21</td><td>11.68±2.97</td><td>11.52±2.61</td><td>2.425</td><td>0.089</td></tr><tr><td>TRUS (mL)</td><td>68.25±9.35</td><td>70.22±10.26</td><td>69.72±8.38</td><td>2.524</td><td>0.081</td></tr><tr><td>Hypertension history (n)</td><td>34(15.89%)</td><td>32(15.46%)</td><td>28(13.73%)</td><td>0.425</td><td>0.809</td></tr><tr><td>Diabetes history (n)</td><td>27(12.62%)</td><td>34(16.43%)</td><td>24(11.76%)</td><td>2.167</td><td>0.338</td></tr><tr><td>Coronary heart disease history (n)</td><td>12(5.61%)</td><td>18(8.70%)</td><td>14(6.86%)</td><td>1.548</td><td>0.461</td></tr><tr><td>Other chronic disease history (n)</td><td>24(11.21%)</td><td>21(10.14%)</td><td>28(13.73%)</td><td>1.345</td><td>0.510</td></tr><tr><td>Duration of medications (month)</td><td>36.45±7.63</td><td>38.09±9.94</td><td>36.87±8.36</td><td>2.011</td><td>0.135</td></tr></table></body></html>
+
+# 2.23组患者手术并发症发生及Clavien-Dindo分级标 示情况
+
+3组并发症比较发现：TURP组总体上高于PKRP组和HoLEP组，其中TURP组电解质失平衡显著高于PKRP 组和HoLEP 组(TURPvs PKRP: $\chi ^ { 2 } { = } 2 2 . 2 5 9 , P { = }$ 0.000;TURP vs HoLEP: $\chi ^ { 2 } { = } 3 0 . 4 7 9$ $\scriptstyle P = 0 . 0 0 0 { \mathrm { , } }$ ）。TURP组术中大量失血显著高于PKRP组和HoLEP组( $P$ 均<0.05)。尿路刺激症状3组间及组间两两比较差异均有统计学意义 $( P { < } 0 . 0 5 )$ ,TURP组显著高于PKRP组，PKRP显著高于HoLEP。TURP组尿路堵塞明显高于HoLEP组 $( P { < } 0 . 0 5 )$ 。TURP组前列腺电切综合症(Transurethral resection syndrome，TRUS）显著高于PKRP组和HoLEP组( $P$ 均 $< 0 . 0 5$ ）。TURP组术后勃起功能障碍(Erectile dysfunction,ED)增加例数显著高于PKRP组和HoLEP组 $P$ 均 $< 0 . 0 5$ ，表2)。
+
+表23组患者并发症发生及Clavien-Dindo分级标示情况 Tab.2 Incidences of the complications and their labeling with Clavien-Dindo Classification in the 3 groups $( n / \% )$   
+
+<html><body><table><tr><td>Items</td><td>TURP(214)</td><td>PKRP(207)</td><td>HoLEP(204)</td><td>x</td><td>P</td></tr><tr><td>General complications（n)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fever(>38.5 ℃)</td><td>32(14.95%)</td><td>21(10.14%)</td><td>18(8.82%)</td><td>4.351</td><td>0.114</td></tr><tr><td>Lower abdominal pain</td><td>40(18.69%)</td><td>26(12.56%)</td><td>25(12.25%)</td><td>4.473</td><td>1.107</td></tr><tr><td>Nausea and vomiting</td><td>23(10.75%)</td><td>18(8.70%)</td><td>15(7.35%)</td><td>1.502</td><td>0.472</td></tr><tr><td>Abdominal distension</td><td>22(10.28%)</td><td>16(7.73%)</td><td>17(8.83%)</td><td>0.925</td><td>0.626</td></tr><tr><td>Imbalance of K+,Na+,Cl, Ca²+</td><td>65(30.37%)</td><td>24(11.59%) *</td><td>18(8.82%)*</td><td>40.844</td><td>0.000</td></tr><tr><td>Gastroenteric stress ulcer</td><td>9(4.21%) I or I</td><td>5(2.42%) "</td><td>6(2.94% ) I</td><td>1.154</td><td>0.562</td></tr><tr><td>Intraoperative blood loss (>500 mL)</td><td>25(11.68%) "or I</td><td>12(5.80%)* l</td><td>5(2.45%)*Ⅱ</td><td>14.619</td><td>0.001</td></tr><tr><td>Postoperative blood loss (>300 mL)</td><td>2(0.93%)</td><td>0(0.00%)</td><td>0(0.00%)</td><td></td><td>0.146</td></tr><tr><td>Pulmonary infection</td><td>14(6.54% ) I</td><td>8(3.86%) "</td><td>10(4.90%) "</td><td>1.582</td><td>0.453</td></tr><tr><td>Myocardial infarction</td><td>2(0.93%)</td><td>2(0.97%) "</td><td>1(0.49%) </td><td>0.368</td><td>0.832</td></tr><tr><td>Death</td><td>1(0.47%) </td><td>0(0.00%)</td><td>0(0.00%)</td><td>-</td><td>0.325</td></tr><tr><td>Urinary complications</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Urinary tract irritative symptoms</td><td>152(71.03%)</td><td>127(61.35%)*</td><td>104(50.98%)*#</td><td>17.691</td><td>0.000</td></tr><tr><td>Postoperative bladder spasm</td><td>15(7.01%)</td><td>17(8.21%)</td><td>12(5.88%)</td><td>0.853</td><td>0.653</td></tr><tr><td>Transient incontinence</td><td>36(16.82%)</td><td>22(10.63%)</td><td>24(11.76%)</td><td>4.030</td><td>0.133</td></tr><tr><td>Urinary tract infection</td><td>8(3.74%)"</td><td>5(2.42%) "</td><td>5(2.45%) </td><td>0.858</td><td>0.651</td></tr><tr><td>Prolonged dysuria（>10 d)</td><td>10(4.67%) "</td><td>13(6.28%) "</td><td>7(3.43%)"</td><td>1.836</td><td>0.399</td></tr><tr><td>Prolonged Hematuria (>10 d)</td><td>12(5.61%)"</td><td>7(3.38%)</td><td>4(1.96%) "</td><td>3.996</td><td>0.136</td></tr><tr><td>Urinary tract obstruction</td><td>9(4.21%)o I</td><td>3(1.45% )Io I</td><td>2(0.49%) *</td><td>7.683</td><td>0.021</td></tr><tr><td>TRUS</td><td>4(1.87%) W</td><td>0(0.00%)*</td><td>0(0.00%) *</td><td></td><td>0.021</td></tr><tr><td>Postoperative complications （>10 d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Continious incontinence</td><td>3(2.34%) "</td><td>2(3.38%) "</td><td>4(4.41%) "</td><td>1.386</td><td>0.500</td></tr><tr><td>ED（postoperative increase）</td><td>33(15.42%) "</td><td>16(7.73%)*Ⅱ</td><td>18(8.82%)*</td><td>7.641</td><td>0.022</td></tr><tr><td>Retrograde ejaculation（postoperative increase）</td><td>22(10.28%) "</td><td>17(8.21%)"</td><td>13(6.37%)"</td><td>2.096</td><td>0.351</td></tr><tr><td>Urethral stricture</td><td>3(1.40%) "</td><td>2(0.97%)</td><td>1(0.49%) </td><td>0.913</td><td>0.633</td></tr></table></body></html>
+
+Note:\*Compared with TURP had significant difference $( P { < } 0 . 0 5 )$ ,\*Compared with PKRP had significant difference $( P { < } 0 . 0 5 ) \$ ），I.IIV.V thesituationofClavien-DindoClasification;Twogradesnotedforthesameitem meanthatthereweretwogradesforthisitem,eg: stress ulcer needed endoscopic intervention belonged to grade $\mathbb { I }$ ,if not belonged to grade $\mathbb { I }$ ：
+
+# 2.33组患者Clavien-Dindo分级统计情况
+
+根据每例患者并发症发生情况并纳入相应Clavien-Dindo分级进行统计，同一患者发生多次或多级并发症者按Clavien-Dindo最高分级计算。TURP、PKRP和HoLEP3组总并发症发生率分别为 $9 3 . 9 3 \%$ (201/214) $, 7 9 . 2 3 \%$ （164/207） $7 2 . 5 5 \%$ (148/204)，3组间差异有统计学意义 $\scriptstyle ( P = 0 . 0 0 0 )$ )。3组比较显示：I级并发症比较差异无统计学意义（ $( P { > } 0 . 0 5 )$ ； $\mathbb { I }$ 级并发症比较差异有统计学意义 $\left( P { < } 0 . 0 5 \right)$ ,TURP组显著高于PKRP组和HoLEP组( $P$ 均 $< 0 . 0 5 )$ 。Ⅲ级和V级并发症比较差异有统计学意义 $( P { < } 0 . 0 5 )$ ,其中TURP组显著高于HoLEP组 $( P { < } 0 . 0 5 )$ 。3组中仅TURP组出现1例V级并发症，死亡原因为TRUS(表3)。
+
+# 3讨论
+
+BPH发病率呈逐渐上升趋势，发病率与年龄呈正相关，目前已经成为中国老年男性的一个重要公共卫生问题[13]。泌尿腔镜下微创前列腺手术是主流方法，外科治疗方法包括：开放切除及泌尿腔镜下前列腺电切、等离子汽化切除术、激光切除等几种方法，其代表微创术式包括：TURP、PKRP和HoLEP。总体上来讲,3种术式在临床上应用广泛，术后尿路梗阻症状均能获得显著改善,疗效值得肯定[8-9]。由于缺少手术并发症统一的判定和分级标准，不同文献在报道手术并发症及安全性方面有较大差异。Dindo等[1在总结6336手术病例资料后于2004年提出Clavien-Dindo手术并发症分级系统，以量化手术并发症发生率和严重程度，Clavien-Dindo分级在国外迅速得以应用和完善，近年来，国内泌尿外科领域也有初步探索和应用[]
+
+表33组患者并发症的Clavien-Dindo分级统计结果 Tab.3 Data of Clavien-Dindo Classification in the 3 groups $( n / \% )$   
+
+<html><body><table><tr><td>Clavien-Dindo Classification</td><td>TURP(214)</td><td>PKRP(207)</td><td>HoLEP(204)</td><td>x</td><td>P</td></tr><tr><td>I</td><td>125(58.41%)</td><td>120(57.97%)</td><td>116(56.86%)</td><td>0.108</td><td>0.947</td></tr><tr><td>Ⅱ</td><td>57(26.64%)</td><td>38(18.36%)*</td><td>29(14.22%)*</td><td>10.577</td><td>0.005</td></tr><tr><td>Ⅲ</td><td>11(5.14%)</td><td>4(1.93%)</td><td>2(0.98%)*</td><td>7.556</td><td>0.023</td></tr><tr><td>V</td><td>7(3.27%)</td><td>2(0.97%)</td><td>1(0.49%)*</td><td>5.920</td><td>0.052</td></tr><tr><td>V</td><td>1(0.47%)</td><td>0(0.00%)</td><td>0(0.00%)</td><td></td><td>0.325</td></tr></table></body></html>
+
+Note：\*Compared with TURP had significant difference $( P { < } 0 . 0 5 )$ ·
+
+本研究分别统计了3组625例患者并发症发生情况，发现TURP组绝大部分单项并发症发生率高于PKRP组，而PKRP组大部分高于HoLEP组，其中有统计学意义的有：电解质失平衡、术中大量失血、尿路刺激症状、尿路堵塞、TRUS、ED。电解质失平衡应和TRUS的发生与TURP术中 $5 \%$ 葡萄糖冲洗液重吸收有关，这也是TURP显著劣势之一[3.8]。尿路刺激症状包括尿频、尿急、尿痛症状，TURP高温电切的热效应损伤导致该组发生率明显增加，PKRP和HoLEP都是低温切割技术，PKRP切割厚度为 $0 . 5 { \sim } 1 . 0 ~ \mathrm { m m }$ ,热损伤小，尿路刺激症状发生率小[12],HoLEP的钬激光切割厚度不超过$0 . 5 \mathrm { m m }$ ，有精确高效的组织切割作用,热损伤更小，尿路刺激症状较PKRP发生率更小[13]。TURP凝固止血作用较差,既往有研究报道术中切除1g前列腺组织可能带来 $1 0 ~ \mathrm { m l }$ 失血[4],而HoLEP被称为"无血切割”,术中出血少是相对TURP显著优势之一[8]。因TURP热损伤较深，术后创面形成焦痂，术后焦痂脱落仍有可能导致术后继发出血，若穿透包膜可能损伤前列腺尖部血管神经束,导致术后ED增加[4。脱落焦痂及出血形成的血凝块可引起尿管堵塞，导致TURP术后尿管堵塞发生率增加。
+
+本研究TURP、PKRP和HoLEP3组总并发症发生率分别为 $9 3 . 9 3 \% ( 2 0 1 / 2 1 4 ) . 7 9 . 2 3 \% ( 1 6 4 / 2 0 7 ) . 7 2 . 5 5 \%$ （148/204），其中TURP发生率显著高于PKRP和
+
+HoLEP组 $( P { < } 0 . 0 5 )$ ,PKRP组略高于HoLEP组但差异无统计学意义 $( P 5 0 . 0 5 )$ 。按照Clavien-Dindo分级显示：I级和V级并发症3组间差异无统计学意义（ $P >$ 0.05),而Ⅱ、ⅢI、V级差异有统计学意义 $( P { < } 0 . 0 5 )$ ,其中TURP组II级并发症显著高于PKRP组和HoLEP组$( P { < } 0 . 0 5 )$ ,TURP组II、IV级并发症显著高于HoLEP组中 $_ { ( P < 0 . 0 5 ) }$ ,PKRP组ⅢI、IV级并发症略高于HoLEP组但差异无统计学意义 $( P { > } 0 . 0 5 )$ 。因Clavien-Dindo分级中一些I级并发症多数(如尿道刺激症状)在临床上不需要特别处理，临床医师多忽视。国内泌尿外科领域有为数不多的Clavien-Dindo分级报道，但对于Clavien-Dindo分级采用并不一致，曾星等[5将Clavien-Dindo分级轻中度（I、ⅡI级)和重度(ⅢI、IV级）并发症来进行分析，万方宁等报道中则直接忽略了I级并发症。国外OranusiCK等[16报道362例经尿道前列腺切除的并发症总发生率为 $4 0 . 1 \%$ ,该研究I级并发症仅纳人了尿失禁和膀胱瘘两种I级并发症，导致I级并发症发生率偏低，但Ⅱ级以上并发症发生率与本研究相似。因此，以后研究中如何认定I级并发症，是否纳入I级并发症还有待商榷。
+
+Clavien-Dindo分级可使手术并发症评价更加标准化，更具可比性，在国外近年手术并发症评价中获得强烈推荐[17]。笔者观点认为：Clavien-Dindo分级是针对整个外科系统手术并发症分级评估而建立的，对专科领域适应性不够好，标准不够细分，专科化特色不强，很多专科特色的并发症没有先例可参考，Clavien-Dindo分级也未提出具体参考标准，导致评估者对并发症选择偏倚较大。Elkoushy等[18]调查泌尿研究生住院医师和主治医师对Clavien-Dindo分级评判结果差异发现：Clavien-Dindo分级认知差异将会导致分级结果偏倚。尿路刺激症状是腔镜前列腺手术常见高发I级并发症，本研究严格按照Clavien-Dindo分级进行并发症评估，但纳入较多I级并发症导致总发生率偏高。因此，Clavien-Dindo分级仍有较大的补充和完善空间，有必要使评估标准更加详细和统一，以适应各个手术专科特点[7.17]
+
+从本研究对3种术式并发症的单独列项统计和Clavien-Dindo分级评价来看，TURP因为出血多、并发症多、安全性低等特点，已失去BPH治疗“金标准"临床价值。PKRP和HoLEP并发症少，安全性高，疗效相似，临床推荐使用。据文献报道，HoLEP较PKRP具有出血更少，住院时间、膀胱冲洗和留置导尿时间更短，发展潜力更大，这与本研究部分结果一致。本研究引入Clavien-Dindo分级来评价腔镜前列腺手术并发症，肯定存在纸漏和不足，希望以后得到同行的建议和修正，以进一步完善Clavien-Dindo并发症分级。
+
+# 参考文献：
+
+[1］田 野,邵 强,宋 健,等.北京多中心社区良性前列腺增生患病率调查：BPC-BPH研究结果[J].中华泌尿外科杂志,2010,31(3):194-8.  
+[2]徐勇,张志宏,程茹,等.天津市农村地区良性前列腺增生患病情况及相关因素调查[J].中华泌尿外科杂志,2009,30(11):761-4.  
+[3]肖伟,杨科,高智勇,等.经尿道前列腺电切术与经尿道双极等离子电切术治疗良性前列腺增生比较分析及安全性评价[J].重庆医科大学学报,2014,39(1):76-9.  
+[4]Xie CY,Zhu GB,Wang XH,et al.Five-year follow-up results of arandomized controlled trial comparing bipolar plasmakinetic andmonopolar transurethral resection of the prostate[Jl.Yonsei Med J,2012,53(4):734-41.  
+[5」陈晖,汤平,欧汝彪,等.钬激光前列腺剜除术和开放列腺切除术治疗大体积良性前列腺增生的Meta分析[J].南方医科大学学报，2012，32(6): 882-5.  
+[6]万方宁，周家权，朱耀,等.预测前列腺癌根治术后并发症风险列线图的建立[J].中华泌尿外科杂志，2012，33(7):499-503.  
+[7]Yoon PD，Chalasani V,Woo HH.Use of Clavien-Dindoclassificationin reportingandgradingcomplicationsafterurological surgical procedures:analysis of 2O1O to 2012[J].J Urol,2013,190(4): 1271-4.  
+[8］闻竹,马成民,张 超,等.经尿道钬激光前列腺宛除术与前列腺电切术近期疗效的对比分析[J].现代泌尿外科杂志,2014,19(4):230-2,236.  
+[9]王 忠,陈彦博,陈 其,等.经尿道前列腺等离子切除术与钬激光剜除术治疗良性前列腺增生的疗效和安全性比较[J].中华泌尿外科杂志，2014, 35(5): 349-53.  
+[10]Dindo D,Demartines N,Clavien PA.Classification of surgicalcomplications:a new proposal with evaluation in a cohort of 6336patients and results of a survey[J].Ann Surg,20O4,240(2): 205-13.  
+[11]王声政,陈凌武,林焕懿,等.改良Clavien分级系统在根治性膀胱切除术围手术期并发症中的应用[J].中华外科杂志,2012,50(10):902-4.  
+[12]张 朔,张家模,吴小侯.经尿道前列腺等离子电切剜除术与电切术治疗良性前列腺增生安全性和疗效的比较[J].重庆医学,2010,39(22):3054-5.  
+[13]刘齐贵,李新,麻伟青,等.经尿道钬激光前列腺剜除术治疗症状性前列腺增生症3162例分析[J].中华外科杂志,2013,51(2):123-6.  
+[14]赵晓风,孙晓飞,吕志红,等.经尿道前列腺等离子双极电切和经尿道前列腺电切治疗良性前列腺增生的临床结果比较[J].中华泌尿外科杂志,2006,27(9):628-30.  
+[15]曾 星,胡志全,王志华,等.改良式Bricker回肠膀胱术与经典式Bricker回肠膀胱术并发症的比较[J].肿瘤防治研究,2014,41(1):57-60.  
+[16]Oranusi CK,Nwofor A,Oranusi IO.Complication rates of opentransvesicalprostatectomyaccordingtotheClavien-Dindoclassification system[J]. Niger JClin Pract,2012,15(1): 34-7.  
+[17]Clavien PA,Barkun J,De Oliveira ML,et al. The Clavien-Dindoclassification of surgical complications: five-year experience [J].Ann Surg,2009,250(2): 187-96.  
+[18]Elkoushy MA,Luz MA,Benidir T,et al. Clavien classification inurology: Is there concordance among post-graduate trainees andattending urologists[J]. Can Urol Assoc J,2013,7(5/6): 179-84.(编辑：经媛)

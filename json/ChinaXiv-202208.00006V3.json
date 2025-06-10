@@ -1,0 +1,782 @@
+[
+    {
+        "type": "text",
+        "text": "正则半群代数的广义胞腔性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏志荣」\\*，赵丽云²1,2（广东工业大学数学与统计学院广州 510520)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：胞腔代数是近年来备受关注的一种代数结构，而正则半群是一类重要的半群，是半群代数理论的主要研究领域之一。基于 $D u$ 和 $R u i$ 所提出的一类广义胞腔代数一一标准基代数，对正则半群代数的广义胞腔性进行了研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胞腔代数，正则半群，标准基代数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：0152",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generalized Cellularity of Regular Semigroup Algebras ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Su Zhirongl\\*， Zhao Liyun² 1.2 (College of Mathematics and Statistics， Guangdong University of Technology, Guangzhou 510520， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Cellular algebra is an algebraic structure received considerable attention in recent years, and regular semigroup is an important semigroup, which is one of the main research fields of semigroup algebra theory. Based on the standardly based algebra proposed by Du and Rui， which is a kind of generalized cellular algebra， and the generalized cellularity of regular semigroup algebra is studied. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: cellular algebra， regular semigroup, standardly based algebra ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胞腔代数的出现完满地解答了表示论中的一个最基本的问题一一确定不可约表示的参数集。Kazhdan－Lusztig在文献［1]中研究Hecke代数的表示理论时，引入了Kazhdan－Lusztig基，通过这组基，他们确定了不可约表示和一些相关问题；受到A-型Hecke代数这组基的乘法性质的启发，Graham和Lehrer在文献［2]中首次引入了胞腔代数的概念；Konig和Xi在文献［3]中给出了胞腔代数的一种全新等价定义；Du和Rui在文献［4]中研究了一类广义胞腔代数-标准基代数。正则半群是一类重要的半群，是半群代数理论的主要研究领域之一。East在文献［5]研究了逆半群代数的胞腔性；Wilcox在文献［6]中考虑了有限正则半群代数的胞腔性，并且推广了East的结果；Guo和Xi在文献[7]中深入探讨了正则半群代数的胞腔性，推广了上面提到的East和Wilcox的结果。本文将探讨正则半群代数的广义胞腔性，从而把Guo和Xi的结果进行推广。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2预备知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这一节中，我们给出本文需要的一些关于半群和标准基代数的基本概念和定义。本文的 $R$ 将表示一个整环，自然数集 $N$ 包括0。本节未提及的概念和定义请见参考文献［8-10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们首先回顾一下关于半群的一些定义和结论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设S是一个半群， $E ( S )$ 是S的全部幂等元所组成的集合，如果半群S没有单位元，则用 $S ^ { 1 }$ 表示半群 $s$ 并上一个单位元，否则 $S ^ { 1 } = S$ 。 $s$ 上的格林关系$\\mathcal { R }$ ， $\\mathcal { L }$ ， $\\mathcal { J }$ ， $\\mathcal { H }$ 和 $\\mathcal { D }$ 在半群理论中起着十分重要的作用[1]，对于 $a , b \\in S$ ，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { a \\mathcal { R } b \\Leftrightarrow a S ^ { 1 } = b S ^ { 1 } ; } \\\\ & { a \\mathcal { L } b \\Leftrightarrow S ^ { 1 } a = S ^ { 1 } b ; } \\\\ & { a \\mathcal { J } b \\Leftrightarrow S ^ { 1 } a S ^ { 1 } = S ^ { 1 } b S ^ { 1 } ; } \\\\ & { \\mathcal { H } = \\mathcal { L } \\cap \\mathcal { R } ; } \\\\ & { \\mathcal { D } = \\mathcal { L } \\vee \\mathcal { R } _ { \\circ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当S是一个有限半群时，格林关系 $\\mathcal { D } = \\mathcal { J }$ 。设 $\\mathcal { K }$ 是S的格林关系之一，取 $K _ { a }$ 为s的 $\\mathcal { K }$ -类并且包括 $a$ ， $S / \\mathcal { K }$ 为S的全部的 $\\mathcal { K }$ 类所组成的集合。我们定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na S ^ { 1 } \\subseteq b S ^ { 1 } \\Longrightarrow R _ { a } \\leq R _ { b } ;\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { 1 } a \\subseteq S ^ { 1 } b \\Longrightarrow L _ { a } \\leq L _ { b } ;\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { 1 } a S ^ { 1 } \\subseteq S ^ { 1 } b S ^ { 1 } \\Longrightarrow J _ { a } \\leq J _ { b } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，可得集合 $s / \\mathcal { R }$ ， $s / \\mathcal { L }$ 和 $s / \\mathcal { J }$ 上的偏序集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设S是一个半群，如果对任意 $a \\in S$ ，存在 $b \\in S$ ，使得 $a b a = a$ ，则称 $s$ 为正则半群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设S是一个不含零元0的半群，若 $s$ 没有真理想，则称半群S是单的。含零元0的半群S叫做0－单半群，若满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）除{0}和本身之外不再有其他的理想;  \n2） $S ^ { 2 } \\neq \\{ 0 \\}$ 。  \n0－单半群S称为完全0－单半群，如果S含有一个本原幂等元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $G$ 是一个群，I和 $\\Lambda$ 是非空的集合， $P = ( p _ { \\lambda k } )$ 是 $G ^ { 0 } : = G \\cup \\{ 0 \\}$ 上的一个正则$\\Lambda \\times { \\mathrm I }$ 矩阵，即 $P$ 的每一行和每一列都至少包含一个 $G ^ { 0 }$ 中的非零元素。设 $S =$ $( G \\times \\mathrm { I } \\times \\Lambda ) \\cup \\{ 0 \\}$ ，定义S上的乘法，任意 $a , b \\in G$ ， $k , l \\in { \\mathrm { I } } , \\ \\lambda , \\mu \\in \\Lambda$ ，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( a , k , \\lambda ) ( b , l , \\mu ) = \\left\\{ \\begin{array} { c c } { { ( a p _ { \\lambda l } b , k , \\mu ) } } & { { p _ { \\lambda l } \\neq 0 ; } } \\\\ { { 0 } } & { { p _ { \\lambda l } = 0 _ { \\circ } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并且 $( a , k , \\lambda ) 0 = 0 ( a , k , \\lambda ) = 0 0 = 0$ 。如上定义的 $s$ 是一个完全0－单半群，我们将用 $\\mathcal { M } ^ { 0 } ( G , 1 , \\Lambda ; P )$ 来表示。在 $\\mathcal { M } ^ { 0 } ( G , 1 , \\Lambda ; P )$ 中，我们可以假设！ $\\left[ \\cap \\Lambda = \\{ 0 \\} \\right.$ ， $G =$ $( G , 0 , 0 )$ ， $p _ { 0 , 0 } = e$ ，其中 $e$ 是 $G$ 的单位元。此外对于 $\\mathcal { M } ^ { 0 } ( G , \\mathrm { I } , \\Lambda ; \\mathrm { P } )$ 的任意非零极大子群 $G ^ { \\prime }$ ，我们有 $\\mathcal { M } ^ { 0 } ( G , \\mathrm { I } , \\Lambda ; \\mathrm { P } ) \\cong \\mathcal { M } ^ { 0 } ( G ^ { \\prime } , \\mathrm { I } , \\Lambda ; \\mathrm { P } )$ 。本文的 $\\mathcal { M } ^ { 0 } ( G , 1 , \\Lambda ; P )$ 总是满足上述假设。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设S是一个含有零元的半群且 $a \\in S \\setminus \\{ 0 \\}$ 。令 $S _ { a } = J _ { a } \\cup \\{ 0 \\} , 0 \\notin J _ { a }$ ，则在 $S _ { a }$ 上定义运算。，任意 $x , y \\in J _ { a }$ ，有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\circ y = { \\left\\{ \\begin{array} { l l } { x y } & { x y \\in J _ { a } ; } \\\\ { 0 } & { x y \\notin J _ { a } \\circ } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $x y$ 是 $x$ 和 $y$ 在S上的乘积。显然， $\\textstyle { \\bigl ( } S _ { a } , \\circ { \\bigr ) }$ 是一个具有零元0的半群。称$S _ { a }$ 为 $s$ 的由 $a$ 决定的主因子。将此乘法 $R$ -线性扩展到整个 $R -$ 模 $R [ J _ { a } ]$ ，我们称$R [ J _ { a } ]$ 关于乘法 $\\circ$ 是一个 $R$ 一代数。注意，有限正则半群S的每一个主因子都是一个完全0－单半群。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "任意 $a \\in S$ ，则 $I ( a ) : = \\{ b \\in S ^ { 1 } a S ^ { 1 } | S ^ { 1 } b S ^ { 1 } \\subset S ^ { 1 } a S ^ { 1 } \\}$ 是 $S ^ { 1 } a S ^ { 1 }$ 的一个理想，显然， $S ^ { 1 } a S ^ { 1 } = J _ { a } \\dot { \\cup } I ( a )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "半群S的每一个含有幂等元 $e$ 的 $\\mathcal { H }$ -类 $H _ { e }$ 是S的一个极大子群；反之， $s$ 的每一个极大子群都可以用含幂等元 $e$ 的 $\\mathcal { H }$ 一类 $H _ { e }$ 来得到。任取 $a \\in S$ ，若 $e \\in J _ { a }$ ，则$H _ { e } \\subseteq J _ { a } \\subseteq S _ { a }$ 。由于 $H _ { e }$ 是S的一个极大子群，所以 $H _ { e }$ 也是 $S _ { a }$ 的一个极大子群。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $( S , \\cdot )$ 是一个具有零元 $\\theta$ 的半群， $R [ S ]$ 是域 $R$ 上的向量空间，并且对于任意 $r \\in R$ ， $u , v \\in R [ S ]$ ，有 $r ( u \\cdot v ) = ( r u ) \\cdot v = u \\cdot ( r v )$ ，则 $R [ S ]$ 是半群代数。定义 $R _ { 0 } [ S ] = R [ S ] / R [ \\theta ]$ 。我们称 $R ^ { - }$ 代数 $R _ { 0 } [ S ]$ 是 $R$ 上的S的压缩半群代数。若S没有零元，则 $R _ { 0 } [ S ] = R [ S ]$ 。设 $a \\in R _ { 0 } [ S ]$ ，即 $\\begin{array} { r } { a = \\sum _ { s \\in S \\backslash \\{ \\theta \\} } r _ { s } s } \\end{array}$ 。定义 $a$ 的支撑集为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns u p p ( a ) = \\{ s \\in S \\backslash \\{ \\theta \\} | r _ { s } \\neq 0 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理 $2 . 1 ^ { [ 1 0 ] }$ 设S是一个半群：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）若 $a , x \\in S$ ，则 $x a \\in J _ { a }$ 或 $x a \\in I ( a )$ 。同理， $a x \\in J _ { a }$ 或 $a x \\in I ( a )$ ：   \n2）取 $a , e = e ^ { 2 } \\in S$ 。若 $a \\mathcal { R } e$ ，则 $a = e a$ 。同理，若 $a \\mathcal { L } e$ ，则 $a = a e$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理 $2 . 2 ^ { [ 1 0 ] }$ 任意 $( a , k , \\lambda )$ $\\mathbf { \\Sigma } ) , \\mathbf { \\Sigma } ( b , l , \\mu ) \\in \\mathcal { M } ^ { 0 } ( G , \\operatorname { I } , \\Lambda ; P )$ ，有如下三个等价论述：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1) $( a , k , \\lambda ) \\mathcal { R } ( b , l , \\mu ) \\Leftrightarrow k = l ;$   \n2) （204 $( a , k , \\lambda ) { \\mathcal { L } } ( b , l , \\mu ) \\Leftrightarrow \\lambda = \\mu ;$   \n3) （204 $( a , k , \\lambda ) \\mathcal { H } ( b , l , \\mu ) \\Leftrightarrow k = l , \\lambda = \\mu _ { \\circ }$ （20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，完全0一单半群的任意非零元素都在同一个 $\\mathcal { D }$ -类之中，以及任意两个含于完全0－单半群的极大子群是同构的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 $2 . 3 ^ { [ 4 ] }$ 设 $R$ 为一个含幺交换环，则一个 $R$ 系数的结合代数 $A$ 是一个具有结构 $( \\Lambda , M , N , C )$ 的标准基代数，如果满足如下条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "）存在一个偏序集 $\\Lambda$ ，使得对每个 $\\lambda \\in { \\cal { A } }$ 都有指标集 $M ( \\lambda )$ 和 $N ( \\lambda )$ ，其中 $C$ 是一个从 $\\mathrm { U } _ { \\lambda \\in \\varLambda } M ( \\lambda ) \\times N ( \\lambda )$ 到 $A$ 的单射，并且 $\\mathfrak { B } = \\left\\{ C _ { S , T } ^ { \\lambda } | \\lambda \\in \\Lambda \\right.$ ， $S \\in$ $M ( \\lambda )$ ， $T \\in N ( \\lambda ) \\big \\}$ 是A的一组 $R$ -基底;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）任意 $a \\in A$ ， $C _ { S , T } ^ { \\lambda } \\in \\mathfrak { B }$ ，有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na C _ { S , T } ^ { \\lambda } \\equiv \\sum _ { S ^ { \\prime } \\in I ( \\lambda ) } L _ { a } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\lambda } \\left( m o d A ( < \\lambda ) \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $L _ { a } ( S ^ { \\prime } , S ) \\in R$ 是与 $T$ 无关的常数， $A ( < \\lambda )$ 是由 $\\{ C _ { U , V } ^ { \\mu } | \\mu < \\lambda , U \\in$ $M ( \\mu ) , V \\in N ( \\lambda ) \\}$ 生成的 $R -$ 子模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）任意 $a \\in A$ ， $C _ { S , T } ^ { \\lambda } \\in \\mathfrak { B }$ ，有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { S , T } ^ { \\lambda } a \\equiv \\sum _ { T ^ { \\prime } \\in J ( \\lambda ) } R _ { a } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\lambda } \\left( m o d A ( < \\lambda ) \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\cal R } _ { a } ( T ^ { \\prime } , T ) \\in { \\cal R }$ 是与 $s$ 无关的常数， $A ( < \\lambda )$ 是由 $\\{ C _ { U , V } ^ { \\mu } | \\mu < \\lambda , U \\in$ $M ( \\mu ) , V \\in N ( \\lambda ) \\}$ 生成的 $R -$ 子模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2.4设 $R$ 为一个含幺交换环， $s$ 是一个半群（含有零元），则半群代数（压缩半群代数） $R [ S ] \\ ( R _ { 0 } [ S ] )$ ）是一个具有结构 $( \\Lambda , M , N , C )$ 的 $\\mathcal { J }$ 型标准基代数，如果它满足定义2.3，且满足条件：每一个 $\\lambda \\in \\Lambda$ ，任意 $S \\in M ( \\lambda )$ ， $T \\in N ( \\lambda )$ ，存在S的一个J-类j，使得 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq J$ ，注意 $J$ 可能依赖于所取的λ。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2.5半群代数（压缩半群代数） $R [ S ] ( R _ { 0 } [ S ] )$ 是一个具有结构$( \\Lambda , M , N , C )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，如果它既满足定义2.4，又满足条件：每一个$\\lambda \\in \\Lambda$ 以及 $S \\in M ( \\lambda )$ ， $T \\in N ( \\lambda )$ ，存在S的一个 $\\mathcal { H }$ -类 $H$ ，使得 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq H$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3半群代数的广义胞腔性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理3.1设 $R$ 是一个整环， $\\mathfrak { S }$ 是一个半群，如果 $R [ \\mathfrak { S } ]$ 是一个具有结构$( \\Lambda , M , N , C )$ 的 $\\mathcal { J }$ 型标准基代数，那么对于任意 $a \\in { \\mathfrak { S } }$ ， $R$ 一代数 $R [ J _ { a } ]$ 都是一个具有结构 $( \\Lambda _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的标准基代数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明：首先给出如下定义：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\Lambda _ { a } = \\left\\{ \\lambda \\in \\Lambda \\right|$ 存在 $S \\in M ( \\lambda )$ ， $T \\in N ( \\lambda )$ ，使得 $s u p p \\big ( C _ { S , T } ^ { \\lambda } \\big ) \\subseteq J _ { a } \\big \\}$   \n$\\bullet$ $M _ { a } = \\cup _ { \\lambda \\in \\Lambda _ { a } } M ( \\lambda )$   \n$\\bullet$ （204号 $N _ { a } = \\cup _ { \\lambda \\in \\Lambda _ { a } } N ( \\lambda )$ ：（204号 $C _ { a } = \\cup _ { \\lambda \\in \\Lambda _ { a } } \\bigl \\{ C _ { S , T } ^ { \\lambda } \\bigl | S \\in M ( \\lambda ) , T \\in N ( \\lambda ) \\bigr \\} \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则只需要证明如下三个问题：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1） $\\{ C _ { S , T } ^ { \\lambda } | \\lambda \\in \\Lambda _ { a }$ ， $S \\in M ( \\lambda )$ ， $T \\in N ( \\lambda ) \\big \\}$ 是 $R [ J _ { a } ]$ 的一组 $R -$ 基。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据题目假设可知， $\\mathsf { U } _ { \\alpha \\in \\Lambda } \\big \\{ C _ { S , T } ^ { \\alpha } \\big | S \\in M ( \\lambda )$ ， $T \\in N ( \\lambda ) \\big \\}$ 构成了 $R [ \\mathfrak { S } ]$ 的一组 $R -$ 基。任意 $x \\in J _ { a }$ ，有 $\\begin{array} { r } { x = \\sum _ { i \\in I } \\sum _ { S \\in M ^ { \\prime } ( i ) , T \\in N ^ { \\prime } ( i ) } r _ { S , T } ^ { i } C _ { S , T } ^ { i } } \\end{array}$ ，其中 $r _ { S , T } ^ { i } \\in R$ ， $I \\subseteq \\Lambda$ 和$M ^ { \\prime } ( i ) \\subseteq M ( i ) , N ^ { \\prime } ( i ) \\subseteq N ( i )$ 。根据假设， $R [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J }$ 型标准基代数，因此（20 $\\mathsf { U } _ { S \\in M ( i ) , T \\in N ( i ) } s u p p \\bigl ( C _ { S , T } ^ { i } \\bigr )$ 含于 $\\mathfrak { S }$ 的某一个 $\\mathcal { J } -$ 类之中。则（204 $\\begin{array} { r } { \\sum _ { i \\in I \\cap ( \\Lambda \\backslash \\Lambda _ { a } ) } \\sum _ { S \\in M ^ { \\prime } ( i ) , T \\in N ^ { \\prime } ( i ) } r _ { S , T } ^ { i } C _ { S , T } ^ { i } = 0 } \\end{array}$ ，因此 $\\begin{array} { r } { x = \\sum _ { i \\in I \\cap \\Lambda _ { a } } \\sum _ { S \\in M ^ { \\prime } ( i ) , T \\in N ^ { \\prime } ( i ) } r _ { S , T } ^ { i } C _ { S , T } ^ { i } \\in } \\end{array}$ （204号 $R [ J _ { a } ]$ 。由此， $R [ J _ { a } ]$ 可以由 $\\left\\{ C _ { S , T } ^ { \\alpha } \\middle | \\alpha \\in \\varLambda _ { a } , S \\in M ( \\alpha ) , T \\in N ( \\alpha ) \\right\\}$ 中的元素 $R$ -线性表出，即问题(1)得证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）如果 ${ \\alpha } \\in { \\varLambda } _ { a } , S \\in M ( { \\alpha } ) , T \\in N ( { \\alpha } )$ 和 $x \\in J _ { a }$ ，那么$\\begin{array} { r } { x \\circ C _ { S , T } ^ { \\alpha } \\equiv \\sum _ { S ^ { \\prime } \\in M ( \\alpha ) } L _ { x } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\alpha } \\ \\big ( m o d R [ J _ { a } ] ( < \\lambda ) \\big ) , } \\end{array}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中系数 $L _ { x } ( S ^ { \\prime } , S ) \\in R$ 不依赖于 $T$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $\\mathcal { J }$ 型标准基代数的定义可知， $\\begin{array} { r } { x C _ { S , T } ^ { \\alpha } = \\sum _ { S ^ { \\prime } \\in M \\left( \\alpha \\right) } L _ { x } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\alpha } + x ^ { \\prime } } \\end{array}$ ，其中$x ^ { \\prime } \\in R [ \\mathfrak { S } ] ( < \\alpha )$ ，系数 $L _ { x } ( S ^ { \\prime } , S ) \\in R$ 不依赖于 $T$ 。取 $x ^ { \\prime } =$ $\\begin{array} { r l } { \\sum _ { i \\in I } \\sum _ { U \\in M ( i ) , V \\in N ( i ) } L _ { x ^ { \\prime } } ( U , V ) C _ { U , V } ^ { i } } & { { } } \\end{array}$ ，其中 $L _ { x ^ { \\prime } } ( U , V ) \\in R$ ， $I = \\{ i \\in \\Lambda | i < \\alpha \\}$ 。由于$R [ \\mathfrak { S } ]$ 是一个 $J$ 型标准基代数，设 $\\begin{array} { r } { x _ { 1 } ^ { \\prime } = \\sum _ { i \\in I \\cap \\Lambda _ { a } } \\sum _ { U \\in M ( i ) , V \\in N ( i ) } L _ { x ^ { \\prime } } ( U , V ) C _ { S , T } ^ { i } \\in R [ J _ { a } ] } \\end{array}$ ，x² = ΣieIn(A\\Aa)Σuem(i),veN(i) Lx'(U,V)Cs,τ ④ RUa]，则 $x ^ { \\prime } = x _ { 1 } ^ { \\prime } + x _ { 2 } ^ { \\prime }$ 。因此",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\circ C _ { S , T } ^ { \\alpha } = \\sum _ { S ^ { \\prime } \\in M ( \\alpha ) } L _ { x } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\alpha } + \\sum _ { i \\in I \\cap \\Lambda _ { a } } \\sum _ { U \\in M ( i ) , V \\in N ( i ) } L _ { x ^ { \\prime } } ( U , V ) C _ { S , T } ^ { i } \\in R [ J _ { a } ] \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "即问题(2)得证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3) 如果 $\\alpha \\in { \\Lambda } _ { a } , \\varsigma \\in M ( \\alpha ) , T \\in N ( \\alpha )$ 和 $x \\in J _ { a }$ ，那么",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { S , T } ^ { \\alpha } \\circ x \\equiv \\sum _ { T ^ { \\prime } \\in N ( \\alpha ) } R _ { x } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\alpha } \\ \\big ( m o d R [ J _ { a } ] ( < \\lambda ) \\big ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中系数 $R _ { x } ( T ^ { \\prime } , T ) \\in R$ 不依赖于S。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $\\mathcal { J }$ 型标准基代数的定义可知， $\\begin{array} { r } { C _ { S , T } ^ { \\alpha } x = \\sum _ { T ^ { \\prime } \\in N ( \\alpha ) } R _ { x } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\alpha } + x ^ { \\prime \\prime } } \\end{array}$ ，其中 $x ^ { \\prime \\prime } \\in R [ \\mathfrak { S } ] ( < \\alpha )$ ，系数 $R _ { x } ( T ^ { \\prime } , T ) \\in R$ 不依赖于 $s$ 。取 $x ^ { \\prime \\prime } =$ $\\begin{array} { r l } { \\sum _ { w \\in W } \\sum _ { P \\in M ( w ) , Q \\in N ( w ) } R _ { x ^ { \\prime \\prime } } ( P , Q ) C _ { P , Q } ^ { w } } & { { } } \\end{array}$ ，其中 $R _ { x ^ { \\prime \\prime } } ( P , Q ) \\in R$ ， $W = \\{ w \\in \\Lambda | w < \\alpha \\}$ 。由于 $R [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J }$ 型标准基代数，设 $x _ { 1 } ^ { \\prime \\prime } =$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\sum _ { w \\in W \\cap \\Lambda _ { a } } \\sum _ { P \\in M ( w ) , Q \\in N ( w ) } R _ { x ^ { \\prime \\prime } } ( P , Q ) C _ { P , Q } ^ { w } \\in R [ J _ { a } ] } \\\\ & { \\sum _ { w \\in W \\cap ( \\Lambda \\setminus \\Lambda _ { a } ) } \\sum _ { P \\in M ( w ) , Q \\in N ( w ) } R _ { x ^ { \\prime \\prime } } ( P , Q ) C _ { P , Q } ^ { w } \\notin R [ J _ { a } ] \\ , \\quad \\mathrm { | \\mathfrak { M } | } \\ x ^ { \\prime \\prime } = x _ { 1 } ^ { \\prime \\prime } + x _ { 2 } ^ { \\prime \\prime } \\ \\circ \\quad \\boxed { \\mathbb { E } } \\ \\mathrm { | \\mathfrak { k } | } } \\\\ & { C _ { S , T } ^ { \\alpha } \\circ x = \\displaystyle \\sum _ { T ^ { \\prime } \\in N ( \\alpha ) } R _ { x } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\alpha } + \\displaystyle \\sum _ { w \\in W \\cap \\Lambda _ { a } } \\sum _ { P \\in M ( w ) , Q \\in N ( w ) } R _ { x ^ { \\prime \\prime } } ( P , Q ) C _ { P , Q } ^ { w } \\in R [ J _ { a } ] \\circ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即问题(3)得证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，对于每一个 $a \\in \\mathfrak { S } \\ , R -$ 代数 $R [ J _ { a } ]$ 是一个具有结构$( \\Lambda _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的标准基代数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定理3.2设 $R$ 是一个整环， $\\mathfrak { S } = \\mathcal { M } ^ { 0 } ( G , \\Lambda , \\Gamma ; P )$ 是一个完全0－单半群， $e$ 为$\\mathfrak { S } \\backslash \\{ 0 \\}$ 的一个幂等元，设 $p _ { 0 , 0 } = e , 0 \\in \\Lambda \\cap \\Gamma$ ，则 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数当且仅当 $R [ G ]$ 是一个标准基代数，其中 $G$ 是 $\\mathfrak { S }$ 关于单位元e的极大子群。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明：假设 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个具有结构 $( I , M , N , C )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数。首先定义（204号 $K = \\left\\{ \\lambda \\in I \\right|$ 存在 $S \\in M ( \\lambda ) , T \\in N ( \\lambda ) , s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq G \\}$ ，偏序集 $K$ 可以由 $( I , \\leq )$ 推导而出；$\\bullet$ （202 $\\begin{array} { r l } & { M ^ { \\prime } ( \\lambda ) = \\big \\{ S \\in M ( \\lambda ) \\big | \\lambda \\in K , \\exists T \\in N ( \\lambda ) , s u p p \\big ( C _ { S , T } ^ { \\lambda } \\big ) \\subseteq G \\big \\} ; } \\\\ & { N ^ { \\prime } ( \\lambda ) = \\big \\{ T \\in N ( \\lambda ) \\big | \\lambda \\in K , \\exists S \\in M ( \\lambda ) , s u p p \\big ( C _ { S , T } ^ { \\lambda } \\big ) \\subseteq G \\big \\} ; } \\end{array}$ $\\bullet$ $\\bullet$ 当 $\\lambda \\in K$ (， $S \\in M ^ { \\prime } ( \\lambda )$ ， $T \\in N ^ { \\prime } ( \\lambda )$ 时，取 $D _ { S , T } ^ { \\lambda } = C _ { S , T } ^ { \\lambda }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了证明 $R [ G ]$ 是一个具有结构 $( K , M ^ { \\prime } , N ^ { \\prime } , D )$ 的标准基代数，我们只需要证明如下三个问题：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1） $D : = \\{ D _ { S , T } ^ { \\lambda } | \\lambda \\in K , S \\in M ^ { \\prime } ( \\lambda ) , T \\in N ^ { \\prime } ( \\lambda ) \\}$ 是 $R [ G ]$ 的一组 $R$ -基。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "先证 $D \\subseteq R [ G ]$ 。设 $S \\in M ^ { \\prime } ( \\lambda )$ ，则存在 $T \\in N ( \\lambda )$ ，使得 $C _ { S , T } ^ { \\lambda } \\in R [ G ]$ 。由于 $e$ 是$R [ G ]$ 的左单位元，则我们有 $e C _ { S , T } ^ { \\lambda } = C _ { S , T } ^ { \\lambda }$ 。任取 $T ^ { \\prime } \\in N ( \\lambda )$ ，根据定义2.3的2)可知， $L _ { e } ( S ^ { \\prime } , S ) \\in R$ 是一个与 $T$ 无关的常数，因此",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne C _ { S , T ^ { \\prime } } ^ { \\lambda } = C _ { S , T ^ { \\prime } } ^ { \\lambda } + r ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { r ^ { \\prime } = \\sum _ { \\stackrel { i \\in I } { i < \\lambda } } \\sum _ { U \\in M ( i ) , V \\in N ( \\lambda ) } L _ { r ^ { \\prime } } ( U , V ) C _ { U , V } ^ { i } } \\end{array}$ ， $L _ { r ^ { \\prime } } ( U , V ) \\in R$ 。由于 $s u p p \\bigl ( e C _ { S , T ^ { \\prime } } ^ { \\lambda } \\bigr ) \\subseteq$ $R _ { e }$ ，且等式(1)右边的每一个基元素的支撑都含于某个 $\\mathcal { H }$ -类之中，因此等式(1)右边的任意非0系数的基元素都含于 $R [ R _ { e } ]$ ，则 $C _ { S , T ^ { \\prime } } ^ { \\lambda } \\in R [ R _ { e } ]$ 。同理，设 $T \\in$ $N ^ { \\prime } ( \\lambda )$ ，则存在 $S \\in M ( \\lambda )$ ，使得 $C _ { S , T } ^ { \\lambda } \\in R [ G ]$ 。由于 $e$ 是 $R [ G ]$ 的右单位元，则我们有 $C _ { S , T } ^ { \\lambda } e = C _ { S , T } ^ { \\lambda }$ 。任取 $S ^ { \\prime } \\in { \\cal M } ( \\lambda )$ ，根据定义 2.3 的3)可知， $R _ { e } ( T ^ { \\prime } , T ) \\in R$ 是一个与S无关的常数，因此",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { S ^ { \\prime } , T } ^ { \\lambda } e = C _ { S ^ { \\prime } , T } ^ { \\lambda } + r ^ { \\prime \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { r ^ { \\prime \\prime } = \\sum _ { i \\in I \\atop i < \\lambda } \\sum _ { P \\in M ( i ) , Q \\in N ( \\lambda ) } R _ { r ^ { \\prime \\prime } } ( P , Q ) C _ { P , Q } ^ { i } } \\end{array}$ ， $R _ { r ^ { \\prime \\prime } } ( P , Q ) \\in R$ 。由于$s u p p \\big ( C _ { S ^ { \\prime } , T } ^ { \\lambda } e \\big ) \\subseteq L _ { e }$ ，且等式(2)右边的每一个基元素的支撑都含于某个 $\\mathcal { H }$ -类之中，因此等式(2)右边的任意非0系数的基元素都含于 $R [ L _ { e } ]$ ，则 $C _ { S ^ { \\prime } , T } ^ { \\lambda } \\in R [ L _ { e } ]$ 。任取 $S \\in M ^ { \\prime } ( \\lambda ) , T \\in N ^ { \\prime } ( \\lambda )$ ，有",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { S , T } ^ { \\lambda } \\in R [ R _ { e } ] \\cap R [ L _ { e } ] = R [ G ] \\ : \\mathrm { , }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "再证 $R [ G ]$ 可由 $D$ 中的元素 $R$ -线性生成。设 $a \\in R [ G ]$ ，则 $a = a _ { 1 } + a _ { 2 }$ ，其中$a _ { 1 }$ 是由 $D$ 中的元素 $R$ -线性生成， $a _ { 2 }$ 是由 $D ^ { \\prime } : = \\big \\{ C _ { S , T } ^ { \\lambda } \\big | \\lambda \\in I , S \\in M ( \\lambda ) , T \\in N ( \\lambda ) \\big \\} \\backslash D$ 中的元素 $R$ -线性生成。当 $C _ { S , T } ^ { \\lambda } \\in D ^ { \\prime }$ ，有 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq \\mathfrak { S } \\backslash \\mathrm { G }$ ，则 $a _ { 2 } \\in R [ \\mathfrak { S } \\backslash G ]$ ，又因为 $a _ { 2 } = a - a _ { 1 } \\in R [ G ]$ ，因此我们可得 $a _ { 2 } = 0$ 。所以 $R [ G ]$ 可由 $D$ 中的元素 $R -$ 线性生成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，问题(1)得证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）如果 $g \\in G$ ， $\\lambda \\in K , D _ { S , T } ^ { \\lambda } \\in D ( \\lambda ) : = \\{ D _ { U , V } ^ { \\lambda } | U \\in M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda ) \\}$ ，那么 （204号 $g D _ { S , T } ^ { \\lambda } = \\sum _ { S ^ { \\prime } \\in N \\left( \\lambda \\right) } L _ { g } ( S ^ { \\prime } , S ) D _ { S ^ { \\prime } , T } ^ { \\lambda } + g ^ { \\prime } ,$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { g ^ { \\prime } = \\sum _ { k \\in K } \\sum _ { U \\in M ^ { \\prime } ( k ) , V \\in N ^ { \\prime } ( k ) } L _ { g ^ { \\prime } } ( U , V ) D _ { U , V } ^ { k } } \\end{array}$ ，系数 $L _ { g } ( S ^ { \\prime } , S ) \\in R$ 且不依赖于 $T$ 。由于 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个具有结构 $( I , M , N , C )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，因此有",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng D _ { S , T } ^ { \\lambda } = g C _ { S , T } ^ { \\lambda } = \\sum _ { S ^ { \\prime } \\in M ^ { \\prime } ( \\lambda ) } L _ { g } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\lambda } + \\sum _ { S ^ { \\prime } \\in M ( \\lambda ) \\backslash M ^ { \\prime } ( \\lambda ) } L _ { g } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\lambda } + g _ { 0 } ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { g _ { 0 } ^ { \\prime } = \\sum _ { k \\in I } \\sum _ { U \\in M ( k ) , T \\in N ( k ) } L _ { g _ { 0 } ^ { \\prime } } ( U , V ) C _ { U , V } ^ { k } } \\end{array}$ ，系数 $L _ { g } ( S ^ { \\prime } , S )$ 不依赖于 $T$ 。注意，由于 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq G$ 和 $s u p p \\bigl ( g C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq G$ ，可得 $\\begin{array} { r l } { \\sum _ { S ^ { \\prime } \\in M ( \\lambda ) \\backslash M ^ { \\prime } ( \\lambda ) } L _ { g } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\lambda } + } & { { } } \\end{array}$ （204号$g _ { 0 } ^ { \\prime } \\subseteq G$ 。又因为 $g _ { 0 } ^ { \\prime }$ 的线性表达式中各个基元素的上索引值都严格小于 $\\lambda$ ，则（20 $\\begin{array} { r } { \\sum _ { S ^ { \\prime } \\in M ( \\lambda ) \\setminus M ^ { \\prime } ( \\lambda ) } L _ { g } ( S ^ { \\prime } , S ) C _ { S ^ { \\prime } , T } ^ { \\lambda } = 0 } \\end{array}$ ， $g _ { 0 } ^ { \\prime } \\in R [ G ]$ 。根据问题(1)可知， $g _ { 0 } ^ { \\prime }$ 可以由 $D$ 中的元素 $R$ －线性表示，并且 $g _ { 0 } ^ { \\prime }$ 的线性表达式中各个基元素的上索引值都严格小于λ，问题(2)得证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）如果 $g \\in G$ ， $\\lambda \\in K$ ， $D _ { S , T } ^ { \\lambda } \\in D ( \\lambda ) : = \\{ D _ { S , T } ^ { \\lambda } | S , T \\in N ( \\lambda ) \\}$ ，那么",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { g ^ { \\prime \\prime } = \\sum _ { k \\in K } \\sum _ { U \\in M ^ { \\prime } ( k ) , V \\in N ^ { \\prime } ( k ) } R _ { g ^ { \\prime \\prime } } ( U , V ) C _ { U , V } ^ { k } } \\end{array}$ ，系数 $R _ { g } ( T ^ { \\prime } , T ) \\in R$ 且不依赖于 $s$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同理，由于 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个具有结构 $( I , M , N , C )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，因此有",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { S , T } ^ { \\lambda } g = C _ { S , T } ^ { \\lambda } g = \\sum _ { T ^ { \\prime } \\in N ^ { \\prime } ( \\lambda ) } R _ { g } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\lambda } + \\sum _ { T ^ { \\prime } \\in N ( \\lambda ) \\backslash N ^ { \\prime } ( \\lambda ) } R _ { g } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\lambda } + g _ { 0 } ^ { \\prime \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { g _ { 0 } ^ { \\prime \\prime } = \\sum _ { k \\in I } \\sum _ { U \\in M ( k ) , T \\in N ( k ) } R _ { g _ { 0 } ^ { \\prime \\prime } } ( U , V ) C _ { U , V } ^ { k } } \\end{array}$ ，系数 $R _ { g } ( T ^ { \\prime } , T )$ 不依赖于 $s$ 。注意，由于 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } \\bigr ) \\subseteq G$ 和 $s u p p \\bigl ( C _ { S , T } ^ { \\lambda } g \\bigr ) \\subseteq G$ ，可得 $\\begin{array} { r l } { \\sum _ { T ^ { \\prime } \\in N ( \\lambda ) \\setminus N ^ { \\prime } ( \\lambda ) } R _ { g } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\lambda } + } & { { } } \\end{array}$ $g _ { 0 } ^ { \\prime \\prime } \\subseteq G$ 。又因为 $g _ { 1 }$ 的线性表达式中各个基元素的上索引值都严格小于 $\\lambda$ ，则（204号 $\\begin{array} { r } { \\sum _ { T ^ { \\prime } \\in N ( \\lambda ) \\setminus N ^ { \\prime } ( \\lambda ) } R _ { g } ( T ^ { \\prime } , T ) C _ { S , T ^ { \\prime } } ^ { \\lambda } = 0 } \\end{array}$ ， $g _ { 0 } ^ { \\prime \\prime } \\in R [ G ]$ 。根据问题(1)可知， $g _ { 0 } ^ { \\prime \\prime }$ 可以由 $D$ 中的元素 $R$ -线性表示，并且 $g _ { 0 } ^ { \\prime \\prime }$ 的线性表达式中各个基元素的上索引值都严格小于λ，问题(3)得证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设 $G$ 的群代数 $R [ G ]$ 是一个具有结构 $( K , M ^ { \\prime } , N ^ { \\prime } , D )$ 的标准基代数。我们可以假设 $\\mathfrak { S } = \\mathcal { M } ^ { 0 } ( G , \\Lambda , \\Gamma ; P )$ 。对于 $\\lambda \\in K$ ，定义 $M ( \\lambda ) = \\Lambda \\times M ^ { \\prime } ( \\lambda )$ ， $N ( \\lambda ) =$ $\\Gamma \\times N ^ { \\prime } ( \\lambda )$ 以及 $( x , S ) \\in M ( \\lambda )$ ， $( y , T ) \\in N ( \\lambda )$ ，有 $C _ { ( x , S ) , ( y , T ) } ^ { \\lambda } = \\left( D _ { S , T } ^ { \\lambda } , x , y \\right)$ 。接下来我们将开始证明 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个具有结构 $( K , M , N , C )$ 的标准基代数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据假设可知， $\\{ D _ { S , T } ^ { \\lambda } | \\lambda \\in K , S \\in M ^ { \\prime } ( \\lambda ) , T \\in N ^ { \\prime } ( \\lambda ) \\}$ 是 $R [ G ]$ 的一组R-基，对于任意元素（a,x,y)∈(R[G],x,y）都能被B:={Cx,s).y,T)l∈K,(x,S)∈$M ( \\lambda ) , ( y , T ) \\in N ( \\lambda ) \\}$ 中的元素 $R -$ 线性表示，因此可证 $B$ 是 $R _ { 0 } [ \\mathfrak { S } ]$ 的一组 $R -$ 基。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "王取 $g \\in G$ ， $u \\in \\Lambda , v \\in \\Gamma$ ，有 $( g , u , v ) \\in \\mathfrak { S }$ 。再取基元素 $C _ { ( x , S ) , ( y , T ) } ^ { \\alpha } \\in B$ ，有",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( g , u , v ) C _ { ( x , S ) , ( y , T ) } ^ { \\alpha } = ( g , u , v ) \\bigl ( D _ { S , T } ^ { \\alpha } , x , y \\bigr ) = \\bigl ( g p _ { v , x } D _ { S , T } ^ { \\alpha } , u , y \\bigr ) \\mathrm { . }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "又由于 $R [ G ]$ 是一个标准基代数，有",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng p _ { v , x } D _ { S , T } ^ { \\alpha } = \\sum _ { S ^ { \\prime } \\in M ^ { \\prime } ( \\alpha ) } L _ { g p _ { v , x } } ( S ^ { \\prime } , S ) D _ { S ^ { \\prime } , T } ^ { \\alpha } + \\sum _ { \\substack { \\lambda < \\alpha , \\lambda \\in K , U \\in M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda ) } } L ( \\lambda , U , V ) D _ { U , V } ^ { \\lambda } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中上述等式系数 $L _ { g p _ { v , x } } ( S ^ { \\prime } , S ) \\in R$ 但不依赖于 $T$ ，又因为元素 $g p _ { v , x } D _ { S , T } ^ { \\lambda }$ 可由 $R [ G ]$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中的 $R -$ 基 $\\{ D _ { S , T } ^ { \\lambda } | \\lambda \\in K , S \\in M ^ { \\prime } ( \\lambda ) , T \\in N ^ { \\prime } ( \\lambda ) \\}$ 线性表示，可写成",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng p _ { v , x } D _ { S , T } ^ { \\alpha } = \\sum _ { \\lambda \\in K , U \\in M ^ { \\prime } ( \\alpha ) , V \\in N ^ { \\prime } ( \\alpha ) } L ( \\alpha , S , T , v , x , g ; \\lambda , U , V ) D _ { U , V } ^ { \\lambda } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对比等式(3)和(4)，可以发现，对于任意 $S ^ { \\prime } \\in { \\cal M } ^ { \\prime } ( \\alpha ) , \\lambda = \\alpha , { \\cal U } \\in { \\cal M } ^ { \\prime } ( \\alpha ) , { \\cal V } \\in$ $N ^ { \\prime } ( \\alpha )$ 都有 $L ( \\alpha , S , T , v , x , g ; \\lambda , S ^ { \\prime } , S ) = L _ { g p _ { v , x } } ( S ^ { \\prime } , S )$ ，显然也可以发现$L ( \\alpha , S , T , v , x , g ; \\lambda , S ^ { \\prime } , S )$ 不依赖于 $y$ ，又因为 $L _ { g p _ { v , x } } ( S ^ { \\prime } , S )$ 也不依赖于 $T$ ，因此我们可以得到 $L ( \\alpha , S , T , v , x , g ; \\lambda , S ^ { \\prime } , S )$ 不依赖于 $y$ 和 $T$ 。而且对于任意 $\\lambda < \\alpha , U \\in$ $M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda )$ ， $L ( \\alpha , S , T , v , x , g ; \\lambda , U , V ) = L ( \\lambda , U , V )$ 。则",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( g , u , v ) C _ { S , T } ^ { \\alpha } \\equiv \\sum _ { ( u , s ^ { \\prime } ) \\in { \\cal M } ( \\lambda ) } L ( \\alpha , S , T , v , x , g ; \\alpha , S ^ { \\prime } , S ) C _ { ( u , s ^ { \\prime } ) , ( y , T ) } ^ { \\alpha } \\left( m o d R _ { 0 } [ \\mathfrak { S } ] ( < \\alpha ) \\right) \\circ \\alpha ( \\mathrm { N } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定义2.3的2)得证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同理，任取 $g \\in G$ ， $u \\in \\Lambda , v \\in \\Gamma$ ，有 $( g , u , v ) \\in S$ 。再取基元素 $C _ { ( x , S ) , ( y , T ) } ^ { \\alpha } \\in$ $B$ ，有",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { ( x , S ) , ( y , T ) } ^ { \\alpha } ( g , u , v ) = \\big ( D _ { S , T } ^ { \\alpha } , x , y \\big ) ( g , u , v ) = \\big ( D _ { S , T } ^ { \\alpha } p _ { y , u } g , x , v \\big ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "又由于 $R [ G ]$ 是一个具有结构 $( K , M , N , C )$ 的标准基代数，有",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { S , T } ^ { \\alpha } p _ { y , u } g = \\sum _ { T ^ { \\prime } \\in N ^ { \\prime } ( \\alpha ) } R _ { p _ { y , u } g } ( T ^ { \\prime } , T ) D _ { S , T ^ { \\prime } } ^ { \\alpha } + \\sum _ { \\substack { \\lambda < \\alpha , \\lambda \\in K , U \\in M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda ) } } R ( \\lambda , U , V ) D _ { U , V } ^ { \\lambda } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中上述等式系数 $R _ { p _ { y , u } g } ( T ^ { \\prime } , T ) \\in R$ 但不依赖于 $s$ ，又因为元素 $D _ { S , T } ^ { \\alpha } p _ { y , u } g$ 可由$R [ G ]$ 中的 $R -$ 基 $\\{ D _ { S , T } ^ { \\lambda } | \\lambda \\in K , S \\in M ^ { \\prime } ( \\lambda ) , T \\in N ^ { \\prime } ( \\lambda ) \\}$ 线性表示，可写成",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { S , T } ^ { \\alpha } p _ { y , u } g = \\sum _ { \\lambda \\in K , U \\in M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda ) } R ( \\alpha , S , T , y , u , g ; \\lambda , U , V ) D _ { U , V } ^ { \\lambda } \\circ ( \\epsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对比等式(5)和(6)，可以发现,对于任意 $T ^ { \\prime } \\in N ^ { \\prime } ( \\alpha ) , U \\in M ^ { \\prime } ( \\alpha ) , V \\in N ^ { \\prime } ( \\alpha )$ 都有$R ( \\alpha , S , T , y , u , g ; \\lambda , T ^ { \\prime } , T ) = R _ { p _ { y , u } g } ( T ^ { \\prime } , T )$ ，显然也可以发现（204号 $R ( \\alpha , S , T , y , u , g ; \\lambda , T ^ { \\prime } , T )$ 不依赖于 $x$ ，又因为 $R _ { p _ { y , u } g } ( T ^ { \\prime } , T )$ 也不依赖于 $s$ ，因此我们可以得到 $R ( \\alpha , S , T , y , u , g ; \\lambda , T ^ { \\prime } , T )$ 不依赖于 $x$ 和 $s$ 。而且对于任意 $\\lambda < \\alpha , U \\in$ $M ^ { \\prime } ( \\lambda ) , V \\in N ^ { \\prime } ( \\lambda )$ ，有 $R ( \\alpha , S , T , y , u , g ; \\lambda , U , V ) = R ( \\lambda , U , V )$ 。则",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { S , T } ^ { \\alpha } ( g , u , v ) \\equiv \\sum _ { ( v , T ^ { \\prime } ) \\in N ( \\lambda ) } R ( \\alpha , S , T , y , u , g ; \\lambda , T ^ { \\prime } , T ) C _ { ( x , S ) , ( v , T ^ { \\prime } ) } ^ { \\alpha } ~ \\left( m o d R _ { 0 } [ \\mathfrak { S } ] ( < \\alpha ) \\right) \\mathrm { . }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定义 2.3的 3)得证。因此 $R _ { 0 } [ \\mathfrak { S } ]$ 是一个具有结构 $( K , M , N , C )$ 的标准基代数，显然 $R _ { 0 } [ \\mathfrak { S } ]$ 也满足 $\\mathcal { J } \\mathcal { H }$ 型标准基代数的定义，因此 $R _ { 0 } [ S ]$ 还是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数。证毕。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定理3.3设 $R$ 是一个整环， $\\mathfrak { S }$ 是一个主因子为 $\\mathcal { M } ^ { 0 } = ( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 的有限正则半群，其中 $\\alpha$ 取遍 $Y = \\odot / \\mathcal { J }$ ，设 $E = \\{ e \\in \\mathfrak { S } | 0 \\neq e = e ^ { 2 } \\}$ 。取 $e \\in E$ ，令 $G _ { e }$ 为 $\\mathfrak { S }$ 关于单位元 $e$ 的极大子群。如果对于 $\\alpha \\in Y$ ，都有 $E _ { \\alpha } : = E \\cap E ( \\mathcal { M } ^ { 0 } =$ $\\left( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } ) \\right) \\neq \\emptyset$ ，则 $R [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数当且仅当任意 $\\alpha \\in Y$ ，存在 $e \\in E _ { \\alpha }$ ，使得 $R [ G _ { e } ]$ 是一个标准基代数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "证明：假设 $R [ \\mathfrak { S } ]$ 是一个具有结构 $( I , M , N , C )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，根据定理3.1 可知，任意 $a \\in { \\mathfrak { S } }$ ，都有 $R [ J _ { a } ]$ 是一个标准基代数。选定 $\\alpha \\in Y$ ，令 $J _ { a } =$ （20 $\\mathcal { M } ^ { 0 } ( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } ) \\backslash \\{ 0 \\}$ ，则有 $\\mathfrak { S } _ { a } \\cong \\mathcal { M } ^ { 0 } ( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 。因为 $E _ { \\alpha } \\neq \\emptyset$ ，存在 $e \\in$ $E _ { \\alpha }$ 。如第二节所述， $\\mathfrak { S } _ { a } = \\mathcal { M } ^ { 0 } ( G _ { e } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 。定义单位元 $\\boldsymbol { e } = ( e , 0 , 0 )$ ，根据定理3.2，我们可证得 $R [ G _ { e } ]$ 也是一个标准基代数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假设任意 $\\alpha \\in Y$ ，存在 $e \\in E _ { \\alpha }$ ，使得 $R [ G _ { e } ]$ 是一个标准基代数。任取 $a \\in { \\mathfrak { S } }$ ，先证 $R [ J _ { a } ]$ 是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数。因为 $\\mathfrak { S }$ 是一个主因子为 $\\mathcal { M } ^ { 0 } =$ $( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 的有限正则半群，因此存在 $\\alpha \\in Y$ ，使得 $a$ 决定的主因子$( { \\mathfrak { S } } _ { a } : = J _ { a } \\cup \\{ 0 \\} , \\circ )$ 为 $\\mathcal { M } ^ { 0 } ( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 。选定 $e \\in E _ { \\alpha }$ ，使得 $R [ G _ { e } ]$ 是一个具有结构 $( K _ { a } ^ { \\prime } , M _ { a } ^ { \\prime } , N _ { a } ^ { \\prime } , D )$ 的标准基代数，根据定理3.2可知， $R [ J _ { a } ]$ 是一个具有结构$( K _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，其中 $K _ { a } : = K _ { a } ^ { \\prime }$ ， ${ \\cal M } _ { a } ( \\lambda ) : = \\Lambda _ { \\alpha } \\times { \\cal M } _ { a } ^ { \\prime } ( \\lambda )$ ，Na():=Γα×N&(a)以及任意(x,S)∈ Ma(a)，(y,T)∈Na(λ)，有Ca;(x,s).(y,T)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "令 $\\Im$ 为S的 $\\mathcal { J } -$ 类的所有代表元所成的集合。现在我们要证 $R [ \\mathfrak { S } ]$ 是一个具有结构 $( { \\mathfrak { T } } , M ^ { \\prime } , N ^ { \\prime } , D )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，其中 $\\mathfrak { T } = \\bigcup _ { a \\in \\mathfrak { I } } ( a , K _ { a } )$ 定义偏序≤：任意$a , b \\in \\Im$ ， $\\lambda \\in K _ { a }$ ， $\\boldsymbol { \\mu } \\in \\boldsymbol { K } _ { b }$ 以及 $\\lambda \\neq \\mu$ ，则 $( a , \\lambda ) < ( b , \\mu ) \\Longleftrightarrow J _ { a } < J _ { b }$ 或者当 $J _ { a } = J _ { b }$ 时， $\\lambda < \\mu$ 且, $\\mu \\in K _ { a }$ 。任取 $( a , \\lambda ) \\in ( a , K _ { a } )$ ，定义 $M ^ { \\prime } ( a , \\lambda ) = M _ { a } ( \\lambda )$ ， $N ^ { \\prime } ( a , \\lambda ) =$ $N _ { a } ( \\lambda )$ 以及任取 $U \\in { \\cal M } ^ { \\prime } ( a , \\lambda ) , V \\in { \\cal N } ^ { \\prime } ( a , \\lambda )$ ，有 $D _ { U , V } ^ { ( a , \\lambda ) } = C _ { a ; U , V } ^ { \\lambda }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于 $R [ J _ { a } ]$ 是一个具有结构 $( K _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，则$\\mathsf { U } _ { ( a , \\lambda ) \\in ( a , K _ { a } ) } \\Bigl \\{ D _ { U , V } ^ { ( a , \\lambda ) } \\Big | U \\in M ^ { \\prime } ( a , \\lambda ) , V \\in N ^ { \\prime } ( a , \\lambda ) \\Bigr \\}$ 构成 $R [ J _ { a } ]$ 的一组 $R -$ 基。则我们可以证得 $\\mathsf { U } _ { a \\in \\Im ; ( a , \\lambda ) \\in ( a , K _ { a } ) } \\Big \\{ D _ { U , V } ^ { ( a , \\lambda ) } \\Big | U \\in M ^ { \\prime } ( a , \\lambda ) , V \\in N ^ { \\prime } ( a , \\lambda ) \\Big \\}$ 构成 $R [ \\mathfrak { S } ]$ 的一组 $R -$ 基，定义2.3的1)得证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设 $a , b \\in { \\mathfrak { I } }$ ，若 $b \\in I ( a )$ ， $\\boldsymbol { \\mu } \\in \\boldsymbol { K } _ { b }$ 以及 $\\alpha \\in K _ { a }$ ，有 $( b , \\mu ) < ( a , \\alpha )$ 。事实上",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb \\in I ( a ) \\Leftrightarrow { \\mathfrak { S } } ^ { 1 } b { \\mathfrak { S } } ^ { 1 } \\subset { \\mathfrak { S } } ^ { 1 } a { \\mathfrak { S } } ^ { 1 } \\Longleftrightarrow J _ { b } < J _ { a } \\qquad \n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如现 $b \\in I ( a )$ $\\lambda \\in K _ { a }$ ，中 $( x , S ) \\in M _ { a } ( \\lambda ) , ( y , T ) \\in N _ { a } ( \\lambda )$ $\\boldsymbol { \\mu } \\in \\boldsymbol { K } _ { b }$ $\\lambda \\in K _ { a }$ 都吸 $c \\in \\mathfrak { S }$ $( b , \\mu ) < ( a , \\lambda )$ $c D _ { ( x , S ) , ( y , T ) } ^ { ( a , \\lambda ) } =$ $c C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda }$ ，其中 $C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } \\in R [ J _ { a } ]$ 金 $G _ { e } = ( G _ { e } , 0 , 0 )$ ，则根据 $s u p p ( C _ { S , T } ^ { \\lambda } ) \\subseteq$ $G _ { e }$ ，有 $s u p p \\bigl ( C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } \\bigr ) \\subseteq R [ ( G _ { e } , x , y ) ] \\bigr \\vert _ { \\mathbf { \\Sigma } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据引理2.1可知， $c ( e , x , 0 ) \\in J _ { a }$ 或者 $c ( e , x , 0 ) \\in I ( a ) .$ 0",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设 $c ( e , x , 0 ) \\in I ( a )$ 。有",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc D _ { ( x , S ) , ( y , T ) } ^ { ( a , { \\lambda } ) } = c C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } = c ( e , x , 0 ) ( C _ { S , T } ^ { \\lambda } , 0 , { \\ y } ) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\boldsymbol { I } ( \\boldsymbol { a } )$ 這是， ${ \\mathfrak { S } } ^ { 1 } a { \\mathfrak { S } } ^ { 1 }$ 的一个理想，因此可得 $c D _ { ( x , S ) , ( y , T ) } ^ { ( a , \\lambda ) } \\in R [ I ( a ) ]$ 。存在 $\\mathfrak { I } _ { 1 } \\subset \\mathfrak { I }$ ，使得 ${ \\mathfrak { I } } _ { 1 } \\subseteq I ( a )$ 以及 )(y,T)∈ Ub∈s1RUb]。又由于当b∈S1，μ∈ Kb以及α∈$K _ { a }$ 时，有 $( b , \\mu ) < ( a , \\alpha )$ ，因此可得 $\\cup _ { b \\in \\mathfrak { I } _ { 1 } } R [ J _ { b } ] \\subset R [ \\mathfrak { S } ] \\big ( < ( a , \\lambda ) \\big )$ ，即$c D _ { ( x , S ) , ( y , T ) } ^ { ( a , { \\lambda } ) } \\in R [ \\mathfrak { S } ] \\bigl ( < ( a , { \\lambda } ) \\bigr ) \\circ$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设 $c ( e , x , 0 ) \\in J _ { a }$ ，有",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { c D _ { ( x , S ) , ( y , T ) } ^ { ( a , { \\lambda } ) } = c C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } } \\\\ & { \\qquad = c \\big [ ( e , x , 0 ) \\big ( C _ { S , T } ^ { \\lambda } , 0 , y \\big ) \\big ] } \\\\ & { \\qquad = c ( e , x , 0 ) \\big ( C _ { S , T } ^ { \\lambda } , 0 , y \\big ) } \\\\ & { \\qquad = c ( e , x , 0 ) D _ { ( 0 , S ) , ( y , T ) } ^ { ( a , { \\lambda } ) } \\circ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于 $R [ J _ { a } ]$ 是一个具有结构 $( K _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，有",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ( e , x , 0 ) D _ { ( 0 , S ) , ( y , T ) } ^ { ( a , \\lambda ) } = \\sum _ { ( s , S ^ { \\prime } ) \\in M ^ { \\prime } ( a , \\lambda ) } L _ { c ( e , x , 0 ) } \\big ( ( s , S ^ { \\prime } ) , ( 0 , S ) \\big ) C _ { a ; ( s , S ^ { \\prime } ) , ( y , T ) } ^ { \\lambda } + z ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中 $z \\in R [ J _ { a } ] ( < \\lambda )$ ，系数 $L _ { c ( e , x , 0 ) } \\big ( ( s , S ^ { \\prime } ) , ( 0 , S ) \\big ) \\in R$ 且不依赖于 $( y , T )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\mathrm { Q } : = \\bigcup _ { a \\in \\Im ; ( a , \\lambda ) \\in ( a , K _ { a } ) } \\Bigl \\{ D _ { U , V } ^ { ( a , \\lambda ) } \\Bigl | U \\in M ^ { \\prime } ( a , \\lambda ) , V \\in N ^ { \\prime } ( a , \\lambda ) \\Bigr \\}$ 构成 $R [ \\mathfrak { S } ]$ 的一组$R$ -基，因此 $c C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda }$ 可以由 $\\mathsf { Q }$ 中的元素 $R -$ 线性表示，有",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } = \\sum L ( \\lambda , s , S ^ { \\prime } , y , T ) C _ { a ; ( s , S ^ { \\prime } ) , ( y , T ) } ^ { \\lambda } + z ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中 $z ^ { \\prime }$ 是由 $\\{ C _ { b ; U ^ { \\prime } , V ^ { \\prime } } ^ { \\mu } | b \\in \\Im ; ( b , \\mu ) \\neq ( a , \\lambda ) ; U ^ { \\prime } \\in M ^ { \\prime } ( b , \\mu ) , V ^ { \\prime } \\in N ^ { \\prime } ( b , \\mu ) \\}$ 中的元素$R -$ 线性表示。对比等式（7）和（8）可知， $c C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } \\equiv$ $\\begin{array} { r l } { \\sum _ { ( { s } , { S } ^ { \\prime } ) \\in { M } ^ { \\prime } ( { a } , { \\lambda } ) } L _ { c ( e , x , 0 ) } \\bigl ( ( { s } , { S } ^ { \\prime } ) , ( 0 , { S } ) \\bigr ) C _ { { a } ; ( { s } , { S } ^ { \\prime } ) , ( y , T ) } ^ { \\lambda } } & { { } \\Bigl ( m o d R [ \\mathfrak { S } ] \\bigl ( < ( { a } , \\lambda ) \\bigr ) \\Bigr ) } \\end{array}$ 。则定义2.3的2)得证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同理，根据引理2.1可知， $( e , 0 , y ) c \\in J _ { a }$ 或者 $( e , 0 , y ) c \\in I ( a )$ 0",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设 $( e , 0 , y ) c \\in I ( a )$ 。有",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { ( x , S ) , ( y , T ) } ^ { ( a , \\lambda ) } c = C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } c = \\bigl ( C _ { S , T } ^ { \\lambda } , x , 0 \\bigr ) ( e , 0 , y ) c _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\boldsymbol { I } ( \\boldsymbol { a } )$ 這是 ${ \\mathfrak { S } } ^ { 1 } a { \\mathfrak { S } } ^ { 1 }$ 的一个理想，因此可得 $D _ { ( x , S ) , ( y , T ) } ^ { ( a , \\lambda ) } c \\in R [ I ( a ) ]$ 。存在 $\\mathfrak { I } _ { 2 } \\subset \\mathfrak { I }$ ，使得Ω（a）以及D() (x,S),(y,t)C∈Un∈sRUn]。又由于当h ∈S2，μ∈ Kb以及α∈$K _ { a }$ 时，有 $( b , \\mu ) < ( a , \\alpha )$ ，因此可得 $\\cup _ { h \\in \\mathfrak { I } _ { 2 } } R [ J _ { h } ] \\subset R [ \\mathfrak { S } ] \\big ( < ( a , \\lambda ) \\big )$ ，即$D _ { ( x , S ) , ( y , T ) } ^ { ( a , { \\lambda } ) } c \\in R [ \\mathfrak { S } ] \\big ( < ( a , { \\lambda } ) \\big ) \\circ$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设 $( e , 0 , y ) c \\in J _ { a }$ ，有",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { D _ { ( x , S ) , ( y , T ) } ^ { ( a , \\lambda ) } c = C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } c } \\\\ & { = \\bigl [ \\bigl ( C _ { S , T } ^ { \\lambda } , x , 0 \\bigr ) ( e , 0 , y ) \\bigr ] c } \\\\ & { = \\bigl ( C _ { S , T } ^ { \\lambda } , x , 0 \\bigr ) [ ( e , 0 , y ) c ] } \\\\ & { = D _ { ( x , S ) , ( 0 , T ) } ^ { ( a , \\lambda ) } [ ( e , 0 , y ) c ] \\circ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\boldsymbol { R } [ J _ { a } ]$ 是一个具有结构 $( K _ { a } , M _ { a } , N _ { a } , C _ { a } )$ 的 $\\mathcal { J } \\mathcal { H }$ 型标准基代数，有",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$D _ { ( x , S ) , ( 0 , T ) } ^ { ( \\alpha , \\lambda ) } [ ( e , 0 , y ) c ] = \\sum _ { ( t , T ^ { \\prime } ) \\in N ^ { \\prime } ( a , \\lambda ) } R _ { ( e , 0 , y ) c } \\big ( ( t , T ^ { \\prime } ) , ( 0 , T ) \\big ) C _ { a ; ( x , S ) , ( t , T ^ { \\prime } ) } ^ { \\lambda } + w ,$ 其中 $w \\in R [ J _ { a } ] ( < \\lambda )$ ，系数 $R _ { ( e , 0 , y ) c } \\big ( ( t , T ^ { \\prime } ) , ( 0 , T ) \\big ) \\in R$ 且不依赖 $( x , S )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\mathrm { Q } : = \\bigcup _ { a \\in \\Im ; ( a , \\lambda ) \\in ( a , K _ { a } ) } \\Bigl \\{ D _ { U , V } ^ { ( a , \\lambda ) } \\Bigl | U \\in M ^ { \\prime } ( a , \\lambda ) , V \\in N ^ { \\prime } ( a , \\lambda ) \\Bigr \\}$ 构成 $R [ \\mathfrak { S } ]$ 的一组$R$ -基，因此 $C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } c$ 可以由 $\\mathsf { Q }$ 中的元素 $R$ -线性表示，有",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } c = \\sum R ( \\lambda , x , S , t , T ^ { \\prime } ) C _ { a ; ( x , S ) , ( t , T ^ { \\prime } ) } ^ { \\lambda } + w ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中 $w ^ { \\prime }$ 是由 $\\{ C _ { b ; U ^ { \\prime } , V ^ { \\prime } } ^ { \\mu } | b \\in \\Im ; ( b , \\mu ) \\neq ( a , \\lambda ) ; U ^ { \\prime } \\in M ^ { \\prime } ( b , \\mu ) , V ^ { \\prime } \\in N ^ { \\prime } ( b , \\mu ) \\}$ 中的元素$R -$ 线性表示。对比等式（9）和（10）可知， $C _ { a ; ( x , S ) , ( y , T ) } ^ { \\lambda } c \\equiv$ $\\begin{array} { r l } { \\sum _ { ( t , T ^ { \\prime } ) \\in N ^ { \\prime } ( a , \\lambda ) } R _ { ( e , 0 , y ) c } \\big ( ( t , T ^ { \\prime } ) , ( 0 , T ) \\big ) C _ { a ; ( x , S ) , ( t , T ^ { \\prime } ) } ^ { \\lambda } } & { { } \\Big ( m o d R [ \\mathfrak { S } ] \\big ( < ( a , \\lambda ) \\big ) \\Big ) \\in \\mathbb { R } ^ { 3 } } \\end{array}$ ，则定义2.3的3)得证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述， $R [ \\mathfrak { S } ]$ 是一个具有结构 $( { \\mathfrak { T } } , M ^ { \\prime } , N ^ { \\prime } , D )$ 的标准基代数，显然 $R [ \\mathfrak { S } ]$ 也满足 $\\mathcal { J } \\mathcal { H }$ 型标准基代数的定义，因此 $R [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "推论3.4设 $R$ 是一个整环， $\\mathfrak { S }$ 是一个主因子为 $\\mathcal { M } ^ { 0 } = ( G _ { \\alpha } , \\Lambda _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } )$ 的有限正则半群，其中 $\\alpha$ 取遍 $Y = \\odot / \\mathcal { J }$ 。 $E$ 是 $\\mathfrak { S }$ 的所有幂等元所构成的集合，任取 $e \\in E$ ，令 $G _ { e }$ 为 $\\mathfrak { S }$ 关于单位元 $e$ 的极大子群。任意 $\\alpha \\in Y = \\mathfrak { S } / \\mathcal { J }$ ，有 $E \\cap E { \\big ( } { \\mathcal { M } } ^ { 0 } =$ $\\left( G _ { \\alpha } , I _ { \\alpha } , \\Gamma _ { \\alpha } ; P _ { \\alpha } ) \\right) \\neq \\emptyset$ ，则 $R [ \\mathfrak { S } ]$ 是一个 $\\mathcal { J } \\mathcal { H }$ 型标准基代数当且仅当对于每一个 $e \\in E$ ，都有群代数 $R [ G _ { e } ]$ 是一个标准基代数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]D. Kazhdan， G. Lusztig. Representations of Coxeter groups and Hecke algebras[J]. Inventiones mathematicae，1979，53(2):165-184.   \n[2]J.J.Graham，G.I.Lehrer.Cellularalgebras[J].Inventiones mathematicae，1996, 123(1) :1-34.   \n[3] S.Konig， C.C. Xi. On the Structure of Cellular Algebras[J]. Algebras and modules，1996, 365-386.   \n[4] J. Du， H.B. Rui. Based algebras and standard bases for quasi-hereditary algebras[J]. Transactions of the American Mathematical Society，1998，350(8):3207-3235.   \n[5]J. East. Cellular algebras and inverse semigroups[J]． Journal of Algebra， 2006, 296:505-519.   \n[6] S.Wilcox. Cellularity of diagram algebras and twisted semigroup algebras[J]. Journal of Algebra，2007，309(1):10-31.   \n[7] X.J. Guo， C.C. Xi. Cellularity of twisted semigroup algebras[J]. Journal of Pure and Applied Algebra，2009，213:71-86.   \n[8] J.M. Howie. Fundamentals of semigroup theory[M].Oxford: Oxford University Press，1995. [9]J.Okninski. Semigroup Algebras[M]． New York: Monographs and Textbooks in Pure and Applied Mathematics，Marcel Dekker，Inc.，1991.   \n[10] J.M. Howie.An Introduction to Semigroup Theory[M]．London: Academic Press，1976. [11] J.A. Green. On the structure of semigroups[J]． Annals of Mathematics，1951，54(2):163- 172.   \n业 +共 ",
+        "page_idx": 9
+    }
+]

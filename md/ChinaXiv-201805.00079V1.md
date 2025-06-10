@@ -1,0 +1,183 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# MUSER可见度数据积分方法与实现
+
+赖铖¹，梅盈1²，邓辉，王 锋1,²，戴伟(1.昆明理工大学云南省计算机技术应用重点实验室，云南 昆明 650500；2.中国科学院云南天文台，云南昆明650011)
+
+摘要：射电观测是研究太阳活动的重要探测手段。我国明安图射电频谱日像仪（MingantUSpEctral Radioheliograph，MUSER)主要用于研究太阳爆发活动初始能量释放区的物理过程，其观测将在太阳射电成像开辟一个新的窗口。成像处理是数据处理的重要组成部分，如何提高成像质量是当前数据处理的研究重点。首先介绍了射电干涉成像的基本理论，随后分析了对观测得到的可见度数据积分的必要性，细致讨论了短时段可见度数据叠加求平均和长时段UV覆盖叠加两种积分方法，并给出了完整的实现。通过实现代码与实验验证，两种积分均可以有效提高信噪比，图像质量明显提高。
+
+关键词：MUSER；UV平均积分；UV覆盖积分；综合孔径成像中图分类号：TP274 文献标识码：A 文章编号：1672-7673(2018)01-0078-09
+
+射电天文是天文学的一个分支，它使用射电望远镜系统在无线电波段研究来自深空（包括各类天体)的射电波[1]。为推动射电观测技术的发展，填补国际上对太阳耀斑能量初始释放区分米波段高分辨射电成像观测的空白[2-3]，我国已建成在 $0 . 4 { \sim } 1 5 \mathrm { G H z }$ 范围内的厘米-分米波日像仪——明安图射电频谱日像仪。它可以在超宽频带下同时以高时间、高空间和高频率分辨率观测太阳的动力学性质，探索太阳剧烈活动的起源[4]。
+
+MUSER天线阵包含低频阵（MUSER-I)和高频阵（MUSER-II）。低频阵共有40面 $4 . 5 \mathrm { ~ m ~ }$ 天线，观测频率为 $4 0 0 ~ \mathrm { M H z } \sim 2 ~ \mathrm { G H z }$ 。低频阵的观测分为4个波段，两种极化方式（左旋、右旋），其中每个波段包含16个通道。高频阵共60 面 $2 \mathrm { m }$ 天线，观测频率范围为 $2 ~ \mathrm { G H z } \sim 1 5 ~ \mathrm { G H z }$ ，在33个波段和两种极化方式上观测，每个波段包含16个通道[5]。高频阵和低频阵每 $3 ~ \mathrm { m s }$ 产生一帧观测数据(一个波段、一个极化方向上16个通道的数据)。如何将原始观测的可见度数据经过一系列校准和计算得到用于科学研究的太阳图像，是数据处理的关键。
+
+目前，国外用于太阳射电成像观测的设备主要有日本野边山的太阳射电日像仪，积分时间为 $2 5 \mathrm { m s } ^ { [ 6 ] }$ ;法国南茜米波太阳射电日像仪，积分时间 $\mathrm { ~ 1 ~ s ~ } ^ { \textregistered }$ ；西伯利亚太阳射电日像仪，积分时间 $0 . 3 3 6 \mathrm { s } ^ { [ 7 ] }$ 。这些射电日像仪积分处理过程一般直接在接收机完成，因此时间分辨率较低。我国位于内蒙古明安图观测站的明安图射电频谱日像仪已经建成，满足实时和事后科学数据处理的软件已开发完成[8-9]。为进一步提高成图质量，本文通过对成图基本原理的分析，进一步提出基于UV平均积分和UV覆盖积分两种方法提高太阳图像的信噪比。
+
+# 1成像原理
+
+# 1.1综合孔径成像原理
+
+相关干涉仪是将间隔一定距离的两面天线接收的天体辐射分别传送到相关器中进行相关处理。由
+
+干涉成像原理可知，干涉仪的输出响应和天空亮度存在傅里叶变换关系，假设天空亮度分布为 $\boldsymbol { I } ( \boldsymbol { l }$ $m$ )，干涉仪输出为 $V ( u , v )$ ，则有如下关系[10]：
+
+$$
+V ( u , \ v ) = \sum \sum I ( l , \ m ) e ^ { \mathrm { i } 2 \pi ( u l + v m ) } .
+$$
+
+将离散求和转换成连续积分可以得出如下公式[10]：
+
+$$
+V ( u , \ v ) = \int \int I ( \ l , \ m ) e ^ { \mathrm { i } 2 \pi ( u l + v m ) } \mathrm { d } l \mathrm { d } m ,
+$$
+
+其中， $\boldsymbol { u }$ ， $\mathbf { \sigma } _ { v }$ 为投影平面也称作空间频率； $l$ ， $\mathbf { \nabla } _ { m }$ 为平时的天空面。（2)式表明干涉仪的输出是亮度分布傅里叶变换的一个 $( u , v )$ 分量，随着 $u , \ v$ 的不同可以得到不同空间频率分量的值，所有的空间频率分量总称复可见度函数。对复可见度函数进行傅里叶逆变换得到天空亮度分布，即图像，这被称为综合孔径成像原理[10]。
+
+对于任意一个亮度分布 $I ( l , m )$ ，总有一个复可见度函数 $V ( u , v )$ 与之相对应。复可见度函数是连续的复函数，而天线阵只能构成有限条基线，即只能获得复可见度函数的有限个采样点。采样函数$S ( \boldsymbol { u } , \boldsymbol { v } ) = \sum _ { \boldsymbol { k } } \delta ( \boldsymbol { u } - \boldsymbol { u } _ { \boldsymbol { k } } , \boldsymbol { v } - \boldsymbol { v } _ { \boldsymbol { k } } )$ ，其中， $k$ 为取遍所有 $( u , v )$ 的点。采样函数的输出即为天线得到的真正数据，对这些数据进行傅里叶逆变换得到脏图 $I _ { \mathrm { D } } ( l , m ) ^ { [ 1 1 ] }$ ：
+
+$$
+I _ { \mathrm { { D } } } ( l , \ m ) = \int \int S ( \ u , \ v ) V ( \ u , \ v ) e ^ { - \mathrm { { i } } 2 \pi ( \ u l + v m ) } \mathrm { { d } } u \mathrm { { d } } v \ .
+$$
+
+# 1.2 MUSER积分的基本原理
+
+当前数据处理系统流水线已完成从原始观测数据格式到FITS文件格式的转换，观测数据校准到脏图以及洁化的成图过程[8]。以高频阵在2016年7月5日4时4分38秒的观测数据为例，生成脏图（图1(a)）和洁化图(图1(b)）。
+
+![](images/a4d0c2c036788390929cadf16e42163a7c3ee4200a5e521240b8d8a8b414c3d8.jpg)  
+图1MUSER原始脏图(a)和洁化图(b)Fig.1Dirty and clean image without integration（MUSER-II,2016-07-05 04: 04:38（UTC)）
+
+可以看出，对单帧采样数据成像后的太阳图像信噪比很低，不能清楚地看出太阳爆发的位置及其轮廓。脏图洁化后得到的洁图，同样也不能清楚地分析出爆发位置。为提高日像仪重建的太阳图像的信噪比，得到质量较好的成像结果，需要对采样数据进行积分处理，改善图像质量，提高信噪比[12]。本文根据科学研究的需要，以及积分时段要求，从两方面分析，研究了UV平均积分（可见度数据求和再求平均）、UV覆盖积分(利用地球自转增加UV覆盖)两种方法。
+
+# 1.2.1 基于UV 平均的积分
+
+明安图射电频谱日像仪选择观测模式为快照模式，积分时间为 $3 ~ \mathrm { m s }$ 进行观测。如此高的时间分辨率情况下，为了提高空间分辨率，达到改善图像质量的效果，采取对 $3 \mathrm { m s }$ 观测得到的UV及其输出数据平均的方法实现。
+
+以高频阵为例，其中单帧积分采样时间 $t _ { c }$ ，假设对UV积分时间为 $t _ { I }$ ，单帧采样函数 $s ( u , v )$ ，采样输出为 $\textstyle V ( u , v )$ ，则UV积分表示如下：
+
+采样函数： $S _ { t _ { I } } ( u , \ v ) = \sum _ { i = 1 } ^ { N } S _ { t _ { i } } ( u _ { i } , \ v _ { i } )$ $( N = \frac { t _ { I } } { t _ { c } } ) \ .$   
+采样输出： $V _ { t _ { I } } ( u , \ v ) = \sum _ { i = 1 } ^ { N } V _ { t _ { i } } ( u _ { i } , \ v _ { i } )$ $( N = \frac { t _ { I } } { t _ { c } } )$   
+UV平均脏图： $I _ { \mathrm { { D } } } ( l , \ m ) = \iiint \left[ { \frac { S _ { t _ { l } } ( u , \ v ) } { N } } \right] \left[ { \frac { V _ { t _ { l } } ( u , \ v ) } { N } } \right] e ^ { - \mathrm { i } 2 \pi ( u l + v m ) } \mathrm { d } u \mathrm { d } v ( N = \frac { t _ { I } } { t _ { c } } ) \ .$
+
+(4)式做法即将采样的复可见函数进行平均，同时采样函数也进行平均，用平均采样函数和复可见度函数的方法实现UV平均积分。
+
+# 1.2.2基于UV覆盖增加的积分
+
+UV 覆盖对成图起至关重要的作用，由于采样函数 $s ( u , v )$ 的傅里叶变换即得到脏束，也称综合束，而脏束又直接影响成图，因此可通过增加UV覆盖提高图像质量。增加UV覆盖有3种方式，(1)增加阵列望远镜个数；（2)增加子孔径有效半径；（3)利用地球自转[12]。增加阵列望远镜个数对成本有直接需求，在成本固定的情况下不考虑，增加子孔径有效半径可能导致采样率不足。在现有成本下通过地球自转增加UV 覆盖是一种非常直接可行的方法。
+
+随着地球自转UV 发生改变，而短时间内UV 的变化很小，因此假设每间隔 $t _ { \mathrm { i n t e r } v a l }$ 增加UV覆盖,总积分时间 $t _ { a }$ ，则增加UV覆盖后的采样函数和采样输出表示为
+
+采样函数： $S _ { t _ { J } } ( u , \ v ) = \sum _ { j = 1 } ^ { N } S _ { t _ { j } } ( u _ { j } , \ v _ { j } ) \qquad ( N = { \frac { t _ { a } } { t _ { \mathrm { i n t e r v a l } } } } ) \ .$ 采样输出： $V _ { t _ { J } } ( u , \ v ) = \sum _ { j = 1 } ^ { N } V _ { t _ { j } } ( u _ { j } , \ v _ { j } )$ （204 $( N = \frac { t _ { a } } { t _ { \mathrm { i n t e r v a l } } } )$ UV 覆盖增加脏图： $I _ { \mathrm { { D } } } ( l , \ m ) = \int \int S _ { t _ { J } } ( \ u , \ v ) V _ { t _ { J } } ( \ u , \ v ) e ^ { - \mathrm { { i } } 2 \pi ( \ u l + v m ) } \mathrm { { d } } u \mathrm { { d } } v \ .$
+
+由(5)式可知，在间隔 $t _ { \mathrm { i n t e r } v a l }$ 增加UV 覆盖，总积分时间 $t _ { a }$ 可以增加 $\Big [ \frac { t _ { a } } { t _ { \mathrm { i n t e r v a l } } }$ 倍的UV 数据点，假设有$n$ 面天线构成的天线阵列，可以得到 $n ( n { - } 1 ) / 2$ 个数据采样点，通过增加UV覆盖，采样数据点总共有 $\left( \frac { t _ { a } } { t _ { \mathrm { i n t e r v a l } } } \right) \left( \frac { n \left( n + 1 \right) } { 2 } \right) .$ 个，这对稀疏采样的成图质量有很大改善。
+
+上述两种方式均可以提高成图的质量，将两种方法混合到一起同样可以提升图像质量，由此提出先进行UV平均积分再增加UV覆盖积分的方法。
+
+1. 2.3 基于UV平均和增加覆盖的混合积分
+
+假设UV积分时间为 $t _ { I }$ ，可以知道在该段时间内的采样函数为 $S _ { t _ { I } } ( u _ { i } , v _ { i } )$ ，采样输出 $V _ { t _ { I } } ( u _ { i } , v _ { i } )$ ，每间隔 $t _ { \mathrm { i n t e r } v a l }$ 增加UV覆盖，总积分时间 $t _ { a }$ ，混合积分采样函数及其采样输出可以表示为
+
+$$
+\begin{array} { l l l } { { S _ { \mathrm { m i x } } ( u , \ v ) = \displaystyle \sum _ { j = 1 } ^ { N } \frac { \displaystyle \sum _ { i = 1 } ^ { M } S _ { t _ { i j } } ( u _ { i j } , \ v _ { i j } ) } { M } ~ } } & { { ~ ( M = \displaystyle \frac { t _ { I } } { t _ { c } } , ~ N = \displaystyle \frac { t _ { a } } { t _ { \mathrm { i n t e r a l } } } ) ~ . } } \\ { { { } } } & { { { } } } \\ { { { \displaystyle V _ { \mathrm { m i x } } ( u , \ v ) = \displaystyle \sum _ { j = 1 } ^ { N } \frac { \displaystyle \sum _ { i = 1 } ^ { M } V _ { t _ { i j } } ( u _ { i j } , \ v _ { i j } ) } { M } ~ } } } & { { ~ ( M = \displaystyle \frac { t _ { I } } { t _ { c } } , ~ N = \displaystyle \frac { t _ { a } } { t _ { \mathrm { i n t e r a l } } } ) ~ . } } \end{array}
+$$
+
+脏图： $I _ { D } ( l , \ m ) = \int \int S _ { \mathrm { m i x } } ( \boldsymbol { u } , \ \boldsymbol { v } ) V _ { \mathrm { m i x } } ( \boldsymbol { u } , \ \boldsymbol { v } ) e ^ { - \mathrm { i } 2 \pi ( \boldsymbol { u } l + \boldsymbol { v } m ) } \mathrm { d } \boldsymbol { u } \mathrm { d } \boldsymbol { v } .$ （20 (6)在总时间 $t _ { a }$ 内UV 覆盖增加了 $\frac { t _ { a } } { t _ { \mathrm { i n t e r v a l } } }$ 倍，每组增加的UV 覆盖是在时间段 $t _ { I }$ 对UV 平均后再叠加的覆盖。
+
+# 2积分过程实现
+
+明安图射电频谱日像仪的成图过程：目标源放射出天体辐射，然后干涉仪对其进行采样，采样得到的原始数据经过预处理相关校准[13]、对应极化和通道，之后进行积分处理，再网格化傅里叶逆变换得到脏图，最后经过洁化算法处理得到洁图，过程如图2。
+
+![](images/c9cee3e31f6ff4ea98da353dcf1bdbaed8ea0e1ad4f154c339f98c234464df57.jpg)  
+图2MUSER积分成图过程 Fig.2The procedure of MUSER integration
+
+# 2.1积分操作流程
+
+明安图射电频谱日像仪的每 $3 ~ \mathrm { m s }$ 接收一帧观测数据，对这些数据进行积分操作得到积分数据，积分数据是观测得到并且经过预处理相关校准、对应极化和通道的可见度数据。UV平均积分具体操作流程如图3。
+
+![](images/2cb535361852f42713a5f6334f540276434d249e47c7edc024114e1bfe3df37f.jpg)  
+图3可见度数据平均的计算  
+Fig.3Calculation of the average of visibilities
+
+高频阵中每一帧完整的数据包含33小帧。UV积分对连续的每一帧数据中UU，VV以及采样得到的实部、虚部数据进行累加再求平均，得到的UV平均积分数据量和单帧大小数量一样多，例如在高频阵中采样函数UV点为3540个采样得到的实部虚部3540个，则经过UV平均积分得到的数据同样是3540个UV点及其采样值。
+
+实现UV覆盖积分具体操作流程如图4。对高频阵中数据进行UV覆盖积分同样用完整的数据帧积分，不同的是由于短时间内采样函数及其采样值都变化很小，如果用连续的帧增加UV覆盖显然效果不好，为此需要隔一段时间增加UV覆盖。UV覆盖积分得到的是一段时间间隔完整数据帧叠加的数据，同样对数据UU，VV及其采样值操作得到的数据量成倍增加，这种操作能极大改善稀疏采样图像的质量，提高信噪比。
+
+![](images/0020836aab35203433e01d3661b2bd18bb974aa839a49d5141bf721515a2d3a9.jpg)  
+Fig.4Procedure of UV coverage overlap
+
+以积分 $6 0 \mathrm { m i n }$ 的数据为例，积分后增加UV覆盖，采样数据成倍增加，对稀疏采样提高图像质量及其信噪比起至关重要的作用。高频阵单帧的UV覆盖包含数据点1770个，共轭之后有3540个数据，得到一张 $2 5 6 0 \times 2 5 6 0$ 像素的图像，覆盖率仅仅 $0 . 0 5 4 \%$ 。而对数据总共积分 $6 0 ~ \mathrm { m i n }$ 间隔 $1 0 ~ \mathrm { m i n }$ 叠加UV覆盖后共有10620个数据点，共轭之后数据点21240个，覆盖率提升为 $0 . 3 2 4 \%$ 。选取 $6 0 ~ \mathrm { { m s } }$ 采样数据进行平均，之后每隔 $1 0 \mathrm { m i n }$ 增加UV覆盖，得到的UV覆盖图像如图5、图6。
+
+![](images/71f1b9b31f3f4274841efee76d9a13c747f40fd2fef378f30a198b24dba1fc61.jpg)  
+图4UV覆盖积分流程  
+图6 $6 0 \mathrm { m i n }$ 积分UV覆盖 Fig.6UV Coverage for 1 hour's integration
+
+![](images/d1869601a660226add1f062ccb7c260084f3c635af4c6e842037b83e3274248d.jpg)  
+图53ms单帧UV覆盖  
+Fig.5UV Coverage for a single frame（3ms）
+
+# 2.2积分代码实现
+
+为了实现UV平均积分、UV覆盖积分以及UV平均和UV覆盖混合积分，采用Python 编写，同时为了简化程序，将3种模式的积分写入一个接口，提供模式的选择，程序接口形式如下：
+
+def clean_integration_R(self,sub_ARRAY,is_loop_mode，start_time，end_time，TASK_TYPE,time_average,time_interval，BAND，CHANNEL，PLOT_ME，WRITE_FITS,P_ANGLE，DEBUG，outdir）：
+
+主要参数：sub_ARRAY为 MUSER期数的选择MUSER-I或者MUSER-II，start_time 和end_time 为开始积分时间和结束积分时间，TASK_TYPE为积分模式的选择包含UV平均积分、UV覆盖积分、UV平均和UV覆盖混合积分，time_average为UV平均积分的积分时间，time_interval为UV覆盖积分时间间隔即间隔多长时间叠加一次UV覆盖。在系统中的运行情况如图7。代码编写可以适用于数据采集的任何时间段积分模式。
+
+Muser<l>: inp integrationuvfits inp(integrationuvfits)   
+#integrationuvfits :: Integration FITS file for MUSER   
+subarray $\mathbf { \sigma } = \mathbf { \sigma }$ 1 # MUSER I or II (1，2)   
+is_loop_mode $\mathbf { \sigma } = \mathbf { \sigma }$ True # LOOP Mode or not(True，False)   
+start_time $\mathbf { \sigma } = \mathbf { \sigma }$ ■ # start time (start_time $\mathbf { \sigma } = \mathbf { \sigma }$ "2016-07-05 # 12:04:38 463")   
+end_time = ■ # end time (end_time $\mathbf { \tau } = \mathbf { \tau }$ "2016-07-05 # 12:30:00")   
+task_type = L # task type: average，interval or # mixture   
+time_average = # time span of average computing   
+time_interval = None # time_interval   
+debug = 0 # Display increasingly verbose debug # messages (0，1)
+
+# 3实验分析
+
+积分实例以混合积分模式为例，进行 $1 0 \mathrm { m i n }$ 、 $2 0 \mathrm { m i n }$ 、 $3 0 \mathrm { m i n }$ 、 $4 0 \mathrm { m i n }$ 、 $5 0 \mathrm { m i n }$ 以及 $6 0 \mathrm { m i n }$ 的数据做积分处理，对 $6 0 ~ \mathrm { m s }$ 的数据进行UV平均积分，之后每隔 $1 0 \mathrm { m i n }$ 增加UV覆盖。脏图结果如图8。
+
+图8从左到右从上到下分别为积分10，20，30，…， $6 0 \mathrm { m i n }$ 之后的脏图，可以很明显地看出从第1张到最后一张太阳轮廓略清晰。随着积分时间的增加得到的脏图质量越来越好，图像越来越清晰，同时可以清楚地看到太阳的轮廓(图中间类似圆形)以及太阳爆发的亮点位置，很明显积分达到提升图像质量的效果。经过洁化处理得到的洁图如图9。
+
+图9从左到右从上到下分别为积分10，20，30，…， $6 0 \mathrm { m i n }$ 之后的洁图，可以很明显地看出，随着积分时间的增加，得到的洁化图像越来越清晰，同时可以清楚地看到太阳的轮廓以及太阳爆发的位置亮点，从一开始多处亮点爆发到最后一张只有一处非常明显的爆发点，信噪比有很大提升。
+
+图10为2016年7月5日04：04：38UT，射电日像仪高频阵在 $4 . 1 8 7 8 \mathrm { G H z }$ 上用 $6 0 ~ \mathrm { { m i n } }$ 积分时间观测得到的太阳射电图像结果。与日本野边山射电日像仪2016年7月5日04：00：02UT在 $1 7 \ : \mathrm { G H z }$ 上观测得到的太阳图像比较，高频阵得到的太阳像与野边山射电日像仪观测得到的太阳像结果基本一致，可见积分方法的实现结果比较可靠。
+
+![](images/3f0c8d335d046df96209e364b750841f75d4f9732b4fae858d73e958fd937edc.jpg)  
+Fig.8Dirty images of mixed integration
+
+![](images/43baedc4093e89a50ec8ee6df5e6d4863f4b414ce348fbb9acd77972b5aabb38.jpg)  
+图9混合积分洁图  
+Fig.9Clean images of mixed integration
+
+![](images/384173977af18a3163587097325efcdc9444b38601536d7d5fb5883089e1ff8d.jpg)  
+图10（a）MUSER-II $6 0 \mathrm { m i n }$ 积分的太阳像；（b）野边山射电日像仪观测的太阳像Fig.10（a） One huor's integration solar images of MUSER-II;(b）Solar observation images of the Nobeyama Radioheliograph
+
+# 4结论
+
+通过对采样数据积分处理，以每 $6 0 ~ \mathrm { { m s } ~ U V }$ 积分和间隔 $1 0 ~ \mathrm { m i n }$ 增加UV覆盖混合积分方法为例，可以看出成图效果非常明显，经过一系列数据处理计算得到的脏图可以清楚地看出太阳边缘轮廓及其爆发位置，信噪比有了很大提升。并且随着积分时间的增加，得到的图像质量也有所提升。这一积分思路对于获得质量较优的MUSER观测结果有较好的作用。目前图像处理结果得到很大提升，但在成图前需要读取UVFITS 数据文件，当前的UVFITS 文件生成时间较慢，急需加快生成的效率。后续积分工作可以在积分时间上进行探索，利用评价指标寻找如何积分才能达到相对比较好的效果，给出UV积分时长、UV覆盖积分时间间隔以及总共 $6 0 ~ \mathrm { { m i n } }$ 积分时间等参数的量化值。
+
+# 参考文献：
+
+[1] 向德琳.射电天文观测［J]．北京：科学出版社，1990.   
+[2] Gary D E,Keller C U. Solar and space weather radiophysics-current status and future developments [M].Netherland：Kluwer Academic Publishers，2004.   
+[3] Wang W,Yan Y,Liu D,et al. Calibration and data processng for a Chinese spectral radioheliograph in the decimeter wave range ［J].Publications of the Astronomical Society of Japan，2013，65 (sp1):2226-2237.   
+[4] 颜毅华，张坚，陈志军，等.关于太阳厘米-分米波段频谱日像仪研究进展［J].天文研究 与技术——国家天文台台刊，2006，3(2)：91-98. Yan Yihua,Zhang Jian，Chen Zhijun，et al.Progress on Chinese solar radioheliograph in cm-dm wavebandes［J].Astronomical Research & Technology———Publications of National Astronomical Observatories of China，2006，3(2）:91-98.   
+[5] 梅盈.MUSER海量数据预处理关键技术研究［D].昆明：昆明理工大学，2015.   
+[6] Nakajima H,Nishio M,Enome S,et al. The Nobeyama radioheliograph [J].Proceedings of the IEEE，1994，82(5)：705-713.   
+[7] Grechnev V V，Lesovoi SV，Smolkov G Y，et al.The Siberian Solar Radio Telescope：the current state of the instrument，observations，and data [J]. Solar Physics，2O03，216(1-2）: 239-272.   
+[8] Wang F，Mei Y，Deng H，et al. Distributed data-processing pipeline for Mingantu Ultrawide Spectral Radioheliograph ［J].Publications of the Astronomical Society of the Pacific，2015, 127(950) : 383-396.   
+[9] Wei S，Wang F，Deng H，et al. OpenCluster:a flexible distributed computing framework for astronomical data processing [J]. Publications of the Astronomical Society of the Pacific,2016, 129(972) : 1-14.   
+[10] Thompson A R，Moran JM，Swenson Jr G W.Interferometry and synthesis in radio astronomy [M].Berlin:Springer，2001:648-648.   
+[11] 罗洪礼.MUSER成像中的Grid 技术研究与实现［D]．昆明：昆明理工大学，2016.   
+[12] Segransan D. Observability and UV coverage [J]. New Astronomy Reviews，2O03，51（8-9）: 597-603.   
+[13] Mei Y，Liu D，Wang F，et al. The data format preprocessing system for Chinese spectral radioheliograph [J]. ICIC Express Leters，Part B:Applications，2015,6(5）: 1467-1472.
+
+# Integral Method and Implementation of MUSER Visibility Data
+
+Lai Cheng¹，Mei Ying1,2，Deng Hui $^ { 1 }$ ， Wang Feng $^ { 1 , 2 }$ ，Dai Wei1 (1.KeyLaboratoryof AplicationsofComputerTechnologyof theYunnanProvince,Kunming UniversityofScienceandTechnology， Kunming 6505oo,China,Email：denghui@cnlab.net; 2.Yunnan Observatories，Chinese Academy of Science，Kunming 65Oo11,China）
+
+Abstract：Radio observation is the most important detection means to research the solar activity.The MingantU SpEctral Radioheliograph（MUSER）is mainly used to research the physical process in the initial energy-releasing area during the solaractivityand its observation willopen anew window in solar radio imaging. Imaging processing is an important part of MUSER data processing and improving the image quality is the most important research of data processing.Firstly，we introduce the basic theory of radio interference imaging.Secondly，weanalyze the necessity of visibility data integration obtained from the MUSER observations.Then，we discuss indetail the two kinds of integration method which are short-term visibility data superimposed averaging and long-term UV overlay stacking and give out a complete realization.Through the method of verificationand thevalidity of completion，the two kinds of integration method can effectively improve the signal-to-noise ratio and the quality of images.
+
+Key words: MUSER； UV integration； UV coverage integration； Aperture synthesis imaging

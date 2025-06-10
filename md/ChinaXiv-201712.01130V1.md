@@ -1,0 +1,108 @@
+基础研究
+
+# 急性切口痛对大鼠脊髓背角缝隙连接蛋白 $\mathbf { C } \mathbf { x } 4 3$ 表达的影响
+
+汪灵芝',黄焕森',伍志坤},夏正远」,廖 敏²  
+1广州医科大学附属第二医院麻醉科,广东广州 510260;广东省中医院麻醉科,广东广州 510120
+
+摘要：目的 观察急性切口痛对大鼠脊髓背角缝隙连接蛋白Connexin43( $\scriptstyle \left( \mathbf { C } \mathbf { \scriptstyle { X } } 4 3 \right)$ 表达的影响。方法 雄性SD大鼠80只，随机分为对照组和急性切口痛模型组,切口痛模型组所有大鼠于左后爪作一纵形切口制备切口痛模型,于术前和术后1、2、4、6、24h时采用von frey 细丝法测定大鼠左后足机械回缩阀值的改变。于术前和术后 $2  { \mathrm { h } } , 4  { \mathrm { h } }$ 取大鼠左侧脊髓背角组织,分别采用Westernblot法和免疫荧光标记法检测脊髓背角 $\mathrm { C x } 4 3$ 蛋白表达的变化。结果 急性切口痛组大鼠 $5 0 \%$ 机械性回缩阈值在术后24h内显著降低,并于2h,4h最为显著，与对照组比较差异均有统计学意义( $\scriptstyle P < 0 . 0 1$ );Westernblot结果显示，急性切口痛组脊髓背角$\mathrm { C x } 4 3$ 的表达于术后2h和4h明显升高，与对照组比较差异有统计学意义 $( P { < } 0 . 0 1 )$ ;免疫荧光结果显示，急性切口痛组脊髓背角$\mathrm { C x } 4 3$ 的免疫荧光强度于术后 $2 , 4 , 2 4 \mathrm { { h } }$ 明显升高，与对照组比较差异有统计学意义( $_ { \scriptstyle P < 0 . 0 1 \rangle }$ 。结论 急性切口痛能够引起脊髓背角缝隙连接蛋白 $\mathrm { C x } 4 3$ 的表达明显升高,缝隙连接蛋白 $\mathrm { C x } 4 3$ 可能参与急性切口痛的产生。
+
+关键词：切口痛;缝隙连接；缝隙连接蛋白
+
+# Expression of connexin 43 in spinal cord dorsal horn of rats with acute incisional pain
+
+WANG Lingzhi',HUANG Huansen',WU Zhikun1,XIA Zhengyuan1,LIAO in2   
+1DepartmentofesthsiaondfliatedositalGangouedicalisityGago6ina;ep   
+Anesthesia,Guangdong Provincial Traditional ChineseMedicine Hospital,Guangzhou 51Ol2o,China
+
+Abstract:Objective To examine theeffect of acute incisional pain onthe expresionofconnexin 43 inrat spinal cord dorsal horn.Methods Eighty rats were asigned intocontrol group without any treatment and incisional pain group with incision surgery. For paw incisions, a $_ { 1 - \mathrm { c m } }$ longitudinal incision was made through the skin and fascia of the plantar aspect of the right hind paw. After surgery, the $5 0 \%$ paw withdrawal threshold (PWT) was assessed in response to a tactile stimulus with calibrated von Frey monofilaments at $1 , 2 , 4$ and $2 4 \mathrm { h } ,$ respectively. The spinal cord dorsal horn of rats was isolated at $1 , 2 ,$ and $^ { 4 \mathrm { ~ h ~ } }$ after the surgery to assess the expressionof connexin 43 using Western blotting and immunofluorescence assay. Results The $5 0 \%$ PWT of the rats was significantly decreased after the incision surgery, and this decrement was the most obvious at 2 and $^ { 4 \mathrm { h } }$ . Western bloting and immunofluorescence assy showed that the expression of connexin 43 inthe spinalcorddorsal horn was significantly increased in rats receiving the surgery especially at 2 and $^ \textrm { \scriptsize 4 h }$ after the surgery. Conclusion Incision surgeryiduces ansignificantincreaseinconnexin43expressioninratspinalcorddorsalhorn,suggestinganpotentialrole of connexin43 in postoperative incisional pain.
+
+Key words: incision pain; gap junction; connexin
+
+细胞缝隙连接(gap junction,GJ)是细胞之间的一种蛋白质连接通道，广泛存在于各种实质性脏器(如中枢神经,心脏,肝脏,肾脏,皮肤,肌肉等)组织中。GJ由特殊的通道蛋白一连接蛋白(connexin,Cx)组成。6个Cx环绕在一起组成一个“半通道”。两个位于各自细胞胞膜上的“半通道"对接在一起形成GJ。GJ沟通相邻细胞的胞浆，是细胞之间信号传递的一种重要方式[-2]。研究发现，神经元以及胶质细胞间由不同Cx组成的GJ参与协调神经系统多种重要生理活动[3]。研究还显示脊髓细胞间由 $\mathrm { C x } 4 3$ 组成的GJ在慢性神经性疼痛中发挥重要的作用[4。但在急性切口痛大鼠,细胞缝隙连接蛋白的变化和对急性疼痛的作用仍不清楚。本研究拟在急性切口痛大鼠模型上，通过疼痛行为学测量和免疫组化等方法观察脊髓背角缝隙连接蛋白 $\mathrm { C x } 4 3$ 的表达变化。
+
+# 1材料及方法
+
+# 1.1实验动物与分组
+
+选取8\~10周龄雄性SD大鼠40只，体质量 $1 8 0 \sim$ $2 5 0 ~ \mathrm { g }$ ，清洁级，由广东省实验动物中心提供。适应环境1周，室温 $2 0 { \sim } 2 5 ~ \mathrm { ^ circ C }$ ，湿度 $6 0 \% { \sim } 7 0 \%$ ,分笼饲养,通风良好，自由摄食、饮水。采用随机数字表法，将大鼠随机分为2组，对照组(C组)：不作任何处理;手术组(P组)：静脉注射生理盐水后行左后足切开手术。
+
+# 1.2切口痛模型的建立
+
+大鼠予 $1 \%$ 异氟烷持续吸入麻醉下，常规消毒大鼠左后足，参照文献[5]方法，从足底近端 $0 . 5 \mathrm { c m }$ 处向足趾部作一长约 $1 \mathrm { { c m } }$ 的切口，切开皮肤后，用眼科镊挑起足底肌肉并行纵向切割，保持肌肉起止及附着完整。棉球按压止血后用细丝线缝合皮肤两针，用碘伏消毒切口后将大鼠置于安静、温暖、避强光的环境中。
+
+# 1.3机械痛阈的测定
+
+各组随机选取大鼠6只，参照文献方法,分别于术前及术后 $1 、 2 、 4 、 2 4 \mathrm { h }$ 采用von frey 细丝（Stoelting 测痛包58011,美国)测定各组大鼠的机械痛阈。将大鼠置于底为 $8 \mathrm { m m } { \times } 8 \mathrm { m m }$ 金属筛网的玻璃箱中，以不同折力的vonfrey细丝刺激大鼠左足底切口周围，出现抬脚为阳性反应。测定首先从中等折力 $\left( 4 . 5 6 ~ \mathrm { g } \right)$ 开始，当该力度刺激不能引起阳性反应时，则给予相邻大一级折力刺激，如出现阳性反应，则给予相邻小一级折力刺激，如此反复进行，直至出现第1次阳性和阴性(或阴性和阳性)反应的跨度，再向下连续测定4次。不同刺激之间相隔 $3 0 ~ \mathrm { s }$ ，以消除前一刺激的影响。阳性反应记为 $\cdot _ { \times } \cdot \cdot$ ，阴性反应记为"O”。 $5 0 \%$ 缩足阈值采用下列公式计算：$5 0 \%$ 缩足阈值 $( \mathrm { g } ) { = } 1 0 ^ { \mathrm { X f + k }  \delta }$
+
+# 1.4Westernblot检测 $\mathrm { C x } 4 3$ 在脊髓背角的表达
+
+分别取正常对照组和切口痛模型组大鼠左侧背角，加适量细胞裂解液裂解细胞，收取蛋白，然后进行标准蛋白定量(Bio-radDCassay);制备 $10 \%$ SDS-PAGE凝胶；将需检测蛋白标本上样，电泳，转膜，封闭，孵抗体，其中各抗体稀释度依次为：一抗(抗 $\mathrm { C x } 4 3$ 单克隆抗体，1:6000),二抗 $( 1 : 3 0 0 0 )$ 。内参取 $\beta$ -actin(1:8000)一抗孵育后，二抗 $( 1 : 1 0 0 0 0 )$ 。ECL发光试剂盒暗室发光、显影、定影。Bio-Rad凝胶成像系统采集图像,用Bio Imagingsystem(GeneGenius)对图像进行灰度扫描分析。
+
+# 1.5免疫荧光检测 $\mathrm { C x } 4 3$ 在脊髓背角的表达
+
+术前和术后 $1 、 2 、 4 、 2 4 \mathrm { ~ h ~ }$ 分别取大鼠各3只，用$10 \%$ 水合氯醛腹腔注射麻醉后，开胸暴露心脏，插管至主动脉起始端，剪开右心耳，快速注入 $4 \mathrm { { ^ { \circ } C } }$ PBS溶液进行心脏灌洗冲净血液，后接入 $4 \%$ 多聚甲醛至大鼠四肢强直，迅速取大鼠脊髓L4-L5节段左侧背侧组织， $4 \mathrm { { ^ circ C } }$ 固定， $30 \%$ 蔗糖浸泡过夜。用LeicaCM1900恒冷箱切片机对脊髓作连续切片，切片用TBS漂洗后立即进行免疫荧光化学染色。贴于玻片上，浸入含 $0 . 7 5 \%$ triton的PBS溶液 $1 \mathrm { { h } }$ ，然后加入 $10 \%$ 胎牛血清封闭液室温封闭，小鼠抗 $\mathrm { C x } 4 3$ (sigma, $1 : 6 0 0 ) 3 7 ^ { \circ } \mathrm { C }$ 孵育 $2 \mathrm { h }$ ；FITC标记的山羊抗小鼠 $\operatorname { I g G } ( 1 { : } 1 0 0 )$ 孵育1h,PBS 漂洗3次，滴加$2 0 ~ \mathrm { \mu g / m l }$ DAPI复染。切片贴至载玻片上，抗荧光衰减封片剂封片，荧光显微镜下观察并拍摄图像。结果采用Image-ProPlus6.0图像分析软件对图像进行分析，所有图像在同一放大倍数(400 倍)下进行，计算阳性细胞数量。
+
+# 1.6 统计学处理
+
+采用SPSS13.0统计软件分析，计量资料以均数 $+ \mathrm { \cdot }$ 标准差表示。机械痛阈采用非参数检验，组间比较采用Kruskal-Wallis法。免疫荧光及Westernblot结果组间比较采用成组 $t$ 检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1切口痛大鼠机械性痛阈的改变
+
+P组的术前机械性痛阈值与C组相比差异无统计学意义 $( P { > } 0 . 0 5 )$ ;P组术后1、2、4、24h机械痛阀较C组均明显下降,且差异有统计学意义( $\scriptstyle { \overbrace { P { < } 0 . 0 1 } }$ ，表1)。
+
+表1各组大鼠手术前后不同时间点的 $5 0 \%$ 机械回缩阈值比较Tab.1 Comparison of $5 0 \%$ paw withdrawal threshold in rats at different time points (g,Mean±SD)  
+
+<html><body><table><tr><td>Group</td><td>Pre-operation</td><td>Post-operation 1 h</td><td>Post-operation 2 h</td><td>Post-operation 4 h</td><td>Post-operation 24 h</td></tr><tr><td>C</td><td>21.9±2.3</td><td>22.4±2.6</td><td>24.5±2.5</td><td>23.7±2.4</td><td>23.0±2.0</td></tr><tr><td>P</td><td>22.4±1.5</td><td>2.9±0.4*</td><td>2.4±0.6*</td><td>1.9±0.3*</td><td>7.1±1.1*</td></tr></table></body></html>
+
+Compared with control group, $^ { * } P { < } 0 . 0 1$ ， $\scriptstyle n = 6$
+
+# 2.2切口痛对大鼠脊髓背角缝隙连接蛋白 $\mathrm { C x } 4 3$ 表达的 影响
+
+号 $\scriptstyle \mathrm { \mathit { P } > 0 . 0 5 }$ ，表2)。
+
+以 $\beta$ -actin的灰度值作为内参照，对各组条带的灰度值进行统计分析。结果显示：与C组比较，P组大鼠脊髓背角缝隙连接蛋白 $\mathrm { C x } 4 3$ 的表达于术后 $2  { \mathrm { h } } . 4  { \mathrm { h } }$ 明显增多，2h和 $^ { 4 \mathrm { h } }$ 组蛋白表达分别增加了 $1 1 0 { \pm } 1 2 ) \%$ 和$( 8 9 \pm 7 ) \%$ ，差异具有统计学意义（ $\scriptstyle { \phantom { - } } P < 0 . 0 1$ ，图1)。
+
+C组各时间点的 $\mathrm { C x } 4 3$ 蛋白表达阳性细胞数比较差异无统计学意义 $( P { > } 0 . 0 5 )$ 。P组于术后 $1 、 2 、 4 、 2 4 \mathrm { h }$ 检测 $\mathrm { C x } 4 3$ 蛋白表达阳性细胞数均明显增加，与C组比较，差异有统计学意义 $( P { < } 0 . 0 1 )$ ，但组间差异无统计学意义
+
+# 3讨论
+
+在哺乳类动物，至今已发现组成GJ的 $\operatorname { C x }$ 蛋白至少有21种。依据 $\operatorname { C x }$ 蛋白的相对分子质量大小命名，如：相对分子质量为43000的Cx命名为 $\mathrm { C x } 4 3$ ，相应相对分子质量为32000和26000的 $\operatorname { C x }$ 则命名为 $\mathbf { C } \mathbf { \mathrm { x } } 3 2$ 和 $\mathrm { C x } 2 6 ^ { [ 7 ] }$ 研究证明， $\operatorname { C x }$ 表达的异常与许多疾病的发生、发展有密切的关系。神经系统表达最丰富的是 $\mathrm { C x } 4 3 ^ { [ 8 - 9 ] }$ 。他人研究结果证明,神经损伤能够导致背根神经节中 $\mathrm { C x } 4 3$ 表达增多，胶质细胞与神经元之间的GJ功能增强[10]。大量研究还证明脊髓GJ功能的改变与慢性疼痛的发生有着密切的关系[]。GJ抑制剂能够显著降低三叉神经病理性疼痛大鼠的脊髓背角感觉神经元的敏化从而减轻大鼠的机械性痛觉过敏[12]。但Cx组成的GJ在急性疼痛中的表达和作用在我们研究之前未见报道。
+
+![](images/cb305a96bb7768db509c5c3183373b6e9c87e58a281564b4bc9c0b224695bfa3.jpg)  
+图1切口痛对大鼠脊髓背角缝隙连接蛋白 $\mathrm { C x } 4 3$ 表达的影响 Fig.1 Effect of incision surgery on $C x 4 3$ expression in rat spinal cord dorsal horn assayed by Western bloting. Compared with control, $* * P { < } 0 . 0 1$ $n { = } 4$
+
+手术后伤口疼痛是一种普遍存在而且感觉很敏锐的疼痛，手术后疼痛被证明能够影响患者的伤口愈合，而减轻手术后急性疼痛对促进患者临床恢复缩短住院时间具有重要的意义[13]。本研究采用的大鼠切口痛模型是Brennan于1996年提出[5]。在大鼠后足底经皮肤、筋膜和肌肉作一纵行切口，vonFrey丝以递增的强度刺激足底损伤处，记录PWT值。大鼠于手术后表现出自发性痛、触诱发痛和痛觉过敏，与临床术后疼痛相似。本研究中大鼠行足底切开后，切口周围皮肤充血、肿胀，表现出不同程度的舔足或抬足行为，切口痛大鼠足底痛阀在术后 $2 4 \mathrm { h }$ 明显降低，且在 $^ { 2 \mathrm { h } , 4 \mathrm { h } }$ 表现最为显著，说明痛觉过敏在 $2 { \sim } 4 \mathrm { h }$ 内达到高峰。
+
+表2各组大鼠左侧脊髓背角 $\mathrm { C x } 4 3$ 蛋白表达阳性细胞比较 Tab.2 Numbers of cells expressing connexin 43 in rat spinal cord dorsal horn $( \% ,$ Mena±SD)   
+
+<html><body><table><tr><td>Group</td><td>Pre-operation</td><td>Post-operation 1 h</td><td>Post-operation 2 h</td><td>Post-operation 4 h</td><td>Post-operation 24 h</td></tr><tr><td>C</td><td>100</td><td>103±3.9</td><td>116.5±4.7</td><td>114.2±4.2</td><td>106.4±2.8</td></tr><tr><td>P</td><td>102±3.4</td><td>172±10.6*</td><td>210.6±10.3*</td><td>192.5±8.7*</td><td>179.8±6.3*</td></tr></table></body></html>
+
+Compared with control group, $^ { * } P { < } 0 . 0 1$ $n { = } 6$
+
+针对急性切口痛的研究显示，急性切口痛的产生与脊髓多种兴奋性氨基酸受体和神经递质有密切关系。除此之外，近来的研究还显示COX受体中的COX-1受体可能在切口痛中发挥作用，而应用特异性的COX-1受体抑制剂能够明显减弱急性切口疼痛4]；最近Reichl等还发现，鞘内给予针对抑制性神经递质GABA的受体激动剂能够减轻急性切口痛引起的机械性痛敏[15]。这些都提示我们急性切口痛的产生机制极其复杂。至今为止，针对胶质细胞在疼痛中作用的研究越来越多，胶质细胞被认为在疼痛的发生和维持阶段具有重要作用[6。我们的研究证实在正常大鼠脊髓背角中存在丰富的 $\mathrm { C x } 4 3$ 表达，并且我们首次证实在急性切口痛大鼠模型中,脊髓背角 $\mathrm { C x } 4 3$ 蛋白的表达明显增多，与对照组相比， $\mathrm { C x } 4 3$ 的免疫荧光强度明显增高，而以2h,4h为最显著。这些结果提示我们Cx组成的GJ可能在急性疼痛的发生过程中扮演重要角色。
+
+phase of neuronal migration to the cerebral cortex[J].Proc Natl Acad Sci USA,2012,109(21): 8280-5.   
+[4]Xu Q,Cheong YK,He SQ,et al. Suppression of spinal connexin 43 expression attenuates mechanical hypersensitivity in rats after an L5 spinal nerve injury[J].Neurosci Lett,2014,566:194-9.   
+[5]Brennan TJ,Vandermeulen EP,Gebhart GF. Characterization of a rat model of incisional pain[J].Pain,1996,64(3): 493-501.   
+[6]Chaplan SR,Bach FW,Pogrel JW,et al. Quantitative assessment of tactile allodynia in the rat paw[J].JNeurosci Methods,1994,53(1): 55-63.   
+[7]Oyamada M,Takebe K,Oyamada Y.Regulation of connexin expression by transcription factors and epigenetic mechanisms [J]. Biochim Biophys Acta,2013,1828(1,SI): 118-33.   
+[8]Cui YW,Masaki K,Yamasaki R,et al. Extensive dysregulations of oligodendrocytic and astrocytic connexins are associated with disease progression in an amyotrophic lateral sclerosis mouse model [J].JNeuroinflammation,2014,11: 42.   
+[9]Cronin M,Anderson PN,Cook JE,et al.Blocking connexin43 expression reduces inflammation and improves functional recovery after spinal cord injury[J].Mol Cell Neurosci,20o8,39(2):152-60.   
+[10]Ledda M,Blum E,De Palo S,et al.Augmentation in gap junctionmediated cell coupling in dorsal root ganglia following sciatic nerve neuritis in the mouse [J].Neuroscience，2Oo9，164(4): 1538-45.   
+[11]Wei H, Hao B,Huang JL,et al. Intrathecal administration of a gap junction decoupler,an inhibitor of $\mathrm { N a \ ^ { + } { - } K ^ { + } { - } 2 C l ( - ) }$ cotransporter 1, ora GABA(A） receptor agonist attenuates mechanical pain hypersensitivity induced by REM sleep deprivation in the rat[J]. Pharmacol Biochem Behav,2010,97(2): 377-83.   
+[12]Wang H,Cao Y,Chiang CY,et al. The gap junction blocker
+
+# 参考文献：
+
+[1]Su V,Lau AF.Connexins: mechanisms regulating protein levels and intercellular communication[J].FEBS Lett, 2014,588(8):1212-20.   
+[2]Sosinsky GE,Nicholson BJ. Structural organization of gap junction channels[J].Biochim Biophys Acta,2005,1711(2): 99-125.   
+[3]Liu XX,Sun L,Torii M,et al. Connexin 43 controls the multipolar carbenoxolone attenuates nociceptive behavior and medullary dorsal Horn central sensitization induced by partial infraorbital nerve transection in rats[J].Pain,2014,155(2): 429-35.   
+[13]Zhao BS,Meng LX,Ding YY,et al.Hyperbaric Oxygen treatment produces an antinociceptive response phase and inhibits astrocyte activation and inflammatory response in a rat model of neuropathic pain[J]. JMol Neurosci,2014, 53(2):251-61.   
+[14]Zhu XY,Conklin DR,Eisenach JC.Preoperative inhibition of cyclooxygenase-1 in the spinal cord reduces postoperative pain[J]. Anesth Analg,2005,100(5): 1390-3.   
+[15]Reichl S,Augustin M, Zahn PK.Peripheral and spinal GABAergic regulation of incisional pain in rats[J].Pain,2012,153(1):129-41.   
+[16]Ren BX,Gu XP,Zheng YG,et al.Intrathecal injection of metabotropic glutamate receptor subtype 3 and 5 agonist/antagonist attenuates bone cancer pain by inhibition of spinal astrocyte activation in a mouse model[J].Anesthesiology，2012,116(1): 122-32.
+
+（编辑：孙昌朋）

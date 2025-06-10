@@ -1,0 +1,214 @@
+# 新疆南部矮化红枣树干液流特征及其对环境因子的响应
+
+刘毅2,3，金谦²³，桂东伟²3，薛杰²， 孙怀卫4，严冬4，曾凡江2,3
+
+(1．新疆大学,新疆乌鲁木齐830046；2.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室，新疆乌鲁木齐830011；3．新疆策勒荒漠草地生态系统国家野外科学观测研究站,新疆 策勒 848300;4．华中科技大学水电与数字化工程学院,湖北 武汉430074)
+
+摘要：应用FLGS-TDP插针式热扩散探针技术,对策勒绿洲的矮化红枣树干液流进行长期监测,同步记录试验地周围的气象因子，分析矮化红枣树干液流变化规律,建立树干液流与环境因子之间的关系模型。结果表明：液流日变化呈单峰曲线，夏季偶尔会出现双峰曲线;天气条件对液流变化有影响,晴天条件下的液流速率最大，沙尘天气次之,雨天液流速率最低;不同季节间的液流速率差异显著,夏季液流启动于06;30左右,比春季和秋季的液流启动时间早;夏季树干液流持续时间最长,春季和秋季液流持续时间相对较短,夏季液流速率峰值最高,春季和秋季峰值偏低;生长期内液流速率与太阳辐射强度、大气温度呈显著正相关关系,与空气相对湿度呈显著负相关关系;各种环境因子中太阳辐射强度对液流速率的影响最大,相关系数为0.927,其次是大气温度,相关系数为0.725,空气相对湿度的影响最小，其相关系数为0.548。通过对矮化红枣树干液流进行监测,研究分析矮化红枣的水分消耗特征，为绿洲农业水资源分配管理提供数据支撑。
+
+关键词：TDP 热扩散探针技术；矮化红枣；树干液流；环境因子,策勒绿洲；新疆
+
+蒸腾耗水是树木最基本生理活动之一，也是“土壤一植物一大气”（SPAC）连续体中的关键环节[1-2]。植物从土壤中吸收的水分 $90 \%$ 以上都通过蒸腾作用散失到大气之中[3]。植物蒸腾过程中，水分会在植物的木质部形成液流[4-5],因此,通过精确测量树干液流速率以及液流量，就可以计算得到植株尺度上的蒸腾耗水量。
+
+树干液流测定方法众多，如快速称重法[、热脉冲法[7]、热扩散探针法[8-10]、同位素标记法[11]等,其中热扩散探针法（Thermal dissipation probe,TDP)凭借其操作简便，测量精度高，可连续测定以及对植物基本无伤害等特点，被广泛应用于植物蒸腾耗水的研究测定。目前已经成为植物树十液流测定最常用的方法之一[12-13]。国内外的学者利用热扩散探针法对不同地理区域生长的松树、梭梭、核桃树、荔枝树、马占相思树、橄榄树、苹果树及刺槐等植物的蒸腾耗水特性进行了研究[14-16] 。
+
+植物树干液流受植物的生物学结构、土壤供水情况以及环境因子变化等因素的影响[17]。植物的生物学结构决定了树干液流的潜在能力，土壤供水情况则决定了树干液流的总量大小，而其瞬时变化则取决于环境因子的变化[18]。在大气温度、太阳辐射强度、风速、大气湿度以及地下水位变化等环境因子中，由于地下水位在试验期内变化不大，而风速对液流变化影响不显著。因此，本文主要考虑大气温度、太阳辐射强度及大气湿度3种环境因子对树干液流的影响[19-23]。本研究以新疆南部的策勒绿洲为研究区域，以绿洲内部广泛种植的矮化红枣树为研究对象，对其树干液流速率以及环境因子进行连续监测，以阐明矮化红枣树的水分消耗特征及其对环境因子的响应规律，并构建树干液流速率与环境因子模型，计算不同时间尺度上矮化红枣的蒸腾耗水量，为干旱区农业水资源分配管理提供理论依据。
+
+# 1 研究区概况
+
+本试验地设置于塔克拉玛干沙漠南缘策勒绿洲中部的策勒国家站( $8 0 ^ { \circ } 0 3 ^ { \prime } \sim 8 2 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ $3 5 ^ { \circ } 1 7 ^ { \prime }$ \~$3 9 ^ { \circ } 3 0 ^ { \prime } \mathrm { N }$ )。策勒绿洲属于极端干旱荒漠气候，春季多风沙，夏季干燥炎热，冬季寒冷多风;暖温带极端干旱的气候条件使得该地区降水量极低，多年平均降水量仅 $5 0 ~ \mathrm { m m }$ 左右，主要集中于6一9月，而潜在蒸发量却是降雨量的40倍以上。绿洲土壤以棕漠土和风沙土为主，通透性好，结构差，黏粒少。绿洲内的农业以传统粮油作物及林果业为主，林果业种植面积与产量占农业总种植面积的一半以上。矮化红枣树作为新疆地区一种高产量、高经济价值的特色林果，在策勒绿洲分布广泛，是当地农民的重要收入来源。
+
+# 2 实验材料与方法
+
+# 2.1实验材料的基本信息
+
+实验选取策勒绿洲种植的矮化红枣树为研究对象，液流监测时间为2017年4—10月。按照被选样本具有代表性的原则，在策勒站红枣试验地中选取5a树龄，生长良好,冠幅适中的矮化红枣树3棵，分别测定其树高、胸径、冠幅等参数。实验监测样树基本信息如表1。
+
+表1实验样树基本信息  
+Tab.1Basic information of the sample trees   
+
+<html><body><table><tr><td></td><td>树高/m</td><td>胸径/cm</td><td>冠幅/m</td></tr><tr><td>样树1</td><td>1.76</td><td>5.81</td><td>1.95</td></tr><tr><td>样树2</td><td>1.82</td><td>6.02</td><td>2.04</td></tr><tr><td>样树3</td><td>1.74</td><td>5.59</td><td>1.88</td></tr></table></body></html>
+
+# 2.2TDP装置的安装和树干液流的测定
+
+本研究采用美国Dynamax公司的FLGS-TDP（ThermalDiffusionProbe，TDP）树干液流测定系统对矮化红枣树干液流进行测定。整个测定系统包括1个数据采集器,即FLGS-TDP系统主机,8条EXTP-50连接线，长 $1 5 \mathrm { ~ m } , 8$ 组热量扩散传感器，以及太阳能电池板、电池等辅助设备。热量扩散传感器包括
+
+2个带有铜-康铜热电偶的探针（T-Type)和1条特殊的加热线。传感器按照所测样本茎干粗细不同有多种规格可选，由于本研究所选取的样本直径较小,因此选择安装TDP10,即热扩散探针长度为 $1 0 ~ \mathrm { m m }$ 。为了避免探针安装方向不同所带来的记录误差，本次试验统一将探针安装在树干北面。安装时，在被选取的矮化红枣树离地面 $0 . 5 \mathrm { ~ m ~ }$ 处，选择无异物无损伤的树干表面用纱布进行打磨，并用小刀慢慢刮去树干表皮；将打钻孔模板贴近树干去皮的部位，并用直径 $1 \ \mathrm { m m }$ 的钻头水平钻孔，钻孔深度与探针长度一致;将2根热扩散探针小心插入钻孔内，让加热探针在上方，温差探测探针在下方（探针插入后保持探针根部有部分在树干外面，为树皮的生长留出空间，以保证不对TDP探针造成损坏），并用防水胶泥裹住探针根部，以减小探针内部与外界的热量交换；利用泡沫将探针根部以及电缆线小心固定在树干上，并与电源适配器(直流，12V)相连;用防辐射膜将树干插有探针的部位包裹起来，上下封紧，防止雨水渗入阻止热量交换；连接电脑，利用数据采集软件（HyperTerminal)来设置相应的数据记录程序并设定采样间隔。
+
+树干液流量的计算参照Granier、徐浩、戴岳等[19-21]提出的计算方法,分别如下：
+
+$$
+K \ : = \ : ( \ : d T m \ : - \ : d T ) / d T
+$$
+
+式中： $K$ 为无量纲指数； $d T$ 为测得的2个探针之间的温差 $( { \mathcal { \mathbf { C } } } ) { \mathrm { : } } d T m$ 为2个探针之间的最大温差$\big ( \mathrm { ‰ }$ ，一般在黎明前无树干液流活动或者液流活动处于极低水平时测得。
+
+液流速率 $V$ 计算公式为：
+
+$$
+V = 0 . 0 1 1 9 \times K ^ { 1 . 2 3 1 }
+$$
+
+通过测量树木边材横截面积 $A s$ 并与液流速率V相乘,得到树干液流通量Qsap：
+
+$$
+\ Q _ { \mathrm { { s a p } } } = A s \ \times \ V \times 3 \ 6 0 0
+$$
+
+式中： $A s$ 为树木边材面积; $V$ 为树干液流速率。
+
+# 2.3 环境因子的测定
+
+试验地周围气象因子采用策勒站全自动气象仪进行测定。该气象仪可以自动测定并采集包括空气温度 $T a$ （air temperature）,空气相对湿度 $R H$ (relativehumility），净辐射总量 $N r$ （netradiation）等基本信息。设定的数据采集间隔为 $3 0 ~ \mathrm { m i n }$ ,与TDP热扩散探针记录时间一致。
+
+# 2.4 数据处理
+
+采用Excel2013对树干液流数据以及各项环境因子数据进行处理并作图；采用SPSS21.0软件进行单因素以及多元回归分析。
+
+# 3 结果与分析
+
+# 3.1矮化红枣树干液流速率的日变化
+
+图1是矮化红枣树干液流从4—10月的日变化趋势。在尽量排除外界无关因子的干扰下，选择每个月中天气晴朗、云量较低以及风速和缓的液流日变化数据,分析不同月份中矮化红枣树干液流日变化特征。4月树干液流速率呈单峰曲线，液流开始变化于08：30—09：00,上升缓慢,到14:00左右达到峰值,约为 $8 0 \ \mathrm { g \cdot h ^ { - 1 } }$ ,18：00左右速率开始下降，液流曲线相对平缓,峰值速率较低,全天液流持续时间较短;5月液流启动于08：00—08：30,在12：00 左右达到峰值，18：00之后开始下降;6月液流启动于07：30一08：00左右，启动之后短时间内快速上升，在12：00左右达到峰值速率,19：00之后迅速回落；7月液流启动于 $0 7 : 0 0 { \ - } { \ - } 0 7 : 3 0$ ,在10：00达到第1次峰值，11：00左右液流速率稍有回落，在12：00左右出现第2次峰值，呈现明显的双峰现象，峰值速率约为 $3 5 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ 。达到峰值之后液流速率快速回落,到20：00保持相对较低水平。8月液流启动于07：00—07：30,在11:00左右达到峰值，并在一段时间保持较高的液流速率,19：00左右液流速率开始明显下降,晚上仍保持一定速率的液流活动。9月液流启动于 $0 7 : 3 0 { \ - } { \ - } 0 8 : 0 0$ ,在12：00左右达到峰值,峰值速率为 $3 0 0 \textrm { g } \cdot \textrm { h } ^ { - 1 }$ ,18：00之后开始迅速下降。10月液流启动于08:00—08：30,在12:00左右迅速达到峰值,峰值速率约为 $2 1 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ ,17:00 之后开始下降，19：00之后基本停正。从图1可以发现,各个月份中白天的树干液流速率远远高于晚上，其原因主要是白天树木进行蒸腾作用,需要消耗大量水分，只能通过树木根系吸收大量水分才能满足需求，因此,形成较大的液流量。在生长旺季晚上也有液流存在，这是由于树木“根压"引起的,以补充白天损失的大量水分，维持树木体内的水分平衡[21]。
+
+# 3.2不同天气条件下树干液流变化
+
+为能准确描述在不同天气条件下树干液流的日变化，笔者将天气条件分为晴天、雨天和沙尘天来分析，并选取2017年6月与7月的3种典型天气为例。定义晴天水汽压亏缺低、大气透明度高，太阳有效福射高;雨天即全天的水汽压亏缺高、太阳有效福射强度低且在某个时段有明显降雨过程;沙尘天气即大气中总悬浮颗粒物(TSP)浓度大于 $0 . 5 ~ \mathrm { m g } ~ \cdot$ ，$\mathrm { ~ m ~ } ^ { - 3 }$ ,大气能见度低,有明显的风沙过程[20]。据此定义6月2日为沙尘天气，7月11日为晴朗天气，7月24日为雨天，分析在不同天气条件下的树干液流变化特征。从图2可以看出，3种典型天气条件下，矮化红枣树干液流速率日变化差异显著。晴天树干液流速率呈宽峰形，液流在07：00左右启动，然后迅速升高，12：30—14：30液流一直维持在一个较高的水平，18：30开始迅速下降；阴天红枣树干液流变化曲线比较平缓，液流在07：30左右启动，比晴天晚约$3 0 ~ \mathrm { m i n }$ ;雨天树干液流速率呈多峰曲线，液流速率维持在一个较低的水平。红枣树干液流的启动时间晴天比阴天和雨天早约 $3 0 ~ \mathrm { m i n }$ ,到达峰值的时间阴天和雨天比晴天晚约 $3 0 ~ \mathrm { m i n }$ ,液流峰值晴天高于雨天和阴天，变化幅度晴天大于阴天和雨天。这主要是因为晴天太阳辐射强，气温高，空气湿度比较小；而
+
+400 07-1008-2006-17 09-2110-15  
+150 100 04-02 05-19  
+500 A 二 400:00 0 00:00 00:20 00:00 00:00 00:00 10:00 00:00 10:00 00:00 10:00 00:00 00:00 36:382时刻
+
+400 厂 ——沙尘天气/ 350 --雨天天气300 ——晴朗天气2503051050000:00 00:20 00:0 00:90 00:80 00:01 00:20 00:0 00:91 00:81 00:00 20:20时刻
+
+阴雨天太阳辐射强度小，空气温度比较低，空气相对湿度大，红枣叶片蒸腾作用比晴天弱，相应的树干液流速率相对稳定，变化幅度也比较小。
+
+# 3.3矮化红枣树干液流速率的季节性变化
+
+选取矮化红枣树在一个生长期内不同季节的树干液流速率的测定结果，以分析矮化红枣树在不同季节下的液流变化特征。从启动时间来看（表2），夏季液流启动时间为07：30一08：00，而春季和秋季的启动时间均在08：30—09：00，比夏季迟 $0 . 5 \sim$ $^ { \mathrm { ~ 1 ~ h ~ } }$ 。从达到液流速率峰值来看（图3），夏季液流速率峰值出现时间为14;00左右,峰值速率为 $3 0 0 ~ \mathrm { g }$ ：$\ln ^ { - 1 }$ 以上,春季和秋季液流峰值速率出现时间均为13：00左右，峰值速率约为 $1 5 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ ，仅为夏季的一半。从液流持续时间来看（表2），夏季液流持续时间最长，每天持续时间长达 $^ { 1 1 \mathrm { ~ h ~ } }$ 以上，而春季和秋季液流活动持续时间约为 $9 \mathrm { ~ h ~ }$ 左右，比夏季少$^ { 2 \mathrm { ~ h ~ } }$ 。从液流速率来看，春季、夏季和秋季树干液流速率的日变化趋势均保持不变，但夏季的变化幅度较大，这可能与夏季天气变化频繁有关。
+
+# 3.4矮化红枣树干液流速率与主要环境因子的关系
+
+由于受试验地所处的地理环境限制，地下水埋深较深且季节变化不显著，矮化红枣树干液流瞬时速率与土壤含水率的相关性不显著。因此，矮化红枣树干液流速率日变化主要受气象因素（太阳辐射、空气相对湿度和大气温度）的影响。选择生长季内的树干液流速率数据与相应的气象数据进行相关性分析，结果如表3和图4\~6所示。整个生长期内，矮化红枣树干液流速率与太阳辐射、大气温度以及空气湿度均显著相关;其中与太阳辐射、大气温度呈显著正相关，与空气相对湿度呈显著负相关。在生长期内太阳辐射强度始终对树干液流速率的影响最大，空气相对湿度的影响最小。矮化红枣树干液流速率与环境因子相关关系依次为：太阳辐射 $>$ 大气温度 $>$ 空气相对湿度。由此可见，太阳辐射强度、大气温度以及空气湿度是影响树干液流速率变化的关键因子。
+
+此外，矮化红枣树干液流的启动主要与日出时间有关，并且液流的启动时间与太阳辐射开始时间有 $^ \mathrm { ~ 1 ~ h ~ }$ 左右的“滞后”，液流启动后随着太阳辐射的增强、气温升高、空气湿度相对下降，液流速率开始迅速上升，到达峰值后随着太阳辐射的减弱、气温降低、空气相对湿度减弱，液流速率开始迅速下降。
+
+# 表2不同季节日出时间、树干液流的启动时间和液流持续时间
+
+Tab.2Sunrise time and start time and duration of sap flow in different seasons   
+
+<html><body><table><tr><td>月份</td><td>日出时间</td><td>液流启动时间</td><td>液流持续时间/h</td></tr><tr><td>4</td><td>07:30—08:00</td><td>08:30—09:00</td><td>9</td></tr><tr><td>5</td><td>07:00-07:30</td><td>08:00- -08：30</td><td>10</td></tr><tr><td>6</td><td>06:30-07:00</td><td>07:30- -08:00</td><td>11</td></tr><tr><td>7</td><td>06:30—07:00</td><td>07:30- -08:00</td><td>12</td></tr><tr><td>8</td><td>06:30—07:00</td><td>07:30- -08:00</td><td>11</td></tr><tr><td>9</td><td>07:00- -07:30</td><td>08:00- -08：30</td><td>10</td></tr><tr><td>10</td><td>07:30 08:00</td><td>08:30 09:00</td><td>9</td></tr></table></body></html>
+
+300   
+250   
+200   
+150   
+100   
+50 2 心 0 LI 00:00 00: 00:0 0 00:00 00: 00: 0 00:00 00: 00:00 10 00:00 00: 00:00 2 00 2 2 0 2 2 2 2 时刻   
+400 一树干液流速率 大气温度 40   
+350 35   
+300 #   
+250 1 , 1 25   
+200 心 2015 [   
+100 10   
+50 5 0 L L 1 0 00:10 10:00 00:00 00:20 00:00 00:00 00:00 10:00 00:00 10:00 00:00 00:21 00:00 10:00 00:00 时刻
+
+表3不同月份树干液流速率与各气象因子之间的相关系数 Tab.3Correlation coefficients between sap flow rate and meteorological factors in different months   
+
+<html><body><table><tr><td>月份</td><td>太阳辐射</td><td>大气温度</td><td>空气湿度</td></tr><tr><td>4</td><td>0.905 **</td><td>0.662 **</td><td>-0.313 **</td></tr><tr><td>5</td><td>0.912 **</td><td>0.607 **</td><td>-0.532**</td></tr><tr><td>6</td><td>0.936 **</td><td>0.650 **</td><td>-0.523 **</td></tr><tr><td>7</td><td>0.955 **</td><td>0.848 **</td><td>-0.805 **</td></tr><tr><td>8</td><td>0.947 **</td><td>0.647 **</td><td>-0.425 **</td></tr><tr><td>9</td><td>0.945 **</td><td>0.851 **</td><td>-0.608 **</td></tr><tr><td>10</td><td>0.839 **</td><td>0.813 **</td><td>-0.630 **</td></tr></table></body></html>
+
+注：\*表示显著( $\textstyle P < 0 . 0 5 { \bigl . }$ ）， $* *$ 表示极显著 $\cdot P < 0 . 0 1$ ）。
+
+一树干液流速率 相对湿度400 100·/ 350 90300 200 vt ： .. 80706050 %/灰150 403010500 1 1 20100L 500:10 00:00 00:00 00:00 00:00 00:00 00:00 00:00 00:00 00:20 00:00 00:20 00:00 00:21 00:00时刻
+
+400 一树干液流速率 总辐射 1200 .............. .2   
+50 0 0 ? ? \~ M Z -200 00:10 00:00 00:00 00:00 00:00 10:00 00:00 00:00 00:00 00:00 00:00 00:20 00:00 300 时刻
+
+在长期连续对矮化红枣树干液流速率的系统观测基础上，以监测期内的瞬时树干液流速率为因变量，以同时期不同气象因子的瞬时数据为自变量进行拟合，得到树干液流速率和气象因子的拟合方程，如式(4～6)所示。以整个生长季的树干液流速率日均值为因变量，以气象因子的数据日均值为自变量进行逐步回归分析，得到生长季树干液流速率与环境因子的回归方程，如式（7）所示：
+
+$$
+V _ { \mathrm { s a p } } = 0 . 0 0 0 \ 2 9 R a ^ { 2 } + 0 . 2 0 3 \ 4 R a -
+$$
+
+$$
+0 . 1 4 8 \ 6 , \ R ^ { 2 } = 0 . 8 2
+$$
+
+$$
+V _ { \mathrm { { s a p } } } = \mathrm { { } } - 0 . 4 8 6 \ 3 T e m ^ { 2 } + \ 3 9 . 6 5 1 T e m \ -
+$$
+
+$$
+4 9 9 . 8 7 , R ^ { 2 } = \ : 0 . 9 1
+$$
+
+$$
+V _ { \mathrm { s a p } } = \ 0 . \ 1 9 8 \ 2 R H ^ { 2 } - 2 3 . 6 2 R H +
+$$
+
+$$
+5 8 1 . 2 3 , R ^ { 2 } = 0 . 8 9
+$$
+
+$$
+V _ { \mathrm { s a p } } = 0 . 4 9 5 T e m + 0 . 1 0 3 R a - 3 . 9 9 R H +
+$$
+
+$$
+3 6 2 . 1 4 , R ^ { 2 } = 0 . 8 5
+$$
+
+式中： $V _ { \mathrm { s a p } }$ 为树干液流速率 $\big ( \mathrm { \mathbf { g } } \cdot \mathrm { \mathbf { h } } ^ { - 1 } \big )$ ; $R a$ 为太阳辐射强度( $\mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ )； $T e m$ 为大气温度 $\big ( \mathrm { ‰ }$ $R H$ 为空气湿度 $( \% )$ 。以上4个方程的 $F$ 检验都达到了0.01水平上显著，复相关系数 $R ^ { 2 }$ 均在0.8以上，说明拟合效果较好，能够较好地模拟气象因子变化与树干液流变化之间的关系。由于建立相关模型的数据全部选自连续晴天的数据，因此，雨天以及沙尘天气条件下的模拟结果会出现一定差异。
+
+# 4结论与讨论
+
+在不同天气条件下，红枣树干液流日变化呈现出单峰曲线，夏季偶尔会出现双峰曲线，表现出“平缓一上升一下降一平缓”的变化趋势，由于树干液流的启动相对于太阳辐射强度的增强有“时滞”效应，导致液流启动时间均比太阳辐射晚约 $1 . 5 \mathrm { ~ h ~ }$ 。这与冯建灿等[24]在华北平原上利用热平衡方法对2年生的枣树液流变化的研究结果一致。不同的天气条件对树干液流速率有不同的影响。晴天条件下树干液流速率处于最高水平，其次是沙尘天气，最后是雨天条件。孙雨婷[25]研究结果显示,树干液流速率晴天最大，阴天次之，雨天最小的变化规律，但同样枣树液流“日单峰”曲线的基本规律保持不变。季节变化对树干液流有显著影响，夏季液流启动时间最早，液流速率峰值最高，持续时间也最长，春季和秋季液流启动较晚，液流速率峰值相对较低，持续时间短。
+
+矮化红枣树干液流速率与周围环境因子的变化密切相关，液流速率与太阳辐射、大气温度、相对湿度之间有很强的相关性，不同季节树干液流速率对气象因子的响应有一定的差异。其中，红枣树干液流速率与太阳辐射、大气温度呈显著正相关，与空气相对湿度呈显著负相关，各个环境因子综合影响红枣树木的蒸腾速率和耗水。在不同的时间和空间尺度下，不同的环境条件下影响树木蒸腾耗水的主导因素不同，证实了树木蒸腾耗水影响和调控机制的复杂性和相对性[26] C
+
+生长季日均液流速率的模型复相关系数为0.85，可以较好地模拟矮化红枣树干边材液流速率与气象因子的响应特征。日均液流速率模型是以日平均气象资料为基础，可以忽略具体天气波动的干扰，但是减少了模型建立的数据样本，降低了模拟的准确度。因此，构建一套普遍适用的比较系统和科学的树木蒸腾耗水调控机制，需要考虑在不同时间尺度上对环境因子和液流速率的关系进行模拟[27-28]。至于环境因子对树干液流的影响是否在不同地区不同树种间有较大差异有待进一步深入
+
+研究。   
+参考文献（References）:   
+[1］石磊,盛后财,满秀玲,等.不同尺度林木蒸腾耗水测算方法述 评[J].南京林业大学学报（自然科学版）,2016,40(4)：149- 156.[Shi Lei,Sheng Houcai,Man Xiulin,et al.A review of the calculation method of water consumption by tree transpiration in diferent scales[J]. Journal of Nanjing Forestry University(Natural Sciences Edition）,2016,40(4）:149-156.]   
+[2]苟晓霞,叶茂,汪亮亮,等.塔里木河上游河岸胡杨径向生长对 温度的敏感性[J].干旱区研究,2018,35（4）:899-904.[Gou Xiaoxia,Ye Mao,Wang Liangliang，etal.Sensitivityof radial growth of Populus euphratica to temperaturein the upper reaches of the Tarim River[J].Arid Zone Research,2018,35（4）:899- 904.]   
+[3］王文杰,孙伟,邱岭,等.不同时间尺度下兴安落叶松树干液流 密度与环境因子的关系[J].林业科学,2012,48（1):77 -85. [Wang Wenjie,Sun Wei,Qiu Lin,et al. Relations between stem sap flow density of Larix gmelinii and environmental factors under different temporal scale[J].Scientia Silvae Sinicae,2012,48（1）： 77 -85.]   
+[4]孙鹏飞,周宏飞,李彦,等.古尔班通古特沙漠原生梭梭树干液 流及耗水量[J].生态学报,2010,30（24）:6901-6909.［Sun Pengfei,Zhou Hongfei,Li Yan,et al. Trunk sap flow and water consumption of Haloxylon ammodendron growing in the Gurbantunggut Desert[J].Acta Ecologica Sinica,2010,30(24）:6901-6 909.]   
+[5］苏芳莉,赵鸿坤,郭成久,等.小钻杨树干液流特征及其与环境 因子的关系[J].西北农业学报,2010,19（1）:164-173.[Su Fangli,Zhao Hongkun,Guo Chengjiu,et al. Characters of sap flow of Populus xiaozhuanica and its relations with environment factors [J].Acta Agriculturae Boreali-Occidentalis Sinica,2O1O,19（1）： 164 -173. ]   
+[6]巨关升,刘奉觉,郑世锴,等.稳态气孔计与其它3种方法蒸腾 测值的比较研究[J].林业科学研究,2000（4）:360－365.〔Ju Guansheng,Liu Fengjue,Zheng Shikai,et al.A comparison on the transpiration values measured with steady state porometer and other three methods[J].Forest Research,2000(4）:360 -365.]   
+[7］刘德良,李吉跃,马达.侧柏树干边材液流空间变化规律[J]. 生态学杂志,2008,27（8）：1 262-1 268.[Liu Deliang,Li Jiyue,Ma Da.Spatial variation pattern of Platycaldus orientalis stem sap flow[J].Chinese Journal of Ecology,2008,27(8）:1 262 -1 268.]   
+[8]Liu C,Du T,LiF,et al. Trunk sap flow characteristics during two growth stages of apple tree and its relationships with afecting factors in an arid region of Northwest China[J].Agricultural Water Management,2012,25:193-202.   
+[9]Manderscheid R,Erbs M,Burkart S.Efects of free-air carbon dioxide enrichment on sap flowand canopy microclimateof maize grown under diferent water supply[J]. Journal of Agronomy and Crop Science,2016,202:255 -268.   
+[10]MaJ,Chen Y,LiW,etal.Sapflowcharacteristicsoffour typical species in desert shelter forest and their response to environmental factors[J].Environmental Earth Sciences,2012,67:151-160.   
+[11]MitchellP,Veneklaas E,Lambers H,etal.Partitioning evapotranspiration in a semi-rid eucalypt woodland in south-western Australia[J].Agricultural andForest Meteorology,2009,149:25-37.   
+[12]Nicolas E,Torrecillas A,Ortuno M,et al.Evaluation of transpiration in adult apricot trees from sap flow[J].Agricultural Water Management,2005,72:131 -145.   
+[13］夏振华,陈亚宁,朱成刚,等.干旱胁迫环境下的胡杨叶片气孔 变化[J].干旱区研究,2018,35（5）:1111-1117.[Xia Zhenhua,Chen Yaning,Zhu Chenggang,et al.Stomatal change in leaves of Population euphratica under drought stress[J].Arid Zone Research,2018,35(5):1111-1 117.]   
+[14]Satoshi N,Custodio R,Nakashima K,et al.Evaluation of the ffects of increasing temperature on the transpiration rate and canopy conductance of soybean by using the sap flow method[J].Agricultural and Forest Meteorology,2015,71:98-105.   
+[15] Shen Q,Gao Y,Fu B,et al.Sap flow and water use sources of shelter-belt trees in an arid inlandriver basin of Northwest China[J]. Ecohydrology,2015,8:1 446 -1 458.   
+[16]Sheng D,Yi L,Tomonori K,et al. Sapflow characteristics and climatic responses in three forest spcies in the semiarid Loess Plateau region of China[J].Agricultural and Forest Meteorology,2011, 151:1 -10.   
+[17]Granier A.Evaluation of transpiration in a Douglas fir stand by means of sap flow Measurement[J].Agricultural and Forest Meteorology,1996,78:19 -29.   
+[18]Granier A,Biron P,Lemoine D.Water balance,transpiration and canopy conductance in two beech stands[J].Agricultural and Forest Meteorology,2000,100:291-308.   
+[19]Granier A.Evaluation of transpiration in a Douglas-fir stand by means of sap flow measurements[J]. Tree Physiology,1987,4:309 -320.   
+[20］许浩,张希明,王永东,等.塔里木沙漠公路防护林乔木状沙拐 枣耗水特性[J].干旱区研究,2006,23（2）：216－222.[Xu Hao,Zhang Ximing,Wang Yongdong,et al. Study on water consumption of Calligonum arborescens Litv.in shelterbelts along the Tarim Desert highway[J].Arid Zone Research,2006,23(2）:216 - 222. ]   
+[21］戴岳,郑新军,李彦,等.古尔班通古特沙漠梭梭和白梭梭树干 茎流特征[J].干旱区研究,2013,30(5）:867-872.[Dai Yue, Zheng Xinjun,Li Yan,et al. Stemflow of Haloxylon ammodendron and $H$ ，persicum in the Gurbantonggut Desert[J].Arid Zone Research,2013,30(5) :867 -872.]   
+[22]Fu S,Sun L,Luo Y,et al. Combining sap flow measurements and modelling to assess water needs in an oasis farmland shelterbelt of Populus simonii Carr.in Northwest China[J].Agricultural Water Management,2016,12:172 -180.   
+[23]Jin X,Zuo Q,Ma W,et al. Water consumption and water-saving characteristics of a ground cover rice production system[J]. Journal of Hydrology,2016,540:20 -231.   
+[24］冯建灿,汪泽军,张玉洁,等.幼龄枣树树干液流规律[J].经济 林研究,2007,25(4):6-10.[Feng Jiancan,Wang Zejun,Zhang Yujie,et al. Dynamics of stem sap flow in Ziziphus jujuba mill. sedling[J].Nonwood Forest Research,2007,25(4）:6-10.]
+
+[25]孙雨婷.阿克苏地区枣树茎流变化特征及影响因子研究[D].乌 鲁木齐：新疆师范大学，2O13.［SunYuting.InvestigationofVariation Characteristics and Influence Factors of Stem Sap Flow of Jujube in Aksu Area[D]. Urumqi:Xinjiang Normal University,2013.]
+
+[26]吴芳，陈云明，于占辉.黄土高原半干旱区刺槐生长盛期树干液流动态[J].植物生态学报，2010，34（4）：469-476.〔WuFang,Chen Yunmin,Yu Zhanhui.Growing season sap-flow dynamics of Robinia pseudoacacia plantation in the semi-arid region ofLoessPlateau,China[J].Chinese Journal ofPlant Ecology,2010,34(4) :469 -476.]
+
+[27]黄运梅,徐海量，张广朋,等.基于年轮信息的单株胡杨（Populuseuphratica)树干年新增生物量估算方法[J].干旱区研究，2018,35（4）:905-911.[Huang Yunmei,Xu Hailiang,ZhangGuangpeng,et al.Estimation of annual biomass of individual Populuseuphratica based on tree-ring data[J].Arid Zone Research,2018,35(4):905 -911.]
+
+[28]蒋少伟，周多多，吴桂林，等.不同地下水埋深下胡杨枝条水力导度及其季节变化[J].干旱区研究，2017，34（3）：648-654.[Jiang Shaowei,Zhou Duoduo,Wu Guilin,etal.Hydraulic conduc-tivity and its seasonal variation of Populus euphratica shoot at thesites with varying groundwater depths[J].Arid Zone Research,2017,34(3):648-654.]
+
+# Characteristics of Sap Flow of Dwarf Red Jujube Trees and the Response to Environmental Factors in South Xinjiang
+
+LIU Yi1,2,3，JIN Qian23，GUI Dong-wei2 2,3 XUE Jie2,3, SUN Huai-wei4， YAN Dong4ZENG Fan-jiang2 2，3
+
+(1.Xinjiang University,Urumqi 830o46,Xinjiang,China; 2.StateKeyLaboratoryofDesertandOasis EcologyXinjiang InstituteofEcologyandGeographyChineseAcademyofSciences， Urumqi 830011,Xinjiang,China ; 3.Qira National Field Station for Desert Steppe Ecosystem Observation and Research Qira84830,Xinjiang,China; l.SchoolofHydropoer&IformationEngineering,Huazhong UniversityofcienceandTechnology,Wuhano74,ubeihna)
+
+Abstract:In this paper,thecharacteristics of sap flow of the dwarf red jujube tres inthe Qira Oasis were analyzed,and therelationship between thesap flowand environmental factorswasresearched.Theresultsshowed that the curve of dailyvariationof sapflow was unimodal,and it was occasionally bimodal insummer.Weatherconditions affcted significantly the change of sap flow,the sap flow rate was the highest on sunny day,then under sand and dust weather,and it was thelowestonrainyday.The seasonal diferenceof sap flow rate was significant,the sap flow started earlier in summer than thatin spring and autumn；the duration of sap flow was thelongest in summer,it was relatively short in spring and autumn；the peak value of sap flow was the highest in summer but low in spring and autumn.There was a significantly positive correlation between the sap flow rate and the solar radiation intensity and air temperature,but a significantly negative one between the sap flow rate andthe relative humidity.Among the environmental factors,theefectofsolarradiation intensityonthesapflowrate was the highest,thenthatofairtemperature,and that of the relative humidity was the lowest.
+
+Key words:TDP thermal diffusion probe technology；dwarf red jujube tree；sap flow；environmental factor；Qira Oasis ; Xinjiang

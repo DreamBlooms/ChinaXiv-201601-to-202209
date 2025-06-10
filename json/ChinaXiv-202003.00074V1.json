@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "水曲柳中MYBL2基因表达特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩丹宇'，于磊\"²，韩朝君‘，张振峰，张旭}²，刘璋}²，詹亚光1,2\\*(1．东北林业大学生命科学学院，哈尔滨150036；2.东北林业大学林木遗传育种国家重点实验室，哈尔滨150036；3.黑龙江省大海林林业局，黑龙江 牡丹江 157000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：MYB转录因子家族是植物中最大的转录因子家族之一，参与植物生长、繁殖和代谢的各个时期。研究发现，MYB转录因子能通过多种方式参与植物抗逆生长。该研究在水曲柳中克隆FmMYBL2基因，利用生物信息学分析其结构和表达特征，并构建FmMYBL2蛋白的系统进化树。对水曲柳幼苗进行低温胁迫、盐胁迫处理以及激素分子诱导处理（包括 ABA、IAA、GA3、JA、SA）。分别在0、1、3、6、12、24、 $4 8 \\mathrm { h }$ 取样。利用实时荧光定量PCR对上述处理样品中FmMYBL2基因进行定量分析，并分析了FmMYBL2的时空表达特征。结果表明：克隆得到的FmMYBL2基因全长为 $7 6 2 \\mathrm { b p }$ ，编码253个氨基酸。FmMYBL2蛋白是亲水性蛋白，氨基酸序列比对表明其与棉花同源关系较近。荧光定量分析表明，FmMYBL2基因响应低温胁迫和盐胁迫，同时ABA、IAA、GA3、JA、SA共同调控该基因表达。在低温处理1h、盐胁迫 $4 8 \\mathrm { { h } }$ 时FmMYBL2基因表达量最高，激素诱导后表达量持续波动，但能在短时间内迅速响应。FmMYBL2基因在根、芽、花、种子中均有表达，雄花中的表达量最高。该研究结果为深入研究MYBL2基因功能和水曲柳抗逆生长的调控奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水曲柳，MYBL2转录因子，基因克隆，抗逆，生物信息学分析中图分类号：S792.41 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Characteristic analysis of FmMYBL2 gene expression in ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fraxinus mandshurica ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Danyu1, YU Lei1.2, HAN Zhaojun³, ZHANG Zhenfeng?, ZHANG $\\mathrm { X u } ^ { 1 , 2 }$ , LIU Zhang1,2, ZHAN Yaguang1,2\\* (1. College ofLife Sciences,NortheastForestry University,Harbin150036,China;2.State KeyLaboratoryofTree Genetics and Breeding,Northeast Forestry University,Harbin 150036,China; 3.Dahailin Forestry Bureau, Mudanjiang 15 70oo, Heilongjiang, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The MYB transcription factor familyis one of the largest transcription factor families in plants.The MYB family is involved in al stages of plant growth,reproduction and metabolism. Studies have found that MYB transcription factors can participate in plant stressresistance growth in a variety of ways.The FmMYBL2 gene was cloned in Fraxinus mandshurica， and its structure and expresson characteristics were analyzed using bioinformatics. A phylogenetic tree of FmMYBL2 was constructed.Low temperature,salt and hormone molecules (including ABA,IAA, GA3,JA,SA) were used to induce Fraxinus mandshurica seedlings.Samples were takenat 0,1,3,6,12,24,and $4 8 \\mathrm { ~ h ~ }$ . Quantitative analysis of FmMYBL2 gene in the treated samples. The temporal and spatial expression characteristics ofFmMYBL2 are analyzed.The results show thatthe FmMYBL2 gene is 762 bp in length and encodes 253 amino acids.FmMYBL2 encoded a hydrophilic protein.Amino acid sequence alignment showed that it is closely related to Gossypium hirsutum. Quantitative fluorescence analysis shows that FmMYBL2 gene responds to low temperature and salt stress. At the same time,ABA,IAA, GA3,JA,and SA jointly regulated the expression of FmMYBL2 gene.The gene expression was the highest under low temperature treatment for $^ \\textrm { \\scriptsize 1 h }$ and salt stress for $4 8 \\mathrm { ~ h ~ }$ . After hormone induction, the expression of this gene fluctuates continuously,but it can respond quickly ina short time.Expression ofthis gene has been observed in roots,buds,flowers and seeds but the male flowers have the highest expresion.The results of this study lays the foundation for further studying the function of MYBL2 gene and the regulation of stress resistance of Fraxinus mandshurica. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Fraxinus mandshurica， MYBL2 transcription factor, gene clone, stress resistance, bioinformatics analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着全球环境不断遭到破坏，处于逆境中的植物数量急剧增加，逆境胁迫使得植物细胞大量脱水，膜系统功能紊乱（杨晓慧等，2006）对植物生长极其不利，所以研究植物抗逆途径是目前当务之急。MYB 转录因子家族与植物抗逆密切相关，是植物中最大的转录因子家族之一，参与植物生长繁殖的各个过程（Nguyen& Lee,2016; Payne et al.,2000; Suo Jinfeng et al.,2003)。水曲柳 MYBL2 蛋白是一种 R2R3-MYB蛋白，这类蛋白结构域是一种端粒结合蛋白，能参与植物的胁迫应答和激素诱导，还可与 bHLH和 WDR转录因子复合物结合调控花色素基因的表达（An Jian-Ping et al.,2019;Zhu Zet al.,2015)。研究发现，棉花GhMYB73基因、拟南芥AtMYB2基因可通过提高渗透胁迫抗性来提高植物耐盐性，同时一些参与ABA途径中的非生物胁迫诱导的相关基因转录水平也有显著提高（Yoo JH et al.,2005; Zhao Yanyan et al.,2019）。过表达 AtMYB44基因对 ABA 诱导的气孔关闭反应更敏感，对干旱及盐胁迫的耐受性增强（Choonkyun Jung etal.,2008)；AtMYB60基因在盐胁迫及ABA影响下表达受阻，植物生长受限。MYB转录因子亦可参与水稻抵御逆境（罗成科等，2015)。除此之外，MYB家族还有着调控花青素合成以抵抗逆境的功能。在bHLH突变体拟南芥中就发现 BoMYB2转录因子与BoHLHs结合共同调控花青素的合成(Chiu LW&LiL,2012)。花青素通过提高超氧化物 歧化酶、抗坏血酸氧化酶和谷胱甘肽还原酶的活性来提高寒冷诱导的抗性（ZhuJJet al.,2013)。成熟参数相近的红芒果和青芒果在冷藏三周后，红芒果因含有更多的花青素积累，而表现出对冷害更强的抗性（SivankalyaniVet al.,2016)。野生型拟南芥在接受外源 ABA 诱导时茎尖中的花青素不断积累，此现象依赖于AtMYB75基因及一些其他能被ABA诱导的基因（陈俊洁等，2019)。水杨酸和茉莉酸也对植物抗逆起着重要作用。水杨酸（SA）和茉莉酸（JA）可以通过加强植物自身的防御信号来诱导植物合成更多的防御类化合物，有助于植物抗逆。通过研究枸杞中SA结合蛋白LcSABP发现，LcSABP 通过提高内源性SA 含量，促进活性氧的清除以及调节逆境相关转录因子的表达而抵御逆境(LiQian etal.,2019)。JA 还可延长果蔬保存期（赵曼如等，2019)。JA在使植物适应高光照和高温胁迫的组合中起着重要作用（Balfagón Damian et al., 2019）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水曲柳（Fraxinus mandshurica）是木犀科落叶乔木，是东北地区珍贵的硬阔用材树种，并且是国家重点保护的野生植物之一。由于目前对多种抗逆途径的综合研究较少，所以本文对水曲柳中FmMYBL2基因进行了克隆和分析，并研究了水曲柳抗逆能力、激素诱导表达和不同部位表达，为水曲柳对逆境胁迫适应机制提供依据，对水曲柳资源的开发和优化具有重要的理论意义和实用价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料的处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1非生物胁迫与激素诱导的取材 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取实验室中由水曲柳种子种植，长势均一，并在温室中经恒温、恒湿、恒光强培养 $4 5 \\mathrm { d }$ 的实生苗150株。因其幼嫩，次生代谢产物较少，故在进行诱导胁迫时利于检测基因表达量的变化。对其进行4℃低温、$2 0 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } \\mathrm { N a C l }$ 的胁迫处理，并用浓度均为 $1 0 0 \\mu \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的植物激素 ABA、GA3、IAA、JA、SA分别进行激素信号诱导处理，而对照组不作任何处理。实验组和对照组分别在0、1、3、6、12、24、 $4 8 \\mathrm { { h } }$ 时取样，并将样品放入液氮冷冻，置于 $- 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 的冰箱中保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2水曲柳不同部位的取材",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根、茎、叶取自上述培养 $6 0 \\mathrm { d }$ 的实生幼苗5株。雄花、雌花、芽以及种子取自东北林业大学林场中不",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同月份长势均一、良好的成熟水曲柳植株（共取自5棵树，至少重复三次)。在超净工作台中对材料进行消毒，以待后续检测MYBL2基因的表达量。对照组除消毒外同样不做任何处理。将消毒后的样品分别放入液氮冷冻，置于-80℃的冰箱中保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1选用的内参基因和算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引入在水曲柳中表达量相对稳定的持家基因TU（任小龙等，2015)，以便于获得更加准确的基因表达量，同时也方便对数据进行比对校正。算法使用 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ （△CT 处理组-△CT 对照组）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2FmMYBL2基因克隆方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用 Tris-CTAB 法分别提取样品根、茎、叶、芽、雄花、雌花、种子的RNA（每次取各样品 $0 . 5 { \\mathrm { ~ g } } { \\cdot }$ ）因CTAB与蛋白质和多糖类物质可结合形成复合物，利用有机溶剂分离该复合物与核酸，并加入沉淀剂，可以得到不同样品的RNA。利用反转录试剂盒将得到的RNA反转录成cDNA，然后将其与本实验室前期所测得的水曲柳转录组数据进行比对，根据cDNA序列设计引物（表1)，克隆MYBL2基因编码区全长（图1)。进行多次PCR（反应体系为 $2 0 ~ \\mu \\mathrm { L }$ ：其中模板 $\\operatorname { c D N A 2 \\mu L }$ ，正反引物各 $1 ~ \\mu \\mathrm { L }$ ,dNTP $1 . 6 ~ \\mu \\mathrm { L }$ ,rTaq $0 . 2 ~ \\mu \\mathrm { L }$ ,Buffer 2$\\mu \\mathrm { L }$ ， $\\mathrm { d d H } _ { 2 } \\mathrm { O } \\ 1 2 . 2 \\ \\mu \\mathrm { L } )$ ，并通过凝胶回收纯化产物，应用 $\\mathsf { p M D 1 8  – T }$ 载体连接后转化进入JM109 感受态细胞，并在加有抗性的培养基上培养单菌落，选取多个菌落进行菌液验证，然后送至公司进行测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3FmMYBL2在响应逆境胁迫及激素信号表达下的分析方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据FmMYBL2基因序列设计荧光定量PCR引物（表1)，应用荧光定量PCR技术分别分析FmMYBL2基因在 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 低温胁迫、NaCI胁迫、IAA、ABA、GA3、JA、SA激素诱导下的表达量。且样品均进行3次重复检测。利用 $2 ^ { \\scriptscriptstyle - \\Delta \\Delta \\mathrm { C T } }$ 法计算表达量。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/86ceb364f3591f8abb05f8a532ae4200a74a9b6e4e71f893a2d87c65c5b3334a.jpg",
+        "table_caption": [
+            "表1FmMYBL2基因序列克隆以及荧光定量PCR的引物设计",
+            "Table 1 Design primer sequence for cloning FmMYBL2 gene and quantitative real-time PC "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称</td><td>引物序列</td><td>备注 Remark</td></tr><tr><td>Primer name FmMYBL2-F</td><td>Primer sequence 5'-TTGGCTCAATGGGAAGGTCTCC-3'</td><td>基因克隆Gene cloning</td></tr><tr><td>FmMYBL2-R</td><td>5'-TTATTTCATTTCCAGGCCTCTGTAGC-3'</td><td>基因克隆Gene cloning</td></tr><tr><td>qFmMYBL2-F</td><td>5'-TGCTGGCGTTCGCTTCCTAA-3'</td><td>定量Quantitative</td></tr><tr><td>qFmMYBL2-R</td><td>5'-GAGACCATTTGTTACCAAGAAGACTG-3'</td><td>定量 Quantitative</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1基因克隆",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "克隆获得了FmMYBL2的基因序列（图1)，可知该基因全长762bp，编码253个氨基酸。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 20 30 40 50 60 70 80 90 1001 1 L L 1 L 1 1 1 1 L 1 1  \n1 ATGGGAAGGTCTCCTGCTGTGAAAAGCTCATACAAATAAAGGAGCATGGACTAAAGAAGAAGATGATCGTCTCATCGCATATATAAGGGCTCACGGTG 100M G R S P C C E K A H T N K G A W T K E E D D R L I A Y I R A H G110 120 130 140 150 160 170 180 190 2001 1 一 1 1 1 1 1 L 1 1  \n101 AAGGCTGCTGGCGTTCGCTTCCTAAGGCAGCCGGTCTACTCCGCTGCGGCAAAGCTGCCGCCTTCGGTGGATCAATTACTTAAGGCCAGACCTCAAACG 200E G C W R S L P K A A G L L R C G K S C R L R W I N Y L R P D L K R210 220 230 240 250 260 270 280 290 300  \n201 TGGCAACTTCACAGAAGAAGAAGATGAACTTATTATTAAACTTCACAGTCTTCTTGGTAACAAATGGTCTCTTATAGCTGGAAGATTACCAGGAAGAACT300G N F T E E E D E L I I K L H S L L G N K W S L I A G R L P G R T310 320 330 340 350 360 370 380 390 400上 1 1 1  \n301 GATAATGAGATAAGAATTATTGGAATACTCATATAAGAAGGAAGCTTTGAGCCGAGGTATTGATCCTACAACTCATAGGCCAATCAATGAGCCTGCAT 400D N E I K N Y W N T H I R R K L L 5 R G I D P T T H R P 工 N E P A410 420 430 440 450 460 470 480 490 5001 1  \n401 CGGCTAGAGAAGTCACAACCATTCATTTGCTGGTTCAACAACAAAAGAAGAAGCAGAAAGTGCATCACTACAGCGATTAATTTGAACAACAAAGAAGA 500S A R E V T T I S F A G S T T K E E A E K C I T T A I N L N N K E E510 520 530 540 550 560 570 580 590 600  \n501 AAATAGTCCAGTTTCGAGCGGTGCGGATTTGAATCTTGAACTCAGAATAAGCCTCCTTATAGTTATCAACAACAAGCACAAGAGCCTTGAAAACT 600N S P V F E R C P D L N L E L R I S P P Y S Y Q Q Q A Q E P L K T610 620 630 640 650 660 670 680 690 700L L L  \n601 GGAGGGAGGACTGCCTCTCTGTGCTTTGCGTGCAGTTGGGTGCACAAACAGCAAAGGTTGCAGTTGTAATATTGAACGTGGCAGTAGCAGTAATTCTG 700G G R T A S L C F A C S L G A Q N S K G C S C N I E R G 5 S S N S710 720 730 740 750 760L 1 L 1 L 国 L  \n701 GATATGATTTTATAGGGTTAAAAACTGGGGTTTTGGGCTACAGAGGCCTGGAAATGAAATAA762G Y D F I G L K T G V L G Y R G L E M K \\*",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2氨基酸序列比对及构建基因进化树",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用 NCBI里的ProteinBLAST对FmMYBL2进行同源序列比对，利用相似度较高的同源序列构建基因进化树（图2）发现FmMYBL2与棉花、巴旦木、可可、梅花等的氨基酸序列相似性较高，说明它们亲缘关系较近。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "99 MYB308L[Populus euphratica] XP_011046315.1 98 MYB156[Populus tomentosa]AMY62793.1 27 MYB308L[Hevea brasiliensis] XP_021645677.1   \n11 MYB308L[Manihotesculenta]XP_021609582.1 MYB308 [Theobroma cacao] XP_007041863.1 99 MYB308L[Durio zibethinus]XP_022749205.1 ●Fraxinus mandshurica MYBL2 MYB308[Sesamum indicum]XP_011088595.1   \n36 25 MYB39[Salviamiltiorrhiza]AGS48990.1 100 MYB4 [Salvia miltiorrhiza] AGG09847.1 91 MYB4 [Salvia miltiorrhiza] ADG46002.1 76 MYB16[Malus hybrid cultivar]AHG99473.1 100 MYB308[Malus domestica]XP_008377747.1 96 MYB2 [Eriobotrya japonica] AID56314.1 R2R3-MYB[Rosa hybrid cultivar]AID23891.1   \n11 MYB1[Punica granatum]AJD79907.1 25 MYB308L [Nicotiana sylvestris] 44 MYBL2[Arabidopsis thaliana]NC_003070.9 100 MYB[Oryza sativa] AID46512.11 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3氨基酸理化性质的分析及FmMYBL2的疏水性预测",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用 ProtParam 在线工具分析预测 FmMYBL2 氨基酸的理化性质。结果表明，FmMYBL2由253个氨基酸组成，其中有29个带负电的氨基酸残基（ $\\bf ( A s p + G l u )$ ，有38个带正电的氨基酸残基 $( \\mathrm { \\bf ~ A r g } + \\mathrm { \\bf { L y s } } )$ 。不稳定指数为49.94，所以是不稳定蛋白质。蛋白质的疏水性对蛋白质的影响巨大，主要表现在蛋白质的构型、稳定性、以及其功能。应用Proscale在线工具对FmMYBL2蛋白进行疏水性分析（图3）。分析表明，FmMYBL2有21个亲水区域和10个疏水区域，总平均疏水性为-0.660，是亲水性蛋白。FmMYBL2蛋白的疏水区域有利于蛋白质向内部折叠形成二级结构，进一步形成结构域，并有利于蛋白形成α螺旋，保证其自身稳定性。应用在线软件 ExPASy中的Compute pI/Mw 得出FmMYBL2蛋白质的等电点为9.02，所以该蛋白在PH为9.02时最不稳定且溶解度最小，易于沉淀析出。同时蛋白质的黏度、渗透压、膨胀性以及导电能力均为最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5a03a6b61bf7dd3ee9eee61648094f262108fa44035521273aa70b7f193af75.jpg",
+        "img_caption": [
+            "图3FmMYBL2蛋白疏水性分析Fig.3Hydrophobicityanalysis ofFmMYBL2 protein"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4FmMYBL2表达量在4℃低温胁迫、NaC1胁迫下的变化趋势",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水曲柳幼苗经不同胁迫处理时，FmMYBL2基因表达量均较对照（TU）上调表达，表达量随时间的变化而波动明显（图4)。用4℃低温处理水曲柳幼苗时，FmMYBL2基因表达量在0、1、3、6、12、24、 $4 8 \\mathrm { h }$ 总体呈现先下降后上升的趋势。在其被胁迫1h后FmMYBL2相对表达量最高，达到对照组的7倍，而处理6h、 $1 2 \\mathrm { h }$ 时的表达量均低于对照组，其中6h表达量只有对照组的0.54倍， $1 2 \\mathrm { h }$ 表达量最低，仅有对照组的0.10倍。用NaC1胁迫处理水曲柳幼苗时，FmMYBL2基因表达量总体呈现先下降后上升的趋势。胁迫处理1h后，实验组基因表达量是对照组的1.20倍，而处理3、6、12h后表达水平均低于对照组表达量， $4 8 \\mathrm { h }$ 表达量最高，是对照组的2.41倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5FmMYBL2表达量在激素信号诱导下的变化趋势",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水曲柳幼苗经不同激素信号诱导，表达模式变化不同（图5)。用ABA处理水曲柳幼苗时，其FmMYBL2表达量波动明显。其中除处理6h后FmMYBL2表达量达到对照组的1.05倍以外，其余处理时间基因表达均被抑制，低于正常水平。其中实验组在经ABA诱导1h后表达量最低，是对照组的0.19倍。用IAA处理水曲柳幼苗后，FmMYBL2表达量的变化十分显著，其中诱导处理 $2 4 \\mathrm { h }$ 后表达量达到峰值，是对照组的11.80倍。除处理1h仅为对照组的0.65 倍外，均超过对照组基因表达量。用GA3 处理水曲柳幼苗时， $^ { 3 \\mathrm { ~ h ~ } }$ 达到最高表达量，是对照组的2.68倍，且处理1、12、 $4 8 \\mathrm { { h } }$ 后低于对照组，3、6、 $2 4 \\mathrm { h }$ 时均高于对照组。JA处理水曲柳幼苗(图6) $^ { 3 \\mathrm { ~ h ~ } }$ 后，MYBL2基因的相对表达量最高， $3 { - } 6 \\mathrm { h }$ 表达量不断下降，而后又上升，表达量不断波动。SA处理1h后基因的表达量达到顶峰，而后不断波动，但始终维持在对照组10倍以内。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ec3a990077fc93cecffec6cee3c878ef9d404e71fb9d156a1046e7672d66d02.jpg",
+        "img_caption": [
+            "图 $4 4 ^ { \\circ } \\mathrm { C }$ 、NaC1胁迫下FmMYBL2在水曲柳中的相对表达量Fig.4Relative expression of FmMYBL2 gene in $F .$ mandshurica under $4 ^ { \\circ } \\mathrm { C }$ and NaCl stress"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3e1436203eb08865a9f7f81f3c2fe4f6ce40ba83fc92d0908b395d2115128af.jpg",
+        "img_caption": [
+            "图5ABA、IAA、GA3诱导下FmMYBL2的相对表达量 Fig.5Relative expression ofFmMYBL2 induced by ABA,IAA and GA3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e3380eb771f2652bf2ac18d091ab1881b8ea7b5d6aa5b38005eb5c634221955.jpg",
+        "img_caption": [
+            "图6JA、SA诱导下FmMYBL2的相对表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Relative expressionofFmMYBL2 inducedbyJAand SA ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6FmMYBL2在水曲柳不同部位、月份的表达量分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在测水曲柳不同部位的基因表达时（图7)，本实验选择的内参为水曲柳微管基因TU。基因相对表达量的算法为 $2 ^ { \\scriptscriptstyle - \\triangle _ { \\mathrm { C T } } }$ （ $\\Delta C \\mathrm { T } =$ 基因的表达量-内参的表达量)。该基因在不同部位的表达量往往是不同的。经研究发现TU在水曲柳的花和芽中表达量较高，而在根茎叶中表达量较低。而FmMYBL2基因在茎叶中也几乎没有表达（设对照组数值为1)，在根中表达很少，在花中表达量较高。其中，FmMYBL2在根中的表达量是1.38倍，在雌花中的表达量是13.38倍，在雄花中的表达量甚至达到了20.78倍。在测定水曲柳不同月份的基因表达时（图8)，仍然选择TU作为内参基因。研究发现8月的表达量最高，达到了对照组的10倍，9月时则逐渐下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/090da168049319e743ca3cb12a8fb40394acc410f22d101c2d91b05e0385f4d7.jpg",
+        "img_caption": [
+            "图7FmMYBL2在水曲柳不同部位的表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 The expression level of FmMYBL2 in different parts ofF.mandshurica ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba990cd5302667ac51a630f1a6667c99adf5f3573f513d38807426da8c35c35d.jpg",
+        "img_caption": [
+            "图8FmMYBL2在水曲柳不同月份的表达量",
+            "Fig.8The expressionlevel ofFmMYBL2in differentmonths of $F .$ mandshurica "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本实验通过生物软件分析FmMYBL2基因序列，得知其为亲水性蛋白，且不存在信号肽。氨基酸序列比对发现其与棉花等植物的氨基酸序列相似性较高，说明它们亲缘关系较近，可能有相似的作用规律。其次研究了水曲柳中MYBL2基因在不同模式下的相对表达量，并主要进行了寒冷和激素诱导的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "植物在低温胁迫下由于冷应激反应，会导致其与防御相关的蛋白含量降低（Makoto Hashimoto et al.,2007)，对植物产生不良影响，所以本实验对FmMYBL2基因进行定量研究，观测其在冷应激反应下的表达及其对植物的影响。通过定量实验得出，FmMYBL2在被低温胁迫1h后表达量最高， $^ { 1 2 \\mathrm { ~ h ~ } }$ 时的表达量最低。基因表达量的极大改变说明其响应了寒冷胁迫，这与拟南芥MYB15基因表达量受冷胁迫波动类似（AgarwalMet al.,2006)。此外，用NaC1胁迫处理水曲柳幼苗时，FmMYBL2基因表达量呈现先下降后上升的趋势。胁迫处理 $4 8 \\mathrm { { h } }$ 后表达量最高，证明FmMYBL2基因有增加水曲柳抗盐性的能力，所以在处理后基因表达量迅速上升。此外，在植物激素ABA、IAA、GA3、JA、SA的诱导下，FmMYBL2基因的表达也受到不同的影响，其中FmMYBL2对IAA的响应最为明显。经IAA处理 $2 4 \\mathrm { h }$ 后的水曲柳幼苗中MYBL2表达量达到了对照组的11.80倍。而其在ABA和GA3的信号诱导下，该基因表达量也有显著的波动。说明FmMYBL2响应激素信号，可在植物因抵抗逆境胁迫而导致激素含量改变时响应，辅助植物抗逆。植物自身的水杨酸与茉莉酸就有着调控气孔关闭的生理功能，且植物伤信号能引起JA 和 SA 含量的增加。本实验中在JA 和 SA诱导下MYBL2基因表达量升高，说明在植物因胁迫造成细胞损伤时，JA、SA在被诱导含量增加的同时也会使FmMYBL2表达量上升，共同抵御胁迫。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本实验检测了水曲柳不同部位基因的表达量，研究发现FmMYBL2在花、芽中表达量最高，但在茎叶中表达量很少。因其在不同的组织和器官里表达量不同，说明FmMYBL2的表达具有组织特异性。在不同月份的表达时，本实验研究发现5月时基因的表达量高达6倍，可能是因为水曲柳的花期在5月左右，而花中花青素的积累使得FmMYBL2基因的表达量上升。而7-8月基因表达量逐渐上升，8-9月逐渐下降，可能是因为7-8月温度较适宜植物生长，不需要太多代谢产物抵抗逆境。综上所述，水曲柳FmMYBL2基因可参与植物抗逆境胁迫和激素信号的响应，不论其通过自身表达量的变化增强植物抗逆性，还是通过影响次生代谢产物花青素的含量，从而帮助植物抗逆，该基因在水曲柳生长发育中的作用都是十分重要的。水曲柳抗逆机制揭示对水曲柳繁育及栽培具有重要意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AGARWAL M, HAO Y, KAPOOR A, et al.,2006. A R2R3 type MYB transcription factor is involved in the cold regulation of CBF genes and in acquired freezing tolerance[J]. JBiol Chem,281(49):37636-45.   \nAN JP, WANG XF, ZHANG XW, et al.， 2019. An apple MYB transcription factor regulates cold tolerance and anthocyaninaccumulationand undergoesMIEL1-mediated degradation[J].PlantBiotechnolJ, DOI:10.1111/pbi.13201.   \nBALFAGON DAMIAN, SENGUPTA SOHAM, GOMEZ-CADENAS AURELIO, et al., 2019. Jasmonic acid is required for plant acclimation toa combination of high light and heat stress[J].Plant Physiol, DOI:10.1104/pp.19.00956.   \nCHEN JJ,MEI S,HU YR, 2019.Abscisic acid induces anthocyanin synthesis in Arabidopsis seedlings[J]. Guihaia,1-18.[陈俊洁，梅松，胡彦如，2019．脱落酸激素诱导拟南芥幼苗中花青素的合成[J/OL].广西 植物:1-18.http://kns.cnki.net/kcms/detail/45.1134.Q.20190620.1133.002.html.]   \nCHIU L W& LI L,2012. Characterization of the regulatory network of BoMYB2 in controlling anthocyanin biosynthesis in purple cauliflower[J]. Planta, 236(4):1153-1164.   \nCHOONKYUN JUNG, JUN SUNG SEO, SANG WON HAN, et al., 2008. Overexpression of AtMYB44 enhances stomatal closure to confer abiotic stress tolerance in transgenic arabidopsis[J].Plant Physiol,146(2):623-635.   \nMAKOTO HASHIMOTO & SETSUKO KOMATSU,2007. Proteomic analysis of rice seedlings during cold stress[J]. Proteomics, 7(8):1293-1302.   \nLI QIAN,WANG GANG, GUAN CHUNFENG, et al.， 2019. Overexpression of LcSABP, an orthologous gene for salicylic acid binding protein 2，enhances drought stress tolerance in transgenic tobacco[J].Fr ont Plant SCI,DOI: 10.3389/fpls.2019.00200.   \nLUO CK， XIAO GJ，LI Q,2015. Research advance of the transcription factors related to stressresistances in rice [J].Guihaia,35(6):942-947.[罗成科，肖国举，李茜．水稻逆境相关转录因子研究进展[J]．广西植物， 2015，35(6):942-947]   \nNGUYEN NGUYEN HOAI, LEE HOJOUNG,2016.MYB-related transcription factors function as regulators of the circadian clock and anthocyanin biosynthesis in Arabidopsis[J]. Plant Signal Behavior,11(3):00-00.   \nPAYNE C T, ZHANG F,LLOYD A M,2000. GL3 encodes a bHLH protein that regulates trichome development in Arabidopsis through interaction with GL1 and TTG1[J]. Genetics (Print),156(3):1349-1362.   \nREN XL, ZHAN YG,LIANG X, et al.,2015. qRT-PCR Analysis of gene expression of AG and SOC1 during flower development of Fraxinus mandshurica Rupr[J]. Bull Bot Res,35(4):612-617.[任小龙，詹亚光，梁雪, 等．水曲柳花发育过程中 AG、SOC1基因表达的qRT-PCR 分析[J]．植物研究,2015,35(4):612-617.]   \nSIVANKALYANI V, FEYGENBERG O, DISKIN S, et al.,2016. Increased anthocyanin and flavonoids in mango fruit peel are associated with cold and pathogen resistance[J]. Postharvest Biol Technol,111:132-139.   \nSUO JINFENG,LIANG XIAOE，PU LI, et al.，2003.Identification of GhMYB109 encoding a R2R3 MYB transcription factor that expressed specifically in fiber initials and elongating fibers of cotton (Gossypium hirsutum L.) [J]. BBA-BiomembraneS,2003,1630(1).   \nYOO J H,PARK CY,KIM JC,etal.,2005. Direct interaction of a divergent CaM isoform and the transcription factor, MYB2,enhances salt tolerance in Arabidopsis [J].JBiol Chem,280(5):3697-3706.   \nZHAO MR, HU WZ,YU J X, et al.,，2019. Research progress on effects of methyl jasmonate on resistan ce,antioxidant activity and quality of fruits and vegetables[J].Sci Technol Food Ind:1-8.[赵曼如，胡 文忠，于皎雪，等．茉莉酸甲酯对果蔬抗性、抗氧化活性及品质影响的研究进展[J/OL].食品工业科技:1 -8. http://kns.cnki.net/kcms/detail/11.1759.ts.20191015.0904.002.html.]   \nZHAO YY, YANG ZE,DING YP, et al.,2019.Over-expresson of an R2R3 MYB Gene, GhMYB73, increases tolerance to salt stressin transgenic Arabidopsis[J]. Plant Sci,28-36,DOI:10.1016/j.plantsci.2019.05.021   \nZHU JJ,LIYR,LIAO JX,2013.Involvementofanthocyanis inthe resistance to chiling-induced oxidative stress in Saccharum officinarum L. leaves[J]. Plant Physiol Biochem, 2013,73(6):427-433.   \nZHU Z,WANG H,WANG Y,etal.,2015.Characterization ofthe cis elements in the proximal promoter regions of the anthocyanin pathway genes reveals a common regulatory logic that governs pathway regulation[J]. JExp Bot, 66(13):3775. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "Rice endosperm is cost-effective for the production of recombinant griffithsin with potent activity against HiV ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evangelia Vamvaka1,Elsa Arcalis², Koreen Ramessar³，Abbey Evans4，Barry R.O'Keefe35，Robin J.Shattock4, Vicente Medina1, Eva Stöger², Paul Christou1,6 and Teresa Capell1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dpartntofcos   \nLleida,Spain   \nDearttesuf   \nAustria   \n3Molecular Targets Laboratory，Center for Cancer Research,NationalCancer Institute,NIH,Frederick,MD,USA   \n4Departmentof Medicine,Imperial College London,Norfolk Place,London,UK   \naturaPrd   \n6Catalan Institute for Research and Advanced Studies (ICREA),Barcelona,Spain Received21 April 2015;   \nrevised21 October2015;   \naccepted6 November2015.   \n\\*Correspondence (Tel 34-973702831;   \nemail teresa.capell@pvcf.udl.cat) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protein microbicides containing neutralizing antibodies and antiviral lectins may help to reduce the rate of infection with human immunodeficiency virus (HiV)if it is possible to manufacture the components in large quantities at a cost affordable in HIV-endemic regions such as sub-Saharan Africa.We expressed the antiviral lectin griffithsin (GRFT),which shows potent neutralizing activity against $\\mathsf { H N } ,$ in the endosperm of transgenic rice plants (Oryza sativa),to determine whether rice can be used to produce inexpensive GRFT as a microbicide ingredient.The yield of OSGRFT in the best-performing plants was $2 2 3 ~ \\mu \\ g / \\ g$ dry seed weight. We also established a onestep purification protocol,achieving a recovery of $7 4 \\%$ and a purity of $80 \\%$ ，which potentially could be developed into a larger-scale process to facilitate inexpensive downstream processing. OSGRFT bound to HIV glycans with similar efficiency to GRFT produced in Escherichia coli. Wholecell assays using purified $^ { \\mathrm { o s } } \\mathsf { G R F T }$ and infectivity assays using crude extracts of transgenic rice endosperm confirmed that both crude and pure $^ { \\mathrm { o s } } \\mathsf { G R F T }$ showed potent activity against HIV and the crude extracts were not toxic towards human cell lines,suggesting they could be administered as a microbicide with only minimal processing.A freedom-to-operate analysis confirmed that GRFT produced in rice is suitable for commercial development,and an economic evaluation suggested that $1 . 8 ~ \\mathrm { { k g / h a } }$ of pure GRFT could be produced from rice seeds.Our data therefore indicate that rice could be developed as an inexpensive production platform for GRFT asamicrobicide component. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: griffithsin,rice, endosperm,lectin,HIV，microbicides. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rate of infection caused by human immunodeficiency virus (HIV) is declining,but the $\\mathsf { H } \\mathsf { N } ^ { + }$ population reached an estimated 35 million in 2013 and there were 2.1 million new cases (UNAIDS,2014).The availability and effectiveness of antiretroviral therapy is also increasing,which means that the $\\mathsf { H } \\mathsf { N } ^ { + }$ population is living longer (Abdool Karim and Baxter，2012；Lynch et al., 2012).However,the burden of the disease falls disproportionately on sub-Saharan Africa,which accounts for more than $70 \\%$ of global cases. Here,1 in 20 people is $\\mathsf { H } \\mathsf { I V } ^ { + }$ and up to 22 million have no access to life-saving treatments (UNAlDS,2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HIVinfections cannot currently be cured，but there isa window of opportunity lasting 30-60 min between exposure and infection during which pre-exposure prophylaxis can block the uptake of the virus (Shattock and Rosenberg，2012).When the virus interacts with mucosal tissue,an infection is established within $1 6 - 7 2 h$ (Haase,2011).Topical microbicides represent a subset of pre-exposure prophylaxis strategies and are classified according to their target and mechanism of action.Surfactants kill the pathogen,replication inhibitors prevent virus replication buffers enhance the vaginal milieu of protectors，and entry/ fusion inhibitors block virus entry into host cells (McGowan, 2006). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Entry inhibitors can bind sites on the virus or its cellular receptors (CD4,CCR5 or $C X C R 4 )$ to prevent virus-cell interactions.Some entry inhibitorsare anionic polymers or polyanions, for example cellulose sulphate，PRO-2ooo，dextrin sulphate, SPL7013,Carraguard,SAMMA and cellulose acetate phthalate Although proven to be safe and well tolerated, these have failed to provide protection against HIV-1 in clinical trials (El-Sadr et al., 2006;Joshi et al.,2006;McCormack et al.,2005;Patton et al., 2006).Other more specific microbicides such as CCR5 inhibitors, forexample PSC-RANTES (Kawamura etal.，2003)，and fusion inhibitors,such as the lectins griffithsin(GRFT) and cyanovirin-N (CV-N),demonstrate picomolar range $1 C _ { 5 0 }$ values against all HIV-1 clades but have yet to be tested in clinical trials (Ramessar et al., 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GRFT isa 12.7 kDa lectin isolated from the redalga Griffithsia spp.(Mori et al.,2O05).It inhibits HIV-1 by binding selectively to mannose-rich glycans onthe virus envelopeglycoproteins (Balzarini，2005； Mori et al.，2005)and has demonstrated broad-spectrum antiviral activity against severe acute respiratory syndrome-associated coronavirus (SARS-CoV) and other coronaviruses (O'Keefe etal.,2010; Ziotkowska etal.,2006),hepatitis C virus (Meuleman etal.，2011;Takebe etal.,2013),Japanese encephalitisvirus (Ishagetal.，2013)andherpessimplexvirus (Nixon et al.,2013).GRFT has no mitogenic effect on peripheral blood mononuclear cells,but shows full activity in the presence of macaque vaginal secretions (Emau et al.，2oo7)and has a good safety profile in the rabbit vaginal irritation model (O'Keefe et al., 2009).GRFT can also inhibit HIV-1 binding to the dendritic cellspecific intercellular adhesion molecule-3-grabbing nonintegrin (DC-SIGN) and prevents DC-SIGN-mediated transfer of the virus to target cells (Alexandre et al.,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Only small quantities of GRFT can be isolated from algae so the development of lectin-based microbicides requires the expression ofrecombinant lectins in larger amounts.GRFT hasbeen expressed asa recombinant protein in Escherichia coli (Giomarelli etal.,2oo6) and in Nicotiana benthamiana (O'Keefe etal.,2009) despite concerns that the production of recombinant lectins in plantsmight interfere with signallingprocesses and plant development (Lotter-Stark etal.,2012).The yield of recombinant GRFT in E.coli (ECGRFT)was 819 mg per litre of culture medium but $3 3 \\%$ of the protein accumulated as inclusion bodies and was therefore misfolded and nonfunctional (Giomarelli et al.，2006). In contrast,the transient expression of GRFT in N.benthamiana usinga vector based on tobacco mosaic virus(TMV) resulted in the production of up to $\\boldsymbol { \\mathrm { ~ 1 ~ } } \\boldsymbol { \\mathrm { ~ 9 ~ } }$ of soluble GRFT per $\\mathsf { k g }$ of fresh leaf weight (O'Keefe et al.,2oo9). Even so,the transient expression of microbicides in leafy crops has several drawbacks,including the need to process the tissue immediately after harvest to prevent protein degradation,and the need for complete purification due to the presence of toxic metabolites in tobacco and endotoxins produced by the infiltrating bacteria (Arfi et al.,2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transgenic seedsare advantageous because they can be stored for long periods under ambient conditions without recombinant proteins losing stability，and the generally regarded assafe (GRAS) status of cereal seeds means that microbicides could be administered as crude extracts rather than reformulated pure proteins, thus reducing production costs substantially (Peters and Stoger,2011;Ramessaret al.,2008a;Sabalza et al.,2013).We therefore generated transgenic rice plants expressing GRFT in the endosperm and tested both the pure protein and crude extracts for their HIV-specific binding activity and ability to neutralize HIV in vitro.Our studies were complemented with a griffithsin-specific freedom-to-operate (FTO)analysis and a preliminary technoeconomic evaluation，which are essential first steps towards product development and commercialization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GRFT is expressed in T1 transgenic rice endosperm and is correctly folded in planta ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mature seed-derived rice embryos (15-20 days after pollination) were transformed by particle bombardment with a construct containing the GRFT coding sequence under the control of the maize zein promoter and a second construct containing the selectable marker hpt (Christou et al.，1991).Embryo-derived callus was selected on hygromycin-supplemented medium and 13 independent transformants were regenerated and transferred to the greenhouse.We chose three independent lines (2,6 and 10) that expressed $^ { \\mathrm { o s } } \\mathsf { G R F T }$ at high levels in the endosperm (128,301 and $1 0 4 ~ \\mu \\mathrm { g / g }$ dry seed weight，respectively).The yieldswere determined by enzyme-linked immunosorbent assay (ELISA)to ensure that we detected only the correctly folded and soluble form of the protein.The remaining lines expressed $^ { \\mathsf { O S } } \\mathsf { G R F T }$ at only low levels and thus were deemed unsuitable for further experiments.The best-performing line (line 6) was selected for further in-depth investigation (Figure 1a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A one-step protocol allows the inexpensive purification of OSGRFT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The OSGRFT protein was purified from crude extracts of T1 rice endosperm prepared from line 6 by capturing the protein on an immobilized metal affinity chromatography (IMAC) column and eluting it with buffer containing $2 5 0 ~ \\mathsf { m m }$ imidazole.The final yield of OSGRFT after purification was $2 2 3 ~ \\mu \\ g / \\ g$ dry seed weight, which representsa recovery of $7 4 \\%$ .The presence of $^ { \\mathsf { O S } } \\mathsf { G R F T }$ in the crude extracts was confirmed by reducing sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE) followed by staining with Coomassie Brilliant Blue,showing a visible band of $\\sim 1 5 ~ \\mathsf { k D a }$ ,the anticipated molecular mass of $H i s _ { 6 }$ -tagged GRFT (Figure 2a). The presence ofOSGRFT was confirmed by immunoblotting and detection using a primary rabbit anti-GRFT polyclonal antiserum (Figure 2b).This revealed an intense band at $1 4 . 6 ~ \\mathsf { k D a }$ ，the correct size for His $_ 6$ -tagged GRFT,and anotherat $1 6 { - } 1 7 ~ \\mathsf { k D a }$ probably representing the incomplete removal of the rice $\\mathfrak { a }$ -amylase (RAmy3D) signal peptide which is25 residues in length and hasapredicted molecular mass of $2 . 6 ~ \\mathsf { k D a }$ Alternatively,the additional band may reflect O-linked glycosylation at one of the multiple serine or threonine residues of GRFT.No degradation products were present， suggesting the protein remained stable in the rice endosperm tissue (Figure 2b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdd6500de979b0471dec0583a1273fda9025a630150b210f91d83d8d9bb89a6c.jpg",
+        "img_caption": [
+            "Figure 1 (a) GRFT accumulation in rice endosperm.An immunoglobulinspecific sandwich ELISA was used to screen the three best-performing independent events.The ELISA plate was coated with ${ \\mathfrak { g p } } 1 2 0 ,$ and GRFT protein assembly was confirmed using a primary rabbit anti-GRFT polyclonal antiserum and a secondary HRP-conjugated anti-rabbit IgG antiserum.Four serial dilutions per sample are shown (neat,1/2,1/4 and 1/ 8).WT,wild-type extracts; ${ \\mathsf { C } } ^ { - }$ ，negative control (PBS); ${ \\mathsf { C } } ^ { + }$ ，GRFT purified from E. coli $5 0 0 ~ \\mathrm { n g / m L } )$ as a positive control. OD,optical density at $4 5 0 \\ \\mathrm { n m }$ .(b)Transformation construct pgZ63-GRFT for the stable expression of GRFT in rice endosperm.The expression cassette comprised the endosperm-specific maize zein promoter, the rice $\\mathfrak { a }$ -amylase3Asignal peptide sequence (SP),a $H _ { 1 5 _ { 6 } }$ tag,the GRFT coding region (grft) and the nos terminator (t-nos). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crude rice endosperm extracts containing OSGRFT show gp120-binding activity comparable to pure ECGRFT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The crude extracts from T1 seeds of transgenic lines 2,6 and 10 Were tested by ELISA for in vitro binding activity against HIV gp120，using $E C _ { G R F T }$ as a positive control and wild-type rice endosperm as a negative control. Extracts from all three transgenic lines showed greater gp12O-binding activity than the wildtype endosperm extracts as expected,which confirmed that the OSGRFT was functional and that endogenous plant lectins do not interfere with binding.Furthermore，crude endosperm extracts containing $^ { \\mathrm { o s } } \\mathsf { G R F T }$ bound to gp120 in a concentration-dependent manner,with binding behaviour nearly identical to that of ECGRFT.The crude extracts containing $^ { \\mathsf { O S } } \\mathsf { G R F T }$ therefore possessed essentially the same oligosaccharide-dependent binding propertiesas the same recombinant protein expressed in bacteria (Figure 3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ae6f64edfb0b2634207894b9197bb31a8ac85aa2f22f721c313f8e20d5dc43.jpg",
+        "img_caption": [
+            "Figure 2 (a) Separation of the purified GRFT fraction by SDS-PAGE under reducing conditions showing the $1 4 . 6 ~ \\mathsf { k D a }$ band representing GRFT (arrow). ${ \\sf M } =$ Precision Plus ProteinTM All Blue Standards (Bio-Rad),lane $\\mathsf { A } = 3 . 5 ~ \\mu \\ g$ GRFT and lane $\\mathsf { B } = 3 . 8 ~ \\mu \\mathrm { g }$ of GRFT protein.(b) Analysis of $^ { \\mathrm { o s } } \\mathsf { G R F T }$ by SDS-PAGE under reducing conditions and immunoblotting using a primary rabbit anti-GRFT polyclonal antiserum and a secondary HRP-conjugated anti-rabbit IgG. ${ \\mathsf { C } } ^ { + } =$ positive control (50 ng $E C _ { G R F T ) }$ 1 ${ \\sf M } =$ protein size marker Precision Plus ProteinTM All Blue Standards (BioRad).The arrow shows the anticipated size of the GRFT-His6 protein. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OSGRFT accumulates to high levels in rice endosperm protein bodies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fluorescence microscopy and transmission electron microscopy (TEM)were used to study the localization of $^ { \\mathsf { O S } } \\mathsf { G R F T }$ in the endosperm of developing seeds from line 6.The deposition of $^ { \\mathsf { O S } } \\mathsf { G R F T }$ was investigated in the young endosperm cells immediatelyunder the aleurone layer,which are packed with starch grains,as well as storage organelles which show a strong labelling for GRFT (Figure 4a,b).No significant labellingwas detected in any other compartment of the endosperm cells,the apoplast or the aleurone cells (Figure 4b).TEM imaging confirmed the deposition of GRFT in the protein storage vacuole (PSV)，also known as type I protein bodies (PB-ll)，whereas there was no significant labelling in the ER-derived prolamin bodies，also known as type l protein bodies (PB-l) (Figure 4c). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crude extracts containing ${ ^ \\circ } { \\mathsf { G R F T } }$ and purified OSGRFT show potent neutralizing activity against HiV in wholecell and infectivity assays but no toxicity towards human cells ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next tested purified OSGRFT and ECGRFT head to head in whole-cell HIV neutralization assays.As expected from their similar in vitro binding behaviour,both proteins achieved similar $E C _ { 5 0 }$ values in the nanomolar range: $0 . 2 7 ~ \\mathsf { n m }$ for $^ { \\mathsf { O S } } \\mathsf { G R F T }$ (Figure 5a) and $0 . 3 3 ~ \\mathsf { n m }$ for $E C _ { G R F T }$ (Figure 5b). The wild-type crude extract showed no activity against HIV in the whole-cell assay,although it did cause a general increase in cell growth in both controls and virus-challenged cells in culture，confirming that native rice lectins do not possess HiV-neutralizing activity (Figure 5c). Infectivity assays confirmed the potent antiviral activity of crude extracts containing ${ } ^ { \\mathsf { O S } } { \\mathsf { G R F T } }$ .Crude extracts of wild-type rice endosperm also showed a low level ofviral inhibition,perhaps due to the presence of a protein/polysaccharide milieu that delays contact between the virus and the target cells (Figure 6a). Crude extracts of rice endosperm containing OSGRFT at dilutions of 1/4 and higher showed no significant cytotoxicity against the cell line，indicating that microbicides prepared with crude extracts are unlikely to be harmful when used for topical application (Figure 6b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88125bbfb5b4fdf9df6f769befdd698ce2c3889fd27da58eab87c7cdbe80d399.jpg",
+        "img_caption": [
+            "Figure3 Antigen-bindingactivity of crude rice endosperm extracts containing $^ { \\mathrm { o s } } \\mathsf { G R F T }$ and the purified $E C _ { G R F T }$ determined by ELISA. Ordinate: Optical density at $4 5 0 \\ \\mathsf { n m }$ .Abscissa: Serial dilutions.Values are the average of two experiments $\\pm ~ { \\sf S E }$ .Plates coated with HIV-1 gp120 were tested with different concentrations of crude extracts or fixed concentrations of purified GRFT from E.coli, and binding activity was measured using a primary rabbit anti-GRFT polyclonal antiserum and a secondary HRP-conjugated anti-rabbit IgG.WT,wild-type plants; ${ \\mathsf { C } } ^ { - }$ negative control (PBS); ${ \\mathsf { C } } ^ { + }$ 号 $E C _ { G R F T }$ (concentration $5 0 0 ~ \\mathrm { { n g / m L } }$ as a positive control; 2,6,10,independent events expressing \\$GRFT;OD,optical density at $4 5 0 \\ \\mathsf { n m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce4da678471f6d943932edb58aa55a70483bac0d86a216eaf9c3af3def128c5f.jpg",
+        "img_caption": [
+            "Figure 4 Localization of ${ ^ \\circ } { ^ \\mathsf { s } } _ { \\mathsf { G R F T } }$ in immature rice seeds,15-20 days after pollination.(a) Interference contrast microscopy.(b) Fluorescence microscopy.The outlined area in (a) is shown as an inset panel in (b) with merged channels.(c) Immuno-electron microscopy.Outlined area is shown enlarged twofold along each axis in the inset panel.Arrowheads in (a)and (b) represent storage organelles.Abbreviations:SG,starch granule; AL,aleurone layer;PRO,protein body; $\\mathsf { P S V } ,$ protein storage vacuole. Bars $= 5 ~ { \\mu \\mathrm { m } }$ (a,b,including inset panel), $0 . 5 ~ { \\mu \\mathrm { m } }$ (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Griffithsin (GRFT)isa lectin isolated from the red alga Griffithsia spp.that binds to high mannose oligosaccharides displayed on the envelope glycoproteins of many different viruses (Xue et al., 2013)including HIV (Ziotkowska et al.，2007a).GRFT is active against HIV clades A,B and C，which are predominant in subSaharan Africa, India and the west (Lotter-Stark et al.,2o12),and isequally active against T-tropic and M-tropic strains of HiV-1 (Mori et al.,20o5).GRFT acts as an HIV entry inhibitor,blocking virus-cell fusion at subnanomolar concentrations and reducing the cytopathic effect of laboratory strains and clinical primary isolates of HIV-1 at picomolar concentrations (Mori et al.,2005). Native GRFT can be purified directly from its source but only in minute quantities (Mori et al.，2oo5).The production of recombinant GRFT is therefore necessary to meet the demand for this protein as a microbicide component.GRFT has been produced in E.coli with a yield of $8 1 9 ~ \\mathrm { m g / l }$ ，but only $6 6 \\%$ of the protein was present in the soluble fraction and the remainder was found in inclusion bodies and was impossible to resolubilize even using detergents (Giomarelli et al.， 2006). O'Keefe et al. (2009) addressed this challenge by producing soluble GRFT in N. benthamiana leaves usinga vector based on TMV,achieving a yield of $1 \\ \\mathrm { m g / g }$ leaf tissue，which was reduced to $0 . 3 \\mathrm { \\ m g / g }$ after purification,representinga recovery of $30 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We investigated the use of rice endosperm asan alternative production platform for recombinant GRFT because rice has a number of application-specific advantages over leafy crops in the context of microbicides.Like other seed-based platforms，the recombinant protein accumulates in dry seeds and can be stored indefinitely under ambient conditions,whereas tobacco leaves must be processed immediatelyafter harvesting to avoid protein degradation (Ramessar et al.，20o8a； Sabalza et al.，2013). Furthermore,rice has GRAS status and has been developed as a production platform for proteins that can be administered in minimally processed seed,such as oral vaccinesand prophylactics (An et al.，2013；He et al.,2011;Ning et al.，2008;Vamvaka et al.，2015;Xie et al.，2008;Zhang et al.，2012)，whereas proteins transiently expressed in tobacco must be purified to remove toxic metabolites (Obembe et al.,2011) and the bacterial endotoxins produced during agroinfiltration (Arfi et al.,2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We created transgenic rice plants expressing GRFT under the control of an endosperm-specific promoter and recovered 13 independent transgenic events,three of which were selected for further investigation because they produced T1 seeds in numbers sufficient for analysis.This is the first time that GRFT has been expressed in stably transformed plants and the first time it has beenexpressed in cereal seeds.Line6 wasselected foradditional experiments because T1 seeds produced the highest yields of OSGRFT $( 3 0 1 ~ \\mu \\ g / \\ g$ dry seed weight). GRFT has been produced at higher levels by transient expression in N.benthamina $( 1 \\ \\mathrm { m g / g }$ after 12 days),but this was reduced to $3 0 0 ~ \\mu \\mathrm { g } / \\ g$ after purification,which is only slightly higher than our yields of pure protein $( 2 2 3 ~ \\mu \\ g / \\ g$ dry seed weight) and similar to the yield of $3 5 0 ~ \\mu \\mathrm { g / g }$ reported for another lectin (CV-N) produced in transgenic soybean (O'Keefe etal.,2015).It isalso likely that ourT1 yields can be improved further by breeding line 6 to homozygosity,as demonstrated for other recombinant proteins produced in cereal seeds (Hood et al.,2012).For example,the monoclonal antibody 2G12 was expressed in rice seeds with a yield of $3 7 \\ \\mu \\mathrm { g / g }$ in the T1 generation but this increased to $4 6 ~ \\mu \\ g / \\ g$ in the T3 generation after two rounds of self-pollination (Vamvaka et al.，2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4b4f440209e5aa8aa4652d9e3471907ffcbdecb73d5af5b8d2dac4a1cfde90c.jpg",
+        "img_caption": [
+            "Figure 5 Concentration-dependent effects of GRFT on cellular viability. The in vitro HIV-neutralizing activity of (a) ${ } ^ { \\mathsf { O S } } { \\mathsf { G R F T } } ,$ (b) $^ { \\mathsf { E S } } { \\mathsf { G R F T } }$ and (c) wildtype rice extracts against CEM-SS cells infected with $H N - 1 _ { R F }$ is presented as cell viability relative to uninfected and untreated controls. Cell viability was assessed using the $\\times \\pi$ assay.All pointsare averages $( \\pm \\mathsf { S E } )$ of triplicate measurements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/efa22b2b3b53c055f35cfe8b8f19d48874d0686f36466288ebad80dd678cd55f.jpg",
+        "img_caption": [
+            "Figure6(a) HIV-1 infectivityassay.TZM-bl cellswere incubated with serial dilutions of the extracts (in triplicate) and cultured for $7 2 \\mathrm { ~ h ~ }$ with HIV1BaL using a concentration optimized for infectivity. The extent of viral replication was determined by measuring the luciferase activity of cell lysates.Ordinate:Percentage of relative infection.Abscissa:Serial dilutions. Results are shown as the percentage of infection relative to the virus-only control $\\pm ~ \\mathsf { S E }$ ：(b)Effect of different concentrations of crude extracts on cell viability. Cytotoxicity Was determined using an MTT assay and was expressed as the percentage of dead cells (mean $\\pm \\mathsf { S D }$ 1 $n = 3$ ） Ordinate: Percentage relative viability.Abscissa:Serial dilutions.WT, untransformed rice seed extract; ${ \\mathsf { C } } ^ { - } ,$ ：negative (medium-only) control; ${ \\mathsf { C } } ^ { + }$ cytotoxic positive control (nonoxynol-9). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,2G12 was expressed in maize seeds with a yield of $7 5 ~ \\mu \\ g / \\ g ,$ which was increased to $1 0 0 ~ \\mu \\mathrm { g / g }$ by passaging the transgenic plants through a dedifferentiation-differentiation cycle (Ramessar etal.,2008b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The number and nature of purification steps and the overall cost of processing are key issues that determine the commercial viability of recombinant proteins expressed in plants. Mori et al. (2005) purified the native GRFT from Griffithsia spp.by ammonium sulphate precipitation, hydrophobic interaction chromatography，anion-exchangechromatography，reversed-phase chromatography and size exclusion chromatography to yield a homogeneous，highly pure and biologically active protein.We found that ammonium sulphate precipitation did not work for OSGRFTevenwhencombinedwithethanolprecipitation.However,protein extraction using a phosphate buffer combined with IMACachieved $74 \\%$ recoveryand $80 \\%$ purity.Giomarelli et al. (2006) purified soluble $E C _ { G R F T }$ by IMAC using Ni-NTA resin and the dialysed protein was then applied to a TALON IMAC resin before stepwise elution using two buffers containing different amounts of imidazole，achieving $5 3 \\%$ recovery. Ishaget al. (2013）used IMAC followed by elution in a buffer containing $2 5 0 ~ \\mathsf { m m }$ imidazole before further purification by size exclusion chromatography using a Superdex 75 column.The resulting purified protein contained both the monomeric and dimeric forms of GRFT but the final purity and recovery were not reported.Finally,Xue et al.(2013) used a nickel-chelating column and eluted GRFT with $5 0 0 ~ \\mathsf { m m }$ imidazole,refolding the protein by dropwise addition to a low-salt refolding buffer before final purification using C4 reversed-phase chromatography,but again no data were reported for purity and recovery.When GRFT was produced in N.benthamiana,the first purification step involved the removal of the TMV vector coat protein by filtration through a ceramic membrane，followed by ion-exchange chromatography Over SP-Sepharose resin,ultrafiltration/diafiltration to concentrate the protein and elution with $1 0 0 \\mathrm { \\ m u } \\mathrm { \\ N a C l }$ ，achieving ${ > } 9 9 . 8 \\%$ purityalbeit with only $30 \\%$ recoveryas stated above (O'Keefe et al.2oo9).We used nondenaturing conditions to prepare the protein extract thus keeping GRFT in its native confirmation to avoid the need for a refolding step.The protein was captured on a Profinity IMAC column and eluted with $2 5 0 ~ \\mathsf { m m }$ imidazole. This is the first one-step purification procedure reported for GRFT,and although the purity was lower than that reported by O'Keefe et al. (2oo9),the use of rice as a production platform means that stringent purity is unnecessary because the plant matrix is safe for mucosal applications (Ning et al.，2008;Xie et al.，2008).The large-scale production and purification of GRFT could be facilitated by exploiting its stability，because it remains soluble and functional at temperatures up to ${ \\sim } 8 0 ~ ^ { \\circ } \\mathsf C$ ，whereas most plant host cell proteins precipitate below this temperature (Moulaei et al.，2010；Zi6tkowska et al.，2007b). Fuqua et al. (2015) demonstrated that the purity of GRFT extracts can increase by $3 0 \\% - 4 0 \\%$ at temperatures exceeding $5 0 ~ ^ { \\circ } C$ ，and using this approach,they achieved a recovery rate of $8 8 \\pm 5 \\%$ compared to the initial extract. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Immunoblotting using a primary rabbit anti-GRFT polyclonal antiserum revealed a pair of intense bands,one migratingat the anticipated molecular mass of $1 4 . 6 ~ \\mathsf { k D a }$ and the other at $1 6 { - } 1 7 ~ \\mathsf { k D a }$ .Because the gel was run under denaturing conditions，the additional band is unlikely to represent a conformational isomer or the presence of a noncovalent binding partner. It is possible that GRFT undergoes partial post-translational modification and is therefore present in two forms,but the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GRFT sequence does not contain an N-glycan acceptor site so only O-linked glycans would account for the difference in mobility $( 2 - 3 \\mathsf { k D a } )$ .Amore likely explanation is the incomplete removal of the rice $\\mathfrak { a }$ -amylase (RAmy3D) signal peptide，which is 25 residues in length and has a predicted molecular mass of $2 . 6 ~ \\mathsf { k D a }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The deposition of GRFT in rice endosperm Was studied by fluorescence and electron microscopy.Our data confirmed that GRFT is deposited predominantly in the PSVs, like other recombinant proteins expressed in cereal endosperm bearinga signal peptide but no further targeting information.For example，a recombinant fungal phytase was directed to the PSVs in rice and wheat,and the HiV-neutralizingantibody 2G12 was deposited in the PSVs of maize and rice (Arcalis et al.,2oo4;Drakakaki et al., 2006;Peters etal.，2013;Vamvaka et al.，2015).Furthermore, Drakakaki et al. (2oo6) described the presence of recombinant phytase in ER-derived protein bodies，and the expression of antibody 2G12 altered the morphology of zein bodies in maize and induced the formation of novel ER-derived protein bodies in rice (Peters et al.,2013;Vamvaka et al.,2015).In contrast,we found that GRFT was localized almost exclusively in the PSVs and could easily be extracted with PBS even though most of the surrounding endogenous seed storage proteins are not soluble under these conditions. The ability of GRFT to retainits independent solubility suggests that it does not interact with the storage proteins,for example by the formation of disulphide bonds (Peters et al.,2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GRFT can interfere with the interaction between HiV and ${ \\mathsf { C D 4 } } ^ { + }$ cells by binding to the mannose-rich viral glycoproteins gp120, gp41 and gp160,although it does not directly inhibit the binding of $\\mathtt { g p } 1 2 0$ to CD4 (Mori et al.，2005).GRFT interacts with a number of viruses,but shows particular potency against HIV because it can bind to multiple sites on gp120 (Giomarelli et al., 2006).We therefore compared the biological activity of purified ${ } ^ { \\mathsf { O S } } { \\mathsf { G R F T } }$ ，crude extracts containing $^ { \\mathsf { O S } } \\mathsf { G R F T }$ and purified ECGRFT, by testing their ability to bind gp12O-llIB in vitro.We found that OSGRFT and ECGRFT bound to $\\mathtt { g p } 1 2 0$ with near identical binding characteristics and that the crude extracts showed similar binding activity to the pure proteins once the concentration of GRFT in the extracts was taken into account.Similarly, $\\mathrm { O ^ { \\prime } }$ Keefeetal. (2009) showed that N.benthamiana GRFT had similar or even better gp120-binding activity than $E C _ { G R F T }$ ,which in turn retained the gp120-binding activity of the native GRFT protein (Giomarelli et al., 2002). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also tested OSGRFT and $E C _ { G R F T }$ head to head in whole-cell HIV neutralization assays and found that both proteins achieved nearidentical nanomolar $\\mathsf { E C } _ { 5 0 }$ values of 0.27 and $0 . 3 3 ~ \\mathsf { n m } ,$ （20 respectively，well within the range previously reported by Mori etal.(2oo5). Crude extracts of wild-type rice endosperm showed no activity against HiV.Giomarelli et al. (2oo6)showed that ECGRFT inhibited HIV-induced cytopathicity with an $\\mathsf { E C } _ { 5 0 }$ value of $0 . 0 8 9 ~ \\mathsf { n m }$ ,similar to the $E C _ { 5 0 }$ value of native GRFT $( 0 . 1 6 3 \\ \\mathsf { n m } )$ and they concluded that both forms of GRFT were functionally equivalent. However，O'Keefe et al. (2009) reported an $E C _ { 5 0 }$ valueof $0 . 0 5 4 ~ \\mathsf { n m }$ for native GRFT and $0 . 1 5 6 ~ \\mathsf { n m }$ for tobaccoderived GRFT.These discrepancies reflect the inherent variability of the syncytium inhibition assay,which is suitable for comparisons within an experiment (where 2- to threefold differences are not regarded as significant) but not across studies in different laboratories，particularly when different HIV strains and assay protocols are used (Forthal et al.，2o10; Rademacher et al., 2008). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Candidate microbicides must be tested for immunogenicity, efficacy and safety before deployment，and in vitro cellular models can be used to provide preliminary evidence for these endpoints before progressing to ex vivo mucosal tissue explants, small animal models and nonhuman primates.The evaluation of potential anti-HiV microbicides must consider the possibility of immune cell stimulation,that is when producing a new version of GRFT,it is important to rule out the ability of variants,process contaminants and other impurities toprovoke an immune response.We found that $^ { \\mathsf { O S } } \\mathsf { G R F T }$ did not stimulate the proliferation of the CEM-SS T-lymphocytic cell line used in the cytotoxicityassays (Figure 5a)which at this stage provides confidence that the product does not cause immune cell activation,although further more detailed studies involving the analysis of cytokine levels would be required during preclinical development. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There are several cell lines that are widely used to test the efficacy of HIV microbicides,including PM-1 $C D 4 ^ { + } T$ cells (LussO et al.，1995)and the TZM-bl luciferase reporter cell line (Wei et al.,2oo2).We carried out infectivity assays using TZM-bl cells, which confirmed the potent activity of rice crude extracts containing $^ { \\mathsf { O S } } \\mathsf { G R F T }$ against HIV-1 and achieved almost $100 \\%$ prevention of infection.In terms of safety,cellular models are used to assess the potential cytotoxicity of microbicides,often by measuring the cleavage of a tetrazolium salt (MTT) into a bluecoloured product (formazan) in viable cells (Slater et al.，1963). We found that crude rice endosperm extracts at dilutions of 1/4 and higher showed no significant cytotoxicity against the TZM-bl HeLa cervical epithelium cell line，suggesting that microbicides based on crude rice endosperm extracts are unlikely to cause cytotoxic effects when applied to mucosal surfaces.This result confirms earlier studies with N.benthamiana-produced GRFT, which confirmed its excellent safety profile (Kouokam et al., 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A commercially viable large-scale production platform for GRFT must achieve adequate yields to meet demand,including the recovery rate after purification，if relevant.The recoveryof recombinant proteins purified from rice can range from $1 . 8 \\%$ recovery with $9 5 \\%$ purity to $5 5 . 8 \\%$ recovery with more than $9 9 . 5 \\%$ purity (Ou et al.,2014).Where high purity is nota major requirement (i.e.when using crude extracts for topical application),then the overall productivity of a rice production platform canbe calculated based on the techno-economic evaluation presented by Nandi et al. (2oo2).Assuming grain yields of up to 8 ton/ha，at least $1 . 8 ~ \\mathsf { k g }$ of OSGRFT could be harvested per hectare,which is 4.5-fold higher than the ${ \\sim } 0 . 4 ~ \\mathsf { k g / h a }$ of GRFT possible in N.benthamiana (O'Keefe et al.,2oo9)but lower than $6 . 6 ~ \\mathsf { k g / h a }$ of pure CV-N produced in soybean seeds (O'Keefe et al.,2015). Kaufman and Kalaitzandonakes (2011) have shown that in order to scale up production to meet a demand of $1 0 0 0 ~ \\mathsf { k g }$ of purified recombinant protein per year,at least 550 ha would be required assuming no losses,and nearly 95O ha would be required to accommodate production risks of $20 \\%$ and an anticipated recovery rate of $7 5 \\%$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The broad utility of $^ { \\mathrm { o s } } \\mathsf { G R F T }$ in countries suffering the greatest burden of HiV would also benefit from the absence of intellectual property constraints.FTO analysis based on the simplified procedure described by Miralpeix et al. (2014) revealed four key patents covering GRFT-related technologies， two of which potentially affect the commercial development of ${ } ^ { \\mathsf { O S } } { \\mathsf { G R F T } } ,$ whereas the third is for chimeric proteins,protein combinations and other compositions,and the fourth is limited to monomeric GRFT and therefore does not affect the development of multimeric forms of the protein (Boyd et al.，2011；LiWangand Kagiampakis,2011;O'Keefe et al.，2011，2014).The principal claims made in these patents are summarized in Table S1. Although we have demonstrated that rice is potentially a costeffective production platform for GRFT,the FTO analysis revealed a possibility of patent infringement based on the GRFT sequence. However,the United States National Institutes of Health (NIH), which holds the most pertinent GRFT patents (Boyd et al.,2011, 2011;O'Keefe et al.,2011),has made the conscientious decision not to patent GRFT-related technologies in developing countries so as to allow these countries,many of them those most affected bythe HIV epidemic， to produce GRFT for use by their populations without a licence.This strategy will make O\\$GRFT available royalty free in developing countries (where it is needed most),whereas conventional licensing options would be required in the developed world (Kryder et al.,2000). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,our data show that GRFT can be expressed in rice endosperm with yields comparable to or higher than GRFT produced by transient expression in N.benthamiana.Both the crude extracts and the purified $^ { \\mathrm { o s } } \\mathsf { G R F T }$ showed near identical invitro binding_and HIV neutralization activity to ECGRFT, confirming that $^ { \\mathrm { o s } } \\mathsf { G R F T }$ is correctly folded in planta and remains biologically active in the crude extracts and following purification. The functionality of the crude and purified protein together with theabsence of cytotoxicity shows that rice could be developed as a cost-effective production platform with minimal processing or one-step purification strategies，thus offering the prospect of inexpensive microbicides suitable for deployment in HiV-endemic areas.Preliminary FTO and techno-economic analysis suggests that OSGRFT could be commercially feasible using the humanitarian licensing strategy adopted by the NiH for developing countryapplications and conventional licensing elsewhere. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Expression construct ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The GRFT gene in vector pET- $2 8 \\mathsf { a } ( + )$ was amplified by PCR in a $5 0 ~ { \\mu \\mathrm { L } }$ reaction containing 1.25 units of GoTaq polymerase in the appropriate buffer (Promega，Madison，WI)， $1 ~ \\mu \\mathrm { M }$ each of forward primer $5 ^ { \\prime }$ -TGCATG CAT GGG CAG CAG CCA TCA T$3 ^ { \\prime }$ and reverse primer $5 ^ { \\prime }$ -GGG GAG CTC TTA GTA CTG TTC ATA GTA $G - 3 ^ { \\prime }$ (theunderlined nucleotides are Sphl and Sacl restriction sites introduced to facilitate cloning), $0 . 2 ~ \\mathsf { m m }$ of each dNTP and 250 ng template DNA.The reaction was heated to $9 4 ~ ^ { \\circ } \\mathsf { C }$ for 3 min followed by 35 cycles of $9 4 ~ ^ { \\circ } \\mathsf { C }$ for $4 5 \\ 5 , 6 0 \\ { ^ \\circ } C$ for 45 sand $7 2 ^ { \\circ } C$ for3 min,followed by a final extension step at $7 2 ^ { \\circ } C$ for $1 0 \\mathrm { \\ m i n }$ ．The products were transferred to the shuttle vector pGEM-T Easy (Promega) and introduced into competent $E$ coli cells,which were incubated overnight at $3 7 ^ { \\circ } \\mathsf C$ under ampicillin selection.The integrity of the plasmid DNA was confirmed by sequencing (Universidad Autónoma de Barcelona,Spain) before digestion with Sphl and Sacl to release the expression cassette, which was then inserted into vector pgZ63 containing the endosperm-specific maize zein promoter (Naqvi etal.，2009), therice $\\mathfrak { a }$ -amylase 3A signal peptide sequence (GenBank CAA39776) and a sequence encoding a N-terminal $\\mathsf { H i s } _ { 6 }$ affinity tag (Figure 1b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transformation and recovery of transgenic plants ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Seven-day-old mature rice zygotic embryos (Oryza sativa cv. Nipponbare) were transferred to osmotic medium $( 4 . 4 ~ \\mathrm { g } / \\mathrm { l }$ Murashige & Skoog (MS) powder supplemented with $0 . 3 \\ { \\mathfrak { g } } / |$ casein hydrolysate, $0 . 5 ~ { \\mathfrak { g } } / 1$ proline, $7 2 . 8 ~ 9 1$ mannitol and $3 0 ~ { \\mathfrak { g } } / { 1 }$ sucrose) $4 \\ h$ before bombardment with $1 0 ~ \\mathsf { m g }$ gold particles coated with the GRFT construct and the selectable marker hpt at a $3 : 1$ ratio (Christouetal.,1991;Sudhakaretal.，1998;Valdez et al.,1998).The embryos were returned to osmotic medium for $1 2 \\mathrm { ~ h ~ }$ before selection on MS medium $\\langle 4 . 4 \\ 9 / |$ MS powder, $0 . 3 \\ { \\mathfrak { g } } / |$ casein, $0 . 5 ~ \\mathrm { g } / 1$ proline and $3 0 ~ { \\mathfrak { g } } / 1$ sucrose) supplemented with $5 0 ~ \\mathrm { m g / l }$ hygromycin and $2 . 5 \\mathrm { \\ m g } / 1 2 , 4$ -dichlorophenoxyaceticacid in the dark for 2-3 weeks.Transgenic plantlets were regenerated and hardened off in soil.Plants were grown in the greenhouse or growth chamber at $2 8 / 2 0 ~ ^ { \\circ } C$ day/night temperature with a $1 0 - 1 7$ photoperiod and $6 0 \\% - 9 0 \\%$ relative humidity for the first 50 days,followed by maintenance at $2 1 / 1 8 ^ { \\circ } \\mathsf C$ day/night temperature witha $1 6 - 1 7$ photoperiod thereafterinagrowth chamber. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Enzyme-linked immunosorbent assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The accumulation of GRFT in transgenic endosperm tissue was confirmed by ELISA.Mature rice seeds were ground in three volumes of PBS and centrifuged twice at $1 3 \\ 0 0 0 \\ g$ for $1 0 \\mathrm { \\ m i n }$ at $4 ^ { \\circ } C$ to remove debris.GRFT accumulation was confirmed by coating the wells of ELISA plates with 100 ng recombinant gp120 from HIV-1 strain IB,provided by the MRC Centralized Facility for AIDS Reagents,Potters Bar,UK.Afterwashingand blockingwith $2 . 5 \\%$ bovine serum albumin (BSA）in PBS containing $0 . 1 \\%$ Tween-20 (PBST),serial dilutions of each seed extract were added and protein assembly was confirmed using a primary rabbit antiGRFT polyclonal antiserum (The Binding Site，Birmingham，UK) and a secondary horseradish peroxidase (HRP)-conjugated antirabbit IgGantibody(The Binding Site),each diluted $1 : 1 0 0 0$ . HRP was detected byadding the substrate $3 , 3 ^ { \\prime } , 5 , 5 ^ { \\prime }$ -tetramethylbenzidine(TMB)(Sigma-Aldrich，St. Louis，MO)and reading the absorbance at $4 5 0 \\ \\mathsf { n m }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Purification by affinity chromatography ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mature rice seeds were ground toa fine powder and extracted overnight at $4 ^ { \\circ } C$ in five volumes of lysis buffer $( 5 0 \\mathrm { \\ m u } \\mathsf { N a H } _ { 2 } \\mathsf { P O } _ { 4 } .$ （2 $3 0 0 ~ \\mathsf { m m }$ NaCl, $5 ~ \\mathsf { m m }$ imidazole，pH 8). Insoluble material was removed by centrifuging twice at $8 0 0 0 \\ g$ for $3 0 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } C$ ： Eachsample was loaded onto a Profinity IMAC columnat a flow rate of 2 mL/min.The column was washed twice with wash buffer (50 mM $N a H _ { 2 } P O _ { 4 }$ $3 0 0 \\mathrm { \\ m m \\ N a C l }$ 5 $1 0 ~ \\mathsf { m m }$ imidazole,pH 8) and the protein was eluted four times with elution buffer $( 5 0 ~ \\mathsf { m m }$ $N a H _ { 2 } P O _ { 4 } ,$ $3 0 0 ~ \\mathsf { m m }$ NaCl, $2 5 0 ~ \\mathsf { m m }$ imidazole，pH 8)． Proteincontaining fractions were identified using a NanoDrop 2oo0c UVVis spectrophotometer (Thermo Fisher Scientific,Waltham，MA) based on extinction coefficient at $2 8 0 ~ \\mathsf { n m }$ of the protein,and GRFT concentrations were determined by ELISA (see above). Fractions containing $> 5 0 ~ \\mu \\ g / m L$ GRFT were pooled and concentrated by ultrafiltration usingspin columns witha $3 \\textcircled { \\times } \\textcircled { > } \\textcircled { < }$ molecular weight cut-off (Amicon UItra，EMD Millipore，Darmstadt,Germany). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE and immunoblotting ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The efficiency of protein purification was tested by SDS-PAGE in $4 - 1 2 \\%$ precast Bis-Tris NuPAGE gels (Invitrogen,Carlsbad,CA) using Precision Plus Protein Standards (Bio-Rad，Hercules).Each sample comprised $5 ~ { \\mu \\updownarrow }$ of rice seed extract and $5 ~ { \\mu \\ L }$ SDS loading buffer $\\cdot 0 . 3 \\mathrm { ~ } _ { \\mathsf { M } }$ Tris-HCI $\\mathsf { p H } 6 . 8$ 1 $10 \\%$ (w/v) SDS, $50 \\%$ (v/v) glycerol, $0 . 1 2 5 \\%$ (w/v)bromophenol blue).For immunoblotting,samples were transferred to nitrocellulose membranes using the Hoefer TE70 semidry transfer system (Amersham Biosciences,Piscataway,NJ) and blocked with $5 \\%$ nonfat dried milk in Tris-buffered saline (TBS) $5 0 ~ \\mathsf { m m }$ Tris，150 mM NaCl，pH 7.6).After three washes with TBS containing $0 . 1 \\%$ Tween-20 (TBST)，protein expression was confirmed using the primary rabbit anti-GRFT polyclonal antiserum and a secondary HRP-conjugated anti-rabbit IgG antiserum described above,each diluted $1 : 1 0 0 0$ .The signal was detected using the ECL Plus Western Blotting Detection System (GE Healthcare,Amersham,Little Chalfont,UK). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In vitro gp120-bindingassay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The specific antigen-binding activity of GRFT was determined by coating the wells of ELISA plates with 10O ng recombinant gp120 from HIV-1 strain IIB,provided by the MRC Centralized Facility for AIDS Reagents,Potters Bar,UK.After Washing with PBST and blocking with $2 . 5 \\%$ BSA in PBST，serial dilutions of the GRFT protein were added and the amount of bound protein determined using a primary rabbit anti-GRFT polyclonal antiserum and secondary HRP-conjugated anti-rabbit IgG antiserum diluted $1 : 1 0 0 0$ .The signal was developed with TMB substrate and theabsorbance was read at $4 5 0 \\ \\mathsf { n m }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Microscopy ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Immature rice seeds (15-20 days after pollination) from wild-type plants and transgenic line 6 were fixed and processed for microscopy as previously described (Arcalis etal.，2oo4). Briefly, $1 \\ \\mathrm { m m } ^ { 3 }$ seed fragmentswere fixed in $4 \\%$ (w/v) paraformaldehyde and $0 . 5 \\%$ (v/v）glutaraldehyde in $0 . 1 ~ \\mathsf { M }$ phosphate buffer (pH 7.4) overnight at $4 ^ { \\circ } C ,$ then dehydrated through an ethanol series and infiltrated in LR White resin before polymerization at $6 0 ~ ^ { \\circ } C$ Weprepared 1- $\\mu \\mathrm { m }$ sections for fluorescence microscopy，and ultrathin sections showing silver interference were used for TEM. The sections were incubated with a polyclonal rabbit anti-GRFT antibody and secondary antibodies labelled with Alexa Fluor? 488 for fluorescence microscopy or 10-nm gold particles for electron microscopy.The sections were analysed on a Leica DM5500B fluorescence microscope and a FEl Tecnai G2 electron microscope operatingat $1 6 0 ~ \\mathsf { k V }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whole-cell HIV neutralization assays ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whole-cell HIV neutralization assays were carried out using the 2,3-bis-[2-methoxy-4-nitro-5-sulfophenyl]-2H-tetrazolium-5-carboxanilide inner salt (XTT) tetrazolium system.The HIV-neutralizing activities of $E C _ { G R F T }$ and OSGRFT were compared in CEM-SS cells challenged with $H N - 1 _ { R F }$ (Gulakowski et al.，1991).XTT was provided by the Drug Synthesis and Chemistry Branch,Developmental Therapeutics Program,Division of Cancer Treatment and Diagnosis，National Cancer Institute.CEM-SS cells were maintained in RPMl 164O medium without phenol red and supplemented with $5 \\%$ foetal bovine serum，2 mM L-glutamine and $5 0 ~ \\mu \\mathrm { g / m L }$ gentamicin (BioWhittaker). Exponentially growing cells were washed and resuspended in complete medium,and a $5 0 \\mathrm { - \\mu L }$ aliquot containing $5 \\times 1 0 ^ { 3 }$ cells was added to individual wells of a 96-well round-bottomed microtiter plate containing serial dilutions of $E C _ { G R F T }$ or $^ { \\mathrm { o s } } \\mathsf { G R F T }$ in $1 0 0 ~ \\mu \\iota$ medium. Stock supernatants of $H N - 1 _ { \\mathsf { R F } }$ were diluted in complete medium to yield sufficient cytopathicity $( 8 0 \\% - 9 0 \\%$ cell death in 6 days),and a $5 0 \\mathrm { - \\mu L }$ aliquot was added to the appropriate wells.Additional control wells did not receive viral challenge so as to measure any compound-induced effect on cell growth.Plates were incubated for 6 days at $3 7 ^ { \\circ } \\mathsf C$ and then stained with $\\mathsf { X T T }$ to detect viable cells.The resulting data display both the protection of cells from the cytopathic effects of HiV-1 and any direct cytotoxic effects of the test compounds on CEM-SS cels.All experiments were carried out in triplicate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cell and virus culture ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TZM-bl cells (NIH AIDS Reagent Program)，a HeLa cell line expressing CD4,CCR5 and luciferase (Platt et al.，2009),were grown in continual culture in Dulbecco's modified Eagle medium (DMEM) supplemented with $10 \\%$ foetal calf serum, $1 0 0 \\ \\mathsf { U / m L }$ penicillin, $1 0 0 ~ \\mu \\mathrm { g / m L }$ streptomycin and $2 ~ \\mathsf { m m }$ L-glutamine.HIV1BaL (R5) was grown in PM-1 $\\mathsf { C D 4 ^ { + } }$ T cells. Cell free viral stocks were passed through $0 . 2 \\mathrm { - } \\mu \\mathrm { m }$ filters. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicityand antiviral assays ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The viability of cells following exposure to rice seed crude extracts as well as the cytotoxicity of the crude extracts was assessed using the MTT colorimetric assay as previously described (Mesquita et al.，2oo8).Crude extracts of wild-type and transgenic rice endosperm expressing OSGRFT were diluted to $50 \\%$ concentration; then,a twofold serial dilution was performed.TZM-bl cells $1 0 ^ { 5 } / \\mathsf { w e l l } )$ were cultured in the presence of extracts for $2 4 \\ h$ at $3 7 ^ { \\circ } \\mathsf C$ and titrated in triplicate onto ${ 1 0 ^ { 5 } }$ TZM-bl cells per well. Twofold serial dilutions of the extracts were prepared for testing, and nonoxynol-9 was used as a positive control for cytotoxicity. Viability was determined by measurement of formazan production in cell lysates.Results were expressed as the percentage of cellular viability attained compared to the negative，media-only control,plus or minus the standard deviation (SD).Resultswere expressed as the percentage of cellular viability compared to the negative (medium-only) control $\\pm$ standard deviation (SD). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To investigate any potential antiviral activity of the same crude extracts,the luciferase assay was performed as previously described (Madan et al.,2oo7).Extracts were diluted to $50 \\%$ concentration; then,a twofold serial dilution was performed.TZM-bl cells $( 1 0 ^ { 4 } /$ well)were cultured in the presence of extracts for $7 2 \\mathrm { ~ h ~ }$ at $3 7 ^ { \\circ } C$ with a concentration of HIV-1BaL optimized for infectivity.The extent of viral replication was determined by the quantification of luciferase on cell lysates (Promega，Madison，Wl).Results were presented as the percentage of infection attained relative to the virus-only control，plus or minus the standard error (SE)．To determine the antiviral potency of the same crude extracts,they were titrated onto TZM-bl cells ( $1 0 ^ { 4 }$ cells well) in triplicate and cultured for $7 2 \\mathrm { ~ h ~ }$ With HIV-1BaL using a concentration optimized for infectivity.Twofold serial dilutions of the extracts were prepared for testing. The extent of viral replication was determined by measuring luciferase activity in the cell lysates using a luciferase assay system (Promega，UK)as described by Wei et al. (2002). Results were expressed as the percentage of infection relative to the virus-only control $\\pm$ standard error (SE). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to Dr.Maite Sabalza Gallues for cloning the GRFT gene in the pgZ63 plasmid，Ms. Jennifer Wilson for technical assistance with live-virus anti-HIV assays and Ms.Lauren Krumpe for graphical assistance.In addition,the authors would like to acknowledge funding from the Ministerio de Ciencia e Innovación,Spain (BIO2012-35359),the Centre CONSOLIDER on Agrigenomics funded by MICINN，Spain，and COST Action FA0804 (Molecular farming:plants as a production platform for high value proteins).The authors report no conflicts of interest. This project was funded in whole or in part with federal funds from the National Cancer Institute,National Institutes of Health, under contract HHSN26120080001E，and supported in part by the Intramural Research Program of the NiH，National Cancer Institute， Center for Cancer Research．The content of this publication does not necessarily reflect the views or policies of the Department of Health and Human Services,nor does mention of trade names,commercial products or organizations that imply endorsement by the U.S.Government. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abdool Karim,S.S.and Baxter,C.(2012) Overview of microbicides for the prevention of human immunodeficiency virus. Best Pract. Res. Clin. Obstet. Gynaecol.26,427-439.   \nAlexandre,K.B.,Gray,E.S.,Lambson,B.E.,Moore,P.L.,Choge,I.A.,Mlisana, K.Karim,S.S.et al. (2010) Mannose-rich glycosylation patterns on HIV-1 subtype C gp120 and sensitivity to the lectins,Griffithsin,Cyanovirin-N and Scytovirin.Virology,402,187-196.   \nAn,N.,Ou,J.,Jiang,D.,Zhang,L.,Liu,J.,Fu,K., Dai,Y.et al. (2o13) Expression of a functional recombinant human basic fibroblast growth factor from transgenic rice seeds.Int.J.Mol.Sci. 14,3556-3567.   \nArcalis,E.，Marcel，S.，Altmann,F.，Kolarich,D.，Drakakaki，G.，Fischer，R., Christou，P.et al.(2o04) Unexpected deposition patterns of recombinant proteins in post-endoplasmic reticulum compartments of wheat endosperm. Plant Physiol.136,3457-3466.   \nArfi,Z.A.,Hellwig,S.,Drossard,J.,Fischer,R.and Buyel,J.F.(2015) Polyclonal antibodies for the specific detection of tobacco host cell proteins can be generated more eficiently following RuBisCO depletion and the removal of endotoxins. Biochem.J.(in press).   \nBalzarini,J. (2oo5) Targeting the glycans of gp12O: a novel approach aimed at the Achilles heel of HIV. Lancet. Infect. Dis 5,726-731.   \nBoyd,W.R.,Mori,T.and O'Keefe,B.R.(2011) Griffithsin, glycosylation-resistant griffithsin,and related conjugates,compositions,nucleic acids,vectors,host cells,methods of production and methods of use.United States patent Us 2011/0189105.   \nChristou,P.，Ford,T.L.and Kofron,M.(1991) Genotype-independent stable transformation of rice (Oryza sativa) plants. Bio/Technology,9,957-962.   \nDrakakaki，G.，Marcel，S.，Arcalis，E.，Altmann,F.，Gonzalez-Melendi，P., Fischer,R.,Christou,P.et al.(2oo6)The intracellular fate of a recombinant protein is tissue dependent. Plant Physiol.14, 578-586.   \nEl-Sadr,W.M.,Mayer, K.H.,Maslankowski,L., Hoesley,C., Justman,J.,Gai,F., Mauck,C.et al. (2Oo6) Safety and acceptability of cellulose sulfate as a vaginal microbicide in HIV-infected women.AIDS,20,1109-1116.   \nEmau,P.,Tian,B.,O'Keefe,B.R.,Mori,T.,McMahon,J.B.,Palmer,K.E.,Jiang, Y.et al.(2oo7) Griffithsin,a potent HIV entry inhibitor，is an excellent candidate for anti-HIV microbicide.J.Med.Primatol.36,244-253.   \nForthal,D.N.，Gach,J.S.，Landucci,G.， Jez,J.，Strasser，R.，Kunert，R．and Steinkellner,H. (2O1O) Fc-glycosylation influences Fcy receptor binding and cell-mediated anti-HIV activity of monoclonal antibody 2G12.J.Immunol. 185, 6876-6882.   \nFuqua,J.L.，Wanga,V.and Palmer，K.E.(2015) Improving the large scale purification of the HIV microbicide,griffithsin.BMC Biotechnol.15,12.   \nGiomareli,B.,Provvedi,R.,eacci,F.,aggi,.,Medaglini,D.,ozzi,G.,ori, T.et al. (2002) The microbicide cyanovirin-N expressed on the surface of commensal bacterium Streptococcus gordonii captures HIV-1.A/DS,16, 1351-1356.   \nGiomareli，B.，Schumacher，K.M.，Taylor,T.E.，Sowder，R.C.，Hartley， J.L., McMahon,J.B.and Mori，T. (2Oo6) Recombinant production of anti-HIV protein,griffithsin,by auto-induction ina fermentor culture.Protein Expr. Purif.47,194-202.   \nGulakowski，R.J.，McMahon,J.B.，Staley，P.G.，Moran,R.A.and Boyd,M.R. (1991）A semiautomated multiparameter approach for anti-HiV drug screening.J.Virol.Methods,33,87-100.   \nHaase，A.T.(2O11) Early events in sexual transmission of HIV and SIV and opportunities for interventions.Annu. Rev. Med.62,127-139.   \nHe,Y.,Ning,T., Xie,T.,Qiu,Q., Zhang, L.,Sun,Y.,Jiang,D.et al. (2011) LargeScale production of functional human serum albumin from transgenic rice seeds Prnr Natl Arad Sri 1/SA 108 19078-19083   \nHood,t..,Devalah,S.P.,Fake,G., Egelkrout,E., leoh,K.，Requesens,D.V., Hayden，C.et al.(2012） Manipulating corn germplasm to increase recombinant protein accumulation.Plant Biotechnol.J.10,20-30.   \nIshag,H.Z.A.,Li,C., Huang,L.,Sun,M.X.,Wang,F., Ni,B.,Malik,T.et al. (2013)Griffithsin inhibits Japanese encephalitis virus infection in vitro and in vivo.Arch.Virol.158,349-358.   \nJoshi,S.,Dutta,S.，Bel,B.,Profy,A.,Kuruc,J.,Fang,G.,Cianciola,M.et al. (2006) Documenting intermenstrual bleeding in a vaginal microbicide study:case reports and lessons learned.AIDS Res. Hum.Retroviruses,22, 294-296.   \nKaufman,J.and Kalaitzandonakes,N.(2O11) The economic potential of plantmade pharmaceuticals in the manufacture of biologic pharmaceuticals.J. Commerc. Biotechnol. 17,173-182.   \nKawamura，T.，Gulden，F.O.，Sugaya，M.，McNamara，D.T.，Boris,D.L. Lederman,M.M.，Orenstein,J.M.et al.(2003) R5 HIV productively infects Langerhans cels,and infection levels are regulated by compound CCR5 polymorphisms.Proc. Natl Acad.Sci. USA,100,8401-8406.   \nKouokam,J.C., Huskens, D., Schols, D., Johannemann,A., Riedell, S.K.,Walter, W.,Walker,J.M.et al.(2011) Investigation of griffithsin's interactions with humancells confirms its outstanding safety and efficacy profileasa microbicide candidate.PLoS ONE,6,e22635.   \nKryder，R.D.，Kowalski，S.P.and Krattiger，A.F. (20oO)The Intellectual and Technical Property Components of pro-Vitamin A Rice (GoldenRiceTM):A Preliminary Freedom-To-Operate Review. ISAAA Briefs No.20. Ithaca,NY: ISAAA, 56.   \nLiWang,P.Jand Kagiampakis,I.(2011) Bifunctional grifithsin analogs. United States patent US 2011/0263485.   \nLotter-Stark,H.C.,Rybicki, E.P.and Chikwamba,R.K. (2012) Plant made anti  \nHIV microbicides-a field of opportunity.Biotechnol.Adv.30,1614-1626.   \nLusso,P.,Cocchi,F.，Balotta,C.,Markham,P.D.,Louie,A.,Farci,P.，Pal，R. etal.(1995) Growth ofmacrophage-tropic andprimaryhuman immunodeficiency virus type 1 (HIV-1) isolates in a unique $\\mathsf { C D 4 + }$ T-cell clone (PM1): failure to downregulate CD4 and to interfere with cell-linetropic HIV-1.J.Virol.69,3712-3720.   \nLynch，S.，Ford,N.,van Cutsem，G.，Bygrave，H., Janssens，B.，Decroo,T., Andrieux-Meyer,I. et al. (2012) Public health. Getting HIV treatment to the most people.Science,337,298-300.   \nMadan,R.P.,Mesquita,P.M., Cheshenko,N.,Jing,B.,Shende,V.,Guzman,E., Heald,T.et al.(2oo7) Molecular umbrells: a novel class of candidate topical microbicides to prevent human immunodeficiency virus and herpes simplex virus infections.J. Virol. 81, 7636-7646.   \nMcCormack,S.,Jespers,V.,Low-Beer,N.,Gabe,R.,Kaganson,N., Chapman, A., Nunn,A.et al. (2oo5)A dose-ranging phase Istudy of dextrin sulphate,a vaginal microbicide,in HIV-negative and HIV-positive female volunteers.Sex. Transm. Dis.32,765-770.   \nMcGowan,I. (2006) Microbicides: a new frontier in HIV prevention.Biologicals, 34,241-255.   \nMesquita,P.., Wilson,S.S.,Manlow,P.,Fischeti,L.,Keller,M.J.,Herold,B.C. and Shattock，R.J.(20o8) Candidate microbicide PPCM blocks human immunodeficiency virus type 1 infection in cell and tissue cultures and prevents genital herpes in a murine model.J.Virol.82,6576-6584.   \nMeuleman，P.，Albecka，A.，Belouzard，S.，Vercauteren，K.，Verhoye，L., Wychowski, C.,Leroux-Roels,G.et al.(2O11) Griffithsin has antiviral activity against hepatitis C virus.Antimicrob.Agents Chemother.55,5159-5167.   \nMiralpeix,B.,Sabalza,M.，Twyman,R.M.,Capell,T.and Christou,P.(2014) Strategic patent analysis in plant biotechnology: terpenoid indole alkaloid metabolic engineering as a case study.Plant Biotechnol.J.12,117-134.   \nMori，T.，O'Keefe，B.R.，Sowder，R.C.，Bringans，S.，Gardella，R.，Berg，S., Cochran,P.et al. (2oo5) Isolation and characterization of griffithsin,a novel HIV-inactivating protein,from the red alga Griffithsia sp.J.Biol. Chem.280, 9345-9353.   \nMoulaei,T.,Shenoy, S.R.,Giomarelli, B.,Thomas,C.,McMahon,J.B.,Dauter, Z.，O'Keefe，B.R.et al.(2010)Monomerization of viral entry inhibitor griffithsin elucidates the relationship between multivalent binding to carbohydrates and anti-HIV activity. Structure,18,1104-1115.   \nNandi,S.,Suzuki, Y.A., Huang,J.,Yalda,D., Pham,P.,Wu,L.,Bartley, G.et al. (2002)Expression of human lactoferin in transgenic rice grains for the application in infant formula. Plant Sci.163,713-722.   \nNaqvi,S.,Zhu,C.,Farre,G.，Ramessar，K., Bassie,L.，Breitenbach,J.，Perez Conesa, D.et al. (2O09)Transgenic multivitamin corn through biofortification of endosperm with three vitamins representing three distinct metabolic pathways.Proc. Natl Acad. Sci. USA,106,7762-7767.   \nNing,T., Xie,T.,Qiu,Q.,Yang,W.,Zhou,S.,Zhou,L.,Zheng,C.et al. (2008) Oral administration of recombinant human granulocyte-macrophage colony stimulating factor expressed in rice endosperm can increase leukocytes in mice. Biotechnol.Lett.30,1679-1686.   \nNixon,B., Stefanidou,M.,Mesquita,P.M.M.,Fakioglu,E.,Segarra,T.,Rohan, L.,Halford,W.et al. (2013) Griffithsin protects mice from genital herpes by preventing cell-to-cell spread.J.Virol.87,6257-6269.   \nO'Keefe,B.R.,Murad,A.M., Vianna, G.R,Ramessar,K.,Saucedo,C.J,Wilson, J.,Buckheit,K.W.etal.(2O15) Engineering soya bean seeds asa scalable platform to produce cyanovirin-N,a non-ARV microbicide against HIV. Plant Biotechnol.J.,1-9 [Epub ahead of print].   \nObembe,O.O.,Popoola,J.O.,Leelavathi,S.and Reddy,S.V.(2011) Advances in plant molecular farming. Biotechnol. Adv.29,210-222.   \nO'Keefe,B.RVdaniFuaVaockRJtefioriDake Mirsalis,J.etal.(2O09) Scaleable manufacture of HIV-1 entry inhibitor griffithsin and validation of its safety and efficacy as a topical microbicide component. Proc. Natl Acad.Sci. USA,106,6099-6104.   \nO'Keefe，B.R.，Giomarelli，B.，Barnard，D.L，Shenoy，S.R.，Chan，P.K., McMahon,J.B.，Palmer，K.E.et al.(201O) Broad-spectrum in vitro activity and in vivo efficacy of the antiviral protein griffithsin against emerging viruses of the family Coronaviridae.J. Virol.84,2511-2521.   \nO'Keefe，B.R.，Mori，T.and McMahon，J.B.(2011）Anti-viral grifithsin compounds，compositions，and methods of use.European patent EP 2314349.   \nO'Keefe，B.R.，Wlodawer，A.and Moulaei，T.(2014) Monomeric griffthsin tandemers. International patent WO 2014/197650.   \nOu,J.,Guo,Z,Shi,J.,Wang,X.,Liu,J.,Shi,B.,Guo,F.et al. (2O14)Transgenic rice endosperm as a bioreactor for molecular pharming.Plant Cell Rep.33, 585-594.   \nPatton,D.L., Cosgrove Sweeney,Y.T.，McCarthy,T.D.and Hillier,S.L. (2006) Preclinical safety and effcacy assessments of dendrimer-based (SPL7013) microbicide gel formulations ina nonhuman primate model.Antimicrob Agents Chemother.50,1696-1700.   \nPeters，J.and Stoger，E.(2011）Transgenic crops for the production of recombinant vaccines and anti-microbial antibodies. Hum Vaccines,7,367- 374.   \nPeters,J.,Sabalza,M.，Ramessar，K.,Christou,P.,Capell,T.,Stoger,E.and Arcalis，E.(2O13) Eficient recovery of recombinant proteins from cereal endosperm isafected by interaction with endogenous storage proteins. Biotechnol. J.8, 1203-1212.   \nPlatt,E.J.，Bilska，M.，Kozak，S.L.，Kabat,D.and Montefiori，D.C.(2009) Evidence that ecotropic murine leukemia virus contamination in TZM-bl cells does not affect the outcome of neutralizing antibody assays with human immunodeficiency virus type 1.J.Virol.83,8289-8292.   \nRademacher,T., Sack,M.，Arcalis,E.，Stadlmann,J.，Balzer,S.，Altmann,F., Quendler,H.et al. (2008) Recombinant antibody 2G12 produced in maize endosperm efficiently neutralizes HIV-1 and contains predominantly singleGlcNAc N-glycans.Plant Biotechnol.J.6,189-201.   \nRamessar,K., Capell,T.and Christou,P.(2O08a) Molecular pharming in cereal crops.Phytochem. Rev.7,579-592.   \nRamessar,K.,Rademacher,T., Sack,M., Stadlmann,J., Platis,D., Stiegler,G., Labrou,N.et al. (2oo8b) Cost-effective production of a vaginal protein microbicide to prevent HIV transmission. Proc.Natl Acad.Sci. USA,105, 3727-3732.   \nRamessar,K.,Sabalza,M.,Miralpeix,B., Capell,T.and Christou,P.(2010) Can microbicides turn the tide against HIV? Curr. Pharm.Des.16,468-485.   \nSabalza，M.，Vamvaka,E.，Christou，P.and Capell,T.(2013) Seeds asa production system for molecular pharming applications: status and prospects. Curr. Pharm.Des.19,5543-5552.   \nShattock,R.J.and Rosenberg,Z. (2012) Microbicides: topical prevention against HIV. Cold Spring Harb.Perspect Med.2,a007385.   \nSlater,T.F.,Sawyer,B.and Strauli, U.(1963)Studies on succinate-tetrazolium reductase systems.Ill. Points of coupling of four different tetrazolium salts. Rinrhim Rinnhvc Artə 77 383 3Q3   \nSudhakar, D., Duc, L.T., Bong, B.B.,Tinjuangjun,P., Maqbool, S.B., Valdez, M., Jefferson,R.et al.(1998) An efficient rice transformation system utilizing mature seed-derived explants and a portable，inexpensiveparticle bombardment device.Transgenic Res.7,289-294.   \nTakebe，Y.，Saucedo,C.J.，Lund,G.，Uenishi，R.，Hase，S.，Tsuchiura，T., Kneteman,N.et al. (2013)Antiviral lectins from red and blue-green algae show potent in vitro and in vivo activity against hepatitis C virus. PLoS ONE,8, e64449.   \nUNAIDS(2014) The Gap report.http://www.unaids.org/sites/default/files/ en/media/unaids/contentassets/documents/unaidspublication/2014/UNAIDS_ Gap_report_en.pdf (accessed on 13.2.15).   \nValdez,M., Cabrera-Ponce,J.L., Sudhakar,D., Herrera-Estrella,L.and Christou, P.(1998) Transgenic Central American,west African and Asian elite rice varieties resulting from particle bombardment of foreign DNA into mature seed-derived explants utilizing three different bombardment devices.Ann. Bot. 82,795-801.   \nVamvaka,E.,Twyman,R.M.,Murad,A.M.,Melnik,S.,Teh,A.Y.H.,Arcalis,E., Altmann,F.et al. (2015) Rice endosperm produces an underglycosylated and potent form of the HIV-neutralizing monoclonal antibody 2G12.Plant Biotechnol.J.doi: 10.1111/pbi.12360. (Epub ahead of print).   \nWei,X.,Decker,J.M.,Liu,H.,Zhang,Z.,Arani,R.B.，Kilby,J.M.,Saag,M.S. et al. (2oo2) Emergence of resistant human immunodeficiency virus type 1 in patients receiving fusion inhibitor (T-2O) monotherapy.Antimicrob.Agents Chemother.46,1896-1905.   \nXie,T.,Qiu,Q.,Zhang,W.,Ning,T.,Yang,W.,Zheng,C.,Wang,C.et al. (2008)A biologically active rhlGF-1 fusion accumulated in transgenic rice seeds can reduce blood glucose in diabetic mice via oral delivery.Peptides, 29,1862-1870.   \nXue,J.,Hoorelbeke,B.,Kagiampakis,I.,Demeler,B.,Balzarini,J.and Liwang, P.J.(2013)The griffithsin dimer is required for high-potency inhibition of HIV1:evidence for manipulation of the structure of gp12O as part of the griffithsin dimer mechanism.Antimicrob.Agents Chemother.57,3976- 3989.   \nZhang,L.，Shi,J.，Jiang,D.，Stupak,J.，Ou,Q.，An,N.，Li,J.et al.(2012) Expression and characterization of recombinant human alpha-antitrypsin in transgenic rice seed.J. Biotechnol.164,300-308.   \nZiotkowska,N.E.,O'Keefe,B.R.，Mori,T., Zhu,C.,Giomareli,B.,Vojdani,F., Palmer,K.E.et al. (2oo6) Domain-swapped structure of the potent antiviral protein grifthsin and its mode of carbohydrate binding.Structure,14,1127- 1135.   \nZiotkowska，N.E.，Shenoy，S.R.，O'Keefe，B.R．and Wlodawer,A. (2007a) Crystallographicstudiesofthecomplexesofantiviralprotein griffithsin with glucose and N-acetylglucosamine. Protein Sci. 16，1485- 1489.   \nZiotkowska,N.E.，Shenoy,S.R.,O'Keefe,B.R.，McMahon, J.B.，Palmer，K.E., Dwek,R.A.,Wormald,M.R.et al.(2oo7b) Crystallographic, thermodynamic, and molecular modeling studies of the mode of binding of oligosaccharides to the potent antiviral protein griffithsin.Proteins,67, 661-670. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of thisarticle: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table S1 Patents relevant to the commercialization of $^ { \\mathsf { o s } } \\mathsf { G R F T }$ ",
+        "page_idx": 10
+    }
+]

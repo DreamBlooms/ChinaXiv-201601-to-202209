@@ -1,0 +1,513 @@
+[
+    {
+        "type": "text",
+        "text": "Hyper-spectral characteristics of rolled-leaf desert vegetation in the Hexi Corridor, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WEI Huaidong1,2， YANG Xuemei2.3\\*, ZHANG ${ \\bf B 0 } ^ { 1 }$ , DING Feng²， ZHANG Weixing²,LIU Shizeng², CHEN Fang² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Collge of Geographyand Environment Science,Northwest Normal University,Lanzhou 730070,China;   \n²State KeyLaboratory Breeding Baseof Desertificationand Aeolian Sand Disaster Combating,Gansu Desert Control Research Institute,Lanzhou 730070,China;   \n3KeyLabratoryof Remote Sensing of Gansu Province,Northwest Instituteof Eco-Environment and Resources,Chinese Academy of Sciences,Lanzhou 73oooo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Desert plants survive harsh environment using a variety of drought-resistant structural modifications and physio-ecological systems. Rolled-leaf plants roll up their leaves during periods of drought, making it diffcult to distinguish between the external structures of various types of plants, it is therefore necessry to carry out spectral characteristics analysis for species identification of these rolld-leaf plants.Based on hyper-spectral data measured in the field，we analyzed the spectral characteristics of seven types of typical temperate zone roled-leaf desert plants in the Hexi Corridor, China using a variety of mathematical transformation methods. The results show that: (1) during the vigorous growth period in July and August, the locations of the red valleys, green peaks,and three-edge parameters,namely, the red edge,the blue edge,and the yellow edge of well-developed rolled-leaf desert plants are essentially consistent with those of the majority of terrestrial vegetation types; (2) the absorption regions of liquid water,i.e.，1400-1500 and $1 6 0 0 { - } 1 7 0 0 ~ \\mathrm { \\ n m }$ ，are the optimal bands for distinguishing various types of rolld-leaf desert plants; (3) in the leaf reflectance regions of 700-1250 nm,which is controlled by cellular structure,it is dificult to select the characteristic bands for diferentiation rolled-leaf desert vegetation; and (4) after processing the spectral reflectance curves using a first-order differential,the envelope removal method,and the normalized diferential ratio,we identify the other characteristic bands and parameters that can be used for identifying various types of temperate zone rolled-leaf desert plants,i.e.，the 510-560,650-700 and 1330-1380 nm regions,and the red edge amplitude.In general, the mathematical transformation methods in the study are effective tools to capture useful spectral information for species identification of rolled-leaf plants in the Hexi Corridor. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:roled-leafdesert vegetation;spectral characteristics；mathematical transformation;vegetation identification;Hexi Corridor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: WEI Huaidong,YANG Xuemei, ZHANG Bo,DING Feng,ZHANG Weixing,LIU Shizeng,CHENFang.2019. Hyper-spectralcharacteristicsofrolled-leafdesertvegetation inthe Hexi Corridor,China.JournalofAridLand1(3): 332-344.https://doi.org/10.1007/s40333-019-0013-x ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study of spectral reflectance and spectral determination of diferent vegetation types using remote sensing forms the practical basis for understanding the physical and chemical properties of vegetation， for example， vegetation classification， species identification， monitoring the ecological environment and vegetation (Fang et al., 2O17). To date,the use of hyper-spectral technology has allowed for significant achievements in vegetation identification, phenological monitoring,and biomass and vegetation coverage inversion (Gates et al.,1965; Li, 2O08; Gai et al.,2011; Yang et al.,2016; Liu et al.,2017; Meyer et al.,2017). The specialized study of spectral determination and characteristics of desert vegetation can provide the basis for species identification, remote sensing classfication,and large-scale ecosystem monitoring. For example, Zhao et al. (2009) and Zhang et al.(2012） proposed the optimal hyper-spectral bands for identification of vegetation in the oasis salinization-desert zone in the middle reaches of the Tarim River.Other researchers carried out the studies on the spectral characteristics of the main vegetation species in the Seriphidium transiliense desert grassland in Xinjiang, including grassand degradation areas and areas under enclosure before and after its installation，and identified the main vegetation species in combination with vegetation indices (He et al., 2014; Jin et al.,2014; Xia et al.，2015; Wei et al., 2016). Zhang et al. (2006) determined the spectral reflectance of the canopy and leaves in saline lowland meadow, extremely in arid desert meadow, and desert shrub environments of the desert grassland in Anxi County,located in the arid inland region of Northwest China, and analyzed the main factors influencing the various spectral characteristics of desert-meadow vegetation species. Based on hyper-spectral image analysis of the Shiyang River Basin,located in the Hexi Corridor, Zhang et al. (2Ol2) proposed that since the red edge, green peak, and absorption valley locations of blue and red light remain consistent for different vegetation coverage conditions,and the spectrum absorption characteristics of visible light bands change systematically with increasing coverage, which can be serve as a basis for extracting or determining vegetation coverage. Qian et al. (2Ol3） analyzed typical desert vegetation in Xinjiang and suggested that because of the low vegetation coverage rate, the red edge characteristics,which are affected by the underlying surface, decreased with the decline of vegetation coverage inversion. In addition, several studies explored desert vegetation structure, water content, chlorophyll content, canopy transpiration, and other sensitive band regions that have practical significance in desert ecosystem monitoring (Zhao,2011; Jin et al., 2016; Liu et al., 2017). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are many methods to identify plant species using spectral discrimination, for example, Schmidt et al. (2003) discriminated 27 saltmarsh vegetation species in coastal wetlands based on the Bhattacharyya (BH) and the Jeffries-Matusita (JM) distance measures. The random forest algorithm and a forward variable selection technique were used to identify optimal wavelengths for discriminating the grass species (Mansour et al., 2012). Three-tier hierarchical techniques of one-way analysis of variance (ANOVA), stepwise discriminant function analysis,and canonical function analysis were also used for discriminating increaser species in degraded rangeland (Mansour et al.,2013). ANOVA, classification and regression trees,and JM distance method were used to spectrally discriminate papyrus from other species as well as to reduce and subsequently select optimal bands for the potential discrimination of papyrus (Adam et al.，2009). Comparatively speaking， the common mathematical transformation methods of first-order differential, continuum removal normalization and normalized differential ratio,and three-edge parameters are more widely used in spectral analysis methods for the identification of plant species (Cao et al., 2013; An et al.,2014; Yang et al., 2014; Zarco-Tejada et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Desert plants adopt structural changes in their branches and leaves in order to reduce transpiration in arid desert environments. Some plants have become leafless through foliage reduction or degradation,while others possess succulent stems or leaves that allow for water storage. Others yet have developed protective tissue on their stems (Zhou et al.,2O13). Some plants with leaves that can roll up to resist drought,meanwhile,it is hard to distinguish them because of their similarities in structure, such as the rolled-leaf Poa annua and Elymus dahuricus species.Therefore, it is necessary to study the spectral characteristics of various types of desert plants.However, very few studies have focused on a particular type of desert plants. Furthermore, some studies on desert plants focus mainly on spectral observation and analysis; very few have been carried out for species identification, especially for rolled-leaf plants.In this study， we selected seven types of typical rolled-leaf desert plants, i.e., Poa annua, Stipa purpurea, Stipa grandis, Elymus dahuricus,Achnatherum splendens, Stipa glareosa,and Agropyron cristatum in the Hexi Corridor, China and analyzed their spectral reflectance characteristics for identifying these plant species. The results can be used as a data base for the identification and classification of temperature desert vegetation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Hexi Corridor $( 3 7 ^ { \\circ } 1 7 ^ { \\prime } - 4 2 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N }$ ， $9 3 ^ { \\circ } 2 3 ^ { \\prime } { - } 1 0 4 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { E } )$ is located in the central region of the Eurasian continent and the eastern part of the desert region of Northwest China.,which is mainly located in the western and northern parts of Kumtag，Badain Jaran and Tengger deserts, Northwest China. The region is mainly composed of alluvial and fluvial plains, shallow mountains，oases，deserts，and Gobi. The average annual precipitation in the region is approximately $1 4 0 ~ \\mathrm { m m }$ ， gradually decreasing from southeast to northwest and falling below 50 mm in some areas. The potential evaporation exceeds $1 0 0 0 \\ \\mathrm { m m }$ .Because of the diversity and typicality of its vegetation, the Hexi Corridor is a natural laboratory for studies on the spectral characteristics of temperate vegetation (Zhou, 2Ol3). The vegetation in this region is categorized according to the main strategies that the plants use to cope with the arid environment of the temperate Zone. The main categories are:(1） plants with relatively low water content and extremely drought-resistant thin leaves,(2） succulent plants with fleshy leaves and stems,and plants with succulent stems and extremely atrophied leaves,and (3） plants with leaves that can roll up to resist drought. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Spectral data in field ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, the spectral reflectance of each plot was measured under clear skies between 10:00 (GMT) and 14:00 with an ASD spectrometer (Fieldspec $\\textsuperscript { \\textregistered }$ 4 Standard-Res,USA), which covered the wavelengths of $3 5 0 { - } 2 5 0 0 \\ \\mathrm { n m }$ with a $1 . 5 – \\mathrm { n m }$ sampling interval. The field spectral data were collected between 25 July and 8 August, 2015,when the weather was sunny and cloudless with good light and low wind,and the measurements were obtained during the day between 10:00 and 14:00.We performed a standard whiteboard calibration before recording the measurements to minimize the influence of soil back ground on spectral measurement and decrease the scan diameter to lower than $1 0 \\ \\mathrm { c m }$ based on the field view of the spectrometer of $2 5 ^ { \\circ }$ . Moreover, the vertical downward distance between the sensor and vegetation canopy was approximately $1 0 { - } 2 0 ~ \\mathrm { c m }$ Fifty well-developed specimens from each rolled-leaf desert plant type were selected for spectral measurement in the whole study area. To ensure the quality of spectral information collected in the field,we measured five spectral bands for each plant, and took the averaged values as the reflectance spectra. Of the obtained samples,30 plants were used for analyzing the spectral characteristics of rolled-leaf desert vegetation，and 2O plants were used as test samples for identification. After recording the spectra, the obtained data were compared with the standard spectral reflectance curve and, after any invalid original data were removed, quadrat sampling of the plants was carried out accordingly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Spectral characteristic parameter extraction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Data preprocessing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Surface spectrometers produce a significant amount of noise， which can influence the post-processing analysis.Therefore,we used a Savitzky-Golay filter,which is based on least squares polynomial fiting across a moving window, to smooth the data and remove the noise. Considering the collected data, the spectral reflectance of the $4 0 0 { - } 1 8 0 0 \\ \\mathrm { n m }$ bands is normal, whereas the $1 8 0 0 { - } 2 5 0 0 \\ \\mathrm { n m }$ bands show obvious noise,which masks the spectral reflectance signal of the plants,and is thus eliminated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The visible light spectral reflectance depends mainly on the plant chlorophyll content and the vegetation coverage. The gren peak refers to the maximum spectral reflectance parameter in the range of $5 1 0 \\mathrm { - } 5 6 0 \\ \\mathrm { n m }$ ，which is mainly due to the strong absorption of blue and yellow light by the plant pigment, thus showing up as a strong reflection peak in the green band. The red valley refers to the lowest spectral reflectance in the range of $6 5 0 { - } 6 9 0 ~ \\mathrm { ~ n m }$ (Table 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Three-edge parameters ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The three-edge parameters utilize spectral differential techniques, including mathematical simulation and calculation of diferent orders of differential values of the reflectance spectrum, to quickly determine the wavelength position of the spectrum bending point and the maximum and minimum reflectance. The first derivative reflectance (first-order differential reflectance,FDR) can help to eliminate the atmospheric and soil background efects from the spectral data, by using the following equation (An, 2014): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F D R } _ { \\lambda ( j ) } = ( R _ { \\lambda ( j + 1 ) } - R _ { \\lambda ( j ) } ) / \\Delta \\lambda ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { F D R } _ { \\varLambda ( j ) }$ is the first-order differential reflectance at a wavelength midpoint between bands $j$ and $j { + } 1$ $R _ { \\mathit { \\lambda } \\mathit { \\lambda } ( j + 1 ) }$ is the reflectance at band $j { + } 1 ; R _ { \\mathit { \\lambda } \\mathit { \\lambda } ( j ) }$ is the original reflectance at band $j ;$ and $\\Delta \\lambda$ is the difference in wavelength between $j$ and $j { + } 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The three-edge parameters comprise the red edge,yellow edge,and blue edge (Table 1), which are important spectral parameters used to distinguish the various species of plants. Chlorophyll content is the main factor influencing the red edge，which is an important band indicator describing the pigmentation status and the health condition of vegetation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/79637dd2bd61f3dbed3d4acb61e03a9137dd237bdad70eefe46a64693f3264af.jpg",
+        "table_caption": [
+            "Table 1 Spectral characteristic parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Type</td><td>Definition</td></tr><tr><td>Red edge amplitude</td><td>The maximum first-order differential reflectance in the 68O-76O nm regions</td></tr><tr><td>Red edge position</td><td>The wavelength corresponding to the maximum first-order differential reflectance in the 680-760 nm regions</td></tr><tr><td>Yellow edge amplitude</td><td>The maximum first-order differential reflectance in the 560-640 nm regions</td></tr><tr><td>Yellow edge position</td><td>The wavelength corresponding to the maximum first-order differential reflectance in the 560-640 nm regions</td></tr><tr><td>Blue edge amplitude</td><td>The maximum first-order differential reflectance in the 490-530 nm regions</td></tr><tr><td>Blue edge position</td><td>The wavelength corresponding to the maximum first-order differential reflectance in the 490-530 nm regions</td></tr><tr><td>Red valley</td><td>The lowest spectral reflectance in the 650-690 nm regions</td></tr><tr><td>Green peak</td><td>The maximum spectral reflectance parameter in the 510-560 nm regions</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Envelope removal method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The envelope removal method, also known as the continuum removal normalization method, can amplify the absorption or reflectance peak values and enable the comparison of the spectral absorption characteristics using a common baseline.From the reflectance spectrum curves, suitable bands are selected on the absorption valey,and the band endpoints are set as the start and end points of absorption. The continuous line between the start and end points is called the hull. The envelope removal value on each band is equal to the reflectance value of the band divided by the hull value. The use of spectral curves processed with the envelope removal method amplifies the absorption bands (Schmidt and Skidmore， 2003). The specific calculation process is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC R _ { i } = R _ { i } / R _ { H i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { H i } = R _ { \\mathrm { s t a r t } } + K \\times ( r _ { i } - r _ { \\mathrm { s t a r t } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = ( R _ { \\mathrm { e n d } } - R _ { \\mathrm { s t a r t } } ) / { ( r _ { \\mathrm { e n d } } - r _ { \\mathrm { s t a r t } } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C R _ { i }$ is the envelope value corresponding to band $i ; ~ R _ { i }$ is the spectral reflectance corresponding to band $i$ $R _ { H i }$ is the hull value corresponding to band $i \\mathrm { : }$ $K$ is the hull slope between the endpoints of absorption; $R _ { \\mathrm { s t a r t } }$ and $R _ { \\mathrm { e n d } }$ are the reflectances at the absorption start and end ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "points, respectively; and $r _ { \\mathrm { s t a r t } }$ and $r _ { \\mathrm { e n d } }$ are the wavelengths at the absorption start and end points, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Normalized differential ratio ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The first-order differential can extract the slope information of the spectral curve and weaken the noise interference of the soil background effect, whereas normalization can further highlight the details of spectral characteristics. In this study，we used the first-order differential of the normalized spectrum as the basis,and divided it by the maximum value of the first-order differential，which can further enhance the spectral details and remove the soil background interference.This algorithm is called the normalized differential ratio (An et al.,2O14),and its calculation process is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { r } = \\left( r - \\mu _ { r } \\right) / \\sigma _ { r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { r }$ is the normalized spectral value; $r$ is the original spectral reflectance; and $\\mu _ { r }$ and $\\sigma _ { r }$ are the spectral average value and the standard deviation, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Reflectance spectrum ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure l shows the reflectance spectrum curves of the seven typical rolled-leaf desert plant types in the Hexi Corridor in late July. It can be seen that, although the spectral curve trends are essentially the same in the $4 0 0 { - } 1 8 0 0 ~ \\mathrm { n m }$ regions, subtle differences exist. In the $1 0 2 0 { \\mathrm { - } } 1 1 2 0 ~ \\mathrm { n m }$ regions (located in the leaf reflectance regions of $7 0 0 { - } 1 2 5 0 \\ \\mathrm { n m }$ ，which is controlled by the cellular structure), Agropyron cristatum has the highest reflectance, while Achnatherum splendens has the lowest. In the 140o-1500 nm regions (located in the leaf reflectance regions of 1250-2300 nm), with the exception of Agropyron cristatum and Stipa grandis,there are obvious differences in the reflectance of all the other plants,with Stipa glareosa having the highest reflectance, followed in order by Stipa purpurea, Poa annua, Agropyron cristatum, Stipa grandis,and Elymus dahuricus, with Achnatherum splendens having the lowest reflectance. In general, in the leaf reflectance regions controlled by the cellular structure and water content, Achnatherum splendens has the lowest reflectance，which indicates optimal distinguishability. In addition， in the $1 6 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ regions, there are also significant differences in the reflectance of different plant types. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The green peaks and red valleys of the seven types of typical rolled-leaf desert plants in the Hexi Corridor are located in the 510-560 and $6 5 0 { - } 6 9 0 ~ \\mathrm { n m }$ regions,respectively (Fig.1). In the visible light band, the green peaks average less than $20 \\%$ ,of which the differences between Stipa glareosa and Stipa purpurea are the smallest, and the differences between Stipa grandis and ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d2871631571db7313582efee5688159aa3187686133f50617f590c457e560d7.jpg",
+        "img_caption": [
+            "Fig.1Hyper-spectral curves of the typical rolled-leaf desert plant species in the Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Agropyron cristatum are also the smallst. Achnatherum splendens has the lowest green peak value,followed by Elymus dahuricus.With the exception of Achnatherum splendens and Stipa glareosa, which have the lowest and highest red valley amplitudes,respectively, the red valleys of the other plant types showed less distinctions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Three-edge parameters ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first-order differential spectral curves of rolled-leaf plants show that the three-edge positions of various plants are similar (Fig.2).In contrast to the blue edge and yelow edge amplitude regions,the distinguishability of the rolled-leaf desert plant types in the red edge amplitude region is relatively good, with the exception of Stipa grandis and Agropyron cristatum. The red edge amplitude order is as follows: Stipa purpurea $\\mathrm { > }$ Achnatherum splendens>Elymus dahuricus>Poa annua>Stipa glareosa (Table 2).In addition, as shown in Figure 2,at the 1400 $( \\pm 5 0 )$ nm band location, obvious spectral valleys appear and the diferences between spectral characteristics are relatively clear for allplant types,among which Poa annua has the highest valley value, followed by Achnatherum splendens,Elymus dahuricus, Stipa glareosa,and Stipa purpurea. Stipa grandis and Agropyron cristatum have the lowest valley values. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3b027b5b9570c705f11444446e109ebab0be64f92681c1e407b821577cd0305.jpg",
+        "img_caption": [
+            "Fig.2First-order differential spectralcurvesofthe typical rolld-leaf desert plant species in the Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/76e5e6fb38ee201cc9410bf83703689fb002ef3b73c6f54262706733c94be63a.jpg",
+        "table_caption": [
+            "Table 2Spectral parameters of the typical rolled-leaf desert plant species $( \\times 1 0 ^ { - 3 } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Spectral parameter</td><td>Agropyron cristatum</td><td>Stipa grandis</td><td>Achnatherum splendens</td><td>Elymus dahuricus</td><td>Stipa glareosa</td><td>Poa annua</td><td>Stipapurpurea</td></tr><tr><td>Red valley</td><td>63.60</td><td>60.80</td><td>39.80</td><td>66.00</td><td>147.60</td><td>117.40</td><td>115.70</td></tr><tr><td>Green peak</td><td>90.40</td><td>89.70</td><td>56.90</td><td>71.30</td><td>127.60</td><td>106.30</td><td>126.40</td></tr><tr><td>Red edge amplitude</td><td>4.80</td><td>4.80</td><td>3.80</td><td>2.80</td><td>1.80</td><td>2.20</td><td>4.20</td></tr><tr><td>Blue itade</td><td>1.20</td><td>1.20</td><td>0.70</td><td>0.80</td><td>0.70</td><td>0.70</td><td>1.30</td></tr><tr><td>Yellow edge amplitude</td><td>0.40</td><td>0.30</td><td>0.20</td><td>0.30</td><td>0.50</td><td>0.50</td><td>0.60</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the three-edge amplitudes, green peaks and red valley parameters of the seven types of typical rolled-leaf desert plants, we found that: (1) although the appearances of Stipa grandis and Agropyron cristatum are different, their spectral characteristics are similar; (2） with the exception of Stipa glareosa and Stipa purpurea at the green peak locations and Agropyron cristatum and Stipa grandis at the red edge locations, whose spectral characteristics are rather indistinguishable， the green peaks and the red edges are ideal spectral parameters for distinguishing among these seven types of rolled-leaf desert plants; and (3) in the regions where leaf reflectance is controlled by the water content, Achnatherum splendens has the lowest reflectance,especially in the $1 4 0 0 ~ ( \\pm 5 0 )$ nm reflectance region of the first-order differential, and the different plant species show relatively high heterogeneity, which can help in distinguishing between Agropyron cristatum and Stipa grandis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Spectral absorption characteristics ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 3,after the reflectance curves are processed using the envelope removal method,the spectral characteristics of the visible-light absorption valleys (510-560 and 600-700 nm), the green peaks, and the $1 4 0 0 { - } 1 5 0 0 \\ \\mathrm { n m }$ regions are amplified. The statistical results (Fig. 4) show that the maximum value occurs in $5 1 0 { - } 5 6 0 ~ \\mathrm { n m }$ and the minimum value occurs in 650-700 nm. In addition,the envelope removal values of the different plant species are consistently ordered as follows: Stipa glareosa>Poa annua $\\mathrm { > }$ Stipapurpured $\\mathrm { > }$ Elymusdahuricus $>$ Achnatherum splendens. Achnatherum splendens continues to show the lowest value in the $1 4 0 0 { - } 1 5 0 0 \\ \\mathrm { n m }$ regions. Further, Stipa grandis and Agropyron cristatum are not easily distinguishable in these specific regions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a899cdaeec78058a55c2f7342ea60842bbcbedb82c27c8bbf652834b7c6b8e9.jpg",
+        "img_caption": [
+            "Fig.3Normalized envelopes of the typical rolld-leaf desert plant species in the Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e4e645f32bf412b7d763b99f709aa819329b18ae1d5a479ab334d0224971d2d.jpg",
+        "img_caption": [
+            "Fig.4Spectral absorption characteristics of the typical roled-leaf desert plant species in the Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4 Normalizeddifferential ratio ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to remove the soil background effects and explore the spectral characteristics of rolled-leaf desert vegetation, we used the normalized differential ratio to process the spectral data (Fig. 5). The results show that the vegetation spectral characteristics are relatively obvious in the $1 3 3 0 { - } 1 3 8 0 \\ \\mathrm { n m }$ regions,in which Stipa glareosa has the highest normalized differential ratio, followed by Poa annua. In the 1000 $( \\pm 5 0 )$ nm region, Elymus dahuricus has the highest differential ratio. In general, the field measurements are carried out during the vigorous vegetation growth period and the measured plants are healthy. Moreover, the vertical downward distance between the sensor and the vegetation canopy is approximately $1 0 { - } 2 0 ~ \\mathrm { c m }$ ，ensuring the maximum reduction in the soil background interference effect. Therefore，no obvious improvement in separability is observed after normalized differential ratio processing. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a25b08c95f02378c647973d828e3800b5a1f9f6ff9ce687f6c2d5446b8e8299.jpg",
+        "img_caption": [
+            "Fig. 5 Normalized differential ratios of the typical rolled-leaf desert plant species in the Hexi Corridor ",
+            "Fig.6Flow diagrams of the identification of the typical rolled-leaf desert plant species using the hyper-spectral data "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5 Rolled-leaf desert plant identification and accuracy verification ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on this study of spectral characteristics, we proposed and verified two schemes for the identification of typical rolld-leaf desert plants in the Hexi Corridor using hyper-spectral data. The flow diagrams for both schemes are shown in Figure 6 and are described below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Scheme A Scheme B 1400-1500 nm:lowest average 1400-1500 nm:lowestaverage reflectancevlaue reflectancevlaue No Yes Yes No   \n1330-1380 nm: highest peak value after Achnatherum Achnatherum 1330-1380 nm:highest peakvalue after normalized differential ratio splendens splendens first-orderdifferentiation No Yes Yes No   \n510560rmigpesrpeakal Stipa glareosa>Poa annua Stipa glareosa>Poa annua 650-700nmiighestvalleyvalue No Yes No Yes Highest valiteudf red edge Lighest:Sipa prpurea 1600-1700 nqu: reflectance Stipa purpurea No Yes Elymusdahuricus Agropyroncristatum Agropyroncristatum>Stipa grandis>Elymusdahuricus ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Scheme A: (1) in the $1 4 0 0 { - } 1 5 0 0 ~ \\mathrm { n m }$ regions,Achnatherum splendens has the lowest average spectral reflectance value;(2） after normalized differential ratio processing of the spectral curves,Stipa glareosa has the highest value in the 1330-1380 nm regions,followed by Poa annua; (3) after removing Achnatherum splendens， Stipa glareosa, and Poa annua, and using the normalized envelope method to process the spectral curves, Stipa purpurea has the highest value in the $5 1 0 { - } 5 6 0 ~ \\mathrm { n m }$ regions, and Stipa grandis has the lowest value; and (4) after removing the above five plant species, the red edge amplitude of Agropyron cristatum exceeds that of Elymus dahuricus.The plant identification sequence in Scheme A is as follows: Achnatherum splendens, Stipa glareosa, Poa annua， Stipa purpurea, Stipa grandis, Agropyron cristatum, and Elymus dahuricus. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Scheme B: (1) in the $1 4 0 0 { - } 1 5 0 0 ~ \\mathrm { n m }$ regions, Achnatherum splendens has the lowest average spectral reflectance value;(2） after first-order differential mathematical transformation of the spectral curves, Stipa glareosa has the highest peak value in the $1 3 3 0 { - } 1 3 8 0 \\ \\mathrm { n m }$ regions, followed by Poa annua; (3) after removing Achnatherum splendens, Stipa glareosa,and Poa annua, and using the normalized envelope method to process the spectral curves, Stipa purpurea has the highest valley value in the $6 5 0 { - } 7 0 0 ~ \\mathrm { n m }$ regions; and (4) after removing these four vegetation species,Agropyron cristatum has the highest reflectance value in the $1 6 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ regions, follwed by Stipa grandis，while Elymus dahuricus has the lowest value. The vegetation identification sequence in Scheme B is as follows: Achnatherum splendens, Stipa glareosa, Poa annua, Stipa purpurea, Agropyron cristatum, Stipa grandis,and Elymus dahuricus. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We randomly selected three groups of hyper-spectral reflectance data (Figs. 7a-c) from each of the twenty rolled-leaf desert plant identification test samples. We obtained the average values of the three sets of data (Fig.7d) and analyzed the spectral reflectance characteristics. The three-edge parameters were then extracted (Table 3), and the normalized differential ratio was applied, followed by envelope normalization processing of the reflectance data. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/097b91344530c6f32e0f9baac6323497473623044315e00d3e11ac446f931548.jpg",
+        "img_caption": [
+            "Fig.7Selected three groups of hyper-spectral reflectance curves ofthe typical rolled-leaf desert plant species (a-c) and their average values (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows that the spectral reflectance curve data for the rolled-leaf desert vegetation groups a, b,and c can be distinguished relatively well in the 1400-180O nm regions and especially in the 1400-1500 and $1 6 0 0 { - } 1 7 0 0 ~ \\mathrm { ~ n m }$ regions. During processing the spectral reflectance curves, the peak values in the $1 3 3 0 { - } 1 3 8 0 ~ \\mathrm { n m }$ regions and the red edge amplitude, the valley values in the $5 1 0 { - } 5 6 0 ~ \\mathrm { n m }$ regions and the peak values in the $6 5 0 { - } 7 0 0 ~ \\mathrm { n m }$ regions, we find that there are also diferences between the spectral curves of different rolled-leaf desert plant types (Table 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/56d0d3b03f1e59e62f6a34bc15edc5ff44595731a483b11ae668250054f91381.jpg",
+        "table_caption": [
+            "'able 3Red-edge parameter statistics of the typical rolled-leaf desert plant types $( \\times 1 0 ^ { - 3 } )$ "
+        ],
+        "table_footnote": [
+            "Note: Group d comprises the average values of the three preceding groups a-c. "
+        ],
+        "table_body": "<html><body><table><tr><td>Test group</td><td>Poa annua</td><td>Stipa purpurea</td><td>Stipa grandis</td><td>Elymus dahuricus</td><td>Achnatherum splendens</td><td>Stipa glareosa</td><td>Agropyron cristatum</td></tr><tr><td>a</td><td>2.2</td><td>3.0</td><td>4.7</td><td>2.2</td><td>4.8</td><td>1.6</td><td>4.3</td></tr><tr><td>b</td><td>2.1</td><td>3.7</td><td>4.7</td><td>5.4</td><td>4.6</td><td>2.6</td><td>5.7</td></tr><tr><td>C</td><td>1.9</td><td>3.7</td><td>7.3</td><td>2.9</td><td>5.7</td><td>3.0</td><td>4.8</td></tr><tr><td>d</td><td>2.1</td><td>3.5</td><td>5.6</td><td>3.5</td><td>5.0</td><td>2.4</td><td>4.9</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To ensure that the selected bands,1400-1500,1330-1380,510-560,and $6 5 0 { - } 7 0 0 ~ \\mathrm { n m }$ ,are the optimal regions for distinguishing different species of rolled-leaf desert plants，we used independent-samples test methods，Kruskal-Wailis test and Median test to check whether significant differences existed among these spectrum regions (Table 4). The result shows that these spectrum regions are useful for different rolled-leaf plant species in the Hexi Corridor. All four regions pass both the tests.This indicates that 1400-1500 and $1 6 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ regions are the optimal bands for all types of rolled-leaf desert plant species, while the 1330-1380, 510-560,and $6 5 0 { - } 7 0 0 \\ \\mathrm { n m }$ regions could facilitate the differentiation of the seven rolled-leaf desert plant species considered in this study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4fc53d23b7f3ab779d57329181f4b0dfd667f254404f24f7af3c3a147fa5797.jpg",
+        "table_caption": [
+            "Table 4Significant differences test of the rolled-leaf desert plants in selected spectrum regions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"5\">P value</td></tr><tr><td>1400-1500 nm</td><td>1600-1700 nm</td><td>510-560 nm</td><td>650-700 nm</td><td>1330-1380 nm</td></tr><tr><td>Kruskal-Waillis test</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>Median test</td><td>0.000</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Using schemes A and B,we carried out classification and identification of the randomly selected rolled-leaf desert vegetation groups a,b,and c, as well as their average values d. Based on the accuracy rate statistics (Table 5),we found that both schemes have $100 \\%$ identification accuracy for Achnatherum splendens, Stipa glareosa, and Poa annua. Overall, Scheme A has $100 \\%$ identification accuracy, and Scheme B has an accuracy of greater than $9 5 \\%$ . This shows that the selection of the spectral characteristic bands for identification of the seven typical rolled-leaf desert plant types in the Hexi Corridor in this study is effective,and that both schemes can be used successfully. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1Importance of desert vegetation water content in spectral identification ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The four main absorption regions of liquid water are located at the 970, 12O0, 1450,and $1 9 3 0 \\mathrm { n m }$ band positions,respectively, which is similar to the reflectance spectrum of vegetation leaves and canopy (Gates et al.， 1965). Some studies have suggested that the $1 4 0 5 { - } 1 6 4 6 \\ \\mathrm { n m }$ bands are sensitive to moisture in desert vegetation and can reflect its water content(Zhao,2O11). However, other studies have suggested that the $1 3 7 4 - 1 5 3 4 \\ \\mathrm { n m }$ bands show the best correlation with the water content of desert plants and are the characteristic bands for expressing water content in vegetation(Zhao et al.,2O10). In this study, we find that the spectral characteristics of rolled-leaf desert plants are wel-distinguishable in the 1400-180O nm regions, within which the absorption valleys around the $1 4 0 0 { - } 1 5 0 0 ~ \\mathrm { n m }$ intervals and the reflectance peaks around the $1 6 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ intervals are more distinguishable on the spectral curves of various plant types. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "After processing the spectral data using the normalized differential ratio and the first-order differential algorithm, the spectral characteristics of some types of rolled-leaf desert plant become more evident in the $1 3 3 0 { - } 1 3 8 0 ~ \\mathrm { n m }$ regions.The above characteristic bands,which are located in the reflectance region controlled by the leaf water content ( $( 1 2 5 0 - 2 3 0 0 ~ \\mathrm { n m } )$ ，are used in the identification schemes for the roled-leaf desert plants in this study with good results.This shows that water content is a very important parameter for spectral identification of rolled-leaf desert plants. Prevention of water loss and reducing transpiration are the main strategies used by desert vegetation to adapt to the arid environment. Therefore,it is necessary to further explore the correlation between the reflectance of diferent bands and the water content of desert vegetation. Combining the vegetation water content and other indicators to study the spectral and discriminative characteristics of desert plant species,and using hyper-spectral data to find a more suitable vegetation index that can represent the vegetation water content (Mirzaie et al., 2014) can provide a reference for monitoring and species identification in deserts. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd76637afc702c04c3a17cadc6f3c97362103ff9aa6769cefbee7e899b04d4f6.jpg",
+        "table_caption": [
+            "Table 5 Statistically analyzed accuracy of the rolled-leaf desert plant type identificatic "
+        ],
+        "table_footnote": [
+            "Note: a-d indicate the test groups;(1)-(4) indicate identification attempt; $\\surd$ indicates correct identification;and $\\times$ indicates incorrect identification. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\"></td><td>Species</td><td></td><td colspan=\"9\">a</td><td colspan=\"6\">C</td></tr><tr><td></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr><tr><td></td><td>A.splendens</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td></tr><tr><td>S. glareosa</td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>P. annua</td><td></td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>Scheme</td><td>S. purpurea</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td></tr><tr><td></td><td>S. grandis</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>A. cristatum</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td></tr><tr><td></td><td>E.dahuricus</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td></tr><tr><td rowspan=\"13\">B</td><td></td><td></td><td></td><td>a</td><td></td><td></td><td></td><td>b</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td>d</td><td></td></tr><tr><td>Species</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr><tr><td>A.splendens</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>S. glareosa</td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>Scheme P.annua</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>S. purpurea</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>A.cristatum</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td></tr><tr><td>S. grandis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td>√</td></tr><tr><td>E. dahuricus</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td>√</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2Implications for accurate hyper-spectral identification of desert vegetation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One of the advantages of hyper-spectral data is the fine extraction and identification of target characteristics,and the selection of these characteristics is a key issue in its application (An, 2014). Through processing and analysis of hyper-spectral field data， we gain a better understanding of the spectral characteristics and variation paterns of vegetation communities, and improve the accuracy of vegetation identification, with good results obtained (Zhang,2006; Gai et al., 2011). Although good results are obtained, a larger sample size may increase the difficulty of identification. The next step is to combine the desert vegetation water content, chlorophyll content， canopy transpiration， tissue structure，and other indicators to further explore the characteristic bands of various types of desert plant. Due to the harsh natural selection process, desert plants possess many unique properties, such as having many branches and few leaves, or having mostly needle-like or thorn-like leaves. The hyper-spectral characteristics of desert plants are complex,and widely different spatial characteristics can appear even for the same type of plant in diferent seasons. Therefore, various phenological spectral observations can be combined with diverse vegetation indices and other indicators,to carry out a study on more specific classification of vegetation. In addition, due to low desert vegetation coverage and the significant effect that soil background has on the spectral data, finding ways to improve the detection or elimination of background information, and combining the field mixed spectral data and pure spectral information or the canopy and leaf spectral information for vegetation identification studies，are currently some of the most important and diffcult areas of research related to extraction and recognition of the spectral characteristics of desert vegetation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "During the vigorous vegetation growth period in July and August, the locations of the red valleys $( 6 5 0 - 6 9 0 \\ \\mathrm { n m } )$ ，green peaks $( 5 1 0 - 5 6 0 ~ \\mathrm { { \\ n m } ) }$ ，and three-edge parameters, namely, the red edge $( 6 8 0 - 7 6 0 ~ \\mathrm { n m } )$ ,theblue edge( $( 4 9 0 - 5 3 0 ~ \\mathrm { n m } )$ ,and the yellow edge $( 5 6 0 - 6 4 0 ~ \\mathrm { n m } )$ , of seven typical rolled-leaf desert plant types in the Hexi Corridor,are essentially consistent with those of the majority of terrestrial vegetation types. There are less than $20 \\%$ of green peaks in the visible light spectrum.Based on the analysis of hyper-spectral reflectance data,we consider that the main absorption regions of liquid water, i.e., 140o-1500 and $1 6 0 0 { - } 1 7 0 0 \\ \\mathrm { n m }$ ,are the optimal bands for distinguishing various types of rolled-leaf desert plant. In contrast, it is dificult to select the characteristic bands for differentiation of the various plant types in the leaf reflectance region, which is controlled by the cellular structure, namely, the $7 0 0 { - } 1 2 5 0 ~ \\mathrm { n m }$ regions. After processing the spectral reflectance curves using various mathematical transformation methods, including first-order differential, envelope removal, and the normalized differential ratio,some parameters that are useful for improving identification ability using the hyper-spectral characteristics of rolled-leaf desert plants have been identified. These are the 1330-1380, 510-560 and $6 5 0 { - } 7 0 0 ~ \\mathrm { n m }$ regions,and the red edge amplitude. Based on the analysis of hyper-spectral reflectance characteristics,we proposed two schemes for identification of various types of rolled-leaf desert plant in the Hexi Corridor. The identification accuracy rates of these two schemes exceeded $9 5 \\%$ even reached $100 \\%$ with regards to Achnatherum splendens,Stipa glareosa, and Poa annua species.We conclude that the selection of characteristic bands for identification of typical rolled-leaf desert plant types in the Hexi Corridor in this study is effective，and that the identification schemes can be used successfully. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural ScienceFoundation of China (31760241,41671528),the Gansu Provincial Natural Science Foundation (17JR5RA061),the Gansu Province Basic Research Innovation Group Project (1506RJIA155)，and the Opening Foundation of the State Key Laboratory Breeding Base of Desertification and Aeolian Sand Disaster Combating, Gansu Desert Control Research Institute (GSDC201503). Thanks to the State Key Laboratory of Desertification and Sandstorm Prevention and Control of Gansu Province, and the Minqin National Field Station for Desert Steppe Ecosystem Studies in Gansu Province for providing support in the field investigation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AdamE,Mutanga O.2O09.Spectraldiscriminationof papyrus vegetation(Cyperus papyrus L.)in swamp wetlands using field spectrometry.ISPRS Journal of Photogrammetry and Remote Sensing,64(6): 612-620.   \nAnR,JiangDP,LiXX,etal.2014.Usingyerspectraldatatoeterminespectralcharacteristicsof grasandvegetationin central and eastern partsofThree-river Source.Remote Sensing Technologyand Application,29(2):202-211.(in Chinese)   \nCao W,ShaoQQ,YuXY,etal.2O13.AnalysisofspectralcharacteristicsofInerMongolia'stemperaturesteppeindierent use patterns.Acta Agrestia Sinica,21(2): 243-252.(in Chinese)   \nFang MH,Ju WM,ZhanWF,etal.2017.Anewspectralsimilarity waterindex fortheestimationofleaf watercontentfrom hyperspectral data of leaves.Remote Sensing of Environment,196:13-27.   \nGaiYY,FanWJ,Xu XR,etal.2O11.Flowerspeciesidentificationandcoverageestimationbasedonhyperspectralremote sensing data in Hulunbeir grasslasnd.Spectroscopyand Spectral Analysis,31(10): 2778-2783.(in Chinese)   \nGates D M, Keegan HJ, Schleter JC,et al.1965. Spectral properties of plants. Applied Optics, 4(4): 11-20.   \nHeL,An SZ,JinGL,etal.2014.Analysisonhigh spectralcharacteristicsofdegraded Seriphidium transiliensedesert grassland. Acta Agrestia Sinica, 22(2): 271-276. (in Chinese)   \nJin GL,HeL,AnSZ,etal.2O14.Spectralfeaturesofeightdesertrangeplantsondegradation Seriphidium transiliensedesert grassland. Pratacultural Science,31(10): 1848-1858.(in Chinese)   \nJin J, Wang Q.2O16.Hyperspectral indices basedonfistderivative spectracloselytracecanopytranspiration inadesert plant. Ecological Informatics,35:1-8.   \nLiXS.2008.Quantitativeretrieval ofsparsevegetation cover inarid regions using hyperspectral data.PhD Dissertation. Beijing: Chinese Academy of Forestry. (in Chinese)   \nLiu NF,BudkewitschP,TreitzP.2O17.Examining spectralreflectance features related toArctic percent vegetationcover: Implications for hyperspectral remote sensing of Arctic tundra. Remote Sensing of Environment, 192: 58-72.   \nMansourK,MutangaO,EversonT,etal.2012.Discriminating indicatorgrassspeciesforrangelanddegradationassesment using hyperspectral data resampled to AISA Eagle resolution. ISPRS Journal of Photogrammetry and Remote Sensing,70: 56-65.   \nMansourK,MutangaO,EversonT.2O13.Spectraldiscriminationof increaserspeciesasanindicatorofrangelanddegradation using field spectrometry. Journal of Spatial Science,58(1): 101-117.   \nMeyer H,LehnertLW,WangY,etal.2Ol7.Fromlocalspectral measurements tomapsofvegetationcoverandbiomass on the Qinghai-Tibet-Plateau:Do we need hyperspectral information? International Journal of Applied Earth Observation & Geoinformation,55: 21-31.   \nMirzaie M,Darvishzadeh R,ShakibaA,etal.2O14.Comparativeanalysisof differentuni-and multi-variate methods for estimation of vegetation water content using hyper-spectral measurements.International Journalof Applied Earth Observation and Geoinformation,26:1-11.   \nQian YR,YuJ,JiaZH,etal.213.Extractionandanalysisofhyperspectraldatafromtypical desert grassandin Xinjiang. Acta Prataculturae Sinica,22(1):157-166.(in Chinese)   \nSchmidt K S,Skidmore A K.20o3.Spectral discrimination of vegetation types in a coastal wetland.Remote Sensing of Environment, 85(1): 92-108.   \nWeiXH,JinGL,FanYM,etal.2016.Speciesanalysisandidentificationof spectral characteristicsonSeriphidium transiliense desert grassland.Pratacultural Sciende,33(10): 1924-1932.(in Chinese)   \nXia X W,JinGL,AnSZ,etal.215.Spectralcharacteristicsoftypical plants inSeriphidiumtransilienseesertgasand under enclosure.Pratacultural Science,32(6): 870-876.(in Chinese)   \nYang K,Shen W S,BoL.2014.Research on spectralreflectance characteristics forNaqu typical grassland.Remote Sensing Technology and Application,29(1): 40-45.(in Chinese)   \nYang XM,LiuSZ,YangTB,etal.2O16.Spatial-temporal dynamicsof desertvegetationand itsresponses toclimatic variatios overthe lasthree decades:acase studyofHexiregion inNorthwest China.JournalofAridLand,8(4):556-568.   \nZarco-TejadaPJ,HorneroA,Hernandez-ClementeR,etal.2O18.Understanding thetemporal dimensionof thered-edge spectral region for forest declinedetection using high-resolutionhyperspectraland Sentinel-2a imagery.ISPRS Journalof Photogrammetry and Remote Sensing,137: 134-148.   \nZhao J,ChenX,GuliJ,etal.2O9.SpectraldiscriminationofdesertvegetationintheTarimRiverbasin.JournalofDesert Research,29(2):270-278.(in Chinese)   \nZhao Z,LiX,YinYB,etal.2O10Analysisofspectral features basedon watercontentofdesertvegetation.Spectroscopyand Spectral Analysis,30(9): 2500-2503.(in Chinese)   \nZhao Z.2011.Analysis of spectral features based on water contentof Xinjiang desert plants.MSc Thesis.Xinjiang: Xinjiang Agricultural University. (in Chinese)   \nZhang C M,Zhang JM.2O12.Research on the spectral characteristics of grassand in arid regions based on hyperspectral image. Spectroscopy and Spectral Analysis, 32(2): 445-448.   \nZhangF,TashpolatT,DingL,etal.22.Spectralrflectancecharacteristicsoftypicalhalophytes intheoasissalization desert zone of middle reaches of Tarim River,China.Chinese Journalof Plant Ecology,36(7): 607-617.(in Chinese)   \nZhang K,Guo N,WangR Y,etal.2O06.Research onspectralreflectance characteristics for desert meadowof Northwest China.Advances in Earth Science,21(10): 1063-1069.(in Chinese)   \nZhouLP,WeiHD,DingF,etal.2Ol3.Analysisonspectralreflectancecharacteristicsof desertplants inMinqinbasiof Shiyang River. Journal of Arid Land Resources and Environment,27(3):121-125.(in Chinese) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "基于VSD的近20a来浑善达克沙地生态脆弱性变化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈臻琦¹，张靖}²，张贻龙¹，刘睿1(1.大连民族大学环境与资源学院,辽宁 大连116600；2.辽宁师范大学地理科学学院,辽宁大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：如何协调区域社会经济和人口、资源环境发展，已成为生态环境建设面临的紧迫任务,识别特定地区的脆弱性则是实现有效生态系统管理的前提。以京津风沙源——浑善达克沙地为研究区,采用\"暴露-敏感-适应\"(VSD)模型建立评价指标体系,结合Moran'sI指数与主成分分析,对2000—2019年该沙地生态脆弱性进行评价和驱动机制分析。结果表明：浑善达克沙地生态脆弱性20a间呈现增加的趋势;其生态脆弱性空间上呈集聚现象，表现为西部高-高聚集、东部低-低聚集的分布格局,且具有明显的空间相关性;生态脆弱性的时空分布的异质性是由不同程度的人类活动与气候因素的叠加效应造成的。该研究为浑善达克沙地的生态建设和生态恢复提供理论依据,并提出因地制宜的治理建议和措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态脆弱性；时空格局；驱动机制；浑善达克沙地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在全球气候变化及人类活动双重作用下，土地荒漠化、生物多样性丧失、生态系统退化等一系列生态环境问题加剧1。如何协调区域社会经济和人□、资源环境发展，已成为生态环境建设面临的紧迫而又艰巨的任务[2]。科学认知、评价生态环境状态是进行有效的生态管控的前提之一[3],识别特定地区的生态脆弱性则是应对这些变化的关键[4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态脆弱性指“随着时间和空间的推移，生态系统调节其对压力源的反应的潜力\"5]。作为可持续科学的一部分，国内外学者在理论和方法等方面对生态脆弱性开展了大量工作，评价区域涉及城市和工矿开发[6-7]、自然保护区[8]、黄土高原[9]、生态脆弱区[10-12]等地区，且对我国北方草原区沙地生态系统的研究相对较少。在评价方法上，通常从自然和人类活动两方面选取多个指标组成评价体系[13-14],考虑到评价体系中主观指标可能会导致评估结果的不确定性等问题，伴随着数据的获取手段的增加，学者们逐渐倾向于使用由遥感手段获取的客观指标[15]。为满足对评价指标和信息数据的高效、系统的组织需求[16],充分体现\"人一地\"耦合关系，生态脆弱性理论体系逐渐从以“因素一结果”的方法体系，如“压力一状态—响应\"模型(Pressure State Re-sponse,PSR)[17]、“驱动力一压力一状态—影响一响应—管理\"模型(Driving-force Pressure State ImpactResponse Management,DPSIRM）[i8等，向强调“暴露、敏感性和适应性\"的体系转变[16.9],如\"暴露—敏感性一应对能力\"(Exposure Susceptibility Coping Ca-pacity,ESC)模型[20]、“敏感性—恢复力—压力度\"模型（Sensitivity Recovery Pressure,SRP)[2i]等。其中,Polsky等[19]在后者体系上发展了VSD模型(Vulnera-bility ScopingDiagram)评价流程，因评价指标建立过程逐级递进、流程规范清晰，得到较广泛应用[22]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着数据获取手段、研究方法和研究理论的不断发展，对生态脆弱性时空动态性和驱动机制逐渐进入研究者的视野，应用半方差函数、空间自相关等研究生态脆弱性的空间异质性[23-24]或识别其冷热点[25],采用空间主成分分析法探讨南昌市[26]石羊河流域[27]、宁夏[25]等地区的生态脆弱性时空演变及动因，应用地理探测器分析陕西省和江西省万安县生态脆弱性时空演变及驱动力[17.28]等。然而，随着研究时间跨度的增加，导致生态脆弱性的驱动力可能会发生变化，如气候变化、环境保护政策的实施、土地利用方式的改变等。对于导致生态脆弱性变化的自然因素和人类活动因素的驱动强度是否发生变化，目前研究较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因京津风沙源等生态修复工程的实施，2000年后浑善达克沙地的生态环境有所改善[29]。但因草地开垦、过度放牧等不合理的土地利用与气候暖干化，其脆弱的生态系统更易受到干扰，甚至在某些地区沙漠化再度发展[30],导致该地区可持续发展前景不容乐观[31-32]。因此，本研究以浑善达克沙地为研究区，基于VSD模型构建沙地生态脆弱性评估指标体系，通过评估该地区2000—2019年5期生态脆弱性，揭示其生态脆弱性的时空分布特征，探讨导致其脆弱性变化的驱动机制，以期为该范围内的生态建设和生态恢复提供理论依据，提出因地制宜的治理措施和建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浑善达克沙地位于内蒙古中部锡林郭勒草原南端，是我国著名的四大沙地之一，也是困扰京津冀的沙尘的源头之一，该区生态系统极其脆弱。坐标范围为 $1 1 2 . 0 ^ { \\circ } \\sim 1 1 7 . 5 ^ { \\circ } \\mathrm { E } \\cdot 4 2 . 0 ^ { \\circ } \\sim 4 3 . 5 ^ { \\circ } \\mathrm { N }$ 之间，东西长 $4 5 0 \\mathrm { k m }$ ,平均海拔 $1 2 0 0 \\mathrm { m }$ ;属中温带大陆性气候，年均温 $1 . 5 ~ \\mathrm { { ^ circ C } }$ ;年降雨量约为 $3 6 0 \\mathrm { m m }$ ,全年降雨量的$8 0 \\%$ 以上集中在7—9月。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2生态脆弱性指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考相关研究的基础上[22.26],选取13个指标构建浑善达克沙地生态脆弱性评价体系(表1)，分别对2000年、2005年、2010年、2015年、2019年生态脆弱性进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土地利用/覆被数据，基于中国科学院地理科学与资源研究所1:100000土地利用数据，构建了2000年、2005年、2010年、2015年浑善达克沙地土地利用数据集，其中2019年数据来自对Landsat8OLI遥感数据的土地利用更新解译。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据来源于“中国地面气候资料日值数据集(V3.0)\"(http://data.cma.cn/)。利用浑善达克沙地周边气象站点，获得年均降水、生长季平均降水间隔、极端最高气温天数( $\\left( > 3 3 ~ \\mathrm { } ^ { \\circ } \\mathrm { C } \\right)$ )等指标，在ArcGIS10.3中采用克里金插值法生成栅格图层。而年降水变化率，则选择研究时段前后共 $3 \\mathrm { ~ a ~ }$ ,以Theil-Senmedian趋势表示(公式见文献[33])。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地温采用MODISMOD11A2地表温度产品（2000一2019年，时间分辨率8d、空间分辨率250m,https://ladsweb.modaps.eosdis.nasa.gov/search/),在ArcGIS10.3软件中采用5—9月生长季平均值合成。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/69a51940b2932b6e13dd5bb044c6a031ff12d6f7f2b2a8428ba3d9f17157c3ca.jpg",
+        "table_caption": [
+            "表1生态脆弱性评价指标体系及权重",
+            "Tab.1 The ecological vulnerability evaluation indices system and weight "
+        ],
+        "table_footnote": [
+            "注：a表示所有栅格数据空间分辨率为 $2 5 0 \\mathrm { m }$ ，横轴墨卡托投影（WGS1984UTMZone49N），空间分辨率 $2 5 0 \\mathrm { m } _ { \\odot }$ 。 $^ { + }$ ”表示该指标越大越增加系统脆弱；\"-\"表示该指标越大有利于减少系统脆弱;根据指标对脆弱性影响的情况,分别对正、逆指标进行标准化,将指标值归一化到0\\~1范围内，即值越大对生态脆弱性影响就越大。"
+        ],
+        "table_body": "<html><body><table><tr><td>目标层(权重)</td><td>要素层(权重)</td><td>指标层\"</td><td>指标方向</td><td>指标权重</td></tr><tr><td>暴露度 (0.4934)</td><td>B1人口社会压力</td><td>人口密度/(人·km-2)</td><td>+</td><td>0.0384</td></tr><tr><td rowspan=\"6\"></td><td rowspan=\"3\">(0.2470)</td><td>人均草地面积/(km·人-1)</td><td>一</td><td>0.0488</td></tr><tr><td>牲畜数量/(头·km2)</td><td>+</td><td>0.1598</td></tr><tr><td>地温/℃</td><td>+</td><td>0.0156</td></tr><tr><td rowspan=\"3\">(0.2465)</td><td>年降水变化率/(mm·a-1)</td><td>+</td><td>0.1027</td></tr><tr><td>生长季降水间隔/d</td><td>+</td><td>0.1112</td></tr><tr><td>极端最高温天数/d</td><td>+</td><td>0.0170</td></tr><tr><td rowspan=\"4\">敏感性 (0.3108)</td><td rowspan=\"2\">B3植被覆盖 (0.1726)</td><td>NDVI</td><td>一</td><td>0.0940</td></tr><tr><td>景观多样性</td><td>一</td><td>0.0245</td></tr><tr><td></td><td>景观破碎度</td><td>+</td><td>0.0541</td></tr><tr><td>B4气候</td><td>年均降水量/mm</td><td>1</td><td>0.1382</td></tr><tr><td>适应能力</td><td>(0.1382)</td><td></td><td></td><td></td></tr><tr><td>(0.1958)</td><td>B5 自我调节 (0.1958)</td><td>NPP/(g·m2·a−1) NDVI变化率</td><td>1 +</td><td>0.1305</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归一化植被指数（NDVI），采用MODISMOD13Q1(2000—2019年，时间分辨率16d、空间分辨率 $2 5 0 ~ \\mathrm { m }$ ),在ArcGIS10.3软件中采用最大值合成而得。NDVI变化率，以3a为时间段，采用Theil-Senmedian趋势分析计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被净初级生产力(NPP),采用CASA模型[34],该模型考虑太阳辐射、温度、水分等胁迫因子对植被NPP的影响，计算公式见文献[35]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "景观多样性和景观破碎度，以栅格化后的5期土地利用数据为对象，在Fragstats4.2软件中计算获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人口数量、牲畜数量等社会经济统计数据来源于历年《锡林郭勒盟统计年鉴》。人口密度为各乡镇(或苏木)的总人口/总面积;人均草地面积为各乡镇(或苏木)的草地总面积/总人口；牲畜数量图层则基于NDVI加权的面插值方法获得[36]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "指标权重采用层次分析法(AHP)计算获得，应用yaahp10.3 软件(https://www.metadecsn.com/yaahp/）,采用1\\~9标度法分别对目标层和各要素层的指标进行重要性两两比较打分，构建判断矩阵，并通过一致性检验（检验值分别为 $0 . 0 5 2 , 0 . 1 0 0 , 0 . 0 9 1$ 和0.000)，表明各要素权重结果可信度较高(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3生态脆弱性计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态脆弱性指数(EVI)公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } = \\sum _ { i = 1 } ^ { n } w _ { i } X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：EVI为生态脆弱性指数； $\\boldsymbol { w } _ { i }$ 为第 $i$ 个指标权重； $X _ { i }$ 为第 $i$ 个指标图层。取5期评价结果的自然断点法分级(Naturalbreaks)的均值，作为最终的分级结果[22]：微度脆弱 $\\mathrm { ' } \\mathrm { E V I } { \\leqslant } 0 . 3 4 \\$ ）、轻度脆弱( $( 0 . 3 4 <$ $\\mathrm { E V I } { \\leqslant } 0 . 3 9 .$ 、中度脆弱 $\\stackrel { \\prime } { ( 0 . 3 9 < \\mathrm { E V I } { \\leqslant } 0 . 4 4 ) }$ 、重度脆弱中 $0 . 4 4 < \\mathrm { E V I } { \\leqslant } 0 . 5 0 \\$ ）、极度脆弱（ $\\mathrm { ' E V I } > 0 . 5 0 \\$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4空间自相关分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为精确表达浑善达克沙地生态脆弱性空间特征，在研究区布设 $2 . 5 \\mathrm { k m } { \\times } 2 . 5 \\mathrm { k m }$ 网格，每个网格即生态脆弱性单元区，取值为该网格所包围区域内脆弱性的均值。在ArcGIS10.3软件中，选用全局和局部Moran's $I$ 指数，分别对该沙地5期生态脆弱性指数的空间差异及集聚特征进行分析，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } w _ { i j } ( x _ { i } - \\bar { x } ) ( x _ { j } - \\bar { x } ) } { \\displaystyle S ^ { 2 } \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } w _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { w } _ { i j }$ 为网格 $i$ 与网格 $j$ 之间的空间权重矩阵;$x _ { i } \\setminus x _ { j }$ 为网格的属性值; $n$ 为空间单元数量； $S ^ { 2 }$ 为方差。Moran's $I$ 值的区域为-1\\~1。Moran's $I { > } 0$ 时，表示空间正相关性，其值越大，空间相关性越明显，Moran's $I { < } 0$ 表示空间负相关性，其值越小，空间差异越大，否则，Moran's $\\scriptstyle I = 0$ ,空间呈随机性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5生态脆弱性驱动因素变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析人类活动对该地区生态脆弱性的影响，应用5期土地利用图，以各土地利用类型为统计单元,使用ArcGIS10.3的 Zonal statisticsas Table工具，获得不同研究时段各土地利用类型的生态脆弱性均值，以表征人类活动的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用主成分分析法(PCA），对5期该沙地生态脆弱性评价体系的13个指标进行分析，识别影响其生态脆弱性的驱动因素及其变化特征。其中，驱动因素的强弱以载荷系数表示，该系数类似于回归系数，值越大表示该驱动因子对生态脆弱性影响越大。主成分分析在SPSS22.0软件中完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1生态脆弱性时空变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从时间变化看，2000—2019年浑善达克沙地生态脆弱性由中度脆弱过渡到重度脆弱，总体脆弱性呈增加的趋势，平均脆弱性指数分别为：0.407、$0 . 4 1 1 , 0 . 4 6 9 , 0 . 4 6 2 , 0 . 4 9 7$ 。从空间分布来看，该沙地脆弱性呈现西部区域最高、中部区域次之、东部区域最低的分布格局(图1)。极度和重度脆弱区分布在西部区域，从2000年开始，两类脆弱区逐渐向东部扩张，极度脆弱区由2000年的 $2 . 0 \\%$ 扩展到2019年的 $4 7 . 5 \\%$ ，重度脆弱性分布区域变化与之类似，面积在2010年达到最大值 $( 7 0 . 9 \\%$ ）。除2015年外，20a间该沙地中度脆弱区面积呈现减少趋势，面积比由 $4 8 . 3 \\%$ 锐减到 $1 6 . 6 \\%$ 。轻度脆弱区由该地区的中东部向东部退缩，自2000年的 $3 5 . 7 \\%$ 锐减到2019年的 $2 . 4 \\%$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生态脆弱性空间自相关分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000—2019年浑善达克沙地生态脆弱性具有明显的空间自相关，全局Moran's $I$ 指数分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cc2d65d42b429b39ff1106d29cd8ef64b7d7b96ab88df672d4159b096cad846.jpg",
+        "img_caption": [
+            "注：(a)\\~(e)为各年份生态脆弱性分级，(f)为各年代各级生态脆弱性面积比。",
+            "图12000—2019年浑善达克沙地生态脆弱性空间分布",
+            "Fig.1 The spatial distribution of ecological vulnerability in Otindag Sandy Land from 2Ooo to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.9833、0.9882、0.9743、0.9904和0.9887。局部Moran'sI指数呈区域分布(图2),即高-高聚集区集中在该地西部，低-低聚集区则集中在东部区域。2000年，高-高聚集区面积占比为 $1 0 . 2 \\%$ ,主要分布在苏尼特右旗中部，低-低聚集区集中在浑善达克沙地的中东部区域，面积占比为 $5 . 3 \\%$ 。2005年，高-高聚集区向该沙地西部收缩,面积比减少到 $7 . 8 \\%$ ：低-低聚集区向东收缩(面积比 $4 3 . 7 \\%$ ）。2010年，高-高聚集区面积占比分别比2005年增加 $7 . 8 \\%$ ;低-低聚集区面积较2005年减少 $2 0 . 3 \\%$ ，且由连续分布状态转变成破碎化分布状态（面积比 $4 3 . 7 \\%$ ），表明该时间段浑善达克沙地脆弱性增加。2015年与2019年，高-高聚集区扩展的趋势得到缓解，面积占比分别为 $1 1 . 7 \\%$ 与 $1 0 . 8 \\%$ ,低-低聚集区域面积有所增加，面积比分别为 $4 0 . 7 \\%$ 与 $3 7 . 8 \\%$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同土地利用类型的生态脆弱性特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对2000—2019年不同土地利用生态脆弱性排序为(表2）：水域 $>$ 未利用土地 $>$ 草地 $>$ 居民工矿用地 $>$ 耕地 $>$ 林地。耕地、林地与居民工矿用地的生态脆弱性20a间变化趋势基本相似。三者在2005年出现最低值，在2010年出现最高值;2010年后3种土地利用类型的脆弱性表现出下降或持平的趋势。草地、水域和未利用土地的生态脆弱性在2000一2019年间呈增加的趋势，最低值出现在2000年（分别为0.407、0.419、0.410），最高值出现在2019年(分别为 $0 . 4 5 0 \\ 、 0 . 4 6 6 \\ 、 0 . 4 5 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4生态脆弱性驱动因素分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用主成分分析识别影响浑善达克沙地生态脆弱性的驱动因素及其变化特征。根据共同因素可以解释指标变量 $5 0 \\%$ 变异量的原则，选取因子载荷量>0.71,此时因子载荷量的状况\"甚为理想”[37-38](表3)。对该地区各研究时段第一主成分可知，生态脆弱性主要与反映人类活动的指标（人口密度、牲畜数量等）、气候变化指标(年均降水、生长季降水间隔、年降水变化率和地温等）、植被状态(NDVI和NPP等)指标有关。第二主成分与景观多样性有",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9ae5dc9f145bd257fef491c8d356c3b46cef29f602e0b3ddeada1cfc5a02e5d.jpg",
+        "img_caption": [
+            "注：(a)\\~(e)为各年份生态脆弱性局部Moran'sI分布，(f)为局部Moran'sI不同聚类类型面积比;高-高聚集区表示自身生态脆弱性和周边水平都比较高，低-低聚集区表示自身生态脆弱性和周边水平都比较低。",
+            "图22000—2019年浑善达克沙地生态脆弱性局部Moran's1分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Moran's Icluster diagram of ecological vulnerability of Otindag Sandy Land from 2O00 to 2019关，反映了该地区土地利用变化情况。然而，在20a的时间跨度中，不同年代的生态脆弱性的驱动因素略有不同，人口密度、牲畜数量分别在2010年、2015年对生态脆弱性的影响减弱，人均草地面积指标也有这种趋势；降水因素、NDVI与NPP在整个研究时段内均与生态脆弱性关联较大，降水的多少、植被状态的好坏影响着当地的生态脆弱性。景观多样性指标在2000年、2005年与该地区的生态脆弱性关系较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/98db11bad080609fc00373752fb9340160fc4a1a63582d4684b67a33bd770e18.jpg",
+        "table_caption": [
+            "表22000—2019年不同土地利用类型的生态环境脆弱指数",
+            "Tab.2 Ecological vulnerability index of diferent land use types from 2ooo to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型(2019年面积比)</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td><td>2019年</td><td>平均值</td></tr><tr><td>耕地(3.18%)</td><td>0.377</td><td>0.356</td><td>0.447</td><td>0.424</td><td>0.425</td><td>0.406</td></tr><tr><td>林地(0.83%)</td><td>0.375</td><td>0.363</td><td>0.430</td><td>0.413</td><td>0.419</td><td>0.400</td></tr><tr><td>草地(77.96%)</td><td>0.407</td><td>0.412</td><td>0.469</td><td>0.463</td><td>0.498</td><td>0.450</td></tr><tr><td>水域(1.69%)</td><td>0.419</td><td>0.437</td><td>0.482</td><td>0.470</td><td>0.521</td><td>0.466</td></tr><tr><td>居民工矿用地(0.31%)</td><td>0.386</td><td>0.371</td><td>0.455</td><td>0.435</td><td>0.446</td><td>0.419</td></tr><tr><td>未利用土地(16.03%)</td><td>0.410</td><td>0.417</td><td>0.472</td><td>0.469</td><td>0.508</td><td>0.455</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1生态脆弱性的自然和人类活动驱动因素变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "浑善达克沙地生态脆弱性受到人类活动与气候因素的双重影响，导致生态脆弱性时空分布异质性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）从不同土地利用类型的生态脆弱性变化来看(表2),生态脆弱性与人类土地利用情况有关[15]水域和未利用土地表现出较高的生态脆弱性，可能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表32000—2019年各研究时段生态脆弱性主成分载荷矩阵",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab598c097e56cd4f507a8f3b3d2f5db7621e9779d017002beb1671a5e4467c7c.jpg",
+        "table_caption": [
+            "Tab.3 The load matrix of principal components from 2ooo to 2019 "
+        ],
+        "table_footnote": [
+            "注：表中仅保留了l因子载荷(factorloadings） $| { > } 0 . 7 1 \\$ 的因子载荷;正负向指标均通过归一化,调整为指标值越大对生态脆弱性影响越"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">评价指标</td><td colspan=\"2\">2000年</td><td colspan=\"2\">2005年</td><td colspan=\"2\">2010年</td><td colspan=\"2\">2015年</td><td colspan=\"2\">2019年</td></tr><tr><td>PC1</td><td>PC2</td><td>PC1</td><td>PC2</td><td>PC1</td><td>PC2</td><td>PC1</td><td>PC2</td><td>PC1</td><td>PC2</td></tr><tr><td>人口密度</td><td>0.76</td><td></td><td>0.77</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>人均草地面积</td><td></td><td></td><td>0.86</td><td></td><td></td><td></td><td>0.71</td><td></td><td></td><td></td></tr><tr><td>牲畜数量</td><td>0.84</td><td></td><td>0.90</td><td></td><td>0.81</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>地温</td><td></td><td></td><td>0.79</td><td></td><td>0.77</td><td></td><td>0.81</td><td></td><td>0.80</td><td></td></tr><tr><td>年降水变化率</td><td></td><td></td><td>0.90</td><td></td><td></td><td></td><td></td><td></td><td>0.91</td><td></td></tr><tr><td>生长季降水间隔</td><td>0.92</td><td></td><td>0.93</td><td></td><td>0.89</td><td></td><td>0.93</td><td></td><td>0.94</td><td></td></tr><tr><td>极端最高温天数</td><td>0.84</td><td></td><td></td><td></td><td>0.92</td><td></td><td>0.87</td><td></td><td>0.82</td><td></td></tr><tr><td>NDVI</td><td>0.83</td><td></td><td>0.84</td><td></td><td>0.85</td><td></td><td>0.87</td><td></td><td>0.85</td><td></td></tr><tr><td>景观多样性</td><td></td><td>-0.71</td><td></td><td>-0.79</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>景观破碎度</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>年均降水</td><td>0.96</td><td></td><td>0.96</td><td></td><td>0.96</td><td></td><td>0.95</td><td></td><td>0.95</td><td></td></tr><tr><td>NPP</td><td></td><td></td><td>0.88</td><td></td><td>0.85</td><td></td><td>0.87</td><td></td><td>0.83</td><td></td></tr><tr><td>NDVI变化率 贡献率/%</td><td>51.62</td><td>10.46</td><td>59.33</td><td>9.76</td><td>54.14</td><td>10.94</td><td>53.73</td><td>10.74</td><td>53.86</td><td>11.01</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因年内/年际间降水和蒸发导致水域面积发生变化，裸露的滩地出现较高的植被覆盖度及未利用土地会出现较多的一、二年生植物，因而表现出较高的生态脆弱性；林地拥有较高的生态系统稳定性（或较高的抗外界干扰能力），但同时20a间林地的生态脆弱指数从2000年的0.375增加到2019年的0.419，造成的原因多为榆树疏林是牧民放牧的夏营地，放牧导致榆树幼苗被采食严重，榆树种群更新受阻、多年生草本比例减少、裸沙面积增加[39]；2000—2019年，草地发生退化，高、中、低覆盖草地面积分别变化 $- 4 2 2 . 8 2 \\mathrm { k m } ^ { 2 } , - 2 2 0 . 3 4 \\mathrm { k m } ^ { 2 } , 1 6 9 9 . 7 6 \\mathrm { k m } ^ { 2 }$ ，草地的生态脆弱性较高，且在2019年脆弱性指数逐渐增加至重度脆弱(0.498)；耕地因人工灌溉等因素，表现出比草地更低的脆弱性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）浑善达克沙地脆弱性的空间分布特征亦与气候指标有关。从东部的典型草原带，过渡到西部的荒漠草原带，降水量逐渐减少，导致生态脆弱性呈聚集状分布，即轻度脆弱区(低-低聚集)分布在该地区的东部、重度脆弱区域(高-高聚集)分布在西部(图2)。加之我国北方气候暖干化的发展趋势[40],进一步加剧了该地区生态系统脆弱性。而在临近的坝上地区，因降水作用的影响其生态脆弱性从东向西增强[41],以及在黄土高原神东矿区生态脆弱性也受降水因素的主导[42]，这些地区生态脆弱性均表现出与本研究区域相似的变化特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）导致该地区生态脆弱性变化的自然和人类活动因素在不同研究时段的叠加效应存在差异。由主成分分析可知(表3)，反映人类活动的人口密度、牲畜数量和人均草地面积等指标在2010年或2015年后对生态脆弱性的影响减弱。随着生态恢复工程和生态政策的实施等[29],人类活动增强的趋势受到抑制，而逐渐凸显气候因素对该地区生态脆弱性驱动的主导作用。对2000—2015年锡林郭勒植被NDVI变化驱动力定量分析也发现了类似的现象，NDVI显著减少区域，气候因素的驱动作用超过人类活动因素，而在NDVI显著增加区域，两者关系则相反[43]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2政策建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从区域尺度考虑，以未来空间管制角度出发，浑善达克沙地东部区域生态脆弱性以轻度、中度为主，生态管理措施应侧重于草地资源合理利用与生态保护并举，避免生态脆弱性提高，充分发挥\"京津冀\"生态服务供应地的作用；而该沙地中西部地区脆弱性则以重度及以上为主，需重点强化生态恢复工程、生态移民、减少放牧强度等，恢复生态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从局地尺度人类活动方面来说，过度放牧导致该沙地生态系统退化，进而导致生态脆弱性提高，如何减少放牧压力是解决当地生态脆弱性持续恶化的核心。应避免“一刀切\"的管理模式，综合考虑不同牧户家庭的人口统计因素、牧场规模、草场质量等特点，优化草地产权、实行行政精细化管理、协调牧民利益与生态保育目标[44],做到\"一户一策”，建议包括：改变放牧模式，减少在林地特别是榆树疏林地的夏季放牧，加强幼树的抚育更新，配合周边的典型草原区实行季节性倒场放牧，仅将沙地作为冬季营地使用39，能有效保护沙地植被;改变饲养方式，推广人工草地，将自营式放牧模式调整为集中舍饲的模式[45],同时为牧民提供舍饲技术指导和人工草地建设补贴；实行弹性的禁牧政策，可根据气候条件动态改变休牧时间，在旱季年份适当提高禁牧政策要求，延长休牧时间等，并针对性的给予生态补偿;适当控制牲畜数量，在经济收入不减的情况下，改变畜群饲养结构，如推行“减羊增牛”等措施，减少牲畜采食对植被的破坏。此外，发挥距离津京冀区位近的优势，推动草牧业与旅游、教育、文化、康养等产业的深度融合[46],减少当地农牧民对草地生态系统的依赖，减少环境破坏。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）2000一2019年，浑善达克沙地生态脆弱性时空变化均存在异质性。在时间尺度上，浑善达克沙地生态脆弱性整体呈增加的趋势；在空间尺度上，该沙地生态脆弱性具有明显的空间相关性，高-高聚集区分布在西部、低-低聚集区分布在东部。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）利用VSD模型揭示了导致该沙地生态脆弱时空异质性的驱动机制，其生态脆弱性的时空分布的异质性是由气候与人类活动因素的叠加效应程度不同所造成的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总的看来，本研究基于VSD模型构建了浑善达克沙地生态脆弱性评估指标体系，评估该地区2000一2019年生态脆弱性、时空分布特征及其变化驱动机制，具有一定的理论和实践意义。但研究未通过情景分析的方式，如模拟气候变化、政策实施、社会经济发展等不同情景下该地区脆弱性的变化特征，这是未来需要重点关注的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李永化,范强,王雪,等.基于SRP模型的自然灾害多发区生态脆弱性时空分异研究——以辽宁省朝阳县为例[J].地理科学，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2015,35(11): 1452-1459.[Li Yonghua,Fan Qiang,Wang Xue,et al. Spatial and temporal differentiation of ecological vulnerability under the frequency of natural hazard based on SRP Model: A case study in Chaoyang County[J]. Scientia Geographica Sinica, 2015, 35(11): 1452-1459.]   \n[2]Shao H,Liu M, Shao Q,et al. Research on eco-environmental vulnerability evaluation of the Anning River Basin in the upper reaches of the Yangtze River[J]. Environmental Earth Sciences,2014, 72(5): 1555-1568.   \n[3]Lavorel S,Flannigan MD,Lambin EF,et al.Vulnerability of land systems to fire:Interactions among humans,climate,the atmosphere,and ecosystems[J]. Mitigation & Adaptation Strategies for Global Change,2007,12(1): 33-53.   \n[4]Guo B,Zang W,Luo W.Spatial-temporal shifts of ecological vulnerability of Karst Mountain ecosystem-impacts of global change and anthropogenic interference[J]. Science of The Total Environment, 2020,741: 140256.   \n[5]Williams L R R, Kapustka L A. Ecosystem vulnerability: A complex interface with technical components[J]. Environmental Toxicology and Chemistry,2000,19(4): 1055-1058.   \n[6]马子惠,马书明,张树深.大连市生态脆弱性评价及其不确定性 分析[J].水土保持通报,2019,39(3):237-242.[Ma Zihui,Ma Shuming, Zhang Shushen. Ecological vulnerability assessment and its uncertainty analysis of Dalian City[J].Bulletin of Soil and Wa ter Conservation,2019,39(3): 237-242.]   \n[7]马一丁,付晓,田野,等.锡林郭勒盟煤电基地开发生态脆弱性 评价[J].生态学报,2017,37(13):4505-4510.[Ma Yiding,Fu Xiao,Tian Ye,et al.Analysis of the ecological vulnerability of the coal-electricity base area in Xilinguole League[J].Acta Ecologica Sinica,2017,37(13): 4505-4510.]   \n[8]朱琪,周旺明,贾翔,等.长白山国家自然保护区及其周边地区 生态脆弱性评估[J].应用生态学报,2019,30(5):1633-1641. [Zhu Qi, Zhou Wangming,Jia Xiang,et al.Ecological vulnerability assessment on Changbai Mountain National Nature Reserve and its surrounding areas,Northeast China[J]. Chinese Journal of Applied Ecol0gy,2019,30(5): 1633-1641.]   \n[9]封建民,郭玲霞,李晓华.基于景观格局的榆阳区生态脆弱性评 价[J].水土保持研究,2016,23(6):179-184.[Feng Jianmin,Guo Lingxia,Li Xiaohua.Analysis of ecological vulnerability in Yuyang District based on landscape patern[J]. Research of Soil and Water Conservation,2016,23(6): 179-184.]   \n[10] 王介勇,赵庚星,杜春先.基于景观空间结构信息的区域生态脆 弱性分析——以黄河三角洲垦利县为例[J].干旱区研究, 2005,22(3): 317-321.[Wang Jieyong, Zhao Gengxing,Du Chunxian.Analysis on the regional ecological environment vulnerability based on the information of spatial structure of landscapes: A case study in Kenli Country located in the Yellow River Delta[J].Arid Zone Research,2005,22(3): 317-321.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]蒋友严,韩涛,王有恒,等.石羊河调水10a来民勤绿洲生态脆 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "弱性变化[J].干旱区研究,2014,31(1):157-162.[Jiang Youyan, Han Tao,Wang Youheng,et al. Change of ecological vulnerability in the Minqin Oasis since diversion of the Shiyang River Basin in 10 years[J].Arid Zone Research,2014,31(1): 157-162.]   \n[12]陶希东,赵鸿婕.河西走廊生态脆弱性评价及其恢复与重建[J] 干旱区研究,2002,19(4):7-12.[Tao Xidong, Zhao Hongjie.Study on the vulnerability assessment,restoration and regeneration of the ecology in the Hexi Corridor[J].Arid Zone Research,2002,19 (4): 7-12.]   \n[13] Zang Z,Zou X, ZuoP,et al.Impact of landscape patterns on ecological vulnerability and ecosystem service values: An empirical analysis of Yancheng Nature Reserve in China[J]. Ecological Indicators,2017,72: 142-152.   \n[14]Okey TA,Agbayani S,Alidina H M. Mapping ecological vulnerability to recentclimatechange in Canada's Pacific marine ecosystems[J]. Ocean & Coastal Management, 2015,106: 35-48.   \n[15]Jiang L,Huang X,Wang F,et al. Method for evaluating ecological vulnerability under climate change based on remote sensing: A case study[J]. Ecological Indicators,2018,85: 479-486.   \n[16] 周梦云,蔡永立,张瑞峰,等.宁夏贺兰山国家级自然保护区建 立前后区域生态脆弱性时空格局变化研究[J].生态科学, 2019,38(5): 78-85.[Zhou Mengyun, Cai Yongli, Zhang Ruifeng, et al.The tempo-spatial pattern of regional ecological vulnerability before and after the establishment of National Nature Reserve in Helan Mountainof Ningxia[J].Ecological Science,2019,38(5): 78-85.]   \n[17]张莹,张学玲,蔡海生.基于地理探测器的江西省万安县生态脆 弱性时空演变及驱动力分析[J].水土保持通报,2018,38(4): 207-214.[Zhang Ying,Zhang Xueling, Cai Haisheng. Temporal and spatial evolutions and its driving factors of ecological vulnerability in Wan'an County of Jiangxi Province based on geogdetector [J].Bulletin of Soil and Water Conservation,2018,38(4):207- 214.]   \n[18]Zhang F,Liu X, Zhang J,et al. Ecological vulnerability asessment based on multi-sources data and SD model in Yinma River Basin, China[J]. Ecological Modelling,2017,349: 41-50.   \n[19]PolskyC,Nef R, YarnalB.Building comparable global change vulnerabilityassessments:Thevulnerabilityscoping diagram[J]. Global Environmental Change,2007,17: 472-485.   \n[20] 杨俊,关莹莹,李雪铭,等.城市边缘区生态脆弱性时空演变 以大连市甘井子区为例[J].生态学报,2018,38(7):778- 787.[Yang Jun, Guan Yingying,Li Xueming,et al. Urban fringe area ecological vulnerability space-time evolution research: the case of Ganjingzi District,Dalian[J].Acta Ecologica Sinica,2018,38 (3): 778-787.]   \n[21] 张金茜,李红瑛,曹二佳,等.多尺度流域生态脆弱性评价及其 空间关联性——以甘肃白龙江流域为例[J].应用生态学报, 2018,29(9): 2897-2906.[Zhang Jinxi,Li Hongying,Cao Erjia,et al. Assessment of ecological vulnerabilityin multi-scale and its spatial correlation: A case study of Bailongjiang Watershed in Gansu Province,China[J]. Chinese Journal of Applied Ecology,2018, 29 (9): 2897-2906.]   \n[22] 李平星,陈诚.基于VSD模型的经济发达地区生态脆弱性评价 —以太湖流域为例[J].生态环境学报,2014,23(2):237-243. [Li Pingxing, Chen Cheng. Ecological vulnerability assessment of economic developed region based on VSD model: The case of Taihu basin[J]. Ecology and Environmental Sciences,2014,23(2): 237-243.]   \n[23] 梁二敏,张军民,杨卫红.新疆玛纳斯河流域绿洲景观生态脆弱 性时空分异[J].干旱区研究,2017,34(4):950-957.[Liang Ermin, Zhang Junmin, Yang Weihong. Spatiotemporal variation of landscape ecological vulnerability in Oasis in the Manas River Basin,Xinjiang[J]. Arid Zone Research,2017,34(4): 950-957.]   \n[24] Peng B, Huang Q,Elahi E,et al. Ecological environment vulnerabilityand driving forceofYangtzeRiver urbanagglomeration[J]. Sustainability,2019,11(23): 6623.   \n[25]LiR, Han R, Yu Q,et al. Spatial heterogeneous of ecological vulnerability in aridand semi-arid area: A case of the Ningxia Hui Autonomous Region, China[J]. Sustainability,2O20,12: 4401.   \n[26] 王贝贝,丁明军,管琪卉,等.基于格网的南昌市生态环境脆弱 性评价[J].生态学报,2019,39(15):5460-5472.[Wang Beibei, Ding Mingjun, Guan Qihui, et al. Gridded assessment of eco-environmental vulnerability in Nanchang city[J].Acta Ecologica Sinica,2019,39(15): 5460-5472.]   \n[27] 郭泽呈,魏伟,庞素菲,等.基于SPCA 和遥感指数的干旱内陆 河流域生态脆弱性时空演变及动因分析——以石羊河流域为 例[J].生态学报,2019,39(7):2558-2572.[Guo Zecheng,Wei Wei,Pang Sufei,et al. Spatio-temporal evolutionand motivation analysis of ecological vulnerability in Arid Inland River Basin based on SPCA and remote sensing index: A case study on the Shiyang River Basin[J].Acta Ecologica Sinica,2019,39(7): 2558- 2572.]   \n[28] 张行,陈海,史琴琴,等.陕西省景观生态脆弱性时空演变及其 影响因素[J].干旱区研究,2020,37(2):496-505.[Zhang Hang, Chen Hai, Shi Qiqin, etal.Spatiotemporal evolutionanddriving factors of landscape ecological vulnerability in Shaanxi Province [J].Arid Zone Research ,2020,37(2): 496-505.]   \n[29] Zhao Y,Chi W, Kuang W,et al.Ecological and environmental consequences of ecological projects in the Beijing-Tianjin sand source region[J]. Ecological Indicators,2020,112: 106111.   \n[30] 武洁,史明昌,丁国栋.浑善达克沙地正蓝旗沙漠化时空格局 [J].中国水土保持科学,2019,17(5):110-119.[Wu Jie,Shi Mingchang,Ding Guodong. On the spatio-temporal pattrn of desertification in Zhenglan banner,Hunshandake sandy land[J]. Science of Soil and Water Conservation,2019,17(5): 110-119.]   \n[31]Yang X, Scuderi L,Wang X,et al.Groundwater sapping as the cause of irreversible desertification of Hunshandake Sandy Lands, Inner Mongolia, northern China[J].Proceedings of the National ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Academy of Sciences of the United States of America,2O15:doi: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10.1073/pnas.1418090112.   \n[32] 赵媛媛,武海岩,丁国栋,等.浑善达克沙地土地沙漠化研究进 展[J].中国沙漠,2020,40(5):102-112.[Zhao Yuanyuan,Wu Haiyan,Ding Guodong,et al.A review on the aeolian desertification in the Otindag Sandy Land[J]. Journal of Desert Research, 2020,40(5): 102-112.]   \n[33]刘洋,李诚志,刘志辉,等.1982—2013年基于GIMMS-NDVI的 新疆植被覆盖时空变化[J].生态学报,2016,36(19):6198- 6208.[Liu Yang,Li Chengzhi, Liu Zhihui,et al. Assessment of spatio-temporal variations in vegetation cover in Xinjiang from 1982 to 2013 based on GIMMS-NDVI[J].Acta Ecologica Sinica, 2016,36(19): 6198-6208.]   \n[34] 朱文泉.中国陆地生态系统植被净初级生产力遥感估算及其与 气候变化关系的研究[D].北京:北京师范大学,2005.[Zhu Wenquan.Remote Sensing Estimation of Net Primary Productivity of Terrestrial Ecosystem Vegetation in China and Its Relationship with Climate Change[D]. Beijing: Beijing Normal University.]   \n[35]Allen RG,Pereira L S,Raes D,et al. Crop EvapotranspirationGuidelines for Computing Crop Water Requirements-FAO Irrigation and Drainage Paper 56[M]. Rome: FAO-Food and Agriculture Organization of the United Nations,1998.   \n[36] Zhang J,Li X,Buyantuev A,et al. How do trade-offs and synergies between ecosystem services change in the long period? The case study of Uxin,Inner Mongolia,China[J]. Sustainability,2019,11 (21): 6041.   \n[37]Tabachnick B G,Fidell L S.Using Multivariate Statistics[M]. 5th Edition.Needham Heights,M A: Allyn & Bacon,2007.   \n[38]吴明隆.问卷统计分析实务—SPSS操作与应用[M].重庆：重 庆大学出版社,2010.[Wu Minglong.Practice of Statistical Analysis of Questionnaires-Operation and Application of SPSS[M]. Chongqing: Chongqing University Press,2010.].   \n[39] 姚雪玲,李龙,王锋,等.放牧方式对浑善达克沙地榆树疏林退 化的影响[J].生态学报,2020,40(5):1663-1671.[Yao Xueling, LiLong,Wang Feng, et al. Efects of grazing management on the degradation of Ulmus pumila open forest in Otindag Sandy Land [J].Acta Ecologica Sinica,2020,40(5): 1663-1671.]   \n[40]Lyu Y,Fu B,Feng X,et al.A policy-driven large scale ecological restoration: Quantifying ecosystem services changes in the Loess Plateau of China[J].PLOS One,2012,7(2): e31782.   \n[41] 徐超璇,鲁春霞,黄绍琳.张家口地区生态脆弱性及其影响因素 [J].自然资源学报,2020,35(6):1288-1300.[Xu Cha0xuan,Lu Chunxia,Huang Shaolin. Study on ecological vulnerability and its influencing factors in Zhangjiakou area[J]. Journal of Natural Resources,2020,35(6): 1288-1300.]   \n[42]Lyu X, Xiao W, Zhao Y,et al. Drivers of spatio-temporal ecological vulnerability in an arid,coal mining region in Western China [J].Ecological Indicators,2019,106:105475.   \n[43]史娜娜,肖能文,王琦,等.锡林郭勒植被NDVI时空变化及其 驱动力定量分析[J].植物生态学报,2019,43(4):331-341.[Shi Nana,Xiao Nengwen, Wang Qi, et al. Spatio-temporal dynamics of normalized differential vegetation index and its driving factors in Xilin Gol,China[J].Chinese Journal of Plant Ecology，2019,43 (4): 331-341.]   \n[44] 姜晓群,林哲艳,时钰,等.美国公共放牧地管理政策演进的历 史经验[J].草业学报,2020,29(11):14.[Jiang Xiaoqun,Lin Zheyan,Shi Yu,et al. Historic experience from American public range land management policies[J].Acta Prataculturae Sinica, 2020,29 (11): 14.]   \n[45] Zhang J,Niu J,Buyantuev A,et al.A multilevel analysis of effects of land use policy on land-cover change and local land use decisions[J]. Journal of Arid Environments,2014,108: 19-28.   \n[46] 孙特生,包亚琴,李文彦.基于草地资源可持续利用的干旱半干 旱区草牧业发展策略- -以新疆阿勒泰地区为例[J].生态 学杂志,2020,39(10):3509-3520.[Sun Tesheng,Bao Yaqin,Li Wenyan. Strategy on the development of grass-based livestock husbandry in the arid and semi-arid region based on sustainable utilization of grassland resources: A case study of Altay,Xinjiang, China[J]. Chinese Journal of Ecology,2020,39(10): 3509-3520.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal patterns variation of ecological vulnerability in Otindag Sandy Land based on a vulnerability scoping diagram ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHEN Zhenqi'， ZHANG Jing1²， ZHANG Yilong'， LIU Rui' (1. College of Environment and Resources,Dalian Minzu University,Dalian 1166oo,Liaoning, China; 2.School of Geography,Liaoning Normal University,Dalian 116O29,Liaoning, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The question of how to coordinate social and economic development,population growth,resource consumption,and environmental protection has become an urgent topic for regional sustainability development. Identifying the ecological vulnerability (EV)of specific areas is the precondition to achieving efective ecosystem management for sustainability.However,the driving forces of EV,including climate change，environmental protection policies,and land use,may change over a long period of time,affecting the spatio-temporal patterns of EV.Taking Otindag Sandy Land as the research area, we used the“Vulnerability Scoping Diagram” framework to establish the evaluation index system.Using Moran‘s $I$ index and principal component analysis (PCA),we evaluated the spatio-temporal distribution paterns of EVof this sandy land,and we also analyzed its driving mechanism from 2000 to 2019.The findings revealed that: (1) the EVof Otindag Sandy Land has exhibited an increasing trend over the past two decades; (2) the EVofthis area presents an agglomeration distribution pattern with obvious spatial auto-corelation on spatial extent,in which the high-high cluster ofEVis distributed inthe western region,and the low-low cluster of EV is located in the eastern region; (3） the heterogeneity of the temporal and spatial distribution ofEVis due to the synergistic efect of human activities and climate factors at diferent levels.According to the factor loadings matrix ofPCA,after 2010 or 2015,the influence of indicators such as the population density,the numberof livestock,and the per capita grassand area on the EVof this region has either weakened or been restrained by the implementation of ecological restoration projects and ecological policies.Meanwhile climate factors have gradually highlighted the leading role in driving EV in this region.This study provides a theoretical basis for the ecological construction and ecological restoration of Otindag Sandy Land,and puts forward some suggestions and measures for ecosystem management.At the regional level, from the perspective of future spatial planning,the EV in the eastern part of Otindag Sandy Land is mild to moderate, and ecological management measures should focus on harmonizing rational utilization of grassand resources with ecological protection. Meanwhile,the EV in the central and western regions of this area is severe to extreme, and it is thus necessary to strengthen ecological restoration projects and ecological migration to reduce grazing pressure on sandy land.At the local level,while comprehensively considering the demographic factors,pasture size,and grassand quality of herdsmen households,we should optimize grassand property rights and coordinate the interests of herdsmen with the goal of ecological conservation to achieve the fine administrative management “one household, one eco-management measures\". ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ecological vulnerability; spatio-temporal pattern; driving forces; Otindag Sandy Land ",
+        "page_idx": 9
+    }
+]

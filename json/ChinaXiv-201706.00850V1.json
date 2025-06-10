@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201605200974 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高春蕾,孙萍,贾智慧,姜美洁,赵翠琼,张学雷,吴振兴,梁成珠.温度和营养盐限制对网状原角藻生长与产毒的影响.生态学报,2017,37（12)：4217-4226.  \nGaoCL,Sun,JiaZH,JgJaoQagXLuXiagCZEtsftepeatureutrtliiatiogrowdooproductionof Protoceratiumreticulatum.Acta Ecologica Sinica,2017,37(12）:4217-4226.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温度和营养盐限制对网状原角藻生长与产毒的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高春蕾1,2,3，\\*，孙萍1,2,3,4，贾智慧1，姜美洁1,2,3，赵翠琼5，张学雷1,2,3，吴振兴，梁成珠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1国家海洋局第一海洋研究所，青岛266061  \n2 青岛海洋科学与技术国家实验室 海洋生态与环境科学功能实验室，青岛266061  \n3国家海洋局海洋环境与科学重点实验室，青岛266061  \n4中国海洋大学，青岛266003  \n5国家海洋局东海预报中心，上海200081  \n6 山东出入境检验检疫局检验检疫技术中心，青岛266002",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：网状原角藻（Protoceratium reticulatum）是能够形成有毒赤潮的海洋甲藻之一,所产毒素为虾夷扇贝毒素（yessotoxins，YTXs),该藻在全球很多海域中普遍存在,其生长与产毒特征表现出较强的海域差异性。以分离自我国北黄海海域的网状原角藻为实验对象,研究了温度和营养盐(N、P)限制对该藻生长与产毒的影响。研究发现:温度和营养盐限制对藻细胞的生长和产毒均有影响,但营养盐限制影响更为显著。较低的温度更适宜 $P$ ，reticulatum的生长， $1 5 \\mathrm { ^ { \\circ } C }$ 时无营养盐限制的 $\\mathrm { \\Delta L } _ { 1 }$ -Si培养基中藻细胞生长最好。营养盐限制尤其是P限制能够显著降低藻细胞的比生长速率和细胞密度( $\\scriptstyle P < 0 . 0 1 \\$ ),缩短藻细胞指数生长期和稳定期的持续时间。所有温度下N、P限制均有利于藻细胞内毒素累积， $1 5 ^ { \\circ } \\mathrm { C P }$ 限制培养基中单个藻细胞中YTX毒素最高,达到 $9 2 . 6 ~ \\mathrm { p g / }$ 细胞,分别是相同培养温度下N限制和L,-Si中藻细胞毒素含量的3.8倍和7.1倍。温度变化对N和P限制下藻细胞毒素含量影响不同：在5— $1 5 \\mathrm { ^ { \\circ } C }$ 范围内,随温度升高,N限制培养基中藻细胞YTX含量增幅逐渐下降,而P限制条件下反之。在所有培养条件下，滤液中毒素含量在稳定期后开始增多，与 $\\mathrm { L } _ { 1 }$ -Si相比, $_ { \\textrm { N } , \\textrm { P } }$ 限制不利于毒素的释放。高温能促进 $\\mathrm { L } _ { 1 }$ -Si培养基和N限制培养基中毒素的释放，但对P限制影响不显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网状原角藻;营养盐限制;温度;虾夷扇贝毒素;北黄海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of temperature and nutrient limitation on growth and yessotoxin production of Protoceratium reticulatum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Chunlei1,2.3\\*，SUN Ping1,2.34，JIA Zhihui'，JIANG Meijie1.2.3，ZHAO Cuiqiong $^ { 5 }$ ， ZHANG Xuelei1, 2.3 , WU Zhenxing6,LIANG Chengzhu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 First Institute of Oceanography，State Oceanic Administration，Qingdao 266061,China   \n2Laboratoryfodtalced；lbtofoineecechingd   \n3KeyLaboratoryofrinEcoogicalErometalSieceandEngineeing，StateOceanicdministratinQingdo6China   \n4 Ocean University of China， Qingdao 266003,China   \n5East China Sea Forecast Center，State Oceanic Administration，Shanghai 2Ooo81,China   \n6InspectionandQuarantinetechnologyCenterofhandongEntry-Exit IspectionandQuarantineBureau，Qingdao60Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金(41206161);海洋公益性行业科研专项经费项目（201305010);国家海洋局第一海洋研究所基本科研业务专项资金  \n项目（2012T08,GY2013G28)；国家基金委-山东省联合基金项目“海洋生态与环境科学\"（U1406403）；青岛市创业创新领军人才项目计划（13-  \nCX-28)  \n收稿日期:2016-05-20；修订日期:2017-01-16  \n\\*通讯作者 Corresponding author.E-mail：gaochunlei $@$ fio.org.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Protoceratiumreticulatum,amarinedinoflagellatethat producesyesstoxins（YTXs），iscommonincoastal waters worldwideandcan form toxicalgal blooms.Thereare marked differencesinitsgrowthand toxin-producing characteristics indiferentareas.Thisstudyinvestigatedthe effectsof temperatureand nutrient（N，P）limitationonthe growth and toxin production of $P$ .reticulatum recently isolated from the North Yellow Sea. The results showed that temperatureandnutrientlimitationafectedgrowthand toxinproductionof thealga todifferentdegrees，but nutrient limitation had a more significant influence.Lower temperatures were more suitable for the growth of $P$ . reticulatum. Growth of algal cells in $\\mathrm { L } _ { \\mathrm { 1 } }$ -Si medium without nutrient limitation was best at $1 5 \\mathrm { ^ { \\circ } C }$ .P limitation greatly reduced the specific growth rate and cell density ( $P < 0 . 0 1$ ），and shortened the duration of the exponential and stationary phases.N-limited cultures, in contrast，resulted in a growth rate and maximum cell density similar to those in $\\mathrm { L } _ { \\mathrm { 1 } }$ -Si medium，but with a shorter stationary phase.At all temperatures，both N and $\\mathrm { \\Delta P }$ limitation were favorable for the accumulation of YTX in algal cells, which was particularly marked inthelater.The maximum YTXcontent of 92.6pg/cellwas observed in1/10P medium at （204 $1 5 \\mathrm { ^ { \\circ } C }$ at the end of the stationary phase.This was approximately3.8 times and7.1 times that oftheYTX in the Nlimited and $\\mathrm { L } _ { \\mathrm { 1 } }$ -Si mediumat the same culture temperature,respectively.Changes in temperature had diferent influences on thecontent of intracellular YTX in N-and P-limitation cultures.In the range of 5— $1 5 \\%$ ， temperature change had a negative effect on YTX increaseunder Nlimitation，whereas inP-limited medium,the efect was positive.Inallcultureconditions,the YTX concentrationinthefltratebegantoincreaseduringthestationaryphase.Compared withL-Si，bothN-andP-limited media were notconducivetothereleaseof toxins.Higher temperaturehelpful toYTXreleaseintheL-SiandN-limited media，but it did not significantly affect that in the P-limited medium. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Protoceratium reticulatum；nutrient limitation；temperature;yessotoxim （YTX）；North Yellow Sea ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来,有毒有害赤潮在全球很多海域中频繁发生,对当地的水产养殖、旅游、人类健康和生命安全等造成了极大的危害。有毒赤潮的危害不仅取决于赤潮藻的生物量，还受到藻细胞毒素含量的影响。对于能够形成有毒赤潮的甲藻,其生长和产毒会受到许多因素的影响,其中营养物质、温度、盐度、光照等都是非常重要的影响因子。但环境因素对藻细胞生长与产毒的影响因藻种而异,相同环境条件下,不同的藻结果可能完全不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网状原角藻(Protoceratium reticulatum)是广泛分布于全球近岸海水中并能够形成赤潮的有毒甲藻之一，是第一个被确认产生虾夷扇贝毒素（yesotoxins，YTXs)的单细胞藻类[1],已在新西兰[2-4]、日本[5-6]、挪威[7-8]意大利[9] 、英国和加拿大[10]、西班牙和美国[1-2]、德国[13]等国的近岸海水中分离到。该藻所产的虾夷扇贝毒素是一类毒性较强的细胞毒素[14J5],心脏、肝脏、神经系统、免疫系统、细胞溶酶体、胸腺等都有可能是 YTXs作用的靶器官[16]。贝类通过滤食藻细胞将YTXs在体内累积转化并沿食物链传递,对贝类消费者及人类健康及生命安全造成了潜在的威胁。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对该藻的研究大多集中于其所产毒素的种类、结构及毒素的检测方法等,对于环境因子对网状原角藻生长和产毒的影响的研究并不是太多。2001年,Seamer[17]最早开展了温度、光照、盐度、营养盐单因素变化对新西兰海域的网状原角藻生长及产毒的影响研究;2004年,Mitrovic[18]等报道了微量元素Fe、Se和Co对相同海域中网状原角藻生长和产毒的影响;之后， $\\mathrm { P a z }$ 等[19]和Rodriguez等[20]分别报道了温度、光照和盐度及成倍提高 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 中大量营养盐(N、P)的浓度对西班牙海域的网状原角藻生长与产毒的影响;Guerrini[21]等以分离自意大利亚得里亚海的网状原角藻为研究对象,研究了盐度、温度及营养盐对该藻产毒的影响；Roder等[13]报道了盐度、温度及营养盐对北海德国湾的网状原角藻生长与产毒的影响。通过分析已有的研究发现,环境因子会强烈影响藻细胞密度和藻毒素的种类与组成，但是由于采用了不同地理株系开展研究,很多情况下即使环境因子相同得到的结果却不同甚至相互矛盾。可见,藻株生长、YTXs合成及毒素组分的变异性与藻株的地理分布密切相关[5,8-9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国也是有毒赤潮高发的国家之一，贝类中赤潮毒素沾染情况亦较严重,而YTXs毒素是近年来贝类中累积含量较高的毒素之一,如陈建华等从2011年采自北黄海海域的虾夷扇贝样品中检测到的YTX毒素含量竟高达 $6 . 6 8 \\times 1 0 ^ { 3 } \\mu \\mathrm { g / k g }$ [22],大大超出了欧盟规定的安全食用标准 $( 3 7 5 0 ~ \\mu \\mathrm { g / k g } )$ ,严重威胁消费者的食用安全。2014 年国家海洋环境监测中心梁玉波研究团队成功从北黄海海域分离纯化到1株网状原角藻,这也是目前国内首次分离到产YTXs的网状原角藻,为进一步研究该藻生长、产毒、赤潮发生发展及防控、毒素危害及致毒机理等提供了最基本的研究材料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于是首次在我国海域中分离到网状原角藻,关于该株藻生长和产毒的相关信息尚为空白,加之近海贝类中YTXs污染情况严重,进行相应的研究就显得非常迫切和必要。本研究以北黄海域的网状原角藻为研究对象,选择对藻细胞生长和产毒影响比较显著的两个环境因子——温度和营养盐,研究不同温度和N P营养盐限制条件下该藻的生长与产毒情况的变化,为更深入地了解该藻存在、大量繁殖与现场环境因子之间的联系,补充该藻的生理生态学相关信息,预防该藻赤潮爆发及海洋食品安全提供数据参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 藻种培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验用网状原角藻采自北黄海海域，经分离纯化而得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "藻种培养所用海水取自青岛石老人海水浴场,盐度为31， $\\mathrm { \\ p H }$ 为 $7 . 9 { \\pm } 0 . 1$ ，砂滤后经 ${ \\overline { { 0 . 4 5 } } } ~ \\mu \\mathrm { m }$ 微孔滤膜过滤,转移至三角瓶中高温高压( $1 2 0 ^ { \\circ } \\mathrm { C }$ ，0.12MPA)灭菌冷却至室温,按比例加入除菌的无 Si $\\mathrm { L } _ { 1 }$ 培养基( $| \\mathrm { L } _ { 1 } \\mathrm { - S i } \\rangle$ （Guillard 和 Hargraves，1993）[23],于 $1 5 \\mathrm { ^ { \\circ } C }$ ,光照强度为 $9 0 ~ \\mu \\mathrm { m o l } ~ \\mathrm { m } ^ { - 2 }$ s-'的恒温恒湿的气候室中培养,光暗比为$1 2 \\mathrm { h } : 1 2 \\mathrm { h }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 实验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中共设4个温度梯度，分别为 $5 、 1 0 、 1 5 、 2 0 \\%$ ;在每个温度下再设3种培养基,分别为 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 培养基、N限制 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 培养基（N浓度为 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 中的 $1 / 1 0$ ,以下简称为 $1 / 1 0 \\mathrm { N }$ ） $\\cdot ^ { \\mathrm { { P } } }$ 限制 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 培养基（P浓度为 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 中的$1 / 1 0$ ,以下简称为 $1 / 1 0 \\mathrm { P }$ ),共12种组合,每种组合设3个平行样,试验周期为 $4 8 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在实验正式开始前,将网状原角藻在相应的温度条件下驯化一个培养周期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验采用一次性培养的方法。将近岸海水经过孔径为 $0 . 2 2 ~ \\mu \\mathrm { m }$ 的微孔滤膜过滤并高温灭菌后，按照不同的 $_ { \\textrm { N } , \\textrm { P } }$ 浓度添加 $\\mathrm { L } _ { 1 }$ 培养基各种营养盐储备液（经 $0 . 2 ~ { \\mu \\mathrm { m } }$ 一次性无菌针头滤器( $\\mathfrak { s } 2 5 \\ \\mathrm { m m }$ ，Pall，USA)过滤除菌),配制成实验需要的3种培养基,并将配制好的培养基置于实验需要的不同培养温度下进行同步化。取经驯化后的平台期藻细胞进行接种，初始接种密度均为500 个细胞/ $\\mathrm { ^ { \\prime } m L }$ ,培养体积均为 $1 0 0 0 ~ \\mathrm { { m L } }$ ,置于GZX-250BS-Ⅱ型光照培养箱(上海新苗医疗器械厂)内培养,光强为 $9 0 ~ { \\mu \\mathrm { m o l } } ~ { \\mathrm { m } } ^ { - 2 } ~ { \\mathrm { s } } ^ { - 1 }$ ,光暗周期为 $1 2 \\mathrm { h } : 1 2 \\mathrm { h }$ 。接种当天取样,之后每3d取1次样,时间为18:00点,试验中所测参数之所需样品的采集均同步进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 样品采集、处理及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)藻细胞计数、形态观察及比生长速率计算 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自接种日起每3d取1次样,取样前轻轻晃动培养瓶,使藻液充分混匀。取 $2 ~ \\mathrm { m L }$ 藻液,加入 $1 \\%$ Lugol's碘液固定,混匀后,用浮游植物计数板在 TE200倒置显微镜（Nikon，Japan）下计数,同时观察细胞形态的变化。藻的比生长速率按以下公式计算：比生长速率 $( \\mu ) = ( \\mathrm { l n } N _ { 1 } - \\mathrm { l n } N _ { 0 } ) / \\mathit { \\Omega } \\left( t _ { 1 } - t _ { 0 } \\right)$ ，式中 $\\mu$ 为比生长速率 $\\big ( \\mathrm { ~ d ~ } ^ { - 1 } \\big )$ ，$N _ { 0 }$ 和 $ { \\mathcal { N } } _ { 1 }$ 分别为 $t _ { 0 }$ 和 $t _ { 1 }$ 时间的细胞密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）毒素提取与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "藻毒素提取取 $2 0 ~ \\mathrm { m L }$ 藻液，低真空度抽滤至GF/F膜( ${ \\mathfrak { o } } 2 5 { \\mathrm { ~ m m } }$ ，WhatmanTM，UK），同时收集滤液用于胞外毒素分析。将带有藻细胞的滤膜剪碎后，用 $4 \\mathrm { m L } ~ 8 0 \\%$ 的甲醇冰浴中超声破碎,反复镜检,直至细胞全部破碎。 $4 ^ { \\circ } \\mathrm { C }$ $\\mathrm { ~ \\ ; ~ } , 6 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ ,收集上清;重复提取1次,合并两次的上清液, $8 0 \\%$ 甲醇定容至 $1 0 ~ \\mathrm { m L }$ 。用$0 . 2 2 ~ \\mu \\mathrm { m }$ 的尼龙膜( ${ \\mathfrak { s l } } 3 ~ \\mathrm { m m }$ ,艾杰尔,北京)过滤,滤液置于 $- 2 0 \\%$ 保存至分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "胞外毒素提取根据 $\\mathrm { P a z }$ 等[12]的方法并稍作调整收集滤液中的毒素。具体洗脱步骤为：依次用 $1 0 ~ \\mathrm { m L }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$7 0 \\%$ 甲醇和 $10 \\mathrm { \\ m L } 2 0 \\%$ 的甲醇平衡固相萃取(SPE)小柱后，将 $2 0 ~ \\mathrm { m L }$ 滤液上样到SPE小柱;用 $1 0 \\mathrm { \\ m L } 2 0 \\%$ 的甲醇洗脱 SPE小柱,弃掉洗脱液;之后，用 $1 0 \\mathrm { \\ m L } 7 0 \\%$ 的甲醇洗脱 SPE小柱,收集洗脱液，用 $0 . 2 2 ~ \\mu \\mathrm { m }$ 的尼龙膜过滤,滤液置于 $- 2 0 \\%$ 保存至分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "毒素的分析检测采用高效液相色谱-串联质谱(HPLC-MS/MS)法进行藻毒素和胞外毒素的检测。液相色谱-质谱系统为 Agilent1200 液相系统（包括G1311A 四元泵、G1313A 自动进样器,G1316A 柱温箱);API4000 三重四极杆质谱检测器（Applied Biosystems $\\operatorname { G m b H }$ ，Germany）,离子源为ESI电喷雾离子源;液相色谱柱为 Phenomenex RP C18柱( $1 5 0 { \\times } 3 . 0 \\mathrm { m m }$ ， ${ 5 \\mu \\mathrm { m } }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "液相色谱条件流动相A为水（含 $0 . 1 \\%$ 甲酸， $5 \\ \\mathrm { m m o l / L }$ 甲酸铵),流动相B为 $9 5 \\%$ 乙腈水溶液（含 $0 . 1 \\%$ 甲酸， $5 \\ \\mathrm { m m o l / L }$ 甲酸铵);流速为 $0 . 3 \\ \\mathrm { m L / m i n }$ ,进样体积 $1 0 ~ \\mu \\mathrm { L }$ ,柱温 $3 0 \\mathrm { { ^ circ C } }$ ,梯度洗脱程序如表1所示。质谱检测条件采用 $\\mathrm { E S I } { + } / { - }$ 切换多参数扫描方式（MRM），各项参数见表2和表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/abc5bf9e6323380e6307949ad7216b06064b1cd9e04ed72dbe09179f946c436a.jpg",
+        "table_caption": [
+            "Table1 Liquid chromatography process of gradient elution "
+        ],
+        "table_footnote": [
+            "A：水（含 $0 . 1 \\%$ 甲酸， $5 \\ \\mathrm { m m o l } / \\mathrm { L }$ 甲酸铵);B: $9 5 \\%$ 乙腈水溶液(含 $0 . 1 \\%$ 甲酸， $5 \\ \\mathrm { m m o l / L }$ 甲酸铵) "
+        ],
+        "table_body": "<html><body><table><tr><td>时间/min Time</td><td>流速/(mL/min) Flow rate</td><td>A/%</td><td>B/%</td><td>时间/min Time</td><td>流速/(mL/min) Flow rate A/%</td><td>B/%</td></tr><tr><td>0</td><td>0.3</td><td>70</td><td>30</td><td>9.1</td><td>0.3 70</td><td>30</td></tr><tr><td>2</td><td>0.3</td><td>10</td><td>90</td><td>15</td><td>0.3 70</td><td>30</td></tr><tr><td>9</td><td>0.3</td><td>10</td><td>90</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d81d2b5d6f440f5aa55709d46c63fc336c20a8b35bd31795456ecc392dc10b36.jpg",
+        "table_caption": [
+            "表2多反应监测参数(正离子模式)",
+            "Table 2Parameters of multiple reaction monitoring（Positive ion mode）"
+        ],
+        "table_footnote": [
+            "Q1 Mass:四级杆质谱1Quadrupole mass1；Q3 Mass：四级杆质谱3Quadrupole mass3；DP：去簇电压 Declustering potential;EP:射入电压 Entrance potential；CE：碰撞电压 Collision energy;CXP:碰撞室出口电压 Cell exit potential "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Q1 Mass/(Da)</td><td rowspan=\"2\">Q3 Mass/(Da)</td><td rowspan=\"2\">时间 Time(msec)</td><td rowspan=\"2\">毒素 Toxins</td><td rowspan=\"2\">DP/(volts)</td><td rowspan=\"2\">EP/(volts)</td><td rowspan=\"2\">CE/(volts)</td><td rowspan=\"2\">CXP/(volts)</td></tr><tr><td></td></tr><tr><td>508.4</td><td>490.4</td><td>100</td><td>GYM</td><td>100</td><td>10</td><td>34</td><td>10</td></tr><tr><td>692.3</td><td>674.6</td><td>100</td><td>SPX1</td><td>100</td><td>10</td><td>44</td><td>10</td></tr><tr><td>876.3</td><td>823.3</td><td>100</td><td>PTX2</td><td>100</td><td>10</td><td>36</td><td>10</td></tr><tr><td>842.5</td><td>824.5</td><td>100</td><td>AZA1</td><td>100</td><td>10</td><td>30</td><td>10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/88776390104936f44365153e120fa5eb509995f70d399448df50a14cd80f48da.jpg",
+        "table_caption": [
+            "表1液相梯度洗脱程序",
+            "表3多反应监测参数(负离子模式)",
+            "Table 3 Parameters of multiple reaction monitoring（Negative ion mode）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Q1 Mass/ (Da)</td><td rowspan=\"2\">Q3 Mass/(Da)</td><td rowspan=\"2\">时间</td><td rowspan=\"2\">毒素 Toxins</td><td rowspan=\"2\">DP /(volts)</td><td rowspan=\"2\">EP/(volts)</td><td rowspan=\"2\">CE/(volts)</td><td rowspan=\"2\">CXP/(volts)</td></tr><tr><td>Time(msec)</td></tr><tr><td>803.6</td><td>255.1</td><td>200</td><td>0A</td><td>-100</td><td>-10</td><td>-65</td><td>-15</td></tr><tr><td>1141.6</td><td>1061.6</td><td>100</td><td>YTX</td><td>-100</td><td>-10</td><td>-36</td><td>-15</td></tr><tr><td>1155.5</td><td>1075.5</td><td>100</td><td>hYTX</td><td>-100</td><td>-10</td><td>-36</td><td>-15</td></tr><tr><td>1157.5</td><td>1077.5</td><td>100</td><td>45-OH-YTX</td><td>-100</td><td>-10</td><td>-36</td><td>-15</td></tr><tr><td>803.8</td><td>255.2</td><td>100</td><td>DTX2</td><td>-150</td><td>-10</td><td>-65</td><td>-15</td></tr><tr><td>817.9</td><td>255.2</td><td>100</td><td>DTX1</td><td>-126</td><td>-10</td><td>-65</td><td>-15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS13统计软件分别进行方差的单变量分析和多重比较分析,分析不同温度和 $_ { \\textrm { N } , \\textrm { P } }$ 限制对网状原角藻生长及产毒是否具有显著影响。设定 $\\alpha = 0 . 0 5$ ,数据以 $\\mathrm { M } { \\pm } \\mathrm { S } . \\mathrm { D }$ 表示（ ${ \\it n } = 3 { \\it \\Delta }$ 。当 $\\scriptstyle P < 0 . 0 5$ 时具有显著性差异， $P { < } 0 . 0 1$ 时具有极显著差异。另外，利用Origin9.0作图软件进行作图分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1温度和 $_ { \\textrm { N } , \\textrm { P } }$ 限制对网状原角藻生长的影响根据图1和图2,温度和营养盐限制均对藻细胞的生长有影响,但影响的程度与细胞生长阶段不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/578b4cf03639e10076fec29b6ae8dac9d12ee6c695dda8c5a5205d81a487cf9c.jpg",
+        "img_caption": [
+            "图1不同温度和营养盐条件下网状原角藻的生长情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在所有温度条件下，网状原角藻均在 $\\dot { \\mathrm { \\Delta L } } _ { 1 }$ -Si培养基中生长最好,最大细胞密度和比生长速率也出现在该培养基中，P限制则显著抑制藻的生长。以 $1 5 \\mathrm { ^ { \\circ } C }$ 为例，P限制培养基中最大细胞密度和比生长速率分别为0.47$\\times 1 0 ^ { 7 }$ 个细胞/L 和 $0 . 1 3 2 ~ \\mathrm { d } _ { \\cdot } ^ { - 1 }$ ,仅为 $\\mathrm { L } _ { 1 }$ -Si 的一半,差异极显著( $\\stackrel { \\cdot } { P } < 0 . 0 1 \\stackrel { \\cdot } { _ { , } }$ )；另外，P限制明显缩短了藻细胞的指数生长期和稳定期，与 $\\mathrm { L } _ { \\mathrm { 1 } } \\mathrm { - } \\mathrm { S i }$ 培养基相比至少提前6d结束指数生长期；N限制明显缩短了稳定期的持续时间，对指数生长期藻细胞的生长影响不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "温度的影响主要体现在 $\\mathrm { L } _ { 1 } { \\mathrm { - } } \\mathrm { S i }$ 和N限制培养基中藻细胞指数生长期阶段，在此阶段藻细胞的生长基本与温度变化呈正相关，高温区（ $1 5 \\mathrm { ^ { \\circ } C }$ 和 $2 0 \\%$ )和低温区（ $5 \\%$ 和 $1 0 \\%$ )之间细胞密度差异显著 ( $P { < } 0 . 0 5 \\mathrm { ~ , ~ }$ 。但在P限制培养基中,5— $1 5 \\mathrm { ^ \\circ C }$ 范围内藻细胞的生长与温度变化呈负相关。指数生长期后，温度的影响在营养盐限制的培养基中变得不明显，藻细胞密度均开始下降并快速进入衰败期； $2 0 ^ { \\circ } \\mathrm { C L } _ { 1 }$ -Si 培养基中藻细胞也表现出相似的生长情况,但其余温度下藻细胞在经过较长的稳定期后密度又出现\"返增”现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d15da3a1dd604451c15006c345e5eb0fef594c1f8673d57d49edefbd24d0970f.jpg",
+        "img_caption": [
+            "Fig.1Growth curves of P,reticulatum cultured at different temperature and nutrient levels ",
+            "图2不同温度和营养盐条件下网状原角藻比生长速率的变化 Fig.2Changes of specific growth rate of P.reticulatum in the exponential phase at different temperature and nutrient levels "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2温度和 $_ { \\textrm { N } , \\textrm { P } }$ 限制对网状原角藻产毒的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 温度和 $_ { \\textrm { N } , \\textrm { P } }$ 限制对网状原角藻胞内YTX含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HPLC-MS/MS 检测发现,网状原角藻主要产YTX及少量YTX衍生物,其中YTX占到 $9 6 \\%$ ,所以本实验中主要以YTX 含量的变化来考察温度和N、P 限制对其产毒的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究发现,在所有培养条件下,网状原角藻胞内YTX含量随着藻细胞的生长阶段有着相同的变化的趋势：指数生长期藻细胞内YTX含量较稳定,从指数生长期后期开始,胞内YTX浓度开始急剧增加,稳定期末期时达到最高，之后开始下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与无营养盐限制相比， $_ { \\textrm { N } , \\textrm { P } }$ 限制能显著提高网状原角藻胞内YTX的含量。 $1 / 1 0 \\mathrm { N }$ 培养基中，从指数生长期后期或稳定期前期,各温度下胞内YTX含量开始明显升高,但增幅与温度变化呈负相关： $5 \\%$ 时YTX含量最高,约为 $30 \\ \\mathrm { p g / }$ 细胞， $1 5 \\mathrm { ^ \\circ C }$ 和 $2 0 \\%$ 时毒素含量降低到 $20 \\ : \\mathrm { p g / }$ 细胞左右; $1 / 1 0 \\mathrm { P }$ 培养基中,从指数生长期的中期开始,胞内YTX含量就开始升高，略早于 $\\mathrm { L } _ { 1 }$ -Si和 $1 / 1 0 \\mathrm { N }$ 培养基。在5- $1 5 \\mathrm { { ^ \\circ C } }$ 范围内，胞内YTX 毒素含量随温度升高而升高， $2 0 \\%$ 时,毒素含量开始下降,其中 $1 5 \\mathrm { ^ { \\circ } C }$ 时稳定期末期单个藻细胞中YTX毒素含量最高,达到$9 2 . 6 \\ \\mathrm { p g / }$ 细胞,显著高于其余3个温度( $P { < } 0 . 0 1$ （图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/88928fad5c584396a2ec8d8ca024f9ff1a4029e7cd6017956e031aaf7d341fe0.jpg",
+        "img_caption": [
+            "图3不同温度和营养盐条件下网状原角藻胞内YTX浓度变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Changes of intracellular YTX concentration of P.reticulatumat diffrent temperatureand nutrient levels ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 温度和N、P限制对网状原角藻胞外YTX含量的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "滤液中的YTX毒素主要来源于藻细胞正常代谢分泌和死亡细胞的释放而来。指数生长期和稳定期细胞死亡较少,滤液中的毒素主要来源于藻细胞的代谢分泌,而稳定期以后细胞逐渐衰败死亡,胞内大量毒素释放。为了客观地评价温度和营养盐限制对网状原角藻胞外YTX毒素含量的影响,本研究只比较指数生长期和稳定期滤液中毒素含量的变化。为了便于胞内和胞外毒素进行比较,根据测定的滤液中毒素的浓度及相应的细胞密度，将滤液中YTX毒素折算成单细胞浓度，从而比较胞内和胞外毒素的细胞配额的变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，在所有培养条件下及各个不同的生长阶段，滤液中YTX毒素的浓度均很低。不论是指数生长期还是稳定期， $\\mathbf { L } _ { 1 } .$ -Si培养基滤液中YTX毒素含量显著高于N和P 限制下滤液中YTX 毒素含量( $P <$ 0.01），且随温度升高明显升高；N和 $\\mathrm { ~ \\bf ~ P ~ }$ 限制均不利于YTX的释放，高温能加剧N 限制下YTX毒素的释放，但对P限制无显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1温度和N、P限制对网状原角藻生长的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "温度是影响赤潮生物生长、繁殖、代谢等的重要环境因子，也是赤潮爆发的关键影响因子之一。每种赤潮生物都有自己生存的最适生长温度和温度范围。本研",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fd7fe76c4af556edd74f348edd7bd4c5e51606c7b211c8d5677ead62a00cedb.jpg",
+        "img_caption": [
+            "图4不同温度和营养盐条件下指数生长期和稳定期滤液中YTX毒素的细胞配比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Percentage of YTX in the media filtrates of P.reticulatum in the exponential and the stationary phase respectivelyat different temperature and nutrient levels ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "究中采用的网状原角藻是2014年5月首次分离自我国的北黄海海域，当时该藻以较高密度存在于 $5 \\mathrm { ~ m ~ }$ 以浅的表层海水中,海水表层温度在 $1 5 \\mathrm { ^ \\circ C }$ 左右。而本研究的实验结果表明,在 $2 0 \\%$ 的 $\\mathrm { \\Delta L } _ { 1 }$ -Si 培养基中,藻细胞比生长速率和指数生长期结束时藻细胞密度最高，分别为0.256d和 $1 . 1 { \\times } 1 0 ^ { 7 } / \\mathrm { L } ^ { - 1 }$ ，比 $1 5 \\mathrm { ^ \\circ C }$ 时略高（分别为0.252$\\mathbf { d } ^ { - 1 }$ 和 $1 . 0 4 \\times 1 0 ^ { 7 } / \\mathrm { L } ^ { - 1 }$ )；但在 $2 0 \\%$ 时,藻细胞在指数期结束后很快就进入衰退期,藻细胞密度降为原来的 $70 \\%$ ：而 $1 5 \\mathrm { ^ { \\circ } C }$ 条件下,藻细胞在经过较长的稳定期后细胞密度又开始增加。另外,在预实验中我们也发现， $2 0 \\%$ 培养时，藻细胞的生长周期比低温度条件下短， $2 5 \\mathrm { ^ { \\circ } C }$ 培养条件下藻细胞密度很低,且藻细胞严重变形；而 $3 0 \\%$ 时在接种后的较短时间内藻细胞即死亡（预实验的结果,未显示),可见,该株藻适宜在较低温度下生长。Guerrini等[18]和Roder等[13]分别以分离自意大利和德国近岸海域的网状原角藻进行研究也发现 $2 0 \\%$ 和 $1 5 \\mathrm { ^ { \\circ } C }$ （204号分别是上述两株藻的最适生长温度。Koike 等[24]在对日本北部 Okkirai Bay 水体中网状原角藻种群的季节变化进行了1周年的调查后发现,温度在8.23— $1 9 . 9 9 \\mathrm { ^ { \\circ } C }$ 范围内,水体中能够检测到网状原角藻细胞,形成赤潮并且细胞密度达到峰值时水温在 $1 4 . 3 \\mathrm { - } 1 6 . 5 3 ^ { \\circ } \\mathrm { C }$ 之间。在我国北黄海海域分离到的网状原角藻与上述研究中的藻株的适宜生长温度非常接近,推测其在北黄海海域大量增殖并引发赤潮最有可能是在春末夏初季节,这与现场调查结果也一致。Okolodkov等[25]在通过分析 1976—1999 年期间欧亚北极地区的28 次调查（539 个站位,1810个样品)的数据和 500 多篇相关文献后得出：网状原角藻分布范围大致在 25— $. 0 ^ { \\circ } \\mathrm { C }$ 等温线之间，主要分布在 $1 5 \\mathrm { ^ { \\circ } C }$ 等温线附近海域。上述研究结果也解释了为什么在热带海域较少发生该藻赤潮[24,26-27]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水体中氮、磷的种类、组成和含量不仅对赤潮生物的生长、生理生化过程有着重要的影响,而且对赤潮形成的规模和程度也起着决定性的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明,网状原角藻的生长更多地受P限制的影响而不是N限制,藻细胞大量增殖时对P 的需求较大,当环境中P的浓度比较低时,P可能成为网状原角藻生长的限制因子。这与Guerini等[18]和Roder等[13]对网状原甲藻的研究结果相同,也与其他许多产腹泻性贝毒[28-29]和麻痹性贝毒[30-1]的甲藻中的研究结果相同。另外,Rodriguez 等[21]开展的网状原角藻对大量营养盐需求的研究结果也间接证实了上述结论。他们发现， $\\mathrm { L } _ { 1 }$ 培养基中P的浓度远远不能满足网状原角藻生长的需要,当P的浓度增加到 $2 1 7 \\ \\mu \\mathrm { m o l / L } ( 6 { \\times } \\mathrm { L } _ { 1 } )$ 时藻细胞的生长速率和生物量达到最大,超过此浓度藻细胞的生长才会受到抑制;而N 在 $8 8 2 \\ \\mu \\mathrm { m o l / L } ( 1 { \\times } \\mathrm { L } _ { 1 } ) -$ $8 8 2 4 ~ { \\mu \\mathrm { m o l / L ( 1 0 \\times L _ { 1 } ) } }$ 浓度范围内对藻细胞的生长均无明显影响,本研究中将N 浓度降低至 $8 8 . 2 ~ \\mu \\mathrm { m o l } / \\mathrm { L } ( 1 / \\$ $1 0 { \\times } \\mathrm { L } _ { 1 }$ )时,对藻细胞的生长影响也不显著,推测该藻对N浓度的改变不敏感。但是根据实验室的研究结果外推现场中藻的生长状况是很难的,即便是现场调查的结果,也很难得出确切的结论,如 Koike 等[24]在现场调查中发现环境中的N和 $\\mathrm { ~ \\bf ~ P ~ }$ 浓度与网状原角藻的爆发性增殖之间的没有相关性,网状原角藻赤潮发生前后水体中N和P的浓度始终处于较低的浓度水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究中还发现,稳定期后期， $\\mathrm { L } _ { 1 }$ -Si培养基中藻细胞密度却出现明显的返增现象,这可能是取样后期培养瓶中培养液体积减少,空气增多,细胞周围气体不断更新和交换,加之 $\\mathrm { L } _ { 1 }$ -Si培养基中 $_ { \\textrm { N } , \\textrm { P } }$ 营养盐本身就过量,培养后期仍有剩余,几种因素共同促进了细胞的生长和繁殖。由于本研究并未对培养过程中营养盐的变化进行检测，所以 $\\mathrm { L } _ { 1 }$ -Si培养基中藻细胞密度在衰败期返增现象的具体原因还需要进一步的研究。 N",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2温度和N、P限制对网状原角藻产毒的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "温度对有毒甲藻产毒能力的影响存在明显的种间差异,即使是同一种甲藻,不同地理株系间产毒情况也不完全相同。本研究中,在无营养盐限制的 $\\mathrm { L } _ { 1 }$ -Si 培养基中,温度对网状原角藻的产毒能力影响不大。这与Manuel[32]研究分离自格陵兰岛附近海域的网状原角藻产YTX的能力随温度变化情况相一致;而Roder 等[13]的研究表明分离自德国北海湾的网状原角藻在低温下产YTX的能力更强;另外,Guerini等[18研究却发现，在较高温度( $2 6 \\%$ )下,分离自意大利海域的网状原角藻能够产生更多的YTX。但是,温度对藻细胞产毒的影响在有营养盐限制或不足时变得比较显著,这可能是营养盐限制使毒素合成过程中某些酶的活性对温度更加敏感，从而直接或间接影响毒素的合成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有研究表明,在营养平衡的条件下,藻类产毒量往往较低;而当营养失衡,尤其是在低磷浓度的条件下,能够刺激藻类产毒增加,高浓度溶解无机磷,往往不利于毒素的蓄积[33],本研究结果也支持上述观点。在 $1 5 \\mathrm { ^ { \\circ } C }$ （204号P 限制培养基中稳定期的藻细胞中YTX含量最高，达到 $9 2 . 6 \\ \\mathrm { p g / }$ 细胞,是同一温度相同生长阶段 $\\mathrm { L } _ { 1 }$ -Si培养基中的7倍有余。由于P限制情况下,细胞密度显著降低而细胞体积变大,如果以单位体积培养液来衡量毒素含量的变化,那么磷限制对毒素合成的影响就明显削弱了,类似的结果在以往对亚历山大藻的研究中已被多次报道[34-37]。尽管如此,P 限制下单位体积培养液中 YTX 的含量仍是营养盐平衡条件下的1.5—2倍。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "甲藻对营养物质吸收的能力比其它藻类差,在营养限制条件下,甲藻的竞争能力会比其他硅藻和无毒甲藻差[38],而毒素的产生可能是其对低营养利用率的一种补偿性竞争策略[39],可以作为对摄食浮游藻类生物的威慢,防止被摄食;当营养不平衡时,毒素作为营养储存化合物,也可以减轻某些过剩营养物质对藻造成的不利影响[34,40]。YTX 为多环聚醚类化合物,其分子中不含 N、P原子,营养盐对其合成的影响可能是通过直接或间接影响与YTX合成相关酶及相关中间产物来实现的。通过稳定性同位素投喂实验发现,YTX 分子中碳骨架结构起源于聚酮类化合物（polyketides）[41],而聚酮类化合物碳链的组装在一定程度上与脂肪酸的合成相关[42]。根据以上推测,当N、P限制时,YTX毒素的合成可能与网状原角藻细胞的脂肪酸代谢有关,但这需要实验来验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关于滤液中YTX的含量,Guerrini等[18]与 $\\mathrm { P a z }$ 等[1]均认为滤液中检测到的YTX是由细胞死亡后释放到培养基中导致的。本研究的结果也基本与上述观点一致,高温及稳定期中后期后死亡细胞增多,滤液中的YTX 浓度升高。但本研究中,无论在什么培养条件下,整个培养过程中,只有很少一部分YTX释放到滤液中,这与Roder等[13]对分离自德国北海的网状原角藻在N 限制下释放 $4 3 \\%$ 的 YTX 毒素到滤液中的研究结果不同，这可能由于不同株系、不同培养条件及检测方法等不同所导致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "温度和营养盐限制对网状原角藻生长和产毒均有影响,其中营养盐的影响更为显著和强烈。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中,网状原角藻在 $1 5 \\mathrm { ^ { \\circ } C L } _ { 1 }$ -Si培养基中生长最好;N、P 限制均有利于YTX 毒素的合成和累积, $1 5 \\mathrm { ^ \\circ C }$ 时P 限制培养基中胞内YTX 含量最高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Satakeimra，SkiguchiK，YhimatsuS，OsaYCofimaionofyotand4，46，4rioyesoiuctioby ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Protoceratium reticulatum collected in Japan.Natural Toxins，1999,7(4)：147-150.  \n[2]MilesCO,WilkisAL,HakesAD,SelwoodA,ensenD,asenJ,MundayR,SamdalIA,BriggsR,BeuzenbergV,aKieAL.Isolationofaeorofhpta-sooifroroceraeticulaulure.Toxico,44）-.  \n[3]MilesCO，WilkinsAL，HawkesAD，SelwodA,JensenDJ,MundayR,CooneyJM，BeuzenbergV.Polyhydroxylatedamideanalogsofyessotoxin from Protoceratium reticulatum. Toxicon,2005,45(1）:61-71.  \n[4]MilesCO，WiinsALelwoAI,HawkesAD,JsenDJ,undaR,CoeyeuzenbergVacKenzieALIolatiofoin32-O-[β-L-arabinofuranosyl-( $5 ^ { \\prime } {  } 1 ^ { \\prime \\prime }$ )-β-l-arabinofuranoside] from Protoceratium reticulatum.Toxicon,2006,47(5）：510-516.  \n5EiiaMutsu Bay.Fisheries Science，2005，71(3）:633-638.  \n[6]SzukieeaiasosaofinJapandeteidbylqudchoatogaphybridtriplequadupole/liartrapassspectroetryJoualofCromatogapy,1142(2): 172-177.  \n[7]Samdal I A,NaustvollLJ,Olseng C D,Briggs L R，Miles CO. Use of ELISA to identify Protoceratium reticulatum yessotoxin inNorway.Toxicon，2004，44(1）：75-82.  \n[8]SamdalIA，OlsengCD,Sandvik M,MilesCO，BrigsLR，TorgersenT,JensenDJ，ConeyJM.ProfleofyesotoxinanaloguesinaNorwegianstrainof Protoceratium reticulatum//5th International Conferenceon Molluscan Shelfish Safety.Galway Ireland,2006:118-118.  \n[9]Ciminiell P,Dell'Aversano C,Fattorusso E,Forino M,Magno S,Guerrini F,Pistocchi R,Boni L.Complex ssotoxins profile in Protoceratiumreticulatum from north-western Adriatic sea revealed by LC-MS analysis.Toxicon,2003b,42(1)：7-14.  \n[10]StoboLA,LewsJQilliA,rsaffW,l，Web,iEA,MceieeooiiUKdisolatesof phytoplanktonandtiizationandvalidationofLC-Smetods//BatesS,dighthCanadianworkshoponHarmfulMarineAgae.New Brunswick：Gulf Fisheries，2003：8-14.  \n11]azoreLingulodinium polyedrum in culture.Toxicon,2004,44(3）：251-258.  \n[12]PazBlroisilsrotoeetSdU17.  \n[13]RoderK,HantzsceFM,GbihrC，MieneC,HelbigT,KrockB，HoppenrathM,LuckasB，GerdtsG.Efectsofsalinitymprarendnutrientsongowth，cellarcharacteristicsandyesotoxinproductionofProtoceratumreticulatum.HarmfulAgae,2O12,15：59-70.  \n14]KonishngiCgloeablieroepeatatfpeateProtoceratium cf. reticulatum. Journal of Natural Products,2004,67(8）：1309-1313.  \n[15]Pere-GeiFofyessotoxin on cultured cerebelar neurons. Toxicological Sciences，2006,90(1）：168-177.  \n[16]Ogino H,Kumagai M,Yasumoto T.Toxicologic evaluation of yesotoxin.Natural Toxins，1997,5(6): 255-259.  \n[17]SeamrCriofytoeeceloZacUnivsitf.  \n18]MirovidKersddothe toxic marine dinc eProtoceratiumreticulatum inculture.Journalof Experimental Marine Biologyand Ecology,2O04,313（2）：337-351.  \n[19]PazBeJobFtudyhofperaureedliyohoidinoflagellateeeilinlueysingineicdflpahariEvioetalsch6（4）：286-300.  \n[20] RodriguezJJG,MirnAS,GarcaMCC,elarbiEH,CamacoFG,histiYGriaE.Macrourentsreqrementsf hedigateProtoceratium reticulatum. Harmful Algae，2009,8(2)： 239-246.21 GueriniF,Ciell,DellAve,rtalioe，Faous，i，istoccencferatureitdlimiationnyoinproductodelesebythogelterotoceieicmiatcsfulg，6（）：707-717.  \n[22] 陈建华，于仁成，孔凡洲，高岩，罗璇，王云峰，周名江.北黄海海域虾夷扇贝体内脂溶性藻毒素分析.海洋与湖沼，2014，45（4)：855-863.  \n[23]GuillrdRRL，Hargraves PE.Stichochrysis immobilisidiatom，notachsophte.Phcologia，99，2（3)：46.  \n[24]KoikeK，HrieY，SuzukiT，KobiyamaA，KuriaraK，TakagiK，Kaga SN，OshimaY.ProoeratiumreticuatuminnorthnJapan:enviroentalfcosodildaaofolJofo,28(1):103-112.  \n[25]Oololislsfiogelleraful)：351-369.  \n[26]BoniLdiFdseieteiles,North-WesternAdriaticSea（Italy）//HalegraeffG，BlackbuS，BolhCJ,LewisRJ,eds.Harmfulalgae.Paris；IntergovetalOceanographic Commission of UNESCO,2001：137-140.  \n[27]AasenJ，SamdalIA，MilesCO，DahlE，BrigsLR，Aune T.YesotoxinsinNorwegianblue musels（Mytilusedulis）：uptakefroProtoceratium reticulatum，metabolism and depuration.Toxicon,20o5，45(3）：265-272.  \n[28]VarkiouKeliE,stiai,aootesaooillUlacdtdstresscontrogothndnpucooffuliogelaerorocemlm（Eeg）dgeHaful，9（）：304-311.  \n[29]Vauccieesi，istohiinellDelAveaacoaoussE,artaglo，ueiphosphoruslimitationefectsoncellgrowth，biovolue,andtoxinproductioninOstreopsis cf.oata.HarmfulAlgae，2012，15：78-90.  \n[30GraeliE,KcaldicalctoseioetaeliEedsoaudolalAlgae.Berlin：Springer-Verlag，Heidelberg，2006，189：229-241.  \n[31]LimPT,LeawCKobaaA,OgataT.GowthdoproductiooftroicalAleandmmutmHali（Doee）eonitrogen to phosphorus ratios. Journal of Applied Phycology，2010,22(2）：203-210.  \n[32]MaelfauehdudlytpoodUniversity of Bremen，2014.  \n[33]MarkouGlteratioofteassmpositioofArtosra（Spiulia）ltesderousmontsfiidsouseoeTechnology，2012，116:533-535.  \n34]BoyerGivisalstoosidinoflagellate Protogonyaulax tamarensis.Marine Biology，1987,96(1）：123-128.  \n[35]AdeallfelMarine Biology，1990,104(3）： 511-524.  \n[36]FlynK,FrancoJM,eranandezP,RegueraB，ZapataM，WoodG，FlynKJ.Changesintoxicontentiomassandpigmentsftedinoflagellaebringeigdgotrogousseores94，111: 99-109.  \n7JohEKJaleloEcology Progress Series，2002,225：147-160.  \n38]SmaydaTHafulgalbo：sodaleeaetplabosia.LolOca，1997, 42(5) : 1137-1353.  \n[39]FrangpuleCBlasEirucpetiilipospsatfedHarmful Algae,2004,3(2): 131-139.  \n[40]CembelloideabofalslseeAM,eds.Physiological Ecology of Harmful Algal Blooms，Berlin：Springer-Verlag，1998：381-403.  \n[41] ReinKS,SydrRVesthesisofpletidemetablitydnoflgelaes.AdvancsinApldMroboogy，,59：1.  \n[42] ReinKSBooeJlyefrdogeltesns，acolgdssisompatieocmistrydsioartBiochemistry and Molecular Biology，1999，124(2）：117-131.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

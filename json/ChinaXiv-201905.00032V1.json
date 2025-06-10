@@ -1,0 +1,529 @@
+[
+    {
+        "type": "text",
+        "text": "分段提取函数型数据特征的算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金海波」，马海强²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．太原科技大学 数学系，太原 030024;2.江西财经大学 统计学院，南昌 330013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对函数型数据分类算法中全局统计特征表达能力有限，且显著点特征易受噪声干扰等问题，提出一种基于统计深度方法的函数曲线特征分段提取算法。首先，利用数据平滑技术对离散观测的数据进行平滑化处理，同时引入函数型数据的一阶和二阶导函数；然后，分段计算函数本身及其低阶导函数的马氏积分深度值，在此基础上构造函数曲线特征向量；最后，给出三种选择调节参数的搜索方案，并进行分类研究。在UCR数据集上的实验表明，与当前其他曲线特征提取算法相比，所提算法能有效提取函数曲线特征，提高分类的准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：函数型数据；分段特征；深度函数；函数型数据分类中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2018.11.0873",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Segmental feature extraction for functional data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jin Haibo1, Ma Haiqiang² (1.Dept.of Mathematic,Taiyuan UniversityofScience&Technology,Taiyuan O30024,China;2.ScholofStatistics, Jiangxi University ofFinance & Economics,Nanchang 33o013,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Since therepresentationabilityofstatisticalglobalfeatureforfunctionaldataclasification islimited,ndthe salient point feature is susceptible to noise disturbance,proposedasegmental featureextraction algorithm basedon statisticaldepth notion.Firstly,thesmoothing techniqueisusedtopre-smooththediscreteobserveddata,andthefirstand secondderivativesofthefunctioncurvesaredefinedacordingly.Then,depthsofMahalanobis integralof thefunctionsand its low-orderderivatives insegments arecalculated,and thus featurevectorsoffunctioncurvesareconstructed based onthe depth measures.Finally,the optimal number of segments for clasification is selected by data-driven,and the binary classification offunction data is studied.Compared with the othercurve feature extraction algorithms,experiments on UCR datasets show thatthe proposed algorithm performs wellin extracting the feature ofcurve,and improves the clasification accuracy effectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:functional data; segmental feature; depth function; functional data classification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近三十年来，随着科学技术的迅猛发展，人们获取和存储数据的能力得到了极大提高。在现实生活的很多领域中，人们越来越多需要处理具有实时性、空间型等函数特性的数据，如经济活动中的金融数据、工业设备产生的传感器数据、环境科学中的气象数据等。这些数据往往是带噪声的离散观测数据，在实际数据的分析中需要重新有效表达这些序列数据，再根据研究或应用目的，选用合适的数据挖掘技术进行分析，如分类或聚类分析。其中，若将序列数据看成函数型数据[1]，便可以充分利用函数的优良性质和特点，极大地提升数据挖掘的深度和精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "函数型数据本质上是一类无穷维数据，其样本单元是无穷维函数空间中的随机曲线，即为随机过程的一次实现。函数型数据分析方法主要采用泛函分析中的相关方法对函数型数据进行建模，它非常侧重数据的函数特性，即通常将一定时间范围内的观测数据看成一个整体，而不对数据内部的相依性质设置任何假定。针对不同观测个体，函数型数据分析方法允许使用不同抽样技术在不同时间点上获得稀疏或稠密的观测值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，函数型数据内在的无穷维特性将会不可避免地给实际数据分析带来诸多挑战。如果直接在函数型数据上进行数据挖掘，相关数值计算工作量非常大[2]，因此，对函数型数据进行降维处理或特征提取是必要的[3\\~5],获得低维特征后，后续便可采用成熟的数据挖掘技术进行分析，从而提高计算效率。特别值得指出的一点是，根据特定的分析目的和应用领域，应该对函数型数据采取不同的特征提取方法。例如针对分类问题，为了提升分类精度，应该提取与类别相关的数据特征[4,5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外很多专家学者对函数型数据的分类问题进行了大量研究。考虑到特征提取和分类算法之间的紧密联系，特别是特征提取的优劣需要用分类结果来评价，因此，在介绍前人工作时，将对文献中分类算法和采用的特征提取技术一并介绍。Alonso等人[根据函数曲线和类均值曲线间距离重新构造判别变量，进而采用线性判别分析LDA或最近邻KNN等多元分类技术进行分类；除函数本身外，算法还利用了多阶导函数去构造判别变量。实验表明，借助一阶和二阶导函数构造的判别变量可以显著降低错分率。Torrecilla等人[7]提出一种极大值搜索的函数特征选择迭代算法(RMH)，他们首先通过计算随机函数 $X ( t ) , t \\in [ 0 , T ]$ 和类变量Y的距离相关系数，得到最大系数值对应的 $t _ { 0 }$ 显著点；然后在子区间 $[ 0 , t _ { 0 } )$ 和$( t _ { 0 } , T ]$ 上递归搜索去掉 $X ( t _ { 0 } )$ 影响后的显著点；最后利用 $X ( t )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降维得到的点集 $\\{ X ( t _ { i } ) \\} _ { i = 0 } ^ { p }$ 进行最近邻分类。Dai等人[8]提出一种基于似然比的贝叶斯分类算法，并从理论上证明了其“完美分类”的性质。他们首先对函数型数据进行投影变换，得到多个独立的主成分得分；然后分别对这些主成分得分的概率密度函数进行非参估计；最后利用似然比公式完成贝叶斯分类。Mosler等人[9]通过两步变换方法，即首先把函数和一阶导函数的分段积分值作为特征向量，再应用多元深度函数把特征向量映射到二维值空间DD-plot；最后运用最近邻分类和DD $\\alpha$ 过程进行分类。Li等人[I0]首先使用F统计量求得曲线显著点及其相邻子区间，然后利用LDA提取曲线特征，最后运用支持向量机进行分类。此方法适用于空间异质或不规则抽样的曲线数据。Fraiman 等人[1]利用一组函数来定义曲线特征，并分别应用在分类、回归和主成分分析等方面。Rossi等人[12]则详细介绍了支持向量机在函数型数据分类中的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内学者马忱等人[13]提出了面向函数型数据的结合主成分分析法和最小凸包法的快速特征选择(FFS)方法，他们所提方法不仅可以快速获得稳定的特征子集，而且具有很好的实际效果。苏本跃等人[14]则利用函数型数据分析方法，将可穿戴式运动捕捉系统采集的人体周期行为数据进行函数化处理，准确地定义了数据的连续性与周期性，最后，根据不同行为一个周期内的曲线特征差异，利用支持向量机对动态行为进行分类识别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1分段特征提取(SFE)算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到函数对象的全局统计特征表达能力有限，且显著点等局部特征易受噪声干扰，本文提出了基于统计深度函数的分段特征提取算法（SFE)。鉴于函数型数据平滑特性，所提算法不仅利用了函数对象本身的特点，而且还利用多阶导函数的分段特征，因此，所提算法可以全面刻画函数型数据的变化特征。UCR多个数据集的实验验证了所提算法在函数型数据的分类应用上具有很好的实际效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1问题定义与算法流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为描述方便，考虑函数型数据二分类问题。设$X ( t ) , t \\in [ 0 , T ]$ 是来自概率空间 $( \\Omega , F , P )$ 的时间连续随机过程，函数对象 $X _ { i } ( t )$ 是此过程的一次实现（或轨迹），$\\{ X _ { i } ( t ) , Y _ { i } \\} _ { i = 1 } ^ { N } , t \\in [ 0 , T ]$ ，是一组由函数和类别标签组成的数据对集合，其中 $Y _ { i } \\in \\{ 0 , 1 \\}$ 是分类变量，这些函数（轨迹）来自两个不同的总体，类别 $Y _ { i } = 0$ 代表 $P _ { 0 }$ ，类别 $Y _ { i } = 1$ 代表 $P _ { 1 }$ 。分类问题是对未知类别的函数对象 $X ^ { t e s t } ( t )$ 推断所属的总体 $P _ { 0 }$ 或 $P _ { 1 }$ 。本质上，特征提取就是要找到一种形如 $\\Phi \\colon F \\to R ^ { d }$ 的映射，使得对无穷维函数型数据的分类问题可以转换为 $R ^ { d }$ 中的有限维分类问题，从而避免无限维函数空间下分类不可行问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1描述了SFE 算法处理数据的主要流程。图1(a)为含噪声的离散序列数据，经数据平滑后得到连续的函数型数据，如(b)所示；然后求取其低阶导函数，如(c)所示，从上到下依次为原函数、一阶和二阶导函数；再对这三类函数分段，如(d)所示；最后计算每个分段的统计深度值，并组合得到深度值向量，如(e所示，即得到函数的特征向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据平滑",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果待研究的观测样本是含噪声的数据序列，$Y ( t _ { i } ) , i \\in \\{ 1 , . . . , m \\}$ ，即满足模型 $Y ( t ) = X ( t ) + \\varepsilon ( t )$ ,其中残差 $\\varepsilon ( t )$ 独立于 $X ( t )$ ，则可用线性平滑方法得到原始 $X ( t _ { i } )$ ，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\hat { X } ( t _ { i } ) = \\sum _ { j = 1 } ^ { m } s _ { i j } Y ( t _ { i } ) \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { i j }$ 是点 $t _ { i }$ 相对 $t _ { j }$ 的权重； ${ \\cal { S } } = ( s _ { i j } )$ 可看做平滑矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/72589446d7d03204004e011e557b3be166870840c2c24cbb236564736ad6d7ab.jpg",
+        "img_caption": [
+            "图1函数分段特征提取（SFE）算法流程",
+            "Fig.1Procedure of segmental feature extraction for functional data "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，主要有两种线性平滑方法用来恢复原始 $X ( t )$ 。一种方法是利用一组基函数 $\\{ \\Phi _ { k } \\} _ { k \\in N }$ 的线性组合来近似逼近 $X ( t )$ ，这里选择足够多的 $k _ { n }$ 个基函数，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { X ( t ) = \\sum _ { k \\in \\mathcal { N } } c _ { k } \\Phi _ { k } ( t ) \\approx \\sum _ { 1 } ^ { k _ { n } } c _ { k } \\Phi _ { k } ( t ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文所提算法中，使用一组B样条基函数来逼近原函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一种方法则是采用非参数核平滑技术[2]，使用Nadaraya-Watson估计平滑矩阵 ${ \\cal { S } } = ( s _ { i j } )$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { j } ( t _ { i } ) = K ( \\frac { t _ { i } - t _ { j } } { h } ) \\biggl / \\sum _ { k = 1 } ^ { m } K ( \\frac { t _ { i } - t _ { k } } { h } ) \\biggl .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $k ( \\bullet )$ 为核函数，一般选用高斯核函数。最佳窗宽参数 $h$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可通过交叉验证方法获得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了比较两种平滑方法的差异，图2给出了B样条曲线平滑和非参核平滑的示意图。图中曲线数据来自于GunPoint数据集中第34条曲线片段，其中共包含21个数据点。B样条基函数个数和核函数窗宽参数是从一组可选值中通过交叉验证计算得到。就此例而言，从图2可以看出，第一种平滑方法效果比第二种方法好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计深度函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计深度函数和相关分位数函数可以对多元数据进行非参数描述和结构分析，根据不同的中心性概念和定义，存在多种类型的深度函数。对函数型数据，也可以定义深度函数，用来刻画某条曲线(过程)相对曲线样本的向心性度量[15,16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑曲线 $X _ { i }$ ，来自样本 $P = \\{ X _ { i } ( t ) \\} _ { i = 1 } ^ { n } , t \\in [ 0 , T ]$ ,本文算法使用如下定义的马氏（Mahalanobis)积分深度函数[16]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF M D ( X _ { i } , P ) = \\int _ { 0 } ^ { T } ( 1 - \\left| 1 / \\operatorname { 2 } - F _ { n , t } ( X _ { i } ( t ) ) \\right| ) d t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { n , t } ( X _ { i } ( t ) ) = n ^ { - 1 } { \\sum } ^ { n } I ( X _ { k } ( t ) \\leq X _ { i } ( t ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：式(4)中被积函数表示一维的深度函数；式(5)中 $I ( \\cdot )$ 表示示性函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(4)本质上可以看成是深度函数在函数型数据的一种推广。类似于一维随机变量中的次序统计量，马氏积分深度函数主要用来刻画出一条曲线在整个数据中所处的位置信息。马氏积分深度函数不仅计算简单，而且具有很好的稳健性质。此外，基于式(4)，本文还可以用来构造诸多函数型数据的统计量，如函数型数据的秩和截断均值等，从而可以克服数据中异常点的影响，得到更精确可信的分析结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13c3738d1e67f0d54f7110e32806e959d16425c7488dcefc4f93a7790fa9770.jpg",
+        "img_caption": [
+            "图2数据平滑示例",
+            "Fig.2Example of data smoothing "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4分段特征提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $X ^ { ( 1 ) }$ 和 $X ^ { ( 2 ) }$ 是来自总体 $P _ { k } , k \\in \\{ 0 , 1 \\}$ 的函数样本，任取$X _ { i } \\in X ^ { \\scriptscriptstyle ( 1 ) } \\bigcup X ^ { \\scriptscriptstyle ( 2 ) }$ ，函数 $X _ { i }$ 连续且光滑， $D ^ { 0 } X _ { i }$ 、 $D ^ { 1 } X _ { i }$ 和 $D ^ { 2 } X _ { i }$ 分别表示函数本身、一阶和二阶导函数，这三类函数分别描述了函数曲线的位置、斜率变化和凹凸性质。若考虑如下变换$\\Phi \\colon F \\to R ^ { 6 }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } \\mapsto \\left[ ~ f ( D ^ { 0 } X _ { i } , X ^ { ( 1 ) } ) ~ , ~ f ( D ^ { 0 } X _ { i } , X ^ { ( 2 ) } ) ~ \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n, f ( D ^ { 1 } X _ { i } , D ^ { 1 } X ^ { \\scriptscriptstyle ( 1 ) } ) , f ( D ^ { 1 } X _ { i } , D ^ { 1 } X ^ { \\scriptscriptstyle ( 2 ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n, f ( D ^ { 2 } X _ { i } , D ^ { 2 } X ^ { ( 1 ) } ) , f ( D ^ { 2 } X _ { i } , D ^ { 2 } X ^ { ( 2 ) } ) \\ ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $f ( D ^ { p } X _ { i } , D ^ { p } X ^ { ( k ) } )$ 是实值函数映射，表示函数 $D ^ { p } X _ { i }$ 相对样本 $D ^ { \\boldsymbol { p } } { \\boldsymbol { X } } ^ { ( k ) }$ 的统计深度值，这里应用式(4)和(5)定义的积分深度函数。注意到上其中 $f$ 变换针对 $D ^ { p } X _ { i }$ 定义域 $[ 0 , T ]$ 进行，可得到函数 $D ^ { p } X _ { i }$ 类别相关的全局统计特征。为了提高 $D ^ { p } X _ { i }$ 的局部特征表达能力，对 $D ^ { p } X _ { i }$ 分段应用 $f$ 变换。为描述方便，这里讨论 $D ^ { 0 } X _ { i }$ 即 $X _ { i }$ 的分段变换， $D ^ { 1 } X _ { i }$ 和 $D ^ { 2 } X _ { i }$ 可同理分析。考虑将定义域[0,T]分成 $N _ { \\iota }$ 个等距子区间 $[ 0 , T / N _ { l } )$ ，$[ T / N _ { l } \\ , 2 T / N _ { l } ) , \\cdots , [ ( N _ { l } - 1 ) T / N _ { l } \\ , T \\ )$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个子区间上的函数分段用 $X _ { i , j } , j = 1 , 2 , . . . N _ { l }$ 表示，再对每个 $X _ { i , j }$ 实施 $f$ 变换；同理，对 $D ^ { 1 } X _ { i }$ 和 $D ^ { 2 } X _ { i }$ 划分成 $N _ { s }$ 和 $N _ { c }$ 个分段，满足 $N _ { \\mathrm { \\ell } } + N _ { \\mathrm { \\ell } } + N _ { \\mathrm { \\ell } } \\ge 1$ 。综上，求得函数空间到特征空间的变换为 $\\Phi \\colon F \\to R ^ { 2 ( N _ { I } + N _ { s } + N _ { c } ) }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } \\mapsto [ f ( D ^ { 0 } X _ { i , 0 } , X _ { 0 } ^ { \\left( 1 \\right) } ) , ^ { \\cdot \\cdot \\cdot } , f ( D ^ { 0 } X _ { i , N _ { l } } , X _ { N _ { l } } ^ { \\left( 1 \\right) } ) , \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ^ { 0 } X _ { i , 0 } , X _ { 0 } ^ { ( 2 ) } ) , \\cdots , f ( D ^ { 0 } X _ { i , N _ { l } } , X _ { N _ { l } } ^ { ( 2 ) } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ^ { 1 } X _ { i , 0 } , D ^ { 1 } X _ { 0 } ^ { \\scriptscriptstyle ( 1 ) } ) , \\cdots , f ( D ^ { 1 } X _ { i , N _ { s } } , D ^ { 1 } X _ { N _ { s } } ^ { \\scriptscriptstyle ( 1 ) } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ^ { 1 } X _ { i , 0 } , D ^ { 1 } X _ { 0 } ^ { ( 2 ) } ) , \\dots , f ( D ^ { 1 } X _ { i , N _ { s } } , D ^ { 1 } X _ { N _ { s } } ^ { ( 2 ) } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ^ { 2 } X _ { i , 0 } , D ^ { 2 } X _ { 0 } ^ { \\scriptscriptstyle ( 1 ) } ) , \\ldots , f ( D ^ { 2 } X _ { i , N _ { c } } , D ^ { 2 } X _ { N _ { c } } ^ { \\scriptscriptstyle ( 1 ) } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( D ^ { 2 } X _ { i , 0 } , D ^ { 2 } X _ { 0 } ^ { ( 2 ) } ) , \\dots , f ( D ^ { 2 } X _ { i , N _ { c } } , D ^ { 2 } X _ { N _ { c } } ^ { ( 2 ) } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5调节参数的选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SFE 算法中三个最重要的参数是分段数 $N _ { \\iota }$ 、 $N _ { s }$ 和 $N _ { c }$ ，这些参数值的选择将直接影响后续分类算法性能，正确选择这三个参数仍缺乏理论依据9。针对不同数据集的实验表明，通常选取不大于10的分段数就可以取得满意结果，但穷尽搜索三个参数的最佳组合仍然花费很长时间，为此需要设计启发式搜索策略来提高效率。这里考虑两种简化方案，第一种是独立选择法，即单独搜索三个参数并确定各自的最佳分段数为 $n _ { \\scriptscriptstyle { l } }$ 、 $n _ { s }$ 和 $n _ { c }$ ，这种方法实现简单，搜索任务可以并行化处理；第二种方案是分步选择法，首先假设 $( N _ { s } , N _ { c } )$ 为(0.0)，搜索并确定 $N _ { \\iota }$ 的最佳分段数是 $n _ { l }$ ，然后固定 $( N _ { l } , N _ { c } )$ 值为$( n _ { l } , 0 )$ ，在此条件下搜索 $N _ { s }$ 最佳分段数为 $n _ { s }$ ，最后固定 $( N _ { l } , N _ { s } )$ 值为 $( n _ { l } , n _ { s } )$ ，搜索得到 $N _ { c }$ 最佳分段数为 $n _ { c }$ ，最终取得参数 $N _ { \\iota }$ 、$N _ { s }$ 和 $ { N _ { c } }$ 的最佳组合为 $( n _ { l } , n _ { s } , n _ { c } )$ 。易见，独立选择法和分步选择法搜索效率远高于穷尽搜索方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6算法伪代码",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上讨论，基于深度信息的函数特征分段提取算法SFE伪代码如算法1所示。为简单起见，只列出核心部分代码。这里对算法1做必要解释，X和Y分别表示函数样本集和相应的类别， $\\mathsf { N } _ { \\mathsf { l } } , \\mathsf { N } _ { \\mathsf { s } }$ 和 $\\mathrm { N _ { c } }$ 分别表示函数及其一阶和二阶导函数的分段数目。代码第1\\~7行计算函数分段的统计深度值，第3 行把样本集按类别分为两类子集，第 5、6行根据式 (4)分别计算深度值。第8\\~14行对函数进行分段并计算其分段特征值，其中第10行对函数进行分段，第11\\~13行循环调用depth函数计算各分段的统计深度值。第15\\~23行是算法主过程，第16行应用式（2）平滑原始观测数据，第17、18行分别获得函数一阶和二阶导函数，第19\\~21行计算函数及其导函数的分段特征值，第22行把函数及导函数的特征值组合成特征矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1分段特征提取算法   \n输入：X，Y， ${ \\mathsf N } _ { 1 }$ ， ${ \\sf N } _ { s }$ ，Nc。   \n输出：features（特征矩阵）。   \n1 function depthe $( { \\mathsf { X } } _ { \\mathrm { i } }$ ，Y)   \n2 $\\mathsf { d } \\gets \\mathsf { m a t r i x } ( \\mathsf { s i z e } ( \\mathsf { X } _ { \\mathrm { i } } ) , \\ 2 )$   \n3 $\\{ \\mathsf { X } _ { \\mathrm { i } } ( 1 ) , \\mathsf { X } _ { \\mathrm { i } } ( 2 ) \\} \\gets \\mathsf { g r o u p B y } ( \\mathsf { X } _ { \\mathrm { i } } \\ , \\ \\mathsf { Y } )$   \n4 for(k in 1:size $( \\mathsf { X } _ { \\mathrm { i } } )$ ）{   \n5 $\\begin{array} { r l } & { \\mathsf { d } ( \\mathsf { k } , 1 ) \\ \\gets \\ \\mathsf { F M D } ( \\mathsf { X } _ { \\mathrm { i } } [ \\mathsf { k } ] , \\ \\mathsf { X } _ { \\mathrm { i } } ( 1 ) ) } \\\\ & { \\mathsf { d } ( \\mathsf { k } , 2 ) \\ \\gets \\ \\mathsf { F M D } ( \\mathsf { X } _ { \\mathrm { i } } [ \\mathsf { k } ] , \\ \\mathsf { X } _ { \\mathrm { i } } ( 2 ) ) \\} } \\end{array}$   \n6   \n7 return d   \n8 function seg_features(X,Y，n)   \n9 $\\begin{array} { r l } & { \\mathrm { ~ \\gamma ~ \\in ~ \\gamma ^ { \\varepsilon _ { 1 } } ~ \\setminus ~ \\gamma ^ { \\varepsilon _ { 3 } } ~ \\setminus ~ \\cup ~ \\gamma ^ \\varepsilon _ { 1 } ~ \\setminus ~ \\gamma ^ \\varepsilon _ { 3 } ~ } , } \\\\ & { \\mathrm { ~ \\gamma \\in ~ \\gamma ~ \\in ~ [ \\gamma ~ ] ~ } } \\\\ & { \\mathrm { ~ \\{ ~ \\beta ~ \\land ~ \\beta ~ \\dotsc ~ \\alpha ~ , ~ \\beta ~ \\land ~ \\beta ~  ~ \\sf ~ s e g m e n t ( \\Chi , ~ \\mathfrak { n } ) ~ } ~ }  \\\\ & { \\mathrm { ~ \\ ~ \\ } } \\\\ & { \\mathrm { ~ \\ ~ \\ } } \\\\ & { \\mathrm { ~ \\ ~ \\ \\mathsf { ~ f } ~ o r ~ ( \\mathtt { i } ~ \\mathtt { i } ~ \\mathtt { i } ~ \\mathtt { n } ~ \\mathtt { \\Gamma } _ { 1 : \\mathtt { n } } ) ~  ~ \\{ ~  ~ } } \\\\ & { \\mathrm { ~ \\ ~ \\ ~ \\mathsf { ~ d } ~  ~ \\mathsf { d e p t h } ( \\mathsf { X } _ { \\mathtt { i } } , ~ \\mathtt { \\gamma } ) ~ } } \\\\ & { \\mathrm { ~ \\ ~ \\ ~ \\ f ~ x ~  ~  ~ \\{ ~ \\mathsf { f } ~ x ~ \\mathtt { ~ d } ~ \\mathtt { 1 } ~ \\beta ~ \\} ~ } } \\end{array}$   \n10   \n11   \n12   \n13   \n14 return fx   \n15 procedure ${ \\sf S F E } ( \\sf X , \\sf Y , \\sf N _ { \\mathrm { 1 } } , \\sf N _ { \\mathrm { s } } , \\sf N _ { \\mathrm { c } } )$   \n16 DX ← smoothing(X，Y)   \n17 D1X ← deriv(DX，1)   \n18 D²X ← deriv(DX，2)   \n19 f_DX← seg_features(Dx，Y，N1)   \n20 f_D¹X ← seg_features(D¹x，Y, $\\mathsf { N } _ { \\mathsf { S } }$ ）   \n21 f_D²X ← seg_features(D²x，Y，Nc)   \n22 features $$ [f_DoXf_D¹Xf_D²X]   \n23 return features ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 实验及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1数据集介绍",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了比较不同算法下的分类性能，本文选取了UCR标准序列数据集[17中的六个数据集进行实验。这些数据曲线特征复杂，对其分类具有极大的挑战性。每个数据集均包含独立的训练集和测试集，详细描述如表1所示。图3画出了WormsTwoClass数据集中的两类曲线片段样例。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a90ab9b300105029f08b3f8c635e193c8495967644ea4730a9f294748cd276b1.jpg",
+        "table_caption": [
+            "Table1 Experimental datasets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>训练数</td><td>测试数</td><td>序列长度</td></tr><tr><td>GunPoint</td><td>50</td><td>150</td><td>150</td></tr><tr><td>BeetleFly</td><td>20</td><td>20</td><td>512</td></tr><tr><td>Ham</td><td>109</td><td>105</td><td>431</td></tr><tr><td>Herring</td><td>64</td><td>64</td><td>512</td></tr><tr><td>Earthquakes</td><td>139</td><td>322</td><td>512</td></tr><tr><td>WormsTwoClass</td><td>77</td><td>181</td><td>900</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2实验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种函数型数据特征的分段提取算法 SFE，得到低维数据特征后，再采用成熟算法进行分类。为了验证本文算法的通用性，实验采用SFE算法和分类算法的多种组合方案。LDA表示线性判别分析方法，SVM表示采用径向基核函数支持向量机方法，其中参数 $\\mathtt { c } = 8$ ， $\\mathrm { g a m m a } = 0 . 5 .$ 。RF表示随机森林分类方法，其分类器参数都采用默认值。为便于比较，各分类算法的参数值在不同数据集上运行均未做任何优化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法代码使用R语言实现，第三方工具包主要包括函数型数据分析包fda.usc 和分类回归训练包caret，其中后者用来构建分类模型，包括模型训练和分类预测两个过程。使用训练集拟合模型和参数寻优，采用K折交叉验证模型，依据训练集规模K可取5或10。模型建立后，使用独立测试集评估模型性能，算法选用分类精度作为评价指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2列出了不同分类方法下数据集上的分类精度。前两列是两种简单非参分类模型的分类结果[17]，它们作为评价本文算法性能的基准数据，其中1NN表示以欧氏距离为相似性度量的最近邻分类，1NN-DTW表示采用动态时间弯曲距离的最近邻分类。若曲线样本非时间对齐，1NN-DTW分类比单纯用1NN分类结果好，如Earthquakes 和WormsTwoClass数据集。表中后八列给出四种分类算法在曲线分段和不分段条件下的分类精度，其中不分段表示SFE算法参数 $N _ { \\iota }$ 、 $ { N _ { s } }$ 和$N _ { c }$ 取值为1，分段条件下分类精度很大程度上依赖于分段数目，表中给出最佳分段数 $( n _ { l } , n _ { s } , n _ { c } )$ 下的分类结果。需要指出的是，根据分段数参数搜索策略的不同，得到的分段数目并不唯一，可能会造成分类结果差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/406ec43747acbfc7ddd4a9b4ca6bea40d6dab4baf106c5e778d3400bba574c80.jpg",
+        "img_caption": [
+            "图3原始数据曲线样例",
+            "Fig.3Samples of original data curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd799290c8e593969f43ab9708245a8fd5346a21f587141d98d57f5018336d5a.jpg",
+        "table_caption": [
+            "表1实验数据集",
+            "表2不同分类方法下的分类精度比较",
+            "Table 2 Classification accuracy comparison of different classification method "
+        ],
+        "table_footnote": [
+            "对表2中结果进行分析，得到如下结论："
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td rowspan=\"2\">1NN</td><td rowspan=\"2\">1NN-DTW</td><td colspan=\"2\">SFE + LDA</td><td colspan=\"2\">SFE + SVM</td><td colspan=\"2\">SFE + RF</td></tr><tr><td>未分段</td><td>分段</td><td>未分段</td><td>分段</td><td>未分段</td><td>分段</td></tr><tr><td>GunPoint</td><td>0.913</td><td>0.907</td><td>0.880</td><td>0.953 (10,6,5)</td><td>0.893</td><td>0.947 (6,6,1)</td><td>0.920</td><td>0.953 (10,5,1)</td></tr><tr><td>Beetlefly</td><td>0.750</td><td>0.700</td><td>0.850</td><td>0.900 (5,4,6)</td><td>0.700</td><td>0.850 (5,1,3)</td><td>0.700</td><td>0.900 (10,7,2)</td></tr><tr><td>Ham</td><td>0.600</td><td>0.467</td><td>0.781</td><td>0.790 (7,2,1)</td><td>0.781</td><td>0.705 (7,5,1)</td><td>0.720</td><td>0.752 (7,5,10)</td></tr><tr><td>Herring</td><td>0.516</td><td>0.531</td><td>0.516</td><td>0.609 (10,5,0)</td><td>0.500</td><td>0.594 (3,2,4)</td><td>0.469</td><td>0.609 (3,4,1)</td></tr><tr><td>Earthquakes</td><td>0.674</td><td>0.742</td><td>0.798</td><td>0.814 (1,0,3)</td><td>0.786</td><td>0.817 (2,10,2)</td><td>0.801</td><td>0.811 (8,6,3)</td></tr><tr><td>WormsTwoClass</td><td>0.586</td><td>0.663</td><td>0.575</td><td>0.600 (7,4,3)</td><td>0.702</td><td>0.729 (7,3,6)</td><td>0.663</td><td>0.702 (7,3,6)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）在曲线未分段情况下，采用SFE算法得到的分类结果在多数情况下和基准结果相差不大，说明统计深度值作为曲线特征是非常有效的。从Ham和Earthquakes 数据集上结果来看，相较1NN基准结果，三种分类算法的分类精度平均提升 $1 6 . 1 \\%$ 和 $12 . 1 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）在曲线分段情况下，从曲线得到的特征维数更多，所有分类算法下的分类精度高于未分段情况下的分类精度。这点在GunPoint、BeetleFly 和Herring 数据集上表现明显，三种分类算法下的分类精度相比未分段情况下平均提升 $5 . 3 3 \\%$ ，$1 3 . 3 \\%$ 和 $10 . 9 \\%$ 。另外在GunPoint和WormsTwoClasss数据集上最佳分类精度分别是 $9 5 . 3 \\%$ 和 $7 2 . 9 \\%$ ，相比较文献[8]中相同数据集上最好分类结果分别提升 $2 3 . 3 \\%$ 和 $14 . 9 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）为公平比较多个分类算法在不同数据集上的表现，并且突出SFE算法的作用，实验中未优化任何分类算法参数，未对特征过多预处理，可能出现非预期分类结果。比如Ham数据集上的SVM分类结果，由于过拟合问题，使得测试集分类精度不如预期。在实际数据分析中，可以采取特征预处理技术和分类算法参数优化工作便可避免上述问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4与其他特征提取方法的比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对函数型数据进行特征提取时，常用降维方法有主成分分析法（PCA）[1]和偏最小二乘法（PLS）[4,5]。在文献[6]中作者提出了 DFM（DISTANCE TO THE FUNCTIONALMean）方法，其主要思想是根据如下定义提取函数及其导函数的特征，构造判别变量：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\left( \\int _ { 0 } ^ { T } \\Big | \\ : ( X ( t ) - \\overline { { X ( t ) ^ { ( 1 ) } } } ) \\ : \\Big | ^ { p } d t \\right) ^ { \\bigvee _ { p } } - \\left( \\int _ { 0 } ^ { T } \\Big | \\ : ( X ( t ) - \\overline { { X ( t ) ^ { ( 2 ) } } } ) \\ : \\Big | ^ { p } d t \\right) ^ { \\bigvee _ { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\textit { d }$ 表示提取到的实值特征； $X ( t ) , t \\in [ 0 , T ]$ 表示函数曲",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线样例； $\\overline { { X ( t ) ^ { ( 1 ) } } }$ 和 $\\overline { { X ( t ) ^ { ( 2 ) } } }$ 表示正类和反类的类均值函数曲线;  \n$p$ 一般取1或2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了比较多种特征提取方法的性能，本文选用文中介绍的六个数据集进行实验，后续分类算法均采用LDA方法，算法代码使用R语言实现。需要指出的是，PCA方法根据方差累积贡献率来确定主成分个数，PLS方法通过交叉验证方法获得成分个数，DFM方法根据式（8）分别提取原函数、一阶和二阶导函数特征。所有方法均对原始数据进行函数化表达和平滑处理，在测试数据集上得到的分类精度如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b541bfa9ac8338be3ada3422b29e73873115c2331e30ac1847c7b2f3188c952.jpg",
+        "table_caption": [
+            "表3不同特征提取方法下的分类精度比较",
+            "Table3 Classification accuracy comparison of different feature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">extraction methods</td></tr><tr><td>数据集</td><td>DFM</td><td>PCA</td><td>PLS</td></tr><tr><td>GunPoint</td><td>0.807</td><td>0.740</td><td>0.740</td></tr><tr><td>Beetlefly</td><td>0.750</td><td>0.650</td><td>0.800</td></tr><tr><td>Ham</td><td>0.800</td><td>0.667</td><td>0.695</td></tr><tr><td>Herring</td><td>0.578</td><td>0.625</td><td>0.594</td></tr><tr><td>Earthquakes</td><td>0.795</td><td>0.795</td><td>0.820</td></tr><tr><td>WormsTwoClass</td><td>0.558</td><td>0.536</td><td>0.586</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合表3中LDA分类结果，并与表2所得结果进行比较可得：在总共18个分析结果中，只有三种情形比本文方法分类精度高，分别是Ham 数据集上的 DFM方法、Herring数据集上的PCA方法和Earthquakes数据集上的PLS方法。由此可见，本文所提的SFE方法整体上优于其他三种特征提取方法。另外，由于PLS方法考虑了样本数据和类变量的相关性，提取的特征质量更高，分类效果比PCA更好，但PLS方法和DFM方法各有优劣。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分类问题是函数型数据分析领域中的重要研究方向，能否有效提取函数型数据的低维特征非常关键。本文所提算法对函数及导函数曲线分段处理，基于统计深度方法，把无穷维函数变换为低维特征向量，再采用标准分类算法处理，从而避免了全局特征和显著点特征表达的不足，在多个数据集上的实验结果验证了文中所提SFE 算法的有效性。进一步考虑如下三个问题：a)如何处理非时间对齐的样本曲线，如界标法校准等，将极大改善后续函数化表达及分析;b)当前算法中函数分段区间是等距的，能否提出启发式策略，自适应地确定非等距子区间，以便提取更具辨别的类特征;c)函数特征映射可以考虑更多变换形式，文中使用的统计深度值即向心性度量可拓展成多种定义，以上三点是下一步的工作重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Ramsay JO,Silverman BW.Functional data analysis [M].2nd ed.New ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I0rK: Sprnger, zUUs.   \n[2]Ferraty F,Vieu P.Nonparametric functional data analysis:theory and practice [M]. New York: Springer,2006.   \n[3]孟银凤，梁吉业．函数型数据分类中的稳健主成分分析[J].小型微 型计算机系统,2016,37（7):1499-1503.(Meng Yinfeng,Liang Jiye. Robust principal analysis in the classification for functional data [J]. Journal of Chinese Computer Systems,2016,37(7):1499-1503.）   \n[4]Preda C, Saporta G,Leveder C.PLS classification of functional data [J]. Computational Statistics,2007,22 (2): 223-235.   \n[5]Delaigle A,Hall P.Methodology and theory for partial least squares applied to functional data [J].Annals of Statistics,2012,40 (2012): 322-352.   \n[6]Alonso A M,Casado D，Romo J.Supervised classification for functional data: a weighted distance approach [J]. Computational Statistics and Data Analysis,2012,56(7): 2334-2346.   \n[7]Torrecilla,José L,Suarez et al.Feature selection in functional data classification with recursive maxima hunting [C]// Advances in Neural Information Processing Systems.2016: 4835-4843.   \n[8]Dai X,Myuller HG,Yao F.Optimal bayes classifiers for functional data and density ratios [J].Biometrika,2017,104 (3): 545-560.   \n[9]Mozharovskyi P,Mosler K.Fast DD-clasification of functional data[J]. Statistical Papers,2017,58 (4): 1055-1089.   \n[10] Li B, Yu Q.Classification of functional data: a segmentation approach [J].Computational Statistics and Data Analysis,2008，52 (10): 4790-4800.   \n[11] Fraiman R,Gimenez Y, Svarc M.Feature selection for functional data [J]. Journal of Multivariate Analysis,2016,146:191-208.   \n[12]Rossi F,Villa N. Support vector machine for functional data classification [J]. Neurocomputing,2006,69 (7-9): 730-742.   \n[13]马忱，王文剑，姜高霞．面向函数型数据的快速特征选择方法[J]. 模式识别和人工智能，2017，30(9):822-832.(Ma Chen，Wang Wenjian, Jiang Gaoxia.Fast feature selection for functional data [J]. Pattern Recognition and Artificial Intelligence,2017,30 (9): 822-832.)   \n[14]苏本跃，蒋京，汤庆丰，等．基于函数型数据分析方法的人体动态行 为识别[J]．自动化学报,2017,43(5):866-876.(Su Benyue,Jiang Jing,Tang Qingfeng et al. Human dynamic action recognition based on functional data analysis [J].Acta Automatica Sinica,2017,43 (5): 866-876.)   \n[15] Sguera C,Galeano P,Lillo R.Spatial depth-based classification for functional data [J]. Test,2014,23 (4):725-750.   \n[16] Serfling R,Wijesuriya U.Depth-based nonparametric description of functional data，with emphasison useof spatial depth [J]. Computational Statistics and Data Analysis,2017,105:24-45.   \n[17] Chen Y, Keogh E, Bing H et al. The UCR time series classification archive[DB/OL].(2015）[2018-11-01].http://www.cs.ucr. edu/\\~eamonn/time_series_data. ",
+        "page_idx": 4
+    }
+]

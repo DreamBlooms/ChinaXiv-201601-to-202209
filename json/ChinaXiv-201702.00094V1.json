@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201508031635 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒲玉琳,叶春,张世熔,龙高飞,杨丽蓉，贾永霞，徐小逊李云.若尔盖沙化草地不同生态恢复模式土壤活性有机碳及碳库管理指数变化.生态学报,2017,37(2):367-377.PuYL,YeC,ZSgGg,,X,sfolbcarbonpool managementindexofdesertificationgrassandsoil inzoige.ActaEcologica Sinica,2O17,37(2）:367-377.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "若尔盖沙化草地不同生态恢复模式土壤活性有机碳及碳库管理指数变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒲玉琳}，叶春¹，张世熔²，\\*，龙高飞³，杨丽蓉4，贾永霞}，徐小逊²，李云} ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1四川农业大学资源学院，成都611130  \n2四川农业大学环境学院，成都611130  \n3四川省地质矿产勘查开发局成都水文地质工程地质队，成都610072  \n4四川省若尔盖县环境保护和林业局，若尔盖624500",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;研究退化林草地不同生态恢复模式土壤活性有机碳和碳库管理指数变化，可为评价生态恢复措施提升土壤质量的效果，以及优化生态恢复模式的选择提供重要参考。结合野外调查和室内分析法,研究了若尔盖沙化草地不同生态恢复模式土壤有机碳组分及碳库管理指数变化。若尔盖沙化草地的生态恢复模式有：灌草间作模式I（条带状红柳间植草本植物,SGI）、灌草间作模式Ⅱ（环状红柳间植草本植物，SGⅡI）、沙障 $\\cdot +$ 灌草模式（红柳沙障 $^ +$ 红柳间植草本植物，SBSG）。结果表明，与沙化草地(DG)相比,3种恢复模式都能提高土壤有机碳及其活性组分含量。SGI模式的全剖面土壤微生物量碳（MBC）、溶解性有机碳（DOC）易氧化有机碳(EOC）、颗粒有机碳(POC)含量分别增加 $3 6 . 6 \\% \\ 、 1 3 9 . 0 \\% \\ 、 8 9 . 4 \\% \\ 、 1 3 0 . 9 \\% ;$ SGⅡ模式的分别增加 $2 . 7 \\%$ 、$- 4 3 . 9 \\% , 1 5 . 0 \\% \\ , 4 9 . 7 \\%$ ;SBSG模式的分别增加 $8 2 . 4 \\% . 2 1 . 8 \\% . 5 6 . 2 \\% . 1 7 0 . 3 \\%$ 。表明SGI与SBSG提高土壤有机碳的效应相近，而且二者都远大于 $\\operatorname { s G I I }$ 。3种生态恢复模式土壤活性有机碳分配比例与DG的差异表现不一致,显著体现是SGI模式土壤DOC 分配比例的垂直变化出现分馏现象。3种生态恢复模式土壤碳库管理指数(CPMI)均大于 $10 0 \\%$ ,能不同程度地提升土壤质量，其效应大小为 $\\mathrm { S G \\ I > S G \\ I I > S B S G }$ 。易氧化有机碳可作为反映沙化草地生态修复模式土壤质量变化的优选指标,CPMI也可用于表征生态恢复措施提升沙化草地土壤质量的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：若尔盖;沙化草地;生态恢复；土壤；活性有机碳;碳库管理指数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of different ecological restoration patterns on labile organic carbon and carbon pool management index of desertification grassland soil in zoige ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PU $\\mathrm { Y u l i n } ^ { 1 }$ ，YE Chun’，ZHANG Shirong²’\\*，LONG Gaofei³，YANG Lirong4， JIA Yongxia¹，XU Xiaoxun²,LI Yun1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Resources，Sichuan Agricultural University，Chengdu 611130,China   \n2 College of Environment，Sichuan Agricultural University，Chengdu 611130,China   \n3ChengduHdroglldginlcalofdloEgd   \n4 Zoige Bureau of Environmental Protection and Forestry，Zoige 6245Oo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The changesofsoillabileorganic carbon and Carbonpool management index（CMPI）under diferent ecological restorationpaternscanprovidevaluableinformation for evaluating theefectsof ecologicalrestoration measuresonsoil qualityimprovement，andsreeningoptimizedecologicalrestorationpatsondesertificationforestand grassland.Inthis study，soillabileorganiccarbon fractionsand CPMI wereinvestigatedbyapplying fieldinvestigationsandlaboratory analysestodesertificationgrasslandreceivingdiferentpatternsof ecologicalrestorationin Zoige.Threemainecological restorationpatterns wereusedtocontroldesertificationof grassand in Zoige，including shrub-grass intercroppattern I (stripe Tamarix ramosissima incteropping herbs，such asPoa pratensis，Elymus nutan and Ajuga lupulina，SG），shrubgrass intercrop pattern II（circular Tamarixramosissima incteropping herbs，such as Poa pratensis，Cremanthodium reniforme，Cirsium japonicum，Daucus carotaand Vicia sepium，SGII），and the sand-barier plus shrub-grass intercrop pater（the sand-barriers of Tamarixramosissima plus Tamarixramosissima incteropping herbs，such as Tamarix ramosisima，Poa pratensis，Elymus nutan，Ajuga lupulina，Daucus carota，SBSG).The results showed that thevaluesof soilorganiccarbonanditslabilefractionscontentswere higherinthethreeecological restoration graslands than nthe desertification grasland without ecologicalrestoration measures（DG).Compared totheDG,thecontentsofsoil microbial biomasscarbon（MBC），dissolved organic carbon(DOC），easily oxidized organic carbon(EOC），and particulate organic carbon(POC） in whole profile under the SGI pattrn were increased by $3 6 . 6 \\%$ ， $1 3 9 . 0 \\%$ ， $8 9 . 4 \\%$ ， $1 3 0 . 9 \\%$ ，respectively, and those in the SGII pattern were increased by $2 . 7 \\%$ ， $- 4 3 . 9 \\%$ ， $1 5 . 0 \\%$ ， $4 9 . 7 \\%$ ，respectively，and those in the SBSG pattern were increased by $8 2 . 4 \\%$ ， $2 1 . 8 \\%$ ， $5 6 . 2 \\%$ ， $1 7 0 . 3 \\%$ ，respectively.This indicated that the ecological restoration paternsof SGIand SBSG weresimilarly efectiveatimproving soil organiccarbon，and both were superiorto the SGII paterm.The distributed proportions of soil active organiccarbon between the threeecologicalrestorationand desertification grassland were diference，for instance thedistributedproportionof DOC presentedavertical fractionation in the SGI pattern. The values of CPMI under three ecological restoration patterns were exceeded $100 \\%$ . This implied that soil quality can be mproved by the three ecological restoration paterns，and the order of the improved level was SGI（CPMI, $1 8 2 . 5 \\%$ ） $>$ SGII（CPMI, $1 5 7 . 1 \\%$ ） $>$ SBSG（CPMI, $1 2 9 . 9 \\%$ ). The results suggest that soil easily oxidized organic carbon can be usedasanoptimized indextoreflectchanges ofsoilqualityindiferent ecologicalrestoration grasslands，andsoilCPMIcan be used to characterize the improved effectiveness of ecological restoration measures on soil quality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：Zoige；desertificationgrassand；ecological restoration；soil；labileorganic carbon；carbon pool management index ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳是植物所需养分和土壤微生物生命活动的能量来源，对改善土壤肥力[1-2]、降低土壤有机与无机污染[3-4]、缓减全球温室效应[5-6]具有重要作用。虽然土壤活性有机碳,特别是微生物碳与可溶性有机碳占总有机碳比例一般较小[7-8],但可显著影响土壤形成过程与生物化学过程。土壤活性有机碳受退化土地生态恢复措施、土壤施肥与耕作方式等的影响[9-I1],能在总有机碳变化之前更敏感地反应土壤质量变化情况,是评价土壤质量的重要指标[9]。土壤碳库管理指数（Carbon pol management index,CPMI）是土壤有机碳和参考土壤有机碳的比值与土壤有机碳活度指数的乘积,综合考虑了土壤总有机碳与活性有机碳,可比活性有机碳更为灵敏地反映各种土地利用或管理措施引起的土壤质量下降或更新的程度[12-14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青藏高原东北边缘的若尔盖高原湿地,不仅是我国两大“母亲河”的水源涵养区和西北干旱区沙尘暴的有效隔离区,还是地球上的天然碳\"库”与碳“汇”,土壤母质为第四纪松散沉积物。20世纪50年代至90 年代,由于开沟排水、过度放牧、鼠虫危害、气候暖干化[15],湿地退化、草地沙化是该区域面临的两大生态环境问题。据若尔盖县土地沙化监测结果显示,自 1994 年以来,该县沙化土地持续增加,截止 2014 年已达 803018.2$\\mathrm { { h m } } ^ { 2 }$ （含露沙地 $5 8 7 1 3 . 8 ~ \\mathrm { h m } ^ { 2 }$ )，占该县土地总面积的 $7 . 6 9 \\%$ 。对此，自20世纪90 年代中期开始，四川省政府启动了若尔盖县沙地综合治理的研究与示范点工程，已初现成效。因为多次的监测结果表明，该县沙化土地的年递增率逐渐降低，1999—2004年的年增率 $1 1 . 6 5 \\%$ ,2004—2009 年 $1 0 . 8 8 \\%$ 、2009—2014年 $4 . 8 4 \\%$ ;极重度沙地（流动沙丘)自2009 年后也降低(2009 年 $5 9 7 0 . 6 6 \\ \\mathrm { h m } ^ { 2 }$ ,2014年 $4 0 4 0 5 . 6 \\ \\mathrm { h m } ^ { 2 }$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沙化草地在沙化治理初期,特别是流动沙丘,只有土壤环境恢复至适合植物生长的条件下,人工生态恢复措施才能取得较好效果。短期内如何反映生态恢复措施使“土壤环境恢复至适合植物生长的条件”？土壤活性有机碳及CPMI是首选、重要敏感指标。但迄今为止，对若尔盖高原乃至整个青藏高原沙化草地及其不同生态修复模式土壤有机碳与CPMI的研究,主要是关注不同沙化程度草地土壤[16]或不同恢复年限土壤总有机碳及其部分活性有机碳的变化[17],有的甚至仅在分析生态恢复模式对土壤理化性质的影响中涉及土壤有机碳含量特征[18-19],未曾有沙化草地不同恢复模式下土壤活性有机碳及CPMI的研究报道。因此,本文以若尔盖县重点沙化治理区,辖曼乡与黑河牧场的沙化草地不同生态恢复模式土壤为研究对象,探讨土壤有机碳及其活性组分、碳库管理指数的变化特征，对沙化草地的优化生态恢复模式的推广，实现高寒草地生态系统“增汇减排”,缓解全球变暖具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区地理位置 $3 3 ^ { \\circ } 3 3 ^ { \\prime } - 3 3 ^ { \\circ } 5 4 ^ { \\prime } \\mathrm { N } , 1 0 2 ^ { \\circ } 2 6 ^ { \\prime } - 1 0 2 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { E }$ ,海拔 $3 4 0 0 { - } 3 6 0 0 \\mathrm { m }$ ,行政隶属若尔盖县西部的辖曼种羊场、辖曼乡与黑河牧场。该区域地貌有高原丘陵、湖群低洼地、河谷平原沼泽3类,黄河支流与黑河水系;属大陆性季风高原型气候区,具有寒带气候特征,无霜期平均32d,年平均气温 $1 . 6 ^ { \\circ } \\mathrm { C }$ ,年降水量 $4 6 4 . 8 \\mathrm { m m }$ ，年蒸发量达 $1 0 1 3 . 0 \\mathrm { m m }$ ,相对湿度 $6 4 \\%$ ,年大风日数8d。植被以草甸与亚高山草甸植物为主,少量沼生与湿生植物;土壤类型以草甸土、亚高山草甸土为主,有部分沼泽土、泥炭土。近20 年来,受自然和人为因素、鼠害的影响,区内沙化土地日益增多,沙丘侵吞了草场,有毒有害植物明显增加,牧草质量下降,阻碍了畜牧业生产的发展,也导致斑块状风沙土面积增大,甚至连绵不断,形成片状,如县道 $\\mathbf { u } 1 3$ 的唐克至黑河牧场段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区内沙化草地的主要生态恢复模式有3种,分别是灌草间作模式I（条带状高原红柳（Tamarixramosissima)间植草本植物,SGI）、灌草间作模式ⅡI（环状高原红柳间植草本植物,SGⅡ）、沙障 $^ +$ 灌草模式（高原红柳沙障 $^ +$ 高原红柳间植草本植物,SBSG)。沙化草地不同生态恢复模式的典型样地选择与土壤样品采集：首先,野外实地踏勘结合Google earth 的遥感影像图,选定3种沙化草地生态恢复模式的典型样地;然后,记录地形地貌、植被覆盖度、植被类型等基本情况(表1);再后,依据微地形变化情况,每个样地布设3个采样点，每个采样点又设置3个 $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ 的小样方；最后，每个小样方在红柳林下与红柳林之间的草本植物带,采用剖面挖掘法采集0—5、5—10、10—20、20—30、30—50、50—80cm 土层土样,将各小样方相同土层土样混合均匀,带回约 $6 0 0 \\mathrm { g }$ 土样至室内供活性有机碳等指标测定。采集各沙化草地生态恢复模式土壤的同时，选择环境条件相近的植被覆盖近似为零的极重度沙化草地或裸沙地(DG)作为对照,共3个，其基本情况见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 性质测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤总有机碳(TOC)重铬酸钾容量法;溶解性有机碳(DOC）1mol/L KCl(5:1)浸提,重铬酸钾容量法[20];易氧化有机碳(1 $\\mathrm { \\small { \\dot { \\Omega } O C } ) 3 3 3 m m o l / L ~ K M n O _ { 4 } }$ 氧化-比色法[21」;微生物量碳(MBC)氯仿熏蒸培养- ${ \\bf \\cdot K } _ { 2 } \\mathrm { S 0 } _ { 4 }$ 浸提,重铬酸钾容量法[22];颗粒有机碳（POC） $5 \\ \\mathrm { g / L }$ ( $ { \\mathrm { N a P O } } _ { 3 }$ ） $_ 6$ 超声波震荡分离,过 ${ 5 3 } \\mathrm { u m }$ 筛,重铬酸钾容量法[23]。全氮、全磷、碱解氮与速效磷的测定方法分别是 $\\mathrm { C u S O } _ { 4 } { \\mathrm { - K } } _ { 2 } \\mathrm { S O } _ { 4 } { \\mathrm { - S e } } ( 1 0 0 { \\mathrm { : } } 1 { \\mathrm { : } } 1 )$ 消化半微量凯氏定氮法 ${ \\mathrm { . } } { \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 } { \\mathrm { - H C l O } } _ { 4 }$ -钼锑抗比色法、碱解扩散法、 ${ \\mathrm { N a H C O } } _ { 3 }$ 浸提-钼锑抗比色法[24]。微生物量氮氯仿熏蒸 ${ \\bf \\cdot K } _ { 2 } \\mathrm { S 0 } _ { 4 }$ 浸提,芘三酮比色法;微生物量磷氯仿熏蒸 $- \\mathrm { N a H C O } _ { 3 }$ 浸提,钼锑抗比色法[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "碳库管理指数(CPMI)用于反映沙化草地不同生态恢复模式土壤质量的变化。以无生态恢复措施土壤碳库活度(A)和总有机碳(TOC)含量的平均值作为参考土壤的 $\\mathrm { \\bf A } \\mathrm { \\bf , T O C }$ ,计算沙化草地不同生态恢复模式土壤的 $\\mathrm { C P M I } ^ { [ 2 1 ] }$ ,具体计算方法式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/25fdc131649a887c2cf7942432755326adc5e23e5704c4216bedb05634f76b74.jpg",
+        "table_caption": [
+            "表1样地基本概况",
+            "Table 1The basic situations of sampling plot "
+        ],
+        "table_footnote": [
+            "DG：无生态恢复的化草地Desetfatiograssandioutecalestoratomeasures；SG:化草的草作模式Isrubasieop restrio 草地的沙障 $^ +$ 灌草修复模式Sand-barierplusshrub-gras intercroprestoration patternof desertificationgrassland "
+        ],
+        "table_body": "<html><body><table><tr><td>生态恢复模式 Eecolgial pattern</td><td>样点号 NO.</td><td>Loe</td><td>LE</td><td>海</td><td>恢复年限 years/a</td><td>植被覆盖度 coverage/%</td><td>主要植被 vegetation</td></tr><tr><td>DG</td><td>DG1</td><td>33°51'38.43\"</td><td>102°34'1.5\"</td><td>3441</td><td>/</td><td>7</td><td rowspan=\"3\">白苞筋骨草(Ajuga lupulina）狼毒(tellera chamaejasme）、 早熟禾（Poa pratensis）蓟（Cirsium japonicum）、</td></tr><tr><td rowspan=\"2\"></td><td>DG2</td><td>33°43'06.2\"</td><td>102°29'28.1\"</td><td>3444</td><td>/</td><td>10</td></tr><tr><td>DG3</td><td>33°43'16.73\"</td><td>102°29'35.92\"</td><td>3455</td><td>/</td><td>3</td></tr><tr><td rowspan=\"3\">SG I</td><td>SGI1</td><td>33°51'36.8\"</td><td>102°34'01.5\"</td><td>3497</td><td>7</td><td>65</td><td rowspan=\"3\">红柳（Tamarix ramosissima）、早熟禾（Poa pratensis）、 垂穗披碱草（Elymus nutan）、白苞筋骨草(Ajuga lupulina)</td></tr><tr><td>SGI2</td><td>33°51'35.2\"</td><td>102°34'02.7\"</td><td>3496</td><td>7</td><td>70</td></tr><tr><td>SGI3</td><td>33°51'35.9\"</td><td>102°34'02.8\"</td><td>3496</td><td>7</td><td>60</td></tr><tr><td rowspan=\"3\">SG I</td><td>SG I1</td><td>33°43'17.7\"</td><td>102°29'05.8\"</td><td>3448</td><td>7</td><td>78</td><td rowspan=\"3\">红柳（Tamarix ramosissima）早熟禾（Poa pratensis）、 垂头菊（Cremanthodium reniforme）蓟(Cirsium japonicum）野胡萝卜（Daucus carota）野豌豆（Vicia sepium)</td></tr><tr><td>SGI2</td><td>33°43'19.5\"</td><td>102°29'05.0\"</td><td>3448</td><td>7</td><td>84</td></tr><tr><td>SGI3</td><td>33°43'17.6\"</td><td>102°29'04.6\"</td><td>3450</td><td>7</td><td>88</td></tr><tr><td rowspan=\"3\">SBSG</td><td>SBSG1</td><td>33°44'34.6\"</td><td>102°30'20.2\"</td><td>3472</td><td>4</td><td>72</td><td rowspan=\"3\">红柳（Tamarix ramosissima）、早熟禾（Poa pratensis）、 垂穗披碱草（Elymus nutan）、白苞筋骨草（Ajuga</td></tr><tr><td>SBSG2</td><td>33°44'36.1\"</td><td>102°29'47.7\"</td><td>3485</td><td>4</td><td>71</td></tr><tr><td>SBSG3</td><td>33°44'38.5\"</td><td>102°30'44.3\"</td><td>3508</td><td>4</td><td>85</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "碳库活度(A)=EOC/（TOC-EOC)  \n碳库活度指数( $\\mathrm { \\ C A } ) =$ 生态恢复模式土壤A/参考土壤A  \n碳库指数( $\\left( \\mathrm { C P I } \\right) =$ 生态恢复模式土壤TOC/参考土壤TOC碳库管理指数（ $\\mathrm { \\langle C P M I \\rangle } = \\mathrm { C P I } { \\times } \\mathrm { C A } { \\times } 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用Excel2003和 SPSS11.0软件进行数据统计分析,单因子方差分析（Oneway-AVOVA）和新复极差法(Duncan)进行不同生态恢复模式之间土壤有机碳及其活性组分的差异显著性检验( $\\alpha = 0 . 0 5 \\mathrm { ^ { \\cdot } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1沙化草地不同生态恢复模式土壤总有机碳变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可知,DG与SGI模式土壤总有机碳含量在垂直方向上的变化是先升高后降低，5— $1 0 \\ \\mathrm { c m }$ 或10—$2 0 ~ \\mathrm { c m }$ 土层最大;SGⅡ、SBSG 模式的与大多数土壤一致,随土层深度增加逐渐减小。除 SGI的 $_ { 0 - 5 } \\mathrm { c m }$ 与SGⅡ的 $\\mathrm { 5 - 1 0 } \\ 、 2 0 \\mathrm { - } 3 0 \\ \\mathrm { c m }$ 土层土壤有机碳含量与DG 的相应土层相近外,不同恢复模式其他土层土壤有机碳含量均增加,增幅为 $1 5 . 9 \\% - 2 7 1 . 7 \\%$ ,且SGI的 $_ { 0 - 1 0 \\ \\mathrm { c m } \\ , \\mathrm { S G } \\ \\mathrm { f l } }$ 的 $0 { - } 5 . 3 0 { - } 5 0 . 5 0 { - } 8 0 \\mathrm { c m }$ 土层土壤总有机碳含量与DG 相应土层土壤的达显著( $P { < } 0 . 0 5 )$ 。各沙化草地全剖面土壤总有机碳含量的高低顺序为 SGI（2 $( 5 . 9 6 ~ \\mathrm { { g / k g } ) > 5 B S G ( 5 . 8 2 ~ \\mathrm { { g / k g } ) > 5 G ~ I I ~ ( 3 . 4 1 ~ \\mathrm { { g / k g } ) > D G ( 2 . 9 7 ~ \\mathrm { { g / k g } ) } } } } $ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2沙化草地不同生态恢复模式土壤活性有机碳变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 微生物量碳",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物活跃土层为根系分布层次,本研究中的无生态恢复模式沙化草地仅有极少草本植物,各生态恢复模式沙化草地的植物为高原红柳与早熟禾等草本植物,根系集中分布在 $2 0 \\mathrm { c m }$ 土层以内,高原红柳的可达 $5 0 \\mathrm { c m }$ 土层。因此,本文重点分析0— $5 0 \\mathrm { { c m } }$ 土层土壤微生物量碳(MBC)含量。由图2可知,3种生态恢复模式土壤MBC含量的垂直变化是先升高后降低，5— $1 0 \\mathrm { { c m } }$ 或 $1 0 { - } 2 0 \\mathrm { c m }$ 土层达最高，DG模式的则是随土层深度的增加逐渐减小。SGI、SBSG 模式各土层土壤 MBC 含量均高于 DG,增幅分别是 $6 . 4 \\% - 5 5 . 1 \\%$ ，$6 7 . 4 \\% - 1 3 6 . 6 \\%$ ,其中 SBSG 模式的5— $1 0 \\mathrm { { c m } }$ 土层MBC含量与DG的达显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。除0 ${ \\cdot } 5 \\ \\mathrm { c m }$ 土层外,SGⅡ模式的其余土层土壤MBC含量都略高于DG，增幅 $2 . 5 \\% - 1 4 . 3 \\%$ 。各沙化草地全剖面土壤MBC含量的高低顺序为 SBSG(44.63 mg/kg)> SGI（33.42mg/kg）>SGII（25.13 mg/kg)>DG(24.47 mg/kg）c",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/48372775c8583500d723815a673248c565ec8680ad18d81b51d3de6917f9f504.jpg",
+        "img_caption": [
+            "Fig.1The content of soil total organic carbon（TOC)图中数据为平均值 $\\pm$ 标准误( $\\scriptstyle n = 3$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b66c7883c07f445468241c30bb3edc63474365eb81f0da8bd7719a6a691feea7.jpg",
+        "img_caption": [
+            "图1土壤总有机碳含量",
+            "图2土壤微生物量碳含量",
+            "Fig.2The content of microbial biomass carbon（MBC)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 溶解性有机碳 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3 显示,DG 与 SGⅡI、SBSG 模式土壤 DOC 含量在垂直方向上的变化也是先升高后降低,5— $1 0 \\mathrm { { c m } }$ 土层最高;SGI模式的则是随土层深度的增加逐渐减小。SGI模式各土层土壤 DOC 含量均高于DG,增幅$4 5 . 5 \\% - 1 8 5 . 9 \\%$ ,其中 $0 { - } 5 . 1 0 { - } 2 0 . 3 0 { - } 5 0 . 5 0 { - } 8 0 \\mathrm { c m }$ 土层DOC 含量与DG 的达显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。SBSG 模式$2 0 \\mathrm { c m }$ 以上的3层土壤DOC 较DG的相应土层增加 $6 8 . 9 \\% - 9 3 . 9 \\%$ ， $2 0 \\mathrm { c m }$ 以下土层土壤的与DG 相应土层的差异极小。SGⅡ模式各土层土壤 DOC 含量却小于DG 的相应土层。各沙化草地全剖面土壤 DOC 含量的高低顺序为SGI( $3 8 . 8 9 ~ \\mathrm { m g / k g }$ ） $>$ SBSG( $1 9 . 8 3 ~ \\mathrm { m g / k g }$ )>DG(16.27 mg/kg)> SGII( $\\mathrm { 9 . 1 3 ~ m g / k g } \\mathrm { , }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 易氧化有机碳",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4 显示,DG与SGI、SBSG 模式土壤易氧化有机碳(EOC)含量的垂直变化也为先升高后降低,10—$2 0 \\mathrm { c m }$ 土层达最高;SGⅡ模式的则是随土层深度的增加逐渐减小。SGI模式各土层土壤 DOC 含量均高于DG，增幅 $4 7 . 0 \\% - 1 6 2 . 8 \\%$ ,其中 10—20、50— $8 0 \\mathrm { c m }$ 土层土壤DOC含量与DG的达显著（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ）。SBSG模式各土层土壤EOC 也均高于DG,增幅 $1 6 . 1 \\% { \\_ } 9 0 . 8 \\%$ 。 $\\operatorname { s G I I }$ 模式,尽管其 $1 0 { - } 2 0 \\ldots 2 0 { - } 3 0 \\mathrm { c m }$ 土层土壤EOC小于DG,但其余土层土壤EOC却较DG的高，增幅 $2 9 . 0 \\% - 8 7 . 6 \\%$ 。各沙化草地全剖面土壤EOC含量的高低顺序为SGI( $2 . 2 5 ~ \\mathrm { g / k g } ^ { \\cdot }$ ） >SBSG(1.86 g/kg)> SGII( $1 . 3 7 ~ \\mathrm { g / k g } ^ { \\cdot }$ )>DG(1.19 g/kg）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aeb3fcafb3ff1a8e2027e9bd478b89d53b598e8d61f85c6be88eef3298ac9031.jpg",
+        "img_caption": [
+            "Fig.3The content of dissolved organic carbon（DOC) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/885fc13e7ab8db51a6fc8157ae097c822a871532daa8690f2a30c81d9d881648.jpg",
+        "img_caption": [
+            "图3土壤溶解性有机碳含量",
+            "图4土壤易氧化有机碳含量",
+            "Fig.4The content of easily oxidized organic carbon（EOC）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 颗粒有机碳 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5显示,土壤颗粒有机碳(POC)含量在垂直方向上的变化趋势为,SGI模式的先升高后降低，10—$2 0 \\mathrm { c m }$ 土层达最高,DG、SGⅡI、SBSG 模式的则是随土层深度的增加逐渐减小。SGI模式各土层土壤 POC 含量均高于DG,增幅 $6 1 . 1 \\% - 3 0 0 . 7 \\%$ ,其中 $1 0 { - } 2 0 \\mathrm { c m }$ 土层土壤 POC 含量与 DG 的达显著（ $\\mathrm { P } { < } 0 . 0 5 \\$ 。SGⅡ、SBSG 模式各土层土壤 POC 含量也都高于DG，增幅分别为 $1 4 . 3 \\% - 7 5 . 0 \\% , 1 1 0 . 1 \\% - 2 3 4 . 2 \\%$ ,其中 SBSG 模式的 $1 0 { - } 2 0 \\ldots 3 0 { - } 5 0 \\ldots 8 0 \\mathrm { c m }$ 土层土壤POC 含量与DG 的达显著。SGI、SGⅡ与 SBSG 模式的全剖面土壤POC 含量分别比I $) \\mathrm { G } ( 1 . 4 8 \\mathrm { g } / \\mathrm { k g } )$ 高 $1 3 0 . 9 \\% . 4 9 . 7 \\% . 1 7 0 . 3 \\%$ 。各沙化草地全剖面土壤POC 含量的高低顺序为SBSG $( 3 . 9 9 \\ { \\mathrm { g / k g } } ) > \\mathrm { S G ~ I } \\ ( 3 . 4 1 \\ { \\mathrm { g / k g } } ) > \\mathrm { S G } \\ { \\mathrm { I I } } \\ ( 2 . 2 1 \\ { \\mathrm { g / k g } } ) > \\mathrm { D G } ( 1 . 4 8 \\ { \\mathrm { g / k g } } ) \\ { \\mathrm { I f } } \\ { \\mathrm { g } } )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3沙化草地不同生态恢复模式土壤活性有机碳分配比例变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤某种活性有机碳的分配比例是指该种活性有机碳与总有机碳的比例。统计结果显示,研究区沙化草地土壤活性有机碳分配比例的垂直变化无明显规律可循，故表2只列了土壤活性有机碳分配比例的变化范围及全剖面均值。土壤 MBC的分配比例也称微生物熵,反映了输入土壤中有机物向微生物量碳的转化效率,值越大,转化率越大,微生物对有机碳的利用率越高。由表2可知,总体上,供试土壤微生物熵较低,变幅$0 . 0 9 \\% - 2 . 1 8 \\%$ ,全剖面的微生物熵值略高于 $1 . 0 0 \\%$ 。与DG相比,3种生态恢复模式土壤微生物熵略有降低，,但差异不显著。低温、干旱环境致使研究区土壤DOC分配比例变化范围仅为 $0 . 1 6 \\% - 1 . 6 2 \\%$ ,还低于微生物熵。与DG 相比,SGI模式的全剖面土壤 DOC 分配比例明显增加,SGI、SBSG 模式的则相反。同时,SGI模式土壤DOC 分配比例的垂直变化出现分馏现象[25]：表层 $\\mathrm { ( 0 { - } 5 ~ c m } , $ ）,化学结构更复杂的DOC 组分被土壤优先吸附和截留，土壤DOC分配比例 $1 . 9 5 \\%$ ，是DG模式相应土层土壤的3.65倍;深层( $3 0 \\mathrm { c m }$ 以下），结构更简单的DOC组分则淋溶至此，土壤DOC分配比例变化范围 $0 . 9 3 \\% - 0 . 9 7 \\%$ ,是DG模式相应土层土壤的1.51—1.63倍。土壤EOC分配比例变化范围为 $1 3 . 6 8 \\% - 6 8 . 8 8 \\%$ ,远远高于微生物熵与DOC分配比例。相较于DG，SGI、SGI模式的全剖面土壤EOC 分配比例有所增加,SBSG 模式的则明显降低。土壤POC 分配比例变化范围是 $1 1 . 7 6 \\% - 8 8 . 5 9 \\%$ ,不仅高于EOC 分配比例,还远远大于微生物熵与DOC分配比例。3种生态恢复模式的全剖面土壤POC 分配比例分别比DG 模式的增加 $2 2 . 9 2 \\% . 2 6 . 4 6 \\% . 2 5 . 7 3 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/928b1dac46e5322f06c0b3a548c758793808d113b0a8f64b2943a5750e983c1b.jpg",
+        "img_caption": [
+            "图5土壤颗粒有机碳含量",
+            "Fig.5The content of particulate organic carbon（POC)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff8cf956bafb2edf375ecfcfa2c840cfacab1cb7d482e3523b08e7acf63b37e9.jpg",
+        "table_caption": [
+            "表2土壤活性有机碳占总有机碳的比例",
+            "Table 2The distribution proportion of soil labile organic carbor "
+        ],
+        "table_footnote": [
+            "TOC;总有机碳Total rganiccarbon；MBC微生物量碳 Microbial biomasscarbon；DOC;溶解性有机碳，Disolved organiccarbon；EOC:易氧化有机碳 Easily oxidized organic carbon；POC：颗粒有机碳 Particulate organic carbon"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Index</td><td colspan=\"2\">DG</td><td colspan=\"2\">SG I</td><td colspan=\"2\">SG II</td><td colspan=\"2\">SBSG</td></tr><tr><td>范围 Range</td><td>全剖面 Whole profile</td><td>范围 Range</td><td>全剖面 Whole profile</td><td>范围 Range</td><td>全剖面 Whole profile</td><td>范围 Range</td><td>全剖面 Whole profile</td></tr><tr><td>MBC :TOC/%</td><td>0.58—2.06</td><td>1.28</td><td>0.09—2.18</td><td>1.06</td><td>0.29—2.12</td><td>1.10</td><td>0.70—1.41</td><td>1.14</td></tr><tr><td>DOC :TOC/%</td><td>0.20—1.15</td><td>0.58</td><td>0.19—1.62</td><td>0.87</td><td>0.16—0.65</td><td>0.26</td><td>0.18—0.79</td><td>0.34</td></tr><tr><td>EOC :TOC/%</td><td>20.02—59.43</td><td>40.10</td><td>21.68—56.12</td><td>41.91</td><td>16.19- -68.88</td><td>44.10</td><td>13.68- -64.23</td><td>32.79</td></tr><tr><td>POC :TOC/%</td><td>11.76- -86.53</td><td>54.44</td><td>32.94- -88.59</td><td>66.92</td><td>39.67—86.32</td><td>68.85</td><td>38.45- -80.49</td><td>68.43</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4沙化草地不同生态恢复模式土壤碳库管理指数变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知,3种恢复模式土壤碳库活度指数(CA)在0.35—2.05之间，且超过半数以上的土层土壤CA值小于1;土壤CA无明显的垂直变化规律;SGI、SGⅡ模式全剖面土壤CA 值大于1,SBSG 的仅为0.77。尽管3种恢复模式土壤碳库指数(CPI)垂直变化也无明显规律可循,但除 SGI模式的 $_ { 0 - 5 } \\ \\mathrm { c m }$ 土层、SGⅡ模式的5— $1 0 \\ \\mathrm { c m }$ 土层 $\\cdot 2 0 { - } 3 0 ~ \\mathrm { c m }$ 土层小于或等于1,其余土层的均大于1;3 种恢复模式土壤全剖面CPI均大于1,其大小顺序为 $\\operatorname { S G } { \\mathrm { ~ I ~ } } { \\mathrm { > S B S G > S G ~ I I } }$ ,与 TOC、EOC一致。虽然3种恢复模式土壤CPMI垂直变化规律与CA、CPI相似,但也仅SGⅡ模式的10— $2 0 ~ \\mathrm { c m }$ 土层 $\\ 、 2 0 - 3 0 \\ \\mathrm { c m }$ 土层小于 $100 \\%$ ,其余土层的都大于 $100 \\%$ ;3 种修复模式土壤全剖面CPMI值均大于 $100 \\%$ ,其大小按 SGI、SGⅡI、SBSG的顺序减小。可见,沙化草地的3种生态恢复模式都不同程度地提高了土壤质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d3bd520af429338d1eb3e33848ce9c8815d20bcd9fb0aa1daeb233f18da0b11.jpg",
+        "table_caption": [
+            "Table 3The value of soil carbon pool management index（CPMI）and related indexes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indexes</td><td rowspan=\"2\">生态恢复模式 restEcailg gaterm</td><td colspan=\"6\">土层深度 Soil depth /cm</td><td rowspan=\"2\">全剖面 phoele</td></tr><tr><td>0-5</td><td>5-10</td><td>10-20</td><td>20-30</td><td>30-50</td><td>50-80</td></tr><tr><td>碳库活度指数</td><td>SG I</td><td>1.29</td><td>0.95</td><td>0.52</td><td>0.81</td><td>1.40</td><td>1.21</td><td>1.11</td></tr><tr><td>Carbon activity（CA)</td><td>SGI</td><td>1.65</td><td>1.29</td><td>0.35</td><td>0.93</td><td>2.05</td><td>1.69</td><td>1.49</td></tr><tr><td></td><td>SBSG</td><td>0.80</td><td>1.01</td><td>0.70</td><td>0.86</td><td>0.85</td><td>0.68</td><td>0.77</td></tr><tr><td>碳库指数</td><td>SG I</td><td>0.94</td><td>2.18</td><td>3.72</td><td>2.23</td><td>1.70</td><td>1.48</td><td>1.92</td></tr><tr><td>Carbon pool index(CPI)</td><td>SGⅡ</td><td>1.16</td><td>1.00</td><td>1.17</td><td>0.81</td><td>1.36</td><td>1.22</td><td>1.18</td></tr><tr><td></td><td>SBSG</td><td>1.71</td><td>1.62</td><td>1.75</td><td>1.85</td><td>1.91</td><td>1.72</td><td>1.78</td></tr><tr><td>碳库管理指数/%</td><td>SG I</td><td>124.3</td><td>207.8</td><td>161.1</td><td>137.9</td><td>226.0</td><td>180.9</td><td>182.5</td></tr><tr><td>Carbon pool management</td><td>SGI</td><td>188.2</td><td>150.0</td><td>41.1</td><td>70.6</td><td>248.7</td><td>159.5</td><td>157.1</td></tr><tr><td>index(CPMI)</td><td>SBSG</td><td>127.4</td><td>150.5</td><td>112.2</td><td>159.1</td><td>150.7</td><td>109.3</td><td>129.9</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5沙化草地土壤活性有机碳组分、碳库管理指数与其他性质的相关性",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤活性有机碳组分、碳库管理指数与有机质、氮磷素的相关性统计结果(表4)显示,土壤各活性有机碳组分、CPMI均与有机质、氮磷素呈正相关。土壤MBC与全氮、全磷、微生物量磷的相关系数达显著或极显著，与碱解氮的在 $10 \\%$ 水平上显著；DOC与有机质、全氮、全磷、碱解氮、微生物量磷的相关系数达显著或极显著,与速效磷的在 $10 \\%$ 水平上显著;EOC、POC 与有机质、全量氮磷、有效氮磷、微生物量氮磷的相关系数均达显著或极显著。可见,本研究中的 MBC、DOC、EOC 与 POC 均能指示沙化草地土壤养分肥力的变化,尤其是EOC 与POC。土壤CPMI与各养分指标的相关系数,仅与微生物量氮达显著,与有机质在 $10 \\%$ 水平上显著。但统计结果又显示,本研究中土壤CPMI与EOC、POC 与相关系数分别为0.630( $P { < } 0 . 0 0 1$ ）、0.235( $P { < } 0 . 0 5 \\mathrm { ~ ; ~ }$ ,达极显著、显著,间接表明土壤CPMI也可用于表征生态恢复措施对沙化草地土壤质量的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b091e38dbcc6065456d1c47f0a1e1ef7e668edf9f2e6b2ced2df38eb5c697ec.jpg",
+        "table_caption": [
+            "表3土壤碳库管理指数及相关指标",
+            "表4土壤活性有机碳、碳库管理指数与其他土壤性质的相关性",
+            "Table 4The correlation between soil labile organic carbon,CPMI and other propertie "
+        ],
+        "table_footnote": [
+            "\\* ${ P { < } 0 . 1 }$ ； $* \\ : P { < } 0 . 0 5$ ； $\\ast \\ast P { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>指标 Indexes</td><td>有机质 Organic matter</td><td>全氮 Total nitrogen</td><td>碱解氮 Available nitrogen</td><td>微生物量氮 Microbial biomass carbon</td><td>全磷 Total phosphorus</td><td>速效磷 Available</td><td>微生物量磷 Microbial biomass</td></tr><tr><td>MBC</td><td>0.431**</td><td>0.298 *</td><td>0.237(*)</td><td>0.082</td><td>0.535 **</td><td>phosphorus -0.006</td><td>phosphorus 0.350 *</td></tr><tr><td>DOC</td><td>0.475 **</td><td>0.505 **</td><td>0.492**</td><td>0.026</td><td>0.255 *</td><td>0.204（ *）</td><td>0.369 **</td></tr><tr><td>EOC</td><td>0.831**</td><td>0.594 **</td><td>0.574 **</td><td>0.595 **</td><td>0.410 **</td><td>0.315 **</td><td>0.380 **</td></tr><tr><td>POC</td><td>0.802**</td><td>0.513 **</td><td>0.393**</td><td>0.306 *</td><td>0.417 **</td><td>0.329 **</td><td>0.511 **</td></tr><tr><td>CPMI</td><td>0.257(*)</td><td>0.165</td><td>0.186</td><td>0.349 *</td><td>0.121</td><td>0.206</td><td>0.143</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1沙化草地不同生态恢复模式提高土壤有机碳效应的差异 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量取决于有机物料输入和损失量的差值,输入量大于损失量,有机碳含量升高,反之降低。本研究显示,SGI、SGⅡ、SBSG 模式土壤全剖面总有机碳含量分别比DG 高 $1 0 0 . 6 \\% , 1 4 . 7 \\% , 9 6 . 0 \\%$ 。可见,3种恢复模式均能不同程度地提高了沙化草地土壤总有机碳含量,与彭佳佳等[19]、史长光等[19]、周家福[18]之前在红原一带的研究结果一致。这归功于3种恢复模式都能防风固沙,增加水分人渗[26-27],提供适合植物生长的基本土壤条件,从而增大土壤中枯落物的归还量与地下根系量及其根系分泌物量、微生物数量[28],最终致使有机物料的输入量高于矿化分解损失量。不同恢复模式提高土壤总有机碳含量的效应不一致,SGI、SBSG 模式土壤总有机碳含量分别比SGⅡ模式的高 $7 4 . 9 \\% . 7 0 . 9 \\%$ ,表明灌草间作模式I与沙障 $^ +$ 灌草模式提",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "高土壤有机碳的效果相近，但都优于灌草间作模式 $\\mathbb { I }$ C",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究中,SGI、SGⅡ与SBSG 模式的全剖面土壤MBC含量分别比DG 高 $3 6 . 6 \\% . 2 . 7 \\% . 8 2 . 4 \\%$ ,DOC含量分别比DG高 $1 3 9 . 0 \\% . - 4 3 . 9 \\% . 2 1 . 8 \\%$ ,EOC 含量分别比DG高 $8 9 . 4 \\%$ ） $1 5 . 0 \\%$ ） $5 6 . 2 \\%$ ,POC含量分别比DG高 $1 3 0 . 9 \\% . 4 9 . 7 \\% . 1 7 0 . 3 \\%$ 。这表明总体上3种恢复模式土壤各组分活性有机碳含量均较DG有不同程度的增加,与沙化草地高山红柳间植草本植物模式在瓦切乡的试验效果一致[17],与其他地区的植被恢复措施可有效提高土壤活性有机碳效应的结论相似[29-30]。不同恢复模式提高土壤活性有机碳效应不一致,其中提高土壤 MBC、DOC、POC的效应大小为， $\\mathrm { S B S G } > \\mathrm { S G } \\ \\mathrm { I } > > \\mathrm { S G } \\ \\mathrm { I I }$ ;提高土壤EOC的效应大小则为， $\\mathrm { S G ~ I } > \\mathrm { S B S G } > > \\mathrm { S G }$ Ⅱ。综合分析3种恢复模式的恢复年限(表1),以及全剖面土壤4种活性有机碳含量不难发现,沙障 $\\cdot +$ 灌草模式是一种效果最佳的沙化草地生态恢复模式。这是因为方形高原红柳等树枝沙障能固沙,方形沙障中的高原红柳成条带状与早熟禾等草本植物不仅可固沙防风,还能阻止外源沙,进而营造一适合植物生长发育的土壤环境,生长较好植物又可向土壤中输入较多有机物,促进有机碳及活性组分的增加,如此循环,可快速恢复亚高山(灌丛)草甸生态环境。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与相关研究结果[17-19]相比,若尔盖沙化草地土壤总有机碳及其活性组分含量的垂直分布规律不全是随土层深度增加而减小,如DG 模式的 TOC、DOC、EOC 含量,SGI模式的 TOC、MBC、EOC、POC 含量,SG Ⅱ模式的 MBC、DOC 含量,SBSG 模式的 MBC、DOC、EOC 含量是先增加后减小,大致在5— $1 0 \\ \\mathrm { c m }$ 土层或10- $\\cdot 2 0 \\ \\mathrm { c m }$ 土层最大。这与蔡晓布等[16.31]对藏北高原的高寒正常草地与沙化草地土壤的研究结论相似。因为沙区的风蚀、风积作用[32-33]导致表层土壤砂粒多于亚表层,即使是生态恢复模式下的土壤仍存在这种风蚀、风积作用,由此带给土壤性质的负效应远大于正效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2沙化草地不同生态恢复模式土壤活性有机碳分配比例的差异",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究区的低温、干旱环境使得土壤微生物熵、DOC 分配比例均较低,变化范围分别为 $0 . 0 9 \\% - 2 . 1 8 \\%$ 、$0 . 1 6 \\% { - 1 . 6 2 \\% }$ 。其中微生物熵低于内蒙古科尔沁沙化草地土壤 $( 1 . 7 \\% - 4 . 8 \\% )$ ）[29]；DOC分配比例与内蒙古锡林河流域草地土壤的 $( 0 . 3 2 \\% - 1 . 0 9 \\% )$ )相似[34],高于藏北高原正常与沙化草地土壤 $( < 0 . 1 \\% )$ [31]。但这一独特的低温、干旱、砂土质地条件却有助于输入土壤中的有机物向 EOC、POC 转化。土壤 EOC、POC 分配比例变化范围分别为 $1 3 . 6 8 \\% - 6 8 . 8 8 \\% \\ 、 1 1 . 7 6 \\% - 8 8 . 5 9 \\%$ ,远远高于微生物熵与DOC分配比例。其中土壤EOC 分配比例高于蔡晓布等[31]在藏北高原沙化与围栏封育草地土壤( $( 1 7 . 0 \\% - 2 2 . 5 \\%$ ),可能是藏北高原土壤总有机碳较高,大多在 $6 . 0 \\mathrm { g / k g - } 1 0 . 0 \\mathrm { g / k g }$ 之间,而本研究中土壤总有机碳较低,大部分变幅在 $2 . 0 { - } 6 . 0 \\mathrm { g / k g }$ 。土壤POC 分配比例高于杨新国等[30]在宁夏盐池的沙化草地土壤（ $( 2 8 . 7 \\% - 6 3 . 6 \\%$ ),这是因为研究区的土壤颗粒组成中以砂粒（2- $\\cdot 0 . 0 2 \\mathrm { m m } ^ { \\cdot }$ )为主，变幅 $8 . 2 0 \\% - 9 5 . 8 3 \\% ^ { [ 3 5 - 3 6 ] }$ ,与有机碳结合的绝大多数土壤颗粒是砂粒,造就了土壤POC的高分配比例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3种生态恢复模式的全剖面土壤微生物熵均较DG 模式的略有降低,且不同生态恢复模式之间无显著差异,说明不同生态恢复模式下，输入土壤中有机物转化成微生物碳的速率低于无生态恢复措施土壤，其微生物熵的增大还有赖于恢复年限的增加引起土壤中体积 $< 5 - 1 0 5 \\mu \\mathrm { m }$ 活的细菌、真菌、藻类和微动物的增多。3种生态恢复模式的全剖面土壤POC分配比例都高于DG模式，增幅 $2 2 . 9 2 \\% - 2 6 . 4 6 \\%$ 。表明仍处于砂土质地条件的各生态恢复模式,其输入土壤中有机物向 POC转化量较多,速度也较快,但不同生态恢复模式之间无显著差异。各生态恢复模式全剖面土壤DOC、EOC与DG 的差异则因沙化草地不同生态恢复模式及其恢复年限的差异不一致。SGI模式的恢复年限已达7年,输入有机物转化成DOC 的量不仅多,速率也可能较大,致使土壤 DOC 分配比例明显高于DG,垂直变化出现分馏现象[25]。SGⅡ模式的恢复年限虽也达 $\\mathrm { 7 a }$ ,但4—5行高山红柳为环状栽植,防风固沙能力较弱,输入有机物转化成DOC 的量不仅少,速率也可能较低,致使土壤 DOC分配比例低于DG。SBSG模式的则因恢复年限较低导致土壤DOC分配比例也低于DG。也正是因为恢复年限的差异(表1),SGI、SGⅡ模式的全剖面土壤 EOC 分配比例较DG 有所增加，SBSG 模式的则明显低于 $\\mathrm { D G }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3沙化草地土壤活性有机碳及碳库管理指数对土壤质量的表征作用",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "土壤CPMI从有机碳库的角度反映不同土壤环境条件下土壤质量的差异以及人工生态恢复措施提升土壤质量的能力[9,31]。本研究结果显示,SGI、SG Ⅱ、SBSG 模式的全剖面土壤CPMI分别为 $1 8 2 . 5 \\% , 1 5 7 . 1 \\%$ 、$1 2 9 . 9 \\%$ ,均大于 $100 \\%$ 。可见,3 种恢复模式均能不同程度地提升土壤质量,这与邱莉萍等[12]、Gong 等[9]的研究结论相似;同时,由于恢复年限的差异(表1),3种恢复模式提升土壤质量的能力大小为,灌草间作模式 $\\mathrm { I } >$ 灌草间作模式 $\\mathbb { I } > \\dot { \\mathcal { V } } \\dot { \\mathcal { V } }$ 障 $^ +$ 灌草模式。表明沙障 $^ +$ 灌草模式提高土壤有机碳效应虽较灌草间作模式Ⅱ高，但易氧化有机碳的增加量相对少于难氧化有机碳,导致其有机碳质量(碳素有效性)反而低于灌草间作模式Ⅱ。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明,土壤活性有机碳组分、碳库管理指数与大多数物理、化学、生物性质呈显著相关,可作为表征土壤质量对水、肥、耕作等管理措施与覆被变化等土壤环境条件变化的早期灵敏反应指标[9-12,37]。本研究结果显示,土壤 MBC、DOC、EOC 与 POC 基本都与有机质、氮磷呈显著正相关,可指示沙化草地土壤养分肥力变化,与邱莉萍等[12]、Gong 等[9]等的研究结论相似。土壤CPMI与微生物量氮、EOC、POC 呈显著或极显著正相关,与有机质在 $1 0 \\%$ 显著水平上呈正相关。表明CPMI仍可在一定程度上用于表征生态恢复措施对沙化草地土壤质量的影响,与Gong 等[9]等的研究结论相似。综合比较各活性有机碳与土壤养分的相关性,以及各活性组分的测定方法,本研究认为土壤EOC不仅测定方法简单、工序少、省时,而且能在短时间内变化较大，可作为反映生态恢复措施对沙化草地土壤质量影响的优选指标。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 种恢复模式均不同程度地提高了土壤总有机碳及其活性组分的含量。与DG 相比,3种恢复模式土壤活性有机碳的增幅为 $2 . 7 \\% - 1 3 9 . 0 \\%$ 。不同恢复模式提高土壤有机碳效应的大致趋势是,灌草间作模式 $\\boldsymbol { \\mathrm { ~ I ~ } } \\approx$ 沙障 $+$ 灌草模式 $\\mathrm { > } >$ 灌草间作模式 $\\mathbb { I }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高寒、干旱环境条件以及砂土质地使得沙化草地土壤微生物熵、DOC 分配比例较小,EOC、POC 分配比例则较高。3种生态恢复模式土壤活性有机碳分配比例与DG 的差异表现不一致,显著体现是 SGI模式土壤DOC 分配的垂直变化出现分馏现象。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 种生态恢复模式CPMI均大于 $100 \\%$ ,能不同程度地提升土壤质量,其效应大小为,灌草间作模式I(CPMI, $1 8 2 . 5 \\%$ ） $>$ 灌草间作模式Ⅱ（CPMI, $1 5 7 . 1 \\%$ ） $>$ 沙障 $+$ 灌草模式（CPMI, $1 2 9 . 9 \\%$ )。易氧化有机碳可作为反映沙化草地不同生态修复模式土壤质量变化的优选指标,CPMI也可用于表征生态恢复措施对沙化草地土壤质量的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］蔡晓布，周进.退化高寒草原土壤有机碳时空变化及其与土壤物理性质的关系.应用生态学报，2009,20(11)：2639-2645.  \n[2]Miral,dGc-alitdbioteast Spain.Geoderma，2009，150(1/2）：120-128.  \n[3］孟令阳，辛术贞，苏德纯.不同惰性有机碳物料对土壤镉赋存形态和生物有效性的影响.农业环境科学学报,2011,30（8)：1531-1538.  \n[4]GarbiL,rducYfsogoiraesteateartIleboubApplied Geochemistry，2010,25(11）：1711-1721.  \n[5］张明园，魏燕华，孔凡磊，陈阜，张海林.耕作方式对华北农田土壤有机碳储量及温室气体排放的影响.农业工程学报，2012，28（6)：203-209.  \n[6]Lal R. Soil carbon sequestration to mitigate climate change.Geoderma,2O04,123(1/2）：1-22.  \n[7]Wardepaatietfcsealosbodevelsiillv，9,67(3):321-358.  \n[8]GartenCTJrostIWHsonorLForestsolbivetorsddacsgelevatiogradientineoutAppalachian mountains.Biogeochemistry，1999,45(2）：115-145.  \n[9]GongW,HuTXWangJYGongYB，RanHSoilcarbonpolandfertlityundernaturalevergrenbrodleavedforestandstfialregeneration forests in southern Sichuan Province，China.Acta Ecologica Sinica,2008,28(6）：2536-2545.  \n[10]VieiraFarCZataJA,ickow,ieliczukJ,HeZL.Carbonmaageetidexbasedopsicalfractioatiooflmatter in an Acrisol under long-term no-tillcropping systems.Soil& Tillage Research,2007,96(1/2）：195-204.  \n[11］李硕，李有兵，王淑娟，师江澜，田霄鸿.关中平原作物秸秆不同还田方式对土壤有机碳和碳库管理指数的影响.应用生态学报，2015，26(4) : 1215-1222.  \n[12］邱莉萍，张兴昌，程积民.不同封育年限草地土壤有机质组分及其碳库管理指数.植物营养与肥料学报，2011，17(5）：1166-1171.  \n[13]DaSilaFD,AmadoJ,FerrraAO,ssanJM,AgoIdeccoCarvadSarboiicessaetedarsfintegratedostokpuctioitpsureigiesiioutrailostsdEvio，190: 60-69.  \n[14]LuoSS,Zu,LiuJL,LD,YueSCnYF,LiSQsiviyfslancabostocsdfractiostlfeginsemiarid farmland.European Journal of Soil Biology，2O15,67：35-42.  \n[15］张顺谦，郭海燕，罗勇.气候变化和载畜量对若尔盖草地沙化的驱动力评价.中国草地学报，2007，29（5)：64-71.  \n[16] 蔡晓布，彭岳林，于宝政，刘合满.不同状态高寒草原主要土壤活性有机碳组分的变化.土壤学报，2013，50(2)：315-323.  \n[17］彭佳佳，胡玉福，蒋双龙，肖海华，蒲琴.生态恢复对川西北沙化草地土壤活性有机碳的影响.水土保持学报，2014，28(6)：251-255.  \n［18］周家福.川西北沙化草地生态恢复过程中植被与土壤变化研究[D].雅安：四川农业大学，2008.  \n[19］史长光，泽柏，杨满业，肖冰雪.川西北沙化草地植被恢复后土壤理化性质的变化.草业与畜牧，2010,（4)：1-4，32-32.  \n[20]JnesD，ilVExptaleofstatifso（）ddsoc（）soil.Soil BiologyandBiochemistry，2006，38(5）：991-999.  \n[21]BlairGJ，efroyR,LisleLSoilarbofractiosbasedoirdegreeofoxidatioandtedevelopentofarbomaageentideforagricultural systems.Australian Journal of Agricultural Research，1995，46(7）：1459-1466.  \n[22］吴金水，林启美，黄巧云，肖和艾.土壤微生物生物量测定方法及其应用.北京：气象出版社，2006.  \n[23］孙玉桃，廖育林，郑圣先，聂军，鲁艳红，谢坚.长期施肥对双季稻种植下土壤有机碳库和固碳量的影响.应用生态学报，2013，24（3)：732- 740.  \n[24] 鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，2000.  \n[25]KaiserK，Kalbitz K.Cyclingdownwards-disolvedorganicmatter insoils.Soil BiologyandBiochemistry,2O12,52：29-32.  \n[26] 蒙嘉文，左林，蔡应君，邓东周，鄢武先.若尔盖县土地沙化现状分析及治理对策研究.四川林业科技，2013，34（4)：42-46.  \n[27］肖冰雪，陈琴，杨满业，向锦，吴凯.若尔盖辖曼牧场沙化草地植被恢复与重建技术综述.草业与畜牧，2008，（7)：60-61.  \n[28] 金晶，曹致中，曹毅.人工恢复沙化草地的土壤微生物和酶活性的研究.草原与草坪，2011，31（1)：84-88.  \n[29］尚雯，李玉强，韩娟娟，赵学勇，张铜会,罗永清，王少昆.围封对流动沙丘表层土壤有机碳、全氮和活性有机碳的影响.水土保持学报，2012,26(6): 147-152.  \n[30］杨新国，宋乃平，李学斌，刘秉儒.短期围栏封育对荒漠草原沙化灰钙土有机碳组分及物理稳定性的影响.应用生态学报，2012，23(12)：3325-3330.  \n[31］蔡晓布，于宝政，彭岳林，刘合满.高寒草原土壤有机碳及土壤碳库管理指数的变化.生态学报，2013，33(24)：7748-7755.  \n[32] 股中商银 张法伟，李英年，汪诗平，赵新全.青藏高原高寒草甸土壤有机质、全氮和全磷含量对不同土地利用格局的响应.中国农业气象，2009,30(3):323-326.  \n[33］王文颖，王启基，鲁子豫.高寒草甸土壤组分碳氮含量及草甸退化对组分碳氮的影响.中国科学D辑：地球科学，2009，39（5)：647- 654.  \n[34］齐玉春，彭琴，董云社，肖胜生，孙良杰，刘欣超，何亚婷，贾军强，曹丛丛.温带典型草原土壤总有机碳及溶解性有机碳对模拟氮沉降的响应.环境科学，2014，35（8)：3073-3082.  \n[35］胡玉福，彭佳佳，邓良基，肖海华，蒋双龙，马可雅.围栏种植红柳对川西北高寒沙地土壤颗粒组成和矿质养分的影响.土壤通报，2015,46(1) : 54-61.  \n[36］舒向阳，胡玉福，蒋双龙，蒲琴，袁铖铭，彭佳佳.川西北草地沙化对土壤颗粒组成和土壤磷钾养分的影响.干旱区资源与环境，2015，29(8): 173-179.  \n[37］邓少虹，林明月,李伏生，苏以荣，刘坤平.施肥对喀斯特地区植草土壤碳库管理指数及酶活性的影响.草业学报，2014，23（4)：262-268.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

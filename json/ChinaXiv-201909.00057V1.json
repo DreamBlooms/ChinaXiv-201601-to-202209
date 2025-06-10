@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "干旱生境下3种植物叶凋落物分解动态特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨晶晶1,²，周正立²³，吕瑞恒2³，梁继业²3，王雄12（1．塔里木大学生命科学学院,新疆 阿拉尔843300;  \n2．新疆生产建设兵团塔里木盆地生物资源保护利用重点实验室,新疆 阿拉尔843300;  \n3．塔里木大学植物科学学院，新疆 阿拉尔843300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以塔里木盆地胡杨、多枝怪柳、胀果甘草为研究对象,应用凋落袋法,研究叶凋落物分解动态,揭示3种植物叶凋落物在干旱生境下分解动态特征，结果表明： $\\textcircled{1}$ 经过 $8 1 0 \\mathrm { ~ d ~ }$ 分解，胡杨、胀果甘草叶凋落物质量残留率分别为 $4 8 . 9 3 \\% . 3 8 . 0 7 \\%$ ，经 $6 3 0 \\mathrm { ~ d ~ }$ 分解多枝怪柳叶凋落物质量残留率为 $6 9 . 5 5 \\%$ ,分解时间对胡杨、胀果干草、多枝柽柳叶凋落物残留率均有极显著影响,处理(林窗、林下)对胡杨、胀果干草叶凋落物残留率有显著影响、极显著影响。$\\textcircled{2}$ 处理对3种植物叶调落物分解系数有显著影响( $\\textstyle P < 0 . 0 5 ,$ ，且分解系数 $( k )$ 表现为 $k _ { \\mathrm { \\# K \\Re } } > k _ { \\mathrm { \\# K F } }$ $k _ { \\mathbb { H } \\times \\mathbb { H } \\times \\mathbb { H } } > k _ { \\mathbb { H } \\times \\mathbb { H } } >$ $k _ { \\mathfrak { X } _ { k _ { x } + \\sharp \\sharp } }$ ,经810d分解胡杨、胀果甘草叶调落物 $t _ { 0 . 9 5 }$ 分别为 $9 . 1 5 \\sim 9 . 4 8$ a $, 6 . 7 5 \\sim 7 . 0 3 \\mathrm { ~ a ~ }$ ，经 $6 3 0 \\mathrm { ~ d ~ }$ 分解多枝怪柳叶凋落物 $t _ { 0 . 9 5 }$ 为 $1 3 . 8 2 \\sim 1 5 . 0 5 \\mathrm { ~ a } _ { \\odot }$ 1 $\\textcircled{3}$ 受植物种类的影响，分解时间、处理对 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素释放进程影响不同。3种植物C元素都表现出释放一富积一释放的变化过程，多枝怪柳、胀果甘草叶凋落物N元素在观测期内表现出释放一富积的过程,而胡杨林下则表现出富积—释放一富积的规律,观测期内P元素释放过程与N元素表现出相似的变化规律。 $\\textcircled{4}$ 叶凋落物分解系数 $k$ 值与分解时间、残留量、全氮、全磷、木质素、木质素比氮呈极显著相关( $\\textstyle P < 0 . 0 1 { \\dot { } }$ ，土壤湿度、全碳、C/N均与 $k _ { \\mathrm { \\# K P a f } } \\mathrm { ~ , ~ } k _ { \\mathrm { \\# K F } }$ 存在极显著差异。干旱区微生境(林下、林窗)的变化对叶凋落物分解有显著影响，凋落物质量与土壤湿度对凋落物分解起主导作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：凋落物；分解；林窗；林下；干旱生境；沙雅县；新疆 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物凋落物分解是陆地生态系统C与养分元素循环的关键环节，同时也为植物生长、微生物代谢提供营养物质与能量来源[1-2],对于促进森林生态系统结构稳定、维持土壤肥力具有积极的作用[3]针对干旱、极端干旱区植被群落结构简单，土壤有机质匮乏，地表凋落物能有效增加土壤碳库，但其分解快慢对荒漠生态系统持续性与稳定性更加重要[4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木盆地深处大陆内部，生态环境脆弱，异质性强，受到局部地形地貌、光照条件、水分状况、盐分条件的影响而形成不同的生境类型(5-7]。近年来,受全球气候变化的影响，干旱区植物凋落物分解更加具有复杂性与特殊性。因此，认识和了解干旱区荒漠植被分解规律对荒漠生态系统物质循环意义重大，众多学者也试图通过模拟氮沉降、光降解、干湿交替〔8-1]等处理来揭示干旱区植物凋落物分解变化过程，但对自然状态下微生境变化对调落物分解影响研究较少。本文以塔里木盆地3种荒漠优势种胡杨（PopuluseuphraticaOliv.）多枝怪柳（TamarixramosissimaLedeb.）、胀果甘草（GlycyrrhizainflateBatalin)为研究对象，揭示干旱生境（林窗、林下）条件微生境变化对3种植物叶调落物分解参数及C、$_ { \\textrm { N } , \\textrm { P } }$ 元素释放进程的影响，为了解和评估干旱、极端干旱地区荒漠生态系统养分循环过程提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区位于沙雅县( $8 2 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ $4 2 ^ { \\circ } 4 1 ^ { \\prime } \\mathrm { N } \\cdot$ 境内。沙雅县位于天山中段以南，塔克拉玛干大沙漠北缘，属典型的大陆性暖温带干旱气候，风沙频繁、降水稀少、蒸发量大、昼夜温差大、夏季干热、冬季干冷。沙雅县平均气温 $1 0 . 7 ~ \\mathrm { ^ { \\circ } C }$ ，全年日平均气温 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 天数为 $2 0 0 \\textup { d }$ ，累计积温 $4 1 0 5 \\mathrm { ~ \\textdegree C }$ 。年平均降水量47.3$\\mathbf { m } \\mathbf { m }$ ,年均蒸发量 $2 ~ 0 0 0 . 7 ~ \\mathrm { { \\ m m } }$ ,蒸发量是降水量的42.3倍[12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究区内选择典型胡杨群落、多枝怪柳群落，并调查群落生长状况及其生境条件（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1调落物的收集及放置在试验区内设置胡杨群落、多枝柽柳群落样方各3个，大小均为$5 0 \\ \\mathrm { m } \\times 5 0 \\ \\mathrm { m } , 2$ 种群落样方内均有自然形成 $2 0 0 \\sim$ $4 0 0 \\ \\mathrm { m } ^ { 2 }$ 林窗。在2014年11月，分别在3种植物叶凋落量最大的时间段，收集当年新鲜叶凋落物，带回实验室清洗，自然风干至恒重，3种植物凋落叶分别称取 $1 0 . 0 0 \\mathrm { ~ g ~ }$ ,各自装袋，做好标记，每袋误差不超过$0 . 0 1 \\mathrm { ~ g ~ }$ ，尼龙网袋规格为： $1 2 \\ \\mathrm { c m } \\times 1 2 \\ \\mathrm { c m }$ ,网眼大小为 $0 . 3 \\ \\mathrm { m m }$ ,其中胡杨532袋，多枝柽柳576袋，胀果甘草532袋。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2014年12月将装好的尼龙网袋放置于胡杨群落和多枝怪柳群落，林窗、林下作为处理对待。胡杨群落中选择胡杨标准木（接近平均胸径、冠幅），在其林冠下放置胡杨叶凋落袋、胀果甘草叶凋落袋，胡杨群落林窗下放置胡杨、胀果甘草叶凋落袋，林下、林窗处理放置凋落袋数量相同。胡杨林下放置时以树干为中心，直径 $3 \\mathrm { ~ m ~ }$ 之内均匀放置。多枝柽柳群落中放置多枝怪柳叶调落袋，放置方法与胡杨群落放置方法相似，以植株树干为中心， $1 \\mathrm { ~ m ~ }$ 之内均匀放置。2种群落林窗下放置尽可能保证得到全天自然光照。放置时，凋落袋之间不重叠，紧贴地表，用细绳固定，做好标记，让其自行分解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2凋落袋的取样处理按照林下、林窗放置处理，胡杨、胀果甘草叶调落袋试验时间810d,多枝柽柳叶调落袋由于人为破坏丢失一部分，试验时间为$6 3 0 \\mathrm { ~ d ~ }$ 。每隔3个月定期取样，每种植物凋落袋各取3袋,带回实验室，清洗去除泥沙， $8 0 ~ \\mathrm { { ^ { \\circ } C } }$ 条件下烘干至恒重，称重并测定残留凋落物的质量，再将凋落物粉碎、过100目筛、保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3叶调落物组分指标的测定调落物组分测定指标包括：有机碳、全氮、全磷、木质素、纤维素含量(表2）。有机碳采用重铬酸钾容量法－稀释热法；全氮、全磷采用硫酸-高氯酸消煮后，凯氏定氮法测定、钼锑抗比色法测定，木质素含量、纤维素含量采用酸性洗涤纤维法测定(13-14) ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.4土壤环境指标的测定从调落袋放置日起， 定时取回凋落袋的同时，进行土壤表层 $0 \\sim 1 0 ~ \\mathrm { c m }$ 土 壤温度、湿度的测定，土壤温度采用地温计测定，土 壤湿度测定采用烘干法(14] ○ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 凋落物分解凋落物质量残留率 $( M R , \\% )$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol M \\boldsymbol R = \\boldsymbol M _ { t } / \\boldsymbol M _ { o }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { 0 }$ 为凋落物初始重量 $\\mathbf { \\Psi } ( \\mathbf { g } ) : M _ { t }$ 为经时间 $\\mathbf { \\chi } _ { t }$ 后的凋落物残留量（g）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凋落物的分解动态常用Olson指数衰减模型来描述和预测：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { t } / M _ { 0 } = \\mathrm { e } ^ { - k t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $k$ 为凋落物分解系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7032f5880a0f6a11b001d43704195e6bd17f581f1c2cc232bb5d2a6121ba2cf6.jpg",
+        "table_caption": [
+            "表1试验区基本情况",
+            "Tab.1 Basic situation of the experimental area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">群落类型</td><td rowspan=\"2\">胸(地)径/cm</td><td rowspan=\"2\">树高/m</td><td colspan=\"2\">冠幅/m</td><td rowspan=\"2\">郁闭度</td><td rowspan=\"2\">主要群落组成</td><td rowspan=\"2\">地下水位/m</td></tr><tr><td>东西</td><td>南北</td></tr><tr><td>胡杨群落</td><td>45.02</td><td>11.43</td><td>10.84</td><td>7.31</td><td>0.46</td><td>胡杨+胀果甘草</td><td>5.78</td></tr><tr><td>多枝怪柳群落</td><td>2.04</td><td>1.63</td><td>1.59</td><td>1.74</td><td>0.51</td><td>多枝怪柳+骆驼刺</td><td>6.36</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e52538a6f678f00ccc63529c97943f2a349222790b62e63781a1bc10eb3edda0.jpg",
+        "table_caption": [
+            "表23种叶调落物初始化学组成",
+            "Tab.2Initial chemical composition of foliar litters of three plant species "
+        ],
+        "table_footnote": [
+            "注：同列不同字母表示不同物种化学组成在0.05水平上差异显著。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>C/(g·kg-1)</td><td>N/(g·kg-1)</td><td>P/(g·kg-1)</td><td>木质素/（g·kg-1）</td></tr><tr><td>胡杨</td><td>342.78 ±8.54b</td><td>3.33 ±0.08a</td><td>0.09 ±0.01a</td><td>45.89 ±5.68a</td></tr><tr><td>多枝柽柳</td><td>326.32 ± 3.03a</td><td>6.5 ±0.01b</td><td>0.55 ±0.02c</td><td>162.34 ±4.03c</td></tr><tr><td>胀果甘草</td><td>353.21 ±4.99b</td><td>9.38 ±0.19c</td><td>0.17 ±0.01b</td><td>141.02 ± 10.13b</td></tr><tr><td>指标</td><td>纤维素/（g·kg-1）</td><td>碳氮比</td><td>碳磷比</td><td>木质素比氮</td></tr><tr><td>胡杨</td><td>439.98 ±52.91b</td><td>102.96 ±4.40c</td><td>4007.89 ±498.95c</td><td>13.80 ±1.98a</td></tr><tr><td>多枝柽柳</td><td>223.34 ±7.18a</td><td>50.17 ±0.46b</td><td>594.62 ± 17.97a</td><td>24.96±0.57b</td></tr><tr><td>胀果甘草</td><td>416.72 ±78.33b</td><td>37.68 ± 1.18a</td><td>2091.51 ± 103.64b</td><td>15.03 ±0.86a</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凋落物分解 $5 0 \\%$ 时所需时间(半衰期 $t _ { 0 . 5 }$ )和分解 $9 5 \\%$ 时所需时间 $\\left( \\mathbf { \\Phi } _ { t _ { 0 . 9 5 } } \\right)$ 计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 0 . 5 } = \\ln 0 . 5 / ( \\ - k ) \\ , \\ t _ { 0 . 9 5 } = \\ln 0 . 0 5 / ( \\ - k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分解过程中调落物元素残留率 $( N R , \\% )$ 表示为[15]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN R = M _ { t } X _ { t } / M _ { 0 } X _ { 0 } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { 0 }$ 为凋落物初始干物质质量 $( \\mathbf { g } ) ; X _ { 0 }$ 为凋落物中元素初始浓度 ( $\\mathbf { \\phi } _ { \\mathrm { m g } } \\cdot \\mathbf { \\phi } \\mathrm { k g } ^ { - 1 }$ ）； $\\boldsymbol { M } _ { t }$ 为凋落物分解 $\\mathbf { \\chi } _ { t }$ 时刻干物质残留量 ${ \\bf \\Xi } ( \\mathrm { \\bf \\Lambda } _ { \\bf g } ) : X _ { t }$ 为分解 $\\mathbf { \\chi } _ { t }$ 时间调落物中元素浓度( $\\mathbf { \\dot { \\Omega } } _ { \\mathbf { m g } } \\cdot \\mathbf { \\mu } _ { \\mathbf { k g } } ^ { - 1 }$ 。当 $N R < 1 0 0 \\%$ ,凋落物分解过程中元素发生了净释放，当 $N R > 1 0 0 \\%$ ,调落物分解过程中元素发生了净富集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2统计分析与处理用SPSS20.0软件进行数据分析，对植物叶凋落物残留量及 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素残留量的分解时间、处理(放置林窗、林下)进行双因素方差分析，针对林窗、林下不同处理下分解系数 $k$ 进行配对 $\\mathbf { \\chi } _ { t }$ 检验，对分解系数与其他相关指标进行Pearson相关分析，使用Excel软件进行数据整理作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "率影响不显著、极显著( $\\ P < 0 . 0 1 )$ 。调落物残留率在 $0 \\sim 3 6 0 \\mathrm { ~ d ~ }$ 分解中随时间推移逐渐下降;胡杨（林窗、林下），多枝柽柳（林窗、林下）和胀果甘草（林窗、林下）调落物质量依次减小了15. $20 \\%$ 、$1 3 . 9 7 \\% , 1 1 . 8 4 \\% \\ , 1 1 . 9 1 \\% \\ , 2 0 . 7 8 \\% \\ , 1 3 . 5 7 \\%$ 。从$3 6 0 \\sim 8 1 0 \\mathrm { ~ d ~ }$ ,放置于林窗、林下的胡杨和胀果甘草叶调落物质量损失率占分解时间 $( 8 1 0 \\mathrm { ~ d ~ } )$ 调落物质量损失总量的 $1 6 6 . 3 0 \\% . 6 9 . 9 8 \\%$ 和 $6 0 . 3 2 \\% . 7 1 . 2 7 \\%$ ，而 $3 6 0 \\sim 6 3 0 \\mathrm { ~ d ~ }$ 多枝怪柳叶调落物质量损失率占分解时间(630d)调落物质量损失总量的 $6 2 . 5 2 \\%$ 、$5 9 . 3 7 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.23种植物叶凋落物分解参数特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表4和表5可知，不同处理(林窗、林下)3种植物叶调落物分解系数 $k$ 值存在显著差异（ $\\boldsymbol { P } <$ 0.05），且3种植物叶凋落物在不同处理（林窗、林下）不同分解时间 $( 0 . 9 9 \\mathrm { ~ a ~ } , 2 . 2 2 \\mathrm { ~ a ~ } )$ 分解系数 $k$ 值均为林窗 $>$ 林下。胡杨、胀果甘草叶调落物分解系数 $k _ { 0 . 9 9 \\mathrm { ~ a ~ } } < k _ { 2 . 2 2 \\mathrm { ~ a ~ } }$ ，多枝怪柳叶调落物分解系数$k _ { 0 . 9 9 \\mathrm { ~ a ~ } } < k _ { 1 . 7 3 }$ a,存在年际间差异,3种植物叶调落物分解 $t _ { 0 . 5 }$ 和 $t _ { 0 . 9 5 }$ 所需时间均为多枝怪柳 $>$ 胡杨 $>$ 胀果甘草。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.13种植物叶调落物质量残留率动态分析 3.33种植物叶凋落物C、N、P元素分解释放进程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1和表3可知，经过810d分解，胡杨叶凋落物残留率（ $4 8 . 9 3 \\%$ ） $>$ 胀果甘草 $( 3 8 . 0 7 \\%$ )，多枝怪柳叶调落物经 $6 3 0 \\mathrm { ~ d ~ }$ 分解质量残留率为 $6 9 . 5 5 \\%$ ，林窗生境中叶调落物质量残留率均小于林下生境。不同处理（林窗、林下）、分解时间分别对胡杨叶调落物质量残留率影响显著( $\\textstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ）、极显著( $P <$ 0.01），对胀果甘草叶凋落物质量残留率均有极显著影响( $\\begin{array} { r }  P < 0 . 0 1 \\dot  \\ \\end{array}$ ），对多枝怪柳叶调落物质量残留",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3种植物 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素分解释放表现出不同变化规律（图2），其中3种植物C元素表现出富积一释放一富积的变化过程。经810d分解，胡杨叶凋落物分解残留率为 $5 3 . 9 9 \\%$ （林窗） $. 5 3 . 1 2 \\%$ （林下），胀果甘草叶凋落物分解残留率为 $3 8 . 4 2 \\%$ （林窗） ${ , 5 6 . 2 9 \\% }$ （林下）。多枝怪柳叶调落物经630d分解，残留率为 $6 6 . 3 3 \\%$ （林窗） $6 9 . 1 7 \\%$ （林下）。多枝怪柳、胀果甘草叶凋落物N元素在观测期内表",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff5e0548f08da6cef6494ab9fbd62bf4b43b852eac501fa499001e808f1482b5.jpg",
+        "img_caption": [
+            "注：在多枝怪柳叶凋落物林下生境凋落袋遭到破坏,导致720d、810d两次数据缺失，文中用 $0 \\sim 6 3 0 \\mathrm { ~ d ~ }$ 数据进行比较。下同。",
+            "图1胡杨、胀果干草、多枝怪柳叶调落物质量残留率动态变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Dynamicchangeofresidualratesof litermassesof Populus euphratica，Glycyrhizainflateand Tamarix Ramosis 现出释放一富积的过程，而胡杨林下则表现出富 积一释放一富积的规律，P元素释放过程与N元素 表现出相似的变化规律。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/983a0ae4fd31fc6e405a268ab6ffe7b7077c1641b2a99dabec0a85dedcfd611a.jpg",
+        "table_caption": [
+            "Tab.3Paired t-test of residual rates of foliar litter masses between understory and forest g: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数变量</td><td colspan=\"5\">成对差分</td><td rowspan=\"2\">t</td><td rowspan=\"2\">df</td><td rowspan=\"2\">Sig.（双侧）</td></tr><tr><td>均值</td><td>标准差</td><td>均值的标准误</td><td>95%置信区间</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>下限</td><td>上限</td><td></td><td></td><td></td></tr><tr><td>胡杨(林下-林窗)</td><td>-0.100 8</td><td>0.270 1</td><td>0.049 3</td><td>-0.2017</td><td>0.000 0</td><td>-2.044</td><td>29 29</td><td>0.05</td></tr><tr><td>胀果甘草(林下-林窗)</td><td>-0.3677</td><td>0.4075</td><td>0.074 4</td><td>-0.519 8</td><td>-0.215 5</td><td>-4.942</td><td></td><td>0.00</td></tr><tr><td>多枝柽柳(林下-林窗)</td><td>-0.0538</td><td>0.199 8</td><td>0.0408</td><td>-0.138 2</td><td>0.030 6</td><td>- 1.319</td><td>23</td><td>0.20</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d464586a8141d10e8c6140720a50983dc806e9e911096fc972fbd380e56736a.jpg",
+        "table_caption": [
+            "表3林下、林窗不同处理3种植物叶凋落物质量残留率配对t检验",
+            "表43种植物叶调落物分解特征参数"
+        ],
+        "table_footnote": [
+            "注:0.99a表示调落袋放置时长360d换算成(360/365)年进行参数计算,2.22a表示调落袋放置时长810d换算成( $8 1 0 / 3 6 5$ )年进行参数计算,1.73 a由于多枝怪柳叶凋落袋丢失,按照 $6 3 0 \\mathrm { ~ d ~ }$ 换算成(630/365)年进行参数计算; $t _ { 0 . 5 }$ 表示凋落物分解 $5 0 \\%$ 时所需时间， $t _ { 0 . 9 5 }$ 表示凋落物分解 $9 5 \\%$ 时所需时间。"
+        ],
+        "table_body": "<html><body><table><tr><td>物种</td><td>分解时间/a</td><td>处理</td><td>样本容量</td><td>拟合方程</td><td>决定系数(R²)</td><td>分解系数(k)</td><td>t0.5/a</td><td>t0.95/a</td></tr><tr><td>胡杨</td><td>0.99</td><td>林窗</td><td>15</td><td>y =1.01e -0.17t</td><td>0.96**</td><td>0.16 ±0.01</td><td>4.30 ±0.15</td><td>18.57 ±0.64</td></tr><tr><td rowspan=\"4\"></td><td></td><td>林下</td><td>15</td><td>y =1.10e-0.31t</td><td>0.99 **</td><td>0.15 ±0.01</td><td>4.75 ±0.18</td><td>20.52 ±0.76</td></tr><tr><td>2.22</td><td>林窗</td><td>30</td><td>y = 1.09e -0.34t</td><td>0.88 **</td><td>0.33 ±0.02</td><td>2.12 ±0.11</td><td>9.15 ±0.46</td></tr><tr><td></td><td>林下</td><td>30</td><td>y =1.10e -0.3t</td><td>0.84**</td><td>0.32 ±0.01</td><td>2.19 ±0.07</td><td>9.48 ±0.29</td></tr><tr><td>0.99</td><td>林窗</td><td>15</td><td>y = 1.02e -0.25t</td><td>0.93 **</td><td>0.24 ±0.01</td><td>2.94 ±0.17</td><td>12.71 ±0.73</td></tr><tr><td rowspan=\"4\"></td><td></td><td>林下</td><td>15</td><td>y = e-0.14t</td><td>0.96 **</td><td>0.15 ±0.02</td><td>4.73 ±0.69</td><td>20.43 ±2.99</td></tr><tr><td>2.22</td><td>林窗</td><td>30</td><td>y = 1.12e-0.40t</td><td>0.88**</td><td>0.45 ±0.02</td><td>1.56 ±0.06</td><td>6.75 ±0.27</td></tr><tr><td></td><td>林下</td><td>30</td><td>y =1.15e -0.38t</td><td>0.82 **</td><td>0.43 ±0.02</td><td>1.63 ±0.06</td><td>7.03 ±0.27</td></tr><tr><td>0.99</td><td>林窗</td><td>15</td><td>y = e -0.14t</td><td>0.84**</td><td>0.13 ±0.01</td><td>5.40 ±0.25</td><td>23.33 ± 1.08</td></tr><tr><td rowspan=\"4\">多枝怪柳</td><td></td><td>林下</td><td>15</td><td>y = e -0.13t</td><td>0.97 **</td><td>0.13 ±0.01</td><td>5.46 ±0.55</td><td>23.59 ±2.38</td></tr><tr><td>1.73</td><td>林窗</td><td>24</td><td>y = 1.03e -0. 19t</td><td>0.87**</td><td>0.22 ±0.04</td><td>3.20 ±0.52</td><td>13.82 ±2.23</td></tr><tr><td></td><td>林下</td><td>24</td><td>y =1.02e-0.17t</td><td>0.85 **</td><td>0.20 ±0.03</td><td>3.48 ±0.45</td><td>15.05 ± 1.94</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4134786658d5ee1dfdafa5a251453333fa61a37ee00cc8734dca2b4bd0180c0f.jpg",
+        "table_caption": [
+            "Tab.4Characteristics parameters of decomposition of foliar litters of three plant species ",
+            "表5林下、林窗不同处理分解系数 $\\pmb { k }$ 配对 $\\mathbf { \\Psi } _ { t }$ 检验",
+            "Tab.5Paired t-test of different decomposition coeficients under different treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数变量</td><td colspan=\"5\">成对差分</td><td rowspan=\"2\">t</td><td rowspan=\"2\">df</td><td rowspan=\"2\">Sig.（双侧）</td></tr><tr><td>均值</td><td>标准差</td><td>均值的标准误</td><td>95%置信区间</td><td></td></tr><tr><td>林下-林窗</td><td>-0.03</td><td>0.04</td><td>0.01</td><td>下限 -0.05</td><td>上限 -0.01</td><td>-2.64</td><td>17</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "受植物种类的影响，分解时间、处理对 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素释放进程影响不同。3种植物C元素残留率均与分解时间有极显著差异( $\\textstyle P < 0 . 0 1 { \\dot { } }$ ），胀果甘草C元素残留率与处理之间有显著差异( $\\textstyle P < 0 . 0 5 )$ ，而胡杨、多枝怪柳均无显著差异。胡杨叶凋落物N元素残留率与分解时间、处理均无显著差异，而多枝柽柳叶凋落物N元素残留率与分解时间、处理均表现出极显著差异( $P < 0 . 0 1$ )，胀果甘草叶调落物N元素残留率仅与分解时间表现出极显著差异（ $\\boldsymbol { P } <$ 0.01），与处理之间无显著差异。分解时间、处理对胡杨、多枝怪柳叶凋落物P元素残留率有极显著差异（ $\\cdot P < 0 . 0 1 )$ ,胀果甘草叶调落物 $\\mathrm { ~ \\bf ~ P ~ }$ 元素残留率仅与分解时间有极显著差异( $\\left( P < 0 . 0 1 \\right)$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.43种植物叶调落物不同处理分解系数 $\\pmb { k }$ 值影响因子分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对不同处理(林窗、林下)的3种植物叶凋落物分解系数 $k$ 值与其他因子进行相关性分析，由表6可知，林窗、林下调落物分解系数 $k$ 值均与分解时间、全氮呈极显著正相关( $P < 0 . 0 1$ )，与残留量、全磷、木质素、木质素比氮呈极显著负相关( $\\boldsymbol { P } <$ 0.01），受林窗、林下不同处理影响分解系数 $k$ 值与其它因子相关性存在差异，与土壤湿度、全碳、 $\\mathrm { C } / \\mathrm { N }$ 分别呈极显著差异，与土壤温度、C/P分别呈显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b966ff360fc3997640e0d4dc45d567f5d9229d520480478e733326ed847eb8cf.jpg",
+        "img_caption": [
+            "图2胡杨、胀果干草、多枝怪柳叶凋落物C、N、P元素分解释放进程 Fig.2The releasing process of C,NandP elements in the foliar littrsof Populus euphratica,Glycyrrhiza inflate and Tamarix ramosissima "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c9be9500de15014e3ee0ea859bef0d9b422cd8ba696426f7c8abfa2ba7e3a95.jpg",
+        "table_caption": [
+            "表6不同处理分解系数 $\\pmb { k }$ 值与各因子相关性分析",
+            "Tab.6Correlation analysis of $k$ -values with each factor under different treatments "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平上显著相关， $*$ 表示在0.05水平上显著相关， $n = 8 4$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>处理 分解系数 分解时间 土壤温度 土壤湿度</td><td></td><td>残留量</td><td>全氮</td><td>全磷</td><td>全碳</td><td>木质素</td><td>纤维素</td><td>C/N</td><td>C/P</td><td>木质素/氮</td></tr><tr><td>林窗</td><td>k</td><td>0.85**</td><td>-0.18</td><td>0.05</td><td>-0.92**</td><td>0.40**</td><td>-0.32**</td><td>-0.36**</td><td>-0.34**</td><td>-0.12</td><td>-0.39**</td><td>0.15</td><td>-0.36**</td></tr><tr><td>林下</td><td>k</td><td>0.86**</td><td>-0.23 *</td><td>0.44**</td><td>-0.95 **</td><td>0.39**</td><td>-0.32**</td><td>0.13</td><td>-0.39**</td><td>-0.17</td><td>-0.21</td><td>-0.25 *</td><td>-0.36**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "凋落物质量包括氮和磷等易分解成分和难分解有机成分（木质素、纤维素、半纤维素、多酚类物质等)的含量和组合情况，在同一气候条件下，调落物质量对调落物分解速率具有重要影响[16-17]。塔里木盆地3种典型优势种调落物初始化学性质的总体差异显著( $\\ P < 0 . 0 5 )$ ，调落物初始化学组成之间的差异性影响凋落物分解速度和养分释放进程(18]毕京东、黄刚[19-20]等研究认为,光降解在温带荒漠区凋落物分解中起着重要的作用，其作用强度受分解环境和凋落物质量的影响。本研究针对3种植物叶凋落物在自然干旱生境条件下进行分解试验表明，3种荒漠优势植物胀果甘草分解最快，同种植物胡杨、多枝怪柳叶凋落物分解比新疆艾比湖地区、塔里木盆地盐生环境快(14,21],可能是由于生境条件的差异对凋落物分解产生一定的影响。环境条件发生变化凋落物元素释放进程相应也会发生变化，林窗、林下微生境变化对3种植物叶凋落物 $\\smash {  { \\mathrm { ~ C ~ } } ,  { \\mathrm { ~ N ~ } } ,  { \\mathrm { ~ P ~ } } }$ 元素释放过程影响并不相同，同时各元素释放过程表现出异速性。凋落物各元素分解释放进程与结构组成、元素比例(C/N,C/P等)密切相关(22],本研究中3种植物凋落物分解过程中C/N较高( $> 2 2 . 0 6 \\$ ，导致凋落物分解速度较慢。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物凋落物分解、养分释放受多种驱动因子影响，包括大尺度气候条件和中、小尺度所处生境条件,凋落物质量,分解者群落组成与活性[23]。本研究中，3种植物叶调落物不同处理(林窗、林下)微生境中光照强度也有差异，不同处理(林窗、林下)对胡杨、胀果甘草叶凋落物分解系数具有显著影响，且林窗分解快于林下，说明光照对干旱区植物凋落物分解有积极作用。光辐射是凋落物分解的重要驱动因素，光辐射是影响凋落物分解中碳损失的主要因子，本研究中林窗分解系数 $k$ 值与全碳相关性分析呈极显著相关( $P < 0 . 0 1 )$ 而林下则不相关，不同处理使微生境中光照强度存在差异，间接影响全碳与分解系数 $k$ 值的相关性。与林下相比，林窗中太阳辐射强度大，有利于木质素、纤维素等难分解物质的降解，土壤温度、相对湿度有较大的变幅，从而有利于凋落物分解[24-25] ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区凋落物分解的关键因素除了光辐射外，还包括季节性降水、土壤湿度等。对于干旱区荒漠植被生态系统，氮输入常伴随着降水以脉冲形式进入土壤，水分输入能够有效激发含氮有机质的矿化速率[26],进而影响凋落物分解过程。由表4可知,3种植物叶调落物分解系数 $k$ 值年际间有较大差异，根本原因是两年中降雨量有很大的差异性，根据阿克苏地区统计年鉴，2015年和2016年降雨量分别为 $8 8 . 1 \\ \\mathrm { m m }$ 和 $1 1 2 \\ \\mathrm { m m }$ ,降雨量的差异使氮输入存在差异，进而使凋落物分解速率也存在差异。干旱区凋落物分解缓慢，调落物分解作为生态系统养分循环的关键环节，制约了养分的循环利用效率，对荒漠植被的维持与发展具有较大影响。同时，干旱、半干旱区降水具有间断性和不可预知特征，这对研究与评估凋落物分解对C、N循环作用产生较大的影响[27]。塔里木盆地3种典型植物分解速率较慢,微生境(林下、林窗)变化对荒漠植物叶凋落物分解特征、营养释放过程都有不同程度的影响。干旱生境条件下，凋落物质量对其分解有影响外，非生物环境(光照、土壤湿度)因子对荒漠植物凋落物分解具有重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Almagro M,Martinez-Mena M.Exploring short-term leaf-liter decomposition dynamics in a Mediterranean ecosystem:Dependence on litter type and site conditions[J].Plant Soil,2012,358（1-   \n2) :323 -335. [2]Wang X,Zhuwen Xu,Lu X T,et al.Responses of litter decomposition and nutrient release rate to water and nitrogen addition differed among three plant species dominated in a semi-arid grassland [J].Plant Soil,2017,418(1-2):241- 253. [3］葛晓改,肖文发,曾立雄,等.三峡库区马尾松林土壤－调落物 层酶活性对凋落物分解的影响[J].生态学报,2014,34（9）：   \n2 228 -2 237.[Ge Xiaogai,Xiao Wenfa,Zeng Lixiong,et al. Effect of soil-litter layer enzyme activities on litter decomposition in Pinus massoniana plantation in Three Gorges Reservoir Area[J]. Acta Ecologica Sinica,2014,34(9):2 228-2 237.] [4]Khamzina A,Lamers JPA,Martius C.Above- and belowground litter stocks and decay at a multi-species affrestation site on arid, saline soil[J].Nutrient Cycling in Agroecosyst,2016,104（2）：   \n187 -199. [5]李志军,刘建平,于军,等.胡杨、灰叶胡杨生物生态学特性调 查[J].西北植物学报,2003,23（7）:1 292-1296.[Li Zhijun, Liu Jianping,Yu Jun,et al.Investigation on the characteristics of biology and ecology of Populus euphratica and Populus pruinosa [J].Acta Botanica Boreall-Occidentalia Sinica,2003,23（7）：   \n1 292 -1 296.] [6]王海珍,韩路,李志军,等.塔里木河上游胡杨与灰杨光和水分 生理特性[J].生态学报,2009,29（11）:5 843-5850.[Wang Haizhen,Han Lu,Li Zhijun,et al.The photosynthetic and water physiological characteristics of Populus euphratica and Populus pruinosa in the upper reaches of Tarim River[J].Acta Ecologica Sinica,2009,29(11) :5 843-5 850.] [7]夏振华,陈亚宁,朱成刚,等.干旱胁迫环境下的胡杨叶片气孔 变化[J].干旱区研究,2018,35(5）：1111-1117.［Xia Zhenhua,Chen Yaning,Zhu Chenggang,et al.Stomatal change in leaves of Population euphratica under drought stress[J].Arid Zone Research,2018,35(5):1111-1117.] [8]王新源,赵学勇,李玉霖,等.环境因素对干旱半干旱区凋落物 分解的影响研究进展[J],生态学杂志,2013,24（11）：3 300-   \n3 310.[Wang Xinyuan,Zhao Xueyong,Li Yulin,et al. Effects of environmental factors on litter decomposition in arid and semi-arid regions:A review[J]. Chinese Journal of Applied Ecology,2013, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24(11):3 300-3 310.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]张雪梅,王永东,徐新文,等.塔里木沙漠公路防护林地表凋落 物分解对施肥的响应[J].生态学报，2017，37（5）：1506- 1514.[Zhang Xuemei,Wang Yongdong,Xu Xinwen,et al.Effects of fertilizer addition on surface litter decomposition in the Tarim desert highway shelterbelt[J].Acta Ecologica Sinica,2017,37 (5):1 506 -1 514] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]Austin A T,Vivanco L.Plant litter decomposition in a semi-arid ecosystem controlled by photodegradation[J].Nature,2OO6,442 (7 102):555 -558. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]黎锦涛，孙学凯，胡亚林，等.干湿交替对科尔沁沙地人工林叶 凋落物分解和养分释放的影响[J].应用生态学报，2017，28 (6)：1 743-1 752.[Li Jintao,Sun Xuekai,Hu Yalin,et al. Effects of drying-reweting on leaf litter decomposition and nutrient releases in forest plantations in Horqin Sandy Land,China[J]. Chinese Journal of Applied Ecology,2017,28（6）:1 743- 1 752. ] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]努尔卡木里·玉素甫，满苏尔·沙比提.新疆沙雅县气候变化特征分析［J].新疆师范大学学报（自然科学版），2011，30(1）:13-19.[Nurkamil Yusuf,Mansur Sabit.Analysis on theclimaticcharacteristics of Shaya county in Xinjiang[J].Journal ofXinjiang Normal University（Natural Science Edition）,2O11,30(1):13-19.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13]周世兴，黄从德,向元彬,等.模拟氮沉降对华西雨屏区天然常 绿阔叶林凋落物木质素和纤维素降解的影响[J].应用生态学 报,2016,27(5）:1 368-1 374.[Zhou Shixing,Huang Congde, Xiang Yuanbin,et al.Effects of simulated nitrogen deposition on lignin and cellulose degradation of foliar litter in natural evergreen broad-leaved forest in rainy area ofWestern China[J].Chinese Journal of AppliedEcology,2016,27(5）:1 368-1 374.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14]葛留威，吕瑞恒，李荔，等.盐生环境下3种荒漠植物叶凋落物分 解动态特征[J].东北林业大学学报，2016，44（5)：39-43，47. [GeLiuwei,Lu Ruiheng,LiLi,et al.Litter decomposition of three types of forests in south slope in saline environment[J].Journal of Northeast Forestry University,2016,44(5):39-43,47.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15）李巧玲，曾辉.美国南卡罗来纳州森林湿地十种典型植物凋落叶的分解特征[J].生态学报，2017，37（7）：2342-2351.［LiQiaoling,Zen Hui.Leaf litter decomposition of ten plant species inaforested wetland in South Carolina,USA[J].Acta Ecologica Sin-ica,2017,37(7) :2 342-2 351.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]宋飘,张乃莉，马克平，等.全球气候变暖对凋落物分解的影响[J].生态学报,2014,34（6）：1327-1339.[SongPiao,ZhangNaili,Ma Keping,et al.Impacts of global warming on litter decom-position[J].Acta Ecologica Sinica，2014，34（6）：1 327-1 339.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17]宋新章，江洪，马元丹，等.中国东部气候带凋落物分解特 征—气候和基质质量的综合影响[J].生态学报,2009,29 (10）:5219-5 226.[Song Xinzhang,Jiang Hong,Ma Yuandan, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "et al.Litter decomposition across climate zone in Eastern China: The integrated influence of climate and litter quality[J].Acta Ecologica Sinica,2009,29(10）:5 219-5 226.]   \n[18］郑俊强,郭瑞红,李东升,等.氮沉降和干旱对阔叶红松林凋落 物分解的影响[J].北京林业大学学报,2016,38(4):21-28. [Zheng Junqiang,Guo Ruihong,Li Dongsheng,et al.Effectsof nitrogen deposition and drought on litter decomposition in a temperate forest[J]. Journal of Beijing Forestry University,2016,38(4）: 21-28.]   \n[19］毕京东,李玉霖,宁志英,等.科尔沁沙地优势植物叶调落物分 解及碳矿化—凋落物质量的影响[J].中国沙漠,2016,36 (1）:85-92.[Bi Jingdong,Li Yulin,Ning Zhiying,et al. Carbon mineralization and decomposition of litters from dominant plants in the Horqin Sandy Land:Effects of litter quality[J]. Journal of Des ert Research,2016,36(1):85-92.]   \n[20]黄刚,周丽,唐立松,等.荒漠植物凋落物光降解特征随降水梯 度的变化[J].生态学杂志,2013,32（10）:2 574-2 582. [Huang Gang,Zhou Li,Tang Lisong,et al.Photodegradation of plant liter in a temperate desert along a precipitation gradient[J]. Chinese Journal of Ecology,2013,32(10）:2 574-2 582.]   \n[21］杨敏.荒漠区优势木本植物凋落物特性研究[D].乌鲁木齐： 新疆大学,2011.[Yang Min.Study on the Fall-litter of the Dominant Plant Community in Desert Area[D].Urumqi:Xinjiang University,2011. ]   \n[22]Zhang X Y,Wang W.Control of climate and liter quality on leaf litter decomposition in diferent climatic zones[J].Journal of Plant Research,2015,128(5） :791-802.   \n[23］赵文智,刘鹄.干旱、半干旱环境降水脉动对生态系统的影响 [J].应用生态学报,2011,22（1）:243-249.[Zhao Wenzhi,Liu Hu.Precipitation pulse and ecosystem responses in arid and semiaridregions:A review[J]. Chinese Journal of AppliedEcology, 2011,22(1) :243 -249.]   \n[24] Clinton B D.Light,temperature,and soil moisture responses to elevation,evergreen understory,ndsmallcanopy gaps in the Southern Appalachians[J].Forest Ecology and Management,2003,186 (1) :243 -255.   \n[25］柳淑蓉,胡荣桂,蔡高潮.UV-B辐射增强对陆地生态系统碳循 环的影响[J].应用生态学报,2012,23（7）:1992-1998.[Liu Shurong,Hu Ronggui,Cai Gaochao.Effects of enhanced UV-B radiation on terrestrial ecosystem carbon cycle:A review[J].Chinese Journal of Applied Ecology,2012,23（7）:1 992-1998.]   \n[26]Stursova M,Crenshaw C L,Sinsabaugh R L. Microbial responses to long-term N deposition in asemiarid grassland[J].Microbial Ecology,2006,51(1) :90 -98.   \n[27] Cornwell W K,Cornelissen JH C,Amatangelo K,et al. Plant species traits are the predominant control on littr decomposition rates ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "withinbiomes worldwide[J].Ecology Letters,20O8,11（10）：1 065 -1 071.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dynamic Decomposition of Foliar Litters of Three Plant Species in Arid Habitats ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "YANG Jing-jing $^ { 1 , 2 }$ ， ZHOU Zheng-li $^ { 2 , 3 }$ ，LYU Rui-heng23，LIANG Ji-ye²3，WANG Xiong1 (1. College of Life Sciences,Tarim University,Aral 84330O,Xinjiang,China; 2.Key Laboratory of Protection and Utilization of Biological Resources in Tarim Basin,Xinjiang Corps of Production & Construction,Aral 8433oo,Xinjiang,China ; 3.College of Plant Science and Technology,Tarim University,Aral 843300,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inthisstudy,Populus euphratica,Tamarixramosissimaand Glycyrrhiza inflate inthe Tarim Basin were taken as the research objects to analyze thedynamic decomposition offoliarliters ofthree plant species in arid habitats.The results showed that : $\\textcircled{1}$ The residual rates of foliar litters of $P$ . euphratica and $G$ . inflata were $4 8 . 9 3 \\%$ and $3 8 . 0 7 \\%$ after a decomposition for 81O days,and the residual rate of foliar litters of $T$ 、ramosissima was $6 9 . 5 5 \\%$ afteradecomposition for 63O days.The decomposition timeafected significantly theresidual rates offoliar liers of the three plant species.The treatments affected significantly the residual rates of foliar litters of $P$ .euphratica and $G$ ： Inflate . $\\textcircled{2}$ The $k$ values of foliar littrs of the three plant species were significantly afected by understory-forest gap treatment ( $\\textstyle P < 0 . 0 5 ,$ ,and the $k$ values were in an order of $k _ { \\mathrm { f o r e s t \\ : \\mathrm { g a p } } } > k _ { \\mathrm { u n d e r s t o r y } } , k _ { G . \\ : i n f l a t e } > k _ { P . \\ : e u p h r a t i c a } > k _ { T . \\ : r a m o s i s s i m a }$ ,the $t _ { 0 . 9 5 }$ values of $P$ . euphratica and $G$ . inflate were in ranges of 9.15 -9.48 a and 6.75 -7.03 a during 810 - day decomposition.After a 630 -day decomposition,the $t _ { 0 . 9 5 }$ value of $T$ 、 ramosissima was in a range of 13.82-15.05 a. $\\textcircled{3}$ The effects of the decomposition time and treatments on the release process of $\\mathrm { ~ c ~ } , \\mathrm { { N } }$ and $\\mathrm { P }$ were different because of the diference of plant species.There was a release-accumulation-release process of Ccontent of the three plant species,a process of release-accumulation of N content of $T$ ramosissima and $G$ . inflata ,and also a process of accumulation-release-accumulation of $\\mathrm { \\Delta P }$ content of $P$ . euphratica understory during the observation period; $\\textcircled{4}$ The $k$ -value was significantlycorrelated withdecomposition time,totalnitrogen,theremaining amountofmass,total phosphorus,lignin,ratio of lignin and nitrogen ( $P < 0 . 0 1$ ）,and soil moisture,total carbon,C/N were significantly correlated with $k _ { \\mathrm { f o r e s t \\ g a p } }$ and $k _ { \\mathrm { u n d e r s t o r y } }$ . Changes of micro-habitats （understory andforest gap） in arid areas have significant influence on litter decomposition,and liter quality and soil moisture playa leading role in liter decomposition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:littr;decomposition； forest gap；understory；arid habitats； Shaya County； Xinjiang",
+        "page_idx": 7
+    }
+]

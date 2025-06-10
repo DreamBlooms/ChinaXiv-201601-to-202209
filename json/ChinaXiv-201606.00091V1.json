@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "基于共异变数结构方程式的 Web2.0用户心智模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院研究生院北京100049²中国科学院国家科学图书馆北京100190",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]从用户角度,建立基于结构方程式的Web2.0用户心智模型,来探索图书馆用户在Web2.0环境中的态度、行为与认知。透过量化方法和调查,产生一个理论基础,作为描绘在新网络环境下的新用户知识服务的框架。心智模型能够被用于创建和使用型人。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]Web2.0Library2.0用户行为共异变数结构方程式心智模型［分类号］G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mental Model of Web2.O Users Based on Analyzing by Structural Equation Modeling Gu Liping1,2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Graduate School of Chinese Academy of Sciences，Beijing 100190   \n² Library of Chinese Academy of Sciences，Beijing 100190 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract]Whatlibraryusers；atitude,behaviourandcognitivein Web2.Oenvironmentisthatunderusersviewbybuildingmental modelof Web2.Ousers basedonstructuralequation modelingisexplored.Through thequantitativeresearch methodandthissurvey， thetheoryfundamentismadeasframeworktodescribenewuserknowledgeserviceinnewnetworkenvironment.Inordertobeterunderstand users and development new library service,the mental modelcan be used to creating and using personas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords]Web2.O library2.Ouser behaviorstructural equation modelmental model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许多程序员热衷于“秀\"（show)技术，而一般用户却常常不知道如何使用它们。其实,这多半是因为产品设计不良，而不是技术或培训问题，采用更多“新”技术并不能“解决”用户的“困境”[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键在于设计，而不在于技术。采用最新技术是提升服务质量的辅助手段，但是服务用户才是数字图书馆的目标。过去,将软件编程与用户界面设计分开，这种以编程为核心的做法，无法产生符合用户期望的软件[2]。尊重用户、融入用户体验、节省用户培训时间的软件是将角色(Personae)置于编程的每个环节中[3]，意即先于编程进行反向思考，大幅增加设计的工作时间与指导能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而设计的关键又在于对人的理解。面对上述这种制造过程的逆转，对比传统的可用性测试或市场调查的局限，管理层、工程师、程序员极欲深入理解用户的心理、行为与交互习惯。而解开用户行为的“黑箱”，又需要开发新方法，或者引入已有的工具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "心智模型即人类理解复杂系统的模式。从管理者的角度(类似图书馆员）看，心智模型被认为是有关被控制的系统的知识[4],即一种\"理论的结构”[5]或者一种特殊的计算机程序[6]。而从被管理的角度（类似于图书馆读者)看，心智模型则被认为是个人决策时所依赖的心理过程[7-8],或者是日本经济学家青木昌彦所认为的个人程序化的决策或认知过程[9]。笔者从用户角度，即被管理者角度，对Web2.0环境下图书馆用户的态度、行为和认知进行了探索性研究。这样的研究又需要从计量心理学中找取适合的方式，解决心理学、经济学、社会学，乃至图书情报学的“人类行为”问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "共异变数结构方程式（SEM,又称结构方程模型)就是这样一种适合研究用户心智模型的工具。它源于1973 年瑞士Karl Joereskog 的概念和软件LISREL。美国《心理学年度评论》曾于1996年、2000 年两度重点介绍SEM;如今,美国心理学会的PsychologicalMethods每一卷都有关于SEM的应用论文[10]。历经30 多年,结构方程模型已至臻境，相关软件如雨后春笋般涌现，如EQS（1985年）CALIS（1992年）RAMONA（1994年）AMOS(1997年）Mplus（1998年)等。统计软件SPSS终于在2007年第15版中添加了AMOS套件。而自2007年11月开始，美国图书馆协会的JournaloftheAmericanSocietyforInformationScienceandTechnology几乎每期都有关于SEM的论文，其重要性不言而喻，而目前国内图书情报学界却少有关于SEM的调查研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着Web2.0的变化，用户行为需要追踪观察和深入理解[1]。利用以往的调查经验,对新问题、新视野、新方法进行调查，对开拓数字图书馆的交互设计有实际意义。下面，笔者讨论10种用户常用的网络服务，研究用户态度、使用与认知的交互关系，利用共异变数结构方程式建立心智模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 问卷调查研究问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户对Email、BBS、ChatRoom、IM、Blog、P2P、RSS、SNS、Tag、Podcast的喜好程度、使用习惯、对运用学术活动观察等30个观测题项中，是否具有其结构关系。结构关系包含：因素点和关系线。问卷题目包括三个方面：网络工具偏好程度、网络工具的使用频率、网络工具是否具有学术用途。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2数据分析使用工具",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用Excel进行数据输入与初级数据扫描，尔后使用SPSS(第14版)进行数据分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3数据采集的调查对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究对象：中国科学院博硕士研究生；抽样对象：2008年第二学期中国科学院北京地区在读博硕士研究生。样本：填写问卷有效而且被回收的人员。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 问卷设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共计82个题项，取前36项进行分析。包括：个人信息、对网络服务的态度、行为、认知4个部分的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5数据采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分层随机抽样问卷调查，自2008年6月9日至2008年7月20日邮寄发放与回收问卷。共发放3000份，有效回收501份，无效问卷4份。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1基本数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1研究对象的出生年分布根据中国科学院研究生院提供的北京地区研究生数据，其平均出生年为1980.88;标准差为4.358;偏度值为-4.716;峰度值为63.050；根据偏度值和峰度值可确定分布状态为：与正态分布比较，向右偏，即负偏态，其峰度高于正态分布。3.1.2样本的出生年分布样本回收后，样本平均出生年为1981.77;标准差为2.778;偏度值为－1.701;峰度值为4.168;其分布状态为：向右偏的负偏态，峰度高于正态分布。值得注意的是，样本与研究对象同样是向右偏、偏峰高，但是偏右偏高的程度较低，且平均出生年差异0.89。  \n3.1.3研究对象和样本的平均年龄差异因为抽样对象是第二学期在京就读的博硕士研究生，所以基本上排除了未继续就读的研究生以及2008年即将毕业的学生，这种系统抽样误差可能是造成偏度较低、平均出生年相差0.89的原因。可以判断这种差异现象不至于影响心智模型的构建。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 因素分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节对用户的态度、行为和认知分别进行因素分析，在每一类中提取因素，作为后续使用路径分析方法测量态度、行为和认知之间关系强度的基础。3.2.1对Web2.0用户的态度分析首先,选取适当性检验：KMO值0.831，其 $> 0 . 5$ ,适合进行因素分析;Bartlett的卡方值1240.103达到显著水准。第二，方差贡献率检验：取特征值 $> 1$ 的数，为（3.629）和(1.446);其变异量为(36.295）和（14.457）。第三，分析检查、因素陡坡检查、未转轴与转轴后因素分析，如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/57889abf14878300fe19b3cc8cf25e83becd4308f7d373444a529786d6507d66.jpg",
+        "table_caption": [
+            "表1 Web态度因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项 IM</td><td rowspan=\"2\">解释 变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"3\">Component(抽取的因素）</td></tr><tr><td>第一因素</td><td>第二因素</td><td>共同性</td></tr><tr><td>P2P Blog</td><td>27.371</td><td>27.371</td><td>.673</td><td></td><td>.464 .508</td></tr><tr><td>RSS SNS ChatRoom</td><td>23.435</td><td>50.752</td><td></td><td>.733 .731</td><td>.612</td></tr><tr><td colspan=\"3\">特征值</td><td>2.732</td><td>.619 2.343</td><td>.384</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.2对Web2.0用户的行为分析首先,选取适当性检验：KMO值0.758，其 $> 0 . 5$ ，适合进行因素分析；Bartlett的卡方值961.866达到显著水准。第二，方差贡献率检验：取特征值 $> 1$ 的数，为（2.988）、（1.566）、（1.013）；其变异量为（29.884）（15.658）、（10.128）。最后，分析检查、因素陡坡检查、未转轴与转轴后因素分析，如表2所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab95d7e2faebb1f0f68da758ef0c94ca1797c1a8b746b8d77a863af35ce9ed38.jpg",
+        "table_caption": [
+            "表2 Web 行为因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项</td><td rowspan=\"2\">解释 变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"4\">Component(抽取的因素)</td></tr><tr><td></td><td></td><td>第一因素第二因素第三因素</td><td>共同性</td></tr><tr><td>RSS P2P Podcast SNS Tag Blog</td><td>21.896</td><td>21.896</td><td>.684 .677 .657 .649 .607 .592</td><td></td><td></td><td>.727 .535 .500 .602 .502 .671</td></tr><tr><td>IM BBS ChartRoom</td><td>20.967</td><td>42.862</td><td></td><td>.524 .453 -.435</td><td></td><td>.585 .399 .255</td></tr><tr><td>Email</td><td>12.808</td><td>55.671</td><td></td><td></td><td>.740</td><td>.790</td></tr><tr><td colspan=\"3\">特征值</td><td>2.190</td><td>2.097</td><td>1.281</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.3对Web2.0用户的认知分析首先，选取适当性检验：KMO值0.843，其 $> 0 . 5$ 适合进行因素分析；Bartlett的卡方值1368.939达到显著水准。第二，方差贡献率检验：取特征值 $> 1$ 的数，为（3.831）和（1.371）；其变异量为(38.310)和（13.711）。最后，分析检查、因素陡坡检查、未转轴与转轴后因素分析，如表3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f82bb6c9899253c407a773b7896b6efed8e2933dd600c5e5cd1bbe8d1ed8897.jpg",
+        "table_caption": [
+            "表3Web 认知因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项</td><td rowspan=\"2\">解释 变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"3\">Component(抽取的因素）</td></tr><tr><td>第一因素</td><td>第二因素</td><td>共同性</td></tr><tr><td>Tag SNS RSS Podcast Blog ChartRoom</td><td>32.115</td><td>32.115</td><td>.844 .785 .774 .657 .548 .519</td><td></td><td>:717 .602 .488 .424 .430</td></tr><tr><td>Email BBS IM</td><td>19.906</td><td>52.020</td><td></td><td>.731 .690 .641</td><td>.534 .477 .513</td></tr><tr><td colspan=\"3\">P2P 特征值</td><td>3.211</td><td>.472 1.991</td><td>.403</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3路径分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于不是长期跟踪观测，因此不适合构建因果关系模型，即使讨论因果关系，也只能从理论上提出解释和假说。本研究的SEM仅从相关关系进行验证。根据上一节提取的几个因素对态度、行为和认知进行等序变量相关性分析，结果见表4。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/aeaaa7587522d813cf8de44f654ccd9a9410ab8effa302b1e074e3a9ab1dec51.jpg",
+        "table_caption": [
+            "表4Web 态度-行为-认知等序变量相关程度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测量方法</td><td>Pearson</td><td colspan=\"2\">Somers' Symmetric</td><td colspan=\"2\">Kendall's tau-b</td><td colspan=\"2\">Gamma</td></tr><tr><td>关系</td><td>系数</td><td>系数</td><td>标准差</td><td>系数</td><td>标准差</td><td>系数</td><td>标准差</td></tr><tr><td>态度-行为</td><td>641</td><td>.455</td><td>.027</td><td>.449</td><td>.027</td><td>.475</td><td>.028</td></tr><tr><td>行为-认知</td><td>.424</td><td>.292</td><td>.029</td><td>.286</td><td>.029</td><td>.306</td><td>.031</td></tr><tr><td>认知-态度</td><td>.475</td><td>.329</td><td>.028</td><td>.323</td><td>.027</td><td>.346</td><td>.029</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4模型修正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据3.2节因素分析的结果，虽然在三个组别中，各自找到两个、三个、两个因素，然而，找到的因素却不符合原先设计的研究模型的要求，不能从理论上给予解释。此外，从Somers和Kendall系数显示，表4“行为-认知”关系没有明显关系，路径分析结果也不理想。所以，有必要修正或放弃模型。修正方式为删除Email、BBS、ChatRoom、Podcast的态度、行为和认知等12项，保留其余18项。并且将三组因素分析的要素设置为一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5模型检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据3.4节模型修正的要求，对态度、行为和认知的18项重新进行因素分析、路径分析和参数检验，得出分析结果。3.5.1Web2.0态度KMO值0.762，其 $> 0 . 5$ ，适合进行因素分析;Bartlett的卡方值1368.939，而df $= 1 5$ ，达到显著水准，如表5所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a34491ecd74a514a7c0607678985a6c94bba35232c7bfbfc16e7b6988346c4d6.jpg",
+        "table_caption": [
+            "表5 Web2.0态度因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项</td><td rowspan=\"2\">解释变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"2\">Component（抽取的因素）</td></tr><tr><td>因素旋转矩阵</td><td>共同性</td></tr><tr><td>RSS Tag P2P IM Blog</td><td>45.799</td><td>45.799</td><td>.759 .698 .674 .673</td><td>.575 .488 .455 .453 .399</td></tr><tr><td>SNS 特征值</td><td colspan=\"2\"></td><td>.632 .615 2. 748</td><td>.378</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5.2Web2.0行为KMO值0.709，其 $> 0 . 5$ ，适合进行因素分析；Bartlett的卡方值645.754，而 $\\mathrm { d f } = 1 5$ ，达到显著水准，如见表6所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/64d10ef8d6404fe7767f3dabb598f4642000ca7b87171a6b4c89ddf4e21c38b8.jpg",
+        "table_caption": [
+            "表6 Web2.0行为因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项</td><td rowspan=\"2\">解释变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"2\">Component(抽取的因素）</td></tr><tr><td>因素旋转矩阵</td><td>共同性</td></tr><tr><td rowspan=\"3\">RSS Tag P2P IM Blog</td><td rowspan=\"3\">41.760</td><td rowspan=\"3\">41.760</td><td>.742</td><td>.550 .581</td></tr><tr><td>.763</td><td>.397</td></tr><tr><td>.630 .567</td><td>.321 .218</td></tr><tr><td>SNS 特征值</td><td colspan=\"2\"></td><td>.662 2.506</td><td>.439</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5.3Web2.0认知KMO值0.769，其 $> 0 . 5$ ，适合进行因素分析；Bartlett的卡方值843.061，而 $\\mathrm { d f } = 1 5$ ，达到显著水准（见表7）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5.4等序变量相关性分析由于模型受到修正，所以虚拟变项“态度-行为-认知等序变量”也经过调整，其分析见表8。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd4d44a871e5f81f8d5da9e8aadd449ea23a152dcfe69342ca62da2d58515f90.jpg",
+        "table_caption": [
+            "表7 Web2.0认知因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题项</td><td rowspan=\"2\">解释变异量</td><td rowspan=\"2\">累积解释 变异量</td><td colspan=\"2\">Component（抽取的因素）</td></tr><tr><td>因素旋转矩阵</td><td>共同性</td></tr><tr><td>RSS Tag P2P Blog IM</td><td>48.421</td><td>48.421</td><td>.772 .815 .603 .656</td><td>.595 .664 .363 .430</td></tr><tr><td>SNS 特征值</td><td colspan=\"2\"></td><td>.569 .727 2.905</td><td>.528</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2c43195b2d396bb126029c32f7a9bc121af4be6c833c40ddce10d806a5cc156.jpg",
+        "table_caption": [
+            "表8Web2.0态度-行为-认知等序变量相关程度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测量方法</td><td>Pearson</td><td colspan=\"2\">Somers' Symmetric</td><td colspan=\"2\">Kendall's Tau-b</td><td colspan=\"2\">Gamma</td></tr><tr><td>关系</td><td>系数</td><td>系数</td><td>标准差</td><td>系数</td><td>标准差</td><td>系数</td><td>标准差</td></tr><tr><td>态度-行为</td><td>.668</td><td>.492</td><td>.026</td><td>.484</td><td>.026</td><td>.522</td><td>.027</td></tr><tr><td>行为-认知</td><td>.458</td><td>.324</td><td>.030</td><td>.319</td><td>.030</td><td>.346</td><td>.030</td></tr><tr><td>认知-态度</td><td>.498</td><td>.357</td><td>.028</td><td>.348</td><td>.028</td><td>.385</td><td>.030</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6 图形",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据3.4节模型修正以及3.5节模型检验的结果，模型修正后如图1所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IM(A) IM(B)   \nBlog(A) .632 .467 Blog(B) .673 .567   \nP2P(A) .674 .630 P2P(B)   \nPSS(A) -.759 Attitude .668 Behavior .472 RSS(B) .698.615 .498 .458 .763   \nTag(A) .662 Tag(B)   \nSNS(A) Cognition SNS(B) .569 .727 .656 .815 .603 .772 IM(C) Blog(C) P2P(C) RSS(C) Tag(C) SNS(C) Web2.0Users MentalModelofAttitude,Behavior&Cognition ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过修正后，模型中态度、行为和认知之间的相关关系数值更加接近显著相关,也较为清晰地显示出三者之间的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1测量变项与潜在变项 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在引言中，笔者提到研究目的是为研究型数字图书馆进行交互设计，并从描述用户行为、特征、交互习惯的需要来设计用户的心智模型。本研究不是验证经典行为主义心理学假设：态度-行为－认知，而是借用它来设计结构方程式的潜在变量。而实际的测量变量则是2.1节中，与数字图书馆息息相关的问题：个人对网络工具的偏好程度、个人对网络工具的使用频率以及个人对网络工具具有学术用途的同意程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2内衍变项与参数估计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于不知道用户是不是喜欢Web2.0，是不是常用Web2.0，是不是希望Web2.0成为下一代数字图书馆的发展道路以及这三者之间有没有什么关系，因此，需要从这几个方面同时观察测量，而且同时进行相关性的研究。这就涉及到较为复杂的过程，首先，几个测量变量的结果，必需有一定的关联，才能整合为几个较为抽象的潜在变量;其次，测量变量之间，必需保持一定的差异，才能保证研究效度，不至于观测的都是同一现象，而忽视了未被观察的事物。这就是3.2节和3.3节采用因素分析和路径分析的原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3非直接关系与路径图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "原先测量的是10个网络工具，尔后模型修正为6个网络工具，每种网络工具采用三种不同的方式询问其态度、行为与认知。这是因为原先的10项工具，经因素分析后，不能很好地测度量所代表的操作变量，其组成的虚拟变项(潜在变项)也不能很好地显示出相关性。例如，无法用Tag、RSS、SNS、ChatRoom所反映的态度(表1)去解释用户对IM、BBS、ChatRoom的使用(表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于是3.4节的模型修正，提出了简化观测变量，仅抽取一个因素的原则，这是一种简化模型。而3.5节的模型验证，虽然同样不能很好地显示相关性，但是其系数数值更为接近显著相关。并且从理论上能够对该修正后的模型提出阐释。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4模型辨识 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在多个模型的比较里，3.2节和3.3节表示第一个模型，也是原型;而3.5节和3.6节表示最后一个模型，也是模型辨识后的确定模型。必需强调的是，从一群观测变量推导一组潜在变量，形成一个具有内在机理的模型，这一过程本身就具备形成多种不同模型的可能性。研究者是在研究目的、研究理论及数据验证的三重标准下进行模型辨识，并从中选择同时符合三个标准的最佳化模型（见图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 实践意义 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "更为清晰地展示新形态环境下，网络用户对于Web2.0式服务的态度、使用与认知以及相关性与整合式模型的完整性。对于数字图书馆交互设计而言，在心智模型的理解基础上,将推进建立具有拔苗助长为与特征的“型人”（personae）创建与使用的底层理论，使之得到更为合理的推论基础，使得高阶管理人员、位居一线服务的图书馆员以及编写网络图书馆代码的程序员，能理解用户的特征与行为，形成一致的讨论对象。作为实证调查结果的心智模型，短期之内可以为我们提供更深刻理解用户的背景知识，长期若结合其他相关研究，则会逐步精确地掌握用户的个人目标与想法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2 研究限制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "类似的研究还需要作更多努力，才能更为精确地理解用户。心智模型本身需要多次经过纯学术与应用实践双方面的验证。5.2.1时间变化性对网络环境变化的追踪和对用户行为持续不断的探索，迫使模型的修正或者重新设计变得极为可能。5.2.2研究方法局限问卷调查,或者适合验证理论，或者适合收集数据以探索研究对象。问卷调查的研究结论不适合作深度解释。5.2.3研究对象局限由于研究对象为中国科学院研究生，因此研究推论不适合说明其他大学的学生或者社会一般人士的现象或心智模型5.2.4研究本身缺陷只选取一个因子，单一解释变异量直接成为累积解释变异量；虽然数值接近，但是并未达到 $5 0 \\%$ 以上，是不理想的因素分析结果,其说明力度小。从严格意义上说,这属于模型假设的提出，而非模型验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3未来研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管存在着研究限制,但是在这项研究的基础上，可以进行更多的研究。例如：对心智模型的检讨与改进、结合访谈方法建立型人、长期跟踪同一组用户、结合其他相关研究、用其他研究方法等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于Web2.0环境下的数字图书馆服务以及系统功能，图书馆员多半从自身角度去看Web2.0能为图书馆带来什么样的机会与挑战。在这方面已有许多论述和建议。如果从用户的角度来看，用户习惯在Web2.0环境中做什么？用户偏好哪些Web2.0的工具？以至于他们可能对数字图书馆有什么样的期待？在图书情报学中的论述中则相对较少。此外，也缺乏理论和实务经验上的支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "笔者所提出的模型尽管其实践意义十分明显，但是目前仍然欠缺足够的理论依据和应用基础，为此，需要做更多的其他相关研究工作，才能进一步确认理论的可靠性和应用性。然而，最重要的是，永不放弃对用户行为的探索和对他们的关怀。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］RobertHoekman Jr.一目了然：软件显性设计之路．何潇,译.北京：机械工业出版社，2007.  \n[2］AlanCooper.交互设计之路-让高科技产品回归人性（第二版)．丁全钢,译.北京：电子工业出版社，2007.  \n[3］Jesse James Garrett.用户体验要素．范晓燕，译.北京：机械工业出版社，2007.  \n[4]Veldhuyzen W S,H.G.The internal model concept:A applicationto modeling human control of large ships.Human Factors，1977,19:367 -380.  \n[5]Wickens C D.Processing resources in attention//Varieties of Atten-tion．London：Academic Press，1984：63-102.  \n[6］David H. Jonassen.Operationalizing mental models: Strategies forassessing mental models to support meaningful learning and design -supportive learning environments.[20o8-07-12]. http://educa-tion.uncc.edu/jagretes/instructional% 2Odesign% 20articles% 20-% $20 \\& \\%$ 20constructivist%20articles/operationalizing%20mental% 20models.pdf.  \n[7］刘文革，刘婷婷．以诺斯为代表的制度变迁理论评析.学术交流，2007(3):63-67.  \n［8］西蒙．西蒙选集一诺贝尔经济学奖获者学术精品自选集．黄涛,译.北京：首都经济贸易大学出版社，2002.  \n[9］青木昌彦．比较制度分析．周黎安,译.上海：上海远东出版社,2001.  \n[10］邱皓政.结构方程模式-的理论、技术与应用．台北：双叶书廊，2006.  \n[111］顾立平．Web2.0用户行为调查研究——以中国科学院学生使用社会软件为例．图书情报工作，2007，51（9)：102-103.",
+        "page_idx": 4
+    }
+]

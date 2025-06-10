@@ -1,0 +1,170 @@
+# 补水与制冷不同初始条件对黏土冻融过程影响的试验研究
+
+孙雯¹，宋玲¹，陈新瑞¹，许清峰²，陈鹏²，杨禹锟³，吴浩1（1.石河子大学水利建筑工程学院,新疆 石河子832003；2.天富能源股份有限公司红山嘴电厂，新疆 石河子832000；3.石河子大学机械电气工程学院,新疆 石河子832003)
+
+摘要：为研究补水过程中新疆黏土的冻融特征,于室内开展单向冻融模型试验,分析非饱和黏土单向冻融过程中温度、冻胀量、融沉量的时空变化规律。结果表明:冻融量随温度的变化而变化;冻融初期,温度变化较快,冻胀/融沉量开始产生并逐渐增大;冻融后期,温度变化减慢并趋于稳定。两种条件下融化时长均短于冻结时长，初始含水率越大的土样,冻融历时、冻结/融化深度及冻胀/融沉量越大。研究结果表明：初始含水率的不同会导致水冰之间的相变差异及土体水热的变化，从而造成冻融过程中温度场和冻融量不同。此研究所得出的冻融温度场、冻结/融化锋面和冻胀/融沉量的变化规律，可为寒旱区水利工程的设计、修建及运营维护提供理论参考。
+
+关键词：黏土；单向冻融；水分迁移；温度；冻融量
+
+冻土是一种温度低于 $0 \mathrm { { ^ { \circ } C } }$ 且含有冰的土或岩石,季节冻土区占全国面积 $5 3 \%$ 左右[2]，新疆独特的地理环境和气候，有3\~6个月处于冬季3，反复的冻融作用会导致水工建筑物发生渗漏，造成大量水资源的浪费。已有研究4表明，季冻区建筑物发生的冻害与长期冻融循环和冻融过程中水分迁移密切相关。国内外学者就水分迁移和其他各类因素对土体冻融的影响进行了研究，其中，采用数值计算的研究有：Harlan[提出的水热耦合模型为后续研究奠定了基础。Konrad等对分凝冰的产生进行了研究。盛煜等考虑了水分迁移并将迁移势引入研究中。Shoop等"对地下水埋深不同的两类实验进行了建模。周扬"以未冻水膜压力评判冰透镜体的生长。Li等得出非饱和土冻融中水分迁移的推动力主要包括土中含水量的梯度(土水势梯度)和温度梯度。曾桂军等[13]建立了可模拟土体水分迁移和分凝冰形成过程的冻胀模型。师玮等[14考虑了冻土的水渗流与热对流，得出了土壤冻融过程中温度场和速度场变化。除此之外，也有学者采用试验方法对土体冻融进行研究：Wang等[15]学者研究了温度对水分迁移的影响。乌艺恒等[通过对气温、降水量、温度和水分的观测，对冻土冻融过程进行了相应分析。原国红[1和徐学祖等[18认为温度梯度、含水量和补水条件是影响细粒土冻胀效果的主要因素。张婷等[19进行了非饱和土体的单向冻结试验，研究了不同含水率、干密度及冻结时间对土中水分迁移的影响。赵刚等[20]研究了在初始含水量或温度模式不同时，对冻融过程中的温度场以及冻融前后含水量的变化进行了分析。也有学者针对开放体系下的土体进行了冻融试验，研究在不同含水率、冷端温度、干密度条件下，土体的结构、温度场、水分场及力学性质等变化规律[21-24]。但这些研究都是关于水分均匀的土体试样，实际情况还存在以地下水位为界限，水位以下土体基本处于饱和状态，水位以上土体处于非饱和状态的情况，因此，本研究结合此种情况，对上述两类土体单向冻融过程中的温度场、冻融量、冻结锋面、融化锋面进行分析。
+
+虽然诸多学者研究冻前含水率大小和外界水源对土体冻融的影响，但非饱和试样在制冷时，是否已进行了充分补水的室内模型试验研究，很少有学者涉及，基于此，本研究利用制冷设备和相关传感器，通过新疆粉质黏土的补水瞬间制冷（冻前含水率均一)和补水至下部土体饱和再制冷的单向冻融试验，分析试样土体冻胀和融化过程，研究温度、补水量、冻胀量和融沉量变化规律，为冻胀机制的研究提供试验基础，
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验土样取自新疆某引水渠沿线附近的具有典型冻胀特性的黏土，通过常规土工试验测出该土质基本物理指标，其土壤粒径分布情况如表1所示，其中，液限为 $3 0 . 4 7 \%$ ,塑限为 $1 5 . 6 8 \%$ ,最大干密度$1 . 6 2 \ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ,最优含水率 $1 7 . 0 \%$ ，冻胀性较强。
+
+# 1.2 试验设备
+
+1.2.1制冷/热设备采用半导体制冷/热技术，冷/热端面的输出温度可达 $- 3 5 ^ { \circ } \mathrm { C }$ 和 $3 0 \ \mathrm { ^ q C }$ ,冷/热交换面板位于该冻融试验装置箱体的正上方，其中箱体尺寸为长 $\times$ 宽 $\times$ 高 $\mathrm { = } 1 ~ \mathrm { m } { \times } 0 . 5 ~ \mathrm { m } { \times } 1 . 5 ~ \mathrm { m }$ ，热传导方向为从上至下，使土体从表层开始受冷/热后再不断地向土体内部产生降温或升温效果，实现单向冻融目的。
+
+箱体内、外侧面各粘贴 $5 \mathrm { c m }$ 和 $1 0 \ \mathrm { c m }$ 厚保温层， 箱底外侧粘贴 $6 \mathrm { c m }$ 厚保温层，保温隔热材料为橡塑 保温板，保温层连接处和接缝处用橡塑保温材料专 用胶和聚氨酯发泡剂粘接进行密封处理，保证模型 的保温与隔热性能。
+
+1.2.2温度传感器采用DLOG的DL50-E8T温度记录仪进行温度的测量和采集，该仪器采用热敏电阻的防水探头，探头长 $3 0 ~ \mathrm { m m }$ ,直径 $4 \mathrm { m m }$ ,其测温范围在 $- 5 0 { \sim } 1 1 0 ^ { \circ } \mathrm { C }$ ，测温精度 $\pm 0 . 3 \mathrm { - } \pm 0 . 5 \mathrm { ~ \textdegree C }$ ，稳定性高，可测量试验中土样各位置处的实时温度。
+
+1.2.3冻胀/融沉测量设备采用电子百分表，量程在 $- 5 0 { \sim } 5 0 ~ \mathrm { m m }$ ，精度为 $\pm 0 . 0 2 \mathrm { m m }$ ，配合万象表座组装为冻胀/融沉量测量装置。
+
+1.2.4补水装置由平衡瓶和马氏瓶组成，平衡瓶底侧的出水口与箱体后侧的进水口相连，起稳定水面和保持马氏瓶的持续补水的作用。马氏瓶由活动夹子固定在支架上，可通过调节夹子来控制马氏瓶高度，从而实现不同的地下水水位进行持续恒压补水。试验装置实物图和简图如图1所示。
+
+# 表1土壤粒径分布情况
+
+Tab.1 Particle size distribution table   
+
+<html><body><table><tr><td>粒径/mm</td><td>>2</td><td>2~1</td><td>1~0.5</td><td>0.5~0.25</td><td>0.25~0.075</td><td>≤0.075</td></tr><tr><td>该粒径范围的土颗粒质量占总土质量的百分比/%</td><td>8.44</td><td>0.33</td><td>1.09</td><td>1.71</td><td>6.65</td><td>81.78</td></tr></table></body></html>
+
+![](images/e6042b7ef835269b5092896914e0c54bc344949ef45ee00a0383864db801390e.jpg)  
+图1试验装置图  
+Fig.1 Test device diagram
+
+# 1.3试验过程及方法
+
+将土样经风干、过筛等处理，按含水率为 $1 7 \%$ 加水备样，充分搅拌均匀并闷料一昼夜。然后将配制好的土样分层装人箱体内，每次装入箱体土层厚度为 $1 0 \ \mathrm { c m }$ ，并对其表面进行充分刨毛处理后再装填下一层，使各层土体间紧密结合。最终的土体试样尺寸为长 $1 \mathrm { m }$ 宽 $0 . 5 \mathrm { ~ m ~ }$ 、高 $0 . 8 \mathrm { ~ m ~ }$ 的立方体，土样表面与制冷板之间留有 $4 0 \ \mathrm { c m }$ 的制冷/热空间，使得冷/热气可循环。为了探究在开放体系下新疆粉质黏土初始水分条件对土样温度、冻胀量、补水量、融沉量、冻结/融化锋面的影响规律，试验设计在同一地下水位（埋深为 $4 0 ~ \mathrm { c m }$ ),1号试样采取通水瞬间制冷，2号试样采取先通水至下部土体饱和再制冷的方式，具体试验条件如表2所示。
+
+土样从底部起在每隔 $1 0 \ \mathrm { c m }$ 的平面上布设4个DLOG的温度传感器探头，用于温度的测量。土样表面架设4个电子百分表用于测量土体总的冻胀量和融沉量。以上物理量均是自动采集存储至计算机内，保证其数据的准确性。制冷板置于试样箱体上端，起到传递冷/热的功能，配套使用温度控制盒，便可实现从上至下单向冻融的作用。同时，采用马氏瓶连接补水软管的方式，从土样底端对试样进行补水，人工根据马氏瓶刻度记录补水量。
+
+# 2 结果分析
+
+# 2.1冻结温度场
+
+由图2可以得出，两种试样的温度场变化分为三阶段，温度骤降阶段： $0 { \sim } 5 0 \mathrm { h }$ 内的温度梯度较大，1号和2号土温从室温开始降低，冷气从土样顶部开始向下依次传递。降温缓和阶段： $5 0 { \sim } 2 0 0 \mathrm { h }$ 期间温度梯度减小，温度变化很缓慢。温度稳定阶段：200h以后降温速率变为0，温度达到稳定。其中，2号试样各土层的稳定温度低于1号试样。1号和2号试样冻结时间分别为 $3 9 0 \mathrm { ~ h ~ }$ 和 $4 1 0 \mathrm { h }$ ，以 $0 \%$ 作为土体的相变温度，初始含水率不同，两个试样内发生相变的土层范围也不同，1号试样在 $8 0 { \sim } 6 5 ~ \mathrm { c m }$ 高度范围内的土体发生水冰相变，此区域内产生冻结；而2号试样在 $8 0 { \sim } 5 5 ~ \mathrm { c m }$ 高度范围内土温到达 $0 \mathrm { { ^ { \circ } C } }$ ,相变区域更大。可得初始含水率不同导致相变不同，从而引起温度场的差异，
+
+# 2.2冻结锋面
+
+如图3为冻结过程中1号试样、2号试样冻结锋面随时间变化过程，两类试样冻结锋面的变化均分为两个阶段。第一阶段：冻结锋面变化波动较大，1
+
+# 表2 试验条件
+
+Tab.2 Test conditions   
+
+<html><body><table><tr><td>试验编号</td><td>冻结温度/℃</td><td>融化温度/℃</td><td>冻结时间/h</td><td>融化时间/h</td><td>试样高度/cm</td><td>试验方式</td></tr><tr><td>1号</td><td>-15</td><td>+15</td><td>390</td><td>89</td><td>80</td><td>补水瞬间制冷</td></tr><tr><td>2号</td><td>-15</td><td>+15</td><td>410</td><td>112</td><td>80</td><td>补水至下部土体饱和再制冷</td></tr></table></body></html>
+
+![](images/50cd102f4330da4c87a8b0f401c3fc25360f8760d75c159c4d819c2b4e087db4.jpg)  
+图2冻结过程中的温度分布  
+Fig.2 Temperature distribution during the freezing process
+
+80 (a)1号试样 80 (b)2号试样 68588  
+75 75  
+65 65/王 55Y45  
+35 42 35  
+25 25  
+15 15  
+5 5  
+0 100 200 300 0 100 200 300 400  
+时间/h 时间/h
+
+号和2号试样在此阶段的用时分别为 $2 0 0 \mathrm { ~ h ~ }$ 和250$\mathrm { { h } }$ ；第二阶段：冻结锋面位置保持稳定，1号和2号试样在此阶段的用时分别为 $1 9 0 \mathrm { h }$ 和 $1 6 0 \mathrm { h }$ 。可得冻结锋面的变化趋势由温度场决定，由图3a可知，1号试样在 $8 0 \ \mathrm { c m } \ 、 7 5 \ \mathrm { c m } \ 、 6 5 \ \mathrm { c m }$ 高度处土样温度到达 $0 \mathrm { { ^ { \circ } C } }$ 的时间依次为 $2  { \mathrm { h } } , 6 . 4  { \mathrm { h } }$ 和 $5 0 \mathrm { h }$ ,说明冻结顺序从上至下， $5 5 \mathrm { { \sim } 0 ~ c m }$ 高度的土样中无负温出现。由图3b可知，2号试样在 $8 0 \ \mathrm { c m } \cdot 7 5 \ \mathrm { c m } \ . 6 5 \ \mathrm { c m } \ . 5 5 \ \mathrm { c m }$ 高度处土温降至 $0 \%$ 的时间分别是 $2  { \mathrm { h } } , 7  { \mathrm { h } } , 7 6  { \mathrm { h } }$ 和 $1 6 5 \mathrm { ~ h ~ }$ 与1号试样相比，其冻结深度更深。从开始冻结到完全冻结，1号试样和2号试样分别历时约 $2 9 0 \mathrm { { h } }$ 、$3 9 0 \mathrm { ~ h ~ }$ ，冻结深度分别为 $1 5 \ \mathrm { c m }$ 和 $2 5 ~ \mathrm { c m }$ 。可知在同样的温度梯度下，冻结初期的含水率越大，完全冻结所需历时越长，冻结深度越深。
+
+初始含水率是造成冻结时间和冻结温度不同的主要原因。2号试样土体含水率较高，并且水的导热系数比孔隙内空气的大，造成2号试样从高温区向低温区传递的热量高于1号试样，由于此热传导作用，使得2号试样各土层降温较缓慢，最终冻结锋面达到稳定是正、负温平衡的结果，冻结深度也不再变化。
+
+# 2.3冻胀量
+
+由图4可知，冻结试验结束时，1和2号试样冻胀量分别为 $1 3 . 7 5 ~ \mathrm { m m }$ 和 $1 5 . 6 8 ~ \mathrm { m m }$ 。其中，由图4a可知，1号试样冻胀量的发展大致分四个阶段。第一阶段( $( 0 { \sim } 6 \mathrm { h } )$ )：当温度梯度较大时，冻结锋面快速向下移动，未产生明显的水分迁移，没有冻胀量产生。第二阶段( $( 6 { \sim } 1 8 4 \mathrm { h } )$ ：此段时间内各土层温度和含水率变化很活跃，水分向各土层的迁移和重新分布也很剧烈，冻胀量增长较快。第三阶段(184\~278h)：该阶段温度作用减弱，冻胀量增长变慢。第四阶段 $( 2 7 8 { \sim } 3 9 0 \mathrm { h }$ )：温度变化和补水量都趋于稳定，冻胀量增长很慢直至停止增长趋于稳定。由图4b可知，2号试样冻胀量的发展大致分为两个阶段。第一阶段 $( 0 { \sim } 4 8 \mathrm { h } )$ )：冻胀总量缓慢增长期，冻胀曲线斜率很小。第二阶段 $( 4 8 { \sim } 4 1 0 \mathrm { h } )$ ：为冻胀总量拟线性增长期，冻胀量的发展较快，冻胀量曲线斜率明显大于第一阶段。两种情况下土样冻胀量发展规律均为冻结初始，温度梯度较大，土体顶端温度迅速由正温变为负温，这部分土体内液态水发生相变，由于冻结速率较快，土体来不及从下部吸水（或吸水量极少），液态水直接在土孔隙中发生原位冻结，宏观上不产生(或产生很小的)冻胀量;冻结中后期冻胀量慢慢累积增长到趋于稳定。1、2号土样产生冻胀量的差异是由于初始含水率不同，在冻结过程中水冰相变的时间、土体内形成的冰含量均不同，土样中的宏观表现即是土体膨胀。初始含水率越高，越有助于冻胀的产生与发展。
+
+![](images/03307e12604d4b1902d82e4f98452e9345502f7a24ff61b5bdc2c819ae6bde54.jpg)  
+图3冻结锋面变化  
+Fig.3Freezing frontal changes   
+图4土样冻胀量  
+Fig.4Soil sample frost heave
+
+# 2.4 补水量
+
+图5为1号试样冻结过程中补水量与冻胀量的变化曲线，冻结结束时的总补水量为 $2 2 0 6 ~ \mathrm { m L }$ 。从图中可以看出，由于土体内有孔隙存在，外界水分的补给在试验开始第 $1 2 \mathrm { h }$ 。冻结锋面移动过快，水分来不及补给， $0 { \sim } 1 2 \mathrm { h }$ 内的补水量为 $0 ; 1 2 \sim 1 0 2 \mathrm { h }$ ，随着冻结锋面下移速度变慢，水分向冷端进行迁移直至试样进入稳定阶段，仍有少量水分向冻结锋面处迁移甚至穿越冻结锋面，便在冻结锋面下部土体内有负孔隙水压的产生，将外界水分吸入土体，使得水分开始补给；$1 0 2 { \sim } 3 9 0 \mathrm { h }$ 补水量持续增加直到最终趋于稳定。
+
+![](images/a78db2666fb5065de2aa8570e69b8c114c640358ee0f9a22841ab16b7cfca35c.jpg)  
+图51号土样补水量与冻胀量关系 Fig.5Relationship between amount of hydration and frost heaving of No.1 soil sample
+
+# 2.5 融沉温度场
+
+图6为1号试样、2号试样融化的温度场分布。由图6a可知，在 $0 { \sim } 2 0 \mathrm { h }$ ，温度梯度较大，箱内环境温度和土体表面( $8 0 \mathrm { c m }$ 温度迅速增高， $2 0 \mathrm { h }$ 后达到稳定；高度在 $6 5 { \sim } 7 5 ~ \mathrm { c m }$ 内的土层温度从负温开始上升，在 $0 { \sim } 4 0 \mathrm { h }$ 内增速较快, $4 0 { \sim } 7 0 \mathrm { h }$ 内的增速开始减缓， $7 0 \mathrm { { h } }$ 后温度达到稳定；高度范围在 $5 { \sim } 5 5 ~ \mathrm { c m }$ 内的土层温度变化规律相似， $0 { \sim } 4 0 \mathrm { h }$ 内温度上升较快,$4 0 \mathrm { { h } }$ 后保持稳定。由图6b知， $5 5 \mathrm { { \sim } 8 0 ~ c m }$ 的土层温度在融化开始时温度均从负温开始快速增高，随着温度梯度减小，增温速率减缓，直至温度保持不变； $5 \sim$ $4 5 \ \mathrm { c m }$ 高度范围内的土温从初始正温开始升高，最终稳定在 $7 \%$ 左右。1号试样、2号试样的融化总时长分别为 $8 9 \mathrm { h }$ 和 $1 1 2 \mathrm { h }$ ，短于冻结所用时间。
+
+# 2.6融化锋面
+
+图7为整个融化过程中，1号土样和2号土样的融化锋面变化，其中黑色线代表 $0 \mathrm { { ^ { \circ } C } }$ 等温线。由图7a可知，土样在 $8 0 \ \mathrm { c m } \ 、 7 5 \ \mathrm { c m } \ 、 6 5 \ \mathrm { c m }$ 高度处到达 $0 \mathrm { { ^ { \circ } C } }$ 的时间分别是 $5  { \mathrm { h } } , 8  { \mathrm { h } }$ 和 $1 0 \mathrm { { h } }$ ,最终的 $0 \%$ 等温线停在土样的 $6 0 ~ \mathrm { c m }$ 高处。图7b中， $8 0 \ \mathrm { c m } \cdot 7 5 \ \mathrm { c m } \cdot 6 5 \ \mathrm { c m }$ 和 $5 5 \ \mathrm { c m }$ 高处到达 $0 \%$ 的时间依次为 $8  { \mathrm { ~ h ~ } } , 1 7  { \mathrm { ~ h ~ } } , 2 6  { \mathrm { ~ h ~ } }$ 和 $4 1 \mathrm { ~ h ~ }$ ,最终的 $0 \%$ 等温线停在土样的 $5 0 \mathrm { c m }$ 高处。说明1号试样的升温速率高于2号试样，这是因为2号试样冻结初始的含水率较高，冻结过程中产生的冰也较多，所以融化过程需要更长的时间。
+
+![](images/59d448a88e297b896a389d0f5bbb86f2d3b68ffe90ea1a177f78828085f9d61f.jpg)  
+图6融化过程中的温度分布  
+Fig.6Temperature distribution during melting
+
+![](images/c1b03c4312dcc2bbad66d3c0afb27872099d82eb5ba2d0a287d69be7741ce03f.jpg)  
+图7融化锋面变化
+
+![](images/4a40883aefc8ac46b84d161318e35d078ee1dd29e12cdce6c8b620cbad7db18e.jpg)  
+Fig.7Melting frontal changes   
+图8土样融沉量  
+Fig.8 Soil sample thawing amount
+
+# 2.7 融沉量
+
+由图8可知，融沉量的发展大致分为三个阶段。第一阶段没有融沉量产生，是由于这一时段上部正冻土体要进行融化,变为正温土体，还没开始融化。第二阶段是融沉量迅速增长，第三阶段是融沉量停止增长至稳定。
+
+对比分析两种情况下的融沉量，1号和2号试样的融沉量分别为 $8 . 8 6 \mathrm { m m }$ 和 $1 0 . 2 3 ~ \mathrm { m m }$ ,2号试样初始含水率较大，产生的冰量较多，当这些由冰体积增大产生的冻胀量在温度升高时发生消融，2号试样土体的融沉量也就越大。当含水率较小时，产生融沉的主因是温度升高冻土受热，冻土内的冰体融化造成土体体积减小，并且融水在自重作用下向下运移共同引起的沉降变形；当含水率较大时，由于土体本身自重而引起的沉降占主要作用，此种情况融沉的产生是温度和重力共同作用，所以，融沉量大小与温度有关外，还与含水率大小相关。这与25所得出的规律一致。
+
+# 3结论
+
+(1）冻结过程中，初始含水率越大，温度场达到稳定的时间越长，冻深越大，形成的冻胀量也越大。融化过程中，初始含水率越大，融化所需时间越长，融沉量也越大。
+
+（2）冻融作用是温度场、水分场和位移场等互为耦合影响，几者之间由动态变化逐渐达到稳定。
+
+（3）在寒区修筑建筑物时，应尽可能选取不冻胀或弱冻胀性的材料。避开高地下水位，对建筑物水下部分采取排水、防水措施，对易冻部位采取保温措施。
+
+参考文献(References):   
+[1]路建国,张明义,张熙胤,等.冻土水热力耦合研究现状及进展 [J].冰川冻土,2017,39(1):102-111.[Lu Jianguo,Zhang Mingyi, Zhang Xiyin,etal.Review of the coupled hydro-thermo-mechanical interactionoffrozen soil[J].Journal of Glaciologyand Geocryology,2017,39(1): 102-111.]   
+[2]郑秀清,樊贵盛,邢述彦.水分在季节性非饱和冻融土壤中的 运动[M].北京:地质出版社,2002.[Zheng Xiuqing,Fan Guisheng,Xing Shuyan.Movement of Water in Seasonal Unsaturated Freeze-thaw Soil[M]. Beijing: Geological Publishing House,2002.]   
+[3]程国栋,王绍令.试论中国高海拔多年冻土带的划分[J].冰川 冻土,1982,4(2):1-17.[Cheng Guodong,Wang Shaoling.On the zonation of high-altitude permafrost in China[J]. Journal of Glaciology and Geocryology,1982, 4(2): 1-17.]   
+[4]夏琼,窦顺,赵成江.兰新铁路路基冻结过程中水分迁移及冻 胀规律试验研究[J].中国铁道科学,2012,33(5):1-7.[Xia Qiong,Dou Shun, Zhao Chengjiang. Experimental study on water migration and frost heaving rules during the freezing process of subgrade in Lanzhou- Xinjiang Railway[J]. China Railway Science,2012,33(5): 1-7.]   
+[5]刘凯,张远芳,张运海,等.冻融循环条件下亚氯盐渍土盐冻胀 试验研究[J].长江科学院院报,2018,35(5):93-96,102.[Liu Kai, Zhang Yuanfang,Zhang Yunhai, et al. Salt heaving test of sub-chlorine saline soil under cyclic freezing and thawing[J]. Journal of Yangtze River Scientific Research Institute,2O18,35(5): 93-96,102.]   
+[6]王大雁,马巍,常小晓,等.冻融循环作用对青藏粘土物理力学 性质的影响[J].岩石力学与工程学报,2005,24(23):4313- 4319.[Wang Dayan,Ma We,Chang Xiaoxiao,et al.Physico-mechanical properties changes of Qinghai-Tibet clay due to cyclic freezing and thawing[J]. Chinese Journal of Rock Mechanics and Engineering,2005,24(23): 4313-4319.]   
+[7]Harlan RL.Analysis of coupled heat-fluid transport in partially frozen soil[J]. Water Resources Research,1973,9(5): 1314-1323.   
+[8]Konrad JM, Morgenstern N R. Effects of applied pressure on frezing soils[J]. Canadian Geotechnical Journal,2O11,19(4): 494-505.   
+[9]盛煜,马巍,侯仲杰.正冻土中水分迁移的迁移势模型[J].冰川 冻土,1993,15(1):140-143.[Sheng Yu,Ma Wei,Hou Zhongjie. A model of migration potential for migration during soil freezing [J]. Journal of Glaciologyand Geocryology,1993,15(1): 140-143.]   
+[10]Shoop S A, Bigl S R. Moisture migration during freeze and thaw of unsaturated soils: modeling and large scale experiments[J]. Cold Regions Science and Technology,1997,25(1): 33-45.   
+[11]周扬.冻土冻胀理论模型及冻胀控制研究[D].徐州:中国矿业 大学,2009.[Zhou Yang. Study on Frost Heave Model and Frost Heave Control of Frozen Soils[D].Xuzhou: China University of Mining & Technology,2009.]   
+[12] Li N, Chen B,Chen F,et al. The coupled heat-moisture-mechanic model of the frozen soil[J]. Cold Regions Science and Technolo gy,2000,31(3): 199-205.   
+[13] 曾桂军,张明义,李振萍,等.饱和正冻土水分迁移及冻胀模型 研究[J].岩土力学,2015,36(4):1085-1092.[Zeng Guijun, Zhang Mingyi,Li Zhenping,et al. Studyof moisture migration and frost heave model of freezing saturated soil[J]. Rock and Soil Mechanics,2015,36(4): 1085-1092.]   
+[14]师玮,刘少博,张华峰.基于水渗流和热对流传导耦合模型的 冻土热量传输[J].干旱区研究,2017,34(2):274-281.[Shi Wei, Liu Shaobo, Zhang Huafeng.Heat transfer in frozen soil based on coupling modelof waterflowand heatconvectionconduction[J]. Arid Zone Research,2017,34(2): 274-281.]   
+[15]Wang T, Su L. Experimental study on moisture migration in unsaturated loess under effect of temperature[J]. Journal of Cold Regions Engineering,2010,24(3): 77-86.   
+[16] 乌艺恒,赵鹏武,周梅,等.季节性冻土区土体冻融过程及其对 水热因子的响应[J].干旱区研究,2019,36(6):1568-1575.[Wu Yiheng, Zhao Pengwu, Zhou Mei, et al.Freezing-thawing process of seasonal frozen soil and its response to moisture and temperature[J]. Arid Zone Research,2019,36(6): 1568-1575.]   
+[17]原国红.季节冻土水分迁移的机理及数值模拟[D].长春:吉林 大学,2OO6.[Yuan Guohong.The Mechanism and Nnumerical Simulation of Water Transfer in Seasonal Freezing Soil[DJ. Changchun: Jilin University,2006.]   
+[18] 徐学祖,王家澄,张立新.冻土物理学[M].北京:科学出版社, 2001.[Xu Xuezu, Wang Jiacheng, Zhang Lixin. Frozen Soil Physics[M]. Beijing: Science Press, 2001.]   
+[19] 张婷,杨平.土体单向冻结对土中水分迁移的影响[J].南京林 业大学学报(自然科学版),2013,37(1):117-121.[Zhang Ting, Yang Ping.Effects of unilateralist freezing on the moisture migrationof soil[J]. Journal of Nanjing Forestry University (Natural Science Edition),2013,37(1):117-121.]   
+[20] 赵刚,陶夏新,刘兵.重塑土冻融过程中水分迁移试验研究[J] 中南大学学报(自然科学版),2009,40(2):519-525.[Zhao Gang, Tao Xiaxin, Liu Bing. Experimental research on water migration in remoulded soil during freezing and thawing processJ]. Journal of Central South University (Science and Technology),2009,40(2): 519-525.]   
+[21] 曹成,陆建飞,李清涛.室内土体单向冻结水分迁移的试验研 究[J].科学技术与工程,2015,15(9):114-118,124.[Cao Cheng, Lu Jianfei,Li Qingtao.The experimental study of unilateralist freezing on the moisture migration of indoor soil[J]. Science Technology and Engineering,2015,15(9): 114-118,124.]   
+[22] 张升,贺佐跃,滕继东,等.非饱和土水汽迁移与相变:两类"锅 盖效应"的试验研究[J].岩土工程学报,2017,39(5):961-968. [Zhang Sheng,He Zuoyue,Teng Jidong,et al.Water vapor transfer and phase change in unsaturated soils: Experimental study on two types of canopy effect[J]. Chinese Journal of Geotechnical Engineering,2017,39(5): 961-968.]
+
+[23]徐学祖,邓友生.冻土中水分迁移的实验研究[M].北京:科学 出版社,1991.[Xu Xuezu,Deng Yousheng.Experimental Study of Water Migration in Frozen Soil[M].Beijing: Science Press, 1991.]
+
+[24]蔡瑛.深土冻融特性试验及工程应用研究[D].淮南:安徽理工大学,2OO7.[Cai Ying.The Speciality Tests of Freeze-thaw on
+
+Deep Soil and Research on Project Application[D]. Huainan: Anhui University of Science and Technology,2007.] [25] 王冬.兰州粉质粘土冻胀融沉特性研究[D].兰州:兰州理工大 学,2014.[Wang Dong. Study on the Characteristic of Frost Heave and thaw Settlement of Lanzhou Silty Clay[J].Lanzhou:Lanzhou University of Technology,2014.]
+
+# Experimental study on the influence of different initial conditions of water replenishment and refrigeration on clay freeze-thaw processes
+
+SUN Wen'， SONG Ling'， CHEN Xin-rui'， XU Qing-feng, CHEN Peng²， YANG Yu-kun³， WU Haol (1.Collegeof Water &Architectural Engineering,Shihezi University,Shihezi 832003,Xinjiang,China;   
+2.Hongshanzui Power Plant of Xinjiang Tianfu Energy Co.,Ltd., Shihezi 832000, Xinjiang,China;   
+3.College ofMechanical and Electrical Engineering,hihezi University,Shihezi 8320o3,Xinjiang,China)
+
+Abstract: In order to study the freezing and thawing characteristics of Xinjiang clay during water replenishment,a one-way freezing and thawing model test was carredout indoors to analyze the temporal and spatial changes of temperature,frost heave,and thawing amount during the one-way freezing and thawing of unsaturated clay.The results showed: the amount of freezing and thawing changes along with temperature change; in the early stage of freezing and thawing,temperature changes quickly,and the amount of frost heave/thaw deposition begins to occur and increases gradually;and in the later stage of freezing and thawing,the temperature change slows down and tends to stabilize.Underthe two conditions,the thawing time is shorter thanthefreezing time.The greatertheinitial water content of thesoil sample,the greater the freeze-thaw duration,freezing/thaw depth,and frost heave/thaw settement.In summary,the difference in initial water content will lead to the difference in the phase change between waterand ice,as wellas the change in soil water heat.This,in tur,willcausethe temperature field and amount of freezing and thawing to be diferent during freezing and thawing processes.Regularities in freezingthawing temperature field,freezing/thawing front,and frost heave/thawing subsidence obtained by this study can provide theoretical reference for the design,construction,operation,and maintenance of water conservancy projects in cold and dry regions.
+
+Key words: clay；unilateral freeze-thaw； moisture migration; temperature; freeze-thaw amount

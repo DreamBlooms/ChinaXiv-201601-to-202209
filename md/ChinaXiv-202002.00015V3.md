@@ -1,0 +1,156 @@
+# 人工智能在新型冠状病毒(2019-nCoV)肺炎的应用进展：需求和机遇\*
+
+王永桂\*李强「余晴杨水化 $^ { 1 }$ 徐子怡 $^ { 1 }$ 谢天奕「胡珊
+
+1（中国地质大学（武汉）地理与信息工程学院、流域关键带演化湖北省重点实验室湖北武汉 430074)²（武汉楚精灵医疗科技有限公司，湖北武汉，430074)
+
+# 摘要:
+
+[目的]探究人工智能在新型冠状病毒（2019-nCoV）的诊断、治疗和控制中的应用场景和进展，以利用人工智能为新型冠状病毒肺炎的防控提供助力。
+
+[方法]剖析新型冠状病毒肺炎防控的技术需求，从人工智能基因测序、辅助诊断、远程专家系统、药物筛查与研制等方面，分析当前的应用进展，挖掘应用的机遇。
+
+[结果]中国是新型冠状病毒疫情最严重的国家，存在诸多的技术短板有待科技助力，AI能在疫情防控中发挥出重要的作用，但目前处于初步阶段，缺乏经过验证的落地成果；AI辅助诊断领域重复性研发较多，其他方面研究较少。
+
+[局限]当前应用的数据大部分来自网站报道，如有更多的学术性成果，进展的分析将更全面。
+
+[结论]需要加大投入和调控，在数据、算法和算力共享的基础上，各方面全面展开研发。
+
+关键词：人工智能新型冠状病毒2019-nCoV新型冠状病毒肺炎应用进展
+
+分类号：TP18
+
+# The applications advance of artificial intelligence in the 2O19 novel coronavirus pneumonia (2019-nCoV) pneumonia: requirements and opportunities
+
+Wang Yonggui',Li Qiangl, Yu Qingl, Yang Shuihua', Xu Ziyi', Xie Tianyi',Hu Shan² 1(Hubei Key Laboratory of Critical Zone Evolution, School of Geography and Information Engineering, China University of Geosciences,Wuhan 430074, China) 2 （Wuhan Chujigling medical technology co.,LTD,Wuhan 430079， China)
+
+# Abstract:
+
+[Objective] To explore the application scenarios and progress of artificial inteligence in the diagnosis,treatment and control of 2019 novel coronavirus (2019-ncov),and to provide reference for the prevention and control of new coronavirus pneumonia with artificial intelligence.
+
+[Methods] Combing with the technical characteristics and advantages of artificial intelligence, current application progress and opportunities of artificial intelligence gene sequencing, auxiliary diagnosis, remote expert system, drug screening and development, and resource allocation were analyzed.
+
+[Results] China is the hardest-hit country of the new coronavirus. It has accumulated a lot of experience in the prevention and control of the epidemic,but there are still many technical shortcomings to be asssted by science and technology. While,it is still in the preliminary stage with lack of proven achievements.There is much repeated development in auxiliary diagnosis.
+
+[Limitations] Most of the data currently in use comes from reporting,and progress analysis would be more comprehensive with more academic results.
+
+[Conclusions] It needs comprehensive research and development in all aspects based on the sharing and opening in data, algorithms, and computing capacity to help promoting control of 2019 novel coronavirus pneumonia. More investment and regulation are needed.
+
+Keywords : Artificial Intelligence; 2019 Novel Coronavirus; 2019-Ncov: 2019 novel coronavirus pneumonia; Applications Advance
+
+自2019 年12月武汉新型冠状病毒(2019-nCoV)肺炎(简称新冠肺炎)疫情发生以来，疫情防控已成为中国当前阶段最重要的工作。2020年1月20日，国家卫健委发布2020年1号公告，将新型冠状病毒肺炎纳入《中华人民共和国传染病防治法》规定的乙类传染病，并采取甲类传染病的预防和控制措施[I；2月3号，国家卫健委发布了《新型冠状病毒感染的肺炎诊疗方案(试行第五版)》等指南，明确了新冠肺炎的病理学特点、临床特征、提出了新冠肺炎的诊断标准以及治疗方案等内容，指导了中国的疫情防控[2]。“早发现、早诊断、早隔离、早治疗”是疫情防控的关键，但面对快速传播的新冠肺炎，在疫情检测能力、诊断手段和治疗药物上仍然存在巨大的技术短板。2月4日，中国工信部发布倡议，鼓励加大科研攻关力度，充分发挥人工智能赋能效用，协力抗击新冠肺炎[3]。在此之前，诸多医疗机构、企业和研究院所已经开展了“人工智能(AI) $+$ 新冠肺炎”研究和产品研发，但仍然需要更详细的应用指导，以发挥人工智能的赋能效应。因此，急需总结当前新冠肺炎中AI的研究和应用现状，分析新冠肺炎防控的技术需求，基于AI的技术优势探寻AI在新冠肺炎防控中的应用场景。
+
+# 1新冠肺炎防控的需求
+
+随着临床数据的不断积累和研究的深入，对新型冠状病毒和新冠肺炎有了一定的了解，我国已经形成了新冠肺炎诊断的多级方案和防治措施。但仍然存在以下问题急需解决：
+
+(1)新型冠状病毒基因组测序是新冠肺炎诊断和治疗的关键。中国、法国、英国等国家都完成了新型冠状病毒(2019-nCoV)的基因组测序工作，全球发布了近20 个新型冠状病毒全基因组序列，发现病毒未现太大变异[4]。但现有病毒基因组测序无法完全反应所有病例的病原体基因组顺序，病毒还存在潜在变异风险，仍需进一步对病毒的基因组序列进行测序，尽可能全面的绘制现有新型冠状病毒的基因组序列，监控突变的发生，并预测其突变后的RNA结构。
+
+(2)患者的流行病学史、临床症状表现、实验室检查数据和肺部影像数据是诊断新型肺炎的必要信息，但感染者的指数式增长，给医生临床诊断带来了巨大的压力。当前，新冠肺炎的诊断主要依靠人力，内容多、耗时长，导致大量医院超负荷运转。部分医院不能及时对患者诊断，大量患者需排队数小时等待检测，极大的增加了交叉感染的风险。
+
+(3)进入二月以来，疫情呈现向医疗资源匮乏、诊疗水平落后的地区迁移和渗透的趋势。湖北省黄冈、孝感等武汉周边城市，确诊数在不断增加，但其筛查诊断新型肺炎的能力十分有限。我国医疗资源在各地的配置不均衡，优质医疗力量均集中在大中型城市[5]。而在那些诊断新型肺炎缺乏经验以及医疗水平不发达的地区，如何快速进行患者诊断，防止疫情进一步的扩散，是急需解决的问题。
+
+(4)研发抗新型冠状病毒的疫苗和对症药物，是疫情防控战役决胜的关键。
+
+截止2月7号，尚未有批准上市的疫苗和特效药物。最新的进展是美国研究人员发现一名接受瑞德西韦治疗后的患者临床症状得到改善；中国疾控中心病毒所研究指出瑞得西韦(Remdesivir，GS-5734)和磷酸氯喹(Chloroquine)能在细胞水平上有效抑制2019新型冠状病毒感染[7。但是，这些药物在人体上的作用还需要严格的临床验证，仍有必要快速、持续开展治疗新型冠状病毒药物的筛查，为后续的药物设计和实验开发奠定基础。
+
+(5)随着全国性新冠肺炎防控进入第二阶级，前一阶段的疫情防控，消耗了大量的疫情防控药品和医疗器械，大部分地区医疗资源告急，而新冠肺炎进入第二波流行上升期，确诊和疑似患者以及密切接触者的激增，对医疗资源的需求将进一步扩大。如何合理科学的进行区域乃至全国的资源配置，针对防控资源需求重点规划产能，为疫情防控提供保障，是急需解决的重大问题。
+
+# 2AI助力新冠肺炎防控的进展
+
+人工智能是通过模拟人类思维过程进行模拟并应用的新兴学科，包括信息和数据处理、机器学习人机交互等技术，具有庞大的算法体系，在社会各个领域都有着广泛的应用。近年来，人工智能在医学领域的应用范围和应用规模不断扩大，在疾病诊断、治疗、人口健康管理、监督和调控等方面发挥了重要影响。目前，应对新冠肺炎防控的需求，国内外已经开展了相关的研究和应用。
+
+# 2.1基于人工智能的病毒基因测序
+
+2019n-Cov属于β属冠状病毒，与流感病毒、副流感病毒、腺病毒、呼吸道合胞病毒、鼻病毒和人偏肺病毒以及 SARS、MERS病毒具有一定的相似性[8，9]。新型冠状病毒的基因测序，是区分新冠病毒与其余病原体的关键，对于锁定新冠肺炎疫情元凶、研发检测工具、寻找有效疗法的意义十分重大。虽然已发布了多个版本的新型冠状病毒的全基因组序列，但新型冠状病毒的基因测序是一个长期的动态过程。人工智能可有效地解决人工测序存在耗时长、工作量大的问题。最新报道显示，阿里巴巴达摩院将研发的AI算法应用到新型冠状病毒基因测序中，构建了浙江省自动化全基因组检测分析平台，能一次对几十万到几百万条DNA分子进行序列测定。该平台能快速对病毒感染患者的样本进行基因测序，并确定是否感染，相比于试剂确诊技术，能极大的防止病毒变异产生的漏检；而相比于人工测序，能将12小时的工作缩短到2个小时以内，极大地提高了检测速度[10]。但整体上，目前利用AI进行 2019 n-COV基因测序的工作开展较少。
+
+利用人工智能进行AI测序，在全球重要传染性病原体的基因工作中，都有重要的应用[]。如利用DeepVariant进行埃博拉病毒的基因测序，在此基础上判断其基因的突变特征，能大大加快RNA结构的预测速度[12]。DeepVariant 是Google公司研发并开源的用于基因组构建的深度神经网络模型，能用来分析基因序列，并识别基因差异[13]，显著减少基因组测序错误[14]。除了DeepVariant之外，Deep Genomics 公司 SPIDEX，基于深度学习技术，能计算出遗传变异对DNA拼接的影响，在人工智能基因测序方面具有突出的成绩[15]。利用人工智能进行病毒基因测序和基因变异分析，是基因领域的新方向，具有极大的发展前景，能够有效地对 2019n-COV进行基因监控。随着百度、google、Deep Genomics等公司免费开放AI算力，用于全球的2019n-COV的基因测序工作，将极大地促进该工作的开展。当然，目前还缺乏专业性的论文报道，通过AI对2019n-COV进行基因测序，能取得哪些突破性进展，还有待进一步的研究。
+
+# 2.2基于机器视觉的新冠肺炎临床辅助诊断
+
+新型冠状病毒感染确诊靠病毒核酸检测，这种方法虽特异性强，但敏感性差。新冠肺炎患者肺部影像表现早于临床症状，在影像学表现上会有明显异常。如研究指出，新型冠状病毒肺炎的CT影像表现为早期以胸膜下斑片状、团状、节段或亚段性磨玻璃影为主，进展期病灶增多、范围扩大，发展为双肺多叶受累的磨玻璃影与实变影，重症患者表现为双肺弥漫性病变，呈“白肺”等形状[1]。胸部DR和CT影像，在一定程度上，都能对患者的肺炎情况进行分析。但Holshue 等研究指出，美国一例确诊患者的胸部X片不见异常[6]；而我国大量临床案例也表明，疑似患者CT影像病灶十分明显的情况下，胸片仍然正常。CT影像是新冠肺炎诊断的更可靠影像。影像科医生可利用CT影像的特异性异常，排查“高度疑似肺炎患者”。通过人工智能技术建立新冠肺炎的影像学诊断工具将十分有助于新冠肺炎的早期筛查，加快诊断速度，目前已有多例报道，如表1所示。
+
+表1AI在新型冠状病毒肺炎临床检测中的应用  
+
+<html><body><table><tr><td>系统名称</td><td>识别对象</td><td>应用医院</td><td>来源</td></tr><tr><td>新型冠状病毒性 肺炎智能影像评 价系统</td><td>CT影像</td><td>上海市公共卫生临床中 心等</td><td>https://www.thepaper.cn/news Detail_forward_5794740</td></tr><tr><td>人工智能医疗影 像诊断系统肺炎 诊断AI特别版</td><td>CT影像</td><td>华中科技大学同济医学 院附属同济医院等</td><td>http://www.sohu.com/a/37136 5603_115128</td></tr><tr><td>Dr.Wise?全肺AI 医学辅助诊断系 统(肺炎增强版)</td><td>CT影像</td><td>湖北省黄冈市中心医院 新院区等</td><td>http://www.sohu.com/a/37136 5603_115128</td></tr><tr><td>DEMETICS?201 9-nCoV</td><td>CT影像</td><td>浙江大学医学院附属第 医院等</td><td>https://mp.weixin.qq.com/s/xR r6B0e12eryqptmunTEXQ</td></tr><tr><td>新型冠状病毒肺 炎影像云平台</td><td>肺炎DR 和CT影 像</td><td>未见报道，提供云服务</td><td>http://info.finance.hc360.com/ 2020/02/071128470789.shtml</td></tr></table></body></html>
+
+从表中可以看出，目前利用机器视觉，进行新型肺炎的辅助诊断，主要是通过识别CT影像进行。机器视觉模型的训练，需要大量的临床数据。但由于当前大部分系统仅在部分医院应用，存在样本集不够的问题，这会限制AI的临床意义。目前，尚未有研究报道AI诊断的临床应用数据，各个系统的识别准确度以及对医务工作者的帮助程度有待考量。现有大量的研究指出，通过CT影像，进行肺炎、支气管炎等的诊断上，准确率较高。如我国学者在2001年就已经开展了人工智能在医学CT影像中的应用，构建了基于距离变换的算法，能快速进行软组织分层显示处理，提取影像中的物体外轮廓和切割深度[17]。Weikert等使用 FDG-PET/CT，测试了一种基于AI的检测和三维分割原发性肺癌的肺结节检测算法的性能，该算法能对肺癌进行可靠的检测和三维分割，诊断率达到90.4%／70.8%，但因其仅适用于≤3cm的肺结节检测，对较晚期肺肿瘤的检测和分割不够精确[18]。可以预计利用现有的AI框架和机器视觉模型，在大量临床样本的训练后，能够实现对新冠肺炎的高效率和高准确率的诊断。但是，由于现有机器视觉模型较多，不同的模型对CT影像的识别能力不同，在研究尤其是产品研发中，要充分进行AI模型的对比分析，选择更适用的模型。
+
+# 2.3基于专家系统的新冠肺炎远程AI诊断平台
+
+2月5日，WHO宣布启动了一项6.75亿美元的战略准备和响应计划(SPRP)，支持对新型冠状病毒肺炎研究，帮助提升薄弱地区卫生系统的应对能力[19]。在专业医疗队伍有限的条件下，提升薄弱地区应对新冠肺炎的有效方式是构建远程诊断平台。随着中国疫情向中小城市和乡镇等医疗能力不够的区域发展中国卫健委已经明确指出，要充分利用远程医疗，辅助县镇村的新型肺炎诊断和防控[20]。最新报道显示，中国已有个别区域正在开展AI+新冠肺炎远程系统的研发。如上海市公共卫生临床中心主导的新型冠状病毒性肺炎智能影像评价系统远程医务人员可以将患者CT图像上传至该系统，进行快速诊断分析[21]。云南省发布了基于5G网络的“新型冠状病毒感染肺炎在线免费诊疗平台”，该平台能为患者提供智能咨询、专家问诊的服务，并已成功诊断出一名疑似患者[22]。远程医疗系统，不仅能解决医疗能力薄弱地区的问诊难题，也能应用于医疗条件较好，开展早期分诊、非接触式诊断服务，避免病患拥挤和造成新的聚集性感染。
+
+早在2003年SARS病毒爆发时，我国学者已经开展了远程诊断系统的研究，建立了SARSES系统，该系统包括知识表示、推理方法等技术，能方便患者进行远程会诊[23]。相比于远程医疗会诊系统，基于AI的远程诊断系统是一个更复杂的跨学科系统。一个典型的远程诊断系统应包括动态数据采集单元、实时状态监控单元、本地故障诊断单元、远程诊断专家系统、远程专家会诊中心和计算机通信网络6个部分[24]。其中远程诊断专家系统，能通过具有大量专门知识的计算机程序来模拟医学专家的分析过程，以解决医疗诊断中的各种复杂问题，是AI远程系统的关键[25]。目前，大量的研究还处在远程专家系统的早期阶段，系统的诊断仍然依靠专家远程会诊，很少有系统能真正融合人工智能技术的分析功能、推理功能，利用患者的临床症状、实验室检测数据进行智能诊断。针对新冠肺炎，研发AI远程诊断专家系统，还需要加大研发力度，其核心是研发基于新冠病毒知识库和病例库，重点是AI诊断模型的构建，目标则应包括机器智能诊断的实现。
+
+# 2.4基于 $\mathrm { A I ^ { + } }$ 大数据的新冠肺炎药物筛查
+
+疫苗、药物研发过程漫长而复杂，需要经过毒株分离、测序分析、靶点识别和验证、化合物筛选和优化、评估研究和动物实验、制剂合成、临床试验等步骤，一般需要5年以上[26]。面对新冠肺炎的紧急态势，很难快速进行新药的研发，“老药新用”是新型疾病药物研发的关键方法。AI具有高效的算法与强大的算力，能根据新型冠状病毒的特点，从大量的已有药物中，筛选出可能的药物，进而缩短新药研发周期，提高药物研发成功率[27]。《柳叶刀》报道指出，通过使用BenevolentAI知识图谱发现HIV洛匹那韦和利托那韦等现有药物可能对新冠病毒有效[28]。中国几大AI领域的大型企业，都极力支持利用AI辅助新冠肺炎药物的筛选工作,如2020年1月29日，阿里云宣布在疫情期间向全球公共科研机构免费开放一切AI算力，对病毒靶点进行识别和验证，以寻找可治疗新冠肺炎的化合物[29]。通过AI将药物筛选的时间缩短，意味着反抗新型冠状病毒的药物筛选和研制出来的速度加快。
+
+AI技术通过对现有化合物数据库信息的整合和数据分析，提取大量化合物与毒性、有效性的关键信息，进而快速的进行药物筛选。在2015年的埃博拉病毒药物研制中人工智能就已显现出便捷性与高效性，IBM超级计算机在24小时内从规模庞大的分子结构数据库中筛选出能控制埃博拉病毒的两种候选药物[30]。研发新药过程中，Atomwise 通过分析建立埃博拉病毒入侵生物细胞模型，利用类人脑神经网络算法进行药物成分分析，检测到7000种可能成功对抗这种病毒模型的药物，显示出了人工智能在化合物筛选中的巨大优势[31。当然，利用AI进行新冠肺炎的药物筛选和疫苗研发，不仅需要借助AI的算力，还需要大型的药物数据库和超算能力。随着大型互联网公司免费开放AI算力，中国政府公开新冠肺炎的基因组序列以及全球健康药物研发中心免费开放科研数据与信息共享平台(Targeting 2019-nCoV)，将进一步刺激AI+新冠肺炎药物的研究，促进更多特效药物的发现。
+
+# 2.5其他方面
+
+除了上述主要针对新型肺炎的药物研发、诊断外，AI在新型肺炎领域，还有大量的应用场景可以挖掘。如：针对当前重灾区医疗资源不够的问题，利用智能优化，实现物资和人员的合理优化配置；电商平台利用大数据+AI，进行新型肺炎防疫医疗物资(口罩、防护服、消毒液)等的假冒产品销售和虚抬物价等行为的判断；为了让医疗服务“下沉”渗透到百姓基层，帮助百姓了解疫情防控，可以借助自然语言处理等技术打造肺炎咨询机器人，辅助医生解决简单病情的问答；随着新型冠状病毒传播的不仅有病毒还有谣言，而利用AI技术则能甄别谣言，可帮助社交平台和新闻网站在假新闻尚未造成大面积伤害时就快速识别出来，遏制其传播，净化网络环境；而在疫情发展规律预测和疫情预警等方面，AI结合空间大数据分析，也能发挥其独有优势。当前，这些应用场景所需要的相关AI技术已经相对成熟，急需从产业化与落地应用的角度，进行产品的研发。
+
+# 3结论与建议
+
+# 3.1结论
+
+新型冠状病毒的防控，不仅仅是中国当前最重要的工作；也是全球重点关注的事情。2020年1月30日，WHO宣布将新型冠状病毒肺炎疫情列为国际关注的突发公共卫生事件(PHEIC)[32]。突发性公共卫生事件，极大的威胁了全球的生命健康。以科技改变人类，是科技发展的最重要目标之一。人工智能是当今全球发展最快、影响力最大的尖端科学技术。将人工智能应用于新型冠状病毒的基因测序研究、辅助诊断、药物研发以及防控调度等方面，具有十分广阔的前景，应该得到全球AI领域的科学家和科研机构的支持。目前，这一方面的努力还远远不够，需要全球AI科学家联合起来，合理分配全球AI研究方向，在新冠肺炎的预防、诊断、治疗和控制等各个方面全面助力，为全球性新型冠状病毒的防控贡献力量。
+
+# 3.2建议
+
+针对新型冠状病毒性肺炎的防控可能是一场遭遇战，会在不久的将来以人类的胜利而告终。但是人类防控传染病则是一场任重而道远的持久性战役。人工智能，在人类医疗健康领域做出了巨大的贡献，并将持续性的为保障人类的生命健康提供助力。但是，正如AI在新冠肺炎中的研究一样，虽然AI应用场景广阔，但大部分聚集在辅助诊断、远程医疗等方面，需要进行全局性的规划。另一方面，深度学习是人工智能的核心，而深度学习需要大量的训练数据，但是新型冠状病毒肺炎的临床资料，如CT影像、临床案例等缺乏可靠的获取途径，很多AI研究单位空有算法与模型，却无数可用。正如《Nature》所呼呼的那样，要在病毒的防控过程中中，对数据和研究保持持续性的共享和开放[33]·这需要从全球层面，形成合理的医疗数据共享和流通机制，构建面向医疗的数据、标注、训练、基准的专用AI训练平台。只有全球合力，共同建设和维护人类的医疗数据体系和AI算法体系，共享超算能力，才能在本次应对新型冠状病毒性肺炎和下次遇到突发公共卫生事件时，人类能快速形成聚力，以AI为武器阻击病毒，保障人类生命健康安全。
+
+# 参考文献：
+
+[1]中华人民共和国国家健康委员会.中华人民共和国国家健康委员会公告[EB/OL],http://www.nhc.gov.cn/jkj/s7916/202001/44a3b8245e8049d2837a4f27529cd386.shtml,2020-01-20[2020-0-08][2]中华人民共和国国家卫生健康委员会.关于印发新型冠状病毒感染的肺炎诊疗方案（试行第五版）的通知[EB/OL], htp://www.nhc.gov.cn/yzygj/s7653p/202002/3b09b894ac9b4204a79db5b8912d4440.shtml.2020-02-05[2020-02-08]
+
+[3]中华人民共和国工业和信息化部.充分发挥 智能赋能效用协力抗击新型冠状病毒感染的肺炎疫情倡 议书[EB/OL],http://www.miit.go /n7647394/n764 /c7664192/content.html.2020-02-04/[2020- 02-08]   
+[4]新华网.特稿：与病毒赛跑——全球新型冠状病毒科研扫描 [EB/OL],http://www.xinhuanet.com//2020- 02/06/c_1125539309.htm,2020-02-06/[2020-02-08]   
+[5]雷咸胜.城乡居民医疗服务满意度比较研究——基于CGSS(2015)数据的实证分析[J].农业技术经济, 2019(4):16-28.(Lei Xiansheng.A comparative study on medical service satisfaction ofurban and rural residents - an empirical analysis based on CGSS(2015)data[J]. Journal of Agrotechnical,2019(4):16-28.)   
+[6]Holshue ML,DeBolt C,Lindquist S,et al.First Case of 2019 Novel Coronavirus in the United States[J]. New England Journal of Medicine, 2020.   
+[7]Wang M, Cao R, Zhang L,et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro[J]. Cell Research,2020: 1-3.   
+[8] Zhu N, Zhang D, Wang W,et al. A novel coronavirus from patients with pneumonia in China,2019[J]. New England Journal of Medicine, 2020.   
+[9]Lu R, Zhao X,Li J,et al. Genomic characterisationand epidemiologyof2019 novel coronavirus: implications for virus origins and receptor binding[J]. The Lancet, 2020.   
+[10] Abacus. Alibaba and Baidu offer AI genomics research to help fight the China coronavirus outbreak[EB/OL], https://www.abacusnews.com/tech/alibaba-and-baidu-ofer-ai-gene-sequencing-tools-help-fight-china-coronavirusoutbreak/article/3048178 2020-01-31/2020-02-08   
+[11] Gawehn E,Hiss JA,Schneider G.Deep learning in drug discovery[J].Molecular informatics,2016,35(1): 3- 14.   
+[12] Nagarajan N,Yapp E KY,Le NQ K, etal. Application of Computational Biologyand Artificial Intelligence Technologies in Cancer Precision Drug Discovery[J]. BioMed Research International,2019, 2019.   
+[13] DePristo M,Poplin R. DeepVariant: highly accurate genomes with deep neural networks[J]. Google AI Blog, 2017.   
+[14] Anderson C. Google's AITool DeepVariant Promises Significantly Fewer Genome Errors[J]. Clinical OMICs, 2018, 5(1): 33-33.   
+[15]Nono AD, Chen K, Liu X. Comparison of different functional prediction scores using a gene-based permutation model for identifying cancer driver genes[J]. BMC medical genomics,2019,12(1): 22.   
+[16]管汉雄,熊颖,申楠茜等.武汉 2019 新型冠状病毒(2019-nCoV)肺炎的临床影像学特征初探[J].放射学实 践.2020: 1-6(GUAN HanGxiong,XIONG Ying,SHEN NanGqian,et al.,   
+ClinicalandthinGsectionCTfeaturesofpatientswith2019GnCoVGpneumoniain Wuhan[J]. Radiologic Practice| Radiol Prac.2020:1-6)   
+[17]韩博闻,田捷,王岩.医学图象软组织分层显示的设计与实现[J].计算机应用研究,2001(02):1-3.(Han bowen,Tian Jie, Wang Yan.Design and Implementation of Delamination Displayof Soft Tissue on Medical Images[J]. APPLICATION RESEARCH OF COMPUTERS,2001(02):1-3.)   
+[18] WEIKERT T, AKINCI D'ANTONOLI T, BREMERICH J, et al. Evaluation of an AI-Powered Lung Nodule Algorithm for Detection and 3D Segmentation of Primary Lung Tumors[J]. Contrast Media and Molecular Imaging,2019, 2019.   
+[19]World Health Organization, Novel Coronavirus(2019-nCoV) Situation Report-16 -ERRATUM   
+[EB/OL],htps://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf? sfvrsn=23af287f_4,2020-02-05/2020-02/08 [20]中华人民共和国卫生健康委员会,关于加强信息化支撑新型冠状病毒感染的肺炎疫情防控工作的通知 [EB/OL],htp://www.nhc.gov.cn/guihuaxxs/gon11/202002/5ea1b9fca8b04225bbaad5978a91f49f.shtml.2020-02- 04[2020-02-08]   
+[21]新浪新闻，新型肺炎 AI智能评价系统上线[EB/OL],，htps://news.sina.com.cn/s/2020-02-05/dociimxyqvz0417611.shtml， 2020-02-0[2020-02-08]   
+[22]人民网 ${ \it 5 0 + }$ 远程医疗 云南开出首张新型肺炎智慧诊疗单[EB/OL],   
+http://scitech.people.c0m.cn/n1/2020/0205/c1007-31572231.html.2020-02-05[2020-02-08]   
+[23]张华,王崇骏,叶玉坤等.SARSES:SARS 医疗辅助诊断专家系统的设计和实现[J].计算机工程与应用, 2004,40(18):217-220.(Zhang Hua, Wang Chongjun, et al.SARSES:Design and Implemention of an Expert System for Diagnosis SARS[J]. Computer Engineering and Applications ,2004, 40(18):217-220.)   
+[24]白广利,纪彬.远程专家诊断系统的应用研究[J].自动化技术与应用,2011(06):45-46.(Bai Guangli,Ji Bin. The Application of Remote Diagnosis System [J]. Techniques of Automation and Applications. 2011(06):45-46.) [25]张德政,彭嘉宁,范红霞.中医专家系统技术综述及新系统实现研究[J].计算机应用研究(12),2007:12-15. (ZHANG De-zheng PENG Jia-ning FAN Hong-xia.Present research situation and prospect of Chinese medicine expert system[J].APPLICATION RESEARCH OF COMPUTERS,2007:12-15.)   
+[26]Taylor D. The pharmaceutical industry and the future of drug development.[J]Environ Sci   
+Technol,2016(41):1-33   
+[27]Reuters. Gilead working with China to test Ebola drug as new coronavirus   
+treatment[EB/OL],https://www.nasdaq.com/articles/gilead-working-with-china-to-test-ebola-drug-as-newcoronavirus-treatment-2020-01-31.2020-01-31[2020-02-08]   
+[28]Richardson P, Griffn I,Tucker C,etal. Baricitinib as potential treatment for 2019-nCoVacute respiratory disease[J]. The Lancet,2020.   
+[29]阿里云.加速新冠疫苗研发，阿里云免费开放一切AI算力！   
+[EB/OL],https://yq.aliyun.com/articles/743278?   
+spm=5176.10695662.1996646101.searchclickresult.76667e89YSrPgn&aly_as=hJm4QWoI. 2020-01-29/2020-02- 08   
+[30]Kincaid E.A second look: Efforts to repurpose old drugs against Zika cast a wide net[J].2016:84   
+[31]Mesko B. The role of artificial intelligence in precision medicine[J] Taylor & Francis.2017:239-241. [32]WHO. 2019-nCoV outbreak is an emergency of international   
+concern[EB/OL],http://www.euro.who.int/en/health-topics/emergencies/pages/news/news/2020/01/2019-ncovoutbreak-is-an-emergency-of-international-concern,2020-01-30[2020-02-08]   
+[33]Editor.Calling all coronavirus researchers: keep sharing, stay open[J].Nature.2020-02-04
+
+(通讯作者:王永桂 E-mail:wangyg@cug.edu.cn)
+
+# 作者贡献声明：
+
+王永桂：提出研究思路，设计研究方案，论文起草;  
+李强：查阅诊断领域相关数据和当前进展，并写作，进行全文校稿；  
+余晴：查阅药物研发相关的数据和当前进展，并写作；  
+杨水化，查阅AI在其他方面的应用的数据和当前相关进展，并写作；  
+徐子怡：查阅远程诊断的数据和进展，并写作;  
+谢天奕：查阅基因测序当前相关进展，并写作；  
+胡珊：论文最终版本修订

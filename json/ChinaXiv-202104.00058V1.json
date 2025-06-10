@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "卫星降水产品评价研究的演进脉络与前沿进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "俞琳飞}²，杨永辉1，杨艳敏1(1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室,河北 石家庄050022；2.中国科学院地理科学与资源研究所/中国科学院陆地水循环及地表过程重点实验室，北京100011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：卫星遥感观测技术的不断发展，为全球降水准确定量观测提供新的手段，应用卫星降水产品的前提是进行地区的适用性评价。为了解卫星降水产品评价的研究现状和热点，以Webof Sci-ence数据库核心合集中1998—2020年752篇文献作为研究对象，利用文献计量和网络分析的方法剖析卫星降水产品评价研究的演变趋势、合作关系和研究热点，以此来了解该领域的前沿进展。结果表明：该领域的研究论文发文量和引文量不断增长，且2015年开始高被引论文显著增多。美国、中国和德国是该领域的主要发文国家，美国和中国占到世界总发文量的 $7 6 . 2 \\%$ ，中国科学院是全球该领域发文量最大的学术机构，占到发文总量的 $1 1 . 6 \\%$ 。基于卫星降水数据在复杂地形区的多时空尺度评价、极端降水事件分析、大尺度干旱评价等是该领域的主要研究方向;典型的研究区包括青藏高原、拉普拉塔流域等。基于卫星降水数据在无资料地区的水文过程模拟、结合人工智能方法进行气候变化模拟、气象预报和预测等是该领域未来研究方向和热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：卫星降水产品；文献计量；网络分析；演进脉络；前沿进展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水是全球水循环的重要组成部分，在全球水量和能量平衡中扮演重要的角色[1-2]。精准的降水时空格局分布信息对于水资源管理、气候变化模拟和预测、自然灾害预警和防控以及生态系统维护具有重要意义[3-6]。降水除了对地球水圈产生影响之外，同样也会对其他圈层产生重要影响。例如，降水可以通过潜热交换影响云层和水汽分布，通过稀释海水含盐量而影响洋流，以及作为重要影响因素之一促进植被地带性分布差异[7-9]。可见,准确定量的降水观测对全球水循环过程解析、气候变化预测和全球能量平衡系统的认识具有重要作用[\"]。同时，由降水引发的洪涝灾害、滑坡和泥石流等地质灾害也会对人民生命财产造成损失和阻碍社会经济发展[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水的准确观测是一切涉水事务科学决策的前提和基础，传统的降水观测方法是通过地面雨量站进行直接观测，地面观测虽然是提供高精度降水数据的直接手段，但其布设站网的设置受到地形的制约，在无资料地区(高山区、海洋等)难以准确地反演降水时空分布格局[1I-13]。此外,天气雷达是观测降水的另一种有效手段，但是在观测过程中，由于地形遮挡、测雨雷达反射率和降雨强度关系的不确定性和遥测范围的局限性等因素导致其在复杂地形区降水观测精度不足[14]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卫星遥感技术的迅速发展使获取栅格化面降水估算数据成为可能[15]。卫星观测作为降水监测的重要手段之一，具有全天候、连续观测和高时空分辨率的优势，有效的弥补了地面观测手段的不足,使用户能够获得近全球尺度的降水资料[16]。在过去的近40a中，全球范围内一系列的降水观测计划陆续开展,如GPCP(Global precipitationclimatolo-gy project）[17]、TRMM(Tropical rainfall measuring mis-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "sion）[16.18]、GSMaP(Global satellte mapping of precipitation）[19]、GPM(Global precipitation measurement)[14,20]等，促使系列观测卫星相继进入太空，卫星降水产品相继面世，极大丰富了全球各个区域的降水数据源，为水文学、气象学和相关领域的研究提供了新的手段。然而，卫星观测仍然是间接地降水观测，各地区在使用卫星降水产品数据之前必须要对产品在该地区的适应性评估，一是为选择适合该地区的卫星降水产品数据，二是结合不同评估地区的特征和分析结果，为产品研制者提供反演算法改进的现实案例和建议。在全球范围内，关于卫星降水产品精度和探测能力的评价逐年增多且发展迅速，但目前关于国际各地产品评价的归纳分析、热点分析和未来发展态势还鲜有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上，本文运用文献计量分析方法对卫星降水产品评价的研究现状、发展特征和潜在研究方向进行总结和梳理。本研究从宏观(国家、机构)和微观(关键词、作者)角度出发，对全球范围内卫星降水产品评价的文献进行定量与定性的演进脉络分析和前沿探讨，旨在直观、清晰地展示该领域地研究概况、热点趋势，以期为未来相关研究和各地区产品数据选择提供有益地参考和启示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WebofScience是由美国科学信息研究所(Insti-tuteforScientificInformation，ISI)建立的综合性学术资源信息平台，是全球最具影响力的主流数据库之一，为世界范围内的学者提供了高质量的学术出版物信息[21]。本研究的数据来源于Webof Science核心合集。在Webof Science数据库中将\"主题\" $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (sat-ellite precipitation product\\* or satellite rainfall prod-uct\\*）AND(evaluation\\* or comparison\\* or assess-ment\\* orvalidation\\*)AND\"文献类型\" $\\ c =$ “article”,检索时间为2020年4月3日，时间段为1998—2020年，共得检索结果752条。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献计量学是结合数学和统计学方法来研究文献情报的交叉学科，通过文献计量分析(Bibliometricanalysis)来研究文献的数量特征，能够进行学科研究现状归纳总结和发展趋势预测[22-23]。文献计量法已经被作为是一种总结历史研究和发掘未来热点的重要分析方法。在文献计量和可视化分析的背景下，一系列文献分析工具相继开发，极大地推动了文献计量学在众多学科领域的应用和发展。本研究基于美国德雷塞尔大学陈超美博士基于Java平台开发的一款信息可视化软件CiteSpace作为可视化分析工具，该软件自发布以来被国内外学者广泛的应用在文献题录数据文本分析、挖掘和可视化[24-26]。基于该软件进行关键词共现分析、文献共被引分析和合作网络分析等能够清晰的展示学科领域内的知识结构、研究热点和知识演化过程[27]。本研究利用CiteSpace5.3.R4版本对文献数据进行可视化分析，追踪研究热点和前沿。此外，通过WebofScience数据库中自带的\"创建引文报告和分析检索结果\"功能辅助分析研究文献中作者国家、研究机构组成等基本信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1卫星降水产品评价研究概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1卫星降水产品评价发文和引文演变趋势论文发文量和文献被引量随时间的变化是研究领域发展变化特征的重要依据，能够较好的反映该研究领域的演进过程和发展趋势。图1展示了1998—2020年卫星降水产品评价研究论文的被引频数和发文量，可见全球关于卫星降水产品评价的研究经历了缓慢增长一平稳增长一较快增长一快速增长4个主要的演进阶段。2001年以前，由于气象卫星刚刚开始投人使用，卫星降水产品数据时段较短且地面雨量站网布设稀疏，因此相关研究较少，年均发文量在5篇以下，研究的关注度较弱，属于起步阶段；2002—2008年，随着卫星运行逐步稳定、反演算法的不断改进和数据时间序列的延长，发文量呈现出平稳增长的趋势;2009—2014年，由于前期相关研究的增多，更多学者关注到卫星降水产品数据的优势，发文量进入了较快增长的阶段；2015年以后，研究进入快速增长阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于WebofScience数据库自带的统计分析功能，1998—2020年共有文献752篇，总被引频次20949，去除自引的引用频次16446，每篇平均被引次数27.86， $h$ -index( $h$ 指数）为69。从1998年到2019年，全球关于卫星降水产品评价分析的论文数量稍有波动，但总体呈现稳步上升的趋势；同时引用频次也在逐年增加，特别是在2017年之后发文量和引文量明显的增加(图1)。可见卫星降水产品评价基本上已在全球范围内开展，未来基于卫星降水产品数据来支撑全球水循环、气象预报和气候变化模拟和预测等相关领域的研究也将会越来越多。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d787bbfbfa28c8ed4fdb1b78ba01890386e3d182c18ca7ee63ee25431a18f0.jpg",
+        "img_caption": [
+            "图11998—2020年卫星降水产品评价文献被引频数和发文量",
+            "Fig.1 Number ofcited and published papers on evaluation of satellite precipitation product from 1998 to 2020 ",
+            "Fig.2Major disciplines and their proportions in evaluation of satellite precipitation product "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总得来说，在WebofScience核心数据库中，全球范围内卫星降水产品评价的研究近年来发文量呈增加趋势，被引频次逐年递增。可能的原因在于，一是大尺度和全球尺度的降水数据源是未来水文学科和气象学科研究的重要基础；二是多传感器联合反演降水为全球学者提供了高精度和高分辨率降水产品。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2卫星降水产品评价学科分布特征卫星降水产品适用性评价是应用数据资源的前提。关于卫星降水产品评价的研究不仅仅是在大气圈领域的实践和应用，也涉及到水圈、岩石圈和生物圈等研究领域。为了厘清卫星降水产品评价所涉及学科分布特征，本研究统计了该领域所涉及的主要学科分布情况(图2)。卫星降水产品评价的研究论文主要集中在气象学和大气科学领域，占到论文总数的$2 9 \\%$ 。在水文与水资源科学、遥感科学和地质学上分别占比论文总数的 $1 5 \\%$ 、 $1 3 \\%$ 和 $12 \\%$ 。此外，卫星降水产品评价还涉及了工程学、环境科学与生态学、成像科学与摄影技术、自然地理学等。这说明卫星降水产品数据的应用领域涉及广泛，在不同学科的发展和应用具有较大潜力。同时，卫星降水产品作为近全球尺度的公开数据资源，在进行全球范围内的精度评价和改进建议的之后，以及反演算法的不断提升会给各学科领域学者开展研究提供极大的便利。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56af29c38d79b41393f26817dd89fe23998134bd38322956aef742358f29a4bf.jpg",
+        "img_caption": [
+            "图2卫星降水产品评价的学科分布特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2卫星降水产品评价的文献计量分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1主要国家分析通过分析不同国家/地区的文献发表情况可以反映该国家对该研究领域的重视程度和国际学术影响力。根据WebofScience数据库核心合集收录的论文情况来看，国际上该领域发文量排名前10的国家依次是：美国、中国、德国、英国、意大利、印度、法国、荷兰、澳大利亚和日本(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在CiteSpace软件中,将时间跨度设置为1998—2020年，分析节点设为国家（Country），时间切片为2a，进行国家和地区分析，得到国家和地区合作图谱(图3)。结合表1和图3的结果可得，美国发文量最大，为336篇，占到世界发文量的 $4 4 . 6 8 \\%$ ，美国同时具有最高的 $h$ 指数( $h$ 指数是指至多有 $h$ 篇论文分别被引用了至少 $h$ 次)和单篇引用次数，表明美国在该领域的研究水平处于世界领先地位。中国在该领域的发文量排在全球第二，发文量为237篇，占到世界发文量的 $3 1 . 5 2 \\%$ ,相比于美国的 $h$ 指数和单篇被引次数都较低，说明论文质量有待提高。论文发表排名前10的国家中，除中国和印度外均为发达国家，可见发达国家在该领域占据主导地位，这不利于研究成果在发展中国家的应用。国家和地区合",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c62df49bf5be8c1454dceb02541f2f8665f619500ad27ad8665fb828023777d2.jpg",
+        "table_caption": [
+            "表1全球发文量前10的国家",
+            "Tab.1 Top ten countries of the number of published papers around the world "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>国家/地区</td><td>记录</td><td>发文量占比/%</td><td>h指数</td><td>每项平均被引用次数</td><td>被引次总计</td><td>去除自引</td></tr><tr><td>1</td><td>美国(USA)</td><td>336</td><td>44.68</td><td>61</td><td>38.37</td><td>12893</td><td>11610</td></tr><tr><td>2</td><td>中国(China)</td><td>237</td><td>31.52</td><td>33</td><td>17.39</td><td>4122</td><td>2981</td></tr><tr><td>3</td><td>德国(Germany)</td><td>59</td><td>7.85</td><td>23</td><td>24.32</td><td>1435</td><td>1396</td></tr><tr><td>4</td><td>英国(England)</td><td>54</td><td>7.18</td><td>26</td><td>71.28</td><td>3849</td><td>3820</td></tr><tr><td>5</td><td>意大利(Italy)</td><td>48</td><td>6.38</td><td>20</td><td>27.75</td><td>1332</td><td>1293</td></tr><tr><td>6</td><td>印度(India)</td><td>46</td><td>6.12</td><td>15</td><td>13.72</td><td>631</td><td>574</td></tr><tr><td>7</td><td>法国(France)</td><td>44</td><td>5.85</td><td>18</td><td>32.73</td><td>1440</td><td>1409</td></tr><tr><td>8</td><td>荷兰（Netherlands）</td><td>39</td><td>5.19</td><td>20</td><td>31.54</td><td>1230</td><td>1194</td></tr><tr><td>9</td><td>澳大利亚(Australia)</td><td>31</td><td>4.12</td><td>15</td><td>33.35</td><td>1034</td><td>1021</td></tr><tr><td>10</td><td>日本(Japan)</td><td>26</td><td>3.46</td><td>13</td><td>35.42</td><td>921</td><td>914</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aa1e40c35215d33f365907c15eceb0b02ad7658d9b92005178630b0e61b4e97.jpg",
+        "img_caption": [
+            "Fig.3Map of published papers and cooperation between countries and regions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：节点大小代表国家和地区的发文量，节点间连线代表国家间  \n的合作。USA:美国;PEOPLESRCHINA:中国;GERMANY：德国;  \nITALY:意大利;FRANCE:法国;NETHRLANDS:荷兰;ENGLAND:英国；INDIA：印度；AUSTRALIA：澳大利亚。图3国家和地区间文章量及合作关系图谱",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作图谱表明了在卫星降水产品评价研究领域，各个国家学术交流频繁且有着较为广泛的合作和分享。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2主要研究机构分析通过分析该领域研究机构的分布和组成情况有利于了解学术界对该领域的认同程度，从而促进不同学术机构之间的交流和合作。图4展示了全球研究机构的合作共现图谱，节点越大表示该机构的发文数量越多，节点之间的连线表示不同机构之间的合作。世界范围内发文量排名前10的研究机构分别是中国科学院（Chins-esAcademyofSciences，CAS)，87篇;美国国家航天航空局（National Aeronautics Space Administration,NASA）,61篇；俄克拉荷马大学(UniversityofOkla-homa）,5o篇；马里兰大学（UniversityofMaryland）,38篇;清华大学(Tsinghua University）,34篇;中国科注：节点大小代表研究机构的发文量，节点间连线代表机构间的合作。ChinsesAcadSci:中国科学院;NASA：美国国家航天航空局；UnivOklahoma：俄克拉荷马大学；UnivMaryland：马里兰大学；TsinghuaUniv:清华大学;Univ Chinses AcadSci:中国科学院大学;NOAA：美国国海洋和大气管理局;UnivConnecticut：康涅狄格大学；CALTECH：加州理工学院；HohaiUniv：河海大学;UnivCalifIrvine:加利福尼亚州大学尔湾分校;NanjingUniv Informat Sci&Technol：南京信息工程大学。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8872b59f78998ec27dfdcf024367096b83a56e83e06e311e842d513a5666c9e.jpg",
+        "img_caption": [
+            "图4研究机构合作共现图谱",
+            "Fig.4Map of institutional cooperation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "学院大学（University of Chinese Academy of Sciences）,33篇；美国国家海洋和大气管理局(NationalOcean-icandAtmosphericAdministration,NOAA）,32篇；康涅狄格大学（University ofConnecticut）,27篇；加州理工学院(California Institute of Technology）,26篇;河海大学（HohaiUniversity）,24篇。中心度（Cen-trality)在0.2以上的机构包括CAS(0.3）、俄克拉荷马大学(0.24）、NASA(0.21）、普林斯顿大学(0.22），表明了这些研究机构在该领域具有重要的地位。中国科学院发文量和中心性均排在全球第一，可见其在卫星降水产品评价领域有较强的影响力，研究论文具有重要的学术价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3主要发文作者通过发文作者共现网络分析可以得出合作密切的学者群，发掘学术研究的团队效应。图5展示的是全球在该领域的作者合作共现图谱，图中节点越大，表明其发文量越多。由图可得，发文频次排名前10的作者分别是YANGHONG,37次；SHENGCHEN,17次；BINYONG，14次；EMMANOUILNANAGNUSTOU,13次;SOROOSHSOROOSHIAN，13 次；GUOQIANG TANG，12次；GEORGEJHUFFMAN,12次;JONATHANJGOUR-LEY,12次;LILIANGREN,11次;ALIBEHRANGI,11次。发文量超过10篇的共有11人，总发文量达到173篇，占所有作者总发文量的 $23 \\%$ ,发文量在 $5 \\sim$ 9篇的有24人，总发文量为143篇，占所有作者总发文量的 $1 9 \\%$ 。由于卫星降水产品评价的地区各有不一，使得作者集中度较低，除了小部分作者发文量在5篇以上，绝大部分学者发文量在1\\~2篇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在作者合作网络中，YANGHONG位于网络中心，是卫星降水产品评价研究领域的核心人物，多数学者与他展开过合作研究,如BINYONG、GUOQ-IANGTANG和SHENGCHEN等，他们之间的合作强度大，互引关系强，是卫星降水产品评价分析领域的中坚力量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：节点大小代表作者发文量，节点间连线代表作者间的合作。图5作者合作共现图谱",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ec63d096a809dcf7b0cbb1ff435ada9d624c223ec85e6021bf7cae2b5d191aa.jpg",
+        "img_caption": [
+            "Fig.5Network of author cooperation ",
+            "Fig.6 Literature co-citation analysis map in evaluation of satellite precipitation product "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3卫星降水产品评价研究热点与前沿发展",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1共被引分析共被引分析(Co-Citation analy-sis)是指2篇文献同时被第三篇施引文献所引证，则这2篇文献形成共被引关系。共被引分析是作为测度文献间关系程度的一种研究方法，最早是由美国情报学家亨利·斯莫尔于1973年首次提出[27-28]。通过文献共被引分析，可以识别研究领域的基础知识，对于理解该领域的核心研究内容具有重要意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过CiteSpace软件对WebofScience数据库中下载得到的752篇文献进行共被引分析，在CiteSpace中设置分析节点为共被引（Citedreference)，时间跨度和切片与前文一致，数据选择标准为Top50,并进行聚类分析，得到文献共被引网络图谱(图6)。如图所示，基于752篇文献资料共识别出了9个文献共被引聚类。通过对这些聚类标签进行分析可以发现，该领域的研究主要集中在3个方面：一是在全球各区域进行多种卫星降水产品的对比评价和分析(#O multisatellite precipitation analysis）,共包括131篇被引文献节点；二是在多时间尺度上",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dfd9722ee7360f67ed957019ef67154afe416dad05314e355654963764ee87c.jpg",
+        "img_caption": [
+            "图6卫星降水产品评价文献共被引分析图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：节点大小代表文献共被引频次，红色字体为共被引网络的   \n聚类标签。数字编号代表聚类排序。#0multisatellite   \nprecipitation analysis:多卫星降水分析;#1 temporal scale：   \n时间尺度;#2hydrological utility:水文应用;#3lake tana   \nbasin:塔纳湖流域;#4 radar rainfall product:雷达降水产品；   \n#5 bayesian model averaging:贝叶斯模型平均;#6 soil moisture:   \n土壤湿度;#7 sahelian site:萨赫勒地区站点;   \n#9 santiago riverbasin:圣地亚哥流域。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(年、季、月、日和小时)(#1temporalscale)进行卫星降水产品的精度评价和比较，共包括109篇被引文献节点；三是在完成产品精度验证之后，会将高精度的降水数据输入到水文模型中进行其他方面的研究,如径流预报、水量平衡分析和干旱监测等[29-31]（3#hydrologicalutility），共包括81篇被引文献节点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2展示了引文关系知识网络中排名前10的文献。其中,共被引排名第一的论文是Huffman等[16]对于TRMM TMPA（Tropical multisatellite precipita-tionanalysis)数据的详细介绍，包括其覆盖范围、产品类型、时间跨度、传感器类型和时空分辨率等信息。由于燃料耗尽等原因，TRMM卫星轨道正在下降，已于2015年4月停止运行。在此之后，接替TRMM计划的是新一代全球降水观测计划（GPM），Hou等[14]在其研究中对GPM计划的目标、卫星组成和配置、核心观测平台、算法和数据产品等进行了详细说明。Tang等[32]在多时空尺度上对比了TRMMTMPAV7产品和GPMIMERG产品在中国大陆的精度表现，发现GPMIMERG产品在整体表现上有较大的提升，但在干旱区和高海拔地区的反演精度仍有待提高。Ashouri等[33]详细介绍了PERSI-",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ANN-CDR产品，并与其他卫星降水产品进行比较，最后在美国和澳大利亚的极端事件(飓风和洪水)频发区进行产品精度验证，发现其表现出了合理降水观测能力。Dee等[34]提出了全球大气再分析数据集ERA-Interim，并介绍了其预测模型、数据同化方法、输入数据和系统表现。此外，共被引排名5\\~10名的论文主要是关注各卫星降水产品在无资料地区或是复杂地形区的精度评价验证[35-39]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2关键词分析关键词是对论文研究主题和核心内容的高度概况，特别是高频出现的关键词在一定程度上反映了学科领域的研究热点[27]。通过关键词的共现(共词)分析可以提取文献中出现的关键词来构建共词网络，从而挖掘领域内的研究热点和前沿。此外，突现性关键词(Burstdetection)是指在某个研究时段内频次变化率高的词，表示文献关键词在短时间内的跃迁现象，也能够反映领域内的研究重点和热点[27.40]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于CiteSpace软件，保持时间跨度和切片不变，设置分析节点为关键词(Keyword)，数据标准为Top $10 \\%$ ，得到关键词167个，并筛选出了突现性较高的前20个关键词(图7)。由图可见，卫星降水产",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b52c6efe2fa46f38ff75a957c89b74a332334411aff8e6a841428d7533541c5.jpg",
+        "table_caption": [
+            "表2WebofScience数据库卫星降水产品评价文献共被引分析",
+            "Tab.2Co-citation analysis of evaluation of satellite precipitation product in Web of Science dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频次</td><td>第一作者</td><td>发表年份</td><td>题目</td><td>期刊</td></tr><tr><td>137</td><td>Huffman G J</td><td>2007</td><td>The TRMM multisatelite precipitation analysis (TMPA): Quasi- global,multiyear,combined-sensor precipitation estimates at fine scales</td><td>Journal of Hydrometeorology</td></tr><tr><td>136</td><td>Hou A Y</td><td>2014</td><td>The global precipitation measurement mission</td><td>Bulletin of the American Meteoro- logical Society</td></tr><tr><td>91</td><td>Tang G Q</td><td>2016</td><td>Evaluation of GPM Day-1 IMERG and TMPA Version-7 legacy products over mainland China at multiple spatiotemporal scales</td><td>Journal of Hydrology</td></tr><tr><td>90</td><td>Ashouri H</td><td>2015</td><td>PERSIANN-CDR:Daily precipitation climate data record from multisatellite observations for hydrological and climate studies</td><td>Bulletin of the American Meteoro- logical Society</td></tr><tr><td>79</td><td>Dee D P</td><td>2011</td><td>The ERA-Interim reanalysis: Configuration and performance of the data assimilation system</td><td>Quarterly Journal of the Royal Meteorological Society</td></tr><tr><td>75</td><td>Behrangi A</td><td>2011</td><td>Hydrological evaluation of satelite precipitation products over a mid-size basin</td><td>Journal of Hydrology</td></tr><tr><td>71</td><td>Ebert EE</td><td>2007</td><td>Comparison of near-real-time precipitation estimates from satel- lite observations and numerical models Statistical and hydrological evaluation of TRMM-based multi-</td><td>Bulletin of the American Meteoro- logical Society</td></tr><tr><td>71</td><td>Xue X W</td><td>2013</td><td>satellite precipitation analysis over the Wangchu Basin of Bhu- tan: Are the latest satellite precipitation products 3B42V7 ready for use in ungauged basins?</td><td>Journal of Hydrology</td></tr><tr><td>66</td><td>SuFG</td><td>2008</td><td>Evaluation of TRMM multisatelite precipitation analysis (TM- PA)and its utility in hydrologic prediction in the La Plata Basin</td><td>Journal of Hydrometeorology</td></tr><tr><td>63</td><td>Hirpa FA</td><td>2010</td><td>Ei</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关键词 年份强度 开始 结束 1998—2020年  \n算法(Algorithm) 1998 3.2051 2000 2011  \n云(Cloud) 1998 5.6630 2000 2014 （  \n全球降水(Global precipitation) 1998 8.2530 2005 2012 E  \n雷达(Radar) 1998 4.6266 2008 2014 ?  \n降水评价(Rainfall estimation) 1998 4.0997 2009 2014  \n图像(Imagery) 1998 3.4802 2009 2014  \n空间(Space) 1998 3.4058 2010 2013  \nTMPA降水分析(Precipitation analysis TMPA) 1998 4.3714 2010 2012  \n尺度(Scale) 1998 3.9936 2010 2015  \n不确定性(Uncertainty) 1998 3.6396 2011 2015  \n非洲(Africa) 19983.3593 2012 2016  \n水文(Hydrology) 1998 3.3518 2013 2015  \n实时(Real time) 1998 6.1996 2015 2017  \n多卫星降水分析(Multisatellite precipitation analysis) 1998 3.5686 2015 2018  \n卫星降水产品(Satellite rainfall product) 1998 3.2672 2016 2017  \nIMERG 19985.0374 2018 2020  \nPERSIANNCDR 19983.3999 2018 2020  \n多卫星联合反演(Integrated multisatellite retrieval) 1998 5.6576 2018 2020  \nGPM 1998 4.4737 2018 2020  \n卫星降水产品(Satellite precipitation product) 1998 3.2916 2018 2020",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "品评价呈现出了较强的多元化特征，不同时期出现了不同的突现性关键词。通过进一步的文献梳理和总结主要是包含以下3个时期的研究热点：2000一2010年，卫星降水产品逐步受到关注，各个地区开展了一系列的产品适用性评价，关注点是在基于地区评价的现实案例上对反演算法的改进提出建议，此后卫星降水产品的反演精度有了较大的提升，包括算法（Algorithm）、全球降水（Global pre-cipitation）、降水评价(Rainfallestimation)等关键词;2010—2015年，基于多传感器反演的卫星降水产品发展迅速，且积累了较长时段的数据资源，产品评价更倾向在一些无资料地区和地形复杂区，并结合水文模型开展研究，包括尺度(Scale）、不确定性（Uncertainty）、水文（Hydrology）等关键词；2015—2020年，新一代卫星降水观测计划的推出，使得领域内的学者更加关注GPMIMERG系列产品的在全球不同地区的产品精度和降水观测能力，包括IMERG、GPM、多卫星反演（Integratedmultisatelliteretrieval)等关键词。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将CiteSpace对关键词的分析结构以时间线图的形式进行可视化，如图8所示。时间线图谱能够清楚的表达不同聚类之间的时间关系，相同的聚类节点中的关键词被排布在同一水平线上，清晰地展示了该聚类的历史研究成果和活跃程度[27]按照时间演进的特征，绘制了术语共现时间线图谱，共形成9个术语聚类(图8)。通过每个聚类标签及聚类中的施引文献，大致可以了解到每个聚类所代表的研究领域内前沿。聚类0主要关注多卫星降水分析（Multisatellite precipitation analysis）和评价，这类研究是筛选卫星降水数据源的基础，也是利用卫星数据做水文模拟、气象预报和气候变化预测的必要前提;聚类1的研究是利用卫星降水产品数据进行夏季降水分析，尤其是在复杂地形区的降水分析，可为自然灾害预报和预警提供建议；聚类2和聚类3主要涉及高时空分辨率卫星降水产品数据在不同地区的多时空尺度的精度评价；聚类4是主要关注卫星降水产品在青藏高原地区是否仍具有适用性，以及探讨地形对产品表现得影响，以此为反演算法的改进提供现实案例和建议;聚类5和聚类6是基于卫星降水数据做的生态环境相关领域的应用性研究，如在气候变化背景下，全球各区的干旱状况和植物群生长状况的评价和预测，以此为区域水资源管理和调控和生态系统平衡维系提供参考；聚类7是关于在拉普拉塔流域的卫星降水产品评价和应用;聚类8主要是利用卫星降水数据作为基础之一，通过贝叶斯模型、随机森林、支持向量机等人工智能方法应用在其他领域,特别是在土壤湿度、植物初级生产力和次级生产力方面开展研究。各聚类内的详细关键词见表3。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：节点大小代表关键词的共现频率;红色字为聚类标签;水平线长代表该类关键词的持续时间;顶部数字为各时间切片的末尾年份。#0multisaelliepreipiationaalsis卫星降水分析;#1summerpreipitaonvaraon季水化;#2pefomanceevalation现评价；#3 spatio-temporal evaluation;时空评价;#4Tibetan Plateau:青藏高原;#5 droughtindice：干旱指数;#6:leaf area index;叶面积指数;#7 La Plata Basin:拉普拉塔流域;#8 model-based bayesian technique:基于模型的贝叶斯方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f9bb3b81a28d477f0db59ddb205433918a6bd20266bde497b577281039c5192.jpg",
+        "img_caption": [
+            "图8卫星降水产品评价关键词共现时间线",
+            "Fig.8 Timeline view of co-occurrence keyword evaluation of satellite precipitation product "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过卫星遥感技术对地表和大气中物质进行观测起源于20世纪60年代，并在近几十年迅速发展。一系列卫星降水观测计划的实施使得基于不同传感器和降水反演算法的卫星降水产品在全球范围内被广泛应用[41-42]。卫星降水产品区域性的精度评价是其数据资源的应用前提，筛选出适合该区域的卫星降水数据对于水文、大气、气象和农业等学科的发展具有重要意义，对于社会经济发展具有推动作用。目前，卫星降水产品的应用已经在不同学科开展，例如在气象科学领域，通过卫星观测可以明晰降水过程的整个生命周期及其演变特征，尤其是在一些难以进行地面监测的地区，极大地提高对不同季节降水或是极端降水事件的观测和预报能力[43-45]。同样,在全球气候变化的背景下,将大尺度长序列的卫星降水产品数据输入到气候模型当中，有利于地球系统的分析和建模以及预测未来全球气候变化的特征，为人类应对气候变化所带来的影响提供预警和制定相应的应对措施[46-47]。气象灾害对于社会和人民生命财产会造成巨大的威胁，通过应用卫星降水产品数据来提升人们对于泥石流、暴雨洪涝、热带气旋和干旱等自然灾害的预报能力[4.48-50]。此外,降水作为水文模型的最重要的输入，利用具有高时空分辨率和高精度的降水数据能够满足水文模型的要求，增强了对自然灾害的预测能力，特别是对于一些地面监测站网稀疏且自然灾害高发的地区[41-53]。除了在气象和气候领域上的应用外，卫星降水产品对提高农业生产的管理和指导上具有重要意义。水资源是农业生产的命脉，虽然在大尺度区域上降水时空格局有规律可循，但是在小尺度上又存在较大差异，准确预报不同地区的降水时空分布特征和量级特征，才能更为合理指导农业生产和预测地区粮食产量[54-55]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合WebofScience核心数据库1998—2020年研究论文来看，基于卫星降水产品评价的视角，关于卫星降水产品在未来的学术研究和实际应用上提出以下建议和展望：（1）不同国家间和不同研究机构间应该进一步开展交流和合作，从以上分析可以看出，卫星降水产品评价主要集中在发达国家，导致研究成果不利于在发展中国家应用。另外，研究机构和学者的过度“聚集”也不利于卫星降水产品评价学术成果的交流和分享。（2）卫星降水产品作为数据资源和工具，落于实际应用才可以发挥其现实价值，特别是在无资料地区的应用，例如越来越多的学者开始从事世界“第三极”—青藏高原",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3关键词聚类",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7bd950d539c46ffa4a377bfcf1b88c5b26c4854e9072819fb9b2f9c92ed4815.jpg",
+        "table_caption": [
+            "Tab.3 Cluster of keywords "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>聚类编号</td><td>聚类内 节点数</td><td>平均年份</td><td>聚类标签</td></tr><tr><td>0</td><td>64</td><td>2012</td><td>west Africa; hydrolgical applications; several rainfall products; high-resolution gauge networks; Colorado flash flood; southeastern south America; using high-resolution numerical weather forecasts; springtime pre- cipitation; using gauge observations 丨TRMM; drought monitoring; Jiangsu; China; precipitation data; uncer- tainty quantification; different seasons; spatial evaluation; global climate models; water vapor flux</td></tr><tr><td>1</td><td>61</td><td>2012</td><td>precipitation products; complex mountainous terrain; water resources perspective; Pakistan; precipitation; satellite-derived agro-climate variables;states; northern great plains; dynamic Bayesian modelI China; Yel- low River; reliability; gridded precipitation products; central Mediterranean;satelite-derived global precip- itation estimates; spatial evaluation; dynamic Bayesian model; water resources perspective; precipitation da- tasets</td></tr><tr><td>2</td><td>58</td><td>2007</td><td>evaluation; complex mountainous terrain; precipitation products； water resources perspective;trend analy- sis; microwave estimates;rain estimation;using forward-adjusted advection;west Africa; extreme events l performance evaluation; seasonal signatures； hydrologic predictability; merged satelite rainfall products; evaluation; using rain gauge measurements; TRMM ground-validation radar-rain errors; complex mountain- ous terrain; precipitation products; water resources perspective</td></tr><tr><td>3</td><td>56</td><td>2013</td><td>evaluation;central Asia; precipitation data sets;benchmarking high-resolution global satellite rainfal prod- ucts; radar; PERSIANN system; tropical rainfall;satellte-based estimates; Pakistan; algorithm丨China; Yel- low River;reliability;gridded precipitation products;assessment; mainland china; high-resolution satelite precipitation products; precipitation trends;analysing ground reference uncertainty; Australian snowpack</td></tr><tr><td>4</td><td>50</td><td>2015</td><td>evaluation; China; TRMM; hydrological application; NCEP-CFSR;precipitation estimates;humid regions; IMERG satelite precipitation products; ground-based data; correction 丨basin; hydrological evaluation;Ethi- opia;air temperature datasets; using swat; open-access precipitation; reanalysis precipitation products; pre- cipitation datasets; mountainous basins; multiple satellite precipitation products</td></tr><tr><td>5</td><td>50</td><td>2012</td><td>evaluation; China; TMPA satelite precipitation product; hydrologic validation; Pearl River;water balance perspective; evapotranspiration; machine learning techniques; sensitivity testing; considering global warm- ing丨 drought indices；long-term satelite-based precipitation products；applicability；considering global warming; integration; mainland China; bottom-up satelite precipitation products; machine learning tech- niques; satellite soil moisture; downscaling</td></tr><tr><td>6</td><td>40</td><td>2011</td><td>evaluation; cloud;cloud-aerosol lidar;vertical structure;infrared pathfinder satelite observations; reanaly ses; forest; evaluating PERSIANN-CCS; NOAA AVHRR satelite data 丨RHESSys model; climate change; watershed hydro-ecology; effects; Seolma-cheoncatchment; forest; different spatial resolution;yield variabil- ity; plot; soybean crop coverage estimation</td></tr><tr><td>7</td><td>33</td><td>2004</td><td>cloud;atmospheric radiation measurement march; midlatitude; simulations; cloud-resolving models; frontal clouds; intensive operational period; precipitation data sets; observations;temperature 丨river discharges; air-sea fluxes; Danube; Bosphorus; black sea; focus; methods; products; reintroduction programmes evaluation;precipitation;real-time rainfall product； comparison;soil moisture；high-resolution tropical</td></tr><tr><td>8</td><td>11</td><td>2003</td><td>weather forecasts;storm scales；using MODIS gross primary productivity; milimeter-wave observations; gridded precipitation datasets|using MODIS gross primary productivity; vegetation activities; evapotranspi- ration products; climatological perspectives; Koreanregional flux network site; evaluating ecohydrological impacts; millimeter-wave observations; west Africa; high-resolution tropical weather forecasts; storm scales</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "的生态、环境、地理、气候变化等方面的研究，卫星降水产品必将成为开展青藏高原相关研究的有利工具。（3）近几十年基于多传感器的联合反演降水方法不断发展，但是不同地区卫星降水产品评价结果还是表现出不同程度的误差，因此需要进一步依据评价结果来提升算法精度和产品质量(包括降水产品的时空分辨率和精度）。（4）GPM计划实施以来，关于卫星降水产品的研究热点集中在其推出的数据资源上，GPM核心载荷平台搭载的双频雷达和微波辐射计提升了降水观测能力，但是其对于弱降水、固态降水和地形性降水的观测能力和观测精度情况的实际分析案例较少，未来值得进一步评价、分析和应用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文运用文献计量学的方法，基于WebofSci-ence核心数据库中的752篇文献以及CiteSpace分析工具，对1998—2020年全球关于卫星降水产品评价",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理 b理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究的发展脉络和特征进行了梳理和总结。分析结果包括了该领域内发文量和引文量、主要发文国家和地区、主要发文作者、主要研究机构和研究基础知识和热点。主要的结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）该领域的发文量呈现增加趋势，被引量逐年上升。从2015年开始，该领域的高被引论文和高突发性论文增多，说明该领域的研究具有发展潜力，应用前景广阔。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）美国、中国、德国等国家在该领域的研究成果较多。特别是美国，由于较多的卫星降水数据是由美国研制，因此具有较好的数据来源且起步时间最早。中国发文量大，但是还是需要更加注重文章的质量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）中国科学院是全球范围内该领域发文量最大的研究机构，其次是NASA；在主要发文作者上，YONGHONG排名全球第一，中国学者SHENGCHEN和BINYONG紧随其后。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）由关键词分析可得，该领域的研究方向主要集中在卫星降水产品适用性评价。研究方法主要是通过多时空尺度上对比分析，典型的研究区包括青藏高原、拉普拉塔流域等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5）通过共被引文献分析，发现多卫星产品降水比较分析、多时空尺度产品精度评价和基于卫星降水数据的水文过程模拟是主要的研究内容和方向。在无资料地区(如青藏高原和南北极地区)开展气象预报、气候变化预测和水文过程分析，会是未来卫星降水产品数据的重要应用方向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] XuR,TianFQ,Yang L,etal.Ground validation of GPMIMERG and TRMM 3B42V7 rainfall products over southern Tibetan Plateau based on a high-density rain gauge network[J]. Journal of Geophysical Research:Atmospheres,2017,122:1-15.   \n[2] Zambrano-bigiarini M,Nauditt A,Birkel C.Temporal and spatial evaluation of satellite-based rainfall estimates across the complex topographical and climatic gradients of Chile[J].Hydrology and Earth System Science,2017,21: 1295-1320.   \n[3] Howat IM, Tulaczyk S,RhodesP.A precipitation-dominated, midlatitude glacier system:Mount Shasta,California[J].Climate Dynamics,2007,28(1): 85-98.   \n[4] Keller S,Atzl A.Mapping natural hazard impacts on road infrastructure:The extreme precipitation in Baden-Wirttemberg,Germany,June 2O13[J]. International Journal of Disaster Risk Science,2014,5(3): 227-241.   \n[5] Mo KL,Chen Q W,Chen C,et al. Spatiotemporal variation of correlation between vegetation cover and precipitation in an arid mountain-oasis river basin in northwest China[J]. Journal of Hydrology,2019,574: 138-147.   \n[6]Hui-mean F, Yusop Z, Yusof F. Drought analysis and water resource availability using standardized precipitation evapotranspiration index[J]. Atmospheric Research, 2018,201: 102-115.   \n[7] Trenbrth KE,Smith L, Qian T,etal.Estimates of the global water budget and its annual cycle using observational and model data[J]. Journal of Hydrometeorology,2007,8(4): 758-769.   \n[8]Skliris N,Marsh R,JoseySA,etal.Salinitychangesinthe world ocean since l95O in relation to changing surface freshwater fluxes [J. Climate Dynamics,2014,43(3-4): 709-736.   \n[9]Zhang Y J,Duo L,Pang Y Z,et al. Modern pollen assemblages and their relationships to vegetation and climate in the Lhasa Valley,Tibetanateua[J].uatearyteatioal,,46 (Part B): 210-221.   \n[10]唐国强,万玮,曾子悦,等.全球降水测量(GPM)计划及其最新 进展综述[J].遥感技术与应用,2015,30(4):607-615.[Tang Guoqiang,Wan Wei, Zeng Ziyue,et al.An overview of the global precipitation measurement (gpm) misionand its latest development[J].Remote Sensing Technology and Application,2015,30 (4): 607-615.]   \n[11]Baroenti A,Acquaotta F,Fratianni S.Rainfall variability from a dense rain gauge network in north-west Italy[J]. Climate Research, 2018, 75(3): 201-213.   \n[12]Foehn A,Hernänez G A, Schaefli B,et al. Spatial interpolation of precipitation from multiple rain gauge networks and weather radar data for operational applications in Alpine catchments[J]. Journal of Hydrology,2018,563: 1092-1110.   \n[13]Tang GQ,Behrangi A,Long D,et al. Accounting for spatiotemporal errors of gauges: A critical step to evaluate gridded precipitation products[J]. Journal of Hydrology,2018,559: 294-306.   \n[14]Hou A Y, Kakar R K, Neeck S,et al. The global precipitation measurement mission[J]. Bulletin of the American Meteorological Society,2014, 95(5): 701-722.   \n[15]马自强.青藏高原地区卫星降水时空降尺度研究[D].杭州：浙 江大学,2017. [Ma Ziqiang. Downscaling satelite-based precipitation estimates over the Qinghai-Tibetan Plateau at diferent temporal scales[D]. Hangzhou: Zhejiang University,2017.]   \n[16] Huffman G J,Adler RF,Bolvin D T,etal. The TRMM multi-satellite precipitation analysis (TMPA): Quasi-global, multiyear,combined-sensor precipitation estimates at fine scale[J]. Journal of Hydrometeorology,2007,8(1): 38-55.   \n[17]Huffman G J, AdlerRF,Arkin P,etal.Improving the global precipitation record: GPCP Version 2.1[J]. Geophysical Research Letters, 2009,36(17): 153-159.   \n[18]Kummerow C D,Barnes W,Kozu T,et al. The tropical rainfll measuring mission (TRMM) sensor package[J]. Journal Atmospheric Ocean Technology,1998,15: 809-917. the global satellite mapping of precipitation (GSMaP) from combined passive microwave and infrared radiometric data[J]. Journal of the Meteorological Society of Japan,2009,87A: 137-151.   \n[20]Hong Y,Chen S,Xue X,et al. Multiscale hydrologic remote sensing: Perspectives and applications[M]. CRC Press, 2012,371-386.   \n[21]Falags M E,Pitsouni E I, Malietzis G A,et al.Comparison of PubMed,Scopus,Web of Science,and Google Scholar: Strengths and weaknesses[J].Faseb Journal,2008,22(2): 338-342.   \n[22]De Bakker FGA,Groenewegen P,Hond FD.A bibliometric analysis of 30 years of research and theory on corporate social responsibility and corporate social performance[J]. Business & Society, 2005,44(3): 283-317.   \n[23] 赵蓉英,许丽敏.文献计量学发展演进与研究前沿的知识图谱 探析[J].中国图书馆学报,2010(5):62-70. [Zhao Rongying, Xu Limin.The knowledge map of the evolution and research frontiers of bibiometrics[J]. Journal of Library Science in China,2010(5): 62-70.]   \n[24] Chen C M. CiteSpace II: Detecting and visualizing emerging trnds and transient patterns in scientific literature[J]. Journal of the American Society for Information Science and Technology,2O06, 57(3): 359-377.   \n[25]Chen CM. Searching for intelectual turning points: Progressive knowledge domain visualization[J].Proceedings of the National Academy of Sciences of the United States of America,2004,101 (Suppl. 1): 5303-5310.   \n[26] 陈悦,陈超美,刘则渊,等.CiteSpace 知识图谱的方法论功能 [J].科学学研究,2015.33(2):242-253.[Chen Yue,Chen Chaomei,Liu Zeyuan,et al. The methodology function of CiteSpace mapping knowledge domains[J]. Studies in Science of Science, 2015,33(2): 242-253.]   \n[27]李杰,陈超美.CiteSpace:科技文本挖掘及可视化[M].北京：首 都 经济贸易大学出版社,2016.[LiJie,Chen Chaomei. CiteSpace:Text mining and visualization in scientific literature [M]. Beijing: Capital University of Economic and Business Press, 2016.]   \n[28]White H, Mccain K. Visualizing a discipline: An author co-citation analysis of information science[J]. Journal of the Association for Information Science & Technology,2010,49(4): 327-355.   \n[29]Nerini D, Zulkafli Z,Wang L P,et al.A comparative analysis of TRMM-raingaugedata merging techniquesatthedily ie scale for distributed rainfall-runoff modeling applications[J]. Journal of Hydrometeorology,2015,16(5): 2153-2168.   \n[30] Munier S,Aires F,Schlaffer S,et al. Combining data sets of satellite-retrieved products for basin-scale water balance study: Evaluation on the Mississippi Basin and closure correction model[J]. Journal of Geophysical Research-Atmospheres,2014,119(21): 12100- 12116.   \n[31] Tan ML, Chua VP,Tan KC,et al. Evaluation of TMPA 3B43 and NCEP-CFSR precipitation products in drought monitoring over Singapore [J]. International Journal of Remote Sensing,2018,39(8): 2089- 2104.   \n[32] Tang G Q, Ma Y Z, Long D. Evaluation of GPM Day-1 IMERG and TMPA Version-7 legacy products over mainland China at multiple spatiotemporal scales[J]. Journal of Hydrology,2016,533:152- 167.   \n[33]Ashouri H, Hsu K L, Sorooshian S,et al. PERSIANN-CDR: Daily precipitation climate data record from multisatelite observations for hydrologicalandclimatestudies[J].Buletinofthe American Meteorological Society,2015,96(1): 69-83.   \n[34]Dee D P, Uppala S M, Simmons A J,et al. The ERA-Interim reanalysis: Configuration and performance of the data asimilation system[J]. Quarterly Journal of the Royal Meteorological Society, 2011,137: 553-597.   \n[35]Behrangi A, Khakbaz B,Jaw T C,et al.Hydrologic evaluation of satelite precipitation products over a mid-size basin[J]. Journal of Hydrology,2011,397(3-4): 225-237.   \n[36]EbertEE,JanowiakJE,KidC.Comparisonof nearreal-timeprecipitation estimates from satelite observations and numerical models[J].Bulletin of the American Meteorological Society,2007,88 (1): 47-64.   \n[37]Xue X,Hong Y,Limaye A S,et al. Statistical and hydrological evaluation of TRMM-based multi-satelite precipitation analysis over the Wangchu Basin of Bhutan: Are the latest satelite precipitation products 3B42V7 ready for use in ungauged basins?[J]. Journal of Hydrology,2013,499: 91-99.   \n[38]Su F, Hong Y, Lettenmaier D P.Evaluation of TRMM multisatellite precipitation analysis (TMPA)and its utility in hydrologic prediction in the LaPlataBasin[J].Journal of Hydrometeorology, 2008, 9(4): 622-640.   \n[39]Hirpa F A, Gebrebremichael M, Hopson O T.Evaluation of highresolution satellite precipitation products over very complex terrain in Ethiopia[J].Journal of Applied Meteorology & Climatology, 2010,49(5): 1044-1051.   \n[40] 王云,马丽,刘毅.城镇化研究进展与趋势—基于CiteSpace 和 HistCite 的图谱量化分析[J].地理科学进展,2018,37(2): 239-254.[Wang Yun, Ma Li, Liu Yi. Progress and trend analysis of urbanization research: Visualized quantitative study based on CiteSpace and HistCite[J]. Progress in Geography,2018,37(2): 239-254.]   \n[41] 郭瑞芳,刘元波.多传感器联合反演高分辨率降水方法综述[J]. 地球科学进展,2015,30(8): 891-903.[Guo Ruifang,Liu Yuanbo.Multi-satelite retrieval of high resolution precipitation: An overview[J].Advances in Earth Science,2015,30(8): 891-903.]   \n[42] 唐国强,龙笛,万玮,等.全球水遥感技术及其应用研究的综述 与展望[J].中国科学:技术科学,2015(45):1013-1023.[Tang Guoqiang,Long Di,Wan Wei,et al.An overview and outlook of global water remote sensing technology and applications[J].Scienta Sinica Technology,2015(45): 1013-1023.]   \n[43] 肖柳斯.张阿思.闵超,等.GPM卫星降水产品在台风极端降水 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "过程的误差评估[J].高原气象,2019,38(5):993-1003.[Xiao Liusi,Zhang Asi,Min Chao,et al. Evaluation of GPM satellitebased precipitation estimates during three tropical-related extreme rainfall events[J].Plateau Meteorology,2019,38(5): 993-1003.]   \n[44] 廖荣伟,张冬斌,沈艳.6种卫星降水产品在中国区域的精度特 征评估[J].气象,2015,41(8):970-979.[Liao Rongwei, Zhang Dongbin,Shen Yan.Validation of six satellite-derived rainfall estimates over China[J]. Meteorological Monthly,2015,41(8): 970-979.]   \n[45] 潘肠,宇婧婧,廖捷,等.地面和卫星降水产品对台风莫拉克降 水监测能力的对比分析[J].气象,2011,37(5):564-570.[Pan Yang,Yu Jingjing,Liao Jie,et al,Assessment of the rainfall monitoring of Typhoon Morakot by ground-gauged and satellite precipitation products[J]. Meteorological Monthly,2011，37(5):564- 570.]   \n[46]Argueso D,Di Luca A,Evans JP.Precipitation over urban areas in the western maritime continent using a convection-permitting model[J]. Climate Dynamics,2016,47(3-4): 1143-1159.   \n[47]Tesfaye M,Botaj J, Sivakumar V,et al. Evaluation of regional climatic model simulated aerosol optical properties over South Africa using ground-based and satellite observations[J]. ISRN Atmospheric Sciences,2013,237483,doi: 10.1155/2013/237483.   \n[48] Zambrano F,Wardlow B,Tadesse T,et al.Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile[C]//Remote Sensing for Agriculture,Ecosystems & Hydrology XVIII. International Society for Optics and Photonics, 2017,26-42.   \n[49]Sahoo A K, Sheffield J,Pan M,et al.Evaluation of the tropical rainfall measuring mission multi-satellite precipitation analysis (TMPA) for assessment of large-scale meteorological drought[J]. Remote Sensing of Environment, 2015,159:181-193.   \n[50]Ryo M,Valeriano O C S,Kanae S,et al. Temporal downscaling of daily gauged precipitation by application of a satellite product for flood simulation in a poorly gauged basin and its evaluation with multiple regression analysis[J]. Journal of Hydrometeorology, 2014,15(2): 563-580.   \n[51]Peng B,Shi J,Ni-meister W,et al.Evaluation of TRMM multisatellite precipitation analysis (TMPA) products and their potential hydrological application at an arid and semiarid basin in China[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2014,7(9): 3915-3930.   \n[52]Wang Z, Zhong R,Lai C,et al. Evaluation of the GPM IMERG satellite-based precipitation products and the hydrological utility[J]. Atmospheric Research,2017,196:151-163.   \n[53]Jiang S,RenL,Hong Y,et al.Improvement of multi-satellite realtime precipitation products for ensemble streamflow simulation in a middle latitude basin in south China[J].Water Resources Management, 2014,28(8): 2259-2278.   \n[54]Wei H,Li J,Liang T. Study on the estimation of precipitation resources for rainwater harvesting agriculture in semi-arid land of China[J].Agricultural Water Management,20o5,71(1): 33-45.   \n[55]Kukal M S,Suat I. Spatial and temporal changes in maize and soybean grain yield,precipitation use efficiency,and crop water productivity in the U.S.great plains[J]. Transactions of the ASABE, 2017,60(4): 1189-1208. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evolution and frontier development of research on evaluation of satellite precipitation product ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "YU Linfei1²， YANG Yonghui'， YANG Yanmin1 (1.CenterforAgricultureResources Research,InstituteofGeneticsand Developmentiology,ChineseAcademyofScience, KeyLaboratoryof Agriculture Water Resources,Hebei Laboratory of Agriculture Water-saving,Shijiazhuang 050022, Hebei,China；2.KeyLaboratoryofWaterCycleandRelatedLandSurfaceProcesss,InstituteofGeographic Sciences and Natural Resources Research, Chinses Academy of Sciences,Beijing 1OoO11, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Precipitation is a critical link in the water circulation process,and it exhibits high spatiotemporal heterogeneity.Traditionally，the quality of precipitation observations was determined by the allocation and density of rain gauge networks; therefore,large areas with missing values frequently occur in the process of monitoring precipitation in remote regions such as mountains,oceans,and deserts,which are dificult to access. This issue restricts the availability of accurate rainfall information across large areas.In recent decades, continuous advances in remote sensing technology using satelites provide new ways to accurately measure global precipitation. This method of colecting data provides great promise for estimating precipitation in inaccessible areas and has been employed at regional and near-global scales,securing its role as an important tool in global hydrometeorological applications.The extensive application of satelite precipitation data has provided valuabledata for hydrological simulations,rainfall analyses,and water resource management.Pre-evaluation of satelite precipitation products is the application premise in diferent regions because the accuracy of satelite precipitation products vary from place to place.Many published papers have demonstrated the usefulness of satelite precipitation products around the world，including China,the United States,India,and Chile.To understand the research situations and popular topics of research on the use of precipitation data from satelites, 752 articles from the core colection of Web of Science database from 1998 to 202O were used as research objects,and bibliometrics and network analysis methods were used to analyze the pattern of evolution, the network of cooperation,research hotspots,and the continued advancement of remote sensing technology. The results of this analysis show that the number of published papers and citations increased from 1998 to 2020,and the number of cited papers increased since 2015 by nearly 2O00 times a year. The United States, China and Germany are the major publishing countries in the world, with the United States and China accounting for $76 . 2 \\%$ of the total volume published.The Chinese Academy of Sciences is the largest publishing institution in the world, accounting for $1 1 . 6 \\%$ of the total volume published from 1998 to 20o0.The main research direction and content cover multi-spatial and temporal evaluations, extreme precipitation events,and evaluation of large-scale drought based on precipitation data from satelites covering complex terrain. For example,the Qinghai-Tibet Plateau and La Plata Basin are areas where this type ofdata collction can provide information where none exists.In addition, the simulation of hydrological processes based on these data,the simulation of climate based on artificial intelligence methods,meteorological forecasts,and long-term predictions are promising areas for future research in this field. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: satelite precipitation product; bibliometrics；network analysis;evolution process； frontier progress ",
+        "page_idx": 12
+    }
+]

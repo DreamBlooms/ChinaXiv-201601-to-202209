@@ -1,0 +1,128 @@
+# CPC乙酰化酶底物结合区域Loop上脯氨酸对其催化特性的影响
+
+唐存多1,2\$史红玲1\$马莹」刘飞」许建和 $2 ^ { * * }$ 阐云超1\*\*姚伦广 1\*\*（1南阳师范学院昆虫生物反应器河南省工程实验室南阳473061）（2华东理工大学生物反应器工程国家重点实验室上海200237）
+
+摘要：低温CPC乙酰化酶在7-ACA的生物合成中具有重要作用和显著的优势，开发低温CPC乙酰化酶具有重大的经济价值。为了获得在低温下具有更高催化活性的CPC乙酰化酶，本文在前期的研究基础上，以先前获得的CA $\mathrm { I I I ^ { M } }$ 为亲本，借助分子对接的手段确定了它的底物结合区域，并利用pyMOL 软件找出了底物结合区域L00p上关键的脯氨酸残基，分析后将选定的脯氨酸用甘氨酸进行替换。借助pET32a质粒在 $E .$ coliBL21(DE3)中进行了可溶性表达研究，除P272G外，其它突变体均实现了可溶性表达。P238G、P582G和P679G 在 $1 3 ^ { \circ } \mathsf { C }$ 对 CPC 的催化活性分别为1.25、1.04 和 $1 . 3 8 ~ \mathrm { U / m g }$ ，较亲本的 $0 . 8 5 \mathrm { U / m g }$ 有了显著的提高。此外，分别考察了亲本及突变体的温度稳定性，它们之间无明显的差异。然后，在 $1 3 ^ { \circ } \mathsf { C }$ 下进行了7-ACA低温生物合成的研究，结果表明反应 $2 4 \mathrm { ~ h ~ }$ 后CPC的转化率也能达到 $80 \%$ 以上。本研究在CPC乙酰化酶冷适应性改造方面取得了较为理想的结果，为进一步的改造及应用奠定了坚实的基础，也为其它低温酶的创制提供了可资借鉴的经验。
+
+关键词：CPC乙酰化酶冷适应性 分子改造 理性设计活性检测
+
+头孢类抗生素抗菌作用强、抗菌谱广且有较好的 $\beta$ -内酰胺酶耐受性，占据了抗生素市场近 $50 \%$ 的份额[1]。而头孢菌素C（CephalosporinC,CPC）本身抗菌效能差、毒副作用大，不能直接用作抗菌治疗，只能用于头孢类抗生素母核的合成[2]。目前，头孢类抗生素的母核主要有三大类，包括 7-氨基头孢烷酸（7-aminocephalosporanic acid,7-ACA）、7-氨基-3-乙酰氧基头孢烷酸（7-amino-3-desacetoxy cephalosporanic acid,7-ADCA）和 7-苯乙酰胺-3-氯甲基头孢烷酸对甲氧苄酯（7-phenylacetamide-3-chloromethyl-3-cepham-4-carboxylic acidp-methyl-oxybenzyl ester,GCLE）。其中7-ACA 早在 2005 年国内的年总产量已突破 2500吨，市场价格大约为650万/吨[3]，国内一年的产值高达162.5亿元，有着巨大的研发前景。
+
+传统的利用化学脱乙酰化制备7-ACA的反应条件苛刻且对环境污染较大[4,5]，新型的生物催化法具有安全性高、环境友好、选择性强及设备投入低等优势[5]。生物催化法常见的主要有两步酶法和一步酶法[4]。两步酶法所使用的关键酶是D-氨基酸氧化酶和戊二酰-7-氨基头孢烷酸乙酰化酶[67]。与之相比，一步酶法更能简化生产工艺、降低生产成本，在工业生产中更具吸引力[8,9]。经过国内外学者的不断努力，一步酶法也逐渐实现了产业化。然而，由于7-ACA在 $2 0 ^ { \circ } \mathrm { C }$ 以上极不稳定、易产生其它副产物[10]，工业上7-ACA 的生产一般需要控制在 $1 3 ^ { \circ } \mathrm { C }$ 左右[10]。而现有的CPC乙酰化酶最适反应温度较高，在低温下催化活性极低，低温下反应必须得提高加酶量，显著增加了生产成本。迄今为止，国内外均没有成功开发出最适温度低于 $2 0 ^ { \circ } \mathrm { C }$ 的低温CPC乙酰化酶的报道。Shin 等人[1]研发出的、占据中国CPC乙酰化酶市场垄断地位的突变体的最适温度也仅为 $2 5 \mathrm { ^ \circ C }$ ，在 $1 3 ^ { \circ } \mathrm { C }$ 时它的催化活性降低了2/3以上。
+
+低温酶，也称嗜冷酶（psychrophilic enzyme）、冷活性酶（cold active enzyme）或适冷酶（cold-adapted enzyme）[12]。目前关于低温酶适冷机理的研究还不够深入，研究者普遍认为低温酶通过特定区域或整个蛋白结构柔顺性的提高，降低了自身的活化能，才能在低温下表现出高催化活性[13,14]。已有研究报道，减弱蛋白分子内静电的相互作用、减少带电荷的氨基酸残基、在loop 环区域减少脯氨酸和精氨酸含量而增加甘氨酸含量等均有助于提高蛋白的柔性，进而提高酶的冷适应性[15]。
+
+本文以前期改造获得的CAIIIM[2]为研究对象，将CAIIIM与CPC 的三维结构进行分子对接，找出底物结合区域Loop上的关键脯氨酸残基，然后替换为侧链基团更小的甘氨酸提高底物结合区域 Loop的柔性，以提高CPC乙酰化酶的冷适应性，为低温CPC乙酰化酶的创制奠定基础。
+
+# 1材料与方法
+
+# 1.1 材料
+
+1.1.1菌株与质粒 EscherichiacoliBL21(DE3)菌株由本研究室保藏；E.coliBL21/pET32a-CAIIM由本研究室构建和保藏[2]。  
+1.1.2 试剂与试剂盒限制性内切酶 dpnI购自 NEB 公司；PrimeSTAR?HS (Premix)和DNA Marker 购自Takara 公司；一站式His 标记蛋白质微量纯化套装购于北京天恩泽基因科技有限公司，用于重组酶的快速亲和纯化；对二甲氨基苯甲醛（p-Dimethylaminobenzaldehyde,p-DAB）和7-ACA标准品购自上海生工生物工程有限公司；CPC-Na盐和头孢菌素C乙酰化酶标样由河南蓝图制药有限公司惠赠；其它试剂均为国产或进口分析纯。
+
+# 1.2 方法
+
+1.2.1底物结合区域 Loop上关键脯氨酸的选择首先利用 Modeller9.9软件以CAIII的三维结构（PDB号：4HSR）为模板模拟出CAIIIM的三维结构，然后利用AutoDock 4.2软件将CAIIIM的三维结构与优化后的CPC 的三维结构进行分子对接，再利用Pymol软件对获得的结果进行观察和分析，找出底物结合区域Loop上的关键脯氨酸残基，然后分别将这些脯氨酸残基替换为侧链基团较小的甘氨酸残基，提高CPC乙酰化酶底物结合区域的柔性，以期增强它在低温下的可变性，进而提高它的冷适应性。  
+1.2.2 引物的设计、合成及定点突变基于上述分析的结果分别设计各个正向的突变引物，同时在载体多克隆位点下游约 $3 ~ \mathrm { k b }$ 处设计反向的通用引物，将设计的引物委托苏州泓讯生物技术公司合成，然后参照Sanchis等人[1的方法进行全质粒扩增反应完成定点突变，获得各个突变体的编码基因。
+
+1.2.3 头孢菌素C乙酰化酶的表达纯化分别将携带CPC乙酰化酶亲本编码基因的BL21/pET32a-caIIM菌落及各突变菌株接种至 $4 ~ \mathrm { m L }$ 的LB 液体培养基中， $2 0 0 \mathrm { r p m }$ 、 $3 7 ^ { \circ } \mathrm { C }$ 培养 $1 4 \mathrm { h }$ ，然后以 $4 \%$ 的接种量转接至 $1 0 0 ~ \mathrm { { m L } }$ 新鲜的LB 培养基中， $2 0 0 \mathrm { r p m }$ 、 $3 7 ^ { \circ } \mathrm { C }$ 培养$2 . 5 \mathrm { h }$ ，加入终浓度为 $0 . 1 ~ \mathrm { m M }$ 的 IPTG，于 $3 0 ^ { \circ } \mathrm { C }$ 诱导 $^ { 8 \mathrm { ~ h ~ } }$ 。离心收集菌体后用 $40 \%$ 占空比进行超声破碎，将裂解液于 $4 ^ { \circ } \mathrm { C }$ 离心获得裂解上清液。裂解上清液经一站式His标记蛋白质微量纯化套装纯化后获得电泳纯的重组CPC乙酰化酶。1.2.4 酶活性及蛋白分析参照本课题组前期建立的 $\mathfrak { p }$ -DAB比色法在 $1 3 ^ { \circ } \mathrm { C }$ 下测定CPC 乙酰化酶的活性[2]。酶活单位定义为在测定条件下每分钟产生 $1 \ \mu \mathrm { m o l } \ 7 – \mathrm { A C A }$ 所需的酶量。采用Bradford 法[17]测定蛋白的浓度，以牛血清白蛋白为参照标准。用 $12 . 5 \%$ 的分离胶进行 SDS-PAGE 分析[18]，并用Quantity One 软件计算目的蛋白的表观分子量。1.2.5 CPC乙酰化酶温度稳定性分析分别将亲本及突变体在-80、13和 $2 5 \mathrm { { ^ \circ C } }$ 下保存 $2 4 \mathrm { h }$ 然后在 $1 3 ^ { \circ } \mathrm { C }$ 测定它们的残留酶活，考察亲本及突变体的温度稳定性。1.2.67-ACA的低温生物合成以 $5 \mathrm { U / g } \mathrm { C P C }$ 的加酶量分别将 $5 0 ~ \mathrm { m L }$ 浓度为 $1 0 \ \mathrm { g / L }$ 的CPC于 $1 3 ^ { \circ } \mathrm { C }$ 下转化1、2、4、6、8、14、18和 $2 4 \mathrm { h }$ ，用 $\mathsf { p }$ -DAB比色法测定7-ACA的产量，进而计算出CPC 的转化率，初步评价头孢菌素C乙酰化酶在低温下的转化效率。本研究中 CPC 的转化率定义为参与转化的CPC的质量与总CPC的质量之比。
+
+# 2结果
+
+# 2.1分子对接及突变位点的选择
+
+利用 Modeller9.9 软件模拟出了CAIIIM的三维结构，用AutoDock 4.2 软件将其与优化后的CPC 的三维结构进行了分子对接，选取结合自由能最低的复合体构型利用 pymol软件找出距离底物分子CPC6A范围内的氨基酸残基，将此区域定义为底物结合区域，然后进一步找出底物结合区域Lo0p上的脯氨酸残基，结果如图1所示。结果显示， $\mathrm { P r o } ^ { 2 3 8 }$ 、$\mathrm { P r } 0 ^ { 2 7 2 }$ 、 $\mathrm { P r o } ^ { 5 8 2 }$ 和 $\mathrm { P r o } ^ { 6 7 9 }$ 恰好位于底物结合区域的Loop上。已有研究报道底物结合区域的脯氨酸含量能够影响蛋白的柔性[15]，因此本研究为了提高CPC乙酰化酶底物结合区域的柔性，提高它在低温下的结构可变性，分别将选定的4个脯氨酸突变为侧链基团较小的甘氨酸。
+
+![](images/46318409331ed89f3124cc07fe37879f79c0935c8372df1abb8344f523e473bb.jpg)  
+图1CPC与CAIIIM的三维结构的分子对接模型  
+Fig.1 The molecule-docked conformation between 3-D structures of a CPC and CAIIIM
+
+# 引物的设计及定点突变
+
+基于上述理性分析的结果，借助 Agilent 公司提供的QuikChange Primer DesignProgram设计定点突变的引物，同时在pET32a多克隆位点下游 $3 . 2 \mathrm { k b }$ 引物左右的位置设计反向的通用引物pET28-2254-R，引物的序列如表1所示。将 pET28-2254-R分别与P238G-F、P272G-F、P582G-F和P679G-F 配对进行第一轮PCR扩增获得3个DNA大片段，然后分别进行大引物全质粒扩增，DpnI酶消化后转化BL21感受态细胞，经氨苄抗性筛选 和测序鉴定后分别获得BL21/pET32a-caIIIP238G、BL21/pET32a-calIIIP272G、BL21/pET32a-caIIIP582G 和 BL21/pET32a-caIIP679G 突变子。
+
+表1 CA $\mathbf { I I I ^ { M } }$ 编码基因定点突变所需的引物  
+Table 1 Sequences of the primers used for Site-Directed Mutagenesis of CA $\mathbf { I I I ^ { M } }$ encoding gent   
+
+<html><body><table><tr><td>Name</td><td>Remark</td><td>Primer sequence (5'-3')</td></tr><tr><td>pET28-2254-R</td><td>universal primer</td><td>GCCTTACTGGTTAGCAGAATG</td></tr><tr><td>P238G-F</td><td>Pro238</td><td>TCCTGGCGGGTGACGGCCACCG TGTTTTCG</td></tr><tr><td>P272G-F</td><td>Pro272</td><td>GGTGTTCCGGGTTTCGGCCACTT CGCGCACAAC</td></tr><tr><td>P582G-F</td><td>Pro582</td><td>TCGCGGCGGTTCCGGGCGGTGTT</td></tr><tr><td>P679G-F</td><td>Pro679</td><td>TCTCCGCAG GTTCCGTCTGCGGGTGGCGAAG CGACCTACGG</td></tr></table></body></html>
+
+# 2.3重组酶的表达及纯化
+
+分别将 BL21/pET32a-caIIP238G、BL21/pET32a-caIIIP272G、BL21/pET32a-caIIIP582G 和BL21/pET32a-caIIP679G 菌株进行低温、低浓度 IPTG 的诱导表达，BL21/pET32a作为阴性对照。将 $1 0 0 ~ \mathrm { { m L } }$ 发酵液中的菌体离心收集，然后超声破碎，高速离心 $3 0 \mathrm { m i n }$ 后收集裂解上清，将上清过 $0 . 4 5 ~ { \mu \mathrm { m } }$ 滤膜后用一站式His 标记蛋白质微量纯化套装进行纯化，并用3kDa 截留分子量的超滤离心管进行咪唑的去除和产物的浓缩，最终分别将各重组蛋白定容至 $3 ~ \mathrm { m L }$ 。将裂解上清液和纯化后的产物分别进行SDS-PAGE分析，结果如图2和图3所示。结果显示，突变子中除了BL21/pET32a-caIIP272G外均实现了可溶性表达，且自剪切形成了明显的大小亚基，QuantityOne 软件估算出大亚基的表观分子量为 $6 0 \mathrm { \ k D a }$ ，小亚基的表观分子量为 $4 0 \mathrm { { k D a } }$ 。同时，结果也表明经过His标签亲和层析后，获得了电泳纯的重组酶。利用考马斯亮蓝法测得纯化、浓缩后的 reCAIIIP238G、reCAIIIP582G 和reCAIIIP69G的浓度分别为3.58、4.05 和 $4 . 4 6 ~ \mathrm { { m g / m L } }$ 。
+
+![](images/b5172b7558513908819157eaccfa1c995fd4394054c5e8f148b8bbf6160e4b15.jpg)  
+图2重组大肠杆菌表达产物的SDS-PAGE分析
+
+Fig. 2 The SDS-PAGE analysis for the expressed products of recombinant E. coli.
+
+M,PageRuler Prestained Protein Ladder; 1, expressed products of BL21/pET32a; 2,expressed products of BL21/pET32a-ca/P238G; 3, expressed products of BL21/pET32a-caIP272G; 4, expressed products of BL21/pET32a-calP582G; 5, expressed products of BL21/pET32a-caII1P679G.
+
+![](images/1c2720d80c5176809423b4103626c99d511663876018bbb1cf77b5491e18073a.jpg)  
+图3纯化后的重组CPC乙酰化酶的SDS-PAGE分析
+
+Fig. 3 The SDS-PAGE analysis for the purified recombinant Cephalosporin C acylases.
+
+M, PageRuler Prestained Protein Ladder; 1, purified reCA1IP238G; 2, purified reCAI1P582G; 3, purified reCAIIIP679G.
+
+# 2.4重组酶低温下的活性分析
+
+利用 $\boldsymbol { \mathsf { p } }$ -DAB 比色法测出纯化、浓缩后的 $\mathrm { r e C A I I I } ^ { \mathrm { P 2 3 8 G } }$ 、reCAIIIP582G 和 reCAIIIP679G突变体在 $1 3 ^ { \circ } \mathrm { C }$ 下对 CPC 的比酶活分别为1.25、1.04 和 $1 . 3 8 ~ \mathrm { U / m g }$ ，较亲本的 $0 . 8 5 ~ \mathrm { U / m g }$ 有显著的提高。结果表明，底物结合区域Loop上脯氨酸的含量对CPC乙酰化酶的冷适应性有一定的影响，将脯氨酸突变为甘氨酸能够改善该酶在低温下的适应性。
+
+# 2.5重组酶的温度稳定性分析
+
+分别将亲本及突变体在-80、13 和 $2 5 \mathrm { { ^ \circ C } }$ 下孵育 $2 4 \mathrm { h }$ ，然后在 $1 3 ^ { \circ } \mathrm { C }$ 测定它们的残留酶活，结果如表2所示。结果显示，亲本及突变体的温度稳定性较好，尽管突变体的稳定性较亲本稍有下降，但它们在贮存温度（ $\cdot 8 0 ^ { \circ } \mathrm { C }$ ）和工作温度（13和 $2 5 \mathrm { { ^ \circ C } }$ ）下孵育 $2 4 \mathrm { ~ h ~ }$ 后残留酶活仍能超过 $8 5 \%$ ，不影响它们的使用范围。
+
+表2亲本及突变体的温度稳定性  
+Table 2Temperature stability of the parent and mutants   
+
+<html><body><table><tr><td rowspan="2">Name</td><td colspan="2">Residul activity after incubation for 24 hours (%)</td></tr><tr><td>-80℃</td><td>13℃ 25℃</td></tr><tr><td>Parent</td><td>99 98</td><td>92</td></tr><tr><td>reCAIIP238G</td><td>97 95</td><td>90</td></tr><tr><td>reCAIIP582G</td><td>98 90</td><td>86</td></tr><tr><td>reCAIIIP679G</td><td>98 92</td><td>85</td></tr></table></body></html>
+
+# 2.67-ACA的低温生物合成
+
+按照1.2.6中的方法初步研究了突变酶在低温下催化CPC合成7-ACA的工艺，CPC的转化率随时间的变化情况如图4所示。随着反应时间的延长，CPC的转化率会逐渐增加，当反应进行到 $2 4 \mathrm { h }$ 时CPC的转化率接近 $80 \%$ ，且趋于稳定。此外，在同样加酶量的情况下，突变体的转化率较亲本的也略有提高。
+
+![](images/c607626bd06acf5313ef0f3ac3d94ffb4cf2f75cbece1af4fb1da282d8af18c0.jpg)  
+图4CPC在低温下的转化率  
+Fig. 4 The conversion rate of CPC at low temperature
+
+# 3讨论
+
+7-ACA是头孢类抗生素重要的合成砌块，开发低成本、高质量合成7-ACA的工艺具有重要的研究价值和科学意义。在7-ACA的所有制备方法中，一步酶法最具优势和潜力[19]。另外，由于7-ACA在 $2 0 ^ { \circ } \mathrm { C }$ 以上极不稳定、合成过程中易产生其它副产物[10]，不利于后续的纯化精制，因此它的合成需要在低温下进行，工业上7-ACA的生产一般需要控制在 $1 3 ^ { \circ } \mathrm { C }$ 左右。遗憾的是，现有的CPC乙酰化酶的冷适应性较差，在 $1 3 ^ { \circ } \mathrm { C }$ 下的活性太低，大大增加了7-ACA的合成成本。本文试图通过改变底物结合区域的柔性，提高酶在低温下的可变形能力，以期提高它的冷适应性。
+
+以先前获得的CPC乙酰化酶突变体CAIIM为亲本[2]，借助分子对接的技术确定了它的底物结合区域，并在底物结合区域的Loop上选定了4个脯氨酸残基 $\mathrm { P r o } ^ { 2 3 8 } , \mathrm { P r o } ^ { 2 7 2 } , \mathrm { P r o } ^ { 5 8 2 }$ 和 $\mathrm { P r o } ^ { 6 7 9 }$ ，鉴于以前对Linker的研究及文献分析[15]，分别将它们突变为侧链基团较小的甘氨酸。可溶性表达的结果显示当272位的脯氨酸变为甘氨酸后，表达产物未能进行自剪切，无法形成正确的大小亚基，其它三个突变体均能实现可溶性表达。据 $\mathrm { L i } ^ { [ 2 0 ] }$ 等人报道CPC乙酰化酶的自剪切有其固有的识别机制，272位的突变可能影响了它的自剪切，故未能止确折叠和剪切。
+
+酶活测定结果显示， reCAIIIP238G、 reCAIIIP582G 和 reCAII $\mathrm { \cdot P 6 7 9 G }$ 突变体在 $1 3 ^ { \circ } \mathrm { C }$ 下对CPC的比酶活较亲本有明显的提高，这也说明底物结合区域Lo0p 结构柔性的改变能够影响它在低温下的可变形能力，进而影响它的催化活性。柔性的提高在一定程度上也会影响酶的温度稳定性，温度稳定性的研究结果也表明突变体的温度稳定性较亲本有一定下降，但是下降的幅度不是很大，残留酶活都能维持在 $8 5 \%$ 以上。在后续的研究中，我们可以考虑将各突变位点进行组合突变，同时适当提高底物结合区域以外结构域的刚性，以实现进一步提高CPC乙酰化酶在低温下的催化能力，同时能够尽量保持它的稳定性。本研究在CPC乙酰化酶冷适应性改造方面取得了较为理想的结果，为进一步的改造及应用奠定了坚实的基础，也为其它低温酶的创制提供了可资借鉴的经验。
+
+# 参考文献：
+
+[1]Tramper J,Beeftink HH,Janssen AEM et al.Biocatalytic production of semi-synthetic cephalosporins: process technology and integration. In: Synthesis of $\beta$ -Lactam Antibiotics. Edited by Bruggink A: Springer Netherlands,2001.206-249.   
+[2]马晨露，唐存多，史红玲等．头孢菌素C乙酰化酶的半理性改造及7-ACA的生物合成[J]．中国生物工 程杂志,2015(12):65-71. Ma CL,Tang CD,Shi HL et al. Semi rational modification of cephalosporin C acylase and biosynthesis of 7-ACA. China Biotechnology,2015(12):65-71.   
+[3]薛亮．头孢类抗生素及中间体发展浅析 [J]．精细化工原料及中间体,2007(03):27-29 Xue L.Development analysis of cephalosporins and its intermediate.Fine Chemical Industrial Raw Materials and Intermediates,2007(03):27-29.   
+[4]Sonawane VC. Enzymatic Modifications of Cephalosporins by Cephalosporin Acylase and Other Enzymes [J]. Crit Rev Biotechnol, 2006,26(2):95-120.   
+[5]Polegioni L,Rosini E,Molla G. Cephalosporin C acylase: dream and(/or） reality [J]. Appl Microbiol Biotechnol, 2013, 97(6):2341-2355.   
+[6]Pollegioni L,Molla G, Sacchi S et al. Properties and applications of microbial D-amino acid oxidases: current state and perspectives [J]. Appl Microbiol Biotechnol, 2008,78(1):1-16.   
+[7]姚舜，罗晖，常雁红等．一步酶法生产7一氨基头孢烷酸的研究进展[J]．现代化工,2013,33(2):11-14. Yao S,Luo H, Chang YH et al. Research progress in one-step enzymatic conversion of cephalosporin C to 7-aminocephalosporanic acid. Modern Chemical Industry,2013,33(2): 11-14.   
+[8]Wang Y, Yu H, Song W et al. Overexpression of synthesized cephalosporin C acylase containing mutations in the substrate transport tunnel [J]. J Biosci Bioeng, 2012, 113(1):36-41.   
+[9]Zhu X,Luo H, Chang Y et al. Characteristic of immobilized cephalosporin C acylase and its application in one-step enzymatic conversion of cephalosporin C to 7-aminocephalosporanic acid [J]. World J Microb Biotechnol, 2011, 27(4):823-829.   
+[10]柳杏辉．酶法制备新型医药中间体D-7-ACA工艺研究 [D]:西安：西北大学,2009. Liu XH. Study on producing a new pharmaceutieal intermediate D-7-ACA with enzymatic technology [D]. Xi an: Northwest University,2009.   
+[11] YC S, JY J, KH J: Cephalosporin C acylase mutant and method for preparing 7-ACA using same. In., vol. 7592168. US; 2007.   
+[12]曾胤新，蔡明宏，俞勇等．微生物低温酶适冷机制研究进展 [J]．中国生物工程杂志,2003(10):52-56. Zeng YX, Cai MH, Yu Y et al. Progress of molecular adaptation of cold enzymes from microorganisms. China Biotechnology,2003(10):52-56.   
+[13] Ramya LN, Pulicherla KK. Molecular insights into cold active polygalacturonase enzyme for its potential application in food processing [J]. JFood Sci Technol, 2015, 52(9):5484-5496.   
+[14] Fellr G,Gerday C.Psychrophilic enzymes: hot topics in cold adaptation [J]. Nat Rev Microbiol,2003, 1(3):200-208.   
+[15] Tang MA,Motoshima H, Watanabe K. Cold adaptation: structural and functional characterizations of psychrophilic and mesophilic acetate kinase [J]. Protein J, 2014, 33(4):313-322.   
+[16] Sanchis J，Fernandez L,Carbaleira JD et al. Improved PCR method for the creation of saturation mutagenesis libraries in directed evolution: application to diffcult-to-amplify templates [J]. Appl Microb Biotechnol, 2008, 81(2):387-397.   
+[17] Bradford M. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding [J]. Anal Biochem, 1976,72:248-254.   
+[18] Laemmli UK. Cleavage of structural proteins during the assembly of the head of bacteriophage T4 [J]. Nature,1970, 227:680-685.   
+[19]徐雪丽，张伟，刘艳等．头孢菌素C酰化酶突变位点的研究[J]．中国生物工程杂志,2015(02):59-65. Xu XL,Zhang W,Liu Y et al. Study on mutaions of cephalosporin Cacylase. China Biotechnology,2015(02): 59-65.   
+[20] Li Y, Chen J,Jiang Wetal.In vivo post-translational processng and subunit reconstitutionofcephalosporin acylase from Pseudomonas sp. 130 [J]. European Journal of Biochemistry,1999,262(3):713-719.
+
+# Effect of prolines in the loop of CPC acylase substrate binding region on its catalytic properties
+
+TANG Cun-duo1,2§ SHI Hong-ling1s MA Ying1 LIU Fei1 XU Jian-he2\*\* KAN Yun-chao1\*\* YAO Lun-guang1\*\*
+
+(1 Henan Provincial Engineering Laboratory of Insect Bio-reactor, Nanyang Normal University, Nanyang 473061, China) (2 State Key Laboratory of Bioreactor Engineering,East China University of Science and Technology, Shanghai 200237, China)
+
+Abstract:Cold-active CPC acylase plays an important role and has significant advantage in the biosynthesis of 7-ACA,thus developing cold-active CPC acylase has significant economic value. In order to obtain the CPC acylase with higher catalytic activity at low temperature,on the basis of previous research, the previously obtained CA $\mathrm { I I I ^ { M } }$ was taken as a parent, confirmed its substrate binding region by the method of molecular docking,and found the key proline residues in the loop of CPC acylase substrate binding region by pyMOL. After analyzing,the selected prolines were mutated into glycines,respectively. The study of soluble expression was carried out in $E$ .coli BL21(DE3) with pET32a plasmid,and soluble expression was achieved in the other mutants except P272G.Catalytic activity of P238G,P582G and P679G to CPC was 1.25,1.04 and $1 . 3 8 ~ \mathrm { U / m g }$ respectively at $1 3 ~ ^ { \circ } \mathrm { C }$ ，and there was a significant improvement compared with parental $0 . 8 5 \mathrm { \ U / m g }$ . Moreover, the stability of parent and mutants was investigated,and there was no obvious difference between them. Afterwards,the low temperature biosynthesis of 7-ACA was carried out at $1 3 ~ ^ { \circ } \mathrm { C }$ ，and the results showed that the conversion rate of CPC can reach $80 \%$ and above after $2 4 \mathrm { ~ h ~ }$ . This research gained ideal results in cold adaptation improvement of CPC acylase, established a solid foundation for further transformation and application,and provided a useful experience for the creating of other low-temperature enzymes.
+
+Keywords: CPC acylase cold adaptation molecular modification rational design activity assay

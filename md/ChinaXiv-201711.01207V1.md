@@ -1,0 +1,240 @@
+# 基于模糊情感计算的商品在线评论用户品牌转换意向研究
+
+张艳丰1,2 李 贺」 彭丽徽²1(吉林大学管理学院长春 130022)2(长沙师范学院图书馆长沙 410100)
+
+摘要：【目的】通过挖掘电子商务平台冗杂的在线评论信息，对消费者品牌转换意向进行模糊计算和类型划分。【方法】以品牌转换意向模型为基础构建在线评论的模糊情感词典，通过对模糊情感词典的加工和整理，使用模糊数学方法并制定模糊推理规则，计算产品的品牌转换意向和转换类型。【结果】可以有效地抽取出在线评论中的模糊情感词，实现了品牌转换意向的模糊计算归类。【局限】模糊情感词典构建规则复杂，后期需要人工识别与分类，较为费时费力。【结论】提出的在线评论用户品牌转换意向计算方法得到了较好的实验检验效果，可为在线产品的品牌营销和预警提供信息决策。
+
+关键词：模糊情感 模糊计算在线评论评论挖掘 品牌转换
+
+分类号：G353 G202
+
+# 1引言
+
+随着Web2.0时代的到来，很多购物网站(如淘宝网、京东网、当当网、凡客诚品等)都建立了线上评论系统，以便消费者在电子商务网站平台上发布对所购产品或服务的评论信息，形成了以互联网为产生和传播平台的品牌口碑。根据CNNIC《2014年中国网络购物市场研究报告》显示， $71 . 1 \%$ 的用户认为产品的口碑是影响网络消费者决策的最主要因素， $43 \%$ 的用户认为“在线评价"因素是影响产品口碑，进而影响消费者决策的重要依据[1]。网络消费者在购买产品之前会上网浏览、查询、对比其他网友对该产品的评论信息，在线评论对消费者的品牌态度和购买决策都有很大的影响[2]。从在线评论中能够分析用户的消费体验和品牌认知，通过挖掘用户在商务网站上评论的文本信息,可以分析和预测用户品牌转换意向。用户的品牌转换会对生产商的品牌形象、品牌口碑及品牌名誉产生负面效应，进而对经营绩效以及市场的占有率造成不利影响。通过挖掘互联网上消费者关于商品评论的文本信息，分析消费者转换其品牌的原因，归纳转换类型，采取相应的营销策略，有利于企业有效规避品牌转换和用户流失。
+
+# 2 研究述评
+
+商品在线评论的相关研究已有诸多学者关注，但大多数是通过各种数据挖掘方法和计量算法对网络评论的有用性排序和垃圾评论甄别进行归纳性分析[3],而关于在线评论用户品牌转换意向的定量推理计算还有待深人研究。目前对在线评论品牌转换意向方面的相关研究主要从以下两方面展开：
+
+(1）发现在线评论品牌转换意向的内容和因素研究。Dellarocas等[4]发现虽然评论数量对品牌口碑传播有显著的正向影响，但消费者对特定商品的品牌转换意向主要受商品在线评论内容深度的影响；Rose等[5]指出网络消费者的购物体验与满意感和信任度关系密切，这两方面因素显著影响消费者的重购意向和重购行为，从而得知满意感和信任度是影响网络消费者品牌转换意向的决定性因素。钱颖等研究转移成本对品牌忠诚度的作用得出结论，转移成本既可以直接影响用户的品牌转换意向，也可以作为调节变量或中介变量间接影响用户的品牌选择。这些研究注重在线评论内容和影响因素的归纳性分析，忽略了情感词依赖和语境特征，也忽略了评论语句不同情感等级对品牌转换意向的影响。
+
+(2)挖掘在线评论用户品牌转换意向的情感与感知。Mudambi等7将搜索型与体验型商品进行比较发现，获取信息的感知成本和对信息的理解差异会影响消费者的购买决策；郝媛媛等[8验证了在线评论的正、负情感倾向能够直接影响用户的选购意向，而负情感评论对品牌选择的有用性更强；那日萨等9基于模糊数学算法，结合情感语句的语法分析，给出消费者的品牌情感态度。宋爽等[10]通过对网络消费者在线评论的语义分析，总结模糊情感词和构建品牌转换意向推理规则，推理出消费者品牌转换意向与转换类型。这些方法能够较好地发现用户情感倾向，并能够通过模型、算法得到用户对相应品牌的转换意向。但语义情感词划分规则不同、词典匹配算法不同、推理计算方式不同对结果的准确性有较大影响。因此，在评论的语义挖掘中，确定品牌转换意向影响因素模型是研究基础，语料情感词典的提取和计算是分析准确性的关键。
+
+基于此，本文通过对消费者在线评论的提取和情感词典的归纳，构建用户品牌转换意向模型和计算方法，推理计算出用户品牌转换意向及其类型并进行有效性验证，为网络口碑分析者在线监测消费者品牌转换意向提供辅助。本文的创新之处主要有以下两点：
+
+(1）改进信息系统持续使用模型(ExpectationConfirmation Model ofIS Continuance,ECM-ISC)对用户品牌转换意向进行模型构建，从期望确认、感知因素、促成因素和满意度4方面挖掘在线评论语料情感词典，改进了传统因素法构建情感词典的主观性和片面性。
+
+(2）采用模糊计算分类方法对在线评论类型进行软化分，弥补了贝叶斯分类算法、决策树分类算法、人工神经网络方法等经典分类方法对事物类别的硬性划分不能明确客观事物及其类别的缺点。
+
+# 3模型构建及模糊计算
+
+# 3.1用户品牌转换意向模型构建
+
+消费者对网购产品的使用经历和服务感知是品牌转换的前因，通常用消费者满意度指数来测度用户品牌转换意向，但在线评论为满意的评价中，依然有诸多消费者选择转换品牌意向，因此，仅从满意度角度研究用户品牌转换意向存在一定片面性。众所周知,消费者的品牌转换即是持续使用意向的转变，因此，消费者品牌转换意向可以通过用户持续使用意向来度量。对于持续使用意向方面的测量,Bhattacherjee 等[1]提出了信息系统持续使用模型(ECM-ISC)，根据ECM-ISC修改后的品牌转换意向模型如图1所示：
+
+![](images/72718477b83c157bca8f80ca1fe10eec5b1289100969b6ffb011d8203cf9c3da.jpg)  
+图1品牌转换意向模型
+
+其中，期望确认是消费者在购物前后对该产品的预期与实际感知之间的匹配程度，被认为是对持续使用意愿最直接、正向的影响；感知因素包括感知质量、感知价值和感知服务，一直以来被看作用户持续使用的重要前因；促成因素指受其他诱惑性因素的刺激选择是否持续使用，包括其替代品牌的产品促销、产品更新等，是消费者持续使用意愿的外部因素；满意度则是品牌持续使用的基础，是综合使用后的整体情感评价。
+
+本文以改进的持续使用模型 ECM-ISC 为基本理论参考依据，对消费者在线评论的转换意向进行探讨，推理分析与实验验证的研究思路和过程如图2所示。
+
+在使用该模型研究方法的过程中，研究准确性与科学性的关键有以下两点：
+
+(1）商品在线评论模糊情感词典的构建。删除重复评论和垃圾评论后提取的情感词是有效情感分析的基础，模糊情感词典能有效对评论属性和情感极性进行归类。
+
+(2）用户品牌转换意向的模糊计算。在线商品信息和服务属性都反映在消费者的在线评论中，通过科学的计量算法对所有评论的有效信息充分测算和评估，是研究科学性和持续性的基础。
+
+![](images/acca3b69aef0ffa466e2aabd59b2df01e68305824a80ad874c8fd1f48a1e5858.jpg)  
+图2研究方法与流程示意图
+
+# 3.2商品在线评论模糊情感词典构建
+
+模糊情感词典包括基础情感词典和扩展情感词典。基础情感词典采用中国知网HowNet情感词典[12]和中国台湾大学情感极性词典[13]。扩展词典包括动态情感词典、价值评价词典和情感修饰词典，另外基于在线评论语义复杂性的特点，结合网络情感词和购物情感词，总共筛选出约1600个扩展情感词汇。扩展情感词的构建方式和算法如下：
+
+# (1）动态情感词典
+
+动态情感词是指具有改变短语情感倾向的动态词，即被修饰的情感词语目标改变时，其情感态度也会发生变化的情感词。动态情感词所修饰的目标词决定其情感倾向。例如：情感词"快”，在“物流快"和"运行快"的评论中表示认同、赞赏的褒义态度，然而在相同的目标评论词"耗电快"中则表现的是贬义倾向。动态情感词典规范新的动态极性计算标准，将评价对象和动态情感词看作一个整体，以期获得更高的准确率。
+
+首先，统计出的动态情感词集合用DE表示。根据情感倾向的褒、贬属性，褒义属性词用正向动态集合PDE表示，由{高，快，多}等动态词组成；贬义属性词用负向动态集合 NDE 表示，由{低，慢,少…}等动态词组成。它们之间满足如下关系：
+
+$$
+\begin{array} { l } { { \mathrm { P D E } \bigcap \mathrm { N D E } = \Phi } } \\ { { \mathrm { P D E } \bigcup \mathrm { N D E } = \mathrm { D E } } } \end{array}
+$$
+
+其次，对于主题词t的情感倾向值和极性值分别用Pt和I表示，t的动态情感倾向值(P，I)采用基于点互信息的情感倾向算法SO-PMI进行计算，动态情感词与情感极性搭配的计算规则如下：
+
+Dynamic Polariry $\mathrm { ( \omega _ { \mathrm { { o } } , \mathrm { { t } } } ) = \left\{ \begin{array} { l l } { \mathrm { { P = P _ { t } , I = I _ { t } } \quad } } & { P _ { t } \neq 0 . \mathbb { H } . \omega \in \mathrm { { P D E } } } \\ { \mathrm { P = - P _ { t } , I = I _ { t } } \quad } & { P _ { t } \neq 0 . \mathbb { H } . \omega \in \mathrm { { N D E } } } \\ { \mathrm { P = 0 , I = 0 } } & { \mathrm { o t h e r s } } \end{array} \right. }$
+
+定义 $\mathrm { P } _ { \infty } \setminus \mathrm { I } _ { \infty }$ 为主题词t的情感倾向与极性值，由公式(2)可知，具有情感倾向主题词t的动态情感词 $\boldsymbol { \omega }$ 有如下关系:
+
+$\textcircled{1}$ 如果 $\boldsymbol { \omega } \in \mathrm { P D E }$ ，则情感倾向 ${ \bf P } _ { \infty }$ 、情感极值 $\mathrm { ~ I _ { \omega } ~ }$ 与主题词 $\mathrm { ~  ~ \Omega ~ } _ { \mathrm { ~ t ~ } }$ 相同，即 $\mathrm { P _ { \infty } = P _ { t } \ , \ : I _ { \infty } = I _ { t } }$ 。
+
+$\textcircled{2}$ 如果 ${ \bf { \omega } } _ { \mathrm { { o } } } \in \mathrm { N D E }$ ，其情感极性 $\mathrm { ~ I _ { \omega } ~ }$ 与 $\mathrm { I } _ { \mathrm { t } }$ 相同，而 ${ \bf P } _ { \omega }$ 与 $\mathbf { P } _ { \mathrm { t } }$ 相反，即 $\mathrm { P _ { \mathrm { e } } = - P _ { t } }$ ， $\mathrm { I } _ { \mathrm { o } } = \mathrm { I } _ { \mathrm { t } }$ 。
+
+算法解释例如：“电池发热量大”，句子中情感修饰词$\mathrm { P } _ { \frac { s _ { k } } { \mathcal { k } } + \mathbb { k } } = - 1$ ，主题词 $\mathfrak { t } _ { \star } \in \mathrm { P D E }$ ，所以 $\mathrm { P } _ { \star } = \mathrm { P } _ { ☉ , \ddag \hslash } = - 1$ ，从而判定该句子中的"大”表现为极性相同的贬义。
+
+# (2）价值评价词典
+
+价值评价词是指消费者购买品牌的实际评价感知情感词，包括期望评价、感知评价、促成因素评价和满意度评价4个属性。价值评价词的构建规则是将每个属性词分别赋予一个情感强度值Strength(β)，情感强度分为正向、负向和无极性三个评价区间，正、负区间分别划分为低、中、高、极4个评价等级，具体赋值为 $\{ - 4 , - 3 , - 2 , - 1 , 0 , 1 , 2 , 3 , 4 \}$ 。其中4和-4是价值评价高、低的极值，0是适中评价。价值评价情感词典在结合网络情感词和购物情感词的基础上，参考文献[14-15]的价值评价词极性分词标准，结合ECM-ISC模型影响因素，经过人工筛选、过滤，得到模糊价值评价词典举例如表1所示。
+
+# (3）情感修饰词典
+
+情感修饰词是修饰情感倾向词的副词集合，分为否定副词和程度副词。情感修饰词在评论文本的情感极性中起到关键性作用。以情感词“满意"为例，“不满意"和"特别满意”，如果忽略情感修饰词特征和评论语境，只考虑“满意"的情感倾向和极性，而不考虑相关副词的情况下，就会导致情感倾向的错误和情感极性的失真。本文结合在线评论的语义特征，经过机器筛选和人工过滤，得到情感修饰词典如表2所示。
+
+其中，程度副词按语义强度分别赋予一个强度值Strength(α)，本文规定程度副词α按强度分为{1、2、3、
+
+表1价值评价词典统计示例(部分)  
+
+<html><body><table><tr><td rowspan="2">级别</td><td rowspan="2">期望 评价词典</td><td rowspan="2">感知 评价词典</td><td rowspan="2">促成因素</td><td rowspan="2">满意度 评价词典</td></tr><tr><td>评价词典</td></tr><tr><td>4</td><td>完美</td><td>首选</td><td>赚</td><td>推荐</td></tr><tr><td>3</td><td>爱</td><td>信赖</td><td>值</td><td>满意</td></tr><tr><td>2</td><td>喜欢</td><td>推荐</td><td>多</td><td>愉快</td></tr><tr><td>1</td><td>符合</td><td>支持</td><td>便宜</td><td>不错</td></tr><tr><td>0</td><td>还行</td><td>还好</td><td>正常</td><td>尚可</td></tr><tr><td>-1</td><td>无感</td><td>不好</td><td>贵</td><td>一般</td></tr><tr><td>-2</td><td>差</td><td>郁闷</td><td>少</td><td>不满</td></tr><tr><td>-3</td><td>水货</td><td>悔</td><td>不值</td><td>失望</td></tr><tr><td>-4</td><td>错</td><td>崩溃</td><td>赔</td><td>抵制</td></tr></table></body></html>
+
+<html><body><table><tr><td>情感 修饰词</td><td>示例</td></tr><tr><td>否定 副词</td><td>非、甬、不、别、没、莫、白、干、未、徒、空、勿、 否、不用、不必、不要、不曾、徒然、无能、无需、 没有、未曾、未尝、毋庸</td></tr><tr><td rowspan="3">程度 副词</td><td>极、最、过、至、顶、无比、最为、极为、极 极(4)度、极其、极端、分外、过于、至为、过分、 万分 太、挺、老、很、满、越、更、忒、好、大、</td></tr><tr><td>更加、尤其、更其、何其、何等、尤为、更为、 高(3) 大为、越发、不胜、多么、深为、颇为、甚为、 备加、十分、相当、特别、非常、格外、越加、 愈加、愈为、愈发</td></tr><tr><td>较、很、比较、较为、不太、不大、不很、 中(2) 不甚 稍、略、多少、有点、有些、略为、稍许、 低(1)</td></tr></table></body></html>
+
+4}四个程度级别，对应的否定副词取值在[-1,1]之间,本文取其极值-1和1。若情感主题词被情感词典的程度副词修饰时，该语句的情感倾向值等于情感强度值乘以程度副词强度值，当情感主题词有否定副词修饰时，该评论语句的极性值应与原情感强度极性相反。例如评论：“购物过程很满意"的强度值为 $4 \times 3 = 1 2$ ，而"购物过程很不满意"的强度值为 $4 { \times } 3 { \times } ( - 1 ) = - 1 2$ ○
+
+# 3.3用户品牌转换意向的模糊计算
+
+# (1）因素划分和句法分析
+
+首先利用哈尔滨工业大学信息检索研究室的语言技术在线演示平台(LTP)[16]对在线评论语句进行因素划分和句法分析，过滤出ECM-ISC模型中所有4个指标因素的评价词进行分类，根据3.2节价值评价词典构建方法和等级划分规则对每个词典按价值评价因素指标属性进行等级划分，确定相应的程度副词、否定副词和其他修饰词。
+
+(2）计算特征因素权重
+
+采用文献[17]中TF-IDF(Term Frequency-InverseDocumentFrequency)算法计算特征因素权重。TF-IDF算法是目前常用的特征项权重计算方法，它反映了文档集合中一个特征因素对一个文档的重要性。计算方法如下所示：
+
+$$
+\mathrm { { W _ { i j } = T F _ { i j } \times \log \left( { \frac { N } { D F _ { i } } } \right) } }
+$$
+
+其中， $\mathrm { W _ { i j } }$ 表示第i个特征因素在文本j中的权重，$\mathrm { T F _ { i j } }$ 表示第i个特征因素评价词在文本j中出现的频率，N表示在线评论总数,DFi表示包含第i个因素特征词的文本数,log $\log \left( { \frac { \mathrm { \Delta N } } { \mathrm { D F _ { i } } } } \right)$ 为逆向文档频率IDF，表示一个特征因素普遍重要性的度量。
+
+(3）高斯函数模糊推理
+
+模糊情感词典按强度对应模糊隶属函数级，设 $\tilde { \omega }$ 为基本评价模糊集，改进文献[9]中高斯函数模糊计算方法，对模糊评价集合 $\tilde { \omega } \in [ - 4 , 4 ]$ 的8个情感级别的模糊隶属度函数表示如下：
+
+$$
+\mathrm { T } _ { \chi } = \mathrm { f } _ { \widetilde \omega } ( \chi ; \mu _ { \widetilde \omega } , \alpha _ { \widetilde \omega } ) = \frac { 1 } { \sigma _ { \widetilde \omega } \sqrt { 2 \pi } } \exp \left[ \frac { - \left( \chi - \mu _ { \widetilde \omega } \right) ^ { 2 } } { 2 \sigma _ { \widetilde \omega } ^ { 2 } } \right]
+$$
+
+其中， $\sigma _ { \tilde { \omega } } \mathrm { ~ , ~ } \ \mu _ { \tilde { \omega } }$ 分别是对应 $\tilde { \omega }$ 情感级别时高斯隶属函数的均值和标准差。在推算过程中，采用Matlab工具箱进行推理。
+
+(4)转换意向模糊计算规则
+
+参考文献[10]采用模糊推理系统(FuzzyInferenceSystem,FIS)设定计算规则，由推理过程叠加产生所有结果，以质心法去模糊化，输出后件值。本文采用期望评价、感知评价、促成因素和满意度变量作为推理前件，品牌转换意向作为推理后件，4个前件的取值范围是[-4,4]，后件的取值范围是[-16,16]，计算过程共建立584条规则，推理函数如公式(4)所示，根据网络消费者的行为特征，在线用户的评价值越高，对产品的认可度越强，品牌转换意向越低，所以设定的模糊推理规则为模型后件随前件的增大而减小。
+
+(5）计算因素指标
+
+将各属性影响因素指标设为 ${ \bf R } _ { \mathrm { i } }$ ，影响因素指标权重 $\mathbf { W } = ( \mathbf { w } _ { 1 } , \mathbf { w } _ { 2 } , \cdots , \mathbf { w } _ { \mathrm { n } } )$ ，满足 $\mathbf { w } _ { \mathrm { k } } \geqslant 0$ ， $\mathbf { k } \in \mathbf { N }$ ，则各个因素指标 ${ \bf R } _ { \mathrm { i } }$ 计算如下:
+
+$$
+\mathbb { R } _ { \mathrm { i } } = \sum _ { \mathrm { k = 1 } } ^ { \mathrm { n } } \mathbb { W } _ { \mathrm { k } } \mathbb { T } _ { \mathrm { x } }
+$$
+
+(6)品牌转换类型的模糊分类
+
+计算出品牌转换意向后，由于受销售量的影响会造成转换意向的不确定性，因此，为了消除销售量的影响，本文通过品牌转换意向和产品月销量进行聚类分析，根据聚类分析结果，设定月销量和转换意向的临界值，将品牌转换类型划分为4类，从产品月销量和品牌转换意向两个维度上，进一步细化品牌转换意向类型。
+
+# 4实例计算及分析
+
+# 4.1 数据搜集与计算
+
+以京东商城手机品牌为例，利用集搜客GooSeeker网络爬虫软件爬取相关的评论指标信息，提取苹果、三星、华为、中兴、小米、VIVO、OPPO和魅族8种手机品牌的评论共计7857条，删除重复和无效评论后提取其中6482条评论进行计算。根据3.2节中情感词典构建规则，经过手工和Matlab2014a进行数据的预处理，对评论中符合模糊语料库规则的动态情感词汇、价值评价词汇和情感修饰词汇进行提取，对提取出的词汇进行语义分析后，通过人工分析、筛选、除噪，提取8种手机品牌的情感词进行属性分类。
+
+利用公式(3)对ECM-ISC模型4个因素指标进行特征权重计算，4个指标因素权重为：W=(0.295，0.204,0.151,0.350)。根据公式(4)和公式(5)，计算每种品牌的期望确认度、感知价值、促成因素以及满意度。根据品牌转换意向模糊计算和推理规则，计算出实际评论中4个前件因素指标和品牌转换意向的模糊计算结果如表3所示：
+
+表3手机品牌及其计算结果  
+
+<html><body><table><tr><td>手机品牌 期望确认度 感知价值</td><td></td><td>促成因素</td><td>满意度</td><td>转换意向</td></tr><tr><td>苹果</td><td>0.94 0.87</td><td>1.52</td><td>2.34</td><td>0.83</td></tr><tr><td>三星</td><td>0.89 0.82</td><td>1.24</td><td>2.11</td><td>0.94</td></tr><tr><td>华为</td><td>0.75</td><td>0.68 0.92</td><td>0.99</td><td>1.55</td></tr><tr><td>中兴</td><td>0.55 0.34</td><td>0.46</td><td>0.46</td><td>2.66</td></tr><tr><td>小米</td><td>0.63 0.22</td><td>0.35</td><td>0.27</td><td>4.28</td></tr><tr><td>VIVO</td><td>0.66 0.41</td><td>0.57</td><td>0.65</td><td>3.47</td></tr><tr><td>OPPO</td><td>0.54</td><td>0.39 0.53</td><td>0.59</td><td>3.65</td></tr><tr><td>魅族</td><td>0.42</td><td>0.33 0.43</td><td>0.24</td><td>4.28</td></tr></table></body></html>
+
+# 4.2 数据聚类与分析
+
+通过对手机品牌在线评论信息挖掘的模糊数据统计，每款手机品牌的期望确认度、感知因素、促成因素、满意度与品牌转换意向的二维关系如图3所示：
+
+![](images/4f82beb23c75510592764cb4c17a4dcc3c371326130613d64905e8144b6031f3.jpg)  
+图3手机品牌转换意向关系图
+
+综合IF-THEN模型数据推理的二维关系图可以看出，手机品牌的期望确认度、感知因素、促成因素、满意度的同簇对象趋势具有很大的相似性，而手机品牌转换意向又具有很大差异性，因此，可以对模型数据进行聚类分析。从统计学的观点看，聚类分析是通过数据建模简化数据进行归类的一种方法。对手机品牌转换意向的聚类结果如图4所示：
+
+![](images/ec36c17ab88b57fb416c6927af4f707cbbf16f0d9e0707c85bbbbd81db27f922.jpg)  
+图4手机品牌转换意向聚类结果
+
+聚类分析结果显示，手机品牌分为4种类型，其中苹果、三星、华为属于一类，中兴属于一类，小米、VIVO、OPPO属于一类，魅族属于一类。Gnaesh等[18]的品牌转换划分理论将消费者品牌转换意向分为保留型、满意性转换型、不满意性转换型和持续性转换型4种。本文从销量和转换意向两个维度，对不同手机品牌从属的转换类型进行分类验证，其结果如图5所示：
+
+![](images/a98e8ffa64f57966a083b7cb2cd710236656d4de86c8be9b638ed35d167d2d92.jpg)  
+图5实验分类结果图
+
+根据聚类结果和Gnaesh的品牌划分理论，将月销量和转换意向的临界值分别设定为2000和3.0。从实验数据和结果分析可以看出：整体上，期望确认、感知因素、促成因素、满意度与品牌转换意向成反比关系。苹果、三星、华为手机在国内市场口碑与销量俱佳，在未来一段时间内，依然将占据国内大部分的手机市场;小米、VIVO、OPPO手机销量较高，但转换意向也较高，属于持续性转换产品，同时此类品牌替代性较大，提高品牌知名度和产品核心竞争力是首要任务；中兴手机转换意向低，但其销量也较低，说明产品质量与价值得到消费者认可，但其营销手段和策略需加强和调整；魅族手机销量低，转换意向高，说明其品牌认可度和消费者满意度持续走低，属于不满意性转换。实验总结如表4所示：
+
+表4实验结果总结  
+
+<html><body><table><tr><td>对比项</td><td>保留型</td><td>满意性转换</td><td>持续性转换</td><td>不满意性转换</td></tr><tr><td>特征</td><td>销量高，转换意向低</td><td>销量低，转化意向低</td><td>销量高，转换意向高</td><td>销量低，转换意向高</td></tr><tr><td>品牌</td><td>苹果、三星、华为</td><td>中兴</td><td>VIVO、OPPO、小米</td><td>魅族</td></tr><tr><td>建议</td><td>质、独特的产品服务。</td><td>增强品牌知名度和影响力。价值。</td><td>维持用户使用黏性，提高 提高产品营销策略，积极 创新优质品牌核心功能，在做 急需改变产品生产和营销 产品功能创新，提高优主动寻求产业合作与转型，大众化手机的同时，做强品牌 策略，提高产品质量和品</td><td>牌声誉度。</td></tr></table></body></html>
+
+# 4.3模型过滤效果分析
+
+为了测试该模型的准确性，随机选取500条评论作为测试数据导入模型进行测试，选用准确率和召回率作为识别的评判标准[19]，将模型计算结果与人工判断结果相比较，从而验证模型与算法的可信度与一致性。计算方式如下：
+
+<html><body><table><tr><td rowspan="2">召回率=</td><td>模型判断与人工判断相同的评论数量 (6)</td></tr><tr><td>模型判断总数</td></tr><tr><td rowspan="2"></td><td>准确率=模型判断与人工判断相同的评论数量</td></tr><tr><td>模型判断总数</td></tr></table></body></html>
+
+模型过滤结果的召回率及准确率如表5所示：
+
+表5实验过滤的召回率和准确率  
+
+<html><body><table><tr><td>转换类型</td><td>召回率</td><td>准确率</td></tr><tr><td>保留型</td><td>79.23%(145/183)</td><td>83.62%(148/177)</td></tr><tr><td>满意性转换</td><td>74.55%(82/110)</td><td>69.84%(88/126)</td></tr><tr><td>持续性转换</td><td>82.11%(101/123)</td><td>85.22%(98/115)</td></tr><tr><td>不满意性转换</td><td>86.90%(73/84)</td><td>91.46%(75/82)</td></tr><tr><td>平均</td><td>80.70%</td><td>82.54%</td></tr></table></body></html>
+
+从过滤结果可以看出，测试模型的召回率和准确率均达到较满意的水平,特别是对持续性转换和不满意性转换测度的过滤效果尤为理想。由此可见，所构建的模型对在线评论用户品牌转换意向的判定具有较好的效果。
+
+# 5结语
+
+对在线商品评论进行语义挖掘和数据分析是当前大数据背景下电子商务情报分析的重要问题。本文以在线评论的模糊情感为分析基础，改进持续使用模型ECM-ISC和制定模糊隶属函数推理规则，并通过实例计算验证了手机品牌转换意向和品牌转换类型，具有良好的准确性和通用性，对品牌的营销和预警管理具有重要的现实意义。同时本文也存在一些局限，如模糊语料库规则的复杂性导致评论统计依赖人工识别与分类，在情感极性判断和分析方法上，也有可提升空间。未来的研究中将进一步丰富语料情感词典，提高情感词汇辨析的准确率和情感极性判断的科学性。
+
+参考文献：   
+[1]中国互联网信息中心．2014 年中国网络购物市场研究报告 [EB/OL].[2015-09-16]. htp://www.cnnic.cn/hlwfzyj/ hlwxzbg/ (CNNIC.Research Report on China's Online Shopping Market in 2014 [EB/OL]. [2015-09-16]. htp://www.cnnic. cn/hlwfzyj/hlwxzbg/.)   
+[2]Utz S,Kerkhof P,Van Den Bos J.Consumers Rule: How Consumer Reviews Influence Perceived Trustworthiness of Online Stores [J]. Electronic Commerce Research and Applications,2012,11(1): 49-58.   
+[3]曾润喜，王君泽，杜洪涛．新媒体时代网络评论观点信息 发现机制研究[J]．图书情报工作，2015，59(14):111-116, 148.(Zeng Runxi，Wang Junze,Du Hongtao.Research on Opinion Extraction Mechanism of Web Information Reviews in New Media Times [J].Library and Information Service, 2015,59(14): 111-116,148.)   
+[4]Dellarocas C, Zhang X,Awad N F. Exploring the Value of Online Product Reviews in Forecasting Sales:The Case of Motion Pictures[J]. Journal of Interactive Marketing,2007, 21(4): 23-45.   
+[5]Rose S,Clark M, Samouel P,et al. Online Customer Experience in E-Retailing:An Empirical Modelof Antecedents and Outcomes[J]. Journal of Retailing，2012, 88(2): 308-322.   
+[6]钱颖，王西子，倪君或．转移成本在在线用户的忠诚度中 的研究评述[J]．情报杂志，2015，34(3)：203-207.(Qian Ying,Wang Xizi,Ni Junyu.Review of Research on the Role of Switching Costs in Loyalty of Online Users [J]. Journal of Intelligence,2015,34(3): 203-207.)   
+[7]Mudambi S M,Schuff D.What Makes a Helpful Online Review? A Study of Customer Reviews on Amazon.com [J]. MIS Quarterly,2010,34(1): 185-200.   
+[8]郝媛媛，叶强，李一军．基于影评数据的在线评论有用性 影响因素研究[J]．管理科学学报，2010,13(8)：78-88，96. (Hao Yuanyuan，Ye Qiang,Li Yijun. Research on Online Impact Factors of Customer Reviews Usefulness Based on Movie Reviews Data [J]. Journal of Management Sciences in China,2010,13(8): 78-88,96.)   
+[9]那日萨，李媛．基于在线评论的消费者模糊情感计算与推 理[J].情报学报，2011，30(4):412-423.(Zhao Narisa,Li Yuan.Online-Review-Based Fuzzy Computing and Inference of Consumer Sentiment[J]. Journal of the China Society for Scientific and Technical Information,2011,30(4): 412-423.)   
+[10]宋爽，那日萨，张杨．基于在线评论的消费者品牌转换意 向模糊推理[J]．山东大学学报：理学版,2014,49(12):7-11. (Song Shuang，Zhao Narisa,Zhang Yang. Approximate Reasoning Research of Customers Brand Switching Intention Based on Online Reviews[J]. Journal of Shandong University: Natural Science,2014,49(12): 7-11.)   
+[11] Bhattacherjee A,Perols J, Sanford C.Information Technology Continuance: A Theoretic Extension and Empirical Test [J]. Journal of Computer Information Systems,2008,49(1):17-26.   
+[12] HowNet [EB/OL]. [2015-11-10]. htp://www.keenage.com/ html/c_index.html.   
+[13] 数据堂．台湾大学 NTUSD-简体中文情感极性词典 [EB/OL].[2015-11-11]. htp://www.datatang.com/data/11837. (Data Tang.Taiwan University-The Polarity of Simplified Chinese Emotional Dictionary [EB/OL].[2015-11-11].http:// www.datatang.com/data/11837.)   
+[14] 董丽丽，赵繁荣，张翔．基于领域本体、情感词典的商品评 论倾向性分析[J]．计算机应用与软件，2014，31(12): 104-108，194.(Dong Lili， Zhao Fanrong， Zhang Xiang. Analysing Propensity of Product Reviews Based on Domain Ontology and Sentiment Lexicon [J]. Computer Applications and Software,2014,31(12):104-108,194.)   
+[15]娄德成，姚天昉．汉语句子语义极性分析和观点抽取方法 的研究[J]．计算机应用，2006,26(11):2622-2625．(Lou Decheng，Yao Tianfang.Semantic Polarity Analysis and Opinion Mining on Chinese Review Sentences [J]. Computer Applications,2006,26(11): 2622-2625.)   
+[16]LTP-Cloud.语言技术平台云[EB/OL]．[2015-11-21]. http://wwwltp-cloud.com.(LTP-Cloud.LanguageTechnology Platform Cloud [EB/OL]. [2015-11-21]. http://www.ltp-cloud. com.)   
+[17]何跃，宋灵犀，齐丽云．负面事件中的品牌网络口碑溢出 效应研究——以"圆通夺命快递"事件为例[J].现代图书情 报技术,2015(10): 58-64.(He Yue,Song Lingxi, Qi Liyun. Spillover Effect of Internet Word of Mouth in Negative Events——Take the“Deadly Yuantong Express”Event for an Example [J]. New Technology of Library and Information Service,2015(10): 58-64.)   
+[18] Ganesh J，Arnold M J,Reynolds K E. Understanding the Customer Base of Service Providers:An Examination of the Diferences Between Switchers and Stayers [J]. Journal of Marketing,2000,64(3): 65-87.   
+[19]蔡晓珍，徐健，吴思竹．面向情感分析的用户评论过滤模型 研究[J]．现代图书情报技术，2014(4):58-64.(Cai Xiaozhen, Xu Jian,Wu Sizhu.Research on Filter Model of Customer Review for Sentiment Analysis [J]. New Technology of Library and Information Service,2014(4): 58-64.)
+
+# 作者贡献声明：
+
+张艳丰：论文撰写与修改;  
+李贺：论文框架设计，论文最终版本修订;  
+彭丽徽：数据分析，实验设计。
+
+# 利益冲突声明：
+
+[1]彭丽徽.basic_emotion.rar.基础情感词典分类统计.  
+[2]彭丽徽.extend_emotion.rar.扩展情感词典分类统计.  
+[3]彭丽徽.rule_data.xls.584条模糊推理规则数据.  
+[4]彭丽徽.experimental_data.xls.原始实验数据.  
+[5]彭丽徽.statistical_data.xls.实验统计数据.
+
+所有作者声明不存在利益冲突关系。
+
+收稿日期:2015-12-16  
+收修改稿日期:2016-03-17
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:plh_222@126.com。
+
+# Research on the Brand Switching Intention of Online Product Reviews Based on the Fuzzy Sentiment Calculation
+
+Zhang Yanfeng1,²LiHe’Peng Lihui² 1(School of Management, Jilin University, Changchun 130022, China) 2(Library of Changsha Normal University, Changsha 41010o, China)
+
+Abstract: [Objective] We explore the changing of consumer's favorite brands by analyzing online product reviews from a popular E-commerce platform in China.[Methods] First,we built a fuzzy sentiment dictionary for online product reviews based on brand switching intention model.Second,we defined rules for a Fuzzy Inference System to calculate customer brand switching intention and switching types.[Results] We successfully extracted vague sentimental terms from the online product reviews,and then categorized consumers’intentions.[Limitations]The fuzzy sentiment dictionary was built with complex rules and required many time consuming folow-up amendments. [Conclusions]The proposed model can provide decisive information for online marketing and early warning systems.
+
+Keywords:Fuzzy sentimentFuzzy calculation Online reviews Comment mining Brand switch

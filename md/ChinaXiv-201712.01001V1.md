@@ -1,0 +1,134 @@
+# 临床研究
+
+# 钼靶、CT与DCE-MRI评价乳腺癌淋巴结转移的价值
+
+吴佩琪1²,刘春玲²,刘再毅²,叶维韬'，梁长虹²  
+1南方医科大学，广东广州 510515;广东省人民医院//广东省医学科学院，广东广州 510080
+
+摘要：目的 分析钼靶(MG）、计算机断层扫描(CT)与动态增强磁共振成像(DCE-MRI)对乳腺癌患者腋窝淋巴结有无转移的诊断价值。方法回顾性分析2014年2月\~2015年10月在我院就诊的乳腺癌的女性患者109例，以淋巴结病理检查结果为金标准,比较和分析MG、CT及DCE-MRI诊断乳腺癌腋窝淋巴结转移(LNM)的灵敏度、特异度、准确度、阳性预测值以及阴性预测值。结果纳人的乳腺癌患者中， $3 9 . 4 \% \left( 4 3 / 1 0 9 \right)$ 的患者病理确诊 $\mathrm { L N M } _ { \circ }$ MG诊断LNM的灵敏度、特异度、准确度、阳性预测值以及阴性预测值分别为： $1 4 . 0 \% . 8 4 . 8 \% . 5 6 . 9 \% . 3 7 . 5 \%$ 和 $6 0 . 0 \%$ 。CT诊断腋窝LNM的灵敏度、特异度、准确度、阳性预测值以及阴性预测值分别为： $9 3 . 0 \% . 5 7 . 6 \% . 7 1 . 6 \% . 5 8 . 8 \%$ 和 $9 2 . 7 \%$ 。DCE-MRI诊断腋窝LNM的灵敏度、特异度、准确度、阳性预测值以及阴性预测值分别为 $: 9 5 . 3 \% . 6 5 . 2 \% . 7 7 . 1 \% . 6 4 . 1 \%$ 和 $9 5 . 6 \%$ 。与病理结果相比较,MG、CT、DCE-MRI的κ值分别为-0.13、0.459、0.558。MG的特异度高于CT和DCE-MRI,但灵敏度、准确度、阳性预测值、阴性预测值均明显低于CT及DCE-MRI,差异具有统计学意义。DCE-MRI与CT相比，前者的灵敏度、特异度、准确度、阳性预测值、阴性预测值均高于后者，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。结论 对于乳腺癌腋窝LN有无转移,DCE-MRI的诊断效能明显优于CT和MG,而CT明显优于MG。DCE-MRI和CT均可以提供相对较准确的LNM相关情况，在这方面的临床应用价值较高。MG常不能为临床提供可靠的信息，利用MG判断LNM时必须谨慎，并结合其他检查。
+
+关键词：乳腺癌;淋巴结转移；钼靶；CT;DCE-MRI
+
+# Value of mamography, CT and DCE-MRI in detecting axillary lymph node metastasis ol breast cancer
+
+WUPeiqi²,LIUChunling²,LIU Zaiyi²,YEWeitaol,LIANGChanghong   
+SoutherMedicalUniversityGuangzhou510515，China;GuangdongGeneralHospital/GuangdongAcademyof Medical Science   
+Guangzhou 510080,China
+
+Abstract: Objective To evaluate the diagnostic valueof mammography， computed tomography (CT)，and dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI)for axilary lymph node staging in breast cancer patients.Methods From February,2014 toOctober,2015,109 women withbreastcancerreceivedexaminations with preoperative mamography CT,and DCE-MRI.Tediagnosticensitivityspecificityaccuracypositivepredictive value,andnegative predictivelueof the 3 modalities were evaluated using histopathologic assessments as the gold standard. Results In total, $3 9 . 4 \%$ (43/109) of the patients hadaxilary lymphnode metastasis.Thesensitivityspecificityacuracypositive predictive value,andnegative predictive value of mamography for determining lymph node metastasis were $1 4 . 0 \%$ ， $8 4 . 8 \%$ ， $5 6 . 9 \%$ ， $3 7 . 5 \%$ and $6 0 . 0 \%$ ， respectively; those of CT were $9 3 . 0 \%$ 5 $5 7 . 6 \%$ $7 1 . 6 \% , 5 8 . 8 \%$ and $9 2 . 7 \%$ , and those of DCE-MRI were $9 5 . 3 \%$ ， $6 5 . 2 \%$ 5 $7 7 . 1 \%$ $6 4 . 1 \%$ and $9 5 . 6 \%$ , respectively. Compared withthe histopathologic result, the Kappa coeficients of mamography, CT,and DCE-MRI were -0.13, 0.459 and 0.558, respectively. The specificity of mamography was significantly higher $_ { ( P < 0 . 0 5 ) }$ ,but its sensitivity, accuracy,positivepredictive value,and negativepredictive value were significantlylowerthan thoseof CTandDCE-MRI( $P <$ 0.05). Compared with CT,DCE-MRI had significantly higherensitivityspecificityaccuracypositivepredictive valueand negative predictive value for diagnosis of lymph node metastasis $( P { < } 0 . 0 5 )$ . Conclusion DCE-MRI has a greater diagnostic power than CT and mammography，and CT has a greater diagnostic power than mammography for axillry lymph node metastasis in breastcancer patients.Mamographyalone should beusedcautiouslyforthe diagnosis oflymph node metastasis.
+
+Keywords :breast neoplasms; lymph node metastasis; mamography; CT; DCE-MRI
+
+乳腺癌是女性最常见的恶性肿瘤之一，其主要转移途径为淋巴道转移，尤其是腋窝区域的淋巴结转移(LNM)，而腋窝淋巴结(LN)有无转移，对于乳腺癌患者的TNM分期极为重要，并且是决定患者预后的重要因素之一[]。因此,如何在术前对腋窝LN有无转移进行较为准确的评估，对乳腺癌手术方式的选择(如是否需要进行腋窝LN清扫等)及后续临床治疗方案的选择有重要意义[23]。乳腺钼靶(mamography,MG)和动态增强磁共振成像(dynamiccontrastenhancedmagneticresonanceimaging,DCE-MRI是乳腺癌患者的常用检查方法，计算机断层扫描(computed tomography,CT)常常作为乳腺癌患者术前筛查有无其他部位(如肺部、骨骼等)转移的检查方法，3者在乳腺癌患者腋窝LN有无转移方面均有一定的评估价值，相关研究也常有报道4，但未见对3种检查方法在LNM方面的评估价值的比较分析。因此，本文回顾性分析上述3种影像学检查方法对乳腺癌患者的LN有无转移的评估情况，并以术后LN病理检查结果为金标准，进行对照分析，以探讨这3种影像学方法在乳腺癌腋窝LNM评估中的价值。
+
+# 1资料和方法
+
+# 1.1一般资料
+
+对2014年2月\~2015年10月我院病理证实为乳腺癌的女性患者的临床资料(包括病理检查结果等)和影像资料(包括MG、CT和DCE-MRI)进行统计分析。排除标准：(1)无LN病理检查结果者；(2)MG、CT及DCE-MRI任一种影像资料不全者；(3)MG、CT和DCE-MRI这3种影像学检查时间间隔超过1周的患者;(4)进行影像学检查前曾进行化疗、放疗和/或手术等治疗者。最后共纳入109例患者作为研究对象。
+
+# 1.2检查设备及方法
+
+1.2.1 MG 采用机器:GE Senographe DS全视野数字系统乳腺机，摄影部位采用标准头尾位(CC位)和内外斜位(MLO位)，摄影内容必须包括整个乳房、腺体后脂肪、腋窝、胸大肌。必要时加照外头尾位(XCC位)或采取局部点压。
+
+1.2.2CT 采用机器:GELight SpeedVCT64排螺旋CT。先进行常规全胸平扫，再进行增强扫描，扫描参数为：层厚 $\mathrm { 1 ~ m m , P i t c h ~ 0 . 5 3 1 , 1 2 0 ~ k V , 2 5 0 ~ m A }$ 。扫描时间：0.4s/旋转周期。算法：标准重建算法。增强扫描：采用非离子型对比剂 $( 3 0 0 ~ \mathrm { m g I / m L } ) 1 0 0 ~ \mathrm { m L }$ ，使用高压注射器经前臂浅静脉注射，流率为 $3 . 5 ~ \mathrm { m L / s }$ ，扫描延迟时间为 $2 3 \mathrm { \ s _ { o } }$
+
+1.2.3DCE-MRI 采用机器:Philips $1 . 5 \mathrm { T }$ 超导MR系统(Achieva1.5TPhilips),接收线圈为4通道乳腺表面专用线圈。检查时患者取俯卧位，将双侧乳腺自然悬垂于专用乳腺相控阵线圈的凹形孔内，同时扫描双侧乳腺。先行常规 $\mathrm { T } _ { 1 } \mathrm { W I }$ 及抑脂 $\mathrm { T } _ { 2 } \mathrm { W I }$ 扫描。扫描参数： $\mathrm { T _ { 1 } W I : T R = } 4 . 8 \mathrm { ~ m }$ S, $\mathrm { T E } { = } 2 . 1 ~ \mathrm { m s }$ ，翻转角 $= 1 2 ^ { \circ }$ ；抑脂$\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 采用精准频率反转恢复(SPAIR)，平均次数2,$\scriptstyle \mathrm { T R } = 3 4 0 0 \mathrm { m s }$ $\scriptstyle \mathrm { T E = } 9 0 \mathrm { m s }$ ，回波链长度19,视野 $2 6 0 ~ \mathrm { { m m } \times }$ $3 2 0 ~ \mathrm { m m }$ ，层厚 $3 \mathrm { m m }$ ，层间距 $0 . 3 ~ \mathrm { m m }$ ,矩阵 $3 4 8 \times 3 0 0$ 。动态增强扫描：注药前平扫1次，使用高压注射器经肘静脉快速团注钆喷替酸葡甲胺(Gd-DTPA，gadopentetatedimeglumine,Magnevist；Bayer Healthcare,Berlin,Germany),0.1mmoL/kg体质量，继而快速推注 $2 0 ~ \mathrm { m L }$ 生理盐水。采用快速梯度回波序列行动态增强MRI,扫描参数： $\mathrm { T R } { = } 5 ~ \mathrm { m s }$ $\mathrm { T E } { = } 2 . 2 ~ \mathrm { m s }$ ，翻转角 $= 1 5 ^ { \circ }$ ,平均次数1,视野 $3 0 0 \ \mathrm { m m } { \times } 3 2 0 \ \mathrm { m m }$ ，矩阵 $3 0 0 \times 3 2 0$ ，层厚 $1 ~ \mathrm { m m } _ { \circ }$ 图像后处理：利用工作站(PhilipsEWS)，在强化明显区域画感兴趣区，获得时间-信号强度曲线。
+
+# 1.3图像分析及判断LN有无转移的影像学标准
+
+根据国内外研究报道，LN发生转移时，影像上可以观察到的征象包括：(1)形态改变：早期常表现为实质不均匀增厚[5],随着肿瘤细胞的侵犯,LN体积增大(最大短径常 ${ \geqslant } 1 0 ~ \mathrm { m m }$ )、纵横比减小(常<2),LN正常结构破坏，淋巴门消失，晚期肿瘤细胞破坏LN包膜时，可发生LN融合[；(2)强化特点改变：表现为强化程度增高(血流增加)，强化方式可为不均匀强化(肿瘤细胞侵犯部分LN实质)甚至环形强化(LN内部发生坏死)，DCE-MRI上动态增强曲线呈平台型甚至流出型(与乳腺癌强化特点一致)[7-8]。部分影像学相关研究在评价LNM时常常仅依据某些甚至是某个提示转移的征象，即认为转移阳性[3。然而,我们参考临床实际工作的经验并阅读国内外文献后，认为仅根据LN的某个可提示转移的征象去进行分析和诊断容易造成假阳性，因此我们将可提示LNM的征象作为观察指标，并根据其对LNM的提示作用的大小赋分，以表征其对于LNM的提示作用的大小4，如LN融合(2分)评分就高于LN不均匀增厚(1分，表1)。
+
+由本院两名具有多年乳腺影像诊断经验的放射科主治以上医师对采集的图像进行独立阅片，根据表1所示的评分标准，进行测量和评分。以评分>3分作为该项影像学检查诊断LN转移阳性的标准4。对结果有分歧的病例，由第3位放射科医师阅片后，取两个相同结果作为最终结果。需要说明的是,对于MG检查，一般在MLO位测量LN大小，以LN的最大径为为LN纵径(最长径)，以垂直于纵径的最大短径作为横径。对CT和DCE-MRI，以冠状位或轴位观察到的最长径为LN纵径，以同层面垂直于纵径的最大短径作为横径。纵横比=纵径/横径。对于CT,轻度强化表示增强前后CT值差值 ${ < } 3 0 \mathrm { ~ H U }$ ，中度强化差值在 $3 0 { \sim } 5 0 \ \mathrm { H U }$ ，明显强化指差值 $\scriptstyle \geqslant 5 0 { \mathrm { ~ H U } } ^ { [ 9 ] }$ 。对于DCE-MRI,早期强化率表示注射对比剂后早期( $3 \mathrm { m i n }$ )信号升高的程度，轻度强化指升高 ${ < } 5 0 \%$ ，中度强化指升高 $5 0 \% { \sim } 1 0 0 \%$ ，明显强化指升高$\gtrsim 1 0 0 \% ^ { [ 1 0 ] }$ 。DCE-MRI动态增强曲线主要指增强早期之后 $\left( 3 \operatorname* { m i n } \mathrm { \sim } 8 \operatorname* { m i n } \right)$ 信号的变化趋势，信号变化 $\mathop =$ （第8分钟信号 $\cdot 1 { \sim } 3 \ \operatorname* { m i n }$ 最强信号 $) / 1 { \sim } 3 \ \operatorname* { m i n }$ 最强信号1 $\times 1 0 0 [ \% ]$ 上升型表示早期之后信号升高 $5 \%$ ，平台型指信号变化在 $1 0 \% { \sim } 1 0 \%$ 之间，廓清型信号指信号减低 ${ \mathrm { s } } 1 0 \% ^ { [ 1 1 ] }$ 。医师在测量时应避免测量LN坏死区的CT值或信号曲线。
+
+表1MG、CT及DCE-MRI评估LN有无转移的评分标准 Tab.1 Scoring criteria for evaluation of lymph node metastasis in MG,CTand DCE-MRI   
+
+<html><body><table><tr><td>Characteristics</td><td>Score of MG</td><td>Score of CT</td><td>Score of DCE-MRI</td></tr><tr><td>Maximum short diameter</td><td></td><td></td><td></td></tr><tr><td><10 mm</td><td>0</td><td>0</td><td>0</td></tr><tr><td>≥10 mm</td><td>1</td><td>1</td><td>1</td></tr><tr><td>long diameter/short diameter</td><td></td><td></td><td></td></tr><tr><td>≥2</td><td>0</td><td>0</td><td>0</td></tr><tr><td><2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Fatty hilum</td><td></td><td></td><td></td></tr><tr><td>Present</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Absent</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Parenchyma of lympth node</td><td></td><td></td><td></td></tr><tr><td>Uniformity</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Asymmetry thickening</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Fusion</td><td>2</td><td>2</td><td>2</td></tr><tr><td>Enhancement</td><td></td><td></td><td></td></tr><tr><td>Homogeneous</td><td>-</td><td>0</td><td>0</td></tr><tr><td>Inhomogeneous</td><td>-</td><td>1</td><td>1</td></tr><tr><td>Circular</td><td>-</td><td>2</td><td>2</td></tr><tr><td>Degree of enhancement/early enhanced rate</td><td></td><td></td><td></td></tr><tr><td>Mild</td><td>-</td><td>0</td><td>0</td></tr><tr><td>Moderate</td><td>-</td><td>1</td><td>1</td></tr><tr><td>Distinct</td><td></td><td>2</td><td>2</td></tr><tr><td>Dynamic enhanced curve</td><td></td><td></td><td></td></tr><tr><td>Persistent</td><td>-</td><td></td><td>0</td></tr><tr><td>Plateau</td><td></td><td></td><td>1</td></tr><tr><td>Rapid washout</td><td></td><td></td><td>2</td></tr></table></body></html>
+
+# 1.4统计学分析
+
+以腋窝LN的术后病理检查结果作为金标准，与3种方法的诊断结果相比较。所得数据应用SPSS17.0统计软件进行分析，应用k系数检验评价3种方法与病理检查的一致性。计数资料采用四格表资料卡方检验，以$P { < } 0 . 0 5$ 为检验水准。用k系数检验3种方法同病理学检查结果的吻合度及一致性， $\kappa \mathrm { \geqslant } 0 . 7$ 表示吻合度较强，$0 . 7 5 \kappa \geqslant 0 . 4$ 表示吻合度一般， $\kappa { < } 0 . 4$ 表示吻合度较弱。3种影像学检查方法的诊断效能根据以下公式计算：灵敏度 $\dot { \mathbf { \eta } } = \mathbf { \eta }$ 真阳性/真阳性 $\cdot +$ 假阴性)；特异度 $\varprojlim \varXi$ 真阴性/假阳性 $^ +$ 真阴性)；准确度 $\scriptstyle \mathbf { \dot { \rho } } = { }$ （真阳性 $^ +$ 真阴性)/真阳性 $^ +$ 假阳性 $^ +$ 真阴性 $^ +$ 假阴性)；阳性预测值 $\stackrel { \cdot } { = }$ 真阳性/真阳性 $^ +$ 假阳性)；阴性预测值 $\varXi$ 真阴性/真阴性 $\cdot +$ 假阴性）。
+
+# 2结果
+
+# 2.1纳入研究患者的临床特点
+
+根据纳入标准及排除标准，最后共纳入109例乳腺癌患者，均为女性，年龄26\~74岁，平均年龄为48.54岁。所纳入患者的腺体类型分别为：脂肪型11例中 $( 1 0 . 1 \%$ ），少量型25例 $( 2 2 . 9 \%$ ），多量型69例 $( 6 3 . 3 \% )$ ，致密型4例 $( 3 . 7 \% )$ 。从乳腺癌病理类型来看，浸润性癌106例 $( 9 7 . 3 \% )$ ，原位癌2例 $( 1 . 9 \% )$ ,粘液癌1例 $( 0 . 9 \% )$ O从乳腺癌发生部位和数目来看，其中单侧单发乳腺癌90例 $( 8 2 . 6 \% )$ ,单侧多发乳腺癌14例 $( 1 2 . 9 \%$ ),双侧多发乳腺癌5例 $( 4 . 6 \% )$ ,双侧单发乳腺癌1例 $( 0 . 9 \% )$ 。
+
+# $2 . 2 \ \mathrm { L N }$ 病理检查及影像检查情况
+
+所纳入的109例乳腺癌患者中， $3 9 . 4 \%$ 的患者经病理证实有LN转移(43/109)，并且均为乳腺浸润性癌患者，而2例原位癌及1例粘液癌患者均未见LN转移。所有109例患者术后病理检查的病灶同侧LN共1321个，有转移的43例患者术后病理共检查病灶同侧LN817个（ $( 6 1 . 8 \%$ ),其中病理证实有转移的LN
+
+占 $2 5 . 5 \% \left( 2 0 8 / 8 1 7 \right) \$
+
+MG检查共计显示所有患者的病灶同侧LN199个（ $1 5 . 1 \% )$ ，对有转移的43例患者，MG共显示 $9 . 7 \%$ 的同侧 $\mathrm { L N } ( 7 9 / 8 1 7 )$ ,其中评分 $^ { \cdot > 3 }$ 分者仅占 $1 2 . 0 \% ( 2 5 / 7 9 )$ OCT检查共显示出病灶同侧LN949个 $( 7 1 . 8 \%$ )，对有转移的43例患者，CT共显示 $6 0 . 5 \%$ 的同侧 $\mathrm { L N } ( 4 9 4 / 8 1 7 )$ ，其中评分 $^ { \cdot > 3 }$ 分者占 $4 1 . 8 \% ( 8 7 / 4 9 4 )$ 。DCE-MRI检查共显示出病灶同侧LN672个( $5 0 . 9 \%$ ，对有转移的43例患者,DCE-MRI共显示 $3 9 . 4 \%$ 的同侧LN(322/817)，其中评分 ${ \cdot > } 3$ 分者占 $4 3 . 8 \% ( 9 1 / 3 2 2 )$ 。另外,在有淋巴结转移的43例患者中，仅有1例患者是3种影像学方法均未检出LNM，而其中有6例患者是3种影像学方法均检出LNM。MG、CT、DCE-MRI诊断LNM的结果与病理检查结果比较情况如表2所示。3种影像学检查方法的诊断效能如表3所示。
+
+<html><body><table><tr><td rowspan="2">Pathology</td><td rowspan="2">Case (n)</td><td colspan="2">MG</td><td colspan="2">CT</td><td colspan="2">DCE-MRI</td></tr><tr><td>Positive</td><td>Negative</td><td>Positive</td><td>Negative</td><td>Positive</td><td>Negative</td></tr><tr><td>Positive</td><td>43</td><td>6</td><td>37</td><td>40</td><td>3</td><td>41</td><td>2</td></tr><tr><td>Negative</td><td>66</td><td>10</td><td>56</td><td>28</td><td>38</td><td>23</td><td>43</td></tr><tr><td>Total</td><td>109</td><td>16</td><td>93</td><td>68</td><td>41</td><td>64</td><td>45</td></tr></table></body></html>
+
+表2影像学方法与病理检查对腋窝LNM的诊断结果 Tab.2 Detection of axillary lymph node metastasis by radiographic and histopathologic studies   
+表3MG、CT与DCE-MRI的诊断效能 Tab.3 Diagnostic performance of MG, CT and DCE-MRI   
+
+<html><body><table><tr><td>Evaluation indicator</td><td>MG (95% CI)</td><td>CT (95% CI)</td><td>DCE-MRI (95% CI)</td></tr><tr><td>Sensitivity</td><td>14.0% (3.6%-24.4%)</td><td>93.0% (85.4%-100%)</td><td>95.3% (89.0%-100%)</td></tr><tr><td>Specificity</td><td>84.8% (76.1%-93.5%)</td><td>57.6% (45.7%-69.5%)</td><td>65.2% (53.7%-76.7%)</td></tr><tr><td>Accuracy</td><td>56.9% (47.6%-66.2%)</td><td>71.6% (63.1%-80.1%)</td><td>77.1% (69.2%-85.0%)</td></tr><tr><td>Positive predictive value</td><td>37.5% (13.8%-61.2%)</td><td>58.8% (47.1%-70.5%)</td><td>64.1% (52.4%-75.9%)</td></tr><tr><td>Negative predictive value</td><td>60.0% (50.0%-70.0%)</td><td>92.7% (84.7%-100%)</td><td>95.6% (89.6%-100%)</td></tr></table></body></html>
+
+MG、CT、DCE-MRI的LNM诊断结果与病理结果相比较，k值分别为-0.13、0.459、0.558，即MG与病理结果的吻合度最弱，DCE-MRI、CT与病理结果的吻合度较高。进一步比较DCE-MRI与CT的差异，发现 $\cdot \chi ^ { 2 } =$ $2 7 . 5 6 6 , P { < } 0 . 0 5$ ,表明DCE-MRI与病理结果的吻合度更高，可以认为DCE-MRI的灵敏度、特异度、准确度、阳性预测值以及阴性预测值均优于CT。
+
+# 2.3正常LN和LNM的影像学表现
+
+正常LN呈肾形，一侧隆凸，连接数条输入淋巴管，另一侧凹陷(即淋巴门),有输出淋巴管、神经和血管等出入。正常LN的MG、CT和DCE-MRI影像如图1所示。
+
+LN发生转移时，往往会出现以下征象：(1)形态改变：早期常表现为实质不均匀增厚，随着肿瘤细胞的侵犯，LN体积增大、纵横比减小,LN正常结构破坏，淋巴门消失，晚期肿瘤细胞破坏LN包膜时，甚至发生LN融合；(2)强化特点改变：表现为强化程度增高、不均匀强化甚至环形强化，DCE-MRI上动态增强曲线呈平台型甚至流出型。乳腺癌患者原发癌灶及LNM的MG、CT和DCE-MRI影像如图2所示。
+
+# 3讨论
+
+本研究所选取的乳腺癌患者，在进行MG、CT和DCE-MRI这3种影像学检查前均未进行放疗、化疗和/或手术，并且3种检查时间相差不超过一周，因此患者的LN状况相对稳定，所得的结果也更具可比性。所有患者均有术后LN病理检查结果，并作为金标准，探讨和分析3种影像学方法的诊断效能。
+
+在LN显示方面，本研究发现CT显示的LN总数最多 $( 7 1 . 8 \%$ ),DCE-MRI( $5 0 . 9 \%$ )次之，而 $\mathrm { M G } ( 1 5 . 1 \% )$ 显示率最差。进一步分析比较CT和DCE-MRI,发现对于LN转移阳性的43例患者，尽管DCE-MRIC $3 9 . 4 \%$ 对患者病灶同侧LN的总显示率明显低于 $\mathrm { C T } ( 6 0 . 5 \% )$ ，然而根据评分标准，DCE-MRI $4 3 . 8 \%$ )最终诊断的LNM比例却高于 $\mathrm { C T } ( 4 1 . 8 \% )$ ，这说明虽然DCE-MRI显示腋窝LN的总体能力低于CT，但DCE-MRI显示LNM能力反而高于 $\operatorname { C T } ( \chi ^ { 2 } \mathrm { = } 9 . 7 2 7 , P \mathrm { = } 0 . 0 0 2 \mathrm { < } 0 . 0 5 )$ ，提示就这3种影像学检查方法而言，DCE-MRI在LNM的显示方面可能具有更高的价值。DCE-MRI显示正常LN的能力低于CT但显示LNM的能力高于CT的原因可能是：CT
+
+![](images/a13126b3aece6a9d32e12fbe42c4436797fa13362e46e5af18ae30908a3b4b31.jpg)  
+图1左侧腋窝正常淋巴结
+
+![](images/144a174a462f756dd12a92a622cf5ebc908f37a727a0f232d58ef282313029dc.jpg)  
+Fig.1Normal lymph nodes in the left axillary. A: Mammography (mediolateral oblique view) showing normal lymph nodes intheleftaxillarywithuniform parenchyma and fatty hilum; $B ,$ C: CT and DCE-MRI，respectively，showing uniform parenchyma and fatty hilum of the normal lymph node in the left axillary, and the afferent and efferent lymph vessels of the lymph node are shown clearly. $D$ ：Dynamic enhanced curve of normal lymph nodes in DCE-MRI showing a persistent enhancement.
+
+![](images/08b1a21a7e494cc6a995f6edf350fcbb5a029ef1b175223a0ac29d74ee272854.jpg)  
+图2女，53岁，右乳浸润性癌Ⅲ级，病理检查证实右侧腋窝4个淋巴结转移
+
+Fig.2Radiographicfndingsina53-yearoldfemalepatientwithrightbreastinvasivecarcinoma(gradeI)with4positivemetastatic lymphnodesintherightaxilaryconfirmedbypathologicalexamination.A:Mammography(craniocaudalview)oftherightbreast showingadensemasswithspiculatededge;BC:CTndDCE-MRIrespectivelyshowingacircularenhancedmassintheghtbreast with patchy necrosis and spiculated edge; $D$ ：Dynamic enhanced curve of DCE-MRI showing distinct enhancement of the tumor in earlystagewithrapid washout;E:Mammography(mediolateralobliqueview)showingtheprimarytumorintherightbreastwith multipleenlarged lymph nodes intherightaxillaryandeccentricthickeningof parenchymaandobliterationof thefatthilum. $F , G$ CTandDCE-MRrespectivelyshowing multipleenlargedandpartialfusionofthelymphnodesintherightaxillry.The lymph nodes showed circular enhancement with patchy necrosis inside; $H$ ：Dynamic enhanced curve of DCE-MRI showing distinct enhancement of the tumor in early stage with rapid washout.
+
+上LN(无论有无转移)的密度与周围脂肪分界清楚，较易辨别；而乳腺DCE-MRI主要应用的是乳腺专用线圈，得到的MRI图像中乳房显示清晰，而腋窝区域分辨率较差，如LN无明显强化(正常LN常为轻度强化)，则很难将正常LN与周围组织区分开来。而LNM除形态学上同一般LN有不同外，强化程度常为明显强化，动态增强曲线常为流出型或平台型，有助于DCE-MRI将有转移的LN与周围组织以及正常LN鉴别开来。然而，大多研究更关心影像学诊断结果与病理检查结果的符合程度,并未注意到DCE-MRI的这一特点[2.4,12],但我们认为DCE-MRI的这一特点是有一定临床意义的，即DCE-MRI可显示的淋巴结数目较少，且所见LN未出现LNM的征象时，LNM的可能性较低;而当DCE-MRI可显示的淋巴结数目较多，影像医师应当提高警惕，仔细察看所见淋巴结是否出现LNM的相关征象，以免漏诊LNM。
+
+比较MG、CT和DCE-MRI对乳腺癌患者的LNM诊断效能，结果发现：MG除特异性高于CT和DCE-MRI外，其他诊断效能均明显低于CT和DCE-MRI,可能的原因有：(1)MG视野较小，LN显示率低，是影响MG的诊断效能的最直接原因；(2)此外，MG图像为二维图像且无增强扫描，因此MG检查仅仅可以提供LN的形态学信息，缺乏LN的血供相关情况等信息，我们可以从MG图像中提取的信息过少，导致其灵敏度、准确度及阳性预测值均明显低于CT和DCE-$\mathbf { M R I } _ { \mathrm { o } }$ 本研究的MG诊断效能与一些研究相类似[13],如谢四梅等4的研究中MG的灵敏度、特异度、准确度、阳性预测值、阴性预测值分别为 $1 6 . 3 \% , 9 8 . 2 \% , 6 2 . 2 \%$ 、$8 6 . 7 \% . 6 1 . 5 \%$ 。另外， $\mathbf { M G } ( - 0 . 1 3 )$ 同病理检查结果比较的k值均明显低于DCE-MRI(0.558)和 $\mathbf { C T } ( 0 . 4 5 9 )$ ，这主要是因为MG的漏诊率和假阴性率过高，提示MG诊断结果不宜作为临床术前判断有无LNM的唯一参考标准，必须结合其他检查，以免对患者的手术方案的选择造成不良影响。
+
+CT和DCE-MRI的诊断效能较好，二者相比较，发现DCE-MRI的各项诊断效能明显优于 $\mathrm { C T } ( \chi ^ { 2 } { = } 2 7 . 5 6 6$ $P { = } 0 . 0 0 0 { < } 0 . 0 5$ )。因此本研究认为3种影像学检查方法中，对乳腺癌患者的LNM诊断的最佳方法为DCE-MRI。有关于DCE-MRI在乳腺癌患者的腋窝LNM方面的研究较多，大部分研究中DCE-MRI的诊断效能与本研究类似[48]。另外，由于MRI可采集不同的序列,提取到不同的信息，有一定的诊断价值，因此一些非增强序列，如 $\mathrm { T } _ { 1 } \mathrm { W I } \ 、 \mathrm { D W I } \ 、 \mathrm { T } _ { 2 } \ast \mathrm { W I }$ 等序列在LNM诊断方面的应用亦有相关研究[14]。Scaranelo等[12]的研究结果显示， $\mathbf { T } _ { 1 } \mathbf { W } \mathbf { I }$ 的敏感度、特异度、准确度分别为 $8 8 \%$ 、$82 \%$ 和 $8 5 \%$ ,DWI则分别为 $84 \%$ 、 $7 7 \%$ 和 $80 \%$ 。Li等[15]利用 $\mathbf { T } _ { 2 } { \mathrm { ^ { * } W I } }$ MRI对LNM进行的研究，发现 $\mathbf { T } _ { 2 } { \ast } \mathbf { W } \mathbf { I }$ 诊断LNM的敏感度、特异度、阳性预测值和阴性预测值分别为 $9 4 . 6 \% . 9 8 . 5 \% . 9 8 . 1 7 \%$ 和 $9 5 . 5 4 \%$ 。提示这些序列对于LNM诊断的潜在应用价值较大。
+
+CT是乳腺癌患者术前诊断和临床分期的重要检查手段，可提示是否有其他部位(如肺部、骨骼以及肾上腺等)的转移，对于乳腺癌患者的诊断、分期、治疗以及预后均有重要意义[9。但由于CT显示LN较为清晰，有利于观察LN的形态特征，并且增强CT检查还可观察LN的血供情况，因此我们将CT对LN的评估也纳入了本研究中，并和MRI进行了一一对照的比较。在本研究中，参照我们的评分标准进行诊断，最终CT的诊断效能尽管仍较MRI差，但各项指标已经相对较高，这提示影像医师，CT对于乳腺癌患者的LN有无转移，也可提供较好的参考信息，切勿遗漏CT提示的重要信息。
+
+本研究中DCE-MRI、CT同病理结果的吻合度仅为一般水平，略低于一些研究[24,说明这2种影像学方法的检查结果同淋巴结病理检查结果存在一定的差异，仅能为临床提供一定的乳腺癌术前的腋窝LN状况的参考。因此，临床医师在选择手术方案时，既要参考影像学结果，也要注意对照影像学和前哨淋巴结的病理检查结果，最后决定是否进行LN清扫。甚至有研究认为，当DCE-MRI和CT怀疑乳腺癌患者有LNM时，不进行前哨LN的检查而直接进行LN清扫可能对病人更为有益[16]。
+
+目前，除MG、CT及DCE-MRI这3种影像学方法外，判断LN有无转移的方法还包括触诊、超声以及PET-CT等。触诊主要依赖LN的大小和质地等,漏诊、误诊率较高，不能作为术前诊断和分析的可靠标准4。超声操作简便，费用低，常用于乳腺癌筛查，其在LN预测方面的研究相对较多[17],乐坚等[18]的术前专项超声在诊断前哨LNM方面的灵敏度、特异度、准确度、阳性预测值、阴性预测值分别为 $4 7 . 1 \% . 8 8 . 6 \% . 8 1 . 3 \% . 4 7 . 1 \% ,$ $8 8 . 6 \%$ 。PET-CT(如 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG显像)可以提示LN组织的摄取和代谢情况，其在LNM方面的诊断价值的研究也较多。据An等[9的研究报道， ${ } ^ { 1 8 } \mathrm { F } .$ -FDGPET-CT敏感度、特异度、准确度、阳性预测值和阴性预测值 $6 2 . 7 \%$ 、$8 8 . 6 \% . 7 8 . 6 \% . 7 7 . 6 \%$ 和 $7 9 . 1 \%$ ，而MRI则分别为 $7 2 . 3 \%$ /$7 7 . 3 \% . 7 5 . 3 \% . 6 6 . 7 \%$ 和 $8 1 . 6 \%$ ，两者相比并无显著差异，他们更建议将两种方式结合起来，以便提供更为可靠的LNM预测信息。值得注意的是，PET-CT还可显示全身其他的转移灶，对于乳腺癌中晚期的患者可能更具有应用价值。但该法具有放射性且较为昂贵，临床上较难广泛应用。
+
+本研究对比了3种影像学方法在诊断LNM时的诊断效能，对以后的临床工作有一定的指导意义。但本研究也存在一定的局限性，由于时间较短且病人情况较为复杂，所纳入的乳腺癌患者病例数相对较少，并且没有纳入其他影像学方法(如超声、PET-CT等)。另外,本研究只是回顾性的分析研究，没有做一些前瞻性研究，例如这些影像学方法对乳腺癌及转移性LN的放化疗评价等。不过这也为我们不断改进研究方法、设想新的研究思路提供了可能。
+
+总而言之，DCE-MRI是目前较好的诊断LN有无转移的影像方法。其敏感性、准确度、及阳性预测值均较CT和MG高，这为临床判断是否需要进行腋窝LN清扫提供了丰富和较为准确的参考信息，但DCE-MRI与病理检查结果的吻合度仍较一般，需要不断改进。CT作为术前常用的检查方法之一，在判断乳腺癌患者有无其他部位转移(如肺转移、骨转移等)方面具有良好的价值。MG由于自身视野的局限性，常常不能为临床提供LN有无转移的可靠信息。期待更多相关的研究和更好的影像诊断LN转移的标准，提高影像学方法诊断LNM的灵敏度、准确度等，为临床提供更可靠的参考依据，为乳腺癌患者的诊断、分期和治疗做出更大的贡献。
+
+# 参考文献:
+
+[1]Park SH,Jeong YM, Cho SH,et al. Imaging findings of variable axillary mass and axillary lymphadenopathy[J].Ultrasound Med Biol,2014,40(9): 1934-48.   
+[2]吴伟华,严志汉,刘绪明,等.多排螺旋CT评估腋窝淋巴结预测乳腺 癌手术方式的研究[J].中华实验外科杂志,2015,32(10):2532-3.   
+[3]De Felice C, Cipolla V, Stagnitti A,et al. Diagnostic accuracy of 1.5 Tesla breast magnetic resonance imaging in the pre-operative assessment of axillary lymph nodes [J].Eur JGynaecol Oncol, 2015,36(4): 447-51.   
+[4]谢四梅,张安秦,朱彩霞,等.触诊及影像学检查对乳腺癌腋淋巴结转 移状况预测价值探讨[J].中华肿瘤防治杂志,2014,21(15):1179-83.   
+[5]Lw B.Breast imaging[M].Philadelphia: Elsevier,2011:168-72.   
+[6]Hyun SJ,Kim EK,Yoon JH,et al.Adding MRI to ultrasound and ultrasound-guided fine-needle aspiration reduces the false-negative rate of axillary lymph node metastasis diagnosis in breast cancer patients[J]. Clin Radiol,2015,70(7):716-22.   
+[7]Yun SJ,Sohn YM, Seo M.Differentiation of benign and metastatic axillary lymph nodes in breast cancer: additive value of MRI computer-aided evaluation[J]. Clin Radiol, 2016,71(4): 401-3.   
+[8]Kuijs VJ,Moossdorff M, Schipper RJ,et al. The role of MRI in axillary lymph node imaging in breast cancer patients: a systematic review[J]. Insights Imaging,2015,6(2): 203-15.   
+[9]洪庆山,许乙凯,郭庆禄,等.MSCT对乳腺癌及早期淋巴结转移的应 用价值[J].实用放射学杂志,2014,30(4):603-5,634.   
+[10]Park VY,Kim EK,Kim MJ,et al.Breast parenchymal signal enhancement ratio at preoperative magnetic resonance imaging: association with early recurrence in triple-negative breast cancer patients[J].Acta Radiol,2015,2(4312): 386-9.   
+[11] Chaudhury B,Zhou M,Goldgof DB,et al.Heterogeneity in intratumoral regions with rapid Gadolinium washout correlates with estrogen receptor status and nodal metastasis [J].J Magn Reson Imaging,2015,42(5): 1421-30.   
+[12]Scaranelo AM,Eiada R, Jacks LM,et al.Accuracy of unenhanced Mr imaging in the detection of axillary lymph node metastasis: study of reproducibility and reliability[J].Radiology,2O12,262(2): 425-34.   
+[13]唐立岷,马 超.\~(18)F-FDGPET/CT在诊断浸润性乳腺癌和淋巴结 转移中的价值[J].上海交通大学学报:医学版,2012(6):761-5.   
+[14]lima M, Kataoka M,Okumura R,et al. Detection of axillary lymph node metastasis with diffusion-weighted Mr imaging [J].Clin Imaging,2014,38(5): 633-6.   
+[15]Li C,Meng S, Yang X, et al. The value of ${ \mathrm { T } } 2 ^ { * }$ in differentiating metastatic from benign axillary lymph nodes in patients with breast cancer-a preliminary in vivo study[J].PLoS One,2014,9(1): e84038.   
+[16]Hwang SO,Lee SW, Kim HJ, et al. The comparative study of ultrasonography,Contrast-Enhanced MRI,and (18)F-FDG PET/CT for detecting axillary lymph node metastasis in T1 breast cancer[J].J Breast Cancer,2013,16(3): 315-21.   
+[17]Nowikiewicz T, Nowak A,Wisniewska M, et al. Diagnostic value of preoperative axillary lymph node ultrasound assessment in patients with breast cancer qualified for sentinel lymph node biopsy [J]. Wideochir Inne Tech Maloinwazyjne,2015,10(2): 170-7.   
+[18]乐 坚,柳光宇,陈 敏,等.专项超声对早期乳腺癌腋下淋巴结的评估 价值[J].中华超声影像学杂志,2015,24(1):60-3.   
+[19]An YS,Lee DH, Yoon JK,et al. Diagnostic performance of ${ } ^ { 1 8 } \mathrm { F } .$ FDG PET/CT,ultrasonography and MRI. Detection of axillary lymph node metastasis in breast cancer patients [J].Nuklearmedizin,2014,53(3): 89-94. (编辑.级摇)

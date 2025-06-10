@@ -1,0 +1,230 @@
+# 基于地区线性矩法的陕西省极端降水时空特征
+
+罗志文²，王小军4，刘梦洋²，柯杭，万婷，尹义星²1.中国电建集团江西省电力设计院有限公司,江西 南昌330096；2.南京信息工程大学,江苏 南京210044;3.南京水利科学研究院,水文水资源与水利工程科学国家重点实验室,江苏 南京210029；4.水利部应对气候变化研究中心,江苏 南京210029；5.福州市气象局,福建 福州350008;6.江西省科技交流中心,江西 南昌 330096)
+
+摘要：基于1971—2015年陕西省无缺测情况、分布较均匀的58个气象站点的逐日降水数据,采用最大1日、3日、5日和7日的降水量代表极端降水,应用地区线性矩法研究区域极端降水的时空特征。结果表明：（1）陕西省可划分为6个水文气象一致区,其中广义极值分布(GEV)在各一致区的模拟效果最好,各一致区最优频率估计值与同频率的实测值较为吻合。（2）地区分析法计算的极端降水频率估计值较单站分析法具有更好的稳健性和准确性，尤其是在计算较长时段的极端降水情况下更显著。（3）重现期为2a一遇时，陕南的地区增长因子大于陕北;重现期达到5a一遇时则相反，且随着重现期的增长,地区增长因子及其在陕南、陕北的差异也在增大。（4)在10a和50a一遇重现期下,极端降水在陕西省南部较大，东部居中，中部的咸阳至商洛地区、西部的延安西北和榆林西部较小;极端降水的分布特征与陕西省独特的地理特征有关,尤其是东西向分布的秦岭阻挡了水汽向北输送,造成了极端降水的南北差异。
+
+关键词：陕西省；极端降水；时空特征；地区线性矩法
+
+在全球气候变暖背景下，极端降水事件发生的频次明显增加[-4],对农业生产、社会经济、生命安全和生态环境等方面造成了严重的影响。近年来，针对区域极端降水的现状，翟盘茂等[5-6通过对中国近几十年极端降水事件特征的分析，指出极端降水的平均强度和极端降水事件的发生频率都呈增大趋势。对于地区性极端降水的特征，众多学者探索并分析其原因，如杨涵洧等研究发现，西太平洋暖池异常升温造成的海陆温差减小，是中国东部夏季极端降水1990年前后出现转变的重要驱动因素之一。龙妍妍等[8指出，高原夏季风的强弱会造成我国不同地区夏季极端降水的增减，而中高层环流系统特征、中低层风场特征、水汽输送特征和湿位涡特征是其对极端降水影响的物理机制。
+
+亦有大量学者对陕西省极端降水事件开展研究，如郑小华等9发现，陕西年最大降水量和强降水发生频次均呈现增加趋势，并分别在20世纪70年代中期和80年代中期发生突变;王雯燕[10]发现，陕西汛期极端降水事件发生频次的第一模态是北部与其他地区呈反位相变化，第二模态是以秦岭为界的南北间反向变化。李双双等"分析了秦岭地区4种极端降水类型的时空变化特征，进而指出当气温升高时，持续性极端降水呈下降趋势，单日型极端降水呈增加趋势。肖科丽等[2]则从环流与海温异常分析了2010年陕西夏季极端多雨的原因。可见，陕西省极端降水的研究中，气象学者从极端降水的类型、强度、频次和成因等方面进行了深入研究，得出了一些重要的结论。
+
+陕西省地处我国内陆腹部，南部以山地为主，北部以黄土高原为主，横跨湿润-半湿润区和干旱-半干旱区，其气候特征具有过渡性，是研究气候变化的典型区域。研究陕西省的极端降水特征，可以为全球变暖及水循环变异特征提供理论基础。针对极端降水的频率分析，通常是对其进行线性拟合和参数估计等，进而得出极端降水频率估计值，其极端降水估计方法包括常规矩、概率权重矩、线性矩和地区分析法等。地区线性矩法是在线性矩的基础上，对研究区进行了一致区划分，并进一步估计站点的降水频率设计值，是当前广泛应用的区域极端降水频率分析方法，可显著提升参数估计的精准性和频率估计的准确性[13-14],同时,水文气象一致区的划分中综合考虑了水文气象和地理条件(经纬度、高程和地形地貌等）。该方法已被国内不少学者用于地区极端降水的分析[15-17]。目前,针对陕西省进行极端降水的频率分析中，牛晨[18基于线性矩法，选用3种线型对关中平原极端降水的频率进行了深人分析，其频率估计值与实测值有较好的一致性。但对于整个陕西省，还没有相应的极端降水地区频率研究。因此，本研究基于研究区新近的逐日降水资料，采用地区线性矩法分析陕西省极端降水的重现期和时空分布特征，可综合分析陕西省不同气候区的极端降水频率，对于区域防灾减灾具有一定参考意义。
+
+N海拔高度/m3748 府谷 A神木125 榆林气象站点 横山 县靖边 子堡正吴旗 志丹安塞 月A甘泉川 宜A 黄龙宜君长武 白水合阳荀邑 耀县千阳麟游乾县 渭南华山宝鸡岐山 秦都凤县太白。 兴平 W 商县略阳 留坝佛坪 宁陕镇安 柞水 山阳丹凤宁强南郑 勉县城固 石泉汉阳阳 商南镇巴紫阳平利0 80kmL U
+
+# 数据与方法
+
+# 1.1数据
+
+本文选取陕西省58个气象站点的降水数据与陕西省的DEM资料，气象数据为国家气象信息中心提供的逐日降水资料，序列长度为1971—2015年，气象站点分布见图1。DEM资料来自地理空间数据云。
+
+利用陕西省1971—2015年共45a的逐日降水资料，提取出58个站点的年最大1日降水（AMP1）、年最大3日降水（AMP3）、年最大5日降水（AMP5）和年最大7日降水（AMP7)，并基于此研究陕西省极端降水时空特征。
+
+# 1.2 研究方法
+
+1.2.1地区线性矩法地区线性矩法包括线性矩法和地区分析法，其中，线性矩法是一种新的参数估计方法，其估计参数具有很好的无偏性和稳健性;而地区分析法基于研究区内所有站点的历史降水资料，其基本思想是"以空间来换时间”，可以克服观测资料序列长度较短的不足，通过分析一致区内气象站点的频率分布曲线，进而计算出各站点的降水频率估计值。地区线性矩法综合了上述2种方法的优点，已经在国内外很多地区成功运用[19-21]。该方法的详细介绍,参考Hosking等的研究[22]
+
+线性矩的概念由Hosking[23]提出,其基本思想是计算服从某种分布函数的次序统计量的期望值，并对其进行线性组合。假设 $X$ 服从某一分布函数，$X _ { 1 : n } \leqslant X _ { 2 : n } \leqslant \cdots , X _ { n : n }$ 是次序统计量，将 $r$ 阶线性矩变量定义为：
+
+$$
+\lambda _ { _ { r } } = r ^ { - 1 } { \sum _ { k = 0 } ^ { r ^ { - 1 } } } ( - 1 ) ^ { k } C _ { _ { r - 1 } } ^ { k } E X _ { _ { r - k : r } } \quad r = 1 , 2 , \cdots , n
+$$
+
+式中： $X _ { r - k : r }$ 是样本容量为 $\boldsymbol { r }$ 、排在第 $r - k$ 位的次序统计量; $E X _ { r - k : r }$ 为次序统计量 $\boldsymbol { X } _ { r - k : r }$ 的期望值; $C _ { r - 1 } ^ { k }$ 是从 $r - 1$ 个不相同的元素中选取 $k$ 个元素的组合数。
+
+$X$ 的前四阶线性矩为：
+
+$$
+\begin{array} { r l } & { l _ { 1 } = n ^ { - 1 } \displaystyle \sum _ { i = 1 } ^ { n } x _ { i } } \\ & { l _ { 2 } = \displaystyle \frac { 1 } { 2 } \left( n \right) ^ { - 1 } \displaystyle \sum _ { i = j + 1 } ^ { n } \sum _ { j = 1 } ^ { n - 1 } \left( X _ { i n } - X _ { j n } \right) } \\ & { l _ { 3 } = \displaystyle \frac { 1 } { 3 } \left( n \right) ^ { - 1 } \displaystyle \sum _ { i = j + 1 } ^ { n } \sum _ { j = k + 1 } ^ { n - 1 } \sum _ { k = 1 } ^ { n - 2 } \left( X _ { i n } - 2 X _ { j n } + X _ { k n } \right) } \\ & { l _ { 4 } = \displaystyle \frac { 1 } { 4 } \left( n \right) ^ { - 1 } \displaystyle \sum _ { i = j + 1 } ^ { n } \sum _ { 2 } ^ { n } \sum _ { k = 1 } ^ { n - 1 } \sum _ { k = 1 } ^ { n - 2 } \sum _ { t = 1 } ^ { n - 3 } \left( X _ { i n } - 3 X _ { j n } + 3 X _ { k n } - X _ { k n } \right) } \end{array}
+$$
+
+式中： $n$ 为样本容量，基于依次增加的次序，$X _ { 1 : n } \leqslant X _ { 2 : n } \leqslant \cdots , X _ { n : n }$ 为样本次序统计量;利用前四阶样本线性矩可推求其统计特征参数，包含离差系数$\big ( \bigtriangledown L - C _ { \scriptscriptstyle V } \big )$ ）、偏态系数 ${ \bf \Xi } ( L - C _ { s }$ )和峰度系数 $\left( \begin{array} { l } { L - C _ { \cal K } } \end{array} \right)$ ，计算公式如下：
+
+$$
+\begin{array} { c } { { L - C _ { \nu } = t = \displaystyle \frac { l _ { 2 } } { l _ { 1 } } } } \\ { { { } } } \\ { { L - C _ { s } = t _ { 3 } = \displaystyle \frac { l _ { 3 } } { l _ { 2 } } } } \\ { { { } } } \\ { { L - C _ { k } = t _ { 4 } = \displaystyle \frac { l _ { 4 } } { l _ { 2 } } } } \end{array}
+$$
+
+地区分析法的研究对象必须属于水文气象一致区，其在极端降水特性上具有相同的气候背景和统计特性。该方法将降水序列分解为两部分，即反映本站点降水特性的本地分量和反映区域降水共性的区域分量。推算站点的频率估计值时，综合考虑这2种分量，使得计算结果更加可信。频率估计值的计算公式如下：
+
+$$
+Q _ { \mathit { \Pi } _ { T , i , j } } { = } q _ { T , i } \bar { x } _ { i , j }
+$$
+
+式中： $T$ 为所要推求极端降水的重现期; $i$ 代表各一致区； $j$ 为相应一致区内的站点; $q _ { T , i }$ 为一致区 $i$ 的频率因子，反映该区各站点共有的极端降水特性，称为地区频率因子或地区增长因子，可利用该区的最优分布曲线和分布参数求得，而分布参数可通过区域线性矩系数推求； $\bar { x } _ { i , j }$ 为本地分量因子,为 $i$ 区 $j$ 站点极端降水量的多年平均值。根据公式(4)可得：
+
+$$
+q _ { T , i } = \frac { Q _ { T , i , j } } { \bar { x } _ { i , j } }
+$$
+
+即站点频率估计值经过去均值化，就可以得到反映地区共性的极端降水分量，即地区增长因子。1.2.2水文气象一致区的划分为使一致区内的站点具有相同的水文气象背景，本文从以下3个方面对站点进行一致区的划分：
+
+（1）气象学上的判定，即一致区内的各站点在水汽入流和物理成因等背景条件上要相同，这方面通常借助海拔、地貌和环流特征等进行综合判定。
+
+(2）水文学上的判定，即一致区内各站点的极值序列应该为同一分布，也就是各站点的离差系数、偏态系数和峰度系数在一定的容忍度内保持一致。各站点是否属于一致区，通常使用异质性检验指标 $H _ { 1 }$ 来判断，当 $H _ { 1 } < 1$ 时，认为该一致区可以接受
+
+(3）不和谐检验，经过气象学与水文学上的判定后，水文气象一致区可初步确定，然后计算出一致区内各站点的不和谐度指标 $D _ { i }$ ,如果不和谐度 $D _ { i }$ 均小于临界值，则认为该一致区划定合理，如果存在个别站点的不和谐度 $D _ { i }$ 超过临界值，则需要将不和谐的站点移到周围区域，甚至将该站剔除。
+
+1.2.3最优分布线型的确定水文领域上通常使用2\~5个参数的分布线型进行频率计算，其中，三参数分布线型在模拟极端降水的分布时不仅准确，而且应用灵活方便。在地区线性矩方法中，三参数分布线型中的广义逻辑斯蒂分布(GLO）、广义极值分布（GEV）、广义正态分布（GNO）、广义帕雷托分布(GPA)和皮尔逊Ⅲ型分布(PE3)最为常用[24]，所以本文选用上述5种分布进行陕西省极端降水的模拟。首先利用蒙托卡洛(Monte-Carlo)模拟各一致区极端降水的最优分布线型，其次，通过对比一致区内各站点的平均线性峰度系数和所选择分布线型峰度系数之间的差异，判断拟合效果好坏，实际工作中,通常借助统计量 $\boldsymbol { Z } ^ { \mathrm { { p u s T } } }$ 来判断，当 $| Z ^ { \mathrm { { D I S T } } } | \leqslant 1 . 6 4$ 时，认为拟合结果可以接受；而 $| Z ^ { \mathrm { { \mathrm { D I S T } } } } |$ 越趋近于0，则拟合结果越好。这里之所以选择1.64,是因为 $\boldsymbol { Z } ^ { \mathrm { { \scriptscriptstyle D I S T } } }$ 服从标准正态分布，并且以显著性水平 $\alpha = 0 . 1$ 确定。
+
+# 2 结果分析
+
+# 2.1数据统计检验
+
+地区线性矩方法要求对数据序列进行充分的统计检验，如平稳性和独立性等，以保证频率估计值的可靠性，实际上，平稳性和独立性也是水文频率分析中的2个基本假定[13]。Mann-Kendall趋势检验法可检验数据序列的平稳性，而一阶自相关系数可检验数据序列的独立性。本文采用上述2种方法分别对陕西省58个气象站点的极端降水序列（AMP1、AMP3、AMP5、AMP7)进行检验(图2）。
+
+由图2a可见，在陕西省58个气象站点的MannKendall趋势检验中，AMP1、AMP3、AMP5、AMP7序列分别有32、28、33、35个站点呈上升趋势，上升站点多位于安康北部、咸阳、宝鸡北部、榆林东部和西南角，其中榆林西南角的定边站上升趋势最明显，而安康市旬阳站的下降趋势最明显。所有站点中，仅5个站点的个别极端降水序列上升或下降趋势通过了0.05的显著性水平检验，占全部序列的 $4 \%$ ，而其余气象站点的极端降水序列均无显著趋势，因此，可以认为陕西省的极端降水序列是平稳的。由图2b可见，对于一阶自相关系数，仅2个站点的AMP1序列通过了0.05的显著性水平检验，占全部极端降水序列的 $1 \%$ ，而其他站点的极端降水序列均无显著的自相关，因此，可以认为陕西省的极端
+
+![](images/b16bac1ecbe2fa1eafab78bc59e518afd71d49fb300178f38c6112153a78d4cd.jpg)  
+注：星号标记表明通过0.05显著性水平检验。  
+图2陕西省58个气象站点极端降水的Mann-Kendall趋势(a)和一阶自相关(b)检验结果 Fig.2Mann-kendall trend (a)and first-order autocorrelation (b)test results of extreme precipitation at 58 meteorological stations in Shaanxi Province
+
+降水序列是独立的。
+
+# 2.2水文气象一致区的划分
+
+水文气象一致区的划分过程，首先，采用K-均值法(依据站点经纬度、高程和年降水量)进行聚类分析，将陕西省划分为若干个区；然后，考虑到陕西省独特的气候与地形特征，结合不和谐检验指标 $D _ { \mathrm { i } }$ 和异质性检验指标 $H _ { 1 }$ ，对聚类分析所得分区进行适当的调整，使各区内站点尽量位于同一气候与地形条件下，最后，对调整后的各一致区极端降水序列进行异质性检验与不和谐检验。在调整过程中，如果有分区未通过上述2个检验，则将不和谐的站点移到相邻分区，或者将该分区划分为2个分区，甚至将该站点删除，如此对研究区的各分区进行反复调整。
+
+经过多次调整，本文最终将陕西省划分为6个水文气象一致区，表1为各一致区内站点的异质性检验 $H _ { 1 }$ 结果。由表1可知，6个分区的各极端降水序列均通过了异质性检验，即 $H _ { 1 }$ 均小于1;同时，除了商南站AMP1序列外( $D _ { i }$ 为1.93,略微超过临界值1.92)，所有站点的极端降水序列均通过不和谐检验。图3为陕西省6个水文气象一致区最终的划分结果，与图1对比可见，一致区划分与陕西省的地形
+
+# 表1各一致区内气象站点的异质性检验 ${ \pmb H } _ { 1 }$ 结果
+
+Tab.1 Heterogeneity test $( H _ { 1 } )$ results of meteorological stations within each homogeneous region   
+
+<html><body><table><tr><td>一致区</td><td>AMP1</td><td>AMP3</td><td>AMP5</td><td>AMP7</td></tr><tr><td>1区</td><td>0.88</td><td>0.19</td><td>-1.53</td><td>-0.97</td></tr><tr><td>2区</td><td>-1.07</td><td>-0.58</td><td>-1.34</td><td>-1.57</td></tr><tr><td>3区</td><td>-0.44</td><td>-2.32</td><td>-3.03</td><td>-2.84</td></tr><tr><td>4区</td><td>0.98</td><td>-1.48</td><td>-0.47</td><td>-0.96</td></tr><tr><td>5区</td><td>0.36</td><td>-0.39</td><td>0.28</td><td>0.28</td></tr><tr><td>6区</td><td>0.95</td><td>-0.41</td><td>0.49</td><td>0.11</td></tr></table></body></html>
+
+特征基本一致。图3中，1区位于最北部，有12个站点，地形以高原为主;2区位于黄土高原，有10个站点，地形以高原为主，1区的海拔低于2区。3区主要位于渭河流域，有12个站点，地形主要是平原和丘陵；4区主要位于秦岭山地，有5个站点，地形以山地为主，海拔最高;5区位于秦岭南部的东侧，有7个站点，地形主要是丘陵和山地；6区位于秦岭南部的西侧，有12个站点，地形也以丘陵和山地为主。
+
+# 2.3最优分布线型的确定
+
+考虑到AMP1、AMP3、AMP5和AMP7各序列的结果比较类似，下文主要以AMP1和AMP7为代表给出结果。表2为各一致区备选分布的拟合优度检验结果。其中，GEV分布的拟合效果最好，GLO、GNO和PE3的拟合效果也较好（对于4种极端降水序列，GEV共有12次被选为最优的分布线型，GLO、GNO和PE3则分别有13、22、13次被选为可接受的分布线型）。GPA的拟合效果较差，但在5区的AMP5和AMP7序列中，却是唯一的可接受分布线型，其中的原因还有待进一步分析。
+
+![](images/e737158c2305aa1272645b9c48aa645ed2c36cba7ded49960b48c4e4f20e759b.jpg)  
+注：左上角区域为各一致区及对应一致区AMP1的最优分布。 图3陕西省基于极端降水的水文气象一致区划分结果 Fig.3Results of hydrometeorological homogeneous region classification based on extreme precipitation in Shaanxi Province
+
+本研究中数据序列长度为45a，故极值序列的最大值可近似看作50a一遇的真值，将其与频率估计值相比较，可以间接反映估计值的准确性。在前文的分区中，1区、3区、6区分别位于陕北、陕中和陕南，分别属于黄土高原、关中平原和秦巴山地，可以反映陕西不同地表形态下的降水特征。表3分别给出这3个分区的AMP1序列实测值和 $5 0 \mathrm { a }$ 一遇的频率估计值，以及两者间的相对误差(RE)。可以发现，相对误差主要集中在 $0 \sim 3 0 \%$ 之间，有少数站点的相对误差超过 $3 0 \%$ 。其中，宁陕站的相对误差达到 $5 2 . 4 \%$ ,为相对误差的最大值,其实测最大值超过多年平均值的4倍，而相对误差较小的站点，实测最大值一般在多年平均值的2倍左右。
+
+# 表2各一致区备选分布的拟合优度检验结果
+
+Tab.2 The goodness-of-fit test results of alternative distributions in each homogeneous region   
+
+<html><body><table><tr><td>序列</td><td>分区</td><td>最优分布</td><td>Zmin</td><td>可接受的分布</td></tr><tr><td>AMP1</td><td>1</td><td>GEV</td><td>0.29</td><td>GEV GNO PE3</td></tr><tr><td></td><td>2</td><td>GEV</td><td>-0.67</td><td>GLOGEVGNO</td></tr><tr><td></td><td>3</td><td>GLO</td><td>0.55</td><td>GLO GEV GNO</td></tr><tr><td></td><td>4</td><td>GEV</td><td>-0.56</td><td>GLO GEVGNO PE3</td></tr><tr><td></td><td>5</td><td>GNO</td><td>-0.09</td><td>GEV GNO PE3</td></tr><tr><td></td><td>6</td><td>GEV</td><td>0.05</td><td>GEVGNO PE3</td></tr><tr><td>AMP7</td><td>1</td><td>GEV</td><td>-0.02</td><td>GEVGNO PE3</td></tr><tr><td></td><td>2</td><td>GEV</td><td>-0.66</td><td>GLO GEVGNO</td></tr><tr><td></td><td>3</td><td>GEV</td><td>-0.31</td><td>GLO GEVGNO</td></tr><tr><td></td><td>4</td><td>GEV</td><td>-0.26</td><td>GLO GEVGNO PE3</td></tr><tr><td></td><td>5</td><td>GPA</td><td>-0.54</td><td>GPA</td></tr><tr><td></td><td>6</td><td>PE3</td><td>0.11</td><td>GEVGNO PE3</td></tr></table></body></html>
+
+利用绘点公式，计算各站点AMP1序列实测值对应的经验频率，再确定该经验频率下的地区分析法估计值，将两者进行比较，可以间接反映估计值的准确性。采用的绘点公式如下：
+
+$$
+P = ( i + A ) / ( n + B )
+$$
+
+式中： $i$ 为各站点AMP1序列从小到大排序的序号；$n$ 为各站点AMP1序列的长度； $A$ 和 $B$ 为绘点公式参数,本文 $A$ 取值为-0.35, $B$ 取值为 $0 ^ { [ 2 5 ] }$
+
+基于公式(6)，求出各站点AMP1序列实测值所对应的经验频率，并基于最优分布求出该经验频率对应的频率估计值。图4为各一致区实测值和频率估计值的散点图，可看出实测值与频率估计值存在较好的线性相关，判决系数均超过0.76，均达到0.01的显著性水平。另外，在实测值较小时，即重现期较短时，频率估计值较准确(散点位置接近图中的对角线），其中，1\~3区的实测值在 $5 0 \mathrm { m m }$ 左右时， $4 \sim$ 6区的实测值在 $7 5 \ \mathrm { m m }$ 左右时，所对应的频率估计值最准确。当实测值较大，即重现期较长时，频率估计值明显小于实测值，且误差随实测值的增大而增大。
+
+# 2.4单站分析法和地区分析法的比较
+
+在单站分析中，各站点极端降水的最优拟合分布可由极值图确定，以陕北的子洲站和陕南的山阳站为例(图5)。由图5可以看出，5个常用的分布中，PE3分布与子洲站的AMP1序列拟合效果最好，而GPA分布与山阳站的AMP1序列拟合效果最好，即子洲站和山阳站AMP1序列的最优拟合分布分别为PE3和GPA。同理可得其他各站点的最优拟合分布。
+
+# 表3研究区站点AMP1序列的实测最大值与频率估计值(50a一遇)的比较
+
+Tab.3 Comparison of the measured maximum value of AMP1 in the study area   
+
+<html><body><table><tr><td colspan="6">with the estimated quantiles (50-year return period)</td></tr><tr><td>分区</td><td>站点</td><td>Ob(mea))</td><td>Obs(max)</td><td>Es1-50y</td><td>RE/%</td></tr><tr><td>1区</td><td>府谷</td><td>52.7</td><td>181.8</td><td>117.0</td><td>35.6</td></tr><tr><td></td><td>榆林</td><td>51.9</td><td>105.7</td><td>115.3</td><td>9.1</td></tr><tr><td></td><td>神木</td><td>56.8</td><td>141.1</td><td>126.2</td><td>10.6</td></tr><tr><td></td><td>佳县</td><td>53.4</td><td>216.4</td><td>118.5</td><td>45.2</td></tr><tr><td></td><td>横山</td><td>45.2</td><td>92.3</td><td>100.4</td><td>8.7</td></tr><tr><td></td><td>子洲</td><td>61.3</td><td>150</td><td>136.0</td><td>9.3</td></tr><tr><td></td><td>吴堡</td><td>57.4</td><td>112.5</td><td>127.4</td><td>13.3</td></tr><tr><td></td><td>清涧</td><td>56.2</td><td>98.5</td><td>124.8</td><td>26.7</td></tr><tr><td></td><td>延川</td><td>59.1</td><td>157.4</td><td>131.1</td><td>16.7</td></tr><tr><td></td><td>延长</td><td>56.3</td><td>115.1</td><td>124.9</td><td>8.5</td></tr><tr><td></td><td>宜川</td><td>56.4</td><td>113.2</td><td>125.1</td><td>10.5</td></tr><tr><td></td><td>靖边</td><td>47.0</td><td>113.2</td><td>104.3</td><td>7.9</td></tr><tr><td>3区</td><td>陇县</td><td>58.7</td><td>214.6</td><td>124.1</td><td>42.2</td></tr><tr><td></td><td>宝鸡</td><td>59.1</td><td>169.7</td><td>124.9</td><td>26.4</td></tr><tr><td></td><td>千阳</td><td>63.9</td><td>175.1</td><td>135.0</td><td>22.9</td></tr><tr><td></td><td>麟游</td><td>53.5</td><td>152.4</td><td>113.1</td><td>25.8</td></tr><tr><td></td><td>岐山</td><td>59.3</td><td>116.1</td><td>125.3</td><td>7.9</td></tr><tr><td></td><td>白水</td><td>65.3</td><td>174.2</td><td>137.9</td><td>20.8</td></tr><tr><td></td><td>合阳</td><td>57.5</td><td>114.7</td><td>121.6</td><td>6.0</td></tr><tr><td></td><td>乾县</td><td>53.0</td><td>117.3</td><td>111.9</td><td>4.6</td></tr><tr><td></td><td>耀县</td><td>52.6</td><td>96.5</td><td>111.1</td><td>15.1</td></tr><tr><td></td><td>兴平</td><td>52.5</td><td>146.7</td><td>111.0</td><td>24.3</td></tr><tr><td></td><td>渭南</td><td>48.6</td><td>102.8</td><td>102.7</td><td>0.1</td></tr><tr><td></td><td>秦都</td><td>46.5</td><td>158.5</td><td>98.3</td><td>38.0</td></tr><tr><td>6区</td><td>略阳</td><td>73.9</td><td>161.8</td><td>143.8</td><td>11.2</td></tr><tr><td></td><td>勉县</td><td>68.5</td><td>147.5</td><td>133.3</td><td>9.6</td></tr><tr><td></td><td>城固</td><td>63.1</td><td>103.8</td><td>122.8</td><td>18.3</td></tr><tr><td></td><td>宁强</td><td>88.2</td><td>184.6</td><td>171.7</td><td>7.0</td></tr><tr><td></td><td>南郑</td><td>73.2</td><td>151.8</td><td>142.5</td><td>6.1</td></tr><tr><td></td><td>宁陕</td><td>74.5</td><td>304.5</td><td>145.0</td><td>52.4</td></tr><tr><td></td><td>紫阳</td><td>93.5</td><td>210.8</td><td>182.1</td><td>13.6</td></tr><tr><td></td><td>石泉</td><td>77.4</td><td>126</td><td>150.7</td><td>19.6</td></tr><tr><td></td><td>汉阴</td><td>80.8</td><td>163.7</td><td>157.3</td><td>3.9</td></tr><tr><td></td><td>镇巴</td><td>121.9</td><td>238.2</td><td>237.3</td><td>0.4</td></tr><tr><td></td><td>平利</td><td>69.6</td><td>112.4</td><td>135.4</td><td>20.5</td></tr><tr><td></td><td>镇坪</td><td>75.6</td><td>174.2</td><td>147.2</td><td>15.5</td></tr></table></body></html>
+
+注： ${ \mathrm { O b s } } ( { \mathrm { m e a n } } )$ 是AMP1序列的平均值， $\mathrm { { O b s } ( m a x ) }$ 是AMP1序列的最大值， $\mathrm { E s t } { - 5 0 } \mathrm { y }$ 是50a一遇的频率估计值。
+
+采用单站分析法和地区分析法分别进行计算，得到陕西省58个站点在不同重现期下2种方法的频率估计值，并分别计算相对均方根误差(RMSE)值。相对RMSE越小，说明拟合效果越好，准确性越高，图6为AMP1和AMP7序列在 $5 0 \mathrm { a }$ 一遇之下相对RMSE值的箱线图。可以发现，地区分析法的相对RMSE值波动范围显著小于单站分析法的相对RMSE值（地区分析法的 $2 5 \%$ 和 $7 5 \%$ 分位数十分接近，因此，箱线图中的盒子很小），说明地区分析法的相对RMSE值很稳定，此结果与刘梦洋等[的结果基本一致。
+
+从箱线图来看，对于AMP1序列，地区分析法相对RMSE值大多位于单站分析法相对RMSE值的波动范围内，两者平均值的差距较小(仅2区例外)；对于AMP7序列，地区分析法的相对RMSE值较单站分析法明显偏小，两者平均值差距较大（仅6区例外）。因此，地区分析法在计算较长时段极端降水的频率估计值时，准确性更高。
+
+# 2.5地区增长因子的分布
+
+一致区内各站点共有的极端降水特性的频率因子，称为地区增长因子，其实质是具有相同水文气象条件的一致区内，一定重现期的极端降水相对于多年平均极端降水的增幅大小。表4给出各一致区不同重现期下AMP1序列的地区增长因子。可以发现，当重现期为2a一遇时，地区增长因子小于1,且4、5、6区的地区增长因子大于1、2、3区;当重现期达到5a一遇时，地区增长因子大于1,且1、2、3区的地区增长因子大于4、5、6区。另外，随着重现期的增长，地区增长因子在增大，且陕南和陕北的地区增长因子差异也在增大，这是造成不同一致区之间极端降水频率估计值差异的一个主要因素。根据公式(5)，当重现期很小，如2a一遇时，其频率估计值小于多年平均极端降水，而陕南极端降水事件较多，其2a一遇频率估计值和多年平均极端降水的差异小于陕北，导致陕南的地区增强因子大于陕北。当重现期较大时，如大于5a一遇，频率估计值可能大于多年平均极端降水，且重现期越大，频率估计值越大，相应的地区增长因子也越大。同时，陕北地区一般降水偏少，因而多年平均极端降水也较小，但某些年份的极端降水很高，从而造成重现期较长时陕北地区的地区增长因子大于陕南地区。
+
+一致区内各站点的地区增长因子是相同的，即一致区内的极端降水差异是由各站点本地分量的差异造成。例如， $5 0 \mathrm { a }$ 一遇的情况下，位于1区的子洲站，其AMP1本地分量达 $6 1 . 2 7 \mathrm { m m }$ ,而1区其他站点的AMP1本地分量大多为 $4 5 { \sim } 5 5 ~ \mathrm { m m }$ ,小于子洲站的极端降水本地分量，这就导致子洲站 $5 0 \mathrm { a }$ 一遇的
+
+![](images/495f7a763fc652467a83cb25ff9fde1f8cefdc66f47431e92081ec82569c88e5.jpg)  
+图4一致区内各站点实测值与频率估计值的结果比较
+
+![](images/00b78cbe04360fcebaeeb81900768fb7dbb88df72c580d0e0e6fcc991e48e969.jpg)  
+Fig.4 Comparison of measured values and estimated quantiles of different stations in the homogeneous region   
+注：横坐标的简化变量，为不及制概率 $( F )$ 通过 $- \mathrm { l o g } [ - \mathrm { l o g } ( { \cal F } ) ]$ 转换得到的简化变量形式。  
+图5子洲站(a)和山阳站(b)AMP1的极值  
+Fig.5The extreme value plot of AMPl at Zizhou Station (a) and Shanyang Station (b)
+
+AMP1达到 $1 3 6 . 0 1 \ \mathrm { m m }$ ，而同频率下1区其他站点的AMP1为 $1 1 0 { \sim } 1 2 5 ~ \mathrm { m m }$ 。另外，不同一致区的地区增长因子是不同的，即具有相同的本地分量的情况下，如果站点位于不同的一致区，其极端降水频率估计值是有差异的。例如， $5 0 \mathrm { a }$ 一遇的情况下，丹凤站的AMP1本地分量为 $6 1 . 2 8 ~ \mathrm { m m }$ ，与子洲站AMP1本地分量接近，但由于商南站位于5区，地区增长因子为1.93,而子洲站位于1区，地区增长因子为2.22,最终丹凤站的AMP1频率估计值为118.46mm,小于子洲站的 $1 3 6 . 0 1 \ \mathrm { m m }$ 。
+
+![](images/0d4cd9de229e6b69e004c385805aaa404108eeb81f4a0a3d9c81eb2517fd21c2.jpg)  
+图6单站分析法和地区分析法频率估计值(50a一遇)的相对RMSE箱线图 Fig.6Boxplotof relative RMSEof thequantiles for single station analysisand regional analysis (50-year retur period)
+
+表4一致区不同重现期下AMP1的地区增长因子  
+Tab.4Regional growth factors of AMP1 at different return periods in the homogeneous region   
+
+<html><body><table><tr><td>分区</td><td>2a</td><td>5a</td><td>10a</td><td>20a</td><td>50a</td><td>100a</td><td>200a</td><td>500a</td><td>1000a</td></tr><tr><td>1</td><td>0.91</td><td>1.28</td><td>1.55</td><td>1.83</td><td>2.22</td><td>2.54</td><td>2.89</td><td>3.38</td><td>3.79</td></tr><tr><td>2</td><td>0.91</td><td>1.25</td><td>1.49</td><td>1.74</td><td>2.10</td><td>2.39</td><td>2.70</td><td>3.15</td><td>3.53</td></tr><tr><td>3</td><td>0.91</td><td>1.25</td><td>1.49</td><td>1.75</td><td>2.11</td><td>2.41</td><td>2.74</td><td>3.20</td><td>3.59</td></tr><tr><td>4</td><td>0.93</td><td>1.25</td><td>1.47</td><td>1.69</td><td>2.00</td><td>2.24</td><td>2.48</td><td>2.83</td><td>3.10</td></tr><tr><td>5</td><td>0.93</td><td>1.23</td><td>1.44</td><td>1.65</td><td>1.93</td><td>2.16</td><td>2.39</td><td>2.72</td><td>2.98</td></tr><tr><td>6</td><td>0.93</td><td>1.24</td><td>1.45</td><td>1.66</td><td>1.95</td><td>2.17</td><td>2.40</td><td>2.71</td><td>2.96</td></tr></table></body></html>
+
+# 2.6频率估计值的时空分布
+
+利用地区线性矩法计算出陕西省50a一遇和100a一遇极端降水的频率估计值，并借助ArcGIS的空间分析功能绘制等值线图(图7)。由图7可知，4个序列(AMP1、AMP3、AMP5、AMP7)在2个重现期下的极端降水频率估计值空间分布较为相似，均为南部极端降水较大，而中部的咸阳至商洛地区、西部的延安西北角和榆林西部降水较小，陕西省东部的极端降水介于前两者之间，总体上大致是从南往北减少。其中，6区的频率估计值最大，最大值位于6区的南部中心，AMP1可达 $2 7 0 ~ \mathrm { m m }$ ，AMP7可达
+
+![](images/ef1d59468a08517f19d77bfb9095c72eeaa0505c3b90ae9d4c48ce35db535722.jpg)  
+图7陕西省50a一遇AMP1(a)和AMP7(b)和100a一遇AMP1(c)和AMP7(d)极端降水频率估计值的空间分布 Fig.7Spatial distributionof the estimated quantiles at 50-year AMP1(a)and AMP7(b)and 100-year AMPl(c)and AMP7(d) return period of extreme precipitation in Shaanxi Province
+
+$5 0 0 ~ \mathrm { m m }$ 。而在西侧的黄土高原区，AMP1最低只有$9 0 ~ \mathrm { m m }$ ,AMP7则只有 $1 4 0 ~ \mathrm { m m }$ 。可见,陕西省的极端降水频率值分布非常不均匀，这与陕西省独特的地理分布有关(图1)。陕西省南部海拔较低，可接受到南方输送来的水汽，而由于秦岭海拔较高(陕西省内约 $2 0 0 0 \mathrm { m } .$ ),横跨陕西省中南部，阻挡了南方水汽的北进[26],导致中部和和北部的极端降水频率估计值明显小于南部。位于秦岭北侧背风坡的陕西省中部地区、海拔较高的西部黄土高原地区，极端降水的频率估计值最小。将本文结果与王雯燕[0]的研究进行对比，可以发现,本文中陕西省50a一遇和100a一遇极端降水的频率估计值分布图与王雯燕[的陕西省近60a来极端降水强度、阈值的分布特征类似，仅在3区部分站点出现了频率估计值偏小的现象，这可能是由于3区降水偏少，而地区线性矩法剔除了极端降水个别异常值而造成的。总体来看，基于地区线性矩法计算的陕西省极端降水频率估计值是可靠的。
+
+陕西省地形多为山地、丘陵和高原，极端降水的发生很容易诱发泥石流和山体滑坡等灾害，即使在极端降水频率估计值较小的中部和北部，由于其地质条件脆弱，突发的极端降水也能造成很大的危害。例如，2010年商洛市山阳县(属于5区)发生的“7.23"特大暴雨，局部地区的 $2 4 \mathrm { ~ h ~ }$ 降水量超过190$\mathbf { m } \mathbf { m }$ ，造成11680栋房屋倒塌，15人死亡;2017年7月26日，榆林市北部发生特大暴雨,其中横山、米脂、子洲(属于1区)日降水量达 $1 1 1 . 1 \ \mathrm { m m } \cdot 1 4 0 . 3 \ \mathrm { m m } .$ $2 1 8 . 7 \ : \mathrm { m m }$ ,均突破历史极值，而强降水又引起洪涝、泥石流等危及生命和财产安全的重大灾害。地区线性矩法具有对特大值的稳健性，个别极端的异常值不会影响地区频率曲线，计算单站频率估计值的时候，是采用历年最大值的平均与地区增长因子相乘而得到的。所以陕北地区出现的极端降水异常值，对图7的结果影响不大。综上分析，对于陕西省极端降水造成的多种水文气象灾害，人们应该给与更多的关注。
+
+# 3结论与讨论
+
+本文采用1971—2015年陕西省无缺测情况、分布较均匀的58个气象站点的逐日降水数据，运用地区线性矩法分析该省极端降水的时间和空间特征，
+
+取得主要结论如下：
+
+（1）研究区绝大多数站点的极端降水无显著趋势，也无显著的自相关，因此数据序列通过水文频率分析的平稳性和独立性2个主要的基本假设。
+
+(2）利用K-均值法对气象站点进行聚类分析，并结合不和谐检验指标 $D _ { i }$ 和异质性检验指标 $H _ { I }$ ，对分区进行适当调整，最终将陕西省划分为6个水文气象一致区，其中，GEV分布的模拟效果最好，各区最优频率估计值与同频率的实测值较为吻合。
+
+（3）相对均方根误差RMSE证实地区分析法的优势，在计算极端降水的频率估计值时，地区分析法所得结果较单站分析法更为稳健，且对于较长时段的频率估计值，地区分析法的准确性更高。
+
+（4）地区分析法的结果，当重现期为2a一遇时，陕南的地区增长因子大于陕北；当重现期达到5a一遇时则相反，且随着重现期的增长，地区增长因子在增大，在陕南、陕北的差异也在增大，这也是造成不同一致区之间极端降水频率估计值差异的一个主要因素。
+
+（5）在100a和50a一遇的重现期下，陕西省南部的极端降水较大，中部的咸阳至商洛地区、西部的延安西北角和榆林西部较小，东部居中。最大值位于6区的南部，AMP1可达 $2 7 0 ~ \mathrm { m m }$ ，AMP7可达$5 0 0 ~ \mathrm { m m }$ ,而中部和西侧的黄土高原极端降水最小，AMP1只有 $9 0 \mathrm { m m }$ ,AMP7则只有 $1 4 0 ~ \mathrm { m m }$ 。陕西省极端降水的分布特征与其独特的地理特征有关，尤其是秦岭的东西分布阻挡了水汽向北输送。
+
+陕西省从南至北纬度跨度大，地形地貌和气候等差异明显，极端降水在陕西省不同区域有较大差异。基于地区线性矩法对陕西省进行水文气象一致区的划分，这非常契合陕西省地理特征空间差异大的特征。同时，陕西省南部暴雨多发，北部黄土高原区地质地貌条件脆弱，极端降水的频率分析对其极端降水和滑坡、泥石流等灾害的防灾减灾具有重要意义。但本次研究也发现，AMP1、AMP3、AMP5和AMP7各序列的极端降水频率估计值在陕西省的分布特征相似。这是因为陕西省极端降水具有季节性，多发生在夏季，因此各序列极端降水在发生时间上有重合。因此，下一步作者将针对AMP1、AMP3、AMP5和AMP7各序列极端降水频率估计值的差异进行深人研究，探讨不同时段对陕西省极端降水的影响。
+
+参考文献(References):   
+[1]任正果,张明军,王圣杰,等.1961—2011年中国南方地区极端 降水事件变化[J]. 地理学报,2014,69(5): 640-649.[Ren Zhengguo, Zhang Mingjun, Wang Shengjie,et al. Change in precipitation extremes in South China during l961-2011[J].Acta Geographica Sinica, 2014, 69(5): 640-649.]   
+[2]刘梦洋,王小军,柯杭,等.甘肃省陇东地区夏季极端降水及典 型年环流特征分析[J].干旱区研究,2021,38(3):775-784.[Liu Mengyang,Wang Xiaojun,Ke Hang,et al.Analysis of extreme summer precipitation characteristics and typical years'circulation characteristics in Longdong Region[J]. Arid Zone Research, 2021, 38(3): 775-784.]   
+[3]Re M,Barros VR. Extreme rainfalls in SE South America[J]. Climatic Change,2009,96(1-2): 119-136.   
+[4]Hu Y, Maskey S, Uhlenbrook S.Trends in temperature and rainfall extremes in the Yellow River source region, China[J]. Climatic Change,2012,110(1):403-429.   
+[5]翟盘茂,王萃萃,李威.极端降水事件变化的观测研究[J].气候 变化研究进展,2007,3(3):144-148.[Zhai Panmao,Wang Cuicui,Li Wei.A review on study of change in precipitation extremes [J]. Advances in Climate Change Research,2007,3(3): 144-148.]   
+[6]杨金虎,江志红,王鹏祥,等.中国年极端降水事件的时空分布 特征[J].气候与环境研究,2008,13(1):75-82.[Rang Jinhu,Jiang Zhihong, Wang Pengxiang,et al.Temporal and spatialcharacteristic of extreme precipitation event in China[J]. Climatic and Environmental Research,2008,13(1): 75-82.]   
+[7]杨涵洧,龚志强,王晓娟,等.中国东部夏季极端降水年代际变 化特征及成因分析[J].大气科学,2020,45(2):1-14.[Yang Hanwei, Gong Zhiqiang,Wang Xiaojuan, et al.Analysis of the characteristics and causes of interdecadal changes in the summer extreme precipitation over Eastern China[J]. Chinese Journal of Atmospheric Sciences,2020,45(2): 1-14.]   
+[8]龙妍妍,范广洲,李飞,等.高原夏季风对中国夏季极端降水的 影响研究[J].高原气象,2018,37(1):1-12.[Long Yanyan,Fan Guangzhou,Li Fei, et al. Study on the influence of plateau summerextremeprecipitationover China[J].Plateau Meteorology, 2018, 37(1): 1-12.]   
+[9]郑小华,娄盼星,刘环,等.陕西极端降水时空变化特征研究[J]. 沙漠与绿洲气象,2019,13(4): 9-16.[Zheng Xiaohua,Lou Panxin, Liu Huan,etal.Spatial and temporal variabilityof extreme precipitation in the Shaanxi Province during 1961-201l[J].Desert and Oasis Meteorology,2019,13(4): 9-16.]   
+[10] 王雯燕.陕西50多年来汛期极端降水事件变化特征研究[D].成 都:成都信息工程大学,2016.[Wang Wenyan.Study on the Variation Characteristics of Extreme Precipitation Events in Shaanxi Over the Past 50 Years[D]. Chengdu: Chengdu University of Information Technology,2016.]   
+[11] 李双双,汪成博,延军平,等.面向事件过程的秦岭南北极端降 水时空变化特征[J].地理学报,2020,75(5): 989-1007.[Li Shuangshuang,Wang Chengbo, Yan Junping,et al. Variability of the event-based extreme precipitation in the South and North Qinling Mountains[J].Acta Geographica Sinica,2020,75(5): 989-1007.]   
+[12] 肖科丽,王娜,魏娜,等.2010年陕西盛夏极端多雨的气候特征 及成因研究[J].气候与环境研究,2014,19(3):311-320.[Xiao Keli,Wang Na,Wei Na,etal. Climatic features and cause analysis of extreme rain events in Shaanxi during the midsummer of 2O1O[J]. Climatic and Environmental Research,2014,19(3): 311-320.]   
+[13] Yin Y X,Chen H S,Xu C Y,et al. Spatio-temporal characteristics of the extreme precipitation by L-moment-based index-flood method in the Yangtze River Delta Region, China[J].Theoretical & Applied Climatology,2016,124(3-4): 1005-1022.   
+[14] 李孟芮,敖天其,黎小东.地区线性矩法在四川省暴雨频率分析 中的应用[J].西南农业学报,2019,32(8):1938-1943.[Li Mengrui,Ao Tianqi,Li Xiaodong.Regional frequency analysis in hydrological frequency analysis of Sichuan Province[J]. Southwest China Journal of Agricultural Sciences,2019,32(8): 1938-1943.]   
+[15]吴俊梅,林炳章,邵月红.地区线性矩法在太湖流域暴雨频率分 析中的应用[J].水文,2015,35(5):15-22.[Wu Junmei,Lin Bingzhang,Shao Yuehong.Application of regional L-moments analysis method in precipitation frequency analysis for Taihu Lake Basin [J]. Journal of China Hydrology,2015,35(5):15-22.]   
+[16] 刘梦洋,尹义星,韩翠,等.基于地区线性矩法的江西省极端降 水频率分析[J].水电能源科学,2018,36(9):1-5.[Liu Mengyang,Yin Yixing,Han Cui, et al.Frequency analysis of extreme precipitation in Jiangxi Province based on regional L-moments method[J].Water Resources and Power,2018,36(9): 1-5.]   
+[17] 陈希,林炳章,吴俊梅,等.水文气象分区线性矩法在广西暴雨 频率分析中的应用[J].水电能源科学,2014,32(11):5-9.[Chen Xi,Lin Bingzhang,Wu Junmei, et al.Application of hydrometeorological regional L-moments method to storm frequency analysis in Guangxi[J]. Water Resources and Power,2014,32(11): 5-9.]   
+[18]牛晨.关中地区极端降水时空变化规律及频率分布研究[D].杨 凌：西北农林科技大学,2018.[Niu Chen. Study on Spatial and Temporal Variation of Extreme Precipitation and Frequency Distribution in Guanzhong Area[D]. Yangling: Northwest A&F University,2018.]   
+[19] 李敏,林炳章,邵月红,等.地区线性矩法估算的暴雨频率设计 值空间连续性问题探[J].水文,2015,35(4):14-19.[Li Min, Lin Bingzhang, Shao Yuehong,et al. Study on spatial continuity of precipitationquantile estimates basedonregionalL-momentsanalysis [J]. Journal of China Hydrology,2015,35(4): 14-19.]   
+[20] Kumar R, Chatterjee C. Regional flood frequency analysis using Lmoments for North Brahmaputra Region of India[J]. Journal of Hydrologic Engineering,2005,10(1): 1-7.   
+[21] 李孟芮,敖天其,黎小东.基于地区线性矩法对四川省水文频率 分析的研究[J].水利水电技术,2018,49(11):54-61.[Li Mengrui,Ao Tianqi,Li Xiaodong.Regional L-moments analysis-based study on hydrological frequency analysis of Sichuan Province[J]. Water Resources and Hydropower Engineering,2018,49(11): 54-61.]   
+[22]Hosking JR M,Wallis.Regional Frequency Analysis: An Approach Based on L-moments[M]. Cambridge: Cambridge University Press, 1997.   
+[231Hosking IR M.I-moments: analvsis and estimation of distribiltions using linear combinations of order statistics[J]. Journal of the Royal Statal Society. Series B(Methodological),1990,52(1): 105-124.   
+[24]邵月红,吴俊梅,李敏.基于水文气象分区线性矩法的淮河流域 极值降雨频率分析[J].水文,2016,36(6):16-23.[Shao Yuehong, Wu Junmei,Li Min.Frequency analysis of extreme precipitation in Huaihe River Basin based on hydrometeorological regional L-moments method[J].Journal of China Hydrology,2016,36(6):16-23.]   
+[25]邵月红,刘玲,吴俊梅,等.基于年最大抽样序列的暴雨频率估 计值的修正研究[J].水文,2019,39(1):9-16.[Shao Yuehong,
+
+Liu Ling,Wu Junmei,et al.Revision of extreme precipitation frequency estimation based on annual maximum series[J]. Journal of China Hydrology,2019,39(1):9-16.] [26]殷田园,殷淑燕,李富民.秦岭南北区域夏季极端降水与西太平 洋副热带高压的关系[J].干旱区研究,2019,36(6):1379-1390. [Yin Tianyuan,Yin Shuyan,Li Fumin.Relationship between the summer extreme precipitation in the South and North of the Qinling Mountains and the Western Pacific Subtropical High[J].Arid Zone Research,2019,36(6): 1379-1390.]
+
+# Spatiotemporal characteristics of extreme precipitation in Shaanxi Province based on the regional L-moments method
+
+LUO Zhiwen'²， WANG Xiaojun³4， LIU Mengyang²， KE Hang§，WAN Ting， YIN Yixing² (1.Power China Jiangxi Electric Power Engineering Co.,LTD.,Nanchang 33Oo96,Jiangxi, China;   
+2.Nanjing UniversityofInformation Science and Technology,Nanjing 210O44,Jiangsu,China;3.NanjingHydraulic Research Institute,State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering, Nanjing 210029,Jiangsu,China; 4.Research Center for Climate Change,Ministry of Water Resources,Nanjing 210029, Jiangsu, China; 5.Fuzhou Meteorology Bureau,Fuzhou 35oo08,Fujian, China; 6.Jiangxi Science and Technology Exchange Center,Nanchang 330096,Jiangxi, China)
+
+Abstract: Extreme precipitation can cause severe disasters in arid and semi-arid regions,such as in the Shanxi Province of Northern China.To investigate the spatiotemporal characteristics of extreme precipitation in the Shaanxi Province,this study adopted the daily precipitation data of 58 meteorological stations from 1971 to 2015 with no missing observations and relatively uniform distribution and used the maximum precipitation on the 1st, 3rd,5th,and 7th day to represent the extreme precipitation.The regional L-moments method was further applied to study the temporal and spatial characteristics of the extreme regional precipitation,which involves the screningand processing of precipitation data, identificationof homogeneous regions, goodness-of-fit test,quantile estimation for each region,comparison between at-site and regional estimation,deriving regional growth factors, and mapping of the spatial paterns of extreme precipitation.The results and conclusions of the study were: (1) Shaanxi Province can be divided into six hydrometeorological homogeneous regions,among which GEV distribution in each homogeneous region has the best simulation efect,and the estimated optimal quantiles of each homogeneous region are in good agreement with the measured value of the same frequency.(2） The estimated extreme precipitation quantiles calculated by the regional analysis method have bettr robustness and accuracy compared with the single-station analysis method,especially more significant in calculating extreme precipitation over a long period. (3) When the return period is once every 2 years,the regional growth factor of southern Shaanxi is greater than that of northern Shaanxi; when the return period is once every 5 years,the opposite is true,and with the increase of the return period,the regional growth factor and the diffrence between southern Shaanxi and northern Shaanxi also increase.(4） In the lO0-and 50-year return periods,extreme precipitation is large in the south,centered in the east,the Xianyang-Shangluo region in the middle,the northwest corner of Yan’an in the west,and the west of Yulin are small.The distribution characteristics of extreme precipitation are related to the unique geographical characteristics of Shaanxi Province,especially the east-west Qinling Mountains,which block the water vapor transmission to the north，causing differences in extreme precipitation between the north and south.
+
+Keywords: Shaanxi Province; extreme precipitation； spatiotemporal characteristics; regional L-moment method

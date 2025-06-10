@@ -1,0 +1,238 @@
+[
+    {
+        "type": "text",
+        "text": "$^ { 1 3 } \\mathrm { C }$ 标记磷脂脂肪酸分析在土壤微生物生态研究中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李增强1,2 赵炳梓1\\*\\* 张佳宝'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "l．中国科学院南京土壤研究所土壤与农业可持续发展国家重点实验室南京210008;2.中国科学院大学北京100049摘要磷脂脂肪酸(PLFA)是微生物细胞膜的重要组成成分，不同微生物群落可通过不同生化途径合成不同的 PLFA，因此可选择某些PLFA 作为微生物群落结构变化的生物标志物。PLFA与稳定性同位素 $^ { 1 3 } \\mathrm { C }$ 标记号 $^ { \\cdot 1 3 } \\mathrm { C }$ -PLFA)技术结合，不仅能够确定原位土壤环境中微生物群落组成，而且能够定向发掘土壤生态系统中参与碳源代谢过程的微生物群落，提供复杂群落中土壤微生物相互作用的信息，具有广阔的应用前景。其基本原理为：将富集 $^ { 1 3 } \\mathrm { C }$ 稳定同位素的基质加入土壤中，土壤中的某些微生物群落利用基质 ${ } ^ { 1 3 } \\mathrm { C }$ 合成PLFA，提取并纯化土壤微生物的PLFA，利用气相色谱-燃烧-同位素比例质谱(GC-C-IRMS)测定其 $^ { 1 3 } \\mathrm { C }$ 丰度，通过对比分析，从而获取微生物群落组成与其功能的直接信息。本文在介绍了 $^ { 1 3 } \\mathrm { C }$ -PLFA原理的基础上，综述了该技术在光合同化碳的根际微生物利用、土壤有机质分解的激发效应、甲烷氧化、有机污染物降解、外源简单碳源和外源复杂碳源的微生物利用等方面的应用，对此项技术的优缺点进行了分析并展望了其未来应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词磷脂脂肪酸稳定性同位素标记技术土壤微生物群落结构微生物功能中图分类号：S154.3 文献标识码：A 文章编号:1671-3990(2016)04-0470-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of ${ } ^ { 1 3 } \\mathrm { C }$ -labeled PLFA analysis in soil microbial ecology studies ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Zengqiang1,2, ZHAO Bingzi1\\*\\*, ZHANG Jiabao1 (1.State KeyLaboratoryofSoiland Sustainable Agriculture,InstituteofSoil Science,ChineseAcademyofSciences,Najing 210008,China; 2. University of the Chinese Academy of Sciences,Beijing 10o049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAnalysis of phospholipid fattyacids (PLFA)is an efective non-culture-based technique for informationon living soil microbialcommunity.PLFAisanimportantcomponentofmicrobialcellmembranes.Microbescansynthesizethisspecial PLFA through various biochemical pathways hence some PLFA can be used as biomarker for a microbial community. When coupled with stable isotope $^ { 1 3 } \\mathrm { C }$ -labeled ( $^ { \\cdot 1 3 } \\mathrm { C }$ -PLFA) technique,PLFA can be used to identify in situ structures of soil microbial communities.This canalsobeused to explore soil microbial functional communities responsible for metabolic procesesof soilcarbonsources insoil ecosystem,thusproviding abundant informationabout microbialinteractions incomplexcommunities. This technique has the potential for wide future applications.The principle of ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA technique is as follows: 1） adding $^ { 1 3 } \\mathrm { C }$ rich substrates to the soils asimilated by some members of the soil microbial community; 2) extracting and purifying PLFA from soil substrate mixtures; 3) determining $^ { 1 3 } \\mathrm { C }$ value of PLFA using gas chromatography combustion isotope ratio mass spectrometry(GC-C-IRMS);and4)derivingrequired informationbycomparative analysis.Thisstudy introduced the principle of $^ { 1 3 } \\mathrm { C }$ -PLFA technique and reviewed the applications of ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA in the fields of photosynthetic carbon utilization by rhizosphere microorganisms,priming effectsof soilorganic materdecompositionand mineralization,microbialoxidationof methane,degradationoforganic polutants and microbialutilizationofexogenous simpleandcomplicated carbonsources.The limitations and application potentials of this technique were also discussed. It was concluded that ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA method was an excellent wayofproviding insight intotherelations between microbial communitycompositionand soilbiogeochemicalcycle. KeywordsPhospholipidfatyacid;Stable isotope labeledtechnique;Soil microbe;Community structure; Microbial function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物是土壤生态系统的重要组分之一，几乎所有的土壤过程都直接或间接的与土壤微生物有关。过去对微生物的研究多依赖于实验室分离培养技术，但该方法能够分离鉴定到的微生物只占土壤微生物总数的 $0 . 1 \\% { \\sim } 1 \\%$ 。因此，以磷脂脂肪酸(phospholipidfattyacids,PLFA)分析为代表的现代微生物研究方法被广泛地应用于土壤微生物研究。PLFA是活体微生物细胞膜的重要组成部分，不同种类的微生物能够通过不同的生化途径形成自己独有的PLFA，并且一种类型的PLFA总是出现在同一种类的微生物中，而在其他种类的微生物中出现很少，因此根据不同种类微生物的指示性PLFA不同,可以从整体上概述微生物群落结构。另外，PLFA的合成与微生物的生长密切相关，因此PLFA又可以用来计算微生物生物量。关于PLFA分析技术在土壤微生物研究中的应用已有较为详细的综述[2]。但是，利用PLFA分析技术取得的结果仍难以将微生物种类与其功能联系起来以提供有关微生物间相互作用及其代谢功能的直接信息。近年来得到广泛关注的PLFA 技术结合稳定性同位素 $^ { 1 3 } \\mathrm { C }$ 标记$^ { \\cdot 1 3 } \\mathrm { C }$ -PLFA)分析技术，为人们提供了解决这一问题的关键途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ { 1 3 } \\mathrm { C }$ -PLFA 分析技术的基本原理为：首先，将稳定同位素 $^ { 1 3 } \\mathrm { C }$ 富集的基质加入土壤中，这样土壤中的某些微生物能够以基质中的 $^ { 1 3 } \\mathrm { C }$ 为碳源进行生理代谢并满足其自身生长需要，基质中的 $^ { 1 3 } \\mathrm { C }$ 被吸收同化进入微生物体内，参与PLFA的合成；其次，通过提取、分离纯化和测定这些微生物体内含有 $^ { 1 3 } \\mathrm { C }$ 的PLFA，从而将土壤微生物群落的组成与其功能联系起来。PLFA的 $^ { 1 3 } \\mathrm { C }$ 丰度用气相色谱-燃烧-同位素比例质谱(GC-C-IRMS)仪器测定。GC-C-IRMS系统用气相色谱毛细管柱分离PLFA，柱子的出口连接有一个微型氧化装置，PLFA在氧化装置中燃烧产生 $\\mathrm { C O } _ { 2 }$ 气体， $\\mathrm { C O } _ { 2 }$ 气体进入IRMS测定重的 ${ } ^ { ? { } ^ { 1 3 } \\mathrm { C } ) }$ 和轻的 ${ } ^ { ( ^ { 1 2 } \\mathrm { C } ) }$ 同位素比例 ${ ( ^ { 1 3 } { \\bf C / ^ { 1 2 } C ) } }$ 。与基于核酸(DNA)的${ } ^ { 1 3 } \\mathrm { C }$ 标记技术( $^ { \\cdot 1 3 } { \\bf C - D N A }$ 相比,GC-C-IRMS仪器对 $^ { 1 3 } \\mathrm { C }$ 同位素丰度的分辨率可达到千分之一，即使很小的$^ { 1 3 } \\mathrm { C }$ 含量的差别也可以通过此方法分开，因此 $^ { 1 3 } \\mathrm { C }$ -PLFA技术具有极高的灵敏度。其次，微生物PLFA合成速度快，短时间内可获得足量被 $^ { 1 3 } \\mathrm { C }$ 标记的PLFA用于分析，从而缩短了培育周期，降低了实验成本。另外，$^ { 1 3 } \\mathrm { C }$ -PLFA分析技术的前处理操作步骤少，这样能够减少操作过程中样品的损失。因此，该技术已被广泛应用于确认土壤中的功能微生物群落，追踪碳元素在微生物群体和个体间的流动等方面，是一项相对成熟的技术。本文就 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术在植物光合同化碳、土壤有机质激发效应、甲烷氧化、有机污染物降解、外源简单碳源和外源复杂碳源的微生物利用以及该技术的优势和不足等方面加以阐述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1光合同化碳的根际微生物利用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "碳在“大气-植物-土壤\"系统中的运输和分配是碳循环的重要组成部分。植物以根际沉积物(rhizodeposits)的形式将部分光合同化碳输入土壤中,这部分碳源通过土壤微生物的作用或以气体的形式释放到大气中，或以有机质的形式储存在土壤中，在稳定土壤碳库方面起着关键作用。因此，解析微生物对光合同化碳的转化以及参与转化的微生物群落对于认识土壤有机碳循环方面具有重要意义。对于这类研究多采用气态 $^ { 1 3 } { \\bf C O } _ { 2 }$ 脉冲标记或连续标记的方法。Butler等[3]首次利用 $^ { 1 3 } \\mathrm { C }$ -PLFA技术发现不同标记时期显著影响了黑麦草(Loliumperenne)根际微生物对光合同化碳的利用，革兰氏阳性菌(i15:0和a15:0)在第2标记阶段的活性降低，而革兰氏阴性菌(16:1o5c)更加活跃；真菌 $( 1 8 { : } 2 \\omega 6 , 9 \\mathrm { c } )$ 在两个阶段均能利用光合同化碳。此外，不同的土壤水分条件[4]、大气 $\\mathrm { C O } _ { 2 }$ 浓度[5等环境条件也会影响根际微生物对光合同化碳的利用。如Tian等[4发现持续淹水条件下，光合同化碳主要被水稻(Oryzasativa)根际微生物中的革兰氏阳性菌利用，而在非淹水和干湿交替条件下，革兰氏阴性菌和真菌则是利用光合同化碳的主要群落。但是 $\\mathrm { w } _ { \\mathrm { u } }$ 等[发现与非转基因水稻相比,转基因水稻插入cry1Ab和标志基因并不影响根际微生物群落对水稻光合同化碳的利用。除气态 $^ { 1 3 } { \\bf C O } _ { 2 }$ 标记外,Kusliené等[7]利用 $\\mathrm { N a } _ { 2 } ^ { 1 3 } \\mathrm { C O } _ { 3 }$ 溶液标记白三叶草(Trifoliumrepens)和黑麦草叶片，发现不同作物中利用光合同化碳的微生物群落不同。此外，不同研究者均发现在标记后短时间内即能在微生物群落中检测到标记 $^ { 1 3 } \\mathrm { C }$ ，表明光合同化碳能够快速转移到土壤中并被微生物利用[3-7]。综上可知，不同植物种类、植物生育期以及环境条件均能显著改变利用光合同化碳的微生物群落，这可能与来自光合同化碳的根际沉积物组成的改变有关[4-5,7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2参与土壤有机质激发分解的微生物研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质(SOM)是最大的碳库，影响全球碳循环。大量研究表明添加新鲜有机物料能够加快SOM的分解，这种现象叫做激发效应[8]。许多研究者在不同的环境条件下，采用不同的外源有机物质对于参与激发效应的微生物群落进行了大量研究。Garcia-Pausas 和 Paterson[9通过添加 $^ { 1 3 } \\mathrm { C }$ 标记葡萄糖研究了草地SOM的激发效应，发现革兰氏阴性菌(cy17:0和cy19:0)是利用葡萄糖的主要群落，而真菌和放线菌则是引起正激发效应的直接群落。然而，Bastida等[10]添加 $^ { 1 3 } \\mathrm { C }$ 标记葡萄糖后却发现革兰氏阴性菌是初期控制激发效应的主要群落，而真菌和放线菌则是后期控制激发效应的群落。Nottingham等[11]利用 $^ { 1 3 } \\mathrm { C }$ 自然丰度蔗糖和玉米秸秆发现特定革兰氏阴性菌(16:1o5c和 $1 6 { : } 1 \\omega 7 \\mathrm { c }$ 是利用土壤有机碳的主要群落并与激发效应有直接联系。Blagodatskaya等[12]发现由 $^ { 1 3 } \\mathrm { C }$ 标记纤维素引起的SOM激发效应在短时间内 $( < 1 4 \\mathrm { ~ d } )$ 主要是由真菌和革兰氏阴性菌活动引起的，而在长时间内 $( 1 4 { \\sim } 6 0 \\ \\mathrm { d } )$ 则主要是由真菌和革兰氏阳性菌对SOM的分解造成的。根际沉积物输入土壤后也会引起激发效应，革兰氏阳性菌是控制根际激发效应的主要群落[13]。此外，研究者发现不同环境条件[14]、不同土层[15]、养分添加[16]等均能影响激发效应的大小以及通过不同的内在机理改变参与激发效应的微生物群落。综合以上研究可知，有机物料种类、培育时间、环境条件等因素均能显著改变参与SOM激发分解的微生物群落类型。其内在机理为：在某些条件下外源有机物料添加后通过改变微生物群落结构[7-9]，或为微生物群落提供能量、提高微生物活性[11,13]促进 SOM激发分解；而在另一些条件下添加外源有机物料并不影响微生物群落结构或活性，引起SOM激发分解的主要原因则是因为添加外源有机物料促进了相关分解酶的产生[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3甲烷氧化微生物研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甲烷 $\\mathrm { ( C H _ { 4 } ) }$ 是一种重要的温室气体，在100a时间尺度上，单位质量 $\\mathrm { C H } _ { 4 }$ 的增温潜势是 $\\mathrm { C O } _ { 2 }$ 的23倍。近 $2 0 0 \\mathrm { ~ a ~ }$ 来大气中 $\\mathrm { C H } _ { 4 }$ 浓度不断增加，而甲烷惟一的生物汇为土壤里甲烷氧化细菌的氧化作用，大约占大气甲烷汇的 $10 \\text{‰}$ 。因此，研究者对参与甲烷氧化的微生物群落进行了大量研究。Boschker等[17]首次利用 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术报道了淡水底泥沉积物中微生物群落对 $\\mathrm { C H } _ { 4 }$ 的氧化，通过对标记的PLFA进行对比鉴定，发现I型甲烷氧化菌的特征PLFA1 $( 1 6 ; 1 \\omega 9 \\mathrm { c }$ ,16:1@7c 和16:1@5c)富集 ${ } ^ { 1 3 } \\mathrm { C }$ ，最后较为肯定地认为是I型甲烷氧化菌而不是以前人们认为的Ⅱ型甲烷氧化菌与环境中 $\\mathrm { C H } _ { 4 }$ 氧化有重要关系。随后，Nold 等[18]在湖泊沉积物中也发现相同的结果,并发现增加铵离子浓度显著降低微生物群落对$^ { 1 3 } \\mathrm { C H } _ { 4 }$ 的利用。然而,Maxfield等[19]发现在草地土壤中$\\mathrm { C H } _ { 4 ^ { - } } { } ^ { 1 3 } \\mathrm { C }$ 主要在Ⅱ型甲烷氧化菌的特征PLFA$1 8 { : } 1 \\omega 7 \\ c$ 中富集。Mohanty 等[20]在德国榉木(Fagussylvatica)-夏栎(Quercusrobur)森林士壤中发现I型(16:1ω8c 和16:1ω5t)和Ⅱ型(18:1ω8c)甲烷氧化菌均能参与 $\\mathrm { C H } _ { 4 }$ 的氧化，并发现添加氮肥 $\\mathrm { ( N H } _ { 4 } \\mathrm { C l }$ 和${ \\mathrm { K N O } } _ { 3 } { \\mathrm { . } }$ )促进了I型甲烷氧化菌的活性，而抑制了Ⅱ型甲烷氧化菌的活性。Maxfield等[21]研究了Broadbalk地区非淹水农田土壤对 $\\mathrm { C H } _ { 4 }$ 的氧化，发现Ⅱ型甲烷氧化菌是施用化肥土壤中氧化 $\\mathrm { C H } _ { 4 }$ 的主要群落，而在施用廐肥的土壤中I型甲烷氧化菌则是主要群落。综上可知，I型和Ⅱ型甲烷氧化菌均能参与 $\\mathrm { C H } _ { 4 }$ 氧化，且氮素种类能够影响参与 $\\mathrm { C H } _ { 4 }$ 氧化的微生物类型。但是，上述研究主要是利用常规 $\\mathrm { C H } _ { 4 }$ 浓度得到的对 $\\mathrm { C H } _ { 4 }$ 高亲和力的甲烷氧化菌对 $\\mathrm { C H } _ { 4 }$ 氧化的结果。Chowdhury和Dick[22l认为在高 $\\mathrm { C H } _ { 4 }$ 浓度条件下，Ⅱ型甲烷氧化菌发挥作用，而在低 $\\mathrm { C H } _ { 4 }$ 浓度条件下，I型甲烷氧化菌可能发挥更大的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4有机污染物的微生物降解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤是环境中各种有机污染物的最终容纳体之一，土壤有机污染已经成为全球性的重要环境问题之一。存在于土壤环境中的天然微生物种群对有机物的降解是有机污染物从土壤环境中消除的基本途径之一。该方法具有成本低，最终产物是 $\\mathrm { C O } _ { 2 }$ 和水,不会产生二次污染并且处理效果好等优点，是应用前景最为乐观的有机污染物处理方法。Hanson等[23]首次使用 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术研究了微生物对 $^ { 1 3 } \\mathrm { C }$ 标记甲苯的利用，发现培育 $1 1 9 \\mathrm { ~ h ~ }$ 后，约 $2 7 \\%$ 的总PLFA能够被甲苯 $^ { 1 3 } \\mathrm { C }$ 标记，表明在土壤这种复杂环境中可用 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术研究微生物对有机污染物的代谢。随后，Mauclaire等[24]利用 $^ { 1 3 } \\mathrm { C }$ -PLFA技术研究了甲苯降解菌(Pseudomonas sp.)和食细菌鞭毛变形虫(Vahlkampfiasp.)对甲苯的代谢，指出该技术在示踪微生物甲苯碳代谢食物链中具有独特优势。Tillmann等[25]利用 $^ { 1 3 } \\mathrm { C }$ 标记 $^ { 2 , 2 ^ { \\prime } }$ 二氯联苯(2,2'-dichlorobiphenyl)研究了微生物对多氯联苯(PCBs)类物质的降解，发现 $^ { 1 3 } \\mathrm { C }$ 在Burkholderia 菌的特征脂肪酸(16:0、17:0cyclow7c、 $1 8 { : } 1 \\omega 9 \\mathrm { c }$ 、19:0cycloω8c)中富集，而土壤中数量最多的Methylobacterium菌的特征脂肪酸(18:1ω7c)基本不富集 ${ } ^ { 1 3 } \\mathrm { C }$ ，表明Burkholderia菌是所培育土壤中好氧分解PCBs的主要菌株。Mellendorf等[26发现PLFAi14:0、15:0、18:0、18:1ω5c和真菌PLFA $1 8 { : } 2 \\omega 6 { , } 9 \\mathrm { c }$ 能够富集菲 $^ { 1 3 } \\mathrm { C }$ ，添加菜籽油促进了这种富集作用并加快了菲的降解。此外，研究者还研究了五氯酚[27]、异恶草松(一种除草剂)[28]、多环芳烃(PAHs)[29等的微生物降解。值得注意的是，虽然微生物能够降解有机污染物，但是有机污染物对微生物同样具有毒性，加入土壤后能够显著影响微生物群落活性和结构，抑制磷脂类物质的生物合成，从而影响对最终结果的解释[30]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5微生物对外源简单碳源的利用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "葡萄糖是一种能被大部分厌氧和好氧微生物直接分解利用的简单有机碳，因此常被用作标准物质研究微生物群落对简单碳源的利用。Ziegler等[31]发现在培养初期革兰氏阳性菌是利用葡萄糖 $^ { 1 3 } \\mathrm { C }$ 的主要群落，当葡萄糖耗竭后，放线菌 $( 1 0 \\mathrm { m e l } 8 { : } 0 )$ 在葡萄糖碳再循环过程中起重要作用，并指出取样时期对于解释葡萄糖的微生物利用至关重要。Dungait等[32]也发现取样时间影响了利用葡萄糖 $^ { 1 3 } \\mathrm { C }$ 的微生物群落；在整个培育过程中，革兰氏阳性菌是利用葡萄糖的主要的群落(约 $30 \\%$ )，而真菌对葡萄糖的利用较少 $( < 1 \\% )$ ，同时随着葡萄糖添加浓度的增加，农田土壤微生物群落对 $^ { . 1 3 } \\mathrm { C }$ 利用增加，草地土壤微生物中革兰氏阳性菌和放线菌对 $^ { 1 3 } \\mathrm { C }$ 的利用受葡萄糖浓度影响较小。Zhang等[33发现培养前期葡萄糖 $^ { ! 1 3 } \\mathrm { C }$ 主要出现在细菌中，随着培养时间的延长，真菌和放线菌对葡萄糖 $^ { 1 3 } \\mathrm { C }$ 的利用增加；施用有机肥处理的土壤 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA含量显著高于施用化肥和不施肥处理。此外，微生物对葡萄糖的利用受土壤类型的影响[34]，而草地植物群落组成不影响微生物对葡萄糖的利用[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除葡萄糖以外，研究者也研究了不同试验条件下微生物群落对其他简单碳源的利用。Arao[36]发现乙酸中的 $^ { 1 3 } \\mathrm { C }$ 主要进入PLFA $1 8 : 2 \\omega 6 , 9 \\mathrm { c }$ ，16:0和$1 8 { : } 1 \\omega 9 \\mathrm { c }$ 中，同时微生物对乙酸的利用随着土壤 $\\mathfrak { p H }$ 的增加而增加。而 $^ { 1 3 } \\mathrm { C }$ 标记甘氨酸则主要被未扰动荒原土壤中的革兰氏阳性菌(i16:0)利用，随着 $\\mathrm { C O } _ { 2 }$ 浓度的增加，革兰氏阳性菌(i17:0)对甘氨酸的利用量降低，而非特异性PLFA16:0和18:0对甘氨酸的利用量增加[37]。Wang 等[38]发现土壤类型显著影响了微生物对尿素 $^ { 1 3 } \\mathrm { C }$ 的利用，在红壤中 $^ { 1 3 } \\mathrm { C }$ 主要进入PLFA16:0、16:1@5c和cy19:0，在潮士中 $^ { 1 3 } \\mathrm { C }$ 则主要进入PLFA16:0、16:1ω5c和 $1 6 { : } 1 \\omega 7 \\mathrm { c }$ ，在两种水稻土中 $^ { 1 3 } \\mathrm { C }$ 主要进入PLFA16:0、 $1 8 { : } 1 \\omega 7 \\ c$ 和i15:0，且随着土壤 $\\mathfrak { p H }$ 增加，总PLFA中来自尿素的 $^ { 1 3 } \\mathrm { C }$ 含量增加。此外，部分研究者同时比较了土壤微生物对不同简单碳源的利用，例如，Brant等[39]比较了不同管理措施下森林土壤微生物对葡萄糖、谷氨酸、草酸和酚的利用。Dungait等[40比较了甘氨酸、氨基酸混合物和根系提取物的微生物利用。Rinnan等[41]比较了 $^ { 1 3 } \\mathrm { C }$ 标记的葡萄糖、乙酸、甘氨酸、淀粉和香草醛的微生物利用。Gunina等[42]同时比较了微生物群落对氨基酸(丙氨酸和谷氨酸)、单糖(葡萄糖和核糖)和羧酸(乙酸和棕榈酸)的利用。综合以上研究发现微生物群落对简单碳源的利用受取样时间的显著影响，同时，微生物对外源简单碳源的利用一方面与土壤本身微生物群落结构有关，在微生物整体群落中占优势的群落是利用碳源的主要群落[32-33]；另一方面与所添加的碳源类型有关，相同群落对不同碳源的利用能力不同[39-42]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6微生物对外源复杂碳源的利用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植物残体是最常见的复杂有机碳源，植物残体分解在维持土壤养分循环、保持SOM含量、为土壤生物群落提供碳源和能源等方面起着主要作用。Williams等[43]首次利用 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术研究了 ${ } ^ { 1 3 } \\mathrm { C }$ 标记深红三叶草(Trifolium incarnatum)和黑麦草(Loliummultiflorum)的根和地上部秸秆的微生物分解过程，发现部分PLFA(16:1o5c和 $1 0 \\mathrm { m e l } 7 { : } 0 )$ 基本不利用添加的根和地上部秸秆碳，而另一部分PLFA(16:0、18:1ω9c和 $1 8 { : } 2 \\omega 6 { , } 9 \\mathrm { c }$ 则在整个培养过程中均能大量利用来自根和地上部秸秆的碳，并指出植物残体性质和土壤条件均能影响参与残体碳分解的微生物群落。Kong等[44发现不同粒径土壤团聚体微生物中革兰氏阳性菌和革兰氏阴性菌是利用毛苕子(Viciadasycarpa)根和茎叶 $^ { 1 3 } \\mathrm { C }$ 的主要群落，不同团聚体粒径对微生物 $^ { 1 3 } \\mathrm { C }$ 分布比例无显著影响。此外，玉米(Zea mays)秸秆 $^ { 1 3 } \\mathrm { C }$ 也在革兰氏阳性菌(i15:0和a15:0)和革兰氏阴性菌( $\\mathrm { 1 6 { : } 1 \\omega \\mathrm { 7 c } }$ 和 16:1ω5c)中富集，且添加重金属混合物促进了这种富集作用[45]。Elfstrand 等[46]在田间试验中发现16:0、革兰氏阴性菌(16:1ω7c和18:1o7c)、真菌(18:1@9c)是利用深红三叶草秸秆碳的主要群落。另外，由于组成植物残体的成分不同，植物残体的分解分为快速和慢速两个分解阶段，在不同的分解阶段参与分解的微生物群落不同。Moore-Kucera和Dick[47]发现细菌是前期 $( < 1$ 月)分解花旗松(Pseudotsuga menziesii)地上部残体和根的主要群落，而后期 $( > 5$ 月)则主要由真菌参与分解。Paterson 等[48]进一步发现黑麦草残体水溶性成分主要由细菌特别是革兰氏阴性菌参与分解，而真菌主要参与不溶性成分的分解。然而，McMahon等[49]发现真菌 $( 1 8 { : } 2 \\omega 6 , 9 \\mathrm { c } )$ 能够利用黑麦草残体水溶性、非水溶性和残体整体3种组分，而PLFA(i15:0、$1 0 \\mathrm { m e l } 6 { : } 0$ 和cy19:0)均不能很好地利用这3种组分，随着培养时间的延长真菌对3种组分的利用程度增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生物炭是生物质在无氧或微氧条件下低温热转化后的固体产物，具有有机碳含量高、多孔性、碱性等特性，施入土壤后能够显著增加土壤有机碳存储，因此研究微生物对生物炭的利用对于土壤碳库的长期稳定具有重要意义。Steinbeiss等[5首先研究了通过水热裂解法制得的葡萄糖和酵母生物炭的微生物利用，发现真菌是利用酵母生物炭的主要群落，而革兰氏阴性菌则是利用葡萄糖生物炭的主要群落，并指出这是因为两种生物炭的表面性质和化学基团组成不同所引起的。Watzinger等[5l则发现在培育试验中仅有放线菌 $( 1 0 \\mathrm { m e l } 8 { : } 0 )$ 利用麦壳和柳树(Salixspp.)生物炭，而在盆栽试验中革兰氏阴性菌(16:1@7c、16:1ω5c 和 $1 8 { : } 1 \\omega 7 \\mathrm { c } )$ 是利用生物炭的主要群落。Gomez等[52]发现土壤类型显著影响了微生物对橡木(Quercus)生物炭的利用过程，在普通潜育土(haplic gleysol)和潜育黑±(gleyic phaeozem)中革兰氏阳性菌、革兰氏阴性菌和真菌是利用生物炭的主要群落，而在普通淋溶土(haplicluvisol)中革兰氏阳性菌、革兰氏阴性菌和放线菌则是利用生物炭的主要群落，在淋溶黑土(luvic phaozem)中没有发现能够显著利用生物炭的微生物群落。此外,Farrell等[53]发现在分解初期革兰氏阳性菌是利用小麦(Triticumaestivum)和桉树(Eucalyptusrobusta)生物炭的主要群落，随着培养时间的延长，真菌对生物炭的利用遂渐增加。综上可知，土壤微生物群落对复杂碳源的利用也存在采样时间效应，这可能与不同微生物群落所能利用的碳源成分不同有关，在特定试验条件下，某些微生物群落并不参与复杂碳源或其某一特定成分的分解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7其他",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除上述研究方面外， $^ { 1 3 } \\mathrm { C }$ -PLFA技术也被应用到其他方面。例如Apostel 等[54通过在丙氨酸和谷氨酸特定的碳原子上标记 $^ { 1 3 } \\mathrm { C }$ ，利用 $^ { 1 3 } \\mathrm { C }$ -PLFA 技术,研究了微生物群落对上述两种氨基酸特定碳原子的代谢，发现两种氨基酸的羧基碳通过氧化作用快速损失，而氨基酸中的还原碳(如C3-5)优先被微生物利用合成PLFA，丙氨酸C2碳主要进入革兰氏阴性菌细胞膜中，而谷氨酸C2碳则从PLFA中快速损失。通过重建微生物碳循环途径，发现谷氨酸中的C2碳进入PLFA可以通过乙醛酸代谢途径，或者通过在进入三羧酸循环前将谷氨酸转化为天冬氨酸。Kramer和Gleixner[55]研究了C3植被转变为C4植被后土壤微生物对有机碳的分解，发现革兰氏阳性菌主要利用来自于C3植被的有机碳，而革兰氏阴性菌则主要利用来自C4植被的有机碳。Streit等[5研究了增温 $( + 4 ^ { \\circ } \\mathrm { C } )$ 对高寒土壤微生物分解有机碳的影响，发现增温降低了真菌(18:2w6，9c)对新近形成土壤有机碳的利用，促进了其对老有机碳的利用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8 问题与展望",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 3 } \\mathrm { C }$ -PLFA 技术主要应用于植物-土壤系统的碳循环研究中，这包括添加 $^ { 1 3 } { \\bf C O } _ { 2 }$ 或 $^ { 1 3 } \\mathrm { C H } _ { 4 }$ 气体的研究以及添加其他 $^ { 1 3 } \\mathrm { C }$ 标记的有机物料的研究。不同的研究者在上述各研究方面均取得了一些研究成果,如植物光合固定碳可以在短时间内被根际微生物群落利用[3-7]、I型甲烷氧化菌是淡水底泥中参与甲烷氧化的主要群落[17-18]以及在微生物整体群落中占优势的群落是利用简单碳源的主要群落等[32-33]。诚然使用 ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA技术能够为生物地球化学过程提供更多的分析信息，但是该技术也存在一些无法避免的缺陷。首先PLFA并不是一个完美的生物标志物，目前尚未确立土壤中所有生物的特征脂肪酸，并且在很多情况下还无法完全确定土壤中某些特定脂肪酸和特定微生物群落的对应关系。例如当包括非菌根对照时，PLFA16:1o5c通常作为丛枝真菌的生物标志物，但是在革兰氏阴性菌中也含有该PLFA。其次，交叉取食(cross-feeding)也是该技术的一个普遍问题。例如，在长期培养过程中，Uhlik 等[57]发现部分微生物能够以其他微生物群落的残体或代谢产物为底物。另一种可能是部分微生物直接同化其他微生物呼吸产生的 $^ { 1 3 } { \\bf C O } _ { 2 }$ ，因此部分试验试图通过增加$^ { 1 2 } { \\bf C } { \\bf O } _ { 2 }$ 浓度来避免这种可能。理想状况是标记后取样应该尽快进行，进而避免交叉取食现象的出现。但这在实际操作中存在一定困难，首先如果取样太早可能造成 $^ { 1 3 } \\mathrm { C }$ 标记不完全，给后续的准确测定带来困难；其次，次级异养取食作用可能快于初级自养同化作用，因此对于 $^ { 1 3 } \\mathrm { C }$ -PFLA技术应该分析不同时间点的土壤样品，这样能够比较初级同化速率和次级异养捕食速率，评估交叉取食风险。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于细胞死亡后PLFA快速消失，因此$^ { 1 3 } \\mathrm { C }$ -PLFA技术能够识别参与基质代谢的活体微生物生物量。与以DNA/RNA为基础的技术相比，PLFA技术能够更加灵敏地反映土壤微生物群落结构的变化。然而，仅使用 $^ { 1 3 } \\mathrm { C }$ -PLFA技术无法反映种类组成或者系统发育水平的详细信息，因此，同时使用$^ { 1 3 } \\mathrm { C }$ -PLFA和 ${ } ^ { 1 3 } \\mathrm { C }$ -DNA/RNA技术，可为今后充分理解土壤微生物在土壤生态系统中的功能提供新的思路和方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Davis K E R,Joseph SJ,Janssen P H.Effects of growth medium,inoculum size,and incubation time on culturability and isolation of soil bacteria[J].Applied and Environmental Microbiology,2005,71(2): 826-834   \n[2] 颜慧，蔡祖聪，钟文辉．磷脂脂肪酸分析方法及其在土壤 微生物多样性研究中的应用[J].土壤学报，2006，43(5): 851-859 Yan H,Cai Z C，Zhong W H.PLFA analysis and its applications in the study of soil microbial diversity[J].Acta Pedologica Sinica,2006,43(5):851-859   \n[3]Butler JL,Williams M A,Bottomley PJ,et al.Microbial community dynamics associated with rhizosphere carbon flow[J]．Applied and Environmental Microbiology，2003, 69(11):6793-6800   \n[4] Tian J,Dippold M,Pausch J,et al. Microbial response to rhizodeposition depending on water regimes in paddy soils[J]. Soil Biology and Biochemistry,2013,65:195-203   \n[5]Denef K,Bubenheim H,Lenhart K,et al.Community shifts and carbon translocation within metabolically-active rhizosphere microorganisms in grasslands under elevated $\\mathrm { C O } _ { 2 } [ \\mathrm { J } ]$ .Biogeosciences,2007,4(5): 769-779   \n[6] Wu W X,Liu W,Lu HH,et al. Use of ${ } ^ { 1 3 } \\mathrm { C }$ -labeling to assess carbon partitioning in transgenic and nontransgenic (parental) rice and their rhizosphere soil microbial communities[J]. FEMS Microbiology Ecology,2009,67(1):93-102   \n[7]Kusliené G, Rasmussen J,Kuzyakov Y,et al. Medium-term response of microbial community to rhizodeposits of white clover and ryegrass and tracing of active processes induced by （204号 ${ } ^ { 1 3 } \\mathrm { C }$ and $^ { 1 5 } \\mathrm { N }$ labelled exudates[J].Soil Biology and Biochemistry,2014,76:22-33   \n[8]Kuzyakov Y,Friedel JK,Stahr K.Review of mechanisms and quantification of priming effects[J]. Soil Biologyand Biochemistry,2000,32(11/12):1485-1498   \n[9]Garcia-Pausas J,Paterson E.Microbial community abundance and structure are determinants of soil organic matter mineralisation in the presence of labile carbon[J].Soil Biology and Biochemistry,2011,43(8): 1705-1713   \n10]Bastida F,Torres IF,Hernandez T,et al.Can the labile carbon contribute to carbon immobilization in semiarid solls? Priming effects and microbial community dynamics[J].Soil Biology and Biochemistry,2013,57: 892-902 [11] Nottingham A T, Griffiths H,Chamberlain $ { P M }$ ，et al. Soil priming by sugar and leaf-litter substrates: A link to microbial groups[J].Applied Soil Ecology,2009,42(3): 183-190 [12] Blagodatskaya E,Khomyakov N,Myachina O，et al. Microbial interactions affect sources of priming induced by cellulose[J]. Soil Biology and Biochemistry,2014,74: 39-49 [13] Bird JA,Herman DJ,Firestone MK.Rhizosphere priming of soil organic matter by bacterial groups in a grassland soil[J]. Soil Biology and Biochemistry,2011,43(4): 718-725 [14] Ziegler S E,Billings S A,Lane C S,et al. Warming alters routing of labile and slower-turnover carbon through distinct microbial groups in boreal forest organic soils[J]. Soil Biology and Biochemistry,2013,60: 23-32 [15] Wild B,Schnecker J,Alves R J E,et al.Input of easily available organic C and N stimulates microbial decomposition of soil organic matter in arctic permafrost soil[J].Soil Biology and Biochemistry,2014,75: 143-151 [16] Wang Q K,Wang S L, He T X,et al. Response of organic carbon mineralization and microbial community to leaf litter and nutrient additions in subtropical forest soils[J]. Soil Biology and Biochemistry,2014,71: 13-20 [17] Boschker H T S,Nold S C,Wellsbury P,et al. Direct linking of microbial populations to specific biogeochemical processes by ${ } ^ { 1 3 } \\mathrm { C }$ -labelling of biomarkers[J].Nature,1998,392(6678):   \n801-805 [18] Nold S C, Boschker H T S,Pel R,et al. Ammonium addition inhibits ${ } ^ { 1 3 } \\mathrm { C }$ -methane incorporation into methanotroph membrane lipids in a freshwater sediment[J].FEMS Microbiology Ecology,1999,29(1): 81-89 [19] Maxfield P J, Hornibrook ER C,Evershed R P.Estimating high-affinity methanotrophic bacterial biomass,growth,and turnover in soil by phospholipid fatty acid ${ } ^ { 1 3 } \\mathrm { C }$ -labeling[J]. Applied and Environmental Microbiology，2006,72(6):   \n3901-3907 [20] Mohanty S R,Bodelier P L E,Floris V,et al.Differential effctsof nitrogenous fertilizerson methane-consuming microbes in rice field and forest soils[J]．Applied and Environmental Microbiology,2006,72(2): 1346-1354 [21] Maxfield P J,Brennand E L,Powlson D S,et al.Impact of land management practices on high-affinity methanotrophic bacterial populations: Evidence from long-term sites at Rothamsted[J]. European Journal of Soil Science,2011,62(1):   \n56-68 [22] Chowdhury TR, Dick R P. Ecology of aerobic methanotrophs in controlling methane fluxes from wetlands[J].Applied Soil Ecology,2013,65: 8-22 [23] Hanson JR, Macalady JL, Harris D,et al. Linking toluene degradation with specific microbial populations in soil[J]. Applied and Environmental Microbiology，1999，65(12):   \n5403-5408 [24] Mauclaire L,Pelz O,Thullner M,et al．Assimilation of toluene carbon along a bacteria-protist food chain determined   \n[25] Tillmann S,Strompl C,Timmis K N,et al. Stable isotope probing reveals the dominant role of Burkholderia species in aerobic degradation of $\\mathrm { P C B s [ J ] }$ .FEMS Microbiology Ecology, 2005, 52(2): 207-217   \n[26] Mellendorf M, Soja G, Gerzabek M H,et al. Soil microbial community dynamics and phenanthrene degradationas affected by rape oil application[J].Applied Soil Ecology, 2010,46(3): 329-334   \n[27] Kamashwaran S R,Crawford D L.Anaerobic biodegradation of pentachlorophenol in mixtures containing cadmium by two physiologically distinct microbial enrichment cultures[J]. Journal of Industrial Microbiology and Biotechnology,2001, 27(1): 11-17   \n[28] Tomco P L, Holmes W E, Tjeerdema R S. Biodegradation of clomazone in a California rice field soil: Carbon allocation and community effects[J]. Journal of Agricultural and Food Chemistry,2013,61(11): 2618-2624   \n[29] Antizar-Ladislao B,Spanova K,Beck A J,et al. Microbial community structure changes during bioremediation of PAHs in an agedcoal-tarcontaminated soil by in-vesselcomposting[J]. International Biodeterioration & Biodegradation,2008,61(4): 357-364   \n[30] Fang JS,Lovanh N,Alvarez P JJ. The use of isotopic and lipid toluene degradation to specific analysis techniques linking microorganisms: Applications and limitations[J]. Water Research,2004,38(10): 2529-2536   \n[31] Ziegler SE,White PM,Wolf DC,et al.Tracking the fate and recycling of ${ } ^ { 1 3 } \\mathrm { C }$ -labeled glucose in soil[J]. Soil Science,2005, 170(10): 767-778   \n[32] Dungait JA J,Kemmitt S J, Michallon L,et al. Variable responsesof thesoil microbial biomasstotrace concentrationsof $^ { 1 3 } \\mathrm { C }$ -labelledglucose，using ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA analysis[J]. European Journal of Soil Science,2011,62(1): 117-126   \n[33] Zhang H J, Ding W X, Yu H Y, et al. Carbon uptake by a microbial community during 30-day treatment with ${ } ^ { 1 3 } \\mathrm { C }$ ， glucose of a sandy loam soil fertilized for 2O years with NPK or compost as determined by a GC-C-IRMS analysis of phospholipid fatty acids[J].Soil Biology and Biochemistry, 2013,57: 228-236   \n[34] Norris C E,Quideau S A,Macey D E. Processing of ${ } ^ { 1 3 } \\mathrm { C }$ glucose in mineral soil from aspen,spruce and novel ecosystems in the athabasca oil sands region[J]. Applied Soil Ecology,2013,71: 24-32   \n[35] Lemanski K, Scheu S. Incorporation of $^ { 1 3 } \\mathrm { C }$ labelled glucose into soil microorganisms of grassand:Effects of fertilizer addition and plant functional group composition[J]. Soil Biology and Biochemistry,2014,69: 38-45   \n[36] Arao T. In situ detection of changes in soil bacterial and fungal activities by measuring ${ } ^ { 1 3 } \\mathrm { C }$ incorporation into soil phospholipid fatty acids from ${ } ^ { 1 3 } \\mathrm { C }$ acetate[J]. Soil Biology and Biochemistry,1999,31(7):1015-1020   \n[37] Andresen L C, Dungait JA J, Bol R,et al. Bacteria and fungi temperate heathland, traced with ${ } ^ { 1 3 } \\mathrm { C }$ -glycine and FACE $\\mathrm { C O } _ { 2 } [ \\mathrm { J } ]$ .PLoS One,2014,9(1): e85070   \n[38]Wang J,Thornton B,Yao $\\textrm { H Y }$ Incorporation of urea-derived ${ } ^ { 1 3 } \\mathrm { C }$ into microbial communities in four different agriculture soils[J]. Biology and Fertility of Soils,2014,50(4): 603-612   \n[39] Brant JB,Sulzman E W,Myrold D D.Microbial community utilization of added carbon substrates in response to long-term carbon input manipulation[J]. Soil Biology and Biochemistry, 2006,38(8): 2219-2232   \n[40] Dungait JA J,Kemmitt S J, Michallon L,et al. The variable response of soil microorganisms to trace concentrations of low molecular weight organic substrates of increasing complexity[J]. Soil Biology and Biochemistry，2013,64: 57-64   \n[41] Rinnan R,Bäath E. Differential utilization of carbon substrates by bacteria and fungi in tundra soil[J].Applied and Environmental Microbiology,2009,75(11): 3611-3620   \n[42] Gunina A，Dippold M A,Glaser B,et al.Fate of low molecular weight organic substances in an arable soil: From microbial uptake to utilisation and stabilisation[J].Soil Biology and Biochemistry,2014,77: 304-313   \n[43]Williams MA,Myrold D D,Bottomley PJ. Carbon flow from ${ } ^ { 1 3 } \\mathrm { C }$ -labeled straw and root residues into the phospholipid fatty acids of a soil microbial community under field conditions[J]. Soil Biology and Biochemistry,2006,38(4): 759-768   \n[44] Kong A Y Y, Scow K M,Córdova-Kreylos A L，et al. Microbial community composition and carbon cycling within soil microenvironments of conventional,low-input,and organic cropping systems[J]. Soil Biology and Biochemistry, 2011,43(1): 20-30   \n[45] Stemmer M,Watzinger A,Blochberger K,et al.Linking dynamics of soil microbial phospholipid fatty acids to carbon mineralization in a ${ } ^ { 1 3 } \\mathrm { C }$ natural abundance experiment: Impact of heavy metalsand acid rain[J]. Soil Biologyand Biochemistry,2007,39(12): 3177-3186   \n[46] Elfstrand S,Lagerlof J,Hedlund K,etal. Carbon routes from decomposing plant residues and living roots into soil food webs assessed with ${ } ^ { 1 3 } \\mathrm { C }$ labelling[J]．Soil Biology and Biochemistry,2008,40(10): 2530-2539   \n[47] Moore-Kucera J, Dick R P.Application of ${ } ^ { 1 3 } \\mathrm { C }$ -labeled litter and root materials for in situ decomposition studies using phospholipid fatty acids[J]. Soil Biologyand Biochemistry, 2008,40(10): 2485-2493   \n[48] Paterson E,Osler G, Dawson L A，et al．Labile and recalcitrant plant fractions are utilised by distinct microbial communities in soil: Independent of the presence of roots and mycorrhizal fungi[J]. Soil Biology and Biochemistry,2008, 40(5): 1103-1113   \n[49] McMahon S K,Williams MA,Bottomley PJ,et al. Dynamics of microbial communities during decomposition of carbon-13 labeled ryegrass fractions in soil[J]. Soil Science Society of America Journal, 2005,69(4): 1238-1247   \n[50] Steinbeiss S,Gleixner G, Antonietti M. Effect of biochar amendment on soil carbon balance and soil microbial activity[J]． Soil Biology and Biochemistry，2009,41(6): 1301-1310   \n[51]Watzinger A,Feichtmair S,Kitzler B,et al.Soil microbial communities responded to biochar application in temperate soils and slowly metabolized ${ } ^ { 1 3 } \\mathrm { C }$ -labelled biochar as revealed by ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA analyses:Results from a short-term incubation and pot experiment[J].European Journal of Soil Science, 2014,65(1):40-51   \n[52]Gomez JD,Denef K,Stewart C E,et al.Biochar addition rate influences soil microbial abundance and activity in temperate soils[J].European Journal of Soil Science,2014, 65(1): 28-39   \n[53]Farrell M,Kuhn T K,Macdonald L M,et al.Microbial utilisation of biochar-derived carbon[J].Science of the Total Environment,2013,465:288-297   \n[54]Apostel C,Dippold M,Glaser B,et al.Biochemical pathways of amino acids in soil: Assessment by position-specific labelingand ${ } ^ { 1 3 } \\mathrm { C }$ -PLFA analysis[J]．Soil Biologyand Biochemistry,2013,67:31-40   \n[55]Kramer C,Gleixner G. Soil organic matter in soil depth profiles:Distinct carbon preferences of microbial groups during carbon transformation[J]. Soil Biology and Biochemistry, 2008,40(2):425-433   \n[56] Streit K,Hagedorn F,Hiltbrunner D,et al. Soil warming alters microbial substrate use in alpine soils[J].Global Change Biology,2014,20(4):1327-1338   \n[57]Uhlik O,Jecná K,Leigh M B,et al.DNA-based stable isotope probing:A link between community structure and function[J].Science of the Total Environment,20o9,407(12): 3611-3619 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

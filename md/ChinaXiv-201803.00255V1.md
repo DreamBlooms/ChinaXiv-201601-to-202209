@@ -1,0 +1,201 @@
+# DOI:10.5846/stxb201610272185
+
+廖梦娜,李艳玲.东北镜泊湖硅藻对近现代气候变化和人类干扰的响应过程.生态学报,2018,38(4)：1458-1469.LiaoMN,Litososetategdtcsbacin（ictaolca（）：1458-1469.
+
+# 东北镜泊湖硅藻对近现代气候变化和人类干扰的响应过程 1
+
+廖梦娜1,2，\*，李艳玲²
+
+1浙江师范大学化学与生命科学学院，金华321004  
+2中国科学院南京地理与湖泊研究所，南京210008
+
+摘要：全球气候变暖和人类活动加剧已经导致中国大量湖泊生态系统功能退化，而目前对东北地区湖泊生态系统变化的认识主要源于短期的监测。以东北镜泊湖为例,通过沉积记录和现代监测资料,分析一个多世纪以来以硅藻群落为代表的湖泊生态系统对气候波动和区域人类活动的响应过程。研究结果表明,在人类干扰显著加强之前，风力扰动是镜泊湖硅藻群落变化的一个重要因子,表现为Aulacoseira属种取代小型浮游种（Cyclostephanos Stephanodiscus和Discostell）成为优势种。20世纪70年代以来,Asterionell formosa、Nitzschia palea和Fragilaria crotonensis 的相继增加则反映了流域农业活动加剧、农业化肥大量施用以及污水排放导致的湖泊营养水平升高。温度的持续上升已经引起东北地区一些湖泊硅藻群落结构发生显著变化，但镜泊湖的硅藻记录却未显示这一气候变化的信号。考虑湖泊-流域形态和人类活动的不同,研究认为近几十年气候变化对镜泊湖硅藻群落结构的影响被强烈的人类干扰所掩盖而未显现出来。
+
+关键词：中国东北;硅藻；气候变化；人类活动;镜泊湖
+
+# Diatom response to climate changes and anthropogenic disturbances in Jingpo Lake （NE China)
+
+LIAO Mengna1, 2\* ,LI Yanling² 1 CollegeofChemistryandLife Sciences，ZhejiangNormal University，Jinhua 321OO4，China 2 Nanjing Institute of Geography and Limnology，Chinese Academy of Sciences，Nanjing 21ooo8，China
+
+Abstract:Climate warming and intensified human activitieshave ledto the deterioration of lakeenvironmentsand the degradation of lakeecological services in China over thepast few decades.In northeast（NE）China，up to now, informationabout lake ecological changes responding to climatechanges and human activities hasderived mainly from shortterm observations.In the present study，we choose Jingpo Lake in NE Chinaas the studyarea.Sediment records and paleolimnological methods，incombination with long-term meteorological observations，wereused to determinethepatterns of diatomcommunityresponses toclimate changesand anthropogenic disturbances.The historyof diatom assemblage changes overthe past13O years was reconstructed from the sedimentof Jingpo Lake.Theresult was then compared with other diatom records from NE China to evaluate the impacts of climate changesand human activities on diatom community shifts.Our diatomrecords showa distinct shift from smal-type planktonic species（e.g.，Cyclostephanosdubius，Cyclostephanos tholiformis，Stephanodiscus paruus，Stephanodiscus inisitatus，Discostellapseudostelligera）toagnusof heavyfrustules (Aulacoseira），implying thatwind strength playedan importantrole in diatomasemblagechanges before theexpansionof humanactivities.Since theendofthe196Os，successveincreases intheabundanceof Asterionella formosa，Nitzschia palea，andFragilariacrotonensis havereflected intensified agricultural activities，fertilizer usage，andsewagedischarge, which haveresultedinatrend toeutrophication.The meteorologicalobservationsof thepast 6Oyears revealobvious climate warming in NE China，especiall since the mid-197Os.Previous studies have shown that diatom communities in Lake Xiaolongwan and Erlongwan（NE China）haveclearlyresponded to climate warming，while diatoms in Jingpo Lake have not responded inasimilar way.Lake XiaolongwanandErlongwan havesimilarclimateconditions to thoseat JingpoLakebut much smaler basins and catchments.Additionally,humanactivities in the catchments ofLake Xiaolongwan and Erlongwan are much lessintense.Therefore,itcanbespeculated that theimpactsofclimate warming onthe diatom community shift in Jingpo Lake have beenobscured by intense human disturbances.Aditionaly，intensifiedhuman activity has become the dominant factor leading to the ecological threshold being crossed in Jingpo Lake.
+
+Key Words:northeast China；diatom；climate change；human activity； Jingpo Lake
+
+全球变化对生态系统的强烈影响正改变着生态系统固有的自然过程,其后果已经、并将愈来愈严重地威胁人类的生存环境及社会经济的可持续发展[1]。湖泊是非常重要的淡水水源,已经成为地球最脆弱的生态系统之一[2]。近几十年来,随着东北地区成为我国重要的粮食生产基地和工业基地,湖泊水质恶化和生态退化问题也愈发严重[3]。然而,东北地区湖泊生态变化的研究主要集中在短期或季节性的监测和分析上[48]，长期的或年代际尺度的研究甚少。如此不利于深入了解湖泊生态变化过程和剖析其机制。
+
+湖沼学监测数据能够很直观地反映生态系统变化过程,然而目前大多数生态监测资料时间尺度较短,因此古湖沼学成为长尺度湖泊生态变化研究的一个有力手段[9]。过去几十年,运用古湖沼学解释过去湖泊环境状态和变化过程的研究越来越多。在众多生态学代用指标中,硅藻是最常用的指标之一[10]。不仅因为硅藻对周围环境反映敏感,而且因为它广泛分布在各种水体中,其硅质壳体利于保存在沉积物中,并且不同硅藻属种有比较明确的环境耐受度[9]。在极地、北极、亚北极和高山地区,很多湖泊沉积硅藻记录反映出工业革命以来的气候变暖过程,主要表现为小型浮游硅藻丰度增加而大型或非浮游种硅藻相应减少的特征[1-14]。而在中纬度地区,由于人类活动相对密集,很多流域下垫面和水文条件遭受人为破坏或改造,湖泊生态系统同时受到多重环境压力的影响,因此硅藻群落结构的变化更为复杂[15-16]。气候变化是否已引起东北地区湖泊硅藻群落结构发生变化？人类活动对湖泊硅藻群落的影响程度如何？不同流域湖泊的硅藻响应是否存在差异？原因是什么？针对以上科学问题,本研究将以镜泊湖为例,分析过去一个多世纪以来硅藻群落结构变化过程与特征。此外,本研究还将镜泊湖的硅藻记录与处于同一气候区、但流域和湖泊特征具有较大差异的龙岗火山区玛珥湖硅藻记录进行对比,试图辨析东北地区气候变化和人类活动对湖泊硅藻组合变化的影响并讨论其潜在原因。
+
+# 1研究区概况
+
+镜泊湖 $( 4 3 ^ { \circ } 4 6 ^ { \prime } \mathrm { - } 4 4 ^ { \circ } 0 3 ^ { \prime } \mathrm { N } , 1 2 8 ^ { \circ } 3 7 ^ { \prime } \mathrm { - } 1 2 9 ^ { \circ } 0 3 ^ { \prime } \mathrm { E }$ ；海拔 $3 5 0 \mathrm { m }$ )位于黑龙江省宁安市西南部(图1),是我国最大的岩溶堰塞湖。更新世晚期至全新世,湖盆北部发生一系列断裂和火山活动,喷发的熔岩将牡丹江上游河谷堵塞遂积水成湖;湖泊面积 $9 1 . 5 \mathrm { k m } ^ { 2 }$ ,给水面积 $1 1 8 2 0 \mathrm { k m } ^ { 2 }$ ,最大水深 $4 8 \mathrm m$ ,平均水深约 $1 3 \mathrm { m }$ ,蓄水量达 $1 1 . 8 \times$ $1 0 ^ { 8 } \mathrm { m } ^ { 3 [ 1 7 ] }$ 。湖区多年平均温度 $4 . 1 \%$ ,多年平均降水量 $5 4 9 \mathrm { m m }$ （图2）,属温带湿润气候;年内降雨量分布差异明显,夏季(6—8月份)降水量占全年的约 $6 1 \% ^ { [ 1 7 ] }$ 。镜泊湖冰冻期从11月开始一直持续到次年4月[18]。湖水主要由地表径流补给,入湖河流30 余条,其中牡丹江入湖水流最大。区域植被主要是砍伐后发展起来的阔叶混交次生林,林木覆盖率达 $8 2 \% ^ { [ 1 7 ] }$ 。20 世纪70 年代的调查显示浮游藻类以硅藻门的颗粒直链藻（Aulacoseira granulata）和华丽星杆藻（Asterionella formosa）为主,80年代末出现蓝藻门的同色微胞藻,并已形成水华[17]。
+
+http://www.ecologica.cn
+
+![](images/09d7e7402491467b7329a823c9a92ea1de17f60af7b43de2ae2390b6a2f6442e.jpg)  
+图1镜泊湖和采样点位置图  
+Fig.1Locations of Jingpo Lake and the coring site
+
+# 2材料和方法
+
+# 2.1样品采集
+
+2012年8月用奥地利UWITECTM重力采样器在镜泊湖东北部水深约 $3 1 \mathrm { m }$ 处获取长 $4 0 \mathrm { c m }$ 的柱状沉积物（JPS2）。获取的样品保存在PVC管中并运到中科院南京地理与湖泊研究所,在 $4 ^ { \circ } \mathrm { C }$ 环境下保存。JPS 岩芯以$0 . 5 \mathrm { c m }$ 间隔分样,共获得80个沉积样品。进行样品分析前,对所有样品进行冷冻干燥。
+
+# 2.2 实验室分析
+
+# 2.2.1 年代测定
+
+沉积年代框架采用 ${ } ^ { 2 1 0 } \mathrm { P b }$ 和 $^ { 1 3 7 } \mathrm { C s }$ 年代学建立。进行 $^ { 2 1 0 } \mathrm { P b }$ ） $^ { 2 2 6 } \mathrm { R a }$ 和 $^ { 1 3 7 } \mathrm { C s }$ 测试前,首先将样品进行含水量分析并计算出每个样品的干容重。然后将其研磨至过100目孔筛,装入专用的测试样盒密封 $1 5 \mathrm { d }$ 。用 $\boldsymbol { \gamma }$ 分析方法对各样品进行无损坏的多种核素测量。分析样品为2— ${ \cdot } 5 \mathrm { g }$ 干沉积物样品。分析仪器采用美国EG&GOrtec 公司生产的高纯锗井型探测器(Ortec HPGeGWL)与Ortec919 型谱控制器和IBM 微机构成的16K 道多道分析器所组成的 $\gamma$ 谱分析系统。 $^ { 1 3 7 } \mathrm { C s }$ 和 $^ { 2 2 6 } \mathrm { R a }$ 标准样品由中国原子能研究院提供; $^ { 2 1 0 } \mathrm { P b }$ 标准样品由英国利物浦大学做比对标准。 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ 活度的沉积物年代采用恒定放射性通量模式（Constant Rate of Supply，CRS）[19]进行计算。对应1963年的层位由 $^ { 1 3 7 } \mathrm { C s }$ 峰值确定。CRS 计算结果与 $^ { 1 3 7 } \mathrm { C s }$ 年代时标存在差异,则采用复合模式（Composite model)[19]进行修正。
+
+# 2.2.2 粒度分析
+
+本研究对80个样品进行沉积物粒度测试与分析。样品前处理采用 $30 \%$ （20 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和 $10 \%$ HCl分别去除有机质和碳酸盐。洗至中性后加入 $1 0 \mathrm { m L }$ 离散剂（六偏磷酸钠溶液），用超声波振荡离散 $1 5 \mathrm { m i n }$ 后，用英国Mastersizer2000 激光粒度仪（分析范围0.02一 $2 0 0 0 \mu \mathrm { m }$ )进行样品的粒度分析。每个样品测试3次，取其平均值进行分析。
+
+http://www.ecologica.cn
+
+![](images/0d07425ecbff943c49c07b0a42783801ae673f01aa1c574ef0c3b223108001e7.jpg)  
+图2牡丹江气象站实测1951—2012年均温和年降水量ig.2Measured annual mean temperature and precipitation from Mudanjiang Station during 1951—200虚线表示多年平均温度和多年平均降水量,数据来源：中国气象数据网http://data.cma.cn/
+
+# 2.2.3 硅藻分析
+
+本研究对80个样品均做硅藻鉴定与分析。从样品中取0.3— ${ \cdot 0 . 4 } \mathrm { g }$ 干样,加入 $10 \%$ HCI并加热去除碳酸盐矿物,再加入 $30 \%$ （20 $\operatorname { H } _ { 2 } \hat { 0 } _ { 2 }$ 去除沉积物中及硅藻细胞壁内的有机质;静置 $4 8 \mathrm { h }$ 后倒掉上清液,加入蒸馏水,重复3次以保证样品溶液呈中性。随后对处理后的样品进行永久制片。用Olympus 显微镜(BX53)的油镜（放大倍数1000)进行硅藻鉴定和计数。每个样品至少鉴定300 粒硅藻。硅藻鉴定主要参考 Krammer 和 Lange-Bertlot 2023]。硅藻数据统计分析基于各属种的相对百分比浓度。硅藻图谱的绘制和分带采用Tilia和TiliaGraph 软件完成。
+
+# 3结果
+
+# 3.1沉积年代框架
+
+三 $^ { 1 3 7 } \mathrm { C s } _ { \mathrm { e x } }$ 活度曲线显示了两个明显的峰值(图3)： $2 3 \mathrm { c m }$ 处的峰值 $\mathrm { ( 1 0 7 . 9 B q / k g ) }$ 对应1962—1963年的核武器试验高峰, $1 3 \mathrm { { c m } }$ 处的峰值 $\mathrm { ( 4 1 . 3 B q / k g ) }$ )对应1986 年的切尔诺贝利核泄漏事件。JPS2 钻孔 $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ 活度自上而下基本呈现指数衰减过程（图3）。以 $^ { 1 3 7 } \mathrm { C s }$ 为时标的混合模式计算出JPS2 钻孔的年代序列,钻孔底部的沉积年代约为1881年（图3）。
+
+# 3.2 硅藻图谱
+
+从80 个沉积样品中共鉴定了259个硅藻属种。相对百分浓度低于 $1 \%$ 的属种不纳入硅藻分析中。鉴定到的硅藻主要以浮游种和偶然性浮游种为主。浮游种主要包括Cyclostephanos dubius,Cyclostephanostholiformis,Stephanodiscus arus,tephanodiscus invisitatus,Fragilariacrotonensis,Asterionellformosa 和Discostellapseudostelligera,偶然性浮游种主要有 Aulacoseira granulata,Aulacoseira ambigua,Aulacoseira alpigena。此外,还鉴定到底栖或附生种,如 Fragilaria spp.、Navicula spp.、Cymbella spp.、Surirella spp.、Nitzschia spp.、Achnanthesspp.。根据聚类分析,JPS2 钻孔的硅藻图谱可以分为带I和带II,其中带I可分为两个亚带,带ⅡI可分为3个亚带(图4)。
+
+![](images/5215f6867b99b1697c69edad3b0880b42a194628247a3b3142c89fea90e67153.jpg)  
+图3JPS2钻孔 $^ { 1 3 7 } \mathrm { C s }$ $\mathbf { \tau ^ { 2 1 0 } P b }$ 活度( $\mathrm { | B q / k g \rangle }$ 及年代-深度关系曲线  
+Fig.3Activities of $^ { 1 3 7 } \mathrm { C s }$ and $\mathbf { \Delta ^ { 2 1 0 } P b }$ 0 $\mathbf { B q } / \mathbf { k g } ^ { \prime }$ ）， and the depth-age relationship of core JPS2
+
+带Ia(40—32cm,1881—1947）：以浮游种为主,最显著优势种为C.dubius,相对百分含量为 $1 8 . 8 \%$ 一$5 7 . 1 \%$ ,自下而上呈现丰度缓慢下降的趋势。其他浮游种，如 $C$ ，tholiformis,S.parvus，S. invisitatus 和 $D$ pseudostelligera的平均百分浓度范围为 $4 \% - 1 2 \%$ 。偶然性浮游种 $A$ ，alpigera也占有一定量,平均百分浓度为$5 . 4 \%$ 。底栖或附生种中Nitzschia spp.占的比例较高,百分含量为 $0 . 6 \%$ 1 $6 . 7 \%$ 。总体上,这一阶段硅藻组合较稳定,大部分层位P/B(浮游硅藻与底栖/附生硅藻浓度比)在10 左右。
+
+带 Ib(32—23cm，1947—1966)：仍以C.dubius 为主,平均百分含量为 $2 8 . 5 \%$ ,较带Ia 稍有下降。A.ambigua明显增加,平均相对百分含量约为 $7 . 4 \%$ ,最大可达 $2 1 . 5 \%$ 。其他属种变化不大。P/B与上一阶段相当。
+
+带IIa(23—14cm,1966—1986)：本带硅藻组合较I带出现很大的变化,优势种转变为A.formosa,A.granulata和A.ambigua,平均相对百分含量分别为 $1 7 . 1 \%$ ） $1 8 . 4 \%$ 和 $1 2 . 9 \%$ 。 $C .$ dubius丰度下降到约 $7 \%$ 。其他浮游种,如C.tholiformis,S.paruus,S.invisitatus,和底栖/附生种均有减少。这一阶段浮游种和底栖/附生种丰度均下降,而P/B 总体升高。
+
+带IIb(14—7cm,1986—2002):A.formosa 相对百分含量下降十分明显,到本带顶部几乎消失。偶然性浮游种,如A.granulata 和A.ambigua 也有所下降。虽然C.dubius 浓度变化不大,但其他浮游种,如 S.hantzschii,S.parvus,C.tholiformis,C.invisitatus 和 $D$ ：pseudostelligera出现较明显增加。本带硅藻另一个主要变化是底栖/附生种 Nitzschia spp.,特别是N.palea 突然出现并占约 $6 \%$ 的百分含量。总体上,这一阶段底栖/附生种丰度增加,浮游种丰度减小,P/B较1986 年以前明显下降。
+
+带IIc（7—0cm,2002—2012）：最明显的变化是 $F$ ，crotonensis相对百分含量显著增加，从底部不到 $1 \%$ 增加到最大含量 $1 5 . 2 \%$ 。A.granulata 较带IIb 也明显增加,而同时,A.ambigua 平均百分含量下降到约 $3 . 2 \%$ 。 $N$ palea在进入本带后几乎消失。顶部 Stephanodiscusmedius 则突然增加到约 $2 8 . 3 \%$ 。总体表现为浮游种丰度升高,底栖/附生种丰度下降,相应地,P/B较前一阶段有所上升。
+
+![](images/5c1aec14e9f78c4b255040176d988557a2c094753207f0179d835fc73ad6d5d7.jpg)  
+图4JPS2钻孔硅藻相对百分浓度(包含相对丰度 $> 1 \%$ 的属种)及 $\mathbf { P / B }$ 变化曲线Fig.4Diatom stratigraphy(include taxa >1% abundance）and P/B curve of core JPS2
+
+AA;直链藻属Aulacoseira;；SD;小环藻属、冠藻属冠盘藻属和星藻属Cyclotell，Cycostepanos，tephanodiscus，ndDiscostella；：约束增量平方和 Constrained Incremental Sum of Squares （S）
+
+# 4讨论
+
+镜泊湖硅藻鉴定和分析结果显示了过去130年,特别是约1966年以来,硅藻属种组合发生了数次明显变化（图4)。环境长期变化背景下,某一层位沉积硅藻组合是对一定时期环境状态（例如,流域地表风化、营养盐浓度、水文条件等)的综合体现[15]。据牡丹江气象站监测数据显示,近60 年来该地区多年平均气温、夏季温度和冬季温度上升约1—3℃（据中国气象数据网)。与此同时,镜泊湖流域农业发展迅速,农田开垦、化肥农药施用、森林砍伐等一系列人类活动强烈影响着该地区下垫面状况。因此,镜泊湖硅藻属种变化如何响应气候波动和人类活动需要进一步讨论。
+
+# 4.1镜泊湖硅藻对气候变化的响应
+
+大量研究发现,藻类生长和群落结构变化与气候因素密切相关,例如温度变化、冰雪覆盖情况、风场变化、太阳辐射或云量等[24-27]。这些气候因素主要通过改变水体分层和混合状态,以及光照和营养条件来间接影响硅藻生长和种群组合变化[16]。任何湖泊,只要气候导致的生态变化超过了其生态阈值,藻类群落均会产生显著响应[16]。气候变暖的显著生态效应已经在很多极地和亚极地湖泊中显现出来[11-4,6],主要表现为生长较快的小型属种cycloteloid 相对丰度增加,体积较大、生长较慢且沉降速度较快的 Aulacoseira 属种或小型底栖属种 fragilarioid相对丰度减小。与高纬度地区相似,很多高海拔地区湖泊硅藻记录也清晰地反映了气候变暖的信号[28-33]。虽然不少中纬度地区湖泊也发现了类似的生态转变[34-36],但由于该地区受到多种环境压力的影响,硅藻组合变化对近现代以来气候变暖响应并不明显[16]。本研究中,镜泊湖硅藻小型浮游种如 $C$ dubius S.paruus、C.tholiformis 在1960s 中期开始大量减少,相应地偶然性浮游种 Aulacoseira 明显增加。若据以上地区硅藻组合变化推测,这一硅藻组合转变应指示水体分层减弱或水体垂向扰动增强的环境状态。然而,近几十年来持续上升的气温条件很难形成这样的水体热力学和动力学性质变化。
+
+生境的变化往往会引起生物群落结构的变化。湖泊包含了湖岸区和开阔湖区，两者生境相去甚远，水位的剧烈变动可使两者相互转化。虽然缺乏镜泊湖水位数据，但沉积物的粒径分布能够反映水位的变化[37]。镜泊湖沉积物记录显示粒度粘土组分( $< 4 \mu \mathrm { m } \dot { \mathrm { \Omega } }$ )百分含量与年降水量变化趋势相似,而与粉砂组分 $( 4 . 0 { - } 3 2 . 0 \mu \mathrm { m } )$ 趋势相反（图5）。降水量增加能够抬升湖泊水位，更多细颗粒物质将沉积在深水区。根据JPS2钻孔粒度组分推测（图6），1960s—1980s(带IIa)处于低水位期，与高的P/B比值相矛盾；同样地，1980s—2000s（带IIb)水位上升的推断与低的P/B比值相矛盾。因此,镜泊湖水位变动不是JPS2 钻孔沉积硅藻群落结构变化的关键因子。
+
+已有研究表明，小型硅藻属种Cyclotella和大型硅藻属种Aulacoseira之间的转化在受季风影响的湖泊中同样明显[16]。Wang 等[38-39]对湖光岩玛珥湖和二龙湾沉积硅藻的研究发现,Discostella stelligera与 Aulacoseira spp.间的转变反映东亚冬季风的强弱。季风强弱影响区域风场，风速变化改变水体混合状态,进而引起硅藻组合变化。Li等[40]对镜泊湖千年尺度硅藻变化研究也表明,Aulacoseira 与小型浮游种（Cyclotella、Cyclostephanos、Stephanodiscus、Discostella）之间的转变能够指示风速的改变。牡丹江地区无冰期（5—11月）平均风速与 JPS2钻孔 Aulacoseira 和小型浮游种（Stephanodiscus、Cyclostephanos 、Discostella)百分含量对比发现,风速大小与 Aulacoseira丰度变化趋势相似而与小型浮游种丰度变化趋势相反（图7）。因此本研究认为,风对水体的扰动是镜泊湖硅藻群落结构变化的重要影响因子。
+
+![](images/a8faaed179a4476977483242316c4f87869c17bc30a1c08590beef06cbba2cf9.jpg)  
+图5年降水量与对应JPS2钻孔粒度组分对比曲线（1951—2011)Fig.5Comparisons between annual precipitation and grain-size components of core JPS2（1951—2011）虚线表示年降水量的五年滑动平均
+
+![](images/c913f4f9609690427ab2f380aba5bbdf58d1c7874cf055b35799640a2106a8b0.jpg)  
+图6JPS2钻孔粒度组分分布曲线  
+Fig.6Grain-size distribution curves of core JPS2
+
+![](images/697524252745593aef62566ff73c1860db20ffaf88c463d26b5de35a668fcc0e.jpg)  
+图75—11月份平均风速与JPS2钻孔直链藻属和小型浮游种相对百分含量对比曲线(1951—2011)   
+Fig.7Comparingaverage windspedfromMay-November（MJJASON）withpercentageabudancesof genus Aulacoseiraandsal-typ planktonic species from core JPS2（1951—2011) ）‘ TC
+
+# 4.2镜泊湖硅藻对人类活动的响应
+
+营养物质是影响硅藻群落结构变化的关键因子。镜泊湖硅藻群落的一个重大转变是20 世纪60 年代末A.formosa 的突然迅速增加。虽然A.formosa被认为具有较宽的营养耐受度[41],但研究表明A.formosa 对营养盐,特别是含氮营养盐响应比较敏感[42-43]。并且在很多湖泊中,A.formosa 取代小型硅藻属种cyclotellid 成为优势种往往与大量污染源输入有关[43-46]。在 1980s—2000s期间,N.palea 丰度达到历史最高水平。Wang等[39]对二龙湾沉积硅藻研究发现,P/B与气温变化密切有关,约1850 年以来气温显著上升的同时P/B 也明显上升。类似地,小龙湾沉积硅藻记录也同样显示约1940年以来P/B升高伴随着气温上升[47]。然而在镜泊湖,监测数据显示过去60年气温逐渐升高,但P/B从1986年开始显著下降。野外和实验研究均发现,浮游和附生硅藻相对丰度变化并不能笼统地解释为气候变化,还要考虑不同硅藻的生存策略[15-16]。N.palea 是一个耐污种,常出现在受污染或富营养化的水体环境中[48]。因此它的丰度增加很可能与水体污染物含量增加有关。21世纪开始,F.crotonensis 突然快速增加。F.crotonensis 同样被认为是典型富营养种,它的快速繁殖与人类活动密切相关[49-52]。并且相比于A.formosa,F.crotonensis 对磷具有更强的竞争力[53-54]。据调查显示,宁安县从1960s才开始使用化肥（主要为氮肥），并且到了1970s化肥才成为主要的农业肥料[18]。磷肥的使用则始于 20 世纪80 年代[55]。虽然未获得宁安县化肥使用量数据,但黑龙江省的统计数据显示1961—2002 年化肥施用量增加了40多倍[55]。2007年的水质调查结果显示,镜泊湖水体总氮和总磷已经超标,水质较差,属于严重富营养化[7]。以上数据说明,A.formosa、N.palea 和 $F$ ，crotonensis 丰度的相继增加与流域农业化肥大量使用关系较大,显示了趋于富营养化的水体环境。此外,生活污水和工业废水已经成为镜泊湖面源污染以外的两大污染源[6]，因此城市污水排放对镜泊湖硅藻群落结构变化的影响不可忽略。
+
+硅藻群落结构还可能因上层营养级的捕食而发生改变。镜泊湖有史料记载的最高渔获量为400t 左右，在人工放流鱼种的基础上,1988 年才达到 $8 3 7 \mathrm { t } ^ { [ 5 6 ] }$ ,说明鱼类导致1960s硅藻群落结构发生显著变化的可能性不大。镜泊湖现有鱼类30 余种,采样点所处的大湖水域以小型鱼类蒙古红和细鳞斜颌鲷为主体[57]。细鳞斜颌鲷生活在水体中下层,以腐屑和着生藻类为主食[58]。镜泊湖硅藻以生活在广阔水域的浮游种为主,因此认为细鳞斜颌鲷对硅藻群落的影响较小。蒙古红属于肉食性鱼类,体长 $1 0 { - } 1 5 \mathrm { c m }$ 以枝角类为食， $2 0 \mathrm { c m }$ 以上以小型鱼类为食[59]。镜泊湖枝角类主要有蚤状蚤（Daphonia pules）、僧帽蚤（Daphonia cucullta）、长额象鼻蚤（Bosmina longirostris）、脆弱象鼻蚤（Bosmina fatalis）、和突额湖仙达蚤（Limnosida frontosa）[60」。这些枝角类滤食或捕食1— $8 0 \mu \mathrm { m }$ 的藻类,并以1一 $2 0 \mu \mathrm { m }$ 的为主。20世纪80 年代末开始的人工放养鱼种将增强对枝角类的捕食压力,进而影响硅藻、特别是小型硅藻的丰度。然而镜泊湖沉积记录却显示小型硅藻丰度自 20 世纪80 年代末开始稍有增加（图4）,由此说明鱼类的影响并未成为改变镜泊湖硅藻群落结构的关键因子。
+
+# 4.3区域湖泊硅藻记录对比
+
+在距离镜泊湖西南方向约 $2 8 0 \mathrm { k m }$ 的小龙湾沉积物中发现,约1950年以来小型浮游种Discostellawolterecki丰度增加,底栖和附生种相应减少（图8）,指示了由于气候变暖而导致的藻类生长周期延长[47]。同样地,在距离小龙湾约1km 的二龙湾中发现小型浮游硅藻属种 Discostella 增加的同时大型硅藻属种Asterionella 和Cyclotella 减少（图8),指示了温度上升引起的水体分层加强[39]。镜泊湖、小龙湾和二龙湾处于同一气候区,湖面海拔差异不大,因此认为它们受到的气候条件影响差别也不大。然而,在相似的气候影响背景下,镜泊湖与小龙湾和二龙湾的硅藻记录却显示了截然相反的转变过程,说明流域和湖泊内部差异是东北山区湖泊硅藻组合变化的另一个重要因素。小龙湾和二龙湾是封闭型湖泊,湖面面积很小,仅为 $0 . 1 \mathrm { k m } ^ { 2 }$ 和0.3$ { \mathrm { k m } } ^ { 2 }$ ;而镜泊湖是开放型湖泊,湖面面积分别是小龙湾和二龙湾的900倍和300倍。并且,镜泊湖流域面积达$1 1 8 2 0 \mathrm { k m } ^ { 2 [ 1 7 ] }$ ,而小龙湾和二龙湾流域面积仅为 $0 . 1 5 \mathrm { k m } ^ { 2 }$ 和 $0 . 4 \mathrm { k m } ^ { 2 [ 6 1 ] }$ 。湖泊和流域形态的差异可能导致湖面吹程、水体动力学和热力学的差异,从而使小龙湾和二龙湾对气候变化更敏感。
+
+![](images/ea61eff04c6923629d338f0003835161323ac10158fdcdde08ddc7d80fd74774.jpg)  
+图8小龙湾和二龙湾主要硅藻属种丰度、 $\mathbf { P / B }$ 和温度变化过程[39,47]
+
+Fig.8Changes in theabundances of main diatom species，P/Band temperature inLake Xiaolongwan and Erlongwan[39,7.
+
+1960s中期开始,镜泊湖沉积硅藻组合变化十分频繁,A.formosa、N.palea 和 $F$ ，crotonensis 相继迅速增加。这些硅藻组合转变很大程度上反映人类活动对湖泊生态环境的影响。在二龙湾,A.formosa 在1970s增加与当时湖岸道路建设加强流域物质输入有关[39]。虽然孢粉记录显示1930s 以来龙岗火山区农业活动增强,森
+
+http://www.ecologica.cn
+
+林砍伐频繁[61],但区域植被变化对小龙湾硅藻组合变化影响甚微[47]。此外,小龙湾沉积物微量元素和球状碳颗粒通量指示了约1940年开始受到大气沉降污染的影响,而硅藻对此并未做出响应[47]。由此可知,东北山区湖泊对人类活动的响应特征差异较大。本研究认为,由于小龙湾流域面积很小 $( 0 . 1 5 \mathrm { k m } ^ { 2 }$ ),并且流域下垫面没有遭到严重破坏,较弱的人为干扰尚未超过湖泊生态阈值,因此硅藻更多地反映区域因素（如气候因素)而非局地因素(如人为因素)的影响。虽然二龙湾的沉积硅藻或多或少反映了人类活动的影响,但由于人为干扰持续时间不长且强度不大,因此仍主要反映气候变化的影响。而在镜泊湖,由于其流域十分宽广,农业活动异常频繁且城镇化、旅游业发展迅速,不论从人类活动强度还是持续时间上均远高于小龙湾和二龙湾,因此气候变化的影响可能被强烈的人为干扰掩盖掉。 ）
+
+# 5结论
+
+镜泊湖一个多世纪以来的硅藻记录显示了数次群落组合的显著转变。1966年开始的小型浮游种 $C$ dubius 迅速减少伴随着偶然性浮游属种A.granulate和A.ambigua的增加指示了湖面风速增大引起了水体扰动增强。20 世纪60 年代开始,A.formosa， $N .$ palea 和 $F$ ，crotonensis 的相继增加反映了镜泊湖流域农业和城市化发展导致的湖泊水体营养盐富集。虽然近60年的实测气象数据显示镜泊湖地区气温持续升高,但沉积硅藻组合变化并没有表现出这一气候变化信号。然而,在与镜泊湖处于相同气候区的小龙湾和二龙湾,沉积硅藻记录显示了小型硅藻丰度增加伴随着气温的升高,与很多极地、亚极地和树线湖泊的硅藻记录较一致。与镜泊湖及其流域状况相比,小龙湾和二龙湾受人为干扰十分有限,并且小的湖泊容量和流域面积使得它们对气候变化更敏感。通过对比分析,本研究认为在中国东北地区,受人类活动影响较弱的湖泊（如小龙湾和二龙湾)能较清晰地反应气候变暖对湖泊生态的影响;而受人类活动影响较大的湖泊(如镜泊湖),气候变暖的生态效应很可能被强烈的人为干扰掩盖掉。
+
+# 参考文献（References）：
+
+[1］傅伯杰，牛栋，赵士洞.全球变化与陆地生态系统研究：回顾与展望.地球科学进展，2005，20(5)：556-560.  
+[2]VorosmartyCJ,McintyrePB,esserMO,DugeonD,PrusevchA,GreeP,lide,BuSE,SlivanCA,LieanC,DvsPM.Global threats to human water security and river biodiversity.Nature，2010,467(7315）: 555-561.  
+[3］杨桂山，马荣华，张路，姜加虎，姚书春，张民，曾海螯.中国湖泊现状及面临的重大问题与保护策略.湖泊科学,2010，22（6)：799-810.  
+[4] 徐云麟，李立新，李莉.湖泊藻类生长动力学研究——以镜泊湖为例.北京大学学报：自然科学版，1991,27(6)：725-737.  
+[5］刘鸿雁，徐云麟.镜泊湖藻类生长和湖泊富营养化预测初探.生态学报，1996，16(2）：195-201.  
+[6］宋辞，于洪贤.镜泊湖浮游植物多样性分析及水质评价.东北林业大学学报，2009，37（4）：40-42.  
+[7］潘保原，马云，刘佳琦.镜泊湖富营养化评价及预测研究.环境保护与循环经济，2012，（11）：52-54.  
+［8」孙淼，张佳洁，马晶，王克，刘曼红.镜泊湖鱼类调查与水质分析.黑龙江水产,2014，（2）：25-29.  
+[9] SmolJP.Paleolimologanimportanttolforfetieosystemmanageent.JoualofquaticEcosystemHealth，992,（）:4-8.  
+[10] MoserKA，MacDoaldGSmolJAplicatiosoffreshwaterdiatostogoapcaleseachPrgressinysicalGeogay996，(1) : 21-52.  
+11 SorvariKolaAosoRkeatspoettcigshpland.obalaeg）-181.  
+[12] PerrenBB,radeyRS,FrancusP.apidlacusrineresponsetrecenthighActcwarming：diatomrecordrSawothLake,seIsland，Nunavut.Arctic，Antarctic，and Alpine Research，2003,35(3）: 271-278.  
+[13] RuhlandK,Priesit，SmolJaelcalevidencefrtfotioetalagesin5OlkesossCadactictreeline.Arctic，Antarctic，and Alpine Research,2003，35(1）：110-123.  
+[14]RhlandK,teoAHmseraleofaterelaisctfrrhAeEolakes.Global Change Biology，2008，14（11）：2740-2754.  
+[15]SmolJoerEFDato：ApplatiosforteEvioetaldEarthecesnddCambdg：CambdgeUnsity,2010:155-190.  
+[16]RihlandKatesoAmolJ.akdatoespoestain：vieingtheevidee.Jalfalelolg，,4-35.  
+［17］王苏民，窦鸿身.中国湖泊志.北京：科学出版社，1998：506-508.  
+［18］宁安县志编纂委员会办公室.宁安县志.哈尔滨：黑龙江人民出版社，1989：165-166.  
+[19] ApplebyPG.Chronostratigraphictechniquesinrecentsediments//LastWM，SmolJPeds.TrackingEnvironmentalChangeUsingLakeSediments.Volume：BasinAnalysis，Coring，andChroologicalTchnquesDordrecht,theetherlands：KluwercademicPublishers;180-190.  
+[20]KrammerK，Lange-BertalotH.Bacilaiopycee.1.Teil：aviculacee/EtlHGartnerG，GerloffJ，Heyg，MoleherdSuBwasserflora von Mitteleuropa， Band $2 / 1$ .Stuttgart，Jena: Gustav Fischer Verlag，1986: 442-876.  
+[21]rae/EMollenhauer D eds.SuBwasserflora von Miteleuropa，Band 2/2.Stuttgart，Jena:Gustav Fischer Verlag，1988.1-610.  
+[2]KrarKgBertacileilntraes，frgilcotce/lrlfgeds.SuBwasserflora von Mitteleuropa，Band $^ { 2 / 3 }$ . Stuttgart，Jena：Gustav Fischer Verlag，1991：1-598.  
+[23]KrammerK，Lange-BertalotH.Baclariophyceae.4.Teil；Achnanthaceae，kritischeergnzungenzunavicula（Lineolatae und gomphonema.gesamtliteraturesil-r，fJ，less/4.Stuttgart，Jena:Gustav Fischer Verlag，1991:1-468.  
+24]GrtenDslalldynamics in northern hemispheric lakes.The Scientific World Journal,2002,2：586-606.  
+25]eyuelllateResearch，2002，24(5）:417-428.  
+[26]AdrianR，O'Reill CM,Zagarese H，BainesSB，Hesen DO，KelerW，Livingstone DM，Sommaruga R,StraileD，VanDonk E,Weyhenmeyer G A，Winder M.Lakes as sentinels of climate change.Limnologyand Oceanography，2009,54(6): 2283-2297.  
+[27]Winder M,Sommer U.Phytoplanktonresponsetoachanging climate.Hydrobiologia,2012,698(1)：5-16.  
+[28]LoterAF,BiglerC.Dodiatoms intheSwiss Alpsreflectthelengthof e-cover?Aquatic Sciences，2O00,62（2）:15-141.  
+[29]CtaanJ,Venturaracelj,radosIsH,kusU,Korola,erAFarberiA,StuchlkE,ienLitusk,ucacaT,CamarerL,GoudsmitGH,opcekJ,LemckeG,LvingstoneD,MulerB,autioM,iskoM,SorvariS,SporkaF,Strueck,oM.Seasonalecosystemvariabilityinremotemountainlakesimplicationsfordetectingclimaticsignalsinsedimentrecords.JoualofPaleolimnology，2002，28（1）: 25-46.  
+[30]Karst-Riddoch TL,Pisaric MFJ,Smol JP. Diatom r sponses to 2Oth century climate-related environmental changes in high-elevation mountainlakes of the northern Canadian Cordillera.Journal of Paleolimnology，2005，33（3）:265-282.  
+[31]ParkerBR，VinebookeRD,SchinderDWRecencliateextreealteralpinelakeosystes.Procedisof teNatioalcadeofSciences of the United Statesof America,2008,105(35）:12927-12931.  
+[32]SarosJE,StoeJR,PedersonGT,Slemmos KEH,SpanbauerT,SchliepA，CalD，WillamsonCE,EngstromDR.Climate-inducedchanges ilakecosstemstructureinferedfromcoupledne-andpaleoeologicalaproaches.Ecology，012，93（10):15-2164.  
+[33]WangQ,YangXD,AndersonN,ZhangEL,LiYL.Diatomresponsetoclimateforcingofadep，alpinelake（Lugu Hu,Yuan，SWChina）duringtheastGlacialMaximumanditsimplicatiosforuderstandingregionalmonsonvariability.QuatearySienceRevies，014,86: 1-12.  
+[34]drianR，WielSertenDfestoyitsfkeplakosecisygovetrolgcalsosetiatewagGlobalChange Biology，2006,12(4): 652-661.  
+[35] WinderM，ReuterJE,haowG.LakeavoursalsedaktodatomspeieProceengoftealScietyiaSciences，2009,276(1656):427-435.36 Shimoda Y，Azim ME,PerharG，Ramin M,KenneyMA，Sadraddini S，GudimovA，Arhonditsis GB.Ourcurentunderstandingof lakeecosystemresposetoateangeathaveeealyladfrtohtemperatedeplkes？JoualofreatLakesRseach,(1) : 173-193.  
+[37] CahillRA.Geochemistryof RecentLakeMichigan Sediments.Circular57.Champaign,IL：lnois StateGeological Survey，1981.  
+[38] Wang L,LiJJ,LuHY,Gu ZY,RioualP,HaoQZ,MackayA W,Jiang WY,Cai BG,XuB,HanJT,Chu GQ.The East Asian wintermonsoonoverthelst5OarsitslinkstigatitudesndroicallimatesstmsndcomplexcelaiotothesuerooQuaternary Science Reviews，2012,32：131-142.  
+[39]WangL,RioualP,anizzVN,LuHY,GuZY,ChuGQ,YangDG,HanJT,LiuJQ,MackaAW.A1-yrrecordfevtalchange in NE China indicatedbydiatom assemblages from maarlakeErlongwan.Quatermary Research，2O12,78(1):24-34.  
+[40]LiYL,Liao,enR,ShenJDatom-basediferencefatiosinthetrengthofEastsiansprigindspedssincedHoloePalaeogeography，Palaeoclimatology，Palaeoecology，2014，418：65-74.  
+[41]RimetF,DruartJC，AevilExplongthaicsofplaktondatocouitiesiLakeenevausingeergentself-ogangs(1974—2007).Ecological Informatics,2009,4(2）：99-110.  
+[42]McKnightD,SmithRL,BradburyJaronJS,SpauldingS.PhtoplanktondyamicsinheRockyMoutainlakes，ColoadUS.A.Arctic and Alpine Research，1990,22(3）: 264-274.  
+[43]HobbsWO,TelfordRJ,irksHJB,arosJE,HazewinkelRRO,PeenBB,Saulnier-TabotE,WolfeAP.Quantfingetechangesin remote lakesof North Americaand Greenlandusing sediment diatom assemblages.PLoSOne,2010,5(4）：e10026.  
+[44]WolfeA,VanGoAC,aronJSRecentcolgicalandogeocicalchngesinielesofockotainNatioalPak（oloadUSA）：a response to anthropogenic nitrogen deposition.Geobiology，2003，1(2）：153-168.  
+[45]SarosEcedStseeldosilakes:mplicationsforrecentphytoplanktoncommunityreorganizatios.CanadianJoualofFisheriesandAquaticSiences，2o，6（7）:1681-1689.  
+[46]SarosJE，ClowDW，BlettT，WolfeAP.Cricalnitrogendeposionladsinhigh-elevationlakesofthewesternUSinferredfrompaleolimnological records.Water，Air,& Soil Pollution,2011,216(1/4）：193-202.  
+[47]PanizoVackaRoseoualP,LengJRecentpalaoliologicalcangerecoediLakeXialoganoastCnclimatic versus anthropogenic forcing. Quaternary International, 2013,290-291：322-334.  
+48]UitotiedJtdcatfealitpaidlsisderatofaatspecific sampling. Freshwater Biology，1996,36(2）:475-486.  
+[49]WeelsptKelistroarfsdcltthe pelagic zone of Lake Constance，Germany. Journal of Paleolimnology，1999,21(2）:171-192.  
+[50]GrrionJ，WakemanRS.UseofpaleoliologytodocumenttheefetoflakeshorelanddevelopmentonwaterqualtyJoualofPaleolimnology，2000，24（4）：369-393.  
+[51]BemioH,ApplebG,PhillpsGRcostructiguenthiosinfkds，UKmplicatiosforeolefiatotalphosphorus transfer functions in shalow lake management.Journal of Paleolimnology，2001,26(2）:181-204.  
+[52]Koster D，Racca JM J，Pienitz R. Diatom-based inference models and reconstructions revisited：methods and transformations.Journal ofPaleolimnology，2004，32（3）：233-246.  
+[53]KiamSotECFitzSCLigpakocdatosdatehgeineelofteoeosstgouetheory. Limnology and Oceanography，1996,41（5）:1052-1062.  
+[54]KarstTlleldefltolilacoadtSciences，2000,62(1）:20-38.  
+[55］鲁彩艳，隋跃宇，史奕，陈欣.化肥施用对黑龙江省黑土区近 50年粮食产量的贡献率．农业系统科学与综合研究，2006，22（4)：273-275.  
+[56］郝兆博.浅析镜泊湖人工放流鱼种问题.黑龙江水产，1996，（1)：22-23.  
+[57] 金志民，杨春文，刘铸，金建丽，李殿伟.镜泊湖鱼类资源调查.国土与自然资源研究，2010，（2)：72-73.  
+[58] 王银东，熊邦喜，王明学，王卫民，刘小玲.细鳞斜颌鲷的生物学特性与资源利用.水利渔业，2002,22（3)：45-47.  
+[59] 夏重志，姜作发.镜泊湖蒙古红的种群特征及其对放养鱼种的影响.淡水渔业，1993，23(3)：13-16.  
+[60] 于洪贤，王杨，马成学，左彦东.镜泊湖浮游甲壳动物的群落结构.东北林业大学学报，2008，36(1)：66-68.  
+[61] MingramJ，llnJRBruchanC,iuJ,LuoX,egendankJFW,NowaczykN，hetlerG.Maar-andraterlakesofteLgGangVolcanicield（.iiatedintsndgeatistoyfteast9asQatearytetial125: 135-147.

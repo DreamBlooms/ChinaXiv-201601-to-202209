@@ -1,0 +1,194 @@
+# 禾豆间距对间作豌豆“氮阻遏”减缓效应的影响
+
+# 赵财柴强\*\* 乔寅英 王建康
+
+(甘肃省干旱生境作物学重点实验室/甘肃农业大学农学院兰州730070)
+
+摘要针对禾豆间作协同利用化学氮肥和豆科固氮潜力调控依据薄弱问题，以河西走廊区主导间作模式玉米/豌豆间作系统为研究对象，研究了禾豆间作间距为 $1 5 \mathrm { c m } . 3 0 \mathrm { c m }$ 和 $4 5 \ \mathrm { c m }$ 空间结构对间作豌豆氮阻遏减缓效应的影响，以期为禾豆间作种植模式优化空间结构、减缓氮阻遏、提高氮素利用效率提供理论依据。2013和 2014两年研究结果表明，与单作相比，间作豌豆有效根瘤个数和根瘤重均有显著提高，根瘤数提高幅度达$0 { \sim } 5 0 0 \%$ ，其中间距为 $3 0 \ \mathrm { c m }$ 时，豌豆的根瘤数和瘤重达最大。以根瘤数和根瘤重计算的氮阻遏消减效应(Ca)均为正值，施氮条件下，玉米与豌豆间距为 $3 0 \ \mathrm { c m }$ 处理的氮阻遏消减效应显著高于 $1 5 \ \mathrm { c m }$ 和 $4 5 \ \mathrm { c m }$ 间距处理,2013年和2014年以根瘤数计算的Ca值分别达 $78 . 7 0 \%$ 和 $1 6 1 . 2 1 \%$ ，说明间作相对于单作都具有减缓氮阻遏的作用。而在此期豌豆的营养竞争比率 $\mathrm { ( C R p m ) }$ 大于1，豌豆相对于玉米具有较强的种间竞争能力。禾豆间作可显著提高氮素利用效率，以间距为 $3 0 \ \mathrm { c m }$ 的间作处理最高，2013年和2014年两年平均较间距为 $1 5 \ \mathrm { c m }$ 和 $4 5 \ \mathrm { c m }$ 空间结构的间作模式分别提高 $2 1 . 9 0 \%$ 和 $2 1 . 8 8 \%$ 。说明优化空间结构可有效增加间作豌豆的结瘤数和瘤重，增强氮阻遏减缓效应，调控禾豆间作系统氮素吸收利用，提高氮素利用效率。
+
+关键词　玉米/豌豆间作空间结构间作作物间距氮阻遏　根瘤氮素利用效率营养竞争比率中图分类号：S344.2 文献标识码：A 文章编号:1671-3990(2016)09-1169-08
+
+# Effect of cereal-legume spacing in intercropping system on alleviating “N inhibition” in pea plants
+
+ZHAO Cai, CHAI Qiang\*\*, QIAO Yinying, WANG Jiankang (Gansu ProvincialKeyLaboratoryofAridLand Crop Science/FacultyofAgronomy,GansuAgricultural UniversityLanzhou 730070, China)
+
+AbstractOptimization of spatial structure in intercroppingsystem is important for increasing cropyield and improving resourceutilization eficiency.However,thetheoreticalbasis forimproving nitrogenfixation functions oflegumeandnitrogen utilization eficiency byoptimizing the spatial structureof intercroppingsystemhas notbeen wellinvestigated.Thus the synergistic efectoflegume/cereal intercropping system onnitrogen nutrient utilization and regulation potentialof legume plants was investigated in a field experimenton pea/maize intercropping system in the Hexi Corrdor.Theexperiment consisted of monoculture pea,monoculture maize and pea/maize intercropping systems.In intercroppng system，three intercropping spacings between pea and maize were set, which were $1 5 \ \mathrm { c m }$ $3 0 \ \mathrm { c m }$ and $4 5 \ \mathrm { c m }$ , with unchanged pea row spacing and changed maize row spacing; two nitrogen application rates were also set for intercropped maize, $0 \mathrm { \ k g } \cdot \mathrm { h m } ^ { - 2 }$ and 260 $\mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ .The aim of the experiment was to determine the efect of spatial structure of pea/maize intercropping system on aleviationof“nitrogen inhibition”(N inhibition）onpea nodulationcaused byNfertilization.Theresultsof the studyalso provided a much beterunderstanding oftheoptimizationof thespatial structureoflegume/cereal intercroppng system,and the improvement of $\mathrm { ~ N ~ }$ use efficiency.The results for 2013-2014 showed that pea/maize intercropping significantly increased nodule number and weight of pea,compared with single-cropping peasystem.Increase in nodule number varied from0 to $500 \%$ , with the largest nodule number and weight appearing under intercropped spacing of $3 0 ~ \mathrm { c m }$ . N inhibitory effects (Ca) calculated by using nodule number and weight were all positive. Under $\mathrm { ~ N ~ }$ application, the effect on alleviating“N inhibition” under $3 0 \ \mathrm { c m }$ spacing was significantly higher than that under $1 5 ~ \mathrm { c m }$ and $4 5 \ \mathrm { c m }$ intercropping spacings.With $\mathrm { ~ N ~ }$ application, Ca calculated from nodule number reached $78 . 7 0 \%$ and $1 6 1 . 2 1 \%$ in both 2013 and 2014 growing seasons,and Ca calculated from nodule weight reached $1 5 4 . 8 7 \%$ and $4 0 6 . 5 2 \%$ without $\mathrm { ~ N ~ }$ fertilization. The ratio of nutrient competition of pea plants (CRpm) was greater than 1,which suggested thatthecapacityof interspecificcompetition of pea was higher than maize.Intercroppng system significantly improved N use efficiency and N use efficiency under $3 0 ~ \mathrm { c m }$ spacing was significantly higher than that under $1 5 \ \mathrm { c m }$ and $4 5 \ \mathrm { c m }$ intercropping spacings.N use efficiency under spacing of $3 0 ~ \mathrm { c m }$ was average $2 1 . 9 0 \%$ and $2 1 . 8 8 \%$ higher than that of $1 5 \ \mathrm { c m }$ and $4 5 \ \mathrm { c m }$ respectively in 2013 and 2014 growing seasons. The optimization of spatial structure in intercropping increased nodulenumberand weightofpeaplants,aleviated“Ninhibitory effect”,regulatedNuptakeefectnd enhanced Nuse eficiencyof pea/maize intercropping system.Theresultsof this study were critical for developing N-saving intercropping systems, enriching the theory of $\mathrm { \Delta N }$ use eficiency and improving the contribution of $\mathrm { \Delta N }$ fixation of legume to legume/cereal intercropping systems.
+
+KeywordsMaize/pea intercrop;Spatial structure; Spacing between intercropped crops;Ninhibition;Root nodule; Nitrogen use efficiency; Ratio of nutrient competition
+
+禾本科/豆科作物(禾豆)间作具有保护土壤[1]、控制杂草和病害[2-3]、增加产量[4]等诸多优点，并在热带和雨养农业地区广泛应用[5-6]。近年来，随种植业对化肥依赖性的增大，以及大量施用化肥带来的环境污染和农业可持续性下降问题的加剧，禾豆间作提高养分利用效率、减少种植业对化肥的依赖性等优点得到诸多研究者的高度关注[7-8]，并被认为是未来有机农业和高效替代农业的重要模式。相关研究证明，间作资源高效利用的前提是科学调控种间竞争[9、充分挖掘种间互补，而竞争、互补作用的调控因子主要包括作物品种[10]、养分[11]、水分管理制度、作物空间布局和密度[12-14]等。这些研究成果提供了高效调控间作群体的实践依据，但深入到通过优化作物空间布局、密度和作物搭配，进而提高“氮阻遏"消减效应的理论十分薄弱，使得未豆间作氮素互补高效利用的生物学潜力远未挖掘出来。
+
+作物生长期间，施氮将导致豆科作物结瘤数量和生物固氮量的下降，这种现象被视为"氮阻遏"[15]。与禾本科作物间作时，由于禾本科作物大量吸收硝酸盐使土壤矿质氮维持在低的比较适宜的水平，通过降低土壤矿质氮来减小对豆科固氮的抑制[16]，这种作用可视为禾本科作物对豆科作物“氮阻遏"的“减缓效应”。研究表明，禾本科作物能够刺激豆科作物的结瘤量和固氮量，其可能的原因是禾本科作物竞争利用了豆科作物根际的硝态或者铵态氮[17]。Li等[18]在中国西北地区设计了不同供氮水平下的玉米(Zeamays)间作蚕豆(Viciafaba)试验，探讨了间作玉米对间作蚕豆“氮阻遏"的“减缓作用”，结果发现在
+
+$7 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $2 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 4个施氮水平下，玉米减缓氮肥对蚕豆瘤重抑制作用的百分比 $\mathrm { { C a } }$ 分别为 $9 . 7 \%$ 人 $- 1 0 \%$ 、 $1 5 . 2 \%$ 和 $10 \%$ ，减缓氮肥对蚕豆固氮量占总氮吸收量的百分比 $C i s ( \% )$ 分别为 $20 . 3 \%$ 人 $- 0 . 5 \%$ 、 $1 7 . 4 \%$ 和 $3 . 9 \%$ ，这充分证明了通过间作禾本科作物缓解施氮对豆科作物结瘤和固氮抑制作用的可行性，同时为禾豆间作群体选择合理的施氮水平提供了理论依据。因此，在集成应用农艺调控措施的基础上，探讨作物空间布局与“氮阻遏"消减效应的关系，将对深化未豆间作氮素高效利用机理、构建高效调控技术产生重要推动。
+
+西北内陆灌区光资源丰富、土质良好、热量一熟有余两熟不足，适宜发展间作套种，但受水资源不足矛盾的日益加剧，传统的小麦(Triticumaestivum)间作玉米、小麦间作大豆(Glycinemax)等模式已不适应生产实践需求。2005年以来，玉米间作豌豆因其显著的节水、高效和推进农牧结合的潜力而迅速推广[19]。但按现有生产规范，玉米间作豌豆按单作玉米的施肥制度进行管理，而作物空间布局参照小麦间作玉米设计[20]。现有管理技术既忽视了禾豆间作的氮素补偿效应，又忽略了不同作物组合时潜在的竞争效应以及竞争对“氮阻遏"消减效应的影响，使得该模式在限量供水条件下提高氮肥利用效率、作物产量和土地利用效率等方面的优势未能充分发挥出来。
+
+为此，在已有单作和禾豆间作氮素高效利用理论基础之上，重点解析玉米/豌豆(Pisum sativum)间作氮素利用效率与“氮阻遏"消减效应的关系，探明“氮阻遏”消减效应对作物空间布局的响应，明确通过“氮阻遏"消减效应提高禾豆间作氮素补偿利用的基本机制，将对构建简易、高产、高效、氮肥节约型禾豆间作模式提供有力的理论和实践支撑。鉴于此，本试验通过对玉米/豌豆间作体系进行地上空间布局的调整，研究了 $1 5 \ \mathrm { c m }$ 、 $3 0 ~ \mathrm { c m }$ 和 $4 5 \ \mathrm { c m }$ 禾豆间距下豌豆的结瘤特征，分析了不同禾豆间距下对间作豌豆氮阻遏减缓效应的影响，以期为禾豆间作种植模式优化空间结构、减缓“氮阻遏”、提高氮素利用效率提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+本研究于2013年和2014年在甘肃农业大学绿洲农业科研教学基地 $( 1 0 3 ^ { \circ } 5 ^ { \prime } \mathrm { E }$ ， $3 7 ^ { \circ } 3 0 ^ { \prime } \mathrm { N } ,$ 进行。试验区位于河西走廊东端的武威市凉州区黄羊镇，属寒温带干旱气候区，海拨 $1 7 5 0 \mathrm { m }$ ，无霜期约 $1 5 5 { \mathrm { ~ d ~ } }$ ，多年平均降雨量 $1 5 6 ~ \mathrm { m m }$ 、年蒸发量约 $2 4 0 0 \mathrm { m m }$ ，干燥度5.85，年平均气温 $7 . 2 \mathrm { ~ \textdegree ~ }$ ， $\geqslant 0 \ \mathrm { ~ \stackrel { ~ } { ~ C ~ } ~ }$ 和 $\geqslant 1 0$ ℃积温分别为 $3 ~ 5 1 3 . 4 ~ \mathrm { ~ \textdegree C }$ 和 $2 ~ 9 8 5 . 4 ~ \mathrm { ~ \textdegree C }$ ；日照时数 $2 ~ 9 4 5 ~ \mathrm { h }$ 土地资源广阔，光照资源丰富，日照时数长，昼夜温差大，适于发展间作套种等多熟种植。试验期间试验区日均温 $1 7 . 8 5 \ \mathrm { ~ \textdegree C }$ ，有效降雨量 $2 1 6 . 6 \ \mathrm { \ m m }$ ，高于多年平均降雨量。土壤类型为灌漠土，2013年测定土壤 $0 { \sim } 3 0 ~ \mathrm { c m }$ 养分含量见表1。
+
+表1播种前试验地土壤养分含量 Table 1Soil chemical properties before planting   
+
+<html><body><table><tr><td>土层 Soil layer (cm)</td><td>有机碳 Organic carbon (g:kg-1)</td><td>全氮 Total N (g:kg-1)</td><td>铵态氮 NH4-N</td><td>硝态氮 NOj-N</td></tr><tr><td>0~10</td><td>12.05</td><td>0.87</td><td>(mg·kg-1) 2.51</td><td>(mg:kg-1) 17.71</td></tr><tr><td>10~20</td><td>13.19</td><td>0.96</td><td>1.83</td><td>11.94</td></tr><tr><td>20~30</td><td>12.27</td><td>0.85</td><td>1.29</td><td>8.72</td></tr></table></body></html>
+
+# 1.2 试验设计
+
+试验设单作豌豆(P)、单作玉米(M)、玉米间作豌豆(PM)3种种植模式，玉米间作豌豆模式中设 $1 5 \ \mathrm { c m }$ (D1)、 $3 0 ~ \mathrm { c m }$ (D2)和 $4 5 \ \mathrm { c m }$ (D3)3种玉米和豌豆间距处理，施氮(N1)和不施氮(NO)两种施氮处理。试验共10个处理，各处理3次重复。单作玉米及间作玉米带的总施氮量一致，设为当地习惯施氮量 $4 5 0 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 按基肥：玉米拔节期：大喇叭口期 $= 3 : 2 : 5$ 分施;氮肥在间作中按玉米、豌豆占土地面积比例 $1 1 : 8$ 分别施肥，豌豆带氮肥和磷肥全部按基肥一次性施入，玉米追肥在玉米根部膜下附近追施，单作与间作施肥方式相同；施用的氮肥为尿素，磷肥为过磷酸钙。磷肥按照 ${ \bf \nabla } \ N : { \bf \nabla } \mathrm { \bf { P } } \qquad $ 为 $2 : 1$ 比例全部作为基肥施用。具体施氮模式见表2。
+
+表2不同种植模式作物的施肥制度  
+Table 2Fertilization regimes of crops in different planting patterns kg·hm-2   
+
+<html><body><table><tr><td rowspan="2">种植模式 Planting pattern</td><td rowspan="2">作物 Crop</td><td colspan="2">基肥Basic fertilizer</td><td colspan="2">追施N肥 Topdressing</td><td rowspan="2">总施氮量 Total N applied</td></tr><tr><td>N</td><td>P2O5</td><td>拔节期Jointing</td><td>大喇叭口期 Bellmouthed</td></tr><tr><td>单作</td><td>豌豆Pea</td><td>135</td><td>67.5</td><td>1</td><td>1</td><td>135</td></tr><tr><td>Monoculture</td><td>玉米Maize</td><td>135</td><td>225.0</td><td>90</td><td>225</td><td>450</td></tr><tr><td>间作</td><td>豌豆Pea</td><td>57</td><td>28.5</td><td></td><td>一</td><td>57</td></tr><tr><td>Intercropping</td><td>玉米Maize</td><td>78</td><td>130.0</td><td>52</td><td>130</td><td>260</td></tr></table></body></html>
+
+小区面积 $4 5 . 6 \mathrm { m } ^ { 2 }$ ，小区长 $8 \mathrm { m }$ 、宽 $5 . 7 \mathrm { m }$ ，各小区间留 $0 . 3 \mathrm { ~ m ~ }$ 宽的走道。间作每个小区种3个单元，其中1个单元用于测产，另外两单元用于各生育时期干物质采样。每单元玉米带3行、豌豆带4行，带幅分别为 $1 1 0 \mathrm { c m } , 8 0 \mathrm { c m } _ { \circ }$ 单作玉米带行距 $4 0 \ \mathrm { c m }$ ，株距 $3 0 ~ \mathrm { c m }$ ，间作玉米随处理而定(见图1)，单作玉米种植密度8.3万株 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ ，间作玉米5.3万株 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ ；豌豆带行距 $2 0 ~ \mathrm { c m }$ ，株距 $2 0 ~ \mathrm { c m }$ ，单作豌豆种植密度180万株 $\cdot \mathrm { h m } ^ { - 2 }$ ，间作豌豆76万株 $\cdot \mathrm { h m } ^ { - 2 }$ 。各小区随机排列，玉米带全膜覆盖，机械覆膜；豌豆带不覆膜，其他处理同大田。地膜为厚度 $0 . 0 8 ~ \mathrm { m m }$ 的农用地膜。
+
+供试豌豆为针叶豌豆‘MZ-1',4月1日种植,7月12日收获；供试玉米品种为‘先玉335',4月25日种
+
+植,10月5日收获。
+
+# 1.3 测定指标及计算方法
+
+# 1.3.1 样品的采集和制备
+
+# 1)植株样品的采集和制备
+
+豌豆、玉米取样都在其各自的关键生育期完成。自玉米苗期开始(播种后15d)每隔15d采样1次；玉米前两次采样取10株，以后每次采样取3株，生育期内共取样8次。豌豆分别在分枝期、孕蕾期、开花结荚期、灌浆期和完熟期5个关键生育时期取样，每次取样20株。所采样品于 $1 0 5 \mathrm { ~ } \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下烘干 $2 \mathrm { ~ h ~ }$ ，再于 $8 0 \mathrm { ~ ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下将所含水分烘干，称重计为地上部干物质重，然后用专用粉碎机进行粉碎，之后过100目筛装袋测定植株含氮量等指标。
+
+![](images/611c0586e58b554e6500faa11e5a12f3afa368524302b052636421ae118efe1f.jpg)  
+图1不同禾豆间距的玉米/豌豆间作系统田间布置图  
+Fig.1Field design of different cereal-legume spacings in pea/maize intercropping system 不同间距处理的豌豆带行距不变，随着豌豆与玉米间距的增大，玉米带行距缩小。For diferent cereal-legume spacing treatments, roW spacingofpea tripdoesnotchange,whilerowspacingofmaize tripdecreases with increasingofspacingbetweenpeaand maize.
+
+# 2)土壤样品的采集和制备
+
+播种前，于划分好的30个小区中随机取5个，从中打钻取 $0 { \sim } 3 0 ~ \mathrm { c m }$ 的土样；播种后，于每次植株采样后取样点附近分别用土钻采集 $0 { \sim } 8 0 ~ \mathrm { c m }$ 土壤样品，每 $2 0 \ \mathrm { c m }$ 一层，然后装到已编号的自封袋，自然风干，土样水分基本蒸发后用100自筛子过筛装袋，用于测定土壤硝态氮、铵态氮和全氮等养分指标。
+
+3)豌豆根瘤数、根瘤重测定
+
+2013年、2014年在豌豆开花后10d(玉米大喇叭口期，2013年6月5日和2014年6月7日)采样一次。采样用随机取样法，随机从每个小区豌豆带选取宽 $0 . 4 ~ \mathrm { c m }$ 、深 $0 . 6 \ \mathrm { c m }$ 样方，用铁锹轻轻挖出豌豆根系及周围土壤，记录豌豆株数，基本完整取得豌豆根系分装在相应的取样袋中，于当天人工数每小区豌豆根瘤数，用JA5003分析天平称取根瘤干重和根干重。
+
+4)植株全氮和土壤无机氮(硝态氮、铵态氮)含量 测定
+
+植株全氮含量按照整株植物、采用Elemantar元素分析仪测定；土壤无机氮含量包括土壤中的硝态氮和铵态氮含量 $\left( \mathrm { m g \cdot k g ^ { - 1 } } \right)$ ，用德国布朗-卢比公司产AA3型流动分析仪测定。
+
+# 5)作物产量
+
+作物收获时，每个处理豌豆取4行 $\cdot \times 1 . 5 \mathrm { ~ m ~ }$ 样方，测定产量性状，小区单打单收；每个处理玉米每小区取样20株，测定其产量性状，每小区取3幅 $| \times 2 \mathrm { ~ m ~ }$ 样方进行产量测定，然后按小区计产。
+
+# 1.3.2 相关指标计算
+
+1)间作对“氮阻遏"的消减效应(Ca)[16]：定义为相同施氮量下间作豆科作物相对单作豆科作物结瘤值的变化率。若 $\mathrm { C a } { > } 0$ ，表示豆科间作禾本科根系相互作用促进豆科根瘤生长而增加了生物固氮，且减缓了氮肥对豆科结瘤和生物固氮的抑制作用，反之亦然。
+
+$$
+\mathrm { C a } = ( Y _ { \mathrm { i } } – Y _ { \mathrm { s } } ) / Y _ { \mathrm { s } } { \times } 1 0 0 \% \
+$$
+
+式中： $\smash { Y _ { \mathrm { i } \setminus \mathrm { ~ \Omega ~ } } } \ : Y _ { \mathrm { s } }$ 分别表示相同施氮水平下，间作和单作豆科作物的结瘤值。
+
+2)营养竞争比率 $( \mathrm { C R } _ { \mathrm { p m } } ) ^ { [ 2 1 ] }$ ：是度量作物养分吸收能力强弱的一种指标。本试验用豌豆相对玉来对养分的竞争比率来衡量养分竞争能力。
+
+式中： $U _ { \mathrm { i m } }$ 和 $U _ { \mathrm { i p } }$ 分别为间作玉米和间作豌豆的养分 吸收量， $U _ { \mathrm { s m } }$ 和 $U _ { \mathrm { s p } }$ 分别为单作玉米和单作豌豆的养 分吸收量, $F _ { \mathrm { m } }$ 和 $\boldsymbol { F } _ { \mathrm { p } }$ 分别为间作中玉米和豌豆所占比 例。当 $\mathrm { C R } _ { \mathrm { { p m } } } { > } 1$ 时，表明豌豆比玉米营养竞争能力强; 当 $\mathrm { C R } _ { \mathrm { { p m } } } { < } 1$ 时，表明豌豆比玉米营养竞争能力弱。
+
+3)氮素利用率(NUE)
+
+NUE=(施氮作物吸氮量-不施氮作物吸氮量)/施 氮量 $\times 1 0 0 \%$ (3)
+
+# 1.4 数据统计
+
+试验数据采用MicrosoftExcel2007进行整理汇总，用 SPSS17.0 进行显著性检验(LSD 法)。
+
+# 2 结果与分析
+
+# 2.1 未豆间距对间作豌豆结瘤特性的影响
+
+间作作物的空间结构和施氮对豌豆有效结瘤数和根瘤重具有显著影响(表3)。与单作豌豆相比，间作豌豆有效根瘤个数和根瘤重均有显著提高，施氮$( \mathrm { N } 1 , 1 3 5 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 条件下，2013年玉米和豌豆间距为
+
+表3豌豆/玉米间作系统中不同禾豆间距和氮处理下间作豌豆的结瘤特性 Table 3Nodulecharacteristicsofintercroppng peas at diferentcereal-legume spacings inpea/maize intercroppingsystemand nitrogen treatments   
+
+<html><body><table><tr><td rowspan="3">处理 Treatment</td><td colspan="4">单株根瘤数 Nodule number of single-plant</td><td colspan="4">单株根瘤重 Nodule weight of single-plant (g)</td></tr><tr><td colspan="2">2013年Year2013</td><td colspan="2">2014年 Year 2014</td><td colspan="2">2013年Year2013</td><td colspan="2">2014年Year 2014</td></tr><tr><td>N1</td><td>NO</td><td>N1</td><td>N0</td><td>N1</td><td>N0</td><td>N1</td><td>N0</td></tr><tr><td>单作豌豆 Monoculture pea</td><td>7±0.49b</td><td>4±1.09c</td><td>6±0.72c</td><td>2±0.36b</td><td>0.034±0.01a</td><td>0.029±0.01b</td><td>0.026±0b</td><td>0.014±0b</td></tr><tr><td>D1</td><td>8±2.34ab</td><td>12±0.78a</td><td>8±1.14bc</td><td>10±0.87a</td><td>0.040±0a</td><td>0.078±0.04a</td><td>0.027±0.01ab</td><td>0.095±0.04a</td></tr><tr><td>D2</td><td>12±3.67a</td><td>10±1.62a</td><td>15±4.01a</td><td>12±3.21a</td><td>0.051±0.01a</td><td>0.049±0.02ab</td><td>0.097±0.03a</td><td>0.087±0.02a</td></tr><tr><td>D3</td><td>7±3.89b</td><td>8±0.17b</td><td>12±0.96b</td><td>9±1.25a</td><td>0.038±0.02a</td><td>0.062±0.01ab</td><td>0.047±0ab</td><td>0.055±0.02ab</td></tr></table></body></html>
+
+N1:施氮 $\overline { { 1 3 5 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 } } }$ · $\mathrm { \Delta N 0 }$ ：不施氮。表中数据为各处理3个重复的平均值，同列不同小写字母表示同一年份同列数据在0.05水平下差异 显著。下同。N1:Napplicationrateis $1 3 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ $\mathbf { \delta N } 0$ :no N application.Each value is the mean of the three replicates in the same treatment.Different leters within a column in the same year mean significant diffrences among treatments at 0.05 level.The same below.
+
+$1 5 \ \mathrm { c m ( D 1 ) }$ 和 $3 0 \ \mathrm { c m } ( \mathrm { D } 2 )$ 时的单株结瘤个数分别较单作豌豆(P)提高 $14 . 2 9 \%$ 和 $7 1 . 4 3 \%$ ；单株根瘤重在单作豌豆和间作豌豆间差异不显著，但间作较单作分别提高 $1 7 . 6 5 \%$ 、 $50 . 0 0 \%$ 和 $1 1 . 7 6 \%$ 。2014年间作在D1、D2和D3处理下根瘤个数分别较单作豌豆提高$3 3 . 3 3 \%$ / $1 5 0 . 0 0 \%$ 和 $1 0 0 . 0 0 \%$ ，瘤重分别提高 $3 . 8 5 \%$ /$2 7 3 . 0 8 \%$ 和 $80 . 7 7 \text{‰}$ 不施氮(N0)条件下,2013年玉米和豌豆间距为 $1 5 \ \mathrm { c m ( D 1 ) }$ 、 $3 0 \ \mathrm { c m } ( \mathrm { D } 2 )$ 和 45 cm(D3)时的单株结瘤个数分别较单作豌豆提高 $2 0 0 . 0 0 \%$ /$1 5 0 . 0 0 \%$ 和 $100 . 0 0 \%$ ，单株根瘤重分别提高 $1 6 8 . 9 7 \% .$ $6 8 . 9 7 \%$ 和 $1 1 3 . 7 9 \%$ ;2014年玉米和豌豆间距在D1、D2和D3处理下单株根瘤个数分别较单作豌豆提高$4 0 0 . 0 0 \%$ 、 $50 0 . 0 0 \%$ 和 $3 5 0 . 0 0 \%$ ，单株根瘤重分别提高$5 7 8 . 5 7 \%$ 人 $5 2 1 . 4 3 \%$ 和 $2 9 2 . 8 6 \%$ 。同时，可以看出在不同处理中当间距为 $3 0 \ \mathrm { c m }$ 时，豌豆的根瘤数和瘤重达到最大，显著高于单作。说明玉米/豌豆间作间距在 $3 0 \ \mathrm { c m }$ 时能有效改善间作豌豆的结瘤状况。施氮可显著提高单作豌豆的结瘤数和根瘤重，但对间作豌豆无显著影响，且施氮与间作的互作作用不显著。
+
+# 2.2 禾豆间距对间作豌豆“氮阻遏"的消减效应
+
+间作对“氮阻遏"的消减效应(Ca)以相同施氮的间作与相应单作进行比较。由表 4 可知，在施氮(N1)和不施氮处理下以根瘤数和根瘤重计算的 $\mathrm { C a }$ 均为正值，说明间作相对于单作都具有减缓“氮阻遏"的作用。施氮处理中，玉米与豌豆间距为 $3 0 \mathrm { c m } ( \mathrm { D } 2 )$ 处理的"氮阻遏"消减效应显著高于 $1 5 \ \mathrm { c m ( D 1 ) }$ 和 $4 5 \ \mathrm { c m }$ (D3)间距处理，2013年以根瘤数计算的Ca值达78.70，分别较D1和D3处理高出 $2 5 2 . 6 0 \%$ 和 $5 7 9 . 0 3 \%$ 2014年D2处理的Ca值161.21，分别较D1和D3处理提高 $3 5 6 . 1 7 \%$ 和 $5 2 . 0 4 \%$ ；不施氮处理中，2013年D1处理的Ca值显著高于D2和D3，2014的Ca值在不同间距处理间差异不显著。但不施氮处理的“氮阻遏"消减效应显著高于施氮处理，2013年和2014年以根瘤数计算的Ca平均值较施氮处理分别高122.63和248.42。说明禾豆间作具有显著的"氮阻遏"消减效应，而适宜的未豆间距是发挥间作消减“氮阻遏"的重要影响因素，且土壤低氮条件可增强这一作用。
+
+表4豌豆/玉米间作系统中不同禾豆间距的"氮阻遏"消减效应(Ca) Table 4Alleviatory efect (Ca)ofN inhibitoryat different cereal-legume spacings in pea/maize intercropping system %   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">处理 Treatment</td><td colspan="2">2013年 Year 2013</td><td colspan="2">2014年 Year 2014</td></tr><tr><td>N1</td><td>N0</td><td>N1</td><td>NO</td></tr><tr><td>根瘤数"氮阻遏"消减效应 Ca for nodule number</td><td>D1</td><td>22.32±3.67b</td><td>213.33±20.00a</td><td>35.34±9.61bc</td><td>347.83±37.90a</td></tr><tr><td></td><td>D2</td><td>78.70±5.19a</td><td>154.87±41.41b</td><td>161.21±9.14a</td><td>406.52±69.86a</td></tr><tr><td></td><td>D3</td><td>11.59±3.21c</td><td>112.31±4.23b</td><td>106.03±6.49b</td><td>293.48±54.30a</td></tr><tr><td>根瘤重“氮阻遏"消减效应</td><td>D1</td><td>17.65±2.07b</td><td>168.97±34.48a</td><td>14.10±3.85c</td><td>578.57±75.66a</td></tr><tr><td>Ca for nodule weight</td><td>D2</td><td>50.00±6.77a</td><td>68.96±9.31ab</td><td>273.08±28.45a</td><td>521.43±78.57a</td></tr><tr><td></td><td>D3</td><td>11.76±2.61b</td><td>113.79±3.11a</td><td>80.77±5.43b</td><td>292.86±38.75b</td></tr></table></body></html>
+
+# 2.3不同禾豆间距下豌豆相对于玉米的种间竞争力
+
+从表5可知，施氮显著增大了作物的吸氮量，且单作作物的吸氮量显著高于单作。在豌豆开花结荚期，豌豆相对于玉米具有较强的种间竞争能力。2013年营养竞争比率在不施氮(N0)和施氮(N1)间存在显著差异；不施氮条件下，营养竞争比率 $\displaystyle \left( \mathrm { C R } _ { \mathrm { p m } } \right)$ （20
+
+http://www.ecoagri.ac.cn
+
+表5豌豆/玉米间作系统中不同禾豆间距下植株吸氮量及营养竞争比率 $( \mathbf { C R _ { p m } } )$ （20 Table 5Nitrogen absorption amounts of corps and nutrient competition rate between crops $\mathrm { ( C R _ { p m } ) }$ under different cereal-legume spacings in pea/maize intercropping system   
+
+<html><body><table><tr><td rowspan="2">种植模式 Planting pattern</td><td rowspan="2">处理 Treatment</td><td colspan="3">2013年 Year 2013</td><td colspan="3">2014年 Year 2014</td></tr><tr><td>豌豆吸氮量 N absorption of pea (kg·hm-2)</td><td>玉米吸氮量 N absorption of maize (kg·hm-2)</td><td>CRpm</td><td>豌豆吸氮量 N absorption of pea (kg·hm-2)</td><td>玉米吸氮量 N absorption of maize (kg·hm-2)</td><td>CRpm</td></tr><tr><td>单作豌豆</td><td>N0</td><td>112.18±12.13 b</td><td></td><td>1</td><td>167.46±23.11 b</td><td>一</td><td></td></tr><tr><td rowspan="2">Monoculture pea 单作玉米</td><td>N1</td><td>134.10±20.33 a</td><td>1</td><td></td><td>181.80±31.23 a</td><td>一</td><td></td></tr><tr><td>N0</td><td>1</td><td>373.58±41.33 b</td><td></td><td>1</td><td>313.29±51.34 b</td><td></td></tr><tr><td>Monoculture maize 玉米/豌豆</td><td>N1</td><td>1</td><td>403.00±63.19 a</td><td></td><td>1</td><td>370.66±46.55 a</td><td>1</td></tr><tr><td rowspan="6">Maize/pea intercropping</td><td>D1N0</td><td>57.92±8.52 e</td><td>264.39±25.66 e</td><td>1.09±0.19 a</td><td>57.38±6.55 d</td><td>187.67±21.65 d</td><td>1.46±0.21 a</td></tr><tr><td>D2N0</td><td>63.88±7.24 d</td><td>303.43±34.59 d</td><td>1.05±0.11 a</td><td>96.50±9.18 d</td><td>192.88±19.18 d</td><td>1.40±0.19 a</td></tr><tr><td>D3N0</td><td>59.66±7.44 d</td><td>294.44±51.11 d</td><td>1.01±0.08 a</td><td>92.22±7.33 d</td><td>236.63±15.66 d</td><td>1.09±0.11 b</td></tr><tr><td>D1N1</td><td>67.66±5.38 d</td><td>389.81±41.06 b</td><td>0.78±0.03 b</td><td>115.86±12.14 c</td><td>241.41±20.13 c</td><td>1.47±0.15 a</td></tr><tr><td>D2N1</td><td>75.67±9.22 c</td><td>392.03±21.56 b</td><td>0.87±0.12 b</td><td>113.48±15.20 c</td><td>259.06±23.58 c</td><td>1.34±0.20 a</td></tr><tr><td>D3N1</td><td>68.94±3.15 d</td><td>350.74±19.49 c</td><td>0.89±0.22 b</td><td>118.29±10.16 c</td><td>242.95±19.88 c</td><td>1.49±0.17 a</td></tr></table></body></html>
+
+都大于1，说明豌豆比玉米的营养竞争能力强；而施氮条件下，营养竞争比率都小于1，说明豌豆比玉米的营养竞争能力弱，这可能是由于2013年试验地的基础地力较高降低了豌豆对营养的竞争。2014年研究结果表明，不施氮和施氮处理间作豌豆相对于玉米有较强的种间竞争能力，营养竞争比率 $\mathrm { C R } _ { \mathrm { p m } }$ 都大于1，且在不施氮处理下豌豆较玉米的竞争力随间距的增大而减小， $\mathrm { C R } _ { \mathrm { p m } }$ 在 $\mathsf { D } 1 ( 1 5 ~ \mathrm { c m } )$ （204号和 $\mathrm { D } 2 ( 3 0 \ \mathrm { ~ c m } )$ 间距处理下显著高于 $\mathrm { D } 3 ( 4 5 ~ \mathrm { ~ c m } )$ 处理，分别较D3高 $3 3 . 9 5 \%$ 和 $2 8 . 4 4 \%$ ，而不同间距的 $\mathrm { C R } _ { \mathrm { p m } }$ 在施氮处理间无显著差异。说明在豌豆开花后10d，豌豆相对于玉米具有较强的种间竞争能力。
+
+# 2.4不同禾豆间距下玉米间作豌豆的氮肥利用率
+
+施氮条件下间作可显著提高氮素利用效率(图2)。2013年间作系统的氮肥利用率均显著高于单作玉米和单作豌豆，间作复合群体氮素利用效率较单作玉米高 $7 . 7 \% { \sim } 4 5 . 8 6 \%$ ，较单作豌豆高 $4 7 . 3 7 \% \sim$ $9 9 . 6 \text{‰}$ 不同禾豆间距条件下间作复合群体氮素利用效率表现为 $\mathrm { D } 2 \mathrm { > D } 1 \mathrm { > D } 3$ ，其中，D2 较 D1、D3高$2 5 . 7 6 \% . 3 5 . 4 4 \%$ ，且差异显著。2014年研究表明，间作系统的氮肥利用率均显著大于单作玉米和单作豌豆，间作复合群体氮素利用效率较单作玉米高$1 5 . 1 6 \% { \sim } 3 4 . 9 0 \%$ ，较单作豌豆高 $3 6 0 . 7 9 \% { \sim } 4 3 9 . 8 \%$ 间作系统中表现为间距 $\mathrm { D } 2 \mathrm { > D } 3 \mathrm { > D } 1$ ，其中，D2较D1、D3分别高 $1 7 . 1 4 \%$ 和 $7 . 6 9 \%$ ，且差异显著。说明间作对氮肥利用效率有显著促进作用，在 $4 : 3$ 带型种植模式中玉米与豌豆间距为 $3 0 ~ \mathrm { c m }$ 的空间配置氮素利用效率最高。
+
+![](images/c3c4e96ba7f348c04714a2409a93caa5d0ca50b5d6e289362a15423f3a113c31.jpg)  
+图2不同禾豆间距下玉米/豌豆间作复合群体的 氮肥利用率 Fig.2Nitrogen utilization efficiency of maize/pea intercropping system at different spatial structure P为单作豌豆,M为单作玉米。Pis monoculture pea;Mis monoculture maize.
+
+# 3 讨论与结论
+
+间作群体中，作物的竞争和互补提高了产量和养分利用效率，主要原因包括间作作物根间作用对养分吸收的促进、作物产量形成的竞争-恢复、养分高效利用作物对非高效作物养分的有效化等[22]。与禾本科作物间作时，由于禾本科作物大量吸收硝酸盐使土壤矿质氮维持在低的比较适宜的水平，通过降低土壤矿质氮来减小对豆科固氮的抑制[16]。本研究表明，玉米/豌豆间作可显著提高豆科作物的根瘤数和瘤重，同时以根瘤数和瘤重计算的“氮阻遏"消减效应值Ca均大于0，说明禾豆间作可促进豆科作物结瘤，对“氮阻遏"有显著地减缓作用。施氮对豆科作物根瘤形成、生长和固氮能力有显著影响，随着氮用量的增加，根瘤干质量、根瘤数量呈现先逐渐增加而固氮酶活性和豆血红蛋白含量则表现为持续下降的趋势，适量施氮对根瘤生长有显著促进作用，当氮素供应不足时则会抑制根瘤的生长，但当氮素供应过量时也会抑制根瘤的形成[23]。本研究表明,不施氮处理的“氮阻遏"消减效应显著高于施氮处理，2013年和2014年以根瘤数计算的Ca平均值较施氮处理的分别高122.63和248.42；这可能主要是由于本研究中设计的施氮水平为当地习惯施氮量（20 $( 4 5 0 ~ \mathrm { \ k g \cdot h m ^ { - 2 } } ,$ ，施氮量过大抑制了间作豌豆的结瘤特性。
+
+间作作物的空间布局主要指不同作物在复合群体中的占地比、株行距以及两种作物共处期的长短而产生的空间占有量大小。Hauggaard-Nielsen等[24]设计的大麦(Hordeumvulgare)间作豌豆试验证明,大麦和豌豆带各占 $1 0 0 ~ \mathrm { c m }$ 、各占 $5 0 ~ \mathrm { c m }$ 、大麦带占$5 0 \ \mathrm { c m }$ 豌豆带占 $1 0 0 \ \mathrm { c m } \ 3$ 种模式总吸氮量显著大于单作，说明了两种作物间存在补偿作用，这种补偿作用主要归因于间作大麦大量吸氮迫使豌豆对生物固氮的依赖性增大，但这种补偿作用在3种模式间的差异并不明显。本研究表明在间距 $3 0 ~ \mathrm { c m }$ 的空间结构下豆科作物的结瘤数和瘤重最大，“氮阻遏"消减效应值(Ca)高于 $1 5 \ \mathrm { c m }$ 和45cm的间距处理；开花结英期(开花后10d)的豌豆相对于玉米具有较强的种间竞争能力，营养竞争比率 $\mathrm { ( C R _ { p m } ) }$ 都大于1；间作系统的氮肥利用率均显著大于单作，且在间距为30cm的空间结构下最高。说明优化空间结构能够有效改善间作豌豆的结瘤状况，促进氮阻遏消减，显著提高氮素利用效率。
+
+带状间套作中，两种作物的相邻带是资源竞争与互补的焦点区域，传统的间作空间结构设计原则是“挤中间、空两边”，即在设计的密度范围内尽量减小同种作物的行距而扩大相邻带的距离(间距)，但这种理念使间作生产者可能丧失了通过优化间距提高氮素利用效率的机会。本研究成果将对丰富禾豆间作氮素高效利用理论，提高豆科在间作群体中的固氮贡献率，发展氮肥节约型间作生产产生积极推动作用。
+
+# 参考文献References
+
+[1]Ahlawat A,Jain V,Nainawatee HS.Effect of low temperature and rhizospheric application of naringenin on pea-Rhizobium leguminosarum biovar viciae symbiosis[J].Journal of Plant Biochemistry and Biotechnology,1998,7(1):35-38   
+[2]Hauggaard-Nielsen H,Ambus P,Jensen E S.Interspecific competition,N use and interference with weeds in pea-barley intercropping[J].Field Crops Research,2001,70(2):101-109   
+[3]Banik P.Evaluation of wheat(Triticum aestivum) and legume
+
+intercropping under $1 : 1$ and $2 : 1$ row-replacement series system[J].Journal of Agronomy and Crop Science,1996, 176(5): 289-294
+
+[4] 李隆，杨思存，孙建好，等．小麦/大豆间作中作物种间的 竞争作用和促进作用[J]．应用生态学报，1999，10(2): 197-200 LiL,Yang S C, Sun JH,et al. Interspecific competition and facilitationinwheat/soybeanintercroppingsystem[J]. Chinese Journal of Applied Ecology,1999,10(2): 197-200   
+[5] Corre-Hellou G, Brisson N,Launay M,et al. Effect of root depth penetration on soil nitrogen competitive interactions and dry matter production in pea-barley intercrops given different soil nitrogen supplies[J].Field Crops Research, 2007, 103(1): 76-85   
+[6]Dhima K V,Lithourgidis A S,Vasilakoglou I B,et al. Competition indices of common vetch and cereal intercrops in two seeding ratio[J].Field Crops Research, 2007,100(2/3): 249-256   
+[7] Corre-Hellou G, Fustec J, Crozat Y. Interspecific competition for soil N and its interaction with $\mathbf { N } _ { 2 }$ fixation,leaf expansion and crop growth in pea-barley intercrops[J].Plant and Soil, 2006,282(1/2): 195-208   
+[8] Hauggaard-Nielsen H,Andersen $\textbf { M K }$ ， Jornsgaard B,et al. Densityand relative frequency effects on competitive interactions and resource use in pea-barley intercrops[J]. Field Crops Research,2006,95(2/3):256-267   
+[9]齐万海，柴强．不同隔根方式下间作小麦玉米的竞争力及 产量响应[J]．中国生态农业学报,2010,18(1):31-34 Qi W H, Chai Q. Yield response to wheat/maize competitiveness in wheat/maize intercropping system under different root partition patterns[J]. Chinese Journal of Eco-Agriculture, 2010,18(1): 31-34   
+[10]刘景辉，曾昭海，焦立新，等．不同青贮玉米品种与紫花苜 蓿的间作效应[J].作物学报,2006,32(1):125-130 Liu JH, Zeng Z H, Jiao L X, et al. Intercropping of different silage maize cultivars and alfalfa[J]. Acta Agronomica Sinica, 2006,32(1): 125-130   
+[11]肖焱波，李隆，张福锁．豆科//禾本科间作系统中氮营养研 究进展[J].中国农业科技导报,2003,5(6):44-49 Xiao YB,LiL, Zhang F S. An outlook of the complementary nitrogen nutrition in the legume//graminaceae system[J]. Review of China Agricultural Science and Technology, 2003, 5(6): 44-49   
+[12] 刘正芳，柴强．带型及施氮对玉米间作豌豆光能利用率的 影响[J]．农业现代化研究,2012,33(3):367-371 Liu Z F,Chai Q.Response of solar radiation use efficiency on nitrogen application rates and percentage of intercropped maize and pea[J]. Research of Agricultural Modernization, 2012,33(3): 367-371   
+[13]朱元刚，高凤菊，曹鹏鹏，等．种植密度对玉米-大豆间作 群体产量和经济产值的影响[J].应用生态学报,2015,26(6): 1751-1758 Zhu Y G, Gao F J,Cao P P,et al. Effect of plant density on population yield and economic output value in maize-soybean intercropping[J]. Chinese Journal of Applied Ecology,2015,
+
+26(6): 1751-1758
+
+[14]Danso SK A,Zapata F,Hardarson G,et al.Nitrogen fixation in fababeans as affected by plant population density in sole or intercropped systemswith barley[J]. Soil Biology& Biochemistry, 1987,19(4): 411-415   
+[15] Simon J,Skrdleta V.Biomass production in peas (Pisum sativum L.）and broad beans(Vicia faba L.）and symbiotic dinitrogen fixation as affected by ploughing or no-tillage and nitrogen fertilizer[J].Soil and Tillage Research,1983,3(4): 367-375   
+[16]李玉英，孙建好，李春杰，等．施氮对蚕豆/玉米间作系统 蚕豆农艺性状及结瘤特性的影响[J]．中国农业科学，2009, 42(10): 3467-3474 LiY Y,Sun JH,Li C J,et al.Effects of interspecific interactions and nitrogen fertilization rates on the agronomic and nodulation characteristics of intercropped faba bean[J]. Scientia Agricultura Sinica,2009,42(10):3467-3474   
+[17] Boucher D H,Espinosa MJ. Cropping system and growth and nodulation responses of beans to nitrogen in Tabasco, Mexico[J]. Tropical Agriculture,1982,59(4): 279-282   
+[18] LiL,Yang S C,Li $\mathrm { ~ X ~ L ~ }$ ,et al.Interspecific complementary and competitive interactions between intercropped maize and faba bean[J].Plant and Soil,1999,212(2):105-114   
+[19]Chen G D,Chai Q，Huang G B，et al．Belowground interspecies interaction enhances productivity and water use efficiency in maize/pea intercropping systems[J]. Crop Science, 2015,55(1):420-428   
+[20]史中欣，柴强，杨彩虹，等．带型配置及施氮量对玉米间作 豌豆产量和水分利用效率的影响[J]．甘肃农业大学学报, 2011,46(1): 39-43 Shi ZX,Chai Q,Yang CH,et al.Effects of different nitrogen applications and intercropping stripe compound on yield and WUE under maize/pea intercropping[J]. Journal of Gansu Agricultural University,2011,46(1):39-43   
+[21]肖焱波，李隆，张福锁．小麦/蚕豆间作体系中的种间相互 作用及氮转移研究[J].中国农业科学,2005,5:965-973 Xiao Y B,Li L,Zhang F S. The interspecific nitrogen facilitation and the subsequent nitrogen transfer between the intercropped wheat and faba bean[J].Scientia Agricultura Sinica,2005,5:965-973   
+[22] Zhang F S,Li L.Using competitive and facilitative interactions in intercropping systems enhances crop productivity and nutrient-use efficiency[J].Plant and Soil,2003,248(1/2): 305-312   
+[23]王树起，韩晓增，乔云发，等．施氮对大豆根瘤生长和结瘤 固氮的影响[J]．华北农学报,2009,24(2):176-179 Wang S Q，Han X Z,Qiao Y F,et al. Nodule growth, nodulation and nitrogen fixation in soybean (Glycine max L.) asaffected by nitrogen application[J].Acta Agriculturae Boreali-Sinica,2009,24(2):176-179   
+[24]Hauggaard-Nielsen H,Gooding M,Ambus P,et al.Pea-barley intercropping for efficient symbiotic $\mathbf { N } _ { 2 }$ -fixation,soil N acquisition and use of other nutrients in European organic cropping systems[J].Field Crops Research,2009,113(1): 64-71
+
+# 欢迎订阅2017年《大豆科学》
+
+全国中文核心期刊中国科技核心期刊中国农业核心期刊中国科学引文数据库来源期刊RCCSE中国学术核心期刊CA化学文摘收录期刊JST日本科学技术振兴机构数据库收录期刊
+
+《大豆科学》主要面向从事大豆科学研究的科技工作者，大专院校师生、各级农业技术推广部门的技术人员及科技种田的农民。主要刊登有关大豆遗传育种、品种资源、生理生态、耕作栽培、植物保护、营养肥料、生物技术、食品加工、药用功能及工业用途等方面的学术论文、科研报告、研究简报、国内外研究述评、学术活动简讯和新品种介绍等。
+
+《大豆科学》为双月刊，逢单月20日出刊，刊号:ISSN100-9841CN23-1227/S，广告经营许可证号:230103000004,邮发代号：14-95。国内每期定价：20.00元，全年120.00元；国外每期定价：20.00美元(含邮资），全年120.00美元，国外代号：Q5587。全国各地邮局均可订阅，也可向编辑部直接订购。
+
+地址：哈尔滨市南岗区学府路368号《大豆科学》编辑部(邮编:150086)电话:0451-86668735网址:www.haasep.cnE-mail: ddkxbjb $@$ 126.com

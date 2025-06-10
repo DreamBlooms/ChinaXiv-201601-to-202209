@@ -1,0 +1,171 @@
+# 基于断续脉宽调制的三电平逆变器中性点电位平衡控制方法
+
+刘思强　王丽梅(沈阳工业大学电气工程学院 沈阳 110870)
+
+![](images/0f3d1c7e3de4d7fb48fa32a3474a36d2366a272d61b55db84d9489bdec5e71ba.jpg)
+
+刘思强男 1990年生，硕士研究生，研究方向为电力电子与电气传动。
+
+摘要：在中压大功率逆变器中，存在开关频率高、开关损耗大等问题。采用断续脉宽调制策略（DPWM）能降低开关频率，同时减小开关损耗。通常，传统的中性点平衡方法是将补偿电压引入到参考电压中，但是当采用DPWM调制方法时，由于开关的通断之间会存在一定的间隔，所以采用传统的平衡方法无法达到中性点平衡控制。本文首先分析了中性点不平衡的原因，其次分析了传统平衡控制方法的局限性，最后采用断续脉宽角调节控制方法。该方法既保证了低的开关频率，同时实现了中性点电压的平衡，并且没有引入额外的硬件电路和复杂的计算方法。最后采用Matlab/Simulink仿真验证了所提出的方法的有效性。
+
+关键词：三电平逆变器 断续脉宽调制中性点电位控制中图分类号：TM351
+
+![](images/1c7eef0ecdd9f676a0b2dddcc6e7c7446d1bcda66a76deb20dca416d647e15ec.jpg)
+
+# A New Discontinuous PWM Method of Three-Level Inverter for Neutral-Point Voltage Balancing Control
+
+王丽梅女 1969年生，教授，博士生导师，研究方向为伺服驱动技术。
+
+Liu SiqiangWang Limei (Shenyang University of TechnologyShenyang 110870 China)
+
+Abstract: In a medium-voltage high-power inverter, there are problems such as high switching frequency and high switching loss.Discontinuous pulse-width modulation (DPWM) can reduce the switching frequency and the switching loss. Generally, the offset voltage is added to reference voltages in the conventional voltage balancing method. However, when using DPWM, the performance of conventional balancing method is limitary because turn-on and turn-off switching occurs at regular interval. In this paper, the causes of the imbalance of the neutral-point are analyzed at first, and then the limitations of traditional control methods are analyzed,and finally the method of adaptive control of intermittent pulse width angle is proposed. The proposed method maintains low switching losses and achieves the effective voltage balancing,without additional hardware and complex calculation. Finally the results obtained through the Matlab/Simulink simulation verify that the effectiveness of the proposed method.
+
+Keywords: Three-level inverter, discontinuous pulse width modulation, neutral-point voltage balancing
+
+# 1 引言
+
+多电平逆变器的种类多种多样，有T型逆变器、二极管钳位型逆变器和H桥型逆变器。多电平逆变器具有输出电压谐波含量低、电压变化率小、EMI小等优点，目前在中高压大功率场合具有十分重要的应用[1]。二极管钳位型三电平逆变器是目前工业应用中最广泛的一种拓扑结构，其主要优点是不需要独立的钳位电容或者变压器，硬件的拓扑结构简单，减少了逆变器体积，是很有发展前景的一种逆变器拓扑[2]。随着能源危机的加剧，电力电子装置变换效率的提高成为研究热点。与连续脉宽调制（Continuous PulseWidthModulation，CPWM)策略相比，断续脉宽调制(DiscontinuousPulseWidthModulation，DPWM）策略可以实现开关管在一个电压基波周期内的一定区间不动作，从而通过降低开关损耗来提高变换效率[3]。然而，由于一定区间的开关不动作会引起断续调制策略下中性点电压波动大。中性点电压的波动会影响输出电流和电压，所以要抑制中性点电压的波动。
+
+目前，已经有很多文献提出了三电平逆变器的DPWM策略，如文献[4]同时采用两个零矢量(000与111）与其他非零矢量进行分配，实现在输出电压正、负半周峰值处各有 ${ 6 0 } ^ { \circ }$ 区间不进行开关动作，称为DPWM1策略；文献[5]只使用零矢量（000）或（111）与其他非零矢量进行分配，使开关在输出电压负半周或正半周有 $1 2 0 ^ { \circ }$ 区间不动作，称为DPWMMIN、DPWMMAX；文献[6-7]提出了三种DPWM策略，第一种是控制两个 ${ 6 0 } ^ { \circ }$ 开关不动作区间超前输出电压峰值 $6 0 ^ { \circ }$ ，称为DPWM0；第二种是控制两个 ${ 6 0 } ^ { \circ }$ 开关不动作区间滞后输出电压峰值$3 0 ^ { \circ }$ ，称为DPWM2；第三种实现同一桥臂开关器件每隔 ${ 6 0 } ^ { \circ }$ 有 $3 0 ^ { \circ }$ 区间不动作，称为DPWM3。上述文献仅介绍其调制原理及开关序列优化方法，或者仅对其中某几种DPWM方法的某些性能指标进行比较。另有一些研究工作集中在DPWM策略的应用方面，如文献[8]讨论了有源滤波器中DPWM策略的应用。
+
+本文在上述研究的基础上，在DPWM调制策略中采用了DPWM1调制方法。针对中性点平衡问题，本文研究了一种新的基于DPWM调制策略的中性点钳位型三电平逆变器中性点电位平衡控制方法，通过判断初始状态的情况，选择最优的调节角度，来调节正负半周里断续脉宽的宽度，最终达到
+
+中性点平衡。该方法没有增加额外的硬件电路和引入复杂的算法，仅仅使用调节器计算出最优的调整角，控制灵活简单，易于数字化实现，可实现对中性点电压的平衡控制。
+
+# 2 三电平逆变器的工作原理
+
+# 2.1中性点钳位型三电平逆变器的工作原理
+
+对于三电平NPC逆变器，其有源开关的工作状态见表1。对于A相桥臂，开关状态P表示桥臂上端的两个开关导通，逆变器A端相对于中性点Z的端电压 $U _ { \mathrm { A Z } } = U _ { \mathrm { d c } } / 2$ 。同样地， $\mathrm { ~ N ~ }$ 表示下端两个开关导通，此时 $U _ { \mathrm { A Z } } = - U _ { \mathrm { d c } } / 2$ 。开关状态O表示中间两个开关导通，此时钳位二极管将 $U _ { \mathrm { A Z } }$ 钳位在零电压上。负载电流的方向决定哪个二极管导通。由表1可以看到，开关 $\mathrm { \Delta S _ { a l } }$ 和 $\mathrm { S } _ { \mathrm { a } 3 }$ 运行在互补模式，即一个开关导通，另一个必须关断。同样 $\mathrm { S } _ { \mathrm { a } 2 }$ 和 $\mathrm { S _ { \mathrm { a 4 } } }$ 也运行在互补模式。
+
+V本 本 T本ci本体 本本 本本+ ABUUO$U _ { \mathrm { d c } }$ （204号 亨 Zc本体 本本 本本VT本 本 VT本
+
+# 表1三电平逆变器各相的开关状态
+
+Ta.1 Switching state of each phase of three-level inverter   
+
+<html><body><table><tr><td>开关状态</td><td>VTa1</td><td>VTa2</td><td>VTa3</td><td>VT44</td><td>输出电平</td></tr><tr><td>P</td><td>通</td><td>通</td><td>断</td><td>断</td><td>+Ud/2</td></tr><tr><td>0</td><td>断</td><td>通</td><td>通</td><td>断</td><td>0</td></tr><tr><td>N</td><td>断</td><td>断</td><td>通</td><td>通</td><td>-Ud/2</td></tr></table></body></html>
+
+考虑到三相桥臂，则逆变器共有27种可能的开关状态组合，这27种开关状态对应19种电压矢量，图2给出了这些电压矢量的空间矢量图。根据电压矢量幅值的不同，可以分为四组：零矢量、小矢量、中矢量和大矢量[9。开关状态与电压矢量对应关系见表2。
+
+![](images/107e92f1d05feaaab7a3652df27dd93ea8f92347e876daf84215a4c8ab444b63.jpg)  
+图2复平面内空间电压矢量分布图 Fig.2Voltage vectors in the complex plane
+
+表2开关状态与电压矢量对应关系  
+Tab.2 Switching states and voltage vectors   
+
+<html><body><table><tr><td>矢量</td><td>幅值</td><td colspan="3">开关状态</td><td colspan="3">中性点电流</td></tr><tr><td>零矢量</td><td>0</td><td>PPP</td><td>000</td><td>NNN</td><td></td><td>1</td><td></td></tr><tr><td rowspan="8"></td><td rowspan="8"></td><td rowspan="8">P型</td><td></td><td>N型</td><td>P型</td><td></td><td>N型</td></tr><tr><td>P00</td><td></td><td>ONN</td><td>Ib+Ic</td><td>I</td></tr><tr><td>PPO</td><td></td><td>00N</td><td>I</td><td>I+Ib</td></tr><tr><td>OPO</td><td></td><td>NON</td><td>Ia+Ic</td><td>Ib</td></tr><tr><td>OPP</td><td></td><td>NO0</td><td>I</td><td>Ib+Ic</td></tr><tr><td>POP</td><td></td><td>ONO</td><td>1b</td><td>Ia+Ic</td></tr><tr><td>00P</td><td></td><td>NNO</td><td>I+b</td><td>I</td></tr><tr><td colspan="3">PON</td><td colspan="3"></td></tr><tr><td rowspan="5">中矢量</td><td rowspan="8">√3 U&</td><td colspan="3">OPN</td><td colspan="3"></td></tr><tr><td colspan="3">NPO</td><td colspan="3">I</td></tr><tr><td colspan="3">NOP</td><td colspan="3"></td></tr><tr><td colspan="3">ONP</td><td colspan="3">I</td></tr><tr><td colspan="3">PNO</td><td colspan="3">I</td></tr><tr><td colspan="3">PNN</td><td colspan="3"></td></tr><tr><td rowspan="6">大矢量</td><td rowspan="7">3 2Uu</td><td colspan="3"></td><td colspan="3">1</td></tr><tr><td colspan="3">PPN</td><td colspan="3">1</td></tr><tr><td colspan="3">NPN</td><td colspan="3">1</td></tr><tr><td colspan="3">NPP</td><td colspan="3">1</td></tr><tr><td colspan="3">NNP</td><td colspan="3">1</td></tr><tr><td colspan="3">PNP</td><td colspan="3"></td></tr></table></body></html>
+
+由表2与图2可知，由于同一电压矢量可以对  
+应不同开关状态，越向内层对应的冗余开关状态越  
+多[10]。
+
+# 2.2中性点电位不平衡的原因
+
+由于中性点钳位型三电平逆变器电路的结构特点，逆变器每相桥臂的输出端在某些开关状态下连接到直流侧分压电容中性点，因此在逆变器正常工作时，会有电流流入或流出串联电容的中性点，对串联电容进行不平衡的充放电，造成中性点电位不断变化。通过分析总结，可知造成中性点钳位型三电平逆变器中性点电位不平衡的原因主要有[11-12]：
+
+（1）制作工艺有限，导致两电容参数不能完全一致，所以充放电不均匀，造成中性点电位偏移。(2）开关延迟。(3）功率因数会影响中性点电位，无功电流分量会造成中性点电位的周期性波动，有功电流分量会造成中性点电位的偏移，并逐渐积累。
+
+中性点电位不平衡会给逆变器系统造成许多危害。并网时导致逆变器输出电压波形发生畸变，输出电压波形畸变还会加剧中性点电位的不平衡；同时造成开关器件的损坏；分压电容不停充放电，也缩短了使用寿命。因此，对中性点电位的平衡控制十分关键。
+
+图3为开关状态对中性点电压的影响。如图3a所示，中性点电位悬空，所以零矢量和长矢量对中性点电压没有。图3b为逆变器工作在P型小矢量开关状态POO的工作状态，通过电流走势可以发现，当三相负载连接在正直流母线和中性点之间时，流入中性点的电流会对电容 $C _ { 1 }$ 进行充电，会使 $U _ { \mathrm { d c 1 } }$ $> U _ { \mathrm { d c } 2 }$ ，此时中性点电压升高。由此可知P型小矢量使中性点电位增高。与该P型开关效果相反则如图3c所示，此时N型小矢量ONN起作用，当负载连接在负直流母线和中性点时，流入中性点的电流会对电容 $C _ { 2 }$ 充电，下桥臂电容 $C _ { 2 }$ 反向增大，造成 $U _ { \mathrm { d c 1 } }$ $< U _ { \mathrm { d c } 2 }$ ，此时中性点电压降低。
+
+![](images/724b10749bc2620d7dda46566d8aa4bbca6a3bda8fb45a0ba7171a1ac14cae83.jpg)  
+图3基本矢量对应的拓扑结构和电流回路 Fig.3The real topologies and current loops corresponding of basic vector
+
+中矢量同样会影响中性点电位，其具体的电流路径如图3d所示，此刻开关状态为PON，负载端子A、B、C分别连接到正母线、中性点和负母线上，此时由逆变器所带负载电机的运行情况而定，当逆变器在不同条件下运行时，上下电容均有可能处在充电状态下，此时中性点电流方向无法判断，这使得中性点电位既可上升也可下降。因此当中矢量作用时无法判断中性点电位的变化。如图3e所示，中性点电位悬空，所以零矢量和长矢量对中性点电压没有影响。
+
+由以上分析可知，造成中性点电位偏移的主要原因是某一时刻存在中性点电流，且流入和流出中性点电流的大小和时间长短不同，因此可以通过控制中性点电流在任意一个小时间段内流入和流出中性点的电流量来控制中性点电压平衡。
+
+# 3 中性点电压平衡控制
+
+# 3.1传统控制方法
+
+由上述分析可知各个矢量对中性点电位的影响，大矢量和零矢量不影响中性点电位，中矢量和小矢量影响中性点电位。七段式作用矢量里存在一对小矢量对中性点电位的影响正好相反，因此可以通过调节正负小矢量的作用时间来控制中性点电位的平衡。
+
+传统中性点平衡方法是将补偿电压注入到参考电压中实现中性点平衡。将补偿电压注入到参考电压中，是为了改变小矢量的作用时间，如果上电容电压小于下电容电压，应加入负半周补偿电压来平衡中性点电压。加入负半周补偿电压后，P状态下的小矢量PPO的作用时间减小，N状态下的小矢量OON的作用时间增加，如图4所示。因此下电容电压减少、上电容电压增加。相反，加入正半周补偿电压使P状态小矢量的作用时间增加，N状态下的小矢量作用时间减少。
+
+![](images/748ab33259449ed24aa59319f07ffef4185bdba393e688233f64bfe6ce72ee2a.jpg)  
+图4传统中性点平衡控制方法  
+Fig.4Traditional neutral-point voltage balancing control
+
+# 3.2DPWM调制下传统方法的局限性
+
+当采用DPWM1调制方法出现中性点不平衡时，如果仍然采用传统的控制方法则无法实现中性点平衡控制。当上电容电压高于下电容电压时，加入正半周补偿电压来增加P状态下小矢量的作用时间，同时减小N状态下小矢量的作用时间。当采用CPWM调制时，流入中性点的电流随着P状态的作用时间的增加而增加。同时，从中性点流出的电流随着P状态作用时间的增加而减少。然而，采用DPWM调制时，如果按照传统的方法注入补偿电压，因为每相都有被钳位的部分，导致无法改变被钳位部分的小矢量的作用时间，所以从中性点流出的电流没有减少。
+
+这意味着N状态小矢量NOO、ONO和OON存在 ${ { 6 0 } ^ { \circ } }$ 夹角。因此尽管向参考电压中注入补偿电压，但改变小矢量的作用时间不足以去平衡中性点电压。DPWM策中，一个基波周期内三相桥臂中只有一相被钳位。如果注入大量的补偿电压，断续脉宽可能会覆盖其他相，意味着可能有两相的开关状态被钳位。由于这些开关状态不变的区域，会导致输出相电流畸变，所以传统平衡方法应用在DPWM调制策略下达不到预期的效果。
+
+# 3.3断续脉宽角调节控制方法
+
+本文提出的方法是在钳位角度一定的情况下，以反比例调整正负半周断续脉宽的宽度，这意味着改变小矢量的作用时间。如果正半周钳位的部分延长，其保持P状态的时间也相应地延长，因此P状态下的小矢量作用时间增加。同时负半周钳位的部分缩短，N状态小矢量作用时间缩短。同样，当负极钳位的部分延长，相应P状态小矢量缩短，N状态小矢量增加。
+
+正负半周断续部分的反比例调整，保证了一个周期内钳位角度是固定的，减小了开关损耗，同时避免了断续部分与其他相的重叠。
+
+两电容的差值定义为 $\mathit { V } _ { x } ( k )$ ，其前一项的值定义为 $V _ { x } ( k - 1 )$ ，两电容差的标准值定义为 $\vert V _ { n } \vert$ 。如果$| V _ { x } ( k ) | < | V _ { n } |$ ，则证明中性点平衡。下面分两部分对本文所提出的方法进行说明，每部分包含四种情况。根据不同的情况改变 $\theta$ 值，来实现中性点平衡的控制，其表达式为
+
+$$
+\theta ( k ) = \theta ( k - 1 ) \pm \Delta \theta
+$$
+
+式中， $\theta ( k )$ 为电流值； $\theta ( k - 1 )$ 为前项电流值； $\Delta \theta$ 为改变值。通过以下方法可以找到合适的调整角 $\theta$ 值。
+
+（1） $V _ { \mathrm { d c } 1 } > V _ { \mathrm { d c } 2 }$ ，调整 $\theta$ ，增加正半周断续脉宽，同时减小负半周断续脉宽。
+
+1） $V _ { x } ( k ) > 0 \& V _ { x } ( k ) \geqslant V _ { x } ( k - 1 )$ ，由于偏差增大,所以 $\theta ( k ) = \theta ( k - 1 ) + \Delta \theta$ 。
+
+2） $V _ { x } ( k ) > 0 \& V _ { x } ( k ) < V _ { x } ( k - 1 )$ ，电压差减小,但是仍然存在，所以 $\theta ( k ) = \theta ( k - 1 ) + \Delta \theta _ { + }$ 0
+
+3） $V _ { x } ( k ) < 0 \& V _ { x } ( k ) < V _ { x } ( k - 1 )$ ，越过了平衡点，反向增加，因为正极断续脉宽增加过大，负极断续脉宽减小过大。因此， $\theta$ 应该相应地降低，即 $\theta ( k ) =$ $\theta ( k - 1 ) - \Delta \theta$ 。
+
+4） $| V _ { x } ( k ) | < | V _ { \mathrm { n } } |$ ，中性点达到平衡， $\theta ( k ) = \theta ( k - 1 )$ 。
+
+(2） $V _ { \mathrm { d c } 1 } < V _ { \mathrm { d c } 2 }$ ，调整 $\theta$ ，增加负半周断续脉宽，同时减小正半周断续脉宽。
+
+1） $V _ { x } ( k ) < 0 \& V _ { x } ( k ) \leqslant V _ { x } ( k - 1 )$ ，由于偏差增大,所以 $\theta ( k ) = \theta ( k - 1 ) + \Delta \theta _ { + }$ 0
+
+2） $V _ { x } ( k ) < 0 \& V _ { x } ( k ) > V _ { x } ( k - 1 )$ ，电压偏差减小,但是仍然存在，所以 $\theta ( k ) = \theta ( k - 1 ) + \Delta \theta$ 。
+
+3） $V _ { x } ( k ) > 0 \& V _ { x } ( k ) > V _ { x } ( k - 1 )$ ，越过了平衡点,反向增加，因为负极断续脉宽增加过大，正极断续脉宽减小过大。因此， $\theta$ 应该相应地降低，即 $\theta ( k ) =$ $\theta ( k - 1 ) - \Delta \theta$ 。
+
+4） $| V _ { x } ( k ) | < | V _ { \mathrm { n } } |$ ，中性点达到平衡， $\theta ( k ) = \theta ( k - 1 )$ 调整 $\theta$ 角求解流程如图5所示。
+
+![](images/be56eab8d75d9a369c3a5352ca4d4f70b4e4b4417d1ccc6f55a2b69d5e7c630b.jpg)  
+Fig.5The flowchart to obtain the proper magnitude of $\theta$
+
+# 4 仿真及结果分析
+
+为了验证本文所提出的中性点电位平衡控制方法，采用Matlab/Simulink进行仿真分析。搭建三电平逆变器模块，逆变器输出接RL负载，仿真参数设置为：直流侧电压源： $1 4 0 \mathrm { V }$ ；分压电容： $1 ~ 1 0 0 \mu \mathrm { F }$ 负载端电阻： $1 0 \Omega$ ；电感： $1 . 5 \mathrm { m H }$ ；参考电流：正弦信号，幅值13A，频率 $5 0 \mathrm { { H z } }$ ；采样周期： $1 0 0 \mu \mathrm { s }$ $| V _ { \mathrm { n } } | = 1 \mathrm { V }$ 。
+
+传统控制方法的相电压和参考电压波形如图6所示，本文所提出的方法的输出相电压和参考电压波形如图7所示。每相参考电压都被钳位了 $6 0 ^ { \circ }$ ，这段期间输出相电压不变。由于上下电容之间存在电容差，所以正负半周的极值不相同，幅值不同的输出电压导致输出相电流畸变。为了调节中性点电压，改变正负半周的断续脉宽的宽度。传统方法的直流侧两分压电容电压曲线如图8所示。参考电压正半周的断续部分增加，同时负半周断续部分缩短。这说明正半周的P状态的小矢量作用时间增加，同时N状态下小矢量的作用时间缩短。因此上电容电压下降，下电容电压升高，在中性点平衡后，相电流的畸变消失。图9为应用本文提出的控制方法后的直流侧两分压电容电压曲线。
+
+![](images/726b73634ea39243290cb7083a7ec3626d84ae75b7e45faf4e8af4d5194f1044.jpg)  
+图5调整 $\theta$ 角求解流程图  
+图6传统中性点平衡控制时的相电压和参考电压 Fig.6Phase voltage and reference voltage with traditional neutral-point balancing control
+
+![](images/a688d7f75037d7b5045c3bc166dc2dd55717733f84383d261c3fecd2228aca12.jpg)  
+图7采用本文所提出的方法后的相电压和参考电压 Fig.7Phase voltage and reference voltage with proposed method
+
+![](images/900bf1f8b6a3062ef53bb38bd266dbd8025a2d929f255750782ed32e3db636cc.jpg)  
+图8传统方法下的直流侧电容电压
+
+![](images/0902363ea54ddaa868772ec6d8559e806a24b1fcda48d7a42e76f1372b2c34c8.jpg)  
+Fig.8DC capacitor voltage with traditional method   
+图9采用本文提出的方法后的直流侧电容电压Fig.9DC capacitor voltage with proposed method  
+图10输出相电流Fig.10 Output phase current
+
+由上图可知，应用传统方法后，系统达到稳定时无法实现中性点平衡。采用本文提出的方法后两电容电压值逐渐向中性点收敛，在中性点处波动较小，证明本文调整断续脉宽的方法实现了中性点平衡控制。
+
+输出相电流如图10所示。由图可知其输出表现优良，三电平工作模式明显，波形近似为正弦信号。
+
+![](images/4f8d01545816f226451d63b4db13bb8c8bd60b90065496e0f146806d7fa1629c.jpg)
+
+# 5 结束语
+
+本文提出了一种适用于DPWM调制方法的中性点平衡策略。DPWM调制方法中，由于开关的通断存在一定的间隔，当采用传统的中性点平衡控制方法时，没有办法实现中性点平衡控制。采用通过调整断续脉宽的宽度来调节小矢量的作用时间的方法，以反比例调节正负半周断续脉宽，在实现中性点控制的同时保证了低的开关频率。本文采用的方法在实现中性点平衡控制的同时没有引入复杂的计算和其他硬件电路。仿真结果证明了该方法的可行性和有效性。
+
+# 参考文献
+
+[1] 谢路耀，金新民，吴学智．基于零序注入的NPC 三电平变流器中点电位反馈控制[J]．电工技术学 报，2012，27(12):117-128. Xie Luyao,Jin Xinmin,Wu Xuezhi.Neutral point voltage feedback control based on zero sequence injection for NPC three-level converter[J]. Transactions of China Electrotechnical Society, 2012,27(12): 117-128.   
+[2] D L, JB. Comparison of a soft switched TCM T-type inverter to hard switched inverters for a 3-phase PV grid interface[C]. IEEE Power Electronics and Motion Control Conference(EPE/PEMC),2012:1-8.   
+[3] 周京华，沈传文，苏彦民，等．多电平逆变器不 连续空间矢量调制策略的研究[J]．电力电子技术， 2005，39(5):15-19. Zhou Jinghua, Shen Chuanwen,Su Yanmin,et al. Research on discontinuous space vector modulation strategy for multilevel inverters[J].Power Electronic Technology,2005,39(5):15-19.   
+[4] Depenbrock M.Pulse width control of a 3-phase inverter with non-sinusoidal phase voltage[C]. IEEE

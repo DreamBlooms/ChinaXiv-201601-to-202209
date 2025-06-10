@@ -1,0 +1,227 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多层螺旋CT多平面重建技术在阑尾炎诊断中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "江胜棚，陈悦熙2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1广州市花都区第二人民医院放射科,广东广州 510850;2广州市第十二人民医院放射科,广东广州 510620摘要：目的 探讨多层螺旋CT多平面重建技术诊断急性阑尾炎的临床价值。方法 搜集55例临床拟诊急性阑尾炎的病例，采用16层螺旋CT进行扫描及多平面容积重组图像后处理，总结分析其CT表现，比较重建图像与未重建图像在急性阑尾炎诊断中的各种征象显示率。结果 55例拟诊断为急性阑尾炎的患者手术病理确诊50例，右侧卵巢囊肿1例,右侧输尿管下段结石1例，胆囊炎1例，结肠肿瘤1例，盆腔炎1例。重建后的阑尾全程显示率( $100 \\%$ vs $80 \\%$ )、管壁增厚显示率 $(92 \\%$ vs $70 \\%$ 以及回盲部肠壁增厚显示率( $50 \\%$ vs $2 6 \\%$ )均高于未重建图像，且差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。结论多排螺旋CT结合多平面重建技术能使急性阑尾炎的诊断准确性明显提高，对阑尾炎以及其他病变的诊断快速、准确，值得临床应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阑尾炎；体层摄影术；X线计算机;多平面重建",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clinical value of multiplanar reconstruction with multi-slice spiral CT in diagnosis of appendicitis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Shengpeng, CHEN Yuexi²   \nDepartmenofdioloeoneole'spialduistrictgo8a;epamntofioogef   \nPeople's Hospital of Guangzhou,Guangzhou 510620,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To explore the diagnostic value of multiplanar reconstruction (MPR)with multi-slice spiral CTon appendicitis.Methods Fifty-five patients withclinicalsuspected acute appendicitis were enrolled.16-slice spiral CT was used to scan and manage multi planar volume recombination images.The CTimages were retrospectivelyanalyzed.The rates of signs inthe diagnosis ofacuteappendicitis were expored bycomparing thereconstructed image with thereconstructed image. Results The diagnosis of acuteappendicitis was performed in 50 patients with pathologicallyconfirmed appendicitis.Right ovarian cyst,calculi within distal segmentof right ureter,cholecystitis,colon tumor,pelvic inflammatory disease were performed in1patientforeach.Thediscriminationrateofappendix,detectionrateofappendixwallthickenngandileocecum wall thickening in reconstruction image were higher than that in unreconstruction image $( P { < } 0 . 0 5 )$ . Conclusion Multi-slice CT incombination withMPRcanimprove thediagnosisacuracyforacuteappendicitis.Itisfastandacurateinthediagnosisof appendicitis and other diseases, which is worthy of clinical application. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: appendix; tomography; X-ray computed; multiplanar reformation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "急性阑尾炎是临床常见的急腹症之一，大部分依靠临床表现和实验室检查可以得到明确诊断，然而发生于右下腹的其他疾病也可以引起与阑尾炎相似的临床症状和体征，仅靠临床诊断易导致误诊。超声检查因操作简便及费用低廉已在急性阑尾炎的辅助诊断中得到广泛应用，但同时由于其易受患者体型、肠腔积气及操作者经验等因素影响而降低诊断准确率。近年来，随着多层螺旋CT(MSCT)的不断发展及三维后处理技术的应用，CT成为了评价急性阑尾炎准确而有效的影像学检查方法[1-2]。MSCT准确性和敏感性极高，为患者的诊断及治疗方案的制定提供了重要依据[3]。但目前关于MSCT三维后处理技术用于显示阑尾炎征象的报道差异较大[46]。本文回顾性分析55例临床拟诊急性阑尾炎而行CT检查的患者资料，旨在探讨多层螺旋CT三维重建对急性阑尾炎的诊断价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "搜集2013年1月 ${ \\sim } 2 0 1 7 \\$ 年1月间在广州市第十二人民医院因右下腹疼痛临床怀疑急性阑尾炎行CT平扫 $+$ 增强扫描的55例患者CT资料，其中男性33例，女性22例;年龄16\\~85岁，平均48.34岁。经手术证实急性阑尾炎患者50例，CT诊断急性阑尾炎患者50例，5例CT诊断非阑尾炎病例均未手术治疗，为右侧卵巢囊肿1例，右侧输尿管下段结石1例，胆囊炎1例，结肠肿瘤1例，盆腔炎1例。对全部病例进行多平面重建及曲面重建。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 CT检查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用ToshibaAqillionl6层螺旋CT,扫描参数：电压 $1 2 0 \\mathrm { k V }$ ，电流 $2 0 0 ~ \\mathrm { { m A s } }$ ，容积采集为 $1 \\mathrm { m m } \\times 1 6$ ,螺距为1.0,扫描时间每圈 $0 . 5 \\mathrm { ~ s ~ }$ ，层厚 $1 . 0 \\mathrm { m m }$ ，间距 $0 . 5 \\mathrm { m m }$ 矩阵 $2 5 6 \\times 2 5 6$ 。患者仰卧位，扫描范围从膈肌顶至耻骨联合。所有患者平扫后行双期增强扫描。增强扫描经高压注射器静脉注射碘海醇 $8 0 { \\sim } 1 0 0 \\mathrm { m L }$ ，注射流率 $: 3 { \\sim } 3 . 5 ~ \\mathrm { m L / s }$ ，注射开始后25s后行动脉期扫描，65s后行静脉期扫描。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 图像分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将薄层重组图像传至Vitrea2(4.1.2)工作站，沿着阑尾走行重组冠状面、矢状面和曲面图像。由2位主治医师以上职称的放射学医师采用双盲法分别在工作站阅读常规 $+ \\mathbf { M P R + C P R }$ 图像并做出诊断。多层螺旋CT诊断标准包括有直接征象和间接征象。直接征象：(1)阑尾肿大超过 $6 \\mathrm { m m }$ ;(2)阑尾管壁增厚超过 $2 \\mathrm { m m }$ ○间接征象：(1)阑尾周围组织见炎性肿块；(2)阑尾腔内可见结石；(3)腰大肌前缘轮廓模糊不清；腹腔内少量积液或右腹筋膜增厚；(4)局限性盲肠管壁增厚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0软件处理数据，计数资料以 $\\%$ 表示，将常规CT扫描与MPR/CPR对急性阑尾炎诊断结果进行比较，计数资料比较采用 $\\chi ^ { 2 }$ 检验， $P { < } 0 . 0 5$ 时差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1阑尾炎CT表现 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "急性阑尾炎CT表现主要有直接征象和间接征象。直接征象为阑尾的形态改变，表现为阑尾肿大、壁增厚模糊；间接征象主要有阑尾周围炎症、阑尾结石、回盲部壁增厚、阑尾周围脓肿、游离气体，可并发急性腹膜炎和低位小肠梗阻[710]。在确诊的这50例患者中，有46例患者显示阑尾壁呈明显环形增厚的表现，增强后其阑尾部位呈明显环形强化(图1)。有28例患者显示阑尾及回盲部的周围间隙模糊、密度较高，呈条状或絮状影，或者合并阑尾及周围脓肿形成(图2)。有10例患者显示为阑尾明显肿大，阑尾腔内存在积液、结石(图3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3820432a987cfb71f526f3aff12e36ff39c6b7f8c33dbde13278a99bc85bd767.jpg",
+        "img_caption": [
+            "图1急性阑尾炎病例"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A:CT增强横断位示阑尾增粗(白箭),管壁增厚,壁呈环形强化，阑尾周围脂肪条纹状改变;B:MPR重建显示部分阑尾走行;C:CPR重建完整显示阑尾全程及与周围结构关系，阑尾位于肝下位，为位置变异.",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/605a8d56f2d3406cdacc671c8103bd2bf6b27f0e902079d0f8692e832b760c6c.jpg",
+        "img_caption": [
+            "图2阑尾炎并发阑尾周围脓肿病例"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A:CT增强横断位示阑尾不规则增粗(黑箭),管壁增厚，壁呈明显环形强化，下方见不规则厚壁 脓肿形成(白箭),脓肿壁明显强化;B:MPR重建显示阑尾(黑箭)及周围脓肿(白箭)关系. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2常规CT扫描与MPR/CPR对急性阑尾炎诊断结果 的比较 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "显示率以及回盲部肠壁增厚显示率均明显高于常规CT图像，且差异具有统计学意义 $( P { < } 0 . 0 5$ ，表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MPR/CPR重建后的阑尾全程显示率、管壁增厚 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ad7000b180bab10b5181e4e290ac9be9f344256456326d22339ea712cbbdc9b.jpg",
+        "img_caption": [
+            "图3阑尾炎并结石病例CPR重建显示阑尾全程走行及腔内长条状高密度结石影(白箭)."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/351397ab667bc168b1dd49e9753b5a90b09201607c04190d78bebb380ce87ac3.jpg",
+        "table_caption": [
+            "表1常规CT、结合MPR/CPR的急性阑尾炎CT征象显示率比较 $[ n ( \\% ) , n { = } 5 0 ]$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>CT征象</td><td>常规CT扫描</td><td>MPR/CPR</td><td>x</td><td>P</td></tr><tr><td>阑尾全程显示</td><td>40(80)</td><td>50(100)</td><td>11.111</td><td>0.001</td></tr><tr><td>管径增粗</td><td>43(86)</td><td>48(96)</td><td>3.053</td><td>0.081</td></tr><tr><td>管壁增厚</td><td>35(70)</td><td>46(92)</td><td>7.862</td><td>0.005</td></tr><tr><td>周边渗出</td><td>26(52)</td><td>28(56)</td><td>1.161</td><td>0.688</td></tr><tr><td>阑尾结石</td><td>8(16)</td><td>10(20)</td><td>0.271</td><td>0.603</td></tr><tr><td>阑尾穿孔</td><td>2(4)</td><td>3(6)</td><td>0.211</td><td>0.646</td></tr><tr><td>回盲部肠壁增厚</td><td>13(26)</td><td>25(50)</td><td>6.112</td><td>0.013</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阑尾炎是临床最常见的急腹症之一，居各种急腹症首位，其诊断主要依靠临床病史、体征及实验室检查，但由于部分阑尾炎临床表现不典型，或其它一些疾病临床表现与急性阑尾炎相似，给诊断带来困难[1-12]。据报道,单独依靠临床资料会有 $20 \\%$ 的阑尾被误切,而且有 $2 5 \\%$ 的阑尾炎漏诊[13-14]。既往由于设备的限制，对阑尾炎的CT研究多数局限于单纯的轴位、冠状位或矢状位图像，但是由于阑尾多数弯曲，形态各异，走形方向变异极大，常常不能位于某一平面之中。因此单纯的冠、矢状位，甚至任意斜位都显得力不从心。近年来，随着多层螺旋CT扫描及后处理技术广泛应用，使急性阑尾炎的术前诊断及鉴别诊断准确率显著提高，从而大大降低了剖腹探查的阴性率，同时也减少了因延误诊断导致阑尾穿孔及并发症的发生[15-16]。多层螺旋CT能获得优质的MPR/CPR图像，可快速重建、实时显示，能从多方位清晰显示阑尾位置、大小、走行及周围的组织改变，能从多角度显示阑尾整体情况及其走向，对急性阑尾炎诊断提供了重要参考信息。曲面重建可以显示大多数阑尾的全貌，准确地识别阑尾，从而准确及时地诊断急性阑尾炎[17-20]。本组病例通过MPR/CPR重组，可以直观地显示阑尾的具体位置、走向，通过窗宽及窗位的调节，还可显示阑尾的管腔直径、阑尾壁的厚度、阑尾内的肠石、周围是否有渗出、炎性包裹及是否有脓肿形成。对临床的治疗和手术方案的拟定，提供了很大的帮助。本研究结果表明应用MPR/CPR后，提高了阑尾全程显示率、管壁增厚显示率以及回盲部肠壁增厚显示率，均明显高于常规CT图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，多层螺旋CT多平面重建可以准确地识别阑尾及其各种异常表现，直接显示阑尾全貌，使诊断准确可靠，对急性阑尾炎的早期诊断有重要的价值，可作为临床拟诊急性阑尾炎患者的术前常规检查。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Kamel IR,Goldberg SN,Keogan MT,et al. Right lower quadrantpain and suspected appendicitis: nonfocused appendiceal CT-reviewof 100 cases[J].Radiology,20,21(7):159-63.  \n[2]梁虹.MSCT三维重建诊断不典型急性阑尾炎的价值[J].上海医学影像,2011,20(2): 107-8.  \n[3]王瑞芳,李春志,廖 威,等.MSCT在阑尾炎诊断中的应用[J].中国中西医结合影像学杂志,2013,11(3):299-300.  \n[4]赵 静,李 健,郭庆乐,等.非增强64层VCT在急性阑尾炎诊断中的价值[J].中国临床医学影像杂志,2012,23(3):211-3.  \n[5]刘 文，强金伟,廖治河,等.多层螺旋CT增强扫描及多平面重建诊断急性阑尾炎[J].中国医学计算机成像杂志,2012,18(4):337-41.  \n[6]余 河,杨 峰,胡 磊,等.64层螺旋CT平扫诊断成人急性阑尾炎的价值研究[J].中国CT和MRI杂志,2013,11(3):30-2.  \n[7]王礼同,薛贞龙,李 澄,等.MSCT多平面及曲面重组技术诊断急性阑尾炎[J].放射学实践,2008,23(6):643-6.  \n[8]陈海荣,杨 军,高 淳,等.32层螺旋CT三维重组在急性阑尾炎症诊断及鉴别诊断中的价值[J].放射学实践,2010,25(5):540-2.  \n[9]陈发祥,王 卉,张树桐.CT对急性阑尾炎的诊断价值[J].实用放射学杂志,2008,24(6): 845-9.  \n[10]王康,赵泽华,王之，等.应用多层螺旋CT多方位重建技术诊断断急性阑尾炎的价值[J].中华放射学杂志,2005,39(2):177-80.  \n[11]杜秀琴,孙 勇,闫迪,等.多层螺旋CT对不典型阑尾炎22例诊断价值分析[J].中国误诊学杂志,2012,12(13):3295-8.  \n[12]李文智．64层螺旋CT多平面及曲面重组在急性阑尾炎诊断中的价值[J].实用放射学杂志,2012,28(7):1048-51  \n[13]龚静山,徐坚民,周康荣.急腹症的螺旋CT评价[J].国外医学：临床放射学分册,2002,25(1):25-8.  \n[14]Kim K, Lee CC, Song KJ, et al. The impact of helical computedtomography on the negative appendectomy rate: a multi-centercomparison[J].Am JEmerg Med,2008,34(1):3-6.  \n[15]欧 玲,兰宁,李兮力,等.非增强MSCT多平面重组技术对急性阑尾炎诊断价值探讨[J].中国CT和MRI杂志,2009,7(5):64-6.  \n[16]Neville AM, Paulson EK.MDCT of acute appendicitis: value ofcoronal reformations[J].Abdom Imaging,2009,34(1): 42-8.  \n[17]Pinto LN,Pereira JM,Cunha R,et al. CT evaluation of appendicitisand its complications: imaging techniques and key diagnosticfindings[J]. AJR Am JRoentgenol,2005,185(2): 406-17.  \n[18]苏金亮,徐兆龙,纪建松,等.多层螺旋CT及后处理技术在急性阑尾炎诊断中的价值[J].中国临床医学影像杂志,2006,17(1):15-17.  \n[19]李德福．64层螺旋CT多平面及曲面重建在急性阑尾炎诊断中的应用[J].中国伤残医学,2014,6(20):138-41.  \n[20]刘景旺，赵静,郭庆乐,等.64层螺旋CT曲面重建技术在急性阑尾炎诊断中的价值[J].中国医学影像学杂志,2011,19(8):585-8.",
+        "page_idx": 2
+    }
+]

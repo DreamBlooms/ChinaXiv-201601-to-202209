@@ -1,0 +1,184 @@
+# 光谱分析软件在天文学研究中的应用
+
+涂洋1,²，张彦霞²，赵永恒²，田海俊¹，袁海龙²(1.三峡大学，湖北 宜昌443002；2.中国科学院光学天文重点实验室（国家天文台），北京100012）
+
+摘要：随着大规模光谱巡天项目的规划、实施和运行，从庞大数量的天体光谱中自动分析、高效挖掘和快速提取信息，获取天体的有效物理参量，是天文学者关注的焦点和当代天文研究的重要课题。大部分天文学研究工作基于光谱分析开展，各种迅速发展的光谱分析工具的便捷性和易用性对于探究天文光谱的特征具有重要的促进意义。针对国内外目前已经完成、正在运行和即将开展的大型光谱巡天项目，描述了一些巡天项目并指出了运用光谱分析工具的重要意义。以7种常用光谱分析软件VOSpec、VOSED、SpecView、Iris、SPLAT、CASSIS、ASERA为例，介绍了光谱分析软件的基本特点和主要功能，同时比较了这些软件应用环境的异同，为天文学家选择和运用光谱分析工具提供一定的指导和参考。
+
+关键词：光谱分析软件；天体物理学；光谱巡天；光谱能量分布中图分类号：P141.5 文献标识码：A 文章编号：1672-7673(2016)01-0124-09
+
+天体的信息由天体辐射传递。天体光谱是通过望远镜焦面上放置的光谱仪采集天体的电磁辐射按波长(或频率)大小而依次排列的图案。利用天体光谱所含的信息，将光谱学的原理和方法用于天体光谱，以确定天体的物理性质和化学组成。天体光谱分析包括定性分析和定量分析两种。定性分析主要为谱线认证，比较光谱中已知波长的谱线位置与天体光谱中谱线的位置，从而确定天体光谱中谱线的波长，认证天体谱线的化学元素。定量分析包括测量天体的连续光谱和谱线。前者是指测量天体的连续光谱在各个波长处的强度，获得连续能量分布；后者是指测量谱线内各波长处的强度，从而得到谱线的等值宽度或谱线轮廓。通过这些参量的测量可以推断天体的物理参数，如天体的温度、压力、密度、磁场和运动速度等。
+
+21世纪以来，随着空间探测技术的提高和天文学的探索发现，天文观测进一步从可见光、射电波段扩展到包括红外、紫外、X射线和 $\gamma$ 射线在内的电磁波各个波段，形成了全波段天文光谱学[1],并为探索各类天体和天文现象的物理本质提供了强有力的观测手段。天文学的发展进人“多波段、大样本、高信息量”时期，国际上近十多年来开展了一系列天体光谱巡天项目[2]。
+
+# 1大型光谱巡天项目
+
+# 1. 1 国内外光谱巡天项目
+
+(1)2 度视场星系红移巡天项目(2-degree Field Galaxy Redshift Survey，2dF)是从1997年至2002 年  
+间使用 $3 . 9 \mathrm { { m } }$ 英澳天文台（Anglo-Australian Observatory，AAO)望远镜进行红移巡天观测，共获取245 591  
+个对象的光谱，包括232155个星系（221414个有良好的质量），12311个恒星，以及125个类星体。(2)斯隆数字化巡天项目（the Sloan Digital Sky Survey，SDSS)使用位于新墨西哥州的 $2 . 5 \mathrm { m }$ 望远镜  
+进行的红移巡天项目。截止三期 SDSS-II发布的第12 批数据(DR12)，有效光谱数42 664 444 条，其
+
+中星系2401952条，类星体477161条，恒星851968条，以及200 490条未知光谱
+
+（3）大天区面积多目标光纤光谱天文望远镜（The Large Sky Area Multi-object Fiber SpectroscopicTelescope，LAMOST，又称郭守敬望远镜)是我国于 2009 建设完成的一架新型大视场兼备大口径望远镜，截止2015年3月，郭守敬望远镜发布的DR2数据总共4136 482条光谱，信噪比大于10的光谱条数达3275942，其中恒星光谱数3784461条，并且2207788条提供了恒星参数，成为目前世界上最大的恒星参数表。
+
+# 1.2 未来光谱巡天项目
+
+天文学家已在拟定下一代大型光谱巡天计划，研发巨型望远镜。如美国的大口径综合巡天望远镜（Large Synoptic Survey Telescope，LSST)主要用于探测暗能量和暗物质，寻找太阳系中的小天体，侦测新星、超新星和观测银河系。宽视场红外巡天望远镜（WideField Infrared Survey Telescope，WFIRST）主要用于探测暗能量、系外行星、红外巡天。欧洲空间局拟于2018年发射的欧几里德计划（Euclid)主要观测近红外波段，也观测光学波段，该计划的主要目标是研究宇宙中暗物质的大尺度分布结构，并确认暗能量的性质。
+
+综上所述，随着大型巡天项目的开展，光谱数据还在持续不断地增长，很显然单靠手工处理和分析光谱已经无能为力，必须开发自动化的光谱分析软件。“工欲善其事，必先利其器”，只有借助很好的光谱分析工具，天文学家才能便捷地对光谱进行分析和研究，从而提高工作效率和科学产出。
+
+# 2软件简介
+
+通常一款好的光谱分析软件能够查询国内外不同光谱巡天项目、不同数据类型的光谱数据；也可以单个或批量可视化和分析光谱、研究光谱能量分布等，这对于研究光谱所含的潜在天体物理信息具有十分重要的意义。基于不同望远镜和不同天文研究目标所产生的光谱不尽相同，天文学家对光谱处理需求的差异，需要开发不同功能的光谱分析软件。在各种学科相互渗透的今天，得益于计算机专家的加盟，许多天文领域的研究团队不断开发新的光谱分析软件，如国际虚拟天文台联盟[3]（International Virtual Observatory Alliance，IVOA)开发的 TOPCAT、CASSIS、VOSED、SPLAT等。目前较为成熟和广泛应用的光谱分析软件按功能用途简单分类：（1）光谱查询：Aladin、CASSIS、Datascope、SPLAT、SpecView、VOServices、VOSpec、Data Discovery Tool、VirGO；（2）光谱可视化与分析：CASSIS、SPLAT、SpecView、VOServices、VOSpec、Gaia；（3）光谱能量分布（Spectral EnergyDistributions，SED)合成：VOSA、VOSED、VOSpec、Iris、GOSSIP。在这里着重介绍7种典型的、常用的光谱分析软件，为天文学家挑选光谱分析软件提供参考。
+
+# 2.1 VOSpec 软件
+
+VOSpec[4]是由欧洲空间局虚拟天文台研发团队开发的一款多波段光谱分析工具，目前最新版本为 VOSpec 6.6。该软件利用简单光谱访问协议（Single Spectral Access Protocol，SSAP），具有强大的数据组织功能，使用户可以非常方便地通过天体名称或者坐标（RA，DEC)从世界各地的光谱库中检索已有的光谱观测数据、理论模型数据和谱线等类型数据，并且提供了多种显示模式（树状、表状）。VOSpec 标准功能可以分为两类：一类为光谱分析，光谱分析界面如图1，功能包括谱线和连续谱拟合，红移和红化校正，光谱之间的运算和卷积，等值宽度和流量的计算；另一类为拟合光谱能量分布，功能是实现光谱能量分布的最优化拟合，光谱能量分布拟合界面如图2。VOSpec 为用户提供了稳定可靠的光谱处理功能，并能方便地整合来自不同数据提供者、波段和元数据（例如物理单位）的光谱。VOSpec 支持国际虚拟天文台联盟的简单应用程序消息传递协议（Simple Application MessagingProtocol，SAMP），可以方便快捷地与其它虚拟天文台应用程序进行协同工作。
+
+2.2VOSED 软件VOSED[5]是由西班牙虚拟天文台开发用于合成光谱能量分布的在线工具，目前版本为VOSED2.0。该工具可以通过简单光谱访问协议在线查询虚拟天文台光谱查询服务上的光谱信息，并使用贝叶斯方法合成光谱能量分布。光谱数据来自一些天文光谱数据库或者用户提供的数据，数据格式可以是 FITS、VOTable、ASCII格式。VOSED有两种工作模式：（1)单目标模式：在用户输入目标名称或者其他属性后，VOSED通过查询 SIMBAD数据库（法国斯特拉斯堡天文台数据资料中心负责和维护的一个天文数据库)显示该目标的基本信息，如坐标、类型；（2)多目标模式：在多目标模式里，用户可以监控查询状态。查询一旦完成，就会创建一个包含光谱能量分布的VOTable 格式的压缩文件。合成的光谱能量分布也可上传到其他虚拟天文台工具（比如VOSpec）进行进一步的可视化和分析。VOSED 的查询界面和查询结果显示界面分别如图3、4。
+
+![](images/7861e55f9fa0df5609a57ae9adf6364c25350b6b4bbffc3f57de9c4c3fa1cfcd.jpg)  
+图1VOSpec 光谱分析界面
+
+![](images/9f2fb703851f9abfcc2d675f3f88e2e843194d9a85cae36df1234b0affa01d2d.jpg)  
+Fig.1VOSpec spectral analysis interface
+
+![](images/2836e139f23e8a9a3607d5da7c338efa34c4962493588a5f24094378ef9d2449.jpg)  
+图2VOSpec光谱能量分布拟合界面Fig.2VOSpec SED fitting interface
+
+![](images/c23ac842447d458be2d4a6d4178042c702b313d5c8b1266bab8d311e652ec0b0.jpg)  
+图3VOSED单目标查询界面 Fig.3VOSED query interface for single target   
+图4VOSED单目标查询结果显示界面 Fig.4VOSED display interface for query result of single target
+
+# 2.3SpecView 软件
+
+SpecView[6]是空间望远镜科学研究所(Space Telescope Science Institute)开发用于分析1-D天文光谱的可视化和分析工具，目前版本为 SpecView 2.17.6。该软件能够读取所有哈勃空间望远镜的数据格式，并且能够读取其他一些科学设备的光谱，如 IUE、FUSE、ISO、FORS、SDSS、MAST（The MikulskiArchive for Space Telescopes，是由 NASA 资助的项目用于支持和提供世界天文界的各种数据集)等,以及通用的FITS 和ASCII数据格式的光谱数据。另外，也可以通过虚拟天文台服务查询并读取数据。该软件查询界面如图5。SpecView界面简单、易用、友好。用户仅通过几个鼠标动作就可以便捷地完成光谱分析任务。SpecView的可视化功能包括：数据质量控制、光谱单位转换、可视化参数自定义、绘图注释、平铺绘图、Boxcar和高斯函数平滑处理、光谱的特征提取和显示等。光谱的处理结果可以保存为VOTable和FITS 格式的文件。SpecView主界面如图6。
+
+SpecView 主要用于创建宽波段光谱能量分布，可以叠加或合并来自不同设备或不同波段的天文光谱数据，也可以叠加来自不同谱线库或用户提供的谱线列表的谱线标注。SpecView具有光谱拟合的功能，提供了多个理论模型供用户挑选，该模型也可以由用户提供。
+
+vo Download 一 X   
+Registry Help   
+Object   
+Hane: Resolve Resolver: SINEAD Hnes via ESO   
+Search region RA(hour): 21:01:10.928 Radius (arcsin): 10.0 Dec.(degree）： +46:09:20.78   
+Aditional paraeters   
+Minin wavelength （Angstros）： Mininun tine:   
+inn wavelength (Angstros): Mxinun tine: Search   
+Servers Servers   
+Iane Status Description   
+ELODIEinterp 0 reeords found Spectrun interpolator for the ELoDIElibrary   
+ELODIE Sarch request sent.Vaiting.. ELODIEarchive   
+castor 0 records found Espadons/larval legacy database Castor) T Search results BeSS   
+Downloaded ObsId Reference Target_ Start_Tine End_Tine RA DEC ATES UDITS DINEQ   
+10 BeSS:60Cyehttp://ba..60Cyg 315.29553503|46.15577267AVE FLUI Aere/cn. ML-1T-3   
+YES BesS:60Cyshtp//.0Cg 315.2955350346.15577267AVE FLUI Aerg/c.. LML-1T-3   
+1 Bes:60Cyehtp://.60Cye 315.2955350346.15577267AVEFLUT Aere/c..LL-1-3   
+的 BeSS:60Cvghttp://b..60Cvg 315.2955350346.15577267WAVEFLUT Aerg/cn LML-1T-3 III 315.29553503 Download Stop Disniss
+
+![](images/aa93974de67e335fed5cbdf2e7833e1c660ebf72e7c011d4e06f2c670ea9f49d.jpg)  
+图5SpecViewVO查询界面 Fig.5SpecView VO query interface   
+图6SpecView主界面 Fig.6SpecView main interface
+
+# 2.4 Iris软件
+
+Iris[7]初始由美国虚拟天文台开发(2011-2014)用于创建、分析宽波段光谱能量分布的图形化界面应用软件。后由钱德拉X射线天文台继续开发和维护，目前版本为Iris2.0。Iris支持常规光谱能量分布数据格式包括VOTable、FITS以及NASA的河外数据格式。非常规数据格式可以借助该工具提供的数据转换模块转化为常规格式从而成功读取。Iris可以读取来自多个单独的数据源或测光数据的光谱能量分布，这些数据源和测光数据可以来自不同天文观测仪器，然后通过发射/吸收光谱模型来拟合光谱能量分布。Iris 主要有4大特点：
+
+(1) NED 数据导入：通过Iris SED分析工具可以查询到已在虚拟天文台注册的美国国家航空航天局/红外处理及分析中心河外星系数据库(NASA/IPAC Extra-galactic Database，NED）。Iris NED 查询界面如图7。
+
+(2)数据可视化和自定义：Iris 的用户界面类似于SpecView的可视化和分析界面，设置了几个SpecView 提供的数据显示首选项。Iris的光谱能量分布可视化界面如图8。类似SpecView，Iris 也可以通过叠加或者合并来自多个波段不同设备的数据构建一个宽带光谱能量分布。
+
+(3)光谱模型拟合光谱能量分布：Iris允许鲁棒性地建模，然后通过 Sherpa得到光谱能量分布的拟合数据。Sherpa 是基于python 语言为天文学家提供的多波段建模和拟合的可扩展应用。
+
+(4)非常规数据格式转换工具：Iris 的主要功能之一是创建多波段光谱能量分布。用户在创建光谱能量分布时，可能输入多组不同文件格式的光谱能量分布数据。为了解决这个问题，Iris 的 SEDBuilder工具将转化用户的非常规光谱能量分布数据文件格式转换为Iris支持的两种常规格式文件（VOTable 或FITS 格式）。可被转化的文件格式包括：ASCII、CSV、FITS（标准或者非标准的）、VOTable（标准或者非标准的）、IPAC（一种简单易读用于保存ASCII表和扩展信息的表格格式）、TST（the standard Tab Separated Table format，即制表符分隔的表格格式）。
+
+另外，用户还可以通过Iris 的光谱能量分布分析和操作工具包里的3种方式创建光谱能量分布：(1)红移法：给定红移值即可创建红移化的光谱能量分布；（2)插值法：给定内插算法并指定一些相关参数，包括光谱波段、是否标准化、是否用 Boxcar 进行平滑处理等，即可创建光谱能量分布；（3)集成法：通过内嵌的测光数据库搜索到一定数量(大于2000)的测光数据点，然后合成新的光谱能量分布。
+
+![](images/c762afd7daec6435a55e5384f4685b869c17c704248dfdfbd9e8787817849939.jpg)  
+图7Iris NED查询界面Fig.7Iris NED query interface
+
+![](images/93bdbd47e2d7dd8ba6628fe6aaa88465c3683a1153ad49d111316ed1b0319eca.jpg)  
+图8Iris SED可视化界面Fig.8Iris SED display interface
+
+# 2.5 SPLAT软件
+
+SPLAT[8]是一个专门用于光谱分析的图形化工具，目前版本为 SPLAT3.11-1，能够显示、比较、修改和分析天文光谱数据，并保存为NDF（数据库辅助数据文件扩展名）、FITS、TEXT文件格式。SPLAT是 STARJAVA集（JAVAapplication for StarLink project）的一部分，主界面是由 SPLAT的原创开发者Peter Draper 研发。SPLAT 现由德国天体物理虚拟天文台团队（German Astrophysical VirtualObservatory，GAVO)与捷克共和国科学院的天文研究所共同开发。
+
+SPLAT对部分功能进行了扩展，使其可以与虚拟天文台的其他工具和服务互通互联。这些功能分成两部分：一个是用于查询和下载光谱的简单光谱访问协议，该功能由 Peter W.Draper 和Margarida Castro Neves开发；另外一个是在桌面上使用的简单应用程序消息传递协议，由 Mark Taylor开发，能够与其他虚拟天文台工具进行交互，例如 TOPCAT。
+
+SPLAT能够同时读取多个光谱，并逐个或者多个显示，SPLAT光谱可视化界面如图9。可以交互地缩放和滚动显示窗口，或者特定波长的局部显示。SPLAT当前的分析功能包括对选定的光谱发射和吸收线进行多项式拟合、高斯拟合、洛伦兹拟合以及沃伊特(Voigt)拟合。使用平均数、中位数、线性窗函数和小波降噪等对光谱进行滤波。
+
+![](images/765ceebcc22d14bd9d15c4c8edcdd8be804953373a31028e930b1fef50fcef39.jpg)  
+图9SPLAT的光谱可视化界面  
+Fig.9SPLAT spectral display interface
+
+SPLAT通过使用 Starlink的AST库的最新功能，全方位支持协同平台的光谱。支持坐标显示，可使不同系统的坐标保持一致（波长、频率、能量、速度)，也能够在这些系统（以地面为基点、动力学、运动学等)之间进行转换。
+
+# 2.6 CASSIS 软件
+
+CASSIS[9]软件由法国空间天体物理学实验室(Centre d'Etude Spatiale des Rayonnements，CESR）/法国天体物理学和行星学研究所（L'Institut de Recherche en Astrophysique et Planetologie，IRAP)于 2005年开发的一款交互式光谱分析软件，目前最新版本为CASSIS 3.8。CASSIS 与其他虚拟天文台工具一样，通过简单光谱访问协议让用户应用国际虚拟天文台联盟服务查询光谱，这些光谱可以来自Hubble、Corot、spatalogue、ISO等。CASSIS 查询界面如图10。另外，也可以通过简单应用程序消息传递协议使数据在不同的天文软件间传递和交互操作。CASSIS 主要有4大特点：
+
+（1）谱线认证：一方面通过查询本地数据库输入谱线，另一方面通过内部模型（目前有 $\mathrm { C D M S + }$ JPL $+$ NIST和一些其他的模型，在持续更新中），通过这些模型对输入的谱线进行认证。
+
+(2)构造任何望远镜的理论光谱：可以使用本地光谱数据库和内部模型的信息。目前使用局部热动平衡（Local Thermodynamic Equilibrium，LTE)模型和 RADEX 代码。该模型需要提供一些模板信息,这些信息可以导人CASSIS 数据库。望远镜的信息可以为ASCII文件（即将更为XML数据格式），以便任何望远镜参数都可以很容易地添加或修改。(3)比较望远镜数据和各种模型光谱数据：这些模型为(2)所提到的，由用户指定光谱分辨率，然后通过模型构建模拟光谱，与观测光谱进行比较。(4)估计光谱物理参量：CASSIS 具有调节图像的工具，拟合完整的谱线并保存为文件，可以估算柱密度和激发温度，最优化拟合算法还在研究中。CASSIS 光谱可视化界面如图11。
+
+Simple Spectral Access (SSA) □ X   
+Registry&Serv... Request Global Parameters Optional Parameters   
+RegistrQuery Object name: Resolve Use Name Value   
+6dFDR3 AXES RA: DEC: DIMEQ AHigh-Re logg SIZE: logg_max Allard,co logg_min meta Allard,DU BAND: SCALEQ Spectrum Allard,Ne TIME: teff teff_max AXIS-XMS FORMAT: none - teffmin utle 1   
+昌 P Query Deselect all <SERVER>?REQUEST=queryData&AXES= Advanced Query   
+Results CONDOOX Index teff logg meta tile AXES UNITS DIMEQ SCA 100 2.5 0.0 NextGen model,teff:100, logg:2.5 WAVELENGTH FLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 100 3.0 0.0 NextGenmodeltft:1o.logg:3.0 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 100 3.5 0.0 NextGenmodeltef0oogg：3.5 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 100 4.5 0.0 NextGenmodel,teff.100,logg:4.5 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-31E-10 100 5.0 0.0 NextGenmodel,teff:100,logg:5.0 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 100 5.5 0.0 NextGenmodeltef:100logg:5.5 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 100 6.0 0.0 NextGenmodel,teff:10o,logg:6.0 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 200 2.5 0.0 NextGenmodelteff:20ologg:2.5 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 200 3.0 0.0 NextGenmodelteff:200logg:3.0 WAVELENGTHFLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 10 200 3.5 0.0 NextGen model,teff:20o, logg:3.5 WAVELENGTH FLUX ANGSTROMERG/CM2/S/A LML-1T-3 1E-10 moe TOOUPnAIOUADIA 4 D Deselectall Download selected Download all Display selected Display all Open with...
+
+![](images/60d759860403a75e867e18ddcfa091fcc535e0a42f5e2ffade0a88e0c33eb46b.jpg)  
+图10CASSIS 查询界面Fig.10CASSIS query interface  
+图11CASSIS 光谱可视化界面Fig.11CASSIS spectral display interface
+
+# 2.7 ASERA软件
+
+ASERA[1o]（A Spectrum Eye Recognition Asstant)是由中国科学院国家天文台基于JAVA开发的简单交互式光谱识别软件，最新版本为ASERA2.0。用于帮助用户识别类星体光谱和红移测量。ASERA不仅限于类星体光谱的识别，还包括其他类型的光谱，如恒星、星系和活动星系核。可视化观测光谱、添加光谱模板数据、交互式访问相关谱线信息。该工具包有两种模式：JAVA独立应用程序和基于Web 运行程序。ASERA功能包含：波长和流量范围的设置、可视化自定义、红移估计、谱线识别。借助 ASERA工具，用户可以轻松地识别光谱和估测红移，从而提高光谱分类的准确性，尤其对低质量光谱的识别。
+
+ASERA的特点：输入文件可以是郭守敬望远镜和 SDSS 望远镜的FITS文件、TXT文本文件、图像文件；谱线能够随鼠标而动，同时红移值自动给出；自定义可视化；有多种 SDSS 光谱模板可供选择，或者用户加载自己提供的模板；批处理程序，可以同时处理多个光谱；光谱平滑；谱线的高斯拟合。ASERA主界面如图12。
+
+![](images/3b821c42e3eb17fb4c479d0772184120d2b86951a5f5bbd5e0218128d81e4bc9.jpg)  
+图12 ASERA主界面  
+Fig.12ASERA main interface
+
+为了更好地比较不同软件之间的异同，对上述7种光谱分析软件进行了综合比较，如表1。
+
+表17种光谱分析软件的比较  
+Table1Comparison of seven spectral analysis software   
+
+<html><body><table><tr><td rowspan="2">软件 独特功能</td><td rowspan="2"></td><td rowspan="2">合成 SED</td><td rowspan="2">光谱 拟合</td><td rowspan="2">支持支持 SSAP SAMP 协议</td><td rowspan="2">协议</td><td rowspan="2">运行方式</td><td rowspan="2">编写 语言</td><td rowspan="2">建议运行环境</td></tr><tr><td></td></tr><tr><td rowspan="2">VOSpec</td><td>1.谱线和连续谱拟合; 2.红移和红化校正; 3.光谱之间的运算和卷积;</td><td>√</td><td>√</td><td>√</td><td>√</td><td>Application/ Web</td><td>Java</td><td>Windows/Linux/ Mac OSX</td></tr><tr><td>4.多种显示模式(树状、表状) 1.数据来自大型光谱数据库; VOSED 2.两种查询模式;</td><td></td><td>√</td><td>√</td><td>√</td><td>Web site</td><td>JSP</td><td>Windows/Linux/ Mac OSX</td></tr><tr><td rowspan="2">SpecView3.平滑处理;</td><td>3．在线合成 SED并保存 1.数据质量控制和光谱单位转换;</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.可视化参数自定义； 4.光谱的特征提取和显示， 叠加多个光谱</td><td>√</td><td>√</td><td>√</td><td></td><td>Application/ Web</td><td>Java</td><td>Windows/Linux/ Mac OSX</td></tr><tr><td>Iris</td><td>1.NED 数据导入; 2.数据可视化和自定义； 3.光谱模型拟合 SED; 4.非常规数据格式转化</td><td></td><td>√</td><td>√</td><td><</td><td>Application</td><td>Java</td><td>Linux/Mac OSX</td></tr></table></body></html>
+
+1期  
+续表  
+
+<html><body><table><tr><td rowspan="2">软件</td><td rowspan="2">独特功能</td><td rowspan="2">合成</td><td colspan="2">支持 光谱 拟合 协议</td><td rowspan="2">支持 SSAP SAMP 协议</td><td rowspan="2">运行方式</td><td rowspan="2">编写 语言</td><td rowspan="2">建议运行环境</td></tr><tr><td>SED</td></tr><tr><td rowspan="2">SPLAT</td><td>1.多种拟合函数; 2.降噪光谱滤波；</td><td></td><td>√</td><td>√</td><td>√</td><td>Application/ Web</td><td>Java</td><td>Windows/Linux/ Mac OSX</td></tr><tr><td>3．系统转换 1.谱线认证; 2.构造理论光谱;</td><td></td><td>√</td><td><</td><td><</td><td>Application</td><td>Java</td><td>Windows/Linux/</td></tr><tr><td>ASERA</td><td>CASSIS 3.比较望远镜光谱数据与不同光 谱模型数据; 4.估计光谱物理参量 1.光谱分类; 2.谱线识别;</td><td></td><td></td><td></td><td></td><td>Application/</td><td>Java</td><td>Mac OSX Windows/Linux/</td></tr></table></body></html>
+
+# 3总结与展望
+
+通过对常用的7种光谱分析软件的介绍、分析和对比可知：VOSpec、VOSED、SpecView、Iris、SPLAT、CASSIS 都支持简单光谱访问协议，能够通过已在虚拟天文台上注册的天文数据库如 SIMBAD、NED、VizieR、ESO等或者光谱巡天望远镜产生的数据获取光谱数据、光谱能量分布数据、河外数据等；并且支持简单应用程序消息传递协议，使数据在软件之间交流和交互式操作。VOSpec、VOSED、SpecView、Iris、SPLAT、CASSIS 都支持合成光谱能量分布以及光谱可视化和分析。ASERA独有专家识谱和谱线识别的功能，这是其余6种软件没有的。7种软件除VOSED基于网络方式外，其他都是基于JAVA语言开发。也就是说，这6种光谱分析软件都可以在网络中以Java编程语言编写的小应用程序 Applet方式运行，较适合整合在一个平台上使得软件的使用和数据的交流更为方便和快捷，类似的例子有中国的 China-VO[1-12]、国外的 DAMEWARE 等。这样便于进行二次开发，增加新的功能,使其更为强大、全面。每种软件都有自己的优缺点和独特功能，通过上面的介绍和描述，用户可以根据自己的需求和科研目标，选择合适的工具。随着越来越多的光谱巡天项目的进行，光谱数据愈加繁多和复杂，对光谱分析和处理的自动化要求越来越强烈。天文学家在应用这些光谱分析软件的同时，不断提出新的要求并及时反馈。相信随着天文学家和软件开发者的良好互动，光谱分析软件将会越来越柔韧、越来越便捷、越来越强大和健壮。借助光谱分析软件，天文学家处理光谱更加得心应手，更加高效快捷，从而推动天文学研究的巨大进步。
+
+# 参考文献：
+
+[1] 张彦霞，赵永恒.数据挖掘技术在天文学中的应用［J].科研信息化技术与应用，2011，2(3): 13-27.Zhang Yanxia,Zhao Yongheng. The application of data mining technologies in astronomy [J]. e-Science Technology & Application，2011，2(3）：13-27.  
+[2] 赵永恒.大规模天文光谱巡天[J].中国科学：物理学 力学 天文学，2014,44(10)：1041-1048.Zhao Yongheng. Large-scale astronomical spectroscopic surveys [J]. Scientia Sinica: Physica,Mechancia & Astronomica，2014，44（10）:1041-1048.  
+[3] Fernique P.IVOA applications [EB/OL].[2015-3-2]. http://wiki.ivoa.net/twiki/bin/view/IVOA/IvoaApplications.  
+[4] Osuna P，Barbarisi I,Salgado J,et al.VOSpec:a tool for handling virtual observatory compliantspectra [C]// Astronomical Society of the Pacific Conference Series.2Oo5:：198-202.  
+[5] Gutierrez R，Solano E，Delgado A，et al. VOSED：a tol the characterization of protoplanetarydisks[C]// IVOA Interoperability Meeting.2011.  
+[6] Busko I. Specview: a Java tool for spectral visualization and model fiting [C]// Proceedings ofthe SPIE.2002：410-418.  
+[7] Laurino O，Busko I,Cresitello-Ditmar M，et al. Extending iris:the VAO SED analysis tool[C]// Astronomical Society of the Pacific Conference Series.2O13：295-298.  
+[8] Skoda P,Per P W,Neves M C,et al. Spectroscopic analysis in the virtual observatory environmentwith SPLAT-VO ［J].Astronomy & Computing，2014，7:108-120.  
+[9] Lebouteiller V，Barry D J，Spoon H W W，et al. CASSIS: the cornell atlas of spitzer/infraredspectrograph sources [J]. Astrophysical Journal Supplement，2011，196(1） : 849-856.  
+[10] Yuan Hailong， Zhang Haotong，Zhang Yanxia，et al. ASERA: a spectrum eye recognitionassistant for quasar spectra [J].Astronomy & Computing，2013，3-4：65-69.  
+[11] 崔辰州，赵永恒.中国虚拟天文台体系结构［J]．天文研究与技术—国家天文台台刊，2004，1(2):140-151.Cui Chenzhou， Zhao Yongheng.Architecture of Chinese virtual observatory ［J].AstronomicalResearch& Technology- —Publications of National Astronomical Observatories of China，2004,1(2): 140-151.  
+[12] 王晓倩，崔辰州，赵永恒.中国虚拟天文台软件集成［J].天文研究与技术—国家天文台台刊，2005，2(4)：89-97.Wang Xiaoqian，Cui Chenzhou，Zhao Yongheng.Integrating legacy software toolkits into China-VO system [J]. Astronomical Research & Technology——Publications of National AstronomicalObservatories of China，2005，2(4）:89-97.
+
+# Application of Spectral Analysis Softwares in Astronomy
+
+Tu Yang $^ { 1 , 2 }$ ， Zhang Yanxia’, Zhao Yongheng²，Tian Haijun’，Yuan Hailong² (1.China ThreeGorges University，Yichang 443O02,China；2.KeyLaboratoryofOptical Astronomy，NationalAstronomical Observatories，Chinese Academy of Sciences，Beijing 10ool2，China，Email：tyang@nao.cas.cn)
+
+Abstract:With the planning，implementation and operation of large-scale spectroscopic survey projects, automaticanalyses，eficiently collctions and quickly extracting effective physical information from the huge volume of astronomical spectral data is the focus of astronomers and an important isse of contemporary astronomical researches. Most of astronomy researches are based on the spectral analysis. Various rapidly developed spectral analysis tools are of promoting significance to easily explore the spectral characteristics in view of their convenience and usability.In this paper，the relevant background of the several completed, running and upcoming spectroscopic survey projects are described，and the importance of applying spectral tols is pointed out. Taking VOSpec，VOSED，SpecView，Iris，SPLAT, CASSIS，ASERA for example，the basic features and main functions of theos spectral analysis tols are introduced,and then the applications and operating environments of these tols are compared，The research in this paper provides the certain reference and guidance for astronomers to select the analysis software.
+
+Key words: Spectral analysis softwares； Astrophysics ； Spectroscopic survey ； SED

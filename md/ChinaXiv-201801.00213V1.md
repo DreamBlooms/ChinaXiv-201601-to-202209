@@ -1,0 +1,231 @@
+# DOI: 10.5846/stxb201611222386
+
+张抗萍,李荣飞,刘松月,何桥,梁国鲁,陆智明,易佑文,胡涛,郭启高.不同树形龙安柚冠层特性.生态学报,2017,37（24):8456-8466. ZhangKP,LiFS,,gG,uZ,,Aalysoeaorcurahacerisi systems for Citrus grandis var. longanyou.Acta Ecologica Sinica,2017,37(24):8456-8466.
+
+# 不同树形龙安柚冠层特性
+
+张抗萍1,²，李荣飞¹，刘松月¹，何桥'，梁国鲁¹，陆智明'，易佑文³，胡 涛，郭启高1，\* ?
+
+1南方山地园艺学教育部重点实验室/西南大学园艺园林学院，重庆400716  
+2西南大学农学与生物科技学院，重庆400716  
+3四川省广安市科技开发培训中心，广安638500  
+4四川省广安市广安区农业局，广安638500
+
+摘要：以开心形、Y字形、双层分层形和自然圆头形的龙安柚为试验材料,比较不同树形的冠层特性、叶片结构和生理特征,以期为龙安柚果园小环境的调控提供理论基础。结果表明：（1）开心形间隙分数阈值最高,是自然圆头形的4.33倍。开心形与Y字形的冠层光合辐射与透射系数均显著高于其他树形,但二者无显著差异,表明开心形和Y字形的冠层通风透光特性较好。（2）开心形与Y字形叶片厚度增加,叶面积和气孔密度较大,栅栏/海绵组织厚度和组织紧密度较高,叶片组织疏密度较低,且二者无显著差异,表明开心形与Y字形利于提高叶片的光合作用,降低蒸腾作用。（3）Y字形和开心形净光合速率、水分利用率、最大表观电子传递速率、初始斜率和半饱和光强较高,而蒸腾速率较低,二者对强光的耐受能力较强;其中开心形蒸腾速率最低为 $2 . 4 3 \mathrm { \ m m o l \ m } ^ { - 2 } \mathrm { \ s } ^ { - 1 }$ ,且其结果枝光抑制参数最小,为 $0 . 6 2 9 _ { \circ }$ 说明开心形为最佳的高光效树形。（4）冠层微环境因子、叶片结构及光合生理指标之间多呈极显著相关关系,但开心形叶片结构和生理的大部分指标与冠层环境因子之间相关性较低,说明开心形树形不同部位的营养枝和结果枝的叶片性状差异较小,其光渗透性好,整个冠层的光截获能力和有效光辐射的分布差异较小,笔者认为开心形是龙安柚栽培中的适宜高光效树形。  
+！
+
+关键词：龙安柚；树形;冠层微环境;叶片特性;叶片光合生理
+
+# Analysis of the canopy structural characteristics of different training systems for Citrus grandis var. longanyou
+
+ZHANG Kangping1,²，LIRongfei’，LIU Songyue'，HE Qiao’，LIANG Guolu’，LU Zhiming'，YI Youwen, HU Tao4，GUO Qigao'‘
+
+1KeyLaboatofueSecfoouseos，ntfducatClefrtueddaee   
+Southwest University，Chongqing 400716,China   
+2 College of Agronomy and Biotechnology，Southwest University，Chongqing 400716,China   
+3 Guang'an Science and Technology Development and Training Center， Guang'an 6385Oo,China   
+4Guang'an District Agricultural Bureau，Guang'an 6385Oo,China
+
+Abstract:In this study，four types of training systems for Citrus grandis var.longanyou，natural round shape，doublelayered shape，opencenter shape，and Y-shape，were used，and structural characteristicsof the diferent canopies and structuraland physiologicalcharacteristicsoftheleaves werecomparedforabeterunderstandingofthecanopymicroclimate and correlation with canopy growth to provideguidance andsupport for orchard production practices such as pruning, watering，andfertilizing.Theresultsshowedthat:（1）Thegap fraction threshold ofopen center shapewasthehighest, which was 4.33 timesof the natural round shape.Photosyntheticallyactiveradiation（PAR）and transmisioncoefficientof the opencenter shape and Y-shape systems were significantly higher thanthoseof the other two training systems，which indicatesthatthecapabilitiesoftheopencenter shapeand Y-shape systems to interceptanddistribute lightin thecanopy werebetter thanthoseof the other two systems.（2）Parameterssuchas Leafthickness（LT），Stomata density（SD）,Leaf area（LA），Thicknessrate of palisade and sponge tissue（PTT/ STT），and Organizational structure closely degrees (CTR）measured for the open center shape and Y-shape systems were higher than those of the other two systems，which indicates thatthe leaves ofthe former two systems show improved photosynthesisandreduced transpiration.（3）Parameters such as Net photosynthetic rate $\left( \mathrm { P n } \right)$ ，Water use efficiency（WUE），Max apparent electron transport rate（ETRmax）, Initial slope $( \alpha )$ ，and Half-saturation light intensity $( I _ { k } )$ measured for the open center shape and Y-shape were higher, which indicates that these two training systems have beter tolerance to strong light. However,Transpiration rate( $\mathrm { T r } = 2 . 4 3$ （204号 mmol $\mathrm { m } ^ { - 2 } \mathrm { ~ s ~ } ^ { - 1 }$ ）and the photoinhibition parameters( $\scriptstyle B = 0 . 6 2 9 .$ ）of the bearing branches were minimum for the open center shape system，which is the bestsystem to photosyntheticeficiency.（4）The measured parameters'corelativitybetween canopy microclimateand structuraland physiological characteristicsoftheleaves was highlysignificant，butthecoelation fortheopencentershape system was lower than thatofthe other systems.This indicates thatthe leaves of the vegetative and bearing branches show the lowest diferences in the wholecanopy of the open centershape system and that the open center shape is thebest raining system forlight interception and distribution inthecanopy
+
+KeyWords:Citrus grandis var.longanyou；training system；canopy microclimate；leaf characteristics；leaf photosynthetic physiology
+
+果树栽培以能持续稳产优质的适宜树形为基础,但不同种类或同一种类在不同栽培条件下的适宜树形有所差异。由于大多数果树光合作用产生的碳水化合物最终决定了产量的高低,且果实的外观品质和内部品质都与光合作用有直接或间接的关系。因此,筛选与应用具有树体通风透光、高光能利用率的适宜树形是绝大部分果树栽培的共同目标。果树树形是其本身的遗传特性结合人工整形修剪而成,不同树形由于所留的枝梢数量和比例而使冠层内部光照、温度 湿度等均呈一定梯度变化,这些变化使得果树冠层微环境异质性的形成。而植物本身会在不同冠层微环境下,通过调节叶片形态结构、改变生理生化及代谢途径等适应其生长环境[1-2],随之则影响着树体对光、水、肥的利用,最终导致冠层不同枝梢叶片营养、果实产量与品质的变化[3-4]。由此可见,进行果树不同树形冠层特性的对比分析,是不同树形条件下树体生长发育、果实产量品质相关性研究的基础,并对生产上筛选适宜树形有重要意义。
+
+果树冠层营养枝与结果枝的比例失调容易出现大小年和早衰现象。但一直以来,人们对营养枝和结果枝进行单独研究的报道较少。现有的少量研究表明,营养枝和结果枝叶片的叶绿素含量[5]、SPAD 值和叶绿素荧光动力学参数[]均存在显著差异。Thakur等[7]发现芒果营养枝和结果枝的营养水平差异显著,梨的不同树形、不同枝类等则对果实熟期一致性有重要影响[8]。因此,对不同树形条件下的营养枝和结果枝进行单独研究,将对果树生产管理中维持合理的营养枝和结果枝比例,达成果园稳产、优质具有较好的实践指导意义。
+
+龙安柚(Citrus grandis var.longanyou)分布于四川省广安市,范围始于川中丘陵东止于华蒂山,是国家地理标志农产品,其果实果汁风味浓郁,少核或无核,在柚类消费市场中占有重要地位[9]。当前,龙安柚作为广安市的特色农产品得到大力发展,据广安柚办统计,2010年龙安柚种植面积高达 $1 6 0 0 0 \ \mathrm { h m } ^ { 2 }$ ,2016年行业统计数据显示其种植面积已增至约 $2 3 3 3 3 \ \mathrm { h m } ^ { 2 }$ ,正逐步被打造为农民增收的支柱产业之一（广安区柚办统计数据)。但一直以来,无论是农户分散种植,还是业主的规模化经营,龙安柚种植后均极少修剪,几乎全部任其自然生长,形成高大的自然圆头形,其冠层郁闭极为严重,通风透光条件差,对果实的产量和品质影响极大，甚至造成大小年、适龄树不挂果的现象普遍发生。可见,龙安柚规模化推广应用中,适宜树形的筛选,并在栽培管理中维持营养枝与结果枝的合理比例,这已经成为龙安柚产业可持续发展的首要环节。为此,笔者以龙安柚自然圆头形为对照,以双层分层形、开心形和Y字形作为改造树形，通过4种树形中着生于不同冠层环境的结果枝和营养枝的叶片所处环境参数与生理性状指标的相关性分析,探讨叶片形态结构和生理性状对冠层微环境的适应性,并结合不同树形的光合特性分析,为龙安柚适宜高光效树形筛选、后续栽培管理中冠层小环境的调控及营养枝与结果枝的选留提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+本试验于2015—2016年在广安市前锋区代市镇大田村进行。当地( $\mathrm { 1 0 6 ^ { \circ } 7 6 ^ { \prime } E } , 3 0 ^ { \circ } 5 0 ^ { \prime } \mathrm { N } )$ 平均海拔 $3 2 0 \mathrm { ~ m ~ }$ ，年平均气温 $1 7 . 5 8 ^ { \circ } \mathrm { C }$ ,最冷月在1月,平均气温 $4 ^ { \circ } \mathrm { C }$ 。最热月在7月，平均气温 $2 7 \%$ ,无霜期 $3 0 6 { \left( - 3 2 8 \ \mathrm { d } \right. }$ ,年平均降水量 $1 2 4 0 \ \mathrm { m m }$ ,年平均日照时数为 $1 2 1 3 \mathrm { ~ h ~ }$ 。试验地为典型的西南丘陵地区高温多雨的气候,土壤肥力中等。
+
+试验树种为5年生且具有4种树形典型特点的龙安柚,株行距 $5 . 0 ~ \mathrm { m } { \times } 5 . 3 ~ \mathrm { m } _ { \circ } ~ 4$ 种树形分别为：自然圆头形（株高3.8- $4 . 2 \mathrm { ~ m ~ }$ ,冠幅 $3 . 5 { - } 3 . 7 ~ \mathrm { m }$ ),Y字形（株高2.8- ${ \cdot 3 . 0 \ \mathrm { m } }$ ,冠幅2.9—3.1m）,开心形（株高2.7— $- 2 . 8 \mathrm { ~ m ~ }$ ，冠幅 $3 . 0 { - } 3 . 1 \ \mathrm { m } \ \mathrm { , }$ ），双层分层形（株高3.4— $3 . 5 \mathrm { ~ m ~ }$ ,冠幅2.9- $3 . 1 \mathrm { ~ m ~ }$ )。每种树形选取3株，3次重复。
+
+# 1.2 试验方法
+
+# 1.2.1 冠层微环境测定
+
+在7月幼果膨大期,此时冠层结构相对稳定。试验中以冠层一半为分界线,进行冠层上、下部的东南西北4个方位的测定,东南西北方位测定点为上、下部一半位置水平方向与外围连线的中点。利用CI-110冠层分析仪测定,间隙分数阈值(GFT）、透射系数（TC）、冠层光合有效辐射（PAR)等指标。使用 $\mathrm { L C P R O + }$ 光合作用测定仪,测定叶片表面光合有效辐射（Qleaf）、叶片温度（Tleaf）、叶面水汽压亏缺（VpdL）、样本室相对湿度（RHS)等。
+
+# 1.2.2 叶片特性分析
+
+在7月幼果膨大期,选定试验树树冠采集叶片，采样点同冠层微环境测定点，每株试验树各采样点采集15 片长势一致(当年春稍顶部第3片叶)的成熟健康叶片,装入塑封袋置于冰盒,于室内剪去叶柄,蒸馏水清洗、擦干备用。并进行如下指标分析：
+
+（1)叶片厚度(LT)：游标卡尺测定。
+
+（2)叶面积（LA）：叶面积仪测定,并计算比叶面积（SLA， $\operatorname { S L A } = \operatorname { L A } / \operatorname { L D W } )$ 。
+
+（3)叶片相对叶绿素含量(SPAD):利用叶绿素仪 SPAD-502 测定叶片相对叶绿素含量。避开叶脉,在主脉中部测定3个点,取其平均值。
+
+(4)叶片组织结构分析:参照赵晶[0]的方法并稍作改动进行冰冻切片后显微观察,其具体流程如下：取新鲜叶片中部 $0 . 5 \ \mathrm { e m }$ 长的中脉组织进行冰冻切片，切片厚度 $1 0 ~ \mu \mathrm { m }$ ;经番红-固绿染色：番红( $2 0 ~ \mathrm { m i n } ^ { \cdot }$ ）1 $3 0 \%$ 酒精 $\mathrm { ~ ( ~ 1 0 ~ s ~ ) ~ } \xrightarrow { } 5 0 \%$ 酒精（10s）一 $- 7 0 \%$ 酒精（10 s）一 $8 5 \%$ 酒精（15s）一固绿(5s）- $9 5 \%$ 酒精（10 s）,中性树胶封片,烘干制成永久性切片。在Olympus 光学显微镜下用目镜测微尺观测叶片厚度、栅栏组织厚度(PTT）和海绵组织厚度(STT)等参数,观察3个视野,每个视野读取10 个观察值,并取平均值,用于后续叶片组织紧密度、叶片组织疏密度指标的分析。
+
+叶片组织紧密度( $\mathrm { \ : C T R } ) =$ 栅栏组织厚度/叶片厚度;
+
+叶片组织疏密度 $\mathbf { \Psi } \left( \mathrm { S R } \right) =$ 海绵组织厚度/叶片厚度。
+
+(5)气孔观察;用脱脂棉擦除叶片下表皮灰尘,然后在下表皮中部靠近主脉的两侧均匀地涂一层透明指甲油,待其风干结成膜后用镊子取下,再用碘-碘化钾染色溶液染色,盖上盖玻片。于OLYMPUS 光学显微镜下进行气孔观察、测量和拍照。观察10个视野,计算气孔密度(Stomata density,SD）,求平均值。
+
+(6)叶片可溶性蛋白质含量(SPC):采用考马斯亮蓝法进行测定[1]。取叶片鲜样,将其剪碎混匀,每个样品设置6次重复。计算公式为：可溶性蛋白质含量 $( \mathrm { m g / g ^ { - 1 } F W } ) \mathrm { = ( \ a \times V t ) / ( \nabla V \times W \times 1 0 0 0 ) }$ ，式中：a蛋白质标准曲线值 $( \mu \mathrm { g } ) ; \mathrm { V t }$ 为提取液中体积( $\mathbf { \Pi } _ { \mathrm { m L } }$ );V为测定时加样量 $\mathrm { ^ { ' } m L }$ ; $\mathbb { W }$ 为样品鲜重 $\mathbf { \tau } ( \mathbf { g } )$ 。
+
+（7)干物质含量（LDMC）：用电子天平称量叶片鲜重（Leaf freshweight,LFW）,然后置入 $8 5 \mathrm { ^ \circ C }$ 烘箱中烘干至恒重称其干重（LDW），并计算叶片含水量 $\mathrm { ' \ : L W C , L W C = L F W - L D W } ,$ ）、干物质含量（LDMC， $\mathrm { L D M C } = \mathrm { L D W } \times$ $1 0 0 0 \mathrm { ~ / ~ L F W } )$ 。
+
+# 1.2.3叶片光合生理指标测定
+
+使用 $\mathrm { L C P R O + }$ 光合作用测定仪,选取龙安柚始花期(3月中旬）、第二次落果后期(7月下旬）、转色初期（9月中旬）、转色末期(10月下旬）、成熟期(11月中旬)5个物候期。每个时期选3d晴天进行测定,测定点同1.2.1,测定部位为营养枝和结果枝叶片。测定的主要光合指标包括净光合速率( $\left. \mathrm { P n } \right.$ 、气孔导度(Gs）、胞间$\mathrm { C O } _ { 2 }$ 浓度（Ci）、蒸腾速率( $\mathrm { ( r ) }$ 以及水分利用效率（WUE, $\mathrm { { W U E = P n / \Omega T r } }$ $\mu \mathrm { m o l } \ \mathrm { C O } _ { 2 } \ \mathrm { m m o l } ^ { - 1 } \mathrm { H } _ { 2 } \mathrm { O } )$ 等。ETR-PAR曲线拟合：利用JUNIOR-PAM叶绿素荧光测定仪,将光合有效辐射PAR设为13个梯度,分别为0,25,45,65,$9 0 , 1 2 5 , 1 9 0 , 2 8 5 , 4 2 0 , 6 2 5 , 8 2 0 , 1 1 5 0 , 1 5 0 0 ~ \mathrm { \mu m o l ~ m ^ { - 2 } ~ s ^ { - 1 } ~ }$ 。采用 $\mathrm { P = P m } \cdot \ : ( \mathrm { 1 - e ^ { - \alpha \cdot P A R P m } ) \ : \cdot \ : e }$ $\cdot ) \mathrm { e } ^ { - \beta \cdot \mathrm { P A R } / \mathrm { P m } }$ ,拟合快速光响应曲线,可得拟合参数;最大表观电子传递速率( $\mathrm { E T R } _ { \mathrm { m a x } }$ ）、初始斜率 $( \alpha )$ 、光抑制参数 $( \beta )$ 和半饱和光强$( I _ { k } ) ^ { [ 1 2 ] }$ 。并用第二次落果后期(7月下旬)的测定数据进行相关性分析。
+
+# 1.3 数据处理
+
+采用 Excel 2003 整理数据并绘制图表,用 SPSS 13.0软件进行显著性检验和相关性分析。
+
+# 2结果与分析
+
+# 2.1不同树形冠层微环境分析
+
+由表1可知,4种树形中开心形间隙分数阈值显著高于其他树形,Y字形次之,开心形间隙分数阈值均值为0.468,是自然圆头形的4.33倍,这可能是由于开心形拉枝角度较大,枝叶分散程度较大所致。冠层光合辐射PAR与透射系数的变化趋势一致,Y字形 开心形和双层分层形均显著高于自然圆头形。而自然圆头形的叶面积指数LAI最大，Y字形和开心形相对较小。由此可见,Y字形和开心形的冠层透光性较好。
+
+表1不同树形的冠层特征参数  
+Table1Characteristics of canopy of different tree shapes   
+
+<html><body><table><tr><td>树形 Tree shape</td><td>间隙分数阈值GFT Gap Fraction Threshold</td><td>冠层光合辐射PAR Photosynthetic active</td><td>透射系数TC Transmission coefficient</td><td>叶面积指数LAI Leaf area index</td></tr><tr><td>Y字形 Y-shape</td><td>0.348±0.039b</td><td>radiation/(μmol m-²s-1) 510.3±7.38a</td><td>0.411±0.006a</td><td>2.05±0.085c</td></tr><tr><td>开心形 Open center shape</td><td>0.468±0.020c</td><td>488.8±25.42a</td><td>0.376±0.005a</td><td>2.25±0.031c</td></tr><tr><td>双层分层形 Double layered shape</td><td>0.204±0.020b</td><td>400.0±13.79b</td><td>0.332±0.018b</td><td>2.76±0.091b</td></tr><tr><td>自然圆头形 Natural round shape</td><td>0.108±0.007d</td><td>317.1±23.09c</td><td>0.252±0.014c</td><td>3.22±0.085a</td></tr></table></body></html>
+
+表中同一列中不同小写字母表示在0.05 水平上差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+4种树形叶片表面光合有效辐射 Qleaf、叶片温度 Tleaf、叶面水汽压亏缺 Vpdl均表现为营养枝高于结果枝,且不同枝类的Vpdl和 Tleaf 均表现为Y字形 $\cdot >$ 开心形 $>$ 自然圆头形 $\cdot >$ 双层分层形(表2)。可见Y字形由于叶片曝光面积较大,则其 Tleaf 和 Vpdl 相对较高。样品室相对湿度 RHS 表现则相反,自然圆头形结果枝显著高于其他3种树形，说明自然圆头形树形冠层的通风透光能力较差。
+
+# 2.2冠层不同部位叶片特性分析
+
+不同枝类的叶片形态结构特征(表3)研究结果显示,4种树形中Y字形与开心形叶面积LA、气孔密度SD、相对叶绿素含量 SPAD 和叶干物质含量LDMC 均较大,二者无显著差异。叶片含水量LWC、比叶面积SLA 均为自然圆头形最大。开心形和Y字形叶片厚度LT较高,其中开心形营养枝LT最大为 $4 1 1 . 3 3 ~ \mu \mathrm { m }$ 。自
+
+Table 2Characteristics of canopy micro-environment of different tree shape   
+
+<html><body><table><tr><td rowspan="2">冠层微环境参数 Canopy microenvironment parameter</td><td colspan="2">Y字形 Y-shape</td><td colspan="2">开心形 Open center shape</td></tr><tr><td>营养枝 Vegetative branch</td><td>结果枝 Bearing branch</td><td>营养枝 Vegetative branch</td><td>结果枝 Bearing branch</td></tr><tr><td>叶片表面光合有效辐射 Qleaf/(μmol m-² s-1)</td><td>462.50±28.30a</td><td>383.00±40.91ab</td><td>449.90±19.09a</td><td>321.10±31.93bc</td></tr><tr><td>叶片温度Tleaf/（℃）</td><td>24.50±0.39a</td><td>24.42±0.23a</td><td>24.18±0.19ab</td><td>23.71±0.17abc</td></tr><tr><td>叶面水汽压亏缺Vpdl/（kPa)</td><td>3.58±0.183a</td><td>2.73±0.067bc</td><td>3.00±0.123b</td><td>2.55±0.029c</td></tr><tr><td>样品室相对湿度RHS/（%)</td><td>32.49±0.71d</td><td>33.43±0.76d</td><td>34.05±0.48cd</td><td>34.37±0.38cd</td></tr><tr><td rowspan="2">冠层微环境参数</td><td colspan="2">双层分层形</td><td colspan="2">自然圆头形</td></tr><tr><td>Double layered shape 营养枝</td><td></td><td>Natural round shape</td><td>结果枝</td></tr><tr><td>Canopy microenvironment parameter</td><td>Vegetative branch</td><td>结果枝 Bearing branch</td><td>营养枝 Vegetative branch</td><td>Bearing branch</td></tr><tr><td>叶片表面光合有效辐射 Qleaf/(μmol m-² s-1)</td><td>359.9±46.83abc</td><td>317.4±52.85bc</td><td>307.7±43.26bc</td><td>254.8±33.39c</td></tr><tr><td>叶片温度Tleaf/（℃）</td><td>22.49±0.51d</td><td>20.41±0.17e</td><td>23.20±0.45bcd</td><td>22.80±0.49cd</td></tr><tr><td>叶面水汽压亏缺Vpdl/（kPa)</td><td>2.54±0.109c</td><td>2.17±0.033d</td><td>2.62±0.058c</td><td>2.56±0.077c</td></tr><tr><td>样品室相对湿度RHS/（%)</td><td>35.39±1.25bc</td><td>36.73±1.27bc</td><td>38.03±1.38b</td><td>41.70±0.72a</td></tr></table></body></html>
+
+表中同一行中不同小写字母表示在0.05 水平上差异显著( $\scriptstyle P < 0 . 0 5 .$ ）;Qleaf：叶片表面光合有效辐射，Leaf surface photosynthetically activeradiation；Tleaf：叶片温度,Temperature of leaf; $\mathrm { \Delta V p d l }$ ：叶面水汽压亏缺，Leaf vapor pressure deficit；RHS：样品室相对湿度，Relative humidity in?the sample
+
+表2不同树形的冠层微环境特性参数  
+表3龙安柚四种树形的叶片特性指标  
+Table 3Leaf morphological characteristics of four tree shapes   
+
+<html><body><table><tr><td rowspan="2">叶片特性指标 Leaf characteristics index</td><td colspan="2">Y字形 Y-shape</td><td colspan="2">开心形 Open center shape</td></tr><tr><td>营养枝</td><td>结果枝</td><td>营养枝</td><td>结果枝</td></tr><tr><td>叶面积LA/mm²</td><td>Vegetative branch 5137.30 ± 216.0a</td><td>Bearing branch 4543.10 ± 216.0bc</td><td>Vegetative branch 4607.10 ± 114.8bc</td><td>Bearing branch 4325.60 ± 116.0bc</td></tr><tr><td></td><td></td><td></td><td>250.00 ± 4.15ab</td><td></td></tr><tr><td>气孔密度 SD/（个/mm²）</td><td>260.00 ± 3.21a</td><td>246.00 ± 5.49bc</td><td></td><td>235.00 ± 3.18cd</td></tr><tr><td>叶片厚度LT/μm</td><td>404.18 ± 8.97a</td><td>387.26 ± 12.64ab</td><td>411.33 ± 7.61a</td><td>385.65 ± 12.50ab</td></tr><tr><td>栅栏/海绵组织厚度PTT/STT</td><td>0.563 ± 0.019ab</td><td>0.573 ± 0.019a</td><td>0.532 ± 0.019ab</td><td>0.564 ± 0.031ab</td></tr><tr><td>叶片组织紧密度CTR/% 叶片组织疏密度 SR/%</td><td>0.338 ± 0.008ab</td><td>0.353 ± 0.0098a</td><td>0.335 ± 0.009ab</td><td>0.337 ± 0.012ab</td></tr><tr><td>叶片含水量LWC（g)</td><td>0.603 ± 0.011b 0.896± 0.051a</td><td>0.620± 0.014b 0.949 ± 0.047cd</td><td>0.633 ± 0.009b 0.999 ± 0.034bcd</td><td>0.606 ± 0.013b</td></tr><tr><td>叶干物质含量 LDMC/(mg/g)</td><td>423.98 ± 5.24a</td><td>425.35 ± 6.83a</td><td>413.96 ± 5.90ab</td><td>1.009 ± 0.026bcd</td></tr><tr><td>比叶面积 SLA/（m²/kg)</td><td>5.79 ± 0.226bc</td><td>5.79 ± 0.174bc</td><td>5.68 ± 0.165d</td><td>421.65 ± 7.78a</td></tr><tr><td>相对叶绿素含量 SPAD</td><td>98.88 ± 2.15a</td><td>95.96 ± 1.62ab</td><td></td><td>6.65 ± 0.274ab</td></tr><tr><td>可溶性蛋白含量 SPC/(mg/g)</td><td>8.52 ± 0.172b</td><td></td><td>95.32 ± 2.09abc</td><td>94.51 ± 1.49abc</td></tr><tr><td></td><td></td><td>6.67 ± 0.244de</td><td>9.68 ± 0.336a</td><td>7.06 ± 0.199cde</td></tr><tr><td rowspan="3">叶片特性指标 Leaf characteristic index</td><td>双层分层形 Double layered shape</td><td></td><td>自然圆头形 Natural round shape</td><td></td></tr><tr><td>营养枝</td><td>结果枝</td><td>营养枝</td><td>结果枝</td></tr><tr><td>Vegetative branch</td><td>Bearing branch</td><td>Vegetative branch</td><td>Bearing branch</td></tr><tr><td>叶面积LA/mm²</td><td>4813.9 ± 206.9ab</td><td>4197.6 ± 148.5c</td><td>4119.6 ± 124.7c</td><td>3491.4 ± 164.3d</td></tr><tr><td>气孔密度 SD/(个/mm²)</td><td>256.00 ± 4.09ab</td><td>225.00 ± 2.94de</td><td>252.00 ± 6.16ab</td><td>216.00 ± 3.05e</td></tr><tr><td>叶片厚度LT/μm</td><td>390.28 ± 10.19ab</td><td>396.25 ± 15.39a</td><td>360.44± 8.39b</td><td>327.88 ± 12.95c</td></tr><tr><td>栅栏/海绵组织厚度PTT/STT</td><td>0.520± 0.031ab</td><td>0.492 ± 0.029b</td><td>0.506 ± 0.021ab</td><td>0.423 ± 0.012c</td></tr><tr><td>叶片组织紧密度CTR/%</td><td>0.318 ± 0.015bc</td><td>0.302 ± 0.014cd</td><td>0.334± 0.009ab</td><td>0.281 ± 0.007d</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td rowspan="2">叶片特性指标 Leaf characteristic index</td><td colspan="2">双层分层形 Double layered shape</td><td colspan="2">自然圆头形 Natural round shape</td></tr><tr><td>营养枝 Vegetative branch</td><td>结果枝 Bearing branch</td><td>营养枝 Vegetative branch</td><td>结果枝 Bearing branch</td></tr><tr><td>叶片组织疏密度 SR/%</td><td>0.619 ± 0.011b</td><td>0.622 ± 0.009b</td><td>0.666 ± 0.010a</td><td>0.668 ± 0.010a</td></tr><tr><td>叶片含水量LWC（g)</td><td>1.081 ± 0.078bc</td><td>1.147 ± 0.078b</td><td>1.375 ± 0.070a</td><td>1.505 ± 0.056a</td></tr><tr><td>叶干物质含量 LDMC/（mg/g)</td><td>416.16 ± 7.27ab</td><td>403.43 ± 3.98abc</td><td>396.79 ± 11.67bc</td><td>388.20 ± 7.86c</td></tr><tr><td>比叶面积 SLA/(m²/kg)</td><td>6.47 ± 0.159abc</td><td>6.84 ± 0.398a</td><td>6.64 ± 0.417ab</td><td>6.96 ± 0.428a</td></tr><tr><td>相对叶绿素含量 SPAD</td><td>91.07 ± 1.60bc</td><td>90.91 ± 1.43bc</td><td>91.31 ± 1.91bc</td><td>89.57 ± 2.44c</td></tr><tr><td>可溶性蛋白含量 SPC/(mg/g)</td><td>7.88 ± 0.424bcd</td><td>6.30 ± 0.545e</td><td>8.17 ± 0.461bc</td><td>6.03 ± 0.663e</td></tr></table></body></html>
+
+表中同一行中不同小写字母表示在0.05 水平上差异显著( $P { < } 0 . 0 5 )$ ；LA：叶面积，Leaf area；SD：气孔密度 Stomata density；LT：叶片厚度Leaf thickness；P/ST：栅栏/海绵组织厚度Thicknessrateofplisdeandsponge issue；CT：叶片组织紧密度Organizationaltructurecloselydegres；SR：叶片组织疏密度Organizational sructurelosedegres；LWC：叶片含水量Leaf watercontent;；LDMC：叶干物质含量Leaf drymatercontent；SLA：比叶面积 Specificleaf area；SPAD：相对叶绿素含量Chlorophyllelativecontent；SPC：可溶性蛋白含量Soluble proteincontent
+
+然圆头形LT最低,不利于其叶片保水。开心形与Y字形栅栏/海绵组织厚度(PTT/STT)较高,双层分层形和自然圆头形的PTT/STT较低;4种树形营养枝叶片组织紧密度CTR无显著性差异,但对于结果枝Y字形和开心形显著高于其他两种树形;叶片组织疏密度 SR与CTR变化趋势相反,自然圆头形 SR 显著高于Y字形、开心形和双层分层形。这说明,未做修剪的自然圆头形树形叶片形态结构不宜于叶片光合作用的进行,而Y字形和开心形叶片的形态结构有利于提高光合作用,降低蒸腾作用。
+
+# 2.3不同树形的光合特性
+
+根据不同树形叶片光合生理特征参数分析发现,不同树形间,自然圆头形结果枝净光合速率 $\operatorname* { P n }$ 最低,平均值为 $8 . 3 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 。经整形修剪后的树形,叶片Pn有不同程度的增加,Y字形营养枝叶片的 $\operatorname* { P n }$ 均值可增加至 $1 0 . 1 1 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ ,双层分层形营养枝叶片次之。自然圆头形的蒸腾速率 $\mathrm { T r }$ 显著高于Y字形、开心形和双层分层形,其中开心形营养枝叶片的最低为 $2 . 4 3 \mathrm { \ m m o l \ m } ^ { - 2 } \mathrm { \ s } ^ { - 1 }$ ,而4 种树形结果枝之间无显著性差异。我们发现在同一树形中,营养枝叶片 $\mathrm { P n \_ C i ( \overline { { G s \not { v } \setminus W U E } } }$ 的较结果枝叶片高,而Tr的变化趋势与之相反（表4）。
+
+表4龙安柚四种树形的叶片光合生理特征参数  
+Table 4 Leaf photosynthetic characteristics of four tree shapes   
+
+<html><body><table><tr><td>Treesape</td><td>B类</td><td>净光合速率 (μmoPm² g-1)</td><td>气孔导度 (mol m² s-1)</td><td>胞间CO浓度 (μmol/mol)</td><td>水分利用效率</td><td>蒸腾速率 (mmoTm² s-1)</td></tr><tr><td>Y字形 Y-shape</td><td>营养枝</td><td>10.11±0.372a</td><td>0.182±0.003a</td><td>284.0±2.45a</td><td>3.50±0.059b</td><td>2.88±0.076ab</td></tr><tr><td></td><td>结果枝</td><td>9.50±0.276ab</td><td>0.177±0.002b</td><td>280.6±2.50ab</td><td>3.24±0.041b</td><td>2.93±0.067ab</td></tr><tr><td>开心形</td><td>营养枝</td><td>9.03±0.208bc</td><td>0.178±0.005b</td><td>282.2±1.24a</td><td>3.76±0.105a</td><td>2.43±0.079c</td></tr><tr><td> Open center shape</td><td>结果枝</td><td>8.84±0.210bc</td><td>0.172±0.005c</td><td>277.5±3.40ab</td><td>3.29±0.090b</td><td>2.70±0.088bc</td></tr><tr><td>双层分层形</td><td>营养枝</td><td>9.23±0.301bc</td><td>0.170±0.001c</td><td>276.5±3.05ab</td><td>3.31±0.077b</td><td>2.71±0.059bc</td></tr><tr><td>Double layered shape</td><td>结果枝</td><td>8.80±0.301bc</td><td>0.168±0.001cd</td><td>272.0±2.70bc</td><td>3.35±0.066b</td><td>2.62±0.049bc</td></tr><tr><td>自然圆头形</td><td>营养枝</td><td>8.94±0.242bc</td><td>0.172±0.004c</td><td>279.0±3.51ab</td><td>2.98±0.147c</td><td>3.18±0.244a</td></tr><tr><td> Natural round shape</td><td>结果枝</td><td>8.30±0.420c</td><td>0.159±0.004d</td><td>266.4±5.30c</td><td>2.93±0.073c</td><td>2.83±0.111b</td></tr></table></body></html>
+
+表中同一列中不同小写字母表示在0.05 水平上差异显著( $\scriptstyle P < 0 . 0 5 .$ ）。Pn：净光合速率，Net photosyntheticrate；Gs：气孔导度，Stomataonductance；Ci；胞间 $\mathrm { C O } _ { 2 }$ 浓度，Intercellular $\mathrm { C O } _ { 2 }$ concentration；WUE：水分利用效率，Water use eficiency；Tr：蒸腾速率，Transpiration rate
+
+从快速光响应曲线分析发现,随着外界光强PAR的增加,4种树形表观电子传递速率ETR均逐渐增加，达到饱和点后,ETR不再增加,部分叶片出现下降趋势（图1)。从曲线特征参数可知,最大电子传递速率ETRmax表现为Y字形 $>$ 开心形 $\cdot >$ 双层分层形 $>$ 自然圆头形,其中Y字形营养枝叶片的ETRmax最高为231.13$\mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ ，自然圆头形结果枝叶片的ETRmax最低为 $1 3 7 . 7 8 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 。Y字形和开心形的初始斜率 $\alpha$ 高于双层分层形与自然圆头形，且Y字形和开心形的半饱和光强 $I _ { k }$ 较高，说明二者对强光的耐受能力较强，但开心形结果枝光抑制参数最小,说明开心形为最佳的高光效树形（表5）。
+
+表5龙安柚四种树形的叶片快速光相应曲线特征参数  
+Table 5Rapid light curves corresponding characteristic parameters of four tree shapes   
+
+<html><body><table><tr><td rowspan="3">曲线参数 Curve parameters</td><td colspan="2">Y字形 Y-shape</td><td colspan="2">开心形 Open center shape</td></tr><tr><td>营养枝</td><td>结果枝</td><td>营养枝</td><td>结果枝</td></tr><tr><td>最大电子传递速率</td><td>Vegetative branch 231.130±3.87a</td><td>Bearing branch 218.400±0.38b</td><td>Vegetative branch 189.350±0.48c</td><td>Bearing branch 187.380±2.04c</td></tr><tr><td>ETRmax/(μmol m-² s-1) 光抑制参数β</td><td>1.300±0.013e</td><td>0.878±0.007f</td><td>2.463±0.05c</td><td>0.629±0.025g</td></tr><tr><td>半饱和光强Ik/（μmol m−² s-1)</td><td>725.060±0.68b</td><td>732.370±5.49a</td><td>641.070±4.20d</td><td>683.070±3.41c</td></tr><tr><td>初始斜率α</td><td>0.303±0.003b</td><td>0.316±0.002a</td><td>0.328±0.004a</td><td>0.291±0.00b</td></tr><tr><td rowspan="3">曲线参数 Curve parameters</td><td colspan="2">双层分层形 Double layered shape</td><td colspan="2">自然圆头形 Natural round shape</td></tr><tr><td>营养枝</td><td>结果枝</td><td>营养枝</td><td>结果枝</td></tr><tr><td>Vegetative branch</td><td>Bearing branch</td><td>Vegetative branch</td><td>Bearing branch</td></tr><tr><td>最大电子传递速率 ETRmax/(μmol m-² s-1)</td><td>179.400±0.67d</td><td>148.210±1.84e</td><td>149.600±0.46e</td><td>137.780±1.47f</td></tr><tr><td>光抑制参数β</td><td>1.350±0.046e</td><td>2.580±0.055b</td><td>1.660±0.040d</td><td>2.710±0.015a</td></tr><tr><td>半饱和光强Ik/（μmol m-² s-1)</td><td>537.460±3.25f</td><td>575.240±4.72e</td><td>389.960±8.71h</td><td>420.470±0.59g</td></tr><tr><td>初始斜率α</td><td>0.188±0.002d</td><td>0.269±0.006c</td><td>0.170±0.003e</td><td>0.136±0.006f</td></tr></table></body></html>
+
+表中同一行中不同小写字母表示在0.05 水平上差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ）;ETR max:最大电子传递速率，Max apparent electron transport rate; $\beta$ ：光抑制参数，Photoinhibition parameters； $I _ { k }$ ：半饱和光强，Half-saturation light intensity; $\propto$ ；初始斜率，Initial slope
+
+![](images/68ff9444bff6adf1636d2fd15a52cecf581243eec971253c632c938ce8889212.jpg)  
+图1不同树形的叶片快速光响应曲线  
+Fig.1 Effect of leaf actinic irradiance on rapid light curves for different tree shapes
+
+YT：自然圆头形,Naturalround shape；SC：双层分层形,Double layered shape；YZ：Y字形,Y-shape；KX：开心形,Open centershape.PAR: 冠层光合有效辐射，Photosyntheticall active radiation；ETR：表观电子传递速率，Apparent electron transport rate
+
+2.4叶片性状与冠层微环境的相关性分析
+
+通过叶片性状与冠层微环境的Pearson相关系数分析,探究影响叶片性状的主要冠层微环境因子,研究结果见表6—表8。
+
+如表6所示,多数叶片特性指标与冠层微环境因子的相关性表现为营养枝高于结果枝,但SD、WUE、Tr、SPAD与冠层微环境指标相关性趋势则相反。SR仅与冠层微环境指标 RHS 成正相关,与其余指标呈负相关，其中与营养枝的Qleaf 呈极显著负相关。在所有指标中， $\mathrm { L A , S D , L T }$ 与 RHS、Qleaf 和 Tleaf 的相关性最高;PTT/STT、CTR、SR与RHS相关性较高。WUE $\operatorname { T r } , \operatorname { P n } , \operatorname { G s } , \quad$ Ci等多数叶片性状指标与RHS呈负相关，与其他冠层微环境因子均呈正相关。与之相反,LWC、SLA 仅与RHS 呈正相关,且为极显著正相关,与其他冠层微环境因子均呈负相关。 $\mathrm { P n } \llcorner G \mathrm { s }$ 和Ci的3项光合生理指标与冠层微环境因子和叶片结构相关性较高,多呈现出极显著相关关系（表6,7）。
+
+Table 6Correlations between leaf characteristics and canopy microenvironment of diferent branches   
+
+<html><body><table><tr><td rowspan="2">R</td><td colspan="2">Qleaf</td><td colspan="2">Tleaf</td><td colspan="2">Vpdl</td><td colspan="2">RHS</td></tr><tr><td>营养枝 Vegetative branch</td><td>结果枝 Bearing branch</td><td>营养枝 Vegetative branch</td><td>结果枝 Bearing</td><td>营养枝 Vegetative</td><td>结果枝 Bearing</td><td>营养枝 Vegetative</td><td>结果枝 Bearing</td></tr><tr><td>WUE</td><td>0.084</td><td>0.322 *</td><td>0.167</td><td>0.186</td><td>0.250</td><td>0.137</td><td>branch -0.128</td><td>branch -0.529 **</td></tr><tr><td>Tr</td><td>0.421**</td><td>0.609 **</td><td>0.329 *</td><td>0.411 **</td><td>0.164</td><td>0.367**</td><td>-0.398 **</td><td>-0.305 *</td></tr><tr><td>Pn</td><td>0.750**</td><td>0.735 **</td><td>0.679 **</td><td>0.463 **</td><td>0.624**</td><td>0.401**</td><td>-0.749**</td><td>-0.614 **</td></tr><tr><td>Gs</td><td>0.689 **</td><td>0.600 **</td><td>0.585 **</td><td>0.381**</td><td>0.435 **</td><td>0.245</td><td>-0.619 **</td><td>-0.567**</td></tr><tr><td>Ci</td><td>0.680 **</td><td>0.579 **</td><td>0.616 **</td><td>0.378 **</td><td>0.395 **</td><td>0.311*</td><td>-0.653 **</td><td>-0.609 **</td></tr><tr><td>LWC</td><td>-0.805**</td><td>-0.712 **</td><td>-0.697 **</td><td>-0.396 **</td><td>-0.659 **</td><td>-0.304 *</td><td>0.863 **</td><td>0.983 **</td></tr><tr><td>LA</td><td>0.560 **</td><td>0.529 **</td><td>0.459 **</td><td>0.269 *</td><td>0.350 **</td><td>0.212</td><td>-0.521**</td><td>-0.572**</td></tr><tr><td>LT</td><td>0.672 **</td><td>0.694**</td><td>0.619 **</td><td>0.211</td><td>0.579 **</td><td>0.224</td><td>-0.602**</td><td>-0.708 **</td></tr><tr><td>SLA</td><td>-0.676 **</td><td>-0.768 **</td><td>-0.449 **</td><td>-0.348 **</td><td>-0.293</td><td>-0.255*</td><td>0.436 **</td><td>0.543 **</td></tr><tr><td>SPAD</td><td>0.448 **</td><td>0.473 **</td><td>0.410 **</td><td>0.431**</td><td>0.436 **</td><td>0.352**</td><td>-0.320*</td><td>-0.420 **</td></tr><tr><td>LDMC</td><td>0.581 **</td><td>0.635 **</td><td>0.514**</td><td>0.348 **</td><td>0.348**</td><td>0.317 *</td><td>-0.642 **</td><td>-0.630 **</td></tr><tr><td>SPC</td><td>0.729 **</td><td>0.736**</td><td>0.650 **</td><td>0.456 **</td><td>0.432 **</td><td>0.391**</td><td>-0.669 **</td><td>-0.604**</td></tr><tr><td>SD</td><td>0.514**</td><td>0.647 **</td><td>0.418 **</td><td>0.521**</td><td>0.248</td><td>0.433**</td><td>-0.442**</td><td>-0.685 **</td></tr><tr><td>PTT/STT</td><td>0.422 **</td><td>0.178</td><td>0.322 *</td><td>0.162</td><td>0.140</td><td>0.008</td><td>-0.390 **</td><td>-0.371**</td></tr><tr><td>CTR</td><td>0.375**</td><td>0.217</td><td>0.312 *</td><td>0.229</td><td>0.096</td><td>0.104</td><td>-0.320 *</td><td>-0.383 **</td></tr><tr><td>SR</td><td>-0.380 **</td><td>-0.077</td><td>-0.241</td><td>0.019</td><td>-0.187</td><td>0.172</td><td>0.403 **</td><td>0.284 *</td></tr></table></body></html>
+
+\*：显著相关( $\scriptstyle P < 0 . 0 5 )$ ， $* *$ ：极显著相关( $_ { \cdot } P { < } 0 . 0 1 \rangle$ ；R：相关系数Correlationcoefficient;WUE：水分利用效率;Tr：蒸腾速率;Pn：净光合速率;Gs：气孔导度;Ci：胞间 $\mathrm { C O } _ { 2 }$ 浓度;LWC：叶片含水量;LA：叶面积;LT：叶片厚度;SLA：比叶面积;SPAD：相对叶绿素含量;LDMC：叶干物质含量;SPC：可溶性蛋白含量;SD：气孔密度;PTT/STT：栅栏/海绵组织厚度;CTR：叶片组织紧密度;SR：叶片组织疏密度；Qleaf：叶片表面光合有效辐射;Tleaf：叶片温度； $\mathrm { { \Delta V p d l } }$ ：叶面水汽压亏缺;RHS：样品室相对湿度
+
+表6不同枝类的叶片特性与冠层微环境的相关性参数  
+表7龙安柚叶片形态结构与光合生理的相关性参数  
+Table7Leaf morphological structure and photosynthetic physiology of correlation parameters   
+
+<html><body><table><tr><td>R</td><td>LA</td><td>SD</td><td>LT</td><td>PTT/STT</td><td>CTR</td><td>SR</td></tr><tr><td>WUE</td><td>0.324 *</td><td>0.112</td><td>0.333 **</td><td>0.126</td><td>0.085</td><td>-0.165</td></tr><tr><td>Tr</td><td>0.201 *</td><td>0.395**</td><td>0.156</td><td>0.103</td><td>0.119</td><td>-0.049</td></tr><tr><td>Pn</td><td>0.551**</td><td>0.519 **</td><td>0.519 **</td><td>0.256 **</td><td>0.212 *</td><td>-0.263 **</td></tr><tr><td>Gs</td><td>0.515**</td><td>0.476 **</td><td>0.431**</td><td>0.302**</td><td>0.315 **</td><td>-0.213 *</td></tr><tr><td>Ci<</td><td>0.460 **</td><td>0.461**</td><td>0.458 **</td><td>0.288 **</td><td>0.263**</td><td>-0.250 **</td></tr></table></body></html>
+
+\*：显著相关( $\scriptstyle P < 0 . 0 5 )$ ， $* *$ ：极显著相关( $_ { . } { P } { < } 0 . 0 1 \rangle$
+
+选择叶片性状指标中与冠层环境相关性系数高于0.700 的 $\mathrm { P n }$ 、SLA、LT、LWC、可溶性蛋白含量指标,再与冠层微环境因子进行不同树形的相关性分析,结果见表8。开心形 $\mathrm { P n } \sqrt { \mathrm { { u W C } } }$ 与冠层环境各指标相关性最低,SLA、LT、可溶性蛋白含量指标与 Tleaf、Vpdl、RHS 相关性也较低。而Y字形和双层分层形 LWC、LT与冠层环境各指标相关性较高，自然圆头形 $ { \mathrm { P n } }  { \mathrm { \Omega } }  { \mathrm { S L A } }$ 、可溶性蛋白含量指标与冠层微环境因子各相关性较高。这说明开心形的光渗透好,整个冠层的光截获能力和有效光辐射的分布差异较小,使冠层内不同部位叶片的特征相对一致，而其他三种树形则均受到不同程度的影响。
+
+表8不同树形叶片特征与冠层微环境的相关性参数  
+Table 8Correlation analysis between leaf traits and canopy micro-environment   
+
+<html><body><table><tr><td>R</td><td>树形 Shape</td><td>Qleaf</td><td>Tleaf</td><td>Vpdl</td><td>RHS</td></tr><tr><td>LWC</td><td>Y字形</td><td>-0.917 **</td><td>-0.875 **</td><td>-0.732**</td><td>0.973 **</td></tr><tr><td rowspan="6">Pn</td><td>开心形</td><td>-0.674 **</td><td>-0.131</td><td>-0.308</td><td>0.943 **</td></tr><tr><td>双层分层形</td><td>-0.944**</td><td>-0.727 **</td><td>-0.689 **</td><td>0.991**</td></tr><tr><td>自然圆头形</td><td>-0.470 **</td><td>-0.311</td><td>-0.193</td><td>0.718 **</td></tr><tr><td>Y字形</td><td>0.787**</td><td>0.710 **</td><td>0.665 **</td><td>-0.789 **</td></tr><tr><td>开心形</td><td>0.552 **</td><td>0.076</td><td>0.225</td><td>-0.609 ：#</td></tr><tr><td>双层分层形</td><td>0.751**</td><td>0.641**</td><td>0.502 **</td><td>-0.799</td></tr><tr><td rowspan="4">SLA</td><td>自然圆头形</td><td>0.816**</td><td>0.790 **</td><td>0.532 **</td><td>-0.593 **</td></tr><tr><td>Y字形</td><td>-0.653 **</td><td>-0.554 **</td><td>-0.379 *</td><td>0.534**</td></tr><tr><td>开心形</td><td>-0.737**</td><td>0.262</td><td>-0.1340</td><td>0.482 **</td></tr><tr><td>双层分层形</td><td>-0.657 **</td><td>-0.213</td><td>-0.171</td><td>0.521**</td></tr><tr><td rowspan="4">SPC</td><td>自然圆头形</td><td>-0.840**</td><td>-0.532**</td><td>-0.089</td><td>0.374 *</td></tr><tr><td>Y字形</td><td>0.571**</td><td>0.291</td><td>0.749**</td><td>-0.462 *</td></tr><tr><td>开心形</td><td>0.612 **</td><td>0.478 **</td><td>0.667 **</td><td></td></tr><tr><td>双层分层形</td><td>0.841**</td><td>0.665 **</td><td>0.639**</td><td>-0.365 *</td></tr><tr><td rowspan="5">LT</td><td>自然圆头形</td><td></td><td></td><td></td><td>-0.869 **</td></tr><tr><td>Y字形</td><td>0.854**</td><td>0.762 **</td><td>0.514 **</td><td>-0.690 **</td></tr><tr><td>开心形</td><td>0.659 ** 0.654 **</td><td>0.590 *</td><td>0.608 **</td><td>-0.634 **</td></tr><tr><td>双层分层形</td><td>0.739 **</td><td>0.122 0.434 *</td><td>0.328</td><td>-0.628 **</td></tr><tr><td>自然圆头形</td><td>0.595 **</td><td>0.605**</td><td>0.473 ** 0.405 *</td><td>-0.782 ** -0.390 *</td></tr></table></body></html>
+
+\*：显著相关( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $* *$ ：极显著相关( $P { < } 0 . 0 1 \$ 0
+
+# 3讨论
+
+# 3.1龙安柚不同树形冠层微环境差异
+
+不同树形的冠层光照分布与树体枝量组成,影响着树冠内的通风透光，从而形成不同树形冠层特性差异[13]。近年来广泛运用冠层分析仪评价冠层透光特性。李先明等[14]比较了湘南梨单层开心形、双层开心形和三层小冠疏层形的冠层生长特性,发现单层开心形树冠叶片覆盖率最高;从冠层底部开始,随着层级的增加,叶面积指数逐渐减少。本研究发现冠层较为郁闭的自然圆头形叶面积指数最大,这与张华[15]的研究结果一致。冠层光合辐射与透射系数决定了冠层的透光特性[16],4种树形中,开心形和Y字形枝叶分散程度较大,其冠层光合辐射与透射系数均显著高于自然圆头形，说明Y字形和开心形的冠层透光特性较好。而不同冠层结构微环境中的光照强度、温度及湿度所呈现的差异与前人研究基本一致[17]。
+
+3.2龙安柚不同树形叶片形态结构对冠层微环境的响应
+
+叶片形态结构的改变是其对环境胁迫的适应性表现,有研究表明,不同冠层结构的叶片形态结构会产生差异[18],长期弱光环境会使叶片解剖结构[19]及叶绿素结构[20]出现异化。而叶面积和气孔密度增大,有利于提高树体的光合能力[21];冠层光照强度较高则增大叶片栅栏/海绵组织厚度的比值[22];叶片组织紧密度较高,叶片组织疏密度小等则光合作用能力差[23]等相关报道。本研究发现Y字形和开心形的叶面积和气孔密度较大,栅栏/海绵组织厚度较高;而自然圆头形叶片厚度最低,不利于叶片保水,其叶片组织疏密度也显著高于其他树形。说明Y字形和开心形叶片的形态结构利于提高光合作用,有效降低蒸腾作用,达到高效利用水分的目的[24]。
+
+# 3.3龙安柚不同树形叶片光合特性对冠层微环境的响应
+
+果树叶片长期处于冠层特定的微环境中,一方面表现出植物形态结构的可塑性,另一方面是调节自身功能性状的平衡[25]。孙桂丽等发现,经整形修剪的香梨疏散分层形光合利用效率优于自然开心形,并且对影响光合作用因素的变化反应较敏感[26]。而冉辛拓等则发现梨单层开心形的叶片质量较疏散分层形好[13],可见不同树形光照分布不同,会影响叶片质量。本研究发现,整形修剪后的树形的叶片 $\operatorname* { P n }$ 有不同程度的增加;Y字形和开心形的相对叶绿素含量和可溶性蛋白含量最高,且均表现为营养枝高于结果枝,表明开心形和Y字形叶片质量较好。表观电子传递速率是果树高产的主要决定因素之一[27],本研究中,Y字形和开心形叶片$E T R _ { \mathrm { { m a x } } }$ 高于其他两种树形,且二者初始斜率和半饱和光强较高;但是开心形蒸腾速率最低,其结果枝的光抑制参数 $\beta$ 最小,而结果枝叶片对果实发育尤为重要,且结果枝叶片对预测果实产量品质有重要作用[28],因此,笔者认为开心形优于其他三种树形。
+
+# 3.4龙安柚叶片特性指标与冠层微环境因子之间的相互关系
+
+张海娜等人认为叶片越厚,越有利于植物高效利用水分[24],Austin 等也认为叶片形状决定水分利用率的大小[29],而 Stanhill认为叶片厚度和大小对单叶WUE有很小影响[30]。至今WUE 与叶片大小、厚度之间的相关性仍存在争议。本研究结果发现WUE仅与LA和LT成极显著正相关,说明叶片形状决定水分利用率的大小。
+
+叶片特性是其本身对冠层微环境响应的结果,其中光照是影响叶片形态结构和生理性状的重要因素,但是不同枝类叶片形态结构、功能性状与冠层微环境的相关性有差异[31]。本研究发现,Qleaf 和 Tleaf 与 LA、LT、PTT/STT、CTR、SR均表现为营养枝 $>$ 结果枝,其中LT与RHS、Qleaf 和Tleaf的相关性最高，说明冠层微环境对叶片厚度的影响最大。
+
+# 参考文献（References）：
+
+［1］吴黎明,蒋迎春，王志静,仝铸，何利刚,许淼，孙中海,李春玲，黄先彪,邹远鹏，方红，张福琼,吴庆华.间伐和树体改造对柑橘密闭园产量和品质的影响及效益分析.湖北农业科学，2014，53（18）：4335-4339，4343-4343.  
+[2］石学根，陈俊伟，徐红霞，刘春荣，郑江程，吴慧，谢鸣.透湿性反光膜覆盖对检柑果实品质的影响.果树学报，2011,28(3）：418-422.  
+[3]Cronje，BaryGH,HuysaerM.Frutingposiourigdevelopntf‘NlesClementie’darictstocentatioofK, $\mathbf { M } \mathbf { g }$ and Ca in the flavedo. Scientia Horticulturae，2011，130(4)：829-837.  
+[4]Zan,sachffociateoalitdo’ersiaueerBiosystems Engineering，2016,141：1-11.  
+[5］吴广宇，熊亚婷.碰柑不同枝类叶片叶绿素含量变化研究.现代农业科技，2006，（S12)：14-15.  
+[6］刘丙花，唐贵敏，赵登超，韩传明，侯立群．核桃营养枝与结果枝叶片叶绿素荧光特性比较.山东林业科技，2016，46（3）：11-14,110- 110.  
+[7]TakrRSamaJaKLTurilevelsinfritigd-fruitingteialsoftemangivarsientiaHiua1981,15(4): 355-361.  
+[8]JajA,,rGldiFJj,acctaG,iCoictoftrerngposition nthecanopyontheripening homogeneityof‘AbbeFetel’pearfruit.Tree Genetics&Genomes，2014，10（5）：1477-1488.  
+[9］张朝平，熊爱民，秦茂见，陈克玲，洪奇斌，向素琼.柚优良品种—龙安柚.四川果树，1995，（4)：33.  
+[10］赵晶.温度和光照对两种栎属植物幼苗叶形态与结构性状的影响[D].济南：山东大学，2012.  
+[11] 李合生.植物生理生化实验原理和技术.北京：高等教育出版社，2006.  
+[1]PlatCaofsalsbofeubSociety of Japan，1980,57(57）:341-345.  
+[13] 冉辛拓，宋海舟，高志货，韩继成，魏建梅，乐文全.梨不同树形对光效能及产量品质的影响.园艺学报，2012，39（5)：957-962.  
+[14] 李先明，刘先琴，涂俊凡，杨夫臣，秦仲麒.梨不同树形的结构特征、产量分布及果实品质差异.中国农学通报，2009,25（23)：323-326.  
+[15] 张华.柑橘不同树形冠层特性、光合特性及其与果实品质关系研究[D].武汉：华中农业大学，2012.  
+[16] 伍涛，张绍铃，吴俊，肖家欣，吴华清，刘吉祥，张华，吴桂法．‘丰水'梨棚架与疏散分层冠层结构特点及产量品质的比较.园艺学报，2008，35(10）：1411-1418.  
+[17］屈振江，张勇，王景红，张焘，杨芳，高峰.黄土高原苹果园不同生长阶段的小气候特征.生态学杂志，2015，34(2)：399-405.  
+[18]GoncalvesB,CoeiC,laAacearEAantos,MoutinoereiraJLeaftructuredctiofseecheree（Pravium L.）cultivars with open and dense canopies.Scientia Horticulturae,2O008,116(4）：381-387.  
+[19］秦玉芝，邢铮，邹剑锋，何长征，李炎林，熊兴耀.持续弱光胁迫对马铃薯苗期生长和光合特性的影响.中国农业科学，2014，47（3)：537-545.  
+[20］杨晓盆，翟秋喜，张国强，王跃进.不同架式温室葡萄冠位叶片及叶绿体结构的变化.中国农学通报，2007，23（3）：332-335.  
+[21] 吕晋慧，王玄，冯雁梦，李艳锋，赵红霞，王媛.遮荫对金莲花光合特性和叶片解剖特征的影响.生态学报，2012，32(19)：6033-6043.  
+22]BrodersCVa,illoHradifeoossiseddetPlant，Cell&Environment，2008，31（1）：159-164.  
+[23］刘冰浩，陈国平，牛英，廖贤军，罗世杏，陈贵峰.柚叶片与抗旱性相关的解剖结构指标研究.北方园艺，2011，（13）：9-12  
+［24］张海娜，苏培玺,李善家，周紫鹃，解婷婷，赵庆芳.荒漠区植物光合器官解剖结构对水分利用效率的指示作用.生态学报，2013，33(16):4909-4918.  
+[25］何春霞，李吉跃，孟平，张劲松.4种高大树木的叶片性状及WUE随树高的变化.生态学报，2013,33（18)：5644-5654.  
+[26] 孙桂丽，徐敏，李疆，梅闯.香梨两种树形净光合速率特征及影响因素.生态学报，2013，33（18）：5565-5573.  
+[27] 范晓明，袁德义，杨斐翔，田晓明，唐静，张旭辉，朱周俊.锥栗不同树体结构对光的响应.生态学报，2015，35（22)：7426-7434.  
+[28］彭顺四，向德明，向红翠，彭振亚.碰柑果实品质研究IⅢ.结果枝类型及结果枝叶片对碰柑果实品质的影响.湖南农业科学,1994，（6)：32-33.  
+[29]AustinRdatSGfpoosisfrisdeadddtraldsof Botany，1982,49(2)：177-189.  
+[30]Stanhill G.Water use efficiency.Advances in Agronomy，1986,39：53-85.  
+[31］王艺，韦小丽.不同光照对植物生长、生理生化和形态结构影响的研究进展.山地农业生物学报，2010,29（4)：353-359，370-370.

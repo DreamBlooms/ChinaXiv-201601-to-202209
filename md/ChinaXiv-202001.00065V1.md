@@ -1,0 +1,207 @@
+# 喀什地区降水（雨雪）的日变化特征
+
+郑博华}，陈胜，王勇²（1新疆维吾尔自治区人工影响天气办公室,新疆乌鲁木齐830002;2新疆生态气象与卫星遥感中心,新疆乌鲁木齐 830002)
+
+摘要：利用2010—2017年1\~12月新疆喀什地区10个气象站逐小时降水资料，分析统计喀什地区近8a降雨雪（以下统称降水)日变化特征。结果表明：(1）喀什地区全年降水量和降水频次日变化存在明显的波动，总体上呈现“正弦波”一峰一谷特征，降水量峰值出现在03:00（北京时，下同）,谷值出现在18:00;降水频次峰值出现在04:00,谷值出现在18:00；两者峰谷值出现时间接近。（2）2010—2017年喀什地区全年降水量和降水频次呈明显的增加趋势；而降水强度年际变化趋于平缓，无明显变化。（3）降水强度日变化趋势与降水量、降水频次并不存在一致性。（4）喀什地区全年降水主要以短时段降水为主，其中，持续 $^ \mathrm { ~ 1 ~ h ~ }$ 降水次数为最大值，但降水量和贡献率最大值却同出现在 $^ { 2 \mathrm { ~ h ~ } }$ 和 $6 \textup { h }$ 持续降水中。全年降水主要以后半夜和上午开始的降水过程为主导，且仍主要为短时段降水。
+
+关键 词：降水(雨雪)；日变化；降水量；降水频次；降水强度；喀什地区
+
+降水，是体现一个或多个地区气候变化最明显的特征之一，研究降水日变化不仅有助于理解区域天气气候发展演变的规律和降水的形成机理，也有助于提高对区域降水日变化特征都有重要的借鉴作用。20 世纪美国研究学者KINCER[1]就指出,美国东南沿海台站的降水峰值多出现在下午，而中部大多数台站则以出现在夜间为主。目前，国内学者对中国降水日变化特征及降水特征的研究已有不少成果,如宇如聪等[2]发现长江中上游地区的降水以出现在清晨为主，中东部地区清晨、午后双峰并存；青藏高原东部和华南华北地区午夜和傍晚出现降水极值,而"夜雨"特征多出现在中国西南地区[3]。日降水时空分布揭示了降水形成的变化规律，同时作为最重要的参数来判别当地气候变化特征[4-6],因此在不同区域、不同持续时间上的降水日变化理应截然不同；所以掌握好这些参数可以更为有效地揭开当地气候变化特征[7-10],同时对为农增产、预防灾害性天气等多个方面起到举足轻重的重要影响。
+
+新疆是典型的干旱、半干旱区域,降水稀少，之
+
+前对新疆地区降水日变化的研究相对较少，且研究集中在以月、季、年等相对较大的时间尺度上，如胡翠珍等[]利用41a观测资料分析得到阿克苏地区大降水次数自20世纪80年代开始起明显增加，50%以上发生在夏季,高峰期为傍晚;王世杰等[12]使用月降水量资料，分析了20a乌鲁木齐站夏季主汛期(5\~9月)降雨特征。虽然新疆整体降水量偏少，但极端降水对降水总量的贡献依然呈上升趋势[13-18]。为了进一步探究区域降水的时空分布,新疆气象科研工作者逐步开展了以更为精细化的降水资料为基础的降水事件研究,如陈春艳等[19]基于新疆16个国家站23a夏半年(5\~9月)逐时降水资料，分析了该区域降水的时空分布及日变化规律；武胜利等[20]结合巴州地区7个国家站1961—2013 年气温和降水逐日资料，通过累积距平法、滑动平均等方法，揭开了该地区气温和降水的时空变化特征；苗运玲等[2I]利用东疆地区6个国家气象站1961—2016年汛期(5\~9月）逐日降水资料，分析了东疆地区降水集中度（PCD）和集中期（PCP）的时空分布特征;唐冶等[22]利用1991—2011年5\~9 月伊宁市气象站逐时降水资料，分析了伊宁近21a降雨特征;周雪英等[23]利用巴音郭楞蒙古自治州巴音布鲁克气象站近 $5 0 \mathrm { ~ a ~ }$ 逐日降水数据资料，揭示了山区日降水的变化趋势和极端变化差异;黄秋霞等[24-25]分别分析了伊犁河谷地区6个气象站2007—2011年、昌吉市 2009—2015 年主汛期(5\~8月)降水的日变化特征;赵战成等[26]利用近10a逐时自动站降水量资料,分析了汛期(5\~9月)塔克拉玛干沙漠东部边缘地区降水日变化特征
+
+近年来有许多气象工作学者对喀什地区降水开展了研究，如黄艳等[27]选用喀什地区1961—2005年45a逐月降水量资料,分析了喀什地区平原和山区年降水量的分布特征;赵克明等[28]基于喀什市1994—2013年逐时自动站降水资料，分析主汛期(5～9月)降水日变化特征，但针对喀什地区全年降水和冬季降水时空分布的研究几乎没有，导致对喀什地区降水的特征缺乏全面的认识。由于温室效应不断积累，全球变暖现象必然在降水特征上有所体现,气温上升加速水循环,降水增加[29-30],本文以喀什地区为研究区域，从观测资料的角度讨论了该区域全年降水日的变化特征。但由于该区域观测站点固态降水设备自2010年起才正式启用，故本文选用了喀什地区10个站近8a的日降水数据，从多种角度分析近8a喀什地区全年降水日变化特征，更为全面地了解喀什地区降水的特征和变化趋势，可为当地气象服务以及人工影响天气业务工作提供技术支撑。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+喀什地区，是新疆的5个地区之一，地处亚欧大陆中部，经纬度在 $7 4 ^ { \circ } 2 0 ^ { \prime } \sim 7 9 ^ { \circ } 5 7 ^ { \prime } \mathrm { E } , 3 5 ^ { \circ } 2 0 ^ { \prime } \sim 4 0 ^ { \circ } 1 8 ^ { \prime }$ 之间。全区总面积达 $1 6 . 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,东西宽约750$\mathrm { k m }$ ,南北长 $5 3 5 ~ \mathrm { k m }$ ,地貌轮廓是由稳定的塔里木盆地、天山、昆仑山地槽褶皱带为主的构造单元组成。一面敞开，三面环山，属于温带大陆性干旱气候带。由于印度洋的湿润气流难以到达，北冰洋的寒冷气流也较难穿透，造成喀什地区干旱炎热的暖温带的荒漠景观。全年降水很少，蒸发旺盛;四季分明，光照长，气温年和日变化大。冬无严寒，但低温期长;春夏多大风、沙暴、浮尘天气。因地形复杂造成气候
+
+差异较为明显。
+
+选用经过新疆气象局信息中心校验后的喀什地区气象站逐时降水量资料。文章选取喀什地区伽师、喀什、巴楚、岳普湖、英吉沙、塔什库尔干、麦盖提、莎车、叶城、泽普10个站点2010年01月01日$0 8 : 0 0 \sim 2 0 1 8$ 年01月01日07：00间8a的完整观测数据统计分析降水逐时变化特征，站点信息如图1、表1所示。
+
+# 1.2 研究方法
+
+在分析和统计喀什地区全年降水过程中，当某一次降水发生时次后连续 $6 \textup { h }$ 没有降水发生定义为一次降水过程的结束，并将一次降水开始时刻至降水结束时刻(结束时刻后连续 $6 \textup { h }$ 没有降水)的小时数定义为一次降水持续降水时间[28]；定义每小时降
+
+![](images/6c5599bac5f36ea9f7caed67d11f8a8e48af3e85f3ab3ddb81058706266a4cab.jpg)  
+图1新疆喀什地区站点分布  
+Fig.1Stations distribution over Kashi Prefecture,Xinjiang
+
+# 表1新疆喀什地区站点分布及信息
+
+Tab.1Stations information over Kashi Prefecture, Xinjiang   
+
+<html><body><table><tr><td>站点名称</td><td>经度／°E</td><td>经度／N</td><td>海拔／m</td></tr><tr><td>伽师</td><td>39.50</td><td>76.78</td><td>1 204.7</td></tr><tr><td>喀什</td><td>39.49</td><td>75.75</td><td>1 385.6</td></tr><tr><td>巴楚</td><td>39.80</td><td>78.57</td><td>1 116.5</td></tr><tr><td>岳普湖</td><td>39.25</td><td>76.78</td><td>1 206.3</td></tr><tr><td>英吉沙</td><td>38.93</td><td>76.17</td><td>1 297.5</td></tr><tr><td>塔什库尔干</td><td>37.77</td><td>75.23</td><td>3 090.1</td></tr><tr><td>麦盖提</td><td>38.92</td><td>77.63</td><td>1 178.2</td></tr><tr><td>莎车</td><td>38.43</td><td>77.27</td><td>1 231.2</td></tr><tr><td>叶城</td><td>37.92</td><td>77.40</td><td>1 360.4</td></tr><tr><td>泽普</td><td>38.20</td><td>77. 27</td><td>1 274.7</td></tr></table></body></html>
+
+水量超过 $0 . 1 \ \mathrm { m m }$ 为有降水发生，并分别累加逐时降水量与降水序列,由此分析降水频次、降水强度[31]、不同持续时间降水量和贡献率等[26],降水强度是指研究时段内降水量与降水频次的比值[31]；将全天$2 4 \mathrm { ~ h ~ }$ 按照时区分成4个时段：上午 $( 0 8 : 0 0 \sim 1 3 : 0 0 )$ 、下午（ $( 1 4 { : } 0 0 \sim 1 9 { : } 0 0 )$ ）、前半夜 $( 2 0 : 0 0 \sim 0 1 : 0 0 )$ 、后半夜 $( 0 2 { : } 0 0 \sim 0 7 { : } 0 0 )$ [28]。根据10个观测站的地理地形位置，我们定义塔什库尔干观测站为山区站，因其海拔高度 $( 3 ~ 0 9 0 . 1 ~ \mathrm { m } )$ 明显高于其余测站。
+
+# 2喀什地区全年降水的日变化
+
+# 2.1 降水日变化特征
+
+利用喀什地区10个气象站逐时降水量资料，计算了平均逐时累计降水量。由图 $2 \mathrm { a } \sim 2 \mathrm { b }$ 可以看出，喀什地区逐时累计降水量虽整体不高，但逐时变化特征比较明显，呈一峰一谷特征，次峰值不显著，峰值和谷值分别出现在03：00前后、18：00前后，峰谷极值差异较大，相差 $4 3 . 3 2 \ \mathrm { m m }$ ，接近5.5倍；峰值区主要集中在 $2 3 : 0 0 \sim$ 翌日11：00（均大于均值），占总降水量的 $7 0 . 1 \%$ ， $1 4 : 0 0 \sim 2 2 : 0 0$ 为降水量谷值区。由图 $2 \mathrm { c } \sim 2 \mathrm { d }$ 可以看出，10个站点全年降水量变化和平均累积降水量变化趋势大致相同，峰值区(23：00～翌日11：00)内10个站点累积降水量波动性较大；低值区（ $( 1 4 \div 0 0 \sim 2 2 \div 0 0 )$ 累积降水量变化较为平缓，其中岳普湖、塔什库尔干、叶城3站逐时降水量极值超过了 $8 0 \ \mathrm { m m }$ ;山区站与平原站无明显变化差异。
+
+# 2.2 逐时降水频次日变化
+
+从喀什地区全年降水频次分布（图 $3 a \sim 3 b$ 0来看，降水频次日变化与降水量日变化基本一致，仍存在一峰一谷特征，但次峰值显著。最易发生降水的时段为 $0 0 { : } 0 0 \sim 1 2 { : } 0 0$ 且均高于平均值，此时段降水发生次数达到642次，占总降水次数的 $7 0 . 2 \%$ ，主、次峰值相差 $6 \mathrm { ~ h ~ }$ 。峰值与谷值分别出现在04：00和18：00，达到54.6次和15.7次，两者相差3.4倍。由图 $3 \mathrm { c } \sim 3 \mathrm { d }$ 不难看出，10个站点全年逐时降水频次和喀什地区平均降水频次变化趋势基本相符，但山区站(塔什库尔干)降水频次明显高于其他站点，10 个站点降水频次高值区集中在 $2 1 : 0 0 \sim$ 翌日11:00，即夜间易降水且降水频次波动性明显； $1 2 : 0 0 \sim 1 0 : 0 0$ 降水频次趋于缓和，即白天变化相对平缓。
+
+# 2.3逐时降水强度日变化
+
+从喀什地区全年逐时降水强度(图4a\~4b)来
+
+![](images/fad36ff0acaa360d9e73e33f67bcb2c176fea1e1c009b50b801c633fdb31a2f1.jpg)  
+图2喀什地区(a、b)分站 $( \mathbf { c } , \mathbf { d } )$ 全年逐时累积降水量变化
+
+Fig.2Hourlyvariations inprecipitation over time throughoutthe yearatKashi Prefecture(a,b）and the ten stations(c
+
+![](images/fcea44345d585df2c4cef43f19e6ace3b6ad9682900d42f4c53614a8a55d8c5c.jpg)  
+图3喀什地区(a、b）分站 $( \mathbf { c } , \mathbf { d } )$ 全年逐时降水频次日变化  
+Fig.3HourlyvariationsinprecipitationfrequencyovertimethroughouttheyearatKashiPrefecture(a,b）andthetenstations(c,   
+图4喀什地区(a、b）分站 $( \mathbf { c } , \mathbf { d } )$ 全年逐时降水强度日变化
+
+2017 18 1816 -·u/本 210 O ○-逐时降水强度1.4 0.8  
+20151.2 0.6  
+20141.0 0.4  
+20130.8 0.2  
+2012 0.6 0  
+2011 0.4  
+2010 0.2 北京时间  
+21:00 0:003:006:00 9:00 12:00 16:00 18:00北京时间  
+2.0 01 一伽师 3.5 O—塔什库尔干  
+-·/ 1614 1.8 Q □ + 点 喀什 A -uu/ 3025 二二 麦盖提 A  
+1.2 2.0 泽普  
+1.0  
+0.8 1.5  
+0.6 A . □ 1.0 >  
+0.4 0.5 O  
+0.2  
+0  
++ 230 12030405060730000203040506078000 122355678  
+212223 1120北京时间 北京时间
+
+Fig.4HourlyvariationsinprecipitationintensityovertimethroughouttheyearatKashiPrefecture(a,b）andthetenstations(c,d
+
+看，降水强度有一定的波动性，但变化趋势与降水量、降水频次存在差异。降水强度峰值出现在20:00，为 $1 . 0 9 3 \ \mathrm { m m }$ ·次-1,但20：00 降水量和降水频次却低于平均值；强度谷值出现在09：00，为$0 . 6 0 2 { \ \mathrm { m m } } \ { } ^ { . }$ 次-1，但09：00 降水量和降水频次却高于极小值，次谷值(18：00)为 $0 . 6 0 4 ~ \mathrm { m m }$ ·次-1,然而18：00降水量和降水频次却为极大值。因此，累积降水量、降水频次、降水强度的峰谷值与时刻并不存在一致性。从喀什地区10 个站(图4c\~4d)全天来看，降水强度午后至翌日凌晨依然呈现较为明显的波动趋势，白天则趋于平缓，波动幅度明显小于夜间；山区站与平原站无明显变化差异。
+
+从各时次降水量(图2a）和降水频次（图3a）的逐年分布情况可以看出，近8a新疆喀什地区全年降水量和降水频次有明显的增加趋势；但降水强度（图4a)的年际变化趋于平缓，无明显变化，
+
+# 2.4不同持续时间降水的日变化及昼夜分布特征
+
+喀什地区全年不同持续时间的降水次数（图5a)表明：降水大部分以短时间降水为主，随着持续时间的增加，降水次数显著减少，持续 $4 \mathrm { ~ h ~ } , 3 \mathrm { ~ h ~ } , 2 \mathrm { ~ h ~ }$ 降水次数分别为：18次、21.7次、42.9次，占总降水次数的百分比分别为， $; 7 . 4 \% . 8 . 9 \% . 1 7 . 7 \%$ ，有图可见，持续 $^ { \mathrm { ~ 1 ~ h ~ } }$ 降水次数最多，有73.6次，到达总降水次数 $3 0 . 3 \%$ 。降水次数10次以上的过程降水持续时间均不超过 $^ { 7 \mathrm { ~ h ~ } }$ ，占主要降水频次。从喀什地区10个站点不同持续时间降水次数（图 $5 \mathrm { b } \sim 5 \mathrm { c }$ 来看，变化趋势和喀什地区降水次数的变化趋势整体一致,其中山区站(塔什库尔干)持续 $^ \mathrm { ~ 1 ~ h ~ }$ 降水次数达到124次，明显高于喀什地区其余站点，超平均值$6 8 . 4 \%$ 0
+
+从图6(a)中看出，喀什地区全年降水不同持续时间的降水量存在一定波动性，与频次相似，主要以短时间的降水量为主，降水量主要集中在持续时间为 $^ { 1 0 \mathrm { ~ h ~ } }$ 内,有降水量 $4 8 9 . ~ 7 3 ~ \mathrm { ~ m m }$ ，占总降水量$6 7 . 5 \%$ 。从10个站点不同持续时间降水量（图$6 \mathrm { b } \sim 6 \mathrm { c } \$ )可以看出，岳普湖、泽普呈明显波动，其余站相对波动性较小。降水贡献率（图7a)超过 $8 \%$ 为持续 $^ \textrm { \scriptsize 2 h }$ 和 $6 \mathrm { ~ h ~ }$ ,分别是最大值 $8 . 8 \%$ 和次大值$8 . 7 \%$ 。对比不同持续时间降水量与降水贡献率，不难发现两者变化趋势很相似，最大值和次大值且都出现在 $^ { 2 \mathrm { ~ h ~ } }$ 和 $6 \mathrm { ~ h ~ }$ ,虽然持续 $^ \mathrm { ~ 1 ~ h ~ }$ 的降水次数为最大值，但其降水量与降水贡献率远低于各自最大值。结合不同持续时间降水量(图6b\~6c)以及贡献率
+
+80 (a)70 。 一O一不同持续时间的平均降水次数60  
+水 5040  
+降 3020 Q810013579113157192123252723133537持续时间／h908070 (b)  
+大 60 △巴楚 二二50 岳普湖40 一英吉沙302010013579113157121232527293133537持续时间／h140(c)0塔什库尔干  
+大 120 O麦盖提100 莎车丨叶城80一一泽普60 W4020PA0 35791135719282527293133537持续时间／h
+
+（图 $ { 7 \mathrm { b } } \sim  { 7 \mathrm { c } } ^ { \cdot }$ )来看，降水量最大值出现在岳普湖持续$1 0 \mathrm { ~ h ~ }$ 降水中，降水量为 $1 2 4 . 7 ~ \mathrm { m m }$ ,贡献率为 $1 4 . 5 \%$ ：贡献率最大值出现在泽普持续 $^ { \mathrm { ~ 9 ~ h ~ } }$ 降水，其贡献率是 $1 9 . 5 \%$ ，降水量为 $1 1 2 . 4 ~ \mathrm { m m }$ 。
+
+根据喀什地区全年降水发生时段（图8)来看，上午降水共250次，下午降水共117.4次，前半夜降水共241.4次，后半夜降水共305.8次，总降水次数为914.6次，分别占 $2 7 . \ 3 \% . 1 2 . \ 8 \% . 2 6 . \ 5 \%$ 和$3 3 . 4 \%$ 。可以得出，近8a喀什地区全年降水主要以后半夜和上午开始降水过程为主，且仍主要为短
+
+w／大 70 (a)O一不同持续时间的平均降水量  
+60  
+50  
+40 O  
+30  
+20  
+10  
+0 0000  
+35 9 11315719212825272933857持续时间／h  
+140 (b) o伽师  
+/ 120 □ 喀什巴楚  
+100岳普湖  
+80 －－英吉沙  
+60  
+40  
+20 W 有 1只1  
+0  
+1357 9Ⅱ13157121232527293133537持续时间／h  
+120 (c) 0塔什库尔干  
+／画 八 麦盖提  
+100 1 莎车  
+80 叶城一一泽普  
+60 ■1  
+40 bn YA  
+20 达 B /9-X 八  
+0 H T  
+357 9Ⅱ1315712123202729313 3537持续时间／h
+
+时段降水。
+
+# 3结论
+
+（1）与雨水充沛地区相比，新疆喀什地区降水量整体偏低，但全年降水量和降水频次日变化存在明显的波动，总体上呈现“正弦波”一峰一谷特征，降水量峰值出现在03：00，谷值在18：00，峰谷极值差异明显，相差接近5.5倍；境内10个观测站降水量变化与平均降水量变化趋势大致相同，山区站（塔什库尔干）与平原站无明显变化差异。与降水量峰谷值接近，降水频次峰值出现在04：00，谷值同为18：00，全年最易发生降水的时段为 $0 0 : 0 0 \sim$ 12：00，占总降水次数的 $7 0 . 2 \%$ ;10个站点降水频次和喀什地区平均降水频次变化趋势基本相符，但山区站(塔什库尔干)降水频次明显高于其他站点，10个站点降水频次高值区集中在21：00～翌日11：00，即夜间易降水且降水频次波动性明显。
+
+![](images/cf44a2d08c5ffba4056d10dfd00f55c81bea8330e38ee69964ed6a51fa676a57.jpg)  
+图6喀什地区(a）分站 $( \mathbf { b } , \mathbf { c } )$ 全年降水不同持续时间的降水量  
+Fig.6Precipitation in different periods of precipitation throughout the year at Kashi Prefecture(a) and the ten stations ${ \bf \Xi } ( \mathrm { ~ b ~ } , \mathrm { c } )$   
+图7喀什地区(a）分站(b、c)全年降水不同持续时间的降水贡献率  
+Fig.7Precipitation contribution rate of precipitation in different periods of annual precipitation at Kashi Prefecture（a）and the ten stations(b,c)
+
+从喀什地区降水量及降水频次综合来看，二者峰、谷值近似，受地理环境的制约，喀什整个地区光照持续时间长，且蒸发旺盛，导致午后开始阳光充足，地面温度骤升，18：00为降水量、降水频次极小值;喀什境内有叶尔羌河流域和喀什噶尔河流域，在充足的热力条件促进下，加快了水汽转化循环，加之海拔均在 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 以上,也就解释了降水量、降水频次峰谷值出现的时间以及最易发生降水的时段在00:00以后。
+
+![](images/1736048e37a3a68fd14cbcfebb74d66aef01c1041d665471da881588c9fa22a7.jpg)  
+图8喀什地区全年降水昼夜分布变化 Fig.8Changes in the distribution of precipitation over the whole year at Kashi Prefecture
+
+（2）从各时次降水量和降水频次的逐年分布情况可以得出，2010一2017年新疆喀什地区全年降水量和降水频次呈现明显的增加趋势；而降水强度年际变化趋于平缓，无明显变化。
+
+（3）从喀什地区全年降水强度分析，降水强度有一定的波动性，但变化趋势与降水量、降水频次并不存在一致性。
+
+（4）喀什地区全年降水主要以短时段降水为主，随着降水时间的持续增长，降水次数则不断减少,其中,持续 $^ \mathrm { ~ 1 ~ h ~ }$ 降水的次数为最大值;但降水量和贡献率最大值却同出现在 $^ { 2 \mathrm { ~ h ~ } }$ 和 $6 \textup { h }$ 持续降水中;不同持续时间的降水量与降水贡献率变化趋势近似。区内10个站点不同持续时间的降水次数与平均值相似，但山区站(塔什库尔干)持续 $^ \mathrm { ~ 1 ~ h ~ }$ 降水次数达到124次，明显高于喀什地区平均降水次数；不同持续时间的降水量最大值出现在岳普湖 $1 0 \mathrm { ~ h ~ }$ 降水中，贡献率最大值则出现在泽普持续 $^ { 9 \mathrm { ~ h ~ } }$ 降水中。
+
+（5）近8a喀什地区全年降水主要以后半夜和上午开始降水过程为主导，且主要为短时段降水。
+
+（6）由于观测站数量有限，尤其是喀什地区南部站点比较少，降水数据并不能完全覆盖所有区域，因此本文所得结论存在一定的偏差。目前已有部分研究引入卫星资料反演干旱区与非干旱区降水变化的特征，这是将来的一项重要的工作;同时，可以开展逐月逐时日变化研究方向，探究12个月不同的降水变化特征，以便更好地揭示新疆喀什地区全年降水日变化的规律。
+
+# 参考文献(References）
+
+[1]KINCER JB.Daytime and nightime precipitation and their economic significance[J].Monthly Weather Review,1916,44（11）： 628-633.   
+[2]宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J]. 气象学报,2014,72(5）:948-968.[YU Rucong,LI Jian,CHEN Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China[J].Acta Meteorologica Sinica,2014, 72(5) :948 -968.]   
+[3］王夫常,宇如聪,陈昊明,等.我国西南部降水日变化特征分析 [J].暴雨灾害,2011,30(2）:117-121.[WANG Fuchang,YU Rucong,CHEN Haoming,et al.The characteristics of rainfall diurnal variation over the southwestern China[J].Torrential Rain and Disasters,2011,30(2):117 -121.]   
+[4］赵玉春,徐明,王叶红,等.2010 年汛期长江中游对流降水日变 化特征分析[J].气象,2012,38（10）:1196-1206.[ZHAO Yuchun,XU Ming,WANG Yehong,et al.A characteristic analysis on diurnal variations of convective rainfall along the Yangtze River middle valleys in 201O flooding season[J].Meteorological Monthly,2012,38(10):1196-1206.]   
+[5]戴泽军,宇如聪,陈昊明.湖南夏季降水日变化特征[J].高原 气象,2009,28（6）:1463-1496.[DAI Zejun,YU Rucong, CHEN Haoming.Characteristics of summer precipitation diurnal variations in Hunan[J].Plateau Meteorology,2009,28(6）:1463 -1496.]   
+[6]公颖,周小珊,董博.辽宁夏季降水时空分布特征及其成因分 析[J].暴雨灾害,2018,37(4）:373-382.[GONG Ying,ZHOU Xiaoshan,DONG Bo.The characteristic analysis and the research on the mechanism of the summer precipitation in Liaoning Province [J].Torrential Rain and Disasters,2018,37(4）:373-382.]   
+[7］孙杰,许杨,陈正洪,等.华中地区近45 年来降水变化特征分 析[J].长江流域资源与环境,2010,19(1）:45-51.[SUN Jie, XU Yang,CHEN Zhenghong,et al. Characteristics of precipitation in central region of China over 45 years[J].Recourses and Environment in the Yangtze Basin,2010,19(1) :45-51.]   
+[8］王怀清,赵冠男,彭静,等.近50 年鄱阳湖五大流域降水变化 特征研究[J].长江流域资源与环境,2009,18（7）:616-619. [WANG Huaiqing,ZHAO Guannan,PENG Jing,et al. Precipitations characteristics over five major river systems of Poyang drainage areas in recent 5O years[J].Resources and Environment in the Yangtze Basin,2009,18（7）:616-619.]   
+[9]YURC,XU YP,ZHOU TJ,et al.Relation between rainfall duration and diurnal variation in the warm season precipitation over central eastern China[J]. Geophysical Research Letters,2007,34 (13):173-180.   
+[10]YU RC,ZHOU T J,XIONG A Y,et al. Diurnal variations of summer precipitation over contiguous China [J].Geophysical Research Letters,2007,34:L01704.   
+[11］胡翠珍,胡旗武,沈焕琦,等.阿克苏地区大降水天气的气候特 征[J].沙漠与绿洲气象,2007,1（5）:25－28.[HU Cuizhen, HU Qiwu,SHEN Huanqi,et al.Climatic characteristicsof heavy rain weather in Akesu area[J]. Desert andOasis Meteorology， 2007,1(5):25-28.]   
+[12］王世杰,杨莲梅,史玉光．乌鲁木齐1991—2010 年降雨特征分 析[J]．中国沙漠,2012,32（2）:509-516.[WANG Shijie, YANG Lianmei,SHI Yuguang.Rainfall variation during 1991— 2010 in Urumqi[J]. Journal of Desert Research,2012,32（2）： 509 -516.]   
+[13］赵勇,崔彩霞,李霞.北疆冬季降水的气候特征分析[J].冰川 冻土,2011,33（2）:292-299.[ZHAO Yong,CUI Caixia,LI Xia.Analysis of the climatic characteristics of winter precipitation in northern Xinjiang region[J]. Journal of Glaciologyand Geocryology,2011,33（2) :292-299]   
+[14］赵勇,黄丹青,朱坚,等.北疆极端降水事件的区域性和持续性 特征分析[J].冰川冻土,2011,33（3）：524－531.[ZHAO Yong,HUANG Danqing,ZHU Jian et al.The feature analysis of regional and persistent extreme precipitation events in northern Xinjinag region[J]. Journal of Glaciology and Geocryology,2011,33 (3):524 -531]   
+[15］杨莲梅.新疆极端降水的气候变化[J].地理学报,2003,58 (4）:577 -583.[YANG Lianmei. Climate change of extreme precipitation in Xinjiang[J].Acta Geographica Sinica,2003,58（4）: 577 -583.]   
+[16］赵勇，黄丹青,古丽格娜,等.新疆北部夏季强降水分析[J].干 旱区研究,2010,27(5）:773-779.[ZHAO Yong,HUANG Danqing,GENA Guli,et al.Analysis on summer heavy rainfall in the northern Xinjiang[J].Arid Zone Research,2010,27（5）:773- 779.]   
+[17］赵勇,黄丹青,杨青.新疆北部汛期降水的变化特征[J].干旱区 研究,2012,29（1）:35-40.[ZHAO Yong,HUANG Danqing, YANG Qing.Analysison variation of precipitation in flood season in north Xinjiang[J].Arid Zone Research,2012,29(1):35-40.]   
+[18］于碧馨，张云惠,宋雅婷.2012 年前冬伊犁河谷持续性大暴雪 成因分析[J].沙漠与绿洲气象,2016,10（5）:44－51.［YU Bixin,ZHANG Yunhui,SONG Yating.Causeanalysis of continuous heavy blizzard over Yili in the previous winter of 2012［J]. Desert and Oasis Meteorology,2016,10(5）:44 -51.]   
+[19］陈春艳,赵克明,阿不力米提江·阿布力克木,等.暖湿背景下 新疆逐时降水变化特征研究［J].干旱区地理,2015,38（4）： 692-702.[CHEN Chunyan,ZHAO Keming,ABLIKIM Ablimitijan,et al.Temporal and spatial distributions of hourly rain intensity under the warm background in Xinjiang[J].Arid Land Geography,2015,38(4):692 -702.]   
+[20］武胜利,刘强吉,近50a新疆巴州地区气温与降水时空变化特 征[J].干旱气象,2016,34（4）:610-616.[WU Shengli,LIU Qiangji. Spatial and temporal distribution characteristics of temperature and precipitation in Bayingol Mogol Autonomous Prefecture of Xinjiang during 1961—2013[J]. Journal of Arid Meteorology, 2016,34(4) :610 - 616.]
+
+[21］苗运玲，张云惠，卓世新，等.东疆地区汛期降水集中度和集中
+
+期的时空变化特征[J].干旱气象,2017,35（6)：949 -956. [MIAO Yunling,ZHANG Yunhui,ZHUO Shixin,et al.Spatial and temporal variation characteristics of PCD and PCP in eastern Xinjiang in flood season[J]. Journal of Arid Meteorology,2O17,35 (6) :949 -956.]   
+[22］唐冶,陈春艳,赵克明.伊宁市 1991—2011 年降雨特征分析 [J].沙漠与绿洲气象,2014,8(6）:41-46．［TANGYe,CHEN Chunyan,ZHAO Keming.Rainfall variation during 1991—2011 in Yining[J].Desert andOasis Meteorology,2014,8（6):41-46.]   
+[23］周雪英,段均泽,李晓川.近52 年巴音布鲁克山区日降水变化 趋势与突变特征分析[J].沙漠与绿洲气象,2013,7（5)：19- 24.[ZHOU Xueying,DUAN Junze,LI Xiaochuan. Tendency and abrupt change of the precipitation in Bayinbuluk Mountains during 1960—2011[J].DesertandOasis Meteorology,2013,7(5):19- 24.]   
+[24］黄秋霞,赵勇,何清.新疆伊犁河谷夏季降水日变化特征［J]. 冰川冻土,2015,37（2）:369-375.[HUANG Qiuxia,ZHAO Yong,HE Qing.The daily variation characteristics of summer pre cipitation over the Yili River Valley,Xinjiang[J].Journal of Glaciology and Geocryology,2015,37(2）:369-375.]   
+[25］黄秋霞,方雯,王春燕,等.新疆昌吉市主汛期降水的日变化特 征[J].沙漠与绿洲气象,2016,10(6):19-23.[HUANG Qiuxia,FANG Wen,WANG Chunyan,etal.The characteristics of rainfall diurnal variation during floodseason in Changji City,Xinjiang [J].Desert and Oasis Meteorology,2016,10(6）:19 -23.]   
+[26］赵战成,丁国峰,艾尔肯．塔克拉玛干沙漠东部边缘降雨日变 化[J]．干旱区地理,2016,39（6）:1182－1185.[ZHAO Zhancheng,DING Guofeng,Arken.Eastern edge of the Taklimakan DesertrainfalldualvarationJ.AridLndGeogaph,01, 39(6) :1182 -1185.]   
+[27］黄艳,裴江文,羊兴.喀什地区1961—2005 年降水变化特征 [J].沙漠与绿洲气象,2009,3（3）;31-34.[HUANG Yan,PEI Jiangwen,YANG Xing.Evolvement of rainfall in Kashi region druing 1961——2005[J].Desert and Oasis Meteorology,2009,3（3）： 31-34.]   
+[28］赵克明,古丽格娜·海力力,美丽巴奴·艾则孜,等.喀什市降 水的日变化特征分析[J].沙漠与绿洲气象,2016,10(2）:31- 35.[ZHAO Keming,HELIL Gulgina,AZIZ Mihribanur,et al. Characteristic analysis on the diurnal variation of precipitation in Kashgar[J]. Desert and Oasis Meteorology,2016,10（2）:31- 35.]   
+[29]CHEN H M,YU R C,LI J,et al. Why nocturnal long-duration rainfall presents an eastward-delayed diurnal phase of rainfall down the Yangtze River Valley[J]. Journal of Climate,2010,23（4）:905- 917.   
+[30］张磊,缪启龙.青藏高原近40年来的降水变化特征[J].干旱 区地理,2007,30(2）:240-246.[ZHANG Lei,MIAO Qilong. Precipitation changes in the Tibetan Plateau during the last four decades[J].Arid Land Geography,2007,30(2）:240-246.]   
+[31］王颖,刘丹妮,张玮玮,等.2004—2016 年浙江省夏季降水的日 变化特征[J].干旱气象,2019,37（1):1-9.[WANG Ying， LIU Danni,ZHANG Weiwei,et al.Diurnal variation characteristics of summer precipitation in Zhejiang Province during 2OO4—2016 [J]. Joumal of Arid Meteorology,2019,37(1）:1-9.]
+
+# Interdiurnal variation characteristics of precipitation ( rain and snow) in Kashi Prefecture
+
+ZHENG Bo-hua'， CHEN Sheng'， WANG Yong² (1Weather Modification Ofice of Xinjiang Uygur Autonomous Region,Urumqi 83oo02,Xinjiang,China; 2Xinjiang Ecology Meteorology and Satellite Sensing Centev,Urumqi 830002,Xinjiang,China)
+
+Abstract：The most obvious feature of measuring climate changes in one or more regions is precipitation,and the magnitude and distribution of precipitation directly restricts the development of the national economyand the bumper harvest of agricultural production,andalso closelyrelates tothe lives ofthe individuals.The Kashi Prefecture, Xinjiang,China islocated intheabdomenofCentral Asia,anditbelongs tothe warm temperatecontinentalaridclimate zone,with distinct four seasons and suffcient sunshine.Its annual and daily temperature changes are of great disparity,the precipitation isless and the evaporationis strong.Although theoverallprecipitation in Xinjiang is relativelysmall,thecontributionof extreme precipitation tothe total amountof precipitationis stillontherise.Previous research scales for precipitation in Kashi mainly focused on monthly precipitation or diurnal precipitation changes. In thecontextof global warming,it isparticularly important to studythe annualvariationof precipitationover he whole year,which is notonlyextremely importantforthe meteorological services inthe designated region,but also plays a vitaly important guiding role in artificial flood controland rain enhancement（snow）operations,and even has an important significance for understanding the climatecharacteristics and trends of Xinjiang.This paper utilizes the hourly precipitation data of1O meteorological stations in the Kashi Prefecture from January to December 2010 to analyze the daily variation characteristics（from theprecipitation,precipitation frequency,precipitation intensity and precipitation over time）of precipitation （rainand snow）in the Kashi Prefecture.The results show as folows:：（1) There are obvious fluctuations inthe annual variationof precipitation and precipitation frequency in Kashi,and overallit frmed a sinusoidal wave shape characterized byone peak and one valley,and the peak of precipitation appears at O3:0O AM（Beijing time,the same below）and the valleyat18:O0PM; the peak frequencyof precipitation appears at O04:00PMand the valleyat18:00 PM.（2）From 2010 to 2O17,the annual precipitation and precipitation frequency inthe Kashi region showed a significant increase trend；while the annual variation of precipitation intensity tended to begentle and had no obvious change.（3）There is no consistency between thedailyvariation trend of precipitation intensityandthe frequencyof precipitation and the amount of precipitation.（4）The precipitation inthe whole year depends mainly on short-period precipitation.Among them,most of the precipitations lasted for about1 hour,and the precipitations with 2 hours duration contributed the mostto the amount of precipitation yet the precipitations of6 hours duration ranked first from the contribution ratio perspective.The precipitation in the Kashi region is mainly dominated by precipitation in the middle of the night and in the morning.
+
+Key words：precipitation（rain and snow）；diurnal variation；precipitation frequency；precipitation intensity; Kashi Prefecture

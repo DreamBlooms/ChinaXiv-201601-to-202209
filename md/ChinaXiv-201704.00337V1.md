@@ -1,0 +1,195 @@
+# DOI: 10.5846/stxb201512232562
+
+孙美美,关晋宏，吴春荣,岳军伟,李国庆,杜盛.黄土高原西部3个降水量梯度近成熟油松人工林碳库特征.生态学报,2017,37（8）：2665-2672.Sun MM,GuanJH,WuR,YueJW,LiG,Durbooagefeaturesfustbulefoisplantatisareaproacingaurisites across a precipitation gradient in westernLoessPlateau.Acta Ecologica Sinica,20l7,37(8):2665-2672.
+
+# 黄土高原西部3个降水量梯度近成熟油松人工林碳库特征
+
+孙美美}，关晋宏},²,吴春荣³，岳军伟²，李国庆}²,杜盛1,2，\*
+
+1西北农林科技大学黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100  
+2中国科学院水利部水土保持研究所，杨凌712100  
+3甘肃省治沙研究所，兰州730070
+
+摘要;森林在陆地生态系统吸收碳素方面起着主要作用，了解其固碳特征对研究地区之间的碳循环至关重要。油松人工林是黄土高原地区一种典型的退耕还林树种,研究其固碳特征有利于综合分析评价油松人工林的生态效益。为了研究黄土高原西部地区油松人工林碳储量及碳密度空间分布特征因降水量不同引起的差异,以黄土高原西部地区3个典型栽培区域的近成熟油松人工林为对象,研究了群落内各组成部分的生物量和碳库特征。乔木层生物量的估算采用以胸径和树高为基础变量的生物量方程,灌木、草本、凋落物采用样方收获法,土壤碳库依据土壤剖面( ${ \mathrm { ~ 1 ~ m ~ } } ,$ 和土钻取样相结合的方法测算。结果表明：在兰州官蘑滩地区( $3 7 2 ~ \mathrm { m m }$ ）、太子山( $5 1 9 ~ \mathrm { m m }$ )和小陇山( $6 3 2 ~ \mathrm { m m }$ )3个不同降水量区域，油松人工林生物量碳密度分别为( $4 9 . 0 8 \pm$ $2 . 8 6 ) \mathrm { t } / \mathrm { h m } ^ { 2 }$ （ $7 3 . 9 0 { \pm } 9 . 3 6 ) \mathrm { t } / \mathrm { h m } ^ { 2 }$ 和 $( 8 2 . 5 5 { \pm } 7 . 3 6 )  { \ V \mathrm { h m } } ^ { 2 }$ 。小陇山地区的生态系统总碳密度和生物量碳密度与兰州地区存在显著性差异。在3个不同降水量区域,土壤有机碳密度仅在表层土壤 $\mathrm { ' 0 { - } 1 0 ~ c m } ^ { \cdot }$ )差异达到显著水平( $P { < } 0 . 0 5 )$ ,而土壤总碳密度间差异未达到显著水平( $_ { ( P > 0 . 0 5 ) }$ 。黄土高原半干旱区近成熟油松人工林的生物量碳密度与年均降水量间呈现出显著正相关关系。在半干旱地区,降水量可能成为影响油松人工林生产力和碳固存的关键因素。
+
+关键词：油松人工林；生物量碳密度;降水量;黄土高原西部
+
+# Carbon storage features of Pinus tabulaeformis plantations that are approaching maturity at three sites across a precipitation gradient in western Loess Plateau
+
+SUN Meimei1，GUAN Jinhong1,²，WU Chunrong³，YUE Junwei²，LI Guoqing1,²,DU Sheng1,2,\* 1StateKeyLaboratoryofErosionandDrylandFarmingonLoessPlateau，NorthwestA&FUniversity，Yangling711o,China 2InstituteofSoiland WaterConservation，ChineseAcademyofSciencesandMinistryof WaterResource，Yangling7210，China 3Gansu Desert Control Research Institute,Lanzhou 73oo7O,China
+
+Abstract：Forest isan important vegetation typeof terestrialecosystems thatmaintains the dynamicbalanceof the biosphereand geosphere，and it playsakeyrole in terrestrial ecosystemcarbonsequestration.Withthe implementationof Grain forGree Project，the Three-North Shelterbelt Project，andother majorecological projects，thetotal areaof plantations has dramatically increased； thus,the role of plantations in absorbing and fixing $\mathrm { C O } _ { 2 }$ has attracted more attention. Investigating carbonstorageof major forest types is importantforunderstanding regional carboncycles.Pinus.tabulaeformis isa common plantation species insub-humidandsemi-aridregions fortherestorationof forest ecosystems.In wester Loess Plateau，artificial forests of $P$ . tabulaeformis provide a substantial proportion of the terrestrial ecosystem carbon sink. To understandthecarbon storage featuresof theseplantations inresponse totheprecipitation gradient,three typicaldistribution regions on western Loess Plateau were selected for plot surveys.Treebiomasswas estimated separately for stems，branches, leaves，and roots，using previouslyconstructed allmetric biomass equations based on the diameter at breast height（DBH) andtreeheight.Carbon contents inthedifferent partsand layersof the tree wereeach measured bycolecting corresponding samples.Carbon density was calculated by multiplying the biomassof each plant part(from a specific forest area）and the corresponding carboncontent.Theresultsshowed that in the three sites（Lanzhou，Taizishan，Xiaolongshan）with precipitation of $3 7 2 ~ \mathrm { m m }$ ， $5 1 9 ~ \mathrm { m m }$ and $6 3 2 ~ \mathrm { m m }$ ，respectively，biomass carbon densities of $P$ . tabulaeformis plantations were 0 $\cdot 4 9 . 0 8 { \pm } 2 . 8 6 \$ ） $\mathrm { { t } / \mathrm { { h m } ^ { 2 } } }$ ，（ $7 3 . 9 0 \pm 9 . 3 6 \$ ） $\mathrm { { t } } / \mathrm { { h m } } ^ { 2 }$ ，and ( $8 2 . 5 5 \pm 7 . 3 6$ ） $\mathrm { t } / \mathrm { h m } ^ { 2 }$ ，respectively.Both the carbon density of the ecosystem and biomass carbon density were significantly different ( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ）between Xiaolongshan and Lanzhou.Because the shrubs were sparse，the contribution of trees was greatest，reaching $9 5 . 2 1 \% - 9 8 . 9 1 \%$ of the biomass carbon density across the precipitation gradient.Overalldensityoforganiccarbon insoildidnot diferbetween the threesites.Soilorganic carbon in the upper soil layers showed significant diferences among the sites，but were not statistically different ( ${ \cdot } P { > } 0 . 0 5$ ） inothersoil layers.Corrlative analysisshowed that the biomasscarbon densitywaspositivelycorrelated withannual precipitation，with a Pearsoncoeficient of 0.820.However，therewere no significant positive corelations between the biomass carbon densityandtheageof stand.Similarly，partialcorrelativeanalysisshowedthat therewasasignificant positive correlation between the carbon density of $P$ . tabulaeformis plantations and precipitation in this sub-humid and semiaridregionoftheLoessPlateau.Theseresults indicate that precipitationisakeyfactor thatafects biomass productionand carbon fixation in semi-arid forests.Furthermore，it implies that appropriate water conservation measures are necessary, particularly in semi-arid areas,to satisfy the hydric demands of $P$ . tabulaeformis plantations and to maintain normal growth. Such measures mayalsobe helpful for improvingcarbon sequestration potentialandcomprehensive servicesof plantation ecosystems.Therefore,this study provides valuableinsight into howcarbonstorage characteristicsof plantations respond to precipitation gradients，andprovidesuseful information forregional forestmanagementwithrespecttoproductivityand carbon storage.
+
+Key Words: Pinus tabulaeformis ;biomass carbon density；precipitation；western Loess Plateau
+
+森林作为陆地生态系统的重要组成部分,储存着陆地生态系统2/3以上的有机碳[1],并在减缓大气 $\mathrm { C O } _ { 2 }$ 浓度上升、调节碳平衡等方面发挥着重要作用[2]。随着退耕还林工程和三北防护林工程等重大生态项目的实施,我国人工林在森林总面积中的比重大幅增加[3」,人工林在 $\mathrm { C O } _ { 2 }$ 吸收和固定方面的作用也引起越来越多的关注[4-5]。油松(Pinus tabulaeformis)广泛分布于中国北方地区,耐旱耐贫瘠,适应性强,是黄土高原人工造林的主要树种之一,具有良好的保持水土和生态防护等功能[6]。油松人工林是黄土高原一种典型植被,分析研究不同降水量区域其近成熟林的碳库特征,有利于综合评价该种人工林类型的碳汇效益。
+
+关于油松人工林生态系统碳密度的研究已有一些报道，例如不同林龄阶段碳储量比较和特定地区固碳潜力的估算[7],与其他树种间碳汇情况的比较[8],碳密度与立地因子之间的关系[9],以及生态系统中碳氮储量和分配格局[10]等方面。程小琴等[]研究报道了山西近成熟油松人工林的生物量与碳库空间分布特征,估算了其净生产力与年均净固碳量。目前研究较多的是不同林龄之间的比较,尽管涉及近成熟林,但特意针对近成熟林龄段油松人工林的研究却甚少。对近成熟林的研究有助于了解该种森林类型在特定地区的最大生产力和固碳潜力。迄今为止，关于较大空间尺度上油松人工林的碳库特征差异及其对降水量响应的研究仍未见报道。本研究选取黄土高原西部油松人工林的3个重要栽培区域,分析油松人工林生态系统各层次间碳密度特征,揭示降水量对油松人工林碳固存的影响,为估算不同地区油松人工林碳汇潜力和科学指导人工林经营提供理论依据。
+
+http://www.ecologica.cn
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+甘肃省兰州市榆中县官蘑滩,地处内陆,大陆性季风气候明显,特点是降水量少,日照多,光能潜力大，气候干燥,昼夜温差大,年日照时数约 $2 6 0 0 \mathrm { ~ h ~ }$ ,年平均降水量 $4 0 0 ~ \mathrm { { m m } }$ 左右,并集中分布在6一9月，年平均气温$7 \%$ 左右。调查区海拔为 $2 3 6 0 \mathrm { ~ m ~ }$ ,森林土壤为山地灰褐土。样地内乔木层油松林树种单一,林下几乎没有灌木,草本以长芒草（Stipa bungeana）和细裂叶莲蒿(Artemisia gmelinii)为主。
+
+甘肃省太子山林区(临夏自治州康乐县),气候寒冷,生长期短,年均降水量在500一 ${ \cdot } 6 0 0 ~ \mathrm { m m }$ 左右,土壤以山地褐土、棕壤为主[12]。调查区位于药水保护站,海拔在 $2 4 5 0 \mathrm { ~ m ~ }$ 左右,乔木层油松人工林树种单一为绝对优势种,林下灌木主要有灰枸子（Cotoneaster acutifolius）和虎榛子（Ostryopsis davidiana）等,草本主要以苔草（Carex tristachya）早熟禾(Poa annua）和三褶脉紫菀(Asterageratoides）为主。
+
+甘肃省小陇山林区,地处秦岭西段,是暖温带向亚热带的过渡地带,年平均气温7— $1 2 \%$ ,年均降水量$6 0 0 { \ - } { \ - } 9 0 0 { \ } { \mathrm { m m } }$ ,雨季集中在7、8、9月份,属湿润和半湿润类型区,土壤多属壤土、森林褐土[13]。调查区位于陇南市两当县境内,海拔在 $1 4 0 0 \mathrm { ~ m ~ }$ 左右,样地内油松为绝对优势种,林下灌木主要有胡枝子（Lespedeza bicolor）、虎榛子（Ostryopsis davidiana）和绣线菊（Spiraeasalicifolia）等,草本以苔草（Carex tristachya）和唐松草(Thalictrumaquilegifolium)为主。
+
+# 1.2 研究方法
+
+# 1.2.1 调查样地设置
+
+本研究遵循"代表性、均一性、连续性”原则设置调查标准地,原则上围取标准地面积为 $1 0 0 0 \ \mathrm { m } ^ { 2 } ( \ 5 0 \ \mathrm { m } \times$ $2 0 ~ \mathrm { m }$ )，但由于实际地形的限制，实际样地中有部分设置为 $6 0 0 ~ \mathrm { m } ^ { 2 } ( 3 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m } )$ 。在甘肃省内3个油松人工林重要栽培区(太子山、小陇山、兰州)选取近成熟林(林龄 40—60a)的9块样地进行碳储量和碳密度的研究。各标准地基本信息见表1。
+
+表1不同降水量区域油松人工林标准地基本信息  
+Table1Basic status of Pinus tabulaeformis Plantation with a precipitation gradien   
+
+<html><body><table><tr><td>地区</td><td></td><td>年降水量 mm</td><td>年均气温 ℃</td><td>林</td><td></td><td></td><td>（株/hm²）</td><td></td><td>土境型</td></tr><tr><td>兰州官蘑滩</td><td>104°2'51"E35°46'29"N</td><td>372</td><td>7.0</td><td>40</td><td>7.1</td><td>11.5</td><td>1051</td><td>50</td><td>山地灰褐土</td></tr><tr><td></td><td>104°2'51"E35°46'31"N</td><td>372</td><td>7.0</td><td>40</td><td>7.1</td><td>13.1</td><td>1283</td><td>50</td><td>山地灰褐土</td></tr><tr><td></td><td>104°2'50"E35°46'32"N</td><td>372</td><td>7.0</td><td>40</td><td>9.1</td><td>19.9</td><td>399</td><td>40</td><td>山地灰褐土</td></tr><tr><td>太子山</td><td>103°25'25"E35°15'35"N</td><td>519</td><td>6.6</td><td>40</td><td>11.1</td><td>19.7</td><td>814</td><td>80</td><td>灰棕壤</td></tr><tr><td></td><td>103°25'25"E35°15'31"N</td><td>519</td><td>6.6</td><td>41</td><td>13</td><td>18.7</td><td>752</td><td>80</td><td>灰棕壤</td></tr><tr><td>小陇山</td><td>106°31'42"E34°7'40"N</td><td>632</td><td>12.0</td><td>50</td><td>16.6</td><td>26.7</td><td>479</td><td>70</td><td>森林褐土</td></tr><tr><td></td><td>106°30'53"E34°7'46"N</td><td>632</td><td>12.0</td><td>45</td><td>16.3</td><td>23.3</td><td>3250</td><td>70</td><td>森林褐土</td></tr><tr><td></td><td>106°33'25"E34°7'47"N</td><td>632</td><td>12.0</td><td>55</td><td>15.7</td><td>23.6</td><td>2433</td><td>75</td><td>森林褐土</td></tr><tr><td></td><td>106°24'7"E34°17'33"N</td><td>632</td><td>12.0</td><td>60</td><td>14.7</td><td>22.7</td><td>1050</td><td>75</td><td>森林褐土</td></tr></table></body></html>
+
+年降水量和年均气温的数据来自中国气象数据网30a(1981—2010)平均值[14]
+
+# 1.2.2 野外调查及样品采集
+
+乔木层调查对每个标准地内胸径大于 $2 \ \mathrm { c m }$ 的乔木进行每木检尺,记录树高和胸径,统计株数。按大、中、小径级分别选择3—5株样木,分叶、枝、干、皮、根5个器官取样,将相同器官的样品混合,再取各器官不少于 $2 0 0 ~ \mathrm { g }$ 重量的混合样带回实验室待处理分析。
+
+灌木、草本和凋落物的调查灌木调查是在每个乔木标准地内沿对角线设置3个灌木样方( $2 { \mathrm { \ m } } { \times } 2 { \mathrm { \ m } }$ ，调查样方内灌木种类,全部收获后分叶、枝、根称鲜重,将3个样方内枝、叶、根分别混合均匀后取混合样,每个样品重量不少于 $3 0 0 ~ \mathrm { g }$ ;在每个灌木样方内设置一个 $1 \ \mathrm { m } { \times } 1 \ \mathrm { m }$ 草本样方，分地上与地下部分收获后称鲜重并取样;凋落物的调查是将草本样方内的凋落物全部收获后称重并取重量不少于 $3 0 0 ~ \mathrm { g }$ 的样品。将灌木、草本和凋落物的样品称鲜重后带回实验室分析测定。
+
+土壤在每个乔木标准地中选择一个未受人为干扰、植被结构和土壤具有代表性的地段,挖取土壤剖面深至 $1 0 0 \ \mathrm { c m }$ ,不足 $1 0 0 \ \mathrm { c m }$ 的挖至基岩为止，沿剖面按0—10,10—20,20—30,30—50,50— $1 0 0 ~ \mathrm { c m }$ 分层,用环刀取各个土层的原状土，用于测定土壤容重。同时按照上述土壤分层标准,使用内径为 $4 ~ \mathrm { c m }$ 的土钻，分3个取样点钻取土钻土,将等层样品混合均匀后取 $2 0 0 ~ \mathrm { g }$ 带回实验室分析测定。
+
+# 1.2.3室内样品处理与碳、氮含量的分析测定
+
+将野外采集的乔木器官、灌木器官、草本及凋落物样品置于 $8 5 \mathrm { ^ \circ C }$ 烘箱烘至恒重求得含水量。用于植物有机碳含量测定的烘干样品需磨碎过 $0 . 2 5 ~ \mathrm { m m }$ 筛。每个样地的待测样品均包括以下10 部分;乔木的叶、枝、干、根,灌木的叶、枝、根,草本的地上、地下部分以及凋落物。待测土壤样品在室内阴干,压碎大块土,拣出植物根系等杂物，粉碎并过 $2 ~ \mathrm { m m }$ 筛,将大于 $2 ~ \mathrm { m m }$ 石砾集中称重。再用四分法取部分样品研磨直至全部土样通过$0 . 2 5 ~ \mathrm { m m }$ 筛。植物样品有机碳和土壤有机碳含量测定均采用重铬酸钾-硫酸氧化外加热法,氮含量的测定采用凯氏定氮法[15]。
+
+# 1.2.4 生物量的测算
+
+油松生物量估算采用程堂仁[16]在这一地区建立的生物量方程（表2）,构建该方程的区域与本研究基本属于同一地理区,油松树形无明显变化。由胸径和树高求得单株油松各器官生物量,进而求得整株油松生物量和全样地乔木生物量。
+
+表2油松人工林生物量估算方程[16]  
+Table2The biomass equation of Pinus tabulaeformis plantatiol   
+
+<html><body><table><tr><td>器官 Organs</td><td>回归方程 Regression equation</td><td>回归系数 Correlation coefficient</td><td>器官 Organs</td><td>回归方程 Regression equation</td><td>回归系数 Correlation coefficient</td></tr><tr><td>树干 Stem</td><td>B=e-3.8828(D²H) 0.9359</td><td>0.9962</td><td>树根Root</td><td>B=e-4.7557(D²H) 0.9204</td><td>0.9816</td></tr><tr><td>树枝 Branch</td><td>B=e-6.3807(D²H) 1.1242</td><td>0.9826</td><td>树皮Bark</td><td>B = e-5.1129（(D²H) 0.8649</td><td>0.9862</td></tr><tr><td>树叶Leaf</td><td>B=e-5.3277(D²H) 0.8812</td><td>0.9496</td><td></td><td></td><td></td></tr></table></body></html>
+
+$B$ ：生物量 Biomass； $D$ ：胸径DBH（Diameter at Breast Height）;H;树高 Height
+
+灌木、草本及凋落物生物量的估算：将所采样品带回实验室后置于 $8 5 \mathrm { ^ \circ C }$ 烘箱中,烘干至恒重,称重计算含水率,进而推算出样地内单位面积( $\mathrm { { h m } } ^ { 2 }$ )灌木各器官、草本的生物量及凋落物量。
+
+# 1.2.5 碳密度的估算
+
+各组分生物量碳密度采用各组分的生物量与其碳含量的乘积进行计算。土壤层 $( 0 - 1 0 0 \mathrm { c m } )$ 碳密度为各土壤层碳密度之和,单独某一土层的有机碳密度 $( S _ { i } , \underline { { \mathbf { g } } } / \mathrm { c m } ^ { 2 } .$ )计算公式为：
+
+$$
+S _ { i } { = } C _ { i } { \times } D _ { i } { \times } E _ { i } { \times } ( 1 { - } G _ { i } )
+$$
+
+式中， $C _ { i }$ 为土壤碳含量 $( \mathbf { \underline { { g } } } / \mathrm { k g } )$ ， $D _ { i }$ 为土壤容重( $\scriptstyle \left( { \bf g } / \tan ^ { 3 } \right)$ ）， $E _ { i }$ 为该层土壤的厚度( $\left( \mathrm { c m } \right)$ ， $G _ { i }$ 为直径 $> 2 \mathrm { m m }$ 的石砾所占的体积百分比， $i$ 代表某一土层。本研究中全部土壤剖面无直径 $> 2 \mathrm { m m }$ 的石砾,所以式中 $G _ { i }$ 取 $0$ 。
+
+# 1.2.6 数据处理
+
+野外调查所得数据经 Excel 2010 简单整理后,用 SPSS 20.0进行数据分析,选择单因素方差分析(one-wayANOVA)比较参数之间的差异,用简单相关分析和偏相关分析对林龄和年均降水量对生物量碳密度的关系进行分析，采用Sigmaplot12.5软件绘图。
+
+# 2结果与分析
+
+2.1不同降水量地区油松人工林生物量、生物量碳密度差异兰州( $3 7 2 ~ \mathrm { m m }$ )和小陇山( $6 3 2 ~ \mathrm { m m }$ )两个降水量区域的油松人工林生态系统总生物量差异达到显著性水平，而太子山( $\cdot 5 1 9 \ \mathrm { m m } \cdot$ )与其他两个地区的总生物量差异均不显著（表3)。各调查区的生态系统生物量组分中乔木占比例最大,其中兰州地区的乔木生物量与太子山、小陇山地区之间差异显著。各降水量区域的凋落物生物量之间差异显著性与总生物量之间趋势一致,而草本生物量之间差异均未达到显著水平（表3）。
+
+表3不同降水量地区植被层生物量及其组成  
+Table 3Vegetation layer biomass and components in the sites with a precipitation gradient   
+
+<html><body><table><tr><td>不同降水量地区 Different precipitation sites</td><td>乔木 Tree/ (t/hm²)</td><td>灌木 Shrubs/ (t/hm²)</td><td>草本 Herbal/</td><td>调落物 Litter/</td><td>总生物量 Total biomass/</td></tr><tr><td>兰州（372mm）</td><td>93.69±5.06 b</td><td>0c</td><td>(t/hm²) 1.16±0.55 a</td><td>(t/hm²） 0.86±0.03 b</td><td>(t/hm²) 95.71±4.62 b</td></tr><tr><td>太子山(519mm)</td><td>134.98±18.03 a</td><td>1.19±0.03 b</td><td>2.09±0.99 a</td><td>3.32±0.99 ab</td><td>141.57±18.05 ab</td></tr><tr><td>小陇山(632mm)</td><td>156.19±14.33 a</td><td>3.17±0.35 a</td><td>1.48±0.38 a</td><td>5.22±0.871 a</td><td>166.07±14.85 a</td></tr></table></body></html>
+
+不同小写字母表示同一组分在不同降水量区域间的差异性显著( $P { < } 0 . 0 5 )$
+
+兰州（ $3 7 2 ~ \mathrm { m m } ,$ 与小陇山( $6 3 2 ~ \mathrm { m m }$ )地区的生物量碳密度之间呈显著差异，但兰州与太子山( $5 1 9 ~ \mathrm { m m }$ 之间和太子山与小陇山之间差异均未达到显著水平(图1)。在兰州地区乔木碳密度的贡献率最大达到 $9 8 . 9 1 \%$ ，主要是因为该地区的样地内几乎没有林下灌木。3个不同降水量区域,乔木碳密度的贡献率总体上在（204 $9 5 . 2 1 \%$ T $9 8 . 9 1 \%$ 之间,灌木、草本以及凋落物碳密度贡献率很小 $( 0 . 4 3 \% - 2 . 4 8 \% )$ 。
+
+![](images/c9cd44aa88282d0a13d40a1ad4128cdbcd4fb48111801c1ebf5b433efb12de66.jpg)  
+图1不同降水量区域生物量碳密度及各组分所占比例  
+Fig.1Biomass carbon density and component proportions in the three sites across a precipitation gradient
+
+不同字母表示同一生态系统组分不同降水量区域存在显著性差异( $\scriptstyle P < 0 . 0 5 .$ 0
+
+# 2.2不同降水量地区油松人工林土壤碳密度差异
+
+3个不同降水量地区,样地土壤表层 $\mathrm { ( 0 - 5 0 ~ c m ) }$ )各土层之间的碳密度存在较大差异， $1 \mathrm { ~ m ~ }$ 深的整个土层内总碳密度水平比较接近(图2）,差异没有达到显著性水平。降水量最多的小陇山林区( $6 3 2 ~ \mathrm { m m } \mathrm { \Omega } ,$ )表层土壤$\mathrm { ' } 0 \mathrm { - } 1 0 \ \mathrm { c m }$ )碳密度高于其他两个地区，但其50— $1 0 0 ~ \mathrm { c m }$ 土层的土壤碳密度与其他两个地区差异不大,可能与该区域林地较高的凋落物生产量和因水分较充足的腐殖质分解速率较快有关。
+
+# 2.3不同降水量地区生态系统碳库差异
+
+生态系统总碳库中土壤层是最大的碳库，土壤碳密度在 $1 8 4 . 9 0 { \ - } { \ - } 2 0 7 . 0 7 \ { \mathrm { t / h m } } ^ { 2 }$ 之间，是生物量碳密度的2—3倍(表4),且3个不同降水量地区之间的差异没有达到显著性水平。不同降水量地区仅在生物量碳密度之间存在一定显著性差异,而土壤层碳库和总碳库之间差异不显著。
+
+2.4不同降水量地区近成熟油松人工林生物量碳密度与降水量之间的关系
+
+3个调查区中小陇山的年均降水量最大，分别是太子山和兰州地区降水量的1.38和1.57倍，同时该区生物量碳密度是太子山和兰州地区的1.12和1.68倍。简单相关分析结果表明：近成熟油松人工林生物量碳密度与林龄之间不存在显著相关性，而与年均降水量之间存在极显著正相关关系，Pearson相关系数为0.820。由表5的偏相关分析结果可知，林龄与年均降水量影响近成熟油松人工林的生物量碳密的偏相关系数分别是-0.264和0.76，双侧检验结果显示年均降水量对生物量碳密度的影响显著，而林龄不显著。3个调查区的近成熟油松人工林生物量碳密度随降水量的增加而呈现出增加的趋势，且降水量较少的兰州地区的生物量碳密度与降水量较多的小陇山地区之间存在显著性差异，表明降水量是决定区域间油松近成熟林生物量累积和碳固存差异的重要因素之一。
+
+![](images/e2fd53dc9b0e2c8cd701772529799ce49e7c5cfe25f20ccbf913de5a5d1c7ab2.jpg)  
+图2不同降水量区域各层土壤碳密度  
+Fig.2Soil carbon density in the three sites across a precipitation gradient
+
+表4不同降水量地区生态系统碳库变异  
+Table 4 The difference between ecosystem carbon storage with a precipitation gradient   
+
+<html><body><table><tr><td>不同降水地区 Diferent precipitation sites</td><td>生物量碳密度 Biomass carbon density/ (t/hm²)</td><td>土壤层碳密度 Soil carbon density/ (t/hm²）</td><td>总碳库 Total carbon storage/ (t/hm²）</td></tr><tr><td>兰州（372 mm)</td><td>49.08±2.86 b</td><td>202.62±51.79 a</td><td>251.70±53.85 a</td></tr><tr><td>太子山(519 mm)</td><td>73.90±9.36 ab</td><td>207.07±57.04 a</td><td>280.97±66.41 a</td></tr><tr><td>小陇山(632 mm)</td><td>82.55±7.36 a</td><td>184.90±74.79 a</td><td>267.45±74.12 a</td></tr></table></body></html>
+
+不同小写字母表示同一组分在不同降水量区域的差异性显著( $\scriptstyle P < 0 . 0 5$ ）
+
+表5近成熟油松人工林生物量碳密度与年均降水量和林龄的Pearson相关系数和偏相关系数  
+：5Pearson correlation and partial correlation between age,annual precipitation and biomass carbo!   
+
+<html><body><table><tr><td>因子Factor</td><td>Pearson 相关系数 Pearson correlation coefficient</td><td>偏相关系数 Partial correlation coefficient</td></tr><tr><td>林龄Age/年</td><td>0.530</td><td>-0.264</td></tr><tr><td>年均降水量 Annual precipitation/mm</td><td>0.820 **</td><td>0.76 *</td></tr></table></body></html>
+
+\*表示 $\scriptstyle P < 0 . 0 5$ ， $* *$ 表示 $P { < } 0 . 0 1$
+
+# 3讨论
+
+# 3.1 油松人工林生态系统碳库特征
+
+本研究表明太子山和小陇山调查区的生物量碳密度分别是 $7 3 . 9 0 ~ \mathrm { t / h m } ^ { 2 }$ 和 $8 2 . 5 5 ~ \mathrm { t / h m } ^ { 2 }$ ,而兰州地区的生物量碳密度则只有 $4 9 . 0 8 ~ \mathrm { t / h m } ^ { 2 }$ ,其中乔木层碳密度分别是 $7 1 . 0 1 , 7 8 . 6 0 , 4 8 . 5 4 ~ \mathrm { t / h m } ^ { 2 }$ 。这均比李海奎[17]等人估算的中国油松林平均碳密度 $2 8 . 9 8 ~ \scriptstyle { V \mathrm { h m } ^ { 2 } }$ 分别高2.5,2.7倍和1.7倍,且只有兰州地区的乔木层碳密度略低于我国温带针叶林和森林植被平均碳密度(分别为 $5 4 . 6 0 ~ \mathrm { t / h m } ^ { 2 }$ 和 $6 5 . 2 8 ~ \mathrm { t / h m } ^ { 2 }$ )[18]。本研究调查的油松均是40—60 a的近成熟人工林,基本反映了相应区域该类人工林的碳库特征。总体而言,地处半干旱区的兰州调查区油松人工林的碳固存现状较低,而且,林下灌草植物也较少,应该已经受到了水资源短缺的影响。
+
+土壤碳作为陆地生态系统最大的碳库,在地球碳循环中起着至关重要的作用，稍有变动就会对全球碳储量产生较大影响[19]。以往对中国土壤有机碳密度的研究结果差异较大,李克让等[20]对中国常绿针叶林土壤有机碳密度的估算结果为 $1 7 9 . 8 0 ~ \mathrm { { t / h m } } ^ { 2 }$ ,孟蕾等[2I]估算的子午岭油松人工林土壤有机碳密度为 $9 3 . 8 3 ~ \mathrm { { \ t / h m } ^ { 2 } }$ ，本研究结果显示油松人工林的土壤碳密度在 $2 0 0 \ \mathrm { { t / h m } } ^ { 2 }$ 左右处于偏高水平。这可能是由于土壤类型、植被结构、林龄的不同以及气候和立地条件的差异造成了相关研究结果的不一致,说明今后针对不同地区、林分土壤有机碳库的研究有着重要的意义。本研究表明3个降水量区域,土壤碳库均是森林生态系统中最大的碳库，占森林生态系统总碳库的 $6 3 . 6 6 \% - 7 8 . 5 7 \%$ 。兰州地区表层 $\mathrm { ' } 0 { - } 1 0 \ \mathrm { c m } \ \cdot \mathrm { m }$ )的碳密度较小，可能是因为兰州地区的林下植被较少,凋落物少且降水量少，从而影响了土壤表层有机碳积累。随着土层的加深土壤碳密度基本稳定，这与生态系统中土壤有机碳的蓄积规律相吻合。
+
+本研究中3个降水量地区油松人工林生态系统碳库之间差异不显著,生物量碳密度和土壤层碳密度的不同差异使得总碳库之间的差异微小。其中兰州地区油松人工林生态系统碳库最小 $2 5 1 . 7 0 ~ \mathrm { { t / h m } } ^ { 2 }$ ，太子山地区最大 $2 8 0 . 9 7 ~ \mathrm { { t / h m } ^ { 2 } }$ ,均比王宁等[22研究报道的山西油松林生态系统平均碳密度 $1 2 7 . 5 3 \ \mathrm { t / h m } ^ { 2 }$ 高，并且比马钦彦等[23]研究的全国油松林平均碳密度 $1 3 8 . 0 0 ~ \mathrm { { t / h m } ^ { 2 } }$ 高。这可能是因为本研究中调查的油松人工林林龄均处于 40—60a之间,而山西省油松林 $90 \%$ 属于中幼龄林且森林质量不高。本研究的结果与周玉荣等[17]研究的全国森林生态系统平均碳密度 $2 5 8 . 8 3 ~ \mathrm { t / h m } ^ { 2 }$ 基本一致。
+
+3个降水量区域的油松人工林生态系统碳密度均表现为土壤层碳密度 $>$ 生物量碳密度，这与之前的研究结果一致[2425]。3个降水量区域的土壤层碳密度分别是油松人工林生物量碳密度的4.13,2.80倍和2.24 倍。兰州地区( $3 7 2 ~ \mathrm { m m }$ )生物量碳密度最小,所以土壤碳密度比生物量碳密度高出较多,随着降水量增加,生物量碳密度增加。
+
+# 3.2油松人工林生物量碳密度与降水量的关系
+
+Liu 等[26]研究了全球尺度上成熟林的地上生物量碳密度与气温和降水量纬度地区之间的关系,结果表明在中纬度地区降水量 $1 0 0 0 { - } 2 5 0 0 ~ \mathrm { m m }$ 之间的地区地上生物量达到最大值。Mehta等[27」研究指出年均降水量是空间尺度上均衡植被覆盖、人工林及入侵物种等因素引起森林碳储量变异的主要因素,且在研究4个不同降水量地区的热带森林时年均降水量与地上生物量呈现出正相关关系。本研究结果说明油松人工林的生长与年均降水量之间也呈现较强的线性正相关关系。张首军[28]报道指出年均降水量是影响油松碳固存的主要因子之一,在油松适生的范围内较高的降水量更有利于其积累碳素,这与本研究结果一致。Chen[29]等研究结果表明在加拿大西部森林中，年均可利用降水每减少 $1 \ \mathrm { c m }$ ,演替初期针叶林和演替后期针叶林的地上生物量分别减少 $0 . 0 3 ~ \mathrm { M g } \ \mathrm { h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ 和 $0 . 1 7 ~ \mathrm { M g } \ \mathrm { h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ 。Wang[30]等研究报道了青藏高原冷杉林的活生物量碳在海拔梯度上的特征,结果表明杉木林活生物量碳与年均降水量呈现出正相关关系,这与我们的研究结果一致。
+
+Kimball等[31]研究指出温度和降水量的变化可能会引起森林生长季长度的变化。特别是在干旱半干旱区土壤条件和水分条件是制约人工林生长的重要因素,降水量的增加可能诱导生长季延长,从而提高碳素的固定量。另外,降水量与人工林的净初级生产力密切相关,特别是在半干旱地区,降水量可能成为影响油松人工林生产力和碳固存的关键因素,所以在降雨量不充足的半干旱地区应注意采取一些适当的保水措施来保证油松林生长所需要的水分，适当的经营管理措施也可提高人工林生态系统的固碳潜力和综合服务功能。
+
+# 参考文献（References）:
+
+[1］王效科，冯宗炜，欧阳志云.中国森林生态系统的植物碳储量和碳密度研究.应用生态学报.2001,12（1)：13-16.  
+[2]MoroisectsfrecabntistrldsirrestEodagt.  
+［3］文仕知，田大伦，杨丽丽，方晰.桤木人工林的碳密度、碳库及碳吸存特征.林业科学,2010,46(6)：15-21.  
+[4］杨玉姣，陈云明，曹扬.黄土丘陵区油松人工林生态系统碳密度及其分配.生态学报，2014，34（8)：2128-2136.  
+[5］冯瑞芳，杨万勤，张健.人工林经营与全球变化减缓.生态学报，2006，26(11)：3870-3877.  
+[6]LiGQ，XuGH,GuoK,DuS.GegapicalboundaryandclimaticanalysisfPinustabulaefoisinCina：IsightsonitfortatioEcological Engineering，2016，86：75-84.
+
+http://www.ecologica.cn
+
+［7］刘迎春，王秋凤，于贵瑞，朱先进，展小云，郭群，杨浩，李胜功，胡中民.黄土丘陵区两种主要退耕还林树种生态系统碳储量和固碳潜力.生态学报，2011，31(15)：4277-4286.  
+[8］张景群，许喜明，王晓芳,王蕾，张婷婷，赵晓春.黄土高原刺槐、油松人工幼林生态系统碳汇研究.干旱区地理,2011,34(2）：201-207.  
+［9］沈彪，党坤良，武朋辉，朱成功.秦岭中段南坡油松林生态系统碳密度研究.生态学报，2015，35(6):1-14.  
+[10］刘冰燕，陈云明，曹扬，吴旭.秦岭南坡东段油松人工林生态系统碳、氮储量及其分配格局.应用生态学报，2015，26(3）：643-652.  
+[11］程小琴,韩海荣，康峰峰.山西油松人工林生态系统生物量、碳积累及其分布.生态学杂志，2012,31（10)：2455-2460.  
+[12］王弋博，王春燕,李勃，杨东.甘肃省太子山林区植被恢复措施与土壤酶活性和肥力的相关性研究.兰州大学学报：自然科学版，2004，40(2) : 92-96.  
+[13］程堂仁，冯菁，马钦彦，王玉涛，康峰峰，冯忠科，张彦林，邓向瑞.甘肃小陇山森林植被碳库及其分配特征.生态学报，2008，28（1)：33-44.  
+[14]中国气象数据网.中国地面累年值月值数据集（1981-2010）.（2012-08-28）[2015-12-04].htp://ata.cma.cn/data/detail/dataCode/A.0029.0004.html.  
+［15］中国科学院南京土壤研究所.土壤理化分析.上海：上海科技出版社，1978：132-140.  
+[16］程堂仁，马钦彦，冯仲科，罗旭.甘肃小陇山森林生物量研究.北京林业大学学报，2007,29(1)：31-36.  
+[17] 李海奎，雷渊才，曾伟生.基于森林清查资料的中国森林植被碳储量.林业科学,2011,47（7)：7-12.  
+[18］周玉荣，于振良，赵士洞.我国主要森林生态系统碳贮量和碳平衡.植物生态学报，2000,24（50）：518-522.  
+[19] PostWM,KonKC.Solrboeqstrationdlauseageprsdotetial.oalngolog）7.  
+[20] 李克让，王绍强，曹明奎.中国植被和土壤碳贮量.中国科学(D辑)，2003，33(1)：72-80.  
+[21］孟蕾，程积民，杨晓梅，韩娟娟，范文娟，胡秀娟.黄土高原子午岭人工油松林碳储量与碳密度研究.水土保持通报，2010,30（2)：133- 137.  
+[22］王宁，王百田，王瑞君，曹晓阳,王文静，迟璐.山西省油松林生态系统碳密度与分配格局.应用基础与工程科学学报，2014，22(1)：58-68.  
+[23］马钦彦，谢征鸣.中国油松林储碳量基本估计.北京林业大学学报，1996，18（3)：31-34.  
+[24]FinerLaekoskiHanSarr.Carbrogolsiowhasreieorestinsteaddchanges associated with clear-cutting.Forest Ecology and Management，2003，174(1/3）：51-63.  
+[25]TandelM,KukadiaMU,KaeBIfuenceoftrecoverosicalproper-tisofsolIdianForester5（3）：4-44.  
+[26]LiuYC,uG,angQF,ZangYHoweperatureprecipitatondsandagecotrolteoasodesityfolatuetGlobal Ecology and Biogeography，2014，23：323-333.  
+27]Mehtasctdlccovers in Gujarat，India.Ecological research，2014,29(6）：1053-1063.  
+［28］张首军.油松纯林乔木层碳密度影响因子分析.山西林业科技，2012，41（3）：14-17.  
+[29]CenHuoeboodasslisfajofrttsiregateasteCd'slforests.Global Change Biology，2015，21（10）：3675-3684.  
+[30]WangGXangRYJFanJVaraosineiveoassdcarblsesgeogelogeevatiogdtTibetan Plaateau，China.Forest ecology and Management，2014，329：255-263.  
+[31]KiballJoadKugSroingSEateliotesingfasoalgogasofndubaevergreen forests.Remote Sensing of Environment，2004，90(2）：243-258.

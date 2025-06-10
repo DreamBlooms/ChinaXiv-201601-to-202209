@@ -1,0 +1,217 @@
+鸡、鸭、鹅对白酒糟和发酵白酒糟能量利用的比较研究田璐」李晓存²　周定方³李苗苗」李孟孟」翟双双」　张秀芬」杨 琳1\*王文策1\*朱勇文1\*
+
+（1.华南农业大学动物科学学院，广州5106422；2.河南华英农业发展股份有限公司，信阳464000；3.湖北高生生物科技有限公司，武汉 430000）
+
+摘要：本试验旨在评价白酒糟和发酵白酒糟的营养成分含量及鸡、鸭、鹅对其的仿生消化总能（SDGE）和代谢能（ME），分别利用仿生消化法和生物学法（排空强饲法）测定。结果表明：1)白酒糟中干物质、粗蛋白质、粗灰分和总磷含量分别为 $8 5 . 6 3 \%$ 、 $1 8 . 4 3 \%$ 、 $1 . 4 9 \%$ 和 $0 . 2 1 \%$ ，均显著低于发酵白酒糟中的 $8 9 . 1 5 \%$ 、 $2 4 . 7 5 \%$ 、 $2 . 3 7 \%$ 和 $0 . 3 8 \%$ ( $P { < } 0 . 0 5$ ）；白酒糟中粗脂肪和粗纤维含量分别为 $4 . 6 4 \%$ 和 $2 4 . 1 5 \%$ ，均显著高于发酵白酒糟中的 $3 . 6 1 \%$ 和$1 5 . 5 0 \%$ （ $P { < } 0 . 0 5$ ）。2）鸡、鸭、鹅对白酒糟的 SDGE 分别为11.15、11.54 和 $1 0 . 0 2 \mathrm { M J / k g }$ 均显著低于发酵白酒糟的11.86、12.23 和 $1 0 . 7 8 \mathrm { M J / k g }$ （ $. P { < } 0 . 0 5$ ）。3）樱桃谷肉鸭对白酒糟的表观代谢能（AME）为 $1 0 . 4 2 \mathrm { M J / k g }$ ，真代谢能（TME）为 $1 1 . 2 9 \mathrm { M J / k g }$ ，能量表观利用率为 $5 5 . 0 1 \%$ ，均显著高于杏花公鸡（AME 为 $8 . 1 3 \mathrm { M J / k g }$ ，TME为 $9 . 3 9 \mathrm { M J / k g }$ ，能量表观利用率为 $4 4 . 7 9 \%$ ）和四川白鹅（AME为 $8 . 2 0 \ \mathrm { M J / k g }$ ，TME为 $9 . 1 6 \ \mathrm { M J / k g }$ ，能量表观利用率为$4 3 . 9 1 \%$ ）（ $. P { < } 0 . 0 5$ ）；而杏花公鸡、樱桃谷肉鸭、四川白鹅对发酵白酒糟的 AME、TME、能量表观利用率和能量真利用率则无显著差异（ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。由此可见，发酵白酒糟中的粗蛋白质、总磷含量高于白酒糟，粗纤维含量低于白酒糟；鸡、鸭、鹅对发酵白酒糟的 SDGE均高于白酒糟；樱桃谷肉鸭对白酒糟的ME 高于杏花公鸡、四川白鹅；而杏花公鸡、樱桃谷肉鸭、四川白鹅对发酵白酒糟的 ME 则无差异。
+
+关键词：白酒糟；发酵白酒糟；鸡；鸭；鹅；酶解能；代谢能中图分类号：S816.11 文献标识码： 文章编号：
+
+我国是世界上家禽生产、消费第一大国，但我国饲料资源短缺问题日益严重，开发利用非常规饲料资源则是解决该问题的有效途径之一。据统计，近年来我国白酒糟年产量约 2000万t，储量丰富，且因其含有较高比例的原粮和高出玉米2\~3倍的粗蛋白质，适宜作为非常规畜禽饲料原料使用。在肉鸡饲粮可使用 $1 0 \% \sim 1 5 \%$ 的干酒糟及其可溶物（DDGS）[1-2]，肉鸭饲粮中可使用 $10 \%$ 以内的白酒糟[3-4]，肉鹅饲粮中可使用 $10 \%$ 以内的风干玉米酒糟[5]。但因白酒糟粗纤维含量较高，有效能值较低，影响其饲用价值。研究发现，发酵加工可提高白酒糟的饲用价值，发酵后粗蛋白质含量得到显著提高[6-8]，其中酱香型白酒糟发酵后粗蛋白质含量高达 $2 2 \% ^ { \mathrm { [ 9 ] } }$ ，且富含活性肽、酵母自融物、益生菌体、功能性蛋白质、免疫多糖和其他活性物质[10-1]，而且发酵后其鸡代谢能（metabolizable energy,ME）也得到了提高[12]。但目前关于白酒糟和发酵白酒糟的营养价值参数还比较缺乏，且不同家禽对饲料原料能量的利用比较研究尚未见报道。因此，本试验通过仿生消化法和生物学法评定鸡、鸭、鹅对白酒糟和发酵白酒糟的有效能值，并比较不同家禽对2种饲料原料的能量利用率，旨在丰富饲料原料营养数据，为实际生产中饲料原料的选择与评估提供参考。
+
+1材料与方法
+
+# 1.1 仿生消化法
+
+# 1.1.1 样品材料与设备
+
+白酒糟、发酵白酒糟购自湖北高生生物科技有限公司（来自江苏洋河大曲酒厂的白酒糟和经过接种 $0 . 3 \%$ 酿酒酵母在 $4 8 \% \sim 5 0 \%$ 水分、 $2 5 { \sim } 5 0 ~ \mathrm { ^ { \circ } C }$ 下发酵 $4 8 \sim 7 2 \mathrm { h }$ 后得到的发酵白酒糟）。
+
+# 1.1.2 模拟消化液及缓冲液的配制
+
+模拟胃液的配制：称取一定量胃蛋白酶（SigmaP7000），用 $\mathrm { p H } 2 . 0$ 的盐酸溶液溶解,定容到 $2 5 0 ~ \mathrm { m L }$ 容量瓶中，容量瓶中胃蛋白酶浓度为1 $4 7 5 \mathrm { U / m L }$ 。
+
+模拟肠液的配制：鸡、鸭和鹅组的胰蛋白酶（Amresco0458）分别为13.55、29.92和18.34kU，糜蛋白酶（Amresco0164）分别为3.11、10.73和 $3 . 0 9 \mathrm { k U }$ ，淀粉酶（SigmaA3306）分别为110.40、110.43和 $9 7 . 0 8 \mathrm { k U }$ ，混匀。
+
+模拟胃期缓冲液的配制：称取氯化钠 $| 2 . 1 7 \ \mathrm { g }$ 、氯化钾1.57g溶于 $2 0 0 0 \mathrm { m L }$ 烧杯中，加去离子水溶解，在一定温度（鸡 $4 0 . 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 、鸭 $4 1 . 0 \mathrm { ~ \textdegree C }$ 、鹅 $4 1 . 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ）下调节pH至2.0，冷却后定
+
+容至 $2 0 0 0 { \mathrm { m L } }$ 待用。
+
+模拟肠期小肠前段缓冲液的配制：鸡、鸭、鹅组分别称取氯化钠11.13、11.04和 $2 . 7 9 \ \mathrm { g }$ 氯化钾3.09、2.44和 $5 . 3 3 \ \mathrm { g }$ ，无水磷酸二氢钠40.09、39.78和 $4 1 . 6 9 \ \mathrm { g }$ ，无水磷酸氢二钠9.35、9.71和 $7 . 4 7 \ \mathrm { g }$ ，青霉素均为160万单位，用去离子水在磁力搅拌器（IKA）辅助下溶解于2000mL烧杯中，在一定温度（鸡 $4 0 . 5 ~ \mathrm { ^ \circ C }$ 、鸭 $4 1 . 0 \mathrm { { ^ \circ C } }$ 、鹅 $4 1 . 5 ~ \mathrm { ^ \circ C }$ ）下调节pH至分别为6.50、6.52、6.38。冷却后定容至 $2 0 0 0 { \mathrm { m L } }$ 待用。
+
+模拟肠期小肠后段缓冲液的配制：鸡、鸭组称取氯化钠10.03和 $9 . 9 4 ~ \mathrm { g }$ ，氯化钾2.79和2.20g，无水磷酸二氢钠6.77和 $7 . 9 1 \ \mathrm { g }$ ，无水磷酸氢二钠48.77和 $4 7 . 4 2 \ \mathrm { g }$ ，青霉素均为160万单位，用去离子水在磁力搅拌器（IKA）辅助下溶解于 $2 0 0 0 \mathrm { m L }$ 烧杯中，在一定温度（鸡 $4 0 . 5 \mathrm { ~ \ ^ ~ { \circ ~ } C ~ }$ 、鸭41.0℃）下调节pH至分别为7.99、7.91。冷却后定容至 $2 0 0 0 { \mathrm { m L } }$ 待用。
+
+# 1.1.3 仿生消化步骤
+
+试验前准备：将透析袋剪成 $2 5 \mathrm { c m }$ 左右的小段在2L的质量体积比为 $2 \%$ 碳酸氢钠和1mmol/L乙二胺四乙酸二钠（ $\mathrm { \cdot p H 8 . 0 \rangle }$ 的溶液中煮沸 $1 0 \mathrm { m i n }$ 。用蒸馏水彻底清洗，再放入 $\mathrm { \ p H } 8 . 0$ 的1mmol/L乙二胺四乙酸二钠的溶液中继续煮沸 $1 0 \mathrm { m i n }$ 。冷却后，连同乙二胺四乙酸二钠溶液一同保存于4℃下，使用前用去离子水冲洗3次。
+
+准备和上样：将胃缓冲液、肠段缓冲液放入单胃动物仿生消化系统的恒温水槽中，并将系统的管道与缓冲液瓶连接好。将处理好的透析袋横穿模拟消化管，两端外翻并用橡皮筋固定，用翻口硅胶塞将一端塞严。每只消化管的上样量1g，每个样品一共5只消化管（即5个重复）串联连接。
+
+胃模拟消化：透析袋中加入 $2 0 ~ \mathrm { m L }$ 模拟胃液，用翻口硅胶塞将消化管另一端塞紧后放入单胃动物仿生消化系统的恒温摇床中，串联接好缓冲液和酶液管道。
+
+肠模拟消化：胃中消化停留一段时间后（以体外养分消化率的稳定来判断消化结束，确定鸡 $6 \mathrm { { h } }$ ，鸭 $6 \mathrm { h }$ ，鹅6h），从加酶孔加小肠前段的酶即之前混匀的胰蛋白酶、糜蛋白酶、淀粉酶。
+
+消化残渣的处理：消化结束后（以体外养分消化率的稳定来判断消化结束，确定鸡19.5h，鸭 $1 9 . 5 \mathrm { h }$ ，鹅 $1 4 \mathrm { { h } }$ ），将透析袋内的未消化残渣无损失转移到已知绝干重量培养血中。将培养皿在65℃烘干后转移至105℃下烘至恒重。无损失的将培养皿中残渣刮下，转移至已知绝干重量的砂芯坩埚中，用无水乙醇冲洗残渣至滤出液无色。同时将带有残渣剩余物的培养血和带有脱脂未消化残渣的砂芯坩埚于 $1 0 5 ^ { \circ } \mathrm { C }$ 下烘至恒重。将砂芯坩蜗内脱脂未消化残渣的样品用无氮称量纸包好用热量计测定能值。同时将带有脱脂残渣剩余物的玻璃砂芯坩埚于105℃恒温箱内烘至恒重。
+
+# 1.2 生物学法
+
+# 1.2.1 试验饲粮的制备
+
+杏花公鸡、樱桃谷肉鸭、四川白鹅的试验饲粮各4组，第1组分别饲喂鸡全价饲粮、鸭全价饲粮、鹅全价饲粮，并作为基础饲粮，第2组为白酒糟替代 $30 \%$ 的全价饲粮，第3组为发酵白酒糟替代 $30 \%$ 全价饲粮，第4组为空腹组。
+
+# 1.2.2 试验动物及分组
+
+选择健康的杏花公鸡、樱桃谷肉鸭、四川白鹅各24只，按照平均体重每种动物随机分为4组，每组6个重复，每个重复1只动物。每只动物单独饲养于1个代谢笼中。
+
+# 1.2.3 代谢试验方法
+
+参照许万根等[13]报道的真代谢能（true metabolizable energy，TME）法，具体过程鸭参照陈朝江等[14]的方法，鹅参照盛东峰[15]的方法。鸡、鸭、鹅进笼后，适应期 $1 0 \mathrm { ~ d ~ }$ ，饲喂全价饲粮，预试期鸡5d，鸭、鹅3d，饲喂对应试验饲粮，禁食排空期鸡 $^ { 4 8 \mathrm { ~ h ~ } }$ ，鸭 $3 6 \mathrm { ~ h ~ }$ ，鹅24h（粪便收集时间的确定根据不同试禽消化道食糜完全排空时间来计算），其间断料不断水，禁食结束后进行强饲，每只鸡强饲 $4 0 \textrm { g }$ ，鸭、鹅 $6 0 \mathrm { ~ g ~ }$ 试验饲粮（强饲量的确定根据每天每只采食量的 $80 \%$ 计算，以及本试验室强饲量的试验来确定），强饲后马上装上集粪袋，记录强饲完成时间，按时间准确收集排泄物（鸡 $^ { 4 8 \mathrm { ~ h ~ } }$ ，鸭 $3 6 \mathrm { h }$ ，鹅 $2 4 \mathrm { h }$ ）。空腹组采用平行对照，除不强饲外，其余操作均相同。
+
+# 1.2.4排泄物的收集与处理
+
+强饲后收集粪便于瓷盘中，并添加 $10 \%$ 的盐酸以固氮，于 $6 5 ^ { \circ } \mathrm { C }$ 烘干至恒重，回潮 $2 4 \mathrm { h }$ 称重、记录，过40目筛，封口袋封存，于 $4 \mathrm { { ^ \circ C } }$ 保存，待测。
+
+# 1.3 测定指标和方法
+
+测定白酒糟、发酵白酒糟的总能及水分、粗蛋白质、钙、磷、粗纤维、粗灰分、粗脂肪含量；代谢试验粪样的总能利用HWR-15C 自动快速热量计测定；仿生消化残渣的总能利用
+
+# HWR-15C自动快速热量计测定。
+
+# 1.4计算方法
+
+表观代谢能（apparent metabolic energy，AME， $\mathbf { M J } / \mathbf { k g } ) = \left\{ \begin{array} { l l } { \begin{array} { r l r } \end{array} } \end{array} \right.$ [摄入饲粮总能（J）一排泄物总  
+能（J）]/摄入饲粮总量 $( \mathbf { g } ) \ \} \times 1 0 ^ { - 3 }$ ：  
+TME( $\mathbf { \nabla } \cdot \mathbf { M J } / \mathbf { k g } ) = \left\{ \begin{array} { r l } \end{array} \right.$ [摄入饲粮总能（J）一排泄物总能（J） $^ +$ 内源排泄物总能（J）]/摄入饲粮  
+总量 $( \mathbf { g } ) \ \} \times 1 0 ^ { - 3 }$ ;  
+原料AME（MJ/kg） $\scriptstyle = [$ 混合料AME（ $\mathrm { \ : M J / k g } ^ { \mathrm { \prime } }$ ）一基础料AME（ $\bf { M J / k g }$ ） $\times$ 基础料在混合料中  
+的比例]/原料在混合料中的比例;  
+原料TME（MJ/kg） $\scriptstyle = [$ 混合料TME（ $\mathbf { M J / k g } { \mathrm { . } }$ ）一基础料TME（MJ/kg） $\times$ 基础料在混合料中  
+的比例]/原料在混合料中的比例;  
+仿生消化总能（simulative digestion of gross energy，SDGE，MJ/kg） $\scriptstyle = [$ 饲粮总能（MJ）一残  
+渣总能（MJ）]/饲粮质量（kg）；  
+仿生总能消化率（simulative digestibility of gross energy，SYGE， $\%$ ） $\scriptstyle = [$ 饲粮总能（MJ）一  
+残渣总能（MJ）J/[饲粮质量（kg） $\times$ 饲粮总能（MJ） $] \times 1 0 0$ 。
+
+# 1.5 数据处理
+
+数据经Excel2007整理和初步处理后，采用 SPSS19.0统计软件对鸡、鸭、鹅3种动物间的数据进行单因素方差分析（one-way ANOVA），并进行Duncan 氏法多重比较，而白酒糟、发酵白酒糟2种饲料原料间的数据进行独立样本 $t$ 检验，统计显著水平为 $P { < } 0 . 0 5$ ，试验结果用平均值±标准误表示。
+
+# 2结果
+
+2.1白酒糟、发酵白酒糟的常规营养成分
+
+由表1所示，发酵白酒糟的大部分常规营养成分含量不同程度高于白酒糟。其中白酒糟中的干物质、粗蛋白质、粗灰分、总磷含量分别为 $8 5 . 6 3 \%$ 、 $1 8 . 4 3 \%$ 、 $1 . 4 9 \%$ 、 $0 . 2 1 \%$ ，均显著低于发酵白酒糟中的 $8 9 . 1 5 \%$ 、 $2 4 . 7 5 \%$ 、 $2 . 3 7 \%$ 、 $0 . 3 8 \%$ （ $P { < } 0 . 0 5$ ）；白酒糟中的粗脂肪、粗纤维含量分别为 $4 . 6 4 \%$ 、 $2 4 . 1 5 \%$ ，均显著高于发酵白酒糟中的 $3 . 6 1 \%$ 、 $1 5 . 5 0 \%$ （ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5$ ）。
+
+表1白酒糟、发酵白酒糟常规营养成分含量(干物质基础)  
+Table 1Nutrient contents of distiller's grains and fermented distiller's grains (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td>白酒糟Distiller's grains</td><td>发酵白酒糟 Fermented distiller's grains</td></tr><tr><td>干物质DM/%</td><td>85.63±0.09a</td><td>89.15±0.13b</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>18.99±0.03</td><td>19.51±0.13</td></tr><tr><td>粗蛋白质CP/%</td><td>18.43±0.19a</td><td>24.75±0.34b</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>3.61±0.11a</td></tr><tr><td>粗脂肪EE/%</td><td>4.64±0.11b</td><td></td></tr><tr><td>粗灰分 Ash/% 钙 Ca/%</td><td>1.49±0.11a</td><td>2.37±0.18b</td></tr><tr><td></td><td>0.36±0.01</td><td>0.38±0.01</td></tr><tr><td>总磷 TP/%</td><td>0.21±0.01a</td><td>0.38±0.01b</td></tr><tr><td>粗纤维 CF/%</td><td>24.15±0.26b</td><td>15.50±0.49a</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ ）。
+
+In the same row, values with different small letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ 1：
+
+# 2.2鸡、鸭、鹅对白酒糟、发酵白酒糟的仿生消化试验
+
+由表2所示，鸡、鸭、鹅对2种原料的SDGE均有显著差异（ $. P { < } 0 . 0 5 ^ { \cdot }$ ），白酒糟分别比发酵白酒糟显著降低了 $5 . 9 8 \%$ 、 $5 . 6 4 \%$ 、 $7 . 0 5 \%$ 。鸡、鸭、鹅对白酒糟和发酵白酒糟的SDGE、和 SYGE 均是鸡、鸭显著高于鹅（ $_ { . } P { < } 0 . 0 5$ ）。
+
+# 表2鸡、鸭、鹅对白酒糟、发酵白酒糟 SDGE和SYGE的比较
+
+cocks,ducksand geese
+
+Table 2 Comparison of SDGE and SYGE of distiller's grains and fermented distiller's grains of   
+
+<html><body><table><tr><td>项目Items</td><td>原料 Material</td><td>鸡Cocks</td><td>鸭Ducks</td><td>鹅Geese</td></tr><tr><td></td><td>白酒糟</td><td>11.15±0.15Ab</td><td>11.54±0.10Ab</td><td>10.02±0.22Bb</td></tr><tr><td>仿生消化总能 SDGE/(MJ/kg)</td><td>Distiller's grains 发酵白酒糟</td><td></td><td></td><td></td></tr><tr><td></td><td>Fermented distiller's grains</td><td>11.86±0.15Aa</td><td>12.23±0.10Aa</td><td>10.78±0.11Ba</td></tr><tr><td>仿生总能消化</td><td>白酒糟</td><td>58.72±0.77A</td><td>60.79±0.51Ab</td><td></td></tr><tr><td>率</td><td>Distiller's grains</td><td></td><td></td><td>52.78±1.18B</td></tr><tr><td></td><td>发酵白酒糟</td><td></td><td></td><td></td></tr><tr><td>SYGE/%</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60.82±0.76A</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>62.69±0.52Aa</td><td>55.25±0.54B</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Fermented distiller's grains</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标不同大写字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ ），相同大写字母表示差异不显著（ $P { > } 0 . 0 5$ ）。同列数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ ），相同小写字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row,values with different capital letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ )，while with the same capital letter superscripts mean no significant difference ( $P { > } 0 . 0 5$ ). In the same column,values with different small letter superscripts mean significant difference $\cdot P { < } 0 . 0 5$ )，while with the same small letter superscripts mean no significant difference ${ \mathrm { \Delta } P } { > } 0 . 0 5$ ).The same as bellow.
+
+2.3杏花公鸡、樱桃谷肉鸭、四川白鹅对白酒糟、发酵白酒糟的代谢试验
+
+由表3所示，杏花公鸡对白酒糟、发酵白酒糟的AME、TME、能量表观利用率、能量真利用率有显著差异（ $. P { < } 0 . 0 5 .$ ），白酒糟分别比发酵白酒糟降低了 $2 0 . 2 9 \%$ 、 $1 8 . 0 6 \%$ 、 $1 6 . 6 3 \%$ 和 $1 4 . 7 0 \%$ ；而樱桃谷肉鸭和四川白鹅对白酒糟、发酵白酒糟的 AME、TME、能量表观利用率、能量真利用率则无显著差异（ $. P { > } 0 . 0 5$ ）。杏花公鸡、樱桃谷肉鸭、四川白鹅对白酒糟的AME、TME、能量表观利用率均是樱桃谷肉鸭显著高于杏花公鸡、四川白鹅（ $P { < } 0 . 0 5 \mathrm { { ) } }$ ）；而杏花公鸡、樱桃谷肉鸭、四川白鹅对发酵白酒糟的AME、TME、能量表观利用率、能量真利用率均无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表3杏花公鸡、樱桃谷肉鸭、四川白鹅对白酒糟、发酵白酒糟ME及能量利用率的比较 Table 3 Comparison of ME,energy available of distiller's grains and fermented distiller's grains of Xinghua cocks, Cherry Valley ducks and Sichuan white geese   
+
+<html><body><table><tr><td>项目 Items</td><td>原料</td><td>杏花公鸡</td><td>樱桃谷肉鸭</td><td>四川白鹅</td></tr><tr><td rowspan="4">表观代谢能 AME/(MJ/kg)</td><td>Material 白酒糟</td><td>Xinghua cocks</td><td>Cherry Valley ducks</td><td>Sichuan white geese</td></tr><tr><td>Distiller's grains</td><td>8.13±0.35Bb</td><td>10.42±0.65A</td><td>8.20±0.86B</td></tr><tr><td>发酵白酒糟 Fermented distiller's grains</td><td>10.20±0.18a</td><td>10.66±0.40</td><td>10.10±0.59</td></tr><tr><td>白酒糟</td><td></td><td></td><td></td></tr><tr><td>真代谢能</td><td>Distiller's grains</td><td>9.39±0.35Bb</td><td>11.29±0.65A</td><td>9.16±0.86B</td></tr><tr><td>TME/(MJ/kg)</td><td>发酵白酒糟</td><td>11.46±0.18a</td><td>11.53±0.40</td><td>11.06±0.59</td></tr><tr><td></td><td>Fermented distiller's grains</td><td></td><td></td><td></td></tr><tr><td>能量表观利用率</td><td>白酒糟</td><td>44.79±1.88Bb</td><td>55.01±3.46A</td><td>43.91±4.68B</td></tr></table></body></html>
+
+<html><body><table><tr><td>Energy apparent Distiller's grains</td><td></td></tr><tr><td>available/% 发酵白酒糟</td><td>51.38±3.13</td></tr><tr><td></td><td></td></tr><tr><td>53.73±1.20a</td><td>53.72±2.08</td></tr><tr><td>Fermented distiller's grains</td><td></td></tr><tr><td>白酒糟</td><td></td></tr><tr><td>能量真利用率 51.60±1.88b</td><td>59.64±3.46 49.08±4.68</td></tr><tr><td>Distiller's grains</td><td></td></tr><tr><td>Energy true</td><td></td></tr><tr><td>发酵白酒糟</td><td></td></tr><tr><td>60.49±1.20a</td><td>58.16±2.08 56.33±3.13</td></tr><tr><td>available/%</td><td></td></tr><tr><td>Fermented distiller's grains</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1白酒糟、发酵白酒糟的常规营养成分分析
+
+郭素环等[16]研究发现，白酒糟发酵后干物质和粗蛋白质含量分别比未发酵白酒糟提高了$2 . 8 0 \%$ 和 $5 0 . 9 0 \%$ ，分别达到 $9 5 . 3 1 \%$ 和 $2 3 . 2 0 \%$ 。焦肖飞等[17]研究发现，白酒糟发酵后粗蛋白质含量达 $3 2 . 0 9 \%$ ，粗纤维含量降低到了 $1 7 . 6 6 \%$ 。酒糟发酵后粗蛋白质、钙、磷含量显著升高，粗纤维含量显著降低[18-19]。本试验结果与上述前人研究结果一致，白酒糟在发酵后干物质含量显著提高，不易发霉变质，更加利于保存，粗蛋白质、总磷含量显著提高，粗纤维含量显著降低。原因可能是，黄孢原毛平革菌降解白酒糟中的木质素[20-211，或者发酵使外源蛋白氮转化为菌体蛋白[22]，从而提高粗蛋白质含量。但是由于不同厂家或者相同厂家不同生产批次的白酒糟的酿酒原料品种，酿酒填充辅料的种类、质量和生产季节等不同而白酒糟的营养成分不同，发酵白酒糟的工艺不同营养成分也会不同[23-24]，所以本试验结果与前人研究报道的白酒糟、发酵白酒糟的营养成分不完全相同，但是白酒糟在发酵处理后营养成分都得到了优化。
+
+# 3.2鸡、鸭、鹅对白酒糟、发酵白酒糟的仿生消化试验
+
+SDGE 是动物能量需要量、饲料营养价值评定的重要指标。郑卫宽[25研究发现，棉籽粕SDGE 达到了体外生物学法 TME 要求。刘雨田[26]在鸡对10个棉籽粕样品和10个豆粕样品的仿生消化试验中，发现用 SDGE 估测体外生物学法TME 有较高的准确性和分辨率，所以SDGE 可用于估测生物学法 TME。本试验结果显示，白酒糟在发酵后，鸡、鸭、鹅对其的SDGE 均显著升高。由于仿生消化法这方面的研究不多，但生物学法一些研究结果正说明了这点，饲粮粗纤维水平越高，动物对饲粮的ME 越低[27]；在DDGS中添加复合酶后TME 得到了提高[28]；添加非淀粉多糖（NSP）酶可以提高小麦、玉米、豆粕、麦麸对鸡的ME[29-30]。另外本试验结果显示，鸡、鸭对2种原料的SDGE 均显著高于鹅，原因可能是仿生消化法关于鹅的酶谱不完善。
+
+3.3杏花公鸡、樱桃谷肉鸭、四川白鹅对白酒糟、发酵白酒糟代谢试验
+
+ME 是家禽对能量需要量的研究和饲料营养价值评定的重要指标，客观精确地评定饲料的 ME可以优化饲料配方。Cherbut 等[31研究发现，未发酵白酒糟中较高的粗纤维含量导致食糜在消化道中停留时间短，养分未充分消化吸收而降低了养分消化率。夏先林等[12]将白酒糟分离谷壳后，粗纤维含量降低，粗蛋白质含量提高，鸡的ME 也得到提高，这些与本试验结果中杏花公鸡对白酒糟的AME、TME、能量表观利用率、能量真利用率显著低于发酵白酒糟一致。另外本试验结果显示，樱桃谷肉鸭、四川白鹅对2种原料的AME、TME、能量表观利用率、能量真利用率无显著差异，原因可能是鸡属于鸡形目，但鸭、鹅属于雁形目，都是水禽，在进化过程中三者生活环境、食物来源有所差别，故在生长速度、生物体构成、消化道组织结构和消化生理方面都不同。樊红平[32研究发现，由于鸭的肠绒毛比鸡的短，肠道肌肉层比鸡的发达，故鸡和鸭对营养物质的利用存在差异。动物在应激状况下会降低对各种营养物质的利用率，而鹅对外界环境变化比鸡敏感；鹅对鱼粉、菜籽粕的TME 低于鸡[33]。与仿生消化试验结果相比较，樱桃谷肉鸭和四川白鹅对白酒糟、发酵白酒糟的利用无显著差异的原因可能是：仿生消化酶仅由蛋白酶、淀粉酶组成，而生物学法中樱桃谷肉鸭、四川白鹅肠道内酶种类丰富，例如肠黏膜分泌的肽酶，胰腺分泌的胰肽酶均可促进动物对白酒糟的利用。
+
+宋代军等[34]研究发现，肉鸭对18 种植物性饲料的 TME 大部分大于肉鸡。施用晖等[35]研究发现，鸭对 21种饲料的AME 大部分高于鸡。李杰等[36研究发现，鸡和鹅对小麦麸的AME 基本相同。以上结果均与本试验结果相一致，杏花公鸡、樱桃谷肉鸭、四川白鹅对白酒糟的AME、TME、能量表观利用率有显著差异，均是樱桃谷肉鸭显著高于杏花公鸡、四川白鹅。另外本试验结果显示，杏花公鸡、樱桃谷肉鸭、四川白鹅对发酵白酒糟的 AME、TME、能量表观利用率、能量真利用率均无显著差异，区别于仿生消化试验结果，原因一方面可能是四川白鹅肌胃较发达，盲肠也很发达，可较好利用发酵白酒糟中的粗纤维；另一方面可能是生物学法中纤维的消化可为机体提供部分能量，而仿生消化法测得能值中缺乏这
+
+部分纤维提供的能量。
+
+# 4结论
+
+$\textcircled{1}$ 发酵白酒糟中的粗蛋白质、总磷含量高于白酒糟，粗纤维含量低于白酒糟$\textcircled{2}$ 鸡、鸭、鹅对发酵白酒糟的SDGE均高于白酒糟。
+
+$\textcircled{3}$ 樱桃谷肉鸭对白酒糟的 ME 高于杏花公鸡、四川白鹅对白酒糟的 ME；而杏花公鸡、樱桃谷肉鸭、四川白鹅对发酵白酒糟的 ME 则无差异。  
+参考文献:  
+[1] LUMPKINS B S,BATAL A B,DALE N M.Evaluation of distillrs dried grains with solubles asa feed ingredient for broilers[J].Poultry Science,2004,83(11):1891-1896.  
+[2] YOUSSEF I M,WESTFAHL C,SUNDER A,et al.Evaluation of dried distillers’ grains withSolubles(DDGS）asaprotein source forbroilers[J].ArchivesofAnimalNutrition,2008,62(5):404-414.  
+[3]方园,夏先林,方福平,等.白酒糟饲喂三穗鸭的增重及饲料转化效果[J].贵州农业科学,2014,42(3):102-104.  
+[4] 郭志强,宋代军,顾维智,等.玉米 DDGS 饲喂肉鸭的营养价值研究[J].饲料工业,2008,28(19):36-38.  
+[5]宿颜贵,刘凤翥,张玉杰.玉米酒糟饲喂肉鹅试验[J].中国畜牧杂志,1996(6):45.  
+[6] 祖国仁,刘阳,陈辉,等.利用白酒糟生产高蛋白饲料的研究[J].大连轻工业学院学报,1999(1):44-47.  
+[7] 张博润,刘伟平,刘玉方,等.发酵白酒糟生产饲料蛋白的优良菌种的筛选[J].微生物学报,1997(2):130-134.  
+[8] 刘廷志,田胜艳,丁友昉.酒糟单细胞蛋白饲料的研究[J].广东化工,1999(2):80-82.  
+[9]龙茜萍,王晓丹,谭静,等.酱香型白酒丢糟发酵生产酵母饲料添加剂的研究[J].中国酿造,2014,33(1):40-43.  
+[10] 鲁文普,杨玉能.酒糟的饲料化利用概况[J].贵州畜牧兽医,2009,33(4):9-10.  
+[11]孙小琴.啤酒糟饲料的加工与利用[J].粮食与饲料工业,2000(5):20-21.  
+[12]夏先林,汤丽琳,李谦,等.不同谷壳分离方法对酒糟营养价值的影响[J].中国畜牧杂
+
+志,2002,38(2):31-32.
+
+[13]许万根,计成,戎易,等.应用 Sibbald"TME"方法测定鸡饲料氨基酸利用率的研究[J].饲料工业,1992(8):7-10.  
+[14] 陈朝江,侯水生,高玉鹏.鸭饲料表观代谢能和真代谢能值测定[J].中国饲料,2005(5):7-9.[15] 盛东峰.鹅代谢能生物学评定方法的研究[D].硕士学位论文.扬州:扬州大学,2005:10 - 23.[16] 郭素环,周碧君,文明,等.白酒糟发酵菌种组合的筛选[J].饲料工业,2012,33(15):17-21.[17] 焦肖飞,刘建学,韩四海,等.复合菌生物转化白酒糟发酵条件的优化[J].食品科学,2015,36(17):164-168.  
+[18]卢向阳,饶力群,彭丽莎,等.酒糟单细胞蛋白饲料生产技术研究[J].湖南农业大学学报:自然科学版,2001,27(4):317-320.  
+[19] 侯文华,李政一,杨力,等.复合菌种协同发酵酒糟生产饲料蛋白研究[J].环境科学,1999,20(2):65-67.  
+[20] 王立志,赵碧刚,王之盛.黄孢原毛平革菌降解白酒糟中木质素的影响因素[J].四川农业大学学报,2009,27(2):203-207.  
+[21] 吴丹,王之盛,薛白,等.不同加工方法对白酒糟营养价值和体外瘤胃发酵的影响[J].动物营养学报,2011,23(8):1422-1429.  
+[22] 刘军,牛广杰,孙东伟.混合菌种协同发酵酒糟生产菌体饲料蛋白的研究[J].酿酒科技,2009(9):116-118.  
+[23] BELYEA R L,RAUSCH K D,TUMBLESON M E.Composition of corn and distillers driedgrainswithsolublesfromdrygrindethanolprocesing[J].BioresourceTechnology,2004,94(3):293-298.  
+[24] RAUSCH K D,BELYEA R L.The future of coproducts from corn processing[J].AppliedBiochemistry and Biotechnology,2006,128(1):47-86.  
+[25]郑卫宽.用仿生消化仪测定棉粕鸭真代谢能值的研究[D].硕士学位论文.北京:中国农业科学院,2009:34.  
+[26]刘雨田.基于仿生消化系统的酶法测定鸡蛋白质饲料代谢能值的研究[D].硕士学位论文.杨凌:西北农林科技大学,2010:30.
+
+[27] VILLAMIDE M J,SAN JUAN L D.Effect of chemical composition of sunflower seed meal on its true metabolizable energy and amino acid digestibility[J].Poultry Science,1998,77(12):1884-1892.
+
+[28] 鲍淑青,王敏,史宝军.复合酶对新型饲料原料 DDGS 粗蛋白、能量和干物质利用率的影响[J].饲料工业,2008,29(10):15-16
+
+[29] 陈小玲,陈代文,张克英,等.酶制剂对不同饲料原料营养价值的互作效应模型研究[C]//中国畜牧兽医学会动物营养学分会一一第九届学术研讨会论文集.重庆:中国畜牧兽医学会,2004.
+
+[30] 陈小玲.酶制剂对不同饲料原料营养价值的互作效应模型研究[D].硕士学位论文.雅安.四川农业大学,2004:37.
+
+[31] CHERBUT C,AUBE A C,MEKKI N,et al.Digestive and metabolic effects of potato and maize fibres in human subjects[J].The British Journal of Nutrition,1997,77(1):33-46.
+
+[32] 樊红平.鸡鸭对饲料养分消化作用的比较研究[D].硕士学位论文.北京:中国农业科学院,2003:2.
+
+[33] 吴梦琴.真代谢能法测定鹅对几种饲料代谢能、氨基酸、粗纤维的消化利用率的研究[D].  
+硕士学位论文.南宁：广西大学,2006:40-41.
+
+[34] 宋代军,王康宁,曾静康,等.肉鸭肉鸡常用植物饲料 TME 的比较研究[J].西南农业大学学报,2000,22(2):134-136.
+
+[35] 施用晖,张慎容,乐国伟.鸭饲料代谢能测定方法的研究:I.鸭 TME 测定的消化道排空期和排泄物收集期[J].四川农业大学学报，1993(3):377-387.
+
+[36] 李杰,李凌.家禽饲料代谢能的研究——V.日粮和小麦麸对鸡和水禽代谢能的比较[J].东北农学院学报,1984(3):91-95
+
+# Comparison on Energy Available in Distiller's Grains and Fermented Distiller's Grains of Cocks,
+
+# Ducks and Geese
+
+TIAN ${ \mathrm { L u } } ^ { 1 }$ LI Xiaocun² ZHOU Dingfang³LIMiaomiaolLI Mengmeng1ZHAI
+
+Shuangshuang1ZHANG Xiufen1YANG Lin1\* WANG Wencel\* ZHU Yongwen1\* (1. College of Animal Science, South China Agriculture University, Guangzhou 510642, China; 2.
+
+Henan Huaying Agriculture development Co., Ltd., Xinyang 464Ooo, China; 3. Hubei High
+
+Biological TechnologyCo.,Ltd.,Wuhan430oOO,China)
+
+Abstract: This experiment was conducted to study the nutrient contents in distiller's grains and fermented distiller's grains,and determined the simulative digestion of gross energy (SDGE) and metabolizable energy (ME) of distiller's grains and fermented distiller's grains of cocks,ducks and geese used simulated digestion method and biological method（emptying and gavage） .The results showed as follows: 1) the contents of dry matter $( 8 5 . 6 3 \% )$ , crude protein（ $1 8 . 4 3 \% )$ ，ash （20 $( 1 . 4 9 \% )$ ）and total phosphorus $( 1 . 4 9 \% )$ ） in distiller's grains were significantly lower than the contents of dry matter $( 8 9 . 1 5 \% )$ ，crude protein（ $2 4 . 7 5 \%$ ），ash $( 2 . 3 7 \%$ ）and total phosphorus 0 $( 0 . 3 8 \% )$ ）in fermented distiller's grains $( P { < } 0 . 0 5 )$ . The contents of crude fat and crude fiber in distiller's grains were $4 . 6 4 \%$ and $2 4 . 1 5 \%$ ,respectively,which were significantly higher than the contents of crude fat $( 3 . 6 1 \% )$ and crude fiber $( 1 5 . 5 0 \% )$ in fermented distiller's grains $( P { < } 0 . 0 5 )$ . 2) The SDGE of distiller's grains in cocks,ducks and geese were 11.15,11.54 and $1 0 . 0 2 ~ \mathrm { M J / k g }$ respectively，which were significantly lower than the SDGE of fermented distillr's grains in cocks $( 1 1 . 8 6 \mathrm { M J / k g ) }$ ,ducks $( 1 2 . 2 3 \mathrm { M J / k g ) }$ and geese $( 1 0 . 7 8 ~ \mathrm { M J / k g ) }$ （ $P { < } 0 . 0 5 )$ ）.3）The apparent metabolizable energy（AME）was $1 0 . 4 2 \mathrm { M J / k g }$ ,the true metabolizable energy(TME）was 11.29 $\bf { M J / k g }$ ，the energy apparent available was $5 5 . 0 1 \%$ of distiller's grains in Cherry Valley ducks, which were significantly higher than the AME $( 8 . 1 3 \mathrm { M J / k g } )$ ,TME $( 9 . 3 9 \mathrm { M J / k g } )$ , energy apparent available $( 4 3 . 9 1 \% )$ of distiller's grains in Xinghua cocks and the AME $( 8 . 2 0 ~ \mathrm { M J / k g ) }$ ,TME (9.16 $\bf { M J / k g } )$ , energy apparent available $( 4 4 . 7 9 \% )$ of distiller’s grains in Sichuan white geese ( $_ { . } { \cal P } { < } 0 . 0 5 )$ ： The AME,TME,energy apparent available and energy true available of fermented distiller's grains in Cherry Valley ducks, Xinghua cocks and Sichuan white geese were no significantly differences( $. P { > } 0 . 0 5 )$ ）.In conclusion,the contents of crude protein and total phosphorus in fermented distiller's grains are higher than those in distiller's grains,and the crude fiber content is lower than that in distiller's grains.The SDGE of fermented distiller's grains in cocks,ducks and geese is higher than that of distiller's grains. The ME of distiller's grains in Cherry Valley ducks is higher than that of distiller's grains in Xinghua cocks and Sichuan white geese. The ME of fermented distiller's grains is no efect in Cherry Valley ducks, Xinghua cocks and Sichuan white geese.
+
+Key Words: distiller's grains; fermented distiller's grains; cocks; ducks; goose; SDGE; ME

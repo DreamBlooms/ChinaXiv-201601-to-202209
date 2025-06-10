@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "动态环境下基于人工势场引导的RRT路径规划算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "司徒华杰，雷海波，庄春刚(上海交通大学 机械与动力工程学院，上海 200240)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：现有的大多数动态RRT路径规划算法不能使规划的路径远离障碍物，这有可能导致机器人没有足够的避障时间。针对这个问题，提出了一种利用人工势场引导快速扩展随机树向目标区域生长并远离障碍物的改进RRT算法APFG-RRT(artificial potential fieldguidedRRT)。然后，为了进一步加快算法的收敛速度，加速算法跳出局部极小值，引入了一种按自适应概率选择目标点作为采样点的策略。最后，针对动态环境采用全局规划结合局部重新规划的方法，以提高算法的实时性。仿真实验表明，相比于初始RRT和Goal-bias RRT，APFG-RRT的计算效率更高，内存需求更小，并且搜索到的路径能够有效地远离障碍物，提高了动态路径规划的成功率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：路径规划；RRT；人工势场；动态环境；局部重新规划 中图分类号：TP242 doi:10.19734/j.issn.1001-3695.2020.02.0044 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Artificial potential field based RRT algorithm for path planning in dynamic environment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Situ Huajie, Lei Haibo, Zhuang Chungang (School ofMechanical Engineering,Shanghai Jiao Tong University,Shanghai 20o240,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Most of the existing dynamic RRTpath planning algorithms cannot keep the planned path away from obstacles, which maycause therobottohave insuficient time toavoidobstacles.Tosolvethis problem,thispaperproposedan improved RRT,denotedas APFG-RRT,which utilizedArtificial PotentialFields to guide theRRTgrow to goalandaway fromobstacles. Then,inorder tofurther increase theconvergencerateand speedupthe jumpoutoflocal minima,ititroducedastrategyof selecting the goalas therandomsampleatanadaptiveprobability.Finally,itadopted globalplanningcombined withlocal replanning to improve its real-time performance in dynamic environment. Simulation experiments show that APFG-RRThas higher computational eficiencyand lower memoryrequirements compared with theinitial RRTand Goal-bias RRT,and the given path can be effectively away from obstacles, which improves the success rate of dynamic path planning. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: path planning; RRT; artificial potential fields; dynamic environments; local replanning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "路径规划是在给定的环境下寻找一条从初始位置到目标位置的无碰撞路径的过程，其在机器人系统[I]、医学[2]、计算机动画[3]、现代工业等众多领域应用广泛。根据对环境信息的掌握程度不同，路径规划可以分为全局路径规划和局部路径规划。局部路径规划算法有神经网络[4]、人工势场法[5]、遗传算法[等，其中人工势场法因其算法简单、实时性好、规划的路径平滑等优点而受到广泛关注。但人工势场法在规划路径时可能会陷入局部极小值，并且容易在目标点附近发生震荡，这大大限制了它的实际应用。全局路径规划的方法有蚁群算法[7]、RRT、可视图法[8]等，其中概率路标法[9]和RRT通过随机采样快速探索构型空间，有很高的计算效率，且具有概率完备性，即当规划的时间趋向于无穷时，算法找到一条可行路径的概率趋向于1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了进一步提高RRT的收敛速度，许多研究人员在RRT的基础上进行改进。Kalisiak等人提出RRT-blossom[1o]，用回归约束函数生成新节点，降低随机树前期重复探索同一区域的概率；Shkolnik等人用超球体代替原来无体积的节点发展了BallTree[1]，通过拒绝节点内的采样点使随机树专注于搜索还未探索的区域;Lavalle等人提出了BidirectionalRRT[12],通过在初始位置和目标位置同时扩展随机树来加速探索速度：随后Lavalle还提出用目标点信息引导随机树偏向目标点生长的Goal-biasRRT[13]；周芳等人引入贪婪生长的策略[14]，每次生长采用尽可能大的步长，从而快速覆盖更多区域。但上面提到的算法都没有利用环境信息，为了引进环境信息对RRT的引导，一些研究人员探索了将RRT与人工势场结合的方法。文献[15,16]通过切换两种算法将两者结合起来：当人工势场法规划路径陷入局部极小值时切换至RRT规划，而当跳出局部极小值时再切换回人工势场法；文献[17,18]提出将随机采样点向目标点方向偏移的改进RRT\\*算法，偏移量与采样点和障碍物之间的最小距离相关，隐性地引入了斥力的大小；文献[19]将文献[18]的算法扩展到B-RRT\\*中。由于这些算法是基于RRT\\*进行改进，它们致力于搜索最优路径，实时性较差，不适用于实时性要求较高的动态路径规划。并且这些算法也不适合直接移植到只需规划出一条路径的动态RRT算法中，因为这些算法利用引力场和斥力的大小对采样点进行偏移，当随机树上节点较少时，采样点一般与待生长节点距离较远，采样点周围的势场不能表示待生长节点周围的环境信息，斥力对算法的引导作用较小，只有当随机树节点在搜索空间密集分布时，采样点周围的势场才近似等于待生长节点周围的势场。而且这些算法没有引入斥力的方向，这只能减缓随机树向障碍物的生长，而不能使随机树远离障碍物，这有可能使规划的路径贴近动态障碍物表面而有发生碰撞的危险。除此之外，这些算法的生长步长都是固定的，无法适应不同的局部环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了克服上述问题，本文提出了用势场引导待生长节点生长的改进RRT动态路径规划算法—一APFG-RRT，利用构造的引力势场和斥力势场使随机树向目标靠近的同时远离障碍物，并且在不同的局部环境下拥有自适应的生长步长。同时，本文提出了一种自适应概率采样的偏向生长策略，大大减少算法在局部极小值区域的重复计算，并针对动态环境使用了局部重新规划的策略。仿真实验表明，与原本的RRT和Goal-biasRRT相比，APFG-RRT在包括狭窄和动态环境在内的各种环境下都有更高的计算效率和更少的节点数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 人工势场法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工势场法是由Khatib提出的一种虚拟力法。它在机器人周围环境建立一个目标区域势能最小的虚拟势场，利用梯度下降引导机器人到达目标区域。具体为在目标区域构建一个引力势场 $U _ { a t t }$ ，并在障碍物区域构建一个斥力势场 $U _ { r e p }$ ，使得机器人被吸引向目标区域而被障碍物区域排斥。引力势函数和引力函数通常为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { a t t } = \\left\\{ \\begin{array} { c c } { \\displaystyle { \\frac { 1 } { 2 } K _ { a } d ^ { 2 } \\left( x , x _ { g o a l } \\right) } } & { d ( x , x _ { g o a l } ) > d _ { g } ^ { \\ast } } \\\\ { K _ { a } ( d _ { g } ^ { \\ast } d ( x , x _ { g o a l } ) - \\displaystyle { \\frac { 1 } { 2 } d _ { g } ^ { \\ast 2 } } ) } & { d ( x , x _ { g o a l } ) \\leq d _ { g } ^ { \\ast } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { a t t } = \\left\\{ \\begin{array} { c c } { - K _ { a } ( x - x _ { g o a l } ) } & { \\qquad d ( x , x _ { g o a l } ) > d _ { g } ^ { \\ast } } \\\\ { - K _ { a } d _ { g } ^ { \\ast } \\displaystyle \\frac { x - x _ { g o a l } } { d ( x , x _ { g o a l } ) } } & { \\qquad d ( x , x _ { g o a l } ) \\leq d _ { g } ^ { \\ast } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $K _ { a }$ 为引力常数， $x$ 和 $x _ { g o a l }$ 分别为机器人控制点位置和目标位置， $d ( \\cdot )$ 表示两个位置之间的欧氏距离，为设定的距离阈值。当机器人控制点与目标点距离大于 $d _ { g } ^ { * }$ 时，引力势能与距离的二次方成正比，使机器人快速向目标点靠近；当控制点与目标点距离小于 $d _ { g } ^ { * }$ 时，引力势场以目标点为中心呈锥形，一定程度上缓解在目标点附近震荡的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "斥力势函数和斥力函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { r e p } = \\left\\{ \\begin{array} { c c } { \\displaystyle { \\frac { 1 } { 2 } K _ { r } ( \\frac { 1 } { | { \\bf d } _ { m i n } | } - \\frac { 1 } { { d } _ { o } ^ { * } } ) ^ { 2 } } } & { \\qquad | { d } _ { m i n } | \\leq d _ { o } ^ { * } } \\\\ { 0 } & { \\qquad | { d } _ { m i n } | > d _ { o } ^ { * } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { r e p } = \\left\\{ \\begin{array} { c c } { K _ { r } ( \\displaystyle \\frac { 1 } { d _ { o } ^ { * } } - \\displaystyle \\frac { 1 } { \\big | d _ { m i n } \\big | } ) \\displaystyle \\frac { d _ { m i n } } { \\big | d _ { m i n } \\big | ^ { 3 } } \\qquad } & { \\big | d _ { m i n } \\big | \\leq d _ { o } ^ { * } } \\\\ { 0 \\qquad } & { \\big | d _ { m i n } \\big | > d _ { o } ^ { * } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $K _ { r }$ 为斥力常数， $\\pmb { d } _ { m i n }$ 为由机器人控制点指向障碍物最近点的向量， $d _ { o } ^ { * }$ 为斥力势场的作用半径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机器人的总势能和受到的合力为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { U _ { t o t a l } = U _ { a t t } + U _ { r e p } } } \\\\ { { F _ { t o t a l } = F _ { a t t } + F _ { r e p } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工势场的小步长梯度下降算法如下所示，其中 $x _ { i n i t }$ 为机器人的初始位置， $\\varepsilon$ 为设定的步长，函数PotentialGradient根据式(6)计算出所受合力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法1人工势场梯度下降搜索 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1: $x _ { 0 } \\gets x _ { i n i t }$ （204号  \n2:while （204号 $\\nabla U _ { t o t a l } \\neq 0$ ：  \n3: $F _ { t o t a l } \\gets$ PotentialGradient $( x _ { i }$ ）  \n4: $x _ { i + 1 }  x _ { i } + \\varepsilon \\frac { F _ { t o t a l } } { | F _ { t o t a l } | }$   \n5: $\\scriptstyle i = i + 1$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Goal-bias RRT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RRT是一种基于增量采样的路径规划算法，其在机器人起始位置建立根节点，通过在机器人构型空间随机采样，引导随机树探索未覆盖的区域，最终找到一条通向目标点的路径。但是由于初始RRT采样的完全随机性，它在构型空间中的搜索漫无目的，导致效率很低。为此，许多启发式搜索的RRT算法被提出，Goal-biasRRT是其中一种简单有效的算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始的RRT首先将机器人初始位置 $\\boldsymbol { x } _ { i n i t }$ 设为根节点，然后在机器人构型空间随机采样一个点 $x _ { r a n d }$ ，选取随机树上离$x _ { r a n d }$ 最近的节点 $x _ { n e a r e s t }$ 作为待生长的点，由于RRT外部的节点对应的泰森多边形面积较大，所以外部节点得到生长的概率更大，这使得RRT 拥有快速向外扩展的能力。接着由 $x _ { n e a r e s t }$ 向 $x _ { r a n d }$ 方向以步长 $\\varepsilon$ 生长得到新的节点 $x _ { n e w }$ ，判断 $x _ { n e w }$ 是否与障碍物发生碰撞，若碰撞则舍弃，若无碰撞则保留，不断重复以上步骤直到随机树生长到目标区域。而Goal-bias-RRT与初始RRT的采样点生成方式有所不同，Goal-biasRRT按一定概率 $P$ 选取目标点 $x _ { g o a l }$ 作为采样点，概率1-P随机取点作为采样点，从而引导随机树向目标点生长。Goal-biasRRT的伪代码如算法2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法2 Goal-bias RRT ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1: $T \\gets$ InitializeTree ${ \\bf \\Phi } _ { ( x _ { i n i t } ) } ,$   \n2:for $i = 0$ to $K$ ：  \n3: ifrandom $( 0 , 1 ) < P$ ：  \n4: $x _ { r a n d } = x _ { g o a l }$   \n5: else:  \n6: $x _ { r a n d } = \\mathrm { S a m p l e ( ) }$   \n7: $x _ { n e a r e s t } \\gets \\mathrm { N e a r e s t N o d e } ( T , x _ { r a n d } )$   \n8: $x _ { n e w } \\gets \\mathrm { S t e e r } ( x _ { n e a r e s t } , x _ { r a n d } )$   \n9: if CollisionFree $\\left( \\boldsymbol { x } _ { n e w } \\right)$ ：  \n10: $T . \\mathrm { a d d \\_ n o d e } ( x _ { n e w } )$ （204  \n11: T.add_edge(xnearest,xnew)  \n12: if $d ( x _ { n e w } , x _ { g o a l } ) < \\varepsilon$ ：  \n13: break",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 基于人工势场引导的RRT路径规划算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1人工势场引导节点生长",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Goal-biasRRT加入了目标点信息，使RRT的搜索更有目的性，从而提高搜索效率。但是，它没有考虑到障碍物信息，而障碍物信息在大多场景都能够获取。为了加强算法对周围环境的感知，用障碍物信息进一步引导搜索，本文提出的APFG-RRT将人工势场融入到RRT中，根据目标点和周围障碍物信息构建人工势场，引导RRT进行搜索，使扩展随机树能够更有效地避开障碍物，从而快速搜索到到达目标的安全路径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在RRT中，每次节点生长的增量仅由随机采样点 $x _ { r a n d }$ 相对 $x _ { n e a r e s t }$ 的方向和步长 $\\varepsilon$ 决定，而在APFG-RRT中，生长的增量还由机器人在 $x _ { n e a r e s t }$ 处受到的引力和斥力决定。APFG-RRT新节点的生成公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n e w } = x _ { n e a r e s t } + \\varepsilon \\frac { x _ { r a n d } - x _ { n e a r e s t } } { d ( x _ { r a n d } , x _ { n e a r e s t } ) } + \\phi \\frac { F _ { t o t a l } } { | F _ { t o t a l } | }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $F _ { t o t a l }$ 为机器人在 $x _ { n e a r e s t }$ 处受到的引力和斥力的合力， $\\varepsilon$ 为随机分量因子， $\\phi$ 为势场分量因子。需要注意的是，为了保持算法的概率完备性，使随机树能够到达构型空间中的任意无碰撞位姿， $\\phi$ 和 $\\varepsilon$ 需要满足 $\\phi < \\varepsilon$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与大多数RRT等步长的扩展方式不同，APFG-RRT由随机分量和势场分量共同决定生长的距离，当节点离障碍物较近时，势场分量的方向主要由斥力决定，使得向障碍物区域的生长步长较小，有利于随机树通过狭窄区域；而当节点远离障碍物时，势场分量的方向主要由引力决定，使得向目标区域的生长步长较大，有利于快速接近目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APFG-RRT的引力函数和斥力函数分别为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { a t t } = F _ { a t t } ^ { * } \\frac { x _ { g o a l } - x _ { n e a r e s t } } { d ( x _ { g o a l } , x _ { n e a r e s t } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { r e p } = \\left\\{ \\begin{array} { c c } { \\displaystyle { \\frac { F _ { r e p } ^ { * } } { 1 + e ^ { ( 2 | d _ { \\mathrm { m i n } } | / d _ { r e p } ^ { * } - 1 ) k } } \\frac { d _ { \\mathrm { m i n } } } { | d _ { \\mathrm { m i n } } | } \\qquad } } & { \\quad | d _ { \\mathrm { m i n } } | \\leq d _ { r e p } ^ { * } } \\\\ { 0 } & { \\quad | d _ { \\mathrm { m i n } } | > d _ { r e p } ^ { * } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $d _ { m i n } = x _ { n e a r e s t } - O _ { n e a r e s t }$ ， $O _ { n e a r e s t }$ 是障碍物上离 $x _ { n e a r e s t }$ 最近的点。$F _ { a t t } ^ { * }$ 和 $F _ { r e p } ^ { * }$ 分别为引力常数和斥力常数， $k$ 是形状系数， $d _ { r e p } ^ { * }$ 为斥力势场的作用半径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人工势场法中引力大小之所以设置为式(2)是为了让机器人在远距离时快速靠近目标，而在接近目标时防止机器人过冲。而RRT一次规划出完整路径，在到达目标附近时直接将节点与目标相连即可得到路径，不会发生过冲，所以APFG-RRT中将引力的大小设置为常数 $F _ { a t t } ^ { * }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APFG-RRT中斥力函数为式(9)，当 $x _ { n e a r e s t }$ 与障碍物的最小距离接近0时，斥力大小接近 $F _ { r e p } ^ { * }$ ；当 $x _ { n e a r e s t }$ 与障碍物的最小距离接近 $d _ { r e p } ^ { * } / 2$ 时，斥力大小接近 $F _ { r e p } ^ { * } / 2$ ；当 $x _ { n e a r e s t }$ 与障碍物的最小距离接近 $d _ { r e p } ^ { \\ast }$ 时，斥力大小接近0。相比于式(4)，式(9)中参数的意义更加直观，斥力的分布更加合理。经过测试，斥力函数设为式(9)算法的性能更好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假如将Goal-biasRRT和APFG-RRT中选取目标点作为采样点的概率都设置为 $100 \\%$ ，则Goal-biasRRT和APFG-RRT在简单场景中的表现如图1所示。Goal-biasRRT直接向目标生长，很容易在障碍物表面陷入局部极小值，需要依靠概率为1-P的随机采样跳出局部极小值。而融合了人工势场的APFG-RRT由于加入了斥力机制，拥有了一定的绕开障碍物的能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dea4a774ec972192b2ba9574b6cb117ebc6b49f437a8913e491b87bdd28f11e0.jpg",
+        "img_caption": [
+            "图1Goal-bias RRT 和APFG-RRT 路径规划示意图Fig.1Schematic diagrams of path planning withGoal-biasRRT and APFG-RRT"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 自适应概率采样 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Goal-biasRRT概率选取目标点作为采样点的策略不仅可以引导随机树向目标生长，还具有优先生长一条分支的特性，这有利于快速规划出一条路径。但是，Goal-biasRRT 选取目标点作为采样点的概率 $P$ 是固定的，当随机树陷入局部极小值时，选取目标点作为采样点的扩展一般是无效的，这会浪费大量的计算资源。为此，本文提出了一种概率自适应的采样方法。当选取目标点作为采样点的扩展无效时，可认为随机树陷入局部极小值，将 $P$ 设置为0，使算法专注于通过随机生长跳出局部极小值，而随着随机生长的次数增加，随机树跳出局部极小值的可能性越来越大，所以相应地 $P$ 也随着随机生长次数的增加而增加。随机树陷入局部极小值时$P$ 的值由下面公式获得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = P _ { \\mathrm { m a x } } \\left( 1 - e ^ { - a n / n ^ { * } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { \\mathrm { m a x } }$ 为随机树未陷入局部极小值时选取目标点作为采样点的概率， $\\mathbf { \\Delta } _ { a }$ 是形状系数， $n ^ { * }$ 是设定的最大尝试次数，当随机生长次数接近 $n ^ { * }$ 时， $P$ 逐渐恢复成 $P _ { \\mathrm { m a x } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3静态环境下的APFG-RRT算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APFG-RRT的具体流程为：首先在机器人的初始位置建立随机树的根节点，将选择目标点作为采样点的概率 $P$ 设为$P _ { \\mathrm { m a x } }$ ，当随机数小于 $P$ 时，选取目标点作为采样点 $x _ { r a n d }$ ，而当随机数大于 $P$ 时，在机器人构型空间中随机采样。然后选取随机树上离 $x _ { r a n d }$ 最近的节点 $x _ { n e a r e s t }$ 作为待生长节点，计算出障碍物上离 $x _ { n e a r e s t }$ 最近的点 $O _ { n e a r e s t }$ ，根据式(7)计算出 $x _ { n e w }$ ，判断$x _ { n e w }$ 是否与障碍物碰撞，若碰撞且采样点为 $x _ { g o a l }$ ，则认为随机树陷入局部极小值；若无碰撞则将 $x _ { n e w }$ 作为新节点添加到随机树中，并且如果采样点是 $x _ { g o a l }$ ，则认为随机树没有陷入局部极小值或者已经跳出局部极小值，将 $P$ 重新设为 $P _ { \\mathrm { m a x } }$ 。接着若随机树处于陷入局部极小值状态，则根据式(10)更新 $P$ ，不断重复上述步骤，直到随机树生长到目标点邻域或者迭代次数超过设定的最大值。静态环境下APFG-RRT的伪代码如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法3静态环境下的APFG-RRT算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 1 } \\colon T \\gets \\mathrm { I n i t i a l i z e T r e e } ( x _ { i n i t } )$   \n$2 \\colon P = P _ { \\mathrm { m a x } } , l o c a l \\_ m i n i m a = F a l s e$   \n3:for $i = 0$ to $K$ ：  \n4: ifrandom $( 0 , 1 ) < P$ ：  \n5: $x _ { r a n d } = x _ { g o a l }$   \n6: else:  \n7: （204 $x _ { r a n d } = \\mathrm { S a m p l e ( ) }$   \n8: Xnearest←NearestNode(T,xrand)  \n9: $O _ { n e a r e s t } $ NearestObstacle(Obstacle,xnearest,drep)  \n10: $x _ { n e w }  \\mathrm { S t e e r } ( x _ { n e a r e s t } , x _ { r a n d } , x _ { g o a l } , O _ { n e a r e s t } )$ （204  \n11: if CollisionFree $( x _ { n e w } )$ ：  \n12: T.add_node(xnew)  \n13: T.add_edge(xnerest,xnew)  \n14: if $d ( x _ { n e w } , x _ { g o a l } ) < \\varepsilon$ ：  \n15: break  \n16: if $x _ { r a n d } = = x _ { g o a l }$ ：  \n17: （204号 $\\boldsymbol { P } = \\boldsymbol { P } _ { \\mathrm { m a x } }$ （20  \n18: loca $l _ { - } m i n i m a = F a l s e$   \n19: else:  \n20: if $x _ { r a n d } = = x _ { g o a l }$ ：  \n21: $n = 0$   \n22: 1 $^ { \\prime } o c a l _ { - } m i n i m a = T r u e$   \n23: if local_minima:  \n24: $P \\gets$ UpdateProbability(n)  \n25: $n = n + 1$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4动态环境下的APFG-RRT算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动态环境下路径规划的难点在于障碍物可能会运动到之前规划好的路径上，需要算法在极短时间内重新规划出一条无碰撞路径，因而对算法的实时性要求很高。另一方面，考虑到需要留给机器人一定的避障时间和空间，规划的路径还应远离障碍物。传统的膨胀障碍物的方法虽然能使规划路径与障碍物保持一定的安全距离，但是对于不同场景需要调整膨胀参数，比如在狭窄的环境需要选择较小的膨胀程度，否则将会使随机树的扩展更加艰难。而APFG-RRT由于加入了势场对随机树生长的引导机制，具有更快的收敛速度，且生成的路径能够相对远离障碍物，在动态环境下有较好的表现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步提高算法在动态环境下的实时性，本文参考$R R T ^ { * } F N D ^ { [ 2 0 ] }$ 中的方法，使用了局部重新规划的策略一一只对在当前位置一定范围内未执行的\"危险\"路径进行重新规划，从而减少计算量。具体为先搜索出在当前位置半径为 $\\boldsymbol { r }$ 范围内的将要执行的连续路径 $\\boldsymbol { p } _ { \\mathrm { n e a r } }$ ，将离障碍物最小距离在 $d ^ { * }$ 以内的节点认为是“危险”节点，用APFG-RRT对 $\\boldsymbol { p } _ { \\mathrm { n e a r } }$ 上包含所有“危险”节点的最短路径段进行重新规划和连接。算法的伪代码如算法4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法4动态环境下的APFG-RRT算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1:Obstacle $$ UpdateObstacles(   \n2:p←APFG-RRT(xinit, Xgoal,Obstacle)   \n3: $x _ { c u r r e n t } \\gets x _ { i n i t }$ （204号   \n4:while $x _ { c u r r e n t } \\neq x _ { g o a l }$ ：   \n5: Pnear←SelectNearPath(p)   \n6: Xstart ,Xend ←DangerousPath(p near)   \n7: Prest ←DeletePath(p,Xstart, Xend)   \n8: $p _ { c h a n g e d } \\gets \\mathrm { A P F G - R R T } ( x _ { s t a r t } , x _ { e n d } , O b s t a c l e )$   \n9: P←AddPath(prest, Pchanged)   \n10: Obstacle $$ UpdateObstacles()   \n11: （204号 $x _ { c u r r e n t } $ GetCurrentState( ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了测试APFG-RRT的收敛速度，本文对APFG-RRT在多种环境下进行了仿真实验，并与初始的RRT和Goal-biasRRT进行比较。三种算法中相应的参数保持相同。考虑到RRT自身的随机性，在对应一般环境和狭窄环境的地图上重复进行100次由起点到目标点的路径规划，取平均值作为测试结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2和3分别展示了初始RRT、Goal-bias RRT和APFG-RRT在一般场景和狭窄场景中的表现，表1和2则列出了相应的实验数据。从表中可以看出，Goal-biasRRT和APFG-RRT 的表现明显优于初始的 RRT，而APFG-RRT 在各项指标上均优于Goal-biasRRT。在地图1(一般场景)中APFG-RRT路径规划的平均时间为Goal-biasRRT的 $49 . 3 \\%$ ，平均节点数为Goal-biasRRT的 $41 . 5 \\%$ ;在地图2(狭窄场景)中APFG-RRT路径规划的平均时间为Goal-biasRRT 的 $4 7 . 2 \\%$ ，平均节点数为Goal-biasRRT的 $4 2 . 9 \\%$ 。这是因为人工势场的引入虽然增加了算法每次迭代的计算量，但使APFG-RRT拥有绕开障碍物的能力，减少了与障碍物发生碰撞的无效节点数，而自适应概率采样策略使因陷入局部极小值而重复计算的无效节点数进一步减少。从表中数据可计算出Goal-biasRRT在地图1、2中的平均无效节点数分别为5189和5555，而APFG-RRT在地图1、2中的平均无效节点数仅为164和12，这大大减少了算法无效迭代所浪费的时间。另一方面，随机树上已有的节点数越多，算法每次迭代时搜索随机树上离采样点最近的节点消耗的时间越多。Goal-biasRRT按概率1-P随机采样，而APFG-RRT在概率1-P时由势场分量和随机分量共同决定生长方向，这使得APFG-RRT的扩展更有目的性，所以 APFG-RRT搜索到路径时随机树上的节点数更少，这减少了平均每次迭代消耗的时间。对于狭窄场景，Goal-biasRRT因偏向目标生长的特性而容易陷入贴近障碍物表面、取目标点为采样点的扩展失效而需要依赖概率为1-P的随机采样逃脱的循环中，而在贴近狭窄通道表面时随机树的生长方向受到限制，支持有效生长的采样空间较小；而 APFG-RRT因狭窄通道中间的势能最小，容易使随机树沿着通道中间生长，使得随机树的生长方向受到的限制较小，有效生长的概率更高，而且当生长的随机分量朝向通道表面时，势场分量远离障碍物，使得生长步长减小，有利于进一步提高有效生长的药药表2三种算法在狭窄环境中的实验结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Tab.1Experimental results of the three algorithms in general scene "
+        ],
+        "table_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc639648ae4896c8360417c93602049f972676e32d87351ab8e5e0520eef2c90.jpg",
+        "img_caption": [
+            "图2三种算法在地图1(一般场景)中的表现",
+            "Fig.2Performance of the three algorithms in Map l(general scene) ",
+            "图3三种算法在地图2(狭窄环境)中的表现Fig.3Performance of the three algorithms inMap 2(narrow environment)",
+            "",
+            "Fig.4Performance ofAPFG-RRT in dynamic environment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0622a435c3dca520dc7603e581776ddfcc86b8afab0f8563e1b0b9b78722bde0.jpg",
+        "table_caption": [
+            "表1三种算法在一般场景中的实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>RRT</td><td>Goal-bias RRT</td><td>APFG-RRT</td></tr><tr><td>平均规划时间/s</td><td>39.869</td><td>0.303</td><td>0.143</td></tr><tr><td>平均迭代次数</td><td>54274</td><td>7284</td><td>754</td></tr><tr><td>平均节点数</td><td>27337</td><td>1729</td><td>742</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4展示了APFG-RRT在动态场景中使用局部重新规划策略后的表现。图中灰色的是运动障碍物，它们在固定的路线上往复运动，箭头为它们在所在帧中的运动方向，黄色粗实线为机器人已经执行的路径，红色点线为上一帧规划路径中被修正的部分，蓝色细实线为机器人在所在帧中重新规划后的路径。从图4可以看出：加入势场引导生长的机制后APFG-RRT规划的路径相对远离障碍物，留给了机器人一定的避障空间。值得注意的是，局部重新规划能够在一定程度上优化原来的路径，比如在图4的第3张图中重新规划的路径比原来的路径更短、更平滑，并且使原来由于陷入局部极小值而靠近障碍物的路径远离障碍物，这是因为势场的特性药药華陣障",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验中，Goal-biasRRT在动态场景中的路径规划采用对每帧所有路径都进行重新规划的策略。两种算法在图4场景中规划100次，并取平均值的规划结果如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3Goal-biasRRT和APFG-RRT在动态环境中的实验结果",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3460470964caec8977ea33bdf2ee2974b4f254d14768375e853c3c279036daf.jpg",
+        "table_caption": [
+            "Tab.2Experimental results of the three algorithms in ",
+            "Tab.3Experimental results of Goal-bias RRT and APFG-RRT in "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">dynamic environment</td></tr><tr><td>算法</td><td>Goal-biasRRT</td><td>APFG-RRT</td></tr><tr><td>每次重新规划的平均时间/s</td><td>0.421</td><td>0.011</td></tr><tr><td>规划成功率</td><td>0</td><td>100%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于Goal-biasRRT具有偏向目标点生长的特性，其搜索到的路径容易在局部极小值区域贴合障碍物，可能导致机器人与障碍物发生碰撞。如图5所示，Goal-biasRRT在当前帧中重新规划的路径虽然是无碰撞的，但是贴合着障碍物，且在障碍物运动方向上，在下一帧时刻障碍物就会与机器人发生碰撞，这就是导致Goal-biasRRT在实验的动态场景中规划成功率为0的原因。而对于其他大多数的RRT算法，由于没有远离障碍物的机制，规划的路径也有可能会贴合着障碍物，比如图2(a)中初始RRT规划的路径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于Goal-biasRRT规划成功率为0，表3中Goal-biasRRT每次重新规划的平均时间是统计其中成功重新规划的部分得到。从实验结果可以看出，采用局部重新规划策略的APFG-RRT在测试的动态场景中规划成功率为 $100 \\%$ ，且每次重新规划的平均时间远少于Goal-biasRRT。这是因为相比于在每一帧时刻都对全局路径重新进行规划的算法，局部重新规划使得算法在每一帧时刻只需重新规划其中一小段路径，当将要执行的路径安全时甚至不需要重新进行规划，这大大减少了计算量，而引入局部重新规划策略而额外增加的计算量相比之下很小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5   \n4 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对现有的大多数RRT动态路径规划算法不能使规划的路径与障碍物保持安全距离的问题，提出了一种用人工势场引导RRT生长的启发式算法，增强了算法对周围环境的感知能力，并结合自适应概率采样和局部重新规划策略，使RRT的搜索效率进一步提高。仿真结果表明，本文提出的改进RRT算法在静态和动态场景下都有较为优越的性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Tzafestas,Spyros G.Mobile Robot Control and Navigation:A Global Overview[J].Journal ofIntelligent & Robotic Systems,2018,91(1):35- 58.   \n[2]Kong Xiangzhan,Duan Xingguang，Wang Yonggui. An integrated system for planning,navigation and robotic assistance for mandible reconstruction surgery[J].Intelligent Service Robotics,2016,9(2): 113- 121.   \n[3]Elbanhawi M,Simic M.Sampling-Based Robot Motion Planning:A Review[J].IEEE Access,2014,2(2):56-77.   \n[4]Zhang Yinyan,Li Shuai,Guo Hongliang.A type of biased consensusbased distributed neural network for path planning [J].Nonlinear Dynamics,2017,89(3):1803-1815.   \n[5]Bounini F,Gingras D,Pollart H,et al.Modified artificial potential field 180-185.   \n[6]Li Jinghua,Huang Yibin,Xu Zhao,et al. Path planning of UAV based on hierarchical genetic algorithm with optimized search region [C]/ Proc of IEEE International Conference on Control & Automation. Piscataway, NJ: IEEE Press,2017: 1033-1038.   \n[7]Liu Yang,Ma Jianwei,Zang Shaofei,et al.Dynamic Path Planning of Mobile Robot Based on Improved Ant Colony Optimization Algorithm [C]//Procof the 8th International Conferenceon Networks, Communication and Computing.New York:ACMPress,2019:248-252.   \n[8]Latip N B A,Omar R,Debnath SK.Optimal Path Planning using Equilateral Spaces Oriented Visibility Graph Method [J]. International Journal of Electrical & Computer Engineering,2017,7(6): 3046-3051.   \n[9]Kumar N,Vamossy Z,Szabó-Resch Z M.Robot path pursuit using probabilistic roadmap [C]// Proc of IEEE International Symposium on Computational Inteligence & Informatics.Piscataway, NJ: IEEE Press, 2016: 139-144.   \n[10] Kalisiak M,Panne M V D.RRT-blossom: RRT with a local flood-fill behavior [C]//Proc of IEEE International Conference on Robotics and Automation.Piscataway,NJ: IEEE Press,2006: 1237-1242.   \n[11] Perez A,Karaman S,Shkolnik A,et al. Asymptotically-optimal path planning for manipulation using incremental sampling-based algorithms [C]//Proc of IEEE/RSJ International Conference on Intelligent Robots and Systems.Piscataway,NJ: IEEE Press,2011: 4307-4313.   \n[12] Lavalle S M, Kuffner JJ. Randomized kinodynamic planning [C]//Proc of IEEE International Conference on Robotics and Automation. Piscataway,NJ: IEEE Press,1999:473-479.   \n[13] Lavalle S M. Planning Algorithms [M]. Cambridge: Cambridge University Press,2006.   \n[14] 周芳，朱齐丹，赵国良．基于改进快速搜索随机树法的机械手路径 优化[J].机械工程学报,2011,47(11):30-35.(Zhou Fang,Zhu Qidan, Zhao Guoliang.Path Optimization of Manipulator Based on the Improved Rapidly-exploring Random Tree Algorithm [J]. Journal of Mechanical Engineering,2011,47 (11): 30-35.)   \n[15]何兆楚，何元烈，曾碧.RRT与人工势场法结合的机械臂避障规划 [J].工业工程,2017,20 (2): 56-63.(He Zhaochu,He Yuanlie, Zeng Bi. Obstacle Avoidence Path Planning for Robot Arm Based on Mixed Algorithm of Artificial Potential Field Method and RRT[J].Industrial Engineering Journal,2017,20 (2): 56-63.)   \n[16]徐晓慧，张金龙．改进人工势场与 TAS-RRT 融合优化算法[J]．电 子技术应用,2018,44(10):88-92.(Xu Xiaohui,Zhang Jinlong.Hybrid optimization algorithm of improved artificial potential field and TASRRT [J]. Application of Electronic Technique,2018,44 (10): 88-92.)   \n[17] Qureshi A H,Mumtaz S,Iqbal K F,et al.Adaptive Potential guided directional-RRT [C]// Proc of IEEE International Conference on Robotics and Biomimetics.Piscataway,NJ: IEEE Press,2013:1887- 1892.   \n[18] Qureshi A H,Ayaz Y. Potential functions based sampling heuristic for optimal path planning [J].Autonomous Robots,2016,40 (6): 1079-1093.   \n[19] Zaid T, QureshiAH, Yasar A,et al.Potentially guided bidirectionalized RRT\\* for fast optimal path planning in clutered environments [J]. Robotics and Autonomous Systems,2018,108: 13-27.   \n[20] Adiyatov O,Varol H A.A novel RRT\\*-based algorithm for motion planning in Dynamic environments [C]// Proc of IEEE International Conference on Mechatronics and Automation.Piscataway,NJ: IEEE Press,2017: 1416-1421. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

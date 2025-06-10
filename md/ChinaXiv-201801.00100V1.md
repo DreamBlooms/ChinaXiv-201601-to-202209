@@ -1,0 +1,229 @@
+编号：167074
+
+# 离心式涡轮增压器透平的设计与分析
+
+罗丹1,2谭鑫1,2林显巧1,2黄典贵 1,2（1.上海理工大学能源与动力工程学院，上海市200093）(2.上海市动力工程多相流动与传热重点实验室，上海市200093）
+
+摘要：离心式涡轮增压器透平具有与传统透平不一样的结构，本文对某一小流量、高转速、小轮径的离心式透平进行一维气动设计、三维流场模拟与优化以及变工况性能研究。首先，对流体工质以及流动过程进行简化处理，获得一维气动设计的结果；接着，采用计算流体力学软件对离心透平级进行数值模拟，通过改变叶片数目、叶片厚度、中弧线形状等进行叶型优化，获得更合理的流场；最后，分析不同转速、不同流量（背压）下离心式透平的变工况性能。
+
+关键词：离心透平；涡轮增压器；数值模拟；变工况性能 中图分类号：TK14 文献标识码：A
+
+# The Design and Analysis of Centrifugal Turbine
+
+# of The Turbocharger
+
+LUO Danl,2 TAN Xin1,2 LIN Xian-Qiaol,2 HUANG Dian-Gui² (1.SchoolofEnergyandPower Engineering,UniversityofShanghaiforScienceand technology,Shanghai2o93,China; 2.Shanghai Key laboratory of multiphase flow and heat transfer ofpower enginering,Shanghai2Ooo93, China）
+
+Abstract:Thestructureofcentrifugalturbineofturbchargerisdiferentfromthetraditionalturbine's,inthispaper，onediesional pneumaticdesign,threedimensionalflowfieldsimulationandoptimization，andvariablecondition performancewillbestudied fora smallflowrate,ghrotatingspedandsmallwhldiametercentrifugalturbie.Frstofall,teesultofoedimensionalpematic designcanbeobtainedbysimplifyingthfluidmediumandflowproces;Then,thenumericalsimulationandoptimizationofentrifugal turbinecanbeconductedadoptingthecomputationalfluiddynamicssoftwarebychangingtheleafnumber,leafthicknes,andthearc shapeofleaf togetamorereasonableflowfield;Finall,theresultofcentrifugalturbineoff-designperformanceunderdiferent rotational speed and different flow rate(back pressure) will be analyzed.
+
+Key Words:centrifugal turbine; turbocharger; numerical simulation; off-design performance
+
+# 0前言
+
+收稿日期：2017-01-05  
+基金项目：国家自然科学基金资助项目（No.51536006;No.91530111）；上海市科委基地建设项目（13DZ260900）；上海理工大学流动控制与仿真重点实验室资助（D15013）  
+作者简介：罗丹（1994-），女，硕士，主要从事动力机械研究。  
+通讯作者：黄典贵，教授，Email: dghuang@usst.edu.cn
+
+涡轮增压器在提高汽车发动机的功率和重量比、改善发动机的扭矩特性、提高燃油经济性、降低发动机噪音和尾气排放等方面，给人们带来了综合效益，随着我国能源形势的日益严峻和排放法规的不断严格，涡轮增压器的发展已然成为一个必然趋势。透平作为涡轮增压器的原动机，是改善涡轮增压器性能的关键。
+
+涡轮增压器的发展已有100多年历史。1905年，瑞士人波希首次提出废气涡轮增压的设想，并在德国和美国获得了专利。1912年，世界上首台废气驱动的增压器问世，20世纪20年代，船舶开始配备涡轮增压柴油发动机，而二战期间，美国首次将涡轮增压大量应用于军用飞机，废气涡轮增压器实现规模化生产。涡轮增压器早期主要应用于船舶、飞机和陆用大功率发动机上，之后才逐渐向小功率发动机推广，但由于发展结构可靠、性能好、成本低廉的小型径流式涡轮增压器遇到较大困难，涡轮增压器在车用发动机上的推广应用要晚得多，直到1961年美国通用汽车公司才将涡轮增压器试探性的装在其生产的某种车型
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+上；我国是从上世纪50年代末到60年代初开始研制涡轮增压器。解放后，随着船用柴油机的发展，我国涡轮增压器的研究、设计、制造业相应发展起来。我国第一台径流涡轮增压器的研制和生产由船舶产品设计处和上海求新造船厂合作完成的，于1954年设计、1958年完成鉴定[1]。
+
+径向式涡轮根据工质的流动方向可分为向心式和离心式两种。由于向心式涡轮中，哥氏力所作的功为涡轮有效功的一部分，焓降大，目前，径流式涡轮几乎全都采用向心式，而对离心式涡轮的研究、设计及应用很少。对离心式透平的研究可追溯于Ljungstrom[2]设计的悬臂式双进气对转离心蒸汽透平，其运行的功率范围从几百kW到65 MW；意大利米兰理工大学的G.Persico、M.pini等发表的几篇文献对有机朗肯离心透平的初步设计、空气动力学进行了详细研究[3-5]；在国内，黄典贵课题组提出了一种新型双面进气离心透平[6]。
+
+工质在离心透平中膨胀时，比容会增大，这与离心透平过流截面的直径相匹配，离心透平的叶片可做成等叶高的直叶片，速比可设计在最佳速比附近，流动基本是二维的。本文设想将离心透平应用于废气涡轮增压器，以理想气体作为流体工质，研究高转速下离心透平的气动性能和变工况特性7]，进一步发掘离心透平的应用潜力。
+
+# 1离心透平的一维设计
+
+参考轴流式透平的一元流动分析过程，对离心式透平进行一维热力计算。在设计的初始阶段和热力计算中，将发动机排出的废气视为理想空气，并假设废气在叶栅通道中的流动是轴对称、绝热、无粘性的定常流动[8]。
+
+以涡轮增压器运行的一组实际参数作为设计参数，如表1所示。
+
+# 表1涡轮增压器离心透平的初始设计参数
+
+Tablel The initial design parameters of the turbocharger
+
+<html><body><table><tr><td colspan="2">centrifugal turbine</td></tr><tr><td>喷嘴进气总压po*/Pa</td><td>108974.077</td></tr><tr><td>喷嘴进气总温to*/℃</td><td>650</td></tr><tr><td>动叶出口背压p/Pa</td><td>101578.9474 0.014923487</td></tr><tr><td colspan="2">废气流量G/kg·s-l</td></tr></table></body></html>
+
+50000
+
+设计转速 $n / { \mathrm { r } } { \cdot } { \mathrm { m i n } } ^ { \cdot } $
+
+离心式涡轮的几种效率中，轮周效率 $\eta _ { u }$ 可以通过设计参数表示出来，所以一般通过轮周效率$\eta _ { u }$ 选取合适的设计参数[9]。
+
+编写C语言程序，以动叶进口气流角 $\alpha _ { I }$ 、反动度 $\varOmega$ 、速比 $x _ { a }$ 、径比 $D _ { T }$ 作为循环条件进行运算，从计算结果中筛选轮周效率较高、轮径合适的一组参数为后续涡轮的数值模拟提供依据，见表2。设喷嘴速度系数、动叶速度系数分别为$\scriptstyle \varphi = 0 . 9 7$ ， $\scriptstyle { \psi = 0 . 9 3 }$ 。
+
+Table2 One dimensional calculation parameters of   
+
+<html><body><table><tr><td colspan="3">a centrifugal turbine</td></tr><tr><td>反动度Ω</td><td>速比xa</td><td>径比Dr</td></tr><tr><td>0.4</td><td>0.57</td><td>1.48</td></tr><tr><td rowspan="2">叶高H/mm</td><td>喷嘴进口直径</td><td>喷嘴出口直径</td></tr><tr><td>Do/mm</td><td>D1/mm</td></tr><tr><td>8.78 动叶出口直径</td><td>21.74</td><td>41.8</td></tr><tr><td>D2/mm</td><td>轮周功率Nu/W</td><td>轮周功率nu/%</td></tr><tr><td>61.87</td><td>230.31</td><td>83.72</td></tr></table></body></html>
+
+表2离心透平的一维计算参数  
+
+<html><body><table><tr><td>动叶进口绝对气流角α/° 动叶出口绝对气流角α/° 动叶进口相对气流角β/ 动叶出口相对气流角βz/°</td><td>13 89.2446 46.2 7.8686 144.268</td></tr><tr><td>喷嘴出口速度ci/ms-1</td><td>22.429</td></tr><tr><td>动叶出口绝对速度c/ms-1</td><td>44.966</td></tr><tr><td>动叶进口相对速度w,/ms-1 动叶出口相对速度wz/ms-1</td><td>163.817</td></tr><tr><td></td><td></td></tr><tr><td>动叶进口圆周速度u/m·s-1</td><td>109.454</td></tr></table></body></html>
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+<html><body><table><tr><td>动叶出口圆周速度u/m's-1</td><td>161.9922</td></tr></table></body></html>
+
+# 2离心式透平的三维模拟
+
+根据一维设计得到的静叶与动叶前后的压力，首先对静叶和动叶内的流场分别进行初步的分析比较，确定静叶最大厚度为 $2 . 5 ~ \mathrm { \ m m }$ ，静叶片数为10，动叶片最大厚度为4 $\mathrm { m m }$ ，动叶片数为21。
+
+![](images/a377ed9acfdb43e199195fa42538bcdd4dda56c6032182cf159daeecb3ca292a.jpg)  
+图3叶片厚度分布及控制点选择
+
+![](images/5b94361ecae4c93cbd856d91e33763afc91cf9d0503a71fa2fdbbd0391c873c7.jpg)  
+Fig3 The thickness distribution of stator blade and control point selection
+
+Fig4 Tangential angular distribution of medial camber line and control point selection
+
+# 2.1叶型参数化表达
+
+叶片截面由前缘、后缘、叶盆和叶背四条曲线组成，前缘和后缘是圆弧，设计参数包括叶高、叶片前尾缘所处半径、叶片最大厚度、叶片数及进出口几何角[10]，叶盆和叶背采用Bezier曲线法构造，对动静叶分别采用8个可变参数控制二维叶栅型线，其中，4个参数控制中弧线的形状，4个参数控制叶片厚度沿径向弦长的分布[1]。二维叶型的设计参数如表3所示。
+
+表3二维叶型的设计参数Table3 The design parameters of two dimensional blade profile  
+
+<html><body><table><tr><td></td><td>静叶</td><td>动叶</td></tr><tr><td>叶高H/mm</td><td>8.78</td><td>8.78</td></tr><tr><td>叶片前缘处半径Ri/mm</td><td>10.87</td><td>21.9</td></tr><tr><td>叶片后缘处半径R/mm</td><td>20.9</td><td>30.94</td></tr><tr><td>叶片最大厚度θmax/mm</td><td>2.5</td><td>4</td></tr><tr><td>叶片数</td><td>10</td><td>21</td></tr><tr><td>进口几何角/</td><td>90</td><td>46.2</td></tr><tr><td>出口几何角/°</td><td>8</td><td>7.87</td></tr></table></body></html>
+
+下图为静叶叶型的构造以及4个控制点的选取，动叶叶型构造方法与此相同。
+
+![](images/a4e778079ad7fd0ebd16565f99e416675eaf7565b409f0b92e507ca69eef787d.jpg)  
+图4中弧线切线角分布及控制点选择  
+图2 静叶叶型Fig2 Stator blade profile
+
+![](images/11514c1bc7c8fa3089d6d4051af8ae61a46212cf8cfd55fc99d6f2b225bb04ad.jpg)  
+图1子午面流道 Fig1The meridional channel
+
+# 2.2整级优化设计
+
+叶型设计参数中，叶高、叶片前尾缘所处半径、叶片数及进出口几何角为固定控制参数，优化时，调节可变控制点的位置，Bezier曲线上各个部分随之变动，获得一系列优化翼型，选择本次优化问题的数学模型表示为
+
+$$
+\left\{ \begin{array} { l l } { \operatorname* { m a x } \eta _ { u } = f ( \theta _ { [ 1 - 4 ] } , M _ { [ 1 - 8 ] } , A _ { [ 1 - 4 ] } ) } \\ { s . t N _ { u } > = 2 3 0 . 3 1 w } \end{array} \right.
+$$
+
+上式中，设计变量 $\theta _ { [ 1 - 4 ] }$ 为动静叶控制点处的厚度大小， $M _ { [ 1 - 8 ] }$ 指动静叶片沿径向弦长的位置坐标， $\boldsymbol { A } _ { [ 1 - 4 ] }$ 表示中弧线切线角大小（ $\theta _ { [ 1 - 4 ] }$ 表示 $\theta _ { 1 }$ 、$\theta _ { 2 }$ 、 $\theta _ { 3 }$ 、 $\theta _ { 4 }$ 4个变量， $M _ { [ 1 - 8 ] }$ 、 $\boldsymbol { A } _ { [ 1 - 4 ] }$ 表示法相同），共16个变量参与优化，轮周功率作为优化的限制条件，轮周效率为优化目标函数[12]。
+
+在动叶和静叶初步分析的基础上，采用筛选
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+法进行优化，先将样本参数整合再排序分组，通过一个一个计算最后得到几组符合要求的参数点，这样可以提高优化初参数的质量从而使优化更精确。优化得到的主要叶型参数如表4。
+
+Table4 The results of optimization of the parameters of
+
+表4优化后叶型控制点参数表达结果  
+
+<html><body><table><tr><td>叶片类型</td><td>控制点</td><td>设计变量</td><td>数值结果</td></tr><tr><td rowspan="4">静叶</td><td>1</td><td>01 M1</td><td>3.3548608 2.2009951</td></tr><tr><td>2</td><td>0 M2</td><td>3.154335 5.3527817</td></tr><tr><td>3</td><td>A M3</td><td>25.878883 3.0557875</td></tr><tr><td>4</td><td>A M4</td><td>55.072347 6.234031</td></tr><tr><td rowspan="4">动叶</td><td>5</td><td>0 M5</td><td>5.3194096 2.5862343</td></tr><tr><td>6</td><td>04 M6</td><td>5.2512766 5.8529802</td></tr><tr><td>7</td><td>A M7</td><td>7.557074 2.5572471</td></tr><tr><td>8</td><td>A4 M8</td><td>-38.568628 5.0147775</td></tr></table></body></html>
+
+采用数值模拟，对优化前后叶轮内部气动参数进行比较分析，结果表明，优化后动叶出口气流角更接近径向，余速损失减小，轮周功率增大了 $2 . 9 5 \%$ ，轮周效率增加了1.8个百分点；优化翼型的速度参数接近一维设计参数，由于其尺寸小，其速度系数相对也比较小，数值模拟得出的轮周效率小于热力设计值。
+
+the control point   
+
+<html><body><table><tr><td>c1/ m's-1</td><td>144.98</td></tr><tr><td>c2/ m's-1</td><td>41.32</td></tr><tr><td>W1/ m's-1</td><td>42.92</td></tr><tr><td>w2/ m's-1</td><td>163.8</td></tr><tr><td>u1/ m's-1</td><td>114.34</td></tr><tr><td>u2/ m's-1</td><td>162.94</td></tr></table></body></html>
+
+表5优化前后叶轮的参数比较 Table5 Comparison of the parameters of the impeller before and after optimization   
+
+<html><body><table><tr><td></td><td>α/°</td><td>Ω</td><td>xa</td><td>Nu/ W</td><td>nu/%</td></tr><tr><td>优化前</td><td>72.79</td><td>0.347</td><td>0.558</td><td>243.8</td><td>78.3</td></tr><tr><td>优化后</td><td>91.05</td><td>0.44</td><td>0.55</td><td>251</td><td>80.1</td></tr></table></body></html>
+
+表6优化得出叶型的速度三角形
+
+Table6 The speed triangle of optimized blade profile   
+
+<html><body><table><tr><td>a/。</td><td>12.48</td></tr><tr><td>a/</td><td>91.05</td></tr><tr><td>β1/°</td><td>51.19</td></tr><tr><td>β°</td><td>19.98</td></tr></table></body></html>
+
+![](images/fb73a3768218be897c13953258affae411f51bf96e4d4236ee87802121c8184b.jpg)  
+图5-8给出了 $50 \%$ 叶高处的涡粘性分布图、马赫数分布图、压力、速度分布云图。
+
+![](images/6cb1bf6d69cfc35feff7aaa2a1f6dbef0db8272c6a38e38db7c7ef18be73a3c5.jpg)  
+图5 $5 0 \%$ 叶高处的涡粘性分布图  
+图6 $5 0 \%$ 叶高处的马赫数分布图
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+![](images/b3ed571f6bb19273a15bdf2189f0abb03b31e9f42c7e5474bdd70f95432e3b14.jpg)  
+Fig6 The Mach number distribution at $50 \%$ span
+
+![](images/d960644b0fd8bf7e0f268787d34b78357573c7491aefa6ae75b2632de45ceffa.jpg)  
+图 $7 5 0 \%$ 叶高处的压力分布图
+
+# 3变工况性能研究
+
+用于车辆、农机、船舶以及工程机械等发动机上的涡轮增压器，由于发动机通常在变速变负荷的条件下运行，使得进入涡轮的废气量、废气的压力和温度会相应发生改变，涡轮的运行工况自然会偏离设计工况。因此在涡轮增压器离心透平的设计中需要研究其变工况性能。
+
+# 3.1设计转速的变工况
+
+在设计转速下，保持进口总温、总压不变，通过改变出口流量进行变工况模拟，得到离心透平的流量特性曲线和效率特性曲线，见图9、10。结果表明：压比 ${ p _ { 2 } } / { p _ { 0 } } ^ { * }$ 减小时，流量逐渐增大且变化趋势减缓，当压比减小到一定数值后，涡轮流量趋于不变，涡轮达到阻塞工况，CFX模拟出离心透平在设计工况下的临界压比为0.519，最大临界流量为0.0262 $\mathrm { { k g / s } }$ ；轮周效率随压比先缓慢增大再急速减小，当压比为0.921时，轮周效率最大（一维设计压比为0.932）。
+
+图9设计转速下流量特性曲线  
+![](images/97e169fb4f974b95380327ec5e491c54c9271d6ec04ea26238dd1beea68659dc.jpg)  
+Fig9 The flow characteristic curve at design speed
+
+![](images/74ff491cd632fc7835ddc8583a17809b1dfc911d99ce7c4da4bdd4e2caafded8.jpg)  
+图8 $5 0 \%$ 叶高处的速度分布图Fig8 The velocity distribution at $50 \%$ span  
+图10设计转速下效率特性曲线
+
+Figl0 The efficiency characteristic curve at design speed图11根据表7提供的结果绘出设计转速下离心透平轮周效率随气流进口总温 ${ T _ { 0 } } ^ { * }$ 的变化关系。结果表明，气流进口总温对轮周效率的影响不大，在材料允许的条件下，离心透平可以在较宽的温度范围内以较高的效率运行。
+
+表7轮周效率随进口总温的变化关系 Table7The change of the wheel efficiency with the inlet total temperature   
+
+<html><body><table><tr><td>进口总温To*/K</td><td>轮周效率nu/%</td></tr><tr><td>833</td><td>79.03</td></tr><tr><td>893</td><td>80.01</td></tr><tr><td>923</td><td>80.1</td></tr><tr><td>953</td><td>80.02</td></tr><tr><td>983</td><td>79.75</td></tr><tr><td>1013</td><td>79.03</td></tr></table></body></html>
+
+# WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538
+
+![](images/72a6cc81e66f5e5d8c5de95ebd6640733a4c29b903b48a4412127b863a17700c.jpg)  
+图11设计转速下轮周效率随气流进口总温 ${ \mathrm { T } } _ { 0 } ^ { * }$ 的 变化关系曲线 Figl1The change of the wheel efficiency with the inlet total temperature ${ \mathrm { ~ T ~ } _ { 0 } } ^ { * }$ at design speed
+
+# 3.2变转速的变工况
+
+根据模拟的参数画出不同转速下，离心透平级的轮周效率随流量的变化关系图，如图12所示。
+
+![](images/65e19a7c301ccafc7b29ae74222471c3b49d3b68cbc1c58b57f2500419a5d7d1.jpg)  
+图12不同转速下，离心透平级轮周效率随流量的变化关系 图 Figl2 The change of the wheel efficiency with the flow rate
+
+# 参考文献：
+
+[1]朱大鑫．涡轮增压与涡轮增压器[M]．北京：机械工业 出版社,1992. ZHUDaxin. Turbocharging andTurbocharger[M]. Beijing:Mechanical Engineering Press,1992.   
+[2] Ljungstrom F. The Development of the Ljungstrom Steam Turbine and Air Preheater[J].Proceedings of the Institution of Mechanical Engineers,1949,160(1): 211- 223.   
+[3] Pini M,Persico G, Casati E,etal.Preliminary Design of
+
+under different rotating speed
+
+结果表明，不同转速最高效率点对应的流量不同，转速越高，其对应的流量越大；变转速情况下，离心透平可运行的流量范围大，适用性强；转速越高，离心透平可运行的小流量值增大，最大临界流量变化很小；变转速时，轮周效率在 $70 \%$ 以上的流量范围比较大，变工况性能好。
+
+# 4总结
+
+本文主要对离心式涡轮增压器透平进行优化设计与分析，并分析其变工况性能，主要结论如下：
+
+1、以轮周效率为优化目标函数，以叶片的厚度分布及中弧线切线角的大小为参数，进行了翼型优化，得到了一个适用于涡轮增压器的离心式透平，该级透平效率为 $80 . 1 \%$ 。
+
+2、对该级离心透平进行了变工况性能分析，在设计转速下，压比 ${ p _ { 2 / p _ { 0 } } } ^ { * }$ 减小时，流量逐渐增大且变化趋势减缓，当压比减小到一定数值后，涡轮流量趋于不变，涡轮达到阻塞工况；轮周效率随压比先缓慢增大再急速减小；气流进口总温对轮周效率的影响不大，理论上，离心透平可以在较宽的温度范围内以较高的效率运行；变转速运行时，最高轮周效率对应不同的流量值，转速越高，轮周效率最高处所需要的流量越大；转速在40000-70000rpm变化时，离心透平可运行的流量范围比较宽，适用性强；且轮周效率在 $70 \%$ 以上的流量范围比较大。结果表明这类离心透平的变工况性能与传统的轴流透平及向心透平的变工况性能相当。
+
+aCentrifugal Turbine for Organic Rankine Cycle Applications[J].Journal ofEngineeringfor Gas Turbines & Power,2013,135(4),p.042312.   
+[4] Casati E,Vitale S,Pini M,etal. Centrifugal Turbines for Mini-Organic Rankine Cycle Power Systems[J]. Journal ofEngineeringfor Gas Turbines &Power,2014,136(12), p.122607.   
+[5] Persico G, Pini M,Dossena V,Gaetani P.Aerodynamics of Centrifugal Turbine Cascades. Journal of Engineering for Gas Turbines & Power,2015;137(11),p.112602   
+[6] 黄典贵, 谭鑫, 李银各.径向离心透平:中国,
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+104863643A.2015-08-26.HUANG Diangui,TAN Xin，LI Yinge.The RadialCentrifugal Turbine: China,104863643A.2015-08-26.  
+[7]赵永娟．增压器径流式涡轮性能曲线计算方法研究[D]．济南：山东大学硕士学位论文,2010.ZHAO Yongjuan. Study on Calculation Method ofPerformance Curve of Turbocharger Run-off Turbine[D].Jinan: Master's Degree Thesis of Shandong University,2010.  
+[8]王新军，李亮，宋立明，李军．汽轮机原理[M]．西安:西安交通大学出版社,2014.WANG Xinjun， LI Liang, SONG Liming,LI Jun.Principles of Steam Turbine[M]. Xian: Xi'an Jiao TongUniversity Press,2014.  
+[9]温泉，梁德旺．微小型向心涡轮转子的流动特性分析[J]．内燃机学报,2004,22(03):265-272.WEN Quan，LIANG Dewang. Analysison FlowCharacteristics of Micro Radial Turbine Rotor[J]. Journalof Internal Combustion Engines,2004,22(03):265-272.  
+[10] 刘诗汉，马虎．航空涡轮叶片叶身造型参数化设计[J]．兵工自动化,2015,34(4):56-63.LIU Shihan, MA Hu. Parametric Design of Aero TurbineBlade[J]. Ordnance Industry Automation,2015,34(4):56-63.  
+[11]刘润泽．透平叶片气动优化设计方法研究[D]．北京:中国科学院研究生院硕士学位论文,2009.LIU Runze. Study on Aerodynamic Optimization DesignMethod of Turbine Blade[D]. Beijing: Master's DegreeThesis of Graduate University of Chinese Academy ofSciences,2009.  
+[12] 李兵，何正嘉，陈雪峰.ANSYS Workbench 设计、仿真、优化[M]．北京：清华大学出版社,2013.LI Bing，HE Zhengjia,CHEN Xuefeng. ANSYSWorkbench Design, Simulation and Optimization[M].Beijng: Tsinghua University Press,2013.  
+通讯作者：黄典贵  
+地址：上海市杨浦区军工路516号上海理工大学能源  
+与动力工程学院  
+联系电话：021-55897317,15821759373  
+Email: dghuang@usst.edu.cn  
+第一作者：罗丹  
+邮箱：1506489117@qq.com  
+电话：18818226595
+
+# WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538

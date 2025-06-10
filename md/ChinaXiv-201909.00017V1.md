@@ -1,0 +1,156 @@
+# 基于建设开发适宜性评价的干旱区绿洲城市增长边界的划定
+
+以乌鲁木齐市为例
+
+朱天翥}²，杜宏茹²，张小雷1²，王伯礼³（1．中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011；2．中国科学院大学,北京100049;3．中国科学院地理科学与资源研究所,北京100101)
+
+摘要：科学合理地划定城市增长边界是控制城市无序蔓延、减少土地利用效率低下的有效途径,也是目前我国空间规划探索的重要内容之一。城市增长边界划定应依据区域不同资源环境本底条件和建设开发水平，因地制宜地选择合适的指标和方法,才能更准确地反映出城市发展的实际和需求,起到切实的指导作用。干旱区城市的发展受绿洲一荒漠生态系统影响作用显著,城市扩张过程中人地矛盾较为突出,城市增长边界划定必须体现资源环境一经济社会发展的协调性。本文以乌鲁木齐市为例，基于资源环境底线和城市发展潜力评价相叠加的研究思路,尝试探索干旱区绿洲城市增长边界划定的可行方法，结果表明： $\textcircled{1}$ 限制性评价和适宜性评价相结合的方法，可以很好地划定干旱区绿洲城市增长边界。 $\textcircled{2}$ 将绿洲区域作为土地潜力的评价单元，对于干旱区绿洲城市划定城市增长边界要更加合理和适用。 $\textcircled{3}$ 城市增长边界划分为刚性边界和阶段性边界可以指导城市土地的开发。
+
+关键词：城市增长边界；限制性评价；适宜性评价；阶段性边界；乌鲁木齐
+
+改革开放以来，我国城镇化水平快速提高，但在城市化过程中也出现了诸多问题，例如资源粗放使用、建设用地开发效率低、环境日渐恶劣，造成这些问题的重要原因就是土地城镇化和人口城镇化发展失衡[1],控制城市无序蔓延已经迫在眉睫。在此背景下，城镇增长的合理边界研究和探索日益受到各界关注。《国家新型城镇化规划（2014—2020)》提出“合理控制城镇开发边界，优化城市内部结构，促进城市紧凑发展，提高国土空间利用效率”，党的十九大报告也明确提出“完成生态保护红线、永久基本农田、城镇开发边界三条控制线划定工作”。随着我国国土空间规划体系的建立，探索城市增长边界的科学划定，更是我国学术界探索城镇空间科学有效管理的热点研究命题。
+
+城市增长边界（urban growthboundary，简称UGB)最初(1976年)是由美国俄勒冈州的塞勒姆市提出，确定城市增长边界为一条城市和农业的分界线。随后，不同学者从不同的角度定义城市增长边界[2]。Richard Sybert[3]认为,城市增长边界是围绕城市划定一条限制其外部发展的界线。David Bengston 等[4]认为,城市增长边界是将城市化地区与郊区生态保留空间进行区分的重要界线。国内学者在实践应用中也从多角度解读了城市增长边界的概念和内涵。龙瀛等5将城市增长边界和规划城镇建设用地边界相等同;黄慧明等[6-7]认为,城市增长边界划定了城市的未来需求空间；白玉静则从城市发展的底线出发，阐明城市增长边界是生态保护的底线，是不可突破的界限。笔者认为，城市增长边界是城市发展过程中，具有引导城市发展和确定城市不可开发范围作用的区域，既包括自然环境约束下的限制性底线，也包括不同发展阶段下满足城市需求的阶段性边界。根据城市增长边界在城市空间管控中的作用，城市增长边界可以分为限制性底线的刚性边界以及不同阶段开发的阶段性边界。
+
+众多学者探索了划定城市增长边界的研究方法，主要可以分为以下三类： $\textcircled{1}$ 模拟城市增长，直接划定城市未来增长边界,例如龙瀛[5]、付玲[9、李灿[1°]等采用自动模拟的方法确定城市增长边界，从用地发展潜力确定增长边界。 $\textcircled{2}$ 确定城市增长的底线，从生态以及其他限制城市增长的因素入手确定城市增长边界,例如祝仲文(1]、王佩[12]和王玉国等[13]从生态安全或者建设开发适宜性等角度确定城市增长边界，从用地底线角度确定城市增长边界。$\textcircled{3}$ 将城市发展和生态底线相结合，分别确定城市的未来增长边界和不可突破边界,例如朱寿红〔14」、王颖[15]、钟珊[16]等将生态约束和用地模拟结合的方法共同确定城市增长边界。在此基础上，越来越多的学者通过城市发展资源环境限制条件和适宜开发条件相结合来多维度划定城市增长边界，不断丰富了城市增长边界的划分方法体系。从目前的研究成果看，多是从水土条件、资源禀赋、发展潜力等方面确定评价因子，从而划定城市增长边界，研究区域多集中于北京[9]、长沙[17]、杭州[18]等城市。对于不同禀赋和发展特点的城市而言，其划定因子也有一定的变动，需要根据各地的实际情况确定相关评价因子。目前，关于干旱区城市增长边界划定的研究较少，本文从土地本底开发底线和土地开发潜力视角出发，分析干旱区绿洲城市发展的特性因子，探索评价的指标和方法，以期为干旱区城市增长边界的研究提供一定的决策依据。
+
+# 1 研究区概况
+
+乌鲁木齐市是新疆的首府，位于亚欧大陆腹地，地处天山北坡中段准噶尔盆地南缘，是世界上离海洋最远的城市[19]。乌鲁木齐处于荒漠—绿洲地带,南部以山地为主，中部为绿洲沉积平原，北部为戈壁荒漠(图1）。山地面积占总面积的 $5 0 \%$ 以上，中部绿洲面积约占总面积的 $40 \%$ 。2015年土地总面积达 $1 . 3 7 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，人口 $2 . 6 7 \times 1 0 ^ { 6 }$ 人，城镇化率达到$9 1 . 9 5 \%$ ,是典型的“大城市，小郊区”，大多数人口一经济集聚在有限的绿洲上，建成区面积为$4 2 6 . 9 8 ~ \mathrm { k m } ^ { 2 }$ ,建成区人口密度高达4 832人· $\mathrm { k m } ^ { - 2 }$ ，在城市空间扩展过程中人地矛盾相对突出。2007—2015 年,乌鲁木齐建成区面积年均扩大 $2 0 . 6 3 \ \mathrm { k m } ^ { 2 }$ 土地城镇化增长速度为 $6 . 3 \%$ ；而同期城镇人口从$2 . 2 4 \times 1 0 ^ { 6 }$ 人减少到 $2 . 0 6 \times 1 0 ^ { 6 }$ 人。在扩张过程中，土地单位效益有所降低，单位建设用地非农产值从$6 . 1 6 \times 1 0 ^ { 8 }$ 元· $\mathrm { k m } ^ { - 2 }$ 减少到 $6 . 1 0 \times 1 0 ^ { 8 }$ 元· $\mathrm { k m } ^ { - 2 }$ 因此，控制乌鲁木齐城市无序蔓延、合理开发城市土地是未来城市建设中的最重要的任务之一，而科学合理确定增长边界则成为当务之急。
+
+![](images/1d13f7cea3ab1d496de73c21e3b4bfbaad58a46caa2aa7f673499eafdd578765.jpg)  
+图1乌鲁木齐遥感影像图Fig.1Remote sensing images of Urumqi
+
+# 2划定方法
+
+# 2.1 划定方法
+
+本文借鉴国内外其他学者的研究成果，通过综合评价土地建设开发的限制性因素和适宜条件，确定城市增长边界。通过ArcGIS空间分析和叠加，划定城市禁止开发建设的刚性以及不同阶段开发的弹性边界。2.1.1建设开发限制性评价土地限制性是指土地资源针对某些用途表现出来的不适用性。对于城市建设开发而言，土地限制性评价是指土地资源用于建设开发的制约性评价，是结合区域自然地理条件、资源环境禀赋、生态安全和保护、开发建设的安全性和难度等因素开展的建设开发影响程度的评价。通过土地建设开发限制性评价可以确定研究区中各地块的主导限制因素和限制等级。
+
+城市土地建设开发限制性评价主要影响因素的选择，一般基于以下方面的考虑： $\textcircled{1}$ 从土地资源本底条件中选取可能影响城市建设开发的因子，例如高程和坡度，认为坡度大于 $2 5 ^ { \circ }$ ,高程大于 $4 ~ 1 0 0 \mathrm { ~ m ~ }$ 的区域开发难度较大，是城市建设开发的限制性因素； $\textcircled{2}$ 从建筑安全和居民生命安全角度考虑，地质活动断层、矿山占用和塌陷地、地质灾害易发区等因子对城市建设开发会有较大隐患，土地开发的制约性较大； $\textcircled{3}$ 从生态文明建设和城市可持续发展的角度考虑，生态系统稳定性、重要生态保护区也是建设开发限制性因子，根据不同的生态类型区确定其对建设开发的限制性强度； $\textcircled{4}$ 国家各类生态功能区和各类重大规划中明确要求禁止进行建设开发的区域，例如冰川、重要水源保护地、国家和自治区级自然保护区、风景名胜区、地质公园、永久基本农田，也应进入限制性评价考虑范围。
+
+作为干旱区绿洲城市，在土地限制性评价过程中还应考虑到干旱半干旱区域的现实条件。水资源是干旱区建设开发最主要的因素，在土地资源本底条件评价过程中，还应在土地资源禀赋评价的同时考虑水资源禀赋条件，增加降水量因子作为补充。同时，由于干旱区荒漠化和沙化土地面积较大，不同类型的荒漠化和沙化土地的建设开发难度不同，在生态限制性评价过程中将其进一步细化，以便于更精准地界定其限制程度。
+
+根据其对城市建设开发的限制程度，将每个因子的区域分布划分为禁止区、限制区、弱限制区和无限制区。禁止区是建设开发难度巨大，或者开发对生态环境有重大影响，或者国家明确禁止开发的区域；限制区是建设开发难度较大或者开发对生态环境有显著影响，国家明确要求限制开发的区域；弱限制区是建设开发有难度或者开发对生态环境有影响的区域；其余区域确定为无限制区。
+
+具体评价因子的选取如表1。
+
+使用ArcGIS软件，将每个因素不同等级的区域分布进行空间叠加，得到研究区限制性评价结果。同一地块涉及不同等级的限制性程度比较时，按照最严格限制级别来确定。2.1.2建设开发适宜性评价土地的适宜性是指某一块土地对于某种用途的适合程度。对于城市建设开发而言，土地建设开发的适宜性评价是指根据土地的自然和社会经济属性，结合开发现状和开发潜力，综合判定其适合与否以及适宜程度。建设开发适宜性评价等级越高，适宜性程度越高，则说明越适宜于城市建设开发。
+
+土地建设开发适宜性评价影响因子的选取，主要考虑以下方面： $\textcircled{1}$ 建设开发的资源禀赋保障，主要是水、土资源的保障度。在本研究中考虑到干旱
+
+# 表1土地建设开发限制性评价因子表
+
+Tab.1 Factors restricting land exploitation   
+
+<html><body><table><tr><td colspan="2">因子层</td><td>限制性 等级</td></tr><tr><td>高程</td><td>海拔4100m以上</td><td>禁止</td></tr><tr><td>坡度</td><td>25°以上</td><td>限制</td></tr><tr><td rowspan="5">地质灾害</td><td>8°~25°</td><td>弱限制</td></tr><tr><td>0°~8°</td><td>无限制</td></tr><tr><td>高易发区</td><td>限制</td></tr><tr><td>中、低易发区</td><td>弱限制</td></tr><tr><td>非易发区</td><td>无限制</td></tr><tr><td rowspan="2">活动断层</td><td>严重影响区</td><td>弱限制</td></tr><tr><td>较严重、轻微或稳定区</td><td>无限制</td></tr><tr><td rowspan="2">矿山占用土地</td><td>塌陷地</td><td>限制</td></tr><tr><td>采场、固体废弃物、中转场地及矿山建筑</td><td>弱限制</td></tr><tr><td>生态建设重</td><td>非矿山占用土地 有林地、天然草地、人工牧草地</td><td>无限制</td></tr><tr><td>点区</td><td></td><td>限制</td></tr><tr><td>荒漠化和土地</td><td>灌木林地、其他林地 水蚀性荒漠化、冰融性荒漠化、风蚀残丘、禁止</td><td>弱限制</td></tr><tr><td rowspan="4">沙化</td><td>风蚀劣地</td><td></td></tr><tr><td>盐渍地、流动沙丘、非生物治沙工程地</td><td>限制</td></tr><tr><td>半固定、固定沙地、沙化土地、戈壁</td><td>弱限制</td></tr><tr><td>非荒漠化、非沙化土地</td><td>无限制</td></tr><tr><td>永久基本农田</td><td>永久基本农田</td><td>禁止</td></tr><tr><td>生态保护控 制区</td><td>冰川、重要水源保护地、国家和自治区级禁止 自然保护区、风景名胜区、地质公园</td><td></td></tr></table></body></html>
+
+区城市土地资源量相对较多，主要选取人均可利用水资源量作为适宜程度评价的因子。 $\textcircled{2}$ 城市建设发展的现状水平，包括人口规模、经济发展水平，使用人口密度表征人口规模压力，使用人均GDP表征经济发展水平。一般而言，人口规模压力越大、经济发展水平越高的区域，其土地建设开发的需求越大。$\textcircled{3}$ 王地建设开发的需求潜力，考虑到集中开发建设的一般规律，距离现状建设用地越近的区域，其发展的可能性越大，发展潜力也越大。这里需要说明的是，由于乌鲁木齐市人口一产业主要集中在绿洲上，绿洲之外的人类活动非常少，本文在适宜性评价时人口、经济等指标主要以绿洲区域为基底进行，这样更能够真实地反映城市发展的真实情况，也有利于评价的科学性。
+
+各土地地块的适宜性分值按以下公式计算：
+
+$$
+S = \ \sum _ { k = 1 } ^ { n } w k
+$$
+
+式中：S为一地块建设开发适宜性的综合得分； $k$ 为第 $k$ 个评价因子； $n$ 为共有 $n$ 个评价因子； $w k$ 即为第$k$ 个评价因子的适宜性评价分值。
+
+采用专家打分法，确定每个适宜性评价因子的
+
+# 表2建设开发适宜性评价因子及其适宜性分值
+
+Tab.2Factors for evaluating the suitability of construction anddevelopment andthe suitabilityscores   
+
+<html><body><table><tr><td>指标层</td><td>指标分级</td><td>适宜性得分</td></tr><tr><td>人均可利用水资源量/m</td><td>>2 000</td><td>100</td></tr><tr><td rowspan="8">人口密度/（人·km-²)</td><td>1000~2000</td><td>80</td></tr><tr><td>300~1000</td><td>60</td></tr><tr><td>0~300</td><td>40</td></tr><tr><td><500</td><td>100</td></tr><tr><td>500~1000</td><td>80</td></tr><tr><td>1000~2000</td><td>60</td></tr><tr><td>>2 000</td><td>40</td></tr><tr><td>>100 000</td><td>100</td></tr><tr><td rowspan="6">距现状建设用地的距离/km</td><td>50 001~100 000</td><td>80</td></tr><tr><td>30 000~50 000</td><td></td></tr><tr><td><30 000</td><td>60 40</td></tr><tr><td>距离<0.5</td><td>100</td></tr><tr><td>0.5<距离<1</td><td>80</td></tr><tr><td>1<距离<2</td><td>60</td></tr><tr><td></td><td>2<距离</td><td>40</td></tr></table></body></html>
+
+指标分级和适宜性得分（表2）。
+
+通过对各因子的空间叠加分析，得到适宜性评价结果。通过聚类分析，将适宜性评价成果划分为4个等级,即不适宜区域、基本不适宜区域、基本适宜区域和最适宜区域。城市建设开发的适宜级别，从最适宜区域向不适宜区域递减，城市建设开发应优先考虑适宜级别高的区域。
+
+# 2.2城市增长边界的划定
+
+采用ArcGIS对土地建设开发限制性评价结果和适宜性评价结果进行空间整合，依据“短板”原则确定每个地块所属的城市增长边界的类型（表3）。其中，类型1表示土地既属于禁止开发的区域，又属于不适宜开发的区域,这个区域依据底线思维设立，是城市开发的“红线”，是一条不可突破的边界，属于城市建设开发的永久性的刚性边界。类型2～6地块所具有的限制性和适宜性程度各有不同，级别越高表示地块越适合城市开发。理论上讲，城市扩张过程时应优先选择级别较高的区域，然后向级别较低的区域扩展。
+
+表3城市增长边界空间分类  
+Tab.3Space classification of urban growth boundary   
+
+<html><body><table><tr><td></td><td>不适宜</td><td>基本不适宜</td><td>基本适宜</td><td>最适宜</td></tr><tr><td>禁止</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>限制</td><td>2</td><td>2</td><td>3</td><td>4</td></tr><tr><td>弱限制</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>无限制</td><td>2</td><td>4</td><td>5</td><td>6</td></tr></table></body></html>
+
+将分类结果与现状城镇已开发建设的用地空间进行叠加，得到城市增长边界的划定结果。在现状开发空间和刚性边界之间，还可以确定不同发展阶段的弹性边界，包括近期优先开发区、中期储备开发区以及远期预留地。近期优先开发的区是指类型6,无限制最适宜开发的区域；中期储备开发区是指类型5，无限制基本适宜的区域；远期预留地是指类型2～4，限制或弱限制，基本适宜或基本不适宜的区域。
+
+# 3 结果分析
+
+# 3.1 限制性评价结果
+
+通过ArcGIS空间表达，将所有因子的限制性评价结果进行空间叠加，得到乌鲁木齐的限制性评价结果(图2）。其中，禁止区占整个乌鲁木齐总面积的 $4 5 . 9 4 \%$ ，主要位于乌鲁木齐的达坂城荒漠、水源地等区域和乌鲁木齐县山地区域,其分布较为集中;限制区占总面积的 $2 6 . 4 8 \%$ ，主要分布在米东区、乌鲁木齐县及达坂城;弱限制区占总面积的 $2 3 . 5 1 \%$ ，主要分布在米东区、乌鲁木齐县、天山区等地势较为开阔的区域；无限制区占总面积的 $4 . 0 7 \%$ ，主要分布在新市区、头屯河区和米东区地势较为平坦的绿洲平原区域。
+
+# 3.2 适宜性评价结果
+
+通过对土地适宜性评价各因子空间叠加，最终得到建设开发适宜性评价结果（图3）。其中，最适宜区面积为 $2 \ 0 7 3 . 3 4 \ \mathrm { k m } ^ { 2 }$ ，占乌鲁木齐总面积的$1 5 . 0 4 \%$ ；基本适宜区总面积为 $2 ~ 9 4 1 ~ \mathrm { k m } ^ { 2 }$ ,占总面积的 $2 1 . 3 4 \%$ ;基本不适应面积为 $1 \ 0 4 5 \ \mathrm { k m } ^ { 2 }$ ,占总面积的 $7 . 5 8 \%$ ;不适宜区面积为 $7 \ 7 2 4 \ { \mathrm { k m } } ^ { 2 }$ ，占总面积的$56 . 0 4 \%$ 。就各类型分布而言，适宜性评价确定的土地建设开发适宜性随着距离现状建设开发区域的距离增加而减小。乌鲁木齐绿洲区的适宜性整体高于绿洲外围区域。
+
+# 3.3城市增长边界划定结果
+
+根据得到的限制性评价与适宜性评价结果进行叠加，得到城市增长边界初步划定的成果。在此基础上考虑城市建设开发的成本以及城市发展的客观规律，将近期优先开发区和中期储备开发区域内面积小于 $1 \ \mathrm { k m } ^ { 2 }$ 的区域调整为远期预留地，并且叠加乌鲁木齐现状建设开发区，得到最终的城市增长边界空间分布图（图4）。
+
+![](images/8d7a51a6976ab1796ef6f8988329bc156cf828cfd5e2c13ae92926bdd9046f78.jpg)  
+图2乌鲁木齐限制性综合评价成果
+
+![](images/a81ad8dd665d9b3e093af079d88eca0ac3e8aaaeafb25ec0edba224c96907155.jpg)  
+Fig.2Restrictive comprehensive evaluation results of Urumqi   
+图3乌鲁木齐适宜性评价成果 Fig.3Suitability evaluation results of Urumqi
+
+乌鲁木齐现状建设开发区域面积约 $4 8 0 ~ \mathrm { k m } ^ { 2 }$ （20占比 $3 . 4 9 \%$ ，主要集中在中部平原以天山区、沙依巴克区、新市区和水磨沟区4个主城区为主的建成区范围内，是自然资源环境和经济基础较好的区域（表4)。刚性边界主要是限制性评价中的禁止区，大多分布在达坂城和乌鲁木齐县，多集中乌鲁木齐中部和南部。阶段性边界整体呈现出由现状城镇建设用地空间逐步向外扩散的趋势，符合城市扩展的自然发展规律。近期优先开发区是近期城市发展开发最适宜的区域，总面积 $9 5 ~ \mathrm { k m } ^ { 2 }$ ，占总面积的$0 . 6 9 \%$ ，主要分布于现状城镇空间外围以及来东区，与乌鲁木齐城市发展规划“南控北扩、东延西进”和城市向北发展扩展的整体战略方向较为一致，也符合《乌鲁木齐城市总体规划（2014—2020年）（2017年修订)》所确定的城市发展空间。中期储备开发区是指今后一段时期内依据城市发展需求适宜开发的区域,总面积为 $4 9 5 ~ \mathrm { k m } ^ { 2 }$ ,占总面积的 $3 . 6 0 \%$ ，主要位于头屯河区、米东区、达坂城区及乌鲁木齐县。远期预留地是城市发展到一定规模以后才可能用到的建设开发用地，需要依据城市发展速度而定，也需要根据城市发展过程中土地开发的迫切性、科技发展水平以及城市经济发展水平等因素才能更加细化和明确。
+
+![](images/be790196fb144463450a2e7963d8f5a729ddd14eab235d0e37802b5920048a51.jpg)  
+图4城市增长边界空间分布  
+Fig.4Spatial distribution of urban growth boundary
+
+表4城市增长边界类型面积及占比  
+Tab.4Areas and proportions of urban growth boundary types   
+
+<html><body><table><tr><td>土地类型</td><td>面积/km²</td><td>占比/%</td></tr><tr><td>现状建设开发区</td><td>480</td><td>3.49</td></tr><tr><td>刚性边界范围</td><td>6315</td><td>45.95</td></tr><tr><td>近期优先开发区</td><td>95</td><td>0.69</td></tr><tr><td>中期储备开发区</td><td>495</td><td>3.60</td></tr><tr><td>远期预留地</td><td>6357</td><td>46.26</td></tr></table></body></html>
+
+# 4结论
+
+本文在参考其他学者关于城市增长边界划定方法的基础上，以乌鲁木齐市为例，体现干旱区绿洲城市特点，将土地资源环境开发底线与城市土地发展潜力结合起来，开展土地建设开发的限制性评价和适宜性评价，综合划定城市增长边界。结果表明： $\textcircled{1}$ 乌鲁木齐城市增长边界划定的结果，与城市发展的实际情况、城市发展趋势有较好的契合性，说明采用限制性评价和适宜性评价相结合的方法可以很好地划定城市增长边界； $\textcircled{2}$ 干旱区城市在划定城市增长边界时，将绿洲区域作为土地潜力的评价单元，相对于将整个研究区作为评价单元要更加合理和适用；$\textcircled{3}$ 将城市增长边界划分为生态底线管控的刚性边界和可分阶段发展的弹性边界，可以具体指导城市土地的开发。
+
+由于数据的来源和精度要求所限，本文在指标选取和应用过程中仍有不足，今后可以更深入地探讨。同时，划定结果应与城市发展实际和用地需求之间进行良好的对接。下一步仍需继续开展相关工作，对现有结果进行校正，使之更符合实际发展需求，更好地发挥出城市增长边界管控的有效作用。
+
+# 参考文献（References）：
+
+[1]刘琼,杜晓航,盛业旭.基于阶段对比的中国人口城镇化与土 地城镇化协调关系[J].中国人口·资源与环境,2018,28（1）：   
+26-34.[Liu Qiong,Du Xiaohang,Sheng Yexu. Study on the coordination relationship between population urbanization and land urbanization in China based on stagecomparison[J].China Population,Resources and Environment,2018,28(1）:26 -34.] [2] Myung-Jin Jun.The effects of portland's urban growth boundary on housing prices[J]. Journal of the American Planning Association,   
+2006,72(2):239-243. [3] Sybert Richard.Urban Growth Boundaries[R].Governor's Office of Planning and Research（California）and Overnor's Interagency Council on Growth Management,1991. [4] Bengston D N,FletcherJO,Nelson K C.Public policies for man
+
+aging urban growth and protecting open space:Policy instruments and lessons learned in the United States[J].Landscape and Urban Planning,2004,69(2-3） :271-286.
+
+[5］龙瀛,韩昊英,毛其智.利用约束性CA制定城市增长边界[J]. 地理学报,2009,64（8）:99-1008.[Long Ying,Han Haoying, Mao Qizhi.Establishing urban growth boundaries using constrained CA[J].Acta Geographica Sinica,2009,64(8）:999 -1 008.]   
+[6]黄慧明,Sam Casella,Faicp PP.美国"精明增长"的策略、案例 及在中国应用的思考[J].现代城市研究,2007（5）：19－28. [Huang Huiming,Sam Casella,Faicp PP.Main policy and cases of smart growth,consideration on how to apply in China megalopolis[J].Modern UrbanResearch,2007(5）:19-28.]   
+[7］吴箐,钟式玉.城市增长边界研究进展及其中国化探析[J].热 带地理,2011,31(4）:409-415.[WuQing,ZhongShiyu.Review of urban growth boundary research and analysis of its sinicization [J].Tropical Geography,2011,31(4）:409 -415.]   
+[8］白玉静.基于生态安全的哈尔滨城市空间增长边界研究[D]. 哈尔滨：哈尔滨工业大学,2013.［BaiYujing.Researchon Urban Growth Boundaries in Harbin Based on Ecological Aecurity[D]. Harbin:Institute of Technology,2013.]   
+[9]付玲,胡业翠,郑新奇.基于BP 神经网络的城市增长边界预 测——以北京市为例[J].中国土地科学，2016，30(2）：22- 30.[Fu Ling,Hu Yecui,Zheng Xinqi.The prediction of urban growth boundary based on BP artificial neural networks:An application to Beijing[J]. China Land Sciences,2016,30（2）: 22- 30.]   
+[10］李灿,汤惠君,张凤荣.基于建设用地适宜性评价的城市增长 边界划定[J].西南师范大学学报（自然科学版），2017，42 (7）:105-111.[Li Can,Tang Huijun,Zhang Fengrong.On delimitation of urban growth boundary basedon constructuon land suitability evaluation[J].Journal of Southwest China Normal University（Natural Science Edition）,2017,42（7）:105-111.]   
+[11］祝仲文,莫滨,谢芙蓉.基于土地生态适宜性评价的城市空间 增长边界划定—以防城港市为例[J].规划师,2009，25 (11）:4O-44.[Zhu Zhongwen,Mo Bin,XieFurong.Delimitation of urban growth boundary based on land ecological suitability evaluation:A case of Fangchenggang[J]. Planners,2009,25（11）:40 -44.]   
+[12］王佩.生态安全格局约束下城市增长边界划定研究[D].安 徽：安徽建筑大学,2016.[Wang Pei.Study on the Delimitation of Urban Growth Boundary under Ecological Security Pattern[D]. Anhui:Anhui Jianzhu University,2016.]   
+[13]王玉国,尹小玲,李贵才.基于土地生态适宜性评价的城市空 间增长边界划定——以深汕特别合作区为例[J].城市发展研 究,2012,19(11）:76-82.[Wang Yuguo,Yin Xiaoling,Li Guicai. Delimitation of urban growth boundary based on land ecological suitability svaluation:A case of Shenshan special corporation zone [J].Urban Development Studies,2012,19(11）:76 -82.]   
+[14]朱寿红,舒帮荣,马晓冬，等.基于“反规划"理念及FLUS 模型 的城镇用地增长边界划定研究——以徐州市贾汪区为例[J].
+
+地理与地理信息科学，2017，33（5）：80-86，127.[ZhuShouhong,Shu Bangrong,Ma Xiaodong,et al.The delimitation of urban growth boundary based on the idea of“Anti-planning”and FLUS model:A case study of Jiawang District,Xuzhou City[J]. Geography and Geo-Information Science,2017,33(5）:80-86,127.]
+
+[15]王颖，顾朝林.基于格网分析法的城市弹性增长边界划定研究——以苏州市为例[J].城市规划，2017，41（3）：25-30.[Wang Ying,Gu Chaolin.Grid-based spatial evaluation of establis-hing urban growth boundary:A case study of Suzhou City[J].CityPlanningReview,2017,41(3）:25-30.]
+
+[16]钟珊，赵小敏，郭熙，等.基于空间适宜性评价和人口承载力的 贵溪市中心城区城市开发边界的划定[J.自然资源学报， 2018,33(5）:801-812.[Zhong Shan,Zhao Xiaomin,Guo Xi,et al.Delimitation of urban growth boundary based on spatial suitability evaluation and population carrying capacity in Guixi County [J].Journal of Natural Resources,2018,33(5）:801-812.]
+
+[17]梅梦媛，陈振杰，张云倩，等.居民活动空间与生态约束协调的 城市开发边界划定方法——以长沙市为例[J].长江流域资源 与环境,2018,27（11）：2 472－2 480.[Mei Mengyuan,Chen Zhenjie,Zhang Yunqian,et al. Study on the delineation method of urban growth boundary under the coordinationof residential activity apace and ecological constraint:A case study of Changsha,China [J].Resources and Environment in the Yangtze Basin,2018,27 (11):2 472 -2 480.]
+
+[18]李咏华.生态视角下的城市增长边界划定方法一—以杭州市为例[J].城市规划，2011，35（12）：83-90.［LiYonghua.Meth-od of determing urban growth boundary from the view of ecology:Acase studyofHangzhou[J].CityPlanningReview,2O11,35(12）：83-90.]
+
+[19］陈春美,钟珂,陈勇航,等.干旱区典型城市云对太阳辐射的影响[J].干旱区研究，2018,35（2）：436-443.[ChenChunmei，Zhong Ke,Chen Yonghang,et al.Effects of clouds on solar radia-tion over typical city in arid area[J].Arid Zone Research,2018,35(2) :436-443.]
+
+# Delimitation of Urban Growth Boundary in Arid Oasis Based on Evaluating the Suitability of Construction and Development : A Case Study in Urumqi City
+
+ZHU Tian-zhu1,²，DU Hong-ru1’²， ZHANG Xiao-le $^ { 1 , 2 }$ ，WANG Bo-li³ (1. Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences,Urumqi 830o11,China; 2.University of Chinese Academy of Sciences,Beijing 100049,China; 3.InstituteofGeographic Sciences andNaturalResourcesResearch,ChineseAcademyofSciences,BeijingOoo1,China)
+
+Abstract：It isan effctive way toscientifically and rationallydelimit theurban growth boundaryforcontroling the disorderly urban expansionand reducing the inefficient urban land use.Itisalsooneof the important contentsof space planning exploration in China.The urban growth boundary demarcation should be based on the regional resources conditions and construction and development level of diferent regions,and the appropriate indicators and methods should be selected according tothe local conditions so as to more accurately reflect the actuality and demand of urbandevelopment.Theurban developmentin aridareas is significantlyaffected bytheoasis-desert ecosystem.The contradiction between people and land is more prominent in the process of urban expansion.The delimitation of urban growth boundary must reflect the coordination of resources,environment and economic and social development.In this paper,it was atempted tocaryout the delimitation of urban growth boundary in Urumqi soas to explorethe feasible methods fordelimiting the urban growth boundary in arid regions based ontheresearch ideas of resources environment background and construction and development level.The results showed that : $\textcircled{1}$ The combination ofrestrictiveevaluation and suitability evaluation could beused to welldelimitthe urban growth boundary in arid area; $\textcircled{2}$ Oasis could be regarded as an evaluation unit of land potential so as to make the delimitation of urban growth boundary in arid area more reasonable and applicable; $\textcircled{3}$ Delimitation of urban growth boundary was divided into the permanent boundary and periodic boundary,which could be used to guide the development of urban land.
+
+Key words:urban growth boundary；restrictive evaluation；suitability evaluation；periodic boundary； Urumqi

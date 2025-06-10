@@ -1,0 +1,165 @@
+# 植物菌根块菌分子鉴定及菌丝培养基优化的研究
+
+樊莉娟¹，张国珍²，张冰冰」，徐莺¹，秦小波1,2\*(1．四川大学 生命科学学院，生物资源与生态环境教育部重点实验室，成都 610065；2．四川省自然资源科学研究院，成都610015)
+
+摘要：块菌属（Tuber）是由真菌感染其适宜植物根系形成，部分块菌如法国黑孢块菌(T.melanosporum)和中国印度块菌(T.indicum)等为珍稀药食两用菌，具有很高的经济价值。对块菌的过度挖掘造成野生块菌资源匮乏，块菌人工栽培技术则是实现块菌产业可持续性发展的重要基础。目前国内外人工栽培主要采用块菌子实体匀浆制成的子囊孢子悬浮液，与人工种植苗木根系共生。利用块菌菌丝替代子实体孢子悬浮液进行接种，具有减少对块菌子实体的依赖性和生产成本、保护林下块菌野生资源、促进块菌人工繁育进程的积极意义，但需要成熟高效的菌丝培养技术。因此该研究从云南、陕西等地林下采取块菌样品，在ITS 分子鉴定并纯化得到纯种菌丝的基础上，以菌丝直径为指标，经单因素实验和4因素3水平正交实验 ${ \mathrm { L } } 9 ( 3 ^ { 4 } )$ ，筛选得出最适宜的菌丝生长培养基。结果表明：(1)形态和ITS 分子鉴定得到的13份块菌样品分属印度块菌(T.indicum)和假凹陷块菌 $\mathrm { \ddot { \it { T } } }$ pseudoexcavatum)两种。 (2)纯化的印度块菌菌丝培养基的最佳碳源为马铃薯浸出液，最佳氮源为酵母膏，VB1对印度块菌菌丝生长并无显著性促进作用。(3)最佳的碳源、氮源、无机盐组合为马铃薯浸出液 $1 5 0 \ \mathrm { g { \cdot } L ^ { - 1 } }$ ，酵母膏 $3 \ \mathrm { g \cdot L ^ { - 1 } }$ ， $\mathrm { M g S O _ { 4 } 2 \ g { \cdot } L ^ { - 1 } }$ ， $\mathrm { K H _ { 2 } P O _ { 4 } }$ $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。 $2 5 ^ { \circ } \mathrm { C }$ ，自然pH下培养8d菌落直径可达 $4 9 . 4 4 \mathrm { m m }$ 。
+
+关键词：块菌属，ITS，菌丝，固体培养基，优化
+
+# Study on molecular identification and optimization of mycelium
+
+# culture medium in plant mycorrhizal tubers
+
+FAN Lijuan1, ZHANG Guozhen², ZHANG Bingbing1, XU Ying1,QIN Xiaobo1,2\* (1. Key Laboratory of Bio-Resources and Eco-Environment Ministry of Education, Collge of Life Sciences, Sichuan University,Chengdu 610065,China;2.Sichuan Natural Resources Institute,Chengdu 610015,China) Abstract: Tuber is atype of fungus underground,formed by infecting suitable plant roots.And some species such as T.melanosporum and T.indicum are rare and valuable for both medicine and food.The over excavation of Tuber has caused a shortage of wild Tuber resources,and the artificial cultivation technology of Tuber isan important foundation for the sustainable development ofthe Tuber industry.At present,the ascosporic suspension made from the homogenate of the fruiting body,is mainly used inthe artificial cultivation,which is symbiotic with the roots of the planting seedlings.It is valuable for reducing the dependence on the fruiting bodyof Tuber and the production cost, protecting the wild resources of Tuber under the forest and promoting the process of artificial propagation of Tuber,to use the myceliumof Tuber instead of the spore suspension for inoculation,but it needs mature and efficient technology for mycelium culture.Therefore,Tuber samples were taken from the forests of Yunnan, Shaanxi and other places. Then, ITS sequence analysis was caried out to identify species and purify hyphaes. The most suitable mycelium growth medium was selected by the $\boldsymbol { \mathrm { L 9 } } ( 3 ^ { 4 } )$ orthogonal test (four factors with three levels),using the mycelium diameter as an index.The results were as follows: (1）The13 Tuber samples identified by morphological and ITS molecular identification belonged to $T .$ indicum and $T .$ （20 pseudoexcavatum. (2) The optimum carbon source for $T .$ indicum mycelium was potato extract, and the optimum nitrogen source was yeast extract. However, VB1 had no significant promotion efect on the mycelial growth of $T .$ （204号 indicum. (3) The optimal combination of carbon, nitrogen and inorganic salts was potato extract $1 5 0 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ ， yeast extract $3 \ \mathrm { g \cdot L ^ { - 1 } }$ ， $\mathrm { M g S O _ { 4 } } \ 2 \ \mathrm { g cdot L } ^ { - 1 }$ ，and $\mathrm { K H _ { 2 } P O _ { 4 } } \ 2 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ . The diameter of colony can reach 49. $4 4 ~ \mathrm { m m }$ ，which is cultured at $2 5 ^ { \circ } \mathrm { C }$ and natural $\mathfrak { p H }$ for 8 days.
+
+Keywords:Tuber,ITS,hyphae, solid medium, optimization
+
+块菌属（Tuber）是由土壤真菌感染其共生的植物根系形成(王曙光和林先贵，2001）。全世界已知块菌种类超过180种，主要分布在法国、意大利（Bonito etal.,2010）以及中国的四川、云南、新疆、西藏等地（张介平和刘培贵，2015）。块菌富含蛋白质、维生素、氨基酸和矿物质等营养物质，风味独特（陶恺和刘波，1990），其含有的α-雄烷醇、块菌多糖具有提升免疫力、抗肿瘤与抗氧化等重要功效（曹晋忠等，2011），价格昂贵，异常珍稀，是重要的经济真菌（邓晓娟等，2019）。
+
+近年来由于开发过度，野生块菌产量显著减少，开展其人工栽培是其必然趋势。目前国内外主要采用块菌子实体匀浆制成的子囊孢子悬浮液，接种于适宜的人工种植宿主苗木根系共生，模拟野生生长环境来进行半人工栽培。但是，子实体中的害虫和病原体以及其他菌根真菌会污染植物根系，影响块菌菌根形成。并且每株植物根系均接种多个孢子，且子囊孢子是有性孢子，因此其菌根成分可能互不相同，难以适应特定的土壤和气候条件（Iotti etal.,2016）。特别是由于块菌本身价值就很高，造成子实体匀浆接种成本也高，存在过程繁琐、周期长、产量低、对自然环境条件依赖严重等问题（胡炳福等，2010）。最近，Iottiet al.（2016）报道将勃氏块菌的纯培养菌丝代替子实体匀浆孢子悬浮液，接种于宿主苗木获得菌根，并成功产生子实体。该技术不仅降低了其根系污染的风险，而且极大地节约了生产成本。印度块菌作为中国主要商业块菌，采用印度块菌菌丝接种而获得菌根及子实体的案例，目前尚未有报道。因此，本研究从块菌的分子鉴定处着手，通过筛选优良的印度块菌母种菌丝培养基，获得优良菌丝，旨在为后续的印度块菌菌丝接种植物根系，获得菌根和子实体提供理论依据和支持，对降低成本，加快其人工栽培进程具有重要价值，还促进了林下块菌菌根的资源保护。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+从陕西、云南等地林下采取块菌子实体，见图1。宿主苗木见表1，经初步形态鉴定后组织分离培养获得纯种菌丝。
+
+![](images/3b2eaef159af0ceab4a14a7abcebe9bf64e1e37beb7e5de964f2e01d6c7d3d18.jpg)  
+图1部分块菌子实体图片Fig.1 Some truffle fruiting body pictures
+
+A.子实体整体图；B.子实体切面图。   
+A.Fruiting body overall picture;B.Fruiting body cutaway picture.
+
+1.2方法
+
+1.2.1菌丝分离纯化
+
+以 PDA为纯化培养基，采用组织分离法进行（周建平等，2017）。
+
+1.2.2 基于rDNAITS序列的分子鉴定（1）样品DNA提取及rDNAITS序列扩增
+
+采用植物DNA提取试剂盒（天根生化北京有限公司）提取块菌子实体组织DNA。采用真菌ITS 序列通用引物ITS1（ $5 ^ { \circ }$ -TCCGTAGGTGAACCTGCGG-3'）和ITS4（ $5 ^ { \circ }$ -TCCTCCGCTTATTGATATGC $. 3 ^ { \circ }$ ）对样品 rDNAITS 序列进行扩增。PCR体系： $2 \times$ primestarMix高保真酶 $2 5 { \mu \mathrm { L } } .$ 、模板 $2 { \mu } \mathrm { L }$ 、引物各 $2 \mu \mathrm { L }$ 、 $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ $1 9 \mu \mathrm { L }$ 。扩增程序： $9 8 \mathrm { ~ \textdegree C }$ 预变性 $2 \mathrm { m i n }$ ，35个循环（ $9 8 \ { ^ \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $5 5 \ \mathrm { ~ \textdegree C }$ 退火 $1 0 \mathrm { { s } }$ ， $7 2 \mathrm { ~ \textdegree C }$ 延伸 $1 0 \mathrm { ~ s ~ }$ ），$7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 再延伸 $2 \mathrm { m i n }$ ， $1 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 保存。 $1 \%$ 琼脂糖凝胶电泳检测条带大小，凝胶回收目的条带。
+
+（2）目的条带的载体构建、测序及序列比对分析
+
+采用 T4Quick Blunt试剂盒（诺唯赞生物科技有限公司）连接目的条带至T4载体中，由上海生工生物工程技术服务有限公司测序。将所测ITS序列利用BLAST程序与 NCBI中的核酸数据库进行同源性比对，以相似性比对得分最高的参考序列确定所测样品的物种。
+
+# 1.2.3单因素试验
+
+碳源筛选：分别以葡萄糖 $2 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、马铃薯 $2 0 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、蔗糖 $2 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、麦芽糖 $2 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 作为碳源。其他成分： $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 蛋白脉， $1 \ \mathrm { g { \cdot } L ^ { - 1 } \ K H _ { 2 } P O _ { 4 } }$ ， $\boldsymbol { 1 } \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } \ \mathrm { M g } \mathrm { S O } 4$ ， $0 . 0 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { V B } 1$ ，琼脂粉 $2 0 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。
+
+氮源筛选：分别以蛋白陈 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、酵母膏 $2 { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ 、牛肉膏 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、氯化铵 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、硝酸铵 $2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 作为氮源。其他成分： $2 0 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 葡萄糖， $1 \ \mathrm { g { \cdot } L ^ { - 1 } \ K H _ { 2 } P O _ { 4 } }$ ， $\mathrm { 1 \ g { \cdot } L ^ { \ - 1 } M g S O _ { 4 } }$ ， $0 . 0 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } \ \mathrm { V B } 1$ ，琼脂粉 $2 0 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。
+
+VB1 筛选：将VB1作为变量，分别设置空白对照组与VB1组，其他成分： $2 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 葡萄糖， $2 \ { \mathrm { g } } { \cdot } { \mathrm { L } } ^ { - 1 }$ 蛋白脉， $1 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } \ \mathrm { K H } _ { 2 } \mathrm { P O } _ { 4 }$ ， $1 \ \mathrm { g { \cdot } L ^ { - 1 } M g S O _ { 4 } }$ ， $0 . 0 5 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { V B } 1$ ，琼脂粉 $2 0 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。
+
+各设置3个重复，自然 $\mathsf { p H }$ ，置于 $2 5 \mathrm { ~ \textdegree C }$ 培养(马欣燕等，2016)，7d后统计菌丝生长直径。数据统计及显著性分析采用GraphPad Prism5软件及SPASS22.0软件的ANOVA 方法完成。
+
+# 1.2.4正交试验
+
+将单因素试验筛选出的最佳因子，结合前人研究表明对食用菌菌丝有促进作用的 $\mathrm { M g } \mathrm { S O } _ { 4 }$ 及 $\mathrm { K H _ { 2 } P O _ { 4 } }$ 两个因素（马欣燕等，2016；何明霞等，2009）进行正交试验，以筛选各因素的最佳组合，各设置4个重复，培养条件同上。正交试验极差分析采用Minitab17软件完成。
+
+# 2结果与分析
+
+# 2.1基于ITS序列分子鉴定
+
+以子实体提取的DNA为模板，采取真菌通用引物ITS1和ITS4 进行PCR 扩增，13个样品均扩增出清晰条带，大小约 $6 0 0 \mathrm { b p }$ （图2）。将样品序列在NCBI核酸数据库中进行比对，共匹配出3种块菌：印度块菌（Tuberindicum）、假凹陷块菌（T.pseudoexcavatum）和中国块菌（T.sinense）（表1）。由于目前中国块菌和印度块菌已被鉴定为同种（Chen etal.,2011），故本次调查获得的块菌实际只有2个种。
+
+M.MarkerDL2000，1-13.13个块菌样品的PCR扩增产物。
+
+![](images/9db863245ee44850bfb5042709f6992cc54655472bf89efa8ee47783b0607784.jpg)  
+图213个块菌样品的ITS扩增Fig.2ITS amplification of13 truffle samples表1ITS序列比对及种属鉴定
+
+M.Marker DL20oo,1-13.PCR amplification products of 13 truffle samples.
+
+Table 1 ITS sequence alignment, genera and species identification
+
+<html><body><table><tr><td>样品 Sample</td><td>宿主 Host</td><td>长度 Length</td><td>最大相似序列 ID Maximum similar sequence ID</td><td>序列同源性 Sequence homology</td><td>种属分类 Speciesclassification</td></tr><tr><td>1</td><td>云南松 Pinus yunnanensis</td><td>(bp) 620</td><td>DQ375526. 1</td><td>99%</td><td>中国块菌 Tuber sinense</td></tr><tr><td>2</td><td>云南松P.yunnanensis</td><td>654</td><td>GU979039.1</td><td>99%</td><td>假凹陷块菌 T.pseudoexcavatum</td></tr><tr><td>3</td><td>马尾松P.massoniana</td><td>620</td><td>GU979080.1</td><td>99%</td><td>印度块菌T.indicum</td></tr><tr><td>4</td><td>云南松P.yunnanensis</td><td>620</td><td>DQ375526.1</td><td>99%</td><td>中国块菌T.sinense</td></tr><tr><td>5</td><td>马尾松P.massoniana</td><td>620</td><td>GU979076.1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>6</td><td>华山松 P.armandii</td><td>620</td><td>U89362. 1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>7</td><td>青冈栎 Cyclobalanopsis glauca</td><td>620</td><td>GU979076.1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>8</td><td>华山松 Pinus armandii</td><td>620</td><td>U89362. 1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>9</td><td>槲栎 Quercus aliena</td><td>620</td><td>GU979080. 1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>10</td><td>马尾松 Pinus massoniana</td><td>620</td><td>GU979076.1</td><td>99%</td><td>印度块菌T.indicum</td></tr><tr><td>11</td><td>青冈栎Cyclobalanopsis glauca</td><td>620</td><td>U89362. 1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>12</td><td>青冈栎C. glauca</td><td>628</td><td>GU979080.1</td><td>100%</td><td>印度块菌T.indicum</td></tr><tr><td>13</td><td>槲栎 Quercus aliena</td><td>620</td><td>GU979076.1</td><td>99%</td><td>印度块菌T.indicum</td></tr></table></body></html>
+
+# 2.2块菌菌丝分离
+
+菌丝提取DNA后，进行ITS序列鉴定比对后确定为印度块菌。
+
+# 2.3单因素试验不同碳源对印度块菌菌丝生长的影响
+
+以菌落直径为衡量指标，判断不同碳源对印度块菌菌丝生长的影响（图3）。发现4种碳源均能较好地被印度块菌所利用，但马铃薯浸出液培养基和麦芽糖培养基上的菌落直径明显大于葡萄糖与蔗糖培养基（图3：A）。其中，马铃薯浸出液组、麦芽糖组与葡萄糖组在 $\mathrm { \Delta a = 0 . 0 1 }$ 水平上具有极显著差异；马铃薯浸出液组与麦芽糖组在 $\mathrm { a } { = } 0 . 0 5$ 水平上也具有显著性差异，故马铃薯浸出液为本试验中块菌最佳碳源，采用马铃薯进行后续正交试验（图3：B）。
+
+![](images/1a3c70a4628a94ae850a4dcc1ff742ee959c9f897d76043f7e1eab58da1a7672.jpg)  
+图34种碳源培养基中印度块菌菌丝
+
+A.4 种碳源培养基中印度块菌菌丝；B.4种碳源培养基中印度块菌菌落直径。\*.在 $\mathrm { a = 0 . 0 5 }$ 水平有显著性差异， $^ { * * }$ .在 $\mathrm { { a } = }$ 0.01水平有极显著差异，下同。   
+A.HyphaeofTuberindicumin4typescarbonmedium;B.HyphaediameterofT.indicumin4typescarbonmedium.\*Significant difference in $\mathrm { a } { = } 0 . 0 5$ level, $^ { * * }$ .Extremely significant difference in $\mathrm { \Delta a = 0 . 0 1 }$ level, the same below.
+
+Fig.3Hyphal ofTuber indicumin4 carbonmedium
+
+# 2.4单因素试验不同氮源对印度块菌菌丝生长的影响
+
+食用菌对无机氮源和有机氮源均能进行吸收利用，部分食用菌对无机氮源利用率更高（牛玉蓉等，2013），故本次以菌落直径为衡量指标，以蛋白脉为对照，对两类氮源均进行了试验（图4）。有机氮源和无机氮源对菌落直径的影响在 $\mathrm { \Delta a = 0 . 0 1 }$ 水平上极显著差异，前者的效果明显好于后者，但牛肉膏的效果要逊于蛋白肺和酵母膏。在无机氮源中，硝酸铵的效果要优于氯化铵，在 $\mathrm { a } { = } 0 . 0 5$ 水平上显著差异。故总体来看，印度块菌对5种氮源的吸收利用率为酵母膏 $>$ 蛋白肺 $>$ 牛肉膏 $>$ 硝酸铵 $>$ 氯化铵，采用酵母膏进行后续正交试验。
+
+A.5种氮源培养基中印度块菌菌丝；B.5种氮源培养基中印度块菌菌落直径。
+
+![](images/b1fddc15ae34630cdeccbead3b75fb64a845baab2ca28b38a62c7ac9375486d2.jpg)  
+图45种氮源培养基中印度块菌菌丝
+
+A.HyphaeofTuber indicumin 5types nitrogen medium; B.Hyphae diameterof Tuber indicum in 5 types nitrogen medium.
+
+Fig.4Hyphal of Tuber indicumin5 nitrogen medium
+
+# 2.5VB1对印度块菌菌丝生长的影响
+
+前人研究证明，VB1对某些食用菌如鸡枞菌丝、草原白蘑菌丝等生长有促进作用（王小丹等，2011;马荣山和方蕊，2011）。但是在本试验中，VB1对块菌的生长并无显著性促进作用（图5）。因此，从实际生产利用的成本出发，在培养母种菌丝时，未将VB1纳入后续正交试验。
+
+![](images/57aba04b024ebe899b0ca1bcf9e49d6bc136e7861375ee03b5313ce3d1b1ed10.jpg)  
+图5空白组与VB1培养基中的印度块菌菌丝
+
+A．印度块菌在对照组和 VB1培养基中菌丝；B.印度块菌在对照组和VB1培养基中菌落直径。   
+A.Hyphaeof Tuberindicumincontrol groupand medium;B.Hyphae diameterofTuber indicum incontrol groupand VBl medium.
+
+Fig.5Hyphal diameter of Tuber indicum in control and VB1 medium
+
+# 2.6正交试验筛选最佳培养基
+
+将单因素试验所得的最佳碳源、最佳氮源、以及前人研究所得的 $\mathrm { M g } \mathrm { S O } _ { 4 }$ 及 $\mathrm { K H _ { 2 } P O _ { 4 } }$ 按 $\mathrm { L } _ { 9 } \ ( 3 ^ { 4 } )$ 4因素3水平设计正交试验，复选优化印度块菌菌丝生长的固体培养基（表2）。极差 $R$ 的大小代表各个因素在不同水平时对菌丝直径影响程度的大小，其中极差 $R$ 越大，则此因素在不同水平对菌丝直径的影响就越大（Gregoryetal.,2013），故碳源马铃薯浸出液对印度块菌菌丝生长直径影响最大， $\mathrm { M g } \mathrm { S O } _ { 4 }$ 次之，再次为酵母膏，最后为 $\mathrm { K H _ { 2 } P O _ { 4 } }$ 。 $\mathbf { k }$ 值代表同一因素不同水平对菌落直径的影响，其中 $k$ 值较大者代表此水平对菌落直径有较好的促进作用(陈文强等,2005),因此本研究中的印度块菌菌丝生长的最佳培养条件为 ${ \bf A } _ { 1 } { \bf B } _ { 3 } { \bf C } _ { 3 } { \bf D } _ { 3 }$ 即马铃薯浸出液 $1 5 0 \ \mathrm { g { \cdot } L ^ { - 1 } }$ 、酵母膏 $3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $\mathrm { M g S O _ { 4 } 2 \ g { \cdot } L ^ { - 1 } }$ 、 $\mathrm { K H _ { 2 } P O _ { 4 } } 2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。
+
+表 $2 \mathrm { L } _ { 9 }$ $( 3 ^ { 4 } )$ ）正交试验结果Table $2 \mathrm { L } _ { 9 } ( 3 ^ { 4 } )$ results of orthogonal test  
+
+<html><body><table><tr><td colspan="6">因素Factor</td></tr><tr><td>试验号ber</td><td></td><td></td><td>MgS04</td><td>KH2P04</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>150</td><td>2</td><td>1</td><td>1</td><td>A1BCD1</td><td>48.75</td></tr></table></body></html>
+
+<html><body><table><tr><td>2 150</td><td></td><td>2.5</td><td>1.5</td><td>1.5</td><td>A1BC2D2</td><td>47.81</td></tr><tr><td>3</td><td>150</td><td>3</td><td>2</td><td>2</td><td>A1BC3D3</td><td>49.44</td></tr><tr><td>4</td><td>200</td><td>2</td><td>1.5</td><td>2</td><td>A2B1C2D3</td><td>46.37</td></tr><tr><td>5</td><td>200</td><td>2.5</td><td>2</td><td>1</td><td>ABC3D1</td><td>46.94</td></tr><tr><td>6</td><td>200</td><td>3</td><td>1</td><td>1.5</td><td>A2BC1D2</td><td>47.00</td></tr><tr><td>7</td><td>250</td><td>2</td><td>2</td><td>1.5</td><td>A3BC3D2</td><td>47.25</td></tr><tr><td>8</td><td>250</td><td>2.5</td><td>1</td><td>2</td><td>A3B2C1D3</td><td>46.69</td></tr><tr><td>9</td><td>250</td><td>3</td><td>1.5</td><td>1</td><td>ABC2D1</td><td>46.62</td></tr><tr><td>k1</td><td>48.67</td><td>47.46</td><td>47.48</td><td>47.44</td><td></td><td></td></tr><tr><td>k2</td><td>46.77</td><td>47.15</td><td>46.93</td><td>47.35</td><td></td><td></td></tr><tr><td>k3</td><td>46.85</td><td>47.69</td><td>47.88</td><td>47.50</td><td></td><td></td></tr><tr><td>极差Range (R)</td><td>1.90</td><td>0.54</td><td>0.94</td><td>0.15</td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+块菌营养物质丰富，但因资源稀缺、采摘难度大等多种因素，造成其价格极昂贵，人工培育将成为其必然发展趋势（郭尚等，2014）。块菌菌丝对比子实体匀浆孢子悬浮液，具有易获得、易保存、纯化程度高、成本低等优点。本研究获得了印度块菌菌丝最适宜母种培养基，该结果不仅促进了印度块菌的人工培育进程，而且能促进林下块菌菌根的资源保护。
+
+在多数食用菌碳源筛选中，最佳碳源多为葡萄糖、蔗糖以及麦芽糖等（何明霞等，2009；陈文强等，2002；徐瑞雅等，2007）。葡萄糖是多数食用菌良好同化利用的碳源，但并非是所有食用菌最好的碳源。马铃薯浸出液的主要成分为淀粉物质，据报道，葡萄糖经高温灭菌后还原糖含量降低，而可溶性淀粉经高温灭菌处理后产生复杂变化，还原糖含量升高，更容易被一些食用菌菌丝吸收利用，例如香菇、柳松茸在高温灭菌的可溶性淀粉为唯一碳源的培养基中生长最块，蛹虫草在间歇灭菌的可溶性淀粉为唯一碳源的培养基中生长最块（何培新等，2003）。本研究中，印度块菌培养基的最适碳源为马铃薯浸出液，可能是印度块菌菌丝能产生高活性的淀粉酶，能快速分解淀粉。另外据报道，马铃薯含有多种营养物质、酶类、生理活性物质以及矿物质等微量元素（吕巨智等，2009；丁红瑾，2013），具有丰富的营养价值。邓晓娟等（2019）在印度块菌子囊果内细菌的群落结构研究中，发现其细菌物种丰富，群落结构复杂，包括4属40种，其中变形菌门、拟杆菌门和放线菌门的物种占总物种数的 $9 9 . 7 \%$ ，是其优势细菌。其中放线菌门产生的多种酶类，变形菌门的固氮细菌有效固氮，多种细菌产生的复杂影响有利于其印度块菌的菌丝生长和子囊果的形成(Streiblovaetal.,2012)。马铃薯作为印度块菌的最适碳源，可能是马铃薯浸出液中的有关酶类等生物活性物质，以及矿物质等微量元素弥补了块菌子囊果中细菌产生的有效活性物质，从而促进印度块菌菌丝的生长。最后，块菌菌根是与其适宜苗木的根系共生而形成，马铃薯块根作为一种变态根系，其中可能含有与块菌共生苗木根系的类似成分，而促进块菌菌丝的生长，这暗示也许可从植物的根中分离出可促进块菌菌丝生长的物质，我们将在以后的工作中进行实验探索和验证。
+
+本研究另一个结果表明，VB1对印度块菌的菌丝生长并无促进作用，相反，VB1对某些食用菌如鸡枞菌丝、草原白蘑菌丝等生长则有促进作用（王小丹等，2011；马荣山和方蕊，2011）。目前块菌尚无相关研究涉及维生素的应用机理，猜测可能是印度块菌长期与宿主植物根系共生，多种细菌影响子囊果的生态适应性，使得形成无需VB1的独特性质，但具体的机理等还需进一步研究。
+
+综合本研究结果，最后得出印度块菌优化母种培养基配方为：马铃薯浸出液 $1 5 0 \ \mathrm { g { \cdot } L ^ { - 1 } }$ 、酵母膏 $3 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ，$\mathrm { M g S O _ { 4 } } 2 \ \mathrm { g { · } L } ^ { \mathrm { - 1 } }$ 、 $\mathrm { K H _ { 2 } P O _ { 4 } } 2 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ，在 $2 5 \mathrm { ~ \textdegree C }$ 下培养8d后可使菌落直接达 $4 9 . 4 4 \mathrm { { m m } }$ 。本研究为印度块菌利用菌丝代替子实体匀浆孢子悬浮液接种于宿主根系产生子实体提供了研究基础，可解决子实体匀浆孢子悬浮液的高成本、过程繁琐以及子实体匀浆孢子中其他真菌污染植物根系等问题。同时，优化固体培养基上长出的印度块菌菌丝如何运用于后续的人工接种及栽培还需进一步研究。
+
+# 参考文献：
+
+BONITO GM, GRYGANSKYI AP, TRAPPE JM,et al.，2010.A global meta-analysis of Tuber ITS rDNAsequences: Species diversity,host association and long-distance dispersal [J].Mol Ecol,19(22): 4994-5008.CAO JZ, WEIL, SU H, et al.,2011. Study on extraction and anti-oxidant activity of crude polvsaccharides fromTuher indicum[J].JShanxi Univ (Nat Sci Ed),34(1):137-142.[曹晋忠，魏磊，苏红，等，2011．印度块菌粗多糖的提取及抗氧化活性研究[J]．山西大学学报(自然科学版)，34(1):137-142.]
+
+CHEN J, GUO SX,LIU PG, 2011. Species recognition and cryptic species in the Tuber indicum complex[J]. PLoS ONE, 6(1): e14625.   
+CHEN WQ, DENG BW, CHEN YG, et al., 2005. Selection of liquid medium for schinophyllum commune by L9 (3\~4)orthogonal design[J].JFood Sci Biotechnol,24(4):38-41.[陈文强，邓百万，陈永刚，等，2005．用 L9(3\~4)正交试验筛选裂褶菌液体培养基[J]．食品与生物技术学报，24(4):38-41.]   
+CHEN WQ, ZHOU XW, DENG BW, 2002.A preliminary study on the selection of mother culture media of agaricus blazei Murril[J].Acta Edul Fung,9(2):31-34.[陈文强，周选围，邓百万，2002．姬松茸母种培养 基筛选研究初报[J]．食用菌学报，9(2):31-34.]   
+DENG XJ,LIU JL,YAN XF, et al.,2019. Community composition of bacteria associated with ascocarps of Tuber indicum using traditional culture method and roche 454 high-throughput sequencing[J]. Biodivers Sci, 26(12): 1318-1324.[邓晓娟，刘建利，闫兴富，等，2019．用传统分离培养法和高通量测序技术分析印度块菌子 囊果内细菌的群落结构[J].生物多样性，26(12):1318-1324.]   
+DING HJ,2013.Efects of calcium treatment on main components and physiological and biochemical indexes of potato during storage[D].Yinchuan: Ningxia University.[丁红瑾，2013．钙处理对贮藏期马铃薯主要成分及 生理生化指标的影响[D]．银川：宁夏大学.]   
+GREGORY B,SMITHME, MICHAEL N, et al.,2013.Historical biogeographyand diversification of trufles in the Tuberaceae and their newly identified southern hemisphere sister lineage[J]. PLoS ONE,8(1): e52765.   
+GUO S,LI Y, ZHAO ZL,et al.,2014. Research status,problems and prospects of trufles [J]. Edib Fung,6(1): 4-6.[郭尚，李渊，赵照林，等，2014．块菌的研究现状、问题及展望[J]．食用菌，6(1):4-6.]   
+HE MX, ZHANG CX,JI KP, et al.,20O9.Screening of carbon and nitrogen sources and inorganic salts mycelium culture medium of phlebopusportentosus[J]. JYunnan Agric Univ (Nat Sci Ed),24(5): 145-149.[何明霞，张春 霞，纪开萍，等，2009．暗褐网柄牛肝菌菌丝体培养基的碳源、氮源及无机盐的筛选研究[J]．云南农业 大学学报(自然科学版)，24(5):145-149.]   
+HE PX,XU Y,ZHANG CK,20O3.A Study on Assimilation of Glucose and Soluble Starch of 8 mushrooms[J].J Henan Inst Sci Technol(Nat Sci Ed),31(3):28-30.[何培新，徐燕，张长铠,2003.8种食用菌同化利用葡萄糖 和可溶性淀粉的探讨[J].河南科技学院学报（自然科学版），31(3):28-30.]   
+HU BF, YUAN XM, YUJY,et al.,2010. Successful introduced cultivation of Tuber indicum in Guizhou[J].For By-Prod Spec China,(2):1.[胡炳福，远香美，余金勇，等，2010.印度块菌栽培在贵州首获成功[J].中国林 副特产，(2):1.]   
+IOTTI M, PIATTONIF,LEONARDI P, et al.,2016.First evidence for trufle production from plants inoculated with mycelial pure cultures[J]. Mycorrhiza, 26(7): 793-798.   
+LU JZ,RAN H,JIANG JC,et al.,2009.Nutrients and Health Value of Potato[J].Food Nutr Chin,(3): 53-54.[吕 巨智，染和，姜建初，2009.马铃薯的营养成分及保健价值[J]．中国食物与营养，(3):53-54.]   
+MA RS,FANG R,2011. Isolation of Tricholoma mongolicum and test of mycelium growth[J]. J Shenyang Agric Univ,42(1):69-73.[马荣山，方蕊，2011.草原白蘑菌种分离及菌丝体生长因子的筛选[J].沈阳农业大学 学报，42(1): 69-73.]   
+MA XY, WANG GZ, GUO CJ, 2016. Screening of Tuber indicum liquid medium by orthogonal design[J]. Jiangsu Agric Sci,44(3):200-203.[马欣燕，王国正，郭成金，2016．正交试验设计法筛选印度块菌液体培养基[J]. 江苏农业科学，44(3):200-203.]   
+NIU YR, WANG MH, ZHANG GQ, et al.,2O13.ITS sequence analysis of strain obtained from wild Suillus granulatus fruit bodies and opitimization of selected parameters[J].Acta Edul Fung,20(4): 6-10.[牛玉蓉,王明 花，张国庆，等，2013．点柄粘盖牛肝菌菌种分子鉴定与最适培养条件研究[J]．食用菌学报，20(4):6-10.]   
+STREIBLOVA E, GRYNDLEROVA H, GRYNDLER M,2012. Trufle brulé: An efficient fungal life strategy[J]. Fems Microbiol Ecol, 80(1): 1-8.   
+TAO K,LIU B,1990. Ecological and nutritional value of Tuber sinense[J]. JShanxi Univ (Nat Sci Ed),13(3): 319-321.[陶恺,刘波,1990．中国块菌的生态和营养价值[J]．山西大学学报(自然科学版),13(3):319-321.]   
+TEDERSOO L,MAY TW,SMITHME,2010. Ectomycorrizal lifestyle in fungi: global diversity,distribution, and evolution of phylogenetic lineages[J]. Mycorrhiza, 20(4): 217-263.   
+WANG SG,LIN XG,20o1.Effectof mycorhiza onbioremediationof pouted soil[J]. Rural Eco-Environ,17(1): 56-59.[王曙光，林先贵，2001．菌根在污染土壤生物修复中的作用[J]．生态与农村环境学报，17(1): 56-59.]   
+WANG XD,LIU Q, CAI H, et al.,2011. A study on the solid culture of termitomyces Albuminosus mycelium[J]. J Neijiang Norm Univ,25(2):460-461.[王小丹，刘强，蔡虹，等，2011．鸡枞菌丝的固体培养研究[J]．内江 师范学院学报，25(2):460-461.]   
+XU RY,QI ZG, JIA NB,et al.,2007. Study on the best stock culture media of three kinds of mushrooms[J]. J Hebei Agric Sci,11(1):23-24.[徐瑞雅，齐志广，贾耐兵，等，2007．食用菌最佳母种培养基的筛选[J].河 北农业科学，11(1):23-24.]   
+ZHANG JP,LIU PG, 2015.Ecological features assciated with Tuber sinoaestivum[J]. Acta Edul Fung,22(1): 34-40.[张介平，刘培贵，2015．中华夏块菌及其生态学研究[J]．食用菌学报，22(1):34-40.]   
+ZHOU JP, CHEN J, XU D,et al.,2017.Mycelium isolation and species identification of Panzhihua truffle[J]. J Panzhihua Univ,34(2):1-5.[周建平，程君，徐德，等，2017．攀枝花块菌菌丝体的分离及种属鉴定[J]．攀 枝花学院学报，34(2):1-5.]

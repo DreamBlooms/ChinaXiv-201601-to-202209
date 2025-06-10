@@ -1,0 +1,225 @@
+# 基于SADE的混合核LSSVM在压缩机故障预测中的应用
+
+杜洁1，吴静²
+
+(1．西南科技大学 信息工程学院，四川 绵阳 621010;2.特殊环境机器人技术四川省重点实验室，四川 绵阳 621010)
+
+摘要：针对螺杆式制冷压缩机种类的多样性以及故障的复杂性，难以获得有效的预测模型的问题。提出了一种基于自适应差分进化算法（SADE）优化的混合核最小二乘支持向量机（LSSVM）的预测模型，该模型的SADE 相比于其他智能寻优算法理论结构简单、参数设置少且搜索能力强。在寻优过程中，SADE 分别从差分策略、缩放因子、交叉概率做到了自适应，保证了寻优初期的全局搜索能力和种群多样性，提高了局部搜索能力和收敛速度，利用 SADE 对核参数、LSSVM参数、混合核调节参数进行寻优，提高了混合核LSSVM预测模型的精度。将该模型运用到压缩机的故障预测中，实验结果表明，该模型能有效的预测出压缩机的故障，验证了该模型的可行性。
+
+关键词：最小二乘支持向量机；混合核；自适应差分进化算法；寻优；故障预测 中图分类号：TP277 doi:10.3969/j.issn.1001-3695.2018.04.0238
+
+# Application of hybrid kernel LSSVM based on SADE in compressor fault prediction
+
+Du Jiel,Wu Jing²
+
+(1.SchoolofInformationEngineering,Southwest UniversityofScience&TechnologyManyang6o,China;2.Robot Technology Used for Special Environment Key Laboratoryof Sichuan Province,Mianyang Sichuan 6210o,China)
+
+Abstract:Forthevarietyofscrewrefrigerationcompressorsandthecomplexityoffaults,itis dificulttoobtaineffective prediction model.A prediction model of hybrid kernel least square support vector machine (LSSVM) based on adaptive diferentialevolutionalgorithm(SADE)isproposed,whichhastheadvantagesofsimple theoreticalstructure,less parameter setingad strong searchingabilitythanother intellgentoptimizationalgorithms.Inthecourseofevolution,SADEisadaptive tothe differencestrategy,scalingfactorandcrossover probabilityrespectively,which ensures the global searchingabilityand population diversityatthe initial stage ofoptimization,improves thelocal searchingabilityand theconvergencespeed,and uses SADE to search the parameters of kermel parameters,LSSVM parameters and the mixed kerel regulation parameter, Improving theaccuracyofte hybrid kernelLSsVMprediction model.The modelis appiedtothecompressorfault prediction, andtheexperimentalresultsshow that themodelcanpredictthecompressor fault effectivelyand verifythe feasibilityof the model.
+
+Keywords:LSSVM; hybrid kernel; SADE;optimization; Fault prediction
+
+# 0 引言
+
+螺杆式制冷压缩机是制冷压缩机中主要机种之一，是制冷机器的核心，它安全、稳定的工作对社会经济有着重要的意义，准确、及时的对压缩机进行故障预测，是压缩机正常工作的重要保障。目前，故障预测常用方法有时间序列法[1]、灰色预测法[2]、人工神经网络[3]等方法，然而运用时间序列法和灰色预测法都是要以一种假设为前提，而这些假设往往都和实际情况不符，对于人工神经网络建模法，目前在预测中运用很广，但是神经网络是以经验风险最小化原理为基础的，即样本数量趋于无穷大时，预测精度更准确，但真实的故障样本数据无法做到无穷
+
+大，所以预测精度难以保证。
+
+Suykens 等人[4]在支持向量机[5]（SVM）的基础上提出了LSSVM，不仅弥补了神经网络的不足，还能有效地解决高维数和非线性等问题，是一种专门针对设备故障预测有限样本的情况。相比于传统的SVM，LSSVM简化了计算复杂性不仅运算简单，收敛速度快而且预测精度高。戴林超、连光耀等人[67利用LSSVM建立设备故障预测模型。LSSVM建立的预测模型中，核函数是影响预测精度的关键因素，当使用单核时，预测模型无法同时获得较高的学习能力和泛化能力。于是Smits等人[8提出了一种混合核函数SVM，即将局部核函数与全局核函数结合起来，使得混合后的核函数的学习能力和泛化能力都比单核高。马淡等人[910]把混合核运用到网络流量预测模型和减速器故障预测中取得不错的效果。
+
+混合核的LSSVM预测模型需要优化的参数较多，目前常用的参数优化算法有果蝇算法[II]、粒子群算法[I2]、遗传算法[13]等，这些优化算法降低了对初值选择的依赖性，但算法原理和思想较为复杂，且易陷入局部最优。比如遗传算法，容易出现早熟、处理规模小、难于处理非线性问题、稳定性差且当问题复杂时，需要进行大量计算。对于粒子群算法，它的实质是利用三个位置信息，指导粒子的下一步迭代位置，但它需要初始化的参数较多，且对于设备故障预测这类的复杂问题，易陷入局部最优。而果蝇算法，相对于前面两种算法寻优速度快、鲁棒性好，但在数据初始化时坐标的初始值、坐标移动的距离和方向的选取要合理，这些必须和经验相结合，此方法应用了随机变量，所以稳定性差。
+
+对于螺杆式制冷压缩机故障的复杂性和多参数优化问题，以上优化算法并不能建立很好的预测模型，而 Stom 等人提出的差分进化算法（DE）则具有原理结构简单、控制参数少等优点，但随着进化代数的增加，种群的多样性变小，有可能出现过早的收敛到局部最小值，针对此问题，本文结合自适应的思想，提出了具有较强的全局搜索能力、鲁棒性和优化速度的SADE，通过SADE去获得一组最优的核参数、LSSVM参数和混合核调节参数。通过这组最优参数得到LSSVM预测模型。并将之运用到了压缩机的故障预测，从而验证了基于SADE的混合核LSSVM预测模型在压缩机的故障预测里的可靠性和有效性。
+
+# 1 压缩机故障预测模型建立
+
+# 1.1最小二乘支持向量机
+
+SVM是90年代中期提出的一种机器学习方法，与神经网络的经验风险最小化不同的是SVM是基于结构化风险最小化为基础，在统计样本数量较少时，也能得到较好的统计规律。
+
+LSSVM将SVM中求解二次规划问题转化为求解线性方程组问题，从而极大地简化了计算，提高了收敛速度。在特征空间F中，LSSVM的回归模型可以表示为
+
+$$
+f ( x ) = w ^ { T } \Phi ( x ) + b
+$$
+
+其中： $w$ 为特征空间权系数向量， $b$ 为偏差量，根据结构风险最小化原理和KKT条件，运用拉格朗日乘子法，在满足Mercer条件的核函数 $K \big ( x _ { i } , x _ { j } \big ) = \phi \big ( x _ { i } \big ) ^ { T } \phi \big ( x _ { j } \big )$ ，得到式（2）所示的回归函数。
+
+$$
+f \left( x \right) = \sum _ { i = 1 } ^ { n } \alpha _ { i } K ( x , x _ { i } ) + b
+$$
+
+# 1.2混合核函数原理
+
+核函数的原理就是空间转换，即把低维的非线性问题转化为高维的线性问题，其中目前常用的核函数有以下几种：线性核函数： $K ( x , x _ { i } ) = x ? x _ { i }$
+
+多项式核函数： $K \big ( x , x _ { i } \big ) = \big ( \big ( x \gamma x _ { i } \big ) + 1 \big ) ^ { d }$ 径向基（RBF）核函数：K（(x,x)=exp(x-xI)sigmoid 核函数： $K ( x , x _ { i } ) = \operatorname { t a n h } ( \eta < x , x _ { i } > + \theta )$
+
+以上核函数分为两类：局部核函数和全局核函数，其中径向基核函数和多项式核函数是局部核函数与全局核函数的典型代表，所以结合两种核函数的各自优点，在满足Mercer条件的前提下构造了式(3)所示的混合核函数。
+
+$$
+K ( x , x _ { i } ) = \rho K _ { { _ { p o l y } } } + ( 1 - \rho ) K _ { { _ { R B F } } }
+$$
+
+其中： $K _ { _ { p o l y } } = \left( \left( x \bullet x _ { i } \right) + 1 \right) ^ { d }$ ，d是多项式核的阶数，$K _ { _ { R B F } } = \exp ( - \frac { \| x - x _ { i } \| ^ { 2 } } { \delta ^ { 2 } } )$ ， $\rho \in [ 0 , 1 ]$ 为混合权系数。
+
+# 1.3自适应差分进化算法
+
+DE 算法是一种模拟自然界生物进化的群智能随机优化算法，该算法原理简单，参数控制较少，易于实现，算法包括变异、交叉、选择三种操作。
+
+其中缩放因子F和交叉概率CR很大程度上影响着DE 算法的性能。对于缩放因子F，F较大时算法能够在较大范围内搜索问题的潜在解，而F相对较小时，加速了算法的收敛速度，但易陷入局部最优解。对于CR，当CR设置较大时，种群的多样性得到保证，算法容易搜索到最优解，反之，CR设置过小时，此时种群中被改变的向量个体较少，有利于在解空间内进行稳定的搜索，刘昊[16]等人利用种群中比较优秀的个体的信息，克服进化的盲目性，提高搜索能力。除了控制参数，差分策略的选择也至关重要，所以张锦华[14]等人提出一种加权变异策略动态差分进化算法，即将变异策略进行加权组合，但他们并没有考虑到参数的控制问题。李龙澍等人[15]通过反学习机制和高斯分布随机性来平衡全局搜索和局部寻优的能力，但对本文的故障预测而言，此方法并不合适。所以基于以上的问题，本文从差分策略选择和控制参数自适应两个方面对DE算法进行改进
+
+# 1.3.1差分策略的选择
+
+在基于种群的优化方法中，搜索前期希望有较强的全局搜索能力，以保证种群的多样性，而在搜索后期希望有较强的局部搜索能力，以提高算法的精度和收敛速度。变异算子是影响搜索范围的直接因素，目前常用的变异算子有以下几种：
+
+DElrand/1:$\begin{array} { r l } & { V _ { i , G + 1 } = X _ { r 1 , G } + F \big ( X _ { r 2 , G } - X _ { r 3 , G } \big ) } \\ & { D E / r a n d / 2 : } \\ & { V _ { i , G + 1 } = X _ { r 1 , G } + F \big ( X _ { r 2 , G } - X _ { r 3 , G } \big ) + F \big ( X _ { r + 4 , G } - X _ { r 5 , G } \big ) } \\ & { D E / b e s t / 1 : } \\ & { V _ { i , G + 1 } = X _ { b e s t , G } + F \big ( X _ { r 2 , G } - X _ { r 3 , G } \big ) } \\ & { D E / b e s t / 2 : } \\ & { V _ { i , G + 1 } = X _ { b e s t , G } + F \big ( X _ { r 2 , G } - X _ { r 3 , G } \big ) + F \big ( X _ { r 4 , G } - X _ { r 5 , G } \big ) } \end{array}$ 其中： $r 1 , r 2 , r 3 , r 4 , r 5 \in \{ 1 , 2 , . . . , N P \}$ 且互不相同，（204号 $X _ { r 1 , G } , X _ { r 2 , G } , X _ { r 3 , G } , X _ { r 4 , G } , X _ { r 5 , G }$ 分别为父代基向量,而 $X _ { b e s t , G }$ 为种群中适应度最好的个体，F为缩放因子，其中DE/rand/1和DE/rand/2的个体都是随机产生的，没有固定的搜索方向，所有具备较强的全局搜索能力。而DE/best/1和 $D E / b e s t / 2$ 是基于种群历史最有信息进行操作，收敛精度较好，所以具有较强的局部搜索能力。所以结合两者的特点，本文把 $D E / r a n d / 1$ 和 $D E / b e s t / 2$ 结合起来形成形成式（4）所示的变异算子。
+
+$$
+\begin{array} { r l } & { V _ { i , G + 1 } = \lambda [ X _ { r 1 , G } + F ( X _ { r 2 , G } - X _ { r 3 , G } ) ] } \\ & { + ( 1 - \lambda ) [ X _ { b e s t , G } + F ( X _ { r 2 , G } - X _ { r 3 , G } ) + F ( X _ { r 4 , G } - X _ { r 5 , G } ) ] } \\ & { \qquad = \lambda X _ { r 1 , G } + F ( X _ { r 4 , G } - X _ { r 5 , G } ) } \\ & { + ( 1 - \lambda ) [ X _ { b e s t , G } + F ( X _ { r 2 , G } - X _ { r 3 , G } ) ] } \end{array}
+$$
+
+其中， $\lambda \in [ 0 , 1 ]$ ，为了实现自适应的变异算子，搜索过程中式(4)中的 $\lambda$ 由1逐渐变0，所以 $\lambda$ 的表达式如式（5）所示。
+
+$$
+\lambda = ( T - G ) / T
+$$
+
+其中G为当前的迭代次数， $\mathrm { ~ T ~ }$ 为最大的迭代次数。
+
+# 1.3.2缩放因子的自适应
+
+通过前面对于缩放因子F的描述可知，收缩前期F取值尽量大，收缩后期取值尽量小，所以通过式（6）进行调整。
+
+$$
+F = \big ( 2 - \% \big ) F _ { 0 }
+$$
+
+其中： $\mathrm { F } _ { 0 }$ 为初始值，从式子可以发现，在搜索前期，F取值较大，从而扩大了搜索空间，在搜索后期，F取值较小，从而提高了收敛速度和搜索准确度。
+
+# 1.3.3交叉概率的自适应
+
+同样对于交叉概率CR，根据前面对CR的描述可知，在搜索前期CR尽量大，搜索后期CR尽量小，所以采用式（7）进行调整。
+
+$$
+C R = \big ( C R _ { \operatorname* { m a x } } - C R _ { \operatorname* { m i n } } \big ) \bigg ( \frac { G } { T } \bigg ) ^ { 2 } + C R _ { \operatorname* { m i n } }
+$$
+
+其中：T和 $\mathbf { G }$ 是式（5）提到的值， $C R _ { \operatorname* { m a x } }$ 是交叉概率范围的最大值， $C R _ { \mathrm { { m i n } } }$ 是交叉概率范围的最小值。
+
+综合上诉的改进，SADE的寻优步骤如下：
+
+a)初始化参数，设置种群大小 $N P \in [ 5 D , 1 0 D ]$ ，其中D为个体的维度。最大迭代次数T，交叉概率CR，缩放因子F，以及初始化种群，通常在种群初始化时需要尽可能的覆盖整个搜索空间，因此算法中采用随机函数来产生初始解，如下所示：
+
+$$
+x _ { i } ^ { j } ( 0 ) = x _ { i , \operatorname* { m i n } } ^ { j } + r a n d [ 0 , 1 ] ( x _ { i , \operatorname* { m a x } } ^ { j } - x _ { i , \operatorname* { m i n } } ^ { j } )
+$$
+
+$$
+i = 1 , 2 , . . . , N P ; j = 1 , 2 , . . . , D
+$$
+
+其中， $x _ { i } ^ { j } ( 0 )$ 表示第i个个体的第 $\mathrm { j }$ 维初始值，rand[0,1]表示[0,1]区间的均匀分布的随机数， $x _ { i , \operatorname* { m a x } } ^ { j }$ 表示最大值， $x _ { i , \mathrm { m i n } } ^ { j }$ 表示最小值。
+
+b)变异操作：通过上述的式(4)进行变异得到变异个体 $V _ { i , G + 1 } ^ { j }$ 。
+
+c)交叉操作：通过 b)得到的变异个体与 $x _ { i , G } ^ { j }$ 进行如下交叉操作得到 $U _ { i , G + 1 } ^ { j }$ 。
+
+$$
+U _ { i , G + 1 } ^ { j } = \left\{ { \begin{array} { l l } { V _ { i , G + 1 } ^ { j } } & { i f ~ r a n d ( 0 , 1 ) \leq C R } \\ { x _ { i , G } ^ { j } } & { o t h e r w i s e } \end{array} } \right.
+$$
+
+d)选择操作：采用的是贪婪选择的策略，即选择较优的个
+
+体作为新的个体，所以进行式(10)操作。
+
+$$
+x _ { i , G + 1 } ^ { j } = \left\{ \begin{array} { l l } { U _ { i , G + 1 } ^ { j } } & { i f ~ f ( U _ { i , G + 1 } ^ { j } ) \leq f ( x _ { i , G } ^ { j } ) } \\ { x _ { i , G } ^ { j } } & { o t h e r w i s e } \end{array} \right.
+$$
+
+e)进入下一代，即 $\scriptstyle { \mathrm { G = G + l } }$ 。
+
+f)如果 $X _ { \scriptscriptstyle i , \scriptscriptstyle G }$ 满足终止条件或达到最大迭代次数T，则输出最优解，否则跳转到b)。
+
+# 1.4基于SADE的混合核LSSVM的预测模型建立
+
+通过前面的混合核、LSSVM和SADE原理和改进的介绍，基于SADE 的混合核LSSVM的预测模型的建立，实质上就是混合核LSSVM的训练过程中结合SADE 算法去寻找一组最优参数，使混合核LSSVM的预测模型预测精度最高，本文中SADE优化混合核LSSVM的参数组合是 $( \delta , d , c , \rho )$ ， $\delta$ 为径向基核函数、 $\boldsymbol { \mathscr { d } }$ 为多项式核函数、 $\vert c \vert$ 为惩罚因子， $\rho$ 为混合核权重系数，即对组合 $( \delta , d , c , \rho )$ 进行全局寻优。
+
+在训练过程中，由于采用的是真实数据，存在缺失值、噪音、不一致等问题，所以首先需要进行数据预处理，数据预处理之后的数据进行参数初始化，其中只需要设置进化停止条件、总群大小NP、缩放因子F、交叉概率CR和待优化的 $( \delta , d , c , \rho )$ 参数组合。然后通过初始值结合前面的式(2)(3)训练混合核LSSVM得到预测结果，根据预测结果计算个体适应度。
+
+其中个体适应度采用的是均方误差（RMSE），即进行度量预测值与实际值之间的偏差情况。
+
+$$
+R M S E = \operatorname* { m i n } \sqrt { \frac { 1 } { n } \sum _ { t = 1 } ^ { n } ( y _ { t } ^ { * } - y _ { t } ) ^ { 2 } }
+$$
+
+其中Ln为预测周期数， ${ \boldsymbol y } _ { t } ^ { * }$ 为 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 时刻的预测值， $\boldsymbol { y } _ { t }$ 为t时刻的实际值。如果未满足停止条件，则进入下一代，通过式 $4 \sim$ 式10并结合2.3节所提到的SADE寻优步骤，产生新的参数组合 $( \delta , d , c , \rho )$ ，重复以上的过程，直到满足停止条件，得到最优参数组合，然后把得到的最优参数代入式(2)(3)得到了基于SADE的混合核LSSVM的预测模型。根据得到的预测模型预测一下测试样本集里的数据，根据得到的预测结果与真实值通过式11分析该预测模型的有效性。所以预测模型建立的具体步骤如下：
+
+a)样本数据预处理，处理后的数据划分成训练样本集与测试样本集。
+
+b)参数初始化，设定停止条件、总群大小NP，缩放因子F和交叉概率CR，以及待优化参数组合 $( \delta , d , c , \rho )$ 的初始值。
+
+c)利用步骤a)得到的训练样本集训练混合核LSSVM模型，得到预测结果。
+
+d)由c)计算出的预测结果，根据式(11)计算出个体适应度。
+
+e)若未满足停止条件，则进入下一代， $\scriptstyle { \mathrm { G } = } { \mathrm { G } } + 1$ ，产生新的参数组合，回到c)，否则进入f)。
+
+f)当达到停止条件时则停止并输出最优的参数组合。
+
+g)通过得到的最优参数，设定混合核LSSVM的预测模型参数，从而建立了基于优化SADE的混合核LSSVM的预测模型。
+
+建模大致流程图1所示。
+
+![](images/f2f459a40d0a9b3fbe0798666fe13893265ebaf7080c6538e5615c394109a62f.jpg)  
+图1预测模型建立流程图
+
+# 2 实例验证
+
+为了检测算法的有效性，从一家做冷链行业的公司里获取压缩机的各个监测数据，监测的数据属性有温度、湿度、高压、低压、以及各个点的电压和电流值，总共有10个属性。每隔5min 采集一次数据，样本集为一天的所有采集数据，其中采集数据分为200个训练样本集和88个测试样本集，差分进化算法最大迭代次数T设为200，种群大小NP设为50，缩放因子F初始值设为0.5，交叉概率 $\mathrm { C R } _ { \mathrm { m i n } }$ 和 $\mathrm { C R } _ { \mathrm { m a x } }$ 分别为0.2和0.8，径向基参数 $\delta$ 和惩罚因子C均设置在 $[ 2 ^ { - 1 5 } , 2 ^ { 1 5 } ]$ ，权重系数 $\rho$ 设置为0.9，多项式系数d设置为1。首先对所有数据进行归一化处理，然后采用SADE 算法获得最优参数，其中SADE寻优过程图如图2所示。
+
+![](images/14b00abe30a69fc7ed0e5c1aba558397ee74a839b821e1fb382d4cd38cf2be73.jpg)  
+图2SADE 算法寻优过程
+
+通过 SADE 算法寻优得到的最佳参数组合是 $\delta$ 为1.93，c为43.26，d为1.42， $\rho$ 为0.82，用这些参数训练混合核LSSVM得到预测模型，然后对测试样本进行预测，预测结果分别与基于遗传算法和粒子群算法的混合核LSSVM预测模型的结果进行对比。图3\~5分别是采用粒子群算法、遗传算法和本文SADE算法进行参数寻优的混合核LSSVM预测模型的预测结果和真实值的对比图。
+
+![](images/813f057ab3fae47d4bbc0c6a5b6f3256da379337c01928a5d1cdf9ce5c9a1be3.jpg)  
+图3GA-LSSVM预测结果与真实值对比图
+
+![](images/0186c7013a68159125f4a6dd96291ee3630c0eb46808f231ea06c704ed294d3c.jpg)  
+图4GA-LSSVM预测结果与真实值对比图
+
+![](images/03d091fefa6acce665fe4d5e119f3f8a8715d17f2cffbcf29584b0fe81b82c1e.jpg)  
+图5本文的SADE-LSSVM预测结果与真实值对比图
+
+由于螺杆式制冷压缩机用于制冷设备，当温度降到设定值，压缩机就会停止工作，图中数值为0.1的时间段就是压缩机停正工作，数值大于0.3代表压缩机出现故障，数值在0.2\~0.3之间表示压缩机状态正常。从以上图中可以看出，本文的SADE算法参数优化的预测结果明显优于遗传算法和粒子群算法。为了有效的评价本文建立的预测模型的有效性，分别对三个模型的最大相对误差（ $E _ { \mathrm { m a x } }$ ）、均方误差（RMSE）和运行时间进行了分析，结果如表1所示。
+
+表1误差结果分析表  
+
+<html><body><table><tr><td>model</td><td>Emax /%</td><td>RMSE</td><td>运行时间/s</td></tr><tr><td>GA-LSSVM</td><td>10.8354</td><td>0.008261</td><td>9.529</td></tr><tr><td>PSO-LSSVM</td><td>7.8124</td><td>0.006873</td><td>4.651</td></tr><tr><td>SADE-LSSVM</td><td>3.1423</td><td>0.002174</td><td>2.104</td></tr></table></body></html>
+
+从表1中可知本文采用的SADE-LSSVM预测模型最大相对误差是 $3 . 1 4 2 3 \%$ ，与GA-LSSVM和PSO-LSSVM相比分别减少了 $7 . 6 9 3 1 \%$ 和 $4 . 6 7 0 1 \%$ ，说明该模型具有较高的预测精度，而SADE-LSSVM 的均方误差值相比于 GA-LSSVM 和 PSO-LSSVM 也分别减少了0.006087 和0.004699，表明SADE-LSSVM模型具备较高的可靠性。从运行时间上来看，SADE-LSSVM预测模型也是用时最短的，表明了使用SADE寻优比用GA和PSO寻优速度更快，综合以上的分析SADE-LSSVM预测模型不管是在预测精度、可靠性还是运行时间上都优于GA-LSSVM和PSO-LSSVM预测模型，所以采用本文提出SADE-LSSVM能够给螺杆式制冷压缩机的故障预测提供可靠的模型。
+
+# 3 结束语
+
+针对螺杆式制冷压缩机种类的多样性和故障的复杂性，所以采用适合该情况的预测模型，即混合核LSSVM模型，而对于混合核LSSVM模型的多参数问题，提出SADE进行参数寻优，SADE相比于其他寻优算法理论结构简单，参数设置少且搜索能力强，SADE 是基于传统的DE，在差分策略上和参数选择上进行了优化。通过实验结果对比可证明，基于SADE的混合核LSSVM预测模型的可靠性和准确性均高于基于PSO的混合核LSSVM预测模型和基于GA的混合核LSSVM预测模型，而时间上更短。所以基于SADE的混合核LSSVM预测模型为螺杆式制冷压缩机的故障预测提供了有效的模型。
+
+# 参考文献：
+
+[1]Dong R J,Pedrycz W.A granular time series approach to long-term forecasting and trend forecasting [J].PhysicaA:Statistical Mechanics and its Applications,2008,387 (13): 3253-3270.   
+[2] 张莉，吉培荣，杜爱华，等．中长期电力负荷预测的几种灰色预测模型 的比较及应用[J].三峡大学学报：自然科学版,2009,31(3):41-45. (Zhang Li,Ji Peirong,Du Aihua,et al. Comparison and application of several grey forecasting models for medium and long term power load forecasting [J]. Journal of China Three Gorges University: Natural Science Edition,2009,31 (3): 41-46)   
+[3] 金晶，芮延年，郭旭红，等．基于灰色理论、径向基神经网络的大型压 缩机故障预测方法的研究[J]．苏州大学学报：工科版,2004,(5):124- 127.(Jin Jing,Rui Yannian,Guo Xuhong,et al. Study on fault prediction of large-scale compressor based on grey theory and radial basis function neural network [J]. Journal of Suzhou University:Engineering Science Edition, 2004,(5): 124-127.)   
+[4]Suykens JA K,Vandewalle J.Least squares support vector machine classifiers [J].Neural Processing Letters,1999,9(3): 293-300.   
+[5]Vapnik V N. The nature of statistical learning theory [M].New York: Springer-Verlab,1995.   
+[6] 戴林超，吴琳丽，赵海娜，等．基于最小二乘支持向量机的故障预测法 [J]．中南大学学报：自然科学版,2009,(S1):253-257.(Dai linchao,Wu Linli,Zhao Haina,et al.Fault prediction method based on least squares support vector machine [J]. Journal of central south university (Natural Science Edition),2009,(S1): 253-257.)
+
+[7]连光耀，吕晓明，黄考利，等．基于最小二乘支持向量机的复杂装备故 障预测模型研究[J].计算机测量与控制,2011,19(5):1030-1032.(Lian Guangyao,Lv Xiaoming,Huang Kaoli,et al.Research on fault prediction model of complex equipment based on least squares support vector machine [J]. Computer measurement and control.,2011,19 (05): 1030-1032.)
+
+[8]Smits C F, Jordaan E M. Improved SVM regression using mixtures of kernels [C]//Proc of International Joint Conference on Neural Networks. 2002: 2785-2790.   
+[9] 马琰，闫兵．混合核函数最小二乘支持向量机的网络流量预测模型[J]. 微型电脑应用,2015,31(02): 50-53.(Ma Yan,Yan Bing.Network traffic prediction model based on mixed kernel least squares support vector machine [J]. Microcomputer Application,2015,31(02): 50-53.)   
+[10]张华伟，左旭艳，潘昊．基于混合核学习支持向量机的主减速器故障诊 断[J].计算机应用与软件，2017,34(05):91-98.(Zhang Huawei,Zuo Xuyan,Pan Hao.Fault diagnosis of main reducer based on hybrid kernel learning support vector machine [J]. Computer application software.)   
+[11]耿立艳，陈丽华．基于 FOA 优化混合核LSSVM的铁路货运量预测 [J]．计算机应用研究,2017,34(02):409-412.(Geng Liyan,Chen Lihua. Prediction of railway freight volume based on FOA optimized mixed kernel LSSVM[J]. Computer Application Research,2017,34(02): 409-412.)   
+[12]李文元，闫海华，姚宏杰．粒子群优化的最小二乘支持向量机在通信装 备故障预测中的应用[J].微电子学与计算机,2013,30(02):99-102.(Li Wenyuan, Yan Haihua,Yao Hongjie.Application of least squares support vector machine based on particle swarm optimization in communication equipment fault prediction [J]. Microellectronicsand Computer,2013,0 (2): 99-102.)   
+[13]王有元．基于遗传算法的大型电力变压器内部故障预测模型研究 [D]. 重庆：重庆 大学，2003.（Wang Youyuan.Research on internal fault prediction model of large power transformer based on genetic algorithm [D]. Chongqing University,2003.）   
+[14]张锦华，宋来锁，张元华，等．加权变异策略动态差分进化算法[J]. 计算机工程与应用,2017,53(04):156-162.(Zhang Jinhua,Song Laisuo, Zhang Yuanhua,et al.Dynamic differential evolution algorithm with weighted variation strategy [J]. Computer Engineering and Application, 2017, 53 (04): 156-162. )   
+[15]李龙澍，翁晴晴．基于反向学习的自适应差分进化算法[J].计算机应 用，2018,38(02):399-404.(Li Longshu,Weng Qingqing.Adaptive differential evolution algorithm based on reverse learning[J].Computer Application,2018,38 (02): 399-404.)   
+[16]刘昊．基于择优学习策略的差分进化算法[C]/第26 届中国过程控制 会议论文集.2015.(Liu Hao.Differential evolution algorithm based on optimal learning strategy [Cl// Proc of the 26th China Process Control Conference. 2015. )

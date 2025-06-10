@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "Spatial variability between glacier mass balance and environmental factors in the High Mountain Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Zhen1,2\\*,GU Zhengnan1, Hu Kehong1, XU Yangyang1, ZHAO Jinbiao1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Geomatics,Anhui University of Science and Technology,Huainan 232Oo1,China;   \n2State Key Laboratoryof Cryospheric Science,Northwest Instituteof Eco-Environment and Resources, Chinese Academyof Sciences,Lanzhou 73000o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: High Mountain Asia (HMA） region contains the world's highest peaks and the largest concentration of glaciers except for the polar regions, making it sensitive to global climate change. In the context of global warming, most glaciers in the HMA show various degrees of negative mass balance, while some show positive or near-neutral balance. Many studies have reported that spatial heterogeneity in glacier mass balance is strongly related to a combination of climate parameters. However, this spatial heterogeneity may vary according to the dynamic patterns of climate change at regional or continental scale.The reasons for this may be related to non-climatic factors.To understand the mechanisms by which spatial heterogeneity forms, it is necessary to establish the relationships between glacier mass balance and environmental factors related to topography and morphology. In this study， climate， topography, morphology,and other environmental factors are investigated. Geodetector and linear regression analysis were used to explore the driving factors of spatial variability of glacier massbalance in the HMA by using elevation change data during 20O-2016.The results show that the coverage of supraglacial debris is an essential factor affecting the spatial heterogeneity of glacier mass balance,followed by climatic factors and topographic factors, especially the median elevation and slope in the HMA. There are some differences among mountain regions and the explanatory power of climatic factors on the spatial differentiation of glacier mass balance in each mountain region is weak,indicating that climatic background of each mountain region is similar. Therefore,under similar climatic backgrounds,the median elevation and slope are most correlated with glacier mass balance. The interaction of various factors is enhanced,but no unified interaction factor plays a primary role. Topographic and morphological factors also control the spatial heterogeneity of glacier mass balance by influencing its sensitivity to climate change. In conclusion, geodetector method provides an objective framework for revealing the factors controlling glacier mass balance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: geodetector; glacier change; mass balance; climate change; High Mountain Asia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Zhen,GU Zhengnan,Hu Kehong,XU Yangyang,ZHAO Jinbiao.2022. Spatial variabilitybetween glacier mass balance andenvironmental factorsinthe High MountainAsia.Journal of Arid Land,14(4):441-454. https://doi.0rg/10.1007/s40333-022-0014-z ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial variation characteristics of glacier mass balance are closely related to the climate and environment. Glacier mass balance affects a series of glacier material properties (such as ice formation,temperature and movement),and glacier scale (such as area,length,and volume). Therefore,glacier mass balance is the critical link to the climate environment. High Mountain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asia (HMA) is the most glacially developed region in the middle latitudes and the largest glacier concentration except for the polar regions (Farinoti， 2Ol7).As a result of interaction with westerlies，monsoons，and global warming， glacier mass changes will significantly impact downstream water resources and water environment (Yao et al., 2O12). However, the change of glacier mass balance is spatially heterogeneous (Yao et al., 2O12; Brun et al., 2Ol7; Hugonnet et al., 2021). Most glaciers show negative mass balance, while a few regions (such as the West Kunlun and Karakoram mountains) maintain stable or positive mass balance (Brun et al., 2017). The reasons for these temporal and spatial variations remain unclear, as topography and other environmental factors complicate the glacier's response to climate change (Brun et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are two possible explanations for the differences in glacier mass balance: spatial heterogeneity of climate change and diferent glacier responses to climate change (Sakai and Fujita, 2O17). Recent studies have shown that glacier mass in the Nyainqéntanglha and Hengduan mountains has decreased dramatically，while glacier mass in the Karakoram and West Kunlun mountains has increased slightly (Brun et al.，2Ol7). The latter increase，known as the \"Karakoram Anomaly\" (Hewitt 2Oo5), is thought to be due to cooling temperatures in summer, and increased precipitation in winter (Farinoti et al.，2O2O).However, the effects of climate heterogeneity across the HMA have not been fully quantified, leaving the possibility that most of anomalies are due to the glaciers' different responses to similar climate changes. A simple index, such as the sensitivity of glacier mass balance (at the individual glacier or regional scale） to temperature and precipitation (Oerlemans and Fortuin,1992；Marzeion et al.，2O18） can be numerically estimated heterogeneity in the response of glacier mass balance to climate change. Sakai and Fujita (2O17) suggested that, in explaining the recent glacial changes in the HMA, spatial heterogeneity in glacier mass balance is more informative than regional difference in climate change. Whether or not the local or regional sensitivity of glacier mass balance to temperature and precipitation is related to the topographic parameters of glacier is not well understood. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the sensitivity of glacier to climate change depends on the current environment of the glacier, i.e.,the environmental control over the heat and mass balance of the glacier. Salerno et al. (O17) conducted a statistical analysis of the relationship between glacier thinning rates and morphological variables in the Himalaya Mountains. They found that reduced downstream surface slope was the primary morphological variable controlling the thickness changes of glaciers.Scherler et al. (2O11) demonstrated that supraglacial debris had caused spatial variations of the glacier fluctuations in the Karakoram and Himalaya mountains. Brun et al. (2O19) reported that the glacier tongue slope, mean elevation, debris cover,and the avalanche contribution area together account for the mass balance variability in the HMA.Few studies have investigated the controlling factors of glacier mass balance in the HMA,and most are focused on local areas.This kind of research for other areas outside the HMA also mainly focuses on local area research. In the European Alps Mountains,the mass balance of an individual glacier is also related to glacier morphology (Huss,2012; Fischer et al., 2015). Potentially,the outcomes from previous studies investigating the controlling factors of glacier mass balance are sometimes contradictory, just because the factors controlling the spatial distribution of glacier mass balance vary from region to region (i.e.,the outcomes and findings from one region cannot be generalized,and applied to other regions). Moreover, previous studies used linear regression, making it difficult to detect any nonlinear relationships between environmental variables and glacier mass balance. The relationships between glacier mass balance and environmental variables are often not simply linear due to the complex dynamic processes involved (Li et al.， 2019). Determining such relationships,especially the potentially nonlinear ones,is helpful in understanding the influences of environmental factors on glacier mass balance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geodetector can detect the linear and nonlinear relationships between glacier mass balance and environmental variables (Wang et al.， 2O1O). The current study uses geodetector method to quantitatively analyze the explanatory power of climate,topography,and other environmental factors on glacier mass balance.These relationships are considered not only from a whole HMA perspective but also by investigating individual mountain region. Overall,the driving mechanism of the spatial heterogeneity of glacier mass balance in the HMA is examined from a new perspective. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Data and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HMA refers to the high-altitude region of Asia composed of the Tibetan Plateau and its surrounding areas. It spans several Central Asian countries within $2 3 ^ { \\circ } \\mathrm { N } \\mathrm { - } 4 7 ^ { \\circ } \\mathrm { N }$ $6 5 ^ { \\circ } \\mathrm { E } { - } 1 0 5 ^ { \\circ } \\mathrm { E }$ ,from the Pamir Plateau and Hindu Kush Mountains in the west to the Hengduan Mountains in the east, the Tianshan Mountains in the north,and the Himalaya Mountains in the south.HMA is the highest mountain area on Earth,and is the largest glacier-gathering area except for the polar regions. It is also the largest glacial region of the mid-to-low latitudes (Farinoti,2Ol7). Known as the \"third pole\" of the world,the area is sensitive to global climate change,and has a vulnerable ecosystem with an extensive area of glaciers, permafrost, snow,lakes,and land. The ecosystem makes HMA a unique geographical unit; it not only regulates runoff from glacial meltwater but also influences climate change at the Asian and even global scales,thereby being an indicator and regulator of global climate change (Yao et al.,2O15). Therefore, HMA plays very important roles in ecological security, human survival, and sustainable economic development in Asia. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Glacier mass balance data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mass balance data for individual glacier come from regional statistics of ArcGIS software-based on geodetic mass balance，which was extracted from glacier elevation change rate during 2000-2016 as described by Brun et al. (2O17). Only glaciers with an area larger than $2 \\mathrm { k m } ^ { 2 }$ were included in this study to minimize errors.We used Randolph Glacier Inventory v. 6.O (RGI 6.0) as glacier mask data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Glacier morphological data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The area $( A )$ ，minimum $( Z _ { \\mathrm { m i n } } )$ ，and maximum elevation $( Z _ { \\mathrm { m a x } } )$ ，median elevation $( Z _ { \\mathrm { m e d } } )$ ，slope $( S )$ aspect $( A _ { \\mathrm { s } } )$ ，and length $( L _ { \\mathrm { m a x } } )$ of glaciers were derived from the attribute data of RGI 6.O.The elevation difference between $Z _ { \\mathrm { m a x } }$ and $Z _ { \\mathrm { m i n } }$ is called the difference of glaciation (DG; i.e., $Z _ { \\mathrm { m a x } } { - } Z _ { \\mathrm { m i n } } )$ ： The elevation difference between $Z _ { \\mathrm { m a x } }$ and snowline altitude of a glacier (here taken as $Z _ { \\mathrm { { m e d } , } }$ is called the positive difference of glaciation (PDG; i.e., $Z _ { \\mathrm { m a x } } { - } Z _ { \\mathrm { m e d } } )$ . Corresponding to PDG， the negative difference of glaciation (NDG） is defined as $Z _ { \\mathrm { m e d } } { - } Z _ { \\mathrm { m i n } }$ .Hypsometric index (HI） is calculated by Equation 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H I } = \\frac { Z _ { \\mathrm { m a x } } - Z _ { \\mathrm { m e d } } } { Z _ { \\mathrm { m e d } } - Z _ { \\mathrm { m i n } } } , \\mathrm { i f } : 0 < \\mathrm { H I } < 1 , \\mathrm { t h e n } : \\mathrm { H I } = \\frac { - 1 } { \\mathrm { H I } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The debris cover dataset (Scherler et al.，2O18) provides the global distribution of supraglacial debris cover,and is available on GFZ (Helmholtz Centre Potsdam, German Research Centre for Geosciences) Data Services (https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id= escidoc:3473902). The debris coverage rate (DCR) is the proportion of supraglacial debris area to the total glacier area. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Meteorological data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used monthly ERA5 data (htps://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-landmonthly-means ?tab $=$ overview） to calculate the annual mean temperature $( T )$ ，mean annual precipitation $( P )$ ， the changing trend of annual mean temperature $( T _ { \\mathrm { c } } )$ ，and mean annual precipitation $( P _ { \\mathrm { c } } )$ from 2000 to 2016. The changing trend of $T$ and $P$ was derived using linear regression. Since the resolution of ERA5 data is $0 . 1 ^ { \\circ }$ ,most glaciers are smaller than a grid area. The meteorological data of glaciers smaller than a grid area are taken from the grid value,and values of glaciers larger than a grid area are calculated using the regional statistics method in ArcGIS software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 Geodetector method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Previous studies utilized spatial regression methods (such as correlation analysis),which linearly correlated dependent variable $Y$ to independent variable $X$ ，The heterogeneity of the spatial distributions of dependent variable $Y _ { : }$ ，and independent variable $X$ also reflects the correlation between the two variables,which includes both linear and nonlinear portions. Both correlation relationships can be included and considered within geodetector. When linear regression is significant, geodetector must be significant. When linear regresson is not significant, geodetector may still be significant as long as there is a relationship between the two variables that geodetector can characterize. The detailed information on geodetector can be referenced from the research of Wang et al. (2010). Following is a brief review of the application of this approach to the current study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Geodetector is a statistical method used to detect spatial heterogeneity and its drivers. The core idea is based on the assumption that if an independent variable has a strong influence on a dependent variable,their spatial distributions should be similar(Wang et al.,2O1O).In this study, if an environmental factor influences glacier mass balance,the spatial distributions of the factor and the mass balance are expected to be similar. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To probe the spatial stratification heterogeneity of variable $Y _ { : }$ ，and the extent to which factor $X$ explains the spatial heterogeneity of variable $Y _ { \\cdot }$ ，we described the $q$ value by Equation 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ q = 1 - \\frac { \\displaystyle \\sum _ { h = 1 } ^ { L } N _ { h } { \\sigma _ { h } } ^ { 2 } } { \\displaystyle N \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { h }$ and $N$ are the unit number of strata $h$ and the whole region, respectively; $\\sigma _ { h } ^ { 2 }$ and $\\sigma ^ { 2 }$ are the variances of $Y$ at strata $h$ and the whole region, respectively; and the value range of $q$ is 0-1. The $q$ value implies that $X$ explains $100 q \\%$ of $Y _ { \\astrosun }$ ，The larger the $q$ value，the more directly correlated $X$ with $Y$ 、In other words,if the $q$ value of the correlation between an environmental factor, and glacier mass balance is 1, then the factor's explanatory power is $100 \\%$ . That is, the factor completely controls the glacier mass balance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A simple transformation of the description for the $q$ value satisfies the non-central $F$ distribution: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { F = \\displaystyle \\frac { N - L } { L - 1 } \\frac { q } { 1 - q } \\sim F ( L - 1 , N - L ; \\lambda ) \\ : , } } \\\\ { { \\lambda = \\displaystyle \\frac { 1 } { \\sigma ^ { 2 } } \\Bigg [ \\sum _ { h = 1 } ^ { L } \\overline { { { Y } } } _ { h } ^ { 2 } - \\frac { 1 } { N } \\Bigg ( \\sum _ { h = 1 } ^ { L } \\sqrt { N _ { h } } \\overline { { { Y } } } _ { h } \\Bigg ) ^ { 2 } \\Bigg ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the maximum count of strata; $\\sim$ is the abeyance of some distribution; $\\lambda$ is the noncentral parameter; and $\\overline { { Y } } _ { h }$ is the mean value of strata $h$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The principle of geodetector method is shown in Figure 1. The example diagram includes two coverages, dependent variable $Y _ { \\ast }$ ，and explanatory variable $X$ ，The explanatory variable $X$ isa typical quantity expressed by a polygon. If $X$ is grid data, it need be converted to type data by the reclassification method. In the classification，except when the slope is classified by eight directions,the classification scheme with the largest $q$ value is followed. The dependent variable Y for every glacier is mass balance,and the average $Y$ and variance $\\big ( \\sigma _ { h } ^ { 2 } \\big )$ are calculated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The two coverages are compared, enabling the calculation of the average $Y$ value and variance $\\left( \\sigma ^ { 2 } \\right)$ for each coverage. Substituting these mean values and variances into Equation 2 produces the $q$ value. Subsequent substitution into Equations 3 and 4,and checking the non-central $F$ distribution table results in the statistical significance test of the $q$ value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interaction between $X _ { 1 }$ and $\\mathrm { V } _ { 2 } \\ ( q _ { X 1 \\cap X 2 } )$ is evaluated by comparing with values of $q _ { X 1 }$ and $q _ { X 2 }$ where $q _ { X 1 \\cap X 2 }$ represents the determinative force of the new factor resulting from the superposition of $X _ { 1 }$ and $X _ { 2 }$ factors.All of the above processes are undertaken with the software of geodetector (www.geodetector.cn). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5185f7387a34b67efdb440dc5bc595fddea3864f4161a16b8fd1c6421a045a3a.jpg",
+        "img_caption": [
+            "Fig.1Principle of geodetector. $x .$ ，independent variable；y，dependent variable; $h$ ，the strata of $x$ or $y$ (classification or partition); $\\overline { { Y _ { h } } }$ , the mean value of strata $h$ $\\scriptstyle { \\frac { 2 } { O h } }$ ，the variance of $y$ at strata $h$ ： $\\sigma ^ { 2 }$ ,the variance of $y$ at the whole region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Glaciermassbalance variability in the HMA ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The average glacier mass balance in the HMA was $- 0 . 1 8 ( \\pm 0 . 0 4 ) \\mathrm { m } \\mathrm { w . e / a }$ during 2000-2016,but glacier mass change was heterogeneous (Fig. 2). For example, the glacier mass balance in the Hengduan and Nyainqéntanglha mountains was the most negative,which were $- 0 . 6 5$ （204 $( \\pm 0 . 2 3 )$ and $- 0 . 5 6 ( \\pm 0 . 2 3 ) \\mathrm { m } \\mathrm { w } . \\mathrm { e } . / \\mathrm { a }$ ,respectively. The glaciers on the West Kunlun and East Kunlun mountains show a positive mass balance of 0.14 $( \\pm 0 . 0 8 )$ and 0.01 $\\left( \\pm 0 . 0 8 \\right)$ m w.e./a,respectively. The heterogeneity of the change of regional mass balance in the HMA is primarily correlated with climate.The glaciers in the southern part of the Tibetan Plateau have the most extensive mass loss due to the Indian monsoon. In contrast, the dominance of westerly wind results in the minimal glacier mass loss in northwestern HMA,and some glaciers are even positive. Glaciers in the central part of the Tibetan Plateau,dominated by transitional modes,had moderate glacier mass loss.The strengthening of westerly winds and the weakening of monsoon are the main drivers of the current glacial conditions in the HMA. Glacier morphology is also an essential factor affecting the heterogeneity of glacier mass balance.In particular, glaciers in the same region with similar climatic backgrounds show different change states.Two adjacent glaciers are identified as one having a positive balance and the other a negative balance.Therefore,in Section 3.2,we will discuss the influence of these environmental factors on glacier mass balance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/be9ddb6dee026fc21de015eb39db17897ae4fb9bddfca7ce0d6bfc647094ab2f.jpg",
+        "img_caption": [
+            "Fig.2Spatial distribution of the glacier mass balance change in the High Mountain Asia.Mts,Mountains. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Environmental factors affecting the variability of glacier mass balance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the influencing factors of the variability of glaciers mass balance in the HMA and other mountains,listing the $q$ values from the largest to the smallest. The $q$ value of DCR was the largest,inferring that the debris cover has an influential effect on the spatial differentiation of mass balance of the whole glaciers in the HMA.Moreover, climatic factors ( $T , P _ { \\mathrm { c } }$ and $P$ playa secondary role. Since not all glaciers are covered with supraglacial debris,climate should be the primary factor accounting for the spatial heterogeneity of glacier mass balance. However, the $q$ value of temperature change $( T _ { \\mathrm { c } } )$ is not higher, indicating that the spatial heterogeneity of temperature change has less influence on the spatial heterogeneity of glacier mass balance than other climate factors $( T , P _ { \\mathrm { c } }$ ,and $P$ ). There is little difference in temperature change in the HMA, and spatial heterogeneity of temperature change has a relatively poor correlation with the spatial heterogeneity of glacier mass balance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Topography has less explanatory power for all the glaciers in the HMA than DCR and climate factors,but topography is the dominant effector of mass balance of most glaciers in mountain regions. Slope and median elevation have the highest $q$ values among all topographic factors. Assuming that the climatic background of each mountain region is similar, slope and median elevation are the dominant factors of mass balance heterogeneity of glaciers in most mountain regions. However, there are some exceptions.For example, the slope has a weak correlation with the heterogeneity of glacier mass balance in the West Kunlun Mountains due to the generally gentle slope. Equally,the median elevation has a weak explanatory effect on the heterogeneity of glacier mass balance in the Hissar Alay Mountains due to the generally lower median elevation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/17917a48d0d1aa4bae75cd719c9de9c68d3baee5ad2801d0a70beaefc2e44cd3.jpg",
+        "table_caption": [
+            "Table1 Geodetector's results for different mountain regions "
+        ],
+        "table_footnote": [
+            "Note: A, area; $s$ slope; $Z _ { \\mathrm { m i n } }$ ,minimum elevation; $Z _ { \\mathrm { m a x } } .$ maximum elevation; $Z _ { \\mathrm { { m e d } } } .$ median elevation; $A _ { \\mathrm { s } }$ aspect; $L _ { \\mathrm { m a x } }$ maximum length; DG, differenceofciatio;ositivediecofaci;Ggatiedereneofaciati;DC,ebrisoverageate; hypsometric index; $P$ ，precipitation; $T$ ,temperature; $P _ { \\mathrm { { c } } }$ ，precipitation change; $T _ { \\mathrm { c } }$ ,temperature change;HMA,High Mountain Asia;We only keep statistically significant (at $9 9 \\%$ level) the $q$ values in the order from the largest to the smallest.Dominant interaction shows only the first pair of interactions arranged by the $q$ values. "
+        ],
+        "table_body": "<html><body><table><tr><td>Region</td><td>8 Factors arranged from the largest to the smallest by the q value</td><td>Dominant interaction (q)</td></tr><tr><td>West Himalaya</td><td>S (0.20),NDG(0.08),Zmax (0.07),DG(0.06),P(0.05),P(0.03),T (0.03),Zed (0.03),PDG (0.03),T(0.03),Lmax(0.02),HI(0.02),A(0.02)</td><td>SNP (0.25)</td></tr><tr><td>Central Himalaya</td><td>NDG (0.18),S (0.18),DG (0.10),DCR (0.08),Zmed(0.08),HI(0.07),Zmax (0.07), Zmin (0.07),Tc (0.04),PDG(0.03),T(0.03),A(0.02),Lmax (0.02),P(0.02)</td><td>NDGNDCR (0.33)</td></tr><tr><td>East Himalaya</td><td>S(0.25),Zmed (0.17),Zmax (0.17),DCR (0.16),NDG (0.16),Zmin (0.15),P(0.13), DG (0.12),T(0.11),PDG (0.09)</td><td>SNZmed (0.45)</td></tr><tr><td>Karakoram</td><td>DCR(0.05),Zmed (0.04),Zmax (0.04),Tc(0.04),Zmin (0.04),P(0.03),T(0.03),S (0.03),Lmax (0.02),HI(0.02),A (0.02),NDG (0.01),P (0.01),DG (0.01)</td><td>DCR∩Zmed (0.13)</td></tr><tr><td>Pamir Plateau</td><td>S (0.13),Zmed (0.09),DCR (0.07),Pc (0.06),NDG(0.06),A (0.06),P(0.05),Zax (0.05),DG (0.04),T(0.03),HI(0.03),Tc (0.03),Zmin (0.03),PDG (0.02)</td><td>SNPc (0.22)</td></tr><tr><td>Hissar Alay</td><td>P(0.16),HI(0.15),Tc(0.15),S(0.14),T(0.12),Zmin (0.11),P(0.10),Lmax (0.09)</td><td>TeNT (0.41)</td></tr><tr><td>Hindu Kush</td><td>S(0.41),DG (0.35),NDG (0.35),Zmax (0.24),PDG (0.17),Zmed (0.13),P(0.11), P(0.10),Zmin (0.09),Tc (0.08),T(0.08),Lmax (0.07),HI(0.06)</td><td>SONDG (0.55)</td></tr><tr><td>Western Tianshan</td><td>S(0.18),Zmed (0.17), Zmax (0.16),T(0.15),NDG (0.13),P(0.12),DG (0.11),Tc (0.09),PDG (0.05),DCR(0.04),Zmin (0.04),P (0.04),As (0.04),HI(0.03)</td><td>ZmedNT(0.28)</td></tr><tr><td>Eastern Tianshan</td><td>Zmed (0.30),S(0.28),Zmax (0.27),NDG (0.25),DG (0.22),HI(0.15),P (0.11),T (0.08), Zmin (0.06)</td><td>SNHI (0.46)</td></tr><tr><td>Western Kunlun</td><td>P (0.09),Lmax(.07),A (0.07),Zmed(0.05),DCR (0.04),Zmin(0.03),Tc (0.03),Zmax (0.03),As (0.02),S(0.02)</td><td>P∩Lmax (0.18)</td></tr><tr><td>Eastern Kunlun</td><td>Zmed (0.28),Zmax (0.28),Zmin (0.26),T(0.23),P(0.23),P(0.15),DG (0.11),S (0.09),NDG (O.08),DCR(0.06)</td><td>Zmed∩Pc (0.52)</td></tr><tr><td>Tibetan Interior Mountains</td><td>S(0.22),Zmed (0.21),P. (0.21),P(0.20),Zmi (0.18),DCR (0.18),T(0.13), Lmax (0.09)</td><td>SNDCR (0.46)</td></tr><tr><td>Tanggula</td><td>Zmed (0.44),P(0.28),DCR (0.26),Zmin (0.25),Zmax (0.24),NDG (0.23),Tc (0.22), T(0.18),P (0.18)</td><td>ZmedNA (0.61)</td></tr><tr><td>Qilian</td><td>Tc (0.17),P(0.15),T(0.14),Zmed (0.14),Zmax (0.08)</td><td>Zmed∩T (0.34)</td></tr><tr><td>Eastern Tibetan Plateau</td><td>Zmed (0.75), Zmax (0.72),PDG (0.71),DG (0.65)</td><td>ZmedNT(0.99)</td></tr><tr><td></td><td>Gangdise Mountains Zmed(0.52),Zmax (0.50),S(0.44),P. (0.43),Zmin (0.38)</td><td>ZminNT (0.79)</td></tr><tr><td>Nyainqéntanglha</td><td>S(0.12),Lmax(0.10),P(0.08),Tc (0.08),A (0.08),Zmed (0.07),T(0.05),Zmax (0.04), PDG(0.04),Zmin (0.04),P (0.04),As (0.04),HI(0.03),DG (0.03),DCR(0.02)</td><td>SNLmax (0.23)</td></tr><tr><td>Hengduan</td><td>DG (0.49),Zmin (0.49),S(0.46),PDG (0.45),NDG (0.44),Zmax (0.38),Pc (0.29), Tc(0.21),T(0.18),Zmed (0.18),HI(0.18),DCR (0.17),Lmax (0.16)</td><td>ZminnA (0.68)</td></tr><tr><td>HMA</td><td>DCR(0.14),T(0.10),Pc (0.10),P(0.08),S(0.08),Zmed (0.06),Zmax (0.05),NDG (0.05),DG (0.03),HI(0.03), Tc (0.02),Zmin (0.02),PDG (0.02), Lmax (0.01)</td><td>DCRNS (0.30)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Aspect, glacier area, maximum length and PDG have litte influence on glacier mass balance, and the correlation is not significant (Tables 2 and 3).However, there are exceptions to this.For example,the glacier area,and the maximum length in the West Kunlun Mountains strongly correlate with the glacier mass balance. Glacier mass balance in the West Kunlun Mountains is positive,and the difference in glacier mass balance in this region is closely related to glacier size and precipitation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our results show that the effects of any two environmental factors on glacier mass balance are mutually enhanced.Table 1 shows only the two environmental factors with the largest interaction enhancement effect ( $\\dot { \\boldsymbol { q } }$ value). For the whole HMA, the interaction between supraglacial debris, and the slope is the dominant.In combination with Tables 2 and 3,it is inferred that bare ice with no supraglacial debris coverage,and gentle slopes has a more negative mass balance.The pattern of the Tibetan Interior Mountains is the same as that in the whole HMA.The dominant interaction types of glacier mass balance in other mountain regions are different. However, in most cases, slope or median elevation is the most outstanding interaction compared with other factors. It is worth mentioning that the interaction between median elevations,and air temperature accounts for $9 9 \\%$ of the glacier mass balance in the eastern Tibetan Plateau. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The geographical analysis results (Table 1) of different mountain regions show that, except for the West Kunlun, Hissar Alay,and Qilian mountains,climate is not the dominant factor. This is presumably because the climate difference for each mountain region is slight, therefore,we assume that the climate background in each mountain region is similar. As a result of this assumption,the median elevation or slope becomes the dominant factor of glacial mass balance in regions with the same climatic background. The slope is the most crucial factor affecting glacier mass balance in the western Himalayas,eastern Himalayas,Hindu Kush,western Tianshan, Tibetan Interior Mountains,Nyainqéntanglha mountains,and Pamir Plateau.The median elevation is the most important factor affecting glacier mass balance in the eastern Tianshan, eastern Kunlun, Tanggula and Gangdise mountains,and eastern Tibetan Plateau. Precipitation plays a dominant role in glacier mass balance in the West Kunlun Mountains,where the correlation between the maximum length and precipitation is the strongest. Glaciers with longer lengths may receive more precipitation, increasing the influence of precipitation on glacier mass balance. The enhanced westerlies bring more precipitation to the West Kunlun Mountains, resulting in a positive glacier mass balance in the region (Yao et al., 2012; Lin et al., 2017). Precipitation plays a leading role in glacier mass balance in the Hissar Alay Mountains,but the correlation between temperature and temperature change is the strongest. Temperature change plays a dominant role in glacier mass balance in the Qilian Mountains,where the correlation between temperature and median altitude is the strongest. We also assessed the linear regression method,and the results are shown in Tables 2 and 3,which are also consistent with the results of Geodetector method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2fbdbbc6c167fe4c784e64cf572c2a216f51981202722453a9d7189a57f105e0.jpg",
+        "table_caption": [
+            "Table 2Correlation matrix analyzing glacier mass changes and environmental factors "
+        ],
+        "table_footnote": [
+            "Note:A,area; S,slope; $Z _ { \\mathrm { m i n } }$ ，minimum elevation; $Z _ { \\mathrm { m a x } } .$ ，maximum elevation; $Z _ { \\mathrm { m e d } }$ ，median elevation; $A _ { s } ,$ aspect; $L _ { \\mathrm { m a x } }$ ，maximum length; DCR,debris coverage rate;HMA,High Mountain Asia;\\*, $P { < } 0 . 0 5$ level; \\*\\*, $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Region</td><td>A</td><td>Zmin</td><td>Zmax</td><td>Zmed</td><td>S</td><td>As</td><td>Lmax</td><td>DCR</td></tr><tr><td>West Himalaya</td><td>-0.11**</td><td>-0.04</td><td>0.21**</td><td>0.11**</td><td>0.45**</td><td>0.03</td><td>-0.11**</td><td>-0.07</td></tr><tr><td>Central Himalaya</td><td>-0.09*</td><td>-0.09*</td><td>0.22**</td><td>0.20**</td><td>0.43**</td><td>0.02</td><td>-0.13**</td><td>-0.15**</td></tr><tr><td>East Himalaya</td><td>-0.00</td><td>0.03</td><td>0.34**</td><td>0.25**</td><td>0.48**</td><td>-0.02</td><td>-0.03</td><td>-0.08</td></tr><tr><td>Karakoram</td><td>-0.10**</td><td>-0.06*</td><td>-0.08**</td><td>-0.05*</td><td>0.14**</td><td>0.04</td><td>-0.13**</td><td>-0.12**</td></tr><tr><td>Pamir Plateau</td><td>-0.01</td><td>0.08*</td><td>0.22**</td><td>0.25**</td><td>0.34**</td><td>0.11**</td><td>-0.03</td><td>-0.06</td></tr><tr><td>Hissar Alay</td><td>-0.20*</td><td>-0.13</td><td>-0.07</td><td>0.03</td><td>0.21*</td><td>0.06</td><td>-0.22**</td><td>-0.17*</td></tr><tr><td>Hindu Kush</td><td>0.05</td><td>-0.19**</td><td>0.43**</td><td>0.27**</td><td>0.63**</td><td>0.02</td><td>0.12</td><td>-0.09</td></tr><tr><td>Western Tianshan</td><td>-0.04</td><td>0.06</td><td>0.31**</td><td>0.40**</td><td>0.42**</td><td>-0.05</td><td>-0.05</td><td>0.05</td></tr><tr><td>Eastern Tianshan</td><td>0.03</td><td>0.25**</td><td>0.49**</td><td>0.54**</td><td>0.52**</td><td>0.08</td><td>0.07</td><td>0.12</td></tr><tr><td>Western Kunlun</td><td>-0.24**</td><td>-0.10*</td><td>-0.17**</td><td>-0.14**</td><td>0.10**</td><td>0.16**</td><td>-0.24**</td><td>-0.10*</td></tr><tr><td>Eastern Kunlun</td><td>-0.13</td><td>0.39**</td><td>0.37**</td><td>0.53**</td><td>0.28**</td><td>-0.06</td><td>-0.05</td><td>0.19**</td></tr><tr><td>Tibetan Interior Mountains</td><td>-0.01</td><td>-0.30**</td><td>-0.16</td><td>-0.18</td><td>-0.10</td><td>0.04</td><td>-0.02</td><td>-0.16</td></tr><tr><td>Tanggula</td><td>-0.02</td><td>0.19*</td><td>0.44**</td><td>0.64**</td><td>0.20*</td><td>0.03</td><td>-0.01</td><td>-0.31**</td></tr><tr><td>Qilian</td><td>-0.04</td><td>0.02</td><td>0.26**</td><td>0.28**</td><td>0.21*</td><td>0.05</td><td>0.02</td><td>-0.03</td></tr><tr><td> Pasterm Tibetan</td><td>0.18</td><td>-0.04</td><td>0.82*</td><td>0.85**</td><td>0.17</td><td>0.24</td><td>0.30</td><td>-0.24</td></tr><tr><td>Mountins</td><td>0.01</td><td>0.52**</td><td>0.60**</td><td>0.70**</td><td>0.59**</td><td>0.26</td><td>-0.16</td><td>-0.35*</td></tr><tr><td>Nyainqéntanglha</td><td>-0.24**</td><td>0.01</td><td>-0.06</td><td>0.06</td><td>0.34**</td><td>-0.01</td><td>-0.31**</td><td>0.02</td></tr><tr><td>Hengduan Shan</td><td>0.26**</td><td>-0.58**</td><td>0.47**</td><td>-0.02</td><td>0.63**</td><td>0.14</td><td>0.32**</td><td>0.32**</td></tr><tr><td>HMA</td><td>-0.00</td><td>0.11**</td><td>0.19**</td><td>0.20**</td><td>0.27**</td><td>0.01</td><td>-0.01</td><td>-0.19**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/959fa82403b8511db760ee6e682e2fce1eb375135c5d31ebb55c410ed9bb75d0.jpg",
+        "table_caption": [
+            "Table 3Correlation matrix analyzing glacier mass changes and environmental factors "
+        ],
+        "table_footnote": [
+            "Note:DGdifsieoftcfa;o $P$ ，precipitation; $T _ { : }$ ，temperature; $P _ { \\mathrm { c } }$ ，precipitation change; $T _ { \\mathrm { c } }$ ，temperature change;HMA,High Mountain Asia;\\*, $P { < } 0 . 0 5$ level; \\*\\*, $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Region</td><td>DG</td><td>PDG</td><td>NDG</td><td>HI</td><td>P</td><td>T</td><td>P</td><td>Tc</td></tr><tr><td>West Himalaya</td><td>0.23**</td><td>0.15**</td><td>0.25**</td><td>-0.10**</td><td>0.03</td><td>0.07*</td><td>0.06</td><td>-0.09*</td></tr><tr><td>Central Himalaya</td><td>0.26**</td><td>0.10*</td><td>0.38**</td><td>-0.25**</td><td>-0.03</td><td>0.06</td><td>0.04</td><td>0.00</td></tr><tr><td>East Himalaya</td><td>0.29**</td><td>0.19**</td><td>0.31**</td><td>-0.13*</td><td>0.21**</td><td>0.04</td><td>0.05</td><td>-0.07</td></tr><tr><td>Karakoram</td><td>-0.00</td><td>-0.03</td><td>0.03</td><td>-0.09**</td><td>0.05*</td><td>-0.07**</td><td>-0.03</td><td>-0.11**</td></tr><tr><td>Pamir Plateau</td><td>0.12**</td><td>0.05</td><td>0.17**</td><td>-0.14**</td><td>-0.13**</td><td>-0.12**</td><td>-0.17**</td><td>0.11**</td></tr><tr><td>Hissar Alay</td><td>0.04</td><td>-0.10</td><td>0.21*</td><td>-0.37**</td><td>-0.32**</td><td>-0.26**</td><td>-0.20*</td><td>-0.29**</td></tr><tr><td>Hindu Kush</td><td>0.47**</td><td>0.35**</td><td>0.50**</td><td>-0.20**</td><td>0.24**</td><td>0.16*</td><td>0.25**</td><td>0.08</td></tr><tr><td>Western Tianshan</td><td>0.22**</td><td>0.15**</td><td>0.27**</td><td>-0.17**</td><td>-0.21**</td><td>-0.31**</td><td>0.11**</td><td>-0.04</td></tr><tr><td>Eastern Tianshan</td><td>0.40**</td><td>0.17*</td><td>0.50**</td><td>-0.33**</td><td>0.02</td><td>-0.09</td><td>0.33**</td><td>0.06</td></tr><tr><td>Western Kunlun</td><td>-0.04</td><td>-0.03</td><td>-0.04</td><td>0.01</td><td>-0.12**</td><td>-0.08*</td><td>-0.03</td><td>0.10*</td></tr><tr><td>Eastern Kunlun</td><td>0.15*</td><td>0.07</td><td>0.20**</td><td>-0.02</td><td>-0.10</td><td>-0.21**</td><td>-0.23**</td><td>0.05</td></tr><tr><td>Tibetan Interior Mountains</td><td>0.13</td><td>0.04</td><td>0.16</td><td>-0.09</td><td>-0.30**</td><td>-0.17</td><td>-0.16</td><td>-0.11</td></tr><tr><td>Tanggula</td><td>0.18*</td><td>0.14</td><td>0.18*</td><td>-0.16</td><td>0.23**</td><td>-0.20*</td><td>0.10</td><td>-0.00</td></tr><tr><td>Qilian</td><td>0.17</td><td>0.08</td><td>0.23*</td><td>-0.10</td><td>0.10</td><td>0.05</td><td>0.08</td><td>-0.20*</td></tr><tr><td>Eastern Tibetan Plateau</td><td>0.65**</td><td>0.62**</td><td>0.56*</td><td>0.11</td><td>0.12</td><td>-0.24</td><td>0.22</td><td>0.06</td></tr><tr><td>Gangdise Mountains</td><td>0.18</td><td>0.10</td><td>0.22</td><td>-0.06</td><td>0.14</td><td>-0.18</td><td>0.33*</td><td>-0.32*</td></tr><tr><td>Nyainqéntanglha</td><td>-0.05</td><td>-0.14**</td><td>0.06</td><td>-0.15**</td><td>0.09*</td><td>0.06</td><td>0.14**</td><td>0.14**</td></tr><tr><td>Hengduan</td><td>0.61**</td><td>0.55**</td><td>0.58**</td><td>-0.11</td><td>0.04</td><td>0.20*</td><td>0.46**</td><td>-0.28**</td></tr><tr><td>HMA</td><td>0.08**</td><td>0.01</td><td>0.14**</td><td>-0.15**</td><td>-0.23**</td><td>-0.29**</td><td>0.10**</td><td>-0.05**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Limitations of this study ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The most significant limitation of this study is the accuracy of data, particularly the glacier mass balance and climate reanalysis data.The individual glacier mass balance dataset is inherently highly uncertain, depending on the glacier area, the proportion of glacier surface in the survey, and the number of Digital Elevation Models (DEMs） used to extract reliable signal rate of elevation change (Brun et al.,2O17).However, after the Monte Carlo simulations,Brun et al. (2019） suggested that the spatial heterogeneity of the data was relatively robust, and could be used for statistical analysis.Additionally, other data sources are also affected by the uncertainty of glacier delineation (Paul et al., 2O13). Since glaciers larger than $2 \\mathrm { k m } ^ { 2 }$ were selected in this study, the glacier boundary uncertainty had little effect on the mass balance (Brun et al.,2O19).The debris cover data, however, were uncertain,and the accuracy of the glacier classification was $91 \\%$ (Kraaijenbrink et al., 2O17),which was sufficient for this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The spatial resolution $( 0 . 1 ^ { \\circ } { \\times } 0 . 1 ^ { \\circ } )$ of climate reanalysis data is so coarse that it cannot reflect intra-mountain differences，limiting its accuracy. Although the value may be inaccurate, geodetector only need the classification of each glacier, not the exact value. We classify glaciers according to climate data,and divide them into eight types of climate conditions. Geodetector does not require accurate quantitative values，only qualitative classification results. The classification results can roughly reflect the differences in glacier climate. Our results (Table 1) show that climate in most mountainous regions has litle influence on the difference in glacier mass balance, which is related to the coarse resolution of climate data.Thus, we can assume that climate condition in each mountain region is similar. Therefore,climate is the dominant factor affecting the difference of glacier mass balance in the HMA,which indicates that the resolution of climate data is sufficient to explain the difference in glacier mass balance in every mountain region of the HMA.In future studies, ERA5 data could be scaled to the glacial level,and then divided into mountain regions to detect climate effects. However, using the new climate data does not change the results for other factors,because the $q$ value of each factor in geodetector is calculated independently. The new calculations only affect the $q$ values of climate factors which, in turn,affect the ranking of climate factors in relation to various environmental factors. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another limitation is that glacier surface features are not considered, such as a supraglacial lake,proglacial lake and ice cliffs.Ice cliffs and supraglacial lakes may exacerbate the glacier mass loss (Huang et al.,2O18; Stefaniak et al.,2O21),and these factors may complicate the effect of supraglacial debris. These effects are complex and need to be further explored in the future. Notwithstanding that if these factors will be considered in the future,then the impact factor $q$ value of our present conclusions will remain the same. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, the current study fails to consider the temporal heterogeneity of glacier change. Studies have shown that the glacier mass in most regions shows an accelerated retreat trend, but the retreat degree is heterogeneous (Hugonnet et al.，2O21). In terms of temporal heterogeneity, temperature and precipitation or their changes play essential roles， but topography and morphology cannot be ignored. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effect of supraglacial debris ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Due to the differences in reflectivity，particle size,color,and other physical properties, supraglacial debris has unique thermal characteristics that influence the physical processes of glacier ice ablation (Matson et al.,1993; Nicholson and Benn,2O06).When the debris thickness is less than a critical threshold ( $^ { \\cdot } { < } 2 0 { - } 3 0 ~ \\mathrm { m m } )$ , the melting of underlying glacier ice is greater than that of bare ice;that is,the debris accelerates the melting of glacier. As the debris thickens (to greater than the critical threshold),the thermal resistance of the debris inhibits glacier ablation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supraglacial debris is the strongest correlating factor explaining allthe glacier mass balance of the HMA. However, many glaciers do not have supraglacial debris or are covered with a minimal amount of supraglacial debris. The reason is that the mean climate of a region is constrained by its geography, as well as its topography and morphology. There may have been insufficient sampling of debris-covered glaciers in various mountain regions,so supraglacial debris has not been reported to be the greatest influence on glacier mass balance in most mountain regions. Many glaciers are covered by supraglacial debris in the Karakoram Mountains； therefore,the relationship between supraglacial debris coverage，and glacier mass balance has the highest reported $q$ values in this region. And the supraglacial debris may be a contributing reason for the development of \"Karakoram Anomaly\".However, $q$ values of all the influencing factors to the glaciers of the Karakoram Mountains are very low,which on the one hand is related to large numbers of debris-covered glaciers on the Karakoram Mountains,and on the other hand, may reveal the unique characteristics of the glaciers on the Karakoram Mountains (Table 1). Furthermore,the debris coverage also plays an essential role in explaining the glaciers mass balance heterogeneity of the Pamir Plateau，with the $q$ value ranking behind the slope and median elevation factors (Table 1). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Geodetector method does not easily differentiate whether the supraglacial debris has a positive or negative effect on the glacier mass balance. Therefore,a linear regression method was used to analyze this relationship. Except for the Nyainqéentanglha, Hengduan, and Tianshan mountains, the supraglacial debris of glaciers in other mountain regions are negatively correlated with the glacier mass balance (Table 2).However,only the Central Himalayas,Karakoram,East Kunlun, and Tanggula mountains are negatively correlated $( P { < } 0 . 0 1 )$ . The Hissar Alay, Western Kunlun, and Gangdise mountains are negatively correlated $( P { < } 0 . 0 5 )$ ．The Hengduan Mountains is positively correlated $( P { < } 0 . 0 1 )$ . The thick supraglacial debris can inhibit the glacier mass balance, while the thin supraglacial debris can promote. The positive or negative correlation between supraglacial debris and mass balance may depend on the supraglacial debris thickness (Scherler et al.,2011; Benn etal.,2O12; Fyffe etal.,2O14).If the surface features of the debris are considered, such as ice cliffs and supraglacial lake,the influence of debris willbe more complicated (Huang et al.,2018; Steiner et al.,2019; Stefaniak et al.,2021).Therefore,the effect of surface debris on mass balance is relevant and worth further exploration. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3 Effectofclimate ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Not all glaciers are covered with supraglacial debris,with many glaciers having minimal supraglacial debris.Therefore,climate is primarily dominant and significant factor for the heterogeneity of glacier mass balance throughout the HMA. Glacier mass balance is negatively correlated with temperature and precipitation (Table 2), indicating that glaciers in regions with higher temperatures or more precipitation may suffer a more severe mass loss under the background of climate warming. It seems counterintuitive that areas with much precipitation suffer more glacier mass loss.There are two reasons for this phenomenon. First, precipitation is negatively correlated with elevation, which means that areas with more precipitation tend to have lower elevations,and glaciers at lower elevations are more sensitive to rising temperatures (Oerlemans and Reichert, 2Ooo). Secondly,there is more precipitation in the monsoon region and Indian monsoon-affected glaciers are extremely sensitive to temperature (Wang et al., 2O19).The slight warming will lead to large-scale loss of glaciers,so Indian monsoon-affected glaciers are considered to be temperature-controlled glaciers.The effect of precipitation on glacier mass balance is complex. For the whole of HMA,the change of precipitation is positively correlated with glacier mass balance (Table 2).In particular, the increase of solid precipitation in recent years leads to a slightly positive balance of glaciers in the Karakoram Mountains (Kapnick et al., 2014). In addition, the seasonality of precipitation varies greatly in the HMA, which affects the sensitivity of glacier mass balance s (Fujita, 2008). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4 Effect of topography ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Topography may influence climate heterogeneity or climate sensitivity. Elevation influences temperature heterogeneity because it is warmer at lower elevations,and cooler at higher ones. $Z _ { \\mathrm { m i n } }$ $Z _ { \\mathrm { m a x } }$ and $Z _ { \\mathrm { m e d } }$ are all related parameters that describe the elevation of glaciers.Aspect causes inhomogeneity in solar radiation, which may affect climatic heterogeneity (Anderson et al.,2010). Slope influences the flow and morphology of glaciers, thus, climate sensitivity. PDG,NDG, and HI are related to slope and elevation. Furthermore,the elevation range and slope determine the temperature and precipitation gradients on the glacier surface (Anderson and Mackintosh, 2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Topography has less correlation for all the glaciers in the HMA than DCR and climate factors. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "However, topography is the dominant factor for glacier mass balance in most mountain regions. Among all the topographic factors,median elevation，and slope are the most critical factors affecting glacier mass balance in each mountain region. The median elevation correlation with equilibrium line altitude and mass balance is zero at that elevation (Sakai et al.,2O15). Hence, the median elevation is an important factor affecting glacier mass balance. The lower the median elevation,the lower the equilibrium line altitude,and the less the glacier mass loss. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Slope-controlled glacier change has also been demonstrated by previous studies (Loibl et al., 2014; Salerno et al.,2O14). Data from current study shows that the gentler the slope,the more negative the glacier mass balance (Tables 2 and 3). Gentle slopes may lead to slower glacier flow, slower transport of glacial mass to the downstream, slower recharge in the ablation area,and more negative glacier mass balance. Moreover, the driving stress is conducive to separation and loss of ice (Salerno et al.,2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.5Comparison of geodetector and linear regression analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Univariate linear analysis was performed by calculating Pearson correlation coefficients, correlation of $P$ values for mass balance and other environmental factors.The purpose of linear regression is to linearly and statistically relate the dependent variable $Y$ to the independent variable $X$ 、Glacier mass balance is closely related to climate，environment，and terrain environment. The physical process of impact of climate and terrain on mass balance is very complex (Sakai et al.,2O15). Their relationship is not necessarily linear, that is, not proportional, not linear quantitative relationship. Geodetector is suitable for linear and nonlinear relationship detection, so it is more suitable for exploring glacier mass balance factors than linear regression (Wang et al.，2O1O). And when the linear regression results are significant, the results of geodetector are inevitably significant. When the linear regression results are not significant, geodetector results may also be significant. Geodetector is more powerful, more confident, and strongly suggests causality better than general statistics. It is much more dificult for two variables to be uniformly distributed in two-dimensional space than for two variables to be uniformly distributed in one-dimensional curve.Therefore,we recommend that geodetector can be used in future studies to explore the influencing factors of heterogeneity in glacier mass balance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.6Sensitivity of glacier mass balance to environmental factors ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity of glacier mass balance refers to the response degree of mass balance to temperature or precipitation change,which is generally the mass balance change when temperature increases by $1 ^ { \\circ } \\mathrm { C }$ or precipitation increases by $10 \\%$ (Oerlemans and Fortuin,1992).Glacier mass balance is more sensitive to temperature at mid-to-high latitudes (Liu and Liu,2O16),and more sensitive to precipitation at lower elevations (Molg and Hardy, 2Oo7). This is because net shortwave radiation is the most variable energy flux at the glacier-atmosphere interface,and is controlled by surface albedo.Most of snow and ice mass loss (about $6 5 \\%$ ） occurs via sublimation (direct conversion to water vapor)， followed by melting. The surface albedo depends on precipitation amount and frequency (Molg and Hardy, 2Oo7). Results has found that glacier mass balance has a nonlinear sensitivity to temperature and linear sensitivity to precipitation (Wang et al.，2O19). Thus, temperature is the main driver of mass balance change in maritime glaciers,while in continental glaciers, the interactions among temperature, precipitation seasonality,and snow/rain separation are main drivers (Wang et al., 2O19). Accordingly, topography may be the driver with obvious spatial heterogeneity,and nonlinear relationship with temperature.Thus,based on the temperature sensitivity classification of all glaciers in China by Wang et al. (2OO8),we used geodetector to explore the heterogeneity in temperature sensitivity affected by topography. The results show that the sequence of significant topographic factors is DCR $( 0 . 0 7 ) { > } Z _ { \\mathrm { m i n } }$ $( 0 . 0 6 ) { > } Z _ { \\mathrm { m a x } }$ （2 $( 0 . 0 2 ) > \\mathrm { H I }$ $( 0 . 0 2 ) > Z _ { \\mathrm { m e d } }$ (0.02)>slope (O.01)>aspect (O.O1). Supraglacial debris can increase or decrease the rate of glacial melting,thus,affect temperature sensitivity (Mattson et al.，1993; Nicholson and Benn,2Oo6). The elevation range determines the temperature and precipitation gradients of glacier surface (Anderson and Mackintosh，2O12).In this study， slope has less effect on temperature sensitivity than elevation. Slope sensitivity is not only controlled by temperature gradients but also by glacier flow and morphology (Loibl et al.， 2O14; Salerno et al.,2014). Glacier flow controls mass transport changes,which further lead to the response of changes in glacier mass balance. The glacier morphology affects the glacier flow. For example, when the glacier with a large accumulation area flows through a narrow vally bed, the flow velocity must increase (Salerno et al.，2O14). Therefore,topography and morphology also control the spatial heterogeneity of mass balance by influencing the sensitivity of mass balance to climate change. In the future,more attention should be paid to the relationship among mass balance sensitivity to topographic and morphological parameters. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this study is to examine the potential factors controlling the spatial distribution of glacier mass balance in the HMA during 2OoO-2O16. The larger the $q$ value of the influencing factor, the more significant the correlation of this factor to the glacier mass balance in the region. This research took advantage of various potential factors from available digital data, proposing a new geodetector computing framework to quantify, and compare glacier mass balance associated with various factors and the interaction between different factors. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The results highlighted that supraglacial debris is an important factor affecting the spatial differentiation of glacier mass balance in the HMA，but not all glaciers are covered by supraglacial debris. Therefore,climate is the dominant factor for the spatial differentiation of glacier mass balance. When we assume that climatic background of each mountain is similar, the median elevation or slope is the dominant factor of the spatial differentiation of glacier mass balance.The effects of various factors on glacier mass balance are mutually enhanced, but there is no unified dominant and controling interaction between factors. These outcomes suggest that geodetector provides a quantitative and objective analytical framework that can be used to investigate the potentially controlling factors of glacier mass balance more thoroughly. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (42071085,41701087)and the Open Project of the State Key Laboratory of Cryospheric Science (SKLCS 2020-10). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AndersonB,Mackintosh A,Stumm D,etal.2O10.Climate sensitivityofa high-precipitation glacier inNew Zealand. Journal of Glaciology, 56(195): 114-128.   \nAndersonB,Mackintosh A.2012.Controls on massbalance sensitivityof maritime glaciers in the Southern Alps,New Zealand: the role of debris cover.Journal of Geophysical Research: Earth Surface,117(F1):1-15.   \nBenn,D,Bolch T,Hands K,etal.2O12.Responseof debris-covered glaciers in the Mount Everest region toecent warming,and implications for outburst flood hazards.Earth-Science Reviews,114(1-2):156-174.   \nBrunF,BerthierE,Wagnon P,etal.2Ol7.A spatiallyresolved estimateof HighMountainAsia glacier mass balances, 2000-2016.Nature Geoscience,10(9): 668-673.   \nBrun F,Wagnon P,Berthier E,et al.2019.Heterogeneous influenceof glacier morphology on the massbalance variability in High Mountain Asia.Journal of Geophysical Research: Earth Surface,124(6):1331-1345.   \nFarinoti D.2017.Cryospheric science: Asia's glacier changes.Nature Geoscience,10(9): 621-622.   \nFarinotti D,Immerzeel W,de KokR,et al.2O2O.Manifestationsand mechanismsof the Karakoram glacierAnomaly. Nature Geoscience,13(1): 8-16.   \nFischerM,Huss M,Hoelzle M.2O15.Surface elevation and masschanges of all Swiss glaciers 1980-2010.The Cryosphere,9(2):525-540.   \nFujita K.2Oo8.Effect of precipitation seasonalityon climatic sensitivity of glacier massbalance.Earth and Planetary Science Letters,276(1-2): 14-19. Journal of Glaciology, 60(221): 587-602.   \nHewit K.2Oo5.The Karakoram anomaly? Glacier expansion and the elevation efect, Karakoram Himalaya.Mountain Research and Development,25(4): 332-340.   \nHuangL,Li Z,Han H,et al.2O18.Analysis of thickness changesand the associated driving factorsona debris-covered glacier in the Tienshan Mountain. Remote Sensing of Environment, 2O6: 63-71.   \nHugonnet R,McNabbR,Berthier E,etal.2O21.Acelerated global glacier mass loss in the early twenty-first century. Nature,592(7856): 726-731.   \nHussM.2012.Extrapolating glacier mass balance to the mountain-range scale:the European Alps 1900-2100.The Cryosphere,6(4): 713-727.   \nKapnick S,DelworthT,Ashfaq M,etal.2O14.Snowfalesssensitive to warming in Karakoram than inHimalayas due to a unique seasonal cycle. Nature Geoscience,7(11): 834-840.   \nKraaijenbrink P,Bierkens M,Lutz A,et al.2017.Impact ofa global temperature riseof1.5 degres Celsius on Asia's glaciers. Nature, 549(7671): 257-260.   \nLi Y,Ding Y,hangguan D,etal.2019.Regional diffrences inglobal glacierretreat from198 to2O15.Advances in Climate Change Research,10(4): 203-213.   \nLinH,Li G, CuoL,et al.2017.Adecreasing glacier mass balance gradient from the edge of the Upper Tarim Basin to the Karakoram during 2000-2014. Scientific Reports,7(1): 6712,doi: 10.1038/s41598-017-07133-8.   \nLiu Q,Liu S.2O16. Response of glacier mass balance to climate change in the Tianshan Mountains during the second half of the twentieth century. Climate Dynamics,46(1-2): 303-316.   \nLoiblD,LehmkuhlF,GrieBinger J.2O14.Reconstructing glacierretreat since theLitle Ice Age in SE Tibetby glacier mapping and equilibrium line altitude calculation. Geomorphology,214: 22-39.   \nMarzeion B,Kaser G, MaussonF,et al.2O18.Limited influence of climate change mitigation onshort-term glacier mass loss.Nature Climate Change, 8(4): 305-308.   \nMatsonLE,Gardner JS,Young GJ.1993.Ablation on debris covered glaciers: an example from the Rakhiot Glacier, Punjab, Himalaya. IAHS Publication, 218: 289-296.   \nMolg T,Hardy D R.2Oo7.Ablation and associated energy balance of a horizontal glacier surfaceon Kilimanjaro. Journal of Geophysical Research,109(D16): 1-13.   \nNicholson L，Benn D I. 2O06.Calculating ice melt beneath a debris layer using meteorological data.Journal of Glaciology, 52(178): 463-470.   \nOerlemans J,Fortuin JPF.1992.Sensitivityof glaciers and smallice caps to greenhouse warming. Science,258(5079): 115-117.   \nOerlemans J,Reichert B.2Ooo.Relating glacier massbalance to meteorological data by using a seasonal sensitivity characteristic.Journal of Glaciology,46(152): 1-6.   \nPaul F,Barrand N,Baumann S,et al.2O13.On the acuracy of glacier outlines derived from remote-sensing data. Annals of Glaciology, 54(63):171-182.   \nSakai A,Nuimura T,Fujita K,et al.2O15.Climate regime of Asian glaciers revealed by GAMDAM glacier inventory. The Cryosphere, 9(3): 865-880.   \nSakai A,Fujita K.2O17. Contrasting glacier responses to recent climate change in high-mountain Asia. Scientific Reports,7(1): 13717,doi: 10.1038/s41598-017-14256-5.   \nSalernoF,Gambeli S,Viviano G, et al.2O14.Highalpine ponds shift upwards asaverage temperatures increase: Acase study of the Ortles-Cevedale mountain group(Southern Alps,Italy）over the last 5O years.Global and Planetary Change,120: 81-91.   \nSalerno F,Thakuri S,Tartari $\\mathbf { G }$ et al.2017. Debris-covered glacier anomaly?Morphological factorscontrolling changes in the mass balance,surface area,terminus position,and snow line altitude of Himalayan glaciers.Earth and Planetary Science Letters,471: 19-31.   \nScherler D,Bookhagen B,Strecker M.2O11. Spatially variable response of Himalayan glaciers to climate change affected by debris cover.Nature Geoscience,4(3): 156-159.   \nScherler D,Wulf H, Gorelick N.2018. Global assessment of supraglacial debris-cover extents.Geophysical Research Letters,45(21): 11798-11805.   \nStefaniak A,Robson B,Cook S,et al.2O21. Massbalance and surface evolution of the debris-covered Miage Glacier, 1990-2018.Geomorphology, 373:107474,doi:10.1016/j.geomorph.2020.107474.   \nSteinerJ,BuriP,Miles E,etal.2O19.Supraglacial iceclifsand pondsondebris-covered glaciers:spatio-temporal distribution and characteristics.Journal of Glaciology,65(252):617-632.   \nWang J,LiX,Christakos G,etal.2Olo.Geographicaldetectors-based healthriskasessmentand itsapplicationinthe neuraltube defects studyof the Heshun Region,China.International Journal of Geographical Information Science, 24(1): 107-127.   \nWang R,Liu S,Shangguan D,etal.2O19.Spatial heterogeneity in glacier mass-balance sensitivityacross High Mountain Asia.Water,11(4): 776,doi: 10.3390/w11040776.   \nWang X,Xie Z,Li Q,et al.2Oo8.Sensitivityanalysisof glacier systems to climate warming in China.Journal of Geographical Sciences,18(2):190-200.   \nYao T,ThompsonL,Yang W,etal.2O12.Diferent glacier statuswithatmosphericcirculations inTibetanPlateauand surroundings.Nature Climate Change,2(9): 663-667.   \nYao T,WuF,DingL,etal.2O15.Multispherical interactionsand theirefectsonthe TibetanPlateau's Earth system:a review of the recent years researches.National Science Review, 2(4): 468-488. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

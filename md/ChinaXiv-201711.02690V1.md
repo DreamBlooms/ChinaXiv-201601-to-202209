@@ -1,0 +1,147 @@
+# 家蚕中肠特异启动子P56的克隆及活性分析
+
+王嘉祯」姚伦广」王峰²阐云超」罗金萍」黄倩倩」段建平1\*\*
+
+1南阳师范学院河南省伏牛山昆虫生物学重点实验室南阳 473061
+
+2西南大学家蚕基因组生物学国家重点实验室 重庆400716
+
+\*国家自然科学基金(31501900)，河南省高校重点科研项目(16A180032)，河南省昆虫生物反应器创新团队支持计划(C20140047)，南阳师范学院 STP项目(17386).
+
+\*\*通讯作者，电子邮箱 djping8199@nynu.edu.cn
+
+摘要中肠是家蚕的消化器官，也是抵御外界病源入侵的生理屏障。为克隆和鉴定新的家蚕中肠特异启动子，首先利用RT-PCR检测家蚕组织特异表达候选基因 BmP56的表达特性，发现其只在中肠组织表达。进一步克隆该基因上游调控序列 $P 5 6$ ，构建由该序列驱动红色荧光蛋白基因DsRed表达的转基因载体 pBac[P56DsRedSV40， $3 { \times } \mathrm { P } 3 \mathrm { E G F P } ]$ ，经显微注射和荧光筛选获得转基因家蚕。表达分析显示，报告基因DsRed只在转基因家蚕中肠组织表达，与BmP56的表达特征一致，说明克隆的上游调控序列 $P 5 6$ 是有活性的家蚕中肠特异启动子。
+
+关键词家蚕中肠特异启动子 转基因
+
+# Cloning and activity analysis of a midgut-specific promoter in silkworm (Bombyx mori)
+
+Wang Jia-zhenlYao Lun-guang1 Wang Feng²Kan Yun-chaolLuo Jin-ping1 Huang Qian-qianl Duan Jian-ping 1\*
+
+(1HenanProvincialKeyLboratoryofuniuountainIsectiologyNanyangNormalUniversity,nyang43ohina）
+
+(2 State Key Laboratory of Silkworm Genome Biology,Chongqing 400716,China)
+
+AbstractThe midgut is not only a digestive organ, but also a physiological barrier against invasive pathogens in silkworm, Bombyx mori.To clone and identify a novel midgut-specific promoter in silkworm, we first detected the expression characteristics of a candidate gene BmP56 of tissue-specific expression by RT-PCR,and found that it midgut-specifically expressed. Furthermore, we cloned its upstream regulatory region $P 5 6$ ，and constructed a transgenic vector pBac[P56DsRedSV40， $3 \times$ P3EGFP] of the expression of red fluorescence protein gene DsRed drived by the upstream regulatory region $P 5 6$ .By the way of microinjection and fluorescence screening,we finally obtained the transgenic silkworm.The expression detection showed that the reporter gene DsRed only expressed in the midgut of transgenic silkworm,in consistent with the expression mode of BmP56, indicating that the upstream regulatory region $P 5 6$ is an active, midgut-specifcally expressed promoter in silkworm.
+
+Key words Bombyx mori midgutspecific promotertransgene
+
+家蚕（Bombyxmori)是重要经济昆虫，蚕病每年都会引起养蚕业很大经济损失。中肠是家蚕的消化器官，也是病原入侵蚕体的一道生理屏障，陆改、蒋亮等人将家蚕中肠特异启动子BmAPN和 $P 2$ 与家蚕免疫抗性研究相结合[1-7],为借助启动子选育高抗病蚕品种提供了参考。
+
+为克隆新的家蚕中肠特异启动子，本研究在进一步分析家蚕基因芯片数据[8的基础上，利用PCR和转基因技术鉴定家蚕中肠特异表达候选基因BmP56的上游调控序列P56，以期获得新的中肠特异启动子。功能注释BmP56是一个编码几丁质去乙酰化酶的基因，钟晓武等人曾通过蛋白质谱在家蚕中肠围食膜中鉴定到几个几丁质去乙酰化酶[9,10],家蚕中该酶的启动子还未见报道。上游调控序列 $P 5 6$ 的鉴定，可为家蚕免疫应答和抗病育种研究提供新的工具。
+
+# 1材料与方法
+
+1.1 材料
+
+供试家蚕品种为大造 P50。质粒pBac[3×P3DsRed]、pBac[3×P3EGFP]和辅助质粒由本实验室保存或构建。AscI购自NEB，LATaq、NcoI和BamHI购自宝生物工程有限公司,pEASY-T1simple、TransZol Up Plus RNA Kit、TransScript II One-Step gDNA Removaland cDNA Synthesis SuperMix 购自 TransGen Biotech。家蚕基因组数据和基因芯片数据源自 SilkDB 数据库（http://silkworm.genomics.org.cn/）[11,12]。
+
+# 1.2 方法
+
+# 1.2.1BmP56基因的组织表达特征分析
+
+抽提家蚕各组织RNA，反转录为cDNA。以此cDNA为模板，利用引物BmP56-F和BmP56-R（表1）进行PCR扩增，检测BmP56基因在家蚕各组织中的表达情况。
+
+表1引物列表 Table1 Primers used in this study   
+
+<html><body><table><tr><td>Primer type</td><td>Primer name</td><td>Primer sequence (5'-3')</td></tr><tr><td rowspan="2">Primers for expression analysis of BmP56</td><td>BmP56-F</td><td>CCTGGAGGATTACGAG</td></tr><tr><td>BmP56-R</td><td>TTACTGTCCAAGCGGATTTCCTACC</td></tr><tr><td>Primers for upstream</td><td>P56-F1</td><td>CCATGGATTTCCGCCGTGAAGCAG</td></tr><tr><td>sequence of BmP56</td><td>P56-R1</td><td>GGATCCGCGATATTCGGAATCTTTG</td></tr><tr><td>Primers for upstream regulatory sequence of</td><td>P56-F2</td><td>GGCGCGCCAGGGTGGGGTAGCCGTTGTAAC</td></tr><tr><td>BmP56</td><td>P56-R2</td><td>CGTTCTTGGAGGAGCGCACCATCGCGATATTCGGAATCTTTGATCG</td></tr><tr><td>Primers for</td><td>DsRedSV40-F</td><td>GATTCCGAATATCGCGATGGTGCGCTCCTCCAAGAACG</td></tr><tr><td>DsRedSV40 fragment</td><td>DsRedSV40-R</td><td>CTAGGCGCGCCGTACGCGTATCG</td></tr><tr><td>Primer for expression analysis of DsRed</td><td>SV40-R</td><td>CCTCTACAAATGTGGTATGGC</td></tr></table></body></html>
+
+# 1.2.2 克隆BmP56的上游调控序列 $P 5 6$
+
+提取家蚕基因组DNA，以基因组DNA为模板，利用上下游引物P56-F1和P56-R1进行PCR扩增，扩增条件为： $9 4 ^ { \circ } \mathrm { C }$ 预变性 $4 \mathrm { { m i n } }$ ， $9 4 ^ { \circ } \mathrm { C }$ 变性30s、 $5 2 ^ { \circ } \mathrm { C }$ 退火30s、 $7 2 ^ { \circ } \mathrm { C }$ 延伸 2min共30 个循环， $7 2 ^ { \circ } \mathrm { C }$ 终延伸 $1 0 \mathrm { { m i n } }$ ， $4 ^ { \circ } \mathrm { C }$ 保存。PCR产物经切胶回收，与pEASY-T1simple连接，克隆并测序验证。以此T克隆质粒为模板，用引物P56-F2和P56-R2扩增 $P 5 6$ 片段，回收备用。
+
+# 1.2.3 转基因载体的构建
+
+设计DsRedSV40 片 段 特 异 引 物 DsRedSV40-F 和 DsRedSV40-R，以$\mathrm { p B a c } [ 3 \times \mathrm { P } 3 \mathrm { D s R e d } ]$ 质粒为模板，进行PCR扩增，PCR条件为： $9 4 ^ { \circ } \mathrm { C }$ 预变性 $3 \mathrm { m i n }$ ， $9 4 ^ { \circ } \mathrm { C }$ 变性30s、 $5 3 ^ { \circ } \mathrm { C }$ 退火30s、 $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 \mathrm { m i n }$ 共30个循环， $7 2 ^ { \circ } \mathrm { C }$ 终延伸 $1 0 \mathrm { { m i n } }$ ， $4 ^ { \circ } \mathrm { C }$ 保存。将
+
+PCR产物进行凝胶回收。
+
+将 $P 5 6$ 和DsRedSV40回收产物混合作为模板，利用引物P56-F和DsRedSV40-R进行搭桥PCR，PCR条件为： $9 4 ^ { \circ } \mathrm { C }$ 预变性 $3 \mathrm { m i n }$ ， $9 4 ^ { \circ } \mathrm { C }$ 变性30s、 $5 0 ^ { \circ } \mathrm { C }$ 退火1min、 $7 2 ^ { \circ } \mathrm { C }$ 延伸$3 \mathrm { m i n }$ 共35个循环， $7 2 ^ { \circ } \mathrm { C }$ 终延伸 $1 0 \mathrm { { m i n } }$ ， $4 ^ { \circ } \mathrm { C }$ 保存。PCR产物经切胶回收后与pEASY-T1simple 载体进行连接，获得T-P56DsRedSV40。
+
+用AscⅠ酶切T-P56DsRedSV40 质粒，回收P56DsRedSV40片段，与经同样酶切并去磷酸化处理的载体 $\mathtt { p B a c } [ 3 \times \mathrm { P } 3 \mathrm { E G F P } ]$ 进行连接，构建 pBac[P56DsRedSV40, $3 \times$ P3EGFP]转基因载体（图1）。
+
+![](images/9b6bb73dc62b41eb161ac50ad66ec1c644fa0a52dbaeef189d135ef5af0ab92c.jpg)  
+图1pBac[P56DsRedSV40, $3 { \times } \mathbf { P } 3 \mathbf { E } \mathbf { G } \mathbf { F } \mathbf { P } ]$ 转基因表达载体示意图 ig.1Schematic diagram of the transgenic vector pBac[P56DsRedSV40, $3 { \times } \mathrm { P } 3$ EGFP
+
+# 1.2.4 显微注射及荧光筛选
+
+提取pBac[P56DsRedSV40， $3 { \times } \mathrm { P } 3$ EGFP]质粒，与辅助质粒以1：1摩尔比混合，显微注射家蚕早期胚胎[13]。将处理后的蚕卵于标准条件下催青直至孵化。孵化的蚁蚕（G0代）正常状态下饲养至化蛾，使蚕蛾交配产卵，获得G1代蛾圈。获得的G1代蛾圈置于荧光显微镜下观察，选择阳性个体进一步饲养并观察。
+
+# 1.2.5 DsRed的表达检测
+
+在5龄中期时，取转基因家蚕及非转基因家蚕的中肠组织及非中肠组织，液氮冷冻，依照 TransZolUp Plus RNAKit说明书分别提取RNA。将RNA反转录合成cDNA，利用引物DsRedSV40-F 和 SV40-R(见表1)进行PCR 扩增，扩增条件为： $9 4 ^ { \circ } \mathrm { C }$ 预变性 $3 \mathrm { m i n }$ ，$9 4 ^ { \circ } \mathrm { C }$ 变性30s、 $5 5 \mathrm { ^ \circ C }$ 退火30s、 $7 2 ^ { \circ } \mathrm { C }$ 延伸1min共30个循环， $7 2 ^ { \circ } \mathrm { C }$ 终延伸 $1 0 \mathrm { { m i n } }$ ， $4 ^ { \circ } \mathrm { C }$ 保存。
+
+# 2 结果与分析
+
+# 2.1中肠特异表达基因的鉴定
+
+前期分析家蚕基因芯片数据时，发现BmP56是1个组织特异高表达候选基因（图2）。进一步，分析该基因在家蚕5龄3天各组织中的表达情况时，发现该基因只在中肠组织中有表达（图3）。
+
+![](images/cc79121ca7cba8838dcadb75f7a2c8dc63e8151d622bd56a52a458346206f163.jpg)  
+图2家蚕基因芯片中3个中肠特异表达候选基因的表达轮廓
+
+Fig. 2 The expression profile of three midgut-specifically expressed candidate genes in silkworm gene microarray T:testis;O:ovary;H-Ffemalehead;H-M:malehead;F-F:femalefatbody;F-M:malefatbody;I-F:femaleintegument;I-:male   
+integument;Mi-F:female midgut;Mi-M:male midgut;He-F:femalehemocyte;He-M:malehemocyte;Ma-F:female malpighiantube;Ma-M:   
+malemalpighiantube;/faeateordidleigd;-:aleaterordidlesgad;Pfalepostega; P-M: male posterior silkgland.
+
+![](images/c081ff57628abfa5e5e84693233f8436cbd461efe7abce3d40305fdc74f6c57f.jpg)  
+图3BmP56在不同组织中的表达  
+Fig.3Expression profile of BmP56 in different tissues
+
+M:DNArkstistetdte:lubgd; 10:posterior silkgland;11:trachea;12:head
+
+# 2.2上游调控序列P56的克隆
+
+以家蚕基因组DNA为模板扩增BmP56的上游调控序列P56，经克隆和质粒酶切检测，发现1000与2000之间的酶切条带，与目的片段大小一致（图4），测序验证正确，
+
+即成功克隆BmP56的上游调控序列P56。
+
+![](images/fe95d5e3c42e8b701b6eaf1ea02289c14dfb1c9ab2559162b29b68358a180ac9.jpg)  
+图4T-P56酶切验证  
+Fig.4The digested map of T-P56 by restriction enzyme M:trans2K plus II DNA marker;1: The digested result of T-P56;2:The control of plasmid T-P56.
+
+# 2.3转基因家蚕的获得
+
+为克隆家蚕新的中肠特异启动子，首先构建由上游调控序列P56驱动DsRed表达的转基因载体pBac[P56DsRedSV40， $3 { \times } \mathrm { P } 3 \mathrm { E G F P } ]$ 。将载体注入家蚕早期胚胎，共注射300粒，G0 代孵出155头。经正常饲养至化蛾，交配制种，获得G1代蚕卵，在胚胎期筛选出7个阳性蛾圈，共86个阳性个体。
+
+将G1代阳性个体继续饲养至化蛾。蛾期荧光观察，发现只在转基因蚕蛾眼部有绿色荧光，非转基因蚕蛾眼部没有绿色荧光（图5），取眼部有绿色荧光的转基因蚕蛾交配制G2 代种。
+
+![](images/be5c7afc1c9b89092b1b835bceb53b29d80ffbe5af0f88f6d126edc5d2c1ef20.jpg)  
+图5转基因阳性个体的荧光观察
+
+# 2.4 报告基因DsRed表达检测
+
+为验证上游调控序列 $P 5 6$ 的调控能力及特性，我们检测了报告基因DsRed分别在转基因及非转基因家蚕中肠和剩余组织中的表达情况。结果如图6所示，DsRed只在转基因家蚕中肠组织中有表达，而在转基因家蚕剩余组织、非转基因家蚕中肠组织及非转基因家蚕剩余组织中均未检测到DsRed的表达，说明上游调控序列 $P 5 6$ 能够驱动外源基因在家蚕中肠组织中特异表达。
+
+![](images/73e7e1824c54e2c41920469188e8664c1319960f71660c31bed142d32caec6e9.jpg)  
+Fig.5The fluorescent observation of transgenic silkworm   
+图6DsRed基因在不同组织中的表达
+
+Fig.6The expression profile ofDsRed in different tissues M:trans2Kpktso;sofsoett;: non-transgenic silkworm; 4: mixed tissue of non-transgenic silkworm except of midgut.
+
+# 3讨论
+
+家蚕取食时，病原微生物随食物被吞下，进入肠道，要么排泄掉，要么穿过家蚕中肠围食膜感染上皮细胞。中肠是家蚕抵御病原入侵的第一道生理屏障，也是家蚕先天免疫应答及抗病研究的重要靶器官[14-16]。家蚕不同组织中存在一些特异表达的基因，这些基因往往与该组织生理功能相关[8.17-18]。中肠特异启动子能控制外源基因在家蚕中肠组织特异表达，辅助提高家蚕的抗病能力，为中肠生理功能和免疫抗性研究提供分子工具。
+
+本研究鉴定了1个新的家蚕中肠特异表达基因BmP56，同时验证了该基因启动子P56 可驱动外源基因在家蚕中肠组织特异表达。本研究结果，为家蚕免疫抗性及中肠生理功能研究提供新的理论基础。下一步，我们可利用该启动子构建新的实用蚕品种，以便择优选择具有更高抗性的家蚕品种，用于蚕业生产。
+
+# 参考文献
+
+[1]NakazawaHunesiEouvelK,talAntiviralactityfieproteasefroigestiejuiceofombyoaist nucleopolyhedrovirus.Virology,2004,321(1):154-162.   
+[2]ChenY,WngX,CtlExprealisaivialelatetitsistatrao, Bombyx mori. Journal of Insect Science,2014,14:76.   
+[3]HuXZuagSetalroteialisgestiejfriigbceopldoifetooti 2015,15(15): 2691-2700.   
+[4]PonnuvelKM,NakazawaH,FurukawaS，etal.AlipaseisolatedfromthesilkwormBombyxmorishowsantiviralactivityagainst nucleopolyhedrovirus.Journal of Virology,2003,77(19):10725-9.   
+[5]陆改，程廷才，蒋亮，等．家蚕中肠特异启动子 BmAPN的克隆及活性分析．中国农业科学,2012,45(20):4279-4287. LuG,ChenggLgdctiisofdgtsoeombo4).   
+[6]JiangLCegtfidgtsiooeoboalo Communications,2013,433(4): 542-6.   
+[7]JiangL,Zgaliiaueia 98(2): 171-173.   
+[8]XiaQ Biology,2007,8(8): R162.   
+[9] 钟晓武.家蚕围食膜的蛋白质组及几丁质去乙酰化酶的功能研究．西南大学,2012. ZhongXW.Proteicalysisopritropmbadfuctioalcaracterzatioofitinacetyseio,ombxtest University, 2012.   
+[10]ZongXWWangX,TanX,etalentficationndeulararacteoofitineacetylasefroomboriioc Membrane.International Journal of Molecular Sciences,2014,15(2): 1946-61.   
+[11]XiaQudrafefosiaedb))   
+[12]WangJiaXoedgeebe)   
+[13] 马三垣，徐汉福，段建平，等．家蚕转基因技术中若干因素对转基因效率的影响．昆虫学报,2009,52(6):595-603. MaSY,XuHofalsoato. Acta Entomologica Sinica,2009,52(6): 595-603.   
+[14]YuYgrteti Pathol,2015,124: 6-14.   
+[15]WuS,ZaXHEprtisiboadactealfeci Developmental & Comparative Immunology,2010,34(11): 1191-1198.   
+[16]王延稳，吕志强.家蚕肠道感染细菌后6种抗菌肽基因表达的变化．西北农林科技大学学报:自然科学版,2016,44(1):185-191. WangYW,LExpobalio,tefetoJalt F University,2016,44(1): 185-191.   
+[17]YangagagJetalyiseepinutmbouhaloag 17(1): 866.   
+[18]DengDagaXetloeltfsipecio Transgenic Res,2013,22(5):1055-63.

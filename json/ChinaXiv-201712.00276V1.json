@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "过表达RIP140的肿瘤相关巨噬细胞抑制肝癌细胞的侵袭和增殖 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "易竹君',周 '，张文锋'，陈 浩',赵伟²,刘作金',龚建平}重庆医科大学第二附属医院肝胆外科,重庆 400010；四川大学华西医院肿瘤中心,成都 四川610041摘要：目的 探讨肿瘤相关巨噬细胞(TAMs)中RIP140的表达对肝癌细胞侵袭、增殖的影响。方法 慢病毒介导小鼠腹腔巨噬细胞(PMs）RIP140的过表达,Westerm blot和Real-time PCR(qRT-PCR)分别检测PMs中RIP140蛋白以及核酸表达水平，流式细胞仪分析慢病毒转染率;Westerm blot、细胞免疫荧光和qRT-PCR检测肝癌条件培养基(HCM)刺激PMs后TAMs中RIP140的表达变化;HCM刺激PMs以及HCM刺激过表达RIP140的PMs,qRT-PCR检测TAMs极化指标以及NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 和IL-6的表达;Transwell实验和细胞流式凋亡实验检测肝癌细胞的侵袭和凋亡;肝癌细胞和PMs以4:1比例注射于BALB/c裸鼠皮下,建立裸鼠皮下肝癌模型,成瘤癌组织HE染色和免疫组化评定肝癌组织大体生长情况和肝癌细胞增殖能力。结果 慢病毒介导PMs RIP140的过表达,病毒转染效率高,RIP140过表达明显;HCM刺激PMs后,TAMs中RIP140呈低表达;HCM诱导TAMs呈M2型极化，并且与肿瘤生长密切相关的NF-KB-IL-6轴处于活化状态;TAMs可促进肝癌细胞侵袭和增殖,抑制肝癌细胞凋亡。TAMs过表达RIP140可抑制HCM介导的TAMs M2型极化并抑制NF-B/IL-6通路的激活，减少IL-6的释放;除此之外,TAMs过表达RIP140可抑制肝癌细胞的侵袭和增殖,促进肝癌细胞的凋亡。结论 过表达RIP140的TAMs可抑制肝癌细胞的侵袭和增殖。其机制可能与TAMs过表达RIP140后抑制TAMs M2型极化有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肝癌;肿瘤相关巨噬细胞；RIP140;侵袭；增殖 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over-expression of receptor-interacting protein 140 in tumor-associated macrophages suppresses invasion and proliferation of hepatoma cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YI Zhujun',ZHOU Yunt, ZHANG Wenfeng',CHENHao',ZHAO Wei²,LIU Zuojin',GONG Jianping   \nDepartmentofatobagercondfdositalofogigedicalesityogingc   \nResearch CenterofHuaxiHospital,SichuanUniversity，Chengdu 6loo41,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate the roleof receptor-interacting protein 140 (RIP140)in tumor-asociated macrophages (TAMs)intheinvasionand proliferationof hepatomacelsinvitro.Methods Western bloting,qRT-PCR andflowcytometry were performed to examinethe efects of lentivirus-mediated RIP140over-expresion in mouse peritoneal macrophages (PMs). Western bloting,qRT-PCRand immunofluorescence staining were used todetect the expressionof RIP140inTAMs following stimulation of the PMs with hepatocellular carcinoma conditioned medium (HCM) for $2 4 \\mathrm { ~ h ~ }$ .The polarization index and the expression of NF- $\\cdot \\mathbf { \\kappa } \\mathbf { B }$ and IL-6 were detected using qRT-PCR in TAMs in HCM-stimulated PMs with or without RIP140 over-expression.Transwellassayandflowcytometrywereused toestimate thecellinvasionandapoptosis.HEstainingand immunohistochemical staining were used to analyze the efectsof RIP140-over-expressing macrophages on the growth and tumorformationofH2 cells in BALB/c nude mice.ResultsThe lentivirus vectoreficiently mediated RIP140 over-expression in mouse PMs.HCM stimulation significantly inhibited RIP140 expresson in the TAMsand promoted their M2-like polarization. Over-expression of RIP140 in PMs suppressed the invasion and induced apoptosis of HCC cells. RIP140 over-expresion inhibited HCM-induced M2 polarizationand the activationof NF-kB/IL-6axis inthe TAMs，and RIP140- overexpressing TAMs obviously suppressed the growth of H22 cellxenograft in nude mice. Conclusion Over-expression of RIP140 inTAMs suppresss the growth and proliferationof hepatoma cells possiblybyinhibiting M2 polarizationof the TAMs. Key words: hepatocellularcarcinoma; tumor-asociated macrophages; recetor-interactig protein140; invasion; proliferation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肝癌是全球发病率最高的几个癌症之一，也是世界上第2大致死性癌症。目前治疗肝癌的方法多种多样，但是均难有好的疗效，尤其是当肝癌发生远处转移或者无法根治性切除时，患者的生存时间往往不会超过6个月[1。因此，更深层次了解肝癌发生发展机制对肝癌的早期诊断和治疗都极为重要，目前研究较多的是肝癌微环境对肝癌发生、发展以及肿瘤转移的影响[2-3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TAMs是肝癌微环境中含量最多的细胞[2.4-5]。研究表明，肝癌微环境可以促进TAMs呈M2型极化，进而促进肿瘤的发生和发展,但是其具体机制尚不明了[46]目前发现的是肝癌微环境中TGF $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ 可以通过与TAMs细胞膜上的Tim3作用，进而促进TAMs的M2型极化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，受体相互作用蛋白140(receptorinteractingprotein140,RIP140)作为细胞核受体转录调节因子，在许多生理、病理过程中都起着重要作用，其中就包括能量代谢、炎症应答以及肿瘤的转移等[7-8]。此外，巨噬细胞中的RIP140还参与巨噬细胞极化，巨噬细胞过表达RIP140可以促进其向M1型极化，进而放大炎症反应。相反，巨噬细胞RIP140的降解可以促进其向M2型极化，并且诱导巨噬细胞内毒素耐受，从而减轻炎症反应[9-10]。关于RIP140在影响巨噬细胞极化方面的研究有大量报道，但其对TAMs的极化是否有影响，目前还没有相关报道。本文研究过表达RIP140的TAMs对TAMs极化的影响以及对肝癌侵袭、增殖的影响，为进一步了解肿瘤微环境以及研究TAMs极化的机制提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料及主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人肝癌细胞系HepG2和Huh7细胞，小鼠肝癌细胞系H22细胞，3种细胞均为本实验室冻存。过表达RIP140的慢病毒(GOCL3581039001)购自上海吉凯基因化学技术有限公司。胎牛血清、胰酶、DMEM高糖细胞培养液均购自HyClone公司;AnnexinV-FITC/PI细胞凋亡试剂盒购自Keygen公司;基质胶购自BD公司；逆转录试剂盒和实时荧光定量PCR试剂SYBR?Green购自TaKaRa公司；所有PCR引物均购自上海生工公司;RIP140抗体购自购自Abcam公司,PCNA、p-p65、p65和 $\\beta$ -actin抗体购自CellSignaling公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养人肝癌细胞系HepG2和Huh7以及小鼠肝癌细胞系H22接种在含 $10 \\%$ 胎牛血清 $. 1 \\%$ 的青霉素-链霉素双抗的DMEM高糖培养基中， $3 7 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 的饱和湿度恒温培养箱中培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2PMs的提取、培养及转染PMs的提取方法详见参考文献[11]。提取的PMs接种在含 $10 \\%$ 胎牛血清、$1 \\%$ 的青霉素-链霉素双抗的DMEM高糖培养基中，$3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 的饱和湿度恒温培养箱中培养，待细胞贴壁后更换培养基，继续培养。 $2 4 \\mathrm { h }$ 后用过表达RIP140的慢病毒以及不带目的基因的阴性慢病毒(NS)对PMs进行转染， $9 6 \\mathrm { h }$ 后荧光显微镜观察慢病毒的转染效率，流式细胞仪检查慢病毒的转染率，并用Westernblot和qRT-PCR进行验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3HCM的提取及利用H22细胞在无血清的DMEM高糖中培养 $2 4 \\mathrm { h }$ ,收集上清作为 $\\mathbf { H C M } ^ { [ 5 - 6 ] }$ 。在六孔板中，用含 $10 \\%$ 的HCM(培养基总体积为 $2 { \\mathrm { m L } }$ ,其余培养基用完全培养基补充)培养PMs $2 4 \\mathrm { h }$ ，本组作为实验组,用完全培养基培养PMs同等时间作为对照组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4BALB/c裸鼠皮下肝癌模型的建立以及肝癌组织HE染色和免疫组化实验取10只4周大的BALB/c裸鼠,将H22细胞和PMs以4:1的比例混匀，注入裸鼠皮下成瘤，以后每周处死2只裸鼠,用于测量裸鼠皮下瘤的体积,将第4周处死的裸鼠皮下瘤用于做后续的HE染色实验和免疫组化实验。HE染色与免疫组化的具体方法详见参考文献[12]。简单来说,将皮下成瘤的肝癌组织放入福尔马林浸泡，石蜡包埋，切片，将玻片放入$6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 恒温箱中 $1 \\mathrm { { h } }$ ,取出玻片,放入二甲苯I和二甲苯Ⅱ中脱蜡水化，各 $3 0 \\mathrm { m i n }$ ,然后用梯度酒精脱水，将玻片放入盛有稀释后的枸橡酸钾溶液的烧杯中，进行 $9 0 \\ \\mathrm { { ^ circ C } }$ 微波抗原热修复 $1 0 \\mathrm { m i n }$ ,然后室温冷却,PBS缓冲液冲洗3次 $\\times 5 ~ \\mathrm { { m i n } }$ ,依次滴加 $3 \\%$ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 室温下灭活内源性过氧化物酶 $1 0 \\mathrm { m i n }$ ，加入 $5 \\%$ 的山羊血清室温封闭$3 0 ~ \\mathrm { m i n }$ ,倾去封闭液(勿冲洗),每张片子加入 ${ 8 0 \\ \\mu \\mathrm { L } }$ PCNA一抗(1:100浓度稀释),将玻片放入湿盒， $4 \\mathrm { { ^ { \\circ } C } }$ 过夜孵育 $2 4 \\mathrm { h } , \\mathrm { P B S }$ 冲洗3次 $\\times 5 \\mathrm { m i n }$ ，加入适量对应的二抗工作液 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $^ { \\textrm { 1 h } }$ ，PBS冲洗3次 $\\cdot \\times 5 \\ \\mathrm { m i n }$ ,显色剂显色$3 { \\sim } 5 \\ \\mathrm { m i n }$ ，自来水充分冲洗,复染、脱水、透明和中性树胶封片。待中性树胶干后，于正置显微镜下观察或采图。1.2.5Westernblot实验PMs经慢病毒转染96h后，提取细胞总蛋白，BCA法测定蛋白浓度，所得蛋白样品与上样缓冲液以4:1比例混合后变性，取 $1 0 0 ~ \\mu \\mathrm { g } /$ 孔蛋白样品上样,依次进行电泳、转膜， $5 \\%$ 的BSA在 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 封闭1h,分别加入RIP140抗体(1:1000）和 $\\beta \\cdot$ -actin抗体（1:3000) $4 \\ \\mathrm { { ^ circ C } }$ 过夜孵育，TBST洗3遍 $\\times 1 0 \\mathrm { m i n }$ ，加入对应的二抗(1:2000) $3 7 \\ \\mathrm { { ^ circ C } }$ 孵育 $^ { 2 \\mathrm { ~ h ~ } }$ ,TBST洗3遍 $\\times 1 0 ~ \\mathrm { { m i n } }$ ECL化学发光显影。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6qRT-PCR实验qRT-PCR检测核酸表达，以GAPDH为内参。具体引物序列如下：CD206上游引物：5'-GGGACTCTGGATTGGACTCA-3'，下游引物：5'-CCAGGCTCTGATGATGGACT-3';Arg-1上游引物:$5 ^ { \\prime }$ -CCCCAGTACCAACAGGACTACC-3'，下游引I物：5'-TGAACGTGGCGGAATTTTGT-3';PPAR上游引物：5'-TCCCATACACAACCGCAGTCGC-3'，下游引I物：$5 ^ { \\prime }$ -GGGGTCATTTGGTGACTCTGGGGT-3';TNF- $\\mathfrak { a }$ 上游引物:5'-GGATCTCAAAGACAACCAAC-3'，下游引物: 5'-ACAGAGCAATGACTCCAAAG-3';NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ 上游引物:5'-AGTGTGGAGGCTGCCTTGCGAATG-3',下游引物：5'-TGGGCTTTCAAGACTGGAACGGTC-3'；GAPDH上游引物:5'-CACCCACTCCTCCACCTTTG-3'，下游引物:5'-CCACCACCCTGTTGCTGTAG-3'。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.7 细胞流式实验和Transwell侵袭实验 慢病毒的转染率以及细胞的凋亡实验用流式细胞仪分析；细胞的侵袭能力用Transwell实验分析：选用24孔板配套的transwell小室。在上室的聚碳酸酯膜上加入稀释后的Matrigel $( 1 : 8 ) 6 0 ~ \\mathrm { \\textmu L }$ ,置于细胞培养箱中 $3 7 \\mathrm { ~ \\textcircled { C } } 3 0 \\mathrm { ~ m i n }$ 使Matrigel聚合成凝胶。上室加入 $1 0 0 \\mu \\mathrm { L }$ 密度为 $1 { \\times } 1 0 ^ { 5 }$ 的肝癌细胞，下室加入 $5 0 0 ~ \\mu \\mathrm { L }$ 密度为 $1 \\times 1 0 ^ { 5 }$ 的PMs,放入细胞培养箱中共培养 $2 4 \\mathrm { h }$ 后，取出上室，放入含有多聚甲醛的24孔板中室温固定 $3 0 \\mathrm { m i n }$ ,PBS清洗3次 $\\times$ $5 \\mathrm { m i n } / \\mathrm { \\hbar }$ ,结晶紫染色 $1 0 \\ \\mathrm { m i n , P B S }$ 清洗3次 $\\times 5 \\mathrm { m i n } / \\langle K$ 去掉上室液体，将棉签轻轻擦去上室细胞，风干后显微镜下观察并计数下室细胞数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.8细胞免疫荧光实验将PMs接种在含有拔片的24孔板中培养 $2 4 \\mathrm { h }$ ,PMs用 $4 \\%$ 的多聚甲醛在 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 固定 $1 0 ~ \\mathrm { m i n }$ ,再用 $0 . 1 \\%$ 的Triton在 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $1 0 ~ \\mathrm { m i n }$ 进行透膜，用PBS洗至少3次 $\\lvert \\times 1 \\ \\mathrm { m i n } /$ 次，用山羊血清在$3 7 ~ \\mathrm { ^ { \\circ } C }$ 封闭 $1 0 ~ \\mathrm { m i n }$ ,加入适量的RIP140抗体 $4 \\mathrm { { ^ \\circ C } }$ 过夜孵育，用PBS洗3次 $\\lvert \\times 1 \\ \\mathrm { m i n } /$ 次，加入山羊抗兔的荧光二抗在 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 避光孵育 $^ { \\textrm { 1 h } }$ ，用PBS洗3次 $\\times 2 \\mathrm { m i n } / \\mathrm { \\langle }$ ，加入适量DAPI在 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $3 { \\sim } 5 \\ \\mathrm { m i n }$ ，固定、封片、正",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "置显微镜观察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS17.0统计软件分析数据，数据以均数 $\\dot { \\bf { \\varepsilon } } \\pm { \\bf { \\varepsilon } }$ 标准差表示，进行正态性、方差齐性检验，两样本均数比较采用独立样本 $\\mathbf { \\chi } _ { t }$ 检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。采用GraphPadPrism5软件制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1慢病毒介导的PMsRIP140过表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了了解慢病毒转染情况，我们在慢病毒转染PMs96h后用荧光显微镜观察PMs绿色荧光的表达（图1A);与此同时，用流式细胞仪定量检测PMs慢病毒的转染率(转染率为图1B中P3)，其中，空载慢病毒(NS)转染率约为 $6 0 \\%$ ，目的基因慢病毒(Lentivirus)转染率约为 $6 3 \\%$ （图1B）。qRT-PCR检测PMs中RIP140的核酸表达水平，目的基因转染后，PMsRIP140的核酸表达水平明显高于对照组 $( P { < } 0 . 0 5 )$ 。用Westernblot检测PMs中RIP140的蛋白表达水平(图1C)。表达水平明显提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b20ef3d2428123787d61ac642e8dec9cef27d24c6acf1126b4a00a03e397a7d.jpg",
+        "img_caption": [
+            "图1慢病毒介导的PMsRIP140过表达 Fig.1Lentivirus-mediated RIP140over-expresion inPMs.A: Fluorescence microscopy showing green fluorescencein thePMs $9 6 \\mathrm { ~ h ~ }$ （204号 aftertransfection;B:Flowcytometryfordetectingthetranfectioate;CWesteblotanalysisofI40proteiexpressioinPs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a7af4f233c498f5365e2c78f5c07b416092718a8ed97a02aff0267c1b175781.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2肝癌微环境抑制TAMs中RIP140的表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用 $10 \\%$ 的HCM（总体积 $2 { \\mathrm { ~ m L ~ } }$ ，其余培养基用完全培养基补充)培养 $\\mathrm { P M s } \\ 2 4 \\ \\mathrm { h }$ 后，PMs中RIP140的蛋白（图2A)表达水平较正常组明显降低。如图2B所示，PMs用 $1 0 \\% \\mathrm { H C M }$ 刺激 $2 4 \\mathrm { ~ h ~ }$ 后，细胞免疫荧光检测到TAMs细胞核RIP140的表达明显低于对照组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3TAMs中RIP140的过表达可抑制肝癌微环境介导的TAMsM2型极化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HCM刺激PMs后可促进TAMs呈M2型极化并抑制TAMs向M1型极化，与巨噬细胞M2型极化相关的标记物，如CD206、Arg-1和PPAR等表达升高，与巨噬细胞M1型极化相关的标记物，如TNFa表达明显降低;PMs过表达RIP140后再用HCM刺激，可明显抑制HCM介导的TAMs向M2型极化的趋势，促进TAMs向M1型极化的趋势（图 $3 , P { < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4TAMsRIP140的过表达可抑制肝癌细胞侵袭并促进肝癌细胞凋亡",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4A所示，TAMs过表达RIP140后可以明显抑 制HepG2和Huh7细胞的侵袭能力；如图4B所示， TAMs过表达RIP140后可以明显促进H22细胞凋亡 （凋亡率为 $\\mathrm { P } 2 \\mathrm { - } \\mathrm { Q } _ { 2 } \\mathrm { + } \\mathrm { P } 2 \\mathrm { - } \\mathrm { Q } _ { 3 } \\mathrm { , } P \\mathrm { < } 0 . 0 5 )$ ,对照组凋亡率约为 $30 \\%$ ,TAMsRIP140过表达组调亡率约 $43 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b69fcbc5d54124f74d7eda569b984c44b3c8824786f723ec5940f28c5a823266.jpg",
+        "img_caption": [
+            "图3过表达RIP140的TAMs可抑制肝癌微环境介导的 TAMsM2型极化 Fig.3Over-expression of RIP140 in TAMs inhibits HCC microenvironment-mediated M2-like polarization of TAMs. $^ { * } P { < } 0 . 0 5$ Us control group; $^ { \\sharp } P { < } 0 . 0 5$ Us control+HCM group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5TAMs过表达RIP140抑制BALB/c裸鼠身上肝癌细胞的生长",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5A所示，TAMs细胞RIP140过表达组肝癌组织的大小以及体质量均较对照组明显降低 $( P { < } 0 . 0 5 )$ ；肝癌组织HE染色。如图5B所示，对照组中出现大片坏死的肝癌细胞(红色箭头所指），而在TAMs细胞RIP140过表达组未见或者仅有少量坏死的肝癌细胞，提示TAMs过表达RIP140抑制肝癌细胞的生长；肝癌组织增殖细胞核抗原(PCNA)免疫组化染色，PCNA的高表达提示细胞增殖活跃。如图5C所示，TAMs细胞过表达RIP140可明显减少肝癌细胞中PCNA的表达(红色箭头指向PCNA阳性的细胞， $P { < } 0 . 0 5 )$ 。图5A\\~C均提示，TAMs过表达RIP140可明显抑制肝癌细胞生长和增殖。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7956e48f9a812a68c933b0aecb13c904af23a9d4939f378fe5a8385e4620af22.jpg",
+        "img_caption": [
+            "图4TAMsRIP140的过表达可抑制肝癌侵袭并促进肝癌细胞调亡 Fig.4Over-expresionof RIP140 in PMs suppresses invasionand inducesapoptosisof HCCcels.A:Transwellassay for analyzing the invasion of HepG2 cells and Huh7 cels; B: Flow cytometry for detecting apoptosis of H cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6TAMs过表达RIP140抑制NF-kB/IL-6轴的激活， 进而抑制IL-6的释放 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们通过Westernblot和qRT-PCR检测了p-p65和p65的蛋白和NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ 和IL-6的核酸表达,如图6所示，TAMs过表达RIP140可以明显抑制NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ 和IL-6的表达 $( P { < } 0 . 0 5 )$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大量研究发现，HCM刺激巨噬细胞后巨噬细胞呈M2型极化，M2型极化的巨噬细胞可促进肿瘤细胞的侵袭、迁移和增殖并抑制肿瘤细胞凋亡[5-6.13-14]。过表达RIP140的巨噬细胞可以抑制HCM刺激下巨噬细胞的M2型极化。为了探讨过表达RIP140的TAMs是否可以抑制肝癌细胞的侵袭以及是否可以促进肝癌细胞凋亡，我们将TAMs和肝癌细胞进行共培养，分别做了Transwell实验和细胞凋亡实验。实验中证实肿瘤微环境中TAMsRIP140呈低表达，TAMs呈M2型极化，过表达RIP140的TAMs抑制TAMsM2型极化趋势。许多研究已经证实HCM是通过激活NF-kB/IL-6通路，促进炎性因子IL-6的释放,进而促进了肿瘤的生长[3.15-17]。 。本实验中证实了对肝癌细胞的生长和增殖具有抑制作用，其具体机制可能与TAMs过表达RIP140后抑制NF-kB-IL-6轴的激活，进而抑制IL-6的释放有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RIP140作为细胞核受体转录调节因子，存在于机体各个细胞中，在调节能量代谢、炎症应答以及肿瘤的发生、转移等方面起着重要作用8。在炎症调节上，巨噬细胞过表达RIP140可以促进其向M1型极化，进而放大炎症反应，相反，巨噬细胞RIP140的降解可以促进其向M2型极化，并且诱导巨噬细胞内毒素耐受，从而减轻炎症反应。无论是RIP140介导的M1型极化还是M2极化,均与NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathbf { B } }$ 介导的炎症通路有关[-10]。我们知道，肿瘤的发生发展与肿瘤微环境中TAMs介导的慢性炎症有关，因此，我们猜测，肝癌微环境通过调节TAMs中RIP140的表达，参与肿瘤相关的免疫应答，进而调节肿瘤的生长和增殖。本研究结果发现HCM刺激PMs后TAMsRIP140表达降低并且细胞呈M2型极化；TAMs细胞过表达RIP140可以抑制巨噬细胞M2型极化，促进巨噬细胞M1型极化趋势，并抑制肝癌的生长增殖，促进肝癌细胞的凋亡;其机制可能与TAMs过表达RIP140后抑制NF-kB-IL-6轴的激活，进而抑制IL-6的释放有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/089e6ba51c9ad37ce74b7372477269d7269ccb08cf3464b6f55687d29f88c2ef.jpg",
+        "img_caption": [
+            "图5过表达RIP140的TAMs抑制BALB/c裸鼠肝癌皮下瘤的生长"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4e115b4124b1b57e28c59d50696da99700ddc25449a68dd58159b70576bd16e.jpg",
+        "img_caption": [
+            "Fig.5 Over-expression of RIP140 in TAMs suppresses the growth of H22 cell subcutaneous xenograft in $\\mathtt { B A L B / c }$ nude mice.A: Tumour size at 4 weeks; B: HE staining of the tumor sections.Red arrows indicate the necrotic area; C: Immunohistochemical staining of PCNA in the tumor sections.Red arrows indicate PCNA-positive cells. $^ { * } P { < } 0 . 0 5$ ",
+            "图6TAMs中NF- $\\kappa \\mathrm { B }$ 和IL-6的表达 Fig.6 Over-expression of RIP140 in TAMs inhibits N $\\mathrm { F } \\mathrm { - } \\mathrm { \\kappa } \\mathrm { B } / \\mathrm { I L } { - } 6$ axis in TAMs.A:Western blotting was performed to detect the indicated proteins;B:Relative NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ and IL-6 levels normalized to GAPDH. $^ { * } P { < } 0 . 0 5$ Us control group; $^ { \\sharp } P { < } 0 . 0 5$ Us control+HCM group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究发现过表达RIP140的TAMs具有治疗肝癌的潜力，为TAMs极化的进一步研究提供了基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Bruix J,Gores GJ,Mazzaferro V.Hepatocellular carcinoma: clinical frontiers and perspectives[J].Gut,2014,63(5): 844-55.   \n[2]Zhou WC,Ke SQ,Huang Z,et al.Periostin secreted by glioblastoma stem cells recruits M2 tumour-associated macrophages and promotes malignant growth[J].Nat Cell Biol,2015,17(2):170.   \n[3]Mantovani A,Allavena P, Sica A,et al.Cancer-related inflammation [J].Nature,2008,454(7203): 436-44.   \n[4]Nywening TM,Wang-Gillam A，Sanford DE,et al． Targeting tumour-associated macrophages with CCR2 inhibition in combination with FOLFIRINOX in patients with borderline resectable and locally advanced pancreatic Cancer:a single-centre,open-label, dose-finding，non-randomised,phase 1b trial［J].Lancet Oncol, 2016,17(5):651-62.   \n[5]Colegio OR，Ngoc-Quynh C，Szabo AL，et al.Functional polarization of tumour-associated macrophages by tumour-derived lactic acid[J].Nature,2014,513(7519):559.   \n[6]Yan WJ,Liu X,Ma HX,et al. Tim-3 fosters HCC development by enhancing TGF-beta-mediated alternative activation of macrophages [J].Gut,2015,64(10): 1593-604.   \n[7]Lapierre M,Bonnet S,Bascoul-Mollevi CA,et al. RIPl40 increases APC expression and controls intestinal homeostasis and tumorigenesis[J].J Clin Invest,2014,124(5): 1899-913.   \n[8]Nautiyal J,Christian M,Parker MG.Distinct functions for RIP140 indevelopment,inflammation, andmetabolism [J].Trends Endocrinol Metab,2013,24(9): 451-9.   \n[9]Ho PC,Yc T,Feng X,et al. NF- $\\kappa { \\bf B }$ -mediated degradation of the co-activatorRIP140regulatesinflammatoryresponseand contributes to endotoxin tolerance[J].Nat Immunol,2012,13(4): 379-86.   \n[10]Liu PS,Lin YW,Burton FH,et al.M1-M2 balancing act in white adipose tissue browning-a new role for RIP14O [J].Adipocyte, 2015,4(2): 146-8.   \n[11]Pineda-Torra I, Gage M, de Juan A,et al.Isolation,culture,and polarization of murine bone marrow-derived and peritoneal macrophages[J].Methods Mol Biol,2015,1339:101-9.   \n[12] Otali D,Fredenburgh J, Oelschlager DK,et al. A standard tissue as a control for histochemical and immunohistochemical staining[J]. Biotech Histochem,2016,91(5): 309-26.   \n[13]Hernandez-Gea V, Toffanin S,Friedman SL,et al.Role of the microenvironment in the pathogenesis and treatment of hepatocellular carcinoma[J].Gastroenterology,2013,144(3): 512-27.   \n[14]Flecken T,Sarobe P. Tim-3 expression in tumour-associated macrophages: a new player in HCC progression[J].Gut, 2015,64 (10):1502-3.   \n[15]Chang CP,Yc S,Lee PH,et al. Targeting NF-kB by autophagy to polarizehepatoma-associatedmacrophagedifferentiation [J]. Autophagy,2013,9(4): 619-21.   \n[16]Mancino A,Lawrence T. Nuclear factor-kappa B and TumorAssociated macrophages[J].Clin Cancer Res,2010,16(3):784-9.   \n[17]Wan S, Zhao E,Kryczek I, et al. Tumor-associated macrophages produce interleukin 6 and signal via STAT3 to promote expansion of human hepatocellular carcinoma stem cels[J]. Gastroenterology, 2014,147(6): 1393-404. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 6
+    }
+]

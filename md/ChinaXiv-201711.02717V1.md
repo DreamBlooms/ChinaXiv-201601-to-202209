@@ -1,0 +1,165 @@
+# 自组装短肽水凝胶支架三维培养环境对骨髓间充质干细胞生物学特性及心肌方向分化的影响
+
+赵正德，陈振银²，张慧楠²，龚剑萍，许少丹4，罗忠礼²
+
+1.重庆医科大学第一临床学院，重庆，400042;  
+2.重庆医科大学基础医学院，分子医学与肿瘤研究中心，重庆，400042；  
+3.义乌市中心医院，温州医科大学附属义乌医院，义乌，322002；  
+4.郑州市第七人民医院，郑州，450016
+
+摘要：目的：探究短肽GFS-4自组装形成的水凝胶作为支架材料构建三维微环境对BMSCs生物学特性及向心肌细胞方向诱导分化过程的影响。方法：刚果红染色、红细胞膜裂解实验检测短肽GFS-4自组装效果及对细胞膜是否具有裂解作用；CCK8和A0/EB染色分别检测对BMSCs活性和凋亡的影响；Real-TimePCR分析BMSCs诱导分化后ML $c - 2 v$ 、GATA-4基因表达情况。结果：GFS-4自组装后形成致密凝胶，自组装前后对细胞膜无损伤；三维培养环境细胞成球形生长，细胞活力和凋亡速度均低于二维培养环境。三维培养组在诱导分化过程中第5天和第7天中MLC-2v、GATA-4基因表达均显著高于二维组（ $\cdot \mathsf { p } \langle 0 . 0 5 \mathrm { i }$ ）。结论：短肽GFS-4自组装水凝胶构建的三维微环境延缓了BMSCs的增殖速度和凋亡速度，并促进向心肌方向诱导分化过程中MLC-2v、GATA-4基因的表达。
+
+关键词 细胞三维培养自组装短肽 骨髓间充质干细胞 心肌分化
+
+# Effects of self-assembling peptide hydrogel scaffolds for threedimensional culture on biological behavior and capability of myocardium differentiation in bone marrow mesenchymal stem cells
+
+Zhao Zhengdel Chen Zhenyin² Zhang Huinan² Gong Jianping³ Xu shaodan4 Luo Zhongli²\*
+
+1.The first Clinical College of Chongqing Medical University.chongqing.China.400016   
+2.TheMolecular MedicineandCancerResearch Center，Collgeof Basic Medical Sciences，Chongqing MedicalUniversity   
+Chongqing .China.400016   
+3.Central Hospitalof Yiwu city,The Afiliated Yiwu Hospitalof Wenzhou Medical University.YiWu.China.322002   
+4.Seventh people's hospital of zhengzhou city.Zhengzhou.China.450016
+
+Abstract: OBJECTIVE: To investigate the effect of BMSCs (bone marrow mesenchymal stem cells) at 3D (3-dimensional) culture microenvironment by peptide hydrogel scaffolds using selfassembling peptide GFS-4 on the biological behavior and the process of myocardium differentiation .METHODS: The effect of peptides GFS-4 on self-assembling characteristics and the cell membrane disruptive were examined through Congo red staining and erythrocyte membrane lysis. Then, CCK8 and AO/EB staining were used to assess the difference in cell viability and apoptosis level between 2D (2-dimensional) and 3D microenvironment group.And we analyzed the expresson of MLC-2v and GATA-4 gene in the process of myocardium differentiation by Quantitative Real-Time PCR, followed by BMSCs cultured at 2D and 3D environment for 3,5,7days. RESULTS:The self-assembling peptide GFS-4 form a dense gel after 24 hours. There was no harmful for the cell membrane of the peptide before and after selfassembling.BMSCs at 3D culture environment showed that spherical shape,lower cell viability and lower apoptosis.When compared with the 2D culture environment group,the expression of MLC-2v and GATA-4 gene were respectively higher in the 3D environment group at 5 days and 7 days in the process of myocardium differentiation $( \boldsymbol { \mathrm { p } } { < } 0 . 0 5 )$ . CONCLUSIONS: The 3D culture environment constructed by peptide hydrogel scaffolds delayed BMSCs’proliferation and apoptosis rate ，and also promoted the expression of MLC-2v and GATA-4 gene during the process of myocardium differentiation.
+
+Keywords : three-dimensionalculture nano-self-assemblingpeptide bone marrow mesenchymal stem cellsmyocardium differentiation
+
+# 引言
+
+心肌梗死是当今世界范围内威胁人类健康的重要疾病之一]。心肌梗死后，缺血区组织坏死，并发生纤维化瘢痕修复。心肌因丧失收缩功能而致使心室收缩功能降低、血流动力学异常和心室重构，最终导致心力衰竭。现有临床治疗方式都难以替代坏死心肌细胞和逆转心室重构过程2。来源广泛、取材方便的骨髓间充质干细胞(bone marrow mesenchymal stem cells,BMSCs)因具有多向分化潜能而在组织工程领域备受关注，并逐渐应用于心肌梗死组织工程修复领域[3]。已有研究表明，BMSCs在体外初步诱导后移植至心肌梗死区，通过替代坏死的心肌细胞，以及旁分泌机制促进缺血区附近组织血管新生过程改善缺血心肌血供，从而使心功能得到改善[3]。
+
+近些年纳米生物材料应用于组织工程研究，为心肌梗死临床治疗带来了希望。自组装短肽是一种新兴的生物材料，与传统的生物支架材料相比，具有有纯度高、免疫原性低、生物相容性好等特点，自组装形成纳米级纤维的结构层次且降解产生的氨基酸易于人体吸收[4]。自组装短肽在阳离子条件下自组装形成纳米纤维支架材料，具有能够模拟胞外基质(extracellular martrix,ECM)微环境，影响细胞增殖、迁移、分化等生物学行为等优势[5]。因此，自组装短肽已逐渐用作组织工程支架材料[7]。本研究团队已建立了自组装短肽研究体系，并在快速止血、药物释控、组织工程、和创伤修复等领域开展了广泛的研究。
+
+本研究使用的短肽GFS-4由成都赛恩贝生物科技有限公司馈赠。相对分子质量为1791.08，纯度为 $9 6 . 5 5 \%$ ，C端酰胺化，包含16个L型氨基酸残基，由两段含有8个相同氨基酸残基的多肽拼接构成,其氨基酸序列为：Arg-Leu-Glu-Cys-Lys-Ala-Asp-Ala-Arg-Leu-Glu-Cys-Lys-Ala-Asp-Ala。课 题 组前 期研 究 结果表明：心肌细胞在GFS-4短肽水凝胶中生长良好，且心肌梗死体外修复实验发现,短肽GFS-4水凝胶支架可缓解心肌梗死区域组织坏死 。 本文探究采用自组装短肽GFS-4在阳离子条件下形成水凝胶支架作为细胞三维培养微环境对BMSCs的生物学特性，以及在其向心肌方向诱导分化过程的影响。
+
+# 1.材料与方法
+
+1.1材料
+
+短肽GFS-4粉末（成都赛恩贝生物科技有限公司赠送，D112501)；DMEMF12培养基（Hyclone）；胎牛血清（Sciencell）；双抗（Genview）； $0 . 2 5 \ \%$ （204号EDTA 胰酶（Gibco）；CCK8（上海碧云天生物技术有限公司）；SYBR?Green I核酸荧光染料、吖啶橙/溴化乙锭(AO/EB)溶液、DEPC 水（上海生工生物科技有限公司）；逆转录试剂盒（Takara）；刚果红染液（Genivew）；去离子水，$2 0 \%$ 蔗糖溶液。
+
+# 1.2方法
+
+1.2.1自组装纳米短肽刚果红染色称取短肽GFS-4粉末 $1 \ : \mathrm { m g }$ ，用灭菌去离子水配成$1 0 ~ \mathrm { m g / m l }$ 短肽母液，置于 $4 \mathrm { { ~ } ^ { \circ } C }$ 冰箱备用。生理盐水配制 $5 ~ \mathrm { m g / m L }$ 短肽GFS-4溶液，置于 $2 5 \ \mathrm { { ^ \circ C } }$ 下孵育 $2 4 \mathrm { h }$ 。分别于 $2 \mathrm { ~ h ~ }$ 、 $^ { 4 \mathrm { h } }$ 、 $1 2 \mathrm { h }$ 、 $2 4 \mathrm { h }$ 取 $1 0 ~ \mu \mathrm { l }$ 短肽溶液涂在载玻片上，刚果红染色液染色 $3 0 ~ \mathrm { s }$ ，光镜观察。
+
+1.2.2红细胞膜裂解实验分别用生理盐水和去离子水配制不同浓度（1、10、100$\mu \mathrm { g / m L } )$ 的短肽溶液。取SD（SpragueDawley）大鼠股动脉抗凝血， $1 5 0 0 ~ \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { m i n }$ ，弃上清，生理盐水洗涤3次。用 $1 0 0 ~ \mathrm { m L }$ 生理盐水配成 $4 \%$ 红细胞溶液。取 $1 0 0 ~ \mu \mathrm { L }$ 短肽溶液和 $4 0 0 ~  { \mu \mathrm { L } }$ 红细胞（redblood cell，RBC）， $4 0 0 ~ \mu \mathrm { L }$ 生理盐水，加入EP(eppendorf）管中。阳性对照组加入蒸馏水，阴性对照组加入生理盐水。在 $3 7 \mathrm { ~ \textdegree C }$ 条件下孵化 $1 \mathrm { ~ h ~ }$ 后，以 $5 0 0 0 ~ \mathrm { r / m i n }$ 离心分离 $1 5 \mathrm { m i n }$ ，取上清液。用酶标仪 $5 7 0 \mathrm { n m }$ 波长下检测吸光度。
+
+1.2.3BMSCs的分离与培养取2只4周龄雄性SD大鼠，断颈法处死，置于 $7 5 \%$ 酒精 中浸泡 $1 0 \mathrm { m i n }$ ，分离股骨、胫骨。剪去两端骨，用含 $10 \%$ 胎牛血清的DMEM
+
+F12培养基冲洗骨髓腔，收集骨髓，离心 $1 0 \mathrm { m i n } ( 1 2 0 0 \mathrm { r / m i n } )$ ，去上清液，按$1 \times 1 0 ^ { 9 } \mathrm { L } ^ { - 1 }$ 接种于底面积为 $2 5 \mathrm { c m } ^ { 2 }$ 的培养瓶置于 $3 7 \ { ^ { \circ } C }$ ， $5 \%$ CO2饱和湿度的培养箱中培养。 $4 8 \mathrm { h }$ 首次换液除去悬浮生长的细胞，之后每隔 2\~3d换液1次，当细胞铺满瓶底时 $0 . 2 5 \%$ 胰蛋白酶消化，1:2\~1:3细胞传代。
+
+1.2.4二维、三维细胞培养体系的构建
+
+1.2.4.1细胞二维培养取生长状态良好的第三代细胞， $0 . 2 5 \%$ 胰蛋白酶消化，$1 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，弃上清，以 $3 \times 1 0 ^ { 5 } \mathrm { m L ^ { - 1 } }$ 接种，加入 ${ 8 0 0 \ \mu \mathrm { l } }$ DMEM/F-12（ $10 \%$ 胎牛血清）， $3 7 \ { \overset { \circ } { \mathrm { C } } } \ 5 \ { \overset { \circ } { \% } } \operatorname { C O } _ { 2 }$ 细胞培养箱中培养。  
+1.2.4.2细胞三维培养从 $4 ^ { \circ } \mathrm { C }$ 冰箱中取出灭菌去离子水将 $1 0 ~ \mathrm { m g / m L }$ 的短肽母液稀释成 $5 \mathrm { m g / m L }$ 的短肽溶液，取胰蛋白酶消化的细胞悬液，加入蔗糖溶液并调整细胞浓度为 $3 { \times } 1 0 ^ { 5 } \mathrm { m L ^ { - 1 } }$ 。将蔗糖/细胞悬液迅速与短肽溶液混合，配置成2.5$\mathrm { m g / m L }$ 的短肽细胞悬液。加入24孔(96孔)培养板中，每孔 $4 0 0 ~ \mu \mathrm { L } ( 5 0 ~ \mu \mathrm { L } )$ ，然后补入 $4 0 0 \mu \mathrm { L } ( 1 0 0 \mu \mathrm { L } )$ 培养基， $3 7 \ { \overset { \circ } { \subset } } \ 5 \ { \overset { \circ } { \% } } \operatorname { C O } _ { 2 }$ 细胞培养箱中孵育。  
+1.2.5 CCK-8 测定细胞活性取对数生长期细胞，在96孔板中分别设置细胞三维培养组和二维培养组，并分别设置不加细胞的三维和二维培养空白对照。每孔接种细胞浓度为 $5 { \times } 1 0 ^ { 4 } ~ \mathrm { \ m L ^ { - 1 } }$ ，加入培养基至 $1 5 0 \mathrm { u L }$ 。在 $3 7 ~ \mathrm { ^ { \circ } C } \cdot \ 5 ~ \mathrm { ^ { \circ } _ { 0 } C O } _ { 2 }$ 培养箱中培养，每隔24h 更换培养液。分别于12h、24h、48h 取出96孔板，每孔加入CCK8试剂 $1 0 ~ \mu \mathrm { L }$ ，于培养箱中孵育3h后，用酶标仪于波长 $4 5 0 \ \mathrm { n m }$ 下测培养细胞的吸光度值。
+
+1.2.6 吖啶橙/溴化乙锭(A0/EB)双重染色取生长状态良好的第三代细胞，96孔板中进行细胞三维和二维培养。每孔加入 $1 5 0 ~ \mu \mathrm { L }$ 培养液，置于 $3 7 \ { \overset { \circ } { \subset } } \ 5 \ { \overset { \circ } { \% } } \ { \overset { \circ } { \subset } } { \mathrm { O } } _ { 2 }$ 培养箱中培养，分别于1d、3d、5d取出，使用吖啶橙/溴化乙锭(AO/EB)双重染色观察细胞形态学变化。精确称取 AO(吖啶橙)、EB(溴化乙锭)各 $1 \mathrm { m g }$ ，分别溶于 $1 0 ~ \mathrm { m L }$ 磷酸盐缓冲液(phosphate buffer saline，PBS)中使之配成 $1 0 0 ~ \mathrm { \mu g / m L }$ 的储备液，过滤， $4 \mathrm { { ^ \circ C } }$ 保存，用前等量混合，备用；在细胞培养1d、3d、5d之后进行染色。染色前用 $4 \%$ 多聚甲醛固定10min,96孔板每孔加入 AO/EB 染色 $2 { \sim } 4 ~ \mu \mathrm { L }$ ，室温避光染色 $1 0 { \sim } 1 5 \ \mathrm { m i n }$ ，PBS 清洗 2\~3 次，每次 $5 \mathrm { m i n }$ ，于荧光显微镜下观察结果。
+
+1.2.7心肌组织裂解液诱导剂配制及向心肌细胞方向诱导分化收集SD大鼠的心脏组织剪碎至 $1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m }$ ，用组织匀浆机制备组织裂解液， $5 0 0 0 \mathrm { r / m i n } 4 \mathrm { ^ { \circ } C }$ 离心 $1 0 \mathrm { m i n }$ ，收集上清液， $0 . 2 2 ~ { \mu \mathrm { m } }$ 滤器过滤，将心肌组织裂解液与DMEMF-12培养基（ $20 \%$ 胎牛血清）等体积混合，置于 $4 \mathrm { { ^ \circ C } }$ 冰箱储存备用。取生长状态良好的第3代BMSCs，在细胞生长至占瓶底面积 $90 \%$ 时加入诱导液连续培养7d，每天换液1次。
+
+1.2.8RT-PCR 检测 MLC-2v、GATA-4 基因表达情况BMSCs诱导培养3d、5d、7d取出 24孔板，加入Trizol核酸提取液，提取细胞中总RNA；cDNA合成： $4 2 \ \mathrm { { ^ \circ C } }$ 预处理 $2 ~ \mathrm { m i n }$ ， $3 7 \ \mathrm { ^ { \circ } C } \ 1 5 \ \mathrm { m i n }$ ， $8 5 ^ { \circ } \mathrm { C }$ 5s，结束后冰上终止反应；Real timePCR反应体系如下： $\operatorname { S Y B R } ^ { \circledast }$ Green Master Mix $1 0 ~ \mu \mathrm { L }$ ，引物上下游各 $0 . 5 ~ \mu \mathrm { L }$ ，cDNA 模板 $2 . 0 ~ \mu \mathrm { L }$ ， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 补足体系至 $2 0 ~ \mu \mathrm { L }$ 。RT-PCR反应步骤如下：预变性 $9 5 \ \mathrm { ^ \circ C } \ 5 \$ min；循环反应 $9 5 \mathrm { ~ \textdegree ~ } 1 0 \mathrm { ~ s ~ }$ ， $6 0 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ，循环40次；溶解曲线 $9 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { \ s }$ ， $6 0 \ \mathrm { { ^ \circ C } }$ $6 0 \ \mathrm { s } , 9 5 ^ { \circ } \mathrm { C } \ 1 5 \ \mathrm { s }$ 。引物序列如下：
+
+MLC-2v(Forward-CGTTTGCTGCCCTCGGAC,Reverse-CCTTCAGCGACCCTTTGCC) ；  
+GATA-4(Forward-GCTTCGCAGGCTCCTACTCC,Reverse-GGGGTGTCTCGCAGGGTT) ；  
+GAPDH(ForWard-ATGTCGTGGAGTCTACTGGCG， Reverse-GGGGGCTAAGCAGTTGGTG)。
+
+1.2.9 统计学分析实验数据利用 SPSS22.0 统计学软件，采用 $t$ 检验方法分析数据，以 $\scriptstyle P < 0 . 0 5$ 为具有统计学意义。
+
+# 2.结果
+
+# 2.1自组装短肽水凝胶刚果红染色
+
+刚果红染色观察短肽GFS-4自组装形成水凝胶的过程： $5 . 0 \mathrm { m g / m l }$ 的短肽溶液在离子条件下，2小时后形成松散的片状结构（图1.a）；4小时后短肽水凝胶薄膜厚度和片状结构大小开始增加，但此时结构仍然为松散状态（图1.b）；12小时后，松散的片状结构相互连接，形成相对致密的膜状结构，但片状结构尚未完全相互连接，仍存在部分未互相连接的片状结构（图1.c）；自组装24小时后，短肽GFS-4基本形成结构致密的凝胶状态，片状结构完整的连接一起，结构致密（图1.d）。
+
+![](images/7ce326f1892ca3af4d5e5ae4407f3dec44ed31c8bbc00d36e0262124988bc3ef.jpg)  
+图1短肽GFS-4自组装形成水凝胶刚果红染色
+
+Fig1.The hydrogel of self-assembled peptide GFS-4 stained by congo red..  
+短肽GFS-4在PBS溶液中自组装过程中2h(a)、4h(b)、12h(c)、24h(d)形成的无色膜结构的刚果红染色结果 $\left( \times 1 0 0 \right)$   
+Thecolorlessmembranous structurewasformedduringteself-assemblingprocessof thepeptideGFS-4inposphatebufersalineandtransformed to glass slide stained by congo red at 2(a);4(b);12(c);24(d)hours. $( \times 1 0 0 )$ （20
+
+# 2.2红细胞膜裂解实验
+
+自组装前后的3种不同浓度的短肽溶液（1、10、 $1 0 0 ~ \mathrm { { m g / m L } }$ ）对红细胞的裂解度与阳性对照组比较相差0.350左右，与阴性对照组相差0.014左右。裂解度均不超过0.06（ $\cdot \mathrm { \tt p } { < } 0 . 0 5$ ）。这说明3种不同浓度短肽GFS-4溶液自组装 $2 4 \mathrm { h }$ 后与未组装前对细胞膜都没有破坏作用。
+
+![](images/843bef54cf3e173383ad8d456a8feca849e9fe61e8ebce0af3899d35727d031f.jpg)  
+图2红细胞膜裂解实验
+
+Fig2.Red cell lysis of nano-peptide GFS-4.
+
+0h：自组装前24h：自组装后 Oh:before self-assembled 24h: self-assembled 24hours later.
+
+# 2.3BMSCs在二维和三维培养微环境中形态学观察
+
+在二维和三维体系中培养3天后，可以观察到：细胞在二维培养环境中以集落样式分布，排列似旋涡状，贴壁生长，细胞饱满成梭形或纺锤形，细胞透亮，折光性较好。细胞三维中成球形、散在分布，细胞不贴壁，均匀分布于三维培养环境中，胞浆饱满透亮，折光性好。细胞在二维培养环境中生长较快，第三代细胞 $4 { \sim } 5$ 天即铺满瓶底 $90 \%$ 。而在三维培养环境中，细胞生长速度慢较二维慢，但仍可见在原有细胞周围逐渐出现分裂增殖的细胞，小簇状分布。三维培养环境下视野所见细胞数量较少，细胞体积小，不表现细胞贴壁生长时的形态特点，如图3。
+
+图3BMSCs在普通二维培养和自组装短肽构建三维培养环境中第3天的生长状态  
+![](images/06662627110c64c43849d2c0c7267e72dbed6ca9fd6459e49ea3c44dcfa56cc7.jpg)  
+a:二维培养组b:三维培养组（ $\times 1 0 0$ ）a: 2D environment b:3D environment ( $\times 1 0 0$ ）
+
+Fig3.The growth sate at 3 days of bone marrow mesenchymal stem cells cultured at 2D normal environment and 3D environment constructing by hydrogel self-assembling peptide GFS-4.
+
+# 2.4自组装短肽水凝胶支架三维培养微环境对细胞的影响
+
+BMSCs在三维和二维环境培养12h、24h、48h后，CCK8实验结果发现：三维培养组吸光度OD值在12h、24h、48h时均显著地低于二维培养组（ $\scriptstyle \cdot \mathtt { p } < 0 . 0 5$ ），如图4，即在GFS-4水凝胶三维培养环境中细胞活性明显低于二维组。
+
+在三维和二维培养体系中生长1d、3d、5d后的细胞进行AO/EB染色后可以发现：二维培养组细胞在第1天时，细胞生长状态良好，较少凋亡。第3天时细胞间间隙减小，细胞出现相互接触，凋亡较少。第5天时，细胞因为接触抑制，局部已出现大面积凋亡。三维培养组中细胞数量略少于二维培养组，细胞悬浮生长，细胞成球形，从第1天至第5天细胞都保持在较为良好的生长状态，发生
+
+凋亡的细胞数量较少，如图5。
+
+![](images/ff247696a757deae909bdfe8bae98f5f34d1dbc37228809960da51296192ddbf.jpg)  
+图4.BMSCs在二维和三维条件下细胞增殖情况 $( ^ { * } p { < } 0 . 0 5 )$
+
+Fig.4 The proliferation state of bone marrow mesenchymal stem cels between 3D and 2D culture environment utilizing cck8 ( $^ { * } p { < } 0 . 0 5 )$
+
+纵坐标表示BMSCs在二维或者三维培养坏境中培养在12h、 $2 4 \mathrm { h }$ 、48h后加入CCK8溶液孵育3h后溶液的吸光度OD值。 Y-axis reflecttheabsorbancevaluesof theculture medumofbone marrowmesenchymalstemcellsculturedin2Dand3Denvironment after12h、24h、48h reacting with cck8 in3 hours.
+
+![](images/de1e464460c5a5698f7e09f9937e213789b524fb57ad54e3fb395193a269b664.jpg)  
+图5运用A0/EB双重染色观察BMSCs在三维和二维环境中培养1d、3d、5d时调亡情况
+
+Fig5.The situation of apoptosis in bone marrow mesenchymal stem cels at 3D environment and 2D environment utilizing AO/EB staining.
+
+A：三维环境 $( \times 2 0 0 )$ B：二维环境 $( \times 1 0 0 )$ （204号A:3D environment $\times 2 0 0 \dot s$ ）B:2D environment $\left( \times 1 0 0 \right)$
+
+# 2.5BMSCs诱导后ML $\mathtt { c - 2 v }$ 、GATA-4基因表达情况
+
+采用Real-timePCR检测自组装短肽构建的三维体系诱导3d、5d、7d后MLC
+
+2v、GATA-4 表达量变化。结果显示：第3天MLC-2v的表达量，二维培养组与三维培养组之间没有差异。第5天和第7天MLC-2v的表达量，三维组均高于二维组，差异具有显著性（ $\scriptstyle \mathbf { p } < 0 . 0 5 .$ ）。这表明，三维培养环境能够促进MLC-2v基因的表达。同样，三维培养组中GATA4基因表达量在第5天和第7天时表达量均明显高于二维培养组（ $\scriptstyle \cdot \mathtt { p } < 0 . 0 5 \$ ），如图6。
+
+![](images/1126d1ed885b92adabd3644e5ef7f6a2e36b884374f6fc569f35430d88ed1a7c.jpg)  
+图6Real-time PCR检测BMSCs诱导过程中相关基因表达情况 $^ { * } P { < } 0 . 0 5 )$
+
+Fig6.The expression of MLC-2v and GATA-4 in the process of bone marrow mesenchymal stem cells differentiating to myocardium $^ { * } p { < } 0 . 0 5 )$
+
+# 3.讨论
+
+细胞三维培养与二维培养相比有许多优点：经典的组织细胞的研究是在二维材料如培养皿、多孔板上进行的。但机体几乎所有细胞都嵌入一个由ECM组成的，供细胞黏附，生长，分化，迁移和通讯的三维微环境[。已报道用于BMSCs三维培养支架包括：藻酸盐凝胶，胶原蛋白°，壳聚糖凝胶等，以往研究的三维支架材料多为微米级，与体内ECM差异较大，且纤维支架材料的孔径远大于大多数生物分子，分子扩散速度快，不利于维持细胞分化、生长[5]。自组装短肽水凝胶支架在一定程度上能模拟ECM的细胞信号传导，细胞通讯功能[4。本研究采用的自组装短肽GFS-4，在阳离子条件下发生自组装，24h后形成致密的膜状结构。红细胞膜裂解实验发现：1、10、100ug/ml的短肽溶液在自组装前后对红细胞膜均无裂解作用，这表明短肽不会对细胞膜造成损伤。细胞在自组装短肽GFS-4构建的三维环境与普通二维环境中的细胞成梭形或纺锤形的形态特点不同，三维培养环境中细胞体积小，成球形，边界清楚，细胞状态良好，且保持低的分裂增殖状态。同时，三维环境下细胞具有保持良好的细胞活力，以及凋亡速度与传统二维培养环境相比较慢的特点。GFS-4短肽水凝胶支架三维培养环境中BMSCs的形态学特点以及与二维环境相比更优的细胞生长和增殖特点与已有报道支架材料相似，GFS-4可用作BMSCs的三维培养支架材料。
+
+BMSCs体外诱导分化为心肌细胞移植到心肌梗死区替代坏死凋亡的细胞以替代功能是近年来心肌梗死细胞治疗的热点[12]。一些基础研究和临床研究表明，BMSCs具有分化为心肌细胞和成血管细胞，分泌大量生长因子和细胞因子，以及通过旁分泌机制促进新生血管形成等优势[13]。有学者认为心肌组织裂解液更能模拟心肌组织微环境，诱导分化后更具有心肌细胞特性[14]。本实验利用心肌组织裂解液初步诱导7天，并发现MLC-2v和GATA-4的表达量逐渐呈上升趋势，且三维环境表达量显著高于二维组表达量。MLC-2v即为肌球蛋白轻链-2，在心脏发育的早期心室发育中起着重要作用[15]。心肌转录因子GATA-4在心脏发育最早表达，是心肌前体细胞最早的标志之一[16]。而本研究发现三维环境提高了诱导过程中MLC-2v和GATA-4基因表达，说明三维环境在促进BMSCs向心肌方向诱导分化方面可能具有一些优势。其机制可能与GFS-4短肽水凝胶构建的细胞三维培养环境能够促进细胞间信息传递有关[517]。
+
+综上所述，自组装短肽GFS-4在阳离子条件下形成的水凝胶支架材料构建的细胞三维培养微环境，与普通二维培养环境相比，在保持BMSCs细胞活力和低速凋亡方面均具有一定优势，并且在促进心肌组织裂解液诱导BMSCs向心肌方向分化过程可能具有一定优势，但具体机制尚待进一步研究。本研究为今后BMSCs的三维培养、心肌方向诱导分化以及临床治疗心肌缺血性疾病提供了一些思路和方法。
+
+致谢感谢重庆医科大学科研培育基金（自然科学类）（201417）；重庆医科大学基础医学院苗圃基金（JC201514）；四川省重点实验室抗生素及其相关研究实验室基金（ARRLKF14-01）对本研究的资助
+
+# 参考文献
+
+[1] Wollert K C,Drexler H. Cell therapy for the treatment of coronary heart disease: a critical appraisal[J]. Nat Rev Cardiol. 2010,7(4): 204-215.   
+[2] Balogh L, Czuriga I, Kristof E, et al. [Current practice and future perspectives of myocardial stem cell therapyl[J]. Orv Hetil.2005,146(20 Suppl 2): 1110-1120.   
+[3] Charwat S, Gyongyosi M, Lang I, et al. Role of adult bone marrow stem cells in the repair of ischemic myocardium: current state of the art[J]. Exp Hematol. 2008,36(6): 672-680.   
+[4] Luo Z, Zhang S. Designer nanomaterials using chiral self-assembling peptide systems and their emerging benefit for society[J]. Chem Soc Rev. 2012,41(13): 4736-4754.   
+[5] Nisbet D R,Williams R J. Self-assembled peptides: characterisation and in vivo response[J]. Biointerphases.2012,7(1-4): 2.   
+[6] Luo Z, Yue Y, Zhang Y,et al. Designer D-form self-assembling peptide nanofiber scaffolds for 3- dimensional cell cultures[J]. Biomaterials. 2013,34(21): 4902-4913.   
+[7] 岳媛媛，李萌萌，徐晓帆，等．自组装短肽GFS-2构建新型三维细胞培养支架材料[J]．化学 通报.2015(03):273-276. Yuanyuan Y,Mengmeng L,Xiaofan X, et al. Designer Self-Assembling Peptide GFS-2 Nanofiber Scaffolds for 3D Cell Cultures[J]. chemistry.2015(03): 273-276.   
+[8] 罗忠礼，陈振银，岳媛媛,等．自组装短肽GFS-4作为细胞三维培养及心肌梗死修复支架材 料的研究[J].生物医学工程学杂志.2017(03):388-393. Yuanyuan Y,Mengmeng L,Xiaofan X ,et al Self-assembling peptide GFS-4 nanofiber scaffolds for three-dimensional cell cultures and myocardial infarction repair[J].Journal of Biomedical Engineering. 2017(03): 388-393.   
+[9] Utech S,Prodanovic R, Mao A S,et al. Microfluidic generation of monodisperse, structurally homogeneous alginate microgels for cell encapsulation and 3D cell culture[J]. Adv Healthc Mater. 2015, 4(11): 1628-1633.   
+[10] Davidenko N, Schuster C F, Bax D V,et al. Evaluation of cell binding to collagen and gelatin: a study of the effect of 2D and 3D architecture and surface chemistry[J]. JMater Sci Mater Med. 2016, 27(10).   
+[11] Arya N, Sardana V, Saxena M, et al. Recapitulating tumour microenvironment in chitosan - gelatin three-dimensional scaffolds: an improved in vitro tumour model[J]. JR Soc Interface.2012, 9(77): 3288-3302.   
+[12] Zhao J J,Liu X C, Kong F, et al. Bone marrow mesenchymal stem cells improve myocardial function in a swine model of acute myocardial infarction[J]. Mol Med Rep.2014,10(3):1448- 1454.   
+[13] Wen Z, Zheng S, Zhou C, et al. Repair mechanisms of bone marrow mesenchymal stem cels in myocardial infarction[J]. JCell Mol Med. 2011, 15(5): 1032-1043.   
+[14] 李琴，赵文婧，寇亚丽，等．心肌组织裂解液诱导骨髓间充质干细胞向心肌样细胞的分化 [J]．中国组织工程研究与临床康复.2011,15(10):1726-1730. Qin L,Wen-Jing Z, Ya-Li K,et al. Effects of myocardium lysate on the diferentiation of rat bone marrow-derived mesenchymal stem cells into cardiac myocyte in vitro[J]. JOURNAL OF CLINICAL REHABILITATIVE TISSUE ENGINEERING RESEARCH. 2011， 15(10): 1726- 1730.   
+[15] Sheikh F, Lyon R C, Chen J. Functions of myosin light chain-2 (MYL2) in cardiac muscle and disease[J].Gene.2015,569(1): 14-20.   
+[16] Xu H, Yi Q, Yang C, et al. Histone modifications interact with DNA methylation at the GATA4 promoter duringdifferentiation of mesenchymal stem cells into cardiomyocyte-like cels[J].Cell Prolif.2016,49(3):315-329.   
+[17] Moulin E, Cid J J, Giuseppone N. Advances in supramolecular electronics - from randomly selfassembled nanostructures to addressable self-organized interconnects[J].Adv Mater.2013,25(3): 477-487.

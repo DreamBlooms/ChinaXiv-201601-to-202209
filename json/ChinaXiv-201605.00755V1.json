@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dysfunction ofWntless triggers the retrograde Golgi-to-ER transport of Wingless and induces ER stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:28 May2015   \nAccepted:14 December 2015   \nPublished:18 February 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Zhang¹,Lujun Zhou¹, Chunli Pei1, Xinhua Lin²,3 & Zengqiang Yuan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Secreted Wnts play diverse roles in a non-cell-autonomous fashion. However,the cell-autonomous effect of unsecreted Wnts remains unknown. Endoplasmic reticulum (ER) stress is observed in specialized secretory cells and participates in pathophysiological processes.The correlation between Wntsecretion and ER stress remains poorly understood.Here, we demonstrated that Drosophila miR307ainitiates ER stress specifically in wingless(wg)-expressing cells through targeting wntless (wls/ evi).This phenotype could be mimicked by retromer loss-of-function or porcupine (porc) depletion,and rescued by wg knockdown,arguing that unsecreted Wg triggers ER stress.Consistently, we found that disrupting the secretion of human Wnt5a also induced ER stressin mammalian cels.Furthermore, we showed that a C-terminal KKVY-motif ofWg is required for its retrograde Golgi-to-ER transport, thus inducing ER stress.Next,we investigated ifCOPl,the regulatorofretrograde transport, is responsible for unsecreted Wg to induce ER stress.To our surprise, we found thatCOPl acts as a novel regulatorof Wg secretion.Taken together, this study reveals a previously unknown Golgi-to-ER retrograde route of Wg,and elucidates a correlation between Wnt secretion and ER stress during development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wnt proteins are secreted glycoproteins that regulate multiple processes during development and adult tissue homeostasis1.Over the last three decades,the signaling events that occur downstream of Wnt receptors have been wellelucidated.However, the mechanisms underlying Wnt secretion remain largely unknown.Recent attention has been drawn to this process due to the association of aberrant Wnt levels with various diseases2,3. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Endoplasmic reticulum (ER) protein Porcupine (Porc)was the first identified regulator of Wnt secretion4,5. In Drosophila,Porc mediates the lipidation of Wnt proteins and facilitates their recognition by $\\mathrm { W l s } ^ { 6 , 7 }$ . Wls is a conserved transmembrane protein that regulates Wnt exocytosis fromthe trans-Golgi network(TGN)to the cell membrane8-12.In the absence of Wls, Wnt proteins are retained in their expressing cels.Once Wnts are exocytosed,Wls is internalizedby Clathrin-mediated endocytosis13 and transportedto TGNbythe retromer complex. Retromer is a conserved multi-protein complex that sorts cargos from early endosomes (EE) back to $\\mathrm { T G N ^ { 1 4 } }$ .In 2008,five groups demonstrated that Wls is the targetof retromerl5-19.In the absence of retromer, Wls is eventually trapped into lysosomes for degradation.Later studies described an unconventional SNX3-retromer that is specifically required for Wls recycling2,21.Recently,theP24 familyof proteins was identifed as regulatorsof Wg secretion by controllng itsER export223 Drosophila miR-315 was demonstrated to activate Wgsignaling by targeting axin and notum24.MiR-8 was reported to negativelyregulate Wntsignalingat multiple levels25.Together, these studies indicate thatthe above regulators hold great potential for therapeutic targeting.However,the cell autonomous role ofunsecreted Wnts is stillunknown.Abnormal proteinaccumulation in the secretory cells leads to ER stress26. Upon ER stress,cells activate an integrated response,termed unfolded protein response $( \\mathrm { U P R } ) ^ { 2 7 }$ The ER chaperone Bip/Grp78 was upregulated upon UPR.In Drosophila,BiP is encoded by $h s c 7 0 { - } \\bar { 3 } ^ { 2 8 }$ . It is broadly expressed in embryos,with higher expression levels found in developing secretory organs29.Bip is adownstream targetof xbpl,which isspliced and activated inresponse toER stres.So,Bipis usuallyused asan ER marker,nd its upregulation can be used an indicatorofER stress29.Given this information,inour genetic screen we focused on Wg secretion regulators,we also paid attention to their roles in regulating ER stress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,we identified that miR-307a inhibits $\\mathrm { w g }$ secretion through targeting wls. Interestingly, we found that ectopic expression of miR- $. 3 0 7 a$ initiates ER stress specifically in wg-expressing cells.Furthermore,we demonstrated thatthe C-terminal KKVY-motifof Wg mediatesits Golgi-to-ER retrieval.Giventhat KKVY-motif is the sorting signal of the COPI complex,we investigated if COPI is responsible for unsecreted $\\mathrm { w g }$ to induce ER stress. Surprisingly, we found that COPIloss-of-function resulted in a $\\mathrm { w g }$ secretion defect and induces ER stress as well. Altogether, we discovered a novel retrograde route of $\\mathrm { w g }$ from the Golgi to the ER and yielded a new concept that unsecreted Wg cell-autonomously triggers ER stress. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MiR-307a regulates Wg secretion and initiates ER stressin wg-expressing cells.To identify new regulators of Wg secretion,we performed a genetic screen which mainly focuses on vesicle traffcking related proteins and a microRNA library described previously30.The schematic representation of the miRNA construct was shown in (SupplementaryFig.Sla).In the screen,we identified that ectopic expressionof miR-307a resulted in wing notches (SupplementaryFig.S1b-b)and lossof dorsal thoracic bristles (SupplementaryFig.S1c-c,red box in $\\mathrm { S 1 c } ^ { \\mathrm { \\prime } }$ ),raising the possibility that Wg signaling is disrupted.Next,we examined the role of miR- $3 0 7 a$ in Wg signaling in the wing imaginal discs.In the wing disc, the $\\mathrm { w g }$ protein is produced at the dorsal/ventral (D/V) boundary and forms a gradient along the D/V axis (Fig.la). Overexpresson of miR-307a resulted in accumulation of Wg in its expressing cels (Fig.1b-b').The accumulation was not due to the increased transcription of the wg gene as the expression of wg-lacZ was unaffected (Fig. le- $\\boldsymbol { \\mathbf { \\mathit { e } } } ^ { \\prime }$ ). In contrast to accumulated Wg within its expressing cells,extracellular Wg levels were reduced with miR- $. 3 0 7 a$ overexpression (Fig.lc). Consistent with this,expression of senseless (Sens),a short-range target gene of Wg signaling31,is reduced by miR- $. 3 0 7 a$ overexpresion (Fig.1d-d').Together,our data demonstrate that miR-307a is a negative regulator of Wg secretion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,we found that miR- $. 3 0 7 a$ regulates the initiation of ER stress as indicated by Bip staining.In the wild-type wing disc,Bip is ubiquitously expresed (Fig.1f-f).To testthespecificityofthe Bip antibody we used, weoverexpressedbipbyusing hhGal4and found the staining signal of Bip antibody was obviously increased in the posterior (P)compartment (Fig.1g).Next, weused Dithiothreitol(DTT),an ER-stress-causingagent,to treat the wing disc to elevate the basal levels of Bip (as described $\\mathrm { i n } ^ { 2 9 }$ ） since the endogenous level of Bip is relatively low (as shown inFig.1f-f).We found that the upregulation of Bip occurs in the wild-type anterior tissue but not inthe bip-depleted posterior compartment (Fig.1h).These experiments confirmed that the Bip antibody is sensitive enough for detecting the ectopic Bip levels.Through Bip staining,we found that overexpression of miR307a by hhGal4 caused ectopic expression of Bip specifically in the wg-expressing cells ofthe posterior wing disc (Fig. li-i\"). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MiR-307a initiates ER stressthrough targeting of wls.To investigate the possible correlation between miR-307a and ER stress we searched for targets of miR-307a using miRandaand TargetScan32,33.We found wls is one of the predicted targets of miR- $3 0 7 a$ (Fig.2a).To confirm this prediction,we made awls-sensor transgenic fly.The expression pattrn of wls-sensor was shown in (Fig.2b).In the wing disc,overexpression of miR-307a using enGal4 blocked expression of wls-sensorinthe Pcompartment (Fig.2c-c').Consistently,overexpresonof miR-307acausesa remarkable reduction in Wls protein levels (Fig.2d-d).These data demonstrated that wls is a target of miR-307a. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subsequently, we generated the miR-307a-sensor (Supplementary Fig. S2b-b\") and miR-307a-sponge (Supplementary Fig.S2c) transgenes for monitoring the endogenous expression levels of miR-307a. Comparing with the wild-type control (SupplementaryFig.S2a),the miR-307a-sensor shows decreased expression in the wing pouch with striking reduction at the A/P and D/V boundaries (Supplementary Fig. S2b- $\\cdot \\mathbf { b } ^ { \\dagger }$ ). This pattern is similar with thatofwls-sensor,indicating thatmiR-307a is endogenously expressed in these regions.urther, overexpresson of miR-307a-sponge enhanced the signal of miR-307a-sensor (Supplementary Fig.S2d-d).Taken together, these data suggested that miR-307a acts as an endogenous regulator in the wing pouch. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Next, weasked whether miR-307a triggered ER stressthrough targeting of wls.We found that knockdown of wls also induced ectopic Bip staining in the wg-expressing cels (Fig.2e-e).Moreover,overexpressionof wls suppressed the ectopic Bip pattern induced by miR-307a overexpression(Fig.2f-f\").These data indicated that Wls acts as a negative regulator of ER stress in the wg-expressing cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unsecreted Wg induces ER stress in its expressing cells. Given that Wls dysfunction-induced ER stress is only observed in wg-expressing cells,we asked whether $\\mathrm { w g }$ was the initiator. We found that knockdown of wg suppressed the ectopic expression of Bip induced by miR-307a (Fig.3a-a).Vps35 knockdown mimickedthe Bip induced phenotype caused bymiR-307a (Fig.3b-b).Consistently,depletingthe other components of the retromer complex, vps26 or snx3,resulted in the same phenotype with vps35 knockdown (Fig.3c-d'). Further,knockdown of wg in a vps35 depletion background efciently inhibited the ectopic Bip expression (Fig.3e- $e ^ { w }$ ).Moreover,increasing the ER retention of $\\mathrm { w g }$ by porc knockdown also induced ectopic Bip expression in the $\\mathrm { w g }$ -accumulating cels (Fig. $3 { \\mathrm { g - g } } ^ { { \\mathfrak { n } } { \\mathfrak { n } } } .$ ). These data demonstrated that unsecreted Wg triggers ER stress. Furthermore,depletion of xbp1 blocked the ectopic Bip expression caused by vps35 knockdown (Fig.3f-f\"), suggesting that unsecreted $\\mathrm { w g }$ induces ER stress through the activation of Xbpl. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human Wnt5a acts as an ER stress initiator in mammalian cells. Next, we investigated whether the $\\mathrm { w g }$ -induced ER stress is conserved in mammaliancells.We generated axbpl-GFPreporterforER stress as described $\\mathrm { i n } ^ { 3 4 }$ . In metazoans,a 26-nucleotide intron of xbp1 mRNA is spliced out during ER stress,causing a shift in the codon reading frame34.The spliced xbp1 mRNA is translated into the mature XBPl protein in response to ER stress34.In this case,we fused the gene encoding GFP downstream of a partial sequence ofhuman xbp1, including the 26-nt ER stress-specific intron. Under normal conditions,the mRNA of the fusion gene would notbe spliced,and that its translation would be terminated at the stop codon nearthe joint between the XBP1 and GFP.During ER stres,the 26-nt intron shouldbe spliced out.Thus,a fusion protein of XBP1-GFP should be produced in cels.To test whether xbp1-GFP works as an indicator for ER stres,we transfected HEK293T cels with xbp1-GFP,and then treated them with Thapsigargin (an agent that promotes ER stressbydepletion of lumenal calcium storage).The splicing of xbp1 was detected by anti-GFPantibody (Fig.4a) or GFP fluorescence (the upper panels ofFig.4c),indicating that the xbp1-GFPworks well.Next,Weco-transfected HeLacells with xbp1-GFPand hwnt5a-flag-KDEL(an ER retention form of Wnt5a).A remarkable splicing of xbpl was observed (Fig.4b and the lower panels ofFig.4c).Through quantification,we found the percentage of cels with visible GFP expression was significantly increased by hwnt5a-flag-KDEL overexpression (Fig.4d).These data indicated thatER stressis triggered.Furthermore,Knockdown of wlsin HEK293Tcells which stably expressed hWnt5a. The knockdown efficiency of two Wls RNAi could reach $5 0 \\%$ (Fig. 4f).The lysates were immunobloted with Flag antibody.The amount of Wnt5a in cellysates was increased upon Wls knockdown (Fig.4e,middle panel), indicating that Wnt5a was accumulated in the cels.Also,an upregulation of Grp78 was observed (up panel of Fig.4e,g).Takentogether, these datasuggested thathWnt5aactasaninitiatorofER stresswhenitssecretion route is disrupted. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/71b7ce0078f73b8b7609f6c443ddce8bf31e53469c16c0ea3cdb5b69d181822c.jpg",
+        "img_caption": [
+            "Figure 1. MiR-307a regulates $\\mathbf { W _ { \\mathbf { g } } }$ secretion and initiates ER stress in wg-expressing cells.All the wing discs hereafter are oriented anterior left,dorsal up.Thedotted lines were used to indicate the Anterior/Posterior (A/P)compartment boundary. (a) Immunostaining of $\\mathrm { w g }$ in wild-type wing disc. $( \\mathbf { b } { \\mathbf { - e } } , \\mathbf { i } { \\mathbf { - i } } ^ { \\mathbf { w } } )$ Expression of UAS-miR- $3 0 7 a$ (marked by GFP) was induced in the Pcompartment using hhGal4 driver.(b-b') The arrow and arrowhead indicate $\\mathrm { w g }$ is accumulated in its expressing cells. (c) Immunostaining of extracellular Wg. The arrowheads indicate reduction of extracellular $\\mathrm { w g }$ staining. (d-d') Immunostaining of Sens (red). The arrowheads indicate the loss of Sens expression in the miR $. 3 0 7 a$ -expressing P compartment. $( { \\bf e } { \\cdot } { \\bf e } ^ { \\prime } )$ Transcription of $w g \\left( w g \\ – l a c Z \\right)$ is not regulated by miR $. 3 0 7 a$ overexpression. (f-fr) Immunostaining of Bip and $\\mathrm { w g }$ in wild-type wing disc. $( \\mathbf { g } , \\mathbf { h } )$ Expression of UAS-bip or UAS-bipRNAi transgene was induced using hhGal4.(g) The yellow asterisk indicates the increasing of Bip levels.(h) The wing discs were treated with $5 \\mathrm { m M }$ DTT (in M3 medium) for $1 6 \\mathrm { h }$ before immunostaining for inducing ER stress Upregulation of Bip occurs in the wild-type tissue (white asterisk) but not in bip depletion tissue (yellow asterisk). $( \\mathbf { i } { \\cdot } \\mathbf { i } ^ { \\flat } )$ Overexpression of miR- $3 0 7 a$ causes an ectopic expression of Bip specifically in the wg-expressing cells (arrow and arrowhead in i). Scale bar $= 5 0 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1392d4a1635670f9bbb740265a5fe0e7927e7424c494a0db7e80a794c9dba39.jpg",
+        "img_caption": [
+            "Figure2.MiR-307a initiates ER stress through targetingWls.(a)The3'UTRof wls mRNA isa predicted miR- $3 0 7 a$ binding site.(b)tub-DsRed-wls-3'UTR (wls-sensor) was generated bycloning a 609bp fragment of wls $3 ^ { \\prime } U T R$ downstream of pCaSpeR-tub-DsRed.(c-c') Overexpression of miR-307a using enGal4 strongly inhibits theexpressionofwls-sensor (yellow asterisk inc).(d-d)The yellowasterisk indicates theloss of wls expresion in the miR- $3 0 7 a$ -expressing P compartment. (e-e') UAS-wlsRNAi was expressed using hhGal4.An ectopic Bip staining was observed in the wg-expressing cels (arrowhead ine). (f-f\") UAS-wls and UAS-miR-307a were coexpressed using hhGal4.The ectopic expression of Bip was suppressed by wls overexpression (arrowhead in f). Scale bar $= 5 0 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A C-terminal KKVY-motif mediates the Golgi-to-ER retrieval ofWg. As Wls exports $\\mathrm { w g }$ from Golgi to the cell membrane,we asked why Wls dysfunction could induce ER stress.In the vps35-depleted wg-expressing cells,we observed the subcellular co-localization of $\\mathrm { w g }$ with a Golgi marker was enhanced (Fig.5a-a').Interestingly,an increased co-localization of $\\mathrm { w g }$ with an ER marker was also observed (Fig. $^ { 5 \\mathrm { b } , \\mathrm { c } }$ and Supplementary Fig S3a,b).We hypothesized that the transient accumulation of $\\mathrm { w g }$ in Golgi triggers its retrieval to the ER.Previous studies demonstrated that COPI complex retrieves the cargos containing the canonical C-terminal KKxx-orKxKxx-motif as wellas the non-canonical KxHxx- or RKxx-motif35.36.Coincidentlythere isaKKVY-motif in the C-terminal ofWg.We generated the $U A S  – w g ( K ^ { 3 3 4 } K > R ^ { 3 3 4 } R )$ and UAS-wg transgenic flies using the PhiC31 integrase-mediated site-specific transgenesis system. Both of these are integrated nto the $3 R$ 86Flocus toensure thatatleast the transcripts have the same expressionlevels.We found that the K-to-R mutant formof Wg maintained its signaling transduction ability (Fig.5d,e),indicating its secretion and transporting functions were unaffected under normal conditions.Next, we co-expressed UAS-wg and $U A S  – w g ( K ^ { 3 3 4 } K \\bar { > } R ^ { 3 3 4 } \\bar { R ) }$ with UAS-wlsRNAi using dppGal4.In this context,we found the unsecreted wild-type $\\mathrm { w g }$ caused obvious ER stress (Fig. 5f-f). However, the phenotype was not observed in the mutant form of $\\mathrm { w g }$ (Fig. $5 { \\bf g - g } ^ { \\prime } $ ). Furthermore, the K-to-R mutant formof Wg showed weaker colocalization with the ER marker(Fig.5h-j)but stronger colocalization with the Golgi marker(SupplementaryFig.S3c-e)compared withthe wild-type of Wg.Taken together, these data suggested that the KKVY-motif mediates the retrieval of unsecreted $\\mathrm { w g }$ from Golgi to ER,thus inducing ER stress. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COPl regulates Wg secretion and ER stress initiation.Since COPI is the key regulator of the retrogradeGolgi-to-ER transport,we asked if COPIis responsible for unsecreted Wg to induce ER stress.To investigate this,we performed the epistasis tests between Wls and the COPI subunits, $\\mathrm { \\alpha { \\dot { \\alpha } C O P } }$ and $\\beta \\mathrm { C O P } ^ { 3 7 }$ ,respectively.Surprisingly,knockdown of either $\\alpha C O P$ or $\\beta C O P$ alone could induce $\\mathrm { w g }$ secretion defect (Fig. 6a- $\\cdot c ^ { \\mathfrak { w } }$ ） Consistently,the adult flies displayed notched wings (Fig. 6f- $\\mathbf { g } ^ { \\prime }$ ),suggesting the deficient of Wg signaling.In addition,an ectopic Bip expression was observed in the $\\alpha C O P$ -depleted wg-expressing cells (Fig. $\\overline { { 6 } } \\overline { { c } } ^ { \\mathfrak { n } }$ ).This phenotype could be suppressed by wg knockdown (Fig. 6d),suggesting that COPI regulates ER stressinitiation through controlling Wg secretion.Taken together,these data revealed a novel role for COPI that regulated $\\mathrm { w g }$ secretion and ER stress initiation as well. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e92da8c5b1b3d83ce5009ae85fea1db6e9e5cf16a253f248e207d3e850c97812.jpg",
+        "img_caption": [
+            "Figure 3. Unsecreted Wg induces ER stressin its expressing cels.(a-a) UAS-wgRNAi and UAS-miR-307a were co-expressed using enGal4.miR- $3 0 7 a$ -induced ectopic Bip staining was suppressed by wg knockdown (arrowhead ina).(b-b) UAS-vps35RNAi was expressed in the A compartment using ciGal4.Ectopic Bip staining was observed in wg-expressing cells ( $\\mathbf { b } ,$ arrowhead). (c-c') vps26 RNAi was induced using hhGal4. Arrowhead in (c) indicates ectopic expression of Bip in the wg-expressing cells of P compartment. (d-d) snx3 RNAi was induced using ciGal4. Arrowhead in(d) indicates ectopic expression of Bip in the wg-expressing cells of A compartment. $( \\mathbf { e } { \\boldsymbol { - } } \\mathbf { e } ^ { \\mathfrak { W } } )$ Knockdown of wg in a vps35 depletion background driven by ciGal4,the ectopic Bip staining was dramatically reduced ( $\\displaystyle { \\dot { \\mathbf { e } } } ^ { \\mathfrak { p } }$ ,arrowhead). (f-f\") UAS-vps35RNAi and UAS-xbp1RNAi were coexpressed using enGal4.The ectopic Bip expression induced by vps35 knockdown was dramatically suppressed by xbp1 depletion (indicated by arrowhead in f\"). $( \\mathbf { g } { \\cdot } \\mathbf { g } ^ { \\mathfrak { W } } )$ UAS-porcRNAi was expressed using ciGal4.Wg was accumulated in its expressing cells $\\mathbf { \\rho } ( \\mathbf { g } ^ { \\prime } )$ . Bip was ectopically expressed in the wg-expressing cells $\\big ( \\mathbf { g } ^ { \\flat }$ ,arrow and arrowhead). Scale bar $= 5 0 \\mu \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wnt secretion and ER stress are two fundamental biological proceses that participate in diverse biological and pathophysiological processes.The correlation between these processs remains poorly understood.Wnt proteins play roles in a cell non-autonomous fashion.However,thecell-autonomous effect of unsecreted Wnts is stil unknown.It has been reported that deletion of $\\dot { p } 2 4$ genes activates an ER stress response which alleviates the deleterious effects of the $p 2 4$ deletion38.39. As the P24 family of proteins controls $\\mathrm { w g }$ secretion by regulating the ER export of $\\mathrm { W g } ^ { 2 2 , 2 3 }$ ,this data ledus to pursue the possibility that unsecreted $\\mathrm { w g }$ triggers ER stress. Our new findings yielded a new concept that unsecreted $\\mathrm { w g }$ can cell-autonomously trigger ER stress. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/416d2083b368497d18c13fa5e282db3c4ea8014759db36dd0ca5af1bb6e31c66.jpg",
+        "img_caption": [
+            "Figure 4. Human Wnt5a acts as an ER stress initiator in mammalian cells. (a) HEK293Tcels were transfected with xbpl-GFP,and then were treated with Thapsigargin (TG, $2 \\mu \\mathrm { M } )$ for $1 2 \\mathrm { h }$ at $2 4 \\mathrm { h }$ posttransfection for inducing ER stress.The splicingof xbp1 was detected by anti-GFP antibody.(b)HEK293Tcells were co-transfected with xbp1-GFPand wnt5a-flag-KDEL.GFP and Flag antibodies were used for detecting the spliced Xbpl and hWnt5a,respectively. (c)HeLacells were transfected with xbp1-GFP,or together with hWnt5a-flag-KDELataratioof1:3.Portions of xbp1-GFP-transfected wells were treated with TGas positive control.The spliced Xbp1 was indicated by GFP signal.The expression ofhWnt5a was indicated byFlag staining (red).(d) The cels with visible GFP expression were calculated and quantified.Data represent the Mean $\\pm$ SEM (t-test, $\\mathsf { \\Psi } ^ { * * * } \\mathrm { P } < 0 . 0 0 1$ $\\mathrm { \\Delta } \\mathrm { n } = 1 0$ random selected fields).(e)HEK293Tcells that stably expressed hWnt5a-Flag were transfected with hWls siRNA.The transfected cels were washed twiceat72hr post-transfection forlysis.Lysate was immunobloted with Grp78,Flag and Tubulin antibodies.(f) The knockdown efficiency of $h W l s$ siRNAs was detected by real-time PCR.(g)The relative levels of GRP78 as shown in (e)were quantified after normalization against Tubulin. Values represent the Mean $\\pm \\mathrm { S . E . M }$ . (student's $t$ -test, $\\mathrm { n } = 3$ ${ ^ { * } \\mathrm { P } } < 0 . 0 5$ ${ \\sf * * } { \\sf P } < 0 . 0 1$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,we identified that miR- $. 3 0 7 a$ inhibits $\\mathrm { w g }$ secretion through targeting wls.Intriguingly,we found that overexpression of $m i R \\allowbreak – 3 0 7 a$ induces ER stress specifically in the wg-expressing cells.This phenotype could be mimicked by retromer lossof-function or porc depletion and could be rescued by wg knockdown,suggesting that unsecreted $\\mathrm { w g }$ triggers ER stress.We hypothesized that the transiently Golgi-accumulated $\\mathrm { w g }$ was retrieved to ER thereby inducing ER stress.Previous studies have demonstrated that COPI governs the retrograde Golgi-to-ER transportby recognition of the C-terminal KKxx-motifoftype Itransmembrane proteins35.6. Coincidently, there is a KKVY sequence in the C-terminal of Wg.Byfurther in vivo assay, we found that the K-to-R mutant form of Wg lost the ability to trigger ER stress,suggesting that the KKVY-motif of $\\mathrm { w g }$ is required for its retrieval and ER stress induction. Since Wg is a protein on the luminal side,it is most unlikely that $\\mathrm { w g }$ was directly recognized by COPI. Given this,we suppose thatthere could be another transmembrane bridge protein(s) mediating the interaction of $\\mathrm { w g }$ with COPI. Through the alignment of Drosophila P24 family of proteins, wefound atypical COPI-recognized KKxx-motif(KKLV)inthe C-terminal ofEclair(Eca).Interestingly, ithas been demonstrated that Eca is required for the ER-to-Golgi anterograde of $\\mathrm { W g ^ { 2 3 } }$ .Together,it raised a possibility that Ecais retrievedback to theERby COPI for reuse.The interactionbetween Ecaand Wg may facilitate the retrieval ofWg.However,whether the KKVY-motifof Wg mediatesits interaction with Eca inthe retrieval route needs to be further investigated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next, we tested whether knockdown of COPI can suppress the ER stress caused by wls depletion.But, we surprisingly found that downregulation of COPI unexpectedly disrupted $\\mathrm { w g }$ secretion and triggered ER stress. This phenotype raised two possbilities:First,the regulators that control the ER-to-Golgi transport of $\\mathrm { w g }$ might be retrieved to the ER for reuse by COPI(as discussed above).In this case,COPIloss-of-function could block the retrieval of these regulators,thereby indirectly inhibiting Wg secretionand inducing ER stres.Second, Wls is retrieved from Golgi to ERby COPI to facilitate $\\mathrm { w g }$ secretion.In this case,COPI loss-of-function will block the retrieval of Wls,thus increasing the ER retention of newly synthesized $\\mathrm { w g }$ and initiating ER stress.The second posibility was supported bya recent study from Virshup lab.In that study, they identifieda C-terminal RKEAQE-motif of human Wls that can be recognized by COPIfor retrieval40.However,this motif is not very conserved in Drosophila Wls.Interestingly,theyshowed that Wls overexpression rescued the effcts of ERGIC2 (asubunit ofvertebrate COPI)depletion in X.laevis embryos40.However,inDrosophila,wefound that Wls overexpression failed to rescue the Wg secretion defect induced by $\\alpha C O P$ RNAi(Fig.6e-e\",h),which might be due to general efect upon COPI depletion. Alternatively, Wls might require COPI for the function.In addition, previous study has shown that $\\mathrm { w g }$ colocalized with Golgi-localized Wls18,and the Golgi-localization of the EE-to-TGN recycled Wls depends on the levels of $\\mathrm { W g ^ { 1 8 } }$ These data suggested that Wls encounters with Wg predominantly in the Golgiapparatus and the stabilityof Wls mightbe depended on its interaction with Wg.Moreover,ifWls is indeed retrieved to the ER to bind Wg,blocking the ER export of $\\mathrm { w g }$ should not influence the interaction of Wls with Wg.However, blocking theER exportof Wgby knockdownof P24 proteins reduced the punctuate patrn of Wls in wg-expressing cells23,suggesting that the interaction of Wls with $\\mathrm { w g }$ was decreased. Consistently, we found that increasing the ER retention ofWg by porc knockdown also reducedthe Wls levels (Fig.3g).These data suggested consistent withthe idea that Drosophila Wls may not be retrieved to the ER by COPI.The molecular mechanism regarding the Drosophila Wls retrieval in vivo needs to be further investigated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab061782af08bab0adee58bbea3187e694d7049f994721bca17fb21e3f511294.jpg",
+        "img_caption": [
+            "Figure5.AC-terminal KKVY-motif of Wg mediates its Golgi-to-ER retrieval.(a-a) UAS-vps35RNAi was driven byhhGal4carrying sqh-eYFP-Golgi transgene.Wg was accumulated in the posterior wg-expresing cells (arrowhead ina).The colocalizationofunsecreted Wg with Golgi marker was mildly enhanced (arrows ina') compared with the wild-type control. $( { \\bf { b } } { \\cdot } { \\bf { b } } ^ { { \\prime } { \\prime } } )$ UAS-vps35RNAi was expressed using hhGal4.The unsecreted Wg shows increasing of colocalization with the ER marker,KDEL (arrows in $\\mathbf { b } ^ { \\prime } , \\mathbf { b } ^ { \\prime \\prime } .$ ） $( \\mathbf { b } ^ { \\mathfrak { P } } )$ shows the side-view of $\\mathrm { w g }$ 1 expressing cells. Z-section images were taken from apical to basal of (b). (c) Cross sections were cutalong the Wgexpressing region for colocalizationanalysis.The Pearsons Corelation (PC)value represents the colocalization of Wg with KDEL.The colcalization ofunsecreted Wg with KDEL was significantly increased compared with the wild-type control. Data represent the Mean $\\pm$ SEM (t-test, $\\mathtt { n } = 1 0$ $^ { \\ast \\ast \\ast \\ast \\mathrm { { } } } \\mathrm { { P } } < 0 . 0 0 0 1 \\mathrm { { } } ,$ ！ $( { \\bf d } { \\cdot } { \\bf e } ^ { \\gamma } )$ Ectopic expression of Sens can be induced by either UAS-wg or $U A S  – * w g ( K 3 3 4 K > R 3 3 4 R )$ driven by dppGal4. $\\left( \\mathbf { f - g } ^ { \\prime } \\right)$ UAS-wg or $U A S  – * w g ( K 3 3 4 K > R 3 3 4 R )$ was co-expressed with UAS-wlsRNAi using dppGal4,respectively. The genetic crosses andimmunostaining were performed under the same condition.Images were taken with same laser setting on the confocal microscope. The accumulation of wild-type $\\mathrm { w g }$ in its expressing cells induces remarkable ectopic Bip expression (arrowheads in f).Whereas,the K-to-R mutant form of Wg does not show obvious induction of ectopic Bip (arrowheads in g). (h-i) UAS-wg or $U A S – w g ( K 3 3 4 K > R 3 3 4 R )$ was co-expressed with UAS-wlsRNAi and UAS-GFP-KDEL using dppGal4, respectively. Z-stack sections were taken with same laser setting on the confocal microscope.The subcellular distribution of Wg or $\\operatorname { W g } ( \\mathbb { K } > \\mathbb { R } )$ was shown in the lower panel. The colocalization of $\\mathrm { w g }$ or $\\operatorname { W g } ( \\mathbb { K } > \\mathbb { R } )$ with GFP-KDEL was shown in the right panel. (j) Cross sections were cut along the dppGal4-expressing region forcolocalization analysis.Comparing with the wild-type Wg,the K-to-R mutant form of $\\mathrm { w g }$ shows weaker colocalization with GFP-KDEL.Data represent the Mean $\\pm$ SEM (t-test, $\\mathrm { n } = 1 5$ 0 $^ { \\ast \\ast \\ast \\ast \\ast } \\mathrm { P } < 0 . 0 0 0 1 \\mathrm { \\cdot }$ ).The Wg dilution used in this Figure was 1:20.Scale bars in $( \\mathbf { a } , \\mathbf { b } , \\mathbf { h } , \\mathbf { i } )$ （204 $1 0 \\mu \\mathrm { m } ;$ (d-g) $5 0 \\mu \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dac23ca0afeb9ee9fe20799638ffd3172b6eba7f4beeb8a733899c0c47374933.jpg",
+        "img_caption": [
+            "Figure 6.COPI regulates $\\mathbf { w _ { g } }$ secretion and ER stress initiation. (a) $\\mathrm { w g }$ staining in the wild-type wing disc. (a) Enlarged view of the gray box region in (a). (b-b) UAS-βCOPRNAi was expressed using C96Gal4. Wg secretion was disrupted by $\\beta C O P$ knockdown. The secreted punctate structures of $\\mathrm { w g }$ were dramatically reduced (indicated by arrows in $\\mathbf { b } ^ { \\prime }$ ） $( \\mathbf { c - c } ^ { \\mathbf { { w } } } )$ Depletion of $\\alpha C O P$ using C96Gal4 generated same phenotype (shown in $\\mathbf { c } ^ { \\prime }$ ） Ectopic Bip induction was also observed along the D/V boundary (shown in $\\mathbf { c } ^ { \\mathfrak { p } }$ ).(d) The ectopic Bip expression was suppressed bywgknockdown.(e-e\") UAS-wls and UAS $\\alpha$ COPRNAi were co-expressed by C96Gal4 driver. $\\alpha C O P$ depletion-induced Wg secretion defectcannot be rescued by wls overexpression (arrows ind'). (f)Adult wing of C96Gal4. $\\left( \\mathbf { g } { \\mathbf { - g } } ^ { } \\right)$ UAS $\\alpha$ COPRNAi or UAS-βCOPRNAi was expressed using C96Gal4. Knockdown either ofthem induced obvious wing notches (indicated byarrowheads in d,d\"). (h) Overexpression of wls failed to rescue the wing notching phenotype induced by $\\alpha C O P$ knockdown. Scale bars in (a-e) $5 0 \\mu \\mathrm { m } ;$ ： $( \\mathbf { a } , \\mathbf { b } , \\mathbf { c } , \\mathbf { e } ^ { \\prime } )$ （204号 $2 0 \\mu \\mathrm { m }$ = "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Several components of the UPR have been shown to play a protective role against the progresson of disease41.In this study, we found that Wls dysfunction-induced ER stress buffers the toxicity ofunsecreted $\\mathrm { w g }$ during development,while the detailed mechanisms need to be further addressed. Additionall, previous study reported that tumour hypoxia blocks Wnt secretion through inducing ER stress42. Together with our findings, whethera feedback loop exists between Wnt secretion and ER stress remains to be elucidated.Mutations in human porcupine (porcn)cause the X-linked dominant disorder focal dermal hypoplasia (FDH,also known as Goltz syndrome)43,44.Vps35,a component ofthe retromer complex,has been found to be often mutated in PD patients45,46. Whether unsecreted Wg-induced ER stressplays arole in these diseases is a promising topic.In summary, we discoveredaretrograde routeofWgfromthe Golgito the ER and elucidatedacorrelation between Wnt secretion andER stres.Given the critical roles of aberrant Wnt signalingand ER stress in the pathogenesis of human diseases,identifying regulators that connect these two processes willfacilitate approaches for therapeutic intervention. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Drosophila strains.The enGal4,hhGal4,apGal4,ciGal4,dppGal4,C96Gal4 and wg-lacZ were as described in FlyBase.The UAS-wlsRNAi (103812), UAS-wlsRNAi(5214),UAS-porcRNAi (47864), UAS-snx3RNAi (104494), UAS-vps26RNAi (18396),UAS-αCOPRNAi (35305)and UAS-βCOPRNAi(15418) were obtained from the Vienna Drosophila RNAi Center.The UAS-bipRNAi(HMS00397),UAS-xbp1RNAi (HMS03015)and UAS-wgRNAi (HMS00844) were obtained from the Drosophila RNAi Screen Center at Harvard Medical School. UAS-bip (5843),sqh-eYFP-golgi(7193),sqh-eYFP-ER(7195),UAS-GFP-KDEL(9898)and UAS-GRASP65-GFP(8507) was obtained from Bloomington Drosophila Stock Center. UAS-vps35RNAi and UAS-wls were described previously15. UAS-GFP-miR-307a, UAS-DsRed-miR-307a-sponge,UAS-wg,UAS-wg( $K ^ { 3 3 4 } K { > } R ^ { 3 3 4 } R )$ ,tub-EGFP,tub-EGFP-miR307a-sensor and tub-DsRed-wls- $3 ^ { \\prime }$ UTR transgenes were generated in this study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plasmid construction. To generate the $\\boldsymbol { p }$ WALIUM10-moe-GFP-GPI-miR-307a,714 bp of genomic DNA surrounding miR-307a was amplified byPCR and cloned downstream of GFP-GPI in the NheI site of $\\dot { P } ^ { W A L I } \\cdot$ UM10-moe-GFP-GPI vector30. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Forward: $5 ^ { \\prime }$ -CGGCTAGCCGGAACGAGGATTCTG- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -CGGCTAGCCCTGATGGTTTAAGTCCTG- $. 3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate the pWALIUM10-moe-DsRed-miR-307a-sponge,the folowing sequence was designed as described $\\mathrm { i n ^ { 4 7 } }$ ,and then directly cloned into $\\boldsymbol { p }$ WALIUM10-moe-DsRed through BglI and NdeI sites. The sequence is: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$5 ^ { \\prime }$ -AGATCTCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGAAATCCTCACTCAGATGGTTGTGACATATG- $. 3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate the pCaSpeR-tub-EGFP-miR307a-sensor,the folowing primers were annealed and then cloned into pCaSpeR-tub-EGFP vector (a gift from T.Kai) through NotI and XhoI sites.The primers are: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Forward: $5 ^ { \\prime }$ -GGCCGCCTCACTCAAGGAGGTTGTGAAATCACACCTCACTCAAGGAGGTTGTGAC- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -TCGAGTCACAACCTCCTTGAGTGAGGTGTGATTTCACAACCTCCTTGAGTGAGGC- $3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate the pCaSpeR-tub-DsRed-wls- $3 ^ { \\prime }$ UTR,a 609 bp fragment of the Wls $3 ^ { \\prime } \\mathrm { U T R }$ was amplified by PCR from wild-type genomic DNA and cloned downstream of pCaSpeR-tub-DsRed through NotI and XhoI sites.The primers are: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Forward: $5 ^ { \\prime }$ -AAAGCGGCCGCGCGGAAGGACTCGAATTATTG- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -GGGCTCGAGCAATATTGCTTTTTATTCGATGCA- $. 3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate the UAS-wg construct,the ful-length cDNA of wg was cloned into the $\\boldsymbol { p }$ UAST-attB vector through VotI and XhaI sites.The primers are: Forward: $5 ^ { \\prime }$ -AAAGCGGCCGCATGGATATCAGCTATATCTTCGTC- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -GGGTCTAGATTACAGACACGTGTAGATGACC- $3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A similar strategy was used to make the $U A S  – w g ( K ^ { 3 3 4 } K > R ^ { 3 3 4 } R )$ . The point mutation was generated by PCR sing the following primers: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Forward: $5 ^ { \\prime }$ -GCTGTGTCGGACCCGACGGGTCATCTACACGTGTCTGTAATCTAG- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -CACGTGTAGATGACCCGTCGGGTCCGACACAGCTTGCACTTCACCTCG- $. 3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate the pEGFP-N1-xbp1,a 596bp fragment of xbpl (from 49 to 644) was cloned into pEGFP-N1 :hrough EcoRI and BamHI sites. The primers are: Forward: $5 ^ { \\prime }$ -GGGGAATTCATGGTGGTGGTGGCAGCC- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -AAAGGATCCCGTGAATCTGAAGAGTCAATACCGCC- $3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To generate $p S I N .$ -wnt5a-flag, primers containing flag sequence were designed to amplify wnt5a from the plasmid pcDNA3.1-wnt5a (a gift from Q. Tao).The primers are: Forward: $5 ^ { \\prime }$ -AAAGAATTCTTACAGTTCATCCTTCTTGCACACAAACTGGTCCAC- $3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -AAAGAATTCTTACAGTTCATCCTTCTTGCAGGTGTGCACGTCG- $. 3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similar strategy was used to generate the pcDNA3.1-wnt5a-flag-KDEL.The primers used are: Forward: $5 ^ { \\prime }$ -GGGACTAGTATGGCTGGAAGTGCAATGTC- ${ \\cdot } 3 ^ { \\prime }$ Reverse: $5 ^ { \\prime }$ -AAAGGATCCTCACTTATCGTCGTCATCCTTGTAATCCTTGCACACAAACTGGTCCAC",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cell culture,transfectionand western blot.HEK293Tand HeLa cellines were cultured in DMEM supplemented with $1 0 \\%$ fetal bovine serum (Gibco), $5 0 \\mathrm { U / m l }$ penicillin, $5 0 \\mu \\mathrm { g } / \\mathrm { m l }$ streptomycin, in $5 \\%$ $\\mathrm { C O } _ { 2 }$ atmosphere at $3 7 ^ { \\circ } \\mathrm { C } .$ Plasmid transfection was carried out using LipofectAMINE(Invitrogen) according to manufacturer's instructions. $2 \\mu \\mathrm { M }$ Thapsigargin (Enzo Life Sciences) was used to induce ER stress.The primary antibodies used for western blotwere rabbitanti-Grp78 (CellSignaling Technology),mouse anti-Flag(Sigma),abbit anti-GFP (Invitrogen) and mouse anti- $\\cdot \\ \\beta$ -Tubulin (CWBiotech). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Immunostaining and microsopy.Antibody staining of wing imaginal discs or cels was performed using standard protocols.The following primary antibodies were used: rat anti-Bip (MAC143,Abcam), mouse anti-Wg (4D4; DSHB),guinea pig anti-Sens31,rabbit anti- $\\mathsf { W l s } ^ { 2 1 }$ ,rabbit anti-GFP Alexa Fluor 488 (Molecular Probe), mouse anti-lacZ (Abmart),Rat anti-KDEL (Abcam),and Rabbit anti-GM130 (Abcam).The nuclei were stained by Hoechst 3258 (Sigma).The primaryantibodies were detected by fluorescent-conjugated secondary antibodies from Jackson ImmunoResearch Laboratories. Confocal images were colected using a Lecia TCS SP5 confocal microscope with 40X/1.25 oil objectives.Adult thoracic bristle and wing images were obtained using a Nikon SMZ1500 microscope.Z-section images were taken with a ZeissLSM780 confocal microscope with 40X/1.3 oil objectives for the colocalizationanalysis.Fordetermination of the Pearson's correlation coeffcient,the JACoP plugin48 for ImageJ was applied. Images were processed with ImageJ and Adobe Photoshop. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. Statistical analyses were performed using the Graphpad Prism 6 software package. Statistical significance (Pvalues)ofthe results was calculated byunpaired two-tailed Student's test.Dataare presented as the Mean $\\pm$ SEM, $^ { * } \\mathrm { P } < 0 . 0 5$ $^ { * * } \\mathrm { P } < 0 . 0 1$ ， $\\mathsf { \\Psi } ^ { \\ast \\ast \\ast \\ast } \\mathrm { P } < 0 . 0 0 1$ and $^ { * * * * } \\mathrm { P } < 0 . 0 0 0 1$ denote statistical significance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "9-26 (2009).   \n2. Clevers,H.& Nusse,R.Wnt/beta-catenin signaling and disease.Cell149,1192-1205 (2012).   \n3.He,P,Hausmann,G.&Basler,K.WNscretionndgnallinginumandisease.Tends inmolecularmedicine1,83-493 (2012).   \n4.Takada,Retalonousturaedfatidoatiofntproein:itseinntcretievelometalcell (2006).   \n5.vandenHuel,nos,Cgesith,Jimon,.&usse,.tatisientplaiy wingless and porcupine impair secretionof the wingless protein.The EMBO journal 12,5293-5302 (1993).   \n6.Her,P.&asler,KPorcupine-mediatedipidationisequiredforWntrecognitionbyWs.Developmentalblog6,92402 (2012).   \n7.Tang,X.etal.RolesofNglycoslationandlipidatioinWgsecretioandsignalingDevelopmentalbiology64,3-4(02).   \n8.Banziger,C.etalWntles,onseedmeraeproteinedcatedtoeetioofntproteisfrognagcelCell, 509-522 (2006).   \n9.Bartscherer,K,Pelte,NIgelfnger,.&outros,.ecretionofWntlgandsrequiresEvi,servedtransmembanetein. Cell125,523-533 (2006)   \n10. Goodman,R.M. et al. Sprinter: anovel transmembrane protein requiredfor Wg secretion and signaling. Development33, 4901-4911 (2006).   \n11. Fu,J,Jiang,M.,and,A.Ju,H..&HsuWReciroalregulatinofWnandGpr77/mouseWntlessisedfor embryoniaisfrmationrocdingsofthetonalAcdemyofenceoftheUnitedtesofmerica598-6(009).   \n12.Kim,H.etalXenosntessdromompleoeatetlatet4eetioolecurdlroo 2118-2128 (2009).   \n13.Gasnere,,seK&,tce protein,eetialforitsecclingandthecontrolofWntproteinsignalingeJouralofoogicalchemistry6,43243 (2011).   \n14.Bonifacino,J.S.&Hurley,J.H.Retromer.Current opinion in cellbiology 20,427-436 (2008).   \n15.Belenkaya,T.Y.etal.Thretromercomplexinfuences Wntsecretionbyrecyclingwntlesfromendosoms tothetrans-Golgi network.Developmental cell14,120-131(2008).   \n16.Franc-Maro,X.etal.Winglessecetionrequiresendosoe-t-GolgiretrievalofWts/Evi/Sprinterbytheretromemplex. Nature cellbiology10,170-177(2008).   \n17.Pan,C.Ltal.C.gasA-2erootrolntsigingglatingg-/tlessevelometalcel9 (2008).   \n18.Port,F.etalWingesecretionpromotesandrequiresrtromerdependentcingofntles.Naturecellology,7885 (2008).   \n19.Yang,PTetal.WntsignalingeqesretromerdependentreclingofG-/WntlessinWnt-producingcell.Develoental cell14,140-147(2008)   \n20.Harterink,M.etal.SNX-dependentretromerpathwaymediatesretrogradetransportoftheWntsortingreceptorWntlesandis required for Wnt secretion. Nature cellbiology 13,914-923 (2011).   \n21. Zhang,P,Wu,Y,Belenkaya,T.Y.&Lin,X.SNX3controls Wingles/Wntsecretionthroughregulatingretromer-dependent recycling of Wntless.Cellresearch 21,1677-1690 (2011).   \n22.Buechling,T,CauaryV,ron,K.,Weis,M.&outros,M.p24proteinsarereqiredforeretionofWntlis reports 12,1265-1272 (2011).   \n23.Port,E,Hausman,G.&Basler,K.Agnome-ideRAinterferencesreenncovers two4proteinsasrguatorsofWingle secretion.EMBO reports12,1144-1152 (2011).   \n24.Silver,S.Jagn,JWaura,Kerro,N.&L.C.coalengdensotentcitor Winglesssignaling.ProceedingsoftheNationalAcademyofSciencesoftheUnitedStatesofAmerica104,1151-1856(2007).   \n25.KennellJA,Grin,I,acDougald,O.A.&Cadigan,K.M.emicroRAmi-8isonservednegativereguatorofWnt signaling.ProceedingsoftheNationalAcademyofSciencesofthe UnitedStatesofAmerica105,15417-15422 (2008).   \n26.Hetz,C.eunfodedproteinresponse:controllingcellfatedecisionsunderERstressandeyond.Nturereviews.Molecularcel biology 13,89-102 (2012).   \n27.Matus,S.Gcher,LH.&Htz,C.Proteinflngstressineurodegeeatiediseases:alpsetoE.Cuentionn cell biology23,239-252 (2011).   \n28.Rubin,D.M.etalGenoicructureandsequenceanalysisofosilamelanogasterC0gens.Gene8,5-6(993).   \n29.Ryoo,H.D,omingosP,Kang.J.&Steler,H.Unfoldedproteinresponseinrosopilaodelfrrtialdegaio The EMBO journal 26,242-252 (2007).   \n30.Wu,L.Fetlrooila-5uppresssHedgeognaingbitlygengSohedFEBettrs46 (2012).   \n31.Nolo,R,ot,LA.&ellnH.JessZertrastcsntf development in Drosophila.Cell102,349-362 (2000).   \n32.Enright,A.J.et al.MicroRNA targets inDrosophila.Genome biology5,R1(2003).   \n33.Ruby,J.Gtsetptisballdo Genome research 17,1850-1864 (2007).   \n34.Iwawaki,T.,Akai,R.,Kohno,K.& Miura,M.Atransgenic mouse modelformonitoringendoplasmicreticulumstre.Nture medicine10,98-102 (2004).   \n35.Duden,R.ER-to-Golgitransport:COPandCOPIIfunction(Review).Molecularmembranebiology20197-207(2003).   \n36.Ma,W.&Golberg,JRulesfortherecognitionofdilysineretrievalmotifsbycoatomer.TheEMBOjoural3,926-937(013).   \n37. Gaynor,E.C.,Graham,T.R.&Emr,S.D.COPI inER/Golgi and intra-Golgi transport: do yeast COPI mutants point the way? Biochimicaetbiophysicaacta1404,33-51(1998).   \n38.Belden,W.J.&arloe,C.Deletionofyeastp24genesactivatestheufoldedproteinresponse.Molecularbiologyofthecell12, 957-969 (2001).   \n39.Boltz,K.A.&CareyG.E.LosofpfunctioinrooilaeanogstercsesatrsesponseandinceasedevelsofNkappaB-regulated gene products.BMC genomics 9,212 (2008).   \n40.Yu,J.etaletrogadesrtooasceiugteioeelopealcell94).   \n41.Wang,S.&Kaufman,R.JTeimpactofteunfoldedproteinesponseonumandisease.TeJournalofellology97,85-867 (2012).   \n42.Verras,Mpandreu,I,Li,A.L.&enkoN.C.umorhoxiabocksWntproceingndcretitroughthuctiof endoplasmic reticulum stress.Molecular and cellular biology 28,7212-7224(2008).   \n43.Grzeschik,K.H.ealenf,gulatrofsialingsoatedithoalralopsia.rei 39,833-835 (2007).   \n44.Wang,X.etal.utatiosinXnkedPORCN,putativeregulatorofWntgnalingausefocalderalhypopasia.Ntureetics 39,836-838 (2007).   \n45.Vilarino-Guell,C.etalVPS35mutationsinParkinsondisease.American journalofhuman genetics89,62-16(2011).   \n46.Zimprich,A.etal.AmutatioinVS35,encoingsbunitfteretromercomplexuseslateonsetParkinsodiseaseArican journal of human genetics 89,168-175 (2011).   \n47.Ebert,M..Neilson,J.R.&arp,PA.icroRAsponges:competitiveiitorsofsallAsinammaliacelsNtue methods4,721-726 (2007).   \n48.Bolte,S.&Cordeliees,PAguidedtourintosubellarolocalzatioaalysisinlgticrooyJoualofmicoo4 213-232 (2006). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank H.Bellen and the Iowa Developmental Studies Hybridoma Bank for antibodies; the Bloomington Stock Centerand ViennaDrosophilaRNAiCentre forflystocks;T.Kai and Q.Tao forreagent;andL.Rayfor comments on the manuscript.I would like to thank H.Lorenz from the ZMBH Imaging Facility for assistance.This work was supported by grants from the National Natural ScienceFoundationof China (81200993 to P.Z,81125010 and 81030025 to Z.Y),andthe MinistryofScience and TechnologyofChina (973-2012CB910701 and 2013DFA31990 to Z.Y.). X.L. is supported by grants from the National Basic Research Program of China (2011CB943901),and from NIH (2R01 GM063891). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AuthorContributions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "P.Z.and Z.Y.conceived the project.P.Z.designed the experiments.The experiments were performed by P.Z.,L.Z.   \nand C.P.The data were analysed by P.Z.,L.Z.and X.L provided reagents and comments on the manuscript.P.Z.   \nwrote the manuscript. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Howto cite thisarticle: Zhang,P.etal.DysfunctionofWntlesstriggers the retrograde Golgi-to-ER transportof Wingless and induces ER stress.Sci.Rep.6,19418;doi: 10.1038/srep19418 (2016). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this articleare included in the article's Creative Commons license, unless indicated otherwise in the credit line;if the material is notincluded under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 10
+    }
+]

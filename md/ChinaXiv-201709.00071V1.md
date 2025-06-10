@@ -1,0 +1,412 @@
+# Dark Matter and Gauge Coupling Unification in A Supersymmetry Model with Vector-like Matter
+
+Chun Liu and Jia-Shu Lu   
+State Key Laboratory of Theoretical Physics and   
+Kavli Institute for Theoretical Physics China,   
+Institute of Theoretical Physics， Chinese Academy of Sciences,   
+P.O. Box 2735， Beijing 100190, China\*   
+(Dated: May 2,2013)   
+Abstract
+
+WIMP dark matter and gauge coupling unification are considered in an R-parity violating MSSM with vector-like matter. Dark matter is contained in an additional vector-like SU $( 2 ) _ { L }$ doublet which possesses a new U(1) gauge symmetry. The Higgs fields are extended to be in a $\mathbf { 5 } \oplus \bar { \mathbf { 5 } }$ representation of SU(5). The stability of dark matter is a result of gauge symmetries, and the mass of the dark matter particle is between (1.1-1.5) TeV. Dark matter has a very small cross section with nucleis,thus the model is consistent with current dark matter direct detection experiments such as XenonlOo. The model also predicts new charged and colored particles to be observed at LHC.
+
+PACS numbers: 95.35.+d, 12.60.Jv, 14.80.-j
+
+# I. INTRODUCTION
+
+Dark matter is one of the most important problems in elementary physics [1]. It plays a very important role in understanding some astro-physical observation. If dark matter particles are thermally produced in the early Universe,an attractive scenario appears, namely that the dark matter particle has a hundreds GeV mass with typically weak interaction [2]. The weakly interacting massive particle (WIMP） scenario of dark matter is interesting for particle physics. In high energy physics experiments searching for the electro-weak symmetry breaking (EWSB) mechanism, WIMP should be found in the near future.
+
+The particle physics beyond the Standard Model (SM) has the following main stream logic. SM gauge interactions unify at a high scale ( $\sim ~ 1 0 ^ { 1 6 }$ ） GeV [3]. Supersymmetry (SUSY) [4] is then required to stabilize the Higgs mass. The minimal SUSY extension of SM(MSSM) which necessarily involves two Higgs doublets makes the idea of the grand unification theory (GUT) more meaningful due to LEP data [5]. WIMP dark matter is right the lightest neutralino [2] by further assuming R-parity conservation,.
+
+We will work in the SUSY paradigm without assuming R-parity conservation. R-parity conservation is usually adopted to avoid rapid decays of the proton， however, it lacks of motivation from first principles. Instead, we can only assume baryon number conservation which is also phenomenologically viable. R-parity violation makes things more complicated. The lightest neutralino is no longer stable. To have dark matter, new particles are needed then.To keep dark matter WIMPs,the simplest realization is to introduce a vector-like SU $( 2 ) _ { L }$ doublet, like the two Higgs doublets in MSSM, with a weak scale mass. We take one fermionic neutral component of the new doublet superfields as the dark matter particle. Its stability requires a new symmetry which is a gauge symmetry. The necessity of a new gauge symmetry, instead of a discrete symmetry, lies in the following point. The elastic scattering of the dark matter particle via a $Z$ boson exchange should be suppressed. In our case, the dark matter particle is not really a Dirac one, because spontaneous breaking of the new gauge symmetry splits the neutral particle spectrum. As a result， dark matter and the $Z$ （204号 boson interaction is almost inelastic.
+
+Now we consider how to let the new dark matter particle content compatible with gauge coupling unification. Because one vector-like doublet is introduced, in addition to the particles of MSSM, gauge coupling constants would no longer unify in this case. GUT relation of gauge coupling constants could be restored if some colored particles are further added so that all the new particles form complete representations of GUT [6,7]. Alternatively, we can keep the dark matter sector as simple as possible, namely it is just SUSY two-Higgs-doublet alike,but we attach the new colored particles with the two Higgs doublets. In an effort of extending MSSM, we proposed that Higgses are understood as sleptons of an extra vectorlike generation [8]. In that model, GUT was lost,and there was no dark matter candidates. It is interesting to note that whence we consider the above discussed dark matter scenario, GUT relation of the gauge coupling constants can be restored. This will make the whole low energy SUSY model more meaningful.
+
+However， careful consideration about running gauge coupling constants tells us that things are not that easy and straightforward. The particle content of the extra vectorlike generation [8] needs to be reduced. To avoid Landau poles of the coupling constants, new particles at the TeV scale cannot be that many. Instead of a TeV vector-like generation which would have both a $\mathbf { 5 } \oplus \bar { \mathbf { 5 } }$ and a $\mathbf { 1 0 } \oplus \mathbf { 1 0 }$ representations, we are only allowed to have a TeV $\mathbf { 5 \oplus 5 }$ in which the two Higgs doublets are contained. Therefore, as far as the Higgs content is concerned, we return back to the ordinary GUT. Here the new point is that the 5 representation will mix with ordinary three generation fermions,and the triplet Higgs mass is around TeV. We impose by hand at the moment baryon number conservation.
+
+In the next section, we present the model which includes the dark matter sector. In Sect. III, dark matter properties and collider phenomenology are analyzed. Discussions and the summary are given in the last two sections.
+
+# II. MODEL
+
+Let us first look at the SM relevant sector. Within the framework of SUSY and SU(3) $_ c \times$ SU $( 2 ) _ { L } \times$ U $( 1 ) _ { Y }$ gauge symmetry, the particle content is extended in a way that the two Higgs doublets are contained in a SU(5) $\mathbf { 5 \oplus 5 }$ representation. These vector-like particles have masses of (100-100o) GeV. Because of R-parity violation there is no dark matter particle.
+
+To include the dark matter sector, we note that all the particles already introduced are in full representations of SU(5) GUT. For the GUT purpose, the WIMP sector should be exactly composed of a pair of SU(2) $L$ doublets with opposite $\mathrm { U } ( 1 ) _ { Y }$ charges. This is the reason to take them SUSY two-Higgs-doublets-like. To avoid extra degrees of freedom which may violate GUT relation, the new interaction among the WIMPs should be another Abelian gauge interaction U $( 1 ) _ { n }$ . The U $( 1 ) _ { n }$ charge can be arranged so that after U $( 1 ) _ { n }$ breaking, an unbroken $\mathrm { Z _ { 2 } }$ symmetry will remain. This $\mathrm { Z _ { 2 } }$ symmetry makes dark matter stable.
+
+The model is SUSY SU $( 2 ) _ { L } \times$ U $( 1 ) _ { Y } \times$ SU $( 3 ) _ { c } \times$ U $( 1 ) _ { n }$ gauge symmetric one with baryon number conservation. The particle content is given below with their quantum numbers under above gauge symmetries and global baryon numbers,
+
+$$
+\begin{array} { c } { { L _ { m } ( 2 , - 1 , 1 , 0 , 0 ) , E _ { i } ^ { c } ( 1 , 2 , 1 , 0 , 0 ) , Q _ { i } ( 2 , \frac 1 3 , 3 , 0 , \frac 1 3 ) , U _ { i } ^ { c } ( 1 , - \frac 4 3 , \overline { { { 3 } } } , 0 , - \frac 1 3 ) , D _ { m } ^ { c } ( 1 , \frac 2 3 , \overline { { { 3 } } } , 0 , 0 ) } } \\ { { { } } } \\ { { H _ { u } ( 2 , 1 , 1 , 0 , 0 ) , D _ { H } ^ { c } ( 1 , - \frac 2 3 , 3 , 0 , \frac 1 3 ) , } } \end{array}
+$$
+
+and
+
+4 $\chi _ { 1 } ( 2 , - 1 , 1 , - 1 , 0 ) , \chi _ { 2 } ( 2 , 1 , 1 , 1 , 0 ) , \phi _ { 1 } ( 1 , 0 , 1 , - 2 , 0 ) , \phi _ { 2 } ( 1 , 0 , 1 , 2 , 0 ) , X ( 1 , 0 , 1 , 0 , 0 ) , \phi _ { 3 } ( 1 , 1 , 0 , 1 , - 3 , 0 ) , \phi _ { 4 } ( 1 , 0 , 1 , - 1 , 0 ) , \phi _ { 5 } ( 2 , 0 , 1 , 0 ) , \phi _ { 6 } ( 2 , 1 , 0 , 1 , 0 ) , X ( 1 , 0 , 1 , 0 ) , \phi _ { 7 } ( 2 , 0 , 1 , 0 ) .$ 0,0)
+
+Field notation is conventional, like $L$ stands for lepton doublets, $E ^ { c }$ for lepton singlets, $Q$ for quark doublets, $U ^ { c } \sim D ^ { c }$ for quark singlets and $H _ { u }$ for the up-type Higgs doublet. In Eq. (1)， $m = 1 - 4$ and $i = 1 - 3$ . One combination of $L _ { m }$ 's makes the down-type Higgs. In addition to the ordinary three generations, there is a vector-like 5-representation ( $L _ { 4 }$ ， $D _ { 4 } ^ { c }$ and $H _ { u }$ ， $D _ { H } ^ { c }$ ). The dark matter sector is given in Eq. (2). Two doublets $\chi _ { 1 , 2 }$ contain the WIMP, and $\phi _ { 1 , 2 }$ are the $\mathrm { U } ( 1 ) _ { n }$ breaking Higgs.
+
+# A. SM relevant part
+
+The superpotential of our sector containing the SM part can be written down. Instead of R-parity, baryon number conservation is assumed,
+
+W $ = \mu _ { m } L _ { m } H _ { u } + \mu _ { m } ^ { D } D _ { m } ^ { c } D _ { H } ^ { c } + \lambda _ { m n i } L _ { m } L _ { n } E _ { i } ^ { c } + \lambda _ { i m n } ^ { \prime } Q _ { i } L _ { m } D _ { n } ^ { c } + y _ { i j } Q _ { i } H _ { u } U _ { j } ^ { c } + \tilde { y } _ { i j } E _ { i } ^ { c } D _ { H } ^ { c } U _ { j } ^ { c }$ U，(3) where $\mu _ { m }$ 's are mass parameters, $\lambda ^ { ( \prime ) }$ ， $y$ and $\tilde { y }$ 's coefficients. By redefining the down-type Higgs and the fourth down-quark field,
+
+$$
+H _ { d } \equiv \frac { \mu _ { m } } { \mu } L _ { m } , D _ { 4 } ^ { c } \equiv \frac { \mu _ { m } ^ { D } } { \mu ^ { D } } D _ { m } ^ { c } ,
+$$
+
+where
+
+$$
+\mu \equiv \sqrt { \sum _ { m = 1 } ^ { 4 } \vert \mu _ { m } \vert ^ { 2 } } , \mu ^ { D } \equiv \sqrt { \sum _ { m = 1 } ^ { 4 } \vert \mu _ { m } ^ { D } \vert ^ { 2 } } ,
+$$
+
+the SM relevant superpotential becomes to be
+
+$$
+\begin{array} { l } { { \mathcal W = \mu H _ { d } H _ { u } + \mu ^ { D } D _ { 4 } ^ { c } D _ { H } ^ { c } + y _ { i j } ^ { l } L _ { i } H _ { d } E _ { j } ^ { c } + y _ { i j } ^ { d } Q _ { i } H _ { d } D _ { j } ^ { c } + y _ { i j } Q _ { i } H _ { u } U _ { j } ^ { c } } } \\ { { \ } } \\ { { + \lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \lambda _ { i j k } ^ { \prime } Q _ { i } L _ { j } D _ { k } ^ { c } + \lambda _ { i j } ^ { D } Q _ { i } L _ { j } D _ { 4 } ^ { c } + y _ { i } ^ { D } Q _ { i } H _ { d } D _ { 4 } ^ { c } + \tilde { y } _ { i j } E _ { i } ^ { c } D _ { H } ^ { c } U _ { j } ^ { c } , } } \end{array}
+$$
+
+where field decomposition have been generally written as follows,
+
+$$
+L _ { m } = c _ { m i } L _ { i } + c _ { m 4 } H _ { d } , D _ { m } ^ { c } = c _ { m i } ^ { D } D _ { i } ^ { c } + c _ { m 4 } ^ { D } D _ { 4 } ^ { c } ,
+$$
+
+and the coefficients are
+
+$$
+\begin{array} { r l } & { y _ { i j } ^ { l } = 2 \lambda _ { m n j } c _ { m i } c _ { n 4 } , y _ { i j } ^ { d } = \lambda _ { i m n } ^ { \prime } c _ { m 4 } c _ { n j } ^ { D } , \lambda _ { i j k } = \lambda _ { m n k } c _ { m i } c _ { n j } , } \\ & { \lambda _ { i j k } ^ { \prime } = \lambda _ { i m n } ^ { \prime } c _ { m j } c _ { n k } ^ { D } , \lambda _ { i j } ^ { D } = \lambda _ { i m n } ^ { \prime } c _ { m j } c _ { n 4 } ^ { D } , y _ { i } ^ { D } = \lambda _ { i m n } ^ { \prime } c _ { m 4 } c _ { n 4 } ^ { D } . } \end{array}
+$$
+
+From the superpotential (6)，we see that because of Dirac mass terms of up-type Higgs and the four doublet leptons, $D _ { H } ^ { c }$ and the four singlet down-quarks, one of the four lepton doublets and one of the down-quarks, namely the fourth doublet lepton $H _ { d }$ and the fourth singlet down-quark $D _ { 4 } ^ { c }$ are always heavy, $H _ { d }$ is identified as the down-type Higgs. The fourth neutrino together with the ”neutrino” in $H _ { u }$ consists of neutral Higgsinos. After the mass terms,the next five terms in Eq. (6) are ordinary Yukawa interactions and trilinear lepton number (R-parity） violating terms.The other three terms in (6) are new which involve the （204 ${ D } _ { 4 ( H ) } ^ { c }$ field.Two of them also violate lepton numbers.
+
+Soft SUSY breaking mass terms should be included into the Lagrangian. In addition to gaugino masses, they include mass-squared terms of scalars and $B \mu$ -type terms corresponding to those $\mu$ -terms in superpotential (3),
+
+$$
+\begin{array} { r l } & { - \mathcal { L } \supset M ^ { 2 } \tilde { L } _ { m } ^ { \dag } \tilde { L } _ { m } + M _ { h } ^ { 2 } h _ { u } ^ { \dag } h _ { u } + M _ { E } ^ { 2 } \tilde { E } _ { i } ^ { c \dag } \tilde { E } _ { i } ^ { c } + M _ { Q } ^ { 2 } \tilde { Q } _ { i } ^ { \dag } \tilde { Q } _ { i } + M _ { U } ^ { 2 } \tilde { U } _ { i } ^ { c \dag } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { D } _ { m } ^ { c \dag } \tilde { D } _ { n } ^ { c } } \\ & { \qquad + M _ { D H } ^ { 2 } \tilde { D } _ { H } ^ { c s } \tilde { D } _ { H } ^ { c } + \left( B \mu _ { m } \tilde { L } _ { m } h _ { u } + B ^ { D } \mu _ { m } ^ { D } \tilde { D } _ { m } ^ { c } \tilde { D } _ { H } ^ { c } + h . c . \right) , } \end{array}
+$$
+
+where tildes stand for scalars. We have assumed universality of the mass-squared terms and the alignment of the $B$ terms,namely both the mass parameters $B$ and $B ^ { D }$ do not depend on the sub-script $m$ . In terms of three light generations of Eq. (6),universality of these soft mass terms is easily seen,
+
+$$
+\begin{array} { r l }  \mathrm { ~ , ~ \supset ~ } M ^ { 2 } \tilde { L } _ { i } ^ { \dagger } \tilde { L } _ { i } + M ^ { 2 } h _ { d } ^ { \dagger } h _ { d } + M _ { h } ^ { 2 } h _ { u } ^ { \dagger } h _ { u } + M _ { E } ^ { 2 } \tilde { E } _ { i } ^ { c ^ { \dagger } } \tilde { E } _ { i } ^ { c } + M _ { Q } ^ { 2 } \tilde { Q } _ { i } ^ { \dagger } \tilde { Q } _ { i } + M _ { U } ^ { 2 } \tilde { U } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { Q } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c ^ { \dagger } } + M _ { D } ^ { 2 } \tilde { L } _ { i } ^ { c ^ { \dagger } } \tilde { U } _ { i } ^ { c ^ { \dagger } } + M _ { D } ^ { 2 } \tilde  \end{array}
+$$
+
+Numerically soft masses $M$ 's, $B$ 's and gaugino masses are assumed to be $\mathcal { O } ( 1 0 0 )$ GeV. Soft trilinear terms corresponding to Eq. (3) are
+
+$$
+\mathcal { L } \supset \bar { \lambda } _ { m n i } \tilde { L } _ { m } \tilde { L } _ { n } \tilde { E } _ { i } ^ { c } + \bar { \lambda } _ { i m n } ^ { \prime } \tilde { Q } _ { i } \tilde { L } _ { m } \tilde { D } _ { n } ^ { c } + \bar { y } _ { i j } \tilde { Q } _ { i } h _ { u } \tilde { U } _ { j } ^ { c } + \bar { \tilde { y } } _ { i j } \tilde { E } _ { i } ^ { c } \tilde { D } _ { H } ^ { c } \tilde { U } _ { j } ^ { c } + h . c . ,
+$$
+
+where the following coupling alignment will be assumed,
+
+$$
+\bar { \lambda } _ { m n i } = \lambda _ { m n i } m _ { 0 } , \bar { \lambda } _ { i m n } ^ { \prime } = \lambda _ { i m n } ^ { \prime } m _ { 0 } , \bar { y } _ { i j } = y _ { i j } m _ { 0 }
+$$
+
+with $m _ { 0 }$ being the order of soft masses $\sim \mathcal { O } ( 1 0 0 )$ GeV.
+
+Let us look at gauge symmetry breaking. From the Lagrangian, the scalar potential can be written down straightforwardly. To get EWSB, one needs a negative determinant of the Higgs mass-squared matrix, namely
+
+$$
+\left( M ^ { 2 } + \mu ^ { 2 } \right) \left( M _ { h } ^ { 2 } + \mu ^ { 2 } \right) < | B \mu | ^ { 2 }
+$$
+
+with the ordinary condition $M ^ { 2 } + M _ { h } ^ { 2 } + 2 \mu ^ { 2 } + 2 B \mu > 0$ . This requirement can be realized when the renormalization group is considered. $M _ { h } ^ { 2 }$ will become negative at the weak scale, due to the large top quark Yukawa coupling. Therefore, everything of EWSB here will be the same as that in MSSM. The MSSM analysis of EWSB applies here. EWSB in this model occurs at the weak scale. Besides Eq. (13), correct EWSB also requires
+
+$$
+\left( M _ { D } ^ { 2 } + \mu ^ { D 2 } \right) \left( M _ { D H } ^ { 2 } + \mu ^ { D 2 } \right) > | B ^ { D } \mu ^ { D } | ^ { 2 } .
+$$
+
+Then the remaining analysis of EWSB is identical to that of MSSM with same Higgs and Higgsino spectra. Eq. (14) can be satisfied easily. Carefully thinking of EWSB conditions Eqs. (13) and (14),we see that if $\mu < \mu ^ { D }$ ， EWSB occurs naturally.
+
+# B. Dark sector
+
+The dark matter sector Lagrangian is written according to the gauge invariance,
+
+$$
+\begin{array} { l } { { \mathrm {  ~ \Lambda ~ } _ { \mathrm { { \Lambda } } } ~ = ~ \left( \chi _ { 1 } ^ { \dagger } e ^ { g _ { 2 } V _ { 2 } + g _ { 1 } V _ { 1 } + g _ { 1 } ^ { \prime } V _ { 1 } ^ { \prime } } \chi _ { 1 } + \chi _ { 2 } ^ { \dagger } e ^ { - g _ { 2 } V _ { 2 } - g _ { 1 } V _ { 1 } - g _ { 1 } ^ { \prime } V _ { 1 } ^ { \prime } } \chi _ { 2 } + \phi _ { 1 } ^ { \dagger } e ^ { 2 g _ { 1 } ^ { \prime } V _ { 1 } ^ { \prime } } \phi _ { 1 } + \phi _ { 2 } ^ { \dagger } e ^ { - 2 g _ { 1 } ^ { \prime } V _ { 1 } ^ { \prime } } \phi _ { 2 } + X \right. } } \\ { { \mathrm {  ~ \Lambda ~ } } } \\ { { \mathrm {  ~ \Lambda ~ } + \left. ( \mu ^ { \prime } \chi _ { 1 } \chi _ { 2 } \left| \theta \theta + c X \left( \phi _ { 1 } \phi _ { 2 } - \mu ^ { \prime \prime 2 } \right) \right| \theta \theta + h . c . \right) . } } \end{array}
+$$
+
+where $\mu ^ { \prime }$ and $\mu ^ { \prime \prime }$ are mass parameters, $g _ { 1 } ^ { \prime }$ and $c$ coupling constants. It is important to note that an accidental $\mathrm { Z _ { 2 } }$ discrete symmetry appears, under which $\chi _ { 1 }$ and $\chi _ { 2 }$ fields are odd and
+
+all the other fields are even. As we will see, it remains unbroken even after $\mathrm { U } ( 1 ) _ { n }$ breaking as well as EWSB. The $\mathrm { Z _ { 2 } }$ symmetry keeps the lightest component of $\chi _ { i }$ ( $i = 1 , 2$ ）stable. That is the dark matter particle in this model.
+
+When SUSY breaking is considered, soft masses should be included,
+
+$$
+\begin{array} { r } { \mathcal { L } _ { \mathrm { d a r k , s o f t } } \ = \ - \frac { 1 } { 2 } m _ { 1 } ^ { \prime } \lambda ^ { 1 \prime } \lambda ^ { 1 \prime } + m _ { \tilde { \chi } _ { 1 } } ^ { 2 } \tilde { \chi } _ { 1 } ^ { * } \tilde { \chi } _ { 1 } + m _ { \tilde { \chi } _ { 2 } } ^ { 2 } \tilde { \chi } _ { 2 } ^ { * } \tilde { \chi } _ { 2 } + m _ { \phi _ { 1 } } ^ { 2 } \phi _ { 1 } ^ { * } \phi _ { 1 } + m _ { \phi _ { 2 } } ^ { 2 } \phi _ { 2 } ^ { * } \phi _ { 2 } } \\ { + m _ { x } ^ { 2 } x ^ { * } x + ( B ^ { \prime } \mu ^ { \prime } ) \tilde { \chi } _ { 1 } \tilde { \chi } _ { 2 } + h . c . ) ~ . } \end{array}
+$$
+
+$\mathrm { U } ( 1 ) _ { n }$ gauge symmetry breaks spontaneously when $\phi _ { 1 , 2 }$ get non-vanishing vacuum expectation values (VEVs). From Eqs. (15) and (16), the relevant scalar potential for $\left. \phi _ { 1 } \right.$ and $\left. \phi _ { 2 } \right.$ determination is
+
+$$
+V _ { \mathrm { d a r k } } = 2 g _ { 1 } ^ { \prime 2 } \left( \langle \phi _ { 1 } \rangle ^ { 2 } - \langle \phi _ { 2 } \rangle ^ { 2 } \right) ^ { 2 } + c ^ { 2 } | \langle \phi _ { 1 } \rangle \langle \phi _ { 2 } \rangle - \mu ^ { \prime \prime 2 } | ^ { 2 } + m _ { \phi } ^ { 2 } \left( \langle \phi _ { 1 } \rangle ^ { 2 } + \langle \phi _ { 2 } \rangle ^ { 2 } \right) ,
+$$
+
+where it has taken $m _ { \phi } ^ { 2 } = m _ { \phi _ { 1 } } ^ { 2 } = m _ { \phi _ { 2 } } ^ { 2 }$ . Then
+
+$$
+\left. \phi _ { 1 } \right. = \left. \phi _ { 2 } \right. = \left. \phi \right. = \left( \mu ^ { \prime \prime 2 } - \frac { m _ { \phi } ^ { 2 } } { c } \right) ^ { \frac 1 2 } .
+$$
+
+Vector-like particle masses are all taken to be similar [8], hence $\mu ^ { \prime }$ ， $\mu ^ { \prime \prime } \sim 1$ TeV. It is natural to expect that $\langle \phi \rangle \sim \mathcal { O } ( 1 0 0 )$ GeV. The $\mathrm { U } ( 1 ) _ { n }$ gauge boson $\gamma _ { n }$ gets a mass of $m _ { \gamma _ { n } } = 4 g _ { 1 } ^ { \prime } \langle \phi \rangle$ As long as the bosonic fields of SU $( 2 ) _ { L }$ doublets $\chi _ { 1 , 2 }$ do not get VEVs and are heavy enough, the $\mathrm { Z _ { 2 } }$ symmetry still remains after $\mathrm { U } ( 1 ) _ { n }$ breaking.
+
+In addition to Eqs. (15) and (16), the Lagrangian should include a gauge field mixing between $\mathrm { U } ( 1 ) _ { n }$ and $\mathrm { U } ( 1 ) _ { Y }$ ，
+
+$$
+{ \mathcal L } _ { \mathrm { m i x i n g } } = \epsilon F _ { n } ^ { \mu \nu } F _ { Y \mu \nu } .
+$$
+
+This mixing is accompanied with a gaugino mixing because of SUSY,
+
+$$
+{ \mathcal { L } } _ { \mathrm { g a u g i n o ~ m i x i n g } } = 2 \epsilon ( \lambda ^ { 1 } \sigma ^ { \mu } \partial _ { \mu } { \bar { \lambda } } ^ { 1 \prime } + \lambda ^ { 1 \prime } \sigma ^ { \mu } \partial _ { \mu } { \bar { \lambda } } ^ { 1 } ) .
+$$
+
+It is conventional to choose the mixing to be of the size of $\epsilon \sim 1 0 ^ { - 3 }$ . This mixing makes possibly lighter particles in the dark sector, such as $\phi _ { 1 , 2 }$ ， decay into MSSM particles.
+
+What we are interested in is the spectrum of $\chi _ { 1 }$ and $\chi _ { 2 }$ particles, because they carry SM quantum numbers. For the fermions,at the leading order, they form a Dirac particle $\Psi _ { \chi } = \left( \begin{array} { c } { { } } \\ { { \chi _ { 1 } } } \\ { { } } \\ { { \bar { \chi } _ { 2 } } } \end{array} \right)$ with a mass $\mu ^ { \prime }$ ，
+
+$$
+{ \mathcal L } _ { \chi } = \bar { \Psi } _ { \chi } i \gamma _ { \mu } D ^ { \mu } \Psi _ { \chi } - \mu ^ { \prime } \bar { \Psi } _ { \chi } \Psi _ { \chi } ,
+$$
+
+where $D _ { \mu } = \partial _ { \mu } - i g _ { 2 } A _ { \mu } ^ { a } \tau ^ { a } - i g _ { 1 } A _ { \mu } ^ { 1 } - i g _ { 1 } ^ { \prime } A _ { \mu } ^ { \prime 1 }$ . Actually $\Psi _ { \chi }$ is a pseudo-Dirac particle because of gauge symmetry breaking. Generally, EWSB splits the neutral and charged components of $\Psi _ { \chi }$ ，and U $( 1 ) _ { n }$ breaking further splits the two neutral components. In this model, such mass splittings are described by the following gauge symmetric dimension 5 and 6 operators,
+
+$$
+\begin{array} { r } { \mathcal { L } \supset \mathcal { L } ^ { \mathrm { d i m . 5 } } + \mathcal { L } ^ { \mathrm { d i m . 6 } } , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { { \mathcal L } ^ { \mathrm { d i m . 5 } } = \displaystyle \frac { a _ { 1 } } { \Lambda } ( \chi _ { 1 } H _ { u } ) ( \chi _ { 2 } H _ { d } ) | _ { \theta \theta } + \frac { a _ { 2 } } { \Lambda } ( \chi _ { 1 } H _ { d } ) ( \chi _ { 2 } H _ { u } ) | _ { \theta \theta } + h . c . , } } \\ { { } } & { { } } & { { } } \\ { { { \mathcal L } ^ { \mathrm { d i m . 6 } } = \displaystyle \frac { a _ { 3 } } { \Lambda ^ { 2 } } \phi _ { 2 } ( \chi _ { 1 } H _ { u } ) ( \chi _ { 1 } H _ { u } ) | _ { \theta \theta } + \frac { a _ { 4 } } { \Lambda ^ { 2 } } \phi _ { 1 } ( \chi _ { 2 } H _ { d } ) ( \chi _ { 2 } H _ { d } ) | _ { \theta \theta } + h . c . } } \end{array}
+$$
+
+with $\Lambda$ being a cutoff, and $a _ { i } \sim \mathcal { O } ( 1 )$ coefficients. $\Lambda$ may be considered as the scale of SUSY breaking messengers which have been integrated out， the messengers also form complete SU(5) representations and do not break the unification of SM gauge couplings. As it will be seen, $\mathcal { L } ^ { \mathrm { d i m . 5 } }$ splits charged and neutral components and $\mathcal { L } ^ { \mathrm { d i m . 6 } }$ splits the two neutral ones.
+
+Note that without dimension-5 operators, EWSB itself at the renormalizable level induces mas splitting between charged and neutral components. One-loop diagrams with a Z boson propagating in inner lines directly give splitting roughly as $\scriptstyle { \frac { \alpha _ { 2 } } { 4 \pi } } M _ { Z }$ .It is of the order 0.1 GeV. For splitting the two neutral parts, we nevertheless need the new higher dimensional operators of $\mathcal { L } ^ { \mathrm { d i m . 6 } }$ . In such a situation,it is natural to expect that a general $\mathcal { L } ^ { \mathrm { d i m . 5 } }$ is also there. In our analysis $\mathcal { L } ^ { \mathrm { d i m . 5 } }$ is taking as the effctive operators which parameterize all the EWSB effects.
+
+（204 $a _ { 1 }$ and $a _ { 2 }$ terms simply give rise to mass splitting between the charged and the neutral components,
+
+$$
+\Delta M = { ( a _ { 1 } + a _ { 2 } ) } \frac { v ^ { 2 } \sin 2 \beta } { 4 \Lambda } ,
+$$
+
+where $v \ = \ 2 4 6$ GeV. With tan $\beta$ between $( 3 - 1 0 )$ and $\Lambda$ between（10 －100）TeV，this splitting ranges from $( 0 . 1 - 1 )$ GeV. Here the positive $( a _ { 1 } + a _ { 2 } )$ case is chosen so that the neutral components of $\chi _ { i }$ ， $\chi _ { 1 } ^ { 0 }$ and $\boldsymbol { \chi } _ { 2 } ^ { 0 }$ , are lighter. The charged components $\chi _ { 1 } ^ { - }$ and $\chi _ { 2 } ^ { + }$ form an exact Dirac particle. We can see that mass splittng generated by dimension 5 operators is at least as large as that generated by loop diagrams.
+
+（204号 $\chi _ { 1 } ^ { 0 }$ and $\chi _ { 2 } ^ { 0 }$ are splitted further through the $a _ { 3 }$ and $a _ { 4 }$ terms. The mass matrix of $\chi _ { 1 } ^ { 0 } , \chi _ { 2 } ^ { 0 }$
+
+turns out to be
+
+$$
+\mathcal { M } = \left( \begin{array} { c c c c c } { { ( \frac { v } { \Lambda } ) ^ { 2 } \frac { \langle \phi \rangle } { 2 } a _ { 3 } \sin ^ { 2 } \beta } } & { { \frac { 1 } { 2 } \left[ \mu ^ { \prime } - \frac { v ^ { 2 } \sin 2 \beta } { 4 \Lambda } ( a _ { 1 } + a _ { 2 } ) \right] } } \\ { { \frac { 1 } { 2 } \left[ \mu ^ { \prime } - \frac { v ^ { 2 } \sin 2 \beta } { 4 \Lambda } ( a _ { 1 } + a _ { 2 } ) \right] } } & { { ( \frac { v } { \Lambda } ) ^ { 2 } \frac { \langle \phi \rangle } { 2 } a _ { 4 } \cos ^ { 2 } \beta } } \end{array} \right) .
+$$
+
+As the off-diagonal elements are much larger than the diagonal ones, the mass eigenvalues are approximately $\mu ^ { \prime } - \frac { v ^ { 2 } \sin 2 \beta } { 4 \Lambda } ( a _ { 1 } + a _ { 2 } ) \pm ( \frac { v } { \Lambda } ) ^ { 2 } \frac { \langle \phi \rangle } { 2 } ( a _ { 3 } \sin ^ { 2 } \beta + a _ { 4 } \cos ^ { 2 } \beta )$ , and the corresponding mass eigenstates are approximately
+
+$$
+\chi _ { d } ^ { \prime } = ( \chi _ { 1 } ^ { 0 } + \chi _ { 2 } ^ { 0 } ) / \sqrt { 2 } + { \cal O } ( \frac { v ^ { 2 } \langle \phi \rangle } { \Lambda ^ { 2 } \mu ^ { \prime } } ) , \quad \chi _ { d } = i ( \chi _ { 1 } ^ { 0 } - \chi _ { 2 } ^ { 0 } ) / \sqrt { 2 } + { \cal O } ( \frac { v ^ { 2 } \langle \phi \rangle } { \Lambda ^ { 2 } \mu ^ { \prime } } )
+$$
+
+with $\chi _ { d }$ being the lighter state. Therefore, mass splitting between the two neutral Majorana fermions is
+
+$$
+\Delta m = \left( \frac { v } { \Lambda } \right) ^ { 2 } \langle \phi \rangle ( a _ { 3 } \sin ^ { 2 } \beta + a _ { 4 } \cos ^ { 2 } \beta ) .
+$$
+
+This splitting is almost independent of $\tan \beta$ . Taking $\langle \phi \rangle \sim 1 0 0 \$ GeV, this splitting ranges from $( 1 - 1 0 0 )$ MeV.
+
+The other particles of the dark sector have the following spectrum. As $\phi _ { 1 } , \phi _ { 2 }$ get VEVs, their fermionic partners $\tilde { \phi } _ { 1 , 2 } , \tilde { X }$ which is the fermion of $X$ , and gaugino $\lambda ^ { 1 \prime }$ will get masses. It is convenient to change the basis to
+
+$$
+\Phi ^ { \prime } = ( \tilde { \phi } _ { 1 } + \tilde { \phi } _ { 2 } ) / \sqrt { 2 } , \quad \Phi = ( \tilde { \phi } _ { 1 } - \tilde { \phi } _ { 2 } ) / \sqrt { 2 } .
+$$
+
+$\Phi ^ { \prime }$ and $\tilde { X }$ form a Dirac particle with a mass of $\sqrt { 2 } c \langle \phi \rangle \sim 1 0 0$ GeV. The mass matrix of $\Phi$ and $\lambda ^ { 1 \prime }$ is the following by further considering the $\lambda ^ { 1 \prime }$ soft mass,
+
+$$
+{ \mathcal M } ^ { \prime } = \left( \begin{array} { c c } { { 0 } } & { { - i 4 g _ { 1 } ^ { \prime } \langle \phi \rangle } } \\ { { - i 4 g _ { 1 } ^ { \prime } \langle \phi \rangle } } & { { m _ { 1 } ^ { \prime } } } \end{array} \right) .
+$$
+
+The matrix elements are all $\mathcal { O } ( 1 0 0 )$ GeV, so the mass eigenstates $N$ and $N ^ { \prime }$ are of the same mass scale, with $N$ the lighter one.
+
+The scalars $\tilde { \chi } _ { 1 , 2 }$ and $\phi _ { 1 , 2 }$ are heavy $\sim 1 0 0$ GeV $- 1$ TeV due to soft SUSY breaking. Notice that the singlet $x$ has no gauge couplings and can have a vanishing soft mass in the case of gauge mediated SUSY breaking. In this case the boson $x$ will have a mass $\sqrt { 2 } c \langle \phi \rangle \sim 1 0 0$ GeV which is degenerate to the corresponding fermion.
+
+It is convenient to express the fermions in the 4-component form:
+
+$$
+\Psi _ { d } = \left( \begin{array} { c } { { \chi _ { d } } } \\ { { \bar { \chi } _ { d } } } \end{array} \right) , \Psi _ { d } ^ { \prime } = \left( \begin{array} { c } { { \chi _ { d } ^ { \prime } } } \\ { { \bar { \chi } _ { d } ^ { \prime } } } \end{array} \right) , \Psi _ { - } = \left( \begin{array} { c } { { \chi _ { 1 - } } } \\ { { \bar { \chi } _ { 2 + } } } \end{array} \right) .
+$$
+
+In terms of all above mass eigenstates, the dark sector Lagrangian relevant to dark matter annihilation can be expressed as
+
+$$
+\begin{array} { r l } { { \mathcal { L } _ { \mathrm { d a r k } } \supset } } & { { - i \displaystyle \frac { g _ { 2 } } { 2 \cos \theta _ { \mathrm { W } } } Z _ { \mu } ( \bar { \Psi } _ { d } ^ { \prime } ) ^ { \mu } \Psi _ { d } - i \bar { \Psi } _ { - } \gamma ^ { \mu } \Psi _ { - } + \epsilon ^ { \prime } ( \bar { \Psi } _ { d } \gamma ^ { \mu } \Psi _ { d } - \bar { \Psi } _ { d } ^ { \prime } \gamma ^ { \mu } \Psi _ { d } ^ { \prime } ) ) } }  \\ { { } } & { { - i g _ { 1 } ^ { \prime } A _ { 1 \mu } ^ { \prime } \left( \bar { \Psi } _ { d } ^ { \prime } \gamma ^ { \mu } \Psi _ { d } - i \bar { \Psi } _ { - } \gamma ^ { \mu } \Psi _ { - } + 2 \bar { \Psi } _ { X } \gamma ^ { \mu } \Psi _ { N } + \epsilon ^ { \prime } ( \bar { \Psi } _ { d } \gamma ^ { \mu } \Psi _ { d } - \bar { \Psi } _ { d } ^ { \prime } \gamma ^ { \mu } \Psi _ { d } ^ { \prime } ) \right) } } \\ { { } } & { { - g _ { 2 } \sin \theta _ { \mathrm { W } } A _ { \mu } \left( \bar { \Psi } _ { - } \gamma ^ { \mu } \Psi _ { - } \right) } } \\ { { } } & { { + \displaystyle \frac { g _ { 2 } } { 2 } W _ { \mu } ^ { + } \left( \bar { \Psi } _ { d } ^ { \prime } \gamma ^ { \mu } \Psi _ { - } + i \bar { \Psi } _ { d } \gamma ^ { \mu } \Psi _ { - } \right) } } \\ { { } } & { { + \displaystyle \frac { g _ { 2 } } { 2 } W _ { \mu } ^ { - } \left( - \bar { \Psi } _ { - } \gamma ^ { \mu } \Psi _ { d } ^ { \prime } + i \bar { \Psi } _ { - } \gamma ^ { \mu } \Psi _ { d } \right) . } } \end{array}
+$$
+
+It is seen that the dark matter particle $\chi _ { d }$ mainly scatter inelastically via gauge interactions. Note that there are still small diagonal $\chi _ { d ^ { - } } \chi _ { d }$ -gauge boson couplings which are about $\epsilon ^ { \prime } \simeq$ $\Delta m / \mu ^ { \prime }$ as can be seen from Eq. (26).
+
+# C. UV-completion
+
+Up to now, our model is a TeV effective theory which does not include particles much heavier than TeV. The cut off $\Lambda$ may be, as we have mentioned, understood as a result of integrating out SUSY breaking messengers in the gauge mediated SUSY breaking scenario. Here we present an UV completion model which reproduces our effective theory.
+
+TheSUSYbreaking messengershave the following quantum numbersof SU(2) $_ L \times$ U(1) $_ Y \times$ SU(3) $_ c \times$ U $( 1 ) _ { n }$ ，
+
+$$
+\begin{array} { r l } & { \eta ( 2 , - 1 , 1 , - 1 ) , \eta ^ { \prime } ( 1 , \frac 2 3 , \bar { 3 } , - 1 ) , \kappa ( 1 , 0 , 1 , - 1 ) , } \\ & { \qquad \bar { \eta } ( 2 , 1 , 1 , 1 ) , \bar { \eta } ^ { \prime } ( 1 , - \frac 2 3 , 3 , 1 ) . \bar { \kappa } ( 1 , 0 , 1 , 1 ) , } \end{array}
+$$
+
+The SUSY breaking spurion field $S$ couples with messengers
+
+$$
+{ \mathcal W } _ { s p u r i o n } = S ( \eta \bar { \eta } + \eta ^ { \prime } \bar { \eta } ^ { \prime } + \kappa \bar { \kappa } ) ,
+$$
+
+where $S$ get a VEV,
+
+$$
+\langle S \rangle = \Lambda + \theta \theta F .
+$$
+
+The soft masses are the same as those of normal gauge mediation. For dark sector,
+
+$$
+\begin{array} { c } { { m _ { \lambda ^ { 1 \prime } } \sim \displaystyle \frac { \alpha _ { 1 } ^ { \prime } } { 4 \pi } \displaystyle \frac { F } { \Lambda } } } \\ { { m _ { \bar { \chi } _ { 1 } , 2 } ^ { 2 } \sim ( \displaystyle \frac { \alpha _ { 1 } ^ { \prime } } { 4 \pi } \displaystyle \frac { F } { \Lambda } ) ^ { 2 } } } \\ { { m _ { \phi _ { 1 , 2 } } ^ { 2 } \sim ( \displaystyle \frac { \alpha _ { 1 } ^ { \prime } } { \pi } \displaystyle \frac { F } { \Lambda } ) ^ { 2 } . } } \end{array}
+$$
+
+The $\mathrm { U } ( 1 ) _ { n }$ messengers $\kappa$ and $\bar { \kappa }$ have Yukawa couplings with Higgs and dark sector,
+
+$$
+{ \mathcal W } _ { m e s s e n g e r } = b _ { 1 } \chi _ { 1 } H _ { u } \bar { \kappa } + b _ { 2 } \chi _ { 2 } H _ { d } \kappa + b _ { 3 } \phi _ { 2 } \kappa \kappa + b _ { 4 } \phi _ { 1 } \bar { \kappa } \bar { \kappa } .
+$$
+
+These couplings give rise to the $a _ { i }$ couplings on tree level by integrating out $\kappa$ and $\bar { \kappa }$ ，
+
+$$
+a _ { 1 } = b _ { 1 } b _ { 2 }
+$$
+
+$$
+a _ { 3 } = b _ { 3 } b _ { 1 } ^ { 2 }
+$$
+
+$$
+a _ { 4 } = b _ { 4 } b _ { 2 } ^ { 2 } .
+$$
+
+Here the lack of $a _ { 2 }$ will not change mass splitting result of the dark sector significantly because $a _ { 1 }$ is non-zero. There could be models in which $a _ { 2 }$ does not vanish.
+
+The Yukawa couplings $\mathrm { b } _ { i }$ cause small mixing between messengers and dark sector, which makes messengers decay into dark sector. After EW and U $( 1 ) _ { n }$ breaking，a $\mathrm { Z _ { 2 } }$ symmetry remains in messenger and dark sector,which is the same $\mathrm { Z _ { 2 } }$ that appears only in dark sector when messengers are integrated out.
+
+# III. ANALYSIS
+
+# A． Dark matter relic density
+
+From discussions of the last section and Eq. (31), we see that the only stable particle in this model is $\chi _ { d }$ ，which is dark matter.
+
+In relic density calculation, coannihilation of all the four components of $\chi _ { 1 }$ and $\chi _ { 2 }$ should be considered. We use the program micrOMEGAs to calculate relic density [20][21][22]. As long as $\chi _ { d }$ has the correct relic density, the dark matter mass $\mu ^ { \prime }$ can be determined by the coupling $g _ { 1 } ^ { \prime }$ ：
+
+From FIG 1 we can see that the dark matter mass is between $\mu ^ { \prime } = ( 1 . 1 \sim 1 . 5 )$ TeV when $g _ { 1 } ^ { \prime }$ ranges between O to $g _ { 2 }$ . This means that taking $g _ { 1 } ^ { \prime } \sim g _ { 2 }$ will not deviate too much from normal WIMP expectation.
+
+![](images/e44051699bc2e5d0e7ee1578346e5ae6afe80e74a53ba58cbb669c7d66688469.jpg)  
+FIG. 1: The relation between dark matter mass $\mu ^ { \prime }$ and $g _ { 1 } ^ { \prime } / g _ { 2 }$ （2
+
+# B. Detection of Dark matter
+
+Direct detection experiments for dark matter have given strict upper limits on cross sections of its scattering with nucleus. As $\chi _ { d }$ mainly interacts with Z boson inelastically, it is possible to suppress the scattering cross section with nucleus. It has been known that if the mass spliting $\Delta m$ between $\chi _ { d }$ and $\chi _ { d } ^ { \prime }$ is zero, the $\chi _ { d }$ -nucleon spin-independent cross section would be about $1 0 ^ { - 3 8 }$ （ $\mathrm { c m ^ { 2 } }$ [11] while Xenon100 gives the upper limit of the cross section to be $1 0 ^ { - 4 4 }$ （20 $\mathrm { c m ^ { 2 } }$ for $\sim 1$ TeV dark matter [12]. In our model, $\Delta m$ ranges from (1-100) MeV depending on the cutoff $\Lambda$ and is larger than the possible kinematic energy of dark matter of a maximum speed of $6 0 0 ~ \mathrm { k m / s }$ . Therefore dark matter will not scatter through vector interaction with Xe nuclei on tree level.
+
+The axial-vector coupling of $\chi _ { d }$ with Z still needs consideration. This coupling is elastical and of the size $\begin{array} { r } { \mathcal { O } ( \frac { \Delta m } { \mu ^ { \prime } } ) } \end{array}$ ， which is between $1 0 ^ { - 4 }$ to $1 0 ^ { - 6 }$ . It will bring to spin-dependent cross section with Xe. The spin-dependent tree level cross section for WIMP elastically scattering at zero momentum transfer is[13]:
+
+$$
+\sigma _ { S D } = \frac { 3 2 ( J + 1 ) } { \pi J } G _ { F } ^ { 2 } M _ { r } ^ { 2 } | a _ { p } \langle S _ { p } \rangle + a _ { n } \langle S _ { n } \rangle | ^ { 2 }
+$$
+
+where J is nuclear spin, $M _ { r }$ is the reduced mass of dark matter and target nuclear, $a _ { p , n }$ （204号 are effective proton and neutron couplings, $\langle S _ { p , n } \rangle$ are spin expectation values of proton and neutron in the nuclear. The $a _ { p , n }$ for $\chi _ { d }$ is of the magnitude $\frac { \Delta m } { \mu ^ { \prime } }$ . The $\chi _ { d }$ -Xe spin-dependent cross section is $( 1 0 ^ { - 4 5 } - 1 0 ^ { - 4 1 } )$ cm $^ 2$ for Xe $^ { 1 2 9 }$ and $( 1 0 ^ { - 4 6 } - 1 0 ^ { - 4 2 } )$ cm $^ 2$ for Xe $^ { 1 3 1 }$ . These cross sections are far beyond the detection capability of XenonloO or Xenon 1t.
+
+At one-loop level, the dark matter-nuclear cross section is essentially the same as that discussed in Ref.[14]: the one-loop $\chi _ { d }$ -nucleon spin-independent cross section is about $1 0 ^ { - 4 8 }$ （204号 （204号 $\mathrm { c m ^ { 2 } }$ ， which is also too small to be detected.
+
+Dark matter in our model cannot produce positron excess observed by cosmic-ray experiments such as PAMELA and Fermi-LAT[27, 28]. The reason is that there is no light particle to provide enough Sommerfeld enhancement for dark matter annihilation in our model. As a result,we have to consider the observed positron excess as an astrophysical phenomenon.
+
+# C. Collider phenomenology
+
+Experimental constraints should be considered. In this model， particles beyond those of MSSM， which also carry color or electric charges are $D _ { 4 } ^ { c } , D _ { H } ^ { c }$ and $\chi _ { 1 } ^ { - } , \chi _ { 2 } ^ { + }$ .Each pair forms an exact Dirac particle. The former is down-type quark like,and the latter charged lepton like. The direct experimental search at LEP requires that they should be heavier than 10o GeV, that at Tevatron for down-type heavy quarks requires they are heavier than 372 GeV [15],and at LHC the current limit is 675 GeV for the down-type heavy quark [16]. These results can be simply satisfied if $\mu ^ { D }$ is larger than 675 GeV and $\mu ^ { \prime }$ larger than 100 GeV. The electroweak precision measurements generally have weak constraints on this model,because these extra matters are vector-like which have contribution in the form of （20 $1 / \mu ^ { D ( \prime ) 2 }$ as expected from the decoupling theorem. The effect of the extra matters can be small enough $\leq \left( m _ { t } / \mu ^ { D ( \prime ) } \right) ^ { 2 } \simeq ( 1 - 1 0 ) \%$ if we take $\mu ^ { D ( \prime ) } \simeq 5 0 0$ GeV $- 1$ TeV. Noting that these direct search limits are obtained with assumption of single decay channel dominant, we will take that $\mu ^ { D } = 5 0 0$ GeV and $\mu ^ { \prime } \simeq 1 . 1$ TeV in numerical illustration.
+
+There are constraints coming from the unitarity of the $3 \times 3$ CKM quark mixing matrix of three chiral generations [15]. This unitarity is consistent with current data within experimental errors. In this model, extra down-type quarks mix with ordinary three chiral down-type quarks, which necessarily break the unitarity of the CKM mixing matrix. Unitarity violation is about $( m _ { i 4 } / \mu ^ { D } ) ^ { 2 }$ where the mass parameter $m _ { i 4 } \equiv - y _ { i } ^ { D } v \cos \beta / \sqrt { 2 }$ as seen from Eq.(6)． This $\mu ^ { D }$ dependence is generally expected in the case of extra vector-like quarks. Hierarchical or small mixing masses $m _ { i 4 }$ can easily make the CKM matrix approximately unitary within errors. For an example, $( m _ { 1 4 } / \mu ^ { D } ) ^ { 2 } \leq 1 0 ^ { - 3 }$ . Assuming only the third generation mixes with extra quarks, the constraint is still loose, $( m _ { 3 4 } / \mu ^ { D } ) ^ { 2 } \leq 0 . 3 9$ The quantity $m _ { 3 4 }$ is at most about $m _ { t }$ . This gives that the parameter $\mu ^ { D } \geq 2 8 0$ GeV. It is easy to see that there are new phases in fermion mixing matrices. However, these new matrix elements are of order of $\left( m _ { t } / \mu ^ { D } \right) ^ { 2 }$ at most. So new CP violation effects are generally suppressed.
+
+Decay signals of these new particles can be easily identified. From trilinear Yukawa interactions given in Eq. (6),it is seen that $D _ { 4 } ^ { c } , D _ { H } ^ { c }$ decay into SM first three generation matters. Denoting the new Dirac quark in $( D _ { 4 } ^ { c } , D _ { H } ^ { c } )$ as $\Psi _ { D }$ ， decays of $\Psi _ { D }$ have following results,
+
+$$
+\Gamma ( \Psi _ { D } \to d _ { i } ^ { c } h ^ { 0 } ) \simeq \frac { 1 } { 1 6 \pi } | y _ { i } ^ { D } | ^ { 2 } | \mu ^ { D } | \left( 1 - \frac { m _ { h } ^ { 2 } } { | \mu ^ { D } | ^ { 2 } } \right) ^ { 2 } .
+$$
+
+Taking relevant Yukawa coefficients $y _ { i } ^ { D } \mathrm { { ^ s } \sim ~ 1 0 ^ { - 1 } - 1 0 ^ { - 2 } }$ ，the decay rate in Eq. (39) is （204号 $1 ^ { \prime } \sim 5 - 5 0 0$ MeV. Taking EWSB into consideration, $\Psi _ { D }$ mixes with SM fermions. We see that the decay $\Psi _ { D }  t W ^ { + }$ occurs via the SU $( 2 ) _ { L }$ gauge interaction at the level of $\mathcal { O } ( m / \mu ^ { D } )$ 5
+
+$$
+\begin{array} { r } { \to \bar { t } W ^ { + } ) \simeq \frac { G _ { F } m _ { W } ^ { 2 } | \mu ^ { D } | | V _ { 3 5 } | ^ { 2 } } { 8 \sqrt { 2 } \pi } \{ 1 + ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 4 } + ( \frac { m _ { t } } { \mu ^ { D } } ) ^ { 4 } - 2 [ ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 2 } + ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 4 } ]  } \\ { \qquad + ( \frac { m _ { t } } { \mu ^ { D } } ) ^ { 2 } ] \} ^ { 1 / 2 } \{ [ 1 - ( \frac { m _ { t } } { \mu ^ { D } } ) ^ { 2 } ] ^ { 2 } + ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 2 } [ 1 + ( \frac { m _ { t } } { \mu ^ { D } } ) ^ { 2 } ] - 2 ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 4 } + ( \frac { m _ { W } } { \mu ^ { D } } ) ^ { 4 } \} . } \end{array}
+$$
+
+where $V _ { 3 5 }$ is the mixing element, and the phase space factors were given in Refs. [17]. Taking （20 $m / \mu ^ { D } \sim 1 / 3$ ，the $\Gamma$ is about 1 GeV. In this decay process, the top quark further decays into three quarks with one of them a bottom,and the $W$ can decay into a single charged lepton with a neutrino. Taking this process as the main decay channel, in the case of $\Psi _ { D }$ pair production, the signal can be searched in the events of 2 charged leptons (electron or muon) and 6 jets with two of them b-jets, and large missing energies.
+
+Denoting the heavy charged Dirac lepton $( \chi _ { 1 } ^ { - } , \chi _ { 2 } ^ { + } )$ as $\Psi _ { - }$ , its mass is only $\Delta M \sim ( 0 . 1 \textrm { - }$ 1) GeV above the dark matter. It can decay into $\Psi _ { d }$ or $\Psi _ { d } ^ { \prime }$ together with a pion or with a charged lepton (electron or muon） and a neutrino. In the limit of $\Delta M < < \mu ^ { \prime }$ ， the typical decay width of $\Psi _ { - }$ is
+
+$$
+\Gamma ( \Psi _ { - } \to \Psi _ { d } e ^ { - } \bar { \nu } _ { e } ) \simeq \frac { G _ { F } ^ { 2 } \Delta M ^ { 5 } } { 1 5 \pi ^ { 3 } } .
+$$
+
+This lifetime is about $1 0 ^ { - 1 2 } - 1 0 ^ { - 7 }$ s. For a larger $\Delta M$ ， $\Psi _ { - }$ decay rapidly into a charged lepton and missing energy, in which situation detection is diffcult. For $\Delta M < 0 . 3$ GeV, $\Psi _ { - }$ is long-lived and can leave tracks in detectors. As $\Psi _ { - }$ is always produced in pairs, the signal should be easy to identify.
+
+The new quark can be produced at LHC via the gluon fusion process, $g \_ g  \Psi _ { D } \bar { \Psi _ { D } }$ The production mechanism is essentially the same as that of the top quark [18] with an estimated cross section $\sim$ hundreds $f b$ by taking $\mu ^ { D } \sim 5 0 0$ GeV and $\sqrt { s } = 1 4$ TeV. For the new charged lepton, the Drell-Yan process is the main production mechanism. The cross section is estimated to be a few $f b$ which means a few events in one year at most [19].
+
+# IV. DISCUSSION
+
+Finally we will discuss some physical aspects related to this model. First of all, it is important to discuss GUT. We have kept gauge coupling unification at the high scale, but a real GUT model with a simple gauge group has not been given, it is still far from our reach. From the particle content and assumptions of this model, it is doubtful if such a GUT model exists. We wonder if a simple gauge group is really necessary for the so-called unification. In fact, in certain string models, unification is achieved without requiring a GUT gauge group, but the gauge coupling constants are unified at the scale of $1 0 ^ { 1 6 }$ GeV or so [23]. It would be nice if this model can be reconstructed as a string model.
+
+The assumption of baryon number conservation may have a better looking. It has been shown that it can be replaced by that of a $Z _ { 3 }$ discrete symmetry which is called baryon parity [24]. As we know that any global symmetry is not favored from the point of view of the quantum gravity, because black holes violate such symmetries. However, the baryon parity can be considered as a result of gauge symmetry breaking [25].
+
+The two U(1） gauge interactions have a mixing. With such a mixing which is symmetry allowed, it is guaranteed that dark matter is composed of $\chi _ { d }$ only. The other particles of the dark sector can decay via the mixing even if they are lighter than $\chi _ { d }$ . This is a simple scenario of dark matter in this model, although a complicated one with vanishingly small $\epsilon$ is possible. Without the mixing,the lightest particle of the dark sector other than $\chi _ { 1 , 2 }$ （204号 would be stable and contribute to the relic density of dark matter. In that case,dark matter would be composed of multiple components.
+
+Our dark matter model has nothing to do with the so-called indirect indication of the dark matter by astrophysical observation of ATIC [26], PAMELA [27] and FermiLAT [28]. It looks that our model has a potential to accommodate their observation. They have observed an access of cosmic electrons and positrons. Although Fermi-LAT experiment [28] does not support ATIC,it agrees with PAMELA. The observation has inspired a lot of theoretical re-consideration about the WIMP dark matter [6,29,30]. Arkani-Hamed et al. [6] have proposed a scenario to understand all experiments on the dark matter in a natural way. WIMPs should have new interaction mediated by a light, GeV scale particle which enhances their current annihilation cross section via the Sommerfeld mechanism. This GeV particle is supposed to be the main annihilation product,and because of its lightness, it finally decays into leptons only. There are many theoretical models realizing this new scenario [29]. There is a point which is similar to our case. In our model, the WIMP also has new interaction which, however, has a typical energy scale of hundreds GeV. If we had made some tuning on the mass parameter $\mu ^ { \prime \prime }$ to reduce the new interaction scale to be GeV, this model would realize most part of the scenario of Arkani-Hamed et al.. But because of the dark matter structure of this model, the Sommerfeld enhancement factor would be about $1 0 ^ { 4 }$ which has been ruled out [31].
+
+# V. SUMMARY
+
+Within the framework of R-parity violation, we have studied the dark matter problem with the constraint of gauge coupling constant unification. The WIMP dark matter is contained in a new vector-like SU $( 2 ) _ { L }$ doublet which possesses a new U(1) gauge symmetry. The Higgs particles are included in a $\mathbf { 5 } \oplus \bar { \mathbf { 5 } }$ representation of SU $( 5 )$ . Instead of R-parity, baryon number conservation is assumed. In this model, the dark matter particle is stable as a result of the gauge invariance. An accidental discrete $Z _ { 2 }$ symmetry remains after spontaneous gauge symmetry breaking, which makes the dark matter particle stable.
+
+Main results of this model is the following. The mass of the dark matter particle is (1.1-1.5) TeV. The dark matter and nucleus interaction has small cross sections which are consistent with the current dark matter direct detection experiments like Xenon100. In addition to the particle content of MSSM, we have a new down-type Dirac quark and a new Dirac charged lepton with masses about (500 - 100o0) GeV. These charged particles, especially the new quark can be produced at the LHC and hopefully be observed.
+
+# Acknowledgments
+
+We would like to thank Xiao-jun Bi, Yu-feng Zhou and Shou-hua Zhu for helpful discussions. This work was supported in part by the National Science Foundation of China under Grant Nos. 11075193,and 10821504,by the National Basic Research Program of China under Grant No. 2010CB833000,and by CAS via KJCX3-SYW-N2.
+
+[1] For the earliest, see F. Zwicky, Helv. Phys. Acta 6 (1933) 110; For a review, see G. Bertone, D.Hooper and J. Silk,Phys. Rept.405 (2005) 279,and references therein.   
+[2] For reviews,see E.W. Kolb and M.S. Turner, The Early Universe, (Addison-Wesley, Redwood City, CA,1990); M. Drees and G. Gerbier,Phys. Lett. B 667 (2008) 241; J.L. Feng, J. Phys. G 32 (2006) R1.   
+[3] H. Georgi and S. L. Glashow,Phys. Rev. Lett. 32 (1974) 438; J.C. Pati ans A. Salam, Phys. Rev. D 10 (1974) 275.   
+[4] Y. Golfand and E. Likhtman, JETP Lett.13 (1971) 323; D.V. Volkov and V. Akulov, Phys. Lett. B 46 (1973) 109; J. Wess and B. Zumino, Nucl. Phys.B 70 (1974) 39; E. Witten, Nucl. Phys.B 188(1981) 513; S. Dimopoulos and H. Georgi, Nucl. Phys. B 193(1981) 150; N. Sakai,Z. Phys. C 11 (1981) 153; L. Ibanez and G.G. Ross, Phys. Lett. B 110 (1982) 215; L. Alvarez-Gaume, M. Claudson and M.B. Wise, Nucl. Phys.B 207 (1982) 96.   
+[5] P. Langacker, M.-X. Luo,Phys. Rev. D 44 (1991) 817; C. Giunti, C.W. Kim, U.W. Lee, Mod. Phys.Lett. A 6 (1991) 1745; U. Amaldi, W. de Boer,H. Furstenau, Phys.Lett.B 260 (1991) 447; J. Ellis, S. Kelley, D. Nanopolous, Phys. Lett. B 260 （1991） 131.   
+[6] N.Arkani-Hamed, D.P. Finkbeiner, T.R. Slatyer and N. Weiner, Phys. Rev.D 79 (2009) 015014; N. Arkani-Hamed and N. Weiner, JHEP 0812 (2008） 104.   
+[7] D.R. Smith and N. Weiner, Phys. Rev. D 64 (2001) 043502; G.Belanger,A. Pukhov and G. Servant, JCAP 0801 (2008) 009.   
+[8] C.Liu, Phys.Rev.D 80 (2009) 035004.   
+[9] D.P. Finkbeiner,L. Goodenough, T.R. Slatyer, M. Vogelsberger and N. Weiner, JCAP 1105 (2011) 002   
+[10] M. Cirelli, A. Strumia,New J.Phys.11(2009) 105005.   
+(11] M. W. Goodman, E. Witten, Phys. Rev. D 31, 3059 (1985)   
+12] E. Aprile et al.(Xenon100 Collaboration), Phys.Rev.Lett. 107 (2011） 131302 .   
+13] J.D. Lewin and P. Smith,Astrop. Phys.6 (1996) 87, J. Engel et al., Int. J. Mod. Phys. E1 (1991)   
+[14] J. Hisano,K. Ishiwata, N. Nagata and T. Takesako, JHEP 1107 (2011) 005.   
+[15] J. Beringer et al. (Particle Data Group), Phys.Rev. D 86 (2012) 010001.   
+[16] S. Chatrchyan et al.(CMS Collaboration),arXiv:1210.7471 [hep-exl; For a good review, see Y. Okada and L. Panizzi, arXiv:1207.5607 [hep-ph].   
+[17] M. Jezabek and J.H. Kühn, Nucl. Phys. B 314 (1989)1; J. Reid, G. Tupper, G. Li and M.A. Samuel, Z. Phys. C 51 (1991) 395.   
+[18] E.L. Berger and H. Contopanagos, Phys. Lett. B 361 (1995) 115, hep-ph/9512212; P. Nason, S. Dawson and R. K. Ellis, Nucl. Phys. B 303 (1988) 607; For a review, see T. Han, hep-ph/0508097.   
+[19] P.H. Frampton, D. Ng, M. Sher and Y. Yuan, Phys. Rev. D 48 (1993) 3128; J.E. Cieza Montalvo and P.P.de Queiroz Filho,Phys.Rev. D 66 (2002) 055003; C. Liu and S. Yang, Phys. Rev. D 81 (2010) 093009.   
+[20] G. Belanger, F. Boudjema,A. Pukhov and A. Semenov, arXiv:1005.4133 [hep-ph].   
+[21] G. Belanger, F. Boudjema,A. Pukhov and A. Semenov,arXiv:0803.2360 [hep-ph].   
+[22] G. Belanger, F. Boudjema, A. Pukhov and A. Semenov, Comput. Phys. Commun. 176 (2007) 367 [arXiv:hep-ph/0607059].   
+[23] S.Weinberg,arXiv:hep-ph/9211298.   
+[24] L.E. Ibanez and G.G. Ross, Nucl. Phys. B 368 (1992) 3.   
+[25] L.M. Krauss and F. Wilczek, Phys. Rev. Lett. 62 (1989) 1221.   
+[26] J. Chang et al. (ATIC Collaboration), Nature 456 (2008) 362.   
+[27] O.Adriani et al. (PAMELA Collaboration), Nature 458 (2009) 607.   
+[28] A.A. Abdo et al. (Fermi LAT Collaboration),Phys. Rev. Lett.102,181101 (2009); M. Ackermann et al. (Fermi LAT Collaboration), Phys. Rev.Lett.108, 011103 (2012)   
+[29] For reviews, see X.-G. He, Mod. Phys. Lett. A 24 (2009) 2139; J.-M. Yang, Mod. Phys. Lett. A 25 (2010) 976.   
+[30] P.-F. Yin, Q. Yuan, J. Liu, J. Zhang, X.-J. Bi, S.-H. Zhu and X.-M. Zhang, Phys. Rev. D 79 (2009)023512； J.T. Ruderman and T. Volansky, JHEP 1002 (2010) 024; W.-L. Guo, Y.-L. Wu, Y.-F. Zhou, Phys. Rev. D 81 (2010) 075014; M.-X. Luo, L.-C. Wang, W. Wu,and G.-H. Zhu,Phys.Lett. B 688 (2010) 216; X. Gao, Z. Kang and T. Li, Eur. Phys. J. C 69 (2010) 467.   
+[31] J. Feng and H.-B. Yu. Phvs. Rev. D 82 (201O) 083525.

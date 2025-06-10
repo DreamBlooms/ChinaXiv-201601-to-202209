@@ -1,0 +1,174 @@
+# 应用正电子湮没谱学技术研究Fe-Cu合金微观缺陷的进展
+
+★
+
+成国栋1曹兴忠吴建平伍海彪1杨静²姜小盼²于润升²王宝义²（1成都理工大学，成都610049；2中国科学院高能物理研究所核分析技术重点实验室，北京 100049)
+
+# 摘要
+
+正电子湮没谱学技术成为研究材料微观结构的特色表征技术，是基于正电子在材料中与微观缺陷的捕获湮没机制近年来正电子湮没多参数测量技术的发展，进一步拓展了其在新型功能材料微观结构研究中的应用。本文综合正电子湮没寿命谱及多参数测量技术，针对近年来材料辐照改性、辐照损伤等复杂微观缺陷结构的研究，以二元Fe-Cu合金辐照损伤缺陷及微量Cu析出物的微观结构研究为基础，综合论述正电子湮没谱学技术在Fe-Cu合金复杂微观缺陷结构研究中的应用研究进展。
+
+关键词：正电子湮没；Fe-Cu合金；微观缺陷；Cu析出；
+
+Progress of micro-defects in Fe-Cu alloys using Positron
+
+# Annihilation techniques
+
+CHENG Guodong'² CAO Xingzhong² WU Jianping' WU Haibiao1² YANG Jing² JIANG Xiaopan ZHANG Peng² LI ZhuoxinYU RunshengWANG Baoyi² （1 Chengdu University of Technology, Chengdu 610049;   
+2 Key Laboratory of Nuclear Analysis Techniques, Institute of High Energy Physics, Chinese Academy of Sciences,Beijing 100049 )
+
+# Abstract
+
+Due to the fundamental mechanism of positrons annihilation as captured by micro-defects in materials, positron annihilation techniques usually used to study of microstructure of materials as a unique technique. In recent years, it has been applied to research the microstructure of advanced materials with the development of multiple-parameters technique. Aiming to investigate the microstructure, irradiation effects and complexes defects of irradiation induced, Fe-Cu binary model alloys are selected to discuss the research progress of positron annihilation techniques，as PALS，CDB and AMOC,especially for the application to research the radiation damage and ultrafine Cu precipitates in Fe-Cu alloys.
+
+# Key words
+
+Positron annihilation, Fe-Cu alloys, micro defect, Cu precipitates
+
+# 0引言
+
+正电子湮没谱学技术是研究材料中微观结构的灵敏手段和特色方法，其物理基础为正电子与材料中微观缺陷的相互作用以及正电子的“被捕获”湮没机制。正电子在材料中对空位、空位团、微孔洞等空位型缺陷的存在非常敏感，通过测量正电子与材料中电子的湮没寿命，以及湮没后释放 $\gamma$ 射线的动量分布等，可反映正电子湮没位置处的材料微观缺陷结构和湮没电子结构分布信息[2-4]。正电子湮没谱学主要有三种基本测量方法：正电子湮没寿命谱(PALS）、多普勒展宽谱（DBS）以及正电子湮没角关联测量技术（ACAR)。近年来发展的新型正电子湮没多参数测量技术包括符合多普勒（CDB）、寿命-动量关联谱（AMOC)。正电子湮没谱学技术在表征材料微观缺陷的种类及浓度的基础上，拓展了对缺陷内部和缺陷周围元素分布以及湮没电子结构的构型和变化的研究，以及分析缺陷构型、杂质原子或者添加元素与微观缺陷的相互作用过程等[6,7]。
+
+固体材料在淬火、冷热加工过程和辐照条件下均会产生缺陷，例如金属合金在辐照等条件下产生位错、空位、空位团以及微量元素析出等缺陷[13]。这些缺陷影响固体材料内部电子势场的分布，对正电子形成不同的亲和势，从而影响正电子的捕获湮没过程。正电子湮没谱学技术可以从物理机制上对材料微观结构的细微变化进行分析和研究，因此，针对金属及合金微观缺陷结构的研究是近几十年来正电子湮没谱写应用研究的热点之一[2-5]。
+
+近年来，核能的快速发展带动了针对核反应堆相关基础结构材料辐照损伤效应的大量研究，如核燃料包壳材料、反应堆压力容器（RPV）钢等金属合金材料的微结构及其对材料宏观性能影响的研究[8-13]。其中反应堆压力容器钢的辐照脆化和硬化现象是核电站安全运行的重要安全隐患及限制核电站安全运行年限的主要因素之一。早在1983年，Odette 等就提出高密度的纳米Cu析出物和空位溶质原子复合体会导致反应堆压力容器钢脆化[14]，随后Phythian（1995 年），Odette（1997），Y.Nagai（2000)，Odette（2001），Wirth（2002）和 Q.Xu（2006）等展开了大量研究[13,15-19]。研究发现Cu 原子的析出会阻碍位错的运动，使材料的硬度增加和延展性变差，表明Cu原子的析出现象是导致压力容器钢硬化和脆化的主要原因之一。商业化核能结构材料的组成元素非常复杂，其中微量Cu元素的引入主要以人为添加改性方式或杂质途径。研究人员通常选用Fe-Cu二元模型合金作为研究对象，以排除掺杂元素的干扰、简化微结构模型，达到分析并探讨合金中Cu析出机制的研究目的。对于低Cu含量（ $< 1 \%$ ）的Fe-Cu合金而言，辐照产生的缺陷以空位、空位团、间隙原子和位错为主，形成 $\mathrm { { C u } }$ 析出物、Cu原子和空位复合体等复杂微观结构。而对于纳米Cu析出颗粒（(Sub)nano embedded particles，SNEPs）以及退火回复过程中空位等缺陷的迁移情况的研究，采用传统的实验技术并不能精确的探测到析出的尺寸和缺陷的变化过程[10-14]，如 TEM、SEM、XRD 等。
+
+正电子湮没技术的特点在于对空位型缺陷的自发搜索探测。有研究表明，Fe-Cu合金中的纳米Cu析出物对正电子产生亲和作用，通过正电子波函数的模拟结果也表明，正电子被局限于纳米Cu析出物中，形成类似量子点效应的捕获机制，导致正电子主要与析出物内部Cu元素电子发生湮没，这种捕获机制使得正电子湮没谱学技术对纳米Cu析出物（ $\triangleleft { \bf \Phi } _ { \mathrm { n m } }$ ）的表征成为可能，这是高分辨透射电镜等传统实验技术无法比拟的优势[8,12,13]。本文将主要介绍正电子湮没寿命谱、正电子多普勒技术、寿命-动量关联技术和相关的正电子理论计算在Fe-Cu合金中微观缺陷的研究进展。
+
+# 1正电子湮没寿命谱应用
+
+正电子湮没寿命定义为正电子自“产生”到进入材料后“湮没”形成 $\gamma$ 光子后所经历的时间长度，正电子寿命谱测量原理如图1所示。实验通常采用半衰期为2.6年的 $^ { 2 2 } \mathrm { { N a } }$ 同位素源作为正电子源，其特点为发生 $\beta$ 衰变放出一个正电子的同时，伴随发射出一个能量为 $1 . 2 8 ~ \mathrm { M e V }$ 的 $\gamma$ 光子。正电子在材料中与电子湮没后释放出一对能量为 $0 . 5 1 1 \mathrm { M e V }$ 的 $\gamma$ 光子，其夹角为180度。通过测量伴随释放的 $\gamma$ 光子与正电子湮没后释放的 $\gamma$ 光子之间的时间间隔，实现正电子湮没寿命的测量。
+
+![](images/154b289d3085f881456e09f54576a4f3cf8e87543850a4430696d52630103ac2.jpg)  
+图1正电子寿命谱仪测量原理
+
+正电子湮没率可用正电子湮没寿命的倒数来表示，正比于正电子湮没处的电子密度，如公式（1）所示。在金属合金体系中，空位、小空位团及开空间缺陷的电子密度比完整晶体的电子密度低，导致正电子湮没寿命比完整晶体材料的湮没寿命长，研究表明正电子湮没寿命值的大小正比于空位团的尺寸。因此正电子湮没寿命的变化谱直观反映了空位迁移和缺陷回复过程，结合正电子理论计算可以为实验提供理论依据[20-21,34]。
+
+$$
+\lambda = \frac { 1 } { \tau } = \pi r _ { 0 } ^ { 2 } c n _ { e } \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots
+$$
+
+![](images/fed9e54a16d07545002bf7e67e404f32685093140447f6cd99983068faf1a076.jpg)  
+Fig.1 The principle of positron lifetime spectrometer   
+图 $2 \ \mathrm { F e } { - } 0 . 1 5 \mathrm { C u }$ 淬火后正电子湮没寿命谱图  
+Fig.2 Positron lifetime spectrum of quenched Fe-O.15Cu
+
+图2所示为 $\mathrm { F e - } 0 . 1 5 \mathrm { C u }$ 样品在1173K恒温 $^ { 2 \mathrm { ~ h ~ } }$ 后淬火至 $2 7 3 \mathrm { ~ K ~ }$ 的正电子湮没寿命谱测量谱线。通过LT-9软件两成分拟合后，得到102.5ps和208.7ps 两个寿命成分，参考Puska[34等对纯Fe 中正电子湮没寿命的模拟计算，分别对应Fe-0.15Cu材料中正电子在完整晶格和空位团处的湮没寿命。
+
+M.Eldrup[22]等通过中子辐照纯Fe样品后，进行了正电子湮没寿命谱测量。结果表明中子辐照纯Fe样品后产生了大量的空位团；退火处理辐照样品的测量结果显示，随着退火温度的增加空位先发生聚集后再逐渐分离和回复；在接近 $5 7 3 \mathrm { K }$ 退火后，小的空位团（10个空位）已经回复。
+
+Y.Nagai[8] 等在 573K的温度下对 Fe-Cu合金进行了中子辐照。正电子寿命谱测量结果显示辐照后的Fe-Cu合金存在300ps 的长寿命成分，约聚集了10个Cu原子空位复合体，表明Cu的加入使小的空位团变得稳定。
+
+Q.Xu[21]等对低温电子辐照的Fe-Cu合金样品，从 $7 7 \mathrm { K }$ 到 $7 0 0 \mathrm { K }$ 之间进行了等时退火。正电子湮没寿命谱测量结果表明，低温电子辐照Fe-Cu合金主要形成单空位型缺陷；Cu微小纳米颗粒的析出降低了合金中单空位的迁移温度。
+
+Q. $\mathrm { { X u } ^ { [ 2 3 ] } }$ 等通过正电子湮没谱学测量了中子辐照后的Fe-Cu合金样品。实验结果表明，低剂量的中子辐照样品中形成了Cu析出物和微孔洞；辐照剂量的增加，导致空位逐渐聚集、微孔洞逐渐长大；正电子湮没多普勒展开能谱的测量结果表明正电子主要在Cu析出物中湮没。提出了中子辐照Fe-Cu合金时Cu析出物形成的三个过程：低剂量中子辐照时Cu原子通过空位迁移开始聚集；Cu原子聚集使得微孔洞形成并且长大；微孔洞的形成有利于Cu原子的聚集和析出。
+
+T.Ishizakil24等改变形变速度研究Fe-Cu合金微观缺陷。正电子湮没寿命谱测量结果显示，快速形变Fe-Cu合金主要引入双空位和三空位；慢速形变主要引入单空位。
+
+# 2正电子湮没多参数测量技术的应用
+
+进入材料的正电子热化后与电子发生双 $\gamma$ 光子湮没，其中正电子-电子湮没对的动量在实验坐标系中导致湮没 $\gamma$ 光子能谱的多普勒展宽，采用高能量分辨率的固体探测器可以探测 $\gamma$ 光子在 $0 . 5 1 1 \mathrm { M e V }$ 附近的多普勒展宽效应[25]。热化后的正电子能量较低，正负电子湮没对的动量主要来自电子的动量，通过多普勒展宽能谱测量可以反映正电子湮没处的电子动量分布信息。传统的单多普勒测量系统采用高纯锗探测器探测正电子湮没释放的 $\gamma$ 光子能量，得到的多普勒能谱通常用S和W参数来分析展宽效应。图3给出了S和W参数的定义，其中S参数定义为0.511MeV峰中央区计数和与总计数之比，W参数则定义为峰两侧计数和与总计数之比。一般而言，S参数代表正电子和价电子的湮没信息，W参数代表正电子和核心电子的湮没信息。在Fe-Cu合金中，与完全退火的样品相比，S参数的增大主要由于正电子和合金中的空位型缺陷湮没，W 参数可用来估计正电子湮没位置处Cu原子的数目[13]。
+
+单探头多普勒展宽能谱测量系统存在信号堆积、康普顿散射等问题，导致测量谱线本底增加，代表核心电子湮没的高动量区域信息很难从本底中分离出来。因此K.G.Lynn 等在1996 提出了符合多普勒（CDB）的设计思想，使用双探测器对湮没产生的两个 $0 . 5 1 1 \mathrm { M e V }$ 的 $\gamma$ 光子进行探测，通过湮没信号的时间和能量的相关性符合，获取以两探测器探测的信号分别为横纵坐标的符合多普勒谱图（CDB)。通过降低散射、堆积信号以及电荷收集不完全等因素造成的本底信息，使峰值与本底的比例比单多普勒展宽能谱测量系统高 $1 0 ^ { 3 }$ ，能够清晰的反映出正电子和不同核心电子的湮没4。由于核心电子能够反映出原子的特征信息，因此CDB的测量不仅可以分析空位型缺陷，也能得到材料中纳米级嵌入原子的信息，被广泛的应用于金属及合金材料的研究，如反应堆压力容器钢模型材料Fe-Cu 合金中Cu 的聚集和析出[8-13,26]。
+
+![](images/5e483a8448c89235d96fee3f8244000c883220a807a81901026f56f5f51df24b.jpg)  
+图3S参数和W参数定义区域
+
+正电子寿命-动量关联谱（AMOC）技术是一种新发展的测量方法，能够同时测量正电子湮没寿命和湮没光子多普勒展宽谱信息，反映正电子湮没寿命范畴内湮没电子的动量分布变化以及正电子与不同动量电子发生湮没的寿命关系。近年来采用AMOC技术对电子偶素、小颗粒的氧化物粉末和析出物半径等展开了大量的研究[12.27]。此处，对 FeCu 合金能研究什么？
+
+Y.Nagai[17]等对高温淬火 $\mathrm { F e - 1 . 0 C u }$ 合金，在 $8 2 3 \mathrm { ~ K ~ }$ 的温度下进行等温退火 $0 . 1 { \sim } 3 1 2 \mathrm { h }$ 处理，正电子单多普勒测量结果如图4所示。测量结果表明：淬火后的 $\mathrm { F e - 1 . 0 C u }$ 合金样品中没有探测到 $\mathrm { C u }$ 原子的析出现象；随着退火时间的延长， $\mathtt { C u }$ 原子逐渐聚集；在 $1 0 { \sim } 3 1 2 \mathrm { ~ h ~ }$ 的退火过程中，测量结果显示W参数逐渐降低，S参数逐渐增大。作者解释为Fe-Cu合金中Cu原子空位复合体的减少，导致缺陷对正电子的亲和势降低， $\mathtt { C u }$ 析出物的微观结构发生了变化。
+
+![](images/bfddad772aea8883f13f374dae441b28730838ad2fa1a92218aa41c066e854a4.jpg)  
+Fig.3The definition of S parameters and W parameters   
+图4等温退火后 S-W参数图[17]
+
+Fig.4 Aging time dependence of S-and W-parameter correlation
+
+T.Onitsuka[等通过形变 $\mathrm { F e - 1 . 0 C u }$ 合金，再在不同温度等时退火处理，CDB测量结果如图5所示。实验结果表明形变 $\mathrm { F e - 1 . 0 C u }$ 合金样品产生了大量的缺陷；在退火前，正电子测量结果主要反映的是缺陷的信息；随着退火温度的增加，正电子测量结果表明Cu原子在不断的聚集；在 $6 7 3 \mathrm { K }$ 退火后，Cu原子空位复合体开始转变成Cu析出物。
+
+![](images/7059bf1178d172f545e5fe5dfe7037d6dcc5f1108d2ebecdb9607bbbd2e3d2e9.jpg)  
+图5CDB测量淬火形变后等时退火 $\mathrm { F e - 1 . 0 C u }$ 数据图 9
+
+Fig.5 The CDB results of $\mathrm { F e - 1 . 0 C u }$ ，quenched and then rolled, followed by a subsequent isochronal annealing
+
+T.Ishizaki[24]等通过控制形变速度研究Fe-Cu合金微观缺陷。CDB 测量结果表明：快速形变Fe-Cu合金Cu析出物在 $6 7 3 \mathrm { K }$ 退火 $1 0 \mathrm { { h } }$ 后达到饱和，而慢速形变Fe-Cu合Cu析出物在 $6 7 3 \mathrm { ~ K ~ }$ 退火 $^ { 1 0 0 \mathrm { ~ h ~ } }$ 后才能达到饱和；在 $6 7 3 \mathrm { ~ K ~ }$ 退火 $1 0 0 \mathrm { h }$ 后，Fe-Cu合金中的空位型缺陷基本回复。
+
+Y.Nagai等在 $5 7 3 \mathrm { K }$ 中子辐照Fe-Cu合金，再对辐照样品进行不同温度等时退火处理。正电子湮没谱学测量结果表明：辐照诱导 $\mathtt { C u }$ 空位复合体转化成微孔洞；在 $6 7 3 \mathrm { K }$ 退火后，微孔洞的空位开始分离，Cu原子聚集成约 $1 \mathrm { n m }$ 左右的Cu析出物；在 $9 2 3 \mathrm { ~ K ~ }$ 退火后，Cu析出物开始逐渐溶解。
+
+$\boldsymbol { \mathrm { Q . X u } } ^ { [ 1 3 ] }$ 等通过控制辐照剂量中子辐照Fe-Cu合金。正电子测量结果表明：低剂量中子辐照Fe-Cu 合金使空位逐渐聚集；高剂量中子辐照Fe-Cu 合金使Cu原子逐渐聚集。
+
+FuminobuHori[28]等通过 $\mathrm { C u } ^ { 2 + }$ 注入纯Fe样品，再在不同温度等时退火处理。正电子湮没谱学测量结果表明：在 $3 0 0 { \sim } 4 0 0 \mathrm { K }$ 退火处理后， $\mathtt { C u }$ 原子通过空位迁移机制开始形成 $\mathtt { C u }$ 空位复合体； $4 0 0 \mathrm { ~ K ~ }$ 以上温度退火后，空位开始湮没，Cu原子开始聚集并且逐步形成 $\mathtt { C u }$ 析出物。
+
+K.Inoue[12]等通过 $\mathtt { C u }$ 离子注入纯Fe样品形成 $\mathrm { F e - 0 . 8 8 C u }$ 合金，再在 $8 2 3 \mathrm { ~ K ~ }$ 退火 $0 . 1 \mathrm { ~ h ~ }$ 、 $0 . 2 \mathrm { ~ h ~ }$ 和 $2 \mathrm { h }$ 。用高时间分辨率的AMOC测量系统对退火后的样品进行测量。得出来的结果和3D-AP测试结果进行比较，结果如下表1所示。在 $\mathtt { C u }$ 析出物半径小于 $1 \mathrm { n m }$ 的时候，3D-AP的探测效率只有 $50 \%$ ，AMOC的测量结果比3D-AP准确。
+
+表13D-AP和AMOC探测Cu析出物的半径和数密度  
+Table.1 The number density and radius of $\mathrm { C u }$ precipitates detected by 3D-AP and AMOC   
+
+<html><body><table><tr><td rowspan="2">Aging time (hour)</td><td rowspan="2">Radius (nm)</td><td colspan="2">Number density (x1o17cm-3)</td></tr><tr><td>3D-AP</td><td>AMOC</td></tr><tr><td>0.1</td><td>0.45</td><td>0.15</td><td>0.71</td></tr><tr><td>0.2</td><td>0.55</td><td>1.2</td><td>1.6</td></tr><tr><td>2</td><td>1.25</td><td>1.9</td><td>2.1</td></tr></table></body></html>
+
+# 3正电子理论计算方法在Fe-Cu合金微观缺陷中的应用
+
+正电子理论计算是正电子研究领域之一，可以为实验结果提供清晰而准确的物理图像，从而有力的支持和解释正电子实验数据。正电子理论计算的多种方法中，构建电子和正电子密度以及库伦势能分布上主要有两类，一类是从头计算的理论方法；一类是中性叠加原理（ATSUP） [29]
+
+正电子理论计算包括正电子湮没寿命和正电子湮没动量分布的计算。正电子湮没寿命 $\boldsymbol { \tau }$ 是正电子湮没率 $\lambda$ 的倒数，正电子湮没率正比于正电子湮没处的电子密度，可以通过下式计算：
+
+$$
+\lambda = \frac { 1 } { \tau } = { \pi r _ { 0 } ^ { 2 } c } { \int } d r n _ { + } ( r ) n _ { - } ( r ) \gamma ( r ) \underbrace { \phantom { { \theta } _ { 1 } ^ { 2 } \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots } } _ { \mathrm { . } \mathrm { ~ } } .
+$$
+
+其中 $r _ { 0 }$ 为电子的经典半径,c为光速, $\gamma ( \mathrm { r } )$ 为增强因子。Boronshi，Nieminen,以及JMCampillo等人发表的论文对各个因子的计算方法有详细的介绍[30.31.34]。 。正电子-电子湮没对的动量分布可通过下式计算 [3233]。
+
+$$
+\rho ( p ) = { \pi _ { 0 } ^ { 2 } } c u _ { j } ^ { 2 } ( 0 ) { \sum _ { i } } \left| \int d r e ^ { - i p \bullet r } { \psi _ { i } ^ { e p } } ( r , r ^ { \prime } ) ^ { 2 } \right| _  \substack  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$$
+
+其中 $\psi _ { i } ^ { e p } ( \boldsymbol { r } , \boldsymbol { r } ^ { \prime } )$ 为正电子和电子的叠加波函数，关联增强因子 $u _ { j } ^ { 2 }$ 可以通过实验结果进行拟合。每一层电子的湮没率 $\lambda _ { j }$ 可以通过LDA 和GGA 进行模拟计算，公式如下：
+
+$$
+\lambda _ { j } = { \pi _ { 0 } ^ { \prime } } _ { c } ^ { 2 } \Bigl [ d r \gamma ^ { L D A , G G A } ( r ) \bigl | \psi _ { + } ( r ) \bigr | ^ { 2 } \bigl | \psi _ { j } ( r ) \bigr | ^ { 2 } \underbrace  \phantom  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$$
+
+采用密度泛函理论对正电子在Fe与 $\mathtt { C u }$ 中的湮没寿命和湮没动量分布进行模拟，结果表明正电子在完整晶体结构Fe 中湮没寿命约108.12 ps（实验测量值约107ps)，在完整晶体结构 $\mathtt { C u }$ 中的湮没寿命为125.52ps（实验测量值约122ps）[。正电子与完整晶体金属Cu 和Fe中层电子的湮没动量分布的模拟结果如图6所示。结果表明，与正电子湮没的3d电子的动量差异是形成CDB谱图中 Cu 峰的主要原因。
+
+![](images/2dd5661c06ec38d2470399e113b247b72104a535c995a2c05375110b886aa8a7.jpg)  
+图 $6 \mathrm { C u }$ 、Fe原子层电子与正电子湮没率的模拟结果
+
+Fig.6 The ratio for annihilation rate of shell electrons with positron in Cu and Fe
+
+# 4总结
+
+正电子湮没技术对空位型缺陷十分敏感，是金属及合金材料微观结构研究中必不可少的研究手段之一。多参数测量技术的发展，使得金属及合金材料中微观缺陷内部及周围化学环境的研究得以开展，包括湮没电子结构的构型和变化、缺陷构型、微量元素与微观缺陷的相互作用等的研究。本文主要讨论了正电子湮没技术在Fe-Cu合金中空位、空位团和Cu析出物等微观缺陷研究中的应用。对比传统的研究方法，如TEM、SEM、XRD等，正电子湮没谱学测量主要针对合金中缺陷类型的鉴别、缺陷浓度的分析、以及缺陷变化信息的表征具有独特的优势。结合理论模拟，可以定量分析微观缺陷的浓度变化。多参数测量技术对合金中Cu析出物等表征非常灵敏，结合理论模拟可以对Cu析出物的半径和数密度进行初步估算。
+
+Fe-Cu合金作为模拟反应堆压力容器模型合金，虽然，其微观缺陷结构得到广泛的研究，特别是在小尺寸缺陷和Cu析出机制等方面的研究进展很大。但对于Cu析出物的早期形成过程以及析出物的结构变化仍然不是很清晰，相关问题有待进一步深入的研究和分析。
+
+# 参考文献：
+
+[1] W.Brandt and A.Dupasquier, Poaitronin Solid-Sate Physics, edited[M]. NorthHolland, Amsterdam, 1983.   
+[2] M.J.Puska and R.M.Niminen[J], Rev.Mod.Phys,1994, 66(3):841   
+[3] A.Dupasquier and A.P.Mills, Jr. Positron Spectroscopy of Solids[M]. IOS Press, Amsterdam,1995.   
+[4] P. Asoka-Kumar， M. Alatalo, V.J. Ghosh, A.C. Kruseman, B. Nielsen, and K.G. Lynn[J],Phys. Rev. Lett, 1996,77(10):2097,   
+[5]王少阶．应用正电子谱学[M]．武汉：湖北科学技术出版社，2008.   
+[6] 滕敏康．正电子湮灭谱学及其应用[M]．北京：原子能出版社，2000. [7] 郁伟中．正电子物理及其应用[M]．北京：科学出版社，2003.   
+[8] Y.Nagai, Z.Tang,M.Hasegawa, T.Kanai, and M.Saneyasu [J], Phys. Rev. B, 2001, 63(13):134110.   
+[9] T. Onitsuka, M. Takenaka, E. Kuramoto, Y. Nagai, and M. Hasegawa[J], Phys. Rev. B, 2001, 65(1): 012204   
+[10]Y. Nagai,K. Takadate,Z. Tang,H. Ohkubo,H. Sunaga,H. Takizawa,and M. Hasegawa[J],Phys.Rev.B,2003,67(22):224202   
+[11] M. Hasegawa, Z. Tang, Y. Nagai, T. Chiba, E. Kuramoto and M. Takenaka[J], Philosophiical Magazine, 2005, 85(4-7): 467-478   
+[12] K. Inoue，Y. Nagai， Z. Tang，T. Toyama,Y. Hosoda,A. Tsuto，and M. Hasegawa, Phys. Rev.B, 2011, 83(11): 115459   
+[13] Q.Xu,T.Yoshiie,and K.Sato[J],Phys.Rev.B,2006,73(13):134115   
+[14] G.R.Odette, Scripta Metallurgica[J],1983,17(10):1183-1188   
+[15] J.T. Buswell,W.J.Phythian,R.J. McElroy, S. Dumbill, P.H.N. Ray, J. Mace, R.N. Sinclair[J],J.Nucl.Mater,1995,225(2),196-214   
+[16] G.R.Odette, B.D.Wirth[J],1997,251(11):157-171 [17]Y.Nagai, M.Hasegawa, Z.Tang， A.Hempel， K.Yubuta, T.Shimamura, Y.Kawazoe, A.Kawai, and F.Kano, Phys.Rev.B,2000,61(1O):6574   
+[18] G.R.Odette, Encyclopedia of materials[M], Science and Technology,2001. [19] J. Marian,B.D.Wirth ,R.Schäublin, J.M. Perlado, T. Diaz de la Rubia [J], J. Nucl. Mater, 2002,307-311(2):871-875   
+[20] M.Lambrecht and A.Almazouzi[J],Journal of Physics,2011,265(1):012009 [21] XingZhong Cao,Qiu.Xu, KoichiSato,and ToshimasaYoshiie, Phys. Status. Solidi C6,2009, 11: 2355-2358   
+[22] W.J.Phythian and C.A.English,J.Nucl.Mater[J],1993,205:162-177   
+[23] Q.Xu,T.Yoshiie,and K.Sato, Philosophical.Magazine.Letters [J], 2008,88(5):353-362   
+[24] T.Ishizaki,T.Yoshiie,K.Sato,S.Yanagita,Q.Xu,M.Komatsu and M.Kiritanni,Materials.Sciwnce and Engineering[J],2003,A350:102-107   
+[25] K. G. Lynn, J. R. MacDonald, R. A. Boie, L. C. Feldman, J. D. Gabbe, M. F. Robbins,E. Bonderup, and J. Golovchenko[J],Phys.Rev.Lett,1977,38(5):241 [26] C.Hugenschmidt,P.Pikart, M.Stadlbauer and K.Schreckenbach[J], Phys.Rev.B, 2008,77(9):092105   
+[27] N.Suzuki,Y.Nagai and T.Hyodo[J],Phys.Rev.B,1999,6O(14):9893   
+[28] FuminobuHori,ShinjiTannaka,EiichiKuramoto and Akihiro Iwase[J],Nucl.Instrum,Meth.B,2006,245:180-183   
+[29] 陈祥磊.基于中性原子叠加模型的正电子计算[M],博士论文，2009.   
+[30] J.M. Campillo. Robles,E. Ogando and F. Plazaola[J], J. Phys: Condens. Matter, 2007,19:176222   
+[31] E.Boronski and R.M.Nieminen[J],Phys.Rev.B,1986,34(6):3820-3831   
+[32] M. Alatalo,B.Barbiellini,M. Hakala, H. Kauppinen， T. Korhonen，M. J. Puska, K. Saarinen[J],Phys.Rev.B,1996,54(4):2397   
+[33] Z. Tang,M. Hasegawa,Y. Nagai, M. Saito,and Y. Kawazoe[J], Phys.Rev.B, 2002,65(4):045108   
+[34]M.J.Puska and R.M.Nieminen[J],J.Phys.F:Met.Phys,1983,13:333

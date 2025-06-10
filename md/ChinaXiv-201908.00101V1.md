@@ -1,0 +1,121 @@
+# 1竹叶花椒ZaGGPPS基因克隆与表达分析
+
+关淑文1²，王毅2\*，郝佳波²，原晓龙，陆斌，李贤忠1（1.西南林业大学 林学院，昆明650224；2.云南省林业科学院，云南省森林植物培育与开发利用重点实验室，国家林业局云南珍稀濒特森林植物保护和繁育重点实验室，昆明650201)
+
+摘要：为了揭示竹叶花椒萜类代谢的分子机理及嫁接对其风味的影响，本研究依据转录组数据设计特异性引物，采用RT-PCR方法从竹叶花椒(Zanthoxylumarmatum)中克隆得到一个全新的牛儿基牛儿基焦磷酸合成酶(GGPPS)基因的全长cDNA序列，命名为ZaGGPPS。利用 NCBI、ProParam、SignalP 4.1 server、DNAMAN 和 MEGA 7.0 软件对 ZaGGPPS 基因进行生物信息学分析，并比较其在嫁接树和实生树中的表达量，结果表明：ZaGGPPS 包含完整的cDNA开放阅读框(OFR)，由1086 bp 组成，编码361个氨基酸。其蛋白的相对分子量为39079.14Da，理论等电点pI为6.38。Blast比对结果显示该蛋白质属于GGPPS家族蛋白，含有2个GGPPS 蛋白特有的天冬氨酸富集基序，分别是"DDXXXXD"和"DDXXD”,以及5个特征性功能结构域。系统进化树结果显示竹叶花椒与芸香科植物甜橙(Citrussinensis)、克里曼丁桔(C.clementina)、柚子(C.maxima)等亲缘关系较近。荧光定量PCR检测显示，ZaGGPPS基因在竹叶花椒中的表达量从高到低分别为：实生树的叶、嫁接树的叶、实生树的茎、嫁接树的茎。牛儿基牛儿基焦磷酸合成酶是竹叶花椒萜类化合物生物合成途径中的关键酶，通过嫁接可影响 ZaGGPPS 基因在叶和茎中的表达量。对竹叶花椒ZaGGPPS基因进行克隆与分析，为后续深入研究竹叶花椒香气形成的分子机理及利用分子生物学手段选育优良品种提供理论依据。
+
+关键词：竹叶花椒，牛儿基牛儿基焦磷酸合成酶，克隆，生物信息学分析中图分类号：Q943 文献标识码：A
+
+# Cloning and expression analysis of ZaGGPPS gene from Zanthoxylum armatum
+
+GUAN Shuwen1,², WANG ${ \mathrm { Y i } } ^ { 2 ^ { * } }$ , HAO Jiabo², YUAN Xiaolong², LU $\mathbf { B i n } ^ { 2 }$ ,LI Xianzhong (1. CollegeofForestry,SouthwestForestry University,Kunming 650224,China;2.KeyLaboratoryofForestry Plant Cultivation and Utilization,Key Laboratory of Rare and Endangered Forest Plants of State Forestry Administration, Yunnan Academy ofForestry,Kunming 650201,China)
+
+Abstract: In order to reveal the molecular mechanism of terpenoid metabolism in Zanthoxylum armatum and the effect of grafting on its flavor， we designed specific primers based on transcriptome data and cloned a novel full-length cDNA sequence of geranylgeranyl pyrophosphate synthase (GGPPS） gene from Zanthoxylum armatum by RT-PCR. Named ZaGGPPS. The ZaGGPPS gene was analyzed by using NCBI, ProParam, SignalP 4.1 server, DNAMAN and MEGA7.O software. The expression of ZaGGPPS gene in grafted and seedling trees was compared.The results showed that ZaGGPPS contains a complete open reading frame (OFR),consisting of $1 \ 0 8 6 \ \mathrm { b p }$ ,encoding 361 amino acids. The relative molecular weight of the protein is 39 O79.14 Da and the theoretical isoelectric point pI is 6.38.Blast comparison results showed that the protein belongs to the GGPPS family and contains two specific aspartic acid enrichment motifs,namely "DDXXXXD" and "DDXXD"，and five characteristic functional domains.Phylogenetic tree results showed that Zanthoxylum armatum has close relationships with sweet orange (Citrus sinensis), clementine mandarin (C. clementina) and pomelo (C. maxima). Fluorescence quantitative PCR showed that the expression level of ZaGGPPS gene in Zanthoxylum armatum range from high to low as follows: leaf of seedling tree,leaf of grafted tree, stem of seedling tree and stem of grafted tree. Geranylgeranyl pyrophosphate synthase is a key enzyme in terpenoid biosynthesis pathway of Zanthoxylum armatum. Grafting can affect the expression of ZaGGPPS gene in leaves and stems.The ZaGGPPS gene of Zanthoxylum armatum was cloned and analyzed in order to provide theoretical basis for further study on the molecular mechanism of aroma formation of Zanthoxylum armatum and selection of excellent varieties by molecular biological means.
+
+Key words: Zanthoxylum armatum, geranylgeranyl pyrophosphate synthase (GGPPS), cloning, bioinformatics
+
+花椒属芸香科(Rutaceae)花椒属(Zanthoxylum)植物，在世界上约有 250 个种，其中我国有39 种，14 个变种(杜丽君等,2013)。常见的有竹叶花椒(Zanthoxylum armatum)、青花椒(Z.schinifolium)和红花椒(Z.bungeanum)(陈茜等,2018)。竹叶花椒广泛分布于贵州、广西、云南等地，具有重要的经济价值和生态效益，其果实可作为食用调料、药材等，而且根系发达、耐干旱贫瘠(张云等,2010；王景燕等,2016)。因此，西部经济落后且干旱地区将栽植竹叶花椒作为解决农民劳动就业和增收致富的重要途径(舒正悦等,2018)。
+
+竹叶花椒的挥发油是其香味物质的表征成分，而竹叶花椒的挥发油中有 $6 7 . 1 2 2 \%$ 是萜类化合物，包括 $\mathfrak { a }$ 蒎烯、 ${ \mathfrak { \beta } }$ 蒎烯、 $\beta$ -石竹烯、大根香叶烯等物质，因此，萜类化合物是竹叶花椒香气的重要组分(张云等，2010)。以异戊二烯为结构单元的萜类化合物是植物代谢产物中数量最多的一类，其还参与植物的多种生理生化活动，如呼吸作用、光合作用、生长发育、防御、信号传导、繁殖等，其中部分萜类化合物具有重要的经济价值和药用价值（齐小琼等，2016)。牛儿基牛儿基焦磷酸合成酶(geranylgeranyl pyrophosphate synthase,GGPPS)在萜类化合物生物合成途径中起着关键作用(魏攀等，2016)。植物萜类化合物合成途径分两个阶段，首先是经甲基赤鲜糖醇磷酸途径(methyl-erythritol-phosph-ate，MEP)和甲羟戊酸途径(mevalonic acid,MVA)生成二甲烯丙基焦磷酸酯(dimethylallyl diphosphate,DMAPP)和异戊烯基焦磷酸(isopenteny pyrophosphate，IPP)，然后GGPPS 可催化三个不同的反应，分别是GGPPS 催化1分子法尼基焦磷酸(famesylpyrophosphate，FPP)和1分子 IPP；GGPPS 催化1分子牛儿基焦磷酸(geranyl pyrophosphate,GPP)和 2分子 IPP;GGPPS 催化1分子DMAPP和3分子IPP；三个反应最后都生成牛儿基牛儿基焦磷酸(geranylgeranyl pyrophosphatesynthase,GGPP)(姚雪倩等，2017)。GGPP不仅是控制植物代谢中“碳流”方向的类异戊二烯化合物，而且还是众多化合物的通用前体，可在不同的酶促反应下参与生成多萜醇、赤霉素、叶绿素、脱落酸、类胡萝卜素、辅酶Q、独脚金内酯、多酚、维生素E、维生素 K 等物质，同时研究发现其还参与催化蛋白的异戊二烯化（Yamamuraetal.，2014；李泽锋等，2015；张萌等,2015；韩立敏，2015)。因此，GGPPS 在植物萜类化合物的合成中扮演着重要角色。李锋等人发现在NtGGPPS1 基因上调的烟草中，二萜类化合物与质体色素的含量均有所增加(李锋等，2019)，魏攀等人发现 NtGGPPS1 基因被特异性沉默后的普通烟草 K326表现出植株矮小、生长缓慢、质体色素含量低、花期延迟等特点(魏攀等，2016)。目前人们已在芥蓝(薛生玲等,2018)、烟草(魏攀等,2016)、茶树(姚雪倩等,2017)、篦子三尖杉(齐小琼等,2016)、艾纳香(夏奇峰等,2016)等多种植物中克隆得到牛儿基牛儿基焦磷酸合成酶基因，但尚未见到有关竹叶花椒 ZaGGPPS基因的报道。本研究对竹叶花椒 ZaGGPPS 基因进行克隆与分析，为后续深入研究竹叶花椒香气形成的分子机理及利用分子生物学手段选育优良品种提供理论依据。
+
+# 1材料与方法
+
+# 1.1材料与仪器
+
+材料：于云南省林业科学院树木园( $( 1 0 2 ^ { \circ } 4 4 ^ { \prime } 4 2 . 5 7 ^ { \prime \prime }$ ， $2 5 ^ { \circ } 0 8 ^ { \prime } 5 0 . 6 7 " ,$ 采集竹叶花椒嫁接树和实生树嫩梢上的叶和茎，用液氮保存带回实验室，放在 ${ } ^ { . 8 0 } { } ^ { \circ } { \mathrm { C } } .$ 冰箱中。
+
+仪器：HiFiDNA 聚合酶（北京全式金）；pUMT 载体、T4 连接酶、感受态细胞 $\mathrm { D H } 5 \mathrm { a }$ 订购于生工生物工程（上海）股份有限公司；RNA提取试剂盒(Qiagen)；质粒提取试剂盒（康为世纪）；Super RT 试剂盒(Takara)。PCR 仪(Bio-Rad)、实时荧光定量 PCR 仪(ABI)、离心机(Backman)。
+
+# 1.2RNA提取与cDNA合成
+
+将竹叶花椒的实生树和嫁接树的各器官：叶、茎放到液氮中研磨为粉末后，采用植物RNA 提取试剂盒提取竹叶花椒叶和茎总RNA，其操作按照试剂盒说明书进行，RNA 质量检测使用浓度为 $1 \%$ 的琼脂糖凝胶电泳完成，检测RNA浓度则使用NanoDropTM2000。选择较完整，浓度适宜的RNA，根据制造商的说明，使用反转录试剂盒以 $1 ~ \mu \ g$ 总RNA进行cDNA合成，并置于 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C } .$ 冰箱中保存备用。其余的RNA置于 $. 8 0 ^ { \circ } \mathrm { C } .$ 冰箱中。
+
+# 1.3ZaGGPPS基因的克隆
+
+采用甜橙(Citrus sinensis，NCBI登录号:XP_006466719.1)的GGPPS基因为模板，本地BLAST搜索竹叶花椒的转录组数据，得到竹叶花椒的牛儿基牛儿基焦磷酸合成酶基因(ZaGGPPS）序列，以该序列为依据，设计特异引物(ZaGGPPS1F:5'-ATGACTTGTGTGAATATCGG -3'; ZaGGPPS1R: 5'- TCAATTCTGC CTATAAGCAA- 3')。用竹叶花椒嫁接树和实生树嫩梢的cDNA 为模板，ZaGGPPS1F 和 ZaGGPPS1R 为引物，以HiFiDNA聚合酶进行扩增得到ZaGGPPS全基因片段。经过电泳检测后将目的片段连接到pUMT 载体上，经PCR检测，送往生工基因进行测序。
+
+# 1.4ZaGGPPS基因蛋白序列分析
+
+使用 NCBI上的ORF Finder 分析获得的竹叶花椒牛儿基牛儿基焦磷酸合成酶基因(ZaGGPPS)的cDNA序列，得到蛋白氨基酸序列，并用ProParam预测其蛋白的理化性质；用 SignalP4.1 server预测该蛋白有无信号肽；通过NCBI对牛儿基牛儿基焦磷酸合成酶基因的蛋白氨基酸序列进行序列搜索，选择与 ZaGGPPS 蛋白序列同源性较高的植物牛儿基牛儿基焦磷酸合成酶蛋白序列，利用DNAMAN 将其与竹叶花椒GGPPS 蛋白序列进行相似度比对，最后利用MEGA7.0构建系统进化树。
+
+# 1.5基因的转录模式分析
+
+成功合成cDNA第一条链后，以TZaGGPPSF（ $5 \%$ ACGCCAAAACTTAAACGCCG -3')和 TZaGGPPSR( $5 \%$ GAGAGTTTCTTCTTTGGTAA-3')作为特异引物，且以ubiquitins(NCBI登录号:MK953729)作为内参基因，经荧光定量PCR检测竹叶花椒 ZaGGPPS基因在嫁接树的茎、嫁接树的叶、实生树的茎和实生树的叶中的具体表达情况。用 SYBR Green (invitrogen)检测特异引物的PCR产物。 $2 5 \mu \mathrm { L }$ 反应体系的可选参数如下： $2 { \times } \mathrm { S Y B R }$ 绿色主混合物 $1 2 . 5 ~ \mu \mathrm { L }$ 上下游引物 $( 1 0 ~ \mu \mathrm { m } \bullet \mathrm { L } ^ { - 1 } ) 0 . 5 ~ \mu \mathrm { L }$ ，模板 $( \mathrm { c D N A } ) 1 \mu \mathrm { L }$ ， $\mathrm { d d H } _ { 2 } \mathrm { O } \ 1 0 . 5 \ \mu \mathrm { L }$ 。使用PCR 热循环仪(ABI7300；应用生物系统,FosterCity,CA,USA)。PCR反应程序：变性程序 $( 9 5 ^ { \circ } \mathrm { C } , 1 0 \mathrm { m i n } )$ ，放大定量程序重复45次 $( 9 5 ^ { \circ } \mathrm { C } , 1 5 \mathrm { s } ; 5 7 ^ { \circ } \mathrm { C } , 1 0 \mathrm { s } ; 7 2 ^ { \circ } \mathrm { C } , 1 5 \mathrm { s } ;$ ：单次荧光测量)，熔化曲线程序 $( 6 0 ^ { \circ } \mathrm { C }$ 至 $9 5 ~ ^ { \circ } \mathrm { C } .$ ，加热速度 $0 . 1 ~ ^ { \circ } \mathrm { C }$ ，连续荧光测量)，最后冷却至 $4 0 ~ ^ { \circ } \mathrm { C }$ 。以延伸因子1-alpha (EFla)基因作为基因正常表达的内部调控因子，通过 $\mathsf { q P C R }$ 分析每个样品的至少两个独立的生物学重复和每个生物学重复的三个技术重复，以确保再现性和可靠性。用比较 $\mathbf { C } _ { \mathrm { t } }$ 值法计算相对基因表达量f，其中 $\mathrm { f } { = } 2 ^ { - \triangle \triangle \mathrm { C t } }$ ， $\triangle \triangle { C _ { \mathrm { t } } } =$ （试验目标基因组的 $\mathbf { C } _ { \mathrm { t } }$ 值一试验组参考基因的 $\mathbf { C } _ { \mathrm { t } }$ 值)一(对照组目标基因的 $\mathbf { C } _ { \mathrm { t } }$ 值一对照组参考基因的 $\mathbf { C } _ { \mathrm { t } }$ 值)。
+
+# 2结果与分析
+
+# 2.1RNA提取和ZaGGPPS基因克隆
+
+利用植物总RNA 提取试剂盒成功提取竹叶花椒嫁接树和实生树嫩梢的总RNA后，反转录得到cDNA。以ZaGGPPS1F和 ZaGGPPS1R作为特异引物，成功克隆得到竹叶花椒ZaGGPPS基因(NCBI登录号:MK953731)。在NCBIORFFinder软件上对测序结果分析显示，ZaGGPPS基因具有完整的全长 $1 0 8 6 { \mathrm { b p } }$ 的cDNA开放阅读框(ORF),编码361个氨基酸（图1)。
+
+![](images/ee4e9d88784c40ad12277c8260576b845f2edca530a6b2d996b17d601a4fd8fc.jpg)  
+图1竹叶花椒ZaGGPPS基因克隆  
+Fig.1 Cloning of ZaGGPPS Gene from Zanthoxylum armatum
+
+# 2.2竹叶花椒ZaGGPPS基因蛋白序列分析
+
+用在线程序NCBIORFFinder预测ZaGGPPS基因的开放阅读框，ProParam预测其蛋白的理化性质。结果显示：该蛋白由361个氨基酸残基组成，其分子量为 $3 9 0 7 9 . 1 4 \mathrm { D a }$ ，理论等电点pI为 6.38；将 ZaGGPPS 蛋白序列放在美国国家生物技术信息中心(NCBI)上进行比对，发现推断得到的 361个氨基酸序列与已知功能的甜橙(sweet orange,Citrus sinensis)、克里曼丁桔(clementine mandarin,Citrus clementina)、柚子(pomelo,Citrus maxima)和白梨(whitepear,Pyrus bretschneideri)的GGPPS 蛋白序列相似性较高，结果为：ZaGGPPS蛋白序列与甜橙的CsGGPPS蛋白序列相似性为 $8 2 . 3 2 \%$ ；与克里曼丁桔的CcGGPPS蛋白序列相似性为$8 2 . 0 4 \%$ ，与柚子的 $\mathrm { C m G G P P S }$ 蛋白序列相似性为 $8 2 . 0 4 \%$ ，与白梨的PbGGPPS蛋白序列相似性为 $7 3 . 5 3 \%$ 。对竹叶花椒ZaGGPPS 蛋白序列分析发现，其含有2个GGPPS蛋白特有的保守区,即天冬氨酸富集基序"DDXXXXD"和"DDXXD"(X 为任意氨基酸)，并且发现其含有聚异戊二烯合成酶的5 个特征性功能结构域(I-V)(图 2)。
+
+ZaGGPPS GGKRVRPVLCLAACELVGGHESAAMPAACA IEMIHTMSL IHDDLPCMDNDPLRRGKPTNH   
+CcGGPPS GGKRVRPVLCLAACDLVGGHESMAMPAACSIEMIHTMSLIH LPCMDNDPLRRGKPTNH   
+CsGGPPS GGKRVRPVLCLAACDLVGGHESMAMPAAC IISL. CMDNDPLRRGKPTNH   
+CmGGPPS GGKRVRPVLCLAACDLVGGHESMAMPAAC EMIHTMSLII DLPCMDNDPLRRGKPTNH   
+PbGGPPS GGKRVRPVLCLAACELVGGSESMAMPAACAVEMIHTMSL II DLPCMDNDDLRRGKPTNH \*\*\*\*\*\*\*\*\*\*\*\*\*\*，\*\*\*\*\*\* \*\*\*\*\*\*.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* I Ⅱ   
+ZaGGPPS TVFGEDVAVLAGDAL AYAFEH LAKCIGTEGLVAGQVVDIN   
+CcGGPPS TIYGEDVAVLAGDALL AIYAFEH AV ELAKYTGADG AGQVIDIN   
+CsGGPPS TIYGEDVAVLAGDALI AEH AKYTGADGI AGQVIDIN   
+CmGGPPS TIYGEDVAVLAGDALLAYAFEH YIGADGLVAGQVVDIN   
+PbGGPPS KVFGEDVAVLAGDSLLAFAFEHISLSTVGVSPARIIRAVGELAKSIGSEGLVAGQVVDIN \*\*\*\*\*\*\*\*\*\*.\*\*\*\*\*\*\*\*...\*\*\*\*\*\*\*..\*\*，\*\*\*\*\*\*..\*\*\*\*\*\*\*\*\*\* Ⅲ   
+ZaGGPPS SEGQKDLGIEHLEFIHEHKTAALLEGAVVLGAILGGGNNEDVEKLRTFARCIGLLFQVV   
+CcGGPPS SEGQKDLGIEHLEFIHEHKTAALLEAAVVLGAILGGGTDNEVEKLRTFARCIGLLFQVV   
+CsGGPPS SEGQKDLGIEHLEFIHEHKTAALLEAAVVLGAILGGGTDNEVEKLRTFARCIGLLFQVV   
+CmGGPPS SEGRKGLGIEHLEFIHEHKT ILGGGTDNEVEKLRTFARCIGLLFQVV   
+PbGGPPS SEGLSDVGLEQLEY IHLHKTAALLECSVVLGSILGGGSDSEIEKLRTFARYIGLLFQVV \*\*\* .\*.\*.\*\*.\*\*\*\*\*\*\*\*\*\*.\*\*.\*.\*\*\*\*\* .\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* V   
+ZaGGPPS V/TKSSKELGKTAGKDL VADKLTYPKLLGIEASKQLAEKLNKDAQEQLSGFDQEKAA   
+CcGGPPS LTKSSKELGKTAGKDLVADKLTYPKLLGIEESKKLADKLNKDAQQQLSEFDQEKAV   
+CsGGPPS LTKSSKELGKTAGKDLVADKLTYPKI LGIEESKKLADKLNKDAQQQLSEFDQEKAV   
+CmGGPPS DLTKSSKELGKTAGKDLVADKLTYPK LGIEESKKLADKLNKDAQQQLSEFDQEKAA   
+PbGGPPS VTKSSKELGKTAGKDLVADKVTYPKLLGIEKSREFAEKLNKDAKEQLAGFDPEKAA \*\*\*\*，\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*，\*\*\*\*\*\*\*\*\* \*. \*.\*\*\*\*\*\*..\*\*\*\*\*\*\* V
+
+注:Za.竹叶花椒;Cc.克里曼丁桔(登录号:XP_006425738.1);Cs.甜橙(登录号:XP_006466719.1);Cm.柚子(登录号：AJT59420.1);Pb.白梨(登录号:XP_009379182.1)。
+
+Note: Za.Zanthoxylum armatum; Cc.Citrus clementina(Accession No: XP_006425738.1); Cs. C.sinensis   
+(Accession No: XP_006466719.1); Cm. C.maxima( Accession No: AJT59420.1); Pb.Pyrus bretschneideri (Accessi0n No: XP_009379182.1). 图2GGPPS蛋白序列比对
+
+将推导出来的 ZaGGPPS 蛋白序列放在NCBI上进行比对后，可得到其他植物的GGPPS蛋白序列，用MEGA7.0中自带的ClusterW进行蛋白序列多重比对，用Neighbor-joining 算法(自检举1000次)，绘制出竹叶花椒GGPPS 与其他植物GGPPS 的进化树(图3)。结果显示竹叶花椒 ZaGGPPS 蛋白与甜橙、克里曼丁桔、柚子的GGPPS 蛋白聚为一类(图 2)。
+
+![](images/770fcf37cbf32af9b62bbfcb53b395355441fbc3ae9553f57791355dfe6bc13e.jpg)  
+图3竹叶花椒ZaGGPPS与其他植物GGPPS的系统进化树Fig. 3 Phylogenetic trees of ZaGGPPS from Zanthoxylum armatum and GGPPS from other plants
+
+# 2.3竹叶花椒ZaGGPPS基因的转录模式分析
+
+采集竹叶花椒嫁接树和实生树的嫩梢，用液氮保存带回实验室，用植物总RNA提取试剂盒提取竹叶花椒嫁接树的茎、嫁接树的叶、实生树的茎和实生树的叶的总RNA并反转录成cDNA。用特异引物 TZaGGPPSF 和 TZaGGPPSR 检测在嫁接树叶、嫁接树茎、实生树叶和实生树茎中ZaGGPPS 基因的具体表达情况(图4)，结果显示，ZaGGPPS基因在竹叶花椒实生树的叶中表达量最高，其次是嫁接树的叶，再到实生树的茎，在嫁接树的茎中表达量最低。
+
+![](images/a2fae113718a463e8ac1e19df9229c353b184b33cb2775c6e821960ec9575d30.jpg)  
+图4ZaGGPPS基因分别在嫁接树和实生树的茎和叶中的表达情况 Fig. 4 Expression of ZaGGPPS gene in stems and leaves of grafted and seedling trees respectively
+
+# 3结论
+
+研究表明，尽管GGPPS基因是个大家族，且各基因存在明显分化，如同源基因编码蛋白的亚细胞定位、表达模式等存在差异，但仍有部分同源基因对萜类代谢起着关键的调控作用，能显著影响植物体内萜类化合物的合成(王中等，2018)。蛋白序列多重比对显示竹叶花椒GGPPS与其它植物GGPPS 的相似性较高，该氨基酸序列含有GGPPS共有的5个保守结构域，以及 FARM(the first aspartate-rich motif)和 SARM(the second aspartate-rich motif)这两个特异功能域，分别是“DDLPCMD”和“DDILD”，其中FARM和SARM是GGPPS催化$\mathrm { M g } ^ { 2 + }$ 桥与底物分子二磷酸基团结合的关键活性位点(Song& Poulter，1994；Hemmi et al.,2003)。Kai等人和Wang 等人的研究发现，丹参 SmGGPPS基因和榛子CgGGPPS基因在叶中的表达量均高于茎中的表达量(Kai et al.,2010;Wang et al.,2010)，而本试验经转录模式分析可看出无论是在嫁接树还是实生树中，ZaGGPPS基因在叶的表达量都比在茎中高，这与前人研究结果相一致。然而，嫁接过后竹叶花椒的叶和茎相对实生树来说ZaGGPPS 基因分别下调，从而推测嫁接可影响竹叶花椒ZaGGPPS基因的表达。
+
+花椒的主要风味是麻味和香味，而其香味物质的表征成分是挥发油，包含了醇类、烯类、醛类、酯类、酮类等挥发性物质，同时挥发油的成分还是评价花椒品质的主要指标。竹叶花椒香气成分中的萜类物质以单萜居多，其次是二萜，包括柠檬烯、桉树脑、萜品醇、水芹烯、蒎烯、月桂烯、桧烯、大根香叶烯、石竹烯等(陈茜等，2018)。当前，关于牛儿基牛儿基焦磷酸合成酶在植物香味领域的研究多集中在烟草和茶树这两类植物中，如林世峰等人发现烟叶中类胡萝卜素、二萜类化合物的含量增加，其香气量也会相应增加(林世锋等,2014);姚雪倩等人发现铁观音CsGGPPS 基因在芽叶的相对表达量总体随芽叶的成熟度增加而增加，从而很好地解释了在生产加工上需采摘一定成熟度芽叶的原因(姚雪倩等，2017)；王赞等人通过研究推测茶树CsGGDPS7 基因与其萜类香气化合物的合成关系密切(王赞等，2019)。目前尚未见到有关GGPPS 基因对竹叶花椒香味影响的相关研究。本试验对竹叶花椒ZaGGPPS基因进行克隆与分析，为今后深入研究竹叶花椒香气形成的分子机理、利用基因工程手段调控竹叶花椒萜类化合物的含量及改善果皮香气品质提供理论依据。
+
+花椒的香气成分具有较高的经济价值和药用价值，在制药方面，因其香气成分具有促进药物透皮吸收的功效，故可将其加入到一些外用制剂中，以促进药物吸收；在食品方面，花椒香气成分可作为无毒无害的食品防腐剂，以代替苯甲酸钠、山梨酸钾等物质；在农业方面，花椒香气成分可有效抑制病虫害的繁殖，以减少化学农药的使用(陈茜等，2018)。因此，在加强花椒香气成分基础研究的同时，也应加强其产品的开发与利用，以促进生态与经济的和谐发展。
+
+# 参考文献：
+
+CHEN Q, TAO XB,HUANG YL， et al.，2018.Research progress on the aroma of Chineseprickly[J].Chin Cond,43(1):189-194.[陈茜，陶兴宝，黄永亮，等，2018．花椒香气研究进展［J]．中国调味品，43(1)：189-194.]  
+DU LJ, ZHENG GH, NIU XQ, 2013. Research progress in biological activities of Zanthoxylum L.[J].Chin JTrop Crop,34(5):995-999.[杜丽君，郑国华，牛先前，2013．花椒属植物的药理研究进展与展望[J]．热带作物学报，34(5)：995-999.]  
+HEMMI H, NOIKE M, NAKAYAMA T, et al.， 2003,An alternative mechanism of productchain-length determination in type II geranylgeranyl diphosphate synthase[J]. Eur JBiochem, 270(10): 2186-2194.  
+HAN LM, 2O15, Clone and expression characterization of a new gene encoding geranylgeranylpyrophosphateswynthasefromIsatisindigoticaFortune[J]. Genom ApplBiol,34(6):1172-1178.[韩立敏，2015，菘蓝耗牛儿基耗牛儿基焦磷酸合成酶基因(IiGGPPSI)的克隆及其表达特性分析[J]．基因组学与应用生物学，34(6)：1172-1178.]  
+KAI G, LIAO P, ZANG T,et al.， 2O10, Characterization, expression profiling，and functionalidentification of a gene encoding geranylgeranyl diphosphate synthase from Salviamiltiorrhiza[J]. Biotechnol Biopro Eng,15(2): 236-245.LIN SF, WANG RG, ZHANG XL，et al.， 2014, Cloning and tissue expression analysis ofgeranylgeranyl pyrophosphate synthase small subunit gene from Nicotiana tabacum[J].Tobacco Sci Technol,58(2):70-75.[林世锋，王仁刚，张孝廉，等，2014，烟草牛儿基牻牛儿基焦磷酸合成酶小亚基基因的克隆及组织表达谱[J]．烟草科技,58(2)：70-75.]LI ZF, WEI P, XIA YZ, et al.,2015, Whole genome identification and analysis of tobacco GGPPSsynthase gene family[J].Tobacco Sci Technol,48(6):1-8.[李泽锋，魏攀，夏玉珍，等，2015,烟草牛儿基牛儿基焦磷酸合成酶基因家族的全基因组鉴定［J]．烟草科技，48(6)：  
+1-8.]LI F, WANG R, WU MZ, et al., 2019, Study on NtGGPPS1 function in Nicotiana tabacum basedon overexpression technology[J]. JHenan Univ (Nat Sci Ed),49(2):180-185.[李锋，王燃,武明珠，等，2019，基于过表达技术的烟草NtGGPPS1基因功能的研究［J]．河南大学学报(自然科学版)，49(2)：180-185.]QI XQ, HU CX, LI DW, 2016, Cloning and sequence analysis of geranylgeranyl pyrophosphatesynthase gene from Cephalotaxus oliveri Mast.[J]. Jiangsu Agri Sci, 44(4):79-82.[齐小琼,胡晨熙，李大卫，2016，篦子三尖杉牛儿基牛儿基焦磷酸合成酶基因的克隆与序列分析［J]．江苏农业科学，44(4)：79-82.]SONG L, POULTER CD,1994, Yeast farnesyl-diphosphate synthase:site-directed mutagenesis ofresidues in highly conserved prenyltransferase domains I and II[J]. Proc Natl Acad Sci USA,  
+91(8): 3044-3048.Shu Z.Y., Wang J.Y., Gong W. et al., 2018, Water and fertilizer effects on antioxidant enzymeactivities of Zanthoxylum armatum seedlings under waterlogging stress[J]. J Sichuan AgricUniv,36(2):203-209,216.[舒正悦，王景燕，龚伟，等，2018，淹水条件下水肥处理对竹叶花椒幼苗抗氧化酶活性的影响[J]．四川农业大学学报，36(2)：203-209，216.]WANG Y, MIAO Z, TANG K, 2010, Molecular cloning and functional expression analysis of anew gene encoding geranylgeranyl diphosphate synthase from hazel (Corylus avellana L.Gasaway)[J]. Mol Bio Rep, 37(7): 3439-3444.WEI P, MENG LJ, CHEN QS, et al., 2016, Cloning and functional analysis of geranylgeranylpyrophosphate synthase gene NtGGPPS1 from Nicotiana tabacum[J]. Tobacco Sci Technol,  
+49(4):8-15.[魏攀，孟利军，陈千思，等，2016，烟草牻牛儿基牻牛儿基焦磷酸合成酶基因 NtGGPPS1的克隆和功能分析［J]．烟草科技，49(4)：8-15.]Wang J.Y., Gong W., Bao X.L., Tang H.L. et al., 2O16, Coupling effects of water and fertilizer ondiurnal variation of photosynthesis of Zanthoxylum bungeanum Maxim ‘hanyuan' seedlingleaf[J].Acta Ecol Sin,36(5):1321-1330.[王景燕，龚伟，包秀兰，等，2016，水肥耦合对汉源花椒幼苗叶片光合作用的影响[J]．生态学报，36(5)：1321-1330.]WANG Z,LIF, JIN LF, et al., 2018,Research progress of geranylgeranyl pyrophosphate synthasegene in higher plants[J].Plant Phys J,54(4):557-564.[王中，李锋，金立锋，等，2018，高等植物牛儿基牛儿基焦磷酸合成酶基因的研究进展[J]．植物生理学报，54(4)：  
+557-564.]WANG Z, HUANG XJ, CAO HL, et al., 2019, Cloning and expression analysis of CsGGDPS7gene in tea plant (Camellia sinensis)[J].,Acta Bot Boreal-Occident Sin, 39(1):32-41.[王赞,黄旭建，曹红利，等，2019，茶树CsGGDPS7基因的克隆和表达分析［J]．西北植物学报，  
+39(1):32-41.]XIA QF, ZHAO Z, LIU HC, et al., 2016, Cloning and analysis of geranyl pyrophosphate synthase(GPPS） sequence of Blumea balsamifera L.DC on transcriptome information[J]. JMountAgric Biol,35(4):23-29.[夏奇峰，赵致，刘红昌，等，2016，基于转录组信息的艾纳香牛儿基牛儿基焦磷酸合成酶基因(BbGGPS)的克隆及序列分析[J]．山地农业生物学报，35(4)：23-29.]  
+XUE SL, JIANG M, CHANG JQ, et al., 2018, Cloning and expression analysis of geranylgeranylpyrophosphate synthase gene (BoaGGPPS1) in Brassica oleracea var. alboglabra[J]. JiangsuJAgric Sci,34(2):259-265.[薛生玲，江敏，常嘉琪，等，2018，芥蓝牛儿基牛儿基焦磷酸合成酶基因 BoaGGPPS1的克隆及表达分析[J]．江苏农业学报，34(2)：259-265.]  
+YAMAMURA Y, MIZUGUCHI Y, TAURA F, et al.， 2014, Transcriptional activation of ageranylgeranyl diphosphate synthase gene,GGPPS2，isolated from Scoparia dulcis bytreatment with methyl jasmonate and yeast extract[J]. JNat Med, 68(4):748-753.  
+YAO XQ, YUE C, YANG GY, et al., 2017, Cloning and expression analysis of geranylgeranyldiphosphate synthase gene CsGGDPS in tea plant[J].JTea Sci, 37(1):86-96.[姚雪倩，岳川,杨国一，等，2017，茶树牛儿基牛儿基焦磷酸合成酶基因CsGGDPS的克隆及表达分析［J]．茶叶科学，37(1)：86-96.]  
+ZHANG Y, PENG YH, ZENG DQ,et al.， 2010, Insecticidal activity of essential oil fromZanthoxylum armatum fructification against two mosquito species[J]. Guihaia, 30(2):274-279.[张云，彭映辉，曾冬琴，等，2010，竹叶花椒果实精油对两种蚊虫的毒杀活性研究［J].广西植物，30(2)：274-279.]  
+ZHANG M, SU P,LIU YJ,et al.,2O15, Cloning and bioinformatics analysis of geranylgeranyldiphosphate synthase gene of Tripterygium wilfordi[J]. Chin J Chin Mat Med,40(6):1066-1070.[张萌，苏平，刘雨佳，等，2015，雷公藤牛儿基牛儿基焦磷酸合酶基因全长cDNA 的获得及生物信息学分析［J]．中国中药杂志，40(6)：1066-1070.]

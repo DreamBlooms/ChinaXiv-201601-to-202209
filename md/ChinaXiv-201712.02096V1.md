@@ -1,0 +1,150 @@
+# 临床研究
+
+# 沉默干扰素诱导跨膜蛋白3可抑制肝癌细胞HepG2增殖和侵袭
+
+吴荣寿'，邬林泉'，李科浩'，李恩亮'，冯潜'，张惊玲²  
+南昌大学1第二附属医院肝胆外科，第一附属医院麻醉科,江西 南昌330006
+
+摘要：目的研究干扰素诱导跨膜蛋白3(IFITM3)在原发性肝癌中的异常表达，探讨沉默IFITM3表达对肝癌细胞系HepG2生物学特征的影响。方法通过Westem blot和免疫组织化学染色法检测60例肝癌组织及对应癌旁组织中IFITM3的表达情况及相关性;构建IFITM3小干扰RNA片段(IFITM3 si-RNA),采用脂质体介导转染肝癌细胞(HepG2细胞系),同时设置无义序列组和空白对照组,实时荧光定量PCR检测转染后IFITM3mRNA的表达;CCK8（cellcounting kit 8)检测转染后细胞增殖能力；Westernblot检测IFITM3在蛋白水平的表达;Transwell实验和划痕实验检测细胞侵袭和迁移能力的变化。结果和癌旁组织相比,IFITM3在肝癌组织中的明显高表达。与无义序列组和空白对照组比较，IFITM3 si-RNA转染组细胞IFITM3表达和细胞增值率降低，穿膜细胞数也明显减少，差异均有统计学意义 $( P { < } 0 . 0 5 )$ 。划痕实验也表明迁移能力降低。结论IFITM3在原发性肝癌中高表达;IFITM3在肝癌细胞增殖和侵袭过程中发挥重要作用，有望成为原发性肝癌基因治疗的侯选靶点。
+
+关键词：肝癌;沉默;细胞增殖；干扰素诱导跨膜蛋白3;侵袭
+
+# Interferon-induced transmembrane protein 3 knock-down inhibits proliferation and invasion of hepatocellular carcinoma HepG2 cells in vitro
+
+WU Rongshou',WULinquan',LI Kehao,LIEnliang',FENG Qian',ZHANG Jingling²   
+Departmentgdfdlitf   
+Hospital of Nanchang University,Nanchang 33oo06,China
+
+Abstract: ObjectiveTo investigate theabnormal expresionof interferon-induced transmembrane protein3 (IFITM3)in hepatocellularcarcinoma (HCC)and theefectofIFITM3knock-downonthebiologicalbehaviorsofhepatocellarcarcinoma HepG2 cels.Methods Western blot analysis and immunohistochemical staining were used todetermine theexpressionof IFITM3 protein in $6 0 \mathrm { H C C }$ samples and paired adjacent tissues. A smallinterfering RNA fragments of IFITM3 (IFITM3 siRNA) was transiently transfected into HepG2celsandexpressions of IFITM3 at mRNAand protein levels were examined by qRT-PCR and Western bloting.Thechanges in the proliferationof the transfectedcels were determined using cell counting kit 8(CCK8)assayandthecellinvasionand migration were tested using Transwellassayand wound-healing assy.Results Compared withtheadjacentissues,HCCtissues expressdsignificantlyhigherlevelsof IFI3.InHepGcels,trafection with IFITM3 siRNA resulted in significant down-regulation of IFITM3 expresion atboth the protein and mRNA levels and obviouslysuppressdcellproliferation,aioandgrationbilityasomparedwithtecellsasecteditbled siRNA and control cells $( P { < } 0 . 0 5 )$ . Conclusion IFITM3, which is overexpressed in HCC, plays a vital role in the proliferation and invasion of HCC cells and may serve as a potential target for gene therapy of HCC.
+
+Keywords: hepatocelular carcinoma; gene knock-down;cellproliferation; interferon-induced transmembrane protein3; invasion
+
+人类干扰素诱导跨膜蛋白3(IFITM3)属于IFITM基因家族中的一员，位于人染色体11p5.5,碱基长度约$1 . 5 ~ \mathrm { K b }$ ,可以被I型(IFN-α/IFN-β)和II型(IFN-G)干扰素诱导，编码干扰素诱导的跨膜蛋白 $3 ^ { [ 1 ] }$ 。IFITM3编码蛋白相对分子质量约14000,由133个氨基酸构成[2]。该基因家族在免疫细胞信号传导、细胞黏附、癌症及干细胞迁移等过程中起重要作用[3-4]。近年来，IFITM3在肿瘤中异常表达引起人们高度关注[5]。研究[69]发现，
+
+IFITM3在乳腺癌、结直肠癌、神经胶质瘤、黑色素瘤等均发现过表达。但是IFITM3在肝癌中的异常表达国内外罕见报道。为进一步确定肝癌中IFITM3的作用，本研究以原发性肝癌标本以及低表达IFITM3的HepG2细胞系为研究对象，研究IFITM3在原发性肝癌中的异常表达，探究敲低IFITM3的表达对肝癌细胞生物学特征的影响。
+
+# 1材料和方法
+
+1.1 材料
+
+收集60例南昌大学第二附属医院2014年2月\~2015年2月期间诊断为原发性肝癌的癌组织及对应癌旁组织的标本，年龄42\~75岁，平均年龄 $5 5 . 6 { \pm } 2 . 8 \$ 岁，其中男性38例，女性22例，所有患者术前均未接受任何放化疗，标本在液氮中保存。所有标本术后均经病理检查确诊，标本的采集均由患者本人知情同意并由南昌大学第二附属医院伦理委员会审核通过。
+
+RNA提取试剂(Invitrogen）、胎牛血清和胰酶(Gibco)，DMEM培养液、BCA法蛋白测定试剂盒(碧云天）、蛋白上样缓冲液、蛋白Marker(长城公司）兔抗人IFITM3多克隆抗体以及鼠抗人 $\beta$ -actin单克隆抗体(Proteintech),辣根过氧化物酶标记的山羊抗兔或抗鼠IgG（二抗）（康为世纪公司）;RNA逆转录试剂盒、GoTaq?qPCRMasterMix试剂盒购自普洛麦格(北京）生物技术有限公司，脂质体Lipfectamine2000(Invitrogen）,CCK8检测试剂盒（Sigma)，PCR引物序列由南京金斯瑞生物科技有限公司设计和合成：IFITM3引物序列：上游引物为 $5 ^ { \prime }$ -ACTGTCCAAACCTTCTTCTCTCC-3',下游引物为5'-TCGCCAACCATCTTCCTGTC-3';GAPDH引物序列：上游引物为5'-CAGGGCTGCTTTTAACTCTGGT-3'，下游引物为5'-GATTTTGGAGGGATCTCGCT-3'。IFITM3si-RNA质粒的设计和合成由百奥迈科公司完成，肝癌HepG2细胞由江西省分子医学重点实验室传代保存。
+
+# 1.2 方法
+
+1.2.1Westernblotting和免疫组织化学染色法检测原发性肝癌组织中IFITM3蛋白的表达通过RIPA裂解液收集癌组织和癌旁组织蛋白，BCA法检测总蛋白的浓度，各孔加入等量总蛋白进行垂直电泳，转膜，TBS漂洗，封闭液封闭 $^ { 2 \ln , \beta }$ -actin作为内对照。加入稀释的兔抗人IFITM3多克隆抗体以及鼠抗人 $\beta$ -actin单克隆抗体， $4 \mathrm { { ^ { \circ } C } }$ 孵育过夜，TBST洗涤后加入辣根过氧化物酶标记的山羊抗兔或抗鼠 $\mathrm { I g G }$ ，室温孵育1h,TBST洗涤后，化学发光法显影。将收集的原发性肝癌患者的癌组织和癌旁组织在福尔马林中固定后石蜡包埋，制成石蜡切片后置于 $6 7 ~ \mathrm { { ^ { \circ } C } }$ 烘箱中，烘片2h,切片放入 $3 \%$ 双氧水室温孵育 $2 0 ~ \mathrm { m i n }$ 消除过氧化物酶活性，PBS( $\mathrm { \cdot p H 7 . 4 ) }$ 溶液冲洗3次，切片甩干后加入IFITM3一抗(兔抗)，放于湿盒内 $4 ^ { \circ } \mathrm { C }$ 孵育过夜。PBS( $\mathrm { p H } 7 . 4 )$ 溶液冲洗3次，再加入与一抗相应种属的二抗(HRP标记)覆盖组织,在室温孵育 $5 0 ~ \mathrm { m i n }$ ，用PBS溶液冲洗3次，切片甩干后滴加新鲜配置DAB显色剂显色，用自来水充分冲洗后染色，最后常规脱水，透明，封片。判断标准：以细胞质内出现棕黄色颗粒为阳性细胞，每张切片随机观察5个视野计算染色强度及阳性细胞率。结合阳性细胞百分比和染色强度两个参数综合评价阳性染色：首先根据阳性细胞数所占细胞百分比分类：(0分)未见阳性细胞；(1分) $< 2 5 \%$ 阳性细胞；（2分） $2 5 \% { \sim } 5 0 \%$ 阳性细胞；（3分） $1 5 1 \% { \sim } 7 5 \%$ 阳性细胞；（4分） $> 7 5 \%$ 阳性细胞。再按染色强度进行分级：(0分)无染色评分；(1分)弱染色评分；(2分)中等强度染色评分；(3分)强染色评分。
+
+1.2.2构建低表达IFITM3si-RNA质粒，筛选沉默效果最佳序列根据IFITM3基因的cDNA全序列，在ambion,invitrogen等公司的网站上，利用软件分析设计出最佳的靶序列，同时参考文献上所用的靶序列,将潜在的靶序列和基因组数据库进行比较，排除和其他基因编码序列同源的序列。将选定的靶序列按psilencer3.1-H1neo的载体要求,设计64个碱基的模板DNA序列(templateDNA sequence),交由百奥迈科公司合成并成功构建重组的psilencer3.1载体：hs-IFITM3-si-1:正义链 $5 ^ { \prime }$ -CUUCUCUCCUGUCAACAGUdTdT-3'，反叉链5'-ACUGUUGACAGGAGAGAAGdTdT-3';hs-IFITM3-si-2:正义链5'-CAUUCAUUAAAGUGCACGUdTdT-3',反义链 $5 ^ { \prime }$ -ACGUGCACUUUAUUGAAUGdTdT-3'；hs-IFITM3-si-3:正 义链5'-CUGAGAACCAUCCCAGUAAdTdT-3'，反 义链$5 ^ { \prime }$ -UUACUGGGAUGGUUCUCAGdTdT-3'，并进行DNA序列测定，同时设计无义序列组重组载体作为阴性对照。采用脂质体Lipfectamine2000介导将构建的3组psilencer3.1-shIFITM3及无义序列组同时转染对数期肝癌HepG2细胞,培养 $^ { 4 8 \mathrm { ~ h ~ } }$ 后提取HepG2的蛋白，通过BCA法测定蛋白浓度，取等量 $2 5 ~ { \mu \mathrm { g } }$ 蛋白质进行Westernblotting,分别检测3组IFITM3si-RNA沉默效果，从中选出沉默效果最佳序列。
+
+1.2.3细胞培养及转染 将HepG2在 $5 \% \mathrm { C O } _ { 2 } , 3 7 \ \mathrm { ^ { \circ } C }$ 条件下接种于含 $10 \%$ 胎牛血清的DMEM培养基中培养，待细胞数量达到 $70 \% { \sim } 8 0 \%$ ,遵照脂质体Lipofectamine2000转染试剂说明，用不含胎牛血清的DMEM培养液来进行转染，转染 $4 { \sim } 6 \mathrm { h }$ 后,更换至含有 $10 \%$ 胎牛血清的培养液中继续培养 $2 4 { \sim } 4 8 \ \mathrm { h } _ { \odot }$ 。期间可相应提取细胞中的总RNA和总蛋白，使用逆转录试剂盒将总RNA反转录成cDNA，可用于进行实时荧光定量PCR检测，获得的总蛋白可进行Westernblotting检测。
+
+1.2.4实时荧光定量PCR检测转染后IFITM3的mRNA的表达将沉默序列最佳的IFITM3si-RNA和无义序列重组质粒通过脂质体转染HepG2细胞，分成：空白对照组、低表达IFITM3组和无义序列组3组，转染 $2 4 \mathrm { h }$ 后提取mRNA，紫外分光光度计测定各细胞RNA浓度后逆转录成cDNA，反应条件： ${ } ; 2 5 ^ { \circ } \mathrm { C } 1 0 \operatorname* { m i n } , 4 2 ^ { \circ } \mathrm { C } 3 0 \operatorname* { m i n }$ $8 5 ~ \mathrm { ^ { \circ } C } ~ 5 ~ \mathrm { m i n }$ 。用BRYTGreen法，以GAPDH为内参照,反应体系为 $2 0 \mu \mathrm { L } : \mathrm { d d H } _ { 2 } \mathrm { O } \ 7 \mu \mathrm { L }$ ，上下游引物各 $0 . 4 ~ \mu \mathrm { L }$ GoTaq? qPCR Master Mix, $2 \times 1 0 ~ { \mu \mathrm { L } } , \mathrm { C X R ~ 1 0 0 } { \times } 0 . 2 ~ { \mu \mathrm { L } }$ cDNA $2 ~ \mu \mathrm { L }$ 。用ABIPRISM7500自动荧光PCR仪进行荧光定量PCR测定IFITM3的mRNA表达水平，反应条件： $9 5 \ \mathrm { { ‰ } } 2 \ \operatorname* { m i n } , 9 5 \ \mathrm { { ‰ } } 1 5 \ \mathrm { { s } } , 6 0 \ \mathrm { { ‰ } } \ \operatorname* { m i n }$ ，共进行40个循环,于 $7 5 { \sim } 9 5 ^ { \circ } \mathrm { C }$ 范围内绘制溶解曲线。实验结果以GAPDH为内参照,Opti-con3软件计算 $\Delta \mathbf { C } ( t )$ 值 $( 2 ^ { - \Delta \Delta \mathrm { C T } }$ 表示目的基因相对表达值，对照组相对表达值为1)。各组均做3个复孔，实验重复3次。
+
+1.2.5CCK8实验检测HepG2细胞增殖情况将各组转染后 $2 4 \mathrm { ~ h ~ }$ 的HepG2细胞悬液在离心管内反复充分打匀，按 $2 \times 1 0 ^ { 3 }$ 个细胞( $1 0 0 \mu \mathrm { L } / \mu \updownarrow$ 接种到96孔培养板，每组设有4个复孔，分别于接种后0、1、2、3、4、5d进行CCK8检测：每孔加入CCK8溶液 $1 0 ~ \mu \mathrm { L }$ ，在 $5 \%$ （204号 $\mathrm { C O } _ { 2 }$ 、$3 7 ~ \mathrm { ^ { \circ } C }$ 条件下培养 $\mathrm { 4 \ h _ { \circ } }$ 测定各孔吸光值(波长 $4 9 0 \ \mathrm { n m }$ )。上述实验重复3次。
+
+1.2.6Transwell侵袭实验和划痕实验检测HepG2细胞侵袭和迁移能力在细胞对数期将IFITM3si-RNA和无义序列重组质粒转染至HepG2细胞中，培养 $2 4 \mathrm { h }$ 后胰酶消化，离心管内反复充分打匀，按 $2 { \times } 1 0 ^ { 4 }$ 细胞数加入每个Transwell小室，用无血清的培养液在小室上面进行培养后，24孔板放置在含 $10 \%$ 胎牛血清的培养液，$3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 孵育 $2 4 \mathrm { h }$ ，后 $1 0 \mathrm { m i n }$ 甲醛固定, $0 . 1 \%$ 结晶紫染色，倒置显微镜下观察细胞，随机选取16个视野，计数穿过微孔的细胞数。培养细胞至均匀成单层铺满于每孔后进行转染IFITM3至HepG2细胞中， $2 4 \mathrm { h }$ 后用$1 0 ~ \mu \mathrm { L }$ 枪头进行划痕，每孔划痕粗细均匀，PBS清洗细胞,放置在 $10 \%$ 胎牛血清的培养液中， $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 孵育，在倒置显微镜下拍下0、24、48h后划痕愈合情况比较。
+
+# 1.3统计学处理
+
+统计分析采用SPSS19.0统计软件，实验数据均以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，用单因素方差分析或重复测量做多组均数间比较，百分数的比较采用 $r$ 检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1肝癌组织和癌旁组织中IFITM3蛋白的表达
+
+Westernblotting检测6O例肝癌患者肝癌组织和癌旁组织中IFITM3蛋白表达情况发现：肝癌组织中IFITM3蛋白表达明显高于对应癌旁组织，结果差异具有统计学意义（ $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，图1)。
+
+![](images/79f735e663084e4a81d32770258986b3868562161dc6e876f908068477357039.jpg)  
+图1肝癌组织中IFITM3蛋白的表达情况. Fig.1Western blotting for detecting the expression of IFITM3 protein in hepatocellular carcinoma (T) and paired adjacent (N) tissues.
+
+# 2.2免疫组织化学染色法检测IFITM3表达
+
+通过免疫组织化学检测发现肝癌组织中IFITM3蛋白表达阳性率为 $8 1 . 6 7 \%$ (49/60)，而癌旁组织中IFITM3蛋白表达阳性率仅为 $1 3 . 3 3 \% ( 8 / 6 0 )$ ,差异具有统计学意义( $\scriptstyle { \vert P < 0 . 0 5 }$ ，图2)。
+
+# 2.3沉默效果最佳序列
+
+将3组IFITM3si-RNA片段对肝癌HepG2细胞进行转染， $4 8 \mathrm { ~ h ~ }$ 后提取蛋白并进行Westernblotting检测IFITM3蛋白表达，结果筛选出hs-IFITM3-si-2为沉默效果最佳序列(图3)。
+
+# 2.4转染后肝癌细胞IFITM3的mRNA和蛋白的表达
+
+实时荧光定量PCR检测IFITM3的mRNA结果显示空白对照组、无义序列组、IFITM3si-RNA组 $2 ^ { - \Delta \Delta \mathrm { C T } }$ 分别为 $1 . 0 0 { \pm } 0 . 0 0 , 0 . 9 6 { \pm } 0 . 0 7 , 0 . 3 2 { \pm } 0 . 0 4$ ，差异具有统计学意 $( F { = } 2 5 1 . 5 8 9 , P { = } 0 . 0 0 0 )$ ；发现低表达IFITM3组中
+
+IFITM3的mRNA与空白对照组和无义序列组比较明显降低 $( P { < } 0 . 0 5 )$ ,而空白对照组、无义序列组之间差异无统计学意义( $( P { > } 0 . 0 5 )$ ;Westernblotting结果显示转染组的IFITM3蛋白表达量较空白对照组和无义序列组比较均明显降低(图4)。
+
+# 2.5CCK8检测细胞增值情况
+
+CCK8检测结果显示IFITM3si-RNA组的细胞增值率较无义序列组和对照组明显不同，差异具有统计学意义 $( 1 ~ \mathrm { d } ; F = 2 3 . 5 1 8 , P = 0 . 0 0 1 ; 2 ~ \mathrm { d } ; F = 1 0 9 . 6 7 5 , P = 0 . 0 0 0$ 3d $F { = } 1 1 6 . 2 7 8 , P { = } 0 . 0 0 0 ; 4 \ \mathrm { d } ; F { = } 1 5 7 . 6 5 8 , P { = } 0 . 0 0 0 ; 5 \ \mathrm { d }$ $F { = } 2 1 1 . 8 6 5 , P { = } 0 . 0 0 0$ ，图5）。
+
+# 2.6Transwell侵袭实验和划痕实验结果
+
+Transwell侵袭实验结果显示低表达IFITM3组较无义序列组和空白对照组穿膜细胞数明显减少，差异具有统计学意义( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ,表1)。细胞划痕实验结果显示：
+
+![](images/f40c002825a50e7c1975788ef0d50f64f3d54b669720b500779159a94e6734fd.jpg)  
+图2免疫组织化学检测肝癌和癌旁组织中IFITM3的表达情况 Fig.2Expression of IFITM3 protein in hepatocellular carcinoma (A） and adjacent (B) tissues detected by immunohistochemical staining (EnVision, Original magnification: $\times 4 0 0$ ）
+
+![](images/bfc53efc61c4fc863408cc6dbf5485c835fb13bf4392f367557a419853e66621.jpg)  
+图3Westernblotting筛选3组IFITM3si-RNA沉默最 佳序列情况 Fig.3Western blotting for screening the optimal silencing fragment of the 3 IFITM3 siRNAs.
+
+低表达IFITM3组 $4 8 \mathrm { ~ h ~ }$ HepG2细胞的划痕融合速率比空白对照组明显减慢，差异具有统计学意义( $_ { P < 0 . 0 5 }$ ，图6。
+
+# 3讨论
+
+肝细胞性肝癌(HCC)是世界范围内发病率最高恶性肿瘤之一，每年新发病例约有100万[],也是我国最常见且恶性程度最高的恶性肿瘤之一[]。肝癌死亡率高的原因在于复发转移，由于其确切的机制仍不清楚，虽然目前临床上对肝癌的复发转移采取的干预措施，如术前经皮穿刺肝动脉栓塞(TAE)或栓塞化疗(TACE),术后TACE和生物靶向治疗[12],但是整体治疗效果仍不满意。因此研究肝癌侵袭转移的分子机制，寻找基因检测的新靶点，并采取有效的预防治疗措施是提高肝癌患者疗效、改善肝癌患者预后的突破口。
+
+![](images/f6c28ae4f160a5563a7004846c41ea1e288c7e347d95ed3011f2b686e75434e5.jpg)  
+图4转染后对肝癌细胞中IFITM3表达的影响 Fig.4 Differential expression of IFITM3 in HepG2 cells after transfection.A: Significantly lowered expression of IFITM3 mRNA in HepG2 cells after transfection compared with the cells transfected with scrambled siRNA and control cells $( ^ { \mathrm { a } } P { < } 0 . 0 5 )$ ; B:Differential expression of IFITM3 protein in HepG2 cells after transfection.1: Control cells; 2: Scrambled siRNA group; 3: IFITM3 siRNA group.
+
+肝癌侵袭和转移是一个多因素、多步骤的非常复杂的过程，包括上皮细胞极性改变、肿瘤细胞间黏附改变，运动能力增强，穿透基底膜，血管生成等一系列变化。肝癌的侵袭和转移涉及多种信号通路如JAK/STAT，PI3K/AKT[13],WNT/β-catenin[14],NF- $\kappa \mathbf { B } ^ { [ 1 5 ] }$ 等，涉及到多种粘附分子、基质金属蛋白酶、细胞因子及其所参与的信号转导、癌基因和抑癌基因的表达和调控的改变。
+
+IFITM3基因参与调节原始生殖细胞的迁移、丙型肝炎病毒(HCV)感染及内胚层定位，介导调节内皮细胞、白细胞的黏附和凋亡等生物学过程[17-19]。除此之外，还在乳腺癌、神经胶质瘤、黑色素瘤、胃癌、宫颈癌等多数恶性肿瘤中广泛高表达，并与肿瘤的病理分化程度呈正相关，同时参与肿瘤发生、发展及扩散、转移过程[69]，说明其在恶性肿瘤的发生、发展及侵袭、转移过程中起
+
+![](images/8086d6da73477c511aca805c6b8f1e38ccd7b16f5f86a637e249b2ec23ed8604.jpg)  
+图5CCK8检测转染后3组细胞不同时间的细胞增殖能力与无义序列组和空白对照组比较
+
+Fig.5Results of CCK8 assay showing significant suppression of the proliferation of cells transfected with IFITM3 siRNA compared with the cells transfected with scrambled siRNA and control cells $( ^ { \mathrm { a } } P { < } 0 . 0 5 )$ ：
+
+表1Transwell实验检测转染后3组细胞的侵袭能力 Tab.1 Invasion capacity of the 3 groups cells after transfection detected by Transwell assay $( n { = } 3 )$ （20   
+
+<html><body><table><tr><td>Groups</td><td>The number of cells invasion</td></tr><tr><td>Control cells</td><td>170.1±7.6</td></tr><tr><td>Scrambled siRNA</td><td>164.2±5.8</td></tr><tr><td>IFITM3siRNA</td><td>92.0±3.5a</td></tr><tr><td>F</td><td>83.236</td></tr><tr><td>P</td><td>0</td></tr></table></body></html>
+
+$^ { \mathrm { a } } P { < } 0 . 0 5$ us the cells transfected with scrambled siRNA and control cells.
+
+着重要作用。然而IFITM3在肝癌中的异常表达国内外罕见报道，本实验主要研究IFITM3是否也参与肝癌的发生发展以及侵袭转移。
+
+本研究通过运用Westernblotting及免疫组织化学方法检测肝癌及癌旁组织中IFITM3蛋白表达情况，结果发现和癌旁组织相比，IFITM3在肝癌组织中过表达，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ，首次表明IFITM3高表达与肝癌的发生、发展有关。下调IFITM3表达后后，运用实时荧光定量PCR和Westernblotting检测结果发现IFITM3的mRNA及蛋白的表达均明显降低，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ;CCK8结果显示与空白对照组和无义序列组相比，沉默IFITM3表达后，肝癌细胞HepG2的增值能力明显下降 $( P { < } 0 . 0 5 )$ ；下调IFITM3表达后，Transwell实验和划痕实验检测肝癌细胞的侵袭和迁移能力也明显下降( $P { < } 0 . 0 5 )$ ，说明IFITM3影响肝癌细胞的侵袭和转移能力。
+
+IFITM3在肝癌细胞增殖和侵袭过程中具体分子生物机制尚不清楚。研究表明20抑制IFITM3可以通过影响骨桥蛋白(OPN）mRNA的稳定性来降低OPN的表达，OPN是一种具有多种功能的分泌性磷酸化糖蛋白，可促进细胞的黏附和迁移，被认为是恶性转化的分泌性蛋白，而OPN在肝癌中高表达，沉默OPN基因对肝癌侵袭转移具有抑制作用[2I-22]。OPN可以激活JAK/STAT3通路影响肿瘤进展，STAT3可以促进类似MMP2这样的基因发挥促进肝癌侵袭作用[23]。所以我们推测
+
+![](images/5192dab0551fc93004180a8685474ac0613e103cbc689cbef535a3296aeb5eec.jpg)  
+图6转染后的HepG2细胞与空白对照组 $4 8 \mathrm { ~ h ~ }$ 细胞迁移能力的比较 Fig.6 Migration of IFITM3 siRNA-trasnfected and control HepG2 cells at 24 and $^ { 4 8 \mathrm { ~ h ~ } }$ after transfection (EnVision, Original magnification: $\times 2 0 0 ^ { \cdot }$ ）
+
+IFITM3可能通过JAK/STAT3通路调控MMP2影响肝癌细胞增殖和侵袭。
+
+综上所述，本研究首次证实了IFITM3在原发性肝癌中呈高表达，下调IFITM3表达可引起肝癌细胞增殖能力减弱，并抑制肝癌细胞的侵袭和迁移能力。首次说明IFITM3在原发性肝癌的发生、发展及侵袭、转移过程中起着重要作用。本课题组将深入探究IFITM3在肝癌细胞增殖和侵袭过程中发挥重要作用的具体分子生物机制，未来可将IFITM3做为原发性肝癌基因治疗的候选靶点。
+
+# 参考文献：
+
+[1］Bailey CC,Kondur HR,Huang IC,et al. Interferon-induced Transmembrane Protein 3 Is a Type I Transmembrane Protein[J]. J Biol Chem,2013,288(45): 32184-93.   
+[2]Andreu P,Colnot S,Godard C,et al.Identification of the IFITM family as a new molecular marker in human colorectal tumors[J]. Cancer Res,2006,66(4):1949-55.   
+[3]Chutiwitoonchai N,Hiyoshi M,Hiyoshi-Yoshidomi Y,et al. Characteristicsof IFITM,the newly identified IFN-inducible anti-HIV-1 family proteins[J].Micro Infect,2013,15(4):280-90.   
+[4]Diamond MS,Farzan M. The broad-spectrum antiviral functions of IFIT and IFITM proteins[J].Nat Rev Immunol, 2013,13(1): 46-57.   
+[5]Li D,Peng Z, Tang H, et al.KLF4-mediated negative regulation of IFITM3 expression plays a critical role in colon cancer pathogenesis [J].Clin Cancer Res,2011,17(11): 3558-68.   
+[6]Yang M,Gao HW,Chen P,et al.Knockdown of interferon-induced transmembrane protein 3 expression suppresses breast cancer cell growth and colony formation and affects the cell cycle[J]. Oncol Rep,2013,30(1): 171-8.   
+[7]Wu F,Dassopoulos T, Cope L,et al. Genome-wide gene expression differencesin Crohn'sdiseaseand ulcerativecolitisfrom endoscopic pinch biopsies: insights into distinctive pathogenesis[J]. Inflamm Bowel Dis,2007,13(7): 807-21.   
+[8]Zhao B,Wang H, Zong G,et al. The role of IFITM3 in the growth and migration of human glioma cells[J]. BMC Neurol,2013,13(7): 210.   
+[9]Scott R,Siegrist F,Foser S,et al. Interferon-Alpha induces reversibleDNAdemethylationoftheInterferon-Induced transmembrane protein-3 core promoter in human melanoma cells [J].JInterferon Cytokine Res,2011,31(8): 601-8.   
+[10] Torre LA,Bray F, Siegel RL,et al. Global cancer statistics,2012 [J].CA CancerJClin,2015,65(2): 87-108.   
+[l1」Gory I,Fink M,Bell S,et al.Radiofrequency ablationversus resection for the treatment of early stage hepatocellular carcinoma: a multicenter Australian study[J]. Scand J Gastroenterol,2015,50 (5): 567-76.   
+[12]Kudo M.Adjuvant therapyaftercurative treatment for hepatocelular carcinoma[J]. Oncology,2011,81(1): 50-5.   
+[13] Saxena NK,Sharma D,Ding X,et al.Concomitant activation of the JAK/STAT,PI3K/AKT,and ERK signalingisinvolved in leptin-mediatedpromotionofinvasionandmigrationof hepatocellular carcinoma cells [J].Cancer Res，2007，67(6): 2497-507.   
+[14]Yuan R,Wang K,Hu J,et al.Ubiquitin-like Protein FAT10 Promotes the Invasion and Metastasis of Hepatocellular Carcinoma by Modifying-Catenin Degradation[J]. Cancer Res,2O14,74(18): 5287-300.   
+[15] Wang YH,Dong YY,Wang WM,et al. Vascular endothelial cells facilitated HCC invasion and metastasis through the Akt and NF-kappa B pathways induced by paracrine cytokines[J].J Exp Clin Cancer Res,2013,32(1): 51.   
+[16] Zhou ZJ,Dai Z, Zhou SL,et al. Overexpresson of HnRNP A1 promotes tumor invasion through regulating CD44v6 and indicates poor prognosis for hepatocellular carcinoma[J]. Int JCancer, 2013, 132(5): 1080-9.   
+[17] Shen C,Wu XR,Jiao WW,et al.A functional promoter polymorphism of IFITM3 is associated with susceptibility to pediatric tuberculosis in Han Chinese population[J]. PLoS One,2013,8(7): e67816.   
+[18]Bailey CC, Zhong G, Huang IC,et al. IFITM-Family Proteins: The Cell's First Line of Antiviral Defense[J].Annu Rev Virol, 2014,78 (1): 261-83.   
+[19] Wakim LM,Gupta N,Mintern JD. Enhanced survival of lung tissue-resident memory $ { \mathrm { C D } }  { 8 ( + \ ) }$ T cells during infection with influenza virus due to selective expression of IFITM3[J]. Nat Immunol,2013,14(3): 238-45.   
+[20]El-Tanani MK,Jin D,Campbell FC,et al.Interferon-induced transmembrane 3 binds osteopontin in vitro: expressed in vivo IFITM3 reduced OPN expression [J].Oncogene，2010，29(5): 752-62.   
+[21]林 帆,夏金堂,温敏杰,等.OPN在不同转移潜能肝癌中的表达及意 义的初步研究[J].中华肝胆外科杂志,2007,13(10):675-7.   
+[22]林 帆,李瑜元,夏金堂,等.骨桥蛋白基因沉默对肝癌侵袭转移的抑制 作用[J].中华肝脏病杂志,2009,17(6): 422-5.   
+[23]Behera R,Kumar V,Lohite K,et al. Activation of JAK2/STAT3 signaling by osteopontin promotes tumor growth in human breast cancer cells[J]. Carcinogenesis,2010,31(2):192-200. （日明)

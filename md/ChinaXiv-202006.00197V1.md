@@ -1,0 +1,182 @@
+# 滴灌水量和土壤温度对桶栽棉花土壤剖面$\mathbf { C O } _ { 2 }$ 浓度影响的试验研究
+
+董倩倩1²，范文波1²，许忠宇³，刘芳婷²，张金玺,魏建涛1,²，李长晓1,2（1．石河子大学水利建筑工程学院,新疆 石河子832000;2．石河子大学现代节水灌溉兵团重点实验室,新疆 石河子83200；3．石河子大学理学院,新疆 石河子832000)
+
+摘要：为探究膜下滴灌条件下灌水量和土壤温度对新疆不同深度土壤 $\mathrm { C O } _ { 2 }$ 浓度的影响。采用桶栽试验，通过气相色谱仪监测，研究不同滴灌水量[充分灌溉（CK， $100 \%$ );轻度水分亏缺 $( \mathrm { ~ W 1 ~ } , 8 0 \%$ );重度水分亏缺( $\ W 2 , 6 0 \%$ 1处理下(植棉和裸王) $1 0 \sim 5 0 ~ \mathrm { c m }$ 王层土壤 $\mathrm { C O } _ { 2 }$ 浓度变化规律。结果表明：灌水量对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度影响显著。在植棉或裸土条件下，随着灌水量的增加，不同深度处土壤 $\mathrm { C O } _ { 2 }$ 浓度均呈上升趋势，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度均呈上低下高的分布特征， $5 0 ~ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度是表层 $1 0 \ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度的2倍左右,植棉土壤 $\mathrm { C O } _ { 2 }$ 浓度是裸土土壤 $\mathrm { C O } _ { 2 }$ 浓度的2倍左右。土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度变化有着明显的日变化和季节性变化规律。在一天内,土壤温度和土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度随气温升高而增加,呈现出“单峰"曲线变化规律,峰值出现在16:00;棉花生育期内土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度在花铃期达到最大值。灌水量和土壤温度均与土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度呈显著正相关( $P < 0 . 0 1$ )。这一结果可为干旱区棉花种植节水减排提供理论参考。
+
+关键词：滴灌水量；土壤温度；膜下滴灌；土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度；新疆
+
+新疆是中国最重要的优质棉产区，截至2018年新疆棉花种植面积 $2 . \ 4 9 \ \times \ 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 }$ ，占全国的$7 4 . 3 1 \%$ ;棉花产量 $5 . 1 1 \times 1 0 ^ { 6 } \mathrm { ~ t ~ }$ ，占全国的 $8 3 . 8 4 \%$ 。膜下滴灌技术能适时适量地为作物根系供水，调节土壤温湿度，将有限的水分循环于土壤和地膜之间，可为作物生长创造出良好的水汽环境[1-2]。目前,膜下滴灌技术成为适应新疆地理气候特征的主要节水灌溉技术，在新疆棉花种植中得到了广泛应用。
+
+碳是自然界中重要的元素之一，它与人类生存有着极其密切的关系。随着全球变暖，土壤中释放的 $\mathrm { C O } _ { 2 }$ 也在不断增加，农业生产活动所导致的土壤呼吸方面的变化势必会影响到大气 $\mathrm { C O } _ { 2 }$ 的浓度，从而影响温室效应。美国研究人员发现[3」，从1990—2014年,微生物的呼吸作用在整个土壤呼吸中所占比重增加了 $9 \%$ 。同时由于微生物的作用,土壤中储存的碳被加速释放到大气，释放速率增加了$1 . 2 \%$ 。短期内发生的这种“巨大”变化可能进一步加剧全球变暖。膜下滴灌的理论研究多侧重于灌水频率、灌水量及滴头流速对土壤水盐运移的影响等方面[4-7],对气体的研究相对较少[8]。值得注意的是土壤温度和土壤含水量对土壤生物活动有根本的影响，特别是在干旱地区，土壤含水量是控制土壤碳通量的一个重要因素。土壤水分的短缺会抑制作物根系生长和减弱土壤微生物呼吸作用，不管土壤温度如何,都将可能抑制土壤 $\mathrm { C O } _ { 2 }$ 的排放[9-11]。为此，本文通过桶栽试验，探讨植棉和裸土条件下灌水量和土壤温度对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的影响，为节水条件下新疆大田棉花温室气体减排提供理论基础。
+
+# 1材料与方法
+
+# 1.1 试验概况
+
+试验于2018年5—10月在石河子大学水利建筑工程学院水利与土木工程实验中心展开$\langle 4 4 ^ { \circ } 1 8 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { N } , 8 6 ^ { \circ } 0 3 ^ { \prime } 2 7 ^ { \prime \prime } \mathrm { E } \rangle$ 。该区地处天山北麓中段，准噶尔盆地南缘，属于典型的温带大陆性气候类型。平均海拔 $4 5 0 . 8 \mathrm { ~ m ~ }$ ,多年平均气温 $6 \sim 8 ~ \mathrm { { ^ { \circ } C } }$ ,多年平均降水量 $1 8 0 \sim 2 7 0 ~ \mathrm { m m }$ ,全年蒸发量 $1 \ 0 0 0 \sim 1 \$ 500$\mathbf { m } \mathbf { m }$ ，日照时数 $2 \ 3 0 0 \sim 2 \ 7 0 0 \ \mathrm { h }$ ,无霜期 $1 6 0 \sim 1 7 0 \mathrm { ~ d ~ }$ Ω
+
+# 1.2 试验设计
+
+采用桶栽试验，塑料桶规格为（顶部内径 $\times$ 底部内径 $\times$ 高） $4 8 ~ \mathrm { c m } \times 3 9 ~ \mathrm { c m } \times 5 5 ~ \mathrm { c m }$ ,供试土壤质地为砂壤土，将试验用土碾碎及风干处理后，过直径$2 ~ \mathrm { m m }$ 筛,按设计容重 $1 . 3 5 \ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ，每 $1 0 \ \mathrm { c m }$ 分层装入桶内，装土 $5 0 ~ \mathrm { c m }$ 。在棉花两个需水量最大的时期(蕾期和花铃期)设置3个灌水水平(充分灌溉，$100 \%$ ；轻度水分亏缺， $8 0 \%$ ;重度水分亏缺， $60 \%$ ），即为处理CK、W1和W2,CK为充分灌溉，W1、W2在CK 的基础上按一定比例进行亏水处理。且在滴灌条件下设置对照处理覆膜裸地（MBS），试验共6个处理，每个处理重复3次，采用完全随机设计。
+
+棉花于4月28日采用“干播湿出”方式播种，播种深度为 $3 \sim 4 ~ \mathrm { c m }$ 。5月3日开始出苗，到5月12日棉苗出齐。定苗后每桶留3株长势一致的棉株，10月12日吐絮结束。每个桶内采用输液袋模拟滴头进行灌溉，滴头插入地膜中心。试验滴水前，先使用秒表与 $5 0 ~ \mathrm { m L }$ 量筒将滴头流量调节至设计流量$1 . 8 \mathrm { ~ L ~ } \cdot \mathrm { ~ h ~ } ^ { - 1 }$ ，再正式开始试验。试验为排除降雨的影响，将全部桶栽放置于雨棚下。
+
+# 1.3 测定项目与方法
+
+1.3.1土壤含水率和土壤温度在灌水前后采用Decagon公司的水分温度测定仪监测距土壤表面10$\mathrm { c m } , 2 0 \ \mathrm { c m } , 3 0 \ \mathrm { c m } , 4 0 \ \mathrm { c m } , 5 0 \ \mathrm { c m }$ 处的土壤水分含量和土壤温度，采集数据的频率为 $3 0 \ \mathrm { m i n } \ 1$ 次。采用烘干法( $1 0 5 \ \mathrm { ^ \circ C }$ 烘 $8 \mathrm { ~ h ~ }$ )测定不同深度土壤质量含水率，由实测值对仪器监测的数据进行标定。
+
+1.3.2土壤 $\mathrm { C O } _ { 2 }$ 浓度在土柱中心埋设土壤空气采集器,气孔分别距土壤表面 $1 0 \ \mathrm { c m } \ 、 2 0 \ \mathrm { c m } \ 、 3 0 \ \mathrm { c m } .$ $4 0 \ \mathrm { c m } \ . 5 0 \ \mathrm { c m }$ 。采用注射器法采集棉花不同生育期灌水前后，各土层气体样品，采用气相色谱仪法测定样品中土壤 $\mathrm { C O } _ { 2 }$ 的浓度。采气时间分别为灌水前后09：00。
+
+# 1.4 数据处理与分析
+
+采用MicrosoftExcel2010和 SPSS20.0 进行数据整理和显著性分析，采用Origin9.0作图。
+
+# 2 结果与分析
+
+# 2.1灌水量对土壤剖面 $\mathbf { C O } _ { 2 }$ 浓度的影响
+
+2.1.1不同试验处理下土壤 $\mathrm { C O } _ { 2 }$ 浓度变化不同灌水量处理下各土层 $\mathrm { C O } _ { 2 }$ 浓度变化情况见图1。图1中各生育期 $\mathrm { C O } _ { 2 }$ 浓度分别为多次灌水前后的平均值。可以看出，桶栽棉花各处理土壤 $\mathrm { C O } _ { 2 }$ 浓度变化规律基本一致。棉花生长期间，CK处理下 $1 0 \sim 5 0$ cm土壤 $\mathrm { C O } _ { 2 }$ 浓度变化为 $1 ~ 7 5 4 . ~ 9 7 ~ \sim 2 5 ~ 8 5 3 . ~ 0 6$ $\mu \mathrm { m o l } \cdot \mathrm { m o l } ^ { - 1 }$ ,W1处理下 $1 0 \sim 5 0 ~ \mathrm { c m }$ 土壤 $\mathrm { C O } _ { 2 }$ 浓度变化为 $1 \ 5 2 7 . \ 9 1 \sim 2 0 \ 5 1 2 . \ 3 1 \ \mathrm { \mu m o l } \cdot \ \mathrm { m o l } ^ { - 1 }$ ,W2 处理下 $1 0 \sim 5 0 ~ \mathrm { \ c m }$ 土壤 $\mathrm { C O } _ { 2 }$ 浓度变化为 $9 8 6 . 9 8 \sim$ $1 6 ~ 8 6 2 . 3 9 ~ \mathrm { \mu m o l } \cdot \mathrm { \ m o l } ^ { - 1 }$ 。同一处理不同生育期桶栽棉花土壤 $\mathrm { C O } _ { 2 }$ 平均浓度表现为：花铃期 $>$ 蕾期 $>$ 吐絮期 $>$ 苗期。这是因为在生育前期5月初到6月中旬棉花处于苗期，作物根系呼吸作用微弱，土壤$\mathrm { C O } _ { 2 }$ 浓度变化主要依靠微生物代谢活动，土壤 $\mathrm { C O } _ { 2 }$ 在较低浓度范围波动。蕾期(6月中旬到7月初)棉花的生长进入了营养生长和生殖生长的并进阶段，作物根系呼吸作用和微生物活动均增加，导致土壤$\mathrm { C O } _ { 2 }$ 浓度大幅度上升。在棉花进入花铃期后，随着温度的升高，整个土壤呼吸作用均显著提高，特别是作物根系呼吸达到峰值。进入吐絮期后，棉花部分根系死亡，作物根系呼吸作用减弱；随着灌水量减少及气温的变化，土壤温度和水分均下降，土壤中微生物活动受到抑制，呼吸作用减弱，土壤 $\mathrm { C O } _ { 2 }$ 浓度明显下降。
+
+![](images/edafd4b1ba56903b54a21504a6a38ba8a98d636e981510d0a742d1aef1f05dc0.jpg)  
+注：不同的字母表示差异性显著。  
+图1棉花全生育期不同处理条件下土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度动态变化  
+Fig.1Dynamic change of $\mathrm { C O } _ { 2 }$ concentration in soil profile under different treatment conditions during the whole growth period of cotton
+
+不同灌水处理间土壤 $\mathrm { C O } _ { 2 }$ 浓度差异明显。$1 0 \sim 5 0 ~ \mathrm { c m }$ 王层土壤 $\mathrm { C O } _ { 2 }$ 浓度从大到小依次是CK、W1、W2。与CK处理相比， ${ \mathbb X } 1 \mathrm { ~ } , { \mathbb X } 2$ 处理下桶栽棉花全生育期 $\mathrm { C O } _ { 2 }$ 排放总量分别显著降低了 $1 8 . 5 6 \%$ 、$2 9 . 8 7 \%$ 。这可能是膜下滴灌条件下，亏缺灌溉影响了土壤中的水分含量,进而影响土壤的通气性，从而导致 $\mathrm { C O } _ { 2 }$ 在土壤中的扩散速率降低，整个土壤呼吸作用减弱。也表明亏缺灌溉在一定程度上抑制了土壤 $\mathrm { C O } _ { 2 }$ 浓度。在棉花全生育期各处理间土壤剖面$\mathrm { C O } _ { 2 }$ 浓度分布规律相同,呈现上低下高的分布特征,即表层 $1 0 \ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度最低，随着土壤深度的增加而显著增加， $5 0 ~ \mathrm { c m }$ 处土壤 $\mathrm { C O } _ { 2 }$ 浓度是 $1 0 \ \mathrm { c m }$ 处的1.82、1.80倍和1.86倍。
+
+2.1.2灌水前后土壤 $\mathrm { C O } _ { 2 }$ 浓度变化为研究灌水对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的影响，分别在灌水前后 $1 2 \mathrm { ~ h ~ }$ 取气，分析 $\mathrm { C O } _ { 2 }$ 在各土层中的浓度变化(表1）。由表1可知，灌水后各处理不同深度处 $\mathrm { C O } _ { 2 }$ 浓度增幅均为正值,说明灌水能促进土壤 $\mathrm { C O } _ { 2 }$ 浓度的增加。
+
+该时期棉花已进入花铃期，根系呼吸作用旺盛，根区土壤 $\mathrm { C O } _ { 2 }$ 含量较高,即各处理 $4 0 \sim 5 0 ~ \mathrm { { c m } }$ 土层 $\mathrm { C O } _ { 2 }$ 浓度较高。
+
+由表1可知,各试验处理不同深度处土壤 $\mathrm { C O } _ { 2 }$ 浓度在灌水后 $^ { 1 2 \mathrm { ~ h ~ } }$ 均有上升趋势。裸土时土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度变化过程与植棉土壤基本相同,但在同一灌水量处理下,植棉 $1 0 \sim 5 0 ~ \mathrm { c m }$ 土层中土壤 $\mathrm { C O } _ { 2 }$ 浓度及增幅明显大于裸土，主要是因为土壤呼吸剖面 $\mathrm { C O } _ { 2 }$ 浓度变异过程在很大程度上取决于土壤内部微生物活动情况，土壤水分和温度的降低都会影响微生物的呼吸作用。但两者均为CK处理时土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度增幅最大,植棉的最大值为 $2 7 . 9 6 \%$ ，裸土的最大值为 $1 5 . 1 8 \%$ 。在W2处理下，植棉和裸土 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土层中土壤 $\mathrm { C O } _ { 2 }$ 浓度增幅高于 $3 0 \sim$ $5 0 ~ \mathrm { c m }$ ,这可能是由于灌水量小，水分变化主要集中在土壤浅层，其他处理 $\mathrm { C O } _ { 2 }$ 浓度增幅在 $2 0 \sim 3 0 ~ \mathrm { c m }$ 处最高。
+
+2.1.3土壤含水率与土壤 $\mathrm { C O } _ { 2 }$ 浓度的作用关系不同的灌水量会影响土壤含水率的变化。本试验无地下水补给，土壤含水率随灌溉水量的增加而增加，因蒸发而降低,这与王石贵等[12]研究结论一致。图2 显示，在植棉和裸土不同滴灌水量处理下，土壤含水率与土壤 $\mathrm { C O } _ { 2 }$ 浓度呈正相关关系。在植棉(MD)条件下，处理CK、W1和W2的决定系数 $R ^ { 2 }$ 分别为0.531、0.379和0.439，且二者均呈极显著相关
+
+表1试验各处理灌水前后 $\mathbf { C O } _ { 2 }$ 浓度变化  
+Tab.1 Tests the changes of $\mathbf { C O } _ { 2 }$ concentration before and after irrigation in each treatment   
+
+<html><body><table><tr><td rowspan="2">土壤深度 /cm</td><td rowspan="2">采气时间</td><td colspan="3">植棉处理</td><td colspan="3">裸地处理</td></tr><tr><td>MDCK</td><td>MDW1</td><td>MDW2</td><td>MBSCK</td><td>MBSW1</td><td>MBSW2</td></tr><tr><td>10</td><td>灌前/（μmol·mol-1)</td><td>13 388.16</td><td>10 890.21</td><td>8 708.85</td><td>4 235.14</td><td>3 516.35</td><td>2 867.56</td></tr><tr><td rowspan="4">20</td><td>灌后12 h/（μmol·mol-1)</td><td>15 883.78</td><td>12 547. 11</td><td>9 886.88</td><td>4 797.75</td><td>3 932.77</td><td>3 121.94</td></tr><tr><td>增幅/%</td><td>18.64</td><td>15.21</td><td>13.53</td><td>13.28</td><td>11.84</td><td>8.87</td></tr><tr><td>灌前/（μmol·mol-1）</td><td>15 488.09</td><td>13 952.83</td><td>10 558.19</td><td>5 042.44</td><td>4 786.40</td><td>3 274.93</td></tr><tr><td>灌后12 h/（μmol·mol-1)</td><td>19 818.31</td><td>17 053.45</td><td>12 336.45</td><td>5 808.09</td><td>5 416.56</td><td>3 657.17</td></tr><tr><td rowspan="3">30</td><td>增幅/%</td><td>27.96</td><td>22.22</td><td>16.84</td><td>15.18</td><td>13.17</td><td>11.67</td></tr><tr><td>灌前/（μmol·mol-1)</td><td>17 982.28</td><td>15 818.87</td><td>12 090.60</td><td>5 536.09</td><td>5 155.57</td><td>4 384.05</td></tr><tr><td>灌后12 h/（μmol·mol-1)</td><td>22 182.05</td><td>18 825.76</td><td>13 170.82</td><td>6 357.32</td><td>5 814.38</td><td>4 725.42</td></tr><tr><td rowspan="3">40</td><td>增幅/%</td><td>23.36</td><td>19.01</td><td>8.93</td><td>14.83</td><td>12.78</td><td>7.79</td></tr><tr><td>灌前/（μmol·mol-1)</td><td>20 851.89</td><td>17 336.31</td><td>14 336.83</td><td>6 230.52</td><td>5 850.57</td><td>5 016.67</td></tr><tr><td>灌后12 h/（μmol·mol-1)</td><td>24 849.27</td><td>19 860.61</td><td>15 173.94</td><td>7 168.89</td><td>6 399.58</td><td>5 357.73</td></tr><tr><td rowspan="4">50</td><td>增幅/%</td><td>19.17</td><td>14.56</td><td>5.84</td><td>15.06</td><td>9.38</td><td>6.80</td></tr><tr><td>灌前/（μmol·mol-1)</td><td>22 095.60</td><td>19 548.21</td><td>16 370.03</td><td>7 558.29</td><td>7 316.69</td><td>5 778.55</td></tr><tr><td>灌后12 h/（μmol·mol-1)</td><td>26 061.13</td><td>21 896.97</td><td>16 855.48</td><td>8 523.07</td><td>7 769.21</td><td>4 970.25</td></tr><tr><td>增幅/%</td><td>17.95</td><td>12.02</td><td>2.97</td><td>12.76</td><td>6.18</td><td>3.32</td></tr></table></body></html>
+
+注:MD 为植棉,覆膜滴灌;MBS 为裸土,覆膜滴灌。CK为充分灌溉,W1为轻度水分亏缺,W2为重度水分亏缺。灌水时间为7月19日,采气时间为7月19日和7月20日。
+
+I (00 自 r-t□□ 。品□ 10000 □ □ 10000 品 8品 品 □中 中品 □ 品 □□ □ □品品 品 □ 00 5 000 □ °。 品 (c) MDW2(a)MDCK (b) MDW1 □  
+10 12 14 16 18 20 22 10 12 14 16 18 20 22土 10 12 14 16 18 20 22土壤含水率/% 土壤含水率/% 土壤含水率/%  
+I [CO]=2 229.99-314.05W+88.01W2 2000 [CO]=-11336.94+2 791.45W+87.52W2 (q-[ou) 20000 [CO]=9 376.43-1 788.31W+154.14W  
+R²=0.603，P<0.01 R²=0.494，P<0.01 R²=0.384，P<0.01品 1品 □  
+8B □ □ 田 品品 。 □ 日 品 □ □ 品8 8。 。 8。 □ □ 9 0□ (d) MBSCK 0 (e)MBSW1 □ 。 □ □ (f)MBSW2品 P □□□ □ 品0 0  
+5 6 7 8 9 10 11 12 5 6 7 8 9 10 11 12 5 6 7 8 9 10 11 12土壤含水率/% 土壤含水率/% 土壤含水率/%注： $W$ 表示土壤含水率。
+
+（ $\ : P < 0 . \ : 0 1 \ : \mathrm { \Omega } , \ :$ ），相关系数分别为0.697、0.589和0.645，土壤剖面 $5 8 . 9 \% \sim 6 9 . 7 \%$ 的 $\mathrm { C O } _ { 2 }$ 浓度变化可归因于土壤含水率的变化。在裸土(MBS)条件下,处理CK、W1 和W2 的决定系数 $R ^ { 2 }$ 分别为0.603、0.494和0.384，且二者均呈极显著相关（ $P < 0 . 0 1 \ \cdot$ ），相关系数分别为0.778、0.676和0.581，说明以土壤含水率为自变量， $\mathrm { C O } _ { 2 }$ 浓度为因变量的二次回归方程模型可以解释土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度变化的 $5 8 . 1 \% \sim 7 7 . 8 \%$ 。在相同试验处理条件下,植棉和裸地的土壤含水率与土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度均呈正相关( $P < 0 . \ 0 1 \ \cdot$ 。在CK处理下，MD和MBS条件下的决定系数 $R ^ { 2 }$ 分别为0.531和0.630，相关性分析表明，两者之间的关系极显著（ $\boldsymbol { P } <$ 0.01），相关系数为0.697和0.778。
+
+在植棉条件下，不同滴灌水量处理的土壤含水率变化是 $1 1 . 0 3 \% \sim 2 1 . 5 4 \%$ ，剖面 $\mathrm { C O } _ { 2 }$ 浓度的变化是 $1 ~ 0 4 2 . 4 9 \sim 2 4 ~ 0 6 4 . 6 ~ upmu \mathrm { m o l } \cdot \mathrm { m o l } ^ { - 1 }$ ;在裸地条件下，不同滴灌水量处理的土壤含水率变化是$6 . 7 \% \sim 1 2 . 2 5 \%$ ，剖面 $\mathrm { C O } _ { 2 }$ 浓度的变化是 $8 8 0 . 5 5 \sim$ $1 2 ~ 4 6 0 . 5 1 ~ { \mu \mathrm { m o l } } \cdot { \mathrm { m o l } } ^ { - 1 }$ 。土壤含水率和 $\mathrm { C O } _ { 2 }$ 浓度变化范围均为植棉大于裸地。
+
+# 2.2 温度对土壤剖面 $\mathbf { C O } _ { 2 }$ 浓度的影响
+
+2.2.1土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度日变化7月20日08：00至21日08：00对充分灌溉条件下植棉和裸土土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的日变化进行测定，结果如图3所示。植棉和裸地处理条件下， $1 0 \sim 5 0 ~ \mathrm { c m }$ 土层土壤 $\mathrm { C O } _ { 2 }$ 浓度的日变化规律基本保持一致，均呈单峰曲线。但植棉条件下深层土壤温度相对于气温的升高均有一定的滞后性，从08：00—16：00，气温不断升高且达到一天中的最大值， $1 0 \ \mathrm { c m }$ 处土壤温度升高频率与其保持一致， $2 0 \sim 5 0 ~ \mathrm { c m }$ 土壤温度和 $\mathrm { C O } _ { 2 }$ 浓度在18：00左右达到峰值，之后土壤温度开始下降，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度开始回落。裸土处理条件下地温和 $\mathrm { C O } _ { 2 }$ 浓度随气温升高而增加，在16：00出现最大值。表明土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度日变化因受到气温的影响而呈现出明显的昼高夜低趋势。早晨和晚上土壤温度相对较低，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度处于较低水平，白天气温不断上升，土壤温度也随之升高，导致微生物活性、作物根系和土壤的呼吸作用增强，加速土壤中有机质的分解，土壤 $\mathrm { C O } _ { 2 }$ 浓度产生速率加快, $1 0 \sim 5 0 ~ \mathrm { c m }$ 土层土壤 $\mathrm { C O } _ { 2 }$ 浓度增大。
+
+2.2.2土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度空间季节性变化土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度始终受土壤内部生物活性和外部环境因素共同影响。在不同层次的土壤剖面上，微生物活性、作物根系生长和有机质含量等都影响着土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的差异。
+
+图4为生育期内MDCK处理和MBSCK处理土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的动态变化等值线图。由图 $\mathrm { 4 a }$ 可知，MDCK处理下土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度在棉花全生育期呈现出上低下高的分布特征，表层 $1 0 \ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度最低，随着土壤深度的增加而增加， $5 0 ~ \mathrm { c m }$ 处土壤 $\mathrm { C O } _ { 2 }$ 浓度最高，是表层 $1 0 \ \mathrm { c m }$ 的2倍左右。 $1 0 \ \mathrm { c m }$ 处土壤 $\mathrm { C O } _ { 2 }$ 浓度在整个生育期保持着较低的水平，$2 0 \sim 5 0 ~ \mathrm { c m }$ 处土壤 $\mathrm { C O } _ { 2 }$ 浓度出现明显的季节性变化。在棉花生长进入花铃期后，根系生长旺盛，灌水量大，温度高， $4 0 \sim 5 0 ~ \mathrm { c m }$ 处出现高 $\mathrm { C O } _ { 2 }$ 浓度区。由图4b可以看出，MBSCK处理土壤 $\mathrm { C O } _ { 2 }$ 浓度动态变化趋势与MDCK处理一致，但各剖面 $\mathrm { C O } _ { 2 }$ 浓度均小于MDCK处理，这可能与 $\mathrm { C O } _ { 2 }$ 来源的差异有关。
+
+![](images/ea4e7af6d567bac7bcd75f78541961655ae6b9bd879da5a54f8b1ffb0544e659.jpg)  
+图37月20—21日MDCK和MBSCK处理下不同深度地温与气温变化及 $\mathrm { C O } _ { 2 }$ 浓度变化 Fig.3Changes of ground temperature,air temperature and $\mathrm { C O } _ { 2 }$ concentration at different depths under MDCK and MBSCK treatment from 2O to 21 July
+
+![](images/b4cffa1e9361fb1e14136d0ce64804aa68742bf8f2c85c580e0ea4048efde841.jpg)  
+图4全生育期内植棉和裸土土壤 $\mathrm { C O } _ { 2 }$ 浓度在垂直剖面上的分布  
+Fig.4Distribution of $\mathrm { C O } _ { 2 }$ concentration in the vertical section of coton planting and bare soil during the whole growth perio
+
+由图4可以看出，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度呈梯度性空间变化，这可能是由于表层土壤与大气接触，孔隙度大,容重小,透气性好，土壤呼吸产生的 $\mathrm { C O } _ { 2 }$ 可以快速扩散，而深层土壤容重大、孔隙度小等限制了$\mathrm { C O } _ { 2 }$ 的扩散,这就使得在土壤 $5 0 ~ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 积累得最多，浓度最大，剖面 $\mathrm { C O } _ { 2 }$ 浓度具有明显的垂直梯度分布特征。
+
+C (1-[Ow) 25000[CO]=17949.53-1967.81T+65.78T2 (-[Ou 25 000[CO]=14165.19-1461.29T+49.78T2R²=0.621，P<0.01 R²=0.547，P<0.011150000 品 / 0000。。品品10000 10000品 □bo 5000 R 5000 □ □□QQ 中 88 □ 品 (b)MDW1 P 品 (c) MDW20 0土101214161820 22242628 30 32 101214161820 22242628 30土壤温度/℃ 土壤温度/℃ 土壤温度/℃  
+[[CO]=16 350.19-1 370.30T+39.34T2  
+16 00 8000 R²=0.584，P<0.01 0 品 F R²=0.703，P<0.01 8 品 湘 8000 R²=0.701，P<0.01 。 中 0 8 98  
+4000 &(@d) MBSCK 8 (e)MBSW1 4000式 (f)MBSW2B 00Q  
+0 0 0  
+10121416182022242628 30 32 101214161820222426283032 10 12141618 2022 24 26 28 30土壤温度/℃ 土壤温度/℃ 土壤温度/℃注：T表示土壤温度。
+
+表2不同试验处理下土壤温度及含水率与 $\mathbf { C O } _ { 2 }$ 浓度的二元回归方程 Tab.2Binary regression equations of $\mathbf { C O } _ { 2 }$ concentration with soil temperature and water content in different experimental treatments   
+
+<html><body><table><tr><td>处理</td><td>相关系数</td><td>二元回归方程</td><td>置信区间/%</td><td>显著性</td></tr><tr><td>MDCK</td><td>0.823</td><td>[CO]= -2 375.68-2 177.46T+2 665.24W+78.31T²-25.88W² -45.80T·W</td><td>95</td><td>P<0.01</td></tr><tr><td>MDW1</td><td>0.817</td><td>[CO]=16 842.33-2 484.65T+715.76W+51.64T-60.30W²-67.36T·W</td><td>95</td><td>P<0.01</td></tr><tr><td>MDW2</td><td>0.785</td><td>[CO]=20 237.07-2398.87T+239.95W+74.04T +28.32W²-23.96T·W</td><td>95</td><td>P<0.01</td></tr><tr><td>MBSCK</td><td>0.840</td><td>[CO]=14 025.73-1 551.75T+651.12W+46.74T² +75.25W² -45.82T·W</td><td>95</td><td>P<0.01</td></tr><tr><td>MBSW1</td><td>0.891</td><td>[CO]= -5 038.92-402.88T+1177.87W+29.91T² +111.02W²-70.91T·W</td><td>95</td><td>P<0.01</td></tr><tr><td>MBSW2</td><td>0.805</td><td>[CO]=747.93-282.50T+218.68W+17.95T² +29.82W² -11.89T·W</td><td>95</td><td>P<0.01</td></tr></table></body></html>
+
+注： $T$ 和 $\boldsymbol { \ W }$ 分别是土壤温度和含水率。
+
+2.2.3土壤温度对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的作用关系通过分析棉花生育期土壤温度变化和剖面 $\mathrm { C O } _ { 2 }$ 浓度变化关系，发现桶栽条件下温度对土壤剖面$\mathrm { C O } _ { 2 }$ 浓度具有显著影响。温度对土壤呼吸的影响表现在对土壤微生物的活性和根系的生长、活性的影响[14]。
+
+图5显示了各处理下土壤温度与 $\mathrm { C O } _ { 2 }$ 浓度的相互关系。在植棉和裸土两种条件下，不同滴灌水量处理下土壤含水率与土壤 $\mathrm { C O } _ { 2 }$ 浓度呈正相关关系。在植棉(MD)条件下，处理CK、W1和W2的决定系数 $R ^ { 2 }$ 分别为 $0 . 6 6 6 , 0 . 6 2 1$ 和0.547,且二者均呈极显著相关( $P < 0 . 0 1$ ），相关系数分别为0.723、0.716和0.668，说明土壤剖面 $6 6 . 8 \% \sim 7 2 . 3 \%$ 的$\mathrm { C O } _ { 2 }$ 浓度变化可归因于土壤温度的变化。在裸土（MBS)条件下，处理CK、W1和W2的决定系数 $R ^ { 2 }$ 分别为0.584、0.703和0.701，且二者均呈极显著相关( $P < 0 . 0 1 \$ ），相关系数分别为0.681、0.805和0.770,土壤剖面 $6 8 . 1 \% \sim 8 0 . 5 \%$ 的 $\mathrm { C O } _ { 2 }$ 浓度变化可归因于土壤温度的变化。在相同灌水量处理下，植棉和裸地的土壤含水率与土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度均呈正相关( $\ P < 0 . 0 1 \rangle$ 。所以裸地土壤 $\mathrm { C O } _ { 2 }$ 浓度较植棉土壤更易受温度的影响。在CK处理下，MD 和MBS条件下的决定系数 $R ^ { 2 }$ 分别为0.666和0.584,相关性分析表明两者之间的关系极显著（ $\boldsymbol { P } <$ 0.01），相关系数为0.723和0.681。
+
+覆膜条件下，裸土处理土壤温度略高于植棉处理。当土壤温度低于 $1 6 ~ \mathrm { { ^ circ C } }$ ,土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度处于较低水平。主要是温度过低导致土壤中的微生物活性降低,抑制了土壤中微生物的呼吸作用。当土壤温度高于 $1 8 \sim 2 0 ~ \mathrm { ^ { \circ } C }$ 时,随着温度的增加，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度产生速率明显加快，最大值出现在 $3 0 \sim$ $3 2 ~ \mathrm { ^ { \circ } C }$ 。
+
+# 2.3土壤温度和含水率对土壤剖面 $\mathbf { C O } _ { 2 }$ 浓度的交互影响
+
+戴万宏等[15]研究发现,在土壤 $1 0 \ \mathrm { c m }$ 和 $2 0 \ \mathrm { c m }$ 处土壤温度和含水率的交互作用解释了土壤 $\mathrm { C O } _ { 2 }$ 浓度变异的 $8 1 . 9 \%$ 和 $9 2 . 9 \%$ 。Fernandez 等[16]研究发现,土壤温度在 $1 0 \sim 1 6 ~ \mathrm { ^ { \circ } C }$ ,土壤体积含水量大于$10 \%$ 时,土壤 $\mathrm { C O } _ { 2 }$ 通量最大，土壤温度和湿度是影响土壤呼吸的主要非生物因素。
+
+本文以土壤温度和土壤含水率为自变量，土壤$\mathrm { C O } _ { 2 }$ 浓度为因变量建立模型（表2）。对比发现，在土壤温度和土壤含水率双因素的交互作用下，比单因素时的影响效应更强，表明土壤温度和土壤含水率对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度变化具有一定的交互影响。
+
+# 3讨论
+
+# 3.1灌水量和土壤温度对剖面 $\mathbf { C O } _ { 2 }$ 浓度的影响
+
+不同的灌水量会影响土壤水分和矿质营养的空间分布，土壤水分的多少必然会影响土壤中气体的含量，从而影响土壤通气性。Davidson 等[17]分析了亚马逊流域东部的林地和牧场的土壤含水量和土壤呼吸的季节性变化，发现土壤呼吸随着土壤含水量的降低而降低。Lavigne 等[18]发现,当土壤含水量低于田间持水量时，土壤呼吸速率随土壤含水量的增加而增加。而Reth 等[19]认为，土壤含水量只对草甸的土壤呼吸有影响，对裸地和林地没有显著影响。本研究结果发现,在植棉和裸土两种情况下，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度均随着灌水量的减少而降低，即亏缺灌溉在一定程度上抑制了土壤 $\mathrm { C O } _ { 2 }$ 浓度的产生。不同深度处 $\mathrm { C O } _ { 2 }$ 浓度随着土壤水分的降低总体呈下降趋势。各处理不同深度处土壤 $\mathrm { C O } _ { 2 }$ 浓度在灌水后 $1 2 \mathrm { ~ h ~ }$ 均有上升,裸土土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度及变异幅度低于植棉土壤。
+
+在土壤温度方面,沈征涛等[20]发现,温度在$1 0 \sim 4 2 \mathrm { ~ } \mathrm { ~ \textdegree ~ }$ ,黏土 $\mathrm { C O } _ { 2 }$ 释放速率随温度升高而增加。夜间土壤温度低，土壤 $\mathrm { C O } _ { 2 }$ 浓度保持在较低范围，白天土壤温度升高，土壤 $\mathrm { C O } _ { 2 }$ 浓度也开始增加。即土壤温度的提高有利于土壤 $\mathrm { C O } _ { 2 }$ 的产生，导致土壤中 $\mathrm { C O } _ { 2 }$ 浓度升高[21]。陶丽佳等[22]研究了不同灌溉制度对土壤 $\mathrm { C O } _ { 2 }$ 浓度的影响，结果显示灌水后土壤温度与 $\mathrm { C O } _ { 2 }$ 浓度呈显著正相关。也有研究表明冬季土壤含水量很高,但土壤呼吸却很低[23]。本文研究发现，当土壤温度高于 $1 8 \sim 2 0 ~ \mathrm { ^ { \circ } C }$ 时，随着温度的增加，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度产生速率明显加快，最大值出现在 $3 0 \sim 3 2 ~ \mathrm { ^ { \circ } C }$ 。
+
+# 3.2膜下滴灌条件下有无棉花生长对土壤剖面$\mathrm { C O } _ { 2 }$ 浓度的影响
+
+膜下滴灌技术将田间水分大循环变为膜下水分小循环,减少了水分蒸发,使表层土壤湿度增加[24]顾佳丽等[22]采用静态暗箱－气相色谱法比较了不同灌溉制度对土壤 $\mathrm { C O } _ { 2 }$ 浓度的影响，发现覆膜条件下裸地 $\mathrm { C O } _ { 2 }$ 浓度高于种植马铃薯的情况,这可能是由于种植马铃薯的处理有一定郁闭度、相较于裸地其地温较低。也有研究[24]表明,耕地 $\mathrm { C O } _ { 2 }$ 主要来源于土壤微生物对有机质的分解和植物根系呼吸作用，所以， $\mathrm { C O } _ { 2 }$ 的浓度要大于裸地由微生物分解的$\mathrm { C O } _ { 2 }$ 浓度。本研究发现,不同生育期桶栽棉花土壤$\mathrm { C O } _ { 2 }$ 平均浓度表现为：花铃期 $>$ 蕾期 $>$ 吐絮期 $>$ 苗期,这与闫静静[25]的结论一致。膜下滴灌条件下土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度在棉花全生育期呈现出上低下高的分布特征，表层 $1 0 \ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度最低，随着土壤深度的增加而增加。覆膜裸土王壤 $\mathrm { C O } _ { 2 }$ 浓度动态变化规律与其一致，但 $\mathrm { C O } _ { 2 }$ 浓度显著低于种植棉花的土壤。
+
+# 4结论
+
+基于膜下滴灌条件下，研究灌水量和土壤温度对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的影响，结果表明：
+
+（1）在整个生育期内，各处理土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度呈现先增加后降低的变化趋势，随着亏缺程度的增加,土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度也在不断降低。与CK处理相比, ${ \mathbb W } 1 , { \mathbb W } 2$ 处理下桶栽棉花全生育期 $\mathrm { C O } _ { 2 }$ 排放总量显著降低了 $1 8 . 5 6 \% . 2 9 . 8 7 \%$ 。表明亏缺灌溉可在一定程度上可抑制土壤 $\mathrm { C O } _ { 2 }$ 浓度。
+
+（2）不同灌水量处理下，植棉和裸土土壤剖面$\mathrm { C O } _ { 2 }$ 浓度均呈上低下高的分布特点，土深层 $5 0 ~ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度是土层 $1 0 \ \mathrm { c m }$ 处 $\mathrm { C O } _ { 2 }$ 浓度的2倍左右。同一灌溉处理条件下,植棉土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度是裸土土壤 $\mathrm { C O } _ { 2 }$ 浓度的2倍左右。当土壤温度高于$1 8 \sim 2 0 ~ \mathrm { ^ { \circ } C }$ 时，随着温度的增加，土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度产生速率明显加快,最大值出现在 $3 0 \sim 3 2 ~ \mathrm { ^ { \circ } C }$ 。
+
+（3）灌水量和土壤温度交互影响土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度。植棉和裸土条件下，灌水量和土壤温度均与土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度呈显著正相关( $\textstyle P < 0 . 0 1 { \dot { } } ,$ ，且土壤温度对土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度的影响较灌水量显著，灌水量和土壤温度的交互作用解释土壤剖面 $\mathrm { C O } _ { 2 }$ 浓度变化的 $7 8 . 5 \% \sim 8 9 . 1 \%$ 0
+
+参考文献（References）:   
+[1］宁松瑞,左强,石建初,等.新疆典型膜下滴灌棉花种植模式的 用水效率与效益[J].农业工程学报,2013,29（22)：90-99. [Ning Songrui,Zuo Qiang,Shi jianchu,etal.Water use efficiency and benefit of typical drip irrigation cotton planting pattern under mulch in Xinjiang[J]. Journal of Agricultural Engineering,2013, 29(22):90 -99.]   
+[2］宗含.旱区长期膜下滴灌条件下农田土壤盐分运移规律研究 [D].杨凌：西北农林科技大学,2018.［Zong Han.Study on Salt Transport in Farmland Soil under Long-term Drip Irrigation under Film in Dry Area[D]. Yangling:Northwest University of Agriculture and Forestry,2018.]   
+[3］新华网.新研究：全球变暖致土壤加速向大气释放二氧化碳 [EB/OL]．http://www.xinhuanet.com/2018- 08/03/c 1123217984.htm,2018-08-03.[New research:global warming accelerates the release of carbon dioxide from soil to the atmosphere[EB/OL].htp://www. xinhuanet. $\mathrm { c o m } / 2 0 1 8 \mathrm { ~ - ~ } 0 8 / 0 3 / \mathrm { c } _ { - }$ （204号 1123217984. htm,2018 -08 -03.]   
+[4］张江辉.干旱区土壤水盐分布特征与调控方法研究［D].西 安：西安理工大学,2010.［Zhang Jianghui. Study on the Distribution Characteristics and Regulation Methods of Soil Water and Salt in Arid Area[D].Xi'an:Xi'an University of Technology,2010.]   
+[5］刘涛,吴漩,郑子成,等.不同灌水频率条件下设施土壤水盐运 移特征[J].生态与农村环境学报,2016,32（4):622－631. [Liu Tao,Wu Xuan,Zheng Zicheng,etal.Characteristics of water and salt transport in soil under different irrigation frequencies[J]. Journal of Ecology and Rural Environment,2016,32（4）:622 - 631.]   
+[6]汪昌树,杨鹏年,于宴民,等.膜下滴灌布置方式对土壤水盐运 移和产量的影响[J].干旱地区农业研究,2016,34（4）：38- 45.[Wang Changshu,Yang Pengnian,Yu Yanmin,et al.Effects of drip irrigation under mulch on soil water and salt transport and yield[J].Agricultural Research in Arid Areas,2016,34(4） :38 - 45.]   
+[7]龚江,赵竹青,谢海霞,等.膜下滴灌棉田土壤水盐运移规律研 究[J].灌溉排水学报,2014,33（2）:73-76.[Gong Jiang,Zhao Zhuqing,Xie Haixia,et al. Study on the law of water and salt transport in cotton field under drip irrigation under mulch[J]. Journal of Irrigation and Drainage,2014,33(2）:73-76.]   
+[8］杨凡,侯会静,蔡焕杰,等.不同灌溉水平对夏玉米地土壤 $\mathrm { C O } _ { 2 }$ （20
+
+排放的影响[J].中国农村水利水电，2017（11）：98－103.
+
+[Yang Fan,Hou Huijing,Cai Huanjie,etal.Effects of different irrigation levels on soil $\mathrm { C O } _ { 2 }$ emissions from summer maize fields [J].Rural Water Resources and Hydropower in China,2017 (11):98-103.]
+
+[9]王在敏,何雨江,靳孟贵,等.运用土壤水盐运移模型优化棉花 微咸水膜下滴灌制度[J].农业工程学报,2012,28（17)：63- 70.[Wang Zaimin,He Yujiang,Jin Menggui,et al. Optimizing the drip irrigation system of cotton under brackish water film by using soil water and salt transport model[J]. Journal of Agricultural Engineering,2012,28（17） :63-70.]   
+[10］陶丽佳，王凤新，顾小小.覆膜滴灌对温室气体产生及排放的 影响研究进展[J].中国农学通报,2013,29（3）：17－23.［Tao Lijia,Wang Fengxin,Gu Xiaoxiao.Research progress on the effects of mulched drip irrigation on greenhouse gas production and emission[J].China Agricultural Bulletin,2013,29(3）:17 -23.]   
+[11］杨开静.滴灌条件下马铃薯田间土壤水、气交互效应与调控机 理研究［D].北京：中国农业大学,2017.［Yang Kaijing.Interaction of Soil Water and Air in Potato Field under Drip Irrigation [D].Beijing:China Agricultural University,2017.]   
+[12］王石贵，汪斌,李军，等.不同灌水定额条件下土壤含水率的变 化规律［J].农业与技术,2013（1）：15.[Wang Shigui,Wang Bin,Li Jun,et al.Variation of soil moisture content under different irrigation quotas[J].Agriculture and Technology,2013（1）:15.]   
+[13］姚鹏伟.旱作农田土壤温室气体剖面分布及净排放对作物、氮 肥和覆膜的响应[D].北京：中国科学院大学（中国科学院教 育部水土保持与生态环境研究中心）,2017.［Yao Pengwei.Response of Soil Greenhouse Gas Profile Distribution and Net Emissions to Crops,Nitrogen Fertilizer and Film Mulching in Dryland Farmland[D].Beijing:University of Chinese Academy of Sciences (Center for Soil and Water Conservation and Ecological Environment Research,Ministry of Education,Chinese Academy of Sciences）,2017.]
+
+[14」张俊丽，张锦丽，赵晓进，等.不同耕作方式下旱作玉米田土壤 $\mathrm { C O } _ { 2 }$ 排放量及其与土壤水热的关系[J」.干旱地区农业研究， 2018,36(4）:88-93.[Zhang Junli,Zhang Jinli,Zhao Xiaojin,et al. Soil $\mathrm { C O } _ { 2 }$ emissions and their relationship with soil water and heat in dryland maize fields under different tillage patterns[J].Ag ricultural Research in Dry Areas,2018,36(4):88-93.]
+
+[15］戴万宏，王益权，黄耀，等.塿土剖面 $\mathrm { C O } _ { 2 }$ 浓度的动态变化及其 受环境因素的影响[J].土壤学报，2004，41（5）：827-831. [Dai Wanhong,Wang Yiquan,Huang Yao,et al.Dynamic change of $\mathrm { C O } _ { 2 }$ concentration in loess profile and its influence by environmental factors[J]. Journal of Soil Science,2004,41（5）:827 - 831.]
+
+[16]Fernandez D P,Neff JC,Reynolds BRL.Soil respiration in the cold desert environment of the Colorado Plateau（USA）：Abiotic regulators and thresholds[J].Biogeochemistry,2006,78（3）:247 -265.
+
+[17]Davidson EA,VerchotLV,Henrique Cattanio J,etal.Effectsof soil water content on soil respiration in forests and cattle pastures of
+
+eastern Amazonia[J].Biogeochemistry,20o0,48（1）:53-69.  
+[18]Lavigne MB,Foster RJ,Goodine G.Seasonal and annual changesin soil respiration in relation to soil temperature,water potentialand trenching[J].Tree Physiology,2004,24(4）:415-424.  
+[19]Reth S,Reichstein M,Falge E.The effect of soil water content,soiltemperature,soil pH-value and the root mass on soil $\mathrm { C O } _ { 2 }$ efflux: Amodified model[J].Plant& Soil,2005,268(1/2):21-33.  
+[20］沈征涛，王宝军，施斌,等.温湿度对土壤 $\mathrm { C O } _ { 2 }$ 释放影响的试验研究[J].南京大学学报（自然科学版），2012，48（6）：761-767.［Shen Zhengtao,Wang Baojun,Shi Bin,et al.Experimentalstudy on the effect of temperature and humidity on soil $\mathrm { C O } _ { 2 }$ release[J].Journal of Nanjing University（Natural Science Edition）,2012,48(6):761 -767.]  
+[21］梁福源,宋林华，王静.土壤 $\mathrm { C O } _ { 2 }$ 浓度昼夜变化及其对土壤$\mathrm { C O } _ { 2 }$ 排放量的影响[J].地理科学进展,2003,22（2）：170-176.［Liang Fuyuan,Song Linhua,Wang Jing.Diurnal variation ofsoil $\mathrm { C O } _ { 2 }$ concentration and its impact on soil $\mathrm { C O } _ { 2 }$ emissions[J].Progress in Geographic Science,2003,22(2）:170 -176.]  
+[22］陶丽佳，王凤新，顾小小.膜下滴灌对土壤 $\mathrm { C O } _ { 2 }$ 与 $\mathrm { C H } _ { 4 }$ 浓度的影响[J].中国生态农业学报，2012，20(3）：330-336.［TaoLi-jia,Wang Fengxin,Gu Xiaoxiao.Effects of drip irrigation underMulch on soil $\mathrm { C O } _ { 2 }$ and $\mathrm { C H } _ { 4 }$ concentration[J].Chinese Journal ofEco-Agriculture,2012,20(3）:330-336.]  
+[23］员学锋，吴普特,汪有科.地膜覆盖保熵灌溉的土壤水、热以及作物效应研究［J].灌溉排水学报，2006，25（1）：25-29.［YuanXuefeng,Wu Pute,Wang Youke.Effects of plastic film mulching onsoil water,heat and crop effects in soil moisture conservation irriga-tion[J].Journal ofIrrigation and Drainage,2O06,25(1）:25-29.]  
+[24］孙文娟.作物生长和氮含量对土壤-作物系统 $\mathrm { C O } _ { 2 }$ 排放的影响[J].环境科学,2004,25（3）:1-6.［SunWenjuan.Effectsofcrop growth and nitrogen content on $\mathrm { C O } _ { 2 }$ emissions from soil-cropsystem[J].Environmental Science,2004,25(3）:1-6.]  
+[25］闫静静.豆类与非豆类作物生长对土壤呼吸和土壤 ${ \bf N } _ { 2 } \mathrm { O }$ 排放的影响［D］.武汉：湖北大学，2011.［YanJingjing.Effects ofGrowth of Legumes and Non-Legumes on Soil Respiration and ${ \bf N } _ { 2 } \mathrm { O }$ Emission[D].Wuhan:Hubei University,2011.]
+
+# Experimental study on the effect of drip irrigation water volume and soil temperature on $\mathbf { C O } _ { 2 }$ concentration in the soil profile of barrel-planted cotton
+
+DONG Qian-qian1,2，FAN Wen-bo1²， XU Zhong-yu³，LIU Fang-ting1,2, ZHANG Jin-xi12，WEI Jian-tao1²，LI Chang-xiao1,2 (1.College of Water& Architecture Engineering,Shihezi University,Shihezi 8320o,Xinjiang,China; 2.Key Laboratory of Modern Water-saving Irigationof Xinjiang Production & Construction Group,Shihezi University， Shihezi 83200,Xinjiang,China；3.College ofScience,Shihezi University,Shihezi 83200,Xinjiang,China)
+
+Abstract:This study aimed to explore the effcts of irigation volume and soil temperature on soil $\mathrm { C O } _ { 2 }$ concentrationsat differentdepthsunderdripirrigation in Xinjiang.The barrel test wasused withdifferent amountsofdripirrigation:full irrigation（CK）of $100 \%$ irrigation,mild water deficit（W1）of $80 \%$ irrigation,and severe water deficit (W2）of $60 \%$ irrigation.The variation in $\mathrm { C O } _ { 2 }$ concentrations in the $1 0 - 5 0 ~ \mathrm { c m }$ soil layer were monitored and studied using gas chromatography in planted coton and bare soil.The results showed that the amount of irigation had a significant effect on the soil profile $\mathrm { C O } _ { 2 }$ concentration.Under the condition of cotton planting or bare soil,with an increase in the amount of irrigation,the soil $\mathrm { C O } _ { 2 }$ concentration increased at diferent depths,and the soil profile $\mathrm { C O } _ { 2 }$ （20 concentration was characterized by an upper,lower,and higher distribution. The $\mathrm { C O } _ { 2 }$ concentration at a depth of 50 cm was about twice that at a depth of $1 0 \ \mathrm { c m }$ in the surface layer,and the concentration of $\mathrm { C O } _ { 2 }$ in the cotton-planted soil was about twice the concentration of $\mathrm { C O } _ { 2 }$ in bare soil. The change in $\mathrm { C O } _ { 2 }$ concentration in the soil profile showed evident diurnal and seasonal variation.In one day,the soil temperature and soil profile $\mathrm { C O } _ { 2 }$ concentration increased with the increase in temperature,showing a“single peak”curve,with the peak appearing at 16:Oo.The soil profile $\mathrm { C O } _ { 2 }$ concentration during the cotton growth period reached a maximum during the flowering period.Irrigation quantity and soil temperature were positively correlated with the soil profile $\mathrm { C O } _ { 2 }$ concentration ( $P < 0 . 0 1$ ). Thisresult provides a theoretical reference for water saving and emision reduction in coton planting in arid areas.
+
+Key words:drip irrigation water volume；soil temperature；drip irrigation under film; $\mathrm { C O } _ { 2 }$ concentration in soil profile； Xinjiang

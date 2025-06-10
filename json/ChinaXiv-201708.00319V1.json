@@ -1,0 +1,346 @@
+[
+    {
+        "type": "text",
+        "text": "Axigluon as Possible Explanation for $p \\bar { p }  t \\bar { t }$ Forward-Backward Asymmetry ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Paul H. Frampton $^ { \\mathbf { a } , \\mathbf { b } }$ ,\\* Jing Shu $\\mathbf { b }$ ,t and Kai Wang bt $\\mathbf { a }$ Department of Physics and Astronomy, University of North Carolina， Chapel Hill， NC 27599-3255，USA. （204号 $\\mathbf { b }$ Institute for the Physics and Mathematics of the Universe, University of Tokyo，Kashiwa， Chiba 277-8568， JAPAN ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A flavor-nonuniversal chiral color model is introduced. It is used for comparison to the recent data on $\\bar { p } p \\to t t$ . We concluded that the data are consistent with interpretation as an axigluon exchange within $1 \\sigma$ and a unique rise and fall behavior is predicated with regard to the asymmetry $A _ { F B } ^ { t }$ as a function of $t t$ invariant mass, which can distinguish our model from others before one discovers the axigluon resonance. Further aspects of the model are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since it underlies nuclear physics and hadronic physics, it is important to understand whether the standard version of the theory of strong interactions, quantum chromodynamics (QCD), is an adequate description at much higher energies. For example, although electroweak interactions exhibit parity violation, QCD theory as presently formulated respects parity conservation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One generalization of QCD proposed some time ago is chiral color [1, 2] in which the color gauge group arises from the spontaneous breaking of a larger group at higher energy. This gives rise to a massive color octet of gauge bosons, axigluons, which acquire mass through the Higgs mechanism. The earliest chiral color models treated the different quark favors universally.A flavor-nonuniversal version which， however， involved extension of the electroweak gauge group was discussed in [3]. In the present article we introduce a new flavor-nonuniversal chiral color model in which the electroweak symmetry is unchanged from the standard model, thus is more conservative,and seek within it a unique experimental signature below the energy of the axigluon resonance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One possible relevant experiment concerns the study of heavy quark asymmetries. Both CDF and DO at Tevatron have observed large forward-backward asymmetry values in top anti-top pair events ( $\\boldsymbol { \\mathrm { \\cdot } } \\boldsymbol { A } _ { F B } ^ { t }$ ）[4-6].The latest measurement of $A _ { F B } ^ { t }$ is from the CDF experiment where they obtained: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { F B } ^ { t } = 0 . 1 9 3 \\pm 0 . 0 6 5 _ { \\mathrm { s t a t . } } \\pm 0 . 0 2 4 _ { \\mathrm { s y s t . } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in the lab frame with 3.2 fb $^ { - 1 }$ integrated luminosity data [4]. Within the standard model (SM), the next-to-leading-order (NLO) QCD interference effects predict $A _ { F B } ^ { t } ( S M ) = 0 . 0 5 1$ （204号 [8-10] and it is stable with respect to the QCD threshold resummation [11] 1. This is not enough to account for the measured large asymmetry and suggests there might be new physics in the top quark sector. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There have been several new physics proposals trying to explain this large positive asymmetry. However,any model trying to explain the large asymmetry encounters a challenge as it must also avoid predicting large deviation in total cross section $\\sigma _ { t \\bar { t } }$ and $t t$ invariant mass $M _ { t \\bar { t } }$ since they are in good agreement with the SM predictions ². One category of model suggests new physics in the $t$ -channel with large flavor violating ut or $d t$ couplings. Phenomenologically viable examples include $t$ -channel $Z ^ { \\prime } / W ^ { \\prime }$ exchange with large flavor violating couplings [13,14], $t$ -channel favor and fermion number violating scalar as $S U ( 3 ) _ { C }$ triplet or sextet[? ]. Nevertheless,it is difficult to imagine how such ad hoc couplings can be naturally generated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Another category of model involves vector bosons in the $s$ -channel with chiral coupling to the light quarks and the top quark. A color octet particle is preferred in order to use its large QCD interference effect. $\\sigma _ { t \\bar { t } }$ and $M _ { t \\bar { t } }$ also constrain the mass of the resonance. The top forward-backward asymmetry requires that parity transformation is violated if we apply it to the final top quark pair. Similarly, parity transformation applying to the initial light quark pair must also be violated which can be easily seen with an additional 18O degree rotation along the scattering plane. Since the QCD interactions already provide the vector coupligs for the interference, a spin one,color octet with nonzero axial couplings is the basic requirement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Such a new particle can be realized within a wide class of theories, invoked for phenomenological reasons [2] inspired by the weak interactions, used to explain the electroweak symmetry breaking [16],or motivated by study of extra dimensions [17,18]. It has previously been observed by Ref. [19] that only the $g _ { A } ^ { q } g _ { A } ^ { t } < 0$ case gives rise to a positive asymmetry from interference and we pursue that here. In this paper,we consider a simple extension of the chiral model involving a fourth family and based on only two extra parameters to explain the observations. It leads to a striking prediction for a rise and fall behavior of $A _ { F B } ^ { t }$ （204号 as a function of $M _ { t \\bar { t } }$ as one approaches the axigluon resonance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. CHIRAL COLOR WITHA FOURTHFAMILY ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We consider a chiral color model based on gauge group $S U ( 3 ) _ { A } \\times S U ( 3 ) _ { B } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ with gauge couplings $g _ { A }$ ， $g _ { B }$ ， $g _ { L }$ and $g _ { Y }$ respectively. In this model， quarks of opposite chiralities are charged under different $S U ( 3 )$ gauge groups. Similarly, quarks with the same chiralities but between the first two generations and the third and fourth generations (for reviews, see e.g.[21]) ’ are charged under different $S U ( 3 )$ gauge groups. There is a bi-triplet scalar field $\\Sigma$ which gets a vev at the TeV scale $\\langle \\Sigma _ { i \\bar { k } } \\rangle = u \\delta _ { i \\bar { k } }$ and breaks the $S U ( 3 ) _ { A }$ and （204号 $S U ( 3 ) _ { B }$ to the diagonal subgroup, the QCD color group $S U ( 3 ) _ { c }$ .The SM Higgs scalars are now split into two parts, the quarkonic Higgs $H _ { q }$ which is a triplet under color groups （20 $S U ( 3 ) _ { A }$ and $S U ( 3 ) _ { B }$ and the leptonic Higgs $H _ { l }$ which is a singlet under color groups. The full feld contents are summarized in Table I. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef18a401c67173648c2bc5886e62adfceca773aed46c244b4dd7fe942c75cfe2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Field</td><td>Qi u</td><td>d</td><td>Qj</td><td></td><td>d</td><td>Ha</td><td></td><td>L eH</td></tr><tr><td>SU(3)A</td><td>3 1</td><td>1</td><td>1</td><td>3</td><td>3</td><td>33</td><td>111</td><td></td></tr><tr><td>SU(3)B</td><td>1</td><td>33</td><td>3</td><td>1</td><td>1</td><td>33</td><td></td><td>111</td></tr><tr><td>SU(2)L</td><td>2 1</td><td>1</td><td>2</td><td>1</td><td>1</td><td>12</td><td></td><td>212</td></tr><tr><td>U(1)Y</td><td>1/3 -4/3 2/3</td><td></td><td>1/3</td><td>-4/3 2/301</td><td></td><td></td><td>-1</td><td>21</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Charge assignment of all the quark, lepton felds and the Higgs fields under $S U ( 3 ) _ { A } \\times$ $S U ( 3 ) _ { B } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ .The flavor indices are as $i = 1 , 2$ ， $j = 3 , 4$ and $k = 1 , 2 , 3 , 4$ .The hypercharge is defined as the convention of electric charge $q = I _ { L } ^ { 3 } + Y / 2$ where $I _ { L } ^ { 3 }$ is the third component of $S U ( 2 ) _ { L }$ isospin. All the $S U ( 2 ) _ { L }$ singlet fields are defined in their conjugate forms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The kinetic term for the link feld becomes the mass term for the massive gauge boson $\\mathrm { T r } [ ( \\mathrm { D } _ { \\mu } \\Sigma ) ^ { \\dagger } ( \\mathrm { D } _ { \\mu } \\Sigma ) ] \\supset { \\mathrm { u } } ^ { 2 } ( \\mathrm { g } _ { \\mathrm { A } } \\mathrm { A } _ { \\mu } - \\mathrm { g } _ { \\mathrm { B } } \\mathrm { B } _ { \\mu } ) ^ { 2 } / 2 = { \\mathrm { u } } ^ { 2 } { \\mathrm { g } } ^ { 2 } ( \\mathrm { G } _ { \\mu } ^ { 1 } ) ^ { 2 } / 2$ ，where $g \\equiv \\sqrt { g _ { A } ^ { 2 } + g _ { B } ^ { 2 } }$ . The rotation matrix between gauge bosons in mass eigenstates and gauge eigenstates is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\ L { G } _ { \\mu } ^ { 1 } } \\atop { G _ { \\mu } ^ { 0 } } \\right) \\ : = \\ : \\left( { s _ { g } } \\begin{array} { c } { { { - c _ { g } } } } \\\\ { { { } } } \\\\ { { { c _ { g } } } } \\end{array} \\right) \\ : \\left( { A _ { \\mu } \\atop { B _ { \\mu } } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where we define $s _ { g } \\equiv \\sin \\theta \\equiv g _ { A } / g$ and $c _ { g } \\equiv \\cos \\theta = g _ { B } / g$ s0 $\\theta = \\arctan ( g _ { A } / g _ { B } )$ .The massless field $G _ { \\mu } ^ { 0 }$ is the usual QCD gluon while we call the massive octet vector boson $G _ { \\mu } ^ { 1 }$ \"axigluon\". ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The QCD couplings are flavor universal as $g _ { s } = g s _ { g } c _ { g }$ . There is a redundant symmetry of the model $g _ { A }  g _ { B }$ ， so only half of the parameter space in $\\theta$ is physical ( $\\theta  9 0 ^ { \\circ } - \\theta$ ） Requiring that our model is perturbative $g _ { A } , g _ { B } < 2 \\pi$ we impose a further constraint $1 0 ^ { \\circ } <$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\theta < 4 5 ^ { \\circ }$ . For the fermions charged under gauge group $S U ( 3 ) _ { A }$ and $S U ( 3 ) _ { B }$ , their couplings to the massive axigluon $G _ { \\mu } ^ { 1 }$ are $g s _ { g } ^ { 2 }$ and $- g c _ { g } ^ { 2 }$ respectively. Therefore, the vector and axi-vector coupling strengths are ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { V } ^ { q } = g _ { V } ^ { t } = - \\frac { g c _ { 2 g } } { 2 } , \\quad - g _ { A } ^ { q } = g _ { A } ^ { t } = \\frac { g } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { 2 g } \\equiv \\cos ( 2 \\theta )$ . We can see that the axial-vector couplings are always nonzero and the above coupling strengths satisfy the following relations ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { A } ^ { q } g _ { A } ^ { t } < 0 , g _ { V } ^ { q } g _ { V } ^ { t } > 0 \\mathrm { ~ w i t h ~ } g _ { V } < g _ { A } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which are crucial for the phenomenology predictions below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. FORWARD-BACKWARD ASYMMETRY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $V - A$ structure in axigluon interaction will induce parity violation in $q \\bar { q }  t t$ and consequently a non-vanishing forward-backward asymmetry occurs in such process at the $p p$ collider. To see this feature analytically, in Eq. (5)，we give the matrix element square for $q \\bar { q }  t t$ of the two leading production channels as the $s$ -channel gluon and axigluon. （204 $\\gamma / Z$ contribution do not interfere with the gluon diagram and are very small thus can be neglected. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle \\sum \\vert { \\mathcal { M } } \\vert ^ { 2 } = g _ { s } ^ { 4 } ( 1 + c ^ { 2 } + 4 m ^ { 2 } ) } } } \\\\ { { { \\displaystyle + \\frac { 2 g _ { s } ^ { 2 } \\hat { \\delta } ( \\hat { s } - M _ { G } ^ { 2 } ) } { ( \\hat { s } - M _ { G } ^ { 2 } ) ^ { 2 } + M _ { G } ^ { 2 } \\Gamma _ { G } ^ { 2 } } \\left[ g _ { V } ^ { q } g _ { V } ^ { t } ( 1 + c ^ { 2 } + 4 m ^ { 2 } ) \\right. } } } \\\\ { { { \\displaystyle \\left. + 2 g _ { A } ^ { q } g _ { A } ^ { t } c \\right] + \\frac { \\hat { \\delta } ^ { 2 } } { ( \\hat { s } - M _ { G } ^ { 2 } ) ^ { 2 } + M _ { G } ^ { 2 } \\Gamma _ { G } ^ { 2 } } \\left[ \\left( ( g _ { V } ^ { q } ) ^ { 2 } + ( g _ { A } ^ { q } ) ^ { 2 } \\right) \\right. } } } \\\\ { { { \\displaystyle \\times \\left( ( g _ { V } ^ { t } ) ^ { 2 } ( 1 + c ^ { 2 } + 4 m ^ { 2 } ) + ( g _ { A } ^ { t } ) ^ { 2 } ( 1 + c ^ { 2 } - 4 m ^ { 2 } ) \\right) } } } \\\\ { { { \\displaystyle \\left. + 8 g _ { V } ^ { q } g _ { A } ^ { q } g _ { V } ^ { t } g _ { A } ^ { t } c \\right] \\ : , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m = m _ { t } / \\sqrt { \\hat { s } }$ ， $\\beta = \\sqrt { 1 - 4 m ^ { 2 } }$ is the velocity of the top quark and $c = \\beta \\cos \\theta$ where （202 $\\theta$ is the polar angle of the top quark with respect to the incoming up quark in the parton center-of-mass frame. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The asymmetry $A _ { F B } ^ { t }$ can be defined using the total number of top quark in positive and negative semi-sphere as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { F B } ^ { t } = \\frac { N _ { t } ( \\eta \\ge 0 ) - N _ { t } ( \\eta \\le 0 ) } { N _ { t } ( \\eta \\ge 0 ) + N _ { t } ( \\eta \\le 0 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where is $\\eta$ is the rapidity of the top quark. Under CP transformation, there also exists a equivalent definition by changing $N _ { t } ( \\eta ~ \\leq ~ 0 )$ to $N _ { \\bar { t } } ( \\eta ~ \\ge ~ 0 )$ .We can qualitatively see the asymmetry behavior from the linear term $( 1 \\pm \\cos \\theta$ ）in the matrix element squared where $( 1 + \\cos \\theta )$ corresponds to the maximal positive asymmetry. Equation (5） shows the correlation between $\\cos \\theta$ and the relative signs of the couplings. The contribution to $A _ { F B } ^ { t }$ （20 due to the interference term depends on the sign of $g _ { A } ^ { q } g _ { A } ^ { q }$ . The new physics contribution depends on the sign of $g _ { V } ^ { q } g _ { V } ^ { t } g _ { A } ^ { q } g _ { A } ^ { t }$ . The key prediction of our model is that $g _ { V } ^ { q } = g _ { V } ^ { t }$ while （204号 $g _ { A } ^ { q } = - g _ { A } ^ { t }$ ．Therefore，both $g _ { A } ^ { q } g _ { A } ^ { q }$ and $g _ { V } ^ { q } g _ { V } ^ { t } g _ { A } ^ { q } g _ { A } ^ { t }$ are negative and the interference term induces a positive asymmetry while the new physics term induces a negative asymmetry below the resonance. Since most the events are far below resonance, the interference term completely overwhelms the new physics term when counting the overall $A _ { F B } ^ { t }$ . Nevertheless, at higher $M _ { t \\bar { t } }$ invariant mass,we may expect a competition between the interference term and the new physics term to provide an interesting signature to distinguish our model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV. NUMERICALRESULTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SM prediction of $\\sigma _ { t \\bar { t } }$ is in good agreement with measurements from CDF 4.6 fb $^ { - 1 }$ （204号 luminosity data [22] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { C D F } ( t \\bar { t } ) = 7 . 5 0 \\pm 0 . 3 1 _ { \\mathrm { s t a t } } \\pm 0 . 3 4 _ { \\mathrm { s y s t } } \\pm 0 . 1 5 _ { \\mathrm { Z \\ t h e o r y \\ p b } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the top quark mass is assumed to be 172.5 GeV. This CDF result is consistent with measurements from Do [7] that use smaller data sets. We combine different errors in quadrature and obtain $\\sigma ^ { e x p } = 7 . 5 0 \\pm 0 . 4 8$ pb. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $t t$ invariant mass distribution was also measured recently by CDF [23], the data from the last bin which are expected to give the most stringent constrain on our model are ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { d \\sigma } { d M _ { t \\bar { t } } } ( 0 . 8 - 1 . 4 ~ \\mathrm { T e V } ) = } \\\\ & { 0 . 0 6 8 \\pm 0 . 0 3 2 _ { \\mathrm { s t a t . } } \\pm 0 . 0 1 5 _ { \\mathrm { s y s t . } } \\pm 0 . 0 0 4 _ { \\mathrm { l u m i . } } ~ \\mathrm { f b / G e V } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We combine different errors in quadrature as $d \\sigma / d M _ { t \\bar { t } } ( 0 . 8 - 1 . 4 ~ \\mathrm { T e V } ) ~ = ~ 0 . 0 6 8 \\pm 0 . 0 3 6$ (fb/GeV). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our simulation is only a leading order calculation. To fit the total cross section，we have multiplied by a NLO $K$ -factor as $K = 1 . 3 2 9$ for $m _ { t } = 1 7 2 . 5$ GeV. To be consistent with measurements, the $A _ { F B } ^ { t }$ and $M _ { t \\bar { t } }$ results are based on simulation using $m _ { t } = 1 7 5$ GeV. However since QCD corrections often soften the $M _ { t \\bar { t } }$ at high value, we did not multiply any $K$ factor for our simulated result of the last bin value in $M _ { t \\bar { t } }$ . Taking into account all the above constraints, we scan the allowed parameter space in terms of the axigluon mass $M _ { G }$ （204号 and the mixing angle $\\theta$ between gauge groups $S U ( 3 ) _ { A }$ and $S U ( 3 ) _ { B }$ in Fig.1. The $1 ~ \\sigma$ ， 1.28 $\\sigma$ (80% C.L.） and 1.64 $\\sigma$ (90% C.L.） regions are labelled accordingly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5343502ed7ac10aa1a73d28601569afa4dd5ef77267ea127e1479879079aa6f.jpg",
+        "img_caption": [
+            "FIG.1: Contour plot for 1 $\\sigma$ ，1.28 $\\sigma$ and 1.64 $\\sigma$ allowed parameter space in the $\\theta \\circ A _ { G } ^ { }$ plane."
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To test the competition effects, we propose to use the $A _ { F B } ^ { t }$ dependence on $\\sqrt { \\hat { s } } ~ ( = M _ { t \\bar { t } } )$ To illustrate this feature of our model, we choose a benchmark point within the $1 ~ \\sigma$ region as $M _ { G } = 1 5 2 5$ GeV and $\\theta = 2 7 ^ { \\circ }$ . We plot (solid line） the $A _ { F B } ^ { t }$ vs. $M _ { t \\bar { t } }$ with $M _ { t \\bar { t } }$ integrated every each 150 GeV of $M _ { t \\bar { t } }$ in Fig. 2. One can see the competition in $A _ { F B } ^ { t }$ between two terms at different $M _ { t \\bar { t } }$ in Fig.2 and when $M _ { t \\bar { t } }$ is close to on-shell $G ^ { 1 }$ region, the new physics contribution begins to dominate over the interference term which bend over the curve and generate a negative asymmetry. For comparison，we plot (in dashed line） a case where （204号 $g _ { V } ^ { q } = - g _ { V } ^ { t }$ so the new physics term also generates positive asymmetry. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In other theoretical proposals and the QCD corrections [11], the $A _ { F B } ^ { t }$ induced by other types of $s$ -channel new physics without the above competition or $t$ -channel new physics [13] grows with $M _ { t \\bar { t } }$ which is very different from our prediction. When the $A _ { F B } ^ { t }$ vS $M _ { t \\bar { t } }$ （204号 distribution is available in the near future,it is then easy to confrm or rule out our model. This becomes crucial since the resonance is too heavy and cannot be directly produced at the Tevatron. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ff34728095a435dacab1bf83eaafe53645b91eef01ce566025a7a62ce48a0d3.jpg",
+        "img_caption": [
+            "FIG. 2: $A _ { F B } ^ { t }$ vs. $M _ { t \\bar { t } }$ with $M _ { t \\bar { t } }$ integrated over each 150 GeV of $M _ { t \\bar { t } }$ using the benchmark point, （20 $M _ { G } = 1 5 2 5$ GeV, $g _ { V } ^ { q } = - 0 . 5 7 7 g _ { s }$ and $g _ { A } ^ { q } = - g _ { A } ^ { t } = - 1 . 1 5 5 g _ { s }$ . The solid line corresponds to our model with $g _ { V } ^ { q } = g _ { V } ^ { t }$ and dashed line is a comparison plot with $g _ { V } ^ { q } = - g _ { V } ^ { t }$ , as explained in the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "V. DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The above minimal setup can be extended to an extra dimension scenario on an interval bounded by left and right branes. We allow all fermions to propagate in the bulk and interactions to be determined through the five dimensional wavefunction overlap. In the spirit of deconstruction [25],one can imagine that the left-handed light quarks and the right handed top quarks are localized on the left brane while the right-handed light quarks and the left handed top quarks are localized on right one. The fourth generation is not needed in this case because the gauge anomaly will be cancelld among each generation [26] 4. The axigluon is the lst KK gluon ( $g ^ { 1 }$ ） whose wave function contains a node, and changes sign from one side of the extra dimension to the other. As a result the $g ^ { 1 }$ coupling for the left localized fermions has a minus sign relative to the one for the right localized fermions. Such a localization pattern guarantees Eqs. (4) which provide the essential requirements to fit the data and make the striking prediction. We expect that such a simple localization pattern can be embedded in different extra dimensional models [27, 28]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we present a favor-nonuniversal chiral color model to explain the Tevatron anomaly on top quark forward-backward asymmetry. The model predicts a heavy axigluon that couples to first two generation and third generation quarks with opposite axial couplings but same vector couplings with relative small sizes. The data are consistent with our model within $1 \\sigma$ for some parameters, and a large region of parameter space is found at 90% C. L. One can use $A _ { F B } ^ { t }$ vs $M _ { t \\bar { t } }$ distribution to further distinguish this model from other types of models that can explain $A _ { F B } ^ { t }$ anomaly before one discovers the axigluon resonance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "If the striking rise and fall behavior of $A _ { F B } ^ { t }$ vS $M _ { t \\bar { t } }$ were discovered,the implication is not only that strong interactions will violate parity at much higher energies as originally motivated Ref. [2], but Eqs. (4) suggest a possible specific pattern of parity violation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VI. NOTESADDED ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After submission of our paper,we notice that the CDF collaboration measures the correlation between $A _ { F B } ^ { t }$ and $M _ { t \\bar { t } }$ by selecting events below or above $M _ { t \\bar { t } }$ edge point. To make a direct comparison with the CDF public result [24]，we also plot $A _ { F B } ^ { t }$ vs $M _ { t \\bar { t } }$ edge distributions in Fig.3. This plot can be easily compared to the corresponding figure in [24]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VII. ACKNOWLEDGEMENT ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the World Premier International Research Center Initiative (WPI initiative) MEXT, Japan. The work of P.H.F. was also supported by U.S. Department of Energy Grant No. DE-FG02-05ER41418. The work of J.S. was also supported by the ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6ec032f442f1df8f8d851a6095fd04029783f3ee4c56fb33e2bd31a317eea75.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3: $A _ { F B } ^ { t }$ vs. above/below $M _ { t \\bar { t } }$ edge using the benchmark point, $M _ { G } = 1 5 2 5$ GeV, $g _ { A } ^ { q } = - g _ { A } ^ { t } =$ $- 1 . 1 5 5 g _ { s }$ and $g _ { V } ^ { q } = g _ { V } ^ { t } = - 0 . 5 7 7 g _ { s }$ （204号 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Grant-in-Aid for scientific research (Young Scientists (B) 21740169) from JSPS. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] J.C.Pati and A. Salam, Phys. Lett. B58,333 (1975); L. J. Halland A. E. Nelson, Phys. Lett. B 153, 430 (1985).   \n[2] P.H. Frampton and S.L. Glashow, Phys. Lett.B190,157 (1987); Phys. Rev. Lett. 58, 2168 (1987).   \n[3] P.H. Frampton. arXiv: 0909.0307 [hep-ph]； Phys. Rev. Lett. 69,2889 (1992)； P.H. Frampton and B.H.Lee, Phys. Rev. Lett64, 619 (1990); P. H. Frampton and T. W. Kephart, Phys.Rev. D 42, 3892 (1990); P. H. Frampton, P.I. Krastev and J. T. Liu, Mod. Phys. Lett. A 9, 761 (1994).   \n[4] CDF Collaboration, Conf. Note 9724 (March 2009). http://www-cdf.fnal.gov/physics/new/top/2009/tprop/Afb/   \n[5] T.Aaltonen et al.[CDF Collaboration], Phys. Rev. Lett.101,202001 (2008).   \n[6] V.M. Abazov et al. [D0 Collaboration], Phys. Rev.Lett.100 (2008) 142002.   \n[7] V. M. Abazov et al. [D0 Collboration], arXiv:0903.5525 [hep-ex].   \n[8] O.Antunano, J. H. Kühn and G. Rodrigo, Phys.Rev. D 77, O14003 (2008).   \n[9] M. T. Bowen, S. D. Ellis and D. Rainwater, Phys.Rev.D 73, 014008 (2006).   \n[10] J. H. Kühn and G. Rodrigo,Phys. Rev. D 59, 054017 (1999); Phys. Rev. Lett81, 49 (1998).   \n[11] L. G. Almeida, G. Sterman and W. Vogelsang, Phys. Rev. D 78, 014008 (2008).   \n[12] S. Dittmaier, P. Uwer and S.Weinzierl, Phys. Rev. Lett. 98, 262002 (2007).   \n[13] S. Jung,H. Murayama,A. Pierce and J. D. Wells,arXiv:0907.4112 [hep-ph].   \n[14] K. Cheung,W. Y. Keung and T. C. Yuan,arXiv:0908.2589 [hep-ph].   \n[15] J. Shu, T. M. P. Tait and K. Wang, arXiv:09113237 [hep-ph].   \n[16] C. T. Hill, Phys. Lett. B 266, 419 (1991).   \n[17] B.Lillie,L. Randall and L.T. Wang, JHEP 0709,074 (2007)；B. Lillie，J. Shu and T. M. P. Tait, Phys. Rev.D 76,115016 (2007).   \n[18] K. Agashe,A. Belyaev, T. Krupovnickas, G. Perez and J. Virzi, Phys. Rev. D 77,015003 (2008).   \n[19] P. Ferrario and G. Rodrigo, Phys. Rev. D 80, 051701 (2009).   \n[20] M. V. Martynov and A. D. Smirnov,Mod. Phys. Lett.A 24,1897 (2009).   \n[21] P.H. Frampton, P.Q. Hung and M. Sher, Physics Reports,330,263 (2000); B. Holdom, W.S Hou,T. Hurth, M.L. Mangano, S. Sultansoy and G. Unel, arXiv:0904.4698 [hep-ph].   \n[22] http://www-cdf.fnal.gov/physics/new/top/2009/xsection/ ttbar_combined_46invfb/   \n[23] T.Aaltonen et al. [CDF Collaboration],arXiv:0903.2850 [hep-ex].   \n[24] M. Tecchio, D. Amidei, G. Strycker,T. Schwarz and R. Erbacher, CDF note 9724 public page http://www-cdf.fnal.gov/physics/new/top/2009/tprop/AfbMtt/   \n[25] N. Arkani-Hamed,A. G. Cohen and H. Georgi, Phys. Rev. Lett. 86, 4757 (2001); C. T. Hill, S. Pokorski and J. Wang, Phys.Rev. D 64, 105005 (2001).   \n[26] N. Arkani-Hamed,A.G. Cohen and H. Georgi, Phys. Lett.B 516,395 (2001).   \n[27] K.Agashe， A. Delgado， M. J. May and R. Sundrum， JHEP O308，O50 (2003) [arXiv:hep-ph/0308036].   \n[28] S. C. Park and J. Shu, Phys. Rev. D 79, 091702(R) (2009). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

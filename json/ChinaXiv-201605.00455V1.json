@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "Bean pod mottle virus: a new powerful tool for functional genomics studies in Pisum sativum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chouaib Meziadi1,Sophie Blanchet1,Manon M.S.Richard1,Marie-Laure Pilet-Nayel2,Valérie Geffroy1\\*and Stéphanie Pflieger ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "stt   \nOrsay,France   \n2INRA,UMR 1349 IGEPP,Le Rheu,France Received 26 August2015;   \nrevised 13 November2015;   \naccepted 6 January 2016.   \n\\*Correspondence (Tel 33-1-69-15-33-65;   \nfax 33-1-69-15-33-24;email valerie.   \ngeffroy@u-psud.fr) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pea (Pisum sativum L.)isan important legume worldwide.The importance of pea inarable rotations and nutritional value for both human and animal consumption have fostered sustained production and diferent studies to improve agronomic traits of interest.Moreover,complete sequencing of the pea genome is currently underway and willead to the identification of a large number of genes potentially associated with important agronomic traits.Because stable genetic transformation is laborious for pea,virus-induced gene silencing (VIGS)appears as a powerful alternative technology for determining the function of unknown genes.In this work,we present a rapid and efficient viral inoculation method using DNA infectious plasmids of Bean pod mottle virus (BPMV)-derived VIGS vector.Six pea genotypes with important genes controlling biotic and/ or abiotic stresses were found susceptible to BPMV carrying a GFP reporter gene and showed fluorescence in both shoots and roots.In a second step,we investigated 37 additional pea genotypes and found that 30 were susceptible to BPMV and only7 were resistant.The capacity of BPMV to induce silencing of endogenes was investigated in the most susceptible genotype using two visual reporter genes: PsPDS and PsKORRIGAN1 $( P S K O R 1 )$ encoding PHYTOENE DESATURASE and a 1,4- $\\beta$ -D-glucanase,respectively. The features of the ‘one-step'BPMVderived VIGS vector include (i) the ease of rub-inoculation,without any need for biolistic or agroinoculation procedures,(ii) simple cost-effective procedure and (ii) noninterference of viral symptoms with silencing.These features make BPMV the most adapted VIGS vector in pea to make low- to high-throughput ViGS studies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Pisum sativum,functional validation,RNAi,post-transcriptional gene silencing, legume, Bean pod mottlevirus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pea (Pisum sativum L.) belongs to the Fabaceae plant family.Pea isa cool-season legume crop，which produces seeds of high nutritional value for feed and food that are an excellent protein complement of cereal-based diets.In Europe and especially in France,pea is currently the major grain legume crop and is mainly cultivated for the production of forage for animal consumption. But since the end of the nineties, the development of this crop has gradually decreased due to yield inconsistency. Consequently, European countries import about $70 \\%$ of their plant protein consumption.Thus，significant productivity progress has to be madeand stable and high-yielding varieties are needed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Different biotic and abiotic stresses are responsible for yield instability.First，root rot disease caused by the oomycete Aphanomyces euteiches,considerably reduces the yields of spring pea (Kraft and Pfleger,2oo1).Genetic resistance to A.euteiches root rotwas shown to be partial and controlled by multiple genes (Hamon et al.，2010，2013；Pilet-Nayel et al.，2002，2005).In winter peas,early sowings can increase yields and limit the effect of late-stage stresses,but cultivars need to have a high level of frost tolerance,a complex genetic trait (Lejeune-Henaut et al., 2008).Moreover,Ascochyta blight caused by a complex of three fungal pathogens affects aerial plant parts and can have devastating effects on yield of winter peas (Kraft and Pfleger, 2001).Both major genes and quantitative trait loci，confering resistance to Ascochyta blight，have been identified (Clulow et al.，1991；Darby etal.，1985；Fondevilla et al.，2011；Prioul et al.，2004;Tar'an et al.，2003;Timmerman-Vaughan et al., 2002，2oo4)．Many genes controlling frost tolerance and resistance to A.euteiches root rot and Ascochyta blight have been mapped on the consensus genetic map of pea (Hamon et al., 2010,2013;Lejeune-Henaut etal.,20o8;Pilet-Nayel etal.,2002, 2005； Prioul et al.，2Oo4)．To identify the underlying gene sequences,fine mapping of the corresponding regions is needed for the identification of candidate genes that must be further validated using functional genetics tools. Ultimately, the discovery of gene functions will facilitate the genetic improvement of commercial pea varieties by molecular breeding. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,with the future availability of the whole-genome sequence of pea (Alves-Carvalho et al.,2015;McGee,2013),it is essential for the pea research community to develop novel molecular tools for large-scale analysis of gene functions at the genome-wide level.Although pea is amenable to stable genetic transformation (Somers et al.，2003;Svabova et al.，2005),this remains a challenge and thus hampers the applicationof conventional reverse genetics approaches such as T-DNA insertion mutagenesis (AzpirozLeehan and Feldmann,1997) and RNA interference (McGinnis et al.，2oo5). In pea，fast neutron and TILLING mutant populations have been developed (Dalmais et al., 2008；Hofer et al.，2oo9)but to perform large-scale，highthroughput genomic studies in pea,a cheap and rapid system that bypasses genetic transformation is required. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Virus-induced gene silencing (ViGS) is an attractive reverse genetics tool for functional genomics in plants.ViGS exploits a plant innate antiviral defence that is based on post-transcriptional gene silencing (PTGS) (Kumagai et al.，1995).  In this defence mechanism， the presence of viral-derived doublestranded RNA (dsRNA) molecules triggers Dicer-like(DCL) proteins that identify and cleave dsRNA， generating 21-23 nucleotide viral-derived short-interfering RNAs (siRNAs).These siRNAs in association with the RNA-induced silencing complex (RISC),target homologous viral RNA for degradation. In VIGS,a recombinant virus carrying a fragment of a specific host gene is first constructed and inoculated in susceptible host plants.PTGS is triggered causing the sequence-specific degradation of mRNA of the target gene resulting in a knockdown phenotype that can beused to assess gene function (Burch-Smith et al.，2004; Robertson,2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date,several VIGS vectors have been designed to address reverse genetics needs in various plants (Lange et al.，2o13). In legumes,ViGS vectors were developed from several plant viruses, suchas the Apple latent spherical virus (ALSV,genus Cheravirus), the Pea early browning virus (PEBV，genus Tobravirus)and the Beanpodmottlevirus (BPMV,genus Comovirus,family Comoviridae) (reviewed in Pflieger et al.,2013). In pea,PEBVwas originally developed for VlGS studies (Constantin et al.,2oo4),but its use is restricted to low-throughput analyses because delivery of the viral vector into plants is not possible by mechanical inoculation and requires agro-inoculation which may become laborious and timeconsuming for high-throughput analyses (Pflieger et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In legumes,the most adapted ViGS vector for high-throughput genomics studies is the 'one-step'VIGS vector derived from BPMV (Zhang et al.,2010,2013). Indeed,delivery of the BPMV vector into the plant is possible by mechanical inoculation via direct DNA rubbing of infectious plasmid DNA，with no need for in vitro transcription,Agrobacterium transformation or coating to gold particles for biolistic delivery.This efficient，simple and costeffective plasmid-based VIGS vector successfully allowed the functional validation of many genes involved in disease resistance and plant defence in soybean (Cooper et al.，2o13;Liu et al., 2011，2012；Meyer etal.，2009；Pandey et al.，2011；Zhang et al.,2009,2012). Recently,we showed that direct DNA rubbing of BPMV-derived infectious plasmids gives high infection rates in Phaseolus vulgaris cv. Black Valentine and induces efficient VIGS in common bean (Pflieger et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test whether VIGS using the ‘one-step' BPMV vector was feasible in pea,we first tested the susceptibility to BPMV of six pea genotypes of interest.We also investigated the spatial and temporal infection patterns of BPMV in aerial vegetative and reproductive tissues of these six genotypes.With the goal of adapting the‘one-step'BPMV vector for high-throughput VIGS studies in pea,we next optimized the conditions for mechanical inoculation of the BPMV vector in pea plants.The efficiency of endogenous gene silencing using the BPMV VIGS vector was investigatedbytargetingthe PHYTOENEDESATURASE (PsPDS) and the KORRIGAN-1 (PvKOR1） VIGS reporter genes in aerial partsand roots of cv. Champagne,respectively. Finally,we tested the susceptibility to BPMV of 37 different pea genotypes reflecting the phylogenetic diversity among cultivated peas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Susceptibility to BPMV and spatio-temporal BPMV infection patterns of aerial tissues of six P.sativum cultivars ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One inherent property of ViGS is that gene silencing is effective only in genotypes in which the viral vector can multiply and spread systemically throughout the plant.To test the feasibility of BPMV VIGS in pea,we first tested the susceptibility of six pea cultivars (Champagne，FP,Pl 180693，AeD99OSW-50-2-5,Isard and 552).These six genotypes were selected because they are the parental lines of recombinant inbred line (RIL) populations used to map genes involved in resistance to A.euteiches (Hamon et al., 2010，2013；Pilet-Nayel et al.，2002，2005)，Ascochyta blight (Prioul et al.，2oo4)and genes involved in frost tolerance (Lejeune-Henaut et al.，2Oo8) (Table 1). The susceptibility to BPMV was tested using the BPMV vector expressing the green fluorescent protein GFP(BPMV-GFP) (Table 2)，whichwas considered asa marker of viral infection (Pflieger et al.，2014; Zhang et al.，2o1O).Pea plants were mechanically inoculated using leaf sap obtained from P.vulgaris-infected plants. Indeed, inaprevious study，we showed that P.vulgaris cv.Black Valentine is highly susceptible to BPMV and that direct rubinoculation of BPMVinfectious plasmids results ina high infection rate (Pflieger et al.，2014). The green fluorescence of GFP was monitored by visual inspection of inoculated pea plants under UV lightat different times postinoculation (pi). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/de1a3664573512262481f53b595232d73732c4a7835aaa3dff59094a0b068311.jpg",
+        "table_caption": [
+            "Table1 Biological characteristics of the six pea genotypes of interest "
+        ],
+        "table_footnote": [
+            "\\*Organ in which the agronomic trait is expressed. tafila: mutant phenotype in which leaflets of compound leaves are replaced by tendrils. "
+        ],
+        "table_body": "<html><body><table><tr><td>Genotype/ Accession</td><td>Agronomic traits</td><td>Organ*</td></tr><tr><td>Champagne</td><td>Resistance to Ascochyta blight and frost tolerance</td><td>Leaves</td></tr><tr><td>FP</td><td>Resistance to Ascochyta blight and frost tolerance</td><td></td></tr><tr><td>Isard+</td><td>Resistance to Ascochyta blight and frost tolerance</td><td></td></tr><tr><td>PI180693</td><td>Resistance to Aphanomyces euteiches</td><td>Roots</td></tr><tr><td>552</td><td>Resistance to Aphanomyces euteiches</td><td></td></tr><tr><td>AeD99OSW-50-2-5</td><td>Resistance to Aphanomyces euteiches</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/359192341de933bf44a1a1f3cae974b3aaeabad785e13a059262ccfce0127006.jpg",
+        "table_caption": [
+            "Table 2 Bean pod mottle virus (BPMV)-derived constructs used in this study "
+        ],
+        "table_footnote": [
+            "\\*DNA plasmids obtained from C. Zhang (lowa State University, USA) (Zhang et al.，2010).Abbreviations:BPMV:Bean pod motle virus，GFP:green fluorescent protein,PDS:phytoene desaturase,Ps:Pisum sativum. "
+        ],
+        "table_body": "<html><body><table><tr><td>RNA1-derived plasmid</td><td>RNA2-derived plasmid</td><td>Name of the viral vector</td></tr><tr><td>pBPMV-IA-R1M*</td><td>pBPMV-IA-V1*</td><td>BPMV-0</td></tr><tr><td>pBPMV-IA-R1M*</td><td>pBPMV-GFP2*</td><td>BPMV-GFP</td></tr><tr><td>pBPMV-IA-R1M*</td><td>pBPMV-IA-PsPDS-336bp</td><td>BPMV-PDS</td></tr><tr><td>pBPMV-IA-R1M*</td><td>pBPMV-IA-PsKOR-345bp</td><td>BPMV-KOR1a</td></tr><tr><td>pBPMV-IA-R1M*</td><td>pBPMV-IA-PsKOR-470bp</td><td>BPMV-KOR1b</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For all six pea genotypes,GFP fluorescence was detected after 7 to 14 days pi (dpi) in the inoculated leaves (data not shown) attesting that the BPMVvector has entered into leaf cellsand that viral proteins are effectively expressed，including GFP.Fluorescence pattern,in the form of round green spots,corresponded to the primary infection sites.At 4 weeks pi (wpi),GFP fluorescence extended to the upper uninoculated leaves and/or stems in the six genotypes,indicating that the virus is able to multiply in the inoculated leaf and to move systemically (Figures 1 and S1). Significantly,GFP fluorescence was detected asearlyas3 wpi in cv. Champagne compared to 4 wpi in all other genotypes.At 8 to 10wpi，GFP fluorescence was detected in the flowers and/or podsof five genotypes:Isard,552，Pl180693,AeD99OSW-50-2- 5,and FP (Figures 1 and S1).For cv. Champagne,the absence of flower production in our growth conditions explains the lack of data for this genotype.In cv. Isard,GFP fluorescence was visible in the seed coat，whereas no fluorescence was detected in the embryo (Figure 1a).Overall, for the five genotypes Isard,552,Pl 180693，AeD99OSW-50-2-5 and FP, ${ \\sim } 3 0 \\%$ of the plants inoculated with BPMV-GFP were systemically infected at 4 wpi.An infection rate of $100 \\%$ was obtained for cv. Champagne at 4 wpi，and the complete aerial parts were infected at 8 wpi (Figure 1c).Thus,according to our results,we considered that cv. Champagne was the most susceptible genotype to BPMV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Optimization of BPMVinfection efficiency in P.sativum ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asefficient VlGSis directly relatedto efficient viral infectionand regarding the low infection rate obtained for five genotypes (Isard，552，Pl 180693，AeD99OSW-50-2-5，and FP)，we next optimized the mechanical inoculation procedure.This work was done on two genotypes: Isard and 552.Isard was chosen because it hasan afila phenotype (leafletsare replaced by tendrils)and because this genotype possesses genes for resistance to Ascochyta blight and tolerance to frost. The genotype 552 has anormal phenotype and presents a high level of resistance to Aphanomyces euteiches.As during mechanical inoculation，the virus gets into plant cells by wounding,we tested two intensities of wounding of the upper leaf surface: scarification and abrasion. As obtained previously,green fluorescence was visible at ${ \\sim } 1 4$ dpi in the inoculated leaves of the two genotypes regardless of the inoculation method (data not shown).The scarification inoculation method gave the best inoculation rate for both genotypes lsard and 552 at4,5 and 6 wpi(Table 3)and was thus chosen to perform all further mechanical inoculations in pea. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/16b528eef7fed4bdf3982e59db9a31c7efdd67cbf9ebd2b60b34a3d4d6bbcc54.jpg",
+        "img_caption": [
+            "Figure1 Bean podmottle virus (BPMV)-induced expression of the green fluorescent protein (GFP) inaerial tissuesof Pisum sativum cv.Isard,552 and Champagne. (a) GFP fluorescence in aerial tissues of cv. Isard.Portion of stem,flower and pod infected with BPMV empty vector (BPMV-0) and GFP-expressing vector (BPMV-GFP) were photographed at 8 (stem)and 10 weeks postinoculation (wpi) (flower and pod) under natural light (top panel) and UV light (bottom panel). (b) GFP fluorescence in aerial tissues of cv. 552.Upper uninoculated leaf,flower and pod infected with BPMV-0 and BPMV-GFP were photographed at 4 wpi,8 wpi and 10 wpi, respectively,under natural light (top panel) and UV light (bottom panel). (c) GFP fluorescence in aerial tissues of cv.Champagne.Portionof stem and upper uninoculated leaf infected with BPMVO and BPMV-GFP were photographed at 3 wpi under natural light (top panel) and UV light (bottom panel).Whole plants were photographed at 8 wpi. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Virus-induced gene silencing of $P s P D S$ in P.sativum cv. Champagne ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the first part of this work,we demonstrated that the six pea genotypes of interest were susceptible to BPMV and that VIGS is thus theoretically feasible in these genotypes.  However， to evaluate the efficiency of BPMV VIGS,we focused on the most susceptible pea genotype: cv.Champagne.We constructed a BPMV-PDS VIGS vector containing a 336-bp insertion derived from the $3 ^ { \\prime }$ -end of the PsPDS ORF of cv.Champagne.PDS is routinely used as a reporter gene in VIGS assays in plantsas silencing of this gene causes chlorophyll degradation resulting in a typical photobleached phenotype in emerging leaves (Kumagai et al.，1995).To produce a BPMV-PDS inoculum suitable for cv. Champagne inoculation,we first inoculated a mix of infectious plasmids corresponding to the BPMV-PDS construct (Table 2)in P.vulgaris cv.Black Valentine.Three wpi, typical photobleaching was observed on young uninoculated leaves of ${ \\sim } 6 0 \\%$ of the inoculated cv.Black Valentine plants (Figure S2).This observation confirms that the BPMV-PDS vector is functional and reveals that heterologous VIGS is induced in $P .$ vulgaris. Indeed,a sequence alignment showed that the PDS fragment from pea shares $91 \\%$ nucleic acid identity with its homologue in common bean (data not shown). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "White photobleached leaves of $P .$ vulgaris were used as inoculum to produce leaf sap.Mechanical inoculation of pea cv. Champagne was performed using the scarification method described above.At 6 wpi，plants inoculated with BPMV-PDS displayed a clear photobleached phenotype with completely white newly emerging leaves,unlike plants infected with the empty BPMV-O vector or mock buffer (Figure 2a).To confirm that the photobleached phenotype described above correlated with reduced endogenous levels of PsPDS,semi-quantitative RT-PCR was carried out on uninoculated leaves from each of the three treatment groups (Figure 2b).To test whether the phenotype observed in treated plants could be due to the presence of the viral vectors, the presence of BPMV RNA1 and RNA2 transcripts Was also determined by RT-PCR (Figure 2b,2 middle gels).As expected,samples from the mock-treated plants did not show viral RNA1 and RNA2 unlike BPMV-O-and BPMV-PDS-inoculated plants (Figure 2b).BPMV-O-inoculated plants showed expression levels of PsPDS similar to that of mock-treated plants,suggesting \\*Observations at 4,5 and 6 weeks postinoculation (wpi) for two intensities of mechanical inoculation: scarification and abrasion.'-':No fluorescence observed on the aerial parts of the plant; $' + '$ $' + + '$ $' + + + '$ ： Fluorescence observed ona quarter,a half or three quarters of the aerial parts of the plant,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b42464cc60ea59ad5ae771c47ca779fa471747d20d13055972f190b86443664e.jpg",
+        "table_caption": [
+            "Table 3 Optimization of mechanical inoculation of BPMV VIGS vectors in pea "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Time of GFP</td></tr><tr><td>fluorescence observation *</td><td>4 wpi</td><td></td><td>5 wpi</td><td></td><td>6wpi</td><td></td></tr><tr><td>Inoculation</td><td>Scarification</td><td>Abrasion</td><td>Scarification</td><td>Abrasion</td><td>Scarification</td><td>Abrasion</td></tr><tr><td>Isard</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plant 1</td><td>+++</td><td></td><td>+++</td><td></td><td>+++</td><td>1</td></tr><tr><td>Plant 2</td><td>++</td><td>一</td><td>+++</td><td></td><td>+++</td><td>一</td></tr><tr><td>Plant 3</td><td>+</td><td></td><td>+++</td><td>一</td><td>+++</td><td>一</td></tr><tr><td>552</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plant 1</td><td>+++</td><td>++</td><td>+++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td>Plant 2</td><td>+++</td><td>1</td><td>+++</td><td>1</td><td>+++</td><td>1</td></tr><tr><td>Plant 3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f66f1573fa7d0ab7d182deb6b00f00902dea02c8390ad270f5fed092040dfd6.jpg",
+        "img_caption": [
+            "Figure2 Silencing of $P s P D S$ inP.sativum cv.Champagne using the VIGS vector BPMV-PDS (a)Systemic leaves from plants infected with mock buffer,BPMV-0and BPMV-PDS werephotographedat6 weekspostinoculation (wpi).(b)Semi-quantitative RT-PCRof $P s P D S$ ，BPMV RNA1 and RNA2 in systemic leaves of plants inoculated with mock,BPMV-0 and BPMV-PDS.Phosphoprotein phosphatase 2A $( P S P P 2 A )$ was used as an internal control.TtalRNAwasextractedat6wpifromsystemicleavesofthree(Mock,M-0)orfive(PMV-)diferentplantsofcvCampage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "that the viral treatment does not interfere with PsPDS expression (Figure 2b).In samples from the BPMV-PDS treated plants,there wasa strong down-regulation of PsPDS (relative to PsPP2A) (Figure 2b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BPMV infection of roots of six P.sativum cultivars ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As one of our aims in developing BPMV-derived VIGS for pea is to identify genes involved in resistance to the root pathogen A.euteiches，we next investigated whether BPMV could be a suitable ViGS vector for silencing endogenes expressed in roots. Toexamine whether BPMV infects roots，we first tested the presence of GFP fluorescence in the root systems of genotypes Isard and 552 at 6 and 5 wpi,respectively.When young lateral rootswere observed with an epifluorescence microscope，GFP fluorescence was detected for the two genotypes Isard and 552 (Figure 3a).As an alternative to microscope observations，we tested the presence of BPMV-GFP in the roots of all six genotypes using semi-quantitative RT-PCR analyses. TotalRNAs were extracted from roots of BPMV-GFP-infected plants and control plants at 4 wpi. PCR using primers specific to BPMV RNA1 showed the presence of viral RNAs in the roots of BPMV-GFPinfected plants for all six genotypes,whereas no viral RNAs were detected in control plants as expected (Figure 3b).Thus，the results confirmed the presence of BPMV viral RNAs in roots of the six genotypes of interest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Virus-induced gene silencing of PskOR1 in P. sativum cv. Champagne ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To test BPMV VIGS in roots,We constructed a BPMV-KOR1 vector containinga fragment of the KORRiGAN-1 gene of P.sativum （204号 $( P S K O R 1 )$ .In Arabidopsis thaliana，the KOR1 gene encodes an endo-1,4- $\\beta$ -D-glucanase involved in cellulose synthesis(Sato et al.，20o1).Mutants carrying T-DNA insertions in the putative promoter region display an extreme dwarf phenotype with severe stunting of both stem and roots (Nicol et al.，1998). Silencing of the $K O R \\mathbb { 1 }$ gene in P. sativum using the PEBV VIGS vector resulted ina reduced plant height and a shorter root length (Constantin et al.,2004).We constructed two BPMV-KOR1 vectors.The first vector (so-called BPMV-KOR1a) contains a 345-bp length fragment derived from the $3 ^ { \\prime }$ -end of the PsKOR1 ORF of cv. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/38796116258ad15fd0c4abbd974778f6f48232dde27005f22d3cc4b765bb8e69.jpg",
+        "img_caption": [
+            "Figure3BeandotlsiducdexpresiofthefluorestproteinGFgeneinotofativumgotfees (a)Epioedsd inoculated with BPMV-GFP.Bar $= 2 5 0$ microns.(b) Semi-quantitative RT-PCR of BPMV RNA1 in roots of plants inoculated with mock and BPMV-GFP. ThePsPPA(phosphoproteinphosphatase2)geneasusedsaninteralcontrol.TotalRAwasextractedat4pifromrotsofeachgeotype "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Champagne (Table 2). Indeed,according to Zhang et al. (2010, 2013)，silencing efficiency using the ‘one-step' BPMV vector is generally higher for the $3 ^ { \\prime }$ region of the target gene ORF and for a fragment size of \\~3oO-4o0 bp.The second vector (so-called BPMV-KOR1b) contains a 470-bp length fragment homologous to the 470-bp fragment used by Constantin et al. (2o04) in the PEBV vector (Table 2). The two $K O R \\mathbb { 1 }$ fragments (345 bp and $4 7 0 ~ \\mathsf { b p } ,$ ）overlap by 181bp on the $P s K O R 1$ mRNA.We first inoculated the two BPMV-KOR1 constructs in $P .$ vulgariscv.Black Valentine by direct DNA rubbing of a mix of two infectious plasmids (Table 2).Three wpi， typical viral symptoms were observed on uninoculated systemic leavesof ${ \\sim } 6 0 \\%$ of the inoculated cv.Black Valentine plants (Figure S2)，but infected plants did not display a reduced plant height (data not shown). Thismay be due to the low nucleic acid identity $( < 5 0 \\% )$ between the KOR1 fragments of the $P s K O R 1$ gene of pea and $P v K O R 1$ expressed in roots of common bean. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Infected leaves of P. vulgaris were used as inoculum to produce leaf sap for mechanical inoculation of pea cv. Champagne. Inoculated plants were put in hydroponic culture.At 4 wpi,root length of each plant was measured and representative plants were photographed (Figure 4a).Roots of plants inoculated with BPMV-KOR1a or BPMV-KOR1b were significantly shorter than roots of plants inoculated with BPMV-O (Figure 4a and b) supporting the hypothesis that silencing of $P s K O R 1$ had taken place.To correlate this root dwarf phenotype with the transcript extinction of $P s K O R 1$ ,we performed semi-quantitative RT-PCR in rootsat 4 wpi.Total RNA was extracted from plants inoculated with mock，BPMV-O，BPMV-KOR1a and BPMV-KOR1b.To test whether the phenotype observed in treated plants could be due to the presence of the viral vectors,the presence of BPMV RNA1 and RNA2 transcripts was also determined by RT-PCR (Figure 4c). Asexpected，no viral RNAs were detected in the roots of the mock-treated plants，unlike in all other samples (Figure 4c). Expression levels of $P s K O R \\ u _ { 1 }$ were similar in roots of BPMV-0- inoculated plants compared to mock-treated plants suggesting that the viral infection does not affect the expression level of PsKOR1 (Figure 4c).Transcripts levels of PskOR1were significantly decreased in samples from roots of plants inoculated with either BPMV-KOR1a or BPMV-KOR1b，relative to the control plants (mock and BPMV-O) and relatively to PsPP2A (Figure 4c). No significant difference was detected between BPMV-KOR1a and BPMV-KOR1b samples. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Screening for susceptibility to BPMV of a P.sativum panel of diversity ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this work,we demonstrated that six pea genotypes (Cham pagne,FP,Pl180693，AeD99OSW-50-2-5,Isard and 552) were all susceptible to BPMV and that efficient VIGS was induced using the‘one-step' BPMV vector in leaves and roots of cv.Champagne.To further extend the application of ViGS using the ‘onestep'BPMV vector in P.sativum and as VIGS technology can be used only in susceptible genotypes,we carried out a screening experiment using 37 different pea genotypes reflecting the diversity of cultivated peas (Table 4).Three plants ofeach genotype were tested in at least two independent experiments. Pea plantlets were inoculated at the two-leaf stage using the high-intensity inoculation method and leaf sap obtained from BPMV-GFP-infected leaves of P.vulgaris cv.Black Valentine.The presence of GFP fluorescence Was scored under UV light at 3 and 4 wpi in inoculated leaves and uninoculated leaves,respectively, for the 37 pea genotypes，and results were synthesized in Table 4.Twenty-eight genotypes were infected systemically by BPMV-GFP (noted ‘YES'in Table 4).Two genotypes (cv. Enduro and James) displayed GFP fluorescence in the inoculated leaves only (noted ‘YES only in IL'in Table 4),indicating that systemic movement of BPMV-GFP was restricted.Seven genotypes displayed no GFP fluorescence in either inoculated or uninoculated leaves (noted 'NO'in Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/144b56d42dcd1ba772b8827d14c8379ae284a75fa9d6eee67ec1774f80fcdb1c.jpg",
+        "img_caption": [
+            "Figure4SilencingofKOR1inP.sativumcv.ChampagneusingtheVGSvectorsBPMV-KORaandBMV-KOR1b.(a)Plantsinoculatedwithock BPMV-0,Bal plantsinoculatedithockM-0PMKRaandORbmeasurdat4piDataarethmeanoftosamplesfocktreatedplants three samples for BPMV-0-inoculated plants and seven samples for BPMV-KOR1a-and BPMV-KOR1b-inoculated plants $\\pm ~ { \\sf S E }$ .Mean values significantly different from the BPMV-O-inoculated plantsare indicated by an asterisk as determined by paired t-test $( P < 0 . 0 1$ ) (c) Semi-quantitative RT-PCR of PsKOR1,BPMV RNA1 and RNA2 in roots of plants inoculated with mock,BPMV-0,BPMV-KOR1aand BPMV-KOR1b.The $P S P P 2 A$ (phosphoprotein phospatase2eeasudsantealotroltaaextracdat4pfrottesoftdifretplatsfostruct "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/948f11cab9f7f639c96437783dc11680d332f4be9058d50bb9a1b59847b6c568.jpg",
+        "table_caption": [
+            "Table4Susceptibility to BPMVof Pisum sativum genotypes testedby mechanical inoculation with BPMV-GFP "
+        ],
+        "table_footnote": [
+            "-':no visible GFP fluorescence; $' + '$ :visible GFP fluorescence; IL: inoculated leaves "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"4\">Presence of GFP fluorescence indicative of BPMV infection*</td><td></td></tr><tr><td></td><td></td><td colspan=\"2\">3wpi</td><td colspan=\"2\">4 wpi</td><td></td></tr><tr><td>N°</td><td>P. sativum genotype</td><td>Inoculated leaves</td><td>Uninoculated leaves</td><td>Inoculated leaves</td><td>Uninoculated leaves</td><td>Susceptibilityto BPM</td></tr><tr><td>1</td><td>Champagne</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>2</td><td>CE101 = FP</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>3</td><td>Isard</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>4</td><td>552</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>5</td><td>PI180693</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>6</td><td>AeD99OSW-50-2-5</td><td>+</td><td>+</td><td>+</td><td>+ +</td><td>YES</td></tr><tr><td>1</td><td>Yangwan G1503</td><td>1</td><td>1</td><td>1</td><td>1</td><td>NO</td></tr><tr><td>2</td><td>Merveille d'Etampes</td><td>+</td><td>1</td><td>1</td><td></td><td>YES</td></tr><tr><td>3</td><td>Livioletta</td><td>+</td><td>+</td><td>1</td><td>+ +</td><td>YES</td></tr><tr><td>4</td><td>Ballet</td><td>1</td><td>1</td><td>1</td><td>1</td><td>NO</td></tr><tr><td>5</td><td>Petit Provencal</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>6</td><td>Pisum sativum-AFGHANISTAN JI86</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>7</td><td>Vavilov-D261</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>8</td><td>Capsicum</td><td>1</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>9</td><td>Shrat</td><td>1</td><td>1</td><td>1</td><td>1</td><td>NO</td></tr><tr><td>10</td><td>Afghanistan Asiaticum</td><td>1</td><td>1</td><td>1</td><td>1</td><td>NO</td></tr><tr><td>11</td><td>WNC23Z SPP ARVENSE 1809</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>12</td><td>Cote d'Or</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>13</td><td>336/11</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>14</td><td>DP</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>15</td><td>AeD9904-7</td><td>+</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>16</td><td>Eden</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>17</td><td>Cheyenne</td><td>1</td><td>1</td><td>1</td><td>1</td><td>NO</td></tr><tr><td>18</td><td>Geronimo</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>19</td><td>Baccarat</td><td>1</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>20</td><td>Glacier</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>21</td><td>Austrian Winter</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>22</td><td>Cameor</td><td>1</td><td>1</td><td></td><td>1</td><td>NO</td></tr><tr><td>23</td><td>Kayanne</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>24</td><td>MN 314</td><td>1</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>25</td><td>90-2079</td><td>+</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>26</td><td>0-2073</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>27</td><td>90-2131</td><td>+</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>28</td><td>RIL 847-50</td><td>+</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>29</td><td>E11</td><td>+</td><td>+</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>30</td><td>Ethiopia-32 CGN 3255</td><td>+</td><td>1</td><td>+</td><td></td><td>YES</td></tr><tr><td>31</td><td>Spartanets</td><td>+</td><td>+</td><td>+</td><td>+ +</td><td>YES</td></tr><tr><td>32</td><td>Terese</td><td>+</td><td>1</td><td>+</td><td>+</td><td>YES</td></tr><tr><td>33</td><td>AeD990SW-45-8-7</td><td>+</td><td>+</td><td>+</td><td></td><td>YES</td></tr><tr><td>34</td><td>Enduro</td><td>+</td><td></td><td></td><td></td><td>YES only in IL</td></tr><tr><td>35</td><td>Torsdag</td><td></td><td>1</td><td>+ 1</td><td>1</td><td>NO</td></tr><tr><td>36</td><td>James</td><td>1 +</td><td>1 1</td><td>+</td><td>1 1</td><td>YES only in IL</td></tr><tr><td>37</td><td>China</td><td></td><td></td><td></td><td></td><td>YES</td></tr><tr><td></td><td></td><td>+</td><td>+</td><td>+</td><td>+</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pisum sativum is an economically important crop especially in Europe.The genome of pea is about to be completely sequenced by the International Pea Sequencing Project consortium (AlvesCarvalho et al.，2015;McGee，2013).To relate the identified genes with important agronomic traits, functional genomics tool are needed at the genome-wide level.In pea,as in other legumes, stable genetic transformation is relatively inefficient (Somers et al.，2003;Svabova et al.，2005) and VIGS has become an important reverse genetics tool for functional genomicsin these species (Pflieger et al.，2013). In the present study，we investigated whether BPMV-based vector,the most widely used VIGS vector in legumes，could be effective for silencing of endogenous genes and for foreign gene expression in pea. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In pea,a VIGS vector was originally developed from PEBV that induced an efficient and reliable gene silencing (Constantin et al., 2004).P. sativum cv.Scout inoculated with PEBV-PDS developed the characteristic photo-bleached phenotype on $9 5 \\%$ of the upper leaves at 42 dpi (Constantin et al.,2o04).Using the BPMV VIGS vector，we observed comparable intensity and timing of silencinginduction for PsPDS as leaf photobleaching incv. Champagne was observed at 6 wpi and this phenotype was associated with a reduction in PDS transcripts.In roots,silencing of PsKOR1 gene was shown to occur at 4 wpi both in cv.Scout (Constantin et al.,2oo4) and in cv. Champagne (this study).In conclusion, the one-step BPMVVIGS vector is as effective as the PEBV VIGS vector for silencing of endogenes in pea. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One critical step when making ViGSis the delivery of the recombinant viral vector into plant cells to initiate viral infection (i. e.primary inoculation).Delivery can be achieved by various techniques such as Agrobacterium-mediated infiltration (agroinoculation),mechanical inoculation (generally by leaf rubbing) of invitro-transcribed RNA or biolistic delivery of infectious plasmid DNA (Burch-Smith et al.,2004; Robertson,2004).In the case of PEBV,initial delivery is achieved by agro-inoculation because PEBV isnot transmitted mechanically (Constantin et al.,2oo4).In the aim of making high-throughput VIGS studies, this technique may become laborious and time-consuming because of the step of Agrobacterium transformation (Pflieger et al.，2013).On the contrary,BPMV isa‘one-step'VIGS vector delivered into plants via direct DNA rubbing of infectious plasmid DNAs which is a rapid，simple and cost-effective procedure for making low- to high-throughput genomic studies (Pflieger et al.，2013; Zhang et al., 2010). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As VIGS efficiency is correlated with the virus titre in the infected plants (Senthil-Kumar and Mysore,2011),we performed all primary inoculations of infectious plasmid DNAs in P.vulgaris cv. Black Valentine because this genotype is highly susceptible to BPMV (Pflieger etal.，2014;Zhang et al.，2010)．Systemically infected leaves of cv.Black Valentine are trifoliate leaves，and each leaflet constitutes a highly efficient inoculum for making secondary inoculations.This is an advantage compared to pea leaflet that are quite smaller and that would produce less inoculum material not suitable for high-throughput genomic studies. In addition，we demonstrated that the secondary infection rates in pea ranges from $100 \\%$ (in cv.Champagne) to $30 \\%$ (cv.FP，Pl 180693，AeD99OSW-50-2-5，Isard and 552). Thus,to optimize chances to have a successful infection of pea genotypes,we recommend to use a highly efficient viral inoculum produced in P.vulgaris cv.Black Valentine. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that BPMV infection in pea only generates mild mosaics (Figures1and 4,S1),therefore not interferingwith the phenotype associated with silencing of the gene of interest. This feature is of great importance when making VIGS studies because viral infection may alter defence responses,development and morphology of the silenced plant.Thus, it is recommended if possible to work with mild viral strains.This is the case for the 'one-step'BPMV VIGS vector，which is derived from the IA-Di1 isolate of BPMV inducing very mild visual symptoms on infected soya bean plants.In common bean,we showed that although viral symptoms were present (mottling and distorted leaves),they do not interfere with the silencing phenotypes (Pflieger et al., 2014).Nevertheless,it is important to include a positive control (i.e.plant infected with an empty VIGS vector) in all VIGS assays to check the effect of viral infection on the silenced plant. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ideal size of the foreign sequence inserted into the viral vector for ViGS induction ranges between an upper size limit allowing the virus to replicate and to move systemically and a lower size limit allowing efficient VlGS induction (Burch-Smith et al.,2004; Robertson,20o4).These two parameters depend on the chosen virus and on the host plant genotype.Moreover, orientation of the foreign sequence inserted into the viral vector and the position of the target region inside the target gene are critical for silencing intensity.With the‘one-step'BPMV VIGS vector,fragments in the range of 10o-500 nucleotides,inserted in antisense orientation and targeting the ORF $3 ^ { \\prime }$ -end of the target gene，are recommended to ensure efficient silencing (Juvale et al.，2012；Pandeyet al.，2011；Zhang etal.，2013). Based on these parameters,we used an insert of 336 and 345 nucleotides selected in the ORF $3 ^ { \\prime }$ -regionof $P s P D S$ and $P s K O R 1$ genes，respectively，to construct the two BPMV vectors BPMVPDS and BPMV-KOR1a.For $P s K O R 1$ ,we also tested BPMV-KOR1b containing the same 47O-nt fragment as previously used with the PEBV vector (Constantin et al.,2oo4).Although this insert does not comply with the choice of the ORF $3 ^ { \\prime }$ -end region，the observed results showed no significant difference between silenced plants with BPMV-KOR1a and BPMV-KOR1b (Figure 4c). This can be explained by the fact that the 47O-nt fragment of BPMV-KOR1b covers a portion of the $3 ^ { \\prime }$ region because the whole PsKOR1 ORF has a length of 688 nt. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One limitation of VIGS is that it is possible only in genotypes where the viral vector can spread systemically.For a given species, different genotypes might react differently to viral infection,from total resistance due to specific resistance genes to various levels of susceptibility. This has been well documented for the PEBVderived vector in Medicago truncatula and Lathyrus odorata (Gronlund et al.，2oo8).Consequently,it is essential to test the susceptibility to BPMV of each genotype of interest.To our knowledge，the BPMV vector has never been tested on pea genotypes.In a first step,we analysed the susceptibility to BPMV of six pea genotypes of interest and found that all six were susceptible to BPMV (Figures 1 and 3, S1).In these six genotypes, BPMV spread systemically throughout the whole plant (Figures 1and 3，S1).Following BPMV-GFP infection，fluorescence was detected in primary leaves，trifoliate leaves,stems,roots, floral buds,flowers,pods and seed coats (Figures 1and 3,S1).As VIGS is more effective only in tissues infected by the viral vector, it should therefore be possible to induce gene silencing in all these organs.In a second step，we investigated 37 additional pea genotypes and found that 28 were susceptible to BPMV,two genotypes displayed fluorescence only in the inoculated leaf,and only 7 seemed resistant (Table 4).Unfortunately,the genotype Cameor，the genome of which is currently being sequenced (Alves-Carvalho et al.,2015;McGee,2013),was found to be part of the 7 resistant genotypes.To affirm that these 7 genotypes are completely resistant to BPMV,infection with the empty BPMV vector should be tested because BPMV-GFP may be less efficient toinfect these genotypes.Nevertheless，the BPMV vector is usable in the $6 + 2 8$ pea genotypes provided further investigation to improve infection rates,viral spread and ViGS efficiency. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Implementation of BPMV VIGS in pea further supports the use of this VIGS vector in other important legumes for which stable transgenic techniques are not yet available.The extent to which the‘one-step'BPMV vector can be used in other legume species (except soybean，common bean，and pea) is unknown，and it would be interesting to test the susceptibility to BPMV in species such as Cajanus cajan，Cicer arietinum，Vigna radiata whose genomes have recently been sequenced (Kang et al.，2014; Varshney et al.，2012，2013),aswell asin the model legume Medicago truncatula (Young et al.,2011). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant virus-based vectors are also valuable tools for heterologous protein expression in plants.These vectors are fast-acting, cost-efficient and high yield,and significantly, they can be used in avariety of genetic backgrounds provided that the selected genotype is susceptible to the viral vector.Here,we show that the BPMVvector isa suitablevirus-based system that iseffective for stable expression of a foreign protein in pea.We found that a recombinant BPMV-GFP vector gives an intense GFP expression in alarge range of vegetative and reproductive organs in several susceptible pea genotypes (Figures 1 and S1).Further investigationsare needed to determine the maximal insert size compatible with virus infectivity and systemic movement for a given genotype.Previous studies have estimated the BPMV RNA2 vector capacity for foreign gene insertion to be between 1.4and 1.8 kb (Zhang and Ghabrial,2006; Zhang et al.,201O).Although the average length of a plant gene is ${ \\sim } 3 \\ \\mathsf { k b }$ ,it could be possible to express short proteins such as viral or fungal effectors involved in plant immune responses. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study，we found that seven pea genotypes were resistant to BPMV-GFP.Resistant genotypes have also been identified previously in common bean (Mozzoni et al.，2009; Pflieger et al.,2014).To our knowledge,no resistance to BPMV has been reported so far in soybean (Mozzoni et al.,2oo9;Wang et al.,2005; Zheng et al.,2005).This result suggests (i) that pea hasan $R$ gene conferring resistance to BPMV that could be an orthologue of R-BPMV (the $R$ gene present in common bean cv. BAT93) (Pflieger et al.，2014) or (ii) that pea may have one or several other different $R$ genes conferring resistance to BPMV.As the resistant pea genotypes do not belong to a single group of diversity (data not shown)，we favour the latter hypothesis. However,genetic analysis will be necessary to confirm whether oneor several $R$ genes are involved in BPMV resistance in P.sativum. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant material and growth conditions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Seeds of Phaseolus vulgaris cv. Black Valentine used for primary inoculations in this study were obtained from multiplications performed at IPS2，Orsay (France).All seeds of Pisum sativum genotypes were obtained from multiplications performed at INRA Rennes(France) and INRA Dijon(France).The thirty-seven genotypes used for the screening for susceptibility to BPMV belong to a panel of diversity of cultivated $P .$ sativum established at INRA Dijon (unpublished results). Seedlings of common bean and pea genotypes were cultivated as described previously (Pflieger et al.，2014，2015)．Before inoculation，pea seedlings for PskOR1 silencing assays were placed individually in hydroponic culture using a nutrient solution as substrate (Pflieger et al., 2015).At 14 dpi,roots were cut back to approximately $3 c m$ and root growth was allowed to re-initiate as described by Constantin et al.(2004) in PEBVVIGS experiments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Viral vectors ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Names of the BPMV constructs used in this study and the corresponding RNA1- and RNA2-derived plasmids are listed in Table 2.The pBPMV-IA-R1M，pBPMV-IA-V1 and pBPMV-GFP2 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DNA plasmidswere kindly supplied by C.Zhang from lowa State University，USA (Zhang et al.，201O).All other RNA2-derived plasmids were constructed in our laboratory by insertion of P.sativum target gene fragments in the BamH1 restriction site of pBPMV-lA-V1.Sequences of 1077 bp corresponding to PDS mRNA of P. sativum (GenBank accession AJ621573.1,cv.Scout) and 688 bp corresponding to KOR1 mRNA (GenBank accession AJ621355.1,cv.Scout) were used as matrix to determine the PCR primers using the software Primer3 (Untergasser et al.，2012). Target gene fragments were first amplified by PCR using specific primers (Table S1),P.sativum cDNAs as template and a highfidelity polymerase (Advantage@-HF2,Clontech,Mountain View, CA，USA).DNA plasmids pBPMV-IA-PDSrev336pb，pBPMV-IAKORrev-345pb and pBPMV-IA-KORrev-470pb (Table 2） were constructed by cloning cohesive-end fragments of 336 bp of the PsPDS gene，and 345 and 470 bp of the PsKORRIGAN1 $( K O R 1 )$ gene,respectively,into BamH1-digested and dephosphorylated pBPMV-IA-V1.The orientation of the cloned inserts was determined by PCR using a combination of vector-specific and fragment-specific primers (Table S1). Clones thought to contain inserted fragments in the antisense orientation were sequenced (GATC,Konstanz,Germany) to confirm their identity,and a maxipreparation of plasmid DNA was performed using the‘QlAGEN Plasmid Purification'(Hilden,Germany)kit. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Viral inoculation procedure ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Primary inoculationswith BPMV-derived infectious plasmids were performed in common bean cv. Black Valentine as described previously (Pflieger et al.,2014,2015).For secondary inoculations of pea genotypes，an infected leaf of P.vulgaris cv.Black Valentine harvested at 4 to 5 wpi (fresh leaf or frozen leaf conserved at $- 8 0 ~ ^ { \\circ } \\mathsf { C } )$ Was ground in a mortar with mock buffer to make leaf sap.Mechanical inoculations were performed by rubbing of the leaflets and stipules of two leaves of pea plantlets at the two-leaf stage of development (approximately 10- to 12- day-old plantlets in our growth conditions).Plants inoculated with either inoculation buffer without virus (Mock)orempty BPMV vector (BPMV-WT) were used as controls.After viral inoculation, the potted plants or hydroponic-cultured plants were placed in a growth room at $1 9 ^ { \\circ } C$ undera $1 6 - 1 7$ light/8-h dark cycle under a humidity of $70 \\%$ and watered with nutrient solution (Pflieger et al., 2015). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Optimization of conditions for mechanical inoculation ofleaf sapinP.sativum ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Toincrease the infection rate in pea，two intensities of mechanical inoculation were tested on the two younger leaves and stipules of 10- to 12-day-old plants of cv.Isard and 552: abrasion and scarification.For abrasion, the leaf was dusted with carborundum and rubbed with miracloth soaked with leaf sap. For scarification，a scalpel blade was used to make superficial incisions in the waxy layer and in the upper epidermis of the leaf. Depending on the size of the leaflet surface,four to six parallel incisions were made on one leaflet.The wounded upper leaf surface was then rubbed as in the abrasion inoculation method. Sixseedlings of both cv.Isard and 552 were inoculated with BPMV-GFP,with three plants per inoculation method.Inoculum consisted of leaf sap derived from P.vulgaris cv.Black Valentine plants infected with BPMV-GFP.After inoculation， the GFP fluorescence was scored in the inoculation leaf at 14 dpi and in the upper systemic leaves at 4 and 5 wpi using a quantitative scale of notation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "GFP imaging ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GFP expression in aerial organs and roots was examined using a UV lamp (High-intensity 1oo-Watt long-wave UV lamp，UVP, USA)and photographed using a Canon PowerShot A23o0 digital camera.Microscopic observations of roots were made using an Axioskop microscope (Zeiss,Germany) and photographed using a RTKE camera (SPOT imaging,Sterling Heights,MI,USA). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Expression analysis by semi-quantitative RT-PCR ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Total RNA and cDNA syntheses Were performed as described in Richard et al. (2014).Primer sequences are listed in Table S1. Primers for RT-PCR analyses of PsPDS and PsKOR1 genes were designed to anneal outside the region targeted for silencing so that only the endogenous gene was probed.Primers PsPP2A-fwd and PsPP2A-rev were used to amplify PsPP2A as an internal constitutively expressed mRNA control (Die et al.,201O).After 25 cycles，PCR products were analysed using analytical agaroseethidium bromide electrophoresis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Statistically significant differences were analysed by Student's t-test. Significance was set at $P < 0 . 0 1$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank Chunquan Zhang and Steven Whitham at lowa State University for sharing the set of BPMV ViGS vectors and providing the common bean cv.Black Valentine seeds and C.Zhang for fruitful discussions and excellent advice.We also thank Isabelle Lejeune,Christine Le Signor,Richard Thompson and Mathieu Siol forhelpful discussions.We thank Séverine Domenichini for precious help with microscope work．CM was supported by fellowships from the French Research Ministry.This work was supported by the PeaMUST project [grant agreement number ANR-11-BTBR-OoO2] and by grants from Institut National de la Recherche Agronomique (INRA), Centre National de la Recherche Scientifique (CNRS),Saclay Plant Sciences LABEX (SPS) and the 3P project (Plant Phenotyping Platform)．The authors declare no conflict of interest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Alves-Carvalho,S.,Aubert,G., Carrére,S.,Cruaud, C., Brochot,A.-L., Jacquin, F., Klein,A.et al. (2015) Full-length de novo assembly of RNA-seq data in pea (Pisum sativum L.）provides a gene expression atlas and gives insights into root nodulation in this species.Plant J.84,1-19.   \nAzpirozLeehan,R.and Feldmann,K.A.(1997) T-DNA insertion mutagenesis in Arabidopsis: going back and forth.Trends Genet.13,152-156.   \nBurch-Smith,T.M.,Anderson,J.C.,Martin,G.B.and Dinesh-Kumar, S.P.(2004) Applications and advantages of virus-induced gene silencing for gene function studies in plants. Plant J.39,734-746.   \nClulow,S.A.,Mathews,P.and Lewis,B.G.(1991) Genetic analysis of resistance to Mycosphaerella pinodes in pea seedlings. Euphytica 58,183-189.   \nConstantin,G.D.,Krath,B.N.,MacFarlane,S.A.,Nicolaisen,M.,Johansen,I.E. and Lund,O.S. (2oo4) Virus-induced gene silencing as a tool for functional genomics in a legume species.Plant J.40,622-631.   \nCooper, B.,Campbell, K.B.,McMahon,M.B.and Luster, D.G.(2013) Disruption of Rpp1-mediated soybean rust immunity by virus-induced gene silencing. Plant Signal. Behav.8,e27543.   \nDalmais，M.，Schmidt,J.，Le Signor,，C.，Moussy，F.，Burstin,J.，Savois,V., Aubert,G.et al. (20o8)UTILLdb,a Pisum sativum in silico forward and reverse genetics tool. Genome Biol.9,1-12.   \nDarby,P.,Lewis, B.G.and Matthews,P.(1985)Inheritance and expression of   \nresistance to Ascochyta pisi.In The Pea Crop,(Hebblethwaite,P.D.,Heath, M.C.and Dawkins,T.C.K.eds),pp.231-236.London: Butterworths.   \nDie,J.V.,Roman,B.,Nadal, S.and Gonzalez-Verdejo, C.I. (201O) Evaluation of   \ncandidate reference genes for expression studies in Pisum sativum under different experimental conditions. Planta,232,145-153.   \nFondevilla,S.，Kuster，H.，Krajinski，F.，Cubero,J.I.and Rubiales,D.(2011)   \nIdentification of genes differentially expressed in a resistant reaction to Mycosphaerella pinodes in pea using microarray technology.BMC Genom. 12, 1-15.   \nGronlund,M.,Constantin,G.,Piednoir,E.,Kovacev,J.,Johansen,I.E.andund,   \nO.S.(2oo8)Virus-induced gene silencing in Medicago truncatula and   \nLathyrus odorata.Virus Res.135,345-349.   \nHamon,C.，Baranger,A.，Miteul，H.，Lecointe，R.，Le Goff,I.，Deniot,G.,   \nOnfroy，C.et al. (2010)A complex genetic network involving a broad  \nspectrum locus and strain-specific loci controls resistance to different   \npathotypes of Aphanomyces euteiches in Medicago truncatula.Theor.   \nAppl. Genet. 120,955-970.   \nHamon,C.,Coyne, C.J.,McGee,R.J.,Lesne,A., Esnault,R.,Mangin,P., Herve, M.et al. (2013)QTL meta-analysis provides a comprehensive view of loci   \ncontrolling partial resistance to Aphanomyces euteiches in four sources of   \nresistance in pea.BMC Plant Biol.13,1-19.   \nHofer,J.,Turner,L.,Moreau,C.,Ambrose,M.,Isaac,P., Butcher,S.,Weller,J.   \netal. (2oo9) Tendril-less regulates tendril formation in pea leaves.Plant Cell, 21,420-428.   \nJuvale,P.S.,Hewezi,T., Zhang,C.Q., Kandoth,P.K.,Mitchum,M.G., Hi,J.H..   \nWhitham,S.A.et al. (2012) Temporal and spatial Bean pod mottle virusinduced gene silencing in soybean. Mol.Plant Pathol.13,1140-1148.   \nKang,Y.J., Kim,S.K., Kim,M.Y., Lestari, P., Kim,K.H.,Ha, B.K., Jun,T.H.et al.   \n(2014)Genome sequence of mungbean and insights into evolution within Vigna species.Nat. Commun.5,1-9.   \nKraft,J.M.and Pfleger,F.L.(20o1) Compendium of Pea Diseases and Pests.St   \nPaul,MN: American Phytopathological Society Press.   \nKumagai,M.H.,Donson,J.,Delacioppa,G.，Harvey,D.，Hanley,K.and Grill,   \nL.K.(1995) Cytoplasmic inhibition of carotenoid biosynthesis with virusderived RNA.Proc.Natl.Acad.Sci.U.S.A.92,1679-1683.   \nLange，M.,Yellina,A.L., Orashakova,S.and Becker,A.(2013) Virus-lnduced   \nGene Silencing (ViGS)in plants: an overview of target species and the virusderived vector systems.In Virus-Induced Gene Silencing:Methods and   \nProtocols，Methods in Molecular Biology，(Becker，A.,ed.)，pp.1-14.New   \nYork,NY: Springer Science and Business Media.   \nLejeune-Henaut,I.，Hanocq，E.，Bethencourt,L.，Fontaine,V.，Delbreil，B.,   \nMorin,J.，Petit,A.et al.(2oo8) The flowering locus Hr colocalizes with a major QTL affecting winter frost tolerance in Pisum sativum L.Theor.Appl. Genet. 116,1105-1116.   \nLiu,J.Z.,Horstman,H.D., Braun,E.,Graham,M.A.,Zhang,C.Q.,Navarre,D.,   \nQiu，W.L.et al.(2011） Soybean homologs of MPK4 negatively regulate defense responses and positively regulate growth and development. Plant Physiol. 157, 1363-1378.   \nLiu,S.M.,Kandoth,P.K., Waren,S.D,Yeckel,G.,Heinz,R.,Alden,J.,Yang,   \nC.L.et al. (2o12)A soybean cyst nematode resistance gene points to a new   \nmechanism of plant resistance to pathogens.Nature,492,256-260.   \nMcGee，R. (2013) Mendel's legacy:an international pea sequencing project. Pisum Genet. 44,13-14.   \nMcGinnis, K., Chandler,V.,Cone,K.,Kaeppler,H.,Kaeppler,S., Kerschen,A.,   \nPikaard,C.et al. (2oo5) Transgene-induced RNA interference as a tool for plant functional genomics.In RNA Interference,(Engelke,D.R.and Rossi, J.J., eds),pp.1-24.San Diego: Elsevier Academic Press Inc.   \nMeyer,J.D.F.,Silva,D.C.G.,Yang,C.,Pedley,K.F., Zhang,C.,van de Mortel,   \nM.,Hill,J.H.et al.(2oo9) Identification and analyses of candidate genes for Rpp4-mediated resistance to Asian soybean rust in soybean.Plant Physiol. 150,295-307.   \nMozzoni,L.A.,Chen,P.Y.and Gergerich,R.C.(20o9) Differentiation of Bean   \npod motte virus isolates based upon host symptoms.Eur.J.Plant Pathol. 124, 133-140.   \nNicol,F., His,I., Jauneau,A.,Vernhettes,S., Canut,H.and Hofte,H.(1998)A   \nplasma membrane-bound putative endo-1,4-beta-D-glucanase is required for normal wall assembly and cell elongation in Arabidopsis. EMBO J.17,5563- 5576.   \nPandey, A.K., Yang, C.L., Zhang, C.Q., Graham,M.A., Horstman, H.D.,Lee, Y., Zabotina,O.A.et al. (2011) Functional analysis of the Asian soybean rust resistance pathway mediated by Rpp2.Mol.Plant-Microbe Interact.24,194- 206.   \nPflieger,S.,Richard,M.M.S.,Blanchet,S.,Meziadi, C.and Gefroy,V.(2013) VIGS technology:an attractive tool for functional genomics studies in legumes.Funct. Plant Biol.40,1234-1248.   \nPflieger,S.，Blanchet,S.,Meziadi,C.，Richard,M.M.S.,Thareau,V.,Mary，F., Mazoyer,C.et al. (2014) The \"one-step\" Bean pod mottle virus (BPMV)- derived vector is a functional genomics tool for efficient overexpression of heterologous protein,virus-induced gene silencing and genetic mapping of BPMV R-gene in common bean (Phaseolus vulgaris L.).BMC Plant Biol.14,1- 16.   \nPflieger,S.,Blanchet,S., Meziadi,C.,Richard,M.M.S.and Geffroy,V.(2015) Bean pod motle virus (BPMV) viral inoculation procedure in common bean (Phaseolus vulgaris L.). Bio-protocol,5,e1524.   \nPilet-Nayel,M.L.,Muehlbauer,F.J.,McGee,R.J.,Kraft,J.M.，Baranger,A.and Coyne， C.J. (2Oo2） Quantitative trait loci for partial resistance to Aphanomyces root rot in pea.Theor. Appl. Genet.106,28-39.   \nPilet-Nayel,ML.,Muehlbauer,F.J.,McGee,R.J.,Kraft,J.M.,Baranger,A.and Coyne，C.J.(2oo5） Consistent quantitative trait loci in pea for partial resistance to Aphanomyces euteiches isolates from the United States and France.Phytopathology,95,1287-1293.   \nPrioul,S.，Frankewitz,A.，Deniot,G.，Morin,G.and Baranger，A.(2004) Mapping of quantitative trait loci for partial resistance to Mycosphaerella pinodes in pea (Pisum sativum L.),at the seedling and adult plant stages. Theor.Appl. Genet.108,1322-1334.   \nRichard,M.M.S.，Pflieger,S.,Sévignac,M.,Thareau,V.,Blanchet,S.,Li,Y.. Jackson,S.A.et al. (2014) Fine mapping of $C O - X ,$ an anthracnose resistance gene to a highly virulent strain of Coletotrichum lindemuthianum in common bean.Theor. Appl.Genet.127,1653-1666.   \nRobertson,D.(2O04) VIGS vectors for gene silencing: many targets,many tools. Annu. Rev.Plant Biol.55,495-519.   \nSato,S.,Kato,T., Kakegawa,K., Ishii,T.,Liu,Y.G.,Awano,T.,Takabe,K.et al. (2001） Role of the putative membrane-bound endo-1,4-beta-glucanase KORRIGAN in cell elongation and celulose synthesisin Arabidopsis thaliana.Plant Cell Physiol.42,251-263.   \nSenthil-Kumar,M.and Mysore,K.S. (2O11) Virus-induced gene silencing can persist for more than 2 years and also be transmitted to progeny seedlings in Nicotiana benthamiana and tomato.Plant Biotechnol.J.9,797-806.   \nSomers, D.A.,Samac, D.A.and Olhoft, P.M. (2003) Recent advances in legume transformation.Plant Physiol.131, 892-899.   \nSvabova，L.，Smykal,P.，Griga，M.and Ondrej，V.(2oo5)Agrobacteriummediated transformation of Pisum sativum in vitro and in vivo.Biol.Plant. 49, 361-370.   \nTar'an,B.,Warkentin,T., Somers,D.J.,Miranda,D.,Vandenburg,A., Blade,S., Woods,S.et al. (2oo3) Quantitative trait loci for lodging resistance，plant height and partial resistance to mycosphaerella blight in field pea (Pisum sativum L.).Theor. Appl. Genet.107,1482-1491.   \nTimmerman-Vaughan,G.M.，Frew,T.J.，Russell,A.C.，Khan,T.，Butler，R., Gilpin,M.,Murray, S.et al. (20o2) QTL mapping of partial resistance to field epidemics of ascochyta blight of pea. Crop Sci.42,2100-2111.   \nTimmerman-Vaughan,G.M.，Frew,T.J.，Butler，R.，Murray，S.，Gilpin，M., Falloon,K., Johnston,P.et al. (2oo4) Validation of quantitative trait loci for Ascochyta blight resistance in pea (Pisum sativum L.),using populations from two crosses.Theor.Appl. Genet.109,1620-1631.   \nUntergasser,A., Cutcutache,I., Koressaar,T.,Ye,J.,Faircloth,B.C., Remm,M. and Rozen，S.G. (2012) Primer3-new capabilities and interfaces.Nuc/eic Acids Res.1, e115.   \nVarshney,R.K., Chen,W.B., Li, Y.P., Bharti,A.K., Saxena,R.K.,Schlueter,J.A., Donoghue，M.T.A.et al. (2012) Draft genome sequence of pigeonpea (Cajanus cajan)，an orphan legume crop of resource-poor farmers.Nat. Biotechnol. 30, 83-89.   \nVarshney, R.K.,Song,C., Saxena, R.K.,Azam,S.,Yu,S.,Sharpe,A.G.,Cannon, S.et al. (2013) Draft genome sequence of chickpea (Cicer arietinum) provides a resource for trait improvement. Nat. Biotechnol.31,240-246.   \nWang, Y., Hobbs, H.A., Hill, C.B., Domier, L.L., Hartman,G.L.and Nelson,R.L. (2005)Evaluation of ancestral lines of US soybean cultivars for resistance to four soybean viruses. Crop Sci.45, 639-644.   \nYoung,N.D.,Debelle,F.,Oldroyd,G.E.D.,Geurts,R.,Cannon,S.B.,Udvardi, M.K.,Benedito,V.A.et al.(2011) The Medicago genome provides insight into the evolution of rhizobial symbioses. Nature,480, 520-524.   \nZhang,C.and Ghabrial,S.A.(20o6) Development of Bean pod mottle virusbased vectors for stable protein expression and sequence-specific virusinduced gene silencing in soybean. Virology,344,401-411.   \nZhang,C., Yang,C.L.,Whitham,S.A.and Hill, J.H. (20o9) Development and use of an eficient DNA-based viral gene silencing vector for soybean. Mol. Plant-Microbe Interact.22,123-131.   \nZhang, C.,Bradshaw,J.D.,Whitham,S.A.and Hill,J.H.(201O) The development of an efficient multipurpose Bean pod mottle virus viral vector set for foreign gene expression and RNA silencing.Plant Physiol.153,52-65.   \nZhang, C.Q., Grosic,S.,Whitham, S.A.and Hill,J.H.(2012) The requirement of multiple defense genes in soybean Rsv1-mediated extreme resistance to Soybean mosaic virus.Mol.Plant-Microbe Interact.25,1307-1313.   \nZhang, C.,Whitham,S.A.and Hill, J.H. (2o13) Virus-induced gene silencing in soybeanand common bean.In Virus-Induced Gene Silencing:Methodsand Protocols,Methods in Molecular Biology,(Becker,A.,ed),pp.149-156.New York,NY:Springer Science and Business Media.   \nZheng, C.M., Chen,P.Y.,Hymowitz,T.,Wickizer,S.and Gergerich,R. (2005) Evaluation of Glycine species for resistance to Bean pod mottle virus.Crop Prot. 24,49-56. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Bean pod mottle virus (BPMV)-induced expressionof the green fluorescent protein (GFP)in aerial tissues of Pisum sativum cv.Pl 180693,AeD99OSW-50-2-5,and FP.   \nFigure S2 Viral symptoms and silencing phenotypes induced by BPMV VIGS vectors in primary-inoculated plants of P.vulgaris cv. Black Valentine.   \nTable S1 PCR primers used for construction of the BPMV VIGS vectors and RT-PCR analyses. ",
+        "page_idx": 10
+    }
+]

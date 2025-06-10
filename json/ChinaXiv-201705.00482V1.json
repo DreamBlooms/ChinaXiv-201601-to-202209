@@ -1,0 +1,277 @@
+[
+    {
+        "type": "text",
+        "text": "A first-principles study of CO oxidation by surface oxygen on $P t$ -incorporated perovskite catalyst $( \\mathsf { C a P t } _ { x } \\mathsf { T i } _ { 1 - x } \\mathsf { O } _ { 3 } )$ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qiuju Zhang,a Baihai Li,ab Houyuan Wang,a Yange Suoa and Liang Chen\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present work,we investigated the structural and catalytic properties of a prototype system Pt-doped $\\mathsf { C a T i O } _ { 3 }$ by means of first principles calculations.We paid particular attention to the aggregation and penetration of Pt on different surfaces of ${ \\mathsf { C a T i O } } _ { 3 } ,$ and subsequent CO oxidation by surface oxygen atoms on $\\mathsf { P t }$ -doped $\\mathsf { C a T i O } _ { 3 }$ .Our calculations indicate that CO oxidation can potentially take place when Pt is doped on the first layer of $\\mathsf { C a T i O } _ { 3 } ( 0 0 1 )$ .The activation barriers are calculated to be $0 . 2 0 \\mathrm { - } 0 . 4 5 \\mathrm { ~ e V } .$ （20 The possibly induced $\\bigcirc$ vacancy on the surface will produce a magnetic behavior by breaking the spin density symmetry due to one $\\mathsf { P t \\mathrm { - } O }$ bond cleavage.Our study is expected to provide an insight into the catalytic behavior of $\\mathsf { P t }$ ions in $\\mathsf { P t }$ -doped perovskite toward the oxidation of exhaust gas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Oxide-supported precious-metal particles have attracted intense interest due to their wide applications in heterogeneous catalysis.However,the well-known strong metal-support interactions (SMsI) for group VIl (8-1O) noble metals on oxide often drastically reduce their catalytic performance.1 For example, noble-metal-promoted perovskites，potentially used as automobile exhaust catalysts,exhibit typical SMSI that leads to severe catalyst deactivation.² This deterioration is generally compensated by loading an excess of precious metal,which could result in overconsumption of limited noble metal resources.3,4 Therefore, effectively maintaining or increasing the catalytic activity and controlling the consumption of precious metalsare highly demanded.Recently,itwas observed that the incorporation of precious metal into perovskite lattice is helpful to increase their catalytic ability.The presence of ionic Pd,Pt or Rh in a perovskite matrix,in most cases,is responsible for the highactivity of noble-metal-promoted perovskites.5,6For example, $\\mathbf { B a C e O } _ { 3 }$ was experimentally observed to incorporate $\\operatorname { P d } ( \\operatorname { I I } )$ into B sites to form $\\mathrm { B a C e } _ { 1 - x } \\mathrm { P d } _ { x } \\mathrm { O } _ { 3 - \\delta } .$ ，which maximized the catalytic activity for CO oxidation due to the presence of cationic $\\operatorname { P d } ( \\operatorname { I I } )$ in the perovskite host.² Similarly，the experimentally observed high-temperature activity of $\\mathbf { L a P d C o O _ { 3 } }$ for lean $\\mathrm { N O } _ { x }$ reduction was also linked to the presence of ionic Pd in the $\\mathbf { L a C o O } _ { 3 }$ matrix.7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivated by the high activity of Pd ions in $\\mathbf { B a C e } _ { 1 - x } \\mathbf { P d } _ { x } \\mathbf { O } _ { 3 - \\delta }$ we attempted to investigate the structural and catalytic properties of prototype $\\mathbf { C a P t } _ { x } \\mathbf { T i } _ { 1 - x } \\mathbf { O } _ { 3 }$ system by means of first principles calculations.Actually，the incorporation of noble metal into the B site of perovskite $\\left( \\mathbf { A B O } _ { 3 } \\right)$ lattice has been originally found for Pd-doped perovskites $\\scriptstyle \\left( { \\mathrm { L a F e C o P d O } } _ { 3 } \\right.$ and LaFePdO3) due to the self-regeneration abilities of Pd,i.e.,Pd could be reversibly incorporated into the perovskite lattice and segregate out,as the exhaust gas is cycled between oxidizing and reducing conditions.8,9 The perovskite exhibiting selfregeneration feature is named as “intelligent catalysis”(IC), which was afterward extended to Pt and Rh-doped ${ \\bf C a T i O } _ { 3 }$ systems. By using X-ray and transmission electron microscope (TEM) techniques,Scott et al.observed that Rh or Pt in the doped ${ \\bf C a T i O } _ { 3 }$ could move in and out of the perovskite structure with the fluctuation of oxidation and reduction atmospheres. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work, the self-regeneration of single-atom Pt deposition on or penetration into CaO- and $\\mathrm { T i O } _ { 2 }$ -terminated ${ \\bf C a T i O } _ { 3 }$ system was initially studied to evaluate the possibility of the presence of Pt cation.After that, the possible enhancement of surface oxygen activity toward CO oxidation by the presence of Pt substitution was explored by performing climbing nudged elastic band (cNEB) calculations.10-12 The produced oxidation product $\\mathbf { C O } _ { 2 }$ was found to be desorbed from $\\mathrm { T i O } _ { 2 }$ -terminated surface and create an O vacancy，which will induce a spin splitting of $\\mathrm { P t } \\mathrm { - } 5 \\mathrm { d }$ electron below the Fermi level,to cause magnetism transformation.Thus,we expect that the magne tism transition from non-magnet of stoichiometric $\\mathbf { C a T i _ { 1 } }$ ${ } _ { - x } \\mathbf { P t } _ { x } \\mathbf { O } _ { 3 }$ to magnetic $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 - \\delta }$ can be applied to monitor such oxidation process in the experimental characterization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Computational methods ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spin polarized DFT calculations were performed using the Vienna ab initio simulation package (VAsP).1’ The electron exchange and correlation were treated within the generalized gradient approximation $\\mathbf { ( G G A ) ^ { 1 4 } }$ using the PW91 functional.15-17 Theprojector-augmented-wave (PAW) method of Blochl1\" was used for the treatment of the core electrons.A soft potential was employed for oxygen $\\mathrm { ( O _ { s } , 2 s ^ { 2 } 2 p ^ { 4 } }$ ,cutoff energy of $2 5 0 ~ \\mathrm { e V }$ ,while a plane wave cutoff of $3 5 0 ~ \\mathrm { e V }$ was chosen in all calculations. Monkhorst Pack (MP) grid19 of $( 2 \\times 2 \\times 1 )$ ）wereused for the $\\left( 2 \\times 2 \\right) \\mathrm { C a T i O } _ { 3 }$ (001) surface.In order to avoid the dipole-dipole interactions between periodic slabs,we built the slab models consisting of 7 atomic layers with CaO or $\\mathrm { T i O } _ { 2 }$ as the termination for both sides.A vacuum spacing of $1 4 \\mathring { \\mathbf { A } }$ was added in the perpendicular direction.All atoms were fully relaxed with the forces converged to less than $0 . 0 3 \\mathrm { e V } \\mathring { \\mathbf { A } } ^ { - 1 }$ .The MethfesselPaxton technique² with a smearing width of $\\sigma = 0 . 1 \\ \\mathrm { e V }$ was used to minimize the errors in the Hellmann-Feynman forces. The optimized lattice constants $( a = 5 . 3 9 4 \\mathrm { ~ \\AA ~ }$ 5 $b = 5 . 5 1 2 \\mathrm { ~ \\AA ~ }$ 5 $c =$ $7 . 6 8 5 \\mathrm { ~ \\AA ~ }$ are in good agreement with experimental results ( $a =$ $5 . 3 8 1 \\mathring { \\mathrm { A } }$ $b = 5 . 4 4 2 \\stackrel { \\circ } { \\mathbf { A } }$ 5 $c = 7 . 6 4 1 \\mathrm { ~ \\AA ~ }$ ！ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To ascertain whether Pt could penetrate into replace ${ \\bf C a T i O } _ { 3 }$ host to replace Ti ions, the configurations of $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ are generated by the cluster expansion (CE) formalism.21-24 For the binary system,CE can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( \\vec { \\sigma } ) = V _ { 0 } + \\sum _ { i } V _ { i } \\sigma _ { i } + \\sum _ { i , j } V _ { i j } \\sigma _ { i } \\sigma _ { j } + \\sum _ { i , j , k } V _ { i j k } \\sigma _ { i } \\sigma _ { j } \\sigma _ { k } + \\dots\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i } , V _ { i j } , V _ { i j k } , . . .$ are the effective cluster interactions (ECIs), $\\sigma$ isa spin-like occupation variable (e.g., $\\sigma = 1$ if the B-site of ${ \\bf C a T i O } _ { 3 }$ perovskite matrix is occupied by Ti,and $\\sigma = - 1$ if the site is occupied by Pt). The coefficients are obtained by fitting eqn (1) to the first principles calculated energies of the selected subset from the configurations generated by CE.In principle, CE should take all the pairs,triplets,quadruples,etc.into account; however,in practice the cluster expansion can efficiently predict the energy of a system based on fewer coefficients.The optimal coefficient can be obtained according to the cross-validation (Cv) score by using a genetic algorithm.21,25-28 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "川三I Results and discussions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A． Deposition and migration of Pt on $\\mathbf { C a T i O } _ { 3 } ( \\mathbf { 0 0 1 } )$ surfaces ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First of all,we attempt to investigate the binding of Pt atom on the two commonly observed CaO- and $\\mathrm { T i O } _ { 2 }$ -terminated surfaces.Similar to the previously studied Pd-doped $\\mathrm { L a F e O } _ { 3 }$ system,29,30 the one-fold $\\mathbf { O } _ { \\mathrm { I } }$ site at the CaO-terminated surface and the four-fold $\\mathrm { \\bf O _ { H } }$ site at $\\mathrm { T i O } _ { 2 }$ -terminated surface are found to be the most favorable binding positions for Pt (see Fig.1). In the calculations,Pt on other trial sites will converge to these two sites upon structural optimizations.As shown in Fig.1a and b, Pt binds to the outmost $\\mathbf { O } _ { \\mathbf { I } }$ on CaO-terminated surface with the bond length of 1.93 $\\mathring \\mathbf { A }$ and tilting angle $\\scriptstyle ( \\angle \\mathrm { P t O O } )$ of about $5 5 ^ { \\circ }$ yielding a binding energy $\\left( E _ { \\mathrm { b } } \\right)$ of $2 . 9 3 \\ \\mathrm { e V }$ 、In the case of $\\mathrm { T i O } _ { 2 } .$ 1 terminated surface,Ptispreferentially located on the ${ \\bf O } _ { \\mathrm { H } }$ hollow site,yieldingaslightlyhigher $E _ { \\mathrm { b } }$ of $3 . 1 0 \\mathrm { e V }$ .Upon the deposition of Pt,the four coordinated $\\mathrm { \\bf O _ { H } }$ atoms would be dragged out of surface by around $0 . 3 0 \\mathring { \\mathrm { A } }$ to form four $\\mathbf { P t } \\mathbf { - O } _ { \\mathrm { H } }$ bonds with bond lengths in the range of $2 . 0 1 { - } 2 . 0 5 \\mathrm { ~ \\AA ~ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,the charge distribution analysis displays some distinctive features for the charge transfer between the two surfaces.Specifically，Pt gains O.55 electron from the CaOterminated surface,whereas donates O.63 electron to the $\\mathrm { T i O } _ { 2 } .$ 1 terminated surface.This canbe understandable since the CaOterminatedand $\\mathrm { T i O } _ { 2 }$ -terminated surfacesare electron-rich and electron-poor，respectively.According to the Bader charge analysis,the net charges on the CaO-terminated and $\\mathrm { T i O } _ { 2 } .$ 1 terminated surfaces are calculated to be -O.3oleland $+ 0 . 7 3 \\left| \\mathrm { e } \\right|$ respectively.In the Baderanalysis,each atomisdivided based on the zero flux surfaces those are 2-D surfaces on which the charge density is a minimum perpendicular to surface.To present further evidence of electron transfer between Pt and ${ \\bf C a T i O } _ { 3 }$ surfaces,we also calculated the electron density difference between the adstructures and separate components with each atom frozen at their optimized positions.It is clearly shown in Fig.1c and $\\mathrm { c ^ { \\prime } }$ that $\\mathbf { P t - O }$ bonds are formed on both surfaces after electron transfer.The 3D yellow spherical shapes (denoting electron-rich area) in Fig.1d indicates that Pt serves as electron acceptor on the CaO-terminated surface.In contrast, the light-blue shapes (denoting electron-poor area) of Pt on $\\mathrm { T i O } _ { 2 }$ -termiated surface shows electron donating behavior. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/98200a732eda92423741ba93db41b880000abcf0a0a9ed027a82b4e7b9da9e88.jpg",
+        "img_caption": [
+            "Fig.1Single Pt atom adsorption on CaO and $\\mathsf { T i O } _ { 2 }$ -terminated surface.(a-d) provide the topview and sideview of single Pt atom deposition on CaO-terminated surface,and its 2D and 3D electron energy difference; $( \\mathsf { a } ^ { \\prime } - \\mathsf { d } ^ { \\prime } )$ shows the corresponding parts of single Pt atom deposition on $\\mathsf { T i O } _ { 2 }$ -terminated surface.The green, grey, red and blue balls represent Ca,Ti,O and $\\mathsf { P t }$ atoms,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since metal aggregation is usually the major concern for the supported catalysts,we next studied the aggregation tendency of Pt on the two surfaces.As only one favorable binding site is identified for each surface,we evaluated the migration of Pt between two nearest $\\mathbf { O } _ { \\mathbf { I } }$ sites on CaO-termination and two nearest $\\scriptstyle \\mathbf { O } _ { \\mathrm { H } }$ sites on $\\mathrm { T i O } _ { 2 }$ -termination.The transition state is identified by performingcNEB calculations along the prescribed pathways,as shown in Fig.2. The calculated energy barriers for Pt migration on CaO and $\\mathrm { T i O } _ { 2 }$ -terminationsare 1.18 and $1 . 7 1 \\ \\mathrm { e V }$ ,respectively.Such high barriers indicate that the migration of Pt is difficult to take place between two nearest $\\mathbf { O } _ { \\mathrm { I } }$ or ${ \\bf { O } } _ { \\mathrm { { H } } }$ sites.An intermediate state of O-Pt-O bonding is found on the migration pathway of $\\mathbf { P t } / \\mathrm { T i O } _ { 2 }$ -term，whichis also obtained by the initial optimization as a meta-stable state. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.The incorporation of Pt into $\\mathbf { C a T i O } _ { 3 }$ lattice ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next estimated the possibility of Pt penetration into the B site of ${ \\mathrm { C a T i O } } _ { 3 }$ lattice in terms of thermodynamics.Here,we calculated the binding energy $\\left( E _ { \\mathrm { b } } = E _ { \\mathrm { t o t a l } } - E _ { \\mathrm { v a c a n c y \\cdot T i } } - E _ { \\mathrm { P t } } \\right)$ for Pt with the Ti vacancy at different layers,as shown in Fig. 3a. $\\boldsymbol { E _ { \\mathrm { b } } }$ is calculated to be $9 . 5 2 \\mathrm { e V }$ for the substitution of the $1 ^ { \\mathrm { s t } }$ -layerTi (denoted as $\\mathrm { \" } \\mathrm { P t _ { \\mathrm { T i } } } ^ { \\mathrm { 1 s t } \\ \\mathrm { * } }$ hereafter),which is increased to $9 . 8 1 ~ \\mathrm { e V }$ when Pt replaces the second (denoted as $\\mathrm { \\ \" { P t } _ { \\mathrm { T i } } } ^ { 2 \\mathrm { n d } \\cdot \\mathrm { \\prime } }$ hereafter) and third layer Ti (denoted as $\\ \" \\mathrm { P t } _ { \\mathrm { T i } } \\mathrm { ^ { 3 r d } \\mathrm { \\ \" } }$ hereafter). The larger $\\scriptstyle { E _ { \\mathrm { b } } }$ of $\\mathrm { \\mathbf { P t } _ { \\mathrm { { T i } } } } ^ { 2 \\mathrm { { n d } } }$ and $\\mathrm { P t _ { \\mathrm { T i } } } ^ { 3 \\mathrm { r d } }$ means Pt tend to penetrate deep into the ${ \\bf C a T i O } _ { 3 }$ lattice，which is consistent with the experimental observation that Pt could dissolve into the ${ \\bf C a T i O } _ { 3 }$ lattice under oxidizing atmosphere.Actually,it is reasonable that $\\scriptstyle { E _ { \\mathrm { b } } }$ for $\\mathbf { P t _ { \\mathrm { T i } } } ^ { 2 \\mathrm { n d } }$ is greater than that of $\\mathrm { \\mathbf { P t } _ { \\mathrm { T i } } } ^ { 1 \\mathrm { s t } }$ because Pt forms five Pt-O bonds in a square-pyramid coordination with the bond length of $1 . 9 7 { - } 2 . 0 3 \\mathrm { ~ } \\mathring { \\mathrm { A } }$ in $\\mathrm { \\mathbf { P t } _ { \\mathrm { T i } } } ^ { 1 \\mathrm { s t } }$ while it forms six $\\mathbf { P t - O }$ bonds in octahedron coordination with the bond length of $2 . 0 2 \\substack { - 2 . 0 3 \\mathrm { ~ \\AA ~ } }$ in $\\mathrm { \\mathbf { P t } _ { \\mathrm { T i } } } ^ { 2 \\mathrm { n d } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/80793e38c567e812e0d001dc98d62c3c76959530f04f900f85f3614f122ec3b6.jpg",
+        "img_caption": [
+            "Fig.2The migration barriers of single Ptatom between the nearest $O _ { 1 }$ and $\\mathsf { O } _ { \\mathsf { H } }$ sites on $C a O _ { - }$ and $\\mathsf { T i O } _ { 2 }$ -terminated surface,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da94e6774099177a7dccf8be4524f99c99ed152bfe11a61c3a8ebf03168035d9.jpg",
+        "img_caption": [
+            "Fig.3(a) The structures of Pt penetration into different layer Ti to form ${ \\mathsf { P t } } \\mathrm { - } { \\mathsf { C a T i O } } _ { 3 }$ ：(b)convex hulls of the formation energies per formula unit (FE/f.u.)of $\\mathsf { P t }$ doped $\\mathsf { C a T i O } _ { 3 }$ structures based on first principles calculation and cluster expansion.Data obtained by VASP and CE are colored red and green,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further ascertain whether Pt could replace Ti ions of ${ \\bf C a T i O } _ { 3 }$ and the corresponding stability，we calculated the formation energies of $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ byDFT methods according to $E _ { \\mathrm { f } } = E _ { \\mathrm { C T P O } } - x E _ { \\mathrm { C P O } } - \\left( 1 - x \\right) E _ { \\mathrm { C T O } }$ ，where $E _ { \\mathrm { C T P O } }$ ， $E _ { \\mathrm { C P O } }$ and $E _ { \\mathrm { C T O } }$ are the total energies of $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ $\\mathbf { C a P t O } _ { 3 }$ and ${ \\bf C a T i O } _ { 3 }$ respectively, $x$ is the $\\mathbf { \\rho } _ { \\mathrm { P t } }$ doping concentration.The formation energies obtained byDFT calculationswere verified by the CE prediction and a good correlation between them was obtained. The weighted CV score is 3.3 meV/f.u.with a root mean square (rms) error of $1 . 4 \\mathrm { \\ m e V / f . u }$ .in the CE validation process.The comparison between the DFT calculated (red points) and CE predicted (green points) formation energies are shown in Fig.3b,respectively.The convex hull obtained by CE (green line) iswell-converged and accurately reproduces that of the DFT ground states (red line).The negative formation energies of $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ indicate the feasibility of Pt occupying the Ti sites. However, the energy differences between the ground states and other structures are only several meV/f.u.,implying that the $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ structures would probably become a disordered solid solution above moderate temperatures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C． CO oxidation by surface oxygen ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the lattice oxygen has been verified to not oxidize CO in bare $\\mathrm { T i O } _ { 2 } ( 1 1 0 )$ surface,1 it is natural to ask whether such oxidation process will occur in the presence of ionic Pt in $\\mathrm { T i O } _ { 2 } .$ terminatedsurface. To explorethepossiblecatalytic enhancement by Pt incorporation into the perovskite host, we focus on the CO oxidation by surface oxygen in $\\mathrm { \\mathbf { P t } _ { \\mathrm { T i } } } ^ { 1 \\mathrm { s t } }$ and $\\mathbf { P t _ { \\mathrm { { T i } } } } ^ { 2 \\mathrm { { n d } } } \\mathbf { \\mathrm { T i O } } _ { 2 }$ -termination. Inspired by the recent observation of single Pt atom loaded on $\\mathrm { F e O } _ { x }$ nanocrystallite support or graphene to form $\\mathrm { P t } _ { 1 } / \\mathrm { F e O } _ { x }$ or Pt/graphene,respectively,32,33 we built a model of single Pt atom deposited on the surface or occupying the B site of ${ \\bf C a T i O } _ { 3 }$ to form $\\mathbf { C a P t } _ { x } \\mathbf { T i } _ { 1 - x } \\mathbf { O } _ { 3 }$ to minimize the computational cost and examine its catalytic behavior.We found that CO canbe favorably adsorbed on the Pt site to form linear chemisorption state via the C or O ends in the $\\mathrm { \\ P t { _ { T i } } ^ { 1 s t } }$ structure (see Fig.4a).Apparently, the C end can interact with the ionic Pt more strongly,with an adsorption energy $\\left( E _ { \\mathrm { a d s . } } = \\right.$ $E _ { \\mathrm { C T P O } } + E _ { \\mathrm { C O } } - E _ { \\mathrm { C O - C T P O } } )$ of $1 . 5 9 \\mathrm { e V }$ and shorter Pt-C distance of $1 . 8 6 \\mathring { \\mathbf { A } }$ . In contrast, the O end can interact with Pt with an $E _ { \\mathrm { a d s } }$ of $0 . 1 6 ~ \\mathrm { e V }$ and ${ \\bf O - P t }$ distance of $2 . 1 3 \\mathring { \\mathrm { ~ A ~ } }$ ,respectively.For comparison,we also investigated the CO adsorption on Pt deposited onto stoichiometric $\\mathrm { T i O } _ { 2 }$ -terminated surface instead of replacing the Ti ion.Upon optimization,the CO molecule initially placed $2 . 1 \\mathring { \\mathrm { ~ A ~ } }$ above the surface Pt atom, would be pushed away in spite of C and O ends,as shown inFig.4c,whichillustrates that the Pt atom deposited on $\\mathrm { T i O } _ { 2 }$ surface completely loses its reactivity toward CO molecule.Actually，this is reasonable because the fourlobes ofPt-5d orbital become inaccessibleafter the formation of four Pt-O coordination on $\\mathrm { T i O } _ { 2 }$ surface, similar to our previous study of $\\mathbf { H } _ { 2 }$ chemisorption on $\\mathbf { P t / M o O } _ { 3 }$ .34 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the $\\mathbf { P t _ { \\mathrm { T i } } } ^ { 2 \\mathrm { n d } }$ structure,the Pt atom is embraced underneath and not available for interacting with CO.Nevertheless, CO can be still linearly chemisorbed on the Ti site via the C end. The distance between C end and Ti is calculated to be $2 . 3 4 \\mathring { \\mathrm { A } }$ ,as depicted in Fig.4b.Although the corresponding $E _ { \\mathrm { a d s } } = 0 . 1 0 ~ \\mathrm { e V }$ is significantly weaker than that of $\\mathrm { { P t _ { T i } } ^ { 1 s t } }$ ,the reactive activity of Ti is actually enhanced by loading Pt since CO can be hardly adsorbed on the $\\mathrm { T i O } _ { 2 }$ -terminated surface of the pure ${ \\bf C a T i O } _ { 3 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/488f3e894dca293fe141d20568e37af9af6cd0e99f4121430daad8a8876f31c3.jpg",
+        "img_caption": [
+            "Fig.4_The bottom presents adstructures of CO adsorption on $\\mathsf { P t } _ { \\mathsf { T i } } \\mathsf { ^ { 1 { s t } } }$ $\\mathsf { P t } _ { \\mathsf { T i } } { } ^ { 2 \\mathsf { n d } }$ and Pt deposition on $\\mathsf { T i O } _ { 2 }$ -terminated surface through C end. The top is the corresponding calculated 3D electron density difference of $\\mathsf { P t }$ -doped $\\mathsf { C a T i O } _ { 3 } ( 0 0 1 )$ with $\\mathsf { T i O } _ { 2 }$ -termination. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The similar phenomenon can be found in the case of CO activation on $\\mathbf { B a C e } _ { 0 . 9 0 } \\mathbf { P d } _ { 0 . 1 0 } \\mathbf { O } _ { 3 - \\delta }$ and undoped $\\mathbf { B a C e O } _ { 3 }$ ，inwhich the higher activity associated with $\\mathbf { B a C e } _ { 0 . 9 0 } \\mathbf { P d } _ { 0 . 1 0 } \\mathbf { O } _ { 3 - \\delta }$ isreflected by lower light-off temperature ( ${ \\bf \\bar { \\cal T } } _ { 5 0 } = 8 3 { \\bf \\ o } _ { \\bf C } \\quad$ ,compared with $T _ { 5 0 } = 2 2 5 ^ { \\circ } \\mathrm { C }$ for the undoped $\\mathbf { B a C e O } _ { 3 }$ 2 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To ascertain the intrinsic mechanism of the improved surface activity,the 3D electron density difference is plotted for these Pt-doped and undoped structures in Fig. 4.For the $\\mathrm { \\mathbf { P t } _ { \\mathrm { T i } } } ^ { 1 \\mathrm { s t } }$ structure,it is clearly shown that the five-coordinated Pt atom accumulates some electrons (blue contour) along the surface normal (Fig. 4a) due to the absence of one $\\mathbf { P t - O }$ bond.The remained electron on the unsaturated Pt atom is responsible for thehigh reactivity toward CO adsorption.After further incorporating Pt into the second $\\mathrm { T i O } _ { 2 }$ layer,the surface Ti atom obtains some electrons through the $\\mathbf { P t } \\mathbf { - O } \\mathbf { - } \\mathrm { T i }$ bond (Fig. 4b), which enhances the reactivity of Ti compared to other surface Ti ions.In contrast,no electron accumulation along the surface normal can be observed nearby the Pt atom deposited on the stoichiometric $\\mathrm { T i O } _ { 2 }$ -terminated surface.As shown in Fig.4c, only yellow contour of denoting electron deficient in this direction was remained due to the tetra- $\\mathbf { P t - O }$ bonds formation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, $\\mathrm { T i O } _ { 2 }$ -terminated surface exhibitselec tron-poor feature evidenced by Bader charge analysis,which results in the ability of attracting electron in the surface.We next evaluate the possibility of CO oxidation on surface oxygen following the two chemisorption states.For the adstructure (Pt-CO) through C end,the C atom is able to further bind with theneighbored $\\mathbf { O _ { 1 } }$ and drags it out of the surface by about 0.90 A to form a bent $\\mathbf { C O } _ { 2 }$ structure,yielding a bent angle $\\angle \\mathbf { O C O } =$ $1 4 0 ^ { \\circ }$ and $E _ { \\mathrm { a d s } }$ of $2 . 0 8 \\ \\mathrm { e V }$ 、We term this state as $\\mathbf { C O } _ { 2 }$ -bending. From the kinetic point of view,the adsorbed CO needs to overcomeabarrierof $0 . 4 5 \\ \\mathrm { e V }$ at the transition state $\\mathrm { T S } _ { \\mathrm { I } }$ to bind with $\\mathbf { O _ { 1 } }$ atom,as depicted in pathIofFig.5.The bond length of two newly formed $\\mathbf { C } { \\mathrm { - } } \\mathbf { O }$ bonds is slightly elongated from $1 . 1 8 \\mathring { \\mathrm { A } }$ to $1 . 2 1 \\mathring { \\mathrm { A } }$ due to the slight disturbance of $\\scriptstyle \\mathbf { C } \\equiv \\mathbf { O }$ triplet bond. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The oxidation process is also found to potentially take place for CO adsorbed through the O end (Pt-OC). Since adsorption on $\\mathrm { P t } ^ { \\mathrm { 1 s t } }$ via the O end results in smaller energy,the upstanding C atom will continue to increase its $E _ { \\mathrm { a d s } }$ to $0 . 3 4 ~ \\mathrm { e V }$ by binding with $\\mathbf { O _ { 1 } }$ atomwith a bent angle of $\\angle { \\bf O C O } = 1 0 6 ^ { \\circ }$ . In contrast to the $\\eta ^ { 2 } ( \\mathrm { C O } )$ structure,this bent $\\mathbf { C O } _ { 2 }$ -TMstate should be ascribed to $\\eta ^ { 2 } ( \\mathrm { C O O } )$ state because the two O atoms are directly bonded with Pt.The newly formed $\\mathbf { C } { \\mathrm { - } } \\mathbf { O } _ { 1 }$ bond of $1 . 3 8 \\mathring { \\mathrm { A } }$ will also drag the $\\mathbf { O _ { 1 } }$ atom out of $\\mathrm { T i O } _ { 2 }$ surface by about $0 . 8 \\mathrm { ~ \\AA ~ }$ 、The calculated activationbarrier of $0 . 2 0 \\mathrm { e V }$ toward CO oxidationis evensmaller than that of the commonly used Au-Cu catalyst (activation barrier $= 0 . 6 0$ eV).35 In the $\\mathrm { T S _ { I I } } ^ { 1 }$ ,the original $\\scriptstyle \\mathbf { C } = \\mathbf { O }$ bond length is elongated to $1 . 2 0 \\mathring { \\mathrm { A } }$ and $\\mathbf { C } \\mathbf { - } \\mathbf { O _ { 1 } }$ distance is decreased to $2 . 3 4 \\mathring { \\mathrm { A } }$ More interestingly,such oxidation state $\\eta ^ { 2 } ( \\mathrm { C O O } )$ is actually an intermediate and would converge to the most stable $\\mathbf { C O } _ { 2 } .$ bending state $\\eta ^ { 2 } ( \\mathrm { C O } )$ eventually.The similar conversion has also been found in the previous $\\mathbf { C O } _ { 2 }$ -TM state,in which COO binding is not a stable state.3637 In the ${ \\mathrm { T S } _ { \\mathrm { I I } } } ^ { 2 }$ (Fig. 5), the distance of $\\mathrm { \\mathbf { C } \\mathrm { - } \\mathbf { P t } }$ is shortened to $2 . 6 7 \\mathring { \\mathrm { A } }$ ,while the original $\\mathbf { P t - O }$ bond is increased to $2 . 4 8 \\mathring { \\mathrm { A } }$ ,yielding an activation barrier of $0 . 2 6 \\ \\mathrm { e V }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Whether the product (free $\\mathbf { C O } _ { 2 }$ molecule) could be desorbed from such $\\eta ^ { 2 } \\mathrm { ( C O ) - P t }$ complex is another key issue for the catalytic activity.As depicted in Fig.5,the $\\mathbf { C O } _ { 2 }$ desorption will increase its thermal energy by about $1 . 4 5 \\ \\mathrm { ~ e V }$ compared to $\\eta ^ { 2 } \\mathrm { ( C O ) - P t }$ complex,yielding an activation barrier of $1 . 4 5 \\ \\mathrm { e V }$ in thisprocess.Sucha high activation barrieris generally difficult to conquer,however, the exothermic energy (about $2 . 1 \\ \\mathrm { e V } ]$ of forming $\\eta ^ { 2 } ( \\mathrm { C O } )$ in path I possibly accumulate enough energy to enable the desorption of $\\mathbf { C O } _ { 2 }$ .It isnoteworthy here that the high-barrier reaction pathway II only plays a minor role in the CO oxidation process,compared to the low-barrier reaction pathway I.Furthermore，an O-vacancy on $\\mathrm { T i O } _ { 2 }$ -terminated surface will be induced by $\\mathbf { C O } _ { 2 }$ desorption,as shown in the dashed box in Fig.5.Although no obvious deformation can be discerned except for the slightly elongated bond length of Pt-O bond opposite to $\\mathbf { P t - O _ { \\mathrm { v a c a n c y } } }$ ，the electron feature near Fermi level is significantly different from the stoichiometric Pt${ \\bf C a T i O } _ { 3 }$ . Fig.6a clearly shows that the whole electronic bands are downshifted by approximately $0 . 5 \\ \\mathrm { e V }$ in $\\mathrm { T i O } _ { 2 }$ -terminated surface with an O-vacancy.An obvious spin splitting at valence band maximum (vBM) is discerned by destroying the symmetric electronic bands of stoichiometric $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ although the band gap is nearly unchanged. Such electron variation will probably induce magnetism transformation from non-magnet of stoichiometric $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ to magnetic $\\mathbf { C a T i _ { 1 } }$ $- x \\mathbf { P t } _ { x } \\mathbf { O } _ { 3 - \\delta }$ ，which is further confirmed by the calculated total magnetic moment of $1 . 9 0 ~ \\mu _ { \\mathrm { B } }$ in $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 - \\delta }$ .Projected density of states (PDOs) indicates that the split electronic band in VBMis mainly ascribed to the splitting of $\\mathrm { P t } \\cdot 5 \\mathrm { d }$ bands,as shown in Fig.6b,which is consistent with the calculated local magnetic moment of $1 . 1 0 ~ \\mu _ { \\mathrm { B } }$ on Pt. Compared to the original smaller peak,Pt-5d band becomes more narrow and stronger. Such emergence of magnetism is contributed by the broken symmetric square-pyramid structure of five-coordination of Pt, and is expected to be helpful to monitor the surface oxygen function states in the CO oxidation process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/23c34584a2f6a324891ad135e4d6176bf65be840c91af8abaf9a8245ea3496b7.jpg",
+        "img_caption": [
+            "Fig.5 The CO oxidizing process by the surface O1 atom on $\\mathsf { T i O } _ { 2 }$ terminated surface of Pt-substitution the first layerTi.Path land Il refer to the two reaction pathways through C and $\\bigcirc$ ends. The corresponding structures and the bond length are also presented. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/89aa3c3cc94cd2007adcd5b8655dddbaa44d1bcd4fcef6e9bf0957692f6484c0.jpg",
+        "img_caption": [
+            "Fig.6 Comparison of the total density of states (TDOS) (a) for Ovacant $( \\mathsf { P t } - \\mathsf { C a T i O } _ { 3 - x } )$ and $P t - C a T i O _ { 3 }$ and the projected local density of states (PDOS) of Pt-5d band (b) to illustrate their electromagnetic behavior near Fermi level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the DFT and CE calculations,both the increased binding energy with Pt penetration and the negative formation energy of $\\mathrm { C a T i } _ { 1 - x } \\mathrm { P t } _ { x } \\mathrm { O } _ { 3 }$ indicate the feasibility of replacing Ti sitesin ${ \\bf C a T i O } _ { 3 }$ by $\\mathbf { P t }$ ,which is consistent with the experimentally observed self-regeneration of Pt particles on ${ \\bf C a T i O } _ { 3 }$ .The penetrated Pt ion could enhance the surface activity of ${ \\bf C a T i O } _ { 3 }$ to form two adsorption states through the C and O ends. Further,we show that following oxidation by the surface O atom could readily take place to yield more stable $\\eta ^ { 2 } ( \\mathrm { C O } ) .$ -Pt complex, due to the low activation barrier of $0 . 4 5 { \\mathrm { ~ e V } }$ and $0 . 2 0 ~ \\mathrm { e V }$ in the pathways I and I1. From the whole reaction energy profile, CO oxidation path I is dominate process owning to the lower thermal energy along the oxidation process.However, the minor oxidation path I is possible to induce $\\mathbf { C O } _ { 2 }$ desorption and hence cause a magnetic transition (i.e.,from non-magnetic ${ \\bf C a T i O } _ { 3 }$ to magnetic $\\mathbf { C a T i O } _ { 3 - \\delta } \\mathbf { \\dot { \\Omega } } ,$ ). Ourstudy is expected to provide aninsight of catalytic behavior of Pt ion in Pt-doped perovskite toward exhaust gas oxidation.The magnetism transition could possibly used as a measurement to monitor the oxidation process. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We gratefully acknowledge the financial support by the national key basic research program of China (Grant nos 2013CB934800 and 2012CB7227oo)，national science foundation of China (Grant no.21003144,11274323),innovative research project of Ningbo municipal government (Grant no. 2011B82oo5),Ningbo NSF (2012A610117 and 2012A610099),and China postdoctoral science foundation funded project (2013M530292). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 S.J. Tauster,Acc.Chem. Res.,1987,20,389.   \n2U.G. Singh,J.Li,J.W.Bennett,A.M.Rappe,R. Seshadri and S. L. Scott,J. Catal., 2007,249,349.   \n3 Z. X. Tian, K. Inagaki and Y. Morikawa, Curr. Appl. Phys., 2012,12,S105.   \n4B.Li,O.K. Ezekoye,Q. Zhang,L.Chen,P.Cui,G.Graham and X.Pan,Phys.Rev.B.,2010,82,125422.   \n5 H.Tanaka,M. Taniguchi,N.Kajita,M. Uenishi,I. Tan, N. Sato,K.Narita and M.Kimura, Top.Catal.,2o04,30-1, 389.   \n6 M.Taniguchi,H.Tanaka,M.Uenishi,I.Tan,Y.Nishihata, J. I. Mizuki,H. Suzuki, K. Narita,A. Hirai and M.Kimura, Top.Catal.,2007,42-43,367.   \n7I. Twagirashema,M.Engelmann-Pirez,M. Frere,L.Burylo, L. Gengembre,C.Dujardin and P.Granger,Catal. Today, 2007,119,100.   \n8Y.Nishihata,J.Mizuki,T.Akao，H.Tanaka，M.Uenishi, M.Kimura,T.Okamoto and N.Hamada,Nature,2oo2,418, 164.   \n9 H.Tanaka,M. Taniguchi,M. Uenishi,N.Kajita,I.Tan, Y.Nishihata，J.I.Mizuki，K.Narita，M.Kimura and K.Kaneko,Angew. Chem., Int.Ed.,2006, 45, 5998.   \nLO H.Jonsson,Annu.Rev.Phys.Chem.,20oo,51,623.   \nl1 G.Henkelman,B.P.Uberuaga and H. Jonsson,J. Chem. Phys.,2000,113,9901.   \n12 G.Henkelman and H. Jonsson,J. Chem.Phys.,2000,113, 9978.   \n13 G.Kresse and J. Hafner,Phys. Rev.B.,1993,48,13115.   \n14 J.P.Perdew，J.A. Chevary，S.H. Vosko，K.A. Jackson, M.R.Pederson,D. J. Singh and C.Fiolhais,Phys.Rev.B., 1992, 46, 6671.   \n15 J.P.Perdew,J.A.Chevary，S.H.Vosko，K. A. Jackson, M.R.Pederson,D.J. Singh and C.Fiolhais,Phys.Rev. B., 1993,48,4978.   \n16 J. P. Perdew,K. Burke and M. Ernzerhof, Phys. Rev. Lett., 1996,77,3865.   \n17 J. P. Perdew,K. Burke and M. Ernzerhof, Phys. Rev. Lett., 1997, 78, 1396.   \n18 P.E. Blochl,Phys.Rev. B.,1994,50,17953.   \n19 H. J. Monkhorst and J. D.Pack,Phys. Rev. B.,1976,13,5188.   \n20M.Methfessel and A.T.Paxton,Phys.Rev.B.,1989,40,3616.   \n21 A.van de Walle and G.Ceder,J.Phase Equilib.,2oo2,23,348.   \n22 A. Van der Ven, J. C. Thomas, Q. C. Xu and J. Bhattacharya, Math. Comput. Simul.,2010,80,1393.   \n23 J. M. Sanchez,F. Ducastelle and D. Gratias,Phys. A,1984, 128, 334.   \n24 A. Van der Ven, H. C. Yu, G. Ceder and K. Thornton, Prog. Mater. Sci., 2010, 55,61.   \n25 G.L.W. Hart,V. Blum,M. J.Walorski and A. Zunger, Nat. Mater.,2005,4,391.   \n26 Q. Xu and A. Van der Ven, Phys.Rev. B., 2007,76, 064207.   \n27 A. Van der Ven, J. C. Thomas,Q. C. Xu and J. Bhattacharya, Math. Comput. Simul.,2010,80,1393.   \n28 J.M. Sanchez, F.Ducastelle and D.Gratias,Phys. A,1984, 128, 334.   \n29 A. Van der Ven, H. C. Yu, G. Ceder and K. Thornton, Prog. Mater. Sci.,2010,55,61.   \n30 B.Li, M.B.Katz,Q. Zhang,L. Chen,G.W. Graham and X.Pan,J. Chem. Phys.,2013,138,144705.   \n31 X.Y.Wu,A. Selloni and S.K. Nayak,J. Chem. Phys.,2004,120, 4512.   \n32 B. Qiao,A. Wang, X. Yang,L. F. Allard, Z. Jiang, Y. Cui,J. Liu, J. Li and T. Zhang, Nat. Chem., 2011,3,634.   \n33 S. Sun,G. Zhang, N. Gauquelin, N. Chen, J. Zhou, S.Yang, W. Chen,X. Meng, D. Geng,M.N. Banis,R. Li, S. Ye, S. Knights, G. A. Botton, T.-K. Sham and X. Sun, Sci. Rep., 2013,3,1775.   \n34 B.Li,W.-L. Yim,Q. Zhang and L. Chen,J. Phys. Chem. C, 2010,114,3052.   \n35 A.Hussain,J. Phys. Chem. C,2013,117,5084.   \n36 Q. Zhang,L. Cao,B.Li and L. Chen,Chem. Sci.,2012,3,2708.   \n37 D.H. Gibson, Chem. Rev.,1996,96,2063. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,151 @@
+# 外源水杨酸对铝胁迫下菊芋根系分泌物的影响
+
+杨文敏，严浙楠，毛纪隆，倪晓菁，黄家妮，潘蕾蕾，张雅琦，娄赛炜，杨颜裴，张丽宇，刘鹏(浙江师范大学 植物学实验室，浙江 金华 321004)
+
+摘要：为探究铝胁迫对菊芋根系分泌物的影响以及外源水杨酸的缓解作用，以耐铝型南京菊芋和铝敏感型资阳菊芋为试验材料，采用土培法，设置铝浓度 $5 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，分析了不同浓度 $( 1 0 , \ 1 0 0 , \ 1 \ 0 0 0 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 } ) \mathrm { S A }$ 对铝胁迫下菊芋根系分泌物中有机酸、氨基酸以及根尖相关代谢酶活的影响。结果表明：单铝胁迫会导致菊芋根系分泌物中柠檬酸、草酸、苹果酸浓度升高，且升高幅度南京菊芋大于资阳菊芋；柠檬酸合酶和苹果酸脱氢酶在单铝胁迫下活性增强；脯氨酸含量显著提升，总氨基酸浓度均显著减少。外源 SA加入后，南京菊芋根系分泌的柠檬酸、草酸、苹果酸浓度均得到不同程度提高，但经高浓度 $( 1 \ 0 0 0 \ \mu \mathrm { m o l { \cdot } L ^ { - 1 } } ) \mathrm { S A }$ 处理后资阳菊芋根系分泌草酸显著降低，且在各浓度SA处理下苹果酸浓度均无明显变化；柠檬酸合酶活性出现不同程度的增强，但对南京菊芋根尖中苹果酸脱氢酶活性影响不大，且高浓度 $( 1 \ 0 0 0 \ \mu \mathrm { m o l { \cdot } L ^ { - 1 } } ) \mathrm { S A }$ 处理后显著降低了资阳菊芋根尖中苹果酸脱氢酶活性；脯氨酸含量显著下降，从总氨基酸浓度变化来看，南京菊芋在高浓度 $( 1 \ 0 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } } ) \mathrm { S A }$ 、资阳菊芋在低浓度 $( 1 0 \mu \mathrm { m o l { \cdot } L ^ { - 1 } } ) \mathrm { S A }$ 处理下得到最大缓解效果。因此，菊芋通过分泌有机酸应对铝毒侵害，外源SA可促进菊芋根系有机酸代谢速率，分泌更多的有机酸来缓解铝胁迫，这种缓解效果在耐铝性相对较强的南京菊芋中表现更好。
+
+关键字：菊芋，红壤地区，铝胁迫，水杨酸，根系分泌物中图分类号：Q945 文献标识码：A
+
+# Effects of exogenous SA on root exudates of Helianthus tuberous under aluminum stress
+
+YANG Wenmin, YAN Zhenan, MAO Jilong, NI Xiaojing, HUANG Jiani, PAN Leilei, ZHANG Yaqi, LOU Saiwei, YANG Yanpei, ZHANG Liyu, LIU Peng (Botany Laboratory,Zhejiang Normal University,Jinhua 321oO4,Zhejiang,China)
+
+Abstract: To investigate the effects of aluminum stress on root exudates of Helianthus tuberous and the alleviating effect of exogenous salicylic acid,we used aluminum-tolerant Nanjing $H .$ （20 tuberous and aluminum-sensitive Ziyang $H .$ tuberous as experimental materials and set aluminum concentration of $5 0 0 ~ { \mu \mathrm { m o l } } { \cdot \mathrm { L } } ^ { - 1 }$ by soil culture method,and analyzed the effects of different concentrations $( 1 0 , \ 1 0 0 , \ 1 \ 0 0 0 \ \mu \mathrm { m o l { \cdot } L ^ { - 1 } } )$ of SA on the organic acids and amino acids in root exudates of $H .$ ，tuberous and related metabolic enzymes in root tips under aluminum stress. The results were as follows: Concentrations of citric acid,oxalic acid and malic acid in the root exudates of $H .$ ，tuberous increased under Al stress,and the increase was greater in Nanjing $H .$ （2 tuberous than in Ziyang H. tuberous; the activities of citrate synthase and malate dehydrogenase increased under Al stress.The proline content increased significantly,and the concentration of total amino acids decreased significantly. The concentrations of citric acid, oxalic acid and malic acid secreted by the root system of Nanjing H. tuberous were increased to different degrees after the addition of exogenous SA,but the oxalic acid secreted by the root system of Ziyang $H .$ （20 tuberous was significantly reduced after treatment with high concentration $( 1 ~ 0 0 0 ~ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } } )$ of SA, and there was no significant change in malic acid concentration under all concentrations of SA treatment. The citrate synthase activity appeared to be enhanced to different degrees,but it had little effect on malate dehydrogenase activity in the root tips of Ziyang $H .$ tuberous,and malate dehydrogenase activity in the root tips of Ziyang $H _ { \ l }$ ，tuberous was significantly reduced after treatment with high concentration ( $( 1 0 0 0 \ \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } )$ of SA. The proline content decreased significantly, from terms of changes in total amino acid concentration, the maximum aleviating effect was obtained at high concentration $( 1 ~ 0 0 0 ~ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } } ,$ SA for Nanjing $H .$ tuberous and at low concentration $( 1 0 ~ \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } )$ SA for Ziyang $H .$ tuberous. Therefore, $H .$ tuberous responds to aluminum toxicity by secreting organic acids,and exogenous SA can promote the rate of organic acid metabolism in the root system of $H$ 、tuberous to secrete more organic acids to alleviate aluminum stress,and this alleviation effect is better in Nanjing $H .$ tuberous,which is relatively strong in aluminum tolerance.
+
+Keywords: Helianthus tuberosus, red soil region, aluminum stress, salicylic acid, root exudates
+
+红壤作为我国南方的地带性土壤，占近全国土地总面积的四分之一(陈永波和王成华，2001)。红壤具有较低的 $\mathrm { p H ( p H }$ 值为4\~5.5)，其中的有机质和交换性盐基离子较少，加上我国南方酸雨发生频率高等原因，土壤酸化日益加重，活化了大量难溶性铝(Liu etal.,2015)。土壤中可溶性铝含量的增加显著提高了富铝化程度，对植物根系发育和水分、养分的吸收影响甚大，是目前公认的制约酸性土壤作物生长的主要因素之一(王宁等，2011)。植物对铝离子的耐受机制主要有两种，即体外排斥机制和内部耐受机制(李交昆等，2013)。其中植物根系分泌有机酸、酚类化合物、磷酸盐等改变根系环境，将铝离子螯合成无毒或者毒性较小的化合物，增强植物内部对铝离子的吸收、转运和耐受，降低铝离子对植物体的危害(Zhang etal.,2019)。另外植物通过耐受基因的转录参与调控，有研究发现ARTI与 STOP1在调节植物对铝离子耐受性上有重要作用(Ohyama et al.,2013)。转录因子WRKY46 和ASR5 对耐铝基因的调控方式与ART1与STOP1调控方式不同，WRKY46参与渗透胁迫反应和气孔运动的调节，ASR5与 STARI基因的启动子区域结合，增强 STAR1基因的表达，使水稻对铝离子的耐受性增强(Ding et al.,2013;Arenhart et al.,2013; Arenhart et al., 2014)。
+
+菊芋(Helianthus tuberous)又名洋姜、鬼子姜,菊科(Compositae),向日葵属(Helianthus L.),为多年生草本植物。该植物对各种生态环境的适应能力很强，全球范围内种植广泛(Wallet al.,1986;Wyse etal.,1986)。菊芋富含丰富菊糖可作为生产乙醇、生物发酵及制取油脂的良好来源；作为药用植物，具有清热凉血，利水除湿等功效。为菊芋在南方种植的广泛推广，如何解决铝胁迫对菊芋生长的影响成为亟待破解的问题，因此开展菊芋根系分泌物中有机酸及相关代谢酶活性测定有助于进一步探清菊芋对铝胁迫的响应。
+
+水杨酸(SA)属酚类化合物，在植物体内广泛存在，为应对逆境的信号传导分子，它通过诱导病程相关蛋白(PR)基因的表达来使系统获得抗性(SAR)(Shiras et al.,1997)。许多研究表明其在缓解生物和非生物的胁迫下发挥重要作用，马志博等(2020)发现外源SA可提高盐胁迫下酸枣幼苗抗氧化能力，缓解盐胁迫对酸枣的伤害，提高植株净光合速率和生长量。曹林等人(2015)探究得出铝胁迫下菊芋通过外源 SA 提高抗氧化酶活性和光合作用效率，但菊芋根尖分泌的有机酸和氨基酸如何应对铝胁迫条件？外源SA又发挥了怎么样的作用？这些问题值得探究。所以本文将对铝胁迫条件下菊芋根系分泌物中柠檬酸、苹果酸、草酸、脯氨酸、氨基酸以及根尖柠檬酸合酶和苹果酸脱氢酶进行分析讨论，以期为菊芋在红壤酸铝地区的安全种植与应用提供科学依据。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+选取耐铝性较强的南京菊芋和耐铝性较弱的资阳菊芋作为本次试验材料。
+
+# 1.2试验方法
+
+选取大小相同的菊芋块茎进行土培，放于光照培养箱中催芽(白天： $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ， $90 \%$ RH,$6 0 \%$ 光照， $^ { 1 4 \mathrm { ~ h ~ } }$ ；黑夜： $2 6 ~ ^ { \circ } \mathrm { C }$ ， $80 \%$ RH， $0 \%$ 光照， $1 0 \mathrm { ~ h ~ } ,$ ，待其地上部长到 $8 \mathrm { c m }$ 左右时，再选择长势大致相同的菊芋幼苗移入带孔塑料盆中培养，每盆3株，每组设置3个重复。$\mathrm { A l } ^ { 3 + }$ 与完全营养液混合成等量处理液用来均匀喷洒至菊芋根系土壤， $\mathrm { A l } ^ { 3 + }$ 以 $\mathrm { A l C l } _ { 3 } { \cdot } 6 \mathrm { H } _ { 2 } \mathrm { O }$ 形式提供，利用稀释的HC1将处理液 $\mathsf { p H }$ 调节至4.5。每天对菊芋叶片正反两面均匀喷洒等量SA溶液，处理7d，进行根系分泌物的收集。所用浓度根据实验室前期预实验所得，试验分组如表1所示。
+
+表1试验处理分组情况  
+Table1 Grouping of experimental treatments   
+
+<html><body><table><tr><td>试验编号 Experiment number</td><td>试验处理Experimental treatment</td></tr><tr><td>T0</td><td>完全营养液 Complete nutrient solution (CNS)</td></tr><tr><td>T1</td><td>完全营养液+500 μmol·L'1 AI3+ CNS+500 μmol·L'1 Al3+</td></tr><tr><td>T2</td><td>完全营养液+500 μmol·L Al++10 μmol·L SA CNS+500 μmol·L Al3++10 μmol·L SA</td></tr><tr><td>T3</td><td>完全营养液+500 μmol·L Al++100 μmol·L1 SA CNS+500 μmol·L1 Al++100 μmol·L SA</td></tr><tr><td>T4</td><td>完全营养液+500 μmol·L'1 Al++1000 μmol·L' SA CNS+500 μmol·L' AI++1000 μmol·L SA</td></tr></table></body></html>
+
+根系分泌物收集：挑选健康完整的菊芋根系用蒸馏水进行冲洗3\~4次，然后用滤纸将残留水吸干，同一处理每三株菊芋幼苗放入装有 $2 0 0 \mathrm { m L 0 . 5 m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 溶液的烧杯中，使根系完全浸入，用锡纸包裹烧杯底部避光，光照下收集 $6 \mathrm { ~ h ~ }$ ，取出用 $1 0 0 ~ \mathrm { m L }$ 去离子水清洗根系，共得 $3 0 0 ~ \mathrm { m L }$ 根系分泌物，最后在 $4 0 ~ ^ { \circ } \mathrm { C }$ 的旋转蒸发仪下浓缩至 $2 5 ~ \mathrm { m L }$ ，将浓缩液过$0 . 4 5 \mu \mathrm { m }$ 水系滤膜后，保存至 ${ \boldsymbol { - 2 0 } } \ { \boldsymbol { \circ } } { \boldsymbol { \mathrm { C } } }$ 待用测定各项指标。
+
+粗酶液制取：称取植物 $2 \mathrm { c m }$ 根尖 $\boldsymbol { 0 . 1 \mathrm { g } }$ ，置于 $4 ^ { \circ } \mathrm { C }$ 冰浴的研钵中以 $1 ~ \mathrm { m L }$ 提取液研磨成匀浆，提取液包含 $1 0 0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ Tris-HCl buffer $\mathrm { ( p H ~ 8 . 0 ) }$ ， $0 . 1 \%$ (V/V) Triton X-100（曲拉通-100)， $2 \%$ (W/V)PVP(聚乙烯基吡咯烷酮)， $1 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 异抗坏血酸，以冷冻离心机在 $4 ^ { \circ } \mathrm { C }$ 下 $1 5 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 离心 $5 \mathrm { m i n }$ ，上清液用于酶活测定(Chen et al.,2009)。
+
+# 1.3指标测定
+
+采用酸性芘三酮显色法测定脯氨酸含量(李小芳和张志良，2016)。采用高效液相色谱法(HPLC)进行测定柠檬酸、草酸、苹果酸和氨基酸浓度(王玉云等，2011)。柠檬酸合酶活性测定：取 $2 0 { \mu \mathrm { L } }$ 粗酶提取液加入 $1 \mathrm { m L }$ 柠檬酸合酶反应液[ $1 0 0 \mathrm { m m o l { \cdot } L ^ { - 1 } }$ Tris-HCl buffer $\left( \mathrm { p H 8 . 0 } \right)$ ，$5 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 氯化镁， $0 . 5 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ DTNB， $0 . 1 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 乙酰辅酶 A，再加 $4 ~ { \mathrm { m m o l } } { \cdot } \mathrm { L } ^ { - 1 }$ 草酰乙酸混合，DTNB 注意避光]。通过在 $4 1 2 { \mathrm { n m } }$ 处吸光值变化率测定，每隔 $3 0 ~ \mathrm { s }$ 测定一次吸光度，记录其变化，时间为 $3 ~ \mathrm { m i n }$ (Lietal.,200O)。苹果酸脱氢酶活性测定：取 $2 0 ~ \mu \mathrm { L }$ 粗酶提取液加入 $1 { \mathrm { ~ m L ~ } }$ 苹果酸合酶反应液 $( 1 0 0 \mathrm { \ m m o l { \cdot } L ^ { - 1 } \ p H \ 8 . 0 }$ Tris-HCl buffer， $0 . 5 \mathrm { \ m m o l { \cdot } L } ^ { - 1 }$ EDTA- ${ \bf \cdot N a } _ { 2 }$ ， $0 . 2 \ \mathrm { m m o l { \cdot } L ^ { - 1 } N A D H }$ ， $7 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { K C l } )$ ，再加入 $1 \mathrm { m L } 1 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 草酰乙酸启动反应。混匀后立即计时，每隔30s在 $3 4 0 \mathrm { n m }$ 下测定1次吸光度，共测 $3 \mathrm { m i n }$ ，以NADH的增加或减少作为评价标准(Johnson etal.,1994)。
+
+# 1.4数据处理
+
+所有测定均设3次重复，计算平均值和标准误差，数据处理采用SPSS22.0软件中的Duncan 法进行显著性差异分析，用Origin8.5软件制图。
+
+# 2结果与分析
+
+# 2.1外源SA对铝胁迫下菊芋根系分泌物中柠檬酸浓度的影响
+
+从图1可以看出，单铝处理组(T1)中，南京菊芋根系分泌物的柠檬酸浓度显著增加，提升了2.78倍 $( P { < } 0 . 0 5 )$ ，而资阳菊芋中柠檬酸浓度升高不明显，只有 $1 4 . 7 8 \% ( P { > } 0 . 0 5 )$ ，这显示出2个菊芋品种经铝胁迫处理后根系分泌物中柠檬酸浓度响应存在差异。2个品种的柠檬酸浓度都随着 SA浓度的增大而不断升高，其中南京菊芋T4与T1相比，上升幅度达3.32倍（204号 $( P { < } 0 . 0 5 )$ ，资阳菊芋T4与T1相比，上升幅度达6.63倍 $( P { < } 0 . 0 5 )$ ，说明SA能够改变菊芋根系分泌物中柠檬酸浓度来应对铝的胁迫，而且对敏感型资阳菊芋的缓解效果更加明显。
+
+![](images/27a405c3e6effdc9bd4fa797366d763ae411a01df85541b1f9172bf2e4cea8fe.jpg)  
+图1外源SA对铝胁迫下菊芋根系分泌物中柠檬酸浓度的影响
+
+具体组别介绍见表1。大写字母表示资阳菊芋同一指标在不同处理组之间的差异显著，小写字母表示南京 菊芋同一指标在不同处理之间的差异显著 $( P < 0 . 0 5 )$ 。测定值以平均值 $\pm$ 标准误表示。下同。 See Table1 for detailed groups introduction. Capital lettrs show that the same index of Ziyang Helianthus tuberous has significant differences between different treatment groups,and lower case leters show that the same index of Nanjing H. tuberous has significant differences between different treatmentse $( P { < } 0 . 0 5 )$ .The measured value was expressed as mean±standard error. The same below.
+
+Fig.1 Efects of exogenous SA on Helianthus tuberous citric acid concentrations in root exudates under aluminum stress
+
+# 2.2外源SA对铝胁迫下菊芋根系分泌物中草酸浓度的影响
+
+从图2 可以看出，单铝处理(T1)下显著增加了菊芋根系分泌物中的草酸浓度 $( P { < } 0 . 0 5 )$ 。不同浓度的外源SA处理后，南京菊芋的草酸浓度随着水杨酸浓度的不断增大而升高，最大值出现在SA 浓度为 $1 0 0 0 \mu \mathrm { m o l { \cdot } L ^ { - 1 } ( T 4 ) }$ 时，相比T1增长了 $1 9 2 . 6 9 \% ( P { < } 0 . 0 5 )$ ，而资阳菊芋中草酸含量在 $1 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 外源 SA 处理(T3)时达到最大值，增加了2.44 倍 $( P { < } 0 . 0 5 )$ 。1000$\mathsf { \mu } _ { \mathrm { | m o l \cdot L } } ^ { - 1 }$ 外源 SA 处理时其草酸含量显著低于 $\mathrm { T } 1 ( P { < } 0 . 0 5 )$ ，这可能是由于SA 浓度过高对菊芋根系分泌草酸产生抑制作用。
+
+![](images/0fbd7343ad1415f60b75116b69099dfb802097f436c0fcd2ede1d6cfc9a2f786.jpg)  
+图2 外源 SA对铝胁迫下菊芋根系分泌物中草酸浓度的影响Fig.2 Effects of exogenous SA on Helianthus tuberous oxalic acid concentrations in root exudatesunder aluminum stress
+
+# 2.3外源SA对铝胁迫下菊芋根系分泌物中苹果酸浓度的影响
+
+如图3所示，单铝处理(T1)时，南京菊芋和资阳菊芋根系分泌物中苹果酸浓度与空白组相比并无明显变化。外源SA处理后，南京菊芋在 $1 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 的外源SA加入时达到最大值，苹果酸浓度为T1时的2.15倍 $( P { < } 0 . 0 5 )$ ，资阳菊芋也在此浓度达到最大值，但上升程度不明显 $( P { > } 0 . 0 5 )$ 。
+
+![](images/bb8d8ec45050299003ee8768a7a7e14565d8623e68d92200853a399182f53c17.jpg)  
+图3外源SA对铝胁迫下菊芋根系分泌物中苹果酸浓度的影响 Fig.3 Effects of exogenous SA on Helianthus tuberous malic acid concentrations in root exudates under aluminum stress
+
+# 2.4外源SA对铝胁迫下菊芋根尖柠檬酸合酶及苹果酸脱氢酶活性的影响
+
+由表2 可知，在对照组(TO)中南京菊芋根尖柠檬酸合酶和苹果酸脱氢酶活性都显著低于资阳菊芋 $( P { < } 0 . 0 5 )$ 。在单铝处理组(T1)中，菊芋根尖中柠檬酸合酶活性得到提升。10、100、$1 0 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { S } \mathrm { A }$ 1的加入可不同程度地提升菊芋根尖中柠檬酸合酶活性，但在资阳菊芋中仅高浓度 SA(T4)处理后其活性发生明显升高 $( P { < } 0 . 0 5 )$ 。南京菊芋在 $1 0 \mu \mathrm { m o l { \cdot } L } ^ { - 1 } \mathrm { S A }$ 加入时达到柠檬酸合酶活性最大值，与T1组相比上升了1.46倍 $( P { < } 0 . 0 5 )$ 。与单铝处理组相比，不同浓度外源SA加入后对南京菊芋根尖中苹果酸脱氢酶活性影响不大，且显著降低了资阳菊芋根尖中苹果酸脱氢酶活性，最低值(T4)与最高值(T1)相比下降 $5 3 . 1 9 \% ( P < 0 . 0 5 )$ 。
+
+# 表2外源SA对铝胁迫下菊芋根尖苹果酸脱氢酶和柠檬酸合酶活性的影响
+
+Table2 Effects of exogenous SA on Helianthus tuberous malic dehydrogenase and citrate synthase activities in root tip under aluminum stress   
+
+<html><body><table><tr><td>酶活 Enzyme activity</td><td>组别 Group</td><td>南京 Nanjing</td><td>资阳 Ziyang</td></tr><tr><td rowspan="3">柠檬酸合酶活性</td><td>T0</td><td>0.20±0.02d</td><td>0.75±0.03b</td></tr><tr><td>T1</td><td>0.26±0.04c</td><td>0.83±0.06b</td></tr><tr><td>T2</td><td>0.64±0.01a</td><td>0.82±0.06b</td></tr><tr><td rowspan="3">activity(U·g1·min-1)</td><td>T3</td><td>0.45±0.01b</td><td>0.86±0.08b</td></tr><tr><td>T4</td><td>0.44±0.01b</td><td>1.00±0.06a</td></tr><tr><td>T0</td><td>0.07±0.02a</td><td>0.23±0.01b</td></tr><tr><td>苹果酸脱氢酶活性</td><td>T1</td><td>0.10±0.02a</td><td>0.47±0.01a</td></tr><tr><td rowspan="3">Malate dehydrogenase activity(U·g1·min-1)</td><td>T2</td><td>0.10±0.01a</td><td>0.44±0.01a</td></tr><tr><td>T3</td><td>0.11±0.02a</td><td>0.39±0.02ab</td></tr><tr><td>T4</td><td>0.12±0.01a</td><td>0.22±0.01b</td></tr></table></body></html>
+
+注：不同小写字母表示显著性差异 $( P < 0 . 0 5 )$ 。Note:Differentlowercase letters indicate significant differences $( P < 0 . 0 5 )$ =
+
+# 2.5外源SA对铝胁迫下菊芋根系分泌物中脯氨酸含量的影响
+
+如图4所示，在单铝胁迫T1组中，南京菊芋和资阳菊芋根系分泌物脯氨酸含量均显著提升，分别升高了 $3 . 7 9 \%$ 和 $3 . 0 8 \% ( P { < } 0 . 0 5 )$ 。菊芋在加入不同浓度外源SA后，根系分泌物中脯氨酸含量与T1相比呈显著性下降趋势 $( P { < } 0 . 0 5 )$ 。南京菊芋下降最大为SA浓度 $1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ (T3)时，降低了 $5 . 1 1 \% ( P { < } 0 . 0 5 )$ ，而资阳菊芋在SA浓度为 $1 \ 0 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ (T4)时脯氨酸含量下降了 $4 . 4 8 \% ( P { < } 0 . 0 5 )$ 。
+
+![](images/a81c539e2e1c96ed96f29a860c776c9e4d710f0d963ebd6b08073a8a655e3489.jpg)  
+图4外源SA对铝胁迫下菊芋根系分泌物中脯氨酸含量的影响 Fig.4 Effects of exogenous SA on Helianthus tuberous proline contents in root exudates under aluminum stress
+
+# 2.6外源SA对铝胁迫下菊芋根系分泌物中氨基酸浓度的影响
+
+在单铝处理组(T1)中，南京菊芋和资阳菊芋根系分泌物中总氨基酸浓度在铝处理下均大幅度下降，可见 $5 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 铝离子浓度下氨基酸分泌会受阻，其中南京菊芋根系分泌物中氨基酸浓度降低显著，下降了 $8 9 . 5 9 \% ( P { < } 0 . 0 5 )$ 。南京菊芋的总氨基酸浓度在外源SA加入后呈现增加的趋势，高浓度 $( 1 0 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } .$ )SA 的加入使南京菊芋根系分泌物中总氨基酸浓度升高显著 $( P { < } 0 . 0 5 )$ ，资阳菊芋根系分泌物中总氨基酸浓度变化趋势与南京菊芋相反，低浓度（204号 $( 1 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } )$ SA使资阳菊芋根系分泌物中总氨基酸浓度显著高于T1且达到缓解的最高水平$( P { < } 0 . 0 5 )$ 。
+
+![](images/3a06c5f3ce90b3f9ed8e9211332553cebc233229608c3ec01da9849b95f317e6.jpg)  
+图5外源SA对铝胁迫下菊芋根系分泌物中氨基酸浓度的影响 Fig.5 Effects of exogenous SA on Helianthus tuberous amino acid concentrations in root exudates
+
+# under aluminum stress
+
+# 3讨论与结论
+
+曾有研究指出，在铝胁迫下植物根系分泌的柠檬酸、草酸、苹果酸等与铝胁迫浓度显著正相关(钱莲文等，2018)。铝胁迫处理对植物根系分泌柠檬酸的探究阐明，铝胁迫会使大豆(Glycinemax)(徐跃滋，2015)、栝楼(Trichosanthes kirilowii)(高培培，2013)分泌的柠檬酸增多，我们的试验也检测到了这一指标的变化，并且发现若适当增加SA含量，根系分泌物中有机酸及根尖相关代谢酶发生利于植物生长的变化。与单铝组(T1)相比，当施加10、100、1$0 0 0 \mu \mathrm { m o l { \cdot } L } ^ { - 1 } \mathrm { S A }$ 时，柠檬酸含量随缓解浓度的升高呈显著上升趋势，这表明了外源SA调节了菊芋根系对柠檬酸的合成代谢。另外，在探究外源SA对铝胁迫下菊芋根系分泌草酸含量的变化时，我们得到草酸在两地菊芋中有不同的表现：耐铝性强的南京菊芋随外源 SA的加入，其草酸分泌量不断增加，并且随浓度的增加而上升，而铝敏感型的资阳菊芋却呈现出“低促高抑”的现象，过高浓度的 SA可能对菊芋耐铝调节起不到正向作用，这与刘宁(2011)研究水杨酸对大豆耐铝性调控机制的结论一致，其发现低浓度( ${ \mathrm { ~  ~ \omega ~ } } _ { \mathrm { { I 0 } \ u m o l \cdot L } } { } ^ { \mathrm { { - 1 } } } $ SA处理大豆能显著缓解Al对根伸长的抑制，降低Al在根尖中的积累，SA浓度过高不仅不能缓解铝毒，反而还会造成双重胁迫。因此，认为单铝胁迫下菊芋根系三种有机酸的迅速增加有利于减少铝离子对根尖的伤害，外源施加的SA调节了菊芋根系有机酸及相关代谢酶对铝胁迫的响应，最终表现在植物体中有机酸不断积累，以达到缓解铝胁迫的目的，这与孔令楠(2013)所研究的铝胁迫下过氧化氢对大豆耐铝性调控及其与水杨酸信号互作关系结果一致。施加一定浓度外源 SA后可缓解菊芋在铝胁迫下造成的损害，它可能通过影响相应酶，对有机酸的分泌代谢产生影响，从而引起植株体内有机酸浓度的变化，增强菊芋的耐铝性。另外,Ma etal.(2001)发现耐铝小麦在铝胁迫下根尖分泌的苹果酸比敏感品种多5\~10 倍。Ryan et al.(1995)通过对36 个品种小麦进行相同程度的铝处理，证明了根尖有机酸分泌量与其耐铝性呈正相关性。在2个菊芋品种对比中我们得到铝胁迫下南京菊芋根尖有机酸分泌量均大于资阳菊芋，可知耐铝性菊芋可分泌更多的有机酸来应对不良条件。
+
+柠檬酸合酶和苹果酸脱氢酶是与生物代谢相关的两种关键酶(徐爱红等，2020)，前者是调控三羧酸循环(tricarboxylic acid cycle)的第一步反应，催化乙酰辅酶A 和草酰乙酸形成柠檬酸，而后者可以催化苹果酸与草酰乙酸之间的可逆反应，是TCA循环的重要酶之一。植物个体通过提高CS 酶的表达量来应对逆境条件(张宁宁，2012)，本研究结果显示受铝胁迫后菊芋根系柠檬酸合酶活性有增强变化。外源SA加入后2个菊芋品种的CS酶上升趋势有所不同，南京菊芋需要的SA浓度远低于资阳菊芋，两者的柠檬酸含量在CS 酶的催化作用下总体呈现上升趋势。苹果酸脱氢酶基因的表达量可以提高植物的耐铝能力(Tesfaye et al.,2001;Wang et al.,2010)，说明 MDH活性的强弱直接影响植物的耐铝性。通过探究我们发现铝胁迫与外源SA的处理对资阳菊芋有较大的影响，铝胁迫后其活性较之前有显著性差异而对耐铝性较强的南京菊芋没有显著的影响，可能是耐铝能力强的南京菊芋在遭受铝毒时，其MDH酶活性增强促使根系迅速分泌大量有机酸与 $\mathrm { A l } ^ { 3 + }$ 产生螯合作用，提高了植物的耐铝性。
+
+氨基酸能够提高植物对外界非生物胁迫的适应性，当植物遇到外界胁迫条件时，氨基酸主要通过参与改变植物体内某些生理代谢，或调节相关基因表达和关键酶活性等方式来增强植物对各种逆境的适应性反应(宋奇超等，2012)。在单铝胁迫时菊芋脯氨酸含量均显著增加，这与王丹等(2011)的结缕草抗寒性研究结果一致，表明植物在逆境胁迫下可以通过增加脯氨酸含量来维持自身细胞内外压力平衡。当外源SA加入后，胁迫程度得到一定的缓解，菊芋根系分泌的脯氨酸含量都有所下降，这在大豆试验中也得到证实(刘宁，2011)。铝胁迫下菊芋根系分泌的总氨基酸浓度显著下降，菊芋总氨基酸含量下降的原因之一可能是受到了高浓度的铝胁迫，其根系遭到破坏，从而导致氨基酸分泌量下降；另一种原因可能是铝胁迫对氨基酸内部的不同成分有不同的影响，使细胞内正常游离态氨基酸的数量产生变化，一部分氨基酸增加，另一部分氨基酸减少，总量呈现减少的趋势。加入SA后氨基酸浓度有所上升，但仍达不到正常水平，所以认为在 $5 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 铝胁迫下菊芋主要通过分泌有机酸减弱铝对植物的危害。虽加入SA后氨基酸浓度有所上升，但依旧远小于三种有机酸，因此氨基酸更可能以营养作用为主，解毒只能起到辅助效果，这在铝胁迫下常绿杨根系有机酸和氨基酸的分泌试验中得到印证(钱莲文等，2018)。
+
+综上所述， $\mathrm { A l } ^ { 3 + }$ 胁迫使菊芋根系分泌物中有机酸、氨基酸等指标受到显著影响。铝能诱导菊芋根系分泌有机酸，有机酸的分泌与菊芋抗逆境响应密切相关。施加外源SA后，资阳菊芋中草酸浓度显示出“低促高抑”的效果，除此之外菊芋根系分泌物中柠檬酸、草酸、苹果酸浓度与单铝胁迫下相比有不同程度的增加，其中在南京菊芋组中表现更为明显。在单铝胁迫下，菊芋根系分泌的总氨基酸低于正常环境下的分泌量，外源SA加入后总体呈现上升趋势。综合评价认为一定浓度外源SA加入后可通过根系分泌更多的有机酸缓解铝胁迫，且在耐铝性较强的南京菊芋中缓解效果更好。
+
+# 参考文献：
+
+ARENHARTRA, BAI Y, OLIVEIRA LFV, et al., 2014. New insights into aluminum tolerance in rice: the ASR5 protein binds the STARl promoter and other aluminum-responsive genes[J]. Mol Plant, 7(4): 709-721.   
+ARENHART RA，DELIMA JC，PEDRON M,et al.， 2013． Involvement of ASR genes in aluminium tolerance mechanisms in rice[J].Plant Cell Environ, 36(1): 52-67.   
+CAO L，WU YH, ZHANG Y， 2015. Effects of exogenous salicylic acid on photosynthetic characteristics and aluminum tolerance of Trichosanthes kirilowii under aluminum stress[J]. J Soil Water Conserv,29(4): 260-266.[曹林，吴玉环，章艺，等，2015.外源水杨酸对铝胁 迫下菊芋光合特性及耐铝性的影响[J].水土保持学报，29(4)：260-266.]   
+CHEN LS,TANG N, JIANG HX, et al., 2OO9. Changes in organic acid metabolism difer between roots and leaves of Citrus grandis in response to phosphorus and aluminum interactions[J]. J Plant Physiol, 166(18): 2023-2034.   
+CHEN YB，WANG CH, 2O01. Landslide system monitoring and forecasting[J]. Soil Water Conserv Res,8(2):112-114.[陈永波，王成华，2001.滑坡系统监测及预报[J].水土保持研 究，8(2): 112-114.]   
+DING ZJ, YAN JY, XU XY, et al., 2O13. WRKY46 functions as a transcriptional repressor of ALMTl,regulating aluminum-induced malate secretion in Arabidopsis[J]. Plant J Cell Mol Biol, 76(5): 825-835.   
+GAO PP, 2O13.Regulating mechanism of salicylic acid on aluminum resistance in Trichosanthes kirilowii Maxim.[D]. Jinhua: Zhejiang Normal University.[高培培，2013.水杨酸对栝楼耐 铝性的调控机理研究[D].金华：浙江师范大学.]   
+JOHNSON JF, ALLAN DL， VANCE CP,1994. Phosphorus stressinduced proteoid roots show altered metabolism in Lupinus albus[J]. Plant Physiol, 1O(4): 657-665.   
+KONG LN,2013. The regulation mechanism of hydrogen peroxide on aluminum tolerance of soybean and its interaction with salicylic acid under aluminum stress[D]. Changchun: Jilin University.[孔令楠，2013.铝胁迫下过氧化氢对大豆耐铝性的调控及其与水杨酸信号互 作关系的研究[D].长春：吉林大学.]   
+LI JK,TANG LL,2013. Research advances on the molecular mechanisms of aluminum tolerance
+
+in plants[J].Chin Bull Life Sci,25(6):588-594.[李交昆，唐璐璐，2013.植物抗铝分子机 制研究进展[J].生命科学，25(6)：588-594.]   
+LI XF, MA JF, MATSUMOTO H, 2000. Patern of aluminum-induced secretion of organic acids differs between rye and wheat[J]. Plant Physiol, 123(4): 1537-1543.   
+LI XF, ZHANG ZL,2016. Experimental guidance on plant physiology[M]. 5th ed. Beijing: Higher Education Press.[李小芳，张志良，2016.植物生理学实验指导[M].5版.北京： 高等教育出版社.]   
+LIU N,2011. Regulating mechanism of salicylic acid on aluminum resistance in soybean (Glycine max L.）[D].Changchun:Jilin University.[刘宁，2011.水杨酸对大豆耐铝性的调控机制 [D].长春：吉林大学.]   
+LIU P, LI Y, WEN Q, PAN G, 2015. Mechanism and kinetics of aluminum dissolution during copper sorptionbyacidity paddy soil in South China[J]. J Environ Sci-Chin, 34(8): 100-106.   
+MA JF, RYAN PR, DELHAIZE E, 20O1. Aluminium tolerance in plants and the complexing role of organic acids[J]. Trend Plant Sci, 6(6): 273-278.   
+MA ZB,CHEN RH, HE AB, et al., 2020. Effects of exogenous salicylic acid on physiological responses and ion absorption of wild jujube (Ziziphus jujuba var. spinosa) seedlings under salt stress[J].JNWFor Univ,35(6):103-109.[马志博，陈蕊红，贺傲兵，等，2020．外源 水杨酸对盐胁迫下酸枣幼苗生理特性及离子吸收的影响[J].西北林学院学报，35(6)： 103-109.]   
+OHYAMA Y, ITO H, KOBAYASHI Y, et al.， 2013. Characterization of AtSTOPl orthologous genes in tobacco and other plant species[J]. Plant Physiol, 162(4): 1937-1946.   
+QIAN LW, LI QB, SUN JW, et al., 2O18. The secretion of organic acids and amino acids in roots of evergreen poplar under aluminum stress[J]. J Xiamen Univ (Nat Sci Ed) 263(2): 79-85. [钱莲文，李清彪，孙境蔚，等，2018.铝胁迫下常绿杨根系有机酸和氨基酸的分泌[J]. 厦门大学学报(自然科学版)，263(2)：79-85.]   
+RYAN PR, DELHAIZE E, RANDALL PJ,1995. Malate efflux from root apices and tolerance to aluminium are highly correlated in wheat[J]. Functi Plant Biol, 22(4): 531-536.   
+SHIRAS K, NAKAJIMA H,RAJASHEKAR K, 1997. Salicylic acid potentiates an agonist dependent gain control that amplifies pathogen signal in the activation of defense mechanisms [J]. Plant Cell, 9(2): 261-270.   
+SONG QC, CAO FQ, GONG YY, et al., 2012. Current research progresses of amino acids uptake, transport and their biological roles in higher plants[J]. JPlant Nutr Fert,18(6): 1507-1517. [宋奇超，曹凤秋，巩元勇，等，2012.高等植物氨基酸吸收与转运及生物学功能的研究 进展[J].植物营养与肥料学报，18(6)：1507-1517.]   
+TESFAYE M, TEMPLE SJ, ALLEN DL, et al., 2001. Overexpression of malate dehydrogenase intransgenic alfalfa enhances organic acid synthesis and confer tolerance to aluminum[J]. Plant Physiol, 127(4): 1836-1844.   
+WALL DA，KIEHN FA，FRIESEN GH，1986.Control of Jerusalem artichoke (Helianthus tuberosus) in barley (Hordeum vulgare) [J]. Weed Sci, 34(5): 761-764.   
+WANG D, XUAN JP, GUO HL,et al.， 2011. Seasonal changes of freezing tolerance and its relationship to the contents of carbohydrates, proline, and soluble protein of Zoysia[J]. Acta Pratac Sin,20(4):98-107.[王丹，宣继萍，郭海林，等，2011.结缕草的抗寒性与体内碳 水化合物，脯氨酸，可溶性蛋白季节动态变化的关系[J].草业学报，20(4)：98-107.]   
+WANG N, ZHENG Y， WANG FM, et al.， 2011. Effect of phosphorus on speciation and distribution of aluminum in the roots of buckwheat under aluminum toxicity[J]. J Soil Water Conserv,25(5):168-171.[王宁，郑怡，王芳妹，等，2011.铝毒胁迫下磷对荞麦根系铝 形态和分布的影响[J].水土保持学报，25(5)：168-171.]   
+WANG QF, ZHAO Y, YI Q, et al., 2010. Overexpression of malate dehydrogenase in transgenic tobacco leaves: enhanced malate synthesis and augmented Al-resistance[J].Acta Physiol Plant, 32(6): 1209-1220.   
+WANG YH, WU J, BAI JL, etal.,2O19. Determination and comparison of amino acid content in Tricholoma matsutake from different habitats[J]. Acta Nutr Sin,41(5): 519-520.[王永辉，吴 瑾，白家磊，等，2019.不同产地松茸中氨基酸含量测定及比较[J].营养学报，41(5)： 519-520.]   
+WANG YY, 2011. The influence of Cd stress on roots exudation organie acid and amino acid and Cd content of the diflbrent rice[D]. Chengdu: Sichuan Agricultural University.[王玉云, 2011.Cd 胁迫对不同水稻根系分泌有机酸和氨基酸及根系Cd 含量的影响[D].成都：四 川农业大学.]   
+WYSE DL，YOUNG FL， JONES RJ，1986. Influence of Jerusalem artichoke (Helianthus tuberosus) density and duration of interference on soybean (Glycine max) growth and yield[J]. Weed Sci, 34(2): 243-247.   
+XU AH, XU CS,LIU LX,et al.， 2020. The effects of pollination varieties on organic acid accumulation and key enzyme activities of metabolism in ‘Red Fuji' apple fruit[J]. J Plant Physiol,56(9):1955-1962.[徐爱红，徐臣善，刘丽霞，等，2020.授粉品种对‘红富士' 苹果果实有机酸积累和代谢关键酶活性的影响[J].植物生理学报，56(9)：1955-1962.]   
+XU YZ,2O15.The expresson of soybean NADP-ME gene and its relationship with citrate efflux under aluminum stress[D].Changchun:Jilin University.[徐跃滋，2015.铝胁迫下大豆 NADP-ME 基因表达及与柠檬酸分泌的关系[D].长春：吉林大学.]   
+ZHANG NN, 2012. Physiological responses and citrate synthase mechanism of Sinapis alba under drought stress[D]. Zhengzhou: Zhengzhou University.[张宁宁，2012.干旱条件下白芥的生 理差异与柠檬酸合酶表达研究[D].郑州：郑州大学.]   
+ZHANG X, LONG Y, HUANG J, 2019. Molecular mechanisms for coping with Al toxicity in plants[J]. Int J Mol Sci, 20(7): 1551.

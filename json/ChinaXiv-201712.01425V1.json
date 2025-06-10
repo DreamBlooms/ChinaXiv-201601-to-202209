@@ -1,0 +1,548 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM技术的变曲率弧形管道预制与拼装",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王齐兴 贾张琴",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（陕西建工第一建设集团有限公司安装公司，西安710077）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】近年来随着国内居民生活水平的提高,越来越多的建筑设计师们追求造型新颖的弧形结构方式。而对于弧形建筑内的变曲率弧形钢管管道的施工质量、施工效率、观感质量等方面的问题一直以来饱受业界单位的关注。随着建筑业BIM技术应用的推广与迅猛发展,我们利用BIM技术与物联网技术相结合,总结形成了一套基于BIM技术的变曲率弧形管道工厂化预制,现场扫码快速定位拼装的施工工艺,该技术具有定位精准、成型效果好、施工质量可靠、提升工效、降低施工成本等特点,适用于建筑物外观造型复杂,管路走向受楼体形状限制,公称直径$\\phantom { + } 2 0 0 \\mathrm { m m }$ 以下的变曲率弧形钢管管道的施工,通过在相关工程中的实际应用取得了良好的效果和一定的经济效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】BIM；物联网；物料追踪；变曲率弧形管道；预制拼装",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)03-0079-06   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.14 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一基于BIM技术的变曲率弧形管道预制与拼装技术,是融合了BIM 技术、物联网技术、物料追踪技术及机电工厂化预制等,结合工程项目特点,与项日施工管理紧密结合以后产生的一种新型机电干线户型管道施工技术，该技术具有定位精准、成型效果好、施工质量可靠、提升工效、降低施工成本等特点，适用于建筑物外观造型复杂，管路走向受楼体形状限制，公称直径 $2 0 0 \\mathrm { m m }$ 以下的变曲率弧形钢管管道的施工，可确保施工质量一次成优，施工效率大幅提升，实现材料零浪费，也使得项目管理人员可根据各楼层材料用量，提前将各类所需材料精准分类配送至各相应楼层变成可能，以缓解高层、特别是超高层建筑普遍面临的垂直运输压力问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于BIM技术的变曲率弧形管道预制拼装与技术，具有定位精准、成型效果好、节约成本、施工",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "质量可靠、观感良好等特点，具体如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 定位精确 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用BIM技术建模，精确定位变曲率弧形管段安装位置、标高、曲率半径、管段长度等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2 成型效果好",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工厂化集中预制管段可保证同一位置管道的弯曲弧度基本保持一致，成型效果良好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.3 节约成本",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与传统的人工现场加工相比，工厂化集中预制能够统一切管、压槽等工序，并采用计算机自动控制技术，弯曲率统一、成型效果好，特别是在镀锌管道的预制上省去了二次镀锌的工序，很大程度上节约了人工、材料成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.4施工质量可靠、观感良好",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据管段信息二维码及定位码二维码实现现场快速组装，提高安装效率的同时，安装质量大幅度提高，达到快速、经济、可靠的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3技术原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结合设计施工蓝图进行BIM三维精准建模，现场放样校核三维模型后，按BIM模型创建变曲率弧形管段加工料单。加工厂根据加工料单，进行工厂化大批量集中预制加工，实现模型指导工厂预制。对预制加工完成后的预制管段进行二维码编码，精确定位，使得变曲率弧形管道现场能够快速组装，达到施工质量高、生产效率快、观感效果好的目的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 实施流程及操作要点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实施流程，如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9adada394087115c103835bdbaeb2a356bc40b7645f716d29cb9e8257c8cef6.jpg",
+        "img_caption": [
+            "图1实施流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 操作要点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2. 1 BIM建模 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)BIM技术应用的基础是高精度的三维模型。机电管线安装时，一般建筑结构已施工完成，因此通过现场放样的方式对BIM建筑模型进行验证校核，以确保BIM模型的高精度；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)在高精度的建筑BIM模型中，对所有涉及弧形管道的部位进行BIM管线综合布置（如图2所示），根据变曲率弧形管道三维排布图进行管线拟合，确定变曲率弧形弯管各个曲率半径(如图3所示)；",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4ef3336b9e802029a7d0c9c135ab6053f51afd179b0c7102ff42e90f2e19b65.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/318457c26e58e2f01e7a070a7d465531f521335eaefa6e7ccb240e2fbcf5c35d.jpg",
+        "img_caption": [
+            "图3变曲率管线曲率半径拟合"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b911a69739f5e1ffa91eda49b7b9f04956878e90d0a2fb4650dec9460410545c.jpg",
+        "img_caption": [
+            "图2变曲率弧形管道BIM三维排布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)根据变曲率管线曲率半径拟合图，以曲率半径结合管段长度，划分各个弧形管段加工尺寸排布图（图4所示），并编制加工料单（图5所示）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95861289f6dd157f092a808eccb26085e230c04764e9b5e6087651c78a2edea6.jpg",
+        "img_caption": [
+            "图4管段加工尺寸排布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/75954051d3cdbdb1cf4eb695d52f0705570c17e63f8a1508cb647763ad853ebb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>弧长(L)</td><td>半径</td><td>材料</td><td>详图</td></tr><tr><td></td><td>L=4700</td><td>R=6075</td><td>DN150加厚镀锌钢管</td><td>4700</td></tr><tr><td></td><td>L=3210</td><td></td><td>R=17087DN150加厚镀锌钢管</td><td>3210</td></tr><tr><td></td><td>L-6000</td><td></td><td>R=79896DN150加厚镀锌钢管</td><td>6000</td></tr><tr><td></td><td>L=5900</td><td></td><td>R=79896DN150加厚镀锌钢管</td><td>5900</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工厂化集中加工预制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)工厂化预制采用计算机自动控制电动弯管机械进行加工。将BIM深化设计的变曲率弧形管道信息导入计算机系统，来控制管段的弯曲弧度（如图6所示）；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)需要煨弯的管道在煨弯之前应完成压槽、坡口等工序，煨弯时在管段两端各预留20公分的直线段，保护管口的同时也保证了后期安装时管道对口平齐;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)电动弯管机由计算机自动控制电动机（如图7所示），通过传动装置，带动主轴及固定在主轴上的弯管模具转动进行煨弯。煨弯时，根据煨弯管道的规格选择合适的模具，把要弯曲的管子沿导向模具放在弯管模具和压紧模具之间，调整导向模具，使管子处于弯管模具和压紧模具的公切线位置，然后起动电源开始煨弯。因钢管存在一定程度的弹性形变，因此弯曲管道需要反复煨制，直至达到所需弯曲弧度后停车；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)弯管时，弯头里侧的金属被压缩，管壁变厚；弯头背面的金属被拉伸、管壁变薄；弯曲半径越小，弯头背面管壁减薄就越严重，对背部强度的影响就越大。为了使管子弯曲后不致对原有的工作性能有过大改变，一般规定管子弯曲后，管壁减薄率不得超过 $1 5 \\%$ 。管壁减薄率可按下式进行计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA \\ = \\ \\left[ \\begin{array} { l }  1 \\ - \\frac { R } { R \\ + \\frac { D _ { \\scriptscriptstyle _ { W } } } { 2 } } \\right] \\times 1 0 0 \\% \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上式中A——管子弯曲后外侧母线处管壁的减薄率 $( \\% )$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { D } _ { \\mathrm { w } }$ 管子外径 $\\left( { \\bf m } { \\bf m } \\right)$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cbecdc646e62950e82da3a12e11d07b1e89511e0f5dc876f44708166843f898.jpg",
+        "img_caption": [
+            "图5弧形管段加工样表",
+            "图6工厂化断管、焊接"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "R——弯管的弯曲半径(mm)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/964993c27ccae1063fe6a45ae8e07f71742a7bb28a7a5a8f66a32f8b5c0ad814.jpg",
+        "img_caption": [
+            "图7电动弯管机原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1-管子2-弯管模3-U型管卡4-导向模5-压紧模 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "弯管时，由于管子弯曲段内外侧管壁厚度的变化，还使得弯曲段截面由原来的圆形变成了椭圆形 弯管断面形状的改变,会使管子的过流断面面积减小,从而增加流体阻力，同时还会降低管子承受内压力的能力,因此,一般对弯管的椭圆率做以下规定：管径小于或等于 $1 5 0 \\mathrm { m m }$ 时，椭圆率不得大于 $1 0 \\%$ ；管径小于或等于 $2 0 0 \\mathrm { { m m } }$ 时，椭圆率不得大于 $8 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "管道的椭圆率可按下式进行计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\frac { d _ { 1 } - d _ { 2 } } { d _ { 1 } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中T- 椭圆率 $( \\% )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d -最大椭圆变形处的长径( $( \\mathbf { m } \\mathbf { m } )$ ；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\bf d } _ { 2 }$ —最大椭圆变形处的短径( $( \\mathbf { m } \\mathbf { m } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)过程检验曲率弧度。在整个管道煨弯过程中，需不间断进行弧度检查，校核各煨弯点是否满足尺寸要求，如不满足，继续进行煨弯操作;",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/438847c272951db4c700e6fc623eb3904f81f95f508616df1f344de3116cee8f.jpg",
+        "img_caption": [
+            "图8加工合格件的二维码编码"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6)弯管加工时对接焊口应在距顶弯点大于等于管径的位置，焊接管的焊缝应避开受控（压）区；在弯制时要注意每根连接管口要预留一定的距离，防止连接管焊口、槽口、卡位产生的偏离过大，不能满足要求，保证在每根将要弯制的管两边预留满足连接管件安装位置的距离；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)管段材料编码。对曲率弧度检验合格的加工件，根据加工编号进行二维码信息编码及二维码定位编码（如图8、9所示）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 现场装配安装",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "施工现场按施工图纸核对预制件信息二维码及定位二维码后，在规定部位装配预制件，大大减少了现场的工作量和施工对现场环境的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 效益分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 1 经济效益",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 操作简单快捷，有助于提高效率、缩短工期",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "机械弯管技术其弯管的质量和效果完全取决于弯管机规格和管材的质量，当两者得到保证的前提下，弯管机可实现全天候持续高水平作业，而传统的现场人工顶弯法的弯管质量取决于管材质量和人工技术水平，而人工技术水平有较大的波动性，而且受到多方面因素的制约，所以相同规模的管材弯曲，应用机械弯曲技术其应用的时间和实际产生的效果会明显优于传统现场人工顶弯法。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dd1eb91eef200381baca05d19e990f1cb9630d3a5ee0d78d88ccae54627f5a2.jpg",
+        "img_caption": [
+            "图9移动终端检查弧形管段信息"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b8cf1ed84274199a2a9f6bee03f5e0376ce9f22bda85230511fb796ee7e5cc0.jpg",
+        "img_caption": [
+            "图10 安装完成效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经测算：利用BIM技术对公共走廊弧形管线进行定尺煨弯,现场快速组装,比原工期缩短,比原工期缩短45天。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 节省人工、压缩成本传统人工现场顶弯法其施工完全依赖于人工,弯管量越多，所需要的人工数量也会随之增多，而人工的增多必然导致生产成本的上涨，但工厂化集中机械弯管，其施工完全依赖于弯管机,人工主要负责开关的控制，所以并不会因为弯管数量的增多而导致人工规模的增大，而弯管数量的增多会提升弯管机的使用率,使弯管机的使用价值提升,这是缩减成本，创造经济价值的体现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以我司施工的延长石油科研中心项目为例，经过长时间的收集、积累进行了经济效益的分析如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该工程在变曲率弧形管道共计 $1 3 ~ 8 0 0 \\mathrm { m }$ ，经过分析计算，如采用现场煨弯的方案，DN80以上的镀锌管道冷煨弯容易变形，采用热煨弯后需二次镀锌，根据我方测算：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人工费：1150工日（其中4人 $1 2 \\mathrm m$ 工日） $\\times 4$ 人 $\\times 2 0 0$ 元/工日（陕西省西安市人工市场价） $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 920 000 元;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "材料费：256000元（煨弯报废材料 $^ +$ 浪费材料 $^ +$ 二次镀锌）;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "机械费：76800元（热煨弯设备）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "合计：12528000元。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按照我方与预制工厂签订的合同，加工费用（人工 $^ +$ 机械）为188461元，合计节约费用：12339539元。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 社会效益",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 管道弯曲弧度均匀、美观 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "工厂化集中加工均采用电动机械弯管形式。机械弯管所产生的外力均匀，在管道材质优良的情况下，大批量的弯曲后，所有管道的弯曲弧度基本保持一致，而传统的现场人工顶弯法，由于施工人员的弯曲工艺、个人身体素质、对弯曲设备的使用水平等方面存在较大的差异，所以即使同一批管材在弯曲后其弧度、整体美观程度等也存在较大的区别,将不同弯曲程度的弧形管道在实际施工中应用，其不仅美观度差强人意，而且在安装安全性上也很难得到保证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.2应用BIM三维精准建模，现场放样校核三维模型后，按BIM模型创建变曲率弧形管段加工料单",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加工厂根据加工料单，进行工厂化大批量集中预制加工，实现模型指导工厂化预制。对预制加工完成后的预制管段进行二维码编码，精确定位，使得变曲率弧形管道现场能够快速组装，达到施工质量高、生产效率快、观感效果好的目的。是现阶段建筑业大力推行的BIM技术和工业化建筑的结合，也是一个契机点，体现了我司在先进的管理水平和施工能力达到了领先水平，并受到业主的一致好评，使得公司在社会上的声誉得到了很好的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 应用实例",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1 延长石油科研中心项目",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该项目建筑面积21.7万 $\\mathbf { m } ^ { 2 }$ ,集科研、办公、会议与一体的综合性建筑，塔楼地上部分公共走廊为变曲率弧形走廊,其中有变曲率弧形管道 $1 3 ~ 8 0 0 \\mathrm { m }$ 全部应用本工法的做法，取得了良好的效果，2015年将该成果整理成优秀QC成果在2016年4月予以发表，取得了优异的成绩。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 铜川创业孵化大厦项目",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该项目建筑面积 $7 4 \\ 6 5 3 \\mathrm { m } ^ { 2 }$ ,综合性写字楼，地上部分公共走廊采用弧形设计，变曲率弧形管道共计3000余 $\\mathrm { ~ m ~ }$ ,全部采用本工法的做法，效果良好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "焦柯，杨远丰,周凯旋,等.基于BIM的全过程结构设计",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "方法研究[J].土木建筑工程信息技术，2015，7（5)：1-7.  \n[2」方速昌，张世宏，叶强，等.基于BIM技术的超大弧度大管径管道制作与安装施工技术[J].施工技术，2016，45(S2):566-570.  \n［3］李云贵，何关培，邱奎宁，等.建筑工程施工BIM应用指南(第二版)[M].中国建筑工业出版社，2017.3.  \n［4］建筑给水排水及采暖工程施工质量验收规范（GB50242-2002)[M].中国建筑工业出版社.  \n[5］通风与空调工程施工质量验收规范(GB50243-2016）[M]．中国建筑工业出版社.  \n［6］石韵，刘军生，韩大富，等.BIM技术在某超高层项目施工中的应用研究[J].土木建筑工程信息技术，2015，7(3):67-70.  \n[7」胡振中，陈祥祥，王亮，等.基于BIM的机电设备智能管理系统[J].土木建筑工程信息技术，2013，5（1）：17-21.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Arc Piping Prefabrication and Assembling with Variable Curvature Base on the BIM Technology ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wang Qixing， Jia Zhangqin (Installation Company of the First Building of Shaanxi Construction Engineering Group Co.,Ltd.，Xi'an 710077，China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CAbstract:Recently，with the improving domestic residential living standard，increasing numbers of architectural designers are pursuing the arc structural mode to make the building standout of the background.However,for the construction of the variably curved steel pipes in such curvedbuildings，its construction quality，constructive efficiencyand visual quality areallproblems widelyconcerned bythe industryunits.With the rapid promotion and popularity of the BIM industry，byutilizing the BIMand Internet technology，we summarizes a setof the variably curved stel pipe construction workshopof prefabricating of-site and code-based fast positioning and assembling onsite，which is wel-erformed in positioning，molding，construction quality，efficiency improving and construction cost reduction.The construction workshop is especially suitable for the construction of buildings with complex appearance style，pipelines restricted by the building shape，or curved pipes with nominal diameter under $2 0 \\mathrm { m m }$ Applications in related construction projects has proven that the workshop is eficient and economicall benefit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；Internet of Things；Material Tracking；Variable Curvature of Curved Pipes；Prestressed Assembly ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,156 @@
+# 软土地区深大基坑工程施工监测分析技术研究
+
+徐菁
+
+（上海市普陀区建筑业管理中心，上海200333)
+
+【摘要】软土地区深大基坑施工对周边环境的影响机理十分复杂。以软土地区深大基坑工程为背景，采用现场监测的方法,探索了软土地区深大基坑工程施工对基坑周围环境的扰动影响,研究了深大基坑开挖过程中基坑的变形、支撑轴力以及基坑周围孔隙水压力随开挖的变化规律。研究表明：由于基坑开挖引起的应力释放,使基坑底部土体隆起,诱发基坑周围土体向基坑方向松动；地表竖向位移叠加效果随着开挖深度的增加而减小,最大竖向位移的位置在两基坑的中间处，随着施工的持续，其对地下连续墙的影响基本消失；孔隙水压力随时间增长急剧减小,此后一直保持稳定。研究成果可为今后此类施工提供理论依据和前期指导。
+
+关键词】软土地区；深大基坑；施工监测；地表沉降；孔隙水压力
+
+【中图分类号】TU4；TU7 【文献标识码】A 【文章编号】1674-7461(2017)05-0084-06   
+【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.15
+
+#
+
+>随着我国城市化进程的不断加快，基础建设事业得以飞速发展，加之城市人口数量不断增长，城市土地的使用价格愈来愈高，因此，高层甚至超高层建筑、地下轨道交通工程、大型过街通道等工程雨后春笋般在大中城市出现。为了保证此类建(构)筑物的抗震、抗压与抗风的要求、确保建(构)筑物的运营安全，使得基坑工程由之前的常规深度逐步朝深大基坑方向不断发展[14] 。
+
+由于基坑设计理论还不够全面、地表地层的变异以及众多不可预计的复杂问题的出现，深大基坑工程引发人身财产损失的事故也时有发生，深大基坑的安全性问题已逐渐成为我国基础工程建设中备受重视的课题之一[5-8]。基坑在施工过程中,通过科学的设备仪器与测量手段对基坑围护、支护、周围环境(诸如毗邻建筑、地下地表设备、道路等)的水平位移、垂直位移、倾斜位移、基地隆起、地下水位变化等各方面进行系统全面的监测后获取相关信息资料并及时地进行数据分析处理，已能够通过监测来判断出基坑工程当前安全状态并作以预测，同时也能为工程施工的顺利展开提供指导与保障，可有效地避免或者降低财产安全等方面的损失。
+
+在基坑的开挖过程中，施工扰动对周边环境的影响十分复杂，国内外学者针对软土地区基坑工程监测进行了一些研究。陈书申[9根据小变位土压力理论提出了考虑土体整体位移的稳定分析方法，并与监测数据进行对比，验证了这种方法的可靠性，并对此类基坑群工程设计注意问题进行相关讨论，同时对福州市某深浅悬殊的毗邻基坑进行了研究分析。朱峰[10]以上海市招商银行上海大厦超大、超深基坑项目为工程背景，分析了超大超深基坑的工程问题。Paice G.M.（1999）[11]与 Basma A.A.（2003）[12]等分析了土性参数的变化对基坑可靠度分析的影响，并建议了基坑的目标可靠度指标。Chalermyanont T.（2004）[13]与 Low B.K.（2005）[14]等人对基坑支护墙体的稳定性与强度进行了可靠度分析。FanYQ等[15用现场监测法对基坑工程进行固结与变形的耦合分析，探讨了开挖速率、土体渗透系数、支撑刚度、墙体插入深度等因素对基坑
+
+工程性状的影响。
+
+虽然很多学者对基坑工程的支护结构稳定性有了较多研究，但基坑工程的地域性差别非常明显，各地区土层都有其自身的特点，不同地层下的基坑稳定性又呈现出不同的表现形式。因此，本文以软土地区深大基坑工程为背景，采用现场监测的方法，探索了软土地区深大基坑工程施工对基坑周围环境的扰动影响，研究了深大基坑开挖过程中基坑的变形、支撑轴力以及基坑周围孔隙水压力随开挖的变化规律，研究成果可为类似深大基坑工程的施工提供指导和借鉴。
+
+# 2 工程概况
+
+? 深基坑工程项目规划为集大型购物中心、步行商业街、五星级酒店、精品酒店、甲级写字楼、商务办公、高档住宅、大型地下停车场于一体的大型都市综合体。地下为二层基坑结构,上部结构根据其使用功能为28层、24层、14层及4栋5层连体裙房组成,屋面局部点面,檐口高度为 $1 0 4 . 2 9 0 \mathrm { m }$ ,建筑总高度为 $9 9 . 7 9 5 \mathrm { m }$ 。总建筑面积约 $1 5 2 \ 3 9 0 \mathrm { m } ^ { 2 }$ （包括地下室二层面积约 $4 3 \ 3 7 9 \mathrm { m } ^ { 2 }$ ),施工平面图如图1所示。四栋高层（9#楼、 $1 0 \#$ 楼为28层精品住宅，高$9 9 { \cdot } \bar { 7 } 9 5 \mathrm { m }$ ，11#楼为24层五星级酒店，高 $9 9 . 3 9 0 \mathrm { m }$ ，12#楼为14层5A级写字楼，高 $6 5 \mathrm { m }$ )及4栋4层连体裙房（高 $2 2 . 9 5 \mathrm { m }$ ）。
+
+![](images/a9a91e1a5188851daa9afb9d4a6841eda2619f0c0428f4fd543bd85882c1dbf1.jpg)  
+图1施工平面图
+
+本工程 $\pm 0 . 0 0 = 3 . 6 5 0 \mathrm { m }$ ,场地周边平均绝对标$0 . 7 5 0 \mathrm { m }$ ，自然地坪为 $2 . 9 0 0 \mathrm { m }$ ,本基坑总面积约为10$0 0 0 \mathrm { m } ^ { 2 }$ ,地下室二层底板设计底标高为 $- 6 . 7 7 0 \mathrm { m }$ ，局部设计底标高为 $- 7 . 2 7 0 \mathrm { m }$ ,开挖深度为 $9 . 6 7 0 \mathrm { m }$ 和$1 0 . 1 7 0 \mathrm { m }$ ,基坑形式如图2所示。
+
+![](images/3fc207934d283c193c77d3e10334551ad0fda0612d6292fac8bd2f5f6ffb73f1.jpg)  
+图2基坑形式
+
+拟建场地位于宁绍平原中部，属第四系海积平原，地形平坦、开阔，地貌类型单一。勘察深度范围内的场地地层按性质、特征可分为11个工程地质层、22个亚层，基坑开挖深度影响范围内各土层主要物理力学性质指标见表1所示。
+
+表1各土层主要物理力学性质指标  
+
+<html><body><table><tr><td rowspan="2">层 号</td><td rowspan="2">名称</td><td rowspan="2">Y (kN/m)</td><td rowspan="2">压缩模量 (MPa)</td><td colspan="2">固结快剪</td></tr><tr><td>c(kPa)</td><td>(°）</td></tr><tr><td>①</td><td>杂填土</td><td>1</td><td>1</td><td>(10)</td><td>(15)</td></tr><tr><td>②</td><td>粘土</td><td>18.91</td><td>4.72</td><td>32.7(24.2)</td><td>16.9(15.9)</td></tr><tr><td>③</td><td>淤泥质粘土</td><td>16.85</td><td>2.16</td><td>14.1(10.2)</td><td>8.5</td></tr><tr><td>④</td><td>粉质粘土</td><td>18.76</td><td>4.86</td><td>23.9</td><td>15.9</td></tr><tr><td>⑤</td><td>粉质粘土</td><td>18.40</td><td>3.95</td><td>22.4(20.1)</td><td>13.7</td></tr></table></body></html>
+
+# 3 监测方案
+
+# 3.1 基坑支护设计简介
+
+基坑采用钻孔灌注桩围护结构，局部采用重力项围护；三轴搅拌桩止水；一道钢管支撑，局部采用混凝土支撑体系。基坑支护体系采用钻孔灌注桩挡土，局部采用水泥土重力坝围护。基坑围护墙体采用 $\Phi 6 0 0 @ 8 0 0$ 钻孔灌注桩,桩长 $1 0 . 0 \mathrm { m }$ （有效桩长），部分利用原有围护桩，坑边局部落深处采用$\Phi 6 0 0 @ 8 0 0$ 钻孔灌注桩,桩长 $1 1 . 5 \mathrm { m }$ 。搅拌桩采用双轴水泥土搅拌桩 $2 \phi 7 0 0 \textcircled { \div } 1 0 0 0$ ，桩间搭结$2 0 0 \mathrm { { m m } }$ ,水泥掺量 $1 3 \%$ ；基坑东侧部分利用原水泥土搅拌桩,新增墙宽度 $0 . 7 \sim 1 . 7 \mathrm { m }$ ,桩长 $1 2 . 0 \mathrm { m }$ ，前后排桩内插 $6 \mathrm { m } \varPhi 4 8 \times 3 . 0 @ \ 1 0 0 0$ 钢管，顶部与压顶板相连结；压顶采用 $2 0 \mathrm { c m }$ 厚钢筋混凝土压顶板，内配双向 $\phi 8 \ @ 2 5 0 \times 2 5 0$ 钢筋并与老围护压顶连成一体。
+
+# 3.2 监测点布置
+
+监测监控网：为保证所有监测工作的统一，提高监测数据的精度，使监测工作有效的指导整个基坑施工，本次监测工作采用由整体到局部的原则。即首先布设统一的监测控制网,再在此基础上布设监测点（孔）。监测控制网主要用于地下管线、围护墙顶的位移、基坑周边地表沉降、地下水位、深层土体测斜等方面的监测。平面控制点计划布设4个，编号为 $\mathrm { P 1 \sim P 4 }$ ,控制区域为整个监测区，为使测距、测角误差在横、纵坐标上均匀分布，网形为闭合导线网。点位设在稳定、安全的地方，在地面埋设钢钉点，顶上刻划" $^ +$ ”字；水准控制点布设3个，编号为 $\mathrm { B M } 1 \sim \mathrm { B M } 3$ 。
+
+围护测斜：围护结构的变形通过预埋在墙体的测斜孔进行监测，主要了解随基坑开挖深度的增加,围护墙体不同深度水平位移变化情况，布设间距约 20 米每孔。测斜管选用内径 $6 0 \mathrm { m m }$ 的PVC3mm 的导槽，如图3所示。
+
+![](images/23cbc25bb9045d612a039962426cb0c26ee1aad3cee7d488af65abe787f08e1f.jpg)  
+图3基坑围护结构测斜
+
+地表沉降：基坑周边地表监测剖面编号JS1-1\~$\mathrm { J S 1 } { \cdot } 2 \sim \mathrm { J S 1 } { \cdot } 3 \sim \mathrm { J S 1 } { \cdot } 4$ 。观测基坑开挖过程中对周边土体垂直情况，掌握该区域土体的稳定性，了解基坑施工对周边土体的影响。在每一施工节段每隔40 米左右布设一个断面，每断面之间的点间距为$2 \mathrm { m } \cdot 2 \mathrm { m } \cdot 3 \mathrm { m }$ 和 $4 \mathrm m$ 。
+
+支撑轴力：在钢支撑同一截面两侧分别焊上表面应变计，应变计应与支撑轴线平行。支撑轴力监测点编号ZL，如图4所示。
+
+监测点位的布置可参考图1所示。
+
+# 4 监测结果
+
+# 4.1 地表沉降
+
+针对基坑的四边处分别布置四只位移计，对其地表沉降进行监测，分别编号 $\mathrm { J S 1 } { - 1 } \sim \mathrm { J S 1 } { - 2 } \sim \mathrm { J S 1 } { - 3 }$ \~JS1-4，监测时间从基坑开挖至半年时间(180 天)内，其地表沉降监测结果如图5所示。
+
+![](images/1b7f4c02ebe19d5ecc34f7a6472302ca134ad5ea07b0af2d27c029c4a48ea734.jpg)  
+图4支撑轴力的监测
+
+![](images/6a76d81dc3fe5f70905aaf1b9de7126192e5262051a7561b2e02940582586ce2.jpg)  
+图5地表沉降监测
+
+由图5可知，在施工至第30天时，地表沉降发生了突变，其变化值达到 $8 \mathrm { m m }$ ,东边位置处的测点JS1-1的监测值较其余三个方向的监测值略小，而南边位置监测点JS1-3的监测值最小，这可能与基坑在施工过程中的分步分区开挖形成的扰动范围大小不一相关。随开挖时间的增加，沉降越来越大，土方开挖至基底后趋于平稳。基坑开挖未使周围的地表产生较大变形（最大沉降值为 $1 0 . 9 5 \mathrm { m m }$ 及较明显的裂缝。
+
+# 4. 2 建筑物沉降
+
+图6所示为建筑物沉降监测结果。该建筑位于基坑南部距离基坑边界 $4 5 \mathrm { m }$ 处。从数值上分析，建筑结构变形量在 $- 5 . 5 \sim 0 . 4 \mathrm { { m m } }$ 之间，小于规范控制标准的 $1 0 \mathrm { m m }$ 容许值。从曲线变化中分析，由于基坑开挖引起的应力释放，使基坑底部土体隆起,诱发基坑周围土体向基坑方向松动，从而导致建筑发生位移，表现出沉降、隆起、水平位移。从图中还可发现3号测点监测值变化较小，这是由于在监测过程中该位移计位于距基坑较远的一侧，其倾斜程度比较微弱，几乎没有变化；而2号测点则为靠近基坑一侧，因此其监测值要稍大。从控制建筑物变形的角度出发，根据检测结果分析，因对于变形较大的一侧做加固处理，
+
+![](images/34e15fa1cbb0a8952bdeb94bfc80b9f537d8a8ce06370a7b2da8563bc7c6f2be.jpg)  
+图6建筑物沉降监测
+
+# 地下连续墙的变形
+
+一图7与图8所示分别为地下连续墙的水平位移和竖向位移。从图7中可以得到地下连续墙最大水平位移位置,最大水平位移分别位于1.36、1.18 和0.95倍开挖深度处。最大变形位置随着基坑开挖深度变大而逐渐上移。产生这一规律原因是因为基坑开挖深度为 $1 1 \mathrm m$ ,其坑底位于 $\textcircled{3}$ 层淤泥质粉质黏土的软弱土层，开挖软弱土层会使开挖面附近产生较大的墙体位移，开挖面以下墙体处于性质较好的 $\textcircled{5} \textcircled{6} \textcircled{7}$ 土层，墙体水平位移变小。对于开挖深度为 $1 1 \mathrm m$ 的地下连续墙，其墙身基本处在 $\textcircled{2} \textcircled{3} \textcircled{4}$ 软弱土层，因此对于深基坑开挖应重视 $\textcircled{3} \textcircled{4}$ 层土开挖时引起的变形控制，这对控制基坑整体变形和保护周围环境有重要意义。
+
+从图8中可以看出，保持基坑距离一定，地表竖向位移叠加效果随着开挖深度的增加而减小。同时，在开挖深度不变的情况下，墙后竖向最大位移增加了 $1 0 \sim 3 0 \mathrm { m m }$ ,且最大竖向位移的位置在两基坑的中间处，沉降曲线形态变为平躺的U形，随着施工的持续,墙后竖向最大位移增加了 $4 \sim 6 \mathrm { m m }$ ，在竖向变形达到最大值时，基坑的继续开挖对地下连续墙的影响基本消失。
+
+![](images/7861097be4f2490cf2ab814da6edb0b0022134d8b83f62e049ce890208caf8ef.jpg)  
+图7墙体水平位移监测
+
+![](images/4b372a0d18d7e68a32b6ec4ef35d185f528fbbb5d4a0872e3c2853eebfb9d22f.jpg)  
+图8墙体竖向位移监测
+
+# 4.4 水位沉降
+
+针对水位的测点布置于基坑的北侧，当施工至90天时，水位发生明显下降（变化值达到 $5 0 0 \mathrm { m m }$ 左右），整个施工周期来看也体现出波动较大的特点，说明该侧基坑一侧三轴搅拌桩止水效果并不明显，正水帷幕出现渗漏点，应引起施工期间的足够重视。出现这种问题则可考虑采用双排深搅桩作为正水帷幕以及“两次提升、两次下沉”施工工艺减小波动。
+
+# 4.5 孔隙水压力
+
+图10所示为孔隙水压力监测结果。根据理论计算可知[16],孔隙水压力理论值与基坑开挖时间呈线性时空变化趋势。从图10可见，实测孔隙水压力在基坑开挖的初期(60天之前)基本随基坑开挖深度线性变化，其随时间增长孔隙水压力急剧减小，减小值达到 $9 0 \mathrm { { k P a } }$ ；在这之后，实测孔隙水压力随施工时间的增加基本保持稳定，随时间增长孔隙水压力减少的量值并不显著。另一方面也可证明整个基坑施工期间的稳定性控制比较成功。
+
+![](images/7e0df04e5a43707e074c234dfa66249c81a1458bc3583639bd873a814ed8f859.jpg)  
+图9水位位移监测
+
+![](images/8ac47e2426a66977a4fc69a3a3d710ad3a2fce0b0c7e66a7d0d51d89c684ad4f.jpg)  
+图10孔隙水压力监测
+
+# 4.6 支撑轴力
+
+图11所示为支撑轴力现场监测趋势。从基坑开挖期间(10天之前)轴力发展趋势上可见，轴力随着土方开挖的进行发生略微增大，最大值达到
+
+$5 0 \mathrm { k N }$ ,基础底板浇筑完毕后基本保持不变或略有增长。从轴力数值上看，监测值均小于支撑承载能力设计值的 $70 \%$ ( $1 7 5 \mathrm { k N } \cdot$ )，满足支撑支护设计要求。因此，在施工中。随着土方的开挖，支撑始终处于安全状态。
+
+![](images/8ded7c25f97efab925567eafb9836260942bab65d403e988342bba7ae8b4ea8a.jpg)  
+图11 支撑轴力监测
+
+# 5结论
+
+以软土地区深大基坑工程为依托，采用现场监测的方法，探索了软土地区深大基坑工程施工对基坑周围环境的扰动影响。论文主要有以下结论：
+
+(1)基坑在施工过程中的分步分区开挖形成的扰动范围大小不一相关，随开挖时间的增加，沉降越来越大，土方开挖至基底后趋于平稳。
+
+(2)由于基坑开挖引起的应力释放，使基坑底部土体隆起，诱发基坑周围土体向基坑方向松动，从而导致建筑发生位移，表现出沉降、隆起、水平位移，从控制建筑物变形的角度出发，需对变形较大的一侧建筑基础做加固处理，
+
+(3)地表竖向位移叠加效果随着开挖深度的增加而减小，同时，在开挖深度不变的情况下，最大竖向位移的位置在两基坑的中间处，沉降曲线形态变为平躺的U形，随着施工的持续，其对地下连续墙的影响基本消失。
+
+(4)实测孔隙水压力在基坑开挖的初期(60天之前)基本随基坑开挖深度线性变化，其随时间增长孔隙水压力急剧减小，随着基坑持续开挖，实测孔隙水压力随施工时间的增加基本保持稳定。
+
+# 参考文献
+
+［1］王卫东，李进军,徐中华.敏感环境条件下深基坑工程的设计方法［J].岩土工程学报，2008，30（S1）：349-354.  
+［2］王卫东，王浩然，徐中华.上海地区板式支护体系基坑变形预测简化计算方法[J].岩土工程学报，2012，34(10）:1792-1800.  
+[3]Zapata-Medina D G. Semi-empirical method for designingexcavation support systems based on deformation control[D].University of Kentucky，2007.  
+[4]Roboski JF.Three-dimensional performance and analysesof deep excavations[D].Northwestern University，2004.  
+［5］王卫东，徐中华.预估深基坑开挖对周边建筑物影响的简化分析方法［J].岩土工程学报，2010（S1）：刘燕.地铁换乘枢纽后建车站施工影响研究[D].同济大学，2007.马学明，王曙光,陆伟东.我国城市地下民用建筑工程建设标准化浅析[J].地下空间与工程学报，2009，5尹2)：，丁红岩.软土基坑开挖引起的坑外地表沉降预测数值分析[J].岩土力学，2012，33（4)：255-261.陈书申，詹素华.开挖深度悬殊的相邻基坑的支护稳定分析[J].福建工程学院学报，2002，（2)：63-65.  
+［10］朱峰．分坑分块施工技术在超大超深基坑工程中的应用[J].建筑施工，2009，31：741-743.  
+[11]Paice GM,Griffiths DV and Fenton G A.Influence ofspatially random soil stiffness on foundation settlements.Yeung A T,Felio G Y editors.ASCE specialty conferenceSettlement 94.Texas A& M University.1994：628-639.  
+[12]Basma A A,Barakat Sa and Omar MT.Reliability basedrisk index for the design of reinforced earth structures[J].Geotechnical and Geological Engineering.2OO3，21：225-242.  
+[13］Halermyanont T and Benson C.Reliability-based design forinternal stability of mechanically stabilized earth walls.J.of Geotech．Geoenviron.Eng.，ASCE．2004，130（2）：163-173.  
+[14］Low B K.Reliability-based design applied to retainingwalls.Geotechnique.2005，55（1）:63-75.  
+[15]Fan YQ,Schofield AN,Thurairajah A.Yielding of Claysin States Wetter than Critical[J].Géotechnique，2015,13(3):211-240.  
+[16]Zdravkovic L.,Potts D.M.,and ST John H. D.Modellingof a3D excavation in finite element analysis[J].Geotech-nique，2005，55（7):497-513.
+
+# Research on Construction Monitoring Analysis Technology of Deep and Large Foundation Pit in Soft Soil Area
+
+Xu Jing
+
+(Construction Management Affairs Center of Putuo District，Shanghai 2Oo333，China）
+
+Abstract：The influence mechanism of deep and large foundation pit construction in soft soil area is very complex.This paper uses on-site monitoring method to explorethe disturbance of deep foundation pit construction in soft soil area onthe foundation pit surounding environment,and studies the variation law withthe excavation of the deformation and supporting axial force of the foundation pit，as well as the pore water pressure around thefoundationpit during the excavation process of deep and large foundation pit.The research shows that the stress release from theexcavationleads totheupliftingof thesoil at the botomof the foundation pitandthelooseningof the soil around the foundation pitto the direction of the foundation pit.The vertical surfacedisplacement superposition effect decreases with the increase of excavation depth，and the maximum vertical displacement of the position appears at the middle of two pits.Along with the continuous construction，the impacton the underground continuous wall graduall disappears. The pore water pressure decreases sharply with the increase of time，and keeps stable later. The research results can provide theoretical basis and early guidance for future construction.
+
+Key Words:Soft Soil Area；Deep and Large Foundation Pit； Construction Monitoring；Ground Subsidence; Pore Water Pressure

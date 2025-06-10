@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "公共建筑装饰工程BIM技术应用流程研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "罗　兰¹彭中要²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国建筑股份有限公司技术中心，北京101300；2.中国建筑装饰集团有限公司，北京100037)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】建筑装饰工程应用BIM技术是实现建筑项目全专业BIM技术全过程应用的最后一步。研究公共建筑装饰工程的BIM技术应用流程对绿色建筑的实现具有重要意义。本文作者在原有研究建筑装饰工程BIM技术应用的流程成果和参考相关文献、工程实践、业内人士访谈的基础上，总结完善了装饰工程BIM技术应用各阶段及其细分环节，为公共建筑装饰工程完整地实现BIM应用提供了实施流程方面的参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】建筑装饰工程；公共建筑；BIM技术；应用流程；初步设计  \n【中图分类号】TU17;TU238;TU242【文献标识码】A【文章编号】1674－7461(2017)04-0031-06  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.04.06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在建筑装饰工程中使用BIM技术将成为绿色建筑实现的必由之路。在建筑装饰工程中应用BIM技术,要经历哪些阶段,做哪些工作,是BIM应用的流程中的核心内容。梳理好整个流程，对BIM技术全生命期应用的顺利进行具有非常重要的价值。本文作者在2013年与赵静雅的合作论文《装饰工程 BIM 应用流程初探—基于Revit 的装饰模型建立和应用流程》中进行了初步研究[1]。该文中以公共建筑装饰工程的投标、设计、施工及运维工作流为例，将基于Revit的室内设计及施工BIM模型建模的基本流程分为六个阶段，分别是：上游模型检查阶段、方案初步设计阶段、方案深化设计阶段、施工图设计阶段、施工阶段、竣工阶段。这个结果是参考了建筑设计和施工的流程同时参考装饰工程的流程总结的。这篇论文在装饰行业刚刚开始应用BIM技术之初总结的流程研究具有开创意义，但是装饰工程的业态形式多样，工程类型多样，决定了不同的业态有不同的流程。目前，已经有王淑鹏等对于装饰行业一个重要业态一住宅装饰业的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM应用流程的展开相关研究，对其应用与管理模式进行分析[2]。因此,有必要对建筑装饰行业的不同业态的BIM应用流程单独分析并做研究，综合整理其共性部分，给出规范性的流程指导。本文就是在这种情况下，结合建筑装饰工程项目应用实践，深入学习相关标准文献，访谈业内人士，再次对公共建筑装饰工程BIM技术应用流程进行总结研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 问题的提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于对公共建筑装饰工程BIM应用的流程的研究论文《装饰工程BIM应用流程初探——基于Revit的装饰模型建立和应用流程》一文由于研究较早，欠缺对不同类型装饰工程的综合考虑。2017年，两项BIM国家标准《建筑信息模型应用统一标准》GB/T51212-2016、《建筑信息模型施工应用标准》GB/T51235-2017发布，为行业提供了规范性指导[3-4]。但没有涉及装饰专业。在同时出版的其它相关的书籍中，根据这两个国家标准明确了建筑项目的全生命期的流程：即分为规划阶段、设计阶段、施工阶段、运维阶段，其中设计阶段中又包含了细分环节[5-6],但装饰施工阶段的主要环节的流程研究缺失，没有涉及拆除阶段。在装饰行业，2016年9月，中国建筑装饰行业推荐标准《建筑装饰装修工程BIM实施标准》（T/CBDA3-2016)正式发布，虽然规定了装饰工程BIM应用的流程是：方案设计、施工图设计、施工深化设计、施工、运维、拆除六阶段[7],但是,该标准没有涉及实现绿色建筑的重要步骤：即初步设计的室内性能分析，另外也没有对拆除阶段的流程做更进一步的整理。从文献调查过程中我们看出，总体来说，行业对装饰专业的全生命期BIM应用流程的总结整理还不够全面深入。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前，国家建设工程中，除了新建改建扩建工程，还有一类是既有建筑改造装饰工程。在提倡绿色建筑的大环境下,为了延长建筑的使用寿命，减少建筑垃圾的产生，业主经常采用改造装饰的手段来实现建筑物的功能改造和翻新。这是建筑装饰企业经常承接到的一种工程类型。同新建改建扩建项目一般由建筑设计企业进行方案设计和初步设计不同,这类改造装饰工程经常要装饰施工企业做改造设计并做较大的平面布局、功能、造型、构造等等的改动，实际上需要符合某些建筑室内设计和结构设计等的指标，如绿色建筑评价标准等。但是，我国建筑装饰行业当前实际上还没有形成对既有建筑装饰改造工程的改造设计做室内建筑性能分析的工作模式。这种不分析不计算的情况，经常导致改造装饰工程竣工后仍然有结构安全问题、通风问题、采光问题、声学问题、疏散问题等等，继而造成返工和人工材料等的浪费，产生多种建筑装饰垃圾。这种情况实际上也在由建筑装饰企业承接的新建改建扩建项目的二次设计中经常遇到。另外，在改造装饰工程中，不论是保留或是不保留原有建筑装饰物和结构，拆除实际上是一个重要的工作，有必要纳入BIM技术应用的研究范畴进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文依据上述提出的问题，重新整理了公共建筑装饰专业的全生命期BIM应用流程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3建筑装饰工程BIM应用的各阶段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照国家标准推断，建筑装饰工程的BIM应用主要有设计、施工、运维、拆除4个阶段，每个阶段都有其应用流程和应用内容，4个阶段总共为8个环节。本文以装饰企业承接既有建筑改造装饰工程和新建改建扩建工程(含二次设计)的公共建筑装饰项目的BIM应用内容为主线，重新梳理了装饰BIM应用的流程：设计、施工、运维和拆除4个阶段的主要装饰BIM应用环节见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d77f6fd59ab8c8c3c415dbdb6210b189eddff503040a6865fed3d63469aa859.jpg",
+        "table_caption": [
+            "表1建筑装饰BIM应用各阶段及主要环节"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阶段</td><td>主要应用环节</td></tr><tr><td>设计阶段</td><td>建筑装饰方案设计</td></tr><tr><td rowspan=\"3\">施工阶段</td><td>建筑装饰初步设计</td></tr><tr><td>建筑装饰施工图设计</td></tr><tr><td>建筑装饰施工深化设计</td></tr><tr><td></td><td>建筑装饰施工过程 建筑装饰竣工交付</td></tr><tr><td>运维阶段</td><td>建筑装饰运维</td></tr><tr><td>拆除阶段</td><td>建筑装饰拆除</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4建筑装饰工程BIM应用主要环节及其流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前国家尚没有出台以模型交付为法律依据的标准。因此建筑装饰工程的各阶段仍然以装饰专业二维图纸生成及调整，形成装饰专业图纸交付及归档。建筑装饰工程BIM应用流程主要分为以下8个细分的应用环节：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)基于BIM的建筑装饰方案设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于BIM的建筑装饰方案设计主要工作内容包括：依据装饰设计要求，导入入建筑、机电等专业的CAD图纸或BIM模型，在三维环境中进行功能布局，划分室内空间，建立装饰方案设计模型。并以该模型为基础输出效果图和漫游动画，清晰表达装饰设计效果。装饰方案设计模型可为装饰设计后续阶段提供依据及指导性文件。流程如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)基于BIM的建筑装饰初步设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建筑装饰初步设计的目的是论证装饰方案的技术可行性和经济合理性，主要内容包括：利用BIM进行室内性能分析，如自然采光分析、人工照明分析、自然通风、声学分析，以及结构计算，协调装饰与其他各专业之间的技术矛盾，合理确定技术经济指标。流程如图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)基于BIM的建筑装饰施工图设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建筑装饰施工图设计BIM工作内容主要是对初步设计成果进行深化，目的是为了解决施工中的技术措施、工艺做法、用料、为工程造价等提供初步的数据，同时达到施工图报批的要求。流程如图3。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a71bb21ea912b023177a33d904b4108769bc2b785ca50fe245a4e6ae9299872.jpg",
+        "img_caption": [
+            "图1基于BIM的建筑装饰方案设计业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cd6bb0cbe36eb95a6ff851666dae90f82c0536cddeca78be2aebbc6256ef346.jpg",
+        "img_caption": [
+            "图2基于BIM的建筑装饰初步设计业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d46d89a84e6531dbfa586d70aa76658a6df831ea2ea08be0a2dd5f5ad34ce96.jpg",
+        "img_caption": [
+            "图3基于BIM的建筑装饰施工图设计业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)基于BIM的建筑装饰施工深化设计装饰施工深化设计BIM工作内容主要是对施工图设计成果进行深化，按照装饰工程的分部分项工艺和装饰隐蔽工程创建深化设计模型，其目的是为了指导现场施工,进行图纸会审、施工方案推敲、施工工艺的模拟，进行样板房、材料样板管理，解决施工中的技术措施、工艺做法、饰面排版、用料问题，为施工交底、预制构件加工、材料下单、安装、工程造价等提供完整的数据。流程如图4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3620f6408f568a652c9b7835f9dfa51ce42b07d72db456127132ad56c1c598c4.jpg",
+        "img_caption": [
+            "图4基于BIM的建筑装饰深化设计业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7182b0cc7d6a9a6a399eee2ef8e0d41ec1cb8043a0413ca2ebc5b326cb4ec50.jpg",
+        "img_caption": [
+            "图5基于BIM的装饰施工过程应用业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5)基于BIM的建筑装饰施工过程应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "装饰施工过程BIM应用的工作内容主要是基于施工深化设计模型，创建装饰施工过程模型，其目的是为了对工程的施工过程进行管理，对设计变更、测量放线、材料下单、物料管理、工程成本管理、进度管理、质量安全管理、商务管理、辅助分包结算等进行全过程指导和处理。流程如图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6)基于BIM的建筑装饰工程竣工应用",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "装饰工程竣工BIM应用的工作内容主要是基于装饰施工过程模型，创建装饰竣工交付模型，对设计变更进行全面整理、完善竣工信息、生成竣工图、辅助工程造价决算与结算。流程如图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7)基于BIM的建筑装饰工程运营维护应用",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "装饰工程运营维护BIM应用的工作内容主要是基于装饰竣工交付模型，创建装饰运营维护模型，进行装饰空间管理、陈设资产管理、运维数据录入存储管理、维修改造管理、装饰设备维护管理、构件安全管理、运维成本管理、辅助工程造价等。流程如图7。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8)基于BIM的建筑装饰工程拆除应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "装饰工程拆除BIM应用的工作内容，是在建筑装饰物生命期完全结束的拆除阶段。主要是基于装饰运营维护模型，创建装饰拆除模型，进行装饰空间拆除管理、拆除工程期间的陈设资产管理、设备管理、构件安全管理、拆除成本管理、辅助工程造价等。与新建改建扩建装饰工程不同的是，在既有建筑改造工程的流程中，建筑装饰工程拆除应用是",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM应用的首个环节，可以对被拆除的部分进行拆除模拟并统计工程量、核算成本。流程如图8。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d169cab72c4b5b14a2a81fcecc23dcec45377aeb90c55663621dbfb41bf9b86c.jpg",
+        "img_caption": [
+            "图6基于BIM的建筑装饰竣工应用业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1bf423e248271361d3317c7292dc60788a7cd8a5e852036b64be394c6fdd1ba.jpg",
+        "img_caption": [
+            "图7基于BIM的建筑装饰运营维护应用业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/29a509b6f93b68d60fb5ce62913a585506815055864bc27a7802b598826e47b4.jpg",
+        "img_caption": [
+            "图8基于BIM的建筑装饰拆除应用业务流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在找出当前建筑装饰BIM应用流程研究不全面、行业普遍存在的不计算不分析的问题之后，对基于BIM的公共建筑装饰工程应用流程在前人研究的基础上结合项目实践经验进行了修改和补充，即：将建筑装饰BIM应用流程分为4个阶段（设计阶段、施工阶段、运维阶段、拆除阶段)8个细分环节(装饰方案设计、装饰初步设计、装饰施工图设计、装饰施工深化设计、装饰施工过程、装饰竣工交付、装饰运维、装饰拆除）。本研究通过梳理公共建筑装饰项目的流程，修正了《建筑装饰装修工程BIM实施标准》（T/CBDA3-2016）的设计阶段初步设计环节缺失、增加了标准中拆除阶段(环节)的流程。在前人做的设计流程图基础上,对所有主要环节流程都做了详细的业务流程图，全面分析其参考资料、输入和输出的数据,主要业务流程的内容、步骤和走向。通过上述工作，本研究矫正了前人对建筑装饰工程流程研究的疏漏之处,试图对建筑装饰行业公共建筑装饰业态的BIM技术应用流程进行补充，以完善公共建筑装饰工程BIM技术应用全生命期应用的应用流程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应用本文所研究的流程，可以指导建筑装饰工程各参与方在建筑装饰工程全生命期各阶段的BIM应用，避免了既有建筑改造装饰工程的不分析不计算的局面，从而为装饰行业的既有建筑改造装饰工程建设成为绿色建筑提供了初步设计业务流程参考；同时，在拆除阶段，分析了拆除阶段的工作内容，应用BIM技术对拆除工程模拟指导，避免了无序拆除和装饰垃圾的大量产生。综上所述，本研究对装饰工程设计和施工实施过程中，助力装饰专业实现绿色建筑相关的指标具有积极意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1］罗兰，赵静雅.装饰工程BIM应用流程初探—基于Revit的装饰模型建立和应用流程[J].土木建筑工程信息技术，2013，5(6)：81-88.  \n[2］王淑鹏，董建峰,李昊翔，等.基于BIM的家装设计发展研究［J].土木建筑工程信息技术，2106，8（4)：64-67.  \n[3］GB/T51212-2016，建筑信息模型应用统一标准［S].北京：中国建筑工业出版社，2016.  \n［4］GB/T51235-2017，建筑信息模型施工应用标准[S].北京：中国建筑工业出版社，2017.  \n[5］李云贵，何关培，邱奎宁，等.建筑工程设计BIM应用指南(第二版)M].北京：中国建筑工业出版社，2017.  \n［6］李云贵,何关培，邱奎宁，等.建筑工程施工BIM应用指南(第二版)[M].北京：中国建筑工业出版社,2017.  \n[7］T/CBDA3-2016,建筑装饰装修工程BIM实施标准[S].北京：中国建筑工业出版社，2016.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On Application Process of BIM Technology in Public Building Decoration Projects ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Luo Lan' ,Peng Zhongyao ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1. Technical Center， China State Construction Engineering Corp.，Ltd.， Beijing 1O1300， China; 2. China State Decoration Group Co., Ltd.，Beijing 1O0037，China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Application of BIM technology in building decoration projects is the last step to realize the whole life-cycleBIM technology application process.It is significant to studythe application processof BIM technology in public building decoration projects for facilitatingtherealization of green building.Based on the previous research, relevant iterature，engineering practice and industrial interviews，the author summarizes and improves the details of decoration enginering appication of BIM technologyat each stage，which providesreference for BIM technology application process in public building decoration projects. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Building Decoration Projects；Public Building；BIM Technology；Application Process；Preliminary Design ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,777 @@
+[
+    {
+        "type": "text",
+        "text": "动态分级的改良蚂蚁算法及其应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈佳a，游晓明a，刘 升ʰ，李娟a(上海工程技术大学 a.电子电气工程学院;b.管理工程学院，上海 201620)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对蚂蚁算法处理机器人路径规划问题时收敛速度慢，协同机制不够完善的问题，结合狼群算法思想提出一种动态分级的改良蚂蚁算法。首先，根据动态分级算子建立种群分级模型；然后，为了改善协同机制，通过结合轮盘赌的头狼影响策略来增加种群间交流；最后，为了提高收敛速度，在保留蚂蚁算法信息素更新公式的同时，通过采取归一化处理的动态信息素更新策略来体现精英作用。为验证效果，采用栅格法对机器人运动空间进行建模，将本算法运用于路径规划问题求解中，并与另外几种智能算法进行比较。仿真结果表明，该算法的收敛速度较快，能以比较少的迭代次数找到最优路径，效率较高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蚂蚁算法；狼群算法；动态分级算子；头狼影响策略；动态信息素更新策略 中图分类号：TP24 doi: 10.3969/j.issn.1001-3695.2017.08.0716 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on dynamic hierarchical ant optimization algorithm and its application ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Jia, You Xiaomingb,Liu Shengb,Li Juana (a.CollegeofElectronic &Electrical Engineering,b.SchoolofManagement,Shanghai UniversityofEngineeingScience, Shanghai 201620, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Basedontheslowconvergence speedandlowcordination mechanismofantalgorithm whenit'sused to solverobot path planning problem,anew improved ant colony algorithmbased on dynamic classification is proposed.Firstof all,the populationclasification modelis establishedaccording tothe dynamic classfication operator;Then,the head-effectstrategy with roulettecanimprove thecoordination mechanismand increase thecommunication betweenpopulations;Finaly,inorder to increase theconvergence speed,the dynamic pheromone update strategy with normalization canbe taken with the ant algorithmpheromoneupdate formulakept toreflectthe influenceof lite.Inordertoverifytheefect,thegrid method isused to build therobot motion space model.Thisalgorithm isapplied tothe path planing problemand compared with several inteligence algorithm.Thesimulationresults showthat tealgorithmcanconvergequicklyandfindtheoptimalpath with fewer iterations with relatively high efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:ant algorithm;wolfcolonyalgorithm;dynamic hierarchicaloperator;head-efectstrategy;dynamic pheromone update strategy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "移动机器人路径规划是指在有障碍物的工作环境中，在给定起点、终点的条件下寻找一条最优无碰撞路径，使机器人可以避开障碍物以最短距离走到终点的方法研究[1-2]。由田子建[3]、沈博闻[4等人的研究可见，对路径规划技术的研究是移动机器人领域的重点之一，新的高效的改进路径规划算法仍是研究重心[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱大奇等人[提出，移动机器人的路径规划技术可以概括为以下模板匹配路径规划技术、人工势场路径规划技术、地图构建路径规划技术和人工智能路径规划技术4类。其中，人工智能路径规划技术以自适应性为特点受到广泛使用[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雷等人[8提出一种通过个体适应度自动调整交叉概率与变异概率的改进遗传算法，黄辰等人[9根据闭环反馈思想提出一种基于动态反馈的A\\*蚁群算法,金飞虎等人[10]则以空间障碍距离与迭代次数为依据提出一种自适应蚁群算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如上所述，人工智能算法目前已取得很大成就，算法主要分为传统技术和启发式技术两种，相较而言，启发式技术更具环境适应性，能够提高算法搜索的速度，多种仿生算法都应用了此技术。其中，蚂蚁系统（ant system,AS)于1996 年由Dorigo最先提出，这是一种通过模仿蚂蚁的社会分工与协作觅食来设计的寻优算法[I]，蚂蚁系统具有鲁棒性好，环境自适性强的优点，但需要较多时间来进行信息素堆积，为了提高算法效率，诸多改良方式应运而生。Stutzle等人[12]提出最大最小蚂蚁系统(Max-MinAntSystem,MMAS)，通过限制信息素来克服算法停滞现象，提高了蚂蚁系统算法的多样性。Dorigo等人[13]提出蚁群系统（antcolony system,ACS)，除局部信息素更新外增加了全局信息素更新环节，提高收敛性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除上述两种改良方法外，Dorigo等人[11]还提出了精英蚂蚁系统（ElitistAnt System,EAS)，这是通过对蚂蚁进行分级，并按级别执行不同信息素更新策略的方法，重点在于强调最优路径的作用。而Bullnheimer等人[14]所提出的等级蚂蚁系统（rand2basedantsystem,RAS）则是另一种形式的分级，与精英蚂蚁系统把蚂蚁群分成的精英蚂蚁与普通蚂蚁来进行分步信息素更新的方法不同，它的信息素更新只使用了精英蚂蚁，通过将精英蚂蚁分级来进行不同策略的信息素更新。实验表明，在蚂蚁系统上运用分级机制效果较好，提高了算法的收敛性，能以比较短的时间找到优解，以此为启示，其他应用等级机制的算法也渐渐走进人们眼中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然界的狼群以其社会等级制度与协作分工而闻名，Liu等人[15]根据狼群的群体特征于2011年提出狼群算法（wolfcolonyalgorithm,WCA），将狼群分成不同等级并赋予不同职责，从而提高算法效率。吴虎胜等人[16在2013年对WCA进行改良与扩充，提出一种新型狼群算法，将狼群的群体智能行为，狼群更新机制与头狼产生规则应用到复杂问题的求解中。狼群算法收敛速度快，但容易陷入局部最优，多样性在后期也比较差。针对这些不足，薛俊杰等人[17提出一种狼群智能算法，来提高算法的自适应性，王涛等人[18]则提出一种新的狼群搜索算法，并将其应用于解决聚类问题上，效果良好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据狼群算法的等级机制，冯翔等人[19]提出一种社会群体搜素理论，引入决策因子来对社会群体进行分类，不同类别的个体自主意识有所不同。实验证明，这种改进提高了算法的收敛性与有效性，体现等级的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对蚁群算法收敛性不太好，协同机制不完善，同一迭代中个体间缺少交流的问题，本文提出一种基于动态分级的蚂蚁算法改良方案，通过引入动态分级算子来对蚂蚁进行等级划分，通过头狼影响算子与动态分级的信息素更新策略来实现蚂蚁间的交流，在提高算法收敛速度的同时提高路径寻优的精确度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1精英蚂蚁系统 (EAS)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精英蚂蚁系统同样由Dorigo 等人[提出，在AS 的基础上对信息素更新策略做了修改。精英蚂蚁所走过的路径，也就是当前迭代全局最优路径的信息素更新策略与普通蚂蚁的更新策略不同，强调精英蚂蚁在一次迭代中的主要地位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精英蚂蚁系统中信息素更新规则按式(1)计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau ( \\dot { \\mathbf { i } } , \\dot { \\mathbf { j } } ) \\gets ( 1 - \\rho ) \\tau ( \\dot { \\mathbf { i } } , \\dot { \\mathbf { j } } ) + \\triangle \\tau ( \\dot { \\mathbf { i } } , \\dot { \\mathbf { j } } ) + \\triangle \\tau ( \\dot { \\mathbf { i } } , \\dot { \\mathbf { j } } ) ^ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中t(i,j)是路径上原有的信息素量， $\\boldsymbol { \\rho }$ 是信息素挥发率，$\\triangle \\tau ( \\mathrm { i } , \\mathrm { j } )$ 是普通蚂蚁信息素更新时的增量，而 $\\mathbf { \\Psi } _ { \\triangle \\tau ( \\dot { 1 } , \\dot { 1 } ) } { ^ { * } }$ 是精英蚂蚁的信息素更新增量，其具体内容如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\_ { \\ / { \\ / c } } } ( \\bf { i } , \\bf { j } ) ^ { * } = \\left\\{ \\begin{array} { c } { { \\sigma ^ { * } \\displaystyle \\frac { Q } { L } , i f \\ c o m p o n e n t { ( i , j ) } \\ b e l o n g s \\ t o \\ a n \\ e l i t e \\ a n t } _ { ( o t h e r w i s e ) } } \\\\ { { 0 , } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\mathscr { Q } }$ 是精英蚂蚁的信息素更新增量，是一个固定参数， $L *$ 为全局最优路径的长度， $\\sigma$ 是精英蚂蚁的个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精英蚂蚁系统强调精英蚂蚁在信息素更新中的重要性，每一迭代的全局最优路径上的信息素增加是其他经过路径上的数倍，在前期可以提高算法的收敛性，但随着信息素的积攒，在后期会导致信息素积累过多，使蚂蚁选择这些节点的概率过大，抑制了蚁群的多样性发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2解决TSP问题的离散狼群算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对TSP的求解，吴虎胜等人[20]提出一种离散狼群算法，通过狼群的游走、召唤、围攻等智能行为体现分工协作，通过头狼产生规则与狼群更新策略体现狼群算法的等级性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在TSP中，每一迭代中头狼与猛狼间的联系通过召唤行为得以体现，这种行为通过改变狼的路径来直观展现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "召唤行为是指从头狼路径中随机选取一段长度为 step的路径，并对猛路径中以相同标号开头或结尾的长度也为 step。的片段进行替换，并通过映射对猛狼路径中的城市进行调整，确保每一个城市标号只出现一次，现举例如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "头狼路径为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { h e a d } } = [ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 1 0 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "猛狼的路径为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { i } } = [ 9 , 6 , 4 , 3 , 1 , 7 , 2 , 1 0 , 8 , 5 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取起点 $P o \\mathrm { i n t } _ { s t a r t }$ 为3，替换长度 $s t e p _ { \\flat }$ 为3，所以头狼替换 片段为 $X _ { _ { \\mathrm { c h a n g e } } } = [ 3 , 4 , 5 ]$ ，而替换后的猛狼路径为 $X _ { \\mathrm { i } } ^ { \\ast } = [ 9 , 6 , 4 , 3 , 4 , 5 , 2 , 1 0 , 8 , 5 ]$ ，根据映射关系可得 $4 \\to 1 \\ , \\ 5 \\to 7$ ， 经映射调整后的猛狼路径X=[9,6,1,3,4,5,2,10,8,7] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "召唤行为在保留猛狼个体经验的同时体现了头狼对猛狼的指导作用，但分类比较简单，没有体现头狼对不同等级狼之间的区别对待。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3社会群等级划分因子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冯翔等人[19的社会群体搜索算法借鉴了动物的分工协作与等级制度，并根据社会个体的职能分工将整个群体分为三类：个体根据自己的意愿进行行动，个体根据他人的意愿进行行动，个体消极行动被整个群体淘汰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这个基础上引入决策因子 $\\lambda$ 作为个体自主行动意愿是否强烈的评估值：数值越大则个体自主意志力越强，同时对其他个体的影响力也会增大，相反，数值越小的个体自主意志力就越弱，在无法对其他个体产生影响的同时也易于被影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "决策因子的构建方式有两种，若估价函数与个体的优秀程度成正比，该因子被定义为式(3)，当估价函数的值与个体优秀程度成反比时，该因子则被定义为式(4)：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } = f i t _ { i } / / f i t _ { o a x }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { _ i } = f i t _ { _ { \\mathrm { m i n } } } / f i t _ { _ i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda _ { i }$ 是个体的决策因子值， $f i t _ { \\mathrm { m i n } }$ 是最优适应度， $\\mathbf { \\nabla } \\mathcal { f } i t _ { \\cdot }$ 是个体的适应度。根据事先规定的阈值和个体的决策因子值可以将整个社会群体分为首领、领导者、追随者和淘汰者4类，方便对各个等级的成员分别进行处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 动态分级的改良蚂蚁算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1整体框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于动态等级的自适应蚁群算法的整体计算方法如图1所示，在全部蚂蚁完成路径构造后进行处理，先通过动态分级算子对此次迭代中的蚂蚁进行分级，经过头狼影响策略的作用后进行二次分级，并根据此时的分级情况进行动态信息素更新策略。这个信息将保留下来，作为下一迭代蚂蚁种群构造路径的依据。达到终止条件时则将当前最优路径与路径长度信息进行输出。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/871d4041aebaface35f9cb783bc4be5fdd6e9a9950588217f92602033c7845f9.jpg",
+        "img_caption": [
+            "图1算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本算法在蚁群算法的基础上加入动态分级算子，并根据蚂蚁社会等级的不同执行分等级的头狼影响策略与动态信息素更新策略进行进一步优化。这些算子将在以下章节加以介绍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 动态分级算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现实生活中狼群一般分为alpha、beta和omega三类，alpha 是狼王夫妇，beta是狼群中地位仅次于首领的狼，omega则是狼群的主要组成部分，在这个基础上也存在因羸弱而无法捕食的第四类狼。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据此，吴虎胜等人[16提出的狼群算法将狼群分为头狼，探狼，猛狼和弱狼4个阶级，根据狼群的分级机制，冯翔[19]也用社会群等级划分因子进行个体等级的划分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上述思想为启发，本文提出一种动态分级算子，以个体的适应度为基础，将整个种群分成4种不同等级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "个体 $A _ { _ i }$ 的等级为 $R _ { i }$ ，等级的判别由分级因子决定。在路径规划中，个体的优秀程度由其所走路径的长度决定，所走路径长度较短的个体被认为是比较优秀个体。在这个前提下定义分级因子如式(5)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { _ i } = \\frac { l e n g t h _ { _ i } } { l e n g t h _ { _ { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i } = \\left\\{ \\begin{array} { l l } { h e a d \\mathrm { ~ i f ~ } \\lambda _ { i } = 1 } \\\\ { l e a d e r \\mathrm { ~ i f ~ } 1 < \\lambda _ { i } \\leq L T } \\\\ { o r d i n a r y \\mathrm { ~ } i f L T < \\lambda _ { i } \\leq O T } \\\\ { o u t e r \\mathrm { ~ i f ~ } \\lambda _ { i } > O T } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：length是个体所走路径长度，length.是当前迭代中的最短路径长度， $\\lambda _ { _ i }$ 由length和 $l e n g t h _ { \\mathrm { \\small { ~ \\small { ~ m i n } } } }$ 的比值决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如式(6)所示，根据分级因子 $\\lambda _ { _ i }$ 以及阈值 $L T$ 和 $o r$ ，整个蚂蚁种群被分成4类：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）当 $\\mathbf { \\nabla } \\lambda _ { _ i } = 1$ 时，个体 $A _ { i }$ 的等级 $R _ { i }$ 被定义为head，此类个体被类比为头狼，对整个种群具有指导作用，一般只有一只。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)当 $1 < \\lambda _ { _ i } \\leq L T$ 时，个体的等级被定义为 leader，式中 $L T$ 是该等级的分级阈值。属于此阶层的个体是种群中比较优秀的个体，受head影响较小，自身经验可以较多地体现，有可能成为新的head。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）当 $L T < \\lambda _ { _ i } \\leq O T$ 时，个体所属等级被定义为ordinary，式中 $o r$ 是等级划分上限阈值。它们可以类比猛狼，是种群中的普通成员，也是种群的主要构成部分。它们在受head影响的同时也会保有个体自身的经验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）当 $\\mathbf { \\Psi } _ { \\lambda _ { i } > O T }$ 时，个体被定义为outer，这些个体被认为是淘汰者，它们一定会受head的指导，且在信息素更新中不起作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分级操作是头狼影响策略和信息素更新策略的基础，它体现来自狼群算法的严密的等级划分。同时，每一等级的个体数目也不是固定不变的，它会根据每一迭代的情况不同调整规模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3分等级的头狼影响策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "head对其他等级成员的影响效果能以多种方式得以体现，在吴虎胜[20]的启发下，本算法设置的是直接替换路径片段的头狼影响策略：通过随机选择head路径与其他阶层成员路径的两个交点，进行路径分割与片段替换，在保有个体自身经验的同时体现head的影响力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "头狼影响策略的应用根据路径的交叉情况有所不同：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）除起点、终点外有两个及其以上交点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，在路径除起点、终点外有两个及其以上交点时，随机选取head路径与其他等级成员路径的交点A、B，在分割出A、B点所连接的路径后，用head的AB 路径替换其他等级成员的AB路径，在体现head指导作用的同时保留了其他成员的经验。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/262fc16d82196ed9d19404a7c88a920d8e4e807772f85267f4cebe5b63fc5d3d.jpg",
+        "img_caption": [
+            "图2头狼影响策略示意图(两个及其以上交点)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）除起点、终点外只有一个及其以下交点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，当head路径与其他路径间除起点、终点外只有一个及其以下交点时，头狼影响策略不发挥作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cc8983d412e740072bca62461b1bcde120437a12c0e9ff6cff19132bb461a22.jpg",
+        "img_caption": [
+            "图3头狼影响策略示意图(一个及其以下交点)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为提高算法的多样性，在头狼影响策略中，轮盘赌机制也被应用其中，不同的等级成员的分属不同的轮盘赌阈值：outer一定会被head影响，ordinary有比较大的可能被影响，leader作为head的候选群体，被影响的概率则比较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4是三种等级成员被head影响可能性的轮盘赌示意图，优秀个体被影响的可能性较小，发挥自身优势的可能性比较大；弱势个体则更有可能跟随head，被动接受head的经验。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd7e5afefe62bc7c5bb8354c7b281d226b6eda0cc68e6358dbf9e99c969fd9a.jpg",
+        "img_caption": [
+            "图4种群成员受头狼影响概率分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "头狼影响策略的应用实现了head与种群中其他等级成员的交流，遵循适者生存的自然界法则，在给予较优个体自由发展空间的同时强制干预较弱个体的行为，令整个种群获得较好发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4分等级的动态信息素更新策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同等级的蚂蚁留下的信息价值有所不同，为了有效利用精英个体的信息素，减少赢弱个体的干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "信息素更新前期，由于路径上的信息素较少，蚂蚁寻找路径会更多地受启发式信息影响，导致outer的成员过多，leader阶层几乎没有；而在信息素更新后期，较优路径上的信息素趋于饱和，使蚂蚁不易陷入死区，此时，整个种群的成员几乎都属于ordinary和leader阶层，且越往后发展，leader阶层中的成员会越多。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be8bf0a0a1cdb145e781428f9a1982015eac5a5d8d16cb94e90217ca39ab6561.jpg",
+        "img_caption": [
+            "图5不同时期蚂蚁阶层分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5是算法不同时期，蚂蚁所处阶层的分布图。在蚂蚁总数量不变的前提下，前期处outer阶层的蚂蚁最多，并随着算法的进行不断减少，使leader 和ordinary 中的蚂蚁增多，到后期时，leader阶层中的蚂蚁数目最多。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为保证在算法的整个过程中，等级的重要性都能平稳体现，高级阶层的指导作用能稳定发挥，本算法在采用分等级的动态信息素更新策略的同时，加入了归一化的处理，对于个体 $A _ { \\mathrm { k } }$ 走过的路径段的信息素按式(7)计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\tau ( i , j )$ 是当前节点的信息素量， $\\sigma$ 是信息素挥发率，$\\Delta \\tau ( i , j )$ 是信息素增量。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau ( i , j ) = \\sigma ^ { * } \\tau ( i , j ) + ( 1 - \\sigma ) ^ { * } \\Delta \\tau ( i , j )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\tau ( i , j ) = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { Q 1 } { n J } \\mathrm { i f } R _ { \\star } \\in \\mathrm { h e a d } } \\\\ { \\displaystyle \\frac { Q 2 } { n J } \\mathrm { i f } R _ { \\star } \\in \\mathrm { l e a d e r } } \\\\ { \\displaystyle \\frac { Q 3 } { n J } \\mathrm { i f } R _ { \\star } \\in \\mathrm { o r d i n a r y } } \\\\ { 0 \\quad \\mathrm { i f } R _ { \\star } \\in \\mathrm { o u t e r } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式(8)是信息素增量△τ(i,j)的定义，其中Q1、Q2、Q3、$Q 4$ 是各阶层所能释放的信息素的总量：head等级的信息素总量最大，leader等级的信息素总量其次，ordinary对信息素更新的影响小于前两者，而当个体处于outer等级时，对信息素更新不产生影响。 $n \\times \\ n 2 \\cdot \\ n 3 \\cdot \\ n 4$ 则是各阶层的成员数目。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分等级的信息素更新策略体现不同等级个体的影响力，当前迭代中优秀个体的经验能对下一迭代的路径选择产生比较大的作用，而羸弱个体的经验，因为参考价值比较少，不会被着重考虑。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这种更新策略体现精英个体的指导作用，提高了算法的收敛性。同时，因为它依赖于上述的动态分级算子，会因迭代情况的改变而不同，具有自适应调整性，避免了算法的失衡。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为验证算法的效果，本文在5种环境下将本算法与蚂蚁算法、蚁群算法、精英蚂蚁算法进行对比实验。并通过逐一算子比较，将本文的改良算法与蚂蚁算法进行对比实验，验证算子的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1算法总体效果对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1给出4种算法的参数设置情况，其中AS与本文算法只用到局部信息素挥发因子，ACS和EAS算法同时使用局部信息素挥发因子和全局信息素挥发因子。EAS需要设置精英蚂蚁数目，而本文算法需要事先设定好不同等级的信息素强度，以及分级的阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在设置好各算法所需的参数后，将在5种不同环境下进行4 种算法性能的对比实验，并给出本文算法与AS 的最优路径对比图，4种算法的迭代对比图，以及多次实验所得的数据整合表格。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6是在 $5 0 ^ { * } 5 0 _ { - } 1$ 环境中本文算法和AS算法的寻优路径对比，图7则是四种算法的迭代情况比较。由图可见，本文算法与EAS算法能找到最优解，且相较其他三种算法收敛速度较快，总体效果比较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eaeadac99083e3e30f4905e0890800cde4b509893dcbd000dc9f5364253fb56c.jpg",
+        "table_caption": [
+            "表1算法的参数设置情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法类型</td><td>WAS</td><td>AS</td><td>ACS</td><td>EAS</td></tr><tr><td>蚂蚁个数</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>精英蚂蚁数</td><td>/</td><td>/</td><td>/</td><td>10</td></tr><tr><td>局部信息素挥发量</td><td>0.1</td><td>0.1</td><td>0.1</td><td>0.1</td></tr><tr><td>全局信息素挥发量</td><td>/</td><td>/</td><td>0.1</td><td>0.1</td></tr><tr><td>启发式因子</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>信息素因子</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>信息素强度</td><td>/</td><td>6</td><td>6</td><td>6</td></tr><tr><td>信息素总量</td><td>20/40/80</td><td>/</td><td>/</td><td>/</td></tr><tr><td>分级阈值LT/OT</td><td>1.4/3</td><td>/</td><td>/</td><td>/</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "50  \n40 写十 4  \n30 五中 H 生 L中  \n20 T1 十  \n10 T 中1 田中T 中 出 电 T00 10 20 30 40 50",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f665ab05a53388ed7038b24acb9c926deb2992a205638e8997e714a6e9aff10.jpg",
+        "img_caption": [
+            "本文算法与AS路径对比图",
+            "图6 $5 0 ^ { * } 5 0 \\_ 1$ 路径对比图",
+            "图7 $5 0 ^ { * } 5 0 \\_ 1$ 迭代情况对比图",
+            "图11 $2 0 ^ { * } 2 0 \\_ 1$ 迭代情况对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "环境 $4 0 ^ { * } 4 0 \\_ 1$ 同样是种复杂环境，由图8、图9可见，本文算法，EAS算法与ACS算法能够找到最优解，而AS算法所得最优路径的误差较大。同时，本文算法依然能以相对最少的迭代找到最优解，整体性能比较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "环境 $2 0 ^ { * } 2 0 \\_ 1$ 相较上述两种环境比较简单，四种算法均能找到最优解，由图10、图11可见，本文算法收敛较快，相较其他算法能比较早地找到优解，解决问题的性能相对比较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法与AS路径对比图  \n40  \n35田 1  \n30二  \n25 中  \n15 YH  \n105 T  \n00 10 20 30 40不同算法的迭代情况对比图68二 —本文算法67 1 \\*ACS66 i！ Si65 二 e  \n度 1来十1  \n路 --e-0-e----○-  \n优62 4 1  \n最 -+ \\*\\*61 1 1 1【 一 160 1 ++ 159 一一 1 一 1\\*中58 上 10 25 50 75 100迭代次数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8abf1548b7251fc81f44f950783e6c10cf6ba2a67e182ff8014b98b3de295903.jpg",
+        "img_caption": [
+            "图8 $4 0 ^ { * } 4 0 \\_ 1$ 路径对比图",
+            "图9 $4 0 ^ { * } 4 0 \\_ 1$ 迭代情况对比图",
+            "图10 $2 0 ^ { * } 2 0 \\_ 1$ 路径对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同算法的迭代情况对比图31—本文算法\\*ACSH +EASOAS10-0-0-0100io:ooio1 129.5 L 来 \\* e-o一 ！！ 1 1！！ 1\\*\\* ！1 1 129 ！！ 1 1！！ 1 =！ 1 1中28.50 25 50 75 100迭代次数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "环境 $5 0 ^ { * } 5 0 \\_ { 2 }$ 也是一种复杂情况，陷阱较多。由图12、图13可见，本文算法和EAS算法能找到最优解，ACS算法接近最优解而 AS 算法得出的解相差较大。同时，本文算法找到最优解所需的迭代次数比较少，整体效果较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文算法与AS路径对比图5040国",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同算法的迭代情况对比图755 本文算法ACS—EAS五 AS70  \n度 H  \n长 11 米1  \n最65 11-1 +1 + -L + 1□ 十 ++→>→>→+++\\*\\*\\*\\*\\*\\*\\*\\*\\*中-60 L L T0 25 50 75 100迭代次数",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4af52b5fbf0bd4a235194549970dfa1788a568315b08e0e25b9f6124da604d76.jpg",
+        "img_caption": [
+            "图15 $4 0 ^ { * } 4 0 \\_ 2$ 迭代情况对比图",
+            "图12 $5 0 ^ { * } 5 0 \\_ { 2 }$ 路径对比图",
+            "图13 $5 0 ^ { * } 5 0 \\_ { 2 }$ 迭代情况对比图",
+            "图14 $4 0 ^ { * } 4 0 \\_ 2$ 路径对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "环境 $4 0 ^ { * } 4 0 \\_ 2$ 是一种多陷阱的复杂环境，在这种环境中算法容易陷入局部最优，导致找不到最优解。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图14、15所示，AS算法在该环境中的寻优效果最差，ACS和EAS都能找到比较好的解，但仍找不到最优解。本文算法的收敛性相较其他算法比较快，找到的最优解的质量也比较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文算法与AS路径对比图  \n40S 1 +二  \n35 一 1 H1 111 中 ：T  \n30 1 H 1 H中 中  \n25 二 1 山 □中 T二 LT 国十 出 T 1 上  \n201 一二  \n15 二1 T 一中 中  \n10 T 11 T 二□ 5门 一 十1 1 T 15 4 1 二5 十T T1 1 十1 10 福 国0 10 20 30 40",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2是4种算法在5种环境里分别运行10次的效果对比。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可见，EAS算法和本文算法的收敛性比较高，EAS算法、ACS算法和本文算法的解的质量比较好，本文算法在5种不同环境中均能取得最优解，在较为复杂的环境中更能体现优越性。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/52d486186056a3fc03c23f92cba036af10a33f3781db7de0b9f78e164efc5e10.jpg",
+        "table_caption": [
+            "表2不同环境中算法性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">环境</td><td colspan=\"5\"></td><td rowspan=\"2\">平均 迭代</td></tr><tr><td>最优解</td><td>算法</td><td>最优值</td><td>最差值</td><td>平均值</td></tr><tr><td rowspan=\"5\">50*50_1</td><td rowspan=\"5\">75.9828</td><td>WAS</td><td>75.9828</td><td>78.5685</td><td>76.9949</td><td>17.4</td></tr><tr><td>AS</td><td>79.397</td><td>83.6396</td><td>82.4183</td><td>47.5</td></tr><tr><td>ACS</td><td>76.5685</td><td>79.7401</td><td>77.6313</td><td>63.1</td></tr><tr><td>EAS</td><td>75.9828</td><td>79.0538</td><td>76.9141</td><td>18.2</td></tr><tr><td>WAS</td><td>58.669</td><td>60.088</td><td>59.2538</td><td>7</td></tr><tr><td rowspan=\"4\">40*40_1</td><td rowspan=\"4\">58.669</td><td>AS</td><td>60.669</td><td>62.912</td><td>62.2247</td><td>41.4</td></tr><tr><td>ACS</td><td>58.669</td><td>61.598</td><td>59.7276</td><td>56.4</td></tr><tr><td>EAS</td><td>58.669</td><td>61.255</td><td>59.376</td><td>19.4</td></tr><tr><td>WAS</td><td>28.6274</td><td>29.4558</td><td>29.1244</td><td>8.9</td></tr><tr><td rowspan=\"5\">20*20_1</td><td>28.6274</td><td>AS</td><td>28.6274</td><td>29.799</td><td>29.4759</td><td>38.9</td></tr><tr><td>ACS</td><td></td><td>28.6274</td><td>29.799</td><td>29.1789</td><td>17.9</td></tr><tr><td>EAS</td><td></td><td>28.6274</td><td>29.4558</td><td>29.2416</td><td>7.1</td></tr><tr><td>WAS</td><td></td><td>73.9828</td><td>75.6396</td><td>74.7869</td><td>16.5</td></tr><tr><td>AS 73.9828</td><td></td><td>80.2254</td><td>82.8112</td><td>81.4254</td><td>24.6</td></tr><tr><td rowspan=\"4\"></td><td></td><td>ACS</td><td>74.5685</td><td>79.0538</td><td>75.8798</td><td>62</td></tr><tr><td>EAS</td><td></td><td>73.9828</td><td>75.6396</td><td>74.7284</td><td>18.9</td></tr><tr><td>WAS</td><td></td><td>61.0122</td><td>63.0122</td><td>62.1879</td><td>19.9</td></tr><tr><td>AS 61.0122</td><td></td><td>62.1838</td><td>66.669</td><td>64.3477</td><td>35</td></tr><tr><td rowspan=\"3\">40*40_2</td><td>ACS</td><td>61.0122</td><td>63.0122</td><td></td><td>61.7536</td><td>59</td></tr><tr><td></td><td></td><td>63.0122</td><td>62.1335</td><td></td><td></td></tr><tr><td>EAS</td><td>61.598</td><td></td><td></td><td></td><td>21.4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为对AS算法的改良，本算法在收敛性和解的质量上均取得较为显著的效果，下面将就本算法的3种改良算子与原始AS 算法做对比，验证改良方案的有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2头狼影响策略效果对比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在进行头狼因子效果实验时控制两种算法参数相同，所处环境相同，其中一种是原始 AS 算法，另一种仅加入头狼影响策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图16、17可见，在路径交汇比较多的情况下头狼影响策略能比较有效地发挥其作用，通过片段替换增加某些路径的经由次数，使它们的信息素浓度增加，提高了算法的收敛性，同时体现个体间的协同作用，一定程度上提高解的质量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "头狼影响策略优化路径效果对比图  \n35  \n30 田 十 1 1 1 1 由 二1十  \n25 十中  \n20 N 中 1 1 1T □ 4 1  \n15 用 二 十中 1田 中  \n10二 中里 上 15 中 三 4 中1 1 二 中0 中 上 上 上 上0 10 20 30 40",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/110f6d2ac7c5ae883371d185c0a79e846cc54554516477209f496f8646759a59.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3动态信息素更新策略效果对比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本算法采用分等级的信息素更新机制，不同等级的个体以不同策略进行信息素更新。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图18、19可见，该机制的使用可以比较有效地反映优秀个体对下一迭代的指导作用，在提高解的质量的同时对算法的收敛性也有所改善，在复杂环境下也能发挥作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于动态等级的蚁群算法改进方案，通过动态分级因子将整个种群分成4类，再根据个体的等级进行不同程度的头狼影响策略与信息素更新策略，一定程度上提高算法的收敛性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d35cb53c5256472f1ddfe282976eb703678c0718965e94b9dcda9d48d4a7105e.jpg",
+        "img_caption": [
+            "图16头狼影响策略优化路径效果对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验证明，本算法在陷阱数量比较少的简单环境下能以比较少的迭代找到最优路径，体现相对优良的效率，但针对陷阱较多的复杂情况的求解质量仍待提高。下一步的研究方向是继续提高优化解的质量，并继续研究算法参数与地图环境的关系，进一步提高算法的环境适应性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/93783a9df9e701c51e2e401c4dd1f007f25e94722c93dae598de7c11c9e478bd.jpg",
+        "img_caption": [
+            "图17头狼影响策略优化迭代对比图",
+            "图19动态信息素更新策略优化迭代对比图",
+            "图18动态信息素更新策略优化路径效果对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]左大利，聂清彬，张莉萍，丁度坤．移动机器人路径规划中的蚁群优化算法研究[J].现代制造工程,2017,39(5):44-48.  \n[2]朱庆保，张玉兰．基于栅格法的机器人路径规划蚁群算法[J].机器人，2005,27(2): 132-136.  \n[3]田子建，高学浩．基于改进人工势场法的救灾机器人路径规划[J].工矿自动化,2016,42(9):37-42.  \n[4] 沈博闻，于宁波，刘景泰．仓储物流机器人集群的智能调度和路径规划[J]．智能系统学报,2014,9(6): 659-664.  \n[5]杨俊成，李淑霞，蔡增玉．路径规划算法的研究与发展[J].控制工程,2017,24 (7): 1473-1480.  \n[6]朱大奇，颜明重．移动机器人路径规划技术综述[J].控制与决策,2010,25 (7): 961-967.  \n[7] Wu ZongSheng,Fu WeiPing.A review of pathplanningmethod formobilerobot [J].Advanced Materials Research,2014,3470 (1030):1588-1591.  \n[8] 王雷，李明，蔡劲草，等．改进遗传算法在移动机器人路径规划中的应用研究[J].机械科学与技术,2017,36(5):711-716.  \n[9]黄辰，费继友，刘洋，等．基于动态反馈 $\\mathbf { A } ^ { * }$ 蚁群算法的平滑路径规划方法[J]．农业机械学报,2017,48(04):34-40+102.  \n[10]金飞虎，高会军，钟啸剑．自适应蚁群算法在空间机器人路径规划中的应用[J].哈尔滨工业大学学报,2010,42(07):1014-1018.  \n[11] Dorigo M, Maniezzo V, Colorni A. The ant system: optimization bya colonyof cooperating agents [J]. IEEE Trans on Systems,Man,and Cybernetics,Part B: Cybernetics,1996,26 (1): 29-41.  \n[12] Stutzle T,Hoos H.H. MAX-MIN ant system [J]. Future GenerationComputer Systems,2000,16 (8): 889-914.  \n[13] Dorigo M, Gambardella L M.Ant colony system: a cooperative learningapproach to the traveling salesman problem[J].IEEE Trans on EvolutionaryComputation,1997,1(1): 53-66.  \n[14] Bullheimer B,Hartl RF, Strauss C.A new rank based version of the antsystem-a computational study [J]. Central European Journal of OperationsResearch,1999,7(1): 25.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15] Liu CG,Yan XH,Liu CY,Wu H. The wolf colony algorithm and its ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "application [J].Chinese Journal of Electronics,2011,20 (2): 212-216.  \n[16]吴虎胜，张凤鸣，吴庐山．一种新的群体智能算法—一狼群算法 [J].系统工程与电子技术,2013,35(11):2430-2438.  \n[17]薛俊杰，王瑛，李浩，等．一种狼群智能算法及收敛性分析[J].控制与决策,2016,31(12):2131-2139.  \n[18]王涛，王勇，蒙丽萍．一种改进的狼群搜索算法及用于解决聚类问题[J].计算机应用与软件,2016,33(12):257-263.  \n[19]冯翔，马美怡，施尹，等．基于社会群体搜索算法的机器人路径规划[J].计算机研究与发展,2013,50(12):2543-2553.  \n[20]吴虎胜，张凤鸣，李浩，等．求解TSP问题的离散狼群算法[J].控制与决策,2015,30(10): 1861-186.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

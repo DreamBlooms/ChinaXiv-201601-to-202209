@@ -1,0 +1,225 @@
+# 直播营销中社会临场感对线上从众消费的影响及作用机理研究一一行为与神经生理视角
+
+谢莹」；李纯青1＊；高鹏¹；刘艺²(1西北大学经济管理学院，西安 710127;²西安财经大学商学院，西安 710100）
+
+摘要 研究以直播营销为背景，引入产生于通讯领域的社会临场感概念，在文献归纳分析的基础上首先探讨直播营销环境下社会临场感的内涵和构成；之后基于从众消费理论通过行为实验的方法探究直播营销中社会临场感影响线上从众消费的认知机制；进一步，根据社会临场感理论探讨自我建构和消费者-主播关系强度在此过程中的调节作用；最后基于社会助长理论，利用神经科学方法客观性和“过程测量”的优势探索直播营销中社会临场感影响线上从众的情感机制。研究将揭示社会临场感影响线上从众消费行为的机理，为直播播主和电商卖家提供指导的同时，帮助消费者了解自我，以做出更理性的消费决策。
+
+关键词直播营销；线上从众消费；社会临场感；消费者行为；神经生理
+
+分类号：B849;F713.55
+
+直播营销是随着移动互联网时代视频直播的出现和走红而产生的线上销售模式。该模式下直播播主（可能是商家或其雇佣者）在直播平台上通过对商品的试用和经验分享为消费者提供商品展示，进而促进消费者点击购买商品。2016 年被称为"网络直播元年”，2016年5月淘宝公司率先推出了一种定位于“消费类直播"的线上直播营销平台"淘宝直播”。经过近一年的发展，仅2017年12月12日（双12购物节）当天就有超过1亿人次围观了淘宝直播。继淘宝之后，亚马逊也开始尝试网络直播服务，推送其海外商品，交易规模飙涨5倍。网易考拉海购则与虎牙直播、斗鱼直播和花椒直播签订战略合作框架以期通过新的电商直播模式推动其平台上的商品销售(华勇,2017)。随着网络直播的兴起和线上销售平台的发展，直播营销模式正在呈现爆发式的发展并成为新的网络商业风口。
+
+已有的网络消费研究指出由于线上购物中信息存在有限性的特点，消费者在线商品选择容易参考其他消费者行为和口碑意见，表现出显著的从众消费倾向(Greenleaf & Lehmann,1995; Park, Rishika, Janakiraman, Houston,& Yoo, 2018; Xie etal.,2016)。新兴的直播营销模式的一个突出的特点就是该模式下消费者不再是与其他买家隔离的"孤岛"而被置于了一种有他人虚拟在场的线上购物情境之中。消费者在观看直播的同时可以看到：1.直播间总观众人数；2.直播间观众赠礼；3.直播间观众购买及抽奖；4.直播间观众互动发言；5.新进直播间的观众名称；6.直播间观众点赞。互动的实时性和立体性令消费者的决策环境与传统的电商模式发生了质的改变。而已有的社会心理学和营销学研究表明人们的活动常常受到他人存在的影响，特别的在营销研究中学者们发现消费者的注意、对商品多样性的寻求以及消费决策常常受到来自家人、朋友、销售人员甚至陌生人的社会影响(Ariely&Levav,2000; Chatterjee, Chollet, & Trendel, 2017; Jayasinghe & Ritson, 2013; Kurt & Didem,2011; Park et al., 2018; Ratner & Kahn, 2002; White & Argo, 2011; Yang & Allenby,2003)。但目前还未见研究探讨直播营销的社会实时互动属性对线上从众行为的作用。
+
+在网络虚拟环境下，研究者们用来自通讯领域的概念——社会临场感（Socialpresence，SP)描述他人在互动中的显著性程度以及随之而来的人际关系显著程度。已经有一些学者将社会临场感的概念应用在线上互动和消费研究中，探讨了在线服务改进、网络社区建设、虚拟购物中心设计和网络购物决策等问题中社会临场感对人机互动（Lee & Nass,2005)、购买意愿(Botha& Reyneke,2016; Keng,Chang,Chen,& Chang,2016)、感知安全性(Shin& Shin,2011)以及线上交易信任(Lee& Shin,2014; Lu,Fan,& Zhou,2016)和享乐价值(Shen,2012; Wang, Yang,Wang,& Ma, 2014)等的影响，但这些研究都不涉及到直播营销这样高实时性和沟通立体性的情况，传统网页购物平台中沟通成员组成的复杂性也与直播营销环境不可同日而语（传统购物平台不存在消费者与众多其他消费者间的实时互动)。在直播营销环境中，消费者虽然不能与其他用户面对面的交流，但这些用户的虚拟在场和活动所带来的“社会临场感"很可能通过信息性作用和规范性作用对消费者的从众消费心理和行为产生影响。另一方面社会心理学的社会助长理论研究表明他人的临场本身就具有社会唤醒作用，有可能通过改变消费者的生理情感状态影响消费行为。而我们以往的线上消费研究关注的都是消费者在“个体情境”下孤立地浏览商品图文信息并进行商品考虑和决策时的行为和心理，未将线上消费的实时"社会情境"考虑到对消费行为的解读中。因此，以往的理论和研究并不能完全用来解释和预测直播营销模式下的消费者行为。本研究抓住直播营销实时互动性强的特点，探讨了直播营销中社会临场感的内涵和构成，社会临场感是否影响消费者的线上从众消费，如果影响的话如何影响，以及直播营销情境下从众的边界条件等问题。
+
+# 1.国内外研究现状评述及问题提出
+
+# 1.1 社会临场感
+
+社会临场感（SocialPresence，SP）是随着网络技术发展和革新逐渐从传统通讯领域拓展到远程教育、人机互动和市场营销等领域的描述他人在互动中的显著性程度以及随之而来的人际关系显著程度（the salience of the other in amediatedcommunication and the consequent salience of their interpersonal interactions ）的重要概念(Short,Williams,&Christie,1976)。在营销领域，社会临场感的相关研究出现相对较晚，目前主要涉及在线服务改进(Lee&Nass,2005)、网络购物(Shen,2012;Wang et al.,2014)、虚拟购物中心设计(Shin& Shin,2011）和网络社区建设(Lee&Shin, 2014; Lu et al.,2016)等主题
+
+# 1.1.1社会临场感在营销领域的定义及相关研究
+
+学者们定义了营销领域的社会临场感并围绕社会临场感这一概念展开了消费态度和行为研究，例如：Shin 等将社会临场感定义为面对面交流的替代品。发现社会临场感能提高消费者在虚拟购物中心的安全感知和购买态度，是使用虚拟购物中心的关键行为前提(Shin & Shin,2011)。 Shen 等则将社会临场感定义为媒介允许用户将其他人当作一个心理存在者的程度，并通过研究指出网站的互动特性能促进个人临场感的比较，由网站传达的社会临场感通过影响享乐感和有用性等感知来影响行为意图(Shen,2012)。还有一些学者认为社会临场感仅是对他人的心理真实临场（psychologicallypresent）的评价，它与代表物理真实性的"远程临场感（telepresence）"共同构成“虚拟临场（virtualpresence）”，并进一步共同影响着消费者对网页的信任(Lee＆ Shin,2014)。我国学者 Wang 的研究中沿用人际互动领域对社会临场感的定义，即：社会临场感指的是媒介带给用户的近似人类的温暖和社会交流(Hassanein&Head,2007)，发现 B2C 网站虚拟人物形象的使用可以增加消费者的社会临场感，进而促进享乐价值的提高并促进消费者对网站产生积极态度(Wang et al.,2014)。
+
+# 1.1.2社会临场感的构成维度
+
+研究者们还根据具体的研究背景对营销中的社会临场感的构成维度进行了探索。学者Lee 较早地研究消费中的社会临场感，并将社会临场感细分为共在临场感和心理投入。他们围绕产品描述音频服务，发现消费者（尤其是外向性消费者）在听到与他们个性相似的音频产品描述时会比听到和他们个性不匹配的音频感受到更强的社会临场感，提出未来可以根据用户个性来定制音频式的产品描述来增强社会临场感(Lee&Nass,2005)。最近的研究发现网络社区（socialcommerce）的社会临场感由网页社会临场感、他人社会临场感和交流社会临场感共同构成，并且这三个社会性的因素显著影响了消费者对商家的信任，网页社会临场感、他人社会临场感和交流社会临场感越高，消费者对卖家的信任水平越高，并进而促进了购买(Lu, Fan, Zhou, 2016)。
+
+# 1.1.3社会临场与信任
+
+许多社会临场感研究中发现了社会临场感与在线信任之间存在密切联系。Gefen 和 Straub 在研究中发现社会临场感可以正向促进消费者的电子交易信任（e-trust）形成并有助于产生购买意愿，该研究中的社会临场感主要是指由网页带来的与人接触的、私人的、社交的感觉(Gefen& Straub,2004)。还有研究表明社会临场感的增加可以提高消费者对商家（seller）的信任程度，这里的社会临场感指的是在交易中使用阿里旺旺与商家的互动中感受到的他人在互动中的显著性程度以及随之而来的人际关系显著程度(Lu,Fan,Zhou,2016)。类似的，我国学者发现与商家的在线互动能增加消费者的社会临场感，进而提高消费者对B2C 网店诚信性和善意性的信任(赵宏霞等.,2015)。还有研究发现社会临场感对于感知个性化推荐程度对消费者店铺（online store）信任观念起了部分中介的作用(Li&Wang,2013)。
+
+# 1.1.4社会临场感与评价顾忌
+
+已经有许多研究证明了他人临场会使个体产生评价顾忌。评价顾忌指的是个体由于希望得到他人积极评价或者至少是为了避免得到他人消极评价而自主产生的忧虑(Rosenberg,1965; Zhen-Wei, Li,Wen-Wen,Xu-Yun,& Xian,2015)。已经有很多研究证明了评价顾忌可以由不同的社会线索（SocialCue）激发，例如听众或观众的影像临场(Kim&Cohen,2010)，甚至是眼睛样子的图片也可能引发评价顾忌(Mifune,Hashimoto,& Yamagishi,2010； Zhen-Wei et al.,2015)。在一个社会环境中，“人一环境一目标激活"会在"人一目标激活"的作用之外，直接或通过社会交互影响消费者的购买行为(Pozharliev,Verbeke,&Bagozzi,2017)。消费过程中，消费者会因为他人的纯粹社会临场（mere social presence）而产生正在被他人评价的感觉并引起消费者自我印象管理的意识，这种意识随着他人数量的增长及他人对自己行为的可察觉度上升而增加(Argo,Dahl,& Manchanda,2005)。
+
+# 1.1.5简要评述
+
+社会临场感是传统通讯领域的重要概念，随着现代通讯技术的发展其在营销领域已经有一些应用和研究。已有的研究揭示了社会临场感对网站信任度、购买态度以及购买行为等方面的一些影响。然而，营销领域的研究中对社会临场感这一概念并没有形成统一的定义；并且社会临场感在不同情境下的构成维度可能存在很大差异；更重要的是，新兴的直播营销情境下消费者实时获得大量他人临场信息，而已有研究探讨的社会临场感都不涉及与其他消费者的实时立体互动情况，而且目前还未见研究探索社会临场感对直播营销中线上消费行为的影响及机理问题。
+
+# 1.2从众消费
+
+从众消费是消费者受社会影响（socialinfluence）的结果，指个人的消费观念、意愿与行为由于受参考他人（referentothers）的评价、意愿和购买行为的引导和压力，而趋向于与大多数人相一致的现象(Lascu,Bearden,&Rose,1995)。
+
+# 1.2.1线上从众消费行为及其原因
+
+从众消费在线上消费中尤为常见。Dholakia 等关于网上数码产品购买行为的研究(Dholakia,Basuroy,& Soltysinski,2002)和 Hanson 等在网民软件下载选择研究中都发现了在线消费者存在着显著的从众行为(Hanson&Putler,1996)。此外，在线书籍购买行为研究发现消费者容易受到书籍销售榜、在线评论和网站推荐的影响，发生从众(Chen& YiFen,2008; Chen et al.,2010; Huang& Chen,2006)。Xie 通过线上购书实验验证了线上书籍购买中的从众现象并探讨了其背后的神经心理机制(Xie etal.,2016)。在网络团购研究中同样发现了明显的从众购买，学者们指出线上□碑和媒体推荐都显著促进了消费者的购买行为的产生(Chen&Lu,2014)。消费者产生从众消费的原因大体可以分为两类：信息性影响和规范性影响(Lascu et al.,1995)。信息性影响发生在消费者认为他人的意见能够反映真实情况的情形下(Cohen&Golden,1971)，例如当消费者认为他人能够正确评价产品的真实品质的时候可能顺从他人的选择产生从众消费行为。规范性影响出于消费者希望被他人接受或避免被他人排斥的期待(Lascuetal.,1995)，例如购买参考群体认可的商品以使自己被群体接纳，而拒绝购买参考群体否定的产品以避免被他人当作傻子、异类。
+
+# 1.2.2信息性影响与信任
+
+信息性影响（informational influences）指在不确定或无助的情境下,人们会将他人作为信息的来源,参考他人的行为做出自己的行动，此种情况下消费者信任他人行为反应了真实情况是消费从众的重要原因。研究表明知识渊博的人或者专家的出现和人数通常决定了消费者信息性从众的程度(Lascu et al.,1995;Quiamzade &L'Huillier,2009)。然而在网络购物的情境下，消费者信任通常不能建立在明确知道对方专家身份信息的情况下。因而，消费者更关注于口碑的产生是否是消费者的真实体验的反应。最近出现的"好评红包”、“好评返现”使得消费者对口碑真实性常常存在质疑(郭海玲，2015；宋嘉莹，王宁，杨学成,2017)。而沟通理论和亲密性理论指出与他人的直接交流和接触可以增加相互的信任感(邹宇春,赵延东,2017)。例如网络游戏社区中消费者的线上交流促进了消费者对线上产品的消费(Park et al.,2018)，游戏者通过与他人的共同游戏和聊天，提升对他人消费判断的信任感并观察他人购买的道具以获得商品信息。同样的，直播营销中实时与其他购买者接触，可能增强线上用户产生口碑信息的可信性感知，通过从众的信息性影响作用于消费者。
+
+# 1.2.3规范性影响与评价顾忌
+
+规范性影响（normative influences）是一种基于个人被别人接纳或避免他人排斥的期望产生的社会影响。因而，受规范性影响的消费者常常出于对他人的评价顾忌而做出与口碑一致的购买行为。评价顾忌指被他人评价的顾虑(戴维·迈尔斯,2016)，即个体由于希望得到他人积极评价或者至少是为了避免得到他人消极评价而自主产生的忧虑(Rosenberg,1965; Zhen-Wei etal.,2015)。他人在场常常会激发个体的评价顾忌并进一步影响其行为。如实验中长跑者遇到面对他的女士时跑步速度要比遇到背对他的女士时更快(Worringham&Messick,1983)。在消费中，公开购买的情况下消费者更容易产生由对他人积极评价的期待和对消极评价规避带来的评价顾忌，即受到规范性从众的影响产生从众购买行为。例如，研究证实无论是在大众品牌还是在奢侈品牌的消费中，公开消费的消费品相比私下消费的消费品受到更强的规范性从众效应影响(姜凌，周庭锐,王成璋,2009)。然而在线上，传统电商环境的消费者的购买行为并不在他人的实时直接观察之中。随着直播营销形式的出现，直播间的其他消费者可以即时看到直播间其他人的购买行为（例如：直播间会实时显示"\*\*\*正在去购买该商品")。因而，直播营销中消费者的购买很可能受到规范性从众心理的影响。
+
+# 1.2.4简要评述
+
+从众是线上消费的常见现象，从众消费行为的产生主要受到信息性影响和规范性影响的作用。以往的研究已经从不同层面一定程度上揭示了传统电商环境下消费者受到口碑信息影响而产生从众行为的机制和倾向。然而随着直播营销的产生，信息性影响和规范性影响发生作用的环境发生了极大的变化：一方面消费者能够与其他消费者实时交互沟通，另一方面个体的消费行为也时刻处于他人的观察之下。因而，直播营销环境中消费者的从众行为倾向及其发生途径可能不同于传统电商环境，亟待深入研究。
+
+# 1．3社会助长理论
+
+# 1.3.1社会助长理论与情感内驱力唤醒
+
+人类行为除了受到理性分析影响还受到生理情感状态的影响(孙彦，李纾，殷晓莉,2007)。最近的一个关于商业广告的心理学研究表明，消费者在社会情境中常常要考虑到参考他人的心理和动机因而情感方面的状态对于行为影响尤为显著(Pozharlievetal.,2017)。社会助长（Social facilitation）理论指出他人临场会对个体产生唤醒作用，进而影响个体的态度和行为(Kushnir,1981;Zajonc,1965)。情感的经典 PAD 模型指出唤醒度(arousal-nonarousal)表示个体的神经生理激活水平，是情感在愉悦度(pleasure-displeasure)、优势度(dominance-submissiveness)以外的一个重要构成维度(Mehrebian,1977)。有研究通过神经生理实验验证了消费中的社会助长唤醒作用：在一个不需要被试做出任务反应的商品浏览实验中，消费者在有人陪伴时观看奢侈品图片产生的唤醒大于无人陪伴时的唤醒水平Pozharliev 将其描述成一种由高情感价值刺激(在其实验中为奢侈品商品图片)引发的动机性（motivational)情感状态(Pozharliev,Verbeke,Strien,& Bagozzi,2015)。社会助长理论的提出者Zajonc 认为他人临场造成的内驱力唤醒可以增强任务中的优势反映，即在简单任务中提高任务效率，在复杂任务中降低任务效率。在线上消费决策中，依赖中心线索（如商品的材质，制造工艺，规格参数）做出分析式的消费决策通常属于专家级消费者才能更好完成的复杂任务；而依赖边缘线索（如口碑信息、商家信誉）做出启发式的消费决策属于新手级消费者就能完成的简单任务(Walters&Long,2012)。因而依据社会助长理论，根据口碑线索做出从众购买决策有可能受到他人临场的作用而被更大程度激发。但是，目前还未见研究探讨他人临场尤其是虚拟的线上社会临场怎样影响从众消费行为。
+
+# 1.3.2简要评述
+
+社会情境中的消费行为受到消费者情感状态的重要影响。社会助长理论指出他人临场会对个体产生唤醒作用，进而促进简单行为并削弱复杂行为。在线上消费中，依赖他人口碑做出启发式的消费决策正属于简单行为，然而，受到研究问题和研究方法等原因的限制，目前还未见研究探讨线上社会临场对情感唤醒状态和线上从众消费的影响问题。
+
+# 2．研究构想
+
+基于上述国内外文献综述，本研究拟以直播营销为背景，通过问卷调查、行为学研究和神经营销学研究等方法，探讨直播营销中社会临场感对线上从众消费的影响及作用机理。具体内容框架及相互之间的逻辑关系如图1所示。研究一探讨直播营销中社会临场感的定义和测量，是后续行为学和神经科学实验设计的基础;研究二探索直播营销中社会临场感影响线上从众消费的认知机制，从人的理性分析视角揭示社会临场感对线上从众消费的影响；研究三探索直播营销中社会临场感影响线上从众消费的调节机制，主要关注消费者自我建构（self-construal）和消费者-主播关系强度（Tie Strength Between Buyer and Network-Anchor, TSBBN）的调节作用；研究四探索直播营销中社会临场感影响从众消费的情感机制，从感性决策的角度揭示社会临场感对线上从众消费的影响。
+
+研究三：自我建构及消费者-主播关互动中怎样 系强度对直播营销中社会临场感 从众的规范性和信息性影响理论看待自我及影响线上从众消费的调节机制怎样看待与他人关系 调节变量 研究二：直播营销中社会临场感自我建构 影响线上从众消费的认知机制消费者-主播关系强度 认知层面研究一:直播营销中社会 评价顾忌临场感的定义和测量 用户产生信息信任度社会临场感 从众消费定义情感层面构成维度唤醒测量研究四：直播营销中社会临场感影响线上从众消费的情感机制社会临场感理论与社会测量理论 社会助长理论
+
+# 2.1研究内容一：直播营销中社会临场感的定义和测量
+
+已有文献在网页购物和人机交互等环境下研究和定义了社会临场感，本研究结合直播营销环境探讨直播营销中社会临场感的内涵和构成维度。
+
+（1）直播营销中“社会临场感"的内涵及与其他概念的区别与联系
+
+社会临场感（SocialPresence，SP）描述的是他人在互动中的显著性程度以及随之而来的人际关系显著程度。已有的研究中出现了一些与社会临场感概念相近的概念，例如"纯粹临场感（mere presence）”、“虚拟临场感（virtual presence）”和“缘身性(embodiment)”。纯粹临场感（virtualpresence）的概念起源于 Zajonc 对社会助长效应的研究，指的是他人的纯粹的物理在场(Zajonc,1965)。例如，对于长跑者来说跑道旁长椅上坐着的人就是纯粹临场，而意识到这个长椅上人的存在就可以为长跑者带来纯粹临场感。学者Argo 在研究中认为"纯粹临场感"是无交流的社会临场感（noninteractive social presence）（Argo et al.,20o5)，也就是说“纯粹临场感"是“社会临场感"的一部分，是个体不与他人进行沟通情况下的社会临场感。虚拟临场感（virtual presence）是描述用户对虚拟环境的直接体验感的概念(Biocca2010)。消费行为研究发现提高虚拟临场感可以帮助消费者克服线上消费环境数字化通讯方式的限制，做出更好的消费决策(Klein,2010；Lee&Park,2014;Mollen&Wilson,2010)。有学者Lee 指出虚拟临场感应该包含用户对虚拟环境的空间、物理真实性体验以及用户对他人临场的体验两个部分(Lee&Park,2014)，而社会临场感正是个体对他人临场的体验因而社会临场感可能是虚拟临场感的前提和组成部分。缘身性(embodiment)的概念来自于具身理论（theory of embodiment)，该理论的核心是关注模拟、情境性的行动和身体状态对人的心理和行为的作用(Barsalou,1999)。缘身性的定义强调的是概念系统的建构对真实身体及其身体活动的体验性依赖。该理论认为个体在对非真实物理存在的事物进行思维加工时，会激活多通道表征并模拟与之相关的知觉的、动作的以及内省状态的信息(伍秋萍，冯聪,& 陈斌斌,2011)。因而，缘身性及其相关理论可以被用来解释社会临场感的产生。
+
+本部分将以“社会临场感"的已有文献研究为基础，通过观察法、深度访谈法和焦点小组访谈法，明确直播营销中社会临场感的概念内涵及外延，并进一步明确“社会临场感（socialpresence）”与"纯粹临场感（mere presence）”、“虚拟临场感（virtual presence）”、“缘身性(embodiment)"等概念的区别与联系。
+
+（2）直播营销中“社会临场感"的构成维度及测量
+
+已有的社会临场感量表主要来自远程通讯、教育以及营销三大研究领域。远程通讯领域目前使用的社会临场感量表大多使用的是以社会临场感概念提出者 Short建立的量表(Shortetal.,1976)为基础的改进量表，该量表包括八个问项，主要测量人们在远程通讯中多大程度上感觉到与另一个人（或一些人）的联系和接触并受到感知人际关系的影响(Chang&Hsu,2016;Mollen& Wilson,2010; Nowak,2013)。学者 Gefen 较早地研究消费中的社会临场感，并发现社会临场感显著影响消费者对电子产品和服务的信任。文章中他沿用了自己在通讯领域内进行的关于E-MAIL 感知和适应的性别差异研究里使用过的社会临场感五问项量表：Ⅰ.在网站中能感到一种与人接触的感觉；ⅡI.在网站中能感到一种私人的感觉；III.在网站能感到一种社交的感觉；IV.在网站中能感到一种人类的热情；V.在网站中能感到一种人类的敏感(Gefen& Straub,2004)。可以看出Gefen 的消费社会临场感研究量表完全沿用通讯领域的思维，测量上关注于机器给人带来的与人接触的感觉。目前，已有的大多数电子商务和线上消费者行为研究仍然沿用着Gefen的问卷(Choi,Hong,&Yong2011; Sharma,Menard,& Mutchler, 2017; Shen,2012; Wang et al.,2014)。而传统图文网页的"人机接触体验"完全不同于直播平台上“人人接触体验"带来的社会临场感，所以Gefen的问卷对直播营销中的社会临场感研究适用程度有限。其后，学者Lee认为社会临场感可分为共存临场感和心理投入。他的研究围绕产品描述音频服务展开，发现消费者（尤其是外向性消费者）在听到与他们个性相似的音频产品描述时会比听到和他们个性不匹配的音频感受到更强的社会临场感，提出未来可以根据用户个性来定制音频式的产品描述来增强社会临场感(Lee&Nass,2005)。Lee 的这种维度划分主要基于对通讯媒介的研究。进来有研究指出网络社区（socialcommerce）的社会临场感由网页社会临场感、他人社会临场感和交流社会临场感共同三个维度构成，并且这三个因素显著影响了消费者对商家的信任，网页社会临场感、他人社会临场感和交流社会临场感越高，消费者对卖家的信任水平越高，进而会促进购买(Lu,Fan,Zhou,2016)。此研究所使用的社会临场感量表虽然考虑到了与商家文字交流的情况，但仍未涉及到新营销环境高实时性和沟通立体性的情况。
+
+如上所述，社会临场感的概念在不同情境下必须被具体解读才能被转化成各研究背景下的可操作性变量。而目前对于新营销环境下的社会临场感操作化与测量的研究还欠缺，以往的社会临场感研究还没有考虑到互动的实时性和立体性以及沟通成员组成的复杂性等问题。
+
+本部分拟结合已有的社会临场感维度研究以及已有其他研究背景下的社会临场感量表，采用文献研究、访谈调查和问卷调查法收集原始数据资料建立项目池，并通过专家访谈和预测试问卷确定初始量表的内容。之后结合大规模问卷，通过探索性因子分析和验证性因子分析以及其他的效度检验（如区分效度和关联效度等)探究直播营销中社会临场感的构成维度并拟开发一个包含多维度、多测项的信度和效度良好的量表，为后续的深入研究奠定基础。
+
+![](images/21b2da0d18ce87f15004995af5fc391dd563adef436d8f42d8dbc691ccab7117.jpg)  
+图2研究一主要内容框架
+
+# 2.2研究内容二：直播营销中社会临场感影响线上从众消费的认知机制
+
+已经有研究证实了真实社会临场感会对群体产生社会影响（socialinfluence）作用，并且群体规模与对消费的促进作用呈现倒U 型规律(Argo etal.,2005)。然而目前还未见研究探讨线上的社会临场感是否会对消费者产生社会影响作用，尤其在从众方面，还未见研究探讨线上社会临场感是否对从众消费产生影响、多大程度上影响从众消费以及怎样影响从众消费的问题。
+
+![](images/d27b71c89c5dc64db38cec94c086d8cdb616d7f0e0ce5bf755e0c423628bc878.jpg)  
+图3研究二主要内容框架
+
+（1）用户产生信息信任度（TrustinUser-Generated Information）的中介机制
+
+如综述所述，消费从众主要由信息性影响和规范性影响驱动。信息性影响指在不确定或无助的情境下,人们会将他人作为信息的来源,参考他人的行为决定自己的行动。此种情况下消费者对他人的依赖程度（即从众程度）取决于多大程度上信任对方的判断和决策是反映了真实情况的。有关电子交易信任的研究将信任细分为能力信任、正直信任和善意信任三个维度。能力信任指的是买家相信卖家或交易平台是有效、尽职、了解商品并且知道如何提供有效服务的。正直信任指的是买家相信卖家或交易平台的是诚实的、真诚的、可靠的和信守承诺的。善意信任指的是买家相信卖家或交易平台的意图是善良的，关心买家的、会以买家最大利益行事并且会尽量为买家提供帮助的(Lu,Fan,Zhou,2016)。沟通理论和亲密性理论告诉我们，对他人的感知和与他人的交流可以显著提升对交流群体的信任(邹宇春，赵延东,2017)，例如，网购社区的社会临场感研究发现网购社区的社会临场感主要来自网页社会临场感、他人社会临场感和交流社会临场感(与卖家)。社会临场感越高，消费者对卖家的信任水平越高，并更容易产生购买行为(Lu,Fan,Zhou,2016)。可以看出，一直以来由于通讯媒介的限制，消费者在线上消费中只能与卖家或网站代理人接触和交流，而这些与卖家或网站代理人的交流恰恰增加了消费者对网站或卖家的信任感。直播营销模式的出现使得线上消费者与其他消费者的交流方便且密切，例如消费者可以看到其他消费者的实时点赞、赠礼、购买和评论。因而，根据以上分析高社会临场感的体验可能增加消费者对其他用户所产生信息的信任度。综上，信任在从众的信息性影响中起到关键作用，而临场感的提高可能增加消费者对用户所产生信息的信任度，所以本研究得到假设一：社会临场感的增加可以提高消费者对用户产生信息信任度水平，进而促进线上从众消费行为的产生。
+
+（2）评价顾忌（evaluation apprehension）的中介机制
+
+规范性影响是一种基于个人被别人接纳或避免被他人排斥的期望而产生的社会影响。因而，受规范性影响的消费者常常出于对他人评价的顾忌而做出与口碑一致的购买行为(如购买参考群体认可的商品以使自己被群体接纳、看中，或者避免购买参考群体否定的产品以避免被他人当作傻子、异类)。评价顾忌指被他人评价的顾虑(戴维·迈尔斯,2016)。在直播营销环境下，消费者的购买行为会实时显示在直播间内，并且所有直播间的观众都能看到。因而在直播营销环境中，消费者处于行为可被他人实时观察评价的环境下，此时消费者可能出于评价顾忌的担忧更容易受到群体规范性影响并作出与群体一致的决策，产生从众行为。因此本研究得到假设二：社会临场感的增加会使得消费者产生更强烈的评价顾忌，进而促进线上从众消费行为的产生。
+
+本部分研究拟在研究一的基础上，通过问卷调查和行为实验的方法展开。问卷调查利用研究一中建立的直播营销社会临场感量表和已有的信任、评价顾忌、从众倾向量表展开。实验中参考经典从众研究中对从众行为的定义和实验研究对从众的测量方法(M. Chen et al.,2010; Lascu et al.,1995;Xie et al.,2016)采用消费者购买意愿改变倾向来测量因变量——从众消费行为，从认知心理视角挖掘社会临场感对线上从众消费的影响机制。
+
+2.3研究内容三：自我建构（self-construal）和消费者-主播关系强度（TieStrength Between Buyer and Network-Anchor，TSBBN）对直播营销中社会临场感影响线上从众消费的调节机制
+
+如前所述社会临场感描述的是他人在互动中的显著性程度以及随之而来的人际关系显著程度，因而消费者怎样看待自我以及怎样看待与他人的关系可能起着调节社会临场感对线上从众消费的作用。因此，本研究选取自我建构与消费者-主播关系强度作为调节变量，从自我意识和对人际关系的意识角度研究自我建构及消费者-主播关系强度在社会临场感影响线上从众消费的认知过程中的调节作用以寻找直播营销情境下消费从众的边界条件。
+
+![](images/2961f8e6c30ffb023ddccd19da6eb5dc1ed93d91cda6f7624d47759bf7e1ec74.jpg)  
+图4研究三主要内容框架
+
+在消费者怎样看待自我方面，以往的自我建构与人际关系的研究中将个体分为"独立型自我建构者"和"依存型自我建构者”。独立型自我建构者"以自我为中心”，倾向于割裂分离地看待事物；依存型自我建构者则"以他人为中心”并且认为事物之间存在广泛的联系(Cross,Hardin,&Gercekswing,2011)。所以，依存型自我建构者相比独立型自我建构者更渴望维持与他人关系中的自我形象(Lalwani& Shavitt,2009)，因而在直播营销环境中更容易产生评价顾忌；另一方面，由于依存型自我建构者更容易认为事物存在着广泛的内部交互关系，进而更易将对他人的真实性和关系的感受以及交流体验上升到对他人的信任上。所以，在直播营销的环境下，自我建构可能通过对评价顾忌和用户产生信息信任的作用调节社会临场感对线上从众消费的影响。具体的，社会临场感增加时“依存型自我建构者"由于更容易产生评价顾忌和对用户产生信息的信任，而更易受到参考群体的影响进行线上从众消费。因此，得到本研究的假设一：依存型自我建构者（相比独立型自我建构者）在社会临场感提高时更容易产生评价顾忌和用户产生信息信任度，进而更易发生线上从众消费。
+
+在消费者怎样看待与他人的关系方面，直播平台上的购买者均处于其他消费者以及主播构成的双边不对称社会关系中。直播主播在很多情况下具有小范围的知名度、具有一部分固定的"粉丝”，因而同一直播间的消费者与主播的关系强度存在差别。研究表明，在三方的关系中，作为关系核心的个体与目标消费者的联系强弱显著影响着消费者对消费者(consumer-to-consumer)的社会心理影响。例如：当消费者与关系核心的联系紧密的时候，消费者更容易感受到与集体意见冲突的压力，较易被集体意见说服；当消费者与关系核心的联系不够紧密的时候，外部意见会使得消费者感到被剥夺了自由，并产生负面想法和结果(Chatterjee et al.,2017)。也就是说，当消费者与关系核心联系紧密时更容易受到规范性影响的作用，担心他人的看法和评价，容易产生评价顾忌，进而产生从众消费。另一方面，许多研究证明了高关系强度可以导致高信任(Bapna,Gupta,Rice,& Sundararajan,2017;Brown &Reingen,1987)并且信任具有传递性(Chang,Thomson,Dillon,& Hussain,2005)。所以当消费者-主播关系强度较强时，消费者对主播的信任也较强，这种信任可以通过主播传递到直播间的其他观众，使得消费者产生较强的用户产生信息信任度，进而促进消费者依赖其他用户的评价信息做出从众决策。因此，在直播营销平台上主播作为联系目标消费者和其他消费者的核心，目标消费者与主播的关系强度可能左右着消费者与消费者（consumer-to-consumer）间的评价顾忌和用户产生信息信任度，具体的，社会临场感增加时消费者-主播关系强度（TSBBN）越强的消费者越容易产生评价顾忌和对用户产生信息的信任，而更易受到参考群体的影响进行线上从众消费。即得到本研究的假设二：消费者-主播关系强度（TSBBN）越强的消费者在社会临场感增强时越容易产生评价顾忌和高用户产生信息信任度，进而更易发生线上从众消费。
+
+本阶段的研究主要通过行为实验结合问卷的方法探索自我建构和消费者-主播关系强度的调节作用。此阶段参考前人已有研究通过测量和操作两种方式控制调节变量的水平。实验程序上仿照研究二进行编制并通过预实验验证实验设计的合理性。之后通过正式试验收集行为数据并要求被试在合适阶段（测量组在行为实验后；操纵组在行为实验前）填答问卷。最后结合问卷和行为数据分析自我建构和消费者-主播关系强度的调节作用。
+
+# 2.4研究内容四：直播营销中社会临场感影响线上从众消费的情感机制
+
+营销学和心理学研究证明，人类决策除了受到理性分析影响外还受到情感状态的控制(O'Neill&Lambert,2001; Pozharliev et al.,2017)。本研究从直播营销中社会临场感影响线上从众消费的情感机制方面补充和完善之前三个研究的结论。
+
+社会助长（Socialfacilitation）理论指出他人在场会导致个体产生情感唤起，进而对个体产生心理和行为影响。学者们认为他人在场会造成个体的唤起（arousal)状态。在近来的一项奢侈品消费的社会助长效应研究中，学者们用事件相关电位（event related potential,ERP）的方法验证了奢侈品购买中存在的社会助长效应，发现在有人陪伴的情况下观看奢侈品图片时消费者产生的与注意力分配和动机意义相关的LPP 波振幅显著增加，表明当有人陪伴时奢侈品图片对消费者具有更高的情感唤起价值。并且Pozharliev 等人将这种唤起的定义区别于可通过自我报告来衡量的能量动员（energy mobilization）的主观体验(Muro&Murray,2012)，认为这种唤起是一类生理的、无意识的情感唤起过程(Pozharliev etal.,2015)。社会心理学中关于社会助长理论的研究指出唤起状态可以增强任务中的优势反映，即提高简单任务效率，降低复杂任务效率，即行为被增强或削弱取决于行为的复杂程度。众多的关于决策和说服的实证研究和理论研究证明了人类具有两种不同的信息加工路径：中心路径和边缘路径。中心路径通过对问题相关论据的高努力程度的思考作出决策，属于复杂任务；边缘路径通过与目标相关的启发式线索作出决策，属于简单任务。具体在消费决策中，依赖中心线索（如商品的材质，制造工艺，规格参数）做出分析式的消费决策属于复杂任务；而依赖边缘线索（如口碑信息、商家信誉）做出启发式的消费决策属于简单任务。因而，结合社会助长理论关于他人在场造成的唤起（arousal）可以增强任务中的优势反映，即提高简单任务效率，降低复杂任务效率的陈述，我们得到本研究关于直播营销的假设：社会临场感越强消费者的唤起越强，进而依赖口碑线索产生从众消费的可能性越大。
+
+![](images/6f90ba6d5bad60ea3274d56da910d34206a10dd49fef7598bc358aa0fa67d4cd.jpg)  
+图5研究四主要内容框架
+
+本部分研究拟采用事件相关电位（EventRelatedPotential,ERP）结合眼动实验的方法，参考前人用ERP展开的消费中的社会助长效应所采用的实验刺激材料和刺激流程(Pozharliev etal.,2015)展开本阶段的神经生理实验研究，记录与个体情绪、心理及行为相关的认知神经科学指标。进一步通过专业软件对神经科学层面数据进行分析，从认知心理学角度剖析直播营销中的社会唤醒现象。
+
+# 3．理论建构
+
+直播营销是随着互联网视频直播的出现而走红的线上互动促销模式，已经成为新的网络商业风口。已有研究表明消费者在线商品选择常常表现出显著的从众消费倾向，但这些研究探讨的都是网页消费的独立购物情境，目前还未见研究探讨互动式直播营销中消费者的从众行为及心理机制。鉴于此，本研究以直播营销为背景引入产生于通讯领域的"社会临场感"概念，探讨直播营销环境下社会临场感的内涵和构成，并基于从众消费理论和社会临场感理论探究直播营销中社会临场感影响线上从众消费的认知机制和该过程的调节机制；进一步结合社会助长理论探索直播营销中社会临场感影响线上从众的情感机制。理论方面，有助于通过探讨直播营销中社会临场感的内涵和构成及其影响在线从众消费的认知过程、调节机制和情感过程揭示直播营销情境下从众的边界条件并发展实时互动背景下的线上从众消费理论，为直播营销情境下的营销研究及社会心理研究奠定基础，同时补充和完善消费领域的社会助长理论研究。实践方面，为直播播主和电商卖家提供指导的同时为消费者在销售类直播平台上的理性消费提供可行建议。本文建构的理论框架如图1所示，主要理论观点如下。
+
+首先，直播营销的社会临场感构成包含共存临场、交流临场以及情感临场。对直播营销环境下社会临场感概念的界定是本研究的基础环节和关键问题。一方面，营销领域的研究中对社会临场感这一概念并没有形成统一的定义，有学者认为社会临场感是面对面交流的替代品(Shin& Shin,2011)；另一些学者提出社会临场感是媒介允许用户将其他人当作一个心理存在者的程度(Shen,2012)；还有一些学者认为社会临场感仅是对他人的心理真实临场（psychologically present）的评价，它与代表物理真实性的“远程临场感（telepresence）"共同构成"虚拟临场（virtualpresence）"(Lee& Shin,2014)。另一方面，社会临场感在不同情境下的构成维度存在很大差异(Lee& Nass,2005;Lu,Fan,Zhou,2016)。更重要的是，新兴的直播营销情境下消费者实时获得大量他人临场信息（如他人点赞、赠礼、实时评论等)，而已有研究探讨的社会临场感都不涉及与其他消费者实时立体互动的情况。根据前文对已有研究的梳理，可以发现前人在研究中所提及的纯粹临场（mere presence),即体验到他人物理在场可能是直播营销社会临场感的一个重要维度，我们可以将其称为共存临场。另一方面根据社会临场感的经典定义，社会临场感除了描述他人在互动中的显著性程度，还包括随之而来的人际关系显著程度。在人际关系显著程度方面，沟通的亲密性研究指出人际关系从疏离到亲密包含两个层次的内容，一方面是事实性基础，另一方面是情感性基础(Debrot,Schoebi,Perrez,& Hom,2013;Laurenceau,1998)。以往的远程通讯受到通讯技术的限制，很难体验到他人的情感状态。而随着通讯技术发展促使的直播营销的出现，线上虚拟直播间中个体不仅能与他人进行实时言论交流，还能够通过点赞、赠礼等形式体验到他人的情感状态。因此，直播营销的社会临场感可能还包括交流临场和情感临场两个维度。本研究在已有社会临场感研究的基础上，结合直播直播营销的特点，采用探索性和验证性的研究方法，对社会临场感的内涵、结构进行探索验证我们通过理论分析得出的三因素模型（共存临场、交流临场、情感临场)，并且对其结构进行测量和检验。研究探讨的直播营销中社会临场感的内涵和构成问题可以为未来直播营销情境下的营销研究及社会心理研究提供理论依据。
+
+其二，社会临场感的增强可以提高消费者对用户产生信息信任度并增加消费者的评价顾忌，进而促进线上从众消费行为的产生。从众消费是线上消费的常见现象，在以往的研究中已经有学者从信息性影响和规范性影响两个层面探讨了传统电商环境下消费者受到其他参考群体影响的认知心理机制。然而，在直播营销环境下，消费者观察他人产生的评论和行为以及消费者自身产生的评论和行为被他人观察的实时性和立体性都全面增加，消费者不再是与其他买家隔离的"孤岛"而被置于了一种有他人虚拟临场的线上购物情境之中。现有研究表明消费者的注意、对商品多样性的寻求以及消费决策常常受到来自各类参考群体的社会影响(Ariely&Levav, 2000; Chatterjee et al., 2017; Jayasinghe & Ritson, 2013; Kurt & Didem, 2011;Park et al., 2018; Ratner & Kahn, 2002; White & Argo, 2011; Yang & Allenby, 2003)),但目前还未见研究探讨直播营销的社会临场感对线上从众行为的作用机理。基于已有的社会心理学理论和消费者行为理论，从众的规范性影响主要来自个体希望被他人接受或避免被他人排斥的期待，不希望被他人当成傻子和异类(Lascu et al,1995)，直播营销情境下消费者的言论和购买行为都会实时显示在直播间，处于时刻可能被他人观察和评价的环境下，因此从规范性影响的层面出发，直播营销社会临场感的增加可能使得消费者产生更强烈的评价顾忌，进而促进线上从众消费行为的产生；另一方面信息性影响的强弱主要取决于个体对参考群体的信任(Lascu etal.,1995;Quiamzade&L'Huillier,2009)，而对他人的充分感知和交流可以提高个体对信息源的信任水平(邹宇春& 赵延东,2017)，因此从信息性影响的层面出发，直播营销社会临场感的增加可能提高消费者对用户产生信息的信任度，进而促进线上从众消费行为的产生。本研究拟通过行为实验的方法，在参考已有研究中对社会临场感的控制设计和经典从众研究中对从众行为的定义以及实验研究对从众的测量(Chen et al.,2010;Lascu et al.,1995;Xie et al.,2016)的基础上，通过设计实施行为实验并深入分析实验结果验证我们关于社会临场感的增强可以提高消费者对用户产生信息信任度并增加消费者的评价顾忌，进而促进线上从众消费行为的产生的假设。直播营销作为一种新型的线上营销方式出现时间还相对较短，直播播主和电商卖家对直播效果的控制途径还并不清楚。本研究以社会临场感为切入点，剖析社会临场感的构成以及影响消费行为的路径，能够为直播播主和商家在实践中更好地控制直播质量以达到营销目标提供指导。
+
+其三，依存型自我建构者（相比独立型自我建构者）以及消费者-主播关系强度（TSBBN）越强的消费者在社会临场感增强时更容易产生评价顾忌和高用户产生信息信任度，进而更易发生线上从众消费。由于社会临场感描述的是他人在互动中的显著性程度以及随之而来的人际关系显著程度，因而消费者怎样看待自我以及怎样看待与他人的关系可能调节着社会临场感对线上从众消费的作用。在消费者怎样看待自我方面，依存型自我建构者更（相比独立型自我建构者）渴望维持与他人关系中的自我形象(Lalwani& Shavitt,2009)因而更容易在线上虚拟环境中产生评价顾忌，同时依存型自我建构者更容易认为事物存在着广泛的内部交互关系，进而易将对他人的真实性和关系的感受以及交流体验上升到对他人的信任上。在怎样看待与他人的关系方面，消费者-主播关系强度（TSBBN）越强的个体越容易感受到他人意见的压力，容易产生评价顾忌。同时，消费者-主播关系强度（TSBBN）越强的个体越容易产生对主播的信任，而信任具有传递性(Chang,Thomson,Dillon& Hussain,2005)，因而这些消费者更容易产生对用户产生信息的信任。因此本研究从自我意识和对人际关系的意识角度分别选取自我建构与消费者-主播关系强度作为调节变量，研究这两个重要的调节变量在社会临场感影响线上从众消费的认知过程中的调节作用以寻找直播营销情境下消费从众的边界条件。研究参考已有研究的做法通过测量和操控两种方式控制调节变量的水平，通过行为实验结合调查问卷的方法收集消费者数据并综合问卷和行为结果验证依存型自我建构者（相比独立型自我建构者）以及消费者-主播关系强度（TSBBN）越强的消费者在社会临场感增强时更容易产生评价顾忌和高用户产生信息信任度，进而更易发生线上从众消费的假设。本研究对社会临场感影响从众消费的认知过程调节机制的探讨能够帮助我们寻找直播营销情境下消费从众的边界条件，促进更好地理解和预测实时互动为背景的线上从众消费行为，揭示直播营销中从众消费行为为何产生以及何时产生的问题。
+
+其四，社会临场感越强消费者的唤起越强，进而依赖口碑线索产生从众消费的可能性越大。大量研究证明了消费者在社会情境中的行为受到情感状态的重要影响(O'Neill&Lambert, 2001; Pozharliev et al.,2015)。社会心理学理论中的社会助长理论指出他人临场会对个体产生唤醒作用，进而促进简单行为并削弱复杂行为(戴维·迈尔斯,2016)。在线上消费决策中，依赖中心线索（如商品的材质，制造工艺，规格参数）做出分析式的消费决策通常属于专家级消费者才能更好完成的复杂任务；而依赖边缘线索（如口碑信息、商家信誉）做出启发式的消费决策属于新手级消费者就能完成的简单任务(Walters&Long,2012)。因此，当社会临场感增强时，消费者的唤起感也就越强，进而简单的依赖边缘式口碑线索的从众行为发生的可能性越大。然而，受到研究问题和研究方法等原因的限制，目前还未见研究探讨线上社会情境，尤其是社会临场感对情感唤醒状态和线上从众消费的影响问题。本研究拟采取事件相关电位和眼动实验的方法纳入神经生理学指标解决本研究的困境。研究参考Pozharliev 等在真实陪伴造成的奢侈品助长效应研究中采用的标志唤醒的ERP 指标(Pozharlievetal.,2015)和线上消费研究中常用的眼动分析指标研究网络实时互动消费情境中的社会助长效应，并在收集 ERP 和眼动数据的基础上结合社会助长效应的社会唤醒理论，揭示社会临场感影响线上从众消费情感机制，研究结论将在消费行为方面充实和完善社会助长理论。
+
+# 参考文献:
+
+[1]戴维·迈尔斯． (2016)．社会心理学（侯玉波，乐国安，张智勇 等 译）：人 民邮电出版社.   
+[2]郭海玲． (2015)．好评返现对电子商务网购市场的影响及治理对策．中国流通 经济(3)，42 -48.   
+[3]华勇． (2017)．电商直播:流量泡沫还是下一个风口？销售与市场(管理版)(2), 64 - 67.   
+[4]姜凌，周庭锐，王成璋． (2009)．奢侈品牌消费中参照群体影响研究．管理科 学， $2 2 ( 5 )$ ，81-91.   
+[5]宋嘉莹，王宁，杨学成． (2017)．“好评返现”对用户感知评论真实性及购买 意愿的影响．北京邮电大学学报(社会科学版)，19(3)，12-22.   
+[6]孙彦，李纾，殷晓莉．(2007)．决策与推理的双系统—一启发式系统和分析系 统．心理科学进展， $I 5 ( 5 )$ ，721-726.   
+[7]伍秋萍，冯聪，陈斌斌．(2011)．具身框架下的社会认知研究述评．心理科学 进展，19(3),336-345.   
+[8]赵宏霞，王新海，周宝刚.(2015)．B2C 网络购物中在线互动及临场感与消费 者信任研究．管理评论，27(2)，43-54.   
+[9]邹宇春，赵延东． (2017)．社会网络如何影响信任?——资源机制与交往机制. 社会科学战线(5)，200-206.   
+[10]Argo，J. J.，Dahl，D.W.，& Manchanda，R.V.(2005)． The influence of a mere social presence in a retail context. Journal of consumer research, 32(2)，207 -212.   
+[11]Ariely， D.，& Levav， J. (2000). Sequential choice in group settings: Taking the road less traveled and less enjoyedjournal of consumer research， 27(3)，279-290.   
+[12]Bapna， R.， Gupta， A.， Rice， S.， & Sundararajan， A.(2017) .Trust and the strength of ties in online social networks: A nexploratory field experiment. MIS Quarterly: Management informa tion Systems， 41(1)， 115-130. doi:10.25300/misq/2017/41.1.06 [13]Barsalou, L.W. (1999).Perceptionsofperceptualsymbols. Behavioral and brain sciences, （204 $ { \mathcal { Z } }  { \mathcal { Z } } ( 4 )$ ， 637- 660. doi :10.1017/s0140525x99532147   
+[14]Biocca， F. (2010). Virtual reality technology: A tutorial. Journal of communication， 42(4)， 23-72.   
+[15]Botha，E.，& Reyneke， M. (2016). The influence of social presence on online purchase intention: An experiment with different product types. Cham: Springer International Publishing，1，180-183.   
+[16]Brown， J. J.，& Reingen， P. H. (1987). Social ties and word-of-mouth referral behavior. Journal of consumer research, 14(3)， 350-362. [17]Chang，C. M.，& Hsu， M. H. (2016). Understanding the determinants ofusers’subjective well-being in social networking sites: an integration of social capital theory and social presence theory. Behaviour & information technology， 9(9)，1-10. [18]Chang，E.，Thomson，P.，Dillon，T.，& Hussain，F.(2005)． The fuzzy and dynamic nature of trust. Paper presented at the international conference on trust， privacy， and security in digital business.   
+[19]Chatterjee，P.，Chollet，B.，& Trendel，0. (2017)．From conformity to reactance: Contingent role of network centrality in consumer-to consumer influence. Journal of business research, 75(June)， 86 -94. [20]Chen，& YiFen. (2008)． Herd behavior in purchasing books online. Computers in human behavior， 24(5)， 1977 -1992.   
+[21]Chen，M.，Ma，Q.，Li，M.，Dai，S.，Wang， X.，& Shu，L.(201O)．The neural and psychological basis of herding in purchasing books online: An event-related potential study. Cyberpsychology behavior & social networking, $\boldsymbol { { \mathit { 1 3 } } } ( 3 )$ ，321-328.   
+[22]Chen， Y. F.，& Lu， H. F. (2014)． We-commerce: Exploring factors influencing online group-buying intention in Taiwan from a conformity perspective. Asian journal of social psychology， $\begin{array} { r } { \phantom { } _ { l \mathcal { S } \left( 1 \right) } } \end{array}$ ，62 -75.   
+[23]Choi， J.， Hong， L.，& Yong， K. (2011)． The influence of social presence on customer intention to reuse online recommender systems: The roles of personalization and product Type. International journal of electronic commerce, $\boldsymbol { { \mathit { I 6 } } } ( 1 )$ ，129 -154.   
+[24]Cohen， J. B.，& Golden，E. (1971)． Informational social influence and product evaluation. Journal of applied psychology， ${ \it 5 6 } ( 1 )$ ，54-59. [25]Cross， S. E.，Hardin， E. E.，& Gercekswing，B. (2011)． The what, how， why， and where of self-construal. Personality & Social psychology review An official journal of the society for personality & social psychology inc, $\begin{array} { r l } { { I } 5 ( 2 ) } \end{array}$ ，142 - 179.   
+[26]Debrot，A.，Schoebi，D.，Perrez，M.，& Horn，A. B.(2013)． Touch as an interpersonal emotion regulation process in couples' daily lives: The mediating role ofpsychological intimacy. Personality & Social psychology bulletin， 39(10)，1373 -1385.   
+[27]Dholakia，U. M.，Basuroy， S.，& Soltysinski，K. (2002)． Auction or agent (or both)? A study of moderators of the herding bias in digital auctions. International journal of research in marketing， 19(2)，115- 130.   
+[28]Gefen，D.，& Straub，D. W. (2004). Consumer trust in B2C e-commerce and the importance of social presence: experiments in e-products and $\mathrm { e ^ { - } }$ services. omega， 32(6)， 407-424.   
+[29]Greenleaf，E. A.，& Lehmann，D. R. (1995)． Reasons for substantial delay in consumer decision making. Journal of consumer research, $ { \mathcal { Z } }  { \mathcal { Z } } ( 2 )$ ， 186 - 199.   
+[30]Hanson，W. A.，& Putler，D. S. (1996). Hits and misses: Herd behavior and online product popularity. Marketing letters， 7(4)， 297 -305. [31]Hassanein， K， Head， M (2007） Manipulating perceived social presencethrough theweb interface and its impact on attitude towards online shopping.International journal ofhuman-computer studies 65: 689-709.   
+[32]Huang，J. H.，& Chen，Y. F. (2006)． Herding in online product choice. Psychology & Marketing， 23(5)， 413-428.   
+[33]Jayasinghe， L.，& Ritson， M. (2013). Everyday advertising context: An ethnography of advertising response in the family living room. Journal of consumer research， 40(1)，104-121.   
+[34]Keng，C. J.，Chang，W.H.，Chen，C. H.，& Chang，Y.Y.(2016)．Mere virtual presence with product experience affects brand attitude and purchase intention. Social behavior $\boldsymbol { \mathscr { k } }$ personality an international journal， 44.   
+[35]Kim， Y. H.，& Cohen， D.(2010)． Information， perspective， and judgments about the self in face and dignity cultures. Personality and social psychology bulletin, $3 6 ( 4 )$ ，537-550.   
+[36]Klein，L. R. (2010). Creating virtual product experiences: The role of telepresence. Journal of interactive marketing, 17(1)，20-27.   
+[37]Kurt，& Didem. (2011). The influence of friends on consumer spending: The role of agency - communion orientation and self-monitoring. Journal of marketing research， 48(August)， 741-754.   
+[38]Kushnir， T.(1981). The status of arousal in recent social facilitation literature: a review and evaluation of assumptions implied by the current research model. Social behavior & personality an international journal, $g ( 2 )$ ，185-191.   
+[39]Lalwani，A. K.，& Shavitt，S. (2009). The "me" I claim to be: cultural self-construal elicits self-presentational goal pursuit. Journal of personality & social psychology， 97(1)，88-102.   
+[40]Lascu，D. N.，Bearden，W. O.，& Rose，R. L.(1995)．Norm extremity and interpersonal influences on consumer conformity. Journal of business research， 32(3)，201 -212.   
+[41]Laurenceau, J. P. (1998). Intimacy as an interpersonal process: the importance of self-disclosure， partner disclosure, and perceived partner responsiveness in interpersonal exchanges. Journal of personality and social psychology， 74(5)， 1238 -1251.   
+[42]Lee，E.，& Park， J. (2014). Enhancing virtual presence in E-Tail: Dynamics of cue multiplicity. International journal of electronic commerce, $\mathit { 1 8 ( 4 ) }$ ，117- 146.   
+[43]Lee， E. J.，& Shin， S. Y. (2014)． When do consumers buy online product reviews? Effects of review quality， product type，and reviewer’ s photo. Computers in human behavior， 31(1)，356 -366.   
+[44]Lee，K.，& Nass,C. (2005). Social-psychological origins of feelings of presence: Creating social presence with machine-generated voices. Media psychology， 7(1)，31-45.   
+[45] Li，Y. A.，& Wang，Y. (2013). Social Influence from Personalized Recommendations to Trusting Beliefs of Websites: Intermediate Role of Social Presence. In P. Kotze，G. Lindgaard， J. Wesson & M. Winckler (Eds.)， Human-Computer Interaction - Interact 2013， Pt Iii (Vol. 8119, pp. 632-639)． Berlin: Springer-Verlag Berlin.   
+[46]Lu，B.，Fan， W.，& Zhou， M. (2016). Social presence， trust， and social commerce purchase intention: An empirical research. Computers in human behavior， 56, 225 - 237.   
+[47]Mehrebian， A. (1977). Evidence for a three-factor theory of emotions. Journal of research in personality， 11(3)，273-294.   
+[48]Mifune，N.， Hashimoto， H.，& Yamagishi，T. (2010)． Altruism toward in-group members as a reputation mechanism ☆. Evolution & Human behavior, 31(2)，109 -117.   
+[49]Mollen， A.，& Wilson， H. (2010)． Engagement， telepresence and interactivity in online consumer experience: Reconciling scholastic and managerial perspectives. Journal of business research， 63(9)， 919 -925. [50]Muro， F. D.， & Murray， K. B.(2012). An arousal regulation explanation of mood effects on consumer choice. Journal of consumer research， 39(3)， 574 -584.   
+[51]Nowak， K. L. (2013)． Choosing buddy icons that look like me or represent my personality: Using buddy icons for social presence. Computers in human behavior, ${ \it 2 9 ( 4 ) }$ ，1456 -1464.   
+[52]0' Neill， R. M.， $\&$ Lambert，D. R. (2001)． The emotional side of price. Psychology & Marketing, $\boldsymbol { { \mathit { 1 8 } } } ( 3 )$ ，217 -237.   
+[53]Park，E.，Rishika，R.， Janakiraman，R.， Houston， M. B.，& Yoo，B. (2018). Social dollars in online communities: The effect of product, user and network characteristics. Journal of marketing， 82, 93 -114. [54]Pozharliev，R.，Verbeke，W. J. M. I.，& Bagozzi，R. P. (2017). Social consumer neuroscience:Neurophysiological measuresofadvertising effectiveness in a social context. Journal of advertising(7)，1-12. [55]Pozharliev，R.，Verbeke，W. J. M. I.，Strien，J. W. V.，& Bagozzi, R. P. (2015). Merely being with you increases my attention to luxury products: Using EEG to understand consumers’emotional experience of luxury branded products. Journal of marketing research, ${ \it 5 2 ( 4 ) }$ ，546-558. [56]Quiamzade, A.，& L'Huillier， J. P. (2009). Herding by attribution of privileged information. Journal of behavioral decision making, $\boldsymbol { \mathcal { Z } } \boldsymbol { \mathcal { Z } } ( 1 )$ ， 1 - 19.   
+[57]Ratner， Rebecca K.，& Kahn， Barbara E. (2002). The impact of private versus public consumption on variety - seeking behavior. Journal of consumer research, ${ \it 2 9 ( 2 ) }$ ，246 -257.   
+[58]Rosenberg， M.J.(1965). When dissonance fails:Eliminating evaluationapprehensionfromattitudemeasurement. Journalof personality & social psychology， $g { } _ { 5 } ( 1 )$ ，28-42.   
+[59]Sharma， S.， Menard， P.，& Mutchler，L. A. (2017)． Who to trust? Applying trust to social commerce. Journal of computer information systems(2)， 1-11. [60]Shen， J. (2012)． Social comparison， social presence， and enjoyment in the acceptance of social shopping websites. Journal of electronic commerce research， 13(3)， 198-212.   
+[61]Shin，D. H.，& Shin，Y. J. (2011). Consumers’ trust in virtual mall shopping:The roleofsocial presenceandperceivedsecurity. International journal of humana Computer interaction, $2 7 ( 5 )$ ，450- 475.   
+[62]Short，J.，Williams，E.，& Christie,B.(1976)．The social psychology of telecommunications. Contemporary sociology， 7(1)， 32.   
+[63]Walters， A.，& Long， M. (2012)． The effect of food label cues on perceptions of quality and purchase intentions among high-involvement consumers with varying levels of nutrition knowledge. Journal of nutrition education & behavior， 44(4)，350.   
+[64]Wang，Q.，Yang，Y.，Wang，Q.，& Ma，Q.(2014)． The effect of human image in B2C website design: An eye-tracking study. Enterprise information systems, $\boldsymbol { \mathcal { B } } ( 5 )$ ，582-605.   
+[65]White，K.，& Argo，J. J. (2011). When imitation doesn’t flatter: The role of consumer distinctiveness in responses to mimicry. Journal of consumer research, $\mathcal { B } ( 4 )$ ，667-680.   
+[66]Worringham, C. J.，& Messick, D. M. (1983). Social facilitation of running: an unobtrusive study. Journal of social psychology， 121(1st Half)，23 -29.   
+[67]Xie，Y.，Chen， M.，Lai，H.， Zhang，W.， Zhao， Z.，& Mahmood，A.C. (2016). Neural basis of two kinds of social influence: Obedience and conformity. Frontiers in human neuroscience, 10.   
+[68]Yang， S.，& Allenby，G. M. (2003). Modeling interdependent consumer preferences. Journal of marketing research， 40(3)， 282-294.   
+[69]Zajonc，R. B. (1965). Social facilitation. Science， 149(3681)，269 - 274.   
+[70]Zhen-Wei，H.，Li，L.，Wen-Wen， Z.， Xu-Yun，T.，& Xian，Z. (2015). Walking the straight and narrow: The moderating effect of evaluation apprehension on the relationship between collectivism and corruption. Plos 0ne， 10(3)，e0123859.
+
+# The effect and mechanism of social presence in live marketing on online herd consumption from behavioral
+
+and neurophysiological perspectives
+
+XIE Ying1； LI Chunqingl\*； GAO Pengl； LIU Yi²(1. School of Economics and Management, Northwest University, Xi'an, 710027, China
+
+2. School of Business XI'AN University of Finance and Economics)
+
+Abstract: With live marketing as background and based on the analysis of the literature, we introduce social presence and explore the connotation and composition of social presence in live marketing environment. Besides, ground on the theory of conformity consumption, we conduct behavioral tests and probe into the cognitive mechanism of how social presence influences online conformity consumption in live marketing. Furthermore, according to the theory of social presence, this paper discusses the moderating effect of self-construction and tie strength between buyer and network-anchor in this process. Finally, based on the theory of social facilitation, this study explores the emotional mechanism using neuroscience method which has the advantages of objectivity and "process measurement". This research will reveal the effect of social presence on online herd consumption, provide guidance to network-anchor and E-sellers, meanwhile help consumers understand their own behavior better in order to make more rational consumption choices.
+
+Key words: Live marketing; Online herd consumption； Social presence; Consumerbehavior; Neurophysiology

@@ -1,0 +1,165 @@
+# NVST垂直双光谱切换扫描系统
+
+谭旭1²，李正刚」，金振宇」，许方宇」，袁沭」，徐稚1（1.中国科学院云南天文台，云南昆明650011；2.中国科学院大学，北京 100049）
+
+摘要： $\mathrm { 1 m }$ 新真空太阳望远镜（New Vacuum Solar Telescope，NVST）的科学目标之一是对太阳活动区域进行二维光谱扫描观测。本文基于NVST多波段光谱仪和大色散光谱仪提出了垂直双光谱切换扫描系统，可实现相互垂直的两个光谱仪的光谱扫描观测任务，并参与实现两个光谱仪之间的切换。分析了光谱扫描观测的原理和过程，结合 NVST 终端仪器系统的具体构造，完成了扫描系统的光机结构设计和装调分析工作，并对扫描系统进行了性能测试，包括系统稳定性、扫描直线度以及扫描步幅精度测试，测试结果满足预期功能需求和精度要求，为后续NVST进行常规光谱扫描观测提供了支持。
+
+关键词：NVST；光谱扫描观测；光谱仪切换；性能测试中图分类号：TH751 文献标识码：A 文章编号：
+
+太阳光谱观测是研究太阳大气表面精细结构的温度、密度、磁场、多普勒速度等物理参量的重要手段[1]，传统的太阳光谱观测是针对与光谱仪狭缝相对应的太阳像面狭窄区域进行长时间观测的一维定点光谱观测，一维光谱观测主要用于太阳光谱诊断，分析由太阳内部结构各种动力学过程导致的太阳谱线轮廓出现的复杂、快速的变化[2。这种光谱观测模式由于只能获取与狭缝对应的狭窄太阳区域的光谱，无法满足需要获取面源光谱信息的观测需求[3]。因此，二维光谱观测的模式被提出了出来，通过二维光谱观测，可以同时或者准同时获取日面较宽区域的光谱信息[2]。目前，二维光谱观测已经成为太阳光谱观测的主流。
+
+实现二维光谱观测的方式目前主要有三种，第一种是基于积分视场单元法，同时成谱成像；第二种是基于窄带可调滤光器在波长方向进行扫描，先成像后成谱；第三种是利用光谱仪狭缝在面源目标某一个空间方向上进行扫描，先成谱后成像[2-4]。这三种实现二维光谱观测的方式通常需对应不同结构类型的分光设备，其中，第三种基于狭缝在面源目标空间方向上进行扫描实现二维光谱观测的方式需基于狭缝式光栅光谱仪。
+
+NVST 作为我国太阳物理观测的主要设备之一[5]，配备了一台多波段光谱仪（Multi-bandspectrometer，MBS）和一台大色散光谱仪（High dispersion spectrometer，HDS），多波段光谱仪在可见光波段对太阳进行光谱观测，大色散光谱仪在近红外波段对太阳进行光谱观测。两台光谱仪都是狭缝式光栅光谱仪，为了实现NVST的二维光谱观测，拟采用上述第三种实现二维光谱观测的方式，即狭缝扫描观测。NVST终端仪器系统的结构如图1所示，其中，两台光谱仪垂直地分布在NVST 光谱筒内，因此也叫垂直式光谱仪。多波段光谱仪与大色散光谱仪的色散方向相互正交，且两者对应同一个狭缝位置，因此两台光谱仪不能同时观测，切换光谱仪时，根据需要更换狭缝并旋转狭缝90度，同时切换光谱仪的准直镜。在不同光谱仪的光谱扫描观测之间进行切换时，还需要改变光谱扫描的方向。
+
+基于 NVST实现二维光谱观测的需求以及NVST光谱仪系统的具体结构型式，设计了NVST垂直双光谱切换扫描系统，既能实现二维光谱观测，同时也参与到两个光谱仪之间的切换。NVST配备的其他终端仪器还包括多通道成像系统、高分辨率磁像仪以及自适应光学系统（Adaptive optics system，AO）等，设计的垂直双光谱切换扫描系统位于AO 与其他仪器之间，也起到对接AO与其后端仪器的作用。
+
+![](images/8be182dfb6b19f20e42424c791138957a6393a2ba35d4621b15e27b64677fbdb.jpg)  
+图1NVST终端仪器系统结构  
+Fig.1 Structure of NVST's terminal instrument system
+
+# 1.垂直双光谱切换扫描系统实现二维光谱扫描观测的原理
+
+采用狭缝扫描方式对太阳进行二维光谱扫描观测时，太阳像面相邻的区域依次通过焦面狭缝[6-7]，如图 2(a)所示。CCD 对每一区域的光谱信息依次曝光并由计算机进行数据采集，最终得到目标面源的光谱信息[8，图2(b)展示了该光谱信息包含两个空间维度和一个波长维度，两个空间维度分别为狭缝方向和扫描方向。
+
+![](images/18a569da1b2cdb3fcb922732360186aeb3f271329bb35618132702735ff78284.jpg)  
+Fig.2 The principle of 2D scanning spectral obervation
+
+图3为NVST光谱观测系统的整体结构示意图。NVST包含两个正交的光谱仪，图中只画出其中一个，用以描述光谱扫描观测的工作原理和过程。图中扫描系统包含1A、1B 和2A、2B 两个相互垂直的平面反射镜组，其中2A、2B镜组垂直于纸面向内。望远镜收集的太阳光束经由中继模块平面反射镜M8，进入自适应光学系统AO，光束从AO出来后，依次经过扫描系统，中继模块平面反射镜M9，进入焦面狭缝，进入狭缝的光束经由准直镜准直后，反射至光栅进行分光，然后经由成像镜反射至CCD曝光，并由计算机采集数据。扫描系统执行扫描任务时，首先由计算机根据预设的观测模式发送指令到电机驱动器，驱动器根据接收到的指令控制扫描系统中的步进电机按指定模式运动，带动两组平面反射镜中的一组平移运动，从而实现二维光谱扫描观测任务。
+
+NVST 有两个正交布置的光谱仪，当切换不同光谱仪工作时，将狭缝旋转90度（根据观测需求更换不同缝宽的狭缝)，并更换场镜，同时负责上一个光谱仪扫描任务的扫描镜组在步进电机的带动下恢复零位，由与之垂直的另一组平面反射镜组执行此次的扫描观测任务。
+
+NVST二维光谱扫描观测采用步进扫描模式，观测过程中，探测器每对一个狭缝区域采集完数据，移动狭缝到下一区域继续采集。狭缝相对太阳像面的移动实际由太阳像面在垂直于狭缝的方向上进行移动来实现，太阳像面的移动由扫描系统步进电机带动扫描镜组做步进平移来实现，步进平移的距离与狭缝宽度相对应。
+
+![](images/8c80da2e08338e7382f70fd01d18b3dd2faeffb7daa117a0cc97ba19d6e56268.jpg)  
+图2二维光谱扫描观测原理[2]   
+图3NVST光谱观测系统结构示意图
+
+# 2．光机结构设计
+
+# 2.1结构设计
+
+NVST 垂直双光谱切换扫描系统的功能需求包括实现正交方向的二维光谱扫描观测任务以及实现自适应光学系统AO与多通道成像系统、磁像仪以及光谱仪系统对接，保证这些终端仪器工作时其物面分别与AO的像面重合，即齐焦面。上文中图1显示了NVST 仪器系统的整体结构，其中多通道成像系统和AO分布在仪器上平台两侧，仪器上平台下方为光谱筒，多波段光谱仪和大色散光谱仪正交布置在光谱筒内，磁像仪也吊装在光谱筒内。从图1中可以看出，AO 出射光与多通道成像系统前端光轴并没有重合，图上显示出来的只是高度方向的不重合，在实际的三维空间中，AO出射光与多通道成像系统的前端光轴存在水平和垂直两个方向上的偏差。当光谱仪工作时，AO出射光应对准平面反射镜M9,使光束反射到狭缝处。M9镜中心理论上位于多通道成像系统、光谱仪以及磁像仪的前端光轴上。此外，还存在AO出射光像面和各终端仪器物面不共面的偏差。
+
+基于上述功能需求，垂直双光谱切换扫描系统采用图4所示结构型式，其主体结构由两组相互垂直的反射镜组模块组成，合理设置扫描系统结构的相关尺寸参数和反射镜之间的相互位置参数可以使得AO 出射光与多通道成像系统前端光轴重合，并保证AO出射光像面与各终端仪器物面齐焦面。扫描系统结构的具体尺寸参数、反射镜之间的相互位置关系等通过光路分析以及现场实测得出。
+
+![](images/80eecbf022c19f7a0da77cfeac08733a67481865ba472d1a0e1584ff91a9465d.jpg)  
+Fig.3 Structure ofNVST's spectral obervation system   
+图4垂直双光谱切换扫描系统结构型式  
+Fig.4 Structure of Switching and spectral scanning system of the vertical double spectrometer
+
+图5为所设计的垂直双光谱切换扫描系统三维模型。图5(a)为整体结构三维模型，包含垂直方向和水平方向两组正交的反射镜组模块，分别执行大色散光谱仪和多波段光谱仪的二维光谱扫描观测任务。两组反射镜分别通过相应的步进电机驱动。两组模块结构型式大体一致。在水平方向镜组上设计有调焦机构，可以通过调整水平方向镜组与垂直方向镜组之间的距离来调节光束在扫描系统中的光程，从而达到调节AO出射光焦面的位置，以满足AO 出射光与后端仪器齐焦面的需求。图5(b)为水平方向反射镜组模块爆炸示意图。
+
+![](images/d34aab420c6fc04492082c1c657ae72c56855c3f2fc9cae507c5b87c6bc011be.jpg)  
+图5 垂直双光谱切换扫描系统三维模型。（a）整体三维结构；（b）水平方向反射镜组模块爆炸图  
+Exploded view of horizontal mirror group module
+
+步进电机通过电机安装座安装在内层槽架上，内层槽架通过钢珠铰链安装在外层槽架上，内层槽架相对外层槽架有多个偏转自由度可调。反射镜组通过调焦板安装导轨安装在电机导轨上。调焦板的作用是调节水平方向镜组与垂直方向镜组之间的距离，使AO出射光焦面与后端仪器物面齐焦面，具体通过调焦板与调焦板安装导轨之间的调整螺丝来进行调节。反射镜位置可以通过镜室叉与调焦板上的滑轨滑动调节，此外，反射镜姿态相对于镜室叉可调。
+
+2.2焦面处太阳像斑的移动步幅与扫描镜组位移量的数值关系。
+
+在进行光谱扫描观测任务时，焦面处太阳像斑的移动步幅应与狭缝宽度相等。平面反射镜组在步进电机驱动下的移动步幅与焦面太阳像斑移动步幅的数值关系如图6和图7所示。
+
+图6表示的是当大色散光谱仪进行光谱扫描观测任务时，扫描系统水平方向镜组处于零位，垂直方向镜组做步进平移执行扫描任务，由于此时水平方向镜组不运动，所以可以以图6(a)中X负方向为视图方向，分析垂直方向镜组移动步幅与焦面太阳像斑移动步幅的数值关系。根据图6(b)，垂直方向镜组在Y轴正方向移动距离d，焦面太阳像斑同时在Z轴负方向移动距离 2d。
+
+![](images/1824835cd6cc59110392b1aa3f50059dfdb3b272392786437dfa236725f3ec2e.jpg)  
+Fig.53DmodelofSwitchingandspectralscanningsystemoftheverticaldoublespectrometer.(a)DModelofoverallstructure;(b)   
+图6垂直方向镜组移动步幅与焦面太阳像斑移动步幅的数值关系。（a）视图方向；（b）数值关系  
+Fig.6Numericalelationshipbetwntemovingstrdeofverticalmrrorgroupandthemovingstrideofsolarimageonfocalplane.(a)
+
+![](images/5dbf7c8c6ad7e0df6ec3e2ee0053dc35df22211362d1e9bbf5ca9a62fbd70e8b.jpg)  
+图7水平方向镜组移动步幅与焦面太阳像斑移动步幅的数值关系。（a）视图方向;（b）数值关系  
+ig.7Numericalrelationshipbtwen themovingstrideofhorzontalmirrorgroupandthemovingstrideofsolarimageofocalplane.
+
+View orientation;(b) Numerical relation
+
+当多波段光谱仪进行光谱扫描观测任务时，扫描系统垂直方向镜组位于零位，水平方向镜组做步进平移执行扫描任务，由于此时垂直方向镜组不运动，所以可以以图 7(a)中Y负方向为视图方向，分析水平方向镜组移动步幅与焦面太阳像斑移动步幅的数值关系。根据图7(b)，水平方向镜组在X轴负方向移动距离d，焦面太阳像斑同时在X轴负方向移动距离2d。
+
+# 3．性能测试
+
+基于NVST光谱仪的相关结构参数和观测需求，对扫描系统提出了相关性能要求，要求在焦面狭缝处，应满足：
+
+1.扫描最小步长： $2 5 \mu \mathrm { m }$   
+2.扫描速度： $0 . 0 4 4 \mathrm { m m / s } { \sim } 3 . 3 3 \mathrm { m m / s }$   
+3.最小扫描范围： $2 5 . 3 4 \mathrm { m m }$ (约对应太阳像面1.9')  
+4.扫描精度：扫描过程中图像偏移量的RMS小于扫描步幅的1/10
+
+其中第1到第3点通过选取合适的步进电机来满足要求。根据章节2.2中焦面处太阳像斑的移动步幅与扫描镜组位移量的数值关系，电机导轨移动步幅d，望远镜焦面F3处，即光谱仪狭缝处光斑移动距离 2d。因此，步进电机应满足：最小移动步幅 $2 5 \div 2 = 1 2 . 5 \mu \mathrm { m }$ ；移动速度 $0 . 0 2 2 \mathrm { { m m } / \mathrm { { s } } \mathrm { { \sim } 1 . 6 6 5 \mathrm { { m m } / \mathrm { { s } } } } }$ ；最小移动范围 $2 5 . 3 4 \div 2 = 1 2 . 6 7 \mathrm { m m }$ 。根据上述要求，我们选取东方马达DRS2系列中的DRSM42RG-04A2AZMK型步进电机，其性能参数见表1。电机最小移动步幅 $0 . 0 0 1 \mathrm { m m }$ ，最高速度可达 $5 0 \mathrm { m m / s }$ ，最大移动距离（冲程） $4 0 \mathrm { m m }$ ，满足第1到第3点的性能需求。
+
+# 表1.步进电机参数
+
+Tab.1 Parameters of stepper motor   
+
+<html><body><table><tr><td>Motor model</td><td>Lead</td><td>Stroke</td><td>Minimum</td><td>Repeat positioning</td><td>Transportable quality /kg</td><td>Top speed/mm</td></tr><tr><td>DRSM42RG-</td><td>/mm 2</td><td>/mm 40</td><td>movement /mm 0.001</td><td>accuracy /mm <0.01</td><td>10</td><td>50 s-1</td></tr></table></body></html>
+
+对于性能要求中的第4点，我们对设计完成的垂直双光谱切换扫描系统进行了实验测试，具体的测试内容包括三项：系统稳定性测试、扫描过程直线度与扫描步幅精度测试。实验中，通过在扫描系统前端架设激光光源，利用NVST仪器平台上现有的成像通道进行数据采集，分析采集到的数据的质心来测试扫描系统上述性能。
+
+# 3.1系统稳定性
+
+望远镜在进行观测任务时，除了仪器自身的误差外，仪器平台的震动，光路当中的空气湍流，CCD 相机散热风扇导致的抖动等，都会影响光学系统的稳定性，在CCD上的表现就是导致图像的随机抖动。在对扫描系统进行扫描的直线度和步幅精度进行测试前，需分析上述因素导致的随机误差，评估仪器系统的稳定性。
+
+实验时，保持扫描系统反射镜组静止，在两秒钟的时间内采集100张图像。实验所用激光光源在CCD上的光斑直径约30个 pixel，CCD 每个pixel对应 $6 . 5 \mu \mathrm { m }$ ，所以光斑直径约为$1 9 5 \mu \mathrm { m }$ 。图8(a)为扫描系统反射镜组静止时，由上述随机误差导致的光斑抖动情况。图中 $\textbf { \em x }$ 轴和y轴表示光斑质心在CCD上的坐标，单位为pixel。红色‘\*'点显示了光斑抖动情况下的质心分布，蓝色三角形点为取所有点 $\mathbf { \boldsymbol { x } }$ 坐标和y坐标的平均值所得到的均值点，以该点为基准点，分析光斑的抖动范围，得到光斑质心相对于基准点的偏差如图8(b)所示。最大偏差约为1.5个 pixel, $9 . 7 5 \mu \mathrm { m }$ ，所有点相对于基准点的偏差均方根RMS值为0.625个pixel, $4 . 0 6 \mu \mathrm { m }$ 。考虑到光斑尺寸约为 $1 9 5 \mu \mathrm { m }$ ，RMS 值远小于光斑大小的1/10，因此可认为系统稳定性满足要求。
+
+![](images/75bf0ce0acb53a113b8db9cd38699cf8b064b6563aa35243ae1f3f5dd9caff1c.jpg)
+
+Fig.8Testresultsofsystemstability(a)Centroiddistributionoflightspotshenthescaneristationary;(b)Deviationof espot
+
+centroid from the reference point
+
+# 3.2直线度与扫描步幅精度
+
+光谱扫描观测过程中，扫描路径的直线度以及扫描步幅精度是衡量系统是否满足观测要求的关键指标。NVST垂直双光谱切换扫描系统通过垂直方向和水平方向两组正交的反射镜组分别执行大色散光谱仪和多波段光谱仪的光谱扫描观测任务，因此需分别分析两个观测模式下扫描时的直线度和扫描步幅精度。直线度参考垂直于扫描方向的图像偏移量，扫描步幅精度参考沿扫描方向步幅大小的偏差。
+
+根据章节2.2中焦面处太阳像斑的移动步幅与扫描镜组位移量的数值关系，电机导轨移动步幅d，望远镜焦面F3处，即光谱仪狭缝处光斑移动距离 2d。实验中，控制扫描机构电机导轨每步移动 $1 5 0 \mu \mathrm { m }$ ，移动60步，共 $9 0 0 0 \mu \mathrm { m }$ 。望远镜焦面F3处光斑每步移动距离 $3 0 0 \mu \mathrm { m }$ 根据成像系统放大率25/40，CCD上光斑每步移动距离为 $1 8 7 . 5 \mathrm { u m }$ ，在CCD上移动的总距离为 $1 1 2 5 0 \mu \mathrm { m }$ 。图9、图10分别为大色散光谱仪和多波段光谱仪模式下的扫描直线度与扫描步幅精度的实验数据，对应到扫描系统反射镜组上，分别为：移动垂直方向反射镜组时扫描直线度与扫描步幅精度的实验数据;移动水平方向反射镜组时扫描直线度与扫描步幅精度的实验数据。
+
+![](images/71a8ace5557d3184935c40979a3df1e8e7cbdfaba1a85ae797b7b24f2dfbc322.jpg)  
+图8系统稳定性测试结果。（a）扫描系统静止时光斑质心分布；（b）光斑质心相对于基准点的偏差
+
+图9(a)为移动垂直方向反射镜组时的扫描轨迹，即扫描过程光斑在CCD上的质心轨迹。由于实验中的CCD 的边缘与扫描轨迹不完全平行或垂直，CCD上的质心拟合轨迹存在一定斜率,这种情况在两个模式的测试实验中都存在。该斜率较小，可忽略其对分析结果的影响。图9(b)中上方坐标图为光斑质心在CCD上的y坐标分布及线性拟合，图9(b)中下方坐标图为光斑质心y坐标相对于拟合值的残差图。图9(b)中的两个坐标图描述了光斑质心在垂直于扫描方向的偏差，其均方根误差RMSE 值为1.044。图9(c)描述了扫描方向上的扫描步幅偏差，其中图9(c)中上方坐标图为光斑质心在CCD上的 $\textbf { \^ { x } }$ 坐标分布及线性拟合，图9(c)中下方坐标图为光斑质心 $\mathbf { \boldsymbol { x } }$ 坐标相对于拟合值的残差图,其均方根误差RMSE 值为1.105。
+
+![](images/25cdafb384ad98ffab3484eb3cfcb89c258423fff7f8b7d6e966f262d48e893e.jpg)  
+图9大色散光谱仪模式下的扫描直线度与扫描步幅精度(a）扫描轨迹（b) $\mathbf { y }$ 坐标分布(c) $\mathbf { x }$ 坐标分布 ig8ScaningstraightnesandscaningstrideaccracyinHDSode(a)Scangtrack;(b)Ycoodinatedistrbution;(c)Xcodiate distribution
+
+图10(a)为移动水平方向反射镜组时的扫描轨迹，实验中，该扫描轨迹与移动垂直方向反射镜组时的扫描轨迹在CCD上的方向垂直，这里为了便于分析和对比，将其 $\textbf { \em x }$ 坐标值和y 坐标值进行了对换。图10(b）描述了光斑质心在垂直于扫描方向的偏差，其均方根误差RMSE 值为1.389，图10(c）描述了扫描方向上的扫描步幅偏差，其均方根误差RMSE 值为1.627。
+
+![](images/bdd5065006598778398472d5923e60bc7161b70f8062ec0f2f7659465011c364.jpg)  
+图10 多波段光谱仪模式下的扫描直线度与扫描步幅精度(a）扫描轨迹（b) $\mathbf { y }$ 坐标分布(c) $\mathbf { \boldsymbol { x } }$ 坐标分布
+
+Fig.8Scanning straightnessandscanning strideaccuracyinMBS mode (a)Scanning track;(b)Ycoordinatedistribution；(c)X
+
+coordinate distribution
+
+实验数据表明，两种模式下的直线度和扫描步幅偏差的均方根误差都在 $1 { \sim } 2$ 个pixel之间，最大偏差的RMS为1.627，约为 $1 0 . 5 8 \mu \mathrm { m }$ 。根据NVST二维光谱扫描观测对扫描系统性能要求的第4点，即扫描时图像偏移量的RMS应小于扫描步幅的1/10，实验结果显示的图像偏移量的RMS相对于 $1 8 7 . 5 \mu \mathrm { m }$ 的步幅长度和 $1 9 5 \mu \mathrm { m }$ 的光斑尺寸，其大小处于被允许的范围，因此可认为扫描系统扫描时的直线度和扫面步幅精度满足要求。
+
+# 4.总结
+
+本文基于 NVST二维光谱扫描观测的需求，设计了一套垂直双光谱切换扫描系统，实现光谱扫描观测的同时，也参与光谱仪的切换，并起到对接AO与其后各终端仪器的作用。对设计完成的垂直双光谱切换扫描系统进行了加工装调并初步完成了与AO及终端仪器系统的对接。对扫描系统性能做了初步的测试实验，能够实现指定的运动，扫描精度满足要求，符合设计预期。
+
+当前的实验测试是以激光作为点光源，并采用多通道成像系统作为数据采集的通道，所以其并不能完全替代实际的太阳光谱扫描观测过程，因此下一步的工作需进一步地测试扫描系统在实际太阳光谱扫描观测时的性能，并根据测试结果对扫描系统进行优化调节以进一步提升其性能，确保NVST稳定可靠地进行太阳光谱扫描观测。
+
+# 参考文献
+
+[1] 谭徽松．实测天体物理[M]．国防工业出版社，2014.Tan Huisong. Observational Astrophysics[M]. National Defense Industry Press，2014.  
+[2]蔡云芳.NVST 太阳光谱数据处理方法研究[D].2018.Cai Yunfang. Research on Data Processing Method of the NVST Solar Spectrum[D]. 2018  
+[3]方成，黄佑然．太阳二维光谱观测研究的进展和展望[J].天文学进展，1995(01)：3-11.Fang Cheng，Huang Youran. The Observational Study of Solar Bidimensional Spectra: ItsPresent and Future[J]. Progress in Astronomy，1995(O1): 3-11.  
+[4] 王俊凡，朱永田，胡中文．基于积分视场单元的三维天文成像光谱技术[J]．天文学进展，2008(01): 73-79.Wang Junfan， Zhu Yongtian， Hu Zhongwen. Techniques for 3D Imaging Spectroscopy inAstronomy[J]. Progress in Astronomy， 2008(01): 73-79.  
+[5] Zhong Liu， Jun Xu， Bo-Zhong Gu， et al. New vacuum solar telescope and observations withhigh resolution[J]. Research in Astronomy and Astrophysics， 2014， 14(O6): 705-718.  
+[6] Stolpe F, Kneer F. MISC，an instrument for multi-dimensional spectroscopy[J]. Astronomy &Astrophysics Supplement，1998，131(1).  
+[7] Jongchul Chae, Hyung-Min Park, Kwangsu Ahn, et al. Fast Imaging Solar Spectrograph of the
+
+1.6 Meter New Solar Telescope at Big Bear Solar Observatory[J]. Solar Physics，2013,  
+288(1).
+
+[8] 杨长春，李正刚，陈宇超，等．一米新真空太阳望远镜光谱扫描观测系统设计[J]．天文研究与技术，2016，13(02)：257-265.Yang Changchun， Li Zhenggang， Chen Yuchao， et al. The Design of a Spectrum ScanningObservationSystemfortheNewVacuumSolarTelescope[J]. AstronomicalResearch&Technology，2016，13(02): 257-265.
+
+[9] 陈宇超，徐稚，李正刚，等．抚仙湖1米新真空太阳望远镜空间二维偏振光谱观测模式的设计与实现[J].天文研究与技术，2018，15(4)：423-431.Chen Yuchao， Xu Zhi，Li Zhenggang， et al. The Design and Implementation ofSpectropolarimetric Observation Mode at 1-Meter New Vacuum Solar Telescope[J].Astronomical Research&Technology，2018，15(4): 423-431.
+
+# Switching and Spectral Scanning System of the Vertical Double Spectrometer of NVST
+
+Tan xu12，Li Zhenggang1， Jin Zhenyu1，Xu Fangyul，Yuan Shul，Xu Zhi1 (1.Yunnan Observatories，Chinese Academy of Sciences，Kunming 65o011，China，Email：lizg @ ynao.ac.cn;
+
+2.University of Chinese Academy of Sciences，Beijing 1Ooo49，China'
+
+Abstract: One of NVST's scientific goals is to perform two-dimensional spectral scanning observations of solar active regions. Based on NVST's Multi-Band Spectrometer and High Dispersion Spectrometer, this paper proposes a switching and spectral scanning system of the vertical double spectrometer,which can realize the spectral scanning observation tasks of two mutually perpendicular spectrometers and participate in the realization of switching between the two spectrometers. Analyzed the principle and process of spectral scanning observation, combined with the specific structure of the NVST's terminal instrument system， completed the optical-mechanical structure design and installation of the system. And performed the performance test of the system, including system stability, scanning straightness and scanning step accuracy test, the test results meet the expected functional requirements and accuracy requirements,and provide support for NVST to perform conventional spectral scanning observations.
+
+Keywords: NVST； Spectral scanning observation； Spectrometer switching； Performancetesting

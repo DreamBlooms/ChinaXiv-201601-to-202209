@@ -1,0 +1,282 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "血清糖类抗原125在慢性阻塞性肺疾病急性加重期中的临床意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张明,李雅莉,杨侠,单虎,张秋红,冯向莉,谢颖颖,唐晶晶,张洁西安交通大学第二附属医院呼吸内科，陕西 西安 710004",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨糖类抗原125(CA125)在慢性阻塞性肺疾病急性加重期(AECOPD)患者血清中的表达水平及其与肺动脉高压的关系。方法 根据肺功能和心脏彩超结果将研究对象分为3组：AECOPD合并肺动脉高压组(46例）、单纯AECOPD组(46例)和健康对照组(38例)。收集所有研究对象的临床资料、肺功能和心脏彩超，并测定肺肿瘤标志物全套和脑钠肽(BNP)的血清学水平。结果与健康对照组相比，AECOPD合并肺动脉高压组、单纯AECOPD组的肺功能显著下降，且AECOPD合并肺动脉高压组的肺功能最差 $( P { < } 0 . 0 5 )$ 。单纯AECOPD组患者的血清CA125较健康对照组显著升高,当合并肺动脉高压时进一步升高C $( P { < } 0 . 0 5 )$ ;而其它肺肿瘤标志物(癌胚抗原、神经元特异性烯醇化酶、非小细胞肺癌相关抗原和胃泌素释放肽前体)在3组之间比较无统计学差异( $( P { > } 0 . 0 5 )$ 。AECOPD合并肺动脉高压组患者的血清BNP水平亦显著高于单纯AECOPD组( $\\scriptstyle \\cdot { P < 0 . 0 5 } )$ 。Pearson直线相关性分析显示,AECOPD合并肺动脉高压组患者的血清CA125与肺动脉收缩压及BNP均呈正相关 $( P { < } 0 . 0 1 )$ 。结论血清CA125可能被用于判断AECOPD是否合并肺动脉高压的一个血清学指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：慢性阻塞性肺疾病；肺动脉高压;急性加重期；糖类抗原125;脑钠肽 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clinical significance of serum carbohydrate antigen 125 in acute exacerbation of chronic obstructive pulmonary disease ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANGMing,LIYali,YANGXiaSHANHu,ZHANGQiuhong,FENG Xiangli,XIEYingying,TANGJingjing,ZHANGJie DepartmentofRespiratoryMedicine,SecondAffiliatedHospitalofXi'anJiaotongUniversity,Xi'anoo4,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To study the serum level of carbohydrate antigen125 (CA125)in patients withacute exacerbationof chronic obstructive pulmonary disease (AECOPD)and its relation with pulmonary hypertension. Methods Forty-six patients with AECOPD complicated bypulmonary hypertension,46 with AECOPDand 38healthy control subjects were examined for their clinical data,pulmonary function,echocardiographic findings,and serum levelsof lung tumor markersand brain natriuretic peptide (BNP). Results Compared with the healthy control group, COPD patients with or without pulmonary hypertension showed significantly decreased pulmonary function $_ { ( P < 0 . 0 5 ) }$ , especially in those with AECOPD and concurrent pulmonary hypertension $( P { < } 0 . 0 5 )$ . Serum CA125 level was obviously higher in AECOPD group than in the healthy control group,and further increased in AECOPD patients with pulmonary hypertension $( P { < } 0 . 0 5 )$ . The levels of lung tumor markers (CEA, NSE, CYFRA and PROGRP) were similar among the 3 groups $( P { > } 0 . 0 5 )$ . The serum level of BNP in patients with AECOPD and concurrent pulmonary hypertension was significantly higher than that in patients with AECOPD $_ { ( P < 0 . 0 5 ) }$ Pearson linear corelation analysis showed that serum CA125 was positively correlated with pulmonary artery systolic pressure and BNP in AECOPD patients with pulmonary hypertension $( P { < } 0 . 0 1 )$ . Conclusion Serum CA125 may serve as a serological index to identify AECOPD patients with pulmonary hypertension. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: chronic obstructive pulmonary disease; pulmonary hypertension;acute exacerbation;carbohydrate antigen125; brain natriuretic peptide ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "慢性阻塞性肺疾病(COPD)是一种具有气流受限特征的肺部疾病，气流受限不完全可逆，呈进行性发展。我国成人COPD的患病率约为 $5 \\% { \\sim } 1 3 \\%$ ,其死亡率居所有疾病死因的第4位[]。随着吸烟人口增多、人口老龄化发展和环境污染加重，COPD的发病率将呈上升趋势，给家庭和社会造成巨大的经济负担2]。肺动脉高压是COPD常见的并发症之一，其存在增加了COPD急性发作的入院风险及COPD患者的病死率[3-4]。因此早期诊断、治疗COPD继发性肺动脉高压对改善COPD预后有着重要的临床意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前有多种血清学指标用于早期诊断COPD继发性肺动脉高压，如脑钠肽(BNP)、内皮素-1、C反应蛋白、白介素-6及肿瘤坏死因子 $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 等[5-8]。糖类抗原CA125(CA125)是肺肿瘤标志物全套中的一个重要指标，不但广泛应用于呼吸系统疾病的诊断，而且在卵巢癌、胃肠道肿瘤、脑胶质瘤等疾病的诊断中具有重要价值，还可被用于慢性心力衰竭的鉴别诊断[10]。最新研究表明[11]CA125在继发肺动脉高压的稳定期COPD患者血清中显著升高，且与肺动脉收缩压(PASP)呈正相关，提示CA125可被用于判断稳定期COPD患者是否合并肺动脉高压。CA125的表达受机体炎症反应影响[2]，当COPD患者因感染而处于急性加重期(AECOPD)时，血清CA125的表达水平及其与肺动脉高压的关系，迄今仍不清楚。为此，本研究旨在观察CA125在AECOPD伴或不伴肺动脉高压患者血清中水平，为早期识别AECOPD继发性肺动脉高压提供可靠的血清学指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究对象来源于西安交通大学第二附属医院呼吸内科2014年1月\\~2014年12月收治的AECOPD患者。入院标准符合2013年GOLD指南新制定的COPD诊断标准3；通过多普勒心脏彩超检测三尖瓣返流压差，计算PASP,PASP大于 $3 5 ~ \\mathrm { m m H g }$ 认为存在肺动脉高压[14]。排除恶性肿瘤、冠心病、左心功能不全、原发性肺动脉高压、肺栓塞、糖尿病、支气管哮喘、活动性肺结核、支气管扩张及肾功能不全的患者。人院后所有患者均行详细的问诊、体格检查、心脏彩超和肺功能检查。根据临床症状及心脏彩超结果，将入选患者分为以下两组：AECOPD合并肺动脉高压组，46例，年龄 $6 5 { \\pm } 8$ 岁,其中男性33例;单纯AECOPD组，46例，年龄 $6 3 { \\pm } 7$ 岁,其中男性31例。另选取本院体检中心38例肺功能正常者作为健康对照组，年龄 $6 4 { \\pm } 9$ 岁，其中男性27例。本研究通过西安交通大学第二附属医院医学伦理委员会审核，并获得研究对象的知情同意。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用德国耶格公司MasterScreen肺功能仪进行肺功能检测。由有经验的超声专家以Nemio17彩色多普勒超声检测三尖瓣返流量，估测PASP。于人院次日空腹抽取AECOPD患者静脉血 $3 \\mathrm { m L }$ ，健康对照组于体检当日空腹抽取静脉血 $3 ~ \\mathrm { m L }$ ,之后应用低温离心机以$4 0 0 0 \\mathrm { r / m i n }$ 于 $4 \\mathrm { { ^ { \\circ } C } }$ 下离心 $1 0 \\mathrm { m i n }$ ,分离血清，采用电化学发光法检测肺肿瘤标志物全套水平(癌胚抗原CEA、神经元特异性烯醇化酶NSE、非小细胞肺癌相关抗原CYFRA、糖类抗原125CA125和胃泌素释放肽前体PROGRP)，并应用化学发光法测定BNP水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS17.0统计软件分析。数据以均数±标准差或频数或百分比表示。两组计量资料的比较采用两独立样本t检验，多组计量资料的比较采用单因素方差分析检验，计数资料的比较采用卡方检验。相关性分析：当被检验的两个变量均为正态分布时，采用Pearson直线相关分析；当两个变量不全为正态分布时，采用Spearman秩相关分析。以 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基本资料分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AECOPD合并肺动脉高压组、单纯AECOPD组及健康对照组的基本资料见表1。研究显示，年龄、性别、体质量指数、吸烟指数在各组之间无统计学差异( $P >$ 0.05)。其中AECOPD合并肺动脉高压组合并高血压5例，单纯AECOPD组合并高血压6例，健康对照组合并高血压5例，各组间比较无统计学差异 $( P { > } 0 . 0 5 )$ 。依据三尖瓣返流压差估算PASP，结果显示AECOPD合并肺动脉高压组的PASP为 $5 6 . 2 { \\pm } 1 1 . 9 \\ \\mathrm { m m H g }$ ，单纯AECOPD及健康对照组均无肺动脉高压！ $\\mathrm { ( P A S P { < } 3 5 ~ m m H g ) }$ 。与健康对照组相比，AECOPD合并肺动脉高压或无肺动脉高压组的 $\\mathrm { F E V } _ { 1 } \\%$ 预计值 $\\mathrm { \\nabla { . F E V _ { \\mathrm { 1 } } / F V C } }$ 均显著降低，且AECOPD合并肺动脉高压组的肺功能最差，各组间比较有统计学差异 $( P { < } 0 . 0 5 )$ )。AECOPD合并肺动脉高压组患者的 $\\mathrm { P a O } _ { 2 } ( 5 1 . 3 { \\pm } 9 . 2 8 )$ 和 $\\mathrm { P a C O } _ { 2 } ( 4 8 . 7 { \\pm } 7 . 4 7 )$ 较单纯AECOPD组 $( 6 3 . 3 { \\pm } 6 . 3 4 , 4 0 . 7 { \\pm } 6 . 3 1 ,$ 显著加重 $( P { < } 0 . 0 5 )$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 血清指标检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "血清学检测显示，单纯AECOPD组患者的血清CA125水平较健康对照组显著升高（ $2 7 . 4 { \\pm } 5 . 6 7$ vs $1 4 . 7 \\pm$ $2 . 1 1 \\ \\mathrm { U / m L }$ $P { < } 0 . 0 5$ ),当AECOPD合并肺动脉高压时血清CA125水平 $( 3 7 . 2 { \\pm } 6 . 6 4 ~ \\mathrm { U / m L } )$ 将进一步升高( $P <$ 0.05,表2和图1)。然而其它肺肿瘤标志物CEA、NSE、CYFRA、PROGRP的血清水平在各组间比较无统计学差异 $( P { > } 0 . 0 5$ ,表2)。AECOPD合并肺动脉高压组患者的血清BNP水平 $\\mathrm { ( 1 8 3 \\pm 4 5 . 4 ~ p g / m L ) }$ 亦高于单纯AECOPD组 $\\mathrm { \\langle 1 0 1 { \\pm } 2 2 . 6 ~ p g / m L }$ ),差异有统计学意义( $P <$ 0.05,表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3血清CA125与PASP及BNP之间的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K-S法正态性检验显示，AECOPD合并肺动脉高压组患者的血清CA125、PASP、BNP的 $P$ 值均大于0.10,可视为正态分布资料，因此它们之间的相关性检验采用Pearson直线相关分析。相关分析结果表明，AECOPD合并肺动脉高压组患者血清CA125与PASP及BNP均呈正相关 $( r = 0 . 4 8 9 , P = 0 . 0 0 1 , r = 0 . 5 2 9 , P < 0 . 0 0 1$ .respectively),见图2。此外,AECOPD合并肺动脉高压组患者的血清BNP与PASP亦呈正相关 $( r { = } 0 . 7 5 3 , P { < }$ 0.001)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COPD是多种因素参与的气道慢性炎症性疾病，除肺部炎症反应外，全身炎症应答亦参与其发病过程[15]。且进一步研究表明，COPD患者的炎症反应强度与肺功能呈负相关[16-17]。在本研究中,我们虽未测定C反应蛋白、白介素-6、白介素-8、肿瘤坏死因子 $\\mathbf { \\ddot { a } } _ { } ^ { }$ 等炎症指标的水平，但通过肺功能和动脉血气分析，我们推测AECOPD合并肺动脉高压组患者的炎症反应更为强烈。在COPD病程中，多种炎症介质及缺氧可破坏肺部毛细管血管,微血管床重构，甚至微血栓形成,增加了肺循环阻力，导致肺动脉压力升高。目前虽然心脏彩超可确诊COPD继发肺动脉高压，但由于心脏彩超医生的临床经验不足或三尖瓣返流不明显，部分早期肺动脉高压患者可能被漏诊。近年已有多种血清学指标被用于早期预测或诊断COPD患者中肺动脉高压的发生[18],但有关CA125在本病中作用的研究仍相对较少。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a7f09d03d0d5c6b06d9f6ada99be4ddf3743f9f375dd19f72033340d3158a49.jpg",
+        "table_caption": [
+            "表1研究对象的基本资料比较Tab.1 General demographic and clinical data of the 3 groups"
+        ],
+        "table_footnote": [
+            "BMI:Bodymassindex;PASP:Pulmoaryarterialsystolicpressre;FEV:Forcedexpiratoryvolume inonesecond;FVC:Forcedvital capacity; $\\mathrm { P a O } _ { 2 }$ :Partial pressure of oxygen in arterial blood; $\\mathrm { P a C O } _ { 2 }$ ：Partial pressure of carbon dioxide in arterial blood. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>AECOPD with pulmonary hypertension</td><td>Pure AECOPD</td><td>Healthy control</td><td>P</td></tr><tr><td>Number</td><td>46</td><td>46</td><td>38</td><td></td></tr><tr><td>Age (year)</td><td>65±8</td><td>63±7</td><td>64±9</td><td>>0.05</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>33</td><td>31</td><td>27</td><td>>0.05</td></tr><tr><td>Female</td><td>13</td><td>15</td><td>11</td><td>>0.05</td></tr><tr><td>BMI (kg/m²)</td><td>23.5±3.21</td><td>22.7±2.56</td><td>23.6±3.11</td><td>>0.05</td></tr><tr><td>Smoking index (pack-years)</td><td>40.3±13.3</td><td>39.3±14.3.</td><td>38.7±14.2</td><td>>0.05</td></tr><tr><td>Hypertension (%)</td><td>10.9</td><td>13.0</td><td>13.2</td><td>>0.05</td></tr><tr><td>PASP (mmHg)</td><td>56.2±11.9</td><td><35</td><td><35</td><td>NA</td></tr><tr><td>FEV, (% predicted)</td><td>48.9±7.34</td><td>55.8±9.62</td><td>96.8±11.2</td><td><0.05</td></tr><tr><td>FEV(/FVC (%)</td><td>46.4±5.11</td><td>51.3±4.76</td><td>87.6±5.67</td><td><0.05</td></tr><tr><td>PaO (mmHg)</td><td>51.3±9.28</td><td>63.3±6.34</td><td>NA</td><td><0.05</td></tr><tr><td>PaCO2 (mmHg)</td><td>48.7±7.47</td><td>40.7±6.31</td><td>NA</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/94d30ac185a67462003e5bc621375e3e02cb64754e7fde9cfc437ab46259eabc.jpg",
+        "table_caption": [
+            "表2血清肺肿瘤标志物和BNP检测结果 Tab.2 Serum levels of lung tumor markers and BNP in the 3 group: "
+        ],
+        "table_footnote": [
+            "CEA:Carcinoembryonicantigen;NSE:Neuronspecificenolase;CYFRA:Cytokeratin19 fragment;CA125:Carbohydrateantigen 125;PROGRP: Pro-gastrin-releasing peptide;BNP:Brain natriuretic peptide. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>AECOPD with pulmonary hypertension</td><td>Pure AECOPD</td><td>Healthy control</td><td>P</td></tr><tr><td>CEA (ng/mL)</td><td>2.24±0.45</td><td>2.47±0.51</td><td>2.39±0.48</td><td>>0.05</td></tr><tr><td>NSE (ng/mL)</td><td>10.19±2.19</td><td>12.37±1.68</td><td>11.19±1.21</td><td>>0.05</td></tr><tr><td>CYFRA (ng/mL)</td><td>2.77±0.34</td><td>2.96±0.41</td><td>2.67±0.47</td><td>>0.05</td></tr><tr><td>CA125 (U/mL)</td><td>37.2±6.64</td><td>27.4±5.67</td><td>14.7±2.11</td><td><0.05</td></tr><tr><td>PROGRP (pg/mL)</td><td>49.2±5.78</td><td>45.32±4.77</td><td>44.21±6.78</td><td>>0.05</td></tr><tr><td>BNP (pg/mL)</td><td>183±45.4</td><td>101±22.6</td><td>NA</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6faa47eade292908c1ca5cdf17b02e3b7e5d55437544f2bf426e7f1db53d024.jpg",
+        "img_caption": [
+            "图1血清CA125在各组中水平 Fig.1 Comparison of serum levels of CA125 among the3groups.A:AECOPD with pulmonary hypertension group;B:AECOPD group; C:Healthy control group. $^ { * } P { < } 0 . 0 5$ vs group $C ; { ^ { \\# } P { < } 0 . 0 5 }$ vs group B. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc098bba5a6d176e8662eaf202ec87574efe282379fa55372c3750b4d16ff9d6.jpg",
+        "img_caption": [
+            "图2AECOPD合并肺动脉高压组患者血清CA125与肺动脉收缩压、脑钠肽的相关性 Fig.2 Correlations of serum CA125 with PASP (A) and BNP (B) in AECOPD patients with pulmonary hypertension. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CA125是一种糖蛋白，正常人的平均水平 ${ \\leqslant } 3 5 \\mathrm { U / m L }$ 当超过正常水平两倍时,需进一步完善相关检查排除恶性肿瘤,尤其对卵巢肿瘤有重要意义[19]。已有文献报道[10.20],CA125还可被用于心力衰竭的鉴别诊断。进一步研究发现21],CA125与慢性心力衰竭的严重程度及液体潴留有关，但与射血分数、左心室内径无关；右心功能不全时，CA125与右心室腔扩大有关，但通过对肺动脉压力等多个变量校正后，发现升高的CA125仅仅与右心功能不全有关。以上研究提示，心腔压力增加可能是血清CA125表达水平上调的一个机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前已有少许研究探索CA125在COPD继发肺动脉高压中的作用[1I:22]。研究显示[1],，与单纯稳定期COPD患者相比，CA125在继发肺动脉高压的稳定期COPD患者血清中显著升高，且与PASP呈正相关，提示CA125可用于识别稳定期COPD继发肺动脉高压。然而血清CA125是否依然能够反应AECOPD合并肺动脉高压，目前仍不清楚。为此，本研究对可能影响CA125的因素(年龄、性别、体质量指数、吸烟指数及高血压)在各观察组进行充分匹配后，研究表明单纯AECOPD组患者的血清CA125明显升高，当合并肺动脉高压时进一步升高，且与PASP呈正相关，这与CA125在继发肺动脉高压的稳定期COPD患者血清中的变化趋势保持一致[1]。BNP作为COPD继发肺动脉高压的一个独立预测指标[5,本研究亦发现AECOPD合并肺动脉高压组患者的BNP明显升高，且与CA125、PASP呈正相关。因此，CA125的升高与AECOPD临床状态及其恶化有一定的相关性，可用于早期识别AECOPD患者中肺动脉高压的发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究发现CA125不仅在单纯AECOPD患者血清中显著升高，且随着AECOPD患者肺动脉高压的出现更进一步增加，提示早期、动态监测血清CA125水平变化，能够及时发现和估测AECOPD患者肺动脉高压的发生。在后续研究中，我们将观察CA125在COPD继发肺动脉高压患者(急性加重期、稳定期)血清中的动态变化，为进一步明确血清CA125在COPD中的临床价值提供有益数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］方晓聪,王向东,白春学.慢性阻塞性肺疾病在中国的诊治现状[J].国 际呼吸杂志,2011,31(7):493-7.   \n[2]Fang X,Wang X,Bai C.COPD in China: the burden and importance of proper management[J].Chest, 2011,139(4): 920-9.   \n[3] Chaouat A,Naeije R,Weitzenblum E.Pulmonary hypertension in COPD[J].EurRespirJ,2008,32(5):1371-85.   \n[4]Weitzenblum E,Chaouat A,Kessler R.Pulmonary hypertension in chronic obstructive pulmonary disease [J].Pneumonol Alergol Pol, 2013,81(4): 390-8.   \n[5]Flessas N,Alexanian I, Parisss J,et al. Plasma activity of B-type natriuretic peptide in patients with biventricular heart failure versus those with right heart failure due to chronic obstructive pulmonary disease[J].JCardiovasc Med (Hagerstown),2014,15(6): 476-80.   \n[6]Kwon YS,Chi SY, Shin HJ,et al. Plasma C-Reactive protein and endothelin-1 level in patients with chronic obstructive pulmonary disease and pulmonary hypertension[J].JKorean Med Sci, 2010,25 (10): 1487-91.   \n[7]He H,Tao Y,Chen X,et al.High levels of interleukin-6 and 8-iso-prostaglandin in the exhaled breath condensate and serum of patientswith chronic obstructivepulmonarydisease related pulmonary hypertension[J].Chin Med J,2014,127(9): 1608-12.   \n[8]Ansarin K,Rashidi F,Namdar H,et al. Echocardiographic evaluation of the relationship between inflammatory factors (IL6, TNFα,hs-CRP) and secondary pulmonary hypertension in patients with COPD.A cross sectional study[J].Pneumologia,2016,64(3): 31-5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（下转1400页）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[9]黄晓,段云飞,唐海波,等.体质指数对超重与肥胖青少年血压的影响 [J].热带医学杂志,2011,11(6):713-20.   \n[10]Peixoto-Souza FS,Piconi-Mendes C,Baltieri L,et al.Lung age in women with morbid obesity[J].Rev Assoc Med Bras (1992),2013, 59(3):265-9.   \n[11]Moller Petrun A,Kamenik M.Bispectral index-guided induction of general anaesthesia in patients undergoing major abdominal surgery using propofol or etomidate:a double-blind,randomized,clinical trial[J].BrJAnaesth,2013,110(3):388-96.   \n[12]Reich DL,Hossain S,Krol M,et al.Predictors of hypotension after induction of general anesthesia[J].Anesth Analg,2Oo5,101(3): 622-8,table of contents.   \n[13]Yang CI,Fine GF,Jooste EH,et al. The effect of cisatracurium and rocuronium on lung function in anesthetized children[J].Anesth Analg,2013,117(6):1393-400.   \n[14]中华医学会心血管病学分会,中华心血管病杂志编辑委员会.中国心 力衰竭诊断和治疗指南2014[J].中国实用乡村医生杂志,2014,42 (24): 3-10.   \n[15]Boldt J,Knothe C,Zickmann B,et al.Cardiorespiratory and microcirculatory effects following volume replacement using a new hydroxyethyl starch preparation [J].Anaesthesist,1992,41(6): 316-23.   \n[16]吴燕,孟尽海,刘斐,等.顺式阿曲库铵两种不同给药方式对肌松残 余作用的影响[J].临床麻醉学杂志,2014,30(2):122-4.   \n[17]Dong YJ,Li X.Comparative study on the pharmacodynamics of cisatracurium:Continuous infusion or intermittent bolus injection [J].Contemp Clin Trials,2012,33(3): 482-5.   \n[18]Hanley MJ,Abernethy DR,Greenblatt DJ.Effect of obesity on the pharmacokinetics of drugs in humans [J].Clin Pharmacokinet, 2010,49(2): 71-87.   \n[19]Kumar GV,Nair AP,Murthy HS,et al.Residual neuromuscular blockadeaffectspostoperativepulmonaryfunction [J]. Anesthesiology,2012,117(6):1234-44.   \n[20]Abernethy DR,Greenblatt DJ.Drug disposition in obese humans [J].Clin Pharmacokinet,1986,11(3): 199-213.   \n[21]鲍 杨,张丽峰,史东平,等.非去极化肌松药发生残余阻滞作用的危险 因素[J].中国现代应用药学,2010,27(7):604-7. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（上接1389页）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]Bottoni P,Scatena R.The role of CA 125 as tumor marker: biochemical and clinical aspects[J].Adv Exp Med Biol,2015,867 (4): 229-44.   \n[10]Nunez J,Minana G,Nunez E,et al. Clinical utility of antigen carbohydrate 125 in heart failure[J].Heart Fail Rev,2014,19(5): 575-84.   \n[11]Rahimi-Rad MH,Rahimi P,Rahimi B,etal. Serum CA-125 level in patients with chronic obstructive pulmonary disease with and without pulmonary hypertension [J].Pneumologia,2O14,63(3): 164-6.   \n[12]Hamdy NM.Relationship between pro-anti-inflammatory cytokines, T-cell activation and CA 125 in obese patients with heart failure[J]. Med Sci Monit,2011,17(3): CR174-9.   \n[13]Hatipoglu U,Aboussouan LS.Chronic obstructive pulmonary disease:an update for the primary physician[J].Cleve Clin JMed, 2014,81(6):373-83.   \n[14]姜玉新,王志刚.医学超声影像学[M].北京:人民卫生出版社,2010: 123.   \n[15]Macnee W. Systemic inflammatory biomarkers and co-morbidities of chronic obstructive pulmonary disease[J].Ann Med,2013,45 (3):291-300.   \n[16]Fogarty AW,Jones S,Britton JR,et al. Systemic inflammation and decline in lung function in a general population: a prospective study [J].Thorax,2007,62(6): 515-20.   \n[17]Donaldson GC, Seemungal TA,Patel IS,et al.Airway and systemic inflammation and decline in lung function in patients with COPD [J].Chest,2005,128(4): 1995-2004.   \n[18]Joppa P,Petrasova D, Stancak B,et al. Systemic inflammation in patients with COPD and pulmonary hypertension[J].Chest,2006, 130(2):326-33.   \n[19]Weiland F,Martin K,Oehler MK,et al.Deciphering the molecular Nature of ovarian cancer biomarker CA125[J].Int JMol Sci,2012, 13(8): 10568-82.   \n[20]Zhuang J,Faggiano P,Li Q,et al. Insights into the clinical implications of carbohydrate antigen 125 as a biomarker of heart failure:a meta-analysis and systematic review of published studies [J].J Cardiovasc Med (Hagerstown),2014,15(12): 864-72.   \n[21]Kouris NT, Zacharos ID,Kontogianni DD,et al. The significance of CA125 levels in patients with chronic congestive heart failure. Correlation with clinical and echocardiographic parameters[J].Eur JHeart Fail,2005,7(2):199-203.   \n[22]Uz O,Kardesoglu E, Tas D,et al. CA-125 level is associated with right ventricular echocardiographic parameters in patients with COPD[J]. South Med J,2011,104(9): 624-8. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 4
+    }
+]

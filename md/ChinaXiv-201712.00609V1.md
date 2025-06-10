@@ -1,0 +1,83 @@
+临床研究
+
+# 预防鼻咽癌患者放射性皮炎的两种方法的效果比较
+
+宋琼,陈佩娟,刘倩,侯婷南方医科大学南方医院放疗科，广东广州510515
+
+摘要：目的比较联合应用比亚芬和赛肤润乳膏与喜疗妥乳膏预防鼻咽癌患者放射性皮炎的效果。方法选取2014年3\~12月人住我院80例患者，按入院顺序随机分为两组，喜疗妥组于放疗前后予喜疗妥乳膏涂抹于照射野皮肤，实验组于放疗前予赛肤润乳膏,于放疗后予比亚芬涂抹照射野皮肤,比较两组患者化疗期间阳性放射性皮炎发生率、放射性皮炎反应程和Ⅱ度及以上放射性皮炎出现时间。结果实验组患者化疗期间阳性放射性皮炎发生率明显低于喜疗妥组 $( P { < } 0 . 0 5 )$ ；放射性皮炎反应程显著低于喜疗妥组 $( P { < } 0 . 0 5 )$ ；Ⅱ度及以上放射性皮炎出现时间明显推迟( $P { < } 0 . 0 5 )$ 。结论 鼻咽癌患者联合应用比亚芬和赛肤润乳膏不仅能有效地降低放射性皮肤炎的发生，还能减轻放射性皮炎的反应程度，减少患者的疼痛。
+
+关键词：放射性皮炎；比亚芬；赛肤润乳膏；喜疗妥乳膏
+
+# The effectiveness of combination of biafine and sanyrene and hirudoid cream on radiation dermatitis in patients with nasopharyngeal carcinoma
+
+SONG Qiong,CHENPeijuan,LIU Qian,HOU ing DepartmentofRadiationOncology,Nanfang hospital,SouthernMedical Unioersity,Guangzhou 5Ol515,China
+
+Abstract: Objective Tocompare the efectiveness of the combinationof Biafine and Sanyrene and hirudoid cream onthe postiradiationdermatitis innasopharyngealcarcinoma patients.MethodsAtotal of 80 patients from Nanfanghospital were randomly divided intotreatment groupand hirudoid group acording tothesequenceof admission.Patients in two groups were appliedhirudoidcream,andthecombinationofbiafinecreamandsanyrenebeforeandafterradiotherapy,espectively. Results Compared with the hirudoid group,patientsof thetreatment group hadalower severityand incidenceofradiation dermatitis $( P { < } 0 . 0 5 )$ . Conclusion The combination of Biafine and Sanyrene decreases the severity and incidence of radiation dermatitis more effectively compared with hirudoid cream.
+
+Keywords:radiation dermatitis;biafine; sanyrene;hirudoid cream
+
+鼻咽癌是流行于东南亚的一种鳞状细胞癌，患病率为 $0 . 0 3 \% { \sim } 0 . 0 8 \% ^ { [ 1 ] }$ 。放疗是治疗鼻咽癌的主要手段之_[2-3],鼻咽癌患者接受放疗的剂量大、时间长,其副反应严重影响患者放疗效果和生活质量。放射性皮炎是患者放疗期间不良反应之一，尤其是颈部皮肤反应[4]。$6 0 \%$ 的患者在放疗期间可发生放射性皮炎[3]。其中约$5 8 . 1 \%$ 患者因皮肤损伤严重而被迫中断治疗[5]。放射性皮炎一般表现为红斑反应，干性脱皮，湿性脱皮，皮肤溃疡,甚至坏死。放射性皮炎反应程度取定于放疗剂量、疗程、放射部位以及个体差异[7
+
+目前为止，尚无法有效地预防放疗期间放射性皮炎的发生，也没有具有信服力的治疗方案和执行指南8，尽管临床上多提倡敷料治疗湿性放射性皮炎。有报道指出，比亚芬和赛肤润乳膏是临床上预防治疗放射性皮炎的常用药物。比亚芬与赛肤润乳膏联合用药可获得比用单一药物更好地预防放射性皮炎的效果[10]。也有报道称，喜疗妥乳膏和比亚芬乳膏预防放射性皮炎疗效均优于维生素E,且喜疗妥乳膏具有良好的价格优势[]。因此,本研究旨在比较比亚芬与赛肤润乳膏联合用药和喜疗妥乳膏在预防放射性皮炎的效果。
+
+# 1资料和方法
+
+# 1.1一般资料
+
+选取2014年3\~10月入住我院放疗科进行鼻咽癌患者为研究对象，患者均通过细胞学及病理学检查进行确诊，按照随机对照原则分为实验组和喜疗妥组，两组患者共80例，男46例，女34例，年龄29\~66岁，平均年龄47岁；实验组和喜疗妥组各40例，两组患者对此均知情同意，基本情况良好，性别、年龄、疗程和放射剂量差异均无统计学意义， $P { > } 0 . 0 5$ ，具有可比性。
+
+# 1.2皮肤损伤防护方法
+
+两组患者在实验观察期内对照射野皮肤均予常规皮肤护理，皮肤损伤发生至Ⅱ度及以上，使用生理盐水清洗创面，利凡诺纱布湿敷后再清洗，待干，喷洒金因肽,3\~5 次/d。
+
+1.2.1实验组从放疗第1天开始，放疗前8h和 $4 \mathrm { h }$ 给予赛肤润乳膏均匀涂抹照射区皮肤，范围超过照射野皮肤边缘 $2 \mathrm { c m }$ ,用指腹轻柔按摩 $1 { \sim } 2 ~ \mathrm { m i n }$ ，放疗后 $3 0 ~ \mathrm { m i n }$ 内和 $^ { 4 \mathrm { h } }$ 给予比亚芬按摩油均匀涂抹照射区皮肤，用指腹轻柔按摩 $1 { \sim } 2 \ \mathrm { m i n }$ ，促使皮肤完全吸收，上述方案严格执行至放疗结束。
+
+1.2.2喜疗妥组从放疗第1天开始，放疗后使用喜疗妥乳膏涂抹照射野皮肤，2\~3次/d
+
+1.2.3观测指标根据RTOG急性放射性损伤标准分为5级。0度：皮肤颜色无改变,无疼痛；I度：滤疱样暗红色红斑,脱发,干性脱皮，出汗较少；Ⅱ度：触疼性或鲜艳红斑，片状湿性脱皮或中度水肿;Ⅲ度：皮肤皱褶以外部位融合的湿性脱皮，凹陷性水肿;V度：溃疡或出血坏死。根据急性放射性损伤分级标准，设定0度和I度放射性皮炎为阴性，Ⅱ度以上放射性皮炎为阳性。在放疗期间及放疗结束，由经过培训合格的4名评定者每天进行评价并记录2组患者发生皮肤损伤的情况，
+
+# 1.3 统计学方法
+
+实验数经SPSS13.0软件进行统计学处理分析。两组之间样本计数资料采取秩和检验， $P { < } 0 . 0 5$ 为存在显著性差异。
+
+# 2结果
+
+2.1联合应用比亚芬和赛肤润乳膏明显降低放射性皮炎发生
+
+两组患者纳入观察前，均未出现胃肠道反应、放射性皮炎、静脉炎和过敏反应，如表1所示，实验组患者阳性皮肤炎发生率明显降低( $_ { ( P < 0 . 0 5 ) }$ ;其次，实验组放射性皮炎反应程度明显低于喜疗妥组（ $( P { < } 0 . 0 5 )$ ；实验组尚未发现出现Ⅲ期及以上皮肤反应的患者，这与之前的研究结果吻合[10]。
+
+表1两组患者化疗不良反应比较( $\scriptstyle n = 4 0 )$   
+
+<html><body><table><tr><td rowspan="2">组别</td><td colspan="5">放射性皮肤损伤发生率(n,%)</td><td colspan="2">皮肤炎(n,%)</td></tr><tr><td>0级</td><td>I级</td><td>Ⅱ级</td><td>Ⅲ级</td><td>V级</td><td>阳性</td><td>阴性</td></tr><tr><td>实验组</td><td>0(0)</td><td>24(60)</td><td>16(40)</td><td>0(0)</td><td>0(0)</td><td>16(40)</td><td>24(60)</td></tr><tr><td>喜疗妥组</td><td>0(0)</td><td>14(35)</td><td>22(55)</td><td>3(7.5)</td><td>1(2.5)</td><td>26(65)</td><td>14(35)</td></tr><tr><td>Z值</td><td></td><td></td><td>-2.069</td><td></td><td></td><td colspan="2">-2.225</td></tr><tr><td>P值</td><td colspan="5"></td><td colspan="2"><0.05</td></tr></table></body></html>
+
+# 2.2联合应用比亚芬和赛肤润乳膏患者发生Ⅱ度及以上皮肤损伤时间缩短
+
+由表2可知，联合应用比亚芬和赛肤润乳膏能够推迟Ⅱ期及以上的放射性皮肤损伤出现时间( $( P { < } 0 . 0 5 )$ ，具有统计学差异。
+
+表22组患者发生II度及以上皮肤损伤时间  
+
+<html><body><table><tr><td rowspan="2">组别</td><td rowspan="2">n</td><td colspan="3">接受放疗时间(d)</td></tr><tr><td>1~10</td><td>11~20</td><td>>20</td></tr><tr><td>实验组</td><td>16</td><td>0</td><td>6</td><td>10</td></tr><tr><td>喜疗妥组</td><td>26</td><td>4</td><td>19</td><td>3</td></tr><tr><td>Z值</td><td></td><td></td><td>-3.508</td><td></td></tr><tr><td>P值</td><td></td><td></td><td><0.05</td><td></td></tr></table></body></html>
+
+# 3讨论
+
+放射治疗是目前鼻咽癌治疗的主要治疗手段，随着放射剂量的增加，患者照射野皮肤开始出现放射性反应，迄今为止，临床上仍无法有效地阻止放疗期间放射性皮炎的发生。发病原理是细胞核DNA吸收了辐射能，导致可逆或不可逆的DNA合成和分化两方面的影响，引起细胞基因的改变而导致一系列皮肤反应和损伤。损害发生程度取决于射线性质和质量及患者个体差异[12]。
+
+比亚芬是法国梅迪克斯制药厂生产的一种水基性乳膏，是目前惟一用于放射性皮炎的敷涂药膏;赛肤润是由人体所须的脂肪酸、棕榈酸与硬脂酸组成的一种按摩油，预防与治疗由压力、放疗而引起的皮肤色素沉着与红斑具有良好的效果。据报道，比亚芬和赛肤润均可有效地预防放射性皮炎发生，具有较好的临床效果，明显减少患者痛苦,提高患者生活质量[12-13]。联合应用比亚芬和赛肤润乳膏可获得了比单独使用赛肤润乳膏或比亚芬按摩油更好的疗效。喜疗妥乳膏具有抗炎、抗血栓作用，可有效地控制炎症、改善循环、吸收渗液、消除水肿、促进创面愈合，从而减轻患者局部疼痛。有研究指出，喜疗妥乳膏预防治疗鼻咽癌患者放射性皮炎具有良好的效果,而且价格适宜。本研究结果表明,联合应用比亚芬和赛肤润乳膏，患者发生放射性皮炎严重程度显著降低，尚未出现Ⅲ度及以上放射性皮炎患者，且皮肤炎阳性率明显降低，其次，能够有效地推迟Ⅱ期及以上的放射性皮炎出现的时间，从而大大地减轻患者局部疼痛及其他放疗反应，改善生活质量。
+
+在鼻咽癌患者治疗和护理中，患者联合应用比亚芬和赛肤润乳膏不仅能有效地降低放射性皮肤炎的发生，还能减轻放射性皮炎的反应程度，减少患者的疼痛，改善患者的生活质量，从而大大地促进放射治疗的有效进行。
+
+# 参考文献：
+
+[1]Jemal A,Bray F,Center MM,et al.Global cancer statistics[J].CA Cancer JClin,2011,61(2):69-90.   
+[2]葛树敏,唐世芳.鼻咽癌放射性皮炎护理进展[J].护理实践与研究， 2013,10(10):123-5.   
+[3]Mak SS,Zee CY,Molassiotis A,et al.A comparison of wound treatments in nasopharyngeal cancer patients receiving radiation therapy[J].Cancer Nurs,2005,28(6): 436-45.   
+[4]曹芷慧,罗慧,孙延亮.鼻咽癌患者放射性皮炎的护理对策[J].医学临 床研究,2008,25(10):1917-8.   
+[5]鞠小梅.联合用药治疗急性放射性皮炎21例临床护理[J].齐鲁护理杂 志,2009,15(7):113-4.   
+[6」Sanguineti G,Geara FB,Garden AS,et al.Carcinoma of the nasopharynx treated by radiotherapy alone:determinants of local and regional control[J]. Int JRadiat Oncol Biol Phys,1997,37(5): 985-96.   
+[7]Liepinsh E,Otting G,Wüthrich K.NMR observation of individual molecules of hydration water bound to DNA duplexes: direct evidence for a spine of hydration water present in aqueous solution [J].Nucleic Acids Res,1992,20(24): 6549-53.   
+[8]Kumar S,Juresic E,Barton M,et al.Management of skin toxicity during radiation therapy:a review of the evidence [J].J Med Imaging Radiat Oncol, 2010,54(3): 264-79.   
+[9]Nystedt KE,Hill JE,Mitchell AM,et al.The standardization of radiation skin care in British Columbia:a collaborative approach [J].Oncol Nurs Forum,2005,32(6):1199-205.   
+[10]邓红玉，熊婷,沈增贵,等.放疗前后交替涂抹赛肤润乳膏和比亚芬按 摩油预防鼻咽癌放射性皮炎的效果观察[J].护理学报,2012,19(14): 1-3.   
+[11]莫春玲,梁佩仲,陈漫容,等.3种方法预防放射性皮炎的效果观察[J]. 现代临床护理,2011,10(10):28-9,31.   
+[12]孙永敏,陈刚,江瑞霞,等.比亚芬预防放射性皮肤损伤的疗效观察 [J].中华放射肿瘤学杂志,2004,13(4):316-8.   
+[13]李秋龙,欧月珍,胡海妙.赛肤润预防鼻咽癌放射性损伤的效果观察 [J].医学信息:下旬刊,2010,23(1):56-7.

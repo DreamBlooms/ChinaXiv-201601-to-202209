@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "Synchrotron X-ray tomographic microscopy reveals histology and internal structure of Galeaspida (Agnatha) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAI Zhi-Kun ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(KeyLaboratoryofVertebrateEvolutionandHumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontologyand Paleoanthropology,ChineseAcademy ofSciences Beijing looo44gaizhikun@ivpp.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSynchrotron Radiation X-ray Tomographic Microscopy (SRXTM) is a powerful nondestructive method in paleontology, providing ultra-high-resolution 3D insights into the internal structure of fossils.Employing SRXTM,the skull specimens of Shuyu zhejiangensis,a 428 millon-year-old galeaspid from the Silurian of Changxing,Zhejiang Province,are investigated. The subsequent analyses indicate that the endoskeletal skull of S. zhejiangensis is composed wholly of cartilage without convincing evidence for the presence of perichondral bone. The cranial anatomy of S. zhejiangensis are unusually preserved in three dimensions largely due to the non-random decay of the cartilaginous braincase and its connecting ‘soft’ tissues. Using AMIRA or AVIZO software, seven virtual 3D endocasts of the skull of S. zhejiangensis were created revealing the gross internal cranial anatomy of galeaspids in great detail for the first time. The preliminary results indicate that during evolution the galeaspid head experienced a fundamental reorganization resulting in the development of jaws. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordssynchrotron, tomographic microscopy,early vertebrates, galeaspids, perichondral bone,virtual endocast ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Gai Z K, in press. Synchrotron X-ray tomographic microscopy reveals histology and internal structure of Galeaspida (Agnatha). Vertebrata PalAsiatica, DOI: 10.19615/ j.cnki.1000-3118.170829 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Synchrotron Radiation X-ray Tomographic Microscopy (SRXTM) has been a powerful non-destructive method in paleontology providing ultra-high-resolution 3D insights into the internal structure of fossls (Stampanoni et al., 2O06; Tafforeau et al., 20o6; Garwood et al.,2010).For example,the crania of vertebrates are rich sources of morphological data for building hypotheses of relationships of vertebrates (Davis et al.,2012). However, most cranial data are hidden in a cartilaginous or bony braincase,and are hard to be observed directly by traditional methods. The powerful SRXTM technique not only enables the internal anatomy of a braincase to be characterized in unprecedented detail (Cunningham et al., 2O14), but also provides more or less accurate reconstructions of histology, biostratinomic and diagenetic processes (Lukeneder, 2012; Qu et al., 2015). Nowadays,SRXTM has achieved sub-micron or nanometer resolution to unlock the potential of fossls,enhancing our understanding of the history of life.Here, we employed SRXTM at Swiss Light Source (SLS), in the Paul Scherrer Institute, Zurich, Switzerland to present preliminary results of an investigation of skulls of Shuyu zhejiangensis Pan,1986,a 428 million-year-old galeaspid from the Early Silurian of Changxing, Zhejiang Province, Southeast China (Pan,1986; Gai et al., 2005,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this investigation, we selected seven three-dimensionally (3D) preserved skulls of the agnathan galeaspid S. zhejiangensis (IVPP V 14334.1-7) (Fig. 1) for the SRXTM investigation to elucidate their histology and internal structure of skull. The specimens were collected from the lower part of the Maoshan Formation (late Llandovery to early Wenlock epochs, Lower Silurian, ${ \\sim } 4 2 8 \\ \\mathrm { M y a }$ ） in Changxing District,northwestern Zhejiang Province,Southeast China. The most recent phylogeny of Galeaspida indicates that S. zhejiangensis occupies the most basal position of Eugaleaspiformes (Zhu and Gai, 20o6). Therefore, the skull of $S .$ （204号 zhejiangensis would stand a good chance of representing a primitive condition for the cranial anatomy of galeaspids.Although the external morphology of S. zhejiangensis has been fully described since 1986 (Pan,1986; Gai et al., 20o5), its internal cranial anatomy remains poorly known and awaits SRXTM investigation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/09ccc2b22626ee751f7dece1ed8b6c588300fa37daaaae653320b2495ad03059.jpg",
+        "img_caption": [
+            "Fig.1 Seven three-dimensionally preserved skulls of Shuyu zhejiangensis A-G.Specimen V14334.1-7 used for the SRXTManalysis,housed in IVPP, Scale bars $: = 2 ~ \\mathrm { m m }$ Abbreviations: f.pi. pineal fossa; ie.inner ear "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The adult skull of S. zhejiangensis is about $1 \\mathrm { c m } { \\times } 1$ cm in the horizontal planeand, about 5 mm in height, which is an ideal size for the SRXTM investigation.All fossils are housed at the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences, Beijing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We employed SRXTM to provide a noninvasive scanning of our specimens on the TOMCAT beamline (a beamline for Tomographic Microscopy and Coherent Radiology experiments) at SLS, in the Paul Scherrer Institute, Zurich, Switzerland (Fig. 2A). Analyses at the TOMCAT beamline are routinely performed in an energy range of $8 { - } 4 5 ~ \\mathrm { k e V }$ providing an isotropic voxel size ranging from $0 . 3 7 \\div 1 4 . 8 ) \\mu \\mathrm { m }$ for various materials and applications (Marone et al., 2011). The scanning system is composed of the synchrotron radiation facility (Fig. 2C, left part), a sample holder equipped with a highly accurate automation system (Fig. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/694a3a87856b3a22dbb3a6d2bfe371d83836e84a1c7ab3121e4247fba9f17672.jpg",
+        "img_caption": [
+            "Fig.2 Synchrotron Radiation X-ray Tomographic Microscopy "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. SRXTM device of the TOMCAT beamline located at the X02DA port of the SLS (picture courtesy of Prof. Marco Stampanoni); B.comparison of the same tomographic slice of Shuyu zhejiangensis (specimen IVPP V 14334.1) achieved by industrial CT(voxel size $4 0 \\mu \\mathrm { m } \\dot { }$ )atShandongAcademyofGeological Science (left) and SRXTM(voxel size $3 . 5 \\mu \\mathrm { m } \\dot { }$ at the TOMCAT beamline in SLS (right) Abbreviations: V1. profundus branch of trigeminal nerve; orb. orbital opening; C.schematic diagram of SRXTM(modified from Stampanoni et al.,2002; Cnudde and Boone,2013; Kanitpanyacharoen et al.,2013) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2C, middle part),a scintillator (Fig.2C,scintillator) converting X-rays into visible light, a light microscope optic magnification system (Fig. 2C, Objective) and a detector system (Fig. 2C, right part),all of which are mounted on a Newport breadboard that can be precisely adjusted in the vertical direction (Stampanoni et al., 2002,2006). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The only preparative work before scanning was removal of surrounding rock from the fossil specimens using an automatic cutting machine at IVPP. The prepared specimen was attached to a $1 0 ~ \\mathrm { m m }$ -diameter brass stub using nail polish or wax.The scans were performed at energy of $3 5 \\mathrm { \\ k e V }$ yielding a highly collimated, thick,monochromatic X-ray beam.Photons transmited from the sample were converted to visible light by a scintillator screen. The image can then be magnified by different light objectives with fields of view ranging from 0.75 mm $\\times 0 . 7 5$ mm up to $3 0 ~ \\mathrm { m m } { \\times } 3 0 ~ \\mathrm { m m }$ ，In our practice,we used a PLAPO $2 \\times$ objective(7.15 mm $\\mathrm { 1 \\times 7 . 1 5 ~ m m }$ field of view) to achieve the highest resolution.Although some parts of the skull of S. zhejiangensis (about $1 0 \\ \\mathrm { m m } { \\times } 1 0 \\ \\mathrm { m m }$ lay outside the field of view,most of cranial structure was captured. The detector was a fast readout low-noise CCD digital camera, which can record $2 0 4 8 { \\times } 2 0 4 8$ pixels full frame images in $2 6 0 ~ \\mathrm { { m s } }$ with a nominal 14 bits. Therefore, the theoretical pixel size was $3 . 5 ~ { \\mu \\mathrm { m } }$ . The bandwidth of the parallel X-ray beam is $7 ~ \\mathrm { m m }$ which allowed us to measure most of specimens in one tomographic scan. Only specimen V 14334.5 (Fig.1E) exceeded the vertical dimensions of the viewing field; for this we performed two separate scans that are stacked in the dorsal-ventral plain. The two successive scans were then set together and the overlapping slices were removed in AVIZO or AMIRA software. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Each specimen was scanned with an angular increment of $0 . 1 2 ^ { \\circ }$ over a total rotation range of $1 8 0 ^ { \\circ }$ to produce 15o1 projections for each scan volume, with $1 0 0 ~ \\mathrm { { m s } }$ of exposure time, online post-processed and rearranged into flat- and darkfield-corrected sinograms. Reconstruction was performed on a 32-node Linux PC farm using highly optimized filtered back-projection routines. Thus, the full volumetric information was available within a few minutes of the end of the scan.The original reconstructed 32 bits, $2 0 4 8 \\times 2 0 4 8$ pixels slices4 were converted to 8 bits, $1 0 2 4 \\times 1 0 2 4$ pixel slices to reduce the data size for 3D processing, but spatial resolution ( $7 \\mu \\mathrm { m }$ for an isotropic pixel size) were sufficient for our study. Slice data derived from the scans were then analyzed and manipulated using AVIZO <www.vsg3d.com> or AMIRA $<$ www.amira.com $>$ software for 3D digital visualization on a Hewlett Packard (HP) Workstation with a 2-GHz Intel processor and 16 GB of random-access memory (RAM) at the University of Bristol. This software allowed the entire data set of approximately 1 GB to be held in memory and allowed examination of the data in three orthogonal planes simultaneously. Reconstructions were generated, in the first instance,by thresholding data across a gray scale to obtain the overall three-dimensional morphology.The internal anatomy was labeled slice by slice manually in different color materials so that different anatomy structures were individually colored to aid interpretation. A series of fixed angle visualizations including lateral,dorsal, medial, anterior, ventral, posterior,and various clippings were obtained for each specimen.In addition, the software was used to generate a series of three-dimensional animations which can be viewed in stereo using 3D glasses.Several solid 3D models have been printed through a 3D printing system of Objet Geometries Ltd. The 3D animation and physical model can be used as museum exhibits as well as being valuable in research. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Post-mortem preservation of cartilaginous skull ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The head-shield of galeaspids was composed of a surface layer of dermal bone and a massive cartilaginous endoskeleton (Janvier,1996,20o1).In most conditions,only the dermal headshield is preserved, whereas the cartilaginous skull decayed entirely in post-mortem taphonomic processes. The specimens of S. zhejiangensis are unusual in that the cartilaginous skull has been exceptionally preserved in three dimensions. The SRXTM slices revealed two levels of post-mortem preservation of the cartilaginous skul: 1) the endoskeletal cartilage disappeared completely,but a sedimentary endocast was left as in specimen V 14334.1,3. In this case, the morphology of the cartilage can be inferred from the space between the sedimentary endocast ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8508c0c8cf01bb466c2cbf1c6c16b69e49e4de845f59ca037b00b26e41e8f0b4.jpg",
+        "img_caption": [
+            "Fig.3SRXTM slices of Shuyu zhejiangensis "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A,B.Two SRXTM slices of specimen IVPPV14334.2:A.cross section,B. horizontal section; C.one SRXTM slice of specimen V14334.1,cross section; D.one SRXTM slice of specimen V14334.4, cross section; E,F.two SRXTM slices of specimen V14334.3: E.cross section,F.sagittal section Abbreviations: ao.dorsal aorta; br.f. branchial fossa; vcl. dorsal jugular vein.Not to scale ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the dermal head-shield,and is referred to as‘decayed cartilage' here (Fig. 3A-F);2) the endoskeletal cartilage has been diagenetically replaced by dense minerals (probably iron oxide) (Fig. 3A, B, diagenetic cartilage) or by less dense sediments (Fig.3D,diagenetic cartilage), which is referred to here as ‘diagenetic cartilage'.In SRXTM slices,the‘diagenetic cartilage’ is shown as bright white material (Fig.3A,B,diagenetic cartilage),whereas the sedimentary endocast is shown as gray-black material (Fig. 3A-F,sedimentary endocast). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2No evidence for the presence of perichondral bone ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The exquisite cranial anatomy of Paleozoic fishes can be known largely due to the presence of perichondral bone (Stensio,1927,1969; Jarvik,1944; Janvier,1981a; Young, 1979,2008; Chang,1982; Dupret et al.,2010,2014; Lu et al.,2012; Giles and Friedman,2014; Giles et al.,2015).Perichondral bone is a connective tissue layer of dense cells on the growing surface of the cartilage (Young,2Oo8), which is easy to be ossified as concentric layers of bone lining the cavities and canals, whereas unmineralized endoskeletons rarely fossilized. These delicate tubes and cavities in the braincase lined by the perichondral bone preserve the outline of the soft tissues such as cranial nerve, brain, sensory organs, and arteries. The perichondral bone has been known widely distributed in major groups of jawed vertebrates such as placoderms (Fig. 4A) (Young, 1979, 2008; Dupret et al., 2010, 2014),acanthodians (Burrow et al., 2012; Burrow and Turner, 2010), sarcopterygians (Fig. 4B) (Chang,1982; Lu et al.,2012),and actinopterygians (Fig.4C) (Giles and Friedman,2014; Giles et al.,2015),but is unknown in chondrichthyans, which have a fragile layer of prismatic calcified cartilage, rather than perichondral bone, lining the endoskeletal elements (Maisey,2Oo5; Maisey et al., 2009; Pradel et al., 2009, Brazeau and Friedman, 2014). By contrast,the presence of perichondral bone in jawless vertebrates seems restricted to osteostracans (Stensio, 1927； Janvier, 1981a). Its presence in galeaspids is still a controversial issue because of the poor preservation and extensive recrystallization of the fossil specimens (Janvier, 1981b,1984,1990,1996; Zhu and Janvier, 1998; Wang et al., 2005). It has been assumed to be present in galeaspids for a long time solely based on a mineralized cranial endoskeleton as in osteotracans (Janvier,198lb,1984, 1996). Janvier (1990) observed some patches of perichondral bone underlying the dermoskeleton and ossifying the plexus of subaponeurotic vascular canals, but no endoskeleton was preserved. Zhu and Janvier (1998) provided the first microstructural evidence for a ‘perichondral layer' lining the calcified cartilage in galeaspids.However, Wang et al. (2Oo5) pointed out that the so-called ‘perichondral layer’ in galeaspids compared favorably to the hypocalcified zone of dominantly spheritic mineralization immediately underlying the dermoskeleton.They concluded that the extensive endoskeletal mineralization of galeaspids appears to be composed wholly of calcified cartilage,a more generalized tissue within the vertebrate endoskeleton. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition to the light microscopy and scanning electron microscopy, the perichodral bone has been captured in recent years by the high-resolution MicroCT or SRXTM, such as in placoderm Romundina (Fig. 4A), sarcopterygian Youngolepis (Fig. 4B), actinopterygian Kentuckia (Fig. 4C),and modern actinopterygian Siniperca (Fig. 4D). In this study, the ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0e1173c3d6925f25f8d538348026ef0ad43b73f1b0c4893bf5527af06717a53.jpg",
+        "img_caption": [
+            "Fig. 4 Perichondral bone captured by MicroCT or SRXTM in major groups of jawed vertebrates (cross section through braincase) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A. placoderms (Romundina),the SRXTM scan reveals a characteristically placoderm architecture for the endoskeleton, with a well-developed perichondral bone lining the cavities or capsules in the braincase (picture courtesy of Prof.Per Ahlberg); B.sarcopterygians (Youngolepis), the MicroCT scan reveals perichondral bone is well preserved,but endochondral bone and the cavities or capsules in the braincase were replaced by sediments (picture courtesy of Prof. Mee-mann Chang); C.a fosil actinopterygian (Kentuckia),the MicroCT scan reveals well-developed perichondral bone and extensive spongy endochondralossification (picture courtesy of Dr. Sam Giles); D.a modern actinopterygian (Siniperca),the MicroCT scan reveals a lacunaris endochodral bone and well-developed perichondral bone lining the cavities or capsules in the braincase.Not to scale ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "presence of perichondral bone in galeaspids is examined using SRXTM. The SRXTM slices of S. zhejiangensis indicate that there is no convincing evidence for the presence of perichondral bone in galeaspids. Two principal sources of evidence support this conclusion: 1) no clear perichondral bone surrounding the margin of the mineralized cartilage in specimen V 14334.2 (Fig. 3A,B), especially no perichondral bone lining the sensory canals in specimen V 14334.4 (Fig.3D) where the cartilage and sensory canal are replaced by diagenetic sediment; 2) a ‘perichondral' layer lining the cavities,canals,and capsules was observed in some specimens such as V14334.3 (Fig.3E,F),a condition reminiscent of the perichondral bone of osteostracans (Stensio,1927; Janvier,1981a) and placoderms (Young,2008;Dupret et al.,2010; Brazeau and Friedman,2014). However, the ‘perichondral’ layer in Shuyu is much thicker (about 3-4 times) than the normal perichondral bone in major jawed vertebrates (Figs.3,4) and the X-ray density contrast of the ‘perichondral' layer in Shuyu is also the same as that of the sedimentary endocast in other places (Fig.3E,F). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Further tomographic analysis by us suggests that the‘perichondral’ layer of Shuyu is diagenetic,rather than of biological origin. Given that the ‘perichondral' layer was formed by perichondral bone,its inner surface should reflect the natural margin of the cranial anatomy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "However, the virtual 3D reconstruction reveals that its outer surfaces reflect a natural biological margin, whereas the inner surface is a random margin without biological meaning. Therefore,this ‘perichondral’ layer is a sedimentary deposit along the inner surface of the endoskeletal cartilage rather than true perichondral bone. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Why cranial anatomy of galeaspids can be exquisitely preserved in absence of perichondral bone ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is intriguing to discuss the reason that the cranial anatomy of Shuyu has been exquisitely preserved since apparently no perichondral bone was involved in its preservation. Decay experiments of living hagfishes and lampreys indicate that the cartilage components of the vertebrate skull undergo repeated patterns of change: the connecting ‘soft’ elements are lost early, whilst cartilaginous braincases are relatively decay resistant and retain their shape for a longer time (Sansom et al.,2010, 2011, 2013). The endoskeletal skull of galeaspids is a single mass of cartilage enclosing the brain, cranial nerves, paired sensory organs, and cephalic vascular canals (Janvier, 1996, 2001). The small head-shield of Shuyu must have experienced rapid post-mortem burial because most specimens were collected from a deltaic thin-bedded coarse sandstone which reflected a strong hydrodynamic environment. One can speculate that the exquisitely preseryed cranial anatomy of Shuyu probably underwent three stages: 1) the soft tissues such as brain, sensory organs, nerve fibers, vascular canals and muscles ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8da0fecdd6d7fdb1dd38db803286239f541e2d1081a5adcf668ca3f72d54f29c.jpg",
+        "img_caption": [
+            "Fig.5Formation of a sedimentary (H) or virtual (I) endocast of Shuyu "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.skull after soft tissues decayed,cartilaginous endoskeleton (yellow),dermal head-shield (blue); B.spaces and canals in endoskeleton diagenetically infilled with dense sediment or minerals (probably iron,iron oxide,brown) along the inner surface of the cartilage; C.a sediment or mineral endocast (brown) formed; D.cartilaginous endoskeleton decaysaway completely;E.sediment or mineral endocast; F.dermal head-shield; G.a dermal head-shield specimen (V14334.la); H.a sediment or mineral endocast specimen (V14334.1b) after removing its overlying dermal head-shield (G,V14334.la); I. a virtual endocast reconstructed from H(V14334.1b). Not to scale ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "decayed away very quickly after the death of Shuyu, spaces and canals occupied by these soft tissues were left in the cartilaginous endoskeleton (Fig.5A);2) with these spaces and canals diagenetically infilled with dense sediments or minerals (probably iron oxide) along the inner surface of the cartilage, a natural endocast would have formed in the second stage (Fig. 5B, C); 3) much later, the cartilaginous endoskeleton also decayed away completely (Fig. 5D),and the secondary mineral or sediment replica of the internal anatomy（Fig.5E,H）and the dermal head-shield were preserved (Fig. 5F, G). In this way, the exquisite preservation of the cranial anatomy of galeaspids can be inferred from the spaces in the endoskeleton lined by diagenetic mineralization,or their natural sedimentary cast (‘endocast'). Only in rare conditions was the cartilage itself diagenetically replaced by sediments or minerals,as in specimen V 14334.4 (diagenetic cartilage, Fig. 4D). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "If the spaces in the endoskeleton are filled with a physical (e.g. wax) or virtual material ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/df152604e901c927fb742ecf2d10b253cc8fd6c1e1f6e5304de39e709bf68cd6.jpg",
+        "img_caption": [
+            "Fig.63D virtual visualization of Shuyu "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A. scren capture of Shuyu being digitally reconstructed using the software Amira; B.digital virtual reconstructions of the right side of the braincase (V14334.4),in dorsal (left) and ventral (right) aspect; C.digital virtual reconstructions of the braincase (V14334.3),in dorsal view (C,D from Gai et al.2011); D.a solid 3D model printed from the digital virtual model (V14334.3) using a 3D printer. Scale bars $_ { - 2 \\mathrm { m m } }$ (Fig. 6A),a solid or virtual endocast will be produced (Figs. 5I, 6B, C). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4The virtual 3D model of the skull of Shuyu ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The virtual 3D model of the Shuyu skull was created using AMIRA or AVIZO software. Thus, the gross internal cranial anatomy of galeaspids has been three-dimensionally visualized in detail for the first time based on seven skulls of S. zhejiangensis. The SRXTM analysis indicates that the neurocranium of galeaspids is a median cartilaginous endoskeleton without any fissures.Laterally,it incorporates the splanchnocranium (gill arches) to form a massive endoskeletal skull overlying the oralobranchial chamber (orange)(Fig. 6B,C).The neurocranium encloses complex cavities,canals,and capsules for the brain (dark blue,Fig.6B,C), cranial nerves (dark,light blue, green, Fig. 6B, C),cephalic blood vessels (red, light blue,Fig. 6B, C), and paired sensory organs including nasal capsules (orange, Fig. 6B, C),eyes (light blue, Fig. 6B, C) and inner ears (yellow,Fig. 6B,C).The virtual endocasts of these cavities,canals, and capsules are interpreted to closely reflect the actual morphology of brain, nerves, sensory organs and blood vessels, since they show detailed aspects of the cranial morphology as has been generally assumed in osteostracans. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Preliminary analysis of the Shuyu endocasts indicates that the head of galeaspids experienced a fundamental reorganization: the paired nasal sacs are located laterally in the anterior part of the braincase,and the hypophyseal duct opens anteriorly and separately towards the oronasal cavity, an intermediate condition that current developmental models regard as a prerequisite for the development of jaws (Gai et al., 2011; Gai and Zhu, 2012). The description of the gross cranial anatomy of Shuyu will be the subject of subsequent publications including a detailed monograph. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1） SRXTM has become a powerful tool in paleontology, providing 3D tomographic images at sub-micron or nanometer resolution without damaging fossil samples. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2) SRXTM analysis of Shuyu zhejiangensis indicates that there is no convincing evidence for the presence of perichondral bone in galeaspids. The cranial anatomy of galeaspids had been unusually preserved in three dimensions largely due to the non-random decay of the cartilaginous braincase and its connecting ‘soft' tissues. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3) Virtual taphonomy using SRXTM explains why cranial anatomy of galeaspids can be exquisitely preserved in absence of perichondral bone. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4) The application of SRXTM to the study of the Shuyu head has enabled the threedimensional visualization of the gross cranial anatomy of galeaspids in great detail for the first time.The virtual 3D endocast of Shuyu indicates that the head of galeaspids had experienced fundamental reorganization prerequisite for the development of jaws. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsI thank Prof. Marco Stampanoni and Philip C. J. Donoghue; Dr. Neil J. Gostling and Mr. Hou Yemao for help in SRXTM and MicroCT scanning; Professors Zhu Min, Zhao Wenjin,and Mr. Geng Binghe for help in the fieldwork,and Prof. Chang Meemann, Per Ahlberg,Marco Stampanoni,and Dr. Sam Giles for permission to use their pictures. I am grateful to John A. Cunningham,and Susan Turner for improving the English in the manuscript. This research was supported by the National Natural Science Foundation of China (415721o8),and the National Youth Top-notch Talent Support Program of China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "同步辐射X射线断层显微成像揭示无颌类盔甲鱼的组织学与内部解剖",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "盖志琨 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "摘要：同步辐射X射线断层显微成像已经成为古生物研究中一种新的重要手段，能够在不损坏化石的前提下，提供化石内部超高分辨率的三维成像。利用瑞士光源最先进的同步辐射X射线断层显微成像技术，研究分析了七个采自浙江长兴志留系(约4.28亿年前)的早期盔甲鱼类浙江曙鱼三维立体保存脑颅化石。同步辐射X射线显微成像结果显示：盔甲鱼脑颅完全由软骨组成，并没有软骨外成骨存在的证据；盔甲鱼脑颅解剖结构能够被精细的保存下来，很大程度上归功于脑颅软骨与周围软组织在埋藏过程中的异时分解。利用AMIRA或AVIZO等计算机三维虚拟复原软件，三维虚拟复原了七个曙鱼脑颅模型，首次揭示出盔甲鱼脑颅内部详细的解剖结构。初步研究结果显示盔甲鱼的脑颅已经发生了显著的重组，具备了颌发育所必需的先决条件。 D",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "关键词：同步辐射，显微成像，早期脊椎动物，盔甲鱼，软骨外成骨，脑颅虚拟内模 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Brazeau MD,Friedman M,2014.The characters of Palaeozoic jawed vertebrates.ZoolJLinn Soc,170:779-821   \nBurrow CJ,Turner S,2010.Reassssment of “Protodus”scoticus from the Early Devonian of Scotland.In:Eiott D Maisey JG,Yu X et al.eds.Morphology,Phylogenyand PaleobiogeographyofFossil Fishes.Munich: Verlag Dr. Friedrich Pfeil.123-144   \nBurrow CJ,Trinajstic K,LongJA,2O12.Firstacanthodianfrom the UpperDevonian (Frasnian)GogoFormation,Western Australia. Hist Biol,4: 349-357   \nChang MM,1982.The braincase of Youngolepis,a Lower Devonian crosopterygian from Yunnan,south-western China. Ph.D thesis. Stockholm: University of Stockholm,Department of Geology.1-113   \nCnudde V,Boone MN,2013.High-resolution X-raycomputed tomography in geosciences:areview of the current technology and applications.Earth-Sci Rev,l23:1-17   \nCunninghamJA,RahmanIA,Lautenschlager Setal.,2014.Avirtual worldofpaleontology.Trends EcolEvol,29(6): 347-357   \nDavis SP,FinareliJA,Coates MI,2012.Acanthodesandshark-likeconditionsinthelastcommonancestorof moder gnathostomes.Nature,486: 247-250   \nDupret V,Sanchez S,GoujetDetal.,2010.Bone vascularizationand growth in placoderms (Vertebrata):the exampleof the premedian plate of Romundina stellina Orvig,1975. CR Palevol, 9: 369-375   \nDupret V,Sanchez S,Goujet Detal.,2014.A primitive placoderm sheds light on the originof the jawed vertebrate face. Nature,507: 500-503   \nGai ZK,ZhuM,2O12.Theoriginofthevertebrate jaw:intersection betweendevelopmental biology-based modeland fossil evidence. Chinese Sci Bull,57(30): 3819-3828   \nGai Z K,Zhu M,Zhao WJ,20o5.New material of eugaleaspids from the Silurianof Changxing,Zhejiang,China,witha discussion on the Eugaleaspid phylogeny. Vert PalAsiat, 43(1): 61-75   \nGai ZK,DonoghuePCJ,ZhuMetal.,20l1.Fossil jawless fish from China foreshadows earlyjawed vertebrateanatomy. Nature,476: 324-327   \nGarwood R J,Rahman IA,Suton MD,2010.From clergymen tocomputers-the advent of virtual palaeontology.Geology Today,26: 96-100   \nGiles S,Friedman M 2014. Virtual reconstruction of endocast anatomy in early ray-finned fishes (Osteichthyes: Actinopterygii).JPaleontol, 88(4): 636-651   \nGiles S,Friedman MBrazeau MD,2015.Osteichthyan-like cranial conditions inan Early Devonianstem gnathostome. Nature,520: 82-85   \nJanvier P,198la.Norselaspis glacialis o. et les relations phylogenetiques entre les Kiaeraspidiens (Osteostraci) du Dévonien Inférieur du Spitsberg.Palaeovertebrata,11(2-3): 19-131   \nJanvier P,1981b.The phylogeny of the Craniata, with articular reference to the significance of fossil “agnathans\".J Vert Paleont, 1(2): 121-159   \nJanvier P,1984.The relationships of the Osteostraci and Galeaspida. J rt Paleont, 4(3): 344-358   \nJanvier P,1990.La structure de l'exosquelete des Galeaspida (Vertebrata). C ad Sci,Ser II,130: 655-659   \nJanvier P,1996.Early Vertebrates.Oxford: Clarendon Press.1-393   \nJanvier P,20o1. Ostracoderms and the shaping of the gnathostome characters.In: Ahlberg Ped.Major Events in Early Vertebrate Evolution: Palaeontology,Phylogeny, Genetics and Development.London: Taylor Fran s. 172-186   \nJarvik E,1944.On the dermalbones,sensorycanalsand pit-linesof the skullin Eusthenopteron foordii Whiteaves,with some remarks on $E$ säve-soderberghi Jarvik.K Svenska Vetensk Akad Handl,21(3):1-48   \nKanitpanyacharoen W,Parkinson DY,CarloFDetal.,2013.Acomparative studyof X-raytomographic microscopyon shales at different synchrotron facilities:ALS,APS and SLS.J Synchrotron Rad,2O:172-180   \nLu J,Zhu M,Long JAet al.,2012.Theearliest known stem-tetrapod from the LowerDevonianofChina.Nat Commun,3: 1160   \nLukeneder A,2012. Computed 3D visualisation of an extinct cephalopod using computer tomographs. Comput Geosci-UK, 45: 68-74   \nMaiseyJG,20o5.Braincaseof the Upper DevoniansharkCladodoides wildungensis (Chondrichthyes,Elasmobranchi), with observations on the braincase in early chondrichthyans.Bull Am Mus Nat Hist,288:1-103   \nMaisey JG,MilerRF,Turner S,20o9.The braincase of the chondrichthyan Doliodus from the Lower Devonian Campbelton Formation of New Brunswick, Canada.Acta Zool(Stockholm),90:109-122   \nMaroneF,MoksoR,FifeJLetal.,2Ol1.Synchrotron-based X-raytomographic microscopyatthe swiss lightsource for industrial applications.Synchrotron Radiat News,24(6): 24-29   \nPan J,986.NewdiscoveryofSilurian vertebrates inChina.In: Selectedpapers in memoryofProf.SHYoh.Beijing:Geol Publ House. 67-75   \nPradel A,Langer M,MaiseyJG et al.,2009.Skullandbrainofa 300-million-year-old chimaeroid fish revealed by synchrotron holotomography.Proc Nat Acad Sci USA,106:5224-5228   \nQu QM,Blom H,Sanchez Setal.,2015.Three-dimensional virtual histologyofSilurianosteostracanscales revealed by synchrotron radiation microtomography. JMorphol, 276(8): 873-888   \nSansomR S,GabbottSE,PurnellMA,2010.Non-randomdecayofchordate characters causes bias in fossil interpretation. Nature,463: 797-800   \nSansomR S,GabbottSE,PurnellMA,20l1.Decayofvertebratecharacters inhagfishand lamprey(Cyclostomata)andthe implications for the vertebrate fossil record.PRoy Soc B-Biol Sci,278:1150-1157   \nSansom R S,Gabbott S E,PurnellMA,2013.Atlas of vertebrate decay: a visual and taphonomic guide to fossil interpretation. Palaeontology, 56(3): 457-474   \nStampanoni M,Borchert G,WyssPetal.,2002.High resolution X-raydetector for synchrotron-based microtomography. Nucl Instrum Meth A, 491: 291-301   \nStampanoni M,GrosoA,IseneggerAetal.,206.Trends insynchrotron-based tomographic imaging:the SLSexperience. In: Bonse U ed. Developments in X-Ray Tomography V,Proc of SPIE, 6318: 63180M   \nStensioEA,1927.The Downtonian andDevonian Vertebrates of Spitsbergen.Part1.Family Cephalaspidae.New York: Armo Press.12: 1-391   \nStensio EA,1969.Elasmobranchiomorphi Placodermata arthrodires.In: PiveteauJed.Traité de Paleontologie 4.Paris, Masson, Vol 2: 71-692   \nTafforeaP,BoistelR,BolerEetal.,2006.ApplicationsofX-raysynchrotronmicrotomographyfornon-destructiveD studies of paleontological specimens.Appl Phys A-Mater, 83(2):195-202   \nWang NZ,DonoghuePCJ,SmithMMetal.,2005.Histologyofthe galeaspiddermoskeleton and endoskeleton,and the ? origin and early evolution of the vertebrate cranial endoskeleton.JVert Paleont,25(4):745-756   \nYoung GC,1979.New informationon the structure and relationshipsof Buchanosteus (Placodermi:Euarthrodira)from the Early Devonian of New South Wales. Zool JLinn Soc,66: 309-352 （   \nYoung G C.2008.Early evolution of the vertebrate eye: fossil evidence.Evo Edu Outreach,1(4): 427-438   \nZhu M, Gai Z K,2006.Phylogenetic relationships of galeaspids (Agnatha). Vert PalAsiat, 44(1): 1-27   \nZhu M,Janvier998.Thestologicalstructureoftheedoskeletonieaspids (Galeasida,Vertebrata).JVertPaleot, 18: 650-654 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,217 @@
+饲料脂肪水平对大鳞副泥鳅幼鱼生长性能、消化酶活性及抗氧化能力的影响
+
+2 曾本和 廖增艳　吴　双　赵杰锌向　枭\* 王强
+
+3 （西南大学荣昌校区水产系，淡水鱼类资源与生殖发育教育部重点实验室，水产科学重庆市  
+4 市级重点实验室，重庆402460）  
+5 摘要：本试验旨在研究饲料脂肪水平对大鳞副泥鳅幼鱼生长性能、消化酶活性及抗氧化能  
+6 力的影响。选用初始体重（ $\left( 0 . 1 5 { \pm } 0 . 0 1 \right.$ ） $\mathbf { g }$ 的大鳞副泥鳅幼鱼1620尾，随机分成6组，每组  
+7 3个重复，每个重复90尾鱼，分别投喂脂肪水平为 $2 . 5 0 \%$ 、 $4 . 4 9 \%$ 、 $6 . 4 8 \%$ 、 $8 . 4 7 \%$ 、 $1 0 . 4 6 \%$   
+8 和 $1 2 . 4 5 \%$ 的试验饲料，养殖时间为 $6 0 \mathrm { d }$ 。结果表明：大鳞副泥鳅幼鱼的特定生长率（SGR)  
+9 在饲料脂肪水平为 $8 . 4 7 \%$ 时最高，为 $4 . 9 9 \% / \mathrm { d }$ ，除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot P { > } 0 . 0 5$ ）外，  
+10 显著高于其余各试验组（ $\cdot P { < } 0 . 0 5 \rangle$ ；饲料系数（FCR）在饲料脂肪水平为 $8 . 4 7 \%$ 时最低，为  
+11 1.09，除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot P { > } 0 . 0 5$ ）外，显著低于其余各试验组（ $\scriptstyle P < 0 . 0 5 .$ 。通过  
+12 二次多项式回归分析可知，大鳞副泥鳅幼鱼 SGR、FCR最优时饲料脂肪水平分别为 $9 . 1 8 \%$ 、  
+13 $9 . 0 0 \%$ 。随着饲料脂肪水平的升高，大鳞副泥鳅幼鱼肝胰脏及前肠蛋白酶、脂肪酶活性均呈  
+14 先升高后降低的变化趋势，且均在 $8 . 4 7 \%$ 组达到最高值，除与 $1 0 . 4 6 \%$ 组差异不显著( $\cdot P { > } 0 . 0 5 ) .$ ）  
+15 外，显著高于其余各试验组（ $\scriptstyle P < 0 . 0 5 .$ ；肝胰脏和前肠淀粉酶的活性则呈先下降后逐渐趋于  
+16 稳定的趋势。随着饲料脂肪水平的升高，肝胰脏超氧化物歧化酶、过氧化氢酶活性均呈先升  
+17 高后降低的变化趋势，且均在 $8 . 4 7 \%$ 组达到最高值，除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot  { P } { > } 0 . 0 5 \$ ）  
+18 外，显著高于其余各试验组（ $\scriptstyle ( P < 0 . 0 5 )$ 。由此得出，适宜的饲料脂肪水平可促进大鳞副泥鳅  
+19 幼鱼的生长，提高其蛋白酶与脂肪酶活性和抗氧化能力。本试验条件下，综合考虑大鳞副泥  
+20 鳅幼鱼生长性能、消化酶活性和抗氧化能力，其饲料的适宜脂肪水平为 $8 . 4 7 \% \sim 1 0 . 4 6 \%$ 。
+
+关键词：大鳞副泥鳅幼鱼；饲料脂肪水平；生长性能；消化酶活性；抗氧化能力中图分类号：S963 文献标识码：A 文章编号：
+
+水产动物在生长过程中主要依靠脂肪来提供能量维持其正常生命活动[1]。当饲料脂肪水平偏低时，饲料蛋白质将作为能量物质被分解，使其用于合成代谢的量减少[2]，从而影响鱼类的生长；同时，饲料脂肪水平的高低可显著影响水产动物消化酶的活性[3]。向枭等[4认为，适宜的饲料脂肪水平能促进白甲鱼(Onychostoma simus)的生长，提高其饲料利用率。De Silva等[5研究表明，适宜的饲料脂肪水平可改善饲料的适口性，提高水产动物的生长速度，降低饲料系数，并减少对养殖环境的污染。此外，脂肪尤其是必需脂肪酸是调节鱼类免疫反应的重要因子，韩雨哲等[研究认为，饲料脂肪水平与花鲈(Lateolabrax maculates)肝脏抗氧化酶活性有密切的关系。但饲料脂肪水平过高将导致脂肪在鱼体肝脏、腹腔等处沉积，引起鱼类代谢紊乱和抗病力降低[7]。
+
+大鳞副泥鳅（Paramisgurnus dabryanus），隶属鲤形目（Cypriniformes）鳅科（Cobitidae）副泥鳅属（Paramisgurnus)，具有生长速度快、抗病能力强、成活率高等优点[8]，且其味道鲜美、营养价值丰富9]，有较大的市场推广价值。近年来对大鳞副泥鳅研究主要集中在养殖模式、繁殖、肌肉品质及疾病防治等方面[10-1]，对其营养需求方面的研究较少。鉴于此，本文拟探讨饲料脂肪水平对大鳞副泥鳅幼鱼生长性能、消化酶活性及抗氧化能力的影响，旨在丰富其营养生理学知识，为开发泥鳅配合饲料提供理论参考。
+
+1材料与方法
+
+1.1试验饲料
+
+以鱼粉、豆粕等为蛋白质源，豆油为脂肪源，以次粉和 $\mathbf { \boldsymbol { a } } .$ -纤维素平衡饲料配方调节能量水平，分别添加0、 $2 \%$ 、 $4 \%$ 、 $6 \%$ 、 $8 \%$ 、 $10 \%$ 的豆油设计出6种等氮等能的试验饲料，试验饲料脂肪水平分别为 $2 . 5 0 \%$ 、 $4 . 4 9 \%$ 、 $6 . 4 8 \%$ 、 $8 . 4 7 \%$ 、 $1 0 . 4 6 \%$ 和 $1 2 . 4 5 \%$ 。饲料原料经粉碎后过60目筛，按照配比称重并混合均匀后将粉料置于 $- 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱中保存备用。试验饲料组成及营养水平见表1。
+
+表1试验饲料组成及营养水平（干物质基础)  
+Table 1 Composition and nutrient levels of experimental diets (DM basis) %   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="6">豆油添加水平 Soybean oil supplemental level/%</td></tr><tr><td>0</td><td>2</td><td>4</td><td>6</td><td>8</td><td>10</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>原料Ingredients</td><td></td><td></td><td>24.0</td><td></td><td></td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>24.0</td><td>24.0</td><td>20.0</td><td>24.0</td><td>24.0</td><td>24.0</td></tr><tr><td>豆粕Soybean meal</td><td>20.0</td><td>20.0</td><td>10.0</td><td>20.0</td><td>20.0</td><td>20.0</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>10.0 7.0</td><td>10.0 7.0</td><td>7.0</td><td>10.0</td><td>10.0</td><td>10.0</td></tr><tr><td>花生粕 Peanut meal</td><td>28.0</td><td>22.0</td><td>16.0</td><td>7.0 10.0</td><td>7.0</td><td>7.0</td></tr><tr><td>次粉 Wheat middling</td><td></td><td>2.0</td><td>4.0</td><td>6.0</td><td>4.0</td><td></td></tr><tr><td>豆油 Soybean oil</td><td></td><td>4.0</td><td>8.0</td><td></td><td>8.0</td><td>10.0</td></tr><tr><td>α-纤维素α-cellulose</td><td></td><td></td><td></td><td>12.0</td><td>16.0</td><td>18.0</td></tr><tr><td>小麦麸Wheat bran</td><td>7.5</td><td>7.5</td><td>7.5</td><td>7.5</td><td>7.5</td><td>7.5</td></tr></table></body></html>
+
+<html><body><table><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.5</td></tr><tr><td>预混料Premix</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>L-赖氨酸 L-Lys</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>10.56</td><td>10.21</td><td>10.37</td><td>10.98</td><td>10.35</td><td>10.64</td></tr><tr><td>粗蛋白质 Crude protein</td><td>36.29</td><td>36.29</td><td>36.28</td><td>36.27</td><td>36.27</td><td>36.26</td></tr><tr><td>粗脂肪Crude lipid</td><td>2.50</td><td>4.49</td><td>6.48</td><td>8.47</td><td>10.46</td><td>12.45</td></tr><tr><td>粗灰分 Ash</td><td>5.76</td><td>5.48</td><td>5.61</td><td>5.77</td><td>5.34</td><td>5.26</td></tr><tr><td>总能Gross energy/（MJ/kg）</td><td>14.89</td><td>14.67</td><td>14.71</td><td>14.42</td><td>14.38</td><td>14.57</td></tr></table></body></html>
+
+预混料为每千克饲料提供 Premix provides the following per kg of diets:VC 200 mg，VA 30 000 IU，VE$6 0 0 \mathrm { { m g } }$ ， $\mathrm { V D } _ { 3 } 2 5 0 0 0 \mathrm { I U }$ ， $\mathrm { V B } _ { 1 } 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 0 ~ \mathrm { m g }$ ， $\mathrm { V K 1 0 0 ~ m g }$ ，烟酸 nicotinic acid $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { V B } _ { 6 } 4 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 }$ （204号$0 . 2 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 0 ~ \mathrm { m g }$ ，叶酸folic acid $2 0 ~ \mathrm { m g }$ ，生物素 biotin $7 \ : \mathrm { m g }$ ，肌醇inositol 250mg， $\mathrm { C u S O 4 } { \cdot } 5 \mathrm { H } _ { 2 } \mathrm { O } 7 . 2 0 \ \mathrm { g }$ ， $\mathrm { M n S O _ { 4 } } { \cdot } \mathrm { H _ { 2 } O } \ 5 . 1 6 \ \mathrm { g }$ ， $\mathrm { F e S O _ { 4 } } { \cdot } 7 \mathrm { H _ { 2 } O } \ 1 2 2 . 0 \ \mathrm { g }$ ， $\mathrm { Z n S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 1 5 . 5 6 \  g }$ ， $\mathrm { N a S e O 3 2 . 1 0 ~ g }$ K1 6.58 go
+
+1.2试验鱼及饲养管理
+
+试验用大鳞副泥鳅购自荣昌祥光泥鳅养殖场，为同一批繁殖的幼鱼。购回后先用 $3 \%$ 的食盐水消毒后于暂养池（ $1 . 2 \ \mathrm { m } { \times } 0 . 5 \ \mathrm { m } { \times } 0 . 8 \ \mathrm { m }$ ）中暂养 $\mathrm { ~ 7 ~ d ~ }$ ，然后选择健康、无伤病、体重为$\left( 0 . 1 5 { \pm } 0 . 0 1 \right.$ ） $\mathrm { \bf { g } }$ 的大鳞副泥鳅幼鱼1620尾，随机分为6组，每组3个重复，每个重复90尾鱼，以重复为单位放入18个水泥池（ $1 . 2 \ \mathrm { m } { \times } 0 . 5 \ \mathrm { m } { \times } 0 . 8 \ \mathrm { m } \$ ）中，分别投喂脂肪水平不同的6 种试验饲料，每天表观饱食投喂3次（07:00、12:00、17:00)。整个试验持续 $6 0 \mathrm { d }$ 。养殖期间，每天于17:00—19:00 用曝气后的自来水换水 $1 / 3$ 。每日监测水质、水温、试验鱼的死亡数量和摄食行为等。养殖期间水温 $2 5 { \sim } 2 9 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ ， $\mathrm { p H } 7 . 0 { \sim } 7 . 5$ ，溶解氧浓度 ${ \geqslant } 6 . 0 \ \mathrm { m g / L }$ 。
+
+# 1.3取样及粗酶液的制备
+
+试验结束后分别在各组中随机取20尾大鳞副泥鳅幼鱼，用 $5 0 ~ \mathrm { m g / L }$ 的MS-222 溶液麻醉，分别测定其体长和体重后解剖并分离出肠道和肝胰脏，清除肠道内的食物及粪便，去除肠系膜脂肪，用滤纸吸干后将肠道均分为前肠和后肠，然后分别将各组样品鱼的各段肠道及肝胰脏合并后称重。参照文献[12]的方法制备前肠、后肠和肝胰脏粗酶液，具体操作如下：分别加入样品重量20 倍的生理盐水，迅速用冰冻玻璃匀浆器匀浆后，用离心机在 $3 5 0 0 \mathrm { r / m i n }$ 转速下离心 $2 0 \mathrm { m i n }$ ，取上清液即为粗酶液，放置于4℃冰箱中保存备用。所有粗酶液在24h 内分析完毕。
+
+# 1.4 指标测定
+
+# 1.4.1生长性能的测定
+
+试验开始时，测定各组试验鱼的体重，试验结束后，停食1d，测定各组试验鱼的体重，依据养殖试验期间饲料的投喂量、饲养时间及试验前后鱼的体重计算如下指标：特定生长率（specific growth rate,SGR，%/d）=100x(lnWt-lnWo)/t;饲料系数（feed conversion ratio,FCR) $\scriptstyle = F /$ (Wt-Wo);成活率（survival rate，SR， $\% ) \ = 1 0 0 \times \ ( N _ { \mathrm { t } } { \sim } N _ { 0 } ) / N _ { 0 } \mathrm { . }$ （20式中： $W _ { 0 }$ 为初始体重（g)； $W _ { \mathrm { t } }$ 为终末体重 ${ \bf \Pi } ( { \bf g } )$ ； $N _ { 0 }$ 为初始尾数； $N _ { \mathrm { t } }$ 为终末尾数； $F$ 为养殖试验期间饲料摄入量（g)； $t$ 为养殖天数（d)。
+
+# 1.4.2 消化酶活性的测定
+
+采用福林-酚试剂法[12]测定蛋白酶活性，蛋白酶活性单位定义为: $\mathrm { ~ 1 ~ g ~ }$ 新鲜组织在 $\mathrm { p H } 7 . 4$ ，28℃条件下，每分钟分解酪蛋白产生 $1 \mu \ g$ 酪氨酸的量 $[ \mu \mathrm { g } / ( \mathrm { g } \cdot \mathrm { m i n } ) ]$ ；采用次碘酸法[12]测定淀粉酶活性，淀粉酶活性单位定义为： $_ { \textrm { 1 g } }$ 新鲜组织在 $\mathrm { p H } 7 . 4 , \ 2 8 \ ^ { \circ } \mathrm { C }$ 条件下，每分钟催化分解淀粉生成葡萄糖的毫克数 $[ \mathrm { m g / ( g \cdot m i n ) } ]$ ；采用聚乙烯醇橄榄油乳化液水解法[12]测定脂肪酶活性，脂肪酶活性单位定义为： $_ { \textrm { 1 g } }$ 新鲜组织在pH7.4、28 $\mathrm { { } ^ { \circ } C }$ 条件下，每分钟催化聚乙烯醇橄榄油乳化液产生 $1 ~ { \mu \mathrm { g } }$ 脂肪酸的量 $[ \mu \mathrm { g } / ( \mathrm { g } \cdot \mathrm { m i n } ) ]$ 0
+
+# 1.4.3抗氧化酶活性的测定
+
+采用连苯三酚自氧化法[13]测定超氧化物歧化酶（superoxide dismutase，SOD）活性，SOD活性单位定义为：1g肝组织反应液中 SOD 抑制率达到 $5 0 \%$ 时所对应的SOD量（ $\mathrm { ~ \textit ~ { ~  ~ } ~ } .$ ；采用高锰酸钾滴定法[14]测定过氧化氢酶（catalase，CAT）活性，CAT活性单位定义为：每 $\mathrm { ~ 1 ~ g ~ }$ 肝组织每分钟分解过氧化氢（ $\mathbf { H } _ { 2 } \mathbf { O } _ { 2 }$ ）的量 $[ \mathrm { m g / ( g \cdot m i n ) } ]$ 。
+
+# 1.5 数据处理方法
+
+试验结果用"平均值 $\pm$ 标准差"表示。试验数据采用 SPSS19.0 统计软件中的 one-wayANOVA 程序进行方差分析，若组间差异显著，再用Duncan 氏法进行多重比较，差异显著水平为 $P { < } 0 . 0 5$ 。
+
+2结果与分析
+
+# 2.1饲料脂肪水平对大鳞副泥鳅幼鱼生长性能的影响
+
+由表2可知，随着饲料脂肪水平的升高，大鳞副泥鳅幼鱼的 SGR呈先升高后降低的变化趋势，在 $8 . 4 7 \%$ 组有最高值（ $4 . 9 9 \% / \mathrm { d } )$ ，除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot P { > } 0 . 0 5$ ）外，显著高于其他试验组( $\cdot P { < } 0 . 0 5 \rangle$ );FCR则呈先降低后升高的变化趋势，在 $8 . 4 7 \%$ 组有最低值（1.09)，除与 $1 0 . 4 6 \%$ 组差异不显著 （ $\cdot P { > } 0 . 0 5$ ）外，显著低于其他试验组（ $\scriptstyle \cdot < 0 . 0 5 .$ )。饲料脂肪水平对大鳞副泥鳅幼鱼的成活率无显著影响（ $P { > } 0 . 0 5 \$ )。以二次曲线来拟合饲料脂肪水平 $( X )$ 与大鳞副泥鳅幼鱼SGR(Y的关系（图1)，得到回归方程 $Y { = } { - } 0 . 0 1 1 ~ 5 X ^ { 2 } { + } 0 . 2 1 1 ~ 1 X { + } 3 . 9 5 7 ~ 3$ 专 $R ^ { 2 } { = } 0 . 8 9 3 ~ 5$ ），则SGR最高时的饲料脂肪水平为 $9 . 1 8 \%$ ；以二次曲线来拟合饲料脂肪水平$( X )$ 与大鳞副泥鳅幼鱼FCR(Y)的关系（图2)，得到回归方程 $Y { = } 0 . 0 0 9 5 X ^ { 2 } { - } 0 . 1 7 1 X { + } 1 . 9 0 4$ $8 ( R ^ { 2 } { = } 0 . 9 1 4 7 )$ ，则FCR最低时的饲料脂肪水平为 $9 . 0 0 \%$ 。
+
+表2饲料脂肪水平对大鳞副泥鳅幼鱼生长性能的影响  
+Table 2Efects of dietary lipid level on growth performance of juvenile Paramisgurnus dabryanus （ $\scriptstyle { \cdot - 2 } $ ）  
+
+<html><body><table><tr><td>饲料脂肪水平 Dietary lipid level/%</td><td>初始体重 IBW/g</td><td>终末体重 FBW/g</td><td>特定生长率 SGR/ (%/d)</td><td>饲料系数 FCR</td><td>成活率 SR/%</td></tr><tr><td>2.50</td><td>0.15±0.00</td><td>2.18±0.04a</td><td>4.45±0.02a</td><td>1.51±0.01c</td><td>71.12±8.89</td></tr><tr><td>4.49</td><td>0.15±0.01</td><td>2.48±0.13b</td><td>4.65±0.18b</td><td>1.35±0.07b</td><td>71.98±4.51</td></tr><tr><td>6.48</td><td>0.15±0.01</td><td>2.61±0.10bc</td><td>4.75±0.12b</td><td>1.26±0.05b</td><td>72.35±4.88</td></tr><tr><td>8.47</td><td>0.14±0.00</td><td>2.77±0.03cd</td><td>4.99±0.00c</td><td>1.09±0.06a</td><td>72.01±7.78</td></tr><tr><td>10.46</td><td>0.15±0.01</td><td>2.87±0.03d</td><td>4.98±0.10c</td><td>1.11±0.02a</td><td>73.14±6.03</td></tr><tr><td>12.45</td><td>0.15±0.00</td><td>2.53±0.14b</td><td>4.76±0.10b</td><td>1.29±0.06b</td><td>72.59±6.56</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same column, values with no or the same leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$
+
+while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+![](images/45db4f4bf9a123bb48cd4efc7dc4234545803e1780f9ad6fb86627f7f7b3c623.jpg)  
+图1饲料脂肪水平与大鳞副泥鳅幼鱼特定生长率的关系
+
+![](images/106f7d20d2a22b67b1e36981b30abb580bd6d8a3a06d4c21c3e8db300ab701e2.jpg)  
+Fig.1Relationship between dietary lipid level and SGR of juvenile Paramisgurnus dabrya
+
+Fig.2Relationship between dietary lipid level and FCR of juvenile Paramisgurnus dabryanus
+
+2.2饲料脂肪水平对大鳞副泥鳅幼鱼消化酶活性的影响
+
+由表3可知，大鳞副泥鳅幼鱼肝胰脏及前肠蛋白酶活性均随饲料脂肪水平的升高呈先升  
+高后降低的变化趋势，且均在 $8 . 4 7 \%$ 组达到最高值，分别为16 185.89 和 $4 8 6 6 . 7 8 \mu \mathrm { g / ( g \cdot m i n ) }$   
+（ $P { < } 0 . 0 5 )$ ，除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot  { P } { > } 0 . 0 5 \$ ）外，显著高于其他试验组（ $\cdot < 0 . 0 5 \rangle$ ）。  
+饲料脂肪水平对后肠蛋白酶活性无显著影响（ $P { > } 0 . 0 5 )$ 。随饲料脂肪水平的升高，肝胰脏、  
+前肠及后肠脂肪酶活性均呈先升高后降低的变化趋势，且均在 $8 . 4 7 \%$ 组达到最高值，分别为  
+1.32、1.65 和 $0 . 5 4 ~ \mu \mathrm { g } / ( \mathrm { g } \cdot \mathrm { m i n } )$ ，肝胰脏和前肠脂肪酶活性除与 $1 0 . 4 6 \%$ 组差异不显著 $( P { > } 0 . 0 5 )$ ）  
+外，显著高于其他试验组（ $\scriptstyle P < 0 . 0 5 ,$ 。随着饲料脂肪水平的升高，肝胰脏和前肠淀粉酶活性  
+呈先下降后逐渐趋于稳定的趋势，而后肠淀粉酶活性则呈先上升后逐渐趋于稳定的趋势。表3饲料脂肪水平对大鳞副泥鳅幼鱼肠道及肝胰脏消化酶活性的影响(鲜物质基础)  
+Table3Efects of dietary lipid level on digestive enzyme activities in intestine and hepatopancreas of juvenileParamisgurnus dabryanus (fresh matter basis) 0 $\scriptstyle ( n = 3 )$ 0
+
+<html><body><table><tr><td rowspan="2">饲料脂肪水平 Dietary lipid</td><td colspan="3">蛋白酶 Protease/[μg/(g·min)]</td><td colspan="3">脂肪酶 Lipase/[μg/(g·min)]</td><td colspan="3">淀粉酶 Amylase/[mg/(g·min)]</td></tr><tr><td>肝胰脏 Hepatopa ncreas</td><td>前肠 Foregut</td><td>后肠 Hindgut</td><td>肝胰脏 Hepatopanc</td><td>前肠 Foregut</td><td>后肠 Hindgut</td><td>肝胰脏 Hepatopan</td><td>前肠 Foregut</td><td>后肠 Hindgut</td></tr><tr><td>2.50</td><td>9 584.10±2 4.01a</td><td>2 438.23±9 7.01a</td><td>2 133.12± 82.01</td><td>0.47±0.08a</td><td>0.34±0. 05a</td><td>0.24±0.0 1a</td><td>22.89±0.24 d</td><td>22.23±0.69b</td><td>13.15±1.16a</td></tr><tr><td>4.49</td><td>10 360.20±3 43.02a</td><td>2 504.33±9 1.02a</td><td>2 174.23± 83.04</td><td>0.52±0.06a</td><td>0.38±0. 04a</td><td>0.29±0.0 1a</td><td>20.68±0.20 C</td><td>21.91±0.29b</td><td>12.48±0.74a</td></tr><tr><td>6.48</td><td>560.41±3 82.14b</td><td>823.24±6 4.02b</td><td>065.34± 47.02</td><td></td><td>1.32±0. 05b</td><td>3b</td><td>17.42±0.45 b</td><td></td><td>16.28±0.28b</td></tr><tr><td>8.47</td><td>16 185.89±4 71.21</td><td>866.78±6 1.06c</td><td>2 127.44± 75.11</td><td>1.32±0.02c</td><td>1.65±0. 04c</td><td>0.54±0.0 7b</td><td>14.08±0.34 a</td><td>16.95±0.00a</td><td>17.54±0.65b</td></tr><tr><td>10.46</td><td>16 085.33±3</td><td>4 748.34±5</td><td>2 265.43±</td><td>1.29±0.02c</td><td>1.59±0. 06c</td><td>0.48±0.0 1b</td><td>13.78±0.38 a</td><td>16.90±0.35a</td><td>17.36±1.26b</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>26.11c</td><td>4.01°</td><td>66.01</td><td colspan="7"></td></tr><tr><td rowspan="2">12.45</td><td>10</td><td>3</td><td>2</td><td>0.95±0.01b</td><td>1.35±0.</td><td>0.31±0.0</td><td>14.03±1.04</td><td>16.20±0.32a</td><td>16.57±0.21b</td></tr><tr><td>609.78±2 39.23a</td><td>912.40±8 9.11b</td><td>106.48± 57.23</td><td></td><td>03b</td><td>5a</td><td>a</td><td></td><td></td></tr></table></body></html>
+
+2.3饲料脂肪水平对大鳞副泥鳅幼鱼抗氧化能力的影响
+
+由表4可知，随着饲料脂肪水平的升高，大鳞副泥鳅幼鱼肝胰脏 SOD、CAT活性均呈先上升后下降的趋势，且均在 $8 . 4 7 \%$ 组达到最高值，分别为 $1 2 0 . 6 3 \mathrm { U / g }$ 和 $1 8 . 1 2 ~ \mathrm { m g / ( \ g \bullet m i n ) }$ 除与 $1 0 . 4 6 \%$ 组差异不显著（ $\cdot > 0 . 0 5$ ）外，显著高于其余各试验组（ $\scriptstyle \cdot < 0 . 0 5$ )°
+
+表4饲料脂肪水平对大鳞副泥鳅幼鱼肝胰脏抗氧化酶活性的影响  
+Table 4Effects of dietary lipid level on antioxidant enzyme activities in hepatopancreas of juvenile   
+
+<html><body><table><tr><td colspan="2">Paramisgurnusdabryanus</td><td>(n=3)</td></tr><tr><td>饲料脂肪水平</td><td>超氧化歧化酶</td><td>过氧化氢酶</td></tr><tr><td>Dietary lipid level/%</td><td>SOD/(U/g)</td><td>CAT/[mg/(g•min)]</td></tr><tr><td>2.50</td><td>53.23±2.92a</td><td>11.77±0.16a</td></tr><tr><td>4.49</td><td>60.61±3.71a</td><td>12.10±0.68a</td></tr><tr><td>6.48</td><td>105.50±4.82b</td><td>12.29±0.86a</td></tr><tr><td>8.47</td><td>120.63±7.31c</td><td>18.12±0.66b</td></tr><tr><td>10.46</td><td>116.44±3.40c</td><td>17.43±1.28b</td></tr><tr><td>12.45</td><td>61.74±1.81a</td><td>12.65±0.42a</td></tr></table></body></html>
+
+3.1饲料脂肪水平对大鳞副泥鳅幼鱼生长性能的影响
+
+3讨论
+
+脂肪是水产动物生长和发育中重要的能量来源。从饲料中摄取的脂肪在体内逐步发生分解代谢，产生的能量被各种组织、器官所利用。当动物摄取的脂肪不足时，蛋白质将作为能源被分解以维持鱼类正常生命活动，这将使蛋白质的合成代谢效率降低。因此，适量添加油脂可降低蛋白质作为能源降解的量，提高饲料蛋白质的效率，起到节约蛋白质的作用[4]，并促进水产动物的生长[15]。Takeuchi等[16]对虹鳟(Oncorhynchus mykiss)的研究发现，饲料脂肪水平从 $1 5 \%$ 增加到 $20 \%$ ，同时饲料蛋白质水平从 $4 8 \%$ 降低到 $3 5 \%$ 对鱼类的生长无明显影响。Halver 等[17]则认为，饲料脂肪水平超过鱼类的需求量时，其消化利用率则会显著降低，从而抑制鱼体肌肉中脂肪酸的重新合成，降低鱼类的生长速度；此外，研究发现，翘嘴红（Erythrocutler ilishaeformi）摄食高脂肪饲料后造成了高血糖效应，同时诱导了葡萄糖-6-磷酸酶(G6Pase)活性及基因的表达，影响了碳水化合物的利用[18]。本试验中，饲料脂肪水平为$2 . 5 0 \% { \sim } 1 0 . 4 6 \%$ 时，大鳞副泥鳅幼鱼的特定生长率逐渐升高，饲料系数逐渐降低，说明饲料脂肪水平一定范围内的升高能够为鱼类活动提供充足的能量，使蛋白质最大限度地参与动物机体的合成代谢，促进鱼类的生长；但饲料脂肪水平过高会引起饲料能蛋比不平衡，导致鱼体生长减慢和饲料利用率降低。当饲料脂肪水平超过 $1 0 . 4 6 \%$ 时，大鳞副泥鳅幼鱼的SGR逐渐降低，FCR开始上升，说明饲料脂肪水平过高会在一定程度上抑制鱼类生长。通过二次多项式回归分析可知，当饲料脂肪水平在 $8 . 4 7 \% \sim 1 0 . 4 6$ 可促进大鳞副泥鳅幼鱼的生长，提高其对饲料的利用效率，此结果高于(Elopichthys bambusa)[19]、胭脂鱼(Myxocyprinusasiaticus)[20]的需求，但低于大西洋白姑鱼(Argyrosomus regius)[21l、白甲鱼[4]的需求，与向枭等[22]对翘嘴红、Lou 等[23]对鲈(Lateolabrax japonicus)的研究结果基本一致。上述结果的差异可能与研究对象的种类、发育阶段以及饲料配方组成、试验条件等多种因素有关。
+
+3.2饲料脂肪水平对大鳞副泥鳅幼鱼消化酶活性的影响
+
+消化酶活性的变化受到饲料中营养物质含量、饲料原料的性质等多种因素的影响[24]。动物消化道中消化酶活性的高低决定了其对饲料的消化利用能力，也决定了其生长发育的快慢[25]。本试验中，大鳞副泥鳅幼鱼肝胰脏和前肠蛋白酶活性均随饲料脂肪水平的升高而呈先上升后下降的变化趋势，与王爱民等[26]对异育银鲫（Carassus auratus gibelio)、向枭等[27]对翘嘴红的研究结果基本一致，说明适宜的饲料脂肪水平有助于鱼类蛋白酶活性的提高，但超过一定范围后，其蛋白酶的活性则随饲料脂肪水平的升高呈下降趋势。然而，研究发现白甲鱼幼鱼[4]、胭脂鱼[28]肠道蛋白酶活性则随饲料脂肪水平的升高而呈减弱的变化趋势，说明饲料脂肪水平对不同鱼类蛋白酶活性的影响有一定的差异。Morais 等[29]认为，饲料脂肪水平的变化能显著影响鱼类的脂肪酶活性；韩光明等[30]发现高脂饲料可使吉富罗非鱼（Oreochromis niloticus）前、中肠脂肪酶活性受到显著抑制。本试验中，随饲料脂肪水平的升高，大鳞副泥鳅前肠、后肠及肝胰脏脂肪酶活性均呈先上升后下降的变化趋势，与尾崎久雄[31l和Baragi 等[32]对条纹鲈（Roccus saxatilis）、Pedersen等[33]对大西洋鲱（Clupea harengus）的研究结果相一致，说明动物能够通过提高自身脂肪酶的活性来适应饲料中不断升高的脂肪水平，从而提高其对脂肪的消化与吸收。但饲料脂肪水平超过鱼类对需要后将引起脂肪在肝脏等处沉积，使肝脏发生病变而影响其消化酶的分泌[33]。Gangadhara 等[34]认为饲料中某一种营养成分的增加将促使动物体内消化这一营养成分的酶的活性相应增强，同时，消化其他营养成分的酶的活性也会发生相应的变化。本试验中，随着饲料脂肪水平的升高，大鳞副泥鳅幼鱼肝胰脏和前肠淀粉酶活性呈先下降后逐渐趋于稳定的趋势，而后肠淀粉酶活性则呈先上升后逐渐趋于稳定的趋势，说明当饲料脂肪水平升高时，能够为鱼类提供更多的能量，不需要转化更多的碳水化合物作为能量物质，从而降低了肠道和肝胰脏淀粉酶活性。
+
+3.3饲料脂肪水平对大鳞副泥鳅幼鱼抗氧化能力的影响
+
+SOD、CAT 等是鱼类最主要的抗氧化酶，对机体的氧化与抗氧化平衡有重要的作用，可使动物细胞免受损伤。SOD主要作用于超氧自由基，使其转化为过氧化氢，CAT 则主要负责特异性清除体内过多的过氧化氢，保护细胞免受过氧化损伤[35。本试验中，大鳞副泥鳅幼鱼肝胰脏 SOD、CAT 活性均随饲料脂肪水平的升高呈现先上升后下降的变化趋势。张研究发现，梭鱼（Chelonhaematocheilus）肝脏SOD 活性在饲料脂肪水平为 $8 . 2 3 \%$ 时最高[36],红鳍东方鲀(Takifugurubripes)幼鱼肝脏CAT活性随饲料脂肪水平的升高呈先升高后降低的变化趋势[37]，与本研究结果相一致。这说明适宜的饲料脂肪水平对肝脏的活力是一种刺激[38]，可增强其对抗氧化酶的分泌，提高抗氧化酶的活性，减少脂质过氧化物对鱼体的伤害，提高鱼体的抗氧化能力。但饲料脂肪水平超过一定限度后，鱼类的肝脏负荷增大，使大量脂肪在肝脏沉积[39]，削弱其抗氧化能力；同时，过高的饲料脂肪水平会导致鱼体脂肪发生氧化而产生过多的活性氧自由基，破坏细胞膜的结构和功能，从而破坏动物体内细胞的完整性，影响其抗氧化能力[40]。
+
+4结论
+
+本试验条件下，适宜的饲料脂肪水平可提高大鳞副泥鳅幼鱼的生长性能、消化酶活性及抗氧化能力。综合考虑上述因素，大鳞副泥鳅幼鱼饲料中适宜的脂肪水平为 $8 . 4 7 \% \sim 1 0 . 4 6 \%$ 。
+
+# 参考文献:
+
+[1] CHOU B S,SHIAU S Y.Optimal dietary lipid level for growth of juvenile hybrid tilapia,Oreochromis niloticus $\times$ Oreochromis aureus[J].Aquaculture,1996,143(2):185-195.
+
+[2] HUANG C H,LIN W Y,CHU J H.Dietary lipid level influences fatty acid profiles,tissue composition,and lipid peroxidation of soft-shelled turtle,Pelodiscus sinensis[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2005,142(3):383-388.
+
+[3] SONG X A,HIRATA T,KAWAI T,et al.Volatile compounds in the hepatic and muscular tissues of common carp.japanese flounder,spanish mackerel and skipjack[J].Developments in Food Science,2004,42:209-222.
+
+[4] 向枭,周兴华,陈建,等.饲料脂肪水平对白甲鱼幼鱼生长性能、体组成和血清生化指标的影响[J].动物营养学报,2013,25(8):1805-1816.
+
+[5] DE SILVA S S,GUNASEKERA R M,SHIM K F.Interactions of varying dietary protein and lipid levels in young red tilapia:evidence of protein
+
+sparing[J].Aquaculture,1991,95(3/4):305-318.[6] 韩雨哲,姜志强,任同军,等.氧化鱼油与棕榈油对花鲈肝脏抗氧化酶及组织结构的影响[J].中国水产科学,2010,17(4):798-806.  
+！[7]麦康森.水产动物营养与饲料学[M].2版.北京:中国农业出版社,2011:41-53.[8]王敏,王卫民,鄢建龙.泥鳅和大鳞副泥鳅年龄与生长的比较研究[J].水利渔业,2001,21(1):7-9.[9] 赵振山,高贵琴,印杰,等.泥鳅和大鳞副泥鳅营养成分分析[J].水利渔业,1999,19(2):16-17.[10] 陈清泉,宋光泉,胡良成,等.洞庭湖区优势"泥鳅"品种营养品质的研究初报[J].水生生物学报,1989,13(4):384-386.[11]王玉新,郑玉珍,王锡荣,等.大鳞副泥鳅的生物学特性及养殖技术[J].河北渔业,2012(11):23-25,43.[12]中山大学生物系生化微生物教研室.生化技术导论[M].北京:人民教育出版社,1979:26-29.  
+：[13] 常雅宁,王志友,刘金秀,等.两种连苯三酚自氧化法测定超氧化物歧化酶的比较[J].药物分析杂志,2001,21(5):328-331.[14] 孔德胜,王晓然,李文君,等.小鼠组织中过氧化氢酶的活性与年龄的关系[J].生物学杂志,2012,29(3):11-13,10.[15] 付世建,谢小军,张文兵,等.南方鲇的营养学研究:II.饲料脂肪对蛋白质的节约效应[J].水生生物学报,2001,25(1):70-75.[16] TAKEUCHI T,SHIINA Y,WATANABE T.Suitable protein and lipid levels in diet forfingerlings of red sea bream Pagrus major[J].The Japanese Society of FisheriesScience,1991,57(2):293-299.[17] HALVER JE,HARDY R W.Fish nutrition[M].London:Academic Press,1989.[18]刘波,唐永凯,俞菊华,等.饲料脂肪对翘嘴红生长、葡萄糖激酶和葡萄糖-6-磷酸酶活性与基因表达的影响[J].中国水产科学,2008,15(6):1024-1033.[19] 赵巧娥,朱邦科,沈凡,等.饲料脂肪水平对幼鱼生长、体成分及血清生化指标的影响[J].华中农业大学学报,2012,31(3):357-363.[20] 王朝明,罗莉,张桂众,等.饲料脂肪水平对胭脂鱼幼鱼生长、体组成和抗氧化能力的影响[J].淡水渔业,2010,40(5):47-53.  
+；[21] CHATZIFOTIS S,PANAGIOTIDOU M,PAPAIOANNOU N,et al.Efect of dietary lipid
+
+levels on growth,feed utilization,body composition and serum metabolites of meagre (Argyrosomus regius) juveniles[J].Aquaculture,2010,307(1/2):65-70.
+
+[22]向枭,周兴华,陈建,等.日粮脂肪水平对翘嘴红幼鱼生长性能和体组成的影响[J].动物营 养学报,2009,21(3):411-416.   
+[23] LOU G,XU JH,TENG Y J,et al.Effectsof dietary lipid levels on the growth,digestive enzyme,feed utilization and fatty acid composition of Japanese sea bass (Lateolabrax japonicus L.) reared in freshwater[J].Aquaculture Research,2010,41(2):210-219.   
+[24] MAUGLE P D,SIMPSON K L,DESHIMARU O,et al.Effect of short-necked clam (Venerupis philippinarum） diets on shrimp （Penaeus japonicus） growth and digestive enzymeactivities[J].BulletinoftheJapaneseSocietyfortheScienceof Fish,1982,48(12):1759-1764.   
+[25]向枭,周兴华,陈建,等.饲料蛋白水平及鱼粉蛋白含量对齐口裂腹鱼生长、体组成及消化 酶活性的影响[J].中国粮油学报,2012,27(5):74-80.   
+[26]王爱民,吕富,杨文平,等.饲料脂肪水平对异育银鲫生长性能、体脂沉积、肌肉成分及消 化酶活性的影响[J].动物营养学报,2010,22(3):625-633.   
+[27] 向枭,周兴华,陈建,等.饲料中脂肪含量对翘嘴红幼鱼消化酶活性的影响[J].北京水 产,2008(5):35-38.   
+[28] 王朝明.岩原鲤幼鱼蛋白需求和胭脂鱼幼鱼脂肪需求研究[J].硕士学位论文.重庆：西南大 学,2011.   
+[29] MORAIS S,CONCEICAO L E C,RONNESTAD I,et al.Dietary neutral lipid level and source inmarinefishlarvae:effectsondigestivephysiologyand food intake[J].Aquaculture,2007,268(1/2/3/4):106-122.   
+[30] 韩光明,王爱民,徐跑,等.饲料中脂肪水平对吉富罗非鱼幼鱼成活率、肌肉成分及消化酶 活性的影响[J].上海海洋大学学报,2010,19(4):469-474.   
+[31] 尾崎久雄.鱼类消化生理(上册)[M].上海:上海科学技术出版社,1985.   
+[32] BARAGI V,LOVELL R T.Digestive enzyme activities in striped bass from first feeding throughlarvadevelopment[J].TransactionsoftheAmerican Fisheries Society,1986,115(3):478-484.   
+[33] PEDERSEN B H,NILSSEN E M,HJELMELAND K.Variations in the content of trypsin and trysinogen in larval herring (Clupea harengus） digesting copepod nauplii[J].Marine
+
+[34] GANGADHARA B,MANDEESHA M C,VARGHESE T J,et al.Effect of varying protein and lipid levels on the growth of rohu,Labeo rohita[J].Asian Fisheries Science,1997,10(2):139-147.
+
+[35] GUL \$,BELGE-KURUTA\$ E,YILDIZ E,et al.Polltion correlated modifications of liver antioxidant systems and histopathology of fish (Cyprinidae） living in Seyhan Dam Lake,Turkey[J].Environment International,2004,30(5):605-609.
+
+[36] 张春暖,王爱民,刘文斌,等.饲料脂肪水平对梭鱼脂肪沉积、脂肪代谢酶及抗氧化酶活性的影响[J].中国水产科学,2013,20(1):108-115.
+
+37]孙阳,姜志强,李艳秋,等.饲料脂肪水平对红鳍东方鲀幼鱼肝脏抗氧化酶活力及组织结构的影响[J].广东海洋大学学报,2013,33(3):27-32.
+
+[38] 曾端,麦康森,艾庆辉.脂肪肝病变大黄鱼肝脏脂肪酸组成、代谢酶活性及抗氧化能力的研究[J].中国海洋大学学报,2008,38(4):542-546.
+
+39] 施兆鸿,岳彦峰,彭士明,等.饲料脂肪水平对褐菖血清生化指标、免疫及抗氧化酶活力的影响[J].中国水产科学,2013,20(1):101-107.
+
+[40]周本宏,刘刚,胡先明.罗布麻对红细胞膜脂质过氧化损伤的保护作用[J].广东药学院学报,2004,20(5):506-508.
+
+Effects of Dietary Lipid Level on Growth Performance,Digestive Enzyme Activities and Antioxidant Ability of Juvenile Paramisgurnus dabryanus   
+ZENG Benhe LIAO Zengyan WU Shuang ZHAO Jiexin XIANG Xiao\* WANG Qiang   
+(Key Laboratory of Freshwater Fish Reproduction and Development, Ministry of Education, Key Laboratory of Aquatic Science of Chongqing, Department of Fisheries in Rongchang Compust, Southwest University, Chongqing 402460, China） 1   
+Abstract: This experiment was aimed to investigate the effects of dietary lipid level on growth   
+performance， digestive enzyme activities and antioxidant ability of juvenile Paramisgurnus   
+dabryanus. Six diets were formulated by containing $2 . 5 0 \%$ ， $4 . 4 9 \%$ ， $6 . 4 8 \%$ ， $8 . 4 7 \%$ ， $1 0 . 4 6 \%$ ，and   
+$1 2 . 4 5 \%$ lipid, respectively. A total of 1 62O juvenile Paramisgurnus dabryanus with an initial   
+body weight of $( 0 . 1 5 \pm 0 . 0 1 \ \mathrm { g } )$ were randomly divided into 6 groups with 3 replicates per group   
+and 90 fish per replicate. Each diet was fed one group of 9O fish for $6 0 \textup d$ .The results showed that   
+specific growth rate (SGR） had the highest value $( 4 . 9 9 \% / \mathrm { d } )$ when the dietary lipid level was   
+$8 . 4 7 \%$ , and it was significantly higher than that in other experimental groups $( P { < } 0 . 0 5 )$ except the
+
+322 $1 0 . 4 6 \%$ group $( P { > } 0 . 0 5 )$ ； feed conversion ratio(FCR） had the lowest value（1.O9） when the   
+323 dietary lipid level was $8 . 4 7 \%$ ,and it was significantly lower than that in other experimental groups   
+324 （204号 $( P { < } 0 . 0 5 )$ except the $1 0 . 4 6 \%$ group $( P { > } 0 . 0 5 )$ .By quadratic polynomial regression analysis,   
+325 dietary lipid levels were $9 . 1 8 \%$ and $9 . 0 0 \%$ when the juvenile Paramisgurnus dabryanus had the   
+326 optimal SGR and FCR,respectively. With the dietary lipid level increasing,the hepatopancreas   
+327 and foregut protease and lipase activities of fish were increased at first and then decreased,and all   
+328 them had the highest values when the dietary lipid level was $8 . 4 7 \%$ ，which were significantly   
+329 higher than those in other experimental groups $( P { < } 0 . 0 5 )$ except the $1 0 . 4 6 \%$ group $( P { > } 0 . 0 5 )$ ； the   
+330 amylase activities in hepatopancreas and foregut were decreased at first and then tend to stabilized.   
+331 Both of the superoxide dismutase (SOD）and catalase (CAT) activities in hepatopancreas were   
+332 increased at first and then decreased with the dietary lipid level increasing,and all them had the   
+333 highest values when the dietary lipid level was $8 . 4 7 \%$ ,which were significantly higher than those   
+334 in other experimental groups $( P { < } 0 . 0 5 )$ except the $1 0 . 4 6 \%$ group $( P { > } 0 . 0 5 )$ . Above results show   
+335 that suitable dietary lipid level can improve the growth，protease and lipase activities and   
+336 antioxidant ability of juvenile Paramisgurnus dabryanus. We suggest that the optimal dietary lipid   
+337 level for juvenile Paramisgurnus dabryanus is $8 . 4 7 \%$ to $1 0 . 4 6 \%$ through comprehensive analysis   
+338 of growth performance, digestive enzyme activities and antioxidant ability.   
+339 Key words: juvenile Paramisgurnus dabryanus; growth performance; dietary lipid level; digestive   
+340 enzyme activities; antioxidant ability   
+341   
+342.

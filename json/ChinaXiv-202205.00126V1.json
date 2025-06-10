@@ -1,0 +1,786 @@
+[
+    {
+        "type": "text",
+        "text": "移动边缘计算网络下的服务功能链部署优化设计\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈嘉亮¹，王丰1，张潇²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．广东工业大学 信息工程学院，广州 510006;2．中南民族大学 计算机科学学院，武汉 430074)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决移动边缘计算网络中面向用户的服务功能链部署算法系统成本支出过大、响应时间长的难题，该文提出了针对服务功能链成本与时延联合优化设计的方法。首先，在服务功能链构建阶段，根据节点位置和资源状况，选择当前最佳节点减少虚拟网络功能(virtualized network function，VNF)间的时延以提高服务功能链的响应时间。其次，在服务功能链部署阶段，由于映射资源有限，在服务映射节点时应用节点选取算法确定最佳节点映射排列顺序，并从中选取最短加权路径作为各VNF间的通信链路。实验仿真结果表明，相比于已有方案，该方法能有效降低时延和部署成本，并能显著提高服务功能链部署的成功率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络功能虚拟化；虚拟网络功能链组成；服务功能链；运营成本；可靠性中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.01.0105",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization design of service function chain deployment under mobile edge computing network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Jialiang1, Wang Fengl†, Zhang Xiao² (1.SchoolofInformationEngineering,Guangdong Universityof Technology，Guangzhou51oo6,China;2.Colegeof ComputerScience,South-CentralMinzuUniversity,Wuhan43o074,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to solve the problems of excessve system cost and long response time of user-oriented service function chain deployment algorithmin mobile edgecomputing networks,this paper proposed ajoint optimization design method for service functionchaincostanddelay.First,intheconstructionstageof theservice function chain,according to the node location and resource status,the algorithm selected thecurrent best node to reduce the delay between VNFs (virtualized network functions)to improve theresponse timeof the service functionchain.Secondly,in theservice function chain deploymentstage,due tothelimited mapping resources,this paper usedthe node selectionalgorithmtodetermine theoptimal node mapping order when serving the mapping nodes and selected the shortest weighted path as the communication link between VNFs.The experimental simulation results show that,compared with the existing solutions,the method can effectivelyreduce the delay and deployment cost,and can significantly improve the successrate of service function chain deployment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: network function virtualization; virtual network function chaincomposition;service functionchain;operational expenditure; reliability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在现代网络的发展进程中，网络功能虚拟化(networkfunctionvirtualization，NFV)和软件定义的网络(softwaredefinednetwork,SDN)正扮演着越来越重要的角色。当前，网络运营商使用大量的专用网络中间件设备，提供不同的网络功能，比如深度包检测，防火墙和负载均衡器等。然而，这些专用网络中间件设备的使用，面临着诸多问题。例如，网络升级需要巨大的费用，网络框架缺乏灵活性，可管理性和可扩展性差等，很难满足未来网络发展要求[1]。与使用专用硬件来实现相应功能的传统网络不同，NFV是一种解耦硬件和软件的关键技术[2]，以服务功能链(service function chain,SFC)[3的形式为实现硬件功能。NFV的目标是利用虚拟化技术，在通用服务器或虚拟机上实现网络功能[4-6]，具有良好的灵活性和可扩展性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "特别的，在移动边缘计算网络中，计算资源和存储资源靠近用户设备的网络(如无线接入网侧)，能有效降低网络接入和计算服务延时[7]。然而，由于CPU资源、存储资源和无线资源的强耦合性，移动边缘计算网络的NFV更具挑战。一方面，边缘网络中的节点种类多样化，它们的通信特征，计算能力和缓存能力有着很大的差异；另一方面，移动业务的数量和种类快速增长，对服务质量(如时延、吞吐量和可靠性)的要求各异，对网络资源的需求具有显著差别。NFV的架构分为两层：由基础硬件设施组成的物理网络层，以及由VNF组成的虚拟网络层。一个物理网络可以承载多个虚拟网络，以有效利用资源[8.9]。为业务请求提供服务，需要完成相应SFC 的部署，即，在SFC系统性能准则下，在网络基础设施上设计VNF映射和路由方案[I0]。SFC部署过程由VNF部署和虚拟链路映射组成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何将SFC高效地映射和放置在底层硬件网络上，是当前广泛关注的研究课题。目前的主流研究方向是考虑最小化成本开销，最大化网络收益。文献[11在跨层网络场景下，提出采用随机共享节点的方式来部署VNF，平均分摊资源，但未考虑负载均衡，导致资源利用率较低。文献[12]提出了一种用于可靠性保障的SFC部署的子链协同保护模型，并且考虑VNF和链路的可靠性，提出了一种能实现较低部署成本的启发式算法。文献[13]采用PageRank 算法对节点进行排序，对时延和可靠性实现全局优化，但未考虑节点时延。文献[14]提出了一种基于中心点的高效益VNF放置和链接算法，目标以最小化供应商的成本方式找到最佳VNF数量及其地理位置。文献[15]采用整数线性规划(integer linearprogramming,ILP)模型建模，利用CPLEX等计算工具，优化的目标是最小化运营支出和资源碎片，包括VNF的部署成本以及能源消耗和流量开销。文献[16]提出了一种资源感知的服务功能链协同构建和映射方法，利用改进的遗传粒子群算法，降低部署过程中的资源开销成本。文献[17]研究了时延约束的最小成本单播SFC设计，但未共享节点。文献[18]研究了一种成本感知策略，在部署中心负载约束下，协调跨多个数据中心的 SFC，建立了ILP模型，提出了一种成本感知SFC编排启发式算法，降低总部署成本。由于资源约束或请求位置限制，组成SFC中的各VNF可能被分散分布在整个网络中，尤其是在移动边缘网络，边缘网络在地理上被划分成小的边缘云局域网。边缘云与边缘云之间，核心云与边缘云之间有着地理位置上的距离。当SFC分散在核心云和边缘网络中时，在地理上分离的VNF 实例之间传输数据的时间成本很高[19]。因此，地理位置因素是在边缘网络中部署服务功能链时须考虑的关键问题。此外，上述研究工作缺乏基于时延和资源成本折中准则下的移动边缘计算网络SFC部署研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，为在移动边缘计算网络下更高效地映射和部署SFC，需要充分考虑不同VNF之间的资源协调分配，提高资源利用率，降低网络部署成本。为此，在有线和无线混合网络场景下，该文提出一种面向移动边缘计算网络的SFC高效可靠部署方法。首先，通过地理位置感知的节点共享算法，判断部署过程中的各VNF位置是否满足节点共享条件。其次，利用基于资源感知的节点选取算法，通过选取综合评分排序靠前的节点，将VNF映射到物理节点上，降低时延、提高可靠性。最后，根据基于带宽最小的虚拟链路映射方案，完成SFC最后的映射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该文的主要创新总结如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)基于移动边缘网络场景下，该文提出支持无线功能的SFC优化模型和解决方案，优化不同地理位置的VNF资源配置，在保证用户服务质量(如时延、可靠性等)的同时，使运营商的成本代价达到最小。首先，在移动边缘网络资源约束的背景，建模用户服务请求的延迟、VNF资源约束条件，建立 SFC系统开销成本模型。其次，可靠性是 SFC系统性能的重要评价指标，由于架构设计等原因，边缘网络设备普遍缺乏容灾备份等冗余措施，设备故障率远高于核心云。该文引入可靠性作为约束条件，权衡可靠性与响应时间等客观需求，合理部署SFC。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)该文设计SFC底层网络资源感知的节点选取算法，对当前时刻发起的SFC服务请求，确保SFC的服务请求满足节点共享条件，在合并VNF时，确保满足当前时刻物理节点的资源约束条件。针对VNF地理位置布局、路由路径规划，优化当前时刻资源分配，筛选可共享物理节点集合，设计虚拟链路映射算法，降低SFC的链路时延。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 网络模型和问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1显示了该文的系统模型，包括虚拟逻辑服务需求层和物理网络层。在虚拟逻辑服务需求层，提供了SFC需求，从端源端点到目的端点的SFC请求由不同功能的VNF成链式组成，根据其资源需求，使用VNF映射算法映射到物理网络层。在物理网络层，提供硬件资源，包括计算硬件、存储硬件和网络硬件等资源。该文SFC部署优化方案将从两层收集SFC需求和底层物理网络资源信息，设计节点和链路从",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SFC需求到物理网络映射的VNF嵌入策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b442a0058fc0c93265421adb214d19d2e10842cdce22bc7daaeb3404dd6454f.jpg",
+        "img_caption": [
+            "图1移动边缘网络下的 SFC 部署",
+            "Fig.1SFC deployment on a mobile edge network "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建模物理层网络为无向图 $\\mathscr { G } = ( \\mathcal { N } , \\mathscr { E } )$ ，其中 $\\mathcal { N }$ 表示边缘物理节点集合， $\\varepsilon$ 是物理链路集合。物理链路分为有线链路和无线链路。在无向图 $\\mathscr { G }$ 中，每个物理节点上可部署若干虚拟机，每台虚拟机只实例化一种类型的VNF。记$S = \\{ S _ { k } \\mid k = 1 , 2 , . . . , K \\}$ 为SFC请求集合，SFC表示数据流遍历的一系列网络服务功能。考虑 $K$ 个服务请求，每条 SFC是由多种类型的VNF，可用 $S _ { k } = \\{ \\nu _ { 1 } , \\nu _ { 2 } , . . . . , \\nu _ { i } \\mid \\nu _ { i } \\in V \\}$ 表示， $\\boldsymbol { V }$ 表示VNF集合。物理节点按顺序编号，物理节点 $\\boldsymbol { u }$ 表示为 $n _ { u }$ ，具有无线功能的物理节点 $\\nu$ 表示为 $n _ { \\nu } ^ { \\nu }$ 。此外，连接节点 $n _ { u }$ 和 $n _ { \\nu }$ 的物理链路被表示为 $e ( u , \\nu )$ ，无线链路则表示为 $e ^ { w } ( u , \\nu )$ 。该文考虑异构节点的情况，在不同时刻，不同节点具有不同的映射能力和资源量，节点 $n _ { u } \\in \\mathcal N$ 的闲置CPU 资源为 $C ( n _ { u } )$ ，闲置存储资源 $M ( n _ { u } )$ ，闲置转发资源 $F ( n _ { u } )$ 。具有无线功能的节点的闲置CPU资源为 $C ( n _ { \\nu } ^ { w } )$ ，无线资源包括天线数目 $A ( n _ { \\nu } ^ { w } )$ 、无线资源块数目 $B ( n _ { \\nu } ^ { w } )$ 和发射功率 $P ( n _ { \\nu } ^ { w } )$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑一个时隙系统，其中 $t \\in \\left\\{ 1 , 2 , \\dots \\right\\}$ 表示时隙序号。在边缘网络环境中，根据用户服务请求，VNF将根据一定的功能顺序进行组合，组成服务功能链。定义VNF流量改变因子为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta ( \\nu _ { i } ) = \\frac { r _ { o u t } } { r _ { i n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $r _ { i n }$ 和 $r _ { o u t }$ 分别是服务功能VNF输入流量和输出流量。VNF节点需要部署资源。例如，与渲染视频相关的VNFs比普通VNFs需要更多的GPU资源，而编辑图像则需要更多的边缘服务器中的CPU资源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "记无线传输时延为 $D _ { i } ^ { \\nu }$ ，有线链路时延为 $D _ { e ( u , \\nu ) }$ 。首先，无线传输时延定义为用户下行流量与无线节点能够提供的无线处理速度之比[1]，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } ^ { w } = \\frac { \\ell _ { i n } \\cdot \\prod _ { i \\in V , k , j \\in \\mathcal { N } } \\eta ( \\nu _ { i } ) } { C ( n _ { k , j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\ell _ { \\mathrm { i n } }$ 表示为发送的数据包长度， $C ( n _ { k , j } )$ 表示经由节点 $n _ { k } ^ { w }$ 传输到节点 $n _ { j }$ 的无线链路传输速率[20]，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ( n _ { k , j } ) = B _ { k , j } \\log _ { 2 } ( 1 + \\frac { p _ { k } \\left| h _ { k , j } \\right| ^ { 2 } } { \\sigma _ { j } ^ { 2 } } ) , \\forall k \\neq j \\in \\mathcal { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $p _ { k }$ 表示节点 $n _ { k } ^ { w }$ 的无线发射功率， $h _ { k , j }$ 表示从节点 $n _ { k } ^ { w }$ 到节点 $n _ { j }$ 的无线信道系数[11]， $B _ { k , j }$ 表示从节点 $n _ { k } ^ { w }$ 到节点 $n _ { j }$ 的无线信道带宽， $\\sigma _ { j } ^ { 2 }$ 则表示节点 $n _ { j }$ 的接收机噪声方差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其次，有线节点 $n _ { u }$ 和有线节点 $n _ { \\nu }$ 之间的有线链路传输时延 $D _ { e ( u , \\nu ) }$ 定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { e ( u , \\nu ) } = \\frac { \\ell _ { i n } \\cdot \\prod _ { i \\in V , j \\in \\mathcal { N } } \\eta ( \\nu _ { i } ) } { T r _ { e ( u , \\nu ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T r _ { e ( u , \\nu ) }$ 表示有线链路传输速率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 $t$ 时刻，记节点 $n _ { j } \\in \\mathcal N$ 的可用资源为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { j } ( t ) = C _ { j } ( t ) + M _ { j } ( t ) + F _ { j } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $C _ { j } ( t )$ 、 $M _ { j } ( t )$ 、 $F _ { j } ( t )$ 分别是节点可用的CPU、存储和传输资源。在移动边缘计算网络环境下，节点 ${ n } _ { j } ^ { w } \\in \\mathcal { N }$ 具有无线功能，需要优化设计基站天线数 $A _ { j } ^ { \\nu } ( t )$ ，无线资源块 $B _ { j } ^ { w } ( t )$ 以",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "及无线传输功率 $P _ { j } ^ { w } ( t )$ 。记节点 ${ n } _ { j } ^ { w } \\in \\mathcal { N }$ 的无线资源为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { j } ^ { w } ( t ) = A _ { j } ^ { w } ( t ) + B _ { j } ^ { w } ( t ) + P _ { j } ^ { w } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "记 $\\mathrm { S F C } \\ s _ { k }$ 的VNF节点部署资源成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { n o d e } = \\sum _ { \\nu _ { i } \\in V } ( \\alpha C ( \\nu _ { i } ) + \\beta M ( \\nu _ { i } ) + \\gamma F ( \\nu _ { i } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha , \\beta$ 和分别表示CPU、存储和转发资源的加权系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 NFV环境中，定义组件(VNF 或物理节点)的可靠性。记 $r _ { i j }$ 表示组件提供服务的平均时间与组件提供服务的平均时间和组件停机维修的平均时间之和的比率，即该组件在规定的时间段内可以无故障地提供服务的概率[21]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i j } = \\frac { \\rho } { \\rho + \\xi }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\rho$ 代表组件故障之间的平均时间， $\\xi$ 代表修复故障组件的平均时间。因此，SFC的可靠性写成[22];",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { s _ { k } } = \\prod _ { n _ { j } \\in N } r _ { n _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "记虚拟链路集合为 $\\boldsymbol { L } = ( l _ { i , 0 } , l _ { i , 1 } , . . . l _ { i , n } )$ ， $l _ { i , \\ i + 1 }$ 表示 $\\mathrm { V N F } \\nu _ { i }$ 与 $\\nu _ { i + 1 }$ 之间的虚拟链路。用 $l _ { i , 0 }$ 表示为起点和 $n _ { s }$ 间的虚拟链路， $\\boldsymbol { l } _ { i , n }$ 是$n _ { s }$ 和终点之间的虚拟链路。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用 $x _ { i , j }$ 表示 ${ \\mathrm { V N F ~ } } \\nu _ { i }$ 是否部署在边缘节点 $n _ { j }$ ， $y _ { i , j }$ 表示虚拟链路 $l _ { i }$ 是否通过物理链路 $\\boldsymbol { e } _ { j }$ 部署到底层物理网络，其中，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } , \\mathbf { \\Pi } _ { j } = \\left\\{ \\begin{array} { l c } { 1 , } & { \\nu _ { i } \\frac { \\mathrm { x } _ { i } } { \\hbar } | \\frac { \\mathrm { x } _ { i } } { \\hbar } \\mathbf { \\tilde { \\Pi } } _ { i } \\mathbf { \\tilde { \\Pi } } _ { i } \\mathbf { \\tilde { \\Pi } } _ { j } } \\\\ { 0 , } & { \\mathbf { \\tilde { \\Pi } } _ { i } \\mathbf { \\tilde { \\Pi } } _ { i } \\mathbf { \\tilde { \\Pi } } _ { j } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i , j } = \\left\\{ { \\begin{array} { l r } { 1 , \\ } & { l _ { i } \\not \\equiv \\not \\equiv \\not { \\mathrm { 4 E } } { \\mathcal { Z } } \\not \\equiv \\not { \\mathrm { 4 E } } { \\mathrm { 4 E } } \\not \\equiv \\not { \\mathrm { 4 E } } \\not \\equiv \\not { \\mathrm { 4 E } } \\not \\equiv \\not { \\mathrm { 4 } } e _ { j } } \\\\ { 0 , \\ } & { \\not { \\mathrm { 4 } } \\not \\in \\not { \\mathrm { 4 } } { \\mathrm { 4 } } } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将虚拟链路映射到物理链路需要一定的带宽资源，不同节点组成的链路不同、不同的映射方法都会产生不同的链路成本。记SFC $s _ { k }$ 的映射成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { m a p } = \\sum _ { e ( u , \\nu ) \\in \\mathcal { E } } \\left( \\ell _ { i n } \\prod _ { \\nu _ { i } } \\eta _ { \\nu _ { i } ^ { k } } + \\phi _ { e ( u , \\nu ) } + \\tau _ { h o p } ^ { e ( u , \\nu ) } \\cdot b _ { e ( u , \\nu ) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，式中第一项表示 ${ \\mathrm { V N F } } \\nu _ { i }$ 映射在节点 $( u , \\nu )$ 上，其物理链路 $e ( u , \\nu )$ 的映射带宽资源和服务请求 $s _ { k }$ 的链路成本。第二项$\\phi _ { e ( u , \\nu ) }$ 表示链路 $e ( u , \\nu )$ 之间的固有链路消耗，第三项表示链路带宽开销， $b _ { e ( u , \\nu ) }$ 为链路 $e ( u , \\nu ) \\in \\mathcal { E }$ 的剩余带宽，其中 $\\tau _ { h o p } ^ { e ( \\mu , \\nu ) }$ 表示当前节点到下一个节点的最短跳数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为避免数据传输堵塞和发生硬件故障，考虑物理节点资源的负载均衡。定义无线物理节点 $n _ { j } ^ { w }$ 的资源成本[23]为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { w i r } = \\sum _ { \\nu _ { i } \\in V } \\sum _ { n _ { j } \\in \\mathcal { N } } H ( \\nu _ { i } ) c _ { w i } ( n _ { j } ^ { w } ) x _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { w i } ( n _ { j } ^ { w } ) = a + { \\frac { A ( n _ { j } ^ { w } ) } { A _ { a l l } ( n _ { j } ^ { w } ) } } + { \\frac { B ( n _ { j } ^ { w } ) } { B _ { a l l } ( n _ { j } ^ { w } ) } } + { \\frac { P ( n _ { j } ^ { w } ) } { P _ { a l l } ( n _ { j } ^ { w } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $H ( \\nu _ { i } )$ 表示虚拟网络功能 $\\nu _ { i }$ 请求的无线资源， $\\boldsymbol { a }$ 表示使用具有无线功能的物理节点启用虚拟功能的固有成本， $B ( n _ { j } ^ { w } )$ 表示物理节点 $n _ { j } ^ { w }$ 的无线资源块， $B _ { a l l } ( n _ { j } ^ { w } )$ 表示物理节点 $n _ { j } ^ { w }$ 的无线资源块总数。 $P ( n _ { j } ^ { w } )$ 表示物理节点 ${ n } _ { j } ^ { w }$ 占用的无线功率，$P _ { a l l } ( n _ { j } ^ { w } )$ 表示物理节点 $n _ { j } ^ { w }$ 最大无线功率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，网络服务的部署代价表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { c o s t } = \\omega _ { 1 } C _ { n o d e } + \\omega _ { 2 } C _ { m a p } + \\omega _ { 3 } C _ { w i r }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { \\mathrm { l } }$ 、 $\\omega _ { 2 }$ 、 $\\omega _ { 3 }$ 表示加权系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2评价指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于移动边缘计算网络的SFC部署问题，该文考虑资源消耗、请求到达平均时延、请求到达率、平均可靠性、带宽开销、重映射链路以及算法运行时间等系统性能指标[24.25]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)部署成本",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在SFC部署中，映射成本建模为物理链路中的带宽损耗。结合SFC部署成本(15)和带宽资源开销，记SFC部署成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { \\mathrm { c o s } t } = \\Psi _ { c o s t } + \\omega _ { 4 } \\sum _ { l _ { i } \\in L } \\tau _ { h o p } \\cdot b ( l _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， ${ { \\omega } _ { 4 } }$ 表示部署成本的权重系数， $\\tau _ { h o p }$ 表示源节点到目的节点之间跳数， $b ( l _ { i } )$ 则表示为虚拟链路所需带宽资源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)部署成功率 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SFC 部署成功率定义为在一定时间内到达的 SFC请求数量与成功部署的SFC请求数量，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { s u c c } = \\operatorname* { l i m } _ { T  \\infty } \\frac { \\displaystyle \\sum _ { t = 0 } ^ { T } { S F C _ { s u c c } ( t ) } } { \\displaystyle \\sum _ { t = 0 } ^ { T } { S F C _ { a l l } ( t ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，分母表示在总运行时间 $T$ 中到达SFC请求的总数量，分子表示总运行时间 $T$ 中成功部署SFC请求的总数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)平均可靠性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于节点的独立部署特性， $\\mathrm { S F C } s _ { k }$ 的可靠性函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { k } = \\prod _ { \\nu _ { i } \\in V } \\mathcal { Q } _ { s _ { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该文考虑SFC的平均可靠性概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { R } } = \\frac { \\displaystyle \\sum _ { k = 1 } ^ { S F C _ { s u c c } } R _ { k } } { S F C _ { s u c c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)请求到达平均时延",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义SFC请求到达平均时延为总的时延与SFC成功部署数量的比值。SFC的时延等于传输时延、节点时延、虚拟链路所部署链路的时延之和：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { s _ { k } } = \\sum _ { i \\in V } \\sum _ { e \\in \\mathcal { E } } D _ { i } + D _ { e ( u , \\nu ) } + d _ { n _ { j } } + d _ { l _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则SFC请求到达平均时延为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { D } } = \\frac { \\displaystyle \\sum _ { k = 1 } ^ { S F C _ { m c c } } D _ { s _ { k } } } { S F C _ { s u c c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5)带宽开销 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SFC请求到成功部署的过程中所需要的带宽定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { B _ { b a n d } } } = \\frac { \\displaystyle \\sum _ { k = 1 } ^ { S F C _ { s u c c } } b _ { s _ { k } } } { S F C _ { s u c c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $b _ { s _ { k } }$ 表示 $\\mathrm { S F C } \\ : s _ { k }$ 成功部署所需要的带宽消耗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 系统模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1目标函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在部署网络服务需求时，根据可用资源计算最优的网络功能部署位置，使节点部署的总成本最小。同时，为了满足业务的SFC可靠性的要求，所选链路的时延需满足用户时延条件。建立SFC部署的优化目标函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 } D _ { s _ { k } } + \\mu _ { 2 } \\Delta _ { c o s t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu _ { \\mathrm { i } }$ 表示SFC 服务请求时延的加权系数， $\\mu _ { 2 }$ 表示SFC部署成本的加权系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 约束条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "任意SFC上的VNF都可以部署在物理层无线或有线网络上，但只能放在一个物理节点来实例化：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n _ { j } \\in \\mathcal { N } , \\nu _ { i } \\in V } x _ { i , j } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了成功保证SFC业务请求的顺畅，规定每条物理链路 最多只能映射一次相同的SFC虚拟链路，即 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { l _ { j } \\in L } y _ { i , j } { \\le } 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在每个节点上映射所有VNF 所消耗的资源，不能超过节点的最大资源容量。令每个VNF的映射成本为 $C _ { \\nu _ { i } }$ 。物理节点 $n _ { j }$ 提供给VNF映射资源的总容量 $C _ { n _ { j } }$ ，满足以下约束条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i } C _ { \\nu _ { i } } \\leq C _ { n _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为满足通信资源约束，虚拟链路部署时所需要的带宽不能超过当前时刻链路中闲置的带宽资源，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i } ( \\ell _ { i n } \\prod _ { \\nu _ { i } } \\eta _ { \\nu _ { i } } ) \\pi _ { e ( u , \\nu ) } ^ { ( \\nu _ { i - 1 } , \\nu _ { i } ) } { \\leqslant } b _ { e ( u , \\nu ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pi _ { e ( u , \\nu ) } ^ { ( \\nu _ { i } , \\nu _ { j } ) } \\in \\{ 0 , 1 \\}$ 则表示是否将虚拟链路映射至物理链路 $e _ { ( u , v ) }$ 的离散变量，当值为1时将虚拟链路映射至物理链路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当SFC虚拟功能VNF映射到物理节点时，有线链路和无线链路产生的时延之和需小于规定的用户时延 $D _ { 0 } ( l _ { i } )$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { s _ { k } } \\backslash \\{ l _ { i } ) , \\quad \\forall l _ { i } \\in L\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将服务链映射到底层边缘网络时，SFC必须满足可靠性条件，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { i } { \\geqslant } R\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于节点 $n _ { j } ^ { w }$ ，部署所有VNF所需的无线资源块、天线数和无线功率不能超过其所能提供的范围，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\nu _ { i } \\in V } B l ( i ) \\cdot x _ { i , j } { \\leqslant } M B N ( j ) , \\forall j \\in { \\mathcal { E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\nu _ { i } \\in V } A e r ( i ) \\cdot x _ { i , j } { \\leqslant } M A N ( j ) , \\forall j \\in { \\mathcal { E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\nu _ { i } \\in V } P o w ( i ) \\cdot x _ { i , j } { \\leqslant } M P N ( j ) , \\forall j \\in { \\mathcal { E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $M B N ( j )$ 、 $M A N ( j )$ 和 $M P N ( j )$ 分别表示无线节点 ${ n } _ { j } ^ { w }$ 可以提供的无线资源块的最大数量、天线最大数目、基站最大功率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 算法设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SFC 部署问题(23)属于一类虚拟化网络嵌入问题[26]，是NP难问题，求解复杂度非常高。为满足移动边缘计算网络的低时延业务需求，需要低计算复杂度的SFC部署方案。首先，在 $t$ 时刻随机SFC请求到达时，对SFC类型进行分类，区分有线类型SFC以及混合有线和无线网络场景下的SFC，该文提出一种基于地理位置感知的服务功能链放置优化算法，判断该SFC中的VNF位置以及类型，是否满足共享初始条件，以减少VNF间的时延，提高服务功能链的响应时间。若不满足，按照普通情况进行部署。其次，在当前映射资源约束条件下，使用基于资源感知的节点选取算法，对满足资源约束条件的节点集合进行筛选评价，确定最佳节点映射排列顺序。最后，利用基于带宽需求感知的虚拟链路映射算法，筛选候选路径集合中满足带宽和开销最小的路径，选取最短加权路径作为各VNF间的通信链路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1基于地理感知的节点共享算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在边缘网络下，通过共享节点的方式，不仅提高SFC的可靠性，而且将相邻VNF 的数据转换为节点内部间数据传输，降低传输的时延，减少带宽压力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为此，需要感知SFC中的VNF位置是否属于同类型VNF，降低地理位置造成的通信延迟。相邻VNF选择共享节点时，需要考虑是否属于同一类型的VNF，即有线或无线VNF。当SFC 请求到达时，该文提出基于地理感知的节点共享算法，首先，根据SFC请求搜寻当前SFC中的各位置VNF是否满足共享初始条件，即相邻VNF是否功能互斥。然后，根据各VNF的流量改变因子，判断是否存在合并条件，在功能互相契合的VNF顺序集合中，将流量改变因子乘积满足条件的VNF进行合并，同时合并对应的VNF资源需求，再进行节点共享。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1基于地理感知的节点共享算法输入：边缘信息网络 $\\mathcal { G }$ ，SFC 请求 $s _ { k }$ 中的VNF 位置信息。输出：待共享节点的VNF 集合Temp'。FOR 所有待部署的VNF",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IF当前位置的VNF 满足共享初始条件进入下一步共享ELSE退出共享，按普通情况部署END IF  \nEND FOR  \nIF当前 SFC 是否具有无线功能FOR $s _ { k }$ 中的所有待部署的VNF $\\nu _ { i } ^ { w } ~ / ~ \\nu _ { i } ^ { w }$ 筛选当前位置下满足无线 $\\nu _ { i } ^ { w }$ 和 $\\nu _ { i + 1 } ^ { w }$ ..或有线 $\\nu _ { i } ^ { w }$ 和 $\\nu _ { i + 1 } ^ { w }$ ..功能性约束的连  \n续VNF集合，进入待合并队列TempFORTemp 中每个集合的VNFIF $\\eta ( \\nu _ { i i } ) { > } 1$ & $\\eta ( \\nu _ { i i + 1 } ) < 1$ & $\\eta ( \\nu _ { i i + 2 } ) < 1$ 或 $\\eta ( \\nu _ { i i } ^ { w } ) { > } 1$ & $\\eta ( \\nu _ { i i + 1 } ^ { w } ) < 1$ &  \n$\\eta ( \\nu _ { i i + 2 } ^ { w } ) < 1$ 进入合并队列集合TempELSE解散当前Temp 中的集合END IFEND FOR  \nELSEFOR有线 $s _ { k }$ 中的每一个VNF $\\nu _ { i }$ 筛选满足有线 $\\nu _ { i }$ 和 $\\nu _ { i + 1 }$ ..功能性约束的连续VNF 集合，进入待合并  \n队列TempFORTemp 中每个集合的VNF（204 $\\mathtt { I F } \\eta ( \\nu _ { i i } ) > 1 \\otimes \\eta ( \\nu _ { i i + 1 } ) < 1 \\otimes \\eta ( \\nu _ { i i + 2 } ) < 1$ 进入合并队列集合TempELSE解散当前Temp 中的集合END IFEND FOR",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ENDIF ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2基于资源感知的节点选取算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对底层网络资源以及VNF地理位置感知后，遍历当前SFC的VNF集合，首先筛选出满足资源约束的VNF节点集合，比如CPU、存储和转发等资源。若VNF节点具有无线功能，需要确保满足无线资源约束条件。其次，利用线性加权分析法，对当前SFC中需要部署的VNF到对应的物理节点进行评分排序，将当前VNF节点部署在综合评分最高的物理节点，依此类推，直至SFC中所有的VNF部署完成，其中物理节点的评分指标包括节点可靠性、排队时延、处理时延和发送时延。最后，更新当前时刻下，SFC部署所占用物理节点的剩余资源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2基于资源感知的节点选取算法  \n输入：经合并处理后的SFC 请求 $s _ { k }$ 。  \n输出：服务功能链 $s _ { k }$ 构建方案。  \nFOR合并后的集合中的每一个VNFIF当前VNF不具有无线功能FOR集合 $\\mathcal { N }$ 中的每一个节点 $n _ { j }$ 筛选满足CPU、存储、转发资源约束的节点集合 $\\Theta _ { 1 }$ 去除源节点、目标节点、无线节点后的集合 $\\Theta _ { 2 }$ 去除已被映射节点后的集合 $\\Theta _ { 3 }$ 在集合 $\\Theta _ { 3 }$ 中筛选出评价指标最高的节点进行映射当前VNF更新各物理节点剩余资源ENDFORELSEFOR集合 $\\mathcal { N }$ 中的每一个节点 $n _ { j } ^ { w }$ 筛选满足CPU、存储、转发资源以及无线资源(天线、无线  \n资源块、功率)约束的节点集合 $\\Theta _ { 1 }$ 去除源节点、目标节点的集合 $\\Theta _ { 2 }$ 去除已被映射节点后的集合 $\\Theta _ { 3 }$ 计算当前无线节点集合 $\\Theta _ { 3 }$ 中针对该VNF所产生的时延",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用当前节点可靠性与时延计算加权决策矩阵，筛选出指标最高的节点进行映射该无线VNF更新各物理节点剩余资源END FOREND IF",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3基于带宽需求感知的虚拟链路映射算法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在VNF部署成功后，进行路由选择，对相应的链路进行映射，具体算法步骤如算法3所示。首先，当SFC中所有VNF已经确定好最佳映射物理节点，根据当前时刻的带宽矩阵，将其转换为稀疏矩阵格式，删除所有不满足当前SFC 带宽要求以及待映射最佳节点间不互通的链路，节省内存，提高搜索效率。利用最短路径算法寻找待映射物理节点间的最短路径，相应地部署虚拟链路。最后，当虚拟链路映射完成后，计算当前映射路径下该SFC的总时延，若不满足服务最短时延要求，则拒绝该SFC的请求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法3基于带宽需求感知的虚拟链路映射算法输入：服务功能链 $s _ { k }$ 构建方案。输出：服务功能链 $s _ { k }$ 映射方案。FOR $s _ { k }$ 中所有映射的节点之间组成的链路利用最短路径算法计算相应的加权路径带宽矩阵得出最短路径跳数d和途径节点集合p计算消耗带宽以及重复映射链路ENDFORIF该 $s _ { k }$ 不具有无线功能FOR $s _ { k }$ 构建方案中的节点与VNF计算有线时延END FORELSEFOR $s _ { k }$ 构建方案中的节点与VNFIF当前VNF不具有无线功能计算有线时延ELSE计算无线时延END IFEND FOREND IF计算当前映射方案的总时延IF当前 $\\mathsf { S F C } \\ { s } _ { k }$ 的时延不满足其时延要求映射失败，SFC 请求未到达ELSE映射成功，SFC请求到达，更新链路带宽剩余资源END IF",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在配置参数为IntelCorei5-10500CPU和16GBRAM台式计算机上，搭建 SFC部署仿真平台。为了较为全面地评估验证算法的性能，考虑SFC部署资源消耗、请求到达率、平均可靠性、平均带宽开销、平均请求时延、重映射的链路数量和算法运行时间等性能指标。在实验中，将随机算法、文献[11]提出的遍历-选择算法[11]、文献[13]提出的动态 SFC部署算法[13]、以及文献[17]提出的贪婪算法[17]作为基准对比方案。其中，随机算法共享节点，但不进行最短加权链路映射。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在仿真平台上，边缘网络由100个节点生成，其中40 个节点启用无线功能。假设SFC请求动态到达，服从到达率为0.05的泊松分布。为减少随机因素的影响，仿真结果采取100次实验后的平均值，其中每次实验需要50000个时间单位，如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2显示了SFC请求成功部署数量变化对资源利用的影响情况。图2(a)显示，随着 SFC 请求成功部署数量的增加，该文方法的部署资源消耗均小于另外四种方法。文献[17]和文献[13]所提算法部署时未共享节点，没有考虑节点的负载均衡，故资源消耗较多。文献[11]随机选择SFC的一部分进行共享节点，但忽略负载均衡，导致消耗的资源比较多。该文所提算法，根据边缘网络资源有限，将物理节点共享给更多的VNF，降低了节点与节点之间不必要的跳数，同时算法3优化了链路资源配置，故部署资源开销最小。图2(b)显示SFC成功部署后的平均时延对比关系图。该文算法和基准随机算法明显优于其他两种算法，这是因为节点共享可将VNF之间的数据变成节点内部的数据传输，降低了一定的传输时延。该文算法考虑边缘网络中节点和链路容量限制，将综合部署时延纳入节点筛选权重算法中，能获得更低的节点时延。在节点排序评价权重中，文献[17]和文献[11]所提算法在部署过程中考虑了时延权重，故性能优于未考虑部署链路时延的文献[13]所提算法。图2(c)显示，由于该文算法根据约束条件，对节点进行共享，并使用映射算法考虑了负载的均衡，使得带宽开销更少。基准随机算法也进行了节点共享处理，优于其他三种基准算法，但因为部署时未进行最短加权链路映射，改进的效果并不明显。最后，图2(d)中该文映射算法中利用最短加权链路映射，在搜索最短路径过程中使用带宽矩阵约束，对节点间路径避免出现循环有一定的帮助，使得重映射链路的数量少于另外四种方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/12e86247c8a5b37d001885edd5e198133f66a19ca9ab695eca8a6b5bf7c6de1c.jpg",
+        "table_caption": [
+            "表1仿真设置",
+            "Tab.1 Simulation setup "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名</td><td>参数值(单元)</td></tr><tr><td>节点传输时延</td><td>[2,5]/ms</td></tr><tr><td>节点CPU、存储、转发资源</td><td>[50,100]/Mb</td></tr><tr><td>每条服务链有线、无线VNF数量</td><td>[3,6]、[0,3]</td></tr><tr><td>服务功能链生命周期</td><td>指数分布{1000}</td></tr><tr><td>节点可靠性</td><td>[0.85,0.98]</td></tr><tr><td>节点可提供天线数量</td><td>[1,4]</td></tr><tr><td>节点可提供无线资源块</td><td>[20,30]</td></tr><tr><td>节点可提供功率</td><td>[1000,2000]/mW</td></tr><tr><td>链路带宽</td><td>[3000,5000]/Mbps</td></tr><tr><td>VNF 存储、CPU、转发资源</td><td>[10,20] /Mb</td></tr><tr><td>初始带宽需求</td><td>400/Mbps</td></tr><tr><td>无线VNF所需天线</td><td>[4,10]</td></tr><tr><td>无线VNF所需无线资源块</td><td>[3,6]</td></tr><tr><td>无线VNF 所需功率</td><td>[60,200] /mW</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3显示了算法性能变化的影响。图3(a)显示了5种不同部署算法的SFC请求到达率随时间变化曲线。文献[13]所提算法未综合考虑部署过程中各部分时延，基准随机算法和文献[17]所提算法，部署过程中都不能同时满足可靠性以及时延的约束，故请求到达率较低。文献[11]所提算法，虽有共享节点资源，但因随机选择SFC的部分共享，没有考虑负载均衡，资源消耗增加，故请求到达率最低。该文算法部署时考虑了节点的负载均衡，利用流量改变因子的特征将部分VNF合并在同一个物理节点，共享其资源，降低部署开销，提高了请求到达率。图3(b)显示了平均SFC可靠性随成功部署的SFC数目的变化曲线。该文算法和基准随机算法的平均可靠性系数高于0.8。这是因为节点共享算法考虑了节点可靠性的权重，优先选择可靠性较高的节点。多个VNF合并部署到一个物理节点上，在筛选节点排序时会增加一定的权重，有助于提高 SFC的可靠性。文献[11]部署过程中选择性的共享节点，增加了SFC的可靠性，故优于剩下的两种基准算法。文献[13]方法考虑了网络拓扑和可靠性，但未将节点共享。文献[17]算法未考虑节点可靠性，在筛选节点集合时，无法保证可靠性。图3(c)显示了该文算法具有最小的时间复杂度。在VNF部署的最佳候选节点筛选时，该文算法和基准算法的时间复杂度均为 $O ( N )$ ，其中 $N$ 表示物理节点数目。然而，在最短路径映射过程中，不同于基准算法方案，该文算法将当前路径矩阵转换为稀疏矩阵，极大降低了最短路径生成的时间复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/33c17fcc10d3a44aa67c161c8194d790ff3dc21077efaab597b9e8ff29184d65.jpg",
+        "img_caption": [
+            "图2SFC请求成功部署数量变化的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/66c62e31a4b746156d9eae54edc31cd42b909a270b39db5cb5c2d476c7c87a32.jpg",
+        "img_caption": [
+            "Fig.2The impact of changing demand for service resources ",
+            "图3算法性能变化的影响",
+            "Fig.3Effects of changes in the algorithm performance "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该文研究了移动边缘计算网络的SFC部署问题，开发了一种成本与时延联合优化设计的方法。在SFC构建阶段，根据节点位置和资源状况，选择当前最佳节点减少VNF间的时延以提高服务功能链的响应时间。在SFC部署阶段，由于映射资源有限，在服务映射节点时应用节点选取算法确定最佳节点映射排列顺序，并从中选取最短加权路径作为各VNF间的通信链路。实验结果表明，相比已有方案，该文算法能有效降低 SFC 服务请求时延，提高 SFC可靠部署成功率。下一步研究方向将针对设备直通(devicetodevice,D2D)无线通信网络，考虑无线信道衰落和用户干扰，设计低功耗SFC部署方案与资源管理算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]祖家琛，胡谷雨，严佳洁，等．网络功能虚拟化下服务功能链的资源 管理研究综述[J].计算机研究与发展,2021,58(01):137-152.(Zu Jiachen,Hu Guyu,Yan Jiajie,et al. Resource management research of service function chain under network function virtualization [J]. Computer Research and Development,2021,58 (01): 137-152)   \n[2]Saraiva de Sousa NF,Lachos Perez DA,RosaR V,et al. Network service orchestration: a survey [J/OL]. Computer Communications,2019,142: 69-94. htps://doi.org/10.1016/j.comcom.2019.04.008.   \n[3]Hantouti H,Benamar N, Taleb T,et al.Traffic steering for service function chaining [J].IEEE Communications Surveys & Tutorials,2018, 21 (1): 487-507.   \n[4]Han Bo,Gopalakrishnan V,Ji Lusheng，et al.Network function virtualization: challenges and opportunities for innovations [J/OL]. IEEE Communications Magazine,2015,53 (2):90-97.https://doi.org/10. 1109/MCOM. 2015.7045396.   \n[5]ETSIG.Network functions Virtualisation (nfv);use cases[J].V1,2013, 1: 2013-10.   \n[6]Yeganeh S H, Tootoonchian A,Ganjali Y.On scalability of softwaredefined networking [J]. IEEE Communications Magazine,2013,51 (2): 136-141.   \n[7]Wang Feng,Xu Jie,Ding Zhiguo.Multi-antenna NOMA for computation offloading in multiuser mobile edge computing systems [J].IEEE Trans on Communications,2018,67 (3): 2450-2463.   \n[8]Yu Minlan,Yi Yung,Rexford J,et al.Rethinking virtual network embedding:substrate support for path splitting and migration [J].ACM SIGCOMM Computer Communication Review,2008,38 (2): 12.   \n[9]Hu Qian，Wang Yang,CAO Xiaojun.Resolve the virtual network embedding problem: a column generation approach [C]// Proc of the Proceedings IEEE INFOCOM.Piscataway,NJ: IEEE Press,2013:410- 414.   \n[10] Siasi N,Jasim M,Crichigno J,et al. Container-based service function chain mapping [C]// Proc of the SoutheastCon.Piscataway,NJ:IEEE Press, 2019: 1-6.   \n[11] Chen Jia, Liu Hongqiao,Jia Haiyu. Cross-layer resource allocation in wireless-enabled NFV [J/OL]. IEEE Wireless Communications Leters, 2020,9 (6): 879-883.https://doi.org/10.1109/LWC.2020.2974198.   \n[12] Zhang Yuncan,He Fujun,Oki E.Availability-aware service chain provisioning with sub-chain-enabled coordinated protection [C]//Proc of theIFIP/IEEE International Symposium on Integrated Network Management (IM).Piscataway, NJ: IEEE Press,2021: 638-642.   \n[13]唐伦，赵培培，赵国繁，等．基于QoS保障的服务功能链动态部署算 法[J]．北京邮电大学学报,2018,41(06):90-96.(Tang Lun,Zhao Peipei, Zhao Guofan,et al.Dynamic deployment algorithm of service function chain based on QoS guarantee [J]. Journal of Beijing University of Posts and Telecommunications,2018,41 (06): 90-96.)   \n[14]Ahvar S,Phyu HP,Buddhacharya SM,et al.CCVP:Cost-efficient centrality-based VNF placement and chaining algorithm for network service provisioning [C/OL]/Proc of the IEEE Conference on Network Softwarization (NetSoft）.Piscataway,NJ: IEEE Press 2O17:1-9. https://doi.org/10.1109/NETSOFT.2017.8004104.   \n[15]Bari F,Chowdhury SR,Ahmed R,et al.Orchestrating virtualized network functions [J/OL].IEEE Trans on Network and Service Management,2016,13(4):725-739.https://doi.org/10.1109/TNSM. 2016.2569020.   \n[16]孙士清，彭建华，游伟，等.5G网络下资源感知的服务功能链协同构 建和映射算法 [J]．西安交通大学学报，2020,54(08):140-148.(Sun Shiqing,Peng Jianhua,You Wei,et al.Collaborative construction and mapping algorithm of resource-aware service function chain under 5G network [J].Journal of Xi'an Jiaotong University,2020,54 (08):140- 148.)   \n[17] Yuan Bo,Ren Bangbang.Embedding the minimum cost SFC with endto-end delay constraint [C/OL]/Proc of the 5th International Conference on Mechanical,Control and Computer Engineering (ICMCCE）. Piscataway，NJ:IEEE Press.2020:2299-2303．https://doi. org/10. 1109/ICMCCE51767.2020.00497.   \n[18] Zhong Xuxia,Wang Ying,Qiu Xuesong，et al.Cost-aware service function chain orchestration across multiple data centers [C/OL]/Proc of the NOMS 2018-2018 IEEE/IFIP Network Operations and Management Symposium.Piscataway,NJ:IEEE Press.2018:1-7.https://doi.org/10. 1109/NOMS.2018.8406174.   \n[19]牛梦.边缘网络中面向可靠性和响应时间的服务功能链调度机制研 究[D/OL].北京邮电大学，2021．https://kns.cnki. net/KCMS/detail/detail. aspx?dbcode=CDFD&dbname=CDFDTEMP&filename $\\begin{array} { r } { \\mathrel { \\mathop : } \\qquad = \\stackrel { \\cdot } { } } \\end{array}$ 1021086016. nh&v=.(Niu Meng.Research on service function chain scheduling mechanism for reliability and response time in edge networks [D/OL]. Beijing University of Posts and Telecommunications,2021.)   \n[20] Shannon C E.A mathematical theory of communication [J].The Bell system technical journal,1948,27(3): 379-423.   \n[21] Qu Long,Khabbaz M,Assi C.Reliability-aware service chaining in carrier-grade softwarized networks [J/OL].IEEE Journal on Selected Areas in Communications,2018,36 (3):558-573.https://doi. org/10. 1109/JSAC.2018.2815338.   \n[22] Ayoubi S,Zhang Yanhong,Assi C.RAS:Reliable auto-scaling of virtual machines in multi-tenant cloud networks [C]// Proc of the IEEE 4th International Conference on Cloud Networking (CloudNet).Piscataway, NJ: IEEE Press.2015:1-6.   \n[23]贾海宇．智慧协同无线网络下面向服务需求的功能动态部署机制研 究[D/OL].北京交通大学，2019.https://kns.cnki. net/KCMS/detail/detail. aspx?dbcode=CMFD&dbname=CMFD202001&filename $\\left. = \\right.$ 1019204899. nh&v=.(Jia Haiyu.Research on the dynamic deployment mechanism of service demand-oriented functions in smart collaborative wireless networks [D/OL].Beijing Jiaotong University,2019.)   \n[24]翟东，孟相如，康巧燕，等．面向时延与可靠性优化的服务功能链部 署方法[J]．电子与信息学报,2020,42(10):2386-2393.(Zhai Dong, Meng Xiangru,Kang Qiaoyan,et al. Service function chain deployment method for delay and reliability optimization [J].Journal of Electronics and Information,2020,42 (10):2386-2393.)   \n[25]阳勇，孟相如，康巧燕，等．基于流量优化的可靠服务功能链部署方 法[J]．系统工程与电子技术,2021,43(10):3017-3025.(Yang Yong, Meng Xiangru,Kang Qiaoyan,et al.Deployment Method of Reliable Service Function Chain Based on Traffic Optimization [J]. System Engineering and Electronic Technology,2021,43 (10):3017-3025.)   \n[26] Amaldi E,Coniglio S,Koster A M,et al.On the computational complexity of the virtual network embedding problem[J].Electronic Notes in Discrete Mathematics,2016,52:213-220. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

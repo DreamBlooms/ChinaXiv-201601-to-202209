@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "环境因子对海岛植物茎、叶功能性状的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张增可，吴雅华，王齐，季凌波，黄柳菁（福建农林大学园林学院，福州350002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物功能性状与环境之间的关系是功能性状研究的重点。海岛作为独特的生态系统，其植物功能性状必然和大陆存在差异。以平潭岛森林群落为研究对象，通过测定茎、叶10个功能性状，以及地形和土壤9个环境因子，探讨植物功能性状之间的权衡关系，分析环境因子对海岛植物功能性状的影响。研究结果表明：（1）比叶面积（SLA）与叶氮含量（LNC）、叶磷含量（LPC）呈正相关，与叶厚度（LT）、叶干物质（LDMC）、茎组织密度（STD）、叶碳含量（LCC）呈负相关；LDMC与LNC、茎氮含量（SNC）呈负相关；LT与STD呈正相关，与LNC 和LPC 呈负相关；LPC与LNC、SNC呈正相关；茎和叶C、N含量均呈正相关。（2）土壤有机质和 $\\mathfrak { p H }$ 是海岛植物功能性状的主要土壤影响因子。然而，由于土壤中磷含量的缺乏，LNC、LPC、SNC 均与土壤全磷呈正相关；LDMC、STD与土壤有机质和土壤全氮含量呈正相关；SLA 随着土壤pH的增加而增加；（3）坡位和坡度是海岛植物功能性状主要的地形影响因子。SLA、茎磷含量（SPC）随着海拔上升而下降；STD、LDMC随着海拔和坡度增大而增大；LNC、LPC阴坡大于阳坡。该研究明确了海岛植被的生态适应机制，旨在为海岛植被修复和重建提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：海岛，植物功能性状，地形，土壤，生态策略",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of environmental factors on stem and leaf functional traits of island plants ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Zengke, WU Yahua, WANG Qi, JI Lingbo, HUANG Liujing\\* ( College ofLandscape Architecture,Fujian Agriculture and Forestry University, Fuzhou 350002, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The relationship between plant functional traits and environment is the focus of research on functional traits. As a unique ecosystem, the plant function of the island must be different from that of mainland. In this study, the forest communities in Pingtan Island was taken as the research object. The objective of this work was to explore the trade-off relations between the plant functional traits,and analyze the impact of environmental factor on the functional traits of island plants,by measured 1O functional traits of stems and leaves as well as 9 environmental factors of topography and soil. The results showed the following: (1) The specific leaf area (SLA) was positively correlated with leaf nitrogen content (LNC) and leaf phosphorus content (LPC), and negatively correlated with leaf thickness (LT),leaf dry matter (LDMC),stem tissue density (STD) and leaf carbon content (LCC). Furthermore, LDMC was negatively correlated with LNC and stem nitrogen content (SNC). There was a positive correlation between LT and STD, while a negative correlation between LT and LNC, LPC,as well as a positive correlation between LPC and LNC, SNC. In a word,The content of C,N in stems and leaves have a positive correlation. (2) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The main influencing factors of soil on plant functional traits were soil organic matter and $\\mathfrak { p H }$ in Pingtan Island. However， because of a lack of phosphorus content in the soil, LNC,LPC, SNC were positively correlated with soil total phosphorus,while LDMC and STD was positively correlated with soil organic matter and soil total nitrogen.And SLA increased with the soil pH increased.(3） In Pingtan Island slope position and slope were the two most influential topographical factors,on plant functional traits. SLA and stem phosphorus content (SPC) decreased with the elevation increased. STD and LDMC increased with the elevation and slope increased,and LNC and LPC in the shady slope was greater than that in the sunny slope. This study clarified the ecological adaptation mechanism of island vegetation, aiming to provide a reference for the restoration and reconstruction of island vegetation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: island, plant functional traits, topography, soil, ecological strategy ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状是在形态、生理、物候等方面表征植物的生态策略，反映植物生存环境的变化，并且能够显著影响生态系统功能的一系列植物性状，如叶寿命、叶片大小、叶厚度、种子大小、扩散模式等（Diaz&Cabido，2001；刘贵峰等，2017）。植物功能性状的变化主要表现在主要器官间形态结构和营养元素的差异上，因此功能性状间存在多种联系，其中最普遍的是权衡关系，即自然筛选后的性状组合（刘晓娟和马克平，2015；胡耀升等，2014）。叶功能性状与植物生长对策和资源利用能力密切相关，体现在植物适应环境变化采取的生态策略上（盘远方等，2018）。茎功能性状与植物的防御能力和固碳能力相关，对植物的生长和分布具有重要的指示作用。研究茎、叶功能性状之间的关系，有助于更好理解物种分布和生态适应过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，关于植物功能性状的研究已经延伸到生态学众多领域，其中功能性状和环境之间的关系是生态学研究的重点（丁佳等，2011）。光照、温度、降水、养分是影响植物功能性状的主要环境因子，集中体现在土壤和地形状况的差异上（Diazetal.，2010）。因此，综合土壤和地形因子对植物功能性状的影响，更加有助于揭示植物对环境的适应策略。土壤是森林群落植物功能性状的主导者，对植物功能性状的塑造起着重要作用（李丹等，2016）。卜文圣等（2013）指出热带低地雨林植物功能性状主要受土壤pH值和土壤有机质（Soilorganic matter，SOM）的影响；土壤肥力与比叶面积（Specific leaf area，SLA）、叶氮含量（Leaf nitrogen content，LNC）、叶磷含量（Leaf phosphorus content，LNC）呈正相关（Jageret al.，2015）；土壤贫瘠导致植物 SLA偏小、生长缓慢（Thuiller et al.，2004）。地形因子对植物功能性状的影响主要通过海拔、坡度、坡向和坡位的不同，表现在水热、光照条件的差异上，因而使植物形成不同功能性状组合的生活策略（刘晓娟和马克平，2015）。相关研究发现，随着海拔的上升 SLA、LNC、叶厚度（Leaf thickness，LT）逐渐增加（Craine＆ Lee，2003）；盘远方等（2018）研究植物对坡向的响应时指出SLA阴坡大于阳坡，叶干物质（Leafdry matter content，LDMC）、LT阳坡大于阴坡；李宏伟等（2012）对森林群落植被研究，发现坡位主要影响叶大小、LT、LNC。可见，土壤和地形与植物功能性状的关系复杂，植物在不同环境中协调各功能性状采取相应的生态策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海岛是一个相对独立完整的生态系统，易遭到破坏且难以恢复，植被作为海岛生态系统的重要组成部分，易受到异质化生境因子的影响，有较突出的功能性状（黄柳菁等，2017）。如黄柳菁等（2017)学者对海岛和大陆植物功能性状进行对比，发现海岛植物为了适应强风、干旱、贫瘠的环境，植物以低矮灌木和草本为主，叶级明显小于大陆植物，叶片被毛且呈木质化和肉质化的特征。但是，目前国内对海岛的研究主要集中在植物区系和多样性方面（池源等，2015；叶志勇，2017；郑俊鸣等，2016），而基于海岛植物功能性状的研究较缺乏。因此，本文以平潭岛的森林植被为研究对象，通过测定茎功能性状和叶功能性状10个指标，以及地形和土壤9个环境因子。旨在探讨：(1)茎、叶植物功能性状的权衡关系在海岛森林群落呈现的特征；(2)土壤和地形因子对海岛森林群落水平植物功能性状的影响？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区域概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平潭岛作为福建省第一大岛屿，处于台湾海峡中北部（东经 $1 1 9 ^ { \\circ } 3 2 ^ { \\prime } - 1 2 0 ^ { \\circ } 1 0 ^ { \\prime }$ ，北纬$2 5 ^ { \\circ } 1 5 ^ { \\prime } - 2 5 ^ { \\circ } 4 5 ^ { \\prime } .$ ），是中国大陆最靠近台湾省的区域，地理位置十分特殊。平潭岛全年湿润温热，冬短夏长，雨量充沛，霜雪少见，无霜期达 $3 2 6 \\mathrm { d }$ ，属于南亚热带海洋性季风气候。年平均日照数为 $1 7 0 0 { - } 1 9 8 0 \\mathrm { h }$ ；年均气温为 $1 9 . 4 ^ { \\circ } \\mathrm { C }$ ；全年降水多集中于2—6月，年均降水量为 $9 0 0 { \\sim } 2 ~ 1 0 0 ~ \\mathrm { m m }$ ；年平均蒸发量（ $1 9 1 7 . 4 \\mathrm { { m m } }$ ）远超降雨量。据统计，全年7级以上大风 $1 2 5 { \\mathrm { ~ d ~ } }$ ，年平均风速达 $9 . 0 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ，7—9月受热带风暴影响较多。全岛淡水资源匮乏，江河水系稀缺。岛上土壤沙化，有机质含量低，土层稀薄，地表土流失严重。其土壤类型主要为砖红壤性红壤、盐土壤及风沙土等。岛上植被优势种明显，物种丰富度低，生境十分脆弱，群落结构简单。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 群落调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017年6—10月对平潭岛群落进行采集和取样，在对平潭岛森林植被进行大量踏查的基础上，随机选择16个样方，包括12个 $2 0 \\mathrm { m } { \\times } 2 0 \\mathrm { m }$ 的样方和4个 $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 的样方。测量所有胸径 ${ \\mathrm { \\mathop { : } } } \\geq 1 \\ { \\mathrm { c m } }$ 的乔木，并记录乔木的胸径、树高、冠幅；然后在乔木样方内沿对角线设置4个 $5 \\mathrm { m } { \\times } 5 \\mathrm { m }$ 的灌木样方，调查灌木的种类、株高、株数、基径和盖度；再在每个 $5 \\mathrm { m } { \\times } 5$ m 的灌木样方中心选取一个 ${ 1 \\mathrm { m } { \\times } 1 \\mathrm { m } }$ 的草本样方，调查草本的种类、盖度和株高。同时记录各样方的主要植被类型、物种名、物种数、物种高度、坡度、坡向和坡位，以及经纬度和海拔高度。各样地的基本概况及群落结构见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0107743459522fcd48fe82494f5c7f9d1d4387b0ba11222c444728304115b60.jpg",
+        "table_caption": [
+            "表1样地基本概况及群落结构",
+            "Table1 Basic information and structure of community of the sample "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2编号 Sample plot</td><td>海拔 Elevation</td><td>坡度 Slope</td><td>坡向 Aspect</td><td>坡位 Slope</td><td>群落结构 Community structure</td></tr><tr><td>WNo.</td><td>(m) 17</td><td>） 13</td><td>3</td><td>position 3</td><td>雀梅藤-铺地黍 Sageretia thea-Panicum repens</td></tr><tr><td></td><td>23</td><td>6</td><td>7</td><td>3</td><td>梵天花-雀稗Urena procumbens-Paspalum thunbergii</td></tr><tr><td>2 3</td><td>214</td><td>7</td><td>5</td><td>3</td><td>蓬藻-五节芒-地毯草 Rubus hirsutus-Miscanthus floridulus-Axonopus compressus</td></tr><tr><td></td><td>93</td><td>14</td><td>7</td><td>3</td><td>胡颓子-五节芒 Elaeagnus pungens- Miscanthus floridulus</td></tr><tr><td>5</td><td>13</td><td>4</td><td>2</td><td>3</td><td>湿地松-朴树-梵天花-弓果黍 Pinus elliotii-Celtis sinensis-Urena procumbens</td></tr><tr><td>6</td><td>21</td><td>9</td><td>8</td><td>2</td><td>湿地松-豺皮樟-栀子Pinus elliotti-Litsea rotundifolia-Gardenia jasminoides</td></tr><tr><td>7</td><td>59</td><td>23</td><td>2</td><td>1</td><td>黑松-滨柃-车桑子 Pinus thunbergi-Eurya emarginata-Dodonaea viscose</td></tr><tr><td>8</td><td>7</td><td>5</td><td>6</td><td>3</td><td>湿地松-木麻黄-梵天花Pinus elliottii-Casuarina equisetifolia-Urena procumbens</td></tr><tr><td>9</td><td>62</td><td>20</td><td>6</td><td>2</td><td>黑松-台湾相思-车桑子Pinus thunbergii-Acacia confuse-Dodonaea viscose</td></tr><tr><td>10</td><td>218</td><td>17</td><td>1</td><td>3</td><td>豺皮樟-滨柃-野牡丹 Litsea rotundifolia -Eurya emarginata-Melastoma candidum</td></tr><tr><td>11</td><td>94</td><td>35</td><td>3</td><td>2</td><td>滨柃-车桑子-野牡丹 Eurya emarginata-Dodonaea viscose-Melastoma candidum</td></tr><tr><td>12</td><td>13</td><td>11</td><td>8</td><td>2</td><td>麻棟-九里香-小蜡 Chukrasia tabularis-Murraya exotica-Ligustrum sinense</td></tr><tr><td>13</td><td>39</td><td>3</td><td>8</td><td>3</td><td>台湾相思-樟-豺皮樟 Acacia confuse-Cinnamomum camphora-Litsea rotundifolia</td></tr><tr><td>14</td><td>209</td><td>36</td><td>3</td><td>1</td><td>木麻黄-九节-五节芒 Casuarina equisetifolia-Psychotria rubra-Miscanthus floridulus</td></tr><tr><td>15</td><td>239</td><td>16</td><td>8</td><td>2</td><td>滨柃-豺皮樟-硃砂根 Eurya emarginata-Litsea rotundifolia -Ardisia crenata</td></tr><tr><td>16</td><td>91</td><td>24</td><td>8</td><td>2</td><td>台湾相思-赤楠-豺皮樟 Acacia confuse- Syzygium buxifolium -Litsea rotundifolia</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：海拔和坡度数据均以实际观测值表示。坡向数据是以朝东为起点（即为 $0 ^ { \\circ }$ ），顺时针旋转的角度表示，采取每 $4 5 ^ { \\circ }$ 为一个区间划分等级制的方法，以数字表示各等级1.北坡（ $2 4 7 . 5 ^ { \\circ } \\sim 2 9 2 . 5 ^ { \\circ }$ ）；2.东北坡0 $2 9 2 . 5 ^ { \\circ } \\sim 3 3 7 . 5 ^ { \\circ } .$ ）；3.西北坡（ $2 0 2 . 5 ^ { \\circ } \\sim 2 4 7 . 5 ^ { \\circ } .$ ）；4.东坡 $( 3 3 7 . 5 ^ { \\circ } \\sim 2 2 . 5 ^ { \\circ } )$ ）；5.西坡（ $1 6 7 . 5 ^ { \\circ } \\sim 2 0 2 . 5 ^ { \\circ } )$ ；6.东南坡 $( 2 2 . 5 ^ { \\circ } \\sim 6 7 . 5 ^ { \\circ }$ ）；7.西南坡（ $. 1 1 2 . 5 ^ { \\circ } \\sim 1 6 7 . 5 ^ { \\circ }$ ）；8.南坡（ $6 7 . 5 ^ { \\circ } \\sim 1 1 2 . 5 ^ { \\circ }$ ），显然数字越大，表示越向阳，越干热（张峰和张金屯，2003）。坡位数据1.上坡位；2.中坡位；3.下坡位。Note: Elevation and slope data are expressd by practical observations.The aspect data start with an eastwarddirection (i.e. $0 ~ ^ { \\circ }$ ). Rotating clockwise angle expresses that a method of classifying each 45 interval, and thenumbers represent each grade1. North slope $( 2 4 7 . 5 ~ ^ { \\circ } - 2 9 2 . 5 ~ ^ { \\circ } )$ ； 2. Northeast slope $( 2 9 2 . 5 \\ ^ { \\circ } - 3 3 7 . 5 \\ ^ { \\circ } )$ ; 3.Northwest slope $( 2 0 2 . 5 ~ ^ { \\circ } - 2 4 7 . 5 ~ ^ { \\circ } )$ ； 4.East slope $( 3 3 7 . 5 ~ ^ { \\circ } - 2 2 . 5 ~ ^ { \\circ } )$ ； 5. West slope ( $( 1 6 7 . 5 ~ ^ { \\circ } - 2 0 2 . 5 ~ ^ { \\circ } )$ ; 6.Southeastern slope $( 2 2 . 5 ~ ^ { \\circ } - 6 7 . 5 ~ ^ { \\circ } )$ ；7. Southwest slope $( 1 1 2 . 5 ~ ^ { \\circ } - 1 6 7 . 5 ~ ^ { \\circ } )$ ; 8. South slope $( 6 7 . 5 ~ ^ { \\circ } - 1 1 2 . 5 ~ ^ { \\circ } )$ L：Obviously,the larger number expresses that it is more positive,drier and hoter (zhang feng et al.，2O03). Slopeposition data1.top of slope; 2. middle of slope; 3.bottom of slope.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 植物功能性状的采集和测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1植物功能性状的采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算16个样地中乔木层、灌木层、草本层物种的重要值，对重要值占优势（大于0.1)的物种进行茎和叶片的采集。确定优势种后，在样地中选择5株或10株（乔木、灌木为5株，草本为10株）生长良好、发育成熟的个体，采集完全展开的当年叶片。此外，为了消除太阳位置对叶片氮含量的影响，从东南西北4个方向对叶片进行采集。乔木选取在树冠外层枝条上的叶片，灌木则采集植物个体较大且向阳的叶片。乔木和灌木一般先采下枝条，再用剪刀剪下叶片，草本则直接剪下叶片（均不带叶柄）。对于每一株植物，需采集 ${ \\boldsymbol { 5 } } \\sim { \\boldsymbol { 1 0 } }$ 片成熟且发育良好的叶片和 ${ \\boldsymbol { 5 } } \\sim { \\boldsymbol { 1 0 } }$ 根（ $\\scriptstyle 1 \\mathrm { c m } \\leq \\mathrm { D B H } \\leq 2 \\mathrm { c m } .$ ）枝条。样本采集时间为2017年7—9月。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2植物功能性状的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对植物功能性状进行测定。将新鲜叶片样品置于 $6 0 ^ { \\circ } \\mathrm { C }$ 的烘箱中烘至恒重，时间一般为$7 2 \\mathrm { { h } }$ ，后称取叶片干重；叶面积通过叶面积仪（LI-COR3100C Area Meter，LI-COR，USA）测定。选用精度为 $0 . 0 1 \\mathrm { m m }$ 的游标卡尺测量发育良好叶片的厚度，在叶片上沿主脉 $0 . 2 5 \\mathrm { c m }$ 处均匀选3个点进行测量，3个厚度的平均值即叶片厚度。茎样品去皮之后用水替代法测定其体积，随后置于 $1 0 3 ^ { \\circ } \\mathrm { C }$ 的烘箱，烘至恒重，一般为 $7 2 \\mathrm { { h } }$ ，后称取其干重。烘干后的叶片和茎样品进行碳、氮、磷含量的测定。碳、氮含量用元素分析仪测定（Isoprime vario ISOTOPEcube，Germany），磷含量通过钼锑抗比色法测定。所测得的10个植物功能性状指标及其公式和生态意义见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fde2c0559a189e83df2aed597445227cd02009d247004c893b19616c727020c.jpg",
+        "table_caption": [
+            "表2测定的10个植物功能性状指标及其公式、生态意义",
+            "Table 2List of the ten plant functional traits and formula, ecological meaning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植物功能性状 Plant functional trait</td><td>英文全称及缩写 English name and abbreviation</td><td>公式及单位 Formula and unit</td><td>生态意义 Ecological meaning</td></tr><tr><td>比叶面积</td><td>Specific leaf area, SLA</td><td>SLA(m²/kg)=叶面积(m²)/叶片干重(kg) SLA(m²/kg)= leaf area(m²)/leaf dry matter (kg)</td><td>反映植物获取光等资源的能力和在强光下的自 我保护能力。It reflects the ability of plants to acquire resources such as light and protect themselves under strong light.</td></tr><tr><td>叶干物质</td><td>Leaf dry matter content, LDMC</td><td>LDMC(g/kg)=叶片干重(g)/叶片鲜重(kg) LDMC(g/kg)= leaf dry matter (g)/ leaf dry fresh (kg)</td><td>反映植物获取资源的能力以及抵抗物理伤害的 能力。It reflects the ability of plants to acquire resources and resist physical damage.</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a03359b10a2c2121e4313a2fb36cd8ea5f86237f4800f6d9a1a4b26da6cbed8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>叶厚度</td><td>Leaf thickness,LT</td><td>LT(mm)=(Ni+N2+N3)/3</td><td>反映植物资源的获取与水分的保存。Itreflects the acquisition of plant resources and the preservation of water.</td></tr><tr><td>叶磷含量</td><td>Leaf phosphorus content, LPC</td><td>LPC(g/kg)=叶片全磷(g)/叶片干重(kg) LPC(g/kg)= Leaf total phosphorus (g)/ leaf dry matter (kg)</td><td>与植物的资源获、代谢和生长发育有关。Itis related to the resource acquisition, metabolism and growth of plants.</td></tr><tr><td>叶氮含量</td><td>Leaf nitrogen content, LNC</td><td>LNC(g/kg)=叶片全氮(g)/叶片干重(kg) LNC(g/kg)= Leaf total nitrogen (g)/ leaf dry matter (kg)</td><td>与最大光合速率、植物的代谢和生长发育能力有 关。 It is related to the maximum photosynthetic rate,plant metabolism and ability of growth and development.</td></tr><tr><td>叶碳含量</td><td>Leaf carbon content, LCC</td><td>LCC(g/kg)=叶片全碳(g)/叶片干重(kg) LCC(g/kg)= Leaf total carbon(g)/ leaf dry matter(kg)</td><td>是叶片组织的构建成本，与植物的生长发育能力 有关。It is the construction cost of leaf tissue and is related to the growth and development ability of plants.</td></tr><tr><td>茎组织密度</td><td>Stem tissue density, STD</td><td>STD(kg/mm³)=茎干重(kg)/茎体积(mm) STD(kg/mm³)= Stem dry matter (kg)/ Stem volume (mm3)</td><td>与植物竖向生长的结构支撑以及物质运输、防御 能力有关。It is related to the vertical structure support, material transportation and defense ability of plants.</td></tr><tr><td>茎氮含量</td><td></td><td>SNC(g/kg)=茎全氮(g)/茎干重(kg) Stem nitrogen content, SNCSNC(g/kg)= Stem total nitrogen (g)/ Stem dry matter (kg)</td><td>与最大光合速率、植物的代谢和生长发育、防御 能力有关。It is related to the maximum photosynthetic rate, plant metabolism, growth and development, and defense ability.</td></tr><tr><td>茎磷含量</td><td>Stem phosphorus content, SPC</td><td>SPC(g/kg)=茎全磷(g)/茎干重(kg) SPC(g/kg)= Stem total phosphorus (g)/ Stem dry matter (kg)</td><td>与植物的资源获、代谢和生长发育有关。Itis related to the resource acquisition, metabolism and growth of plants.</td></tr><tr><td>茎碳含量</td><td>Stem carbon content, SCC</td><td>SCC(g/kg)=茎全碳(g)/茎干重(kg) SCC(g/kg)= Stem total carbon(g)/ Stem dry matter (kg)</td><td>是叶片组织的构建成本，与植物的生长发育、防 御能力有关。It is the construction cost of leaf tissue and is related to the growth, development and defense ability of plants.</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4土壤取样 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土钻采集土壤样品，每个样地采用梅花五点取样法取5个直径为 $4 \\mathrm { c m }$ ，长度为 $2 0 \\mathrm { c m }$ 的土样。然后带回实验室进行化学性质测定，具体指标包括土壤含水量（water content,WC）、pH值（pHvalue）、有机质（soil organic matter，SOM）、全氮（total nitrogen，TN）、全磷（total phosphorus，TP）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物群落水平功能性状值（CWM）是测定物种水平的功能性状值，以物种多度为基础进行加权平均，从而得到各性状在群落水平的平均植物功能性状值。各群落的功能性状值由R3.5.0里面的FD软件包完成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了探讨茎、叶功能性状的相关性，运用Pearson进行相关分析。为了进一步验证植物功能性状与环境因子的关系，将植物功能性状值与环境因子做冗余分析（redundancyanalysis，RDA），分析由R.3.5.0的Vegan软件包完成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2．结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1植物功能性状的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，平潭岛植物功能性状的差异较大。尤其是 SLA、STD和 SPC变化幅度分别为 $3 3 . 0 1 \\mathrm { - } 1 . 0 1 ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathbf { k g } ^ { - 1 }$ ， $0 . 1 3 { - } 5 . 6 0 \\mathrm { k g } { \\cdot } \\mathrm { m m } ^ { - 3 }$ ， $0 . 0 1 { - } 0 . 8 8 \\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 } .$ 9",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2ed0100def6a6014bee5b5da97b6e57a21d5335b4463de689d211347e8d492a.jpg",
+        "table_caption": [
+            "Table 3 Changes of plant functional traits in the Pingtan Island "
+        ],
+        "table_footnote": [
+            "注：SLA．比叶面积；LDMC.叶干物质含量；LT.叶厚度；STD.茎组织密度；LPC.叶磷含量；SPC.茎磷含量；LNC.叶氮含量；LCC.叶碳含量；SNC.茎氮含量；SCC.茎碳含量。Note:SLA.Specific leaf area； LDMC.Leaf dry mater content; LT.Leaf thickness；STD.Stem tissue density;LPC.Leaf phosphorus concentration; SPC.Stem phosphorus concentration；LNC.Leaf nitrogen concentration;LCC.Leaf carbon concentration; SNC.Stem nitrogen concentration；SCC.Stem carbon concentration."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">比叶面积 SLA</td><td rowspan=\"2\">叶干物质 LDMC</td><td rowspan=\"2\">叶厚度 LT</td><td rowspan=\"2\">茎组织密度 STD</td><td rowspan=\"2\">叶碳含量 LCC</td><td rowspan=\"2\">叶氮含量 LNC</td><td rowspan=\"2\">叶磷含量 LPC</td><td rowspan=\"2\">茎碳含量 SCC</td><td rowspan=\"2\">茎氮含量 SNC</td><td rowspan=\"2\">茎磷含量 SPC</td></tr><tr><td></td></tr><tr><td>最小值Min</td><td>1.01</td><td>113.16</td><td>0.06</td><td>0.13</td><td>325.11</td><td>9.01</td><td>0.11</td><td>283.70</td><td>5.19</td><td>0.01</td></tr><tr><td>最大值Max 均值±标准误</td><td>33.01</td><td>708.66</td><td>1.07</td><td>5.60</td><td>518.81</td><td>54.95</td><td>1.84</td><td>492.15</td><td>16.62</td><td>0.88</td></tr><tr><td>Mean±SE</td><td>11.39±0.59</td><td>386.00±10.37</td><td>0.32±0.17</td><td>0.53±0.06</td><td>461.66±3.30</td><td>21.85±0.81</td><td>0.66±0.29</td><td>443.01±2.81</td><td>9.04±0.27</td><td>0.32±0.02</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤因子的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，平潭岛土壤TN含量高于全国平均水平（ $0 . 6 5 \\mathrm { g } \\cdot \\mathbf { k g } ^ { - 1 }$ ），但土壤TP含量低于全国平均含量（ $\\mathrm { \\langle 0 . 5 6 g ^ { \\cdot } k g ^ { - 1 } }$ ），平潭岛土壤缺乏磷含量，且土壤偏酸性。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd6b703c528fa6de9baf5d13f642a715b12d360bbbb9cf7cb3fac831e01ccc3e.jpg",
+        "table_caption": [
+            "表3平潭岛植物功能性状的变化情况",
+            "表4平潭岛土壤因子的变化情况"
+        ],
+        "table_footnote": [
+            "注： SOM.有机质；TN.全氮；TP.全磷；WC.土壤含水量；pH.pH值。Note:SOM.Soil organic mater; TN.Total nitrogen; TP.Total phosphorus; WC.Water content; pH.pH value。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>有机质 SOM</td><td>全氮 TN</td><td>全磷 TP</td><td>含水量 WC</td><td>pH值 pH</td></tr><tr><td>最小值Min</td><td>3.55</td><td>1.54</td><td>.05</td><td>1.26</td><td>4.20</td></tr><tr><td>最大值Max</td><td>41.38</td><td>3.22</td><td>.45</td><td>29.25</td><td>6.37</td></tr><tr><td>均值±标准误 Mean±SE</td><td>19.99±3.73</td><td>2.45±0.155</td><td>0.22±0.29</td><td>10.90±2.19</td><td>5.32±0.18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3茎、叶功能性状之间的相互关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对所有样地优势种的茎、叶功能性状进行Pearson 相关分析。结果表明（表5），SLA与 LPC、LNC 呈极显著正相关，与 SNC 呈显著正相关，与LT、LCC、SCC 呈极显著负相关，与LDMC 和 STD呈显著负相关；LDMC与SCC 呈显著正相关，与 SNC 呈极显著负相关，与LNC呈显著负相关；LT与STD呈显著正相关，与LNC呈极显著负相关，与LPC呈显著负相关；LPC与LNC、SNC呈极显著正相关；SPC与SNC呈极显著正相关；LNC与 SNC 呈极显著正相关；LCC与SCC 呈极显著正相关。总之，叶和茎的C、N、P含量均呈正相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/13e3c2586e94bcdc6b337a5557b48bb77df60bf808c639ef4305addc5c1933bb.jpg",
+        "table_caption": [
+            "Table 4Changes of soil characteristics in Pingtan Island ",
+            "表5茎、叶植物功能性状的相关性",
+            "Table 4Correlation of plant functional traits in stem and leaf "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>功能性状</td><td>叶干物质</td><td>叶厚度</td><td>茎组织密度</td><td>叶磷含量</td><td>茎磷含量</td><td>叶氮含量</td><td>叶碳含量</td><td>茎氮含量</td><td>茎碳含量</td></tr><tr><td>Functional traits 比叶面积 SLA</td><td>LDMC -.196*</td><td>LT -.471**</td><td>STD -.277*</td><td>LPC .281**</td><td>SPC .131</td><td>LNC .329**</td><td>LCC -.283**</td><td>SNC .217*</td><td>SCC -.458**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d2bc9b007403dd60a6388ca12562e054acc1dfb8b284bb3160414d8ec989434.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $^ { * * } P { < } 0 . 0 1$ ， $^ { * } P { < } 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>叶干物质</td><td rowspan=\"3\">1 -.152</td><td rowspan=\"3\">.195</td><td rowspan=\"3\">-.189</td><td rowspan=\"3\">-.050</td><td rowspan=\"3\"></td><td rowspan=\"3\">-.212*</td><td rowspan=\"3\">.153</td><td rowspan=\"3\">-.295**</td><td rowspan=\"3\">.227*</td></tr><tr><td>LDMC</td><td></td></tr><tr><td></td><td></td></tr><tr><td>叶厚度LT</td><td rowspan=\"2\">1</td><td rowspan=\"2\">.227*</td><td rowspan=\"2\">-.234*</td><td rowspan=\"2\"></td><td rowspan=\"2\">-.071</td><td rowspan=\"2\">-.282**</td><td rowspan=\"2\">.067</td><td rowspan=\"2\">-.122</td><td rowspan=\"2\">.206</td></tr><tr><td></td></tr><tr><td>茎组织密度</td><td></td><td></td><td>1</td><td></td><td></td><td>-.044</td><td></td><td></td><td></td></tr><tr><td>STD</td><td></td><td></td><td></td><td>-.112</td><td>-.002</td><td></td><td>.192</td><td>-.192</td><td>.182</td></tr><tr><td>叶磷含量LPC</td><td></td><td></td><td></td><td>1</td><td>-.101</td><td>.395**</td><td>-.032</td><td>.443**</td><td>-.094</td></tr><tr><td>茎磷含量 SPC</td><td></td><td></td><td></td><td></td><td>1</td><td>-.020</td><td>-.051</td><td>.336**</td><td>-.071</td></tr><tr><td>叶氮含量LNC</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>.083</td><td>.498**</td><td>-.072</td></tr><tr><td>叶碳含量LCC</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-.058</td><td>.491**</td></tr><tr><td>茎氮含量 SNC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-.081</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4植物功能性状和环境因子之间的关系",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过RDA排序，分析植物功能性状和环境之间的相关性（图1）。结果表明，土壤解释量为 $5 4 . 4 4 \\%$ ，其中土壤 SOM的影响最大，其次是 $\\mathfrak { p H }$ 、TP、TN、WC；地形因子的解释量为 $3 5 . 2 6 \\%$ ，其中坡位的影响最大，其次是坡度、坡向和海拔。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤与功能性状的关系（图1：a）：LNC、LPC、SNC 与土壤TP呈正相关；LT、LCC与土壤TN呈正相关；LDMC、STD与土壤 SOM和 TN呈正相关，与pH呈负相关；SLA与土壤pH呈正相关。地形因子与功能性状的关系（图1：b）：SLA、SPC 与坡位呈正相关，与海拔呈和坡度负相关；LNC、LPC 与坡向呈正相关；STD、LDMC、LCC 与海拔、坡度呈正相关，与坡位呈负相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/36ad598d734020e2dbf023ac82a53c145224c73afaf6a7a4b8a6add1fe97007a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：冗余分析（RDA）植物功能性状和环境之间的相关性：箭头连线及两个线段的夹角的大小表示植物功能性状和环境的相关性，连线越长，说明相关性越大，反之越小；夹角角度为 $0 ^ { \\circ } \\sim 9 0 ^ { \\circ }$ 之间时，两个变量之间呈正相关关系；当夹角角度为 $9 0 ^ { \\circ } \\sim 1 8 0 ^ { \\circ }$ 之间时，二者之间呈负相关关系；当夹角角度为 $9 0 ^ { \\circ }$ 时，表示二者没有显著的相关关系（丁佳等，2011）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Redundancy analysis (RDA)of the correlation between plant functional traits and environment: the arrow line and the size of the angle of the two-line segment indicates the correlation between the plant functional traits and the environment.The longer line shows thatthe correlation is greater,contrarily smallr.There is a positive correlation between the two variables when the angle is between $0 ^ { \\circ } \\ - 9 0 ^ { \\circ }$ . And a negative correlation between the two variables when the angle is between $9 0 ^ { \\circ } - 1 8 0 ^ { \\circ }$ .When the angle is $9 0 ^ { \\circ }$ ,there is no significant correlation between them (Ding et al.， 2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1海岛植被茎、叶功能性状之间的权衡关系",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "权衡关系是植物功能性状之间最普遍的联系，也称之为\"生态策略”，即植物经过自然筛选后形成最优的性状组合（Westoby etal.，2002；Diaz etal.，2004）。这种权衡关系主要包括叶性状和茎性状的相互关系。研究发现海岛植物功能性状 SLA与LPC、LNC 呈显著正相关，与LT、LDMC、STD、LCC 呈显著负相关，此结论与Wright et al.（2001）和 Reich et al（2001）的研究基本一致。SLA与植物潜在生长速率和光合速率相关（毛伟等，2012）；氮是光合蛋白的重要组成，与植物的光合作用相关密切（周志强等，2015）；磷是传递能量的三磷酸腺苷重要组成元素，参与光合产物的运输（赵文霞等，2016），所以 SLA、LNC、LPC 呈正相关，共同反映植物获取光资源的能力。相反，SLA与LDMC 呈负相关，LDMC的增加，即SLA的减小，使叶片内部水分向叶片表面扩散的距离和阻力加大，从而降低植物体内的水分散失（刘贵峰等，2017）。LT在植物生长方面起到重要作用，与植物获取资源、保存水分密切相关；STD是重要的茎功能性状，反映植物的生长速率和抵抗能力。SLA低的植物适合生长在贫瘠干旱的环境中，具有更厚的叶边缘或者更大的组织密度（Wright etal.，2004），植物体将更多的光合产物用于叶片防御器官的构建中，体现在加大LT和 STD，减小叶面积的生态策略上（Wrightetal.，2002）。同时，LDMC与LNC 呈负相关性，与李宏伟等(李宏伟等,2012)的结果一致，表明植物结构组织与资源分配之间的权衡，以及参与细胞过程蛋白质的分配，其中最重要的是光合作用（许格希等，2016）。本研究发现，茎、叶的C、N含量呈显著正相关关系，LPC与LNC、SNC呈显著正相关，这种关系表明植物N、P是协同元素，N、P之间的相互作用影响着植物的生态权衡（贺金生和韩兴国，2010)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤对海岛植物功能性状的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤是森林生态系统的重要组成部分，影响植物的生存和分布，对植物功能性状的塑造起着重要作用（柴永福，2016）。本研究发现土壤 SOM、pH、TP是影响海岛植物功能性状的主要因子，这与Chytry etal（2008）研究相符。平潭岛经常受到风暴潮、盐雾等自然灾害，土壤盐渍化严重。因此，土壤pH成为影响海岛植物功能性状的主要影响因子之一，其直接作用于土壤中元素的转换，不但影响植物对养分的吸收，而且影响群落的物种组成和功能性状的变异（张俊艳，2014）。土壤 SOM作为生态系统碳循环的重要组成部分，在叶片干物质及组成结构形成中有重要作用（康勇等，2017），使得LDMC与SOM呈正相关。另外，平潭岛土壤TP含量极度缺乏，一方面可能因为亚热带地区土壤高度风化，土壤P元素大量被铁铝氧化物吸附固定，植物吸收困难；另一方面平潭岛高温多雨，导致土壤P含量淋溶流失（曾晓敏等，2018)。致使P成为平潭岛森林群落的限制性营养元素之一，所以平潭岛植物功能性状对土壤TP含量的变化极为敏感（丁佳等，2011），LNC、SNC、LPC多个功能性状受土壤 TP含量的影响。植物功能性状作为一种有效工具来反映植物对土壤营养的利用机制（Orwin＆Bardgett，2010）。一般情况下，贫瘠环境中植物的 SLA较小，而资源丰富的环境中 SLA较大（Wright et al.，2002）。但本研究发现，SLA与土壤养分相关性较弱，可能是由于平潭岛干旱，太阳辐射较强，常遭到台风的袭击（张增可等，2017），海岛植物长期适应其环境形成小的叶片，用于减少被风清除和水分散失。这表明SLA的影响因素较复杂，除生境土壤养分外，还存在其他影响因子，如地形和气候以及物种的生物学特性（盘远方，2018）。本研究中STD与土壤SOM和TN含量呈正相关，此结果与康勇等（2017）研究一致。可能原因是土壤TN主要用于植物合成木纤维、木质素等物质，增强茎干的硬度（Wright et al.，2001）。其次，平潭岛常受强风影响，塑造了生长速度较慢，木材密度较高的物种，这些物种能改善生境条件，提高了土壤养分。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3地形对海岛植物功能性状的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "地形是多种环境因子的复合，温度、水分、土壤养分的变化集中体现在地形梯度的差异上，进而反映在植物功能性状的变化上（Loreau etal.，2001）。本研究发现坡位对海岛植物功能性状影响最大，其次是坡度、坡向和海拔。海拔对平潭岛植物功能性状影响最小，可能是因为调查样地的相对高程差较小（ $2 3 2 \\mathrm { m }$ ），水热条件下降不显著，植物的生长未受到海拔的限制。本研究结果表明，坡度和海拔与STD、LDMC、LCC呈正相关，与SLA、SPC呈负相关。坡度影响坡面的径流量和土壤侵蚀强度，间接影响土壤养分和水分的分布。海拔对植物功能性状的影响主要是通过海拔的上升，影响植物生长所需的温度、水分、 $\\mathrm { C O } _ { 2 }$ 等多种因子，导致植物生态适应性发生变化（Westobyetal.，2002）。随着坡度和海拔的上升植物倾向于减小SLA，增加LDMC、STD，将更多的资源投入防御组织，进而增大叶片的抵抗能力，用于抵御冲蚀引起的养分流失。在地形起伏的林地，不同的坡位会形成不同的生境，上坡位太阳辐射强烈、温度高、土层薄、土壤养分含量和土壤含水量较低，而中、下坡位的土壤养分含量均高于上坡位（杨士梭等，2014）。因而表现出上坡位至下坡位，SLA逐渐增大，STD、LDMC逐渐减小的趋势，此结果与祁建等（祁建等，2008）研究相符。坡向主要导致风向和太阳辐射的差异，使得不同坡向之间的光、热、水、土壤和植被的分布均受到影响。Wright＆Westoby（2001）指出越向阳，越干旱的区域植物LNC、LPC越高，与本研究一致。同时为了防止叶片水分散失，叶片通常表现为叶被毛、厚革质的特征，表现为坡向与LNC、LPC呈正相关，与LT呈负相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总之，相比大陆，海岛更易受到自然灾害的影响，生态系统脆弱，一旦遭到破坏且难以恢复。海岛植物为了适应其特殊的环境，协调茎、叶功能性状采取相应的生态策略。其中，土壤 SOM和坡位是影响海岛植物功能性状的主要环境因子。本文将大陆植物功能性状的研究扩展到海岛森林植被，更加有助于揭示海陆作用下海岛植物对环境的适应策略，旨在为海岛植物修复和重建物种筛选提供参考依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BU WS, ZANG RG, DING Y, et al., 2013.Relationships between plant functional traits at the community level and environmental factors during succession in a tropical lowland rainforest on Hainan Island, South China[J].Biodivers Sci,21(3): 278-287.[卜文圣，臧润国，丁易, 等，2013．海南岛热带低地雨林群落水平植物功能性状与环境因子相关性随演替阶段的 变化［J]．生物多样性，21(3)：278-287.]   \nCENG XM,FAN YX, LIN KM, et al.，2018. Characteristics of soil phosphorus fractions of different vegetation types in subtropical forests and their driving factors[J]. Chin J Appl Ecol, 29(07):2156-2162.[曾晓敏，范跃新，林开淼，等，2018．亚热带不同植被类型土壤磷组 分特征及其影响因素［J]．应用生态学报，2018，29(7)：2156-2162.]   \nCHAI YF, 2016. Community assembly during secondary forest successon on the Loess Plateau, China[D].Xi'an: Northwest University:1-139.[柴永福，2016．黄土高原森林次生演替过程 中的群落构建[D]．西安：西北大学：1-139.]   \nCHI Y,GUO Z, SHI HH, et al., 2015. Diversity and its impact factor of herbaceous plant on Nanchangshan Island in Shandong Province, China[J]. J Cent Chin Norm Univ (Nat.Sci.), 49(6):967-978.[池源，郭振，石洪华，等，2015．南长山岛草本植物多样性及影响因子 [J]．华中师范大学学报（自然科学版)，49(6)：967-978.]   \nCHYTRY M,MASKELL L C, PINO J,et al.， 2008. Habitat invasions by alien plants: a quantitative comparison among Mediterranean， subcontinental and oceanic regionsof Europe[J]. J Appl Ecol, 45(2): 448-458. CRAINE J M,LEE W G,2003. Covariation in leaf and root traits for native and non-native grasses along an altitudinal gradient in New Zealand[J]. Oecologia, 134(4): 471-478. DIAZ S, CABIDO M, 2001. Vive la difference: plant functional diversity matters to ecosystem processes[Review] [J]. Trend Ecol Evolut,16(11): 646-655. DIAZ S, CABIDO M, CASANOVES F, 2010. Plant functional traits and environmental filters at a regional scale[J]. J Veg Sci, 9(1): 113-122. DIAZ S, HODGSON J G, THOMPSON K, et al., 2004. The plant traits that drive ecosystems: Evidence from three continents[J]. J Veg Sci, 15(3): 295-304. DING J, WU Q,YAN H, et al.,2011. Effects of topographic variations and soil characteristics on plant functional traits in a subtropical evergreen broad-leaved forest[J]. Biodivers Sci, 19(2):   \n158-167.[丁佳，吴茜，闫慧，等，2011．地形和土壤特性对亚热带常绿阔叶林内植物 功能性状的影响[J]．生物多样性，19(2)：158-167.] HE JS，HAN XG，2010. Ecological stoichiometry: Searching for unifying principles from individuals to ecosystems[J].JPlant Ecol,34(1): 2-6.[贺金生，韩兴国，2010．生态化学计 量学：探索从个体到生态系统的统一化理论[J]．植物生态学报，34(1)：2-6.] HU YS, ME XY, LIU XH, 2014. The functional traits of forests at different succession stages and their relationship to terrain factors in Changbai Mountains[J]. Acta Ecol Sin，34(20):   \n5915-5924.[胡耀升，么旭阳，刘艳红，2014．长白山不同演替阶段森林植物功能性状 及其与地形因子间的关系[J]．生态学报，34(20)：5915-5924.] HUANG LJ, ZHANG ZK, ZHENG JM, et al., 2017. Functional Traits & Evolution Trend of Wild Plants in Continental Island --A Case Study of Pingtan Island [J]. J Trop Subt Bota， 25(5):   \n429-437.[黄柳菁，张增可，郑俊鸣，等，2017．大陆性海岛野生植物功能性状特征及 其演变趋势——以平潭岛为例[J]．热带亚热带植物学报，25(5)：429-437.] JAGER M M，RICHARDSON S J,BELLINGHAM P J,et al.， 2015.Soil fertility induces coordinated responses of multiple independent functional traits[J]. JEcol, 103(2): 374-385. KANG Y, XIONG MH, HUANG J, et al., 2017. Variation in woody plant functional traits of the tropical cloud forests in Bawangling,Hainan Island[J]. Acta Ecol Sin,37(5): 1572-1582.[康 勇，熊梦辉，黄瑾，等，2017．海南岛霸王岭热带云雾林木本植物功能性状的分异规律 [J]．生态学报，37(5)：1572-1582.] LI D,KANG SRL， ZHAO MY,et al.， 2016. Relationships between soil nutrients and plant functional traits in different degradation stagesof Leymus chinensis steppe in Nei Mongol, China[J].JPlant Ecol,40(10):991-1002.[李丹，康萨如拉，赵梦颖，等，2016．内蒙古 羊草草原不同退化阶段土壤养分与植物功能性状的关系[J]．植物生态学报，40(10)：   \n991-1002.] LI HW, WANG XA, GUO H, et al., 2012. Leaf functional traits of different forest communities in Ziwuling Mountains of Loess Plateau[J]. Chin JEcol,31(3): 544-550.[李宏伟，王孝安，郭 华，等，2012．黄土高原子午岭不同森林群落叶功能性状[J]．生态学杂志，31(3)：   \n544-550.] LIU GF, LIU YP, DA F, et al., 2017. Leaf traits of dominant plants of main forest communities in Daqinggou Nature Reserve[J].Acta Ecol Sin,37(14): 4646-4655.[刘贵峰，刘玉平，达福白 乙拉,等,2017.大青沟自然保护区主要森林群落优势种的叶性状[J].生态学报,37(14)：   \n4646-4655.]   \nLIU XJ, KA MP, 2015. Plant Functional Traits—Concepts,Applications and Future Directions [J]. Sci SinicaVitae,45(4):325-339.[刘晓娟，马克平，2015．植物功能性状研究进展[J]．中 国科学：生命科学，45(4)：325-339.]   \nLOREAU M, NAEEM S, INCHAUST P, et al., 2001. Biodiversity and Ecosystem Functioning: Current Knowledge and Future Challenges[J]. Science, 294(5543): 804-808.   \nMAO W, LI YL, ZHANG TH, et al., 2012. Research Advances of Plant Leaf Traits at Different Ecology Scales[J].JDese Res，32(1):33-41.[毛伟，李玉霖，张铜会，等，2012.不同尺 度生态学中植物叶性状研究概述[J]．中国沙漠，32(1)：33-41.]   \nORWIN K H, BARDGETT R D,2010. Linkages of plant traits to soil properties and the functioning of temperate grassland[J]. J Ecol, 98(5):1074-1083.   \nPAN FY, CHEN XB， JIANG Y， et al.，2018. Changes in leaf functional traits and soil environmental factors in response to slope gradient in Karst hils of Guilin[J]. Acta Ecol Sin, 38(05):1581-1589.[盘远方，陈兴彬，姜勇，等，2018．桂林岩溶石山灌丛植物叶功能 性状和土壤因子对坡向的响应[J]．生态学报，38(5)：1581-1589.]   \nQI J, MA KM, ZHANG YX, 2008. Comparisons on leaf traits of Quercus liaotungensis Koidz on different slope positions in Dongling Moutain of Beijing [J]. Acta Ecol Sin, 28(1): 122-128. [祁建，马克明，张育新，2008．北京东灵山不同坡位辽东栎(Quercus liaotungensis)叶 属性的比较[J].生态学报，28(1)：122-128.]   \nREICH P B, 2001. Body size, geometry,longevity and metabolism: do plant leaves behave like animal bodies?[J]. Trends Ecol Evol,16(12): 674-680.   \nTHUILLER W,LAVOREL S,MIDGLEY G, et al.， 2004.Relating Plant Traits and Species Distributions along Bioclimatic Gradients for 88 Leucadendron Taxa[J]. Ecology，85(6): 1688-1699.   \nWESTOBY M, FALSTER D S, MOLES A T, et al.， 2002. Plant Ecological Strategies: Some Leading Dimensions of Variation between Species[J]. Annu Rev Ecol Syst, 33(1): 125-159.   \nWRIGHT I J, CANNON K, 2001. Relationships between Leaf Lifespan and Structural Defences in a Low-Nutrient, Sclerophyll Flora[J]. Funct Ecol, 15(3): 351-359.   \nWRIGHT I J, REICH P B, WESTOBY M, 2001. Strategy shifts in leaf physiology, structure and nutrient content between species of high - and low - rainfall and high - and low - nutrient habitats[J]. Funct Ecol, 15(4): 423-434.   \nWRIGHT I J，REICH P B，WESTOBY M,et al.，2004. The worldwide leaf economics spectrum[J]. Nature, 428(6985):821-827.   \nWRIGHT I J, WESTOBY M, REICH P B, 2002. Convergence towards higher leaf mass per area in dry and nutrient-poor habitats has different consequences for leaf life span[J]. JEcol, 90(3): 534-543.   \nXU GX, SHI ZM, TANG JC, et al.， 2016. Functional diversity characteristics of canopy tree species of Jianfengling tropical montane rainforest on Hainan Island, China[J]. Chin J Appl Ecol,27(11):3444-3454.[许格希，史作民，唐敬超，等，2016．海南尖峰岭热带山地雨 林林冠层树种功能多样性特征［J]．应用生态学报，27(11)：3444-3454.]   \nYANG SS，WEN ZM， MIAO LP，et al.， 2014. Responses of plant functional traits to micro-topographical changes in hilly and gully region of the Loess Plateau, China[J]. Chin J Appl Ecol,25(12):3413-3419.[杨士梭，温仲明，苗连朋，等，2014．黄土丘陵区植物功 能性状对微地形变化的响应[J]．应用生态学报，25(12)：3413-3419.]   \nYE ZY,2017. Flora of seed plants in Pingtan Island,Fujian and efects of exotic plants[J]. Guihaia,37(03):280-293.[叶志勇，2017．福建平潭岛种子植物区系地理及外来植物对其 影响［J]．广西植物，37(3)：280-293.]   \nZHANG F, ZHANG JD,2003.Pattern of forest vegetation and its environmental interpretation in Zhuweigou,Lishan Mountain Nature Reserve[J]. Acta Ecol Sin, 23(3): 421-427.[张峰，张金 屯，2003．历山自然保护区猪尾沟森林群落植被格局及环境解释［J]．生态学报，2003， 23(3): 421-427.]   \nZHANG JY,2014. Characteristics of plant communities across the natural tropical coniferous forest-broadleaved forest ecotones in Hainan Island, China[D]. Beijing: Chinese Academy of Forestry:1-118.[张俊艳，2014．海南岛热带天然针叶林—阔叶林交错区的群落特征研究 [D]．北京：中国林业科学研究院：1-118.]   \nZHANG ZK, WANG Q, LIN L, et al., 2017. Evaluation and exploitation of resources of wild ormamental grass in Pingtan Island[J].Prat Sci，34(8):1576-1590.[张增可，王齐，林丽丽， 等,2017.平潭岛野生观赏草资源的评价及开发应用[J].草业科学，34(8)：1576-1590.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

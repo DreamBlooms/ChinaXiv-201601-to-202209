@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "绿色校园建设评价系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "辛宏妍 骆贤瑞钟华",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.华中科技大学土木工程与力学学院，武汉430074；2.武汉市第二中学，武汉430074；3.英国诺丁汉特伦特大学建筑设计与建设环境学院，诺丁汉NG14BU)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】校园是社会的重要组成部分，也是教书育人、为国家提供发展支撑力量的重要摇篮和基地。通过校园作为驱动社会发展的动力来提高资源的利用效率，缓解能源不足和环境污染等问题，以促进社会的可持续的发展。校园作为公共基础建设的一部分，具有设施多样、人口稠密、能源与资源消耗量大等特点，产生的污染量和能源消耗量非常可观。绿色校园建设受到广泛的关注，本文通过对比国内外的绿色评价体系，并结合《绿色校园评价标准》专注于评分标准适用于用计算机技术的平台，完成了绿色校园评价系统的总体框架设计与构建，讨论了绿色校园评价系统的各子系统的功能，系统的应用将对绿色校园建设起促进作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】绿色；校园；评价；系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】F205 【文献标识码】A 【文章编号】1674-7461（2016）01-0007-07  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.02",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1绿色校园建设概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据2014年全国教育事业发展统计公报统计，2014年全国共有各级各类学校51.4万所，全国各级各类学历教育在校生为2.6亿人，全国各级各类学校拥有校舍建筑面积总量达29.9亿 $\\mathbf { m } ^ { 2 }$ ，人均校园面积约为 $1 1 . 5 \\mathrm { m } ^ { 2 }$ 。校园人群密度大，设施多样，是社会能源消耗的大户。据国家能源局发布数据，2014年全社会用电量55233亿千瓦时，同比增长$3 . 8 \\%$ 。从中国来看其中大学的人均能耗指标明显高于全国居民的人均能耗指标。据初步统计，全国大学生生均能耗、水耗分别是全国居民人均能耗的4倍和2倍。这同时也预示着面对资源的巨大消耗，校园节能减排和自然生态环境的建设逐渐受到关注，校园蕴藏着的巨大的节能潜力，并且可以在节能减排方面为社会提供低碳行动计划的标准和经验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时随着学生人数的迅速增长，中国逐步增加对校园基础设施建设的投资，原有的基础设施和教育资源已经无法提供优质的教育环境，建设可持续发展的新型校园也提上日程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在国际上，英国作为率先提出低碳经济和世界上第一个制定可持续发展规划的国家，在绿色校园领域也有着很多成功的经验，2005年以诺丁汉特伦特大学（NottinghamTrentUniversity，NTU）为主导，在英国高等教育基金会（HEFCE)的支持下，研发了英国生态校园评价标准和奖评级体系（EcoCam-pus）。生态校园体系是针对高校和成人教育机构的阶段性环境管理和奖励体系。生态校园体系按照BS8555和ISO14001标准为EMS系统的开发提供了一个模块化、阶段性的改善办法。此体系对在环境可持续发展方面表现突出的高校给予认可生态校园计划还对资源有限或经验不足的教育机构给予技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中国，清华大学于1997年首先提的出创建“绿色大学”理念。之后国内其他高校也有将“生态”概念引入校园建设中。如广州大学在规划和环境营造方面贯彻生态优先原则，进行了植被调查和绿地系统规划，最大限度地保护自然生态环境。但是“绿色校园”这一概念在中国校园的实际应用还不足，对“绿色校园”的认识还只是停留在绿化与美",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "化的阶段上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此国内学者不断借鉴国外的先进经验对“绿色校园”进行研究。臧树良等人认为，绿色校园是根据生态学的科学的理论支撑而形成的完整的人工绿色生态系统[1]；张芳认为绿色校园可以理解为用可持续发展为理念指导构建，从而形成的生态良性循环的大学校园环境[2]；陈岳堂认为绿色校园是指在生态学原理的指导下，通过合理规划设计和建设实施，形成的具有特色文化和内涵的校园[3]。姜文杰等人认为绿色校园是指运用生态学的基本原理和方法规划、建设、管理及运行的人工生态系统，实现对能量的高效的利用[4]。虽然各个学者的定义不完全相同，但是他们都贯彻了可持续发展的思想。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此思想，绿色校园被认为是生态园林和生态城市建设的重要组成部分，也是21世纪高校校园环境建设和发展的必然趋势，绿地植物配置设计和人工植物群落的构建，不仅决定了校园绿地生态功能是否有效发挥，更是建设绿色校园的重要途径和手段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1953年人类学家斯图尔德在《进化和过程》中提出“生态文化”的概念，越来越多的学者关注生态的规划与应用，并将“生态”的概念应用到校园的规划与建设[5]。近年来“生态校园”在国际各个大学校园内进行了不断的尝试，如英国诺丁汉大学朱比利分校，将一个废弃的自行车工厂用地最终变成了一个充满自然生机的绿色校园，并将绿色校园的建设与精益建造联系起来。美国北卡罗莱纳州立大学新校区，结合校园的实际情况和考虑了对下游水体的影响，设计了校园排水体系，同时保护当地重要的树种和自然区域，增加天然植物群取代草皮，恢复当地的生物多样性设计[7]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态校园与绿色校园在定义上是属于两个不同的概念：生态校园是运用生态学的原理构建人工生态系统；绿色校园通常指学校在校园建设、管理以及在校人员日常行为等方面充分体现环境保护理念。从而生态校园评估和绿色校园评估的侧重点各有不同，生态校园侧重于对环境整体的能量的投入和输出的评价，整体的体系的生态建设；绿色校园侧重于绿色的理念在校园建设和运营中的体现和实现。但二者的核心思想都是可持续发展的理念。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2绿色建设评价指标体系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，校园建筑设施量大，涉及范围广，能源管理水平低，严重制约着绿色校园工作深人持久地开展，从规划、设计到运行都缺乏全面系统的可持续发展建设标准来指导和规范环保、节能、舒适的绿色校园建设[8.9。在评价指标研究的体系方面，美国、英国、澳大利亚等过国家和地区均有成熟的评价体系（详见表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ebafdc49431513565374d672e95988f6ccb3cbb9a2c3e2fc3a60a56a1199293.jpg",
+        "table_caption": [
+            "表1世界绿色评价体系标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>国家评价体系名称</td><td></td><td>评价指标体系</td></tr><tr><td>美国</td><td>LEED forSchool[10</td><td>可持续建筑场址、水资源利用、建筑节 能与大气、资源与材料、室内空气质量</td></tr><tr><td>英国</td><td>REEAMEduca- tion2008[11</td><td>管理、健康与舒适、能源、交通、水、材 料、废物、土地使用与生态、污染、创新</td></tr><tr><td>澳大 利亚</td><td>cat-ion[12]</td><td>GreenStarEdu-管理、室内环境质量、能源、交通、水、材 料、土地使用与生态、排放、创新</td></tr><tr><td>德国</td><td>DGNB[13</td><td>经济质量、生态质量、功能及社会、过程 质量、技术质量、基地质量</td></tr><tr><td></td><td>日本CASBEE14</td><td>Q（Quality）建筑环境质量和为使用者 提供服务的水平；L（Load）能源、资源 和环境负荷的付出。</td></tr><tr><td>台湾EEWH15</td><td></td><td>生态：生物多样性、绿化量指标、基地保 水指标 节能：日常节能指标 减废：CO减量指标、废弃物减量指标 健康：室内环境指标、水资源指标、污水</td></tr><tr><td>香港HKBEAM16</td><td></td><td>垃圾改善指标 场地、材料、能源、质量、创新与性能 改进</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于绿色校园评价指标体系的构建，不同的学者都有自己不同的看法。徐莉燕经过对国内外的建筑物的流行色性能的分析提出了以，资源消耗、环境荷载、室内环境品质和室外物理环境质量为评价指标体系的绿色奥运评估体系。陈岳堂等构建了以结构、功能、协调度三个方面框架的湖南农业大学绿色校园评价指标18。以东北大学为例，提出了用生态足迹方法分析学校内的能源消耗，其中包括能源、食物废弃物处理等几方面[19]。Kim等用案例分析来说明了绿色校园的具体应用于实施方法，并构建相应的管理组织进行管理[20]。姜新佩等人在构建绿色校园评价指标的时候结合了层次分析法和模糊综合评判法，并相应结合了专家分析法给出了指标权重[2。在英国以诺丁汉特伦特大学PeterRedfern博士为首的团队基于阻碍绿色校园建设的因素：如缺乏对ISO和EMAS标准体系的认识，员工缺乏相应的知识储备和能力，实施工具匮乏，耗费时间，过程复杂，文件管理工作增多，取得的成绩不被认可，缺少社会各层面的支持和激励因素等。而研发了生态校园体系。从而并针对各影响因素，研讨解决办法，使各机构从基础开始，根据的自身条件逐步达到国际标准要求。最终为各机构塑造良好形象，增强竞争优势，在主要领域实现成本节约，优化能源的使用，实现可持续发展，应对气候变化带来的挑战，并进一步改善机构的管理水平，更好的控制风险，适应国际法律法规的要求。此体系涉及的领域包括污染、浪费、能源、水、运输、碳排放、遵守法律和采购。并基于以下四个阶段进行指导，评估和评奖：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一阶段：规划（青铜）；  \n第一阶段：执行（银）；  \n第一阶段：经营（金）；  \n第一阶段：检查与纠正（白金）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文基于中国的《绿色校园评价标准》和借鉴国内外的成熟的指标体系的基础之上，梳理了一套适用于计算机评价的绿色校园评价系统的指标体系。计算机系统的设计具有系统和复杂性，复杂性来源于相互影响的需求和系统的高利用率，同时具有处理复杂性22。由于计算机评价指标的构建具有系统性原则和简明科学性原则。由《绿色校园评价标准》（CSUS/GBC04-2013）中的评价指标梳理出适用于计算机系统评价的指标。把节地与室外环境类指标归纳为“生态环境”；节能与能源利用、节水与水资源利用、节材与材料资源利用总结为“资源利用”；室内环境质量归纳总结为“环境质量”，施工管理与运营管理均不改变；最后借鉴香港（HKBEAM）增加创新项。总体评价指标如图1所示。评价参考标准分为“设计评价”和“运行评价”。评价指标分为控制项与评分项，控制项的评分标准为“满足”或“不满足”，评分项为打分项。评估体系",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "评价指标体系生态环境 资源利用 环境质量 运行管理 教育推广 创新项五类指标各自的评分项得分率Q1、Q2、Q3、Q4、Q5应按参评校园的评分项实际得分值除以理论上可获得的总分值计算。Q6为创新项分数，考虑到各类指标重要性方面的相对差异，计算总得分时引入了权重。所以总得分率应为五类指标评分项的加权得分率与加分项的附加得分率（Q6）之： $\\Sigma Q = \\mathbb { W } 1 { \\mathrm { Q } } 1$ $+ \\mathbb { W } 2 0 2 + \\mathbb { W } 3 0 3 + \\mathbb { W } 4 0 4 + \\mathbb { W } 5 0 5 + 0 6$ 。则为最后的总分，其中指标权重的设置参考《绿色校园评价标准》。当绿色建筑总得分分别达到50分、60分、80分时，绿色建筑等级分别为一星级、二星级、三星级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3绿色校园建设评价系统的设计与开发",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1绿色校园建设评价系统设计目的",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过绿色校园的评价可以引导大众对于环境可持续发展的关注，同时校园也对外传播环保的理念，使更多的人来持续关注节能减排。通过校园体系建立一个小型的生态环境，通过对学生的生态理念的教育，在全社会推广可持续发展的理念。从绿色校园评价指标体系可以看出：评价工作是一项具有很强综合性的系统工作，实施评价不仅需要评价方法与理论的支持还需要计算机技术的支持，评价结果也将形成大量有价值的数据。因此，设计和开发绿色校园建设评价系统是必要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2绿色校园建设评价系统功能设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绿色校园建设评价分为“设计评价”和“运行评价”，两者是相互独立的两个阶段的评价。绿色校园建设评价系统用于实现对校园的整体绿色建造体系的评估，主要包括三大部分，分别是基础数据库、项目评分与打分和结果公示与分析。系统整体框架如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eb891ba9e5d718d1623af612b614356959b79edcb18e1b5e4a7c1ebf0397cb9.jpg",
+        "img_caption": [
+            "图1评价指标体系框架图",
+            "图2绿色校园建设评价系统体系"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3绿色校园建设评价系统架构设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统框架是实现绿色校园评价系统建设的基础，根据系统要实现的功能、实施和运营的整体的规划。参考软件体系架构的层次划分原则进行总体上的规划，其结构如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/09535e9187877bf2f75060eb12a026622ede3ca07fab817b5cb035c53f237b3c.jpg",
+        "img_caption": [
+            "图3绿色校园建设评价系统体系系统框架图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）用户界面层",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要是负责与用户进行交互，实现人与计算机之间的交互。评价对象负责提供数据材料的录入，评分专家负责对所提供的材料进行评分、系统维护人员具有整个系统的权限，负责整个系统的日常维护与数据的处理。在本系统中，本层以WebForm界面实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）数据访问层 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据业务逻辑层发出的指令，与相应的数据库进行通讯，并处理数据反馈到业务逻辑层。本层提供统一的数据访问接口，装数据库完全封装到平台中，由数据访问层直接管理和数据库的连接和通讯，完全实现数据库对其它各层均透明，将安全隐患降到最降，而使用得数据处理效率达到最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)数据库",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要是评价评标体系的录人而形成的整个评价体系的基础、专家信息库、项目信息库。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4绿色校园建设评价系统子系统功能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统采用JAVA语言，并采用稳定的SQLServer数据库技术，基于J2EE、WebServices等技术构建分布式多层结构；运用与平台无关的XML数据传输和交互技术，实现业务模型资源与系统实现技术的分离，保证系统的技术无关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 基础数据库",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基础数据库包括了评价评价指标的维护、评分专家库、评价标准等文件下载等几大功能模块。评价指标的录入包括了项目基本信息、生态环境、资源利用、环境质量、运营管理、推广教育和创新项几个部分。本评估系统的评价指标可分为定性指标和定量指标两种指标。定性指标是不需要特定的算法进行数据分析，一般通过专家评估指数或者设计图纸等一系列文字说明予以确定指标性能表现；而定量指标需要专业的算法进行分析，或者通过软件对校园建筑的某项性能表现值进行提取和分析，再对性能表现值，据评分标准进行打分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评分专家库则是录人评分专家的基本信息，并查看专家的历史评分记录，对项目的评价有一定参考价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评价指标等标准文件下载：主要包括《绿色校园评价标准》等系列文件。常用资料下载模块是系统对用户设定的辅助模块，主要作用是为用户提供资源、标准等文件下载，辅助专家进行评分。这部分信息是对于以往的绿色校园评价的研究案例以及研究成果的收集，和绿色校园相关标准的收录。并对这些信息进行分类整理，形成系统中的常用资料下载模块，当专家有需求时，可以进人该模块，在列表中选择需要的案例或者标准，然后进行下载，查阅，对自己的评分过程提供一个参考意见。常用下载模块的设置，为用户提供了更多的参考信息，更加方便了评分工作的进行，也极大地提高了工作效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.2项目的评分与打分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模块的主要作用是填报各种源文件与评价数据，并对信息进行管理。填报人员根据项目的实际情况在评分系统里面，填报项目数据，填报好数据之后，转向下一流程，即专家打分阶段在此基础上对系统中的各种信息进行统一的管理和处理，以保证信息的准确性、唯一性和安全性。项目的评分标准均按《绿色校园评价标准》（CSUS/GBC04-2013）执行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模块需要专家现场考察打分的模块，可以随时从系统里面查阅相关的打分标准说明。根据评价标准文件时段信息，组员列表选择想看的文件进行评阅。专家对项目资料进行审阅之后，在系统中展示的一个评分表格中选择自己的评阅结果，例如，控制项中是满足或者不满足，评分项中具体打分，以此作为专家的评阅结果，以待后用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评分结果处理的是本系统的重要部分，其主要作用是对各项指标的结果进行汇总，评定校园的绿色等级。在评完分后，评分表格会提交到服务器上，系统会根据设定的评分指标进行汇总，然后最后得出一个总分。这就是评分处理过程。在系统设计时，会对评分指标进行合理设置，以便于数据的处理和结果的汇总，这是得出结果的重要一步。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.3 结果应用与公示",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可按地区查询历史数据。按地区和按城市把项目评分等级显示。并可以通过数据分析对比查看地区之间的不用而评分不同。也可直接选定两个项目进行对比分析。并可以下载分析结果报告。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5 案例演示",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "登陆界面如图4所示，用户根据分到的不同的权限的账户和密码进行登录系统。其中系统管理员具有全部权限。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a9c81353249424870be1742ccf3130cdcf14b9deb5a7b6ce89c24da607468f5.jpg",
+        "img_caption": [
+            "图4绿色校园建设评价系统登录界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "系统管理员在基础数据库一评价指标维护功能下面对评价指标进行增加，修改和维护。构建整个评价系统的评价指标体系。如图5所示，可以在这个功能子块查看到指标的大类、指标分类、内容、评价方评价标准，并可以根据需求进行增加、删除、修改和查看等功能的操作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "绿色校园建设评价系统 分  \n星础助配库项目的许分与打分第要公示与用询作门 的.2- \\`大 分费 神价方点 e 作1临 经 X 2 on10F X21 1 2 XH≤ <1F S% X2生心 ↓9 b X工 v G  \n直【】",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在基础数据库—专家数据库界面下，专家通过填报自己的基本信息，确保评价工作的科学性严谨性，填报个人基本信息，如姓名、性别、身份证号、工作单位和职称等。如图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9baf1690a40d263b01e39c6019392f07ba98506b53d787ed7233ed22e0401f5e.jpg",
+        "img_caption": [
+            "图6绿色校园建设评价系统专家数据库界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在项目评分与打分一项目基本信息功能下，填报项目基本信息，之后可供查看与修改。项目是系统评价的对象，评价对象的基本信息是系统建立的最基本的数据。界面如图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5a596a3d76512b0cb4ee8741082d862c5efc4dc7a858a999f79e064aabf5e8d.jpg",
+        "img_caption": [
+            "图7绿色校园建设评价系统项目基本信息录入界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在基本信息录入系统之后，就根据评价指标体系填报评价对象的数据，如图8所示。根据评价指标体系的规划与生态部分的几个指标，联系评价对象的实际情况填写数据，并可以对数据进行删除和修改和查看等操作。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/326d7745a28c3dc729ee0a1d61bd128dcbd84483edb84fb1eded8de82054c661.jpg",
+        "img_caption": [
+            "图5绿色校园建设评价系统评价指标维护界面",
+            "图8绿色校园建设评价系统项目评分数据录入界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在项目进行数据的输入之后，专家进入专家评分项目进行评分，根据评分的规则，查看项目的填报数据，进行给分。如图9所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "绿色校园建设评价系统 江圣斌财阳传 项目的计分与打分事示与用生态环信询茶们rg. B3□cF < 1大夫 标分类 内 讲分标 料 #81 经制 7.2 经 下亮生 江 同第，A约事行六通明工 N品工心 L7t10 份 5  \n：【意中】",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "绿色校园建设评价系统的分与打分 累公示与时用生环询条件型+ ·型名.3 81]， 8.3 k 1 1大灸 分 分标 收资件 9工 不两 R R7 XHE e2H 经项 尺不 双 m XE2U210 8.5 1 X工 分 1 XEt) 二票 Ks = XH10 H sv ： XH用【中C",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "出现武汉地区全部评分的项目，并可以查看结果，根据统计结果出现地区评分等级的饼状图，如图12所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在专家打分之后，根据每项的分项得分之后汇总成为一个总分记录表，并给出评分等级。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee048e20e9a7a8cce9439fbbdd30c726b085c9cd553625a301e2d19a5b05f39e.jpg",
+        "img_caption": [
+            "图12绿色校园建设评价系统结果公示与应用界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2932cd2e9d3b46127da96c8ac46745d315a039e983a6776ba461fca8ec8f4cd.jpg",
+        "img_caption": [
+            "图9绿色校园建设评价系专家打分体系界面1",
+            "图11绿色校园建设评价系总分计算界面",
+            "图10绿色校园建设评价系专家打分体系界面2"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在总分计算之后，在结果公示与应用界面可以查看评分结果，点击地图上的武汉，则可以在右边",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对校园的绿色评价，可以提升整体的环保意识。通过对校园的绿色评价，促进校园生态体系的可持续发展。并且发挥校园在社会中起到的教育和引领作用，推动全社会可持续的发展。开发和实施绿色校园建设评价系统，是保障绿色校园建设评价工作能够高效、科学有序进行的重要工具。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是中国的绿色环保工作起步晚，并且推行力度不够，大众的环保意识不强。对于校园的绿色评价体系还不够完善，评价过程的管理制度不统一。中国在校园绿色评价的管理制度和评价方法方面还有很大的提升空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］臧树良，陶飞.生态校园探析[J].辽宁大学学报：哲学社会科学版.2004，32（4）：21-25.  \n［2］张芳．浅析以数字化管理为导向的城市园林管理一以天津市和平区为研究对象［J].天津农林科技.2012(05):28-30.  \n[3］陈岳堂，高志强，长沙等.生态校园评价体系的探讨[J].中国农业教育.2004(04）：13-15.  \n［4］姜文杰，德强，李亮等.高等学校生态校园建设探析[J].才智.2015(25)：102.  \n［5］杜惟玮，张宏伟，钟定胜.生态校园建设的现状与发展趋势[J].四川环境.2005(03）：30-34.  \n[6]DuesCM,TanKH,LimM.GreenastheNewLean:HowtoUseLeanPracticesasa Catalyst to GreeningYour SupplyChain[J].Journal of Cleaner Production.2013,40:93-100.  \n[7]GengenbachL.Putting Theory Into Practice：TheGreenScene-Biological Engineering Students Pursue Sustain-abilityOnCampus,TurningNorthCarolinaatBlue-and-GoldInto Green[J].Resource:Engineering and Technolo-gyforSustainableWorld.2011，18(4）:7-9.  \n[8］吴志强，汪滋淞.绿色校园——为了我们共同的未来—中国绿色建筑与节能专业委员会绿色校园学组工作[J].建设科技.2013（12）：16-19.  \n[9］吴志强，汪滋淞.《绿色校园评价标准》编制要点及评估案例[J].建设科技.2013(06）：82-86.  \n[10]Council USGB.Leed for Schools-New Construction V2009-Current Version[EB/OL].2013http://cn.usgbc.org/sites/default/files/LEED $\\%$ $2020 0 9 \\%$ 20RS_SCH04.01.13_current.pdf.  \n[11]Breeam.Code fora Sustainable Built Environment[EB/OL].2012http://www.breeam.com/filelibrary/Techni-cal%20Manuals/SD5051_4_1_BREEAM_Education_2008.pdf.  \n[12]廉芬.国内外绿色办公建筑评价体系对比研究[D].华侨大学，2012.  \n[13]DenmarkGBC.AnIntroductiontoDgnb[EB/OL].2012http://www.dk-gbc.dk/media/67284/dgnb_dk-gbc_oct_2012.pdf.  \n[14]ConservationIFBE.Casbee(Comprehensive AssessmentSystemfor BuildingEnvironmental Efficiency）[EB/OL].2014http://www.ibec.or.jp/CASBEE/english/download/CASBEE-BD(NC)e_2014manual.pdf.  \n[15］林宪德.台湾的绿色建筑与生态城市研究[J].动感（生态城市与绿色建筑）.2010(01）：24-29.  \n[16]SocietyH.HongKongBuildingEnviromental AssessmentMethod[EB/OL].2004htp://www.beamsociety.org.hk/files/_4%\\~04%20New%20Buildings%20( $F u l l \\%$ 20Version).pdf.  \n[17]徐莉燕.绿色建筑评价方法及模型研究[D].同济大学，2006.  \n[18]陈岳堂.生态校园规划设计研究与应用[D].湖南农业大学，2003.  \n[19]WangQ,DingY,LiGJ,etal.Applicationof theCompo-nentialMethod forEcological Footprint Calculation ofaChineseUniversity Campus[J].Ecological Indicators.2008,8(1):75-78.  \n[20]KimDH,LeeH,JeonKE,etal.ACase StudyOn theGreen Campus Operating System-Focused On the GreenCampus Support Institutionsof the United Statesand Har-vardUniversity-[J].JournalofKorean InstituteofEduca-tionalFacilities.2013,20（4）.  \n[21］姜新佩，庞力，郑保.基于模糊层次综合评判法的高等学校生态校园评价[J].数学的实践与认识.2012(01):41-51.  \n[22]JeromeH.Saltzer,M.fashoek.PrinciplesofComputerSys-temDesign[M].北京：清华大学出版社，2012.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Green Campus Construction Evaluation System ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "XinHongyan1,Luo Xianrui²,ZhongHua ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1.SchoolofCivilEngineering&Mechanics,HuazhongUniversityofScience&Technology,Wuhan43o4,China; 2.Hubei WuhanNo.2 Middle School,Wuhan430O74,China;3.SchoolofArchitectureDesign and theBuilt Environment,Nottingham Trent University,NottinghamNG14BU,the UnitedKingdom) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Campus isanimportant part of thesociety,aswellasanimportant cradleandbaseforteachingand providing support forthedevelopmentof thenation.Inorder topromote thesustainabledevelopmentofsociety,campusasadriving force isused toimprove theeficiencyofresourceutilizationandtoalleviatetheenergyshortageand environmentalpollution problems.Campus,asapartof publicinfrastructure，has suchcommoncharacteristicsasdiversitiedbuilding functions,densepopulationand largeenergyconsumption.Thepollution loadandenergy consumptionarevery considerable.Green campusconstruction hasdrawn widepublicatlention,andthispaper systematically discusses greencampus evaluation index andevaluation systembycomparing theindex athomeandabroad.According to GreenCampusEvaluationStandard,itputsforwardtheevaluationindexsystemofgreencampusconstructionapplicable tothecomputertechnologyplatformAndonthisbasis,itcompletestheframedesignandconstructionofthegreencampus evaluation system,discusses each sub-system functions of green campus evaluation system. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Green；Campus；Evaluation；System ",
+        "page_idx": 6
+    }
+]

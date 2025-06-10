@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Probing topcolor-assisted technicolor from top charge asymmetry and triple-top production at the LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han $_ { . } ^ { 1 , 2 }$ ， Ning Liu $^ { 1 }$ ，Lei Wu $^ 2$ ， Jin Min Yang²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 }$ Physics Department, Henan Normal University， Xinxiang 453007, China ² State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 10019o， China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In a topcolor-assisted technicolor model (TC2) with large FCNC top quark couplings, we study its correlated contributions to the top quark forward-backward asymmetry ${ \\bf \\nabla } ( A _ { F B }$ ）at the Tevatron, the top charge asymmetry ( $A _ { C }$ ）and the triple-top production at the LHC.Under current constraints on the top quark from the LHC and Tevatron (such as the total and diferential production rates), we scan the parameter space of such a TC2 model. We find that in the alowed parameter space the TC2 model can explain the Tevatron measured ${ A _ { F B } }$ at $2 \\sigma$ level, but meanwhile significantly enhance $A _ { C }$ at the LHC. Such enhanced $A _ { C }$ , albeit currently allowed by the LHC measurement at （204号 $2 \\sigma$ level,will serve as a test of TC2 with the improvement of measurement precision at the LHC. Then with all the constraints (including the requirement to explain ${ A _ { F B } }$ at $2 \\sigma$ level and satisfying the current LHC measurement of $A _ { C }$ at $2 \\sigma$ level)，we find that the TC2 model can induce sizable triple-top production at the 14 TeV LHC (the production rate can maximally reach 16 pb). Due to the low SM backgrounds, the triple-top production can also be a good probe for TC2 model, complementary to $A _ { C }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.65.Ha,12.60.Nz ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the heaviest particle observed so far, top quark is speculated to play an important role in probing new physics beyond the standard model (SM) [1]. Since its discovery, many of the top quark properties have been firmly established. And most of the measurements agree well with the SM predictions, except for the top quark forward-backward asymmetry （20 ${ \\cal A } _ { F B }$ reported at the Tevatron [2,3]. The CDF Collaboration measured ${ A _ { F B } }$ based on an integrated luminosity of $5 . 3 ~ \\mathrm { f b ^ { - 1 } }$ and obtained $A _ { F B } ^ { t } = 1 5 . 0 \\pm 5 . 5 \\%$ [2],which is larger than the SM prediction O.056(7)[4]. Such an anomaly has been tried to be explained in various new physics models [5, 6], such as the models with $Z ^ { \\prime }$ [7]， $W ^ { \\prime }$ [8] and exotic scalars [9, 10]. In these models, the new favor-changing interactions are usually invoked and will lead to other phenomenologies, such as the like-sign top pair production [11] and single top production [12,13],which can be tested at the LHC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a concrete dynamical electroweak symmetry breaking model, the topcolor-assisted technicolor (TC2) is recently found to be capable of accounting for the top quark forwardbackward asymmetry [14]. In TC2 [15] the electroweak symmetry breaking (EWSB） is mainly driven by the technicolor interaction. All ordinary quark and lepton masses, including a very small portion of the top quark mass,are provided by the extended technicolor. While the topcolor interactions give rise to the main part of the top quark mass and also make small contributions to the EWSB. As is well known, the topcolor interactions are non-universal [16] and thus cause the tree level flavor-changing neutral-current (FCNC) interactions for the top quark. These new FCNC interactions between up quark and top quark can contribute to （204号 ${ \\cal A } _ { F B }$ in the $t t$ production at the Tevatron through $t$ -channel mediated by the new scalars (toppion,top-higgs） and vector bosons (top-rho) at tree level [14]. With such a contribution, the discrepancy between the experimental result and the SM prediction of ${ A _ { F B } }$ can be significantly reduced. On the other hand, we note that any attempts to solve the problem of ${ \\cal A } _ { F B }$ must satisfy other experimental measurements on the top quark, such as the recent LHC measurements on the $t t$ total cross section [17], the differential cross section [18,19] and the like-sign top pair production [2O]. The LHC has also performed a measurement on the top charge asymmetry [21, 22], which is considered as a direct test of the anomalous $A _ { F B }$ （204号 at the LHC [23]. In our analysis, we will consider all current constraints from the LHC and Tevatron and examine the correlation between ${ \\cal A } _ { F B }$ at the Tevatron and $A _ { C }$ at the LHC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Further more，we note that the FCNC interactions in the TC2 model will inevitably induce the triple-top $( t t \\bar { t } + t \\bar { t } t )$ production at tree level. Therefore,we will study the TC2 contribution to the triple-top production at the LHC with $\\sqrt { s } = 1 4$ TeV while requiring TC2 to solve the ${ A _ { F B } }$ anomaly. In the SM, the triple-top can be produced in association with a $W$ boson or a jet at leading order,and the production rates are very small [24]. The pure triple-top production (without a $W$ or a jet） is forbidden by the GIM mechanism at tree level, and highly suppressed by the non-diagonal elements of the Cabibbo-KobayashiMaskawa (CKM) matrix at the one-loop level. On the contrary, in TC2,due to the large couplings between the top quark and new scalars and vector boson, the pure triple-top can be copiously produced and may be accessble at the LHC. Therefore, the triple-top production may provide a new way to test the TC2 model at the LHC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. II, we briefly outline the relevant features of the TC2 model. Then in Sec. II we work in TC2,and present the correlation between $A _ { F B }$ （204 and $A _ { C }$ , and discuss the triple-top production and its kinematical distributions. Finally, we draw our conclusion in Sec. IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. THE TC2 MODEL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Technicolor is a dynamical theory for electroweak symmetry breaking by condensing fermion bilinears in the vacuum. It can provide a natural way to explain the weak scale, but is difficult to generate fermion masses, in particularly, the heavy top quark mass. On the other hand, the topcolor can produce the large top quark mass but with an incomplete explanation of EWSB. In order to overcome these diffculties, the topcolor-assisted technicolor model (TC2) combining the technicolor interaction with the topcolor interaction was proposed [15]. In this model, there are a number of pseudo-Goldstone bosons (PGBs) at the weak scale, such as the neutral top-pion $\\pi _ { t }$ . These PGBs can induce the tree level top quark FCNC interactions arising from the top quark mass term [25]. In addition, the new strong interactions can greatly enhance the flavor conserving top quark interaction with $\\pi _ { t }$ . Therefore, these new interactions can not only affect the top pair productions through $t$ channel at tree level and $s$ channel at loop level， but also lead to a sizable triple-top production. The relevant interactions are given by [14] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { \\pi _ { t } } = i g _ { t t \\pi _ { t } } ( \\pi _ { t } \\bar { t } \\gamma ^ { 5 } t ) + i g _ { t u \\pi _ { t } } ( \\pi _ { t } \\bar { t } _ { L } u _ { R } ) + i g _ { t c \\pi _ { t } } ( \\pi _ { t } \\bar { t } _ { L } c _ { R } ) + h . c .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here $g _ { i j \\pi _ { t } } = m _ { t } / f _ { \\pi } U _ { i j } ^ { R }$ ， $U _ { i j } ^ { R }$ is the rotation matrix that transforms the weak eigenstates of the right-handed up-type quarks to their mass eigenstates, and $f _ { \\pi }$ is the vacuum value of top condensate which is about 6O GeV in the NJL model. However, the indirect constraint from $Z \\to b b$ requires that $f _ { \\pi }$ is larger than 100 GeV [26]. In addition, the TC2 model also predicts a CP-even scalar called the top-Higgs $\\left( h _ { t } \\right)$ . Since the top-Higgs and neutral top-pion are respectively the real part and imaginary part of one complex scalar in the linear sigma model, the couplings of the top quark with the top-Higgs are given by [14] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { h _ { t } } = g _ { t t h _ { t } } ( h _ { t } \\bar { t } t ) + g _ { t u h _ { t } } ( h _ { t } \\bar { t } _ { L } u _ { R } ) + g _ { t c h _ { t } } ( h _ { t } \\bar { t } _ { L } c _ { R } ) + h . c .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { i j h _ { t } }$ is the coupling of $h _ { t }$ to the up-type quarks and $g _ { i j h _ { t } } = g _ { i j \\pi _ { t } }$ . In our study, we also consider the lightest vector excitation of the top condensate, the top-rho,whose coupling to $t \\bar { t }$ is assumed to be a free parameter [27]. After rotating the up-type quarks to the mass eigenstates,we can obtain the FCNC interactions between top quark and top-rho [14] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { \\rho } = g _ { t t \\rho } \\rho _ { \\mu } { \\bar { t } } \\gamma ^ { \\mu } t + g _ { t c \\rho } \\rho _ { \\mu } { \\bar { t } } _ { R } \\gamma ^ { \\mu } c _ { R } + g _ { t u \\rho } \\rho _ { \\mu } { \\bar { t } } _ { R } \\gamma ^ { \\mu } u _ { R } + h . c .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { i j \\rho }$ is the coupling of top-rho to the quarks. Due to the larger masses for the higher excited states of $t t$ condensate， we will not discuss them for the purpose of solving the problem of ${ A _ { F B } }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As discussed in [14], a sizable $u _ { R } - t _ { R }$ mixing does not conflict with the low energy favor physics constraints (such as $D - D$ mixing and the $B - B$ mixing） given that other flavor mixings are suppressed. In our analysis, we assume only a large $g _ { t u \\pi _ { t } / h _ { t } / \\rho }$ and $g _ { t c \\pi _ { t } / h _ { t } / \\rho } = 0$ （204 for simplicity [14]. Since the masses of top-Higgs and top-pion can not be calculated from the theory， we take them as free parameters and further assume they are equal to avoid the constraints from the like-sign top pair production at the LHC and Tevatron. For the exited state top-rho, it is reasonable to set its mass above the ground state top-Higgs [27]. Although the current data of the LHC and Tevatron through $W W$ and $Z Z$ channels have excluded a heavy mass range for the SM Higgs [28], they are not applicable to the TC2 scalars (top-pion and top-Higgs) because they are responsible for a small part of the EWSB. For the top-pion， the parity conservation forbids the couplings of $\\pi _ { t } W W$ or $\\pi _ { t } Z Z$ ； while for the top-Higss, its couplings to the electroweak gauge bosons $W$ and $Z$ at tree level are suppressed by a factor of $f _ { \\pi } / v _ { w }$ compared with the SM Higgs couplings [15] ( $v _ { w } = 1 7 4$ GeV is the electroweak vev). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our calculations we take the SM parameters as [29] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { t } = 1 7 5 \\mathrm { G e V } , m _ { Z } = 9 1 . 1 9 \\mathrm { G e V } , \\sin ^ { 2 } \\theta _ { W } = 0 . 2 2 2 8 , \\alpha = 1 / 1 2 8 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We use the parton distribution function CTEQ10L [30l with renormalization scale and factorization scale $\\mu _ { R } = \\mu _ { F } = 2 m _ { t }$ for $t t$ production and $\\mu _ { R } ~ = ~ \\mu _ { F } ~ = ~ 3 m _ { t }$ for triple-top production. We scan the parameters in the following ranges ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { 2 0 0 \\mathrm { G e V } < m _ { \\pi _ { t } / h _ { t } } < 5 0 0 \\mathrm { G e V } , \\ 5 0 0 \\mathrm { G e V } < m _ { \\rho } < 8 0 0 \\mathrm { G e V } } } \\\\ { { 1 . 2 < \\left( g _ { t t \\pi _ { t } } , \\ g _ { t t h _ { t } } , \\ g _ { t t \\rho } \\right) < 3 . 3 , 0 . 5 < \\left( g _ { t u \\pi _ { t } } , \\ g _ { t u h _ { t } } , \\ g _ { t u \\rho } \\right) < 1 . 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here the upper bounds on the flavor conserving couplings are based on the requirement of perturbativity and the lower bounds are taken from [14] which are obtained from the consideration of explaining ${ A _ { F B } }$ and avoiding large same sign top production. In our study, we consider the following constraints from the LHC and Tevatron: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(i)The $t t$ cross sections: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tevatron: based on $4 . 6 f b ^ { - 1 }$ luminosity data, the $t t$ total cross section measured by CDF Collaboration is $\\sigma _ { e x p } ^ { t t } = 7 . 5 0 \\pm 0 . 3 1 _ { s t a t } \\pm 0 . 3 4 _ { s y s t } \\pm 0 . 1 5 _ { t h }$ pb [31]. Combining errs in quadrature, we get $\\sigma _ { e x p } ^ { t \\bar { t } } = 7 . 5 0 \\pm 0 . 4 8 ~ \\mathrm { p b }$ , which is in good agreement with the SM prediction $\\sigma ( t \\bar { t } ) = 7 . 5 _ { - 0 . 7 } ^ { + 0 . 5 }$ pb [32]; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "- LHC: recently the CMS Collaboration has reported their combined results corresponding to an integrated luminosity between $0 . 8 f b ^ { - 1 }$ and $1 . 1 f b ^ { - 1 }$ ，which is $\\sigma _ { e x p } ^ { t \\bar { t } } = 1 6 5 . 8 \\pm 2 . 2 _ { s t a t } \\pm 1 0 . 6 _ { s y s t } \\pm 7 . 8 _ { l u m i }$ pb [17]. It is consistent with the SM prediction $\\sigma ( t \\bar { t } ) = 1 6 7 _ { - 1 7 - 1 3 } ^ { + 1 0 + 1 5 }$ pb [33]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our calculations, we require the theoretical prediction (the SM value plus new physics effects) for the $t \\bar { t }$ cross section to agree with the experimental data at $2 \\sigma$ level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ii) The $t t$ invariant mass distribution: Since the new TC2 particles contribute to $t t$ production through $t$ channel, they may distort $t t$ invariant mass distribution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "- Tevatron: we use the data of the $t t$ invariant mass distribution from the CDF Collaboration [35] and require the new physics contribution in each bin to lie within the $2 \\sigma$ range; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "-LHC:The high $t t$ invariant mass distribution at the LHC has been used to exclude a heavy resonance with strong couplings to $t t$ ， such as KK-gluon and axigluon [18]. In our model, besides through $t$ -channel, the top-pion and top-Higgs can contribute to the $t t$ production through $s$ -channel by gluon fusions at loop level. We find that they can maximally enhance the differential cross section by about 9%, which is still within the allowed range of experimental data [19]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(iii） Top+jet resonance in $t t +$ jets events at the Tevatron: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We note that the new FCNC interactions will also cause the single top production $t ( \\mathrm { o r } \\ \\bar { t } ) + X$ with $X$ decaying to $t ( \\mathrm { o r } \\ t ) + j e t$ . The CDF Collaboration has recently searched for a t(or $t$ )+jet resonance in tt+jet events and set an upper limit of $0 . 6 1 \\sim$ 0.02 pb for $m _ { X } = 2 0 0 \\sim 8 0 0$ GeV [36]. For our model, when $m _ { X } > 2 m _ { t }$ ， the new decay mode $X  t t$ will be dominant. Thus the main constraint on our model is in the mass range $m _ { X } < 2 m _ { t }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(iv） The like-sign top pair production: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the mass degeneracy of top-pion and top-Higgs can partially escape the like-sign top constraints, the top-rho can also contribute to $t t$ production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Tevatron: the CDF Collaboration has performed an exclusive search for $t t$ production and give a upper bound on $t t$ rate: $\\sigma _ { t t } \\le 5 0 0$ fb [34]; LHC: Very recently， the CMS Collaboration also published their results of $t t$ （204号 search for the light $Z ^ { \\prime }$ model and gave a upper bound of O.67 pb on the $t t$ （20 production rate [20]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A． ${ A _ { F B } }$ and $A _ { C }$ in TC2 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In a given model the prediction for $A _ { F B } ^ { t }$ at the Tevatron should be correlated to the prediction for $A _ { C } ( t t )$ at the LHC. However，while the Tevatron observed some anomaly for $A _ { F B } ^ { t }$ ， the LHC measurement of $A _ { C } ( t \\bar { t } )$ is in agreement with the SM prediction [21, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22]. Recently， with an integrated luminosity of 1.09 fb $^ - 1$ ， the CMS result is $A _ { C } ^ { \\mathrm { e x p } } ( t { \\bar { t } } ) =$ -0.016 ± 0.030(stat.) $^ { + 0 . 0 1 0 } _ { - 0 . 0 1 9 }$ (syst.）[21], which is consistent with its SM prediction $A _ { C } ^ { \\mathrm { S M } } ( t { \\bar { t } } ) =$ 0.0130(11)[37]. A similar result is also reported by the ATLAS Collaboration but with a larger uncertainty [22]. So we use the CMS result in our analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e953c1f305e342ba64fc1c30daad6f28ac0f78fc53d8ae578e6e4941fe253d2.jpg",
+        "img_caption": [
+            "FIG. 1: Scatter plots of the scanned parameter space projected on the plane of $A _ { F B } ^ { t }$ (Tevatron) versus $A _ { C }$ (LHC): the dots (red) and the crosses (green) denote respectively the survived samples with and without the constraints (i-iv). The horizontal dashed lines (blue) show the $1 \\sigma$ and $2 \\sigma$ upper limits from the LHC data of $A _ { C }$ ，while the vertical dashed lines (red) show the $1 \\sigma$ and $2 \\sigma$ regions from the Tevatron data of $A _ { F B } ^ { t }$ （ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Firstly we scan over the parameter space of TC2，and then we calculate ${ \\cal A } _ { F B }$ and $A _ { C }$ in the parameter space. In Fig.1,we project parameter space on the plane of ${ \\cal A } _ { F B }$ versus $A _ { C }$ .From this figure we can see the correlation between ${ \\cal A } _ { F B }$ and $A _ { C }$ .Generically， the value of $A _ { C }$ at the LHC is proportional to the value of ${ \\cal A } _ { F B }$ at the Tevatron,because the produced top (anti-top) quark is inclined to go along (against） the valence quark direction in $t t$ production [12]. In TC2 model there are two new contributions to ${ A _ { F B } }$ : one is from the scalars (top-pion and top-Higgs); the other is from the vector boson top-rho. Both of them contribute to $t t$ production through $t$ -channel, which, due to the Rutherford singularity, can maximally increase the value of ${ \\cal A } _ { F B }$ to 13.6%. However, only with the scalars’ contribution, ${ \\cal A } _ { F B }$ can not be enhanced effectively because of the spin correlation between top and antitop quarks [9]. Thus, the vector boson top-rho wil play an important role in generating a large ${ \\cal A } _ { F B }$ . We also note that although the value of $A _ { C }$ becomes larger with increasing ${ A _ { F B } }$ ， most of the samples are still in the $2 \\sigma$ range of the experimental value. However, from the red dots which denote the parameter space survived all constraints (i-iv)，we can see most parameter space has been excluded due to the new like-sign top experiment results at CMS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc840fee520edb65d79378aa5e74160d69fe99f830f1d0be7450935fbb2cacda.jpg",
+        "img_caption": [
+            "FIG. 2: The scatter plots of the survived samples: the crosses (green) are allwed by the Tevatron constraints while the dots (red) are alowed by allthe constraints from the Tevatron and the LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to show how strong the current LHC constraints are, we in Fig.2 display two sets of samples: one set (denoted by dots) is allowed by all constraints from the Tevatron and LHC,and the other set (denoted by crosses) is allowed by the Tevatron constraints but not by the LHC constraints. Note that here the Tevatron constraints include the requirement that the theoretical value of $A _ { F B }$ agrees with the experimental data at $2 \\sigma$ level. We see that the current LHC constraints are already quite stringent, able to exclude much of the parameter space allowed by the Tevatron. The figure shows that the LHC constraints exclude the region with a large FCNC coupling $g _ { t u \\rho }$ (> 0.55) and a light top-rho mass $m _ { \\rho }$ ( $<$ 730 GeV). The reason is that a large $g _ { t u \\rho }$ and a heavy top-rho mass may lead to a large production rate of like-sign top pair, which is not allowed by the LHC bound. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. TC2 contribution to triple-top production at the LHC ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In TC2 model, both the FCNC couplings and the flavor-conserving couplings are large. This willinduce sizable triple-top production at the LHC. The main contributions are from ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "the $t$ -channel diagrams,as shown in Fig.3. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e807b3a90848c9d7707635f5b8cce1a00c07937364115fa582eb648f2ae7a287.jpg",
+        "img_caption": [
+            "FIG. 3: The representative Feynman diagrams for the triple-top production in TC2 model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b899062b8a69e9470185f6fdc027cbfe3d041f2b21db1fbfbff593a1c30f80f.jpg",
+        "img_caption": [
+            "FIG. 4: The scatter plots of the TC2 parameter space survived all the constraints (the Tevatron constraints include the requirement that the theoretical value of ${ A _ { F B } }$ agrees with the experimental data at $2 \\sigma$ level, and the LHC constraints include $A _ { C }$ at $2 \\sigma$ level), showing the triple-top production rate at the LHC with $\\sqrt { s } = 1 4$ TeV. The dots (red) shows the results with the top-rho contribution and the crosses (green) denotes the cross section without the top-rho contribution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since the triple-top process involves an extra free parameter $g _ { t \\bar { t } \\rho }$ ， we generate its values randomly. Other parameters in the calculation are required to satisfy the experimental constraints (i-iv) and solve ${ \\cal A } _ { F B }$ at $2 \\sigma$ level. The TC2 prediction of the triple-top production rate at the LHC is shown in Fig.4. From this figure we see that the triple-top production cross section at the LHC (14 TeV) can maximally reach 12 pb without the top-rho contribution and 16 pb with the top-rho contribution, which may be detected with a proper reconstruction ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "technique[24, 38, 39]. It should be noted that since the triple-top production involves an   \nextra coupling which dose not appear in the $t t$ production, the correlation between the $g _ { t t \\rho }$   \ntriple-top production rate and ${ A _ { F B } }$ or $A _ { C }$ is weak. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to provide more information of the triple-top production, we display some kinematical distributions of final states by using Madgraph5 [40]. For illustration， we take a point in the allowed parameter space which gives the largest cross section: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu \\pi = 1 . 1 7 6 , g _ { t t \\pi } = 2 . 3 9 , g _ { t u \\rho } = 0 . 5 0 , g _ { t t \\rho } = 3 . 1 3 6 , \\ m _ { \\pi } = 5 8 8 . 1 2 \\ \\mathrm { G e V } , m _ { \\rho } = 7 3 2 . 8 9 , \\ M _ { \\rho } = 9 . 3 7 3 \\ \\mathrm { G e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For this set of parameters, some kinematical distributions of the cross section are shown in Fig.5. From the left panel of Fig.5 we see a peak at about $H _ { T } = 5 0 0$ GeV which is higher than the usual SM processes. From the middle panel we see that the distribution is peaked at a large $\\Delta R _ { t \\bar { t } }$ near $\\pi$ ， which indicates that the top and anti-top quarks from the on-shell top-rho tend to go in the opposite direction. From the right panel we see a peak near the mass of top-pion or top-higgs( $\\sim 5 8 8$ GeV）in the $t t$ (they are from the parent top-pion or top-higgs) invariant mass distribution, which is caused by the on-shell decay of a top-pion or a top-higgs. It should be noted that there is not a peak around the mass of top-rho （ $\\sim$ 732 GeV) due to a large decay width of the top-rho. All these features may be helpful for detecting the triple-top signal at the LHC. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb8773518498e8a4a7afd4eed66e02cca373ef5d2ab8752714eab10bb890a5f1.jpg",
+        "img_caption": [
+            "FIG.5: The $H _ { T }$ (total transverse energy), $\\Delta R _ { t \\bar { t } }$ (separation between $t$ and $\\bar { t }$ ）and $M _ { t \\bar { t } }$ （ $t \\bar { t }$ invariant mass) distributions for the TC2-induced triple-top production at LHC with $\\sqrt { s } = 1 4$ TeV.The TC2 parameters are fixed in Eq.(6). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In TC2 model we studied its correlated contributions to $A _ { F B }$ at the Tevatron, $A _ { C }$ and the triple-top production at the LHC.Under current constraints on the top quark from the LHC and Tevatron (such as the total and diferential production rates), we scanned the parameter space of the TC2 model. We found that in the allowed parameter space the TC2 model can explain the Tevatron measured ${ \\cal A } _ { F B }$ at $2 \\sigma$ level, but meanwhile significantly enhance $A _ { C }$ at the LHC. Such enhanced $A _ { C }$ , albeit currently allowed by the LHC measurement at $2 \\sigma$ level, will serve as a test of TC2 with the improvement of measurement precision at the LHC. Then with all the constraints (including the requirement to explain ${ \\cal A } _ { F B }$ at $2 \\sigma$ level and satisfying the current LHC measurement of $A _ { C }$ at $2 \\sigma$ level)，we found that TC2 model can induce sizable triple-top production at the 14 TeV LHC (the production rate can maximally reach 16 pb). Due to the low SM backgrounds, the triple-top production can also be a good probe for TC2 model, complementary to $A _ { C }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "V. NOTEADDED ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "After we finished our manuscript, the CMS Collaboration published a search for events with three or more isolated leptons in pp collisions at $\\sqrt { s } = 7$ TeV with an integrated luminosity of 4.98 $f b ^ { - 1 }$ [41]. Since our triple-top production can also give a final state with three leptons, this search may be relevant to our study. So we calculated the triple-top production for $\\sqrt { s } = 7$ TeV(8 TeV） and found that the production rate can maximally reach 2 pb (3 pb),which,without any cut,can give the tri-lepton events below 200 (300). We checked that such a number of events is allowed by the CMS results. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han was supported by a visitor program of Henan Normal University, during which this work was finished. This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant Nos. 10821504 and 11135003,by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. and by the Startup Foundation for Doctors of Henan Normal ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "University under contract No.11112. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] For top quark reviews, see, e.g., W. Bernreuther, J. Phys. G35, 083001 (2008) D. Chakraborty, J. Konigsberg, and D. Rainwater, Ann. Rev. Nucl. Part. Sci. 53, 301 (2003); E. H. Simmons, hep-ph/0211335； C.-P. Yuan, hep-ph/0203088； S. Willenbrock, hep-ph/0211067； M. Beneke et al., hep-ph/0003033; T. Han, arXiv:0804.3178;   \n[2] T. Aaltonen et al.[The CDF Collaboration], Phys. Rev. D 83,112003 (2011).   \n[3] V. M. Abazov et al. [The DO Collaboration],arXiv:1107.4995.   \n[4] J.H. Kuhn and G.Rodrigo，JHEP 1201，063(2012）．W. Hollik and D. Pagani, arXiv:1107.2606 [hep-ph].   \n[5] Q.-H. Cao et al.， Phys. Rev. D81, 114004 (2010)； G.Rodrigo and P. Ferrario, Nuovo Cim. C 33,04 (2010)； M. I. Gresham, I. W. Kim and K. M. Zurek, Phys. Rev. D 83,114027 (2011); J. F. Kamenik et al., arXiv:1107.5257 [hep-ph]; S. Westhoff, arXiv:1108.3341 [hep-ph]; J. A. Aguilar-Saavedra, arXiv:1202.2382 [hep-ph].   \n[6] D. W. Jung et al. Phys. Lett. B 691, 238 (2010);arXiv:1012.0102; C. Zhang and S. Willenbrock,arXiv:1008.3869; J. A. Aguilar-Saavedra, Nucl. Phys. B 843,638 (2011); Nucl. Phys. B 812,181 (2009); C. Degrande et al., arXiv:1010.6304; K. Blum et al., arXiv:1102.3133; C. Delaunay et al., arXiv:1103.2297; J. A. Aguilar-Saavedra and M. Perez-Victoria, Phys. Rev. D 84,115013 (2011); D. Y. Shao et al., arXiv:1107.4012； S. S. Biswal et al., arXiv:1201.3668 [hep-ph].   \n[7] S. Jung et al., Phys.Rev. D81, 015004 (2010); S. Jung et al., Phys. Rev. D 83,114039 (2011); J. Cao et al., Phys. Rev. D 81, 014016 (2010); J. Cao et al., Phys. Rev. D 83, 034024 (2011); I. Dorsner et al. Phys. Rev. D 81, 055009 (2010); B. Xiao et al., Phys. Rev. D 82, 034026 (2010); B.Bhattacherjee et al., Phys. Rev.D 83, 091501 (2011); K. M. Patel and P. Sharma, JHEP 1104, 085 (2011); M. R. Buckley et al.,Phys. Rev.D83,115013 (2011); E. R. Barreto et al.,Phys. Rev. D 83, 054006 (2011); arXiv:1104.1497; A. Rajaraman et al., arXiv:1104.0947; M. I. Gresham et al., arXiv:1107.4364; M. Duraisamy et al., arXiv:1106.5982； B. Grinstein et al.,arXiv:1108.4027; D. Kahawala et al., arXiv:1108.3301; P. Ko et al., arXiv:1108.4005; M. Frank et al., arXiv:1108.0998; F.Larios and M. A. Perez, Phys. Rev. D 85, 017503 (2012).   \n[8] K.Cheung et al., Phys. Lett. B 682, 287 (2009); K. Cheung and T. C. Yuan, Phys. Rev. 243 (2011); K. Yan et al., Phys. Rev. D 85, 034020 (2012); S. Knapen et al., arXiv:1111.5857 [hep-ph]. C. Spethmann,arXiv:1111.6576 [hep-ph]; K. S. Babu et al., Nucl. Phys. B 858, 468 (2012); J. N. Ng and P. T. Winslow, JHEP 1202,140 (2012); K. Kolodziej, arXiv:1110.2103 [hep-ph].   \n[9] J. Shu, T. M. P. Tait and K. Wang, Phys. Rev.D 81, 034012 (2010).   \n[10] A.Arhrib et al., Phys.Rev. D 82, 034034 (2010). Z. Ligeti et al., JHEP 1106,109 (2011); K. Blum et al., arXiv:1107.4350; L. Wang et al. arXiv:1111.4771 [hep-ph].   \n[11] S. K. Gupta, arXiv:1011.4960 [hep-ph]; J. Cao et al.,arXiv:1101.4456;E. L. Berger et al., Phys.Rev. Lett.106, 201801 (2011); arXiv:1109.3202; J. A. Aguilar-Saavedra and M. PerezVictoria,Phys.Lett.B 701, 93 (2011); C. Degrande et al., Phys. Lett. B 703,306 (2011).   \n[12] J. Cao et al., Phys.Rev. D 85, 014025 (2012）.   \n[13] N. Craig, C. Kilic and M. J. Strassler, Phys. Rev. D 84,035012 (2011); F. Penunuri, F. Larios, A. O.Bouzas, Phys. Rev. D83, 077501 (2011); S. Jung et al., Phys. Rev. D 84, 091502 (2011); E. L. Berger et al., E. L. Berger, Q. -H. Cao, J. -H. Yu and C. -P. Yuan, Phys. Rev. D 84, 095026 (2011).   \n[14] Y. Cui, Z. Han and M. D. Schwartz, JHEP 1107, 127 (2011).   \n[15] C. T. Hill, Phys. Lett.B 345, 483 (1995); K. Lane and E. Eichten, Phys. Lett. B 352, 382 (1995),Phys. Lett. B 433, 96 (1998); G. Cvetic, Rev. Mod. Phys. 71, 513 (1999); E. Malkawi and C. P. Yuan,Phys. Rev.D 61, 015007 (2000),Phys.Lett.B 385,304 (1996) C. T. Hill and E. H. Simmons, Phys. Rept. 381, 235 (2003) [Erratum-ibid. 390, 553 (2004)].   \n[16] V. A. Mirransky et al., Phys. Lett. B 221,177(1989); W.A. Bardeen et al., Phys. Rev. D 41, 1647 (1990); C. T. Hill, Phys.Lett.B 266,419 (1991).   \n[17] http://cdsweb.cern.ch/record/1401250   \n[18] http://cdsweb.cern.ch/record/1369186/files/ATLAS-CONF-2011-095； CMS Collaboration, arXiv:1107.4771 [hep-ex].   \n[19] http://cdsweb.cern.ch/record/1422425   \n[20] http://cdsweb.cern.ch/record/1434376;   \n[21] S. Chatrchyan et al. [CMS Collaboration], Phys. Lett. B 709, 28 (2012).   \n[22] htp://cdsweb.cern.ch/record/1372916/files/ATLAS-CONF-2011-106.   \n[23] J.L. Hewett et al.， arXiv:1103.4618； J. A. Aguilar-Saavedra and M. Perez-Victoria, arXiv:1105.4606 [hep-ph]; arXiv:1107.0841 [hep-ph]; arXiv:1107.2120 [hep-ph]; J. A. AguilarSaavedra, A. Juste and F. Rubbo,arXiv:1109.3710 [hep-ph]; J. F. Arguin, M. Freytsis and Z. Ligeti, arXiv:1107.4090 [hep-ph].   \n[24] V. Barger, W. -Y. Keung and B. Yencho, Phys. Lett. B 687, 70 (2010).   \n[25] G. Buchalla, G. Burdman, C.T. Hilland D. Kominis, Phys. Rev. D 53,5185 (1996); H. -J. He and C. P. Yuan, Phys. Rev. Lett. 83, 28 (1999)； G. Burdman,Phys. Rev. Lett. 83, 2888 (1999)； G. Burdman, K. D. Lane and T. Rador,Phys. Lett. B 514, 41 (2001)； P. J. Fox, Z. Ligeti, M. Papucci, G. Perez and M. D. Schwartz, Phys. Rev. D 78, 054008 (2008).   \n[26] C. T. Hill and X. -m. Zhang, Phys. Rev.D 51,3563 (1995)； G. Buchalla,and D. Kominis, Phys. Lett.B 403,101 (1996)； F. Braam, M. Flossdorf, R. S. Chivukula, S. Di Chiara and E. H. Simmons, Phys. Rev. D 77, 055005 (2008).   \n[27] R. S. Chivukula et al. Nucl. Phys. B 343,554(1990)   \n[28] [ATLAS Collaboration], arXiv:1202.1408 [hep-ex]; S. Chatrchyan et al. [CMS Collaboration], arXiv:1202.1488 [hep-ex].   \n[29] C. Amsler et al., Particle Data Group,Phys. Lett.B 667,1 (2008).   \n[30] J. Pumplin et al., Phys. Rev. D 82, 074024 (2010).   \n[31] CDF results from http://www-cdf.fnal.gov/； V. M. Abazov et. al. [DO Collaborations], arXiv:0903.5525 [hep-ex].   \n[32] M. Cacciari, S. Frixione,M. L. Mangano,P. Nason and G. Ridolfi, JHEP O809,127 (2008) [arXiv:0804.2800 [hep-ph]].   \n[33] V. Ahrens, M. Neubert, B. D. Pecjak, A. Ferroglia and L. L. Yang, Phys. Lett. B 703,135 (2011).   \n[34] T. Aaltonen et al. [CDF Collaboration], arXiv:1108.0101 [hep-ex].   \n[35] T.Aaltonen et al. [CDF Collaboration],Phys. Rev. Lett.102, 222003 (2009)[arXiv:0903.2850 [hep-ex]].   \n[36] http://www-cdf.fnal.gov/physics/new/top/confNotes/cdf10776_ttj.pdf   \n[37] http://cdsweb.cern.ch/record/1369205/files/TOP-11-014-pas.   \n[38] B. S. Acharya et al. arXiv:0901.3367 [hep-ph].   \n[39] J. A. Aguilar-Saavedra and J. Santiago, Phys. Rev. D 85, O34021 (2012) .   \n[40] F. Maltoni and T. Stelzer, JHEP 0302,027 (2003); J. Alwall et al., JHEP 0709,028 (2007); J. Alwall et al., JHEP 1106,128 (2011). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[41] S. Chatrchyan et al.[CMS Collaboration], CMS-SUS-11-013. ",
+        "page_idx": 14
+    }
+]

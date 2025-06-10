@@ -1,0 +1,158 @@
+基础研究
+
+# 外源性硫化氢通过调控瘦素/瘦素受体通路抑制高糖诱导的人脐静脉内皮细胞损伤
+
+吴冬波1,2,3，陈景福4，许 庆4,林佳琼1²，廖静秋1²，吴 文²  
+1南方医科大学,广东广州 510515;广东省医学科学院，广东省人民医院东病区内分泌科，广东广州510080;南方医科大学附属柳州医院内分泌科，广西 柳州 545007；4中山大学附属第一医院黄埔院区心血管内科,广东 广州 510700
+
+摘要：目的探讨外源性硫化氢 $\mathrm { ( H } _ { 2 } \mathrm { S ) }$ 能否通过调控瘦素/瘦素受体(LEPR)通路抑制高糖引起的人脐静脉内皮细胞(HUVECs)损伤。方法CCK-8法检测细胞存活率;Hoechst33258核染色荧光显微镜照相检测凋亡细胞的形态学和数量改变;双氯荧光素(DCFH-DA)染色荧光显微镜照相法检测细胞内活性氧(ROS)水平;罗丹明123(Rh123)染色荧光显微镜照相法检测线粒体膜电位(MMP)水平;Western blotting法测定瘦素及瘦素受体蛋白的表达水平。结果应用 $4 0 \mathrm { m m o l / L }$ 葡萄糖处理HUVECs 3\~$2 4 \mathrm { h }$ 可以明显上调瘦素、瘦素受体的表达水平，在高糖处理9h时瘦素、瘦素受体的表达水平达到峰值;在高糖处理HUVECs前，$4 0 0 \ \mathrm { \mu m o l / L }$ 硫氢化钠(NaHS,为 $\mathrm { H } _ { 2 } \mathrm { S }$ 的供体)预处理 $3 0 ~ \mathrm { m i n }$ 能明显抑制高糖对瘦素及瘦素受体表达的上调作用; $4 0 0 \ \mathrm { \mu m o l / L }$ NaHS预处理HUVECs $3 0 \mathrm { m i n } { , } 5 0 \mathrm { n g / m L }$ 瘦素拮抗剂(LA)预处理HUVECs1h均可明显抑制高糖引起的HUVECs损伤,使细胞存活率升高，细胞凋亡数量减少，胞内活性氧(ROS)堆积及MMP降低 $( P { < } 0 . 0 1 \$ )。结论 外源性H2S通过抑制瘦素/瘦素受体通路对抗高糖引起的HUVECs损伤。
+
+关键词：硫化氢;瘦素；瘦素受体;高糖；人脐静脉内皮细胞
+
+# Exogenous hydrogen sulfide inhibits high-glucose-induced injuries via regulating leptin/ leptin receptor signaling pathway in human umbilical vein endothelial cells
+
+WUDongbo1.23,CHENJingfu4,XU Qing4,LINJiaqiong12,LIAO Jingqiu2,WUWen²   
+SouthernMeicalesitygo5aeprtmentfdiostadagdonceicl Sciences/Gaoalsalietetdoooositafle MedicalUniersityzou4oinaepartetofdauisioofstlatedHspitalo University, Guangzhou 510700,China
+
+Abstract: Objective To investigate whether exogenous hydrogen sulfide $\left( \mathrm { H } _ { 2 } S \right)$ inhibits the high-glucose (HG)-induced injury by modulating leptin/leptin receptor (LEPR) signal pathway in human umbilicalvein endothelial cels (HUVECs). Methods HUVECswere treated with $4 0 \mathrm { m m o l / L }$ glucose for $3 { - } 2 4 \mathrm { h } ,$ and the cell viability was examined by CCK-8 assay. The changes of cell morphology and the numberof apoptotic cells were assessed by Hoechst 33258 nuclear staining followed by photofluorography.The intracelllar levels ofreactive oxygen species (ROS)was detected by DCFH-DA staining followed by photofluorography.Mitochondrial membrane potential (MMP) was determined by Rhodamine 123 (Rh123) stainingand photofluorography. The expresion levels of leptin and LEPR protein were measured by Western bloting. Results The expression of leptin and LERP in HUVECs began to significantly increase at $^ { 3 \mathrm { h } }$ after HG exposure and reached the peak levels at $^ { 9 \mathrm { ~ h ~ } }$ $( P { < } 0 . 0 1 )$ . Pretreatmentof HUVECs with $4 0 0 \ \mu \mathrm { m o l / L }$ sodium hydrosulfide (H2S donor) for $3 0 \mathrm { m i n }$ inhibited HG-induced increase in leptin and leptin receptor expressions in HUVECs $( P { < } 0 . 0 1 )$ . Pretreatment of HUVECs with $4 0 0 \mu \mathrm { m o l / L }$ NaHS for 30 min or $5 0 ~ \mathrm { n g / m L }$ leptin antagonists (LA) for $^ { \textrm { 1 h } }$ obviously alleviated HG-induced injury by increasing cel viability, decreasing cell apoptosis and lowering accumulation of intracellular ROS and MMP loss $( P { < } 0 . 0 1 )$ . Conclusion Exogenous HS protects against HG-induced injury by inhibiting leptin/LEPR pathway in HUVECs.
+
+Key words: hydrogen sulfide; leptin; leptin receptor; high glucose; human umbilical vein endothelial cells
+
+我国糖尿病患者人数众多，目前已超过1亿人，糖尿病的主要危害在于慢性并发症。高血糖是糖尿病的一个重要特征，是引起糖尿病几乎所有并发症(如大血管病变、微血管病变、神经病变等)的最直接因素。高血糖引起糖尿病血管病变的机制是多方面的，包括细胞内活性氧(ROS)的产生[2]、炎性细胞因子的产生增多3、线粒
+
+体损伤[4]等。
+
+硫化氢 $\mathrm { ( H } _ { 2 } \mathbf { S } ,$ 是近年来研究较多的内源性气体信号分子,生理浓度 $\mathrm { H } _ { 2 } \mathrm { S }$ 对多种细胞有保护作用。体内许多组织细胞，如心肌细胞、内皮细胞等能产生内源性HS。2型糖尿病患者及链脲霉素诱导的糖尿病大鼠，其血浆$\mathrm { H } _ { 2 } \mathrm { S }$ 水平明显降低[5]。
+
+瘦素是一种由脂肪细胞和其他细胞释放的相对分子质量为16000的多肽,参与食欲与能量代谢的调节[6],在维持能量代谢内环境的作用日益受到重视，瘦素是通过瘦素受体而产生生理与病理生理作用的。有研究证实外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 能通过抑制瘦素/瘦素受体通路对抗高糖引起的心肌细胞损伤[8。人脐静脉内皮细胞(HUVECs)可分泌瘦素，而高瘦素血症与血管病变有关，其作用机制与胰岛素抵抗不同[1]。因此我们推测,外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 在高糖引起的血管内皮细胞损伤中亦可能起到保护作用，且可能是通过抑制瘦素/瘦素受体通路实现的。
+
+本文应用 $4 0 \mathrm { m m o l / L }$ 葡萄糖处理HUVECs $2 4 \mathrm { h }$ 建立高糖(highglucose,HG)损伤内皮细胞模型,探讨：外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 能否抑制高糖引起的HUVECs损伤； $\mathrm { H } _ { 2 } \mathrm { S }$ 的保护作用是否通过调控瘦素/瘦素受体通路实现。
+
+# 1材料和方法
+
+# 1.1 材料
+
+人脐静脉内皮细胞(广州吉妮欧);瘦素抗体、瘦素受体抗体、GAPDH抗体(Proteintech);瘦素拮抗剂(leptinantagonist,LA）（Prospec）;硫氢化钠、Hoechst33258、DCFH-DA、罗丹明123(Sigma);细胞计数试剂盒-8(Cell Counter Kit-8,CCK-8)(Dojindo);DMEM培养基、胎牛血清(fetal bovine serum,FBS）（Hyclone,Gibco)。
+
+# 1.2 细胞培养
+
+HUVECs培养于含有 $10 \%$ FBS的DMEM培养基中，置于 $3 7 \%$ $\mathrm { C O } _ { 2 }$ 条件下的培养箱中培养。
+
+# 1.3 实验分组
+
+实验分为6组：(1)正常对照组(control)：无血清的DMEM培养基（含 $5 . 5 \ \mathrm { m m o l / L }$ 葡萄糖)处理HUVECs$2 4 \mathrm { ~ h ~ }$ ；(2)HG损伤组： $4 0 \ \mathrm { m m o l / L }$ 葡萄糖作用于HUVECs $2 4 \mathrm { h }$ ;(3)NaHS预处理 $+ \mathrm { H G }$ 损伤组： $4 0 0 \mu \mathrm { m o l } / \mathrm { L }$ NaHS作用于HUVECs $3 0 \mathrm { m i n }$ 之后撤去，PBS冲洗2次，接着用 $4 0 \mathrm { m m o l / L }$ 葡萄糖作用 $2 4 \mathrm { h }$ ;(4)LA预处理 $+ \mathrm { H G }$ 损伤组： $5 0 ~ \mathrm { n g / m L }$ LA作用于HUVECs1h之后撤去,PBS洗2次，接着用 $4 0 \mathrm { m m o l } / \mathrm { L }$ 葡萄糖作用 $2 4 \mathrm { h } ; ( 5 ) \mathrm { N a H S }$ 处理组： $4 0 0 \mu \mathrm { m o l / L }$ NaHS作用于HUVECs $3 0 \mathrm { m i n }$ 之后撤去，PBS洗2次，接着用无血清DMEM培养基培养$2 4 \mathrm { h }$ ；(6)LA处理组： $5 0 ~ \mathrm { n g / m L }$ LA作用于HUVECs1h之后撤去，PBS洗2次，接着用无血清DMEM培养基培养 $2 4 \mathrm { h } _ { \circ }$ （204
+
+# 1.4CCK-8法检测细胞存活率
+
+将HUVECs接种于96孔培养板当中，每组5个复孔。当细胞生长到占培养孔面积 $70 \% { \sim } 8 0 \%$ 时，按分组进行处理后，于每孔中加入 $1 0 \mu \mathrm { L C C K - 8 } \mathsf { , 9 0 \mu L }$ 不含血清的DMEM,于 $3 7 \ \mathrm { { ^ { \circ } C } }$ 培养箱孵育 $2 \mathrm { ~ h ~ }$ ，用酶标仪记录$4 5 0 ~ \mathrm { n m }$ 波长处各孔的吸光度D值。取5孔D值的平均数，按以下公式计算细胞存活率：细胞存活率 $( \% ) { = }$ 处理组D/对照组 $\scriptstyle \mathrm { { D } \times 1 0 0 }$ ，实验重复3次进行统计分析。
+
+1.5Westernblot法检测瘦素、瘦素受体(LEPR)蛋白的表达将HUVECs接种于直径为 $3 5 ~ \mathrm { m m }$ 的培养血内，当细胞生长到占培养皿面积 $70 \% { \sim } 8 0 \%$ 时，按分组进行处理后，用预冷的PBS洗3次，加入细胞裂解液 $7 0 ~ \mu \mathrm { L } )$ ，于 $4 \mathrm { { ^ { \circ } C } }$ 静置 $3 0 \mathrm { m i n }$ ，后 $1 2 0 0 0 \mathrm { r / m i n . } 4 \mathrm { ^ { \circ } C }$ 离心 $1 5 \mathrm { m i n }$ ，取上清液(即蛋白提取物)，采用BCA蛋白定量试剂盒进行蛋白定量。总蛋白经十二烷基硫酸钠-聚丙烯酰胺(SDS-PAGE)凝胶分离后，转移至PVDF膜上。用 $5 \%$ 的脱脂奶粉(TBST配置)室温封闭 $1 . 5 \mathrm { h }$ ，然后分别加入特异性的一抗，即抗瘦素抗体( $( 1 { : } 1 0 0 0 )$ 、抗瘦素受体抗体 $\mathrm { \cdot ( 1 { : } 1 0 0 0 ) \cdot { G A P D H ( 1 : 1 0 0 0 ) } } , 4 ^ { \circ } \mathrm { C }$ 孵育过夜，第2天早上TBST漂洗3次，每次 $5 \mathrm { m i n }$ ，随后与耦联辣根过氧化物酶(HRP)标记的二抗( $\left( 1 : 5 0 0 0 \right)$ 室温孵育 $^ { \textrm { 1 h } }$ 。为了观察总蛋白的量，用GAPDH作为内参。PVDF膜经TBST漂洗3次，每次 $5 \mathrm { m i n }$ ，用发光试剂ECL显色，暗室曝光到X光胶片上，将胶片扫描后，用ImageJ1.47i软件[National InstitutesofHealth(NIH),Bethesda,MD,USA]分析目标带的密度灰度比值比较结果。重复3次。
+
+# 1.6Hoechst33258核染色法检测细胞调亡
+
+将HUVECs接种于24孔培养板当中，当细胞生长到占培养孔面积 $70 \% { \sim } 8 0 \%$ 时，按分组进行处理后，吸出培养基，用PBS洗3次，接着用 $4 \%$ 多聚甲醛于 $4 \mathrm { { ^ circ C } }$ 冰箱中固定 $1 0 ~ \mathrm { m i n }$ ,PBS漂洗后，加入 $5 ~ \mathrm { m g / L }$ Hoechst 33258,于 $3 7 \ \mathrm { { ^ circ C } }$ 温箱中孵育 $3 0 ~ \mathrm { m i n }$ 。在倒置荧光显微镜下摄片，染色质均匀分布，细胞核被染成均匀蓝色的细胞认定为正常细胞,细胞核呈浓缩、碎裂的明亮蓝色的细胞认定为凋亡细胞，随机地选取视野在倒置荧光显微镜下摄片。重复3次。
+
+# 1.7DCFH-DA染色测定ROS水平
+
+将HUVECs接种于24孔培养板当中，当细胞生长到占培养孔面积的 $70 \% { \sim } 8 0 \%$ 时，按分组进行处理后，吸出培养基,用PBS洗3次,风干。在含有 $1 0 \mu \mathrm { m o l / L }$ DCFH-DA的无血清培养基中置于 $3 7 ~ \mathrm { ^ { \circ } C }$ 温箱中孵育 $3 0 \mathrm { m i n }$ ，后用PBS漂洗3次，在倒置荧光显微镜下随机地选取5个不重复区摄片，荧光强度用ImageJ1.410软件进行半定
+
+量分析。重复3次。
+
+# 1.8罗丹明123(Rh123)染色法检测HUVECs线粒体膜 电位(MMP)
+
+将HUVECs接种于24孔培养板当中，当细胞生长到占培养孔面积的 $70 \% { \sim } 8 0 \%$ 时，按分组进行处理后，吸出培养基,用PBS冲洗3次,风干。在含有 $1 0 ~ \mu \varrho / \mathrm { L }$ Rhl23的无血清培养基当中于 $3 7 ^ { \circ } \mathrm { C }$ 温箱孵育 $3 0 \mathrm { m i n }$ ，吸出培养基，PBS漂洗3次。在倒置荧光显微镜下随机地选取5个不重复区摄片，细胞核周围的绿色亮点即为摄取了Rhl23的线粒体。用ImageJ1.410软件对荧光强度进行半定量分析。重复3次。
+
+# 1.9统计学处理
+
+实验数据以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，用SPSS20.0软件进行统计分析，实验组组间比较采用SNK- $\cdot q$ 检验，实验组与对照组比较采用Dunnett-t检验。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 和LA抑制高糖引起的HUVECs细胞毒性
+
+如图1所示，高糖能明显增加HUVECs的细胞毒性，导致细胞存活率下降到 $( 5 6 . 1 \pm 3 . 4 ) \%$ ，与正常对照组相比,差异有统计学意义 $( P { < } 0 . 0 1 )$ 。在高糖处理HUVECs之前，应用 $4 0 0 ~ { \mu \mathrm { m o l / L } } ~ \mathrm { N a H S }$ 预处理 $3 0 ~ \mathrm { m i n }$ 可以明显阻断高糖导致的细胞毒性，使细胞存活率增加到 $6 7 . 4 \pm$ $3 . 7 ) \%$ ，与高糖处理组相比较，差异显著 $( P { < } 0 . 0 1 )$ 。和NaHS的抗细胞毒性作用相似， $5 0 ~ \mathrm { n g / m L }$ LA预处理HUVECs$^ { \textrm { 1 h } }$ 也能显著抑制高糖引起的细胞毒性，使细胞存活率增加至 $( 6 6 . 7 \pm 4 . 9 ) \%$ 0 $_ { P < 0 . 0 1 } )$ 。单独用 $4 0 0 \ \mathrm { \textmu m o l / L }$ $\mathrm { \Delta N a H S }$ 或 $5 0 ~ \mathrm { n g / m L }$ LA处理HUVECs对细胞毒性无明显影响 $( P { > } 0 . 0 5 )$ ）
+
+# 2.2外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 抑制高糖对HUVECs瘦素表达的上调作用
+
+如图2A所示，应用 $4 0 \ \mathrm { m m o l / L }$ 葡萄糖分别处理HUVECs $3 、 6 、 9 、 1 2 、 2 4 \mathrm { ~ h ~ }$ 均能明显上调瘦素的表达水平，于 $9 \textup { h }$ 时达到高峰。如图2B所示，为了检测 $\mathrm { H } _ { 2 } \mathrm { S }$ 对瘦素表达的影响，用 $4 0 0 \ \mathrm { \textmu m o l / L }$ NaHS预处理HUVECs $3 0 \mathrm { m i n }$ ，再用高糖处理 $^ { 9 \mathrm { ~ h ~ } }$ ，结果显示，能明显抑制瘦素的表达水平，与高糖组比较，差异有统计学意义 $( P { < } 0 . 0 1 )$ 。单独用 $4 0 0 \ \mu \mathrm { m o l / L } ^ { \cdot }$ NaHS处理HUVECs对瘦素基础表达水平未见明显影响 $( P { > } 0 . 0 5 )$ 。
+
+# 2.3外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 抑制高糖对HUVECs瘦素受体表达的上调作用
+
+如图3A所示，应用 $4 0 \ \mathrm { m m o l / L }$ 葡萄糖分别处理HUVECs3、6、9、12、24h均能明显上调LEPR的表达水平，于 $^ { 9 \mathrm { ~ h ~ } }$ 时达到高峰。如图3B所示，为了检测 $\mathrm { H } _ { 2 } \mathrm { S }$ 对LEPR表达的影响，用 $4 0 0 \ \mathrm { \textmu m o l / L }$ NaHS预处理HUVECs $3 0 \mathrm { m i n }$ ,再用高糖处理 $^ { 9 \mathrm { ~ h ~ } }$ ，结果显示，能明显抑制LEPR的表达水平，与高糖组比较，差异有统计学意义 $( P { < } 0 . 0 1 )$ 。单独用 $4 0 0 \mu \mathrm { m o l } \mathrm { L }$ NaHS处理HUVECs对LEPR基础表达水平未见明显影响（ $( P { > } 0 . 0 5 )$ 。
+
+![](images/17f4f24ff42198ee375f8143fdad35838d8f9357d251d21c326ecf5204d4da71.jpg)  
+图1外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 与LA抑制高糖引起的HUVECs细胞毒性 Fig.1 Exogenous $\mathrm { H } _ { 2 } S$ and leptin antagonist (LA）alleviate high-glucose (HG, $4 0 \ \mathrm { \ m m o l / L } )$ -induced cytotoxicityin HUVECs $\langle M e a n \pm S D , ~ n { = } 3 )$ ： $^ { * * } P { < } 0 . 0 1$ Us control group; $^ { + + } P <$ 0.01 vs HG-treated group.
+
+# 2.4外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 和LA抑制高糖引起的致HUVECs凋亡作用
+
+如图4所示，Hoechst33258核染色检测结果显示，$4 0 \mathrm { m m o l / L }$ 葡萄糖作用HUVECs $2 4 \mathrm { h }$ 可诱导细胞凋亡，使HUVECs的凋亡率从 $( 1 1 . 3 { \pm } 3 . 1 ) \%$ （图 $\mathrm { 4 A , G ) }$ 升高至0 $4 7 . 0 { \pm } 8 . 5 ) \%$ (图4B、G),与正常对照组比较,差异显著$( P { < } 0 . 0 1 )$ 。在高糖处理HUVECs前应用 $4 0 0 \ \mu \mathrm { m o l / L }$ NaHS预处理 $3 0 ~ \mathrm { m i n }$ 能显著抑制高糖的致细胞凋亡作用,使HUVECs调亡率降低至 $( 2 0 . 0 { \pm } 2 . 0 ) \%$ （图4C、G），与高糖处理组比较，差异明显 $( P { < } 0 . 0 1 )$ 。与NaHS的作用相似，用 $5 0 ~ \mathrm { n g / m L }$ LA预处理HUVECs1h也能对抗高糖引起的的致细胞凋亡作用，使HUVECs凋亡率降低至 $( 2 2 . 0 { \pm } 5 . 3 ) \%$ （图4D、G） $\scriptstyle ( P < 0 . 0 1 )$ 。单独用 $4 0 0 \mu \mathrm { m o l } \mathrm { L }$ NaHS（图4EG）或 $5 0 \mathrm { \ n g / m L }$ LA（图4F、G)处理HUVECs对细胞凋亡无明显影响 $( P { > } 0 . 0 5 )$ 。
+
+2.5 外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 和LA抑制高糖引起的HUVECs氧化应激反应
+
+如图5所示，DCFH-DA染色的检测结果显示，$4 0 \ \mathrm { m m o l / L }$ 葡萄糖作用HUVECs $2 4 \mathrm { ~ h ~ }$ 可使胞内的DCFH平均荧光强度(MFI,可反映ROS水平)明显增强，从 $( 1 1 . 4 { \pm } 1 . 8 ) \%$ （图5A、G)升高至 $( 3 0 . 3 { \pm } 2 . 6 ) \%$ （图5B、G),与正常对照组比较,差异显著 $( P { < } 0 . 0 1 )$ ,提示高糖可引起HUVECs胞内ROS生成增多。在高糖处理HUVECs前应用 $4 0 0 \mu \mathrm { m o l } / \mathrm { L }$ NaHS预处理 $3 0 ~ \mathrm { m i n }$ 可使高糖引起的胞内ROS堆积减少，MFI减少至 $( 1 7 . 8 \pm$ $1 . 6 ) \%$ (图5C、G)，与高糖处理组比较，差异明显( $P <$ 0.01)。与NaHS作用相似,应用 $5 0 ~ \mathrm { n g / m L }$ LA预处理HUVECs $^ { \textrm { 1 h } }$ 也能对抗高糖引起的胞内ROS堆积，MFI减少至 $( 1 7 . 3 { \pm } 1 . 5 ) \%$ （图5D、G） $( P { < } 0 . 0 1 )$ 。单独用
+
+![](images/26668bdeddeb682f5af952db2742fb995c0a136ed73662d5052903b38d560e71.jpg)  
+图2外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 抑制高糖对HUVECs瘦素表达的促进作用 Fig.2 Exogenous $\mathrm { H } _ { 2 } S$ inhibits the high glucose (HG, $4 0 \ \mathrm { m m o l / L }$ glucose)-induced up-regulation of leptin expression in HUVECs (Mean±SD, $\scriptstyle n = 3$ ） $^ { * * } P { < } 0 . 0 1$ us control group. $^ { + + } P { < } 0 . 0 1$ us HG-treated group.
+
+![](images/71dc724c89e98987b037b1ca18707fa66ad5a77fe912ff9c3bcf3e5520dfbf8b.jpg)  
+图3外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 抑制高糖对HUVECs瘦素受体表达的促进作用 Fig.3 Exogenous $\mathrm { H } _ { 2 } S$ inhibits the high-glucose (HG, $4 0 \mathrm { m m o l / L }$ glucose)-induced up-regulation of leptin receptor expression in HUVECs (Mean $\pm S D$ $n { = } 3$ 。 $^ { * * } P { < } 0 . 0 1$ us control group; $^ { + + } P { < } 0 . 0 1$ Us HG-treated group.
+
+$4 0 0 \mu \mathrm { m o l / L }$ NaHS(图5E、G)或 $5 0 ~ \mathrm { n g / m L }$ LA(图5F、G)处理HUVECs对胞内ROS水平无明显影响 $( P { > } 0 . 0 5 )$ O2.6 外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 和LA抑制高糖对HUVECs线粒体的损伤作用
+
+如图6所示，Rh123染色的检测结果显示， $4 0 \mathrm { m m o l / L }$ 葡萄糖作用HUVECs $2 4 \mathrm { h }$ 可使Rhl23的平均荧光强度(MFI,反映MMP高低)明显减弱，从 $( 3 3 . 3 { \pm } 2 . 7 ) \%$ （图6A、G)降低至 $( 1 8 . 2 { \pm } 1 . 7 ) \%$ （图6B、G)，提示MMP丢失，与正常对照组比较，差异显著 $\left( P { < } 0 . 0 1 \right)$ ，提示高糖对
+
+HUVECs线粒体的损伤。在高糖处理HUVECs前应用$4 0 0 \mu \mathrm { m o l / L }$ NaHS预处理 $3 0 \mathrm { m i n }$ 可使高糖引起的MMP丢失减少，MFI升高至 $( 2 5 . 5 { \pm } 2 . 0 ) \%$ （图6C、G)，与高糖处理组比较,差异明显 $( P { < } 0 . 0 1 )$ 。与NaHS作用相似,应用 $5 0 ~ \mathrm { n g / m L }$ LA预处理HUVECs $^ { \textrm { 1 h } }$ 也能对抗高糖引起的线粒体损伤，MFI升高至 $( 2 5 . 9 \pm 1 . 8 ) \%$ （图6D、G)， $P { < } 0 . 0 1 \rangle$ 。单独用 $4 0 0 \ \mu \mathrm { m o l / L }$ NaHS(图6E、G)或$5 0 ~ \mathrm { n g / m L }$ LA(图6F、G)处理HUVECs对MMP水平无明显影响 $( P { > } 0 . 0 5 )$ 。
+
+![](images/0fadc65fb18b7211c504a7f4001a6b8e996ba638db7fb410910120e2750fa484.jpg)
+
+![](images/5d50b31d305e6d9e4413d4ecbe405a2c049d6865e44f5081a89afaf4b5664497.jpg)  
+图4外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 与LA抑制高糖引起的HUVECs 凋亡 Fig.4 Exogenous HS and leptin antagonist (LA) reduce high-glucose (HG, $4 0 ~ \mathrm { \ m m o l / L }$ glucose)- induced apoptosis of in HUVECs $( M e a n \pm S D ,$ $n { = } 3 ,$ (Original magnification: $\times 2 0 0$ ） $^ { * * } P { < } 0 . 0 1$ Us control group; $^ { + + } P { < } 0 . 0 1$ us HG-treated group. $A$ : Control; $B$ HG; C: HG+NaHS; $D$ $\mathrm { H G } { + } \mathrm { L A }$ ;E:NaHS;F:LA.
+
+# 3讨论
+
+高血糖可通过多种病理生理机制，如引起血管内皮细胞功能损伤等，导致糖尿病的多种并发症。本研究通过建立高糖损伤HUVECs模型，证实了高糖对血管内皮细胞有明显的损伤作用，表现为降低细胞存活率、增加内皮细胞凋亡、氧化应激(胞内ROS堆积)和线粒体损伤(MMP丢失)等。
+
+高糖对内皮细胞 $\mathrm { H } _ { 2 } \mathrm { S }$ 的生成具有抑制作用，而外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 可保护高糖诱导的内皮细胞损伤，其机制可能与抗氧化应激、线粒体保护等作用有关。生理浓度的 $\mathrm { H } _ { 2 } \mathrm { S }$ 供体(如 $\mathrm { N a } _ { 2 } \mathrm { S }$ 及NaHS等)可抑制细胞凋亡[], $\mathrm { H } _ { 2 } \mathrm { S }$ 还可能对细胞内氧消耗起调节作用[12]。有研究证实， $\mathrm { H } _ { 2 } \mathrm { S }$ 可通过抗氧化等作用对抗高血糖引起的血管内皮细胞损伤[13]。还有研究证实,NaHS能显著阻断氧化型低密度脂蛋白引起的HUVECs线粒体膜电位降低，从而保护内皮细胞[14]。本研究观察到，外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 能保护HUVECs对抗高糖引起的损伤，具体表现为提高细胞存活率，减少细胞凋亡及ROS的生成，减少线粒体膜电位的丢失。
+
+本研究还发现，高糖在引起HUVECs损伤的同时，还能上调内皮细胞瘦素和瘦素受体的表达。而瘦素拮抗剂可保护HUVECs对抗高糖诱导的损伤，提示瘦素/瘦素受体通路介导高糖诱导的内皮细胞损伤。
+
+有研究证实，外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 能通过抑制瘦素 $\cdot \mathrm { p } 3 8$ 丝裂原活化蛋白激酶、细胞外信号调节激酶1/2通路抑制高糖引起的心肌细胞损伤[8.15]。但目前 $\mathrm { H } _ { 2 } \mathrm { S }$ 通过调控有关信号通路保护内皮细胞的相关研究较少。本研究观察到，外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 对HUVECs的保护作用与瘦素拮抗剂类似，因此我们推测这种保护作用可能与抑制瘦素瘦素受体通路有关。进一步研究发现,外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 可抑制高糖对HUVECs瘦素以及瘦素受体表达的上调作用，也即抑制了瘦素瘦素受体通路，这就证实了 $\mathrm { H } _ { 2 } \mathrm { S }$ 对HUVECs的保护作用与抑制瘦素/瘦素受体通路有关。
+
+综上，本研究证实，外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 可通过抑制瘦素/瘦素受体通路对抗高糖引起的HUVECs损伤，这为深入阐明高血糖对血管内皮细胞损伤的机制以及外源性$\mathrm { H } _ { 2 } \mathrm { S }$ 对内皮细胞的保护机制提供了新的实验依据，为寻找新的防治糖尿病血管病变的治疗策略提供了理论依据。
+
+![](images/6ddaf4ef379d086aab53bcae4ffc8fa860184ed1f4d3a09ae2b9bdf95c710eba.jpg)
+
+![](images/6e354c80faaa064b5214fb7ace3e41bdc68e7536637dd9dc6675d128905ab69f.jpg)  
+图5外源性 $\mathrm { H } _ { 2 } \mathrm { S }$ 与LA抑制高糖引起的HUVECs内 ROS堆积 Fig.5Exogenous $\mathrm { H } _ { 2 } S$ and leptin antagonist (LA) reduce high-glucose $\mathrm { ( H G , ~ 4 0 ~ m m o l / L }$ glucose)-induced accumulation of reactive oxygen species (ROS) in HUVECs $( M e a n \pm S D ,$ $\scriptstyle n = 3 ^ { \prime }$ (Original magnification: $\times$ 100). $* * P { < } 0 . 0 1$ Us control group; $^ { + + } P { < } 0 . 0 1$ us HG-treated group. $A$ :Control; B:HG; C: $\mathrm { H G } +$ NaHS; $D$ $\mathrm { H G } { + } \mathrm { L A }$ ；E: NaHS; F: LA.
+
+# 参考文献：
+
+[1]Peake BF,Nicholson CK,Lambert JP,et al.Hydrogen sulfide preconditions the db/db diabetic mouse heart against ischemiareperfusion injury by activating Nrf2 signaling in an Erk-dependent manner[J].Am JPhysiol Heart Circ Physiol,2013,304(9): H1215-24.   
+[2]Murali R，Karthikeyan A，Saravanan R.Protective effects of d-Limonene on lipid peroxidation and antioxidant enzymes in Streptozotocin-Induced diabetic rats [J]．Basic Clin Pharmacol Toxicol,2013,112(3): 175-81.   
+[3]Soetikno V,Sari FR,Sukumaran V,et al.Curcumin prevents diabetic cardiomyopathy in streptozotocin-induced diabetic rats: possible involvement of PKC-MAPK signaling pathway[J].Eur J Pharm Sci,2012,47(3): 604-14.   
+[4]Boudina S,Sena S,Theobald H,et al. Mitochondrial energetics in the heart in obesity-related diabetes:direct evidence for increased uncoupled respiration and activation of uncoupling proteins [J]. Diabetes,2007,56(10):2457-66.   
+[5]Zhang Y, Tang ZH,Reng Z,et al. Hydrogen sulphide,the next protect pretentive and therapeutic agent inaging and age-associated diseases[J].Mol Cell Biol,2013,33(6):1104-13.   
+[6]Murad A,Nath AK,Cha ST,et al. Leptin is an autocrine/paracrine regulator of wound healing[J].FASEB Journal, 2003,17(11): 1895.   
+[7] Zhang F, Chen Y,Heiman M,et al. Leptin:structure,function and biology[J].Vitam Horm,2005,71: 345-72.   
+[8]Zhang XD,Hu X,Long M,et al. Exogenous Hydrogen sulphide alleviates high glucose-induced cardiotoxicity via inhibition of leptin signaling in H9c2 cells[J].Mol Cell Biochem,2014,391(1/ 2): 147-55.   
+[9]齐菲,颜光涛.抑制胞浆型磷脂酶A2活性对内毒素诱导人脐静脉内 皮细胞分泌瘦素的影响[J].中国危重病急救医学,2011,23(2): 68-71.   
+[10]Nickola MW,Wold LE,Colligan PB,et al.Leptin attenuates cardiac contraction in ratventricularmyocytes.Role of NO [J]. Hypertension,2000,36(4): 501-5.   
+[11] Sivarajah A,Collino M,Yasin M,et al.Anti-apoptotic and anti-inflammatory effects of hydrogen sulfide in rat model of regional myocardial I/R[J]. Shock,2009,31(3): 267-74.   
+[12]KajimuraM,FukudaR,Bateman RM,etal. Interactions of multiple Gas-Transducing systems:hallmarks and uncertainties of CO,NO, and $\mathrm { H } _ { 2 } \mathrm { S }$ gas biology[J].Antioxid Redox Signal,2010,13(2): 157-92.   
+[13] Suzuki K,Olah G,Modis K,et al.Hydrogen sulfide replacement therapy protects the vascular endothelium in hyperglycemia by
+
+![](images/4bf508c1600a69aa6d534b5117ab410772a404e7e03fabb4f7577e52ad5ea032.jpg)
+
+![](images/cdcf84b428adef4d97bb5772830a0abfff81aa60c13e1280799a2bea241cd9aa.jpg)
+
+# 图6外源性HS与LA抑制高糖对HUVECs线粒体的损伤作用
+
+Fig.6Exogenous $\mathrm { H } _ { 2 } S$ and leptin antagonist (LA）attenuate high-glucose (HG, $4 0 \ \mathrm { m m o l / L }$ glucose)-induced decrease of mitochondrial member potential (MMP) in HUVECs (Mean $\pm$ SD, $\scriptstyle n = 3$ ）(Original magnification: $\times 1 0 0 \text{‰}$ ！ $^ { * * } P { < } 0 . 0 1$ Us control group; $^ { + + } P { < } 0 . 0 1$ us HG-treated group. A: Control; B: HG; C:HG $\therefore$ NaHS; $D$ ： $_ { \mathrm { H G + L A } }$ $E$ NaHS; F: LA.
+
+preserving mitochondrial function[J].Proc Natl Acad Sci USA, 2011,108(33):13829-34.
+
+[14]任重，赵战芝，彭湘萍,等.硫化氢对氧化型低密度脂蛋白诱导的人脐静脉内皮细胞凋亡的影响[J].中国动脉硬化杂志,2011,19(11):891-6.
+
+[15]Xu WM,Wu W,Chen JF,et al.Exogenous Hydrogen sulfide protects H9c2 cardiac cells against high glucose-induced injury by inhibiting the activities of the p38 MAPK and ERK1/2 pathways [J].Int JMol Med,2013,32(4): 917-25.
+
+(编辑：吴锦雅）

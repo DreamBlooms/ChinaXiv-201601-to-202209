@@ -1,0 +1,232 @@
+# 求解并行机拖期与能耗成本优化调度的混合教一学算法
+
+王永琦，吴飞，江潇潇，王春媛(上海工程技术大学 电子电气工程学院，上海 201620)
+
+摘要：针对加工时间可控的并行机调度，提出了一类考虑拖期与能耗成本优化的调度问题。首先对调度问题进行了问题描述，并建立了整数线性规划模型以便于CPLEX求解。为了快速获得问题的满意解，提出了一种混合教-学算法。结合问题的性质，设计了编码与解码方法以克服标准教-学算法无法直接适用于离散问题的缺点。同时，构建了基于变邻域搜索的局部搜索算子以强化混合算法的搜索性能。最后，对加工时间可控的并行机调度问题进行了仿真实验，测试结果验证了本文构建的整数线性规划模型和混合算法的可行性和有效性。
+
+关键词：并行机调度；拖期；能耗；可控加工时间；教-学优化算法中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.09.0929
+
+# Hybrid teaching-learning-based optimization algorithm for optimizing tardiness and energy cost on parallel machine scheduling
+
+Wang Yongqi, Wu Fei, Jiang Xiaoxiao, Wang Chunyuan (School ofElectronic &Electrical Engineering,Shanghai UniversityofEngineering,Shanghai 2O1620,China
+
+Abstract:Fortheparalelmachineschedulingwithcontrollable processingtimes (PMS-CPT),this paperproposedascheduling problem foroptimizing tardinessandenergycost.First,this article developedaninteger linear programming (ILP)model for the proposed scheduling problem in order to facilitate theCPLEX solver. Second,this paper established a hybridteachinglearning-based optimization (HTLBO)algorithm to quicklyobtain satisfactory solutions.This algorithmadopted anewcoding and decoding method acording to the nature ofthe proposed paralel machine scheduling problem,which overcame the weakness ofstandard teaching-learming-based optimization algorithm thatcould not be directly aplied to discrete problems. Meanwhile,a local optimizer was proposed basedon variable neighborhood search (VNS)，which aimed to enhance the performanceofthehybridalgorithm.Finaly,thesimulations wereconducted to solveinstancesofPMS-CPT.Theexperimental results demonstrate the feasibility and validity of the proposed ILP model and hybrid algorithm.
+
+Key Words:Parallel machinescheduling;；Tardiness；Energy；Controllable processing times；Teaching-learning-based optimization algorithm
+
+# 0 引言
+
+作为当前实际生产制造过程中的一类典型的调度问题，并行机调度(parallelmachine scheduling,PMS)问题具有相当广泛的应用背景，包括云计算、半导体加工、汽车制造等行业[。传统的PMS问题致力于优化与作业完成时间相关的指标，包括最大完工时间、提前期/拖期等。随着客户定制化的快速发展以及全球能源价格的攀升，准时化与节能调度成为当前车间调度的重要方面[2-4]。因此，进行并行机拖期与能耗成本优化调度方面的研究具有重要的理论意义和工程应用价值。
+
+PMS问题已被证明为NP-hard问题，快速、高效的算法设计已经成为这一领域的重要课题。相关的求解算法可以归纳为以下三类：精确算法、启发式算法和智能算法[5]。精确求解算法包括动态规划、分枝定界等算法，这类算法能够获得PMS问题的准确解，但随着问题规模的扩大，这类算法所需的计算时间将急剧增长。启发式算法利用调度规则来实现加工任务在不同机器上的分配及排序，能够快速获得PMS问题的近似最优解，但这类求解方法对问题设置具有较严格的限制。近年来，随着智能算法的快速发展，学者们已经将各类智能算法运用到相关PMS问题的求解中来，包括遗传算法、禁忌搜索算法、粒子群算法和模拟退火算法等，这类算法能够在满足时间要求的前提下获得PMS问题的满意解。然而，上述智能算法存在控制参数多难以选取、收敛速度慢、迭代后期易陷入局部最优等缺点。为此，本文构建了混合教-学算法以快速有效地求解PMS问题。
+
+教-学优化算法(teaching-learning based optimization，TLBO)是Rao 等学者提出的一种新型的群体智能优化算法[7]。该算法通过模拟实际师生授课过程中的“教学”和“学习”两个过程来实现问题的优化，以上两个过程在TLBO算法中分别定义为“教学阶段”和“学习阶段”。TLBO算法具有控制参数少、收敛速度快等优点，并在复杂函数优化、神经网络训练、资源项目调度等多个方面都获得了成功应用[8-11]。同时，鲜有文献将该算法应用于并行机调度问题的研究。
+
+基于以上研究，本文针对加工时间可控的并行机调度，提出了一类考虑拖期与能耗成本优化的调度问题。构建了该问题的整数线性规划模型以利于CPLEX求解，并提出了混合教一学求解算法以快速获得中大规模问题的满意解。最后进行了仿真测试，力求验证本文构建的整数线性规划模型和混合优化算法的可行性和有效性。
+
+# 1 问题模型
+
+# 1.1问题描述
+
+假设有 $\mathbf { \Sigma } _ { m }$ 台机器负责 $n$ 个订单的加工作业，每个订单有各自的交货期和单位时间拖期惩罚成本，每台机器有多种不同的加工速度，不同加工速度对应的单位时间的能耗成本不同。
+
+本文致力于优化并行机调度问题的拖期与能耗成本总和，需要决策以下三方面的因素：不同机器所负责加工的订单集合；各个机器上订单的加工顺序；各个机器上所有订单的加工速度。
+
+# 1.2数学模型
+
+基于以上问题描述，在此定义以下符号以构建本文提出的  
+PMS-CPT问题的整数线性规划模型。$\mathbf { \Omega } _ { m }$ ：机器总数,机器编号以 $i$ 表示;$n$ ：订单总数,订单编号以 $j$ 表示;$\mathbf { \xi } _ { l }$ ：表示机器上的加工位置编号，各个机器均设置 $n$ 个加工  
+位置,即 $1 \leq l \leq n$ ·，$u _ { i }$ ：表示机器 $i$ 的加工速度总数,速度编号以 $s$ 表示;$\ell _ { j }$ ：订单 $j$ 的工作负荷;$d _ { j }$ ：订单 $j$ 的交货期;$C _ { j }$ :订单 $j$ 的完工时间;$T _ { j }$ ：订单 $j$ 的拖期,即 $T _ { j } = \operatorname* { m a x } \{ 0 , C _ { j } - d _ { j } \}$ $\omega _ { j }$ ：订单 $j$ 单位时间的拖期成本;$S _ { i s }$ ：机器 $i$ 第 $s$ 个加工速度的取值;$e _ { i s }$ ：机器 $i$ 以速度 $s$ 运转时产生的单位时间的能耗成本;
+
+$t _ { j i s }$ ：机器 $i$ 以速度 $S _ { i s }$ 加工订单 $j$ 所需的时间,即 $t _ { _ { j i s } } = \ell _ { _ j } / S _ { _ { i s } }$ 决策变量：
+
+$x _ { j i l s }$ :表示0-1变量,当订单 $j$ 在机器 $i$ 上位置 $\mathbf { \xi } _ { l }$ 处以速度 $S _ { i s }$ 加工时，取值为1;否则，为0;
+
+$b _ { i l }$ ：机器 $i$ 上位置 $l$ 处的订单开始加工的时间。
+
+数学模型：
+
+$$
+{ \mathrm { M i n } } \quad F = \sum _ { j = 1 } ^ { n } \omega _ { j } \cdot T _ { j } + \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } \sum _ { l = 1 } ^ { n } \sum _ { s = 1 } ^ { u _ { i } } t _ { j i s } \cdot e _ { i s } \cdot x _ { j i l s }
+$$
+
+$$
+\sum _ { i = 1 } ^ { m } \sum _ { l = 1 } ^ { n } \sum _ { s = 1 } ^ { u _ { i } } x _ { j i l s } = 1 , \quad 1 \leq j \leq n
+$$
+
+$$
+\sum _ { j = 1 } ^ { n } \sum _ { s = 1 } ^ { u _ { i } } x _ { j i l s } \leq 1 , 1 \leq i \leq m , 1 \leq l \leq n
+$$
+
+$$
+b _ { i , l + 1 } - b _ { i , l } = \sum _ { j = 1 } ^ { n } \sum _ { s = 1 } ^ { u _ { i } } t _ { j i s } \cdot x _ { j i l s } \ , 1 \leq i \leq m , 1 \leq l \leq n - 1
+$$
+
+$$
+T _ { j } \geq b _ { i , l } + t _ { j i s } \cdot x _ { j i l s } - ( 1 - x _ { j i l s } ) \cdot M - d _ { j } ,
+$$
+
+$$
+1 \leq i \leq m , 1 \leq s \leq u _ { i } , 1 \leq j \leq n , 1 \leq l \leq n
+$$
+
+$$
+T _ { j } \geq 0 , 1 \leq l \leq n
+$$
+
+$$
+x _ { \mathit { j i l s } } \in \left\{ 0 , 1 \right\} , 1 \leq i \leq m ,
+$$
+
+$$
+1 \leq s \leq u _ { i } , 1 \leq l \leq n , 1 \leq j \leq n
+$$
+
+其中，式(1)定义了目标函数，该目标函数包含两项成本：所有订单的拖期惩罚成本总和；所有订单的加工能耗成本总和。约束式(2)表述每一个订单只能安排在一台机器的一处位置上以一个确定的速度进行加工；约束式(3)表示每台机器上的一个位置处至多安排一个订单的加工作业；约束式(4)计算了机器 $i$ 上位置 $l$ 处订单开始加工的时间；约束式(5)(6)用于计算订单 $j$ 的拖期 $T _ { j }$ ；式(7)给出了自变量的取值范围。
+
+# 2 标准教一学优化算法
+
+TLBO算法利用种群来表示问题的解，当前种群中最优秀的个体称为教师，其余个体称为学生。算法的邻域搜索部分包括“教学阶段”和“学习阶段”两个部分。在教学阶段，TLBO算法利用教师个体和群体均值个体对学生个体进行教学，进而实现种群的进化；在学习阶段，TLBO 算法从当前群体中随机地选择两个个体，并采用当前个体向较优个体进行学习的策略实现种群的更新。标准TLBO算法的实现流程归纳如下：
+
+a)初始化TLBO算法的控制参数和待优化问题的参数。包括种群规模学生数目 $P$ ，问题变量的维数 $D$ ，各个维度自变量的取值范围[xd,x]。
+
+b)构建初始种群，并计算每个个体的适应度值，个体的初始化公式为 $x _ { d } = x _ { d } ^ { l } + r a n d ( 0 , 1 ) \cdot \left( x _ { d } ^ { u } - x _ { d } ^ { l } \right)$ 。其中，rand(0,1)表示[0,1]上的随机数。
+
+c)教学阶段。首先，计算当前群体所有个体每一维的均值$\overline { { x } } _ { i }$ ，进而得到平均个体， $\overline { { x } } = \left\{ \overline { { x } } _ { 1 } , \overline { { x } } _ { 2 } , \cdots , \overline { { x } } _ { D } \right\}$ 。其次，对于当前种群中的任一个体 $x$ ，利用个体更新公式得到新个体 $x ^ { \prime }$ 。最后，比较新旧个体 $x ^ { \prime }$ 和 $x$ 的适应度值，并采取贪婪保留策略，即保留适应度值较优的个体，放弃适应度值较劣的个体。个体公式为： $\scriptstyle x ^ { \prime } = x + r a n d ( 0 , 1 ) \cdot \left( x ^ { * } - { \hat { \sigma } } \cdot { \overline { { x } } } \right)$ ，其中 $x ^ { * }$ 为教师个体，即当前种群中的最优解，教学因子 $\boldsymbol { \hat { o } }$ 表述随机整数，取值集合为{1,2}。
+
+d)学习阶段。首先，随机从经历过教学阶段的种群中选择两个个体，分别记做 $x ^ { 1 }$ 和 $x ^ { 2 }$ ;其次，选择 $x ^ { 1 }$ 和 $x ^ { 2 }$ 中较优秀的个体进行学习。以 $f ( \cdot )$ 表示适应度函数，假定待优化的问题为最小化问题，个体更新公式为
+
+$$
+x ^ { \prime } = { \left\{ \begin{array} { l l } { x + r a n d ( 0 , 1 ) \cdot ( x ^ { 1 } - x ) } & { { \xrightarrow { + } } { \mathrm { i f } } f ( x ^ { 1 } ) < f ( x ^ { 2 } ) } \\ { x + r a n d ( 0 , 1 ) \cdot ( x ^ { 2 } - x ) } & { { \xrightarrow { - } } { \mathrm { i f } } | | | } \end{array} \right. }
+$$
+
+e)算法终止条件判断。若满足算法终止条件(达到最大迭代次数或规定的计算时间等)，则终止TLBO算法，并输出当前最优解；否则，转c)。
+
+# 3 改进教-学算法
+
+# 3.1编码与解码
+
+标准TLBO算法采用实数编码方式，无法直接适用于离散问题，故需要结合PMS-CPT问题的性质在编码与解码方面进行重新的定义和设计。
+
+已知问题参数：机器总数 $m$ ，订单总数 $n$ 和每个机器的加工速度总数 $u _ { i } \left( 1 \leq i \leq m \right)$ ，则本文提出的并行机调度问题可采用$1 \times n$ 维数组进行编码表示，各维度编码数值的取值范围为$[ 1 , m + 1 )$ ，编码的第 $j$ 维对应订单 $j$ 。第 $j$ 维编码的整数部分对应订单 $j$ 所分配的机器编号；第 $j$ 维编码小数部分第1\~logmx(l=l..m]|用于确定订单j；的加工速度，第$\Big \lceil \log _ { 1 0 } ^ { \operatorname* { m a x } \{ u _ { i } | i = 1 , 2 , \cdots , m \} } \Big \rceil + 1$ 位至最后用于确定订单 $j$ 在机器上的加工顺序。
+
+解码过程：首先，对编码进行整数取整，以此确定各个订单对应的机器编号。其次，取各维编码小数部分的第1\~logmx(uli.m]位，并构建各个机器的轮盘赌概率模型以选择各订单的加工速度；针对机器 $i$ ，已知该机器的速度类型总数为 $u _ { i }$ ，则当相应编码数值处于区间 $[ ( s - 1 ) / u _ { i } , s / u _ { i } )$ 时，订单的加工速度取值为 $S _ { i s } ( 1 \leq i \leq m ^ { \prime } , 1 \leq s \leq u _ { i } )$ 。最后，依据分配到同一机器上的订单对应的编码数值的第 $\Big \lceil \log _ { 1 0 } ^ { \operatorname* { m a x } \{ u _ { i } | i = 1 , 2 , \cdots , m \} } \Big \rceil + 1$ 位至最后的数值大小，进行升序排列以确定订单加工顺序。
+
+图1给出了编码与解码示意图，算例参数为：机器总数$\scriptstyle m = 2$ ，订单总数 $\scriptstyle n = 5$ ,每个机器的加工速度种类 $u _ { i } { = } 3 \left( 1 { \le } i \le m \right)$ 。因此，编码的各个维度的取值范围为[1,3)，编码的整数部分表示订单-机器分配情况，编码的小数部分第一位用于确定订单加工速度，小数部分第二位至最后用于确定订单加工顺序。已知初始编码{2.629,2.812,1.254,2.827,2.265,1.195}。解码结果归
+
+纳如下：
+
+订单1在机器2上以速度 $S _ { 2 2 }$ 进行加工;  
+订单2在机器2上以速度 $S _ { 2 3 }$ 进行加工;  
+订单3在机器1上以速度 $S _ { 1 1 }$ 进行加工；  
+订单4在机器2上以速度 $S _ { 2 3 }$ 进行加工;  
+订单5在机器1上以速度 $S _ { 1 1 }$ 进行加工;  
+机器1的订单加工顺序为{3,5}；  
+机器2的订单加工顺序为{2,4,1}。Order1 Order2 Order3 Order4 Order5  
+初始编码 2.629 2.812 1.254 2.827 1.265步骤1 Order1 Order2 Order3 Order4 Order5编码整数部分 2 2 1 2 1↓ →Order3 Order5 Order1 Order2机器1订单集合 机器2订单集合 Order4s\*\*\*\*.\*\*\*\*\*\*\*\*\*\*\*.\*步骤2 Sil 速度选择的轮盘赌模型0\~0.330.67\~0.33–0.67 S3  
+解码过程 S2编码小数部分 Order1 Order2 Order3 Order4 Order5第1位 0.6 0.8 0.2 0.8 0.2Order1 Order2 Order3 Order4 Order5S22 S23 S11 S23 S11.....\*.\*\*....\*.\*...... ...--s ...........编码小数部分 Order1 Order2 Order3 Order4 Order5第2位至最后 0.029 0.012 0.054 0.027 0.0650.054<0.065 ↓ → 0.012<0.027<0.029Order3Order5 Order2Order4Order1步骤3 机器1订单加工顺序 机器2订单加工顺序
+
+# 3.2基于VNS 的局部搜索算子
+
+与其他群智能优化算法相类似，标准TLBO算法存在着迭代后期易陷入局部最优、寻优性能不足等缺点。为此，本文构建了基于变邻域搜索(Variable neighborhood search，VNS)的局部搜索算子，力求增强标准TLBO算法的搜索性能。
+
+VNS算法通过系统地改变邻域结构集以拓展当前算法的搜索范围，进而获得局部最优解；同时，基于此局部最优解，再次系统地改变邻域结构集来进一步拓展搜索的范围，力求找到另一个局部最优解[12]。下图给出了VNS 算法搜索过程的示意图。
+
+![](images/33e426d10ac1e2697c7e7feff659b88fb8d6d65b5cb79140cd41773b52d575bf.jpg)  
+图1编码与解码示意图  
+图2VNS 算法示意图
+
+给定解 $\boldsymbol { x } = \{ x _ { 1 } , x _ { 2 } , \cdots , x _ { D } \}$ ,VNS 算法的核心在于确定 $x$ 的邻域结构和搜索流程。给定循环次数 $K$ ，本文构建的基于VNS 的局部搜索算子可表述为：
+
+a)令 $k = 1$ ，转 $\mathbf { b }$ ）。
+
+${ \bf b } )$ 令 $d = 1$ ，转c)。
+
+$\mathbf { c } )$ 若 $d \leq D$ ，转 ${ \bf d } _ { , } ^ { \aa }$ ；否则，转f)。
+
+d)令 $x _ { d } ^ { \prime } = x _ { d } + s i g n \cdot r a n d ( 0 , 1 ) \cdot \beta \cdot m$ ，转e)。
+
+e)令 $d \gets d { + } 1$ ，转c)。
+
+f)计算 $x ^ { \prime }$ 的适应度值 $f ( x ^ { \prime } )$ ，若 $f ( x ^ { \prime } ) \leq f ( x )$ ，则令 $x \gets x ^ { \prime }$ ，转g)。
+
+g)令 $k \gets k + 1$ ，若 $k < K$ ，转 $\mathbf { b } _ { , } ^ { \dagger }$ ；否则，结束VNS 搜索。其中，d)定义了邻域变换公式，sign表述随机整数，取值集合为 $\{ - 1 , 1 \} ~ , ~ \beta$ 为邻域控制参数取值为(0.1]， $\mathbf { \Sigma } _ { m }$ 为模型参数(即机器总数)。
+
+# 3.3改进教-学算法流程
+
+结合以上描述，给出求解 PMS-CPT 问题的 HTLBO 算法流程，归纳如下：
+
+a)初始化算法的各个参数，包括种群规模、算法终止条件等。
+
+b)采用随机方法构建初始种群，并计算适应度值。
+
+c)计算当前种群的平均个体，并利用“教学阶段”的邻域更新公式更新种群。
+
+d)利用“学习阶段”的邻域更新公式更新种群。
+
+e)针对“教学阶段”和“学习阶段”个体更新失败的解，采用基于VNS的局部搜索算子进行个体的二次更新操作。
+
+f)若算法满足终止条件，则终止迭代搜索并输出当前最优解；否则，转c)。
+
+# 4 仿真实验及分析
+
+# 4.1算例设计
+
+由于难以从现有的文献中获得与本文提出的并行机调度问题类似的测试数据集，因此，本文依据Hall和Posner学者提出的机器调度问题测试数据生成方法构建了本文的测试算例[13]。
+
+本文构建的测试算例分为：小规模算例和中大规模算例，共计21个。其中，小规模测试算例能够通过CPLEX进行求解，并将所得的最优解用于混合教-学算法的性能分析；中大规模算例则无法在合理的计算时间内借助CPLEX获得精确解，因此采用其他同类型智能算法所得的满意解进行混合教-学算法的性能分析。对于小规模算例，机器数目 $m \in \{ 3 , 4 , 5 \}$ ，订单数目$n \in \{ 5 , 1 0 , 1 5 \}$ ；对于中大规模算例，机器数目 $m \in \{ 3 , 4 , 5 \}$ ，订单数目 $n \in \{ 3 0 , 5 0 , 8 0 , 1 0 0 \}$ 。对于算例 $( m , n )$ ，相关参数取值如下：
+
+a)订单 $j$ 的工作负荷 $\ell _ { j }$ 在均匀分布 $U ( 1 , 1 0 0 )$ 上产生；订单$j$ 单位时间的拖期成本系数 $\omega _ { j }$ 在均匀分布 $U ( 0 , 1 )$ 上产生；
+
+b)各机器加工速度类型总数 $u _ { i } = 5$ ，机器 $i$ 第 $s$ 个加工速度的取值 $S _ { i s }$ 在均匀分布 $U ( 5 , 1 0 )$ 上产生；
+
+c)机器 $i$ 以速度 $s$ 运转时产生的单位时间的能耗成本 $e _ { i s }$ 在均匀分布 $U ( 0 , 1 )$ 上产生，且加工速度越低，对应的 $e _ { i s }$ 值越大;
+
+d)订单 $j$ 的交货期 $d _ { j }$ 在均匀分布 $U ( 0 . 5 \cdot \bar { D } , 2 \cdot \bar { D } )$ 上产生，其中 $\bar { D }$ 的表达式为
+
+$$
+\bar { D } = 0 . 5 \cdot \frac { \displaystyle \sum _ { j = 1 } ^ { n } l _ { j } } { m } \div \frac { \displaystyle \sum _ { i = 1 } ^ { m } \sum _ { s = 1 } ^ { u _ { i } } S _ { i s } } { \displaystyle \sum _ { i = 1 } ^ { m } u _ { i } }
+$$
+
+在MATLAB2016a平台上进行编程测试，计算机参数为主频 $1 . 6 \mathrm { G H z }$ 、内存 $^ { 8 \mathrm { G B } }$ 、IntelCore i5-8250UCPU，PMS-CPT问题的整数线性规划通过CPLEX-MATLAB接口借助CPLEX12.4 进行求解。针对各个测试算例，HTLBO 算法进行30 次独立仿真测试。在小规模算例中，HTLBO 算法的种群规模设为30，最大计算时间设为10s，参数 $K$ 取值为5，参数 $\beta$ 取值为0.2；在中大规模算例中，HTLBO 算法的种群规模设为80，最大计算时间设为150s，参数 $K$ 取值为15，参数 $\beta$ 取值为0.1。
+
+# 4.2测试结果
+
+首先，利用CPLEX 和HTLBO 算法对小规模测试算例进行了求解，测试结果见表1。其中， $\boldsymbol { F } ^ { * }$ 表示 CPLEX 所得的精确解，后一列为CPLEX求解各个算例所需的计算时间； $F _ { b }$ 和$F _ { m }$ 分别表示 HTLBO 算法在30 次独立仿真测试中所获得的最优解和最劣解， $P _ { b }$ 表示获得最优解的实验次数占总实验次数（即30次）的百分比。
+
+由表1的测试结果可知，CPLEX能够利用本文构建的整数线性规划模型获得 PMS-CPT 调度问题的精确解 ${ \bf \Xi } ( { \bf \Lambda } _ { F ^ { * } } )$ ，据此验证了整数线性规划模型的有效性。但CPLEX所消耗的计算时间较大，算例(5,15)达到了2815s。对于各个小规模测试算例$( m , n )$ ,本文构建的HTLBO 能够获得问题的准确解(即 $F _ { b } { = } F ^ { * }$ ），且30 次独立实验所得准确解的百分比 $\langle P _ { b }$ )不低于 $8 3 . 7 4 \%$ ；同时，最劣解( $F _ { _ m }$ )与准确解数值较为接近。考虑到HTLBO 的计算时间仅为10s，远小于CPLEX的计算时间，据此可验证HTLBO算法在解决小规模算例时的有效性。
+
+表1小规模算例测试结果  
+
+<html><body><table><tr><td rowspan="2">(m,n)</td><td colspan="2">CPLEX</td><td colspan="3">HTLBO</td></tr><tr><td>F*</td><td>时间/s</td><td>Fb</td><td>Fw</td><td>P1%</td></tr><tr><td>(3,5)</td><td>20.46</td><td>233</td><td>20.46</td><td>21.05</td><td>94.68</td></tr><tr><td>(3,10)</td><td>38.52</td><td>412</td><td>38.52</td><td>39.44</td><td>93.16</td></tr><tr><td>(3,15)</td><td>111.45</td><td>1686</td><td>111.45</td><td>113.21</td><td>91.16</td></tr><tr><td>(4,5)</td><td>10.67</td><td>351</td><td>10.67</td><td>10.93</td><td>95.01</td></tr><tr><td>(4,10)</td><td>28.14</td><td>1514</td><td>28.14</td><td>28.94</td><td>91.53</td></tr><tr><td>(4,15)</td><td>87.52</td><td>1793</td><td>87.52</td><td>88.72</td><td>88.15</td></tr><tr><td>(5,5)</td><td>13.35</td><td>564</td><td>13.35</td><td>13.80</td><td>91.80</td></tr><tr><td>(5,10)</td><td>38.94</td><td>2382</td><td>38.94</td><td>39.44</td><td>88.09</td></tr><tr><td>(5,15)</td><td>63.03</td><td>2815</td><td>63.03</td><td>63.69</td><td>83.74</td></tr></table></body></html>
+
+进一步，进行了中大规模算例的测试。考虑到CPLEX 无法在合理的时间内获得这类测试算例的准确解，因此将HTLBO算法与 TLBO 算法和粒子群算法(particle swarm optimization,PSO)算法[14]进行比较。针对每个算例，各算法运行30次，表2 统计了寻优结果的平均值( $\overline { { F } }$ )与标准差 $( \sigma$ )。此外，变量 $\kappa$ 表示相对平均偏差百分比，针对各个测试算例 $( m , n )$ ，令三个算法共计 90 测仿真所得的最优解为 ${ \boldsymbol { F } } ^ { \prime }$ ，变量 $\kappa$ 的计算公式为$( \bar { F } - F ^ { \prime } ) / F ^ { \prime } { \times } 1 0 0 \%$ 。
+
+由表2的测试结果可知，融合了基于VNS的局部搜索算子的 HTLBO 算法在均值( $\mathit { \Pi } _ { \overline { { F } } }$ )和相对平均偏差百分比 ${ \bf \Xi } ( { \bf \Lambda } _ { \kappa } )$ 两个指标方面均要优于TLBO算法和PSO 算法，据此可知HTLBO算法的搜索结果总体较其他两种算法更优秀。同时，HTLBO 算法30次独立仿真测试结果的标准差( $\sigma$ 值)更小，这说明HTLBO算法具有较强的鲁棒性，表现更为稳定。
+
+# 5 结束语
+
+本文针对加工时间可控的并行机调度，研究了一类考虑拖期与能耗成本优化的调度问题。构建了该问题的整数线性规划模型，并借助CPLEX对小规模问题进行精确求解。同时，设计了混合教-学算法以快速获得中大规模问题的满意解。对21个测试算法进行了仿真测试，实验结果表明CPLEX和混合教一学算法能够获得小规模问题的精确解，且混合教一学算法的计算耗时较短；同时相较于标准TLBO算法和PSO算法，混合教一学算法在求解中大规模测试算例时表现出更佳的性能，且算法鲁棒性更强。
+
+表2中大规模算例测试结果  
+
+<html><body><table><tr><td rowspan="2">(m,n)</td><td colspan="3">HTLBO</td><td colspan="2">TLBO</td><td colspan="3">PSO</td></tr><tr><td>F</td><td>9</td><td>K/%</td><td>F</td><td>9</td><td>K/%</td><td>F</td><td>0 K/%</td></tr><tr><td>(3,30)</td><td>337.58</td><td>2.67</td><td>3.49</td><td>340.93</td><td>3.58</td><td>4.51</td><td>338.77</td><td>3.75 3.85</td></tr><tr><td>(3,50)</td><td>812.57</td><td>7.66</td><td>4.21</td><td>819.78</td><td>12.50 5.13</td><td>817.76</td><td>10.32</td><td>4.87</td></tr><tr><td>(3,80)</td><td>2354.43</td><td>24.10</td><td>5.35</td><td>2369.27 37.40</td><td></td><td>6.01 2360.39</td><td>32.28</td><td>5.61</td></tr><tr><td>(3,100)</td><td>3138.57 34.17</td><td></td><td>6.30</td><td>3157.63 56.06</td><td></td><td>6.95 3149.36</td><td>43.80</td><td>6.67</td></tr><tr><td>(4,30)</td><td>318.13</td><td>2.91</td><td>3.62</td><td>321.23</td><td>5.48</td><td>4.63 320.17</td><td>4.98</td><td>4.29</td></tr><tr><td>(4,50)</td><td>625.26</td><td>7.61</td><td>4.02</td><td>632.52</td><td>12.18</td><td>5.23 629.51</td><td>10.23</td><td>4.73</td></tr><tr><td>(4,80)</td><td>1679.45</td><td>12.09</td><td>5.09</td><td>1686.75 24.49</td><td></td><td>5.55</td><td>1683.92 20.81</td><td>5.37</td></tr><tr><td>(4,100)</td><td>2183.21</td><td>16.46</td><td>6.66</td><td>2197.24 30.08</td><td></td><td>7.35 2192.75</td><td>34.46</td><td>7.13</td></tr><tr><td>(5,30)</td><td>223.67</td><td>1.89</td><td>3.94</td><td>226.73</td><td>2.97</td><td>5.37 225.17</td><td>2.69</td><td>4.64</td></tr><tr><td>(5,50)</td><td>450.66</td><td>3.89</td><td>4.47</td><td>457.76</td><td>7.16</td><td>6.12 454.09</td><td>6.93</td><td>5.27</td></tr><tr><td>(5,80)</td><td>1142.95</td><td>12.50</td><td>5.79</td><td>1152.99</td><td>24.22</td><td>6.72 1145.40</td><td>20.08</td><td>6.01</td></tr><tr><td>(5,100)</td><td>2208.56 20.45</td><td></td><td>6.72</td><td>2225.40 34.38</td><td></td><td>7.75 2217.73</td><td>31.27</td><td>7.62</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Cheng T C E,Sin C C S.A state-of-the-art review of parallel-machine
+
+scheduling research [J]. European Journal of Operational Research,1990, 47 (3): 271-292.   
+[2] Adamu M O,Abass O.Parallel machine scheduling to maximize the weighted number of just-in-time jobs [J].Journal of Applied Science and Technology,2010,15 (1-2).   
+[3] Yin Y, Cheng S R, Cheng TC E,et al. Just-in-time scheduling with two competing agents on unrelated parallel machines [J]. Omega,2016,63: 41- 47.   
+[4]Li K, Zhang X,Leung JY T, et al.Parallel machine scheduling problems in green manufacturing industry [J]. Journal of Manufacturing Systems, 2016, 38:98-106.   
+[5]Lin Y K,Pfund M E,Fowler JW.Heuristics for minimizing regular performance measures in unrelated paralel machine scheduling problems [J]. Computers & Operations Research,2011,38 (6): 901-916.   
+[6]Balin S.Non-identical parallel machine scheduling using genetic algorithm [J]. Expert Systems with Applications,2011,38 (6): 6814-6821.   
+[7]Rao RV,Savsani VJ, Vakharia D P.Teaching-learning-based optimization: an optimization method for continuous non-linear large scale problems [J]. Information Sciences,2012,183 (1): 1-15.   
+[8]Rao R V, Patel V.An improved teaching-learning-based optimization algorithm for solving unconstrained optimization problems [J]. Scientia Iranica,2013,20 (3): 710-720.   
+[9] 高立群，欧阳海滨，孔祥勇，等．带有交叉操作的教-学优化算法[J]. 东北大学学报：自然科学版,2014,35(3):323-327.   
+[10]于坤杰，王昕，王振雷．基于反馈的精英教学优化算法[J]．自动化学 报,2014,40 (9): 1976-1983.   
+[11]拓守恒，雍龙泉，邓方安．“教与学”优化算法研究综述[J]．计算机应 用研究,2013,30(7):1933-1938.   
+[12] Hemmelmayr VC,Doerner KF, HartlRF.A variable neighborhood search heuristic for periodic routing problems [J]. European Journal of Operational Research,2009,195 (3): 791-802.   
+[13] Hall N G,Posner M E.Generating experimental data for computational testing with machine scheduling applications [J]. Operations Research,2001, 49 (6): 854-865.   
+[14] AlRashidi MR, El-Hawary ME.A survey of particle swarm optimization applications in electric power systems [J].IEEE Trans on Evolutionary Computation,2009,13 (4): 913-918.

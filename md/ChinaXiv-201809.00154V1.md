@@ -1,0 +1,121 @@
+# 基于NGAS的多点观测数据存储与同步方法
+
+石□明1,3，邓辉2,3，戴伟3,4，卫守林31，王锋1,2.3,4  
+(1.昆明理工大学管理与经济学院，云南昆明 $6 5 0 0 9 3 \ ; \ 2 .$ 广州大学天体物理中心/物理与电子工  
+程学院，广东广州510006；3.昆明理工大学云南省计算机技术应用重点实验室，云南昆明650500；4.中国科学院云南天文台，云南 昆明650011)
+
+摘要：平方公里阵列（Square Kilometre Array，SKA）望远镜建成后将会具有超高的灵敏度、超快的巡天速度以及宽视场，进而产生超海量的观测数据。在SKA天文台与各国区域数据中心间的海量数据同步/传输是当前 SKA建设中的一个难点。SKA先导项目使用的下一代归档存储系统(Next Generation ArchiveSystem,NGAS）在应用测试中存在效率低下，性能不足等问题。本文提出了一种基于ZeroMQ的数据存储与同步方法，通过采用更加高效的异步消息机制实现同步传输数据，回避了NGAS原有的采用HTTP协议的局限。实验结果表明新方法在平均数据归档存储效率方面比NGAS原有方法快了将近40，能够基本满足10GB带宽的全速传输需要，取得了较好的使用效果。
+
+关键词：NGAS；SKA；存储与同步；海量数据；ZeroMQ中图分类号：P161;TP3 $1 1 . 1$ 文献标识码：A文章编号：1672-7673(2017)xX-xXXX-XX
+
+# 0引言
+
+由中国、澳大利亚、南非、英国等国家共同参与建设的平方公里阵列望远镜（Square KilometerArray，SKA）将是最大的天文实验装置，具有前所未有的灵敏度、巡天速度和视场[1-3]。SKA望远镜由分布在澳大利亚西部沙漠上的工作频率为50-350MHz的低频螺旋对数天线和南非及南部非洲8个国家上的工作频率为350MHz-15GHz的高频蝶形天线构成，其总接收面积达到1平方公里[45]。SKA将产生超海量的观测数据，在 SKA1阶段，每秒产生高达数十TB的原始数据，需要长期保存的科学数据每年新增50\~300PB，SKA2阶段，每年新增的科学数据将会达到 SKA1阶段时的100
+
+[3,6] 。
+
+为了应对站址国当前面临的预算和数据量处理的限制等相关问题，SKA提出建设区域数据中心，实现数据的异地存储与归档，并通过各国科学中心的建设推动科学研究工作的方案。这一目标的达成显然要求海量观测数据能够高速地从观测地（南非和澳大利亚）的数据中心同步传输、存储到区域数据中心，从当前的技术水平来看，这一需求也具有非常大的挑战。
+
+下一代归档存储系统（NextGeneration Archive System，NGAS）最初在SKA先导默奇森宽场阵列（MWA）中开发完成，是当前射电天文领域最为常用的一套成熟观测结果归档软件，系统采用 Python开发，功能非常丰富，具有高度的移植性。NGAS设计之初是为了解决ESO在20世纪末期面临的每天新增的 55GB观测数据进行高效且低成本的数据归档、处理、检索及同步的问题I7l。已经实际应用在MWA与美国麻省理工学院（MIT）和新西兰的惠灵顿维多利亚大学（VUW）I8间的数据同步，也被欧洲南方天文台（ESO）用来归档管理产生的海量观测数据及同步存储到不同的站点I9-12I；阿塔卡马大型毫米波/亚毫米波阵列（ALMA）使用 NGAS将收集的观测数据同步到美国、日本和德国的区域数据中心1,12。
+
+然而，在面对SKA这一类具有更高时效性要求的数据同步与归档需求时，NGAS仍然面临着一些问题。远程数据同步效率是其中的一个重要方面，这其中的根本原因在于NGAS在同步传输数据的过程中使用基于HTTP的方式来同步传输数据，由于HTTP协议封装效率较低，导致整个数据传输性能较差SKA-1的数据同步量相对较少，采用HTTP协议封装应可以满足要求。但随着SKA-2的建设，数据量呈指数级增长，这个时候研究新的封装方法，提高效率就成为一种必然。
+
+由于当前 SKA正在最终设计评估阶段，部分需求还没有最终确定。因此对于SKA数据归档工作和远程同步的工作均在预研与测试阶段，本文的工作正是在这个方面开展的基础工作。为提高远程数据同步性能，本文针对我国建设区域数据中心的需要，进一步研究了基于ZeroMQ的多点观测数据存储与同步方法。
+
+# 1NGAS的底层实现分析
+
+NGAS的核心是一个多线程并发 $\mathbf { H T T P }$ 服务器，NGAS通过关系型数据库(RDBMS)来管理归档文件的元数据、订阅者信息、磁盘信息等。NGAS实现了STATUS、ONLINE、OFFLINE、ARCHIVE、SUBSCRIBE、UNSUBSCRIBE等20多个自定义命令，这些命令的主要功能是实现基本的数据归档与检索、服务器端数据压缩和过滤、自动镜像数据、磁盘跟踪、离线数据传输、数据一致性校验、数据订阅（数据存储与同步）等功能。
+
+# 1.1NGAS数据同步功能
+
+NGAS 的数据同步传输功能是通过NGAS的数据订阅线程来调度订阅者对应的数据发送线程来实现将数据从数据发布者同步传输给数据订阅者。数据发送线程的流程图如图1所示。
+
+NGAS 数据发布方将一个数据文件传输给数据订阅方都需要经历如下过程：用HTTP协议封装数据文件、将封装好的数据文件发送出去、等待接收数据订阅方响应的成功存储数据文件的消息、接着处理下一数据文件。NGAS在同步传输数据过程中需要数据发布方等待接收数据订阅方反馈消息导致整个数据传输性能较差，同时由于HTTP协议封装效率较低，也会导致整个数据传输性能较差。
+
+# 2多点观测数据存储与同步方法的改进
+
+针对NGAS中的数据同步传输功能是基于HTTP实现，考虑到当前技术发展的主流趋势，本文提出了一种基于零消息队列（ZeroMQ[13]）来改进NGAS中的多点观测数据存储与同步方法的方法。改进的方法使用 ZeroMQ中的PUB-SUB套接字组合来实现高效快速的数据同步传输与存储。然而，PUB-SUB套接字的组合却具有这些问题：1）订阅方崩溃导致订阅数据丢失；2）订阅者取回消息很慢导致发布方的发布队列溢出而造成的数据丢失；3）网络超载导致数据丢失；4）订阅方加入太迟错失了发布方已经发布的数据[14]。
+
+将fileInfo在表开始 获取subscrObj对 ngas_subscr_queue中 将fileInfo对应的数据应的subscrId 对应记录的status修 文件传输给订阅者改为0? 将 fileInfo在表从quChuilkn中取 对应家1 A将转换后的从filoInfo中提取 fileId等 n中对应的记录g 将fileInfo在表 fileInfoObj编码后赋 值给fileInfoObjHdr在表  
+ngas_g中r back No fileInfo对应的文件 Yes 取subscrObj中的url 从表nga应的记取出是否有效？  
+fileInfo对应的记 file InfoObj录
+
+为了在改进方法实现的系统中解决PUB-SUB套接字组合带来的问题，我们加入了近实时感知端口连接状态的机制来规避发布方在没有订阅方连接的情况下发布数据，同时加入数据重发机制来克服因为网络超载、订阅方崩溃等导致的数据丢失造成的订阅方无法完全同步数据的问题。为了使基于改进方法实现的数据同步传输与存储子系统能够独立于NGAS运行，我们在该子系统中加入了使用 ZeroMQ中的DEALER与ROUTER实现的订阅与退订功能模块。
+
+基于改进方法实现的系统主要包括如下子系统模块：数据发布端服务器（Pub-Server）、数据订阅端服务器（Sub-Server）、订阅者服务器（Subscriber-Server）、订阅者客服端（Subscriber-Client）。Pub-Server 和 Sub-Server负责数据发布方与订阅方之间的数据同步传输与存储，如图2所示；Subscriber-Server和 Subscriber-Client负责发布方与订阅方之间的消息订阅与退订，如图3所示。
+
+# 2.1Pub-Server与Sub-Server设计与实现
+
+Pub-Server主要负责启动数据发布端与数据同步传输与存储相关的守护线程，其执行流程图如图4所示。Pub-Server主要包含如下功能模块：启动订阅者对应的发布数据守护线程、启动接收反馈消息的守护线程、启动处理反馈消息的守护线程、启动更新积压文件的守护线程、启动更新发布队列的守护线程、启动处理新增订阅者的守护线程、启动处理新增退订者的守护线程。Sub-Server的功能与Pub-Server类似，只是处理对象不同。
+
+Pub-Server与 Sub-Server之间的数据同步传输与存储中涉及到两种消息：Pub_msg 和 Sub_msg，如图2所示。Pub_msg 是数据发布方（Publisher）发布的消息，格式为SI_SP:PI_PP:BFR:BFD；Sub_msg 是数据订阅方（Subscriber）发布的已成功接收与存储的反馈信息，格式为SISP:PIPP:BFR。SI表示Subscriber的IP；SP表示 Subscriber为某个Publisher 申请的用于发布反馈消息的固定端口；PI表示Publisher的IP；PP表示Publisher为某个 Subscriber申请预留的用于发布数据的固定端口；BFR由文件名、文件ID、文件版本、文件类型组成；BFD表示BFR对应的积压文件数据。
+
+当Pub-Server上的近实时端口连接状态守护线程能检测到某个Publisher的数据发布端口被 Subscriber连接上时，触发该Publisher对应的数据发布线程开始产生并发布Pub_msg；否则触发停止数据发布线程。同时，数据重发机制会在某个Publisher 发布某个数据文件超过一段时间仍未收到 Subscriber 发布的已成功接收和存储的反馈信息时，将让Publisher 重新向 Subscriber发布该数据文件。
+
+# 2.2Subscriber-Server与Subscriber-Client设计与实现
+
+Subscriber-Server与Subscriber-Client之间的异步通信模式如图3所示。Subscriber-Server 负责接收处理订阅消息（Sub-Msg）和退订消息（Unsub-Msg），并将订阅成功消息（Sub-Msg-S）、订阅失败消息（Sub-Msg-F）或退订成功消息（Unsub-Msg-S）回复给对应的请求者，同时更新数据库中的相应订阅者记录；Subscriber-Client 负责向 Subscriber-Server 发送 Sub-Msg 和 Unsub-Msg，根据接收到的响应消息来更新数据库中的相应发布者记录。其中，Sub-Msg、Unsub-Msg、Sub-Msg-S、Sub-Msg-F、Unsub-Msg-S这5种消息的格式分别为：S_SI_SP_Datetime、U_SI_SP、SS_SI_SP_PI_PP、SF_SI_SP、US_SI_SP。同时,我们在 Subscriber-Client中加入了消息重发机制来确保 Subscriber-Client 能够成功订阅或者退订相应的数据发布者。
+
+![](images/317f799db9316324e22619bd88bf20950d9cb3b5656df7f608ec2da2da9601a7.jpg)  
+图2Pub-Server与Sub-Server之间的通信模 式 Fig.2Communication mode between PubServerand Sub-Server
+
+![](images/13963945f372e4d57f783e65efed55b3eed182bafa4a5e677db5d41c10b8137f.jpg)  
+图3Subscriber-Server与Subscriber-Client之 间的通信模式 Fig.3 Communication mode between Subscriber-Server and Subscriber-Client
+
+# 3实验
+
+# 3.1实验环境
+
+本文测试性能所用的硬件环境为：1台型号为IW4200-10G的思腾合力GPU服务器，该服务器具有16 个双核 Intel@Xeon(R) CPU E5-2620 v4 $@$ 2.10GHz 处理器、256GBR-ECCDDR4 内存、2个Intel?I350
+
+千兆网卡；软件环境为：64 位的 Ubuntu 14.04 LTS、Python 2.7.6、MySQLdb 1.2.5、libzmq 4.2.5、pyzmq17.1.2、MySQL 5.5.61。
+
+由于NGAS能够处理的标准FITS文件必须包含自定义的关键字ARCFILE（ARCFILE $\ c =$ 'NCU.2003-11-11T11:11:11.111），实验数据为MUSER-I的40万个已添加ARCFILE关键字的FITS文件，数据量约为75.102GB（ $4 0 0 0 0 0 ^ { * } 2 0 1 6 0 0 \mathrm { B }$ ），存放在分配了250GB内存的tmpfs（临时文件系统）中。
+
+# 3.2 实验结果
+
+基于 ZeroMQ改进的多点观测数据存储与同步方法与NGAS中的数据存储与同步方法的实验结果性能对比如图5所示。订阅者使用基于 ZeroMQ改进的数据存储与同步方法将这40万个FITS文件完全同步传输与存储下来所耗费的时间约为333.834秒（约5.6分钟），然而使用NGAS中的数据存储与同步方法所耗费的时间约为13330.998秒（约222.2分钟）。基于ZeroMQ实现的数据存储与同步方法比NGAS 中的数据存储与同步方法快了约39.993倍。
+
+# 3.3讨论
+
+实验结果表明基于 ZeroMQ改进的NGAS 的数据存储与同步方法在数据存储和同步方面性能明显优于NGAS的数据存储与同步方法，但是该方法也存在一些不足：
+
+（1）由于基于ZeroMQ实现的NGAS数据发布端服务器要为每一个数据订阅者分配一个固定的端口和每个IP地址端口数为65536的限制，这就造成其只能为有限数量的订阅者提供服务;
+
+（2）基于ZeroMQ的NGAS多点观测数据存储与同步方法的系统存在订阅端服务器因为无法及时存储高速接收的订阅数据而导致内存不足，进而导致订阅端服务器被杀掉。在未来的工作中，我们将加入动态调整数据发布的机制来优化数据的同步传输效率。
+
+![](images/aed4a0f928db6b42950dd58cb0de19d21a7fee75dba3a76c4f46646a4e9f5815.jpg)  
+图4Pub-Server执行流程图Fig.4A flowchart of Pub-Server
+
+# 4结束语
+
+本文详细介绍了NGAS 中的数据同步功能，并详细讨论了基于 ZeroMQ改进的NGAS 多点观测数据存储与同步方法及基于该方法实现的系统，通过实验验证了基于ZeroMQ改进的NGAS多点观测数据存储与同步方法实现的系统在数据同步传输和存储效率方面性能明显优于NGAS中的数据存储与同步。接下来的工作中我们将会在更加真实的实验环境中测试新方法的远程数据同步性能和进一步优化其性能。本文的工作对SKA区域数据中心与SKA天文台数据中心之间的数据同步传输和存储有较好的参考价值。致谢：本文受到国家重点研发计划（2018YFA0404603，2016YFE0100300），国家自然科学基金委员会中国科学院天文联合基金资助重点项目（U1831204），国家自然科学基金委员会-中国科学院天文联合基金资助项目(No.U1831204,U1531132,U1631129)，国家自然科学基金资助项目(No.11403009,11463003,11773012)，广州大学“创新强校工程”项目（2017KZDXM062），云南省应用基础研究项目（2017FB001)，赛尔网络下一代互联网技术创新项目（No.NGII20170204）的资助。感谢国家天文台-阿里云天文大数据联合研究中心对本项工作的支持。
+
+![](images/ac9bc25e68744f4213d8b9fcb51e0f1f0f8fb5025be22739f6d3da6ac72535d0.jpg)  
+图5同步性能对比 Fig.5Synchronization performance comparison
+
+# 参考文献
+
+[1] 彭勃,金乘进,杜彪,etal.持续参与世界最大综合孔径望远镜 SKA国际合作[J].中国科学:物理学,力学,天文学,2013,42(12):1292-1307. [2] BraunR,Keane E,Bourke T,et al.Advancing Astrophysics with the Square Kilometre Arry[J].PoS,2015,174.   
+[3] DewdneyPE,HallPJ,SchilizziRT,etal.Thesquarekilometrearray[J].ProceedingsoftheIEEE,2Oo,97(8):148-1496.   
+[4] 严俊.天文与天体物理研究现状及未来发展的战略思考[J].中國科學院院刊,2011,26(5):487-495.   
+[5] HallSls Radio Science URSI, 2008,236: 4-19.   
+[6] BroekemaPCVaortVa.areesoreliauteafoigal Instrumentation,2015,10(07): C07004.   
+[7] Wicenec A,Knudstrup J,Johnston S.ESO's Next Generation Archive System[J].The Messenger,20ol,106:11-13.   
+[8] Wu C,WicenecA,PalotD,etal.OptimisingNGASforthe MWAArchive[J].ExperimentalAstronomy2013,36(3):679-694.   
+[9] HarisonPKseofa Systems XV,F,2006 [C].   
+[10] Wicenec A,Knudstrup J.ESO's next generation archive system in fulloperation[J].The Mesenger,2007,129:27-31.   
+[1]Wicef and Systems XIX,F,2010 [C].   
+[12]Stoehe Processes,and Systems V,F,2O14[C].International Society for Optics and Photonics.   
+[13]Hintjens P. ZeroMQ: messaging for many applications [M]."O'Reilly Media, Inc.", 2013.   
+[14]Hintjens P. Omq-the guide [J]. Online: http://zguide/ zeromq org/page: all,Accessed on,2011,23.
+
+# NGAS-Based Multi-site Observation Data Storage and Synchronization Method
+
+Shi Congming1,3,Deng Hui23, Dai Wei34,Wei Shoulin3,Wang Fengl,2.3.4
+
+(1. Faculty ofangementandEconomics,KunmigUniversityofcienceandTechnology,Kunming65093,hina;2.Cterfor AstropsicsaiaaKb ComputerechlogftangUesityeolug,a;4at Chinese Academy of Sciences,Kunming 650216,China)
+
+Abstract:The SquareKilometre Array (SKA) willhave ultra-high sensitivity,ultra-fast survey speed and wide field of view,resulting in super-massive raw observation data.Massve data synchronization/delivery between the SKA observatories and regional data centers in various countries has been a difficult problem in the current SKA construction. The Next Generation Archive System (NGAS) used by SKA precursorexists inefficiency and insuffcient performance in the application measurement. In this paper, we proposed aZeroMQ-based data storage and synchronization method. By adopting more efficient asynchronous messaging mechanism to realize synchronous data delivery,itcan avoid the limitations of the HTTP protocoladopted bythe NGAS.Experimental results showed that the new method is nearly 40 times faster than the original method used by NGAS in terms of average data archival/storage eficiency,can basically meet the requirements ofthe full-speed transmission of 10 GB bandwidth and has achieved a better use effect.
+
+Keywords:NGAS; SKA; Storage and synchronization; Massive data; ZeroMQ

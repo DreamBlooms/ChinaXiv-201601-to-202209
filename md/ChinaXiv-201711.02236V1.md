@@ -1,0 +1,186 @@
+# DOI: 10.5846/stxb201608301767
+
+燕江伟,李昌晓,崔振，刘媛.干旱胁迫下镉处理对互叶醉鱼草幼苗生长、镉积累及光合生理的影响.生态学报,2017,37(21)：7242-7250.  
+YanJW,LiCZutsdohdladoosidle.  
+seedlings under drought stress.Acta Ecologica Sinica,2017,37(21） :7242-7250.
+
+# 干旱胁迫下镉处理对互叶醉鱼草幼苗生长、镉积累及光合生理的影响
+
+燕江伟，李昌晓\*，崔振，刘媛
+
+西南大学生命科学学院,三峡库区生态环境教育部重点实验室,重庆市三峡库区植物生态与资源重点实验室,重庆 400715摘要：为探究干旱条件下,互叶醉鱼草(Budeja altermifolia Maxim.)幼苗对重金属镉胁迫的生长及光合生理响应机制,以两年生互叶醉鱼草幼苗为试验材料,设置对照与干旱两个水分处理组（土壤相对含水率分别为： $6 5 \% - 6 0 \% , 3 5 \% - 3 0 \%$ )，每个水分处理条件下再分别设置3个镉处理浓度(0.28、( $0 . 6 \substack { + 0 . 2 8 } )$ 、（ $1 . 2 \substack { + 0 . 2 8 } ^ { \cdot }$ ）mg/kg),共6个处理。测定不同水分及镉处理对互叶醉鱼草生长、生物量、光合参数及体内重金属含量的影响。结果表明：干旱与镉复合胁迫下植物的存活率为 $10 0 \%$ 。镉胁迫、干旱与镉复合胁迫均不同程度抑制了互叶醉鱼草幼苗生长、生物量积累、植株的光合作用及叶绿素含量，且其光合和叶绿素含量的降幅明显大于单一镉胁迫。镉胁迫下,互叶醉鱼草幼苗单株最高镉富集量为 $6 9 . 3 3 ~ \mathrm { m g / k g }$ ,而复合胁迫下单株最高镉富集量为$5 0 . 6 8 ~ \mathrm { m g / k g }$ 。以上结果表明：干旱胁迫能够加重镉胁迫对植物的影响,使复合胁迫下互叶醉鱼草生长、光合生理及镉富集能力下降。但单一镉胁迫下,互叶醉鱼草对镉具有更强的耐受性,并有较高的生物富集能力,且干旱与Cd复合胁迫下互叶醉鱼草幼苗仍有一定的镉积累量。因此在干旱半干旱区园林绿化以及Cd污染地区的生态建设中,互叶醉鱼草是一种具有巨大应用潜力和前景的灌木树种。
+
+关键词：干旱;镉胁迫;互叶醉鱼草幼苗;光合生理；镉积累特性
+
+# Effects of cadmium on growth， cadmium accumulation， and photosynthetic physiology of Buddleja alternifolia Maxim. seedlings under drought stress
+
+YAN Jiangwei，LI Changxiao\*,CUI Zhen，LIU Yuan KeyLaboratoryoftinosseeoofisfducaoKboatoofntd Resources ResearchintheThe Gorges ReseruoirRegion，ColegeofLife Science，Southwest University，Chongqing 40O15，China
+
+Abstract：Inthispaper，seedlingsofthebiennial Buddlejaalternifolia Maxim.wereusedas test materials,andtwofactors including water and Cd stress were tested，comprising two water treatments ( $60 \%$ 一 $6 5 \%$ and $30 \%$ 1 $3 5 \%$ soil relative water content）and three cadmium treatments （O.28，（ $0 . 6 \ : + \ : 0 . 2 8 \ : \mathrm { \Omega } ,$ ， $( 1 . 2 \ + \ 0 . 2 8 ) \ \mathrm { m g / k g }$ ).Atwo factor randomized block design was used todesign a total of 6treatments with5replicatespertreatment.The sedlings’growth，biomass，cadmium content，and photosynthetic parameters were measured.Theresults showed thatthe survivalrateof plantsunder drought and cadmium stresswas $100 \%$ .Cadmium stress，drought，and cadmium combined stress inhibited growth，biomass accumulation，photosynthesis，chlorophyll content of $B$ .alternifolia Maxim.seedlings to different degrees，and inhibitory efects of photosynthesisand chlorophyllcontentundercombined stresswere greaterthan that of cadmium stres.The highest cadmium accumulation capacity of $B$ ，alternifolia Maxim.seedlings was $6 9 . 3 3 ~ \mathrm { m g / k g }$ under cadmium stress，and $5 0 . 6 8 ~ \mathrm { m g / }$ $\mathrm { k g }$ under combined stress.The cadmium accumulation capacity in different tissues followed the order of root $>$ leaf $>$ stem under cadmium stress，and root $>$ stem $>$ leaf under combined stress. The results suggested that：drought stress could agravatetheeffctsofCd stressonplants，which furtherlowers thegrowth，photosyntheticcapacity，and Cdenrichment ability.However under cadmium stress，B.alternifolia Maxim.seedlings had stronger tolerance tocadmium anda high capacity for bioaccumulation.Inadition,under complex stress，seedlings stillexperienced cadmumaccumulation.Thus B. alternifolia Maxim.sedlings havegreat potentialapplicationin landscapingand phytoremediationofCd polutionareasin arid and semi-arid regions.
+
+KeyWords:drought；Cd stress；Buddleja alternifolia Maxim.seedlings；photosynthetic characteristics；Cdaccumulative characteristics ，
+
+因为与人类的工、农业生产,交通运输密切相关,镉成为污染最严重最普遍的重金属元素之一[1-2]。根据2014 年全国土壤污染状况调查公报显示我国土壤环境中镉的点位超标率高达 $7 \% ^ { ( 3 ] }$ 。镉是已知生物毒性最强的重金属元素之一,在植物体内的积累会抑制植物光合作用,影响细胞正常代谢功能,破坏植物体内各种保护酶活性[45],最终导致植物生理代谢紊乱,植株生物量下降。镉在植物体内的积累,特别是在可食用部位的大量积累,通过食物链积累威胁人体健康[6],因此,镉污染土壤的治理成为亟需解决的环境问题。
+
+与传统的修复方法相比,植物修复技术利用植物来固定、提取土壤中的重金属,具有成本低、不破坏环境、保护人类健康和易为大众接受等优点,成为修复重金属污染土壤的首选方法[7]。到目前为止,国内外大量研究集中于重金属富集植物资源的筛选,植物在单一、复合重金属胁迫下的生理生化响应等方面。随着西部地区工矿产业的发展,使干旱半干旱区土壤遭受不同程度的镉污染[8],这些地区的植物往往面临土壤干旱与镉污染双重因子的胁迫,但对植物响应这种复合胁迫机制的相关研究相对不足。
+
+互叶醉鱼草(Buddleja alternifolia Maxim.)是西北干旱半干旱区典型的乡土适生树种,是干旱区园林绿化、生态恢复的优良备选灌木树种,具有耐旱、耐寒、耐贫瘠、抗盐碱、观赏性强等优点[9]。本文以互叶醉鱼草为试验材料,探究其在干旱与镉单一和交互胁迫下生长、光合特性、光合色素含量变化,以及其对镉的积累、转移能力,旨在探明互叶醉鱼草对干旱与镉双重胁迫的耐受性及适应能力,为该树种能否有效地用于干旱半干旱土壤镉污染区域的植物修复提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验选择2年生互叶醉鱼草幼苗为对象,平均苗高( $2 8 . 7 9 { \scriptstyle \pm 1 . 0 1 }$ ） $\mathrm { c m }$ ,平均基径 $\stackrel { \prime } { \langle } 1 . 4 2 { \pm } 0 . 1 0$ ） $\mathbf { m m }$ 。试验用土为沙壤土,取至宁夏银川植物园（土壤初始营养元素含量见表1）。
+
+表1供试土壤营养元素含量初始值  
+  
+Table 1 Baseline data of the nutrient contents in experimental soils   
+
+<html><body><table><tr><td rowspan="2">pH</td><td colspan="6"></td><td rowspan="2">速效钾 Available</td></tr><tr><td>有机质 Organic</td><td>全氮 Total</td><td>全磷 Total</td><td>全钾 Total</td><td>碱解氮 Alkali</td><td>有效磷 Available</td></tr><tr><td rowspan="2"></td><td>matter/ （g/kg)</td><td>nitrogen/ （g/kg)</td><td>phosphorus/ （g/kg)</td><td>potassium/</td><td>hydrolysable nitrogen/</td><td>phosphorus/ （mg/kg)</td><td>potassium/ (mg/kg)</td></tr><tr><td></td><td></td><td></td><td>（g/kg）</td><td>（mg/kg)</td><td></td><td></td></tr><tr><td>7.21±0.02</td><td>18.96±0.68</td><td>1.31±0.02</td><td>1.48±0.12</td><td>73.31±2.61</td><td>99.86±1.64</td><td>1.66±0.21</td><td>193.44±12.10</td></tr></table></body></html>
+
+表中数据为平均值和标准误( $\scriptstyle n = 5$ ）
+
+# 1.2 试验方法
+
+供试土壤采自宁夏银川植物园土壤耕层 $\left( 0 { - } 2 0 ~ \mathrm { c m } \right)$ ，风干过 $4 ~ \mathrm { m m }$ 筛,每桶装风干土 $1 7 . 5 ~ \mathrm { k g }$ ,参照国家土壤环境质量标准（GB15618—1995）[10]以及宁夏地区污染水平[11],Cd( $\mathrm { m g / k g } \dot { } .$ )设置3个处理,分别为 $\mathrm { ~ T _ { 0 } ~ }$ (0.28,土壤实测背景值） $\mathrm { \Omega } _ { \mathrm { \Omega } } \mathrm { T } _ { 1 } ( \mathrm { C d } 0 . 6 \substack { + 0 . 2 8 } )$ ） $\cdot \mathrm { T } _ { 2 } ( \mathrm { C d } ~ 1 . 2 \substack { + 0 . 2 8 } )$ ;添加形态为 $\mathrm { C d C l } _ { 2 } \cdot 2 . 5 \mathrm { H } _ { 2 } \mathrm { O }$ ,以溶液的形式添加到土壤中,沉化1个月后每盆移栽1株苗。同时参照干旱半干旱区降雨格局划分[12]及银川市近30年降雨格局,设置两个水分梯度：常规供水组（CK），土壤含水量保持在田间持水量的 $6 0 \% - 6 5 \%$ ；干旱处理组（Drought）,土壤含水量保持在田间持水量的 $30 \%$ 一 $3 5 \%$ （土壤相对含水率采用称重法控制,保持各处理土壤水分相对稳定）,共6个试验处理,分别记做 $\mathrm { C T _ { \eta _ { 0 } } } , \mathrm { C T _ { \eta _ { 1 } } } , \mathrm { C T _ { \eta _ { 2 } } } , \mathrm { D T _ { \eta _ { 0 } } } , \mathrm { D T _ { \eta _ { 1 } } } , \mathrm { D T _ { \eta _ { 2 } } } ,$ 。其中， $\mathrm { C T } _ { 0 }$ 为CK 组,每个处理5次重复。试验于2015年5月20号展开,培养4个月后取完整植株进行各项指标测定。 1
+
+# 1.3 测定指标及方法
+
+# 1.3.1 生长指标测定
+
+株高：分别于胁迫前后随机选取5株,用钢卷尺测量植物的株高,计算植物株高相对增长量。生物量：试验结束后,收获全株并将不同处理下分根、茎、叶3部分,根部用20mmol/L EDTA- $\cdot \mathrm { N a } _ { 2 }$ 洗 $5 \mathrm { m i n }$ ,然后迅速用超纯水冲洗干净。称量鲜重后在 $1 0 5 ~ \mathrm { { ^ { \circ } C } }$ 下杀青 $1 5 ~ \mathrm { m i n }$ $8 5 ~ \mathrm { { ^ { \circ } C } }$ 烘干至恒重并称量干重,统计生物量。
+
+# 1.3.2 镉元素含量测定
+
+分别取烘干的各处理的根、茎、叶样,粉碎、过筛,采用微波消解仪(Spewed Wave MSE-4，Berghof,德国)消解后,采用电感耦合等离子体质谱（ICP-OSE）（ICAP6300，Thermo Fisher，USA）法测定镉元素含量。每处理重复测定5盆。
+
+# 1.3.3 光合参数测定
+
+采用GFS-3000（WALZ，Germany）便携式光合分析系统测定叶片光合参数。经预备试验,选择晴天9:00—12:00 测定,测定时 $\mathrm { C O } _ { 2 }$ 浓度 $4 0 0 ~ \mathrm { \textmu m o l / m o l }$ ,饱和光强 $\mathrm { 4 2 0 0 ~ \mu m o l ~ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,以红蓝光为光源,叶室面积8$\mathrm { c m } ^ { 2 }$ 。选取苗木从上往下数的第3至第4片成熟叶,每个处理测定5株。测定指标包括净光合速率 $( P _ { n } )$ 、气孔导度 $( S _ { c } )$ 、蒸腾速率 $( T _ { r } )$ 与胞间 $\mathrm { C O } _ { 2 }$ 浓度( $\cdot \ : C _ { i } )$ 。
+
+# 1.3.4叶绿素含量测定
+
+选取用于测定光合速率的叶片,采用浸提法,用普析 TU-1901型分光光度计分别测定叶绿素a、叶绿素 b在 $6 6 3 ~ \mathrm { n m }$ 和 $6 4 5 ~ \mathrm { n m }$ 处的吸光值或测定 $A _ { 6 6 3 } \setminus A _ { 6 4 5 }$ ,并计算其含量,每个样本5次重复。总叶绿素含量 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 叶绿素a含量 $^ +$ 叶绿素 $\mathbf { b }$ 含量[13]。 人
+
+# 1.4数据处理
+
+主茎增量 $\left( \mathrm { c m } \right) =$ 实验取样时苗高( $\mathrm { { \bar { c } m } ) }$ -开始镉处理时苗高（cm）转移系数(Tf)[14]=地上部分平均镉含量( $\mathrm { { \ m g / k g } } ^ { \cdot }$ ）/根部平均镉含量( $\mathrm { { \acute { m g } / k g } } ,$ 生物富集系数 ${ \mathrm { ( B C F ) } } ^ { [ 1 5 ] } =$ 根或地上部分镉含量( $\mathrm { { \dot { \ m g } / k g } } \dot { } ,$ ）/土壤中镉含量( $\mathrm { \langle m g / k g \rangle }$ （204号
+
+数据统计分析采用 Microsoft Excel 2010 和 SPSS 22.0 软件结合进行。使用双因素分析方法（Two-wayANOVA）来揭示干旱处理与镉处理对互叶醉鱼草幼苗生长、光合生理的影响,使用 Tukey's 法检验各处理之间的差异( $\mathrm { ( } a = 0 . 0 5 \mathrm { ) }$ ,采用Origin8.5作图分析。
+
+# 2试验结果
+
+2.1干旱胁迫下镉处理对互叶醉鱼草幼苗生长及生物量的影响
+
+由表2可知,单一镉胁迫下（常规供水组),互叶醉鱼草幼苗地上部分生物量、主茎增量仅在 $\mathrm { C T } _ { 2 }$ 组显著下降，与CK组相比降幅分别为 $2 3 . 1 5 \%$ $2 5 . 2 1 \%$ ;而根生物量与根冠比随镉浓度的增加呈显著下降趋势。干旱与镉复合胁迫下,地上部分生物量、根生物量、主茎增量均随镉浓度的增加呈显著下降趋势;而根冠比在不同浓度镉处理组间没有明显差别。
+
+# 2.2互叶醉鱼草幼苗对镉的积累和转移
+
+单一镉胁迫下互叶醉鱼草幼苗根、茎、叶中镉含量均随土壤镉浓度的增加而显著增加;干旱与镉复合胁迫下根、茎中镉含量随土壤镉浓度的增加而显著增加,叶中镉含量在 $\mathrm { D T } _ { 1 }$ 、 $\mathrm { D T } _ { 2 }$ 处理组间没有明显差别（图1）。
+
+$\mathrm { ~ T _ { 0 } ~ }$ $\mathrm { T } _ { 1 }$ 浓度镉处理下,单一镉胁迫处理组根、茎镉含量高于复合胁迫处理组,但并没有达到显著程度。 $\mathrm { ~ T } _ { 2 }$ 浓度处理下,单一镉胁迫根、叶中镉含量分别为 $3 4 . 1 5 , 1 9 . 5 3 ~ \mathrm { m g / k g }$ 显著高于干旱处理组的 $2 9 . 4 3 \ : , 9 . 2 3 \ : \mathrm { m g / k g }$ ;而茎中镉含量为 $1 2 . 0 1 ~ \mathrm { m g / k g }$ 显著低于复合处理组的 $1 5 . 8 7 ~ \mathrm { m g / k g }$ 。
+
+表2干旱胁迫下不同浓度镉处理对互叶醉鱼草幼苗生长的影响  
+Table 2Efect of Cd on growth and biomass of B.alternifolia Maxim.seedlings under drought stress   
+
+<html><body><table><tr><td>水分处理 Water treatment</td><td>镉浓度 Cd concentration</td><td>地上生物量 Aboveground biomass/g</td><td>根生物量 Root biomass/g</td><td>主茎增量 Change of stem length /cm</td><td>根冠比 Root shoot ratio/%</td></tr><tr><td>常规水分处理</td><td>T0</td><td>28.39±2.33a</td><td>14.81±0.89a</td><td>56.87±4.21a</td><td>0.45±0.031a</td></tr><tr><td>Control group</td><td>T</td><td>26.39±2.49a</td><td>12.51±0.99b</td><td>44.54±4.30a</td><td>0.39±0.026b</td></tr><tr><td></td><td>T</td><td>22.18±0.48b</td><td>10.17±0.73c</td><td>31.54±1.52b</td><td>0.36±0.021c</td></tr><tr><td>干旱处理处理</td><td>T0</td><td>15.09±0.97a</td><td>7.09±0.59a</td><td>44.21±3.60a</td><td>0.47±0.041a</td></tr><tr><td>Drought group</td><td>T</td><td>13.08±1.01b</td><td>6.06±0.48b</td><td>27.87±3.51b</td><td>0.46±0.033a</td></tr><tr><td></td><td>T</td><td>9.53±0.42c</td><td>4.45±0.36c</td><td>20.21±1.64c</td><td>0.47±0.027a</td></tr></table></body></html>
+
+表中数据为平均值和标准误( ${ \bf \underline { { \cdot } } } n { \bf \ = } 5 { \bf \dot { \Psi } }$ ),不同小写字母分别表示相同水分处理下不同镉处理间的显著差异（ $\overline { { P { < } 0 . 0 5 } }$ ；Cd( $\bf { \Sigma } _ { \mathrm { m g / k g } } \rangle$ 设置3个处理,分别为 $\mathrm { T } _ { 0 } ( 0 . 2 8$ ,土壤实测背景值) $\mathrm { T _ { 1 } } ( \mathrm { C d } 0 . 6 \substack { + 0 . 2 8 } )$ ） $\cdot \mathrm { T } _ { 2 } ( \mathrm { C d } ~ 1 . 2 \substack { + 0 . 2 8 } )$ （204
+
+互叶醉鱼草幼苗地上部分生物富集系数在单一镉胁迫、干旱与镉复合胁迫下均随镉浓度的增加而显著下降， $\mathrm { T } _ { 2 }$ 浓度处理下,镉胁迫处理组地上生物富集系数显著大于复合胁迫组(图2)。根生物富集系数随土壤镉浓度的增加呈显著上升趋势,且单一镉胁迫处理组根生物富集系数大于复合处理组。不同处理下互叶醉鱼草转移系数随镉浓度的增加显著下降。在 $\mathrm { T } _ { 1 } , \mathrm { T } _ { 2 }$ 浓度下,单一镉胁迫组镉转移系数要显著大于复合处理组。
+
+![](images/64a09b3f3d5feea0d5f3d9a3bb70e0605e02d72c2f2fd26e7ced2b0759408754.jpg)  
+图1不同处理下互叶醉鱼草幼苗根、茎、叶镉含量
+
+Fig.1Cd content of root，stem，leaf of B.alternifolia Maxim.seedlings under diferent treatment图中数值为平均值 $\pm$ 标准误（ $\scriptstyle \cdot _ { n = 5 } \rangle$ ；不同大写字母分别表示相同水分处理下不同镉处理之间的显著差异( $P { < } 0 . 0 5 )$ ，不同小写字母分别表示相同镉处理下不同水分处理间的显著差异; $\mathrm { C d } ( \mathrm { m g / k g } )$ 设置3个处理,分别为 $\mathrm { T } _ { 0 } ( 0 . 2 8$ ,土壤实测背景值) $\mathrm { \cdot } \mathrm { T _ { 1 } } ( \mathrm { C d } 0 . 6 \mathrm { + } 0 . 2 8$ ） $\mathrm { \cdot } \mathrm { T } _ { 2 } ( \mathrm { C d } 1 . 2 \mathrm { \cdot } 0 . 2 8 )$
+
+![](images/fc4218f68c0b58a37bcaa8116fd1c22a1ad49261a04656ee34e2614de98ee1a7.jpg)  
+图2互叶醉鱼草幼苗生物富集系数及转移系数  
+Fig.2Translocationfactorand bio-concentration factorin root and aerial parts of B.alternifolia Maxim.seedlings
+
+2.3土壤干旱和镉复合胁迫对互叶醉鱼草幼苗光合生理的影响
+
+# 2.3.1 净光合速率
+
+试验期间,镉胁迫、干旱与镉复合胁迫均能显著影响互叶醉鱼草幼苗的叶片净光合速率( $( P _ { n } )$ （图3)。在镉胁迫下,互叶醉鱼草叶片净光合速率随镉浓度的增加显著下降,其中， $\mathrm { C T _ { 1 } }$ 组、 $\mathrm { C T } _ { 2 }$ 组的净光合速率较CK 组分别显著降低了 $2 8 \%$ $4 8 \%$ 。在干旱和镉复合胁迫下， $\mathrm { D T } _ { 0 }$ 组 $\phantom { } _ { \cdot } \mathrm { D T } _ { 1 }$ 组 $\mathrm { D T } _ { 1 }$ 组幼苗净光合速率与CK 组相比分别显著下降 $5 7 \%$ $5 9 \%$ $80 \%$ K
+
+# 2.3.2蒸腾速率与气孔导度
+
+互叶醉鱼草幼苗叶片的气孔导度 $( S c )$ 、蒸腾速率 $\left( \boldsymbol { T } _ { r } \right)$ 均受到镉、干旱与镉胁迫显著影响。在镉胁迫下,互叶醉鱼草的叶片蒸腾速率与气孔导度均随镉浓度的增加而显著下降(图3)。干旱胁迫能显著降低蒸腾速率、气孔导度,而当施加不同浓度的镉处理后,蒸腾速率与气孔导度的下降幅度明显增大,其中， $\mathrm { D T } _ { 1 }$ 组、 $\mathrm { D T } _ { 2 }$ 组的蒸腾速率仅分别维持在CK组的 $4 6 \%$ $2 4 \%$ ;气孔导度分别维持在CK 组的 $45 \%$ ， $3 2 \%$ 。
+
+# 2.3.3胞间 $\mathrm { C O } _ { 2 }$ 浓度
+
+单一镉胁迫能显著影响互叶醉鱼草幼苗的胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ ,单一镉处理下,胞间 $\mathrm { C O } _ { 2 }$ 浓度随镉处理浓度增加而显著降低，但 $\mathrm { C T _ { 1 } }$ 组、 $\mathrm { . C T } _ { 2 }$ 组的胞间 $\mathrm { C O } _ { 2 }$ 浓度降幅仅为CK组的 $5 \%$ ， $1 3 \%$ 。复合胁迫下,胞间 $\mathrm { C O } _ { 2 }$ 浓度随镉浓度的增加显著增加。
+
+2.3.4土壤水分亏缺与镉胁迫对互叶醉鱼草幼苗叶片光合色素含量的影响
+
+由表3可知,试验期间镉处理、干旱与镉复合处理均及显著的影响了互叶醉鱼草幼苗叶片光合色素含量。单一镉胁迫处理下,与CK 组相比, $\mathrm { C T _ { 1 } }$ 组叶绿素a的含量有下降,但没有达到显著程度,而 $\mathrm { C T } _ { 2 }$ 组叶绿素a含量显著降低了 $1 3 . 6 0 \%$ ;叶绿素 $\mathbf { b }$ 含量、总叶绿素含量随镉浓度的增加显著降低。在复合胁迫下，与 $\mathrm { C T _ { 1 } }$ 组相比， $\mathrm { D T } _ { 1 }$ 组与 $\mathrm { D T } _ { 2 }$ 组幼苗叶绿素a含量显著下降,而后两组之间并没有显著差异;叶绿素b与总叶绿素含量均随胁迫程度的增加而降低,与 $\mathrm { D T } _ { 0 }$ 组相比, $\mathrm { D T _ { 4 } }$ 与 DT组叶绿素b含量分别下降了 $2 1 \%$ $3 1 \%$ ;总叶绿素含量分别下降了 $2 2 \%$ ， $2 4 \%$ 。
+
+![](images/212c5ca5e6916ad84310af6aa15ca36ff51984c45b08b32b0bc1a5d26d6a4caa.jpg)  
+图3干旱胁迫下不同浓度镉处理对互叶醉鱼草幼苗光合参数的影响  
+Fig.3Effect of Cd on photosynthetic parameters of $\pmb { B }$ .alternifolia Maxim.seedlingsunder drought stres
+
+试验期间,不同处理组叶绿素a与叶绿素b之比均显著高于对照,在3.14—3.72之间变化。单一镉胁迫下， $\mathrm { C T _ { 1 } }$ 组与 $\mathrm { C T } _ { 2 }$ 组幼苗叶绿素a与叶绿素b之比均显著高于CK组,分别增加了 $1 5 \%$ $7 \%$ ;在复合胁迫下,幼苗叶绿素a与叶绿素b之比随土壤镉浓度的增加呈显著上升趋势。
+
+表3干旱胁迫下不同浓度镉处理对互叶醉鱼草幼苗叶绿素含量的影响  
+
+<html><body><table><tr><td colspan="6">Table 3 Effect of Cd on Chlorophyll contents of B.alternifolia Maxim.seedlings under drought stress</td></tr><tr><td>水分处理 Water treatment</td><td>镉浓度 Cd concentration</td><td>Cropl a/</td><td>Chtroptylb/</td><td>Tot 总oophyll/</td><td>叶绿素a/叶绿素b Chla/chlb</td></tr><tr><td></td><td></td><td>（mg/kg)</td><td>（mg/kg)</td><td>（mg/kg)</td><td></td></tr><tr><td>常规水分处理</td><td>T0</td><td>1.56±0.12a</td><td>0.48±0.01a</td><td>2.04±0.13a</td><td>3.15±0.13c</td></tr><tr><td>Control group</td><td>T</td><td>1.54±0.10a</td><td>0.41±0.01b</td><td>1.97±0.18b</td><td>3.72±0.15a</td></tr><tr><td>干旱处理处理</td><td>T</td><td>1.34±0.03b</td><td>0.38±0.005c</td><td>1.73±0.047c</td><td>3.47±0.098b</td></tr><tr><td></td><td>T0</td><td>1.46±0.09a</td><td>0.44±0.01a 0.38±0.005b</td><td>1.91±0.12a 1.59±0.029b</td><td>3.31±0.132c</td></tr><tr><td>Drought group</td><td>T</td><td>1.21±0.02b</td><td></td><td></td><td>3.42±0.11b</td></tr><tr><td></td><td>T</td><td>1.20±0.08b</td><td>0.33±0.005c</td><td>1.54±0.033c</td><td>3.59±0.12a</td></tr></table></body></html>
+
+# 3讨论
+
+植物生长、生物量在重金属污染土壤植物修复过程中具有重要意义,不仅影响修复效率,而且是对其所处环境的综合表征[16]。本试验研究发现镉胁迫、干旱与镉复合胁迫均抑制了互叶醉鱼草幼苗生长与生物量积累,且复合胁迫的抑制作用大于镉胁迫(表2)。同时胁迫条件也促使互叶醉鱼草幼苗干物质分配格局发生改
+
+http://www.ecologica.cn
+
+变。镉胁迫下互叶醉鱼草幼苗根冠比显著下降(表2)。其主要原因是植物根系是最先接触镉的器官,会最先表现出生长抑制,主要表现为根系变短、侧根数减少、根生物量下降等[17],根冠比下降。而与镉胁迫下互叶醉鱼草根冠比随镉浓度增加显著下降不同的是,复合胁迫下根冠比在不同浓度镉处理下并没有显著变化（表2)。其原因可能是：干旱胁迫主要影响植物地上部分的生长[18」,镉胁迫主要影响植物地下部分的生长,而在复合胁迫下植物的地上和地下生物量均受到一定程度的抑制,导致根冠比没有显著变化。尽管单一胁迫和复合胁迫均显著影响了植株的生长,但单一胁迫和复合胁迫下互叶醉鱼草幼苗具有较高的存活率,说明该种植物对干旱和镉胁迫具有较强的抗性。
+
+重金属积累能力、转移能力是除生物量之外,评价植物能否应用于重金属污染土壤修复的重要指标。不同物种、同一植物不同部位、同一植物在不同生长介质中对重金属积累能力不同。研究表明,马蔺(Iris lacteavar.Chinensis)在土壤单铅胁迫下地上部分和根系铅含量分别为 $3 4 0 . 6 , 1 7 0 0 . 0 2 ~ \mathrm { m g / k g }$ ,在4mmol/L铅溶液培养下地上部分和根系铅含量分别达 $^ { 1 1 0 9 , 2 4 0 8 \mathrm { \ m g / k g } }$ 。造成这一差别的原因是,水培条件下植物可利用的有效态铅含量高于土壤[19]。本试验研究同样发现,单一镉胁迫下,互叶醉鱼草幼苗单株镉积累量最高为 69.33$\mathrm { m g / k g }$ ,而复合胁迫下仅为 $5 0 . 6 8 ~ \mathrm { m g / k g }$ （图1)。干旱条件下,土壤中镉贮存形态由松结合态转化为紧结合态，生物有效性下降,植物吸收重金属的量与土壤中重金属生物有效性密切相关,是造成这一差别的主要原因。本研究还发现：镉胁迫下，植株不同部位镉积累量表现为：根 $>$ 叶>茎，复合胁迫下，表现为根 $>$ 茎 $>$ 叶。对大多数非耐性或非超积累植物而言,根系所吸收的镉大部分被局限于根系组织,是镉污染区植物的一般策略,可以避免镉向地上部分转移而对地上部分产生危害。同时镉胁迫下,互叶醉鱼草幼苗还可以利用植物体内解毒机制减少镉的危害,主要包括叶片区势化、金属硫蛋白合成、重金属植物螯合肽形成等[13」,这些过程大多在植物叶片中完成,使得叶片成为地上部分镉的贮存库。而复合胁迫下,互叶醉鱼草幼苗将更多镉贮存于茎中,与叶片相比茎的生理功能较弱,这一分配策略对于降低镉对地上部分生物毒性具有重要意义[20]。这两种不同策略都显示了植物对镉的耐性,以便能够存活并进行生物量生产。
+
+光合生理变化是植物对环境变化最为敏感的适应性特征之一[13],其中光合作用 $\left( P _ { n } \right)$ 是直接指示指标。研究表明,在干旱或镉胁迫下,植物 $\boldsymbol { P } _ { n }$ 随胁迫程度、胁迫时间的增加而明显降低。当土壤含水量降至田间持水量的 $3 0 \%$ $4 0 \%$ 时,小麦(Triticum aestivum L.)[21] 沙棘(Hippophae rhamnoides L.)[18]杨树(Populus L.）[22]等 $\boldsymbol { P } _ { n }$ 仅为对照的 $3 3 \%$ ， $6 3 \%$ ， $3 7 \% _ { \textmd { o } }$ 玉米（Zea mays L.)[23]、黄瓜（Cucumis sativus L.)[24]、甜瓜（Cucumismelo）[25]等镉敏感型作物,其 $\boldsymbol { { \cal P } } _ { n }$ 在极低的镉浓度处理下明显降低。本试验中,不同胁迫条件下互叶醉鱼草幼苗 $\boldsymbol { P } _ { n }$ 均显著下降,且复合胁迫下降幅度大于镉胁迫(图2）。说明互叶醉鱼草幼苗在单一镉处理仍能表现出较强的光合适应性,进行的光合生长。一般而言,逆境胁迫下,植物 $\boldsymbol { P } _ { n }$ 下降的原因主要有两个：气孔限制与非气孔限制[26]。Farquhar 和 Sharkey认为,可用叶肉细胞 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ 指标判断光合速率下降的原因。 $\boldsymbol { P } _ { n }$ 下降的同时 $C _ { i }$ 值也下降则说明是由气孔受限引起的;如果 $\boldsymbol { P } _ { n }$ 下降的同时 $C _ { i }$ 值不变或升高,则 $\boldsymbol { P } _ { n }$ 下降由叶片叶肉细胞光合能力的下降引起的[27]。本试验研究表明：单一镉胁迫下,互叶醉鱼草幼苗 $\boldsymbol { P } _ { n }$ 下降的同时, $C _ { i }$ 值也明显的下降，气孔限制是导致互叶醉鱼草幼苗在镉胁迫下 $\boldsymbol { P } _ { n }$ 下降的主要原因。镉胁迫下，镉在植物体内积累,影响气孔细胞细胞壁弹性,使细胞壁弹性下降;破坏气孔保卫细胞中脱落酸等植物正常激素合成,导致气孔长期处于关闭状态,成为植物光合作用下降的主要原因[28]。在复合胁迫下,植物 $\boldsymbol { P } _ { n }$ 随镉浓度增加显著下降时 $\mathcal { L } _ { i }$ 呈明显上升趋势,可以认为在双重胁迫下,非气孔因素限制也逐渐成为限制植物 $\boldsymbol { P } _ { n }$ 的原因,说明复合胁迫不仅会造成植物气孔关闭,同时会引起植物体内光合器官结构与功能破坏,植物叶肉细胞同化能力下降等,显著影响植物光合作用的进行[13]。
+
+光合色素含量是植物的重要生理参数，其中叶绿素是光合作用过程中进行光能吸收、传递转化的重要参与者,含量高低直接影响到植物的光合作用[29]。本试验中不同胁迫条件均使互叶醉鱼草幼苗叶绿素含量显著下降,且复合胁迫降幅大于单一镉胁迫（表3）。原因可能是不同胁迫类型对植物叶绿素的影响机理不同。干旱处理可以破坏叶绿体超微结构[30]、影响合成叶绿素几种酶（原叶绿素脂还原酶、8-氨基乙酰丙酸合成酶和胆色素原脱氨酶)的活性,阻止叶绿素合成[13]。镉胁迫下,镉( $\mathrm { C d } ^ { 2 + }$ )元素在植物根部大量积累,影响植物对正价阳离子的吸收,特别是与其价态相同Fe $\mathrm { \Omega , Z n , M g }$ 等微量元素的吸收[31],阻断营养元素向叶部输送,使叶绿素合成能力受到干扰;此外， $\mathrm { C d } ^ { 2 + }$ 进入叶片,与叶绿体蛋白质上的一SH基团结合,取代正常的 $\mathbf { M } \mathbf { g } ^ { 2 + }$ ,使原有叶绿体失去正常功能[32]。两种胁迫对植物叶绿素的伤害具有协同效应,这一结论和干旱与镉复合胁迫对玉米叶绿素含量影响结论一致,说明复合胁迫对植物的伤害比单一胁迫更加复杂[335]。但是,胁迫条件下互叶醉鱼草幼苗叶绿素 $\mathrm { { a / b } }$ 比值却显著高于对照(表3）。一般认为，叶绿素 $\mathrm { { a / b } }$ 的比值越大,表示类囊体的垛叠程度越大,光抑制作用越弱,植物对光能的利用效率越高[36-37]。干旱与镉胁迫可造成互叶醉鱼草幼苗叶绿素含量下降，但其可以通过提高叶绿素 $\mathrm { { a / b } }$ 比值的途径提高光能利用效率来维持自身的生长。
+
+综上所述,虽然Cd胁迫、干旱与Cd复合胁迫会对两年生互叶醉鱼草幼苗产生一定的影响,但所有苗木均较好的存活下来,表现出多种积极的适应性特征,并有一定的镉积累量。因此在干旱半干旱区园林绿化以及Cd 污染地区的生态建设中,互叶醉鱼草是一种具有巨大应用潜力和前景的灌木树种。同时也可以利用它对Cd污染地区的土壤进行植物修复。
+
+# 参考文献（References）:
+
+[1]YeXZ,XiaoWD,ZangYZ,ZaoSP,WangGJ,ZangQ，WngQ.Assessentofhavymetalpolutoinvegeablesandrelatosipsisoilheavymetaldistributionin Zhejiangprovince,China.EnvironmentalMonitoringandAssessment,2015,187(6)：378-378.  
+[2]GuoT,ZangG,ZouX,WuFB,hnJX.fectsoflumudcadutoxicitygrowthdatoxidntctivitsoftobarley genotypes with different Al resistance.Plant and Soil,2003,258(1）：241-248.  
+[3]环境保护部，国土资源部.全国土壤污染状况调查公报.中国国土资源报，（2014-04-18）[2016-06-25\.htp:/ww.gtzyb.com/yaowen/20140418_62262.shtml.  
+[4］秦建桥，夏北成，赵鹏.五节芒不同种群对Cd污染胁迫的光合生理响应.生态学报，2010,20(2)：288-299.  
+[5] Liu ZL,Chen W,He X Y. Influence of $\mathrm { C d } ^ { 2 + }$ on growth and chlorophyll fluorescence in a hyperaccumulator：Lonicera japonica Thunb.Journal ofPlant Growth Regulation，2015,34(3）：672-676.  
+[6]ShuX,YnLY,ZhagQF,WangWEfectofPoxitoeafgowh，tioidantenzeactiviesdpotosysisiidseedlings of Jatropha curcas L.Environmental Science and Polution Research,2012,19(3）：893-902.  
+[7]PulfordD，WatsonC.ytoreediatioofaetalcotaatedlandyresrevie.EnviontInteational，，9（4）：529-540.  
+[8] 樊新刚，米文宝，马振宁，王婷玉.宁夏石嘴山河滨工业园区表层土壤重金属污染的时空特征.环境科学,2013，34（5)：1887-1894.  
+[9] 李爱平，王晓江，杨小玉，张雷.库布齐沙漠几种沙生灌木叶解剖结构耐旱特征研究.中国沙漠，2010,30（6)：1405-1410.  
+[10] 国家环境保护局，国家技术监督局.GB 15618-1995土壤环境质量标准.北京：中国标准出版社，2006.  
+[11] 王幼奇，白一茹，王建宇.基于GIS 的银川市不同功能区土壤重金属污染评价及分布特征.环境科学,2016,37(2)：710-716.  
+[12] 钱正安，宋敏红，李万源.全球、中蒙干旱区及其部分地区降水分布细节.高原气象，2011，30(1)：1-12.  
+[13] 王振夏，魏虹，吕茜,李昌晓，周珺，高伟,陈伟.枫杨幼苗对土壤水分“湿-干"交替变化光合及叶绿素荧光的响应.生态学报,2013，33(3):888-897.  
+[14]IslamMS，UenY,ikderMurasakiM.htofiratioofseicadamfrotewatereviroentsingMcranteos(J.F.Gmel）S.F Blake As A Hyperaccumulator.International Journal of Phytoremediation,2013,15(10）：1010-1021.  
+[15]ParkS，KimKS，KangD,YoonH,SungK.Efectsofhumicacidonheavymetaluptakebyherbaceousplantsinsoilssiultaeouslycontaminated by petroleum hydrocarbons.Environmental Earth Sciences,2013,68(8）：2375-2384.  
+[16]EvangelouMsoBntdoeghetalptakdaioinooatedldlcatiofor biomass production.International Journal of Phytoremediation,2013，15(1）：77-90.  
+[17]FahraplaedaoNocrV,bigus,ouEetofadoogrowthFrotisint,4(1): 175.  
+[18］裴斌，张光灿，张淑勇，吴芹，徐志强，徐萍.土壤干旱胁迫对沙棘叶片光合作用和抗氧化酶活性的影响.生态学报，2013，33（5)：1386-1396.  
+[19] 原海燕，郭智，黄苏珍.Pb污染对马葡生长、体内重金属元素积累以及叶绿体超微结构的影响.生态学报，2011,31（12)：3350-3357.  
+[20] HallJL.Cellarmechanismsforheavymetaldetoxificationandtolerance.JournalofExperimental Botany，OO,53（366）：1-11.
+
+http://www.ecologica.cn
+
+[21］马富举,李丹丹，蔡剑，姜东，曹卫星,戴延波.干旱胁迫对小麦幼苗根系生长和叶片光合作用的影响.应用生态学报，2012，23（3)：724-730.  
+[22］井大炜，邢尚军，杜振宇，刘方春.干旱胁迫对杨树幼苗生长、光合特性及活性氧代谢的影响.应用生态学报，2013，24（7)：1809-1816.  
+[23] 宇克莉，孟庆敏，邹金华.镉对玉米幼苗生长、叶绿素含量及细胞超微结构的影响.华北农学报，2010,25（3)：118-123.  
+[24]BzsisGaecaeesisdeudrsoseic)：505-510.  
+[25]ZhangY,XuangenYlicylidviatesam-idcediioofowthdotosythsistoulaigantioxidant defense system in two melon cultivars （Cucumis melo L.).Protoplasma,2O15,252(3)：911-924.  
+[26] WuBJ，ChowWS,LiuYJ，ShiL，JiangCD.Efctsofstomataldevelopmentonstomatalconductanceandonstomatallitationofphotosynthesis in Syringa oblata and Euonymus japonicus Thunb.Plant Science,2O14,229：23-31.  
+[27]FarquharGD,SharkeyTDStomatalconductanceandpotosythesis.AnualReviewofPlantPhysiology982,1）：17345.  
+[28] Ashraf M,HarrsJC.Photosynthesisunderstressful environments；Anoverview.Photosythetica，2O13,51（2）：163-190.  
+29]CaveseasJotossdhtdl:laeletllAoa2008，103(4):551-560.  
+[30］帕提古力·麦麦提，巴特尔·巴克，海利力·库尔班.沙尘胁迫对阿月浑子光合作用及叶绿素荧光特性的影响.生态学报，2014，34(22):6450-6459.  
+[31]LiP,oLZJFaglegeiciocalpdgenes associated with photosynthesis in rice(Oryza sativa L.).Plant and Soil,2015,397(1/2)：289-301.  
+[32]Nagajotinthealsiytsotalsts(3):199-216.  
+[33]Polle A， Klein T,Ketner C. Impact of cadmium on young plants of Populus euphratica and P. $\times$ canescens，two poplar species that diffr in stresstolerance.New Forests，2013，44(1）：13-22.  
+[34］周航飞.干旱胁迫下不同浓度重金属Cd对玉米生理生化特性及土壤微生物和酶活性的影响[D].重庆：西南大学.2014.  
+[35］叶波，吴永波，邵维，杨静.高温干旱复合胁迫及复水对构树（Brousonetia papy-rfra）幼苗光合特性和叶绿素荧光参数的影响.生态学杂志，2014，33(9)：2343-2349.  
+[36］董陈文华，陈宗瑜，纪鹏，钟楚．自然条件下滤减UV-B辐射对烤烟光合色素含量的影响.武汉植物学研究，2009,27（6)：637-642.  
+[37］周珺，魏虹，吕茜，李昌晓，王振夏，高伟，陈伟.土壤水分对湿地松幼苗光合特征的影响.生态学杂志,2012,31（1)：30-37.

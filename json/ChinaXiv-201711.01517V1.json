@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "吡啶甲酸铬对产蛋鸡的生物安全性评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王钢」孙效名²\\*廖秀东²张丽阳²吕林 2\\*\\*兰云贤1\\*\\*罗绪刚²（1.西南大学荣昌校区，重庆 462460；2.中国农业科学院北京畜牧兽医研究所矿物元素营养",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究室，北京 100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮添加不同水平吡啶甲酸铬对北京红商品产蛋鸡产蛋性能、血液生理生化指标、器官发育和主要脏器组织病理学变化的影响，进而评价吡啶甲酸铬对产蛋鸡的生物安全性。试验采用单因子完全随机设计，选用360 只23 周龄北京红商品产蛋鸡，按产蛋率和体重一致的原则随机分为4个组，每个组6个重复，每个重复15只鸡。各组分别在玉米-豆粕型基础饲粮中添加0、0.6、4.0 和 $6 . 0 \\ \\mathrm { m g / k g }$ （以铬计）的吡啶甲酸铬。预试期21d，正试期70d。结果表明：1）饲粮铬添加水平对试验全期产蛋鸡产蛋性能和器官指数无显著影响（ $P { > } 0 . 0 5 \\$ )。2）饲粮铬添加水平除显著提高试验第35天产蛋鸡血浆谷草转氨酶活性（ $P { < } 0 . 0 5$ ）外，对其他血浆生化指标和血液常规生理指标均无显著影响（P>0.05）。3）饲粮铬添加水平对产蛋鸡主要内脏器官的发育均无明显影响，同时均未观测到产蛋鸡的心脏、肝脏、肾脏、卵巢和输卵管组织出现明显的病理学变化。以上结果表明，产蛋鸡玉米-豆粕型饲粮中吡啶甲酸铬的推荐添加水平为 $0 . 6 \\mathrm { m g / k g }$ 时，具有10倍的安全系数，即饲粮中以吡啶甲酸铬形式添加铬对产蛋鸡是安全的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：吡啶甲酸铬；生物安全评价；产蛋鸡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S831",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "铬（chromium,Cr）是动物必需的微量元素之一，其生理作用日益受到研究者的重视。铬在体内的生物活性形式有3种：葡萄糖耐受因子（glucose tolerance factor,GTF）、吡啶甲酸铬（chromiumpicolinate，Cr-Pic）和低分子量铬结合物（lowmolecularweightchromium-binding substance,LMWCr）[1]。Cr-Pic作为有机三价铬，对GTF的生物活性有重要意义，并被作为营养性添加剂而广泛应用于食品和畜禽生产。一些研究表明，补充适宜浓度的Cr-Pic可以促进畜禽生长，改善胴体品质，缓解环境应激，增强畜禽自身抵抗力，并可以降低血液葡萄糖和脂肪水平，缓解糖代谢和脂肪代谢紊乱的有关症状[2-6]。然而，目前对Cr-Pic安全性的研究已得到一些数据，但结论不尽相同。如Anderson等[7]向小鼠饲粮中添加100mg/kg的Cr-Pic，饲喂24周发现Cr-Pic具有急性毒性。超量添加Cr-Pic引起细胞毒性和基因毒性也有报道。Cr-Pic细胞毒性主要体现在线粒体损伤和细胞凋亡上。如Manygoats等[8]研究表明，添加1.0 mmol/L的Cr-Pic(125倍于适宜量)可导致线粒体损伤和细胞凋亡。Cr-Pic基因毒性主要表现在DNA碱基氧化、DNA链断裂和基因突变上。Bagchi等[9]研究结果发现，50mg/mL(120 mmol/L)的Cr-Pic处理巨噬细胞J774A.1 24h后，造成DNA链断裂，细胞中存在DNA碎片。但是，目前关于Cr-Pic对蛋鸡的饲用安全性评价研究尚未见报道。本试验通过测定蛋鸡产蛋性能、血液生理生化指标、器官发育和主要脏器组织病理学变化，以评价玉米-豆粕型饲粮添加Cr-Pic对产蛋鸡的的生物安全性，为确定Cr-Pic在蛋鸡饲粮中最高添加水平的安全系数提供科学依据，以确保其在蛋鸡生产中的安全应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用单因子完全随机设计。根据国内外铬在产蛋鸡上的饲养试验数据结果，即常规饲养条件下铬发挥作用的有效剂量为 $0 . 4 { \\sim } 1 . 6 \\ \\mathrm { m g / k g ^ { [ 1 0 - 1 1 ] } }$ ，将 $0 . 4 ~ \\mathrm { m g / k g }$ 看作是产蛋鸡饲粮铬的最低有效推荐量，以及根据农业部颁布的《饲料和饲料添加剂畜禽靶动物耐受性评价试验指南（试行)》中的有关规定，设置4个组，即不添加铬的对照组、铬使用剂量组（为最低有效推荐量的1.5倍）及分别为最低有效推荐量和使用剂量组的10倍的2个多倍剂量添加组，即Cr-Pic 的添加水平分别为0、0.6、4.0、 $6 . 0 \\mathrm { m g / k g }$ （以铬计）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物与饲粮",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用 20 周龄的北京红商品开产蛋鸡 400 只，按产蛋率和体重相近的原则从中选取产蛋鸡 360只，随机分为4个组，每个组6个重复，每个重复15只鸡。其中每个组90只鸡，分6 个重复笼饲养，每个重复笼15只鸡（每个重复笼由5个小单元笼组成，每个小单元笼 3只鸡)，然后开始预试验21d。第 23周龄末产蛋率已达到高峰期（产蛋率 ${ > } 8 5 \\%$ )，按产蛋率和体重相近的原则对各组产蛋鸡进行微调，即进入正式试验，为期 $7 0 ~ \\mathrm { d }$ ，到33周龄结束。饲养管理和常规免疫按《北京红鸡父母代、商品代饲养管理手册》进行。鸡只自由采食和饮水。试验期每天观察并记录临床症状、发病和死亡鸡只，如有鸡只死亡，解剖观察病理学变化。分别于试验第35天（28周龄）和第70天（33周龄)，鸡只禁食过夜后，以小单元笼为单位称鸡空腹体重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照 NRC（1994）[12]家禽营养需要量中推荐的褐壳蛋鸡饲粮营养水平配制玉米-豆粕型基础饲粮（表1)。按试验设计共配制3种试验饲粮，Cr-Pic 在拌入基础饲粮前用玉米淀粉稀释。Cr-Pic由四川尚元公司提供，铬含量实测为 $1 2 . 2 4 \\%$ 。饲粮以粉料喂给。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/643ed9a95bf398b3cd67c77de33eb1b8dd44a6fb534be3f2ca57226c0b2a08ef.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平(饲喂基础) ",
+            "Table 1 Composition and nutrient levels of the basal diet(as fed basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>61.80</td></tr><tr><td>豆粕 Soybean meal</td><td>11.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>8.00</td></tr><tr><td>玉米干酒糟及其可溶物CornDDGS</td><td>3.00</td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>5.70</td></tr><tr><td>石粉Limestone</td><td>8.50</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.80</td></tr><tr><td>食盐 NaCl</td><td>0.25</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/56883448d1b36c4ba1f5219dcd80729fa09b6703068f2bd7b2c96c3ecd07be04.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>玉米淀粉+吡啶甲酸铬Cornstarch+Cr-Pic 0.20</td></tr><tr><td>小苏打 NaHCO3 0.20</td></tr><tr><td>氯化胆碱 Choline chloride 0.08</td></tr><tr><td>微量成分 Micronutrientsl 0.33</td></tr><tr><td>植酸酶 Phytase 0.02</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys.HCl 0.05</td></tr><tr><td>DL-蛋氨酸DL-Met 0.07</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/(MJ/kg) 10.88</td></tr><tr><td>粗蛋白质 CP 15.62</td></tr><tr><td>赖氨酸Lys 0.70</td></tr><tr><td>蛋氨酸 Met 0.32</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys 0.60</td></tr><tr><td>钙Ca</td></tr><tr><td>3.80 总磷TP 0.52</td></tr><tr><td>非植酸磷 NPP 0.30</td></tr><tr><td>铬 Cr/(mg/kg) 0.45</td></tr><tr><td>可消化赖氨酸 DLys 0.58</td></tr><tr><td>可消化蛋氨酸DMet 0.29</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 微量成分为每千克饲粮提供 Micronutrients provided the following per $\\mathrm { k g }$ of the diet: VA 14 711 IU, $\\mathrm { V D } _ { 3 }$ 1 409 IU，VE 16 IU, $\\mathrm { V B _ { 1 } } 1 . 1 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 8 . 1 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 4 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 2 \\mathrm { m g }$ ，叶酸 folic acid $1 ~ \\mathrm { m g }$ ，泛酸 pantothenic acid $1 1 . 3 \\mathrm { m g }$ ，烟酸 nicotinic acid $6 0 \\mathrm { m g }$ ，生物素 biotin 10 mg，Mn (as manganese sulfate) $6 5 ~ \\mathrm { m g }$ ， $Z \\mathrm { n }$ (as zinc sulfate) $5 5 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $4 0 \\mathrm { m g }$ Cu (as copper sulfate) $6 \\ : \\mathrm { m g }$ ， I(as potassium iodide) $1 \\mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)粗蛋白质、钙和铬为实测值,其余均为计算值。CP,Ca and Cr were analyzed values,while the others were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与制备 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配合试验饲粮时现场采样，粉碎过200目筛后置于自封袋中低温干燥保存，以备分析试验饲粮中粗蛋白质、钙和铬含量。分别于试验中间的第35天（28周龄）和试验结束的第",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "70天（33周龄)，所有鸡只禁食 $1 2 \\mathrm { h }$ 而不禁水，于第2天08:00以小单元笼为单位称重，从每个重复笼中按笼平均体重选取2只鸡，分别个体称重后，翅静脉采血 $3 { \\sim } 4 ~ \\mathrm { m L }$ 。其中，取一份全血（肝素钠抗凝）测血液常规生理指标；取另一份全血离心（ $3 0 0 0 \\mathrm { r / m i n }$ ）获得血浆，于-20℃保存，以备分析血浆生化指标。试验各重复笼2只鸡的全血或血浆合为1个分析样品。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于第 70天（33周龄）试验结束采血后，每个重复笼取1只鸡屠宰，迅速剖开腹腔，取出心脏、肝脏、肾脏、卵巢、输卵管，分别称重，计算器官指数，并观察记录各个脏器的形态变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "脏器指数 $( \\% ) =$ （器官重量/活体体重） $\\times 1 0 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "各器官称重后，从0、4.0和 $6 . 0 \\mathrm { m g / k g }$ 组每个重复笼中各取1只鸡的部分心脏、肝脏、肾脏、卵巢和输卵管子宫部，放入装有 $4 \\%$ 福尔马林溶液的棕色瓶中固定，待做石蜡切片，以备观测其组织病理学变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4样品分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1粗蛋白质含量用凯氏定氮法[13]测定饲料原料及饲粮中粗蛋白质含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 钙含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用全谱直读型等离子体发射光谱仪（IRIS Intrepid II,Thermal JarrellAsh,Waltham,MA,USA）测定饲料原料和饲粮中钙含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3铬含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用电感耦合等离子体质谱（ICP-MS）[14]联用法测定Cr-Pic及各组饲粮中的总铬含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 血液指标 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用全自动血液分析仪（SysmtxXE-2100）测定全血红细胞数（RBC）、血红蛋白（HGB）含量和红细胞压积(HCT)；用UnicelDxC 800 Synchron 全自动生化分析系统（Beckman",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "coulter，USA）测定血浆谷草转氨酶(GOT)、谷丙转氨酶(GPT)和碱性磷酸酶(AKP)活性及白蛋白（TP）、总蛋白（ALB）、葡萄糖（GLU）、甘油三脂（TG）、总胆固醇（TCHO）、尿素氮（UN）和肌酐（CRE）的含量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.5 组织病理学检测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "取心脏、肝脏、肾脏、卵巢和输卵管子宫部做石蜡切片，进行组织病理形态学观察。石蜡切片的制作过程包括：取材、固定、冲洗、脱水（ $70 \\%$ 酒精 $4 h {  } 8 0 \\%$ 酒精 $4 h \\to 9 0 \\%$ 酒精4$\\mathrm { h } \\to 1 0 0 \\%$ 酒精 $^ { \\textrm { 1 h } }$ )、透明（无水乙醇与二甲苯溶液1:1体积 $1 5 \\mathrm { m i n } {  } .$ 二甲苯 $1 5 \\mathrm { m i n }$ ）、浸蜡、包埋、切片、粘片、烤片、苏木精-伊红染色（脱蜡：将烤干的切片放入二甲苯Ⅰ $1 0 \\mathrm { m i n { \\to } } .$ 二甲苯 $\\mathrm { I I } 1 0 \\ \\mathrm { m i n }$ ；复水：将脱蜡后的切片移入 $100 \\%$ 酒精 $5 \\ \\mathrm { m i n } {  } 9 0 \\%$ 酒精5 $\\overline { { \\mathrm { ~ 5 ~ } } } \\operatorname* { m i n } \\substack { \\longrightarrow } 8 0 \\%$ 酒精5min $. . 7 0 \\%$ 酒精 $\\cdot 5 \\mathrm { m i n } {  }$ 蒸馏水 $5 \\mathrm { m i n }$ )及显微镜下观察，并用图像采集系统采集相应组织图像。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所有数据均用SAS9.0[15]软件中的一般线性模型（GLM）程序进行方差分析，差异显著者，以最小显著差异（LSD）法比较平均值间的差异显著性。以0.05作为本研究中各项数据的差异显著性检验水平。数据以平均值±标准差表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮铬添加水平对产蛋鸡产蛋性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，饲粮铬添加水平对产蛋鸡产蛋高峰全期产蛋率、平均蛋重、日产蛋重、软破畸形蛋率、平均日采食量及料蛋比均无显著影响（ $P { > } 0 . 0 5 \\rangle$ 。整个试验期间，各组无鸡只出现毒性反应和死亡。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，在本试验条件下，饲粮添加各水平 $\\mathrm { C r }$ -Pic 对产蛋鸡的产蛋性能无明显影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2 饲粮铬添加水平对产蛋鸡产蛋性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Effects of dietary Cr supplemental level on laying performance of laying hens $( n { = } 6 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/23c6feb221d429929b623c43e131fda227fcbfad13989fb360113b8b63c5f8d5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">饲粮铬添加水平 Dietary Cr supplemental level/(mg/kg)</td><td rowspan=\"2\">P值</td></tr><tr><td>0</td><td>0.6</td><td>4.0</td><td>6.0</td></tr><tr><td>平均日采食量</td><td>121.96±2.67</td><td>118.14±2.02</td><td>119.23±2.11</td><td>119.83±2.89</td><td>0.111</td></tr><tr><td>Average daily feed intake/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>产蛋率Laying rate/%</td><td>94.08±4.06</td><td>93.54±2.47</td><td>94.02±4.69</td><td>92.71±1.98</td><td>0.899</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>61.17±1.19</td><td>60.86±0.67</td><td>60.20±0.56</td><td>61.20±0.76</td><td>0.179</td></tr><tr><td>日产蛋重 Daily egg mass/(g/d)</td><td>57.58±3.29</td><td>56.92±1.39</td><td>56.59±2.67</td><td>56.75±1.82</td><td>0.904</td></tr><tr><td>料蛋比Feed to egg</td><td>2.12±0.09</td><td>2.08±0.07</td><td>2.11±0.12</td><td>2.11±0.06</td><td>0.793</td></tr><tr><td>软破畸形蛋率 Broken and abnormal egg rate/%</td><td>1.48±1.64</td><td>1.03±0.89</td><td>0.73±0.72</td><td>0.78±0.54</td><td>0.586</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 \\$ 。表3、表4同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ ,while with the same or no letter superscripts mean no significant difference( $( P { > } 0 . 0 5 )$ . The same as Table 3 and Table 4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 饲粮铬添加水平对产蛋鸡血液常规生理指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮铬添加水平对产蛋鸡28 和33 周龄血液红细胞数、血红蛋白含量、红细胞积压均无显著影响（ $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮添加各水平 $\\mathrm { C r }$ -Pic不影响产蛋鸡的主要血液常规生理指标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮铬添加水平对产蛋鸡血液常规生理指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f89c11b786e48741689f107d77aab00cbd473409563ff98ed1357e855364b454.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary Cr supplemental level on blood physiological parameters of laying hens ( $\\scriptstyle ( n = 6 )$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 Time</td><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">饲粮铬添加水平 Dietary Cr supplemental level/(mg/kg)</td><td rowspan=\"2\">P值</td></tr><tr><td>0</td><td>0.6</td><td>4.0</td><td>6.0</td></tr><tr><td>28周龄</td><td>红细胞数 RBC/ （×1012个/L）</td><td>2.43±0.09</td><td>2.44±0.09</td><td>2.42±0.21</td><td>2.37±0.12</td><td>0.906</td></tr><tr><td>28 weeks</td><td>血红蛋白 HGB/</td><td>10.17±0.59</td><td>10.32±0.82</td><td>10.77±0.95</td><td>10.0±0.2</td><td>0.332</td></tr><tr><td>of age</td><td>（g/dL) 红细胞压积HCT/%</td><td>28.8±1.6</td><td>26.1±1.2</td><td>26.0±2.2</td><td>27.3±2.3</td><td>0.074</td></tr><tr><td>33周龄</td><td>红细胞数 RBC/</td><td>2.32±0.26</td><td>2.54±0.14</td><td>2.53±0.17</td><td>2.36±0.21</td><td>0.141</td></tr><tr><td>33</td><td>(x1012个/L）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>weeks</td><td>血红蛋白HGB/</td><td>11.83±1.04</td><td>12.32±0.42</td><td>11.02±0.90</td><td>11.03±0.47</td><td>0.074</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/808bde3c2b444b054b35ff785b1765f99f1f3b5e40cb600bbb671c96da2a939c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>of age</td><td colspan=\"6\">（g/dL)</td></tr><tr><td></td><td>红细胞压积HCT/%</td><td>24.6±2.9</td><td>26.9±1.7</td><td>26.8±1.4</td><td>26.8±3.0</td><td>0.293</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮铬添加水平对产蛋鸡器官指数的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，饲粮铬添加水平对试验第 70天产蛋鸡心脏指数、肝脏指数、肾脏指数、卵巢指数和输卵管指数均无显著影响（ $P { > } 0 . 0 5 \\$ )，且未观测到以上脏器外观任何异常变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，在本次试验条件下，饲粮添加各水平Cr-Pic 对产蛋鸡主要内脏器官的发育均无不良影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮铬添加水平对产蛋鸡器官指数的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c267fd4a0b5f7cbe398b965f73b47a6975fd883754b60479094ccf94639b100f.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary Cr supplemental level on organ indices of laying hens ",
+            "$\\scriptstyle ( n = 6 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">项目</td><td colspan=\"4\">饲粮铬添加水平 Dietary Cr supplemental level/(mg/kg)</td><td>P值</td></tr><tr><td>0</td><td>0.6</td><td>4</td><td>6</td><td>P-value</td></tr><tr><td>心脏指数Heart index</td><td>0.38±0.05</td><td>0.41±0.05</td><td>0.37±0.03</td><td>0.38±0.05</td><td>0.899 3</td></tr><tr><td>肝脏指数Liver index</td><td>1.60±0.15</td><td>1.60±0.16</td><td>1.64±0.13</td><td>1.62±0.04</td><td>0.178 7</td></tr><tr><td>肾脏指数Kidneyindex</td><td>0.52±0.05</td><td>0.53±0.06</td><td>0.58±0.04</td><td>0.57±0.06</td><td>0.904 1</td></tr><tr><td>卵巢指数Ovary index</td><td>2.42±0.48</td><td>2.27±0.48</td><td>2.38±0.41</td><td>2.52±0.30</td><td>0.586 3</td></tr><tr><td>输卵管指数 Oviduct index</td><td>3.67±0.31</td><td>3.64±0.39</td><td>3.46±0.47</td><td>3.47±0.37</td><td>0.111 2</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4饲粮铬添加水平对产蛋鸡血浆生化指标的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，饲粮铬添加水平对试验第35天产蛋鸡血浆谷草转氨酶活性有显著影响（ $P { < } 0 . 0 5 )$ ；对其他血浆生化指标均无显著影响（ $P { > } 0 . 0 5 )$ 。与对照组相比，饲粮添加0.6、4.0 和 6.0 mg/kg Cr-Pic 显著提高了试验第 35 天产蛋鸡血浆谷草转氨酶活性（ $P { < } 0 . 0 5 )$ ，但各添加组间无显著差异（ $P { > } 0 . 0 5 \\rangle$ ）°",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮添加各水平Cr-Pic 对产蛋鸡大多数血浆生化指标无显著影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/71fa559e9b8deb4bcbacce34627d1ed44b0428ccb3e47b1da1d9de360a05c8a7.jpg",
+        "table_caption": [
+            "表5饲粮铬添加水平对产蛋鸡血浆生化指标的影响",
+            "Table 5Effect of dietary Cr supplemental level on plasma biochemical parameters of laying hens $\\scriptstyle ( n = 6 )$ "
+        ],
+        "table_footnote": [
+            "3同列数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $\\scriptstyle \\cdot { \\cal P } > 0 . 0 5 .$ ）°4In the same column, values with different smalletter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no5significant difference $( P { > } 0 . 0 5 )$ ："
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>时间</td><td></td><td>碱性</td><td>UN/(mL)</td><td>(mmol/L)</td><td>T（油三/)</td><td>(mmol/L)</td><td>T</td><td>CRE/ (umo/L)</td><td>转</td><td>AB/g）</td><td>谷草转</td></tr><tr><td></td><td>level/(mg/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ci</td><td>0</td><td>840.98±222.03</td><td>21.86±13.94</td><td>25.53±8.88</td><td>10.92±3.22</td><td>2.61±0.88</td><td>52.45±4.37</td><td>197.89±117.29</td><td>16.10±1.92</td><td>25.30±1.82</td><td>107.80±1.14b</td></tr><tr><td>28周龄 28 weeks</td><td>0.6</td><td>831.92±237.20</td><td>15.93±9.69</td><td>21.82±6.42</td><td>11.45±4.05</td><td>2.36±0.50</td><td>53.98±4.54</td><td>185.68±110.63</td><td>15.20±2.26</td><td>23.87±2.49</td><td>112.95±2.00a</td></tr><tr><td>ofage</td><td>4.0</td><td>580.36±125.13</td><td>29.25±14.50</td><td>26.22±2.35</td><td>12.50±3.77</td><td>2.83±0.61</td><td>53.34±7.11</td><td>217.04±61.90</td><td>13.06±1.81</td><td>24.68±0.92</td><td>111.91±1.80a</td></tr><tr><td></td><td>6.0</td><td>944.24±392.39</td><td>10.80±9.63</td><td>20.94±4.32</td><td>7.91±1.82</td><td>2.18±0.44</td><td>49.34±8.07</td><td>134.04±64.07</td><td>14.66±0.90</td><td>25.52±2.43</td><td>112.86±4.31a</td></tr><tr><td>OZ:A</td><td>P Prvaue</td><td>595.74279</td><td>0.1372</td><td></td><td>10.12836</td><td> .3679</td><td>0.614.38</td><td>20046045</td><td>12.772</td><td>2.967</td><td>11.01439</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>33周龄</td><td>0.6</td><td>557.67±151.74</td><td>3.51±0.80</td><td>40.71±8.31</td><td>16.06±2.21</td><td>3.40±0.34</td><td>54.73±4.54</td><td>185.01±86.54</td><td>12.80±1.92</td><td>25.56±1.29</td><td>108.22±3.18</td></tr><tr><td></td><td>4.0</td><td>543.57±271.36</td><td>5.44±2.93</td><td>42.30±10.75</td><td>17.35±3.47</td><td>2.88±0.52</td><td>53.98±11.65</td><td>319.12±168.18</td><td>14.08±2.29</td><td>24.27±1.24</td><td>108.11±1.22</td></tr><tr><td></td><td>P值 Pvadue</td><td>840.170431</td><td>3.247</td><td>38.89</td><td>1.4341</td><td>3.3167</td><td>51.53830</td><td>22620840</td><td>14.24045</td><td>24.260294</td><td>107.53</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5饲粮铬添加水平对产蛋鸡主要脏器组织病理学的影响由图1可见，饲粮铬添加组产蛋鸡心脏未见组织病理学变化。各组均表现为心脏被  \n膜光滑；心肌细胞排列紧密、整齐，细胞染色均匀；润盘及横纹间质无炎性细胞浸润；细  \n胞核呈圆形或椭圆形，位于肌细胞的中央。由图2可见，饲粮铬添加组产蛋鸡肝脏未见组织病理学变化。各组均表现为肝小叶呈  \n多角棱柱体，结构完整；肝细胞以中央静脉为中心呈放射状排列，界限清晰，呈均匀的网  \n状结构；肝索和肝窦结构完整清晰。由图3可见，饲粮铬添加组产蛋鸡肾脏未见组织病理学变化。各组均表现为肾脏皮质  \n部肾小球体积适中，结构正常，囊腔清晰；肾小管上皮细胞胞浆均质红染；髓质小体的集  \n合管上皮细胞胞浆较均质。由图4可见，饲粮铬添加组产蛋鸡卵巢未见组织病理学变化。各组均表现为卵巢组织  \n层次分明、结构完整，间质细胞结构正常，在间质细胞间有不同发育阶段的生长卵泡。由图5可见，饲粮铬添加组产蛋鸡输卵管未见组织病理学变化。各组黏膜细胞、肌层  \n细胞以及浆膜层细胞均较为完整。以上结果表明，在本次试验条件下，饲粮铬添加组各组产蛋鸡主要脏器均未观察到其  \n显微结构和形态的组织病理学变化。uterine tube of laying hens  \n3讨论  \n3.1饲粮铬添加水平对产蛋鸡产蛋性能的影响  \n本试验期间，饲粮铬添加水平对产蛋鸡的产蛋率、平均日采食量以及料蛋比等指标均无显著影响。从目前国内外的研究结果来看，饲粮铬添加水平对蛋鸡产蛋性能影响的研究结果不一致。汪莉等[16]在饲粮中添加0、0.1、0.3、0.6 和 $1 . 0 \\mathrm { m g / k g }$ 的铬（烟酸铬）时发现，添加 $1 . 0 \\ \\mathrm { m g / k g }$ 的铬可提高蛋鸡产蛋率 $7 \\%$ 和平均日采食量 $6 . 6 1 \\%$ ，提高净蛋白利用率12.93%。苏祥等[14]等在玉米-豆粕基础饲粮（含铬 $0 . 2 5 ~ \\mathrm { m g / k g }$ ）中以 $\\mathrm { C r }$ Pic 形式添加0.4、0.8、1.6和 $3 . 2 \\mathrm { m g / k g }$ 铬,结果表明, $0 . 4 { \\sim } 1 . 6 \\mathrm { m g / k g }$ 铬水平降低料蛋比和软破蛋率，而 $3 . 2 \\mathrm { m g / k g }$ 铬水平则显著提高料蛋比和软破蛋破蛋率。Kim 等[17]发现，在高蛋白水平下（ $1 6 \\%$ )，添加$0 . 8 ~ \\mathrm { m g / k g }$ 铬（Cr-Pic）可显著提高36 周龄褐壳蛋鸡产蛋率和产蛋量，这提示适宜的饲粮铬水平可改善提高产蛋率和产蛋量，可能是禽类与哺乳动物一样也存在下丘脑-垂体-性腺轴，加铬后通过此性腺轴提高禽类的繁殖性能。Uyanik 等[18]在基础饲粮中添加高剂量（20mg/kg）三氯化铬，结果显示，试验组采食量下降，料蛋比升高了 $4 . 2 8 \\%$ ，但对产蛋鸡体重、蛋重和全期产蛋量均无影响。饲粮添加铬对产蛋鸡产蛋性能的影响尚无一致结果，可能与产蛋鸡品种、添加剂量及饲喂条件有关。本试验结果表明，饲粮添加Cr-Pic 对产蛋鸡产蛋性能没有影响，同时，均未造成明显的毒性反应。  \n3.2饲粮铬添加水平对产蛋鸡血液常规指标的影响  \n血液常规指标是衡量动物机体营养平衡的一个重要指标，是评价动物本身健康状态的重要指标。正常情况下，健康动物血液中的某些化学成分往往保持动态平衡，只有当出现代谢机能障碍或组织器官发生病变时，血液成分才会出现相应的改变。本研究结果表明，饲粮中添加Cr-Pic 不影响血液中红细胞数、血红蛋白含量和红细胞积压，这表明饲粮中添加 Cr-Pic 对产蛋鸡血液生理指标无明显影响。  \n3.3饲粮铬添加水平对产蛋鸡血浆生化指标的影响  \n血清总蛋白和白蛋白的含量在一定程度上可以反映机体蛋白质的合成和代谢状况[19]。尿素氮是机体蛋白质分解代谢的主要终末产物，其在一定程度上可以反映机体对蛋白质的利用程度。研究报道，血清尿素氮含量与动物蛋白质代谢和氨基酸平衡有关，并在一定程度上可以反映动物体内蛋白质的代谢和饲粮氨基酸的平衡情况[20]。本试验中，饲粮添加Cr-Pic 对产蛋鸡血浆总蛋白、白蛋白和尿素氮含量均无显著影响，说明Cr-Pic 对产蛋鸡蛋白质代谢无任何不良影响。  \n血清中总胆固醇、甘油三酯等含量反映了脂类物质代谢状况，血清胆固醇含量可近似代表体内胆固醇合成情况，血清甘油三酯含量的高低反映了脂类在体内的吸收利用状况。本试验中，饲粮中添加0.6、4.0、 $6 . 0 \\mathrm { m g / k g }$ 铬对产蛋鸡血清总胆固醇和甘油三酯的含量无明显影响，说明饲粮添加Cr-Pic对产蛋鸡脂类代谢无任何不良影响。  \n谷丙转氨酶是肝功能损害最敏感的检测指标，可反映肝脏的功能。肝细胞受损会导致血浆谷丙转氨酶活性升高，也会引起肝脏代谢和解毒能力降低，从而使身体毒素不能及时排出。而谷草转氨酶则是肝脏细胞中存在的并参与氨基酸代谢的一种转氨基活性最高的酶，",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ab4822ec8cced7e7e2c1e641905e95aa79ccee92efcdbdf79ed42f5a2bc6b16.jpg",
+        "img_caption": [
+            "图1饲粮铬添加水平对产蛋鸡心脏组织病理变化的影响",
+            "Fig.1Effects of dietary Cr supplemental level on heart histopathological changes of laying "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/55504bc7a4c06425bda8b28dcd672dac1637ab6d4edde83f4a3dd3c22cd55b2d.jpg",
+        "img_caption": [
+            "图2饲粮铬添加水平对产蛋鸡肝脏组织病理变化的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6499f0b1d925765f4fd769f57aa1168f04b952941cd44110d5424af0c76740f1.jpg",
+        "img_caption": [
+            "Fig.2Effects of dietary Cr supplemental level on liver histopathological changes of laying hens ",
+            "图3饲粮铬添加水平对产蛋鸡肾脏组织病理变化的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9fdbc09eccbc1bb790867deaccaca181b0e18f2940e02c5057446968e67407f.jpg",
+        "img_caption": [
+            "Fig.3Effects of dietary Cr supplemental level on kidney histopathological changes of laying ",
+            "图4饲粮铬添加水平对产蛋鸡卵巢组织病理变化的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fd62bfd0c37b06b31d38a1c9ea25d6102419983cecf1e910deb11b55be3f05b.jpg",
+        "img_caption": [
+            "Fig.4 Effects of dietary Cr supplemental level on ovary histopathological changes of laying ",
+            "图5饲粮铬添加水平对产蛋鸡输卵管子宫部组织病理变化的影响",
+            "Fig.5 Effects of dietary Cr supplemental level on histopathological changes in uterus part of "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "也可作为判断肝脏功能正常与否的依据之一[21]。本试验中，饲粮中添加0.6、4.0、6.0 mg/kg铬可显著提高试验第35天产蛋鸡血浆谷草转氨酶活性，同时有降低产蛋鸡前期血浆谷丙转氨酶活性的趋势，说明Cr-Pic对产蛋鸡前期肝脏有一定的保护作用，但这种作用在后期不再体现，具体原因有待进一步研究。这说明饲粮添加Cr-Pic对产蛋鸡肝脏无不良影响。总胆红素是机体血红蛋白分解代谢的产物，常作为肝、胆疾病的诊断指标。血浆中肌酐浓度能够较准确地反映肾脏实质受损的情况。碱性磷酸酶在机体的磷酸基团代谢和转化中发挥着重要作用，常将其作为诊断肝脏类疾病的重要指标。本试验中，饲粮中添加0.6、4.0、6.0 mg/kg铬对产蛋鸡血浆中总胆红素、肌酐含量以及碱性磷酸酶活性均无明显影响，这说明饲粮添加Cr-Pic对产蛋鸡肝脏、胆以及肾脏无毒副作用，对肝脏和肾脏功能无不良影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4饲粮铬添加水平对产蛋鸡脏器指数的影响  \n正常情况下各脏器与体重的比值较为恒定，只有在动物组织发生病变或损伤后，受损的脏器重量可以发生改变，脏器指数也随之改变。本试验中，饲粮中添加0.6、4.0、6.0 mg/kg铬对产蛋鸡心脏指数、肝脏指数、肾脏指数、卵巢指数和输卵管指数均没有显著影响，这说明饲粮添加Cr-Pic对产蛋鸡的内脏器官和生殖器官均无不良影响。  \n3.5饲粮铬添加水平对产蛋鸡重要组织病理变化的影响  \n目前，有少量研究报道，高剂量的Cr-Pic可导致中国仓鼠的卵巢细胞发生畸变，并明确指出饲粮的三价铬累积会造成人或动物 DNA 的损伤[22]。但丁双阳等[23用Cr-Pic 喂养Wistar 大鼠，研究大鼠的遗传毒理学变化，发现其对母鼠的生殖机能和胎鼠的生长发育无明显影响，对胎鼠未产生致畸作用。Anderson[等7给大鼠饲喂含有Cr-Pic 形式的铬（5、25、50和 $1 0 0 ~ \\mathrm { ~ \\textmu ~ g / g } ^ { \\cdot }$ ）饲粮20周，观察Cr-Pic的毒性，结果发现，各试验组大鼠生长发育良好，病理组织学检查也未见异常。而在本试验中同样未观测到饲喂添加Cr-Pic 饲粮的产蛋鸡肝脏和肾脏等主要内脏器官以及卵巢等生殖器官组织显微结构和形态的组织病理学变",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "化，表明饲粮添加Cr-Pic不会引起产蛋鸡重要组织的病理变化。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "饲粮添加0.6、4.0 和 $6 . 0 \\ \\mathrm { m g / k g }$ 的 Cr-Pic形式铬对产蛋鸡产蛋性能、血液主要生理指标、多数血浆生化指标和主要脏器发育均无不良影响，4.0 和 $6 . 0 \\mathrm { m g / k g }$ 铬组鸡的主要内脏均未观测到组织病理学变化，所有鸡只未出现毒理反应。因此，产蛋鸡在玉米-豆粕型饲粮中铬的推荐添加水平为 $0 . 6 ~ \\mathrm { m g / k g }$ 时，具有10 倍的安全系数，即饲粮中以Cr-Pic 形式添加铬对产蛋鸡饲用是安全的。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \n[1] YAMAMOTO A,WADA O,ONO T.A low-molecular-weight,chromium-binding substance in mammals[J].Toxicology and Applied Pharmacology,1981,59(3):515-523.   \n[2] SAMANTA S,HALDAR S,BAHADUR V,et al.Chromium picolinate can ameliorate the negative effects of heat stress and enhance performance,carcass and meat traits in broiler chickens by reducing the circulatory cortisol level[J].Journal of the Science of Food and Agriculture,2008,88(5):787-796.   \n[3] 张庆东,罗绪刚,王永军,等.铬对肉仔鸡生长性能、免疫功能和胴体品质的影响[J].中国畜 牧杂志,2006,42(9):19-21.   \n[4] 韩爱云,张敏红,冯京海.吡啶甲酸铬对热应激肉鸡淋巴细胞钙离子浓度及免疫功能的影 响[J].畜牧兽医学报,2013,44(2):233-239.   \n[5] 刘文森,高宏伟.烟酸铬、吡啶甲酸铬对肉仔鸡生产性能及脂类代谢影响的研究[C]//吉林 省畜牧兽医学会2003学术年会论文集.长春:吉林省畜牧兽医学会,2003.   \n[6] 李牧,周良娟,张丽英,等.吡啶甲酸铬对生长猪生产性能和组织中铬残留的影响[J].中国饲 料,2011(15):19-21. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and chromiumpicolinateinrats[J].JournaloftheAmericanCollegeof ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Nutrition,1997,16(3):273-279. [8] MANYGOATS K R,YAZZIE M,STEARNS D M.Ultrastructural damage in chromium picolinate-treatedcels:a TEMstudy[J].JBICJournalofBiologicalInorganic Chemistry,2002,7(7/8):791-798. [9] BAGCHI D,BAGCHI M,BALMOORI J,et al.Comparative induction of oxidative stress in cultured J774A.1 macrophagecellsbychromiumpicolinateandchromium nicotinate[J].Research Communications in Molecular Pathology and Pharmacology,1997,97(3):335-346. [10] 苏祥,李素芬,吕林,等.饲粮铬对产蛋鸡产蛋性能、蛋品质及血清生化特性的影响[J].中国 畜牧杂志,2010,46(3):26-30. [11] KIM Y H,HAN I K,SHIN I S,et al.Effect of dietary excessive chromium picolinate on growth performance,nutrient utilizability and serum traits in broiler chicks[J].Asian Australasian Journal of Animal Sciences,1996,9(3):349-354. [12] NRC.Nutrient requirements of poultry[S].Washington,D.C.:National Academy Press,1994. [13] AOAC.Official methods of analysis[S].15th ed.Washington,D.C.:Association of Official Analytical Chemists,1990:73-74. [14] 苏祥.铬对注射禽流感疫苗产蛋高峰期蛋鸡产蛋性能、血清生化指标及免疫反应的影响 [D].硕士学位论文.雅安:四川农业大学,2009. [15] SAS Institute Inc.SAS/user's guide:statistics.version 9.0[M].Cray,N.C.:SAS Institute Inc.,2003. [16] 汪莉,苏宁,苏军.有机铬对蛋鸡生产性能的影响[J].中国家禽,2002,24(12):11-12. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17] KIM J D,HAN I K,CHAE B J,et al.Effects of dietary chromium picolinate on performance,egg quality,serum traitsand mortality rate of brown layers[J].Asian Australasian Journal of Animal Sciences,1997,1O(1):1-7. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[18] UYANIK F,KAYA S,KOLSUZ A H,et al.The effect of chromium supplementation on egg production,egg quality and some serum parameters in laying hens[J].Turkish Journal of Veterinary and Animal Sciences,2002,26(2):379-387. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19] 郑学斌,杜江,余先祥,等.低聚木糖对海兰蛋鸡产蛋性能、鸡蛋品质及血清生化指标的影响[J].安徽农业大学学报,2009,36(2):267-272.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[20] D'MELLO J P FAmino acids in farm animal nutrition[M].Oxford:Oxford University Press,1994. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[21] 韩爱云,张国强,黄仁录,等.二氢杨梅素对肉仔鸡血液生化指标及生长性能的影响[J].中 国兽医杂志,2007,43(11):19-21. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22] STEARNS D M,WISE J P,PATIERNO S R,et al.Chromium (II） picolinate produces chromosome damage in Chinese hamster ovary cells[J].The FASEB Journal,1995,9(15):1643-1648. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23]丁双阳,沈建忠,肖希龙,等.吡啶酸铬的致突变性和生殖毒性研究[J].中国农业科学,2003,36(7):840-845.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of Biological Safety of Chromium Picolinate for Laying Hens ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WANG Gang1SUN Xiaoming2\\* LIAO Xiudong² ZHANG Liyang²LV Lin2\\*\\* LAN Yunxian1\\*\\* LUO Xugang² ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1. Southwest University Rongchang Capmus, Chongqing 402460, China; 2. Mineral Nutrition Research Division, Institute ofAnimal Science, Chinese Academy ofAgricultural Sciences, ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of dietary different supplemental levels of chromium picolinate (Cr-Pic） on laying performance,physiological and biochemical parameters in blood, organs indices and histopathological changes of laying hens, so as to evaluate the biological safety of $\\mathrm { C r }$ -Pic for laying hens.A total of 36O twenty three-week-old Beijing red commercial laying hens with similar laying rate and body weight were randomly allocated to 4 groups with 6 replicates per group and 15 chicks per replicate in a completely randomized design.Hens were fed a corn-soybean meal basal meal diet and the basal diets supplemented with O.6,4.Oor $6 . 0 \\mathrm { \\ m g / k g }$ Cr-Pic (as chromium)，respectively. The preliminary trial period was 21 days and the experimental period was 7O days.The results showed as follows: 1) dietary chromium supplemental level did not affect the laying performance and organ indices of laying hens $( P { > } 0 . 0 5 )$ ．2）Dietary chromium supplemental level significantly increased the plasma glutamic-oxalacetic transaminase (GOT） activity of laying hens at the 35th days $( P { < } 0 . 0 5 )$ , but dietary chromium supplemental level did not affect the blood physiological parameters and other plasma biochemical parameters $( P { > } 0 . 0 5 )$ .3）Dietary chromium supplemental level had no significant influence on the development of major visceral organs,and had no histopathological changes in the heart, liver, kidney, ovary and uterus part of the uterine tube. In conclusion,the current dietary allowance for chromium is $0 . 6 \\mathrm { \\ m g / k g }$ therefore,the addition of chromium (as $\\mathrm { C r }$ -Pic) to diet which is 1O times of the allowance will be safe for laying hens. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: chromium picolinate; biological safety evaluation; laying hens ",
+        "page_idx": 17
+    }
+]

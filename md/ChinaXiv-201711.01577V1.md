@@ -1,0 +1,193 @@
+1 绵羊瘤胃细菌、原虫蛋白质分解代谢相关酶活力及谷氨酸脱氢酶体系的米氏常数值
+
+2 熙义分　崔上爽　电姚萨·友捉赛伊迪　天　　物开化  
+3 （新疆农业大学，新疆肉乳用草食动物营养重点实验室，乌鲁木齐 830052)  
+4 摘要：本试验旨在研究绵羊瘤胃细菌、原虫蛋白质分解代谢相关酶活力及谷氨酸脱氢酶体  
+5 系的米氏常数（ $K _ { \mathrm { m } }$ ）值，为解释绵羊瘤胃细菌、原虫蛋白质分解代谢特征提供酶学依据。  
+6號 选用6只1岁左右安装永久性瘤胃瘘管的中国美利奴(新疆型)绵羊[平均体重为(32.00±1.36)  
+7號 kg]，饲喂精粗比为30:70 的饲粮，依次采集饲喂前（0h）和饲喂后1.5、3.0、6.0、9.0、12.0  
+8號 h 6个时间点的瘤胃液，重复采集3次。分离和制备细菌、原虫破碎液，分别测定相关酶活  
+9號 力及谷氨酸脱氢酶体系的 $K _ { \mathrm { m } }$ 值。结果显示：1）绵羊瘤胃细菌、原虫破碎液中蛋白酶、谷  
+10 丙转氨酶、谷草转氨酶和谷氨酸脱氢酶的活力随饲喂时间的延长均呈现先升高后降低的动态  
+11 变化规律，总体在饲喂后 $1 . 5 \mathrm { ~ h ~ }$ 达到峰值；谷氨酸和氨含量也呈现相似的变化规律。原虫破  
+12 碎液中参与蛋白质分解代谢的这4种酶的活力在各时间点均极显著高于细菌（ $P { < } 0 . 0 1$ )。2)  
+13 原虫破碎液谷氨酸含量极显著高于细菌 $( P { < } 0 . 0 1 )$ ；原虫破碎液氨含量在1.5、6.0、9.0 和12.0  
+14 h 显著或极显著高于细菌（P<0.05或 $P { < } 0 . 0 1$ )。3）绵羊瘤胃细菌、原虫谷氨酸脱氢酶对烟  
+15 酰胺腺嘌呤二核苷酸（NAD）的 $K _ { \mathrm { m } }$ 值分别为 $2 . 6 0 \times 1 0 ^ { - 7 }$ 、 $1 . 4 8 { \times } 1 0 ^ { - 7 } ~ \mathrm { m o l / L }$ ；细菌、原虫谷氨  
+16 酸脱氢酶对谷氨酸的 $K _ { \mathrm { m } }$ 值分别为 $8 . 4 1 \times 1 0 ^ { - 6 }$ 、 $4 . 9 1 { \times } 1 0 ^ { - 6 } ~ \mathrm { m o l / L }$ ；细菌、原虫谷氨酸脱氢酶对  
+17 还原型烟酰胺腺嘌呤二核苷酸（NADH）的 $K _ { \mathrm { m } }$ 值分别为 $3 . 8 0 \times 1 0 ^ { - 8 }$ 、 $2 . 7 0 { \times } 1 0 ^ { - 8 } \mathrm { m o l / L }$ ；细菌、  
+18 原虫谷氨酸脱氢酶对 $\alpha \cdot$ -酮戊二酸的 $K _ { \mathrm { m } }$ 值分别为 $1 . 1 6 \times 1 0 ^ { - 6 }$ 、 $2 . 0 7 { \times } 1 0 ^ { - 6 } ~ \mathrm { m o l / L }$ ；细菌、原虫谷  
+19 氨酸脱氢酶对氨的 $K _ { \mathrm { m } }$ 值分别为 $2 . 9 7 \times 1 0 ^ { - 5 }$ 、 $1 . 4 0 { \times } 1 0 ^ { - 5 } ~ \mathrm { m o l / L }$ 。结果提示，总体上，绵羊瘤胃  
+20 细菌、原虫中蛋白酶、谷氨酸脱氢酶、谷丙转氨酶、谷草转氨酶的活力在饲喂后 $1 . 5 \mathrm { ~ h ~ }$ 达到  
+21 峰值，之后逐渐降低；绵羊瘤胃原虫中蛋白酶、谷丙转氨酶、谷草转氨酶和谷氨酸脱氢酶的  
+22 活力均极显著高于细菌，原虫中蛋白质分解代谢更旺盛；瘤胃原虫中不仅存在谷氨酸转氨机  
+23 制，还可能存在利用氨重新合成氨基酸的机制。
+
+关键词：瘤胃；细菌；原虫；蛋白质分解代谢；酶活力； $K _ { \mathrm { m } }$ 值中图分类号：S826
+
+研究瘤胃内微生物对饲料蛋白质的降解和利用机制是调控反刍动物瘤胃氮代谢的基础。阐明蛋白质在瘤胃原虫和细菌中的降解与脱氨的机制是实现瘤胃蛋白质代谢调控的前提。蛋白质是反刍动物饲粮的最主要氮源[，反刍动物氮利用率低的一个重要原因是饲粮蛋白质在瘤胃内被大量降解的过程中造成显著的氮浪费。瘤胃微生物（主要包括细菌和原虫）分泌的酶把蛋白质水解成多肽、二肽或三肽后继续被水解成氨基酸，最终被发酵成氨氮[2]。瘤胃原虫长期以来都被认为是脱氨基作用的积极参与者和瘤胃氮代谢低效率的主要原因[3-5]。有研究报道，瘤胃纤毛虫合成蛋白质时对氨基酸的需求取决于其摄取的细菌，而不利用氨（ $\mathrm { \Delta N H } _ { 3 }$ ）作为氮源[6-8]。研究表明，具有原虫的瘤胃内氨氮浓度是去原虫的瘤胃内氨氮浓度的2 倍[9]。原虫细胞抽提物中氨基酸脱氨基酶的活力至少是细菌的3倍[10]。目前，对于瘤胃原虫产氨效率高于细菌的原因尚不十分清楚。瘤胃微生物与蛋白质分解代谢相关的酶的活力高低是影响反刍家畜饲粮蛋白质降解的重要因素，本试验探讨了瘤胃细菌和原虫细胞中与蛋白质分解代谢相关的蛋白酶（使蛋白质水解为肽或氨基酸）、谷丙转氨酶、谷草转氨酶（催化氨基转移及生成氨基酸）和谷氨酸脱氢酶（glutamate dehydrogenase,GDH）[催化氨基酸脱氨及利用氨（ $\mathrm { N H } _ { 4 } { } ^ { + }$ ）合成氨基酸]4 种酶在瘤胃内的动态变化规律与酶促反应动力学特性，为深入认识绵羊瘤胃细菌、原虫蛋白质分解代谢特征提供相关酶学依据。
+
+1材料与方法
+
+1.1 试验动物
+
+本试验选用平均体重为（ $3 2 . 0 0 { \scriptstyle \pm 1 . 3 6 } .$ ）kg、1岁左右的中国美利奴（新疆型）细毛公羊6只，在试验前安装永久性瘤胃瘘管。饲喂精粗比为30:70的饲粮。每天09:00、21:00各饲喂1次，精料与粗料（玉米秸秆）分2次等量饲喂，将精料与粗料混合后饲喂。自由饮水。饲粮组成及营养水平见表1。
+
+表1饲粮组成及营养水平 (干物质基础)  
+Table1Composition and nutrient levels of the diet (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td><td>营养水平 Nutrient levels2</td><td>含量Content</td></tr><tr><td>粉碎玉米 Ground corm</td><td>19.35</td><td>干物质DM</td><td>94.08</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>9.60</td><td>有机物OM</td><td>93.07</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>粗蛋白质CP</td><td>8.87</td></tr></table></body></html>
+
+<html><body><table><tr><td>磷酸氢钙 CaHPO4</td><td>0.15</td><td>中性洗涤纤维 NDF</td><td>57.80</td></tr><tr><td>预混料Premixl</td><td>0.60</td><td>酸性洗涤纤维 ADF</td><td>35.87</td></tr><tr><td>玉米秸秆 Corm stalk</td><td>70.00</td><td>钙Ca</td><td>0.66</td></tr><tr><td>合计 Total</td><td>100.00</td><td>磷P</td><td>0.42</td></tr></table></body></html>
+
+1 每千克预混料含有 One $\mathbf { k g }$ of premix contained the following：石粉 limestone $4 6 7 . 2 \ \mathrm { g }$ ， $\mathrm { F e S O _ { 4 } } \cdot 7 \mathrm { H _ { 2 } O }$ 25.38 g，CuSO4·5HO 13.45 g， $\mathrm { M n S O _ { 4 } } \cdot \mathrm { H _ { 2 } O } \ 1 2 . 5 6 \ \mathrm { g }$ ，VA $5 { \times } 1 0 ^ { 6 } \mathrm { I U }$ ， $\mathrm { C u S O 4 } \bullet \ H _ { 2 } \mathrm { O } \ 3 . 9 8 \ \mathrm { g }$ ， $\mathrm { C o C l } _ { 2 } \cdot 6 \mathrm { H } _ { 2 } \mathrm { O }$ 0.083 g， $\mathrm { K I 0 . 0 6 6 g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } 0 . 0 4 5 \ : g }$ 0
+
+（202 $^ 2$ 营养水平为实际测定值。Nutrient levels were measured values.
+
+# 1.2样品采集与处理
+
+每只羊每周采样1次，共采3次。采样时间点为饲喂前（ $\mathrm { \Delta } 0 \mathrm { \ h }$ ）和饲喂后1.5、3.0、6.0、9、12.0h。抽取用20目尼龙网过滤的瘤胃液，每个时间点每只羊抽取 $1 2 0 ~ \mathrm { m L }$ 瘤胃液，从中量取 $1 0 0 ~ \mathrm { { m L } }$ 瘤胃液，所有羊的瘤胃液混合在一起，再从中量取 $4 8 0 ~ \mathrm { m L }$ 用于分离瘤胃液原虫、细菌，制备无细胞破碎提取物，以测定酶活力。
+
+# 1.3瘤胃液细菌、原虫分离和破碎
+
+将混合瘤胃液 $4 8 0 ~ \mathrm { m L }$ ， $1 5 0 \times g$ 离心 $1 0 \mathrm { m i n }$ 后弃沉淀，将上清液 $6 5 0 \times g$ 离心 $2 0 \mathrm { m i n }$ 将细菌和原虫分离，沉淀为原虫组分，上清液为细菌组分。
+
+将沉淀（原虫组分）用 $4 \mathrm { { ^ \circ C } }$ 过夜预冷的磷酸盐缓冲液（ $2 5 ~ \mathrm { m L }$ ）溶解后，低温高速离心机 $4 ~ ^ { \circ } \mathrm { C } ~ 6 5 0 \times g$ 离心 $2 0 \mathrm { m i n }$ （重复2次)。将上清液（细菌组分） $1 0 0 0 0 \times g$ 离心 $2 0 \mathrm { m i n }$ ，弃上清液，收集所有沉淀，用 $4 ^ { \circ } \mathrm { C }$ 过夜预冷的磷酸盐缓冲液（ $5 0 ~ \mathrm { m L }$ ）溶解后，低温高速离心机 $4 \ ^ { \circ } \mathrm { C } \ 1 0 \ 0 0 0 \times g$ 离心 $2 0 ~ \mathrm { m i n }$ （重复2次)。之后，分别收集沉淀，加入预冷的生理盐水溶解，定容至 $4 0 ~ \mathrm { m L }$ ，混匀后破碎（用超声波破碎机，超声破碎 $1 5 \mathrm { m i n }$ ，功率 $4 0 0 \mathrm { W }$ ，超声3s，间隔5s，工作 60次，重复3次)。破碎液经低温高速离心机 $4 \phantom { 1 } ^ { \circ } \mathbf { C } ~ 1 0 0 0 0 \times g$ 离心 $2 0 \mathrm { m i n }$ 收集上清液， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存，测定酶活力、谷氨酸脱氢酶体系的米氏常数（ $K _ { \mathrm { m } } \mathrm { \stackrel { . } { } }$ ）值、谷氨酸和氨和蛋白质含量。
+
+# 1.4蛋白质含量、酶活力的测定
+
+瘤胃细菌、原虫破碎液的蛋白质含量测定参考张龙翔等[的方法进行。标准蛋白质为牛血清白蛋白。
+
+瘤胃液细菌和原虫蛋白酶、谷丙转氨酶、谷草转氨酶及谷氨酸脱氢酶活力的测定参考Palmquist等[12]的方法进行。分光光度计使用紫外可见分光光度计（754PC)，石英比色皿（光程 $1 . 0 \mathrm { c m } ^ { \cdot }$ )，水浴锅为SSW型微电脑电热恒温水槽（上海博讯实业有限公司)，还原型烟酰胺腺嘌呤二核苷酸（NADH）、烟酰胺腺嘌呤二核苷酸（NAD）为 Sigma 公司产品，其余均为国产分析纯试剂。
+
+1.5瘤胃液细菌、原虫谷氨酸脱氢酶 $K _ { \mathrm { m } }$ 值的测定谷氨酸脱氢酶催化的脱氨反应为：
+
+谷氨酸 $\left. + \mathrm { N A D } \right. \alpha .$ -酮戊二酸+NADH+氨。
+
+本试验分别测定催化反应中谷氨酸脱氢酶对反应式中5种物质的 $K _ { \mathrm { m } }$ 值。
+
+瘤胃液细菌、原虫谷氨酸脱氢酶 $K _ { \mathrm { m } }$ 值测定时底物谷氨酸浓度分别为2.5、5.0、10.0、20.0、40.0 mmol/L；NAD浓度分别为0.05、0.10、0.50、1.00、2.00、4.00 mmol/L；NADH浓度分别为0.157、0.313、0.625、0.250、0.500 mmol/L； $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ d ~ } }$ -酮戊二酸浓度分别为1.25、2.50、5.00、10.00、20.00 mmol/L；氨浓度为10、20、40、80、160 mmol/L。各浓度底物的测定步骤均与测定谷氨酸脱氢酶活力相同。测定出各底物浓度的反应初速度，按Linewaver Burk法作图，将米氏方程2侧取双倒数，得方程式：
+
+$$
+1 / \nu { = } K _ { \mathrm { m } } / \nu _ { \mathrm { m a x } } \cdot 1 / [ S ] { + } 1 / \nu _ { \mathrm { m a x } } \circ
+$$
+
+式中： $\nu$ 为反应初速度 $\mathrm { ( m o l / m i n ) }$ $[ S ]$ 为底物浓度( $\mathrm { \ m o l / L } )$ ； $\nu _ { \mathrm { m a x } }$ 为最大反应速度 $\mathrm { [ m o l / m i n ] }$ 横轴截距为- $1 / K _ { \mathrm { m } }$ ，纵轴截距为 $1 / \nu _ { \mathrm { m a x } }$ ，用图解法求出 $\nu _ { \mathrm { m a x } }$ 和 $K _ { \mathrm { m } }$ 值。
+
+1.6瘤胃液细菌、原虫谷氨酸、氨含量的测定
+
+谷氨酸、氨含量采用酶法测定，参考吉尔鲍特[13]的方法进行。测定谷氨酸含量时，谷氨酸标准液的终浓度分别为0、10、25、50、100、200mmol/L，NAD的终浓度为 $2 \mathrm { m m o l } / \mathrm { L }$ 加入谷氨酸脱氢酶 $1 0 0 \mathrm { U }$ ，反应总体积为 $3 \mathrm { m L }$ ；混匀后置于 $3 7 ^ { \circ } \mathrm { C }$ 水浴 $4 0 \mathrm { m i n }$ ，取出后于紫外可见分光光度计（754PC）上测定 $3 4 0 \ \mathrm { n m }$ 处的吸光度值，建立标准曲线，调整待测样品的谷氨酸含量在标准浓度范围内进行同样操作，测定。测定氨含量时，氨标准液的终浓度分别为0、1、2、4、7、10 mmol/L，NADH的终浓度为 $4 \mathrm { m m o l } / \mathrm { L }$ ，加入谷氨酸脱氢酶 $1 0 0 \mathrm { U }$ 反应总体积为 $3 \mathrm { m L }$ ；混匀后置于 $3 7 ^ { \circ } \mathrm { C }$ 水浴 $4 0 \mathrm { m i n }$ ，取出后于紫外可见分光光度计（754PC）上测定 $3 4 0 ~ \mathrm { n m }$ 处的吸光度值，建立标准曲线，调整待测样品的氨含量在标准浓度范围内进行同样操作，测定。
+
+# 1.7 数据处理
+
+试验数据以平均值±标准差表示，数据统计分析采用 SPSS16.0 软件进行单因素方差分析，平均值的多重比较采用Duncan氏法进行，以独立样本 $t$ 检验法对细菌和原虫进行比较。2结果与分析2.1绵羊瘤胃细菌、原虫蛋白质分解代谢主要相关酶活力的动态变化从表2可见，细菌、原虫破碎液中的蛋白酶、谷丙转氨酶、谷草转氨酶、谷氨酸脱氢酶4 种酶的活力随饲喂后时间的延长均呈现"低-高-低"的动态变化规律，且除了细菌谷丙转氨酶活力外均在饲喂后 $1 . 5 \mathrm { h }$ 达到最大值，在饲喂后 $1 2 . 0 \mathrm { h }$ 活力基本恢复到饲喂前 $_ { 0 \mathrm { h } }$ 的水平。各时间点的原虫破碎液中蛋白酶活力比细菌高出近 $5 0 \%$ ，2者差异极显著（ ${ \bf \partial } P { \bf < } 0 . 0 1 { \bf \partial }$ ，而原虫破碎液中谷丙转氨酶、谷草转氨酶、谷氨酸脱氢酶3种酶的活力几乎是细菌的2倍，差异极显著 $( P { < } 0 . 0 1 )$ 。
+
+表2绵羊瘤胃细菌、原虫破碎液中蛋白质分解代谢几种相关酶的活力  
+Table 2Activities of enzymes related to protein catabolism in rumen bacteria and protozoa crushing liquid of   
+
+<html><body><table><tr><td>113</td><td colspan="7">sheep （n=3）</td></tr><tr><td>项目Items</td><td>组分 Components</td><td>0h</td><td>1.5 h</td><td>U/mg prot 3.0 h</td><td>6.0 h</td><td>9.0 h</td><td>12.0 h</td></tr><tr><td>蛋白酶</td><td>细菌 Bacteria</td><td>49.23±1.73B</td><td>68.70±3.43B</td><td>64.63±6.24B</td><td>56.75±1.94B</td><td>55.44±2.83B</td><td>50.48±1.45B</td></tr><tr><td>Protease</td><td>原虫 Protozoa</td><td>75.42±5.42A</td><td>103.91±4.60A</td><td>88.49±0.65A</td><td>84.19±8.27A</td><td>84.02±5.45A</td><td>79.03±7.66A</td></tr><tr><td>谷丙转氨酶</td><td>细菌Bacteria</td><td>17.38±1.42B</td><td>24.56±1.51B</td><td>25.08±3.70B</td><td>21.09±1.20B</td><td>20.30±2.33B</td><td>16.78±0.87B</td></tr><tr><td>GPT</td><td>原虫 Protozoa</td><td>38.76±0.40A</td><td>54.71±2.03A</td><td>41.87±0.29A</td><td>42.06±1.69A</td><td>40.91±1.12A</td><td>35.38±0.26A</td></tr><tr><td>谷草转氨酶</td><td>细菌Bacteria</td><td>11.37±2.77B</td><td>20.58±0.69B</td><td>12.21±1.20B</td><td>9.81±1.06B</td><td>7.12±0.15B</td><td>5.75±0.89B</td></tr><tr><td>GOT</td><td>原虫 Protozoa</td><td>23.86±0.37A</td><td>46.72±2.46A</td><td>23.86±0.87A</td><td>18.38±0.67A</td><td>19.72±0.82A</td><td>17.53±0.82A</td></tr><tr><td>谷氨酸脱氢酶</td><td>细菌Bacteria</td><td>907±65B</td><td>1 450±26B</td><td>1 415±36B</td><td>1 175±8B</td><td>1 158±53B</td><td>1 024±19B</td></tr><tr><td>GDH</td><td>原虫 Protozoa</td><td>2 370±147A</td><td>3 172±99A</td><td>2 851±429A</td><td>2 757±10A</td><td>2 608±20A</td><td>2 443±68A</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ )，不同大写字母表示差异极显著（ $\scriptstyle P < 0 . 0 1 .$ ，相
+
+同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+Values in the same column with different small letter superscripts mean significant difference ( $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right)$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 ) \$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5$ ).The same as below.
+
+2.2瘤胃细菌、原虫破碎液中谷氨酸、氨含量的动态变化
+
+从表3可见，细菌和原虫破碎液谷氨酸含量随饲喂时间的延长均呈现先升高后降低的动态变化规律。饲喂后 $1 . 5 \mathrm { ~ h ~ }$ ，细菌和原虫破碎液谷氨酸含量均达到最大值。饲喂前、后各时间点原虫破碎液谷氨酸含量均极显著高于细菌 $( P { < } 0 . 0 1 )$ 。细菌和原虫破碎液氨含量随饲喂时间的延长均呈现先升高后降低的动态变化规律。饲喂后 $1 . 5 \mathrm { ~ h ~ }$ ，细菌和原虫破碎液氨含量均达到最大值。在饲喂后 $1 . 5 \mathrm { h }$ ，原虫破碎液氨含量极显著高于细菌（ $_ { . } { \cal P } { < } 0 . 0 1$ )。在饲喂后6.0、9.0和 $1 2 . 0 \mathrm { h }$ ，原虫破碎液氨含量显著高于细菌 $( P { < } 0 . 0 5 )$ 。
+
+表3绵羊瘤胃细菌、原虫破碎液中谷氨酸、氨含量  
+Table 3Contents of glutamate and $\mathrm { N H } _ { 4 } { } ^ { + }$ in rumen bacteria and protozoa crushing liquid of sheep（ $\scriptstyle n = 3$ ）  
+μmol/mL   
+
+<html><body><table><tr><td>项目Items</td><td>组分 Components</td><td>0h</td><td>1.5 h</td><td>3.0h</td><td>6.0 h</td><td>9.0 h</td><td>12.0 h</td></tr><tr><td>谷氨酸</td><td>细菌Bacteria</td><td>85.94±5.76B</td><td>139.28±3.60B</td><td>103.29±3.64B</td><td>90.13±3.06B</td><td>70.91 ±3.25 B</td><td>63.81±2.00 B</td></tr><tr><td>Glutamate</td><td>原虫 Protozoa</td><td>159.02±1.85A</td><td>171.11±2.87A</td><td>147.99±5.42A</td><td>128.83±2.10A</td><td>116.97±7.50A</td><td>95.73±3.91A</td></tr><tr><td>氨NH4+</td><td>细菌Bacteria</td><td>5.46±0.10</td><td>5.88±0.06B</td><td>5.53±0.28</td><td>4.94±0.20b</td><td>4.57±0.22b</td><td>4.37±0.15b</td></tr><tr><td></td><td>原虫 Protozoa</td><td>5.88±0.28</td><td>6.53±0.41A</td><td>5.77±0.37</td><td>5.59±0.18a</td><td>5.18±0.19a</td><td>4.83±0.12a</td></tr></table></body></html>
+
+2.3绵羊瘤胃液细菌、原虫谷氨酸脱氢酶的 $K _ { \mathrm { m } }$ 值比较
+
+按Linewaver Burk 法作图，得到结果如图1、图2所示。图解计算出的 $K _ { \mathrm { m } }$ 值和 $\mathbf { v } _ { \mathrm { m a x } }$ 结果见表4。从表可见，谷氨酸脱氢酶对 $\mathrm { N A D ^ { + } }$ ：细菌 $K _ { \mathrm { m } }$ 值为 $2 . 6 0 { \times } 1 0 ^ { - 7 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $2 . 1 7 \times 1 0 ^ { - 4 }$ $\mathrm { { m o l / ( L { \cdot } m i n ) } }$ ；原虫 $K _ { \mathrm { m } }$ 值为 $1 . 4 8 { \times } 1 0 ^ { - 7 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $6 . 7 0 { \times } 1 0 ^ { - 5 } \mathrm { m o l / ( L { \cdot } m i n ) }$ ，原虫 $K _ { \mathrm { m } }$ 值较小。谷氨酸脱氢酶对谷氨酸：细菌 $K _ { \mathrm { m } }$ 值为 $8 . 4 1 { \times } 1 0 ^ { - 6 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $1 . 3 5 { \times } 1 0 ^ { - 4 } \mathrm { m o l / ( L \cdot m i n ) }$ ；原虫$K _ { \mathrm { m } }$ 值为 $4 . 9 1 { \times } 1 0 ^ { - 6 } ~ \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $1 . 7 9 { \times } 1 0 ^ { - 4 } \ \mathrm { m o l / ( L { \cdot } m i n ) }$ ，原虫 $K _ { \mathrm { m } }$ 值较小。谷氨酸脱氢酶对NADH:细菌 $K _ { \mathrm { m } }$ 值为 $3 . 8 0 { \times } 1 0 ^ { - 8 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $1 . 8 9 { \times } 1 0 ^ { - 4 } \mathrm { m o l / ( L { \cdot } m i n ) }$ ；原虫 $K _ { \mathrm { m } }$ 值为 $2 . 7 0 \times 1 0 ^ { - 8 }$ mol/L， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $2 . 7 3 { \times } 1 0 ^ { - 4 } \ \mathrm { m o l / ( L { \cdot } m i n ) }$ ，原虫 $K _ { \mathrm { m } }$ 值较小。谷氨酸脱氢酶对 $\alpha { \cdot }$ -酮戊二酸：细菌$K _ { \mathrm { m } }$ 值为 $1 . 1 6 { \times } 1 0 ^ { - 6 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $4 . 0 0 { \times } 1 0 ^ { - 4 } \ \mathrm { m o l / ( L \cdot m i n ) }$ ；原虫 $K _ { \mathrm { m } }$ 值为 $2 . 0 7 { \times } 1 0 ^ { - 6 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ （2为 $6 . 6 7 { \times } 1 0 ^ { - 4 } \mathrm { m o l / ( L { \cdot } m i n ) }$ ，细菌 $K _ { \mathrm { m } }$ 值较小。谷氨酸脱氢酶对氨：细菌 $K _ { \mathrm { m } }$ 值为 $2 . 9 7 { \times } 1 0 ^ { - 5 } \mathrm { m o l / L }$ $\mathbf { v } _ { \mathrm { m a x } }$ 为 $3 . 5 7 { \times } 1 0 ^ { - 4 } \mathrm { m o l / ( L \cdot m i n ) }$ ；原虫 $K _ { \mathrm { m } }$ 值为 $1 . 4 0 { \times } 1 0 ^ { - 5 } \mathrm { m o l / L }$ ， $\mathbf { v } _ { \mathrm { m a x } }$ 为 $3 . 3 3 { \times } 1 0 ^ { - 4 } \mathrm { m o l / ( L \cdot m i n ) }$ 原虫 $K _ { \mathrm { m } }$ 值较小。
+
+![](images/cc56c3437c0fa4d080503448f6560705143d6f3b4d8ad761bf9390946cc8c633.jpg)  
+1/NAD 浓度 1/NAD concentration/ $( 1 0 ^ { 3 } \mathrm { L } / \mu \mathrm { m o l } )$ （20
+
+![](images/093673f6af837b828dcf3cf8a5061dfc19ed50ddffb5d7bc25e30c41d4cf7b69.jpg)  
+图1瘤胃细菌破碎液谷氨酸脱氢酶体系对NAD的 $K _ { \mathrm { m } }$ 值 Fig.1 $K _ { \mathrm { m } }$ value of GDH to NAD in rumen bacteria crushing liquid   
+图2瘤胃原虫破碎液谷氨酸脱氢酶体系对NAD 的 $K _ { \mathrm { m } }$ 值  
+Fig.2 $K _ { \mathrm { m } }$ value of GDH to NAD in rumen protozoa crushing liquid
+
+表4绵羊瘤胃液细菌、原虫破碎液谷氨酸脱氢酶的 $K _ { \mathrm { m } }$ 值比较
+
+Table 4 $K _ { \mathrm { m } }$ values of GDH to NAD in rumen bacteria and protozoa crushing liquid   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">Km值 Km value/(mol/L)</td><td colspan="2">最大反应速度 Vmax/[mol/(L·min)]</td></tr><tr><td>细菌Bacteria</td><td>原虫Protozoa</td><td>细菌Bacteria</td><td>原虫 Protozoa</td></tr><tr><td>谷氨酸 Glutamate</td><td>8.41x10-6</td><td>4.91×10-6</td><td>1.35x10-4</td><td>1.79×10-4</td></tr><tr><td>烟酰胺腺嘌呤二核苷酸 NAD</td><td>2.60×10-7</td><td>1.48×10-7</td><td>2.17×10-4</td><td>6.70x10-5</td></tr><tr><td>a-酮戊二酸 a-ketoglutaric acid</td><td>1.16x10-6</td><td>2.07×10-6</td><td>4.00x10-4</td><td>6.67×10-4</td></tr><tr><td>氨 NH4+</td><td>2.97×10-5</td><td>1.40×10-5</td><td>3.57x10-4</td><td>3.33x10-4</td></tr><tr><td>还原型烟酰胺腺嘌呤二核苷酸 NADH</td><td>3.80x10-8</td><td>2.70x10-8</td><td>1.89x10-4</td><td>2.73×10-4</td></tr></table></body></html>
+
+3讨论
+
+3.1绵羊瘤胃细菌、原虫破碎液蛋白质分解代谢主要相关酶活力的动态变化
+
+本试验测定了在饲粮精粗比为30:70时，绵羊瘤胃细菌、原虫破碎液在饲喂前、后各时间点蛋白质分解主要相关酶活力的变化。从酶活力的动态变化来看，瘤胃细菌和原虫蛋白酶、谷丙转氨酶、谷草转氨酶及谷氨酸脱氢酶的活力变化均呈现先升高后降低的动态变化规律，总体上在饲喂后 $1 . 5 \mathrm { h }$ 上升至最大值，之后缓慢降低。Chen 等[4]的研究表明，绵羊瘤胃中的肽浓度随饲喂后时间的延长呈现出先升高后缓慢降低的变化规律，且在 $1 . 5 \mathrm { h }$ 达到最高。瘤胃蛋白质的快速降解在采食后 $1 . 5 \mathrm { ~ h ~ }$ 左右达到最活跃的阶段，这可能导致小肽和氨基酸的迅速积累[8]。王梦芝[15]和翟卫爽[16]的研究指出，绵羊瘤胃液氨态氮浓度在不同饲粮间均表现出有相似的变化趋势，采食后 $1 . 5 { \sim } 3 . 0 \mathrm { ~ h ~ }$ 较高，之后逐渐降低。氨态氮浓度的变化规律表明，在采食后1.5h，瘤胃中的脱氨反应达到最活跃的阶段。
+
+瘤胃液中氨态氮浓度受饲粮蛋白质含量的直接影响，也与原虫数量和种类有关。饲粮蛋白质含量高，瘤胄细菌可利用的蛋白质底物含量也增加，蛋白酶、谷丙转氨酶、谷草转氨酶及谷氨酸脱氢酶活力也随之提高，在瘤胃液中氨态氮浓度也就升高。瘤胃原虫细胞内的这4种酶活力都显著高于瘤胃细菌，去原虫能显著降低瘤胃液中氨态氮的浓度9]。本试验从蛋白酶、谷氨酸脱氢酶、谷丙转氨酶及谷草转氨酶4种酶活力的变化规律为瘤胃液中肽、氨态氮浓度的变化规律提供了酶学理论依据。
+
+# 3.2绵羊瘤胃细菌、原虫破碎液谷氨酸脱氢酶反应体系 $K _ { \mathrm { m } }$ 值比较
+
+有关瘤胃细菌、原虫细胞内谷氨酸脱氢酶反应体系从 $K _ { \mathrm { m } }$ 值尚未见有报道。Shino 等[17]研究显示，黄色短杆菌(Brevibacterium flavum)谷氨酸脱氢酶对氨的 $K _ { \mathrm { m } }$ 值为 $3 . 0 8 \mathrm { m m o l / L }$ ，对谷氨酸的 $K _ { \mathrm { m } }$ 值为 $1 0 0 . 0 0 \ \mathrm { m m o l / L }$ ，对 $\alpha$ -酮戊二酸的 $K _ { \mathrm { m } }$ 值为 $5 . 7 2 \ \mathrm { m m o l / L }$ 。Kujo 等[18]研究显示，厌氧超嗜热菌(Anaerobic hyperthermophiles)谷氨酸脱氢酶对 NAD 的 $K _ { \mathrm { m } }$ 值为0.025mmol/L，对谷氨酸 $\mathrm { K } _ { \mathrm { m } }$ 值为 $0 . 1 7 0 \mathrm { m m o l / L }$ ，对NADH的 $K _ { \mathrm { m } }$ 值为 $0 . 0 0 5 \mathrm { m m o l } / \mathrm { L }$ ，对 $\alpha \cdot$ 酮戊二酸的 $K _ { \mathrm { m } }$ 值为 $0 . 0 6 6 \ \mathrm { m m o l / L }$ ，对氨的 $K _ { \mathrm { m } }$ 值为 $9 . 7 0 0 \ \mathrm { m m o l / L }$ 。Newbold 等[19]研究表明，大肠杆菌的谷氨酸脱氢酶对氨和 $\alpha { \cdot }$ -酮戊二酸的亲和力较强， $K _ { \mathrm { m } }$ 值分别为2.33 和 $0 . 7 1 \mathrm { m m o l } / \mathrm { L }$ ，对谷氨酸的亲和力较弱， $K _ { \mathrm { m } }$ 值为 $9 8 . 0 0 \ \mathrm { m m o l / L }$ 。本试验中得到的瘤胃细菌破碎液中谷氨酸脱氢酶对反应底物的 $K _ { \mathrm { m } }$ 值的规律与前人研究的几种细菌的 $K _ { \mathrm { m } }$ 值规律相似。综合谷氨酸脱氢酶的活力及 $K _ { \mathrm { m } }$ 值的比较来看：1）瘤胃原虫谷氨酸脱氢酶活力高于细菌，且对谷氨酸、NAD+的 $K _ { \mathrm { m } }$ 值比细菌低 $42 \% \sim 4 3 \%$ ，这表明原虫细胞内谷氨酸脱氢酶与谷氨酸、NAD+的亲和力高出细菌的 $4 2 \% \sim 4 3 \%$ ，反应催化速度更高，这也是为什么原虫谷氨酸脱氢酶的活力高于细菌，且产氨速度高于细菌的重要原因之一；细菌 $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ d . ~ } }$ -酮戊二酸的 $K _ { \mathrm { m } }$ 值低于原虫，表明细菌谷氨酸脱氢酶与 $\alpha \cdot$ -酮戊二酸的亲和力更高，更有利于逆反应谷氨酸的合成，说明在细菌中逆反应的催化速度高于原虫，这也可能导致细菌产氨效率低于原虫。2）从氨的利用角度看，在细菌细胞中底物 $\mathrm { \bf { a } } .$ -酮戊二酸的 $K _ { \mathrm { m } }$ 值为 $1 . 1 6 { \times } 1 0 ^ { - 6 } \ \mathrm { m o l / L }$ ，低于氨的 $2 . 9 7 \times 1 0 ^ { - 5 }$ mol/L；原虫细胞内的趋势与细菌相似。因此，在细菌、原虫细胞内 $\mathrm { \bf { a } } .$ 酮戊二酸的供应充足与否是细菌、原虫利用氨合成重新氨基酸的主要限制步骤，细菌、原虫细胞内的 $\mathrm { ^ a }$ -酮戊二酸的含量和如何影响氨基酸的重新合成等问题需要进一步研究。
+
+饲粮精粗比为30:70 是反刍家畜一般饲养中较为普遍的饲粮结构。饲料精粗比例影响瘤胃内细菌、原虫的增殖和数量。因此，随着精粗比的增加，瘤胃内细菌、原虫数量也会随之发生变化，细胞内的酶活力也将发生变化。从谷氨酸脱氢酶反应体系的 $K _ { \mathrm { m } }$ 值来说，特定酶在特定反应条件下是酶的属性，因此，谷氨酸脱氢酶反应体系的 $K _ { \mathrm { m } }$ 值并不随底物浓度的变化（即饲粮精粗比例）而改变。
+
+3.3瘤胃原虫细胞内可能存在利用氨重新合成氨基酸的机制
+
+原虫不能利用氨而以吞噬小饲料颗粒和细菌的形式获得氮源，“瘤胃原虫是瘤胃内的净产氨者”，这是长久以来对瘤胃原虫氨代谢的一个基本认定。然而，Williams 等[20研究发现，纤毛虫可以从利用吞噬菌壁中的二氨基庚二酸合成赖氨酸，同时也认为全毛虫可利用氨重新合成氨基酸。本试验测得细菌、原虫破碎液底物氨的 $K _ { \mathrm { m } }$ 值分别为 $2 . 9 7 \times 1 0 ^ { - 5 }$ 、 $1 . 4 0 { \times } 1 0 ^ { - 5 } \mathrm { m o l / L }$ 这表明原虫的谷氨酸脱氢酶与氨的亲和力更高，更有利于原虫利用氨进行逆反应合成氨基酸，并为后续的谷丙转氨酶、谷草转氨酶提供更多的底物。从氨的利用角度看，在细菌细胞中底物 $\mathrm { ^ a }$ -酮戊二酸的 $K _ { \mathrm { m } }$ 值为 $1 . 1 6 { \times } 1 0 ^ { - 6 } ~ \mathrm { m o l / L }$ ，低于氨的 $2 . 9 7 { \times } 1 0 ^ { - 5 } ~ \mathrm { m o l / L }$ ；原虫细胞内的变化趋势与细菌相似。因此，在细菌、原虫细胞内 $\mathrm { \bf { a } }$ -酮戊二酸的供应充足与否是细菌、原虫利用氨合成重新氨基酸的主要限制步骤，细菌、原虫细胞内的 $\mathrm { ^ a }$ -酮戊二酸的含量和如何影响氨基酸的重新合成等问题需要进一步研究。
+
+4结论
+
+$\textcircled{1}$ 总体上，绵羊瘤胃细菌、原虫中蛋白酶、谷氨酸脱氢酶、谷丙转氨酶、谷草转氨酶  
+的活力在饲喂后 $1 . 5 \mathrm { h }$ 达到峰值，之后逐渐降低。$\textcircled{2}$ 绵羊瘤胃原虫中蛋白酶、谷丙转氨酶、谷草转氨酶和谷氨酸脱氢酶的活力均极显著  
+高于细菌，原虫中蛋白质分解代谢更旺盛。$\textcircled{3}$ 瘤胃原虫中不仅存在谷氨酸转氨机制，可能还存在利用氨重新合成氨基酸的机制。  
+参考文献：  
+[1]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004:35.  
+[2] RUSSELL J B,ONODERA R,HINO T.Ruminal protein fermentation:new perspectives onprevious contradictions[M]//TSUDA T,SASAKI Y,KAWASHIMA R.Physiological aspectsof digestion and metabolism in ruminants.Tokyo:Academic Press,1991:681-697.
+
+[3] JOUANY JP,USHIDA K.The role of protozoa in feed digestion[J].Asian-Australasian Journal of Animal Sciences,1999,12(1):113-128.
+
+[4] BOGUHN J,KLUTH H,RODEHUTSCORD M.Effect of total mixed ration composition on amino acid profiles of different fractions of ruminal microbes in vitro[J].Journal of Dairy Science,2006,89(5):1592-1603.
+
+[5]LENG R A.Dynamics of protozoa in the rumen of sheep[J].British Journal of Nutrition,1982,48(2):399-415.
+
+[6] WALLACE R J,ONODERA R,COTTA M A.Metabolism of nitrogen-containing compounds[M]//HOBSON P N,STEWART C S.The rumen microbial ecosystem.Netherlands:Springer,1997:283-328.
+
+[7] WALLACE R J.Ruminal microbial metabolism of peptides and amino acids:altering ruminal nitrogen metabolism to improve protein utilization[J].The Journal of Nutrition,1996,126(4):1326S-1334S.
+
+[8] WALLACE R J,BRODERICK G A,BRAMMALL M L.Protein degradation by ruminal microorganisms from sheep fed dietary supplements of urea,casein,or albumin[J].Applied and Environmental Microbiology,1987,53(4):751-753.
+
+[9] FIRKINS JL,YU Z,MORRISON M.Ruminal nitrogen metabolism:perspectives for integration of microbiology and nutrition for dairy[J].Journal of Dairy Science,2007,90(Suppl.1):E1-E16.
+
+[10] HINO T,RUSSELL J B.Effect of reducing-equivalent disposal and NADH/NAD on deamination ofamino acidsbyintact rumen microorganismsandtheir cell extracts[J].Applied and Environmental Microbiology,1985,50(6):1368-1374.
+
+[11]张龙翔,张庭芳,李令媛.生化实验方法和技术[M].2版.北京:高等教育出版社,1997:135-140.
+
+[12] PALMQUIST D L,BALDWIN R L.Enzymatic techniques for the study of pathways of carbohydrate utilization in the rumen[J].Applied and Environmental Micobiology,1966,14(1):60-69.
+
+[13]吉尔鲍特GG.酶法分析手册[M].缪辉南,陈石根,译.上海:上海科学技术出版社，1983:89-96.
+
+[14] CHEN G,RUSSELL J B,SNIFFEN C J.A procedure for measuring peptides in rumen fluid and evidence that peptide uptake can be a rate-limiting step in ruminal protein degradation[J].Journal of Dairy Science,1987,70(6):1211-1219.
+
+[15]王梦芝.山羊瘤胃原虫与细菌吞噬关系和微生物 AA 变化机制的研究[D].博士学位论文.扬州：扬州大学，2008:56-59
+
+[16] 翟卫爽.不同精粗比日粮时绵羊瘤胃液细菌、原虫内与葡萄糖代谢相关酶活力的比较研究[D].硕士学位论文.乌鲁木齐:新疆农业大学,2014:34-39.
+
+[17] SHIO I,OZAKI H.Regulation of nicotinamide adenine dinucleotide phosphate-specific glutamatedehydrogenasefromBrevibacteriumflavum,a glutamate-producing bacterium[J].Journal of Biochemistry,1970,68(5):633-647.
+
+[18] KUJOC,OHSHIMA T.Enzymologicalcharacteristicsofthehyperthermostable NAD-dependent glutamate dehydrogenase from the archaeon Pyrobaculum islandicum and effectsofdenaturantsandorganicsolvents[J].AppliedandEnvironmental Microbiology,1998,64(6):2152-2157.
+
+[19] NEWBOLD C J,MCEWAN N R,CALZA R E,et al.An NAD+-dependent glutamate dehydrogenase cloned from the ruminal ciliate protozoan,Entodinium caudatum[J].FEMS Microbiology Letters,2005,247(2):113-121.
+
+[20] WILLIAMS A G,COLEMAN G S.The rumen protozoa[M].New York:Springer,1992:135-138.
+
+Enzyme Activities Related to Protein Catabolism and $K _ { \mathrm { m } }$ Value of Glutamate Dehydrogenase System in Rumen Bacteria and Protozoa of Sheep
+
+XIONG WenxiuZHAI WeishuangTUN Nisa·MaitisaiyidiWU XinYANG Kailun\* (Xinjiang Key Laboratory of Herbivore Nutrition for Meat & Milk Production, Xinjiang Agricultural University， Urumqi 830052,China)
+
+catabolism and $K _ { \mathrm { m } }$ value of glutamate dehydrogenase (GDH) system in rumen bacteria and protozoa of sheep, to provide enzymology reference to explain protein catabolism in rumen bacteria and protozoa of sheep. Six 1-year-old healthy Chinese merino sheep (Xinjiang type) [average body weight was $( 3 2 . 0 0 { \pm } 1 . 3 6 ) \$ ）kg] were chosen. The sheep were installed with permanent fistula in rumen. Dietary forage to concentrate ratio was 30:7O. Rumen fluid was collected sequentially before feeding $( 0 \ \mathrm { h } )$ and 1.5, 3.0, 6.0, 9.0 and $1 2 . 0 \mathrm { ~ h ~ }$ after feeding, respectively，which were repeated 3 times. After centrifugation,crushing liquid of rumen bacteria and protozoa was prepared to determine the activities of enzymes and $K _ { \mathrm { m } }$ values of GDH system. The results showed as follows: 1) the activities of protease, glutamic-pyruvic transaminase (GPT), glutamic oxal(o)acetic transaminase (GOT) and GDH showed an initial increase and then a decrease as the feeding time passed by，and generally reached the maximum at $1 . 5 \mathrm { h }$ after feeding in rumen bacteria and protozoa crushing liquid of sheep; the contents of glutamate and ammonia $\mathrm { ( N H _ { 4 } ^ { + } ) }$ contents showed similar tendency. The activities of the four enzymes involved in protein metabolism in rumen protozoa crushing liquid were significantly higher than those in rumen bacteria $( P { < } 0 . 0 1 \$ ). 2）Glutamate content of rumen protozoa crushing liquid was significantly higher than that of bacteria $( P { < } 0 . 0 1 )$ ).Ammonia content of rumen protozoa crushing liquid was significantly higher than that of bacteria at 1.5, 6.0, 9.0 and $1 2 . 0 \mathrm { ~ h ~ }$ 0 $_ { \cdot } P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ .3) $K _ { \mathrm { m } }$ values of GDH to NAD in bacteria and protozoa crushing liquid were $2 . 6 0 \times 1 0 ^ { - 7 }$ and $1 . 4 8 { \times } 1 0 ^ { - 7 } \ \mathrm { m o l / L }$ ， respectively； those to glutamate in bacteria and protozoa crushing liquid were $8 . 4 1 \times 1 0 ^ { - 6 }$ and $4 . 9 1 { \times } 1 0 ^ { - 6 } \ \mathrm { m o l / L } .$ respectively; those to NADH in bacteria and protozoa crushing liquid were $3 . 8 0 \times 1 0 ^ { - 8 }$ and （204号 $2 . 7 0 { \times } 1 0 ^ { - 8 } ~ \mathrm { m o l / L }$ ，respectively； those to $\mathfrak { a }$ Oxoglutarate in bacteria and protozoa crushing liquid were $1 . 1 6 \times 1 0 ^ { - 6 }$ and $2 . 0 7 \times 1 0 ^ { - 6 }$ mol/L, respectively; those to ammoniain bacteria and protozoa crushing liquid were $2 . 9 7 \times 1 0 ^ { - 5 }$ and $1 . 4 0 { \times } 1 0 ^ { - 5 } ~ \mathrm { m o l / L }$ ， respectively. The results indicate that the activities of protease, GPT, GOT and GDH generally reach the maximum at $1 . 5 \mathrm { ~ h ~ }$ after feeding，then gradually decrease in rumen bacteria and protozoa of sheep;
+
+meanwhile,the enzyme activities in protozoa are significantly higher than those in bacteria, and protein catabolism in protozoa is more active than in bacteria； there is not only a transamination mechanism of glutamate， but also a re-using ammonia mechanism for synthesis of amino acids in rumen protozoa. Keywords: rumen; bacteria; protozoa; protein catabolism; enzyme activity; $K _ { \mathrm { m } }$ value

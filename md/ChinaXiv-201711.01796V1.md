@@ -1,0 +1,261 @@
+1 不同饵料对大鲵稚体生长性能、体组成和消化酶活性的影响
+
+2 陈　军」　王煜恒’王会聪’ 骆桂兰」汤传全²
+
+3 （1.江苏农林职业技术学院畜牧兽医系，镇江 212400；2.句容市龙泉大鲵繁殖中心，镇江  
+4 212400)
+
+5摘要：为确定大鲵稚体的最佳饵料，本试验研究了不同饵料对大鲵稚体生长性能、体组成6 和消化酶活性的影响。试验选取平均体重为（ $\cdot 1 . 0 8 { \pm } 0 . 0 1$ ） $\mathbf { g }$ 的大鲵稚体300尾，随机分成57 组，每组3个重复，每个重复20尾。5组大鲵稚体分别投喂5种不同的饵料，分别为鱼块、8 黄粉虫、水蚯蚓、卤虫和米虾，养殖时间为 $6 0 \mathrm { d }$ 。结果显示：不同饵料对大鲵稚体的存活率9 以及全鱼水分、粗灰分含量均无显著影响（ $P { > } 0 . 0 5 )$ ；米虾组的末均重、增重率和特定生长  
+10 率均为各组最高，显著高于水蚯蚓和卤虫组 $( P { < } 0 . 0 5 )$ ；黄粉虫和水蚯蚓组的肥满度显著高于  
+11 卤虫组 $( P { < } 0 . 0 5 )$ 。干物质效率表现为鱼块组和水蚯蚓组显著高于其他各组 $( P { < } 0 . 0 5 )$ ，米虾组显著高于卤虫组和黄粉虫组 $( P { < } 0 . 0 5 )$ ，卤虫组显著高于黄粉虫组 $( P { < } 0 . 0 5 )$ ；各组间大鲵稚体蛋白质效率差异显著 $( P { < } 0 . 0 5 )$ ，表现为水蚯蚓组 $>$ 米虾组 $>$ 鱼块组 $>$ 卤虫组 $>$ 黄粉虫组；鱼块组脂肪效率显著高于其他组 $( P { < } 0 . 0 5 )$ ，卤虫组和米虾组显著高于水蚯蚓组和黄粉虫组 $( P { < } 0 . 0 5 )$ ，水蚯蚓组显著高于黄粉虫组 $( P { < } 0 . 0 5 )$ 。米虾组全鱼粗蛋白质含量为各组最高，显著高于黄粉虫组和卤虫组 $( P { < } 0 . 0 5 )$ ；而全鱼粗脂肪含量最高的是黄粉虫组，显著高于其他各组 $( P { < } 0 . 0 5 )$ 。各组大鲵稚体全鱼17种氨基酸含量、氨基酸总量、必需氨基酸总量和鲜味氨基酸总量差异不显著 $( P { > } 0 . 0 5 )$ ，但水蚯蚓组、卤虫组和米虾组的必需氨基酸与非必需氨基酸的比值显著高于鱼块组和黄粉虫组 $( P { < } 0 . 0 5 )$ 。鱼块组和米虾组大鲵稚体胃肠道蛋白酶活性显著高于黄粉虫组和卤虫组 $( P { < } 0 . 0 5 )$ ；黄粉虫组胃肠道脂肪酶活性显著高于其他各组 $( P { < } 0 . 0 5 )$ ；胃肠道淀粉酶活性仅卤虫组显著低于其他各组 $( P { < } 0 . 0 5 )$ 。综上所述，米虾是大鲵稚体的最佳饵料，鱼块次之，水蚯蚓和黄粉虫最后选用。
+
+关键词：大鲵；不同饵料；生长；体组成；消化酶中图分类号：S963 文献标识码：A 文章编号：
+
+大鲵(Andrias davidiaus)俗称娃娃鱼，属两栖纲，有尾目，隐鳃鲵科，是现存个体最大的两栖动物，是3亿年前与恐龙同一时代生存并延续下来的珍稀物种，被称为"活化石"]，是我国珍稀名贵特产，目前已列入华盛顿公约(CITES)附录I中，属于国家二级野生保护动物[2]。大鲵肉质鲜嫩、味道独特，具有极高的经济价值、药用价值和食用价值[3]。从1978 年我国首次成功实现大鲵人工繁殖以来，经过近30多年的研究和推广，大鲵的人工养殖逐渐向规模化、集约化发展，成为一项新兴的养殖业，其养殖效益远超过传统种养殖业[4-5]。
+
+目前大鲵养殖主要是以鲜活鱼虾为食，尚未找到其他更好的替代饵料，“饵料贵"已成为制约大鲵养殖产业健康发展的主要瓶颈之一[6-7]。随着大鲵养殖规模的扩大，相关学者在大鲵的饵料种类和投饵率等方面进行了研究，杨焱清等[认为大鲵幼苗喜食动物性饵料，不食植物性饵料，其中投喂小型水生昆虫幼体时幼苗生长最快，搅碎的小鱼虾效果次之，搅碎的猪肉、牛肉和羊肉也是幼苗的饵料；李灿等[研究发现摇蚊幼虫和小鱼虾是1龄大鲵（ $0 . 7 \ \mathrm { g }$ 左右）的适宜饵料；欧阳力剑等[1]则认为红线虫比人工饲料更适宜作为大鲵幼体阶段的养殖饵料。然而，这些研究仅从增重率方面来确定适宜的饵料，研究不够深入和系统。类似研究在点带石斑鱼幼鱼（Epinephelus malabaricus）[1l]、匙吻鲟仔鱼（Polyodon spathala）[12]、胭脂鱼（Myxocyprinus asiaticus）[13]上则通过生长性能和消化酶活性等多方面来确定最佳饵料。本试验在前人的研究基础上，选用鱼块（raw fishblock）、黄粉虫（Tenebrio molitorL.）、水蚯蚓（tubifex）、卤虫（brine shrimp）和米虾（caridina）5种大鲵稚体天然饵料进行饲养试验，通过研究不同饵料对大鲵稚体生长性能、体组成和消化酶活性的影响，旨在探讨大鲵稚体的适宜饵料和营养需求，为大鲵人工配合饲料的研制提供一定的参考与借鉴。
+
+# 141材料与方法
+
+# 1.1 试验大鲵和试验饵料
+
+试验所用大鲵稚体来源于句容市龙泉大鲵繁殖中心人工繁殖的子二代大鲵，为该中心同一批人工孵化后投喂饲养3个月左右的大鲵苗。选取个体均一、体格健康、平均体重为（2 $( 1 . 0 8 { \pm } 0 . 0 1$ ）g的大鲵稚体300尾，随机分入15个塑料箱（ $4 0 \mathrm { c m } { \times } 2 5 \mathrm { c m } { \times } 1 5 \mathrm { c m } )$ ，每箱20尾，随机选取3个箱分为1组，共5组。
+
+5 组大鲵稚体分别投喂鱼块、黄粉虫、水蚯蚓、卤虫和米虾5种饵料，水蚯蚓和卤虫为购自市场的冰冻品，黄粉虫为购自市场的活体，投喂时根据大鲵个体大小进行剪切，米虾为该养殖场水系内自产，鱼块为养殖场饵料池养殖的小杂鱼简单加工后制成。不同饵料的营养成分见表1，氨基酸组成见表2。试验过程中保持投饲率为体重的 $3 \% { \sim } 4 \%$ ，所有饵料投喂前用 $2 \%$ 的食盐水消毒 $2 0 \mathrm { m i n }$ 。
+
+表1不同饵料的营养成分 (湿重基础)  
+Table 1Nutritional components of different diets (wet weight basis) $\%$   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">鱼块Raw fish block</td><td rowspan="2">黄粉虫 Tenebrio</td><td colspan="3">水蚯蚓</td></tr><tr><td>Tubifex molitorL.</td><td>卤虫Brine shrimp</td><td>米虾 Caridina</td></tr><tr><td>水分Moisture</td><td>76.03±0.23b</td><td>57.81±0.34d</td><td>88.47±0.12a</td><td>88.23±0.42a</td><td>73.35±0.25</td></tr><tr><td>粗蛋白质 Crude protein</td><td>15.96±0.15b</td><td>20.34±0.06a</td><td>4.62±0.12e</td><td>6.95±0.15d</td><td>12.76±0.08c</td></tr><tr><td>粗脂肪 Ether extract</td><td>1.39±0.17cd</td><td>13.34±0.05a</td><td>1.67±0.15</td><td>1.12±0.21d</td><td>2.75±0.13b</td></tr><tr><td>粗灰分 Ash</td><td>1.44±0.07b</td><td>1.04±0.18</td><td>1.52±0.26b</td><td>1.61±0.16b</td><td>3.09±0.06a</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。表3至表7同。
+
+Values in the same row with different small letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ .The same as Table3 to Table 7.
+
+<html><body><table><tr><td rowspan="3">氨基酸 Amino acids</td><td rowspan="3">鱼块 Raw fish block</td><td>黄粉虫</td><td rowspan="3">水蚯蚓</td><td rowspan="3">卤虫Brine</td><td rowspan="3">米虾 Caridina</td></tr><tr><td>Tenebrio</td></tr><tr><td>Tubifex molitor L.</td></tr><tr><td>天门冬氨酸 Asp*</td><td>1.29</td><td>1.57</td><td>0.37</td><td>shrimp 0.50</td><td></td></tr><tr><td>苏氨酸Thr</td><td></td><td></td><td></td><td></td><td>1.41</td></tr><tr><td>丝氨酸 Ser</td><td>0.59</td><td>0.81</td><td>0.17</td><td>0.25</td><td>0.54</td></tr><tr><td>谷氨酸Glu*</td><td>0.59</td><td>0.94</td><td>0.19</td><td>0.27</td><td>0.57</td></tr><tr><td>甘氨酸 Gly*</td><td>1.90</td><td>2.34</td><td>0.44</td><td>0.66</td><td>1.72</td></tr><tr><td>丙氨酸 Ala*</td><td>1.03</td><td>1.09</td><td>0.18</td><td>0.27</td><td>0.73</td></tr><tr><td></td><td>0.90</td><td>1.61</td><td>0.25</td><td>0.33</td><td>0.76</td></tr><tr><td>半胱氨酸 Cys 氨酸Val</td><td>0.12</td><td>0.13</td><td>0.04</td><td>0.06</td><td>0.15</td></tr><tr><td>蛋氨酸Met</td><td>0.62</td><td>1.21</td><td>0.20</td><td>0.28</td><td>0.62</td></tr><tr><td>异亮氨酸 Ile</td><td>0.40</td><td>0.61</td><td>0.12</td><td>0.15</td><td>0.51</td></tr><tr><td>亮氨酸Leu</td><td>0.56 1.00</td><td>0.80</td><td>0.17</td><td>0.26</td><td>0.55</td></tr><tr><td>酪氨酸Tyr</td><td>0.44</td><td>1.42</td><td>0.27</td><td>0.43</td><td>0.91</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.59</td><td>1.13</td><td>0.12</td><td>0.23</td><td>0.52</td></tr><tr><td>赖氨酸 Lys</td><td></td><td>0.81</td><td>0.22</td><td>0.28</td><td>0.64</td></tr><tr><td>组氨酸His</td><td>1.12</td><td>1.00</td><td>0.26</td><td>0.39</td><td>0.94</td></tr><tr><td>精氨酸Arg</td><td>0.28 0.87</td><td>0.57</td><td>0.10</td><td>0.11</td><td>0.37</td></tr><tr><td>脯氨酸Pro</td><td></td><td>0.98</td><td>0.23</td><td>0.37</td><td>1.03</td></tr><tr><td>总氨基酸 TAA</td><td>0.64</td><td>1.23</td><td>0.15</td><td>0.24</td><td>0.51</td></tr><tr><td>必需氨基酸 EAA</td><td>12.94</td><td>18.24</td><td>3.46</td><td>5.09</td><td>12.49</td></tr><tr><td>鲜味氨基酸 DAA</td><td>6.02 4.39</td><td>8.20 6.46</td><td>1.74 1.22</td><td>2.53 1.85</td><td>6.11 4.36</td></tr><tr><td>必需氨基酸/非必需</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氨基酸EAA/NEAA</td><td>87.08</td><td>81.64</td><td>100.85</td><td>98.70</td><td>95.76</td></tr></table></body></html>
+
+色氨酸由于在水解过程中被破坏，因此未被检出。“\*”为鲜味氨基酸。表6同。
+
+Tryptophan was destroyed during the hydrolysis process,so it had not been detected.“\*” standed for delicious amino acid.The same as Table 6.
+
+# 1.2 饲养管理
+
+养殖试验在句容市龙泉大鲵繁殖中心开展，每组用相应饵料驯化10d后开展试验。养殖用水为该中心山洞内天然泉水，用管道直接引进洞内养殖池，常年水温在（ $1 9 { \pm } 2$ ） $\mathcal { C } _ { }$ 溶解氧浓度为（ $6 . 0 { \pm } 1 . 0 ^ { ^ { \cdot } }$ ） $\mathrm { m g / L }$ ， $\mathfrak { p H }$ 为 $7 . 5 { \pm } 0 . 3 \$ ，水质符合国家淡水渔业养殖用水标准。养殖过程中控制水深 $1 . 0 { \sim } 3 . 0 \mathrm { c m }$ ，流水养殖，每天15:00投喂1次，投饵前停止流水，至次日08:00观察采食情况，清除残饵，开启流水。养殖试验周期为 $6 0 \mathrm { d }$ 。
+
+# 1.3 指标测定与方法
+
+在养殖试验的第20天和第40天对每箱大鲵进行计数和称量总重；养殖试验结束后，停饲$2 4 \mathrm { h }$ ，对每箱大鲵进行计数并称量总重，并随机选取10尾单独称重和测量体长，计算存活率(survival rate,SR)、增重率(weight gain ratio,WGR)、特定生长率(specific growth rate,SGR)和肥满度(condition factor,CF)等生长性能指标。同时，分别从每箱取6尾大鲵，其中3尾取出胃和肠道 ${ \cdot } 2 0 \ \mathrm { { ^ \circ C } }$ 冷冻保存，用于消化酶活性的测定，另外3尾用于全鱼水分、粗蛋白质、粗脂肪、粗灰分含量和氨基酸组成检测。饵料和鱼体水分、粗蛋白质和粗灰分含量的测定方法参照AOAC（1990）[14]，其中水分含量是在105℃烘干至恒重后通过失重法测定；粗蛋白质含量用凯氏定氮仪(2300 Kjeltec Analyzer Unit，FOSS TECATOR，瑞典)测定；粗灰分含量是在马福炉中以550℃燃烧后通过失重法测定。饵料和鱼体粗脂肪含量的测定参照Folch等[15]的方法。饵料和鱼体氨基酸组成采用盐酸水解法通过氨基酸分析仪(日立L-8900，日本)测定。采用福林-酚试剂法[16测定胃肠道的蛋白酶活性，采用化学比浊法测定胃肠道的脂肪酶活性，采用碘-淀粉比色法测定胃肠道的淀粉酶活性，试剂盒均购自南京建成生物工程研究所。
+
+# 1.4计算公式
+
+增重率 $( \% ) = 1 0 0 \times$ (末均重-初均重)/初均重;特定生长率 $( \% / \mathrm { d } ) ~ = 1 0 0 \times ($ ln末均重-ln初均重)/养殖天数;肥满度 $( \mathbf { g } / \mathbf { c m } ^ { 3 } ) \ = 1 0 0 \times$ 体重/体长；存活率 $( \% ) = 1 0 0 \times$ 存活稚鲵的数量/试验稚鲵的数量;干物质效率(dry matter efficiency ratio,DMER) $\%$ $_ { \mathrm { p = 1 0 0 } } \times$ 体重增加量/干物质摄入量;蛋白质效率(protein efficiency ratio, $\mathrm { P E R } , \%$ $\scriptstyle 1 = 1 0 0 \times$ 体重增加量/(饵料摄入量 $\times$ 饵料粗蛋白质含量);脂肪效率(lipid efficiency ratio,LER, $\%$ $_ { \mathsf { p } = 1 0 0 \times }$ 体重增加量/(饵料摄入量 $\times$ 饵料粗脂肪含量)。
+
+1.5数据统计与分析
+
+原始数据经 Excel 2003 初步整理后，用 SPSS18.0 对数据进行单因素方差分析(one-wayANOVA)，用Duncan 氏法多重比较检验组间差异显著性， $P { < } 0 . 0 5$ 为差异显著。数据用平均值 $\pm$ 标准差(mean±SE)形式表示。
+
+# 2结果与分析
+
+2.1 不同饵料对大鲵稚体生长性能和饵料转换效率的影响
+
+由表3可知，各组大鲵稚体存活率均没有显著差异 $( P { > } 0 . 0 5 )$ ，肉眼未发现组织病变，但养殖过程中发现黄粉虫组大鲵稚体有腹胀情况，部分稚体会漂浮于水面。米虾组大鲵稚体的末均重、末均体长、增重率和特定生长率均为各组最高，显著高于水蚯蚓组和卤虫组$( P { < } 0 . 0 5 )$ ，但与黄粉虫组和鱼块组相比差异不显著 $( P { > } 0 . 0 5 )$ 。黄粉虫组和水蚯蚓组大鲵稚体的肥满度显著高于卤虫组 $( P { < } 0 . 0 5 )$ ，但与其他2组差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+# 表3不同饵料对大鲵稚体生长性能的影响
+
+Table 3Effects of different diets on growth performance of juvenile Chinese giant
+
+<html><body><table><tr><td>项目Items</td><td>鱼块 Raw fish</td><td>黄粉虫Tenebrio</td><td>水蚯蚓 Tubifex</td><td>卤虫Brine shrimp</td><td>米虾Caridina</td></tr><tr><td>初均重 IBW/g</td><td>block 1.08±0.01</td><td>molitorL. 1.08±0.02</td><td>1.08±0.01</td><td>1.07±0.01</td><td>1.08±0.01</td></tr><tr><td>初均体长 IBL/cm</td><td>5.12±0.05</td><td>5.22±0.05</td><td>5.18±0.02</td><td>5.20±0.05</td><td>5.24±0.04</td></tr><tr><td>末均重FBW/g</td><td>4.88±0.15ab</td><td>4.81±0.19b</td><td>4.03±0.14c</td><td>3.37±0.04d</td><td>5.25±0.05a</td></tr><tr><td>末均体长 FBL/cm</td><td>8.43±0.12ab</td><td>8.20±0.15b</td><td>7.73±0.12</td><td>7.57±0.09</td><td>8.60±0.10a</td></tr><tr><td>增重率 WGR/%</td><td>353.33±15.34a</td><td>349.37±15.74a</td><td>274.55±17.36b</td><td>216.43±7.91c</td><td>386.37±8.71a</td></tr><tr><td>肥满度CF/(g/cm)</td><td>0.81±0.03ab</td><td>0.87±0.05a</td><td>0.87±0.03a</td><td>0.78±0.02b</td><td>0.83±0.03ab</td></tr><tr><td>特定生长率</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SGR/(%/d)</td><td>2.52±0.06a</td><td>2.50±0.06a</td><td>2.20±0.08b</td><td>1.92±0.04c</td><td>2.63±0.03a</td></tr><tr><td>存活率 SR/%</td><td>98.33±1.67</td><td>95.00±2.89</td><td>98.33±1.67</td><td>96.67±1.67</td><td>100.00±0.00</td></tr></table></body></html>
+
+L09 由图1可见，在养殖试验进行到第 20天时，黄粉虫组大鲵稚体的均重为各组最高（2.04L10 g)，显著高于水蚯蚓组、卤虫组和米虾组 $( P { < } 0 . 0 5 )$ ；到第 40 天时，水蚯蚓组和卤虫组大鲵L11 稚体的均重显著低于其他3组 $( P { < } 0 . 0 5 )$ ，米虾组和鱼块组的均重已超过黄粉虫组，但差异不L12 显著 $( P { > } 0 . 0 5 )$ 。
+
+![](images/4536fa8336c427f5b2ee2c2642d02100c9cb48f49d887b60143b5b1627285d70.jpg)  
+图1各养殖阶段不同饵料对大鲵稚体均重的影响
+
+Fig.1Efects of diffrent diets on average body weight of juvenile Chinese giant salamander in different culture stages
+
+由表4可知，黄粉虫组大鲵稚体的干物质摄入量显著高于其他各组 $( P { < } 0 . 0 5 )$ ，米虾组次之，显著高于其他3组 $_ { ( P < 0 . 0 5 ) }$ ，同时鱼块组显著高于水蚯蚓组和卤虫组 $( P { < } 0 . 0 5 )$ 。干物质效率表现为鱼块组和水蚯蚓组显著高于其他各组 $( P { < } 0 . 0 5 )$ ，米虾组显著高于卤虫组和黄粉虫组 $( P { < } 0 . 0 5 )$ ，卤虫组显著高于黄粉虫组 $( P { < } 0 . 0 5 )$ 。各组间大鲵稚体的蛋白质摄入量和蛋白质效率差异显著 $( P { < } 0 . 0 5 )$ ，蛋白质摄入量表现为黄粉虫组 $>$ 鱼块组 $>$ 米虾组 $>$ 卤虫组 $>$ 水蚯蚓组，蛋白质效率表现为水蚯蚓组 $>$ 米虾组 $>$ 鱼块组 $>$ 卤虫组 $>$ 黄粉虫组。脂肪摄入量以黄粉虫组最高，显著高于其他各组 $( P { < } 0 . 0 5 )$ ，其次为米虾组和水蚯蚓组，二者显著高于鱼块组和卤虫组$( P { < } 0 . 0 5 )$ 。鱼块组脂肪效率显著高于其他组 $( P { < } 0 . 0 5 )$ ，卤虫组和米虾组显著高于水蚯蚓组和黄粉虫组 $( P { < } 0 . 0 5 )$ ，水蚯蚓组显著高于黄粉虫组 $( P { < } 0 . 0 5 )$ 。
+
+128
+
+giantsalamander 组别Groups
+
+Table 4Effects of different diets on diet conversion efficiency ratio of juvenile Chinese   
+
+<html><body><table><tr><td>项目Items</td><td>鱼块Raw</td><td>黄粉虫Tenebrio</td><td>水蚯蚓 Tubifex</td><td>卤虫Brine</td><td>米虾 Caridina</td></tr><tr><td></td><td>fish block</td><td>molitor L. 5.42±0.22a</td><td>2.68±0.13d</td><td>shrimp 2.37±0.06d</td><td>3.98±0.11b</td></tr><tr><td>干物质摄入量 DMI/(g/尾)</td><td>3.36±0.19</td><td>0.69±0.01d</td><td>1.10±0.01a</td><td>0.97±0.00c</td><td>1.05±0.02b</td></tr><tr><td>干物质效率 DMER/%</td><td>1.14±0.02a</td><td>2.61±0.11a</td><td>1.09±0.05e</td><td>1.40±0.04d</td><td>1.91±0.05c</td></tr><tr><td>蛋白质摄入量 PI/(g/尾)</td><td>2.24±0.12b 0.19±0.01</td><td>1.71±0.07a</td><td>0.39±0.02b</td><td>0.22±0.01°</td><td>0.41±0.01b</td></tr><tr><td>脂肪摄入量 LI/(g/尾)</td><td>1.70±0.03c</td><td>1.43±0.03d</td><td>2.75±0.02a</td><td>1.65±0.01</td><td>2.19±0.04b</td></tr><tr><td>蛋白质效率 PER/% 脂肪效率 LER/%</td><td>19.56±0.38a</td><td>2.18±0.04d</td><td>7.60±0.08</td><td>10.21±0.06b</td><td>10.16±0.20b</td></tr></table></body></html>
+
+129 2.2 不同饵料对大鲵稚体全鱼常规营养成分和氨基酸组成的影响
+
+130 由表5可知，米虾组的全鱼粗蛋白质含量为各组最高（ $1 3 . 4 6 \%$ )，显著高于黄粉虫组和  
+131 卤虫组 $( P { < } 0 . 0 5 )$ ，但与鱼块组和水蚯蚓组差异不显著 $( P { > } 0 . 0 5 )$ ，同时鱼块组、水蚯蚓组和黄  
+132 粉虫组显著高于卤虫组 $_ { ( P < 0 . 0 5 ) }$ ；黄粉虫组的全鱼粗脂肪含量为各组最高（3.81），显著高  
+133 于其他各组 $( P { < } 0 . 0 5 )$ ；水蚯蚓组的全鱼粗脂肪含量为各组最低（3.12），显著低于鱼块组和  
+134 米虾组 $( P { < } 0 . 0 5 )$ ，但与卤虫组差异不显著 $( P { > } 0 . 0 5 )$ 。各组大鲵稚体全鱼水分和粗灰分含量差  
+135 异不显著 $( P { > } 0 . 0 5 )$ 。
+
+Table 5Effects of different diets on conventional nutritional components in whole body of juvenile Chinese giant salamander (wet weight basis) $\%$
+
+表5不同饵料对大鲵稚体全鱼常规营养成分的影响（湿重基础)  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">鱼块Raw fish block</td><td colspan="2">黄粉虫</td><td rowspan="2">卤虫 Brine</td><td rowspan="2">米虾 Caridina</td></tr><tr><td>Tenebrio</td><td>水蚯蚓 Tubifex</td></tr><tr><td>水分Moisture</td><td></td><td>molitor L.</td><td></td><td>shrimp</td><td></td></tr><tr><td></td><td>81.59±1.06 12.96±0.24ab</td><td>82.03±0.80 12.06±0.67b</td><td>82.11±0.88 12.75±0.53ab</td><td>81.93±1.33</td><td>82.68±0.51</td></tr><tr><td>粗蛋白质 Crude protein 粗脂肪 Ether extract</td><td>3.39±0.13b</td><td>3.94±0.12a</td><td>3.12±0.08</td><td>11.18±0.39c 3.26±0.09bc</td><td>13.46±0.43a 3.45±0.11b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗灰分 Ash</td><td>1.14±0.16</td><td>1.23±0.07</td><td>1.31±0.10</td><td>1.37±0.12</td><td>1.24±0.05</td></tr></table></body></html>
+
+组别 Groups
+
+各组大鲵稚体全鱼17种氨基酸含量、氨基酸总量、必需氨基酸总量和鲜味氨基酸总量差异不显著 $( P { > } 0 . 0 5 )$ ，但水蚯蚓组、卤虫组和米虾组的必需氨基酸与非必需氨基酸的比值显著高于鱼块组和黄粉虫组 $( P { < } 0 . 0 5 )$ 。
+
+表6不同饵料对大鲵稚体全鱼氨基酸组成的影响 (湿重基础)
+
+Table 6Effects of different diets on amino acid composition in whole body of juvenile
+
+组别Groups
+
+<html><body><table><tr><td rowspan="2">氨基酸 Amino acids</td><td colspan="5">黄粉虫</td></tr><tr><td>鱼块 Raw fish block</td><td>Tenebrio</td><td>水蚯蚓 Tubifex</td><td>卤虫Brine shrimp</td><td>米虾Caridina</td></tr><tr><td>天门冬氨酸 Asp*</td><td>0.99±0.03</td><td>molitor L. 0.95±0.01</td><td>0.93±0.02</td><td>0.98±0.06</td><td>0.97±0.05</td></tr><tr><td>苏氨酸 Thr</td><td>0.49±0.02</td><td>0.48±0.00</td><td>0.46±0.01</td><td>0.48±0.04</td><td>0.48±0.03</td></tr><tr><td>丝氨酸 Ser</td><td>0.53±0.01</td><td>0.54±0.00</td><td>0.52±0.01</td><td>0.54±0.04</td><td>0.53±0.03</td></tr><tr><td>谷氨酸 Glu*</td><td>1.59±0.07</td><td>1.49±0.02</td><td>1.44±0.02</td><td>1.51±0.10</td><td>1.59±0.09</td></tr><tr><td>甘氨酸 Gly*</td><td>0.90±0.01</td><td>0.85±0.02</td><td>0.77±0.04</td><td>0.79±0.07</td><td>0.78±0.04</td></tr><tr><td>丙氨酸 Ala*</td><td>0.69±0.03</td><td>0.68±0.01</td><td>0.65±0.02</td><td>0.65±0.05</td><td>0.70±0.04</td></tr><tr><td>半胱氨酸Cys</td><td>0.10±0.00</td><td>0.10±0.00</td><td>0.09±0.01</td><td>0.10±0.01</td><td>0.10±0.01</td></tr><tr><td>缬氨酸Val</td><td>0.48±0.02</td><td>0.49±0.00</td><td>0.46±0.01</td><td>0.48±0.04</td><td>0.49±0.03</td></tr><tr><td>蛋氨酸 Met</td><td>0.28±0.01</td><td>0.28±0.00</td><td>0.27±0.01</td><td>0.27±0.02</td><td>0.29±0.02</td></tr><tr><td>异亮氨酸 Ile</td><td>0.46±0.02</td><td>0.44±0.01</td><td>0.44±0.01</td><td>0.46±0.03</td><td>0.47±0.03</td></tr><tr><td>亮氨酸 Leu</td><td>0.81±0.03</td><td>0.80±0.01</td><td>0.77±0.02</td><td>0.81±0.06</td><td>0.83±0.05</td></tr><tr><td>酪氨酸Tyr</td><td>0.32±0.01</td><td>0.35±0.00</td><td>0.30±0.01</td><td>0.33±0.02</td><td>0.33±0.02</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.45±0.02</td><td>0.46±0.01</td><td>0.44±0.01</td><td>0.46±0.03</td><td>0.47±0.03</td></tr><tr><td>赖氨酸 Lys</td><td>0.82±0.03</td><td>0.75±0.01</td><td>0.78±0.01</td><td>0.82±0.07</td><td>0.86±0.04</td></tr><tr><td>组氨酸 His</td><td>0.23±0.01</td><td>0.23±0.00</td><td>0.22±0.01</td><td>0.23±0.02</td><td>0.24±0.01</td></tr><tr><td>精氨酸Arg</td><td>0.61±0.02</td><td>0.63±0.01</td><td>0.60±0.02</td><td>0.63±0.05</td><td>0.64±0.04</td></tr><tr><td>脯氨酸 Pro</td><td>0.56±0.01</td><td>0.55±0.01</td><td>0.51±0.02</td><td>0.53±0.04</td><td>0.50±0.02</td></tr><tr><td>总氨基酸 TAA</td><td>10.32±0.29</td><td>10.09±0.09</td><td>9.62±0.20</td><td>10.05±0.75</td><td>10.26±0.56</td></tr><tr><td>必需氨基酸 EAA</td><td>4.63±0.14</td><td>4.56±0.05</td><td>4.43±0.09</td><td>4.63±0.36</td><td>4.76±0.26</td></tr><tr><td>鲜味氨基酸 DAA</td><td>4.17±0.13</td><td>3.98±0.04</td><td>3.79±0.08</td><td>3.93±0.29</td><td>4.04±0.22</td></tr><tr><td>必需氨基酸/非必需</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氨基酸 EAA/NEAA</td><td>81.27±0.73b</td><td>82.64±0.60b</td><td>85.48±1.11a</td><td>85.34±0.51a</td><td>86.58±0.19a</td></tr></table></body></html>
+
+2.3 不同饵料对大鲵稚体胃肠道消化酶活性的影响
+
+由表7可知，鱼块组和米虾组大鲵稚体胃肠道蛋白酶活性显著高于黄粉虫组和卤虫组$( P { < } 0 . 0 5 )$ ，但与水蚯蚓组差异不显著 $( P { > } 0 . 0 5 )$ ，同时水蚯蚓组显著高于卤虫组 $( P { < } 0 . 0 5 )$ ；黄粉虫组大鲵稚体胃肠道脂肪酶活性显著高于其他各组 $( P { < } 0 . 0 5 )$ ，而卤虫组脂肪酶活性为各组最低（15.12），显著低于鱼块组、水蚯蚓组和米虾组 $( P { < } 0 . 0 5 )$ ；卤虫组大鲵稚体胃肠道淀粉酶活性为各组最低（0.22），显著低于鱼块组和米虾组 $( P { < } 0 . 0 5 )$ ，但与黄粉虫组和水蚯蚓组差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+# 表7不同饵料对大鲵稚体胃肠道消化酶活性的影响
+
+Table 7Efects of different diets on digestive enzyme activity in gastrointestinal tract of juvenile Chinese giant salamander
+
+项目Items组别 Groups
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">鱼块 Raw fish block</td><td colspan="2">黄粉虫</td><td rowspan="2">卤虫Brine</td><td rowspan="2">米虾 Caridina</td></tr><tr><td>Tenebrio</td><td>水蚯蚓 Tubifex</td></tr><tr><td>蛋白酶 Protease/(U/g)</td><td>7.32±0.36a</td><td>molitor L. 6.45±0.52bc</td><td>7.03±0.22ab</td><td>shrimp</td><td></td></tr><tr><td>脂肪酶 Amlase/(U/mg prot)</td><td>18.46±0.82b</td><td>23.98±1.08a</td><td>17.59±1.57b</td><td>5.51±0.74℃ 15.12±0.63</td><td>7.82±0.61a 17.89±0.74b</td></tr><tr><td></td><td>0.47±0.13a</td><td>0.35±0.16ab</td><td>0.32±0.05ab</td><td></td><td></td></tr><tr><td>淀粉酶 Lipase/(U/g prot)</td><td></td><td></td><td></td><td>0.22±0.09b</td><td>0.42±0.07a</td></tr></table></body></html>
+
+156 3讨论
+
+3.1不同饵料对大鲵稚体生长性能和饵料转换效率的影响
+
+158 鱼类仔稚鱼开口摄食后，其生长发育与饵料种类、大小（适口性）、密度（可得性）及  
+159 饵料营养等密切相关[12]。野生大鲵主要以动物性饵料为食，大鲵在幼鲵时期以小型无脊椎  
+160 动物，如水蚯蚓、水蚤、小鱼虾、水生昆虫幼虫等为饵料[2]。有学者研究认为，作为大鲵幼  
+161 体的饵料，小型水生昆虫幼体（如摇蚊幼虫）要优于小鱼虾，而猪肉、牛肉和羊肉易败坏水  
+162 质不宜做饵料[8-9]；另有研究认为水蚯蚓比人工饲料更适宜作为大鲵幼体的饵料[10]。本试验  
+163 结果显示，米虾组的末均重、增重率和特定生长率均为各组最高，显著高于水蚯蚓组和卤虫  
+164 组，但与黄粉虫组和鱼块组相比差异不显著，这与前人的研究结果基本一致，米虾和鱼块是  
+165 大鲵稚体较佳的饵料，而水蚯蚓这一目前大鲵生产上常用的饵料并未表现出最佳的生长效  
+166 果，这与李启亮等[17]在云斑尖塘幼鱼上得出的虾肉、鱼肉、杂色蛤肉和水蚯蚓4 种饵料  
+167 中水蚯蚓是最佳饵料的结论不一致，这可能与大鲵和云斑尖塘的食性不同有关，同时也与  
+168 本试验选用的水蚯蚓和卤虫水分含量较高，导致每尾大鲵摄入的干物质量显著低于其他组有  
+169 关。动物的增重受食物中蛋白质品质、氨基酸组成的影响较大，故当食物中蛋白质接近或相  
+170 当于理想蛋白质时，动物的日增重最高，蛋白质的沉积量最大[18。蛋白质效率能反映饵料  
+171 的蛋白质品质，水蚯蚓组的蛋白质效率为各组最高，而黄粉虫组的蛋白质效率则为各组最低，  
+172 由此可见，对大鲵稚体来说水蚯蚓的蛋白质品质较高，但由于摄入总量相对较低使得该组大  
+173 鲵未表现出较佳的生长性能；黄粉虫虽然蛋白质含量较高但蛋白质的品质不佳。本试验中米  
+174 虾组和鱼块组大鲵稚体表现出较佳的生长性能,这可能与这2组大鲵最后摄入的蛋白质和氨  
+175 基酸总量要显著高于其他组有关；然而，摄入干物质和蛋白质最多的黄粉虫组的生长性能却  
+176 不是最佳，这可能与黄粉虫中过高的蛋白质和脂肪含量不利于鱼类生长和蛋白质沉积有关  
+177 [19]，也使得其蛋白质效率较低。此外，在养殖过程中发现黄粉虫组大鲵的摄食旺盛，部分  
+178 大鲵甚至腹胀后浮于水面，分析认为这与黄粉虫含有高达 $6 . 4 6 \%$ 的鲜味氨基酸增强了诱食性  
+179 有关，但是大鲵稚体的消化功能发育不完全，极易导致肠道内积累过多食物，严重时甚至引
+
+起死亡，该组大鲵在第20 天时均重高于其他组也可能与肠道内积累食物有关。卤虫的营养成分高于水蚯蚓，但是本试验中发现该组大鲵的生长性能却低于水蚯蚓组，这与饵料的大小要和鱼体口裂相适应[12]有关，养殖试验前 20天，大鲵稚体对饵料的大小选择不强，所以卤虫组与水蚯蚓组的均重相近，但随着大鲵稚体的生长到第 $4 0 { \sim } 6 0$ 天，对饵料大小选择性加强，卤虫因个体小造成大鲵捕食效率降低，这使得试验结束时卤虫组摄入的干物质量最低，不能满足生长所需，张雅芝等[20认为当仔鱼摄饵能量不能满足仔鱼生长发育需要时就会导致仔鱼生长缓慢。肥满度是反映鱼类肥瘦程度和生长情况的指标，卤虫组的肥满度最低说明卤虫不是大鲵稚体最适饵料；水蚯蚓组生长性能不是最佳但肥满度却是最高，这可能与水蚯蚓组蛋白质效率、全鱼必需氨基酸与非必需氨基酸的比值高有关，Yamamto 等[21]认为在饲料的必需氨基酸缺乏时，晶体必需氨基酸的补充有助于改善体组成，在一定程度上也能提高肥满度。
+
+# 3.2不同饵料对大鲵稚体全鱼常规营养成分和氨基酸组成的影响
+
+鱼体品质与饵料的营养成分密切相关，蛋白质的含量是评价动物体营养价值的重要依据，脂肪可以改善肉质的风味和柔嫩度，肌肉中适宜的脂肪含量有利于口感的改善，但肌肉中过高的脂肪含量又不利于饮食的健康[22]。本试验中，大鲵稚体全鱼的水分和粗灰分含量各组之间没有显著差异，而米虾组大鲵稚体全鱼粗蛋白质含量最高，显著高于黄粉虫组和卤虫组，但与鱼块组和水蚯蚓组无显著差异。米虾和鱼块中粗蛋白质含量较高，大鲵稚体对其消化吸收好，所以全鱼中粗蛋白质含量也较高；而黄粉虫中粗蛋白质含量虽最高，但全鱼中粗蛋白质含量却低于米虾组、鱼块组和水蚯蚓组，这可能与过高的蛋白质对鱼体无益有关，一是增加鱼体的氨排放量，使蛋白质效率降低[23]；二是多余的蛋白质代谢可能导致部分鱼类生长速度下降[24]。饵料水蚯蚓的粗蛋白质含量最低，但该组大鲵稚体的全鱼粗蛋白质含量却高于黄粉虫组和卤虫组，这可能与水蚯蚓中必需氨基酸相对含量较高有关，陈乃松等[25]在大口黑鲈（Micropterus salmoides）上的研究表明在低蛋白质饲料中添加晶体必需氨基酸能显著增加全鱼的粗蛋白质含量，但难以全面提高至以鱼粉为主要蛋白质源饲料的营养水平。大鲵稚体的全鱼粗脂肪含量基本与各饵料中的粗脂肪含量呈正相关，黄粉虫组要显著高于其他组，这说明大鲵稚体对高脂肪饵料能吸收利用，也在一定程度上改善了肉品质，但其最佳的脂肪需求量还有待进一步研究。
+
+Wilson 等[26认为配合饲料中蛋白质的质量影响必需氨基酸在动物体肌肉中的沉积率，且水产动物体组织的必需氨基酸组成和饲料中氨基酸的含量息息相关，饲料中必需氨基酸组成平衡度越好、含量越高，则水产动物肌肉组织中必需氨基酸含量越高。本试验结果表明，鱼块组和黄粉虫组大鲵稚体的全鱼必需氨基酸与非必需氨基酸的比值要显著低于其他3组，这与饵料中必需氨基酸与非必需氨基酸的比值基本接近存在差异，但不同饵料对大鲵稚体全鱼中各氨基酸含量、氨基酸总量和必需氨基酸总量等无显著影响，这说明不同饵料的蛋白质质量能影响鱼体的氨基酸组成，其中饵料的必需氨基酸的平衡度可能比氨基酸的总量更加重要。目前有关大鲵氨基酸需求量的研究较少，本试验的结果表明米虾的氨基酸组成可能与大鯢稚体氨基酸需求比较接近。
+
+# 3.3不同饵料对大鲵稚体胃肠道消化酶活性的影响
+
+鱼类消化酶的活性与其饵料中各种营养成分的种类和含量有密切的关系。孙翰昌等[27]认为鱼消化道内的蛋白酶活性随饲料中粗蛋白质含量升高而增加，在建鲤[28]（Cyprinuscarpio var.Jian）和南亚野鲮[29]（Labeo rohjta）上也有类似的结果，而李启亮等[17]认为云斑尖塘的胃蛋白酶活性随饵料粗蛋白质含量升高而降低，所以水产动物蛋白酶的活性不仅受蛋白质含量影响，也与其他因素有关。本试验中黄粉虫组大鲵稚体胃肠道的蛋白酶活性并不是最高，这可能与黄粉虫蛋白质含量过高或者氨基酸组成不均衡有关。苏时萍等[30研究表明，同样蛋白质含量下，黄粉虫组黄颡鱼（Pseudobugrus fulvidraco）幼鱼蛋白酶活性低于鱼粉组。Ali等3认为，当鱼类的生长速度较快时，其机体的新陈代谢较活跃，体内的蛋白酶活性也相对较高，本试验结果与这一观点基本吻合，生长较快的米虾组和鱼块组大鲵稚体胃肠道蛋白酶活性较高，而卤虫组则相反。
+
+饵料中的脂肪含量会诱导脂肪酶的分泌，不同饵料饲养的瓦氏黄颡鱼稚鱼，其脂肪酶活性与饵料中脂肪含量呈正相关关系[32]。Fountoulaki等[33研究发现，提高饲料脂肪含量会增加金头鲷脂肪酶的活性。本试验中也发现大鲵稚体胃肠道脂肪酶活性与饵料中粗脂肪含量呈正相关，这也是因为机体摄入的营养素含量不同，机体要适应饲料性质而加强营养物质的吸收和物质之间的转化，提高营养素的吸收[34]。相比陆生动物，鱼类对淀粉等碳水化合物的需求和利用能力较低，尤其是消化道较短的肉食性鱼类[35]，消化吸收能力更差。王重刚等[36]研究发现，用不同饵料投喂真鲷稚鱼时，淀粉酶活性与饵料中的淀粉含量呈正相关关系，投喂配合饲料的稚鱼淀粉酶活性最高。本试验结果表明大鲵稚体的胃肠道淀粉酶活性较低且各组之间差异不大，仅卤虫组显著低于其他组。这可能与大鲵是肉食性两栖动物，对碳水化合物的利用率低有关，同时几种饵料中淀粉等碳水化合物本身含量就低，导致除卤虫组外差异不显著；卤虫组淀粉酶活性低可能与大鲵稚体摄食量不够而处于营养不良状态有关。
+
+# 3.4不同饵料在生产中应用的可行性分析
+
+在当前大鲵养殖"饵料贵"的现状下，寻求大鲵最适饵料降低养殖成本显得尤为重要。选择饵料时应对其营养价值、口径大小、饵料来源、饲料成本以及加工处理等综合考虑。本试验中选用的5种饵料都在水产动物上有一定的应用，从饲料来源来看，目前由于水蚯蚓和卤虫的培养技术成熟且规模较大，所以市场上供应较多，价格也便宜，本试验市场采购的价格在18元/kg，大批量购买价格更低。黄粉虫在畜禽上应用较多，因此其市场供应量较多且价格比水蚯蚓和卤虫更低，基本在14元/kg 左右。鱼块的来源就更为广泛，在当地市场上购买小杂鱼加工就行，各地价格不一，本试验用的鱼块为养殖场自己养殖，成本在 $3 { \sim } 5$ 元/kg本试验选用的米虾为养殖场水域内天然繁育的，几乎无成本，大批量供应时仅需要在水域中施肥投饵就能快速繁殖出来，这可能会增加少量成本；但是绝大部分大鲵养殖场无这种水域条件获得鲜活米虾，可从市场上采购冰冻淡水米虾和海水毛虾等替代，虽然供应量比前几种饵料少但仍能采购到，冰冻的毛虾价格仅在 $5 { \sim } 6$ 元/kg，其营养价值可能与本试验选用的米虾略有差异，但影响应该不大。
+
+从营养价值和饵料口径大小上考虑，在本试验条件下，虾米组的生长性能最佳，推断米虾可能更接近大鲵稚体的营养需求，由于其是养殖场自繁自育的，可选择合适规格大小进行投喂，若是市场采购的，需要根据大鲵个体规格加工成适宜大小。鱼块的营养价值在本试验中排在第2位，由于鱼块个体大于开口阶段的大鲵稚体，需要进行加工，尤其是养殖规模较大时，选用小杂鱼加工可能耗费大量人力，此时可选取价格稍高的鲢鳙鱼，剔刺切块后使用绞肉机加工，可满足生产应用。水蚯蚓营养价值要比米虾和鱼块略低，但其规格大小较适宜1龄阶段的大鲵稚体，无需再加工，这也是目前生产上大量使用的原因。黄粉虫的营养价值一般，但诱食效果很好，前期大鲵个体较小时不宜投喂，容易导致大鲵稚体消化不良，后期其他饵料不足时可做替代品。卤虫的营养价值尚可，但随着大鲵稚体生长达到 $ { 3 \mathrm { ~ g ~ } }$ 以上时其个体大小就不适宜，可在大鲵刚开始摄食时就尝试使用。
+
+因此，综合考虑多方面因素，米虾和鱼块在生产中应用具备可行性，有一定的推广意义。这2种饵料可能略降低了养殖成本，但大鲵天然饵料饲料系数高达 $4 { \sim } 5$ 的问题依然存在，养殖成本仍然很高。从鲈鱼、石斑鱼、胭脂鱼等鱼类饵料发展的规律来看，配合饲料的营养要比天然饵料更全面和均衡，营养水平、大小规格等都能根据鱼体需求进行调整，同时饲料成本要比天然饵料更为低廉，所以研制开发配合饲料是大鲵养殖产业健康快速发展的必然选择。
+
+# 4结论
+
+综上所述，在本试验条件下，从大鲵稚体的生长性能、体组成和消化酶活性等方面综合考虑，米虾是大鲵稚体阶段最佳的饵料，鱼块次之，水蚯蚓和黄粉虫最后选用。此外，米虾的营养组成对大鲵稚体配合饲料的研制有一定的参考意义。
+
+# 参考文献:
+
+[1]章克家,王小明,吴巍,等.大鲵保护生物学及其研究进展[J].生物多样性,2002,10(3):291-297.  
+[2]孙翰昌,李龙非,丁诗华,等.两种饵料对中国大鲵生长性能的影响[J].重庆文理学院学报:自然科学版,2012,31(6):53-55.  
+[3]罗庆华.中国大鲵营养成分研究进展及食品开发探讨[J].食品科学,2010,31(19):390-393.  
+[4]王煜恒,陈军,王会聪,等.中国大鲵饵料的研究现状和展望[J].饲料工业,2015,36(16):24-28.  
+[5]刘富强,任武成,谷云,等.陕西汉中市大鲵驯养繁殖和养殖情况调查[J].水产养殖,2015,36(2):32-35.  
+[6]王真.我国大鲵人工养殖现状与养殖意愿分析—一基于陕西省洋县的调查[J].黑龙江畜牧兽医,2016(3):219-222,290.  
+[7]李欣,孙增民,王明文,等.活饵与鲜饵对 $3 \sim 5$ 龄大鲵生长的影响[J].中国水产,2015(7):85-88.  
+[8]杨焱清,肖汉兵,刘鉴毅.大鲵幼苗培育初探[J].淡水渔业,1996,26(3):27-28.
+
+285 [9]李灿,殷梦光,徐小茜,等.放养密度和饵料种类对中国大鲵幼苗存活与生长的影响[J].水产  
+286 学杂志,2013,26(1):23-26.  
+287 [10] 欧阳力剑,王雷,陈冬,等.不同投喂饵料对大鲵幼体生长性能影响的研究简报[J].饲料工  
+288 业,2013,34(22):13-15.  
+289 [11] 逯尚尉,刘兆普,余燕.不同饵料对点带石斑鱼幼鱼生长、营养成分及组织消化酶活性的影  
+290 响[J].上海海洋大学学报,2010,19(5):648-653.  
+291 [12] 吴文化,张秀娟,宋聃,等.不同饵料对匙吻鲟仔鱼生长发育和消化酶活性的影响[J].动物学  
+292 杂志,2015,50(4):571-580.  
+293 [13]叶建生,赵素珍,陈小江,等.不同饵料对胭脂鱼生长和肠道消化酶活性的影响[J].水产科  
+294 学,2017,6(1):109-112.  
+295 [14] AOAC.Official methods of analysis[S].15th ed.Arlington,VA:Association of Official  
+296 Analytical Chemists,1990:684.  
+297 [15] FOLCH J,LEES M,STANLEY G H S.A simple method for the isolation and purification of  
+298 total lipides from animal tissues[J].TheJournalofBiological  
+299 Chemistry,1957,226(1):497-509.  
+300 [16]北京大学生物系生物化学教研室.生物化学实验指导[M].北京:人民教育出版  
+301 社,1979:73-74.  
+302 [17] 李启亮,苏跃朋.不同饵料对云斑尖塘幼鱼摄食生长和消化的影响[J].中国海洋大学学  
+303 报,2014,44(6):34-39.  
+304 [18] 曹经晔.鱼类饲料中纤维质的研究动向[J].淡水鱼业,1989(3):43-45  
+305 [19] LI XF,LIU WB,JIANG Y Y,et al.Effects of dietary protein and lipid levels in practical diets  
+306 on growth performance and body composition of blunt snout bream (Megalobrama  
+307 amblycephala) fingerlings[J].Aquaculture,2010,303(1/2/3/4) :65-70.  
+308 [20] 张雅芝,刘卫.不同饵料对花鲈稚鱼生长发育及存活的影响[J].集美大学学报:自然科学  
+309 版,2003,8(2):123-129.  
+310 [21] YAMAMTO T,SUGITA T,FURUITA H.Essential amino acid supplementation to fish  
+311 meal-based diets with low protein to energy ratios improves the protein utilization in juvenile  
+312 rainbow trout Oncorhynchus mykiss[J].Aquaculture,2005,246(1/2/3/4):379-391.  
+313 [22]方卫东,鲁康乐,张春晓,等.豆粕替代鱼粉对牛蛙生长、体组成、消化酶活力及肝脏生化  
+314 指标的影响[J].水产学报,2016,40(11):1742-1752.  
+315 [23] ZEITOUN I H,UILREY D E,MAGEE W T,et al.Quantifying nutrient requirements of  
+316 fish[J].Journal of the Fisheries Research Board of Canda,1976,33(1):167-172.  
+317 [24] BHARADWAJ A S,BRIGNON W R,GOULD N L,et al.Evaluation of meat and bone meal in  
+318 practical diets fed to juvenile hybrid striped bass Morone chrysops $\times$ M.saxatilis[J].Journal of  
+319 the World Aquaculture Society,2002,33(4):448-457.  
+320 [25]陈乃松,梁勤朗,肖温温,等.在低蛋白质饲料中补充必需氨基酸对大口黑鲈生长、体组成  
+321 和免疫指标的影响[J].水生生物学报,2014,38(2):262-271.  
+322 [26] WILSON R P,POE W E.Relationship of whole body and egg essential amino acid patterns to  
+323 amino acid requirement patterns in channel catfish,Ictalurus punctatus[J].Comparative  
+324 Biochemistry and Physiology Part B:Comparative Biochemistry,1985,80(2):385-388.  
+325 [27] 孙翰昌.不同饵料对鳜生长性能及消化酶活性的影响[J].中国饲料,2009(24):32-35.  
+326 [28] 李贵锋,蒋广震,刘文斌,等.不同蛋白质和能量水平对建鲤幼鱼生长性能、体组成和消化  
+327 酶活性的影响[J].上海海洋大学学报,2012,21(2):225-232.  
+328 [29] DEBNATH D,PAL A K,SAHU N P,et al.Digestive enzymes and metabolic profile of Labeo
+
+rohjta fingerlings fed diets with different crude Protein levels[J].Comparative Biochenistry and Physiology:Biochemistry and Molecular Biology,2007,146(1):107-114.   
+[30] 苏时萍,杨启超,苏雷,等.2种虫源性蛋白替代鱼粉对黄颡鱼幼鱼生长、体成分和蛋白酶活 性的影响[J].福建农林大学学报:自然科学版,2010,39(6):608-613.   
+[31] ALI M Z,JAUNCEY K.Optimal dietary carbohydrate to lipid ratio in African catfish Clarias gariepins (Burchel 1822)[J].Aquaculture International,2004,12(2):169-180.   
+[32]李芹,习晓明.不同饵料对瓦氏黄颡鱼稚鱼生长和消化酶活性的影响[J].水生态学杂 志,2009,2(1):98-102.   
+[33] FOUNTOULAKI E,ALEXIS M N,NENGAS I,et al.Effect of diet composition on nutrient digestibility and digestive enzyme levels of gilthead sea bream (Spams aurata L.)[J].Aquaculture research,2005,36(13):1243-1251.   
+[34] 徐维娜,刘文斌,沈美芳,等.饲料中不同蛋白质和脂肪水平对克氏螯虾(Procambarus clarkii)生长性能、体组成和消化酶活性的影响[J].海洋与湖沼,2011,42(4):521-529.   
+[35] SPANNHOF L,PLANTIKOW H.Studies on carbohydrate digestion in rainbow trout [J].Aquaculture,1983,30(1/2/3/4):95-108.   
+[36]王重刚,陈品健,顾勇,等.不同饵料对真鲷稚鱼消化酶活性的影响[J].海洋学 报,1998,20(4):103-106. Effects of Different Diets on Growth Performance,Body Composition and Digestive Enzyme Activities of Juvenile Chinese Giant Salamander (Andrias davidiaus) CHEN Jun1WANG Yuheng'WANG Huicong1LUO Guilan'TAN Chuanquan²   
+(1. Jiangsu Polytechnic Colege of Agriculture and Forestry, Zhenjiang 212400, China; 2. Jurong Chinese Giant Salamander Propagation Center ofLongquan, Zhenjiang 212400, China)   
+Abstract: In order to determine the optimal diet, this experiment was conducted to investigate the   
+effects of different diets on growth performance，body composition and digestive enzyme   
+activities of juvenile Chinese giant salamander (Andrias davidiaus). A total of 3Oo juvenile   
+Chinese giant salamander with the average body weight of $( 1 . 0 8 { \pm } 0 . 0 1 \$ ） g were randomly divided   
+into 5 groups with 3 replicates per group and 2O fish per replicate. Fish in the 5 groups were fed 5   
+different diets for $6 0 \mathrm { ~ d ~ }$ ， and the diets were raw fish block, Tenebrio molitor L., tubifex, brine   
+shrimp and caridina, respectively. The results showed that no significant differences in survival   
+rate (SR), and the contents of moisture and ash in whole body were found among all groups   
+（20 $( P { > } 0 . 0 5 )$ . Final body weight, weight gain rate (WGR), specific growth rate (SGR) of juveniles fed   
+caridina were significantly higher than juveniles fed tubifex and brie shrimp $( P { < } 0 . 0 5 )$ ，while   
+condition factor (CF） of juveniles fed Tenebrio molitor L.and tubifex was significantly higher   
+than juveniles fed brine shrimp $( P { < } 0 . 0 5 )$ . For dry matter efficiency ratio,the raw fish block and   
+tubifex groups was significantly higher than the other groups $( P { < } 0 . 0 5 )$ , the caridina group was   
+significantly higher than the brine shrimp and Tenebrio molitor L. groups ( $( P { < } 0 . 0 5 )$ , and the brine   
+shrimp group was significantly higher than the Tenebrio molitor L. groups $( P { < } 0 . 0 5 )$ .Protein
+
+efficiency ratio had significant difference among different groups $( P { < } 0 . 0 5 )$ ， and it presented as tubifex group>caridina group>raw fish block group>brine shrimp group>Tenebrio molitor L. group.Lipid efficiency ratio of juveniles in the raw fish block group was significantly higher than that in the other groups ( $( P { < } 0 . 0 5 )$ , that in the brine shrimp and caridina groups was significantly higher than that in the tubifex and Tenebrio molitor L.group $( P { < } 0 . 0 5 )$ ，and that in the tubifex group was significantly higher than that in the Tenebrio molitor L. group $( P { < } 0 . 0 5 )$ . The content of crude protein in whole body of juveniles in the caridina group was the highest among all groups, and it was significantly higher than that in the Tenebrio molitor L.and brine shrimp groups $( P { < } 0 . 0 5 )$ ; whereas,the content of ether extract in whole body of juveniles in the Tenebrio molitor L. group was the highest among all groups,and it was significantly higher than that in the other groups $( P { < } 0 . 0 5 )$ . No significant differences in the contents of 17 kinds of amino acids,total amino acids,essential amino acids and delicious amino acids in whole body of juveniles were found among all groups $( P { > } 0 . 0 5 )$ ,but the essential amino acids/non-essential amino acids in the tubifex, brine shrimp and caridina groups was significantly higher than that in the raw fish block and Tenebrio molitor L. groups $( P { < } 0 . 0 5 )$ . Proteases activity in gastrointestinal tract of juveniles fed raw fish and caridina was significantly higher than juveniles fed Tenebrio molitor L.and brine shrimp $( P { < } 0 . 0 5 )$ ,while lipase activity in gastrointestinal tract of juveniles fed Tenebrio molitor L. was significantly higher than juveniles fed other diets $( P { < } 0 . 0 5 )$ . The lowest amylase activity in gastrointestinal tract of juveniles was observed in the brine shrimp group,and it was significantly lower than that in the other groups ( $( P { < } 0 . 0 5 )$ . The results suggest that caridina is optimal diet for juvenile Chinese giant salamander,raw fish block comes second,and tubifex and Tenebrio molitor L.are final choices.
+
+Key words: Chinese giant salamander; different diets; growth performance; body composition; digestive enzymes

@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "工作压力对建设型和防御型建言的差异影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卢红旭1，周帆²，吴挺，严进²，邵闫4，刘艳彬1（1.浙江大学宁波理工学院商学院；2.浙江大学管理学院；3.浙江大学城市学院商学院；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.荷兰阿姆斯特丹大学商学院)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以往研究普遍从建言行为的建设性意图特征出发，探讨其关键前因、产生机制和情境因素，但却较少关注建言行为的工具性目的。基于资源保存理论，本研究构建了有调节的中介模型以探讨工作压力影响员工建设型建言和防御型建言的作用机制和边界条件。通过对某建筑企业386 名员工进行两阶段调查，结果表明：工作压力与防御型建言存在正向相关关系，与建设型建言存在负向相关关系，自我损耗在其中起中介作用；另外，领导开明性正向调节自我损耗和建设型建言的负向相关关系，并正向调节工作压力通过自我损耗影响建设型建言的间接效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词工作压力；自我损耗；建设型建言；防御型建言；领导开明性分类号B849:C93",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着环境不确定性的加剧，仅依靠管理者掌握的信息以避免组织决策失误的难度越来越大。很多管理者逐渐意识到，员工关于工作相关的意见或建议，能在持续迭代的过程中不断优化和完善组织系统，降低组织风险，提升组织效能。因而，员工建言近年来成为管理实践者关注的热点。比如阿里巴巴邀请品牌企业为提升服务质量建言献策，华为公司为敢说真话的员工升职加薪等。同时，鉴于建言的重要性，研究者对其产生机制和边界条件进行了深入探讨(Burrs,Detert,&Chiaburu,2008;Liang,Farh,& Farh,2012; Weiss,Kolbe,Grote, Spahn,& Grande,2018; Zhou & George,2001)。尤其对高工作压力组织（如医院、建筑业等）而言，由于存在较大的工作压力(Hammer et al.,2016; Kelloway,Nielsen,&Dimoff,2017)，员工建言的产生机制更加复杂，因而该情境下的建言成为近年来学者关注的热点问题(Conchie,Taylor,& Donald,20l2; Nembhard & Edmondson,2006; Tucker& Turner, 2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，建言研究仍有一些亟需解决的问题。第一，以往研究缺乏对建言行为的工具性目的探讨。研究者对建言行为的探讨目前多基于建设性意图(e.g.,Frese,Teng，& Wijnen,1999；VanDyne&LePine,1998)，忽视了将建言作为平衡资源手段的角度。在高工作压力组织中，由于需要消耗大量资源去应对工作压力，员工的自我损耗比较明显，他们有可能通过建言维持或拓展个人工作资源(Boddewyn& Brewer,1994; Ng& Feldman,2012)；第二，以往研究缺乏对工作压力和建言内容之间关系的探讨。高工作压力组织中，工作压力水平不同，员工资源保存、资源获取的不同目的所导致的建言内容也存在差异。有些个体为了规避因工作资源的进一步流失而导致个人绩效的降低，呼吁采取防御措施以避免工作环境的进一步恶化；另一些个体则为了拓展工作资源以实现更高的个人绩效，呼吁采取革新措施以促进工作环境的优化；第三，以往研究缺乏对不同内容建言行为的产生机制和边界条件的探讨。员工建言的目的不同、表达内容不同，导致建言的产生机制和边界条件也可能存在较大的差异。因此，学者们呼吁要精细化界定建言内容的产生机制、边界条件(Li,Liao,Tangirala,& Firth,2017; Maynes & Podsakoff, 2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究探讨工作压力是否影响、如何影响以及在何种条件下影响建言行为。本研究主要有三点理论贡献：首先，通过提出并检验工作压力对建言行为的差异化影响效应，本研究从工具性视角探讨了员工建言行为。高工作压力组织中，有的员工为了实现工作绩效的提升，倾向于表达如何改进工作制度和业务流程条件等想法；而有的员工担心环境改变而降低绩效，倾向于对组织的政策、程序、工作实践的改变表达反对意见。其次，通过引入资源保存理论，本研究刻画了工作压力对建言内容的影响机制。作为描述个体在不同资源条件的行为策略选择，资源保存理论较好地诠释了高工作压力组织中的个体为实现资源保存或拓展的目的而选择不同行为策略的过程(Halbesleben, 2006)，被广泛用于解释工作压力环境中的个体行为模式的差异(Brotheridge& Lee，2002；Grandey &Cropanzano,1999;Halbesleben,2006;Hobfoll,1989)。最后，契合近年来学者关于研究不同内容建言行为的产生机制及边界条件的呼呼(Li,Liao,Tangirala,&Firth,2017; Maynes&Podsakoff,2014),我们在构建工作压力通过自我损耗影响建设型、防御型建言的中介模型基础上，检验了领导开明性对工作压力效应的调节作用，以期能够为管理者激发员工建言行为提供有价值的参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建言行为，即发表与工作有关的意见或建议(VanDyne,Ang,&Botero,2003)，被引入到组织行为学领域后，便引起了学者们广泛的探讨(e.g.,Burris,Detert,& Chiaburu,2008)。当前研究普遍认为建言行为具有角色外行为的特征(e.g.,Grant& Ashford,2008)、建设性意图的特征(e.g.,LePine & VanDyne,1998; Morrison,2011)和挑战现状的特征(e.g,Detert ＆ Burrs,2007; Edmondson,1999)。随着研究不断深入，Liang,Farh 和Farh (2012)基于建言内容的不同，提出了促进型建言和抑制型建言的行为结构。然而，后来有学者认为建言并不一定是意在改善组织现状、出于利他或利组织的考虑。相反，建言很可能是个体出于自身角度的考量，具有个人目的。如 Maynes 和 Podsakoff (2014)把建言定义为“致力于影响工作环境的个体自愿行为”，并提出了建设型建言和防御型建言的概念，其中建设型建言是表达推动工作环境改变的观点；防御型建言是表达反对改变组织政策、程序和做法的观点，即使这些改变可能是有必要的。在高压力组织中，由于工作压力较大，自我损耗程度不同，个体维持、拓展资源的策略选择存在较大的差异，因而通过建言对工作环境施加影响以实现个体资源平衡的诉求较为强烈，这与建设型建言和防御型建言的概念内涵及隐含假定具有较高的一致性。因而，本研究主要围绕建设型建言和防御型建言来展开。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1工作压力和建言行为",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高工作压力组织中，员工面临着多重目标（如医院员工既要保持较高的工作效率，又要管控自我情绪；建筑工人需要高效率的完成生产任务，又要防止安全事故发生)，自我损耗较为明显(Hammeret al.,2016; Israel,Baker, Goldenhar,& Heaney,1996; Kelloway et al.,2017)，员工通过建言策略以平衡个人资源的诉求比较强烈(e.g,Seibert, Kraimer,& Crant,2001)。根据资源保存理论的观点，当工作压力较小时，由于工作资源比较充足，员工更加关注如何优化环境条件，以便其获取更多的工作资源，倾向于做出建设型建言。当工作压力较大时，由于工作资源比较匮乏，员工更加聚焦于如何规避环境的恶化，以避免工作条件恶化而导致工作资源的进一步损失，倾向于做出防御型建言。因而，低工作压力导致建设型建言，高工作压力激发防御型建言。以往研究也认为，高压力个体为了防止资源的进一步损失而做出建言行为，低压力个体为了获取更多的资源而从事建言行为(Ng＆ Feldman,2012)。因而：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hla：工作压力抑制了员工的建设型建言。  \nHlb：工作压力促进了员工的防御型建言。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2自我损耗的中介作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自我损耗可以中介工作压力对不同内容建言的效应。自我损耗是指因自我控制活动而导致的有限资源的耗费(Baumeister, Bratslavsky,Muraven,& Tice,1998)，可以刻画工作压力环境中不同个体应对策略(coping strategy)的差异。当面对繁重的工作压力时，个体为了完成相应的工作任务需要不断调整自身以匹配组织的工作要求，因而产生较多的自我损耗。研究也表明，当感知到较高的工作压力时，个体因应对不断变化的环境要求，产生较多的自我损耗(Clarkson,Hirt,Jia,& Alexander, 2010;Hagger,Wood,Stiff,& Chatzisarantis,2010)。感知到较高的工作压力，个体的自我损耗较多，其对资源损失较为敏感，避免工作现状恶化的动机比较强烈，因而做出防御型建言以规避资源的进一步损失；感知到较低的工作压力，个体的自我损耗较少，其对资源获取比较敏感，改变现有工作状况的动机比较强烈，因而从事建设型建言以便获取更多资源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H2a：自我损耗在工作压力和建设型建言之间起中介作用。  \nH2b：自我损耗在工作压力和防御型建言之间起中介作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3领导开明性的跨水平调节作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作为工作资源的一种重要形式(Diestel,& Schmidt,2012; Halbesleben, Neveu,Paustian-Underdahl,&Westman,2014)，领导开明性对高、低自我损耗程度下的员工选择建设型建言还是防御型建言有关键的影响。领导有资源分配权，其对待建言的态度作为信息线索，影响着员工资源平衡的不同行为策略选择。以往的研究表明，较高的领导开明性向员工传递出了“会认真考虑和采纳员工建议”的信号(Detert&Burris,2007;Lebel,2016;Liu et al.,2015)，意味着员工通过建言来维持或拓展资源以应对自我损耗的目的是极有可能实现的，因而增强了自我损耗对员工建言的效应；较低的领导开明性向员工释放出“员工建议不会得到重视”的讯息，意味着员工通过建言来维持或拓展资源以应对自我损耗的目的是比较难以实现的，因而抑制了自我损耗对员工建言的效应。因而：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3a：领导开明性调节了员工的自我损耗和建设型建言之间的关系。具体而言，领导开明性越高，员工的自我损耗与建设型建言之间的负向相关关系越强，反之越弱。  \nH3b：领导开明性调节了员工的自我损耗和防御型建言之间的关系。具体而言，领导开明性越高，员工的自我损耗与防御型建言之间的正向相关关系越强，反之越弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "领导开明性作为一种环境线索，能够影响高、低压力个体平衡工作资源的策略选择。具体来说，当领导开明性较高时，低压力个体认为，通过建设型建言优化现状以拓展资源的目的是可以实现的，便会做出建设型建言，如向领导建议引进新的工具设备、导入新的管理制度；而高压力个体认为，通过防御型建言避免现状恶化以保持资源的目的也是可以实现的，便会从事防御型建言，如向领导表达对引入新的工具设备、导入新的管理制度的异议甚至反对意见。相反，当领导开明性较低时，建设型建言或防御型建言都难以被领导所接受，此时员工意识到，通过建言难以实现其维持或拓展工作资源的目的，便会对工作相关的问题闭口不言。研究表明，领导开明性较高时，具有外部威胁感的员工认为，通过建言行为改变环境威胁的可能性较大，因而积极从事建言行为(Tangirala &Ramanujam,2012;Lebel,2016)。同时，研究表明领导开明性能够强化员工的建言意愿，弱化权力差异消极影响员工建言的效应(Edmondson,2003;Detert＆ Burris,2007)。因而：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H4a：领导开明性会调节员工的工作压力和建设型建言之间通过自我损耗的间接关系。具体而言，当领导开明性较高时，这一间接关系相对较强，反之较弱。  \nH4b：领导开明性会调节员工的工作压力和防御型建言之间通过自我损耗的间接关系。具体而言，当领导开明性较高时，这一间接关系相对较强，反之较弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究模型如图1所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c988501c2577e28ad89c01f33a031540578ab3533a9fc507c81418d934a0f0e5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1研究模型图",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1研究样本",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究的数据来自于江苏某房地产施工企业。建筑工人不仅要高效地完成规定的生产建设任务，同时需要防范安全事故的发生，因而普遍具有较大的工作压力(Sunindijo,& Kamardeen,2017)。而且，对于这类安全至关重要的组织(safety-critical organization)，建言对规避组织问题、提高组织效率至关重要(Tucker& Turmer,2015)，基于研究问题和研究情境的匹配，我们选取了建筑工人作为本研究的样本对象。测量中的所有量表均通过标准的翻译和回译程序译成中文(Brislin,1980)。为了消除共同方法偏差(Podsakoff, MacKenzie,Lee,& Podsakoff,2003)，我们采取了一个月滞后、领导评价员工建言行为的问卷设计模式(Ward,Ravlin,Klaas,Ployhart,& Buchan,2016)，分别在两个阶段发放调研问卷。具体而言，在第一轮数据收集中，参与调查的一线建筑工人报告了个人工作压力和自我损耗的信息，一个月后，我们在第二轮问卷中让一线建筑工人汇报了其直接领导的领导开明性，而领导则报告了所在班组员工的防御型建言行为和建设型建言行为。本研究除领导开明性采取李克特6点量表评分外，所有变量采用李克特5点量表。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "共有来自 50个团队的400名一线建筑工人及其直接主管参与了此次调查。在第一轮调研中，我们共向 50个团队发出 400 份员工问卷，一共回收问卷 391份，问卷回收率为 $9 7 . 7 \\%$ 。第二轮调研中,共回收员工问卷389份及领导问卷50份，问卷回收率为 $9 7 . 5 \\%$ 。最终成功匹配员工问卷386份，参与员工平均年龄为41.9岁，平均工作年限为15.5年，男性占比为 $91 . 7 \\%$ ，只有 $1 3 . 1 \\%$ 的员工接受过大专及以上水平的教育。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 变量测量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "工作压力：本研究采用了Motowidlo 等(1986)开发的四道题目，代表性题目如“我觉得，我的工作压力很大”。其一致性信度系数为0.86。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "自我损耗：本研究采用了Lin 和Johnson(2015)开发的五道题目，代表性题目如“工作中，我时常感到无法集中精力”。其一致性信度系数为0.90。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "建设型建言：本研究采用了Maynes 和Podsakoff (2014)开发的五道题目，代表性题目如：“就如何采用新方式进行工作，他/她提出了建议”。其一致性信度系数为0.90。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "防御型建言：本研究采用了由 Maynes 和Podsakoff(2014)开发的五道题目，代表性题目如：“他/她对革新现有工作方法提出了不赞同的意见，尽管新方法可能更有效”。其一致性信度系数为0.84。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "领导开明性：本研究采用了Detert 和 Burris (2007)的三道题项的量表，后由Lebel(2016)进行了改编，具有较好的效度，代表性题目如“我的班组长会考虑我的建议”。其一致性信度系数为0.73。由于领导开明性在本研究中是一个团队层次的构念，我们将员工评价的领导开明性聚合到团队水平。计算结果显示，平均 $\\mathrm { R w g } = 0 . 8 4 ( > 0 . 7 0 ) , \\mathrm { I C C } ( 1 ) = 0 . 2 8 ( > 0 . 1 0 )$ 和 $\\mathrm { I C C } \\left( 2 \\right) = 0 . 7 4 \\left( > 0 . 5 0 \\right)$ ，这说明该构念能够较好的聚合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3数据分析方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们首先使用Mplus 7.0 软件(Muthen& Muthen,2012)对变量进行验证性因子分析(CFA)，并检验工作压力的主效应以及自我损耗的中介效应。由于本研究的样本数据存在着嵌套效应，我们进一步使用R 软件(htp://www.r-project.org/)对中介效应的置信区间进行蒙特卡洛(Monte Carlo)模拟以增强结果的可靠性(Preacher, Zhang,& Zyphur,2011; Preacher, Zyphur,& Zhang,2010)。接着，我们使用Mplus 7.0软件检验了领导开明性的跨水平调节作用，并根据HLM估计出的参数绘制相应的调节效应图(Bryk&Raudenbush,1992)。最后，我们使用 Mplus 7.0 软件检验了跨水平的被调节的中介效应，并进一步使用R软件对该效应的置信区间进行蒙特卡洛模拟。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3数据分析和结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1验证性因子分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们采用验证性因子分析技术检验变量测量之间的区分效度。CFA的分析结果显示，本研究的测量模型拟合度较好 $( \\chi ^ { 2 } / d f = 1 . 1 6$ $\\mathrm { C F I } = 0 . 9 9$ ,TLI $= 0 . 9 9$ ,RMSEA $= 0 . 0 2$ ,SRMR $= 0 . 0 4 )$ ，且优于其他备择模型(见表1)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2da6a60188d884bafd35a02ab929a026a82577d8dd8e82f51906824882d948bc.jpg",
+        "table_caption": [
+            "表1测量模型的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>x2</td><td>df</td><td>x2/df</td><td>CFI</td><td>TLI</td><td>RMSEA</td><td>SRMR</td></tr><tr><td>五因子模型</td><td>230.11</td><td>199</td><td>1.16</td><td>0.99</td><td>0.99</td><td>0.02</td><td>0.04</td></tr><tr><td>四因子模型： 合并因变量</td><td>892.13</td><td>203</td><td>4.39</td><td>0.78</td><td>0.78</td><td>0.09</td><td>0.11</td></tr><tr><td>三因子模型： 合并因变量、调节变量</td><td>1124.53</td><td>206</td><td>5.45</td><td>0.74</td><td>0.74</td><td>0.11</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f169d60752191847744a55d17a70028048949813cf8994efbb1d3dffe457fde.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>二因子模型：合并中介变量、调节变量、因变量</td><td>1979.75</td><td>208</td><td>9.52</td><td>0.50</td><td>0.45</td><td>0.15</td><td>0.15</td></tr><tr><td>单因子模型：合并所有研究变量</td><td>2588.20</td><td>209</td><td>12.38</td><td>0.33</td><td>0.26</td><td>0.17</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 描述性统计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表2报告了本研究所有变量的均值、标准差及变量间的相关系数。结果显示，工作压力和中介变量、结果变量都显著相关，初步符合我们的理论预期。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/87a9416c54975b49fea1a9452bc0f065d2ea54fade9bea8265c7cdf900635875.jpg",
+        "table_caption": [
+            "表2变量的均值、方差和相关关系"
+        ],
+        "table_footnote": [
+            "注： $N { = } 3 8 6 .$ 一致性信度系数标注在对角线的括号里。 $^ { * } p < 0 . 0 5$ \\*\\* $p < 0 . 0 1$ (双尾检验)。"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>均值</td><td>标准差</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1.工作压力</td><td>3.88</td><td>0.77</td><td>(.86)</td><td></td><td></td><td></td><td></td></tr><tr><td>2.自我损耗</td><td>3.89</td><td>0.81</td><td>0.19**</td><td>(.90)</td><td></td><td></td><td></td></tr><tr><td>3.建设型建言</td><td>3.98</td><td>0.86</td><td>-0.12*</td><td>-0.28**</td><td>(.90)</td><td></td><td></td></tr><tr><td>4.防御型建言</td><td>3.71</td><td>0.73</td><td>0.11*</td><td>0.21**</td><td>0.08</td><td>(.84)</td><td></td></tr><tr><td>5.领导开明性</td><td>4.03</td><td>0.79</td><td>0.11*</td><td>0.02</td><td>0.01</td><td>0.04</td><td>(.73)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3假设检验 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设1a和假设1b 分别假设了工作压力对建设型建言的负向作用和对防御型建言的正向影响，同时假设2a和2b进一步提出了自我损耗在上述两个过程中的中介作用。如表3所示，工作压力对建设型建言 $( \\beta = - 0 . 1 4 , p = 0 . 0 1 5 )$ 和防御型建言 $( \\beta = 0 . 1 1$ ， $\\mathtt { p } = 0 . 0 2 9 )$ 的效应均显著。同时，工作压力通过自我损耗负向影响建设型建言的间接效应显著 $( \\beta = - 0 . 0 6 , \\mathrm { C I } = [ - 0 . 0 9 0 , - 0 . 0 2 3 ] )$ ，工作压力通过自我损耗正向影响防御型建言的间接效应显著 $( \\beta = 0 . 0 3 , \\mathrm { C I } = [ 0 . 0 1 0 , 0 . 0 6 5 ] )$ 。由于数据存在嵌套情况，我们对上述间接效应的置信区间进行蒙特卡洛模拟，基于20,000 抽样和 $9 5 \\%$ 置信区间的分析结果，工作压力对建设型建言的间接效应置信区间不含零 $\\left( \\mathrm { C I } = [ - 0 . 0 9 4 , - 0 . 0 2 2 ] \\right)$ ，工作压力对防御型建言的间接效应置信区间不含零 $\\mathrm { ( C I = [ 0 . 0 0 9 , 0 . 0 6 7 ] ) }$ 。因此，假设1和假设2得到了支持。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8dc04675a362ca7419193a0054abf368e937c8ad4856d2cf662b7258bccddb2.jpg",
+        "table_caption": [
+            "表3主效应和中介效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"2\">模型1</td><td>模型2</td><td colspan=\"2\">模型3</td></tr><tr><td>建设型建言</td><td>防御型建言</td><td>自我损耗</td><td>建设型建言</td><td>防御型建言</td></tr><tr><td>直接效应</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>工作压力</td><td>-0.14*</td><td>0.11*</td><td>0.20**</td><td>-0.08</td><td>0.07</td></tr><tr><td>自我损耗</td><td></td><td></td><td></td><td>-0.28**</td><td>0.17**</td></tr><tr><td>间接效应</td><td></td><td></td><td></td><td></td><td>间接效应的95%置信区间</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c78d35f6027153500e6db043b7cea726b99f4f23fee8da95b2282cb2cad6b64.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $N { = } 3 8 6$ $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ (双尾检验)。所报告为非标准化系数。"
+        ],
+        "table_body": "<html><body><table><tr><td>工作压力→自我损耗→建设型建言 -0.06 [-0.090,-0.023]</td></tr><tr><td>工作压力→自我损耗→防御型建言 0.03 [0.010,0.065]</td></tr><tr><td>Monte Carlo模拟 95%置信区间，20,000次抽样</td></tr><tr><td>工作压力→自我损耗→建设型建言 [-0.094,-0.022]</td></tr><tr><td>工作压力→自我损耗→防御型建言 [0.009,0.067]</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "假设3a和3b认为领导开明性会调节员工自我损耗和两种建言行为之间的关系。如表4所示，领导开明性负向调节自我损耗和建设型建言的关系 $( \\gamma = - 0 . 3 5 , \\mathrm { C I } = [ - 0 . 6 4 0 , - 0 . 0 5 9 ] )$ ，具体而言，与领导开明性处于低水平相比 $( \\gamma = - 0 . 0 2 , \\mathrm { C I } = [ - 0 . 2 0 7 , 0 . 1 7 2 ] )$ ，当领导开明性处于较高水平时，自我损耗对建设型建言的负向效应更强 $( \\gamma = - 0 . 3 7 , \\mathrm { C I } = [ - 0 . 5 7 7 , - 0 . 1 5 7 ] )$ 。但是，领导开明性处于较高水平(γ$= 0 . 2 3$ $\\mathrm { C I } = [ 0 . 0 5 9 , 0 . 4 0 1 ] )$ 与较低水平 $( \\gamma = 0 . 2 4$ ， $\\mathrm { C I } = [ 0 . 0 4 4 , 0 . 4 3 4 ] )$ 相比，自我损耗与防御型建言的正向相关关系没有显著性的差异，即领导开明性对自我损耗和防御型建言之间关系的调节作用不显著$( \\gamma = - 0 . 0 1$ ， $\\operatorname { C I } = [ - 0 . 2 7 0 , 0 . 2 5 2 ] )$ 。因而，假设3a获得了支持，而假设3b 被拒绝。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0903d386db5b5b0396421af5a400cbb202b4bebf271d26500853c90b5683497.jpg",
+        "table_caption": [
+            "表4领导开明性的跨水平调节效应分析"
+        ],
+        "table_footnote": [
+            "注： $P _ { M X - W }$ 指自我损耗和工作压力之间关系对领导开明性的回归系数； $P _ { M X }$ 指工作压力对自我损耗的回归系数."
+        ],
+        "table_body": "<html><body><table><tr><td>分组统计</td><td>效应 (PMX-w)</td><td>总效应 (PMx)</td><td>间接效应 95%置信区间</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>低领导开明性（-1标准差)</td><td>工作压力(X）→自我损耗（M)</td><td>→建设型建言（Yi) -0.02</td><td>[-0.207,0.172]</td></tr><tr><td>高领导开明性（+1标准差)</td><td>-0.36*</td><td>-0.37**</td><td>[-0.577,-0.157]</td></tr><tr><td>高低位差异</td><td></td><td>-0.35*</td><td>[-0.640,-0.059]</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>低领导开明性（-1标准差）</td><td>工作压力（X）→自我损耗（M）→防御型建言（Y2)</td><td>0.24*</td><td></td></tr><tr><td></td><td>-0.01</td><td>0.23**</td><td>[0.044,0.434]</td></tr><tr><td>高领导开明性（+1标准差） 高低位差异</td><td></td><td>-0.01</td><td>[0.059,0.401] [-0.270,0.252]</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了直观地描述领导开明性对自我损耗和员工建设型建言之间关系的调节作用，我们绘出了调节效应图，如图2。与领导开明性处于较低水平相比，当领导开明性处于较高水平时，自我损耗与建设型建言的负向关系更强。这说明相对于领导开明性处于低水平，当领导开明性水平较高时，自我损耗较少的员工拓展资源的愿望较为强烈，表现出更多的建设型建言。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8d503accb2af291cf3062a65c5107702ccee55cf9d13948e70cf6c6fb10701a.jpg",
+        "img_caption": [
+            "图2领导开明性的跨水平调节效应图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "假设4提出工作压力通过自我损耗对建言行为（建设型建言和防御型建言）的间接效应在领导开明性处于高、低水平之间存在着显著差异。如表5，分析结果表明：虽然在领导开明性处于低位时，“工作压力 $$ 自我损耗 $$ 建设型建言”的间接效应并不显著 $( \\gamma = - 0 . 0 1$ $\\mathrm { C I } = [ - 0 . 0 6 3 , 0 . 0 5 2 ] )$ ；但领导开明性处于较高水平时，工作压力对建设型建言的间接效应显著 $( \\gamma = - 0 . 1 1$ ， $\\mathrm { C I } \\ = \\ [ - 0 . 2 0 7$ 0.172])，并且领导开明性处于较高水平和较低水平相比，工作压力对建设型建言的间接效应存在着显著差异 $( \\gamma = - 0 . 1 0 , \\operatorname { C I } = [ - 0 . 2 0 1 , - 0 . 0 1 1 ] )$ 。同时我们发现，虽然在领导开明性处于较低水平时，“工作压力 $$ 自我损耗 $$ 防御型建言”的间接效应显著！ $( \\gamma = 0 . 0 7$ $\\mathrm { C I } = [ 0 . 0 0 4 , 0 . 1 4 1 ] )$ ；领导开明性处于较高水平时，工作压力对防御型建言的间接效应仍显著 $( \\gamma = 0 . 0 7$ ， $\\mathrm { C I } = [ 0 . 0 0 6 , 0 . 1 3 4 ] )$ ，但领导开明性处于较高水平和较低水平相比，工作压力对防御型建言的间接效应没有显著变化 $( \\gamma = - 0 . 0 0$ ， $\\mathrm { C I } =$ [-0.082,0.076])。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f507ac2aaad82d26fc65875e9a7add100acd4b3e5ab5e29ffcf459b52284d515.jpg",
+        "table_caption": [
+            "表5领导开明性的跨水平调节-中介效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">因变量</td><td rowspan=\"2\"></td><td colspan=\"3\">阶段</td><td>间接效应</td></tr><tr><td>调节变量 效应1</td><td>效应2</td><td>间接效应</td><td>95%置信区间，</td></tr><tr><td rowspan=\"3\">建设型建言</td><td>领导开明性</td><td>(PMx)</td><td>(PYM)</td><td>(PMX *PYM)</td><td></td></tr><tr><td>低位 (-1标准差)</td><td>0.30**</td><td>-0.02</td><td>-0.01</td><td>[-0.063,0.052]</td></tr><tr><td>高位 (+1 标准差)</td><td></td><td>-0.37**</td><td>-0.11**</td><td>[-0.181,-0.041]</td></tr><tr><td></td><td>高低位差异</td><td></td><td>-0.35*</td><td>-0.10*</td><td>[-0.201,-0.011]</td></tr><tr><td>防御型建言</td><td>低位 (-1 标准差)</td><td>0.30**</td><td>0.24*</td><td>0.07*</td><td>[0.004,0.141]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/65e995c9bfec1b9a13412333c7e5280a8ee2d5003dc70a9a27343fef9117583b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $P _ { M X }$ 指工作压力对自我损耗的效应； $P _ { Y M }$ 指建设型建言/防御型建言对自我损耗的效应； $P _ { M X ^ { * } P Y M }$ 指工作压力对建设型/防御型建言行为的间接效应。"
+        ],
+        "table_body": "<html><body><table><tr><td>高位 (+1标准差)</td><td>0.23**</td><td>0.07*</td><td>[0.006,0.134]</td></tr><tr><td>高低位差异</td><td>-0.01</td><td>-0.00</td><td>[-0.082,0.076]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "接着我们对上述被调节的中介效应的置信区间作进一步蒙特卡洛模拟，结果显示：当团队领导开明性处于较低水平时（减1个标准差），工作压力对建设型建言的间接效应不显著 $\\mathrm { ( C I ~ = ~ }$ [-.057,.096])；而当团队领导开明性处于较高水平时（加1个标准差），工作压力对建设型建言的间接效应显著 $\\operatorname { ( C I = [ - . 2 3 2 , - . 0 5 2 ] ) }$ ；而且，领导开明性处于高位和低位相比，工作压力对建设型建言的间接效应存在着显著差异 $\\operatorname { ( C I } = [ - . 3 0 6 , - . 0 2 4 ] )$ 。采取同样的方法，我们发现，“工作压力 $$ 自我损耗→防御型建言”的间接效应在领导开明性处于低位时 $\\left( \\mathrm { C I } = [ . 0 0 4 , . 1 5 6 ] \\right)$ 和高位时 $( \\mathrm { C I } = [ . 0 0 0 , . 1 4 8 ] )$ 均显著，但领导开明性处于较高水平和较低水平相比，工作压力对防御型建言的间接效应并没有显著变化 $( \\mathbf { C I } = [ - . 1 1 9 , . 1 1 4 ] )$ 。因而，假设4a得到了支持，而假设4b被拒绝。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1结果讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过对某建筑企业两阶段调查，我们发现：（1）工作压力对防御型建言具有促进作用，工作压力对建设型建言具有抑制作用；（2）自我损耗分别在上述关系中起完全中介作用；（3）领导开明性正向调节了自我损耗和建设型建言之间的关系，但对自我损耗和防御型建言之间的关系没有明显影响；（4）“工作压力 $$ 自我损耗→建设型建言”的间接效应受到了领导开明性的正向调节，但领导开明性对“工作压力 $$ 自我损耗 $$ 防御型建言”的间接效应并没有显著影响。本研究的理论贡献与实践启示主要有以下三点：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第一，将资源保存理论引入到建言行为的研究中，本研究揭示了个体建言行为的工具性意图。以往的理论研究，无论基于建言行为的角色外行为特征(如社会交换理论视角，梁建，2014；组织认同理论视角,e.g.，于静静，赵曙明,2013；心理所有权模型视角,Avey,Wernsing,&Palanski,2012；周浩，龙立荣,2012)，挑战现状特征(如社会学习理论视角,Brown,Trevino,& Harson,2005；计划行为理论视角,Liang et al.,2012;Ng,Van Dyne,&Ang,2019；李锐，凌文轻，柳士顺,2009；魏昕，张志学,2010；信息加工理论视角，Liu et al.,2015；权力的促进-抑制理论视角,Morrison,See,&Pan,2015),还是建设性特征 (如自我效能模型视角，段锦云，魏秋江,2012；王永跃，段锦云,2015)，均把建言行为视为具有建设性意图的行为，并未对个体建言的工具性目的进行实证探讨。尽管也有研究认为建言行为能够促进个人地位的提升(McClean，Martin，Emich，& Woodruff,2018；Weiss,& Morrison,2019)，可能被员工作为获取个人利益的手段(Boddewyn& Brewer,1994; Farrell& Petersen,1982; Ng& Feldman,2012)，但是相关的实证探讨非常缺乏。在本研究中，基于资源保存理论，本研究引入了工作压力影响员工建言行为的中介变量一一自我损耗，并用该变量解释了员工建言是个体平衡自我资源和达到个人目的的工具性行为，深化了建言行为产生机制的研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二，本研究基于以往学者的观点，引入了建设型建言和防御型建言的概念，并进一步探索了员工的工作压力对这两种建言行为的差异化影响。有研究者认为，作为工作压力的一种来源(e.g.,Steptoe,&Appels,1989)，控制感与建言行为呈U型关系。具体而言，当工作控制感较低时，员工会表达工作相关的想法，以防止现状恶化；当工作控制感较高时，员工也会表达建议，以提升当前的绩效(Tangirala & Ramanujam, 2008); $\\mathrm { N g }$ 等也提出，压力因素对员工建言行为可能既有促进作用，也有抑制作用(Ng&Feldman,2012)。本研究认为，不同工作压力下，员工的自我损耗程度不同，其建言的目的不同，建言的内容也必然存在较大的差异。虽然近些年学者呼吁要基于建言的内容去探索不同建言行为的产生机制，但是这方面的实证研究还相当缺乏(Li et al.,2017;Morrison,2014)。本研究发现工作压力会促进防御型建言，但同时也会抑制建设型建言。本研究的结论，不仅在一定程度上解释了工作压力和建言行为之间的 U 型关系在先前研究中未能被验证的原因(Ng& Feldman,2012)，而且丰富了基于内容去探索建言行为产生机制的理论研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，本研究提出并检验了领导开明性的跨水平调节作用。以往研究表明，领导开明性能够增强员工的心理安全感，激发员工的建言行为(Detert& Burris,2007)。本研究的结论在一定程度上拓展了这一观点。本研究发现，领导开明性能够增强员工的自我损耗与建设型建言之间的负向相关关系以及“工作压力 $$ 自我损耗 $$ 建设型建言”的间接效应。但是，员工的工作压力对防御型建言的影响并不受领导开明性的影响。我们认为这可能与高工作压力组织情境有关，我们推测，此情境中的员工将防御型建言当作缓解其心理压力的一种重要方式，导致领导开明性的作用被抑制了。并且以往的研究也表明,工作压力较大时，员工会表达意见以降低心理压力(Iacovides,Fountoulakis,Kaprinis,& Kaprinis,2003;Wiliams et al.,2001)。因此，本研究发现领导开明性对员工建言的情境作用是一个比较复杂的心理过程，拓展了领导开明性对员工建言形成机制的情境研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2研究局限及未来研究展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同时，本研究还存在以下不足。首先，我们假设领导开明性能够显著增强自我损耗与防御型建言之间的关系，并增强工作压力对防御型建言的间接效应，但是这两个假设都没有得到支持，我们推测高压力个体从事防御型建言可能有助于他们缓解心理压力。如涉危行业中，员工需要投入较多的工作精力，以实现提高生产效率和保持工作场所的安全可靠性的双重目标；医疗行业中，员工防范工作失误的同时，还要进行自我情绪管理等，普遍面临着较高的心理压力却难以排解的问题。在这种情况下，高压力个体会通过表达自我意见以减少心理压力，并不在意其主管是否会采纳他们的意见(Iacovides et al.,2003;Williams et al.,2001)。然而，在本研究中，我们并没有对员工通过建言缓解心理压力这一可能的目的进行控制。未来的研究可以在控制这一目的的基础上进行更为深入的探讨，如在测量时让员工报告他们通过建言降低自我心理压力的目的水平。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其次，我们认为高工作压力组织中，工作压力大小存在差异，导致自我损耗高低程度不同，促使员工采取不同的策略方式（防御型建言或建设型建言）应对自我损耗，但是由于问卷研究的局限性，本研究并不能证明这种因果关系。依据资源保存理论，我们认为自我损耗不同，个体对奖励和威胁的敏感程度也存在较大的差异。如工作资源相对充足时，个体对潜在的资源获取更为敏感，拓展工作资源的愿望和目的比较强烈；而工作资源相对缺乏时，个体对潜在的资源损失更为敏感，保存和维持资源的动机和诉求比较强烈。但是本研究并没有采用实验或准实验的方法验证这一解释机制。未来的研究可以采用实验或准实验研究的方法，继续探讨这一解释机制，如采用心理学关于内隐动机的测量方法，在实验中测量不同个体建言动机的差异，然后检验压力水平是否通过不同的建言动机影响个体不同内容建言行为的选择。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "最后，我们认为领导开明性作为一种情境因素，对员工建言行为的产生具有重要意义，但领导影响员工建言的作用机制较多，未来的研究可以探讨领导影响员工建言行为的其他可能机制。以往的研究也表明，感知到较低的人际风险时，员工会表现出建言行为(Detert&Burris,2007;Edmondson,1999; Liu et al.,2015)；同时有研究表明，领导和员工之间的积极关系(Smidts,Pruyn,& VanRiel,2001)和信任也能够提升员工的心理安全感，激发员工的建言行为，因此未来的研究，可以验证不同情境因素对“工作压力 $$ 自我损耗 $$ 建言行为”的调节效应，如领导-成员交换关系、员工对领导的信任感等，进而丰富当前的建言行为研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明：（1）工作压力对建设型建言具有显著的抑制作用，对防御型建言具有显著的促进作用；（2）自我损耗在工作压力与建设型建言、防御型建言之间具有完全中介效应；（3）领导开明性对自我损耗与建设型建言的关系，以及“工作压力 $$ 自我损耗 $$ 建设型建言”的中介效应具有调节作用。当领导开明性越高时，上述关系及效应越强。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAvey, J. B., Wernsing,T. S.,& Palanski, M. E.(2012). Exploring the process of ethical leadership: The mediating role of employee voice and psychological ownership. Journal of Business Ethics,107(1), 21-34.   \nBaumeister,R.F., Bratslavsky,E., Muraven, M.,& Tice,D.M. (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74(5),1252-1265.   \nBoddewyn, J.,& Brewer, T. (1994). International-business political behavior: New theoretical directions. Academy of Management Review, 19(1), 119-143.   \nBrislin,R.W.(1980). Translation and content analysis of oral and writen material. In Handbook of cross-cultural psychology (pp. 349-444). Boston, MA: Allyn and Bacon.   \nBrotheridge, C. M.,& Lee, R. T. (2002). Testing a conservation of resources model of the dynamics of emotional labor. Journal of occupational health psychology, 7(1), 57.   \nBrown,M. E., Trevino,L. K.,& Harrison, D. A. (2Oo5). Ethical leadership: A social learning perspective for construct development and testing. Organizational Behavior and Human Decision Processes, 97(2), 117-134.   \nBryk,A.S.,& Raudenbush,S.(1992). Hierarchical linear models: Applications and data analysis methods. Newbury Park, CA: Sage.   \nBurris,E.R., Detert, J.R.,& Chiaburu,D.S.(2008). Quitting before leaving: The mediating effects of psychological attachment and detachment on voice. Journal of Applied Psychology, 93(4), 912-922.   \nClarkson, J.J.,Hirt,E.R., Jia,L.,& Alexander, M.B. (201O). When perception is more than reality: The effects of perceived versus actual resource depletion on self-regulatory behavior. Journal of Personality and Social Psychology, 98(1), 29-46.   \nConchie, S. M.， Taylor,P. J.，& Donald,I. J. (2012). Promoting safety voice with safety-specific transformational leadership: The mediating role of two dimensions of trust. Journal of Occupational Health Psychology,17(1),105-115.   \nDetert,J. R.,& Burris,E. R. (2007). Leadership Behavior and Employee Voice: Is the Door Really Open? Academy of Management Journal, 50(4), 869-884.   \nDiestel, S., & Schmidt, K. 2012. Lagged mediator effects of self-control demands on psychological strain and absenteeism. Journal of Occupational and Organizational Psychology, 85(4), 556-578.   \nDuan, J.-Y.,& Wei, Q.-J. (2012). The Structure of Voice Efficacy and its Role in the Formation Mechanism of Employee Voice Behavior. Acta Psychologica Sinica, 44(7), 972-985.   \n[段锦云，& 魏秋江.(2012)．建言效能感结构及其在员工建言行为发生中的作用．心理学报,44(7), 972-985.]   \nEdmondson， A. (1999). Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly,44(2),350-383.   \nEdmondson, A. C. (2003). Speaking up in the operating room: How team leaders promote learning in interdisciplinary action teams. Journal of management studies, 40(6), 1419-1452.   \nFarrell,D.,& Petersen,J. C.(1982). Patterns of Political Behavior in Organizations. The Academy of Management Review, 7(3), 403-412.   \nFrese,M., Teng,E.,& Wijnen, C. J. D. (1999). Helping to improve suggestion systems: predictors of making suggestions in companies. Journal of Organizational Behavior, 20(7),1139-1155.   \nGrandey, A. A.,& Cropanzano, R. (1999). The conservation of resources model applied to work-family conflict and strain. Journal of vocational behavior, 54(2), 350-370.   \nGrant, A. M.,& Ashford, S.J. (2008). The dynamics of proactivity at work. Research in Organizational Behavior,28(4),3-34.   \nHagger, M. S., Wood, C.,Stiff, C.,& Chatzisarantis,N.L.D. (2010).Ego depletion and the strength model of self-control: A meta-analysis. Psychological Bulletin, 136(4), 495-525.   \nHalbesleben, J.R. B.(20o6). Sources of social support and burnout: A meta-analytic test of the conservation of resources model. Journal of Applied Psychology, 91(5), 1134-1145.   \nHalbesleben,J.R.B., Neveu, J.P.,Paustian-Underdahl, S.C.,& Westman, M. (2014). Geting to the “cor\": understanding the role of resources in conservation of resources theory. Journal of Management, 40(5), pags. 1334-1364.   \nHammer,L.B.,Johnson,R.C.,Crain,T.L.,Bodner,T.,Kossek,E.E.,Davis,K.D.,Berkman,L. (2016). Intervention efects on safety compliance and citizenship behaviors: Evidence from the work, family, and health study. Journal of Applied Psychology,101(2),190-208.   \nHobfoll, S.E. (1989). Conservation of resources: A new atempt at conceptualizing stress. American Psychologist, 44(3), 513-524.   \nIacovides,A., Fountoulakis, K., Kaprinis, S.,& Kaprinis, G. (20o3). The relationship between job stress, burnout and clinical depression. Journal of Affective Disorders, 75(3),209-221.   \nIsrael,B.A., Baker, E. A.， Goldenhar, L. M.,& Heaney, C. A. (1996). Occupational stress,safety,and health: conceptual framework and principles for effective prevention interventions. Journal of occupational health psychology, 1(3): 261.   \nKelloway, E. K., Nielsen, K.,& Dimoff, J. K. (2017). Leading to Occupational Health and Safety: How Leadership Behaviours Impact Organizational Safety and Well-Being. Hoboken, NJ: John Wiley & Sons.   \nLebel,R. D. (2016). Overcoming the fear factor: How perceptions of supervisor openness lead employees to speak up when fearing external threat. Organizational Behavior and Human Decision Processes, 135(1), 10-21.   \nLePine,J. A.，& Van Dyne,L. (1998). Predicting voice behavior in work groups. Journal of Applied Psychol0gy, 83(6), 853-868.   \nLi,A. N., Liao, H.， Tangirala, S.，& Firth, B. M. (2017). The content of the message matters: The differential effects of promotive and prohibitive team voice on team productivity and safety performance gains. Journal of Applied Psychology,102(8),1259-1270.   \nLi, R., Ling, W.,& Liu, S. (2009). The Mechanisms of How Abusive Supervision Impacts on Subordinates' Voice Behavior. Acta Psychologica Sinica, 41(12), 1189-1202.   \n[李锐，凌文轻，柳士顺.(2009)．上司不当督导对下属建言行为的影响及其作用机制．心理学报, 41(12), 1189-1202.]   \nLiang J. (2014). Ethical Leadership and Employee Voice: Examining a Moderated-Mediation Model. Acta Psychologica Sinica, 46(2), 252-264.   \n[梁建.(2014).道德领导与员工建言：一个调节-中介模型的构建与检验．心理学报,46(2),252-264.]   \nLiang,J.,Farh, C.I. C.,& Farh, J.-L. (2012). Psychological Antecedents of Promotive and Prohibitive Voice: A Two-Wave Examination. Academy of Management Journal, 55(1), 71-92.   \nLin, S.-H. (Joanna),& Johnson,R. E. (2015). A suggestion to improve a day keeps your depletion away: Examining promotive and prohibitive voice behaviors within a regulatory focus and ego depletion framework. Journal of Applied Psychology, 100(5), 1381-1397.   \nLiu, W.,Tangirala, S.,Lam, W., Chen, Z, Jia, R.T.,& Huang, X. (2015). How and when peers' positive mood influences employees' voice. Journal of Applied Psychology,100(3), 976-989.   \nMaynes, T. D.，& Podsakoff, P. M. (2014). Speaking more broadly: An examination of the nature, antecedents, and consequences of an expanded set of employee voice behaviors. Journal of Applied Psychology, 99(1), 87-112.   \nMcClean,E.J.,Martin, S.R.,Emich, K.J.,& Woodruff, C.T.(2018). The social consequences of voice: An examination of voice type and gender on status and subsequent leader emergence. Academy of Management Journal, 61(5),1869-1891.   \nMorrison, Elizabeth W. (2011). Employee Voice Behavior: Integration and Directions for Future Research. The Academy of Management Annals, 5(1), 373-412.   \nMorrison, E. W. (2014). Employee Voice and Silence. Annual Review of Organizational Psychology and Organizational Behavior, 1(1), 173-197.   \nMorrison, E. W., See, K.E.,& Pan, C. (2015). An approach - inhibition model of employee silence: The joint effects of personal sense of power and target openness. Personnel Psychology, 68(3), 547-580.   \nMotowidlo， S. J.，Packard，J. S.，& Manning，M. R.(1986). Occupational stress: Its causes and consequences for job performance.Journal of Applied Psychology, 71(4), 618-629.   \nMuthen, L. K., & Muthen, B. O. (2012). Mplus Version 7 user's guide.Los Angeles, CA: Muthén & Muthen.   \nNembhard, I. M.，& Edmondson, A. C. (2006). Making it safe: the effects of leader inclusiveness and professional status on psychological safety and improvement efforts in health care teams. Journal of Organizational Behavior,27(7), 941-966.   \nNg, K. Y., Van Dyne, L., & Ang, S. (2019). Speaking out and speaking up in multicultural settings: A two-study examination of cultural intelligence and voice behavior. Organizational Behavior and Human Decision Processes,151(1),150-159.   \nNg,T. W. H.,& Feldman, D. C.(2012). Employee voice behavior: A meta-analytic test of the conservation of resources framework. Journal of Organizational Behavior,33(2),216-234.   \nPodsakoff, P.M., MacKenzie,S.B., Lee,J. Y.,& Podsakoff, N.P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879-903.   \nPreacher, K.J.， Zhang, Z.，& Zyphur, M. J. (2011). Alternative Methods for Assessing Mediation in Multilevel Data: The Advantages of Multilevel SEM. Structural Equation Modeling:A Multidisciplinary Journal, 18(2), 161-182.   \nPreacher, K. J., Zyphur, M. J.，& Zhang, Z. (2010). A general multilevel SEM framework for assessing multilevel mediation. Psychological Methods,15(3),209-233.   \nSeibert, S.E., Kraimer, M.L., & Crant, J. M. (2001). What do proactive people do? A longitudinal model linking proactive personality and career success. Personnel Psychology, 54(4), 845-874.   \nSmidts,A., Pruyn, A. T.H.,& Van Riel, C.B.M. (2001). The impact of employee communication and perceived external prestige on organizational identification. Academy of Management Journal, 44(5), 1051-1062.   \nSteptoe,A. E., & Appels,A.E.(1989). Stress, personal control and health. John Wiley & Sons.   \nSunindijo,R.Y., & Kamardeen, I. (2017). Work stress is a threat to gender diversity in the construction industry. Journal of Construction Engineering and Management, 143(10), 04017073.   \nTangirala, S.，& Ramanujam，R.(2008). Exploring Nonlinearity in Employee Voice: The Effects of Personal Control and Organizational Identification. Academy of Management Journal, 51(6), 1189-1203.   \nTangirala， S.，& Ramanujam，R.(2012). Ask and you shall hear (but not always): Examining the relationship between manager consultation and employee voice. Personnel Psychology， 65(2), 251-282.   \nTucker,S.,& Turner, N. (2015). Sometimes it hurts when supervisors don't listen: The antecedents and consequences of safety voice among young workers. Journal of Occupational Health Psychology,20(1), 72-81.   \nVan Dyne, L. V., Ang, S., & Botero, I. C. (2003). Conceptualizing employee silence and employee voice as multidimensional constructs. Journal of management studies, 40(6), 1359-1392.   \nVan Dyne,L.,& LePine,J.A. (1998). Helping and voice extra-role behaviors: Evidence of construct and predictive validity. Academy of Management Journal, 41(1), 108-119.   \nWang,Y., & Duan, J.-Y. (2015). How Political Skils Affect Employees' Voice: The Role of Guanxi and Performance. Management World, 3(7),102-112.   \n[王永跃，& 段锦云.(2015).政治技能如何影响员工建言：关系及绩效的作用．管理世界，3(7), 102-112.]   \nWard, A.-K.,Ravlin,E. C., Klaas,B. S.,Ployhart,R.E.,& Buchan, N.R. (2016). When do high-context communicators speak up? Exploring contextual communication orientation and employee voice. Journal of Applied Psychology,101(10),1498-1511.   \nWei, X.，& Zhang, Z.-X. (2010). The Mechanism of Reluctance to Express Prohibitive Voices in Organizations. Management World, 10(1), 99-109.   \n[魏昕，张志学.(2010).组织中为什么缺乏抑制性进言？管理世界,10(1),99-109.]   \nWeiss,M.,Kolbe,M., Grote, G., Spahn, D.R.,& Grande, B. (2018). We can do it! Inclusive leader language promotes voice behavior in multi-professional teams. The Leadership Quarterly, 29(3), 389-402.   \nWeiss,M., & Morrison, E. W. (2019). Speaking up and moving up: How voice can enhance employees' social status. Journal of Organizational Behavior, 40(1), 5-19.   \nWilliams,E.S.,Konrad,T.R.,Scheckler, W.E.,Pathman,D.E.,Linzer,M.,McMurray,J.E.,Schwartz,M. (2001).Understanding Physicians' Intentions to Withdraw from Practice: The Role of Job Satisfaction, Job Stress, Mental and Physical Health: Health Care Management Review, 26(1), 7-19.   \nYu, J.,& Zhao, S. (2013).A Review of Frontier Research on Employee Voice Behavior and Future Prospects. Foreign Economies and Management, 35(5),23-30.   \n[于静静，赵曙明.(2013).员工建言行为研究前沿探析与未来展望．外国经济与管理,35(5),23-30.]   \nZhou,H.，& Long,L.-R.(2012). The Influence of Transformational Leadership on Voice Behavior: Mediating Effect of Psychological Ownership for the Organization and Moderating Effect of Traditionality. Acta Psychologica Sinica, 44(3),388-399.   \n[周浩，龙立荣.(2012).变革型领导对下属进谏行为的影响：组织心理所有权与传统性的作用．心理 学报,44(3),388-399.]   \nZhou, J.,& George, J. M. (2Oo1). When job dissatisfaction leads to creativity: Encouraging the expression of voice. Academy of Management Journal, 44(4), 682-696. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The divergent effects of work stress on constructive voice and defensive voice: A cross-level of moderated mediation model ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LU Hong- $\\cdot \\mathrm { X u } ^ { 1 }$ ， ZHOU Fan²，WU Ting³，YAN Jin²，SHAO Yan 4，LIU Yan-Bin 1 (1.School of Business,Ningbo Institute of Technology, Zhejiang University, Ningbo 315100, China; 2. School of Management, Zhejiang University, Hangzhou 310o58, China; 3. School of Business, Zhejiang University City College,Hangzhou 310o58,China; 4.Amsterdam Business School, University ofAmsterdam,Amsterdam 1018 TV,Netherlands) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have mainly considered voice as a behavior with constructive intention for the organization. However, such studies have failed to recognize that voice can be an important means for individuals to achieve their own instrumental goals. Among the few studies that have examined the instrumentality of voice behavior, little attntion has been paid to distinguishing between the types of voice behavior motivated by instrumental goals, leading to an incomplete understanding of the instrumental side of the behavior. Hence, this study attempts to broaden our understanding of different voice behaviors as a means of satisfying different instrumental goals in pressure situations. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Specifically, based on conservation of resources theory， we suggest that high work pressure indicates threats, increasing individuals' motivation to conserve resources and thus leading to more defensive voice. In contrast, when work pressure is low, the environment is likely to be perceived as benign, motivating the expression of constructive voice. Importantly, we highlight the role of leader openness as an important boundary condition. Leader openness signals that voice behavior is encouraged and valued, leading to positive expectations for employees to maintain or acquire resources through such behavior, which further motivates that behavior. In contrast, when leaders turn a blind eye to their employees’ voice, employees perceive that their suggestion behavior cannot help them achieve their instrumental goals, and they thus stay silent about work-related issues. Taken together, we suggest that work pressure leads to more defensive voice and less constructive voice, especially when leader openness is high. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "To test our conceptual model, we conducted a one-month time-lagged study among 386 employees from 5O teams at a construction site. We found that although employees' perceptions of work stress significantly decreased constructive voice, they also increased defensive voice. Ego depletion mediated the effects of work stress on these two types of voice behavior. Moreover, the results showed that group-level leader openness significantly reinforced the negative relationship between work stress and constructive voice, as well as the negative indirect effect of work pressure on constructive voice through ego depletion. However, the moderating effect of leader openness was not observed when testing the direct and indirect effects of work pressure on defensive voice. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "This study makes three main contributions to the literature. First, responding to researchers’ recommendations in recent years, the study investigated the mechanisms of different types of voice behaviors. Second, the study drew on conservation of resources theory to explain the effects of work stress on voice behavior, enhancing our understanding of why people engage in certain types of voice behavior in response to work stress. Finally, the study highlights leader openness as an important boundary condition, clarifying when work stress is more likely or less likely to lead to different voice behaviors. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words work stress; ego depletion; constructive voice; defensive voice; leader openness ",
+        "page_idx": 19
+    }
+]

@@ -1,0 +1,195 @@
+DOI:10.13930/j.cnki.cjea.160661
+
+侣国涵，彭成林，徐祥玉，徐大兵，袁家富，李金华．稻虾共作模式对涝渍稻田土壤理化性状的影响[J].中国生态农业 学报,2017,25(1):61-68 Si G H,Peng CL,Xu XY,XuDB,YuanJF,LiJH.Efectofintegrated rice-crayfish farming systemonsoil physico-hemical properties in waterlogged paddy soils[J]. Chinese Journal of Eco-Agriculture, 2017,25(1): 61-68
+
+# 稻虾共作模式对涝渍稻田土壤理化性状的影响
+
+侣国涵¹，彭成林1，徐祥玉¹，徐大兵'，袁家富l\*，李金华²(1．湖北省农业科学院植保土肥研究所 武汉430064;2．潜江市农技推广中心 潜江433199)
+
+摘要：稻虾共作模式是一种以涝渍水田为基础，以种稻为中心，稻草还田养虾为特点的复合生态系统。本文通过10 年(2005一2015年)定位试验，以中稻单作模式为对照，研究了稻虾共作模式对 $0 { \sim } 1 0 \ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 、$2 0 { \sim } 3 0 ~ \mathrm { c m }$ 和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤理化性状以及水稻产量的影响；采用投入产出法，评估了稻虾共作模式的经济效益。结果表明，长期稻虾共作模式显著降低了 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 土层的土壤紧实度，其在 $1 5 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 、 $2 5 ~ \mathrm { c m }$ 和$3 0 \ \mathrm { c m }$ 处的土壤紧实度较中稻单作模式分别降低了 $2 0 . 9 \%$ 、 $2 9 . 9 \%$ 、 $2 4 . 8 \%$ 和 $14 . 7 \%$ 。长期稻虾共作模式提高了$0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中 $> 0 . 2 5 \ \mathrm { m m }$ 水稳性团聚体数量、平均质量直径和几何平均直径，但降低了 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层的团聚体分形维数。相对于中稻单作模式，长期稻虾共作模式显著提高了 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层有机碳、全钾和碱解氮含量，$0 { \sim } 3 0 ~ \mathrm { c m }$ 土层全氮含量， $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层全磷和速效磷含量以及 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层速效钾含量。稻虾共作模式显著降低了 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层还原性物质总量，但提高了 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层土壤还原性物质总量。稻虾共作模式的水稻产量较中稻单作模式显著提高，增幅为 $9 . 5 \%$ ，其总产值、利润和产投比较中稻单作模式分别增加了46818.0元 $\cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ 、40188.0元 $\cdot \mathrm { h m } ^ { - 2 }$ 和 $1 0 0 . 0 \%$ 。可见稻虾共作模式改善了土壤结构，增加了土壤养分，提高了水稻产量以及经济效益，但增加了 $1 0 \ \mathrm { c m }$ 以下土层潜育化的风险。
+
+关键词：稻虾共作模式；涝渍稻田；土壤结构；有机碳；土壤养分；经济效益中图分类号：S181;S153 文献标识码：A 文章编号:1671-3990(2017)01-0061-08
+
+# Effect of integrated rice-crayfish farming system on soil physico-chemical properties in waterlogged paddy soils
+
+SI Guohan1,PENG Chenglin1, XU Xiangyu1, XU Dabing1, YUAN Jiaful\*\*,LI Jinhua² (1. Institute of Plant Protectionand SoilFertilizers,Hubei Academyof Agricultural Sciences,Wuhan 430064,China; 2.Qianjiang Agro-Technology Extension Center, Qianjiang 433199,China)
+
+Abstract: Integrated rice-crayfish system is a complex ecological systembasedon waterlogged paddy fieldcultivation characterized with crayfish fedbyricestraw.Using rice monoculture system as thecontrol,al0-year(20o5-2015)field experiment was conducted to studytheeffects of integrated rice-crayfish systemonriceyieldand soil physico-chemical properties at soil depths of $0 { - } 1 0 ~ \mathrm { c m }$ ， $1 0 { - } 2 0 ~ \mathrm { c m }$ ， $2 0 { - } 3 0 ~ \mathrm { c m }$ and $3 0 { \mathrm { - } } 4 0 ~ { \mathrm { c m } }$ . The economic benefit of integrated rice-crayfish system was evaluated using the input-output method.The results indicated that long-term integrated rice-crayfish system significantly reduced soil compaction at the $1 5 { - } 3 0 ~ \mathrm { c m }$ layer. The soil compaction in $1 5 \ \mathrm { c m }$ ， $2 0 ~ \mathrm { c m }$ $2 5 ~ \mathrm { c m }$ and $3 0 ~ \mathrm { c m }$ soil was lower in integrated rice-crayfish system than in rice monoculture system by $2 0 . 9 \%$ ， $2 9 . 9 \%$ ， $2 4 . 8 \%$ and $14 . 7 \%$ ,respectively. Long-term integrated rice-crayfish system increased soil water-stable aggregates $( > 0 . 2 5 ~ \mathrm { m m }$ ） content, aggregate mean weight diameter (MWD) and geometric mean diameter (GMD) in the $\scriptstyle 0 - 4 0 \ { \mathrm { c m } }$ layer,but decreased aggregate fractal dimension $( D )$ in the $0 { - } 2 0 ~ \mathrm { c m }$ layer. Compared with rice monoculture system,long-term integrated rice-crayfish system significantly increased the contents of soil organic carbon, total K and available $\mathrm { \Delta N }$ in the $0 { - } 4 0 ~ \mathrm { c m }$ layer, then total $\mathrm { \Delta N }$ in the $0 { - } 3 0 ~ \mathrm { c m }$ layer, total $\mathrm { \bf P }$ and available Pin the $0 { - } 1 0 ~ \mathrm { c m }$ layer and available K in the $2 0 { - } 4 0 ~ \mathrm { c m }$ layer. The total amount of reducing matter in the $0 { - } 1 0 ~ \mathrm { c m }$ soillayerofthelong-termintegratedrice-crayfish system waslowerthanthatinthe monoculturericesystem,butitwas higher in the $2 0 { - } 3 0 ~ \mathrm { c m }$ soil layer. Rice yield in integrated rice-crayfish system significantly increased by $9 . 5 \%$ than that in the monoculturericesystem.Theoutput,profitandratioofoutputto inputin integratedrice-crayfishsystemwere higherthan those in the monoculture rice system by $4 6 \ 8 1 8 . 0 \ { \Psi \cdot } \mathrm { h m } ^ { - 2 }$ $4 0 \ 1 8 8 . 0 \Psi { \cdot } \mathrm { h m } ^ { - 2 }$ and $1 0 0 . 0 \%$ ,respectively. It was therefore clear that integrated rice-crayfish system improvedsoil structure,enhancedsoil nutrient and increased rice yieldand economic benefit. However, it also increased the risk of soil gleying in the $1 0 \ \mathrm { c m }$ depth.
+
+Keywords: Integratedrice-crayfish system; Waterlogged paddyfield; Soil structure;Organiccarbon;Soilnutrient;Economic benefit
+
+稻田种养复合生态模式是我国南方稻作区一种主要的种养模式，具有悠久的历史，该模式把水稻(Oryzasativa)种植与水产养殖人为地组合在同一生态系统中，利用稻田的立体空间，达到充分利用光、热、水及生物资源的自的，获得较高的物质生产量和经济效益[1]；同时可防止土壤肥力减退，减少环境污染，维持生态平衡，使农业生态系统处于良性循环之中[2]。近年来，稻虾共作模式已发展成为我国长江中下游地区一种以涝渍稻田为条件，以种稻为中心，稻草还田养虾为特点的新兴稻田种养复合生态模式，该模式在长江中下游稻区发展很快，目前仅在湖北省已推广近14.0万 $\mathbf { h } \mathbf { m } ^ { 2 }$ 。调查表明该模式平均产值比传统“稻-油轮作"模式或“稻-麦轮作"模式多收入近4.5万元 $\cdot \mathrm { h m } ^ { - 2 }$ ，具有良好的经济和社会效益。
+
+在稻虾共作模式中，水稻和克氏原螯虾(Procambarusclarkii)互惠互利，一方面克氏原螯虾能清除稻田中的杂草、害虫，同时其排泄物及残饵可供水稻生长利用，另一方面稻田水体中溶解氧较高，且动植物食源丰富，为克氏原螯虾提供了良好的栖息环境[3]。与单纯种稻的稻田系统相比，养虾的稻田生态系统不仅能够大幅提高能量、水、肥等的利用率，使其稳定性及抗外界冲击的能力得到更大提高[4]，而且促进了物质就地循环，阻止了稻田能量流的外溢，使稻田的生态从结构与功能上均得到了合理的改善和利用。
+
+目前关于稻渔共作模式对稻田土壤的理化性状的研究多集中在稻鱼共作模式和稻蟹共作模式[5-7],而关于稻虾共作模式对稻田土壤理化性状的研究鲜有报道。本文通过对稻虾共作模式下土壤物理和化学性状研究，旨在为评价该模式下土壤质量变化提供数据支撑，同时为进一步推广稻-虾共作模式提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+试验区位于湖北省潜江市白鹭湖农场关山分场（204 $( 3 0 ^ { \circ } 1 1 ^ { \prime } 3 6 . 0 7 ^ { \prime \prime } \mathrm { N }$ 、 $1 1 2 ^ { \circ } 4 3 ^ { \prime } 2 2 . 6 8 " \mathrm { E }$ ，属江汉平原低湖区，冬季静态地下水位 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ ，北亚热带季风湿润气候，年均气温 $1 6 . 1 \mathrm { ~ \textdegree C }$ ，无霜期 $2 4 6 \mathrm { ~ d ~ }$ ，年均降雨量 $1 ~ 1 0 0 ~ \mathrm { m m }$ ，土壤类型为湖积物发育而成的潮土性水稻土。
+
+# 1.2 试验设计
+
+田间试验始于2005年，处理设置稻虾共作模式(CR)和中稻单作模式(MR)，每个处理设置3次重复。每小区面积 $3 0 0 ~ \mathrm { ~ m } ^ { 2 }$ ，小区周围做宽 $6 0 ~ \mathrm { c m }$ ，高 $4 0 \ \mathrm { c m }$ 的埂，并用地膜包裹。为了防止串水、串虾，处理间设宽 $0 . 4 \mathrm { ~ m ~ }$ 、深 $1 . 0 \mathrm { m }$ 的沟。在稻虾共作模式小区一侧开挖沟宽 $3 . 0 { \sim } 4 . 0 \ \mathrm { m }$ 、深 $0 . 8 { \sim } 1 . 0 \mathrm { ~ m ~ }$ 的虾沟，且四周设尼龙拦虾网，尼龙网埋入地下约 $1 . 0 \mathrm { ~ m ~ }$ ，地上露出约$0 . 3 \mathrm { ~ m ~ }$ ，并用小竹棍支撑。稻虾共作模式采用中稻收获后灌水养虾，稻草全量还田；中稻单作模式采用水稻收获后冬干，不养虾，稻草全量还田。供试水稻为中稻品种‘鉴真2号'，供试虾为克氏原螯虾。
+
+# 1.3 田间管理
+
+于每年6月中下旬进行整地、水稻移栽，栽插的原则是宽行窄株、沟边密植，株行距为 $1 6 . 7 ~ \mathrm { c m } \times$ $2 6 . 6 \mathrm { c m } , 9$ 月底收割；水稻的施肥量一般为每年施N$1 2 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 3 6 . 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { K } _ { 2 } \mathrm { O } \ 6 0 . 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。稻虾共作模式处理中虾苗于 2005年10月份按照
+
+$1 5 . 0 { \sim } 2 2 . 5$ 万只 $\cdot \mathrm { h m } ^ { - 2 }$ 的标准进行投放，虾苗在稻田中自行繁殖，以后每年此时根据实际情况补投适量亲虾，于每年的3一5月份进行虾饲料投放，投入饲料量平均为 $1 ~ 8 0 0 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，饲料中全氮、全磷和全钾含量分别为 $4 6 . 6 \ : \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ / $1 1 . 0 \ \mathrm { g { \cdot k g } ^ { - 1 } }$ 和 $1 0 . 5 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，于每年6月上旬捕捞成虾完毕，而未成熟的幼虾随水迁移至虾沟中，待整田、插秧、晒田控蘖及复水后再次进入稻田生活，在中稻收获前收获第2季成熟小龙虾，10月底中稻收割完毕灌水后进行下一季克氏原螯虾养殖。
+
+# 1.4 土样采集
+
+于2015年水稻收获后，10月中旬进行土壤样品的采集，采样方式为S形5点采样法，在每一小区按$0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 、 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层采集土样，在采集和运输过程中尽量减少对土样的扰动，采集土样去除植物残根和石块并混匀，风干土样一部分过20目和100目筛，进行相关指标的测定，另一部分进行土壤团聚体分析。
+
+# 1.5土样测定项目及方法
+
+土壤紧实度采用土壤紧实度仪进行测定[8]，于2015年10月中旬，采用 $\mathrm { C P 4 0 \ : I I }$ 数显式土壤紧实度仪在田间直接原位测定，测定土层范围为 $0 { \sim } 4 0 \ \mathrm { c m }$ 每1cm记录1次数据，每个小区重复测18次。土壤 $\mathfrak { p H }$ 、有机碳、全氮、全磷、全钾、碱解氮、速效磷和速效钾的测定参考文献[9]进行，土壤pH 采用土：水 $\operatorname { i } = 1 : 5$ 酸度计法，土壤有机碳采用重铬酸钾容量法，全氮采用半微量开氏法测定，全磷采用 ${ \mathrm { H } } _ { 2 } { \mathrm { S O } } _ { 4 } .$ $\mathrm { { H C l O } _ { 4 } }$ 消煮钼锑抗比色法，全钾含量采用NaOH熔融-火焰光度法，土壤碱解氮采用碱解扩散法，速效磷含量采用Olsen法测定，速效钾用中性 $\mathrm { N H _ { 4 } A c }$ 浸提-火焰光度法测定；还原物质总量采用 $\mathrm { A l } _ { 2 } ( \mathrm { S O } _ { 4 } ) _ { 3 }$ 浸提-重铬酸钾容量法， $\mathrm { F e } ^ { 2 + }$ 、 $\mathrm { M n } ^ { 2 + }$ 采用 $\mathrm { { A l } } _ { 2 } ( \mathrm { { S O } } _ { 4 } ) _ { 3 }$ 浸提-容量法测定[10]。
+
+采用Elliott[11]提供的湿筛法对水稳性团聚体进行分级，利用DM2000-Ⅲ型土壤团粒分析仪将土样依次过 $2 ~ \mathrm { m m }$ 、 $1 ~ \mathrm { m m }$ 、 $0 . 2 5 ~ \mathrm { m m }$ 和 $0 . 0 5 3 ~ \mathrm { m m }$ ，分离出$> 2 \mathrm { ~ m m }$ 、 $1 { \sim } 2 \ \mathrm { m m }$ 、 $1 { \sim } 0 . 2 5 \ \mathrm { \ m m }$ 、 $0 . 2 5 { \sim } 0 . 0 5 3 ~ \mathrm { \ m m }$ 和$< 0 . 0 5 3 \ \mathrm { m m } \ 5$ 个级别水稳性团聚体，分离出的不同大小团聚体的土样 $6 0 \ \mathrm { { ^ \circ C } }$ 烘干，称重。
+
+# 1.6 数据分析与统计
+
+试验数据采用SPSS11.0软件进行ANOVA方差分析，其他统计分析采用MicrosoftExcel2007软件。团聚体的平均质量直径(MWD)、几何平均直径(GMD)以及分形维数 $( D )$ 的计算公式为：
+
+$$
+\begin{array} { r l } & { \displaystyle \mathrm { M W D } = \sum _ { i = 1 } ^ { n } \big ( R _ { i } \omega _ { i } \big ) / \Bigg ( \sum _ { i = 1 } ^ { n } \omega _ { i } \Bigg ) ; } \\ & { \displaystyle \mathrm { G M D } = \exp \Bigg [ \sum _ { i = 1 } ^ { n } \omega _ { i } \ln R _ { i } \Bigg / \sum _ { i = 1 } ^ { n } \omega _ { i } \Bigg ] } \end{array}
+$$
+
+$$
+\lg { \left[ \frac { w { \bigl ( } r < R _ { i } { \bigr ) } } { W _ { T } } \right] } = { \bigl ( } 3 - D { \bigr ) } \lg { \left[ \frac { R _ { i } } { R _ { \operatorname* { m a x } } } \right] }
+$$
+
+式中: $R _ { i }$ 为某级别团聚体平均直径; $R _ { \mathrm { m a x } }$ 为团聚体的最大粒径； $\omega _ { i }$ 为该级别团聚体重量; $n$ 为筛子的数量;$W _ { ( r < R _ { i } ) }$ 为粒径小于 $R _ { i }$ 的团聚体重量； $W _ { T }$ 为土壤各粒级重量的总和; $3 { - } D$ 是 $\lg \left[ { \frac { w { \bigl ( } r < R _ { i } { \bigr ) } } { W _ { T } } } \right]$ 与lg $\mathrm { l g } \left[ \frac { R _ { i } } { R _ { \mathrm { m a x } } } \right]$ 线性关系的斜率。
+
+# 2 结果与分析
+
+# 2.1 稻虾共作模式对土壤物理性状的影响
+
+# 2.1.1 对土壤紧实度的影响
+
+土壤紧实度由土壤抗剪力、压缩力和摩擦力等构成，是衡量土壤强度的一个合成指标，它可预测土壤承载量、耕性和根系伸展阻力[12]。由表1可知,随着土层深度的增加，土壤紧实度均呈逐渐增加的趋势。对 $5 \mathrm { c m }$ ！ $1 0 \ \mathrm { c m }$ 、 $1 5 \ \mathrm { c m }$ ！ $2 0 \ \mathrm { c m }$ 、 $2 5 ~ \mathrm { c m }$ ！ $3 0 ~ \mathrm { c m }$ /$3 5 \ \mathrm { c m }$ 和 $4 0 \ \mathrm { c m }$ 处土壤紧实度的分析表明，稻虾共作模式在土层 $1 5 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 、 $2 5 ~ \mathrm { c m }$ 和 $3 0 ~ \mathrm { c m }$ 处的土壤紧实度均显著小于中稻单作模式，其土壤紧实度较中稻单作模式分别降低了 $20 . 9 \%$ 、 $2 9 . 9 \%$ 、 $2 4 . 8 \%$ 和$14 . 7 \%$ ，这表明长期稻虾共作模式显著降低了 $1 5 \sim$ $3 0 ~ \mathrm { c m }$ 土层的土壤紧实度。
+
+表1稻虾共作模式对不同土层深度土壤紧实度的影响 Table 1Effect of integrated rice-crayfish system on soil compaction in different soil layers kPa   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="8">土层深度 Soil depth (cm)</td></tr><tr><td>5</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td></tr><tr><td>MR</td><td></td><td>165.42±43.37a 318.55±37.12a</td><td>589.07±64.67a</td><td>813.39±139.82a</td><td>903.72±97.58a</td><td>922.35±80.83a</td><td>897.99±132.63a 941.78±137.64a</td><td></td></tr><tr><td>CR</td><td></td><td>156.53±30.72a 331.14±22.32a</td><td>462.06±79.38b</td><td>558.68±112.45b</td><td>672.27±69.06b</td><td>780.96±75.54b</td><td>850.23±74.11a</td><td>907.73±83.41a</td></tr></table></body></html>
+
+同列数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR:稻虾共作模式；MR:中稻单作模式。Values followed by different letters in ε column are significantly different at $5 \%$ level.CR: integrated rice-crayfish system; MR: rice monoculture system.
+
+# 2.1.2对土壤水稳性团聚体稳定性的影响土壤团聚体的数量和稳定性是衡量土壤结构稳
+
+定性的重要指标， ${ > } 0 . 2 5 ~ \mathrm { m m }$ 的团聚体数量 $( R _ { 0 . 2 5 } )$ 越多意味着团聚体越稳定。土壤团聚体的平均质量直径
+
+http://www.ecoagri.ac.cn
+
+(MWD)、几何平均直径(GMD)和团聚体分形维数 $( D )$ 均可表征团聚体的稳定程度。其中MWD和GMD反映土壤团聚体大小分布状况，其值越大表示团聚体的平均粒径团聚度越高，稳定性越强[13]。 $D$ 表征土壤结构组成及其均匀程度， $D$ 值越小，土壤的结构越好[14]。由表2可知，随着土层的加深，水稳性团聚体的 $R _ { 0 . 2 5 }$ 、MWD值和GMD值均呈逐渐降低的趋势,$D$ 值则呈先增加后降低的趋势。稻虾共作模式的$R _ { 0 . 2 5 }$ 、MWD值和GMD值在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层较中稻单作模式均呈增加趋势，而 $\dot { D }$ 值在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层较中稻单作模式呈降低趋势，但均未达到显著差异；稻虾共作模式的MWD值和GMD值在 $0 { \sim } 1 0$ cm和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 显著高于中稻单作模式，其中MWD值在 $: 0 { \sim } 1 0 ~ \mathrm { c m }$ 和$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 较中稻单作模式分别提高了 $2 6 . 3 \%$ 和 $34 . 3 \%$ GMD值分别提高了 $40 . 5 \%$ 和 $47 . 5 \% _ { \textmd c }$
+
+# 2.2 稻虾共作模式对土壤化学性状的影响
+
+# 2.2.1 对土壤全量养分的影响
+
+由表3可知，随着土壤深度的增加，土壤有机碳、全氮和全磷含量均呈逐渐降低趋势，而稻虾共作模式的土壤全钾含量则呈逐渐升高趋势。稻虾共作模式的土壤有机碳和全钾含量在 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层显著高于中稻单作模式，其中在 $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ ，20\~30cm和30\~40cm土层，有机碳含量较中稻单作模式分别提高了 $3 3 . 5 \%$ 、 $2 2 . 6 \%$ 、 $3 6 . 7 \%$ 和 $3 1 . 6 \%$ ，土壤全钾含量较中稻单作模式分别提高了 $5 . 1 \% . \ 5 . 0 \%$ $8 . 4 \%$ 和 $10 . 1 \%$ ；稻虾共作模式的土壤全氮含量在 $0 \sim$ $3 0 \mathrm { c m }$ 土层显著高于中稻单作模式, $0 { \sim } 1 0 \mathrm { c m }$ 人 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ /$2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层中较中稻单作模式分别提高了 $2 9 . 9 \%$ /$23 . 0 \%$ 和 $2 8 . 7 \%$ ；稻虾共作模式的土壤全磷含量仅在$0 { \sim } 1 0 \ \mathrm { ~ c m }$ 土层显著高于中稻单作模式，较中稻单作模式提高了 $9 . 8 \%$ ，而在 $1 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层无显著差异;稻虾共作模式的土壤C/N比随着土层加深呈增加趋势，较中稻单作模式有升高的趋势，但未达到显著差异。由此可见，长期稻虾共作模式显著提高了 $0 \sim$ $4 0 ~ \mathrm { c m }$ 土层土壤有机碳和全钾含量、 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层土壤全氮含量以及 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层全磷含量。
+
+表2稻虾共作模式对不同土层深度土壤水稳性团聚体稳定性指标的影响Table2Effectofintegratedrice-crayfishsystemonthestabilityindexofsoil water-stableaggegateindiferentsoillayers  
+
+<html><body><table><tr><td rowspan="2">土层深度 Soil depth (cm)</td><td colspan="2">>0.25 mm 的团聚体数量(R0.25) Content of aggregate >0.25 mm (%)</td><td colspan="2">平均质量直径(MWD) Mean weight diameter (mm)</td><td colspan="2">几何平均直径(GMD) Geometric mean diameter (mm)</td><td colspan="2">分形维数(D) Fractal dimension</td></tr><tr><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td></tr><tr><td>0~10</td><td>72.06±6.37a</td><td>78.23±6.18a</td><td>1.60±1.60b</td><td>2.0±0.31a</td><td>0.74±0.08b</td><td>1.04±0.12a</td><td>2.59±0.05a</td><td>2.58±0.03a</td></tr><tr><td>10~20</td><td>66.14±6.30a</td><td>72.54±8.34a</td><td>1.47±0.19a</td><td>1.67±0.17a</td><td>0.61±0.04a</td><td>0.76±0.08a</td><td>2.61±0.07a</td><td>2.58±0.02a</td></tr><tr><td>20~30</td><td>67.37±3.06a</td><td>69.28±4.22a</td><td>1.12±0.91a</td><td>1.49±0.26a</td><td>0.50±0.08a</td><td>0.62±0.07a</td><td>2.61±0.04a</td><td>2.61±0.05a</td></tr><tr><td>30~40</td><td>58.48±4.89a</td><td>67.81±3.44a</td><td>1.08±0.11b</td><td>1.45±0.14a</td><td>0.40±0.04b</td><td>0.59±0.01a</td><td>2.60±0.01a</td><td>2.59±0.05a</td></tr></table></body></html>
+
+CR:稻虾共作模式;MR：中稻单作模式。同行数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR: integrated rice-crayfish system; MR: ric monoculture system.Values of the same index followedby dierent leters in arow are significantlydifferent at $5 \%$ level.
+
+表3稻虾共作模式对不同土层深度土壤全量养分的影响 Table 3Effect of integrated rice-crayfish system on soil total nutrients contents in different soil layers   
+
+<html><body><table><tr><td rowspan="2">土层深度 Soil depth (cm)</td><td colspan="2">有机碳 Organic carbon (g·kg-1)</td><td colspan="2">全氮 Total N (g.kg-1)</td><td colspan="2">全磷 Total P (g·kg-1)</td><td colspan="2">全钾 Total K (g:kg)</td><td colspan="2">C/N</td></tr><tr><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td></tr><tr><td>0~10</td><td>15.66±148b</td><td>20.90±0.81a</td><td>1.94±0.22b</td><td>2.52±0.28a</td><td>0.41±0.01b</td><td>0.45±0.02a</td><td>1.73±0.25b</td><td>1.82±0.09a</td><td>8.09±0.18a</td><td>8.35±0.69a</td></tr><tr><td>10~20</td><td>14.15±0.86b</td><td>17.34±1.17a</td><td>1.70±0.13b</td><td>2.09±0.19a</td><td>0.40±0.02a</td><td>0.43±0.01a</td><td>1.76±0.19b</td><td>1.85±0.15a</td><td>8.34±0.32a</td><td>8.32±1.05a</td></tr><tr><td>20~30</td><td>11.50±1.28b</td><td>15.73±1.73a</td><td>1.44±0.12b</td><td>1.85±0.18a</td><td>0.38±0.02a</td><td>0.37±0.05a</td><td>1.71±0.34b</td><td>1.86±0.20a</td><td>7.98±0.37a</td><td>8.47±0.52a</td></tr><tr><td>30~40</td><td>7.72±0.87b</td><td>10.16±0.99a</td><td>0.94±0.07a</td><td>1.13±0.12a</td><td>0.34±0.03a</td><td>0.34±0.04a</td><td>1.73±0.56b</td><td>1.90±0.64a</td><td>8.17±0.47a</td><td>9.02±0.35a</td></tr></table></body></html>
+
+CR：稻虾共作模式；MR：中稻单作模式。同行数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR:integrated rice-crayfish system;MRrice monoculturesystem.Values of thesame index followed bydiferent lettrs in arow are significantlydiferentat $5 \%$ level.
+
+# 2.2.2 对土壤 $\mathbf { p H }$ 和速效养分的影响
+
+由表4可知，随着土壤深度的增加，土壤碱解氮、速效磷和速效钾含量均呈降低的趋势，而土壤$\mathfrak { p H }$ 则呈增加趋势；在 $0 { \sim } 4 0$ cm土层，稻虾共作模式的土壤pH较中稻单作模式呈增加趋势，但未达到显著差异；稻虾共作模式的土壤碱解氮含量在 $0 \sim 4 0 ~ \mathrm { c m }$ 显著高于中稻单作模式, $0 { \sim } 1 0 \mathrm { c m }$ ！ $1 0 { \sim } 2 0 ~ \mathrm { c m } .$ 有 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 和 ${ 1 3 0 } { \sim } 4 0 \mathrm { c m }$ 较中稻单作模式分别提高了 $3 3 . 8 \% .$ ， $2 8 . 3 \%$ $43 . 6 \%$ 和 $3 5 . 9 \%$ 。稻虾共作模式土壤速效磷含量仅在$0 { \sim } 1 0 \ \mathrm { c m }$ 土层显著高于中稻单作模式，而在 $1 0 { \sim } 4 0 ~ \mathrm { c m }$ 无显著差异，这与全磷含量的变化趋势一致。稻虾共作模式土壤速效钾含量在 $[ 0 { \sim } 2 0 ~ \mathrm { c m }$ 较中稻单作模式无显著差异，但在 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤速效钾含量显著高于中稻单作模式，其土壤速效钾含量在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 较中稻单作模式分别提高了 $1 5 . 2 \%$ 和$2 2 . 9 \text{‰}$ 可见稻虾共作模式显著提高了 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤碱解氮的含量、 $0 { \sim } 1 0 \ \mathrm { c m }$ 土层土壤速效磷的含量以及 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤速效钾的含量。
+
+表4稻虾共作模式对不同土层深度土壤pH和速效养分的影响)le 4Effect of integrated rice-crayfish system on soil $\mathfrak { p H }$ and available nutrients contents in differ  
+
+<html><body><table><tr><td rowspan="2">层 (cm)</td><td colspan="2">pH</td><td colspan="2">Available g.g1)</td><td colspan="2">Availabic P(mg.g1)</td><td colspan="2">Availab (mg.kg=1)</td></tr><tr><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td></tr><tr><td>0~10</td><td>7.17±0.13a</td><td>7.29±0.04a</td><td>141.06±8.06b</td><td>188.75±26.09a</td><td>7.39±1.24b</td><td>10.10±0.54a</td><td>192.07±17.75a</td><td>189.64±6.71a</td></tr><tr><td>10~20</td><td>7.20±0.08a</td><td>7.34±0.04a</td><td>130.47±6.07b</td><td>167.33±16.12a</td><td>9.32±0.91a</td><td>8.64±1.11a</td><td>175.02±13.36a</td><td>184.36±6.33a</td></tr><tr><td>20~30</td><td>7.21±0.11a</td><td>7.38±0.06a</td><td>102.21±5.94b</td><td>146.80±24.15a</td><td>7.70±0.51a</td><td>8.31±1.19a</td><td>160.00±4.39b</td><td>184.36±6.45a</td></tr><tr><td>30~40</td><td>7.31±0.11a</td><td>7.45±0.05a</td><td>65.79±5.55b</td><td>89.41±9.97a</td><td>5.54±1.23a</td><td>5.83±0.69a</td><td>145.38±11.16b</td><td>178.68±2.81a</td></tr></table></body></html>
+
+CR:稻虾共作模式;MR：中稻单作模式。同行数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR:integrated rice-crayfish system;MR:rice monoculture system. Values of the same index followed by different lettrs in a row are significantly different at $5 \%$ level.
+
+# 2.2.3对土壤还原性物质的影响
+
+水稻土中的活性还原物质(如 $\mathrm { F e } ^ { 2 + }$ ， $\mathbf { M } \mathbf { n } ^ { 2 + }$ 的变化涉及土壤的化学变化和生物化学变化，其高低反映了水稻土潜育化和质量退化程度[15]。由表5可知,中稻单作模式的土壤 $\mathrm { F e } ^ { 2 + }$ 、 $\mathrm { M n } ^ { 2 + }$ 和还原性物质总量分别为 $0 . 0 4 8 { \sim } 0 . 0 8 4 \ \mathrm { c m o l } { \cdot } \mathrm { k g } ^ { - 1 } , 0 . 0 1 7 { \sim } 0 . 0 2 8 \ \mathrm { c m o l } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $0 . 0 9 4 { \sim } 0 . 2 1 4 \ \mathrm { c m o l { \cdot } k g } ^ { - 1 }$ ，而稻虾共作模式的土壤 $\mathrm { F e } ^ { 2 + }$ /$\mathrm { M n } ^ { 2 + }$ 和还原性物质总量分别为 $0 . 0 7 3 { \sim } 0 . 1 0 0 ~ \mathrm { c m o l \cdot k g ^ { - 1 } } .$ $0 . 0 1 8 { \sim } 0 . 0 2 5 ~ \mathrm { c m o l { \cdot } k g ^ { - 1 } }$ 和 $0 . 1 8 4 { \sim } 0 . 2 8 6 \ \mathrm { c m o l { \cdot } k g ^ { - 1 } }$ ，参照潘淑贞的标准[16]，两种稻作模式的土壤均属于轻潜育型水稻土。
+
+随着土层的加深，土壤中 $\mathrm { F e } ^ { 2 + }$ 和 $\mathrm { M n } ^ { 2 + }$ 含量均呈先增加后下降的趋势，其中以 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层含量最高;中稻单作模式的土壤还原性物质总量随着土壤深度的增加呈逐渐下降的趋势，而稻虾共作模式则呈先增加后降低的趋势，其中以 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层含量最高。稻虾共作模式的土壤 $\mathrm { F e } ^ { 2 + }$ 含量在 $0 { \sim } 1 0 \ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 和$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 中均显著高于中稻单作模式，而在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层差异不显著；稻虾共作模式的土壤 $ { \mathrm { M n } } ^ { 2 + }$ 含量在$0 { \sim } 4 0 \ \mathrm { c m }$ 土层与中稻单作模式无显著差异；稻虾共作模式的土壤还原性物质总量在 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 与中稻单作模式无显著差异，但是在 $0 { \sim } 1 0 \ \mathrm { c m }$ 土层，稻虾共作模式的土壤还原性物质总量显著低于中稻单作模式，而在 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层，稻虾共作模式的土壤还原性物质总量显著高于中稻单作模式，可见长期稻虾共作模式可能会增加 $1 0 \mathrm { c m }$ 以下土层潜育化的风险。
+
+表5稻虾共作模式对不同土层深度土壤还原性物质的影响  
+Table 5Effectof integrated rice-crayfish system on soil reducing substances contents in dierent soil layers   
+
+<html><body><table><tr><td rowspan="2">土层深度 Soil depth (cm)</td><td colspan="2">(cmol-kg-1) Fe2+</td><td colspan="2">(cmol·kg-1) Mn2+</td><td colspan="2">还原性物质总量 Total amount of reducing substance (cmolkg-1)</td></tr><tr><td>MR</td><td>CR</td><td>MR</td><td>CR</td><td>MR</td><td>CR</td></tr><tr><td>0~10</td><td>0.062±0.009b</td><td>0.075±0.005a</td><td>0.022±0.004a</td><td>0.018±0.003a</td><td>0.214±0.032a</td><td>0.131±0.014b</td></tr><tr><td>10~20</td><td>0.062±0.007b</td><td>0.100±0.010a</td><td>0.020±0.003a</td><td>0.023±0.004a</td><td>0.171±0.024a</td><td>0.184±0.024a</td></tr><tr><td>20~30</td><td>0.084±0.010a</td><td>0.097±0.009a</td><td>0.028±0.005a</td><td>0.025±0.005a</td><td>0.141±0.022b</td><td>0.286±0.513a</td></tr><tr><td>30~40</td><td>0.048±0.007b</td><td>0.073±0.009a</td><td>0.017±0.002a</td><td>0.020±0.002a</td><td>0.094±0.016a</td><td>0.122±0.019a</td></tr></table></body></html>
+
+CR:稻虾共作模式;MR：中稻单作模式。同行数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR:integrated rice-crayfish system;MR:rice monoculture system.Values ofthe same index followed by different lettrs in arow are significantly different at $5 \%$ level.
+
+# 2.3 稻虾共作模式对水稻产量及经济效益影响
+
+由表6可知，稻虾共作模式水稻产量显著高于中稻单作模式，其水稻产量较中稻单作模式提高了$9 . 5 \%$ 。在不考虑土地租金和用工成本的情况下，稻虾共作模式总产值和利润分别为65858.4元 $\cdot \mathrm { h m } ^ { - 2 }$ 和50153.4元 $\cdot \mathrm { h m } ^ { - 2 }$ ，较中稻单作模式分别增加了46818.0元 $\cdot \mathrm { h m } ^ { - 2 }$ 和40188.0元 $\cdot \mathrm { h m } ^ { - 2 }$ ，增幅分别为$2 4 5 . 9 \%$ 和 $40 3 . 3 \%$ ；从产投比方面看，稻虾共作模式的产投比达到了4.2，较中稻单作模式提高了 $100 . 0 \%$ 可见稻虾共作模式不仅能够提高水稻产量，而且能够大幅提高农民的收入。
+
+# 3讨论
+
+土壤物理性状是影响作物生产的一个因素，稳定良好的土壤结构有利于植物生长。本研究表明，长期稻虾共作模式显著降低了 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 土层的土壤紧实度。克氏原螯虾具有很强的掘穴能力，在冬夏两季营穴居生活，所挖的洞穴可以提供适宜的温度以抵抗外界极端条件以及保持潮湿的空气环境[17]。由于稻田旋耕等措施使得表层土壤趋于一致，但是对深层土壤影响较小，因此稻-虾共作模式中克氏原螯虾洞穴的存在显著降低了深层土壤的土壤紧实
+
+表6稻虾共作模式对水稻产量及经济效益的影响 Table 6 Effect of integrated rice-crayfish system on rice yield and economic benefi   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="3">水稻Rice</td><td colspan="3">克氏原鳌虾Procambarus clarkii</td><td rowspan="2">总产值 Total output value</td><td rowspan="2">总投入 Total input value (¥·hm-2)</td><td rowspan="2">利润 Profit (¥·hm-2)</td><td rowspan="2">产投比 Ratio of output to input</td></tr><tr><td>产量 Yield (kg:hm-2)</td><td>产值 Output value (¥·hm-2)</td><td>投入 Input value (¥·hm-2)</td><td>产量 Yield (kg:hm-2)</td><td>产值 Output value Input value (¥·hm-2)</td><td>投入 (￥·hm-2) (¥·hm-2)</td></tr><tr><td>MR</td><td></td><td>7 933.5±748.1b 19 040.4±1795.5b</td><td>9 075.0</td><td></td><td></td><td></td><td>19 040.4</td><td>9 075.0</td><td>9 965.4</td><td>2.1</td></tr><tr><td>CR</td><td></td><td>8 691.0±460.6a 20 858.4±1105.5a</td><td>9 075.0</td><td>2 250.0</td><td>45 000.0</td><td>6 630.0</td><td>65 858.4</td><td>15 705.0</td><td>50 153.4</td><td>4.2</td></tr></table></body></html>
+
+CR：稻虾共作模式;MR:中稻单作模式。水稻季投入包括整地、育苗、化肥农药和收割等4项费用，价格分别为 $\overline { { { 1 \ 2 7 5 \ast \cdot \mathrm { h m } ^ { - 2 } } } }$ / $\overline { { 2 5 5 0 \sharp \cdot \mathrm { h m } ^ { - 2 } } }$ / $4 \ 3 5 0 \ \sharp \cdot \mathrm { h m } ^ { - 2 }$ 和 $9 0 0 ~ \mathrm { \sharp \cdot h m } ^ { - 2 }$ ；克氏原螯虾养殖季投入包括虾苗、饲料和稻田工程改造折旧等3项费用，价格分别为 $2 \ 2 5 0 \ { \scriptstyle \Psi \cdot \mathrm { h m } ^ { - 2 } }$ 、 $3 \ 0 0 0 \ { \scriptstyle \Psi \cdot \mathrm { h m } ^ { - 2 } }$ （204号 和 $1 \ 3 8 0 \ { \scriptstyle \sharp \cdot \ln \ j ^ { - 2 } }$ ；水稻按照 $2 . 4 ~ { \mathfrak { X } } { \cdot } \mathbf { k g } ^ { - 1 }$ 计算，克氏原螯虾按照 $2 0 \not \equiv \not \cdot \mathrm { k g } ^ { - 1 }$ 计算。同列数据后不同字母表示处理间差异达 $5 \%$ 显著水平。CR: integrated ricecrayfishsystem;M:icemonoculturesystem.Iputvalueofricesasonicudestheexpenseoflandpreparationgrosedlingfertiler $\&$ pesticide and harvesting, whose prices are $1 \ 2 7 5 \ \ast \cdot \mathrm { h m } ^ { - 2 }$ $2 \ 5 5 0 \ \Psi { \cdot } \mathrm { h m } ^ { - 2 }$ $4 \ 3 5 0 \ \Psi \cdot \mathrm { h m } ^ { - 2 }$ and $9 0 0 \sharp \cdot \mathrm { h m } ^ { - 2 }$ ,respectively. Input value of Procambarus clarkii cultivationseason includes theexpenseofyoungcrayfish,feedanddepreciationofpaddfieldsreconstruction,whosepricesare $2 \ 2 5 0 \ { \sharp \cdot } \mathrm { h m } ^ { - 2 }$ ， $3 \ 0 0 0 \ { \scriptstyle { \Psi } } { \cdot } \mathrm { h m } ^ { - 2 }$ and $1 \ 3 8 0 \ { \mathfrak { X } } { \cdot } \mathrm { h m } ^ { - 2 }$ ,respectively. The price of rice is $2 . 4 ~ \Psi \cdot \bf k g ^ { - 1 }$ ,and the price of Procambarus clarki is $2 0 \not \equiv \not \cdot \not \mathrm { k g } ^ { - 1 }$ ：
+
+度，而对表层土壤的紧实度影响不大。土壤团聚体是土壤结构最基本的单元，作为土壤结构重要的组成部分，对协调土壤中的水肥气热，维持和稳定土壤疏松熟化等有重要作用[18]。土壤团聚体稳定性很大程度上取决于有机、无机胶结物质对土粒胶结的能力[19]，而水稳性团聚体的形成主要依赖于有机物质的胶连作用[20]。本研究表明，长期稻虾共作模式下，土壤 $\mathrm { \ s > 0 . 2 5 ~ \ m m }$ 的团聚体数量、MWD值和GMD值较中稻单作模式均有不同程度的提高，其中MWD值和GMD值在 $0 { \sim } 1 0 ~ \mathrm { c m }$ 和 $3 0 { \sim } 4 0$ cm显著高于中稻单作模式，这可能由于长期稻虾共作模式下，土壤有机碳在 $0 { \sim } 4 0 \ \mathrm { c m }$ 累积量较中稻单作模式显著提高，从而增加了有机胶结物及其在团聚过程中的作用；Oades等[21]的研究表明，多糖物质也有助于土壤团粒结构的形成，克氏原螯虾的蜕壳中富含壳聚糖，壳聚糖有利于土壤 $\mathrm { \ K > 0 . 2 5 ~ \ m m }$ 水稳性团粒含量增加[22]，在一定程度上提高了水稳性团聚体的稳定性。土壤团粒分形维数与其结构及稳定性关系密切，即团粒结构粒径分布的分形维数越小，则土壤结构与稳定性越好，抗蚀能力越强[23]。本研究表明稻虾共作模式分形维数在 $0 { \sim } 2 0 \ \mathrm { c m }$ 土层较中稻单作模式呈降低趋势，这表明长期稻虾共作模式改善了 $0 \sim$ $2 0 ~ \mathrm { c m }$ 土层的土壤结构和稳定性，增强了团聚体的抗蚀能力，这应该与长期稻虾共作模式显著提高了抗侵蚀能力更强的大粒级水稳性团聚体含量有关。
+
+土壤有机碳的积累主要是由有机质输入与不同类型碳的矿化速率间的平衡决定[24]。本研究表明,稻虾共作模式的土壤总有机碳含量在0\~40cm土层均显著高于中稻单作模式。一方面由于稻虾共作模式采取冬泡养虾，稻田在冬闲季节长期处于淹水状态，土壤通气性较差，好氧性微生物的活性减弱，有机质分解速率相对较慢；另一方面克氏原螯虾未食用的饵料以及克氏原螯虾生长过程中所产生的虾壳、排泄物等补充，因此较采取冬干的中稻单作模式而言，稻虾共作模式更有利于土壤有机碳的固持。土壤C/N比既是衡量土壤碳、氮营养平衡状况的指标[25]，又是土壤氮素矿化能力和土壤有机质分解是否受土壤氮限制的重要标志[26]。本研究表明，稻虾共作模式的土壤C/N比随着土层加深呈增加趋势，且其土壤C/N比较中稻单作模式有升高的趋势，这说明稻虾共作模式的表层新输入的有机质或施肥后新形成的有机质有向土壤下层迁移的趋势，而且其土壤氮素的矿化作用低于中稻单作模式，有利于土壤有机碳的存储。本研究表明，相对于中稻单作模式，长期稻虾共作模式显著提高了 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层中土壤全钾的含量, $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层中土壤全氮的含量以及 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层全磷和速效磷含量。这可能一方面由于稻虾共作模式中克氏原螯虾未食用的饵料以及克氏原螯虾生长过程中所产生的虾壳、排泄物等补充均增加了土壤中养分的投入，另一方面克氏原螯虾的挖洞筑穴活动能够减小土壤容重，提高土壤孔隙度，增加土壤渗透率[27]，长期水分淋洗使得土壤中氮素和钾素不断向下迁移；而对于土壤磷素来说，一般情况下土壤中磷素除植物残体内存在少量有机态以外，其他主要为无机形态，外界进入的磷绝大多数吸附在表层，磷素在土壤中的移动性很小，向下淋溶少，因而在底层土壤中变异不大[28]，因此稻虾共作模式仅在 $0 { \sim } 1 0 \ \mathrm { c m }$ 显著提高了土壤全磷和速效磷的含量，这与吴建富等[29]研究结果一致。
+
+土壤速效养分在剖面中的垂直移动，主要受地表覆盖植被的吸收、温度、降水及土壤水分运动的影响。本研究表明，随着土壤深度的增加，土壤碱解氮、速效磷和速效钾含量均呈降低的趋势，该变化趋势体现了土壤的速效养分含量的分布是受明显的生物富集和表聚作用，这可能与植物地上部的枯枝落叶量以及根系的垂直分布有关，植物根系从深层土壤中吸收养分，然后再通过枯枝落叶等形式将部分养分归还于表层土壤并提供了丰富的养分源，而在深层土壤造成各养分逐渐减少[30]。一般情况下,土壤碱解氮与全氮，速效钾与全钾均呈极显著相关。本研究表明，长期稻虾共作模式显著提高了$0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤碱解氮的含量以及 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层土壤速效钾的含量。速效养分的含量水平与土壤性质有关，也受人为施肥活动的影响[31]，由于水稻孕穗期追施了 $50 \%$ 的钾肥，从而导致成熟后期土壤中速效钾的残留，使得稻虾共作模式 $0 { \sim } 2 0 \ \mathrm { c m }$ 土层的土壤速效钾含量与中稻单作模式无显著差异。
+
+还原性物质包括无机和有机体系两大类，前者主要有亚铁、亚锰和硫化物，后者则是一类成份复杂得多的有机还原性物质[32]。本研究表明，稻虾共作模式的土壤Fe2+含量在 $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层显著高于中稻单作模式，但其还原性物质总量则显著低于中稻单作模式，这可能与中稻单作模式 $0 { \sim } 1 0 \ \mathrm { ~ c m }$ 土层中有机还原性物质较多有关。稻虾共作模式一方面由于克氏原螯虾营底栖生活，其爬动、觅食、潜穴等活动扰动了水田土壤，起到中耕的作用，使得土壤中溶解氧含量增加，另一方面克氏原螯虾吃掉了稻田杂草和水下植物，增加了透光性，使得水体和土壤的温度升高，土壤氧气含量和温度的增加，会促进活性有机还原物质的氧化，降低了有机还原性物质。本研究表明，稻虾共作模式的土壤 $\mathrm { F e } ^ { 2 + }$ 含量在20\~30cm土层与中稻单作模式无显著差异，但显著提高了20\~30cm土层的土壤还原性物质总量，这可能一方面由于稻虾共作模式增加了 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层的有机碳含量，另一方面克氏原螯虾的生物扰动对 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层的溶解氧含量增加有限，在淹水条件下，较多有机物质在厌氧条件下生成的有机还原性物质，促进了还原性物质的累积。
+
+# 4结论
+
+1)长期稻虾共作模式显著降低了 $1 5 { \sim } 3 0 ~ \mathrm { c m }$ 土层的土壤紧实度，其在 $1 5 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 、 $2 5 \ \mathrm { c m }$ 和 $3 0 \ \mathrm { c m }$ 处的土壤紧实度较中稻单作模式分别降低了 $20 . 9 \% .$ $2 9 . 9 \%$ 、 $2 4 . 8 \%$ 和 $1 4 . 7 \%$ 0
+
+2)长期稻虾共作模式土壤 $> 0 . 2 5 ~ \mathrm { m m }$ 的团聚体数量、MWD值和GMD值在 $0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中较中稻单作模式均有不同程度的提高，其中MWD值和GMD值在 $0 { \sim } 1 0 \ \mathrm { c m }$ 和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 显著高于中稻单作模式;稻虾共作模式的团聚体分形维数在 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层均低于中稻单作模式。
+
+3)稻虾共作模式的土壤全钾和土壤C/N比随着土壤深度的增加均呈增加趋势；相对于中稻单作模式，长期稻虾共作模式显著提高了 $0 { \sim } 4 0 \ \mathrm { c m }$ 土层中土壤有机碳、全钾和碱解氮含量， $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层中土壤全氮含量， $0 { \sim } 1 0 \ \mathrm { c m }$ 土层全磷和速效磷含量以及$2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层速效钾的含量。
+
+4)稻虾共作模式显著提高了 $0 { \sim } 1 0 ~ \mathrm { c m }$ ！ $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 和 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层中土壤 $\mathrm { F e } ^ { 2 + }$ 含量；稻虾共作模式显著提高了 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层还原性物质总量，但降低了$0 { \sim } 1 0 ~ \mathrm { c m }$ 土层还原性物质总量。
+
+5)相对于中稻单作模式，稻虾共作模式水稻产量显著提高，增幅为 $9 . 5 \%$ ；稻虾共作模式总产值、利润和产投比较中稻单作模式分别增加了46818.0元 $\cdot \mathrm { h m } ^ { - 2 }$ （40188.0元 $\cdot \mathrm { h m } ^ { - 2 }$ 和 $100 . 0 \text{‰}$ （204
+
+# 参考文献 References
+
+[1]苏春华，曹志强．可持续的生态农业是我国农业现代化道 路的选择[J]．农业现代化研究,1999,20(6):325-328 Su C H, Cao Z Q. Sustainable ecological agriculture: the preferred road to agricultural modernization in China[J]. Research of Agricultural Modernization,1999,20(6):325-328   
+[2] 孙刚，盛连喜，千贺裕太郎．生物扰动在水层-底栖界面耦 合中的作用[J].生态环境,2006,15(5):1106-1110 Sun G, Sheng LX,Yutaro S.Advance in bioturbation effect in benthic-pelagic interface[J].Ecology and Environment,2006, 15(5): 1106-1110   
+[3]刘军，谢祥林，严维辉，等．克氏原螯虾稻田高效生态养殖 试验总结[J]．水产养殖,2011,32(5):37-38 Liu J,Xie X L, Yan W H, et al. Experimental summary of efficient ecological farming of Procambarus clarkii in rice fields[J].Aquaculture,2011,32(5): 37-38   
+[4]程慧俊．克氏原螯虾稻田养殖生态学的初步研究[D]．武汉: 湖北大学,2014:10-15 Cheng H J.A preliminary study on the ecology aspects culture of the crayfish (Procambarus clarkii) in rice fields[D].Wuhan: Hubei University,2014:10-15   
+[5]陈飞星，张增杰．稻田养蟹模式的生态经济分析[J]．应用 生态学报,2002,13(3):323-326 Chen F X,Zhang Z J.Ecological economic analysis of a rice-crab model[J]. Chinese Journal of Applied Ecology, 2002, 13(3): 323-326   
+[6] 曹志强，梁知洁，赵艺欣，等．北方稻田养鱼的共生效应研 究[J]．应用生态学报,2001,12(3):405-408 Cao Z Q,Liang ZJ,Zhao Y X,et al. Symbiotic effect of cultivating fish in rice field in north China[J].Chinese Journal of Applied Ecology,2001,12(3): 405-408   
+[7]孙刚，房岩，韩国军，等．稻-鱼复合生态系统对水田土壤 理化性状的影响[J]．中国土壤与肥料,2009(4):21-24 Sun G, Fang Y,Han G J,et al. Effects of rice-fish integrated ecosystem on physical and chemical properties of paddy soil[J]. Soil and Fertilizer Sciences in China,20o9(4):21-24   
+[8]侣国涵，赵书军，王瑞，等．连年翻压绿肥对植烟土壤物理 及生物性状的影响[J]．植物营养与肥料学报，2014，20(4): 905-912 Si G H,Zhao S J,Wang R,et al.Effects of consecutive Lu R K. The Analysis Method of Soil Agricultural Chemistry[M]. Beijing: China Agricultural Science and Technology Press,2000: 146-190   
+[10] 刘志光，于天仁．水稻土中氧化还原过程的研究(V)还原 性物质的测定[J].土壤学报,1962,10(1):13-28 Liu Z G, Yu TR. Studies on oxidation-reduction processes in paddy soils V.Determination of the reducing compounds[J]. Acta Pedologica Sinica,1962,10(1): 13-28   
+[11] Ellott E T. Aggregate structure and carbon, nitrogen,and phosphorus in native and cultivated soils[J]. Soil Science Society of America Journal,1986,50(3): 627-633   
+[12]依艳丽．土壤物理研究法[M]．北京：北京大学出版社, 2009:81-85 Yi Y L. Soil Physic Research Methods[M]. Beijing: Peking University Press,2009:81-85   
+[13] Kemper W D,Rosenau R C.Aggregate stability and size distribution[M]//Klute A.Methods of Soil Analysis.Part 1. 2nd ed. Madison: SSSA,1986: 425-442   
+[14] 杨培岭，罗远培，石元春．用粒径的重量分布表征的土壤 分形特征[J].科学通报,1993,38(20):1896-1899 Yang PL,Luo YP,Shi Y C.Soil fractal character token by particle mass distribution[J]. Chinese Science Bulletin,1993, 38(20): 1896-1899   
+[15]史衍玺，唐克丽．人为加速侵蚀下土壤质量的生物学特性 变化[J]．土壤侵蚀与水土保持学报,1998,4(1):28-34 ShiY X,Tang KL.Changes of biological characteristics of soil quality under man made accelerated erosion[J]. Journal of Soil Water Conservation,1998,4(1): 28-34   
+[16] 潘淑贞．长江中游不同潜育化土壤诊断指标探讨[J]．长江 流域资源与环境,1997,6(2):155-162 Pan S Z. On a quantitative index of identifying soils of various gleization types in the middle basin of the Yangtze River[J]. Resources and Environment in the Yangtze Basin, 1997, 6(2): 155-162   
+[17]Eshky A A，Atkinson R JA，Taylor A C.Physiological ecology of crabs from Saudi Arabian mangrove[J]. Marine Ecology Progress Series,1995,126:83-95   
+[18]王清奎，汪思龙．土壤团聚体形成与稳定机制及影响因素[J]. 土壤通报,2005,36(3):415-421 Wang Q K, Wang S L.Forming and stable mechanism of soil aggregate and influencing factors[J]. Chinese Journal of Soil Science,2005,36(3): 415-421   
+[19]聂军，郑圣先，杨曾平，等．长期施用化肥、猪粪和稻草对 红壤性水稻土物理性质的影响[J]．中国农业科学，2010, 43(7): 1404-1413 Nie J,Zheng S X, Yang Z P,et al. Efects of long-term application of chemical fertilizer,pig manure and rice straw on physical properties of a reddish paddy soil[J].Scientia Agricultura Sinica,2010,43(7):1404-1413   
+[20] Zhang B, Horn R. Mechanisms of aggregate stabilization in Ultisols from subtropical China[J].Geoderma,2001,99(1/2): 123-145   
+[21] Oades J M,Waters A G. Aggregate hierarchy in soils[J]. 土壤通报,2006,37(1):68-72 Hu X,Wang R X,Ao Y S.Effects of chitosan on soil physical and chemical properties[J]. Chinese Journal of Soil Science, 2006,37(1): 68-72   
+[23] 周刚，赵辉，陈国玉，等．花岗岩红壤区不同地类土壤抗蚀 性分异规律研究[J]．中国水土保持,2008(9):27-29 Zhou G, Zhao H, Chen G Y,et al. Differential rule of soil antierodibility in diferent land-use of granite red soil region[J]. Soil and Water Conservation in China,2008(9): 27-29   
+[24]吕国红，周莉，赵先丽，等．芦苇湿地土壤有机碳和全氮含 量的垂直分布特征[J]．应用生态学报,2006,17(3):384-389 Lü G H, Zhou L, Zhao X L,et al. Vertical distribution of soil organic carbon and total nitrogen in reed wetland[J].Chinese Journal of Applied Ecology,2006,17(3): 384-389   
+[25] 张春华，王宗明，居为民，等．松嫩平原玉米带土壤碳氮比 的时空变异特征[J]．环境科学,2011,32(5):1407-1414 Zhang C H,Wang Z M,Ju W M,et al. Spatial and temporal variability of soil C/N ratio in Songnen Plain maize belt[J]. Environmental Science,2011,32(5): 1407-1414   
+[26]董凯凯，王惠，杨丽原，等．人工恢复黄河三角洲湿地土壤 碳氮含量变化特征[J].生态学报,2011,31(16):4778-4782 Dong K K, Wang H, Yang L Y, et al. Change characteristics of soil carbon and nitrogen contents in the Yellow River Delta soil after artificial restoration[J].Acta Ecologica Sinica,2011, 31(16): 4778-4782   
+[27] Sarr M,Agbogba C,Russell-Smith A,et al. Effects of soil faunal activity and woody shrubs on water infiltration rates in a semi-arid fallow of Senegal[J].Applied Soil Ecology,2001, 16(3): 283-290   
+[28]吴明，邵学新，胡锋，等．围垦对杭州湾南岸滨海湿地土壤 养分分布的影响[J]．土壤,2008,40(5):760-764 Wu M, Shao X X,Hu F,et al. Effects of reclamation on soil nutrients distribution of coastal wetland in south Hangzhou Bay[J]. Soils,2008,40(5): 760-764   
+[29]吴建富，王海辉，刘经荣，等．长期施用不同肥料稻田土壤养 分的剖面分布特征[J].江西农业大学学报,2001,23(1):54-56 Wu JF, Wang HH,Liu JR,et al.The characters of the profile distribution of nutrients in rice fields after long-term application of different fertilizers[J].Acta Agriculturae Universitatis Jiangxiensis,2001,23(1): 54-56   
+[30] 艾尤尔·亥热提，王勇辉，海米提·依米提．艾比湖湿地土壤 速效钾空间变异性分析[J]．土壤通报,2015,46(2):375-381 Ghayrat G, Wang Y H,Yimid H. Spatial variability of soil available K concentrations in Ebinur lake wetland[J]. Chinese Journal of Soil Science,2015,46(2): 375-381   
+[31]黄绍文，金继运，杨俐苹，等．粮田土壤养分的空间格局及 其与土壤颗粒组成之间的关系[J]．中国农业科学，2002, 35(3): 297-302 Huang S W,Jin JY,Yang LP,et al. Spatial distribution of soil nutrient and relationship between soil nutrient and soil granule composition forgrain crop region[J]. Scientia Agricultura Sinica,2002,35(3): 297-302   
+[32]丁昌璞．水稻土中的还原性物质[J]．土壤学进展，1984, 12(2): 1-12 Ding C P. The reducing substances in paddy soils[J]. Progress in Soil Science,1984,12(2): 1-12

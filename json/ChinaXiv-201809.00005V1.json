@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "疏水纳米材料修复酞酸酯污染土壤及水体",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘帅1,2，潘响亮1,3(1．中国科学院新疆生态与地理研究所,新疆干旱区环境污染与生态修复重点实验室,新疆 乌鲁木齐830011;2．中国科学院大学,北京100049；3．浙江工业大学环境学院,浙江 杭州310014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新疆农田土壤及周边河湖沉积物中酞酸酯污染非常严重,由于干旱的气候条件,现有微生物修复技术往往难以适用治理新疆地膜造成的酞酸酯污染。因此，迫切需要研发酞酸酯污染土壤及水体的修复技术及材料。基于应用材料表面的强疏水性对酞酸酯的优异吸附性能的原理,采用多巴胺聚合将3种纳米颗粒( $\\mathrm { ~ B N } \\ 、 \\mathrm { S i O } _ { 2 } \\ 、 \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ )改性得到疏水性良好的材料,并通过SEM-EDS、ATR-FTIR光谱、Raman 光谱 $\\mathbf { \\nabla } ,  { \\mathrm { N } } _ { 2 }$ 吸附脱附曲线等对改性材料进行表征。以新疆地膜污染土壤中常见的酞酸酯、邻苯二甲酸二丁酯作为目标污染物进行吸附性能实验，结果表明：所研发的改性材料对邻苯二甲酸二丁酯具有良好的吸附效果,平衡吸附量可达 $2 1 8 . 6 3 ~ \\mathrm { m g } \\cdot \\mathrm { g } ^ { - 1 }$ ;吸附可以在 $2 2 0 ~ \\mathrm { m i n }$ 内达到平衡,吸附动力学符合准二级动力学方程;吸附等温线用Langmuir与Freundlich模型均能良好的拟合,后者的相关性更好;并在 $\\mathrm { p H } ( 2 \\sim 1 2 )$ 与氯化钠盐度（高达 $4 \\%$ )下,材料就能保持良好的吸附效果。该材料在修复干旱区酞酸酯污染土壤、沉积物及水体中具有广阔应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地膜污染；土壤；水体；酞酸酯；疏水改性；纳米颗粒；吸附；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆耕地面积 $( 9 . 8 6 \\times 1 0 ^ { 7 } ~ \\mathrm { h m } ^ { 2 }$ )居全国之首，其耕地普遍使用地膜，是我国地膜覆盖面积最大、用量最多的省区。由于长期大量使用地膜，加上地膜的难降解性和低回收率，新疆地膜残留量高达253.2$\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,是全国平均水平的4～5倍,成为我国“白色污染”最严重的地区。土壤残留地膜造成严重的邻苯二甲酸酯(即酞酸酯)污染，对农产品安全威胁巨大(1)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "酞酸酯是一种常用的塑化剂，属于疏水性有机污染物，同时也是一种典型的内分泌干扰物质。其与制品的结合不牢，容易从产品逃逸到环境中，从而对空气、水、沉积物以及土壤造成污染[2]。在干旱区，由于干旱的气候条件现有的微生物修复技术往往难以适用地膜造成的酞酸酯污染，因此，迫切需要研发酞酸酯污染土壤及水体的修复技术及材料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同的技术方法被应用到邻苯二甲酸酯的去除中[3-4],由于化学结构的稳定性,邻苯二甲酸酯在环境中难被微生物所降解[5-6],化学作用[7-9]对其降解作用也不明显，还存在着产生二次污染的风险与成本高的弊端[10]。相比较而言,物理方法中的吸附法在去除邻苯二甲酸酯中具有许多优势，成本低、效率高、便于操作、不产生二次污染等。近年来，吸附法被广泛的应用，各种新型与改性的传统材料被用于邻苯二甲酸酯的去除(11-14]。Wang 等[15]使用银杏叶基和梧桐叶基活性炭去除邻苯二甲酸二丁酯，最大去除率可达 $9 7 . 4 6 \\%$ 与 $9 7 . 3 6 ~ \\%$ 。Zhou等[16]将介孔硅酸钙接枝聚丙烯无纺布，应用到吸附水中邻苯二甲酸二丁酯,平衡吸附量可达 $5 4 . 8 ~ \\mathrm { ~ m g ~ } \\cdot$ （$\\mathbf { g } ^ { - 1 }$ 。但是,合成的成本与难度限制了这些材料的使用。具有疏水亲油性质的材料在有机污染物，尤其是疏水性有机污染物去除修复更具优势[17],疏水作用可以更大限度的吸附污染物，达到更好地修复效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纳米材料在污染物的修复中具有广泛的应用，这是由于纳米材料的高比表面积、充足的结合位点等的独特性能。而且，随着磁性纳米材料的使用,难以回收的问题也被解决，纳米材料被更加广泛的应用到环境污染物的修复中，通常是用于吸附与降解污染物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氮化硼(Boronnitride，BN)纳米材料，通常被认为是具有良好的亲油性与控油性的优良吸附剂[18]四氧化三铁( $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ )则作为磁性颗粒，既可以增加材料的吸附位点与构造微纳结构，又可以使材料便于回收[19-21] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验采用仿生贻贝一步法疏水改性纳米颗粒，使用多巴胺聚合的方式将三种不同种类的纳米颗粒结合，构造出微纳结构，同时将十二烷基硫醇也浸渍到纳米颗粒的表面降低材料的表面能，从而得到疏水亲油的改性材料。实验选择一种常见的邻苯二甲酸酯－邻苯二甲酸二丁酯（Dibutyl phthalate，DBP)作为目标污染物进行研究，包括材料对水体中邻苯二甲酸二丁酯的吸附动力学、吸附等温线，以及在不同盐碱度下的吸附性能。基于吸附技术的土壤污染修复技术实质上是在土壤溶液中进行的，因此，以相对简单的水溶液体系检验所研发的材料对DBP的吸附性能。研究成果对干旱区土壤酞酸酯污染的修复具有实际应用意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验部分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验设置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮化硼颗粒(BN)购买于沃凯试剂。盐酸多巴胺、十二烷基硫醇购买于麦克林试剂；三氯化铁L $\\mathrm { ' } \\mathrm { F e C l } _ { 3 } \\cdot 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ ）、乙酸钠 $\\mathrm { ( N a A c } \\cdot 3 \\mathrm { H } _ { 2 } \\mathrm { O }$ ）、乙二醇、正硅酸乙酯(TEOS）、氨水、异丙醇、四氯化碳、乙醇、氯化钠、盐酸、氢氧化钠均购买于天津永晟精细化工有限公司，分析纯直接使用，没有进行进一步的纯化。甲醇、正己烷、乙腈为色谱纯级别试剂,购买于 Sigma-aldrich。实验中邻苯二甲酸二丁酯标准曲线使用的色谱纯级别试剂，购买于中国计量科学研究院，吸附实验使用的邻苯二甲酸二丁酯是分析纯级别，购买于天津致远化学试剂有限公司。去离子水是使用本实验室制水机（Milli-Q，USA），电阻率是18.2$\\mathrm { M } \\Omega \\cdot \\mathrm { c m } ( 2 5 ^ { \\circ } \\mathrm { C } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1修复材料的制备二氧化硅( $\\mathrm { S i O } _ { 2 }$ )纳米颗粒的制备[22]：将 $3 \\ \\mathrm { m L }$ 正硅酸乙酯 TEOS 与 $1 0 ~ \\mathrm { m L }$ 氨水加入到 $5 0 ~ \\mathrm { m L }$ 异丙醇中搅拌 $6 \\textup { h }$ ,然后继续加3mL正硅酸乙酯与 $5 ~ \\mathrm { m L }$ 氨水，继续搅拌 $1 2 \\mathrm { ~ h ~ }$ 。反应结束后离心，用乙醇与去离子水洗涤2次，最后 80$\\mathrm { { ^ \\circ C } }$ 干燥备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 纳米颗粒的制备[23]：将 $\\mathrm { F e C l } _ { 3 } \\ \\cdot \\ 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ $( 1 . 3 5 ~ \\mathrm { g } , 5 ~ \\mathrm { m m o l } )$ 分散在 $4 0 ~ \\mathrm { m L }$ 乙二醇中形成澄清透明溶液，接着往透明溶液加入 $3 . 6 \\mathrm { ~ g ~ }$ 醋酸钠并剧烈搅 $3 0 ~ \\mathrm { m i n }$ 。而后将混合溶液密封在 $5 0 ~ \\mathrm { m L }$ 反应釜中于 $2 0 0 \\ \\mathrm { { ^ \\circ C } }$ 下加热 $2 4 \\mathrm { ~ h ~ }$ ，冷却后，最后将黑色产物用乙醇清洗3\\~5次(借助磁铁)后在 $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 下干燥6h，得到 $1 0 0 \\sim 3 0 0 ~ \\mathrm { n m }$ 的 $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 微球。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { B N } / \\mathrm { S i O } _ { 2 } / \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 的制备[24]：将 $2 0 ~ \\mu \\mathrm { L }$ 正十二烷基硫醇加到 $2 0 ~ \\mathrm { m L }$ 等体积比水乙醇溶液,调节 $\\mathrm { \\ p H }$ 为7.0,然后将 $1 0 0 \\ \\mathrm { m g N P s }$ （质量比BN: $\\mathrm { F e } _ { 3 } { \\mathrm { 0 } } _ { 4 } { \\mathrm { : } } \\mathrm { S i } { \\mathrm { 0 } } _ { 2 } =$ 2:3:5)， $4 0 ~ \\mathrm { m g }$ 盐酸多巴胺加入搅拌 $1 2 \\mathrm { ~ h ~ }$ ,反应结束后用磁铁回收产物，洗涤 $. 8 0 ~ \\mathrm { ^ { \\circ } C }$ 干燥 $6 \\textup { h }$ 。1.2.2修复材料的表征方法改性材料的微观结构通过扫描电子显微镜（scanningelectron micro-scope，Zeiss Super $5 5 \\mathrm { V P }$ ，Oberkochen，德国)来观察表征。观察前用离子溅射仪（E－1045，日立)真空镀金2次，并使用附带的能谱分析仪(EDS)进行样品的表面元素分析。ATR-FTIR光谱通过傅里叶变换衰减全反射红外光谱仪（Bruker，Berlin，Tensor27，德国)测试得出，扫描波长范围 $4 \\ 0 0 0 \\sim 6 0 0$ $\\mathrm { c m } ^ { - 1 }$ ,分辨率为 $4 ~ \\mathrm { c m } ^ { - 1 }$ ,扫描16 次。Raman 光谱通过拉曼成像光谱仪（XperRam Compact，Nanobase,韩国）测试。全自动物理化学吸附分析仪（Autosrob-1，康塔，美国)分析材料的比表面积与孔隙度，脱气温度为 $1 5 0 \\ \\mathrm { { ^ circ C } }$ ，脱气 $^ { 1 2 \\mathrm { ~ h ~ } }$ ，然后在分析站选 $\\mathbf { N } _ { 2 }$ （纯度 ${ \\geqslant } 9 9 . 9 9 9 \\%$ )在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 进行分析，最后选择介孔模式对数据进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用 $\\mathrm { \\ p H }$ 计（梅特勒G20 型电位滴定仪，中国）进行 $\\mathrm { \\ p H }$ 值的测试，使用电导率仪（雷磁DDBJ-350型)对盐度进行测试。称量吸附剂使用 $1 / 1 0 0 \\ 0 0 0$ 天平（梅特勒－托利多）。1.2.3修复材料的吸附性能及盐碱度的影响配置 $5 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 的 DBP水溶液（甲醇体积分数不大于$1 \\%$ ）：首先用甲醇配置 $5 \\ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 的DBP母液，然后用水稀释至 $5 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用批量实验的方式进行吸附性能测试：将5$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 的DBP水溶液量取 $5 0 ~ \\mathrm { m L }$ 加入到 $1 0 0 ~ \\mathrm { m L }$ 玻璃三角瓶中，加入适量的吸附剂，放入摇床中进行实验,实验条件为 $2 5 \\mathrm { ~ \\textdegree C ~ } , 1 5 0 \\mathrm { ~ r ~ } \\cdot \\mathrm { ~ m i n ~ } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测试前的样品处理,将经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 有机相滤膜过滤的 $5 ~ \\mathrm { m L }$ 溶液进行分散液液相微萃取[25]（分散液是 $1 ~ \\mathrm { m L }$ 乙腈,萃取液是 $5 0 ~ \\mu \\mathrm { L }$ 四氯化碳溶液)后进行测试。将萃取后样品过 $0 . 2 2 ~ \\mu \\mathrm { m }$ 有机滤膜后均使用气相质谱联用仪，GC-MS（Agilent $7 8 9 0 \\mathrm { B } / \\$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5977AGC/MS)定量定性分析样品。色谱条件：配备 $\\mathrm { H P } - 5$ 毛细管柱( $( 3 0 ~ \\mathrm { m } \\times 0 . 2 5 ~ \\mathrm { m m } \\times 0 . 2 5 \\mu \\mathrm { m } )$ 和CTC自动进样器（Agilent7693），氮气（纯度 $>$ $9 9 . 9 9 9 \\%$ )为载气,载气流速为 $1 . 2 \\mathrm { \\ m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ,进样口温度为 $2 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ ,接口温度为 $2 8 0 ~ \\mathrm { { ^ { \\circ } C } }$ ,非脉冲不分流模式进样，进样体积为 $1 . 0 ~ \\mu \\mathrm { L }$ ,程序升温为 $5 0 \\ \\mathrm { ^ q C }$ 保留 $1 ~ \\mathrm { m i n }$ ,再以 $3 0 \\mathrm { ~ \\textdegree ~ { ~ \\cdot ~ } ~ } \\operatorname* { m i n } ^ { - 1 }$ 的速率升温到280$\\mathrm { { ^ \\circ C } }$ ,并保留 $1 ~ \\mathrm { m i n }$ ，然后以 $8 \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ C ~ } \\cdot \\mathrm { ~ m i n ~ } ^ { - 1 }$ 升到 $2 8 0 \\ \\mathrm { { ^ circ C } }$ ，保留 $3 ~ \\mathrm { m i n }$ ,溶剂延迟 $5 \\ \\mathrm { m i n }$ 后 $2 8 5 \\mathrm { ~ \\textdegree C }$ 运行，总过程为 $2 0 ~ \\mathrm { m i n }$ 。质谱条件：离子源温度为 $2 3 0 \\ \\mathrm { { ^ circ C } }$ ,检测电压为 $1 . 0 1 2 \\ \\mathrm { k V }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有实验均做平行实验与空白对照实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1材料的表征结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1所示，扫描电镜照片可以看出不同尺寸的纳米颗粒结合聚集在一起， $7 0 0 \\ \\mathrm { n m }$ 大小的微球是$\\mathrm { S i O } _ { 2 }$ ， $3 0 0 \\ \\mathrm { n m }$ 左右的微球是 $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ， $3 0 0 \\ \\mathrm { n m }$ 左右的圆板片则是BN。这些纳米颗粒形成了粗糙的微纳次级结构。通常认为，具有粗糙的微纳结构是改性材料具有超疏水性能一个重要的因素。材料可以提供充足的活性位点，纳米颗粒的堆积可以产生更多的孔状结构，这均有益于材料对污染物的吸附。而从能谱结果可以发现3种纳米颗粒的元素均能检测到，说明改性材料是由3种纳米颗粒结合而成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2红外光谱可以得出，改性材料在 $1 3 0 0 \\sim$ $1 ~ 5 0 0 ~ \\mathrm { c m } ^ { - 1 }$ 处的峰发生明显的变化，这是由于氮化硼纳米颗粒引起的，在波数为 $1 ~ 4 2 1 ~ \\mathrm { { c m } } ^ { - 1 }$ 是B-N键的伸缩振动[26]。 $7 8 1 ~ \\mathrm { c m } ^ { - 1 }$ 处的峰是二氧化硅颗粒引起的,典型的 Si-O 特征峰。 $6 6 9 ~ \\mathrm { { c m } } ^ { - 1 }$ 处的峰的改变是由Fe-O引起的，说明四氧化三铁纳米颗粒的存在。在 $3 ~ 0 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ 附近的改变是 $\\mathrm { N H } _ { 2 }$ 基团引起的，说明多巴胺在聚氨酯海绵的表面聚合成膜。2318$\\mathrm { c m } ^ { - 1 }$ 处的峰是由 S-H引起的，说明十二烷基硫醇的负载。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拉曼光谱表明，在 $5 3 2 ~ \\mathrm { n m }$ 下材料的荧光信号较强，这与多巴胺和十二烷基硫醇的使用有关，但是仍能在 $1 ~ 3 6 5 ~ \\mathrm { c m } ^ { - 1 }$ 处检测出 BN 的特征信号[27]。以上结果均能表明材料是由 $\\mathrm { B N } \\ 、 \\mathrm { S i O } _ { 2 } \\ 、 \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 } \\ 3$ 种纳米颗粒构成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改性材料的 $\\mathbf { N } _ { 2 }$ 吸附脱附曲线属于BDDT分类系统中IV型吸附等温线。从图3可以看出，回滞环不闭合，证明有微孔存在，这与BJH模型计算得出的孔径为 $1 . 8 1 0 4 \\ \\mathrm { n m }$ 相一致,孔容为 $0 . 0 0 8 ~ \\mathrm { c m } ^ { 3 }$ ：$\\mathbf { g } ^ { - 1 }$ 。材料的孔径分布曲线表明,材料的孔不均一。经过BET模型计算得出的比表面积只有 $5 . 2 6 3 \\ \\mathrm { m } ^ { 2 }$ ：$\\mathbf { g } ^ { - 1 }$ ,这可能因测量在介孔模式下进行造成了一定的误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b49fd7dfb02f4b7753efe6bc0bf5244dae1efb6b1b751642ed9c4b0468e5d9b.jpg",
+        "img_caption": [
+            "图1改性材料的扫描电镜照片低倍(a)高倍(b)与能谱分析(c)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c82b7f158f80eeb032385889e601f553585dcef10b67be2628e22c5a6999683b.jpg",
+        "img_caption": [
+            "Fig.1 SEM-EDS analysis of the modified adsorbent ",
+            "图2纳米颗粒的ATR-FTIR光谱图(a)与拉曼光谱图(b)",
+            "Fig.2The ATR-FTIR spectra(a）and the Raman spectra(b）of the nanoparticles "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 吸附性能测试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同环境介质下改性材料对DBP的吸附性能图4所示，曲线是不同使用量的改性材料对邻苯二甲酸二丁酯的吸附量与去除率的影响，实验条件下材料的最大单位吸附量为 $2 1 8 . 6 3 \\mathrm { \\ m g \\cdot { \\ g } ^ { - 1 } }$ ，说明改性后的材料对水体的邻苯二甲酸二丁酯具有良好的吸附效果,邻苯二甲酸二丁酯的平衡吸附容量随着吸附剂用量增大而减少，但是邻苯二甲酸二丁酯的去除率则随着吸附剂用量增加而增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b99e953948a421acd23cee5eccd219601d5392b13c401d45ca9d4fb84c12e478.jpg",
+        "img_caption": [
+            "图3 $\\mathbf { N } _ { 2 }$ 吸附脱附曲线与孔径分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/71222766ecdc1a105e184c55c7aab019fea5f289a58960c4ff3bbacd0840ca50.jpg",
+        "img_caption": [
+            "Fig.3 $\\mathbf { N } _ { 2 }$ adsorption-desorption curves and size distribution ",
+            "Fig.4Effect of the dosage on adsorption of DBP to the adsorbent "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2改性材料的动力学实验与吸附等温线图5所示，改性材料在 $2 2 0 \\ \\mathrm { m i n }$ 内吸附达到平衡，平衡吸附量是 $2 8 . 4 4 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ ,数据经过拟合符合准二级动力学方程[28]。拟合结果：其中准一级动力学方程拟合出的吸附平衡量值为 $8 . 0 1 \\ \\mathrm { m g \\cdot g ^ { - 1 } }$ ,与实验实际值差别较大，并且相关性很差，只有0.803。相比较而言，准二级动力学方程拟合处的平衡吸附量为 $2 8 . 4 0 \\mathrm { \\ m g \\cdot { \\ s ^ { - 1 } } }$ ,与实际值相似,相关性良好,相关系数为0.998。以上说明改性材料可以较快并且有效的吸附去除水体中的邻苯二甲酸二丁酯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6与表1所示，从吸附等温线看，曲线的趋势是凸曲线，说明是利于吸附的。将数据采用常用模型进行拟合(29],均能良好的拟合,其中Langmuir 曲线的拟合最大吸附量与实际相似，也具有良好的相关系数，但是结合 $\\mathbf { N } _ { 2 }$ 吸附脱附曲线可知，材料可能并不是完全的Langmuir型吸附。并且Freundlich曲线的拟合相关系数更高，表明改性材料对DBP的吸附不是吸附位一致的单层吸附，被吸附的粒子也不是完全独立的[11,14,30],这与改性材料表面负载了不同种类的纳米颗粒相对应。另外，符合Linear线性吸附等温线的拟合也较好，可以说明吸附过程中疏水作用力起到重要作用[31)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3氯化钠盐度的影响由图7可以看出，改性材料在不同氯化钠浓度下可以保持较高的污染物吸附量，这说明氯化钠不影响材料的吸附性能。在氯化钠低浓度 $( 0 \\sim 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 } ,$ )与高浓度( $\\left( 1 0 \\sim 3 5 ~ \\mathrm { g } \\cdot \\right)$ ${ \\mathrm { L } } ^ { - 1 }$ ）范围内分别保持吸附性能的稳定，但是两个范围间有所差异，这可能是由于污染物在不同氯化钠浓度下的溶解度不一致造成的[14]。将不同氯化钠浓度的离子强度与盐度对吸附量做拟合处理，结果表明，盐度与吸附量的相关性更大，说明盐度比离子强度对材料吸附邻苯二甲酸二丁酯的影响大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/15e45f2536ae5f49d262c6ef0f558a6e2e417e17c8401abab61935f61d0ae899.jpg",
+        "img_caption": [
+            "图4不同使用量的改性材料对邻苯二甲酸二丁酯污染的吸附",
+            "图5 吸附动力学",
+            "Fig.5Adsorption kinetics of DBP to the adsorbent "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc2f30596b6d71f6e37414761bae6eb5fe6cdcdeef7b5262ecd88ed525cf449f.jpg",
+        "img_caption": [
+            "图6吸附等温线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/842f37a7d72787c2e93f2ed3aa74802a32ce301ea94d708c61348cfaca652e07.jpg",
+        "table_caption": [
+            "表1吸附等温线拟合参数",
+            "Tab.1The isothermal parameters of adsorption of DBP to the adsorbent "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Qm/</td><td colspan=\"3\">L模型</td><td colspan=\"3\">F模型</td></tr><tr><td>KL (mg·L-1)</td><td>R²</td><td>KF</td><td>1/n</td><td>R²</td><td>Kd</td></tr><tr><td>246.9</td><td>0.07</td><td>0.95</td><td>16.70</td><td>0.87</td><td>0.95</td><td>13.82</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4pH的影响图8表明，在pH为2\\~12范围内，改性材料对邻苯二甲酸二丁酯的吸附效果保持稳定，均具有良好的吸附效果。说明在不同酸碱度的环境下，改性材料可以保持性能稳定。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0bd4fcb539da037651d17ba8f4f3399119b88ff996a1c4cad876fae52e1d892.jpg",
+        "img_caption": [
+            "图7改性材料在不同氯化钠浓度下对DBP的吸附Fig.7Effect of salinity on adsorption of DBPto the adsorbent"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da29a019651d0211e6c0f5971571e40399f509abb496114e6ce9b4a9e3afbf40.jpg",
+        "img_caption": [
+            "Fig.6Isotheral adsorption of DBP to the adsorbent ",
+            "图8改性材料在不同 $\\mathrm { \\ p H }$ 下对 DBP 的吸附Fig.8Effect of $\\mathrm { \\ p H }$ value on the adsorption of DBPto the adsorbent"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用一步法，聚多巴胺作为粘合剂将3种纳米颗粒结合在一起，增加粗糙度，同时使用正十二烷基硫醇降低表面能，制得疏水性能良好的改性材料。改性材料对水体中邻苯二甲酸二丁酯具有良好的吸附性能，并且可以方便的回收。其最大吸附量约达$2 2 0 \\mathrm { \\ m g \\cdot \\ g ^ { - 1 } }$ ,并且 $\\mathrm { \\ p H }$ 与盐度、离子强度对吸附影响不大。本研究是在相对简单的水溶液体系中完成的，还需要以复杂的土壤溶液进行更深入的研究。在实际应用中，由于研发的材料具有磁性,在修复土壤后可以利用磁性回收修复材料，达到修复土壤的目的。另外，所研发的材料也可以负载到大尺寸材料上，再对土壤、沉积物中酞酸酯进行修复回收。该材料在修复干旱区酞酸酯污染土壤、沉积物及水体中具有广阔应用前景。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Wang J,Lv S,Zhang M,et al.Effects of plastic film residues on occurrence of phthalates and microbial activity in soils[J].Chemosphere,2006,151:171.   \n[2]Xu G,LiF,Wang Q.Occurrence and degradation characteristics of dibutyl phthalate（DBP）anddi-（2- ethylhexyl）phthalate （DEHP）in typical agricultural soils of China[J].Science of the Total Environment,2008,393(2-3）:333-340.   \n[3] Abdel Daiem MM,Rivera UtrillaJ,Ocampo-PérezR,etal.Environmental impact of phthalic acid esters and their removal from water and sediments by different technologies-a review[J].Journal of Environmental Management,2012,109:164-178.   \n[4] Akbariadergani B,Saghi MH,Eslami A,et al.Removal of dibutyl phthalate from aqueous environments using a nanophotocatalytic Fe,Ag-ZnO/VIS-LED system:Modeling and optimization[J].Environmental Technology,2017,39(12）:1566-1 576.   \n[5]Chao W L,Lin C M,ShiungI I,et al. Degradation of di-butylphthalate by soil bacteria[J].Chemosphere,2006,63（8）:1 377 $- 1 \\ 3 8 3$ ：   \n[6]Lee S M,Lee JW,Koo B W,et al. Dibutyl phthalate biodegradation by the white rot fungus,polyporus brumalis[J].Biotechnology & Bioengineering,2007,97(6）:1 516-1 522.   \n[7]Dong W,Duan X,He X,etal.Degradation of dibutyl phthalate （DBP）by $\\mathrm { U V } - 2 5 4 ~ \\mathrm { n m / H } _ { 2 } \\mathrm { O } _ { 2 }$ photochemical oxidation: Kinetics and influence of variousprocess parameters[J].Environmental Science & Pollution Research,2016,23（23）:1-9.   \n[8]Wang D,Duan X,He X,et al.Degradation of dibutyl phthalate （DBP）by $\\mathrm { U V } - 2 5 4 ~ \\mathrm { n m } / \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ photochemical oxidation; Kinetics and influence of various process parameters[J].Environmental Science $\\&$ Pollution Research International,2016,23(23）:23 77.   \n[9]Bajt O,Mailhot G,Bolte M.Degradation of dibutyl phthalate by homogeneous photocatalysis with Fe(III） in aqueous solution[J]. Applied Catalysis B Environmental,2001,33(3）:239-248.   \n[10]Daiem M M A,Rivera-Utrilla J,Ocampo-Perez R,et al. Environmental impact of phthalic acid esters and their removal from water and sediments by different technologies:A review[J].Journal of Environmental Management,2012,109:164-178.   \n[11］何音韵,全凤,胡芸,等.疏水改性 MCM-41 材料对邻苯二甲 酸二丁酯的吸附[J].水处理技术,2014（12）:48-51.［He Yinyun,Quan Feng,Hu Yun,et al.Adsorption of dibutyl phthalate by hydrophobically modified MCM-41 materials[J].Technology of Water Treament,2014(12）:48 -51.]   \n[12]Bouhamidi Y,Kaouah F,Nouri L,et al.Adsorption of diethyl and dibutyl phthalates onto activated carbon produced from Albizia julibrissin pods: Kinetics and isotherms[J]. International Journal of Environmental Science $\\&$ Technology,2017,14(2）:271- 284.   \n[13]Li H,Wang P,Liu W.Removal of dibutyl phthalate（DBP）from aqueous solution by adsorption using vanilin-modified chitosan beads（CTSV）[J].Desalination & Water Treatment,2015,56 (2):452-462.   \n[14］王龙,高旭,郭劲松,等. $\\mathrm { M g / A l }$ 水滑石对水中痕量邻苯二甲酸 酯的吸附性能〔J].重庆大学学报（自然科学版）,2010,33 (7）:91-96.[Wang Long,Gao Xu,Guo Jinsong,et al. Adsorption of trace phthalates on $\\mathrm { M g / A l }$ hydrotalcite from aqueous solution [J]. Jourmal ofChongqing University,2010,33（7）:91-96.]   \n[15]Wang Z,Chen L.Adsorption characteristics of dibutyl phthalate from aqueous solution using ginkgo leaves-activated carbon by chemical activation with zinc chloride[J].Desalination & Water Treatment,2015,54(7）:1969-1 980.   \n[16] Zhou X,Wei J,Zhang H,et al.Adsorption of phthalic acid esters （PAEs）by amphiphilic polypropylene nonwoven from aqueous solution:The study of hydrophilic and hydrophobic microdomain[J]. Journal of Hazardous Materials,2014,273(3）:61 -69.   \n[17]Wang Z,Elimelech M,Lin S.Environmental applications of interfacial materials with special wettability[J].Environmental Science & Technology,2016,50(5）:2 132.   \n[18]Lei W,Portehault D,Liu D,et al.Porous boron nitride nanosheets for effective water cleaning[J].Nature Communications,2016,4 (2) :1 777.   \n[19］罗明森.磁性 $\\mathrm { P d } / \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 纳米颗粒催化电芬顿技术对有机污染 物的降解研究[D].北京：中国地质大学,2014.[Luo Mingsen. Pd Supported on Magnetic $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ Nanoparticles for Efficient Electro-Fenton Degradation of Organic Contaminants[D].Beijing:China University of Geosciences,2014.]   \n[20]李晓燕,宋娟,张升晓,等.聚多巴胺包覆的 $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 去除水体中 的染料[J].环境工程学报,2015,9(12）;5 807-5812.[Li Xiaoyan,Song Juan,Zhang Shengxiao,et al. Polydopamine biopolymer coated magnetic nanoparticles for dyes removal from solution [J].Chinese Journal of Environmental Engineering,2015,9（12）: 5 807 -5 812.]   \n[21]Luo X G,Zhang L.High effctive adsorption of organic dyes on magnetic celllose beads entrapping activated carbon[J]. Journal of Hazardous Materials,2009,171(1-3) :340 -347.   \n[22] Chen SL,Peng D,Yang G H,et al. Characteristic aspects of formation of new particles during the growth of monosize silica seeds [J].Journal of Coloid & Interface Science,1996,180(1）:237 - 241.   \n[23]Deng H,Li X,Peng Q,et al. Monodisperse magnetic single-crystal ferrite microspheres.[J].Angewandte Chemie,2005,44（18）： 2 782.   \n[24]Zhu Q,Pan Q.Mussel-inspired direct immobilization of nanoparticles and application for oil-water separation[J].Acs Nano,2014,8 (2) :1 402.   \n[25］陈飞.分散液液微萃取-气相色谱法测定海水中的邻苯二甲 酸酯[J].福建分析测试,2014（3）:33-37.[Chen Fei.Dispersive liquid-liquid microextraction and gas chromatography for determination of phthalic acid esters in sea water[J].Fujian Analysis & Testing,2014（3）:33-37.]   \n[26]周莹莹,孙润军,张昭环,等.氮化硼合成的工艺及性能研究 [J].硅酸盐通报,2017,36（1）:186-190.[Zhou Yingying,Sun Runjun,Zhang Zhaohuan,et al.Process and properties of boron nitride synthesis[J].Buletin of the Chinese Ceramic Society,2017, 36(1):186 -190.]   \n[27]Gorbachev R V,Riaz I,Nair RR,et al.Hunting for monolayer boron nitride:Optical andramansignatures[J].Small,2011,7（4）: 465-468.   \n[28] Simonin JP.On the comparison of pseudo-first order and pseudosecond order rate laws in the modeling of adsorption kinetics[J]. Chemical Engineering Journal,2016,300:254-263.   \n[29]Qiu H,Lv L,Cai B,et al. Critical review inadsorption kinetic models[J].Journal of Zhejiang University-Science A(Applied Physics & Engineering）,2009,10(5）:716-724.   \n[30]Jiang JQ,Cooper C,Ouki S.Comparison of modified montmorillonite adsorbents（Part I）:Preparation,characterization and phenol adsorption[J].Chemosphere,2002,47(7） :711-716.   \n[31］近藤精一,石川达雄,安部郁夫,等.吸附科学[M].北京：化学 工业出版社,2O06.[Kondo Seiichi,Ishikawa Tatsuo,Abe Yoshio, et al.Adsorption Science[M]. Beijing: Chemical Industry Press, 2006.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Effects of Salinity and pH Value on Adsorption of Dibutylphthalate in Mulching Farmland Soil to Nanomaterial Adsorbent ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIU Shuai1,2，PAN Xiang-liang1,3 (1．Xinjiang Key Laboratoryof Environmental Pollutionand Bioremediation,Xinjiang Instituteof Ecologyand Geography,Chinese Academy of Sciences,Urumqi 830011,China ; 2. University of Chinese Academy of Sciences,Beijing 100049,China; 3.College of Environment,Zhejiang University of Technology,Hangzhou 31oo14,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Plastic film mulching is the most intensively applied in agricultural production in Xinjiang Uygur Autonomous Region,butaserious phthalate polution is caused in farmland soil and lakeor river sediments.Applicationof thetraditional bioremediation technologies is stronglychallenged inthisarea due totheextremely aridclimate.It is urgentto developtheremediation technologies and materials suitable inarid region.In this study,three kinds of nanoparticles ( $\\mathrm { ' B N } , \\mathrm { S i O } _ { 2 } \\ \\mathrm { a n d F e } _ { 3 } { \\mathrm { O } } _ { 4 } ,$ ）were modified to be as the hydrophobic material surface by polymerization of dopamine based on considering the strong hydrophobicity of materials with a strong adsorption capacity for phthalate.The materials were characterized by SEM-EDS,ATR-FTIR spectroscopy and Raman spectroscopy.The results showed thattheadsorbent has an excellent adsorptioncapacity for dibutyl phthalate,theequilibrium adsorption capacity could be as high as $2 1 8 . 6 3 ~ \\mathrm { { m g } \\cdot { g } ^ { - 1 } }$ ,and an equilibrium could be achieved within 22O minutes. The adsorption kinetics folows the pseudo-secondorder kinetic equation.Both the Langmuir and Freundlich models could beusedto satisfactorilydescribe the Kinetics.A strong dibutylphthalate adsorption capabilitycouldbe maintained under $\\mathrm { p H }$ value range from 2 to 12 and at a salinity of $4 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ . This nanomaterial adsorbent has a great potential in remediation of phthalate pollution of farmland soil and lake or river sediments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:field film pollution ; phthalate ;hydrophobicity ; nanoparticle ;adsorption; Xinjiang ",
+        "page_idx": 6
+    }
+]

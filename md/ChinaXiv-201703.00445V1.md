@@ -1,0 +1,147 @@
+# VM型脉冲管制冷机数值模拟与实验研究
+
+王亚男1,2 赵月晶1,2 戴 巍1王晓涛罗二仓1(1.中国科学院理化技术研究所低温工程学重点实验室，北京100190;2．中国科学院大学，北京100049)
+
+摘要本文介绍了由VM 型热压缩机驱动的脉冲管制冷机基本结构、数值模拟与实验研究。热压缩机借鉴VM制冷机产生压力波动的方式，即依靠室温与冷源之间的温度差产生压力波动，驱动低温级脉冲管制冷机。利用液氮温区制冷机为热压缩机提供所需要的冷量，避免使用低温液体带来的不便。低温级脉冲管制冷机的回热器与脉管采用U型布置，调相机构采用小孔气库加双向进气方式。这种结构不使用有阀压缩机，可以产生低频压力波动，保证回热器在低温区高效工作。在原有结构的基础上，改造热压缩机回热器尺寸与填料，使用 Sage 软件进行了整机模拟，对调相机构进行优化，考察其在不同的运行频率、平均压力、排出器位移下的制冷性能。对改造后的脉冲管制冷机进行了初步的实验研究，获得 14.4K无负荷制冷温度。
+
+关键词VM；热压缩机；小孔；双向进气；数值模拟中图分类号：TK123 文献标识码：A 文章编号:0253-231X(2017)03-0470-05
+
+# The Numerical Simulation and Experimental Study on a VM Type Pulse Tube Cryocooler
+
+WANG Ya-Nan1,2 ZHAO Yue-Jingl XDAI Wei1 WANG Xiao-Tao1 LUO Er-Cang $^ 1$ (1.Key Laboratory of CryogeniChinese Academy of Sciences，Beijing 100190, China; 2. Graduate Universityhinese Academy of Sciences， Beijing 100190, China)
+
+AbstractThis paper mainlySintroduces the structure, numerical simulation and experimental study on a VM type thermaly-driven pulse tube cryocooler. The thermal compressor， similar to that in VM cryocooler,utilzes temperature difference between room temperature and cold heat sink to generate pressure wave. Two cryocoolers working at liquid nitrogen temperature are thermally coupled with the cold end of this thermal compressor to providethe required precooling power, preventing the inconvenience from cryogenic fluid. Low temperature stage regenerator and pulse tube are arranged with U type structure,and the orifice andyth@double-inlet are used as phase shifters. This cryocooler consists of a thermal compressor instead of valved compressor and operates with a low frequency, which is beneficial to improving regenerator performance at low temperature.Based on the previous study, the regenerator for therimal compressor is modified, and numerical simulations on the pulse tube cryocooler are performed The dependence of system performance on frequency, average pressure and displacer displacement amplitude are investigated in the simulation. Finally, preliminary experimental study were performed and a lowest no-load temperature of 14.4 K were achieved. Key wordsVM; thermal compressor; orifice; double-inlet; numerical simulation
+
+# 0引言
+
+随着科技事业的不断发展，低温技术占据的地位愈加关键。小型低温制冷机是低温技术的重要分支之一，在低温电子、红外器冷却、超导滤波、核磁成像、强电超导等场合具有重要应用。目前使用比较广泛的小型低温制冷机主要有：Joule-Thomson(J-T)制冷机、Gifford-McMahon(GM)或GM型脉冲管制冷机、Stirling或Stirling 型脉冲管制冷机。J-T节流制冷机冷头没有运动部件，振动小，可靠性高；但由于节流是典型的不可逆过程，内禀效率低[1，且对工质洁净度要求非常高。G-M或GM型脉冲管制冷机技术发展成熟，但冷端振动大、体积大、需要定期维护，采用GM压缩机与配气阀门提供压力波，具有内禀的不可逆损失。Stirling 型制冷机基于 Stirling循环，具有潜在的高效性，但其通常工作在高频工况下，回热器在低温区尤其到液氮温区损失很大，效率较低。为了获得极低温区，需要采用三级及三级以上结构，系统复杂，热效率低[2-4]。
+
+针对不同应用领域对液氮低温制冷机提出的更高要求，诸如系统紧凑、效率高、振动噪音小、寿命长、免维护周期长等，借鉴VM制冷机产生压力波动的方式[5]，基于脉冲管制冷机冷端无运动部件、结构简单、可靠性高、寿命长等优点，文献[6]发展了干式(cryogen-free)VM型热压缩机驱动的脉冲管制冷机。其中，热压缩机的排出器由动磁式直线电机驱动，依靠室温与冷源之间的温度差产生压力波动；两台液氮温区斯林型脉冲管制冷机提供热压缩机所需要的冷量，有利于优化控制热压缩机低温端温度和实现结构上的紧凑性；脉冲管制冷机由热压缩机产生的压力波动驱动。该制冷机运行频率低、驱动功小、结构简单，对于发展液氮温区高效紧型制冷机具有重要的研究意义。 山
+
+本文在原有结构的基础上，修改热压缩机回热器以提高其输出压比。对修改后的制冷机进行整机模拟，考察其在不同频率、平均压力以及排出器位移下的性能，并对制冷机进行了初步的实验研究。
+
+# 1系统结构介绍
+
+在文献[7]工作的基础上，对热压缩机回热器进行改造以提高其输出压比。VM型热压缩机驱动脉冲管制冷机结构如图1所示，基于Sage软件的整机模拟程序如图2所示，图2左半部分为热压缩机模型，右半部分为制冷机模型。改造方案基于的思路是；先单独计算低温脉冲管制冷机，提取其入□阻抗幅值与相位角；将其阻抗带入热压缩机程序匹配计算；以效率最高为目标函数 (效率 $\ l =$ 输出声功/预冷量)，以回热器热端气体位移幅值/回热器长度 $\leqslant 2 0 \%$ 为限制条件，优化回热器的直径与长度；在最优直径与长度下，优化回热器不锈钢丝网填料的目数与丝径。经过计算，最终选定其参数如表1所示，回热器填充80目不锈钢丝网，丝径为 $1 2 0 ~ { \mu \mathrm { m } }$ 。
+
+![](images/a50367a160efc76461a7a86817e80739d89a02714e123d05b8aa90eb8b2017fb.jpg)  
+图1VM型热压缩机驱动脉冲管制冷机结构1 Schematic of VM type pulse tube cryocooler  
+图2VM型脉冲管制冷机整机数值模型示意图  
+Fig.2 Numerical model of VM type pulse tube cryocooler
+
+P 正 T Pstdy6 6psdy↑ 38mGt 13mGt mGt7 20Qstdy 7 mGt mGt y46 26 Qstdy 25mGt← →mg:4444 mG →Qstdy4545Qstdy →mGt43 43mGt mGt33   
+pressure source exchanger-hot regenrator HoCu2 coldhead tube bundle   
+46 22 mg1 →mGt1117mGt →16 33mcCna3434 →mGt3535mGt →m36 d →mGt22 1 mGt25   
+exchanger-cold ColdTube space-Cold compliance tube Secondary Ambient tube bundle Heat Exchanger   
+16Pphsr← →Pphsr1712mGt →mgt1317Pphsr →mGt12 42mGt← →mGt41 41mgt←   
+47 21 18mt □ 1 Phsr Displacer AmbientTube space-hot sharp-edged orifice generic cylinder   
+21Qstdy →Qstdy20 36mGt← →mGt37 37m← →mGt38   
+AmbientHeatSource 热压缩机 Double Inlet tube bundle 低温级脉管制冷机
+
+# 表1热压缩机运行参数及回热器结构尺寸
+
+Table 1 The operating parameters of thermal compressor and structure dimensions of regenerator   
+
+<html><body><table><tr><td>Pm/MPa</td><td>f/Hz</td><td>D/mm</td><td>L/mm</td></tr><tr><td>2.5</td><td>3</td><td>30</td><td>150</td></tr></table></body></html>
+
+# 2整机数值模拟
+
+在确定的热压缩机回热器结构尺寸上，对VM热压缩机型脉冲管制冷机进行整机模拟计算，考察不同运行频率、平均压力与热压缩机排出器位移下制冷机的性能。制冷机主要部件的尺寸如表2所示。
+
+# 表2主要部件参数
+
+Table 2 Parameters of main components   
+
+<html><body><table><tr><td>主要部件</td><td>参数</td></tr><tr><td>制冷机</td><td>D=15 mm,L=210 mm,HoCu2,</td></tr><tr><td>回热器</td><td>Porosity=0.37</td></tr><tr><td>脉管</td><td>D=8 mm，L=380 mm</td></tr></table></body></html>
+
+# 2.1不同平均压力下的计算
+
+该计算中，保持频率 $3 ~ \mathrm { H z }$ ，排出器位移7mm，热压缩机冷热端温度分别为 $3 0 0 ~ \mathrm { K }$ 和90K改变平均压力，在不同平均压力下优化小孔秘双向进气阀门开度，获得最低制冷温度。平均压力在 $1 . 2 \mathrm { M P a }$ 到$2 . 5 \ \mathrm { M P a }$ 之间变化。
+
+图3显示的是制冷机最低制冷温度随平均压力的变化趋势。随着平均压力的增大，无负荷制冷温度降低。考虑到He-4物性随压力急剧变化，以及系统耐压强度的限制，其平均压力不能过高。
+
+![](images/f996be75bd4afcc767ac23a9c0d920d4543cf641159b8d5ae3926e1654e06962.jpg)  
+图3最低制冷温度随平均压力的变化 Fig.3 Dependency of lowest no-load temperature on the average pressure   
+图4显示的是热压缩机压力波动幅值以及制冷
+
+机回热器热端、冷端的声功随平均压力的变化趋势。其中，热端声功为图1所示的 $\scriptstyle { E _ { 2 , \mathrm { R e g H o t } } }$ ，冷端声功为图1所示的 $E _ { \mathrm { 2 , R e g C o l d } }$ 。随着平均压力的增大，热压缩机压力波动幅值增大，输出到回热器热、冷端声功也增大。
+
+![](images/d90833e1e0786a5fac56dada2b18c01eaeb67c308d8a20ffca998f52e7deaa59.jpg)  
+图4热压缩机压力波动幅值与制冷机回热器热端、冷端声功 Fig.4 Dependency of pressure wave amplitude and acoustic power at warm and cold end for low stage regenerator on the averagepressure
+
+图5显示的是热压缩机冷端所需预冷量随平均压力的变化趋势。随着平均压力的升高，所需预冷量不断增大，与输出声功随平均压力的变化趋势一致。
+
+![](images/f54fec2ee37669a8de50ed7aa4cbd000368d9891734fb7da249e46db1a602947.jpg)  
+图5热压缩机所需预冷量随平均压力的变化(冷端温度固定为 $9 0 ~ \mathrm { K }$ ）  
+Fig.5 Dependency of required precooling power on the average pressure
+
+图6显示的是制冷机回热器与脉管冷、热端阻抗相位角随平均压力的变化趋势。回热器理想的相位关系是在其中部某处压力波与质量流同相[8]。从图中可以发现，目前回热器中相位偏离理想相位关系，主要原因在于脉管内部相位变化跨度大，由其空体积导致，这对日后制冷机的改进与优化具有一定指导意义。
+
+![](images/88077c266866c4b3805b6919a6c6f8b3eb1941e632f97d7abd2828b59d266573.jpg)  
+图6制冷机回热器、脉管冷热端阻抗相位随平均压力的变化 Fig.6 Dependency of phase difference between pressure wave and mass flow rate at warm and cold end for low stage regenerator and pulse tube on the average pressure >
+
+# 2.2不同频率下的计算
+
+制冷机平均压力 $2 . 5 ~ \mathrm { M P a }$ ，排出器位移7mm，热压缩机冷热端温度分别为300K和90K，在不同频率下优化小孔和双向进气阀门度，获得最低制冷温度。
+
+图7显示了制冷机最低制冷温度随频率的变化  
+趋势。随着频率的升高，无负荷温度先减小后增大,  
+在 $4 ~ \mathrm { H z }$ 下达到最低。从图8发现，热压缩机压力波  
+动幅值与制冷机回热器热端声功均随着频率的升高  
+而增大。相比其他情况， $1 \ \mathrm { H z }$ 下由于输出声功急剧  
+减小，无负荷温度迅速升高。7
+
+![](images/9ba195c410123055f54424001728988c8ffa4e408605ad385363a13d99f87b7e.jpg)  
+图7最低制冷温度随频率的变化 Fig.7Dependency of lowest no-load temperature on the frequency
+
+![](images/eea1820ab039127ec2b7ec38b8e0b94b09f82882f7ce8ffa8d571c56d3568745.jpg)  
+图8热压缩机压力波动幅值与制冷机回热器热端、冷端声功随频率的变化
+
+有
+
+随着频率从 $1 ~ \mathrm { H z }$ 变化到 $6 ~ \mathrm { H z }$ ，输出声功增大的同时，所需预冷量从8.12W变化到 $5 8 . 1 7 ~ \mathrm { W }$ 。由于预冷量是由相对固定输入功率的脉管制冷机提供，所需预冷量增大使得热压缩机冷端温度升高，减少了其工作温差，对性能有一定负面影响。
+
+# 2.3不同排出器位移下的计算
+
+制冷机平均压力 $2 . 5 ~ \mathrm { M P a }$ ，频率 $3 ~ \mathrm { H z }$ ，热压缩机冷热端温度分别为 $3 0 0 ~ \mathrm { K }$ 和 $9 0 ~ \mathrm { K }$ ，排出器位移在$5 { \sim } 7 ~ \mathrm { m m }$ 之间变化。在不同的排出器位移下，优化小孔与双向进气阀门开度，获得最低制冷温度。
+
+图 $9 \mathrm { \sim } 1 \mathrm { \beta }$ 显示，排出器位移从 $7 \mathrm { m m }$ 至 $\mathrm { 5 ~ m m }$ 变化，最低制冷温度升高，热压缩机压力波动幅值减小，输出到制冷机部分的声功减小，所需预冷量从31.25W减小到17.88W。排出器位移减小，扫气容积减少，必然会产生上述结果。
+
+![](images/c2ebf4223747156a7d85d505b53d13811de2e867b86a1a98cae85f95063fc3fd.jpg)  
+Fig.8 Dependency of pressure wave amplitude and acoustic power at warm and cold end for low stage regenerator on the frequency   
+图9最低制冷温度随排出器位移的变化  
+Fig.9 Dependency of the lowest no-load temperature on the displacer displacement amplitude
+
+![](images/15feed69413e7e2704825feeb730e01cd2803288fe55c136f2ddfe829612ccf0.jpg)  
+图10热压缩机压力波动幅值与制冷机回热器热端、冷端声功随排出器位移的变化  
+Fig.10 Dependency of pressure wave amplitude and acoustic power at warm and cold end for low stage regenerator on the displacer displacement amplitude
+
+# 3实验研究
+
+本文在改造热压缩机回热器后进行了初步的整机实验研究。温度计分布如图1所示。T1\~T8为预冷用制冷机冷头和热桥各点温度（T1和TT4和T8 分别对称布置),T9为低温级冷头温度T10为低温级脉管冷端温度，T11、T12分别为脉管1/3,2/3处温度，热压缩机运行参数如表所示。
+
+厂X
+
+表3热压缩机运行参数  
+Table 3 The operating parameters of thermal compressor   
+
+<html><body><table><tr><td>f/Hz</td><td>Pm/MPa</td><td>△P/MPa</td><td>Pr</td></tr><tr><td>3</td><td>2.2</td><td>0.21</td><td>1.22</td></tr></table></body></html>
+
+实验过程中，先开启预冷用压缩机，待其预冷温度T2，T7(即热压缩机冷端温度)达到70K附近时开启热压缩机，低温级制冷机开始工作。需要指出的是，实验中发现当排出器位移超过 $6 \mathrm { m m }$ 时，热压缩机有异响，因此实验中最大位移均控制在 $6 \mathrm { m m }$ 以内。通过不断调节小孔、双向进气阀门的开度，最终获得了 $1 4 . 4 \mathrm { K }$ 的无负荷制冷温度，预冷用制冷机提供的预冷量大约为 $4 9 . 1 \mathrm { W @ 6 3 . 7 K }$ 。由于实验过程中小孔、双向进气阀门的开度需要不断的优化调节，目前只进行了初步的实验研究，其它工况的实验还在继续进行当中。
+
+# 4结论
+
+本文基于Sage对VM型脉冲管制冷机进行了整机计算，考察其在不同运行频率、平均压力、排出器位移下无负荷制冷温度、压力波动幅值、声功等的变化规律。在最优的小孔与双向进气阀开度下，无负荷制冷温度随频率的增大先降低后升高，存在一个最佳濒率；随平均压力的增大而降低；随排出器位移的增大而降低。在改造后的实验装置上进行了初步的实验验证，在平均压力 $2 . 2 \mathrm { M P a }$ ，频率 $3 \ : \mathrm { H z }$ ，排出器位移 $6 ~ \mathrm { m m }$ ，热压缩机热端温度 $3 0 0 ~ \mathrm { K }$ ，冷端温度 $9 0 ~ \mathrm { K }$ 的运行工况下，获得了 $1 4 . 4 \mathrm { ~ K ~ }$ 的无负荷制冷温度，与相同工况下的理论计算结果相当，进一步的实验研究在进行当中。
+
+# 参考文献
+
+[1]植晓琴.深低温区斯特林脉管制冷机理及损失特性研究[D].杭州：浙江大学，2014
+
+ZHI Xiaoqin. Investigation on the Refrigeration Mechanism and Loss Characteristics of Stirling Pulse Tube Cryocooler at Low Temperatures [D]. Hangzhou: Zhejiang University, 2014   
+[2] ZhiX Q,HanL,Dietrich M,et al.A Three-Stage Stirling Pulse Tube Cryocooler Reached 4.26 K with He-4 Working Fluid[J].Cryogenics,2013,58:93-96   
+[3]Quan J,Liu YJ,LiuD,Liang JT,et al.4K High Frequency Pulse Tube Cryocooler Used For Terahertz Space Application [J].Engineering Thermophysics,2014,59(27): 3490-3494   
+[4] Dotsenko V V,Delmas J, Webber R J,et al. Integration of a 4-Stage4K Pulse Tube Cryocooler Prototype with a Superconducting Integrated Circuit [J].IEEE Transactions Qn Applied Superconductivity, 2009,19(3):1003-1007   
+[5]Matsubara Y,KobayshiH,Zhou SL.Thermally Actuated 3He Pulse Tube Cooler [C]//Cryocoolers 11. Springer US, 2002:273-280   
+[6]DaiW,Wang X T,Zhao YJ,et al.Characteristics of a VM Type Thermal Compressor for Driving a Pulse Tube Cooler [C]//Cryocoolers 18,2014:289-295   
+[7]赵月晶，王晓涛,戴巍等.VM液氮温区制冷机中热压缩机性 能的数值模拟与实验研究[J].低温工程.2015，12(5)：11- 15 ZHAO Yuejing,WANG Xiaotao,DAI Wei, et al. The Numerical Simulation and Experimental Study on Thermal Compressor for VM Type Pulse Tube Cryocooler Working at Liquid Helium Temperature [J].Cryogenics(Chinese), 2015,12(5): 11-15   
+[8] Radebaugh R,Lewis M,Luo E C.Inertance Tube Optimization for Pulse Tube Refrigerators [C]//Advances in Cryogenic Engineering,2006,823(1): 59-67

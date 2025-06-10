@@ -1,0 +1,219 @@
+# DOI: 10.5846/stxb201601250175
+
+王晓军，郭妙玲，王兵.流域风化层雨洪调蓄生态机理.生态学报，2017,37（13）：4610-4618.WangXJ，GuoML，WangB.EcologicalmechanismsofregolithstomwaterstorageActaEcologicaSicaO17,7（13）：4610-4618
+
+# 流域风化层雨洪调蓄生态机理
+
+王晓军\*，郭妙玲，王兵山西大学环境与资源学院，太原030006
+
+摘要：风化层是陆地表面经各种风化作用而形成的疏松堆积层,是雨洪调蓄的天然场所,对流域水资源管理有着重要意义。从复杂开放系统论的观点出发,结合近年来国内外对风化层雨洪调蓄特征的研究,分析了风化层在流域雨洪调蓄中的生态机理。主要研究了风化层的概念、风化层雨洪调蓄的组成与时空结构;解释了风化层集水、蓄水、净水、养水、供水功能等方面的雨洪调蓄功能;分析了风化层与地形地貌、生境、地质、土壤、大气、能量以及人类活动等流域环境要素的生态关系。研究表明：（1)流域风化层具有重要的雨洪调蓄特征,是由其特有的物质组成与时空结构特征决定的,正常发挥风化层的雨洪调蓄功能,流域中的水为健康的“活水”,不同流域风化层的物质组成和结构的时空变化极大,其雨洪调蓄功能的发挥机制也极其复杂,采用常规定量研究方法几乎不可能掌握其机理,应采用复杂开放系统理论和方法开展研究；（2)风化层是流域系统的一个子系统,与其它流域环境要素之间是相互联系和相互作用的,过去我们通常采用的“排水范式"解决局部问题以期改善整个流域系统问题的治理思路是行不通的,已不适应今后的风化层雨洪调蓄生态学研究,还极可能衍生新的系统问题;（3)将流域视为一个复杂开放系统,国外流域生态学家提出了生态结构(Ecostructures）的概念,强调流域系统自身生态能力的发挥,将土壤-植被-大气连续体(SVA)研究扩展到风化层-生境-能量连续体（RHE)的生态耦合研究。因此建议,采取“边学边做"（Learning by Doing）的流域适应性管理,应当是今后流域风化层雨洪调蓄管理的重要方向。
+
+关键词：风化层；雨洪调蓄；生态结构；生态功能；生态机理
+
+# Ecological mechanisms of regolith stormwater storage
+
+WANG Xiaojun\*，GUO Miaoling，WANG Bing School of Environmental and Resources ofShanxi University,Taiyuan O3ooo6,China
+
+Abstract：Regolith isalose aumulation layer formed by weatheringoverlandsurface.Itisanatural structure for storm water storage，and has significant efectsonthe managementof waterresources inwatershed.Basedonrecentresearch home and abroad,the Complex Open System Theory wasemployed in the present study to analyze the ecological mechanism of regolith stormwater storage.Thematerial compositionandspatio-temporal structureofregolith with respect tostormwater storage arediscussed inthispaper.The stormwater storage functionsof regolith，including water colection，storage, purification，nourishment，and supplyareexplained，andthe ecological relationships betweenregolithand watershed environmental elements，suchas the topography，habitat，geology，soil，atmosphere，energy，and humanactivities were explored.Thisstudyshows that:（1）thestoragecharacteristicsof stormwaterof theregolitharecruciallinfluenced byits unique mater and spatio-temporal structure.If the stormwater storage function of theregolithcould come into play，this watercould change intohealthy“living water.”The spatio-temporal variationof thematerial compositionand structureof theregolith indiferent watersheds issignificantlydistinctandthefunctional mechanismof theregolithstormwaterstorage is extremelycomplex.Theuseof quantitative methods to study these mechanisms is notfeasible；therefore，Complex Open System Theoryshould beemployed.（2）Regolith isasubsystemof watershed，which is connected toand interacts with otherenvironmental features inthe watershed.Theearlier methodsofregulation thatusedthe“DrainageParadigm”to solve problemspartiallyinorder to improve the wholewatershedsystematical conditionareno longer applicable，since these methodsdonotadapttolater ecological studiesofregolith stormwater storage.Itismuch more likelythatnewsystematical problems would arise.（3）The watershed isconsidered tobe a complex open system，and watershed ecologists in other countries have put forth the“Ecostructures”concept.It emphasizes the development of the watershed system's ecological capabilities.Therefore，the focusof thestudieson watershed stormwater storageshouldbe expanded from the SoilVegetation-Atmospherecontinuum totheRegolith-Habitat-Energycontinuum.The present studysuggeststhatweadopt “Learning byDoing”management methods for watershed adaptability，which wouldbean important direction for research on the management of watershed regolith stormwater storage in future.
+
+Key Words: regolith； stormwater storage ； eco-structure；ecological function； ecological mechanism
+
+水是自然资源管理的重要对象，近十多年来国内外的研究与实践越来越关注对雨水和洪水的管理，认识到雨洪调蓄的重要性[-2],但对雨洪调蓄场所的认识仍不足。实际上,在一个健康的流域中,近地表水主要含蓄于地表下的陆地表层中,即风化层（Regolith）[3」。过去对于风化层的研究主要集中在地质学领域[4」,近年来,随着水文生态学研究的兴起,国外一些科学家开始探索风化层调蓄雨洪的生态机理,认识到风化层雨洪调蓄功能的优劣是区域生态系统健康发展的关键[5-6]。
+
+过去的观点认为,进入流域中的雨洪应通过工程措施将其加速排出,可称为水资源管理中的“排水范式"（Water Drainage Paradigm）[7]。雨洪未得到有效蓄集与利用,会导致流域中水量匮缺,流域生态系统退化,我们常见的工程措施如排干湿地以发展农业,河道渠化以开发滩涂。与之相对,流域水资源管理的“蓄水范式”（Water Storage Paradigm）[7]是指认识流域的自然生态机理,并以此为指向,采取生态措施,维持和发挥流域良好的生态功能,努力使雨洪贮存在流域中[8」。从排水范式到蓄水范式的转换,其实质是由工程性思维向生态学思维的转换[9]。在新的流域水管理范式下,风化层的雨洪调蓄功能无疑在流域生态系统中发挥着极其重要的作用。 1
+
+在一个流域中,风化层不是孤立的封闭系统,其内部的物质组成和结构极其复杂,采用常规方法对其雨洪调蓄功能的研究往往力不能及,而且,风化层与其所处的系统环境要素间关系休戚相关(如;地形地貌、生境、地质、土壤、大气、能量以及不断强化的人类活动)。因此,流域风化层是一个复杂开放系统。Grus Lukasz认为,复杂开放系统具有多学科性、复杂性、动态性和不确定性的特征,对其研究只能采用复杂开放系统理论[10],如:国际上兴起的复杂适应系统（Complex Adaptive System，CAS）研究就是这种研究的一个重要方法[11]。
+
+为此,本文从复杂开放系统论的观点出发,结合近年来国内外对流域风化层雨洪调蓄特征的研究进展,分析风化层在流域雨洪调蓄中的生态机理。
+
+# 1风化层的概念
+
+风化层是从地表至未风化基岩的所有物质的地球表层。在生态学和地理学术语中,风化层是一层覆盖在坚硬岩石之上的疏松、非均质材料,包括岩石碎屑、矿物颗粒和其它地表沉积,覆于未蚀变的坚实基岩之上[12]。研究发现,风化层的深度随风化进程的强度与持续时间而改变,在潮湿的热带地区,风化岩石层最大可发育到几百米深,其下限是风化前锋,表层是土壤层,土壤层是增加了有机物质的简单风化层,并支持根系植物的生长[13]。降水后,流域风化层如同巨大的"天然水库”,阻止和滞缓降雨与洪水流出流域,调节和蓄存雨洪,有重要的雨洪调蓄功能[14],是收集和蓄存雨洪的主要场所。
+
+目前对风化层中水分行为的研究多来自水文学家,他们关心水流在风化层中的运动规律,尤其关注多孔介质的渗流、地下径流与地表径流的相互转换关系、风化层对潜水水质的影响等[15]。而土壤学和生态学家则关注地表以下包气带及其不饱和水的水分行为，尤其关注生物活动频繁的植物根系层（风化层表层的土壤）[16]。目前,对风化层雨洪调蓄的生态特征研究仍极为有限。
+
+# 2风化层雨洪调蓄的物质组成与时空结构
+
+# 2.1风化层调蓄雨洪的物质组成
+
+风化层包括破碎和风化的基岩、腐泥土、土壤、有机堆积物、冰川沉积物、崩积层、冲积层、蒸发沉积岩、风成沉积物和地下水。总之,它包括“一切从新鲜岩石到新鲜空气间的物质”[17-18]。
+
+风化层除发生了化学反应的破碎岩石外,还包含水、生物群落和气体。当岩石发生由一般到强烈的化学反应时,会形成一个日益变化的基岩剖面——一个相对于表层的原位风化剖面（原位风化层)[15]。风化碎屑可能因地表侵蚀而移动,或者移动至地下,与地下水和生物群不断地发生物理变化,这种侵蚀可能形成搬运到别处的风化层地形(运移风化层)。勘探矿床中用描述风化层的方法来识别存在的搬运物质变得越来越重要,许多最近的研究致力于发现矿化作用下风化层的覆盖物质[17]。
+
+# 2.2风化层雨洪调蓄的时空结构
+
+从垂向(地表—基岩)来看[19-20],风化层结构从上而下是地表到基岩风化层,其雨洪调蓄行为与土壤水分行为类似,主要表现为非饱和水状态,水分动态受基质势与重力势等总水势的影响[21]；一些区域也会有饱和水层,出露形成地表溪流,在时间尺度上表现出水位的升降,与地表径流相互交换;浅层地下水位也随水饱和程度升降[22]。
+
+从纵向(上游—下游)来看[19-20],一方面,虽然流域地表形态各异,但地下不透水基岩岩层会有高低起伏,并不一定会与地表形态一致,风化层会形成天然的集水区（Retention Basin）和滞水区（Headland）；另一方面，由于风化层物理组成的差异(如疏松程度和透水性能)等因素,使得自上游到下游不同区域的调蓄雨洪能力存在差异[23]。
+
+从横向(左岸—右岸)来看[19-20],流域中的水保持着适度的向上游和两侧的水分压力,是风化层中积极的水分运动行为的保证[23]。中国俗语中所说的“山有多高,水有多高”,实际就是这个道理。自然滨岸带拥有大量物质,能为物种的多样性提供基础[24]。风化层中水文运动与河岸生境之间相互联系,相互作用[25]。风化层中不同的水文运动会产生河岸不同的植物带分布[26]；不同河岸生境也会对风化层水文运动产生影响[27],如,在存在大量植物群落的河岸,由于摩擦力作用使流域中的水产生能量分散,干扰快速水流,起到滞缓雨洪的作用。
+
+从时间变化来看[19-20],风化层雨洪调蓄的结构有年际变化和季节变化。（1)年际变化上,风化层中的水量随年际变化而改变,这些变化在不同尺度上影响生境[28]。当产生大尺度干扰,如发生暴雨时,风化层会将水蓄积下来,整个风化层中的水会非常充盈,流域中的湿地物种也会异常丰富[29];而当发生干旱,风化层中的水会补给河道中的水以维持动植物群落,因此整个流域生态系统的物种数量相对稳定[28]。风化层雨洪调蓄结构的年际变化是一个自然动态过程。（2)季节变化上,风化层中出露地表的水与地下水的运动随季节变化[30-31]。研究表明,温带干旱半干旱地区,一年中大约 $6 0 \%$ 的时间流域风化层中的水保持高流动性,只有$1 0 \%$ 的时间是枯水期,此时风化层中的水会作为基流补给河流[30],而在热带区域的风化层水文运动情况要复杂得多[32]。因此,也可以说,流域风化层的水分行为受气象要素季节变化的影响,降水、气温、湿度、风速等的变化,影响着流域风化层中水的水位、水量、水质、水的运动形态等[33]。
+
+# 3风化层雨洪调蓄的生态功能
+
+由于风化层特有的物质组成和时空结构，决定了风化层是区域(流域)最重要的雨洪调蓄场所,发挥出强大的雨洪调蓄功能[34]。风化层的雨洪调蓄功能可从集水、蓄水、净水、养水、供水功能等几个方面分别叙述。
+
+# 3.1 集蓄水功能
+
+风化层集蓄水功能主要表现在收集降水,并吸收大雨后形成的洪水，是雨洪调蓄的场所。风化层的集蓄水功能依赖于其特定物质组成，也依赖于其下垫隔水基岩层起伏收放构造,缓滞蓄水离开风化层流出流域的结构[35]。如果生境与地表透水性能良好,落人流域的雨洪大多直接进人风化层,大部分贮存下来,水流速度迅速减缓,在风化层中渗流、涌动,少量随泉涌出地表,成为地表溪流[36]。由于风化层组成物质松散且不均匀的特性,集蓄的雨洪可从非饱和状态直到饱和状态,就如同巨大的“天然水库”。
+
+![](images/a18a728f2010a6453a14aee94f6231106cf88face126f564beefb3adb92a1562.jpg)  
+图1流域风化层示意图  
+Fig.1Schematic diagram of watershed regolith
+
+# 3.2 净水功能
+
+风化层净水功能是指水缓慢通过风化层时,通过沉淀、转化、吸收、分解、下渗、过滤和生物净化等过程,逐步除掉水中的物理、化学和生物杂质,为整个生态系统提供了健康水[37],即“活水”[7],风化层净水功能是雨洪调蓄的介质。风化层有类似"过滤器"的作用,其净水功能与地表生境协同而发挥作用[38]。风化层对水的有机"加工”是其它系统无法完成的,这些作用和水的运动是自然的过程,根本无需人类采用工程措施干预[39]。
+
+# 3.3 养水功能
+
+风化层养水功能是指风化层中健康的水分行为过程使得水( $\mathrm { \mathrm { H } } _ { 2 } \mathrm { O }$ )这一无机物质成为“有生命”的“活水”,使流域保持其良好的生态功能,风化层养水功能是雨洪调蓄的基础。任何生态系统都是能量、生境与地下风化层相互作用的复杂开放系统[23]。通过风化层对水分的调蓄,获取洁净新鲜的活水,维持环境健康,流域得以发挥优良的生态功能[7,40]。
+
+# 3.4供水功能
+
+风化层的供水功能是指风化层向生境和整个流域生态系统持续供水的能力,是流域生态系统物质、能量、信息等小循环的主要供水源，是雨洪调蓄的源头。
+
+一方面,风化层为生境及整个流域生态系统直接提供水[41]。动植物群落和生态系统长期依靠风化层的雨洪调蓄功能获得淡水,风化层可以贮存、排出并供给生命之水,是流域生态系统的基础[42]。
+
+另一方面,风化层参与流域水循环。水进入风化层中,形成非饱和、饱和的地下水储备和地表水储量，从而促进地表生境的存在与发展,生境成为风化层与大气之间气候小循环的中间环节[43-44]。在一个区域中,风化层的储水能力通常远高于最大的人工水库的蓄水量,当流域水文状况失衡,风化层中的水是维护流域水循
+
+环的保障,它保证了水的充足性,稳定天气中的热量和水分,并且能够平衡过去出现的亏损,降低这种亏损可能带来的极端天气的发生,避免了洪水和干旱。例如：雨、雾、霜、霾等有限的水对半荒漠和沙漠区域极其宝贵[7,14]
+
+# 4风化层与其它环境要素的关系
+
+# 4.1风化层与地形地貌
+
+风化层结构与地形地貌直接相关。在多数山地地形区,坡度较陡的情况下,风化层通常物质组成紧密,透水性能较差,导致水因重力势而运移,形成坡面漫流,但如果此处植被覆盖度高,会阻止水的流失,将水保留在风化层中;而如果是缓坡,通常有一些崩落下来的岩块杂乱地堆积在那里,形成石滩或石海,此处风化层物质组成比较疏松,透水性能好,是储存雨洪的重要场所[33];在泛滥平原地区,由于其是由河流沉积作用而形成的平原地貌,因此这里存在多种河流堆积物，一般形成砂质土层与粘性土层叠置的多层结构含水系统,砂质土层由级别不同的砂及砾卵石组成,含水层颗粒较粗大,透水性能强,含水量大,与地表水力联系密切,水循环条件好,水质较好,往往成为人类的供水水源[45-46]。
+
+# 4.2风化层与生境
+
+生境(Habitat)是特定群落的生存环境,作为最基本的生态空间,是生态系统的重要组成部分[47]。风化层与生境相互作用,相互影响。
+
+一方面,风化层对生境产生很大影响。风化层有持续为生境供水的能力,使得植被能在少雨且多变的降雨地域良好生长，说明生境对降雨的依赖是间接的而直接依赖风化层。它们共同维持着包括晨露、霜和雾等的大气水循环,将多余的太阳辐射转化为潜在的蒸发热,并且减少地表升温或土壤干旱[7,14]。
+
+另一方面,生境也影响着风化层。当流域生境健康运行时,风化层中贮存的水比起遭遇土壤侵蚀和退化的风化层流域要多得多，这种有生命的水或许以小于每天1m的速度在风化层之间季节性地渗流涌动，以维持水陆生境、湿地以及多年性溪流的健康运行[3];当生境机能失调时,如地表无植被覆盖,风化层中的水会很快耗尽并干涸,地下水贮存量极大减少,靠它维持的多年性溪流也变成季节性的,风化层表层的土壤会越来越干旱,甚至矿化,逐渐失去了营养和生态功能,植物死于缺水,生物体中贮存的用于吸收太阳辐射并维持蒸发速率的水也不足,最后,风化层表层升温加速,荒漠化发生,造成环境灾难[48]。
+
+# 4.3风化层与地质
+
+风化层之下的基岩性质直接影响风化层的形态和物质组成。基岩在风化营力作用下产生风化裂隙,这些大小悬殊、分布不均的裂隙,正是风化层中水的储存空间和运移通道,在各种力的作用下,产生水的运动。基岩岩性对风化层的影响,一般表现为空隙的大小和多少,对于颗粒粗大的松散岩石、裂隙比较宽大的坚硬岩石,以及可溶性岩石,透水性和持水性能好，储水量大[33]。如果基岩存在裂隙,风化层和水将透过裂隙向深层运动,补充深层地下水,也有深层地下水向上运动,补充风化层水分的情况,如：同生水被封存在基岩碎屑沉积物中;变质水与变质岩有关,能使矿物之间互相反应[49]。
+
+# 4.4风化层与土壤
+
+土壤可以理解为有植物根系分布的风化层[12],土壤中含有丰富的有机质营养,可以支持植物根系的生长。土壤是风化层的一部分,位于风化层的最上层。岩石经风化作用后成土,在风化过程中会产生微量元素的变化,土壤层中含有机胶体、团聚体,空隙多,有利于水分下渗,透水性能好。当土壤中有较大的植物根系相互缠绕而形成网络时,更加强了它的储水功能,土体的抗冲性能也更强大[50-51]。
+
+# 4.5风化层、大气与能量
+
+流域中的绝大部分能量来自于太阳能[52-53]。大气、生境与风化层间水分循环和交换的过程都依赖于太阳能量的控制[16]
+
+Kraveik M指出[7],大气中的水量远大于所有河流中的水量。理论上讲,如果大气中所有的水突然都以降
+
+水形式落下的话，将会形成覆盖地球表面 $2 5 \mathrm { m m }$ 的一层水，这部分水若渗入到风化层，将会实现良好的风化层水文生态效应。风化层中的水量盈余的情况下,会部分出露地表成为泉和溪流,也有部分蒸发到大气中；同样，当风化层中水分匮缺时，大气中的水也不会多。
+
+# 4.6风化层与人类活动
+
+风化层水分行为过程跟人类活动也紧密联系[16]。人类虽然只看到风化层的表面,但人类对风化层的利用由来已久。
+
+梯田是人类利用风化层雨洪调蓄能力的一个典型案例。梯田改变了地面形态,促进水有效的入渗,进而影响地下水分行为,梯田将降水及坡面径流吸纳入土壤中,形成“土壤水库”[54]。梯田使人类有效的利用风化层中的水,种植农作物[55],充分发挥了风化层雨洪调蓄的功能。
+
+人类对风化层的利用也有不好的案例。例如,渠化河道,改变了河流原本的自然形态,破坏了河流的自然属性,无法实现河流系统中风化层与河水的合理交换,从而失去风化层水文生态功能[56];又如水库只关注地面存水,使水在水库中成为静水,从而形成相对封闭、脆弱的水库生态系统,生境单[57]。更重要的是,水库危害到健康的河流连续统（River Continuum Concept,RCC）[58],破坏了自然河流脉冲效应[59-60],阻塞了河流的正常潜流通道[61],导致流域生态系统成为序列不连续体[62]。
+
+# 5流域风化层雨洪调蓄的生态机理
+
+本文以上部分主要阐述风化层在一个流域中的生态功能、运行方式及其与各主要环境要素之间的关系。可见,在一个流域系统中,风化层雨洪调蓄生态功能的正常发挥离不开流域中其它各环境要素与风化层的相互联系与作用,地下风化层、地表生境与大气(太阳能)三大要素(子系统)的水分运行和循环遵循一定的生态规律(图2)。
+
+![](images/ed0d76e0bc5e5cd53cc5c27e1b8d2256146f266a4a4fecdb35e15a7844c14695.jpg)  
+图2一个流域中风化层、生境和大气(能量)关系示意图
+
+Fig.2Schematicdiagramof therelationship betweentheregolith，the habitat,andtheatmosphere（energy）inawatershed
+
+一个特定流域是复杂开放系统,风化层只是一个子系统,风化层与地形地貌、土壤、地质、生境、大气、能量以及人类活动等其它子系统,它们相互联系、相互作用、相互耦合,共同完成流域的雨洪调蓄功能。同时证明，过去我们通常采用的“排水范式”解决局部问题以期改善整个流域系统问题的治理思路是行不通的,已不适应今后的风化层雨洪调蓄生态学研究,还极可能衍生新的系统问题。从这样的观点看,采用土壤-植被-大气连续体（Soil-Vegetation-Atmosphere,SVA）[63-64]框架开展流域风化层雨洪调蓄的研究是不完整的。
+
+http://www.ecologica.cn
+
+实际上,国内外从复杂开放的视角对一个流域中雨洪调蓄生态机理的研究并不多。国内外有学者从自然与生态服务功能的角度,提出水生态基础设施（Ecological Infrastructure,EI）[65-6]和“海绵城市”[67-68]的概念,采取生态工程技术以降低工程建设所带来的胁迫和干扰[69-70]。国外流域生态学家在“人与自然和谐”的生态价值观下,提出了生态结构(Ecostructures）的概念[6.23],借鉴中国古代视水为财、就地蓄留、就地消化的防旱涝智慧,更加强调流域自然生态系统自身能力的发挥,将土壤、植被、大气的协同研究扩展到风化层-生境-能量连续体（Regolith-Habitat-Energy，RHE)的生态耦合研究。这样对流域水循环和水分行为过程的掌握将更加全面和真实。
+
+一个流域中风化层、生境与大气(能量)之间存在复杂关系,同时,就一个流域中三大子系统内部而言也非常复杂。将土壤研究扩展到整个风化层、将植被研究扩展到生境以及将对大气的研究扩展到能量,这必然需要当前的生态学研究范式向生态复杂性研究的转换[71-72],处理好对流域局部性研究和整体性研究之间的关系。从国内外生态学进展看,采用适应性环境评估与管理（Adaptive Environmental Assessment andManagement，AEAM),即现在所称的适应性管理,应当是今后流域风化层雨洪调蓄生态机理研究的重要方向[73-74]
+
+# 6结论与讨论
+
+本文分析了近年来国内外在风化层雨洪调蓄方面的研究,基本澄清了风化层的物质组成与时空结构特征,解释了风化层雨洪调蓄功能及其与主要生态环境要素的关系,指出了雨洪在风化层中的积存、渗透、净化等自然生态过程以及风化层的雨洪调蓄功能与生境和大气、能量有极其复杂的关系,提炼出流域风化层在雨洪调蓄中的生态机理。
+
+风化层特殊的物质组成和时空结构,决定了流域风化层如同巨大的“天然水库”,滞蓄雨洪和减缓雨洪流出,使风化层成为流域雨洪调蓄的重要场所。风化层发挥集蓄水、净水、养水、供水等功能,实现了流域中水的自然积存、自然渗透、自然净化。在健康的流域中,风化层正常发挥着这些功能,在雨洪丰盈时集蓄、干旱时补给,流域中的水成为健康的"活水”。不同流域风化层的物质组成和结构的时空差异极大,导致风化层具有的雨洪调蓄功能也极其复杂,采用常规定量研究方法几乎不可能掌握其机理,因此,采用复杂开放系统理论和方法开展研究是一条有效途径。 人
+
+基于对流域中雨洪调蓄生态机理的初步认识,本文提出对雨洪调蓄的研究应从土壤-植被-大气连续体（Soil-Vegetation-Atmosphere,SVA)框架扩展到风化层-生境-能量连续体（Regolith-Habitat-Energy，RHE）的生态耦合研究,可以采用流域适应性管理(Adaptive Management,AM)深人开展流域风化层雨洪调蓄生态机理研究,与社会经济系统等方面一起,建立流域的社会-经济-自然复合生态系统[75-76]。
+
+必须指出的是,本文引用了大量文献来说明一些观点,并不意味着对风化层的了解已经非常深入。实际上,由于风化层的复杂性和不确定性,更由于复杂开放系统的研究范式在科学研究界未达成共识,众多研究都在有意无意地回避提及风化层,只有极少数流域生态学家明确地将其研究指向风化层的雨洪调蓄生态机理。
+
+# 参考文献（References）：
+
+1]FergoB,i,CollnTRe-EvaatingStoater:TineilnodeforRestoratiedeventviotalct1999,2(4) :320-321.  
+[2] 俞孔坚，李迪华，袁弘，傅微，乔青，王思思.“海绵城市"理论与实践.城市规划，2015，39(6)：26-36.  
+[3] TaneH.Laaouefablotaspielalld(5):19-21.  
+[4] Clayton K M.Weathering C.Olloer.2nd ed.London：Longman Group，1984：1-270.  
+[5] 王礼先.流域管理学.北京：中国林业出版社，1999：1-324.  
+[6] Tane H.Infrastructures and ecostructures.Planning Quarterly，2O04，154：10-13.  
+[7] KravikM,PooJKohutiarJ,Kova,thE.WateforeecovryftClate：NeaterradiglinaKrurnt  
+[8]Tane H. Waters of Aotearoa:alive or dead? Planning Quarterly,2O04,54(9)：9-13.  
+[9]EisJBeviTheanagentfubansurfaceatedageinEgadndWalesWaterandEvirontJoual4)：1-8.  
+[10GrusL，petsegtKSatialdataifrstructuessopledaptivesteteatioalJalfGaicalfoaScience，2010，24(3)：439-463.  
+[11] Holden L M. Complex adaptive systems: concept analysis. Journal of Advanced Nursing，2005,52(6): 651-657.  
+[12] Allaby M.The Concise Oxford Dictionary of Ecology.Oxford:Oxford University Press，1994：1-432.  
+[13]Mayhew S,Penny A.Concise Oxford Dictionary of Geography.Oxford:Oxford University Press，1992:1-247.  
+[14] Black P E.Watershed Hydrology.New York：John Wiley& Sons,Inc.,2005：1-449.  
+[15] Taylor G,Eggleton RA.Regolith Geology and Geomorphology.New York: John Wiley& Sons，Inc.,2O01：1-375.  
+[16] 魏晓华，孙阁.流域生态系统过程与管理.北京：高等教育出版社，2009：1-419.  
+[17] Scott K，Pain C. Regolith Science.Canberra：Springer Science and CSIRO Publishing，2009：1-472.  
+[18] ButtCRM,ZeegersHRegolithExplorationGeochemistryinTropicalandubtropicalTerains.Amsterdam:Elsevier015:1-60.  
+[19] WardJV.Thefour-dimensionalnatureof loticecosystems.Journalofthe North AmericanBenthological Sciety，1989,8（1）:2-8.  
+[20] 杨胜天，王雪蕾，刘昌明，盛浩然，李茜．岸边带生态系统研究进展.环境科学学报，2007,27(6)：894-905.  
+[21]ChenJQ，SandersSC,BrosofskeKD,CroTR.EologoferarchcalLandscapes:FromThorytAplicationNeYork:NoaSciencePublishers，2006：91-124.  
+22]BrooksKNollot,ageJ.HydrologdheaageentofWatershe.4thedNk:JoWiley&Sos,Ic.574.  
+[23]TaneH.Habiatandriparianmanagementinangelandeosstes//SquiresVR,ed.RangandAnialSiencesandResoucesMageent.Oxford：ELOSS Publishers[S.l.].2010,1:251-302.  
+[24]HustonMologicalDiverstyTheCoexistenceofSpeciesoCangingLandscapesCambdge：CmbidgeUverityress，99-81.  
+[25]Blom C WPM.Adaptationstofloding stress:from plant communityto moleule.Plant Biology，1999,1(3）:261-273.  
+[26] Nilsson C. Rivers and streams. Acta Phytogeographica Suecica，1999,84: 135-148.  
+[27]BlomCWVoeekLACJoing:thesurvivastrategiesofplantsTredsinEondEvolutio996,（）:9-295.  
+[28]VanDerNatD,ocknerK,EdwardsPJ，WardJV,GuellAM.Habiatchangeinbraidedfldplains（Tagliameto，Naly)rshateBiology，2003,48（10):1799-1812.  
+[29]SaloJ,KallaR,HaknenI,akienY,emelPuhakaM,oleyPiverdyaicsandediversitofAmazonlowadfore.Nature，1986,322(6076):254-258.  
+[30]EvansEC,PesGE.Hyporhc temperaturepaers withinriles.HydrologicalSienesJoural，97,42（2）:199-13.  
+[31]MalcolIA，oulsbyC,YugsoAFHaahD,arenIS,oeA.Hydrolgicalifuesohaterqualtylaofor salmon egg survival. Hydrological Proce ，2004，18（9)：1543-1560.  
+[32]（美)Fetter C W.应用水文地质学(第四版).孙晋玉，译.北京：高等教育出版社，2011.  
+[33] 肖长来，梁秀娟，王彪.水文地质学.北京：清华大学出版社，2010：1-291.  
+[34］莫琳，俞孔坚.构建城市绿色海绵——生态雨洪调蓄系统规划研究.城市发展研究，2012，19（5）：4-8.  
+[35] 曹云，欧阳志云，郑华，黄志刚，邢芳芳.森林生态系统的水文调节功能及生态学机制研究进展.生态环境，2006，15(6)：1360-1365.  
+[36] 张志强，王礼先，王盛萍.中国森林水文学研究进展(英文)．中国水土保持科学，2004，2（2)：68-73.  
+[37] PedroliB，DeBstG,VanLooyK,VanRojSSetigtargetsinsrategiesforiverrestoratioansaeEolog(）：18.  
+[38]FreemanRE，aRO.LandscapeepractiebyallsaleriverosevatiogrouadscapeandUbaPlang，O6（/4)：171-184.39 高甲荣，肖斌，牛健植.河溪近自然治理的基本模式与应用界限.水土保持学报，2002，16(6)：84-87,91-91.  
+[40]（英）WodPJ,Hannah DM,SadlerJP.水文生态学与生态水文学：过去,现在和未来.王浩，严登华,秦大庸，译.北京：中国水利水电出版社，2009：1-333.  
+[41]ComidVnofatielaeeialos，aleacilVlServices：Toward Beter Environmental Decision-Making.Washington：The National Academies Press，2O05：1-290.  
+[42］奥尔多·利奥波德.沙乡年鉴.侯文惠，译.长春：吉林人民出版社，1997：1-195.  
+[43]Swankologicalcotrofluteloesfforesteosss//dgilSduteProcesesNwok:JoW,c,1986: 85-139.  
+[44]Hewlett JD.Principles of Forest Hydrology. Brookvale:Universityof Georgia Press，2003:1-192.[45］张人权，梁杏，靳孟贵，万力，于青春.水文地质学基础(第六版).北京：地质出版社，2011：15-31.  
+[46］曹剑峰，迟宝明，王文科，宫辉力，曹玉清，梁秀娟.专门水文地质学(第三版).北京：科学出版社，2007：1-330.  
+[47]Odum EP,Odum HT,Andrews J.Fundamentalsof Ecology.3rded.Philadelphia;WB Saunders Company，1971:15-22.  
+[48]TaneH,SunTH,ZengZL,LiuJAuditineforestedaterssonthssplatea：FangshananiEoogicalIdicators，14,4196-108.  
+[49]Hudak P F.Principles of Hydrogeology. 3rd ed. Boca Raton：CRC Press，2004：1-236.  
+[50] 阮伏水.花岗岩风化壳与土壤侵蚀关系的研究.中国水土保持，1989，（12)：53-56.  
+[51] 赵景波.黄土中风化壳的确定与研究.地质论评，1991，37(2)：117-126. ，[52] 曾治权．日地关系.北京：地质出版社，1989：1-236.  
+[53] Allen C W.物理量和天体物理量.杨建，译.上海：上海人民出版社，1976：1-407.  
+[54］许炯心.无定河流域侵蚀产沙过程对水土保持措施的响应.地理学报，2004，59(6)：972-981.  
+[55] 吴发启，张玉斌，佘雕，宋娟丽.黄土高原南部梯田土壤水分环境效应研究.水土保持研究，2003，10(4)：128-130.  
+[56]刘昌明，刘晓燕.河流健康理论初探.地理学报，2008，63（7)：683-692.  
+[57] 董哲仁.水利工程对生态系统的胁迫.水利水电技术，2003，34(7)：1-5.  
+[58]VanoteRisallGWumnsKWedellJushgCE.eriverontiucoeptCaadanjoualoffsheridqatisciences，1980,37(1）:130-137.  
+[59]JunkW，BayleyPB，SparksRE.Thflodpulsecoeptiiver-flodplainsystes.CanadianJoualofFisheriesandAquaticSciences,1989,106:110-127.  
+[60］董哲仁，孙东亚.生态水利工程原理与技术.北京：中国水利水电出版社，2007：409-421.  
+[61]StanfodA，WardAespeiefliliveretivitndhcoJolftiaBenthological Society，1993，12(1）：48-60.  
+[62]Wardtadlopteelsalas/4) : 159-168.  
+[63］黄奕龙，傅伯杰，陈利顶.生态水文过程研究进展.生态学报，2003，23（3）：580-587.  
+[64］刘文兆.小流域水分行为、生态效应及其优化调控研究方面的若干问题.地球科学进展,2000，15（5）：541-544.  
+[65] 刘海龙，李迪华，韩西丽.生态基础设施概念及其研究进展综述.城市规划，2005，29(9)：70-75.  
+[66]俞孔坚.海绵城市的三大关键策略：消纳，减速与适应.南方建筑，2015，1（3)：4-7.  
+[67］（法)苏菲·巴尔波.海绵城市.夏国祥，译.桂林：广西师范大学出版社，2015：1-263.  
+[68］仇保兴.海绵城市(LID)的内涵、途径与展望.给水排水，2015，41(3)：1-7.  
+[69]VanBenHbiatrtatiofrstcturedlicalgigEocalEgring998，（/4).[70]SilerArikooacfocalseratioinishdplagrinofIteatioalCeo“HabitatFragmentation，InfrastructureandtheRoleof Ecological Enginering".Delft：DWWPublication，1995：253-264.  
+[71]BrownJH,GuptaVK,LiBL，MilneBT,RestrepoC，WestG.B.Thefractalnatureofnature：powerlaws，ecologicalcomplexityandbiodiversityPilosophcalTansactiosoftheoyalSocietyofLondoB：hlosopicalTransactions,o,57（141）：69-626.[72］金卫斌，李百炼.流域尺度的景观——水质模型研究进展.科技导报，2008，26（7）：72-77  
+[73]Holing C S.Adaptive Environmental Assessment and Management.UK: John Wiley& Sons，Chichester，978:1-377.  
+[74]Wiliiatfaooot）[75] 王如松，李锋，韩宝龙，黄和平，尹科.城市复合生态及生态空间管理.生态学报，2014，4（1)：1-11.  
+[76]ChenJQ,LiuYO.Couplednaturalandumansystes:alanscapeeolgyperspective.LandscapeEolog149（0):6-1644.

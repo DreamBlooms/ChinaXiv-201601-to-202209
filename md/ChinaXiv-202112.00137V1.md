@@ -1,0 +1,256 @@
+# 干热河谷次生稀树灌木林物种组成变化及群落结构动态
+
+龙成1\*，余志祥²，杨永琼²，税梅梅“(1．攀枝花学院 生物与化学工程学院/干热河谷特色生物资源开发四川省高校重点实验室，四川 攀枝花 617000；2.四川攀枝花苏铁国家自然保护区，四川 攀枝花 617000;3.攀枝花市建筑工程学校，四川 攀枝花 617000)
+
+摘要：为揭示四川攀枝花苏铁国家级自然保护区干热河谷次生稀树灌木林群落演替动态规律，本研究以2015年群落内建立的 $1 \ : \mathrm { h m } ^ { 2 }$ 永久固定样地为研究对象，经2020年首轮复查，对物种组成、群落多样性、重要值、死亡率、补员率以及胸径(DBH)进行调查研究，以分析5年间群落物种组成及结构动态。结果表明：(1)2020年，群落木本植物共18种，隶属15科18属，较2015年新增1属1种，优势物种组成并无变化，但优势度变化显著。在重要值$( \mathrm { I V } ) > 1$ 的6个种群中，5个树种IV 增高，仅攀枝花苏铁种群IV 降低，但其仍为群落优势建群种，铁橡栎和滇榄仁等乔木种群优势度显著增加。(2)2020年，群落中 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的木本植物个体数增至1710株，平均胸径由 $1 1 . 1 0 \mathrm { c m }$ 增至 $1 1 . 1 7 \mathrm { c m }$ 。群落年死亡率 $0 . 2 9 \%$ 死亡个体平均胸径 $1 1 . 8 4 \mathrm { c m }$ ，年补员率 $2 . 7 5 \%$ ，补员个体平均胸径 $4 . 9 6 \mathrm { c m }$ 。群落中7个种群出现个体死亡，9个种群出现补员个体。(3）虽然沙针种群规模缩小，但仍有9个种群规模扩大，4个种群规模保持稳定。攀枝花苏铁和沙针种群平均胸径减小，其余种群平均胸径均有不同程度的增大。随着森林演替的进行，群落内种间竞争的重要性将逐渐增大，铁橡栎和滇榄仁等乔木树种将在未来演替进程中占据优势地位，但短期内并不会威胁攀枝花苏铁种群优势地位，大径级植株个体的死亡是其优势度显著降低的主要原因。在未来群落演替进程中，攀枝花苏铁将与铁橡栎、滇榄仁等乔木树种组成以乔木树种逐渐占据优势的干热河谷次生稀树灌木林向气候顶极群落演替的过度型次生林群落。
+
+关键词：物种组成，群落多样性，群落演替，干热河谷次生稀树灌木林，四川攀枝花苏铁国家级自然保护区
+
+中图分类号：Q948.15 文献标识码：A 文章编号：
+
+# Dynamics of community composition and structure in secondary savanna shrub forest of arid-hot valley in
+
+National Nature Reserve of Cycas panzhihuaensis
+
+LONG Cheng1\*,YU Zhixiang², YANG Yongqiong², SHUI Meimei (1. School of Biology and Chemistry Engineering Agricultural College, Panzhihua University, Panzhihua 617Ooo, Sichuan, China; 2. National Nature Reserve of Cycas panzhihuaensis, Panzhihua 6170oo, Sichuan, China; 3. Panzhihua Construction Engineering School, Panzhihua 基金项目：四川省重点实验室项目(JDC-2019-C-05)；攀枝花市科技创新项目(2018CY-S-33)；攀枝花学院校 级项目(2020YB028)[Supported by Key Laboratory Program of Sichuan Province(JDC-2019-C-05); Science and Technology Innovation Program of Panzhihua(2018CY-S-33); Program of Panzhihua University(2020YB028)]。 作者简介：龙成(1986-)，博士，讲师，主要从事群落生态学研究，(E-mail)longcheng0509@163.com。 \*通信作者
+
+617000, Sichuan, China)
+
+Abstract: In order to reveal dynamics of community succession of a secondary savanna shrub forest of the arid-hot valley in National Nature Reserve of Cycas panzhihuaensis, this study was based on the first (202O) reexamined data of $1 \ \mathrm { h m } ^ { 2 }$ permanent fixed plot which was established in 2015.Community dynamics over the past 5 years were analyzed by species composition, community diversity, importance value, mortality rate, recruitment rate and diameter at breast height (DBH). The results were as follows: (1） Woody plants in community changed from 15 families,17 genera,and 17 species in 2015 to 15 families,18 genera,and 18 species in 2020. There was no significant change for dominant species composition but a significant change for degree of dominance in the past 5 years.For the 6 common populations with higher important values $( > 1 )$ in 2020, the importance values of 5 populations increased, and the population of Cycas panzhihuaensis decreased only, when compared with their importance values in 2015. Cycas panzhihuaensis was still the most dominant species and constructive species in the plot, but its importance values declined significantly. However, a significant increase of importance values occurred for some arbor species such as Quercus cocciferoides and Terminalia francheti. (2) The number of woody plants with $\mathrm { D B H } \geqslant 1$ had increased to 1710 by 2020, the average DBH of all woody plant individuals in this community increased from $1 1 . 1 0 ~ \mathrm { c m }$ to $1 1 . 1 7 ~ \mathrm { c m }$ .The average annual mortality was $0 . 2 9 \%$ ， and the average annual recruitment rate was $2 . 7 5 \%$ ， the average DBH of dead and recruited individuals were $1 1 . 8 4 ~ \mathrm { c m }$ and $4 . 9 6 ~ \mathrm { c m }$ respectively. Compared with the woody plants living in 2015,individual trees from 7 species had died,and those from 9 species were recruited over the past 5 years. (3） The results also indicated that although Osyris quadripartita declined, the populations of9 tree species increased,and 4 were stable from 2015 to 2020.The average DBH of Cycas panzhihuaensis and Osyris quadripartita decreased only, but the others increased on different extents. With forest successon， the importance of interspecific competition within community will increase gradually. Dominant position in community will be occupied by arbor tree species such as Quercus cocciferoides and Terminalia franchetii during process of succession in the future, but dominant position of Cycas panzhihuaensis is not threatened in a short term. The main reason of significant decrease of dominance of Cycas panzhihuaensis is plant individuals death of larger diameter class. In the future, a transitional-type secondary community from secondary savanna shrub forest to climax which is occupied by arbor tree species gradually will been consisted of Cycas panzhihuaensis， Quercus cocciferoides, Terminalia franchetii and other arbor trees.
+
+Key words: species composition, community diversity, community succession, secondary savanna shrub forest of the arid-hot valley, National Nature Reserve of Cycas panzhihuaensis
+
+森林生物多样性的形成与维持机制可以从不同尺度进行研究。在群落尺度上，物种多样性形成和维持机制与森林群落的结构特征密不可分(臧润国等，2001)。森林群落结构和物种组成动态不仅是生态系统过程和功能的基础，也是生物与环境长期相互作用的结果，其能够影响森林生态系统固碳、物质周转率(Xiao et al.,2014)，反映群落生产力大小(Zhang& Chen,2015)和群落抵抗干扰的恢复能力(Jayakaran et al.,2014)，还可进一步为研究森林群落的演替规律(Tilman et al.,2006)，揭示物种共存、生物多样性维持机制提供重要信息(Loreau et al.,2001)。关于森林群落结构和特征的研究，国外学者已在喜马拉雅山区(Shaheen et al.,2012)、巴拿马森林皆伐迹地(Hooper et al.,2004)、马来西亚热带森林(Khairil et al.,2014)以及热带山地云雾林(Shi& Zhu,2009)等不同类型的森林群落开展了相关研究，并发现森林群落结构与海拔、坡度、人为活动和林火干扰以及土壤特性等因素密切相关。更有学者比较研究放牧与非放牧条件下，水分梯度对群落植物物种丰富度(richness)、多样性(diversity)以及群落物种组成的影响规律(Meyers etal.,2014)，发现人为干扰和水分梯度影响与植物群落结构和物种多样性相背离的空间自相关现象，也阐明了不同群落管理措施和入侵物种传播对群落变化起到推动作用。相应地，国内相关研究也层出不穷(方精云等，2004；龙文兴等，2011；盛大勇等，2012；许涵等，2013)，且研究多基于森林固定大样地开展(叶万辉等，2008；祝燕等，2008；胡跃华等，2010；刘海丰等，2011；徐丽娜和金光泽，2012；匡旭等，2014)。这说明建立固定大样地进行森林群落研究普遍被广泛认可，并已成为森林生物多样性领域研究的重点方向之一(贺金生等，1998)。近年来，也出现了对森林群落演替基于永久样地不同角度的研究，涉及物种组成(陈新鹏，2009)、种群数量(冀艳利，2016)、群落结构(游诗雪等，2016)、幼苗更新(刘何铭等，2017)、生长型(汪殷华等，2011)以及群落多样性(倪端强，2014)等诸多方面。更有学者尝试从森林群落动态变化角度探究群落演替机制(Pickett&McDonnell,1989)，涉及不同区域及类型的森林群落(Gao etal.,2013)，不仅阐明了森林群落种群动态更新的生境波动制约效应与密度制约机制(汪殷华等，2011)，也总结出近似于自然林更新的人工造林模式(陈晓霞等，2021)，更提出了森林群落演替和构建机制的整合研究理念(Chang&HilleRisLambers,2016)。
+
+干热河谷属生态脆弱区，土壤侵蚀严重(杨万勤等，2002；明庆忠和史正涛,2007，Penget al.,2013)，以“南亚热带为基带的立体气候”高温、干旱、蒸发量大，这里植物物种较为稀少，但中国特有物种和濒危物种在此均有分布(杨永等，2015)，发育着以草地和多汁、带刺灌木为主的河谷特殊类型半稀树草原、稀树草原植物群落(金振洲和欧晓昆，2000；金振洲，2002；Ma& McConchie,2001)。国内干热河谷森林群落主要分布在云南和四川两省(Ma& McConchie,2001)，目前对干热河谷森林群落的研究主要集中于云南省干热河谷群落结构（何周窈等，2020)、植物生物量(Yuan et al.,2020)、生物多样性(Liu et al.,2020; Zhang et al.,2020)、植物对土壤养分和水分的利用(Lin etal.,2019)等方面。位于四川攀枝花苏铁国家级自然保护区内的干热河谷次生稀树灌木林位于保护区实验区 $1 5 0 0 \mathrm { m }$ 至 $2 3 0 0 \mathrm { m }$ 海拔区间，是干热河谷特殊类型稀树、半稀树草原植物群落一干热河谷稀树灌木林经人为干扰(放牧)退化后，常年受季节性焚风效应影响，在山体背风坡形成以低矮灌木和草本植物为建群种的次生稀树灌木林群落，并处于向气候顶极(干热河谷常绿针阔叶混交林(Ma& McConchie,2001))演替的次生演替初级阶段。目前，基于永久固定样地的干热河谷植物群落动态及演替的研究还较鲜见，对四川攀枝花苏铁国家级自然保护区内干热河谷次生稀树灌木林的研究更是尚未起步。本研究基于四川攀枝花苏铁国家级自然保护区干热河谷次生稀树灌木林内 $1 \ : \mathrm { h m } ^ { 2 }$ 永久固定样地，通过对比分析2015年和 2020年两次样地内每木调查数据，期望回答以下科学问题：（1）群落5年次生演替对群落物种组成、多样性及优势度有何影响？(2）群落各种群动态特征是否依森林演替规律变化？(3）群落次生演替能否对优势物种更迭起到推动作用。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+研究地位于川、滇两省交界横断山脉东南前缘向云贵高原过渡地带的四川攀枝花苏铁国家级自然保护区 $( 1 0 1 ^ { \circ } 3 2 ^ { \prime } 1 5 ^ { \prime \prime } - 1 0 1 ^ { \circ } 3 5 ^ { \prime } 4 6 ^ { \prime \prime } \mathrm { E }$ $2 6 ^ { \circ } 3 6 ^ { \prime } 3 1 ^ { \prime \prime } - 2 6 ^ { \circ } 3 8 ^ { \prime } 2 4 ^ { \prime \prime } \mathrm { N } \big )$ ，是金沙江河谷较为典型的地段，地势陡峭，河谷深切，山体相对高度大，地形封闭。区内保护对象为干热河谷常绿针阔叶混交林生态系统及其内部的野生动植物、地貌景观(河谷景观)等。保护区总面积13.58$\mathrm { k m } ^ { 2 }$ ，受干热河谷气候效应影响，研究区属于南亚热带半干旱河谷气候类型，冬季气候温和，日照充足，热量丰富，年均气温 $1 9 . 7 { \sim } 2 0 . 5 ^ { \circ } \mathrm { C }$ ，是四川省年均气温最高的地区。5月最热，12月或1月最冷。6月上旬至10月为雨季，11月至翌年5月为旱季，年无霜期超过 $3 0 0 \mathrm { d }$ 保护区地势由西北向东南倾斜，北面丰家梁子横亘、纵列"鸡爪梁子"众多，最高海拔2 259.6m(团山包)，最低海拔 $ { { 1 } }  { { 1 2 0 } }  { { \mathrm { m } } }$ 猴子沟与保护区边界交点)，相对高差 $1 ~ 1 3 9 . 6 \mathrm { m }$ 。区内大部分岩石主要为震旦系灯影组石灰岩和奥陶系白云质石灰岩，土壤发育具有较为明显的垂直分布特征， $1 5 0 0 \mathrm { m }$ 以下海拔高度分布红色石灰土， $1 5 0 0 \mathrm { m }$ 以上为棕黄色石灰土。保护区内地带性顶极植被为干热河谷常绿针阔叶混交林，研究样地主要优势物种为攀枝花苏铁(Cycaspanzhihuaensis)、铁橡栎(Quercus cocciferoides)、滇榄仁(Terminalia franchetii)和蒙桑(Morusmongolica)等(杨永等，2015)。
+
+# 1.2样地概况及调查方法
+
+2015年7\~10月，参照美国史密森热带森林科学研究中心(CTFS)监测样地的建设方法，用全站型电子速测仪(GTS-102N,Topcon Corporation,Tokyo,Japan)，在四川攀枝花苏铁国家级自然保护区干热河谷次生稀树灌木林内建立了面积 $1 \ \mathrm { h m } ^ { 2 } ( 1 0 0 \mathrm { m } \times 1 0 0 \mathrm { m } )$ 的固定样地，并将样地划分为400个 $5 \mathrm { m } \times 5 \mathrm { m }$ 的小样方，标定并调查样方内所有胸径 $( \mathrm { D B H } ) { \gtrsim } 1 \ \mathrm { c m }$ 的木本植物，调查内容包括：记录每株植物的学名、胸径大小、树高以及坐标等，不能现场鉴定的植物种，制成标本内业鉴定。2020年10月进行复查，对于新出现的 $\mathrm { D B H } \geqslant 1 ~ \mathrm { c m }$ 的木本植物个体(即补员个体)，调查方法同2015年；对已有 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的乔木个体，只调查其胸径、树高和生长状态。
+
+第一次调查表明，样地内 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的木本植物个体(包括分枝和萌条)1512株，隶属15 科17 属17种。主要为苏铁科(Cycadaceae)、壳斗科(Fagaceae)、使君子科(Combretaceae)植物，建群种为攀枝花苏铁，其他优势种群还包括铁橡栎、滇榄仁、蒙桑、岩柿(Diospyrosdumetorum)、山槐(Albizia kalkora)等。
+
+# 1.3数据分析方法
+
+检索Flora of China(FOC)(http://www.iplant.cn/foc/）和《中国植 物志》(FRPS)(http://www.iplant.cn/frps)在线数据库，核对样地出现的木本植物物种学名及其生长型。采用重要值表征物种在群落中的优势程度(叶万辉等，2008)，并参考《植物群落学》（王伯荪，1987)和《植物群落学实验手册》(王伯荪，1996)上的方法计算木本植物各物种的重要值。其中，重要值(IV)=[相对密度 $( \mathrm { R D } ) +$ 相对频度 $( \mathrm { R F } ) +$ 相对显著度(RP)]/3。相对密度 $( \mathrm { R D } ) =$ 单个种群密度(D)/所有种群密度之和 $\times 1 0 0$ ，单个种群密度 $\mathrm { ( D ) = }$ 种群个体数目/取样面积；相对频度(RF) $\vDash$ 种群频度(F)/所有种群频度之和 $\times 1 0 0$ ，种群频度 $( \mathrm { F } ) { = }$ 种群个体出现样方数/总样方数；相对显著度(RP) $\vDash$ 种群显著度(P)/所有种群显著度之和 $\times 1 0 0$ ，种群显著度 $( { \mathrm { P } } ) { = }$ 种群所有个体胸径高断面积之和。
+
+选取目前应用较为广泛的3个多样性指数来度量群落物种多样性(张金屯，2011)。计算公式如下：
+
+Shannon-Wiener多样性指数 $( H )$
+
+$$
+H = - \sum _ { i = 1 } ^ { s } \left( P _ { i } \mathrm { I n } P _ { i } \right)
+$$
+
+Pielou均匀度指数 $( E )$
+
+$$
+E = \frac { H } { \mathrm { I n } S }
+$$
+
+Margalef丰富度指数 $( R _ { \mathrm { M } } )$
+
+$$
+R _ { \mathrm { { M } } } = \left( S - 1 \right) / \mathrm { I n } N _ { \mathrm { { N } } }
+$$
+
+公式(1)、(2)、(3)中，S：样地中物种总数； $N _ { \mathrm { N } }$ ：样地中所有物种的个体数之和； $P _ { i }$ ：种$i$ 的个体在全部个体中的比例， $\scriptstyle P _ { i } = n _ { i } / N _ { \mathrm { N } }$ ; $n _ { i }$ ：种 $i$ 的个体数。
+
+以死亡率 $( m )$ 、补员率 $( r )$ 和种群大小变化率(λ)分析种群和群落变化(Condit etal.,1999)。计算公式如下：
+
+$$
+m = \frac { \mathrm { I n } n _ { 0 } - \mathrm { I n } S _ { t } } { t }
+$$
+
+$$
+r = \frac { \mathrm { I n } n _ { t } - \mathrm { I n } S _ { t } } { t }
+$$
+
+$$
+\lambda = \frac { \mathrm { I n } n _ { t } - \mathrm { I n } n _ { 0 } } { t }
+$$
+
+在公式(4)、(5)、(6)中， $t$ 为调查间隔时间； $n _ { 0 }$ 和 $n _ { t }$ 分别表示第一次调查和经过 $t$ 时间后再调查的种群大小； $S _ { t }$ 为经历 $t$ 时间后幸存个体的数量。
+
+本研究采用Excel数据统计分析，OriginPro 8.0作图。
+
+# 2结果与分析
+
+# 2.1物种组成和群落多样性
+
+2020 年样地木本植物个体总数为1710株，隶属15科18属18种，较2015年增加1属1种。其中，3个在 2015年记录到的物种 2020 年调查中死亡消失，而在2020 年又记录到 4个新物种，死亡消失和新纪录树种的死亡个体数和补员个体数相等(表1)。群落Shannon-Wiener多样性指数变化最大，增幅 $1 6 . 1 1 \%$ ，Margalef丰富度指数次之，Pielou均匀度指数增幅最小(表 2)。
+
+Table 1 Death and new recorded species in community from 2015 to 2020   
+
+<html><body><table><tr><td>物种 Species</td><td>个体数 No.of individuals</td><td>生长型 Growth form</td><td>备注 Remark</td></tr><tr><td>银合欢Leucaenaleucocephala</td><td>1</td><td>灌木 Shrub</td><td>2020年调查时因死亡而消</td></tr><tr><td>羽脉山黄麻 Trema levigata</td><td>1</td><td>乔木 Arbor</td><td>失的物种</td></tr><tr><td>野漆Toxicodendron succedaneum</td><td>2</td><td>乔木 Arbor</td><td>Disappeared populations due to death in 2020</td></tr><tr><td>钝叶黄檀Dalbergia obtusifolia</td><td>1</td><td>乔木 Arbor</td><td></td></tr><tr><td>假烟叶树Solanumerianthum</td><td>1</td><td>乔木 Arbor</td><td>2020年调查时新出现的物</td></tr><tr><td>三叶梣Fraxinus trifoliolata</td><td>1</td><td>灌木 Shrub</td><td>种 New recorded species in</td></tr><tr><td>云南白杨Populusyunnanensis</td><td>1</td><td>乔木 Arbor</td><td>2020</td></tr></table></body></html>
+
+表 $1 2 0 1 5 { \sim } 2 0 2 0$ 年群落死亡和新记录物种  
+表2 $2 0 1 5 { \sim } 2 0 2 0$ 年群落物种多样性的变化  
+Table 2Change of community species diversity from 2015 to 2020   
+
+<html><body><table><tr><td>年份 Year</td><td>个体数 Numbers of individuals</td><td>Shannon-Wiener 多样性指数 Shannon-Wiener index</td><td>Margalef 丰富度指数 Margalef index</td><td>Pielou 均匀度指数</td></tr><tr><td>2015</td><td>1512</td><td>1.02</td><td>0.36</td><td>2.19</td></tr><tr><td>2020</td><td>1710</td><td>1.18</td><td>0.41</td><td>2.28</td></tr></table></body></html>
+
+# 2.2主要种群优势度变化
+
+在重要值大于1的常见种群中，仅有1个种群重要值降低，其余5个种群重要值均有不同程度地增高。攀枝花苏铁仍为群落建群种，但重要值由69.70(2015)显著降至42.35(2020)。重要值增幅较大的种群为铁橡栎种群和滇榄仁种群，分别由13.04(2015-铁橡栎)和6.23(2015-滇榄仁)增至 25.46(2020-铁橡栎)和15.36(2020-滇榄仁)。此外，蒙桑 $( 3 . 0 4 \sim 5 . 6 5 )$ 、岩柿$( 2 . 4 2 { \sim } 3 . 7 4 )$ 、山槐 $( 1 . 5 8 { \sim } 3 . 4 1 )$ 种群的重要值也均有不同程度增高(图1)。
+
+![](images/3db36795d44ad09b932f74898d0f5786dffb4001afcfc8f52981ecf4bfc057e2.jpg)  
+图1 $2 0 1 5 { \sim } 2 0 2 0$ 年群落常见种群重要值的变化
+
+(PZHST:攀枝花苏铁,Cycas panzhihuaensis;TXL:铁橡栎,Quercus cocciferoides; DLR:滇榄仁,Terminalia francheti;MS:蒙桑,Morus mongolica; YS:岩柿,Diospyros dumetorum; SH:山槐,Albizia kalkora)
+
+Figure 1 Change of importance values of common tree species in community from 2015 to 2020 2.3群落更新
+
+$2 0 1 5 { \sim } 2 0 2 0$ 年，群落 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的木本植物个体数由1512 株增至1710株，增幅 $1 3 . 1 \%$ 。死亡个体 22 株，补员个体 226 株(不计新出现个体)。群落年死亡率 $0 . 2 9 \%$ ，年补员率 $2 . 7 5 \%$ 种群大小变化率 $2 . 4 6 \%$ 。
+
+7个种群出现死亡个体，占2015年种群总数的 $41 . 2 \%$ 。其中，攀枝花苏铁8株、铁橡栎8株、蒙桑2株、滇榄仁1株、栎叶枇杷1株、野漆1株和云南山蚂蟥(Desmodiumyunnanense)1株。9个种群出现不同程度的补员，占总树种数的 $5 3 . 0 \%$ ，其中攀枝花苏铁 10株、铁橡栎85株、滇榄仁93 株、蒙桑14 株、岩柿6株、山槐11株、栎叶枇杷(Eriobotryaprinoides)3 株、绿黄葛树(Ficus virens)1株、云南梧桐(Firmiana major)2 株和云南山蚂蟥1株。5个种群同时出现死亡和补员现象，占总树种数的 $2 9 . 4 \%$ 。
+
+群落各种群年死亡率 $0 \% { \sim } 1 3 . 8 6 \%$ ，年补员率 $0 . 1 8 \% { \sim } 2 1 . 9 7 \%$ 。9个种群植株个体数量增加，种群大小变化率 $0 . 0 4 \% { \sim } 2 1 . 9 7 \%$ ，增幅最大的种群为云南梧桐，攀枝花苏铁种群增幅较小。4个种群植株个体数保持稳定，仅有1个种群(沙针)个体数量降低(表3)。
+
+Table 3Change of each populations in community from 2015 to 2020   
+
+<html><body><table><tr><td>物种名 Species</td><td>年死亡率m Annual mortality</td><td>年补员率r Annual recruitment</td><td>种群大小变化率λ Rate of population size change (%)</td></tr><tr><td>攀枝花苏铁 Cycas panzhihuaensis</td><td>rate (%) 0.15</td><td>rate (%) 0.18</td><td>0.04</td></tr><tr><td>铁橡栎 Quercus cocciferoides</td><td>0.70</td><td>6.46</td><td>5.75</td></tr><tr><td>滇榄仁Terminaliafranchetii</td><td>0.24</td><td>15.03</td><td>14.79</td></tr><tr><td>蒙桑Morus mongolica</td><td>1.08</td><td>6.57</td><td>5.49</td></tr><tr><td>岩柿Diospyros dumetorum</td><td>0.00</td><td>4.01</td><td>4.01</td></tr><tr><td>山槐Albizia kalkora</td><td>0.00</td><td>11.60</td><td>11.60</td></tr><tr><td>沙针 Osyris quadripartita</td><td>0.00</td><td>-30.08</td><td>-30.08</td></tr><tr><td>黄荆Vitex negundo</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>栎叶枇杷 Eriobotrya prinoides</td><td>8.11</td><td>18.33</td><td>10.22</td></tr><tr><td>红椿 Toona ciliata</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>绿黄葛树 Ficus virens</td><td>0.00</td><td>5.75</td><td>5.75</td></tr><tr><td>无患子Sapindus saponaria</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>云南梧桐 Firmiana major</td><td>0.00</td><td>21.97</td><td>21.97</td></tr><tr><td>云南山蚂蝗 Desmodium yunnanense</td><td>NA</td><td>NA</td><td>0.00</td></tr></table></body></html>
+
+注：2020 年因死亡消失种群以及新增物种未在本表中列出。 Notes: Disappeared populations due to death and new recorded species in 2O2O were not listed in this table.
+
+# 2.4 胸径变化
+
+$2 0 1 5 { \sim } 2 0 2 0$ 年，群落平均胸径由 $1 1 . 1 0 \mathrm { c m }$ 增至 $1 1 . 1 7 \mathrm { c m }$ ，增幅 $0 . 6 3 \%$ 。其中，攀枝花苏铁和沙针种群平均胸径降低，分别由 $1 2 . 5 9 \mathrm { c m }$ 和 $6 . 8 2 \mathrm { c m }$ 降至 $1 1 . 3 5 \mathrm { c m }$ 和 $3 . 6 5 \mathrm { c m }$ ，降幅分别为 $9 . 8 1 \%$ 和 $4 6 . 5 7 \%$ 。其他种群平均胸径均存在不同程度的升高，胸径增长率介于$1 . 4 0 \% { \sim } 6 . 2 3 \%$ （表4)。
+
+22 株死亡个体平均胸径为 $1 1 . 8 4 \mathrm { c m }$ 。平均胸径大于 $1 0 \mathrm { c m }$ 的死亡个体(9 株)中仅有1株为蒙桑，其余皆为攀枝花苏铁，平均胸径 $5 \mathrm { c m } { \sim } 1 0 \ \mathrm { c m }$ 的死亡个体数占比较高(13株，占$5 9 . 1 0 \% \$ ，平均胸径小于 $5 \mathrm { c m }$ 的死亡个体数为0。226株补员个体平均胸径 $4 . 9 6 \mathrm { c m }$ ，其中128株 $( 5 7 \% )$ 补员个体胸径介于 $5 \mathrm { c m } { \sim } 1 0 \mathrm { c m }$ ，96 株补员个体胸径小于 $5 \mathrm { c m }$ ，仅有2株补员个体胸径大于 $1 0 \mathrm { c m }$ ，分别为栎叶枇杷和云南梧桐(表 5)。
+
+群落各种群中，仅蒙桑和攀枝花苏铁种群死亡个体平均胸径大于 $1 0 \mathrm { c m }$ ，其中5个种群平均胸径介于 $5 \mathrm { c m } { \sim } 1 0 \mathrm { c m }$ 。存在补员个体的种群平均胸径多数介于 $5 \mathrm { c m } { \sim } 1 0 \mathrm { c m }$ ，仅2个补员种群平均胸径小于 $5 \mathrm { c m }$ ，分别为攀枝花苏铁 $( 0 \mathrm { c m } )$ 和铁橡栎 $( 2 . 5 5 \mathrm { c m } )$ (表6)。
+
+表32015\~2020 年群落各种群的变化  
+表4 $2 0 1 5 { \sim } 2 0 2 0$ 年群落常见种群胸径变化  
+Table 4 Change of DBH of each common populations in community from 2015 to 2020   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="2">平均胸径 Average DBH (cm)</td><td rowspan="2">平均胸径增长率 Increase rate of average DBH(%)</td><td rowspan="2">生长型 Growth form</td></tr><tr><td>2015</td><td>2020</td></tr><tr><td>攀枝花苏铁 Cycas panzhihuaensis</td><td>12.59</td><td>11.35</td><td>-9.81</td><td>灌木或小乔木 Shrub or small arbor</td></tr><tr><td>铁橡栎 Quercus cocciferoides</td><td>7.08</td><td>7.34</td><td>3.63</td><td>乔木 Arbor</td></tr><tr><td>滇榄仁 Terminalia franchetii</td><td>7.64</td><td>7.75</td><td>1.40</td><td>乔木</td></tr></table></body></html>
+
+表5 $2 0 1 5 { \sim } 2 0 2 0$ 年群落死亡个体和补员个体的胸径  
+
+<html><body><table><tr><td rowspan="2">蒙桑Morusmongolica</td><td rowspan="2">8.31</td><td rowspan="2">8.83</td><td rowspan="2">6.23</td><td>小乔木或灌木</td></tr><tr><td>Small arbor or shrub</td></tr><tr><td rowspan="2">岩柿Diospyros dumetorum</td><td rowspan="2">6.77</td><td rowspan="2">7.11</td><td rowspan="2">4.90</td><td>小乔木或乔木</td></tr><tr><td>Small arbor or arbor</td></tr><tr><td>山槐 Albizia kalkora</td><td>6.83</td><td>7.15</td><td>4.74</td><td>小乔木或灌木 Small arbor or shrub</td></tr><tr><td rowspan="2">沙针 Osyris quadripartita</td><td rowspan="2">6.82</td><td rowspan="2">3.65</td><td rowspan="2">-46.57</td><td>灌木或小乔木</td></tr><tr><td>Shrub or small arbor</td></tr><tr><td>黄荆Vitex negundo</td><td>5.47</td><td>5.62</td><td>2.79</td><td>灌木或小乔木</td></tr><tr><td rowspan="2">栎叶枇杷 Eriobotrya prinoides</td><td rowspan="2">6.70</td><td rowspan="2">7.02</td><td rowspan="2">4.78</td><td>Shrub or small arbor</td></tr><tr><td>小乔木</td></tr><tr><td rowspan="2">红椿 Toona ciliata</td><td rowspan="2">10.20</td><td rowspan="2">10.45</td><td rowspan="2">2.45</td><td>Small arbor</td></tr><tr><td>大乔木</td></tr><tr><td rowspan="2">绿黄葛树 Ficus virens</td><td rowspan="2">10.23</td><td rowspan="2">10.55</td><td rowspan="2">3.09</td><td>Large arbor</td></tr><tr><td>大乔木</td></tr><tr><td rowspan="2">无患子Sapindussaponaria</td><td rowspan="2">9.35</td><td rowspan="2">9.65</td><td rowspan="2">3.21</td><td>Large arbor</td></tr><tr><td>大乔木</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td></tr><tr><td>Large arbor</td></tr><tr><td rowspan="2">云南梧桐Firmianamajor</td><td rowspan="2">10.10</td><td rowspan="2">10.27</td><td rowspan="2">1.65</td><td>乔木</td></tr><tr><td>Arbor</td></tr><tr><td rowspan="2">云南山蚂蝗 Desmodium yunnanense</td><td rowspan="2">5.80</td><td rowspan="2">5.94</td><td rowspan="2">2.41</td><td>灌木</td></tr><tr><td>Shrub</td></tr></table></body></html>
+
+Table 5DBH of dead and recruitment individuals of community from 2O15 to 202   
+
+<html><body><table><tr><td rowspan="2">胸径径级 DBH Size-class DBH/cm</td><td colspan="2">死亡个体 Dead individuals</td><td colspan="2">补员个体 Recruitment individuals</td></tr><tr><td>个体数</td><td>平均胸径</td><td>个体数</td><td>平均胸径</td></tr><tr><td>1 cm≤DBH<5 cm</td><td>No. Of individuals 0</td><td>Average DBH(cm) 0.00</td><td>No. Of individuals 96</td><td>Average DBH (cm) 2.31</td></tr><tr><td>5 cm≤DBH<10 cm</td><td>13</td><td>6.71</td><td>128</td><td>6.87</td></tr><tr><td>10 cm≤DBH<15 cm</td><td>2</td><td>13.25</td><td>2</td><td>10.25</td></tr><tr><td>15 cm≤DBH<20 cm</td><td>3</td><td>17.57</td><td>0</td><td>NA</td></tr><tr><td>20 cm≤DBH<25 cm</td><td>3</td><td>22.77</td><td>0</td><td>NA</td></tr><tr><td>25 cm≤DBH<30 cm</td><td>1</td><td>25.70</td><td>0</td><td>NA</td></tr><tr><td>DBH≥30 cm</td><td>0</td><td>NA</td><td>0</td><td>NA</td></tr></table></body></html>
+
+# 表62015\~2020 年群落常见种群死亡个体和补员个体的胸径
+
+Table 6The DBH of dead and recruitment individuals of the common populations in community from 2015 to 2020   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="2">平均胸径 Average DBH (cm)</td></tr><tr><td>死亡个体</td><td>补员个体</td></tr><tr><td></td><td>Dead individuals</td><td>Recruitment individuals</td></tr><tr><td>攀枝花苏铁 Cycas panzhihuaensis 铁橡栎Quercuscocciferoides</td><td>20.09</td><td>0.00</td></tr><tr><td>滇榄仁Terminalia franchetii</td><td>6.51</td><td>2.55</td></tr><tr><td>蒙桑Morus mongolica</td><td>9.40 10.40</td><td>6.81</td></tr><tr><td>岩柿Diospyros dumetorum</td><td>NA</td><td>7.51</td></tr><tr><td>山槐Albizia kalkora</td><td>NA</td><td>6.27</td></tr><tr><td>沙针 Osyris quadripartita</td><td>NA</td><td>6.40</td></tr><tr><td>黄荆Vitex negundo</td><td>NA</td><td>NA</td></tr><tr><td>栎叶枇杷 Eriobotrya prinoides</td><td>6.10</td><td>NA</td></tr><tr><td>红椿Toona ciliata</td><td>NA</td><td>7.33</td></tr><tr><td>绿黄葛树Ficusvirens</td><td>NA</td><td>NA</td></tr><tr><td>无患子Sapindus saponaria</td><td>NA</td><td>9.70</td></tr><tr><td>云南梧桐Firmiana major</td><td>NA</td><td>NA</td></tr><tr><td></td><td></td><td>9.75</td></tr><tr><td>云南山蚂蝗 Desmodium yunnanense</td><td>5.80</td><td>5.94</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1群落多样性的变化
+
+干热河谷次生稀树灌木林植株总个体数增至1710 株(2020 年)，增幅 $0 . 1 3 \%$ 。其中，除攀枝花苏铁外，乔木树种补员个体数较多。说明随着森林演替的进行，群落结构特征趋于复杂化，可能因胸径增长(表4)以及冠幅增加而较2015年的林下环境更加复杂，异质性更强(表4)(Chazdon,2008)，这有利于更多类型植物(例如，阳生植物)的幼苗和幼树存活(Bartels &Chen,2010)。正因如此，群落内环境(如光照条件)可能逐渐适于高大乔木树种的生长，喜阳型灌木树种(攀枝花苏铁)优势度逐渐降低(图1)(Monsi& Saeki,2005)。随着群落演替的进行，群落物种多样性及均匀度的非显著增加趋势符合物种丰富度随森林演替变化的经验性研究结论(Odum,1969;Zhang&Wu,2014)。而本研究也说明渐进性物种多样性的升高不仅能发生在原生演替过程中(Whittaker&Richards,1989)，同样也会出现在干热河谷气候条件孕育出的干热河谷次生稀树灌木林次生演替阶段的森林群落。这种随演替进程逐渐增大的物种多样性格局可能与生态位分化假说相关联(Long etal.,2012)。一般地，当群落接近演替顶极时，由于群落内环境较演替初期的改变，会创造出更多的生态位空间，植物物种可能更有效地利用该阶段衍生出的资源(例如，异质性光、水、土壤等环境条件等)、占据已分化出的生态位，例如，根据物种自身生物学特性以及与其他物种间的竞争动态调节萌发时间，规避季节性的不良环境影响而产生的时间生态位(Dyer etal.,2000;Geber&Griffen,2003),亦或再度细化原有生态位空间，以减少物种间竞争，从而促进群落更多物种共存(Whittaker,1965;De Luis etal.,2008;Donohue et al.,2010; Roscher et al.,2011; Cormell,2013)，这一研究结果也表明当前干热河谷次生稀树灌木林为进展演替。此外，群落物种均匀度的增加表明群落生物竞争的重要性将随森林群落次生演替的进行有所增加(Holdaway& Sparrow,2006)，这可能与次生演替初期群落相对丰富的资源和较小的群落及种群密度使群落尚未触及最大环境承载力相关
+
+(Sardans&Penuelas,2015)。
+
+# 3.2优势树种生态特性的变化
+
+一般地，森林群落次生演替初期的植被源于经干扰后的原生植物群落，且多处于灌、草阶段(李俊清和牛树奎，2006)。次生演替初期的干热河谷次生稀树灌木林内土壤含水量低、空气干燥等(杨万勤等，2002；明庆忠和史正涛,2007，Peng etal.,2013)环境也适宜阳生灌木、草本植物的生长发育。因此，2015 年攀枝花苏铁的优势度较高 $( \mathrm { I V } = 6 9 . 7 0 )$ 。此时，群落内林冠郁闭程度和生境异质程度均较高阶演替阶段的群落低(Cormell,2013)，补充生态位尚未形成或生态位尚未细化(Dyer et al.,2000; Geber& Griffen,2003)，而经历 5年次生演替，群落内环境异质性和林分郁闭度均逐渐增加，致使攀枝花苏铁种群个体死亡。此外，其他常见树种胸径增长带来的竞争压力也是该种群优势度逐渐降低的原因之一(表4)(Getzin et al.,2006)。由表6可知，攀枝花苏铁种群补员个体均为 $\mathrm { D B H } = 0 \ \mathrm { c m }$ 的幼苗，具有一定耐荫蔽能力，其所需空间及资源相对较少，并且以母株为中心的聚集也能够更好地缓解群落高温、干旱等不良环境的干扰(杨万勤等，2002；明庆忠和史正涛,2007，Peng et al.,2013)，还能有效发挥群体效应抵御其他种群可能存在种群间的竞争压力，故种群保持更新良好(苏爱玲等，2010)。而该种群较大径级个体对资源(尤其光照)需求较大，虽然干热河谷光照充足，但随着乔木树种胸径的增大(表4)、冠幅扩展以及郁闭度的增加，林下光照强度逐渐降低，从而影响该种群较大径级个体的生长(表6)，致使种群优势度降低(图1)，这与光的耐受性是衡量植物更新需求和生态位分化的重要指标的研究结论相似(Kingetal.,2006)。
+
+# 3.3群落更新和演替规律
+
+森林群落中反映更新动态的直接指标为群落的死亡率和补员率(丁晖等，2018)。就年死亡率 $( 0 . 2 9 \% )$ 而言，较巴拿马BCI样地 $( 2 . 6 4 \%$ )(Condit etal.,1999)、马来西亚Pasoh样地（20 $( 1 . 4 6 \%$ )(King et al.,2006)、鼎湖山 $2 0 \mathrm { h m } ^ { 2 }$ 亚热带常绿阔叶林样地 $( 1 . 9 7 \% )$ (周小勇等，2005)、古田山 $5 \mathrm { h m } ^ { 2 }$ 样地 $( 2 . 0 2 \% )$ (汪殷华等，2011)、百山祖 $5 \mathrm { h m } ^ { 2 }$ 样地 $( 1 . 4 5 \% )$ (陈小荣等，2013)、天目山 $1 \ : \mathrm { h m } ^ { 2 }$ 常绿落叶阔叶混交林样地 $( 1 . 5 1 \% )$ (游诗雪等，2016)以及武夷山 $0 . 4 8 \ \mathrm { h m } ^ { 2 }$ 样地$( 1 . 3 1 \% )$ 丁晖等，2018)低。群落年补员率 $( 2 . 7 5 \% )$ 则居中，低于古田山 $( 5 . 0 9 \% )$ 、鼎湖山 $( 3 . 1 7 \% )$ 、武夷山 $( 2 . 9 8 \% )$ 、巴拿马 $( 2 . 8 7 \% )$ 等样地，但较天目山 $( 1 . 8 6 \% )$ 、马来西亚 $( 1 . 6 5 \% )$ 、百山祖 $( 0 . 6 2 \% )$ 等样地高。干热河谷次生稀树灌木林较低的年死亡率可能源于其尚处于森林次生演替初级阶段，该阶段群落内植物个体胸径较小(表4)，群落密度较低，且优势种多为阳生的灌木(或小乔木)、草本物种(李俊清和牛树奎，2006)，对群落环境需求相对较低，物种间的竞争关系或因植株个体胸径较小、群落密度较低而尚未出现或强度较低，故群落死亡率较低。此时，群落密度亦尚未达到环境最大承载力，且群落内空间、资源相对均一丰富(Sardans＆ Penuelas,2015)，致使各种群补员更新个体的生存概率大幅提高。但该阶段群落内较低的环境异质性使更多的更新生态位尚未形成或生态位未被细化(Cormell,2013)，这不利于耐阴或阴生植物幼苗的更新，因而群落补员率相较上述各类型群落处于居中位置。
+
+Condit etal.(1999)认为种群变化率大于 $5 \%$ 的种群为快速变动种群。从群落层面来看，$2 0 1 5 { \sim } 2 0 2 0$ 年，干热河谷次生稀树灌木林种群变化速率较为缓慢 $( 2 . 4 6 \% )$ 。但仍有7个树种种群大小变化率高于 $5 \%$ ，占2015年树种总数的 $4 1 . 1 8 \%$ ，表明多数种群数量呈增长趋势。群落种群大小变化率大于 $5 \%$ 的种群占比较古田山样地 $( 2 3 . 2 6 \% )$ (汪殷华等，2011)、武夷山样地$( 1 9 . 7 5 \% )$ (丁晖等，2016)、BCI样地( $1 0 \%$ (Condit etal.,1999)、Pasoh样地 $( 2 \% )$ (King et al., 2006)以及百山祖样地 $( 0 \% )$ (陈小荣等，2013)等高 $( 4 1 . 1 8 \% )$ ，这可能与演替初期的群落内环境异质性较低，资源相对丰富密不可分，符合物种周转率随林分年龄及演替阶段逐渐减缓的趋势(Shugart＆Hett,1973)。而在规模增大的种群中，攀枝花苏铁种群变化率最低 $( 0 . 0 4 \% )$ ，说明建群种攀枝花苏铁种群规模虽也在扩大，但均以小径级个体为主(表6)，且因群落次生演替而导致的群落内环境(例如，林冠下光照)的变化致使其优势度逐渐下降(Whitfeld et al.,
+
+2014)(图1)，种群逐渐势微，易危形势依旧不容忽视，在无人为干扰情况下，森林群落未来演替路径可能与攀枝花苏铁种群就地保护产生矛盾，应在日后种群科学管理中加以关注，尽量在不影响群落次生演替进程的情况下对攀枝花苏铁种群进行有效就地保护。即便如此，在今后若干年内，干热河谷次生稀树灌木林建群种仍为攀枝花苏铁种群，随着次生演替的进行，建群种攀枝花苏铁种群优势度将逐渐降低，群落将逐渐演替形成以阳生乔木(铁橡栎等)与耐阴乔木(滇榄仁等)为建群种，灌木型种群(如攀枝花苏铁)为伴生种的次生林群落。
+
+在森林群落演替进程中，亦不能排除更多物种进入该群落或2020年出现新物种更新良好，从而影响群落物种组成的情况。但短期内对群落现有优势种的优势程度影响较小。此外，群落垂直结构、生物量、种群空间格局及种间关联等方面的动态变化是否对群落演替动态产生影响？该群落是否能演替形成区域气候顶极群落？亦或由常年风效应的影响而发生偏途演替？对于这些问题的解答，尚需日后深入研究。
+
+# 4结论
+
+通过对四川攀枝花苏铁国家级自然保护区干热河谷次生稀树灌木林 $1 \ \mathrm { h m } ^ { 2 }$ 固定样地动态监测(2015\~2020年)研究发现：(1)2020 年群落木本植物共计15 科18属18种，较 2015年增加了1属1种；(2）群落优势种组成并无变化，但优势度变化明显，在重要值大于1的6个种群中，5个树种重要值增高，仅1个降低。攀枝花苏铁种群仍为群落建群种，但优势度显著下降，而铁橡栎和滇榄仁种群优势度则显著增加，说明乔木树种未来将在群落中占据优势地位，攀枝花苏铁种群易危形势仍不可忽视。(3)2020年，群落 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的木本植物个体数增至1710株，年死亡率 $0 . 2 9 \%$ ，年补员率 $2 . 7 5 \%$ ，7个种群出现个体死亡，9个出现补员个体。1个种群数量降低，9个上升，4个种群数量稳定。(4）群落平均胸径由 $1 1 . 1 0 \mathrm { c m }$ 增至 $1 1 . 1 7 \mathrm { c m }$ ，死亡个体平均胸径为 $1 1 . 8 4 \mathrm { c m }$ ，补员个体平均胸径为 $4 . 9 6 \mathrm { c m }$ 。攀枝花苏铁种群和沙针种群平均胸径降低，其余种群平均胸径均有不同程度的增大。说明虽然攀枝花苏铁种群数量有所增加，但种群内大径级植株个体的死亡是该种群优势度显著降低的主要原因，短期并不会失去优势地位。2015\~2020年干热河谷次生稀树灌木林演替渐趋复杂，物种更新也较为迅速，随着森林演替的进行，种间竞争重要性将逐渐增大，乔木树种优势度、更新率的增大预示着群落将进入次生演替的新阶段，乔木树种将逐渐占据优势。攀枝花苏铁将与铁橡栎、滇榄仁等乔木树种组成向气候顶极群落演替的过度型次生林群落。应采取相应措施减少人为干扰，以便研究干热河谷次生稀树灌木林次生演替进程，并加强保护力度防止植被再次退化。
+
+致谢：四川攀枝花苏铁国家级自然保护区管理为本研究提供试验场地，该单位工程师李贵能，攀枝花学院杨庆明、程萍、高青青、任秀、王定宏、谢宇宣等同学参加野外调查，特此感谢！
+
+# 参考文献：
+
+BARTELS SF, CHEN HYH, 2010. Is understory plant species diversity driven by resource quantity or resource heterogeneity?[J]. Ecology, 91(7): 1931-1938.   
+CHANG C，HILLERISLAMBERS J，2016. Integrating succession and community assembly perspectives[J]. F1000Res, 5(1): F1000 Faculty Rev-2294.   
+CHAZDON R L,2008. Tropical forest community ecology[M]. New York: Wiley: 384-409.   
+CHEN XP, 2009.A study on community dynamics of coniferous and broadleaf mixed forests in Wuyishan[D]. Fuzhou: Fujian Agriculture and Forestry University: 11-15.[陈新鹏,2009.武 夷山针阔混交林群落动态研究[D]．福州：福建农林大学：11-15.]   
+CONDIT R, ASHTON P S, MANOKARAN N, et al.， 1999. Dynamics of the forest communities at Pasoh and Barro Colorado: comparing two 50-ha plots[J]. Phil Trans Roy Soc B-Biol Sci, 354(1391): 1739-1748.   
+CORNELL H V, 2013. Is regional species diversity bounded or unbounded[J]? Biol Rev, 88(1): 140-165.   
+CHEN XR, CHEN YY, LUO ZR, et al.， 2013. A 5-year mid-mountain subtropical evergreen broadleaved forest study in Baishanzu, East China[J]. J Zhejiang A & F Univ, 30(6): 821-829. [陈小荣，陈圆圆，骆争荣，等，2013．百山祖中山中亚热带常绿阔叶林群落5年动态特 征[J]．浙江农林大学学报,30(6):821-829.]   
+CHEN XX, BAO KW, HE QH, et al.， 2021. Community dynamics of arbor layer in subalpine forest of western Sichuan by different restoration approaches from 2005-2015[J]. Chin JEcol, 40(5):1253-1263.[陈晓霞，包维楷，何其华，等，2021.2005-2015年不同恢复途径下川 西亚高山森林乔木层群落动态变化[J]．生态学杂志，40(5)：1253-1263.]   
+DE LUIS M, RAVENTOS J, WIEGAND T, et al.， 2008. Temporal and spatial differentiation in seedling emergence may promote species coexistence in Mediterranean fire-prone ecosystems[J]. Ecography,31(5): 620-629.   
+DING H, XU H, XU XJ, et al.,2018. Community dynamics of arbor layer in the Castanopsis eyrei evergreen broad-leaved forest in the Wuyi Mountains, Fujian Province, southeastern China in 2011-2016[J].Acta Ecol Sin,38(20):7391-7399.[丁晖，徐辉，徐鲜钧，等，2018. 2011-2016 年武夷山甜褚常绿阔叶林乔木层群落动态．生态学报，38(20)：7391-7399.]   
+DONOHUE K, RUBIO DCR,BURGHARDT L, et al.， 2010. Germination, postgermination adaptation, and species ecological ranges[J]. Ecol Evol Syst, 41(1): 293-319.   
+DYER AR， FENECH A，RICE KJ， 2000. Accelerated seedling emergence in interspecific competitive neighbourhoods[J]. Ecol Lett, 3(6): 523-529.   
+FANG JY,LI YD, ZHU B, et al.， 2004. Community structures and species richness in the montane rain forest of Jianfengling,Hainan Island, China[J].Biodivers Sci,12(1): 29-43.[方精云，李 意德，朱彪，等，2004．海南岛尖峰岭山地雨林的群落结构、物种多样性以及在世界雨 林中的地位[J].生物多样性，12(1)：29-43.]   
+GAO XM, ZHAO YJ, YANG XJ, et al., 2013. Linking Trait Differences to Community Dynamics: Evidence from Eupatorium adenophorum and Co-Occurring Native Species during a Three-Year Succession[J]. PLoS ONE, 8(1): e50247.   
+GEBER MA, GRIFFEN LR,2O03. Inheritance and Natural Selection on Functional Traits[J]. Int J Plant Sci, 164(S3): S21-S42.   
+GETZIN S, DEAN C, HE FL, et al., 2006. Spatial paterns and competition of tree species in a Douglas-fir chronosequence on Vacouver Island[J]. Ecography,29(5): 671-682.   
+HE JS,LIU CR,MA KP, 1998. Standards and methods for forest biodiversity monitoring[M]. Beijing: China Forestry Publishing House:331-347.[贺金生，刘灿然，马克平，1998．森 林生物多样性检测规范和方法[M]．北京：中国林业出版社：331-347.]   
+HE ZY, WANG Y, SU ZA, et al., 2020. Differences in vegetation community structure in hot-dry valleys in Yunnan Province related to valley stability[J]. Acta Pratac Sin, 29(9): 28-37.[何周 窈，王勇，苏正安，等，2020.干热河谷冲沟沟头活跃度对植物群落结构的影响[J]．草 业科学，29(9):28-37.]   
+HOLDAWAY RJ， SPARROW AD， 2006. Assembly rules operating along a primary riverbed-grassland successional sequence[J]. JEcol, 94(6): 1092-1102.   
+HOOPER ER,LEGENDER P, CONDIT R, 2004. Factors affecting community composition of forest regeneration in deforested, abandoned land in Panama[J]. Ecology,85(12): 3313-3326.   
+HU YH, CAO M, LIN LX, 2010. Dynamics of trees species composition and community structure of a tropical seasonal rain forest in Xishuangbanna, Southwest China[J].Acta Ecol Sin, 30(4):0949-0957.[胡跃华，曹敏，林露湘，2010．西双版纳热带季节雨林的树种组成 和群落结构动态[J]．生态学报，30(4)：0949-0957.]   
+JAYAKARAN AD, WILLIAMS TM, SSEGANE H, et al.， 2014. Hurricane impacts on a pair of coastal forested watersheds: implications of selective hurricane damage to forest structure and streamflow dynamics[J]. Hydrol Earth Syst Sci, 18(3): 1151-1164.   
+JI YL，2016. Species diversity of woody plant and update dynamics research of dominant populations in 24 ha sample plot at Gutian Mountain National Reserve[D]. Jinhua: Zhejiang Normal University: 49-53.[冀艳利，2016.古田山 $2 4 \mathrm { { h a } }$ 样地木本植物物种多样性及优势 种群更新动态研究[D]．金华：浙江师范大学：49-53.]   
+JIN ZZ, 2002. Floristic Features of Dry-hot and Dry-warm Valeys[M]. Kunming: Yunnan Science an Technology Press:10-11.[金振洲，2002．滇川干热河谷与干暖河谷植物区系特征[M]. 昆明，云南科技出版社：10-11.]   
+JIN ZZ, OU XK, 2000. Yuanjiang,Nujiang, Jinshajiang, Lancangjiang Vegetation of Dry-hot Valley[M]. Kunming: Yunnan University Press and Yunnan Science and Technology Press: 141-214.[金振洲，欧晓昆，2000．元江、怒江、金沙江、澜沧江干热河谷植被[M]．昆 明：云南大学出版社和云南科技出版社：141-214.]   
+KHAIRIL M, JULIANA WW, NIZAM MS, 2014. Edaphic influences on tree species composition and community structure in a tropical watershed forest in peninsular Malaysia[J]. J Trop For Sci, 26(2): 284-294.   
+KING DA, DAVIES SJ, NOOR NSM, 2006. Growth and mortality are related to adult tree size in a Malaysian mixed dipterocarp forest[J]. Forest Ecol Manage, 223(1): 152-158.   
+KUANG X, XING DL, ZHANG ZC, et al.， 2014. Species composition and community structure of a spruce-fir forest and a larch forest on the northern slope of Changbai Mountains, Northeast China[J].Chin JAppl Ecol,25(8):1-10.[匡旭，邢丁亮，张昭臣，等，2014．长 白山北坡云冷杉林和落叶松林样地物种组成与群落结构[J]．应用生态学报，25(8):1-10.]   
+LI JQ,NIU SK,2006.Forestry Ecology[M]. Beijing: Higher Education Press: 316-322.[李俊清, 牛树奎，2006．森林生态学[M]．北京：高等教育出版社：316-322.]   
+LIN YM, CHEN AM, YAN SW, et al.， 2019. Available soil nutrients and water content affect leaf nutrient concentrations and stoichiometry at different ages of Leucaena leucocephala forests in dry-hot valley[J]. J Soils Sediments,19(9): 511-521.   
+LIU XF, MA YP, WAN YM, et al.， 2020. Genetic Diversity of Phyllanthus emblica From Two Different Climate Type Areas[J]. Front Plant Sci,11(1): 580812.   
+LIU HF,LI L， SANG WG， 2011. Species composition and community structure of the Donglingshan forest dynamic plot in a warm temperate deciduous broad-leaved secondary forest,China[J].Biodivers Sci,19(2): 232-242.[刘海丰，李亮，桑卫国，2011．东灵山暖 温带落叶阔叶次生林动态监测样地：物种组成与群落结构[J].生物多样性，19(2): 232-242.]   
+LIU HM, MA ZP, YANG QS, et al.， 2017. Relationships between established seedling survival and growth in evergreen broad-leaved forest in Tiantong[J]. Biodivers Sci, 25(1): 11-22.[刘 何铭，马遵平，杨庆松，等，2017．天童常绿阔叶林定居幼苗存活和生长的关联[J]．生 物多样性，25(1)：11-22.]   
+LONG W X, YANG X B, LI D H, 2012. Patterns of species diversity and soil nutrients along a chronosequence of vegetation recovery in Hainan Island, South China[J]. Ecol Res, 27(3): 561-568.   
+LONG WX, ZANG RG, DING Y, 2011. Community characteristics of tropical montane evergreen forest and tropical montane dwarf forest in Bawangling National Nature Reserve on Hainan Island,South China[J].Biodivers Sci,19(5): 558-566.[龙文兴，臧润国，丁易，2011．海南 岛霸王岭热带山地常绿林和热带山顶矮林群落特征[J].生物多样性，19(5)：558-566.]   
+LOREAU M, NAEEM S, INCHAUSTI P, et al.， 2001. Biodiversity and ecosystem functioning: current knowledge and future challenges[J]. Science, 294(5543): 804-808.   
+MA HC, MCCONCHIE JA, 2001. The dry-hot valleys and forestation in southwest China[J]. J Forest Res, 12(1): 35-39.   
+MEYERS LM,DEKEYSER ES, NORLAND JE, 2014. Differences in spatial autocorrelation (SAc), plant species richness and diversity,and plant community composition in grazed and ungrazed grasslands along a moisture gradient, North Dakota, USA[J]. Appl Veg Sci, 17(1): 53-62.   
+MING QZ, SHI ZT,2O07. New discussion on dry valley formation in the three parallel rivers region[J].JDesert Res,27(1):99-104.[明庆忠，史正涛，2007．三江并流区干热河谷成因 新探析[J]．中国沙漠，27(1)：99-104.]   
+MONSI M, SAEKI T, 2005. On the factor light in plant communities and its importance for matter production[J]. Ann Bot, 95(3): 549-567.   
+NI DQ，2014. Studied on the community structure and dynamics of typical coniferous and broad-leaved mixed forests in Changbai Mountain region[D]. Beijing: Beijing Forestry University:65-78.[倪端强，2014．长白山典型针阔混交林群落结构与动态研究[D]．北 京：北京林业大学：65-78.]   
+ODUM EP, 1969. The strategy of ecosystem development[J]. Science,164(3877): 262-270.   
+PENG SL, CHEN AQ, FANG HD,et al.， 2013. Eects of vegetation restoration types on soil quality in Yuanmou dry-hot valley, ChinaJ]. Soil Sci Plant Nutr, 59(3): 347-360.   
+PICKETT STA, MCDONNELL MJ,1989. Changing perspectives in community dynamics: A theory of successional forces[J]. Trends Ecol Evol, 4(8): 241-245.   
+ROSCHER C, KUTSCH WL, KOLLE O, et al.， 2011. Adjustment to the light environment in small-statured forbs as a strategy for complementary resource use in mixtures of grassland species[J]. Ann Bot, 107(6): 965-979.   
+SARDANS J, PENUELAS J, 2015. Potassium: a neglected nutrient in global change[J]. Global Ecol Biogeogr,24(3): 261-275.   
+SHAHEEN H, ULLAH Z, KHAN SM, et al., 2012. Species composition and community structure of western Himalayan moist temperate forests in Kashmir[J]. For Ecol Manage, 278: 138-145.   
+SHENG DY, ZHUANG XY, XU H, et al., 2012. Community structure of endemic woody plants in tropical montane rainforest of Jianfengling,Hainan Island, China[J]. Chin JPlant Ecol, 36(9): 935-947.[盛大勇，庄雪影，许涵，等，2012.尖峰岭热带山地雨林海南特有木本植物群 落结构[J]．植物生态学报，36(9)：935-947.]   
+SHI JP, ZHU H, 2009. Tree species composition and diversity of tropical mountain cloud forest in the Yunnan, southwestern China[J]. Ecol Res, 24(1): 83-92.   
+SHUGART HH, HETT JM, 1973. Succession: similarities of species turnover rates[J]. Science, 180(4093): 1379-1381.   
+SU AL, XU GP,DUAN CJ, et al., 2010. Community Structure and Point Patern Analysis on Main Plant Populations of Potentilla fruticosa Shrub Meadow in Qilian Mountain[J]. Acta Bot Boreal-Occident Sin,30(6):1231-1239.[苏爱玲，徐广平，段吉闯，等，2010．祁连山金 露梅灌丛草甸群落结构及主要种群的点格局分析[J]．西北植物学报，30(6)：1231-1239.]   
+TILMAN D，REICH PB,KNOPS JMH，2006.Biodiversity and Ecosystem stability in a decade-long grassland experiment[J]. Nature, 441(7093): 629-632.   
+WANG BS,1987. Plant Community[M]. Beijing: Higher Education Press: 27-28.[王伯荪，1987. 植物群落学[M].北京：高等教育出版社：27-28.]   
+WANG BS, YU SX, PENG SL, 1996. Experimental Manual of Plant Community[M]. Guangzhou: Guangdong Higher Education Press: 6-7.[王伯荪，余世孝，彭少麟，1996．植物群落学实 验手册[M]．广州：广东高等教育出版社：6-7.]   
+WANG YH, MI XC,CHEN SW, et al.， 2011. Regeneration dynamics of major tree species during 2002-2007 in a subtropical evergreen broad-leaved forest in Gutianshan National Nature Reserve in East China[J].Biodivers Sci,19(2):178-189.[汪殷华，米湘成，陈声文，等, 2011．古田山常绿阔叶林主要树种 2002-2007 年间更新动态[J]．生物多样性，19(2): 178-189.]   
+WHITFELD TJS, LASKY JR, DAMAS K, et al.， 2014. Species richness, forest structure, and functional diversity during succession in the new Guiea lowlands[J]. Biotropica, 46(5): 538-548.   
+WHITTAKER RH,1965.Dominance and diversity in land plant communities[J]. Science, 147(3655): 250-260.   
+WHITTAKER RH, RICHARDS K, 1989. Plant recolonization and vegetation succession on the Krakatau Island, Indonesia[J]. Ecol Monogr, 59(2): 59-123.   
+XIAO Y, ZHOU GY, ZHANG QM, et al.， 2014. Increasing active biomass carbon may lead to a breakdown of mature forest equilibrium. Sci Rep, 4(4): 1-6.   
+XU H,LI YD,LUO TS,et al.， 2013.Environmental factors correlated with species diversity in different tropical rain forest types in Jianfengling, Hainan Island, China[J]. Chin JPlant Ecol, 37(1):26-36.[许涵，李意德，骆土寿，等，2013．海南尖峰岭不同热带雨林类型与物种 多样性变化的环境因子[J]．植物生态学报，37(1)：26-36.]   
+XU LN, JIN GZ, 2012. Species composition and community structure of a typical mixed broad-leaved-Korean pine (Pinus koraiensis） forest plot in Liangshui Nature Reserve, Northeast China[J].Biodivers Sci,20(4):470-481.[徐丽娜，金光泽，2012．小兴安岭凉水 典型阔叶红松林动态监测样地：物种组成与群落结构[J]．生物多样性，20(4)：470-481.]   
+YANG WQ, WANG KY, SONG GY, et al.， 2002. Investigation on ecological safety in the dry-hot valley of Jinsha River[J].Chin JEco-Agric,10(3):116-118.[杨万勤，王开运，宋光煜，等， 2002.金沙江干热河谷典型区生态安全问题探析[J].中国生态农业学报，10(3)： 116-118.]   
+YANG Y, MO X, LIU B, et al.， 2015. Color Flora of the Sichuan Panzhihua Cycas National Nature Reserve in the Valey of the Jinsha River in Southwest China[M]. Beijing: Higher Education Press:1-2.[杨永，莫旭，刘冰，等，2015．金沙江河谷四川攀枝花苏铁国家级 自然保护区彩色植物图志[M]．北京：高等教育出版社：1-2.]   
+YE WH, CAO HL, HUANG ZL, et al.， 2008. Community structure of a $2 0 \mathrm { h m } ^ { 2 }$ lower subtropical evergreen broadleaved forest plot in Dinghushan, China[J]. Chin JPlant Ecol, 32(2): 274-286. [叶万辉，曹洪麟，黄忠良，等，2008．鼎湖山南亚热带常绿阔叶林 20公顷样地群落特 征研究[J]．植物生态学报，32(2)：274-286.]   
+YOU SX, ZHANG C, KU WP, et al.， 2020. Community Dynamics of Arbor Layer in the Mixed Evergreen and Deciduous Broad-Leaved Forests during 1996 -2012 in Tianmu Mountain[J]. Sci Silv Sin,52(10):1-9.[游诗雪，张 超，库伟鹏，等，2016.1996-2012天目山常绿落 叶阔叶混交林乔木层群落动态．林业科学，52(10)：1-9.]   
+YUAN Y, XIONG DH, WU H, et al.， 2020. Spatial variation of soil physical properties and its relationship with plant biomass in degraded slopes in dry-hot valley region of Southwest China[J]. J Soils Sediments,20(5): 2354-2366.   
+ZANG RG, YANG YC， JIANG YX, 2001. Community structure and tree species diversity characteristics in a tropical montane rain forest in Bawangling Nature Reserve, Hainan Island[J].ChinJPlant Ecol,25(3):270-275.[臧润国，杨彦承，蒋有绪，2001．海南岛霸 王岭热带山地雨林群落结构及树种多样性特征的研究[J]．植物生态学报，25(3)： 270-275.]   
+ZHANG Y, CHEN HYH, 2015. Individual size inequality links forest diversity and above-ground biomass[J]. JEcol,13(5): 1245-1252.   
+ZHANG JY, WU YX, 2014. Changes in diversity and importance of clonal plants during sand dune succession in northeastern China[J]. Ecol Res,29(3): 393-399.   
+ZHANG JT, 2011. Quantitative Ecology(second edition)[M]. Beijing: Science Press: 87-91. [张金 屯,2011．数量生态学(第二版)[M]．北京：科学出版社：87-91.]   
+ZHANG YB, WU HD, YANG J, et al.， 2020. Environmental filtering and spatial processes shape the beta diversity of liana communities in a vally savanna in southwest China[J]. Appl Veg Sci, 23(4): 482-494.   
+ZHOU XY, HUANG ZL, OUYANG XJ, et al.， 2005. Succession of the original Castanopsis chinensis-Cryptocarya chinensis-Schima superba community of monsoom evergreen broad-leaved forest in Dinghushan Nature Reserve[J].Acta Ecol Sin, 25(1): 37-44.[周小勇, 黄忠良，欧阳学军，等，2005．鼎湖山季风常绿阔叶林原锥栗一厚壳桂一荷木群落演替 [J]．生态学报，25(1)：37-44.]   
+ZHU Y, ZHAO GF, ZHANG LW, et al.， 2008. Community composition and structure of Gutianshan forest dynamic plot in a mid-subtropical evergreen broad-leaved forest, East China[J].Chin JPlant Ecol,32(2):262-273.[祝燕，赵谷风，张俪文，等，2008．古田山中 亚热带常绿阔叶林动态监测样地—群落组成与结构[J]．植物生态学报，32(2)：262-273.]
+
+附表：四川攀枝花苏铁国家级自然保护区干热河谷次生稀树灌木林 $1 \ : \mathrm { h m } ^ { 2 }$ 固定样地木本植物 名录(2020年) Attached list: $1 \ : \mathrm { h m } ^ { 2 }$ fixed sample plot woody plant list for secondary savanna shrub forest of arid-hot valley in National Nature Reserve of Cycas panzhihuaensis (in 2020)   
+
+<html><body><table><tr><td>物种名</td><td>拉丁名</td></tr><tr><td>Species</td><td>Latin</td></tr><tr><td>攀枝花苏铁</td><td>Cycas panzhihuaensis</td></tr><tr><td>铁橡栎</td><td>Quercus cocciferoides</td></tr><tr><td>滇榄仁</td><td>Terminalia franchetii</td></tr><tr><td>蒙桑</td><td>Morus mongolica</td></tr><tr><td>岩柿</td><td>Diospyros dumetorum</td></tr><tr><td>山槐</td><td>Albiziakalkora</td></tr><tr><td>黄荆</td><td>Vitex negundo</td></tr><tr><td>红椿</td><td>Toona ciliata</td></tr><tr><td>云南梧桐</td><td>Firmiana major</td></tr><tr><td>栎叶枇杷</td><td>Eriobotrya prinoides</td></tr><tr><td>绿黄葛树</td><td>Ficusvirens</td></tr><tr><td>沙针</td><td>Osyris quadripartita</td></tr><tr><td>无患子</td><td>Sapindussaponaria</td></tr><tr><td>钝叶黄檀</td><td>Dalbergia obtusifolia</td></tr><tr><td>假烟叶树</td><td>Solanum erianthum</td></tr><tr><td>云南山蚂蝗</td><td>Desmodium yunnanense</td></tr><tr><td>云南白杨</td><td>Populusyunnanensis</td></tr><tr><td>三叶梣</td><td>Fraxinus trifoliolata</td></tr></table></body></html>

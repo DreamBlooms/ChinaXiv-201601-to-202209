@@ -1,0 +1,128 @@
+# 塔里木河下游近20a输水的生态效益监测分析
+
+陈亚宁，吾买尔江·吾布力²，艾克热木·阿布拉²，程勇²， 陈亚鹏¹，郝兴明1，朱成刚¹，汪洋3
+
+(1.中国科学院新疆生态与地理研究所，荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2.新疆塔里木河流域管理局,新疆 库尔勒841000；3.新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830052)
+
+摘要：自2000年实施以抬升地下水位、拯救塔里木河下游“绿色走廊”遏制生态持续恶化为目的的生态输水工程以来，截至2020年，已向塔里木河下游实施生态输水21次，累计输水量达 $8 4 . 4 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。近20a的监测结果分析显示：(1)在距河道 $1 0 0 \mathrm { m }$ 处，塔里木河下游的上段、中段、下段的地下水位埋深由输水前期2000年的 $7 . 7 6 \mathrm { m } , 9 . 3 1 \mathrm { m } , 7 . 8 2 \mathrm { m }$ 抬升至2020年的 $3 . 7 0 \mathrm { ~ m ~ } , 4 . 4 8 \mathrm { ~ m ~ } , 2 . 6 9 \mathrm { ~ m ~ }$ ，平均抬升幅度为 $4 . 0 6 \ \mathrm { m } \ 、 4 . 8 3 \ \mathrm { m } \ 、 5 . 1 3 \ \mathrm { m }$ ；在 $5 0 0 \mathrm { m }$ 处，地下水位埋深分别由输水前的 $8 . 2 1 ~ \mathrm { m } \cdot 9 . 4 5 ~ \mathrm { m } \cdot 9 . 0 8 ~ \mathrm { m }$ 抬升至 $6 . 6 1 ~ { \mathrm { m } } \cdot 5 . 4 6 ~ { \mathrm { m } } \cdot 3 . 8 2 ~ { \mathrm { m } }$ 。生态输水对塔里木河下游的上、中、下3个区段地下水位的影响范围均达到了 $1 0 5 0 \mathrm { m }$ ，分别抬升了 $2 . 6 9 \textrm { m } . 1 . 3 8 \textrm { m } . 1 . 5 9 \textrm { m } ( 2 )$ 地表水体面积由输水前的 $4 9 . 0 0 \mathrm { k m } ^ { 2 }$ 扩大到2019年的 $4 9 8 . 5 4 \mathrm { k m } ^ { 2 }$ ，尾闾湖泊一台特玛湖“死而复活”，地表水体面积达到 $4 5 5 . 2 7 \mathrm { k m } ^ { 2 } \circ ( 3 )$ 输水后，地表生态响应敏感，在距河道 $2 0 0 0 \mathrm { m }$ 范围内，塔里木河下游高植被覆盖度、归一化植被指数(ND-VI)、植被净初级生产力（NPP）、植被总初级生产力(GPP)分别增加了 $1 3 2 \mathrm { k m } ^ { 2 } , 0 . 0 7 , 7 . 6 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 和$1 2 2 1 \ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ ·季。(4)输水对塔里木河下游地表植被的影响和改善面积达到 $1 4 2 3 \mathrm { k m } ^ { 2 }$ ，生态系统服务价值和功能大幅增加，碳汇区域由2001年占研究区的 $1 . 5 4 \%$ 增长至2020年的 $7 . 8 0 \%$ ，生态系统健康程度和生态恢复力大幅提升，土壤碳汇能力增加。近20a的生态输水大幅抬升了塔里木河下游地下水位，沿河两岸以胡杨为主体的荒漠河岸林植被得到拯救和复壮，地表植被覆盖度增加,塔里木河下游生态退化趋势基本得到遏制。
+
+关键 词：生态输水；地下水位埋深；地表生态响应；塔里木河
+
+# 文章编号：
+
+塔里木河流域地处我国新疆南部，北依天山，南靠昆仑山，西接帕米尔高原，面积约 $1 0 2 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ 是我国丝绸之路经济带建设的核心区，具有自然资源相对丰富和生态环境极端脆弱的双重性特点。自20世纪60年代以来，塔里木河流域在以水土资源开发利用为核心的大强度人类经济、社会活动的作用下，塔里木河下游 $3 2 1 ~ \mathrm { k m }$ 河道断流，尾闾湖泊一一罗布泊和台特玛湖相继于1970年和1972年干涸，地下水位大幅度下降，以芦苇、罗布麻、骆驼刺等为主的草本植物大片死亡，胡杨、怪柳大面积衰败，风蚀沙化加剧，土地荒漠化过程加强，生态系统严重受损[],夹持在塔克拉玛干沙漠和库鲁克沙漠间的“绿色走廊”急剧萎缩。
+
+塔里木盆地是我国最干旱的一隅，盆地内大部分区域的多年降水量不足 $5 0 ~ \mathrm { m m }$ ，天然植被多为耐旱、抗盐碱的荒漠植被物种，具有伴河生长的特征。1975年塔里木河下游河道断流后，地下水及土壤水成为天然乔、灌、草植被赖以生存的主要水源。伴随地下水位大幅度下降，以胡杨为主体的荒漠河岸林生态系统出现加速退化趋势，表现为自上游至下游段、距河道由近至远，随地下水位埋深加大，植物种类减少、物种多样性指数降低，群落结构
+
+# 干吴区地理
+
+也趋向简单化,生态系统退化趋势日益加重[2]
+
+塔里木河流域日益严重的生态问题与水资源危机引起了社会各界和政府的高度关注，成为中国西部生态环境问题研究的热点地区，国家投资 $1 0 7 \times$ $1 0 ^ { 8 }$ 元进行塔里木河流域生态综合治理，自2000年实施了以抬升地下水位、拯救塔里木河下游“绿色走廊”、遏制生态持续恶化为目的的生态输水工程。截至2020年，已向塔里木河下游实施生态输水21次，累计输水量达 $8 4 . 4 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。本文结合近20a(2000一2020年)塔里木河下游生态输水的监测结果，从输水后的地下水位变化、地表生态过程响应等方面进行了分析梳理，旨在总结塔里木河下游生态输水和流域生态保育、恢复的成功经验，为丝绸之路经济带生态文明建设提供科技支撑。
+
+# 1研究区概况与监测断面布设
+
+# 1.1 研究区概况
+
+塔里木河干流大致可分为上、中、下游3段，其中，塔里木河下游段以恰拉水文站为节点，地处塔克拉玛干沙漠和库鲁克沙漠之间，末端是台特玛湖。塔里木河下游属大陆性暖温带荒漠干旱气候，气候干燥,多风沙天气,平均年降水量在 $1 7 . 4 { \sim } 4 2 . 0 \ \mathrm { m m }$ 之间，而平均年蒸发力高达 $2 5 0 0 { \sim } 3 0 0 0 ~ \mathrm { m m }$ ，是我国最干旱的地区之一(图1)。
+
+塔里木河流域是我国最干旱的一隅。在长期的干旱环境影响下，塔里木河下游植被类型主要以荒漠河岸植被为主，群落大都由具有耐盐性和抗旱性强的物种组成，物种多样性程度降低，局部地段有盐生荒漠植被发育，结构单一、种类贫乏。主要植物有胡杨（Populuseuphratica）多枝怪柳（Tamar-ixramosissima）刚毛怪柳(Tamarixhispida）黑果枸杞(Lycium ruthenicum）疏叶骆驼刺(Alhagi sparsifo-lia）、罗布麻(Apocynumvenetum）花花柴(Kareliniacaspia）、胀果甘草（Glycyrrhiza inflata）、芦苇（Phrag-mitesaustralis)等。由于河道断流后，多年没有大规模的洪水漫溢过程，不存在植物落种更新现象，也不涉及植物发生过程，地下水及土壤水成为天然乔、灌、草植被赖以生存的主要水源。然而，塔里木河下游的地下水位埋深大，尤其是塔里木河下游中段的英苏以下区段，地下水位埋深大多在 $8 \mathrm { m }$ 以下，部分区段甚至达到 $1 2 \mathrm { m }$ 以下。
+
+塔里木河下游为冲积细土平原，土壤的含水层岩性单一，主要为河湖相细砂和粉细砂以及风沙土。水文地质结构简单，含水层具有多层结构，按其埋藏条件可分为潜水含水层和承压含水层。其中，上部潜层地下水与河水联系密切，与下部承压含水层几乎无水力联系。
+
+# 1.2监测断面布设
+
+为了掌握和了解输水过程中塔里木河干流地下水位和地表植被变化情况，自2000年起，在塔里木河干流长 $1 3 2 1 \ \mathrm { k m } \cdot 1 5 2 0 \ \mathrm { k m } ^ { 2 }$ 范围内，建成了国内
+
+上车 开都河 博斯腾湖 NA 大西海子4克 NA有 库尔勒克苏河 塔 英乳 尉型 孔雀河 塔路尔达依 英苏 阿布达勒叶尔羌河 田河 肖夹克 新渠满 398.km 乌斯满恰拉 中游 大西海子 英苏 河 里 尔吐格买莱加塔克拉玛干沙漠 阿拉干 考干 木 河 阿拉干物 河下游台特玛湖A 428km 塔7 塔里木河干流1321km天帕米尔高原 山 阿克苏 山 脉开都河 库鲁克沙漠 $\setminus$ 湖泊与水库！ $\blacktriangledown$ 湖泊与水库 里 依干不孔雀河 $\ 4$ 河流 $\ddots$ 河流 及麻塔里木河 木叶尔羌河 ·城镇 1 ·城镇+ 塔克拉玛干沙漠 $\Lleftarrow$ 水文监测断面 生态监测断面 河考干班 昆仑山脉 0 500km 0 10km 台特玛湖喀喇昆仑山
+
+第一个 $1 : 1$ 生态水文过程原型长期监测断面，其中包括16个长期监测断面，105眼地下水监测井，74个植物样地（样地规格为 $1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m }$ )。其中，在塔里木河下游建设监测断面9个，地下水监测井55眼(图1)。对生态输水过程中的地下水位、水质变化以及地表生态响应进行了长期的定位监测，以解析地下水位变化与荒漠河岸林植被和地表生态过程的关系，从不同尺度和生理生态学机制上揭示荒漠河岸林植被水分利用策略，确定合理生态水位阀值，为塔里木河下游生态需水量的确定和受损生态系统的恢复重建提供科学依据。
+
+# 1.3生态输水量
+
+塔里木河下游生态输水工程于2000年5月开始启动，截至2020年，共向塔里木河下游 $3 2 1 \ \mathrm { k m }$ 断流河道实施间歇性输水21次，累计输送生态水量$8 4 . 4 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ （表1）。
+
+2010年之前的前 $1 0 \mathrm { ~ a ~ }$ 塔里木河下游生态输水的水源主要来自我国最大内陆淡水湖博斯腾湖。从博斯腾湖调水沿孔雀河经66分水闸进人塔里木河，从塔里木河下游大西海子水库集中沿塔里木河下游大支流一一齐文阔尔河自然河道下泄。自
+
+2011年以后，输水的水源主要来自塔里木河干流。其中，2000年的第1次输水历时68d,河水到达喀尔达依断面附近，输水量约为 $1 . 0 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ;第2次输水历时227d,河水到达阿拉干断面以下 $1 4 6 \mathrm { k m }$ 处，输水量为 $2 . 3 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ；从第3次输水后，除2006、2007、2009年3年外，大部分时间河水都到达河流尾闾台特玛湖(表1)。
+
+# 2监测分析结果
+
+塔里木河下游生态输水历时 $2 0 \mathrm { ~ a ~ }$ ,这期间地下水位埋深、地表生态过程均发生了很大变化，表现为地下水位埋深前期变化较为明显，与地下水位埋深和输水量密切相关，而地表生态过程的响应则随地下水位的抬升，表现出一定的牵延性特点。
+
+# 2.1地下水位、水质变化
+
+塔里木河下游气候极端干旱，大气降水几乎没有生态意义，浅层地下水的埋深与以胡杨为主体的荒漠河岸林天然植被的组成、分布及长势有直接关系[3]。塔里木河下游河道断流导致的地下水位大幅下降和土壤含水率降低是引起天然植被退化与荒
+
+表1塔里木河下游生态输水情况统计  
+Tab.1 Statistics of ecological water conveyance in the lower reaches of Tarim River   
+
+<html><body><table><tr><td>输水阶段</td><td>输水时间</td><td>大西海子下泄水量/10m</td><td>水头到达位置</td></tr><tr><td>第1次</td><td>2000年5月14日—7月12日</td><td>9923</td><td>喀尔达依</td></tr><tr><td>第2次</td><td>2000年5月14日—12月31日</td><td>22655</td><td>阿拉干以下30 km</td></tr><tr><td>第3次</td><td>2001年4月1日—11月18日</td><td>38223</td><td>台特玛湖</td></tr><tr><td>第4次</td><td>2002年7月20日—11月10日</td><td>33129</td><td>台特玛湖</td></tr><tr><td>第5次</td><td>2003年3月3日—11月3日</td><td>62509</td><td>台特玛湖</td></tr><tr><td>第6次</td><td>2004年4月23日—6月22日</td><td>10207</td><td>台特玛湖</td></tr><tr><td>第7次</td><td>2005年4月18日—11月2日</td><td>28272</td><td>台特玛湖</td></tr><tr><td>第8次</td><td>2006年9月25日—11月21日</td><td>19644</td><td>考干</td></tr><tr><td>第9次</td><td>2007年10月10日—10月21日</td><td>1410</td><td>喀尔达依</td></tr><tr><td>第10次</td><td>2009年12月5日—12月31日</td><td>1066</td><td>喀尔达依</td></tr><tr><td>第11次</td><td>2010年6月25日—11月11日</td><td>36393</td><td>台特玛湖</td></tr><tr><td>第12次</td><td>2011年1月7日—11月23日</td><td>85211</td><td>台特玛湖</td></tr><tr><td>第13次</td><td>2012年4月27日—11月27日</td><td>66716</td><td>台特玛湖</td></tr><tr><td>第14次</td><td>2013年4月25日—11月5日</td><td>48769</td><td>台特玛湖</td></tr><tr><td>第15次</td><td>2014年6月17日—6月26日</td><td>727</td><td>大西海子以下172 km</td></tr><tr><td>第16次</td><td>2015年8月18日—11月5日</td><td>46218</td><td>台特玛湖</td></tr><tr><td>第17次</td><td>2016年8月11日—10月31日</td><td>67611</td><td>台特玛湖</td></tr><tr><td>第18次</td><td>2017年4月27日—12月31日</td><td>121461</td><td>台特玛湖</td></tr><tr><td>第19次</td><td>2018年2月26日—11月21日</td><td>70006</td><td>台特玛湖</td></tr><tr><td>第20次</td><td>2019年8月11日—12月31日</td><td>46352</td><td>台特玛湖</td></tr><tr><td>第21次</td><td>2020年9月5日—11月9日</td><td>28084</td><td>台特玛湖</td></tr></table></body></html>
+
+# 干旱区地理
+
+漠河岸林物种多样性减少的主导因子[1]。为此,输水过程中的地下水位变化成为关注的热点问题[4-5]经过近 $2 0 \mathrm { a }$ 生态输水，塔里木河下游地下水位和水质发生了很大变化。
+
+2.1.1地下水位埋深变化沿河道方向自上段英苏、中段的喀尔达依，至下段的依干不及麻，在距河道 $1 0 0 \mathrm { ~ m ~ }$ 范围内，地下水位埋深分别由输水前的$7 . 7 6 \mathrm { m } , 9 . 3 1 \mathrm { m } , 7 . 8 2 \mathrm { m }$ 抬升至 $3 . 7 0 \mathrm { m } , 4 . 4 8 \mathrm { m } , 2 . 6 9 \mathrm { m }$ ，分别抬升了 $4 . 0 6 \ \mathrm { m } , 4 . 8 3 \ \mathrm { m } , 5 . 1 3 \ \mathrm { m }$ ；在 $3 0 0 \mathrm { ~ m ~ }$ 范围，地下水位埋深分别由输水前的 $8 . 0 9 \textrm { m } . 9 . 1 5 \textrm { m } . 8 . 2 5 \textrm { m }$ 抬升至 $4 . 5 3 ~ \mathrm { m } \ 、 5 . 0 0 ~ \mathrm { m } \ 、 3 . 2 9 ~ \mathrm { m }$ ,分别抬升了 $3 . 5 6 \mathrm { ~ m ~ }$ 、$4 . 1 5 \mathrm { ~ m ~ } , 4 . 9 6 \mathrm { ~ m ~ }$ ；在 $5 0 0 \mathrm { m }$ 范围，地下水位埋深分别由输水前的 $8 . 2 1 ~ \mathrm { m } , 9 . 4 5 ~ \mathrm { m } , 9 . 0 8 ~ \mathrm { m }$ 抬升至 $6 . 6 1 \mathrm { ~ m ~ }$ 、$5 . 4 6 \mathrm { ~ m ~ } , 3 . 8 2 \mathrm { ~ m ~ }$ ,分别抬升了 $1 . 6 0 \mathrm { m } , 3 . 9 9 \mathrm { m } , 5 . 2 6 \mathrm { m }$ 在垂直于河道方向，塔里木河下游的上、中、下3个区段生态输水对地下水位的影响范围均超过 $1 0 0 0 \mathrm { m }$ 以上。距河道 $1 0 5 0 \mathrm { m }$ 处的地下水监测井数据显示，塔里木河下游的上、中、下3个区段的地下水位埋深分别抬升了 $2 . 6 9 \mathrm { m } , 1 . 3 8 \mathrm { m } , 1 . 5 9 \mathrm { m } ,$ 0
+
+从塔里木河下游上、中、下段的地下水位抬升变化分析可见，地下水位抬升幅度与输水前的埋深、下泄水量、输水历时以及水头到达区域有关。上段和中段地下水位抬升幅度在输水前期(2000一2010年)变化较大,2011年以后，随着输水量增加，塔里木河下游上、中段地下水位抬升减缓，趋于平衡态。但是，横向影响范围在不断扩张。2010年以后下段的地下水位出现抬升幅度加大趋势，后期塔里木河下游下段的地下水位抬升幅度加大除与输水量有关外，还与其输水前地下水位埋深较大有关。经过近20a的输水，塔里木河下游浅层地下水得到一定补给，横向上的影响范围也正在逐渐扩大。2.1.2地下水水质变化伴随生态输水，塔里木河下游地下水矿化度显著降低，两岸淡化带范围扩大。塔里木河下游可被生态系统利用的浅层地下水多为绿洲农业灌溉排水和塔里木河渗漏补给。自1975年河道断流后，塔里木河下游地下水失去地表水补给，伴随地下水位下降，地下水矿化度亦不断升高。输水前塔里木河下游两岸的地下水矿化度已经普遍在 $3 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 以上，个别区段甚至大于 $1 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ 。水质的恶化加剧了下游植被的渗透胁迫与整体退化[。生态输水使得塔里木河下游两岸的地下水矿化度显著下降，沿河两岸横向 $1 \mathrm { k m }$ 范围内地下水矿化度平均由输水前的 $4 { \sim } 1 1 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 左右降至 $1 { \sim } 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 [ 7 ] }$ 其中，塔里木河下游上、中段的地下水矿化度由输水前的 $4 { \sim } 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 降到 $1 { \sim } 3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ ，两岸淡化带影响范围最远延伸至距河道 $1 \mathrm { k m }$ 左右。监测发现，地下水矿化度还与生态输水量显著相关,2007—2009年，由于输水量较少，地下水矿化度也表现出明显的上升波动趋势。
+
+# 2.2归一化植被指数(NDVI)变化
+
+归一化植被指数（Normalized difference vegeta-tionindex，NDVI)是反映植被生长情况的重要指标[8]。基于遥感数据MOD13Q1和MCD12Q1数据，分析了塔里木河下游生态输水过程中的NDVI、植被覆盖度变化。研究结果表明：经过近20a的生态输水，塔里木河下游的NDVI从2000年的0.14增大到2020年的0.21，增加了约 $3 3 . 3 \%$ ;输水对天然植被的影响范围从2000年的 $4 9 2 ~ \mathrm { k m } ^ { 2 }$ 扩大到2020年的$1 4 2 3 ~ \mathrm { k m } ^ { 2 }$ ,增幅达到 $1 8 8 . 0 \%$ ;2020年的低植被覆盖度、中植被覆盖度和高植被覆盖度的面积分别较2000年增加了 $2 7 7 ~ \mathrm { k m } ^ { 2 }$ $5 3 7 ~ \mathrm { k m } ^ { 2 }$ 和 $1 3 2 \ \mathrm { k m } ^ { 2 }$ ,增幅分别达到 $2 0 . 8 \%$ $4 4 8 . 0 \%$ 和 $1 9 0 . 0 \%$ ;在空间上，塔里木河下游中游段(英苏一阿拉干)的植被面积和植被覆盖度的增幅均高于上游(大西海子水库一英苏)和下游段(阿拉干一台特玛湖)的增幅。NDVI和植被覆盖度均表现为距离河道 $2 \mathrm { k m }$ 范围内的值较大，在输水过程中，增幅也较大；而距河道 $2 \mathrm { k m }$ 以外的NDVI和植被覆盖度逐渐降低，输水过程中增幅也较小。
+
+# 2.3地表水体面积变化
+
+干旱区水体面积变化与陆地生态有直接关系。本文基于Landsat5、7和8等影像数据和生态输水数据,综合采用Google Earth Engine (GEE)计算平台和多元统计分析方法，对2000一2019年生态输水期间的地表水体面积变化进行了监测分析。结果显示，塔里木河下游区域的地表水体面积、季节性水体面积和永久性水体面积均呈现波动上升趋势；其中，上游段的英苏区域地表水体面积和永久性水体面积均呈现波动变化，而季节性水体面积呈显著性增加趋势;中游英苏至阿拉干区域地表水体、季节性水体和永久性水体的面积增加速率分别为$1 . 7 5 \ \mathrm { k m ^ { 2 } \cdot a ^ { - 1 } } \ . 1 . 5 8 \ \mathrm { k m ^ { 2 } \cdot a ^ { - 1 } }$ 和 $0 . 1 6 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ ，下游阿拉干以下区域地表水体、季节性水体和永久性水体的面积增加速率分别为 $1 3 . 4 8 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 } , 8 . 2 4 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ 和$5 . 2 3 \ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ 。在历经 $2 0 \mathrm { ~ a ~ }$ 生态输水后，2019年台特玛湖区域的地表永久水体和季节性水体面积分别约为 $2 6 7 . 2 7 ~ \mathrm { k m } ^ { 2 }$ 和 $1 8 8 . 0 0 \ \mathrm { k m } ^ { 2 }$ ，总体水体面积约为$4 5 5 . 2 7 ~ \mathrm { k m } ^ { 2 }$ ,相比2000年增加了 $4 1 7 . 0 8 \ \mathrm { k m } ^ { 2 }$ （约10.92倍)。塔里木河下游地表水体面积，尤其是永久水体面积变化与塔里木河下游输水量密切相关;2007—2009年期间，向塔里木河下游下泄水量较少，直接导致研究区在2009年地表水体面积、季节性水体面积和永久性水体面积均出现大幅减少趋势。
+
+# 2.4天然植被净初级生产力(NPP)变化
+
+植被净初级生产力(Net primary production,NPP)是陆地生态系统碳循环及能量流动的关键参数，不仅可以反映陆地生态系统生产力，而且，还可以表征陆地生态系统的质量情况，在全球性变化及碳平衡中扮演重要角色[9。基于遥感数据，利用CASA(Carnegie ames stanford approach)模型估算了塔里木河下游近20a生态输水过程中的天然植被NPP变化，研究结果显示，塔里木河下游天然植被NPP与地下水埋深有直接关系。在空间上，天然植被NPP随着远离河道而下降。在纵向上，NPP呈现出上段 $>$ 中段 $\mathrm { > }$ 下段的空间分布特征；在近 $2 0 \mathrm { a }$ 的生态输水过程中，塔里木河下游天然植被NPP极显著增加和显著增加的面积分别占 $3 1 . 9 3 \%$ （ $\scriptstyle P < 0 . 0 1 .$ 和$1 1 . 4 9 \% ( P { < } 0 . 0 5 )$ ,增速为 $0 . 4 0 \mathrm { ~ g ~ C ~ } { \cdot } \mathbf { m } ^ { - 2 } { \cdot } \mathbf { a } ^ { - 1 }$ ，上、中段增加幅度大于下段;在植被类型上，NPP多年平均值的大小为怪柳群落 $\cdot >$ 胡杨群落 $\cdot >$ 草本群落，并且，在输水过程中，怪柳的NPP增幅最大。比较2019年和2001年，NPP增幅达 $3 5 0 . 2 0 \%$ ○
+
+# 2.5植物水分利用效率(WUE)变化
+
+水分利用效率(Wateruseefficiency，WUE)是研究植物生存、生产力和适应度及碳循环与水循环耦合的重要指标，也是理解陆地生态系统代谢的一个重要参数[10]。在塔里木河下游,天然植被的WUE由河道向两侧，或由上游向下游呈递减规律。对塔里木河下游WUE的时空变化及其对生态输水的动态响应的研究结果表明，塔里木河下游天然植被的WUE与生态输水量、输水持续时间均呈正相关。在近 $2 0 \mathrm { a }$ 的生态输水过程中，伴随塔里木河下游地下水位的大幅拾升，WUE呈显著增加趋势 $( P { < } 0 . 0 5 )$ ，其中,极显著增加区域占整个塔里木河下游区域面积的 $1 3 . 6 4 \%$ 。在植被类型上，灌丛的WUE增加幅度最大，是胡杨和草本植物WUE的15倍，表明灌丛对生态输水的响应更为敏感；塔里木河下游年均WUE与地下水埋深呈较强的负相关关系！ $\scriptstyle ( \mathbf { C o r } = - 0 . 8 1$ )，其中，草本及灌丛WUE与地下水埋深的相关性高于胡杨 $\scriptstyle { \left. \left| \mathrm { C o r } _ { \sharp \sharp \sharp \chi _ { \ M } ^ { \ast } \sharp \chi } \right| = - 0 . 7 6 \right| > \left| \mathrm { C o r } _ { \sharp \sharp \sharp \eta } = - 0 . 4 6 \right| } .$ ；各植被年均WUE在地下水埋深 $4 { \sim } 6 \mathrm { m }$ 处存在峰值，当地下水位埋深大于 $6 \mathrm { m }$ 后，WUE均呈下降趋势。
+
+# 2.6植被总初级生产力(GPP)变化
+
+植被总初级生产力（Gross primary productivity,GPP)是陆地生态系统碳循环的关键环节，对维持全球碳平衡至关重要[]。基于Google Earth Engine平台，利用NASALPDAAC发布的MOD17A2H产品，分析了塔里木河生态输水期间陆地生态系统生长季的GPP变化。结果显示，生态输水对塔里木河干流区生态环境整体有明显改善。在输水过程中，塔里木河干流陆地生态系统生长季的GPP表现出明显的增加趋势，由2000年的 $3 6 7 5 . 5 1 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1，增加到2020年的 $4 8 9 6 . 6 1 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ ·季-1。每个生长季约增加 $9 0 . 2 5 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ 。在空间上，塔里木河干流陆地生态系统生长季(5—10月)的日GPP变化在不同区域存在明显差异。上游段的日GPP变化总体上表现出先增加后减小的单峰趋势，下游段则以双峰变化趋势为主。在对不同季节对生长季GPP的贡献度研究中发现，上游段夏季对生长季GPP的贡献度最大 $3 8 . 1 0 \%$ ），春季次之 $( 3 1 . 4 2 \%$ ），秋季较夏、春两季略小( $3 0 . 4 8 \%$ ）。下游段秋季对生长季GPP的贡献度最大 $( 3 9 . 6 4 \%$ ），夏季次之 $( 3 1 . 0 0 \%$ )，春季贡献度最小 $( 2 9 . 3 7 \% )$ )。生态输水对塔里木河干流陆地生态系统生长季的GPP变化产生了积极影响，其中与6、8月的GPP相关系数最高。
+
+# 2.7植被碳汇区域面积变化
+
+塔里木河下游的生态输水改善了下游的生态环境，增大的植被覆盖面积通过光合作用提高了该区域固碳的能力。基于修正的CASA模型和土壤微生物呼吸模型，对塔里木河下游植被净生态系统生产力（Net ecosysterm productivity,NEP)进行了估算,并在此基础上，分析了植被碳源/汇空间变化。研究结果显示：塔里木河下游以荒漠稀疏植被为主体的生态系统碳汇以低碳汇为主要特征。随着2000年以来塔里木河下游生态输水，下游的受损生态系统得到一定程度恢复，植被净初级生产力(NPP)呈现出增加趋势。分析结果显示，在2001—2019年间，塔里木河下游植被净生态系统生产力(NEP)以$0 . 5 4 1 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 的速率增加，其中，夏季增加速率
+
+# 干吴区地理
+
+最大，为 $0 . 4 0 6 \mathrm { ~ g ~ C \cdot m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,植被碳汇区域也呈现出逐渐扩大的趋势，由2001年占研究区的 $1 . 5 4 \%$ 增长至2020年的 $7 . 8 0 \%$ 。在空间上，英苏的西北、南部和台特玛湖东北区域增加态势较为明显。在季节变化上，夏季变化最为明显，冬季无明显碳汇面积出现。累计生态输水量与碳汇面积有较好的线性关系，生态输水存在约1a的滞后效应。
+
+# 3讨论与结论
+
+自2000年实施向塔里木河下游生态输水工程以来，历时 $2 0 \mathrm { a }$ ，从大西海子水库下泄的生态水总量达 $8 4 . 4 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,其中沿途通过河道下渗补给的地下水总量约为 $3 0 . 6 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ，进入河流尾闾台特玛湖的水量约为 $1 1 . 7 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,约占输水总量的 $1 3 . 8 0 \%$ 。塔里木河下游河道两侧的地下水位普遍抬升了 $3 { \sim } 5 \mathrm { m }$ ，地下水影响范围超过 $1 0 0 0 \mathrm { m }$ 。输水对天然植被的影响范围从输水前2000年的 $4 9 2 \mathrm { k m } ^ { 2 }$ 扩大到2020年的 $1 4 2 3 \ \mathrm { k m } ^ { 2 }$ 。塔里木河下游沿河两岸的生态持续恶化的态势得到遏制，以胡杨为主体的荒漠河岸林退化生态系统得到部分修复，塔里木河下游“绿色走廊"得到拯救和保护，台特玛湖"死而复活”，已形成$4 5 5 . 2 7 ~ \mathrm { k m } ^ { 2 }$ 水域面积(包括来自发源于昆仑山车尔臣河的水量补给）。
+
+在过去的20a间，塔里木河下游的生态输水主要是沿自然河道下泄，这种输水方式有效抬升了河道两侧地下水位，并对河道附近现存的天然植被的生长和复壮起到了明显效果。但从监测到的近期地下水位变化分析，近些年的地下水位抬升幅度减缓，部分区段趋于达到平衡态。并且，就目前这种沿自然河道的输水方式仅对河岸附近天然植被产生影响，恢复范围十分有限。同时，也不能达到植物的落种更新目的，实现区域生态的可持续性。再则，沿河道生态输水，难以使河岸两侧草本植物大面积恢复，以增加地表覆盖度。为此，建议在目前这种沿自然河道“线形"输水和维系河道生态流量的基础上，通过工程辅助，有计划的自上而下实施分区地表漫溢供水方式，通过“面上给水”，在激活土壤种子的同时，促进落种更新，以扩大塔里木河下游生态输水的受水区范围和生态效应。
+
+在全球变暖背景下，塔里木河流域气候条件改变，导致山区水储量与冰雪融水的变化。研究结果显示[12],全球变暖引发的极端气候水文事件加强，可能引起山区来水量发生变化，导致水资源不确定性增加。同时，在年内分布上，开都河流域呈现出峰值前移的趋势，叶尔羌河和和田河的夏季流量有所提升，这对于生态输水的时间窗口选择和输水策略的制定至关重要。未来的生态输水调度要充分考虑极端洪水和枯水事件发生的频率增加，以及连续极端低值年份的出现，在水资源管理和配置过程中应未雨绸缪，以降低向塔里木河下游可持续生态输水的风险。
+
+# 参考文献(References)
+
+[1]陈亚宁,张小雷,祝向民,等.新疆塔里木河下游断流河道输水 的生态效应分析[J].中国科学(D辑),2004,34(5):475-482. [Chen Yaning, Zhang Xiaolei, Zhu Xiangmin,et al. The ecosystem effect analysis of water input in Tarim River[J].Science in China Ser.D Earth Sciences,2004,34(5): 475-482.]   
+[2]陈亚宁.新疆塔里木河流域生态水文问题研究[M].北京:科学 出版社,2010:517-571.[Chen Yaning.Study on eco-hydrological problems in Tarim River Basin in Xinjiang[M].Beijing:Science Press,2010:517-571.]   
+[3]陈亚宁,李卫红,徐海量,等.塔里木河下游地下水位对植被的 影响[J].地理学报,2003,58(4): 542-549.[Chen Yaning,Li Weihong,Xu Hailiang,et al. The influence of groundwater on vegetation in the lower reaches of Tarim River, China[J].Acta Geographica Sinica,2003,58(4): 542-549.]   
+[4]Pang Z H, Huang T M,Chen Y N. Diminished groundwater recharge and circulation relative to degrading riparian vegetation in the middle Tarim River[J]. Hydrological Processes,2010,24: 147- 159.   
+[5]Wang WR,Chen Y N,Wang WH,et al.Evolution characteristics of groundwater and its response to climate and land-cover changes in the oasis of dried-up river in Tarim Basin[J].Journal of Hydrology,2020,125644,doi: 10.1016/j.jhydrol.2020.125644.   
+[6]Fu A H, Chen YN,Li WH.Analysis on water potential of Populus euphratica Oliv and its meaning in the lower reaches of Tarim River,Xinjiang[J]. Chinese Science Bulletin,2006,51(S1): 221-228.   
+[7]Hao X M, LI W H. Impact of ecological water conveyance on groundwater dynamics and vegetation recovery in the lower reaches of the Tarim River in northwest China[J].Environmental Monitoring and Assessment,2014,186: 7605-7616.   
+[8]Myneni R B,Keeling C D,Tucker C J,et al. Increased plant growth in the northern high latitudes from 1981 to 1991[J].Nature, 1997,386(6626): 698-702.   
+[9]Field C B,Behrenfeld MJ,Randerson JT,et al.Primary production of the biosphere: Integrating terrestrial and oceanic components[J]. Science,1998,5374(281): 237-240.   
+[10]Jassal R S,Black TA,Spittlehouse DL,et al.Evapotranspiration and water use efficiency in different-aged Pacific northwest Douglas-fir stands[J].Agricultural and Forest Meteorology,2OO9,149 (6-7): 1168-1178.   
+[11]Beer C,Reichstein M, Tomelleri E,et al. Terrestrial gross carbon
+
+dioxide uptake:Global distribution and covariation with climate [J]. Science,2010,329(5993): 834-838. [12]陈亚宁.中国西北干旱区水资源研究[M].北京:科学出版社, 2014.[Chen Yaning.Study on water resources in arid areas of northwest China[M].Beijing: Science Press,2014.]
+
+# Monitoring and analysis of ecological benefits of water conveyance in the lower reaches of Tarim River in recent 2O years
+
+CHEN Yaning'， Wumaierjiang Wubuli²， Aikeremu Abula²， CHENG Yong², CHEN Yapeng'， HAO Xingming'， ZHU Chenggang'， WANG Yang³ (1.StateKeyLaboratoryofDesertandOasisEologyXinjiangInstituteofEcologyandGeography,hineseAcadeyofSciences, Urumqi830ol1,Xinjiang,China;2.Xinjiang TarimRiverBasinAuthority,Korla 8410oo,Xinjiang,China;3.Collgeof Grasslandand Environmental Sciences,Xinjiang Agricultural University,Urumqi 83oo52,Xinjiang, China)
+
+Abstract: The ecological water conveyance project was launched in 2Ooo to restore groundwater level and protectthe“green corrdor”from the continuous deterioration in the lower reaches ofthe Tarim River, Xinjiang,China. Until the end of 2020, the total water conveyance volume has reached $8 4 . 4 5 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ . The monitoring results show that:（1) At the riverway-monitoring site ( $1 0 0 \mathrm { ~ m ~ }$ away from the river),the groundwater depth in the upper, middle,and lower reaches of the Tarim River rises from $7 . 7 6 ~ \mathrm { m }$ $9 . 3 1 ~ \mathrm { m }$ ， $7 . 8 2 \mathrm { ~ m ~ }$ in 2000 to $3 . 7 0 ~ \mathrm { m } .$ $4 . 4 8 ~ \mathrm { m }$ ,and 2.69 m,respectively,in 2O20.The average groundwater rise in the upper,middle,and lower reaches of the Tarim River are $4 . 0 6 \mathrm { m }$ $4 . 8 3 \mathrm { ~ m ~ }$ ,and $5 . 1 3 ~ \mathrm { m }$ ,respectively.At a near riverway-monitoring site ( $5 0 0 \mathrm { ~ m ~ }$ away from the river), the groundwater depth rises from $8 . 2 1 \mathrm { ~ m ~ }$ to $6 . 6 1 \mathrm { ~ m ~ }$ ， $9 . 4 5 \mathrm { ~ m ~ }$ to $5 . 4 6 \mathrm { ~ m ~ }$ and $9 . 0 8 \mathrm { ~ m ~ }$ to $3 . 8 2 \mathrm { ~ m ~ }$ ,in the upper, middle, and lower reaches,respectively,during the past 2O years.At a monitoring site far from the riverway ( $1 0 5 0 \mathrm { ~ m ~ }$ away from the river),an increase in groundwater depth of $2 . 6 9 \mathrm { m }$ ， $1 . 3 8 \mathrm { m }$ ,and $1 . 5 9 \mathrm { m }$ was monitored. (2) The surface water area expanded from $4 9 . 0 0 \ \mathrm { k m } ^ { 2 }$ before the water conveyance project to $4 9 8 . 5 4 ~ \mathrm { k m } ^ { 2 }$ ，about four times the previous area; Taitma Lake has “resurged,” with a surface area of $4 5 5 . 2 7 ~ \mathrm { k m } ^ { 2 }$ . (3) The surface ecological processes significantly responded to the water conveyance with the vegetation coverage,NDVI, NPP,and gross primary productivity of the lower reaches of the Tarim River (within $2 0 0 0 \mathrm { ~ m ~ }$ of riverway） increasing by $1 3 2 \ \mathrm { k m } ^ { 2 }$ ， 0.07, $7 . 6 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ and $1 2 2 1 \ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ per growing season, respectively. (4) The influence of water conveyance on the surface vegetation in the lower reaches of the Tarim River is $1 4 2 3 ~ \mathrm { k m } ^ { 2 }$ with the ecosystem service value increasing significantly. The carbon sink area increased from $1 . 5 4 \%$ in 2001 to $7 . 8 0 \%$ in 2020,the ecosystem health condition improved and ecological resilience increased significantly,as the soil carbon sink capacity increased.In short,the groundwater level has raised significantly during the past 2O years,and the desert riparian forest with Populus euphratica as the constructive species has been restored in the lower reaches of the Tarim River. The surface vegetation coverage has increased,andthe trend of ecological degradation in the lower reaches of the Tarim River has been curbed significantly.
+
+Key words: ecological water conveyance; groundwater depth； surface ecological response; Tarim River

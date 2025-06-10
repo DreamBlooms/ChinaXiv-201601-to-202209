@@ -1,0 +1,128 @@
+# 地基太阳望远镜辐射涂层的测温研究
+
+黄善杰'，戴懿纯¹，金振宇¹，张涛'，曾光²(1.中国科学院云南天文台，云南 昆明650011；2.上海宝冶集团有限公司，上海 200941)
+
+摘要：地基太阳望远镜及周边设施在观测运行时被太阳辐射加热，发热表面加热望远镜光路附近的空气形成近表面空气湍流，进而引起像质衰减。改善近表面大气湍流的主要方法是抑制太阳望远镜及周边设施表面与空气的温差。根据辐射涂层表面与空气的温度实测，对辐射涂层抑制太阳望远镜及周边设施发热进行了可行性研究，研究表明所选的辐射涂层具有一定的抑制物体表面与空气温差的能力，辐射涂层相对水冷具有控温效果好、适用范围广等优势，可用于地基太阳望远镜及周边设施表面的温度控制。
+
+关键词：太阳望远镜；大气湍流：视宁度；涂层中图分类号：P111 文献标识码：A 文章编号：1672-7673(2016)01-0111-06
+
+地基太阳望远镜是研究太阳物理的主要观测设备，现代地基太阳望远镜主要发挥口径大的优势，进行高空间分辨率的成像和光谱观测。但由于地球大气层的存在，湍流大气的干扰使望远镜的高分辨观测能力大打折扣。太阳辐射下，地基太阳望远镜及周边设施被太阳辐射加热形成对流湍流，进而引起像质衰减。望远镜及周边设施表面的发热控制，对改善地基太阳望远镜的成像质量具有重要的意义。
+
+天文上把地基望远镜受到大气湍流影响而产生的像质衰减程度称为视宁度，视宁度是光路中所有湍流大气引起的像质衰减的积分。如果把视宁度分为地表空气引起的近表面视宁度和其它层大气引起的视宁度两部分，大气视宁度盘的半宽角（FWHM)可以表示为[1]： $\theta = \big ( \theta _ { \mathrm { n } } ^ { ~ 5 / 3 } + \theta _ { \mathrm { f } } ^ { ~ 5 / 3 } \big ) ^ { 3 / 5 }$ ，其中 $\theta _ { \mathrm { n } }$ 、 $\theta _ { \mathrm { f } }$ 分别是近表面视宁度和其它层大气视宁度对应的参数，地表空气由于温度起伏大，湍流剧烈，对视宁度贡献较大。地基望远镜和周边设施表面发热引起的近表面视宁度，对整体视宁度的好坏有不可忽略的影响，甚至可能占据主导地位[2-3]。由于各望远镜的建筑表面及附属设施不同，对望远镜的近表面湍流大气的影响表现也有所差异。但是镜面、水面等物体表面对视宁度的影响研究表明，物体表面与空气的温差 $T _ { \mathrm { s a } } ( \ : T _ { \mathrm { s a } } = T _ { \sharp \sharp \sharp } - T _ { \sharp \sharp } )$ 是影响近表面视宁度的重要因素[4-7]：文[4]认为镜面视宁度 $\theta _ { \mathrm { { m } } }$ 在自然对流下与表面-空气温差的1.2次方成正比。
+
+文[3]给出 $\theta _ { \mathrm { { m } } }$ 与温差的1次方成正比的结论。文[5]研究发现，温差越小，镜面视宁度越好，先进技术太阳望远镜(Advanced Technology Solar Telescope，ATST)直径 $4 \mathrm { m }$ 镜面在无风、温差小于 $0 . 5 ^ { \circ } \mathrm { C }$ 时的镜面视宁度小于 $0 . 1 5 "$ ；太阳望远镜机械结构与空气温差在 $- 0 . 5 \sim + 0 . 2 \mathrm { ~ \textdegree C }$ 时，才可忽略机械表面的空气湍流对像质的影响①。文[2,6-7]研究表明，地表物体和空气的温差越接近于0，物体表面空气的视宁度越好；物体和空气温差的绝对值越大，视宁度越差。根据上述研究结果，可以推理尽可能减少望远镜附近的建筑物、附属设施包括望远镜自身在内的所有物体的表面与空气温差，是降低近地面湍流大气强度，改善近表面视宁度的最佳办法。
+
+抑制望远镜及周边设施表面与空气温差的方法分为被动热控和主动热控两种。被动热控本身不具有自动调节温度的能力，多数通过导热、对流换热和选择表面辐射特性等手段抑制温差。主动热控主要通过冷却液或空气的循环抑制温差。国内的多通道太阳磁场望远镜、光学和近红外太阳爆发监测仪（Optical and Near-Infrared Solar Eruption Tracer，ONSET）、太阳精细结构望远镜等的外墙、圆顶和镜筒多采用白色涂料抑制温差。国外的瑞典太阳望远镜（Swedish1-m Solar Telescope，SST）、新太阳望远镜（New Solar Telescope，NST)及GREGOR等望远镜的圆顶和建筑表面也普遍采用白漆等被动热控。日本的无圆顶太阳望远镜采用背面水冷的铝制护墙板降低建筑表面与空气的温差[8]。 $1 \mathrm { ~ m ~ }$ 太阳望远镜设计楼顶水冷系统制冷建筑墙面。两种主动热控系统根据建筑表面和空气温度变化，启停水冷，但两者都无冷却水的精准控温，温控性能不理想。随着辐射降温涂料技术的快速发展，GREGOR太阳望远镜和成都光电所的 $1 . 8 \mathrm { ~ m ~ }$ 望远镜率先采用了基于新型 $\mathrm { T i O } _ { 2 }$ 辐射涂层的被动热控设计[9-10]。涂层表面具有很高的太阳辐射反射率和自身热辐射率，结合表面的空气对流换热有效抑制涂层与空气的温差。GREGOR机械结构表面的 $\mathrm { T i O } _ { 2 }$ 涂层实测显示，涂层表面和空气的温差大部分时间保持在 $- 0 . 5 \sim 1 \mathrm { ~ \textdegree C }$ 范围内，灰尘较多的涂层表面温度高于气温 $3 { \sim } 4 ~ \mathrm { { \sc C } ^ { [ 1 0 ] } }$ 。 $\mathrm { T i O } _ { 2 }$ 辐射涂层作为抑制温差的一种被动热控技术，如果应用于望远镜建筑及周边设施的表面温控，还需要进一步了解其温控能力的长期特性：室外环境下涂层表面老化是否会对温差抑制产生影响，产生多大的影响。为此通过实测研究了涂层在室外环境下的温差抑制能力及其长期变化。
+
+# 测温实验
+
+# 1.1 实验介绍
+
+2014年1\~4月对 $1 \mathrm { m }$ 太阳望远镜周边楼顶水泥表面、楼顶 $\mathrm { T i O } _ { 2 }$ 辐射涂层、楼顶水池表面和镜筒前方空气进行了测温实验。实验选用的 $\mathrm { T i O } _ { 2 }$ 辐射涂层是集反射太阳辐射、自身热辐射散热与空心微珠隔热于一体的新型降温涂层。涂层的太阳辐射吸收率约为0.1，自身热发射率约为0.9。涂层对太阳辐射进行反射，同时通过自身热辐射把表面积累的热量辐射出去。涂层中有空心陶瓷微珠形成的隔热层，隔绝热量向内热传导。实验测量了3种表面与空气的温差变化并同步测量了风速和太阳辐照度，实测对象及设备性能如表1。
+
+表1测温实验的测量精度-频率表  
+Table1 The measurement accuracy vs.frequency for the temperature measuring experiment   
+
+<html><body><table><tr><td>测量对象</td><td>楼顶表面温度</td><td>楼顶水池温度</td><td>涂层温度</td><td>气温</td><td>太阳辐照度</td><td>风速</td></tr><tr><td>设备精度</td><td>±0.2 ℃</td><td>±0.2 C</td><td>±0.2 C</td><td>±0.2 C</td><td>±10 W/m²</td><td>±3%</td></tr><tr><td>测量频率/Hz</td><td>1/300</td><td>1/300</td><td>1/300</td><td>1/300</td><td>1/60</td><td>1/2</td></tr></table></body></html>
+
+# 1. 1. 1 测温方法
+
+为提高测温精度，实验对不同的对象采用了不同的测温设计。涂层和水温探头分别置入涂层和水表内部测温，水温探头位于 $5 \mathrm { m m }$ 深处以降低波浪对测温的影响，探头上方做遮阳处理以减弱太阳辐射对测温的影响。水泥测温探头置入滴在水泥表面的导热硅胶滴中，鉴于胶滴极高的导热系数，认为水泥表面温度和胶滴温度相差不大。实验中采用热容小、尺寸小的温度探头以提高测温精度。测温实验的实物照片如图1。
+
+# 1.2实验数据分析
+
+# 1.2.1 涂层和空气的日温差变化
+
+测温实验获得的涂层和空气温度数据显示，两者每天的温度和温差变化有一定的相似性。本文以一个典型太阳望远镜观测日的温度数据为例，展示涂层表面和空气的温度、温差变化。
+
+如图2，涂层温度在 $1 1 : 0 0$ 之前低于气温，随着太阳辐射的增强，涂层升温并逐渐高于气温，$1 4 : 0 0 \sim 1 5 : 0 0$ 左右达到峰值，随后涂层温度逐渐低于气温。其它测温日的温变趋势和2月7日相似，但温差和温度起伏有较大差异。2月7日涂层表面和空气的温差在 $\pm 1 \mathrm { { ^ { \circ } C } }$ 之内，三个月测温期间内的最大温差起伏在 $\pm 4 ~ \mathrm { { ^ { \circ } C } }$ 以内，温差多集中在 $\pm 1 . 5 \mathrm { { \ : { \mathcal { C } } } }$ 之内。对比测温显示，涂层表面的温差抑制能力远优于白色瓷砖、白色铝塑板、无机白漆、水泥、木板和不锈钢等的抑制能力。
+
+![](images/1d85c8b9f27ab5b4023677c9745d25400930407b6fc78e221163608d79096a7b.jpg)  
+图1温度探头的实物照片
+
+![](images/42eab48b66c27b679700fcc4c9716fb19570dce0ab46de186281a0146d0c08e9.jpg)  
+Fig.1The actual picture of temperature sensors   
+图2涂层和空气温度曲线  
+Fig.2The temperature curves of the coating layer and the air
+
+# 1.2.2 涂层和空气温差的长期变化
+
+望远镜运行期间处于太阳辐射下的辐射涂层，随着时间的积累会出现老化和灰尘沉积等现象，老化和灰尘沉积引起的辐射性能衰减在一定程度上影响涂层的温差抑制能力。如果涂层表面老化过快或受灰尘影响较大，将提高涂层保养频率，大大增加涂层的使用成本，甚至需要重新评估其可行性。为了便于分析涂层抑制温差能力的长期变化，本文使用温差的日平均值和均方根值作为衡量当日涂层温差抑制能力的指标。
+
+图3是测温期间涂层和空气温差的日平均值和均方根的变化曲线。数据显示，测温期间温差平均值的变化范围为 $- 2 . 9 6 \sim 1 . 7 1 ~ \mathrm { { ^ { \circ } C } }$ ，温差均方根值变化范围为 $0 . 2 1 \sim 3 . 0 5 \mathrm { ~ \textdegree C }$ ，均方根值小于 $1 \mathrm { { ^ { d } C } }$ 的测温天数占总数的 $4 7 . 5 \%$ 。三个月内，室外涂层的温差抑制能力没有明显变化，表明望远镜建筑和附属设施表面刷涂辐射涂层具有较高的可行性。
+
+![](images/97d4140dd1c3d0ab6d2d373b02ec790a320f57f8275b33da9ca5d528b126220e.jpg)
+
+Fig.3The curves of the average daily andRMSof the temperature diferences between thecoating layer and the air
+
+# 1.2.3楼顶水泥与空气温差的日变化
+
+$1 \mathrm { m }$ 太阳望远镜观测运行时，望远镜背部的大面积水泥楼顶表面被太阳辐射加热。测温实验显示，随着太阳辐射的增强， $1 \mathrm { m }$ 太阳望远镜水泥表面温度从低于气温快速高于气温，水泥和空气温差变化曲线如图4。
+
+![](images/97d9b40913608b758a0055e49b08111e0008d985fad6ddd0bf92fd935aa8fd0d.jpg)  
+图3涂层和空气温差的日平均值和均方根曲线  
+图4 $1 \mathrm { m }$ 太阳望远镜楼顶水泥与空气的温差变化曲线
+
+Fig.4The curve of air temperature diference sover the NVST roof and the cement surface
+
+鉴于每日的天气状况差异，楼顶表面温度反超气温的时间点有较大变化，最大温差值也有较大差别，实测发现两者温差可达 $1 0 \ \%$ 以上。楼顶水泥表面对上方空气具有强烈的加热效应。
+
+# 1.2.4楼顶水池与空气的温差实测分析
+
+为了抑制水泥表面的发热， $1 \mathrm { ~ m ~ }$ 太阳望远镜设计楼顶水池进行水冷控温，水池的平均水深约为 $8 0 \ \mathrm { m m }$ 。运行中发现水池表面的温度绝大部分时间明显低于气温，抑制温差效果不理想。作者实测了楼顶不同水深水池表面和空气的温差变化，用于评估楼顶水池的抑制温差能力，结果如图5
+
+# 表2不同水深水表和空气温差的平均值和均方根
+
+Table 2The mean value and the RMS of the temperature differences between the surface of water with different depth and the air   
+
+<html><body><table><tr><td>水池水深 /mm</td><td>水表和空气的 平均温差/℃</td><td>水表和空气温差 的均方根/℃</td></tr><tr><td>80</td><td>-3. 7969</td><td>3. 8299</td></tr><tr><td>40</td><td>-2. 5725</td><td>2.6103</td></tr><tr><td>30</td><td>-1. 9794</td><td>2. 1232</td></tr><tr><td>20</td><td>-0. 2534</td><td>1. 1360</td></tr></table></body></html>
+
+实测结果显示：水池水量越大，水表温度越低于气温且温度起伏越小；水池水量越小，水表温度受太阳辐射影响越大。水深 $2 0 ~ \mathrm { m m }$ 时，水表温度在中午前后略高于气温，其它时间低于气温。水深
+
+为 $2 0 ~ \mathrm { m m }$ 左右时，水表温度和气温最接近，但仍逊色于涂层。
+
+![](images/8ed6a9992eb2e162d3abe4bea36780e7747ed5cedcf2afbe34426530b2bd5368.jpg)  
+图5不同水深水池表面和空气的温差曲线  
+Fig.5The temperature diference curves of the air and the surface of the cistern with diferent depth
+
+# 1.3 实验结论
+
+实验测量了辐射涂层在太阳辐射下和空气的温差变化，证实涂层可在相当长一段时间内具备保持表面和气温接近的能力。测温期间的太阳辐射不能把 $3 0 ~ \mathrm { m m }$ 水深以上的楼顶水池表面加热至超过气温。由于 $1 \mathrm { m }$ 太阳望远镜楼顶主动热控系统难以对冷却水精准控温，系统的抑制温差效果并不理想，温差抑制能力弱于辐射涂层。
+
+# 2 $1 \mathrm { m }$ 太阳望远镜水冷控温和涂层控温的性能对比分析
+
+$1 \mathrm { m }$ 太阳望远镜的主动水冷控温系统通过太阳辐射加热和自动补水实现水池表面温度和气温接近，但实际上水表温度一直低于气温，提升温差抑制能力需要精确的冷却水控温设备。本文分析了主动水冷和涂层控温的性能对比，如表3。
+
+表3主动水冷和辐射涂层的性能对比  
+Table 3The performance comparison between the radiation coating layer and the active water-cooling   
+
+<html><body><table><tr><td>性能</td><td>适用范围</td><td>温差抑制能力</td><td>成本</td><td>抗干扰能力</td><td>对观测影响</td></tr><tr><td>主动水冷</td><td>单一</td><td>好 (控制难度大)</td><td>高</td><td>较好</td><td>有影响 (水汽)</td></tr><tr><td>辐射涂层</td><td>广泛</td><td>较好</td><td>低</td><td>较好</td><td>无影响</td></tr></table></body></html>
+
+辐射涂层可应用于 $1 \mathrm { m }$ 太阳望远镜镜筒附近的风障板、地板、圆顶、电控设备、镜筒表面、圆顶基墩等场所以及 $1 \mathrm { m }$ 太阳望远镜建筑外墙、楼顶等受雨水冲刷的地方。主动水冷系统保持大面积水表温度和气温接近需要对补水方式、补水温度等进行精确控制，控制难度和成本都很高。水冷产生的水汽对望远镜的中远红外观测有一定影响，涂层则对望远镜观测无影响。
+
+# 3结束语
+
+本文测试的辐射涂层表面具有较好的保持和气温接近的能力，符合地基太阳望远镜对周边热源环境
+
+的温度控制要求。辐射涂层和水冷控温相比，在抑制温差方面具有效果好、适用范围广、成本低、难度小等优势，是一种可行的被动热控方法。辐射涂层可应用于地基太阳望远镜及周边各种发热设施表面。
+
+# 参考文献：
+
+[1] Zago L. An engineering handbook for local and dome seeing [C]// Proceedings of SPIE.2007: 726-736.   
+[2] 周丹.近地面大气湍流特性的研究［D].北京：中国科学院研究生院硕士毕业论文，2002.   
+[3] Bridgeland M T,Jenkins C R. Measurements of mirror seeing in the laboratory and at the telescop [J].New Astronomy Reviews，1998，42(1）:435-440.   
+[4] Zago L.The effect of the local atmospheric environment on astronomical observations[D].Switzerland : EPFL，1995.   
+[5] Dalrymple N E，Oschmann JM，Hubbard R P.ATST enclosure：seeing performance，thermal modeling，and error budgets [C]// Proceedings of SPIE.2004:497-507.   
+[6] Vogiatzis K， Upton R. TMT studies on thermal seeing modeling:mirror seeing model validation [C]// Proceedings of SPIE. 2006:627115-627115-6.   
+[7] Vogiatzis K，Angeli G Z. Strategies for estimationg mirror and mirror and dome seeing for TMT [C]// Proceedings of SPIE.2006:62710O-627100-8.   
+[8] 林兆驹．日本飞弹天文台的无圆顶太阳望远镜［J].云南天文台台刊，1979(3)：84-91.   
+[9] Li Cheng， Xian Hao,Zhang Jun. Thermal analysis of a 1.8m solar telescope mechanical structure [C]// Proceedings of SPIE. 2012:841512-841512-6.   
+[10] Volkmer A R.Thermal characteristics of the solar telescope GREGOR ［C]// Proceedings of SPIE.2008：70120K-70120K-9.
+
+# Research of the Coating Layer Temperature Measurement at the Earth-Based Solar Telescope
+
+Huang Shanjie $^ { 1 }$ ，Dai Yichun’，Jin Zhenyu'，Zhang Tao¹，Zeng Guang² (1. Yunnan Observatory，Chinese Academy of Science，Kunming 650011,China，Email: hsjie@ ynao.ac.cn; 2.Shanghai Baoye Group Corporation Limited,Shanghai 2Oo941,China)
+
+Abstract:The earth-based solar telescope and its surrounding facilities could be heated by the solar radiation during the operation，the air near the telescope optical path could be heated by the hot surfaces, thereby forming the atmosphere turbulence around them which causes the degradation of the image quality.The method of allviating the influence from the atmosphere turbulence on the image quality is to suppress the temperature diferences between the surface of the solar telescope，its surrounding facilities and the air. According to the actual measurement of the coating layer temperature and the air temperature，the feasibility analysis about the temperature control by the coating layer on the surface of the solar telescope and its surrounding facilities is presented in this paper.The result shows thatthe coating layeris capable of keeping its temperature close to the air temperature in the complicated thermal environment.Compared with the water cooling，the coating coling is much beter for the temperature control and more applicable.All these methods makethe coating cooling feasible for the temperature control of solar telescope and its surounding facilities.
+
+Key words:Solar telescope；Atmosphere turbulence ；Seeing；Coating

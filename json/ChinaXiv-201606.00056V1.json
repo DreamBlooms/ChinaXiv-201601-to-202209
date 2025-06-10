@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "开放平台与开放应用程序界面的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院国家科学图书馆北京100190）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】开放平台与开放应用程序界面是图书馆在开放科学环境下,实现开放数据集成应用与关联开放数据的一种满足数据传输的新方法。描述用户需求和开放平台与开放APIs的实践，系统梳理图书情报领域的开放系统议题,讨论许可证与信息内容管理等相关政策。最后，总结APIs标准和特殊领域的用户行为等两个方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】开放架构 开放源码软件混搭/融汇标签云用户文档",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【分类号】G250.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on the Open Platform and the Open APIs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ku Liping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（National Science Library，Chinese Academy of Sciences，Beijing 1OO190，China）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract】Both theopen platformand theopen Application Programming Interface（APIs）is thenew wayof thelibrary lata deliver forthelinkedopen dataand theopen dataintegration appications intheopen science environment.Thisartile describes the end-user needand the practice of theopen platformand APIs，systematicaly reviews the open system Ssuesinthefieldof the libraryand informationscience,discusses therelevant policiesincludingthelicenseandthe inforlationcontent management.Finaly,the summaryare two directions about theAPIs standardand the userbehavior in the pecial area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords】 Open architectureOpen source softwareMashupTag cloudUser profiles开放平台与开放API是通讯架构、硬设备和软件内容发展的产物。针对网络服务的发展以及读者在网络环境中所养成的信息搜寻行为习惯，开放信息系统的目的是解决封闭性学术资源系统所带来的种种障碍和问题。系统性研究开放平台与开放APIs对于新一代图书情报服务具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1图书馆朝向开放平台与开放APIs的必要性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前,信息科技带动网络环境的三个主要变化是：网络服务所依赖的通讯设施，如网络传输频宽（Band-width）、储存器（Storage）和运算设备等越来越便宜;信息获取的硬件设备，如个人计算机、移动电话、个人数字助理(Personal Digital Asistant，PDA)等也越来越普及;随着各类型电子期刊、电子图书和Web2.0内容的蓬勃发展,学术资源的种类和渠道也更加多元。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这些变化产生了新的用户行为和新的用户需求。在人们面对信息来源过多、信息数量过大、信息筛选过慢的情况下,新的用户需求为希望花费更少的时间访问系统(减少平台数量）、花费更少的时间过滤信息（减少人为查询）、花费更少的时间获得信息(减少操作步骤),同时希望获得更多可靠信息以及获得更多相关信息提示。这涉及到多个层面的不同解决方法，其共性问题是内容可移植性和系统通用性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "媒体基础设施的可移植性是一个多层次的行业问题。首先，开发人员需要优化初始代码以创建多媒体产品，如智能手机、媒体播放器、游戏机等;其次，目前用汇编语言写的代码多数必须为每个不同的硬件平台改写，所以耗时的集成和编程，让媒体基础设施的发展代价高昂。解决此问题需要三个层面[1]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)为控制高层次的媒体运行，应用程序的开发人员需要一个能够跨越平台的可移植应用程序编程接口（API) ；(2)系统集成商需要媒体组件集成与先进的数据路由和稳健的同步跨供应商的标准，这涉及到开放系统；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)软件组件的供应商和芯片供应商需要一种加央对不同的编解码器的可靠方法，特别是跨平台API现范，提供完整的媒体基础设施的可移植性等，这涉及到开放平台的通用性。这类工程是兼具面向复杂性用户需求与面向简洁性通用设计的一种新型研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对图书情报而言，为满足上述新的用户需求，数字图书馆系统必须实现在不同媒体载体上进行软件应用服务以及信息内容的整合服务。开放平台与开放API是一种兼具通讯架构、硬件设备和软件内容的问题解快模式，其对于新一代图书馆服务具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "终端用户对于开放平台和应用程序界面的需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 以用户为中心的设计是面向服务的计算时代的新趋势。个人用户(既是信息生产者，又是信息消费者)和终端用户的版本升级（升级的不仅是系统，而是终端用户所能提供的信息、技术和财货支持等用户模型），涉及他们所创建的新式服务[2]。在此过程中,采用开放平台和APIs能够使得信息服务的消费者和信息服务的供应商同时受益于一个更便宜、更快、更好的服务供应过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从终端用户的角度来看，比较注意两个方式：标签索引和分类、混搭数据与浏览。例如，运用大众分类法(Folksonomy)检测专家搜索和垃圾邮件，需要根据一组用户、对象和标签，讨论它们之间的丰富互动，并提出一个统一的连续性模型来整合这些功能和相互作用[3]。这种对内容与词汇进行注释的在线合作标记系统，可被视为一种开放平台，然而它的作用仍然依赖对于用户行为的理解和应用。另一方面，用户很难在网络上的庞大信息中有效地找到所需信息，而语义混搭协同浏览(共同浏览)平台可以集成异构信息，并且收集各种开放的APIs帮助用户确定应选择哪些合作伙伴[4]等。这类APIs服务既可以建立在已有的系统上，也可以进行数据迁移后在新的开放平台中实施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3实践开放平台和开放APIs的方式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "开放平台有两种实践方式：围绕着平台的互补组成部分，开辟APIs产品的市场与服务；放弃控制平台本身[5],建立一个完全的开发平台。这两种方法需要不同的支撑机制，前者往往是掌握专利技术的硬件厂商面对市场扩张需求而开放增值应用，而后者往往是掌握大宗市场份额的软件厂商面对扩展硬件市场的需求，而放弃内核与架构以外的控制。然而这并非绝对，应该视情况而定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "放弃控制平台本身并不意味着放弃管理，相反地，反而更需要审慎的管理机制。由于网络服务被视为一种有效实现异构作业流程的互操作性手段，它可以根据网络服务签章，透过网络服务行为的协议，提供如何与客户端交互的信息，从而调动相关应用程序和信息。所以，亚马逊电子商务服务中的StrawBerry应用结合集成与检测技术，基于数据类型分析，自动从Web服务的签名上派生其行为协议的模拟，在相应的网络服务实行中进行一致性检测[]。这种做法与大部分围绕原有平台进行互补成分的开放开发不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面对开放，人们多数顾虑其安全性的问题。目前，随着企业及其业务应用需求的不断扩展，许多企业为了网络沟通建立了许多网络基础设施，然而伴随着成长与开放的要求，开放平台的安全问题呈爆炸式增长。对此，路由器的研究与安全机制的设计对开发安全软件提供了有力的帮助。因为路由器是网络攻击的明确目标,所以路由器是任何安全部署的一个关键因素[7]。网状手机作为一个网状路由器的智能手机,在转发过程中实现网格网关,或者作为互联网网关本身[8]。通过这些安全措施和手段，能够避免开放系统的安全漏洞和使用陷阱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "围绕原有平台进行互补组件的开发，更着重实际应用效果和简便的开发方式，这使得混搭（Mashup）很流行。它结合第三方提供的数据和服务，通过开放《现代图书情报技术》版权所有，欢迎下载引用！请注明引用地址：开放平台与开放应用程序界面的研究[J],现代图书情报技术,2013（增刊)：6-12.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数字图书馆",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "API(如谷歌地图和Flickr)以及内部数据，创造一个相互关联而支持复杂用户的生态系统。一项研究显示少数应用程序界面作为多数混搭API的基础;混搭从一个功能模块进化而来，应对日趋复杂的应用程序界面;在生态系统中的API位置形成于开放API之间的互补关系基础上，混搭生态系统的增长遵循梯形数据增长模式[9]。换言之,数据供应商与混搭API供应商在生态系统中的位置是相辅相成的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户希望随时随地上网，然后进行语音聊天、收发短信、搜索信息、要求服务和整理博客等活动，他们对移动环境中的定点功能有越来越高的期望和要求，大型公司如微软、谷歌和苹果等都进入移动平台市场，引人平台和备设计更多易用性。开放。P许并般在开发应用程序的阶段往往受到应用需求的约束,而在建模阶段必须使用一些适当模型，使得代码生戈能够先通过可靠性验证，然后才进入完整开发的阶毁[10,11]。换言之,人人能够开发不代表人人应该开发，按照实际需求选择合适的开放方式，较能获得与预期目标相近的实际成效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前图书情报工作中的应用议题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于图书情报机构而言，电子学术期刊的发展、内容提供商与内容消费者的冲突、馆藏目录的开放利用、教育资源的集成应用，乃至用户行为的捕捉和分析等，是当前图书情报工作应用开放平台和开放APIs 的关键议题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电子学术期刊网站提供文字和数据挖掘（及其链接)的服务，而这些服务的充分实现依赖网站之间的互连性。出版商在开放平台（OpenPlatform）和双向联接（BilateralInterconnection）之间的多边联接（MultilateralInterconnection）中，往往因为部分排除或分化动机而较多地排除小型出版者。因此，在多边互连的情况下，开放平台所带来的利益小于以营利为目的的平台[12]这使得多数图书馆界人士意识到市场上的不平衡现象加剧。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内容提供商和内容消费者之间的斗争，近几年来不断上演。供应商把持着以著作权物的权利所有为基础获利的资产，而对新的开放平台技术持怀疑态度；而消费者则拒斥封闭技术，促使产业界发生无数的格式战争和技术竞赛。在音乐产业上，可以看到错误的商业模式没有跟上技术进步的步伐。云计算平台，如管理程序、虚拟化、硬件抽象、数据中心自动化等，原本有能力降低成本和开展新的渠道和服务，但并没有充分发挥效能[13] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就图书馆本身而言，如果馆藏目录需要与其他平台沟通，就能更有效地为读者服务。在网络服务（WebServices)中，通过APIs可以将各个系统进行交互，达到在一个平台上能够调用到所有系统内的信息，并且能进行特殊信息分析或者图表呈现的目的。这种开放性所形成的跨平台性，可以借由混搭模式，将书目信息（Bibliographic Information）、相关书目（RelatedLists）、用户意见（UserComments）、网络书店的评论（E-bookshopReviews）、多媒体流的播客评论（PodcastsRe-views）的内容连结，进行内容丰富化（EnrichedCon-tent)的自动化、数字化和网络化作业[14]等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于读者而言，图书馆还可以开发类似的“开放实验室”，让学生随时随地通过远程多用户平台，练习和实验开源集成和网络位置转换的服务技巧，解决资源密集型的有限空间，以克服地理和时间障碍，为学生提供一个低成本和高效率的计算机技术实验环境[15]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，如果建立跨平台的服务机制，用户行为就能够相对完整地捕捉，系统能够根据用户行为建立标签云（TagCloud），使得用户直观地得到相关信息的重要程度、关联程度、演化深度，提醒用户那些原先被忽略的重要信息;按照用户行为记录，建立用户文档（UserProfiles），过滤和筛选适合用户的信息；根据用户兴趣文件建立用户模型，通过化身（Avatars）映射在虚拟空间中，进行用户与用户之间的非正式信息交流行为；根据用户行为、用户回馈、用户意见和信息计量的结果，进行信息评级（Ratings)等[16]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着移动通信和计算机技术的发展，短信服务（ShortMessageService，SMS）迅速发展已成为进行便捷信息查询的理想平台，由于其低成本、易部署、可扩展、安全性高,成为图书馆的新兴服务平台[17]。然而,这涉及到图书馆之间、图书馆与电信运营商和服务提供商之间的协作，有别于传统图书馆系统的软件架构和模型设计，特别是开放平台和开放应用程序界面的模块部署和运行制度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5未来图书情报工作中的开放系统议题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图书情报机构在已有的应用层面上，应该增加远距咨询、三维可视化、机械工程应用、社会科学应用、辅助教育、跨领域合作等新的应用方式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对医疗产业而言，一个能够支持多种功能如实时传输、事件通知、数据积累等的开放平台，可以在网络和多媒体子系统的基础上，允许医疗专业人员随时随地使用便携式医疗传感器和移动网络提供健康监测服务[18]。过去电子保健应用和技术的解决方案通常缺乏互操作性，当前，远距医疗可以依靠一个通用系统架构,在智能家庭中集成各自独立的远距医疗设备[19]这些开放平台和开放APIs可以作为图书情报机构在3远距咨询上的参考借鉴。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到开发技术的成本以及其他更为昂贵的资原，远程病理与医疗资源的引进，目前正逐渐摆脱传统封闭式系统的做法，采用开放平台和开放APIs的方武。瑞士巴塞尔大学的远程病理中心汇集了来自世界各地的病理学家所提供的远程病理诊断，提供诊断咨旬以及病理教育[20],他们通过数码相机连接到一台计算机的显微镜上，产生病理幻灯片，然后传输数字图象，一方面支持某些国家地区因缺乏病理学家导致延误诊断和误诊，另一方面发展自身的远程病理学。这种取得双赢技术应用的做法值得借鉴",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，可视化三维医疗数据的开放平台对跨学科研究小组十分受用，它提供一个利用虚拟现实（VirtualReality，VR)和医疗应用中的反馈，能够尝试新的方法和思路,同时独立于硬件和操作系统[2I]。同类产品还有ISReal这个跨学科的3D网络研究平台，集合语义网技术、语义服务、智能代理和三维图形应用程序等，它通过语义XML3D查询处理和三维动画服务处理，由代理人控制在虚拟世界中的化身，进行各个组成部分之间的相互作用[22]。三维可视化早已是图书情报机构努力发展的方向之一，目前已经有较为成熟的产品与案例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在机械工程应用方面，目前最前沿的科学研究是探索一种名为“强人改造”（AugmentingHumanEvolu-tion)或者“人类强化\"（HumanAugmentics，HA）的技术，它是一种不经过生物进化而促进人类进化的能力，是以人类特点作为技术能力扩大的依据，弥补人类自然或者后天的生物限制的一种技术手段[23]。这种技术增强人类在各种领域中，通过信息技术（例如云计算和大数据)形成人类与机器结合的社会生态体系。然而，这需要非生物设备的条件以及通过使用开放标准和开放API提升系统的互动设计。这虽然距离图书馆发展较远，但是作为先进的信息通信技术（InformationCommunication Technology，ICT)手段，应该思考如何达到\"知识进化”的应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在社会科学应用方面，eBay的API和淘宝的电子商务网站能够捕获实时交易数据，利用代理器（Agent)模型模拟电子商务交易网络，可以分析它们的使用程度和中介中心度，通过开放API和社会网络分析，产生一个研究大型电子商务系统的新方法[24]。目前这类研究方兴未艾，图书馆在此的作用不是分析商业模式，而是分析学术信息交流模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在辅助教育的应用方面，早在10年前发起的“MIT-UPVExchange”是一项美国麻省理工学院（MassachusettsInstituteofTechnology，MIT）和西班牙瓦伦西亚大学（Universitat Politecnica deValencia,UPV)之间的合作学习项目，是一个汇集两地学生的互动网站。这个开放平台能够让登记的学生们通过文本消息（包括一个内置的聊天功能）、上传和下载多媒体文件(由学生创建的视频和图形)进行互动[25]。这已经达到跨国、跨文化、跨语言的交流作用，而利用开放平台，还能够建立电脑辅助语言学习系统等服务。用户能在这种语言学习系统中创建学习列表，并分享基于开放API的各种功能，而系统通过认知诊断模块来测试用户的认知能力，可用于创建动态的个性化学习方案,并评估用户在学习模块中的表现[26]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在跨业合作方面，开放平台与开放APIs已经进入汽车和居家领域。汽车娱乐信息产业必须适应不同汽车制造商快速变化和形式各异的特点，如果采用一个开放平台，则能够减低为每种品牌和型号设计专用平台的成本，并且实现为终端用户提供第三方应用程序（移动设备,如谷歌 Android)执行的可能性[27]。目前与此结合的跨业合作开发成为另一种应用研究的热点。而在居家上则充分利用RFID标签小到足够嵌入到家庭中的每个智能家居电器的特性，借鉴RFID应用于货物管理、车辆管理、医疗设备等的成果经验，开发基于支持JVM应用程序的开放资源共享平台，使得用《现代图书情报技术》版权所有，欢迎下载引用！请注明引用地址：开放平台与开放应用程序界面的研究[J],现代图书情报技术,2013（增刊)：6-12.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数字图书馆",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "户通过ICT进行居家管理[28]。这些都值得图书情报机构关注其未来发展的应用模式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6涉及科技信息政策的问题",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，开放平台与开放APIs所涉及的许可证与信息内容管理问题，往往容易被忽略。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "企业家往往依赖知识产权（Intellectual Property，IP)对其创新获取回报，他们愿意提供一个共享技术平台的一些标准和专用组件。一项研究表明，在13个自愿型标准制定组织（Standard SettingOrganization，SSO）的专利知识产权战略上,其专利诉讼率相对较高，因为市场寻租的道理,专业技术供应商一旦纳入到一个开放平台,捍卫其知识产权的方式会更加猛烈[29]。多数企业和独立的软件供应商,目前广泛采用的软件密集型系统是一个开放架构（OpenArchitecture，OA）加上多个开放API作为开放源码软件（Open－source Soft-Ware,OSS)的部件或组件,其优点是实现开放的众多好处，然而其挑战是各个组件都受到不同的著作权或知识产权许可证的约束[30]。因此，需要具备相关技术能力同时兼具信息政策研究背景的人员,从事许可证分析计划,以确定关键性能的OSS 许可。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "开放API是开发流行和有用的Web应用程序、实现社会化媒体服务的无缝集成、调动第三方系统,以及在社会化媒体平台上建立共享数据互操作性的有用工具;然而，开放API所提供的分享和参与途径，作为社群网站公司实现市场主导地位的一种手段,也产生破坏语境完整性、数据安全、隐私、用户的自主权和自由等问题。作为一个开放、安全、自由的交流空间的开放API的互操作性规范，需要建立在长期总结和分析大型在线服务（如Facebook、Google、YouTube、MySpace 和Twitter等)的共享条件、技术特点以及社会影响面上，才能开发更安全、更可控、更有利于用户实践而不受制于商业应用的社会网络服务[31]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "报纸和电视曾经是创建国家公共领域（哈贝马斯的概念[32])的一种重要工具;当前涉及公民参与和动员的网络环境其实并不成熟，许多网络民主化和社会媒体化的说法过于乐观，网上内容往往过于偏向部分观点，而缺乏广泛对话和批判性讨论（公共领域的本质)[33]。问题不是如何平衡开放参与和内容审查，而是如何在网络上提供全面性和包容性的社会框架。公",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10 现代图书情报技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "共机构应该扩大参与到网上不同的平台，作为值得信赖的媒体品牌，公共服务媒体（Public Service Media,PSM)有助于建立一个包容性的公共领域，增强公民参与以及建立和谐社会。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7未来持续关注的方向",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "开放API是在网络平台上快速创建新的网络服务的方式，它能对终端用户提供更丰富的网络应用；下一代网络（NextGenerationNetwork，NGN）的体系结构和协议的标准化已取得显著的进展，例如支持多种流量、多种业务、具有丰富协议、大容量和高性能的核心网络，以及具有丰富接口能力的边缘网络和用户可接受的新型终端设备等[34]。在开放API标准组织上,仍然值得后续关注。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一方面，互联网、电信和第三方供应商在开放API的形式上，已经开启公共服务的Web2.0的范例，智能设备(如iPhone和Android)促使用户参与更加活跃，因此一项网络服务可能不足以充分满足用户的各种目标。通过集成网络服务是处理这个问题的方法之一，其基础就是开放平台与开放API,越来越多的API使得用户不仅仅是单纯作为被服务方，同时也能够作为服务的创造者或者组合各类服务[35]。然而,实践这种情况的环境还未完全成熟，比如用户在一个给定的情况下寻找开放API仍然比较困难，通过用户驱动服务所创造的集体智慧，能够创建终端用户的类型，以及根据用户体验和感知进而组合各种融合应用的发展。在可预见的未来，将出现新的用户驱动复合服务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，未来持续关注的两个方向是APIs标准和特殊领域的用户行为研究。然而，图书情报机构如果采用开放平台与开放APIs,是否就已足够应对科研人员不断变化的用户需求？后续将有更多相关研究，深入探讨学术交流革命。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(致谢：感谢评委的评审和编辑部的校勘。)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Ramirez-Acosta AA,Garcia-Vazquez M S,Kumar S.Streaming Media Portability with the Emerging Support OpenMAX［J]. IETETechnical Review,2011,28(2）:146-157.   \n[2］Yu J,ShengQZ,Han J,et al．A Semantically Enhanced Service Repository for User- centric Service Discovery and Management ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "《现代图书情报技术》版权所有，欢迎下载引用！请注明引用地址：开放平台与开放应用程序界面的研究[J],现代图书情报技术,2013(增刊)：6-12.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[J」. Data and Knowledge Engineering,2012,72:202 -218. [3]Yao JJ,CuiB,Han Q S,et al.Modeling User Expertise in Folksonomies by Fusing Multi-type Features[C]. In: Procedings of the16th International Conference on Database Systems for Advanced Applications. 2011:53 -67. [4］Jung JJ.Collaborative Browsing System Based on Semantic Mashup with Open APIs[J]．Expert Systems with Applications，2012,39 (8):6897 -6902. [5］Boudreau K.Open Platform Strategies and Innovation：Granting Access vs.Devolving Control[J]. Management Science,2010,56 (10):1849 -1872. [6]Bertolino A,Inverardi P,Pelliccione P,et al.Automatic Synthesis of Behavior Protocols for Composable Web - Services[C].In:Procedings of the7th Joint Meetingof the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering. New York:ACM,2009:141-150. ] Cui X.Research on Enterprise Network Router Security Strategy [J].Advanced Materials Research,2012,433-440:1783-1786. ]Iera A,Molinaro A,Paratore SY,etal. Making a Mesh Router/ Gateway from a Smartphone：Is That a Practical Solution[J]．Ad Hoc Networks,2011,9（8）:1414-1429. V Open API[C].In：Proceedings of the International Conference on Advanced Software Engineering and Its Applications.Berlin，Heidelberg：Springer-Verlag，2009,59:168-175. [12]Jeon D S,Menicucci D. Interconnection Among Academic Journal Websites：Multilateral Versus Bilateral Interconnection[J]．The RAND Journal of Economics,2011,42(2）:363-386. [13]Davies A S.The Silver Lining-Utilizing Cloud Computing in Broadcast Applications[J]．SMPTE Motion Imaging Journal, 2011,120(2):30-36. [14]Bales A，Dehmlow M. Extending the OPAC：Integrating WorldCat，Maps，and More into Aleph[EB/OL]．[2010 -11-04]. http://igelu.org/wp-content/uploads/2010/10/20a_dehmlow. pdf. [15]Shih C C,Hwang L J. Learning Embedded Software Design in an Open 3A Multiuser Laboratory[J]． IEEE Transactions on Education,2011,54(2) :279 -285. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16］顾立平．开放学术资源系统：数字图书馆的发展趋势［EB/ OL].[2011 -03-08].http://flytechnews.blogspot.com/2010/ 12/blog - post. html.（Ku Liping. Academic Resource Open System：The Trend of Digital Library[EB/OL].[2011-03-08]. http://flytechnews.blogspot.com/2010/12/blog- post. html.)   \n[17]Dong XX,Du ZD,LiG H,et al.A Novel Library Design Model Based on SMS[C]．In：Proceedings of International Forum on Computer Science-Technology and Applications（IFCSTA'09）. 2009;396 -400.   \n[18]Rikitake K，Araki Y，Kawahara Y，et al.NGN/IMS-based Ubiquitous Health Monitoring System[C].In：Proceedings of the 6th IEEE Conference on Consumer Communications and Networking Conference（CCNC'09). Piscataway: IEEE Press,2009:56 -57.   \n[19]Martin J,SeepoldR,Madrid N M.Open Platform for e- Health Services[C].In:Proceedings of the 2nd International Conference on Health Informatics.2009:458-461.   \n[20]Hitchcock CL.TheFutureof TelepathologyfortheDeveloping World[J]．Archives of Pathology and Laboratory Medicine,2011, 135(2) :211 - 214.   \n[21]Friese KI,Blanke P,WolterFE.YaDiV-an Open Platform for 3D Visualization and 3D Segmentation of Medical Data[J].SVisual Computer，2011,27(2):129 -139.   \n[22]Kapahnke P，Liedtke P，Nesbigall S，et al.ISReal:An Open Platform for Semantic-based 3D Simulations in the 3D Internet [C].In：Proceedings of 9th International Semantic Web Conference,Shanghai,China.2010:161-176.   \n[23]Kenyon R V,Leigh J.Human Augmentics：Augmenting Human Evolution[C]. In:Proceedings of 2Ol1 Annual International Con ferenceof the IEEE Engineering in Medicineand Biology Society. 2011: 6758 -6761.   \n[24]Piao C H,Han XF，Wu H.Research on E-commerce Transaction Networks Using Multi-agent Modeling and Open Application Programming Interface[J]．Enterprise Information Systems，2010, 4(3) :329 -353.   \n[25] Gil-Pechuan I,Conesa -Garcia P,Palmer- Gato M. Social Networking and Science Teaching:The MIT- UPV Case[C].In: Proceedings of International Conference on Computers and Industrial Engineering（CIE'09).2009:1899-1904.   \n[26]Lee S,Lee W,Kim HC,et al.A Personalized CALL System Considering Users Cognitive Abilities[C]. In：Proceedings of International Conference on Computational Science and Its Applications. 2010: 376 -384.   \n[27]Macario G,Torchiano M,Violante M.An In-Vehicle Infotainment Software Architecture Based on Google Android[C].In：Proceedings of IEEE International Symposiumon Industrial Embedded Systems. 2009:257 -260. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "《现代图书情报技术》版权所有，欢迎下载引用！请注明引用地址：开放平台与开放应用程序界面的研究[J],现代图书情报技术,2013（增刊)：6-12.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数字图书馆",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[28]Yang C S,LuYC,Liao MY,etal.Design and Implementation of HEMS Based on RFID and OSGi[J].Wireless Personal Communications，2011，59(1) :73-83.   \n[29]Simcoe T S，Graham SJH，Feldman MP.Competing on Standards?Entrepreneurship，Intellectual Property，and Platform Technologies[J]. Journal of Economics and Management Strategy, 2009,18(3) :775 -816.   \n[30］Alspaugh TA,AsuncionHU,Scacchi W.Analyzing SoftwareLicenses in Open Architecture Software Systems[C].In:Proceedings ofWorkshop on Emerging Trendsin Free/Libre/Open Source SoftwareResearch and Development（FLOSS'O9）.Washington，DC： IEEE Computer Society，2009:54-57.   \n[31]Bodle R.Regimes of Sharing Open APIs,Interoperability，and Fa",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "cebook［J]．Information Communication and Society，2011，14",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3):320-337.   \n[32]Habermas J. Strukturwandel der Offentlichkeit：Untersuchungen zu einerKategorie derbiirgerlichen Gesellschaft[M].Berlin:Suhrkamp Verlag，1990:22-27.   \n[33]Iosifidis P.The Public Sphere,Social Networks and Public Service Media[J]．Information Communication and Society，2011，14 (5):619 -637.   \n[34]Mulligan C E A.Open API Standardization for the NGN Platform [J]．IEEE Communications Magazine,2009,47(5）:108-113.   \n[35]JungY,ParkYM，BaeHJ,etal．Employing Collective Intelligence for User Driven Service Creation[J].IEEE Communications Magazine,2011,49(1） :75-83. （作者E-mail:gulp@ mail.las.ac.cn) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "《现代图书情报技术》特邀专栏组稿",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "《现代图书情报技术》是中国科学院主管、中国科学院国家科学图书馆主办的计算机信息管理技术方面的学术性物。刊物拥有清晰的定位,即以跟踪技术的研究、应用、交流为主体，服务于广大信息技术人员。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本刊从2004年起开设不定期栏目一—《特邀专栏》，每·期专栏集中发表关于某个特定方面的技术研发与应用的究型文章，汇集科研成果、聚焦研究前沿。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "《特邀专栏》操作办法及流程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)本栏目特邀国内外知名专家、学者、教授担任专栏主编，专栏的设立一般由期刊的策划编辑和特邀专栏主编沟通，根据国内外图书情报技术学科的发展需要提出选题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)选题一旦确定后，由特邀专栏主编承担稿件的组织，审核并撰写前言。一期特邀专栏一般为4-6篇文章为宜。稿件组织过程中，策划编辑将与特邀专栏主编进行定期的沟通，及时掌握稿件的撰写情况，并对稿件的撰写提出适当的建议和意见。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)稿件经特邀专栏主编审核通过，提交给编辑部。后期由策划编辑负责与作者的联系沟通及安排出版等事宜。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)专栏的选题一旦确定后，将确定基本时间表。一般的操作周期为3-5个月。以正式确定特邀专栏题目为起始点，在1个月内确定约请论文的作者和题目，3个月内确定初稿，5个月内确定采用稿。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12 现代图书情报技术",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 《特邀专栏》稿件内容要求",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)深人反映本专栏选题方向的前沿研究成果或重大应用成果,侧重理论研究、技术分析、系统论证或设计等，注意理论与实践相结合。(2)特邀专栏稿件应该主要是原始性和原创性研究论文,也可以有一篇综述性论文，但综述性论文必须可靠地覆盖该方向的原始核心文献。(3)文章按照严谨的学术文章体例写作，即明确扼要地界定研究问题，简要说明研究方法，系统精炼地描述国际国内发展状况，进而详细地描述作者自身研究工作的技术线路及研究结果。(4)特邀专栏的一系列文章应注意覆盖专栏选题所涉及的各个研究方向和多个研究单位，充分覆盖可能存在的多种观点和技术线路。(5)充分承认前人/别人的工作，充分引证所参考引用的文献（尤其是本研究工作中的原始核心文献和国内最先出现的研究文献)，严格遵守著录规范。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3《特邀专栏》稿件格式要求",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)论文版式请参照本刊网站\"下载专区\"中\"论文模板”。(2)多个作者时，请注明通信作者，并注明各个作者的单位。(3)每篇稿件以6-8千字为宜(按篇幅字数计算，包括图、表)。",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,428 @@
+# 新能源配电网低碳高效运行的可拓层次评估方法
+
+![](images/f26e8df9d6d936b15a147930ad27c15db373aed4a6d8d4a2ac2378b45c26e74b.jpg)
+
+晏浩然 男 1991年生，硕士研究生，研究方向为电力系统运行与控制。
+
+晏浩然」吴杰康」晏寒婷² 刘向东1(1.广东工业大学自动化学院广州5100062.济南供电公司济南250000)
+
+摘要：本文在传统配电网评估模型的基础上，建立了新能源配电网的综合评估指标体系，该指标体系从设备运行状态、供电可靠性、电能质量、经济性以及环保性五个方面较为全面地对新能源配电网进行综合评估，突出了新能源配电网区别于传统配电网的特性，同时提出了基于可拓层次分析法的综合评估方法，该方法在传统层次分析法的基础上考虑了人为判断的模糊性，并且较容易满足判断矩阵的一致性要求。最后通过算例分析验证了指标体系的全面性和评估方法的适应性。
+
+关键词：新能源配电网 低碳高效运行可拓层次评估方法中图分类号：TM315
+
+# Extension Hierarchy Analytical Method for Low-Carbon and High-Efficiency Operation of Distribution Grids With Renewable Energy
+
+![](images/5139b8751077b97192d9e4cc75945ca5451e7813105aad6e34c60f8e50d0453c.jpg)
+
+Yan Haoran Wu Jiekang1 Yan Hanting² Liu Xiangdong (1.Guangdong University of TechnologyGuangzou 51006 China 2.Jinan Power Supply BureauJinan 250000 China)
+
+吴杰康男 1965年生，教授，博士生导师，研究方向为电力系统运行与控制。
+
+Abstract: In the paper, the comprehensive evaluation index system of distribution grid is established with renewable energy on the basis of comprehensive evaluation on traditional distribution grid. This index system can make evaluation on distribution grid more comprehensively from equipment operational condition, power distribution reliability, power quality, economical efficiency and environmental protection property, highlighting the characteristics of distribution grid with renewable energy diferent from the traditional distribution network. The comprehensive evaluation method based on extensional analytic hierarchy process is also put forward. Considering Vagueness in human judgment based on traditional analytic hierarchy process,this method is easier to meet the requirement for consistency in judgment matrix.At last, the comprehensiveness of index system and adaptability of evaluation method are verified through analysis of examples.
+
+Keywords: Distribution grid with renewable energy, low-carbon and high-efficiency operation,extension hierarchy analytical method
+
+# 1 引言
+
+近年来，由于传统化石能源的大量消耗，人类所面临的环境问题越来越突出，因此具有安全、清洁、灵活等优点的可再生分布式电源接入传统配电网已经成为目前的研究热点。另外随着电动汽车技术的日益成熟，电动汽车将成为配电网的重要负荷。而当前对于配电网的评估大多是针对传统配电网而言，因此亟需建立一套针对新能源配电网的评估指标体系，通过科学、合理、全面的指标体系实现对新能源配电网的分析评价，从而指导新能源配电网的建设和改造，使得新能源配电网能够低碳、高效运行。
+
+目前，国内外对于传统配电网的评估已有不少研究，但是对于含新能源的配电网评估却很少。文献[1]针对传统配电网从安全性、经济性、灵活性、可靠性和协调性等方面建立了指标体系，但不适用于对新能源配电网的综合评估；文献[2-3]针对传统配电网，分别建立了供电可靠性和安全性的指标体系；文献[4]针对智能配电网建立了清洁性评估指标体系；文献[5]针对含分布式电源的配电网进行了可靠性评估，但指标集过少且不具有含分布式电源的针对性；文献[6]在对含分布式电源的配电网进行综合评估时，指标体系中未考虑分布式电源的并网对环境的有利影响；文献[7-8]利用层次分析法对配电网进行了综合评估，但未考虑传统层次分析法无法模拟人为判断模糊性的弊端。
+
+为此，本文针对新能源配电网建立了包含新时期对配电网核心需求的指标体系，并采用可拓层次分析法对新能源配电网进行综合评估。
+
+# 2 可拓层次评估方法
+
+需要多次调整。而为了满足一致性要求，最后调整得到的判断矩阵来反映指标之间的相对重要性并不是十分真实。本文采用的可拓层次分析法则能够很好地解决这一问题。
+
+# 2.1可拓区间数判断矩阵
+
+定义1设 $\mathbf { R }$ 为给定论域上的全体可拓集合，若$a = \left. a ^ { - } , a ^ { + } \right. \in \mathbf { R }$ ，且 $a = \left. a ^ { - } , a ^ { + } \right. = \{ x | 0 < a ^ { - } < x < a ^ { + } \}$ ，则称 $\boldsymbol { a }$ 为可拓区间数。令0到 $\mathbf { \Delta } _ { a }$ 点的距离为
+
+$$
+L _ { 0 } ( a ) = { \frac { a ^ { - } + a ^ { + } } { 2 } }
+$$
+
+定义2设矩阵 $\pmb { A } = \left[ a _ { i j } \right] _ { n \times n }$ ，若 $\forall i , j = 1 , 2 , \cdots , n$ ，均有： $\textcircled { 1 } a _ { i j } = \left. a _ { i j } ^ { - } , a _ { i j } ^ { + } \right.$ ，且 $1 / 9 \leqslant a _ { i j } ^ { - } \leqslant a _ { i j } ^ { + } \leqslant 9$ $\textcircled { 2 } a _ { i j } = 1 /$ $a _ { j i }$ ，则称矩阵 $A$ 为可拓区间数判断矩阵。
+
+定理1设 $A = \left. A ^ { - } , A ^ { + } \right.$ 为可拓区间数矩阵，若$\lambda ^ { - }$ 和 $\lambda ^ { + }$ 分别为 $\boldsymbol { A } ^ { - }$ ， $\boldsymbol { A } ^ { * }$ 的最大特征值，则有
+
+(1） $\lambda = \left. \lambda ^ { - } , \lambda ^ { + } \right.$ 为矩阵 $A$ 的最大特征值。
+
+(2） $\mathbf { \Phi } _ { X = \left. k x ^ { - } , m x ^ { + } \right. }$ 为矩阵 $A$ 关于最大特征值 $\lambda$ 的所有特征向量。其中， $x ^ { - }$ 、 $x ^ { + }$ 分别为矩阵 $\boldsymbol { A } ^ { - }$ ， $\boldsymbol { A } ^ { * }$ 对应于 $\lambda ^ { - }$ 和 $\lambda ^ { + }$ 的归一化正特征向量， $k$ 和 $m$ 为满足 $0 < k x ^ { - } \leqslant m x ^ { + }$ 的所有正实数。
+
+定理2若矩阵 $A$ 是可拓区间数判断矩阵，则矩阵 $A$ 的满足一致性要求的特征向量为
+
+$$
+\pmb { \omega } = \left. k \mathbf { x } ^ { - } , m \mathbf { x } ^ { + } \right. = \left( \omega _ { 1 } , \omega _ { 2 } , \cdots , \omega _ { n } \right) ^ { \mathrm { T } }
+$$
+
+$$
+\begin{array} { r } { k = \sqrt { \displaystyle \sum _ { j = 1 } ^ { n } \frac { 1 } { \sum _ { i = 1 } ^ { n } a _ { i j } ^ { + } } } } \\ { m = \sqrt { \displaystyle \sum _ { j = 1 } ^ { n } \frac { 1 } { \sum _ { i = 1 } ^ { n } a _ { i j } ^ { - } } } } \end{array}
+$$
+
+层次评估方法的关键步骤是形成判断矩阵，判断矩阵的形成需要定量与定性分析相结合。传统的层次分析法在形成判断矩阵、将两个指标相对上一层指标进行比较时，往往采用 $1 \sim 9$ 及其倒数标度法，赋予其一个定值。这种方法虽然简单明了，但是忽略了人为判断的模糊性，如专家在判断指标1和指标2相对上一层指标的相对重要性时，往往并不能十分确定，给出的只能是一个区间而不是一个定值。可拓层次模糊分析法采用可拓区间数矩阵则能够很好地考虑人为判断时的模糊性。
+
+另一方面，传统层次分析法所形成的判断矩阵在指标较多时，很难一次性满足一致性要求，往往
+
+设 $A$ 为层次结构中第 $k - 1$ 层的一个指标，第 $k$ 层有 $n _ { k }$ 个因子与指标 $A$ 相关， $T$ 个专家对与指标 $A$ 相关的 $n _ { k }$ 个因子两两进行权重比较时，由于判断的模糊性，给出的会是一个可拓区间数，最后由第 $t$ 个专家得出的可拓区间数判断矩阵为
+
+$$
+\begin{array} { r } { \pmb { A } _ { t } = \big [ a _ { i j } ^ { t } \big ] _ { n _ { k } \times n _ { k } } \quad i , j = 1 , 2 , \cdots , n _ { k } } \end{array}
+$$
+
+式中， $a _ { i j } ^ { t } = \left. { a _ { i j } ^ { t - } , a _ { i j } ^ { t + } } \right.$ 表示专家 $\mathbf { \chi } _ { t }$ 判断第 $k$ 层与指标 $A$ 相关的 $n _ { k }$ 个因子中第 $i$ 个因子和第 $j$ 个因子对指标$A$ 的相对重要程度， $t = 1 , 2 , \cdots , T _ { \circ }$
+
+综合 $T$ 个专家的意见，最后得出指标 $A$ 的综合可拓区间数判断矩阵为
+
+$$
+A = \frac { 1 } { T } \sum _ { t = 1 } ^ { T } A _ { t } = [ a _ { i j } ] _ { n _ { k } \times n _ { k } }
+$$
+
+$$
+a _ { i j } = \frac { 1 } { T } \sum _ { t = 1 } ^ { T } a _ { i j } ^ { t } = \frac { 1 } { T } \Biggl ( \sum _ { t = i } ^ { T } a _ { i j } ^ { t - } , \sum _ { t = i } ^ { T } a _ { i j } ^ { t + } \Biggr )
+$$
+
+式中， $a _ { _ { i j } } ^ { \phantom { - } } = \left. a _ { _ { i j } } ^ { - } , a _ { _ { i j } } ^ { + } \right.$ 表示综合所有专家意见得出的因子 $i$ 和因子 $j$ 关于指标 $A$ 的相对重要程度。
+
+根据综合可拓区间数判断矩阵 $\pmb { A } = \left. \pmb { A } ^ { - } , \pmb { A } ^ { + } \right.$ ，求取满足一致性要求的第 $k$ 层 $n _ { k }$ 个因子相对第 $k { - } 1$ 层指标 $A$ 的权重向量的步骤为：
+
+（1）求矩阵 $\boldsymbol { A } ^ { - }$ 、 $\boldsymbol { A } ^ { * }$ 对应于最大特征值的归一化正特征向量 $x ^ { - }$ 和 $x ^ { + }$ 。
+
+(2）根据式（3）、式（4）求 $k$ 和 $\mathbf { \nabla } _ { m }$ 的值，从而得到满足一致性要求的可拓区间数权重向量为
+
+$$
+\pmb { \omega } _ { \mathscr { A } } = \left( \omega _ { \mathscr { A } 1 } , \omega _ { \mathscr { A } 2 } , \cdots , \omega _ { \mathscr { A } n _ { k } } \right) ^ { \mathrm { T } } = \left. k x ^ { - } , m x ^ { + } \right.
+$$
+
+式中， $\omega _ { _ { A i } } = \left. \omega _ { _ { A i } } ^ { - } , \omega _ { _ { A i } } ^ { + } \right.$ （20 ${ \bf \Phi } ( i = 1 , 2 , \cdots , n _ { k } )$ 为因子 $i$ 对指标 $A$ 的权重可拓区间数。
+
+# 2.2可拓区间数的求解
+
+在传统层次分析法中，判断矩阵的权重向量即为判断矩阵最大特征值所对应的归一化特征向量，而在可拓层次分析法中，判断矩阵为可拓区间数矩阵，求取的归一化特征向量为式（8）中的可拓区间数权重向量，为此需要将可拓区间数权重向量转化为实数权重向量。
+
+根据定义1可求出满足一致性要求的可拓区间数权重向量中每一个元素到0的距离为
+
+$$
+L _ { 0 } ( \omega _ { A i } ) = \frac { \omega _ { A i } ^ { - } + \omega _ { A i } ^ { + } } { 2 }
+$$
+
+其中， $L _ { 0 } ( \omega _ { A i } )$ 表示第 $k$ 层与指标 $A$ 相关的第 $i$ 个因子的单排序，经过归一化后可得
+
+$$
+\boldsymbol { L _ { 0 } } ( \boldsymbol { A } ) = ( L _ { _ { A 1 } } , L _ { _ { A 2 } } , \cdots , L _ { _ { A n _ { k } } } ) ^ { \mathrm { T } }
+$$
+
+其中， $\boldsymbol { L } _ { 0 } ( \boldsymbol { A } )$ 表示第 $k$ 层的 $n _ { k }$ 个因子对第 $k - 1$ 层指标 $A$ 的单排序权重向量。
+
+# 2.3综合权重向量与综合评估值
+
+以三层层次结构为例，计算综合权重向量及综合评估值。图1为层次分析法的三层层次结构，第一层为目的层，反映对系统的最终评价；第二层为准则层，反映为所评价系统的大分类；第三层为指标层，反映为所评价系统的具体指标。
+
+假定准则层有 $n$ 个准则，第 $i$ 个准则 $A _ { i }$ 在指标层中有 $m _ { i }$ 个指标与其相关。根据上述方法可以由指标 $B _ { i 1 }$ ， $B _ { i 2 }$ ，…， $B _ { i m _ { i } }$ 关于准则 $A _ { i }$ 的可拓区间数判断矩阵求出这些指标对准则 $A _ { i }$ 的单排序权重向量为
+
+![](images/55b28a97deba1ac7fa143c63b9f2086033d7caa7d06143927e470707483a3b6c.jpg)  
+图1可拓层次评估法的三层结构  
+Fig.1Three-tire hierarchy structure of EAHP
+
+$$
+ { L _ { 0 } } (  { A _ { i } } ) = \left( L (  { B _ { i 1 } } ) , L (  { B _ { i 2 } } ) , \cdots , L (  { B _ { i m _ { i } } } ) \right) ^ { \mathrm { T } }
+$$
+
+式中， $L ( B _ { i j } ) ~ ( i = 1 , 2 , \cdots , n ; ~ j = 1 , 2 , \cdots , m _ { i } )$ 表示指标 $B _ { i j }$ 相对准则 $A _ { i }$ 的权重值。
+
+根据准则层关于目的层的可拓区间数判断矩阵可以求出准则层所有准则对目的层的单排序权重向量为
+
+$$
+\boldsymbol { L _ { 0 } } ( G ) = ( L ( A _ { 1 } ) , L ( A _ { 2 } ) , \cdots , L ( A _ { n } ) ) ^ { \mathrm { T } }
+$$
+
+式中， $L ( A _ { i } ) \ ( i = 1 , 2 , \cdots , n )$ 表示准则 $A _ { i }$ 相对目的层的权重值。
+
+与准则 $A _ { i }$ 相关的 $m _ { i }$ 个指标对目的层的综合排序权重向量为
+
+$$
+\begin{array} { r l } & { P _ { i } ( G ) = ( P ( B _ { i 1 } ) , P ( B _ { i 2 } ) , \cdots , P ( B _ { i m _ { i } } ) ) ^ { \mathrm { T } } } \\ & { \qquad = L ( A _ { i } ) \times L _ { 0 } ( A _ { i } ) } \end{array}
+$$
+
+式中， $P ( B _ { i j } )$ 表示指标 $B _ { i j }$ 相对目的层的综合权重值。
+
+若与准则 $A _ { i }$ 相关的 $m _ { i }$ 个指标的指标值向量为$W _ { i } = ( w _ { i 1 } , w _ { i 2 } , \cdots , w _ { i m _ { i } } )$ ，则所评价系统的综合评估值为
+
+$$
+G = \sum _ { i = 1 } ^ { n } [ W _ { i } P _ { i } ( G ) ] = \sum _ { i = 1 } ^ { n } [ W _ { i } \times L ( A _ { i } ) \times L _ { 0 } ( A _ { i } ) ]
+$$
+
+# 3电网低碳高效运行评估指标
+
+在对新能源配电网进行综合评估，建立综合指标体系时，要遵循系统性、科学性、独立性、适应性和可比性原则。本文将从设备运行状态、供电可靠性、电能质量、经济性和环保性五个准则出发，构建配电网综合评估的三层层次结构模型，如图2所示。
+
+# 3.1设备运行指标
+
+配电网由配电线路、变压器和许多电力电子元件组成，这些设备的运行状态会直接影响到配电网的正常运行。本文选取如下指标来反映设备的运行状态。
+
+![](images/0d1d37bcf2badb491b4b00ec242f3b69eec5d2ed1f0c57e6e996c903fa283403.jpg)  
+图2新能源配电网综合评估模型 Fig.2Three-tire hierarchy structure of comprehensive evaluation of distribution grid
+
+（1）设备的运行年限指标 $B _ { 1 1 }$ 。配电网中设备的工作状态与运行年限指标密切有关，当设备运行年限达到一定程度后，发生故障的概率会指数级增加。设备的运行年限指标计算式为
+
+$$
+B _ { 1 1 } = \frac { N _ { 1 } - N _ { 2 } } { N _ { 1 } }
+$$
+
+式中， $N _ { 1 }$ 为配电网总设备数； $N _ { 2 }$ 为配电网中运行年限超过额定运行年限 $60 \%$ 的设备数。
+
+(2）设备的维护水平指标 $B _ { 1 2 }$ 。该参数指标关系到设备的运行状态，计算式为
+
+$$
+B _ { 1 2 } = \frac { \displaystyle \sum _ { i = 1 } ^ { N _ { 1 } } M _ { i } } { N _ { 1 } }
+$$
+
+式中， $M _ { i }$ 表示第 $i$ 台设备的维护水平，其中当设备维护水平好时取值为1，一般时为0.5，不达标时取值为0。
+
+(3）设备无故障率指标 $B _ { 1 3 }$ 。该指标能在一定程度上反映配电网中设备的可靠性，计算式为
+
+$$
+B _ { 1 3 } = \frac { T _ { \mathrm { D } } } { T }
+$$
+
+式中， $T$ 和 $T _ { \mathrm { { D } } }$ 分别表示统计期时长、统计期内配电网在所有设备均无故障状态下的工作时间。
+
+（4）设备过载率指标 $B _ { 1 4 }$ 。设备在实际运行过程中，若过负荷运行，会增加设备故障的概率。同时若设备在配电网中过载数量过多，也说明网络结构不合理。设备过载率指标为
+
+$$
+B _ { 1 4 } = 1 - \frac { N _ { \mathrm { o v e r } } } { N _ { 1 } }
+$$
+
+式中， $N _ { \mathrm { o v e r } }$ 为统计期内过载的总设备数。
+
+# 3.2可靠性指标
+
+供电可靠性是衡量配电系统在某一段时间内能够保持对负荷连续充足供电能力的重要指标。本文选取五个指标反映配电网的供电可靠性，具体如下。
+
+（1）供电可靠率指标 $B _ { 2 1 }$ 。供电可靠率指标可用于定量分析配电网向用户供电的可靠程度，根据《供电系统用户供电可靠性评价规程》，供电可靠率选取为不记辖区外部电网事故造成的停电事故，计算式为
+
+$$
+B _ { 2 1 } = \left( 1 - \frac { B _ { 2 2 } } { T } \right) \times 1 0 0 \%
+$$
+
+式中， $T$ 表示统计期时长。
+
+(2）用户平均停电时间指标 $B _ { 2 2 }$ 。用户平均停电时间定义为供电用户在统计时间内的平均停电小时数，计算式为
+
+$$
+B _ { _ { 2 2 } } { = } \frac { \displaystyle \sum T _ { _ { \mathrm { D } i } } } { N } { \times } 1 0 0 \%
+$$
+
+式中， $T _ { \mathrm { D } i }$ 为统计期内每户每次停电时间； $N$ 为总用户数。
+
+（3）用户平均停电次数指标 $B _ { 2 3 }$ 。用户平均停电次数定义为供电用户在统计时间内 (以年为单位)的平均停电次数，计算式为
+
+$$
+B _ { _ { 2 3 } } = \frac { \sum N _ { _ { \mathrm { D } i } } } { N }
+$$
+
+式中， $N _ { \mathrm { D } i }$ 为统计期内每次停电用户数。
+
+（4）线路间的负荷转移能力 $B _ { 2 4 }$ 。该参数指标关系到配电网“ $N - 1 ^ { \mathfrak { s } }$ 可靠性，当配电网中的线路因故障或检修而退出运行时，线路上的负荷功率必须转移到其他线路中去，负荷转移越强说明配电网供电可靠性越高。线路间的负荷转移能力指标计算式为
+
+$$
+B _ { 2 2 } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N _ { \mathrm { L } } } \left( 1 - \frac { P _ { i \mathrm { n e e d } } } { P _ { i \mathrm { o t h } } } \right)
+$$
+
+式中， $N _ { \mathrm { L } }$ 为配电网中的总线路数； $P _ { i \mathrm { n e e d } }$ 为第 $i$ 条线路因故障或检修而退出运行时负荷能够转移到其他线路上的负荷量； $P _ { i \mathrm { o t h } }$ 为第 $i$ 条线路因故障或检修而退出运行时需要转移到其他线路上的负荷量。
+
+（5）线路非满载率指标 $B _ { 2 3 }$ 。本文规定当线路负载率超过0.8时即视为满载，当满载线路过多时，网架结构抗风险能力便会减弱，影响到配电网供电可靠性。线路非满载率指标计算式为
+
+$$
+B _ { 2 3 } = \frac { N _ { \mathrm { L } } - N _ { \mathrm { L 0 } } } { N _ { \mathrm { L } } }
+$$
+
+式中， $N _ { \mathrm { L O } }$ 为配电网中统计期内的满载线路数。
+
+# 3.3电能质量指标
+
+为用户提供优质电能是供电系统的重要职责，分布式电源并网和电动汽车的接入一方面使得配电网由原来的无源网络变为有源网络，分布式电源出力具有的波动性和电动汽车接入的随机性会给配电网的电能质量管理带来不利影响；另外分布式电源机组采用电力电子装置并网时，会给配电网带来谐波污染。
+
+本文选取五个指标反映电能质量，各指标的计算是通过对配电网各电气参数进行实际测量后根据隶属度函数进行计算得到的评估值。
+
+（1）电压偏差隶属度函数。计算式为
+
+$$
+f ( \varDelta U ) = \left\{ \begin{array} { c c } { 0 } & { \left| \varDelta U \right| \geqslant U _ { 2 } } \\ { \displaystyle \frac { 1 } { \sqrt { 2 \pi } \delta } \mathrm { e } ^ { - A U ^ { 2 } / 2 \delta ^ { 2 } } } & { \mathrm { ~ \# \# \# } } \\ { 1 } & { \left| \varDelta U \right| \leqslant U _ { 1 } } \end{array} \right.
+$$
+
+式中， $\varDelta U$ 为电压偏差的百分值； $\delta$ 、 $U _ { 1 }$ 、 $U _ { 2 }$ 为常数。(2）电压波动与闪变隶属度函数。计算式为
+
+$$
+f ( \varDelta U ^ { \prime } ) = \left\{ \begin{array} { c c } { 0 } & { \varDelta U ^ { \prime } \in [ U _ { 3 } , + \infty ] } \\ { \displaystyle \frac { 1 } { 2 } - \frac { 1 } { 2 } \sin \left[ \frac { \delta } { U _ { 4 } - U _ { 3 } } \left( \varDelta U ^ { \prime } - \frac { U _ { 3 } + U _ { 4 } } { 2 } \right) \right] } & { \varDelta U ^ { \prime } \in [ U _ { 3 } , U _ { 4 } ] } \\ { 1 } & { \varDelta U ^ { \prime } \in [ 0 , U _ { 3 } ] } \end{array} \right.
+$$
+
+频率偏差、电网谐波和三相不平衡度的隶属度函数与电压波动类似。
+
+# 3.4经济性指标
+
+在对新能源配电网进行经济性评估时，不仅需要考虑到分布式电源的降损作用，同时也要考虑分布式电源的投入成本等。本文将网损指标、单位资产供电量指标和投入产出比指标包括到经济性评估体系中。
+
+（1）线损率指标 $B _ { 4 1 }$ 。本文采用统计线损率来表示线损率指标，即采用供电量与售电量的差与供电量的比值来表示。计算式为
+
+$$
+B _ { 4 1 } = \frac { W _ { 1 } - W _ { 2 } } { W _ { 1 } } { \times } 1 0 0 \% 
+$$
+
+式中， $W _ { 1 }$ 、 $W _ { 2 }$ 分别为为统计期内配电网的供电量和售电量。
+
+(2）单位资产供电量指标 $B _ { 4 2 }$ 。该指标反映的是所评估新能源配电网的净资产总额相比于供电负荷的收益情况。计算式为
+
+$$
+B _ { 4 2 } = \frac { W _ { 1 } } { Y }
+$$
+
+式中， $Y$ 为统计期内配电网总资产。
+
+(3）投入产出比指标 $B _ { 4 3 }$ 。该指标反映的是所评估配电网所投入资金的回报程度，可用销售收入与购电成本、运维成本的差值除以总投资来表示，计算式为
+
+$$
+B _ { 4 3 } = \frac { Y _ { 1 } - Y _ { 2 } - Y _ { 3 } } { Y } { \times 1 0 0 \% }
+$$
+
+式中， $Y _ { 1 }$ 、 $Y _ { 2 }$ 和 $Y _ { 3 }$ 分别为统计期内配电网的销售收入、购电成本和运维成本。
+
+# 3.5环保指标
+
+分布式电源和电动汽车的引入不仅能够降低网损、减少化石能源的消耗，同时也能够减少污染气
+
+体的排放。因此对新能源配电网进行综合评估时，应该考虑到配电网的坏保性。本文建立的坏保性准则层指标体系包括如下指标。
+
+（1）清洁能源发电并网率指标 $B _ { 5 1 }$ 。该指标反映了实际并网的清洁能源占实际清洁能源出力的百分比，计算式为
+
+$$
+B _ { 5 1 } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { \displaystyle \sum _ { i \in \Omega } W _ { i } } \times 1 0 0 \%
+$$
+
+式中， $\mathbf { \Omega } ^ { \Omega }$ 表示配电网中清洁能源机组集合； ${ \mathbf { } } P _ { i }$ 表示机组 $i$ 的有功出力； $T _ { i }$ 表示机组 $i$ 统计期内的并网时长； $\boldsymbol { W } _ { i }$ 表示机组 $i$ 统计期内的总发电量。
+
+(2）清洁能源发电量占比指标 $B _ { 5 2 }$ 。该指标反映了配电网中清洁能源的利用率占总发电量的比例，计算式为
+
+$$
+B _ { 5 2 } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { W } \times 1 0 0 \%
+$$
+
+式中， $W$ 表示新能源配电网在统计期内的总发电量。
+
+(3） $\mathrm { C O } _ { 2 }$ 、 $\mathrm { S O } _ { 2 }$ 和氮化物的减排量指标。分布式电源和电动汽车的接入，直接减少了化石燃料的燃烧，从而降低碳排放。假定新能源配电网的发电量除去分布式清洁电源提供外，其余全部由燃煤机组供应，则清洁能源发电机组接入配电网使得 $\mathrm { C O } _ { 2 }$ 的减排量为
+
+$$
+C _ { \mathrm { D G } } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { a _ { 1 } } a _ { 2 }
+$$
+
+式中， $C _ { \mathrm { D G } }$ 表示清洁能源接入配电网减排的 $\mathrm { C O } _ { 2 }$ 量；$a _ { 1 }$ 表示燃煤机组的标准煤耗率； $a _ { 2 }$ 表示标准煤的$\mathrm { C O } _ { 2 }$ 排放系数。
+
+电动汽车代替石油，同样也会降低 $\mathrm { C O } _ { 2 }$ 的排放。电动汽车导致的 $\mathrm { C O } _ { 2 }$ 的减排量为
+
+$$
+C _ { \mathrm { E V } } = \frac { W _ { \mathrm { E V } } } { k _ { 1 } } k _ { 2 } a _ { 3 }
+$$
+
+式中， $C _ { \mathrm { E V } }$ 表示电动汽车代替燃油汽车减排的 $\mathrm { C O } _ { 2 }$ 量； $W _ { \mathrm { E V } }$ 表示统计期内电动汽车的充电量； $k _ { 1 }$ 表示电动汽车的百公里耗电量； $k _ { 2 }$ 表示燃油汽车的百公里耗油量； $\boldsymbol { a } _ { 3 }$ 表示石油的 $\mathrm { C O } _ { 2 }$ 排放系数。
+
+$\mathrm { C O } _ { 2 }$ 的减排量指标 $B _ { 5 3 }$ 表示分布式电源和电动汽车减排的 $\mathrm { C O } _ { 2 }$ 占整个供电量由标准煤提供时的$\mathrm { C O } _ { 2 }$ 排放量比值，计算式为
+
+$$
+B _ { 5 3 } = \frac { C _ { \mathrm { D G } } + C _ { \mathrm { E V } } } { W a _ { 2 } } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { W a _ { 1 } } + \frac { W _ { \mathrm { E V } } k _ { 2 } a _ { 3 } } { W k _ { 1 } a _ { 2 } }
+$$
+
+类似地， $\mathrm { S O } _ { 2 }$ 的减排量指标 $B _ { 5 4 }$ 和氮化物的减排量指标 $B _ { 5 5 }$ 的计算式分别为
+
+$$
+B _ { _ { 5 4 } } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { W a _ { _ { 1 } } } + \frac { W _ { _ { \mathrm { E V } } } k _ { 2 } b _ { _ 3 } } { W k _ { 1 } b _ { _ 2 } }
+$$
+
+$$
+B _ { 5 5 } = \frac { \displaystyle \sum _ { i \in \Omega } P _ { i } T _ { i } } { W a _ { 1 } } + \frac { W _ { \mathrm { E V } } k _ { 2 } c _ { 3 } } { W k _ { 1 } c _ { 2 } }
+$$
+
+式中， $b _ { 2 }$ 为标准煤的 $\mathrm { S O } _ { 2 }$ 排放系数； $b _ { 3 }$ 为石油的$\mathrm { S O } _ { 2 }$ 排放系数； $\boldsymbol { c } _ { 2 }$ 为标准煤的氮化物排放系数； $\boldsymbol { c } _ { 3 }$ 为石油的氮化物排放系数。
+
+# 4 实例计算与分析
+
+# 4.1实例及其数据
+
+以广东某地区配电网为例进行分析，验证求解方法的有效性。假定电动汽车的充电功率均为$4 5 \mathrm { k W }$ ，充电汽车的百千米耗电量为 $1 5 \mathrm { k W \cdot h }$ ；燃油汽车的百千米耗油量为7L。根据本文第3节中的计算式，可由统计数据计算得到各指标值。然后由所设定的评价标准对各指标按百分制打分，得到配电网中各片区电网各指标的最终得分值见表1。
+
+# 4.2可拓层次分析法的指标值的综合权重
+
+由配电网调度人员、运维人员等多个部门工作人员组成两个专家组对准则层两两对比，可给出准则对目标层的相对重要度见表2。
+
+表2中 $\boldsymbol { A } _ { 1 }$ ， $\textstyle A _ { 2 }$ ， $\mathbf { \nabla } \mathcal { A } _ { 3 }$ 、 $ { \mathcal { A } } _ { 4 }$ 和 $\scriptstyle A _ { 5 }$ 分别表示准则层中设备运行状态、供电可靠性、电能质量、经济性和环保性。综合两个专家组的数据，根据式（6)、式（7）可求得综合判断矩阵为
+
+Tab.1The index score values of various districts’distribution network in a region of Guangdong   
+表2准则层各属性对目标层的重要度  
+
+<html><body><table><tr><td>准则层</td><td>指标名</td><td>A片区</td><td>B片区</td><td>C片区</td><td>D片区</td><td>E片区</td></tr><tr><td>设备</td><td>设备运行年限</td><td>66.4</td><td>71.3</td><td>56.8</td><td>80.4</td><td>78.5</td></tr><tr><td>运行</td><td>设备维护水平</td><td>79.6</td><td>69.8</td><td>70.8</td><td>70.2</td><td>65.5</td></tr><tr><td>状态</td><td>设备无故障率</td><td>60.2</td><td>80.6</td><td>58.9</td><td>89.5</td><td>85.6</td></tr><tr><td rowspan="5">供电</td><td>设备过载率</td><td>86.8</td><td>76.8</td><td>88.3</td><td>72.5</td><td>77.1</td></tr><tr><td>供电可靠率</td><td>87.7</td><td>85.5</td><td>88.6</td><td>90.8</td><td>86.4</td></tr><tr><td>用户平均停电时间</td><td>86.7</td><td>91.4</td><td>84.5</td><td>85.7</td><td>89.1</td></tr><tr><td>用户平均停电次数</td><td>88.5</td><td>84.9</td><td>82.7</td><td>90.7</td><td>88.2</td></tr><tr><td>负荷转移能力</td><td>75.6</td><td>73.8</td><td>69.1</td><td>80.6</td><td>63.4</td></tr><tr><td rowspan="5">电能 质量</td><td>线路非满载率</td><td>90.5</td><td>87.6</td><td>89.5</td><td>85.3</td><td>84.7</td></tr><tr><td>电压偏差</td><td>88.5</td><td>82.3</td><td>90.6</td><td>78.9</td><td>85.7</td></tr><tr><td>频率偏差</td><td>89.4</td><td>94.5</td><td>96.7</td><td>86.1</td><td>79.8</td></tr><tr><td>电网谐波</td><td>85.6</td><td>90.5</td><td>94.5</td><td>89.7</td><td>86.9</td></tr><tr><td>三相不平衡度 电压波动与闪变</td><td>90.4</td><td>91.6</td><td>95.7</td><td>94.1</td><td>89.4</td></tr><tr><td rowspan="3">经济性</td><td>线损率</td><td>86.7 86.9</td><td>89.5</td><td>94.3</td><td>95.7</td><td>87.8</td></tr><tr><td>单位资产供电量</td><td></td><td>91.6</td><td>87.4</td><td>89.7</td><td>90.6</td></tr><tr><td>投入产出比</td><td>86.4 88.4</td><td>89.3</td><td>87.5</td><td>84.1</td><td>89.4</td></tr><tr><td rowspan="5">环保性</td><td>分布式发电并网率</td><td></td><td>88.6</td><td>90.6</td><td>75.9</td><td>91.6</td></tr><tr><td></td><td>80.9</td><td>0</td><td>86.7</td><td>87.6</td><td>85.7</td></tr><tr><td>分布式发电占比</td><td>86.4</td><td>0</td><td>87.3</td><td>85.1</td><td>89.2</td></tr><tr><td>CO减排量</td><td>80.8</td><td>0</td><td>86.1</td><td>89.2</td><td>87.1</td></tr><tr><td>SO减排量 氮化物减排量</td><td>90.3 88.7</td><td>0 0</td><td>85.6 90.4</td><td>88.5 90.7</td><td>84.9 90.4</td></tr></table></body></html>
+
+表1广东某地区配电网各片区指标得分值  
+Tab.2The importance of various attributes in criterion layer to target layer   
+
+<html><body><table><tr><td>目标层</td><td>A</td><td>A</td><td>A</td><td>A4</td><td>A</td></tr><tr><td>A 专</td><td>(1，1)</td><td>(0.25，0.5)</td><td>(0.5，1)</td><td>(0.5,0.8)</td><td>(0.4，1)</td></tr><tr><td>A 家</td><td>(2，4)</td><td>(1,1)</td><td>(2，3)</td><td>(3，4)</td><td>(2，3)</td></tr><tr><td>组</td><td>A</td><td>(1，2)</td><td>(2，3)</td><td>(1，1)</td><td>(1，2) (0.5，1)</td></tr><tr><td>1</td><td>A4</td><td>(0.5，1)</td><td>(0.33，0.25)</td><td>(0.5，1)</td><td>(1，1) (0.5，1)</td></tr><tr><td></td><td>A</td><td>(1,2.5)</td><td>(0.33，0.5)</td><td>(1，2) (1,2)</td><td>(1，1)</td></tr><tr><td>专</td><td>A</td><td>(1,1)</td><td>(0.25，0.8)</td><td>(0.25，0.5)</td><td>(0.4，0.7) (0.7,0.9)</td></tr><tr><td></td><td>A</td><td>(1.25，4)</td><td>(1，1)</td><td>(1.5，2.5)</td><td>(2，3) (1.5,3.5)</td></tr><tr><td>家</td><td></td><td></td><td>(0.4，0.67)</td><td></td><td></td></tr><tr><td>组</td><td>A</td><td>(2，4)</td><td></td><td>(1，1)</td><td>(1, 1.5) (0.8，1)</td></tr><tr><td>2 A</td><td>A4</td><td>(1.43, 2.5)</td><td>(0.33，0.5)</td><td>(0.67，1)</td><td>(1，1) (0.6,0.8)</td></tr></table></body></html>
+
+矩阵 $\boldsymbol { A } ^ { - }$ 和矩阵 $\boldsymbol { A } ^ { * }$ 的最大特征值所对应的特征向量分别为
+
+$$
+\pmb { x ^ { - } } = \left( \begin{array} { l l l l } { 0 . 0 9 7 8 } & { 0 . 3 5 5 4 } & { 0 . 2 3 9 7 } & { 0 . 1 3 1 3 } & { 0 . 1 7 5 7 } \end{array} \right)
+$$
+
+$$
+\pmb { x } ^ { + } = \left( \begin{array} { c c c c } { { 0 . 1 1 2 8 } } & { { 0 . 3 5 5 2 } } & { { 0 . 2 3 4 0 } } & { { 0 . 1 2 2 5 } } & { { 0 . 1 7 5 5 } } \end{array} \right)
+$$
+
+根据式（3）、式（4）可求得 $k = 1 . 0 4$ ， $m = 0 . 8 4$ 从而根据式（8）求得可拓区间数权重向量为
+
+$$
+\boldsymbol { w } _ { A } = \left( \begin{array} { l l l l l } { 0 . 0 9 4 8 } & { 0 . 2 9 8 4 } & { 0 . 1 9 6 6 } & { 0 . 1 0 2 9 } & { 0 . 1 4 7 4 } \\ { 0 . 1 0 1 7 } & { 0 . 3 6 9 6 } & { 0 . 2 4 9 3 } & { 0 . 1 3 6 6 } & { 0 . 1 8 2 7 } \end{array} \right) ^ { \mathrm { T } }
+$$
+
+根据式（9）、式（10）可求得准则层对目标层的权重向量为
+
+$$
+L _ { 0 } ( A ) = \left( \begin{array} { c c c c } { { 0 . 1 0 4 5 } } & { { 0 . 3 5 5 3 } } & { { 0 . 2 3 7 2 } } & { { 0 . 1 2 7 4 } } & { { 0 . 1 7 5 6 } } \end{array} \right)
+$$
+
+采用同样方法可以计算得到指标层各指标对准则层的单排序权重向量，再根据式（14）即可求得各指标对目标层的综合权重向量。表3为指标层各指标的单排序权重值和综合权重值。
+
+# 4.3配电网综合评估及分析
+
+根据式（14）可求得配电网的综合评估值，表4为某地区配电网5个供电片区的综合评估值。
+
+表3指标层各指标的单排序权重值和综合权重值 Tab.3The single ordering weight value and integrated weights in various index of indicator layer   
+表4各片区的综合评估值  
+
+<html><body><table><tr><td>准则层</td><td>指标名</td><td>单排序</td><td>综合权重</td></tr><tr><td rowspan="4">设备运行状态 (0.1045)</td><td>设备运行年限</td><td>0.271 5</td><td>0.0284</td></tr><tr><td>设备维护水平</td><td>0.1088</td><td>0.011 4</td></tr><tr><td>设备故障率</td><td>0.450 9</td><td>0.047</td></tr><tr><td>设备过载率</td><td>0.168 8</td><td>0.017 6</td></tr><tr><td rowspan="5">供电可靠性 (0.355 3)</td><td>供电可靠率</td><td>0.3368</td><td>0.119 7</td></tr><tr><td>用户平均停电时间</td><td>0.223 3</td><td>0.079 3</td></tr><tr><td>用户平均停电次数</td><td>0.198 4</td><td>0.0705</td></tr><tr><td>负荷转移能力</td><td>0.1221</td><td>0.043 4</td></tr><tr><td>线路满载率</td><td>0.119 5</td><td>0.042 5</td></tr><tr><td rowspan="5">电能质量 (0.2372)</td><td>电压偏差</td><td>0.2805</td><td>0.0665</td></tr><tr><td>频率偏差</td><td>0.251 0</td><td>0.059 5</td></tr><tr><td>电网谐波</td><td>0.169 0</td><td>0.0401</td></tr><tr><td>三相不平衡度</td><td>0.197 5</td><td>0.046 8</td></tr><tr><td>电压波动与闪变</td><td>0.102 0</td><td>0.024 2</td></tr><tr><td rowspan="3">经济性 (0.127 4)</td><td>线损率</td><td>0.4322</td><td>0.0551</td></tr><tr><td>单位资产供电量</td><td>0.296 7</td><td>0.0378</td></tr><tr><td>投入产出比</td><td>0.271 2</td><td>0.034 6</td></tr><tr><td rowspan="5">环保性 (0.175 6)</td><td>分布式发电并网率</td><td>0.0952</td><td>0.0167</td></tr><tr><td>分布式发电占比</td><td>0.1357</td><td>0.0238</td></tr><tr><td>CO减排量</td><td>0.363 6</td><td>0.0638</td></tr><tr><td>SO减排量</td><td>0.208 4</td><td>0.036 6</td></tr><tr><td>氮化物减排量</td><td>0.196 2</td><td>0.034 5</td></tr></table></body></html>
+
+Tab.4The aggregation assessments of various districts   
+
+<html><body><table><tr><td>供电片区</td><td>A片区</td><td>B片区</td><td>C片区</td><td>D片区</td><td>E片区</td></tr><tr><td>设备运行状态</td><td>7.150 3</td><td>7.960 5</td><td>6.74</td><td>8.56</td><td>8.356</td></tr><tr><td>供电可靠性</td><td>30.739 5</td><td>30.393 7</td><td>29.93</td><td>31.18</td><td>29.97</td></tr><tr><td>电能质量</td><td>20.966 0</td><td>21.177 5</td><td>22.32</td><td>20.68</td><td>20.24</td></tr><tr><td>经济性</td><td>10.815 8</td><td>11.488 3</td><td>11.25</td><td>10.74</td><td>11.54</td></tr><tr><td>环保性</td><td>14.907 7</td><td>0</td><td>15.27</td><td>15.54</td><td>15.33</td></tr><tr><td>综合评估值</td><td>84.8961</td><td>71.2</td><td>85.53</td><td>86.73</td><td>85.45</td></tr></table></body></html>
+
+由表4可以看出，该地区配电网中D片区的综合评值最高，综合性能最优，但是经济性评估值低于其他几个片区的评估值，可在经济性方面采取措施提高片区性能。B片区的综合评估值在5个片区中最低的主要原因是无清洁分布式电源并网，从而使得环保性指标为零。C片区的设备运行状态评估值略低于其他片区，可采取提高维护水平等措施优
+
+化设备运行状态。
+
+# 5 结束语
+
+本文从设备运行状态、供电可靠性、电能质量、经济性和环保性五个方面出发，建立了针对新能源环境下配电网的综合评估模型。与针对传统配电网的评估模型相比，本模型充分考虑了新能源环境下配电网所具备的环保性准则，并且采用清洁能源发电并网率和 $\mathrm { C O } _ { 2 }$ 排放量等五个性能指标衡量。采用可拓层次评估方法对模型进行综合评估，与传统确定性层次分析方法相比可以更好地模拟出人为判断的模糊性。
+
+最后以实际配电网为例进行计算与分析，结果表明该方法针对新能源环境下的配电网进行综合评估具有一定的全面性和实用性。该方法在给出配电网综合评估值的同时也能够指出其薄弱环节，为未来的规划设计和运行优化提供参考。
+
+# 参考文献
+
+[1] 方欢欢，程浩忠，辛洁晴，等．配电网规划评估指 标体系[J]．电力系统及其自动化学报，2013，25： 106-111. Fang Huanhuan, Cheng Haozhong,Xin Jieqing,et al. Indices system of distribution network planning evaluation[J].Proceedings of CSU-EPSA,2013,25: 106-111.   
+[2] 李晓辉，徐晶，李达，等．基于层次分析的配电 网可靠性评估指标体系[J]．电力系统及其自动化 学报，2009，21(3)：69-74. Li Xiaohui, Xu Jing,Li Da,et al. Index system of reliability evaluation for distribution network based on analytic hierarchy process[J].Proceedings of CSU-EPSA,2009,21(3): 69-74.   
+[3] 刘若溪，张建华，吴迪．基于风险理论的配电网 静态安全性评估指标研究[J]．电力系统保护与控 制，2011，39(15)：89-95. Liu Ruoxi, Zhang Jianhua, Wu Di, et al. Research on static security index of distribution network based on risk theory[J].Power System Protection and Control 2011,39(15): 89-95.   
+[4] 王晓晶，陈星莺，陈楷，等．智能配电网清洁 性评估指标研究[J]．中国电机工程学报，2013, 33(31):43-50，5. Wang Xiaojing, Chen Xingying, Chen Kai, et al. Research on cleaning evaluation indices of smart distribution grid[J]. Proceedings of the CSEE,2013, 33(31): 43-50, 5.   
+[5] 芦晶晶，赵渊，赵勇帅，等．含分布式电源配电 网可靠性评估的点估计法[J]．电网技术，2013, 37(8): 2250-2257. Lu Jingjing, Zhao Yuan, Zhao Yongshuai, et al. A point estimation method for reliability evaluation of distribution network with distributed generation[J]. Power System Technology,2013,37(8): 2250-2257.   
+[6] 陈炽野，文亚凤，刘自发，等．含有多种分布 式电源的配电网综合评估方法[J]．电力建设， 2015(1): 128-135. Chen Chiye,Wen Yafeng,Liu Zifa,et al. Comprehensive evaluation method of distribution network including various types of distributed generation[J]. Electric Power Construction, 2015(1): 128-135.   
+[7] 曹阳，孟晗辉，赵力，等．基于层次分析法的新农 村低压配电网综合评估方法[J]．电网技术，2007, 31(8): 68-72. Cao Yang,Meng Hanhui, Zhao Li,et al.A comprehensive evaluation method of new rural lowvoltage distribution networks based on analytic hierarchy process[J]. Power System Technology, 2007, 31(8): 68-72.   
+[8] 杨小彬，李和明，尹忠东，等．基于层次分析法的 配电网能效指标体系[J]．电力系统自动化，2013, 37(21):146-150，195. Yang Xiaobin, Li Heming, Yin Zhongdong,et al. Energy efficiency index system for distribution network based on analytic hierarchy process[J]. Automation of Electric Power Systems,2013, 37(21): 146-150, 195.   
+[9] 王桂萍，贾亚洲，周广文．基于模糊可拓层次分 析法的数控机床绿色度评价方法及应用[J]．机械 工程学报，2010，46(3)：141-147. Wang Guiping,Jia Yazhou, Zhou Guangwen, et al. Evaluation method and application of CNC machine tool's green degree[J]. Jouranal of Mechanical Engineering,2010,46(3): 141-147.   
+[10] 张心洁，葛少云，刘洪，等．智能配电网综合评 估体系与方法[J]．电网技术，2014，38(1)：4-7. Zhang Xinjie,Ge Shaoyun, Liu Hong,et al. Comprehensive assessment system and method of smart distribution grid[J]. Power System Technology, 2014, 38(1): 4-7.   
+[11] 王彬，何光宇，梅生伟，等．智能电网评估指 标体系的构建方法[J]．电力系统自动化，2011, 35(23):146-150，195. Wang Bin, He Guangyu, Mei Shengwei, et al. Construction method of smart grid's assessment index system[J]. Automation of Electric Power Systems,2011,35(23): 146-150,195.   
+[12] 高炜，张庆普，敦晓彪，等．基于改进的可拓层次 分析法和动态加权的航天高技术综合评价研究[J]. 系统工程与电子技术，2016，38(1)：102-109. Gao Wei, Zhang Qingpu, Dun Xiaobiao,et al. Comprehensive assessment of advanced military aerospace technologies based on improved EAHP and dynamic weighting[J]. Systems Engineering and Electronics,2016,38(1):102-109.

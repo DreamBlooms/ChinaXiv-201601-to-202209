@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "贵州省国家公园选址及其植物多样性保育研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢波12，杨广斌1,2\\*，李蔓1,2，李亦秋1.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.贵州师范大学 地理与环境科学学院，贵阳 550001；2.贵州省山地资源与环境遥感应用重点实验室，贵阳550000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：贵州省生态资源丰富，建立国家公园有利于集中规范化的对生态资源进行管理。分析贵州省国家级自然保护地的空间分布特征，筛选优势景观资源聚集区作为国家公园候选区，根据候选区的潜在资源评价进行国家公园试点的选择，为建立以国家公园为主体的自然保护地体系提供参考依据。该文借助ArcGis空间分析工具对现有的5类113处保护地进行空间分布特征分析，筛选出国家公园试点候选区并对其进行资源评价。结果表明：（1）贵州省国家级自然保护地总体呈凝聚型分布，重叠度高，将保护地聚集区作为景观优势聚集区划定了8个国家公园试点候选区。（2）通过对聚集区主要代表性资源分析和专家评分得出，分值排在前列的聚集区可以考虑作为国家公园试点区进行推荐，分值最高的赤水—习水区可优先选为国家公园试点区。（3）赤水—习水区资源的国家代表性、适宜性、国有性和社会可行性等，满足设立国家公园优先整合交叉重叠保护地的基本原则，其植物多样性保育价值重大。该研究结果为国家公园的选址提供了新的思路，并可为国家公园植物多样性保育提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：贵州省，国家公园选址，国家级自然保护地，空间分布，植物多样性保育，AHP中图分类号：Q948；TU986.54 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Site selection and plant diversity conservation of National Park in Guizhou Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIE Bo1,2, YANG Guangbin1,2\\*,LI Man1²2,LI Yiqiu1,2 (1.Schoolof Geography and Enviroment Sciences,Guizhou Normal University,Guiyang 55oool,China; 2. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guizhou Key Laboratory of Mountainous Resources and Environment Remote Sensing,Guiyang 55oooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Guizhou Province is rich in ecological resources,and the establishment of a country is conducive to centralized and standardized management of ecological resources.Analyze the spatial distribution characteristics of national nature reserves in Guizhou Province,will help to screen out the advantageous landscape resource gathering areas for the selection of national parks, and provide reference for the establishment of a national park-based nature reserve system. With the help of ArcGis spatial analysis tool, we analyze the spatial distribution characteristics of 113 protected areas in 5 categories,and screens out the candidate areas of national park pilot and evaluates their resources.The results were as follows: (1) The national nature reserves in Guizhou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Province are distributed in a cohesive way with a high degree of overlap,and eight national park pilot candidate areas are delimited by taking the reserve gathering area as the landscape advantage area. (2) Based on the analysis of the main representative resources of the gathering areas and the experts'scores, the concentration areas with the highest scores can be recommended as the national park pilot areas,the highest scores in Chishui-Xishui area could be selected as the national park experimental area.(3）The national representativeness， suitability， state-owned and social feasibility of Chishui-Xishui area resources can meet the basic principle of seting up national parks with priority to integrate overlapping protected areas, and its plant diversity conservation is of great value.The results of this study provide a new idea for the location of national parks and a reference for the conservation of plant diversity in national parks. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Guizhou Province， national park site， national natural protected area， space distribution, plant diversity conservation, AHP ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然保护地是由各级政府划定，通过法律和其他有效手段对重要自然生态系统、自然遗迹、自然景观及其所承载的自然资源、生态功能和文化价值等进行长期保护管理的特定区域（唐小平等，2019），为我国野生动物种群和高等植物群落的多样性保育发挥了重要作用（严重玲，1994）。然而，大多数保护地在建立之初，主要以抢救式保护为主，管理水平滞后，出现了建而不管、管而不力、人地关系突出等问题（欧阳志云等，2002）。中共中央办公厅、国务院办公厅2019年6月份发布的《关于建立以国家公园为主体的自然保护地体系的指导意见》（以下简称《方案》）中提出要建立以国家公园为主体，自然保护区为基础的自然保护地体系，为自然保护地的优化管理指引方向。基于国家级自然保护地建立与国际相接轨的国家公园，有利于保护自然生态系统和自然文化遗产的原真性、完整性，构建长效的生物多样性保护机制以及植物多样性保育的集中规范化管理办法（Qian，1988；苏维词，2002；唐芳林等，2009）。一些学者从宏观、定性的角度，以国家尺度和流域空间为基础，分析自然保护地的空间分布特征和自然人文条件建设国家公园的可行性（王连勇等，2014）。朱里莹等（2019）以热点探测为基础，对省域尺度的国家公园试点进行了研究和分析；薛冰洁等（2017）、王恒等（2013）通过对单个国家公园的评价分析，确定其选址范围的大小及其功能分区状况。赵勇等（2009）、黄春华等（2012）根据植物濒危的原因和保护区的实际情况对植物多样性保育也提出了相应的对策。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贵州省位于中国南方喀斯特地区，特殊的自然条件，使其呈现生态环境多样、生物种类丰富、生态系统服务价值巨大的现状（金勇等，2019）。贵州省自然保护地体系相对较为成熟，拥有世界级和国家级保护地5类共113处（侯伟，2019）。以贵州省省域范围为单元、国家级自然保护地为基础，将保护地优势景观资源聚集区作为国家公园候选区；综合候选区主要代表性景观资源与潜在资源的评价分析和专家评分进行国家公园的选址，并对国家公园试点区植物多样性的保育提出建议。能够使自然资源、生态系统、植物多样性等在被保护的同时，充分发挥其优势作用，进一步推动区域的可持续发展，以期为国家公园的选址提供新的思路和参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源及数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国家级自然保护地保护区的范围和主要保护物种来源于贵州省林业局官方网站（http://lyj.guizhou.gov.cn/数据统一截止时间为 2020 年1月1日），通过提取保护地的质心，得到保护地的点要素（图1）。贵州省各类区划图来源于贵州省地图集（贵州省国土资源厅，2005），通过扫描、配准、矢量化整理得到各类型的区划图；区域生产总值和人口数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据来自贵州省2018年统计年鉴。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06331ad24be390b522e6f8f81aab7841ac0e1523c40daed2c67c117031e2b6ee.jpg",
+        "img_caption": [
+            "图1贵州省国家级自然保护地空间分布",
+            "Fig.1 Spatial distribution of national natural protected area in Guizhou Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1最邻近点指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最邻近点指数用于表达点状数据在空间上的分布类型，分布结构有均匀、随机和集聚 3种形式，贵州省国家级自然保护地经过质心抽取后呈点状分布，由ArcGis中最邻近点指数工具进行判断（吴佳雨，2014），公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { E } = { \\frac { 1 } { \\sqrt { 2 n / A } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { \\overline { { r } } } { r _ { E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { E }$ 为预期平均距离； $A$ 为区域面积； $n$ 为区域内点的数量； $R$ 为最邻近指数， $\\textstyle { \\overline { { r } } }$ 为实际上的平均观测距离。当最邻近指数 $R { < } 1$ 时，表明点状要素为集聚分布； $R { = } 1$ 时，为随机分布； $R { > } 1$ 时，为均匀分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2核密度指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于描述点状数据的密度大小在区域内的空间聚集特征（李全林等,2012)。运用 ArcGis中 Kermel工具，对自然保护地点要素及面要素分别进行核密度分析。假定各类保护地的重要性一致，认为区域内保护地的聚集程度可以代表优质景观资源的聚集性，对其进行整合，选定为国家公园的候选区。公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x , y ) = { \\frac { 1 } { n h ^ { 2 } } } { \\sum } _ { j = 1 } ^ { n } L { \\left( { \\frac { d _ { j } } { n } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $f ( x , \\ y )$ 是指位置 $( x , \\ y )$ 的核密度值； $n$ 为保护地数量； $h$ 为带宽； $L$ 为核函数； $d _ { j }$ 为位置距第 $j$ 个观测位置的距离。该值越高，表明国家级自然保护地空间分布密度越大，反之则越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3AHP层次分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "层次分析法（Analytic Hierarchy Process，简称 AHP法）是一种对定性问题进行定量分析的多准则决策方法（王恒等，2013）。首先根据国家公园候选区潜在资源评价指标，分别",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "邀请了林业管理、土地管理、风景园林规划和自然地理共10位专家进行了两轮的专家意见征询和打分，然后通过AHP法得出候选区的分值和位次。公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { i = 1 } ^ { n } { Q _ { i } P _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为国家公园候选区的综合评价结果； $Q _ { i }$ 为第 $i$ 个评价因子的权重； $P _ { i }$ 为第 $i$ 个评价因子的评价分值； $n$ 为评价因子的数目。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2国家公园候选区选址研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1国家公园候选区选定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1保护地空间分布类型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过ArcGis10.2中最邻近点指数工具对自然保护地空间分布类型进行计算，结果见表1。由表1可见，单个类别保护地的最邻近比率 $R$ 都大于1，趋于均匀分布；但总保护地平均观测距离 $ \\stackrel { - } { r } = 0 . 1 7$ ，预期平均距离 $r _ { E } { = } 0 . 2 0$ ，最邻近比率 $R { = } 0 . 8 4$ ，即各保护地之间实际观测距离与预期观测距离的均值之比 $R$ 小于1，表明贵州省国家级自然保护地总体上呈集聚分布状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c5d78774d8e4ee2e461942d62848ea61a95e6ca87f2c3f067fc1baf8079863a.jpg",
+        "table_caption": [
+            "表1贵州省国家级自然保护地最邻近点指数",
+            "Table 1 The nearest neighbors index of national natural protected areas in Guizhou Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>保护地类型 Protected area type</td><td>数量 Number</td><td>面积 Area(km²)</td><td>r</td><td>rE</td><td>R</td></tr><tr><td>自然保护地 Natural protected area</td><td>113</td><td>9 507.17</td><td>0.17</td><td>0.20</td><td>0.84</td></tr><tr><td>自然保护区 Natural reserve</td><td>11</td><td>3 070.93</td><td>0.8</td><td>0.56</td><td>1.42</td></tr><tr><td>风景名胜区 Landscape and famous scenery</td><td>18</td><td>3 773.89</td><td>0.71</td><td>0.48</td><td>1.49</td></tr><tr><td>地质公园 Geopark</td><td>9</td><td>108.86</td><td>0.94</td><td>0.54</td><td>1.76</td></tr><tr><td>森林公园 Forest park</td><td>30</td><td>1870.22</td><td>0.37</td><td>0.33</td><td>1.10</td></tr><tr><td>湿地公园 Wetland park</td><td>45</td><td>683.27</td><td>0.40</td><td>0.30</td><td>1.31</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2保护地空间分布聚集度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自然保护地质心核密度分布格局（图2）显示，贵州省自然保护地在空间分布上形成六个比较密集的中心，并向四周扩散。整体上以北部赤水—习水一带的质心核密度最高；中部较为集聚，以安顺、贵阳黔中地区到黔东南州以“一\"字形排开，其余四周核密度值都相对较为稀疏。自然保护地面积核密度分布格局（图3）显示，贵州省自然保护地在空间分布上主要有五个密集区。赤水—习水一带密度最高，其次是黔东南和铜仁分布有三个密集区，以及黔西南的马岭河峡谷密集区。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6f65f24ee456746be265e2a28d7c86452fa5e4e07aca513c7c37035e894c764.jpg",
+        "img_caption": [
+            "图2国家级自然保护地质心核密度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Core kernel density distribution of national natural protected areas in Guizhou Province ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce11107cd5de212ab61cc4372131bec2355a48ea2c230cbdddcad8fa2ff068c3.jpg",
+        "img_caption": [
+            "图3国家级自然保护地面积核密度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Areas kernel density distribution of national natural protected areas in Guizhou Province ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3保护地空间分布聚集度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "贵州省国家级自然保护地整体呈聚集分布，且主要集中聚集在一定范围的区域，满足以聚集区作为优势景观资源聚集区的条件。根据现有113个国家级自然保护地的空间分布特征，结合自然保护地质心核密度和面积核密度的聚集区，筛选出聚集度高的区域，并进行适当的收缩，最终划定了8个贵州省自然保护地聚集区作为国家公园候选区。为了方便命名，以聚集区主要县域单元名称组合或主要地级市与县域单元名称组合作为国家公园候选区的名称。如图4所示(利用罗马数字表示候选区的名称，下同)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/251eb96c07d3a8f3581ffc7e12eb86584645ef5bbb2d9c716585f937d975a2dc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I.赤水—习水区；II.施秉—石阡区；IⅢI.雷山—台江区；IV.关岭—西秀区；V.都匀一贵定一福泉区；   \nVI.贵阳一清镇区；VII.江口一印江区；VIII.兴义一马岭河区。下同。   \nI. Chishui- Xishui area; II Sibin-Shiqian area; II.Leishan-Taijiang area; IV. Guanlin-Xixiu area;   \nV.Duyun-Guiding-Fuquanarea; VI. Guiyang-Qingzhen area; VII. Jiangkou-Yinjiang area; VII. Xinyi-Malinhe area. The same below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Candidate area of national park in Guizhou Province ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2国家公园候选区潜在资源评价指标",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据《方案》中对国家公园选址的要求，参考前人（陈鑫峰，2002；张希武，2018；舒旻，2018；侯伟，2019）对于国家公园选点的研究选定若干个评价指标及评分标准，并参考（王恒，2013）层次分析评价模型的方法，对各指标因子进行权重分配。得到各评价指标的权重值（表2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a76b3a8d488d2a78d42b0a1103ca659e2776524aafdff0f7afa8e25ac509f3bb.jpg",
+        "table_caption": [
+            "表2国家公园试点区选址的评价指标",
+            "Table 2 Evaluation index of site selection in national park pilot areas "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td>级指标 Firtly-level</td><td>二级指标 iecondary-Level</td><td>评价内容 Evaluation content</td><td>权重 Weight</td></tr><tr><td rowspan=\"6\">资源的国 家代表性 National representation of resources</td><td>I11 自然景观 Natural landscape 12</td><td>具有不存在人为扰动或退化的自然景观 There is no artificial disturbance or degradation of the natural landscape 生态系统、群落、生境以及动植物物种的种类</td><td>0.051 5</td></tr><tr><td>生物多样性 Biodiversity</td><td>或丰富度高的区域 Types of ecosystems,communities,habitats,and biological species or areas with high abundance</td><td>0.0820</td></tr><tr><td>I13 特殊物种保护 Special species protection</td><td>珍稀、濒危生物物种的集中分布区域 Concentrated distribution area of rare and endangered biological species</td><td>0.0917</td></tr><tr><td>地质地貌 Geological</td><td>地质地的球或全国范围内具有重要保护和 Geological and geomorphological areas with important protection and research value globally</td><td>0.0312</td></tr><tr><td>landscape 15 古生物遗迹</td><td>or nationwide 具有代表地球与生物的演化进程古生物遗迹 的区域</td><td></td></tr><tr><td>Paleontological relics 16</td><td>It has an area representing the ancient biological relics of the evolution process of the earth and living things</td><td>0.0503</td></tr><tr><td></td><td>科学研究 Scientific research 17</td><td>具有科学研究价值的区域 Areaswith scientific research value 具有历史纪念价值和意义的区域</td><td>0.092 0</td></tr><tr><td rowspan=\"2\"></td><td>历史纪念价值 Historical value 121</td><td>An area with historical memorial value and significance</td><td>0.061 5</td></tr><tr><td>面积 Area 122 保护地类型</td><td>总面积不小于100km² Area not less than 100 km² 保护地类型丰富，功能完整的区域</td><td>0.0733</td></tr><tr><td rowspan=\"3\">资源的 适宜性 Suitability of resources</td><td>Type of protected area</td><td>An area with rich types of protected areas and complete functions</td><td>0.0828</td></tr><tr><td>123 空间 Space</td><td>范围完整，相对集中连片的区域 Complete rangerelativlyorad</td><td>0.043 3</td></tr><tr><td>124 边界Boundary</td><td>边界易于识别和确定的区域 Boundary easyto identifyand identify 权属清楚，不存在纠纷</td><td>0.063 4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d67cfd3cdfeb1d1d9daf80d6abfdef853462f4fef34fea28077205a9f66b76ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>资源的 国有性 Nationalizatio n of resources</td><td>资源权属 Resource tenure 国有土/est 132</td><td>The ownership is clear and there is no dispute 占国家公园总面积的60%以上</td><td>0.0782</td></tr><tr><td rowspan=\"3\">14 资源的社 会可行性 Social feasibility of</td><td>land 141</td><td>It accounts for more than 6O% of the total area of the national park 人口密度不高于200人/km，无县级以上城市</td><td>0.023 7</td></tr><tr><td>人口Population</td><td>Population density is not more than 2OO people / km², no city above county level 无大型重工业、农业建设</td><td></td></tr><tr><td>142 产业 Industry 143</td><td>No large heavy industry,agricultural construction</td><td>0.020 3</td></tr><tr><td colspan=\"2\">交通Traffic I5 附加项Additional item The park has other more unique features that can</td><td>交通便利 Convenient transportation 公园有其他较为独特之处，可以加分项</td><td>0.021 0 0.051 0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3国家公园候选区潜在资源指标分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1候选区景观资源",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据贵州省国家级自然保护地名录和贵州植被（黄威廉等，1983）等相关资料，对国家公园候选区具有代表性和独特性的景观资源进行筛选，如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "贵州省动植物资源十分丰富，据《贵州省国土资源资料汇编》中的初步调查和统计，全省有脊椎动物807种，两栖类60种，爬行类99种，鸟类403种，哺乳类134种；全省种子植物有196科，1400余属，近5000种。候选区作为国家级自然保护地的主要聚集区，汇集了大量的优势动植物资源。从表3中可以看出，候选区代表性景观资源丰富，各类自然景观和生态系统完整，生物多样性丰富，特殊动植物物种种类多，但黔中地区的IV（关岭一西秀区）、V（都匀一贵定一福泉区）和VI（贵阳一清镇区）候选区的代表性景观资源明显要低于其他的公园候选区，资源优势相对较弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff2e1ddcd7f90d639413d4a4db5887b560e0320a9c6e5d9e6304004db5df5867.jpg",
+        "table_caption": [
+            "表3国家公园候选区的主要代表性景观资源（部分）",
+            "Table 3 Representative landscape resources in the national park candidate area (Part) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>候选区 Candidate areas</td><td>主要代表性和独特性景观资源 Main representative and unique landscape resources</td></tr><tr><td>I</td><td>“中国丹霞”世界自然遗产地、同纬度最广常绿阔叶林带、杪楞、福建柏、红豆杉、三尖杉、鹅 掌楸等 \"China Danxia”world natural heritage site,the widest evergreen broad-leaved forest belt at the same latitude,Alsophilaspinulosa,Fokieniahodginsi,axuscinensis,Cephalotaxusfortunei,Liriodedron</td></tr><tr><td>II</td><td>chinense,etc. “南方喀斯特”世界自然遗产地、喀斯特森林生态系统、银杏、桢楠、金钱槭、苏门羚、大鲵、 灵猫等珍稀动植物 “Southern Karst’ world natural heritage site, karst forest ecosystem, Ginkgo biloba,Phoebe zhennan,</td></tr><tr><td>IⅢI</td><td>Dipteronia sinensis,Capricornis sumatraensis,Andrias davidianus,Viverridae 森林生态系统、苗族圣地、秃杉、香果树、翠柏、马尾树、猕猴、穿山甲、林麝等 Forest ecosystem,holy landofMiao,Taiwania cryptomerioides,Emmenopterys henryi,Calocedrus</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5030b781a938e31e2a49ac7ad093d673fda8e00be7b77986df9008c1b4f210f9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Wetland ecosystem, forest ecosystem, fossil group</td></tr><tr><td>V</td><td>湿地生态系统、森林生态系统Wetland ecosystem,forest ecosystem</td></tr><tr><td>VI</td><td>湿地生态系统Wetland ecosystem</td></tr><tr><td rowspan=\"4\"></td><td>“梵净山”世界自然遗产地、佛教名山、森林生态系统、珙桐、钟萼木、梵净山冷杉、黔金丝猴、</td></tr><tr><td>华南虎、云豹等</td></tr><tr><td>VII “Mount Fanjing\" World natural heritage site,Buddhist mountains,forest ecosystem, Davidia</td></tr><tr><td>involucrata,Bretschneidera sinensis,Abies fanjingshanensis,Rhinopithecus brelichi,Pantheratigris</td></tr><tr><td rowspan=\"4\">VIII</td><td>Amoyensis,Neofelisnebulosa,etc.</td></tr><tr><td>喀斯特峡谷地貌、喀斯特峰林、沟谷季雨林、血桐、贵州苏铁</td></tr><tr><td>Karstcanyon landform, karst Fenglin, valley Rainforest, Macaranga tanarius, Cycas guizhouensis K.</td></tr><tr><td>M.Lan&R.F. Zou</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2候选区的植物多样性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据贵州省国家重点保护野生植物物种数量分布数据（金勇等，2019），按照县域进行统计，具体见图5。由图5可知，贵州省国家重点保护野生植物数量丰富，目前已知的重点保护野生植物物种有42科66属85种。其中，南部县域以及北部道真县的重点保护野生植物物种分布数量整体较高，并向中部逐渐减少，望谟、独山、荔波和黎平县的物种数量都在25\\~33种之间；而贵阳和安顺一带，以及北部遵义汇川、仁怀、播州和东部天柱、玉屏等县的重点保护野生植物物种分布数量最低，分布数量仅在1\\~6种之间。值得注意的是，有的保护植物物种较多的县域并不在国家公园候选区内，主要原因在于其分布的县域内国家级自然保护地的聚集程度较低，不符合优势景观资源聚集区的原则，可以考虑在重点保护植物物种较多的县域建立相应的植物保护优先区，加强对植物多样性的保育。从国家公园候选区的范围来看，IV（关岭—西秀区）、VI（贵阳—清镇区）候选区范围内的重点保护野生植物数量最少，仅在1\\~6种之间。其余候选区所分布的县域重点保护植物物种都在15个以上，其中，都匀—贵定—福泉区范围内县域的保护植物物种共65 种、施秉—石阡区范围内共 62种、江口—印江区和雷山一台江区范围内分别为38种、赤水一习水区范围内共37种、兴义一马岭河区范围内保护植物物种最低，仅为31种。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/51fe8ee8dbcbf0d94427d27f8f450398b9ec0785507d8076195f58fff9c8fa64.jpg",
+        "img_caption": [
+            "图5贵州省国家重点保护野生植物物种数量县域分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Distribution of the national key protected plant species in county units of Guizhou Province 2.3.3候选区的经济发展水平 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以贵州省县级行政单位2018年GDP总量为基础，进行分层设色并叠加自然保护地聚集区和国家公园候选区，具体见图6。由图6可知，贵州省2018年的GDP总量在空间上的分布极不均匀，总体来说呈东南向西北逐渐增加的趋势，全省县域的平均GDP为168.38亿元。2018年GDP总量最高的分别是云岩区、南明区、仁怀市、花溪区和盘州市，GDP总量均在500 亿元以上。按国家公园候选区所在范围内县域的平均GDP来看，国家公园候选区与经济发展的相关性不大，国家公园候选区大多分布在200亿元以下的县域。其中，贵阳—清镇区的平均GDP最高，为459.37亿元；其次是兴义—马岭河区，平均GDP为267.68亿元；关岭—西秀区、赤水—习水区和都匀—贵定—福泉区平均GDP都在100亿元以上，分别为172.90、140.86和115.59亿元；最小的是江口—印江区、施秉—石阡区和雷山—台江区，平均GDP都在100亿元以下，分别为92.97、70.49和32.81亿元。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/af73c2de31f7cbb94b91f9f2afceed9e4d5fd6914ee642740ecaada59029945d.jpg",
+        "img_caption": [
+            "图6贵州省2018年GDP数量分布图Fig.6 Distribution map of Guizhou Province's GDP in 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.4候选区的人口密度",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以贵州省县级行政单位2018年人口总量为基础，除以县域面积得到贵州省县域人口密度，进行分层设色并叠加自然保护地聚集区和国家公园候选区，具体见图7。由图7可知，贵州省2018年人口密度高值分布主要集中在贵州中部和西北部，东南不、南部和东北部相对较低，全省县域的平均人口密度为393.93人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 。2018年人口密度最高的分别是云岩区、南明区、中山区、白云区，人口密度均在1000人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 以上，云岩区最高为10359.19人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 。从国家公园候选区所在范围内县域的平均人口密度来看，人口密度与国家公园候选区的分布呈负相关关系，从生态保护的角度来看，人地关系的比例小，更有利于保护地的建立和管理。其中，贵阳—清镇区的平均人口密度最高，为1610.97人 $\\cdot \\mathrm { k m } ^ { - 2 }$ ；其次是关岭—西秀区和兴义—马岭河区，平均人口密度分别为257.15、224.11人 $\\cdot \\mathrm { k m } ^ { - 2 }$ ；平均人口密度在100\\~200人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 之间的有赤水—习水区、施秉—石阡区、都匀—贵定—福泉区、江口—印江区和雷山—台江区，平均人口密度分别为151.48、144.22、138.38、137.149、100.44人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cef47d790c797b8773aba054dd2aa453864950ad9a9c168e54be37767ff4d55.jpg",
+        "img_caption": [
+            "图7贵州省2018年人口密度分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Population density distribution map of Guizhou Province in 2018 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3贵州省国家公园试点选择",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于贵州省各类自然、人文、生态区划的分布和文献查阅（贵州省国土资源厅，2005），以及国家公园候选区的潜在资源条件；共邀请了10位专家进行了两轮的专家意见征询，并按照表2中的评价指标对候选区进行打分；以优（10\\~9）、良（8\\~7）、中（6\\~5）、差（4\\~0）四个等级作为评价指标的评判标准，最终根据评价指标的权重计算出候选区的量化分值。结果见表4。表4中，分值在5分以上的有赤水一习水区、施秉一石阡区、雷山一台江区、江口一印江区，可以作为国家公园试点区进行推荐，其中排分最高的是赤水—习水区，可以考虑选为国家公园试点区。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a8f528c4583a6bd8aca8469b08d90ed6956b8d1b6365cbe5b9468986d3d47a0.jpg",
+        "table_caption": [
+            "表4贵州省国家公园候选区潜在资源专家评分表 Table 4 Expert rating form for potential resources in candidate areas of national parks in Guizhou Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>ight</td><td>See</td><td>ght</td><td>I</td><td>I</td><td>IⅢI</td><td>IV</td><td>V</td><td>VI</td><td>VII</td><td>VIII</td></tr><tr><td rowspan=\"7\">1</td><td rowspan=\"7\">0.460 2</td><td>I1</td><td>0.051 5</td><td>0.23</td><td>0.23</td><td>0.21</td><td>0.19</td><td>0.19</td><td>0.19</td><td>0.20</td><td>0.19</td></tr><tr><td>12</td><td>0.082 0</td><td>0.59</td><td>0.57</td><td>0.54</td><td>0.48</td><td>0.48</td><td>0.47</td><td>0.50</td><td>0.48</td></tr><tr><td>13</td><td>0.091 7</td><td>0.74</td><td>0.71</td><td>0.68</td><td>0.60</td><td>0.60</td><td>0.59</td><td>0.63</td><td>0.61</td></tr><tr><td>14</td><td>0.031 2</td><td>0.09</td><td>0.08</td><td>0.08</td><td>0.07</td><td>0.07</td><td>0.07</td><td>0.07</td><td>0.07</td></tr><tr><td>15</td><td>0.050 3</td><td>0.22</td><td>0.22</td><td>0.20</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.19</td><td>0.18</td></tr><tr><td>16</td><td>0.092 0</td><td>0.74</td><td>0.72</td><td>0.69</td><td>0.60</td><td>0.60</td><td>0.59</td><td>0.63</td><td>0.61</td></tr><tr><td>I17</td><td>0.061 5</td><td>0.33</td><td>0.32</td><td>0.31</td><td>0.27</td><td>0.27</td><td>0.26</td><td>0.28</td><td>0.27</td></tr><tr><td rowspan=\"4\">1</td><td>121 0.262 8</td><td></td><td>0.073 3</td><td>0.47</td><td>0.46</td><td>0.44</td><td>0.38</td><td>0.38</td><td>0.38</td><td>0.40</td><td>0.39</td></tr><tr><td>122</td><td></td><td>0.082 8</td><td>0.60</td><td>0.58</td><td>0.56</td><td>0.49</td><td>0.49</td><td>0.48</td><td>0.51</td><td>0.49</td></tr><tr><td>123</td><td>0.043 3</td><td>0.16</td><td>0.16</td><td></td><td>0.15</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.14</td><td>0.13</td></tr><tr><td>124</td><td>0.063 4</td><td>0.35</td><td>0.34</td><td>0.33</td><td></td><td>0.29</td><td>0.29</td><td>0.28</td><td>0.30</td><td>0.29</td></tr><tr><td rowspan=\"2\">1</td><td>0.1610</td><td>131</td><td>0.0828</td><td>0.60</td><td>0.58</td><td>0.56</td><td>0.49</td><td>0.49</td><td>0.48</td><td>0.51</td><td>0.49</td></tr><tr><td>132</td><td>0.078 2</td><td>0.54</td><td>0.52</td><td>0.50</td><td></td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.46</td><td>0.44</td></tr><tr><td rowspan=\"3\">14</td><td>0.065 0</td><td>141</td><td>0.023 7</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td></tr><tr><td>142</td><td></td><td>0.020 3</td><td>0.04</td><td>0.04</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>143</td><td>0.0210</td><td>0.04</td><td>0.04</td><td></td><td>0.04</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4304484ab88a8749bd13c49f72ee8fe3ca8e2d44405c0c3814483c47633b603.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>15 0.051 0 15</td><td>0.0510</td><td>0.23</td><td></td><td>0.22</td><td>0.21</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.20</td><td>0.19</td></tr><tr><td>总分值 Total value</td><td></td><td>1</td><td>6.04</td><td>5.83</td><td>5.56</td><td>4.87</td><td>4.87</td><td>4.81</td><td>5.15</td><td>4.94</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "赤水—习水国家公园试点区内国家级自然保护地的分布聚集程度最高、优势景观资源的聚集程度好。从国家代表性来看，试点区内国家级自然保护地成立的时间早，自然景观受到人为因素的破坏和扰动较少；在地貌上跨越了赤水低山河谷区和习水—务川中山峡谷区，区域内以丹霞地貌为主，地势起伏大、地形复杂多样；试点区森林覆盖率高，具有全球同纬度最广阔的常绿阔叶林带，植物多样性丰富，分布有杪(Alsophila spinulosa)、福建柏(Fokieniahodginsii）和红豆杉（Taxuschinensis）等37种重点保护植物和20多种稀有或特有植物种，以及29种珍稀濒危动物（孙亚莉等，2004）。风景名胜区的景观组合配合好，具有极高的观赏价值，同时丹霞地貌作为世界自然遗产地，具有极为重要的科学研究价值和保护意义。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从适宜性来看，国家级自然保护地种类分布齐全，共5类9处，能够发挥国家公园的多种功能；保护地基本上呈连片分布，核密度高、重叠度大（约 $45 \\%$ 左右），边界易于识别和确定；在各类自然区划中分布密集度都较高，保护地总面积高达 $1 \\ 3 0 0 \\ \\mathrm { k m } ^ { 2 }$ ，可划入国家公园的保护地范围较广。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从国有性来看，保护地建立时间早，基础设施建设已相对成熟，后期建设投入会较少；保护地集中分布在赤水、习水两县内，同属于遵义市，资源权属清楚，土地和林地的国有性高，便于国家公园的建立和后期统一管理。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从社会可行性来看，人口密度在全省范围内较小，均在100\\~200 人 $\\cdot \\mathrm { k m } ^ { - 2 }$ 之间，经济水平处于100\\~200亿元之间，建设国家公园能够免受频繁人为活动的影响并与经济相协调。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 关于选址近年来，建立以国家公园为主体的自然保护地体系是一个全新的课题，在贵州省从资源价值方面关于国家公园试点区选址的研究和讨论中，梵净山、大苗岭、赤水—习水一带的丹霞地貌等地呼声都比较高，与评分结果排名靠前的候选区基本符合，但目前具体的选址还未有定论。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文从自然保护地的空间分布出发，以保护地优势景观资源聚集区作为国家公园候选区，综合候选区主要代表性景观资源与潜在资源的评价分析和专家评分进行国家公园的选址，得出赤水—习水区可优先选为国家公园试点区。赤水一习水国家公园试点区的建立，对于世界遗产地“中国丹霞”的研究价值和全球自然生态系统的保护具有重要意义；有利于解决赤水—习水区内多个保护地交叉重叠、多头管理的问题，有利于对该区域常绿阔叶林森林生态系统和植物多样性的保护、保育进行集中规范化管理，进一步丰富群落的植物多样性，提高其生态、社会及经济效益。但仅以空间分布的密集程度作为优势景观资源区来进行国家公园的选址还存在一定的局限性，在具体选址工作的实施中还需要对相应的指标进行细化。国家公园试点区选址及植物多样性保育所受的影响因素颇多，如跨省域合作、公园结构组成、景观资源整合、公园管理、统筹人地关系、政府决策以及建设资金来源等问题仍有待进一步的讨论。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 关于植物多样性保育赤水一习水国家公园试点区范围内植物多样性丰富，建立国家公园对植物多样性保育研究工作具有极为重要的生态价值和意义。为维持赤水—习水区植物物种的多样性，在国家公园建设的总体规划中要将植物多样性保育考虑进去，建议采取以下措施： $\\textcircled{1}$ 从赤水一习水国家公园试点区植物物种的生存现状、分布、面积、种群个体数量、群落结构、生长习性、生境状况、濒危程度、面临的主要问题及其成因等方面，对植物物种进行普查，建立植物物种数据库，为植物多样性保育的规划和管理提供科学的依据。 $\\textcircled{2}$ 建立赤水一习水国家公园试点区的管理法规，通过地方课程教育和社区宣传等多种方式传播植物多样性的价值和意义；扩大公园试点区周边对“非植物资源”和“非消耗性植物资源”使用价值的开发和利用，改变单一以种植为主的生产格局，杜绝垦荒种植，推进退耕还林还草进程，发展珍贵中药材种植，打造生态旅游品牌，将旅游资源优势转化为经济和环境优势。 $\\textcircled{3}$ 加强赤水一习水区植物生长环境的改善和修复，提高植物生存环境的质量，控制毛竹生长对其他珍稀植物群落优势地位的威胁，对分布面积小的濒危植物，可专门设立保护点进行管理；在赤水一习水区建立全国性质的秒、楠木和水青树等珍稀濒危植物迁地保存中心和繁殖圃，采集植物的遗传物质进行迁地和离体保护；在试点区周边建立珍稀濒危植物实验圃或展览园，保护和繁育珍稀濒危植物的同时，还可以对植物多样性保育进行展览、宣传。 $\\textcircled{4}$ 进一步加大对赤水一习水区植物物种的生长繁殖特点、生境需求和病虫害的研究，以便合理地选择甚至创造适宜植物生长的环境，更有效地实现植物多样性的保育和资源的可持续利用，从而促进经济社会的和谐发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过对贵州省国家级自然保护地的空间分布特征进行分析，筛选出国家公园候选区，并以候选区为基础单元，对各候选区潜在资源进行分析评价，结合专家评分选出国家公园的试点区。主要有以下结论：（1）贵州省国家级自然保护地总体呈凝聚型分布，可以将保护地聚集区视为优势景观资源区进行国家公园试点进行筛选。（2）优势景观资源聚集区主要代表性资源分析和专家评分得出：分值排在前列的聚集区可以考虑作为国家公园试点区进行推荐，分值最高的赤水—习水区可优先选为国家公园试点区。（3）赤水—习水区自然条件优越、植物多样性丰富，珍稀濒危动植物物种分布数量多，保护地类型齐全、面积广、基础设施成熟、资源权属清楚，满足设立国家公园优先整合交叉重叠保护地的基本原则。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CHEN XF, 2OO2. National Park system of USA and its resource criteria and the procedure ofappraisement and authorization[J].World For Res,15(2): 49-55.[陈鑫峰，2002．美国国家公园体系及其资源标准和评审程序[J]．世界林业研究，15(2)：49-55.]  \nGuizhou Provincial Department of Land and Resources, 2Oo5. Guizhou Province Atlas[M].Beijing:Chin Cartogr Publ House.[贵州省国土资源厅，2005．贵州省地图集[M]．北京：中国地图出版社.]  \nHOU W, 2O19.Discussing the feasibility of establishing a National Park in Guizhou Provincebased on the resource level[J]. J Cent S Univ For Technol (Soc Sci Ed),13(4):14-19.[侯伟,2019．贵州省建立国家公园的可行性—基于资源层面[J]．中南林业科技大学学报（社会科学版），13(4)：14-19.]  \nHUANG CH, GAO HY, LIAO Q, et al., 2012. Biodiversity and conservation of rare andendangered plants in Tianjingshan National Forest Park in Guangdong[J]. JAgric Sci, 40(24):11936-11938.[黄春华，高华业，廖琦，等，2012．广东天井山国家森林公园珍稀濒危植物多样性及保育研究[J]．安徽农业科学，40(24)：11936-11938.]  \nHUANG WL,TU YL. 1983. Vegetation zoning in Guizhou[J]. JGuizhou Nor Univ (Nat Sci Ed),(1):26-47.[黄威廉，屠玉麟，1983．贵州植被区划[J]．贵州师范大学学报(自然科学版),(1): 26-47.]  \nJIN Y,AN MT ,CUI XY,et al., 2019.Analysis of species abundance distribution feature andprotection priority area of national protected wild plants in Guizhou Province[J].Guihaia,39(12):1710-1723.[金勇，安明态，崔兴勇，等，2019．贵州省国家重点保护野生植物物种丰富度分布特征及保护优先区分析[J]．广西植物，39(12)：1710-1723.]  \nLI QL,MA XD, SHENG Y, 2012. Analysis of spatial patern of rural settlement in NorthernJiangsu[J].Geogr Res,31(2):144-154.[李全林，马晓冬，沈一，2012．苏北地区乡村聚落的空间格局[J]．地理研究，31(2)：144-154.]  \nOUYANG ZY，WANG XK，MIAO H，et al.，2002. Discussion on the problems andcountermeasures of China Nature Reserve management system[J]. Sci Technol Rev, (1): 49-52.[欧阳志云，王效科，苗鸿，等，2002．我国自然保护区管理体制所面临的问题与对策探讨[J]．科技导报，(1)：49-52.]  \nQIAN H, 1988.Large-scale biogeographic patterns of vascular plant richness in North America:an analysis at the generic level[J]. J Biogeogr, 25: 829-836.  \nSHU M, 2018. Conception of China’s National Park legal system[J]. For Constr, (5): 148-150. [舒旻，2018．中国国家公园法律体系构想[J]．林业建设，(5)：148-150.]  \nSU WC,20O2.Rare and endangered plants in guizhou karst regions with the consideration of theirconservation[J].Resour Environ Yangtze Basin,(2):111-116.[苏维词，2002，贵州喀斯特地区珍稀濒危植物及其保护[J]．长江流域资源与环境，(2)：111-116.]  \nSUN YL, TU YL, 2OO4. The present situation and conservation about the endangered plants andanimals in the Chishui Alsophila spinulosa Natural Reserve[J]. JGuizhou Nor Univ (Nat SciEd),(4):22-26.[孙亚莉，屠玉麟，2004．赤水杪自然保护区受危物种现状及保护[J]．贵州师范大学学报(自然科学版)，(4)：22-26.]  \nTANG FL, SUN HY,2009. Discussion on establishing National Park in China[J]. For Constr, (3):8-13.[唐芳林，孙鸿雁，2009．我国建立国家公园的探讨[J]．林业建设，(3)：8-13.]  \nTANG XP, JIANG YF, LIU ZL, et al., 2019. Top-level design of the natural protected area systemin China[J].For Resour Manag,(3):1-7.[唐小平，蒋亚芳，刘增力，等，2019．中国自然保护地体系的顶层设计[J]．林业资源管理，(3)：1-7.]  \nWANG H, 2O13. Location of the National Marine Park: A case study of Changshan islands inDalian[J].JNat Resour,28(03): 492-503.[王恒，2013．国家海洋公园选址研究——以大连长山群岛为例[J]．自然资源学报,28(3):492-503.]  \nWANG LY, STEVEN H, 2014. Building aunified chinese national park system: historical lessonslearned from the united states[J].Geogr Res,33(12): 2407-2417.[王连勇，伦贺斯特·斯蒂芬,2014．创建统一的中华国家公园体系——美国历史经验的启示[J]．地理研究，33(12):2407-2417.]  \nWU JY, 2O14. Study on spatial distribution characteristics of Chinese national parks[J]. Geogr Res,33(9):1747-1757.[吴佳雨，2014．国家级风景名胜区空间分布特征[J]．地理研究，33(9):1747-1757.]  \nXUE BJ, ZHANG YJ, AN TT, et al., 2O17. Discussion on national park site selection for flagshipgiant panda species[J].JChin Urban For,15(2): 24-28.[薛冰洁，张玉钧,安童童,等,2017.旗舰种大熊猫国家公园选址研究[J]．中国城市林业，15(2)：24-28.]  \nYAN CL,1994. On the protection of plant diversity in Karst mountain area of Guizhou[J]. ResourEnviron Yangtze Basin,(2):136-140.[严重玲，1994．论贵州岩溶山区植物物种多样性的保护[J]．长江流域资源与环境，(2)：136-140.]  \nZHANG XW, 2018. Establishment of natural protected area system based on national park[J]. ForConstr,(5):38-46.[张希武，2018.建立以国家公园为主体的自然保护地体系[J].林业建设，(5): 38-46.]  \nZHAO Y, SHAO WL,LIU ZG, et al., 2OO9. Study on the diversities, protections and cultures ofOrchidaceous plants in Fujian Huboliao Nature Reserve[J]. JFujian For Sci & Technol, 36(2):110-114.[赵勇，邵伟丽，刘志高，等，2009．福建虎伯寮自然保护区兰科植物多样性与保育研究[J]．福建林业科技，36(2)：110-114.]  \nZHU LY,LAN SR, XUN S,2O19. National park location in Fujian based on spatial distributioncharacteristics of national protected areas[J]. Geogr Geogr Infor Sci, 35(2): 97-103.[朱里莹，兰思仁，徐姗，2019．基于国家级保护地空间分布特征的国家公园选址研究—以福建省为例[J]．地理与地理信息科学，35(2)：97-103.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

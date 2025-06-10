@@ -1,0 +1,202 @@
+# 棉花DUR3基因的鉴定及进化分析
+
+巩元勇1，赵丽华1，闫飞1，孙伊辰²，王慧²，刘来华 2\*（1.攀枝花学院生物与化学工程学院，四川攀枝花617000；2.教育部植物与土壤互作重点实验室，中国农业大学资源、环境及粮食安全中心，北京100193)
+
+摘要：植物DUR3同源蛋白于属于钠离子/溶质共运蛋白家族的尿素高亲和力运输蛋白，在植物体对外源尿素的主动吸收及内源尿素的再分配过程中发挥重要作用。为明确棉花DUR3基因的结构和进化情况，利用生物信息学的方法，从全基因组水平鉴定陆地棉和雷蒙德氏棉的 DUR3基因，并对基因结构、跨膜结构域、基序分布、进化关系等进行分析。结果表明，从陆地棉A亚组和D亚组染色体各鉴定出1个DUR3基因，从雷蒙德氏棉基因组鉴定出1个DUR3基因。这3个棉花DUR3同源蛋白同其他植物DUR3同源蛋白一样，具有15个跨膜结构域，具有3个位置一致、高度保守的基序。基因结构分析表明，双子叶植物DUR3基因的外显子个数明显多于单子叶植物，此3个棉花DUR3 基因的外显子个数亦是如此。不同物种DUR3 氨基酸序列构建的进化树显示，这些基因根据物种间种属亲缘关系的远近而进行了聚类，棉花的同双子叶植物的聚在一起。DUR3直系同源基因和旁系同源基因的 $K _ { a } / K _ { s }$ 比值普遍均大于1，说明这些基因在进化过程中主要受到正向选择的作用。本文的研究结果将为深入研究棉花DUR3同源蛋白提供理论基础。
+
+关键词：陆地棉，雷蒙德氏棉，DUR3基因，生物信息，进化中图分类号： 文献标识码：A 文章编号：
+
+# Identification and evolutionary analysis of cotton DUR3 gene
+
+GONG Yuanyong1, ZHAOLihual, YANFei', SUN Yichen²,
+
+WANG Hui², LIULaihua²\*
+
+(1. Biological and Chemical Engineering College, Panzhihua University,Panzhihua 617000, Sichuan, China; 2. Key Laboratory of Plant-Soil Interactions,Ministry of Education; Center for Resources, Environment and Food Security, China Agricultural University,
+
+Beijing100193,China)
+
+Abstract: Plant DUR3_homologous protein is a high affinity urea transporter which belongs to the family of sodium/solute symporter family, and plays an important role in the active absorption of exogenous urea and redistribution of endogenous urea by plants. The purpose of this study was to clarify the existence,structure and evolution situation of cotton DUR3 gene. Based on bioinformatics methods,DUR3 genes were identified from Gossypium hirsutum and Gossypium raimondii genomic sequences, and then the gene structure, transmembrane domain, motif location,
+
+Three DUR3 genes were identified from the A and D subgroup chromosomes of upland cotton and Gossypium raimondi genomic sequences. These 3 cotton DUR3 homologous proteins, like other plant DUR3 homologous proteins, have 15 transmembrane domains and 3 highly conserved motifs with consistent positions.The gene structure analysis showed that the number of exons of DUR3 genes in dicotyledons was significantly higher than that in monocotyledons,and so were the cotton $D U R 3$ genes. Phylogenetic analysis revealed that the different species DUR3 proteins were classified according to species kinship,and cotton clustered in one branch with dicotyledons. The $K _ { a } / K s$ values of orthologous and paralogous genes of DUR3 were generally more than 1， indicated that those genes mainly experienced positive selection among evolution.The results of this study will provide a theoretical basis for further research on cotton DUR3 homologous protein.
+
+# Key Words: Gossypium hirsutum, Gossypium raimondi, DUR3 gene, Bioinformatics, Evolution
+
+氮素在植物的生长过程中是一种非常重要的营养元素，因为它可以用来合成蛋白质、氨基酸、叶绿素等重要的氮化合物(Marschner,1995)。尿素是全世界使用最普遍的化肥之一，然而一种细菌分泌的可以降解尿素的酶——脲酶在土壤中几乎无处不在，大部分施入土壤中的尿素被脲酶分解为氨和二氧化碳，所以通常情况下土壤中尿素的浓度很低，而不足以作为单一氮源满足植物生长需要(Kojima et al.,2006)。但是研究发现，施到土壤的尿素存在1-8天的半衰期(Liu et al,2003a)，在这期间土壤中会有一个较高浓度的尿素存在，这为植物根系从土壤吸收尿素提供了宝贵的时间。截止到现在，在植物中仅发现2类尿素转运蛋白，一类是具有低亲和力尿素运输能力、介导尿素被动迁移的MIPs(Major Intrinsic Proteins)，这是一类水通道蛋白，它们通常定位到细胞质膜及液泡膜上(Liu etal.,2003b)；另一类是具有高亲和力尿素运输能力、介导尿素主动跨膜运输的属于钠离子/溶质共运蛋白家族(Sodium/solute symporter family，SSS family)的 DUR3 同源蛋白，该类跨膜蛋白定位在质膜，且DUR3基因受到外界缺氮条件的诱导表达(Liu et al.,2003a; Liuet al.,2003b;Kojima et al.,2007)。DUR3的生理贡献不只局限于氮缺乏条件下的植物根部，在衰老的叶片中它同样发挥一定的功能(Bohner et al.,2015)。植物体内的尿素不仅只能从外源土壤中获得，还能够从体内二次氮代谢的合成中获得，衰老叶片中尿素含量的增加就证明了这一观点(Bohner etal.,2015)。对拟南芥的研究显示，AtDUR3基因在衰老叶片的维管组织中大量表达，DUR3 能够将叶片衰老引起的氮化合物降解生成的尿素从叶肉细胞运送到质外体(Bohner et al,2015)，这一研究结果表明DUR3是植物体内氮素再分配的一个非常重要的转运通道蛋白。运用反向遗传学研究方法证实，水稻 $O s D U R 3$ 基因插入系植株在氮素缺乏的大田里因籽粒灌浆差，与正常的水稻相比产量降低 $2 6 . 2 \%$ ；在种子发育期，水稻OsDUR3基因插入系植株的氮素主要积累在叶片中，花絮不能得到充分的发育；来自水稻OsDUR3基因插入系植株老叶片的尿素含量低于正常的水稻，这些结果证实在氮素缺乏的大田条件下DUR3参与了氮素转运和水稻产量(Beier et al.,2015)。
+
+目前，只有拟南芥(Arabidopsis thaliana，AtDUR3)(Liu et al.,2003a)、水稻(Oryza sativa，OsDUR3)(Wang et al.,2003a)、玉米(Zea mays， ZmDUR3)(Zamin et al.,2014; Liu et al.,2015)这 3个高等植物的DUR3基因被克隆并验证了分子生理功能，这些研究都是围绕DUR3主动运输尿素开展。在酵母中的研究表明，酿酒酵母(Saccharomyces cerevisiae)的 ScDUR3 和白假丝酵母菌(Candida albicans)CaDUR3 除了具有转运尿素的功能，还能够转运多胺(Uemura et al.,2006;Kumar etal.,2011)。多胺是一类脂肪族小分子化合物，它广泛的参与到植物生长发育的各个阶段，同时对植物响应外界胁迫环境具有非常重要的作用(Groppa and Benavides,2008)，但是在植物中尚未发现转运多胺的蛋白。因此，关于植物DUR3同源蛋白是否具有转运多胺的功能，非常值得深入的研究。
+
+棉花是人类获取植物纤维的主要农作物，陆地棉(Gossypium hirsutum)是当前全球最重要的棉花栽培品种，全球 $90 \%$ 以上棉田种植的都是陆地棉。陆地棉基因组是AADD型异源四倍体，使得棉花基因组庞大而复杂，很大程度限制了棉花分子生物学的研究进度。随着二倍体D亚组雷蒙德氏棉(Gossypium raimondii)(Wang et al.,2012)和 A亚组亚洲棉(Gossypium arboreum)(Li et al.,2014)测序工作的完成,陆地棉遗传标准系TM-1全基因组序列也得以公布(Lietal.,2015; Zhang etal.,2015)，在JGI上已经引入了陆地棉和雷蒙德氏棉基因组，这必将加速棉花功能基因的研究进度。本文从JGI上的陆地棉和雷蒙德氏棉基因组中鉴定棉花的DUR3基因，并进行相关生物信息学分析，为该基因进一步的克隆和功能验证提供理论基础。
+
+# 1材料与方法
+
+# 1.1 材料
+
+从 NCBI(https://www.ncbi.nlm.nih.gov/)搜索获得如下物种 DUR3 基因的序列：拟南芥(Arabidopsis thaliana，AtDUR3，NP_199351)、水稻(Oryza sativa，OsDUR3，NP_001065513)、玉米(Zea mays， ZmDUR3，KJ652242)、高梁(Sorghum bicolor， SbDUR3，XP_002438118.1）、谷子(Setaria italica， SiDUR3，XP_004965066.1)、番茄(Solanum lycopersicum， SIDUR3,XP_004245999.1)、葡萄(Vitis vinifera，VvDUR3，XP_002263043.1)、大豆(Glycine max，GmDUR3,XP_003523904.1)、大麦(Hordeum vulgare，HvDUR3，BAJ94433.1)、二穗短柄草(Brachypodiumdistachyon， BdDUR3，XP_003571687.1)、蒺 藜苜蓿(Medicago truncatula， MtDUR3，XP_003612583.1)、毛果杨(Populus trichocarpa，PtDUR3，XP_002303472.2)、酿 酒酵母(Saccharomyces cerevisiae， ScDUR3，L19875.1)、构巢曲霉(Aspergillus nidulans，AnDUR3,ACZ62639.1)、条斑紫菜(Pyropia yez0ensis，PyDUR3，BAU04114.1)、长牡蛎(Crassostrea gigas,CgDUR3,XP_019929725.1)、砟碟(Tridacna squamosa,TsDUR3,MF073181.1),从JGI的Phytozome(https://phytozome.jgi.doe.gov/pz/portal.html)获得上面所述植物DUR3 基因的编码区及 CDS 序列信息。
+
+# 1.2棉花DUR3基因的鉴定及生物信息学分析
+
+# 1.2.1棉花DUR3基因的鉴定
+
+用拟南芥AtDUR3基因的蛋白质序列（NCBI登录号：NP_199351)为探针，在Phytozome陆地棉(Gossypium hirsutum)和雷蒙德氏棉(Gossypium raimondi)基因组 Blast，搜索获得E 值小于$\mathrm { e } ^ { - 1 0 }$ 的同源序列，将获得的序列(棉花和拟南芥)在InterProscan5(http://www.ebi.ac.uk/Tools/pfa/iprscan/）在线分析功能结构域存在情况，最终确定目标序列。
+
+# 1.2.2植物DUR3基因基本信息的获取
+
+棉花及本研究所需植物DUR3基因的编码区长度、CDS序列长度、外显子个数等信息均在Phytozome 获得；利用 ProtParam tool (htp://web.expasy.org/protparam/)在线分析获得植物 DUR3基因氨基酸序列的分子量、等电点等基本信息。
+
+# 1.2.3DUR3基因的生物信息学分析
+
+运用DNAMAN软件对不同植物DUR3基因的氨基酸序列进行多重序列比对；用MEGA6软件，采用Neighbor-Joining 法对不同物种的DUR3蛋白质序列构建进化树，校验参数Bootstrap $_ { \mathsf { \Pi } } = 1 0 0 0$ ；用Lasergene 软件的MegAlign 分析不同植物DUR3基因氨基酸序列间的相似性；植物DUR3 蛋白质序列保守基序用 MEME (htp://meme.sdsc.edu/meme/meme.html)鉴定分析；植物DUR3蛋白序列的跨膜结构域用TMHMM（https://services.healthtech.dtu.dk/service.php?TMHMM-2.0）在线进行预测；采用 GSDS9 （GeneStructure Dispely Server，http://gsds.cbi.pku.edu.cn/)(Hu et al.,2015)在线绘制不同植物 DUR3 基因结构图；用DnaSPv5 计算获得棉花DUR3旁系同源基因和直系同源基因的非同义替换 $( K _ { a } )$ 和同义替换 $( K _ { s } )$ ，计算出 $K _ { a } / K _ { s }$ 比值。
+
+# 2结果与分析
+
+# 2.1棉花DUR3基因的鉴定及序列基本信息
+
+从陆地棉(Gossypium hirsutum)异源四倍体标准系 TM-1基因组中共鉴定出2个DUR3 同源基因，一个是位于A03亚基因组的Gohir.A03g179800 基因，另一个是位于D08亚基因组的Gohir:D08g001500基因，为表述方便，将Gohir.A03g179800 基因命名为GhDUR3.1，将Gohir:D08g001500 基因命名为 GhDUR3.2。从雷蒙德氏棉(Gossypium raimondi)基因组中鉴定出1个DUR3 同源基因Gorai.005G228700，命名为GrDUR3。用 InterProscan5分析这3个DUR3 基因的氨基酸序列，它们都属于 Sodium/solute symporter (IPR001734）蛋白家族下的 Urea activetransporter (IPR031155)家族，都具有 cd11476(Na+/urea-polyamine cotransporter DUR3,and relatedproteins;solute-bindingdomain)这一功能结构域。
+
+有表1可以看出，不同植物DUR3基因的编码区长度存在较大差异，从OsDUR3基因的2358bp 到ZmDUR3基因的5567bp，最长和最短相差有 $3 2 0 9 { \mathrm { b p } }$ 。然而，植物DUR3 基因CDS序列长度的差别却不大，最短的是GhDUR3.1的2034 bp，最长的是 BdDUR3的2214bp，相差仅为$1 8 0 ~ \mathrm { b p }$ 。植物DUR3基因外显子的个数分为两派，双子叶植物外显子个数普遍较多，为9个或10个；单子叶植物外显子个数普遍较少，为3个或4个。植物DUR3基因推测的多肽的长度(677a.a—737a.a)和分子量 $( 7 2 . 9 0 5 \mathrm { k D a } - 7 7 . 6 0 8 \mathrm { k D a } )$ 都相差不大，等电点只有SiDUR3的小于7，其他的都高于7而处于碱性范围。
+
+表1植物DUR3基因基本信息  
+
+<html><body><table><tr><td colspan="7">Table1 Basic information of plant DUR3 genes</td></tr><tr><td rowspan="2">基因名 Gene name</td><td rowspan="2">编码区长度 Length of coding region (bp)</td><td rowspan="2">CDS 长 度 Length ofCDS (bp)</td><td rowspan="2">外显子 个数 Number of exons</td><td colspan="3">推测的多肽 Deduced polypeptide</td></tr><tr><td>长度 Length(a.a.)</td><td>分子量 MW(kDa)</td><td>等电点 pI</td></tr><tr><td>AtDUR3</td><td>4360</td><td>2115</td><td>10</td><td>704</td><td>75.913</td><td>8.72</td></tr><tr><td>GmDUR3</td><td>3 408</td><td>2 145</td><td>9</td><td>714</td><td>77.074</td><td>8.92</td></tr><tr><td>MtDUR3</td><td>4 789</td><td>2136</td><td>9</td><td>711</td><td>77.006</td><td>8.75</td></tr><tr><td>SIDUR3</td><td>3139</td><td>2133</td><td>9</td><td>710</td><td>76.588</td><td>9.00</td></tr><tr><td>PtDUR3</td><td>2922</td><td>2 124</td><td>9</td><td>707</td><td>76.480</td><td>8.21</td></tr><tr><td>VvDUR3</td><td>4 488</td><td>2 133</td><td>9</td><td>710</td><td>76.857</td><td>8.76</td></tr><tr><td>SbDUR3</td><td>4 784</td><td>2 190</td><td>4</td><td>729</td><td>77.029</td><td>8.19</td></tr><tr><td>SiDUR3</td><td>4 468</td><td>2196</td><td>4</td><td>731</td><td>77.010</td><td>6.89</td></tr><tr><td>BdDUR3</td><td>2 419</td><td>2 214</td><td>3</td><td>737</td><td>77.608</td><td>7.81</td></tr><tr><td>HvDUR3</td><td>2 408</td><td>2 169</td><td>3</td><td>722</td><td>76.525</td><td>7.79</td></tr><tr><td>OsDUR3</td><td>2 358</td><td>2166</td><td>3</td><td>721</td><td>76.416</td><td>8.67</td></tr><tr><td>ZmDUR3</td><td>5567</td><td>2196</td><td>4</td><td>731</td><td>77.425</td><td>7.17</td></tr><tr><td>GhDUR3.1</td><td>2 969</td><td>2 034</td><td>10</td><td>677</td><td>72.905</td><td>8.49</td></tr><tr><td>GhDUR3.2</td><td>3023</td><td>2 094</td><td>9</td><td>697</td><td>75.190</td><td>8.43</td></tr><tr><td>GrDUR3</td><td>3 013</td><td>2 094</td><td>9</td><td>697</td><td>75.234</td><td>8.43</td></tr></table></body></html>
+
+# 2.2植物DUR3基因氨基酸序列比对
+
+用 DNAman 对选取的拟南芥(Arabidopsis thaliana)、水稻(Oryza sativa)、玉米(Zea mays)、高梁(Sorghum bicolor)、谷子(Setaria italica)、番茄(Solanum lycopersicum)、葡萄(Vitis vinifera)、大豆(Glycine max)、大麦(Hordeum vulgare)、二穗短柄草(Brachypodium distachyon)、蒺藜苜蓿(Medicago truncatula)、毛果杨(Populus trichocarpa)等不同层面模式植物和本研究鉴定出棉花的共15 条DUR3蛋白氨基酸序列进行多重序列比对，如图1所示,这15条序列的一致性达到 $7 9 . 8 1 \%$ 不一致区段主要存在于序列的两端，中间的功能区域部分一致性很高。BdDUR3和MtDUR3 序列一致性最低，为 $7 1 . 8 \%$ ，GhDUR3.2和GrDUR3序列一致性最高，为 $9 9 . 3 \%$ 。
+
+ZmDUR3 RAA A VI SA VN AINV V √ V VV VV VF TSGNR RVVHDHLTAVASAV N SAPL HPD A VH F 300   
+Consensus aieikrkap ahtvceiv a wg h vfl fc t n vtamll1gg alt yaasfl plgv yt agglkatflasy hsv vh 1 lvy 1gsp rc qcgp gn   
+GhDUR3.1 GhDUR3 .2 K K LIM LIM □□ III >>>> TATTTTTTTTTTTTT LTAD LTAD SR SR PPP IIII VVVL TTTT 江III oUuε 工III ${ \begin{array} { r l } { { \mathrm { ~ 1 ~ } } } & { \geq \mathrm { ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 1 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 1 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 2 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 3 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 4 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 4 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 4 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ B ~ } } \\ { \mathrm { ~ 5 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 4 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 5 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 4 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 7 ~ } } & { \geq \mathrm { ~ B ~ T ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 8 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 8 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 8 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 6 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 8 ~ } } & { \leq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ B ~ } } \\ { \mathrm { ~ 8 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ B ~ } } \\ { \mathrm { ~ 1 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 1 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \\ { \mathrm { ~ 2 ~ } } & { \geq \mathrm { ~ B ~ S ~ B ~ S ~ B ~ S ~ B ~ } } \end{array} }$ 437 437   
+Gr DUR3 K LIM L LTAD SR 437   
+At DUR3 R L ML A L ISKD DR P 434   
+GmDUR3 K L ML L I >> INEN GR P V G I T III 00000 工I工 441   
+Mt DUR3 K L ML L I LNES GR P VIIITTTTT G IIII T 438   
+S1DUR3 K V ML L >>> ITAS SH P A T 435   
+Pt DUR3 K L ML L 工工 ITES SH P G 工工 439   
+VvDUR3 K L ML L ITES SH P A T S I 436   
+SbDUR3 K L ML □□□ IIV 国图图图图N ITAA AK P S V T UUUEU I 440   
+SiDUR3 K L ML ITAG AK PP SP V TT V 工> 441   
+BdDUR3 K L ML ITAS AR V V 443   
+HvDUR3 K L ML □□ III ITAA AK PP v> TT AV 工工 444   
+OsDUR3 K L ML LTAA AK S 439   
+ZmDUR3 K L_ML L ITAA AK A T S V I AV C I 452   
+Consensus gsy t ssgg vfg inivgnfgtvfvdngyw saiaarpss hkgyllgglvwfavpfslatslglgalaldlp ea glvp ata almgk gs 111 mlfmavtsags el avssl tyd yrty np a i1 SI   
+GhDUR3.1 VVLG CF LF VI KAG MMM VLI 工工□ 民民民 AV IV TIT IL IVT SVASIE RVN DTT R A A NVVSILTGGAI ALCSLLW N T DTTRQ.TM KEE................. 570   
+GhDUR3.2 VVVG CF LF VI KAG VLI AV IV TIT IL IVT SVASIE RVN DTT R A A NLASILAGGAI ALCSLLW N T DTTRQ. TM KEES.....ELNEDELKEEKL 583   
+Gr DUR3 VVVG CF LF VI KAG VLI FM AV IV TIT IL IVT SVASIE RVN DTT R A A NLASILAGGAI ALCSLLW N T DTTRQ.TMKEES..DLNEDELKEEKL 583   
+At DUR3 AVLG CF IL VV KAG M VLI I FM S AF IL ATS VF IIT TTAKTQ RVD DST K G 4 NLVAILTGGLI AVCSLVR N D STTRE. KV AYASGDEDVDVPAEELREEKL 585   
+GmDUR3 VVLG CF LL VI KAE M VLI L FM R AI IL TVL VL IIT SVTKIQ RVN NTT R A A NLVSILTGGVA AVCSMLR N D STTKQ. TV KEKS.....NLPAEEFKEEKL 587   
+Mt DUR3 VVLG CF LL VI KAG MMM VLI I FM RR AI IL TVF VL IIT SVTKIE KIN DTS RA A NLVSILTGGVV AVCSMLW ND STTKQ. TV KEKT.....DLPAEEFKEEKL 584   
+S1DUR3 VVLG CF IL VI KAG VFI L FM SF IL TVI LL IIT SVTKIE RID DTT R A A NLVSILTGGAI AVCSFLR NDESTKQ. TV KEKS.. ..EVPPEEFREEKL 581   
+PtDUR3 VVLG CF LL VI KAG ILI L FM R AI IL TII VL VIT VTKVE RIN DTT RA A NLVSILTGGAI AVCSFLW D D DTTKQ.TM KEKN.....ELPAEEFKEEKL 585   
+VvDUR3 VVLG CF LL VI KAG MM VLI 工工 FM R AF IL TVT IL VIT SVTSIE QVN DTT R A NLVSILTGGAV AVCSLLW N D DTTRQ. TT KEKS . .ELPAEEFREEKL 582   
+SbDUR3 VVFA CL VL VI LVG VVI LL R AL IL AVA AL VTV SVAKVQ RVD DST R A A NLVSILVGGAV AACSLAW N D ESSRQ. TT S ..VAAN.. GDLAEELKEERL 587   
+SiDUR3 VILA CL VL VI LVG M III 1 LL S AI IL SIS VL VIV TVAKVQ RVD DST R A A NLVSILLGGAV AACSLAW N D ESSRQ. TT S..VAAD..GELAEELKEERL 588   
+BdDUR3 VILA GS AL AV LAG MMML VLV I LL S AS VM AVG AL VAV TVARVQ RVD DST R A A NLVSILVGGAV AVCSLVS R D ESCRQ. TT TTPIGED. .EEEDEGLKEERL 592   
+HvDUR3 VILA cs VL VV LVG VLV 1 LL SSR AF ML TIS VL VV TVAKVQ RVN DTT R A T NLVSILVGGAV CVCSLVS N D ESSRQ. TT S..VG....AEDDDELQEEKL 589   
+OsDUR3 VVLG CF VL VV VAG VIV 工I LL AV MG AVS AL VAV TVAKVQ RVN DTT R A NLVSILVGGAV AACSLLR H D GTSREM TT S..VH....AALDDELKEERL 585   
+ZmDUR3 TVLV CL VL VI LVG VII LL AL IL AVS VL VTV SVAKVQ RVD DST R A A ...KPGV_P..CLAW Q D ESSRQ. TT S..VPAD..SDLAEELKEERL 590   
+Consensus fg mg 1n vslgw ylamg gsav pia llw kan ga g gc w1 yg pm1 Ω1 pqy ve   
+GhDUR3.1 .......MK VGF VV VML L TI AGEFSVG TF VIAIA SI AA GL LI KNVCSGMFTNDRLI KA LVEKENKKK 677   
+GhDUR3.2 KTAKSWIVK VGF VV VML L TI AGEFSVG TF VIAIA SI GL LI E KNVCSGMFTNDRLMEKVEEMNFKLNSIMLAI A KA LVDKENKKK. 697   
+GrDUR3 KTAKSWIVK VGF VV VML L TI AGEFSVG TF VIAIA SI A GL LI E KNVCSGMFTNDRLMEKVEEMNFKLNS IMLAI KA LVEKENKKK. 697   
+AtDUR3 RRAKAWIVK LVF IL VVI V SL ARVFSRG WF IVAIA TI I GL LV D KSVCMGMFTNDRVMKKLI NHRLRALTMAV KI LLELEKTKKNDEEG 704   
+GmDUR3 IRAKSWVVK VGF LL VIL I SL AGEFSKG YF VIAIG TV A VL LI E QTVIMGMFTNDRLMEI A RL LLEKGKAKKLDSSEQQASSLPA. 714   
+Mt DUR3 TRAKVWIVK IGF VL VIL SL AGEFSKG FF VIAIG TI A AL II QTV I LGM RL LLEKEKTKKLEASEQQSVSIPM. 711   
+S1DUR3 NSAKAWIIK IGF FV VIL I TL VGQFSKG TF IISIV TV A AL LM R QSVLNGMFTNDRVMGKL SKLNAFIVAM RV LLEKERSKKKEVAESDQIVASPSH . 710   
+PtDUR3 IKAKAWIIK VGF VV VIL TL AGEFGLG TF VIAIV TI A AL LM RI LLEEEKAKKKEESEHLA.... 707   
+VvDUR3 IRAKAWIVK VGF IV VIL L SL IGKFSKG TF I IAVA TI A AL LV QNVFLGMFTNDRLMEKIEEMNIKLQSI ILSI RT LMEKEKLKKKEASEYLAHSTPNL . 710   
+SbDUR3 VHAKRWIIK VAF AV AVV V SL AGRYSAG TL VVAIA TV A FL LV ER QVMQ .GKGLRAVEMVHSASGIAKPSVVANDDGDDLSRA. . 729   
+SiDUR3 VHAKRWIVK VAL AV VVL V SL AGKYSAS TL AIAIA TV A FL LV CKVCEGMFTNDA AIMGAM ER QEMQKEKGIGAMEMVHHPASGTHPSTVANDDGDDLSHA.. 731   
+BdDUR3 VRAKRWIVK LVF GV VVA A SV AGRFSEG TL AIAIA AV A LL LV G SKVFAGMLTNDAVYERLDDVSLRLTAIMGAM A KH RSLLQRQ . HVEMEMTQPAAAGTHPIPANEDGDDEADRHLQ 736   
+HvDUR3 VHAKRWIVK LVF VV VVL A SV AGRFSLG TL AIAIA AV A LM LV LF SMVCAGMLTNDIVYQRLDDVNLRLRAIMGAM A KR QQLQRKD..EVEMHPT.....GTHPA.......DDSDHLLE 721   
+OsDUR3 VHAKRWIVR LVF AV VVA A SL ARRYSLG TL AVAIA TV V LL VA TKVCAGMFTNDAVYDRLDDVNLRLRAIMGAM A KR RQLH ... .,ETEMHPA .... . GTHPAN , DDDDDNNNNQMMH 720   
+ZmDUR3 VHAKRWIIK VAF AV AVVVSL_AGRYSAG TM VIAIA TV A FL LV D C . KAIMGDM A ER QEMQKEKDLGTMEMVHPASG.TRPSIVANDDEDNLSLA.. 709   
+Consensus wg t i wp1 p yf wa wg gs vii p esw ti pe e Y
+
+Fig.1A multiple polypeptide sequence alignment of different plants DUR3
+
+# 2.3植物DUR3基因蛋白质保守基序分析
+
+用 MEME在线分析获得这14个不同植物15个DUR3蛋白基序信息，这15个蛋白序列都包含3个不同基序。如图2所示，这3个基序在氨基酸序列上的分布位置基本一致，出现的顺序都是3号基序在前，1号基序紧随其后，2号基序在最后面(靠近氨基酸序列的中间位置)。如图3所示，1号基序和2号基序都有50个氨基酸组成，3号基序有33个氨基酸组成，这3个基序的保守性都很高。
+
+![](images/0201c10d028083cf8db8e4397f69b89715ac33ee5a37fa3f6259f8a6bf5a4d8e.jpg)  
+图2不同植物DUR3蛋白基序分布  
+Fig.2Motif locations of different plants DUR3 polypeptides   
+图3不同植物DUR3蛋白基序序列
+
+3- A 基序1 2 motif1 89101112131415161718192021222324252627282930332334 3533738394044243444546474849 5 3- OIOIASASIIIEE 基序2 2 motif2 6 89101112131415161718192021222324252627282930312334353637383940444444454647 4 TSEENASSIAL 3- 2 基序3 motif3
+
+# 2.4植物DUR3跨膜域预测
+
+研究表明，DUR3属于跨膜蛋白，所以有必要分析不同植物DUR3蛋白质的跨膜域情况。用TMHMMServerv.2.0在线对这15条DUR3蛋白质的跨膜结构进行预测，结果如表2所示，所有15条DUR3蛋白质都包含15个跨膜域(图4所示)，并且这些跨膜域在氨基酸序列上存在的位置也都非常相似。
+
+表2植物DUR3蛋白跨膜域预测  
+  
+
+<html><body><table><tr><td colspan="3">Table2 Predictiono olantDUR3proteins</td></tr><tr><td>蛋白名 Protein name</td><td>跨膜位置 Transmembrane positions</td><td>跨膜数 Transmembrane number</td></tr><tr><td>AtDUR3</td><td>37-59,80-99,114-133,160-182,187-209,216-238,289-311,332-354, 388-410,431-450,460-482,487-506,526-548,595-617,621-643</td><td>15</td></tr><tr><td>GmDUR3</td><td>44-66,87-106,121-143,164-186,196-218,223-245,296-318,339-361 ,395-417,438-456,466-488,493-515,530-552,593-615,625-647</td><td>15</td></tr><tr><td>MtDUR3</td><td>41-63,84-103,118-140,161-183,193-215,220-242,293-315,336-358 ,389-411,432-454,459-481,488-510,530-552,589-611,621-643</td><td>15</td></tr><tr><td>SIDUR3</td><td>38-60,81-100,115-134,159-181,191-213,220-242,290-312,333-355 ,389-411,432-450,460-482,489-511,526-548,586-608,618-640</td><td>15</td></tr><tr><td>PtDUR3</td><td>42-64,85-104,119-141,162-184,194-216,221-243,294-316,337-359 ,390-412,433-455,460-482,489-511,531-553,590-612,622-644</td><td>15</td></tr><tr><td>VvDUR3</td><td>39-61,82-101,116-138,159-181,191-213,218-240,291-313,334-356 ,387-409,430-452,457-479,486-508,528-550,589-611,621-643</td><td>15</td></tr><tr><td>SbDUR3</td><td>43-65,86-105,120-139,166-188,193-215,222-244,295-317,338-360 ,394-416,437-459,463-485,492-514,532-554,594-616,626-648</td><td>15</td></tr><tr><td>SiDUR3</td><td>43-65,86-105,120-142,162-184,194-216,223-245,296-318,339-361 ,395-417,438-460,464-486,493-515,533-555,594-612,627-649</td><td>15</td></tr><tr><td>BdDUR3</td><td>43-65,86-108,123-145,166-188,198-220,225-247,298-320,341-363 ,394-416,437-459,469-491,498-520,535-557,598-616,631-653</td><td>15</td></tr><tr><td>HvDUR3</td><td>44-66,87-109,124-146,167-189,199-221,226-248,299-321,342-364 ,395-417,438-460,470-492,494-516,536-558,596-618,628-650</td><td>15</td></tr><tr><td>OsDUR3</td><td>42-64,85-104,119-141,162-184,194-216,221-243,294-316,337-359 ,393-415,436-458,462-484,491-513,528-550,591-613,623-645</td><td>15</td></tr><tr><td>ZmDUR3</td><td>44-66,87-106,121-143,164-186,196-218,225-247,297-319,340-362 ,393-415,444-463,467-489,494-516,534-556,596-618,628-650</td><td>15</td></tr><tr><td>GhDUR3.1</td><td>40-62,83-102,117-139,160-182,192-214,219-241,292-314,335-357 ,390-412,433-452,462-484,491-510,530-552,573-592,602-624</td><td>15</td></tr><tr><td>GhDUR3.2</td><td>40-62,83-102,117-139,160-182,192-214,219-241,292-314,335-357 ,388-410,431-453,458-480,487-509,529-551,589-611,621-643</td><td>15</td></tr><tr><td>GrDUR3</td><td>40-62,83-102,117-139,160-182,192-214,219-241,292-314,335-357 ,388-410,431-453,458-480,487-509,529-551,589-611,621-643</td><td>15</td></tr></table></body></html>
+
+![](images/d0047b03b3d74b9979c0223cc7910a6b546632e13a020ba2565e546e2c62fc96.jpg)  
+GhDUR3.1   
+图4陆地棉GhDUR3.1蛋白跨膜结构域预测分析
+
+# 2.5植物DUR3基因结构分析
+
+根据在JPG 搜索获得的不同植物15个DUR3基因的编码区序列和CDS 序列，用GSDS2.0软件在线绘制DUR3基因结构图，以此来分析这14种植物DUR3基因的外显子和内含子情况。表1已经对植物DUR3基因外显子的个数进行了分析，双子叶植物外显子个数平均为9.2个，单子叶植物外显子个数平均为3.5个，双子叶植物DUR3基因外显子的个数要明显多于单子叶植物，图5显示的更加直观。有图5还不难发现，具有相同外显子个数的基因，其所对应外显子的长度也基本一致，如GhDUR3.2、GmDUR3、GrDUR3、MtDUR3、PtDUR3、SIDUR3、VvDUR3 等具有9个外显子的基因，BdDUR3、HvDUR3、OsDUR3这3个具有3个外显子的基因，SbDUR3、SiDUR3、ZmDUR3这3个具有4个外显子的基因。
+
+![](images/2e1aa38f75b6727252587c3a00a4dff4955c0fd42ba4af640238bf7194dcd261.jpg)  
+Fig.4Analysis of transmembrane structure domain of the GhDUR3.1 protei
+
+Fig.5The Exon and Intron structure of different plant DUR3 genes
+
+# 2.6DUR3基因系统发育分析
+
+为了分析DUR3 基因在不同物种间的进化关系，选取了植物、真菌、藻类、软体动物等4类共 20个DUR3蛋白多肽序列通过MEGA6软件构建进化树。结果表明（图6)，所有的植物聚集在一个分支，两个真菌(酿酒酵母(Saccharomyces cerevisiae，ScDUR3)和构巢曲霉(Aspergillusnidulans，AnDUR3))聚在一个分支，两个软体动物(长牡蛎(Crassostrea gigas，CgDUR3)和碎碟(Tridacna squamosa，TsDUR3))聚在一个分支，藻类(条斑紫菜(Pyropia yezoensis，PyDUR3))单独一个分支，所有的单子叶植物和双子叶植物又分别聚集在两个不同的分支。
+
+![](images/3bec197667628ae7da0e09b494b9928ef58321d12c6ff345c24df6ed1caa8c99.jpg)  
+图5不同植物DUR3基因外显子-内含子结构  
+图6不同物种DUR3氨基酸序列进化树分析  
+Fig.6The phylogenetic tree analysis of DUR3 protein in different species
+
+2.7植物DUR3同源基因非同义突变率与同义突变率的比值分析
+
+先利用MEGA6的ClustalW对所有植物的 $D U R 3$ 同源基因的CDS序列进行比对，然后用DnaSPv5计算获得旁系同源基因和直系同源基因的非同义替换 $( K _ { a } )$ 和同义替换 $( K _ { s } )$ ，计算出 $K _ { a } / K _ { s }$ 比值。表3可以看出，DUR3直系同源基因间的 $K _ { a } / K _ { s }$ 比值除了GhDUR3.2和GrDUR3之外均大于1，表明DUR3基因在不同植物间的进化过程中受到正选择的作用。陆地棉 $D U R 3$ 两个旁系同源基因的 $K _ { a } / K _ { s }$ 比值为4.12，也大于1，表明陆地棉DUR3基因在自身内的进化过程中同样受到正选择的作用。
+
+表3植物DUR3直系同源基因的 $K _ { a } / K _ { s }$ 比值
+
+Table 3 $K _ { a } / K _ { s }$ ratio of orthologous genes from plant
+
+<html><body><table><tr><td colspan="4">直系同源基因 Orthologous genes</td><td>K Ka/Ks</td><td>直系同源基因 Orthologous genes</td><td>Ka</td><td></td><td>K</td><td>Ka/Ks</td></tr><tr><td rowspan="15"></td><td>AtDUR3</td><td>0.426</td><td>0.166</td><td>2.566</td><td>AtDUR3</td><td>0.426</td><td>0.176</td><td></td><td>2.420</td></tr><tr><td>GmDUR3</td><td>0.295</td><td>0.110</td><td>2.682</td><td>GmDUR3</td><td>0.298</td><td></td><td>0.105</td><td>2.838</td></tr><tr><td>MtDUR3</td><td>0.328</td><td>0.101</td><td>3.248</td><td>MtDUR3</td><td>0.330</td><td></td><td>0.097</td><td></td></tr><tr><td>SIDUR3</td><td>0.346</td><td>0.118</td><td>2.932</td><td>SIDUR3</td><td>0.349</td><td></td><td>0.125</td><td>3.402 2.792</td></tr><tr><td>PtDUR3</td><td>0.273</td><td>0.105</td><td>2.600</td><td></td><td>PtDUR3</td><td>0.271</td><td>0.110</td><td>2.464</td></tr><tr><td>VvDUR3</td><td>0.305</td><td></td><td>0.109</td><td>2.798</td><td>VvDUR3</td><td>0.302</td><td>0.117</td><td>2.581</td></tr><tr><td>GhDUR3.1</td><td>SbDUR3</td><td>0.565</td><td>0.163</td><td>3.466</td><td>GhDUR3.2 SbDUR3</td><td>0.576</td><td>0.166</td><td>3.470</td></tr><tr><td></td><td>SiDUR3</td><td>0.559</td><td>0.162</td><td>3.451</td><td>SiDUR3</td><td>0.570</td><td>0.163</td><td>3.497</td></tr><tr><td>BdDUR3</td><td>0.593</td><td></td><td>0.179</td><td>3.313</td><td>BdDUR3</td><td>0.614</td><td>0.181</td><td>3.392</td></tr><tr><td></td><td>HvDUR3</td><td>0.556</td><td>0.169</td><td>3.290</td><td>HvDUR3</td><td>0.571</td><td>0.168</td><td>3.399</td></tr><tr><td></td><td>OsDUR3</td><td>0.574</td><td>0.177</td><td>3.243</td><td>OsDUR3</td><td>0.585</td><td>0.179</td><td>3.268</td></tr><tr><td></td><td>ZmDUR3</td><td>0.559</td><td>0.160</td><td>3.494</td><td>ZmDUR3</td><td>0.575</td><td>0.162</td><td>3.549</td></tr><tr><td></td><td>GrDUR3</td><td>0.0199</td><td>0.0025</td><td>7.960</td><td>GrDUR3</td><td>0.002</td><td>0.0025</td><td>0.800</td></tr></table></body></html>
+
+注： $K _ { a }$ ：非同义替换； $K _ { s }$ ：同义替换 Note: $K _ { a . }$ Non-synonymous substitution; $K _ { s }$ :Synonymous substitution
+
+# 3讨论与结论
+
+在二倍体基因组植物中， $D U R 3$ 同源基因以单一的基因模式(singleton)存在(曹凤秋等,2009)。本文的结果也证实，文中所述植物除了陆地棉是异源四倍体(AADD)，其他植物皆属于二倍体，它们的DUR3基因在各自的基因组中都是单一的基因模式。陆地棉是异源四倍体（AADD)，其基因组有A亚组和D亚组组成，所以鉴定出的两个GhDUR3.1和GhDUR3.2分属于A亚组和D亚组的基因。雷蒙德氏棉(Gossypiumraimondii)是D亚组二倍体棉花，所以其基因组的 $G r D U R 3$ 基因与同位于D亚组的GhDUR3.2基因不管是CDS序列还是多肽序列相似度都高于 $9 9 \%$ ，这两个基因的基本信息除了编码区序列长度和氨基酸多肽分子量存在微小差异，其它都完全一致，就连多肽序列预测的跨膜结构域位置也完全一致，可见这两个基因在分子生理功能上也必将高度吻合。
+
+整体来看，本文所列举的植物DUR3氨基酸序列的一致性接近 $80 \%$ ，对这些蛋白序列的等电点、跨膜结构域、基序等的分析都表明植物DUR3具有比较高的保守性。植物DUR3多肽序列只有 SiDUR3 的等电点略低于7，为6.89，其他的等电点基本上都高于7，其中 SIDUR3的等电点最高，达到9，表明植物DUR3通常情况下属于碱性蛋白(表1)。植物DUR3都具有3个基序，这3个基序高度保守，而且在氨基酸序列的排布上也是高度一致的(图2和图3)。植物DUR3的跨膜结构域数量相同，都包含15个跨膜结构域，并且这些跨膜结构出现在氨基酸序列的位置也相似(表 2，图4)。陆地棉 GhDUR3.1和GhDUR3.2、雷蒙德氏棉GrDUR3都符合上面的共性。
+
+在进化关系上，不同物种DUR3 氨基酸序列进化树的结果表明，这些基因还是根据物种间种属亲缘关系的远近而进行了聚类，植物的聚集在一起，真菌的聚集在一起，软体动物的聚集在一起，藻类单独在一个分支，植物又根据单子叶植物纲和双子叶植物纲又分属各自的分支(图6)。棉花属于双子叶植物，所以它分在了双子叶植物的大分支上，其中棉花的3个DUR3亲缘关系最近聚在一个分支。
+
+DUR3直系同源基因和旁系同源基因的 $K _ { a } / K _ { s }$ 比值普遍均大于1(表3)，说明这些基因在进化过程中主要受到正向选择的作用。此外，植物DUR3的基因结构也具有一定的规律可以遵循，DUR3 基因的外显子个数的分析结果表明，双子叶植物的外显子个数普遍较多，单子叶植物的外显子个数普遍较少(表1，图5)，这也可以为研究植物DUR3基因的结构进化提供理论参考。
+
+参考文献:   
+BEIER MP,FUJITA T, SASAKI K, et al., 2019. The urea transporter DUR3 contributes to rice production under nitrogen-deficient and field conditions[J]. Physiol Plantarum,167(1): 75-89.   
+BOHNER A,KOJIMA S, HAJIREZAEI M, et al., 2015. Urea retranslocation from senescing Arabidopsis leaves is promoted by DUR3-mediated urea retrieval from leaf apoplast[J]. Plant J, 81(3): 377-387.   
+CAO FQ,LIU GW, WANG WH, et al., 2009. Molecular Processes of Urea Metabolism and Transport in Higher Plants[J].Chin Bull Bot,44(3):273-282.[曹凤秋,刘国伟,王伟红,等,2009.高等植物 尿素代谢及转运的分子机理[J],植物学报.44(3)：273-282.]   
+GROPPA MD, BENAVIDES MP, 2008. Polyamines and abiotic stress: recent advances[J]. Amino Acids, 34(1): 35-45.   
+HU B, JIN J, GUO AY, et al., 2015. GSDS 2.0: an upgraded gene feature visualization server[J]. Bioinformatics, 31(8): 1296-1297.   
+KOJIMA S, BOHNER A, GASSERTB, et al., 2007. AtDUR3 represents the major transporter for high-affinity urea transport across the plasma membrane of nitrogen-deficient Arabidopsis roots[J]. Plant J, 52(1): 30-40.   
+KOJIMA S, BOHNER A, NICOLAUS VON WIREN. 2006. Molecular Mechanisms of Urea Transport in Plants[J]. JMembrane Biol, 212(2): 83-91.   
+KUMAR R, CHADHA S, SARASWAT D, et al., 2011. Histatin 5 Uptake by Candida albicans Utilizes Polyamine Transporters Dur3 and Dur31 Proteins[J], JBiol Chem, 286(51): 43748-43758.   
+LI F,FAN G, WANG K, et al., 2014. Genome sequence of the cultivated cotton Gossypium arboreum[J]. Nat Genet, 46(6): 562-574.   
+LI F,FAN Z,LU C, et al., 2015. Genome sequence of cultivated Upland cottn (Gossypium hirsutum TM-1) provides insights into genome evolution[J]. Nat Biotechnol, 33(5): 524-530.   
+LIU GW, SUN AL,LI DQ, et al., 2015. Molecular identification and functional analysis of a maize(Zea mays) DUR3 homolog that transports urea with high affinity[J]. Planta,241(4): 861-874.   
+LIU LH,LUDEWIG U，WOLF B FROMMER, et al., 2003a. AtDUR3 Encodes a New Type of High-Affinity Urea $/ \mathrm { H } ^ { + }$ Symporter in Arabidopsis[J]. Plant Cell, 15(3): 790-800.   
+LIU LH,LUDEWIG U, GASSERT B, et al., 2003b. Urea Transport by Nitrogen-Regulated Tonoplast Intrinsic Proteins in Arabidopsis[J]. Plant Physiol, 133(3): 1220-1228.   
+MARSCHNER H, 1995. Mineral Nutrition of Higher Plants[M]. London: Academic Press, pp. 889   
+UEMURA T, KASHIWAGI K, IGARASHI K, 2006. Polyamine Uptake by DUR3 and SAM3 in Saccharomyces cerevisiae[J]. J Biol Chem, 282(10): 7733-7741.   
+WANG K, WANG Z,LI F, et al., 2012. The draft genome of a diploid cotton Gossypium raimondi[J]. Nat Genet, 44(10): 1098-1103.   
+WANG WH, KOHLER B, CAO FQ, et al., 2012. Rice DUR3 mediates high-affinity urea transport and plays an effective role in improvement of urea acquisition and utilization when expressed in Arabidopsis[J]. New Phytol, 193(2): 432-444.   
+ZAMIN L,TOMASI N, WIRDNAM C, et al.,2014. Isolation and functional characterization of a high affinity urea transporter from roots of Zea mays[J]. BMC Plant Biol, 14(1): 222.   
+ZHANG T, HU Y, JIANG W, et al., 2015. Sequencing of alltetraploid cotton (Gossypium hirsutum L. acc.TM-1) provides a resource for fiber improvement[J]. Nat Biotechnol, 33(5): 531-537.

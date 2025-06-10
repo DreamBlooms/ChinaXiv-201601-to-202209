@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "1 胃饥饿素：生物学特征及对动物采食量的调控",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 李振远 李方方 张勇朱宇旌\\*  \n3 （沈阳农业大学畜牧兽医学院，沈阳110866)  \n4 摘要：胃饥饿素又称作生长激素释放肽，最初是在大鼠的胃内被发现的，它是生长激素促  \n5 分泌素受体1A（GHSR-1A）的一种内源性配体。在下丘脑弓形核（ARC）及室旁核（PVN）  \n6 高度表达GHSR-1A 的区域，胃饥饿素结合GHSR-1A后，产生一系列生物学效应。本文综  \n7 述了胃饥饿素的生物学特征及功能、对动物采食量调控的机制、影响胃饥饿素基因表达调控的因素和反馈抑制以及前景展望。关键词：胃饥饿素；生长激素促分泌素受体1A；采食量；星形胶质细胞；刺鼠相关蛋白中图分类号：S852.2胃饥饿素（ghrelin）是生长激素促分泌激素受体1A（growth hormone secretagoguereceptor-1A，GHSR-1A）的一种内源性配体。作为一种含有28个氨基酸残基的新的肽类激素，它广泛存在于高度表达GHSR-1A 的各种组织中，作用于下丘脑弓形核（arcuate nucleus，ARC）及室旁核（paraventricular nucleus，PVN）等GHSR-1A 高度表达的脑域，并且结合GHSR-1A 后，产生一系列生理作用[1-2]。ghrelin 在体内主要有2 种存在形式，即辛酰基化ghrelin 和去辛酰基化ghrelin，且两者之间存在一定的竞争性作用[1]。本文将重点阐述 ghrelin的生物学特征、对动物采食量进行调控的生物学功能以及影响其基因表达的因素和反馈抑制几个方面。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1ghrelin的生物学特征及功能",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1基因结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ghrelin是一个含有28个氨基酸残基的哺乳动物多肽类激素，相对分子质量是3314,最初由日本科学家 Kojima 等[2]在人和大鼠的胃内黏膜上的内分泌细胞中发现的，它是GHSR-1A的一种内源性配体。完整的胃饥饿素前体蛋白含有117个氨基酸残基，氮端的前23 肽呈现出了分泌信号肽的特征，第23位丙氨酸（ $\\mathrm { A l a } ^ { 2 3 }$ ）-第24位甘氨酸（Gly24）为信号肽分裂位点，成熟的ghrelin从24肽开始，直接与信号肽连接，而最末端的2个残基第 27位脯氨酸（ $\\mathrm { P r } 0 ^ { 2 7 }$ ）-第28位精氨酸（ $\\mathrm { A r g ^ { 2 8 } }$ ）则属于加工信号。在体内，ghrelin 主要有2 种结构形式，即 ghrelinN端第3位氨基酸残基丝氨酸被脂肪酸修饰发生N-辛酰基化或不修饰[1-2]，发生N-辛酰基化对于ghrelin 生物活性的实现是至关重要的。另外，哺乳动物 ghrelin N端的前10个氨基酸是相同的，人体的前胃饥饿素原定位于染色体 3p26-p25,共有5199 bp,含3 个内含子和4个外显子。第1个外显子长 $5 5 4 ~ \\mathrm { b p }$ ，包括N端 446bp 的非翻译区和 ghrelinN 端前13个氨基酸残基信号序列的编码区。第2个外显子长117bp，其N端45bp 为编码剩余的15个氨基酸残基的信号序列[3]。下面是几种哺乳动物的氨基酸序列比较，从比较可以看出，物种间的氨基酸序列同源性非常高，比如人和大鼠、小鼠之间，只在第11位氨基酸和第12位氨基酸有所不同，人分别为精氨酸（Arg）和缬氨酸（Val），大鼠分别为赖氨酸（Lys）和丙氨酸（Ala），小鼠分别为Lys 和Ala，有2个氨基酸的差异（图1）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human GSSFLSPEHCRVOORKESKKPPAKLQPR Monkey GSSFLSPEHORAOQRKESKKPPAKLQPR Mouse GSSFLSPEHCKAQQRKESKKPPAKLQPR Rat GSSFLSPEHQKAQQRKESKKPPAKLQPR Monglian Gerbi1 GSSFLSPEHQKTQQRKESKKPPAKLQPR Porcine GSSFLSPEHQKVQQRKESKKPAAKLKPR Bovine GSSFLSPEHQKLQ-RKEAKKPSGRLKPR SheeP GSSFLSPEHQKLQ-RKEPKKPSGRLKPR Dog GSSFLSPEHQKLOQRKESKKPPAKLQPR 排版替换 Human：人类；Monkey：猴子；Mouse：小白鼠；Rat：大白鼠；Monglian Gerbil:沙鼠；Porcine：猪 科动物；Bovine：牛科动物；Sheep：羊科动物；Dog：犬科动物。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 分布与表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在空腹的时候，ghrelin 可由胃底黏膜分泌的封闭型的X/A 样细胞、下丘脑的神经细胞和其他的一些组织分泌。由于ghrelin 受体可以在很多组织中都被表达，所以 ghrelin 广泛存在于不同的组织中，包括脑垂体、胃、肠、胰腺、胸腺、性腺、甲状腺和心脏等。此外，在下丘脑 ARC、腹内侧核（ventromedial nucleus,VMN）、PVN、下视丘侧区（lateral hypothalamus,LH）、中脑腹侧被盖区（ventral tegmental area，VTA）和其他的中脑缘路径中心以及背部迷走神经丛的孤束核（nucleus of the solitary tract，NTS）、背部运动核（dorsal motor nucleus,DMN）和最后区（area postrema，AP）也发现了ghrelin[4]。另外，在唾液中也检测到了ghrelin的存在，这也说明了ghrelin 具有各种不同的生物学功能。值得注意的是，曾经有人报道原本只能在动物体内找到的ghrelin 在植物中也被检测到了[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 生物学功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于 ghrelin广泛存在于各种不同组织中，所以具有不同的生物学功能。根据目前研究发现，主要有以下几种主要的生物学功能：有研究显示，ghrelin 能够通过降低下丘脑-腺垂体-甲状腺轴的活性，来抑制三碘甲状腺原氨酸（triiodothyronine, ${ \\mathrm { T } } _ { 3 }$ )和甲状腺激素（thyroxine,T4）的分泌和刺激促肾上腺皮质激素的分泌并降低能量消耗[；GHSR-1A 作为一种在大脑中高度表达的G蛋白耦联受体，可通过与ghrelin 结合后，来促进生长激素（growth hormone,GH）的释放；ghrelin 还可以增强胃动素和胃泌素的功能，通过调节胃酸及消化酶的分泌，增强胃肠蠕动等，来增加胃排空的速率，增加体重[7]；最重要的是，ghrelin 能通过作用于下丘脑的 ARC 和 PVN 内的一些神经元，来促进动物的食欲，调控动物的采食量，这个也是本文重点阐述的生物学功能（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2ghrelin对动物采食量调控的机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动物生产性能能否充分发挥，采食量是其决定因素之一，这也直接影响到了遗传潜力的发挥。因此，通过营养因素来调控动物的采食量将是非常有意义的一项研究。有研究显示，在动物采食量的调控中，中枢神经系统（central nervous system，CNS）是采食量调节的关键，而下丘脑是中枢神经系统调节采食量发挥实质功能的部位。复杂的食物信号在中枢神经系统内进行进一步的整合与加工，引起与采食量相关的中枢兴奋，如下丘脑，从而影响动物的食欲，调节采食量[8]。此外，一些脑肠肽也可以通过影响胃排空速率，来调节采食量。近些年发现的具有上述功能的脑肠肽主要有：ghrelin、胆囊收缩素（cholecystokinin，CCK）、胰多肽（pancreatic polypeptide，PP）及肽YY（peptideYY，PYY）等[9]。下面将分2节对采食量的调控机制进行阐述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 调控动物采食量的通路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在下丘脑内侧基底部有一个中心，这个中心聚集了由 ARC 形成的黑皮质素（melanocortin）环路，而ghrelin对动物采食量的调控主要发生在下丘脑的ARC。在ARC内存在2种传感外周代谢信号的调控采食量主要神经元，一种神经元可以分泌刺鼠相关蛋白（agouti-related protein，AgRP）和神经肽Y（neuropeptide Y，NPY），ghrelin 正是利用这个通路来促进食欲，提高动物的采食量[10-11]。另一种神经元可以分泌阿黑皮素原（pro-opiomelanocortin,POMC）,并经加工最终合成黑皮质素 4受体(melanocortin-4 receptor,MC4R）或 $\\mathbf {  { a } }$ 黑素细胞刺激激素（ $\\mathfrak { a }$ -melanocyte-stimulating hormone，αMSH），可以降低动物的采食量，与ghrelin 表现出拮抗作用（图3）[12-14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "排版替换 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Influence on food intake,sleep and behavior：对采食、睡眠和行为的影响；Stimulation of GH,ACTH and ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PRL：对生长激素、促肾上腺皮质激素和催乳素的刺激；Influence on gastric acid secretion and motility：对 胃酸分泌和胃蠕动的影响；Influence on exocrine and endocrine pancreatic function：对兼具外分泌功能和内分 泌功能的胰腺的影响;Influence on glucose metabolism:对葡萄糖代谢的影响;Influence on energy metabolism: 对能量代谢的影响；Influence on cardiac performances and vascular resistances：对心脏性能和血管阻力的影 响；Modulation of cell proliferation and survival：对细胞增殖和存活的调整。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac9ff5817a3c08f513cab862b8461b81ecd6a040c6d1b1de72c32427cd96b52c.jpg",
+        "img_caption": [
+            "图2胃饥饿素的生物学效应",
+            "Fig.2Biological fuctions of ghrelin[7] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ghrelin 促进食欲的作用能够被脂肪组织产生的瘦素（leptin）所抑制，而且我们在 NPY和AgRP 的神经元中也发现了leptin表达的受体，这说明 ghrelin与leptin可能共同作用于",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NPY 和AgRP的神经元系统来调节动物的采食，可以看出二者之间也有一定的拮抗作用[15-16]。在动物正常空腹的状态下，血浆中存在的 ghrelin 含量就足以刺激动物的食欲，而无论在中枢还是外周提高 ghrelin 含量都可促使动物发生采食行为[17]。去酰基化 ghrelin（des-acylghrelin）是 ghrelin 在体内存在的另一种形式，其活性远远低于 ghrelin。Asakawa 等[18]研究发现，Des-acyl ghrelin 通过作用下丘脑的 ARC 及PVN，减缓了胃排空的速率，导致动物食欲下降，降低了动物的采食量，与ghrelin形成拮抗作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/40c4028a4345b461ab879b0b8a855c8ba423ed440eb95ec3b67ee45f0f10c6bd.jpg",
+        "img_caption": [
+            "图3外周信号刺激中枢神经系统引起的采食量调控机制",
+            "Fig.3Modulation mechanism of CNS for feed intake by stimulation of peripheral signal[12-14] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2AgRP神经元调控动物采食量的机制",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ghrelin 对动物采食量调控的主要途径之一就是通过 AgRP神经元实现的。Nathan 等[19]和 Yang 等[20]在最近的研究中发现，在AgRP神经元调节食欲的过程中，有一个因素发挥着至关重要的作用：星形胶质细胞。星形胶质细胞是一种非神经性的细胞，属于神经胶质细胞中的一种。传统观点认为，神经胶质细胞的主要作用就是为神经元细胞的正常功能维持一个健康的微环境，但是目前研究学者发现，星形胶质细胞已经成为一种有特殊意义的谷氨酸能细胞型，在能量稳态的调节方面有着很活跃的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胶质传感器通过激活星形胶质细胞，发生反应性胶质化去调节所控制的AgRP神经元，通过腺苷酸（adenosine monophosphate，AMP）依赖式的胶质传输去刺激 AgRP 的突触活力，导致其调节血脑屏障（brain-blood barrier，BBB）的作用有所改变，增大了BBB 对 ghrelin 的渗透率，因此活化了促进食欲激素的应答，这是调控采食的主要原因[21]。胶质传输过程中，星形胶质细胞释放三磷酸腺苷（adenosine triphosphate，ATP），这能够通过外核苷酸酶作用使其迅速的转变成AMP，然后通过一种G蛋白耦联受体腺苷酸A1受体去调节突触传递（图4）。Nathan 等[19]和 Yang 等[20]用化学遗传学上的设计药物激活专门受体（DREADD）技术对小鼠实施氯氮平-N-氧化物（CNO）来活化ARC内的星形胶质细胞，导致了AgRP神经元的动作电位发放率的下降，使其产生活化型的DREADD受体hM3Dq，结果很明显地减少了小鼠采食量并且钝化了对 ghrelin 的应答而加强了诱导厌食的 leptin 的应答。然而当小鼠将受体转换成抑制型的DREADD 受体 hM4Di时，则产生了完全相反的应答。然后又在小鼠ARC 内注射 8-环戊-1,3-二丙基嘌呤（DPCPX），一种选择性的腺苷酸 A1受体抑制剂，发现 DPCPX可以极大提高并延长了ghrelin 诱导的采食行为，增强了后期快速的再摄食，并短暂增加了采食量，更重要的是，ARC 内的 DPCPX完全取消了之前被给予CNO 的 hM3DqDREADD 小鼠所发生采食抑制，使 AgRP 神经元上的动作电位发生率扭转。这也说明了ghrelin 对动物采食量的调控只是一种短暂、快速、临时性的调节[22]。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1246de7221b0c1fd43f17428f278a58cf37921e4807dc753591829f68e4943b5.jpg",
+        "img_caption": [
+            "图4刺鼠相关蛋白神经元对动物摄食的调控机制",
+            "Fig.4The modulation mechanism ofAgRP neurons on feed intake "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3ghrelin基因表达的调控 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "动物采食量的调控是一个极其复杂的过程，受神经、体液、激素等很多因素的影响。而近年来发现，动物采食过程中摄入体内的营养水平在影响动物采食量的众多因素中有着非常重要的地位[22]。一般情况下，肽类激素不能够自由的进入脑内，但是 BBB 有特殊的转运机制被用来使一些特别的多肽可以成功的通过这个不可渗透的障碍，从而进入大脑[23]。机体内的一些营养物质不仅可以通过脑肠肽的合成与分泌来调节采食量，而且也可以通过机体内的血液循环运输至中枢神经系统，穿过BBB 来影响中枢调节采食，如葡萄糖、氨基酸及游离脂肪酸等，这些营养物质都可以通过影响细胞内AMP 激活的蛋白激酶（protein kinase，PK）途径来调控动物的采食量[24]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1γ-氨基丁酸（gamma-aminobutyric acid，GABA）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GABA 是动物大脑内一种主要的抑制性神经递质，作为一种安全、低毒性的饲料添加剂，早已被广泛应用于动物饲料添加剂中，其主要作用包括提高采食量、缓解热应激、调节免疫系统等，从而提高动物的生产性能[25]。GABA 能的突触是神经元之间协调活动的关键，而且GABA对神经元的刺激作用会优先于大脑内多数正常的生理过程[26]。Gaston 等[27]研究发现，在动物饲粮中添加一定量的GABA，可以刺激动物下丘脑ARC 内GABA 突触前神经元的活性，通过一系列生理过程，导致 ghrelin 基因的mRNA表达量显著提高，从而促进动物摄食。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 谷氨酸盐 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "谷氨酸是CNS 中含量最高的一种兴奋性氨基酸神经递质，在食品加工行业，作为调味剂被广泛应用于食品中和动物的饲粮中。根据资料显示，AgRP神经元的调节很明显地依赖于谷氨酸能的输入信号[27]。Lee 等[28]研究发现，动物摄入一定量的谷氨酸盐后，会使星形胶质细胞形态发生变化，产生一系列生物学效应,致使ghrelin基因的mRNA表达量有所提高，增加采食量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 能量水平",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chowdhury 等[29]研究发现，碳水化合物可以增加动物机体中的一些能产生饱腹感的厌食激素，如leptin。而动物体内的碳水化合物含量过高时，会抑制 AgRP神经元的活性，突触传递减弱，最终导致ghrelin 基因的mRNA表达下调，抑制采食。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4矿物质和维生素",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Amini 等[30]通过试验发现，动物体内摄入的钙离子等与分泌的ghrelin含量在一定程度上呈线性正相关。动物体内钙离子含量增加时，会提高AgRP 神经元突触的动作电位发放率，导致 ghrelin 基因的mRNA表达量升高。另外，Wang 等[31]研究发现，动物摄入体内的维生素 ${ \\bf D } _ { 3 }$ 可以增加机体钙化程度，钙离子含量增加，从而促进ghrelin 基因的mRNA表达上调，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "刺激动物摄食。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4ghrelin的反馈抑制",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Koutkia等[32]通过大量试验研究后，在对ghrelin作关联性分析中发现，内源性的 ghrelin的分泌状况与体内GH的含量变化互为倒数关系，呈负相关。当动物体内的能量水平过高时，会抑制ghrelin 基因的mRNA表达；当机体内的能量水平下降时，ghrelin 基因的 mRNA 表达有所上调；但是当体内的能量水平骤然不足时，ghrelin 基因的 mRNA 表达量并没有显著提高，而是出现了反馈抑制，这也从生理角度相对减轻了机体的饥饿感，同时，体内的GH含量明显增加。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "动物的生长和生产都离不开采食，而采食作为动物维持生命需要的基本活动，与动物体内分泌的 ghrelin 是密切相关的。ghrelin 通过下丘脑ARC 内的AgRP神经元和星形胶质细胞等产生一系列生理作用，最终促进采食。动物采食量的提高一直以来都是动物生产中倍受重视的问题，而随着对 ghrelin 的结构功能、作用机理和表达调控等方面的深入研究，使我们去重新思考提高动物采食量的措施以及如何更有效地去提高动物的增重速率和生产性能。ghrelin 的发现为提高动物的采食量提供了更广阔的应用措施，但由于对 ghrelin 的研究才起步不久，有关 ghrelin 的许多研究还需要进一步的开展。例如，如何开发更安全有效的ghrelin生物制品来提高动物采食量，促进动物生长以及ghrelin饲料添加剂的开发和利用等。尽管有关ghrelin的一些特殊的作用机制还不是很明确，但是可以看出，ghrelin 在动物采食量调控方面有着广泛的应用前景。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]AYDIN S,GECKIL H,ZENGIN F,et al.Ghrelin in plants:what is the function of an appetite hormone in plants?[J].Peptides,2006,27(7):1597-1602.   \n[2] KOJIMA M,HOSODA H,DATE Y,et al.Ghrelin is a growth-hormone-releasing acylated peptide from stomach[J].Nature,1999,402(6762):656-660.   \n[3] ARARAT M A,OTTO B,ROCHLITZ H,et al.Glucagon inhibits ghrelin secretion in humans[J].European Journal of Endocrinology,2005,153(3):397-402.   \n[4] KELLEY A E,BALDO B A,PRATT W E,et al.Corticostriatal-hypothalamic circuitry and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "food motivation:integration of energy,action and reward[J].Physiology & Behavi0r,2005,86(5):773-795. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[5] BROGLIO F,GOTTERO C,ARVAT E,et al.Endocrine and non-endocrine actions of ghrelin[J].Hormone Research,2003,59(3):109-117.   \n[6] VAN DER LELY AJ,TSCHOP M,HEIMAN M L,et al.Biological,physiological,pathophysiological,and pharmacological aspects of ghrelin[J].Endocrine Reviews,2004,25(3):426-457.   \n[7]GNANAPAVAN S,KOLA B,BUSTIN S A,et al.The tissue distribution of the mRNA of ghrelin and subtypes of itsreceptor,GHS-R,in humans[J].The Journal of Clinical Endocrinology & Metabolism,2002,87(6):2988.   \n[8]MORTON G J,CUMMINGS D E,BASKIN D G,et al.Central nervous system control of food intake and body weight[J].Nature,2006,443(7109):289-295.   \n[9]CUMMINGS D E,OVERDUIN J.Gastrointestinal regulation of food intake[J].Journal of Clinical Investigation,2007,117(1):13-23.   \n[10]KOBELT P,WISSER A S,STENGEL A,et al.Peripheral injection of ghrelin induces Fos expressioninthedorsomedialhypothalamicnucleusinrats[J/OL].Brain Research,2008,1204:77-86,doi:10.1016/j.brainres.2008.01.054.   \n[11]LUQUET S,PEREZ F A,HNASKO T S,et al.NPY/AgRP neurons are essential for feeding in adult mice but can be ablated in neonates[J].Science,2005,310(5748):683-685.   \n[12] CONE R D.Anatomy and regulation of the central melanocortin system[J].Nature Neuroscience,2005,8(5):571-578.   \n[13]LENARD N R,BERTHOUD H.Central and peripheral regulation of food intake and physical activity:pathways and genes[J/OL].Obesity,2008,16(Suppl.3):S11- S22,doi:10.1038/oby.2008.511.   \n[14]PORTE D,Jr,BASKIN D G,SCHWARTZ M W.Leptin and insulin action in the central nervous system[J].Nutrition Reviews,2002,60(Suppl.10):S20-S29.   \n[15]TOSHINAI K,YAMAGUCHI H,SUN Y X,et al.Des-acyl ghrelin induces food intake by a mechanism independentofthegrowth hormone secretagogue receptor[J].Endocrinology,2006,147(5):2306-2314.   \n[16]NAKAZATO M,MURAKAMI N,DATE Y,et al.A role for ghrelin in the central regulation of feeding[J].Nature,2001,409(6817):194-198.   \n[17]SATO T,KUROKAWA M,NAKASHIMA Y,et al.Ghrelin deficiency does not influence feeding performance[J].Regulatory Peptides,2008,145(1/2/3):7-11.   \n[18]ASAKAWA A,INUI A,FUJIMIYA M,et al.Stomach regulates energy balance via acylated ghrelin and desacyl ghrelin[J].Gut Pathog,2005,54(1):18-24.   \n[19]NATHAN C,BINGHAM,ROGER D,et al.Regulation of orexigenic AgRP neurons:a third way?[J/OL].TrendsinEndocrinology & Metabolism,2015,26(7):339- 340,doi:10.1016/j.tem.2015.05.008.   \n[20]YANG L,YONG Q,YANG Y L.Astrocytes control food intake by inhibiting AGRP neuron activity via adenosine $\\mathbf { A } _ { 1 }$ receptors[J].CellReports,2015,11(5):798-807.   \n[21]WANG Y P,HSUCHOU H,HE Y,et al.Role of astrocytes in leptin signaling[J/OL].Journal of Molecular Neuroscience,2015,56(4):829-839,http://dx.doi.org/10.1007/s12031-015-0518-5   \n[22]WOODS S C,SEELEY R J,COTA D.Regulation of food intake through hypothalamic signaling networks involving mTOR[J].Annual Reviews of Nutrition,2008,28:295-311.   \n[23] KAMEGAI J,TAMURA H,SHIMIZU T,et al.Central effect of ghrelin,an endogenous growth hormone secretagogue,on hypothalamic peptide gene expression[J].Endocrinology,2000,141(12):4797-4800.   \n[24]SHIYA T,NAKAZATO M,MIZUTA M,et al.Plasma ghrelin levels in lean and obese humans and the effect of glucose on ghrelin secretion[J].The Journal of Clinical Endocrinology & Metabolism,2002,87(1):240-244.   \n[25]HAAM J,HALMOS K C,DI S,et al.Nutritional state-dependent ghrelin activation of vasopressin neurons via retrograde trans-neuronal-glial stimulation of excitatory GABA circuits[J].Journal of Neuroscience,2014,34(18):6201-6213.   \n[26]DELGADO T C.Glutamate and GABA in appetite regulation[J].Frontiers in Endocrinology ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(Lausanne),2013,4:103. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27]GASTON M S,SCHIOTH H B,DE BARIOGLIO S R,et al.Gabaergic control of anxiety-like behavior,but not food intake,induced by ghrelin in the intermediate medial mesopallium of the neonatal chick[J].Hormones and Behavior,2O15,67:66-72. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28] LEE S,KIM Y,LI E,et al.Ghrelin protects spinal cord motoneurons against chronic glutamate excitotoxicity by inhibiting microglial activation[J].Korean Journal of Physiology and Pharmacology,2012,16(1):43-48. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29]CHOWDHURY E A,RICHARDSON JD,TSINTZAS K,et al.Carbohydrate-rich breakfast attenuates glycaemic,insulinaemic and ghrelin response to ad libitum lunch relative to morning fasting in lean adults[J].British Journal of Nutrition,2015,114(1):98-107. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30]AMINI P,CAHILL F,WADDEN D,et al.Beneficial association of serum ghrelin and peptide YY with bone mineral density in the newfoundland population[J].Biomed Central Endocrine Disorders,2013,13:35. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31]WANG F,JIANG T,TANG C,et al.Ghrelin reduces rat myocardial calcification induced by nicotine and vitamin （204号 ${ \\bf D } _ { 3 }$ （2 in vivo[J].InternationalJournal ofMolecular Medicine,2011,28(4):513-519. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32]KOUTKIA P,SCHURGIN S,BERRY J,et al.Reciprocal changes in endogenous ghrelin and growth hormone during fasting in healthywomen[J].AmericanJournal of Physiology-Endocrinology and Metabolism,2005,289(5):E814-E822. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ghrelin: Biological Characteristics and Modulation of Feed Intake LI Zhenyuan LI Fangfang ZHANG Yong ZHU Yujing\\* ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(College of Veterinary and Animal Science,Shenyang Agricultural University,Shenyang,110866, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ghrelin, also known as growth hormone releasing peptide, is originally discovered in the stomach of rats,and it is an endogenous ligand of growth hormone secretagogue receptor-1A (GHSR-1A). In the hypothalamic arcuate nucleus (ARC) and paraventricular nucleus(PVN), ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GHSR-1A is highly expressed.In these areas, ghrelin has a series of biological effects after combining GHSR-1A. This paper reviewed biological characteristics and functions, the regulation mechanism on animal feed intake,factors influencing gene expression and modulation, feedback inhibition of ghrelin,and gave outlooks for researches into ghrelin in the future. Key words: ghrelin; growth hormone secretagogue receptor-1A; feed intake; astrocyte; agouti-related protein ",
+        "page_idx": 12
+    }
+]

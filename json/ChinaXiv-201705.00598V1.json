@@ -1,0 +1,365 @@
+[
+    {
+        "type": "text",
+        "text": "Simple and Green Fabrication of a Superhydrophobic Surface by One-Step Immersion for Continuous Oil/Water Separation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jingfang Zhu, BinLiu Longyang Li\\* Zhixiang Zeng,\\*‡ Wenjie Zhao\\*‡ Gang Wang and Xiaoyan Guan\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+School of Materials Science and Enginering, North Universityof China,Taiyuan O30o51,People'sRepublicof China #Key Laboratory of Marine Materials and Related Technologies, Zhejiang Key Laboratoryof Marine Materialsand Protective Technologies,Ningbo Instituteof Materials TechnologyandEnginering,Chinese AcademyofSciences,Ningbo315201, People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: In this paper， stainless steel meshes with superhydrophobic and superoleophilic surfaceswere fabricated by rapid and simple one-step immersion in a solution containing hydrochloric acid and stearic acid. The apparent contact angles were tested by a video contact angle measurement system (CA). Field emission scanning electron microscopy (FE-SEM), Fourier transform infrared spectroscopy (FTIR)， and X-ray photoelectron spectroscopy (XPS) were conducted to characterize the surface topographies and chemical compositions. The SEM results showed that mesh surfaces were covered by ferric stearate $\\left( \\mathrm { F e } [ \\mathrm { C H } _ { 3 } ( \\mathrm { C H } _ { 2 } ) _ { 1 6 } \\mathrm { C O O } ] _ { 2 } \\right)$ with low surface energy. The CA test results showed that the mesh had a maximum apparent contact angle of $1 6 0 \\pm 1 . 0 ^ { \\circ }$ and a sliding angle of less than $5 . 0 ^ { \\circ }$ for the water droplet, whereas the apparent contact angle for the oil droplet was zero. Ultrasound oscillation and exposure tests at atmospheric conditions and immersion tests in 3.5 wt $\\%$ NaCl aqueous solution were conducted to confirm the mesh with excellent superhydrophobicandsuperoleophilic properties.Onthebasis of thesuperhydrophobic mesh,aminiatureseparation devicepump was designed tocolect pureoilfrom theoil/water mixture.It showed thatthe device was easierandconvenient. The techniques and materials presented in this work are promising for application to wastewater and oil spil treatment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/04e2707505976cb12aed5220a806e8c608365fa46f0779752727b9787c5c1b6f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the development of industry, humans confront increasing issues about crude oil leakage accidents， industrial sewage discharge,and oily water.1-3 According to statistics, millions of tons of crude oil and refined oil leak into the sea every year,4 which has caused severe damage to the marine ecosystem. Furthermore, the oil also causes serious harm to human health through the food chain，indirectly.5-7 Hence，effective treatment of oily water has become a hotspot in the research field of environmental protection.8,9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Traditionally,oily water treatment techniques include dissolved air flotation, centrifugation methods,absorbents,chemical dispersants， adsorption bioremediation， gravity separation, solidifersiniadsotetece still show some limitations in practical application， such as low efficiency, being time-consuming,allowing for recontamination, and having high operation costs.15 Therefore, researchers have paid more attention to the development of superhydrophobic materials for the treatment of oily water due to their highly efficient and environmental benefits. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently，materials with superhydrophobicity and superoleophilicity8 '8,16,17hvebeeninvestigatedforighlyeective oil/water_separation, including textiles,18 metal foam,19 graphene sponges,20 polymer and carbon nanotube sponges,20 polyurethane sponges,21celllosees2esongesang ofDporousateweresel concentrated on the oil absorption capacity and disregarded the complex preparation procedure and the inconvenience in application.For example，the synthesis process was timeconsuming,and the oil recovery processes often needed dreary mechanical squeezing or distillation,which caused recontamination and high cost. For example,various coated meshes of the biomimetic materials were reported by a number of scientists. Grynyov et al. fabricated omniphobic metallic surfaces by immersing the mesh in a $9 7 \\%$ perfluorononanoic acid solution. The omniphobic stainless steel surfaces were covered by the hierarchical micro- and submicro-scaled relief and showed excellent water and oil repellence.3² Darmanin et al. fabricated superoleophobic surfaces on the stainless steel mesh by electrodeposition of conducting polymer containing short perfluorobutyl chains.The best oleophobicity $( \\theta _ { \\mathrm { { s u n f l o w e r } } } \\mathrm { { \\ o i l } } = 1 5 0 ^ { \\circ }$ and $\\theta _ { \\mathrm { h e x a d e c a n e } } ~ = ~ 1 3 6 ^ { \\circ } )$ property was obtained.33 These materials exhibit high performance for separation of oil/water. Bormashenko et al. fabricated microscaled porous metallic polymer meshes with the breath-figures self-assembly and designed a novel device to collect and recycle oil without any mechanical squeezing. 34 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper， stainless steel meshes with superhydrophobic and superoleophilic surfaces were synthesized only by immersing into an ethanol solution including HCl and stearic acid. This preparation process is convenient,fast, low-cost,and green,and the obtained materials have promising application for oily water treatment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTALMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials.Reagents were purchased from Aladdin Reagent.The (304) stainless steel mesh samples with an average pore diameter of approximately $1 0 0 \\ \\mu \\mathrm { { m } }$ were used as substrates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Sample Preparation.The detailed fabrication process can be described as follows.The stainless steel mesh substrates were cleaned by water and then successively ultrasonically washed in a hydrochloric acid $\\left( 2 \\mathrm { m o l / L } \\right)$ solution ( $( 1 0 \\ \\mathrm { m i n } )$ = acetone $( 5 ~ \\mathrm { m i n } )$ ，ethanol ( $( 2 \\mathrm { m i n } )$ ,anddeionized(DI) water in order to remove oxidizing material，organic compounds,oil, and other remnant dirt.Finally, the mesh was immersed into ethanol solution containing HCl with the concentration varying from 1 to $8 \\ \\mathrm { m o l / L }$ and stearic acid $\\mathrm { C H } _ { 3 } ( \\mathrm { C H } _ { 2 } ) _ { 1 6 } \\mathrm { C O O H }$ with the concentration varying from 0.01 to $0 . 0 8 \\mathrm { m o l / L } ,$ for different times and temperatures.Figure 1 shows the fabrication process of superhydrophobic stainless steel mesh and the sketch of oil/ water separation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d44b4a7d93e6ea16e782860ae96f0f48c8134e3f7c5d925876922f3afc107b5.jpg",
+        "img_caption": [
+            "Figure 1.Schematic of the fabrication process of superhydrophobic stainless steel mesh and application to oil/water separation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Sample Characterization.FE-SEM(FEI Quanta 250 FEG,U.S.A.) was used to characterize the surface topographies of samples.A viewgraph model with an oblique angle of $4 5 ^ { \\circ }$ was used for all measurements.The chemical compositions of the mesh surfaces were examined by Fourier transform infrared spectroscopy (FTIR)，and X-ray photoelectron spectroscopy (XPS).The samples with hydrophobicity and lipophilicity were measured by a video contact angle measurement system (OCA20,Germany）with a water droplet $( 5 . 0 ~ \\mu \\mathrm { L } )$ and oil droplet $( 5 . 0 ~ \\mu \\mathrm { L } )$ ，respectively. The apparent contact angle of every mesh sample was measured at least five times,and the obtained average value was used for subsequent data analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Surface Morphology.Figure 2 shows the SEM images of the original stainless steel mesh surface and stainless steel mesh treated with immersion in an ethanol solution with $4 \\mathrm { m o l / L }$ HCl and $0 . 0 6 ~ \\mathrm { m o l / L }$ stearic acid,at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 ~ \\mathrm { { m i n } }$ For the original stainless steel meshes，the surface was very smooth and clear,as shown in Figure 2a. Figure $2 \\mathsf { b } { - } \\mathsf { d }$ shows the surface structures of stainless steel meshes with different magnifications after immersion.It can be seen that the stainless steel mesh surface had uniform nanostructures,as shown in Figure $^ { 2 \\mathrm { b } , \\mathrm { c } }$ In the image with greater magnification (Figure 2d), it seems that the surface was covered by some thin films. The stainless steel samples were etched bychlorine ionsand were chemically modified with stearic acid simultaneously,so as to produce the film-covered nanostructure.35 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b75e6272c5609b9070036044dca61f1f8f0a9c38348fbf6619c0363fc591885.jpg",
+        "img_caption": [
+            "Figure 2.SEM images of theoriginal stainlesstel mesh (a)and the obtained mesh with diferent magnifications $( { \\mathsf { b } } { - } { \\mathsf { d } } )$ . Scale bars: (a,b) 100, (c) 10,and (d) $1 \\mu \\mathrm m$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to confirm the composition of the films,FTIR and XPS were conducted.Figure 3 shows the comparison of FTIR spectra between stearic acid and the film on mesh.Curve a in Figure 3 shows FTIR spectra of stearic acid. The adsorption peaks at about 2919 and $2 8 4 8 ~ \\mathrm { { c m } ^ { - 1 } }$ in the high-frequency region are attributed to $- \\mathrm { C H } _ { 2 } -$ band asymmetric and symmetricstretchingvibatios,especiely37Ithelowfrc region, the peak at $1 7 0 1 ~ \\mathrm { c m } ^ { - 1 }$ is attributed to $- \\mathrm { C O O H }$ from stearic acid.In comparison， from curve b in Figure 3,it can be found that a new adsorption peak appears at $\\mathsf { \\check { 1 } 5 8 6 . 4 3 ~ c m ^ { - 1 } }$ in the spectrum of the films,while the free -COOH band of stearic acid at $1 7 0 1 ~ \\mathrm { { c m } ^ { - 1 } }$ disappears.The new adsorption peak maybe attributed to asymmetric and symmetric stretches of the $- \\mathrm { C O O - }$ group. The above analyses show that the stainless steel mesh reacted with stearic acid to form ferric stearate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/49ec161accdfbbeda68b53478e8170c9ba0bdfc75cb14933452b4920caa587fa.jpg",
+        "img_caption": [
+            "Figure 3.FTIR spectra of stearic acid powder(curve a)and thin films on the mesh surface (curve b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XPS was conducted to further confirm the chemical state of the film on the mesh surface.As shown in Figure $\\mathsf { 4 a } _ { \\ell }$ ，the compositions of the mesh film included Fe,C,and O.Figure 4b shows the XPS spectra of Fe 2p.The peaks at binding energies (BE) of 724.6 and $7 1 0 . 8 ~ \\mathrm { e V }$ are attributed to the Fe $2 \\mathrm { p } _ { 1 / 2 }$ and Fe $2 \\mathrm { p } _ { 3 / 2 }$ of iron compounds,respectively. In Figure 4c, the sharp C 1s peak displays a symmetric spectrum with a weaker intensity shoulder in the higherBE region.The peak at $2 8 4 . 7 \\ \\mathrm { e V }$ is attributed to alkyl chain carbon $( \\mathrm { C } \\mathrm { - } \\mathrm { C } ) .$ ，and the peak at $2 8 8 . 6 ~ \\mathrm { e V }$ is assigned to the carboxyl group (COOH). Figure 4d shows the BE of a single and symmetric O1s peak at $5 3 2 . 3 \\ \\mathrm { e V } ,$ （2号 revealing the presence of two comparable symmetric O atoms in the carboxylate $\\left( \\mathrm { C O O - } \\right)$ group that originated from charge scattering of the carboxylate anion.38 The above analyses indicate that the immersion process generated ferric stearate on the mesh surface. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The formation mechanism of film-covered nanostructures could be expressed as the following reactions: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F e } + 2 \\mathrm { H C l }  \\mathrm { F e C l } _ { 2 } + \\mathrm { H } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F e } ^ { 2 + } + 2 \\mathrm { C H } _ { 3 } ( \\mathrm { C H } _ { 2 } ) _ { 1 6 } \\mathrm { C O O } ^ { - }  \\mathrm { F e } [ \\mathrm { C H } _ { 3 } ( \\mathrm { C H } _ { 2 } ) _ { 1 6 } \\mathrm { C O O } ] _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Influence Factors of Super-Hydrophobicity.The effects of concentration， time，and temperature on superhydrophobicity were studied.Figure Sa shows the effect of the stearic acid solution on the apparent contact angle.When the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/79ab26cd496526cb2ec014cd20c19163e03d331fecdaa33961d6c34d81fe13ce.jpg",
+        "img_caption": [
+            "Figure4.XPSspectraofflmsonstainlessteelmeshafterimmersion.Surveyscanspectra (a)andhigh-resolution XPSspectraofFe2p (b), C 1s $( \\mathrm { c } ) _ { \\mathrm { \\cdot } }$ and O 1s (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc26d1ea0c65dbf7fb4727e12357bb58b2de622e5edba599a9fab7a40d9b9065.jpg",
+        "img_caption": [
+            "FigureS.Apparetactgtioigofarccidtca),Cocatb), temperatue(d.fptactgegacgedtacet The mesh sliding angle depending on the droplet volume (f). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HCl concentration was kept at $\\mathrm { 4 ~ m o l / L , }$ the apparent contact angles increased from $1 4 3 \\pm 1 . 0$ to $1 6 0 \\pm 1 . 0 ^ { \\circ }$ with increasing concentrations of stearic acid in the range from O.01 to $0 . 0 6 ~ \\mathrm { \\ m o l / L }$ . However， the apparent contact angles began to decrease when the stearic acid concentrations continued to increase,at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 ~ \\mathrm { m i n }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure $5 \\mathrm { b }$ shows the effect of HCl solution on the apparent contact angles.When the stearic acid concentration was kept to $0 . 0 6 \\mathrm { \\ m o l / L } ,$ the apparent contact angles increased from $1 4 5 \\pm 1 . 0$ to $1 6 0 \\pm 1 . 0 ^ { \\circ }$ with increasing concentrations of HCl in the range from 1 to $4 \\mathrm { m o l / L }$ .However, the apparent contact angles began to decrease to $1 4 9 \\pm 1 . 0 ^ { \\circ }$ when the HCl concentrations continued to increase,at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $6 0 ~ \\mathrm { m i n }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure Sc shows the influence of immersion time on the apparent contact angle when the conditions were kept at $0 . { \\bar { 0 6 } } \\ \\mathrm { m o l / L }$ stearic acid, $4 \\ \\mathrm { m o l / L }$ HCl,and $8 0 ~ ^ { \\circ } \\mathrm { C } .$ 、It can be seen that when the time was prolonged from 20 to $6 0 ~ \\mathrm { { m i n } } ,$ the apparent contactanglesincreasedfrom $1 4 5 \\pm 0 . 7$ to $1 6 0 \\pm 1 . 0 ^ { \\circ }$ As time continued to increase from 60 to $1 6 0 \\mathrm { m i n }$ , the apparent contact angles decreased. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The immersion temperature exhibited an important influence on the apparent contact angle,as shown in Figure Sd. With $0 . 0 6 ~ \\mathrm { m o l / L }$ stearic acid, $4 \\ \\mathrm { m o l / L } \\ \\mathrm { H C l } ,$ and an immersion time of $6 0 \\mathrm { m i n }$ ,the apparent contact angle increased from $1 5 2 \\pm 1 . 0$ to $1 6 0 ~ \\pm ~ 1 . 0 ^ { \\circ }$ with the temperature increasing from 20 to $8 0 ~ ^ { \\circ } \\mathrm { C }$ .Then contact angle decreased to $1 5 0 \\pm 0 . 8 ^ { \\circ }$ when the temperaturereached $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above results indicate that the proper stearic acid and HCl concentrations，temperature,and immersion time could result in excellent superhydrophobicity for mesh.With $0 . 0 6 ~ \\mathrm { m o l / L }$ stearic acid, 4 mol/L HCl, a temperature of $8 0 \\ { } ^ { \\circ } \\mathrm { C } ,$ and an immersion time of $6 0 ~ \\mathrm { { m i n } }$ ,theobtained mesh exhibited uniform nanostructures and an apparent contact angle of $1 6 0 \\pm 1 . 0 ^ { \\circ }$ .Excessive stearic acid led to the decrease of the apparent contact angle because excessive ferric stearate would cover the nanostructures.Excessive HCl and immersion time and high temperature would result in excessive corrosion of the metal mesh and damage the nanostructures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the droplet volume and wetting ability for the mesh surfaces was investigated，as shown in of the water droplet $( 5 \\mu \\mathrm { L } )$ on the superhydrophobic surface. It suggests that the obtained mesh shows excellent superhydrophobicity and low adhesion properties.In Figure 6a, it is clearly observed that the water droplet can completely detach from the stainless steel mesh and nonwet the mesh surface even after press and deformation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e018d1bd0eaeea2575fea72d38040a3801187b52a6d09cc5dab5681269dffe.jpg",
+        "img_caption": [
+            "Figure Se.Droplets with volumes of $2 , \\ 5 , \\ 8 ,$ and $1 0 ~ \\mu \\mathrm { L }$ were used.The notion of contact angle hysteresis was equal to the difference value between advancing and receding contact angles.It was found that the contact angle hysteresis of the droplet was in the range of $2 . 6 { - } 6 . 0 ^ { \\circ } .$ ，as shown in Figure Se.With the increase of droplet volume,the droplet shape became oblate due to gravity. Therefore, the apparent contact angle increased and the sliding angle decreased with the increase of droplet volume (Figure Se,f). ",
+            "3.3.Dynamic Wetting Behavior of the Oil and Water. Figure 6a shows the contact deformation and departure process ",
+            "Figure 6.Dynamic contact and departure process for the water droplet $( 5 \\ \\mu \\mathrm { L } )$ (a).The arrows show the moving direction of the water droplet.Photographs of dynamic measurements of oil wettability for the obtained mesh (b).The sliding process for the water droplet $( 5 \\mu \\mathrm { L } )$ on the obtained mesh $\\left( \\mathsf { c { - } } \\mathsf { e } \\right)$ .Imageof dyed oil and dyed water (f).Many ball-like water droplets were uniformly distributed on the obtained mesh $( \\mathbf { g } )$ .Scale bars: $\\left( { \\mathsf { a } } { - } { \\mathsf { e } } \\right) 2 ,$ (f)25,and $( \\mathbf { g } ) \\ 5 \\ \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The wettability of the oil permeation on the obtained mesh surface was investigated by the apparent contact angle measurement,as shown in Figure 6b.A peanut oil droplet $( 5 \\mu \\mathrm { L } )$ was used to evaluate the oil wettability,and the apparent contact angle quickly became zero in $3 \\mathrm { ~ s ~ }$ after the peanut oil contacted the surface.However, the water droplet $( 5 ~ \\mu \\mathrm { L } )$ easily rolled after $1 2 0 ~ \\mathrm { m s } ,$ as shown in Figure 6c,e.It indicates that the mesh surface exhibited low water adhesion and high oil adhesion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The digital images (Figure 6f,g） show the states of water droplets (colored by methyl blue） and peanut oil (colored by Sudan red) on the mesh. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Many blue ball-like water droplets were distributed on the stainless steel mesh surface,indicating the uniform property of the stainless steel mesh surface.In contrast, peanut oil immediately penetrated into the mesh.It indicated that the obtained mesh had prominent superhydrophobicity and superoleophilicity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4. Stability of the Obtained Mesh and Its Application for Oil/Water Separation.The mesh with pore sizes of $1 0 0 \\ \\mu \\mathrm { { m } }$ exhibited the best superhydrophobicity，as shown in Figure 7a. When the mesh pore size was below $1 0 0 \\ \\mu \\mathrm { m } ,$ the apparent contact angle decreased due to the decreased airwater interface.However,when the mesh pore size was higher than $1 0 0 \\ \\mu \\mathrm { { m } }$ ,the mesh pore size was too large to store the air in the structure,so the surface tension could hold the water droplet. As the mesh pore size continued to increase，the superhydrophobic performance of the mesh decreased.Therefore, the ideal pore size for the mesh is $1 0 0 \\ \\mu \\mathrm { { m } }$ .Theobtained mesh with a $1 0 0 \\ \\mu \\mathrm { { m } }$ pore size was folded into a small box （204 $( 4 \\times 3 \\times 1 ~ \\mathrm { c m } ^ { 3 } ,$ ),as shown in Figure 7b.The small box could freely float on the water because of its superhydrophobicity. The oil rapidly permeated into the box while water was completelyrejected. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The stability of the superhydrophobic mesh surface was evaluated via testing the apparent contact angle before and after ultrasonic oscillation. The apparent contact angle of the obtained mesh for the water droplet $( 5 ~ \\mu \\mathrm { L } )$ was $1 \\bar { 6 } 0 \\pm 1 . 0 ^ { \\circ }$ before ultrasonic oscillation and was $1 5 8 \\pm 1 . 3 ^ { \\circ }$ after ultrasonic oscillation，as shown in Figure 7c,d. The change of apparent contact angles was nearly negligible.The obtained mesh was exposed to the atmosphere for 6O days,and the mesh surface with superhydrophobicity was stable,as shown in Figure 7e. Further, the mesh was immersed in a 3.5 wt $\\%$ NaCl aqueous solution for 12 days.It was found that the apparent contact angle of the obtained mesh for the water droplet $( 5 \\mu \\mathrm { L } )$ was kept almost stable,as shown in Figure 7f. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the obtained mesh,a miniature apparatus was designed for oil/water separation,as shown in Figure 8.When turning on the self-priming pump,it can be seen that only pure oil (peanut oil,diesel oil,and gasoline）penetrated the mesh and dropped into the container,while water successfully passed through the mesh. Obviously, it can continuously collect pure oil from the oil/water mixture. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Stainless steel mesh surfaces with uniform nanostructures and extremely low surface energy were fabricated via immersion in the solution containing HCl and stearic acid. They showed superhydrophobic and superoleophilic properties.Under optimum conditions, the obtained mesh exhibited an apparent contact angle of $1 6 0 \\pm 1 . 0 ^ { \\circ }$ for the water droplet and $0 ^ { \\circ }$ for the oil droplet. The superhydrophobic samples were stable by ultrasonic oscillation,exposure tests in the atmosphere,and immersion corrosion tests in a 3.5 wt $\\% \\mathrm { { N a C l } }$ aqueous solution. On the basis of the obtained mesh,a miniature oil/water separation device was designed,which could be simply and effectively used for the separation of an oil/water mixture.The method in this studyis suitable for larger-scale fabricationand has potential applications in oil/water separation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e80bb4f6ba9b9c3a55af3ed262465d509c986661060701bfdebd4927c03b65e.jpg",
+        "img_caption": [
+            "Figure7.fectofpreeoparetotactle ().Cltoprossofpeautiloneaterfaceox()at contactagleoradllao(ndlrasodltod)iateAppartactleftsheot room temperature (e).Apparent contact angle for mesh after corrosion in a 3.5 wt $\\%$ NaCl aqueous solution (f). Scale bars: (b) 40 and $^ { \\mathrm { ( c , d ) } }$ （20 $2 \\mathrm { m m }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/793fc0bbe05311f00cb394a222e6329a569669e2a5def90d5214e35b391bb082.jpg",
+        "img_caption": [
+            "Figure 8.Photograph of the experimental apparatus continuously collecting pure oil from the oil/water mixture and schematic diagram of the oil/water separation apparatus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR INFORMATION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*E-mail: zengzhx@nimte.ac.cn. Phone: 0574-86685809.   \n$^ * \\mathrm { E }$ mail: zhaowj@nimte.ac.cn. Phone: 0574-86694901. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We express our sincere gratitude to the National Basic Research Program of China (No.2014CB643302),the National Nature Science Foundation of China (No.51475450 and 51335010), the Zhejiang Provincial Innovation Team (No.2011R50006), and the Ningbo Municipal Innovation Team (No.20l1B81001). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Chu, Z.; Feng,Y.; Seeger, S.Oil/water separation with selective superantiwetting/superwetting surface materials.Angew.Chem., Int.Ed. 2015,54,2328-2338.   \n(2)Jayaramulu, ${ \\mathrm { K } } . { \\mathrm { } }$ Datta,K.K.；Rosler,C.; Petr,M.; Otyepka,M.; Zboril, $\\mathrm { \\mathrm { ~ R ~ } } .$ ；Fischer，R.A.Biomimetic superhydrophobic/superoleophilic highly fluorinated graphene oxide and zif-8 composites for oil/water separation.Angew. Chem., Int.Ed.2016,S5,1178-1182. (3) Zhu, L.; Chen, M.;Dong, Y.； Tang, C.Y.; Huang, A.; Li, L.A low-cost mullite-titania composite ceramic hollow fiber microfiltration membrane for highly efficient separation of oil/in-water emulsion. Water Res.2016,90,277-285.   \n(4)Ma, $\\mathrm { Q . ; }$ Cheng,H.;Fane,A.G.;Wang,R； Zhang,H.Recent development of advanced materials with special wettability for selective oil/water separation. Small 2016,12,2186-2202.   \n(S)Wan, Y.;Wang, B.; Khim,J.S.；Hong, S.； Shim,W.J.；Hu, J. Naphthenic acids in coastal sediments after the Hebei Spirit oil spill:A potential indicator for oil contamination. Environ. Sci. Technol.2014, 48, 4153-4162.   \n(6）Zhang,W.；Shi， Z.；Zhang,F.；Liu，X.；Jin,J.；Jiang，L. Superhydrophobic and superoleophilicPVDF membranes for effective separation of water-in-oil emulsions with high flux.Adv.Mater. 2013, 25,2071-2076.   \n(7) Li,B.; Wu,L.; Li,L.; Seeger,S.; Zhang,J.; Wang,A. Superwetting double-layer polyester materials for effctive removal of both insoluble oils and soluble dyes in water.ACS Appl.Mater. Interfaces 2014,6, 11581-11588.   \n(8) Wang B.；Liang,W.；Guo, Z.； Liu,W.Biomimetic superlyophobic and super-lyophilic materialsapplied for oil/water separation: A new strategy beyond nature. Chem. Soc. Rev.2015,44, 336-361.   \n(9)Gao,X; Xu,L.P.; Xue,Z.;FengL; Peng,J; Wen,Y.; WangS.; Zhang,X. Dual-scaled porous nitrocellulose membranes with underwatersuperoleophobicity for highly efficient oil/water separation.Adv. Mater.2014,26,1771-1775.   \n(10)Zouboulis,A.;Avranas,A. Treatment of oil/in-water emulsions by coagulation and dissolved-air flotation. Colloids Surf,A 2000,172, 153-161.   \n(11) Nordvik,A.B.; Simmons,J.L.; Bitting, K. R.; Lewis,A.； StromKristiansen,T. Oil and water separation in marine oil spill clean-up operations. Spill Sci. Technol. Bull.1996,3,107-122.   \n(12) Benner,S.W.; John,V.T.；Hall C.KSimulationstudyof hydrophobically modified chitosan as an oil dispersant additive.J. Phys. Chem. B 2015,119,6979-6990.   \n(13）Frit-Rasmussen,J.； Brandvik,P.J. Measuring ignitability for in situ burning of oil spills weathered under Arctic conditions:From laboratory studies to large-scale field experiments.Mar.Pollut. Bull. 2011, 62, 1780-1785.   \n(14) Jadhav, S.R; Vemula,P.K.; Kumar,R; Raghavan, S.R; John, G.Sugar-derived phase-selective molecular gelators as model solidifiers for oil spils. Angew. Chem., Int.Ed.2010,49,7695-7698.   \n(15) Zhu, $\\mathrm { Q . ; }$ Pan, $\\mathrm { Q . j }$ Liu,F.Facile removal and collection of oils from water surfaces through superhydrophobic and superoleophilic sponges.J.Phys.Chem.C 2011,115,17464-17470.   \n(16) Gao, C.; Sun, Z.; Li, K.; Chen,Y.; Cao,Y.; Zhang, S.; Feng, L. Integrated oil separationand waterpurification bya double-layer TiO2-based mesh.Energy Environ. Sci. 2013,6,1147.   \n(17)Liu, F.； Ma, M.； Zang,D.; Gao,Z.;Wang, C.Fabrication of superhydrophobic/superoleophilic cotton for application in the field of water/oil separation. Carbohydr.Polym.2014,103,480-487.   \n(18)Wu,L.; Zhang,J.; Li, B.; Wang,A. Mechanical-and oil/durable superhydrophobic polyester materials for selective oil absorption and oil/water separation.J. Colloid Interface Sci.2014,413,112-117. (19）Chen,N.；Pan, $\\mathrm { \\Delta Q }$ Versatile fabrication of ultralight magnetic foams and application for oil-water separation.ACS Nano 2013,7, 6875-6883.   \n(20)Dong, X.; Chen,J.; Ma,Y.; Wang,J.; Chan-Park,M.B.;Liu, X; Wang,L.; Huang,W.; Chen,P.Superhydrophobic and superoleophilic hybrid foam of graphene and carbon nanotube for selective removal of oils or organic solvents from the surface of water. Chem. Commun. 2012, 48,10660-10662.   \n(21) Wang, G.； Zeng, Z.; Wu,X.; Ren,T.; Han,J.; Xue, $\\mathsf { Q } .$ Threedimensional structured sponge with high oil wettability for the cleanup of oil contaminations and separation of oil-water mixtures.Polym. Chem. 2014,5,5942-5948.   \n(22)Chen,W.; Su,Y.; Zheng,L.; Wang,L.; Jiang, Z.The improved oil/water separation performance of cellulose acetate-graft-polyacrylonitrile membranes.J. Membr. Sci. 2009,337, 98-105.   \n(23)LiL.；LiB.；Wu，L；Zhao,X；Zhang,J.Magnetic, superhydrophobic and durable silicone sponges and their applications in removal of organic polltants from water. Chem. Commun.2014, 50, 7831-7833.   \n(24) Du, R; Gao, X; Feng, $\\mathrm { Q . ; }$ Zhao, $\\mathrm { Q . ; }$ Li, P.; Deng, S.； Shi, L; Zhang,J. Microscopic dimensions engineeing: Stepwise manipulation of the surface wettability on 3D substrates for oil/water separation. Adv. Mater. 2016,28, 936-942.   \n(25） Gao, $\\mathrm { X . ; }$ Zhou, J.； Du, $\\mathrm { R } ;$ Xie, $Z . ;$ Deng, S.； Liu, $\\mathrm { R } ;$ Liu, Z.; Zhang，J. Robust superhydrophobic foam:A graphdiyne-based hierarchical architecture foroil/water separation.Adv.Mater.2016, 28,168-173. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(26）Cervin，N. T.；Aulin,C.；Larsson，P.T.；Wägberg,L.Ultra porous nanocellulose aerogels as separation medium for mixtures of oil/water liquids. Cellulose 2012,19, 401-410. (27)Liu, C.； Yang,J.；Tang,Y.；Yin,L.；Tang,H.； Li,C.Versatile fabrication of the magnetic polymer-based graphene foam and applications for oil-water separation.Colloids Surf.，A 2015，468, 10-16. (28)Wang, G.; He,Y.; Wang,H.; Zhang,L.; Yu, Q.; Peng, S.; Wu, X.；Ren, T.； Zeng, Z.； Xue, $\\mathsf { Q } .$ A cellulose sponge with robust superhydrophilicity and under-water superoleophobicity for highly effective oil/water separation.Green Chem.2015,17,3093-3099. (29) Zhang, L.; Zhang, Z.; Wang,P.Smart surfaces with switchable superoleophilicity and superoleophobicity in aqueous media: toward controllable oil/water separation.NPG Asia Mater.2012,4,e8. (30) Zhang, W.; Liu, M.; Liu,Y.; Liu,R; Wei,F.; Xiao,R; Liu,H. 3D porous poly(l-lactic acid) foams composed of nanofibers,nanofibrous microsheaves and microspheres and their application in oil-water separation.J.Mater. Chem.A 2015,3,14054-14062. (31）Liu，S.；Xu, $\\mathrm { Q . ; }$ Latthe，S.S.；Gurav，A.B.；Xing，R. Superhydrophobic/superoleophilic magnetic polyurethane sponge for oil/water separation.RSC Adv.2015, $s ,$ 68293-68298. (32)Grynyov,R.;Bormashenko,E.;Whyman,G.;Bormashenko,Y.; Musin，A.；Pogreb，R.；Starostin，A.；Valtsifer，V.；Strelnikov，V.; Schechter,A.;et al.Superoleophobic surfaces obtained via hierarchical metallic meshes.Langmuir 2016,32,4134-4140. (33）Darmanin，T.；Tarrade，J.；Celia，E.；Guittard，F.Superoleophobic meshes with high adhesion by electrodeposition of conducting polymer containing short perfluorobutyl chains.J.Phys. Chem. C 2014,118,2052-2057. (34）Bormashenko，E.；Balter，S.；Bormashenko，Y.；Aurbach，D. Honeycomb structures obtained with breath figures self-assembly allow water/oil separation. Colloids Surf,A 2012,415,394-398. (35)Li, X. M.; Reinhoudt,D.; Crego-Calama,M. What do we need for a superhydrophobic surface? A review on the recent progress in the preparation of superhydrophobic surfaces.Chem. Soc.Rev.2o07，36, 1350-1368. (36） Chen，Z.； Li, F.；Hao,L.； Chen，A.； Kong， Y. One-step electrodeposition process to fabricate cathodic superhydrophobic surface.Appl. Surf. Sci.2011, 258,1395-1398. (37) Yang,J.; Zhang, Z.; Men, X.; Xu, X.; Zhu, X.A simple approach to fabricate superoleophobic coatings.New J. Chem.2011,35,576- 580. (38) Wu,N.;Fu,L.; Su,M.;Aslam,M.; Wong,K.C.; Dravid,V.P. Interaction of fatty acid monolayers with cobalt nanoparticles.Nano Lett. 2004,4,383-386. ",
+        "page_idx": 6
+    }
+]

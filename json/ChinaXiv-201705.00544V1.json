@@ -1,0 +1,350 @@
+[
+    {
+        "type": "text",
+        "text": "High-Performance Inverted Solar Cells Based on Blend Films of ZnO Naoparticles and $\\bar { \\mathsf { T i O } } _ { 2 }$ Nanorods as a Cathode Buffer Layer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pandeng Li,t\\* Chunming Sun,† Tonggang Jiu,\\*† Guojie Wang Jun Li,† Xiaofang Li\\*# and Junfeng Fang\\*,†t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Instituteof NewEnergyTechnology,NingboInstituteofMaterialTechnologyandEngineeing(NITE)，ChineseAcademyof Science,Ningbo, Zhejiang 315201, People's Republic of China   \n#Schoolof ChemistryndhemicalEngineeringHunanUiverstyofienceandhologyiangtan,unan411le's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SupportingInformation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We reported the favorable cathode buffer layer based on a blend of $\\mathrm { { z n O } }$ nanoparticles (NPs） and $\\mathrm { T i O } _ { 2 }$ nanorods (NRs) applied to inverted solar cells. In addition to the high optical transmittance, the resultant blend film gave a relatively dense film with lower roughness than that of the respective single-component film. This improved the interface contact between the buffer layer and photoactive layer and therefore reduced the contact resistance and leakage current. Moreover， the combination of NRs and NPs increased the efficiency of electron transport and collection by providing both a direct path for electron transport from $\\mathrm { T i O } _ { 2 }$ NRs and a large contact area between ZnO NPs and the active layer. Consequently, both the short-circuit current density $( J _ { \\mathrm { { s c } } } )$ and fill factor (FF) in the device were improved, leading to an improvement of the device performance. The best power conversion efficiency (PCE) based on the blend flm as the buffer layer reached $8 . 8 2 \\%$ ，which was preferable to those of a single $\\mathrm { { z n O } }$ NP film $( 7 . 7 6 \\% )$ and a $\\mathrm { T i O } _ { 2 }$ NR-based device $( 7 . 6 6 \\% )$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8a98cdd3edec9f774878735e488f8078d12d9d0953eb6855c5da35418941175.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: ZnO nanoparticles, $T i O _ { 2 }$ nanorods，blend film， cathode buffer layer， inverted solar cells",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the last decades,polymer solar cells(PSCs) have been a hot research topic because of their promising advantages such as low cost，flexibility，and light weight compared with conventional silicon-based solar cels.1-3 The first bulk-heterojunction PSCs were successfully realized in l995 by the Heeger group and gave a power conversion efficiency (PCE） of $2 . 9 \\%$ 4 With the development of new donor and acceptor materials and advanced processing techniques flocking in,PSCs with PCEs of $7 - 9 \\%$ based on poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate） (PEDOT:PSS）as the hole-transport layer have been documented.5-8 In the meantime, the erosion of indium-tin oxide(ITO） by acidic PEDOT:PSS and oxidation of an air-sensitive, low-work-function metal cathode become the main factors to influence the long lifetime stability in photovoltaic devices.9-1l Hence, inadditionto increasing PCE, further efforts should be made to improve the device stability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To solve this issue,one strategy is to use an inverted device architecture. Since the first example reported in $2 0 0 6 , ^ { 1 2 , 1 3 }$ the inverted device structure has been extensively studied. So far, PCEs as high as $9 . 2 \\%$ have been achieved.14-16 In an inverted structure,the top electrode,composed of a high-work-function transition-metal oxide(NiO, $\\mathrm { M o O } _ { 3 } , \\mathrm { V } _ { 2 } \\mathrm { O } _ { 5 } ,$ and $\\mathrm { W O } _ { 3 }$ )layerand a high-work-function metal electrode (Au and $\\mathrm { A g } { \\dot { } }$ ),isused to collect the holes.17-19N Meanwhile，the ITO electrode is modified with a thin film of n-type material such as cesium carbonate $\\left( \\mathrm { C s } _ { 2 } \\mathrm { C O } _ { 3 } \\right) , ^ { 2 0 }$ zinc_ oxide $\\left( \\mathrm { Z n O } \\right) , ^ { 1 3 , 2 1 }$ and titanium oxide $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { x } ) ^ { 2 2 , 2 3 }$ as hole-blocking and electrontransport layers (ETLs)，which could functionalize the workfunction of the ITO electrode.In this way，PEDOT:PSS is replaceable,and new interfacial materials can improve the device stability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The cathode buffer layer on the ITO electrode is one of the key components of the inverted architecture.Several criteria should be met to obtaina favorable cathode buffer layer for an efficient photovoltaic device,such as good transparency,high electron mobility，favorable morphology，and high electron affinity to collect the electrons. Among n-type metal oxides, $\\mathrm { { z n O } }$ and $\\mathrm { T i O } _ { 2 }$ nanoparticles (NPs) have drawn more attention because of their good transparency，environmental stability, simplicityofessdlotalere However, the $\\mathrm { z n O }$ NP film presents apparent surface defects due to aggregations, leading to poor_electronic coupling and severe back charge recombination.25,26 Meanwhile, $\\mathrm { T i O } _ { 2 }$ NPs possess wide band gap $( 3 . 2 \\ \\mathrm { e V } )$ and low electron mobility $\\mathsf { \\bar { ( } 1 0 ^ { - 5 } ~ c m ^ { 2 } ~ V ^ { - 1 } ~ S ^ { - 1 } , }$ 2One-dimensional $\\mathrm { T i O } _ { 2 }$ nanorods (NRs) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "support a direct pathway to facilitate electron transport,which hasbeenusedidarcelliigatioe itsrelativelylow surface-to-volume ratio decreases the contact area and influences electron collection in the photovoltaic device.31,32 Diferent methods have beenused toaddress tese issues suchasdoping with metals,2233use of composite materials,34incorporationoffulerenedervatives,and use of hybrids withonjugated molecules2643Thoselp to improve the contact quality and modify the work function of metal oxides，further increasing the performance of organic solar cells.In comparison，few studies have worked on the combination of metal oxide nanomaterials with various shapes and sizes as a buffer layer in solar cells.44-46 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,the blend flms of ZnO NPs and $\\mathrm { T i O } _ { 2 }$ NRs were embedded ina cathodebufferlayerof invertedPSCs.The photoactive materials involved were poly[[4,8-bis[(2 ethylhexyl)oxy]benzo[1,2-b:4,5- $\\cdot b ^ { \\prime } ]$ dithiophene- $^ { 2 , 6 }$ -diyl][3-flu oro-2-[(2-ethylhexyl)carbonyl]thieno[3,4-b]thiophenediyl]] (PTB7）as the electron donor and [6,6]phenyl-C71-butyric acid methyl ester $\\left( \\mathrm { P C } _ { 7 1 } \\mathrm { B M } \\right)$ as the electron acceptor. We successfully demonstrated highly efficient PSCs with an average PCE of $8 . 5 8 \\%$ under simulated solar illumination (AM 1.5G $1 0 0 \\mathrm { \\ m W \\ c m ^ { - 2 } } ,$ )，which was increased by $1 5 . 6 \\%$ and $1 2 . 6 \\%$ in comparison with those of devices based solely on the $\\mathrm { { z n O } }$ NP film $( 7 . 4 2 \\% )$ and $\\mathrm { T i O } _ { 2 }$ NR film $( 7 . 6 2 \\% )$ ，respectively.To understand the efficiency enhancement, the optical property, surface morphology， composition structure， energy-level property，and electrical properties of the blend film were investigated by multiple measurements such as UV-vis absorption， scanning electron microscopy (SEM)，atomic force microscopy (AFM)，X-ray photoelectron spectroscopy (XPS),and ultraviolet photoelectron spectroscopy (UPS). The results showed that the interfacial blend film possesses favorable optoelectronic properties and superior film morphology，which improve interfacial contact to facilitate charge collection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTAL SECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reagent and Materials.Indium-tin oxide (ITO)-coated glass substrates were purchased from CSGHolding Co.,Ltd.(China; $R _ { \\mathrm { s } } \\leq$ $1 0 \\ \\Omega / \\bigtriangledown ;$ （ $T _ { \\mathrm { r } } \\geq 8 3 \\%$ ).Electron-donor material PTB7 was purchased from l-material Chemscitech，and electron-acceptor $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ was purchased from Nano-C. $\\mathbf { M o O } _ { 3 }$ was obtained from Alfa Aesar. Chlorobenzene was provided by Sigma-Aldrich.In addition，zinc acetate dihydrate $[ \\mathrm { Z n } ( \\mathrm { A c } ) _ { 2 } { \\cdot } 2 \\mathrm { H } _ { 2 } \\mathrm { O } ] ,$ potassium hydroxide (KOH), methanol, and chloroform were purchased from Sinopharm Chemical Reagent Co.and used as received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation _of ZnO NPs.ZnO NPs were prepared according to the procedures.47,48 We used chloroform $\\langle 5 \\mathrm { \\ m L } \\rangle$ to dissolve the NPs to obtain a solution with a concentration of $7 0 ~ \\mathrm { { m g } ~ \\mathrm { { m L } ^ { - 1 } } }$ on average. Then the concentration of $1 5 ~ \\mathrm { { m g } ~ m L ^ { - 1 } ~ Z n O }$ was obtained by dilution of the original solution with chloroform and a small amount methanol (10 vol $\\%$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of $\\mathsf { T i O } _ { 2 }$ NRs. $\\mathrm { T i O } _ { 2 }$ NRs were fabricated following the process reported by Weller et al.49 The as-synthesized $\\mathrm { T i O } _ { 2 }$ NRs were usually capped with a long-chain ligand of oleic acid(OA),which suppressed charge transfer.Hence, OA of $\\mathrm { T i O } _ { 2 }$ NRs was removed by ligand exchange with pyridine,according to the literature.50 Finaly, $\\mathrm { T i O } _ { 2 }$ NRs were dissolved in chloroform with a concentration of $2 0 ~ \\mathrm { m g }$ $\\mathrm { \\ m L ^ { - 1 } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Cathode BufferLayers.The blend solutionsof $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs with different weight ratios were prepared by mixing the respective solutions of $\\mathrm { { z n O } }$ NPs $\\mathrm { { ( 1 5 ~ m g ~ m L ^ { - 1 } } }$ ）and $\\mathrm { T i O } _ { 2 }$ NRs $\\left( 2 0 \\mathrm { \\ m g \\ m L ^ { - 1 } } \\right) .$ ),and the total concentration was $1 5 ~ \\mathrm { m g ~ m L ^ { - 1 } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Device Fabrication and Characterization. The devices were fabricated on ITO-coated glass substrates cleaned with a sequence of detergent,deionized water,acetone,and isopropyl alcohol for $1 5 ~ \\mathrm { m i n }$ in an ultrasonic bath,dried with a nitrogen stream,and subsequently treated with UV-ozone for $3 0 ~ \\mathrm { m i n }$ .The $\\mathrm { { z n O } }$ NP solution, $\\mathrm { T i O } _ { 2 }$ NR solution，and mixed solution were spin-coated onto the ITO substrates,respectively. Then the $\\mathrm { { z n O } }$ NP and $\\mathrm { T i O } _ { 2 }$ NR films were annealed at 80 and $1 5 0 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { m i n }$ ,respectively.The blend film was treated at different annealing temperatures (80,120,150,and $2 0 0 ^ { \\circ } \\mathrm { C } \\cdot$ 0 for $1 0 ~ \\mathrm { \\ m i n }$ to figure out the optimal conditions.The favorable thicknessfor the blend filmwas testedas $4 5 \\ \\mathrm { n m }$ .Theblend solution of $\\mathrm { P T B 7 : P C _ { 7 1 } B M }$ (10:15 weight ratio） in chlorobenzene was then spincoated at $1 5 0 0 ~ \\mathrm { r p m }$ for $1 2 0 s$ on top of the buffer layers.Finally, device fabrication was finished by thermal evaporation of $1 0 \\mathrm { n m }$ of $\\mathbf { M o O } _ { 3 }$ and $1 0 0 ~ \\mathrm { { n m } }$ of Al under a vacuum of about $1 \\times 1 0 ^ { - 6 }$ mbar,and the device area was $0 . 0 4 ~ \\mathrm { c m } ^ { 2 }$ ： $J { - } V$ characterization was done using a Keithley 2400 source measure unit under AM 1.5G simulated solar illumination. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cathode Buffer Layer Characterization.Optical transmittance spectra were recorded using a UV-330o spectrophotometer. The surface morphology and film roughness of the specimens were tested by SEM and AFM.SEM (S-480o) measurements were done at an acceleration voltage of $8  { \\mathrm { k V } }$ AFM measurements were done in tapping mode using a Veeco dimension V atomic force microscope.XPS and UPS spectra were taken with a Kratos AXIS ULTRADLD UPS/XPS system (Kratos Analytical,Manchester,U.K.). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1de1154e0f88de3485198d145e71911817d00708b8050d3f9ce2afdcb7fc91a5.jpg",
+        "img_caption": [
+            "Figure 1 shows the structures of PTB7 and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } ,$ as well as an inverted device structure. The interfacial blend film was ",
+            "Figure 1.(a) Structures of PTB7 and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ (b)Device structure of inverted PSCs with blend films of ZnO NPs and $\\mathrm { T i O } _ { 2 }$ NRs as the cathode buffer layer.(c) Corresponding energy-level diagram of each component of the device. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "obtained by spin-coating the mixed solution of $\\mathrm { z n O }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs onto the ITO electrode.The energy-level diagram of the materials involved in the device is depicted in Figure lc. The lowest unoccupied molecular orbital (LUMO） and highest and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ e levels of $\\mathrm { z n O }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs were measured by UPS and UV absorption edge.It is obvious that the conduction band (CB)of $\\mathrm { T i O } _ { 2 }$ is very close to the LUMO of $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ and the CBof $\\mathrm { { Z n O } _ { \\mathrm { { i } } } }$ ，which indicates that electrons can be easily transferred to the ITO electrode through the blend buffer layer. Moreover，the valence bands of $\\mathrm { { } } Z \\mathrm { { n O } }$ $( - 7 . 6 \\ \\mathrm { ~ e V } )$ and $\\mathrm { T i O } _ { 2 }$ $( - 7 . 2 6 ~ \\mathrm { e V } )$ are lower than the HOMO levels of PTB7（ $( - 5 . 1 5$ $\\mathbf { e V } )$ and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ （204号 $( - 5 . 8 7 \\ \\mathrm { e V } )$ ,which block hole transport from PTB7 to the ITO electrode. Thus，from the viewpoint of energy levels,photogenerated carriers can efficiently transport electrodes without significant interfacial energy loss. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b20dbfa31372aa759fd1dd8309c5e299e2ee273326f5229490e1720bda9f31b.jpg",
+        "img_caption": [
+            "Figure 2.(a) XRD pattern for the $\\mathrm { Z n O / T i O } _ { 2 }$ blend film after annealing at $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ .(b)UV-vis transmittance spectra of the $\\mathrm { { z n O } }$ NP, $\\mathrm { T i O } _ { 2 } \\ \\mathrm { N R } ,$ and $\\mathrm { Z n O } / \\mathrm { T i O } _ { 2 }$ blend films on quartz substrates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The crystallinity of the blend film was investigated by X-ray diffraction (XRD),and the results are shown in Figure 2a.The typical XRD patterns of the blend film confirmed the existence of wurtzite-type $\\mathrm { { z n O } }$ and anatase-type $\\mathrm { T i O } _ { 2 }$ crystalline phases, which is in good agreement with the previously reported results.48,49 No other crystalline phase was found in te XRD pattern, indicating that the matrix is a physical mixture of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs.In addition, XPS data are presented in Figure S1 in the Supporting Information (SI). The spectra further gave proof of the existence of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs in the blend film. In inverted solar cells,high transparency was required for the cathode buffer layer.Figure 2b compares the UV-vis transmittance spectra $\\left( 3 0 0 - 9 0 0 ~ \\mathrm { n m } \\right)$ ofthe $\\mathrm { { z n O } }$ NP, $\\mathrm { T i O } _ { 2 } \\mathrm { N R } ,$ and $\\mathrm { Z n O } / \\mathrm { T i O } _ { 2 }$ blend films on quartz substrates. It is apparent that the three films have high optical transmittance, which is suitable for the buffer layer in organic solar cell. The transmittance near $1 0 0 \\%$ in the wavelength region of 400-900 nm means that light absorption for the photoactive layer can be retained.In the short-wavelength region, the blend film showed partial absorption because of the wide band gap.The operational stability of PSCs could be improved by absorbing ultraviolet light, which usually gives rise to photodegradation of organic materials.52 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to transmittance, the morphology of the buffer layer is very crucial for the interfacial electrical property.53,54 The surface morphologies of the flms were investigated by tapping-mode AFM and SEM.Parts $\\mathsf { a } { - } \\mathsf { c }$ of Figure 3 present the AFM images of the $\\mathrm { { z n O } }$ NP, $\\mathrm { T i O } _ { 2 }$ NR,and blend films, respectively.The root-mean-square roughness of the three films was calculated as 12.6,6.58,and $5 . 4 2 \\ \\mathrm { n m }$ ，respectively. The blend film showed the smoothest surface among the three films. This means that the blend film obtained good contact quality withthePTB7: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ active layer and decreased the contact resistance so as to improve charge collection more effectively.5s ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SEM images were employed to further investigate the surface morphology of the three films.In Figure 3d, the $\\mathrm { { z n O } }$ NP film is composed of NPs that possess a high surface-to-volume ratio and increased contact area with the photoactive layer so as to improve the electron collection efficiency.However, ZnO NPs easily form aggregations.Many voids are found on the surface in the images.The aggregations are thought to be the origin of high roughness.Figure 3e shows the surface morphology of the $\\mathrm { T i O } _ { 2 }$ NR film,and some voids exist on the surface similar to the $\\mathrm { z n O }$ NP film. The blend film composed of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs gives the best surface morphology among the three films. It presents relatively compact film morphology and gives the fewest surface voids. According to the literature, the leakage current is caused byvoidsof the bufferlayer in the devices. 26 So，the blend film shows favorable interface properties for photovoltaic applications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c415fe39386244963f909ef76cf3644df9d60feb7767e2c4f8a0279288e3bf69.jpg",
+        "img_caption": [
+            "Figure 3.AFMimages of the surface morphology of(a) the $\\mathrm { { z n O } }$ NP film, (b)the $\\mathrm { T i O } _ { 2 }$ NR film,and(c)the blend film of $\\mathrm { Z n O / T i O } _ { 2 }$ (with a scan size of $5 \\mu \\mathrm { m } \\times 5 \\mu \\mathrm { m }$ and a height bar of $2 0 0 ~ \\mathrm { { n m } }$ ).SEMimages of the morphology of (d) the $\\mathrm { { z n O } }$ NP flm, (e) the $\\mathrm { T i O } _ { 2 }$ NR film and (f)the blend film of $\\mathrm { Z n O / T i O } _ { 2 }$ (scale bar: $2 0 0 ~ \\mathrm { { n m } }$ ) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The current density-voltage $\\left( J - V \\right)$ characteristics under AM 1.5G irradiation $\\left( 1 0 0 \\mathrm { \\ m W \\ c m ^ { - 2 } } \\right.$ ）ofinverted PTB7 $\\mathrm { \\mathrm { ? } P C } _ { \\mathrm { 7 1 } } \\mathrm { B M }$ solar cells with different electron-transport layers were investigated and are shown in Figure 4. The extracted device parameters，as well as the series resistance $\\left( R _ { s } \\right)$ and shunt resistance $( R _ { \\mathrm { s h } } )$ of all of the devices,are summarized in Table 1. The device based on a $\\mathrm { { z n O } }$ NP cathode buffer layer gave a typical open-circuit voltage $( V _ { \\mathrm { o c } } )$ of 0.732 V, $J _ { \\mathrm { s c } }$ of $1 5 . 2 7 ~ \\mathrm { m A }$ äThe parameters of PCEs were averaged over six devices. The device parameter distribution map was presented in Figure SS in the SI ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f842b025fe7fa7c001277db61b3186243ced7456294d375f687941fa720b64bc.jpg",
+        "img_caption": [
+            "Figure 4.(a)Illuminated and (b)dark $J { - } V$ characteristics of ITO/ interlayer/PTB7:1 $\\mathrm { P C _ { 7 1 } B M / M o O _ { 3 } / A l }$ architecture with different cathode buffer layers.(c) EQE data of devices based on $\\mathrm { P T B 7 : P C _ { 7 1 } B M }$ blends using the $\\mathrm { { z n O } }$ NP, $\\mathrm { T i O } _ { 2 } \\ \\mathrm { N R } ,$ and $\\mathrm { Z n O } / \\mathrm { T i O } _ { 2 }$ blend films as cathode buffer layers measured in air witha larger spot size than the device area. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/92824d037db01657a28d2cd97cec7278b42340f73aa6e0bfbafebaf94801d040.jpg",
+        "table_caption": [
+            "Table 1.Summary of the Photovoltaic Parameters of PTB7: $\\mathbf { P C } _ { 7 1 } \\mathbf { B M }$ Devices Fabricated with Different Cathode Buffer Layers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>interlayer</td><td>M</td><td>Jsc [mA cm-2]</td><td>FF [%]</td><td>R [Ω cm2]</td><td>Rsh [kΩ cm2]</td><td>PCE[%] best/average</td></tr><tr><td>ZnO</td><td>0.732</td><td>15.27</td><td>69.4</td><td>4.92</td><td>1.01</td><td>7.76/7.42</td></tr><tr><td>TiO2</td><td>0.740</td><td>15.23</td><td>68.0</td><td>5.92</td><td>0.86</td><td>7.66/7.62</td></tr><tr><td>ZnO/ TiO2</td><td>0.743</td><td>16.55</td><td>71.7</td><td>4.20</td><td>1.11</td><td>8.82/8.58</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { c m } ^ { - 2 } ;$ and FF of $6 9 . 4 \\%$ ，corresponding to a PCE of $7 . 7 6 \\%$ Meanwhile,the device based on the $\\mathrm { T i O } _ { 2 }$ NR cathode buffer layer showed $V _ { \\mathrm { o c } }$ of $0 . 7 4 0 \\mathrm { V } , J _ { \\mathrm { s c } }$ of $1 5 . 2 3 \\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }$ ,FFof $6 8 . 0 \\%$ and PCE of $7 . 6 6 \\%$ .When the optimal weight ratio ( $\\mathrm { \\ i 0 : 5 \\ m g }$ $\\mathrm { m L } ^ { - 1 } ,$ ）wasused in the blend buffer layer,the device presented $V _ { \\mathrm { o c } }$ of $0 . 7 4 3 \\mathrm { ~ V } , J _ { s c }$ of $1 6 . 5 5 \\mathrm { \\ m A \\ c m } ^ { - 2 } .$ and FF of $7 1 . 7 \\% ,$ giving PCEs as high as $8 . 8 2 \\%$ .Figure 4c shows the external quantum efficiency (EQE)data of the optimal device based on the blend film. $J _ { \\mathrm { E Q E } }$ calculated from integration of the EQE spectrum from 300 to $8 0 0 \\ \\mathrm { n m }$ is consistent with $J _ { \\mathrm { s c } }$ obtained from the $J -$ $V$ results shown above.These results demonstrated the superior interface propertiesof the blend film.Table1 presentsall of the device parameters with similar $V _ { \\mathrm { o c } }$ values.However, $J _ { \\mathrm { s c } }$ and FF of devices based on the blend film were improved dramatically relative to the devicesusing $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs as buffer layers,which represent improvements of $1 3 . 5 \\%$ and $1 5 . 0 \\%$ in the performance,respectively. From the dark $J { - } V$ characteristics in Figure 4b,the device based on the blend film exhibited excellent diode characteristics with a lower leakage current and a higher rectification ratio.In contrast, the device based on the $\\mathrm { { z n O } }$ NP buffer layer presents a higher leakage current, resulting from the voids in the surface.56 To investigate the origin of performance enhancement, $R _ { s }$ and $R _ { \\mathrm { s h } }$ were also measured. $R _ { s }$ 1 $( 4 . 2 0 \\Omega \\ \\mathrm { c m } ^ { 2 } )$ ofdevices based on the blend film was lower than those of the $\\mathrm { z n O }$ NP film $( 4 . 9 2 \\Omega \\ \\mathrm { c m } ^ { 2 } )$ and $\\mathrm { T i O } _ { 2 }$ NR film $( 5 . 9 2 \\Omega \\ \\mathrm { c m } ^ { 2 } ,$ ).Moreover, $R _ { \\mathrm { s h } }$ $\\left( 1 . 1 1 \\mathrm { ~ k } \\Omega \\mathrm { ~ c m } ^ { 2 } \\right)$ of devices based on the blend flm was higher than those of the $\\mathrm { { z n O } }$ NP film $\\left( 1 . 0 1 \\mathrm { k } \\Omega \\mathrm { c m } ^ { 2 } \\right)$ and $\\mathrm { T i O } _ { 2 }$ NR film $( 0 . 8 6 \\mathrm { k } \\Omega \\mathrm { c m } ^ { 2 } )$ ： According to the literature,26 26,54 the decreased Rand increased $R _ { \\mathrm { s h } }$ contributed to the device performance by improving FF and $J _ { \\mathrm { s c } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further probe the thermal treatment effect of the blend buffer layer on the device performance of the inverted PSCs, the photovoltaic devices were studied by changing the temperature from 80 to $2 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 \\ \\mathrm { m i n } ,$ ，and the results are shown in Figure S8 in the SI and summarized in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/410b8d88143b71cc310f4ae59440541d34a9d8ac6a1d1d33320c77e9c7558c10.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 2.Detailed Parameters of the Device Performance Using Blend Films with Different Annealing Temperatures</td></tr><tr><td>temperature [C]</td><td>M</td><td>Jsc [mA cm-²]</td><td>FF [%]</td><td>R [Ω cm2]</td><td>[kΩ cm2] Rsh</td><td>best/ average PCE [%]</td></tr><tr><td>80</td><td>0.720</td><td>14.98</td><td>68.4</td><td>5.96</td><td>0.90</td><td>7.38/7.25</td></tr><tr><td>120</td><td>0.743</td><td>16.55</td><td>71.7</td><td>4.20</td><td>1.11</td><td>8.82/8.58</td></tr><tr><td>150</td><td>0.743</td><td>16.17</td><td>71.2</td><td>4.36</td><td>1.23</td><td>8.55/8.43</td></tr><tr><td>200</td><td>0.734</td><td>16.24</td><td>69.0</td><td>4.28</td><td>0.94</td><td>8.23/8.04</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With an increase of the annealing temperature from 8O to 120 ${ } ^ { \\circ } \\mathrm { C } ,$ （20 $V _ { \\mathrm { o c } } , \\ J _ { \\mathrm { s c } } ,$ and FF of the devices increased and thus PCE increased from $7 . 3 8 \\%$ to $8 . 8 1 \\%$ 、This result was attributed to the remaining pyridine in the blend film,which obstructs electron collectionand electron transport.4,57 Pyridine was removed after annealing at ${ 1 2 0 } ^ { \\circ } \\mathrm { C } ,$ resulting in an improvement of the device performance. However，when the annealing temperature was further increased to lSO and $2 0 0 ~ ^ { \\circ } \\mathrm { C } ,$ the device performance was gradually decreased. The possible reason was that the contact quality of the buffer layer with the electrode became poor，leading to slightly higher contact resistance.To summarize，the appropriate thermal treatment condition was $1 2 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure S illustrates the mechanism of electron $\\left( \\mathrm { e } ^ { - } \\right)$ transport in the blend film.Electrons were transferred from the $\\mathrm { { z n O } }$ NP film to the surface of the collector electrode (e.g.，ITO substrate) through a zigzag pathway,in which the electrons leap from oneNPtothe adjacent NPaccording totheliterature.4658 The increase of the electron-transport pathway results in increments of bulk resistance and chances of electron-hole recombination,resulting from the surface defect from $\\mathrm { { z n O } }$ NP aggregations.26 In the meantime, $\\mathrm { T i O } _ { 2 }$ NRs provide a direct pathway for electron transport,avoiding long-range travel among ZnO $ { \\mathrm { N P s } }$ which supports an effective means for electron transport.31,32 However, PCE of devices based on the $\\mathrm { T i O } _ { 2 }$ NR film is lower than that of the $\\scriptstyle z _ { \\mathrm { n O } }$ NP film,mainly because of insufficient contact area with the active layer. The blend film in nanoscale provides both a large surface area to promote charge collection and a direct pathway for higheffcient electron transfer,resulting in the improvement of $J _ { \\mathrm { s c } }$ and FF in the devices.The combination of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs can make use of both features working as the cathode buffer layer and facilitate electron transport from the active layer to the ITO electrode. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0eb5bd4541f2f44068ceb87b7f4c7c948af132c28fdd181ddcb341767362016a.jpg",
+        "img_caption": [
+            "Figure 5.Schematic illustration of electron $\\left( \\mathrm { e } ^ { - } \\right)$ transport of the blend film of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs as the cathode buffer layer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have developed a new cathode buffer layer based on a combination of $\\mathrm { { z n O } }$ NPs and $\\mathrm { T i O } _ { 2 }$ NRs to take advantage of their respective features.The optimized blend film gave a dense film with low roughness.It can facilitate electron collection and improve the electron-transport efficiency.Also, high-efficiency inverted PSC was demonstrated based on $\\mathrm { P T B 7 : P C _ { 7 1 } B M } _ { \\mathrm { \\Omega } }$ giving an average PCE of $8 . 5 8 \\%$ ，which increases by $1 5 . 6 \\%$ and $1 2 . 6 \\%$ in comparison with solely the $\\mathrm { { } } Z \\mathrm { { n O } }$ NP film $( 7 . 4 2 \\% )$ and solely the $\\mathrm { T i O } _ { 2 }$ NR film $( 7 . 6 2 \\% )$ = respectively.The results not only indicated that the blend film was the superior cathode buffer layer but also provided the method that a combination of inorganic nanomaterials with particular morphology gave multiple advantages in the fabrication of high-performance PSCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATED CONTENT ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cross-sectional SEM image and XPS spectra of the blend film, UV-vis absorption spectra of $\\mathrm { z n O }$ NP and $\\mathrm { T i O } _ { 2 }$ NR flms, UPS spectrum of the $\\mathrm { z n O }$ NP film，device parameter distribution map using $\\mathrm { { z n O } }$ ， $\\mathrm { Z n O / T i O } _ { 2 } ,$ and $\\mathrm { T i O } _ { 2 }$ as the buffer layer in a $\\mathrm { P T B 7 : P C B _ { 7 1 } M }$ system,different blend ratio dependences of $\\mathrm { Z n O \\ N P s / T i O } _ { 2 }$ NRs on the device performance,different thickness dependences of a blend film on the device performance, $J { - } V$ characteristics，and AFM images of the device performance using a blend film with different annealing temperatures.This material is available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR INFORMATION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ mail: jiutonggang@nimte.ac.cn.   \n$^ { * } \\mathrm { E }$ -mail: lixiaofang@iccas.ac.cn.   \n\\*E-mail: fangjf@nimte.ac.cn. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge support of the National Natural Science Foundation of China (Grants S1202264 and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "51273208） and the Specialized Research Fund for the Spring Buds Talent Program (Grant Y20804RA02). The work was also supported by the Hundred Talent Program of Chinese Academy of Sciences and the Starting Research Fund of Team Talent(Grant Y10801RA01）in NIMTE. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Chen, J.；Cao,Y. Development of Novel Conjugated Donor Polymers for High-Efficiency Bulk-Heterojunction Photovoltaic Devices.Acc. Chem.Res.2009,42,1709-1718.   \n(2) Krebs,F.C.; Tromholt, T.; Jorgensen,M. Upscaling of Polymer Solar Cell Fabrication using full Roll-to-roll Processing. Nanoscale 2010,2, 873-886.   \n(3）Cai，W.；Gong，X.；Cao，Y.Polymer Solar Cells:Recent Development and Possible Routes for Improvement in the Performance. Sol.Energy Mater. Sol.Cells 2010,94,114-127.   \n(4) Yu, G.; Gao,J.; Hunmelen,J. C.; Wudl,F.; Heeger,A.J.Polymer Photovoltaic Cells:Enhanced Efficiencies via a Network of Internal Donor-Acceptor Heterojunctions. Science 1995,270,1789-1791. (S) Lu, L.; Luo, Z.; Xu,T.; ${ \\mathrm { Y u } } ,$ L. Cooperative Plasmonic Effect of Ag and Au Nanoparticles on Enhancing Performance of Polymer Solar Cells.Nano Lett. 2013,13, 59-64.   \n(6)Liang, Y.; Xu, Z.; Xia,J.; Tsai, S.-T.;Wu, Y.; Li, G.; Ray, C.; Yu,L. For the Bright Future-bulk Heterojunction Polymer Solar Cells with Power Conversion Efficiency of $7 . 4 \\%$ .Adv.Mater.2010,22,E135- E138.   \n(7) Zhang,M.; Gu, Y.; Guo,X.; Liu,F.; Zhang, S.; Huo,L.; Rusell, T.P.; Hou,JEcent olmerSolar CellsBsedonBnzotiadazole and Alkylphenyl Substituted Benzodithiophene with a Power Conversion Efficiency over $8 \\%$ .Adv. Mater. 2013,25,4944-4949. (8）Huo,L.； Zhang, S.；Guo,X.； Xu,F.； Li,Y.；Hou, J. Replacing Alkoxy Groups with Alkylthienyl Groups: a Feasible Approach to Iimprove the Properties of Photovoltaic Polymers.Angew. Chem., Int. Ed. 2011, 50, 9697-9702.   \n(9)Jong,M.P.d.; Ijzendoorn,L.J. v.; Voigt,M.J.A.d. Stability of the Interface between Indium-tin-oxide and poly(3,4-ethylenedioxythiophene)/poly(styrenesulfonate） in Polymer Light-emitting Diodes.Appl. Phys. Lett.2000,77,2255-2257.   \n(10） Kawano,K.;Pacios,R;Poplavskyy,D.;Nelson, J.； Bradley,D. D.C.;Durrant, J.R. Degradation of Organic Solar Cells due to Air Exposure. Sol.Energy Mater. Sol. Cells 2006,90,3520-3530.   \n(i1）Norman，K.； Gevorgyan, S.A.； Krebs,F.C.Water-Induced Degradation of Polymer Solar Cels Studied by $\\mathrm { H } _ { 2 } ^ { \\mathrm { ~ 1 8 } } \\mathrm { O }$ Labeling. ACS Appl. Mater.Interfaces 2009,1,102-112.   \n(i2）Li,G.；Chu, C.-W.；Shrotriya, V.; Huang,J.； Yang, Y.Eficient Inverted Polymer Solar Cells.Appl.Phys. Lett.2006,88,253503. (13）White， M. S.；Olson, D.C.； Shaheen，S.E.；Kopidakis，N.; Ginley，D.S. Inverted Bulk-heterojunction Organic Photovoltaic Device using a Solution-derived ZnO Underlayer.Appl. Phys. Lett. 2006, 89, 143517.   \n(14) Chen,L.-M.； Hong, Z.； Li, G.； Yang, Y.Recent Progress in Polymer Solar Cells: Manipulation of Polymer:Fulerene Morphology and the Formation of Efficient Inverted Polymer Solar Cells.Adv. Mater. 2009,21,1434-1449.   \n(15) Xu, Z.; Chen, L.-M.; Yang, G.; Huang, C.-H.; Hou, J.; Wu, Y.; LiG.；Hsu，C.-S.；Yang,Y.Vertical Phase Separation in Poly(3- hexylthiophene):Fullerene Derivative Blendsand its Advantage for Inverted Structure Solar Cels.Adv.Funct.Mater. 2009,19,1227- 1234.   \n(16) He, Z.; Zhong, C.; Su, S.; Xu, M.; Wu,H.; Cao,Y.Enhanced Power-conversion Efficiency in Polymer Solar Cels using an Inverted Device Structure. Nat. Photonics 2012,190, 591-595.   \n(17) Irwin, M. D.; Buchholz,D.B.; Hains, A.W.; Chang, R.P.H.; Marks,T.J.p-TypeSemiconducting Nickel Oxide asanEfficiencyenhancing Anode Interfacial Layer in Polymer Bulk-heterojunction Solar Cells.Proc.Natl.Acad.Sci.U. S.A. 2008.105.2783-2787. (18)Murase, S.; Yang, Y. Solution Processed $\\mathbf { M o O } _ { 3 }$ Interfacial Layer for Organic Photovoltaics Prepared bya Facile Synthesis Method.Adv. Mater.2012,24,2459-2462.   \n(19) Han, S.； Shin,W.S.； Seo,M.; Gupta,D.；Moon,S.-J.; Yoo,S. Improving Performance of Organic Solar Cells Using Amorphous Ttungsten Oxides as an Iinterfacial Buffer Layer on Transparent Anodes. Org.Electron. 2009,10, 791-797.   \n(20）Liao,H.-H.；Chen,L.-M.；Xu,Z.；Li,G.；Yang, Y.Highly Efficient Inverted Polymer SolarCellbyLow Temperature Annealing of $\\mathrm { C s } _ { 2 } \\mathrm { C O } _ { 3 }$ Interlayer.Appl.Phys.Lett.2008,92,173303.   \n(21) Sun,Y.；Seo,J.H;TakacsC.J；Seifter，J；Heeger，A.J. Inverted Polymer Solar Cells Integrated with a Low-TemperatureAnnealed Sol-Gel-Derived $\\mathrm { z n O }$ Film as an Electron Transport Layer. Adv.Mater.2011,23,1679-1683.   \n(22)Waldauf,C.;oranaM; enk,P.;SchiliskyP.;CoakleyK; Choulis，S.A.；Brabec，C.J.Highly Efficient Inverted Organic Photovoltaics Using Solution Based Titanium Oxide as Electron Selective Contact.Appl. Phys.Lett. 2006,89,233517.   \n(23) Zhang,D.; Choy,W. C.H.; Xie,F.； Sha,W.E.I.; Li,X.; Ding, B.; Zhang,K.; Huang,F.; Cao, Y.Plasmonic Electrically Functionalized $\\mathrm { T i O } _ { 2 }$ for High-Performance Organic Solar Cells.Adv.Funct. Mater. 2013,23,4255-4261.   \n(24) Salim, T.； Yin, Z.; Sun, S.； Huang, X.; Zhang,H.; Lam,Y. M. Solution-Processed Nanocrystalline $\\mathrm { T i O } _ { 2 }$ Buffer Layer Used for Improving the Performance of Organic Photovoltaics. ACS Appl. Mater.Interfaces 2011,3,1063-1067.   \n(25)Hau,S.K.; Yip,H.-L.; Ma,H.; Jen,A.K.-Y.High Performance Ambient Processed Inverted Polymer Solar Cells Through Interfacial Modification with a Fullrene Self-assembled Monolayer.Appl.Phys. Lett. 2008,93,233304.   \n(26） Shao，S.；Zheng,K.；Pulerits，T.；Zhang，F.Enhanced Performance of Inverted Polymer Solar CellsbyUsingPoly(ethylene oxide)-Modified $\\mathrm { z n O }$ as an Electron Transport Layer. ACS Appl. Mater. Interfaces 2013,5,380-385.   \n(27) Park, ${ \\mathrm { K } } . { \\mathrm { } }$ Zhang, $\\mathrm { Q . ; }$ Garcia, B.B.; Zhou, X; Jeong, Y.-H.; Cao, G.Effect of an Ultrathin $\\mathrm { T i O } _ { 2 }$ Layer Coated on Submicrometer-Sized $\\mathrm { { z n O } }$ Nanocrystallite Aggregates by Atomic Layer Deposition on the Performance of Dye-Sensitized Solar Cels.Adv. Mater.2010，22, 2329-2332.   \n(28)Lin, Y.-T.； Zeng, T.-W.； Lai,W.-Z.； Chen, C.-W.； Lin, Y.-Y.; Chang, Y.-S.； Su,W.-F.Eficient Photoinduced Charge Transfer in $\\mathrm { T i O } _ { 2 }$ Nanorod/conjugated Polymer Hybrid Materials.Nanotechnology 2006, 17, 5781-5785.   \n(29) Chuang, C.-H.; Lin, Y.-Y.; Tseng, Y.-H.; Chu, T.-H.; Lin, C.-C.; Su,W.-F.; Chen, C.-W.Nanoscale Morphology Control of Polymer/ $\\mathrm { T i O } _ { 2 }$ Nanocrystal Hybrids: Photophysics, Charge Generation, Charge Transport, and Photovoltaic Properties.J. Phys. Chem. C 2010,114, 18717-18724.   \n(30)LiS.-S.；Chang,C.-P.；LinC.-C.；Lin,Y.-Y.； Chang,C.-H.; Yang, J.-R.; Chu, M.-W.; Chen, C.-W.Interplay of Three-Dimensional Morphologies and Photocarrier Dynamics of Polymer/ $\\mathrm { \\Delta T i O } _ { 2 }$ Bulk Heterojunction Solar Cels. J. Am.Chem. Soc.20i1，133，11614- 11620.   \n(31）Yu,K.; Chen,J. Enhancing Solar Cell Efficiencies through 1-D Nanostructures.Nanoscale Res.Lett. 20o9,4,1-10.   \n(32)Adachi,M.;Murata,Y.; Takao,J.; Jiu,J.； Sakamoto,M.;Wang, F.Highly Efficient Dye-Sensitized Solar Cells with a Titania Thin-Film Electrode Composed of a Network Structure of Single-Crystal-like $\\mathrm { T i O } _ { 2 }$ Nanowires Made by the“Oriented Attachment” Mechanism.J. Am. Chem. Soc.2004,126,14943-14949.   \n(33) Gadisa,A;Liu,Y.; Samulski, E.T.; Lopez,R Role of Thin nType Metal-Oxide Interlayers in Inverted Organic Solar Cels.ACS Appl.Mater.Interfaces 2012,4,3846-3851.   \n(34) Liu,J.;Shao,S.；Fang,G.；Meng,B.； Xie,Z.; Wang,L.HighEfficiency Inverted Polymer Solar Cells with Transparent and WorkFunction Tunable $\\mathrm { M o O } _ { 3 } – \\mathrm { A l }$ Composite Film as Cathode Buffer Layer. Adv. Mater. 2012, 24,2774-2779.   \n(35）Cheng,Y.-J.；Hsieh，C.-H.；He，Y.；Hsu， C.-S.；Li，Y. Combination of Indene-C60 Bis-Adduct and Cross-Linked Fullerene Interlayer Leading to Highly Efcient Inverted Polymer Solar Cells.J. Am. Chem. Soc.2010,132,17381-17383.   \n(36) Cheng,Y.-J.; Cao,F.-Y.; Lin,W.-C.; Chen, C.-H.; Hsieh, C.-H. Self-Assembled and Cross-Linked Fullerene Interlayer on Titanium Oxide for Highly Efficient Inverted Polymer Solar Cells.Chem.Mater. 2011, 23, 1512-1518.   \n(37) Chang, Y. M.; Leu, C.Y. Conjugated Polyelectrolyte and Zinc Oxide Stacked Structure as an Interlayer in Highly Efcient and Stable Organic Photovoltaic Cells.J. Mater.Chem. A 2013,1, 6446-6451. (38) Kyaw,A. K. K; Wang, D.H.; Gupta,V.; Zhang,J.; Chand, S.; Bazan，G.C.；Heeger，A. J. Efficient Solution-Processed SmallMolecule Solar Cells with Inverted Structure.Adv.Mater.2013,25, 2397-2402.   \n(39) Savva，A；Petraki，F.；Elefteriou,P.；Sygellou，L.；Vogt，; Giannouli,M;Keou,S.;Neson,J;BradleyD.D.C;BrabeCJ; Choulis,S.A. The Eect of Organic and Metal Oxide Interfacial layers on the Performance of Inverted Organic Photovoltaics.Adv. Energy Mater. 2013,3,391-398.   \n(40) Small,C.E.;Chen,S.；Subbiah,J.; Amb,C.M.; Tsang, S.-W.; Lai，T.-H.；Reynolds，J.R.；So，F.High-effciency Inverted Dithienogermole-thienopyrro-lodione-based Polymer Solar Cells. Nat.Photonics 2012,6, 115-120.   \n(41)Hu,T.; Li,F.;Yuan,K;Chen,Y.EfficiencyandAir-Stability Improvement of Flexible Inverted Polymer Solar Cells Using $\\scriptstyle { \\mathrm { Z n O } } /$ Poly(ethylene glycol） Hybrids as Cathode Buffer Layers.ACS Appl. Mater. Interfaces 2013,5,5763-5770.   \n(42）Liu,H.； Xu, J.；Li, Y.；Li, Y.Aggregate Nanostructures of Organic Molecular Materials.Acc.Chem.Res.2010,43,1496-1508. (43）Liu,H.；Zuo，Z.；Guo，Y.；Li,Y.；Li,Y. Supramolecular Interactions at the Inorganic-Organic Interface in Hybrid Nanomaterials.Angew.Chem.,Int.Ed.2010,49,2705-2707.   \n(44) Lin, Y.-H.; Yang,P.-C.; Huang, J.-S.; Huang, G.-D.; Wang, L-J.; Wu,W.-H.;Lin,M.-Y.; Su,W.-F.;Lin,C.-F.High-eficiencyInverted Polymer Solar Celswith Solution-processed Metal Oxides.Sol. Energy Mater. Sol. Cells 2011, 95,2511-2515.   \n(45) Liu,J.； Shao, S.；Meng, B.; Fang, G.; Xie, Z.; Wang,L.; Li, X. Enhancement of Inverted Polymer Solar Cells with Solution-processed ${ \\mathrm { Z n O - T i O } } _ { X }$ Composite as Cathode Buffer Layer. Appl. Phys. Lett. 2012,100, 213906.   \n(46) Bai, Y.; Yu, H.; Li, $Z . ;$ Amal, $\\mathrm { R . } ,$ Lu, G. $\\mathrm { \\Delta Q }$ M.; Wang, L. In Situ Growth of a $\\mathrm { { z n O } }$ Nanowire Network within a $\\mathrm { T i O } _ { 2 }$ Nanoparticle Film for Enhanced Dye-Sensitized Solar Cell Performance.Adv. Mater. 2012,24, 5850-5856.   \n(47)Pacholski, C.; Kornowski,A.; Weller,H. Self-Assembly of $\\mathrm { { z n O } }$ From Nanodots to Nanorods.Angew.Chem., Int.Ed.2002,41,1188 1191.   \n(48) Beek,W.J.E.; Wienk,M.M.; Kemerink,M.; Yang, X.; Janssen, R A. J. Hybrid Zinc Oxide Conjugated Polymer Bulk Heterojunction Solar Cells.J.Phys.Chem.B 2005,109,9505-9516.   \n(49) Cozzoli， P.D.； Kornowski A； Weller，H.Low-Temperature Synthesis of Soluble and Processable Organic-Capped Anatase $\\mathrm { T i O } _ { 2 }$ Nanorods.J. Am. Chem. Soc.2003,125,14539-14548.   \n(50) Lin, Y.-Y.; Chu, T.-H.; Li, S.-S.; Chuang, C.-H.; Chang, C.-H.; Su,W.-F.；Chang，C.-P.；Chu，M.-W.；Chen，C.-W.Interfacial Nanostructuring on the Performance of Polymer/ $\\mathrm { \\ T i O } _ { 2 }$ Nanorod Bulk Heterojunction Solar Cells.J.Am. Chem. Soc. 2009,131, 3644- 3649.   \n(51) Tan, Z.a.; Zhang, W.; Qian, Z. Z. D.; Huang, Y.; Hou, J.; Li, Y. High-Performance Inverted Polymer Solar Cells with SolutionProcessed Titanium Chelate as Electron-Collecting Layer on ITO Electrode.Adv. Mater.2012,24,1476-1481.   \n(52)Yang,T.; Cai W.; Qin,D.; Wang,E.; Lan,L;Gong,X; Peng,J; Cao,Y.Solution-Processed Zinc Oxide Thin Film as a Buffer Layer for Polymer Solar Cels with an Inverted Device Structure.J.Phys. Chem. C 2010,114,6849-6853.   \n(53） Shrotriya,V.; Li, G.; Yao,Y.; Chu,C.-W.; Yang, Y. Transition Metal Oxides as the Buffer Layer for Polymer Photovoltaic Cell. Appl. Phys.Lett. 2006,88,073508. (54) Liang, Z.; Zhang, $\\mathrm { Q . ; }$ Wiranwetchayan, O.; Xi, J.; Yang, Z.; Park, K.; Li, C.; Cao,G.Effects of the Morphology of a ZnO BufferLayer on the Photovoltaic Performance of Inverted Polymer Solar Cells.Adv. Funct.Mater.2012,22,2194-2201.   \n(S5）Thompson，B.C.；Frechet，J. M.J.Polymer-Fullerene Composite Solar Cells.Angew. Chem., Int.Ed.20o8,47,58-77. (56) Chou, C.-H.; Kwan,W.L.; Hong, Z.; Chen, L.-M.; Yang, Y.A Metal-Oxide Interconnection Layer for Polymer Tandem Solar Cells with an Inverted Architecture.Adv.Mater.2011,23,1282-1286. (57) Zeng, T.-W.; Lo,H.-H.; Chang, C.-H.; Lin, Y.-Y.; Chen, C.-W.; Su,W.-F.HybridPoly(3-hexylthiophene)/titaniumDioxideNanorods Material for Solar Cell Applications.Sol.Energy Mater.Sol.Cells 2009, 93, 952-957.   \n(58)Wong,D.K-P.; Ku, C.-H.; Chen, Y.-R; Chen, G.-R; Wu, J.-J. Enhancing Electron Collection Efficiency and Effective Diffusion Length inDye-Sensitized Solar Cells.ChemPhysChem20o9,10,2698- 2702. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

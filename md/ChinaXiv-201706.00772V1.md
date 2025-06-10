@@ -1,0 +1,210 @@
+# Hydrodynamics in a Circulating Fluidized Bed with Annular Furnace and Six Parallel Cyclones
+
+SHUAI Daping1,2 WANG Xiaofang1\*, LYU Qinggang1 1,2
+
+1. Institute of Engineering Thermophysics, Chinese Academy of Sciences,Beijing 100190, China   
+2. University of Chinese Academy of Sciences, Beijing,10o049, China
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017
+
+Systematic measurements were conducted on a cold CFB with annular furnace and six paralll cyclones to study gas-solids flow in the annular furnace and flow non-uniformity among six cyclones.The results show that axial solids holdup in the annular furnace decreases exponentially with height, similar to the conventional rectangular furnace.The uniform transverse distribution of solids holdup suggests a good gas-solids mixing in the annular furnace.The annular furnace presents the core/double-annulus flow structure,andit results in enhanced gas-solids back-mixing than the conventional core/annulus flow structure.The gas-solids flow of the inner wall-layer and the outer wall-layer is very close at most part of the furnace height,and the wal-ayer thicknessdecreases with height.Flow non-uniformity exists among six paralel cyclones in the annular furnace CFB.But non-uniform distribution of solids circulating rates and cyclone pressure drops show no regularity,andthe flow non-uniformity is no larger than the CFBs with conventional furnace. Under typical operating conditions,the relative deviation of six solids circulating rates is $8 . 0 \%$
+
+# Keywords: Circulating fluidized bed,annular furnace,parallel cyclones,flow structure,flow non-uniformity
+
+# Introduction
+
+Circulating fluidized bed(CFB） combustion technology has been widely used in thermal and power generation for its good fuel flexibility, low cost emission control and rather high combustion efficiency [1]. Supercritical CFB(SCFB) boiler combines the advantages of CFB and high efficiencyof supercriticalsteamcycle,andbecomes a developing direction of coal-fired power generation [2,3].
+
+One special feature of SCFB boilers is the large furnace to meet the needs of performance[4]. For example, the Lagisza $4 6 0 ~ \mathrm { M W }$ SCFB boiler was designed with a single bottom furnace which has a width of $2 7 . 6 \mathrm { ~ m ~ }$ a depth of $1 0 . 6 \mathrm { m }$ and a height of $4 8 . 0 \mathrm { ~ m ~ } ^ { [ 5 ] }$ . And the Baima $6 0 0 ~ \mathrm { M W }$ SCFB boiler was designed with a pant-leg bottom furnace which is $2 8 \mathrm { ~ m ~ }$ in width, $1 5 \mathrm { ~ m ~ }$ in depth and $5 4 \mathrm { m }$ in height [6]. When the unit capacity increases above $6 0 0 ~ \mathrm { M W }$ ，the furnace size will be larger and exceed the empirical scope,which will bring difficulties for uniformity of fluidization, secondary air penetration, layout of increased heating surfaces,and so on.To deal with these problems,the annular furnace was proposed for SCFB boiler over $6 0 0 ~ \mathrm { M W }$ by Institute of Engineering Thermophysics,Chinese Academy of Sciences and Dongfang Boiler Group Co., Ltd. As shown in Fig. 1[7], thecross-sectionof the annularfurnace isanannulararea enclosed by the outer sidewall and inner sidewall. Compared with the single bottom furnace of the same effective area,the annular furnace hasa smaller depth,which ensures a better secondary air penetration.Meanwhile, the bottom of the annular furnace is a interconnected space so that bed inventory overturn in the pant-leg bottom furnace [8]can be avoided. The water-cooled inner sidewall greatly increases evaporating heating surfaces, so the furnace height can be lowered and the cost of the boiler can be reduced.Moreover, there is enough suitable space to arrange wing wall superheaters and reheaters around the inner sidewall,making it possible to cancel the external heat exchanger which is complicated and high maintenance cost. The above advantages make it easier to scale the annular furnace CFB boiler up to largercapacity, suchas10ooMW.
+
+Another feature of SCFB boiler is multiply parallel cyclones in order to reduce the dimension of single cyclone and ensure the separation performance [9]. For example,the Lagisza 460 MW SCFB boiler is designed with eight parallel square cyclones and the Baima 600 MW SCFB boiler has six parallel cyclones.Based on the above two features of SCFB boilers,a new CFB with annular furnace and six parallel cyclones was put forward forSCFBboilersover $6 0 0 \mathrm { M W } .$
+
+![](images/d0d55dbf79d0dfb6fc13d6998b99cddd8e0eb41e774a9ea6db86eb7db0fcc3e1.jpg)  
+Fig.1Sketch of an annular furnace CFB boiler [7]
+
+Understanding hydrodynamics of the CFB is of fundamental importance to design a CFB boiler [10]. For the new CFB with annular furnace and six parallel cyclones, gas-solids flow in the furnace and flow non-uniformity among parallel cyclones [11] are the issues to be figured out.Valuable experimental investigations were carried out to investigate gas-solids flow in the CFB furnace [12-17]. Results show that gas-solids flow in the furnace can be divided into three zones:a bottom dense bed which has a high and relatively uniform solids concentration and be longs to bubbling bed or turbulent bed,a splash zone featuring a rapid decay of solids concentration,and a upper transport zone with a core/annulus flow structure. However, these studies were limited to the conventional rectangular furnace including the single bottom furnace and the pant-leg bottom furnace. Since the structure of the annular furnace is totally different from the rectangular furnace,gas-solids flow in the annular furnace can't be readily inferred,and targeted studies are needed.Furthermore, industrial tests [18,19] and prolonged operation results [20] suggested that flow non- uniformity exists among parallel cyclones,even when cyclones are symmetrically located. Grace [i]carried out mathematical model analysis and concluded that uniform distribution of gas-solids flow was an unstable steady state and it could be converted into a stable steady state (non-uniform distribution) by any perturbation. Yue et al. [21] investigated flow non-uniformity among three parallel cyclones through cold tests and found that cyclone pressure drop and solids circulating rate were non-uniformly distributed Liao et al. [22] simulated flow non-uniformity in a CFB with single bottom furnace and six parallel cyclones,and found that solids circulating rate of the two middle cyclones were smaller than the four side cyclones.Zhou et al.[23] measured the gas-solids flow distribution in a CFB with pant-leg bottom furnace and six parallel cyclones, and found that non-uniform distribution occurred mainly across the three cyclones on one side: the middle cyclones had higher particle velocities,lower solids volume fractions,lower solids fluxes and lower solids circulating rates.Since the above literatures mainly investigated the flow non-uniformity on one special structure in the rectangular furnace CFB, the effect of furnace structure and cyclone arrangement was still unknown. For the annular furnace CFB,is there any effect of inner sidewall on the flow non-uniformity among six parallel cyclones? Is the non-uniformity small enough to meet the boiler's design requirements?All these questions must be answered.
+
+In order to investigate hydrodynamics of the new CFB system, Wang et al.[7] built a cold test rig of CFB with annular furnace and six cyclones，and preliminarily characterized the hydrodynamics by visual observation and pressure drops measurement.Results show that there is no circumflux in the annular furnace and the axial solids holdup profile is similar to the rectangular furnace. Qiu et al.[24] characterized the gas-solids flow in the bottom region of the annular furnace by pressure fluctuation measurement and CPFD simulation,and found it was similar to the rectangular furnace.These studies were less comprehensive and systematic.Some important information,such as the lateral flow structure of the annular furnace and the effect of inner sidewall on the flow nonuniformity， is lacked. In the present study,systemic measurements were conducted in a CFB with annular furnace and six parallel cyclones to study gas-solids flow in the annular furnace and flow non-uniformity among six cyclones.
+
+# Experiments
+
+Experiments were carried out on a cold test rig of CFB with annular furnace and six parallel cyclones,illustrated in Fig. 2.
+
+The system was presented by Wang et al.[7] and Qiu et al. [24], but the layout of six cyclones has been retrofited, asshown in Fig.3 (a).The furnace has a heightof $8 ~ \mathrm { m }$ and the cross-sectional size of the outer sidewall and the inner sidewall is $1 6 8 0 ~ \mathrm { m m } \times 1 0 0 0 ~ \mathrm { m m }$ and $1 1 0 0 ~ \mathrm { m m } \times$ $4 2 0 ~ \mathrm { m m }$ , respectively. To reduce abrasion of corners, 45 degree chamfers are used on the inner sidewall and the outer sidewall. Six high eficiency cyclones (labelled A, B,C,G, H and I) are located symmetrically on the left and right sides of the furnace.Solids separated by the cyclones fall into the‘one-inlet-two-outlets’loop seals through the plexiglass standpipes,and then are fed back to the bottom of the furnace from twelve solids return points (Fig.3 (b)).To simplify the flow, only primary air is used.Primary air is equally introduced into the plenum chamber from the front side and the rear side.An air distributor with air caps and high pressure drop is used to achieve a good fluidization quality.
+
+![](images/3d875e28079aab5b77335978f5ae1adb526b39fde5a778129775333f0863eec8.jpg)  
+Fig.2Schematic of the experimental system
+
+![](images/200ef71bbdedce7a308379aa50b6e1c25108ef466422fdf5d7553c57c788df9a.jpg)  
+Fig.3Layout of cyclones, solids return points and measuring points
+
+The bed material used in this study is silica sands with a mean diameter of $4 9 2 \ \mu \mathrm { m }$ ，The properties of the bed material and the experiment conditions are presented in Table 1.
+
+Table 1 Bed material properties and experiment conditions   
+
+<html><body><table><tr><td>Item</td><td>Value</td></tr><tr><td>Mean particle diameter d5o (μm)</td><td>492</td></tr><tr><td>Particle real density pp (kg/m)</td><td>2650</td></tr><tr><td>Particle bulk density pb (kg/m³)</td><td>1231</td></tr><tr><td>Particle terminal velocity Uf(m/s)</td><td>3.2</td></tr><tr><td>Superficial gas velocity Ug(m/s)</td><td>4.0, 4.5, 5.0, 5.5</td></tr><tr><td>Furnace pressure drop △Pf (kPa)</td><td>1.6,2.4, 3.3</td></tr></table></body></html>
+
+Pressure drops were measured along the height of the furnace and between the inlet and outlet of each cyclone using differential pressure transmitters. Nine pressure taps labelled $\mathbf { a } { \sim } \mathbf { i }$ were located on every pressure measuring layer of the furnace to measure transverse distribution of gas-solids flow (Fig. 3 (b)).Apparent cross-sectional average solids holdup $\varepsilon _ { s }$ was calculated from pressure drops based on
+
+$$
+\varepsilon _ { s } = \Delta P \big / ( \rho _ { p } g \Delta h )
+$$
+
+The local solids concentration $c _ { \mathrm { s } }$ and local solids velocity $u _ { \mathrm { s } }$ were measured with a reflective-type fiber optic probe(FOP) system (PC6D&PV6D,Institute of Process Engineering, CAS, China). The FOP system consists of a fiber optic probe,a control system,an A/D converter and a data acquisition system.More details of the FOP system and its calibration can be found in Wang et al. [25]. In this work, to ensure an accurate measurement, the calibration was carried out and the functional relationship (Fig. 4) between the FOP system signal voltage $U$ and the solids concentration $c _ { \mathrm { s } }$ was obtained as below:
+
+$$
+c _ { s } = 0 . 0 3 6 5 U ^ { 1 . 7 7 2 }
+$$
+
+The locations of the FOP ports are shown in Fig.2 and Fig.3.Three FOP measuring layers were arranged along the height of the furnace. On each layer, there were three horizontal ports(labelled b,d and e) to measure the lateral profiles of gas-solids flow in feature points.FOP ports were also vertically installed on the roof plate of the cyclone inlets to compare solids concentration and solids velocity of the three cyclone inlets on one side.
+
+![](images/6a72949ea7db191cd3d5dca8eaf50cd855b24e58ebba10a8adf4660d4453b1e0.jpg)  
+Fig.4Relationship between the FOP signal and solids concentration
+
+The solids circulating rate $M _ { s }$ $( \mathrm { k g / s } )$ of each cyclone was measured using the solids stacking method.When the CFB was operated at a steady state, the air into one loop seal was interrupted fora short time and solids were stacked in the standpipe.Recording the solids stacking speed, the solids circulating rate could be calculated as follows:
+
+$$
+M _ { s } = \rho _ { b } A _ { s p } \Delta h / \Delta t
+$$
+
+where, $\rho _ { b }$ is the bulk density $( \mathrm { k g / m } ^ { 3 } )$ ， $A _ { s p }$ is the crosssectional area of the standpipe $( \mathrm { m } ^ { 2 } ) , \ \Delta t$ is the solids stacking time (s),and $\Delta h$ is the solids stacking height (m).
+
+# Results and Discussion
+
+# Axial solids holdup profiles
+
+The apparent solids holdup of position e is plotted in Fig.5.It shows that solids holdup in the annular furnace decays exponentially with height. The result is close to the axial solids holdup distribution in a rectangular riser with similar dimensions and operation conditions (the dashed line, Schouten et al. [26l). This implies that despite the structure discrepancy between the annular furnace and the rectangular furnace, the axial solids holdup profilesare similar.
+
+Two separate zones can clearly be seen in Fig.5: the splash zone with a strong decay of solids holdup,and the transport zone with a weak decay. The decay of solids holdup is caused by solids back-mixing.Johnsson and Leckner [14] considered that for CFB boiler the backmixing from the clustering flow dominated the splash zone and the back-mixing from the core/annulus flow dominated the transport zone.Thus, they derived the following expressions to describe the axial solids holdup profile:
+
+$$
+\begin{array} { r l } & { \varepsilon _ { s } = \left( { \varepsilon _ { s } } _ { b e d } - \ { \varepsilon _ { s } } _ { 2 , b e d } \right) \exp \left( - a \left( h - H _ { b e d } \right) \right) } \\ & { \quad + { \varepsilon _ { s } } _ { e x i t } \exp \left( K \left( H _ { e x i t } - h \right) \right) } \end{array}
+$$
+
+$$
+{ { \varepsilon } _ { { { s } _ { \mathit { s } } } _ { 2 , b e d } } } { = } { { \varepsilon } _ { { { s } _ { \mathit { s } } } _ { e x i t } } } \exp \left( K \left( H _ { e x i t } - H _ { b e d } \right) \right)
+$$
+
+where $a$ and $K$ are decay coefficients corresponding to back-mixing from the clustering flow and the core/ annulus flow, $\mathcal { E } _ { s b e d }$ and ${ { \varepsilon } _ { s \ e x i t } }$ are the solids holdups of the dense bottom bed and the exit, $H _ { b e d }$ and $H _ { e x i t }$ are the heights of the dense bottom bed and the exit.The calculation results by Eqs.(4) and (5) (solid lines in Fig. 5) fit the experiment results well, suggesting the assumption that the clustering flow predominates in the splash zone and the core/annulus flow predominates in the transport zoneis also reasonable for annularfurnace.
+
+Fig.6 shows that the decay coefficient of the splash zone, $a$ ，is related to gas velocity and furnace pressure drop.Under a certain furnace pressure drop,the decay coefficient $a$ decreases with the increase of gas velocity and satisfies the equation
+
+$$
+a U _ { g } \approx c o n s t
+$$
+
+Johnsson and Leckner [14] also got this equation in a rectangular furnace and they found that the constant $a U _ { g }$ depended on particle size: $a U _ { g } / U _ { t } \approx c o n s t$ under a fixed furnace pressure drop.Within the operating conditions of this work, the constant $a U _ { g }$ increases with furnace pressure drop.It should be due to that higher furnace pressure drop improves the solids holdup of the splash zone,as shown in Fig.3,which intensifies the back-mixing of the clustering flow and results in an increased decay coefficient $a$ ：
+
+![](images/c5a93b9154b01e4ecc3b69a89673053a9870958a696a5bd0af6f6f9bb8763e46.jpg)  
+Fig.5Axial distribution of apparent solids holdup in the annular furnace
+
+![](images/e007406880b13335dd05de27d643cb03c3e9f97cd5d354e67f445b286be404d7.jpg)  
+Fig.6The decay coefficient for splash zone, $a$ ，vs superficial gas velocity
+
+The variation with excess entrainment velocity of the decay coefficient for the transport zone, $K ,$ is shown in Fig.7. As can be seen, $K$ decreases with the increase of entrainment velocity. The trend is in agreement with the core/annulus model given by Davidson [27], which correlates $K$ to excess entrainment velocity. Fig.7 also shows that the influence of furnace pressure drop on $K$ is little. The same conclusion was also derived by Karlsson [28] in arectangular riser.
+
+# Transverse distribution of solids holdup
+
+To determine transverse distribution of gas-solids flow in the annular furnace,solids holdup of the three feature positions (center of the left wallb,center of the chamfer d and center of the rear wall e) are compared in Fig.8 The percentages next to the symbols are the relative deviations of solids holdups.In the very bottom of the annular furnace ( $0 . 2 5 \mathrm { ~ m ~ }$ above air distributor),solids holdup of position d is distinctly higher than position b and position e.Then,at the height of $0 . 6 5 \mathrm { ~ m ~ }$ ，solids holdup of
+
+![](images/f64bba8b1e9c968f00338a0579d840c66cf76f627a9ead26412cf84c45e2e879.jpg)  
+Fig.7The decay coefficient for transport zone, $K$ ，vs excess entrainment velocity $U _ { g } \ - \ U _ { t }$ （204号   
+Fig.8The transverse distribution of solids holdup in the annular furnace $( \Delta P _ { f } = 3 . 3 \mathrm { ~ k P a }$ $U _ { g } { = } 5 . 0 \mathrm { m / s }$ ）
+
+0.24 -position b d e fdrpor sltsgareedt 5 。 。 。 。。 。 。 ·—position d 。 o。。 。 。 C 0.22 position e 8 。。 16.0% b 。 。 。 B 。。 。。 。。 0.20 4 。 。 。 。。 。 0.04 。 。 。 。 26.6% A 。。 。。 6.6% 。。 。 。 0.02 1.1% 3.9% 2.3% 1.4% 27.3% 1 D 0.00 1 L 0 1 2 3 4 5 6 7 8 Height above air distributor,h (m)
+
+position d is distinctly lower than position b and position e. This is most likely caused by the relatively sparse distribution of air caps at the chamfer zone where the depth between the outer wall and the inner wall is larger (Fig. 8).The relatively sparse distribution of air caps leads to a smaller local superficial velocity, thus fewer solids are entrained to the height of $0 . 6 5 \mathrm { ~ m ~ }$ and more solids remain at the height of $0 . 2 5 \mathrm { ~ m ~ }$ .Therefore,uniformairdistributionis essential to achieve the uniform transverse distribution of gas-solids flow in the bottom of the furnace. Above the bottom, the deviation of solids holdups of po sitionb,position d and position e decreases immediately with the increase of height,and a quite uniform transverse distribution of gas-solids flow is achieved in the middle and upper part of the furnace.This suggests that there is a good gas-solids mixing in the annular furnace, which eliminates the deviation caused by the non-uniform air distribution.Besides,solids accumulation in the corners of rectangular riser (van der Meer et al. [29]) does not occur in the chamber, which proves the reducing wear function of the chamber.At the height near exits 0 $6 . 7 5 \mathrm { m }$ above air distributor),solids holdup of position d is $2 7 . 3 \%$ higher than that of position e.This is because the exit effect causes part of solids in the rear wall zone flowing to the exit C. Since position d is closer to the exit C, it has a higher solids concentration.
+
+# Lateral Profiles of local solids concentration and local solids velocity
+
+Lateral distributions of local solids concentration and local solidsvelocity are shown in Fig.9 andFig.10.The horizontal axis of $d / D$ represents a relative lateral depth from the outer wall to the inner wall: $d / D = 0$ represents the position at the outer wall and $d / D = 1$ represents the position at the inner wall.Fig.9 shows the lateral profiles of gas-solids flow in three feature horizontal positions (b, d,and e) at the same height of furnace $( h = 6 4 0 0 \ \mathrm { m m } )$ ！， and Fig. 1O shows lateral profiles of gas-solids flow at differentaxial height( $h = 2 0 0 0 \ \mathrm { m m }$ ， $4 6 0 0 \ \mathrm { m m }$ and 6400 mm) at the same horizontal position b.
+
+Firstly,it can be seen that at different horizontal positions(Fig.9) and at different heights (Fig. 1O), lateral distributions of local solids concentration and local solids velocity present the same structure:near both the outer wall and the inner wall there exist wall-layers where solids concentration is relatively high and average solids velocity is downward.Outside the inner wall-layer and the outer wall-layer, solids concentration is relatively low and average solids velocity is upward. This implies that the annular furnace presents the similar core/annulus flow structure which has been proven in the conventional furnace.The difference is that for the annular furnace the annulus includes the inner annulus and the outer annulus, namely the annular furnace presents core/double-annulus flow structure,as shown in Fig.11. Compared with the core/annulus flow structure, the core/double-annulus flow structure results in enhanced gas-solids back-mixing. Thus,the annular furnace intensifies gas-solids reaction and promotes the uniformity of temperature field.
+
+Fig.10 also shows that in the core region, solids concentration decreases with increasing ofheight and solids velocity increases with height; while in the wall-layers, solids concentration and downward solids velocity both decrease with increasing height. This suggests that there is a developing flow pattern along the height of the furnace,which is consistent with the decay of axial solids holdup in section Axial solids holdup profiles.At most part of the furnace height, the gas-solids flow of the inner wall-layer and the outer wall-layer isvery close,which means thatthedifferenceof flow fielddistribution between the inner wall and the outer wall may not need to be taken into consideration when arranging the heating surfaces.The wall-layer thickness $\delta$ can be defined as the distance from the wall to the zero solids velocity po sition (Zhou et al [13l).As shown in Fig.10,the inner wall-layer thickness $\delta _ { i n }$ is close to the outer wall-layer thickness $\delta _ { o u t } ,$ andthe wall-layer thickness decreases with height, which agrees with the result of conventional furnace boiler (Johnsson et al[l4l).
+
+![](images/a4ae2b12562a2e307b11a65c029282e635b888184f583f02a7f452608debcaa8.jpg)  
+Fig.9Lateral profiles of solids concentration and solids velocity for different horizontal positions( $h { = } 6 4 0 0 \mathrm { m m }$ △P $\mathbf { \Sigma } _ { \mathrm { ~ \tiny ~ - ~ } 3 . 3 \mathrm { ~ k P a ~ } }$ $U _ { g } { = } 5 . 0 \ \mathrm { m / s }$ ）
+
+![](images/9fd7120a741811821885b310a1e69e63eefc341ec1a5c6a38e81b090e09983d6.jpg)  
+Fig.10Lateral profiles of solids concentration and solids velocity at three levels (position b, $\Delta P _ { f } { = } 3 . 3 ~ \mathrm { k P a }$ ， $U _ { g }$ $= 5 . 0 \mathrm { m / s }$ ）
+
+![](images/354d97237d8a87c9bb7fbff55a4d07cedefbbd56db6a098df0387226f5e827a5.jpg)  
+Fig.11 Sketch of the core/double-annulus flow structure of the annular furnace CFB
+
+# Flow non-uniformity among six parallel cyclones
+
+In order to quantitatively discuss the flow non-unifor mity among six parallel cyclones,the relative deviation $( D e \nu )$ among the six cyclones is adopted to define the non-uniformity of the flow distribution:
+
+$$
+D e \nu = 6 \big ( P _ { \mathrm { m a x } } - P _ { \mathrm { m i n } } \big ) / \sum _ { i } P \big ( i \big )
+$$
+
+where $P ( i )$ is the value of parameter $P$ for cyclone $i ( i$ $= \mathrm { A }$ ,B, C,G,H and I),and $P _ { \mathrm { m a x } }$ and $P _ { \mathrm { m i n } }$ are the maximum and minimum values among six cyclones. Fig.12 and Fig. 13 show the distribution of solids circulating rates and pressure drops among six parallel cyclones respectively. The percentages above the columns are the relative deviations.As can be seen that there is some difference among six solids circulating rates and six cyclone pressure drops, suggesting that flow non-uniformity exists among six parallel cyclones.But the deviations of solids circulating rates (less than $8 \%$ ）and pressure drops (less than $1 1 \%$ ）are small,and non-uniform distribution of solids circulating rates and cyclone pressure drops among the three cyclones on one side show no regularity.
+
+This is different from the results of Yue et al.[21],Liao et al.22],and Zhou etal.23],which presented a fixed regularity of non-uniformity. As was pointed out by Wang et al.[7]，the diversity of gas-solids flow caused by the structure factors is able to determine the gas-solids flow distribution regularity among parallel cyclones, meanwhile the diversity of gas-solids flow caused by perturba tion makes the gas-solids flow distribution fluctuate within a narrow range.No regularity of flow non-uniformity suggests that the diversity of gas-solids flow caused bythe structure of the CFB with annular furnace and sixparallel cyclones in this workisrather small.
+
+The distribution of solids concentration and solids velocity in the three cyclone inlets on one side is shown in Fig.14.The ordinate $h _ { c } / H _ { c }$ represents a relative height: $h _ { d } / H _ { d } = 0$ represents the position at the bottom plate of cyclone inlets and $h _ { c } / H _ { c } = 1$ represents the position at the roof plate of cyclone inlets.Since the particle deposited on the bottom plate and it influenced the FOP measurement, there is a lack of data in the range of $h _ { d } / H _ { d } = 0 { \sim } 0 . 2$ Solids concentration and solids velocity varies little in the vertical direction，suggesting that the flow in the cyclone inlets is close to plug flow.And it can be seen that the middle cyclone inlet have higher solids concentration and lower solids velocity than the other two.The distribution is contrary to the result of Zhou et al. [23].
+
+In order to quantitatively discuss the flow non-uniformityamong the three cyclones on one side,the averaged data under typical operating conditions $( \Delta P _ { f } = 3 . 3 \ \mathrm { k P a }$
+
+$U _ { g } = 5 . 0 ~ \mathrm { m / s } )$ arelisted and compared with previous studies in Table 2.The distribution of solids flow rates $G _ { s }$ calculated by the averaged solids concentration and solids velocity in the cyclone inlet is consistent with the distribution of solids circulating rates $M _ { s }$ measured in the standpipe. The deviation of all parameters is within $10 \%$ and is no larger than the results derived by Zhou et al.[23] and Yue et al.[21] in the CFBs with conventional furnace. Thus it can be inferred that flow non-uniformity among six parallel cyclones will not be the restriction for annular furnace CFBs.
+
+![](images/04c2a203f64c08a60c7d34cee4c8b0a63fa486c7c09d27ea54d1c798ef4a4911.jpg)  
+Fig.12Solids circulating rates of each cyclone at various superficial gas velocity $( \Delta \mathsf { P } _ { f } = 3 . 3 \mathrm { ~ k P a } )$
+
+![](images/b49798274271474d19a7f960dea4d1873ea3dfd23536bd06875b0c5dc45d2f63.jpg)  
+Fig.13Pressure drops of each cyclone at various superficial gasvelocity $\Delta P _ { f } { = } 3 . 3 \ \mathrm { k P a } )$ 1
+
+![](images/50b948b6be3be2e47b46a49b292f453811ad6ae28bae33d57322a37043328858.jpg)  
+Fig.14Distribution of $c _ { \mathrm { s } }$ and $u _ { \mathrm { s } }$ in the cyclone inlets $( \Delta P _ { f } =$ $3 . 3 \mathrm { { k P a } }$ $U _ { g } = 5 . 0 \mathrm { m / s }$ 0
+
+Table 2Flow distribution among the three cyclones on one side   
+
+<html><body><table><tr><td rowspan="2">Item</td><td rowspan="2">cyclone A</td><td rowspan="2">cyclone B</td><td rowspan="2">cyclone C</td><td colspan="3">Deviation (%)</td></tr><tr><td>This work</td><td>Zhou et al. [23]</td><td>Yue et al.[21]</td></tr><tr><td>Cs in the horizontal ducts</td><td>0.0062</td><td>0.0068</td><td>0.0059</td><td>9.4</td><td>9.5</td><td></td></tr><tr><td>us in the horizontal ducts (m/s)</td><td>6.28</td><td>6.05</td><td>6.67</td><td>9.8</td><td>6.9</td><td></td></tr><tr><td>Gs in the horizontal ducts (kg/m²s)</td><td>103.1</td><td>109.0</td><td>104.3</td><td>6.0</td><td>7.3</td><td>-</td></tr><tr><td>solids circulating rates Ms (kg/s)</td><td>1.39</td><td>1.50</td><td>1.44</td><td>7.8</td><td>6.4</td><td>11.1</td></tr><tr><td>cyclone pressure drops △Pcyc (kPa)</td><td>1.11</td><td>1.09</td><td>1.19</td><td>8.5</td><td>3.0</td><td>3.2</td></tr></table></body></html>
+
+# Conclusions
+
+In this work, systematic measurements were conducted on a cold CFB with annular furnace and six parallel cyclones to study gas-solids flow in the annular furnace and flow non-uniformity among six cyclones. The main conclusions are as follows:
+
+Axial solids holdup in the annular furnace decreases exponentially with height, similar to the conventional rectangular furnace. Two separate zones can be seen in the height of annular furnace: the splash zone with a strong decay of solids holdup，and the transport zone with a weak decay. The assumption that the clustering flow predominates in the splash zone and the core/annulus flow predominates in the transport zone is also reasonable for annular furnace.
+
+Transverse distribution of solids holdup is uniform, suggesting that there is a good gas-solids mixing in the annular furnace.
+
+The annular furnace presents the core/double-annulus flow structure,which results in enhanced gas-solids back-mixing than the conventional core/annulus flow structure. The gas-solids flow of the inner wall-layer and the outer wall-layer is very close at most part of the furnace height,and the wall-layer thickness decreases with increasing height.
+
+Flow non-uniformity exists among six parallel cyclones in the annular furnace CFB.But non-uniform distribution of solids circulating rates and cyclone pressure drops show no regularity, suggesting that the diversity of gas-solids flow caused bythe structure of the CFB with annular furnace and six parallel cyclones in this work is rather small. Moreover the flow non-uniformity is no larger than the CFBs with conventional furnace.Under typical operating conditions, the relative deviation of six cyclones solids circulating rates is $8 . 0 \%$
+
+# Acknowledgements
+
+The work is supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA07030100).
+
+# References
+
+[1]Yue, G.X.,Yang,H.R.,Lu, J.F.,Zhang,H.,2009.Latest Development of CFB Boilers in China.In Proceedings of the 2Oth International Conference on Fluidized Bed Combustion (pp.3-12).Xian, China.   
+[2]Hotta,A.，2009.Foster Wheeler's Solutions for Large Scale CFB Boiler Technology:Features and Operational Performance of Lagisza 46O MWe CFB Boiler.In Proceedings of the 2Oth International Conference on Fluidized Bed Combustion (pp.59-70).Xian, China. [3]Yue, G.X., Ling,W., Lu, J.F., et al., 2015. Development and demonstration of the 60oMW supercritical CFB boiler in Baima power plant. In Proceedings of the 22nd International Conference on Fluidized Bed Conversion. Turku, Finland.   
+[4]Yue, G.X., Lu, J.F., Yang, H.R, et al., 2014. Research on Supercritical Circulating Fluidized Bed boiler. In Proceedings of the 1lth International Conference on Fluidized Bed Technology (pp.541-550).Beijing, China. [5]Venälainen,I.,Psik,R.,2004.460 MWe Supercritical CFB Boiler Design for Lagisza Power Plant.In PowerGen Europe. Barcelona, Spain.   
+[6] Cheng,L.M., Cen,K.F.,Luo, Z.Y.,2014.China's 600 MWe circulating fluidized bed boiler - some issues in the development and its operation.In VGB Conference "Steam Generators, Fluidized Bed Firing Systems and Cogeneration Plants 2014". Weimar, Germany.   
+[7]Wang, X.F., Lu, Q.G., Sun, Y.K., Shuai, D.P., 2015. Hydrodynamic of circulating fluidized bed with annular square-shaped furnace and six parallel cyclones. In Proceedings of the 22nd International Conference on Fluidized Bed Conversion. Turku, Finland.   
+[8]Li, J.J., Wang, W., Yang, H.R.,et al.,2009.Bed inventory overturn in circulating fluidized bed riser with pant-leg structure.Energy & Fuels 23(5),2565-2569.   
+[9]Lee,Y.Y.，1997. Circulating Fluidized Beds (pp. 417 440), Chapter 11,London.   
+[10] Reh，L.， 2003．Development potentials and research needs in circulating fluidized bed combustion. China Particuology 1(5),185-200.   
+[11]Grace, J.R., 2008. Maldistribution of flow through parallel cyclones in circulating fluidized beds.In Proceedings of the 9th International Conference on Circulating Fluidized Beds (pp. 49-53). Hamburg, Germany.   
+[12]Zhou, J.， Grace, J.R., Qin,S.，Brereton, C.M.H.,Lim, C.J., Zhu,J.1994.Voidageprofiles ina circulating fluidized bed of square cross-section. Chemical Engineering Science 49(19),3217-3226.   
+[13]Zhou, J., Grace, J.R., Lim, C.J., Brereton, C.M.H.,1995. Particle velocity profiles in a circulating fluidized bed riser of square cross-section. Chemical Engineering Science 50(2),237-244.   
+[14]Johnsson,F.,Leckner,B.,1995. Vertical distribution of solids in a CFB furnace.In Proceedings of the 13th International Conference on Fluidized Bed Combustion (pp. 671-679). Florida, USA.   
+[15]Svensson,A., Johnsson,F., Leckner, B.，1996.Bottom bed regimes in a circulating fluidized bed boiler. International Journal of Multiphase Flow 22(6), 1187-1204.   
+[16]Zhang, W.,Johnsson,F.,Leckner, B.,1995.Fluid-dynamic boundary layers in CFB boilers. Chemical Engineering Science 50(2),201-210.   
+[17]Johansson,A., Johnsson,F.，Leckner, B.， 2007．Solids back-mixing in CFB boilers. Chemical Engineering Science 62(1), 561-573.   
+[18]Hartge,E.U.,Budinger, S.,Werther,J.,2005.Spatial effects in the combustion chamber of the 235 MWe CFB boiler Turow No.3.In Proceedings of the 8th International Conference on Circulating Fluidized Beds (pp. 675-682). Hangzhou, China.   
+[19] Guo,Q.,Zheng,X.S., Zhou,Q.,et al.,2009.Operation experience and performance of the first 3Oo MWe CFB boiler developed byDBC in China.InProceedingsof the 20th international conference on fluidized bed combustion (pp.237-242).Xian, China.   
+[20] Kim,T.W.,Choi, J.H., Shun, D.W.,Kim, S.S.,Kim, S. D.,Grace, J.R.,20o7.Wear of water walls in a commercial circulating fluidized bed combustor with two gas exits.Powder Technology,178(3),143-150.   
+[21] Yue,G.X., Yang,H.R.,Nie,L.,Wang, Y.Z., Zhang,H., 2008.Hydrodynamics of 300 MWe and 600 MWe CFB boilers with asymmetric cyclone layout. In Proceedings of the 9th International Conference on Circulating Fluidized Beds (pp.13-16). Hamburg, Germany.   
+[22] Liao,L., Na, Y.J.,Lu, Q.G., Sun,Y.K.,Wang, H.G, 2011. Experimental study on a circulating fluidized bed with six cyclone separators.Proceedings of the CSEE,31(11), 11-16 (in Chinese).   
+[23] Zhou, X.L,Cheng,L.M.,Wang,Q.H.,Luo, Z.Y.,Cen, K.F.,2012.Non-uniform distribution of gas-solid flow through six parallel cyclones ina CFB system:An experimental study. Particuology 10(2),170-175.   
+[24]Qiu, G.Z., Ye,J.M.，Wang,H.G,2015. Investigation of gas-solids flow characteristics in a circulating fluidized bed with annular combustion chamber by pressure measurements and CPFD simulation. Chemical Engineering Science 134, 433-447.   
+[25]Wang, Z., Sun, S., Chen, H., Deng, Q., Zhao, G., Wu, S., 2009.Experimental investigation on flow asymmetry in solid entrance region of a square circulating fluidized bed. Particuology 7(6), 483-490.   
+[26]Schouten,J.C.,Zijerveld,R.C.，van den Bleek, C.M., 1999.Scale-up of bottom-bed dynamics and axial solidsdistribution in circulating fluidized beds of Geldart-B particles.Chemical Engineering Science 54,2103-2112.   
+[27] Davidson,J.F.,2ooo.Circulating fluidised bed hydrodynamics.Powder Technology 113(3),249-260.   
+[28]Karlsson,T.,Liu X.M,Pallares D.,Johnsson F.,2016. Solids circulation in circulating fluidized beds with low riser aspect ratio and varying total solids inventory. Powder Technology.   
+[29] Van dermeerE.H.,Thorpe R.B.,and Davidson J.F.,2000. Flow patterns in the square cross-section riser of a circulating fluidised bed and the effect of riser exit design. Chemical Engineering Science,55(19): 4079-4099.

@@ -1,0 +1,870 @@
+[
+    {
+        "type": "text",
+        "text": "Biological Knowledge-enabled BERT for Innovation in Biomimetic Design: A Case Study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Feng Sun, He $\\mathbf { X } \\mathbf { u } ^ { * }$ , Yihan Meng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:date/Accepted:date ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The biomimetic design provides an adequate solution to achieve an excellent design.However,the prototype space for biomimetic design is relatively large, and it becomes more and more challenging to find the required biological prototypes quickly and efficiently. In order to improve the design efficiency and enrich the means of biomimetic innovation,this paper proposes a biological knowledge-enabled bidirectional en coder representation from transformers(BERT） model to assist biomimetic design,namely BioDesign.We extract the biological strategies,functions and extract dimensionalinformation from the Asknature as the data source.The linguistic expression model-BERT was used to recommend biomimetic strategies or functions combined with the biological strategies data.Finally, we take the biomimetic erosion wear resistant design of the valve core as an example and use the proposed BioDesign model to recommend biomimetic inspired functions.According to the recommended content of the BioDesign model, we obtained the erosion wear resistance strategies and designed the biomimetic structure.The erosion wear experiment proved the feasibility and effectiveness of the proposed method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords Innovation design ·Natural Language Processing（NLP）·Biomimetic·Valve core ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biomimetics is an interdisciplinary approach integrating biology and technology by transferring natures principles into a technological solution [1]. Meanwhile,the biomimetic design has been a hotspot of engineering research in recent years [2]，[3]，[4].Exciting inspiration for designing new materials and structures can come from biological systems,where engineers can find ready-made solutions to solve problems [5], [6]. The focus of biomimetic design is to identify relevant biological strategies [7]. Generally, the common search process of identify relevant biological strategies for a given engineering problem can be concluded in three parts: consulting biologist, process natural language source of knowledge and using biological strategies in biomimetic database [8],as shown in Figure 1.However,biomimetic design as a biological knowledge driven design method is challenging because it requires biological and engineering knowledge [9],[1O].Although the unique design concept of biological evolution means that we can learn from natural structures and materials,biological solutions are often very different,which increases the difficulty of searching for target biological functions [11]. In addition,biomimetic design is also susceptible to subjectivity. To use the information of biological systems in new products,users need to understand these systems [9].However,due to the gap of knowledge background, understanding biological information is a challenge for engineers [12]. Even in multidisciplinary cooperation, the understanding of biomimetic design in other disciplines is full of changes due to educational background and terminology differences.Therefore, finding matching biology or biological function for a given target through scientific and effective methods is crucial for biomimetic innovation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biomimetic design needs reorganizing and using biological information,so it is necessary to excavate the existing biomimetic design information fully. Science is a dynamic system of scientific progress [13]. Functional descriptions are gradually enriched with the deepening of biological and biomimetic research,and biomimetic language models composed of words, phrases,and matrices related to bionics are gradually expanding. Because of the similarities in the shape and function of biological expression，it is natural to associate natural language processing (NLP) with biomimetic design. Therefore,reading and understanding the biomimetic language model becomes more and more important.Although natural language has a well-defined vocabulary (approximately one million words in English) [14], there are still some differences in the vocabulary distribution from the bionic language model. How to better integrate the content of the bionic language model with NLP still needs extensive discussion.Recently, artificial intelligence has attracted much attention in language understanding [15],[16],[17], [18]. The artificial intelligence method can obtain and analyze and process massive data quickly and dig out the value contained in the data [19], [20]. By mining the value of data, the purpose of guiding the design process and improving work efficiency is realized. Natural language processing adopts the concept of rapidly improving pre-trained models with embedded transfer learning. The pre-training of the language model shows impressive results for natural language processing tasks [21]. BERT is a key technological innovation in the field of NLP. By pre-training, part of the NLP middle and downstream tasks are migrated to the upstream so that the model can achieve outstanding results in multiple natural language processing tasks.In particular,because BERT has achieved excellent performance in sentence NLP tasks [22],it is suitable for our purpose of understanding and searching bionic content.Pre-trained BERT means that it can be fine-tuned through an additional output layer and is suitable for the construction of the most advanced models for a wide range of tasks, such as question answering tasks and language inference,without requiring major architectural modifications for specific tasks [23],[24], [25]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ee557b205a8d00f9feab636bcc7da745378c28d6c05c10a246720953a7ff568.jpg",
+        "img_caption": [
+            "Fig.1 The common search process of identify relevant biological strategies for a given engineering problem. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Asknature is the largest database of biologically inspired design [27], [28].With the help of BERT and the characteristics of the Asknature database,we merge the biological strategies information in the Asknature with the BERT pre-training model. The biomimetic design method based on artificial intelligence assistance is proposed,and the key content recommendations of biomimetic design are given.The relationship model between the user's difficult-to-quantify needs and the design elements of the biomimetic model is constructed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The essay has been outlined in the following way. Section 2 introduced the proposed method process.In section 3,a BioDesign model based on BERT is established with biological strategies and functions as feature input.According to the model results, the model output bionic function was discussed in relation to each other. In the section 4,take the erosion wear design of the valve core as an example, the effectiveness of BioDesign is verified through experiments. Section 5 provides conclusion and discussion,and presents our final remarks and suggestion of future work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Proposed Method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the problem-driven biologically inspired design, the starting point is the (engineering） problem for which suitable biological analogies are sought [29]. The important process of life design includes: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Searching for biological functions: Become more and more aware that all human beings,individuals and asa species,are part of nature,but independent,and respect the reciprocal relationship between all life through deepening connection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Engineering mapping (simulation): The practice of scientific study and then copying natural forms, processes and ecosystems to create more regeneration de signs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generally, the innovative design by biomimetic inspiration is a data driven innovative design method. The problem-driven（top-down） biomimetic design occupied the main part of the biologically inspired design [9]. The biomimetic design process of top-down mapping from top to bottom: questioning-biological search functional reference structural design. The biologically inspired design contains two important characteristic activities [3O],[31]: searching for biological information and analogy transfer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carrying out problem-driven biologically inspired design requires that a design model is followed,as shown in Figure 2a.Specifically, first,determine the requirements; then combine with part-of-speech analysis and other techniques to determine the bionic concepts or functions that meet the requirements.Then use the bionic concept or function as a design reference,extract feature information,and apply it to the actual design. Specifically, combining the steps of bionic design in the literature [29],[32],[33],the main steps of artificial intelligence-assisted bionic design are given. The process is as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/836f5548a3f335f9a9848ecbe51c5c14b898fe1e34896cea4befb22e9704b76e.jpg",
+        "img_caption": [
+            "Fig.2 (a)Thetop-downartifcial inteligentaidedapproach (technologypullprocess)(adapted from26]). (b)Theproposed BioDesign biomimetic design framework. (Asknature: htps://asknature.org, access in January 2021.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 1:Define goals and requirements ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is to set goals for implementing the bionic design to clearly understand its expected goals.Perform data analysis for those related biological functions or bionic designs that have clear answers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 2: Data collection ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to meet the goals and requirements identified in step 1,the appropriate data input that will beused for the analysis must be defined.This research aims to inspire bionic design, so it is necessary to obtain data related to the design function,such as biological description or functional description. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 3:Data understanding and preparation ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data cleaning process detects and corrects (or deletes) damaged and inaccurate data.This can be done manually or using data cleansing tools,which apply a set of predefined data validation and correction rules. Standardize and integrate data from different sources and different formats. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 4:Identify the feasibility of the problem ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this step, the designer conducts preliminary dataanalysis based on the extracteddata.Then conduct preliminary analysis and verification of the survey results to determine the possibility of a solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 5:Analysis and modelling of bionic design ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The solution obtained in the previous step is preliminary and requires in-depth and detailed analysis. The further analysis aims to discover the effectiveness of the bionic design. The model used for analysis can be data association,data classification,or simulation or experiment to evaluate the validity of the design. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step 6:Apply biomimetic innovation design to bionic engineering ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By combining bionic knowledge extracted from data analysis and engineering design，the bionic design of artificial intelligence-assisted analysis is realized. The proposed BioDesign model will be discussed in detail in the next section based on the above mentioned bionic design ideas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 BioDesign Model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 BioDesign model dataset ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The magical world composed of plants,animals and microorganisms has been researched and developed for billions of years. As young species,human beings are fortunate to get guidance from nature and inspire inspiration for innovative designs.The prerequisite for the accuracy of the combination of biology and engineering technology is collecting detailed information.Asknature (https://asknature.org/） summarizes examples of biomimetic innovation or engineering design inspiration from nature.Therefore,Asknature data is selected as the research data source,and the relevant content of biological strategies in Asknature is extracted through a self-developed python program. Obtain attribute parameters such as biological or bionic engineering cases and functional information,and the data processing format is shown in Figure 3(a-3).Furthermore,store the data in Excel format to be extracted during BioDesign model training. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2BioDesign model based on BERT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "OurBioDesign is initialized from BERT,which is an important recent development in universal language representation.BERT [34] uses bidirectional masking language modelling,in which a small part of the words are masked,and the model predicts the masked words. The use of BERT allows two-way training of the language model. Compared with the one-way language model, the two-way language model has a deeper understanding of the language context and language process [35]. In two-way language modelling, the model looks at all surrounding contexts that mask the tags.BERT refers to the learning method of the human brain and learns onlarge-scale text predictions,making the model have a strong text representation ability. Only simple finetuning in downstream tasks can achieve good results. BERT has learned large-scale corpus,which contains rich semantic knowledge,and it has certain advantages to transfer it to the field of biomimetic knowledge.This paper usesa BERT parameter model based on large-scale corpus pre-training and fine-tunes it on the biomimetic design and biological function data set. The data set provides the name,type, function and biomimetic design related to the creature.The BioDesign dataset contains three parts: biological strategies from Asknature, Google dictionary and English Wikipec a,as shown in Figure 3a. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 data pre-processing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The BioDesign model uses the same data preprocessing as the BERT model.BERT takes a sequence of word tokens as input.[CLS] stands for the beginning of a sentence.For an input sequence composed of two sentences,the two sentences are separated by another special mark,marked as [SEP],representing the sentence's end.The input format of BioDesign is [CLS] Biological strategies name [SEP] corresponding description [SEP]. The input samples can be words,phrases or sentences. The length can be chosen arbitrarily but should not exceed the length of 512 samples.As shown in the input layerin Figure 3b. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 model structure ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The BERT-based BioDesign model structure is shown in Figure 3b.First,in the input layer,vectorize the biological strategies name and description text after data preprocessing to form an input format that the BERT model can accept and enter the BERT coding layer. This layer presents the BERT model structure in detail,where $E$ and $F$ are the input of this layer and the output result of the input layer.After entering the coding layer,the vector is subjected to bidirectional Transformer coding to obtain a comprehensive vector coding based on contextual semantics.The output value of the fully connected layer of the BERT model is used as the input of the next layer of the network to enter the matching layer.This layer uses the Softmax classifier to classify the results to obtain the matching degree between the texts. The BioDesign model of the BERTbased biological strategy classification task is shown in the Figure 3b.From the model's perspective,the figure's biological strategies name and description are independent in their respective fields.They have different data and labels,but the model space of the trained model isshared. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the training process, the cross entropy is used as the loss function: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { s i m i l a r i t y } = - \\frac { 1 } { N } \\sum _ { i } ^ { N } y _ { i } \\log \\hat { y } _ { i } + ( 1 - y _ { i } ) \\log \\left( 1 - \\hat { y } _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where, $y _ { i }$ is the true label, $\\hat { y } _ { i }$ is the predicted proba bility.In the prediction,the higher probability is selected as the resulting output.Based on the text matching model,input the category label [CLS],and train the similarity between the input text and the biological description through the fully connected layer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because the pre-training phase requires a lot of computing resources and time,this article uses Google's open source BERT pre-training model (bert-base-uncased) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fefed0bae6c0cb2cc341ed4667bf6275e9ab3076899c24d0f5c3448d157a4203.jpg",
+        "img_caption": [
+            "Fig.3BioDesignmodel:(a)BioDesigndataset; (b)IustrationofBERTforBiological Strategies clasificationtasks(adapted from [34]);(c) correlation calculation of multiple source biomimetic inspiration based on BioDesign model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "directly. The model weights can be directly loaded in the code for training.The fine-tuning stage is trained onthe data set that matches the user's needs with the biological strategies name and description.The finetunes the parameters of the overall model composed of the pre-trained network and the fully connected layer. Through data training,the loss is calculated,and parameters are updated in the reverse direction.The purpose is to adjust the parameters of the model so that the model fits the data better. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ca831e0b0177275c77a29a17ff35ec7da4fb5e8182c2c83af9c19477410c4b3.jpg",
+        "table_caption": [
+            "Table 1 BioDesign model training parameter setting. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Hyperparameter</td><td>value</td></tr><tr><td>learning rate</td><td>5E-5</td></tr><tr><td>epoch</td><td>100</td></tr><tr><td>batch size</td><td>64</td></tr><tr><td>optimizer</td><td>Adam</td></tr><tr><td>activation function</td><td>tanh</td></tr><tr><td>test-size</td><td>0.1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3Model training parameter ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)put the results of the input layer into the BERT pre-training model training. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The BERT-based BioDesign model built in this article has the following steps: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) put the standardized biological strategy data after text preprocessing into the input layer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)put the word vector obtained from the BERT codinglayer into the fully connectedlayer and finetune to adapt the model to different learning tasks.The training model parameter table is shown in Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 Model training metrics ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the official evaluation system，for each task,the precision,the recall and the $F 1$ score are computed [36].In addition,accuracy is also used as an evaluation index in the process of model training. The metrics calculations above are derived from the following derivation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)precision ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e c i s i o n = \\frac { T P } { T P + F P }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where, $T P$ (True Positive） indicates the number of correct results predicted, $F P$ (False Positive) indicates the number of correct results predicted ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)recall ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e c a l l = { \\frac { T P } { T P + T N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where,recall denotes the number of correct results predicted by all models,including the original number of correct results and incorrect results. TN(True Negative）denotes the number of correct results completely found ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)accuracy ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\na c c u r a c y = { \\frac { T P + T N } { T P + T N + F P + F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where, $F N$ (False Negative) indicates the number of correct results predicted as wrong results ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$( 4 ) F 1$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF 1 = \\frac { 2 * p r e c i s i o n * r e c a l l } { p r e c i s i o n + r e c a l l }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$F 1$ reconciles the contradiction between accuracy rate and recall rate, taking into account the two indicators’ value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The calculation results of the BioDesign model are shown in Table 2,where LabelO represents the mismatch between the name and description of biological strategies,and Labell represents the match.The goal is to make the model learn biological strategies score of whether name and description match the training results of BioDesign model is shown in the following table. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/40086e57ada9295544123461633a479a94a2ae97cbcda2184cda053e98925813.jpg",
+        "table_caption": [
+            "Table 2 BioDesign model training results. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>task</td><td>precision</td><td>recall</td><td>accuracy</td><td>F1</td></tr><tr><td>label0</td><td>0.72</td><td>0.67</td><td>0.71</td><td>0.69</td></tr><tr><td>label1</td><td>0.71</td><td>0.75</td><td>0.71</td><td>0.73</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.5Word similarity ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Word similarity is a value ranging from O to 1 according to the distance of the wordin the thesaurus.The higher the similarity is,the closer the similarity is to 1.The similarity between a word and itself is 1.In this paper, vector cosine values are used to determine the similarity of two words.Defne word similarity $s i m ( \\mathbf { x } , \\mathbf { y } )$ as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m ( \\mathbf { x } , \\mathbf { y } ) = \\frac { \\sum _ { i = 1 } ^ { n } x _ { i } \\times y _ { i } } { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( x _ { i } \\right) ^ { 2 } } \\times \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( y _ { i } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where, the $s i m ( \\mathbf { x } , \\mathbf { y } )$ are the compared word vector. $s i m ( \\mathbf { x } , \\mathbf { y } )$ value range is $[ 0 , 1 ]$ . When two word vectors are synonyms or identical words,word similarity is $^ { 1 }$ When the semantics of two word vectors are completely different,word similarity is close to O.In this paper, the BioDesign model takes word similarity as an impor tant indicator to evaluate whether word semantics are similar ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Result analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theabove content introduces the method of artificial intelligence to assist the collection of biomimetic concept information.However,in theprocess of biomimetic design,there are a lot of information to choose.For example,how to respond to the information summary and data involved in the biomimetic design in a short time is still a challenging task.Though natural language approaches to biomimetics usually search biological texts for words associated with engineeringthe results may not be the only descriptors of a biomimetic design. Considering the output results of the BioDesign model comprehensively, two variables are introduced in the result analysis:key information complexity $K$ and key information elasticity weight $a$ . The two variables are unutilized to analyze the key characteristics of the results and balance the interaction between multiple results.The formula for result analysis of BioDesign is as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( K _ { n } , k e y w o r d _ { n } ) = x _ { r e s u l t _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The keyword is a key vocabulary that can express the concept of the subject ofa document.Keyword extraction is the basic work of text retrieval,document difference comparison，abstract generation，text classification and clustering. $M$ is the output of the corresponding BioDesign model. $\\boldsymbol { x } _ { r e s u l t _ { n } }$ is the response result of BioDesign model.Further,there has: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r } { M ( K _ { n } , k e y w o r d _ { n } ) = { \\left[ \\begin{array} { l } { M \\left( K _ { 1 } , k e y w o r d _ { 1 } \\right) } \\\\ { M \\left( K _ { 2 } , k e y w o r d _ { 2 } \\right) } \\\\ { \\cdots } \\\\ { M \\left( K _ { n } , k e y w o r d _ { n } \\right) } \\end{array} \\right] } } \\\\ { = { \\left[ \\begin{array} { l } { m _ { 1 1 } , m _ { 1 2 } , \\ldots , m _ { 1 K n } } \\\\ { m _ { 2 1 } , m _ { 2 2 } , \\ldots , m _ { 2 K n } } \\\\ { \\cdots } \\\\ { m _ { 2 1 } , m _ { 2 2 } , \\ldots , m _ { 2 K n } } \\end{array} \\right] } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where, $m$ is the element of the output result of the BioDesign model corresponding to $K$ and keyword. In order to take into account the different importance of key information,the key information elasticity weight $a$ is introduced: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\na \\cdot x _ { r e s u l t _ { n } } ^ { T } = y\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where, $a$ is the elastic weight of key information. （204号 $y$ is the corresponding elastic weight matrix and the biomimetic design result inspired by multiple sources. Further,there are: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = a _ { 0 n } + a _ { 0 n } { } ^ { \\theta } = \\left[ a _ { 1 } , a _ { 2 } , \\ldots , a _ { n } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\frac { l e n [ M ( K _ { 1 } , k e y w o r d _ { 1 } ) ] } { l e n [ M ( K _ { 1 } / 2 , k e y w o r d _ { 1 } ) ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where, $a _ { 0 n }$ is the initial weight of the keyword. $\\theta$ is the weight activity. $l e n [ M ( K _ { 1 } / 2 , k e y w o r d _ { 1 } ) ]$ is the number of elements in the model response result.The implicit function expression of the key information elas ticityweight $a$ on the variables and is shown in Figure 4.It is not difficult to see that after introducing weight activity variables, the range of key information weight changes has been significantly expanded.Therefore, the introduction of the key information elastic weight can widely consider the influence of the model output on the results of the multiple information source inspired by biomimetic design. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The pseudo code of the biomimetic inspired result analysis algorithm based on the BioDesign model is illustrated in Algorithm 1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f2a6e4dfaad7207622f507917a96c5194cc0cdeb9193cce138c783f1a97e388.jpg",
+        "img_caption": [
+            "Fig.4 The implicit function expression of the key informationelasticity weight a with respect to the variables $a _ { 0 n }$ and $\\theta$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c976c3af31108f6e71ce34c846c4630070fed896080337295bfd38feb78be15a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Algorithm 1 Correlation analysis of biomimetic inspi-</td></tr><tr><td>ration results from multiple sources</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2ae86e47ff86d2cb7a4516adc57bba5486b68460a33a43d6761f9a83439a03c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Input:Design the target keyword,the complexity of key information K,and the elastic matrix a Output:y,Result of biomimetic design inspired by multiple sources</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the following part,the key information complexity $K$ and key information elastic weight $a$ are used to illustrate the impact of the above two variables on the results of the proposed BioDesign model in the biomimetic design system with the subject of erosion and wear related content.Using Python language programming to achieve the above algorithm.We used jupyter notebook as the development and debugging tools,running under the Windows 1O operating system. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1） The influence of key information complexity $K$ on the results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The significance of correlation analysis:flter information and assist in processing information quickly. Therefore,the correlation analysis of the results is helpful to increase the information diversity of the biomimetic design and the ability of multi-dimensional rapid data processing.Figure 5 shows the output results corresponding to the input of the three key information ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) 0.915 Modify Oxidation State-Oxidation 0.91062 0.876277 0.910 Bacteria-Bacteria 0.903079 0.902591 -0.905 Mollusks (Snails, Octopuses)-uses 0.892279 -0.900 Move or Stay Put- 0.891938 0.901345 -0.895 Mollusks (Snails, Octopuses)-use 0.888568 -0.890 Protect From Physical Harm-Protect 0.883892 0.885446 0.885 Prevent Structural Failure-Prevent 0.877662 0.880 Capture, Absorb, or Filter Energy-Energy 0.886221 0.875   \n(b) Modify Oxidation State-Oxidation 0.91062 erosion 0.876277 wear impact 0.915 Bacteria-Bacteria 0.903079 0.902591 -0.910 Cooperate Within an Ecosystem-Ecosystem 0.901963 -0.905 Capture, Absorb, or Filter Organisms-Organisms 0.901484 Protect From Chemicals-Chemicals 0.901395 0.881133 -0.900 Coordinate Systems-stems 0.901113 Prevent Structural Failure-Prevent 0.900204 0.877662 -0.895 Protect From Physical Harm-Protect 0.899411 0.883892 0.885446 Mollusks (Snails, Octopuses)-uses 0.892279 0.882461 -0.890 Move or Stay Put- 0.891938 0.901345 Mollusks (Snails, Octopuses)-use 0.888568 -0.885 Cooperate Compete Between (Eco)systems-systems 0.874571 Modify Free Radical Reactivity-activity 0.873796 0.882631 -0.880 Capture, Absorb, or Filter Energy-Energy 0.886221 0.875   \n(c) Modify Oxidation State-Oxidation 0.9si0n 0.876277 impact 0.915 Bacteria-Bacteria 0.903079 0.902591 -0.910 Cooperate Withinan Ecosystem-Ecosystem 0.901963 Capture, Absorb, or Filter Organisms-Organisms Protect From Chemicals-Chemicals 0.901484 0.901395 0.881133 -0.905 PrevSrsts 0.901114 0.877662 -0.900 Protect From Physical Harm-Protect 0.899411 0.883892 0.885446 Vertebrates(mmsFishrsepilsil 0.898487 -0.895 Vertebrates (Mammals, Fish, Birds, Reptiles)-Mammals 0.896514 Molls ( 0.892279 0.902461 -0.890 Mollusks (Snails, Octopuses)-use 0.888568 0.879498 Cooperate Compete Between (Eco)systems-systems 0.874571 0.880786 -0.885 Modify Free Radical Reactivity-activity 0.873796 0.882631 Capture, Absorb, or Filter Chemical Entities-Chemical 0.87287 -0.880 Capture, Absorb, or Filter Energy-Energy 0.886221 Protect From Animals-Animals 0.880766 0.875 erosion wear impact ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\"erosion”,\"wear” and \"impact”.We compared the output results of BioDesign at different $K$ values and the same $a$ . The heat map on the left can intuitively show the similarity between each input keyword and the returned result.As the $K$ value increases, the complexity of the returned results gradually increases.At the same time, the commonality of the corresponding output results for each keyword also gradually increases. Theright half of Figure 5 shows the $Y$ value returned under the default elastic matrix and the corresponding biological strategy name and function description.It can be seen that the outputs of BioDesign increase with the increase of $K$ . Similarly,we compared the output results corresponding to the key information of \"erosion wear”, \"impact mitigate”,and ”improve lifetime\". The results are shown in Figure 6. The law presented is the same as that shown in Figure 5.It can be seen from the results in Figures 5 and 6 that the introduced $K$ has a positive effect on the evaluation of BioDesign results.Thus it can be seen that $K$ increase the range of retrieved biological functions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the previous part,we discussed BioDesign's help to biomimetic innovation and obtaining biological strategies based on key information.However, searching and understanding the results are still a time-consuming ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "-0.90 Modify Oxidation State-Oxidation 0.861813 Vertebrates (Mammals, Fish, Birds, Reptiles)-Reptiles 0.843586 -0.88 Cooperate Within an Ecosystem-Ecosystem 0.839826 Move in on Liquids-Liquids 0.837825 0.851448 -0.86 Move in Through Gases-Gases 0.795203 -0.84 Sense Sound and Other Vibrations From the Environment-ions 0.793168 0.851687 Cleave Halogens From Organic Compounds-Halogens 0.790345 -0.82 Chemically Assemble Specific Stereo Isomers-Isomers 0.78937 Arthropods (Insects, Spiders, Crustaceans)-Crustaceans 0.788908 -0.80 Capture, Absorb, or Filter Organisms-Organisms 0.850557   \n(b) -0.78 erosion wear impact mitigate improve lifetime Modify Oxidation State-Oxidation 0.861813 0.848491 -0.90 Vertebrates (Mammals, Fish, Birds, Reptiles)-Reptiles 0.843586 Cooperate Within an Ecosystem-Ecosystem 0.839826 0.848477 -0.88 Move in on Liquids-Liquids 0.837825 0.785142 0.851448 Manage Creep-Creep 0.836823 0.793168 0.851687 -0.86 Protect From Dirt solids-solids 0.834695 0.785933 0.847924 Move in on Solids-Solids 0.834695 0.785933 -0.84 Move in Through Gases-Gases 0.795203 Ci 0.790345 -0.82 Arthropods (Insects, Spiders, Crustaceans)-Crustaceans 0.788908 Amphibians-Amphibians 0.786716 -0.80 Capture, Absorb, or Filter Organisms-Organisms 0.850557 Coordinate Systems-stems 0.848421 -0.78   \n(c) erosion wear impact mitigate improve lifetime Modify Oxidation State-Oxidation 0.861813 0.848491 0.90 sen Vertebratesmmlsshdseile 0.843586 0.846596 Cooperate Withinan Ecosystem-Ecosystem 0.839826 0.848477 MoveannLiCridep-Crees 0.837825 0.785142 0.851448 -0.88 SenseSoundandOther VibrationsFromtheEnvironment-ions 0.834812 0.793168 0.851687 ProtectFrom Dirt solids-solids 0.834695 0.7 0.847924 Pre 0.833105 0.78523 0841 -0.86 Bacteria-Bacteria 0.832922 rt 0.832436 0.846687 -0.84 Coordinate Systems-stems 0.831649 0.848421 PreventStructuralFailure-Prevent 0.831583 0.84489 CleaveHalsFr 0.829815 0.790345 -0.82 ChemicallyAssembleSpecificStereo lsomers-lsomers 0.78937 Arthropods (Insects, Spiders,Crustaceans)-Crustaceans 0.788908 Amphibians-Amphibians 0.781909 -0.80 ManageStructuralForces-Manage 0.846182 Arthroposs 0.84555 Arthropods (Insects, Spiders, Crustaceans)-Spiders 0.844875 0.78 erosion wear impact mitigate improve lifetime ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) The relationship between key information elasticity weight $a$ and results ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "task.The introduction of $a$ can help designers reduce the time to analyze results.In a general way, the weight of key information also has an important influence on the calculation results of the model.For example,when a designer wants to analyze multiple key information at the same time,due to different application environments,the weight of the key information may have different definitions.In order to analyze the impact of $a _ { 0 n }$ and $\\theta$ on the results,we made the following analysis. Take the three keywords of \"erosion”,\"wear” and\"impact” as examples.Three different are initialized,as shown in Table 3. According to equation (11), the variable is related to the result of $\\theta$ and K.Here we set $K = 2 0 0$ ，calculate $\\mathit { l e n } [ M ( K _ { 1 } , k e y w o r d _ { 1 } ) ]$ and $l e n [ M ( K _ { 1 } / 2 , k e y w o r d _ { 1 } ) ]$ respectively,and find the corresponding 11/9,9/7 and $9 / 3$ .Input the above parameters into the model and obtain the result output.In order to see the effect of a on the results more intuitively, the results are visualized,as shown in Figure 7. The vertical axis is the name and description of the analysis result.The horizontal axis is its corresponding similarity weighting result.The result of $a$ is not considered as a control group.It can be seen from the results that, compared with the control group,the elasticity weight a can effectively highlight the results with greater similarity.At the same time,it fully considers the role of key information of different complexity in the results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similarly, we used the same method to analyze the elastic matrix $a$ of the three keyword groups \"erosion wear”,\"impact mitigate”,and ”Improve lifetime” and the corresponding results as shown in Figure 8.As can be seen from the Figure 8 that $a$ can respond to information about keywords whether it's a word or a phrase. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f80f02375e2452ace937b5e2dfecd0818bf99873e4b874f3ea8bed0b36b4edb2.jpg",
+        "table_caption": [
+            "Table 3 The variable elastic weight $( a )$ of key information: ”erosion”,\"wear”and ”impact”. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>a</td><td>keyword</td><td>aon</td><td>0</td></tr><tr><td rowspan=\"3\">a1</td><td>erosion</td><td>1</td><td>11/9</td></tr><tr><td>wear</td><td>0.8</td><td>9/7</td></tr><tr><td>impact</td><td>0.5</td><td>9/3</td></tr><tr><td rowspan=\"3\">a2</td><td>erosion</td><td>1</td><td>11/9</td></tr><tr><td>wear</td><td>0.1</td><td>9/7</td></tr><tr><td>impact</td><td>0.5</td><td>9/3</td></tr><tr><td rowspan=\"3\">a3</td><td>erosion</td><td>1</td><td>11/9</td></tr><tr><td>wear</td><td>0.8</td><td>9/7</td></tr><tr><td>impact</td><td>0.7</td><td>9/3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3488680b07a3aa1f64ae760bf4c872197dedc6f50a35e9db4e04acadf55c04ea.jpg",
+        "table_caption": [
+            "Table 4 The variable elastic weight $( a )$ of key information: ”erosion wear”,\"impact mitigate”,and ”improve lifetime”. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>a</td><td>keyword</td><td>aon</td><td></td></tr><tr><td rowspan=\"3\">a1</td><td>erosion wear</td><td>1</td><td>16/4</td></tr><tr><td>impact mitigate</td><td>0.8</td><td>10/5</td></tr><tr><td>improve lifetime</td><td>0.5</td><td>16/3</td></tr><tr><td rowspan=\"3\">a2</td><td>erosion wear</td><td>1</td><td>16/4</td></tr><tr><td>impact mitigate</td><td>0.1</td><td>10/5</td></tr><tr><td>improve lifetime</td><td>0.5</td><td>16/3</td></tr><tr><td rowspan=\"3\">a3</td><td>erosion wear</td><td>1</td><td>16/4</td></tr><tr><td>impact mitigate</td><td>0.8</td><td>10/5</td></tr><tr><td>improve lifetime</td><td>0.7</td><td>16/3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 Case Study ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The biologically inspired design method presented in this article is able to inspire more innovation.This case applies BioDesign model to biomimetic innovative design of erosion wear resistance of water hydraulic control valve. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Biomimetic innovation control valve core ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One of the reasons behind failed engineering surfaces and mechanical components is particle erosion wear [37].Erosion wear is a complex phenomenon [38],[39], [40]，[41]，[42]，[43]，[44]，[45],[46] depends on erodent particle (size,shape,hardness,concentration),eroded substance (elastic properties,surface hardness,surface morphology), flow condition (impacting velocity,angle, location) and so on. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the ideal structure that is resistant to erosion and wear should be able to resist erosion and wear,have a longer service life,and slow down particle impact and other properties.Therefore,in the erosion resistant design of the water hydraulic valve core，we hope that the valve core can be obtained the above advantages.Here,we choose three groups of keywords (\"erosion wear\"，\"impact mitigate\",and \"improve lifetime\"）as the input of BioDesign model. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A systematic research plan was developed to study the erosion wear of the control valve with biomimetic valve core.The following are the details of testing facilities and procedures.Refer to the application process of BioDesign mentioned above, first,determine the theme of designing the biomimetic anti-erosion valve core.Set the complexity $K = 3 0 0$ . Combined with actual working conditions,in this case study, the initial weights of the three key information are given to the above keywords,whichare1,O.1,and O.3,respectively.Enter keywords into the model, and return $\\mathit { l e n } [ M ( K _ { 1 } , k e y w o r d _ { 1 } ) ]$ （204号 and $l e n [ M ( K _ { 1 } / 2 , k e y w o r d _ { 1 } ) ]$ corresponding to the three key information.The calculation and model output results are shown in Figure 9.According to the top-down artificial inteligence-assisted biomimetic design method, we selected three biological strategies of\"absorb”,\"move in solid\",and \"protect from dirt solid” from the results of biological strategies inspiration as multi-source biomimetic design inspiration.Then combined with the actual situation of the valve core,abstracted from the above inspirationas\"absorb particle impact”and\"move particle direction”.Then we couple them with the spool to design a biomimetic erosion-resistant spool,as shown in Figure 9.We have improved the valve core structure and replaced part of the structure with a soft material (rubber layer) to achieve the effect of absorbing particle impact.At the same time,we set up non-smooth pits on the partial surface of the valve core.The fluid passes through the non-smooth surface and rotates in the pit,changing the flow field on the wall. The velocity of the vortex in the pit is opposite to the impact direction [47].Achieved the purpose of \"move particle direction\". ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Erosion wear experiment ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to further analyze the validity of the biomimetic design results,we carried out erosion wear experiments on the valve core.The initial concentration (5 wt. $\\%$ by weight） of sand particles were the same in all the erosion wear tests. The erosion wear experimental ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Send Light Signals in the Visible Spectrum,the Maintain Biodiversity,diversity ■ without a Send Light Signals in the Non-visible Spectrum,visible ■ a1 Capture,Absorb,orFlter Energy,Enrgy ■ a2 Protect From Temperature,Temperature ■ a3 Capture, Absorb, or Filter Chemical Entities,Chemical Vertebrates Mammals, Fish, Birds, Reptiles,Mammals Vertebrates Mammals, Fish, Birds, Reptiles,Reptiles Coordinate Systems,stems Capture, Absorb, or Filter Organisms,Organisms Cooperate Within an Ecosystem,Ecosystem Sense Sound and Other Vibrations From the Environment,ions 二 Bacteria,Bacteria PreventStructuralFailure,Prevent Modify Oxidation State,Oxidation Protect From Animals,Animals Modify Free Radical Reactivityctivity Cooperate Compete Between Ecosystems,systems Mollusks Snails, Octopuses,use Move or Stay Put, Mollusks Snails, Octopusesues Protect From Physical Harm,Protect Protect From Chemicals,Chemicals 0 1 2 3 4 5 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Arthropods Insects, Spiders, Crustaceans,Spiders Arthropods nsects,Spiders, Crustaceans,ects ■ without a Manage Structural Forces_,Manage ■ a1 Modify Buoyancy,Buoyancy ■ a2 t ■ a3 Chemically Assemble Specific Stereo Isomers,Isomers Cleave Halogens From Organic Compounds,Halogens Protect From Physical Harm,Protect Bacteria,Bacteria ManageCreepCreep PreventStructuralFailurePrevent CoordinateSystemsstems Vertebrates Mammals, Fish, Birds, Reptiles ,Mammals Capture,Absorb,or Filter Organisms,Organisms Protect From Chemicals,Chemicals CooperateWithinanEcosystem,Ecosystem Vertebrates Mammals, Fish, Birds, Reptileseptiles Modify Oxidation State,Oxidation Move in Through Gases,Gases Move inon Solids,Solids Protect From Dirt solids,solids Sense Sound and Other Vibrations From the Environment,ions Move in on Liquids ,Liquids 0 1 2 3 4 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "setup is schematically shown in Figure 10. Each group was tested at the same valve opening.Besides, the same flow is obtained by a PID closed-loop control algorithm. The control valve is calibrated to ensure the same initial position of valve displacement before each experiment. The control valve's opening is maintained at 8 mm by closed-loop control.All experiments in this study have been done on the 1 inch inside diameter (25.4 mm) pipe set.The experimental scheme of erosion wear is given in Table 5.The test valve core were fabricated by 3D printed, the material parameters of 3D printed valve plugs are illustrated in Table6.Among the erosion wear test, two factorswere selected:A andB.FactorA examined two levels: smooth (1） and biomimetic geometry (2). Factor B examined two levels:no biomimetic soft layer (1） and biomimetic soft layer (2). Sand particles could remove the paint from highly erosion regions, therefore, the tested samples were sprayed black to observe the erosion paint removal form.All samples were put into the ultrasonic cleaning machine (Shenzhen Jiemong,40 $\\mathrm { H z }$ ）for 5 min after the erosion experiment.Then,dry the samples at room temperature for 12 hours.All samples were weighed with an electronic weighing balance (Sartorius,BSA224S,accuracy of O.1 mg). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d150590cda5901b9e81d6e26de76c197c84786ea1bc37b495c51c81b954ed1e4.jpg",
+        "table_caption": [
+            "Table 5 Erosion wear experiment conditions. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>parameter</td><td>value</td></tr><tr><td>test time</td><td>10 min</td></tr><tr><td>flow</td><td>13.5L/min</td></tr><tr><td>particle diameter</td><td>0.3 mm</td></tr><tr><td>particle concentration</td><td>5 wt.%</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For qualitatively compare the erosion resistance of the samples,the erosion rate is used as an evaluation standard. The erosion rate (∈) can be calculated as the following equation: ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a3b85e61afe3e2e6711740fe8d3ebd7254c6879d942cdff164a6d93172fc512.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Input keyword=erosionwear,impactmitigate,improve lifetime K=300 a01 =1+11/4;02 =0.1+ 0.11/5;a01 =0.3+0.316/3 [('Arthropods (Insects,Spiders,Crustaceans),'Spiders'),0.09293626070022584),</td></tr><tr><td>Output</td><td>(('Arthropods (Insects, Spiders,Crustaceans)','Insects'),0.09301130652427675), (('Manage Structural Forces','Manage'),0.09308002531528474), ('Modify Buoyancy','Buoyancy'),0.47168900293401184), ('Amphibians','Amphibians'),0.4745890552003389), (('Arthropods (Insects,Spiders,Crustaceans),'Crustaceans'),0.47591147097948155), (('Chemically Assemble Specific Stereo lsomers','somers'),0.4761902073740629), (('Cleave Halogens From Organic Compounds','Halogens'),0.47677845910462946), (('Protect From Physical Harm','Protect'),1.659630298614502),</td></tr><tr><td>M(K,keywordn)=</td><td>(Bacteria','Bacteria),1.6658440828323364), ('Manage Creep','Creep'),1.6736457347869873), ('Prevent Structural Failure','Prevent'),1.7561044359207154), (('Coordinate Systems','stems'),1.7566242450475693), (('Vertebrates (Mammals,Fish,Birds,Reptiles),'Mammals\"),1.7574624133110046), ('Capture,Absorb,or Filter Organisms','Organisms'),1.7584336417913438), (('ProtectFrom Chemicals','Chemicals'),1.7590478253364563), (('CooperateWithinan Ecosystem','Ecosystem'),1.772985439300537)， (('Vertebrates (Mammals,Fish,Birds,Reptiles),'Reptiles'),1.7802966356277465), ('Modify Oxidation State','Oxidation'),1.8169610351324081), (('Move inon Solids','Solids'),2.236777696944729), (('ProtectFromDirtsolids','solids'),2.236777696944729), (('Move in Through Gases','Gases'),2.2391986740384406), (('Sense Sound and Other Vibrations From the Environment,'ions'),2.24178981717781 (Move in on Liquids','Liquids),2.2429488891295266)]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Multiple biomimetic concept generate ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\"absorb\" “move in solid\" \" protect from dirt solid\" ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstraction ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Absorb particle impact Move particle direction ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Technical application ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/63870c17e9a12b9761dd9757c79faabb9470a1fd1b040a002fb32d67ef5eef50.jpg",
+        "img_caption": [
+            "Fig.9 The design out of erosion wear control valve core based on BioDesign. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/10ee847b7c9fe12194c7a34612db0b1631087d71d5aab7568b8126a7f2c8e35f.jpg",
+        "table_caption": [
+            "Table 6 Material parameters of 3D printed valve plugs. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>material</td><td>elastic modulus (MPa)</td><td>poisson's ratio</td><td>density (t/mm³)</td></tr><tr><td>resin</td><td>2.5E+3</td><td>0.41</td><td>1.19E-9</td></tr><tr><td>rubber</td><td>-</td><td>0.49</td><td>1.2E-9</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where, $m _ { 0 }$ and $m _ { 1 }$ are the mass of samples before and after experiment, $t$ is the experiment period. ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon = \\frac { m _ { 0 } - m _ { 1 } } { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For factor A, $\\begin{array} { r l r } { \\mathrm { ~ } } & { { } } & { \\sum { A _ { 1 } B _ { a l l } } = 7 . 6 { \\times } 1 0 ^ { - 4 } g / s , \\sum { A _ { 2 } B _ { a l l } } = } \\end{array}$ $4 . 7 \\times 1 0 ^ { - 4 } \\ : g / s$ .For factor B $\\textstyle , \\sum A _ { a l l } B _ { 1 } = 7 . 3 { \\times } 1 0 ^ { - 4 } g / s$ ，$\\sum A _ { a l l } B _ { 2 } = 5 . 0 \\times 1 0 ^ { - 4 } ~ g / s$ ：",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b66765d02dd7b7bd4f2c117647a2b95f3e9f298f66f16855fec52b94e440d069.jpg",
+        "img_caption": [
+            "Fig.1O Schematic and photograph of the experimental setup. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In other words,the valve core with biomimetic geometry has a lower erosion rate.The valve core with a soft layer show better erosion wear resistance,and the valve core has a soft layer with negative stiffness cell inside has the lowest erosion rate. Table 7 compares the erosion rate and paint removal form after 5 minutes of erosion wear.According to equation 12,Case 4 has a minimum erosion rate.Meanwhile,according to the erosion appearance，the erosion form of case 4is also relatively low.That is the valve core with biomimetic geometry and soft layer shows the best erosion wear resistance performance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In addition,in terms of erosion rate,the effect of non-smooth structure on erosion rate reduction is stronger than that of soft layer structure,which is consistent with the output similarity result of BioDesign model. In summary,according to the case analysis of erosion wear of valve core, the BioDesign model has a obvious positive effect on biomimetic design ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion and Conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the past few years, interdisciplinary research and development combining natural sciences (biology） and technology (design and engineering) have increased significantly. However,the limited personal perception, knowledge and experience ensure that the rationality of the biomimetic design is worthy of further discussion.In response to this problem,we tried to use artificial intelligence methods to give suggestions on biomimetic designandprovide objective references forbiomimetic design.This is different from directly searching for designrelated keywords,and also includes possible design information,reducing the subjectivity of biomimetic design and biological search time.However, deep learning models are also difficult to interpret,even for experienced practitioners.Even for deep models,the combination of expert knowledge and feature engineering can improve performance more than complex models.Therefore,the subject of this research is not to use this deep learning method to replace the classic method of biomimetic design but as an auxiliary means that can reduce the limitation of biomimetic design on the research direction of designers.Finally,a case study is used to illustrate the effectiveness of the BioDesign model in biomimetic design.By constructing the datadriven biomimetic design innovation model BioDesign, the driving force of biomimetic design innovation is improved,and design thinking innovation is promoted. The innovations of this article are: ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/85ef9b443f9076a9631e65d18c48273c97638a4323bdcde185a64a43eca4dfbb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1)Based on the Asknature database,the content of biological strategy is used as an important reference for biomimetic design,and the complicated information is extracted into biological information and functional description. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2)Innovative application of deep learning and natural language processing technology in biomimetic design inspiration recommendation.When using,you only need to enter the keywords of the design content you are interested in and the relevant keyword weights to obtain the recommended results and save time. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) The introduction of key information complexity indicators and the correlation analysis of the results expand the multi-dimensional direction of biomimetic design. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we proposed a biological knowledge enabled BERT for innovation in biomimetic design.The proposed BioDesign can be utilized to improve the findability, recognizability and understandability in the process of biomimetic design.The BioDesign indicates the potential of biological knowledge-enabled NLP systems forsystematic search strategies for biological inspiration: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Firstly,it is derived from the research data published by users for this biological-related function,and the collected perceptual words are more targeted; ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Secondly, the data-oriented bionic evaluation method ensures the authenticity of the data; ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Finally, collect data. The data collection efficiency is high, the large data volume and the real-time perfor mance is good. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Of course, the proposed method has some limitations.In particular,building a deep learning model requires collecting a large amount of biomimetic design data.When the amount of data is insufficient,there are not many bionic design reference results returned. However,with the gradual development of the field of bionic design,this method can improve the efficiency of bionic conceptual design.In the future,exploring the cooperationbetweenbionic expertsand artificialintelligence may promote the development of the biomimetic design.When there is no bionic design expert,the designer can use this method to evaluate the engineering performance of the new design.Further development and broader evaluation of this method are part of future work. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6 Declaration of conflicting interests ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The author(s) declared no potential conflicts of interest with respect to the research,authorship,and/or publication of this article. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements This work was supported by the Natural Science Foundation of China under Grant 51875113,Natural Science Joint Guidance Foundation of the Heilongjiang Province of China under Grant LH2019E027.PhD Student Research and Innovation Fund of the Fundamental Research Funds for the CentralUniversities under Grant XK2070021009 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.E． Cruz，T.Hubert，G．Chancoco，O.Naim, N.Chayaamor-Heil,R.Cornette,C.Menezo,L.Badarnah,K.Raskin,F.Aujard,Energy and Buildings 246, 111034 (2021)   \n2.D.Palin，S.Russell,F.F.E.Kohle，E.O'Dowd，S.Y.T. Flynn,Dearq-Revista De Arquitectura-Journal of Architecture (26),52 (2020)   \n3.T.N. Sullivan,T.T.Hung,A.Velasco-Hogan,M.A. Meyers,Materials Science & Engineering C-Materials for Biological Applications 105 (2019)   \n4. X.c. Zhang, C.c. An, Z.f. Shen, H.x. Wu, W.g. Yang, J.p. Bai,Materials Today Communications 23 (2020)   \n5.S.Bonfanti,R.Guerra,M. Zaiser, S. Zapperi,Apl Mate rials 9(2) (2021)   \n6.O.Speck,D. Speck,R.Horn,J.Gantner,K.P. Sedlbauer, Bioinspiration & Biomimetics 12(1)(2017)   \n7.R.Kruiper，J.F.V.Vincent，E. Abraham， R.C. Soar，I. Konstas，J.Chen-Burger，M.P.Y.Desmulliez, Biomimetics 3(3) (2018)   \n8.E.Graeff,N.Maranzana,A.Aoussat,Journal of Engi neering Design 30(8-9),289 (2019)   \n9．A.Chakrabarti,L.Siddharth,M.Dinakar,MPanda, N.Palegar,S.Keshwani,Idea Inspire 3.O-A Tool for Analogical Design (2O17),Smart Innovation Systems and Technologies,vol.66,pp.475-485   \n.0．T.A.Lenau,A.L.Metze,T.Hesselberg，Paradigms for biologically inspired design (2018),Proceedings of SPIE, vol. 10593   \n.1.D.Vandevenne,P.A.Verhaegen，S.Dewulf,J.Duflou, Artificial Intelligence for Engineering Design，Analysis and Manufacturing pp.1-18 (2015) 12.H.H.rarzanen,K.HeIms,U.Linaemann，ViSUAL KEP RESENTATIONS ASA BRIDGE FOR ENGINEERS ANDBIOLOGISTSIN BIO-INSPIREDDESIGN COLLABORATIONS (2015)． International Conference on Engineering Design   \n13. X. Wang, X. Yang, J. Du, X. Wang, J. Li, X. Tang, Scientometrics_126(7), 5531 (2021)   \n14.D.Ofer，N. Brandes,M. Linial， Computational and Structural Biotechnology Journal 19,1750 (2021)   \n15.X.Li, B. Lin, Mathematical Problems in Enginering 2021 (2021)   \n16.W. Sha, Y. Guo, Q. Yuan, S. Tang, X. Zhang, S. Lu, X. Guo, Y.C. Cao, S. Cheng, Advanced Inteligent Systems 2(4) (2020)   \n17. R.Verganti, L. Vendraminelli， M. Iansiti, Journal of Product Innovation Management 37(3),212 (2020)   \n18. F.S. Zhong, J. Xing, X.T. Li, X.H. Liu, Z.Y. Fu, Z.P. Xiong,D. Lu, X.L. Wu, J.H. Zhao, X.Q. Tan,F.Li, X.M. Luo,Z.J. Li, K.X. Chen, M.Y. Zheng, H.L. Jiang, Science China-Life Sciences 61(10),1191 (2018)   \n19.G.X.Gu, C.T.Chen,D.J. Richmond,M.J. Buehler, Materials Horizons 5(5), 939 (2018)   \n20．J.L.Krichmar,W.Severa,M.S.Khan,J.L.Olds,Frontiers in Neuroscience 13 (2019)   \n21.A.Buche,M.B. Chandak, Bioscience Biotechnology Research Communications 13(14),35 (2020)   \n22. S. Nam, S. Yoon, N. Raghavan, H. Park, Sustainability 13(1) (2021)   \n23.T.Chen, M. Wu, H.Li, Database-the Journal of Biological Databases and Curation (2019)   \n24.J.Lee,W. Yoon,S.Kim,D.Kim,S.Kim,C.H. So, J. Kang,Bioinformatics 36(4),1234 (2020)   \n25.J. Wang, X. Zhang, L. Chen, Knowledge-Based Systems 232 (2021)   \n26.O. Speck,D. Speck, R. Horn, J. Gantner, K.P.Sedlbauer, Bioinspir Biomim 12(1),011004 (2017)   \n27.E.Graeff,N.Maranzana，A.Aoussat,in 22th International Conference on Engineering Design (ICED19), Delft,The Netherlands   \n28.M.Willocx,A. Ayali, J.R.Duflou, Cirp Journal of Manufacturing Science and Technology 31, 61 (2020)   \n29. T. Lenau, A.L. Metze, T. Hesselberg, Paradigms for biologically inspired design， SPIE Smart Structures and Materials $^ +$ Nondestructive Evaluation and Health Monitoring, vol. 10593 (SPIE, 2018)   \n30. K. Fu, D. Moreno, M. Yang, K.L. Wood, Journal of Mechanical Design 136(11) (2014)   \n31.J. Sartori, U. Pal,A. Chakrabarti, Artificial Inteligence for Engineering Design,Analysis and Manufacturing 24, 483 (2010)   \n32. C.T.A. Pham, S. Magistretti, C. DellEra, InnovationOrganization & Management p.24(2021)   \n33.N.Thuethongchai，T.Taiphapoon，A.Chandrachai, S. Triukose, Social Sciences-Basel 9(3) (2020)   \n34. J. Devlin, M.W. Chang, K. Lee, K. Toutanova, arXiv preprint arXiv:1810.04805 (2018)   \n35. T.Saha, S.R. Jayashree， S. Saha， P. Bhattacharyya, Ieee Transactions on Computational Social Systems 7(5), 1168 (2020)   \n36.M.Pota,M. Ventura,R. Catelli， M. Esposito,Sensors 21(1) (2021)   \n37. F. Sun, H. Xu, Bio-Design and Manufacturing 3(4), 331 (2020)   \n38. M. Ahmad, M. Schatz, M. Casey, Wear 303(1-2)，83 (2013)   \n39.A.P.Anaraki, J.Kadkhodapour,B. Taherkhani, Journal of Failure Analysis and Prevention 14(6),784 (2014)   \n40．P.Balu,F.Kong,S.Hamid,R.Kovacevic,Tribology International 62,18 (2013)   \n41.S.Hassani,M.Bielawski,W.Beres,L.Martinu,M.Balazinski，J. Klemberg-Sapieha，Surface and Coatings Technology 203(3-4),204 (2008)   \n42.J.Kadkhodapour,A.P.Anaraki,B.Taherkhani, Journal of Failure Analysis and Prevention 15(2),272 (2015)   \n43.H.A.Sherif,F.A.Almufadi,Wear 412-413,127 (2018)   \n44.B.S.Thapa,B.Thapa,O.G.Dahlhaug,Energy 41(1), 386 (2012)   \n45.B.Yildirim,S.Muftü, International Journal of Solids and Structures 49(11-12),1375 (2012)   \n46.N. Zhang,F. Yang,L.Li, C. Shen,J. Castro,L.J.Lee, Wear 303(1-2),49 (2013)   \n47. Z.W. Han, J.Q. Zhang, C. Ge, L. Wen, L.Q. Ren, Langmuir 28(5),2914 (2012) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

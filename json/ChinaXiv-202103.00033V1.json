@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "东帕米尔高原冰川运动特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄丹妮，张震，张莎莎，薛乃婷（安徽理工大学空间信息与测绘工程学院，安徽淮南232001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：冰川运动控制着冰量输送变化，为冰川变化和冰川灾害研究提供重要信息。为了探讨东帕米尔高原冰川运动特征及其影响因素，基于ITS_LIVE和GoLIVE分析了不同规模、不同地形条件、表硕/非表碛区域的冰川运动速度状况。研究结果表明：(1)东帕米尔高原冰川平均运动速度为 $5 . 3 1 \\ \\mathrm { m \\cdot a ^ { - 1 } }$ ，冰川运动速度与冰川规模相关，表现为大冰川比小冰川运动快；(2)冰川运动速度与平均坡度相关，表现为随平均坡度增加先增后减，坡度过大不利于冰川积累，表现为厚度(规模)小，则速度慢。（3）西南 $( 8 . 6 9 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ 、东南 $\\left( 1 1 . 6 7 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } \\right)$ 坡向的冰川运动速度大于其它坡向的冰川运动速度，与各个坡向的冰川规模相关。(4)表硕覆盖型冰川的运动速度小于非表硕覆盖型冰川，表硕对冰川运动速度起到抑制作用。(5)1989—2018年东帕米尔高原冰川运动速度表现稳定，与冰川年际变化稳定相对应。消融期冰川运动速度小于其它季节，与年内冰川厚度变化相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：东帕米尔高原；冰川运动；冰川运动特征；遥感；地形",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰川是冰冻圈的重要组成部分，与海平面上升、区域气候和水循环等有着密切联系。存在南极和格陵兰之外的山地冰川虽然只占全球冰川总面积的 $3 \\%$ ，但在全球气候变暖的背景下，对海平面上升的影响却超过了南极和格陵兰冰盖[1-2]。山地冰川对气候变化响应更为敏感，其冰川融水为下游居民提供水源，保障着下游居民的生活需要，对社会经济活动产生重要影响。近年来，山地冰川可能引发滑坡、泥石流和冰湖溃决等自然灾害，严重影响着下游人民的生命财产安全[3]。在气候变化的影响下，冰川运动速度控制冰量输送变化从而引起冰川长度变化、面积变化、厚变化的响应。因此，研究冰川运动规律，为合理利用冰川水资源、研究冰川变化和动力学机制提供科学依据。冰川运动速度的研究方法主要有GPS花杆测量法和遥感监测法。GPS花杆测量法受限于冰川区恶劣的环境，无法进行区域尺度范围的冰川运动监测。遥感技术的快速发展为冰川运动遥感监测提供了丰富的数据源，并且已经成为冰川运动的主要监测手段。不过，目前的研究工作主要集中在冰川运动速度提取方法上[4-7],也有部分研究者利用实地观测数据对单条冰川进行长时间序列的时空变化及其影响因素的分析，比如Wang等8基于实测数据分析了1980/1981—2011/2012年的乌鲁木齐河源1号冰川运动速度变化，井哲帆等对祁连山七一冰川1958—2007年间年际运动速度的影响因子强度进行了分析；随着遥感技术的发展，部分研究者利用遥感数据分析大范围冰川运动特征，比如王欣等[\"对珠穆朗玛峰地区大冰川运动特征进行了分析，张莎莎等[\"对喀喇昆仑山西北部的冰川运动整体特征进行研究，但时间序列较短。对于冰川运动相对比较活跃的地区，短时间序列提取的冰川运动速度可能受到跃动等复杂活动的影响，因此，本研究结合长时间连续的冰川运动速度产品对冰川运动相对比较活跃地区东帕米尔高原进行了整体运动特征的研究。ITS_LIVE(Inter-mission time series of landicevelocityandelevation)冰川运动速度数据是基于1985—2018年的Landsat4、5、7、8遥感影像提取的，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并融合成多年平均的运动速度产品。该数据具有良好的鲁棒性，减少了因图像匹配、冰川跃动等因素引起的误差，并且相对于短时间尺度的数据所反映的信息更加接近于冰川运动的实际状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "东帕米尔高原是我国西部巨大山系,地形复杂，是古代丝绸之路的重要通道，也是如今中巴友谊公路的必经之地。由于其极高海拔而发育众多规模较大的冰川，是下游喀什地区重要的水资源区域，并且冰川运动威胁中巴公路的安全运营。东帕米尔高原冰川变化空间差异显著：不同流域的冰川变化差异性显著，即使是同一流域或者同一山区，甚至相邻的2条冰川呈相反的变化趋势[12-13];冰川变化时间上也具有差异性：部分研究者认为该地区冰川近些年呈现正物质平衡现象[14],此现象被称之为\"帕米尔-喀喇昆仑山(冰川)异常\"[15],而2000年以前却呈现物质亏损状态[12.16],虽然对于整个地区是否都存在类似的状态目前还存在一定的争议，但是部分冰川变化差异性是显著的[13]。冰川运动速度时空分布特征则有助于理解冰川变化差异性的认识。尽管东帕米尔高原部分冰川运动速度提取已有少量研究，如,Yan等[1]使用ALOSPALSAR对科克萨依冰川运动速度进行了提取研究,Yang等[18]利用1998—2010年9景Landsat影像对科克萨依冰川运动速度进行了分析，但是目前鲜有东帕米尔高原冰川运动整体特征的研究。此外，跃动是冰川运动的特殊形式,2015年东帕米尔高原九别峰的克拉牙依拉克冰川西支发生跃动,部分学者对该冰川进行了研究,比如 Shangguan等[19]利用Landsat影像对克拉牙依拉克冰川跃动前后运动速度提取分析，得出跃动时期为2015年的4月13日一6月6日，最大运动速度 $( 2 0 . 2 { \\pm } 0 . 9 ) \\mathrm { m \\cdot d ^ { - 1 } }$ 。张震等[20]与李均力等[21]分别用卫星遥感影像和无人机对跃动前后的体积变化进行了监测， $\\mathrm { Y a o }$ 等[22]对跃动事件进行了进一步分析。Lu等[23]在昆盖山又发现了13条跃动冰川。近些年帕米尔高原跃动冰川被广泛关注，认识冰川运动速度规律有助于理解冰川跃动机制,对识别潜在跃动冰川及预测冰川跃动具有一定的科学和现实意义[24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究基于ITS_LIVE数据分析冰川运动速度，使用GoLIVE数据补充年内数据，以ASTERGDEM为辅助数据提取地形因子，分析冰川规模、地形及表硕覆盖对冰川运动的影响，并分析了冰川运动速",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "度年际和年内变化特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "帕米尔高原 ${ 7 3 ^ { \\circ } 0 0 ^ { \\prime } { \\sim } 7 6 ^ { \\circ } 3 0 ^ { \\prime } } \\mathrm { E }$ 和 $3 8 ^ { \\circ } 0 0 ^ { \\prime } { \\sim } 4 1 ^ { \\circ } 0 0 ^ { \\prime }$ N)横跨中国新疆西南、阿富汗东北和塔吉克斯坦东南，位于中国境内的区域称为东帕米尔高原。区域内沟壑纵横，地形复杂,分布着昆盖山、慕士塔格、公格尔等诸多高大山体，山体大致呈北西一东南走势，平均海拔在 $4 5 0 0 \\mathrm { ~ m ~ }$ 以上，最高峰为公格尔1 $( 7 7 1 9 \\mathrm { ~ m } )$ )。区域内年降水量较小( $7 5 { \\sim } 1 0 0 ~ \\mathrm { m m }$ ，且持续处于低温状态(最低达到 $- 5 0 ~ ^ { \\circ } \\mathrm { C }$ ，最高不超过$2 0 { } ^ { \\circ } \\mathrm { C }$ )。东帕米尔高原主要受西风带影响，属于大陆性高山气候。东帕米尔高原孕育着丰富的冰川，根据第二次冰川编目的数据显示[25],东帕米尔高原共有冰川1179条。区域内面积大于 $5 0 \\mathrm { k m } ^ { 2 }$ 的大型冰川有3条，分别是克拉牙依拉克冰川、其木干冰川、科克萨依冰川(图1)。最大冰川为克拉牙依拉克冰川,面积为 $1 1 5 \\mathrm { k m } ^ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ITS_LIVE(Inter-mission time series of land ice ve-locityandelevation)来源于NASA的MEaSUREs项目（网址:https://its-live.jpl.nasa.gov/）,是提取自Landsat4、5、7、8的冰川数据产品，包含1985—2018年的所有冰川运动和海拔变化数据。处理过程中，使用",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/226fced163ab6f2f0fd224b49be66f766ad20be324f349731cec868d91925771.jpg",
+        "img_caption": [
+            "注：1、2、3分别表示克拉牙依拉克冰川、其木干冰川、科克萨依冰川图1东帕米尔高原冰川位置示意图",
+            "Fig.1 Location of easternPamirPlateau glaciers "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Landsat4、5影像1\\~4波段和Landsat7、8全色波段，用随机数据补充Landsat7中的缺失数据，进行局部归一化、过采样、特征跟踪等提取冰川运动速度，并通过归一化位移相干性过滤器(NDC)对未匹配成功的区域进行搜索，运动速度分量误差校正等，提高结果精度，减少误差，使运动速度保持在亚像素级别[26-27]。该数据有 $1 2 0 \\mathrm { m }$ 和 $2 4 0 \\mathrm { m }$ 两种分辨率。De-hecq等[28]已将该数据用于高山亚洲区冰川运动的相关研究中，验证了ITS_LIVE数据的可用性。本文使用的多年平均数据分辨率为 $1 2 0 \\mathrm { m }$ ,单年数据分辨率 $2 4 0 \\mathrm { m }$ ,使用数据版本为V0版本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于ITS_LIVE仅提供年际数据，本研究采用GoLIVE数据（2013—2018年）分析季节变化特征。GoLIVE数据是基于Landsat8全色波段利用归一化互相关(NCC)算法提取的冰川运动速度，并基于拟合、高通滤波、噪声处理等将精度提高到亚像素级别。使用NCC进行特征追踪时，参照物选用图像内裸露的岩石或稳定移动的冰川，当参考图像的特征点无法追踪时，则采用卫星地理定位（精度 $\\pm 5 \\mathrm { ~ m ~ }$ ）。影像空间分辨率为 $3 0 0 \\mathrm { ~ m ~ }$ ，时间间隔分别为16、32、48、64d和 $9 8 \\mathrm { ~ d ~ }$ 。由于短时间间隔的影像去相关性较好，在本研究中，使用16d和32 d的数据[11,29]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASTER GDEM（ASTER Globe digital elevationmodel)是NASA和METI的产品，数据覆盖范围为$8 3 ^ { \\circ } \\mathrm { N } { \\sim } 8 3 ^ { \\circ } \\mathrm { S }$ 之间的所有陆地区域，达到了地球陆地表面的 $9 9 \\%$ ,其全球空间分辨率约为 $3 0 \\mathrm { ~ m ~ }$ ，空间参考坐标系为WGS84/EGM96[30]。ASTER数据含有丰富的3D信息，并且不受雪穿透问题的影响，适用于冰冻圈的相关分析，在文中主要用于获取研究区的高程、坡度、坡向等地形信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二次冰川编目数据(SCGI)来源于寒区旱区科学数据中心(http://westdc.westgis.ac.cn）,涵盖中国西部 $8 6 \\%$ 的冰川目录编制，在本研究中用作冰川边界的提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用ITS_LIVE数据进行冰川规模、地形、形态方面的分析，季节相关均采用GoLIVE数据，结合ASTER数据获取高程、坡度、坡向等相关地形信息，分析东帕米尔高原境内的1179条冰川的运动特征。在分析过程中，分区统计不同地形条件下的冰川运动状况，运动速度与面积加权获取冰川运动速度。对单条冰川分析过程中，采用双线性内插法，基于点位进行冰川表硕、自身分布状况的分析[3]为保证结果精度，参照Sam等[29的研究方法，将面积不足一个像元的冰川不纳入统计，并在像元信息统计中舍弃运动速度大于2个标准差的像元。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据东帕米尔高原气候背景[32],将1年划分为消融前期（1—4月）、消融期(5—8月）、消融后期（9—12月），分析冰川运动速度变化。GoLIVE数据自身包含corr和 $\\mathrm { d e l } _ { - } \\mathrm { c o r r } 2$ 个数据质量参数，在分析季节变化时，剔除 $\\mathrm { d e l \\_ c o r r } < 0 . 3$ 和 $\\mathrm { c o r r } < 0 . 4$ 的栅格数据[29]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用ITS_LIVE多年平均数据时不考虑冰川跃动的影响。已有研究表明，冰川跃动对多年平均运动速度影响不大[28]。本文为验证冰川跃动对多年平均数据的影响，去除跃动年份(2015年)前后2a的运动速度数据(2013—2017年)求取多年平均值$( 6 . 2 3 \\ \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ ,其结果与1989—2018年的多年平均运动速度结果 $( 6 . 5 6 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ 差别不大，故而不考虑跃动的影响。在分析过程中，本文所有数据均使用WGS1984UTM43N坐标系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3精度评估 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用NCC算法提取冰川运动速度，误差来源主要为：系统误差、图像自身质量、图像配准误差。为量化误差，假设非冰川区域稳定无位移变化，则冰川区域的误差可用非冰川区域进行评估[33]，非冰川区域的位移误差计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { \\mathrm { o f f } } = \\sqrt { \\mathrm { S E } ^ { 2 } + \\mathrm { M E D } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $e _ { \\mathrm { o f f } }$ 为非冰川区域的位移误差；MED表示平均位移；SE 为平均位移的标准误差。SE计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S E } = { \\frac { \\mathrm { S T D V } } { \\sqrt { N _ { \\mathrm { e f f } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：STDV为非冰川区域平均位移的标准差； $N _ { \\mathrm { e f f } }$ 代表去除自相关影响的有效像元的个数。 $N _ { \\mathrm { e f f } }$ 计算公式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { e f f } } = \\frac { N _ { \\mathrm { t o t a l } } \\times \\mathrm { P S } } { 2 D }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { \\mathrm { t o t a l } }$ 为非洲区域像元总数；PS表示为像元分辨率； $D$ 为去除自相关影响的空间自相关距离，一般是像元分辨率的20倍。对非冰川区域的统计显示ITS_LIVE数据的非冰川区域的误差为 $0 . 7 3 \\ \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 }$ 。GoLIVE数据的非冰川区域误差为 $0 . 1 4 ~ \\mathrm { m \\cdot d ^ { - 1 } }$ （图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/54a7c9c7e6222a0b89bcb3993335eb424e643ea637ceb52c177d998af1dfab01.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图2ITSLIVE数据和GoLIVE数据的非冰川区域误差分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1冰川运动速度特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1985—2018年，东帕米尔高原冰川平均运动速度为 $5 . 3 1 \\ \\mathrm { m \\cdot a } ^ { - 1 }$ ，不同山系的冰川运动速度如表1所示，公格尔山冰川运动速度最大，萨雷阔勒岭冰川运动速度最小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将冰川规模每 $5 ~ \\mathrm { k m } ^ { 2 }$ 划分一个等级，根据ITS_LIVE统计不同规模冰川的运动速度(图3)。结",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1东帕米尔高原主要区域冰川运动速度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ae6fa62155e897ff3e7013db0960a39308239912e9b24ce8f3e5fc70b5229ba.jpg",
+        "table_caption": [
+            "Tab.1 Glacier velocity in the main area of easternPamirPlateau "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>山系名称</td><td>平均规模/km</td><td>平均运动速度/m·a</td></tr><tr><td>慕士塔格</td><td>3.56</td><td>6.72</td></tr><tr><td>公格尔</td><td>2.91</td><td>9.73</td></tr><tr><td>昆盖山北</td><td>1.17</td><td>2.24</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/986f0c8d5cfd1eb544235e38888e8462d628b91c204e551ce2bd12c81664ad45.jpg",
+        "img_caption": [
+            "Fig.2Distributions ofoff-glacier errors based on ITS_LIVE and GoLIVE data ",
+            "图3不同规模冰川运动速度",
+            "Fig.3Glacier velocity at different scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "果表明：同一坡度范围内，冰川规模越大，冰川运动速度越快。其中，平均坡度在 $2 0 ^ { \\circ } { \\sim } 3 0 ^ { \\circ }$ 范围内的大冰川 $\\mathrm { \\Omega } > 2 0 \\mathrm { k m } ^ { 2 } \\mathrm { \\Omega } ,$ 与小冰川（ $\\leq 1 \\mathrm { k m } ^ { 2 } .$ 运动速度变化相差约20倍。冰川运动速度与冰川规模的偏相关系数为0.615（显著性水平为0.000)。因此，运动速度与冰川规模相关，大冰川的运动速度高于小冰川。这一规律与天山山区、念青唐古拉山、横断山山区等研究结果一致[34]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中值海拔每 $5 0 0 \\mathrm { ~ m ~ }$ 划分一个等级，结果表明（图$\\mathrm { 4 a } \\mathrm { , }$ )：中值海拔在 $5 5 0 0 { \\sim } 6 0 0 0 \\mathrm { m }$ 之间的冰川运动速度最大 $( 9 . 9 5 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ ,冰川平均规模 $3 . 2 1 \\ \\mathrm { k m } ^ { 2 }$ ;中值海拔在 $6 0 0 0 \\mathrm { m }$ 以上冰川的运动速度次之 $( 7 . 5 0 \\mathrm { m \\cdot a } ^ { - 1 } )$ ，冰川平均规模 $6 . 4 4 \\mathrm { ~ k m } ^ { 2 }$ ,冰川平均规模均较大。冰川运动速度与中值海拔的相关关系不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同坡度冰川运动速度结果显示(图5、图4b)：东帕米尔高原境内平均坡度在 $2 0 ^ { \\circ } { \\sim } 3 0 ^ { \\circ }$ 范围内的冰川数目最多,运动速度最大，达到 $5 . 8 7 \\ \\mathrm { m \\cdot a ^ { - 1 } }$ 。大于$4 0 ^ { \\circ }$ 坡度范围的冰川运动速度最小,为 $0 . 5 8 \\ \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 }$ 。$8 7 \\%$ 的冰川分布在 $2 0 ^ { \\circ } { \\sim } 4 0 ^ { \\circ }$ 的坡度范围内。 $0 ^ { \\circ } \\sim 3 0 ^ { \\circ }$ 的坡度范围内，冰川运动速度随着坡度增加而增加（该范围内坡度与冰川运动速度偏相关系数为$0 . 6 6 5 , P { < } 0 . 0 1 \\rangle$ ,坡度大于 $4 0 ^ { \\circ }$ 的冰川运动较慢，因为该坡度范围内冰川数量较少且都是小冰川。冰川坡度与冰川剪应力正相关，冰川越陡峭运动速度越快[10]。但当坡度陡峭,尤其是坡度大于 $4 0 ^ { \\circ }$ 时，则不利于积雪积累，厚度一般较薄，从图4b中也可以看出，该范围冰川规模较小，因此该坡度范围内冰川运动较慢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "西南 $\\left( 8 . 6 9 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } \\right)$ 、东南 $( 1 1 . 6 7 \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ 坡向的冰川运动速度最大，南坡！ $( 1 . 0 3 \\ \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } )$ 运动速度较小（图 $4 \\mathrm { c }$ )。不同坡向冰川运动速度与冰川规模相关，东南、西南、西坡向的冰川规模都相对较大，冰川运动速度也稍快。南坡向冰川大都规模较小(平均规模 $0 . 8 \\mathrm { ~ k m } ^ { 2 } .$ ),其冰川运动速度最小。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4965e5f8365ab8d5f4047dd4c6d91ee48e885cb29cb3ba6dbf517fc112039175.jpg",
+        "img_caption": [
+            "图4不同地形条件下的冰川运动速度变化",
+            "Fig.4 Glacier velocity under different topographic conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2表与冰川运动速度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对表碛覆盖型冰川的相关统计表明，研究区内有 $1 1 . 2 \\%$ 的冰川存在表磷覆盖，占总冰川面积的$6 0 \\%$ ，其中，非表磷覆盖型冰川的平均规模为0.79$ { \\mathrm { k m } } ^ { 2 }$ ,表硕覆盖型冰川的平均规模为 $8 . 2 9 \\ \\mathrm { k m } ^ { 2 }$ ,在大于 $1 0 \\ \\mathrm { k m } ^ { 2 }$ 的35条冰川中有30条存在表磷覆盖，可见，表覆盖的情况多出现于大冰川。考虑到规模、坡度对冰川运动速度的影响，将冰川规模划分为4个等级，分别统计同一规模不同坡度等级的表碛覆盖型冰川和非表碛覆盖型冰川的运动速度。如图6所示，除部分坡度范围内只有1条冰川外，其余坡度范围的结果均表明：表磷覆盖型冰川的运动速度小于非表碛覆盖型冰川。有学者认为，表会在一定程度上抑制冰川运动，比如，Scherler等[35]和Shrestha等[36]在对喜马拉雅山冰川研究中发现表覆盖较多时会减缓冰川运动。因为一定厚度的表碛会在冰川表面形成隔热层，阻挡冰川吸收热量，从而减缓冰川运动[10]。而当表碛小于某一临界值（约 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ )时，冰川会接收到大量热量，进而促使冰川消融，导致冰川运动加快，本研究推测东帕米尔高原仅有少部分冰川覆盖较薄的表，大多数冰川覆盖的表碛都比较厚[37]",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/826d983a35645a75dc1a391f3738e1a4ee81bb9fa10fbba0af1c31b0cd80334c.jpg",
+        "img_caption": [
+            "图5不同规模冰川数目",
+            "Fig.5Glacier number at different scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3冰川运动速度变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1989—2018年，东帕米尔高原冰川运动速度虽有波动，但整体上变化趋势比较稳定(图7)，与东帕米尔高原冰川面积变化和物质平衡稳定性一致[28]使用GoLIVE数据计算2013—2018年平均季节运动速度(图8)。结果表明，消融期内的冰川运动速度小于消融前期和消融后期。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冰川运动主要包括底部滑动和蠕动。东帕米尔高原冰川为典型的极大陆型冰川，冰床冻结，不易产生底部滑动，则表面运动以蠕动为主。蠕动的快慢主要取决于山体岩床的坡度、冰川的厚度和冰川温度。因此，冰川运动速度的年内变化主要受厚度和气温的变化影响。有研究表明，积累与消融在当年内引起的冰厚度变化可能会造成 $1 5 \\% { \\sim } 2 0 \\%$ 的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "□非表磷覆盖型冰川 --非表磷覆盖型冰川数目 表磷覆盖型冰川 $\\blacktriangle$ 表硕覆盖型冰川数目 1.0 (a)冰川规模<1km² 500 2 (b)冰川规模1\\~5km² 150   \ne.三 436 450 2 120 125 0.8 A 0.6 27 350 300 /三 / 0.4 200 双 150 0.2 79 100 25 0.0 2 0 7 25 10 50 0.2 1 0 0\\~10 10\\~2020\\~3030\\~40 40\\~90 0\\~10 10\\~2020\\~3030\\~40 40\\~90 坡度/ 坡度/ 12 (c)冰川规模5\\~10 km² 30 18 (d)冰川规模>10 km² 30   \ne./三 三 16 10 21 25 14 24 25 8 ? 20 /目三 12 20 /三 6 15 10 15 11 8 4 10 6 10 2 00 ? 8 0.0 5 42 00 1 3 0 0.0 5 0 = 0 ■ 0 0\\~10 10\\~20 20\\~3030\\~4040\\~90 0\\~10 10\\~2020\\~3030\\~4040\\~90 坡度/ 坡度/° ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0b1a550e62603a3883632dd884892c1aaf89ae3710bf44d0b6b3b269e9275bc.jpg",
+        "img_caption": [
+            "Fig.6Debris-covered and debris-free glacier velocityat different scales ",
+            "图71989—2018年冰川运动速度变化 Fig.7 Change of glacier velocity during 1989—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "速度波动[38]。此外，消融季的气温升高也可能引起蠕变速率的增加，但在东帕米尔高原表现不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4典型冰川运动速度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以克拉牙依拉克冰川作为典型冰川进行进一步研究。该条冰川位于公格尔峰北侧，是东帕米尔高原面积最大的冰川（面积 $1 1 5 . 1 6 \\mathrm { k m } ^ { 2 }$ ，表硕覆盖率",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fdcfde33f100b2f2fa24e8877ae1781f8123a01d4246d4b459bb8d290c5b0e2.jpg",
+        "img_caption": [
+            "图6不同规模表磷型、非表碛型冰川运动速度",
+            "图82013—2018年冰川运动速度季节性变化",
+            "Fig.8 Change of seasonal glacier velocity during 2O13—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 1 . 1 1 \\%$ ),曾于2015年发生跃动。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图9所示，随海拔增加，西支（AB沿线）、东支(AC沿线)运动速度趋势加快。整体上看，东、西支的冰川运动速度均在冰川中上部最快，在东、西支汇合口稍大，冰舌末端最小。冰川运动起始点为冰川上游，此时冰川受重力分量小，运动速度较平缓，当冰川积累到一定程度时，受重力影响下移，下移至坡度较陡区域(一般位于冰川中上部)便会造成冰川运动速度骤增，而后随坡度变缓，冰川运动速度在末端趋于稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2db904716df95cf57f3598fac6f115df9d1390a22e2b39d95f8c11eae089c21.jpg",
+        "img_caption": [
+            "图9典型冰川年平均运动速度",
+            "Fig.9Annual average velocity of typical glacier "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "东、西支对比发现，西支虽发生跃动，但整体运动速度 $\\left( 3 7 . 4 8 ~ \\mathrm { m \\cdot a ^ { - 1 } } \\right)$ 小于东支 $\\left( 5 6 . 9 3 \\ \\mathrm { m } \\cdot \\mathrm { a } ^ { - 1 } \\right)$ )。从地形看，东、西支坡度相差不大，东支规模大于西支，故而东支运动速度大。此外，东支冰舌较长、形状较直，冰体向末端移动时受摩擦阻力小，更有利于冰川物质向下运动。张震等[24]认为该冰川受热力控制影响较大，Yao等[22]认为该冰川受水文控制影响较大，Lu等[23]认为东帕米尔高原冰川可能不完全受水文和热力机制的影响，地形也是重要控制因素。经过上述分析，受地形因素影响，东支冰川平时运动速度较大。图9中B、C处均是雪崩堆积区，C处向下游一段距离运动速度明显比B处大，因此，本研究推测C处向下转移物质的速率快，雪崩堆积量较小，而B处向下转移物质速度慢，雪崩堆积量可能较大，经过长时间积累，将促进冰川底部达到压力融点，进而触发跃动，这或许是只有西支发生跃动的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用长时间序列的ITS_LIVE数据和",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理 也理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2013—2018年的GoLIVE数据对东帕米尔高原冰川整体运动特征进行了分析，并探讨了克拉牙依拉克冰川西支跃动的原因。研究结果表明：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）冰川运动速度与冰川规模相关，在同一坡度范围，冰川规模越大，冰川运动速度越快。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）冰川运动速度与坡度、坡向、表碛均相关，并且受到地形因素与冰川规模的综合影响。只考虑坡度的情况下，冰川运动速度随坡度增加先增后减。西南、东南坡向的冰川规模较大，导致其运动速度大，南坡冰川规模小，故而冰川运动速度小。表硕覆盖型冰川的运动速度小于非表碛覆盖型冰川,这是由于一定厚度的表磷阻碍了冰川对热量的吸收，进而造成表碛覆盖型冰川的运动速度减缓。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）1989—2018年冰川运动速度变化整体不大，与研究区冰川的变化稳定性一致。消融期冰川运动速度小于其它季节，与冰川年内厚度变化相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Stocker TF, Qin D,Plattner G K,et al. Observation: Cryosphere [C]//IPCC.Climate Change 2O13:The Physical Science Basis. Contribution of Working Group Ito the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press,2013.   \n[2] 牟建新，李忠勤,张慧,等.中国西部大陆性冰川与海洋性冰川 物质平衡变化及其对气候响应—以乌源1号冰川和帕隆94 号冰川为例[J].干旱区地理,2019,42(1):20-28.[Mou Jianxin, Li Zhongqin, Zhang Hui, et al.Mass balance variation of continental glacier and temperate glacier and their response to climate change in western China: Taking Urumqi Glacier No.1 and Parlung No.94 Glacier as examples[J].Arid Land Geography,2019, 42(1): 20-28.]   \n[3]沈永平,苏宏超,王国亚,等.新疆冰川、积雪对气候变化的响应 (II):灾害效应[J].冰川冻土，2013,35(6):1355-1370.[Shen Yongping,Su Hongchao,Wang Guoya,et al. The responses of glaciers and snow cover to climate change in Xinjiang(II):Hazards effects[J]. Journal of Glaciology and Geocryology，2013,35(6): 1355-1370.]   \n[4] 王群,范景辉,周伟,等.DEM辅助偏移量跟踪技术的山地冰川 运动监测研究[J].国土资源遥感,2018,30(3):167-173.[Wang Qun,Fang Jinghui, Zhou Wei,et al. Research on the DEM-assisted offset tracking technique applied to glaciers movement monitoring[J].Remote Sensing for Land & Resources,2018,3O(3):167- 173.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]李佳,李志伟,汪长城,等.SAR偏移量跟踪技术估计天山南依 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "内里切克冰川运动[J].地球物理学报,2013,56(4):1226-1236. [Li Jia,Li Zhiwei,Wang Changcheng,et al.Using SAR offsettracking approach to estimate surface motion of the south Inylchek Glacier in Tianshan[J]. Chinese Journal of Geophysics,2013,56 (4): 1226-1236.]   \n[6]蒋宗立,刘时银,龙四春,等.基于合成孔径雷达技术及DEM的 公格尔山冰川动力特征分析[J].冰川冻土,2014,36(2):286- 295.[Jiang Zongli, Liu Shiyin,Long Sichun, et al.Analysis of the glacier dynamics features in Kongur Mountain based on SAR technologyand DEMs[J]. Journal of Glaciology and Geocryology, 2014,36(2): 286-295.]   \n[7]王思胜,江利明,孙永玲,等.基于ALOS PALSAR 数据的山地 冰川流速估算方法比较——以喀喇昆仑地区斯克洋坎力冰川 为例[J].国土资源遥感,2016,28(2):54-61.[Wang Sisheng,Jiang Liming,Sun Yongling,et al.Evaluation of methods for deriving mountain glacier velocities with ALOS PALSAR images: A case study of Skyang Glacier in central Karakoram[J]. Remote Sensing for Land and Resources,2016,28(2): 54-61.]   \n[8]Wang PY,Li ZQ, Zhou P,et al. Long-term change in ice velocity of Urumqi Glacier No.1,Tian Shan, China[J]. Cold Regions Science and Technology,2018,145:177-184.   \n[9]井哲帆,刘力,周在明,等.冰川运动速度影响因子的强度分析: 以祁连山七一冰川为例[J].冰川冻土,2011,33(6):1222-1228. [Jing Zhefan,Liu Li, Zhou Zaiming,et al.Analysis on the influencing factors of glacier flow velocity:A case study of Qiyi Glacier in Qilian Mountains[J]. Journal of Glaciology and Geocryology,2011, 33(6): 1222-1228.]   \n[10] 王欣,刘琼欢,蒋亮虹,等.基于SAR 影像的喜马拉雅山珠穆朗 玛峰地区冰川运动速度特征及其影响因素分析[J].冰川冻土, 2015,37(3): 570-579.[Wang Xin,Liu Qionghuan,Jiang Lianghong,et al.Characteristics and influence factors of glacier surface flow velocity in the Everest region,the Himalayas derived from, ALOS/PALSAR images[J]. Journal of Glaciology and Geocryology, 2015,37(3): 570-579.]   \n[11] 张莎莎,张震,刘时银,等.喀喇昆仑山西北部冰川运动速度地 形控制特征[J].冰川冻土,2019,41(5):1-13.[Zhang Shasha, Zhang Zhen,Liu Shiyin,et al. Topographic control characteristics of glacier velocity in Hunza River Basin of Karakoram Mountains [J]. Journal of Glaciology and Geocryology,2019,41(5):1-13.]   \n[12]Holzer N,Vijay S,Yao T,etal.Four decades of glacier variations at Muztagh Ata (eastern Pamir): A multi-sensor study including Hexagon KH-9 and Pleiades data[J]. The Cryosphere,2015,9(6): 1811- 1856.   \n[13] Zhang Z, XuJL, Liu S Y,et al. Glacier changes since the early 1960s,eastern Pamir, China[J].Journal of Mountain Science, 2016,13(2): 276-291.   \n[14] Yao TD,Thompson L, Yang W,et al. Different glacier status with atmospheric circulation in Tibetan Plateau and surrounding[J]. Nature Climate Change,2012,2(9): 663-667.   \n[15] Gardell J, Berthier E,Arnaud Y,et al. Region wide glacier mass balances over the Pamir-Karakoram-Himalaya during 1999—2011 [J].The Cryosphere,2013,7(6): 1263-1286.   \n[16] 段克勤,姚檀栋,王宁练,等.慕士塔格冰芯降水记录及其对冰 川水资源的气候意义[J].冰川冻土,2007,29(5): 680-684 [Duan Keqin, Yao Tandong,Wang Ninglian, et al. Records of precipitation in the Muztag Ata ice coreand its climate significance to glacier water resources[J]. Journal of Glaciologyand Geocryology,2007,29(5): 680-684.]   \n[17]Yan S Y,Guo HD,Liu G,et al. Monitoring Muztagh Kuksai Glacier surface velocity with L-band SAR data in southwestern Xinjiang,China[J].Environmental Earth Sciences,2013,70:3175- 3184.   \n[18]Yang H, Yang S,Liu G,et al. Fluctuations and movements of the Kuksai Glacier, western China, derived from Landsat image sequences[J]. Journal of Applied Remote Sensing，2013,8(1), 084599,doi: 10.1117/1. JRS. 8. 084599.   \n[19]Shangguan D H,Liu S Y,Ding YJ,et al. Characterizing the May 2015 Karayaylak Glacier surge in the eastern Pamir Plateau using remote sensing[J]. Journal of Glaciology,2016,62(235): 944-953.   \n[20] 张震,刘时银,魏俊锋,等.新疆帕米尔跃动冰川遥感监测研究 [J].冰川冻土,2016,38(1): 11-20.[Zhang Zhen,Liu Shiyin,Wei Junfeng,et al.Monitoring recent surging of the Karayaylak Glacier in Pamir by remote sensing[J]. Journal of Glaciology and Geocryology,2016,38(1): 11-20.]   \n[21] 李均力,陈曦,包安明,等.公格尔九别峰冰川跃动无人机灾害 监测与评估[J].干旱区地理,2016,39(2):378-386.[Li Junli, Chen Xi,Bao Anming,et al. Glacier hazard emergency monitoring of the Jiubie Peak in Kongur Mountains using unmanned aerial vehicle photogrammetry[J]. Arid Land Geography,2016,39(2): 378- 386.]   \n[22] Yao X, Javed I, Li L J,etal. Characteristics of mountain glacier surge hazard: Learning from a surge event in NE Pamir, China[J]. Journal of Mountain Science,2019,16(7): 1515-1533.   \n[23]Lu M Y,Guo HD,Lu X C,et al. Characterizing the behaviour of surge- and non-surge-type glaciers inthe Kingata Mountains,eastern Pamir,from 1999 to 2016[J]. The Cryosphere,2019,13: 219- 236.   \n[24] 张震,刘时银,魏俊锋,等.东帕米尔高原昆盖山跃动冰川遥感 监测研究[J].地理科学进展,2018,37(11:1545-1554.[Zhang Zhen,Liu Shiyin,WeiJunfeng,etal.Monitoringaglaciersurge in the Kungey Mountain,eastern Pamir Plateau using remote sensing [J]. Progress in Geography,2018,37(11): 1545-1554.]   \n[25] 刘时银,姚晓军,郭万钦,等.基于第二次冰川编目的中国冰川 现状[J].地理学报,2015,70(1):3-16.[Liu Shiyin,Yao Xiaojun, Guo Wanqin,et al. The contemporary glaciers in China based on the Second ChineseGlacier Inventory[J].Acta Geographica Sinica,2015,70(1): 3-16.]   \n[26] Gardner A S, Fahnestock MA, Scambos TA. Update to time of data download: ITS_LIVE regional glacier and icesheet surface velocities[J]. Data archived at National Snow and Ice Data Center, 2019,doi: 10.5067/6I6VW8LLWJ7.   \n[27] Gardner A S,Moholdt G,Scambos T,et al. Increased west Antarctic and unchanged east Antarctic ice discharge over the last 7 years[J]. The Cryosphere,2018,12(2): 521-547.   \n[28] Dehecq A, Gourmelen N, Gardner A S,et al. Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia[J] Nature Geoscience,2019,12(1): 22-27.   \n[29] Sam L, Bhardwaj A, Kumar R,et al. Heterogeneity in topographic control on velocities of western Himalayan glaciers[J].Scientific Reports,2018,8: 12843,doi: 10.1038/s41598-018-31310-y.   \n[30]武文娇,章诗芳,赵尚民.SRTM1 DEM与ASTER GDEM V2数 据的对比分析[J].地球信息科学学报,2017,19(8):1108-1115. [Wu Wenjiao, Zhang Shifang, Zhao Shangmin.Analysis and comparison of SRTM1 DEM and ASTER GDEM V2 data[J]. Journal of Geo-information Science,2017,19(8): 1108-1115.]   \n[31]Bolch T,Pieczonka T, Benn D I. Multi-decadal mass loss of glaciers in the Everest area (Nepal Himalaya) derived from stereo imagery[J], The Cryosphere,2011,5(2): 349-358.   \n[32]毛炜峰,姚俊强,陈静,等.1961—2017年东帕米尔高原极端升 温过程气候变化特征[J].干旱区研究,2019,36(6):1368-1378. [Mao Weiyi,Yao Junqiang,Chen Jing,et al. Change characteristics of extreme temperature-rising process in the east Pamir Plateau from 1961 to 2017[J].Arid Zone Research,2019,36(6): 1368-1378.]   \n[33] 王磊,蒋宗立,刘时银,等.中巴公路沿线冰川运动特征[J].遥感 技术与应用,2019,34(2): 412-423.[Wang Lei,Jiang Zongli,Liu Shiyin,et al. Characteristic of glaciers’movement along Karakoram highway[J]. Remote Sensing Technology and Application, 2019,34(2): 412-423.]   \n[34] 黄茂桓,孙作哲.我国大陆型冰川运动的某些特征[J].冰川冻 土,1982(2): 35-45.[Huang Maoheng,Sun Zuozhe. Some flow characteristicsof continental-type glaciers in China[J]. Journal of Glaciology and Crypedology,1982,4(2): 35-44.]   \n[35]Scherler D,Bookhagen B, Strecker M R. Spatially variable responseof Himalayan glaciers to climate change affected by debris cover[J]. Nature Geoscience,2011,4:156-159.   \n[36] Shrestha A B,Aryal R. Climate change in Nepal and its impact on Himalayan glaciers[J].Regional Environmental Change,2011,11 (1): 65-77.   \n[37] 张勇,刘时银.中国冰川区表厚度估算及其影响研究进展[J]. 地理学报,2017,72(9):1606-1620.[Zhang Yong,Liu Siying. Research progress on debris thickness estimation and its effect on debris-covered glaciers in western China[J].Acta Geographica Sinica,2017, 72(9): 1606-1620.]   \n[38] 曹敏,李忠勤,李慧林.天山托木尔峰地区青冰滩72号冰川表 面运动速度特征研究[J].冰川冻土,2011,33(1):21-29.[Cao Min,Li Zhongqin,Li Huilin.Featuresof the surface flow velocity on the Qingbingtan Glacier No.72, Tianshan Mountains[J]. Journal of Glaciology and Geocryology,2011,33(1): 21-29.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of glacier movement in the eastern Pamir Plateau ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HUANG Danni, ZHANG Zhen， ZHANG Shasha， XUE Naiting (School of Geomatics,Anhui University of Science and Technology,Huainan 232oo1,Anhui, China ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Pamir Plateau in Central Asia $( 3 0 ^ { \\circ } 0 0 ^ { \\prime } – 4 1 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { N }$ ：0 $7 3 ^ { \\circ } 0 0 ^ { \\prime } { - } 7 7 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E }$ includes parts of Afghanistan, Tajikistan,and China.The Chinese part is knownas the eastern Pamir,located in southwestern Xinjiang.The Sino-Pakistan Highway passes through the study area. Glacier meltwater nourishes the people of Kashi Prefecture,Xinjiang, China.Pamir glaciers have recently shown unusual behavior: On average,no significant area and masschanges but frequent advances and surge activities have been observed during the last decades.The characteristics of glacier movement are helpful in understanding the unusual behavior.In our study，glacier movements at a different scale,topography,and morphology were analyzed by the Inter-Mision Time Series of Land Ice Velocityand Elevation and Global Land Ice Velocity Extraction from Landsat 8data.The results are as follows: (1) The average glacier velocity in the eastern Pamir is $5 . 3 1 \\ \\mathrm { m \\cdot a ^ { - 1 } }$ and is related to glacier scale,which shows that large glaciers move faster than small glaciers. (2) Glacier velocity is related to the average slope, which first increases and then decreases with the increase of the average slope.Excessive slopes are not conducive to glacier accumulation,and because the thickness (scale） is small,velocity is slow.(3）Glacier velocities on southwestern $( 8 . 6 9 \\mathrm { \\ m } \\cdot \\mathrm { a } ^ { - 1 } )$ and southeastern $( 1 1 . 6 7 \\mathrm { ~ m } \\cdot \\mathrm { a } ^ { - 1 } )$ slope directions are greater than those of other slope directions,which is related to the scale of glaciers in each slope direction. (4) Debris-covered glacier velocity is lower than that of debris-free glaciers because debris inhibits movement. (5) Glacier velocities were stable from l985 to 2018,which is consistent with the stable area and masstrends of the eastern Pamir glaciers. Glacier velocities in melting seasons were lower than those in the pre-melt and post-melt seasons,which is presumably related to annual thickness changes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: eastern Pamir Plateau； glacier movment; glacier moving characteristics; remote sensing; terrain ",
+        "page_idx": 9
+    }
+]

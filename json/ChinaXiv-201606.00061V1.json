@@ -1,0 +1,466 @@
+[
+    {
+        "type": "text",
+        "text": "A discussion of the emotive element of knowledge service practice: An empirical study at the Chinese Academy of Sciences ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li-Ping Ku1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 National Science Library, Chinese Academy of Sciences,Beijing 1Oo19o, China   \n² Library of City University of Hong Kong, Hong Kong SAR, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract With the arrival of the information age,research activities focused on the practice and approaches of knowledge services are on a marked increase as evidenced in the publications of social sciences.According to a social network analysis on knowledge service related literature,it reveals that information and knowledge workers often fail to take such an important element as the functional role of an emotive engagement into consideration in their study of knowledge services.It has increasingly become an issue of high profile with the rapid development of digital libraries and their web-based knowledge services in China and anywhere else in the world.In order to have a clearer understanding about issues involved in knowledge servicing so as to maximize the effectiveness and efficiency of digital libraries in their knowledge service performance,the author has conducted surveys for seven times on the online information seeking behavior of graduate students at the Chinese Academy of Sciences with such research methods as questionnaires, interviews and natural observations during September 20o6-June 20o9.The research result has showed the emotive element has an important role in the user's information seeking behavior and in knowledge services practice.Therefore,knowledge services rendered may be more effective by adding the emotiveness-oriented communication element into such practice. This paper recommends that such an emotiveness-oriented communication approach should be carefully studied and factored into libraries'knowledge services practice. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeywordsEmotive engagement， Personas, Personnel profile, Information seeking behavior, Digital library, Knowledge innovation, Knowledge service ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Along with the advancement of the Internet technologies and the development of Information Science,more and more scientists and engineers begin to realize the importance of the knowledge service industry. For supporting the reading public's information demands, the library and information science professionals perform the value-added information services, which includes 1) Information organization; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2） information integration; 3） information intelligence analysis; 4) data mining; 5） knowledge discovery (information connection and representation) and so on. They operate such professionally oriented perspectives as user-driven service, intelligence-driven service or knowledge-driven service. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Undeniably, the traditional knowledge service as a way of providing intellectual contents to users is good and desirable in many aspects. For example, knowledge services can assist users to retrieve their desired information more efficiently, to explore information in a wider scope and from a broader perspective so as to enable them to discover theretofore submerged information and knowledge. The logic and rationality of “knowledge services\" renderedby library and information professionals seem to be,at the first glimpse,a sound solution for knowledge discovery and for knowledge innovation.However, when such an assumption is under more careful scrutiny, it becomes doubtful that the resulting solution suggested has ever really even gotten into the attention of the information seeker. One may wonder just exactly under what circumstances that a certain information seeker can actually have his or her learning desire aroused, stimulated and led to the process of his or her pursuit in knowledge innovation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is with such puzzlement that we raised the question whether the current knowledge service may have indeed neglected the role of the informal information communication.As we are confronted with unprecedented new opportunities and new challenges in our pursuit of learning and knowledge innovation activities in this information era, we need to have a clearer understanding about what a digital library can or cannot actually perform effectively in terms of meeting readers and researchers’ needs for their learning and knowledge innovation pursuits.Therefore, a thorough understanding through a closer re-examination of end-users' information seeking behavior seems to be warranted. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This research project on the above mentioned issue began on Sept.4,2006 and finished on Jun.30,2Oo9. It contained three preliminary questionnaires (with systematic samplings & simple sampling), one basic questionnaire (stratified random sampling, the bias of average age is 4.358 at $9 5 \\%$ confidence interval; Cronbach's Alpha O.883 is larger than $0 . 5 \\%$ testing standard),and three follow-up surveys (purposive sampling with questionnaire, interviews and natural observations). The goal of the project was to develop a more satisfactory new modus operandi for knowledge services. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2The conceptual mapping of knowledge services ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Fundamentals of knowledge services ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The difference between knowledge service and information service is that the process of knowledge is more important than what knowledge a firm and its employees possess[1]. In other words, knowledge services are not only for the access of knowledge but also for knowledge innovation. In the information age,knowledge is reflecting exponential changes in social, economic, government, career, education, work,and other spheres of life activities[2l. Knowledge innovation is very prevalent and also vitally important to the sustainable growth of our society. Therefore, knowledge services have their inherent market share in the arena of information demands and supplies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On the one hand, knowledge service practice depends on the nature of social demands.Tsai et al.(2oo5) suggest that there are three dimensions for the assessment of the knowledge-intensive service industry (KISI)，namely， staff's research capabilities, information seeking behavior and performance outcome as the basic conceptual building stones to establish an integrated framework for knowledge innovation purposes[3]. If knowledge services are independent of the academic scene, then there must be another service industry that provides comprehensive research support and solutions to wide ranging industries in the commercial sector such as patent applications, marketing, corporate culture and strategy, etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, knowledge services should have its autonomy. Gano et al. (2007) support three models in this vein of thinking. They are: 1) the engineering model, which focuses on the inevitability of science in terms ofadvancing knowledge, 2) the socio-organizational model, which stresses the importance of communication between and among groups as the critical factor in promoting utilization of knowledge;and 3） the shield model，which fortifies the objectivity of the two models in order to resist external political pressures on knowledge production and on its process of transmission or dissemination[4]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking，knowledge services are closely associated with human intelligence. Knowledge is a high-end product of people and society and is created by individuals’ intellectual cognitions and intellectual dialogues among educated people. With the arrival of the information age,knowledge service industry has become a pivotal force to energize and assist knowledge innovation. It provides an added assurance for the sustainable development of our knowledge society. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Knowledge services in business ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There is a growing world-wide awareness of the need for knowledge services. For example, the international outsourcing services have been a key managerial focus since the late 198Os and became an area of mature research in the international business field in the 199Os. This is because the service industry confronted a completely new set of challenges such as globalization of economic development and/or recession[5]. Owing to the increasingly widespread and intensified global competition, the role of social network and across-culture approach for knowledge innovation has become more important than ever before.Rajala et al. (2oo8) studied the knowledge-intensive service activities in software business and summarized that these activities are accomplished via networks in order to mutually generate or transfer knowledge between companies, customers, subcontractors or authorities of the industry. They also emphasized that the knowledge itself is not an object of trade[6]. Owing to the restrictions of the exchange of certain privileged information under the law and also under some pertinent rules regulating business intelligence activities,the markets for both supplying and demanding knowledge services have become increasingly more active and thriving. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Even though the number of relevant research work on knowledge services is on the rise, views on this issue varied widely from person to person. Doultsinou et al. (2009） described the manufacturing industry service issues and the impact that knowledge services have had on product design[7].Plumb & Zamfir(2oo9) considered the management of service quality is knowledge-driven. Such service quality management relieson people'scontinuousdevelopment， network-intensive collaboration (sharing ideas and knowledge),and joint value creations to attain sustainable competitive advantage[8]. Rashman et al. (2Oo9) presented a dynamic model of organizational learning including an exploration of four elements, namely, 1) Features of the source organization; 2) features of the recipient organization; 3) the characteristics ofthe relationship between organizations; 4)and the environmental context[9]. Shang et al. (2Oo9) gave evidence that a dynamic force could have external sources connected together or could give stmulations to internal implementation and fulfillment of internal knowledge management practices[10]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "People's views on knowledge services are divergent. However, it is commonly believed that the rise of knowledge services is an inevitable result of globalization. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Digital library for knowledge services ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are at least three kinds of approaches that digital library can enhance its efficiency for knowledge services in the information age. Chiu (20o5) put forward the proposition that knowledge services of the library，which are based on the attributes of documents and content resources,should concomitantly factor such attributes as“disposition,”“situation”and “order/scheme” into consideration as additional standards for organizing knowledge resources[1]. Nicholas & $\\mathrm { N g }$ (2009) studied the attitude of virtual teams to share knowledge via Web 2.O approach for knowledge sharing. Their research findings identified certain positive attitudes toward the collaborative mode of learning even though beliefs about the true effect of online learning were mixed[12]. Chairatana (20o9) introduced the “knowledge, innovation, and service system” (KISS） as an alternative analytical framework ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "National Science Library, Chinese Academy of Sciences ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which includes five essential elements of measurement: agents, space,scope, practice and innovation[13]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary, the three kinds of knowledge services approach are focused on any of the following ones,namely, resources,the service delivery practice and the outcome assessment system.How to optimize the digital libraries’ function based on the basic theory of knowledge services is indeed an intriguing and thoughtprovoking issue.It may first appear to be a simple value-added library service idea, but the work is much more complex than what we actually thought. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4The lack of “emotive element” in knowledge services practice ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The published articles about knowledge services in the last three years are in a total number of 1,O14 records in SSCI database (SSCI=topic,keyword and abstract fields as of 20o9-12-14). If keywords contained in those articles mean explicit perceptions about knowledge services of their authors,it follows that the social network of those keywords clearly indicates the relationship between the main and subordinate concepts of knowledge services. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.l presents a graphic structure of knowledge services in which the relationship between these sub-concepts of and their hierarchical relationship to the main concepts of knowledge services is shown. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Customer service Knowledgetransfer Service innovation Healthcare SupplychainWeb2.0 Organizational learning Knowledge baseProfessional development Service Publicservice Knowledge-intensive services IndustrialCluster KIBS Teachereducation Professionalism Knowledgecreation Development Evaluation Collabortion SME Innovation Networks Knowledge sharing Problem solving IntellectualCapitalKnowledge E-business Digitallibraries Knowledgemanagement Service learning Casestudy Distancelearning Projectmanagement Service industry Humancapital Community Education Knowledgemanagementsystem Training SOA Service-oriented/archite Outsourcing WebServices Multi-age Integration Lifelong learning Standardization commer Knowledge service Ontology rformance Knowledgeacquisition Workflow ernment B-learning Semantic Financial services Trust ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An efficient information service system should contain both effectiveness and humanitarianism[14]. A well-executed knowledge/information service includes a clear exhibition of the aspects of both technical proficiency and an emotive engagement to the task on hand[15]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 draws our special attention to the fact that knowledge services are only concerned about the effectiveness of managing an automated information system but not so much about humane caring or about the emotive element of humanity in their interactions with people. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Knowledge services are meant for the consumption of people. The conceptualized practice of it today lacks some essential emotive elements of humanity, such aspersonal feelings， compassion empathy, satisfaction， sentiment, holistic perceptiveness, etc. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3Processes and procedures of investigation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The author's investigative study was based on the following premises of inquiries. Is the resource content service good enough to meet user needs? Especially, is the current knowledge service good enough to meet the information needs of our future scholars—the postgraduates? It is important to look into the current knowledge service practice performed by digital libraries to determine whether they are good enough to meet the needs of information seekers in a satisfactory manner. The ensuing question is how information seekers’satisfaction is or is not met and in which way improvements can be made so as to get a more satisfying result for both information providers and information seekers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During January 2007 to May 2007, this research project completed a series of surveys for the above mentioned purposes as follows: the first survey was conducted to understand the information user's behavior in the Web 2.O environment; the second survey was made to study information seekers'behavior concerning their usage and cognition of information; and the third survey was aimed to understand information seekers and especially students’ perceptions toward libraries and the information services that they provided in different geographic regions and at different schools.Altogether, these three surveys conducted during this period made up the preliminary research phase. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Table 1, this author surveyed the same samples for four more times during this period. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The fourth survey was a basic questionnaire focusing on the postgraduate and doctoral students of the Chinese Academy of Sciences in Beijing. The survey used the stratified random sampling to systematically investigate twenty kinds of online information behavior. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e64494606b8cb61e23857ed3f667f7443afe9a2304b546a41996cb024615dde2.jpg",
+        "table_caption": [
+            "Table1Process of investigation during Jan.20o7 to Jun.2009 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Period</td><td>Survey</td><td>Sample object</td><td>Sampling method</td><td>Total sample</td><td>Valid sample</td><td>Notes</td></tr><tr><td>From Jan.7 to Jan.20,2007</td><td></td><td>Questionnaire CAS Student Apartments of Zhongguancun</td><td>Systematic sampling</td><td>400</td><td>263</td><td>Preliminary</td></tr><tr><td>Jan.27,2007</td><td></td><td>From Jan.14 to Questionnaire CAS Student Apartments of Zhongguancun</td><td>Systematic sampling</td><td>500</td><td>358</td><td>Preliminary</td></tr><tr><td>May 31,2007</td><td></td><td>From May 21 to Questionnaire Students of CAS,Taiwan University and National</td><td>Simply sampling</td><td>159</td><td>159</td><td>Preliminary</td></tr><tr><td>Jul.20,2008</td><td>From Jun.9 to Questionnaire Graduate School of</td><td>Yunlin University of Science CAS (Beijing)</td><td>Stratified random</td><td>3,000</td><td>498</td><td>Basic survey</td></tr><tr><td>Nov.1,2008</td><td>From Oct.10 to Questionnaire The previous survey</td><td></td><td>sampling Purposive sampling</td><td>300</td><td>155</td><td>Continuous</td></tr><tr><td>From Nov.15 to Interview Nov.25,2008</td><td></td><td>The previous survey</td><td>Purposive sampling</td><td>40</td><td>36</td><td>Continuous</td></tr><tr><td>From Jan.5 to Observation Jun.5,2009</td><td></td><td>The previous survey</td><td>Purposive sampling</td><td>16</td><td>8</td><td>Continuous</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The fifth survey was through purposed random samplings to collect the answers from respondents and non-respondents of the fourth questionnaire.It added fifteen additional closed questions and five open-ended questions to enquire about their library service innovations.The proportion of returned questionnaires was that the respondents accounted for $20 \\%$ and the non-respondents made up $80 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sixth survey followed up the fifth questionnaire and it also used purposed random samplings to collect the interview handwriting data in the same samplings. The proportion of returned questionnaires between the respondents and the nonrespondents are 50 versus 5O percent. The goal of this survey was to understand the reasons and details of the returned answers of the fourth and fifth questionnaires. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The seventh survey was a natural observation during the six-month survey period for more detailed understanding of the interviewed respondents. These continuous investigations included the conduction of in-depth interviews for three times and of correspondence via emails using a question-answer format for four times. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 The first survey finding: More entertainment feature attractions than practical educational opportunities in the Web 2.O information environment ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of this survey showed that the mobile phone is an important platform for $\\mathrm { W e b } 2 . 0$ users. $5 5 \\%$ students selected the informal way to get desktop softwares, it appears that the free software is more popular than the software's brand name. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$91 . 3 \\%$ students used Instant Messenger to communicate with other persons in their everyday life, and $7 5 \\%$ students used P2P for their entertainment need.There are $51 . 5 \\%$ students who have established a personal weblog to share personal feelings. Some students expected the RSS would assist their studies, such as through the news about academic conference information, but they still did not really understand what social bookmark is,though they would like to try to use it. In short, the Web2.0- based services the library created might be of little effect to either students'learning process or learning results. Therefore, the improvement made for digital libraries' knowledge services seemed to lie somewhere else rather than the sphere of an advanced information technology environment. In fact, it depends primarily on a better understanding of users' information seeking behavior. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2The second survey finding: The importance of informal communication in interacting with information seekers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The main results of this survey revealed that most students $( 9 1 . 1 \\% )$ surf on Internet everyday, and they have two popular ways to access academic information: One is by accessing e-journals $( 3 5 . 5 \\% )$ and the other by using a search engine $( 3 3 \\% )$ . To confirm the reliability of documents that they have accessed, $2 7 . 9 \\%$ students rely on their common sense or their personal knowledge,but $2 4 . 6 \\%$ students make a comparative analysis of different documents. $70 . 4 \\%$ surveyed students would opt for some more pertinent keywords to continue their search queries when confronted with difficulties in geting search results. If it is impossible to access full-text documents, $57 . 3 \\%$ respondents would stop the search process,and the other $1 9 . 3 \\%$ would ask help from their friends,and only $8 . 7 \\%$ would consult a reference librarian. There are $52 \\%$ students who would avail themselves at the library building,for information retrieval, and $43 \\%$ students obtained their desired academic information by way of using an appropriate search engine. Most of them were not in favor of receiving fee-based library services. So the informal communication in facilitating knowledge innovation is important in our study of user's information seeking behavior, which is quite unexpectedly. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3The third survey finding: The persistence of a stereotype in library information services practice despite of the advancement of new information technologies buttressed at digital libraries ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The survey found that students in different geographical regions have the same general impression about the functions of the bookstore,the online bookstore, the libraryand the digital library. For example,the bookstore is for browsing the latest books and magazines； the online bookstore is for buying the latest books and magazines; the library is for reading newspapers,magazines,books and journals; ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and the digital library is for downloading the desired article and for seeking all relevant information about a topic on mind. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4The fourth survey finding: Multifarious impact of information environment on information seekers'behavior ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this survey, the bias of average age equals to 4.358,which is in $9 5 \\%$ confidence interval; Cronbach's Alpha O.883 is larger than $0 . 5 \\%$ testing standard. The percentage usage of Email,BBS, Instant Messenger and P2P is more than that of Chat-room, Podcast, Social network software, Social Tag and RSS,and the percentage usage of blogs is in the medium ranch. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The main reason of using Instant Messengers is to communicate with family and friends,and the paramount reason of using blogs by respondents is to discuss with others on entertainment topics or to advance personal popularity,and the least persuasive reason is to spread academic article,options or ideas. In the virtual community (not in “library community\"), library staff may assist users to select books,articles and course materials (such as PowerPoint or E-books),but community leaders have stronger influence over those professional domains than library staff or reference librarians themselves.It was not remarkable about the mutual influence of one another among the common community members in such matters. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Scholar communities are more popular among surveyed students than that of other virtual communities such as shopping communities, entertainment communities and chat communities; a few students are more interested in the political community. In responding to the questionnaire about their study habit, most of our surveyed students would consider that “personalized” service was useful or was good enough to suit for their information seeking endeavors.For example,end-users would not want to access the content listing questionnaire because it included too many details but not necessarily pertinent to their information needs. They would not waste their time on those lengthy and boring queries because they could not see that they would derive any benefit from them directly. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the users’information seeking behavior and information needs are multifarious, divergent and very different from one another. The personalized service is a kind of subject-specific content service and it is often not completely suited to the individual user's information seeking behavior and information needs. There are many new channels or new approaches for information seeking undertakings today than ever before.For example,user can use email (asking for help from their friends), blogs,remote log-on and/or some other ways to access information and they do not necessarily need to be physically in the library building to do their information seeking task.Therefore,libraries have to be seriously concerned with these emerging new competing alternative approaches to information access and retrieval and to devise new effective ways to cope with this changing information environment, which has a particularly great impact on their professional practice of knowledge services. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.5The fifth survey finding: A two-pronged users’ expectation for a value-added information service and a problem-solving program ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Chi-square analysis, Pearson correlation coeficient test and contingency table showed no significant correlation characteristics of most variables,but it has two obvious correlation between the “digital library support experimental data” with \"digital library for download document”,and the“digital library support experimental data”with “digital library for problem-solving program”,the Pearson coefficients ofboth observations are O.539 and O.554, greater than 0.5 but less than 0.1 correlation coefficient tests. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "So users’ visit to a digital library has a stronger motive in using the library's bibliographic information service.They expect that the library's knowledge services practice would include the intelligence analysis,and the communication service with other collaborative communities and a knowledge services process ought to factor the mutual interest of the information seeker and the reference librarian into full consideration. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.6The sixth survey finding: Creating a persona profile in recording user's online search behavior, responses, workflows and search objectives ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The survey result showed that the informal communication through digitalization, social networking, group interactions and other means has had an impact on user's behavior. In addition, the instant transmission of academic information has begun to appear in many new ways. These emerging new mediums of information transmission have gradually become the more accustomed and even indispensable tools of information gathering and dissemination for the younger generation of scientists,engineers,researchers,educators and scholars,etc.,who are technologically savvy.Based on our sustained tracking of the fourth survey,we established four types of fictional characters (Personas） as follows:1) Information users who are fond of experimenting new technologies; 2) information seekers who have a biased perseverance of using search engines rather than using other information seeking tools;3） information users who prefer to communicate with others via networked virtue communities online; and 4) information users who read documents,access articles, books,and databases only by being personally present in a library building. It is important to develop a good interaction protocol between the users and library staff based on the personas and their mental activity models.For example, the use of BBS,Blogs and Emails for libraries to communicate with end-users is a plausible way to avoid a situation that users may ignore other suitable means of libraries' knowledge services, if the messages transmitted from the library are not too boring and/or uninteresting. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.7The seventh survey finding: Using personas profile construction in support of the demand of emotive communication ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The survey found that information users may be juxtaposed into 16 prototypical categories stemming from a combination of some of the items in the four types of psychological factors (tracking, integration, extraction and exploration) with some of those items in another 4 categories of social elements, namely, teachers, students, institutions and corporations.However,after a period of further tracking and observation of eight students' information seeking behavior, we concluded that there were four typical categories of information users,who each had a major different concern about the following issues in terms of getting needed knowledge services such as:“a timely helping hand that can point me to the right direction and a sound strategy to my research work”,“discussing with me about what other people are doing besides there are being occupied with academic research activities”,“sharing the real-world experience with me” and so on. The main research finding is that libraries are capable of drawing a mental map about their reader clientele for the sake of improving their knowledge services focused more on an emotive modus operandi. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the above investigative study and analysis,we found that the informal communication provided a few unique features in action.This included such features as advanced discovering opportunities for information gathering and a mechanism for information feedbacks on the one hand,and distinctive characteristic that is based on a value-orientation toward the information providers' emotive engagement rather than that based on the wealth and strength of the information resources provided, on the other hand. Knowledge service is aimed to support not only the access to and the understanding of intellectual contents of certain selected library resources,but also the end-user's self-directed educational ability in the process of his or her lifelong learning pursuit. As we took a closer look at the knowledge services practice at various types of libraries, we found that there are actually two major interrelated service dimensions involved in rendering an effective response to an information inquiry. From the perspective of the knowledge service professionals (or reference librarians),on the one hand, they need to meet end-users' information needs adequately by going through carefully a routine procedure, such as providing an initial information-finding session with the information seekers, performing a series of follow-up actions after the confirmation of an information inquiry,and concluding the task with a command of information delivery and perhaps also accompanied it with a questionnaire of user-satisfaction review. From the perspective of the information seekers,on the other hand, the end-users need the emotive touch just as much if not more than the information assistance being tendered to them by library and informational professionals in their daily learning pursuit. An emotive touch by library and information professionals in their practice of knowledge services will go a long way in terms of meeting satisfactorily the information needs of their clientele. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It was exactly based on such a premise that a model of emotive practice of knowledge services was fully developed by this author.It focused on the establishment of mutual understand and trust between library and information professionals and their end-user clientele. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The operational aspect of this emotiveness-motivated model of knowledge service performed by library and information professionals involved four steps: i.e.1) to understand user'spersonal background, information seeking behaviorand information needs; 2) to make knowledge services known to the potential users; 3) to show respect and appreciation to each other; 4) and to establish personal friendship between service providers and end-users.The following is a detailed explanation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "At the first step,information providers should adopt the informal communication as a basic framework to observe, analyze and compare each and all of their online users’personal profile including a focused study, especially on the differences of their age, gender, language skills, cultural leanings, subject interests and viewpoints, perspectives,etc. The benefit of creating an online users’ personal profile is to be able to make library and informational parishioners understand better the change and persistence of users’ information seeking behavior in a categorized way so as to optimize their knowledge services performance differentiations. Creating a users' profile can also allow a given library to prioritize its knowledge services with a sound rationale within its institutional constraint of limited material and personnel resources. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "National Science Library, Chinese Academy of Sciences ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The second step for information service practitioners to take is to engage in emotive communication with their end-users.The substance of such communication depends on the result of their completion of a data analysis first by taking account the end-users' language skills,mental inclinations and thought-forming paths in a given subject field.It is not so much a concern about service modernization embodied in such terms associated with instrumental rationalism as “paradigm\",“paradigm shift\"，“user-driven”，“intelligent-driven” or “knowledge-driven,” which have nothing to do with humane caring and compassion. Rather, the ultimate concern rests on the emotive touch element in performing knowledge services,which is to cultivate mutual confidence and trust between library practitioners and the information seekers. The development of such a social and interpersonal network is made possible by the analysis of both the established personnel profile and the end-users’ feedbacks from those who have received the library's knowledge services. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The third step for library practitioners to do is to understand the individual enduser's information seeking behavior including some essential background information about this individual, such as his or her native origin, language skills,age, gender and cultural learnings, and preference of daily activities such as the usual places that they frequently go, what they do frequently, their topics of conversational interest, and their pattern of time-management for work and for leisure on a daily or weekly basis, etc. It is important that the knowledge service provided by library practitioners has to be custom-tailored to the library user's information seeking behavior. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The final step for library practitioners to take is to change the condescending teaching or supporting manner into that of an “emotive engagement of an intellectual dialog”modus operandi, which is centered on a friendly and informal session of social caring juxtaposed with mutual thought provoking and knowledge sharing. In other words,the emotive element is both a prerequisite of and also central to knowledge services. It ought to be exhibited vividly each time and throughout the library practitioner's professional life in high profile. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In addition, knowledge services should not be limited to a monolithic way of delivery. The intellectual contents delivered to information seekers may be packaged in non-traditional physical formats such as comic books,cartoons,video clips, games, posters,brochures and online information resources retrieved from the cyber space so as to attract end-users'interest and attention. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was prompted by the author's initial puzzlement about a conceptual map that resulted from an analysis of articles related to knowledge services of social network software. This map failed to show“emotive element” in its graphic presentation of knowledge service. This study subsequently proceeded to research the role of the informal information communication and its relationship to endusers' information seeking behavior. This empirical study presents a conclusion that students at Graduate School of Chinese Academy of Sciences believe that professional library practice should take the value and desirability of informal communication and the emotiveness-driven knowledge services into serious consideration. This knowledge service should carry it with a focused emphasis on emotive sentiment display rather than merely an event processing service. The recommendation of this paper is to develop an emotiveness-driven mechanism for libraries’ knowledge service practice so as to optimize its functional effectiveness. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Granted that even though adding an emotive element into knowledge services may not necessarily lead knowledge innovations directly, it can nonetheless cause end-users’interest to a heightened new level in terms of studying their research topics and in devoting themselves more deeply into a process of knowledge exploration and/or discovery. It is important for librarians to transmit a notion to the information seekers in high profile that they now have got a most supportive and caring “friend” in their digital library. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The emotiveness-driven knowledge services provided by libraries rely necessarily on a highly qualified staff team to carry them out step by step.It is a labor-intensive proposition and may incur an additional financial burden to the library's operational budget. However, the cost of such modus operandi can also be ameliorated somewhat with the assistance of more pertinent computer programs under the Web-based information environment. The author's research focus in the future will be on a balanced application of these computer-assisted devices/programs and also on an analytical study of differences and similarities of information seeking behavior as it is reflected from the weblog in comparison with that reflected from social science research instruments.Also, the issues of cost-effectiveness and work eficiency related to the proposed modus operandi of emotiveness-motivated informal communication in executing libraries’ knowledge services and a comparative analysis of such similar practice in other service-oriented industries also need to be further explored. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsI wish to express my profound thanks to Professor Zhang Xiaolin for his encouragement.My sincere thanks also go to anonymous teachers and language revisers for their most kind assistance, critical comments and helpful suggestions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 Larsen, J.N. Knowledge, human resources and social practice: The knowledge-intensive business service firm as a distributed knowledge system.Service Industries Journal, 2001, 21(1): 81-102.   \n2 Hoyt,K.B.,& Wickwire,P.N.Knowledge-information-service era changes in work and education and the changing role of the school counselor in career education. Career Development Quarterly,2001,49(3): 238-249.   \n3 Tsai, C.T.,Chang,P.L.,& Chou,T.C,.et al.An integration framework of innovation assessment for the knowledge-intensive service industry. International Journal of Technology Management,2005,30(1/2): 85-104.   \n4 Gano,G.L.,Crowley, J.E.,& Guston,D.“Shielding”the knowledge transfer process in human service research. Journal of Public Administration Research and Theory, 2Oo7,17(1): 39-60.   \n5 Chen，Y.M. Incomplete global integration and regional knowledge-intensive service industries. Service Industries Journal, 2006,26(2):223-248.   \n6 Rajala,R.,Westerlund,M.R.A.,& Leminen, S.Knowledge-intensive service activities in software business. International Journal of Technology Management，20o8,41(3/4): 273-290.   \n7 Doultsinou,A.,Roy,R.,& Baxter,D., et al.Developing a service knowledge reuse framework for engineering design. Journal of Engineering Design,20o9,20(4): 389-411.   \n8 Plumb,I.,& Zamfir, A. Managing service quality within the knowledge-based economy: Opportunities and challenges.Amfiteatru Economic,20o9,11(26): 373-382.   \n9 Rashman，L.，Withers,E.，& Hartley，J. Organizational learning and knowledge in public service organizations: A systematic review of the literature. International Journal of Management Reviews,2009,11(4): 463-494.   \n10 Shang，S.S.C.， Lin， S.F.，& Wu, Y.L. Service innovation through dynamic knowledge management.Industrial Management& Data Systems,2009,109(3/4): 322-337.   \n11 Chiu,T.H.Attributes and factors affecting the organization of knowledge resources:A case study of the library and information service industry in Taiwan. Knowledge Organization, 2005,32(3): 128-134.   \n12 Nicholas,H.，& Ng,W.Fostering online social construction of science knowledge with primary pre-service teachers working in virtual teams.Asia-Pacific Journal of Teacher Education,2009,37(4):379-398.   \n13 Chairatana,P.A. Knowledge,innovation,and service system in latecoming Southeast Asia. Asian Journal of Technology Innovation,2009,17(1):143-163.   \n14 Brancheau, J.C.，& Hoffmann, T.R.Managing information systems for effectiveness and humanity: Applying research on organizational behavior. Information & Management,1987, 13:233-243.   \n15Kuhlthau, C.C. Seeking meaning: A process approach to library and information services. 2nd edition.Norwood, NJ: Ablex Publishing,2003. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

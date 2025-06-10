@@ -1,0 +1,297 @@
+# 黄土高原社会-生态系统恢复力时空变化特征与影响因素分析
+
+叶文丽，杨新军，吴孔森，王银(西北大学城市与环境学院，陕西 西安710127)
+
+摘要：社会-生态系统恢复力理论为可持续发展研究提供了新视角。从社会、经济、生态三大子系统，脆弱性和适应能力两大要素着手，建立社会-生态系统恢复力评价指标体系，采用集对分析法测度黄土高原2000—2018年各子系统及社会-生态系统恢复力，利用探索性空间数据分析法进行时空演变格局分析，并甄别社会-生态系统恢复力的主要影响因素。结果表明：(1)2000—2018年社会-生态系统恢复力由0.522增强至0.721。社会恢复力由0.548增强至0.629后减弱至0.525；经济恢复力由0.401持续增强至0.850;生态恢复力由0.725减弱至0.607后增强至0.734，子系统恢复力演化趋势均不协同，经济系统与社会-生态系统恢复力演化趋势协同。经济系统恢复力的增强对于社会-生态系统恢复力增强具有显著促进作用。(2)社会-生态系统恢复力出现显著空间集聚趋势，较高地区除省会城市和包头等能源富集区外，关中平原地区始终呈现高-高(H-H)集聚格局,其余地区恢复力普遍相对偏低。(3)2000年以来黄土高原地区社会-生态系统恢复力生态维度障碍度始终高于社会和经济维度，不同地区指标层首要影响因素为人均GDP。
+
+关键词：社会-生态系统；恢复力；集对分析；探索性空间数据分析；黄土高原
+
+# 文章编号：
+
+全球气候变化和人类活动使生态系统发生剧变，可持续发展成为学者关注的热点问题。2002年召开的“可持续发展峰会"建议将恢复力理论加入到《21世纪议程》中，因为恢复力理论为在充满不确定性的环境中实现可持续发展提供了解决思路[-6]。恢复力的概念最早出现在生态系统的研究中，随着社会-生态系统的引入，恢复力的概念逐渐完善[8]。恢复力联盟将恢复力定义为系统应对外部干扰或意外事件的恢复能力，具有阈值效应，如果越过阈值，系统将无法恢复早期的模式，面对未来不断变化和不可预测的环境，有效的社会-生态系统恢复力管理可以增加可持续发展的可能性[10-12]
+
+从理论研究过渡到实际应用需要对恢复力进行评估，才能进一步识别恢复力的主要影响因素，并揭示其驱动机理和变化机制，从而为社会-生态系统管理提供决策依据。Cumming等[13]开始了实证研究的第一步，基于场景分析的方法评估了恢复力在未来特定驱动下的潜在变化；Michael等[4和Tilt等[15]基于沿海地区土地优化管理特定研究背景和目的提出分析框架;Bennett等[16提出了识别恢复力量化替代因子的4种基本模型;Perz等[17提出了一种通过使用敏感性和不确定性评估生态系统恢复力的方法；Gulay等[18]和Chaiteera等[19]从不同角度建立指标体系对恢复力进行了量化，为农业可持续生产提供参考。国内对恢复力的研究刚刚起步，研究成果较少，除文献综述外[3.20-21],汪兴玉等[22]基于农户尺度对干旱恢复力进行了测度；张行等23以生态脆弱区为例从景观的角度对恢复力进行量化研究；王群等[24]和陈亚慧等[25]分别以千岛湖和神农架林区为例对社会-生态系统恢复力进行了量化研究；侯彩霞等2运用系统动力学方法对草原社会-生态系统恢复力进行了评价。梳理国内外相关文献发现，理论研究和定性研究成果颇丰，研究框架和分析模型的提出多是基于特定研究背景和目的，目前还没有一个广泛应用的普适性研究框架。随着研究的不断深人，近年来学者侧重于研究复杂社会-生态系统在应对扰动时的适应性以及系统脆弱性和适应性之间的相互影响过程，脆弱性与恢复力相互紧密关联，二者既可能是正向关系也可能是负向关系，其关系具有不确定性;有学者将恢复力视为脆弱性的反面进行研究，虽有一定参考价值，但其科学性尚存争议，因为在量化恢复力时要将系统脆弱性和适应能力同时纳人考虑范围。
+
+黄土高原地区在国家发展战略中具有重要地位，也是国家可持续能源的重要保障。在黄河流域生态保护与高质量发展的国家战略背景下，黄土高原作为黄河流域中上游生态脆弱区核心，其生态保护与社会经济发展对于推进国家战略实施具有重要意义。由于长期以来不合理的经济活动和资源开发模式，导致生态系统退化严重，已经成为社会经济可持续发展的重要约束。尽管在生态建设、环境治理等方面已取得了阶段性进展，但居民生活水平不断提高的诉求将会进一步导致人地关系更加紧张。因此，本文尝试从恢复力理论切入构建研究框架，从系统脆弱性和适应能力两大要素着手选取替代因子，构建社会-生态系统恢复力测度指标体系，刻画2000—2018年黄土高原恢复力变化格局并识别其影响因素，以期为黄土高原生态建设和社会经济发展提供科学决策依据。
+
+# 1 研究区概况
+
+黄土高原位于我国西北地区，属黄河流域中上游。地跨青海、甘肃、宁夏、内蒙古、陕西、山西和河南7个省区，研究采用中国科学院资源环境科学数据中心(www.resdc.cn)定义的黄土高原地区范围(图1）。以2018年行政区划为准共276个研究单元(县、旗、州、市），总面积约 $6 . 4 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ，占全国国土面积的 $6 . 7 \%$ 。研究区年降水量 $3 0 0 { \sim } 6 5 0 ~ \mathrm { m m }$ ,平均海拔 $1 5 0 0 { \sim } 2 0 0 0 \ \mathrm { m } ^ { [ 2 7 ] }$ 。黄土层厚度由南向北递增，黄土结构松散极易受到风雨侵蚀造成严重的水土流失[28]。2000—2018年,黄土高原常住人口从 $8 . 9 \times$ $1 0 ^ { 7 }$ 人增加至 $1 . 1 \times 1 0 ^ { 8 }$ 人，人均生产总值从4509元增注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2020)4632号的标准地图制作，底图边界无修改。下同。
+
+![](images/9a243c545378ffc0d2c13e6834e3f1bfd19c5a47b352bff86657eaa080f99ef9.jpg)  
+图1研究区地理位置  
+Fig.1 Location of the studyarea
+
+加至47265元。
+
+# 2数据与方法
+
+# 2.1数据来源与处理
+
+研究数据来自2个方面：（1）统计数据。2000、2010、2018年《中国县域统计年鉴》《中国城市统计年鉴》《中国林业统计年鉴》以及《青海统计年鉴》《甘肃发展年鉴》《陕西省区域统计年鉴》《宁夏统计年鉴》《内蒙古统计年鉴》《山西统计年鉴》《河南统计年鉴》,部分缺失数据用相邻年份替代。（2）2000、2010、2018年土地利用数据、归一化植被指数(Nor-malized difference vegetation index,NDVI)和 $9 0 ~ \mathrm { m }$ 数字高程模型(Digitalelevationmodel,DEM)数据来源于中国科学资源环境科学数据中心。土地利用数据以各期LandsatTM/ETM遥感影像为主要数据源，共分为6个一级类型，数据精度均为 $1 ~ \mathrm { k m }$ 。将土地利用数据与NDVI数据在ArcGIS中利用提取分析工具按照行政区划进行提取。为消除原始数据量纲不一致问题，采用极差标准化方法进行处理，具体计算过程见参考文献[29]。
+
+# 2.2 研究框架
+
+社会-生态系统主要从复杂动力学角度研究系统的恢复力，为人地关系和可持续发展研究提供了新的视角[1]。恢复力具有3个典型属性：(1）系统保持自身结构和功能不变的量；（2）系统的自组织能力；(3）系统的学习适应能力[]。一个具有恢复力的系统可以将危机转化为进入更理想状态的机会[30]，社会-生态系统是人与自然紧密结合的开放适应系
+
+# 干吴区地理
+
+统，易受到外界干扰，具有不可预期、非线性和多稳态等多种特征[8]。在遭受外部扰动或危机时，系统将会在某一或多个“状态空间"移动[，“状态空间”是指系统的状态变量。趋于稳定的系统由以下变量控制：改变系统的难易程度(抗性）、系统距离阈值的距离(脆弱性)及系统所受的外部扰动量。让系统得以维持稳定的是在外部扰动下，脆弱性和抗性相互作用的结果，二者相互作用并决定着系统的恢复力，若系统恢复力较高，且所受的外部扰动量未超越其阈值，系统将维持在原系统中或进人一个更高质量的系统中，若系统恢复力较低，且所受的外部扰动量超越其阈值，系统将停滞崩溃或进入一个新系统(图2）。
+
+社会-生态系统的动态变化过程往往由一些关键变量控制和决定[31],在系统运行过程中，某一要素发生变化将引起其他要素变化，从而使系统发生巨变[32]。直接测度恢复力是困难的，因为需要测定系统不同稳态的阈值[17]。虽然无法进行直接测度，但可以通过在系统中选取具有前瞻性且可测量的关键替代因子进行测度[2.33]。充满不确定性的外部扰动通过影响系统要素影响恢复力，从恢复力的控制变量来看，可以通过测度恢复力的主要因子（系统脆弱性和抗性)来测度恢复力。社会-生态系统可解构为社会、经济、生态3个维度，黄土高原脆弱性因子主要来源于气象干旱和破碎的地形地貌，不同的区域脆弱性程度不同，系统抗性主要通过适应能力来表征，这些替代因子以线性或非线性、快速或缓慢、确定或不确定的方式共同作用于系统，决定着系统状态和功能。
+
+# 2.3社会-生态系统恢复力指标体系构建
+
+由于尚未形成广泛应用的测度体系，按照研究框架将社会-生态系统解构为社会、经济、生态3大子系统，分别从脆弱性和适应能力两大要素构建指标体系。按照科学性、系统性和数据可获得性等原则，遴选出控制系统的关键变量。基于实地调研和自身对研究区的认识，结合研究区具体实际情况经过相关性分析共遴选出人口密度等18项指标(表1)。
+
+在社会系统中，以人口密度衡量社会压力状态、人均固定资产投资及财政支出等衡量社会财政投资支持力度，以消费能力、教育水平和医疗水平衡量社会系统的学习适应能力。产业结构是经济结构的核心，直接关系到区域经济水平和生态环境。黄土高原地区产业发展水平滞后，多样化指数可以反映区域综合发展程度，因此以产业结构多样化指数、规模以上工业企业产值以及以金融机构贷款总额表征经济脆弱性，其中产业结构多样化指数$( r )$ 借鉴参考文献[34],计算公式为： $r = - 1 { \Bigg / } \sum _ { i = 1 } ^ { n } { x _ { i } } ^ { 2 }$ ，$x _ { i }$ 为各产业产值占总产值的比重， $n$ 为产业总数（此处设为3)。以财政收入和人均GDP衡量地方政府经济实力和经济发展水平，财政收入金融机构存款余额表征社会存储状况，经济发展水平越高对意外事件的应对适应能力越高。经过多次实地调研发现，农业人口占主体，“退耕还林(还草）"政策的实施使生态环境发生明显改善，但干旱的气候、破碎的地形地貌始终是限制社会经济发展的重要因素，因此选取降水量、化肥施用强度、地形破碎度表征生态环境脆弱性，采用研究区内高程标准差表示地形破碎度。众多研究表明土地利用强度与生态环境有着密切的联系，人类可通过调整土地利用强度实现对生态环境的适应，利用土地利用时空变化特征表征人类活动对生态系统的适应过程，因此以NDVI、造林面积和土地利用强度表征系统的适应能力，其中土地利用强度参考柳冬青等[35 土地利用分级指数，计算公式为：
+
+![](images/c559b3f2757fa5387890864bd9d22121acb37d7088f72d2cd786a6b7c5c2d9de.jpg)  
+图2黄土高原社会-生态系统恢复力研究框架  
+Fig.2Research framework of social-ecological system resilience in the Loess Plateau
+
+表1黄土高原社会-生态系统恢复力评价指标体系  
+Tab.1 Evaluation index system of social-ecological system resilience in the Loess Plateau   
+
+<html><body><table><tr><td>维度层(权重)</td><td>要素层</td><td>指标层</td><td>指标解释(方向)</td><td>AHP权重</td><td>均方差权重</td><td>最终权重</td></tr><tr><td rowspan="6">社会系统 (0.333)</td><td rowspan="2">脆弱性</td><td>人口密度(X1)/人·km-2</td><td>衡量系统压力状态(-)</td><td>0.037</td><td>0.065</td><td>0.051</td></tr><tr><td>人均固定资产投资(X2)/10元</td><td>衡量社会资本投资额度(+)</td><td>0.083</td><td>0.035</td><td>0.059</td></tr><tr><td rowspan="2">适应能力</td><td>财政支出(X3)/10元</td><td>衡量社会财政支出力度(+)</td><td>0.091</td><td>0.037</td><td>0.064</td></tr><tr><td>社会消费品总额(X4)/10元</td><td>衡量系统消费能力(+)</td><td>0.058</td><td>0.026</td><td>0.042</td></tr><tr><td rowspan="3"></td><td>普通中学在校学生数占人口比重(X5)/%</td><td>衡量社会教育程度(+)</td><td>0.029</td><td>0.036</td><td>0.032</td></tr><tr><td>每万人医疗机构床位数(X6)/个</td><td>衡量医疗卫生水平(+)</td><td>0.060</td><td>0.022</td><td>0.041</td></tr><tr><td>金融机构贷款(X7)/10元</td><td>衡量地方经济水平(-)</td><td>0.014</td><td>0.029</td><td>0.021</td></tr><tr><td rowspan="4">经济系统 (0.333)</td><td rowspan="2"></td><td>产业结构多样化指数(X8)</td><td>衡量产业结构平衡程度(+)</td><td>0.090</td><td>0.137</td><td>0.114</td></tr><tr><td>规模以上工业企业产值(X9)/10元</td><td>衡量地方工业水平(+)</td><td>0.058</td><td>0.054</td><td>0.056</td></tr><tr><td rowspan="2">适应能力</td><td>财政收入(X10)/10元</td><td>衡量地方政府经济水平(+)</td><td>0.016</td><td>0.031</td><td>0.024</td></tr><tr><td>金融机构存款余额(X11)/10元</td><td>衡量人口收入水平(+)</td><td>0.015</td><td>0.027</td><td>0.021</td></tr><tr><td rowspan="6">生态系统 (0.333)</td><td rowspan="3">脆弱性</td><td>人均GDP(X12)/元</td><td>衡量人均经济水平(+)</td><td>0.139</td><td>0.020</td><td>0.079</td></tr><tr><td>化肥使用强度(X13)/t·hm²</td><td>衡量对环境的污染程度(-)</td><td>0.017</td><td>0.031</td><td>0.024</td></tr><tr><td>地形破碎度(X14)</td><td>衡量地形破碎程度(-)</td><td>0.061</td><td>0.100</td><td>0.081</td></tr><tr><td rowspan="3">适应能力</td><td>降水量(X15)/mm</td><td>衡量自然条件(+)</td><td>0.129</td><td>0.089</td><td>0.109</td></tr><tr><td>NDVI(X16)</td><td>衡量系统自然条件(+)</td><td>0.062</td><td>0.121</td><td>0.091</td></tr><tr><td>造林面积(X17)/hm</td><td>衡量系统自然条件(+)</td><td>0.012</td><td>0.049</td><td>0.030</td></tr><tr><td></td><td></td><td>土地利用强度(X18)</td><td>衡量系统适应能力(+)</td><td>0.027</td><td>0.064</td><td>0.046</td></tr></table></body></html>
+
+注：AHP为层次分析法;NDVI为归一化植被指数。
+
+$$
+L { = } \sum _ { i = 1 } ^ { n } A _ { i } \times ( \frac { s _ { i } } { s } )
+$$
+
+式中： $L$ 为土地利用强度; $A _ { i }$ 为土地利用强度分级指数(建设用地为4、耕地为3、林地为2、草地为2.5、水域为2、未利用土地为1)； $s _ { i }$ 为第 $i$ 类土地面积$( \operatorname { k m } ^ { 2 } ) ; s$ 为各类土地总面积 $( \operatorname { k m } ^ { 2 } ) : n$ 为土地利用类型总数。
+
+# 2.4研究方法
+
+2.4.1指标权重确定方法为避免主客观赋权法的随意性和数据本身带来的偏差，采用主客观结合赋权法确定权重，分别选择层次分析(AHP)法和均方差决策分层法[36]。AHP法是应用网络系统理论和多目标综合评价方法提出的一种层次权重决策分析方法，比较适合于具有分层交错评价指标的目标系统，以AHP法为主体结合专家打分确定指标权重。均方差决策分层法反映随机变量的离散程度，离散程度代表均方差，以各维度层中评价指标为随机变量，将随机变量的均方差进行归一化处理，计算过程如下：
+
+$$
+s _ { i j } = \sqrt { \sum _ { 1 } ^ { n } ( r _ { i j } - u _ { i j } ) ^ { 2 } }
+$$
+
+$$
+w _ { i j } = { s _ { i j } } \mathord { \left/ { \vphantom { { s _ { i j } } { \sum _ { j = 1 } ^ { } } { s _ { i j } } } } \right. \kern - delimiterspace } { \sum _ { j = 1 } s _ { i j } }
+$$
+
+式中： $s _ { i j } \setminus w _ { i j } \setminus r _ { i j } \setminus u _ { i j }$ 分别为第 $i$ 个维度层第 $j$ 个指标的方差、权重、标准化值、平均值； $n$ 为研究区样本数
+
+2.4.2集对分析法集对分析(SPA)法通过把不确定性与确定性视作一个系统进行研究，借助对系统中确定性与不确定性相互依存相互联系和在一定条件下相互转化过程的描述、分析、处理，来研究不确定性在具体条件下的取值规律[37],已广泛应用于综合评价、风险评估、脆弱性评价等领域[38-42]。社会-生态系统各指标对系统的影响具有不确定性，恢复力测度的本质是确定性指标和评价标准与具有不确定性的评价因子及其影响程度相结合的过程[24]
+
+运用集对分析进行多属性评价，记为 $M =$ $\{ Q , T , E , W \}$ ,评价方案集 $Q = \left\{ q _ { 1 } , q _ { 2 } , \cdots , q _ { m } \right\}$ ,评价指标集 $T = \left\{ t _ { 1 } , t _ { 2 } , \cdots , t _ { n } \right\}$ ,评价对象集 $E = \left\{ e _ { 1 } , e _ { 2 } , \cdots , e _ { k } \right\}$ 评价指标权重集 $W = \left\{ w _ { 1 } , w _ { 2 } , \cdots , w _ { n } \right\}$ 。最优指标构成最优评价集 $U = \left\{ u _ { 1 } , u _ { 2 } , \cdots , u _ { n } \right\}$ ,最劣指标构成最劣评价集 $V = \left\{ v _ { 1 } , v _ { 2 } , \cdots , v _ { n } \right\}$ ,其中 ${ u _ { n } } \setminus v _ { n }$ 分别为指标的最优值和最劣值。集对 $\left\{ Q _ { \scriptscriptstyle m } , U \right\}$ 在 $[ U , V ]$ 上的联系度为[24.43]：
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l } { \displaystyle \mu ( q _ { _ m } , U ) = a _ { _ m } + b _ { _ m } i + c _ { _ m } j } \\ { ~ a _ { _ m } = \sum w _ { _ p } a _ { _ { p h } } \qquad \quad p = ( 1 , 2 , \cdots , n ) } \\ { \displaystyle c _ { _ m } = \sum w _ { _ p } c _ { _ { p k } } } \end{array} \right. } \end{array}
+$$
+
+当 $t _ { \ l _ { p k } }$ 为正向指标时 $\left\{ \begin{array} { l l } { a _ { _ { p k } } = \displaystyle \frac { t _ { p k } } { u _ { _ { p } } + v _ { p } } } \\ { c _ { _ { p k } } = \displaystyle \frac { u _ { _ { p } } v _ { _ { p } } } { t _ { p k } ( u _ { _ { p } } + v _ { _ { p } } ) } } \end{array} \right.$ 当 $t _ { p k }$ 为负向指标时 $\left\{ \begin{array} { l l } { a _ { _ { p k } } = \displaystyle \frac { u _ { _ { p } } v _ { p } } { t _ { p k } ( \boldsymbol { } u _ { _ { p } } + \boldsymbol { } v _ { _ { p } } ) } } \\ { \displaystyle c _ { _ { p k } } = \frac { t _ { p k } } { u _ { _ { p } } + v _ { _ { p } } } } \end{array} \right.$
+
+方案 $q _ { m }$ 与最优方案集 $U$ 的相对贴近度：
+
+$$
+r _ { m } = { \frac { a _ { m } } { a _ { m } + c _ { m } } }
+$$
+
+式中： $\mu$ 为集合的联系度； $q _ { m }$ 为评价方案； $\boldsymbol { a } _ { \scriptscriptstyle m }$ 为同一度； $b _ { { \scriptscriptstyle m } }$ 为差异度； $c _ { m }$ 为对立度; $i$ 和 $j$ 分别为对立度和差异度的系数； $\boldsymbol { w } _ { { p } }$ 为第 $p$ 项指标的权重； $a _ { _ { p k } }$ 和$c _ { p k }$ 分别为评价指标 $t _ { { } _ { p k } }$ 与集合 $\left\{ v _ { p } , u _ { p } \right\}$ 的同一度和对立度。 $r _ { { _ m } }$ 值越大越接近最优方案。
+
+2.4.3探索性空间数据分析法运用探索性空间数据分析(ESDA)法揭示黄土高原社会-生态系统恢复力的空间分布关联特征，并通过全局空间自相关和局部空间自相关进行检验[44-45]。
+
+（1）全局空间自相关通过某区域单元上的某种地理现象的相互关联程度反映空间分布，通过测算全局Moran's $I$ 指数来分析黄土高原社会-生态系统恢复力的空间分布特征，公式为：
+
+$$
+I = \frac { n } { s _ { 0 } } \times \frac { \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } w _ { i j } \big ( x _ { i } - \bar { x } \big ) \big ( x _ { j } - \bar { x } \big ) } { \displaystyle \sum _ { i = 1 } ^ { n } \big ( x _ { j } - \bar { x } \big ) ^ { 2 } }
+$$
+
+式中： $n$ 为研究区空间单元的数量； $s _ { 0 }$ 为所有指标之和; $\boldsymbol { w } _ { i j }$ 为空间权重矩阵 $w$ 的元素； $x _ { i }$ 和 $\mathbf { \boldsymbol { x } } _ { j }$ 分别为第 $i$ 和第 $j$ 个空间位置恢复力指数; $\mathit { \Pi } _ { \overline { { x } } }$ 为各研究区
+
+的恢复力均值。
+
+(2）局部空间自相关分析用来度量每一区域与周边地区恢复力间的局部关联性，公式为：
+
+$$
+I _ { i } { = } Z _ { i } { \sum _ { j } ^ { n } } w _ { i j } Z _ { j }
+$$
+
+式中： $I _ { i }$ 为局部自相关指数； $Z _ { i } \setminus Z _ { j }$ 分别为地区 $i$ 和$j$ 恢复力标准化形式； $\boldsymbol { w } _ { i j }$ 为空间权重矩阵的元素。若 $I _ { i }$ 显著为正且 $Z _ { j }$ 大于0,高恢复力地区被高恢复力地区包围为高 $\_$ 高(H-H)集聚;若 $I _ { i }$ 显著为正且$Z _ { j }$ 小于0,低恢复力地区被低恢复力地区包围为低-低(L-L)集聚;若 $I _ { i }$ 显著为负且 $Z _ { j }$ 小于0,低恢复力地区被高恢复力地区包围为低-高(L-H)集聚;若 $I _ { i }$ 显著为负且 $Z _ { j }$ 大于0,高恢复力地区被低恢复力地区包围为高-低(H-L)集聚。 $Z$ 检验为：
+
+$$
+Z ( I _ { i } ) = { \frac { I _ { i } - E ( I _ { i } ) } { \sqrt { \operatorname { V a r } ( I _ { i } ) } } }
+$$
+
+2.4.4障碍度模型采用障碍度模型从因子贡献度$( \mathbf { \nabla } G _ { i j }$ ）、指标偏离度( $\boldsymbol { P } _ { _ { i j } }$ )和障碍度( $\big < Z _ { \ O _ { i j } }$ )识别障碍因素，因子贡献度( $G _ { i j }$ )即单个因素对总目标的贡献度，一般用权重表示;指标偏离度( $\boldsymbol { P } _ { i j }$ )表示单项指标与最优值之间的差距，一般设为指标标准化值与$100 \%$ 之差;障碍度 $( \boldsymbol { Z } _ { i j } )$ 为单项指标对恢复力的影响程度[46]。计算公式为：
+
+$$
+P _ { _ { i j } } = 1 - Y _ { _ { i j } }
+$$
+
+式中： $Y _ { _ { i j } }$ 为第 $i$ 个维度层第 $j$ 个指标的标准化值。
+
+$$
+Z _ { i j } = \frac { P _ { i j } G _ { i j } } { \displaystyle \sum _ { j = 1 } ^ { n } P _ { i j } G _ { i j } } \times 1 0 0 \%
+$$
+
+# 3结果与分析
+
+# 3.1社会-生态系统恢复力时空变化特征
+
+3.1.1社会系统恢复力利用ArcGIS按照自然间断法将恢复力计算结果分为5级并进行可视化表达（图3），2000、2010、2018年社会恢复力平均值分别为0.548、0.629、0.525，呈现先增强后减弱的趋势（图3a1\~a3)。2000年社会恢复力较高地区主要为各省省会城市和资源型城市，如兰州、西安、包头、呼和浩特、银川、铜川等城市显著高于其他县市。2010年，社会恢复力普遍提升，尤其是以鄂尔多斯为核心的能源富集区增强最为显著，截止到2018年，除
+
+(a1)社会系统(2000年) (a2)社会系统(2010年) (a3)社会系统(2018年)NΛ NA NΛ图例 图例 图例恢复力 恢复力 恢复力I级0.39 I级0.56\~0.60 L I级0.31\~0.44Ⅱ级0.39\~0.54 0 250km Ⅱ级0.60\~0.620 250 km Ⅱ级0.44\~0.50 0 250knⅢ级0.54\~0.57 Ⅲ级0.62\~0.64 Ⅲ级0.50\~0.55V级0.57\~0.63 □省级行政边界 ■V级0.64\~0.69口省级行政边界 V级0.55\~0.63 □省级行政达■V级0.63\~0.75 $\boxminus$ 县级行政边界 ■V级0.69\~0.78县级行政边界 V级0.63\~0.77 （204号 $\boxminus$ 县级行政边(b1)经济系统(2000年) (b2)经济系统(2010年) (b3)经济系统(2018年)NΛ NA NΛ  
+图例 图例 图例  
+恢复力 恢复力 恢复力  
+I级0.27\~0.34 I级0.34\~0.40 I级0.59  
+Ⅱ级0.34\~0.38 0 250 km Ⅱ级0.40\~0.45 0 250 km Ⅱ级0.59\~0.81 0 250km  
+■Ⅲ级0.38\~0.40 一 Ⅲ级0.45\~0.48 Ⅲ级0.81\~0.84  
+IV级0.40\~0.42 □省级行政边界 IV级0.48\~0.50 □省级行政边界 1 V级0.84-0.86 □省级行政边界  
+■V级0.42\~0.52 县级行政边界 V级0.50\~0.55 $\boxminus$ 县级行政边界 一 V级0.86\~0.92 $\boxminus$ 县级行政边界(c1)生态系统(2000年) (c2)生态系统(2010年) (c3)生态系统(2018年)NΛ NΛ NA  
+图例 图例 图例  
+恢复力 恢复力 恢复力  
+I级0.17\~0.55 I级0.15\~0.38 I级0.26\~0.51  
+级0.5-0.67 0 250 km I级0.38-0.56 0 250 km I级0.51-0.67 0 250 km  
+■V级0.73\~0.77 □省级行政边界 一 V级0.64\~0.73口省级行政边界 V级0.75\~0.82 □省级行政边界  
+V级0.77\~0.86 $\boxminus$ 县级行政边界 V级0.73\~0.87县级行政边界 1 V级0.82\~0.94 （204 $\boxed { \boxed { \begin{array} { r l } \end{array} } }$ 县级行政边界(d1)社会-生态系统(2000年) (d2)社会-生态系统(2010年) (d3)社会-生态系统(2018年)NA NA NA  
+图例 图例 图例  
+恢复力 恢复力 恢复力  
+I级0.31\~0.46 I级0.37\~0.46 I级0.51\~0.62  
+Ⅱ级0.46\~0.50 0 250km Ⅱ级0.46\~0.53 0 250 km Ⅱ级0.62\~0.69 0 250 km  
+■Ⅲ级0.50\~0.53 Ⅲ级0.53\~0.57 Ⅲ级0.69\~0.72  
+■V级0.53\~0.55口省级行政边界 IV级0.57\~0.61 □省级行政边界 IV级0.72\~0.76 省级行政边界  
+■V级0.55\~0.61 $\sqsubset$ 县级行政边界 V级0.61\~0.68 $\boxminus$ 县级行政边界 IV级0.76\~0.84 （204号 $\boxminus$ 县级行政边界
+
+# 干吴区地理
+
+个别县域社会恢复力降低外，相较于2010年社会恢复力较高的区域仍保持在较高水平，关中平原地区社会恢复力显著提升。恢复力增加显著主要是由于西部大开发等国家政策对西部地区的扶持，固定资产投资和财政支出显著增加，社会各项基础设施日渐完善、卫生医疗机构床位数显著上升。随着社会财政支出增速的放缓，除省会城市、能源富集区鄂尔多斯、包头、延安、铜川等以及关中平原地区恢复力仍处于较高水平外，青海、陕北、山西等依赖外部投资的县域出现降低趋势。
+
+3.1.2经济系统恢复力2000、2010、2018年经济恢复力平均值分别为0.401、0.486、0.850，呈现持续增强趋势且增速逐渐加快(图3b1\~b3)。2000年除兰州、西安、太原、大同外其余县市普遍较低，尤其是青海，2010年甘肃陇东、关中平原、内蒙古大部分地区恢复力显著增强，2018年显著增强区域为核心的周围地区在增长极的辐射作用下普遍增强。经济恢复力增强主要是由于经济发展水平提高，人均GDP显著增加，人均GDP增加越显著的地区恢复力增强越显著。经济恢复力分布格局与城市群分布基本相吻合，较高地区西北部主要为鄂尔多斯、包头等资源富集区，东南部主要为太原、西安、洛阳及其辐射范围内县市。经济恢复力严重依赖于人均GDP水平和资本投入，非资源富集区非城市群地区一直处于较低水平，提高“双非"地区经济水平是提高黄土高原整体经济恢复力的关键
+
+3.1.3生态系统恢复力2000、2010、2018年生态恢复力平均值分别为0.725、0.607、0.734，呈现先减弱后增强态势，空间分异特征显著，恢复力整体上呈现自西向东、从低到高阶梯状分布格局（图3c1\~c3)，内蒙古巴彦淖尔及宁夏中卫等部分县市恢复力相对较低，关中平原地区相对较高。2000年前后，国家一系列生态工程尤其是“退耕还林(还草）"的实施，以及气候暖湿趋势的出现有利于植被生长，植被总初级生产力增强，气候条件和人类活动使植被覆盖增加，水土流失和土地沙化问题得到改善，2010年后为“退耕还林(还草）"巩固期，造林面积逐渐减少。
+
+3.1.4 社会-生态系统恢复力 2000、2010、2018年社会-生态系统恢复力平均值分别为0.522、0.561、0.721，呈现持续增强的态势，空间分异显著（图3d1\~d3)。关中平原地区恢复力始终处于较高水平，西北部青海、内蒙古、宁夏等地区始终较低。2000年，生态恢复力>社会恢复力>经济恢复力；2010年，社会恢复力>生态恢复力>经济恢复力；2018年，经济恢复力>生态恢复力>社会恢复力，经济恢复力的增强对社会-生态系统恢复力具有显著促进作用，经济恢复力较高地区社会-生态系统恢复力不一定较高，但社会-生态系统恢复力较高地区经济恢复力一定较高。除经济系统与社会-生态系统变化趋势保持协同外，其余子系统间以及子系统与社会-生态系统间均不协同。
+
+# 3.2社会-生态系统恢复力空间探索性分析
+
+为揭示黄土高原社会-生态系统恢复力空间格局特征，对社会-生态系统恢复力值进行空间自相关分析(表2、图4)。2000、2010、2018年Moran'sI指数均为正值，分别为0.348、0.518和0.418，均在$5 \%$ 水平上通过了显著性检验。由此可见，社会-生态系统恢复力具有显著的空间正相关性。
+
+表2全局相关性分析结果  
+Tab.2 Global correlation analysis results   
+
+<html><body><table><tr><td>指标</td><td>2000年</td><td>2010年</td><td>2018年</td></tr><tr><td>Moran'sI指数</td><td>0.348</td><td>0.518</td><td>0.418</td></tr><tr><td>Z</td><td>14.025</td><td>20.689</td><td>16.749</td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td></tr></table></body></html>
+
+注：Moran'sI为空间自相关指数;Z为标准差倍数； $P$ 为概率。
+
+2000、2010、2018年黄土高原社会-生态系统恢复力局部Moran'sI指数(图4)，呈现出明显的空间集聚趋势，主要集聚类型为H-H类和L-L类。2000年，H-H类研究单元共39个，主要分布在南部的宝鸡、西安、三门峡、洛阳和东部的阳泉、长治及其下辖县;L-L类共34个，主要分布在西宁、鄂尔多斯、巴彦淖尔、乌海、银川、石嘴山、吴忠、青铜峡及其下辖县。2010年，H-H类共50个，主要分布在天水、宝鸡、铜川、渭南三门峡等及其下辖县;L-L类共26个，主要分布在兰州、白银、宁夏大部分县市以及巴彦淖尔及其下辖县。2018年，H-H类40个，主要分布在宝鸡、西安、渭南、洛阳、济源等及其下辖县；L-L类30个，主要分布在白银、中卫、巴彦淖尔及其下辖县。
+
+# 3.3社会-生态系统恢复力影响因素分析
+
+采用障碍度模型识别影响社会-生态系统恢复力维度层和指标层的关键障碍因子及障碍度，可为制定恢复力提升对策和建议提供科学依据。根据
+
+![](images/21fd52e7a8c0d0ccec7c7040bc0c748d4f0fcb3d380b2ff405d77926ab5c2e80.jpg)  
+图42000—2018年黄土高原社会-生态系统恢复力局部空间相关性  
+Fig.4Local spatial correlation analysis ofsocial-ecological system resilience in theLoessPlateau during 2000—201
+
+障碍度模型和方法，计算结果见表3、表4。
+
+2000—2018年，黄土高原维度层障碍度整体呈现生态维度 $\mathrm { > }$ 社会维度>经济维度，从区域内部来
+
+看，陕西、山西、河南呈现社会维度 $\mathrm { > }$ 生态维度 $>$ 经济维度，青海、甘肃、宁夏、内蒙古呈现生态维度 $>$ 社会维度>经济维度。可见青海、宁夏、内蒙古受生态环
+
+Tab.3 Barrier degree of each dimension of social-ecosystem resilience during 2ooo—2018   
+表42000—2018年社会-生态系统恢复力指标层障碍度  
+
+<html><body><table><tr><td rowspan="2">省份</td><td colspan="3">社会维度</td><td colspan="3">经济维度</td><td colspan="3">生态维度</td></tr><tr><td>2000年</td><td>2010年</td><td>2018年</td><td>2000年</td><td>2010年</td><td>2018年</td><td>2000年</td><td>2010年</td><td>2018年</td></tr><tr><td>青海</td><td>29.62</td><td>31.52</td><td>31.74</td><td>35.45</td><td>32.99</td><td>29.12</td><td>34.93</td><td>35.49</td><td>39.13</td></tr><tr><td>甘肃</td><td>34.12</td><td>34.38</td><td>33.47</td><td>29.03</td><td>30.49</td><td>32.46</td><td>36.85</td><td>35.13</td><td>34.07</td></tr><tr><td>宁夏</td><td>32.43</td><td>32.61</td><td>31.32</td><td>27.97</td><td>29.51</td><td>30.12</td><td>39.60</td><td>37.88</td><td>38.56</td></tr><tr><td>内蒙古</td><td>31.72</td><td>32.69</td><td>32.48</td><td>32.01</td><td>30.99</td><td>29.97</td><td>36.26</td><td>36.32</td><td>37.56</td></tr><tr><td>陕西</td><td>34.98</td><td>35.64</td><td>34.97</td><td>30.74</td><td>32.91</td><td>32.35</td><td>34.28</td><td>31.45</td><td>32.69</td></tr><tr><td>山西</td><td>34.47</td><td>33.86</td><td>33.75</td><td>30.30</td><td>32.55</td><td>33.06</td><td>34.23</td><td>33.14</td><td>33.46</td></tr><tr><td>河南</td><td>34.92</td><td>35.67</td><td>34.96</td><td>34.92</td><td>35.97</td><td>33.59</td><td>30.16</td><td>28.36</td><td>31.45</td></tr></table></body></html>
+
+表32000—2018年社会-生态系统恢复力各维度障碍度  
+Tab.4Barrier degree of index layer of social-ecosystem resilience during 2ooo—2018   
+
+<html><body><table><tr><td>年份</td><td>青海</td><td>甘肃</td><td>宁夏</td><td>内蒙古</td><td>陕西</td><td>山西</td><td>河南</td></tr><tr><td rowspan="5">2000</td><td>X8(14.10)</td><td>X12(12.71)</td><td>X15(13.10)</td><td>X15(13.05)</td><td>X12(13.01)</td><td>X12(12.71)</td><td>X12(13.17)</td></tr><tr><td>X12(10.79)</td><td>X3(10.30)</td><td>X12(11.93)</td><td>X12(11.53)</td><td>X3(10.53)</td><td>X3(10.20)</td><td>X3(10.67)</td></tr><tr><td>X15(9.58)</td><td>X15(10.29)</td><td>X16(10.23)</td><td>X3(9.33)</td><td>X2(9.71)</td><td>X15(9.73)</td><td>X2(9.84)</td></tr><tr><td>X3(8.74)</td><td>X2(9.47)</td><td>X3(9.66)</td><td>X16(9.16)</td><td>X15(9.58)</td><td>X2(9.64)</td><td>X8(9.25)</td></tr><tr><td>X2(8.03)</td><td>X9(8.94)</td><td>X2(8.78)</td><td>X8(8.61)</td><td>X9(9.13)</td><td>X16(9.17)</td><td>X9(9.12)</td></tr><tr><td rowspan="5">2010</td><td>X12(11.79)</td><td>X12(12.98)</td><td>X15(12.57)</td><td>X15(12.42)</td><td>X12(13.12)</td><td>X14(14.87)</td><td>X12(13.57)</td></tr><tr><td>X8(9.81)</td><td>X3(10.32)</td><td>X12(12.16)</td><td>X12(12.25)</td><td>X3(10.63)</td><td>X12(12.78)</td><td>X3(10.60)</td></tr><tr><td>X3(9.30)</td><td>X15(9.99)</td><td>X3(9.64)</td><td>X3(9.49)</td><td>X2(9.82)</td><td>X3(9.96)</td><td>X8(10.27)</td></tr><tr><td>X15(9.16)</td><td>X2(9.58)</td><td>X2(8.89)</td><td>X16(8.71)</td><td>X9(8.95)</td><td>X15(9.73)</td><td>X2(9.67)</td></tr><tr><td>X2(8.71)</td><td>X9(8.98)</td><td>X16(8.34)</td><td>X2(8.58)</td><td>X15(7.96)</td><td>X2(9.42)</td><td>X9(7.77)</td></tr><tr><td rowspan="5">2018</td><td>X15(12.43)</td><td>X12(13.00)</td><td>X15(13.54)</td><td>X15(13.58)</td><td>X12(13.55)</td><td>X14(13.64)</td><td>X12(14.22)</td></tr><tr><td>X12(12.21)</td><td>X15(10.63)</td><td>X12(12.11)</td><td>X12(12.64)</td><td>X3(10.31)</td><td>X12(12.91)</td><td>X3(10.42)</td></tr><tr><td>X3(9.39)</td><td>X3(9.79)</td><td>X3(9.01)</td><td>X3(9.16)</td><td>X15(9.47)</td><td>X15(10.28)</td><td>X8(8.76)</td></tr><tr><td>X9(8.38)</td><td>X2(9.17)</td><td>X2(8.45)</td><td>X2(8.56)</td><td>X2(9.43)</td><td>X3(9.77)</td><td>X2(8.10)</td></tr><tr><td>X2(8.14)</td><td>X9(8.56)</td><td>X9(8.20)</td><td>X9(8.02)</td><td>X9(9.02)</td><td>X2(9.45)</td><td>X4(7.25)</td></tr></table></body></html>
+
+注：表中所列为障碍度排名前5的障碍因子； $X 1 { \sim } X 1 6$ 的含义见表1。
+
+# 干吴区地理
+
+境制约最严重，其次为甘肃、山西、陕西、河南。生态环境始终是制约黄土高原社会-生态系统恢复力的首要因素，但其障碍度呈现逐渐降低的趋势，社会障碍度除青海外，均逐渐降低，经济障碍度整体上略为增加。
+
+从高到低选取指标层障碍度排名前5的因素(表4)。可以看出，不同时期首位障碍因素不同，青海主要制约因素为产业结构、人均GDP和降水量;甘肃、陕西主要制约因素为降水量、人均GDP和财政支出，首位障碍因素始终为人均GDP,且障碍度略增加；宁夏和内蒙古主要制约因素为降水量、人均GDP和NDVI,首位障碍因素始终为降水量;山西主要制约因素为地形破碎度、降水量和人均GDP,首位障碍因素从人均GDP转变为地形破碎度;河南主要制约因素为人均GDP、财政支出和人均固定资产投资，首位障碍因素始终为人均GDP。综上所述,2000—2018年制约黄土高原恢复力水平的主要因素为：人均GDP、财政支出、降水量、人均固定资产投资和规模以上工业企业产值。
+
+区域社会经济发展受气候、地形地貌、城镇化、工业化以及国家政策等多因素的影响。区域经济发展的空间格局是区域内非均衡增长的表现，反映了区域经济发展的空间格局和分化状态。黄土高原内部呈现多中心的空间分布模式，形成了以呼包鄂榆城市群、兰西城市群、关中城市群为核心的经济格局。虽已形成多中心的发展格局，但未形成具有引领作用的经济增长极，经济联系松散，缺乏外部投资和内部驱动力。区域经济发展处于工业化中后期，工业化推动煤炭、石油、天然气开采以及电力等产业的迅速发展，呼和浩特、包头、鄂尔多斯、榆林等资源型城市迅速崛起。南部关中地区拥有优越的自然条件和社会经济发展基础，城市人口与产业集聚成为人均GDP快速增长的重要动力。其余大部分自然本底和资源禀赋较差的丘陵沟壑区、土石山区等地区经济发展滞后，城镇化率低于全国平均水平，农业人口居多，脆弱复杂的生态环境和自然条件使农业生产条件贫瘠、雨养农业发展滞后。
+
+# 4讨论
+
+恢复力理论为可持续发展研究提供了新视角。本研究是从恢复力视角对黄土高原可持续性和黄河流域高质量发展的尝试和探索，尤其是“退耕还林(还草）"政策以来黄土高原恢复力变化的分析和研究，对黄土高原下一步生态建设以及社会经济发展目标和方向的确立具有一定参考价值。
+
+2000年以来，在国家对西部欠发达地区的政策倾斜和扶持下，黄土高原地区社会-生态系统恢复力持续增强，但内部异质性较强。同样，生态政策的实施使脆弱的生态环境得到显著改善，生态系统恢复力由减弱转变为增强。正如杨永春等[47学者得出的结论，黄河流域生态环境复杂且脆弱，内部经济发展松散，外部投资不足，要实现高质量发展必须寻求新发展模式。尽管研究结果具有一定的实践应用价值，但是在测度过程中存在不足之处，望在后续的研究中加以改进和完善。与土地利用相关的指标，由于研究区的特殊性、数据的时序性要求等,将土地利用数据分为6类,未进行更细致的分类,应在后续的研究中进一步细分，并从恢复力视角为研究区土地利用规划管理提供优化依据。引入障碍度模型识别障碍因素，由于涉及研究区数量较多，区域内部临近地域存在高度相似性，以省级行政区进行表达便于国家政策的制定、实施与管理。此外,社会-生态系统是复杂动态系统，可能并非包括所有影响因子，且只是对其影响度进行排序分析，缺乏对因子内部相互作用的分析。此外，黄土高原的生态环境脆弱性、内部异质性以及区域内的不平衡发展意味着黄土高原或黄河流域高质量发展是个长期性的艰巨任务，论文只测度了黄土高原2000年以来的恢复力变化格局，这在历史发展过程中只是一个相对短暂的阶段，需进一步做较长时间段的研究，才可能确定社会-生态系统恢复力的阈值和稳态,或进一步与其他地区进行比较研究，以得到更客观的评价结果，或利用微观农户尺度数据通过研究恢复力的尺度交互作用在微观层面揭示其自下而上的驱动机理。
+
+最后提出几点提升社会-生态系统恢复力的建议：（1）黄土高原干旱的气候条件和地形地貌环境制约着社会-生态系统恢复力，生态建设虽已取得显著成效，但生态建设与可持续发展的矛盾将持续存在，现阶段面临的主要任务是探索一条生态保护与治理下的可持续发展之路，即促进社会、经济、生态系统协同发展；（2）黄土高原内部发展极不平衡，能源富集区和关中平原地区具有明显的经济优势。某种程度上黄土高原可持续发展，即资源型城市的转型或行业企业的绿色转型，同时应按照不同地区自然条件、资源禀赋、社会经济条件，调整国家政策倾斜，调整产业结构，缩小黄土高原内部差距，促进区域协同发展；（3）在提高经济发展水平缩小经济差距的同时，促进基本公共服务均等化，加强基础设施建设，提升社会福利与保障水平；（4）稳步推进国家乡村振兴战略，因地制宜地发展特色农业，集约化、规模化种植，改善农村饮水、交通、医疗卫生、教育、人居环境等条件。
+
+# 5结论
+
+本文将社会经济统计数据和遥感数据结合起来，从多层面多要素建立了黄土高原社会-生态系统恢复力研究框架，揭示了黄土高原社会-生态系统恢复力时空演化特征及影响因素，主要结论如下：
+
+（1）2000年以来，黄土高原地区社会恢复力整体呈现先增强后减弱的态势，社会恢复力较高地区主要为兰州、西安、铜川等省会城市或资源型城市，它的增强与国家政策对西部地区的扶持力度紧密相关；经济恢复力呈现持续增强态势，其分布格局与城市群分布基本相吻合；生态恢复力呈现先减弱后增强的态势，整体呈现自西向东从低到高阶梯状分布格局，生态恢复力的增强与“退耕还林(还草)"政策以及气候暖湿趋势紧密相关。
+
+(2）社会-生态系统恢复力呈现持续增强的态势，空间分异显著，关中平原地区始终高于其他地区，并且与经济系统变化趋势始终保持协同，其余子系统间以及子系统与社会-生态系统均不协同。经济恢复力较高地区社会-生态系统恢复力不一定较高，但社会-生态系统恢复力较高地区经济恢复力一定较高。
+
+(3）社会-生态系统恢复力具有显著的空间正相关性，局部呈现出明显的空间集聚趋势，低恢复力地区集聚在巴彦淖尔、银川等黄土高原西北部，强恢复力地区始终集聚在宝鸡、西安为核心关中平原地区。
+
+（4）黄土高原维度层障碍度整体呈现生态维度 $\mathrm { > }$ 社会维度 $\mathrm { \dot { > } }$ 经济维度，障碍度首位始终是生态维度，除个别地区其生态障碍度略有增强外，大部分地区在逐渐降低，说明在国家生态政策影响下生态环境保护虽已取得成效，生态建设仍然是提高恢复力的重要途径之一。指标层影响因子逐渐趋于一致，首位影响因素为人均GDP。
+
+参考文献(References）   
+[1]孙晶,王俊,杨新军.社会-生态系统恢复力研究综述[J].生态学 报,2007,27(12): 5371-5381.[Sun Jing,WangJun,Yang Xinjun. An overview on the resilience of social-ecological systems[J]. Acta Ecologica Sinica,2007,27(12): 5371-5381.]   
+[2]Folke C, Carpenter S,Elmqvist T,et al.Resilience and sustainable development: Building adaptive capacity in a world of trans formations[J].Ambio: A Journal of the Human Environment,2002, 31(5): 437-440.   
+[3]黄晓军,王博,刘萌萌,等.社会-生态系统恢复力研究进展-基 于CiteSpace 的文献计量分析[J].生态学报，2019,39(8):3007- 3017.[Huang Xiaojun,Wang Bo, Liu Mengmeng,et al. Research progress on the resilience of socio-ecosystem: A bibliometric analysis based on CiteSpace[J].Acta Ecologica Sinica, 2019,39(8): 3007-3017.]   
+[4]Jessica C,Michael C,Georgina C,et al. Understanding the context of multifaceted collaborations for social-ecological sustainability: A methodology forcross-case analysis[J]. Ecologyand Society, 2020,25(3): 7,doi: 10.5751/ES-11527-250307   
+[5]Ostrom E.A general framework for analyzing sustainability of social-ecological systems[J]. Science,2009,325(5939): 419-421.   
+[6]Olsson P,Galaz V, Boonstra W J. Sustainability transformations: A resilience perspective[J].Ecology and Society,2014,19(4):1, doi: 10.5751/ES-06799-190401.   
+[7]Holing C S.Resilence and stability of ecological aystems[J]. Annual Review of Ecology and Systematics,1973,4(1): 1-23.   
+[8]Holling C S. Understanding the complexity of economic,ecological,and social systems[J]. Ecosystems,2001,4(5): 390-405.   
+[9]Alliance R. Assessing and managing resilience in social-ecological systems: A practitioners workbook[DB/OL].[2007-06-01]. http: //www.resalliance.org/3871.php.   
+[10]Folke C,Carpenter S,Elmqvist T,et al. Resilience and sustainable development: Building adaptive capacity in a world of transformations[J].Royal Swedish Academy of Sciences,2002,31(5): 437-440.   
+[11]Walker B,Holing C S, Carpenter S.Resilience,adaptability and transformability in social-ecology systems[J]. Ecology and Society, 2004,9(2): 5,doi: 10.1890/04-0463.   
+[12]Adger W N,Hughes TP,Folke C, et al. Social-ecological resilience to coastal disasters[J]. Science,2005,309(5737):1036-1039.   
+[13]Cumming G S, Barnes G,Perz S,et al.An exploratory framework for the empirical measurement of resilience[J]. Ecosystems,2005 (8): 975-987.   
+[14]Michael G L, Deborah P,Robert W D.Towards asocial-ecological resilience framework for coastal planning[J].Land Use Policy, 2013,30(1): 925-933.
+
+# 干旱区地理
+
+[15] Tilt B,Gerkey D.Dams and population displacement on China’s Upper Mekong River: Implications for social capital and socialecological resilience[J]. Global Environmental Change,2016,36: 153-162.   
+[16] Bennett E M, Cumming G S,Peterson G D.A systems model approach to determining resilience surrogates for case studies[J]. Ecosystems,2005, 8: 945-957.   
+[17]Perz S G, Munoz-Carpena R, Kiker G,et al. Evaluating ecological resilience with global sensitivity and uncertainty analysis[J]. Ecological Modelling,2013,263: 174-186.   
+[18]Gulay C C.Assessment of the resilience of socio-ecological production landscapes and seascapes: A case study from Lefke Region of north Cyprus[J]. Ecological Indicators,2017,73: 128-138.   
+[19]Chaiteera P,Budsara L. Indicators for assessing social-ecological resilience:A case study of organic rice production in northern Thailand[J].Kasetsart Journal of Social Sciences,2O18,39(3): 414-421.   
+[20] 周晓芳.社会-生态系统恢复力的测量方法综述[J].生态学报, 2017,37(12): 4278-4288.[Zhou Xiaofang. Measuring methods for the resilience of social ecological systems[J]. Acta Ecologica Sinica,2017,37(12): 4278-4288.]   
+[21] 刘小茜,裴韬,舒华,等.基于文献计量学的社会-生态系统恢 复力研究进展[J].地球科学进展,2019,34(7):765-777.[Liu Xiaoqian,Pei Tao,Shu Hua,etal.A bibliometric investigation of research on social-ecological system resilience[J].Advances in Earth Science,2019,34(7): 765-777.]   
+[22] 汪兴玉,王俊,白红英,等.基于农户尺度的社会-生态系统对 干旱的恢复力研究-以甘肃省榆中县为例[J].水土保持通报, 2008,28(1):14-18.[Wang Xingyu,Wang Jun,Bai Hongying,et al. Social ecosystem based on peasant household versus drought resilience: A case study in Yuzhong County of Gansu Province[J]. Bulletin of Soil and Water Conservation,2008,28(1): 14-18.]   
+[23] 张行,梁小英,刘迪,等.生态脆弱区社会-生态景观恢复力时 空演变及情景模拟[J].地理学报,2019,74(7):1450-1466. [Zhang Hang,Liang Xiaoying,Liu Di,et al. The resilience evolution and scenario simulation of social-ecological landscape in the fragile area[J]. Acta Geographica Sinica,2019,74(7): 1450-1466.]   
+[24] 王群,陆林,杨兴柱.千岛湖社会-生态系统恢复力测度与影响 机理[J].地理学报,2015,70(5):779-795.[Wang Qun,Lu Lin, Yang Xingzhu. Study on measurement and impact mechanism of socio-ecological system resilience in Qiandao Lake[J].Acta Geographica Sinica,2015,70(5): 779-795.]   
+[25]陈亚慧.神农架林区社会-生态系统恢复力测度与影响机理 [D].武汉:华中师范大学,2018.[Chen Yahui. Study on measurement and impact mechanism of socio-ecological system resilience in Shennongjia Forest District[D]. Wuhan: Central China Normal University, 2018.]   
+[26] 侯彩霞,周立华,文岩,等.生态政策下草原社会-生态系统恢 复力评价——以宁夏盐池县为例[J].中国人口·资源与环境, 2018,28(8): 117-126.[Hou Caixia, Zhou Lihua, Wen Yan,et al. Evaluation of social-ecological systems resilience in ecological policy[J].China Population,Resources and Environment,2018,28 (8): 117-126.]   
+[27] 孙锐,陈少辉,苏红波.黄土高原不同生态类型NDVI时空变化 及其对气候变化响应[J].地理研究,2020,39(5):1200-1214. [Sun Rui, Chen Shaohui,Su Hongbo.Spatiotemporal vaiationof NDVI in different ecotypes on the Loess Plateau and its response to climate change[J]. Geographical Research,2020,39(5):1200- 1214.]   
+[28] 党小虎,吴彦斌,刘国彬,等.生态建设15年黄土高原生态足迹 时空变化[J].地理研究,2018,37(4):761-771.[Dang Xiaohu, Wu Yanbin,Liu Guobin,et al.Spatial-temporal changes of ecological footprint in the Loess Plateau after ecological construction between 1995 and 2010[J]. Geographical Research, 2018,37(4): 761-771.]   
+[29] 吴景全,吴铭婉,臧传富.西北诸河流域土地利用变化及土地生 态安全评估[J].干旱区地理,2021,44(5):1471-1482.[Wu Jingquan, Wu Mingwan, Zang Chuanfu. Land use change and land ecological security assessment in the river basins of northwestern China[J]. Arid Land Geography,2021,44(5): 1471-1482.]   
+[30]Folke C, Hahn T,Olsson P,et al. Adaptive governance of socialecological systems[J]. Annual Review of Environment and Resources, 2005,30: 441-473.   
+[31]Pimm S L. The complexity and stability of ecosystems[J].Nature, 1984,307: 321-326.   
+[32] 余光中,李波,张新时.社会生态系统及脆弱性驱动机制分析 [J].生态学报,2014,34(7):1870-1879.[Yu Guangzhong,Li Bo, Zhang Xinshi. Social ecological system and vulnerability driving mechanism analysis[J]. Acta Ecologica Sinica, 2014,34(7):1870- 1879.]   
+[33] Carpenter S R, Westley F,Turner M G. Surrogates for resilience of social-ecological systems[J]. Ecosystems, 2005,8(8): 941-944.   
+[34] 孙东琪,朱传耿,周婷.苏、鲁产业结构比较分析[J].经济地理, 2010,30(11):1847-1853. [Sun Dongqi,Zhu Chuangeng, Zhou Ting. Comparative study on the industrial structure of Jiangsu Province and Shandong Province[J].Economic Geography,2O1o,30(11): 1847-1853.]   
+[35] 柳冬青,张金倩,巩杰,等.陇中黄土丘陵区土地利用强度-生 态系统服务-人类类福祉时空关系研究——以安定区为例[J] 生态学报,2019,39(2):637-648.[Liu Dongqing,ZhangJiqian, Gong Jie,et al. Spatial and temporal relations among land-use intensity,costcdanellging loess hilly region: A case study of the Anding District,Gansu Province[J]. Acta Ecologica Sinica, 2019,39(2): 637-648.]   
+[36] 吴秀芹,张艺潇,吴斌,等.沙区聚落模式及人居环境质量评价 研究——以宁夏盐池县北部风沙区为例[J].地理研究,2010, 29(9):1683-1694.[Wu Xiuqin, Zhang Yixiao,Wu Bin,et al. Study on the setlement pattern in sandy area and its quality evaluation: A case study of sandy area in the north of Yanchi County[J].Geo graphical Research,2010,29(9): 1683-1694.]   
+[37] 赵克勤.集对分析及其初步应用[M].杭州:浙江科学技术出版 社,2003:1-32.[Zhao Keqin.Set pair analysis and its preliminary application[M]. Hangzhou: Zhejiang Science and Technology Publishing House,2003: 1-32.]   
+[38] 李博,苏飞,杨智,等.基于脆弱性视角的环渤海地区人海关系 地域系统时空特征及演化分析[J].生态学报,2018,38(4): 1436-1445.[Li Bo, Su Fei, Yang Zhi,et al.Vulnerability-based analysis of the spatial- temporal dynamic patterns of the humansea territorial system of the Bohai-rim region,China[J].Acta Ecologica Sinica,2018,38(4): 1436-1445.]   
+[39] 李博,杨智,苏飞.基于集对分析的大连市人海经济系统脆弱性 测度[J].地理研究,2015,34(5):967-976.[Li Bo,Yang Zhi, Su Fei.Measurement of vulnerability in human-sea economic system based on set pair analysis:A case study of Dalian City[J].Geographical Research,2015,34(5): 967-976.]   
+[40] 李博,杨智,苏飞,等.基于集对分析的中国海洋经济系统脆弱 性研究[J].地理科学,2016,36(1):47-54.[Li Bo,Yang Zhi,Su Fei,et al.Vulnerability measurement of chinese marine economic system based on set pair analysis[J]. Scientia Geographica Sinica, 2016,36(1): 47-54.]   
+[41]孟宪萌,胡和平.基于熵权的集对分析模型在水质综合评价中 的应用[J].水利学报,2009,40(3):257-262.[Meng Xianmeng, Hu Heping.Application of set pair analysis model based on entropy weight to comprehensive evaluation of water quality[J]. Journal of Hydraulic Engineering,2009,40(3): 257-262.]   
+[42] 杨振,丁启燕,王念,等.中国人口健康脆弱性地区差异与影响 因素分析[J].地理科学,2018,38(1):135-142.[Yang Zhen, Ding Qiyan,Wang Nian,et al.Distribution characteristics of health vulnerability and its influence factors in China[J]. Scientia Geographica Sinica,2018,38(1): 135-142.]   
+[43]苏飞,张平宇.基于集对分析的大庆市经济系统脆弱性评价[J]. 地理学报,2010,65(4): 454-464.[Su Fei, Zhang Pingyu.Vulnerability assessment of petroleum city's economic system based on set pair analysis:A case study of Daqing City[J].Acta Geographica Sinica,2010,65(4): 454-464.]   
+[44] 黄越,程静,王鹏.中国北方农牧交错区生态脆弱性时空演变格 局与驱动因素—以盐池县为例[J].干旱区地理,2021,44(4): 1175-1185.[Huang Yue, Cheng Jing, Wang Peng. Spatiotemporal evolution pattern and driving factors of ecological vulnerabilityin agro-pastoral region in northern China:A case of Yanchi County in Ningxia[J]. Arid Land Geography,2021, 44(4): 1175-1185.]   
+[45]周国华,刘畅,唐承丽,等.湖南乡村生活质量的空间格局及其 影响因素[J].地理研究,2018,37(12):2475-2489.[Zhou Guohua,Liu Chang, Tang Chengli,et al. Spatial pattern and influencing factors of quality of life in rural areas of Hunan Province[J]. Geographical Research,2018,37(12): 2475-2489.]   
+[46] 孙才志,董璐,郑德凤.中国农村水贫困风险评价、障碍因子及 阻力类型分析[J].资源科学,2014,36(5):895-905.[Sun Caizhi, Dong Lu, Zheng Defeng.Rural water poverty risk evaluation, obstacle indicators and resistance paradigms in China[J]. Resources Science,2014,36(5): 895-905.]   
+[47] 杨永春,穆焱杰,张薇.黄河流域高质量发展的基本条件与核心 策略[J].资源科学,2020,42(3):409-423.[Yang Yongchun,Mu Yanjie, Zhang Wei. Basic conditions and core strategies of highquality development in the Yellow River Basin[J]. Resources Science,2020,42(3): 409-423.]
+
+# Spatio-temporal characteristics and influencing factors of social-ecological system resilience in the Loess Plateau
+
+YE Wenli, YANG Xinjun， WU Kongsen, WANG Yin (Colge of Urban and Environmental Science,Northwest University,Xi'an 71Ol27,Shaanxi,China)
+
+Abstract: The resilience of social-ecological systems provides a new perspective for sustainable development research.In order to solve the problem of highly unbalanced development in ecologically vulnerable areas and achieve the goal of sustainable development, the resilience of social-ecological systems was studied by establishing an evaluation index system.The set pair analysis method was then used to measure the resilience of each subsystem and the social-ecological system in the Loess Plateau of China from 2000 to 2018.Finally,exploratory spatial data analysis was used to analyze spatio-temporal evolutionary pattrns,and barrier degree models were used to identify the main influencing factors.As a result,we found the folowing: (1) social-ecological system resilience gradually increased from 0.522 to O.721,with the Guanzhong Plain region always a higher value than others.The social resilience increased from 0.548 to 0.629 and then decreased to 0.525.The regions with high social resilience are mainly in provincial capitals such as Lanzhou and Tongchuan City,and the enhancement is closely related to policy support for western regions.Economic resilience increased from O.40l to 0.850,and its distribution patern was consistent with urban agglomeration.Ecological resilience decreased from 0.725 to 0.607 and then increased to O.734. However, ecological resilience presented a gradual distribution from west to east, and its enhancement was closely related to policy and climate warming and humidification trends.This indicates thatthe evolutionary trend of each subsystem’sresilience was not coordinated,but the evolutionary trendof economic resilience was coordinated with the social-ecological system.Improving the resilience of economic systems significantly promotes the resilience of social-ecological systems. (2) There was a pronounced spatial agglomeration trend in the resilience of social-ecological systems. Except for the provincial capitals and energyrich regions such as Baotou City,the Guanzhong Plain region always showed a high-high cluster.In contrast, the resilience of other regions was relatively low.The areas with low resilience were mainly concentrated in western regions such as Yinchuan City. In contrast, the areas with high resilience were concentrated primarily on the Guanzhong Plain such as Baoji and Xi'an City.(3)Since 2Oo0,per capita GDP has been a major influential factor in allrespects.The barrers to ecological maintenance of social-ecological resilience in the Loess Plateau were higher than the socio-economic aspects.Except for a slight increase in ecological barriers in individual areas,a gradually decreasing trend can be observed in most areas,indicating that ecological policies are successful and that ecological building isone of the important strategies to improve the resilience of the social-ecological systems.
+
+Key words: social-ecological system； resilience；set pair analysis (SPA)；exploratory spatial data analysis (ES-DA)； the Loess Plateau

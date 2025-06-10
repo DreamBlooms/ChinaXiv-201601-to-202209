@@ -1,0 +1,249 @@
+# Bose-Einstein condensation in an atomic gas with attractive interactions
+
+Hualin Shi and Wei-Mou Zheng Institute of Theoretical Physics,Academia Sinica,BeijinglOoo8o,China (Received15 July1996)
+
+The behavior of a trapped atomic gas undergoing a Bose-Einstein condensation is strongly influenced by the attractive interaction between particles.The role played by such an interaction is analyzed by means of a variation method.The critical number of atoms for a metastable state to exist is determined.The aspect ratio of condensed bosons in an anisotropic trap,the loss rate of atoms,and the excitation spectrum are studied. The vortex state is discussed.[S1050-2947(97)04104-8]
+
+PACS number(s): 03.75.Fi,05.30.Jp,32.80.Pj, 03.65.Db
+
+Bose-Einstein condensation (BEC) is a fundamental phenomenon where a macroscopic number of quantum particles is in the ground state of the system at a finite temperature. The concept of BEC has been used to explain the phase transitions in superfluids and superconductors,and has been related to physical phenomena on all scales,including excitons in condensed matter,Kaons in dense nuclear matter,and elementary particles [1].Although known for almost seventy years，BEC was only recently observed directly in dilute atomic $^ { 8 7 } \mathrm { R b }$ $^ 7 \mathrm { L i }$ ,and $^ { 2 3 } \mathrm { { N a } }$ vapors [2-4]. These outstanding experimental achievements have renewed theoretical interest in studying Bose gases with a nonuniform density.
+
+Among these experiments,perhaps the BEC of $^ 7 \mathrm { L i }$ presents the greatest challenge to theoretical physics. The $s$ -wave scattering length $a = - ( 2 7 . 3 \pm 0 . 8 ) a _ { 0 }$ ，where $a _ { 0 }$ is the Bohr radius,of such atoms in the corresponding spin state is negative [5], indicating an attractive atom-atom interaction.It has been claimed that the BEC of attractive bosons in free space is impossible [6] because the attraction makes the system tend to an ever denser phase.However, for afinite number of atomsinalimitedvolume andashort time the situation may be different.For bosons trapped in an external potential,the potential has an effect that resists the tendency to collapse.So,there may exist a metastable BEC state under certain conditions.For a harmonic oscillator trap, recent numerical results [7-9] for $T = 0$ show that a stable condensation can occur for a number of atoms below the critical value,which is about 14OO under the condition of present experiments.
+
+Here,we shall study the BEC of a boson gas with an attractive interaction at $T = 0$ using a variation method. This method was first introduced in Ref.[1O] to study the BEC ground state in the harmonic trap of a boson system. We shall concentrate on the BEC experiment of $^ 7 \mathrm { L i }$ ，and study the stability,aspect ratio, loss rate,and excitation spectrum of the condensed state.We also investigate the case when vortex lines are present.
+
+When all atoms are in the same quantum state at $T = 0$ ,let $\psi ( \mathbf { r } )$ bethegroundstatewavefunction， where $\begin{array} { r } { \int d ^ { 3 } r | \psi ( \mathbf { r } ) | ^ { 2 } = N } \end{array}$ .In the mean-field approximation， the ground-state energy of the system is given by the GinzburgPitaevskii-Gross energy functional [11]
+
+$$
+\begin{array} { l } { { \displaystyle E ( \psi ) = \int d ^ { 3 } r \biggl [ \frac { \hbar ^ { 2 } } { 2 m } \bigl | \nabla \psi ( { \bf r } ) \bigr | ^ { 2 } } } \\ { { \displaystyle ~ + \frac { m } { 2 } [ ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } r _ { \perp } ^ { 2 } + ( \omega _ { z } ^ { 0 } ) ^ { 2 } z ^ { 2 } ] \bigr | \psi ( { \bf r } ) \bigr | ^ { 2 } } } \\ { { \displaystyle ~ + \frac { 2 \pi \hbar ^ { 2 } a } { m } \bigl | \psi ( { \bf r } ) \bigr | ^ { 4 } \biggr ] , } } \end{array}
+$$
+
+where ${ \omega } _ { \perp } ^ { 0 }$ and ${ \omega } _ { z } ^ { 0 }$ are the two angular frequencies associated with the external potential of an anisotropic harmonic trap, $a$ is the $s$ -wave scattering length,which is negative when the atom-atom interaction is attractive,and $r _ { \perp } ^ { 2 } = x ^ { 2 } + y ^ { 2 }$ .We shall consider only the case of $a < 0$ ：
+
+The Ginzburg-Pitaevskii-Gross theory is based on the pseudopotential form of the atom-atom interaction,and may be assumed accurate when the system is dilute.Denote by $\rho$ the boson density. The theory is valid only when $| a | ^ { 3 } \rho \ll 1$ . This condition is well satisfied for the samples of alkali atoms in experiments to date [2-4]. The ground-state wave function is determined by minimizing the energy functional. The variation of the energy functional with respect to the Wave function gives a nonlinear Schrodinger equation for condensed neutral atoms in a harmonic trap.The timedependent [13] and time-independent nonlinear Schrodinger equations [12,7] have already been numerically solved.
+
+The problem now will be solved by the variation with respect to a properly chosen trial wave function with adjustable parameters.We first consider the case in the absence of vortexlines.Since theatominteractionisrather weak,in the BEC state we assume the trial wave function for $\psi$ in Eq. (1) to be [10]
+
+$$
+\psi _ { t } ( \mathbf { r } ) { = } N ^ { 1 / 2 } \omega _ { \bot } ^ { 1 / 2 } \omega _ { z } ^ { 1 / 4 } \bigg ( \frac { m } { \pi \hbar } \bigg ) ^ { 3 / 4 } e ^ { { - } m ( \omega _ { \bot } r _ { \bot } ^ { 2 } + \omega _ { z } z ^ { 2 } ) / { 2 \hbar } } ,
+$$
+
+where $\omega _ { \perp }$ and $\omega _ { z }$ are the effective frequencies and are taken as variational parameters. Substituting expression (2） into Eq. (1),we obtained the ground-state energy
+
+$$
+\begin{array} { c } { { \displaystyle E ( \omega _ { \perp } , \omega _ { z } ) = N \hbar \left( \frac { \omega _ { \perp } } { 2 } + \frac { ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } } { 2 \omega _ { \perp } } + \frac { \omega _ { z } } { 4 } + \frac { ( \omega _ { z } ^ { 0 } ) ^ { 2 } } { 4 \omega _ { z } } \right. } } \\ { { \displaystyle \left. + \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { \perp } \omega _ { z } ^ { 1 / 2 } \right) . } } \end{array}
+$$
+
+A physical state corresponds to a stable or metastable point of the energy functional. The BEC of a system with an attractive interaction happens when energy(3) exhibits a minimal value.When wave functions are restricted to the form of the trial function (2),we may write the conditions of a minimal energy in terms of derivatives of the energy with respect to the adjustable variation parameters of the trial function. They are
+
+$$
+\frac { \partial E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } } = N \hbar \Bigg ( \frac { 1 } { 2 } - \frac { ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } } { 2 \omega _ { \perp } ^ { 2 } } + \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { z } ^ { 1 / 2 } \Bigg ) = 0 ,
+$$
+
+$$
+\frac { \partial E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { z } } = N \hbar \left( \frac { 1 } { 4 } - \frac { ( \omega _ { z } ^ { 0 } ) ^ { 2 } } { 4 \omega _ { z } ^ { 2 } } + \frac { 1 } { 2 } \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { \perp } \omega _ { z } ^ { - 1 / 2 } \right) = 0 ,
+$$
+
+$$
+\frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } ^ { 2 } } \frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { z } ^ { 2 } } - \left( \frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } \partial \omega _ { z } } \right) ^ { 2 } > 0 .
+$$
+
+By denoting $\Delta _ { \perp } \equiv \omega _ { \perp } ^ { 0 } / \omega _ { \perp }$ ， $\Delta _ { z } \equiv \omega _ { z } ^ { 0 } / \omega _ { z }$ ，and $\lambda \equiv \omega _ { z } ^ { 0 } / \omega _ { \perp } ^ { 0 }$ ,introducing the transversal characteristic length of the harmonic potential $a _ { \perp } = ( \hbar / m \omega _ { \perp } ^ { 0 } ) ^ { 1 / 2 }$ ,and using expression (3), we rewrite the above conditions as
+
+$$
+1 - \Delta _ { \perp } ^ { 2 } + \frac { 2 N a } { \sqrt { 2 \pi } a _ { \perp } } \frac { 1 } { \Delta _ { z } ^ { 1 / 2 } } \lambda ^ { 1 / 2 } = 0 ,
+$$
+
+$$
+1 - \Delta _ { z } ^ { 2 } + \frac { 2 N a } { \sqrt { 2 \pi } a _ { \perp } } \frac { 1 } { \Delta _ { \perp } } \Delta _ { z } ^ { 1 / 2 } ( 1 / \lambda ) ^ { 1 / 2 } = 0 ,
+$$
+
+$$
+\Delta _ { \perp } ^ { 3 } \Bigg ( 2 \Delta _ { z } ^ { 3 } - \frac { N a } { \sqrt { 2 \pi } a _ { \perp } } \frac { 1 } { \Delta _ { \perp } } \Delta _ { z } ^ { 3 / 2 } ( 1 / \Lambda ) ^ { 1 / 2 } \Bigg ) - \Bigg ( \frac { N a } { \sqrt { 2 \pi } a _ { \perp } } \Bigg ) ^ { 2 } \Delta _ { z } > 0 .
+$$
+
+Since $\Delta _ { \perp }$ and $\Delta _ { z }$ are non-negative, from Eqs.(7) and (8) we have $0 { < } \Delta _ { \perp } { < } 1$ and $0 < \Delta _ { z } < 1$ ，which means that the transversal $\left( x { - } y \right)$ and axial $( z )$ root-mean-square radii must be smaller than their corresponding characteristic lengths,i.e., $\sqrt { \langle r _ { \perp } ^ { 2 } \rangle } { < } a _ { \perp }$ and $\sqrt { \langle z ^ { 2 } \rangle } < \bar { ( } \hbar / m \omega _ { z } ^ { \bar { 0 } } ) ^ { 1 / 2 } { \equiv } a _ { z }$
+
+While Eqs.(7） and (8） are the conditions for stationary points,inequality(9)is that for stability.Setting the left-hand side of Eq. (9) to zero,i.e.,replacing the inequality by an equation, we can find the critical conditions for BEC.Taking into consideration the experimental parameters $\omega _ { \perp } ^ { 0 } { = } 1 6 3 ~ \mathrm { H z }$ and $\omega _ { z } ^ { 0 } { = } 1 1 7 ~ \mathrm { H z }$ of the harmonic trap in Ref.[3], we obtain $\lambda { \approx } 0 . 7 1 7 7 9$ and $N _ { \mathrm { c r i t } } { \approx } 0 . 2 8 0 8 \sqrt { 2 \pi } a _ { \perp } ^ { - } / | a | { \approx } 1 4 4 4$ The BEC happens only when the number $N$ of atoms is smaller than this critical value.
+
+In experiments the onset of BEC is signaled by a narrow peak centered at zero velocity on the top of a broad thermal velocity distribution [2-4].For the case of positive scattering length the peak exhibits a nonthermal,anisotropic velocity distribution.The parameter to characterize the asymmetry of the velocity distribution function is the so-called aspect ratio $R \equiv \sqrt { \langle p _ { z } ^ { 2 } \rangle / \langle p _ { x } ^ { 2 } \rangle }$ ，The momentum distribution of particles in the trap is given by $\begin{array} { r } { f ( \mathbf { p } ) = \vert \int d ^ { 3 } r \mathrm { e x p } ( - i \mathbf { p } \cdot \mathbf { r } / \hbar ) \bar { \psi } ( \mathbf { r } ) \vert ^ { 2 } } \end{array}$ . Our Gaussian trial wave function (2) then leads to the Gaussian momentum distribution $f ( \mathbf { p } ) { \sim } \exp [ - ( p _ { \perp } ^ { 2 } / \omega _ { \perp } + p _ { z } ^ { 2 } / \omega _ { z } ) ] ,$ with $\langle p _ { x } ^ { 2 } \rangle { = } \langle p _ { \perp } ^ { 2 } \rangle { = } m \hbar \omega _ { \perp } / 2$ and $\langle p _ { z } ^ { 2 } \rangle { = } m \hbar \omega _ { z } / 2$ . Finally，we find the aspect ratio $R { = } \sqrt { \omega _ { z } / \omega _ { \perp } } { = } \sqrt { \lambda \Delta _ { \perp } / \Delta _ { z } }$ The root-meansquare radii $\sqrt { \langle x ^ { 2 } \rangle } / a _ { \perp }$ ， $\sqrt { \langle z ^ { 2 } \rangle } / a _ { \perp }$ and aspect radio $R$ as functions of the number of atoms are shown in Fig.1.We see that when the number of atoms increases,the attractive interaction between atoms becomes important, the root-meansquare radii decrease,and the aspect radio approaches 1.
+
+![](images/8d27ab51262bc7f2ce274f3323b847862c984754d5c289a7715f6e06e5a6bcc9.jpg)  
+FIG.1. Root-mean-square radii along the $x$ axis (dashed line), along the $z$ axis (dotted line),and aspect ratio $R$ (solid line） for different numbers of atoms.The lengths are in units of $a _ { \perp }$ ：
+
+It has been pointed out that the transition to an unstable state,where the kinetic energy of $^ 7 \mathrm { L i }$ atoms in a harmonic potential can no longer stabilize the wave function and prevent the atoms from collapsing,may occur due to a quantum tunneling [14].This tunneling is analogous to the ordinary quantum tunneling of a particle in an unstable potential,but ismuch slower[15].Neglecting the tunneling and considering only the loss rates due to the two-body dipolar collision and three-body recombination collision,we have the total loss rate [16,17]
+
+$$
+\gamma ( N ) { = } K \int d ^ { 3 } r | \psi ( { \bf r } ) | ^ { 4 } { + } { L } \int d ^ { 3 } r | \psi ( { \bf r } ) | ^ { 6 } ,
+$$
+
+where $K$ is the two-body dipolar loss rate coefficient,and $L$ the three-body recombination loss rate coefficient. Substituting the wave function (2) into Eq. (1O),we find
+
+$$
+\begin{array} { c } { { \displaystyle \gamma ( N ) = \frac { K N ^ { 2 } \omega _ { \perp } \omega _ { z } ^ { 1 / 2 } } { 2 \sqrt 2 } \bigg ( \frac { m } { \pi \hbar } \bigg ) ^ { 3 / 2 } + \frac { L N ^ { 3 } \omega _ { \perp } ^ { 2 } \omega _ { z } } { 3 \sqrt 3 } \bigg ( \frac { m } { \pi \hbar } \bigg ) ^ { 3 } } } \\ { { \displaystyle = \frac { K N ^ { 2 } } { ( 2 \pi ) ^ { 3 / 2 } a _ { \perp } ^ { 3 } } \frac { \lambda ^ { 1 / 2 } } { \Delta _ { \perp } \Delta _ { z } ^ { 1 / 2 } } + \frac { L N ^ { 3 } } { 3 \sqrt 3 \pi ^ { 3 } a _ { \perp } ^ { 6 } } \frac { \lambda } { \Delta _ { \perp } ^ { 2 } \Delta _ { z } } . } } \end{array}
+$$
+
+Here we have neglected the interaction of the condensed atoms with the background thermal gas. This $\gamma$ gives a lower bound to the loss rate.The loss rate for different numbers of atoms is shown in Fig.2.The parameters used for the figure are $K { = } 1 . 2 { \times } 1 0 ^ { - 1 4 } \ \mathrm { c m } ^ { 3 } \mathrm { s } ^ { - 1 }$ and $L { = } 2 . 6 { \times } 1 0 ^ { - 2 8 } \ \mathrm { c m ^ { 6 } } \mathrm { s ^ { - 1 } }$ as in Ref.[9]. We see that the loss rate increases very rapidly with an increasing number of atoms, especially near $N _ { \mathrm { c r i t } }$
+
+![](images/c4926b5f8699efc0da76a5896307606c9eab1baaa63f09b18e20c8a59e7562aa.jpg)  
+FIG.2.Loss rate of condensed atoms as a function of the number of atoms.
+
+In order to obtain some analytic results,we consider the isotropicharmonicoscillatorpotentialbysetting $\omega _ { \perp } ^ { 0 } { = } \stackrel { \mathrm { { \scriptsize ~ \hat { \omega } } } } { \mathrm { \scriptsize \omega } } _ { z } ^ { 0 } { \equiv } \omega _ { 0 }$ .Equation (3）thenreduces to
+
+$$
+E ( \omega ) = N \hbar \left( \frac { 3 } { 4 } \omega + \frac { 3 } { 4 } \frac { \omega _ { 0 } ^ { 2 } } { \omega } + \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega ^ { 3 / 2 } \right) .
+$$
+
+Correspondingly, the conditions for the energy function to be minimal are
+
+$$
+\begin{array} { c } { \displaystyle \frac { d E ( \omega ) } { d \omega } = N \hbar \Bigg ( \frac { 3 } { 4 } - \frac { 3 } { 4 } \frac { \omega _ { 0 } ^ { 2 } } { \omega ^ { 2 } } + \frac { 3 } { 2 } \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega ^ { 1 / 2 } \Bigg ) = 0 , } \\ { \displaystyle \frac { d ^ { 2 } E ( \omega ) } { d \omega ^ { 2 } } = N \hbar \Bigg ( \frac { 3 } { 2 } \frac { \omega _ { 0 } ^ { 2 } } { \omega ^ { 3 } } + \frac { 3 } { 4 } \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega ^ { - 1 / 2 } \Bigg ) > 0 , } \end{array}
+$$
+
+which determine the critical number of trapped atoms to be
+
+$$
+N _ { \mathrm { c r i t } } { = } \frac { \sqrt { 2 \pi } r _ { 0 } } { ( 2 ^ { - 4 / 5 } { + } 2 ^ { 6 / 5 } ) ^ { 5 / 4 } | a | } ,
+$$
+
+where $r _ { 0 } \equiv \sqrt { \hbar / m \omega _ { 0 } }$ .In order to compare with the case of an anisotropic potetial,eake $\omega _ { 0 } = ( \bar { 2 \omega _ { \perp } } ^ { 0 } + \omega _ { z } ^ { 0 } ) / 3$ For the experimental parameters of Ref.[3], $N _ { \mathrm { c r i t } } { \approx } 1 4 4 6$
+
+From Eq.(13),we have
+
+$$
+\Bigg ( \frac { 3 } { 2 } \frac { \omega _ { 0 } ^ { 2 } } { \omega ^ { 3 } } + \frac { 3 } { 4 } \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega ^ { - 1 / 2 } \Bigg ) \frac { d \omega } { d N } + \frac { 3 } { 2 } \frac { a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega ^ { 1 / 2 } { = } 0 .
+$$
+
+Taking inequality(14) into account,we see that if the interaction is attractive,i.e., $\scriptstyle a < 0$ ，then $d \omega / d N { > } 0$ .That is,the root-mean-square radius decreases with an increasing number of atoms.
+
+Based on the ground state found above we now discuss the elementary excitation spectrum.According to the Bogoliubov approximation [18], the effective energy functional of an excited state is
+
+$$
+\begin{array} { l } { { \displaystyle { H _ { \mathrm { e f f } } = \int } } \ d { \bf r } \bigg [ u ^ { * } ( { \bf r } ) \bigg ( - \frac { { \hbar } ^ { 2 } } { 2 m } \nabla ^ { 2 } + V ( { \bf r } ) \bigg ) u ( { \bf r } ) }  \\ { ~ + v ^ { * } ( { \bf r } ) \bigg ( - \frac { { \hbar } ^ { 2 } } { 2 m } \nabla ^ { 2 } + V ( { \bf r } ) \bigg ) v ( { \bf r } ) \bigg ] }  \\ { { \displaystyle ~ + \frac { 2 \pi a \hbar ^ { 2 } } { m } \int \ d { \bf r } \{ 4 | \psi ( { \bf r } ) | ^ { 2 } [ u ^ { * } ( { \bf r } ) u ( { \bf r } ) + v ^ { * } ( { \bf r } ) v ( { \bf r } ) ] } } \\ { ~ + 2 \psi ^ { 2 } ( { \bf r } ) u ^ { * } ( { \bf r } ) v ^ { * } ( { \bf r } ) + 2 \psi ^ { * 2 } ( { \bf r } ) u ( { \bf r } ) v ( { \bf r } ) \} } , ~ ( { \bf r } ) ^ { \top }  \end{array}
+$$
+
+where $u ( \mathbf { r } )$ and $v ( \mathbf { r } )$ describe the components of the elementary excitation wave function.The commutation relation requires
+
+$$
+\int { d \mathbf { r } } [ u ^ { * } ( \mathbf { r } ) u ( \mathbf { r } ) - v ^ { * } ( \mathbf { r } ) v ( \mathbf { r } ) ] { = } 1 .
+$$
+
+For simplicity，we study only the case of the spheric harmonic trap.We choose the trial wave functions of the excitation components in the form of the spheric harmonic oscillatorwave function $\psi _ { n _ { r } , l , m }$ with quantum numbers $( n _ { r } , l , m )$ ，i.e.,
+
+$$
+\left( \begin{array} { l } { u ( \mathbf { r } ) } \\ { v ^ { * } ( \mathbf { r } ) } \end{array} \right) = \left( \begin{array} { l } { u } \\ { v ^ { * } } \end{array} \right) \psi _ { n _ { r } , l , m } ( \alpha \mathbf { r } ) ,
+$$
+
+where $\alpha$ is an adjustable scaling factor of variation. For $( n _ { r } , l , m ) = ( 0 , 1 , 0 )$ ，we have
+
+$$
+\psi _ { 0 1 0 } ( \mathbf { r } ) = \alpha ^ { 3 / 2 } \Biggl [ \frac { 8 } { 3 \sqrt { \pi } } \Biggr ] ^ { 1 / 2 } \alpha r e ^ { - \alpha ^ { 2 } r ^ { 2 } / 2 } Y _ { 1 , 0 } ( \theta , \phi ) .
+$$
+
+The energy functional （17） reduces to
+
+$$
+\begin{array} { r l } & { \displaystyle { E [ v , \Delta _ { 0 1 0 } ] = ( 1 + 2 v ^ { 2 } ) \left[ \frac { 5 } { 4 } \frac { 1 } { \Delta _ { 0 1 0 } } + \frac { 5 } { 4 } \Delta _ { 0 1 0 } \right. } } \\ & { \displaystyle { \phantom { \left. \frac { 8 N a } { 4 } \sqrt { \frac { \pi } { \omega _ { 0 } \Delta _ { g } ^ { 3 / 2 } } } \sqrt { \frac { \pi } { ( 1 + \Delta _ { 0 1 0 } / \Delta _ { g } ) ^ { 5 } } } \right] \hbar \omega _ { 0 } } } } \\ & { \displaystyle { + v \sqrt { 1 + v ^ { 2 } } \frac { 8 N a } { \pi a _ { 0 } \Delta _ { g } ^ { 3 / 2 } } \sqrt { \frac { \pi } { ( 1 + \Delta _ { 0 1 0 } / \Delta _ { g } ) ^ { 5 } } } \hbar \omega _ { 0 } , } } \end{array}
+$$
+
+where $\Delta _ { 0 1 0 } \mathrm { = } \omega _ { 0 } / \omega _ { 0 1 0 }$ ， $\Delta _ { g } { = } \omega _ { 0 } / \omega$ ,and $\omega _ { 0 1 0 } = \alpha ^ { 2 } \hbar / m$ . Similarly, for $( n _ { r } , l , m ) = ( 1 , 0 , \bar { 0 } )$ ，we have
+
+$$
+\psi _ { 1 0 0 } ( \mathbf { r } ) = \alpha ^ { 3 / 2 } { \left[ \frac { 8 } { 3 { \sqrt { \pi } } } \right] } ^ { 1 / 2 } e ^ { - \alpha ^ { 2 } r ^ { 2 } / 2 } ( { \textstyle { \frac { 3 } { 2 } } } - \alpha ^ { 2 } r ^ { 2 } ) Y _ { 0 , 0 } ( \theta , \phi ) ,
+$$
+
+and
+
+$$
+\begin{array} { r l r } { { } } & { { \displaystyle E [ v , \Delta _ { 1 0 0 } ] = ( 1 + 2 v ^ { 2 } ) \Bigg [ \frac { 7 } { 4 } \frac { 1 } { \Delta _ { 1 0 0 } } + \frac { 7 } { 4 } \Delta _ { 1 0 0 } + \frac { 8 N a } { \pi a _ { 0 } \Delta _ { g } ^ { 3 / 2 } } I \Bigg ] \hbar \omega _ { 0 } } } & { { } } \\ { { } } & { { + v \sqrt { 1 + v ^ { 2 } } \frac { 8 N a } { \pi a _ { 0 } \Delta _ { g } ^ { 3 / 2 } } I \hbar \omega _ { 0 } , \quad \quad ( 2 3 ) \Bigg ] \hat { F } _ { \mathrm { e f f } } \hat { F } _ { \mathrm { e f f } } . } } \end{array}
+$$
+
+where
+
+![](images/4fc27c9ab1a01cd78b087dbdf30b40d2910d102326cb0f9b2398315f9f152e6f.jpg)  
+FIG.3.Excitation frequencies in units of $\omega _ { 0 }$ of the modes (0,1,0)and（1,O.O) for different numbers of atoms.
+
+$$
+\begin{array} { c } { { I { = } \displaystyle \frac { 3 } { 2 } \sqrt { \frac { \pi } { ( 1 + \Delta _ { 1 0 0 } / \Delta _ { g } ) ^ { 3 } } } { - 3 \sqrt { \frac { \pi } { ( 1 + \Delta _ { 1 0 0 } / \Delta _ { g } ) ^ { 5 } } } } } } \\ { { + \displaystyle \frac { 5 } { 2 } \sqrt { \frac { \pi } { ( 1 + \Delta _ { 1 0 0 } / \Delta _ { g } ) ^ { 7 } } } . } } \end{array}
+$$
+
+$\Delta _ { g }$ is given by Eq. (13).Minimizing the energies of Eqs. (21) and (23） with respect to the variation parameters $v$ ， $\Delta _ { 0 1 0 }$ ， and $\Delta _ { 1 0 0 }$ ，we can determine the excitation frequencies for the modes (O,1,O) and (1,0,O). The results are shown in Fig. 3,from which we see that while for the mode(O,1,O)the excitation frequency increases slightly with an increasing number of atoms,for the mode（1,O,O) the excitation frequency decreases. This is in agreement with Ref.[9].
+
+We now turn to a discussion of vortex states.By assuming that all the atoms rotate around the z axis with a quantized circulation, the wave function of the condensed vortex state can be written as [19]
+
+$$
+\psi ( \mathbf { r } ) { = } \varphi ( \mathbf { r } ) \mathrm { e x p } [ i \Phi ( \mathbf { r } ) ] ,
+$$
+
+where $\varphi ( \mathbf { r } ) = \sqrt { \rho ( \mathbf { r } ) }$ is the modulus,and the phase $\Phi ( \mathbf { r } )$ acts asa velocity potential, i.e., $\mathbf { V } { = } ( \hbar / m ) \nabla \Phi ( \mathbf { r } )$ .We further take $\Phi ( \mathbf { r } ) = \kappa \phi$ ，where $\phi$ is the angle around the $z$ axis,and $\kappa$ the integer quantum number characterizing the circulation. The angular momentum $L _ { z }$ along the $z$ axis is $N \kappa \hbar$ . For the Wave function of this form,the Ginzburg-Pitaevskii-Gross energy functional（1） becomes
+
+$$
+\begin{array} { l } { { \displaystyle E \big [ \psi ( { \bf r } ) \big ] = \int d ^ { 3 } r \Bigg \{ \frac { \hbar ^ { 2 } } { 2 m } \Bigg | \left( \widehat { e _ { \perp } } \frac { \partial } { \partial r _ { \perp } } + \widehat { e _ { z } } \frac { \partial } { \partial z } \right) \varphi ( { \bf r } ) \Bigg | ^ { 2 } } \ ~ } \\ { { \displaystyle ~ + \left[ \frac { \hbar ^ { 2 } } { 2 m } \kappa ^ { 2 } r _ { \perp } ^ { - 2 } + \frac { m } { 2 } [ ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } r _ { \perp } ^ { 2 } + ( \omega _ { z } ^ { 0 } ) ^ { 2 } z ^ { 2 } ] \right] \Big | \varphi ( { \bf r } ) \Big | ^ { 2 } } \ ~ } \\ { { \displaystyle ~ + \frac { 2 \pi \hbar ^ { 2 } a } { m } \vert \varphi ( { \bf r } ) \vert ^ { 4 } \Bigg \} . } \ ~ } \end{array}
+$$
+
+For simplicity,we shall consider only the vortex state with $\kappa = 1$ . We choose the trial wave function to be of the same form as the wave function for noninteracting atoms given in Ref.[7]
+
+![](images/d557e56c28d8131cb9a12521c763e8a03a7e3572097c532cc069abc768649861.jpg)  
+FIG.4. Critical angular velocity in units of ${ \omega } _ { \perp } ^ { 0 }$ for the vortex state of $\kappa = 1$ in $^ 7 \mathrm { L i }$ vapor as a function of the number $N$ of atoms.
+
+$$
+\begin{array} { l } { \displaystyle \varphi ( { \bf r } ) = N ^ { 1 / 2 } \sqrt { \pi } \omega _ { z } ^ { 1 / 4 } \omega _ { \perp } \Bigg ( \frac { m } { \pi \hbar } \Bigg ) ^ { 5 / 4 } r _ { \perp } } \\ { \displaystyle \qquad \times \exp [ - m ( \omega _ { \perp } r _ { \perp } ^ { 2 } + \omega _ { z } z ^ { 2 } ) / 2 \hbar ] . } \end{array}
+$$
+
+Fora higher $\kappa$ a different trial wave function $\varphi ( \mathbf { r } )$ should be taken. Substituting expression(27) into (26) we obtain
+
+$$
+\begin{array} { l } { \displaystyle { E ( \omega _ { \perp } , \omega _ { z } ) = N \hbar \Bigg [ \omega _ { \perp } + \frac { 1 } { 4 } \omega _ { z } + \frac { ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } } { \omega _ { \perp } } + \frac { 1 } { 4 } \frac { ( \omega _ { z } ^ { 0 } ) ^ { 2 } } { \omega _ { z } } } } \\ { \displaystyle { ~ + \frac { N a m ^ { 1 / 2 } } { 2 ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { z } ^ { 1 / 2 } \omega _ { \perp } \Bigg ] . } } \end{array}
+$$
+
+By similarity to the case in the absence of vortex lines,the conditions for the energy function to be minimal are
+
+$$
+\frac { \partial E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } } = N \hbar \left( 1 - \frac { ( \omega _ { \perp } ^ { 0 } ) ^ { 2 } } { \omega _ { \perp } ^ { 2 } } + \frac { N a m ^ { 1 / 2 } } { 2 ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { z } ^ { 1 / 2 } \right) = 0 ,
+$$
+
+$$
+\frac { \partial E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { z } } = N \hbar \left( \frac { 1 } { 4 } - \frac { ( \omega _ { z } ^ { 0 } ) ^ { 2 } } { 4 \omega _ { z } ^ { 2 } } + \frac { 1 } { 4 } \frac { N a m ^ { 1 / 2 } } { ( 2 \pi \hbar ) ^ { 1 / 2 } } \omega _ { \perp } \omega _ { z } ^ { - 1 / 2 } \right) = 0 ,
+$$
+
+$$
+\frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } ^ { 2 } } \frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { z } ^ { 2 } } - \left( \frac { \partial ^ { 2 } E ( \omega _ { \perp } , \omega _ { z } ) } { \partial \omega _ { \perp } \partial \omega _ { z } } \right) ^ { 2 } > 0 .
+$$
+
+From these conditions we find that for the given experimental parameters,when $N | a | / \sqrt { 2 \pi } a _ { \perp } { > } 0 . 8 4 5 \dot { 7 }$ the energy function cannot be minimal.That is,when the number of atoms $N { > } N _ { c }$ $_ \mathrm { v o r } { \approx } 4 3 4 9$ there is no stable or metastable vortex state with $\kappa = 1$ . This agrees with Ref.[7]. Compared with the condensed state without vortices，the critical number of trapped atoms in the vortex state increases.When all the atoms rotate around the $z$ axis,the Coriolis force is favorable for preventing attractive atoms from collapsing.
+
+Furthermore,the critical angular velocity $\Omega$ of rotation can be obtained from $\delta E - L _ { z } \Omega \leqslant 0$ [20],where $\delta E$ is the energy gap between theground and vortex state,i.e., $\delta E { = } E _ { \mathrm { v o r t e x } } ^ { ( \kappa ) } { - } E _ { \mathrm { g r o u n d } }$ . The critical ald is
+
+$$
+\Omega _ { \mathrm { c r i t } } { = } \frac { E _ { \mathrm { v o r t e x } } ^ { ( \kappa ) } { - } E _ { \mathrm { g r o u n d } } } { 2 \pi N \kappa \hbar } .
+$$
+
+For a given number of atoms, $\Delta _ { \perp }$ and $\Delta _ { z }$ can be calculated, and from Eqs.(3） and (28） the ground-state energy and vortex-state energy can be further computed. The critical angular velocity for the vortex state of $\kappa = 1$ in $^ 7 \mathrm { L i }$ vapor as a
+
+[1]A.Griffin,D.Snoke,and S. Stringari,Bose-Einstein Condensation(Cambridge,New York,1995）.   
+[2] M.H.Anderson, J.R.Ensher,M.R.Matthews,C.E.Wieman, and E.A. Cornell, Science 269,198 (1995).   
+[3] C.C.Bradley, C.A. Sackett, J.J. Tollett, and R.G.Hulet, Phys. Rev. Lett. 75,1687 (1995).   
+[4] K.B.Davis,M.-O. Mewes,M.R.Andrew,N.J.van Druten, D.S.Durfee,D.M. Kurn,and W.Ketterle,Phys.Rev.Lett.75, 3969 (1995).   
+[5]E.R.I. Abraham,W.I. McAlexander,C.A. Sackett,and R.G. Hulet,Phys.Rev.Lett.74,1315(1995).   
+[6] T.D.Lee,K.Huang,and C.N.Yang,Phys.Rev.106,1135 (1957).   
+[7]F.Dalfovo and S. Stringari,Phys. Rev.A 53,2477 (1996).   
+[8]E.V. Shuryak (unpublished).   
+[9]R.J.Dodd,M.Edwards,C.J.Williams,C.W.Clark,M.J.Holland,P.A.Ruprecht,and K.Burnett,Phys.Rev.A 54,661 (1996).   
+10]G.Baym and C.J.Pethick,Phys.Rev.Lett.76,6(1996).   
+11] V.L.Ginzburg and L.P.Pitaevskii, Zh.Eksp. Teor.Fiz.34,
+
+function of the number of atoms is shown in Fig.4,from which we see that the critical angular velocity,or vortex frequency,increases as the number of atoms grows.This is different from the case when the interaction between atoms is repulsive [7,21].
+
+The authors thank Hao Bai-lin for his encouragement and useful discussions.This work was supported in part by the National Natural Science Foundation of China.
+
+1240(1958)[Sov.Phys.JETP7,858 (1958)]; E.P.Gross,J. Math.Phys.4,195 (1963).   
+[12] M. Edwards and K.Burnett,Phys.Rev.A 51,1382 (1995).   
+[13]P.A.Ruprecht,M.J.Holland,and K.Burnett,Phys.Rev.A51, 4702 (1995).   
+[14] H.T.C. Stoof (unpublished).   
+[15]Y.Kagan,G.V.Shlyapnikov,and J.T.M.Walraven (unpublished).   
+[16] T.W.Hijmans,Yu. Kagan,G.V. Shlyapnikov，and J.T.M. Walraven,Phys.Rev.B 48,12 886 (1993).   
+[17]A.J.Moerdijk,H.M.J.M.Boesten，and B.J.Verhaar,Phys. Rev.A 53,916 (1996).   
+[18] A.L.Fetter,Phys.Rev.A 53,4245 (1996).   
+[19]E.M.Lifshitz,andL.P.Pitaevskii,Statistical Physics:Part 2 (Pergamon, Oxford,1981).   
+[20]P.NozieresandD.Pines,Theoryof QuantumLiquids,Vol2: Superfluid BoseLiquids (Addison-Wesley,Redwood,1990).   
+[21]M.Edwards,R.J.Dodd,C.W.Clark,P.A.Ruprecht,and K. Burnett,Phys.Rev.A 53,R1950 (1996).

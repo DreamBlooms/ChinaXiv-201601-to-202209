@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "非平衡条件下金属泡沫管内的流动与传热分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王会，郭烈锦\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（西安交通大学动力工程多相流国家重点实验室，陕西西安，710049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文采用热局部非平衡模型对完全填充金属泡沫的水平圆管内的流场、温度场进行了数值模拟，研究了金属泡沫的关键结构参数如孔径 $\\mathrm { d } _ { \\mathrm { p } }$ 和孔隙率ε等对管内流动与换热特性的影响。研究结果表明，填充金属泡沫后，管内流场变得比较均匀，金属泡沫圆管壁面处的速度梯度远高于光管，壁面边界层明显变薄；孔径对压降的影响大于孔隙率的影响，当孔径越大，孔隙率越高时，压降越小；反之，当孔径越小，孔隙率越低，换热越强；综合考虑金属泡沫参数对换热和压降的影响，在本文的研究工况下，最佳的孔径范围是 $1 \\mathrm { m m } { - 2 \\mathrm { m m } }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：金属泡沫；完全填充；热局部非平衡中图分类号：TK124文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Local Thermal Non-Equilibrium Analysis of Hydrodynamic and Heat Transfer Characteristics in a Tube FiIledwith Metal Foam ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG HuiGUO Lie-Jin (State KeyLaboratoryofMultiphase Flow inPowerEnginering,Xi'an Jiaotong University,Xi'an,China,710049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Alocal thermal non-equilibrium model has been considered for the case of a tube fully filled with metal foam.The influence of metal foam key parameterson hydrodynamic and heat transfer characteristics has been investigated,such as pore size and porosity.The results show that the velocityinthe metal foam tube becomes more uniform than that in an empty one,also a higher velocity gradient and thinner boundary layer are found.The pore size has a moreobvious influence on the pressure drop than porosity does. When the metal foam has a bigger pore size and a higher porosity,the pressre drop in the tube becomes lower. Otherwise,a smaller pore size and a lower porosity lead to a higher pressure drop,but an enhancement ofthe heat transfer. Considering the presure drop and heat transfer both, the results indicate that the most appropriate pore size is $1 \\mathrm { m m } { - 2 \\mathrm { m m } }$ ， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: metal foam; fully filled; local thermal non-equilibrium ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "开孔金属泡沫由于具有孔隙率高、密度小、比表面积大等优点，使其成为一种理想的强化换热材料，成为近几年强化换热的研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外已经有很多学者对金属泡沫强制对流问题进行了实验研究和数值模拟。Zhao 和 $\\mathrm { K i m } ^ { [ 1 ] }$ 等人在真空和常压环境下，对FeCrAIY金属泡沫填充的平板通道内空气的强制对流换热进行了实验和数值模拟分析，研究了孔隙率、孔密度和固体导热系数对换热的影响。Calmidi和Mahajan[2-3]对铝泡沫填充的平板通道内的强制对流换热进行了数值模拟和实验研究，其中数值模拟过程采用热局部非平衡模型并考虑了热弥散效应，获得了与实验结果比较吻合的模拟结果。Boomsma[4等以水为冷却介质，对压缩铝泡沫用于紧凑式换热器的换热性能进行了实验研究，指出在相同泵功下压缩铝泡沫换热器的热阻比最好的商业换热器的热阻低 2-3 倍。Lu 和 Zhao[5-6]等对金属泡沫应用于套管式换热器的情况进行了理论分析和解析建模，针对内管与环形空间进行了解析研究，分别得到了两种情况下的解析解，通过解析解得到的数据发现金属泡沫换热管能大大强化换热。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前针对金属泡沫强化换热的实验研究多集中于平板通道内的情况，而数值模拟的研究中能量方程多采用局部热平衡模型，即认为流体相的温度和固体相的温度相等。这种假设在固体相的导热系数较大的时候会产生比较大的误差。本文采用局部非热平衡模型对完全填充金属泡沫水平管内的对流换热进行数值模拟，研究金属泡沫关键结构和性能参数对换热管内流场和温度场的影响规律。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1物理模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所描述的物理模型如图1所示，半径为 $2 \\mathrm { m m }$ 的水平圆管内完全填充均匀且各向同性的金属泡沫。平均速度为 $u _ { \\mathrm { i n } }$ ，温度为 $T _ { \\mathrm { i n } }$ 的热流体流过该圆管及其内部的金属泡沫，冷却后从圆管的右端流出。圆管壁面具有恒定的温度 $T _ { \\mathrm { w } }$ 且 ${ T _ { \\mathrm { w } } { < } T _ { \\mathrm { i n } } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a26169c798b8734e5b4b7ca3e6e47f566de9d22ec062f6a5d43c8c68418d74.jpg",
+        "img_caption": [
+            "图1物理模型Fig.1 Physical model"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究中采用的假设如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）流体不可压缩；  \n（2）忽略自然对流和辐射换热的影响；  \n（3）忽略热弥散和粘性扩散的影响;  \n（4）各物性参数为常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上假设，应用Darcy-Brinkman-Forcheimer动量方程和局部非热平衡（Local Thermal NoneEquilibrium）模型，可以得出描述该模型流动和传热过程的无量纲控制方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "连续性方程：$\\frac { \\hat { \\sigma } } { \\hat { \\sigma } z } ( \\rho u ) + \\frac { 1 } { r } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } r } \\big ( r \\rho \\nu \\big ) = 0$ $z$ 方向动量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\partial } { \\partial z } \\bigg ( \\frac { \\rho } { \\varepsilon } u u \\bigg ) + \\displaystyle \\frac { 1 } { r } \\frac { \\partial } { \\partial r } \\bigg ( r \\frac { \\rho } { \\varepsilon } \\nu u \\bigg ) = - \\frac { \\partial P } { \\partial z } + \\frac { \\partial } { \\partial z } \\bigg ( \\frac { \\mu _ { f } } { \\varepsilon } \\frac { \\partial u } { \\partial z } \\bigg ) + } \\\\ { \\frac { 1 } { r } \\frac { \\partial } { \\partial r } \\bigg ( r \\frac { \\mu _ { f } } { \\varepsilon } \\frac { \\partial u } { \\partial r } \\bigg ) - \\frac { \\mu _ { f } u } { K } - \\frac { \\rho F \\varepsilon } { \\sqrt { K } } | u | u } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$r$ 方向动量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\displaystyle \\hat { \\partial } } { \\displaystyle \\hat { \\partial } z } \\bigg ( \\frac { \\rho } { \\varepsilon } u \\nu \\bigg ) + \\frac { 1 } { r } \\frac { \\hat { \\partial } } { \\partial r } \\bigg ( r \\frac { \\rho } { \\varepsilon } \\nu \\nu \\bigg ) = - \\frac { \\hat { \\partial } P } { \\partial r } + \\frac { \\hat { \\partial } } { \\partial z } \\bigg ( \\frac { \\mu _ { f } } { \\varepsilon } \\frac { \\hat { \\partial } \\nu } { \\hat { \\partial } z } \\bigg ) + } \\\\ { \\frac { 1 } { r } \\frac { \\hat { \\partial } } { \\partial r } \\bigg ( r \\frac { \\mu _ { f } } { \\varepsilon } \\frac { \\hat { \\partial } \\nu } { \\hat { \\partial } r } \\bigg ) - \\frac { \\mu _ { f } \\nu } { K } - \\frac { \\rho F \\varepsilon } { \\sqrt { K } } \\big | u \\big | \\nu - \\frac { \\mu _ { f } \\nu } { \\varepsilon r ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "流体相能量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\partial } { \\partial z } \\big ( \\rho _ { f } C _ { p } u T _ { f } \\big ) + \\frac { 1 } { r } \\frac { \\partial } { \\partial r } \\big ( \\rho _ { f } C _ { p } r \\nu T _ { f } \\big ) = \\frac { \\partial } { \\partial z } \\Bigg ( k _ { f e } \\frac { \\partial T _ { f } } { \\partial z } \\Bigg ) + } \\\\ { \\frac { 1 } { r } \\frac { \\partial } { \\partial r } \\Bigg ( r k _ { f e } \\frac { \\partial T _ { f } } { \\partial r } \\Bigg ) + h _ { s f } a _ { s f } ( T _ { s } - T _ { f } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "固体相能量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 = \\frac { \\hat { \\sigma } } { \\hat { \\sigma } z } \\Bigg ( k _ { s e } \\frac { \\hat { \\sigma } T _ { s } } { \\hat { \\sigma } z } \\Bigg ) + \\frac { 1 } { r } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } r } \\Bigg ( r k _ { s e } \\frac { \\hat { \\sigma } T _ { s } } { \\hat { \\sigma } r } \\Bigg ) - h _ { s f } a _ { s f } ( T _ { s } - T _ { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为使得计算结果具有更强的适应性，定义无量纲参数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( Z , R \\right) = \\frac { \\left( z , r \\right) } { R _ { 0 } } , \\left( U , V \\right) = \\frac { \\left( u , \\nu \\right) } { u _ { i n } } , \\theta = \\frac { T - T _ { w } } { T _ { i n } - T _ { w } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\frac { p } { \\rho { u _ { i n } } ^ { 2 } } , \\mathrm { R e } = \\frac { \\rho { u _ { i n } } { R _ { 0 } } } { \\mu _ { f } } , D a = \\frac { K } { { R _ { 0 } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $D a$ 为达西数，用来表征多孔介质区域的渗透能力。渗透率 $K$ 与多孔介质的结构有关，可根据由实验结果推倒出的经验公式求出，并没有固定的表达式。本研究中采用Calmidi[2等人的实验拟合公式对 $K$ 和 $F$ 进行求解。其表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = 0 . 0 0 0 7 3 \\big ( 1 - \\varepsilon \\big ) ^ { - 0 . 2 2 4 } \\Bigg ( \\frac { d _ { f } } { d _ { p } } \\Bigg ) ^ { - 1 . 1 1 } d _ { p } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = 0 . 0 0 2 1 2 \\left( 1 - \\varepsilon \\right) ^ { - 0 . 1 3 2 } { \\left( \\frac { d _ { f } } { d _ { p } } \\right) } ^ { - 1 . 6 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $d _ { \\mathfrak { p } }$ 为金属泡沫的平均直径， $d _ { \\mathrm { f } }$ 为泡沫金属内金属骨架的纤维丝径，它与 $d _ { \\mathfrak { p } }$ 的关系为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d _ { f } } { d _ { p } } = 1 . 1 8 \\sqrt { \\frac { ( 1 - \\varepsilon ) } { 3 \\pi } ( \\frac { 1 } { 1 - e ^ { - ( 1 - \\varepsilon ) / 0 . 0 4 } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3网格划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究所用网格如图2所示。在流体入口处和近壁面处由于流体的温度和速度梯度变化相对较大，计算中比较容易发散，为较好的捕捉流体的参数的变化情况，在以上的区域对网格进行加密处理。同时为节省计算时间，其他区域采用相对较疏的网格。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/537c6d2bf48bd033a67010a66ed8f9872cc5fe2022824f462f7f028c384a95b5.jpg",
+        "img_caption": [
+            "图2计算区域网格划分"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值计算中，采用有限容积法对所建立的模型方程进行离散求解，压力和速度的耦合采用SIMPLE算法，对流项采用二阶迎风格式。计算中速度和温度松弛因子设为0.7。计算收敛的判据为系统的剩余质量和能量方程的残差分别降到1e-8和1e-10以下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4计算结果及讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1速度分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，为不同孔径下完全填充金属泡沫的水平管内轴向速度的分布情况，及与光管速度分布的对比。由图3可知，填充金属泡沫后管内速度变得比较均匀，金属泡沫圆管壁面处的速度梯度变大，壁面边界层明显变薄。管内轴向速度随着金属泡沫孔径的增大而增大。这是由于在孔隙率一定时当金属泡沫的孔径增大时，单位长度上孔的个数减小，因此流体受到的阻力相应减小，此时管内轴向速度将会增大。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/55439db849f8fc3a61d243ced4abb1be2612e25748f148c53cdace87245fac44.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2 温度分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，为金属泡沫结构参数对填充管内温度场的影响。从图4（a）可以看出孔径大小对固体温度和流体温度都有显著影响。孔径减小时，流体温度和固体都降低，且流体和固体间的温差明显减小。由图4（b）可知，当孔隙率从0.95降低到0.85时，从壁面到管中心的固体和流体的温度都显著增加，但固体和流体间的温差变化不明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95ca7fe829e70a099a9d6ad9058c86cf6591e29decb66ac437d266cbdd3d4f52.jpg",
+        "img_caption": [
+            "Fig.2 Meshing method of computational domain ",
+            "图4泡沫参数对温度场的影响(a.孔径，b.孔隙率) Fig.4 Effects of foam structure parameters on temperature distribution (a. pore size, b. porosity) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/50327613ac24f1030a33923e4f4130913763ede1ada1937bff1a013fbd9ed5c0.jpg",
+        "img_caption": [
+            "图3不同孔径下金属泡沫填充管内的速度分布（ $\\scriptstyle \\mathbf { \\varepsilon } = 0 . 9$ ）Fig.3 velocitydistributioninmetal foamtubeunderdifferent pore size $( \\scriptstyle \\varepsilon = 0 . 9 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3压降 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，为金属泡沫结构参数对管内压降的影响。由图5(a)可知，当孔径由 $0 . 5 \\mathrm { m m }$ 增大到 $1 \\mathrm { m m }$ 时，压降急剧减小，而当孔径大于 $1 \\mathrm { m m }$ 以后，压降随孔径的增加继续减小但是减小的不明显。由图 5(b)可知，当金属泡沫的孔径较小时，随着孔隙率的增大，压降急剧降低。这是由于孔隙率增大时阻碍流体流动的固体的体积分数呈比例减小，从而使得流体流动的阻力减小。但当孔径大于 $1 \\mathrm { m m }$ 时，孔隙率的变化对压降的影响不明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/256cbf28a47650a1eda50949842ec0026b594ec66bef38cc156b67a2732c493d.jpg",
+        "img_caption": [
+            "图5 泡沫参数对压降的影响(a.孔径，b.孔隙率) Fig.5 Effects of foam structure parameters on pressure drop(a. pore size, b.porosity) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4换热特性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，为金属泡沫结构参数对换热系数的影响。由图6（a）可知，管内充分发展的Nu数随着孔径的增大逐渐减小。结合图5（a）不难发现在在本文的研究工况下，孔径的最佳取值范围为$1 \\mathrm { m m } { - 2 \\mathrm { m m } }$ 。这是由于当孔径小于1mm 时，压降急剧增大，但是 $N u$ 数却仍以相同的梯度增加。由图6（b）可知，Nu数随着孔隙率的增大而减小。这是由于孔隙率增大时，具有高导热系数的固体相体积分数减少，使得有效导热系数减小，从而导致换热减弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9bb62a01b7cf0da289b57fafdd2524c490fa65ffc890aedb6d69fa7bd154d3c.jpg",
+        "img_caption": [
+            "图6泡沫参数对换热系数的影响(a.孔径，b.孔隙率) Fig.5 Effects of foam structure parameters on heat transfer coefficient(a. pore size, b. porosity) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对完全填充金属泡沫的水平圆管内的流场、温度场进行了数值分析，讨论了金属泡沫的孔径、渗透率及流动参数对流动和换热的影响。主要结论如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）填充金属泡沫后管内充分发展的速度分布不再符合抛物线型分布；管内流场变得比较均匀，金属泡沫圆管壁面处的速度梯度远高于光管，壁面边界层明显变薄；（2）随着金属泡沫的孔径增大，管内轴向速度增大，而壁面边界层厚度也增大；（3）孔径减小时流体和固体间的温差明显减小而孔隙率减小时，对流体和固体间的温差影响不明显；（4）孔径越大，孔隙率越高时，压降越小。孔径对压降的影响大于孔隙率的影响;（5）孔径越小，孔隙率越低，换热越强，但是此时的压降也越大；（6）在本文的研究工况下，最佳的孔径范围是$1 { \\sim } 2 ~ \\mathrm { m m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]ZHAO Changying,Kim T,LU Tianjian,et al.Thermal Transport in High Porosity Cellular Metal Foams [J]. Journal ofThermophysicsHeat Transfer, 2004, 18(3):309-317.   \n[2] Calmidi VV. Transport Phenomena in High Porosity Fibrous Metal Foams [D].USA:University of Colorado, 1998.   \n[3] Calmidi VV,Mahajan RL.Forced Convection in High Porosity Metallic Foams [J].ASME Journal of Heat Transfer,2000,122(3):557-565.   \n[4]Boomsma K,Poulikakos D,Zwick F.Metal Foams as Compact High Performance Heat Exchangers[J].Mechanics of Materials，2003,35(12):1161-1176.   \n[5]LU Wei, ZHAO Changying, Tassou SA. Thermal Analysis onMetal-FoamFilledHeatExchangers.Part I:Metal-Foam Filled Pipes [J]. International Journal ofHeat Mass Transfer, 2006,49(15-16): 2751-2761.   \n[6]ZHAO Changying,LU Wei, Tassou SA. Thermal Analysis onMetal-FoamFilledHeat Exchangers.PartII:Tube Heat Exchangers [J]. International Journal of Heat Mass Transfer, 2006,49(15-16): 2762-2770. ",
+        "page_idx": 3
+    }
+]

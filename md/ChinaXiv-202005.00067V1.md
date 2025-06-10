@@ -1,0 +1,235 @@
+# 荞麦黄及其生物合成调控研究进展
+
+钟灵允1,²，赵钢²，赵江林 2\*
+
+（1.成都大学 医学院，成都 610106；2.成都大学 农业农村部杂粮加工重点实验室，成都610106）
+
+摘要：荞麦属植物资源丰富，且富含黄酮类成分。通过文献查阅，总结了荞麦黄酮历年研究情况以及热点研究领域。荞麦黄酮研究论文最早发文于1952年，在1952—1999近50年的时间内，荞麦黄酮的研究论文较少，年发文量少于10篇，荞麦黄酮的研究处于起步阶段。自 2000 年后，荞麦黄酮逐渐获得更多研究学者的关注，年度发文量逐年上升。近20年来，荞麦黄酮研究热点集中在植物学、食品科学技术、农学以及生物化学与分子生物学学科领域中，黄酮抗氧化活性相关的研究论文被引用次数较高，荞麦黄酮的生物活性与营养功能一直备受关注。目前，从荞麦中已经鉴定的黄酮类化合物达80种。槲皮素、山奈酚、木犀草素、鼠李素、异鼠李素、小麦黄素、柚皮素、杨梅素、芹菜素以及橙皮素是荞麦中常见的黄酮苷元结构，芍药色素、花翠素、矢车菊素为荞麦中多见的花青素类型。荞麦黄酮生物合成起源于苯丙烷代谢途径，PAL、CHS、C4H、4CL、CHI、LAR等黄酮合成途径中的多个关键酶以及MYB转录因子基因已被克隆鉴定。荞麦MYB转录因子在黄酮生物合成中发挥着重要的诱导调控作用，影响荞麦黄酮合成积累的因素主要有环境因素、植物生长调节剂、生物因素以及品种等，多个因素可相互交叉调控和影响荞麦黄酮的合成。通过回顾历年荞麦黄酮研究概况，总结黄酮化合物的种类，归纳黄酮生物合成途径调控机制及主要影响因素，为优质养麦种植生产和优化提升荞麦产品的营养保健功能奠定理论基础和提供可行方案，为荞麦黄酮的深入研究指明方向。
+
+关键词：荞麦，研究历史，黄酮化合物，生物合成，调控中图分类号：S517；Q94 文献标识码：A
+
+# Research progress on buckwheat flavonoids and their biosynthesis and regulation
+
+ZHONG Lingyun1,², ZHAO Gang ², ZHAO Jianglin 2\* (1.Collgeofedicine,ChengduUniversityChengdu606,China;KeyLboratoryofCoarseCerealProceing,nistrof Agriculture and Rural Affairs,Chengdu University,Chengdu 61o1O6,China)
+
+Abstract: Fagopyrum sp.was rich in resources and contained large number of flavonoid compounds. Research historyand the research hotspots of buckwheat flavonoids were summarized byliterature retrieval in this study. As it was revealed,the research paper about buckwheat flavonoids was firstly published in 1952.From 1952to 1999, the numbers of publishing papers were few with less than 1O papers per year,and the research on buckwheat flavonoids was in its infancy.Since the year of 2Ooo, buckwheat flavonoids have graduall gained more attentions from researchers,and the numbers of publishing papers were showed to be increasing annually. In the past two decades,researches conducting buckwheat flavonoids studies were mainly focused on the fields of plant science, food science and technology，agriculture，and biochemistry and molecular biology.Articles refering to the antioxidant activity of buckwheat flavonoids had got high citations,and the biological activities and nutritional functions of buckwheat flavonoids had atracted much attention.By now,about 8O flavonoid compounds had been identified from Fagopyrum sp.，of which them,quercetin,kaempferol,luteolin,rhamnetin,isorhamnetin,tricin, naringenin,myricetin,apigenin and hesperetin were the common feature flavonoid aglycones from buckwheat. Peonidin,delphinidin and cyanidin were the anthocyanins compounds which were mostly isolated from Fagopyrum sp..Biosynthesis of buckwheat flavonoids originated from the phenylpropane metabolism pathway.The key enzymes genes involved in the pathway,such as PAL,CHS,C4H,4CL,CHI,LAR etc.,and the transcription factor MYB genes were cloned and identified. MYB transcription factors played an important role in the induction and regulation of flavonoid biosynthesis.Major influences factors for the flavonoids biosynthesis were including the environment factors,plant growth regulators,biological factors and varieties,and these factors could have cross regulations effectson the buckwheat flavonoids biosynthesis.In this study，research overview of buckwheat flavonoids,flavonoid compounds,flavonoids biosynthesis pathway,the mechanism of regulation,andthe influence factors were summarized,which could laya theoretical foundation and a feasible scheme for high quality of buckwheat production during the cultivation processand promotion of nutritional values of buckwheat products, and point out the research direction of buckwheat flavonoids in the future.
+
+Keywords: Fagopyrum, research history, flavonoid compounds, biosynthesis, regulation
+
+荞麦为蓼科（Polygonaceae）荞麦属（Fagopyrum）双子叶植物，至今鉴定了的荞麦属植物已超过 20 余种（唐宇等,2019）。甜荞麦（普通荞麦）（Fagopyrum esculentum）和苦荞麦（鞑靼荞麦）（F.tataricum）为人们所熟知的两个主要栽培品种，属于小宗杂粮作物，在世界各地均有分布和栽培，其中，中国、俄罗斯、乌克兰、波兰、美国和巴西等国家为主要栽培地区（余霜等,2012；向达兵等,2013）。此外，金荞麦（ $F .$ cymosum）亦为荞麦属植物，通常作为药物使用，以根茎入药。荞麦作为一种药食同源植物，除了具有丰富的蛋白质、脂肪、膳食纤维及维生素等多种营养成分外，还含有一般谷类作物中所不具备的黄酮类活性成分，这些活性成分作为其行使生物活性与功效的物质基础，发挥着多种药理活性。研究发现，荞麦黄酮具有抗菌、抗氧化、降血糖、抗肿瘤、抗炎镇痛以及保肝等功效（Guo et al.,2011; Inglettet al.,2011; Zhang et al.,2012;Hu etal.,2015；赵梓瀛等,2018）。荞麦叶总黄酮能够抑制二甲苯致小鼠耳水肿产生的急性炎症，通过降低毛细血管通透性，减轻肉芽肿的形成，具有良好的抗炎镇痛作用（王元福等,2004）。另外，荞麦壳黄酮提取物具有抑制 $\boldsymbol { a }$ -葡萄糖苷酶活性和修复胰岛细胞功能的双重机制，从而改善2型糖尿病大鼠的血糖指标（李鹏程等,2016）。随着荞麦黄酮的药用功效逐渐被人们所熟知，由此而催生出了一系列以荞麦为原料具有一定营养保健价值的系列产品，如荞麦蛋白粉、荞麦茶、荞麦酒、荞麦醋、荞麦面包、荞麦蛋糕、荞麦面条、荞麦芽菜等。荞麦的营养与经济价值不断提升，荞麦及其各类产品备受青睐。与此同时，许多专家学者对于荞麦的研究热情也逐渐升高，关于荞麦黄酮的研究成果不断涌现。研究成果也渐渐从荞麦中发现以芦丁为代表的黄酮类化合物，对其进行单纯的分离鉴定，逐步拓展到荞麦黄酮抗炎、抗肿瘤等药理学领域的研究。近年来，不少专家学者的研究兴趣又转向发掘荞麦黄酮的生物合成代谢中关键基因以及转录因子的研究中。本论文密切围绕“荞麦黄酮”这一主题，回顾荞麦黄酮的研究历史，归纳了已鉴定的荞麦黄酮类化合物及其生物合成与调控的研究进展。一方面，有助于发掘具有药用开发价值的新黄酮类物质，有助于优化和提升荞麦产品的营养和保健价值；另一方面，通过总结荞麦黄酮生物合成途径及其调控方面研究所取得的成果与不足，可为进一步研究荞麦黄酮的合成调控机制指明方向，有助于荞麦育种与优质栽培的快速发展，对于提高我国荞麦主产区当地种植户的收入水平，实现脱贫致富有着重要的作用。
+
+# 1荞麦黄酮的研究历史及近二十年研究概况
+
+# 1.1荞麦黄酮的研究历史
+
+通过搜索 Webof Science 数据库，了解荞麦黄酮的研究历史及相关情况。以“主题 $\dot { \bf \Phi } = { \bf \Phi }$ Fagopyrum orbuckwheat”作为检索式，以“主题 $\mathbf { \sigma } = \mathbf { \sigma }$ flavonoids”进行二次检索，查找时间范围在1900-01-01 年至2020-01-28年的论文，剔除冗余文献后，共检索到与“荞麦黄酮”相关论文累计973篇，研究论文数量年度变化及趋势见图1。结果显示，荞麦黄酮相关研究最早发文于1952年，该研究论文记载了富含芦丁的荞麦叶餐食的制作方法（Naghski et al.,1952），发表在 American Journal of Pharmacy and the SciencesSupporting Public Health刊物上，距今已有68年。在紧跟其后的1953年，就有研究论文报道了芦丁对患有坏血病的豚鼠存活时间的影响（Ei-ridi&Aboul-wafa,1953）。可见，荞麦黄酮在药理学领域的研究起步较早。
+
+在1952年—1999年近50年的时间内，荞麦黄酮的研究论文偏少，年发文量少于10篇，荞麦黄酮的研究处于起步阶段。在20世纪80年代前（1980年以前），对于“荞麦黄酮”的研究主要集中在黄酮含量以及测定方法、黄酮在荞麦中的分布、荞麦黄酮类化合物（如槲皮素、芹菜素和木犀草素）的发现及鉴定。荞麦芦丁和槲皮素的生物合成、黄酮合成关键酶以及生物合成的影响因素在此阶段也开始有少量报道，黄酮的药理活性研究论文则相对较少。在80年代以后，随着色谱技术的进步以及分离手段的发展，对荞麦黄酮化合物分离鉴定的研究论文数量逐渐增多，组织培养技术在荞麦黄酮的合成和代谢调控研究中的应用也不断呈现。在食品加工方面领域中也逐渐开始出现“荞麦黄酮”的相关内容。荞麦黄酮抗氧化活性以及相关药理活性的研究也呈现上升态势。总体而言，在1980年—1999 年时间段中，荞麦黄酮的研究方向逐步呈现多元化。
+
+![](images/6d347171dd6ac7d067c73c7dc4a9c259c7c0a8fd6e2c62d7f9f9331316d61550.jpg)  
+图1荞麦黄酮研究论文数量年度变化趋势  
+Fig.1 Annual trends of publishing papers on buckwheat flavonoids
+
+# 1.2近二十年荞麦黄酮的研究概况
+
+自 2000年至今，“荞麦黄酮”引起了更多专家学者的兴趣，相关论文的年度发文量呈现快速上升趋势。截至 2020年1月底，荞麦黄酮论文的年发文量在2019年上升至85篇，达到一个峰值。利用Webof Science平台统计功能，得到2000年—2020年时间段荞麦黄酮研究领域分布(部分文献可同时隶属于不同学科领域）（图2）。结果显示，近二十年，荞麦黄酮的前4个热点学科一直保持在植物学、食品科学技术、农学以及生物化学与分子生物学领域中。其中，荞麦黄酮抗氧化活性相关的研究论文被引用次数较高，荞麦黄酮（特别是芦丁和槲皮素）的生物活性与营养功能一直备受关注。进一步比较 2000 年—2009 年与 2010年—2020年两个时间段内的研究领域变化趋势发现，近十年，在营养学、遗传学与植物学领域中的荞麦黄酮研究论文增长趋势明显，荞麦的营养价值以及遗传育种等方面的研究不断深入。整体而言，近二十年来人们对荞麦黄酮生物合成途径的研究呈现纵深发展的趋势，生物合成途径及其影响因素更加清晰。同时，涉及荞麦黄酮抗逆生理的研究也逐渐增多。在与“荞麦黄酮”相关的论文中，荞麦品种上出现了变化，研究的对象从甜荞麦或苦荞麦更多地拓展到金荞麦以及荞麦多倍体等不同种或品种。此外，在食品领域中更多地研究论文涉及荞麦原料或产品中黄酮的检测及其在加工过程中的变化，以及富含黄酮的荞麦产品的研发等多个方面。植物学领域中，抗逆生理方面的研究不断涌现，代谢组学、转录组学以及基因组学等研究手段的运用，促进了对荞麦黄酮研究的快速发展。而荞麦黄酮降血糖等药理作用相关研究仍然是研究的主要热点之一。在此阶段中，在各个学科领域中对荞麦黄酮的研究都呈现出增长态势，新的研究成果不断涌现，全方位多角度地加深了人们对荞麦中黄酮类活性成分的认识。
+
+![](images/fc7a73b35b16e8617c5f99f4cc9c31fd78cc4c8ebdecd329fea88603c7be0ba9.jpg)  
+图2荞麦黄酮论文主要研究领域分布  
+Fig.2 Major research areas of buckwheat flavonoids papers
+
+# 2已知的荞麦黄酮化合物
+
+黄酮（flavonoid）类化合物基本结构是两个苯环通过中央三碳相互联结而成，具有特征性的 $\mathrm { C } _ { 6 ^ { - } } \mathrm { C } _ { 3 ^ { - } } \mathrm { C } _ { 6 }$ 基本碳架（Ren et al.,2014; Yonekura-Sakakibara et al.,2019）。黄酮类化合物常以游离态或者与糖结合成苷（碳苷或者氧苷）形式存在，是荞麦体内发挥重要生理效应的一类次生代谢产物，广泛分布于荞麦种子、芽、茎秆、叶片、花及根部等植物器官中（Kalinova et al.,2009；闫超等,2015;Bai et al.,2015）。迄今，从栽培种甜荞麦、苦荞麦以及药用植物金荞麦中分离鉴定得到的黄酮类化合物多达80种（见表1）。然而，对野生荞麦的黄酮类成分研究尚未见报道。荞麦黄酮常见的化学结构类型主要包括黄酮（flavone）、黄酮醇（flavonol）、黄烷醇（flavanol）、双氢黄酮（flavanone）、异黄酮（isoflavones）以及花色素（anthocyanin）等。其中，槲皮素（quercetin）、山奈酚（kaempferol）、木犀草素（luteolin）、鼠李素（rhamnetin）、异鼠李素（isorhamnetin）、小麦黄素（tricin）、柚皮素（naringenin）、杨梅素（myricetin）、芹菜素（apigenin），以及橙皮素（hesperetin）是荞麦中常见的黄酮苷元结构，与半乳糖、葡萄糖、鼠李糖、阿拉伯糖、芸香糖、槐糖等糖配基以O-苷键或C-苷键形成多种黄酮苷类化合物。芍药色素（peonidin）、花翠素（delphinidin）、矢车菊素（cyanidin）为荞麦中多见的花青素类型（邵萌等,2005;Lee et al.,2013; Jing et al.,2016）。
+
+表1荞麦属植物中已鉴定的黄酮类化合物 Table1 Identified flavonoid compounds from Fagopyrum sp.   
+
+<html><body><table><tr><td colspan="2">序号化合物</td><td>类别 Class</td><td>来源 Source</td><td>参考文献 Reference</td></tr><tr><td>1</td><td>No. Compounds Acacetin</td><td>Flavone</td><td>Fagopyrumtatric,Lie,1</td><td></td></tr><tr><td></td><td>Acacetin 7-O-α-L-rhamnopyranosyl-β-</td><td></td><td>F. esculentum F. cymosum</td><td>Zhang et al., 2008</td></tr><tr><td>2 3</td><td>D- glucopyranoside Afzelin A</td><td>Flavone Flavonol</td><td>F. cymosum</td><td>林建斌等,2016</td></tr><tr><td>4</td><td>Apigenin</td><td>Flavone</td><td>F.tararicum,</td><td>Wicekal.,ietal.,，14;</td></tr><tr><td></td><td></td><td>Flavone</td><td>F.tararcam,</td><td>Kim et al., 2008;</td></tr><tr><td>5</td><td>Apigenin-6-C-glucoside/ Isovitexin</td><td>C-glycosides</td><td>F. cymosum F.tararicom,.</td><td>Wiczkowski et al., 2014</td></tr><tr><td>6</td><td>Apigenin-8-C-glucoside/ Vitexin</td><td>Flavone C-glycosides</td><td>F. cymosum</td><td>Kim etal.,2ra1,.214 Wang&Hu,2013</td></tr><tr><td>7</td><td>Apigeninidin chloride</td><td></td><td>Anthocyanins F. tartaricum</td><td>Li H et al., 2019</td></tr><tr><td>8</td><td>Aromadendrin-3-O-galactoside</td><td>Flavanone</td><td>F. esculentum</td><td>Watanabe et al., 1997</td></tr><tr><td>9</td><td>C-3/C-8'*-biapigenin</td><td>Biflavonoids</td><td>F. esculentum F. tartaricum,</td><td>魏均娴等,1990</td></tr><tr><td>10</td><td>Chrysoeriol</td><td>Flavone</td><td>F. sulentum,</td><td>张京等,2016; Li Jet al., 2019</td></tr><tr><td>11</td><td>Cyanidin</td><td></td><td>Anthocyanins F. estaricum</td><td>Wijetal,20et al.,2014</td></tr><tr><td>12</td><td>Cyanidin-3-galactoside</td><td></td><td>Anthocyanins F.esculentum</td><td>Wiczkowski et al., 2014</td></tr><tr><td>13</td><td>Cyanidin-3-galactosyl-rhamnoside</td><td></td><td>F. tartaricum, AnthocyaninsF. sculentum</td><td>Wiczkowski et al., 2014</td></tr><tr><td>14</td><td>Cyanidin-3-glucosyl-rhamnoside</td><td></td><td>F. tartaricum,</td><td></td></tr><tr><td></td><td></td><td>AnthocyaninsF. esculentum</td><td>F.tartaricum,</td><td>Wiczkowski et al., 2014 Li J et al., 2019;</td></tr><tr><td>15</td><td>Cyanidin-3-O-glucoside (Kuromanin) AnthocyaninsF. esculentum Delphin chloride</td><td></td><td>Anthocyanins F.tartaricum</td><td>Wiczkowski et al., 2014</td></tr><tr><td>16</td><td></td><td></td><td>F. sculetum,</td><td>Li H et al., 2019</td></tr><tr><td>17</td><td>(-)-Epicatechine</td><td>Flavanone</td><td>F. esculentum,</td><td>Tatanabe.l, 19968 Wang K et al., 2005;</td></tr><tr><td>18</td><td>(+)-Catechine</td><td>Flavanone</td><td>F.cymosum</td><td>Tanaka et al., 1996</td></tr><tr><td>19</td><td>(-)-Epicatechin-3-O-p-hydroxybenzoate Flavanone</td><td></td><td>F.esculentum F. esculentum,</td><td>Watanabe,1998 Tanaka et al., 1996;</td></tr><tr><td>20</td><td>(-)-Epicatechin-3-O-gallate</td><td>Flavanone</td><td>F.cymosum</td><td>Watanabe, 1998</td></tr><tr><td>21</td><td>(-)-Epicatechin-3-0- (3,4-di-O-methyl) gallate</td><td>Flavanone</td><td>F. esculentum</td><td>Watanabe, 1998</td></tr><tr><td>22</td><td>(+)-Catechin-7-O-β-D-glucopyranoside Flavanone</td><td></td><td>F. esculentum</td><td>Watanabe,1998</td></tr><tr><td>23</td><td>Procyanidin B-1</td><td>Biflavonoids</td><td>F. cymosum</td><td>张雯洁等,1994</td></tr><tr><td>24</td><td>Procyanidin B-2</td><td>BiflavonoidsF.cymosum</td><td></td><td>Tanaka et al., 1996</td></tr><tr><td>25</td><td>Procyanidin B-4</td><td></td><td>BiflavonoidsF.cymosum</td><td>张雯洁等,1994</td></tr><tr><td></td><td></td><td></td><td>F. cymosum</td><td></td></tr><tr><td>26</td><td>3,3'-Digalloyl- procyanidin B-2</td><td>Biflavonoids</td><td></td><td>张雯洁等,1994</td></tr><tr><td>27</td><td> 3'-O- galloyl- procyanidin B-2</td><td>Biflavonoids</td><td>F. esculentum</td><td>Tanaka et al.,1996</td></tr></table></body></html>
+
+<html><body><table><tr><td>序号</td><td>化合物</td><td>类别</td><td>来源</td><td>参考文献 Reference</td></tr><tr><td>No.</td><td>Compounds</td><td>Class</td><td>Source</td><td></td></tr><tr><td>28</td><td>Eriodictyol</td><td>Flavanone</td><td>F</td><td>，201；</td></tr><tr><td>29</td><td>Eriodictyol-5-O-methylether-7--O-β-D-glucop yranosyl-(1→4)--O-β-D- galactopyranoside</td><td>Flavanone</td><td>F. esculentum</td><td>Saxena & Samaiya, 1987</td></tr><tr><td>30</td><td>Genkwanin</td><td>Flavone</td><td>F. cymosum</td><td>张京等,2016</td></tr><tr><td>31</td><td>Hesperetin-7-rutinoside (Hesperidin)</td><td>Flavanone</td><td></td><td>吴和等，2008</td></tr><tr><td>32</td><td>Hyperin</td><td>Flavanone</td><td>F. tartaricum F. tartaricum,</td><td>Wang&Hu,2013 包塔娜等,2003;</td></tr><tr><td>33</td><td>Isokaemferol</td><td>Flavonol</td><td>F.esculentum</td><td>Li Jet al., 2020</td></tr><tr><td>34</td><td>Isorhamnetin</td><td>Flavonol</td><td>Fre</td><td>Wianeral.,200s:</td></tr><tr><td>35</td><td>Isorhamnetin-O-hexoside</td><td>Flavonol</td><td>F.tararicum,</td><td>LiHetal.,2019</td></tr><tr><td>36</td><td>Kaemferol-3-O-glucoside-7-O-glucoside</td><td>Flavonol</td><td>F. esculentum</td><td>Watanabe et al., 1997</td></tr><tr><td>37</td><td>Kaemferol-3-O-sophoroside</td><td>Flavonol</td><td>F. esculentum</td><td>Watanabe et al.,1997</td></tr><tr><td>38</td><td>Kaempferol</td><td>Flavonol</td><td>F.tararicum,</td><td>Li Hetal.,2019</td></tr><tr><td>39</td><td>Kaempferol-3-O-rhamnoside (Kaempferin)</td><td>Flavonol</td><td>F.tartaricum,</td><td>Li15: al2019al.,0tal,</td></tr><tr><td>40</td><td>Kaempferol-3-O-rutinoside (Nicotiflorin)</td><td>Flavonol</td><td>F. asrtricum,</td><td>江嘉庆.,2019</td></tr><tr><td>41</td><td>Kaempferol-3-O-β-D-galactoside (Trifolin)</td><td>Flavonol</td><td>F. tartaricum, F. esculentum</td><td>Li J et al., 2019; Ren et al., 2013</td></tr><tr><td>42</td><td>Kaempferol-3-O-β-D-glucoside (Astragalin)</td><td>Flavonol</td><td>F. tartaricum, F. esculentum</td><td>Li J et al., 2019; Ren et al., 2013</td></tr><tr><td>43</td><td>Kaempferol-3-O-β-D-glucopyranosy-7-O- glucopyranoside</td><td>Flavonol</td><td>F. esculentum</td><td>魏均娴等,1990</td></tr><tr><td>44</td><td>Liquiritigenin</td><td>Flavanone</td><td>F. tartaricum</td><td>胡长玲等,2012</td></tr><tr><td>45</td><td>Luteolin</td><td>Flavone</td><td>F. tartaricum, F. esculentum, F. cymosum</td><td>Wiczkowski et al.,2014; Li Jet al.,2019；张京等, 2016</td></tr><tr><td>46</td><td>Luteolin-O-sinapoylhexoside</td><td>Flavone</td><td>EF tartarcm,</td><td>LiJe al.,2019; Li e al,</td></tr><tr><td>47</td><td>Luteolin-6-C-glucoside/ Isoorientin</td><td>Flavone</td><td>F. tartaricum, F. esculentum,</td><td>Kim et al., 2008; Wiczkowski et al.,2014</td></tr><tr><td>48</td><td>Luteolin-7, 4'-dimethyl ether</td><td>C-glycosides Flavone</td><td>F. cymosum F. cymosum</td><td>吴和珍等,2008；张京等，</td></tr><tr><td>49</td><td>Luteolin-7-O-β-D-glucopyranoside</td><td>Flavone</td><td>F. tartaricum, F. esculentum</td><td>Wang & Hu,2013; Li J et</td></tr><tr><td>50</td><td>Luteolin-C-hexoside</td><td>Flavone</td><td>F.tartaricum,</td><td>al., 2019 Li J et al., 2019;</td></tr><tr><td></td><td></td><td></td><td>C-glycosides F.esculentum F. tartaricum,</td><td>Li Het al.， 2019</td></tr><tr><td>51</td><td>Luteolin-8-C-glucoside/ Orientin</td><td>Flavone C-glycosides</td><td>F. esculentum, F. cymosum</td><td>Kim et al., 2008; Wang & Hu,2013</td></tr><tr><td>52</td><td>Myricetin</td><td>Flavonol</td><td>F. tartaricum, F. esculentum</td><td>Li H et al.,2019; Kalinova Jet al., 2009</td></tr></table></body></html>
+
+<html><body><table><tr><td>序号</td><td>化合物</td><td>类别 Class</td><td>来源 Source</td><td>参考文献 Reference</td></tr><tr><td>No. 53</td><td>Compounds Myricetin-3-O-galactoside</td><td>Flavonol</td><td>F. tartaricum,</td><td>Li J et al., 2019;</td></tr><tr><td>54</td><td>Myricetin-3-O-rhamnoside (Myricitrin)</td><td>Flavonol</td><td>F.esculentum F. tartaricum,</td><td>Li et al., 2020 Li J et al., 2020</td></tr><tr><td></td><td>Pelargonin</td><td>Anthocyanins</td><td>F. esculentum F.tartarnum.</td><td>Li J et al., 2019</td></tr><tr><td>55</td><td>Peonidin</td><td>Anthocyanins</td><td>F.tartaricum</td><td>Li J et al., 2019</td></tr><tr><td>56 57</td><td>Pratol</td><td>Flavone</td><td>F. cymosum</td><td>吴和珍等,2008</td></tr><tr><td>58</td><td>Quercetin</td><td>Flavonol</td><td></td><td>2013 tal,215L.a.,</td></tr><tr><td></td><td>Quercetin-3-O-rutinoside (Rutin)</td><td></td><td>F. tartaricum,</td><td>Sato et al.,1975; Fabjan et al., 2003;</td></tr><tr><td>59</td><td>Quercetin-3-O-β-D-glucoside (Isotrifoliin）Flavonol</td><td></td><td>F. esculentum</td><td>Wang & Hu,2013 Ren etal,2013; Li et al,</td></tr><tr><td>60 61</td><td>Quercetin-3-rhamnoside（Quercitrin）</td><td>Flavonol</td><td>F.tartarcum, F tartaricum</td><td>im3赵0,20et al,</td></tr><tr><td>62</td><td>Quercetin-3-rhamnobiglucoside</td><td>Flavonol</td><td>F. tartaricum</td><td>秦昉& 陶冠军,1992</td></tr><tr><td></td><td>Quercetin-3-O-(2"-O-p-hydroxy-coumaroyl</td><td>Flavonol</td><td>F. cymosum</td><td>Saxena & Samaiya, 1987</td></tr><tr><td>63</td><td>)- β-D-glucopyranoside</td><td>Flavonol</td><td>F. tartaricum</td><td>Ren et al., 2013</td></tr><tr><td>64</td><td>Quercetin-3-O-rutinoside-3'-O-β</td><td></td><td>F. tartaricum,</td><td>吴和珍等,2008;</td></tr><tr><td>65</td><td>-glucopyranoside Quercetin-3-O-rutinoside-7-O-galactoside</td><td>Flavonol</td><td>F. cymosum F. esculentum</td><td>Wu et al., 2007</td></tr><tr><td>66</td><td>Quercetin-3-O-β-D-galactoside/Hyperoside Flavonol</td><td></td><td>F. tartaricum, F. esculentum,</td><td>Saxena & Samaiya,1987 Ren et al., 2013;</td></tr><tr><td></td><td></td><td></td><td>F. cymosum</td><td>Quettier-deleu et al., 2000</td></tr><tr><td>68</td><td>7-O-methxyl quercetin (Rhamnetin)</td><td>Flavonol</td><td></td><td>LiJ8t09，0等，</td></tr><tr><td>69</td><td>3-Methylquercetin</td><td>Flavonol</td><td>F. cymosum</td><td>Wang K et al., 2005</td></tr><tr><td>70</td><td>3,5-Dimethylquercetin</td><td>Flavonol</td><td>F. cymosum</td><td>Wang LB et al., 2005</td></tr><tr><td>71</td><td>Taxiqlin-3--xyidside)</td><td>Flavanonol</td><td>F. esculentum</td><td>Watanabe et al.,1997</td></tr><tr><td>72</td><td>Tricetin</td><td>Flavone</td><td>F.esculentum</td><td>魏均娴等,1990</td></tr><tr><td>73</td><td>Tricin</td><td>Flavone</td><td></td><td>2016；张等,20林建斌等，</td></tr><tr><td>74</td><td>Tricin O-rhamnoside</td><td>Flavone</td><td>F. tartaricum</td><td>Li H et al., 2019</td></tr><tr><td>75</td><td>Tricin-7-O-β-D-glucopyranoside</td><td>Flavone</td><td>F. tartaricum</td><td>Wang & Hu, 2013</td></tr><tr><td>76</td><td>Velutin</td><td>Flavone</td><td>F.tararicum</td><td>Li etal.,.019:</td></tr><tr><td>77</td><td>3-Methyl-gossypetin-8-O-β-D -glucopyranoside</td><td>Flavonol</td><td>F. cymosum</td><td>Wang K et al., 2005</td></tr><tr><td>78</td><td>3',4'-Methylenedioxy-7-hydroxy-6 -isopentenyl flavone</td><td>Flavone</td><td>F. cymosum</td><td>Samaiya & Saxena,1989</td></tr><tr><td>79</td><td>3,6,3',4'-Tetrahydroxy-7-methoxyflavone Flavone</td><td></td><td>F. cymosum</td><td>吴和珍等,2008</td></tr><tr><td>80</td><td> 5'-Hydroxy-7,3'-dimethoxylflavane</td><td>Flavanone</td><td>F. esculentum</td><td>魏均娴等,1990</td></tr></table></body></html>
+
+# 3荞麦黄酮的生物合成途径
+
+黄酮类化合物是一类重要的次生代谢产物，在荞麦的生长发育及抗逆防病等方面都发挥着不可或缺的作用。据文献报道，高含量的芦丁和芦丁水解酶活性是构成苦荞麦强烈苦味的原因之一，同时能够有效地保护苦荞麦种子避免遭受动物的食用。此外，芦丁和芦丁水解酶参与了植物对抗紫外线，低温和干旱等抗逆防卫反应（Suzuki et al.，2015；Zhang et al,2017）。近年，对荞麦黄酮生物合成途径以及调控机制的研究热度不减，荞麦黄酮化合物的生物合成途径研究有了一定成果。
+
+荞麦黄酮类化合物的生物合成起源于苯丙烷代谢途径（莽草酸分支酸途径）。苯丙氨酸为黄酮类化合物的重要前体物，在苯丙氨酸解氨酶（Phenylalanine ammonialyase,PAL）催化作用下生成香豆酸。香豆酸被肉桂酸-4-羟基化酶（Cinnamicacid-4-hydroxylase，C4H）催化形成对香豆酸，随后在4-香豆酰辅酶A连接酶（4-coumaryl:CoA ligase,4CL）作用下，香豆酸生成香豆酰辅酶A（Coumaroyl-CoA）。其中，香豆酰辅酶A和来源于三羧酸循环的丙二酰辅酶A（Malonyl-CoA），共同作为黄酮生物合成的起始底物，在查尔酮合成酶（Chalconesynthase，CHS）的催化下，生成四羟基查尔酮（柚皮素查尔酮），CHS 是黄酮合成途径中第一个关键限速酶。四羟基查尔酮被查耳酮异构酶（Chalcone isomerase,CHI）催化转为柚皮素。柚皮素是花色素生物合成途径中的中间体，由此开启了整个花色素生物合成的多个支路，合成黄酮、黄酮醇或者异黄酮等多种黄酮类化合物以及花色素物质（图1）（Liet al.,2012）。此外，在豆科等植物中，香豆酰辅酶A 与丙二酰辅酶A在CHS 和查耳酮还原酶（Chalconeketide reductase,CHR）的共同催化下生成三羟基查尔酮，三羟基查尔酮CHI催化形成甘草素，然后在异黄酮合成酶（Isoflavone synthase，IFS）作用下生成异黄酮类化合物（Isoflavones）（崔艳伟等,2016）。Lietal.（2019,2020）采用代谢组学结合超高效液相色谱（UPLC）与高分辨质谱联用的方法揭示甜荞麦和苦荞麦中均存在异黄酮类化合物，并鉴定了荞麦中异黄酮合成相关基因。然而，荞麦异黄酮合成分支路径还需要更多的证据去证实。
+
+PAL C4H 4CL 苯丙氨酸 反式肉桂酸 p-香豆酸 香豆酰CoA 2，4，4’-三羟基查尔酮 renylalanine trans Cinnami c acid Coumaric acid Coumaroyl CoA 2,4,4’-Trihydroxy-chalcone ： CHS -- 2”，4，4’，6’-四羟基查尔酮 7，4’-二羟基黄烷酮 2’，4,4’,6’- Tetrahydroxy-chalcone 7,4-Dihydroxyflavanone 葒草素， 异红草素， 牡荆素 FES CH --- I草 黄酮类 柚皮素 异黄酮 Isovitexin, Apigenin, Luteolin Flavones Naringenin 山奈酚 Isoflavones F3H FLS Kaempferol FLS F3' FLS 槲皮素 二氢槲皮素 二氢山奈酚 二氢杨梅素 杨梅素 Quercetin Dihydroquercetin Dihydr okaempferol Dihydromyricetin Myricetin F3' 5' H 3GT BT DFR DFR DFR BT + 异槲皮苷 芦丁 无色矢车菊素 无色花葵素 无色飞燕草素 Isoquerci trin Rutin Leucocyani din Leucopelargonidin Leucodelphinidin ET AES/LDOI AES/LDOI AES/LDOI 矢车菊素 花葵素 飞燕草素 Cyani din Pelargoni din Delphini din 3GT 3GT 3GT 矢车菊素-3-0-葡萄糖苷 花葵素-3-0-葡萄糖苷 飞燕草素-3-0-葡萄糖苷 Cyanidin-3-0-glucoside Pelargonidin-3-0-glucoside Delphinidin-3-0-glucoside
+
+PAL.苯丙氨酸解氨酶;C4H.肉桂酸-4-羟基化酶;4CL.4-香豆酰辅酶A连接酶;CHS.查尔酮合成酶;CHI查耳酮异构酶;F3H.黄烷酮-3-羟化酶;F3H.黄酮3'-羟化酶;F3'5H.黄酮 3'5'-羟化酶;FLS． 黄酮醇合成酶;FNS.黄酮合成酶;DFR.二氢黄酮醇-4-还原酶;ANS.花青素合成酶;LDOX.无色花色素双加氧酶;3GT.黄酮3-O-葡萄糖基转移酶;RT.3-O-鼠李糖基转移酶。
+
+PAL. Phenylalanine ammoniumlyase; C4H. Cinnamic acid 4-hydroxylase; 4CL. 4-Coumarate-CoA ligase; CHS.   
+Chalcone synthase; CHI. Chalcone isomerase; F3H. Flavanone-3-hydroxylase; F3'H. Flavonoid-3-hydroxylase;
+
+F3'5H.Flavonoid-3'5'-hydroxylase;FLS.Flavonol synthase; FNS.Flavone synthase; DFR.Dihydroflavonol reductase; ANS. Anthocyanin synthase; LDOX.Leucoanthocyanidin dioxygenase; 3GT.Flavonoid 3-O-glucosyl transferase; RT.3-O-Rhamnosyltransferase.
+
+图3荞麦黄酮生物合成代谢途径（Lietal.,2012;Eikietal.,2018）Fig.3 Flavonoid biosynthesis pathway of buckwheat （Li et al.,2Ol2; Eiki et al., 2018）
+
+至今，已克隆鉴定的荞麦黄酮合成相关基因有PAL、CHS、C4H、4CL、CHI、无色花色素还原酶基因（ $. L A R )$ 、二氢黄酮醇-4-还原酶基因（DFR）、黄酮醇-3-羟化酶基因（F3H），黄酮 $_ { 3 } ,$ -羟化酶基因 $( F \boldsymbol { 3 } ^ { \prime } H )$ 、黄酮醇合成酶I基因（FLS-1）、花青素合成酶基因（ANS）、羟基异黄酮脱水酶基因（Hydroxyisoflflavanone dehydratasegenes，HID）、羟化酶（ $2 ^ { \prime }$ -hydroxylase gene, $I 2 ^ { \prime } H ^ { \prime }$ ）、异黄酮还原酶（Isoflavone reductase genes,IFR）、UDP葡萄糖基转移酶基因(UDP-glycosyltransferase genes,UGT)、甲基转移酶基因( $o$ -Methyltransferasegenes，OMT）以及槲皮素葡糖苷鼠李糖基转移酶基因（Quercetin3-O-glucoside6-O-rhamnosyltransferase）等（陈鸿翰等，2013；雒晓鹏等，2013；Thwe et al,2014；凌瑶等，2015;Eiki et al.,2018;LiH et al.,2019）等。
+
+# 4荞麦黄酮生物合成调控和影响因素
+
+# 4.1荞麦黄酮生物合成调控
+
+荞麦黄酮生物合成调控交错复杂，既受到合成途径中关键酶基因以及转录因子的调控，又受到植物体内其它的代谢途径的交叉调控作用。目前，对于荞麦黄酮生物合成途径中关键酶基因的研究较多，荞麦黄酮生物合成的主要步骤较为清晰，而对于调控基因方面的研究正处于蓬勃发展的阶段。荞麦黄酮生物合成调控方面的研究大多数集中在转录因子MYB上。MYB 转录因子在荞麦黄酮生物合成中发挥了重要的调控作用，它参与了多个黄酮合成代谢支路，可与多个基因协同调控黄酮的生物合成（Schijlen etal.,2004）。MYB 通过直接与目标基因启动子区域结合，或者可与其他蛋白（如WD40和bHLH）互作，来实现调节目的基因的转录，其调控效应具有较强的时空特异性。至今，荞麦中已鉴定的MYB转录因子已达20 个，其中已知基因序列的16个MYB 转录因子均属于R2R3-MYB 亚家族（马婧等,2009;温东等,2019）。据报道，与荞麦黄酮生物合成相关的转录因子主要有FtMYB1、FtMYB2、FtMYB3、FtMYB7、FtMYB9、FtMYB11、FtMYB13、FtMYB14、FtMYB15、FtMYB16、FtMYB116和FtMYB123L，它们可分布在荞麦不同的组织器官中，在特定的生长发育阶段，通过诱导或抑制黄酮合成关键酶基因的表达，来开启或者关闭黄酮生物合成的具体分支途径，从而调节不同的黄酮类化合物在不同组织器官中的含量。
+
+苦荞MYB转录因子可以通过直接与黄酮合成关键酶基因直接作用调控特定黄酮合成支路的表达。Zhang etal.（2019）在苦荞麦中找到了转录因子FtMYB116，该转录因子受到光诱导，在红光或蓝光照射下，FtMYB116通过与 $F 3 ^ { \prime } H$ 基因启动子区域结合，激活基因的表达，能够促进苦荞幼苗中芦丁和槲皮素的积累。其次，苦荞MYB 转录因子可以通过与其他蛋白作用调控目标基因的转录，同时也受到茉莉酸、脱落酸以及光照/UV等因素的诱导。FtSAD2（脱落酸和干旱敏感）和FtJAZ1（茉莉酸信号转导抑制因子）可以与MYB 协同互作抑制荞麦黄酮生物合成。Huang etal.（2019）的研究显示，FtMYB8mRNA主要在荞麦的真叶期和花期集中分布在植物根部，FtMYB8基因的超量表达可抑制花青素/原花青素积累。转录因子FtMYB8通过调节苦荞麦根部和花中花青素/原花青素的含量变化的同时，影响了苦荞花芽毛状体的分布。茉莉酸甲酯、脱落酸、UV-B 可以激活 MYB 的表达，而黑暗条件则会抑制该基因的转录。苦荞麦MYB转录因子FtMYBl1、FtMYB13、FtMYB14、FtMYB15和FtMYB16基因在不同的苦荞组织中特异性表达，同时受到茉莉酸的调控。其中FtMYB13、FtMYB14和FtMYB15均在蛋白水平受茉莉酸诱导降解，能够直接抑制FtPAL基因的表达，从而减少黄酮的积累。另外，与FtMYB11、FtMYB13、FtMYB14、FtMYB15有互作效应的FtSAD2 和 FtJAZ1 能够显著促进 FtMYBs 的抑制子活性（Zhou et al.，2017；Zhang et al.,
+
+2018）。
+
+另外，也有学者对荞麦MYB转录因子与多个黄酮合成关键酶基因的相对表达水平的情况进行了研究。结果显示，FtMYB7基因在真叶期和现蕾期相对表达量最高，Ft4CL、FtCHS、FtF3H、FtUFGT和FtMYB7相对表达模式与芦丁含量变化幅度呈正相关，FtMYB9基因在萌发期和子叶期相对表达量最高，FtFLS-like和FtMYB9与芦丁含量的变化幅度呈负相关（孙朝霞等，2017）。在子叶中，总黄酮的合成积累与FtMYB3呈正相关，而与FtMYB2表达呈负相关（赵海霞等,2012）。但是对于关键酶基因 PAL、CHI和FLS 与转录因子基因FtMYB1、FtMYB2和FtMYB3表达相关性的情况较为复杂，关键酶基因的转录与转录因子的表达规律性不强。由此推测，黄酮合成的某个关键酶类基因可能只会受到其中特定转录因子的调控，精准开启一个或多个黄酮化合物合成的支路，而仅通过总黄酮含量的变化无法反映出这一特点。此外，荞麦中鉴定的FtWD40 蛋白也具有转录激活活性，在烟草中超量表达可以使花青素合成相关基因DFR和ANS的表达量提高一倍以上，从而促进花青素的积累，但是FLS基因表达量却有所下降（Yaoetal.,2017）。荞麦黄酮生物合成调控的研究仍处于起步阶段，因此，明确荞麦黄酮合成途径中关键基因及调控因子可为进一步揭示荞麦黄酮类化合物生物合成的分子机制奠定基础。
+
+# 4.2影响荞麦黄酮生物合成的主要因素
+
+影响荞麦黄酮生物合成的主要因素主要有环境因素、植物生长调节剂、生物因子以及品种因素等。其中，环境因素又包括光照、水分/无机盐、温度等。在上述各类影响因素中，存在多个因素相互交叉调控黄酮合成的现象，通过直接或者间接影响黄酮合成途径中关键酶类基因的表达水平来实现调节植物体内黄酮含量，响应外界生物或非生物胁迫因素，或达到调节荞麦生长发育的目的。
+
+# 4.2.1光照
+
+光暗交替能够促进荞麦愈伤组织中黄酮的合成，而使用波段大于 $3 0 0 \mathrm { n m }$ 的UV-B 处理,能够增加甜荞麦芽中芦丁的含量（Tsurunaga et al.,2013）。荞麦黄酮类化合物对 UV-B 的响应与品种有关,Debski et al.（2016)研究显示,UV-B 照射下,甜荞麦 Hruszowska、Red Corolla、Kora 和 Panda 4个栽培种子叶中的花青素含量均升高；其中，栽培种 Red Corolla 和 Kora黄酮的含量升高，Panda 中黄酮的含量不变，而 Hruszowska 黄酮含量则下降；栽培种Hruszowska中芦丁的含量有所下降，而在上述其他栽培种中则未发生变化。
+
+# 4.2.2水分或盐浓度
+
+水分和盐浓度也会影响荞麦黄酮的生物合成，其效应与由此造成的干旱胁迫程度相关。采用转录组与代谢组学分析结果显示，在干旱胁迫下，苯丙素类化合物与黄酮类化合物合成相关基因的表达发生明显变化，同时可检测到荞麦芦丁含量显著升高（Maetal.,2019）。而采用低盐浓度处理苦荞芽，能够提高黄酮类物质含量，随着盐浓度的增高，苦荞芽中黄酮含量呈现先升后降的趋势（万燕等,2016;Qin etal.,2017）。
+
+# 4.2.3温度
+
+荞麦黄酮合成积累受到环境温度的影响。目前研究多集中在低温胁迫的对黄酮合成的影响。研究表明，荞麦花青素类化合物的合成可受到环境胁迫的影响，寒冷胁迫能够显著提高苦荞芽花青素的合成，其中有11个与花青素合成相关基因表达上调，FtF3H、FtDFR 和FtANS 表达量最高，花青素可能在苦荞芽对抗寒冷胁迫中发挥作用（Jiangetal.,2015）。
+
+# 4.2.4植物生长调节剂
+
+研究发现，赤霉素（GA）、萘乙酸（NAA）、二氯苯氧乙酸（2,4-D）、6-苄氨基嘌呤（6-BA）、脱落酸（ABA）、水杨酸（SA）等植物生长调节剂对荞麦黄酮生物合成发挥着重要的调节作用。在苦荞麦现蕾初期和灌浆期，使用赤霉素（ $\mathbf { G } \mathbf { A } _ { 3 }$ ）喷施苦荞全株可以显著降低苦荞籽粒黄酮含量，喷施低浓度萘乙酸（ $3 0 { \sim } 9 0 \mathrm { m g } { \bullet } \mathrm { L } ^ { - 1 }$ ）则会提高籽粒中黄酮的含量，但高浓度的萘乙酸也会降低苦荞籽粒中黄酮含量（赵钢等,2015）。在一定浓度下，2,4-D、
+
+6-BA 和 NAA 都能促进荞麦愈伤组织的黄酮合成，且最佳激素配比为 2，4-D 浓度 1.5$\mathrm { { m g } } { \bullet } \mathrm { { L } } ^ { - 1 }$ ，6-BA 浓度 $0 . 6 \mathrm { m g ^ { \bullet \mathbf { L } ^ { - 1 } } }$ （王鹏姬等,2013）。植物激素的种类、浓度以及处理时机直接影响着荞麦黄酮含量的积累，该调节作用可以通过调控黄酮合成关键酶类的基因来实现。使用一定浓度的水杨酸（SA）处理，可以使荞麦FtCHS、FtFLS-like、FtF3H、和Ft4CL表达水平提高，有效提高荞麦中芦丁的含量（Sun etal.,2012）。此外，Lietal.（2013）发现荞麦中存在FtFLS异构体（FtFLS1和FtFLS2），在荞麦对环境胁迫的响应中，FtFLS异构体可能发挥着不同的生理作用，其中，内源激素 ABA和 SA 能够抑制FtFLS1的表达，而FtFLS2基因不受到ABA的影响，却可受到SA的诱导调控，使表达上调。
+
+# 4.2.5生物因子
+
+荞麦黄酮的生物合成，可以受到不同来源的真菌或者细菌的影响。其中，源于荞麦的表生或内生真菌，是有效诱导荞麦黄酮合成的生物因子。李晓雁等（2009）研究表明，由苦荞麦种子表生真菌K11和K18菌丝粗提物制备而成的诱导子，能够促进苦荞麦黄酮的合成。一定浓度下，苦荞麦内生真菌生赤壳霉Fat6和镰孢菌Fat9菌液胞外多糖、菌丝水提多糖、菌丝酸提多糖和菌丝碱提多糖均能不同程度地够促进苦荞芽的生长以及芦丁、槲皮素等黄酮类物质的积累；与未处理对照相比，上述处理组中苦荞芽中PAL 活性有不同程度的升高（Zhao et al.,2012; Zhong et al.,2016）。Zhao et al.（2015）研究显示，采用不同浓度酵母多糖浸种处理苦荞麦种子，也可以提高苦荞芽中芦丁等黄酮的含量。此外，采用特定细菌处理也可以诱导荞麦黄酮含量的改变。Briatiaet al.（2018）采用不同浓度的草螺菌属细菌（Herbaspirillum spp.）接种苦荞麦种子，培养7d后，苦荞麦中总酚及芦丁的含量有所升高。
+
+# 4.2.6品种因素
+
+荞麦中黄酮含量的高低与品种有较大关系，同时在同一品种的不同组织器官内黄酮含量存在明显差异。这与荞麦黄酮生物合成途径中的关键酶基因在不同品种、不同的组织器官中，差异化表达直接相关。Lietal.（2012）研究表明，在Daikwan3-3和米荞两个不同的苦荞麦品种中，黄酮合成关键酶基因FtPAL、Ft4CL、FtCHS、FtCHI、FtF3H、FtF3'H、FtFLS 和FtDFR 在花和种子中的转录水平均高于根、茎和叶片；而在两个品种的根、茎和叶片中，上述基因的表达水平相当；然而基因C4H在米荞根和茎中的表达量要比Daikwan3-3 高两倍，而在花和种子中则情况相反；芦丁、槲皮素和山奈酚在上述两个苦荞品种不同组织器官中的含量均存在差异。此外，在不同荞麦栽培品种中，FtFLS1 和 FtFLS2 转录水平也会存在差异。其中栽培种“Hokkai T1O”中FtFLS1 和 FtFLS2 转录水平比“Hokkai T8”更高，相应地“HokkaiT10”中黄酮的含量更高（Lietal.,2013）。
+
+# 5今后研究的趋势和重点研究方向
+
+从历年荞麦黄酮论文发文量来看，以“荞麦黄酮”为核心、涉及多个领域的研究正处于上升阶段。荞麦黄酮正迅速成为各领域学者的研究热点问题。随着代谢组学等研究方法以及超高相液相色谱-质谱联用等技术的兴起与快速发展，推动了在基因/转录水平和次生代谢产物层面上对荞麦黄酮系统研究进程。荞麦叶片、种子、花等不同部位黄酮类化学成分概貌得以揭示，不同发育进程中黄酮及其合成关键酶类基因的表达情况得到展现，在逆境胁迫下荞麦黄酮相关基因的表达以代谢产物的整体变化情况有了新的研究进展。据报道，采用液质联用的方法，首次从甜荞麦或苦荞麦不同组织器官中报道了豆异黄酮（glycitin）、樱黄素（prunetin）、染料木素（genistein）、香豌豆苷元（orobol）等异黄酮类化合物的存在（LiJet al.,2019;LiHet al.,2019;Li et al.,2020）。然而，在已发表的论文中尚未有关荞麦中异黄酮类化合物分离鉴定的研究报道，可能存在异黄酮化合物量很少而无法分离的情况。而采用液质联用的方法本身亦存在无法区分同分异构体的情况，因此，关于荞麦中异黄酮类化合物仍需要进一步确证，采用传统的分离手段，结合高分辨质谱和核磁共振图谱等分析仍然是最可信的有力证据。异黄酮化合物的合成是养麦黄酮生物合成途径上重要的分支，对该问题的深化研究具有重要的理论价值和实践意义。另一方面，异黄酮类化合物所特有的生物活性和药理功效一直以来也是各领域研究学者的重点攻关方向，进一步细化和阐明荞麦黄酮的化学成分结构特征将有利于荞麦营养功能价值的进一步提升。
+
+此外，荞麦黄酮化合物的生物合成及其调控因素仍需要不断地细化深入，从目前研究结果来看，荞麦黄酮合成调控基因方面的研究有所匮乏，黄酮合成途径中关键的调控因子有待进一步研究和深入发掘。同时，黄酮类化合物在植物体内的生理功能及其机制的研究尚存在较大发展空间，黄酮类化合物参与植物生长发育的调节作用潜力巨大。荞麦黄酮为重要的植物防卫次生代谢产物，深化荞麦黄酮在荞麦抗逆防卫反应中的作用研究，有助于揭示黄酮类化合物参与生理反应的相关机制，也有利于荞麦病虫害的防治以及荞麦育种和高产栽培技术的发展，相关科学问题的研究对于促进我国荞麦产业的健康快速发展具有深远的意义。
+
+# 参考文献
+
+BAI CZ, FENG ML,HAO XL, et al., 2015. Rutin, quercetin,and free amino acid analysis in buckwheat (Fagopyrum） seeds from different locations [J]. Genet Mol Res，14(4): 19040-19048.
+
+BAO TN, ZHOU ZZ, ZHANG F, et al., 2O03. Chemical constituents of buckwheat huls [J]. NatProd Res Dev,15(2):116-117.[包塔娜，周正质，张帆，等,2003．苦荞麦麸皮的化学成分研究[J]．天然产物研究与开发,15(2):116-117.]
+
+CHEN HH, YUAN MQ,LI SJ, et al.,2013. Cloning of cinnamate 4-hydroxylase gene (C4H) from tartary buckwheat (Fagopyrum tartaricum) and its tissue-specific expression under UV-B stress during seed germination [J].JAgri Biotechol, 21(2):137-147.[陈鸿翰，袁梦求，李双江，等, 2013．苦荞肉桂酸羟化酶基因(FtC4H)的克隆及其UV-B 胁迫下的组织表达 [J].农业生物 技术学报,21(2):137-147.]
+
+CUI YW,LI WL, CHANG WS, et al., 2016. Differential expression analysis of genes associatedwith isoflavone synthesis in soybean [J].JPlant Genet Resour,17(4): 719-725.[崔艳伟，李文龙，常文锁，等，2016.大豆异黄酮合成途径相关基因差异表达分析 [J]．植物遗传资源学报,17(4): 719-725.]
+
+DEBSKI H, SZWED M, WICZKOWSKI W, et al., 2016. UV-B radiation increases anthocyanin levels in cotyledons and inhibits the growth of common buckwheat seedlings [J]. Acta Biol Hung, 67(4): 403-411.
+
+EIKI K, SOICHIRO O, YOSHINORI M, et al., 2O18. Identification and characterization of a rhamnosyltransferase involved in rutin biosynthesis in Fagopyrum esculentum (common buckwheat) [J]. Biosci Biotechnol Biochem, 82(10):1790-1802.
+
+EI-RIDI MS,ABOUL-WAFA MH,1953.The effect of rutin, a vitamin P-like substance,on the survival time of scorbutic guinea-pigs [J]. JEgypt Med Assoc, 36(1): 1-13.
+
+FABJAN N, RODE J, KOSIR IJ, et al., 2003. Tartary buckwheat (Fagopyrum tataricum Gaertn) as a source of dietary rutin and quercitrin [J]. JAgric Food Chem, 51(22): 6452-6455.
+
+GUO XD,MA YJ, PARRY J, et al., 2011. Phenolics content and antioxidant activity of tartary buckwheat from different locations [J].Molecules,16: 985O-9867.
+
+HU CL, ZHENG CJ,CHENG RB, et al., 2012. Chemical constituents from roots of Fagopyrum tartaricum [J].Chin Trad Herb Drugs,43(5): 866-868.[胡长玲，郑承剑，程瑞斌，等,2012. 苦荞麦根的化学成分研究[J]．中草药,43(5):866-868.]
+
+HU YY, ZHAO Y, YUAN L, et al.,2O15. Protective effects of tartary buckwheat flavonoids on high TMAO diet-induced vascular dysfunction and liver injury in mice [J]. Food Funct, 6(10): 3359-3372.
+
+HUANG Y,WU Q，WANG S,et al.， 2019. FtMYB8 from tartary buckwheat inhibits both anthocyanin/proanthocyanidin accumulation and marginal trichome initiation [J]. BMC Plant Biol, 19(1): 263.
+
+INGLETT GE,CHEN DJ，BERHWO M,et al.，2011.Antioxidant activity of commercial buckwheat flour and their free and bound phenolic compositions [J].Food Chem,125: 923-929.
+
+JIANG S,CHEN L，LEI B，et al.，2O15.Anthocyanins accumulate in tartary buckwheat (Fagopyrum tataricum) sprout in response to cold stress [J]. Acta Physiol Plant, 37(8): 159.
+
+JIANG S,LIU Q, XIE Y,et al.,2O15. Separation of five flavonoids from tartary buckwheat (Fagopyrum tataricum (L.） gaertn) grains via off-line two dimensional high-speed counter-current chromatography [J].Food Chem,186: 153-159.   
+JING R,LI H,HU C，et al.，2016.Phytochemical and pharmacological profiles of three Fagopyrum buckwheats [J]. Int J Mol Sci,17(4): 589.   
+KALINOVA J, VRCHOTOVA N, 2009. Level of catechin, myricetin, quercetin and isoquercitrin in buckwheat (Fagopyrum esculentum moench),changes of their levels during vegetation and their effect on the growth of selected weeds [J]. J Agric Food Chem, 57(7): 2719-2725.   
+KIM SJ,ZAIDUL ISM,SUZUKI T, et al.， 2008.Comparison of phenolic compositions between common and tartary buckwheat (Fagopyrum) sprouts [J]. Food Chem, 110: 814-820.   
+LEE JM,LEE KH, YOON YH, et al.,2013. Identification of triterpenoids and flavonoids from the seeds of tartary buckwheat [J]. Nat Prod Sci, 19(2): 137-144.   
+LI H,LV Q, MA C, et al., 2O19. Metabolite profiling and transcriptome analyses provide insights into the flavonoid biosynthesis in the developing seed of tartary buckwheat (Fagopyrum tataricum) [J]. J Agric Food Chem, 67(40): 11262-11276.   
+LI J,HOSSAIN MS,MA H,et al.， 2020.Comparative metabolomics reveals differences in flavonoid metabolites among different coloured buckwheat flowers [J]. JFood Compos Anal, 10335: 1-8.   
+LI J, YANG P, YANG Q, et al., 2019. Analysis of flavonoid metabolites in buckwheat leaves using UPLC-ESI-MS/MS [J]. Molecules,24: 1310.   
+LI PC,PIAO CH, ZHANG L,et al.， 2017. Antidiabetic eect and mechanism of flavonoids extracted from buckwheat hulls in type 2 diabetic rats [J].Food Sci, 38(5): 244-250.[李鹏程, 朴春红，张岚，等，2017.荞麦壳黄酮提取物对 2 型糖尿病大鼠的血糖改善作用及其机制 [J]．食品科学,38(5):244-250.]   
+LI X,KIM YB，KIM Y, et al.， 2013. Differential stress-response expression of two flavonol synthase genes and accumulation of flavonols in tartary buckwheat [J]. JPlant Physiol,170(18): 1630-1636.   
+LI X, PARK NI, KIM YB, et al., 2012. Accumulation of flavonoids and expression of flavonoid biosynthetic genes in tartary and rice-tartary buckwheat [J]. Process Biochem, 47(12): 2306-2310.   
+LI X, THWE AA, PARK NI, et al., 2012.Accumulation of phenylpropanoids and correlated gene expression during the development of tartary buckwheat sprouts [J]. J Agric Food Chem, 60 (22): 5629-5635.   
+LI XY, ZHEN RY, ZHANG RQ, et al., 2009.Effects of fungal elicitors on synthesis of flavonoids in germinating tartary buckwheat [J].J Tianjin Agric Coll,16(4): 34-37.[李晓雁，甄润英，张 瑞清，等,2009.真菌诱导子对苦荞萌发过程中黄酮合成的影响 [J].天津农学院学报,16(4): 34-37.
+
+LIN JB, ZHAO LC, GUO JZ, et al.,2016. Chemical constituents from aerial parts of Fagopyrumdibotrys [J]. Chin Trad Herb Drugs,47(11): 1841-1844.[林建斌，赵立春，郭建忠，等,2016.金荞麦地上部分化学成分的研究 [J]．中草药,47(11):1841-1844.]
+
+LING Y, GAO F,WANG AH, et al., 2015. Cloning and sequence analysis of 4-coumarate: CoA ligase gene from Fagopyrum tatarium [J]. Guihaia,35(5): 728 -732,767.[凌瑶，高飞，王安虎, 等，2015．苦荞 4-香豆酸辅酶A 连接酶基因(Ft4CL）的克隆及序列分析[J].广西植物, 35(5): 728 -732, 767.]
+
+LUO XP, BAI YC, GAO F, et al.,2013. Gene cloning and expression level of chalcone isomerase during florescence and content of flavonoids in Fagopyrum dibotrys [J]. Chin Trad Herb Drugs, 44(11）:1481-1485.[雒晓鹏，白悦辰，高飞，等，2013．金荞麦查尔酮异构酶的基因克隆及 其花期表达与黄酮量分析 [J]．中草药,44(11):1481-1485.]
+
+MA J,HU QL, GUO TY, et al., 2O09. Cloning and molecular characteristics analysis of a MYB gene from Fagopyrum dibotrys [J]. Chin JChin Mat Med,34(17): 2155-2159.[马婧，祝钦泷, 郭铁英，等，2009.金荞麦MYB 转录因子基因FdMYBP1的克隆及分子特征 [J].中国中 药杂志,34(17): 2155-2159.]   
+MA W, KIM JK, JIA C, et al., 2019. Comparative transcriptome and metabolic profiling analysis of buckwheat (Fagopyrum tataricum (L.) Gaertn.) under salinity stress [J]. Metabolites, 9(10): 225-246.   
+NAGHSKI J, BRICE BA, KREWSON CF,1952. Production of buckwheat leaf meals with high rutin content [J]. Am J Pharm Sci Support Public Health, 124(9): 297-306.   
+QIN F,TAO GJ, 1992. Isolation and identification of flavonoids from tartary buckwheat [J]. Appl Album Water LC-MS(2)：43-45.[秦昉，陶冠军，1992.苦荞黄酮类化合物的分离与鉴定 [J].Waters液质联用应用专辑(二):43-45.]   
+QIN P, WEI A, ZHAO D,et al., 2017. Low concentration of sodium bicarbonate improves the bioactive compound levels and antioxidant and a-glucosidase inhibitory activities of tartary buckwheat sprouts [J]. Food Chem,224: 124-130.   
+QUETTIER-DELEU C，GRESSIER B，VASSEUR J，et al.，2OO0.Phenolic compounds and antioxidant activities of buckwheat (Fagopyrum esculentum Moench） hulls and flour [J]. J Ethnopharm, 72(1-2): 35-42.   
+REN Q, LI YF, WU CS, et al., 2014. Metabolism of secondary metabolites isolated from tartary buckwheat and its extract [J]. Food Chem, 154: 134-144.   
+REN Q，WU C，REN Y，et al.，2O13.Characterization and identification of the chemical constituents from tartary buckwheat (Fagopyrum tataricum Gaertn) by high performance liquid chromatography/photodiode array detector/linear ion trap FTICR hybrid mass spectrometry [J]. Food Chem,136(3-4): 1377-1389.   
+SAMAIYA GC, SAXENA VK, 1989. 3',4'-methylenedioxy-7-hydroxy-6-isopentenyl flavone，a new flavone from Fagopyrum cymosum [J]. J Nat Prod, 52(6): 1305-1306.   
+SATO H, SAKAMURA S,1975. Isolation and identification of flavonoids in immature buckwheat seed [J]. JAgri Chem Soc Jpn, 49:53-55.   
+SAXENA VK, SAMAIYA GC, 1987. A new acylated quercetin C glycoside from the leaves of Fagopyrum cymosum [J]. Fitoterapia, 58(6): 421.   
+SAXENA VK, SAMAIYA GC，1987. A new flavanone glycoside-eriodictyol-5-O-methyl ether-7-O-beta-D-glucopyranosyl-( $\left( 1 \to 4 \right)$ -O-beta-D-galactopyranosidefromtheseedsof Fagopyrum esculentum (Moench) [J]. Ind J Chem B, 26(6): 592-593.
+
+SCHIJLEN EGWM,RIC DE VOS CH, TUNEN AJ,et al.， 2004. Modification of flavonoid biosynthesis in crop plants [J]. Phytochem, 65(19): 2631-2648.
+
+SHAO M, YANG YH, GAO HY, et al., 2005. Studies on the chemical constituents of Fagopyrum dibotrys [J].JShenyang Pharm Univ,22:100-102.[邵萌，杨跃辉，高慧媛，等,2005．金荞麦 的化学成分研究 [J]．沈阳药科大学学报,22(2):100-102.]
+
+SUN ZX, HOU SY, LINGHU B, et al., 2017. Correlation analysis on rutin accumulation and gene expression of rutin synthetic enzymes and MYBs in the whole developmental stage of Fagopyrum tataricum [J]. Sci Agric Sin, 50(18): 3473-3481.[孙朝霞，侯思宇，令狐斌，等, 2017．苦荞全生育期芦丁积累与其生物合成途径相关基因表达分析 [J]．中国农业科学, 50(18): 3473-3481.]
+
+SUN ZX, HOU SY, YANG WD, et al., 2012. Exogenous application of salicylic acid enhanced the rutin accumulation and influenced the expression patterns of rutin biosynthesis related genes in Fagopyrum tartaricum Gaertn leaves [J]. Plant Growth Regul, 68(1): 9-15.   
+SUZUKI T, MORISHITA T, KIM S, et al., 2015. Physiological roles of rutin in the buckwheat plant [J]. Jpn Agri Res Quart, 49(1): 37-43.   
+TANAKA N,YOSHIMATSU K, SHIMOMURA K,1996. Rutin and other pholyphenols in Fagopyrum esculentum hairy roots [J]. Nat Med, 50(4): 269-72.   
+TANG Y, SHAO JR, ZHOU ML, 2019. A taxonomic revision of Fagopyrum Mil from China [J]. JPlant Genet Resour,20(3): 646-653.[唐宇，邵继荣，周美亮,2019.中国荞麦属植物分类学 的修订[J]．植物遗传资源学报,20(3):646-653.]   
+THWE AA, KIM YJ, LI XH, et al., 2014. Accumulation of phenylpropanoids and correlated gene expression in hairy roots of tartary buckwheat under light and dark conditions [J]. Appl Biochem Biotechnol, 174(7): 2537-2547.   
+TSURUNAGA Y, TAKAHASHI T, KATSUBE T, et al.,2013. Effects of UV-B irradiation on the levels of anthocyanin, rutin and radical scavenging activity of buckwheat sprouts [J]. Food Chem,141(1): 552-556.   
+WAN Y, XIANG DB, ZENG XL, et al., 2O16. Salt stress influence on yield of tartary buckwheat sprouts and flavonoids content [J]. Sci Tech Food Ind,37(7): 328-332.[万燕，向达兵，曾雪玲, 等，2016．盐胁迫对苦荞麦芽菜产量及黄酮含量的影响 [J]．食品工业科技，37(7): 328-332.]   
+WANG B,HU H, 2013. Flavonoids from tartary buckwheat seeds [J]. Asian J Chem, 25(4): 2012-2014.   
+WANG JQ, 2OO9. Studies on the chemical constituents of tartary buckwheat and the structural modification of quercetin [D]. Shenyang: Shenyang Pharma University: 1-52.[汪嘉庆,2009. 苦荞麦的化学成分研究及槲皮素的结构修饰 [D].沈阳:沈阳药科大学:1-52.]   
+WANG K, ZHANG Y， YANG C, 2005. Antioxidant phenolic constituents from Fagopyrum dibotrys [J]. JEthnopharm, 99(2): 259-264.   
+WANG LB, SHAO M, GAO HY, et al., 2005. Study on bacteriostasis of Fagopyrum cymosum Meisn [J].Chin JMicroecol,5(17):330-331.[王立波，邵萌，高慧媛，等,2005．金荞麦抗菌 活性研究 [J]．中国微生态学杂志,5(17):330-331.]   
+WANG PJ, GAO JF, SU W, et al., 2O13. Influence of culture condition on callus growth and flavonoids biosynthesis of buckwheat [J].JNucl Agric Sci, 27(5): 591-597.[王鹏姬，高金锋, 苏旺，等，2013．培养条件对荞麦愈伤组织生长及黄酮合成的影响 [J]．核农学报，27(5): 591-597.]
+
+WANG YF, CHEN XY,HAN SY,et al.，2OO4.Experimental study on total flavones from buckwheat leaf in fighting pain and inflammation [J]. Shanghai J Trad Chin Med, 38(11): 54-55.[王元福，陈晓玉，韩淑英，等,2004．甜荞麦叶总黄酮镇痛抗炎作用的实验研究[J]. 上海中医药杂志,38(11): 54-55.]
+
+WATANABE M， 1998. Catechins as antioxidants from buckwheat (Fagopyrum esculentum Moench) groats [J]. J Agric Food Chem, 46(3): 839-845.
+
+WATANABE M, OHSHITA Y, TSUSHIDA T, 1997. Antioxidant compounds from buckwheat (Fagopyrum esculentum Moench) hulls [J]. J Agric Food Chem, 45(4): 1039-1044.
+
+WEI JX, CAO SM, LIANG NJ,et al., 1990. Studies on the chemical constituents of buckwheat bee pollen [J].Chin JTrad Chin Med Pharm,15(5):37-39.[魏均娴，曹树明，梁宁珈，等, 1990.荞麦蜂花粉的化学成分研究 [J].中国中医药杂志,15(5):37-39.]   
+WEN D, SHI YH, ZHAO RUI, et al., 2019. MYB transcription factors in Fagopyrum tataricum [J].ChinJExp Trad Med Form，25(6):227-234.[温东，师玉华，赵锐，等，2019．苦荞 MYB 家族转录因子研究进展 [J]．中国实验方剂学杂志,25(6):227-234.]   
+WICZKOWSKI W, SZAWARA-NOWAK D, DEZBSKI H, et al., 2014. Comparison of flavonoids profile in sprouts of common buckwheat cultivars and wild tartary buckwheat [J]. Int J Food Sci Tech, 49(9): 1977-1984.   
+WU HZ, ZHOU JY, PAN HL, 2OO8. Study on chemical constituents of Fagopyrum dibotrys (D. Don) Hara[J].Chin JHosp Pharm,28(21):1829-1831.[吴和珍，周洁云，潘宏林,2008．金荞 麦化学成分的研究 [J].中国医院药学杂志,28(21):1829-1831.]   
+WU YQ， SUN BH, HUANG J,et al., 2007. A new flavonoids glycoside from the seeds of Fagopyrum tataricum [J]. Asian J Trad Med, 2(5): 202-205.   
+XIANG DB,PENG LX, ZHAO G, et al., 2013. Research progress on cultivation in buckwheat [J]. Crops，(3):1-6.[向达兵，彭镰心，赵钢，等，2013．荞麦栽培研究进展[J].作物杂志，(3): 1-6.]   
+YAN C, GUO J, ZHANG ML, 2015. Research progress of flavonoids in buckwheat [J]. Food Nutr Chin,21(2):65-69.[闫超，郭军，张美莉,2015.荞麦中黄酮类化合物研究进展[J]．中国食 物与营养,21(2): 65-69.]   
+YAO P, ZHAO H, LUO X, et al., 2017. Fagopyrum tataricum FtWD40 functions as a positive regulator of anthocyanin biosynthesis in transgenic tobacco [J]. JPlant Growth Regul, 36 (3): 755-765.   
+YONEKURA-SAKAKIBARA K, HIGASHI Y，NAKABAYASHI R,2019. The origin and evolution of plant flavonoid metabolism [J]. Front Plant Sci,10: 1-16.   
+YU S,LI G, CHEN QF, 2012. SWOT analysis on the development of buckwheat seed industry in China [J].Seed,31(3):84-87.[余霜，李光，陈庆富,2012．中国荞麦种业发展的SWOT分析 [J]．种子,31(3): 84-87.]   
+ZHANG D, JIANG C, HUANG C, et al., 2019. Light-induced transcription factor FtMYB116 promotes accumulation of rutin in Fagopyrum tataricum [J]. Plant Cell Environ, 42(4):1340-1351.   
+ZHANG J, KUANG Y, LIU L, et al., 2016. Chemical constituents from root tubers of Fagopyrum dibotrys [J].Chin Trad Herb Drugs,47(5): 722-725.[张京，况燚，刘力，等,2016.金荞麦块 根化学成分的研究[J]．中草药,47(5):722-725.]   
+ZHANG J, YIN ZQ, CAO P, et al., 2008. A new flavonol derivative from Fagopyrum dibotrys [J].
+
+Chem Nat Comp, 44(6): 701-703.
+
+ZHANG K, LOGACHEVA MD,MENG Y, et al.， 2018. Jasmonate-responsive MYB factors spatially repress rutin biosynthesis in Fagopyrum tataricum [J]. JExp Bot, 69(8): 1955-1966.   
+ZHANG LJ, LI XX, MA B, et al., 2O17. Tartary buckwheat genome provides insights into rutin biosynthesis and abiotic stress tolerance [J]. Mol Plant, 10(9): 1224-1237.   
+ZHANG WJ, LI XC,LIU YQ, et al.，1994. Phenolic constituents from Fagopyrum dibotrys [J]. Acta Bot Yunan,16(4):354-356.[张雯洁，李兴从，刘玉青等,1994．威麦宁的酚性成分[J]. 云南植物研究,16(4):354-356.]   
+ZHANG ZL, ZHOU ML, TANG Y,et al., 2012. Bioactive compounds in functional buckwheat food [J]. Food Res Int, 49(1): 389-395.   
+ZHAO G, TAN ML,WAN Y, et al., 2015. Effects of different plant growth regulator treatments and the yield and quality of tartarian buckwheat [J]. Acta Agric Shanghai, 31(5): 79-82.[赵钢, 谭茂玲，万燕，等，2015．不同植物生长调节剂处理对苦荞产量和品质的影响 [J]．上海农 业学报,31(5):79-82.]   
+ZHAO G, ZHAO JL,PENG LX, et al.， 2012. Efects of yeast polysaccharide on growth and flavonoid accumulation in Fagopyrum tataricum sprout cultures [J]. Molecules, 17(10): 11335-11345.   
+ZHAO HX, WU XF, BAI YC, et al., 2012. Gene expression analysis of key enzymes and MYB transcription factors in flavonoid biosynthesis pathway during germination of Fagopyrum tartaricum[J].JAgric Biotechnol,20(2):121-128.[赵海霞，吴小峰，白悦辰，等,2012．苦荞 芽期黄酮合成关键酶和 MYB 转录因子基因的表达分析 [J]．农业生物技术学报，20(2): 121-128.]   
+ZHAO JL, ZOU L, ZHONG LY, et al., 2015. Effects of polysaccharide elicitors from endophytic Bionectria pityrodes Fat6 on the growth and flavonoid production in tartary buckwheat sprout cultures [J]. Cereal Res Comm, 43 (4): 661-671.   
+ZHAO LQ, ZHANG XP, ZHANG CF, 2011. Fractionation and identification of ethyl ecetate extract from rhizoma Fagopyri cymosi [J].Food Sci,32(19):16-22.[赵利琴，张小平，张朝凤, 2011．金荞麦乙酸乙酯萃取物化学成分的分离鉴定 [J].食品科学,32(19):16-22.]   
+ZHAO ZY, PIAO CH,WANG YH, et al.， 2018. Isolation and anti-diabetic activity in vitro of flavonoids from buckwheat hull [J].Food Sci,39(3):21-27.[赵梓瀛，朴春红，王玉华，等, 2018.荞麦壳提取物有效组分的分离及体外抗糖尿病活性 [J]．食品科学,39(3):21-27.]   
+ZHONG LY, NIU B,TANG L, et al., 2016. Effects of polysaccharide elicitors from endophytic Fusarium oxysporum Fat9 on the growth, flavonoid accumulation and antioxidant property of Fagopyrum tataricum sprout cultures [J]. Molecules, 21(12): 1590. Fagopyrum cymosum meisn   
+ZHOU M, SUN Z, DING M et al., 2017. FtSAD2 and FtJAZ1 regulate activity of the FtMYB11 transcription repressor of the phenylpropanoid pathway in Fagopyrum tataricum [J]. New Phytol, 216(3): 814-828.

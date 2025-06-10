@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "典型草原禁牧条件下土壤水分对降雨模式的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐冉¹，张圣微1,2,3， 朱仲元}²，张鹏¹，高露¹（1．内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特010018；2．内蒙古自治区水资源保护与利用重点实验室,内蒙古 呼和浩特010018；3．内蒙古自治区农牧业大数据研究与应用重点实验室，内蒙古 呼和浩特010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过在锡林郭勒草原设置禁牧和放牧试验点,对气象、植被、土壤要素和 $5 \\ \\mathrm { c m } \\ . 1 0 \\ \\mathrm { c m } \\ . 1 5 \\ \\mathrm { c m } \\ . 3 0 \\ \\mathrm { c m }$ 层土壤水分进行监测分析,揭示典型草原禁牧条件下降雨和土壤水分的变化及转化规律,结果表明:禁牧3a后土壤垂向异质性增强,降雨过程中各土层土壤含水量差异显著,放牧区则相反;土壤水分对降雨响应的滞后时间随土层深度增加而增加，相对于禁牧区，放牧区浅层土壤( $5 \\ \\mathrm { c m } \\setminus 1 0 \\ \\mathrm { c m } )$ 持水性能较弱，入渗完成用时较短； $5 \\ \\mathrm { m m }$ 以下的降雨对禁牧和放牧区土壤水分均无明显补给作用，当降雨连续均匀且强度不超过 $5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 时最有利于入渗,放牧区入渗深度达到 $1 5 \\ \\mathrm { c m }$ 和 $3 0 \\ \\mathrm { c m }$ 层分别需要 $7 . 9 \\ \\mathrm { m m }$ 和大于 $2 5 ~ \\mathrm { m m }$ 的降雨，而禁牧区大于 $5 ~ \\mathrm { m m }$ 的降雨就可以入渗到30cm 土层;强度 $5 \\sim 6 \\ \\mathrm { m m } \\cdot \\mathrm { \\ln ^ { - 1 } }$ 的独立降雨只能入渗到表层土壤中( $\\mathrm { 5 ~ c m } \\mathrm { \\dot { \\Omega } }$ ，强度大于 $1 5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的降雨在禁牧区能通过大孔隙快速入渗到 $3 0 \\ \\mathrm { c m }$ 及更深层土壤，放牧区则表层入渗较快( $0 \\sim 5 ~ \\mathrm { c m } ^ { \\cdot }$ ，深层入渗较慢，会形成地表径流甚至洪水灾害。该研究的结果可以为草地生态水文过程研究和制定合理的放牧政策提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：锡林郭勒草原；降雨模式；土壤含水量；降雨入渗；内蒙古",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国是世界上草原资源最丰富的国家之一，草原总面积将近 $4 \\times 1 0 ^ { 8 } ~ \\mathrm { h m } ^ { 2 }$ ，占全国土地总面积的$40 \\%$ ，为现有耕地面积的3倍，是陆地生态系统的重要组成部分(1。干旱半干旱地区降水较少,木本植物无法得到广泛发展,草原成为这些地区的主要组成部分[2],也是最大的绿色保护屏障,养育着成千上万的游牧民族。但过度开垦和放牧使草原退化严重[3],自恢复弹性降低[4],我国 $9 0 \\%$ 的可利用天然草原存在不同程度的退化，就内蒙古草原草地而言，这个比例已超过 $70 \\%$ 。草原荒漠化面积不断增加，生态环境持续恶化，这不仅制约着草原畜牧业发展，影响农牧民收入，而且直接威胁到国家生态安全[5]。干旱半干旱地区草地生态系统主要受少且多变的降雨和放牧影响[6,虽然多年来人们对于不同降水模式以及放牧对草地生态系统的影响进行了大量研究[],但是这些研究多是在一天或者更长的时间尺度上进行，易忽略小降雨、强降雨事件引起的微小或迅速的土壤水分含量变化，在小时尺度上开展的相关研究能有效弥补这种不足，但研究还不够完善，降雨模式和放牧对于草地生态系统结构和功能以及水文过程的联合效应或交互作用的认识还非常缺乏，特别是同时考虑了降水和放牧对草地生态系统水文过程的影响研究[8]。因此,研究草原土壤水分在禁放牧条件下对降雨的响应，对了解和预测水文过程及植被恢复与建设发挥着重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文选择内蒙古锡林郭勒盟西乌珠穆沁旗的巴拉格尔河流域为研究区，这里具有草原生物群落的基本特征，能够全面反映典型草原生态系统的结构和生态过程，在草原生物多样性的保护方面占有重要位置,并具有明显的国际影响[9。本文使用小时数据来研究不同土层土壤水分对降雨模式在时间和空间上的响应特征，并将试验站划分为禁牧与放牧2个区域，在自然变化过程中又考虑了人为因素，旨在深人了解草原生态系统水文过程，探讨放牧对草原水循环过程的影响，为治理草原沙化和防治水土流失奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西乌珠穆沁旗位于锡林郭勒盟东部，地处中纬度内陆地区，属中温带干旱半干旱大陆性气候，大部分地区年降水量 $2 0 0 \\sim 3 0 0 ~ \\mathrm { m m }$ ，自东向西递减。禁牧与放牧区为同一片地势平坦的草场，土壤质地、植被类型及地形特征相似，试验地旱生丛生禾草居多，代表性优质牧草有大针茅（Stipagrandis）、羊草（Leymuschinensis）黄囊草（Carexkorshinskyi）等，禁牧与放牧区群落组成基本一致,羊草、大针茅、黄囊臺草、糙隐子草（Cleistogenessquarrosa）数量之和占 $70 \\%$ 以上，主要伴生种有狼毒（Stellerachamaejas-me）乳白花黄芪(Astragalusgalactites）等,放牧区植被盖度、地上生物量及植被高度较小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自2013年1月开始，在原有的放牧地基础上通过围栏围封，排除牲畜啃食和践踏，形成 $2 0 0 \\mathrm { ~ m ~ } \\times \\mathrm { ~ }$ $2 0 0 \\mathrm { ~ m ~ }$ 禁牧区，放牧区则不做处理，保持自然放牧状态，在2个试验区各安置一套美国Campbell公司生产的自动气象站，分别在深度 $5 \\ \\mathrm { c m } \\cdot 1 0 \\ \\mathrm { c m } \\cdot 1 5 \\ \\mathrm { c m } \\cdot 3 0$ cm 土壤剖面处安装土壤水分传感器，开展4层土壤水分(CS616)观测，土壤水分数据每 $1 5 \\ \\mathrm { m i n } \\lrcorner 1 \\ \\mathrm { h } \\lrcorner 1$ d各输出1次;空气温湿度（CSL2Temperatureand RHProbe），降雨(TE525MM)等气象参数每 $1 5 ~ \\mathrm { m i n }$ 输出一次。气象站相距 $1 ~ \\mathrm { k m }$ 左右，具有相同的气象条件，研究所用数据均由自动气象站获得。每月最后一天进行生态调查，在禁牧与放牧区的水分传感器周围呈 $9 0 ^ { \\circ }$ 夹角随机选取4个 $1 \\mathrm { ~ m ~ } \\times 1 \\mathrm { ~ m ~ }$ 的草本样方，样方没有重复，采样时段为牧草的生长周期,2013—2015年5—10月底。牧草采样完成后，在样方内钻取土壤,测量土壤的理化性质，如干容重、孔隙率、饱和导水率等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据及数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据包括：气温、相对湿度、降雨量和风速。土壤水分数据包括 $5 \\ \\mathrm { c m } \\cdot 1 0 \\ \\mathrm { c m } \\cdot 1 5 \\ \\mathrm { c m }$ 和 $3 0 \\ \\mathrm { c m }$ 层土壤体积含水率，试验期间，每月1日和15日钻取传感器周边不同方位土壤测量含水率及干容重、孔隙率、饱和导水率等理化性质（每年12月到次年3月为西乌旗冻土时期，因此取土时间为5—11月），将实测土壤含水率与气象站监测数据进行对比。2014年和2015年5—11月监测数据与实测数据的关系如图1所示。禁牧区 $R ^ { 2 }$ 为0.8472，放牧区为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "30 禁牧区y=0.828 6x+1.8935 R²=0.8472,P<0.01 △放牧区y=1.126 5x-1.0931 R²=0.8678,P<0.01 %/ 25 女 20 品 ☆ 15 会 10 5 0 5 10 15 20 25 30 实测土壤含水率/% ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 8 6 7 ~ 8 , P$ 均小于0.01，证明监测数据较为准确，可以代表周边土壤水分状况。研究所用数据为2015年一整年的气象、土壤水分和生物量数据。本研究中统计分析由 SPSS software 完成,运用 one-wayANONA检验土壤含水率差异性，交差相关分析使用R语言完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤理化性质及生物量特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤类型为暗栗钙土，是锡林郭勒草原的主要土壤类型。围封初期禁牧区与放牧区土壤的理化性质极其相似， $1 0 \\ \\mathrm { c m } \\cdot 1 5 \\ \\mathrm { c m }$ 层土壤的干容重、孔隙率、饱和导水率等性质差异很小，试验进行3a后，禁牧区 $1 0 \\ \\mathrm { c m }$ 和 $1 5 \\ \\mathrm { c m }$ 层土壤性质的差异性增大，浅层土壤( $5 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ )有机质含量显著提升，总孔隙率增加，土壤结构变得较松散，干容重减小,饱和导水率增大，而放牧区的变化趋势与禁牧区相反，各土层理化性质差异性进一步减小。禁牧区地上生物量是放牧区的2\\~3倍， $0 \\sim 1 5 ~ \\mathrm { c m }$ 的地下生物量是放牧区的 $1 . 5 \\sim 2 . 5$ 倍， $3 0 \\ \\mathrm { c m }$ 土层的根系分布远远少于 $0 \\sim 1 5 ~ \\mathrm { c m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤水分对降雨响应的滞后效应",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将4层土壤水分与降雨分别进行交叉相关分析（2个变量的时间序列之间同时及非同时的相关），横坐标代表滞后时间，1个单位代表数据中的 $^ \\mathrm { ~ 1 ~ h ~ }$ ，纵坐标代表自相关系数。由图2可知，降雨和土壤水分的相关性达到最大值（自相关系数达到峰值)所用时间随土层深度的增加而增加，禁牧区 $5 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ 土层达到峰值所用时间和较大值的维持时间较长;禁牧区 $1 5 \\ \\mathrm { c m }$ 土层自相关系数呈双峰曲线，而放牧区是单峰曲线； $3 0 \\ \\mathrm { c m }$ 层则与其余3层的特征相反，放牧区自相关系数达到峰值的用时比禁牧",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/06f84d4607c9c43f80e8b3b65a6fc21273e72a8e332f2c7d8e2b91be3663b51e.jpg",
+        "img_caption": [
+            "图2土壤水分对降雨响应的滞后时间"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：(a)为放牧区;(b)为禁牧区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区长很多。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤水分对降雨模式的响应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1降雨模式单独1d或连续阴雨天的降雨看作一次降雨事件。2015 年总降雨量 $2 8 5 . 8 ~ \\mathrm { m m }$ ，次数最多的是小于 $5 \\ \\mathrm { m m }$ 的降雨事件，共21次，占总次数的 $5 6 . 8 \\%$ 。降雨总量 $3 0 . 6 \\ \\mathrm { m m }$ ,只占全年的$1 0 . 6 \\%$ ,降雨量最多的是 $2 5 \\sim 3 0 ~ \\mathrm { \\ m m }$ 的降雨事件，次数2次，降雨总量 $5 8 . 9 \\ \\mathrm { m m }$ 占全年的 $2 0 . 6 \\%$ 。按降雨量和连续降雨天数可划分为14种不同的降雨模式：降雨量 $0 \\sim 5 ~ \\mathrm { m m }$ 时长 $1 \\ \\mathrm { d } \\ 、 2 \\ \\mathrm { d } \\ 、 4 \\ \\mathrm { d } \\ 、 5 \\ \\mathrm { d }$ 的降雨事件分别为16次、3次、1次、1次： $5 \\sim 1 0 ~ \\mathrm { m m }$ 时长1d的降雨事件4次、时长3d的2次; $1 0 \\sim 1 5 ~ \\mathrm { m m }$ 时长 $2 \\textup { d } , 3 \\textup { d } , 4 \\textup { d }$ 的降雨事件各1次； $1 5 \\sim 2 0 ~ \\mathrm { m m }$ 时长$3 \\mathrm { ~ d ~ }$ 的3次； $2 0 \\sim 2 5 ~ \\mathrm { m m }$ 时长4d的降雨事件1次;$2 5 \\sim 3 0 ~ \\mathrm { m m }$ 时长 $4 \\textup { d } , 5 \\textup { d }$ 的各1次； $3 5 \\sim 4 0 ~ \\mathrm { m m }$ 时长$5 \\mathrm { ~ d ~ }$ 的降雨事件1次（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2不同降雨模式下土壤水分的剖面分布将不同降雨模式下对应的土壤水分作差异性分析，没有显著差异的土层划分为相同子类，分析结果如图4所示。结果表明：在连续没有降雨的51d内，放牧和禁牧区各土层之间土壤水分差异性显著，放牧区几乎在所有降雨模式下都有2层或2层以上含水量为相同子类，并随着连续降雨天数的增加，土壤水分大小相似的土层深度在往下运移，只有 $1 5 \\sim 2 0$ $\\mathbf { m } \\mathbf { m } \\ 3 \\ \\mathrm { d }$ 和 $2 5 \\sim 3 0 \\ \\mathrm { m m } 4 \\ \\mathrm { d }$ 这2种降雨模式例外；禁牧区差异性表现出的规律相反，几乎所有的降雨模式下各层土壤水分都有显著差异，除 $1 5 \\sim 2 0 \\ \\mathrm { m m } \\ 3 \\ \\mathrm { d }$ 和 $2 5 \\sim 3 0 \\ \\mathrm { m m } \\ 4 \\ \\mathrm { d }$ 这2种降雨模式下 $5 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ 层土壤水分达到相似状态，这2种降雨模式中都包含 $^ { 4 \\mathrm { ~ h ~ } }$ 内累积降雨量 $> 1 0 \\ \\mathrm { m m }$ 的连续降雨，其中包括强度超过 $5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的大降雨。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfcfe47688c667e8d137e258bb19d30240fc5e72d12b8df97ee9ed6d83ecb12f.jpg",
+        "img_caption": [
+            "Fig.2Lag time of soil moisture response to rainfall ",
+            "图3降雨事件分布特征 Fig.3Distribution of the rainfall events "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤水分对降雨事件的响应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.1降雨中的土壤水分变化从每种降雨模式中选择1场降雨，每场降雨的降雨量、降雨时长、降雨强度、平均降雨间隔(降雨之间无降雨时长)如表1所示，禁牧区与放牧区相同。令 $a _ { 0 }$ 为降雨前 $^ \\mathrm { ~ 1 ~ h ~ }$ 的土壤体积含水率; $\\boldsymbol { a } _ { 1 }$ 为降雨开始后第1h的土壤",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8058f07f328d9e246e23a0c49443b2fbfc703a42ebd1f2d39279352a352fe97e.jpg",
+        "img_caption": [
+            "注：不同小写字母表示在0.05水平上存在显著差异。",
+            "图4降雨模式对应土壤水分剖面分布",
+            "Fig.4Effect of precipitation patterns on the distribution of soil moisture profiles "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1降雨事件特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d194f2763f1c02d73acf2196340e9aa47b2026656212ab075ca95ef4e990a84.jpg",
+        "table_caption": [
+            "Tab.1 Characteristics of the rainfall events "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">降雨模式</td><td rowspan=\"2\">降雨量 /mm</td><td rowspan=\"2\">降雨时长 /h</td><td rowspan=\"2\">降雨强度 /(mm·h-1)</td><td rowspan=\"2\">平均降雨 间隔/h</td></tr><tr><td>降雨量 /mm</td><td>降雨时间 /d</td></tr><tr><td>0~5</td><td>1</td><td>0.9</td><td>3</td><td>0.3</td><td>2</td></tr><tr><td rowspan=\"7\"></td><td>2</td><td>5.0</td><td>12</td><td>0.4</td><td>5</td></tr><tr><td>4</td><td>4.7</td><td>19</td><td>0.2</td><td>9</td></tr><tr><td>5</td><td>1.8</td><td>11</td><td>0.2</td><td>16</td></tr><tr><td>1</td><td>9.0</td><td>4</td><td>2.3</td><td>2</td></tr><tr><td>3</td><td>7.9</td><td>19</td><td>0.4</td><td>11</td></tr><tr><td>2</td><td>13.4</td><td>9</td><td>1.5</td><td>9</td></tr><tr><td>3</td><td>14.1</td><td>28</td><td>0.5</td><td>4</td></tr><tr><td></td><td>4</td><td>11.8</td><td>10</td><td>1.2</td><td>13</td></tr><tr><td>15~20</td><td>3</td><td>16.7</td><td>9</td><td>1.9</td><td>9</td></tr><tr><td>20~25</td><td>4</td><td>22.0</td><td>22</td><td>1.0</td><td>10</td></tr><tr><td>25~30</td><td>4</td><td>29.4</td><td>13</td><td>2.3</td><td>14</td></tr><tr><td></td><td>5</td><td>29.5</td><td>21</td><td>1.4</td><td>8</td></tr><tr><td>35~40</td><td>5</td><td>36.8</td><td>28</td><td>1.3</td><td>9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "体积含水率； $a _ { 2 }$ 为第 $^ { 2 \\mathrm { ~ h ~ } }$ 的土壤体积含水率；以此类推， $n$ 为降雨事件持续时间，则土壤水分的累积变化量为： $\\begin{array} { r } { \\sum _ { i = 1 } ^ { n } \\big ( a _ { i } - a _ { i - 1 } \\big ) ^ { [ 1 0 ] } } \\end{array}$ 。结果显示： $\\cdot 5 \\ \\mathrm { m m }$ 以下的降雨不会使土壤含水量明显增加，当连续降雨时间达到5d时，反而会引起土壤水分小幅度减小;降雨量 ${ \\geqslant } 5 \\ \\mathrm { m m }$ 的降雨事件中，虽然某些土层的变化量为负值，但 $0 \\sim 3 0 ~ \\mathrm { c m }$ 的累积变化量为正值； $0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤含水率累积变化量随降雨量增加而增加，随土层深度增加而减小;降雨入渗深度达到 $1 5 \\ \\mathrm { c m }$ 时，放牧区所需降雨量为 $7 . 9 \\ \\mathrm { m m }$ ,而禁牧区只需 $4 . 7 ~ \\mathrm { m m }$ ：当强度不超过 $5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 分布较均匀连续的小降雨累积达到 $1 0 \\sim 1 5 ~ \\mathrm { m m }$ 时,禁牧区 $3 0 \\ \\mathrm { c m }$ 层土壤水分明显增加，放牧区 $3 0 \\ \\mathrm { c m }$ 土层只在降雨量 $> 3 5 \\ \\mathrm { m m }$ 的降雨事件中明显增加（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将土壤水分累积变化量与降雨特征参数作相关性分析，结果如表3所示。相关性最显著的是降雨量，禁牧区 $5 \\ \\mathrm { c m }$ 和 $1 0 \\ \\mathrm { c m }$ 土层与降雨量显著相关,放牧区除 $1 5 \\ \\mathrm { c m }$ 土层是显著相关外,其余3层都是极显著相关；两处试验点 $1 0 \\ \\mathrm { c m }$ 土层都与降雨时长显著相关，降雨强度、降雨间隔影响不显著；放牧区$3 0 \\ \\mathrm { c m }$ 土层和禁牧区 $1 5 \\ \\mathrm { c m }$ 和 $3 0 \\ \\mathrm { c m }$ 土层与降雨间隔的相关系数为负值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2降雨后土壤水分动态分析研究上述14 场降雨前 $^ { \\mathrm { ~ 1 ~ h ~ } }$ 和降雨事件后 $2 4 \\mathrm { ~ h ~ }$ 土壤水分的变化特征（图5），结果表明：随着降雨量增加，土壤含水量变化幅度增加， $2 5 \\sim 3 0 \\ \\mathrm { m m } \\ 5 \\ \\mathrm { d }$ 的降雨事件除外,这场降雨包含了强度为 $1 6 . 7 ~ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的特大降雨;降雨量 $< 5 \\ \\mathrm { m m }$ 时，最大入渗深度是 $5 \\ \\mathrm { c m }$ ,大于 $5 \\ \\mathrm { m m }$ 的降雨在土壤中储存的时间超过 $2 4 \\ \\mathrm { h } ; 3 0 \\ \\mathrm { c m }$ 层土壤水分达到峰值多是在雨后 $2 4 \\mathrm { ~ h ~ }$ ，说明降水入渗到30cm 层所需时间一定不少于 $1 2 \\mathrm { ~ h ~ }$ ;放牧区 $3 0 \\ \\mathrm { c m }$ 层土壤水分在累积降雨量最大的降雨事件后，变化最明显，随时间延长，增幅逐渐减小，说明 $3 0 \\ \\mathrm { m m }$ 以上的降雨才能补给 $3 0 \\mathrm { c m }$ 土层及更深层的土壤水分；禁",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2土壤水分累积变化量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/de42b059d835eaa446d416e6275ea61568f8a3e4475db47776ef437b30a7d92e.jpg",
+        "table_caption": [
+            "Tab.2 Variation of soil moisture accumulation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">降雨模式</td><td colspan=\"4\">禁牧区土层深度/cm</td><td colspan=\"4\">放牧区土层深度/cm</td></tr><tr><td>降水量/mm</td><td>降雨时间/d</td><td>5</td><td>10</td><td>15</td><td>30</td><td>5</td><td>10</td><td>15</td><td>30</td></tr><tr><td>0~5</td><td>1</td><td>-1.1</td><td>-0.6</td><td>0.0</td><td>0.1</td><td>-0.1</td><td>-0.1</td><td>0.0</td><td>0.0</td></tr><tr><td></td><td>2</td><td>3.0</td><td>2.1</td><td>1.3</td><td>0.0</td><td>3.3</td><td>1.9</td><td>-1.3</td><td>-0.5</td></tr><tr><td></td><td>4</td><td>0.8</td><td>0.2</td><td>0.3</td><td>0.1</td><td>0.2</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td></td><td>5</td><td>-1.1</td><td>-0.7</td><td>-0.9</td><td>-1.2</td><td>-0.6</td><td>-0.6</td><td>-0.6</td><td>-1.0</td></tr><tr><td>5~10</td><td>1</td><td>0.6</td><td>0.1</td><td>0.0</td><td>0.0</td><td>1.7</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td></td><td>3</td><td>7.4</td><td>7.4</td><td>5.0</td><td>-0.2</td><td>7.7</td><td>5.9</td><td>2.5</td><td>0.0</td></tr><tr><td>10~15</td><td>2</td><td>5.5</td><td>6.7</td><td>4.2</td><td>3.3</td><td>5.2</td><td>4.0</td><td>1.9</td><td>0.0</td></tr><tr><td></td><td>3</td><td>7.5</td><td>6.4</td><td>5.3</td><td>2.8</td><td>6.8</td><td>3.8</td><td>-1.0</td><td>-0.9</td></tr><tr><td></td><td>4</td><td>7.2</td><td>-0.3</td><td>-1.1</td><td>-0.7</td><td>6.1</td><td>0.0</td><td>-0.2</td><td>-0.6</td></tr><tr><td>15~20</td><td>3</td><td>9.7</td><td>7.7</td><td>0.4</td><td>0.1</td><td>10.5</td><td>1.5</td><td>0.0</td><td>0.1</td></tr><tr><td>20~25</td><td>4</td><td>8.8</td><td>10.3</td><td>5.3</td><td>0.1</td><td>8.6</td><td>8.3</td><td>8.3</td><td>0.0</td></tr><tr><td>25~30</td><td>4</td><td>9.6</td><td>8.7</td><td>2.2</td><td>-0.1</td><td>10.3</td><td>7.7</td><td>1.4</td><td>0.1</td></tr><tr><td></td><td>5</td><td>2.7</td><td>2.2</td><td>0.5</td><td>-0.1</td><td>3.0</td><td>1.6</td><td>0.7</td><td>0.8</td></tr><tr><td>35~40</td><td>5</td><td>8.3</td><td>8.6</td><td>6.1</td><td>6.2</td><td>11.6</td><td>9.6</td><td>8.2</td><td>4.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "牧区 $5 \\ \\mathrm { m m }$ 以上的降雨都可能引起 $3 0 \\ \\mathrm { c m }$ 土层土壤水分的增加，变化最明显的也是在累积降雨量最大的降雨事件后，含水量在降雨后 $^ \\mathrm { ~ 1 ~ h ~ }$ 达到最大值，随时间逐渐减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究土壤水分对降雨模式的响应特征，挑选入渗深度只有 $5 \\ \\mathrm { c m } \\left( 5 \\sim 1 0 \\ \\mathrm { m m } \\ 1 \\ \\mathrm { d } \\lrcorner 1 0 \\sim 1 5 \\right.$ $\\mathrm { m m } 4 \\mathrm { ~ d ~ }$ ）、累积降雨 $2 9 . 5 \\ \\mathrm { m m }$ 土壤水分却没有明显增加的降雨( $2 5 \\sim 3 0 ~ \\mathrm { m m } 5 ~ \\mathrm { d }$ ），与同等水平的降雨事件相比较，可以看出：少于 $2 ~ \\mathrm { m m }$ 的降雨会被迅速蒸散，不会发生入渗，对土壤水分没有影响。强度 $5 \\sim$ $6 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的独立降雨事件只能引起表层( $( 5 ~ \\mathrm { c m } )$ 土壤水分增加;禁牧区土壤没有动物踩踏压实，孔隙率较大;强度超过 $1 5 ~ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 的大降雨事件能在极短时间内(1h)入渗到 $3 0 \\ \\mathrm { c m }$ 土层,而放牧区大孔隙和中等孔隙被压实，入渗阻力较大，只能快速入渗到土壤表层( $5 ~ \\mathrm { c m } )$ ，其余土层入渗缓慢，会发生地表径流； $5 \\mathrm { ~ h ~ }$ 内降雨量 $> 5 \\ \\mathrm { m m }$ 才能补充土壤水分(图6）。降雨入渗分为初渗和稳渗阶段[1],前者受分子力、毛管力、重力作用，与降雨强度、土壤孔隙度和土壤颗粒大小等息息相关，入渗强度较大，随时间推移，强度逐渐减弱，后者只受重力作用，入渗强度最小[9],禁牧能提高土壤孔隙度和水分渗透性能[12]进而提高土壤水分转化率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "西乌珠穆沁旗降雨主要分布在6月、7月、8月、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9月和10月，这期间降雨量占全年的 $90 \\%$ 以上，其余月份多为 $< 2 ~ \\mathrm { m m }$ 的独立降雨事件或累积雨量少于 $5 \\ \\mathrm { m m }$ 的连续小降雨事件，对土壤水分几乎没有影响[13]。3月中旬到4月底和10月中旬到11月中旬，降雨极少，但土壤水分波动明显，应是受降雪的影响，每年11月中旬到次年的3月中旬，西乌珠穆沁旗处于冻土时期，土壤水分几乎没有波动,因此土壤水分对降雨响应最明显的是每年6一9月。放牧区因为植被覆盖度低，土壤蒸发作用较禁牧区剧烈[14],降雨消耗较多，,入渗到达 $3 0 \\ \\mathrm { c m }$ 土层概率较小，因此 $3 0 \\ \\mathrm { c m }$ 王层土壤含水量除去受融雪影响的10月中旬到11月中旬外，只在降雨最多的6月下旬有明显的波动。禁牧区植被覆盖度较大，对土壤蒸发有一定抑制作用[15],所以5月下旬和6月中旬的连续降雨事件在禁牧区达 $3 0 \\ \\mathrm { c m }$ 王层,却没有引起放牧区 $3 0 \\ \\mathrm { c m }$ 土层土壤含水量的变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "先前学者们对植被作用主要存在2种观点，一是植被冠层及枯枝落叶能减少雨滴溅蚀拦截部分降雨量，减少地表径流，能提高土壤孔隙度和水分渗透性[,从而提高土壤水分含量,有防治水土流失的作用；二是在降雨稀少水资源匮乏的地区，不科学的植被恢复和建设会加剧植被对土壤水分的消耗[17]使土壤含水量低于某些植物生长的特异性阈值，造成植物生长受限或者死亡[18],反而加剧水土流失,从而破坏物种多样性，促进草原沙化。从上述分析可以看出：禁牧提高的生物量并没有引起土壤水分的过度消耗，土壤含水量普遍大于放牧区，合理禁牧",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a)放牧区 土壤体积含水率/% 土壤体积含水率/% 土壤体积含水率 $\\%$ 土壤体积含水率 $\\%$ （2 土壤体积含水率/%” 20 25 1015 505 L 10 15 20 25 15 15 20 25 15 15 20 25 18 5 x 10 15202520 20 20 202525 230 2530Q 30 8 @ 4 30 a35 35 35 35 35(a)0\\~5mm1d (a)0\\~5mm 2d (a)0\\~5mm4d (a)0\\~5mm 5d (a) 5\\~10 mm 1d50510520253055 10 15 20 25 505 10 15 20 25 505 10 15 20 25 5050 10 15 20 25 5051152025305 10 15 20 254 8 4 1 8 1 △II LooxA 10 ? 10A P 15 4 15 15 6 820 20 2025308 2530 Y 2530 8 & D35 35 35(a)5\\~10 mm3d (a)10\\~15 mm 2 d (ag)10\\~15 mm 3d (ag)10\\~15 mm 4d (a0) 15\\~20 mm 3d505101520253055 10 15 20 25 505 10 15 20 25 5051 10 15 20 25 5050 10 15 20 25 4一前1h2/王 ↑ RVX 10 4 18 2 A R9 Y \\* 后1h4 15 15 15 A 后5hn 2025305 8 202533 0 202530 4 后2h35 (a12) 25\\~30 mm 4d 35 后24h(a) 20\\~25 mm 4d (a13) 25\\~30 mm 5d (a4) 35\\~40 mm 5d  \n(b)禁牧区 土壤体积含水率/% 土壤体积含水率/% 土壤体积含水率/% 土壤体积含水率% 土壤体积含水率/%5 15 25 35 5 15 25 35 5 15 25 35 5 15 25 35 5 15 25 3505 0 0 0 1 0J 51 51 1 51 1 51 长15 R 15 今 15 Q 15 1520 20 20 20 2025 25 25 25 2530 n 30 30 d 30 ? 30 血35 35 35 35 35(b)0\\~5 mm1d (b2)0\\~5 mm2d (b)0\\~5 mm 4d (b4) 0\\~5 mm5d (b)5\\~10 mm 1d5 15 25 35 5 15 25 35 5 15 25 35 5 15 25 35 5 15 25 3505 0 0 0 0/ 10 10 5 4 C 10 5 A A i 10 5 1 10 5 4 o1915 ￥ 15 15 A 15 1520 20 20 20 2025 25 25 25 25土30 30 30 A 30 30 535 35 35 35 35(b) 5\\~10 mm 3 d (b)10\\~15 mm 2 d (bg)10\\~15 mm 3 d (bg)10\\~15 mm 4d (b10)15\\~20 mm 3d5 15 25 35 5 15 25 35 5 15 25 35 5 15 25 3505 0 0 0 △前1h10 ΛI 发 10 5 I 品 10 5 A 10 5 I b \\*后1h15 A 15 15 15 后5h20 20 20 20 后8h25 25 25 25 o1 后12h土 30 8 30 8 30 d 3035 35 35 35 后24h(b) 20\\~25 mm 4d (b12)25\\~30 mm 4d (b13)25\\~30 mm 5 d (b)35\\~40 mm5d",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/110351b8f72d243fd9f0176c52a9ee72c300ab900d8adbd6aabbc6fce034a637.jpg",
+        "table_caption": [
+            "表3土壤水分累积变化量与降雨模式参数的相关系数",
+            "Tab.3Correlation coeficients between the variation of soil moisture content and rainfall paramete "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示 $P < 0 . 0 5$ ： $* *$ 表示 $P < 0 . 0 1$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>测区</td><td>土层深度 /cm</td><td>降雨量</td><td>降雨 时长</td><td>降雨 强度</td><td>降雨 间隔</td><td>测区</td><td>土层深度 /cm</td><td>降雨量</td><td>降雨 时长</td><td>降雨 强度</td><td>降雨 间隔</td></tr><tr><td>禁牧区</td><td>5</td><td>0.654 *</td><td>0.481</td><td>0.390</td><td>0.322</td><td>放牧区</td><td>5</td><td>0.718 **</td><td>0.473</td><td>0.445</td><td>0.280</td></tr><tr><td></td><td>10</td><td>0.622 *</td><td>0.612 *</td><td>0.178</td><td>0.186</td><td></td><td>10</td><td>0.714 **</td><td>0.620 *</td><td>0.222</td><td>0.222</td></tr><tr><td></td><td>15</td><td>0.419</td><td>0.390</td><td>0.224</td><td>-0.017</td><td></td><td>15</td><td>0.612 *</td><td>0.513</td><td>0.128</td><td>0.191</td></tr><tr><td></td><td>30</td><td>0.511</td><td>0.504</td><td>0.110</td><td>-0.209</td><td></td><td>30</td><td>0.683 **</td><td>0.438</td><td>0.226</td><td>-0.026</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9003703d3784e9f86f4ebfc94b9ecbbf392e0c91f1f275db9cdfc019d1197a2b.jpg",
+        "img_caption": [
+            "图6不同降雨事件土壤水分变化对比",
+            "Fig.6The compared of soil moisture content in different rainfall events "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有助于草原植被恢复，减小草地沙化面积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）放牧会降低土壤垂向异质性，导致土壤颗粒表面的分子力、毛管力在各土层深度没有显著差异，降雨时相邻土层的含水量大小易通过入渗达到相似状态，禁牧区反之；当降雨事件包含强度 $> 5$ $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ 的降雨且 $^ \\textrm { \\scriptsize 4 h }$ 内累积雨量超过 $1 0 \\ \\mathrm { m m }$ 时，会打破这种规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）放牧会使植被截流、抑制土壤蒸发的能力减弱，浅层土壤( $: 5 \\ \\mathrm { c m } \\ 、 1 0 \\ \\mathrm { c m } \\ 、 1 5 \\ \\mathrm { c m } )$ 水分含量及对降雨响应的滞后时间都小于禁牧区；放牧会破坏植被根系分布，导致 $0 \\sim 1 5 ~ \\mathrm { c m }$ 土层根系吸水能力减弱，水分垂直向下运移，因此放牧区 $3 0 \\ \\mathrm { c m }$ 土层土壤水分含量和滞后时间都大于禁牧区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）禁牧区土壤孔隙较多，降雨入渗的阻力较小，入渗速度较快， $3 0 \\ \\mathrm { c m }$ 王层土壤获得降雨的概率较大;当降雨强度超过 $1 5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ 时，禁牧区水分会迅速通过孔隙入渗到 $3 0 \\ \\mathrm { c m }$ 以下;放牧区大孔隙及中等孔隙被压实，入渗阻力较大，导致这种快速入渗只发生在表层土壤 $\\mathrm { ( 0 \\sim 5 ~ c m ) }$ ，且会发生地表径流。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）禁牧引起的草原植被恢复不会引起土壤水分的过度消耗，合理禁牧能提高土壤孔隙度和水分渗透性能，从而提高土壤的持水能力，以供应更多植物的生长发育需求，达到减小草地沙化面积的目的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Kang L,Han XG,Zhang ZB,et al.Grassland ecosystems in China:Review of current knowledge and research advancement[J]. The Royal Society,2007,362(1 482）:997 -1 008.   \n[2] 邹慧，高光耀，傅伯杰.干旱半干旱草地生态系统与土壤水分 关系研究进展[J].生态学报,2016,36（11）：3127-3136. [Zou Hui,Gao Guangyao,Fu Bojie.The relationship between grassland ecosystem and soil water in arid and semiarid areas:A review[J].Acta Ecologic Sinica,2016,36(11）:3127-3 136.]   \n[3]Liang Y,Han G,Zhou H,et al.Grazing intensity on vegetation dynamics of a typical steppe in Northeast Inner Mongolia[J].Rangeland Ecology& Management,2009,62（4）:328-336.   \n[4] Yan R,Xin X,Yan Y,et al.Impacts of differing grazing rates on canopy structure and species composition in Hulunber meadow steppe[J].Rangeland Ecology& Management,2015,68（1）:54- 64.   \n[5] LaPierre KJ,Yuan S,Chang C C,etal.Explaining temporal variation in above-ground productivity in a mesic grassland:The role of climate and flowering[J]. Journal of Ecology,2011,99:1 250 - 1 262.   \n[6] Ruppert JC,Harmoney K,Henkin Z,et al. Quantifying drylands' drought resistance and recovery :The importance of drought intensity,dominant life history and grazing regime[J].Global Change Biology,2015,21(3):1 258-1 270.   \n[7] Hu Z,Li S,Guo Q,et al.A synthesis of the effect of grazing exclusion oncarbon dynamics in grasslands in China[J]. Global Change Biology，2016,22(4):1 385-1393.   \n[8]Koerner SE,Collins SL. Interactive effects of grazing,drought,and fire on grassand plant communities in north America and south Africa[J].Ecology,2014,95(1） :98-109.   \n[9]Xie Rui,Wu Xiuqin.Effects of grazing intensity on soil organic carbon of rangelands in Xilin Gol League,Inner Mongolia,China [J].Journal of Geographical Sciences,2016,26（11）:1 550 - 1 560.   \n[10]Yao S X,Zhao C C,Zhang T H,et al. Response of the soil water content of mobile dunes to precipitation patterns in Inner Mongolia,Northern China[J].Journal of Arid Environments,2013,97: 92-98.   \n[11]Petrie M D,Collns SL,Litvak ME,et al. The ecological role of small rainfall events in a desert grassland[J]. Ecohydrology,2015, 8(8) :1 614 -1 622.   \n[12］李凤霞,李晓东,周炳荣,等.放牧强度对三江源典型高寒草甸 生物量和土壤理化特征的影响[J].草业科学,2015,32（1)：11 -18.[Li Fengxia,Li Xiaodong,Zhou Bingrong,et al.Effects of grazing intensity on biomass and soil physical and chemical characteristics in alpine meadow in the source of three rivers[J].Pratacultural Science,2015,32(1）:11-18.]   \n[13]ArcherNAL,Otten W,Schmidt S,et al.Rainfall infiltration and soil hydrological characteristics below ancient forest,planted forest and grassland in a temperate northern climate[J].Ecohydrology, 2016,9(4) :585 -600.   \n[14]Sun Dongmei,Li Xiaomin,Feng Ping,etal.Stabilityanalysis of unsaturated soil slope during rainfall infiltration using coupled liquidgas-solid thre-phase model[J]. Water Science and Engieering, 2016,9(3) :183 -194.   \n[15]Lee E,Kumar P,Barron-Gfford G A,et al.Impact of hydraulic redistribution on multispecies vegetation water use in a semiarid savanna ecosystem:An experimental and modeling synthesis[J]. Water Resources Research,2018,54（7）:4 009 -4 027.   \n[16]Li Fang,Zhao Wenzhi,Liu Hu.The response of aboveground net primary productivity of desert vegetation to rainfall pulse in the temperate desert region of Northwest China[J].PLOS ONE,2013, 8（9）:e73003,doi:10.1371/journal.pone.0073003.   \n[17］王颜莉,刘立超,高艳红,等.人工固沙植被区土壤水分动态及 空间分布[J].中国沙漠,2015,35(4）:942-950.[Wang Yanli,Liu Lichao,Gao Yanhong,etal. Dynamic and spatial distribution of soil moisture in an artificially re-vegetated desert area[J]. Journal of Desert Research,2015,35(4）:942-950.]   \n[18］李小英,段争虎.黄土高原土壤水分与植被相互作用研究进展 [J].土壤通报,2012,43(6):1 508-1514.[Li Xiaoying,Duan Zhenghu. Review on the interaction between soil moisture and vegetation on the Loess Plateau[J]. Chinese Journal of Soil Science, 2012,43(6) :1 508 -1 514.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Response of Soil Moisture Content to Rainfall Patterns in Typical Steppe under Grazing Prohibition ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "XU Ran’， ZHANG Sheng-wei1,2.3， ZHU Zhong-yuan1²， ZHANG Peng'， GAO Lul (1.Collegeof Water Conservancyand Civil Engineering,Inner Mongolia Agricultural University,Hohhot 010018, Inner Mongolia,China; 2.Key Laboratory of Protectionand Utilization of Water Resources of Inner Mongolia Autonomous Region,Hohhot 010018,Inner Mongolia,China; 3.Inner Mongolia Autonomous Region KeyLaboratoryof Big Data Research and Aplicationof Agricultureand Animal Husbandry,Hohhot O1oO18,Inner Mongolia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The meteorological,vegetation and soil factors as well as the soil moisture content in depths of $5 \\textrm { - }$ ， 10-,15-and 3O-cm layers were monitored and analyzed.The purposes were to analyzeand reveal the change of rainfall pattrns and soil moisturecontent under grazing prohibition in the Xilin Gol typical steppe in Inner Mongolia.Theresults showed thatthevertical heterogeneityof soil moisture content was increasedafter implementingthe grazing prohibition for3years,thediffrenceofsoil moisturecontentineach soillayer was significant during rainfall process in the grazing prohibition sites,while the situation was opposite in the grazing areas.The lag time of soil moisture response to rainfallincreased with the increase of soil depth. Compared with the grazing prohibition sites, the water holding capacityof shalow soil（5cmand1Ocm in depth）in the grazing areas was weaker,and the infiltrationtime was shorter.There was no obvious replenishment efectof rainfallonsoil moisture when therainfall was less than $5 ~ \\mathrm { m m }$ in both the grazing areas and grazing prohibition sites,and it was the most advantageous for the rainwater infiltration when rained continuously and uniformly and the rainfall intensity did not exceed $5 \\ \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ h ~ } ^ { - 1 }$ ： Rainwater could infiltrate into $1 5 -$ and $3 0 \\mathrm { ~ - ~ } \\mathrm { c m }$ soil layers when rainfall was $7 . 9 \\ \\mathrm { m m }$ and more than $2 5 \\ \\mathrm { m m }$ respectively in the grazing areas,but it could infiltrate into $3 0 \\mathrm { ~ - ~ } \\mathrm { c m }$ soil layer when rainfall was more than $5 ~ \\mathrm { m m }$ in the grazing prohibition sites.Rainwater could infiltrate into topsoil ( $5 \\ \\mathrm { c m }$ ）onlywhen the intensity of an independent rainfall was $5 - 6 ~ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ,and it could infiltrate rapidly into $3 0 \\mathrm { - c m }$ soil layer or deeper through the macropores when the rainfall intensity was higher than $1 5 \\ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ in the grazing prohibition sites.In the grazing areas, rainwater could infiltrate rapidly into topsoil ( $\\mathrm { ~ ( ~ 0 ~ - ~ 5 ~ ~ c m ) ~ }$ ）but slowly into deep soil to form surface runoff and even flood disasters.The study resultscould be referred in researching the grassland ecohydrological process and formulating a rational grazing policy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Xilin Gol Steppe；rainfallpattern；soil moisture content；rainwater infiltration；Inner Mongolia ",
+        "page_idx": 8
+    }
+]

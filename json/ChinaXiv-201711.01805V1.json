@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "植物乳杆菌-泰山松花粉多糖微胶囊对小鼠生长和肠道环境的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马宁宁　朱丽君董雯雯　周建波 袁艳梅卢亚平 李宗瑞 魏凯朱瑞良\\*（山东农业大学动物科技学院，山东省动物生物技术与疫病防治重点实验室，泰安271018）摘要：植物乳杆菌作为微生态饲料添加剂饲喂后易受消化道胃酸、胆汁酸和消化酶等不利因素的影响。泰山松花粉多糖（TPPPS）作为一种水溶性植物多糖也易受到胃酸和酶的破坏。为了保护植物乳杆菌和 TPPPS 的生物活性，并探索二者之间是否存在协同作用。本研究以植物乳杆菌和TPPPS 为芯材制备微胶囊，通过正交试验对包埋工艺进行优化，并对最佳条件下制备的微胶囊进行性能检测。选取体重 $2 0 \\ \\mathrm { g }$ 左右无特定病原体（SPF）小鼠48只，随机分为4组，每组12只。4组小鼠每天分别口服饲喂 $1 ~ \\mathrm { m L }$ 的植物乳杆菌、植物乳杆菌 $+ 0 . 5 \\%$ TPPPS、微胶囊、磷酸盐缓冲液（PBS)。饲养试验42d。每隔1周各组随机取3只小鼠称重记录，剖检后无菌采集肠道组织，测定小肠绒毛和隐窝发育差异及乳酸菌和大肠杆菌定植情况。结果显示：1）微胶囊包埋率达 $8 1 . 6 \\%$ ，粒径为 $8 4 . 3 ~ { \\mu \\mathrm { m } }$ 。在模拟胃液中处理 $1 2 0 ~ \\mathrm { { m i n } }$ 植物乳杆菌存活率为 $6 2 . 3 6 \\%$ ， $3 7 \\ \\mathrm { { ^ circ C } }$ 条件下存储 $1 2 0 { \\mathrm { d } }$ 存活率达 $45 . 9 \\%$ 。2）与PBS 组相比,植物乳杆菌、植物乳杆菌 $+ 0 . 5 \\%$ TPPPS、微胶囊均能不同程度促进小鼠体重增加，提高小肠中乳酸菌数量，降低大肠杆菌数量，改善小肠绒毛和隐窝发育，微胶囊效果最优。结果提示，植物乳杆菌协同TPPPS 使用的益生效果显著优于单独的植物乳杆菌，二者制备的微胶囊能够进一步提高其益生效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物乳杆菌；泰山松花粉多糖；微胶囊；小肠绒毛中图分类号：S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物乳杆菌是动物肠道中的正常菌群，具有较好的肠道黏附能力，能产生乳酸及抗菌物质[1-3]，并能够抑制肠道腐败菌和致病菌的繁殖，调节动物消化道微生物区系平衡，促进营",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-03-12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：山东省现代农业产业技术体系建设经费资助（SDAIT-10-06）；国家重点研发计划项目“牛羊重要疫病诊断与检测新技术研究”（2016YFD0500900）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：马宁宁（1989-)，女，山东聊城人，硕士研究生，从事微生物与免疫学研究。E-mail:648281470@qq.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：朱瑞良，教授，博士生导师，E-mail: zhurl@sdau.edu.cn养物质消化吸收，增强机体免疫力[46]。然而，益生菌活菌制剂进入动物消化道后易受消化道低 pH胃酸、胆汁酸和消化酶等不利因素的影响，难以有足够的活菌数量到达肠道或定植肠道而发挥作用[]。微胶囊技术是利用天然或合成的材料将固体、液体或气体等核心物质进行包埋和固化的技术，可显著增强菌体对外界不利环境的耐受力，大大提高菌体进入肠道内的存活率[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多糖是一类生物大分子，具有提高机体免疫力、抗菌、抗病毒、抗寄生虫等功能[。本实验室前期研究已证明泰山松花粉多糖（TPPPS）能够显著增强动物的生产性能和免疫功能[10-11]。然而，植物乳杆菌和 TPPPS 之间是否存在协同作用尚不清楚。TPPPS 作为一种水溶性多糖，易受胃酸和酶的破坏。因此，本试验以植物乳杆菌和 TPPPS 为芯材，海藻酸钠（AIg)和壳聚糖为壁材制备微胶囊，通过正交试验对微囊工艺进行优化，从而明确制备植物乳杆菌-TPPPS 微胶囊的最佳工艺条件，并将此微胶囊经口服饲喂无特定病原体（SPF）小鼠，通过测定生产性能对该微胶囊进行效果检验，以期为新型益生菌微胶囊的开发提供试验依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 菌种、试剂和仪器",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌种植物乳杆菌21794，购自中国工业微生物菌种保藏管理中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 主要试剂",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AIg，购自XiyaReagent 公司；壳聚糖，购自 Solarbio 公司；胃蛋白酶，购自 Sigma 公司；胰蛋白酶，购自BioBasic公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 主要仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超净台，浙江苏净净化设备有限公司；JJ-2 型组织捣碎匀浆机，武汉格莱莫检测设备有限公司；pH 计，上海雷磁仪器厂；电热恒温培养箱，DNP-9082，上海精宏实验设备有限公司；光学显微镜，55i，日本尼康公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2微胶囊制备及配方筛选 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 植物乳杆菌菌悬液的配制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将活化好的菌种接种到MRS 液体培养基中， $3 7 ^ { \\circ } \\mathrm { C }$ 培养 $2 4 \\mathrm { h }$ 。将培养好的菌液离心(4000$\\mathbf { r } / \\mathbf { m i n }$ ， $1 5 \\mathrm { m i n }$ ， $4 \\mathrm { { ^ \\circ C } }$ ，弃上清液，无菌生理盐水洗涤离心菌泥2次，然后用生理盐水重新悬浮菌体，使植物乳杆菌数达到 ${ 1 0 } ^ { 1 0 } \\mathrm { C F U / m L }$ ， $4 ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 微胶囊制备工艺流程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 TPPPS 加入到制备好的菌悬液中混合均匀，使 TPPPS 的含量为 $1 \\mathrm { m g / m L }$ 。然后将经过高压灭菌的AIg（ $2 . 0 \\%$ ）和乳化剂（植物油含 $1 . 0 \\%$ 的司盘80）以及一定量的碳酸钙（溶解于少量水中）加入到菌悬液中进行乳化（ $ { 3 } 0 0 0  { \\mathrm { r / m i n } }$ ， $6 0 \\mathrm { m i n }$ )，形成油包水乳浊液。待乳化完全后加入适量冰醋酸降低反应的 $\\mathfrak { p H }$ ，继续反应 $3 0 \\ \\mathrm { m i n }$ ，加入 $1 . 0 \\%$ 的吐温80 溶液固化$3 0 \\mathrm { m i n }$ ，静置，离心后用生理盐水清洗，得到AIg 凝胶珠。然后将得到的AIg凝胶珠倒入到$0 . 4 \\%$ 的壳聚糖溶液中进行交联，固化1h后将微囊进行离心，清洗，置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 微胶囊制备配方筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择水相与油相体积比（A）、碳酸钙与AIg 质量比（B）、碳酸钙与冰醋酸物质的量比（C）、壳聚糖浓度（D）作为影响因素，采用4因素3水平 $\\mathrm { L } _ { 9 }$ ${ ( 3 ^ { 4 } }$ ）正交试验设计，研究4个因素对微胶囊包埋率的影响，并参考粒径大小、成球效果等试验指标筛选出制备植物乳杆菌-TPPPS 微胶囊的最佳条件。植物乳杆菌-TPPPS 微胶囊配方 $\\mathrm { L } _ { 9 } ( 3 ^ { 4 } )$ 正交试验设计见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1正交试验因素水平表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table1Factors of orthogonal test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fbc15ec48135de6df4fdb9b0fd4730214631d7412af9afad8d63124b6721560.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>水平</td><td>水相与油相体积</td><td>碳酸钙与AIg质量比</td><td>碳酸钙与冰醋酸物质的量比</td><td>壳聚糖浓度</td></tr><tr><td>Levels</td><td>比</td><td></td><td></td><td></td></tr><tr><td></td><td>Volume ratio of</td><td>Mass ratio of CaCO3:and</td><td>Gram-molecule ratio of</td><td>Chitosan concentration/</td></tr><tr><td></td><td>Water oil</td><td>AIg</td><td>CaCO3 and CHCOOH</td><td>（g/L)</td></tr><tr><td>1</td><td>1:2</td><td>1:3</td><td>1:2</td><td>3</td></tr><tr><td>2</td><td>1:3</td><td>1:4</td><td>1:3</td><td>4</td></tr><tr><td>3</td><td>1:4</td><td>1:5</td><td>1:4</td><td>5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "63 1.2.4 微胶囊粒径及包埋率的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "64 将微胶囊置于解囊液[12]中搅拌 $3 0 \\mathrm { m i n }$ ，待微胶囊完全溶解后计数。  \n65 包埋率 $( \\% ) =$ （微胶囊中活菌数量/原料活菌数量） $\\times 1 0 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光学显微镜观察微胶囊，用测微尺测定微胶囊的粒径，计数500个以上，根据以下公式计算微胶囊的平均粒径：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle D a \\nu = \\sum ( n d ) / \\sum n \\scriptscriptstyle \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Dav为平均粒径； $d$ 为微胶囊粒径； $n$ 为微胶囊个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 微胶囊对体外模拟胃液的耐受试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取制备的微胶囊样品 $1 \\mathrm { m L }$ 置于 $9 \\mathrm { m L }$ 模拟胃液[12]中， $3 7 \\mathrm { ^ { \\circ } C } .$ $1 8 0 ~ \\mathrm { r / m i n }$ 条件下分别振荡处理0、30、60、90、 $1 2 0 \\ \\mathrm { m i n }$ 后取样，按梯度浓度稀释法测活菌数，并以未包埋菌为对照组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6微胶囊储存稳定性检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将制备好的微胶囊样品置于37℃恒温箱中密封放置 $1 2 0 { \\mathrm { ~ d ~ } }$ ，每 $3 0 \\mathrm { ~ d ~ }$ 取 $1 ~ \\mathrm { m L }$ 微胶囊测活菌数，以未包埋菌为对照组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 动物试验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 试验设计",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SPF小鼠48只，体重大约 $2 0 \\ \\mathrm { g }$ （雌性，购自泰邦生物制品有限公司)，随机分为4组，每组12只。室温 $2 3 { \\sim } 2 8 \\ \\mathrm { ^ { \\circ } C }$ 条件下饲养，在试验开始前给予3d适应环境。4组小鼠每天分别□服饲喂 $1 \\mathrm { m L }$ 的植物乳杆菌（LP组）、植物乳杆菌 $+ 0 . 5 \\%$ TPPPS（ $\\mathbf { L P } +$ TPPPS组）、微胶囊[Micro（LP+TPPPS）]组、磷酸盐缓冲液（PBS 组）。饲养试验 $4 2 { \\mathrm { ~ d ~ } }$ ，在7、14、21、28、35、42d采样检测相关指标。采集样本前 $1 2 \\mathrm { { h } }$ 内停止饲喂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ".3.2小鼠体重变化及肠道菌的定植状况 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每组随机取3只小鼠，称重记录。剖检，无菌摘取回肠组织样品，研磨后倍比稀释，分别涂布到MRS培养基和麦康凯培养基中培养，测活菌数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 小肠组织学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每组3只小鼠剖检后无菌摘取小肠组织样品，测定肠绒毛高度、隐窝深度以及绒毛高度/隐窝深度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有数据用SPSS17.0软件进行Duncan氏法多重比较分析，数据为平均值 $\\pm$ 标准差，$P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 微胶囊最佳配方的筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过测定微胶囊包埋率和粒径大小，对微胶囊进行最佳配方的筛选。以包埋率为试验指标，极差（R）越大表明该因素对指标的影响越大。根据表2结果判断，A、B、C、D4种因素对微胶囊包埋率的影响大小依次递减，即水相与油相体积比 $\\mathrm { > }$ 碳酸钙与AIg质量比 $>$ 碳酸钙与冰醋酸物质的量比 $>$ 壳聚糖浓度。数据分析发现， $\\mathbf { A } _ { 2 } \\mathbf { B } _ { 2 } \\mathbf { C } _ { 3 } \\mathbf { D } _ { 2 }$ 为最佳包埋条件，但该组合最初未在实际操作之列，故对此组合单独试验。结果发现， ${ \\bf A } _ { 2 } { \\bf B } _ { 2 } { \\bf C } _ { 3 } { \\bf D } _ { 2 }$ 组合包埋率为 $8 1 . 6 \\%$ 粒径为 $8 4 . 3 \\mu \\mathrm { m }$ ，综合评价优于其他组合。因此，植物乳杆菌和 TPPPS 微胶囊的最佳生产工艺为：水相与油相体积比为 $1 : 3$ ，碳酸钙与AIg质量比为 $1 : 4$ ，碳酸钙与冰醋酸的物质的量比为 $1 : 4$ ，壳聚糖浓度为 $4 \\mathrm { g / L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2微胶囊配方筛选的 $\\mathrm { L } _ { 9 } ~ ( 3 ^ { 4 } )$ 正交试验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2 ${ \\mathrm { L } } _ { 9 } ( 3 ^ { 4 } )$ orthogonal test results of microcapsule recipe screening 最佳组合 Best combination A2B2C3D2 81.6 84.3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/abdc4826585929c05c0d50f60c514491a63bfda0fe22acc00c97edd0d76afd6a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table2 L9(3）orthogonal test results of microcapsule recipe screening</td></tr><tr><td>试验编号</td><td colspan=\"4\">试验因素 Factors</td><td colspan=\"2\">试验结果Experimentresults</td></tr><tr><td>Numbers</td><td>A</td><td>B</td><td>C</td><td>D</td><td>包埋率</td><td>平均粒径</td></tr><tr><td></td><td></td><td></td><td></td><td>D1</td><td>Embeddingrate/% 56.5</td><td>particle size/μm</td></tr><tr><td>1</td><td>A1</td><td>B1</td><td>C1</td><td></td><td></td><td>119.4</td></tr><tr><td>2</td><td>A1</td><td>B2</td><td>C2</td><td>D2</td><td>62.4</td><td>107.5</td></tr><tr><td>3</td><td>A1</td><td>B3</td><td>C3</td><td>D3</td><td>59.2</td><td>94.7</td></tr><tr><td>4</td><td>A2</td><td>B1</td><td>C2</td><td>D3</td><td>70.8</td><td>102.3</td></tr><tr><td>5</td><td>A2</td><td>B2</td><td>C3</td><td>D1</td><td>76.5</td><td>92.5</td></tr><tr><td>6</td><td>A2</td><td>B</td><td>C1</td><td>D2</td><td>66.7</td><td>81.4</td></tr><tr><td>7</td><td>A3</td><td>B1</td><td>C3</td><td>D2</td><td>72.3</td><td>88.5</td></tr><tr><td>8</td><td>A3</td><td>B</td><td>C1</td><td>D3</td><td>68.5</td><td>63.6</td></tr><tr><td>9</td><td>A3</td><td>B</td><td>C2</td><td>D1</td><td>65.6</td><td>75.5</td></tr><tr><td>K</td><td>178.1</td><td>199.6</td><td>191.7</td><td>200.5</td><td></td><td></td></tr><tr><td>K</td><td>216.0</td><td>209.4</td><td>198.8</td><td>201.4</td><td></td><td></td></tr><tr><td>K</td><td>206.4</td><td>186.5</td><td>210.0</td><td>198.5</td><td></td><td></td></tr><tr><td>k1</td><td>59.4</td><td>66.5</td><td>63.9</td><td>66.8</td><td></td><td></td></tr><tr><td>k2</td><td>72.0</td><td>69.8</td><td>66.3</td><td>67.1</td><td></td><td></td></tr><tr><td>k</td><td>65.5</td><td>62.2</td><td>70.0</td><td>66.2</td><td></td><td></td></tr><tr><td>R</td><td>37.9</td><td>22.9</td><td>18.3</td><td>2.9</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { K } _ { i }$ 为任意因素中水平为i时所对应的结果之和； $\\mathbf { k } _ { i }$ 为 $\\mathrm { K } _ { i }$ 的平均值；R为各因素的极差，即最大 $\\mathbf { k } _ { i }$ 与最小 $\\mathbf { k } _ { i }$ 之差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { K } _ { i }$ is the sum of results corresponding to the level $i$ of any factor; $\\mathbf { k } _ { i }$ is the mean of $\\mathrm { K } _ { i } ;$ R is the range of each factor, which was the difference between maximums and minimums of $\\mathbf { k } _ { i }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在光学显微镜下观察，最佳条件下制备的微胶囊呈规则球形，粒径分布均匀（图1)。高倍镜下，空埋的 AIg 凝胶珠呈半透明状（图1A，1D)，包埋植物乳杆菌和 TPPPS 的 AIg凝胶珠透光度降低（图1B，1E)，经过 AIg 和壳聚糖双层包被后颜色最暗，并且粒径大小",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "111 更加均匀（图1C，1F）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A:空埋的 AIg凝胶珠（苏木精伊红染色， $4 0 \\times$ ）calcium alginate gel beads embedding nothing （HE $4 0 \\times$ ）B：包埋植物乳杆菌和 TPPPS 的 AIg 凝胶珠（苏木精伊红染色， $4 0 \\times$ ）calcium alginate gel beads embeddingLactobacillus plantarum and TPPPS（HE $4 0 \\times$ )；C：包埋植物乳杆菌和 TPPPS 的AIg 和壳聚糖微胶囊（苏木精伊红染色， $4 0 \\times$ ）calcium alginate and chitosan microcapsules embedding Lactobacillus plantarum andTPPPS（HE $4 0 \\times$ )；D:空埋的AIg凝胶珠（苏木精伊红染色， $2 0 0 \\times$ ）calcium alginate gel beads embeddingnothing （HE $2 0 0 \\times$ )；E：包埋植物乳杆菌和 TPPPS 的AIg 凝胶珠（苏木精伊红染色， $2 0 0 \\times$ ）calcium alginategel beads embedding Lactobacillus plantarum and TPPPS（HE $2 0 0 \\times$ )；F包埋植物乳杆菌和 TPPPS 的AIg 和壳聚糖微胶囊（苏木精伊红染色， $2 0 0 \\times$ ）calcium alginate and chitosan microcapsules embedding Lactobacillusplantarum and TPPPS（HE $2 0 0 \\times$ )。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ead7cce31079e762e978c417ffb2e2bf8380bf2b80f40d110d15cf08fb82a2f6.jpg",
+        "img_caption": [
+            "图1光学显微镜下微胶囊的形态观察",
+            "Fig.1Morphologic observation of microcapsules under optical microscope "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2微胶囊化植物乳杆菌对模拟胃液的耐受性检测",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过检测微胶囊化的植物乳杆菌在模拟胃液中的存活率来评估微胶囊对模拟胃液的耐受性。由表3可知，模拟胃液处理 $3 0 \\ \\mathrm { m i n }$ 对照组中未经微胶囊化的植物乳杆菌存活数量显著低于微胶囊组（ $\\cdot P { < } 0 . 0 5 \\$ )。在模拟胃液中处理 $6 0 ~ \\mathrm { { m i n } }$ 微胶囊组存活率为 $7 0 . 8 3 \\%$ ，处理120min存活率为 $6 2 . 3 6 \\%$ ，而对照组中未经微胶囊化的植物乳杆菌在模拟胃液中处理 $6 0 ~ \\mathrm { { m i n } }$ 全部死亡。以上结果说明植物乳杆菌经微胶囊包埋后显著提高对模拟胃液的耐受性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3微胶囊化后的植物乳杆菌对模拟胃液的耐受性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table3Tolerance of $L$ plantarum in simulated gastric juice after microencapsulation CFU/mL ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "活菌数量Numberofviablebacteria同列数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/15f5b22249b6183f7527eba59579e634df9e2bdc05385747c98a1eb4778a78c7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>0 min</td><td>30 min</td><td>60 min</td><td>90 min</td><td>120 min</td></tr><tr><td>微胶囊Microcapsules</td><td>1.44×1010a</td><td>1.27×1010a</td><td>1.02×1010a</td><td>9.67×109a</td><td>8.98×109a</td></tr><tr><td>对照 Control</td><td>1.32×1010a</td><td>1.23×105b</td><td>0b</td><td>0b</td><td>0b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Values in the same column with different small letter superscripts mean significant differences $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3微胶囊储存稳定性检测 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，在 $3 7 \\mathrm { ~ \\textdegree C }$ 条件下储存120d微胶囊中植物乳杆菌的存活率为 $45 . 9 \\%$ ，而对照组中未经微胶囊化的植物乳杆菌的存活率为 $3 1 . 2 \\%$ ，活菌数量2组间差异显著（ $. P { < } 0 . 0 5 )$ ）。该结果表明微胶囊化后的植物乳杆菌储存稳定性得到了显著提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/286228956633dce0558c40c4f7a3b4a2b7f3f894910c3bbb57182f7bc49b402a.jpg",
+        "table_caption": [
+            "表4微胶囊化后的植物乳杆菌对37℃储存条件的耐受性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table 4 Tolerance of L. plantarum under 37 ℃ storage conditions after microencapsulation</td><td></td><td>CFU/g</td></tr><tr><td>组别Groups</td><td colspan=\"3\"></td><td>活菌数量Numberofviable bacteria</td><td></td></tr><tr><td rowspan=\"2\">微胶囊Microcapsules</td><td>0d</td><td>30 d</td><td>60 d</td><td>90 d</td><td>120 d</td></tr><tr><td>1.43×1010a</td><td>1.30×1010a</td><td>9.16×109a</td><td>8.47×109a</td><td>6.56×109a</td></tr><tr><td>对照 Control</td><td>1.39×1010a</td><td>1.07×1010b</td><td>8.24×109a</td><td>6.31×109b</td><td>4.34×109b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4微胶囊对小鼠体重及肠道菌数量的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5 可知，Micro（LP+TPPPS）组和 LP+TPPPS 组的体重显著高于LP 组和 PBS 组（ $P { < } 0 . 0 5 )$ ，其中Micro(LP+TPPPS)组小鼠体重最高,LP组和PBS 组的差异不显著( $\\cdot P { > } 0 . 0 5 )$ 。与 PBS 组相比，其他3组均呈现一定程度的乳酸菌数量增加和大肠杆菌数量降低的趋势，其中Micro（LP+TPPPS）组和 $\\scriptstyle \\mathrm { L P + }$ TPPPS组与PBS组的差异显著（ $( P { < } 0 . 0 5 )$ ，而LP组和PBS组的差异不显著（ $P { > } 0 . 0 5$ )。结果表明，植物乳杆菌单独使用可以改善肠道环境，维持肠道菌群的平衡，改善小鼠的生产性能，协同使用TPPPS 后效果更好，将二者微胶囊化后效果最佳。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5微胶囊对小鼠体重及肠道菌数量的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 5Effects of microcapsules on body weight and intestinal bacteria number of mice ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b97e8a62631c4a94a8d6714aae05d398570ff82debbb17d23018b8a2d5d9c381.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Groups</td><td>体重</td><td>乳酸菌</td><td>大肠杆菌数量</td></tr><tr><td></td><td>Body weight/g</td><td>Lactic acid bacteria/[lg(CFU/g)]</td><td>Escherichia coli/[lg(CFU/g)]</td></tr><tr><td>LP</td><td>46.38±2.62c</td><td>6.71±0.28bc</td><td>5.02±0.37bc</td></tr><tr><td>LP+TPPPS</td><td>50.43±3.57b</td><td>6.97±0.43b</td><td>4.84±0.31b</td></tr><tr><td>Micro （LP+TPPPS)</td><td>54.56±6.31a</td><td>7.61±0.37a</td><td>4.47±0.26a</td></tr><tr><td>PBS</td><td>45.52±5.24℃</td><td>6.52±0.43℃</td><td>5.16±0.44c</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5微胶囊对小鼠小肠绒毛的形态结构的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，Micro（LP+TPPPS）组、LP+TPPPS 组和LP 组的绒毛高度显著高于PBS组（ $P { < } 0 . 0 5 )$ 。Micro（ $\\mathbf { L P + }$ TPPPS）组、LP+TPPPS 组和LP 组的隐窝深度显著低于PBS 组（ $P { < } 0 . 0 5$ )，Micro（LP+TPPPS）组和LP+TPPPS 组的差异不显著（ $P > 0 . 0 5 \\ \\cdot$ ）。Micro（ $\\mathbf { L P } +$ TPPPS）组和LP+TPPPS组的绒毛高度和隐窝深度的比值显著高于PBS 组（ $\\cdot P { < } 0 . 0 5 )$ ，LP组略高于PBS组，但是差异不显著（ $\\cdot P > 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7b48f94c2e1f1ee3742c0ba9aa93dca7205d55440d9610c4cadd5780dffa2d7.jpg",
+        "table_caption": [
+            "表6微胶囊对小鼠小肠绒毛的形态结构的影响",
+            "Table 6Effects of microcapsules on morphological structure of ileal villi of mice "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别</td><td>绒毛高度 Villus</td><td rowspan=\"2\">隐窝深度 Crypt depth/um</td><td rowspan=\"2\">绒毛高度/隐窝深度 V/C</td></tr><tr><td>Groups</td><td>height/um</td></tr><tr><td>LP</td><td>164.38±13.62C</td><td>48.75±1.83b</td><td>3.37±0.17bc</td></tr><tr><td>LP+TPPPS</td><td>192.43±22.67b</td><td>54.34±2.75a</td><td>3.54±0.31b</td></tr><tr><td>Micro（LP+TPPPS)</td><td>220.56±30.31a</td><td>55.41±2.13a</td><td>3.98±0.26a</td></tr><tr><td>PBS</td><td>136.52±16.24d</td><td>44.28±1.21c</td><td>3.07±0.14c</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "益生菌能够影响动物体内微生态平衡，促进肠道内有益菌（如双歧杆菌、乳酸杆菌等)的生长繁殖，产生各种消化酶，提高消化酶活性，有利于营养物质的分解利用。然而，临床上菌液型微生态制剂在使用中会有多种因素影响其使用效果，如营养要求高、增殖速度慢、易受动物肠道内环境影响、不易在肠道内定植等。经研究表明益生菌摄入量达到 ${ 1 0 } ^ { 7 } \\mathrm { C F U / g }$ 方可发挥保健功能[13]。因此，为益生菌提供有效的物理屏障抵御不利环境对于保证其益生效果是十分必要的。微胶囊固定化菌体细胞，以其能获得高密度菌体细胞、高产率、低污染及可重复利用的优势，已成为生物工程领域研究的一个热点[14]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多糖是一类由各种相同或者不同的单糖及糖醛酸通过糖苷键连接缩合而成的高分子化合物，天然存在于动物、植物、微生物等各种有机体中，是维持生命活动的基础物质之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多种植物多糖作为新型的添加剂已被证明有抗病毒、抗肿瘤、抗氧化、抗辐射等多种生物学作用，并且具有无毒、无害、无残留等特点。本实验室近年来对TPPPS开展了一系列的研究，发现TPPPS能够显著提高獭兔的生产性能，改善免疫抑制小鼠的免疫功能，提高兔瘟组织灭活苗的免疫效果，对B亚群禽白血病（ALV-B）具有直接抑制作用。但是，多糖的物理化学性质受其分子质量、化学成分、结构和构象等因素的影响容易受到胃环境的破坏[15-16]，在实际应用过程中，采用注射或口服投喂的方式操作繁琐且损失多，不利于其在生产中的应用及推广。因此，为了提高益生菌的存活量以及避免TPPPS的生物学活性受到胃酸破坏，本试验将植物乳杆菌和TPPPS共同包被成微胶囊，以微胶囊包包埋率为指标，筛选最佳制备条件。在最佳条件下制备的微胶囊包埋率达 $8 1 . 6 \\%$ ，平均粒径为 $8 4 . 3 ~ { \\mu \\mathrm { m } }$ ，球形度好，大小均匀，且具备较强的耐酸能力，提高了植物乳杆菌到达肠道的数量。因此，本研究制备的微囊膜为植物乳杆菌提供了均匀稳定的微环境，对细菌具有支持和保护作用，可长时间保存，解决了植物乳杆菌作为饲料添加剂效价不稳定的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "动物肠道菌群形成一个庞大而复杂的微生态平衡系统，在维持胃肠道健康方面起着重要作用，具有营养、屏障和免疫功能。益生菌进入机体后，在肠道具有抗原识别部位的淋巴组织集合上发挥免疫佐剂作用，活化肠黏膜内的相关淋巴组织，使分泌型IgA抗体分泌增强，从而抵抗外源有害微生物定植于肠道，形成生物屏障[17]。本试验通过对小鼠肠道菌定植情况的分析，发现植物乳杆菌联合 TPPPS 在有效促进小鼠肠道内乳酸菌增殖、抑制大肠杆菌增殖方面显著优于植物乳杆菌单独使用。这说明了植物乳杆菌和 TPPPS 联合使用具有协同作用，可协同改善肠道环境。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "小肠是机体营养物质消化吸收的主要场所，肠道的健康对营养物质的消化、吸收和转运起着重要的作用[18]。肠绒毛高度增加能使小肠吸收营养物质的面积增大，所以肠绒毛的长短直接影响着动物的生长发育[19]。隐窝深度主要是反映上皮细胞的生成率，绒毛高度/隐窝深度则综合反映小肠的功能状态，比值下降表明肠道消化和吸收功能下降，影响营养物质的吸收，降低动物生产性能[20]。本试验通过对小鼠小肠形态学变化的分析，发现植物乳杆菌、植物乳杆菌 $+ 0 . 5 \\%$ TPPPS、微胶囊能不同程度的提高小肠绒毛的高度，降低隐窝深度，提高二者的比值。并且，植物乳杆菌协同 TPPPS 的效果优于单独使用植物乳杆菌，经微胶囊技术包被后效果最佳。此外，本试验还发现植物乳杆菌联合TPPPS 可以促进小鼠体重的增加，且效果显著优于植物乳杆菌单独使用。以上研究结果表明，植物乳杆菌联合TPPPS 在促进小鼠体重增加、改善肠道环境及肠道发育方面具有协同作用，这与王永芬等[21-22]报道的黄芪多糖协同益生菌对鸡的益生效果显著优于益生菌和多糖单独使用相类似。这些研究结果表明植物乳杆菌和 TPPPS 能够改善肠黏膜发育，调节肠道微生物组成，从而促进小鼠生长发育。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论   \n本试验制备的植物乳杆菌-TPPPS 微胶囊粒径均匀，包埋率高，能够耐受胃酸环境，保 存期长，且该微胶囊可以显著改善小鼠肠道发育和微生态环境，促进生长，其效果显著优于 植物乳杆菌单独使用。   \n参考文献：   \n[1]SUO C,YIN Y S,WANG X N,et al.Effects of lactobacillus plantarum ZJ316 on pig growth and pork quality[J].BMC Veterinary Research,2012,8(1):89.   \n[2]SONG D F,ZHU M Y,GU Q.Purification and characterization of Plantaricin ZJ5,a new bacteriocin produced by Lactobacillus plantarum ZJ5[J].PLoS One,2014,9(8):e105549.   \n[3]ZHU X,ZHAO Y Z,SUN Y L,et al.Purification and characterisation of plantaricin ZJ008,a novel bacteriocin against Staphylococcus,spp.from Lactobacillusplantarum,ZJo08[J].Food Chemistry,2014,165:216-223.   \n[4]BECK B R,KIM D,JEON J,et al.The effects of combined dietary probiotics Lactococcus lactis,BFE920 and Lactobacillus plantarum FGLoo0l on innate immunity and disease resistance in olive flounder (Paralichthys olivaceus)[J].Fish & Shellfish Immunology,2015,42(1):177-183. [5]DASH G,RAMAN R P,PANI P K,et al.Evaluation of paraprobiotic applicability of Lactobacillus plantarum in improving the immune response and disease protection in giant freshwaterprawn,Macrobrachiumrosenbergii(deMan,1879).[J].Fish&Shellfish Immunology,2015,43(1):167-174.   \n[6]HANDAN A M,EI-SAYED A F,MAHMOUD M M.Effects of a novel marine probiotic,Lactobacillus plantarum AH 78,on growth performance and immune response of Nile tilapia (Oreochromis niloticus)[J].Journal of Applied Microbiology,2016,120(4):1061-1073. [7]GAEDINER G E,O'SULLIVAN E,KELLY J,et al.Comparative survival rates of humanderived probiotic Lactobacillus paracasei and L.salivarius strains during heat treatment and spray drying[J].Applied and Environmental Microbiology,2000,66(6):2605-2612.   \n[8]刘瑛华,赵进宝,吕秀芳.微胶囊包埋技术在益生菌制品中的应用[J].食品与机 械,2004,20(2):58-60.   \n[9]刘忠杰,徐剑琴.中兽医学[M].北京:中国农业出版社,2003:147-153.   \n[10]WEI K,SUN Z H,YAN Z G,et al.Effects of Taishan Pinus massoniana pollen polysaccharide on immune response of rabbit haemorrhagic disease tissue inactivated vaccine and on production performance of Rex rabbits[J].Vaccine,2011,29(14):2530-2536.   \n[11] CUI G L,ZHONG S X,YANG S F,et al.Eects of Taishan Pinus massoniana pollen polysaccharide on the subunit vaccine of Proteus mirabilis in birds[J].International Journal of Biological Macromolecules,2013,56:94-98.   \n[12]李宁.双歧杆菌微胶囊制备工艺及功能特性的研究[D].硕士学位论文.保定:河北农业大 学,2007.   \n[13]SHAH N P.Probiotic bacteria:selective enumeration and survival in dairy foods[J].Journal of Dairy Science,2000,83(4):894-907.   \n[14] PARK J K,CHANG H N.Microencapsulation of microbial cells[J].Biotechnology Advances,2000,18(4):303-319.   \n[15]EDWARDS A,MUR L A J,GIRDWOOD S E,et al.Coupled cryoconite ecosystem structure-function relationships are revealed by comparing bacterial communities in alpine and Arctic glaciers[J].Fems Microbiology Ecology,2014,89(2):222-237.   \n[16]FRANCISCO E C,FRANCO T T,WAGNER R,et al.Assessment of different carbohydrates asexogenous carbon source in cultivation of cyanobacteria[J].Bioprocess and Biosystems Engineering,2014,37(8):1497-1505.   \n[17]周健,王永坤,张纪兵.复合益生素对肉鸡生产性能和肠道菌群的影响[J].中国家 禽,2008,30(19):41-42.   \n[18] AIDY S E,VAN DEN BOGERT B,KLEEREBEZEM M.The small intestine microbiota,nutritionalmodulationandrelevanceforhealth.[J].CurrentOpinionin   \nBiotechnology,2015,32:14-20.   \n[19]CASPARY W F.Physiology and pathophysiology of intestinal absorption[J].American   \nJournal of Clinical Nutrition,1992,55(1):299S-308S.   \n[20]GARRIGA C,HUNTER R R,AMAT C,et al.Heat stress increases apical glucose transport in   \nthe chicken jejunum[J].American Journal of Physiology-Regulatory,Integrative and Comparative   \nPhysiol0gy,2006,290(1):R195-R201.   \n[21]王永芬,乔宏兴,席磊,等.益生菌-黄芪复合生物制剂的制备及其对肉仔鸡的影响[J].中国   \n农业大学学报,2011,16(1):54-59.   \n[22]吕鑫.黄芪多糖和益生菌对海兰褐蛋鸡生产性能和免疫功能的影响[J].饲料博   \n览,2014(12):24-28. Preparation of Microcapsules Prepared with Lactobacillus Plantarum and Taishan Pine Pollen Polysaccharide and Its Effects of on Growth and Intestinal Environment of Mice MA Ningning ZHU Lijun DONG WenwenZHOU Jianbo YUAN Yanmei LU Yaping LI ZongruiWEI Kai ZHU Ruiliang\\* (Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control and   \nPrevention, College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)   \nAbstract: Lactobacillus plantarum (L. plantarum), as a kind of microecological feed additive, was   \neasy to be affected by adverse factors such as gastric acid, bile acid and digestive enzyme. Taishan   \npine pollen polysaccharide (TPPPS) was a kind of water soluble plant polysaccharide, which was   \neasy to be damaged by acid and enzyme. In order to protect the biological activity of $L$ . plantarum   \nand TPPPS and to explore whether they have synergistic effect， this experiment prepared   \nmicrocapsules with L. plantarum and TPPPS as core materials. The microcapsule embedding   \nprocess was optimized by orthogonal test, and the performance of the microcapsules prepared   \nunder the optimum conditions was determined. Forty-eight specific pathogen free （SPF） mice   \n(weighted about $2 0 \\ \\mathrm { g } { \\cdot }$ ） were randomly divided into 4 groups with 12 mice per group. Mice in ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "different groups were orallyfed $1 . 0 ~ \\mathrm { \\ m L }$ of L. plantarum,L. plantarum $+ 0 . 5 \\%$ TPPPS, microcapsules and phosphate buffered saline (PBS)（control group）,respectively. The feding trial lasted for 42 d.Every other week, three mice from each group were selected randomly and weighed. After autopsy, intestinal tissues were aseptically collected and measured the changes of villi and crypts in the small intestine,and then the colonization of lactic acid bacteria and Escherichia coli were determined. The results showed as follows: 1) encapsulation efficiency of the microcapsules was $8 1 . 6 \\%$ and diameter was $8 4 . 3 ~ \\mu \\mathrm { m }$ . Survival rate of $L$ plantarum was $6 2 . 3 6 \\%$ after $1 2 0 ~ \\mathrm { { m i n } }$ in simulated gastric juice and $45 . 9 \\%$ after 120 days storage at $3 7 \\mathrm { ~ \\textdegree C }$ .2) compared with control group, L. plantarum, L. plantarum $+ 0 . 5 \\%$ TPPPS and the microcapsules could increase body weight of mice at different degrees, increased the number of lactic acid bacteria in small intestine,reduced the number of Escherichia coli, improve development of small intestine vili and crypts,and the effects of the microcapsules were the best. The results indicate that probiotic effect of $L$ ：plantarum combined with TPPPS is better than that of $L$ plantarum alone,while the microcapsules prepared with the above combination can further improve their beneficial effects. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: L. plantarum; Taishan pine pollen polysaccharide; microcapsules; small intestine vili ",
+        "page_idx": 12
+    }
+]

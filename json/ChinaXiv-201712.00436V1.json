@@ -1,0 +1,283 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内镜下大肠息肉切除术后迟发性出血的危险因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张凯军1,2,罗毓铭",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "广东省医学科学院//广东省人民医院'消化内科；广东省老年医学研究所，广东广州 510080；南方医科大学第一临床医学院，广东广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 研究内镜下大肠息肉切除术后迟发性出血的危险因素。方法选择2013年7月\\~2015年6月在我院行内镜下大肠息肉切除术的3157例患者，并对其相关危险因素、息肉相关因素及治疗方式等进行调查分析，同时测定各患者的舒张压、收缩压、息肉直径等指标，根据分析结果筛选出术后迟发性出血的危险因素。结果3157例患者中有27例产生了术后迟发性出血症状，发生率为 $0 . 8 6 \\%$ ，迟发性出血多发生在息肉切除后的5\\~7d后，平均为 $5 . 9 { \\pm } 1 . 8 \\mathrm { d }$ ，平均年龄为 $5 7 . 8 { \\pm } 3 . 4 \\$ 岁，息肉平均的直径为 $3 2 . 1 { \\pm } 3 . 7 \\ \\mathrm { m m }$ 。经单因素分析显示,与未出血患者相比，出血患者的高血压、年龄、息肉直径及形态、息肉生长位置有显著差异 $( P { < } 0 . 0 5 )$ ，即为此类症状的危险因素。将危险因素进行多因素回归分析,结果显示高血压、年龄、息肉生长位置为此类症状的独立危险因素 $( P { < } 0 . 0 5 )$ 。结论 高血压、年龄、息肉生长位置为术后迟发性出血的独立危险因素,临床应给予针对性预防措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：息肉切除；迟发性出血;危险因素；大肠镜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Risk factors of delayed bleeding after endoscopic resection of colorectal polyps ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Kaijun12, LUO Yuming? Departmentofastroenterology;GuangdongIstituteofGeriatricMedicineGuangdongGeneralHospitalandGuangdongAcademyof MedicalciencesGuangzou8ina;teFirstClinicalCollegeouternMdicalniesityuangzouina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To study therisk factors and prevention strategies ofendoscopicresectionofcolorectal polyps delayed bleeding.Methods Atotalof 3157patients whocured in myhospitalendoscopic resectionofcolorectal polyps fromJuly2013 to June 2015 werechosed.Then we investigatedthe patient-relatedfactors,the polypsrelatedfactorsandsome otherrelevant factors,atthesame time.We measured eachpatient'sdiastolicblood pressure,systolicblood pressure and polypdiameter.Risk factors of delayed postoperative bleeding were screened and prevention measures summarized. Results Delayed bleeding occurred in 27/3157 patients $( 0 . 8 6 \\% )$ . Delayed bleeding was identified from 5 to 7 days after resection (mean, $5 . 9 { \\pm } 1 . 8 \\$ days). The mean age was $5 7 . 8 { \\pm } 3 . 4 \\$ years, and the average polyp size was $3 2 . 1 { \\pm } 3 . 7 \\mathrm { m m }$ .Univariate analysis showed that, compared with the patient who was notbleeding,bleeding patients with high blood pressure,age,polyps diameter and shape were significant different $_ { ( P < 0 . 0 5 ) }$ . The multivariate regression analysis showed that high blood pressure, age, polyps position were independent risk factors $_ { ( P < 0 . 0 5 ) }$ . Conclusion High blood pressure, age, polyps position are independent risk factor for postoperative delayed bleeding, clinical should focus attention. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: polypectomy; delayed bleeding; risk factors; colonoscopy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大肠癌是临床最常见的恶性肿瘤之一，在全世界范围内大肠癌的发病率男女均处于恶性肿瘤的第3位，其中在西方发达国家，大肠癌的发病率处于第2位[-2]。在我国,随着生活水平的不断提高,饮食习惯的改变使大肠癌的发病率呈上升态势，排在恶性肿瘤和致死因素的第4位，故对大肠癌的早期诊断和治疗尤为重要。消化道的常见疾病大肠息肉，尤其是腺瘤性息肉很容易引起癌变，因此及时在内镜下切除大肠息肉对预防或根治大肠癌具有极其重要的意义[，故临床常采用手术切除的方式进行治疗。近年来，内镜下黏膜切除术因创伤小、疗效确切等诸多优点已成为消化道黏膜平坦型病变及癌前病变治疗的重要方法之一[4-5]。但该切除方法可能会导致出现部分的并发症,其中出血为最为常见的并发症之一，根据时间划分为术中出血和迟发性出血，其中迟发性出血分为早期迟发性出血(术后 $2 4 \\mathrm { ~ h ~ }$ 以内)和晚期迟发性出血(术后 $2 4  { \\mathrm { h } } { \\sim } 3 0  { \\mathrm { d } } )$ ，只能通过切除术后的临床表现辨认[。临床报道息肉切除术后迟发性出血的发生率大约为 $1 \\% \\sim 6 \\% ^ { [ 7 ] }$ ,可见该并发症发生率并不低。然而，有哪些因素容易导致术后迟发性出血？目前关于该方面的报道较少。本研究以3157例接受肠镜下息肉切除的患者为研究对象，报道如下。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "择取从2013年7月 ${ \\sim } 2 0 1 5$ 年6月，来我院行内镜下大肠息肉切除术的3157例息肉患者，患者年龄范围在 $1 6 { \\sim } 8 0$ 岁之间，平均年龄为 $4 5 . 8 5 { \\pm } 1 0 . 1 \\$ 岁，其中2082例患者为男性患者，1075例患者为女性患者。536例患者并发有高血压疾病、416例患者并发有糖尿病，所有患者在手术前的凝血功能均为正常，手术前1周均未服用抗凝药。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 纳入与排除标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纳入标准： $\\textcircled{1}$ 息肉直径大于 $2 0 ~ \\mathrm { m m }$ · $\\textcircled{2}$ 成功完成内镜下黏膜切除术或内镜粘膜下剥离术; $\\textcircled{3}$ 完全自愿参与本研究； $\\textcircled{4}$ 能够完成随访者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "排除标准： $\\textcircled{1}$ 并发有全身性的代谢疾病、炎性疾病、免疫疾病或血液疾病，以及对手术不耐受的患者； $\\textcircled{2}$ 主要器官并发有严重的器质性病变患者; $\\textcircled{3}$ 住院过程中伴随有穿孔、感染、出血等症状的患者;$\\textcircled{4}$ 冠心病、高血压等基础性合并症的急性期; $\\textcircled{5}$ 中重度的不典型性增生或癌症患者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对3157例已完成息肉切除手术的患者进行相关内镜、病理、及临床资料调查，调查的内容有：患者相关因素(年龄、性别、高血压糖尿病合并症其他慢性病）、息肉相关因素(息肉大小、部位、形态等),以分析其迟发性出血的相关危险因素及独立危险因素。息肉切除通常在肠道清洁之后进行，根据息肉大小、部位、形状等情况采用内镜下黏膜切除术法、内镜粘膜下剥离术法摘除息肉。手术前3d开始进食流食，手术前12h服用硫酸镁溶液0.5L排空肠道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据均采用SPSS19.0统计软件处理，使用单因素分析筛选危险因素，应用多因素回归分析筛选独立危险因素；计数资料采用 $\\chi ^ { 2 }$ 检验，计量资料采用t检验，以 $\\overline { { x } } \\pm s$ 表示， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1内镜下大肠息肉切除术后迟发性出血患者情况 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3157例患者当中有27例患者有迟发性出血症状发生，产生率为 $0 . 8 6 \\%$ ，迟发性出血多发生在息肉切除后的5\\~7d后，平均为 $5 . 9 { \\pm } 1 . 8 \\mathrm { d } .$ ，息肉的平均直径为 $3 2 . 1 \\pm$ $3 . 7 \\mathrm { m m }$ 。其中18例患者为男性，9例患者为女性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2单因素分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者基本资料及基础疾病的相关因素分析发现，迟发性出血患者的平均年龄明显高于未出血患者，差异有统计学意义 $( P { < } 0 . 0 5 )$ ;迟发性出血患者的舒张压及收缩压的数值明显高于未出血患者，差异有统计学意义 $_ { ( P < 0 . 0 5 ) }$ 。大肠息肉相关因素分析发现，与未出血患者相比，迟发性出血患者的息肉部位、息肉直径以及息肉形态均有统计学意义 $\\scriptstyle \\overbrace { P < 0 . 0 5 }$ 表1)。由此可知,高血压、年龄、息肉直径及形态、息肉生长位置是内镜下大肠息肉切除术后的迟发性出血的可能危险因素，",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffa08927558ef636346c9d0ca431fc02b8eaabf4998bceecaba9feab1996b934.jpg",
+        "table_caption": [
+            "表1内镜下大肠息肉切除术后迟发性出血的危险因素的单因素分析"
+        ],
+        "table_footnote": [
+            "（20 $^ { * } P { < } 0 . 0 5$ vs未发生迟发性出血患者."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">因素</td><td rowspan=\"2\">年龄(岁)</td><td rowspan=\"2\">性别(男,%,n)</td><td colspan=\"2\">高血压(mmHg)</td><td rowspan=\"2\">糖尿病(%,n)</td><td colspan=\"2\">息肉直径(%,n)</td><td colspan=\"2\">息肉形态(%,n)</td><td colspan=\"4\">息肉生长位置(%,n)</td></tr><tr><td>舒张压</td><td>收缩压</td><td>≥25 mm</td><td><25 mm</td><td>有蒂</td><td>无蒂</td><td>直肠</td><td>升结肠</td><td>盲肠</td><td>横结肠</td></tr><tr><td>迟发性出血患者 (n=27)</td><td>57.8±3.4*</td><td>70.1 (18)</td><td>95.63±3.21*</td><td>143.98±0.65*</td><td>11.1(3)</td><td></td><td>63.0(17）37.0(10)</td><td>18.5(5)</td><td>81.5(22)</td><td></td><td>14.8(4) 37*(10)</td><td>29.6(8) 18.5(5)</td><td></td></tr><tr><td>未发生迟发性出血 患者(n=3130)</td><td>42.98±15.3</td><td>65.9(2062)</td><td>85.82±1.87</td><td>134.75±3.46</td><td>13.2(413)</td><td>7.6(238)</td><td>92.4(2892)</td><td></td><td>40.6(1270） 59.4(1860)</td><td></td><td></td><td>1.0(32)6.8(213) 3.6(113) 9.3(291)</td><td></td></tr><tr><td>t</td><td>25.213</td><td>5.972</td><td>30.855</td><td>32.741</td><td>1.832</td><td>38.964</td><td>37.429</td><td>40.683</td><td>45.795</td><td>50.934</td><td>49.721</td><td>57.997</td><td>47.825</td></tr><tr><td>P</td><td>0.043</td><td>0.832</td><td>0.04</td><td>0.041</td><td>0.102</td><td>0.028</td><td>0.03</td><td>0.017</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3多因素回归分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将上述筛选的危险因素进行二元回归分析，最",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中筛选出年龄、高血压、息肉生长位置为息肉切除术后迟发性出血的独立危险因素(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec31101b01af421a02da284e48894e2bc2945fb0dc66bf34bd4f0434c2a054a3.jpg",
+        "table_caption": [
+            "表2内镜下大肠息肉切除术后迟发性出血的危险因素的多因素分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">因素</td><td rowspan=\"2\">年龄 (岁)</td><td rowspan=\"2\">高血压 (mmHg)</td><td rowspan=\"2\">息肉直径≥25 mm</td><td rowspan=\"2\">息肉形态(有蒂)</td><td colspan=\"3\">息肉生长位置</td></tr><tr><td>直肠</td><td>升结肠</td><td>横结肠</td></tr><tr><td>回归系数</td><td>-1.947</td><td>1.583</td><td>0.342</td><td>0.434</td><td>0.163</td><td>-1.171</td><td>-1.125</td></tr><tr><td>WALD</td><td>6.827</td><td>10.896</td><td>0.333</td><td>0.371</td><td>4.045</td><td>4.772</td><td>3.066</td></tr><tr><td>P</td><td>0.011</td><td>0</td><td>0.123</td><td>0.372</td><td>0.035</td><td>0.026</td><td>0.043</td></tr><tr><td>95% CI</td><td>1.035(1.038-2.058)</td><td>1.490(1.110-2.304)</td><td>1.026(1.101-1.161)</td><td>7,582(2.948-20.172)</td><td>1.318(0.500-1.415)</td><td>1.812(1.129-2.757)</td><td>1.753(1.548-6.945)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "内镜下大肠息肉切除手术后的并发症有穿孔、术后综合征、出血等，其中出血为最为常见的并发症。对于 $2 \\mathrm { c m }$ 以下的大肠息肉常采用电热圈切除，该方法现在应用非常广泛[，可用于直径为 $5 { \\sim } 1 0 ~ \\mathrm { m m }$ 的无蒂息肉及 $1 0 \\mathrm { m m }$ 以上的有蒂息肉[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由息肉切除而并发的出血症状可以分为迟发性出血和急性出血[9；急性出血为手术后 $6 0 ~ \\mathrm { { m i n } }$ 内出血，出血时间可持续60s及60s以上[10]。迟发性出血主要分为早期以及晚期的迟发性出血，其中早期迟发性出血指术后 $1 { \\sim } 2 4 \\mathrm { h }$ 内所并发的出血症状，晚期迟发出血指术后 $2 4 \\mathrm { ~ h ~ }$ 到3周内息肉残端的出血症状[]与此同时，迟发性出血根据出血量又可分成大量出血及少量出血，大量出血是指术后患者伴随排便而出现的大量便血，该症状下，血红蛋白含量水平高于$2 0 0 ~ \\mathrm { { m g / L } }$ ，且应通过内镜下止血处理;少量出血是指有限性的出血症状，血红蛋白含量水平低于 $2 0 0 \\mathrm { m g / L }$ ，内镜外止血即可解决[2]。由于迟发性出血症状难以预料，少数患者发生失血性休克而导致死亡[13]。所以，了解该病可能发生的危险因素及采取有效的预防措施是相当必要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于出血患者相关的危险因素分析,有关研究[14]表明老年人较易产生迟发性出血症状。本研究发现，与未发生出血症状的患者相比，迟发性出血患者的平均年龄为 $5 7 . 8 { \\pm } 3 . 4 \\$ 岁，差异有统计学意义 $_ { ( P < 0 . 0 5 ) }$ ，显示该症状随着年龄的增长风险变大，此结果与既往报道相符[15],说明术后出血可能和老年患者机体功能衰退，较易合并动脉粥样硬化相关疾病有关。有关文献[6表明，华法林作为一种抗凝剂可以增加大肠息肉切除术后的迟发性出血的危险，本研究所有患者在手术前的凝血功能均为正常，且术前7d内均无服用抗凝药，因而可排除本研究由于抗凝药物的使用导致出血风险的可能性。有报道显示[0]，患有高血压的患者，其发生迟发性出血的概率明显升高，但并未排除抗凝剂在迟发性出血中可能产生的作用。本研究发现，在27例出血患者均无服用如阿司匹林等抗凝剂的情况下，仍然发现出血患者的舒张压及收缩压的数值明显高于未出血患者组，差异有统计学意义 $( P { < } 0 . 0 5 )$ ；多因素回归分析提示高血压是独立危险因素 $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于出血患者息肉相关危险因素方面的分析，相关研究发现右边半结肠息肉的患者在手术后较易产生迟发性出血[。本文的研究也表明，患者的出血位置主要是在升结肠，高于其他部位，与对照组相比具有明显的差异，证实其是危险因素之一，迟发性出血症状发生主要是由于已经凝固了坏死的组织脱落以及组织的水肿闭塞血管的重新开放而引起，提示升结肠因管腔较大，能降低对术后息肉创面暴露血管的压迫力，至于更加准确的机理还有待于进一步的证实。再经多因素分析，提示其是独立危险因素之一 $\\scriptstyle { \\overbrace { P \\mathrm { = } 0 . 0 2 6 } ) }$ ，本研究经单因素分析证实，息肉直径大于 $2 5 ~ \\mathrm { m m }$ 为1项危险因素 $\\scriptstyle { ( P = 0 . 0 2 8 ) }$ 。然而，经多因素分析并未发现息肉直径和出血症状有一定关联1 $\\scriptstyle P = 0 . 1 2 3 { \\mathrm { , } }$ ,并不能说明息肉直径是一种独立的危险因素，推测应与大肠息肉的切除深度和黏膜下的显露血管有关。经单因素方差分析显示，因无蒂息肉而产生出血的比率较高为 $81 . 5 \\%$ ，但多因素回归分析此项并非是独立危险因素，这与其他文献报道一致[]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，大肠息肉的内镜下治疗已经成为息肉切除的首选方法，而其中的迟发性出血症是该疾病的最严重的并发症。本研究表明，高血压、年龄、息肉生长位置为术后迟发性出血的独立危险因素。息肉切除术后的出血处理是较为困难的，因此减少独立危险因素，把握好迟发性出血的防治原则是非常重要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Peto J.Cancer epidemiology in the last century and the next decade[J].Nature,2001,411(6835):390-5.   \n[2]Tsukuma H,Ajiki W.Descriptive epidemiology of colorectal cancer--international comparison[J]．Nippon Rinsho,2003，61 (Suppl 7): 25-30.   \n[3］徐存美,王秀莲,粟鹏.内镜治疗大肠息肉临床疗效观察[J].中 国医药指南,2011,9(16):180-1.   \n[4]赵昌学，宋艳苹.电视胸腔镜辅助下胸部小切口治疗食管平滑肌 瘤[J].中国内镜杂志,2010,16(1):91-2.   \n[5]任旭,徐晓红,孙秀芝,等.经内镜切除消化道黏膜下肿瘤[J].中 华消化内镜杂志,2005,22(1):22-4.   \n[6]Paspatis GA,Tribonias G,Konstantinidis K,et al.A prospective randomized comparison of cold vs hot snare polypectomy in the occurrenceofpostpolypectomybleeding in small colonic polyps[J]. Colorectal Dis,2011,13(10): e345-8.   \n[7]黄丽，毛华，金少琴，等.大肠息肉切除术后迟发性出血的危 险因素分析[J].中国内镜杂志,2012,18(8):809-12.   \n[8]任江南，王国杰,李啸峰,等.胃底息肉切除术后迟发性出血的危 险因素及防治分析[J].胃肠病学和肝病学杂志,2016,25(8):921-3.   \n[9］陈喜志，王运红，甘伟平．结肠镜息肉切除术后迟发性出血的危 险因素分析[J].广东医学,2013,34(24):3781-4.   \n[10]陈晓武，梁彪，王伟福，等.结肠镜息肉切除术后迟发性出血的 危险因素分析[J].现代消化及介入诊疗，2015,34(4):382-3.   \n[11]周杰,周勇.肠镜下大肠息肉切除的临床观察[J].现代预防医 学,2011,38(4): 794-5.   \n[12]余永明,戴晓宇,董明君,等.结肠镜与腹腔镜联合治疗大肠息肉 16例临床分析[J].现代实用医学,2011,23(6):685-6.   \n[13]Yf T,Yang KF,Ren LK,et al. Clinical observation of 87 cases of electronic colonoscopy colon polyp ligationresection[J]．J Med ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theor& Prac,2010,23(11):1339-40. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[14]Dobrowolski S,Dobosz M,Babicki A，et al．Blood supply of colorectal polyps correlateswith risk of bleeding after colonoscopic polypectomy[J].Gastrointest Endosc,2006,63(7):1004-9.   \n[15]曾安祥，王胜炳，朱德峰，等．大肠息肉结肠镜下摘除术后出血 176例临床分析[J].现代诊断与治疗,2015,26(13):3034-5.   \n[16]胡瑞红，滕进波.高危消化内镜干预对抗凝治疗患者的临床安全 性研究[J].哈尔滨医药,2014,34(4):259-61.   \n[17]Kim DH, Lim SW.Analysis of delayed postpolypectomy bleeding in a colorectal clinic[J].JKorean Soc Coloproctol,2011,27(1): 13-6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "谨防虚假仿冒网站公告",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近期有不法分子利用虚假网站冒充《分子影像学杂志》，诱骗作者投稿并收取审稿费或版面费，为此，《分子影像学杂志》编辑部严正声明:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.本刊唯一官方网站为htp://www.j-fzyx.com,其他形式的网站均为虚假网站。建议作者直接输入网址登录我刊网站，若通过搜索引擎搜索登录，请认准官网认证标志，以免误进假冒网站。作者需谨慎点击假冒网站,以免木马或病毒进入作者电脑,侵害作者利益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.本刊从未设立任何个人账户收取相关费用,唯一账户为南方医科大学对公账户。请广大作者提高警惕,增强自我保护意识。若有疑问可致电我编辑部咨询:020-61648176;61647352;61648778。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "《分子影像学杂志》编辑部2017年4月17日",
+        "page_idx": 3
+    }
+]

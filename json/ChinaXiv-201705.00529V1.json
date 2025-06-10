@@ -1,0 +1,345 @@
+[
+    {
+        "type": "text",
+        "text": "Preparation of Biobased Monofunctional Compatibilizer from Cardanol To Fabricate Polylactide/Starch Blends with Superior Tensile Properties ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhu Xiong, Xinyan Dai, Ruoyu Zhang, Zhaobin Tang, Haining Na,\\* and Jin Zhu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ningbo KeyLaboratoryofPolymer Materials,NingboInstituteof Materials TechnologyandEngineering,ChineseAcademyol Sciences, Ningbo, Zhejiang 315201,P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT:Abiobased monofunctionalcompatibilizer (calledEpicard) is first synthesized bythereactionof cardanol with epichlorohydrin as confirmed by Fourier transform infrared and $\\mathrm { \\hat { \\Omega } _ { H } } ^ { \\mathrm { i } }$ NMR. Subsequently， biosourced polymers, polylactide (PLA)and starch,are melt-blendedbyatwin-screwextruder withEpicard.Confrmedbythemeasurements ofcontactangleand $\\mathrm { ^ { 1 } H }$ nuclear magnetic resonance of the extracted starches from PLA/starch/Epicard blends，the Epicard only possesses a monoepoxy group to mainly react with starchand then increased the hydrophobicityofthe starches during the melt-blending process.As aresult,anobvious improvementtotheinterfacialadhesionbetween starchandPLAisobservedbythescanning electron microscopy.Furthermore,the tensile propertiesofPLA/starch blendsareefectively improved withtheadditionof Epicard.Thisstudysuggestsasimplebutefective materialtechniquebyutilizinganovelplantoilmodifertoincreasenterfacial adhesion in fabricating fully biobased PLA/starch blends with superior tensile properties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years，environmental concerns and shortage of petroleum resources have driven the efforts on development and production of biodegradable and recyclable materials, which are known as“green materials”，to solve disposal problems.1-3Amongbiodegradablepolymers，polylactide (PLA）is a promising polymer with high biodegradability, recyclability,and excellent mechanical properties for industrial plastic applications.4-6 However, the disadvantage of the high cost of PLA limits its uses for disposal items.Starch，asa common, inexpensive,and environmental friendly biopolymer, is an attractive candidate as an organic stiffness filler for PLA. Development of advanced materials technology to introduce starch into PLA as the formation of fully biobased composite with superior properties is an important research topic and attracts great attention.7-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With understanding the difference between hydrophilicity of starch and hydrophobicity of PLA，the increase of the compatibility between the two phases is realized as the primary issue to fabricate PLA/starch composite with high mechanical properties.As reported in the literature，use of reactive compatibilizer is the common approach to solve this issue102Reactiompaibliersoreaplemeth phenyl disocyanate(MDI),10acylicacid (AA),13glycedyl methacrylate (GMA),14 and maleic anhydride (MA),15-17 are recognized to produce a direct chemical linkage (as shown in Figure 1）between the two different phases to reduce the interfacialdifference between PLA and starch.Asaresult,the mechanical properties of the blends are effectively improved.In our previous works,8-20 plant oils were also used as the nontoxic respective compatibilizer to increase the compatibility between starch and PLA and thus the effective improvement of mechanical properties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "After deep analysis of the difference existing in the hydrophilicity between starch and PLA，it is found that the difference is mainly affected by their molecular structure.There is a large amount of hydroxyls on starch. But only a small quantity of hydroxyls can be found on PLA. As a result, it very easily leads to an unbalanced reaction with the reactive compatibilizer. Very limited chemical-bonding linkage can be formed between PLA and starch.This result effectively exhibits an important opposite conclusion； that is,there is no direct relation between compatibility and chemical-bonding linkage. No matter how much chemical-bonding linkage is formed between the two components, it does not hinder the increase of compatibility. Another explanation recognizes that the compatibility between PLA and starch is in fact decided by the interfacial adhesion.For instance,hydrophobic compatibilizers (particularly plant oils） mainly react with starch to produce a hydrophobic surface of starch particle.Accordingly, the interfacial adhesion between starch and PLA is enhanced and thus the compatibility is promoted. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To further exhibit the importance of the increase in interfacial adhesion to improve compatibility between starch and PLA,in this work,a nontoxic monofunctional plant oil compatibilizer without the ability to form chemical-bonding linkage is synthesized to use for the increase in interfacial adhesion.Cardanol (from biobased cashew nut shell oil) with $n$ pentadecadienyl phenolstructure123ischosentopreare the monofunctional compatibilizer (called Epicard） by the reaction between cardanol and Epichlorohydrin.And then Epicard is induced to be grafted onto the surface of starch in producing a hydrophobic plant oil layer to increase interfacial adhesion with the PLA.The changes in starch are analyzed by $\\mathrm { ^ { 1 } H }$ nuclear magnetic resonance (NMR),and the contact angle measurements,in detail. The compatibility between starch and PLA is observed by the scanning electron microscopy (SEM). Mechanical properties are also evaluated to show the increase of interfacial adhesion between the two phases of PLA and starch with the addition of Epicard. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fdf5cd0920c2808cf4957dbaebda11ff129aa6d9a9986c3d53716b5fc0a1ea2.jpg",
+        "img_caption": [
+            "Figure1.Poiblelratftiesoftmatiblf/sahmposiiiliougete melt-blending process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials.A semicrystalline extrusion grade PLA 4032D is supplied by NatureWorks (Blair，NE，United States).It is vacuum-dried at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 8 h }$ prior to use. The native food grade corn starch with the diameter of $5 - 2 0 \\mu \\mathrm { m }$ is bought from Zhucheng Stimulation Trade and Corn Development Co., Ltd., Shandong, China,which is dried in a vacuum dryer for $2 4 \\mathrm { h }$ at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ before used. Cardanol is obtained from Xuzhou Zhongyan Science and Technology Industrial Co., Ltd., China. Epichlorohydrin (ECH),toluene,and chloroform $( \\mathrm { C H } _ { 3 } \\mathrm { C l } )$ are from Aladdin Reagent, China. Tetrabutyl ammonium bromide (TBAB）and sodium hydroxide are supplied by Sinopharm Chemical Reagent Co.,Ltd.,China.All the chemicals are used as received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of the Epicard.Twenty grams of cardanol, 45 $\\mathbf { g }$ of ECH,and $1 . 6 \\ \\mathrm { g }$ of TBAB were placed in a three-necked round-bottomed flask with a magnetic stirrer,a thermometer, and a reflux condenser.After the reactants were mixed vigorously at room temperature for $1 0 \\ \\mathrm { m i n }$ ，itwas heated to about $1 0 5 ^ { \\circ } \\mathrm { C }$ and maintained at this temperature for another 3 h under nitrogen flow. Then the mixture was cooled to $8 0 ~ ^ { \\circ } \\mathrm { C }$ Aqueous solution of sodium hydroxide $( 1 1 3 ~ \\mathrm { g } ; ~ 4 8 ~ \\mathrm { w t } ~ \\% )$ was added drop by drop into the mixture.After that, the reaction was kept at $5 0 ~ ^ { \\circ } \\mathrm { C }$ for $3 \\mathrm { ~ h ~ }$ before it waswashed with deionized water five times.About $6 0 \\mathrm { ~ g ~ }$ of monofunctional epoxide (namely,Epicard) was obtained after removing the water and residual ECH on a rotary evaporator. The epoxy value of the Epicard determined by hydrochloric acid-acetone method was about O.27.The synthetic process is shown in Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of the PLA/Starch Composites.PLA/starch blends with and without the Epicard were first melt-blended in ascrew extruder (Brabender, Germany).The rotation rate and the mixing temperature were set at $4 0 \\ \\mathrm { r p m }$ and $1 7 0 ~ ^ { \\circ } \\mathrm { C } / 1 7 5$ $^ { \\circ } \\mathrm { C } / 1 8 0 ^ { \\circ } \\mathrm { C } / 1 7 5 ^ { \\circ } \\mathrm { C } / 1 7 5 ^ { \\circ } \\mathrm { C } ,$ respectively. Whereafter， the melting blends were water-cooled and sent to a LQ-25 granulator (Hengxi Machinery Manufacturing Co.，Ltd., Taizhou，China）to make pellets.Lastly， the pellets of the binary composites were dried at $8 5 ~ ^ { \\circ } \\mathrm { C }$ in a vacuum-drying oven for $2 4 \\mathrm { ~ h ~ }$ before injection molding. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc39076980296527b24df54b28f5a601c850972ca60d75177d4be5eed0b85e98.jpg",
+        "img_caption": [
+            "Figure 2. Synthetic route to Epicard. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extracted Starch from the Composites.To characterize the interfacial stateof starch and PLA,the starchfillers from the blends of PLA/starch (70/30),PLA/starch/cardanol $\\left( 6 8 / 3 0 / \\right)$ 2)，PLA/starch/Epicard $\\left( 6 8 / 3 0 / 2 \\right)$ ，andPLA/starch/Epicard $\\left( 6 5 / 3 0 / 5 \\right)$ were first extracted by Soxhlet extraction with methylene chloride for at least 3 days to remove unbonded monomers. The resulting extractants were called Extra-ST, Extra-STC1，Extra-STEC1，and Extra-STEC2.The extracted fillers were vacuum-dried for $s \\mathrm { ~ h ~ }$ at $5 0 ~ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterizations.The structure of the Epicard was analyzed by the Fourier transform infrared (FT-IR） spectrum and $\\mathrm { ^ { 1 } H }$ NMR. The infrared spectrum (FT-IR） was recorded with NICOLET 6700 FT-IR (Thermo Fisher Scientific, Waltham，MA， USA). $\\mathrm { ^ { 1 } H }$ NMR was performed on a 400 MHz AVANCE II Bruker NMR spectrometer (Bruker, Switzerland)withDMSO- $. d _ { 6 }$ as a solvent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Microstructure of the fracture surfaces of PLA/starch composites with the dimensions of $8 0 \\times 1 0 \\times 4 ~ \\mathrm { m m }$ were observed by a low expansion scanning electron microscope (SEM,Hitachi TM-1000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The static contact angles with water and diiodomethane at equilibrium were measured by an OCA 20 contact angle system (Dataphysics Instruments，Filderstadt，Germany)，which was equipped with a camera with a precision of $\\pm 0 . 1 ^ { \\circ }$ . Six points at least of each sample were recorded and averaged to determine the contact angles, subsequently calculating the dispersive and polar components of the surface energy according to the equations proposed by Wu.24 The surface tension of materials was calculated by eqs 1 and 2: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( 1 + \\cos \\theta _ { \\mathrm { H } _ { 2 } \\mathrm { O } } ) \\gamma _ { \\mathrm { H } _ { 2 } \\mathrm { O } } = 4 \\Bigg ( \\frac { \\gamma _ { \\mathrm { H } _ { 2 } \\mathrm { O } } ^ { \\mathrm { d } } \\gamma ^ { \\mathrm { d } } } { \\gamma _ { \\mathrm { H } _ { 2 } \\mathrm { O } } ^ { \\mathrm { d } } + \\gamma ^ { \\mathrm { d } } } + \\frac { \\gamma _ { \\mathrm { H } _ { 2 } \\mathrm { O } } ^ { \\mathrm { p } } \\gamma ^ { \\mathrm { p } } } { \\gamma _ { \\mathrm { H } _ { 2 } \\mathrm { O } } ^ { \\mathrm { p } } + \\gamma ^ { \\mathrm { p } } } \\Bigg ) } \\\\ & { ( 1 + \\cos \\theta _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } ) \\gamma _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } = 4 \\Bigg ( \\frac { \\gamma _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } ^ { \\mathrm { d } } \\gamma ^ { \\mathrm { d } } } { \\gamma _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } ^ { \\mathrm { d } } + \\gamma ^ { \\mathrm { d } } } + \\frac { \\gamma _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } ^ { \\mathrm { p } } \\gamma ^ { \\mathrm { p } } } { \\gamma _ { \\mathrm { C H } _ { 2 } \\mathrm { I } _ { 2 } } ^ { \\mathrm { p } } + \\gamma ^ { \\mathrm { p } } } \\Bigg ) } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\gamma$ is the surface tension, $\\gamma ^ { \\mathrm { d } }$ is the dispersion component, $\\gamma ^ { \\mathrm { p } }$ is the polar component,and $\\theta$ is the contact angle with water or diiodomethane. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to GB/T 1040.1-2006 (China),the samples were injection-molded into 1A type dumbbell-shaped samples with a thicknessof $4 . 0 ~ \\mathrm { \\ m m }$ in a HTF90W1 for tensile-testing injection-molding machine (Haitian Plastics Machinery, Ningbo,China).The tensile testing was carried out at a rate of $2 0 \\ \\mathrm { m m / m i n }$ based on GB/T 1040.1-2006 (China).Four samples for each blend were tested.These samples were located at room temperature for a period of 1 week prior to testing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the standard of ISO179-1:98 (USA)，the samples were injection-molded into a type of rectangular solid with a dimension of $8 0 \\times 1 0 \\times 4 ~ \\mathrm { m m }$ for impact testing in a HTF9oW1 injection-molding machine (Haitian Plastics Machinery,Ningbo,China).To conduct the impact test, the samples were then notched on a WAY-240 universal sampling machine (Chengde Kecheng Testing Machine Co.，Ltd., China)；the depth of notch on these samples was arranged from 1.9 to $2 . 1 ~ \\mathrm { \\ m m }$ ，The finally notch impact test was performed on a mechanical impact tester (XJ-SoZ,Chengde Dahua Testing Machine Co.Ltd., Chengde, China).During the notch impact test,a 2.7SJpendulumwas used to determine the notch impact strength.These samples were located at room temperature for a period of1 week prior to testing,and five samples for each blend were tested. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterization of the Epicard.Figure 3 shows the FTIR spectra of cardanol and synthesized Epicard.The bands at $1 0 4 \\dot { 6 } ~ \\mathrm { c m } ^ { - 1 }$ are assigned to the characteristic peak of symmetrical and asymmetric $\\scriptstyle { \\mathrm { C - O - C } }$ ring stretching，which indicates the presence of oxirane ring in the Epicard.25 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e0f388b4559be76230624c8b3da658b2fe1cc77eeb5f36c13092a7ba497f320.jpg",
+        "img_caption": [
+            "Figure 3.Infrared spectrum of cardanol and Epicard. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7719c2a3ed718f5743c09848ab7aaf6d35c5a4fec44d6d09aa28cf5e00bf80c0.jpg",
+        "img_caption": [
+            "Figure 4. $\\mathrm { ^ { 1 } H }$ NMR spectra of cardanol and Epicard. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88ccd1c9a9ce1e2eea4d3c495f48c1905d8680b5054339d3ee2ff6c1c1ff5d88.jpg",
+        "img_caption": [
+            "Figure 5. $^ { 1 } \\mathrm { H }$ NMR spectra of extracted starch particles from PLA/ starch(70/30)blend (a),PLA/cardanol/starch (68/2/30)blend (b), PLA/Epicard/starch (68/2/30)blend (c),and PLA/Epicard/starch (65/5/30) blend (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile，the intensity of the band at $3 3 4 9 ~ \\mathrm { { c m } ^ { - 1 } }$ corresponding to the phenolic hydroxyl group decreases and shifts to the high wavenumber in Figure 3.It shows that the phenolic hydroxyl group in cardanol had converted into epoxy group.The chemical structure of cardanol and the Epicard is further determined by $\\mathrm { ^ { 1 } H }$ NMR. In Figure 4, the peaks at 6.5, 7.0,and $9 . 2 \\ \\mathrm { p p m }$ shows the protons b,c,and a of the cardanol. Besides these peaks，the other peaks of cardanol shown in Figure 4 are from the residual part of cardanol.26 The peaks at 9.2 attributing to the $\\mathrm { ~ H ~ }$ proton of the phenolic hydroxyl group in the Epicard disappears,whereas the peaks at 4.3,3.7,3.3,2.8, and $2 . 6 ~ \\mathrm { \\ p p m }$ assign to the protons d,e，and f of the epichlorohydrin appearing in Figure 4.All the results indicate the Epicard is successfully produced in the experiment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea4d6d40a3250d4d584ab35f2564aa2327d4a6fc060c25312565dad3516434a3.jpg",
+        "img_caption": [
+            "Figure6.Scagelectromicoopmagesofstach(/3)lend();Ladanol/stach(8/3)bnd();L/Epicadah (68/2/30)blend (c);and PLA/Epicard/starch (65/5/30)blend (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Understanding the Effect of the Epicard in PLA/Starch Composites.To reveal the effect of the Epicard in PLA/starch blends,starch is extracted and characterized by $\\mathrm { ^ { 1 } H }$ NMR.In Figure Sab，no peaks can be found around $6 . 9 \\mathrm { - } 7 . 2 \\ \\mathrm { \\ p p m }$ from $\\mathrm { ^ { 1 } H }$ NMR curves of extracted ST and STC1.However, in Figure Sc,d, some peaks at 7.22 and $6 . 9 5 \\mathrm { p p m }$ attributing to the disubstituted benzene ring of extracted STEC1 and STEC2 appear.27 That is to say, the Epicard has been bonded to the surface of starch particles via the chemical reaction during melt processing.As a result，the starch particles have been encapsulated with the hydrophobic Epicard molecular layer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microstructure ofPLA/starch blend is also analyzed to show the effect of the change of the starch produced by the Epicard on the interfacial adhesion between PLA and starch.In Figure 6a,many holes with sharp edges are observed at the fracture surface under SEM.Because of the typical characteristics of the difference between hydrophilicity of starch and hydrophobicity of PLA,10,28 the interfacialadhesion between PLA and starch is poor.So,the starch particles can be easily removed from PLA matrix to form a hole with sharp edges,which exhibits a weak compatibility of PLA/starch blends.With theaddition of2wt $\\%$ cardanol, there still exists some obvious holes with sharp edges at the fracture surface (see Figure 6b).This is because no chemical reaction between starch and cardanol was carried out (see Figure Sb),and asa result, the weak interfacial adhesion between PLA and starch does not change a lot without the change in the starch.Moreover, there were many pores which might be produced by the coalescence of cardanol that occurred in the PLA matrix in the PLA/cardanol/starch ternary blend. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However，with the addition of 2 wt $\\%$ Epicard，starch particles could react with Epicard during the melt blending as confirmed in Figure Sc.The starch particles are well-embedded in the PLA matrix and almost no holes appeared in the PLA matrix (see Figure 6c） with the changing of the starch. Furthermore,with the amount of the Epicard increasing up to S wt $\\%$ ，only many small gaps between starch and PLA are observed in Figure 6d.There still exists a small amount of unreacted Epicard. The coalescence of the Epicard in melt processing leads to some pores in the composites.Moreover, by use of 5 wt $\\%$ Epicard in PLA/starch blends (as shown in Figure 7),with the starch amount increasing from 30 to 60 wt $\\%$ ，starch particles are also well-embedded in the PLA matrix. This result exhibits the strong ability of the Epicard to significantly improve the interfacial adhesion between PLA and starch via the reaction between starch and Epicard.With the increase of starch,more and more Epicard reacts with starch. The effect of coalescence is also reduced.As a result，no obvious pores are shown in the SEM image of the PLA/ Epicard/starch composite (see Figure 7d). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9b635745f9784c647162253caf7f529a457286174b3b296e8d7d6ab2f1fdea9.jpg",
+        "img_caption": [
+            "Figure7.ScaningelectromicroscopyimagesofPLA/Epicard/starch (65/5/30)blend (a);PLA/Epicard/starch (55/5/40)bend(b)；PA/ Epicard/starch (45/5/S0)blend (c);and PLA/Epicard/starch (45/5/60) blend (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b05acb3d1aa92d699c5e410e930caefb7be56567698ddda536d7b2fae58698a3.jpg",
+        "table_caption": [
+            "Table 1. Contact Angle and Surface Tension of the Extracted Starch "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"> samples</td><td colspan=\"2\">contact angle (deg)</td><td colspan=\"3\">surface tension (mN/m)</td></tr><tr><td>water</td><td>diiodomethane</td><td>total (γ)</td><td>dispersion component (γd)</td><td>polar component (xP)</td></tr><tr><td>Extra-ST</td><td>44</td><td>23</td><td>67</td><td>43</td><td>25</td></tr><tr><td>Extra- STC1</td><td>50</td><td>30</td><td>63</td><td>42</td><td>21</td></tr><tr><td>Extra- STEC1</td><td>107</td><td>40</td><td>41</td><td>40</td><td>1</td></tr><tr><td>Extra- STEC2</td><td>113</td><td>42</td><td>33</td><td>33</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Summary of the Effect of Epicard on PLA/Starch Composites.Contact angles of extracted starch are tested with water anddiiodomethane to further evaluate the effect on the improvement of interfacial adhesion. Surface tension，dispersion,and polar components of materials are calculated by eqs 1 and $2 ^ { 2 4 ^ { \\circ } }$ (see Table 1).For the extracted starch particles, because of the reaction between Epicard and starch，it is observed that the surface tension gradually decreased with the increase of the hydrophobicity of extracted starch.Meanwhile, the greater the amount of Epicard used, the lower the surface tension of extracted starch particle,as shown in Table 1.Thus, it isreasonable to believe thatby the utilizationof the Epicard in the PLA/starch blends,the reaction between starch and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Epicard contributes hydrophobicity to the starch surface (see Table1）and thus increases the interfacial adhesion between starch and PLA.Moreover，it is well-known that good compatibility in many multicomponent polymer blends，for instance，PLA/poly(3-hydroxybutyrate-co-hydroxycalerate) / polybutylene succinate,29 Polyamide/montorillonite/rubber,30 and nylon 6/ethylene propylene diene monomer rubber-graftMA/high-density polyethylene,3has been successfully produced by employing this theory. Therefore,in PLA/starch/ Epicard blends,the Epicard essentially serves as an effective reactive compatibilizer. It plays a vital role in significantly increasing the hydrophobicity of starch via a chemical reaction with starch and thus offers a driving force for the improvement of interfacial adhesion or compatibility between PLA and starch,as illustrated in Figure 8. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mechanical Properties.In this section, besides the change in microstructure and physical properties,mechanical properties ofPLA/starch blends are exhibited in detail to analyze the important effect of interfacial adhesion in PLA/starch blends with Epicard.As shown in Table 2，PLA/starch (70/30) composite has poor mechanical properties with tensile strength ${ \\sim } 3 3 \\ \\mathrm { M P a } ,$ ，elongation ${ \\sim } 1 . 2 \\%$ ，and impact strength ${ \\sim } 2 . 8 \\ \\mathrm { k J / m } ^ { 2 }$ The results indicate low interfacial adhesion between PLA matrix and starch particles for their immiscible characteristics, as shown in Figure 6a.With the addition of 2 wt $\\%$ cardanol, not much change in mechanical properties is exhibited in Table ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/76880c876bbc501263086879fd32a2282431f967acf4016a73b427952b15130d.jpg",
+        "img_caption": [
+            "Figure8Iurfesofeodpabldaactiicadel blending process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8511ee53b00ae62c39efbce38c1989048b197599b4c252d2e9a9c07c8d1622cd.jpg",
+        "table_caption": [
+            "Table 2.Mechanical PropertiesofPLA/StarchBlend,PLA/Cardanol/Starch Ternary Blend,adPLA/Epicard/StarchTeary Blends "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> samples</td><td>tensile modulus (MPa)</td><td>tensile strength (MPa)</td><td>elongation at break (%)</td><td> impact strength (KJ/m²)</td></tr><tr><td>PLA/starch (70/30)</td><td>3517 ± 55</td><td>33±1</td><td>1.2 ± 0.2</td><td>2.8 ± 0.1</td></tr><tr><td>PLA/cardanol/starch (68/2/30)</td><td>3420 ± 62</td><td>32 ±1</td><td>1.5 ± 0.2</td><td>2.5 ± 0.1</td></tr><tr><td>PLA/Epicard/starch (68/2/30)</td><td>3690 ± 101</td><td>41±2</td><td>1.7 ± 0.5</td><td>3.3 ± 0.1</td></tr><tr><td>PLA/Epicard/starch (65/5/30)</td><td>3543 ±103</td><td>46±2</td><td>3.3 ± 0.2</td><td>4.7 ± 0.5</td></tr><tr><td>PLA/Epicard/starch (S5/5/40)</td><td>3864 ± 76</td><td>42±2</td><td>2.3 ± 0.1</td><td>3.9 ± 0.2</td></tr><tr><td>PLA/Epicard/starch (45/5/50)</td><td>3969 ± 113</td><td>38±1</td><td>1.6 ± 0.1</td><td>3.1 ± 0.2</td></tr><tr><td>PLA/Epicard/starch (35/5/60)</td><td>4069 ± 43</td><td>35±1</td><td>1.3 ± 0.1</td><td>2.4 ± 0.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.However,after adding 2 wt $\\%$ Epicard in PLA/starch blends, the tensile strength increases to ${ \\sim } 4 1 \\ \\mathrm { \\ M P a }$ ，Elongation and impact strength are also improved a little.Furthermore,with the amount of the Epicard increased to 5 wt $\\%$ ,tensile strength, elongation,and impact strength are respectively improved to ${ \\sim } 4 6 \\ \\mathrm { M P a } ,$ $3 . 3 \\%$ ，and $4 . 7 \\mathrm { \\ K J / m } ^ { 2 }$ ，Results show increase of interfacial adhesion produced an obvious increase of mechanical properties.After the content of starch increased up to 60 wt $\\%$ ，the tensile properties of PLA/starch composite with the Epicard could also reach a high level.The tensile strengths, elongations，and impact strengths are also higher than the properties of the composites without using the Epicard. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this work,a biobased monofunctional epoxide from cardanol (named as Epicard) is successfully synthesized to serve as an effective reactive compatibilizer to improve the compatibility between PLA and starch via one-step melt blending. The results reveal that Epicard could mainly bond onto the surface of starch via chemical reaction to provide hydrophobicity and then improve the compatibility without any chemical-bonding linkage between PLA and starch. Our current research suggests an effective way to improve interfacial adhesion for the increase of compatibility via monofunctional compatibilizer. With the effective improvement of interfacial adhesion between starch and PLA,a fully biobased PLA/starch blend with superior tensile properties is obtained.This study would provide a novel and simple material technique to design a renewable and effective reactive interfacial modifier in fabricating biobased blends with superior compatibility and tensile properties. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*Tel./Fax: $+ 8 6$ 574 86685925.E-mail: nahaining@nimte.ac.cn (H.N.N.). \\*Tel./Fax: $+ 8 6$ 574 86685925. E-mail: jzhu@nimte.ac.cn (J.Z.). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for the valuable help from Dr. Xiaoqing Liu and Dr. Jianxiang Feng. We also are very thankful forfinancial support from Project 21204096 and Project 21274160 supported by NSFC，and Ningbo Key Lab of Polymer Materials (Grant 2010A22001). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）Mohanty，A.；Misra,M.；Drzal,L. Sustainable bio-composites from renewable resources: opportunities and challenges in the green materials world. J.Polym.Environ.2002,10,19-26.   \n(2） Stevens, E.; Goldstein,N.How green are green plastics? Biocycle 2002,43,42-45.   \n(3）Mohanty,A.；Misra,M.;Hinrichsen,G.Biofibres,biodegradable polymers and biocomposites:an overview.Mater.Eng.20oo,276,1- 24.   \n(4)Huda, M. S.; Drzal,L. T.； Mohanty,A.K. Chopped glass and recycled newspaper as reinforcement fibers in injection molded poly (lactic acid) (PLA） composites:a comparative study. Compos. Sci. Technol. 2006,66,1813-1824.   \n(5)Anderson,K. S.； Schreck, K. M.； Hillmyer， M.A. Toughening polylactide.Polym.Rev.2008,48,85-108.   \n(6）Gross，R.A.；Kalra，B.Biodegradable polymers for the environment. Science 2002,297，803-807.   \n(7)Jacobsen,S.；Fritz,H.Filling of poly (lactic acid） with native starch.Polym.Eng. Sci.1996,36,2799-2804. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(31)Li, L.; Yin,B.; Zhou,Y.Characterization ofPA6/EPDM $\\mathbf { g }$ -MA/ HDPE ternary blends: The role of core-shell structure.Polymer 2012, 53,3043-3051. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(8) Ke,T.; Sun, X.Thermal and mechanical properties of poly (lactic acid)and starch blends with various plasticizers.T.ASAE 2001, 44, 945-953.   \n(9)Yu,L.； Dean,K.; Li,L.Polymer blends and composites from renewable resources.Prog.Polym. Sci.2006,31, 576-602.   \n(10)Wang,H.； Sun, X.; Seib,P. Strengthening blends of poly(lactic acid）and starch with methylenediphenyl diisocyanate.J. Appl.Polym. Sci. 2001,82, 1761-1767.   \n(11) Jun, C.L. Reactive blending of biodegradable polymers:PLA and starch.J.Polym. Environ.200o,8,33-37.   \n(12）Wang, H.； Sun，X.；Seib,P.Effects of starch moisture on properties of wheat starch/poly(lactic acid) blend containing methylenediphenyl diisocyanate.J.Polym.Environ.20o2,10,133-138. (13）Wu，C. S. Improving polylactide/starch biocomposites by grafting polylactide with acrylic acid-characterization and biodegradability assessment. Macromol. Biosci. 2005,5,352-361.   \n(14) Liu,J.; Jiang,H.; Chen,L.Grafting of glycidyl methacrylate onto poly(lactide) and properties of PLA/Starch blends compatibilized by the grafted copolymer.J.Polym.Environ. 2012,20,810-816.   \n(15） Zhang J. F.； Sun,X. Z.Mechanical properties of poly(lactic acid)/starch composites compatibilized by maleic anhydride. Biomacromolecules 2004, 5,1446-1451.   \n(16）Huneault，M. A.；Li，H. Morphology and properties of compatibilized polylactide/thermoplastic starch blends.Polymer 2007,48,270-280.   \n(17)Zhang, J.F.； Sun, X. Z. Physical characterization of coupled poly(lactic acid)/starch/maleic anhydride blends plasticized by acetyl triethyl citrate.Macromol.Biosci.2004,4,1053-1060.   \n(18) Xiong,Z.; Li,C.; Ma,S.;Feng, J.; Yang,Y.; Zhang,R； Zhu,J. The properties of poly(lactic acid)/starch blends with a functionalized plant oil: Tung oil anhydride. Carbohydr.Polym. 2013,95,77-84. (19) Xiong, Z.; Zhang, L.; Ma, S.; Yang, Y.; Zhang,C.; Tang,Z.; Zhu, J. Effect of castor oil enrichment layer produced by reaction on the properties of PLA/HDI-g-starch blends.Carbohydr.Polym.2013,94, 235-243.   \n(20）Xiong, Z.； Yang,Y.； Zhang, X.； Zhang,C.；Tang,Z.; Zhu,J. Preparation and characterization of poly(lactic acid)/starch composites toughened with epoxidized soybean oil. Carbohydr.Polym. 2013, 92,810-816.   \n(21）Phani, K.P.； Paramashivappa,R；Vithayathil,P.J.； Subba Rao, P.V.; Srinivasa, R.A.Process for isolation of cardanol from technical cashew nut shell liquid. J. Agric. Food. Chem. 2002, 50,4705-4708. (22）Maffezzoli,A.; Calo,E.； Zurlo,S.； Mele,G.; Tarzia,A.； Stifani, C.Cardanol based matrix biocomposites reinforced with natural fibres. Compos. Sci. Technol. 2004, 64, 839-845.   \n(23）Gedam，P.； Sampathkumaran，P. Cashew nut shell liquid: extraction, chemistry and applications.Prog. Org. Coat.1986,14,115- 157.   \n(24)Wu, S. Phase structure and adhesion in polymer blends:a criterion for rubber toughening.Polymer 1985,26,1855-1863. (25）Edwards,H.G.M.；Farwell,D.W.；Williams,A.C.Raman spectrum of cotton:a polymeric biomolecular analysis. Spectrochim. Acta A 1994, 50,807-811.   \n(26) Suresh, K.I. Rigid polyurethane foams from cardanol: synthesis, structural characterization，and evaluation of polyol and foam properties.ACS Sustainable Chem.Eng. 2012,1,232-242.   \n(27）Brocard, J.; Laconi, A.; Couturier,D. $^ { 1 } \\mathrm { H }$ NMR conformational analysis of disubstituted arene tricarbonyl chromium complexes. Org. Magn. Reson. 1984, 22,369-371.   \n(28）Ke, T.； Sun, X. Physical properties of poly(lactic acid) and starch composites with various blending ratios.Cereal Chem. 200,77, 761-768.   \n(29) Zhang, K.； Mohanty,A.K.； Misra,M.Fully biodegradable and biorenewable ternary Blends from polylactide,poly(3-hydroxybutyrate-co-hydroxyvalerate） and poly(butylene succinate） with balanced properties.ACS Appl. Mater. Interfaces 2012,4, 3091-3101.   \n(30）Yoo，Y.；Cui，L.；Yoon, P.J.Morphology and mechanical properties of rubber toughened amorphous polyamide/MMT nanocomposites. Macromolecules 2009,43, 615-624. ",
+        "page_idx": 6
+    }
+]

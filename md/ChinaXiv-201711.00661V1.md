@@ -1,0 +1,261 @@
+# 一种压缩空气储能系统性能分析新方法
+
+郭欢12，徐玉杰¹，刘畅¹，陈海生1\*(1．中国科学院工程热物理研究所，北京100190；2．中国科学院大学，北京100049)
+
+摘要：针对压缩空气储能系统存在系统流程上的对称性、流程点的对应性和对应点较强的物理关联性的特点，本文提出了适用于压缩空气储能系统的对应点分析新方法，建立了对应点效率、对应设备烟效率、设备因子和恢复系数等数学模型，这些模型能反映系统局部和整体的恢复能力、对应设备的性能，以及系统优化改进方向。同时，本文以超临界压缩空气储能系统为典型案例，证实了该分析方法的实用性和简洁性。本文的研究为压缩空气储能系统的分析提供了简洁方法，具有一定的研究和工程价值。
+
+关键词：压缩空气储能系统；分析方法；对应点中图分类号：TK02文献标示码：A
+
+# A New Method of Performance Analysis for CAES System
+
+GUO Huan1,2, XU Yu-jie1,LIU Chang1, CHEN Hai-sheng (1. Institute of Engineering Thermophysics, Chinese Academy of Sciences,Beijing 100190, China; 2.University of Chinese Academy of Sciences,Beijing 10oo49, China)
+
+Abstract: According to the characters of symmetry of system flow, the correspondence of process points,and relative strong physical relevance of corresponding pointsof the Compressed Air Energy Storage(CAES) system, a new corresponding point analysismethod for CAES is proposed in this paper. The mathematical model of the corresponding point efficiency,the exergy efficiencyofcorresponding facility, the facility factorand the recovery coeficient are establishedwhich can imply the recovery ability of part and the entire of the system，the performance of coresponding facility and the direction of system optimization further.And the practicability and concisenessof this new analysis method is verified with the case of Supercritical Compressed Air Energy Storage (SCAES)system. The study of this work provides a concise way to analyze CAES system which shows a certain meaning and the practical value.
+
+Key words: CAES; analysis method;corresponding point
+
+# 0引言
+
+压缩空气储能系统具有储能容量大、储能周期长、比投资小等优点，被认为是最具发展潜力的大规模储能技术之一，已受到国内外学者的高度关注[1,2]
+
+自从1949年StalLaval提出可利用地下洞穴储存压缩空气以来，已经发展了多种压缩空气储能系统，包括传统压缩空气储能（CAES)，先进绝热压缩空气储能系统（AA-CAES）、液态空气储能系统
+
+（LAES）、湿空气透平压缩空气储能系统（CASH）、超临界压缩空气储能系统（SCAES）、小型压缩空气储能系统（SSCAES）、与其它技术耦合的CAES系统等[1,3]。这些压缩空气储能系统虽然流程上各具差异，但均包含空气压缩过程和空气膨胀过程，流程上存在一定的对称性，参数上存在一定对应性及较强的物理关联性。
+
+目前对CAES系统的分析均采用传统的基于热
+
+# 收稿日期：
+
+基金项目：国家863计划项目（2013AA050801)；国家国际科技合作专项项目（2014DFA60600)作者简介：郭欢（1988-)，男，在读博士，主要从事压缩空气储能系统性能研究。
+
+力学第一定律能量平衡分析方法和基于热力学第二定律的烟平衡分析方法[4-6],均未注意到CAES系统流程对称和参数对应特点，其分析和优化比较复杂。
+
+本文通过对CAES系统流程特点的分析，提出了一种适用于CAES系统的对应点分析方法，并进行了典型案例的分析。
+
+# 1 CAES的特点
+
+图1为传统CAES的系统流程图，其工作原理为：储能时，利用电能通过压缩机将空气压缩至高压并储存于地下洞穴，实现电能的储存；释能时，储存在地下洞穴的高压空气进入燃烧室与燃料燃烧产生高温高压燃气，然后进入膨胀机膨胀做功。由流程可见：系统流程上存在对应的点，如压缩机出口和膨胀机入口；压缩机入口和膨胀机出口等。
+
+图2 是一种AA-CAES 系统流程图，与传统CAES系统的主要区别是该系统不需要化石燃料，而是回收压缩机间冷热并用于加热膨胀机进口空气。如图为压缩机和膨胀机级数相同的典型情况，系统流程的对称性和流程点的对应性更加明显：各级压缩机入口和对应膨胀机出口；各级压缩机出口和对应膨胀机入口；储气室入口和储气室出口。
+
+![](images/89bb0c9fcc407064c7d9bf43565b71b5fe944ba0cdd474d38ab63a3a829faa1f.jpg)  
+Fig.1 Schemeof traditional CAES system   
+图2一种AA-CAES系统流程图Fig.2Scheme of anAA-CAES system
+
+![](images/f8d8ee2e0a238592e3ae05e709915c5e1f57427966bcea2f8fb926055c61984c.jpg)  
+图1传统CAES系统流程图  
+图3一种SCAES系统流程图  
+Fig.3Schemeof an SCAESsystem
+
+图3为一种SCAES的系统流程图，其工作原理为：储能时，空气被压缩机压缩到超临界状态，在回收压缩热后利用存储的冷能将其冷却液化，并储于液态空气储罐中；释能时，液态空气加压吸热至超临界状态，并进一步吸收压缩热后通过透平膨胀机驱动发电机发电。SCAES系统同样具有较好的流程对称性和流程点的对应性：各级压缩机出/入口和对应级膨胀机的入/出口；蓄冷回热器高温端入口和出口；蓄冷回热器低温端入口和出口；液态空气储罐出口和入口等。
+
+压缩机 3 5 7 液体膨 2 4 6 8 间冷器g 后冷器 胀机 液态空气储罐 水泵 热罐 D0 112 散热器 17 14 25 冷罐 ? 23 21 19 d 16 蓄冷低温泵 1513 再热器 换热器 常压空气 24 22 20膨胀机18
+
+本文将这种流程上对应的两个点称为对应点，如图3所示的SCAES系统，各对应点分别为：1-25；2-24;3-23;4-22; 5-21; 6-20; 7-19; 8-18;9/10-( $\left( 1 6 + 1 7 \right)$ 11-( $1 5 { + } 1 4 )$ ；12-( $^ { 1 3 + 1 4 ) }$ 。其中，将储能的终点和释能的起点称为储存对应点（储存点）（当考虑储气室的损失时，需规定时刻)。CAES系统在储能时，工质通过各热力过程状态不断改变，最终到达储存点的状态；释能时，工质通过一系列的对应过程不断地恢复其状态参数。由于过程能量损失的存在，释能过程中流程点参数无法完全恢复到其对应点的参数（无外部能源介入情况下，或排除外部能源介入的影响)，因此本文将通过研究释能过程各对应点参数的恢复情况，以及对应设备与外界烟交换的情况等进行系统性能分析。
+
+# 2对应点分析方法
+
+# 2.1对应点/对应设备的选取原则
+
+对应点分析方法是建立在系统热力计算结果基础上，通过对相关参数的计算，得到系统的性能与系统改进和优化的方向。图4为CAES系统对应点和对应设备的模型图，将储能过程和释能过程各分为N个设备，一一对应，从而形成N个对应设备（如图中虚线框所示为第i个对应设备）和 $_ { \mathrm { N + 1 } }$ 个对应点。储存点为连接储能过程和释能过程的纽带，其火用值为储气室空气的烟值（根据实际情况选取某一时刻储气室内空气的值）。
+
+为较好地分析和优化系统，对应点及对应设备的选取应满足以下原则：能够较好的评价系统整体和局部的"恢复"性；对应设备尽量为同种类型设备的组合；能够关注系统局部损失及内部能量传递。
+
+QisW1s Q2sW2s Qis Wis QNs WNS # W 「-1 W 國 D - N 自   
+E151E1 E2s 1 1 Eis / 1 一 1 ENS 储存点 E E 1 EN 1 一 ↓ ↓ ↓ 一 ? 一 ↓ ↓   
+EIN E2N EN- 1 _1_- ENN 三Ⅱ H W ■   
+QINW1NQ2NW2N QiNWiN QNNWNN
+
+Fig.4 The model of corresponding point and corresponding facility forCAES
+
+# 2.2对应点效率
+
+储能过程中，输入第 $i { \sim } \mathrm { N }$ 个对应设备的总为：
+
+$$
+E _ { \mathrm { { \small i - N i n p u t } } } = E _ { \mathrm { { \small i S } } } + \sum _ { i } ^ { \mathrm { { \scriptsize ~ N } } } ( E _ { \mathrm { { \small Q i S } } } + W _ { i \mathrm { { S } } } )
+$$
+
+式中 $E _ { i \mathrm { S } }$ 为储能过程中第 $i$ 个对应点的用值， $E _ { \mathrm { Q } i \mathrm { S } }$ 和$W _ { i \mathrm { S } }$ 分别为储能过程中环境输入第 $i$ 个对应设备的热量灯和功量。
+
+释能过程中，第 $i { \sim } \mathrm { N }$ 个对应设备向外输出的总烟为：
+
+$$
+E _ { \mathrm { { \small i - N o u t p u t } } } = E _ { \mathrm { { \small i N } } } + \sum _ { i } ^ { \mathrm { { \scriptsize ~ N } } } ( E _ { \mathrm { { \small g i N } } } + W _ { \mathrm { { \small i N } } } )
+$$
+
+式中 $E _ { i \mathrm { N } }$ 为释能过程中第 $i$ 个对应点的烟值， $E _ { \mathrm { Q } i \mathrm { N } }$ 和 $W _ { i \mathrm { N } }$ 分别为释能过程中第 $i$ 个对应设备向环境输出的热量烟和功量。
+
+如果将第 $i { \sim } \mathrm { N }$ 个对应设备看做一个整体，则可用 $\eta _ { i - \mathrm { d o t } }$ 描述储能系统第 $i$ 个对应点后设备的性能：
+
+$$
+\eta _ { i - \mathrm { d o t } } = \frac { E _ { i - \mathrm { N o u t p u t } } } { E _ { i - \mathrm { N i n p u t } } }
+$$
+
+定义 $\eta _ { i - \mathrm { d o t } }$ 为第 $i$ 个对应点的对应点效率，当 $i$ 为1为，对应点效率为系统的烟效率。
+
+# 2.3恢复系数与设备因子
+
+定义对应设备 $i$ 的恢复系数为：
+
+$$
+\xi _ { i } = \frac { E _ { i \mathrm { N } } - E _ { ( i + 1 ) \mathrm { N } } + ( E _ { Q i \mathrm { N } } + W _ { i \mathrm { N } } ) } { E _ { i \mathrm { S } } - E _ { ( i + 1 ) \mathrm { S } } + ( E _ { Q i \mathrm { S } } + W _ { i \mathrm { S } } ) }
+$$
+
+因此：
+
+$$
+\eta _ { i - \mathrm { d o t } } = \frac { \displaystyle \sum _ { i } ^ { m } \xi _ { k } L _ { k } + \eta _ { ( m + 1 ) - \mathrm { d o t } } ( \sum _ { k = m + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } ) } { \displaystyle \sum _ { k = i } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } }
+$$
+
+其中 $L _ { \mathrm { s t o r a g e } }$ 为储存点的用值，将 $L _ { i }$ 称为设备因子，其表达式：
+
+$$
+L _ { i } = E _ { _ { i \mathrm { S } } } - E _ { _ { ( i + 1 ) \mathrm { S } } } + ( E _ { _ { Q i \mathrm { S } } } + W _ { _ { i \mathrm { S } } } )
+$$
+
+同时，根据式（4)，令：
+
+$$
+L _ { _ { i \mathrm { N } } } = L _ { _ i } \xi _ { _ i } { = } E _ { _ { i \mathrm { N } } } - E _ { _ { ( i + 1 ) \mathrm { N } } } + ( E _ { _ { Q i \mathrm { N } } } + W _ { _ { i \mathrm { N } } } )
+$$
+
+当 $m { = } i$ 时，由式（5）得：
+
+$$
+\eta _ { i - \mathrm { d o t } } = \frac { \xi _ { i } L _ { i } + \eta _ { \scriptscriptstyle { ( \mathrm { i + 1 } ) - \mathrm { d o t } } } ( \sum _ { k = i + 1 } ^ { N } L _ { k } + L _ { \mathrm { s t o r a g e } } ) } { L _ { i } + ( \sum _ { k = i + 1 } ^ { N } L _ { k } + L _ { \mathrm { s t o r a g e } } ) }
+$$
+
+由于储能的目的，一般情况下：
+
+$$
+\sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } { + } L _ { \mathrm { s t o r a g e } } > 0
+$$
+
+可知当：
+
+$$
+\begin{array} { r } { \left\{ \xi _ { i } < \eta _ { ( i + 1 ) - \mathrm { d o t } } , \qquad \quad \underline { { \sharp } } _ { i } ^ { \star } < 0 \right. } \\ { \left. \xi _ { i } > \eta _ { ( i + 1 ) - \mathrm { d o t } } , \qquad \underline { { \sharp } } _ { i } ^ { \star } < 0 \right. } \end{array}
+$$
+
+会造成 $\eta _ { i - \mathrm { d o t } }$ 小于 $\eta _ { ( i + 1 ) - \mathrm { d o t } }$ ，即对应点效率沿储存点到起始点（ $i { = } 1$ 处）的方向减小。同时由式（8）可得对应点效率下降值：
+
+$$
+\begin{array} { l } { \displaystyle \eta _ { i } = \eta _ { ( i + 1 ) - \mathrm { d o t } } - \eta _ { i - \mathrm { d o t } } } \\ { = \frac { L _ { i } } { L _ { i } + ( \displaystyle \sum _ { k = i + 1 } ^ { N } L _ { k } + L _ { \mathrm { s o r a g e } } ) } ( \eta _ { ( i + 1 ) - \mathrm { d o t } } - \xi _ { i } ) } \\ { = \frac { L _ { i } \eta _ { ( i + 1 ) - \mathrm { d o t } } - L _ { i N } } { L _ { i } + ( \displaystyle \sum _ { k = i + 1 } ^ { N } L _ { k } + L _ { \mathrm { s o r a g e } } ) } } \end{array}
+$$
+
+由上式可知：对应点效率的减小值与设备因子所占后段（靠近储存点侧）输入的比例、后一点对应点效率和此设备的恢复系数差值有关，设备因子所占后段输入越小、此设备的恢复系数和后一点的对应点效率差值越小，则对应点效率下降的越小，更能使系统效率达到较大值。
+
+由于：
+
+$$
+\eta _ { \mathrm { s y s t e m } } = \eta _ { \mathrm { l - d o t } } = 1 - \sum _ { i = \mathrm { N - 1 } } ^ { 1 } \Delta \eta _ { i }
+$$
+
+若采用从后段向前段优化的方式（保持 $i$ 点以后的系统参数为定值)，则根据式（11）可通过优化$L _ { i }$ 和 $L _ { i \mathrm { N } }$ 得到较小的 $\varDelta \eta _ { i }$ 。 $\varDelta \eta _ { i }$ 对 $L _ { i }$ 求导（将 $L _ { i }$ 和 $L _ { i \mathrm { N } }$ 作为独立变量）得：
+
+$$
+\frac { \displaystyle \partial \Delta \eta _ { i } } { \displaystyle \hat { \alpha } I _ { i } } = \frac { \displaystyle \eta _ { ( i + 1 ) - \mathrm { d o t } } ( L _ { i } + ( \sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } ) ) - ( L _ { i } \eta _ { ( i + 1 ) - \mathrm { d o t } } - L _ { i \mathrm { N } } ) } { { [ L _ { i } + ( \sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } ) ] } ^ { 2 } }
+$$
+
+如果：
+
+$$
+L _ { i } < < ( L _ { i } + ( \sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } )
+$$
+
+则可忽略式（13）分子上的第二项得：
+
+$$
+\frac { \hat { \sigma } \Delta \eta _ { i } } { \hat { \sigma } L _ { i } } = \frac { 1 } { L _ { i } + ( \displaystyle \sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } ) } \eta _ { ( i + 1 ) - \mathrm { d o t } }
+$$
+
+实际中式（14）一般是成立的，因此以下分析将基于这个假设。
+
+$\varDelta \eta _ { i }$ 对 $L _ { i \mathrm { N } }$ 求导得:
+
+$$
+\frac { \partial \Delta \eta _ { i } } { \partial L _ { i \mathrm { N } } } = - \frac { 1 } { L _ { i } + ( \displaystyle \sum _ { k = i + 1 } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } ) }
+$$
+
+由式（15）和（16）可知： $\varDelta \eta _ { i }$ 对 $L _ { i \mathrm { N } }$ 更敏感;越远离储存点，由于 $\eta _ { i - d o t }$ 越小，后段输入畑越大，$\varDelta \eta _ { i }$ 对 $L _ { i }$ 和 $L _ { i \mathrm { N } }$ 敏感程度差别越大(差别用比值描述);$\varDelta \eta _ { i }$ 对 $L _ { i }$ 和 $L _ { i \mathrm { N } }$ 敏感程度均变小。
+
+当 $m { = } \mathrm { N }$ 时，由式（5）得：
+
+$$
+\eta _ { i - \mathrm { d o t } } = \frac { \displaystyle \sum _ { i } ^ { \mathrm { N } } \xi _ { k } L _ { k } + L _ { \mathrm { s t o r a g e } } } { \displaystyle \sum _ { k = i } ^ { \mathrm { N } } L _ { k } + L _ { \mathrm { s t o r a g e } } }
+$$
+
+由式（17）可知，当 $L _ { i }$ 不变、 $\xi _ { i }$ 之间相互影响较小时，对应点效率对设备因子较大的对应设备较敏感，因此为提高系统效率，应特别关注设备因子较大的对应设备。
+
+# 2.4各对应设备的损失与烟效率
+
+第 $i { \sim } \mathrm { N }$ 个对应设备产生的总损为：
+
+$$
+\begin{array} { r } { \displaystyle \sum _ { k = i } ^ { N } { I _ { k - \mathrm { l o s s } } } = E _ { i \mathrm { S } } + \displaystyle \sum _ { k = i } ^ { \mathrm { N } } ( E _ { \varrho k \mathrm { S } } + W _ { k \mathrm { S } } ) - } \\ { \displaystyle [ E _ { i \mathrm { N } } + \displaystyle \sum _ { k = i } ^ { \mathrm { N } } ( E _ { \varrho i \mathrm { N } } + W _ { i \mathrm { N } } ) ] } \end{array}
+$$
+
+将式（3）代入式（18）得：
+
+$$
+\sum _ { k = i } ^ { \mathrm { N } } I _ { k - \mathrm { l o s s } } = [ E _ { i \mathrm { S } } + \sum _ { k = i } ^ { \mathrm { N } } ( E _ { \varrho k \mathrm { S } } + W _ { k \mathrm { S } } ) ] ( 1 - \eta _ { i - \mathrm { d o t } } )
+$$
+
+第 $i$ 个对应设备产生的用损失为：
+
+$$
+I _ { i - \mathrm { l o s s } } = \sum _ { k = i } ^ { \mathrm { N } } I _ { k - \mathrm { l o s s } } - \sum _ { k = i + 1 } ^ { \mathrm { N } } I _ { k - \mathrm { l o s s } }
+$$
+
+各对应设备的烟效率定义如下：$\eta _ { \mathrm { { E } } } \mathrm { = }$ 收益灿/代价烟(21)
+
+根据式（21）对烟效率的定义，可知烟效率定义的合理性与“收益烟"和“代价烟"的选取有关，因此对于不同的设备，“收益烟"和“代价烟"应该慎重区别的选取。不同于对应点效率评价包括储存点的局部流程段的性能，对应设备的损失和效率可用于评价系统中间任一局部流程段的性能，两者在分析系统时可形成互补。
+
+相对于传统的系统能量平衡分析及平衡分析方法，对应点分析方法的研究对象是CAES系统中的对应点和对应设备，通过计算对应点效率、对应设备效率、设备因子、恢复系数等参数为系统提供优化和改进方向。
+
+# 3 案例分析
+
+本文以SCAES（图3）为典型案例，进行系统的对应点分析。系统基本参数如表1所示，液化部分的降压装置采用液体膨胀机，根据对应设备压缩机-膨胀机、间冷器-再热器、蓄冷回热器、液体膨胀机-低温泵的实际情况，各对应设备的烟效率的定义为：对应设备压缩机-膨胀机的代价灯为压缩机的耗功，收益为膨胀机的出功和空气未充分释放的火用之和(也是代价减去损的那部分烟)；对应设备间冷器-再热器的代价为间冷器中空气的减小值，收益烟为再热器中空气中烟的增加值（也是代价减去损的那部分)；对应设备蓄冷回热器的代价为释能时空气的烟的减小值，收益为储能时空气的增加值；对应设备液体膨胀机-低温泵的代价为液体膨胀机入口的烟值，收益为低温泵的出口、总的向外输出的功、液体膨胀机出口火用与低温泵入口的差值(表征可在其他对应设备损失的烟值）三者之和（也是代价减去烟损的那部分烟）。
+
+表1系统计算基本参数Tablel Basic parameters of caculating the system  
+
+<html><body><table><tr><td>参数</td><td>参数值</td></tr><tr><td>储能压力/kPa</td><td>12000</td></tr><tr><td>释能压力/kPa</td><td>8900</td></tr><tr><td>间冷器/再热器温差/K</td><td>2/2</td></tr><tr><td>间冷器/再热器压损/kPa</td><td>50/40</td></tr><tr><td>蓄冷回热器最小温差/K</td><td>5</td></tr><tr><td>蓄冷回热器压损/kPa</td><td>10</td></tr><tr><td>压缩机等熵效率</td><td>0.84</td></tr><tr><td>膨胀机等熵效率</td><td>0.88</td></tr><tr><td>液体膨胀机等熵效率</td><td>0.75</td></tr><tr><td>低温泵等熵效率</td><td>0.84</td></tr></table></body></html>
+
+本案例不考虑低温液态储罐的损失，因此液态空气储罐内空气的状态即为储存点的状态。针对本案例的对应设备的效率的定义，其对应点分析计算结果如表2所示，25'指末级涡轮排气散逸后的状态点。对应设备的编号为从起始点到储存点分别为1S-1N\~11S-11N。
+
+由表2 知：从储存点到起始点（1-25'点)，对应点效率逐渐减小，对应点1-25'的效率为系统烟效率，为0.6227；各级压缩机-膨胀机引起的对应点效率减小值分别为：0.0585、0.0504、0.0438、0.0376，减小值逐渐减小，引起这种现象的原因是：虽然各级压缩机-膨胀机烟损失相当，但 $E _ { i }$ SINPUT不同，越靠近起始点， $E _ { i \cdot }$ -SINPUT越大，对应点效率变化对同样的烟损失越不敏感。引起这种现象的原因也可以由式（11）解释；各级间冷器-再热器引起的对应点效率减小值分别为：0.0029、0.0059、0.0099、0.0269，减小值逐渐增大，可见，虽然越靠近输入端， $E _ { i }$ SINPUT越大，但对应的间冷器-再热器损失增大更快；液体膨胀机-低温泵使对应点效率下降了0.0335，而蓄冷回热器使对应点效率下降了0.103，因此蓄冷液化段具有较大的烟损失，应该关注其性能的提高。
+
+表2对应点分析计算结果 Table 2 The caculated result of corresponding point analysis   
+
+<html><body><table><tr><td>对应点/对应设备</td><td>对应点效率</td><td>各设备引起的对应 点效率下降值</td><td>烟损系数(%)</td><td>用效率</td><td>设备因子</td><td>恢复系数</td></tr><tr><td>1-25'</td><td>0.6227</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>末级膨胀机排气</td><td>/</td><td>0.0050</td><td>0.50</td><td>/</td><td>/</td><td>/</td></tr><tr><td>1-25</td><td>0.6277</td><td>/</td><td></td><td>/</td><td>/</td><td>/</td></tr><tr><td>1S-1N(压缩机-膨胀机)</td><td>/</td><td>0.0376</td><td>4.68</td><td>0.8147</td><td>440.955</td><td>-0.7035</td></tr><tr><td>2-24</td><td>0.6653</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>2S-2N(间冷器-再热器)</td><td>/</td><td>0.0269</td><td>4.78</td><td>0.3215</td><td>1132.389</td><td>0.3215</td></tr><tr><td>3-23</td><td>0.6921</td><td>/</td><td></td><td>/</td><td>/</td><td>/</td></tr><tr><td>3S-3N(压缩机-膨胀机)</td><td>/</td><td>0.0438</td><td>4.68</td><td>0.8159</td><td>440.757</td><td>-0.7040</td></tr><tr><td>4-22</td><td>0.7360</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>4S-4N(间冷器-再热器)</td><td>/</td><td>0.0099</td><td>2.33</td><td>0.5966</td><td>928.546</td><td>0.5966</td></tr><tr><td>5-21</td><td>0.7458</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>5S-5N(压缩机-膨胀机)</td><td>/</td><td>0.0504</td><td>4.67</td><td>0.8160</td><td>440.006</td><td>-0.7059</td></tr><tr><td>6-20</td><td>0.7962</td><td>/</td><td></td><td></td><td></td><td>/</td></tr><tr><td>6S-6N(间冷器-再热器)</td><td></td><td>0.0059</td><td>1.54</td><td>0.7162</td><td>873.428</td><td>0.7162</td></tr><tr><td>7-19</td><td>0.8021</td><td>/</td><td>/</td><td></td><td></td><td>/</td></tr><tr><td>7S-7N(压缩机-膨胀机)</td><td>/</td><td>0.0585</td><td>4.68</td><td>0.8163</td><td>440.414</td><td>-0.7083</td></tr><tr><td>8-18</td><td>0.8607</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>8S-8N(间冷器-再热器)</td><td>/</td><td>0.0029</td><td>0.98</td><td>0.8277</td><td>912.665</td><td>0.8277</td></tr><tr><td>10-(16+17)</td><td>0.8635</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>10S-10N(蓄冷换热器)</td><td>/</td><td>0.1030</td><td>5.09</td><td>0.9049</td><td>-7766.965</td><td>1.1051</td></tr><tr><td>11-(15+14)</td><td>0.9665</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>11S-11N(液体膨胀机-低温泵)</td><td>/</td><td>0.0335</td><td>3.80</td><td>0.9670</td><td>314.217</td><td>-0.9398</td></tr><tr><td>12-(13+14)</td><td>1</td><td>/</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>液态空气储罐</td><td>/</td><td>0</td><td>0</td><td>/</td><td>/</td><td></td></tr></table></body></html>
+
+各压缩机-膨胀机的损失相当，损系数均约为 $4 . 6 8 \%$ 左右，烟效率相当，均约为0.815左右；沿着储存点到起始点的方向，各间冷器-再热器的火用损系数分别为： $0 . 9 8 \%$ 、 $1 . 5 4 \%$ 、 $2 . 3 3 \%$ 、 $4 . 7 8 \%$ ，火用效率分别为0.8277、0.7162、0.5966、0.3215，可知烟损失逐渐增大，烟效率逐渐降低，且低压级间冷器-再热器的损失过大，因此针对于本系统的参数，应更关注于低压级的间冷器-再热器参数改进，减小其损失；蓄冷回热器、液体膨胀机-低温泵的烟损系数分别为 $5 . 0 9 \%$ 、 $3 . 8 0 \%$ ，烟效率分别为0.9049、0.9665，损系数较大的原因是冷的珍贵性，在同样的部件烟效率下，冷烟的损失更明显。
+
+对比各对应设备的设备因子可知：各间冷器再热器的设备因子约为压缩机-膨胀机的2\~2.5倍，由式（17）知，相对于提升压缩机-膨胀机的恢复系数，提升间冷器-再热器的效率（恢复系数）更有效；蓄冷回热器的设备因子较大，且恢复系数大于1（理想情况下为1)，由式（11）可知，为使对应点效率经过蓄冷回热器后下降值不至于过大，应保持蓄冷回热器低温端的对应点效率较高，使其值与1接近，因此液体膨胀机-低温泵的性能对系统效率的影响也较大，如当SCAES采用节流阀降压时，其系统效率将明显下降7]。
+
+由式（11）可知，恢复系数影响各对应点效率的大小，在本系统中，由于恢复系数的数值关系，对应点效率沿储存点到起始点方向逐渐减小。
+
+由于SCAES可以看做压缩膨胀段（包括设备压缩机、膨胀机、间冷器、再热器等）和蓄冷液化段（包括设备蓄冷回热器、液体膨胀机/节流阀、低温泵、低温储罐）的叠加，因此可将系统研究划分为压缩膨胀段、蓄冷液化段分别研究。根据表2，该蓄冷液化段的烟效率（对应点效率）约为0.8635，实际中由于低温泵和液体膨胀机与外界交换的功量较少，因此16点烟值和10点烟值比例可近似为蓄冷液化段的烟效率。
+
+除以上对计算结果的分析外，根据数学模型式（15）和（16）可知：对于压缩机-膨胀机，为提高系统效率，相对于减小压缩机的烟损，减小膨胀机的损更有效。对于间冷器-再热器，为提高系统效率，相对于减小间冷器的烟损，减小再热器的烟损更有效。
+
+# 4结论
+
+针对CAES系统存在流程对称性、流程点对应性和较强物理关联性的特点，本文提出了一种适用于CAES的对应点分析方法。
+
+（1）建立了对应点效率、对应设备烟效率、设备因子和恢复系数等数学模型，其中：对应点效率能够反映系统整体和局部的恢复能力；对应设备烟效率能够反映对应设备及局部的性能。根据对应点分析方法可为系统改进及优化提供方向。
+
+（2）由对应点效率下降值与恢复系数、设备因子等的关系式可知：对应点效率的减小值与设备因子所占后段输入的比例、后一点对应点效率和此设备的恢复系数的差值有关；一定条件下，系统效率对设备因子较大的对应设备的恢复系数较敏感。
+
+（3）通过对SCAES的对应点分析，发现：蓄冷回热器高温端对应点效率为0.8635，即蓄冷液化段的烟效率约为0.8635；各级对应设备压缩机-膨胀机的烟效率均为0.815左右；各级对应设备间冷器-再热器的烟效率分别为0.3215、0.5966、0.7162、0.8277；系统可通过减小低压端间冷器-再热器的损失、减小蓄冷液化段的损失等方式提高系统效率。
+
+# 参考文献
+
+[1] ChenH,CongTN,YangW, et al. Progress in Electrical Energy Storage System: ACritical Review[J].Progress in Natural Science,2009,19 (3): 291-312.   
+[2]Lund H,SalgiG. The Role of Compressed Air Energy Storage (CAES) in Future Sustainable Energy Systems[J]. Energy Conversion and Management， 2009，50 (5): 1172-1179.   
+[3]陈海生,谭春青,刘佳,等.超临界空气储能系统：中 国,200910225252.3[P].2013 CHEN Haisheng， TAN Chunqing， LIU Jia, etal. Supercritical AirEnergyStorage System:China, 200910225252.3[P].2013   
+[4]NajjarY S H, Zaamout M S. Performance Analysis of Compressed Air Energy Storage(CAES） Plant for Dry Regions[J]. Energy Conversion and Management, 1998,39 (15): 1503-1511.   
+[5].Grazzini G，Milazzo A. Thermodynamic Analysisof CAES/TES Systems For Renewable Energy Plants[J]. Renewable Energy,2008,33 (9): 1998-2006.   
+[6].Kim Y M,Favrat D.Energy and Exergy Analysis of a Micro-compressed Air Energy Storage and Air Cycle Heating and Cooling System[J]. Energy，2009，35(1): 213-220.   
+[7].郭欢．新型压缩空气储能系统性能研究[D].北京：中国 科学院工程热物理研究所,2013. GUO Huan. Performance Study on Novel Compressed Air Energy Storage Systems[D]. Beijing: Institute of Engineering Thermophysics, Chinese Academy of Sciences,2013

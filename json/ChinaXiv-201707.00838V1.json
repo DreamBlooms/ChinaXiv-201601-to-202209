@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "细菌性腹泻三联口服疫苗的研制及其免疫效果的初步评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘地¹晏　婷}何秀娟²郑文云²马兴元1\\*(1华东理工大学生物工程学院 生物反应器工程国家重点实验室上海200237)(2 华东理工大学药学院上海市新药设计重点实验室上海200237)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要由细菌引起的感染性腹泻，至今仍是世界范围广泛流行的传染病之一。由于耐抗生素病原菌的不断涌现,导致了抗生素药物的治疗效果不佳。因此,研发便捷、有效的疫苗对于细菌性腹泻的预防与治疗尤为重要。针对产肠毒素大肠杆菌、霍乱弧菌与志贺氏痢疾菌这三种最为主要的细菌性腹泻病原菌,设计和筛选了以热不稳定肠毒素亚基蛋白为抗原和黏膜佐剂、霍乱弧菌鞭毛蛋白及志贺毒素亚基蛋白为抗原的三联疫苗。通过工程大肠杆菌获得了相应的抗原与佐剂蛋白,并以海藻酸钙-壳聚糖微球为疫苗的口服载体，制备了疫苗的口服制剂。体外实验表明,微球载体中的蛋白质在模拟胃液中释放较低,但在模拟肠液中释放迅速,这种载体能够实现疫苗在肠道内定向释放的目的。通过对灌胃免疫后小鼠免疫指标的检测,证明了疫苗能够刺激机体产生抗原特异性的sIgA与IgG抗体，免疫组与对照组相比，差异显著( $\\textstyle P < 0 . 0 5 )$ ，并提升了外周血中CD4+T细胞的含量 $( 7 . 5 \\% \\sim 9 . 5 \\% )$ 与 $\\mathrm { C D 4 ^ { + } T / C D 8 ^ { + } T }$ 细胞的比率,有效地激活了机体的黏膜免疫与系统免疫，能够对机体起到保护作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 细菌性腹泻 黏膜免疫三联口服疫苗中图分类号［Q815]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由病原微生物引起的感染性腹泻,至今仍是世界范围广泛流行的传染病之一。根据世界卫生组织的数据统计，全球每年发生5亿 $\\sim 1 0$ 亿次感染性腹泻，并导致了200 万\\~300 万人的死亡[1]。其中发病率和死亡率最高的是5岁以下儿童，每年约有80万儿童因腹泻类疾病死亡[2]。另外,旅行者腹泻也是在发展中国家最为常见的健康问题[]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大约 $8 0 \\%$ 的腹泻病都是由细菌感染引起的，其中，产肠毒素大肠杆菌、霍乱弧菌和志贺氏痢疾菌是三种最为主要的病原菌[4]。在三种病原体中，产肠毒素大肠杆菌引发的感染数量最多，每年引起了约2亿次的感染性腹泻，造成了38万人的死亡[5]；霍乱弧菌引起的感染最为严重，患者的死亡率也最高，每年引起了300万～500万次的感染，并且造成了120万～200万人的死亡[6];志贺氏痢疾菌也是引起肠道感染的重要原因，每年造成了约1.6亿人次的感染( $6 0 \\%$ 是5岁以下儿童)和超过10万人的死亡[7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于由微生物引起的急性与慢性腹泻，国内外主要采取抗生素药物治疗的方法，特别是在一些发展中国家，一些广谱性的抗生素（如环丙沙星、匹美西林、阿奇霉素、头孢三嗪等)常被使用[8]。由于抗生素在疾病预防和治疗、动物养殖业、农产品种植业等领域中的广泛的使用，导致了耐抗生素微生物显著增加，特别是多种肠道革兰阴性致病菌[9]。许多对抗生素敏感的菌株,通过变异产生了多重耐药性，导致药物治疗效果不佳甚至无效，而采取预防性免疫是控制这类疾病的最佳选择。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胃肠道黏膜是病原腹泻微生物侵入的主要突破口，因此，如果能够激活机体的黏膜免疫系统，产生的保护性免疫应答就可以抵御病原微生物的侵袭，从而降低疾病发病率[10]。近年来,黏膜免疫的口服途径是研究的热点，同时，口服疫苗具备方便、快捷等优势，是预防感染性腹泻疾病的理想选择。目前，尽管在针对某种特定病原菌的腹泻疫苗研制方面取得了一定的突破性进展，但是用于预防突发的感染性腹泻的理想免疫制品仍未研制成功[4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究针对引起腹泻致病菌的毒力因子，设计、制备了重组抗原与佐剂蛋白，以安全、无毒的海藻酸钙-壳聚糖微球为口服载体，制备成了一种能够在肠内释放的口服制剂，最后在动物模型中，对疫苗的免疫效果做出了初步的评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8 表达载体pET24a（ $^ +$ ）、pET32a $( \\mathbf { \\partial } + \\mathbf { \\partial } )$ 购置于3Novagen 公司。工程菌株 $E$ coli $\\mathrm { D H } 5 \\alpha$ 和 $E$ 、coli BL21DE3）购置于Invitrogen 公司。实验动物 BALB/c 小白鼠(清洁级，雌性，5周龄)购置于上海莱克实验动物有限公司[SCXK（沪）2012-0002,SYXK（沪)2012-0002]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海藻酸钠、壳聚糖、氨苄青霉素（Amp）、卡那霉素（Kan）、异丙基 $\\mathbf { \\beta }$ -D-硫代半乳糖苷（IPTG）购置于Sigma-Aldrich公司。胃蛋白酶、胰蛋白酶、牛血清白蛋白购置于北京索莱宝科技有限公司。FITCanti-mouseCD4、APC anti-mouse $\\mathrm { C D 8 \\alpha }$ 及RBCLysisBuffer 购置于Biolegend公司，其他分析纯化学试剂购置于上海凌峰化学试剂有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1抗原与佐剂蛋白的选择大肠杆菌热不稳定肠毒素（heat-labileenterotoxin，LT）具备免疫原性与佐剂活性[\"],同时还能与霍乱弧菌的毒力因子霍乱毒素（Cholera toxin,CT)产生交叉免疫反应[12],我们选择其LTA、酶活性缺失突变体LTA（192)与LTB亚基作为抗原蛋白与佐剂。志贺毒素(Shigatoxin，Stx)是志贺氏痫疾菌的主要毒力因子，我们选择其无毒的结合结构域StxB蛋白作为抗原[13]。霍乱弧菌的鞭毛蛋白(Flagellin)对于其在肠道中的定植起到了关键作用，我们选择其核心结构域 FlaA 蛋白作为抗原[14]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a58a14d49c22e53d4b8b7e197f4064e34bc1dab0ca7b730a2d223f9bc349d7ba.jpg",
+        "img_caption": [
+            "图1实验的主要流程",
+            "Fig.1The main process of experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2重组质粒的构建重组质粒pET24a-eltA、pET24a-eltA（192）与pET24a-eltB均由本实验室构建，基因elt 序列参照 NCBI GenBank（Accession no:EU113245.1）,分别用于表达LTA、LTA（192)与LTB蛋白。pET24a-stxB，用于表达StxB蛋白，基因stxB序列参照（Accession no：JF739388.1）;pET32a-flaA用于表达FlaA蛋白，基因flaA序列参照（Accession no:EF685161.1），序列由苏州金唯智生物科技有限公司合成，载体由本实验构建。重组质粒的引物设计如表1所示， $\\mathrm { F m }$ 与 $ \\mathrm { { R m } }$ 为突变引物，通过重叠延伸PCR对eltA序列进行突变，使其翻译192位的氨基酸由R突变为 $\\mathrm { ~ G ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3蛋白质的表达与纯化将重组质粒转入 $E$ coliBL21（DE3）中，从抗性平板上挑取单克隆，接种到含LB 培养基的试管中， $3 7 ^ { \\circ } \\mathrm { C } \\mathrm { ~ , ~ } 2 0 0 \\mathrm { r } / \\mathrm { m i n }$ 振荡培养过夜。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取 $\\mathrm { 1 m l }$ 菌液加入到含 $1 0 0 \\mathrm { m l }$ LB培养基的锥形瓶中，$3 7 ^ { \\circ } \\mathrm { C } \\ . 2 0 0 \\mathrm { r / m i n }$ 振荡培养约 $2 . 5 \\mathrm { h }$ 。菌液 $O D _ { 6 0 0 }$ 达到约0.6时，加入终浓度为 $0 . 5 \\mathrm { m m o l / L }$ 的IPTG诱导剂， $3 0 \\%$ 诱导表达 $^ { 1 0 \\mathrm { h } }$ 。诱导结束后 $4 \\mathrm { ^ { \\circ } C \\cdot 8 0 0 0 r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ 收集菌体，根据目的蛋白的状态（可溶性表达或包涵体)采用不同方法进行纯化及透析，通过聚丙烯酰胺凝胶电泳分析蛋白质的表达与纯化情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4海藻酸钙-壳聚糖微球的制备与形貌鉴定将$2 \\%$ 海藻酸钙溶液与等体积的蛋白质溶液混合，用注射器吸取 $1 \\mathrm { m l }$ 混合液，通过34G针头（内径 $0 . 0 6 \\mathrm { m m } ^ { \\cdot }$ 挤入到 $0 . 4 \\%$ 壳聚糖溶液中（含0.1mol/L氯化钙），$2 5 0 \\mathrm { r / m i n }$ 匀速搅拌，液滴滴入烧杯后立即形成微球，继续搅拌 $1 0 \\mathrm { { m i n } }$ ，使微球充分硬化；吸去表面水分， $4 ^ { \\circ } \\mathrm { C }$ 保存。随机取20粒湿态与干态的微球，观察微球的形貌，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1引物序列与酶切位点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5b1585d71d877e20acf2295b3ef5becead5e3b47852575570e2f8069ed77b14.jpg",
+        "table_caption": [
+            "Table1 Sequences and restriction sites of primers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>重组质粒</td><td>核酸序列(5'-3')</td><td>酶切位点</td></tr><tr><td>pET24a-eltA</td><td>F-GGAATTCCATATGAATGGCGACAGATTATACCGTGCTG</td><td>Nde I</td></tr><tr><td rowspan=\"4\">pET24a-eltA(192)</td><td>R-CCGCTCGAGTAATTCATCCCGAATTCTGTTAT</td><td>Xho I</td></tr><tr><td>F-GGAATTCCATATGAATGGCGACAGATTATACCGTGCTG</td><td>Nde I</td></tr><tr><td>Fm-GTGGAAATTCATCAGGTACAATCACAGGTGATAC</td><td>1</td></tr><tr><td>Rm- GTATCACCTGTGATTGTACCTGATGAATTTCCAC</td><td></td></tr><tr><td rowspan=\"2\">pET24a-eltB</td><td>R- CCGCTCGAGTAATTCATCCCGAATTCTGTTAT</td><td>Xho I</td></tr><tr><td>F-GGAATTCCATATGGCTCCCCAGACTATTAC</td><td>Nde I</td></tr><tr><td rowspan=\"2\">pET24a-stxB</td><td>R-CCGCTCGAGGTTTTCCATACTGATTGCCGC</td><td>Xho I</td></tr><tr><td>F-GGAATTCCATATGACGCCTGATTGTGTAACTGGAAAG</td><td>Nde I</td></tr><tr><td></td><td>R-CCGCTCGAGACGAAAAATAACTTCGCTGAAT</td><td>Xho I</td></tr><tr><td>M pET32a-flaA</td><td>F-CGGGATCCACCATTAACGTAAATACCAACGTGT</td><td>BamH I</td></tr><tr><td>8</td><td>R-CCGCTCGAGTCACTGCAATAACGAGATTGCAGAGT</td><td>Xho I</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测定粒径，并拍照记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 微球内蛋白质的体外释放将包裹蛋白的微球置于 $1 0 \\mathrm { m l }$ 模拟胃液中,在 $3 7 \\mathrm { ^ c \\cdot 1 0 0 r / m i n }$ 的水浴摇床中恒温孵育，每 $3 0 \\mathrm { m i n }$ 取样一次,连续取样6次。在模拟胃液处理3h后，除去模拟胃液，加入 $1 0 \\mathrm { m l }$ 模拟肠液，在相同条件下继续孵育，每 $2 0 \\mathrm { { m i n } }$ 取样一次,连续取样3次;孵育1h后，每 $3 0 \\mathrm { m i n }$ 取样一次,连续取样6次。最后，使用裂解液裂解微球，取样检测。使用",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bradford法测定样品中的蛋白质浓度，绘制蛋白质的释放曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6腹泻疫苗的动物免疫将BALB/c小鼠，按照表2所示的实验方案进行分组，每组6只，随机分配到笼内。在免疫前对小鼠禁食 $1 2 \\mathrm { h }$ 。分别于第8天、第22天，按照表2所示的剂量进行灌胃免疫，记录并分析整个免疫实验过程中的小鼠体重变化。动物实验依照“3R”原则,并给予实验动物相应的人道关怀。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc3c6fce0f00b8744ab4b2f3cf6418af02440e88f4e077116b9475dad173e473.jpg",
+        "table_caption": [
+            "表2实验分组与免疫剂量",
+            "Table 2Experiment grouping and immune dose "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实验组</td><td>疫苗组成</td><td>免疫剂量（μg)</td><td>小鼠数量</td></tr><tr><td>空白组</td><td>1</td><td></td><td>6</td></tr><tr><td>实验组一</td><td>LTA + LTB + StxB + FlaA</td><td>25/25/25/25</td><td>6</td></tr><tr><td>实验组二</td><td>LTA + LTB + StxB + FlaA</td><td>50/50/50/50</td><td>6</td></tr><tr><td>实验组三</td><td>LTA（192）+ LTB + StxB + FlaA</td><td>25/25/25/25</td><td>6</td></tr><tr><td>实验组四</td><td>LTA（192）+ LTB + StxB+ FlaA</td><td>50/50/50/50</td><td>6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7样品中抗原特异抗体的检测每孔加入 $1 0 0 \\mu \\mathrm { l }$ 稀释到 $5 \\mu \\mathrm { g } / \\mathrm { m l }$ 的抗原包被液， $4 ^ { \\circ } \\mathrm { C }$ 包被过夜;次日，弃去包被液,洗涤3次。加入 $3 0 0 \\mu \\mathrm { l }$ 封闭液, $3 7 \\%$ 孵育2h,弃去封闭液，洗涤3次。将稀释后的样品（粪便提取液、肠液、血清)加入反应孔中,每孔 $1 0 0 \\mu \\mathrm { l } , 3 7 \\mathrm { ^ { \\circ } C }$ 孵育2h,弃去样品液,洗涤3次。加入 $1 : 4 \\ 0 0 0$ 稀释的HRP标记的山羊抗小鼠 $\\mathrm { I g G }$ 或IgA抗体，每孔 $1 0 0 \\mu \\mathrm { l } , 3 7 \\mathrm { ^ { \\circ } C }$ 孵育1h,弃去二抗溶液,洗涤5次。加入 $1 0 0 \\mu \\mathrm { l }$ OPD显色液， $3 7 \\mathrm { ^ { \\circ } C }$ 避光孵育 $2 0 \\mathrm { { m i n } }$ 。加入 $1 0 0 \\mu \\mathrm { l }$ 终止液,随后在酶标仪上检测 $4 9 2 \\mathrm { n m }$ 反应产物的吸光度。使用SPSS软件对数据进行统计学分析，检测数据是否符合正态分布，对于符合正态分布的数据使用 $T$ test或ANOVAtest方法进行检验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.8外周血淋巴细胞含量的检测取 $1 0 0 \\mu \\mathrm { l }$ 小鼠血液样品，加入到含肝素钠溶液的EP管中，依次加入 $1 \\mu \\mathrm { l }$ FITC anti-mouse CD4 和 $1 \\mu \\mathrm { l }$ APC anti-mouse $\\mathrm { C D 8 \\alpha }$ 抗体，室温条件避光孵育 $2 0 \\mathrm { m i n }$ 。向溶液中加入 $\\mathrm { 1 m l }$ 的RBCLysisBuffer,轻轻摇动混匀，室温条件避光孵育$1 0 \\mathrm { { m i n } }$ 。 $1 ~ 0 0 0 \\mathrm { r / m i n }$ 离心 $5 \\mathrm { m i n }$ ，收集细胞，用PBS溶液洗涤2次，使用流式细胞仪检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 抗原蛋白的制备",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5种蛋白质均采用工程大肠杆菌生产，诱导 $1 0 \\mathrm { { h } }$ 后，目标蛋白都得到了高效的表达，电泳结果如图2a所示。其中LTA、LTA（192）、LTB与StxB蛋白以包涵体的形式存在于破碎后的沉淀中，通过对包涵体洗涤、亲和纯化及透析复性后获得。而FlaA蛋白以可溶的形式存在于破碎后的上清液中，通过亲和纯化、透析及酶切除去融合蛋白标签后获得。电泳结果表明（图2b），目标蛋白都得到了有效地纯化，几乎没有杂蛋白的残留。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1f03d417ee7955e9f1d847f8d16badd65051514d47d7d013a70f4c9f0ba3784.jpg",
+        "img_caption": [
+            "图2抗原蛋白表达与纯化的聚丙烯酰胺凝胶电泳分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "()ExpressonofantigenproteinsLaneM:Lowproteinmoleculaweightmarker；Lne-5WolecellysatesofET4ael，E4-elA (192），pET24aelB，pET4a-stxBandpET32a-flaArecombinantbacteriaafterinduction，theFlaAproteincontainstheTrxfusiontag PurificationofantigenproteinsLane1-5:TepurfedLTAprotein,A（192）protein,LTBprotei,Faprotein（fusiontagoed) and StxB protein ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0 2. 2 微球的形貌特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "湿态与干态的海藻酸钙-壳聚糖微球呈现规则的圆球形（图3），相同状态的微球之间粒径差别不大。湿态微球的平均粒径约为 $1 . 4 \\mathrm { m m }$ ,微球干燥后，体积缩小，干态微球的平均粒径约为 $0 . 6 \\mathrm { m m }$ 。在扫描电子显微镜下观察（图4），微球呈现较为规则的球形，表面较为平整,内部实心,是由海藻酸盐与钙离子形成的聚合结构。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/893f2b1b256181057cd93767a060f6087b4ef76819fc6321a18b086ef14c473c.jpg",
+        "img_caption": [
+            "Fig.2Expression and purification of antigen proteins analyzed by SDS-PAGE ",
+            "图3微球的形态与粒径",
+            "Fig.3Diameter and morphology of microspheres "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a）Microspheres in wet state（b）Microspheres in dry state ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3微球内蛋白在模拟胃液与肠液中的释放",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，海藻酸钙-壳聚糖微球在模拟胃液中处理3h后，干态微球中的蛋白质基本没有释放，而湿态微球释放了约 $10 \\%$ 。这是由于湿态微球水分含量较高，在水分平衡过程中，水分的渗漏导致了蛋白质在模拟胃液中部分的释放。而干态微球含水量较低，水分平衡过程是一个吸水过程，因此蛋白质的释放极低。当微球移入模拟肠液中，随着 $\\mathrm { \\ p H }$ 的升高，海藻酸盐羚基与壳聚糖氨基之间的静电相互作用减弱，聚电解质膜也随之膨胀，孔隙变大，蛋白质随着渗漏出的水分一起扩散至微球外部。在模拟肠液中，蛋白质释放速率很快，干态与湿态微球中的蛋白质在3h内基本释放完全。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4三联口服腹泻疫苗的免疫学评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1小鼠胃肠黏膜中特异性sIgA抗体的水平抗原特异性的sIgA抗体，是在黏膜免疫中机体抵抗病原微生物侵袭的重要指标，我们采用ELISA法检测了经三联腹泻疫苗两次免疫后，小鼠粪便中抗原特异性sIgA抗体水平，以及第二次免疫后小鼠肠液中sIgA抗体水平。结果表明(图6），初次免疫后，粪便提取液中4种抗原特异性sIgA抗体的含量都不高，与阴性对照组相比，两种重组疫苗免疫后，仅产生了较少的特异性sIgA抗体，差异不显著，无统计学意义( $\\ P > 0 . 0 5 \\ \\cdot$ 。第二、四实验组虽然提高了1倍的免疫剂量，读数仍然较",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/df18bd1a9d48cce5ea302c048f3ffdd06b52f3f029670b25dd61c5bf6c528b2e.jpg",
+        "img_caption": [
+            "图4扫描电镜下微球的形态"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overallmorphologyofmicrospheres（b）Localmagnfcationofmicrospheressurface（c）Morphologyofmicrospherescro-section Local magnification of microspheres section ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/30714138072719cffb02a985e44fad707c9f4179a0fac2ec00e62fdab0162eae.jpg",
+        "img_caption": [
+            "Fig.4Morphology of microspheres observed with SEM ",
+            "图5微球中的蛋白在模拟胃液与肠液中的释放情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5The protein release in simulated gastric fluid（SGF）and simulated intestinal fluid（SIF) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a）The state of microspheres in SGF and SIF （b）Release curve of microspheres containing protein in SGF and SIF低，但是数值上部分具备了统计学意义，LTA的特异性抗体具备显著性。第二次免疫后，粪便中特异性sIgA抗体含量均有提高，实验组诱导产生的sIgA抗体水平明显优于对照组，实验组的抗体含量均表现出显著差异（ $\\ P < 0 . 0 5 \\$ 。两种疫苗诱导抗体产生的能力相似，$\\mathrm { L T A } + \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 免疫组的抗体效价略高于LTA（192） $+ \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 组。但是，2倍免疫剂量诱导产生特异性抗体含量仅略高于1倍的免疫剂量。在4种抗体中，抗LTA的sIgA抗体产生最多，而抗StxB的sIgA抗体相对较低。在肠液样品中，抗体的含量较粪便中提升许多， $\\mathrm { L T A } \\ + \\ \\mathrm { L T B } \\ + \\ \\mathrm { S t x B } \\ + \\ \\mathrm { F l a A }$ 与LTA(192) $+ \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 实验组诱导产生抗原特异性抗体的能力近似，产生的抗体效价较对照组差异显著（ $\\textstyle P < 0 . 0 5 )$ ，但提高给药剂量后，抗体的效价并没有显著提升（图7）。在肠液中，抗LTA与FlaA的特异性抗体最多，而抗StxB的特异性抗体相对较低。上述结果表明，重组蛋白腹泻疫苗能够刺激小鼠产生抗原特异性的sIgA抗体，激活了小鼠的黏膜免疫系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/35cee4b7879f970f3d7719bdfc74ea10268f049591f28710c09d0c82c25b14bd.jpg",
+        "img_caption": [
+            "Fig.6The content of antigen specific sIgA antibody in feces after immunization "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ThecontentofsgAantibodyinsamplesafterpriaryimunzatio（b）ThecontentofsgAatibodinsamplesaftersecondiuzatio IP <0.05 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3893010eb5ff68d7c1a579c10909f1b1090afdd34aedb6df15e1ac2baa131c81.jpg",
+        "img_caption": [
+            "图6粪便中特异性sIgA抗体的含量",
+            "图7肠液中特异性sIgA抗体的含量 Fig.7The content of antigen specific sIgA antibody in intestinal after immunization "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n^ { * } P < 0 . 0 5\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2小鼠血清中特异性 $\\mathrm { I g G }$ 抗体的水平黏膜疫苗除了能够激活机体的黏膜免疫外，还能激活系统免疫，诱导体液中特异性IgG的抗体产生。在血清中，抗原特异性IgG抗体变化较为明显，在两次免疫后，两种疫苗都能够有效地诱导机体产生抗原特异的IgG抗体，差异显著 $\\cdot P < 0 . 0 5 )$ ，但血清中抗体效价存在着一定的差异（图8）。当 $\\mathrm { L T A } + \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 组免疫时，抗LTA的特异性抗体产生最多，在提高1倍免疫剂量后，效果变得更加显著( $P < 0 . 0 1 )$ ；同时LTB的抗体含量也有所提高，但是StxB与FlaA的抗体含量并没有明显增加。在LTA（192） $+ \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 实验组中,提高1倍免疫剂量后，LTA（192）、StxB与FlaA三种抗体含量相近并没有明显的提升,但LTB的特异性抗体含量有所提升，并且是4种抗体中最高的，差异非常显著$( P < 0 . 0 1 )$ 。上述结果表明，腹泻疫苗能够刺激小鼠产生抗原特异性的 $\\mathrm { I g G }$ 抗体，激活了小鼠的系统免疫。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.3小鼠外周血 $\\mathrm { C D 4 ^ { + } T }$ 与 $\\mathrm { C D 8 ^ { + } T }$ 细胞含量的变化在 $\\mathrm { \\mathbf { B A B L / c } }$ 小鼠中， $\\mathrm { C D 4 ^ { + } T / C D 8 ^ { + } T }$ 细胞的正常比值一般是 $2 . 5 \\sim 2 . 8 , \\mathrm { C D 4 ^ { + } T }$ 淋巴细胞和 $\\mathrm { C D 8 ^ { + } T }$ 淋巴细胞在T细胞中的比率分别约为 $30 \\%$ 和 $1 1 \\%$ 。当 $\\mathrm { C D 4 ^ { + } T }$ 细胞亚群的比例上升， $\\mathrm { C D 8 ^ { + } T }$ 细胞亚群的比例下降时，表明免疫系统被激活。结果表明（表3），相对于阴性的对照组，免疫后实验组小鼠的 $\\mathrm { C D 4 ^ { + } T }$ 细胞都明显的升高，增加了 $7 . 5 \\% \\sim 9 . 5 \\%$ ，而 $\\mathrm { C D 8 ^ { + } T }$ 细胞比例下降了1%\\~1.7%,CD4+T/CD8\\*T的比值有了显著的提升。4个实验组 $\\mathrm { C D 4 ^ { + } T / C D 8 ^ { + } T }$ 细胞的比值都较为接近，在3.9\\~4.0,各组之间差异不明显，1倍与2倍免疫剂量实验组之间并没有显著的差异( $\\textstyle P > 0 . 0 5 ,$ ，将抗原蛋白由LTA更换为LTA（192)后并没有显示出明显的差异。上述结果表明,多联蛋白疫苗能够在一定程度上激活机体的细胞免疫。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d3d6e77d207fb776eb02bb23edc56ce26c3891e6bf524232a6c8d1bca50e29f.jpg",
+        "img_caption": [
+            "图8免疫后血清中抗原特异性IgG抗体的含量 Fig.8The content of antigen specific IgG antibodyinserumafterimmunization \\* $\\textstyle P < 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3免疫后 $\\mathbf { C D 4 } ^ { + } \\mathbf { T }$ 与 $\\mathbf { C D 8 ^ { + } T }$ 细胞含量的平均值及比率",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b70fb0d4d928eea452578f57163e51b30b70c0e9e7f5c04ba71f6d5ece8ea5d7.jpg",
+        "table_caption": [
+            "Table3Mean value and ratio of $\\mathbf { C D 4 } ^ { + } \\mathbf { T }$ and $\\mathbf { C D 8 ^ { + } T }$ cells after immunization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">CD4+T (%)</td><td>CD8 +T(%)</td><td>CD4+T/CD8+T</td></tr><tr><td>空白组</td><td>30.21</td><td>11. 15</td><td>2.71</td></tr><tr><td>实验一组</td><td>37.76</td><td>9.58</td><td>3.94</td></tr><tr><td>实验二组</td><td>38.63</td><td>9.96</td><td>3.87</td></tr><tr><td>实验三组</td><td>37.95</td><td>9.42</td><td>4.02</td></tr><tr><td>实验四组</td><td>39.74</td><td>10.08</td><td>3.94</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.4实验过程小鼠体重的变化为考察疫苗成分及免疫方式是否会对小鼠的正常生长产生影响，我们在整个免疫实验过程中，对小鼠的体重进行了监测与",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "记录。结果显示（图9），两种多联蛋白疫苗免疫小鼠后，小鼠体重正常增长，免疫组小鼠体重无显著差异，说明疫苗的抗原对小鼠的生长没有影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcdd60917f6eb1c4edf49fbe563baa799bc68fb4f530cc8d58567994171ac603.jpg",
+        "img_caption": [
+            "图9 免疫实验中小鼠体重的变化 Fig.9 Bodyweight changes of mice during the experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们设计制备了基于LT亚基蛋白佐剂的三联口服腹泻疫苗，能够抵御来自产肠毒性大肠杆菌、霍乱弧菌及志贺氏痢疾菌的威胁。通过对抗原蛋白的筛选，我们选择了病原菌致病因子中的无毒或低毒组分作为抗原与佐剂。利用基因工程技术构建了表达抗原蛋白的重组工程大肠杆菌，并制备、纯化了相应的蛋白质。以海藻酸钙-壳聚糖微球为口服载体，制备了 $\\mathrm { L T A } + \\mathrm { L T B } + \\mathrm { S t x B } + \\mathrm { F l a A }$ 与 $\\mathrm { L T A } \\left( 1 9 2 \\right) \\ + \\mathrm { L T B } \\ +$ $\\mathrm { S t x B } + \\mathrm { F l a A }$ 两种疫苗的口服制剂。体外实验表明，微球载体中的蛋白质在模拟胃液中释放较低，但在模拟肠液中释放迅速，这种载体能够实现疫苗在肠道内的定向释放。灌胃免疫小鼠后，两种多联蛋白疫苗都能刺激机体产生抗原特异性sIgA与IgG抗体，并提升了外周血中 $\\mathrm { C D 4 ^ { + } T / C D 8 ^ { + } T }$ 细胞的比率,有效地激活了机体的黏膜、体液与细胞免疫反应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于实验条件的限制，尽管我们未能进行攻毒实验的评价，但是在动物模型取得的实验结果能够证明疫苗有效地激活了机体的黏膜免疫与系统免疫，对机体起到了保护作用。口服这种方便、快捷、安全的免疫方式，使其在同类的注射疫苗中更具竞争力，同时预防多种病原菌的设计，也使疫苗具备了开发的潜力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］Sanchez J,Holmgren J.Virulence factors，pathogenesis andvaccine protection in cholera and ETEC diarrhea．CurrentOpinion inImmunology，2005，17（4）：388-398.  \n[2］LiuL，Johnson HL，Cousens S，et al．Global,regional，andnational causes of child mortality：an updated systematic analysisfor 2010 with time trends since 2000．Lancet，2012，379(9832):2151-2161.  \n[3］Zaidi D,Wine E．An update on travelers’diarrhea．Curr OpinGastroenterol,2015，31（1)：7-13.  \n[4]Das JK,TripathiA,Ali A,et al.Vaccines for the prevention ofdiarrhea due to cholera，shigella，ETEC and rotavirus.BMCPublic Health,2013,13（Suppl3）：S11.coli-associated diarrhoea and carrier state in the developingworld.JHealth Popul Nutr，2004，22（4）：370-382.Res Clin Gastroenterol,2004，18（2）：421-445.] Peirano G, Souza FS,Rodrigues DP. Frequency of serovars and?7 antimicrobial resistance in Shigella spp.from Brazil.Memoriasdo Instituto Oswaldo Cruz，2006，101（3）：245-250.  \n[8]Das JK,AliA,SalamRA,et al.Antibiotics for the treatment ofCholera，Shigella and Cryptosporidium in children．BMC PublicHealth,2013，13（Suppl3）：S10.  \n[9]Ogra PL，Faden H,Welliver R C.Vaccination strategies formucosal immune responses.Clinical Microbiology Reviews,2001，14（2):430-445.  \n[10］Hoebe K,Janssen E,Beutler B.The interface between innate andadaptive immunity.Nature Immunology，2004，5（10）：971-974.  \n[11]da HoraVP,Conceicao FR,DellagostinOA，et al．Non-toxicderivatives of LT as potent adjuvants.Vaccine,2011,29（8）：1538-1544.  \n[12]Rappuoli R，Pizza M，Douce G，et al.Structure and mucosaladjuvanticityofcholeraand Escherichiacoliheat-labileenterotoxins.Immunology Today，1999，20（11）：493-500.  \n[13]Melton-Celsa A R.Shiga toxin（Stx）classification，structure,and function．Microbiol Spectr，2014，2（4）：Ehec-0024-2013.  \n[14］Klose K E,Mekalanos JJ.Differential regulation of multipleflagellins in Vibrio cholerae.Journal of Bacteriology，1998,180(2):303-316.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Preparation and Preliminary Evaluation of Triple Oral Vaccine Against Bacterial Diarrhea ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIU Di1YAN Ting'HE Xiu-juan²ZHENG Wen-yun²MA Xing-yuan1 (1 School of Biotechnology and State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology，Shanghai2Oo237,China) (2 School of Pharmacy，Shanghai Key Laboratory of New Drug Design，East China University of Science and Technology，Shanghai2OO237,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AbstractInfectious diarrhea disease caused by bacterial pathogens is still one of the most common infectious diseases throughout the world.Due to theemergence of antibiotic resistant bacteria，the treatment effects of antibiotic drugs are not very well.Therefore，it is very important to developconvenient and effective vaccines for the prevention and treatment of bacterial diarrhea.Aimedat enterotoxigenic Escherichia coli (ETEC），Vibriocholerae and Shigell flexneri，the three major types of pathogenic bacteria，the triple-vaccine based on the heat-labile enterotoxin subunit proteinsas antigens and mucosal adjuvants，Vibrio cholerae flagelin protein and Shiga toxin subunit proteinas antigens was designed.The corresponding antigens and adjuvant proteins were obtained from engineered Escherichia coli，thealginate-chitosan microspheres were used as oral delivery，and the oral vaccine formulations were prepared.In vitro experiment indicate that the release of protein is very slow in simulated gastric fluid，but prompt andalmost complete in simulated intestinal fluid，which suggests that microsphere carier can achieve the purpose of the intestinal targeted release of vaccine.After immunizing mice，immune indexes were detected，and the results proved that the vaccine stimulated the production of the antigen-specific sIgA and IgG antibody，with significant difference ( $\\textstyle P < 0 . 0 5 { \\dot { } }$ ）compared with the control group，and improved the content of $\\mathrm { C D 4 ^ { + } T }$ cells $( 7 . 5 \\% \\sim 9 . 5 \\%$ ）and the ratio of $\\mathrm { C D 4 ^ { + } T / C D 8 ^ { + } T }$ cells in peripheral blood.As a result，the vaccine induced mucosal and systemic immune responses and could effectively protect the body after immunization. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key wordsBacterial diarrheaMucosal immunityTriple oral vaccine ",
+        "page_idx": 8
+    }
+]

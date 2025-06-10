@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "团队行动中反思与团队创新关系研究的动态视角",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "认知与情绪的双元路径",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘薇 沈晓玲",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中央财经大学商学院，北京100081）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 在复杂变化的市场环境中，在我国实施创新驱动战略的背景下，企业的长远发展需要依赖于团队创新以建立独特竞争优势。通过对已有团队反思与创新关系研究的梳理，发现了二者间关系的黑箱，理论认为回顾过去能够带来新思想和新变化，然而针对其如何实现的过程机制的实证研究却十分匮乏。基于此，在传统的行动后反思的思想基础上，本研究提出团队行动中反思在概念内涵和实证测量上的区别，检验行动中反思和行动后反思在不同创新阶段的差异性作用，动态性分析创意形成和创意实施的行为结果，通过整合动机性信息加工理论和情绪的社会功能视角，提出认知层面的信息处理和情感层面的团队情绪这两种机制的耦合方式，构建团队反思影响创新的整体模型，并深入探讨影响作用的过程机制和边界条件，以及对各阶段关系上情境因素的调节作用进行全面的分析，为反思与创新理论和实践做出贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词团队行动中反思，团队创新，信息处理，团队情绪，创新阶段过程",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当今之世，创新成为企业实力关键性的体现，企业发展需要依赖员工和团队运用最新的科学知识进行创新开发。党的十八大以来，我国企业创新主体地位进一步增强，全社会研发投入、研究人员、发明专利占比均超过 $70 \\%$ 。习总书记指出“我们要坚持创新是第一动力、人才是第一资源的理念，实施创新驱动发展战略，完善国家创新体系，加快关键核心技术自主创新，为经济社会发展打造新引擎”。因此，在创新驱动战略背景下，如何促进团队创新成为国内外组织行为研究者和实践者关注的热点和焦点问题(魏昕,张志学,2018;袁庆宏 等,2015; Amabile & Pratt, 2016; Anderson et al.; 2014)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了更好地推动企业创新发展，帮助团队能够快速监控和适应变化情境，大量企业和研究提出团队必须从认知、社会和时间维度上找到足够的空间，帮助自身对目标的适合性、策略的正确性、过程的效率性和变化环境的适应性开展持续的反思活动(Kakar,2018;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Widmer etal.,2009)，并将其应用于具体的管理过程中。联想的“复盘”、华为的“民主生活会”等，都是企业实践的典型代表。基于环境的动态特质，实践中的团队运行必须能够通过反思活动适应不断变化的外部环境，并在任务完成的过程中处理大量涌现的信息，才可以实现团队有效性和创新思想的提出(Breugst et al.,2018;De.Dreu,2007; Konradt et al.,2016;Makoto,2016)。因此，为了明确团队反思影响创新的心理过程和动机基础，探求“温故何以知新”，本研究通过整合动机性信息加工理论和情绪的社会功能视角，提出认知与情绪两条机制的耦合作用，深入探索团队行动中和行动后反思在不同阶段（创意形成和创意实施）影响创新行为的过程机制和边界条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "温故何以才能知新？尽管已有大量学者从理论层面上指出团队反思与创造力的关系，但是仍然缺少实证检验，更少有研究探索过程机制和边界条件(王智宁 等,2019;Famese &Livi,2016)。当前企业所面临的环境特点表现为高速发展、高复杂性和高不确定性，新型组织以平台化、扁平化、灵活性和动态性为主要特点，更多以团队为主要形式开展工作，通过对团队成员的特定知识、认知能力、社会关系和多样化感受的整合，进而实现复杂的产品或服务的开发、创新的思想和方法的实施(倪旭东,周琰喆,2017;Liang etal.,2018)。而在以往的研究中，研究者主要关注反思的认知功能，对情感功能的作用探索十分有限。Swift 和West(1998)指出任务反思和社会反思的区别，任务反思针对团队的工作任务及相关信息的回顾与丰富，能够有助于引发信息处理和认知过程；社会反思则是对团队运作的互动与社会过程进行思考，对团队氛围和成员感受具有积极意义(Widmer et al.,2009)。因此，本研究提出从认知和情感两方面探讨反思在团队创新过程中起到的关键作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一方面，反思具有重要的认知功能，推动团队更有效地处理相互之间的信息，促进团队中知识与想法的共享。已有研究从认知和学习机制的视角探讨团队反思的作用，认为反思能够鼓励团队成员不断更新和解决相关信息、探讨任务的相关问题、促进任务完成的建设性互动过程(Somech,2006)。另一方面，在团队行动过程中的反思活动具有被以往研究所忽视的的情感功能，帮助成员“不忘初心”并关注共同目标，有效缓解了团队成员之间的冲突和竞争态度(Suifan et al.,2020)。团队在激烈的任务和绩效压力下，通过反思能够重新激发并保持对于团队目标的热情和乐观的态度，调动团队整体的情绪感受(倪旭东,周琰喆，2017;Knight&Eisenkraft,2015)，进而提高创新动力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 国内外研究现状评述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. 1 团队行动中反思的概念内涵 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schmutz和Eppich (2017)将团队反思分为行动前反思(reflection-pre-action)、行动后反思(reflection-on-action)和行动中反思(reflection-in-action)。行动前反思发生于绩效事件和任务开始之前，关注即将发生的情况；行动后反思主要指事后反思，通过回顾和思考刚刚过去的情境获得学习；行动中反思指的是在实践活动过程中的即时性反思，行动中反思主要包括对经验现象的现场呈现、评判、重构和检验。在团队完成任务的过程里，行动中反思主要针对团队目标和过程的回顾、理解和强化，促使团队成员适应团队过程和信息处理(Schon,1983)。传统的概念框架下的团队反思主要是在停工期间发生的、对于过去和最终绩效的反思，很大程度忽略了团队行动中发生的各种激烈的绩效事件，在这一过程中同样会需要并产生反思性的团队过程(Schmutz et al.,2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "团队行动中反思强调团队会在行动过程中定期回顾和思考团队目标和过程，而不仅仅是在行为完成后对过去的总结和反省，团队行动中反思对于当前绩效任务的完成和有效性，能够起到重要的推动作用(Schmutz& Eppich,2017)。行动中反思更有助于推动团队活动过程中的信息处理，帮助团队有效解决任务中的困难和紧急问题，防止团队偏离团队目标并作出及时调整。团队行动中反思与行动可以相互切换，持续的时间更短，另外行动中反思的结果能够及时反馈帮助团队调整和适应当前境况，提高进展中的任务表现，而行动后反思更多会影响未来的团队结果(Schippers et al.,2015)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 团队反思与团队创新行为的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实证研究结果表明，团队反思对于团队创新具有促进作用(王智宁 等,2019;Chen etal.,2019; Schippers et al.,2015;Tjosvold et al.,2004）。团队成员为了建立团队层面的智力成果而进行公开的对于团队目标、战略和过程的回顾，有助于创新想法的提出(Larson &Christensen,1993;West,1996)。团队反思的过程能够改进对于存在问题的发现和识别(e.g.,Bottger& Yetton,1987；Hirokawa,1990)，对环境进行评估和审视(Ancona＆ Caldwell,1992)，并形成创造性的解决方案(Maier& Solem,1962)，对于团队创新十分关键。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，团队反思促进了团队内信息和认知水平的扩大，增强了成员们的交流与思考。团队作为关键性的信息处理机制(groups as information processors)，其成员是否能够主动性和系统性地处理和交换信息是非常重要的((Hinsz et al.,1997)。团队信息驱动(information-driven)的特质会促使成员通过交流和整合相关信息，系统性地处理和分析问题，而团队信息驱动的水平取决于成员的认知需求(Kruglanski&Webster,1996)。当团队经常性开展反思活动时，团队成员会共同回顾团队的目标、策略和过程，对于成员参与系统性信息处理的认知动机(epistemic motivation)具有推动作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其次，团队反思促进了成员们发现和识别问题，通过反思活动实现不遗漏细节、批判性评价、防止群体思维。反思是复杂的团队过程，包括多样性的团队行为，例如提出质疑、计划安排、探索学习、分析、全面探索、知识运用、元学习、利用自我意识回顾过去的事件、用新的意识达成一致(West,2000,p.4)。反思需要团队成员保持对细节的注意力、计划安排进展、提出合理质疑并解决复杂问题(Schepers&Wetzels,2007)。因此，团队反思避免成员们产生从众心理，促使团队内形成对于不同观点的批判性评价(Schippers et al.,2003)，对于团队内创造力的形成都具有关键意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，团队反思保证团队能够对变化的环境进行实时监控和及时反应(Kakar,2018;West,2000)，为实现创新发展提供了必备条件。团队反思对于识别内外部环境中的变化，以及作出及时的应对和调整具有关键意义。经常进行反思的团队对于周围的变化更为敏感，也能意识到行动的结果，具有在动态变革的情境中创新性适应的能力(Widmer etal.,2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 团队反思对团队创新行为的影响机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "De Dreu等人提出动机性信息加工理论，用以界定和了解团队成员在完成任务过程中获取和整合信息的不同方式(De Dreu et al.,2008;Nijstad&De Dreu,2012)，团队情境可以通过认知活动和社会活动两条机制影响团队结果(刘新梅，陈超,2017)。动机性信息加工理论中，认知动机(epistemic motivation)和社会动机(social motivation)作为两种不同类型的动机，对于个体和团队信息加工过程的有效性具有重要作用。认知动机是个体努力对世界、包括当前的团队任务或者问题，形成全面的、丰富的、正确理解的意愿；社会动机指的是个体对于结果分配的倾向性，从亲自我(pro-self)——关注自身结果，到亲社会(prosocial)———关注公平和集体结果(De Dreu et al.,2008,p.23)。团队活动影响团队中的信息处理过程(Super et al.,2016)，团队反思增加了信息量与对信息的重新评价加强认知动机，同时，树立和强调共同目标建立亲社会动机。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在团队层面上，情感状态可以表现为群体成员的共同或一致性情感反应(George,1990)，团队成员的情感状态在一定程度上的一致性，说明情绪是能够产生于群体层面的现象和状态，并取决于群体特质或过程(宁天放,2015;Menges& Kilduff,2015)。团队情绪指的是团队成员对于积极或消极情绪的集体体验，也就是成员共同的和相似的积极或者消极情绪(Cole et al.,2008;George,1990)。当成员们充分地相互交流并面对共同的情感事件时，就会在彼此之间形成共同的情感体验(George,1990)。团队中个体情绪与团队情绪正相关(Ilieset al.,2007)。工作团队中的个体往往会经历高度相似的情感状态，事实上，这种相似性足够高，使得个体的情感可以有意义地聚合到群体水平（通过群体平均值）并预测群体行为，例如：创新行为、亲社会行为等(Collins etal.,2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "团队情绪状态的形成过程表现为输入-过程-状态-输出(Collins etal.,2013)，情感过程形成的主要机制包括情绪感染(emotional contagion)和情感融合(affective convergence)，表现为团队情绪（基调）和情感多样性等状态(Van Kleef etal.,2017)。从社会功能视角(socialfunctional perspective)出发(Menges& Kilduff,2015)，情感是个体适应群体的一个重要机制，团队情绪影响团队结果的一个核心机制就是社会整合，是将成员彼此之间、成员与群体之间联系起来的关系纽带，团队情绪通过激励成员关注群体的利益和团队成功实现群体功能。团队成员可以从群体性的情感体验中获益，利用情感信号情绪可以为环境或任务的状态提供信息（积极情绪发送安全信号；消极情绪发送问题信号），进而影响行为结果(George&King, 2007)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 对现有研究的评述",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）团队反思具体类型的概念内涵和测量缺乏实证检验和本土化探索",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于团队层面反思活动的研究主要集中于团队反思性特质和行动后反思行为，已有大量学者从理论层面上指出团队反思与创造力的关系，但是由于反思行为的类型和测量缺乏操作性定义，仍然没能得到足够的研究关注(Farmese&Livi,2016)。尽管团队积极情绪与反思性之间的相关关系已经得到验证(Shin etal.,2016)，然而需要通过实验研究和纵向研究探索反思行为干预的作用和过程，为进一步展开相关研究提供依据。在实践中，联想的“复盘”理论、华为的“民主生活会”都是我国企业对于反思行为的实际应用，如何从理论上整合更为有效的团队学习方式并推广应用，通过本土化研究明确和扩展团队反思的概念内涵、分类测量和差异性作用，是未来研究的重要发展方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）团队反思对创新的作用机制偏重认知因素而忽略情绪因素",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已有研究中反思对创新的影响主要集中于认知因素的作用，无论是问题处理或者信息整合的过程性机制，都忽略了情绪因素在团队过程中的效用，未能意识到反思的情感和社会功能(Widmer et al.,2009)。团队作为成员工作主要的社交系统，为个体提供了信息整合和知识交换的社会情境和氛围，是情绪产生的重要场所，也对团队结果具有重要意义(Härtelet al.,2006)。探讨如何通过认知和情绪两方面耦合机制促进团队创新，有助于打开“温故何以知新”的过程黑箱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）团队创新过程的动态性和阶段性未能体现",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "团队创新是多阶段、动态性的复杂过程，在不同阶段由于任务重点和时间压力的区别，会产生差异性的团队互动与结果(Widmann etal.,2019)。现有的大部分研究未能区分前因变量在创意形成阶段和创意实施阶段所产生的不同作用(Liang et al.,2018)。Anderson 等人(2014)指出，尽管创意产生与创意实施是创新过程“形影不离”的两个阶段，但是，未来研究需要整合这两个截然不同的子阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）团队反思对团队创新在不同层面的影响情境和边界条件尚不明确",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然团队创新影响因素的研究已有较为丰富的成果，但是关于不同层面情境因素的整合模型并不多见。通过回顾已有创造力和创新的文献，发现已有研究主要关注团队构成、团队过程、领导力等因素的作用，难以从多层次的视角分析影响团队创新的过程和结果(Anderson et al.,2014;Jiang＆Chen,2016)。探讨团队反思对创新的影响，在组织、团队等不同情境下的作用机制，是组织行为研究亟需解决的重要问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究主要关注团队反思对于团队创新的作用，基于动机性信息加工理论和情绪的社会功能视角，提出反思影响创新的两种机制及其耦合作用，整合并探索组织与团队层面特征因素的边界作用，丰富团队创新促进的相关研究（如图1所示）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rauter等人(2018)将团队学习视为包含认知和情感成分的结构，团队成员的互动和经验分享，不仅能够引起团队群体层面的知识与理解水平产生变化，而且会带来情感和心理状态的波动(Schaubroeck et al.,2016; Sole& Edmondson,2002)。因此，团队的共同学习和反思经历能够产生认知和情感的不同反应(Cole etal.,2008)。本研究重点就是从认知和情绪两方面探索反思与创新结果的过程机制黑箱。一方面，如果影响过程符合认知与情绪的双路径并行模型，则团队反思对于团队创新的影响取决于信息加工和团队情绪各自的边界效应：团队反思可以通过阶段性回顾增强成员的认知动机以进一步推动信息共享和处理过程，同时强调共同目标提高成员的亲社会动机进而营造积极的团队情绪基调。另一方面，认知机制与情感机制可能存在交互作用，而团队反思活动作为团队中关键性的情绪事件，很可能会通过亲社会动机从情感上引发成员的关注和互动，进而加强其在认知层面的加工过程和处理结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9392367cabb8b014f78e46f4df3cce151cf8e3a7aab51a003af72e7fdecf1068.jpg",
+        "img_caption": [
+            "图1研究整体模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据研究的整体框架和思路，本研究的主要内容由以下几个方面展开，具体安排如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 研究内容1：团队反思与团队创新关系元分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管研究发现团队反思性活动对于很多团队结果具有积极的影响作用，包括团队绩效(e.g. Schippers et al.,2007; Schippers et al.,2012),团队创新 (Schippers et al.,2015;Tjosvold etal.,2004),团队有效性（Widmer et al.,2009)等。但是依旧有研究得到差异性的研究结果，Wiedow 和 Konradt (2011)发现团队反思与团队结果之间没有显著的相关性，甚至存在消极影响(e.g.,Dreu, 2002,2007; Moreland & McMinn,2010)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "鉴于缺乏对于团队反思与创造力关系和影响过程的一致性结论，本研究拟采用元分析的方法，收集探讨团队反思与创新关系的相关实证研究。由于团队反思(team reflection)和团队自反性(team reflexivity)在大量研究中并未严格区分其差异(Chen et al.,2019;Otte et al.,2017)，而针对团队反思具体行为的研究十分有限，因此本研究拟同时包括团队反思和团队自反性为对象，检验反思活动与团队创新结果的关系，并进一步探索团队和组织层面可能存在的中介和调节效应，明确团队反思对创新的认知和情感过程机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 研究内容2：行动中反思与行动后反思的差异性作用研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rauter 等人(2018)根据社会认知理论(social cognitive theory,Bandura,1991)提出，自我调节因素对于认知处理系统的运作有影响作用，在群体努力的前提下，团队反思在群体层面上代表和决定了这种群体性自我调节的能力水平。具体而言，团队反思通过推动群体层面的认知动机和反应增强了成员对于目标实现程度的认知评价；而团队反思活动促进交互和合作，通过关注群体结果及和谐关系调动了成员对于反思过程和当前状况的积极情绪感受。通过回顾更好地向前看(by looking back in order to look forward)，行动中反思为整合新知识并适应不断变化的情境提供了心理空间，最终目的是在进展的团队活动中优化即时任务与团队合作(Schmutz etal.,2018)。因此，团队行动中反思使得团队成员在意识上(cognitively)和情感上(affectively)都从手头的任务中暂缓，是一个能进一步推动处理信息和互动的过程，本研究提出行动中反思对团队创新影响的并行路径模型（图2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a29d7278dfdc76f5217020a08a7dc58d0fd30355ca0c96397d27123d5472c23.jpg",
+        "img_caption": [
+            "图2团队行动中反思的并行路径模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "认知路径：一方面，反思让团队更有创造力，是由于反思激发了成员对于信息的认知加工过程，使相互之间对于如何更有效工作和完成任务的想法进行互动和交流(Paulus &Yang,2000)，团队行动中反思涉及对于任务进展各种观点进行批判性思考，增强了信息的认知处理进而放弃那些不合理、不正确或不实用的方案，进而选择更好的解决办法(Dreu,2002; Schippers et al.,2015)。当团队成员意识到当前状态和目标之间存在的差距时，就会调动和激发其不断思考，并通过创新行为减少差距(Locke&Latham,2002)。经验学习(Kolb,1984)指出对于经验的不断反思能引发更具先进性和普遍性的行动计划，也就是找到任务恰当的解决方案的认知表征。因此，行动中反思通过增强认知动机影响团队成员信息的认知处理过程，增加了对于彼此信息的共享和信息内容的重新评价，进而提高团队创新。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "情绪路径：另一方面，Meier 等人(2016)认为积极反思是重要的恢复(recovery)过程，能够帮助个体建立心理和情感资源(Ten Brummelhuis&Bakker,2012)，团队通过行动中反思让成员关注共同的目标和结果，可以帮助成员们冷静下来并重拾信心和动力，激发成员的工作热情，对于团队情绪状态和基调进行有效的调节。团队成员更多在任务完成的过程中而不是任务结束后进行反思，使其对于集体的成功始终抱有较高的期望和信念，更容易通过坚定的信念和强调共同目标实现群体努力，进而提高团队创新(Schippers et al.,2015)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，认知机制与情感机制在团队过程中可能存在交互作用（图3）。团队的信息加工过程和团队结果可能取决于两种类型动机过程的共同作用，当团队成员受到较高水平的认知动机和社会动机的共同驱动时，能够产生最佳的个体和团队效能(Nijstad&De Dreu,",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2012)。只有通过较高的认知动机对彼此信息进行系统性地处理和整合时，群体性的社会动机所建立起来的信息和资源共享才能更充分地发挥作用(De Dreu,2007)。具体而言，在将动机性信息加工理论在团队层面进行概念化过程中(Prussia&Kinicki,1996)，团队认知反应体现了团队对于目标实现程度的认知评价和投入，而情绪的社会功能视角指出(Frijda &Mesquita,1994)，团队情感反应是将成员彼此之间、成员与群体之间联系起来的关系纽带(Menges＆ Kilduff,2015)。团队反思活动作为团队中关键性的情绪事件，很可能会通过情感引发成员的群体关注和互动，交互影响成员在认知层面的信息加工过程，进而作用于团队结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f2e41d223f71153732c1b59a16535c00777e39d435c140893f2cf03d4a7d075.jpg",
+        "img_caption": [
+            "图3团队行动中反思的交互路径模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 研究内容3：行动中反思对创新行为影响的动态视角",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Liang 等人(2018)通过实证研究验证，团队创新是多阶段(multistage)的复杂过程，包括创意形成(idea generation)和创意实施(idea implementation)。第一个阶段强调探索性和多样性思维，第二个阶段则转向利用性和一致性思维(Amabile et al.,1996; Baer,2012;West,2002)。在不同的创新阶段，团队的反思活动可能会产生差异性的团队过程和结果(Widmann et al.,2019)，模型如图4所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "创意形成阶段，团队的主要任务是参与多样性思维，形成原创性想法，并利用这些想法指导接下来的行动(Gersick,1988; Skilton&Dooley,2010)。创意产生主要发生于团队任务的初始阶段，在这一阶段成员能够探索更多的可能性，而不受资源的局限，更可以加强讨论、挖掘和整合成员们的经验和想法，更为充分地进行团队知识的利用和共享。在创意形成阶段，团队进行反思和回顾，能够让成员及时对情境进行审视和评估，提出相应的问题和质疑，促进了彼此间想法的交流和互动，对于团队创新具有关键性的作用(Bottger &Yetton, 1987; Hirokawa, 1990; Somech, 2006)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "创意实施阶段，团队需要选择和针对性地开展某一想法，以实现最终的创新目标，这一阶段更需要成员拥有一致性的想法和行动(Baruah& Paulus,2009)。创意实施主要发生于团队任务的后期，限制性资源会让团队成员感到时间压力，因此成员需要集中时间和精力推动和整合新想法(Edmondson et al.,2007)。团队在创意实施阶段开展反思活动，可以加强成员对团队目标和战略的认同，促使彼此之间相互信任和理解，时间压力下形成共同性的想法与体验，放弃那些希望不大的想法并鼓励成员努力成功(Dreu,2002; Schippers et al.,2015)。实施阶段的反思活动帮助成员体验阶段性成果，调动和激发成员积极感受，通过创新行为减少目标与现实的差距(Locke&Latham,2002)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/61be82d30ebf23329a0695876e857f77eebc2b5c6003b88d171ab40aa26cc010.jpg",
+        "img_caption": [
+            "图4团队创新阶段的调节作用模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4理论建构",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究形成团队中反思与创新行为的动态过程框架，探究认知和情绪路径的耦合机制及其在不同创新阶段的过程作用及边界条件。通过拓展团队的过程性和动态性视角，重点关注团队任务进行中发生的各种激烈的群体事件，以及在执行任务期间同样会产生反思性的团队过程(Schmutz et al., 2018)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一，本研究从理论和实证上构建了团队反思动态过程，采用动态性和系统性的观点综合考虑团队中的反思对于创新行为在不同阶段的差异作用。通过对团队成员在任务进展中的活动和过程进行细化，将反思活动区分为行动后反思和行动中反思(Schmutz et al,2018)，并进一步将创新行动区分为创意形成和实施阶段(Widmann etal.,2019)，建立起团队成员信息加工和互动的整体过程模型。以往关于团队反思的研究，多着眼于任务完成后的反思行为，因而传统的概念框架下的团队反思主要是在停工期间发生的、对于过去和最终绩效的反思(Schmutz& Eppich,2017)。本研究提出行动中反思与行动后反思对于团队任务和结果可能存在差异性的影响和作用，并需要对行动中反思与行动后反思进行概念内涵、结构内容、测量评价等方面的深入分析。同时，受到团队和创新动态性特征的影响，行动中反思活动在不同的创新阶段也可能存在差异化结果，需要识别成员互动过程中的具体阶段性情境，包括关注创意的形成阶段—一创造性的作用，以及关注创意的实施阶段——创新结果，进一步探索反思的差异性作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，本研究通过建立团队反思的认知与情绪耦合机制模型，将情绪视角引入反思研究之中。基于信息处理和情绪理论，在已有的认知思路上拓展了团队情绪的作用，期望能够提升对反思行为影响创新的解释效力。在团队中工作，成员之间的协调行动非常的重要，因为团队任务具有高要求和高复杂性的特点，需要成员之间相互协调配合，才能整合彼此的努力实现共同目标(Widmer et al.,2009)，不仅需要认知上的共享，同时也需要情感上的融入(Shin et al.,2016)。团队学习是包含认知和情感成分的结构性过程(Todt et al.,2018)，团队成员的互动和经验分享，不仅能够引起团队群体层面的知识与理解水平变化，而且会发生心理过程和情感的波动(Schaubroeck et al.,2016; Sole ＆ Edmondson,2002)。因此，团队的共同学习和反思经历能够产生认知和情感的不同反应(Cole et al.,2008)。从认知和情绪两方面探索反思与创新结果的过程机制黑箱，对于拓展团队学习理论具有重要意义。一方面，如果影响过程符合认知与情绪的双路径并行模型，则团队反思对于团队创新的影响取决于信息加工和团队情绪各自的边界效应；另一方面，认知机制与情感机制可能存在交互作用，而团队反思活动作为团队中关键性的情绪事件，很可能会通过情感上引发成员的关注和互动，进而影响其在认知层面的加工过程和处理结果。引入情绪机制，对于推动团队学习与创新研究的理论和实践发展，具有重要的现实意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三，本研究提出反思影响创新过程的整合性理论，将不同层次、不同阶段的反思与创新研究结合起来(Anderson etal.,2014)，揭示团队反思影响创新的影响机制和效用边界，提高模型的解释力和预测力。通过辨别在何种情况下，团队的学习活动能够在团队运作过程中发挥最大的作用(陈万思 等,2019)，对团队反思影响创新的边界条件进行界定。不仅包括探讨团队层面的条件因素，而且试图引入多层调节变量（例如：组织层面的企业组织结构等），以探究在不同的情境下，如何更好地运用、管理和调整反思活动来实现更高水平的创造力提升(魏昕，张志学,2018;Wang et al.,2019)。本研究拟兼顾多个层面上研究的理论深度，采用科学、严谨的研究设计，并结合团队和组织层面的情境条件，提出研究模型的构建与验证。影响团队反思与创新之间关系的情境因素，既包括团队层面的任务特征和团队特征，也包括组织层面的组织氛围和管理实践。同样的团队活动和行为，有可能因为任务阶段、团队性质或者组织氛围的差异，产生不同的影响结果。因此，在梳理情绪与认知两个中介过程耦合机制的基础上，对各段关系上情境因素的调节作用进行全面的探讨，提升模型整体的外部效度和对现实的解释力度。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过构建以上理论体系，本研究将在以下三方面做出贡献：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先是理论创新，本研究将团队反思影响创新的过程机制从行动后拓展到行动中、从创新结果拓展到创新过程阶段、从认知机制拓展到情绪机制。通过具体区分行动中反思和行动后反思的内涵和特征，探讨认知和情绪机制的耦合作用在不同创新阶段的差异化影响，扩展了我们对于团队反思过程和结果的理解和认识。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其次是视角创新，现有研究仍旧将团队层面学习影响行为的过程视为黑箱问题，动机性信息加工理论与情绪的社会性功能视角，为我们深入理解和分析团队中反思与创新之间的关系，提供了新的思路和理论基础。本研究通过分析团队和组织层面的情境条件在这一过程中产生的差异性作用，系统性地建立团队创新促进的整体模型，深入探讨团队反思影响创新结果的过程机制和边界条件。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后是方法创新，本研究结合使用深度访谈、问卷调查和实验研究等多种方法，对研究问题进行交叉检验和多方面论证。在进行问卷调查和数据收集时，采用纵向研究的方法，分阶段进行团队反思活动、认知与社会动机、团队情绪与变化、团队和组织层面情境变量、团队创新行为的测量；采用实验研究的方法，建立和验证变量之间的因果关系；另外，通过深度访谈挖掘隐藏在现象和变量关系下的根本原因。本项目提出反思影响创新的动态和情境特征，采用更为全面和科学的方法进行分析验证，提高研究结果的有效性和说服力。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "陈万思,周卿钰,杨朦晰,张昱城,钟琳.(2019).基于跨层双中介模型的知识服务团队认同对团队绩效的影响过程研究.管理学报，(08),1153-1160.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "刘新梅,陈超.(2017).团队动机氛围对团队创造力的影响路径探析—一基于动机性信息加工视角.科学学与 科学技术管理，(10),170-180.   \n倪旭东,周琰喆.(2017).群体情感基调——团队认知的互补性概念.科技进步与对策，(03),152-160.   \n宁天放.(2015).团队情绪、团队后援行为与团队绩效的关系.人力资源管理，(01),132-133.   \n王智宁,刘梦丽,李晓磊.(2019).团队反思对员工创新行为的影响- 一个跨层次被调节的中介模型.软科学 $( 1 1 ) , 6 4 - 6 8 + 7 4$   \n魏昕,张志学.(2018).团队的和谐型创新激情:前因、结果及边界条件.管理世界，（ $0 7 ) , 1 0 0 - 1 1 3 + 1 8 4$   \n袁庆宏,张华磊,王震,黄勇.(2015).研发团队跨界活动对团队创新绩效的“双刃剑”效应一 -团队反思的中介 作用和授权领导的调节作用.南开管理评论，(03),13-23.   \nAmabile,T.M., Conti,R., Coon,H.,Lazenby, J.,& Herron,M. (1996). Assessing the work environment for creativity. Academy of Management Journal,39(5),1154-1184.   \nAmabile,T.M.,& Pratt, M. G. (2016).The dynamic componential model of creativity and innovation in organizations: Making progress, making meaning. Research in Organizational Behavior,36,157-183.   \nAncona, D.G.,& Caldwel, D.F. (1992). Bridging the boundary: External activity and performance in organizational teams.Administrative Science Quarterly, 634-665.   \nAnderson,N.,Potocnik,K.,& Zhou,J.(2O14). Innovationandcreativity inorganizations: Astate-of-the-science review, prospective commentary,and guiding framework. Journal of Management, 40(5),1297-1333.   \nArgyris, C.,& Schon,D.A. (1978). Organizational learning: A theory of action perspective. Reading, MA: Addison Wesley.   \nBaer, M. (2012). Puting creativity to work: The implementation of creative ideas in organizations. Academy of Management Journal, 55(5),1102-1119.   \nBandura,A.(1991). Social cognitive theory of self-regulation. Organizational Behavior and Human Decision Processes,50(2),248-287.   \nBaruah,J.,& Paulus,P.B.(2O09). Enhancing group creativity: The search for synergy.In Creativity in Groups. Emerald Group Publishing Limited.   \nBottger, P. C., & Yetton, P. W. (1987). Improving group performance by training in individual problem solving. Journal of Applied Psychology,72(4), 651.   \nBreugst,N.,Preller,R.,Patzelt,H.,& Shepherd,D.A. (2O18). Information reliability and team reflectionas contingencies of the relationship between information elaboration and team decision quality. Journal of Organizational Behavior,39(10),1314-1329.   \nChen, X.,Liu, J., Zhang,H.,& Kwan, H. K. (2019). Cognitive diversity and innovative work behaviour: The mediating roles of task reflexivity and relationship conflict and the moderating role of perceived support.Journal of Occupational and Organizational Psychology,92(3),671-694.   \nCole,M.S., Walter,F.,& Bruch, H. (2oo8). Affective mechanisms linking dysfunctional behavior to performance in work teams: A moderated mediation study. Journal of Applied Psychology, 93(5), 945.   \nColins,A.L.,Lawrence,S.A.,Troth,A. C.,& Jordan,P.J. (2013). Group affective tone: A review and future research directions.Journal of Organizational Behavior,34(S1),S43-S62.   \nDe Dreu, C.K. (20o7). Cooperative outcome interdependence,task reflexivity, and team effectiveness: A motivated information processing perspective. Journal of Applied Psychology,92(3), 628.   \nDe Dreu, C. K., Nijstad,B.A.,& Van Knippenberg, D. (20o8). Motivated information processng in group judgment and decision making. Personality and Social Psychology Review,12(1),22-49.   \nDreu, C. K. D.(2o02). Team innovation and team effectiveness: The importance of minority dissent and reflexivity. European Journal of Work and Organizational Psychology,11(3),285-298.   \nEdmondson,A. C., Dillon,J.R.,& Roloff, K. S. (2007). 6three perspectives on team learing: Outcome improvement, task Mastery, and group process. Academy of Management Annals,1(1),269-314.   \nFarnese,M.L.,&Livi, S. (2O16). How reflexivity enhances organizational innovativenes: The mediation role of team support for innovation and individual commitment. Knowledge Management Research & Practice,14(4),525-536..   \nFrijda,N.H.,& Mesquita, B.(1994).The social roles and functions of emotions. In Emotion and Culture: Empirical Studies of Mutual Influence. (pp.51-87). American Psychological Association.   \nGeorge,J.M.(1990). Personalityaect, and behavior in groups. Journal ofApplied Psychology,75(2),107.   \nGeorge,J.M.,& King,E.B. (2o07).Potential pitfalls ofaffct convergence in teams: Functions and dysfunctions of group affective tone. In Affect and Groups. Emerald Group Publishing Limited.   \nGersick, C.J. (1988). Time and transition in work teams: Toward a new model of group development. Academy of Management Journal, 31(1),9-41.   \nHartel, C.E., Gough, H.,& Hartel, G.F. (2006). Service providers'use of emotional competencies and perceived workgroup emotional climate to predict customer and provider satisfaction with service encounters. International Journal of Work Organisation and Emotion,1(3),232-254.   \nHedberg, B.,& Wolf, R. (2oo1). Organizing,learning, and strategizing: From construction to discovery. Handbook of Organizational Learning and Knowledge,1, 535-556.   \nHinsz, VB.,Tndale,R.S.,&Volrath,D.A. (1997).heemergingconceptualizationof groupsas ifomatio processors. Psychological Buletin,121(1), 43.   \nHirokawa, R.Y. (199o).The role of communication in group decision-making effcacy: A task-contingency perspective. Small Group Research,21(2),190-204.   \nIlies,R.,Wagner,D.T.,& Morgeson,F.P.(2o7).Explaining affective linkagesinteams: Individual dierences in susceptibility to contagion and individualism-collectivism. Journal of Applied Psychology,92(4),1140.   \nJiang,Y.,& Chen, C.C. (2018). Integrating knowledge activities for team innovation: Efects oftransformational leadership. Journal of Management, 44(5), 1819-1847.   \nKakar, A. K. (2018). Investigating the synergistic and antagonistic impacts of outcome interdependence, shared vision and team reflexivity on innovation in software development projects. International Journal of Innovation Management, 22(06),1850050.   \nKnight,A. P.,& Eisenkraft,N. (2O15).Positive is usually good, negative is not always bad: The efects of group affect on social integration and task performance.Journal of Applied Psychology,100(4),1214.   \nKolb D. (1984) Experiential Learning: Experience as the Source of Learning and Development. Prentice Hall, Englewood Cliffs, NJ.   \nKonradt, U., Ott, K. P., Schippers, M. C.,& Steenfat, C. (2016). Reflexivity in teams: A review and new perspectives. The Journal of Psychology,150(2),153-174.   \nKruglanski, A. W.,& Webster, D. M. (1996). Motivated closing of the mind:\" Seizing\" and\" freezing.\".Psychological Review,103(2),263.   \nLarson Jr,J. R.,& Christensen, C. (1993). Groups as problem-solving units: Toward a new meaning of social cognition.British Journal of Social Psychology,32(1),5-30.   \nLiang, J., Shu, R., &Farh, C.I. (2019). Differential implications of team member promotive and prohibitive voice on innovation performance in research and development project teams: A dialectic perspective. Journal of Organizational Behavior, 40(1), 91-104.   \nLocke,E.A., & Latham, G.P. (2002). Building a practically useful theory of goal seting and task motivation: A 35-year odyssey. American Psychologist,57(9),705.   \nMaier, N.R.,& Solem,A.R. (1962). Improving solutions by turning choice situations into problems.Personnel Psychology,15: 151-157   \nMarch,J.G.(1991).Exploration and exploitation inorganizational learning. Organization Science,2(1),71-87.   \nMeier,L.L., Cho,E.,&Dumani,S.(2016).The efect of positive work reflection during leisure time on affective wel-being: Results from three diary studies. Journal of Organizational Behavior,37(2),255-278.   \nMenges,J. I.,& Kilduf,M. (2015). Group emotions: Cuting the Gordian knots concerning terms,levels of analysis, and processes. Academy of Management Annals, 9(1), 845-928.   \nMoreland, R.L., & McMinn,J. G. (2010). Group reflexivityand performance.In Advances in Group Processes. Emerald Group Publishing Limited.   \nNijstad,B.A.,&De Dreu, C.K. (20l2). Motivated information processing inorganizational teams: Progress, puzzles, and prospects. Research in Organizational Behavior, 32,87-111.   \nOte, K. P., Konradt, U., Garbers, Y., & Schippers,M. C.(2017). Development and validation of the REMINT: A reflection measure for individuals and teams. European Journal of Work and Organizational Psychology,26(2),299-313.   \nPaulus,P.B.,& Yang,H. C. (2ooo). Idea generation in groups: A basis for creativity in organizations. Organizational Behavior and Human Decision Processes, 82(1),76-87.   \nPrussia, G.E., & Kinicki, A.J.(1996). A motivational investigation of group effectiveness using social-cognitive theory. Journal of Applied Psychology, 81(2),187.   \nRauter,S., Weiss, M., & Hoegl, M. (2018). Team learning from setbacks: A study in the context of start-up teams. Journal of Organizational Behavior, 39(6), 783-795.   \nSchaubroeck,J., Carmeli,A., Bhatia, S.,& Paz, E. (2016). Enabling team learning when members are prone to contentious communication: The role of team leader coaching. Human Relations,69(8),1709-1727.   \nSchepers,J.,& Wetzels,M. (20o7). A meta-analysis of the technology acceptance model: Investigating subjective norm and moderation effects. Information & management, 44(1), 90-103.   \nSchippers, M. C., Den Hartog, D.N., Koopman, P.L.,& Wienk, J.A. (2003). Diversity and team outcomes: The moderating effects of outcome interdependence and group longevity and the mediating effect of reflexivity.Journal ofOrganizational Behavior:The International Journal of Industrial,Occupationaland Organizational Psychology and Behavior,24(6),779-802.   \nSchippers,M. C., Den Hartog,D.N.,& Koopman, P.L. (20o7). Reflexivity in teams: A measure and correlates.Applied psychology,56(2),189-211.   \nSchippers, M. C., Homan, A. C., & Van Knippenberg, D.(2012). To reflect or not to reflect: Prior team performance as a boundary condition of the effects of reflexivity on learning and final team performance. Journal of Organizational Behavior, 34(1), 6-23.   \nSchippers, M. C., West, M. A.,& Dawson, J.F. (2015).Team reflexivity and innovation: The moderating role of team context. Journal of Management, 41(3), 769-788.   \nSchmutz, J. B., & Eppich, W. J. (2017). Promoting learning and patient care through shared reflection: A conceptual framework for team reflexivity in health care. Academic Medicine, 92(11),1555-1563.   \nSchmutz,J.B.,Lei,Z.,Eppich,W.J.,& Manser,T. (2018). Reflection in the heat of the moment: The roleof inaction team reflexivity in health care emergency teams. Journal of Organizational Behavior,39(6),749-765.   \nSchon,D.A. (1983). The reflective practitioner: How professionals think in action. New York: Basic Books. (Reprinted in 1995).   \nShin, Y., Kim, M.,& Lee,S. H. (2019). Positive group afective tone and team creative performance and changeoriented organizational citizenship behavior: A moderated mediation model. The Journal of Creative Behavior,53(1),52-68.   \nSkilton,P.F.,&Dooley,K.J. (2010).The effects of repeat collaboration oncreative abrasion. Academy of Management Review,35(1),118-134.   \nSole,D.,& Edmondson,A. (2o02). Situated knowledge and learning in dispersed teams.British Journal of Management,13(S2),S17-S34.   \nSomech,A. (2oo6). The effects of leadership style and team process on performance and innovation in functionally heterogeneous teams. Journal of Management,32(1),132-157.   \nSuifan, T. S.,Alhyari, S.,& Sweis,R.J. (2019). A moderated mediation model of intragroup conflict. International Journal of Conflict Management,31(1),91-114.   \nSuper, J.F.,Li,P., Ishqaidef, G.,& Guthrie,J.P. (2016). Group rewards,group composition and information sharing: A motivated information processing perspective. Organizational Behavior and Human Decision Processes,134,31-44.   \nSwift,T.A.,& West, M.A.(1998). Reflexivity and group processes: Research and practice.ESRC Centre for Organization and Innovation.   \nTen Brummelhuis,L.L.,& Bakker,A.B.(2012).A resource perspective on the work-home interface: The workhome resources model. American Psychologist, 67(7), 545.   \nTjosvold,D.,Tang,M.M.,& West,M.(20o4).Reflexivity for team innovation in China: The contribution of goal interdependence. Group & Organization Management,29(5), 540-559.   \nTodt, G., Weis,M.,& Hoegl, M. (2018). Mitigating negative side effects of innovation project terminations: The role of resilience and social support. Journal of Product Innovation Management,35(4),518-542.   \nWang,Z.,Meng,L.,& Cai, S.A.(2019). Servant leadership and innovative behavior: a moderated mediation. Journal of Managerial Psychology,34(8), 505-518.   \nWest,M. (1996). Reflexivity and work group effctivenes: Aconceptual integration (pp. 555-579). John Wiley & Sons,Ltd.   \nWest,M.A. (2ooo). Reflexivity,revolution and innovation in work teams. In Product Development Teams (pp.1- 29). Jai Press.   \nWest,M.A. (2Oo2). Sparkling fountains or stagnant ponds: An integrative model of creativity and innovation implementation in work groups.Applied psychology,51(3),355-387.   \nWidmann, A., Mulder, R.H.,& Konig, C. (2019).Team learning behaviours as predictors of innovative work behaviour-a longitudinal study. Innovation,21(2),298-316.   \nWidmer, P.S., Schippers, M. C.,& West,M.A. (2009). Recent developments in reflexivity research: A review.PsychologyofEveryday Activity,2(2),2-11.   \nWiedow,A.,& Konradt, U. (2011).Two-dimensional structure of team process improvement: Team reflection and team adaptation. Small Group Research, 42(1),32-54.   \nvan Kleef, G.A., Heerdink,M. W.,& Homan, A. C. (2017). Emotional influence in groups: The dynamic nexus of affect, cognition,and behavior. Current Opinion in Psychology,17,156-161. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A dynamic perspective on the relationship between team reflection-inaction and innovation: A moderated mediation model integrating cognition and emotion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU Wei， SHEN Xiaoling",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(School of Business,Centural University of Finance and Economics,Beijing,1Ooo81,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In a complex and changing market environment, and in the context of China's implementation of an innovation-driven strategy, companies wil need to rely on team innovation to establish a unique competitive advantage for its long-term development. The procedural black box in the relationship between team reflection and team innovation has been identified after review of existing research. It has been suggested that reflecting the past can lead to new ideas ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and changes in the literature,but there is litle empirical research conducted on how this is achieved. Based on the traditional idea of after-action reflection, this study proposes the differences in conceptual connotation and empirical measurement of in-action team reflection， examines the differential role of team reflection in different stages of innovation, dynamically analyzes the behavioral outcomes of creative formation and implementation, and proposes the coupling of the two mechanisms, namely information processing at the cognitive level and team emotion at the emotional level, by integrating the motivated information processing theory and the social functions of emotion, to construct an overall model of team reflection on innovation. This study also thoroughly explores the process mechanism, and   \nincludes a comprehensive analysis of the moderating role of contextual factors at each stage of the   \nrelationship.Specifically, based on the results of theoretical research and empirical test, we intends to contribute to the theoretical research on learning and innovation,and put forward practical suggestions for the enterprises,teams and individuals. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: team reflection-in-action ， team innovation ， information processing， team emotional tone, innovation stage ",
+        "page_idx": 16
+    }
+]

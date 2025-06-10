@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "基于P-Ifourier观测矩阵的宽带压缩感知方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘洋¹，任清华1,²，孟庆微1，苏玉泽1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.空军工程大学信息与导航学院，西安 710077;2.中国电子科技集团航天信息应用技术重点实验室，石家庄050081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对压缩感知理论在宽带频谱感知领域应用时重构精度差的问题,根据平稳信号在频域所表现出的稀疏特性，提出了一种基于P-Ifourier(Partial-Inverse fourier)观测矩阵的宽带压缩频谱感知方法。新方法首先将频谱感知问题建模为一个典型的压缩感知问题，利用相关性能优良的标准正交傅里叶基构造观测矩阵，使观测矩阵具有良好的重构性能和重构精度。仿真结果表明，相比于高斯随机观测矩阵和嵌入式混沌序列-循环 Toeplitz结构观测矩阵，该方法在较低信噪比环境下能够明显降低信号重构的均方误差，并且在相同条件下的重构概率得到了明显改善。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：宽带频谱感知；压缩感知；观测矩阵；傅里叶基 中图分类号：TN92 doi: 10.3969/j.issn.1001-3695.2017.10.1009 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Broadband compressed sensing method based on P-Ifourier observation matrix ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Yang1,Ren Qinghual,²,Meng Qingwei1, Su Yuzel (1.Collegeof Information&Navigation,AirForceEngineering University,Xian077,China;2.CETCeyLaboratoryof Aerospace Information Applications,Shijiazhuang O5oo81, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming at the problemof poorprecision inthe application ofcompressd sensing theoryinthefieldof broadband spectrumsensing,and according to the sparse characteristics of the stationary signal inthe frequencydomain,this paper developeda broadband compresion spectrumsensing method based onP-Ifourier(Partial-Inverse fourier)observation matrix. The new method translated the spectrum sensing problem intoa typicalcompressd sensing problem,and used the standard orthogonalFourierbasisobservationmatrixwhichhas theexcellentincoherenceperformancetobuildtheobservationmatrix in order to have good reconstruction performance and reconstruction precision.The simulation results show that compared with theGaussianrandomobservation matrix andtheembedded chaotic sequence-cyclicToeplitzstructureobservation matrix,this method can significantly reduce the mean square error ofsignal reconstruction in the lower SNR environment,and under the same conditions it can significantly improves the probability of reconstruction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: broadband spectrum sensing; compressed sensing; observation matrix; fourier base ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着信息时代的不断发展，人们对无线电资源的需求也日益增多，由于无线频谱资源是有限的，因此，如何高效合理地分配和管理频谱资源是当前急需解决的重要难题。基于认知无线电理论的频谱感知技术通过不断探索频谱空穴而动态地分配频谱资源为解决这一问题提供了思路，但同样面临很多挑战，挑战之一就是随着无线电信号带宽的不断增加，基于传统奈奎斯特采样定律的硬件设备越来越难以承受因高采样率而带来的载荷。针对这一问题，将压缩感知（CS:Compressed Sensing）理论引入到宽带频谱感知技术中已成为当今的研究热点之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，许多国内外学者针对这一领域有不同方面的研究。Tian等人[1首先提出并验证了宽带压缩频谱感知的有效性。之后Tian等人[2]又提出了一种基于循环检测的宽带压缩频谱感知算法。文献[3]提出了一种确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵，但是该矩阵依赖于所选取的伪随机序列的自相关特性。文献[4]提出了一种优化的自适应宽带压缩频谱感知算法，将观测矩阵优化与压缩采样的自适应过程相结合，但是产生该类矩阵构造过程较为复杂，且没有利用频域稀疏信号的特点进行构造，因此重构效果有待进一步挖掘。文献[5]将交叉验证理论引入压缩感知领域中，对观测矩阵进行优化，但该矩阵是不断对高斯随机矩阵进行优化得来的，因此加大了硬件负",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "担。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "压缩感知的核心是观测矩阵的构建，根据感知环境构造或选取合适的观测矩阵是精准恢复的前提。本文首先对傅里叶矩阵进行标准正交化处理，再对其求逆得到了逆傅里叶矩阵，最后随机选取部分行得到了P-Ifourier观测矩阵，研究表明，P-Ifourier 观测矩阵具有理想的约束等距特性（RIP:restrictedisolatedproperty）和非相关性，在较低信噪比下的重构概率和重构精度相比于其他矩阵有较为明显的改善。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 模型描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设认知用户的检测带宽为 $B$ ，将它均匀的划分为 $L$ 个子频带，这 $L$ 个频带互不重叠。主用户可以随意地占用这些子频带，对于未被占用的子频带，它们的功率谱密度（power spectrumdensity，PSD）接近于零，因此PSD在频域上表现有一定的稀疏特性[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设待检测的宽带信号为 $x ( \\mathrm { t } )$ ，它可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( t ) = \\sum _ { i = 1 } ^ { L } \\alpha _ { i } \\cos 2 \\pi f _ { i } t + n ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha _ { i }$ 表示第 $i$ 个子频带的幅值， $f _ { i }$ 表示第 $i$ 个子频带的中心频率， $n ( \\mathrm { t } )$ 表示信号所处环境的噪声和，在一定信噪比条件下，可以近似为零。由于一般的自然信号在时域上都不具有稀疏特性，而在频域上呈现稀疏特性，因此将信号 $x ( \\mathrm { t } )$ 表示到频域得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { s } = \\pmb { F } \\pmb { x }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $F$ 为离散傅里叶变换基， $s$ 为 $N$ 维信号 $x$ 在频域下的稀疏系数向量，向量 $s$ 中只有 $K$ 个系数不为零（ $( K { < } N )$ ，其余系数为零或近似为零，称向量 $s$ 是 $K$ 阶稀疏的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信号的稀疏表示是压缩感知理论应用的第一步。将得到的频域稀疏系数向量 $s$ 进行压缩采样可得观测向量",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { y } = A \\boldsymbol { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $_ y$ 为 $M \\times 1$ 维观测向量（ $M { < } { < } N )$ ， $A$ 为 $M { \\times } N$ 维观测矩阵。本文将传统的频谱感知问题建模为经典的压缩感知模型，如图1所示",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/00ab79c5c23f1f08be21423639bb9909f548e3dd06ced0d140def700966448cb.jpg",
+        "img_caption": [
+            "图1宽带压缩频谱感知模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于压缩采样模块中的观测矩阵 $A$ ，目前常见的有高斯随机矩阵、局部傅里叶矩阵以及托普利兹(Toeplitz)矩阵等[]。其中，高斯随机矩阵具有较低的相关性，应用也最为广泛，但是计算复杂度高，硬件实现困难[7]。托普利兹矩阵严重依赖伪随机序列的自相关特性，因此应用范围受限。局部傅里叶矩阵是从傅里叶矩阵中随机选择 $M$ 行再对列进行单位正则化得到的，它具有理想的非相关性[8]。但是局部傅里叶矩阵只适用于时域稀疏的信号，不适用于本文中的频谱感知场景，因此针对本文所研究的频谱感知场景，本文构造了P-Ifourier观测矩阵，并将在下一节详细介绍该矩阵的构造思想及其性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图1及式（3）可知，只要利用恢复算法和测量向量 $y$ 重构出稀疏向量 $s$ ，就能获得信号的频谱信息。对于式(3)的求解，可以通过求解基于 $e o$ 范数最小化的问题来恢复信号的频谱 $s ,$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { s } \\left\\| s \\right\\| _ { e _ { 0 } } \\qquad s . t . \\ y = A s\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此方法求得的解是最优解，但由于 $M { < } N _ { : }$ ，式(4)的求解属于NP-Hard难题。针对此类问题，压缩感知理论中的一个主要方法就是求解一个基于 $e \\mathrm { 1 }$ 范数最小化问题并且利用线性规划问题来求解重构信号[9]。文献[10]证明了 $e o$ 最小范数在一定条件下与 $e _ { I }$ 最小范数等价。于是式(4)可以转换为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { s } \\left\\| s \\right\\| _ { e _ { 1 } } \\qquad s . t . \\ y = A s\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "解决这类问题主要有两类算法，一种是凸优化算法，一种是贪婪算法。前者能得到全局最优解，但是算法复杂度高，速度慢；后者是基于贪婪迭代的思想，虽然恢复精度没有前者高，但其具有复杂度低，速度快等优点，也是目前常用的一类算法，主要包括匹配追踪算法（MP:Matching pursuit）、正交匹配追踪算法（OMP:OrthogonalMatchingPursuit）和压缩采样匹配追踪算法（CoSaMP:Compressive Sampling Matching Pursuit）等。其中正交匹配追踪算法收敛速度快、恢复精度高，是目前最为常用的恢复算法，本文将在仿真实验中运用此算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 观测矩阵的构造及证明",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1观测矩阵构造条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在压缩感知理论中，稀疏信号能否重构成功取决于观测矩阵是否满足约束等距特性，文献[11]对约束等距特性给予了详细的介绍，它可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - \\delta _ { s } ) \\big \\| \\pmb { s } \\big \\| _ { 2 } \\leq \\big \\| \\pmb { A } \\pmb { s } \\big \\| _ { 2 } \\leq ( 1 + \\delta _ { s } ) \\big \\| \\pmb { s } \\big \\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 为任意 $K$ 阶稀疏向量，常数。但是式（6）在实际证明过程中很难直接计算，因此式（6）可以同等转换为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - \\delta _ { s } \\leq \\lambda _ { \\operatorname* { m i n } } ( A _ { T } ^ { \\mathrm { H } } A _ { T } ) \\leq \\lambda _ { \\operatorname* { m a x } } ( A _ { T } ^ { \\mathrm { H } } A _ { T } ) \\leq 1 + \\delta _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $T$ 是索引集合，满足 $T \\subset \\{ 1 , 2 , \\cdots N \\}$ 且 $\\left. T \\right. \\leq K \\circ A _ { \\mathrm { T } }$ 是从观测矩阵 $\\textbf { \\em A }$ 中选取索引集合 $T$ 所对应的列而构成的矩阵。$\\lambda _ { \\operatorname* { m a x } } ( A _ { T } ^ { \\mathrm { H } } A _ { T } )$ 与 $\\lambda _ { \\operatorname* { m i n } } ( A _ { T } ^ { \\mathrm { H } } A _ { T } )$ 分别表示矩阵 $\\boldsymbol { A } _ { \\scriptscriptstyle T } ^ { \\mathrm { H } } \\boldsymbol { A } _ { \\scriptscriptstyle T }$ 的最大、最小特征值，由式（7）可知： $\\delta _ { s }$ 越小，观测矩阵的最大、最小特征值越接近于1，观测矩阵的RIP性能越优异，重构性能越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除此之外，文献[12\\~15]指出Donoho等人所提出的相关性判别理论能够比较直观地判别观测矩阵的形态以及性能。它可以简单的表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ( \\overline { { A } } ) = \\sqrt { N } \\bullet \\operatorname* { m a x } \\mid a _ { i , j } \\mid , 1 \\leq i \\leq j \\leq N\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\ { \\overline { { A } } } \\ $ 为观测矩阵 $\\textbf {  { A } }$ 的原始方阵， $\\big | a _ { i , j } \\big |$ 表示方阵 $\\ { \\overline { { A } } }$ 中第 $i$ 行第 $j$ 列元素的幅值。简单的说就是原始方阵的所有元素中最大的幅值定义为该矩阵的相关性， $\\mu ( \\overline { { A } } ) \\in [ 1 , \\sqrt { N } ] \\ , \\ \\mu ( \\overline { { A } } )$ 值越小，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测矩阵的相关性越小，重构性能越优异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 观测矩阵的构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对频域稀疏的信号，再结合本文提出的频谱感知模型，本文利用相关性能优异的标准正交傅里叶基，构造P-Ifourier矩阵作为观测矩阵。P-Ifourier矩阵的构造方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）产生一个傅里叶变换矩阵 $F _ { \\mathrm { { N } } }$ ， $\\pmb { F } _ { N } \\in { C } ^ { N \\times N }$ ， $C ^ { N \\times N }$ 是 $N$ $\\times N$ 维复数域空间。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { N } } = \\left[ { \\begin{array} { c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { W _ { _ { N } } ^ { 1 } } & { W _ { _ { N } } ^ { 2 } } & { \\cdots } & { W _ { _ { N } } ^ { N - 1 } } \\\\ { 1 } & { W _ { _ { N } } ^ { 2 } } & { W _ { _ { N } } ^ { 4 } } & { \\cdots } & { W _ { _ { N } } ^ { 2 ( N - 1 ) } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { W _ { _ { N } } ^ { N - 1 } } & { W _ { _ { N } } ^ { 2 ( N - 1 ) } } & { \\cdots } & { W _ { _ { N } } ^ { 2 ( N - 1 ) ( N - 1 ) } } \\end{array} } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $W _ { N } = e ^ { - j 2 \\pi / N }$ ，矩阵 ${ \\bf F _ { N } }$ 的每一列不是单位向量，因此 ${ \\bf F _ { N } }$ 不是酉矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）将矩阵 $F _ { N }$ 除以一个 $1 / \\sqrt { N }$ 得到傅里叶基 $F _ { \\mathrm { \\bullet } }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { 1 } { \\sqrt { N } } \\left[ \\begin{array} { c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { W _ { N } ^ { 1 } } & { W _ { N } ^ { 2 } } & { \\cdots } & { W _ { N } ^ { N - 1 } } \\\\ { 1 } & { W _ { N } ^ { 2 } } & { W _ { N } ^ { 4 } } & { \\cdots } & { W _ { N } ^ { 2 ( N - 1 ) } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { W _ { N } ^ { N - 1 } } & { W _ { N } ^ { 2 ( N - 1 ) } } & { \\cdots } & { W _ { N } ^ { 2 ( N - 1 ) ( N - 1 ) } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ^ { \\mathrm { H } } F = F F ^ { \\mathrm { H } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { 1 } { N } \\left[ 1 ~ \\begin{array} { c c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { e ^ { \\frac { - 2 \\pi j } { N } } } & { e ^ { \\frac { - 2 + 2 \\pi j } { N } } } & { \\cdots } & { e ^ { \\frac { - ( N - 1 ) + 2 \\pi j } { N } } } \\\\ { 1 } & { e ^ { \\frac { - 2 + 2 \\pi j } { N } } } & { e ^ { \\frac { - 4 + 2 \\pi j } { N } } } & { \\cdots } & { e ^ { \\frac { - 2 ( N - 1 ) + 2 \\pi j } { N } } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { e ^ { \\frac { - ( N - 1 ) + 2 \\pi j } { N } } } & { e ^ { \\frac { - 2 ( N - 1 ) + 2 \\pi j } { N } } } & { \\cdots } & { e ^ { \\frac { - ( N - 1 ) ( N - 1 ) + 2 \\pi j } { N } } } \\end{array} \\right] \\left[ 1 ~ \\begin{array} { c c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { e ^ { \\frac { 2 \\pi j } { N } } } & { e ^ { \\frac { 2 + 2 \\pi j } { N } } } & { \\cdots } & { e ^ { \\frac { ( N - 1 ) + 2 \\pi j } { N } } } \\\\ { 1 } & { e ^ { \\frac { - 2 \\pi j } { N } } } & { e ^ { \\frac { 4 + 2 \\pi j } { N } } } & { \\cdots } & { e ^ { \\frac { 2 ( N - 1 ) + 2 \\pi j } { N } } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { e ^ { \\frac { ( N - 1 ) + 2 \\pi j } { N } } } & { e ^ { \\frac { - ( N - 1 ) ( N - 1 ) + 2 \\pi j } { N } } } \\end{array} \\right] = I \\left[ \\begin{array} { c } { 1 } \\\\ { 1 } \\\\ { 1 } \\\\ { 2 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { { \\cal I } }$ 为 $N { \\times } N$ 维单位矩阵，因此，矩阵 $F$ 是酉矩阵，在酉空间内是标准正交基。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）对傅里叶基 $F$ 求逆得到了逆傅里叶基 $\\pmb { \\varphi }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\varphi = F ^ { + } = \\frac { 1 } { \\sqrt { N } } [ \\begin{array} { c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { ( \\frac { N \\pi } { N _ { x } } ) ^ { \\frac { 3 } { 2 } } } & { ( ( ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ) ^ { \\frac { 3 } { 2 } }  } & { \\cdots } & {  ( ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ) } \\\\ { 1 } & { ( ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ) } & { ( ( \\boldsymbol { W } _ { x } ^ { 3 } ) ^ { \\frac { 3 } { 2 } } ) } & { \\cdots } & {  ( ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ) } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } } & { ( ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ) ^ { \\frac { 3 } { 2 } } } & { \\cdots } & { ( ( \\boldsymbol { W } _ { x } ^ { 3 } ) ^ { \\frac { 3 } { 2 } } ) } \\end{array} ] } & \\\\  = \\frac { 1 } { \\sqrt { N } } [ \\begin{array} { c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & {  e ^ { \\frac { \\frac { \\partial N } { \\partial x ^ { 2 } } t } } } & { ( \\frac { 2 \\boldsymbol { W } _ { x } ^ { 3 } } { 2 \\boldsymbol { W } _ { x } ^ { 2 } } ) } & { \\cdots } & { e ^ { \\frac { \\partial N } { \\partial x ^ { 2 } } t ( \\boldsymbol { W } _ { t } ) } } \\\\ { 1 } & { \\frac { \\partial ^ { \\frac { 3 } { 2 } \\boldsymbol { W } _ { t } } } { \\partial x ^ { \\frac { 3 } { 2 } } } } & { e ^ { \\frac { \\partial N } { \\partial x ^ { 2 } } t } } & { \\cdots } & { e ^ { \\frac { \\partial N } { \\partial x ^ { 2 } } t } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } \\\\ { 1 } &   e ^ { \\frac { \\partial N } { \\partial x ^ { 2 } } t } ) ^ { \\frac { 3 } { 2 } } ( \\boldsymbol { W } _ { x } ^ { 2 } ) ^ { \\frac { 3 } { 2 } } ( \\boldsymbol { W } _ { x } ^ { 3 } ) ^  \\frac  3  \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）对逆傅里叶基 $\\varphi$ 随机选取 $M$ 行向量便构建了P-Ifourier矩阵 $\\mathbf { \\nabla } _ { A }$ 。P-Ifourier 矩阵 $A$ 保持了傅里叶基 $F$ 的标准正交特性，并且 $\\mu ( \\overline { { A } } ) = 1$ ，因此具有理想的非相关性，下面就 $A$ 是否满足RIP 特性进行证明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3观测矩阵的RIP特性证明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设矩阵 $X = A ^ { \\mathrm { H } } A$ ,由2.2节可知",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = A ^ { \\mathrm { H } } A = { \\left\\{ \\begin{array} { l l } { x _ { i j } = 1 } & { ( i = j ) } \\\\ { x _ { i j } = 0 } & { ( i \\neq j ) } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 Gersgorin 圆盘定理，即 $\\lambda \\in \\bigcup _ { i = 1 } ^ { N } D _ { i }$ ， $D _ { i }$ 是复平面上以 $x _ { i i }$ 为圆心，以",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i } = \\sum _ { \\stackrel { j = 1 } { j \\neq i } } ^ { N } \\left| x _ { i j } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为半径的圆盘。可知",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\operatorname* { m i n } } ( A ^ { \\mathrm { H } } A ) \\ { = } \\lambda _ { \\operatorname* { m a x } } ( A ^ { \\mathrm { H } } A ) \\ { = } 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式(7)(15)可以得出，P-Ifourier矩阵 $A$ 不仅满足RIP特性，而且其RIP特性比较理想。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提出的频谱感知模型的可行性，以及所构建的P-Ifourier观测矩阵A的重构性能以及重构精度相比于高斯随机观测矩阵和文献[3]所提出的确定性嵌入式混沌序列-循环 Toeplitz结构的观测矩阵是否有显著改善，本节利用MATLAB仿真软件进行实验分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1模型可行性验证实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选用的时域干扰信号 $x$ 为多音干扰，采样频率512，干扰信号 $x$ 的频域稀疏度 $K { = } 7$ ，稀疏基 $F$ 为标准正交傅里叶基，观测矩阵为本文所构建的P-Ifourier观测矩阵，观测维数 $\\scriptstyle { M = 1 2 8 }$ 恢复算法选择OMP算法，仿真结果如图2\\~4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为待检测的时域多音干扰信号 $x$ ，可以看出， $x$ 在时域上并不具有稀疏特性，因此利用标准正交傅里叶基 $F$ 对 $x$ 进行稀疏表达，图3表示的是P-Ifourier观测矩阵根据 $x$ 的频域稀疏特性而进行压缩采样后的采样波形。根据图2和图3可以看出，采样过程并非是依据信号的带宽而进行的均匀采样，而是根据干扰信号频域的结构特征而进行的非均匀采样，使信号的采样频率降低了 $7 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4为 $x$ 的原始频谱与基于P-Ifourier观测矩阵恢复的频谱对比示意图，由此可以直观地表明本文所构建的P-Ifourier 观测矩阵能够够较为精准的恢复出 $x$ 的频谱。一定程度上验证了本文所提出模型的可行性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b22788e6f53d54bcdbbf37ff412f4a700095dc6c69b034d809ddd66444303568.jpg",
+        "img_caption": [
+            "图2时域多音干扰"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3830e6f71fb7de1fd5a16083076d74788d5844baef9baeef105ccd5d4e57f079.jpg",
+        "img_caption": [
+            "图3信号压缩采样波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/759b7c4c8d2a69b33cc9e760009ade74273cadcf66b79bf78e4d4cdac7913b97.jpg",
+        "img_caption": [
+            "图4恢复的频谱与信号原始频谱的对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 重构性能分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上一小节从比较直观的角度验证了模型的可行性，本小节将对P-Ifourier 观测矩阵的重构性能与高斯随机观测矩阵和文献[3]所提出的确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵进行对比分析，待检测信号带宽 $_ { \\mathrm { N } = 5 1 2 }$ ，稀疏度 $K$ 的变化范围为5\\~70，不考虑噪声影响，观测维数 $\\scriptstyle { M = 1 2 8 }$ ，重构算法选取OMP算法，蒙特卡洛仿真10000次。仿真结果如图5所",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5213228d9bc8dc58b8b9b46f350fdab2cb734d7ba7fb677769069d3cf33db2fa.jpg",
+        "img_caption": [
+            "图5无噪条件下观测矩阵重构概率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5为无噪条件下不同观测矩阵的重构概率对比示意图。由图可知，在无噪条件下，当信号稀疏度 $K$ 小于25时，三种观测矩阵都能以接近 $100 \\%$ 的概率重构原始信号；当稀疏度 $K$ 在25\\~45范围内时，高斯随机观测矩阵和确定性嵌入式混沌序列-循环Toeplitz 结构的观测矩阵的重构概率急剧下降，而 P-Ifourier观测矩阵仍能以接近 $100 \\%$ 的概率重构原始信号；当稀疏度 $K$ 高于50时，高斯随机观测矩阵和确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵已无法重构原始信号，信号失真，而P-Ifourier观测矩阵在 $K { = } 5 0$ 时仍能以 $98 \\%$ 的概率重构信号,之后才缓慢下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而现实生活中的感知环境通常是较低信噪比的环境，接下来进行加噪实验，信噪比为5dB，稀疏度 $K$ 变化范围为5\\~45，其余条件同上，仿真结果如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d932e8dfcafc3b7512e88b24e8886fedc82817c9b950d6dc8ae76761c0306403.jpg",
+        "img_caption": [
+            "图6信噪比为5dB条件下观测矩阵重构概率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6表明在较低信噪比条件下观测矩阵的重构性能均有一定程度的下降。当 $K$ 在5\\~8的范围内时，三种矩阵都能以接近$100 \\%$ 的概率完成信号重构；当 $K$ 在8\\~20范围内时，高斯随机观测矩阵和确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵的重构性能急剧下降，在 $K = 2 0$ 时，确定性嵌入式混沌序列-循环Toeplitz 结构的观测矩阵的重构概率为 $1 9 . 5 \\%$ ，高斯随机观测矩阵的重构概率为 $1 7 . 1 \\%$ ，无法满足重构要求,信号基本失真，而P-Ifourier观测矩阵仍能以 $9 6 . 1 \\%$ 的概率重构信号；当 $K$ 大于20时P-Ifourier观测矩阵的重构性能才缓慢下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 重构精度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次实验的信噪比变化范围为-10\\~-1dB，其余条件与3.1节相同，重构精度的分析指标为均方误差(mean square error,MSE):",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM S E { = } \\frac { \\operatorname { E } \\left\\| \\hat { s } - s \\right\\| _ { 2 } } { \\operatorname { E } \\left\\| s \\right\\| _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真结果如图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/154334bfdfe174bc56e78a9fb69a3d0095d8f31c613ecb8394da2d7d63ec6cdc.jpg",
+        "img_caption": [
+            "图7不同信噪比下观测矩阵的均方误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7给出了各观测矩阵在不同信噪比下的均方误差，由图可知，各个观测矩阵的均方误差随信噪比的增加而降低，P-Ifourier观测矩阵的均方误差曲线明显优于高斯随机观测矩阵和确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵的均方误差曲线，这是由于P-Ifourier观测矩阵的原始方阵在酉空间内是标准正交矩阵，因此具有理想的非相关特性，而其他两种观测矩阵的相关性与前者相比存在一定的不足。经计算，P-Ifourier观测矩阵的均方误差比确定性嵌入式混沌序列-循环Toeplitz结构的观测矩阵平均降低 $3 . 1 \\%$ ，比高斯随机观测矩阵平均降低约$4 . 7 \\%$ 。因此本文构造的P-Ifourier 观测矩阵在重构精度方面相比于其他观测矩阵有较为明显的改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "压缩感知理论应用于传统的频谱感知问题能够有效降低信号的采样频率，但是在重构性能和重构精度方面存在一定的不足。本文利用正交性能和非相关性能理想的标准正交傅里叶基构造观测矩阵，并将该矩阵应用于宽带压缩频谱感知模型中，该矩阵能保持标准正交傅里叶基的相关性能，在重构性能和重构精度方面明显提高，是一种性能优良的频谱感知观测矩阵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Tian Z,Giannakis G B.Compressed sensing for wideband cognitive radios [C]// Proc of IEEE International Conference on Acoustics, Speech and Signal Processing.2007: IV-1357-IV-1360.   \n[2]Tian Z, Tafesse Y, Sadler B M. Cyclic feature detection with sub-Nyquist sampling for wideband spectrum sensing [J]. IEEE Journal of Selected Topics in Signal Processing,2012,6(1): 58-69.   \n[3]李楠，任清华，苏玉泽.TDCS 压缩感知观测矩阵构造方法[J].计算机 工程与设计,2017,1(1):7-11.   \n[4] 王韦刚，杨震，顾彬，等．基于观测矩阵优化的自适应压缩频谱感知 [J].通信学报,2014,35 (08):33-39.   \n[5] 王志文，徐以涛，黄鑫权，等．基于观测矩阵优化的自适应压缩宽带频 谱感知[J].通信技术,2016,49(01):62-67.   \n[6]李树涛，魏丹．压缩传感综述[J]．自动化学报,2009,35(11):1369-1377.   \n[7]任越美，张艳宁，李映．压缩感知及其图像处理应用研究进展与展望 [J]．自动化学报,2014,40(8):1563-1575.   \n[8]Dong J S, Yin JY,Li C F.A gradient-based steering kernel reconstruction strategy for semi-random Fourier measurements in compressed remote sensing [J].Journal of Infrared& Milimeter Waves,2015,34(6): 673-679.   \n[9] 李琪，赵晓晖，等．基于 AOMP 重建的宽带频谱感知算法[J]．吉林大 学学报：信息科学版,2015,2(3):113-119.   \n[10] Madni A M.A systems perspective on compressed sensing and its use in reconstructing sparse networks [J].IEEE Systems Journal,2014,8(1): 23- 27.   \n[11]孟庆微，黄建国，何成兵，等．采用时域测量矩阵的压缩感知稀疏信道 估计方法 [J].西安交通大学学报,2012,46(8):94-99.   \n[12]焦李成，杨淑媛，刘芳，等．压缩感知回顾与展望[J]．电子学报,2011, 39 (7): 1651-1662.   \n[13] Huang T,Liu Y, Meng H et al.Adaptive compressed sensing via minimizing cramer-Rao bound [J]. IEEE Signal Processing Letters,2014,21 (3):270- 274.   \n[14] Huang C C, Wang L C. Dynamic sampling rate adjustment for compressive spectrum sensing over cognitive radio network [J]. IEEE Wireless Communications Letters,2012,1(2): 57-60.   \n[15] Zhang J, Chen L,Boufounos PT, et al. On the theoretical analysis of cross validation in compressive sensing [C]// Proc of IEEE International Conference on Acoustics,Speech and Signal Processing.2014: 3370-3374. ",
+        "page_idx": 4
+    }
+]

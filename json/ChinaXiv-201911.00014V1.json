@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "中巴农产品贸易的效率评价与潜力预测研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "舒芹¹，苏洋，李凤²，汪晶晶，黄玉洁，刘蕾}(1 新疆农业大学经济与贸易学院,新疆乌鲁木齐830000；2 新疆财经大学工商管理学院,新疆乌鲁木齐830000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1992—2016年中国与南亚八国的相关贸易数据，从巴基斯坦的角度出发，选取南亚七国作为参考对象,利用随机前沿引力模型对其双边农产品贸易总额及出口农产品贸易总额的面板数据进行测算。研究结果表明：人均GDP、国家类型等因素对中巴双边农产品贸易发展产生正向影响；人口、距离因素则阻碍中巴农产品贸易发展；中巴双边农产品贸易效率(平均值约0.689)高于中国对巴基斯坦出口农产品贸易效率(平均值约0.615)；中国对巴基斯坦实际农产品出口总额未达到最佳的贸易前沿水平，因此农产品出口还存在较大的提升空间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：中巴经济走廊；贸易效率；贸易潜力；SFA",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "习近平主席于2015年前往巴基斯坦访问，同巴基斯坦高层深入会谈，缔结合作协议，建立两国全天候战略合作伙伴关系，共同推进“中巴经济走廊”建设,两国关系踏入新进程。农业作为“中巴经济走廊\"建设的重要内容，是为两国双边合作提供基础性物质保障的重要合作领域，特别是在世界粮食安全问题日益严峻的形势下，农业合作已成为“一带一路\"沿线各国政府都不可忽视的合作内容。同时，作为非资源领域的合作，农业合作的敏感性较低，不易引起国际及周边大国过高的干扰和影响，相对容易进行较为务实的合作并取得实质性进展。因此，自中巴建交以来，两国经贸往来发展迅速，贸易领域不断拓展，涉及能源、交通、旅游、文化、农业等多个领域，农产品贸易增长迅速。1992—2016年，两国农产品进出口总额稳步增长，年均增长率$14 \\%$ ,增幅达 $2 4 7 6 \\%$ ,成为践行“一带一路”倡议的良好体现。尽管中巴两国都对双边贸易寄予厚望，但从农产品进出口贸易数据来看，两国进出口额的发展趋势却并不符合预期。1992—2016年，巴基斯坦对中国农产品出口年均增长 $2 3 . 8 9 \\%$ ;而中国对巴基斯坦出口额增长呈下降趋势，年均下降 $2 \\%$ 。那么，两国农产品贸易是否已达最佳前沿面？贸易潜力是否还有提升的空间？回答这些问题，对于中巴双边农产品贸易合作的良好持续发展具有重要指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，学者们关于中巴农产品贸易合作的讨论逐渐增多，主要集中在两方面：一是对贸易效率评价及潜力预测的研究。屠年松[1 对中国与东盟国家进出口贸易与潜力的分析采用随机前沿引力模型，察觉造成两国实际贸易水平和潜力出现差距的关键因素是贸易非效率项。曹安使用相同的方法对中国同“一带一路”沿线国家农产品的出口贸易效率及贸易潜力进行测算，提出促进中国农产品出口的对策建议。二是关于中巴两国贸易的研究。高志刚[3]运用随机前沿引力模型对中巴经济走廊建设中的双边贸易进行研究，认为在未来巴基斯坦重要的出口对象国将会是中国，我国的贸易地位会有所改变。张红星[4]通过对《中巴自由贸易协定》的研究，提出进一步完善协定内容，改善经贸合作，从而促进“一带一路”的建设。程云洁[5通过对中巴贸易发展分析发现一系列制约中巴贸易发展的因素，并提出我们应扩大从巴基斯坦进口规模，促进中巴贸易平衡发展等建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，有关农产品贸易效率及贸易潜力方面的研究主要采用引力模型、回归分析等方法，也有部分学者尝试采用随机前沿的引力模型进行测算。而有关中巴两国贸易方面的研究主要以实证定量研究为主，涉及两国农产品贸易效率及潜力预测的定量研究较少。鉴于此，本文拟在前人研究基础上，重点就中巴两国农产品贸易效率及贸易潜力问题进行深入探究，以期为两国进一步深化农业合作和互联互通提供客观依据和重要借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1方法选择与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 随机前沿引力模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贸易规模可作为国家间人口、距离以及经济等变量的函数。在既定条件下，各国所期望的结果是双边贸易达到成本最小而贸易量最大，这些在本质上都与企业生产函数相似。因此，我们可以利用随机前沿模型来分析双边贸易的最佳前沿水平，其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L n } T _ { i j t } = \\mathrm { L n } f ( X _ { i j t } , \\alpha ) + v _ { i j t } - \\mu _ { i j t } , \\quad \\mu _ { i j t } \\geqslant 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { \\it { i j t } }$ 表示 $\\mathbf { \\chi } _ { t }$ 时期 $\\mathbf { \\chi } _ { i }$ 国对 $j$ 国的出口额或贸易总额； $X _ { i j t }$ 代表引力模型中的核心变量，如国内生产总值、距离、人口等; $v _ { i j t }$ 表示随机测量误差或随机性因素： $\\cdot \\mu _ { i j t }$ 是贸易非效率项;贸易潜力相当于随机前沿分析中的最优前沿水平，贸易效率则相当于技术效率的估计值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引力模型的两大核心要素是经济规模与距离，本文借鉴前人的研究方法，构建随机前沿引力模型，并对其进行拓展，如增加了语言、国家类型等变量，从双边与出口两方面分析研究农产品贸易效率及贸易潜力，具体表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { L n } E X P _ { i j t } = \\alpha _ { 0 } + \\alpha _ { 1 } \\mathrm { L n } P G D P _ { i } + \\alpha _ { 2 } \\mathrm { L n } P G D P _ { j } + \\alpha _ { 3 } \\mathrm { L n } P _ { i } \\ + } \\\\ { \\alpha _ { 4 } \\mathrm { L n } P _ { j } \\ + \\ \\alpha _ { 5 } \\mathrm { L n } D _ { i j } \\ + \\ \\alpha _ { 6 } B _ { i j } \\ + \\ \\alpha _ { 7 } F T A _ { i j } \\ + } \\\\ { \\alpha _ { 8 } L A N G _ { i j } + \\alpha _ { 9 } L A N D _ { i j } + v _ { i j } - \\mu _ { i j } \\qquad ( 2 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L n } T _ { i j t } = \\alpha _ { 0 } + \\alpha _ { 1 } \\mathrm { L n } P G D P _ { i } + \\alpha _ { 2 } \\mathrm { L n } P G D P _ { j } + \\alpha _ { 3 } \\mathrm { L n } P _ { i } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { 4 } \\mathrm { L n } P _ { j } ~ + ~ \\alpha _ { 5 } \\mathrm { L n } D _ { i j } ~ + ~ \\alpha _ { 6 } B _ { i j } ~ + ~ \\alpha _ { 7 } F T A _ { i j } ~ + ~ \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { 8 } L A N G _ { i j } + \\alpha _ { 9 } L A N D _ { i j } + v _ { i j } - \\mu _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mu$ 遵守截尾正态分布； $E X P _ { i j t } \\setminus T _ { i j t }$ 代表农产品出口额以及农产品贸易总额; $P G D P _ { i t } \\setminus P G D P _ { j t }$ 代表出口国与进口国的国民生产总值，表明消费程度与经济变化水平； $P _ { { i t } } \\setminus P _ { { j t } }$ 分别表示出口国和进口国的人口总数，代表国内市场规模; $D _ { _ { i j } }$ 代表地理距离，反映运输成本； $B _ { i j }$ 代表是否拥有共同边界，1表示两国接壤、2表示未接壤； $F T A _ { i j }$ 代表是否拥有已经生效的自贸协定，1表示已生效、2表示没有自贸协定； $L A N G _ { i j }$ 代表是否拥有共同语言，1表示有、2表示没有； $L A N D _ { i j }$ 代表是否为内陆国家，1代表沿海国家，2代表内陆国家。若两国拥有共同语言、共同边界或已签署自由贸易协定，则有利于双边贸易的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究对象选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巴基斯坦是最早承认我国的国家之一，两国于1951年建立了外交关系，几十年来一直保持着友好往来的关系，世界形势在20世纪90年代以来发生巨变，但中国与巴基斯坦友好合作的关系却经受住了时间的考验，没有被国际风云变幻所影响,继续向前发展,基于此本文的样本时间跨度为1992—2016年。中国与南亚各国历来友好交往，茶马古道和古丝绸之路便承载了其经贸、文化以及情感交流的辉煌历史。南亚因其独特的地理位置，成为了推进“一带一路”建设的重要合作伙伴。推进“一带一路\"建设将有助于促进南亚与中国的经济、人文交流以及南亚地区的经济发展与基础设施建设。在其引导下，中国与马尔代夫、印度、斯里兰卡等国的一批重大合作项目正积极向前推进，强化南亚区域合作的同时，也推动了相关国家经济的增长。此外，“一带一路”的重要项目尤其是“中巴经济走廊”建设的实施，成为了中巴贸易往来的枢纽。巴基斯坦东接印度、西邻伊朗，南近阿拉伯半岛，东北、西北分别与我国和阿富汗相邻,地理位置极为关键。因此本文从巴基斯坦的角度出发，选取南亚七国作为参考对象①，通过双边农产品贸易总额及出口农产品贸易总额的面板数据进行回归测算，重点探究中巴农产品贸易效率并对贸易潜力进行预测，样本共有200个观测值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文运用Frontier4.1软件进行回归分析，相关分析变量的解释说明及数据来源详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e862545ec5f3daacd6fa33fb42f3e529d5fc97055614c1bc38e6e8d42c1056a.jpg",
+        "table_caption": [
+            "Tab.1Explanatory variable explanation of gravitational model "
+        ],
+        "table_footnote": [
+            "注：“ $^ +$ ”表示正相关，“-”表示负相关"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>变量说明</td><td>预期 符号</td><td>理论分析</td><td>数据来源</td></tr><tr><td>LnTij</td><td>中国与巴基斯坦双边农产品贸易 总额/104美元</td><td></td><td>农产品贸易总额增加说明中国对巴基斯坦农产品贸易前景 看好。</td><td>UN Comtrade</td></tr><tr><td>LnPGDPit</td><td>中国国内生产总值/104美元</td><td></td><td>中国的经济水平发展越高，则经济总量越大,反映了潜在的 贸易需求。</td><td>世界银行</td></tr><tr><td>LnPGDPjt</td><td>巴基斯坦国内生产总值/104美元</td><td></td><td>巴基斯坦的经济发展水平越高，则经济总量越大,与双边贸 易总额正相关。</td><td>世界银行</td></tr><tr><td>LnPit</td><td>中国人口总数/104人</td><td>+ （-）</td><td>中国人口的上升将提升供给能力，与贸易额成正相关;人口 的上升使得消费需求增高并带动当地市场扩大，引起国内 分工深化，致使我国对外贸易机会相对减少，贸易额减少。</td><td>世界银行</td></tr><tr><td>LnPjt</td><td>巴基斯坦人口总数/104人</td><td>(-)</td><td>巴基斯坦人口上升使得国民购买力增长，这将引起巴基斯 坦国内需求加大,需求能力的提升使进口量增加,与贸易额 成正相关;巴基斯坦人口增加导致国内生产代替国外产品， 减少贸易机会，与贸易额变化成反比。</td><td>世界银行</td></tr><tr><td>LnDi</td><td>两国之间的距离/km</td><td></td><td>运输成本的大小是阻碍双边贸易的主要因素，距离越远，国 际贸易成本越高。</td><td>世界地图</td></tr><tr><td>LnBi</td><td>共同边界</td><td></td><td>贸易双方拥有共同边界运输成本较低,将降低贸易成本，促 进双边贸易流量增加。</td><td>世界地图</td></tr><tr><td>LnLANGij</td><td>共同语言</td><td></td><td>贸易双方拥有共同语言，将会促进贸易的发展,减少贸易障</td><td>CEPII网站</td></tr><tr><td>LnLANDij</td><td>国家类型</td><td></td><td>碍。 海陆兼有的国家,将为我国的出口贸易提供较大的便利。</td><td>世界地图</td></tr><tr><td>LnFTAij</td><td>自由贸易协定</td><td></td><td>两国区域合作加强，并签订实施自由贸易区协定，改善两国 的贸易环境,推动两国贸易发展，最终使得两国贸易流量增 加。</td><td>http://fta.mofcom. gov. cn/</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2模型检验与结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 模型适用性检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为检验模型是否存在贸易非效率项以及是否随时间变化，本文运用 $L R$ 统计量对模型进行适用性检验。检验方法：分别在零假设 $\\mathrm { H } _ { \\mathrm { 0 } } : \\gamma = \\mu = \\eta = 0$ 以及 $H _ { 0 } : \\eta = 0$ 条件下，遵循有、无约束两种情形时的对数似然值计算 $L R$ 统计量，并且同 $1 \\%$ 显著性水平下 $\\chi ^ { 2 }$ 分布的临界值对比,得出对应结论。表2的检验结果显示， $1 \\%$ 临界值均小于 $L R$ 统计量，两个模型都拒绝原假设，这表示模型中有贸易非效率项同时随时间而变化。所以，本论文采用随机前沿引力模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于随机前沿引力模型的函数式（3），运用Frontier4.1软件，从巴基斯坦的角度出发，选取南亚七国作为参考对象，对其双边农产品贸易总额及出口农产品贸易总额的面板数据进行回归测算。结果如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进出口模型与出口模型中 $\\gamma$ 值显著不为0，贸易非效率项对贸易效率的影响占比分别达到99. $9 \\%$ 和 $9 9 . 6 \\%$ ，证明尽管实际贸易量同前沿贸易量存在差别，但差别非常小。并且进出口模型稍大于出口模型，表明我国双边贸易阻力大于出口贸易阻力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GDP反映了一国的经济容量和潜在的贸易需求，两个模型中人均GDP变量的显著性有所差异，",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ca51d52d9f594a8c3106238459cff15db39a7e267e22f1cd116495671e73ad5.jpg",
+        "table_caption": [
+            "表1引力模型解释变量说明",
+            "表2模型适用性检验结果",
+            "Tab.2Model applicability test results "
+        ],
+        "table_footnote": [
+            "注：数据通过整理回归结果得出; $\\begin{array} { r } { L R = 2 ( \\mathrm { L n } H _ { 1 } - \\mathrm { L n } H _ { 2 } } \\end{array}$ )，自由度为约束检验量的个数"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>零假设H0</td><td>无约束条件下 LnH</td><td>有约束条件下LnH2</td><td>LR统计量</td><td>自由度</td><td>1%的临界值</td><td>结论</td></tr><tr><td rowspan=\"2\">进出口模型</td><td>γ=μ=n=0</td><td>41. 575</td><td>2.364</td><td>78.421</td><td>7</td><td>3.499</td><td>拒绝</td></tr><tr><td>n=0</td><td>43.203</td><td>2.364</td><td>81.678</td><td>6</td><td>3.707</td><td>拒绝</td></tr><tr><td rowspan=\"2\">出口模型</td><td>γ=μ=n=0</td><td>42. 171</td><td>2. 647</td><td>79.047</td><td>6</td><td>3.707</td><td>拒绝</td></tr><tr><td>n=0</td><td>42. 171</td><td>2.647</td><td>79.047</td><td>6</td><td>3.707</td><td>拒绝</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3随机前沿引力模型估算结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/019a2f204306986f39d867ab334ba85c05ec264a49a3913d9e73be7d1ddf13f9.jpg",
+        "table_caption": [
+            "Tab.3Estimation results of stochastic frontier gravity model "
+        ],
+        "table_footnote": [
+            "注：表3由Frontier4.1软件测算整理得出； $* * *$ 代表在 $1 \\%$ 的显著水平， $\\ast \\ast ^ { }$ 代表在 $5 \\%$ 的显著水平， $*$ 代表在 $10 \\%$ 的显著水平; $L R$ 服从 $\\chi ^ { 2 }$ 分布"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"2\">进出口模型</td><td colspan=\"2\">出口模型</td></tr><tr><td>系数</td><td>T统计量</td><td>系数</td><td>T统计量</td></tr><tr><td>LnTijt</td><td>123.361</td><td>126.102</td><td>77.139</td><td>74.153</td></tr><tr><td>LnPGDPit</td><td>1.099</td><td>9.571</td><td>0.975</td><td>5.484</td></tr><tr><td>LnPGDPjt</td><td>0.949</td><td>8.842</td><td>0.483</td><td>2.331**</td></tr><tr><td>LnPit</td><td>-27.372</td><td>-87.942</td><td>-17.375</td><td>-41.313</td></tr><tr><td>LnPj</td><td>0.134</td><td>1.547 *</td><td>0.324</td><td>2.020**</td></tr><tr><td>LnDi</td><td>-16.735</td><td>-3.277 ***</td><td>-11.609</td><td>-4.087</td></tr><tr><td>LnBi</td><td>-27.052</td><td>-3.427 ***</td><td>-39.135</td><td>-3.985</td></tr><tr><td>LnLAND j</td><td>51.160</td><td>3.139 ***</td><td>59.939</td><td>3.769</td></tr><tr><td>LnLANGij</td><td>4.033</td><td>2.448 ***</td><td>4.473</td><td>2.829 ***</td></tr><tr><td>LlnFTAij</td><td>12. 071</td><td>2.857 ***</td><td>3.046</td><td>2.26 **</td></tr><tr><td>g²</td><td>41. 575</td><td>3.957</td><td>42. 171</td><td>5.013</td></tr><tr><td>Y</td><td>0.999</td><td>2 498.369</td><td>0.996</td><td>1 438.085</td></tr><tr><td>对数似然数</td><td>-243.039</td><td></td><td>-289.443</td><td></td></tr><tr><td>LR统计量</td><td></td><td>248.500</td><td></td><td>178.342</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "出口国的GDP越高，两国之间的农产品贸易流量越大。结果表明，我国人均GDP弹性均大于贸易对象国，说明中国的经济规模对双边农产品贸易影响较大;通过检验发现，中国人口系数均为负值，说明中国庞大的人口规模将构成宏大的国内市场，导致这一现象的原因可能是人口红利对外贸易的促进效应慢慢减少，此时国内市场的扩大源于政府拉动内需政策，导致进出口贸易的减少，因此与贸易额呈反比关系，然而贸易国人口系数均为正，表明其人口越多，越有利于两国间贸易发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "距离变量皆为负，表明距离每增加 $1 \\%$ ，双边贸易总额将降低 $1 6 . 7 4 \\%$ ，而出口贸易总额将下降$1 1 . 6 1 \\%$ 。因此，实证结果表明贸易运输成本的多少与距离的远近有着十分密切的关系，同时运输成本又是影响国际贸易利润空间的关键因素，所以两国距离越远，运输成本越高，则贸易成本越高；共同边界在两个模型中均显示为负，与假设理论不符，中国虽与巴基斯坦接壤，但接壤之处受高山峻岭的阻碍，导致了“有边界无通道”的现象；国家类型在两个模型中均显示为正，由于中国与巴基斯坦皆为海陆兼有的国家，因为农产品的特殊性使得运输速度成为两国贸易的一个关键因素，因此相对于内陆国家而言，海运为两国农产品贸易提供了极大的便利；语言变量在两个模型中均显示为正值，中巴双方使用国际贸易常见通用语为“英语”，共同语言加快两国贸易的发展，贸易障碍相对减少；自由贸易协定变量在两个模型中均显示为正值，中国与巴基斯坦已签署自由贸易协定，因此在一定程度上减少了两国贸易壁垒，降低贸易非效率因素，对双边贸易流量产生促进作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1中巴农产品贸易效率分析根据模型估算结果得出，1992—2016年中巴双边农产品贸易效率(平均值约0.689)高于中国对巴基斯坦出口农产品贸易效率（平均值约0.615）。从表4可以发现，中巴双边农产品贸易效率较高，则意味着双边潜力较弱，作为中国进出口市场，巴基斯坦的贸易市场日趋饱和，中国长期处于顺差的局势亟待改善。而中国对巴基斯坦出口农产品贸易效率值基本处于下降趋势，表明双方贸易潜力提升空间较大。2006年之后，两国签署自由贸易协定之后，农产品贸易效率均有所回升，这促使两国深入的开放农产品贸易市场，改善投资环境，共同应对世界金融危机，提高国际竞争力，推动经济共同发展；2015年“中巴经济走廊”建设的实施，使两国加快实现全方位的互联互通、多元化的互利共赢，从而促进了贸易效率的提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2中巴农产品贸易潜力测算据中巴农产品贸易潜力测算结果显示（表5），自1992—2016年以来，中国对巴基斯坦实际农产品出口总额远未达到最佳的贸易前沿水平，因此出口农产品贸易潜力仍",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4中巴双边农产品贸易效率及出口农产品贸易效率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9cb176949ff63f38ae2192c84e80157343eed20f408e24bbbf5c7361d6dacbab.jpg",
+        "table_caption": [
+            "Tab.4Bilateral trade efficiency of agricultural products and trade efficiency of export agricultural products "
+        ],
+        "table_footnote": [
+            "注：表4根据回归结果整理所得 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">between Chinaand Pakistan</td></tr><tr><td>年份</td><td>双边农 产品贸 易效率</td><td>年份</td><td>双边农 产品贸 易效率</td><td>年份</td><td>出口农 产品贸 易效率</td><td>出口农 年份 产品贸 易效率</td></tr><tr><td>1992</td><td>0.249</td><td>2005</td><td>0.524</td><td>1992 0.427</td><td>2005</td><td>0.581</td></tr><tr><td>1993</td><td>0.903</td><td>2006</td><td>0.387</td><td>1993 0.857</td><td>2006</td><td>0.29</td></tr><tr><td>1994</td><td>0.941</td><td>2007</td><td>0.647</td><td>1994 0.879</td><td>2007</td><td>0.692</td></tr><tr><td>1995</td><td>0.769</td><td>2008</td><td>0.487</td><td>1995 0.795</td><td>2008</td><td>0.506</td></tr><tr><td>1996</td><td>0.644</td><td>2009</td><td>0.494</td><td>1996 0.744</td><td>2009</td><td>0.502</td></tr><tr><td>1997</td><td>0.767</td><td>2010</td><td>0.519</td><td>1997 0.785</td><td>2010</td><td>0.413</td></tr><tr><td>1998</td><td>0.942</td><td>2011</td><td>0.452</td><td>1998 0.869</td><td>2011</td><td>0.346</td></tr><tr><td>1999</td><td>0.942</td><td>2012</td><td>0.753</td><td>1999 0.865</td><td>2012</td><td>0.457</td></tr><tr><td>2000</td><td>0.709</td><td>2013</td><td>0.772</td><td>2000 0.722</td><td>2013</td><td>0.672</td></tr><tr><td>2001</td><td>0.63</td><td>2014</td><td>0.748</td><td>2001 0.666</td><td>2014</td><td>0.578</td></tr><tr><td>2002</td><td>0.782</td><td>2015</td><td>0.703</td><td>2002</td><td>0.76 2015</td><td>0.177</td></tr><tr><td>2003</td><td>0.899</td><td>2016</td><td>0.715</td><td>2003</td><td>0.823 2016</td><td>0.189</td></tr><tr><td>2004</td><td>0.842</td><td></td><td></td><td>2004</td><td>0.791</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/334a09449ea1f799e9690040dab9fc7952d51bb5850e6953f468a91c52c29e1a.jpg",
+        "table_caption": [
+            "表5中巴双边农产品贸易潜力及出口农产品贸易潜力估计",
+            "Tab.5Potential trade potential of bilateral agricultural products and trade potential of export agricultural products between China and Pakistan "
+        ],
+        "table_footnote": [
+            "注：贸易潜力(最优贸易前沿) $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 实际贸易额/贸易效率比值;贸易提升空间 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (贸易潜力/实际贸易额-1) $\\times 1 0 0 \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>农产品实际进出 口额／104USD</td><td>双边农产品贸易 潜力／104USD</td><td>双边农产品贸易 提升空间／%</td><td>农产品实际出口 额／104USD</td><td>出口农产品贸易 潜力／104USD</td><td>出口农产品贸易 提升空间／%</td></tr><tr><td>1992</td><td>1 528.9</td><td>61 520 755.1</td><td>302.38</td><td>1 302.7</td><td>305 43 528.047</td><td>134.45</td></tr><tr><td>1993</td><td>41 285.0</td><td>457 387 754.2</td><td>10.79</td><td>41 071.0</td><td>479 420 390.652</td><td>16.73</td></tr><tr><td>1994</td><td>74 832.1</td><td>794 869 612.1</td><td>6.22</td><td>74 475.1</td><td>847 425 888.884</td><td>13.79</td></tr><tr><td>1995</td><td>20 366.8</td><td>264 744 293.0</td><td>29.99</td><td>18 761.5</td><td>235 968 544.269</td><td>25.77</td></tr><tr><td>1996</td><td>11 864.6</td><td>184 139 384.7</td><td>55.20</td><td>11 007.9</td><td>147 917 926.482</td><td>34.37</td></tr><tr><td>1997</td><td>16 052.1</td><td>209 198 533.6</td><td>30.32</td><td>15 565.6</td><td>198 365 720.688</td><td>27.44</td></tr><tr><td>1998</td><td>58 583.4</td><td>622 038 638.9</td><td>6.18</td><td>57 494.3</td><td>661 768 973.715</td><td>15.10</td></tr><tr><td>1999</td><td>50 939.6</td><td>540 834 159.3</td><td>6.17</td><td>48 500.2</td><td>560 954 660.992</td><td>15.66</td></tr><tr><td>2000</td><td>9 863.2</td><td>139 163 381.1</td><td>41.09</td><td>7 665.5</td><td>106 099 358.052</td><td>38.41</td></tr><tr><td>2001</td><td>6 668.9</td><td>105 812 451.0</td><td>58.66</td><td>4 880.1</td><td>732 48 232.384</td><td>50.10</td></tr><tr><td>2002</td><td>11 162.0</td><td>142 686 698.5</td><td>27.83</td><td>10 318.8</td><td>135 834 591.954</td><td>31.64</td></tr><tr><td>2003</td><td>25 700.3</td><td>285 970 743.4</td><td>11.27</td><td>24 293.7</td><td>295 346 037.584</td><td>21.57</td></tr><tr><td>2004</td><td>19 943.6</td><td>236 770 321.0</td><td>18.72</td><td>18 290.0</td><td>231 245 393.970</td><td>26.43</td></tr><tr><td>2005</td><td>6 039.1</td><td>115 155 814.0</td><td>90.68</td><td>3 958.7</td><td>68 099 074.507</td><td>72.03</td></tr><tr><td>2006</td><td>3 939.9</td><td>101 678 145.2</td><td>158.07</td><td>783.3</td><td>26 990 950.439</td><td>244.60</td></tr><tr><td>2007</td><td>16 440.7</td><td>254 292 173.5</td><td>54.67</td><td>12 351.6</td><td>178 396 557.578</td><td>44.43</td></tr><tr><td>2008</td><td>10 903.7</td><td>224 037 503.7</td><td>105.47</td><td>4 860.6</td><td>96 004 568.068</td><td>97.52</td></tr><tr><td>2009</td><td>11 013.4</td><td>222 857 082.3</td><td>102.35</td><td>4 847.5</td><td>96 490 680.677</td><td>99.05</td></tr><tr><td>2010</td><td>13 878.3</td><td>267 292 499.0</td><td>92.60</td><td>3 263.9</td><td>78 963 704.968</td><td>141.93</td></tr><tr><td>2011</td><td>13 424.2</td><td>296 868 713.6</td><td>121. 14</td><td>2 654.7</td><td>76 649 471.601</td><td>188.74</td></tr><tr><td>2012</td><td>48 417.0</td><td>643 164 402.6</td><td>32.84</td><td>5 635.9</td><td>123 322 682.490</td><td>118.82</td></tr><tr><td>2013</td><td>53 612.6</td><td>694 521 260.7</td><td>29.54</td><td>21 431.3</td><td>319 087 934.273</td><td>48.89</td></tr><tr><td>2014</td><td>49 019.7</td><td>655 471 622.8</td><td>33.72</td><td>12 140.9</td><td>210 186 715.766</td><td>73.12</td></tr><tr><td>2015</td><td>42 208.9</td><td>600 535 692.3</td><td>42.28</td><td>653.7</td><td>36 981 891.161</td><td>465.75</td></tr><tr><td>2016</td><td>39 382.8</td><td>550 646 965.7</td><td>39.82</td><td>716.0</td><td>37 797 704.232</td><td>427.88</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有较大的提升空间，相比之下中巴双边农产品贸易潜力提升空间则较小。从这两个层面来看，二者差异较大,2016年中国对巴基斯坦出口农产品贸易潜力提升空间高达 $4 2 7 . 8 8 \\%$ ，而中巴双边农产品贸易潜力提升空间只有 $3 9 . 8 2 \\%$ ,中巴双边农产品贸易潜力远低于中国对巴基斯坦的出口农产品贸易潜力，因此农产品出口还存在较大的提升空间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近几年，两国经贸合作取得长足进步、“中巴经济走廊\"建设的实施效果显著，使得双方农产品贸易潜力提升空间较大。目前中国已是巴基斯坦重要的进出口市场，但在贸易规模方面，巴基斯坦处于贸易逆差，我国则长时间处于贸易顺差，这将导致中巴贸易规模产生不平衡，贸易往来将受到一定影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3主要结论与对策建议",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关贸易数据，从巴基斯坦的角度出发，选取南亚七国作为参考对象，利用随机前沿引力模型对其双边农产品贸易总额及出口农产品贸易总额的面板数据进行测算。测算数据显示：人均GDP、自由贸易协定等四种因素推动中巴农产品贸易正向发展；人口、距离以及共同边界则对中巴农产品贸易发展产生阻碍；利用随机前沿引力模型对中巴两国25a间的贸易效率进行测算，在经过对比分析后发现，中巴双边农产品贸易效率越高，贸易潜力越小，而中国对巴基斯坦出口农产品贸易效率值较低,则贸易潜力越高；通过已估计的时变随机前沿引力方程，代入各变量原始数据，得出拓展的贸易潜力。结果表明，中巴双边农产品贸易潜力提升空间较小，而中国对巴基斯坦实际农产品出口总额未达到最佳的贸易前沿水平，因此农产品出口贸易潜力还存在较大的提升空间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 对策建议",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 主要结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于1992—2016年中国与南亚八国的相",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1降低农产品贸易非效率因素，充分挖掘贸易潜力目前,中国是巴基斯坦农产品贸易的重要出口国之一。随着两国互通海关数据，有力的打击了低报出口，防治偷税漏税等现象的发生。两国长期友好的政治往来已经形成了一定的人文基础，应继续培育精通双方语言、习俗及经贸律法的人才，对巴基斯坦相关人员进行农业技术培训，减少影响中巴双边农产品贸易的非效率因素，挖掘农产品贸易潜力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2调整农产品贸易结构，扩大中国对巴基斯坦出 $o$ 的比重与规模两国受经济因素的影响，在贸易地位上存在严重的不对称性，阻碍了两国农产品贸易的发展。因此，我国应及时调整农产品贸易结构。从上文的实证分析可以看出，中国对巴基斯坦出口农产品贸易潜力较大，但是中巴两国双边农产品贸易潜力弱化的趋势较为明显。因此中巴双方应基于互补性的优势，加大我国出口力稍弱的农产品的竞争优势，实现多元化农产品出口，促进双方共赢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3依托瓜达尔港开航与喀什经济特区，加快实现双边贸易一体化第一，借助瓜达尔港通航，以节省海上运输成本，减少安全隐患，并有效缓解和破除西方国家对中国的战略围堵，降低中国对马六甲海峡的依赖度，深刻影响亚洲的经贸战略格局。第二，喀什应充分挖掘利用好已有的政策优势，积极争取自由贸易试验区的有关政策，打造符合本地实际的新型开发开放政策体系，形成全方位的对外开放格局，发挥独特的区位优势，加快中巴双方物流等基础设施建设，以及航空运输体系建设，全面打开两国交通通道，节约运输成本，提升运输效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］屠年松,李彦.中国与东盟国家双边贸易效率及潜力研究- 基于随机前沿引力模型[J].云南社会科学，2016，（5)：84-89. [TU Niansong,LI Yan.A study of bilateral trade eficiency and po tential of China and ASEAN countries:Based on stochastic frontier gravity model[J].Social Sciences in Yunnan,2016,(5）:84-89.]   \n[2]曹安,汪晶晶,黄如梦.中国与“一带一路\"沿线国家农产品出 口贸易效率及潜力测算[J].统计与决策，2018，34（10)：113- 117.[CAO An,WANG Jingjing,HUANG Rumeng.Estimation on the efficiency and potential of China agricultural products export trade along“The Belt and Road Initiative\"[J].Statistics& Decision,2018,34(10):113-117.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]高志刚，张燕.中巴经济走廊建设中双边贸易潜力及效率研 究—基于随机前沿引力模型分析［J].财经科学，2015， (11）:101-11O.[GAO Zhigang,ZHANG Yan.A study of bilateral trade potential and eficiency in the construction of China-Pakistan economic corridor:Based on stochastic frontier gravity model ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[J].Finance & Economics,2015,（11）:101-110.]   \n[4］张红星,何颖.“一带一路\"战略下中巴自由贸易协定研究[J]. 国际经济合作,2016,（9）:84-89.[ZHANG Hongxing,HE Ying.Study on China Pakistan free trade agreement under the strategy of“The Belt and Road Initiative”[J].Journal of International Economic Cooperation,2016,（9）:84-89.]   \n[5］程云洁.“中巴经济走廊\"背景下提升中巴贸易发展问题研究 [J].南亚研究季刊,2015,（2）:94-101,6.[CHENG Yunjie. Sino-Pak economic corridor and bilateral trade development[J]. South Asian Studies Quarterly,2015,(2）:94-101,6.]   \n[6]赵捷,刘宁.中巴经济走廊贯通对中国进出口贸易的影响- 基于沿线国家产业层面数据的反事实模拟[J].世界经济研 究,2017（3）:123-133,136.[ZHAO Jie,LIU Ning.Effect of China-Pakistan economic corridor on Chinese trade：An counter factual analysis based on Industry-Level data from one road countries[J].World Economy Studies,2017(3）:123-133,136.]   \n[7］李金叶,谷明娜.中国与“一带一路\"沿线国家农产品贸易规 模、结构及发展潜力研究［J].干旱区地理,2018,41（5）： 1097-1105.[LI Jinye,GU Mingna.Agricultural trade scale, structure and potential between China and the countries participating in the“Belt and Road Initiative”[J].Arid Land Geography, 2018,41(5) :1097 -1105.]   \n[8］鲁晓东,赵奇伟.中国的出口潜力及其影响因素- -基于随机 前沿引力模型的估计[J].数量经济技术经济研究,2010, （10）:21-35.[LU Xiaodong,ZHAO Qiwei. China’s export potential and determinants[J].The Journal of Quantitative & Technical Economics,2010,（10）:21-35.]   \n[9］谭秀杰,周茂荣.21世纪\"海上丝绸之路\"贸易潜力及其影响 因素——基于随机前沿引力模型的实证研究[J].国际贸易问 题,2015,（2）:3-12.[TAN Xiujie,ZHOU Maorong. Export potential of $2 1 ^ { \\mathrm { s t } }$ -century Maritime Silk Road and its determinants:An empirical research based on stochastic frontier gravity model[J]. Journal of International Trade,2015,(2）:3-12.]   \n[10］张燕,高志刚.基于随机前沿引力模型的中澳双边贸易效率及 潜力研究[J].国际经贸探索,2015,31（12）:20-30.[ZHANG Yan,GAO Zhigang.A studyof bilateral trade potential and eficiency based on stochastic frontier gravity model[J]. International Economics and Trade Research,2015,31(12）:20 -30.]   \n[11］程广斌,刘伟青.中国对\"一带一路\"沿线国家制造业出口效率 分析——基于随机前沿引力模型[J].华东经济管理,2018,32 (5）:40 -48.[CHENG Guangbin,LIU Weiqing.An analysis of China’s manufacturing export efficiency to the countries along the Beltand Road initiative; Based on the stochastic frontier gravity model[J].East China Economic Management,2018,32(5）:40 - 48.]   \n[12］赵珊珊,李红,唐洪松.“丝绸之路经济带\"沿线国家物流水平 对新疆国际贸易的影响研究［J].干旱区地理,2017,40（4）： 897 -905.[ZHAO Shanshan,LI Hong,TANG Hongsong.Influence of logistics level of the countries along the“Silk Road Economic Belt”to the national tradeof Xinjiang[J].AridLand Geography,2017,40(4) :897-905.   \n[13］谢娟娟,岳静.贸易便利化对中国一东盟贸易影响的实证分析 [J].世界经济研究,2011,（8）:81-86.[XIE Juanjuan,YUE Jing.Trade facilitation empirical analysis of the impact of Chinaasean trade[J]. Journal of Research of the World Economy,2011, (8):81-86.]   \n[14］胡颖.利用CAREC机制促进“一带一路”贸易便利化建设 [J].国际经济合作,2016,（4）:39-43.[HUYing.UseCAREC mechanism to facilitate trade facilitationof“One Belt,One Road\" [J].International Economic Cooperation,2016,（4）:39-43.]   \n[15］陈军.基于贸易引力模型的上海合作组织成员国贸易流量影 响因素比较研究[J].华东经济管理，2011，25（2）：66-69. [CHEN Jun.Comparative study on influential factors of trade flows in Shanghai cooperation organization membership based on trade gravity model[J].East China Economic Management,2011,25 (2):66-69.]   \n[16］陈琳，谢学臻，刘琳.中国出口的贸易效率与贸易潜力 1980—2015[J].国际经贸探索,2018,34（1）：33-50.[CHEN Lin,XIE Xuezhen,LIU Lin. Trade efficiency and trade potential in China:1980—2015［J]. International Economics and Trade Research,2018,34(1):33-50.]   \n[17］王喜莎,李金叶.中国与上海合作组织成员国区域贸易合作治 理研究——兼论丝绸之路经济带背景下自由贸易区建设[J]. 干旱区地理,2018,41（1）:205-214.[WANG Xisha,LI Jinye. Regional trade cooperation governance between China and Shanghai Cooperation Organization Member States:On the construction of free trade zone in the context of Silk Road Economy[J].Arid Land Geography,2018,41（1）:205-214.]   \n[18］陈创练,谢学臻,林玉婷.全球贸易效率和贸易潜力及其影响 因素分析[J].国际贸易问题,2016，（7）：27－39.［CHEN Chuanglian XIE Xuezhen LIN Yuting.Global trade efficiency and trade potential and its influencing factors[J].Journal of International Trade,2016,（7）:27-39.]   \n[19］孔庆峰,董虹蔚.“一带一路\"国家的贸易便利化水平测算与贸 易潜力研究[J].国际贸易问题,2015，（12）：159－168. [KONG Qingfeng,DONG Hongwei.Trade facilitation and trade potential of countries along“One Belt One Road”route[J]. Journal of International Trade,2015,（12）:158-168.]   \n[20］袁丽君，高志刚.丝绸之路经济带下中国与中亚互联互通的制 度探析[J].宏观经济管理,2016,（4）:76-80.[YUAN Lijun, GAO Zhigang. Analysis on the interconnection system between China and central Asia under the Economic Belt of Silk Road[J].Microeconomic Management,2016,（4） :76 -80.]   \n[21］高志刚,宋亚东.不对称性相互依赖背景下中吉自由贸易实现 路径——基于局部均衡理论的模拟[J].干旱区地理,2018,41 (4）:679-685.[GAO Zhigang,SONG Yadong.Way of free trade between China and Kyrgyzstan under the background of asymmetry interdependence:A simulation based on partial equilibrium theory [J].Arid Land Geography,2018,41(4）:679-685.]   \n[22］高志刚,刘伟.“一带\"背景下中国与中亚五国贸易潜力测算及 前景展望[J].山东大学学报（哲学社会科学版),2015，（5）： 24-34.[GAO Zhigang,LIU Wei.The analysis and measurement of trade potential and trade prospect between China and central Asia countries under the background of the Silk Road Economic Belt [J].Journal of Shandong University（Philosophy and Social Science Edition）,2015,（5）:24-34.]   \n[23］贺书锋,平瑛,张伟华.北极航道对中国贸易潜力的影响- 基于随机前沿引力模型的实证研究［J]．国际贸易问题, 2013,（8):3-12.[HE Shufeng,PING Ying,ZHANG Weihua. Influence of arctic passage on China's trade potential;An empirical research based on stochastic frontier gravity model[J].Journal of International Trade,2013,（8）:3-12.]   \n[24]丁广伟，张磊.贸易便利化、对外直接投资的出口效应分析 [J].干旱区地理,2017,40(5）：1111-1117.［DING Guangwei, ZHANG Lei.Trade facilitation's and OFDI's export effect[J].Arid Land Geography,2017,40(5）:1111-1117.]   \n[25］施炳展,张夏.中国出口潜力—趋势、分布与源泉[J]．产业 经济研究,2015,(6）:52-61.［SHI Bingzhan,ZHANG Xia.China's export potential：Trends,distribution and sources[J]. Industrial Economics Research,2015,(6）:52-61.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bilateral trade potential and efficiency of agricultural trade between China and Pakistan ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SHU Qin'， SU Yang’，LI Feng²，WANG Jing-jing'，HUANG Yu-jiel，LIU Lei1 (1School of Economics and Trade,Xinjiang Agricultural University,Urumqi 83oooo,Xinjiang,China; 2Schoolof BusinessAdministration,Xinjiang UniversityofFinanceandEconomics,Urumqi 830oo,Xinjiang,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on the related trade data between China and the eight countries in South Asia during 1992— 2016,this paper selects seven South Asian countries as a reference from the perspective of Pakistan,and uses the StochasticFrontierGravity Model tocalculate the total trade volumeof its bilateral agricultural products and the total trade volume of the export agricultural products.Theresults show that the factors such as percapita GDP and state type have a positive impact on the bilateral agricultural trade development of China and Pakistan；population and distance factors hindered the trade development of China-Pakistan agricultural products,and the trade efficiency of bilateralagricultural products（average value of aboutO.689）was higher than thatof China'sexport to Pakistan agricultural products（averagevalue aboutO.615）;China'stotal export of agricultural products to Pakistan is far fromthe best trade level,so the trade potential of export agricultural products could be greatly improved,and then China is likely to turn from trade surplus to trade deficit. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:：China-Pakistan economic corridor;trade eficiency；trade potential;； stochastic frontier gravity model ",
+        "page_idx": 6
+    }
+]

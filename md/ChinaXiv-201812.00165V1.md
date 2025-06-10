@@ -1,0 +1,226 @@
+1 1 百你侗仁怕、泗示朽怕或示朽怕词根刘断劝侠干怕化\谢及血消工化拍协的影响  
+2 樊庆山1,² 毕研亮」刁其玉」 成述儒²付　彤屠　焰1\*  
+3 （1.中国农业科学院饲料研究所，农业部饲料生物技术重点试验室，北京100081；2.甘肃农  
+4 业大学动物科学技术学院，兰州 730070；3.河南农业大学牧医工程学院，郑州 450002)  
+5 摘要：本试验旨在研究饲喂含有棕榈仁粕、油茶籽粕或茶籽粕的饲粮时，断奶夏杂公犊牛  
+6 生长性能、消化代谢和血清生化指标的差异。选取46 日龄健康、平均体重为 $( 7 9 . 5 { \pm } 0 . 7 9 \$ ）kg  
+7 的断奶夏杂断奶公犊牛48头，随机分为4组，每组12头，分别饲喂4种全混合日粮，A、  
+8 B、C、D 组分别饲喂含豆粕、豆粕 $+$ 棕榈仁粕、豆粕 $+$ 油茶籽粕、豆粕 $+$ 茶籽粕的4种等能等  
+9 蛋白质全混合日粮，饲粮中棕榈仁粕、油茶籽粕、茶籽粕含量均为 $5 \%$ 。试验期 $1 0 4 \mathrm { d }$ ，其  
+10 中预试期 $\mathtt { 1 4 d }$ ，正试期 $9 0 \mathrm { d }$ 。每日测定采食量，每 $3 0 \mathrm { d }$ 测量1次犊牛的体重；分别在犊牛  
+11 90 和150日龄时以全收粪尿法进行消化代谢试验，测定营养物质消化代谢率；每 $3 0 \mathrm { d }$ 颈静  
+12 脉采血用于测定血清生化指标。结果表明：1）试验全期B组平均日增重和干物质采食量显  
+13 著高于C、D组（ $\lceil P { < } 0 . 0 5 \rangle$ ，与A组差异不显著（ $P { > } 0 . 0 5$ ）;D 组料重比显著高于其他3组  
+14 （ $\scriptstyle \sum 0 . 0 5$ )。2）犊牛150日龄时，A、B组的干物质表观消化率显著高于D组（ $\cdot P { < } 0 . 0 5 \$ ；A  
+15 组的中性洗涤纤维表观消化率显著高于其他3组（ $\cdot P { < } 0 . 0 5 \$ ）;A组酸性洗涤纤维显著高于B、  
+16 D组（ $\cdot P { < } 0 . 0 5 \rangle$ ；A、B、C 组的消化能代谢率显著高于 $\mathrm { ~ D ~ }$ 组 $\cdot P { < } 0 . 0 5 \$ ）;B组的氮表观消化  
+17 率、氮沉积率显著高于 $\mathrm { ~ D ~ }$ 组（P<0.05)，与A组无显著差异（ $\mathrm { . } P { > } 0 . 0 5 \mathrm { . }$ ）。3）61\~150日龄，  
+18 B组血清葡萄糖浓度显著高于A和C组（ $\scriptstyle \cdot < 0 . 0 5$ )，A组血清甘油三酯浓度显著低于D组  
+19 （ $\scriptstyle P < 0 . 0 5 { \mathrm { ) } }$ ，C 组血清尿素氮浓度显著高于A、B、D组（ $P { < } 0 . 0 5$ ）;90日龄时，B和C组  
+20 血清总蛋白浓度显著高于A组（ $\scriptstyle P < 0 . 0 5 .$ ）;150 日龄时，A组血清球蛋白浓度显著高于C 组  
+21 （ $\lceil P { < } 0 . 0 5 \rangle$ 。综上所述，饲粮中添加 $5 \%$ 棕榈仁粕后可以达到与完全豆粕饲养时一样的促进  
+22 夏杂公犊牛生长的效果，而且此饲粮易消化利用，采食后相关血清生化指标均在正常范围内，  
+23 并未影响特牛健康；饲粮添加 $5 \%$ 茶籽粕或油茶籽粕降低了犊牛的采食量、消化氮和氮表观  
+24 消化率，影响了犊牛的生长发育。
+
+关键词：夏杂犊牛；棕榈仁粕；油茶籽粕；茶籽粕；血清生化指标；消化代谢
+
+中图分类号：S823
+
+目前，非常规饲料的利用已经得到了广泛关注。据报道，我国每年生产的非常规饲料资源达10亿t以上，其中各类饼粕的年产量可达1500万t以上，但用于饲料的只有 $30 \%$ 左右[1],已经满足不了畜牧业生产发展的需要，同时，畜牧业规模化生产与环境污染的矛盾也日渐突出。因此，如何既合理利用资源促进畜牧业发展又能保护生态环境，成为当前急需破解的难题。非常规饲料为上述矛盾的解决做出了重要贡献。这些饼粕类饲料原料大多为工农业加工副产品，如棕榈仁粕、油茶籽粕、茶籽粕等由于价格低廉及营养成分丰富，不仅可以用作反刍动物饲料，而且可以为工厂处理这些副产品节约成本，减少环境污染[2]。但是油茶籽粕和茶籽粕中含有较高浓度的茶皂素、单宁、生物碱和黄酮等物质，其中茶皂素和单宁是油茶籽粕和茶籽粕中的主要抗营养因子，同时茶皂素具有苦涩味道，会一定程度上影响动物的适口性[3-5]，在饲粮中添加后会产生什么样的效果不可预期。前人对于棕榈仁粕、油茶籽粕、茶籽粕等饲料原料的营养成分影响动物生产性能的研究较多，但是，关于其消化率的研究多是基于体外或半体内方法的基础上进行，对于其在体内消化率及血清生化指标的报道较少。因此，本试验研究添加棕榈仁粕、油茶籽粕或茶籽粕对断奶后犊牛生长性能、消化代谢和血清生化指标的影响，为非常规饲料在畜牧生产上的利用提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验时间与地点
+
+本试验于2016年10月至2017年1月在河南农业大学许昌动物科学与动物医学实践教学基地进行。
+
+# 1.2 试验材料
+
+本试验采用单因素试验设计。选用48头夏杂牛（夏洛莱 $\mathcal { \vec { S } } ^ { \times }$ 南阳黄牛 $\mathcal { G }$ ）46日龄断奶公犊牛，平均体重为（ $7 9 . 5 { \pm } 0 . 7 9 \$ ） $\mathbf { k g }$ ，随机分成4组，每组12头。A、B、C、D组分别饲喂含豆粕、豆粕 $+$ 棕榈仁粕、豆粕 $+$ 油茶籽粕、豆粕 $+$ 茶籽粕的4种全混合日粮，其中A组为对照组，B、C、D组通过调整干酒糟及其可溶物、麸皮、豆粕等的用量达到与A组饲粮等能等蛋白质。试验期104d，其中预试期14d，正试期 $9 0 \mathrm { d }$ 。基饲粮营养水平参照李岚捷等[6]的报道设置。试验饲粮组成及营养水平见表1。
+
+项目Items组别Groups
+
+<html><body><table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>苜蓿Alfafa</td><td>20.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>玉米 Corn</td><td>48.76</td><td>49.15</td><td>48.85</td><td>47.35</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>2.25</td><td>10.00</td><td>15.00</td><td>16.00</td></tr><tr><td>麸皮 Wheat bran</td><td>15.00</td><td>3.70</td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>11.04</td><td>9.20</td><td>8.20</td><td>6.70</td></tr><tr><td>糖蜜 Molasses</td><td></td><td></td><td></td><td>2.00</td></tr><tr><td>茶籽粕 Tea seed meal</td><td></td><td></td><td></td><td>5.00</td></tr><tr><td>油茶籽粕 Oil tea seed meal</td><td></td><td></td><td>5.00</td><td></td></tr><tr><td>棕榈仁粕 Palm kernel meal</td><td></td><td>5.00</td><td></td><td></td></tr><tr><td>石粉 Limestone</td><td>0.85</td><td>0.85</td><td>0.85</td><td>0.85</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.60</td><td>0.60</td><td>0.60</td><td>0.60</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>94.78</td><td>94.80</td><td>95.23</td><td>95.83</td></tr><tr><td>粗蛋白质 CP</td><td>16.61</td><td>16.87</td><td>16.12</td><td>16.84</td></tr><tr><td>粗脂肪 EE</td><td>3.45</td><td>3.79</td><td>3.90</td><td>4.05</td></tr><tr><td>粗灰分 Ash</td><td>6.03</td><td>6.24</td><td>6.50</td><td>6.15</td></tr><tr><td>中性洗涤纤维 NDF</td><td>56.58</td><td>58.21</td><td>54.76</td><td>54.17</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>14.27</td><td>16.31</td><td>14.19</td><td>14.96</td></tr><tr><td>钙Ca</td><td>1.05</td><td>1.21</td><td>1.15</td><td>1.02</td></tr><tr><td>总磷TP</td><td>0.49</td><td>0.43</td><td>0.44</td><td>0.42</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>2.59</td><td>2.55</td><td>2.56</td><td>2.51</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the folowing per kg of diets:VA15 000 IU,VD 5 000 IU, VE $5 0 \mathrm { m g }$ ，Fe $9 0 \mathrm { m g }$ ， $\mathrm { C u } 1 2 . 5 \mathrm { m g }$ ， $\mathrm { M n } 6 0 \mathrm { m g }$ ， $Z n 1 0 0 \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 . 0 ~ \mathrm { m g }$ ， Co 0.5 mg。 2)代谢能为计算值，代谢能 $\mathbf { \Psi } : = \mathbf { \Psi }$ 总能-粪能-尿能-甲烷能，其中甲烷能 $= 8 \%$ 总能[7]；其余营养水平为实测值。 ME was a calculated value, and $\scriptstyle \mathrm { M E = }$ GE-FE-UE- $\mathrm { C H } _ { 4 } \mathrm { E }$ （ $\mathrm { C H } _ { 4 } \mathrm { E }$ in the equation was $8 \%$ of GE)[7]; the other nutrient levels were measured values.
+
+# 1.3 饲养管理
+
+特牛到场后清晨空腹称重，佩戴耳标和进行驱虫处理，再置于犊牛岛（ $4 . 5 \ : \mathrm { m } \times 1 . 5 \ : \mathrm { m }$ ）内单栏饲养。给每头犊牛提供单独的水槽、食槽，每日08:00、16:00各饲喂1次，自由饮水。每周清理圈舍粪便和栏位消毒1次。按体重的 $3 . 5 \%$ 干物质供给饲粮。
+
+# 1.4样品收集与测定
+
+# 1.4.1 生长性能测定
+
+每天晨饲前收集每头牛的剩料量，计算干物质采食量（DMI)；试验开始后分别在60、90、120 和150日龄晨饲前单独称量每头牛体重并计算每组平均日增重（ADG)。测定饲粮和剩料样品中干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、粗灰分（Ash)、钙（Ca）、磷（P）含量，参照张丽英[8]的方法进行。
+
+1.4.2粪、尿样品的采集与分析
+
+在特牛90和150日龄时采用全收粪尿法用消化代谢笼进行2次消化代谢试验。每次试验期6d，预试期2d，正试期4d，每组选取6头牛，记录每头特牛每天采食量、总排粪量和总排尿量。将每天收集的牛粪便样品混匀后取 $1 0 0 ~ \mathrm { g }$ ，加 $10 \%$ 的硫酸 $5 0 ~ \mathrm { m L }$ 固氮；将每天收集的牛尿样品混匀后取 $1 0 0 ~ \mathrm { { m L } }$ ，加 $10 \%$ 的硫酸 $1 0 ~ \mathrm { m L }$ 固氮。所有样品-20℃冷冻保存待测。
+
+粪样：CP含量用凯氏定氮仪测定，NDF 和ADF 含量以ANKOM200 Fiber Analyzer 测定，总能（GE）采用PARR一6400全自动氧弹量热仪测定，同时测定样品的DM、Ash 含量，计算有机物（OM）含量[8]。
+
+尿样：尿氮用凯氏定氮仪测定，尿能采用PARR一6400全自动氧弹量热仪测定。
+
+按以下公式计算能量利用率：
+
+总能消化率（ $\% ) \ = 1 0 0 \times$ 消化能/总能;总能代谢率 $( \% ) = 1 0 0 \times$ 代谢能/总能;消化能代谢率 $( \% ) = 1 0 0 \times$ 代谢能/消化能。
+
+# 1.4.3 血清样品的采集与分析
+
+在试验开始时，及每 $3 0 \mathrm { d }$ 晨饲前每组以体重接近组平均体重为原则选取6头牛，颈静脉采血于 $1 0 ~ \mathrm { m L }$ 的真空离心管（不含抗凝剂）中， $4 0 0 0 \mathrm { r / m i n }$ 离心 $3 0 ~ \mathrm { m i n }$ ，收集上层血清于2个 $1 . 5 ~ \mathrm { m L }$ 的离心管中，将血清冷藏在 $- 2 0 \mathrm { ~ \textdegree ~ }$ 冰柜中待测。血清生化指标采用标准试剂盒（北京金海科隅生物科技发展有限公司）测定。采用比色法（科华ZYKHB-1280 全自动生化仪）对血清中的葡萄糖（GLU）、白蛋白（ALB）、球蛋白（GLB）、总蛋白（TP）、尿素氮（UN）和甘油三酯（TG）浓度进行测定；用酶免法（ST-360全自动酶标仪）测定生长激素（GH)、瘦素（LEP）、胰岛素样生长因子-1（IGF-1）和β-羟丁酸（β-HB）浓度。
+
+# 1.5数据统计分析
+
+试验数据采用SAS9.2统计处理软件MIXED和GLM程序处理数据，结果差异显著则用LSD法和Duncan氏法进行多重比较检验， $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \le } P { < } 0 . 1 0$ 为有显著差异的趋势。
+
+# 2结果与分析
+
+2.1 生长性能
+
+由表2可知，试验全期（61\~150 日龄）B组ADG 和DMI显著高于C、D组（ $\cdot P { < } 0 . 0 5 \dot { . }$ )，  
+与A组差异不显著（ $\cdot P { > } 0 . 0 5 )$ ；D组料重比显著高于其他3组（ $\cdot P { < } 0 . 0 5 \rangle$ 。B组ADG（61\~90  
+日龄、91\~120 日龄、 $1 2 1 { \sim } 1 5 0$ 日龄）和DMI（61\~90日龄、91\~120日龄）显著高于C、D 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { , } }$ ，与A组差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )；B组DMI（121\~150日龄）显著高于其他3组（ $\scriptstyle P < 0 . 0 5 )$ ；D组料重比（61\~90日龄、 $9 1 { \sim } 1 2 0$ 日龄、121\~150日龄）显著高于A、B组（ $P$   
+$< 0 . 0 5 \$ ，与C组差异不显著（ $_ { \cdot P > 0 . 0 5 ) }$ 。试验全期特牛ADG、DMI和料重比均受日龄影响显著（ $\cdot P { < } 0 . 0 5 \rangle$ ；ADG不受组别与日  
+龄交互作用的影响（ $\cdot  { P } { > } 0 . 0 5 ) ,$ )，DMI和料重比受组别与日龄交互作用影响显著（ $\cdot P { < } 0 . 0 5 )$ 。表2含棕榈仁粕、油茶籽粕或茶籽粕饲粮对断奶犊牛生长性能的影响  
+Table 2Efects of diets containing palm kernel meal,oil tea seed meal and tea seed meal on growth performance
+
+of weaned calves
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">A</td><td colspan="2">组别 Groups</td><td rowspan="2"></td><td rowspan="2">SEM</td><td colspan="3">固定效应P值P-value of fixed effects</td></tr><tr><td>B</td><td>C D</td><td>组别</td><td>日龄Days</td><td>组别×日龄</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Groups</td><td>of age</td><td>Groups×days of ag</td></tr><tr><td>平均日增重 ADG/(kg/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>61~150 日龄 61~150 days of age</td><td>1.05a</td><td>1.21a</td><td>0.71b</td><td>0.70b</td><td>0.097</td><td><0.000 1</td><td>0.018 4</td><td>0.5840</td></tr><tr><td>61~90 日龄 61~90 days of age</td><td>1.05a</td><td>1.18a</td><td>0.45b</td><td>0.61b</td><td>0.064</td><td><0.000 1</td><td></td><td></td></tr><tr><td>91~120 日龄 91~120 days of age</td><td>1.24ab</td><td>1.49a</td><td>0.86bc</td><td>0.79c</td><td>0.081</td><td>0.002 4</td><td></td><td></td></tr><tr><td>121~150 日龄 121~150 days of age</td><td>0.92a</td><td>0.97a</td><td>0.83b</td><td>0.69c</td><td>0.023</td><td><0.000 1</td><td></td><td></td></tr><tr><td>干物质采食量 DMI/(kg/d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td><0.000 1</td><td></td></tr><tr><td>61~150 日龄 61~150 days of age</td><td>4.46a</td><td>4.78a</td><td>3.56b</td><td>3.40b</td><td>0.213</td><td><0.000 1</td><td></td><td><0.000 1</td></tr><tr><td>61-90 日龄 61~90 days of age</td><td>3.78ab 4.21a</td><td>4.00a</td><td>3.20b</td><td>2.49c</td><td>0.150</td><td>0.0003</td><td></td><td></td></tr><tr><td>91~120 日龄 91~120 days of age</td><td>5.38b</td><td>4.36a 5.98a</td><td>3.32b</td><td>3.02b</td><td>0.134</td><td><0.000 1 <0.000 1</td><td></td><td></td></tr><tr><td>121~150 日龄 121~150 days of age</td><td></td><td></td><td>4.87c</td><td>3.96d</td><td>0.153</td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td><td><0.000 1</td><td></td><td></td></tr><tr><td>61~150 日龄 61~150 days of age</td><td>3.40c</td><td>2.89d</td><td>5.41b</td><td>5.93a</td><td>0.239</td><td></td><td><0.000 1</td><td>0.013 4</td></tr></table></body></html>
+
+61\~90 d 日龄 61\~90 days of age 3.46b 3.15b 6.18a 7.27a 0.384 <0.000 1  
+91\~120 d 日龄 91\~120 days of age 3.16b 2.30c 4.12a 4.55a 0.183 ${ < } 0 . 0 0 0 \ 1$   
+121\~150 d 日龄 121\~150 days of age 3.59b 3.21b 5.92a 5.97a 0.270 <0.000 1
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。
+
+In the same row,values with different small lettr superscripts mean significant difference ( $( P < 0 . 0 5 )$ .The same as below.
+
+# 2.2营养物质的表观消化率
+
+由表3可知，特牛90日龄时，各组各营养物质的的表观消化率均无显著差异（ $\mathrm { \Phi } _ { \cdot } P { > } 0 . 0 5 \mathrm { \dot { \Omega } }$ ）150日龄时，A、B、C组采食量显著高于D组（ $\scriptstyle P < 0 . 0 5 ,$ ；A、B组粪排出量显著高于D组（ $P$ $< 0 . 0 5 )$ ，与C组无显著差异 $( P { > } 0 . 0 5 )$ )；A组干物质的表观消化率显著高于C、D组( $\cdot P { < } 0 . 0 5 \dot { , }$ )，与B组无显著差异( $\cdot P { > } 0 . 0 5 )$ );A组中性洗涤纤维的表观消化率显著高于B、C、D组( $( P { < } 0 . 0 5 )$ ：A组酸性洗涤纤维显著高于B、D组（ $\scriptstyle \cdot < 0 . 0 5 .$ ，与C组无显著差异（ $P { > } 0 . 0 5 \$ )，C组显著高于D组（ $P { < } 0 . 0 5 )$ 。90和150日龄，各组间代谢体重、采食量/代谢体重和有机物表观消化率均无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+表3含棕榈仁粕、油茶籽粕或茶籽粕饲粮对断奶犊营养物质采食和表观消化率的影响
+
+Table3Efects ofdiets containing palm kernelmeal,oil tea seed meal and teaseed meal on nutrient intake and
+
+122
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td>P值</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>P-value</td></tr><tr><td>Items 代谢体重W0.75/kg</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>36.24</td><td>36.87</td><td>34.35</td><td>34.38</td><td>0.492</td><td>0.2308</td></tr><tr><td>150 日龄 150 days of age</td><td>49.64</td><td>51.91</td><td>48.16</td><td>48.70</td><td>0.746</td><td>0.394 3</td></tr><tr><td>采食量 Intake/(kg/d)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>2.81</td><td>3.43</td><td>2.62</td><td>2.62</td><td>0.147</td><td>0.212 7</td></tr><tr><td>150 日龄 150 days of age</td><td>4.37a</td><td>4.39a</td><td>4.11a</td><td>3.36b</td><td>0.112</td><td>0.000 3</td></tr><tr><td>采食量/代谢体重 Intake/W0.75</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>0.08</td><td>0.10</td><td>0.08</td><td>0.08</td><td>0.003</td><td>0.759 3</td></tr><tr><td>150 日龄 150 days of age</td><td>0.10</td><td>0.10</td><td>0.09</td><td>0.10</td><td>0.364</td><td>0.894 3</td></tr><tr><td>粪排出量 Fecal output/(kg/d)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>1.05</td><td>1.08</td><td>0.99</td><td>1.02</td><td>0.047</td><td>0.944 4</td></tr><tr><td>150 日龄 150 days of age</td><td>1.59a</td><td>1.53a</td><td>1.44ab</td><td>1.18b</td><td>0.055</td><td>0.031 4</td></tr><tr><td>干物质表观消化率 DMapparent digestibility/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>58.26</td><td>60.90</td><td>56.53</td><td>55.79</td><td>1.526</td><td>0.395 5</td></tr><tr><td>150 日龄150 days of age</td><td>67.90a</td><td>65.32ab</td><td>59.26b</td><td>58.60b</td><td>1.403</td><td>0.034 2</td></tr><tr><td>有机物表观消化率 OMapparent digestibility/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>63.33</td><td>64.79</td><td>60.42</td><td>59.92</td><td>1.435</td><td>0.402 8</td></tr><tr><td>150 日龄 150 days of age</td><td>71.64</td><td>67.65</td><td>63.49</td><td>62.69</td><td>1.347</td><td>0.057 6</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">中性洗涤纤维表观消化率 NDF apparent digestibility/%</td></tr><tr><td>90日龄 90 days of age</td><td>73.50</td><td>65.38</td><td>65.87</td><td>66.75</td><td>1.421</td><td>0.121 7</td></tr><tr><td>150日龄150 days of age</td><td>74.11a</td><td>69.42b</td><td>67.18b</td><td>65.35b</td><td>0.987</td><td>0.004 0</td></tr><tr><td>酸性洗涤纤维表观消化率 ADF apparent digestibility/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>45.96</td><td>30.90</td><td>45.13</td><td>37.48</td><td>2.633</td><td>0.118 4</td></tr><tr><td>150 日龄 150 days of age</td><td>49.50a</td><td>40.24bc</td><td>46.43ab</td><td>35.99c</td><td>1.684</td><td>0.010 1</td></tr></table></body></html>
+
+123 2.3 能量利用率
+
+124 由表4可知，90日龄时，各组各项能量指标均无显著差异（ $\mathrm { \Phi } _ { \cdot } P { > } 0 . 0 5 \mathrm { \ ' }$ )。150日龄时，A、  
+125 B、C 组的食入GE分别高出D 组 $3 6 . 1 4 \%$ 、 $3 5 . 5 4 \%$ 、 $2 5 . 3 0 \%$ 差异显著（ $( P { < } 0 . 0 5 )$ ；A和C  
+126 组的粪能分别高出D 组 $2 7 . 0 8 \%$ 和 $2 9 . 1 7 \%$ ，差异显著（ $\cdot P { < } 0 . 0 5 )$ ，与B组无显著差异（ $P >$   
+127 0.05)；A、B、C组的甲烷能分别高出 $\mathrm { ~ D ~ }$ 组 $3 8 . 4 6 \%$ 、 $2 0 . 0 8 \%$ 、 $3 8 . 4 6 \%$ ，差异显著（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 ) } \end{array} } \right.$ ;  
+128 A、B、C 组的总能代谢率分别高出 $\mathrm { ~ D ~ }$ 组 $9 . 2 5 \%$ 、 $12 . 8 9 \%$ 、 $7 . 2 0 \%$ ，差异显著（ $P { < } 0 . 0 5 )$ ；A、  
+129 B、C 组的消化能代谢率分别高出 $\mathrm { ~ D ~ }$ 组 $5 . 4 4 \%$ 、 $8 . 1 8 \%$ 、 $6 . 5 7 \%$ ，差异显著（ $\cdot P { < } 0 . 0 5 )$ ；各组  
+130 间的尿能和总能消化率无显著差异（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表4含棕榈仁粕、油茶籽粕或茶籽粕饲粮对断奶犊牛能量利用率的影响
+
+Table 4Efects of diets containing palm kernel meal,oil tea seed meal and tea seed meal on energy utilization 由表5可知，90日龄时，各组特牛的氮代谢指标无显著差异（ $P { > } 0 . 0 5 \$ )。150日龄时，
+
+<html><body><table><tr><td colspan="2">133</td><td colspan="2">rate of weaned calves</td><td rowspan="2"></td><td rowspan="2">SEM</td><td rowspan="2">P值</td></tr><tr><td>项目</td><td></td><td>组别Groups</td><td></td><td></td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td></td><td>P-value</td></tr><tr><td>食入总能 GEI/[MJ/(kg W0.75·d)]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>1.15</td><td>1.30</td><td>1.16</td><td>1.18</td><td>0.065</td><td>0.892 9</td></tr><tr><td>150 日龄 150 days of age</td><td>2.26a</td><td>2.25a</td><td>2.08a</td><td>1.66b</td><td>0.068</td><td>0.000 9</td></tr><tr><td>粪能 FE/[MJ/(kg W0.75 ·d)]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>0.32</td><td>0.29</td><td>0.30</td><td>0.32</td><td>0.015</td><td>0.850 6</td></tr><tr><td>150 日龄 150 days of age</td><td>0.61a</td><td>0.54ab</td><td>0.62a</td><td>0.48b</td><td>0.019</td><td>0.038 0</td></tr><tr><td>尿能 UE/[MJ/(kg W0.75 ·d)]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>0.10</td><td>0.10</td><td>0.09</td><td>0.09</td><td>0.005</td><td>0.925 0</td></tr><tr><td>150 日龄150 days of age</td><td>0.15</td><td>0.12</td><td>0.13</td><td>0.14</td><td>0.005</td><td>0.265 1</td></tr><tr><td>甲烷能 CH4E/[MJ/(kg W0.75· d)]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>0.09</td><td>0.10</td><td>0.09</td><td>0.09</td><td>0.006</td><td>0.942 7</td></tr><tr><td>150 日龄 150 days of age</td><td>0.18a</td><td>0.16a</td><td>0.18a</td><td>0.13b</td><td>0.005</td><td>0.000 8</td></tr><tr><td>总能消化率 GE digestibility/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>72.43</td><td>77.64</td><td>74.31</td><td>71.19</td><td>0.017</td><td>0.693 2</td></tr><tr><td>150 日龄 150 days of age</td><td>72.32</td><td>73.28</td><td>72.27</td><td>70.25</td><td>0.006</td><td>0.420 6</td></tr><tr><td>总能代谢率 GE metabolic rate/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>55.18</td><td>61.29</td><td>58.43</td><td>55.76</td><td>0.019</td><td>0.713 6</td></tr><tr><td>150 日龄 150 days of age</td><td>58.13a</td><td>60.07a</td><td>57.04a</td><td>53.21b</td><td>0.007</td><td>0.008 7</td></tr><tr><td>消化能代谢率 DE metabolic rate/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>77.37</td><td>79.28</td><td>78.41</td><td>76.03</td><td>0.009</td><td>0.719 3</td></tr></table></body></html>
+
+<html><body><table><tr><td>150 日龄 150 days of age</td><td>79.29a</td><td>81.35a</td><td>80.14a</td><td>75.20b</td><td>0.005</td><td>0.000 1</td></tr></table></body></html>
+
+A、B 组的食入氮显著高于C 和 $\mathrm { ~ D ~ }$ 组（ $\scriptstyle \cdot < 0 . 0 5 .$ ，C组显著高于D组（ $\scriptstyle P < 0 . 0 5 .$ ；A、C组的粪氮显著高于 $\mathrm { ~ D ~ }$ 组（ $. P { < } 0 . 0 5 )$ ，与 $\mathbf { B }$ 组无显著差异（ $P { > } 0 . 0 5 )$ ；B 组氮沉积显著高于C、D组 $( P { < } 0 . 0 5 )$ ，与A组差异不显著（ $\cdot P { > } 0 . 0 5 )$ ）;B 组的氮沉积率显著高于D组（ $\cdot P { < } 0 . 0 5 \mathrm { { , } }$ ），与A、C组差异不显著（ $\cdot P { > } 0 . 0 5 )$ ；A、B组的消化氮显著高于C和 $\mathrm { ~ D ~ }$ 组（ $\cdot P { < } 0 . 0 5$ ，C组显著高于D组（ $\scriptstyle P < 0 . 0 5 )$ ；B组的氮表观消化率显著高于C、D组（ $\scriptstyle P < 0 . 0 5 ,$ ，与A组无显著差异（ $\cdot P { > } 0 . 0 5 )$ ；各组间的尿氮差异不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表5含棕榈仁粕、油茶籽粕或茶籽粕饲粮对断奶犊牛氮代谢的影响
+
+Table 5Efects of diets containing palm kernel meal,oil tea seed meal and tea seed meal on nitrogen metabolism
+
+144
+
+<html><body><table><tr><td colspan="5">44 of weaned calves</td><td rowspan="2">P值</td></tr><tr><td>项目</td><td></td><td colspan="2">组别Groups</td><td>SEM</td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>P-value</td></tr><tr><td>食入氮N intake/[g/（kg Wo.75 ·d）]</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>0.91</td><td>1.13</td><td>0.89</td><td>0.89 0.063</td><td>0.506 9</td></tr><tr><td>150 日龄 150 days of age</td><td>1.44a</td><td>1.45a 1.28b</td><td>1.00c</td><td>0.044</td><td><0.000 1</td></tr><tr><td>粪氮 Fecal N/[g/（kg W0.75·d）]</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>0.21</td><td>0.19</td><td>0.19</td><td>0.21</td><td>0.010 0.844 7</td></tr><tr><td>150 日龄 150 days of age</td><td>0.40a</td><td>0.35ab</td><td>0.38a 0.30b</td><td>0.013</td><td>0.0478</td></tr><tr><td>尿氮 Urine N/[g/ （kg Wo.75 ·d）]</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>0.26</td><td>0.24</td><td>0.23</td><td>0.20</td><td>0.017 0.7078</td></tr><tr><td>150 日龄 150 days of age</td><td>0.49</td><td>0.38</td><td>0.41</td><td>0.39 0.024</td><td>0.436 2</td></tr><tr><td>沉积氮Retained N/[g/（kg W0.75·d）]</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄90 days of age</td><td>0.44</td><td>0.71</td><td>0.46</td><td>0.48</td><td>0.058 0.331 7</td></tr><tr><td>150 日龄 150 days of age</td><td>0.55ab</td><td>0.72a</td><td>0.49bc</td><td>0.31c 0.043</td><td>0.003 0</td></tr><tr><td>氮沉积率 N deposition rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>48.96</td><td>62.15</td><td>52.73</td><td>51.27</td><td>0.032 0.481 4</td></tr><tr><td>150 日龄 150 days of age</td><td>38.37ab</td><td>50.29a</td><td>38.07ab</td><td>33.05b 0.024</td><td>0.041 1</td></tr><tr><td>消化氮Digestible N/[g/（kg Wo.75·d）]</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>0.70</td><td>0.95</td><td>0.69</td><td>0.68</td><td>0.062 0.411 3</td></tr><tr><td>150 日龄 150 days of age</td><td>1.04a</td><td>1.10a</td><td>0.90b</td><td>0.70c 0.038</td><td><0.000 1</td></tr><tr><td>氮表观消化率Napparent digestibility/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>90日龄 90 days of age</td><td>77.14</td><td>83.01</td><td>78.27</td><td>74.31</td><td>0.018 0.433 2</td></tr><tr><td>150 日龄 150 days of age</td><td>72.24ab</td><td>76.06a</td><td>70.39b</td><td>70.62b 0.009</td><td>0.048 5</td></tr></table></body></html>
+
+# 145 2.5 血清生化指标
+
+.46 由表6可知，各组血清中ALB、GLB、 $\beta$ -HB、GH、LEP和IGF-I浓度无显著差异（ $P$ ${ > } 0 . 0 5 { \mathrm { ) } }$ 。B组血清GLU浓度平均值显著高于A和C组（ $\cdot P { < } 0 . 0 5 \rangle$ ，与D组差异不显著（ $P$ ${ \ > } 0 . 0 5 { \mathrm { : } }$ ；A组血清TG浓度显著低于 $\mathrm { ~ D ~ }$ 组（ $\cdot P { < } 0 . 0 5 \rangle$ ，与其他各组无显著差异（ $P { > } 0 . 0 5 )$ ;C 组血清UN浓度显著高于A、B、D组（ $\cdot P { < } 0 . 0 5 )$ 。
+
+90 和150日龄时，B组血清GLU浓度显著高于A和C组（ $\scriptstyle \cdot < 0 . 0 5 ,$ ，与 $\mathrm { ~ D ~ }$ 组差异不显著（ $P { > } 0 . 0 5 \$ )。90 日龄时，B和C组血清TP浓度显著高于A组（ $\cdot P { < } 0 . 0 5 \$ ，与D组无显著差异（ $P { > } 0 . 0 5$ )。90日龄时，A组血清UN浓度显著低于B、C、D组（ $\scriptstyle P < 0 . 0 5 ,$ ，B、C 和D组之间无显著差异（ $P { > } 0 . 0 5 )$ 。120日龄时，C组血清TG浓度显著低于D组（ $P <$ 0.05)，与其他各组差异不显著（ $\vert P { > } 0 . 0 5 )$ 。150日龄时，A组血清GLB浓度显著高于C组（ $\cdot < 0 . 0 5 \rangle$ ，与B和D组差异不显著（ $P { > } 0 . 0 5 )$ ）°
+
+特牛血清GLU和UN浓度显著受到日龄的影响（ $. P { < } 0 . 0 5 )$ ，但是日龄对血清TG、TP、ALB、GLB、 $\beta$ -HB、GH、LEP 和IGF-I浓度无显著影响（ $\cdot P { > } 0 . 0 5 )$ 。
+
+犊牛血清中GLU、TP、GLB和UN 浓度显著受组别与日龄交互作用的影响（ $( P { < } 0 . 0 5 )$ ），而血清 TG、ALB、 $\beta$ -HB、GH、LEP 和IGH-I均不受组别与日龄交互作用的影响（ $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ ）°表6含棕榈仁粕、油茶籽粕或茶籽粕饲粮对断奶犊牛血清生化指标的影响
+
+Table6Effects of diets containing palm kernel meal,oil tea seed meal and tea seed meal onserum biochemical
+
+<html><body><table><tr><td rowspan="2">2 162 N 项目 Items</td><td colspan="8">indexes of weaned calves</td></tr><tr><td rowspan="2"></td><td colspan="2">组别Groups</td><td rowspan="2"></td><td rowspan="2">SEM</td><td colspan="3">固定效应P值P-value of fixed effects</td></tr><tr><td>A</td><td>B C</td><td>D</td><td>组别</td><td>日龄Days</td><td>组别×日龄</td></tr><tr><td>a 葡萄糖 GLU/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td>Groups</td><td>of age</td><td>Groups×days of age</td></tr><tr><td>平均值 Mean</td><td>3.44b</td><td>4.68a</td><td>3.71b</td><td>4.34ab</td><td>0.403</td><td>0.023 4</td><td><0.000 1</td><td>0.0288</td></tr><tr><td>90日龄 90 days of age</td><td>2.39b</td><td>3.97a</td><td>2.67b</td><td>3.73a</td><td>0.181</td><td>0.0003</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>3.92</td><td>4.63</td><td>3.03</td><td>4.51</td><td>0.297</td><td>0.213 7</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>4.04b</td><td>5.45a</td><td>5.53a</td><td>4.80ab</td><td>0.219</td><td>0.043 8</td><td></td><td></td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>0.10b</td><td>0.15ab</td><td>0.14ab</td><td>0.17a</td><td>0.230</td><td>0.046 9</td><td>0.503 5</td><td>0.512 4</td></tr><tr><td>90日龄 90 days of age</td><td>0.08</td><td>0.14</td><td>0.14</td><td>0.18</td><td>0.018</td><td>0.271 0</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>0.12ab</td><td>0.15ab</td><td>0.09b</td><td>0.18a</td><td>0.013</td><td>0.0678</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>0.12</td><td>0.15</td><td>0.18</td><td>0.17</td><td>0.011</td><td>0.263 2</td><td></td><td></td></tr><tr><td>总蛋白 TP/(g/)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>58.06</td><td>60.36</td><td>58.80</td><td>57.41</td><td>1.688</td><td>0.358 7</td><td>0.486 7</td><td>0.027 7</td></tr><tr><td>90日龄 90 days of age</td><td>53.80b</td><td>61.62a</td><td>59.91a</td><td>56.34ab</td><td>1.112</td><td>0.043 9</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>58.03</td><td>61.60</td><td>59.97</td><td>58.17</td><td>1.024</td><td>0.592 9</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>57.88b</td><td>62.37a</td><td>56.81b</td><td>57.72b</td><td>0.792</td><td>0.045 8</td><td></td><td></td></tr><tr><td>白蛋白 ALB/(g/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>28.51</td><td>29.69</td><td>29.43</td><td>30.02</td><td>1.016</td><td>0.502 3</td><td>0.517 2</td><td>0.518 5</td></tr></table></body></html>
+
+<html><body><table><tr><td>90 日龄 90 days of age</td><td>26.84</td><td>30.83</td><td>29.00</td><td>30.17</td><td>0.598</td><td>0.0815</td><td></td><td></td></tr><tr><td>120 日龄120 days of age</td><td>28.78</td><td>28.38</td><td>29.84</td><td>30.11</td><td>0.665</td><td>0.786 0</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>29.91</td><td>29.85</td><td>30.23</td><td>29.78</td><td>0.486</td><td>0.990 5</td><td></td><td></td></tr><tr><td>球蛋白 GLB/(g/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>29.56</td><td>30.68</td><td>28.93</td><td>27.39</td><td>1.331</td><td>0.129 0</td><td>0.4431</td><td>0.043 4</td></tr><tr><td>90 日龄 90 days of age</td><td>26.96</td><td>30.80</td><td>30.91</td><td>26.167</td><td>0.985</td><td>0.1848</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>29.25</td><td>33.22</td><td>30.13</td><td>28.06</td><td>0.760</td><td>0.087 5</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>32.46a</td><td>28.03ab</td><td>26.59b</td><td>27.95ab</td><td>0.833</td><td>0.0469</td><td></td><td></td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>4.73c</td><td>5.96bc</td><td>6.82a</td><td>6.63b</td><td>0.649</td><td>0.018 2</td><td>0.0001</td><td>0.048 0</td></tr><tr><td>90 日龄 90 days of age</td><td>3.30b</td><td>5.47a</td><td>6.15a</td><td>6.98a</td><td>0.395</td><td>0.0018</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>4.54</td><td>5.70</td><td>5.30</td><td>6.19</td><td>0.312</td><td>0.301 2</td><td></td><td></td></tr><tr><td>150 日龄150 days of age</td><td>6.37</td><td>6.73</td><td>9.07</td><td>6.72</td><td>0.465</td><td>0.142 8</td><td></td><td></td></tr><tr><td>β-羟丁酸 β-HB/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>1.46</td><td>1.56</td><td>1.47</td><td>1.46</td><td>0.371</td><td>0.990 5</td><td>0.711 5</td><td>0.842 2</td></tr><tr><td>90日龄 90 days of age</td><td>1.44</td><td>1.61</td><td>1.49</td><td>1.08</td><td>0.118</td><td>0.445 2</td><td></td><td></td></tr><tr><td>120日龄 120 days of age</td><td>1.35</td><td>1.54</td><td>1.46</td><td>1.48</td><td>0.139</td><td>0.973 1</td><td></td><td></td></tr><tr><td>150 日龄150 days of age</td><td>1.58</td><td>1.66</td><td>1.47</td><td>1.68</td><td>0.194</td><td>0.9843</td><td></td><td></td></tr><tr><td>生长激素 GH/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td>8.79</td><td>11.36</td><td>10.20</td><td>10.15</td><td>3.041</td><td>0.868 4</td><td>0.954 8</td><td>0.384 7</td></tr><tr><td>90 日龄 90 days of age</td><td>9.77</td><td>12.78</td><td>9.57</td><td>7.72</td><td>1.046</td><td>0.392 3</td><td></td><td></td></tr><tr><td>120 日龄 120 days of age</td><td>9.36</td><td>9.70</td><td>10.63</td><td>10.20</td><td>1.193</td><td>0.9858</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>7.31</td><td>10.07</td><td>10.38</td><td>12.88</td><td>1.493</td><td>0.677 6</td><td></td><td></td></tr><tr><td>素LEP/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>平均值 Mean</td><td>5.67 7.12</td><td></td><td>6.26</td><td>5.71 1.471</td><td>0.739 2</td><td>0.976 5</td><td>0.733 4</td></tr><tr><td>90 日龄 90 days of age</td><td>6.11</td><td>7.67</td><td>5.82</td><td>4.72</td><td>0.539</td><td>0.273 2</td><td></td><td></td></tr><tr><td>120 日龄120 days of age</td><td>5.92</td><td>6.74</td><td>6.03</td><td>5.81</td><td>0.590</td><td>0.9519</td><td></td><td></td></tr><tr><td>150 日龄150 days of age</td><td>5.01</td><td>6.27</td><td>6.44</td><td>6.79</td><td>0.757</td><td>0.879 2</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.693 7</td></tr><tr><td></td><td>平均值 Mean</td><td>119.79</td><td>120.64</td><td>110.74</td><td>118.27</td><td>9.536 0.969 0</td><td>0.616 2</td><td></td></tr><tr><td>90 日龄 90 days of age</td><td>120.36</td><td>119.49</td><td>105.80</td><td>100.25</td><td>3.218</td><td>0.050 7</td><td></td><td></td></tr><tr><td>120 日龄120 days of age</td><td>105.78</td><td>125.49</td><td>117.58</td><td>110.76</td><td>6.736</td><td>0.7753</td><td></td><td></td></tr><tr><td>150 日龄 150 days of age</td><td>132.54</td><td>116.37</td><td>108.83</td><td>144.35</td><td>9.703</td><td>0.8529</td><td></td><td></td></tr></table></body></html>
+
+163 3讨论
+
+3.1含棕榈仁粕、油茶籽粕或茶籽粕饲粮对犊牛生长性能的影响
+
+生产实践中，动物的生产性能是反映动物生长状况的重要指标之一。有研究表明，在瑞士阉犊牛饲粮中添加1.5、2.5 和 $3 . 5 \mathrm { k g / d }$ 棕榈仁粕时，不同棕榈仁粕添加水平间牛的 ADG和 DMI均没有显著差异，但均高于饲喂纯牧草的对照组[9]。本试验中，添加棕榈仁粕饲粮的组采食量显著高于添加油茶籽粕或茶籽粕饲粮的组，添加棕榈仁粕后采食量提高的原因可能是棕榈仁粕的消化速度高于油茶籽粕和茶籽粕。有研究表明，与饲粮的消化率本身相比，反刍动物的来食量与饲粮的消化速度的相关性更高[10]。另外，棕榈仁粕无毒副作用，带有类似巧克力的味道，具有良好的适口性，这也是导致采食量提高的原因之一[I]。DMI 与犊牛 ADG 息息相关，本试验中，饲粮添加棕榈仁粕犊牛ADG 最高，达到了 $1 . 2 1 \mathrm { k g / d }$ 。本试验中，添加棕榈仁粕饲粮的组有机物等养分消化率高于添加油茶籽粕或茶籽粕饲粮的组，这也是该组ADG最高的原因之一。本试验促进犊牛生长的结果与赖景涛等[12]的研究结果一致，但与Carvalho 等[13]结果不太一致，可能是因为饲粮组成和营养水平不同，也可能是因为棕榈仁粕产地不同，营养成分存在差异，同时试验动物品种、性别和年龄也是造成结果出现差异的原因。
+
+# 3.2含棕榈仁粕、油茶籽粕或茶籽粕饲粮对犊牛消化代谢的影响
+
+DM和OM的采食与消化可以衡量机体健康状况和对饲粮的利用效率，并且衡量胃肠道结构和机能的发育[14-15]。本试验中，豆粕型饲粮和添加棕榈仁粕饲粮的2组的DM表观消化率无显著差异，且显著高于其他2组，各组间的OM表观消化率有出现差异显著的趋势，豆粕型饲粮和添加棕榈仁粕饲粮的2组高于其他2组，表明在肉犊牛饲粮中棕榈仁粕可部分替代豆粕。棕榈仁粕中较高的粗纤维含量改变了微生物区系，或是刺激胃肠道蠕动和粪便排泄，提高新陈代谢速率，引起犊牛对营养成分的需求增加，DM表观消化率提高。NDF和ADF是犊牛瘤胃纤维分解菌等的作用底物，经发酵后产生的挥发性脂肪酸又可为犊牛提供大量能量。因此，NDF和ADF的消化程度可反映瘤胃消化机能发育的优劣[16-17]。本试验中，饲喂豆粕型饲粮的犊牛NDF和ADF表观消化率都显著高于其他3组犊牛，其原因可能是棕榈仁粕、油茶籽粕和茶籽粕中存在一些抗营养因子，其中棕榈仁粕中主要含有甘露聚糖等非淀粉多糖[18],油茶籽粕中含有较高浓度的差皂素、单宁等，在一定程度上影响动物的适口性[]，茶籽粕中含有的茶皂素味苦，适口性差，且产生毒害作用，添加过量会影响动物的采食量和生产性能[19]。这些抗营养因子的存在降低了对NDF和ADF的采食量，使其通过胃肠道的速度加快，NDF与ADF与纤维降解菌的作用时间缩短；此外，这些抗营养因子的存在降低了饲粮能量浓度，减慢了断奶犊牛新陈代谢速率，降低了瘤胃对挥发性脂肪酸的吸收，纤维分解菌对NDF和ADF的降解速率减慢，从而引起消化率的降低[20]。
+
+3.3含棕榈仁粕、油茶籽粕或茶籽粕饲粮对犊牛能量利用率的影响饲粮提供的能量超出维持需要的部分将用于不同形式的生产。幼龄生长动物主要将能量贮存于新生的组织蛋白质中，而成年动物则会在脂肪中存积更多的能量，泌乳动物则把饲粮能量转化为乳成分中的能量[20]。本试验阶段的犊牛对能量利用主要集中在生长。研究报道，要提高能量的利用效率关键是提高能量的代谢率[21]。本试验4组的总能消化率维持在72%左右，受组别的影响较小，与Khan 等[22]报道结果（ $71 . 7 \%$ ）相近。本试验中，随粪尿及甲烷排出的能量约占 $41 \%$ ，总能代谢率和消化能代谢率平均值分别为 $5 7 . 1 1 \%$ 和 $78 . 9 9 \%$ 消化能和代谢能变化规律同总能摄入量，可能是因为经90d的饲养后，特牛由于采食不同饲粮胃肠道已发生改变，从而影响了能量的利用率。
+
+# 3.4含棕榈仁粕、油茶籽粕或茶籽粕饲粮对犊牛氮代谢的影响
+
+能量维持机体生命活动，蛋白质则是构成机体的重要成分，两者相互作用，共同促进机体生长发育。反刍动物对氮的利用主要是通过氮代谢途径[14]，氮源主要来自未被瘤胃消化吸收的食物蛋白质和脱落的肠黏膜细胞及肠道细菌等所含的氮。本试验4组饲粮蛋白质水平相近，由于150日龄饲喂豆粕型饲粮和添加棕榈仁粕饲粮的2组食入氮较高，消化氮和氮表观消化率都显著高于饲喂添加油茶籽粕或茶籽粕饲粮的2组。其原因可能是，油茶籽粕和茶籽粕中的茶皂素、单宁等抗营养因子影响犊牛适口性，造成采食氮减少，瘤胃微生物缺少氮源，从而影响其数量，经瘤胃微生物作用进入小肠的蛋白质量降低，引起氮的表观消化率显著降低。而且饲粮中能量与蛋白质含量应保持合适的比例，不当的比例也会降低犊牛对营养物质的利用效率[23]。本试验中，沉积氮和氮沉积率以添加棕榈仁粕饲粮的组最高，且与豆粕型饲粮的组差异不显著。可能是部分棕榈仁粕替代豆粕，其较高的纤维、糖含量和略低的蛋白质含量平衡了饲粮营养，更适合该阶段犊牛瘤胄及瘤胃微生物的生长发育，使经瘤胃微生物作用进入小肠的蛋白质增多，氮沉积率上升，用于合成体蛋白质含量增加，这与61\~150日龄较高的ADG相对应。
+
+# 3.5含棕榈仁粕、油茶籽粕或茶籽粕饲粮对犊牛血清生化指标的影响
+
+血清生化指标能综合反映家畜营养满足、新陈代谢、体内外环境平衡、机体健康生长及其生产性能[24]。血清尿素氮浓度可以准确地反映饲粮氨基酸的平衡情况和动物体内蛋白质的代谢情况，代表了动物机体短期的蛋白质营养状态[25]，一般与体内氮沉积、蛋白质或氨基酸的利用率呈显著的负相关关系[26]。对反刍动物来讲，瘤胃内的氨氮浓度在氨的释放速度与饲粮中的各种含氮物质在瘤胃内的降解速度以及瘤胃微生物利用氨合成菌体蛋白的速度达到平衡时，会保持一个相对稳定的值，这时血液中的氨浓度会降低，血清尿素氮的浓度也随之降低[27]。本试验中，添加棕榈仁粕饲粮和豆粕型饲粮的2组血清UN浓度显著降低，表明添加棕榈仁粕饲粮和豆粕型饲粮的氨基酸平衡状况或氮沉积优于其他2组，蛋白质的利用率高，与犊牛氮表观消化率、氮沉积率和增重趋势一致。GLU是动物机体能量平衡的重要指标，其变化是动物机体对糖吸收、转运、代谢的反映，血液GLU 浓度升高表明脂肪的沉积和蛋白质的合成增强[28-29]。血液中总蛋白（TP）是白蛋白（ALB）和球蛋白（GLB)之和，其中TP反映机体蛋白质吸收和代谢状况，ALB具有作为营养物质的载体、维持血浆渗透压、提供机体蛋白质等功能，GLB 浓度可反映机体的免疫能力[30]。甘油三酯（TG）是反映机体脂肪沉积的重要指标，当脂类消化吸收不好时，血清中总胆固醇酯和TG浓度均下降。本试验结果显示，添加棕榈仁粕饲粮的组相比其他3组显著提高血清GLU 和 TP 浓度，与特牛消化代谢和增重趋势一致，可能由于棕榈仁粕不含有毒性的抗营养因子，促进采食量，使得肉犊牛摄入的可消化养分相对较高，促进了GLU 和TP的生成，从而促进了脂肪的沉积和蛋白质的生成，利于犊牛生长。
+
+IGF-I经肝脏分泌进入血液后与其结合蛋白质结合，然后运输到其靶器官（如肌肉、骨骼等）上发挥作用。GH与IGF-I构成GH-IGF-I轴共同调节机体的生长发育，GH可刺激肝脏生成IGF-I，同时IGF-I对GH的生成有一定的抑制作用[31]。但在本试验中GH和IGF-Ⅰ之间并未呈现相互影响的关系，并且各组之间未出现显著性差异。Breier[32]和Louveau[33]研究发现，动物的营养状况在调节机体GH和IGF-I循环上起重要作用，随着动物采食蛋白质的增加，血清中GH波峰频率也相应增加。本试验中，各组间血清GH和IGF-I浓度没有出现显著差异，说明饲喂4种饼粕类饲粮对犊牛GH分泌没有显著影响，但这与棕榈仁粕组显著提高犊牛生长性能的结果不符，还有待进一步研究。LEP的本质是由脂肪细胞分泌的一种蛋白质，主要作用是调节能量的平衡[34]，进入血液后参与糖、脂肪和能量等的代谢，同时对其他激素的分泌也有一定的影响。本试验中，各组之间的血清LEP浓度无显著差异。本试验中多项激素指标难以形成规律，且没有出现显著差异，可能与环境、动物年龄及临时应激状态有关，不同饼粕类饲粮对犊牛激素水平的影响还有待进一步研究。
+
+# 4结论
+
+添加 $5 \%$ 棕榈仁粕的饲粮可以满足断奶夏杂牛对营养物质的需求，采食该饲粮不但可以使肉犊牛保持较高的ADG，而且此饲粮易消化利用，采食后相关血清生化指标均在正常范围内，并未影响特牛健康；而茶籽粕和油茶籽粕因降低犊牛采食量而影响体重增长，而且此饲粮不易消化利用。
+
+参考文献：
+
+[1]刁其玉,张乃峰.非常规饲料资源开发与应用评价[J].饲料与畜牧:新饲料,2010(10):8-12. [2]石风华.非常规饲料替代玉米饲喂肉牛对瘤胃发酵、养分消化率、生产性能和胴体品质的 影响[D].博士学位论文.北京:中国农业大学,2014.   
+[3] UEDA H,SHIGEMIZU G.Effects of tea saponin,cholesterol and oils on the growth and feed passage rates in chicks[J].Nihon Chikusan Gakkaiho,1998,69(1):14-21.   
+[4] WANG Y F,SUN D,CHEN H,et al.Fatty acid composition and antioxidant activity of tea (Camellia sinensis L.) seed oil extracted by optimized supercritical carbon dioxide[J].International Journal of Molecular Sciences,2011,12(11):7708-7719.   
+[5]熊道陵,张团结,陈金洲,等.茶皂素提取及应用研究进展[J].化工进 展,2015,34(4):1080-1087.   
+[6] 李岚捷,成述儒,刁其玉,等.饲粮非纤维性碳水化合物/中性洗涤纤维对肉犊牛生长性能和 营养物质消化代谢的影响[J].动物营养学报,2017,29(6):2143-2152.   
+[7] 许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊能量与蛋白质消化代谢的影响[J].中 国畜牧杂志,2012,48(17):40-44.   
+[8] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007:49-151. [9] AVELLANEDA-CEVALLOS J H,CEDENO-CEDENO T A,SUAREZ-CHIQUITO A,et al.Effect of palm kernel meal plus urea on finishing of Brown Swiss young buls[J].Journal of Dairy Science,2007,90:96-96.   
+[10]MCDONALDP,EDWARDSRA,GREENHALGHJFD,etal.F00d additives[M]/MCDONALD P,EDWARDS R A,GREENHALGH JF D,et al.Animal nutrition.7th ed.Harlow:Pearson Education Ltd.,2011:594-607.   
+[11]唐茂妍,陈旭东,和小明.棕榈仁粕在动物饲料中的应用研究[J].饲料工业,2013(20):45-48. [12] 赖景涛,李秀良,刘瑞鑫.棕榈仁粕取代等量玉米对泌乳牛和干奶牛的影响[J].广西畜牧兽 医,2010,26(6):329-331.   
+[13] CARVALHO L P F,MELO D S P,PEREIRA C R M,et al.Chemical composition,in vivo digestibility,Ndegradabilityandenzymaticintestinaldigestibilityoffiveprotein supplements[J].Animal Feed Science and Technology,2005,119(1/2):171-178.   
+[14]张卫兵,刁其玉,张乃锋,等.日粮蛋白能量比对 $8 { \sim } 1 0$ 月龄后备奶牛生长性能和养分消化的 影响[J].中国农业科学,2010,43(12):2541-2547.   
+[15]楼灿,姜成钢,马涛,等.饲养水平对肉用绵羊妊娠期消化代谢的影响[J].动物营养学 报,2014,26(1):134-143. [16] GOUET P,NEBOUT J M,FONTY G,et al.Celulolytic bacteria establishment and rumen digestion in lambs isolatedafterbirth[J].CanadianJournalofAnimal Science,1984,64(5):163-164.   
+[17] 李辉,刁其玉,张乃锋,等.不同蛋白水平对犊牛消化代谢及血清生化指标的影响[J].中国农 业科学,2008,41(4):1219-1226.   
+[18] KNUDSEN K E B.Carbohydrate and lignin contents of plant materials used in animal feeding[J].Animal Feed Science and Technology,1997,67(4):319-338.   
+[19] 张敏,孙艳发,李焰,等.日粮添加茶籽饼粕对肉鸡屠宰性能、血液生化指标和十二指肠黏 膜免疫功能的影响[J].中国家禽,2016,38(3):24-29.   
+[20] 崔祥,刁其玉,张乃锋,等.日粮能量水平对断奶特牛生长性能及营养物质消化代谢的影响 [J].畜牧兽医学报,2014,45(11):1815-1823.   
+[21] 穆阿丽,吴乃科,刘法孝,等 $. 4 { \sim } 6$ 月龄杂交犊牛能量需要量及其代谢规律的研究[J].家畜 生态学报,2007,28(1):23-26.   
+[22] KHAN M A,LEE H J,LEE W S,et al.Starch source evaluation in calf starter: II .Ruminal parameters,rumen development,nutrient digestibilities,and nitrogen utilization in Holstein calves[J].Journal of Dairy Science,2008,91(3):1140-1149.   
+[23] 张蓉.能量水平及来源对早期断奶特牛消化代谢的影响研究[D].硕士学位论文.北京:中 国农业科学院,2008.   
+[24] SUDRE K,CASSAR-MALEK I,LISTRAT A,et al.Biochemical and transcriptomic analyses of two bovine skeletal muscles in Charolais bulls divergently selected for muscle growth[J].Meat Science,2005,70(2):267-277.   
+[25] LAPIERRE H,LOBLEY G E.Nitrogen recycling in the ruminant:a review[J].Journal of Dairy Science,2001,84(S1):E223-E236.
+
+[26] PONNAMPALAM E N,EGAN A R,SINCLAIR A J,et al.Feed intake,growth,plasma glucose and urea nitrogen concentration,and carcass traits of lambs fed isoenergetic amounts of canola meal,soybeanmeal,andfish meal with foragebased diet[J].Small Ruminant Research,2005,58(3):245-252.
+
+[27] 李建国,李英,曹玉凤,等.蛋白质补充料替代日粮中棉籽饼对肉牛生产性能和血液生化指 标的影响[J].动物营养学报,2001,13(4):50-53.   
+[28] 安娇阳,吕秋凤,曹双,等.不同水平纤维素酶对肉鸡屠宰性能、免疫器官指数及血清生化 指标的影响[J].现代畜牧兽医,2011(12):56-61.   
+[29]龚飞飞,胡登林,赵正剑,等.补饲营养调控剂对暖季放牧羔羊生长发育及生化指标的影响 [J].中国草食动物科学,2011,31(4):26-29.   
+[30] 杨春涛,司丙文,斯琴巴特尔,等.补饲不同能氮比精料对牧区冬春季羔羊生长性能和血液 指标的影响[J].动物营养学报,2015,27(1):289-297.   
+[31]闫云峰,杨华,杨永林,等.日粮不同蛋白质水平对绵羊IGF-1 和GH分泌及基因表达的影 响[J].畜牧兽医学报,2015,46(1):85-95.   
+[32] BREIER B H.Regulation of protein and energy metabolism by the somatotropic axis[J].Domestic Animal Endocrinology,1999,17(2/3):209-208.   
+[33]LOUVEAUI,BONNEAUM.Biologyandactionsofsomatotropininthe pig[M]//RENAVILLE R,BURNY A,et al.Biotechnology in Animal Husbandry.Dordrecht:Springer,2001,5:111-131.   
+[34]王春艳,杜瑞平,张兴夫,等.瘦素及其生理功能概述[J].动物营养学报,2012,24(3):423-427. Effects of Diets Containing Palm Kernel Meal, Oil Tea Seed Meal and Tea Seed Meal on Digestion, Metabolism and Serum Biochemical Indexes of Weaned Calves   
+FAN Qingshan1,2BIYanliangl DIAO Qiyu1CHENG Shuru²FU Tong³TU Yan1\*   
+(1. Key Laboratory ofFeed Biotechnology of Ministry ofAgriculture,Feed Research Institute, Chinese Academy of Agricultural Sciences,Beijing 10o081, China; 2.College ofAnimal Science and TechnologyGansu Agricultural University,Lanzhou 73o7o,China; 3.Colege ofAnimal Husbandry and Veterinary Science, Henan Agricultural University,Zhengzhou 450002,China)   
+Abstract: The purpose of this study was to investigate the effects of diets containing palm kernel
+
+indexes of weaned calves. Forty-eight healthy weaned 76-day-old male calves weighted （ $7 9 . 5 { \pm } 0 . 7 9 \$ ）kg were randomly divided into four groups with twelve calves each. Calves were fed four diferent total mixed rations, which containing soybean meal (group A)， soybean meal+palm kernel meal (group B)， soybean meal+oil tea seed meal (group C） and soybean meal+tea seed meal (group D),respectively. The rations were adjusted to equal energy and protein contents. The supplemental levels of palm kernel meal, oil tea seed meal and tea seed meal in diet were $5 \%$ .The experiment lasted for $1 0 4 \mathrm { ~ d ~ }$ with $1 4 \mathrm { ~ d ~ }$ of adaptation period and $9 0 \mathrm { ~ d ~ }$ of formal period. Feed intake was recorded everyday， and body weight of calves was measured every $3 0 \mathrm { d }$ ：， digestion and metabolism experiment was carried out to determine nutrient digestibility and metabolic rate at 90 and 150 days of age using total feces collection method, respectively; blood of calves was collected from jugular vein every $3 0 \mathrm { d }$ to determine serum biochemical indexes. The results showed as follows: 1） average daily gain and dry matter intake of the whole period in group B were significantly higher than those in groups C and D $( P { < } 0 . 0 5 )$ ， and there was no significant difference between groups A and B $( P { < } 0 . 0 5 )$ . Feed/gain in group D was significantly higher than that in the other 3 groups $( P { < } 0 . 0 5 )$ . 2) At 150 days of age, the apparent digestibility of dry matter in groups A and B was significantly higher than that in group D $( P { < } 0 . 0 5 )$ ; the apparent digestibility of neutral detergent fiber in group A was significantly higher than that in the other 3 groups $_ { ( P < 0 . 0 5 ) }$ ; the apparent digestibility of acid detergent fiber in group A was significantly higher than that in groups B and D $( P { < } 0 . 0 5 )$ ； digestive energy in groups A，B and C was significantly higher than that in group D ( $( P { < } 0 . 0 5 )$ ; the apparent digestibility and deposition rate of nitrogen in group B were significantly higher than those in group D $( P { < } 0 . 0 5 )$ ，and had no significant difference with those in group A( $( P { > } 0 . 0 5 )$ . 3) At 61 to 150 days of age,serum glucose concentration in group B was significantly higher than that in groups A and C $( P { < } 0 . 0 5 )$ ， serum triglyceride concentration in group A was significantly lower than that in group D $( P { < } 0 . 0 5 )$ ,and serum urinary nitrogen concentration in group C was significantly higher than that in groups A,B, D $( P { < } 0 . 0 5 )$ ； at 90 days of age，serum total protein concentration in groups B and C was significantly higher than that in group A $( P { < } 0 . 0 5 )$ ； at 150 days of age， serum globulin concentration in group A was significantly higher than that in group C $( P { < } 0 . 0 5 )$ . To sum up , when $5 \%$ palm kernel meal is added to diet, the growth of Charolais crossbred calves can be the
+
+same as those fed full soybean meal diet, the diet is easy to digest and utilize,serum biochemical indexes are in normal range,and of calves' health are not affected; the additions of $5 \%$ tea seed meal and oil tea seed meal decrease feed intake,digestive nitrogen, apparent digestibility of nitrogen, and affect growth and development of calves.   
+Key words: Charolais crossbred calves; palm kernel meal; oil tea seed meal; tea seed meal; serum biochemical index; digestion and metabolism

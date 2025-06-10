@@ -1,0 +1,564 @@
+[
+    {
+        "type": "text",
+        "text": "中文领域专业术语层次关系构建研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱惠杨建林王昊  \n(南京大学信息管理学院南京 210023)  \n(江苏省数据工程与知识服务重点实验室南京 210023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】对如何从中文非结构化文本获取术语的层次关系进行探讨。【方法】从CNKI获取数字图书馆学科领域文献，通过术语抽取、术语向量空间模型构建、BIRCH算法聚类和聚类标签确定构建术语的语义层次结构。【结果】构建数字图书馆领域术语的层次结构，并对构建结果进行验证，聚类正确率达到 $80 . 8 8 \\%$ ，类标签抽取正确率达到 $89 . 7 1 \\%$ 。【局限】对构建效果的验证是通过随机抽样进行的，且仅与一种其他构建方法进行实证比较。【结论】应用BIRCH算法聚类构建术语层次结构，该方法与K-means聚类方法相比具有明显优势，具备较高的执行效率和聚类有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：术语层次关系本体本体学习聚类分类号：TP391",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "领域术语层次关系是领域知识本体的重要组成部分，它将领域术语分类别按层次进行组织，为领域知识的搜索、重用及进一步理解提供条件。甚至有研究认为本体就是具有包含关系的概念之间的一种层次结构[1-2]。人工构建术语层次结构耗时耗力，且受到领域专家背景知识的限制，缺少客观性和一致性，因此借助知识自动获取方法和技术构建术语层次结构便成为一个新的研究方向。目前，常用的获取术语层次关系的方法之一是基于 Harris 假设的方法[3]。该假设的具体内容是：若两个术语的上下文语境相似，则这两个术语也是相似的[4]。已有学者对该假设进行了验证，并证明是有效的[5]。基于Harris 假设，可以引入聚类方法构建术语层次结构。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文试图在建立术语向量空间模型的基础上，将BIRCH算法和术语共现理论引入到领域本体的术语层次关系构建中，并通过对术语向量空间模型的优化改进聚类结果，由此形成一种从中文非结构化文本构建领域术语层次关系的具体方法。BIRCH算法是针对大数据的一种聚类方法，已有学者将其应用在文本聚类、大规模网络数据聚类等方面，但还没发现应用在术语层次构建中，因此，本文尝试引入该算法构建术语的层次结构，并与其他聚类方法进行比较分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外已有学者对基于非结构化文本如何获取术语层次关系进行了相关研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun等[集成语义分析和数学统计方法，提出一种监督学习方法获得术语以及术语的层次关系。Hu等[7探讨如何运用机器学习方法(SVMs和CRFs)将网络百科全书中结构化的知识转化成本体形式。Colace等[8提出一个融合了语义分析、数学统计等方法的本体学习系统。Meijer等[利用词性标注器从语料中抽取术语，利用相关过滤方法获得领域相关度较高的术语，并对术语进行词义消歧，最后基于术语共现关系利用归类技术获得术语的层次关系。DeKnijf等[1o利用语法分析器从文本语料中抽取术语，采用归类和层次聚类两种方法获得概念的层次关系。Rios-Alvarado等[2针对具体领域的文本语料利用聚类分析、语言模式以及上下文信息构建了术语的层次结构。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "季培培等[1]采用多重聚类方法获取术语的层次关系。林源等[12]利用基于规则与统计相结合的方法提取领域术语，并插入到由ODP构建的树中得到领域术语的层次关系。彭成等[13]提出利用确定性退火的多重聚类算法获取术语层次关系的流程。谷俊等[14提出利用蚁群聚类算法对中文术语进行预聚类，再利用K-means聚类算法对预聚类结果进行聚类获得术语的层次关系。韩红旗等[15]提出基于词形规则模板匹配的术语层次关系抽取方法，实现从科技论文文本中抽取类属关系和整体部分关系。涂鼎等[1使用主题模型对评论集进行描述选出最具代表性的主题词作为候选术语，进而利用WordNet提取术语间语义关联，最终通过多路聚类获得术语层次关系。李树青[17提出一种利用引文关键词共现技术自动构建图情学科领域术语层次语义关系的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上述内容可知，国内外学者尝试采用多种知识自动获取方法和技术构建术语层次结构，其中，聚类方法运用较多，主要有K-means聚类、层次聚类、蚁群聚类、基于确定性退火的聚类等，而且通常是多种聚类方法结合或同一聚类方法多重使用才能达到较好的效果。但这些聚类方法存在以下主要缺陷：不适合大型数据的聚类，例如层次聚类，由于占用内存较大导致在大数据上执行效率较低；不能自动确定聚类数目，例如K-means聚类，需要人工指定聚类数目；离群点和噪声数据对聚类结果产生直接影响，这可能导致局部聚类效果较优，但无法得到较为均匀的聚类结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文首先利用BIRCH算法进行预聚类，进而对预聚类结果进行层次聚类，这样能避免上述聚类缺陷。BIRCH算法由 Zhang 等[18]于1997 年提出，采用聚类特征树存储数据，能诊断离群点和噪声数据、有效解决大数据集的聚类问题、利用贝叶斯信息准则以及类合并过程中类间差异性最小值变化的相对指标确定最优的聚类数目。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于BIRCH聚类的术语层次关系获取方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节重点探讨基于BIRCH聚类从非结构化文本获取术语层次关系的方法和过程，并分析术语向量空",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "间的变化对术语层次结构的影响，这里的非结构化文本由期刊论文的标题、摘要和关键词构成",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 术语抽取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科研人员是学科领域术语动态变化过程的直接参与者和见证者，他们撰写的科研文献记载了学科的动态发展过程，文献的关键词则是学科研究内容的凝练因此，可以从科研文献的关键词中抽取领域术语。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但文献作者给出的关键词具有较大的随意性、不一致性以及误差性，因此，有必要对这些候选术语进行统一规范，以符合同一概念的术语唯一化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "领域术语是专业词汇，必须具有一定的领域认可度，因此，本文采用关键词在所有文档中出现的频数$\\mathrm { N _ { k } }$ 作为筛选条件，即若：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Nu _ { \\mathrm { k } } { \\geqslant } \\mathrm { C }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则认为该关键词被领域普遍认可，可作为该领域的术语，其中C为词频阈值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2术语向量空间模型构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以文档为特征项描述术语形成术语向量空间模型，是后续对术语进行聚类的数据基础。以术语集为词典，借助中文分词工具NLPIR 获得文档和术语间的语义关联[19]，构建文档术语频数矩阵，再进行 TF-IDF特征项权重计算，得到术语文档权重矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在术语文档向量空间模型中，测度术语间的亲疏程度是依赖术语在文档中的共现。在较短的非结构化文档中，由于术语量较少，导致术语的共现关系较少,术语文档矩阵较稀疏。而从较稀疏的矩阵中挖掘术语的层次关系，效果可能不尽理想。那么，如何增加术语的共现关系，以使得相应矩阵中的数据更稠密呢？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在术语文档向量空间模型中，文档是术语共现的中介，若术语T1、T2均与文档Di关联，则术语T1与术语 T2共现。而文档是由许多词汇构成的，因此，也可认为T1与文档Di的所有wi个词汇产生关联，由此，原来的一个术语文档关联扩展成wi个术语词汇关联。同样，T2也与文档Di的所有wi个词汇产生关联，则T1与T2以词汇为中介产生了共现关系。中介转变后，术语的共现关系将会发生明显的变化：原本具备共现关系的术语，它们的共现关系将保持且共现频数会增加；原本不具备共现关系的术语，若各自关联的文档拥有相同的词汇，则会产生关联，从而具备共现关系[20]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用NLPIR以术语集为用户词典对非结构化文档进行分词，选取其中的名词词汇，并去除停用词和低频词，得到所需词汇。术语通过与其关联的文档找到与其关联的词汇，获得术语词汇关联，由此产生<术语，词汇，共现频数 $>$ 三元组关系，进一步，笔者引入Ochiia系数度量术语与词汇之间关联关系的强弱，形成 $<$ 术语，词汇，关联系数 $>$ 三元组关系，构建术语词汇权重矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 两步聚类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于术语向量空间模型，采用两步聚类法进行聚类：利用BIRCH算法进行预聚类，获得较为“粗糙\"的聚类结果，在此基础上利用层次聚类获得术语的层次结构。在聚类过程中，对于不满足聚类结束条件的类别均要再次进行两步聚类，因此整个聚类过程是一个多重两步聚类，如图1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2df9546025d250788f79a4d06c59e3555c83cfdf25807101506bb00c039474e.jpg",
+        "img_caption": [
+            "图1领域术语层次关系获取方法及流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIRCH算法涉及到两个主要概念：聚类特征CF(Clustering Feature)和聚类特征树CF tree。CF tree中的节点」就是类j，记为 $\\mathrm { C F _ { j } }$ ，包含三个部分：$\\mathrm { C F _ { j } = \\{ N _ { j } , S _ { A j } , S _ { A j } ^ { 2 } \\} }$ ，其中 $\\mathrm { N _ { j } }$ 为节点所包含的术语个数， $\\mathrm { \\Delta S _ { A j } }$ 为 $\\mathrm { N _ { j } }$ 个术语的线性和, $\\mathrm { S _ { A j } ^ { 2 } }$ 为 $\\mathrm { N _ { j } }$ 个术语的平方和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如，假设节点 $\\mathrm { C F } _ { 1 }$ 中有三个数据:(1,2)、(3,4)、(5,6),则 $\\mathrm { C F } _ { 1 } = \\{ 3$ ， $( 1 + 3 + 5 , ~ 2 + 4 + 6 )$ ， $( 1 ^ { 2 } + 3 ^ { 2 } + 5 ^ { 2 }$ ， $2 ^ { 2 } { + } 4 ^ { 2 } { + }$ $6 ^ { 2 } ) \\} = \\{ 3$ (9,12), (35,56)} 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于由第j类和第s类合并形成的新的<j, $\\mathbf { s } { > }$ 类：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C F } _ { < j , \\mathrm { s } > } = \\{ \\mathrm { N } _ { \\mathrm { j } } + \\mathrm { N } _ { \\mathrm { s } } , \\mathrm { S } _ { \\mathrm { A j } } + \\mathrm { S } _ { \\mathrm { A s } } , \\mathrm { S } _ { \\mathrm { A j } } ^ { 2 } + \\mathrm { S } _ { \\mathrm { A s } } ^ { 2 } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIRCH算法的具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 视所有术语为一个大类，计算CF，创建根节点;  \n$\\textcircled{2}$ 读入一个术语，从根节点开始，计算该术语与中间节点(子类)的对数似然距离，并沿着对数似然距离最小的中间节点依次向下选择路径直到叶节点;  \n$\\textcircled{3}$ 计算术语与子树中所有叶节点的距离，判断最小距离是否小于阈值是，则术语被吸收，判断新插入术语的叶节点是否包含足够多的术语",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是，则分裂该节点，该节点变成中间节点，重新计算叶节点的CF否，则不分裂该节点否，则开辟新的叶节点，重新计算叶节点和所有父节点的CF$\\textcircled{4}$ 判断叶节点的数目是否达到最大聚类数目是，判断术语是否全部被处理是，结束聚类否，适当增加聚类阈值重新构建较小的CFtree否，判断术语是否全部被处理是，结束聚类否，继续处理下一个术语",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "两步聚类法在第二步层次聚类过程中通过两个阶段自动确定聚类数目。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）第一阶段，以贝叶斯信息准则(BayesianInformationCriterion,BIC)作为判定标准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设聚类数目为J，则有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B I C ( J ) } = - 2 \\sum _ { \\mathrm { j = 1 } } ^ { \\mathrm { J } } \\xi _ { \\mathrm { j } } + \\operatorname* { m } _ { \\mathrm { J } } \\log \\mathrm { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { \\mathrm { m _ { J } = J ( 2 K ^ { A } + \\sum _ { k = 1 } ^ { K _ { B } } ( L _ { k } - 1 ) ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "贝叶斯信息准则的第一项即公式(3)反映的是J类对数似然总和，是类内差异性的总度量，第二项即公式(4)是一个模型复杂度的惩罚项，当数据确定后,J越大该项值越大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若所有样本数据合并成一个大类，此时公式(3)值最大，公式(4)值最小。当预聚类数目增加时，公式(3)值减少，公式(4)值增大，通常增大幅度小于减少幅度,因此总值减少；当预聚类数目增加到J时，公式(3)值增大幅度开始大于减少幅度，总值开始增大，此时的J为聚类数目的\"粗略\"估计值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）第二阶段，对第一阶段的\"粗略\"估计值J作修正。用到的指标是：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf R } _ { 2 } ( \\mathrm { J } ) = \\frac { { \\bf d } _ { \\operatorname* { m i n } } ( { \\bf C } _ { \\mathrm { J } } ) } { { \\bf d } _ { \\operatorname* { m i n } } ( { \\bf C } _ { \\mathrm { J } + 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， ${ \\bf d } _ { \\mathrm { m i n } } ( { \\bf C } _ { \\mathrm { J } } )$ 为聚类数目为」时，两两类间对数似然距离的最小值。 ${ \\bf R } _ { 2 } ( { \\bf J } )$ 反映层次聚类的类合并过程中，类间差异性最小值的变化，值越大表明 $_ { \\mathrm { J + 1 } }$ 类合并到J类越不恰当。可依次计算 $ { \\mathrm { R } } _ { 2 } ^ { } (  { \\mathrm { J } } - 1 )$ 、$ { \\mathrm { R } } _ { 2 } ^ { } (  { \\mathrm { J } } - 2 )$ 到 ${ \\mathrm R } _ { 2 } ( 2 )$ 的值，找到其中的最大值和次大值，如果最大值是次大值的1.15倍以上，则最大值所对应的J为最终聚类数目，否则，最终聚类数目J为最大值对应的聚类数目和次大值对应聚类数目中的较大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4 类标签的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "领域术语层次结构的建立过程也伴随着类标签的确定。本文针对术语层次关系中各层次的各类别，计算类中各术语的综合语义相似度，把拥有最大综合语义相似度的术语提取出来作为类标签[11]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设术语 $\\mathrm { { T } _ { i } \\mathrm { { = } ( w _ { i l } , \\ w _ { i 2 } , \\ \\cdots , \\ w _ { i m } ) _ { \\Omega } } }$ ，术语 $\\mathrm { T _ { j } = } ( \\mathrm { w _ { j 1 } }$ $\\mathbf { w } _ { \\mathrm { j } 2 } , \\cdots , \\mathbf { w } _ { \\mathrm { j m } } )$ ，则 $\\mathrm { T _ { i } }$ 与 $\\mathrm { T _ { j } }$ 的语义相似度定义为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m ( T _ { i } , T _ { j } ) = \\frac { \\displaystyle \\sum _ { k = 1 } ^ { m } w _ { i k } \\cdot w _ { j k } } { \\sqrt { \\displaystyle \\sum _ { k = 1 } ^ { m } w _ { i k } ^ { 2 } \\cdot \\sum _ { k = 1 } ^ { m } w _ { j k } ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "术语的综合语义相似度是指该术语与类中其他所有术语语义相似度之和。假设类中包含术语 $\\operatorname { T } _ { 1 } , \\operatorname { T } _ { 2 } , \\cdots$ $\\mathrm { T _ { i } , \\cdots , T _ { n } , }$ 则术语 $\\mathrm { T _ { i } }$ 的综合语义相似度为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S u m S i m ( T _ { i } ) = \\sum _ { j = l , j \\ne i } ^ { n } S i m ( T _ { i } , T _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若术语具有最大综合语义相似度，可认为该术语在当前类中代表了最宽泛的语义内容，能作为该类的标签。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以数字图书馆学科领域的期刊论文作为分析对象，基于术语词汇语义关联进行聚类，并对构建的术语层次关系进行有效性验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 数据预处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以\"数字图书馆\"为主题词，在CNKI中国期刊全文数据库的核心期刊范围内检索1996年-2011年期间发表的论文，共计7746篇，抽取标题、摘要和关键词构成非结构化文档。通过术语抽取最终获得911个术语，以这些术语为用户词典进行NLPIR分词，共得到50992个术语文档关联。若以词汇作为术语的共现中介，通过分词和过滤共获得2168个词汇和105477个术语词汇语义关联。从数据上可以发现术语词汇语义关联数明显大于术语文档语义关联数，语义关联增强，所构建的向量空间也更稠密。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 聚类数目的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用的两步聚类法可自动确定聚类数目。设定如下方案：领域专家确定各层聚类数目的取值范围，再由两步聚类法在此范围内自动选出最佳的聚类数目。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设：n表示类中的术语数;MaxNum表示不允许聚类的最大术语数，即若类中术语数小于等于该值，则停止聚类，否则继续；Ceil(X)表示大于等于X的最小整数。笔者根据领域特点对各层次聚类数目范围的设定如下：第一层次聚类数目范围为10-15；第二层次聚类数目范围为5-10；其后各层次的聚类数目范围与类中包含的术语数目有关：若术语数目大于等于$5 { \\times } \\mathrm { M a x N u m }$ ，则聚类数目范围为5-Ceil(n/MaxNum),否则为 Ceil(n/MaxNum)-5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 聚类结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对某个领域，并不知道MaxNum取值多少为最佳，因此笔者对MaxNum的取值进行多次尝试。令$\\mathrm { M a x N u m } { = } \\{ 5 , 1 0 , 1 5 , 2 0 \\}$ ，共进行4次尝试，实验结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个好的聚类层次结构中，整体的深度、宽度以及类内节点数的多少都需较为合理。笔者根据学科领域特点及对聚类结果的观察，最终选定 $\\mathrm { M a x N u m } { = } 1 0$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚类结果中第1层次各类别的相关数据如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9830e013a39c9616e2e847701f7c2b72fa851d9972a346af0e347cc3c776d79c.jpg",
+        "table_caption": [
+            "表1不同MaxNum取值下的聚类结果"
+        ],
+        "table_footnote": [
+            "第1层类\"C3_知识服务\"具体层次结构及其包含"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>MaxNum =5</td><td>MaxNum =10</td><td>MaxNum =15</td><td>MaxNum =20</td></tr><tr><td>聚类形成的总簇数</td><td>301</td><td>190</td><td>143</td><td>129</td></tr><tr><td>第1层簇数</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>第2层簇数</td><td>51</td><td>51</td><td>51</td><td>51</td></tr><tr><td>第3层簇数</td><td>118</td><td>96</td><td>82</td><td>68</td></tr><tr><td>第4层簇数</td><td>96</td><td>33</td><td>0</td><td>0</td></tr><tr><td>第5层簇数</td><td>26</td><td>0</td><td>0</td><td>0</td></tr><tr><td>整体最小层次数</td><td>4</td><td>3</td><td>3</td><td>3</td></tr><tr><td>整体最大层次数</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>类内最多术语数</td><td>5</td><td>10</td><td>15</td><td>19</td></tr><tr><td>类内最少术语数</td><td>1</td><td>1</td><td>2</td><td>3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8ee6b2d1cf9a70921a62bb2c3aea7bffda02c0667aa309d95f76d87f869e6e4.jpg",
+        "table_caption": [
+            "表2聚类第1层各类别情况"
+        ],
+        "table_footnote": [
+            "的部分术语如表3所示："
+        ],
+        "table_body": "<html><body><table><tr><td>顶层</td><td>第1层 类号</td><td>类标签</td><td>术语 数</td><td>第2层 聚类数</td><td>第3层 聚类数</td><td>第4层 聚类数</td><td>簇数 合计</td></tr><tr><td rowspan=\"7\">数 字 图 书 馆</td><td>C1</td><td>版权</td><td>103</td><td>5</td><td>10</td><td>6</td><td>21</td></tr><tr><td>C2</td><td>安全</td><td>87</td><td>5</td><td>11</td><td>4</td><td>20</td></tr><tr><td>C3</td><td>知识服务</td><td>91</td><td>5</td><td>10</td><td>2</td><td>17</td></tr><tr><td>C4</td><td>Lib2.0</td><td>78</td><td>5</td><td>7</td><td>2</td><td>14</td></tr><tr><td>C5</td><td>存储</td><td>77</td><td>5</td><td>7</td><td>3</td><td>15</td></tr><tr><td>C6</td><td>个性化</td><td>114</td><td>5</td><td>14</td><td>2</td><td>21</td></tr><tr><td>C7</td><td>评价</td><td>126</td><td>6</td><td>13</td><td>8</td><td>27</td></tr><tr><td></td><td>C8 资源</td><td></td><td>72</td><td>5</td><td>8</td><td>2</td><td>15</td></tr><tr><td></td><td>C9</td><td>门户</td><td>98</td><td>5</td><td>12</td><td>4</td><td>21</td></tr><tr><td></td><td>C10</td><td>多媒体</td><td>64</td><td>5</td><td>4</td><td>0</td><td>9</td></tr><tr><td>合计</td><td></td><td>二</td><td>910</td><td>51</td><td>96</td><td>33</td><td>二</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/456c8f7a33f612db42720e5a5738c3b5738d294f2e0937f9db42ae0c4bf3ac85.jpg",
+        "table_caption": [
+            "表3类\"C3知识服务\"的层次结构及其内容"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>第2层</td><td>第3层</td><td>第4层</td><td>第2层</td><td>第3层</td><td>第4层</td><td>第5层</td></tr><tr><td>本体</td><td></td><td></td><td>语义网格</td><td></td><td></td><td></td></tr><tr><td></td><td>领域本体</td><td></td><td></td><td>知识管理系统</td><td></td><td></td></tr><tr><td></td><td>知识共享</td><td></td><td></td><td></td><td>数字化权</td><td></td></tr><tr><td></td><td>知识库</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>知识组织</td><td></td><td></td><td>知识组织系统</td><td></td><td></td></tr><tr><td></td><td>……·</td><td></td><td></td><td></td><td>人性化服务</td><td></td></tr><tr><td>知识网络</td><td></td><td></td><td></td><td></td><td>推送技术</td><td></td></tr><tr><td></td><td>信息环境</td><td></td><td></td><td></td><td>语义互联</td><td></td></tr><tr><td></td><td></td><td>服务功能 知识创新</td><td></td><td>OWL-S</td><td>…</td><td></td></tr><tr><td></td><td></td><td>知识经济</td><td></td><td></td><td>服务组合</td><td></td></tr><tr><td></td><td>运行机制</td><td></td><td></td><td></td><td></td><td>OWL</td></tr><tr><td></td><td></td><td>规范控制</td><td></td><td></td><td></td><td>本体学习</td></tr><tr><td></td><td></td><td>知识获取</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>知识网格</td><td></td><td>军队院校图书馆</td><td></td><td></td></tr><tr><td></td><td></td><td>……</td><td></td><td></td><td>军队院校</td><td></td></tr><tr><td>集成服务</td><td></td><td></td><td></td><td></td><td>人文关怀</td><td></td></tr><tr><td></td><td>网格计算</td><td></td><td></td><td></td><td>……</td><td></td></tr><tr><td></td><td></td><td>信息集成服务</td><td>3G</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>移动服务</td><td></td><td>泛在图书馆</td><td></td><td></td></tr><tr><td></td><td></td><td>可用性</td><td></td><td></td><td>泛在化服务</td><td></td></tr><tr><td></td><td></td><td>隐私保护</td><td></td><td></td><td>泛在智能</td><td></td></tr><tr><td></td><td></td><td>……</td><td></td><td></td><td>...</td><td></td></tr><tr><td></td><td>信息资源组织</td><td></td><td></td><td>手机图书馆</td><td></td><td></td></tr><tr><td></td><td></td><td>信息服务模式</td><td></td><td></td><td>手机</td><td></td></tr><tr><td></td><td></td><td>资源配置</td><td></td><td></td><td>无线网络</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚类分析是一个无监督学习方法，不同参数的设定和实验方案的设计会导致不同的结果。目前还没有统一的标准对聚类结果进行评价，因此，本文通过领域专家对结果进行验证。随机抽取了层次结构中的10个父类及其子类，对聚类效果以及类标签抽取的合理性进行考察。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对抽取出来的每一个父类及其子类：查看子类标签间的关联关系，若大部分的子类标签间具有较强的关联关系，则认为聚类效果较好；查看子类标签与父类标签的关联关系，若大部分的子类标签与父类标签有较强关联关系，则认为类标签的抽取较合理。相关数据如表4所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f383e7c407031e5bdedbc6b3fc1d8e2127f31eec7e49dc456c052861558214a.jpg",
+        "table_caption": [
+            "表4聚类效果及类标签抽取合理性检验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>父类编号</td><td>父类标签</td><td>包含的 子类数Si</td><td>有关联关系的 子类数 SSRi</td><td>聚类正确率(%) SSR; / Si</td><td>与父类标签有关联的 子类标签数 SFRi</td><td>类标签抽取正确率(%) SFRi/Si</td></tr><tr><td>C4</td><td>Lib2.0</td><td>5</td><td>5</td><td>100.00</td><td>5</td><td>100.00</td></tr><tr><td>C3</td><td>知识服务</td><td>5</td><td>4</td><td>80.00</td><td>4</td><td>80.00</td></tr><tr><td>C4_1</td><td>社会阅读</td><td>5</td><td>4</td><td>80.00</td><td>4</td><td>80.00</td></tr><tr><td>C1_4</td><td>知识产权</td><td>6</td><td>4</td><td>66.67</td><td>4</td><td>66.67</td></tr><tr><td>C3_1</td><td>本体</td><td>10</td><td>7</td><td>70.00</td><td>9</td><td>90.00</td></tr><tr><td>C5_1</td><td>网站</td><td>9</td><td>9</td><td>100.00</td><td>9</td><td>100.00</td></tr><tr><td>C8_3_1</td><td>数字图书馆建设</td><td>7</td><td>6</td><td>85.71</td><td>8</td><td>100.00</td></tr><tr><td>C9_1_1</td><td>资源组织</td><td>7</td><td>5</td><td>71.43</td><td>7</td><td>100.00</td></tr><tr><td>C6_3_4_1</td><td>计量分析</td><td>7</td><td>5</td><td>71.43</td><td>5</td><td>71.43</td></tr><tr><td>C7_6_2_2</td><td>数字图书馆评价</td><td>7</td><td>6</td><td>85.71</td><td>6</td><td>85.71</td></tr><tr><td>合计</td><td></td><td>68</td><td>55</td><td>80.88</td><td>61</td><td>89.71</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4数据可以得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）关于聚类效果。从随机抽取样本的评价结果来看，大部分的类中成员间关系较紧密，聚类正确率均大于等于 $6 6 . 6 7 \\%$ ，平均值达到 $80 . 8 8 \\%$ 。这也反映了本研究所采用的聚类方法能有效针对稀疏数据进行聚类分析。类\"C3知识服务\"包含的下层5个子类分别为“C3_1_本体”、“C3_2_知识网络”、“C3_3_语义网格”“C3_5_集成服务”、“C3_4_3G\"，易知其中的前4个子类间有较强的关联关系，而\"C343G\"与其他术语并无明显的关联关系，故排除在外，聚类正确率为 $80 \\%$ ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）关于类标签抽取。在随机抽取的样本中，大部分类的标签抽取较为合理，能与类中较多成员产生关联。类标签抽取正确率均大于等于 $6 6 . 6 7 \\%$ ，平均值达到 $89 . 7 1 \\%$ 。类\"C3_知识服务\"的5个子类中，“C3_1_本体”、“C3_2_知识网络” $^ { \\mathfrak { s } } \\mathrm { C } 3 _ { - } 3 _ { - }$ 语义网格”和\"C3_5_集成服务\"这4个子类的标签与父类标签有较强的关联关系，因此类标签抽取正确率为 $80 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4与K-means聚类效果比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用K-means聚类方法对术语进行层次构建，并与BIRCH算法进行比较，具体数据如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/89f6c0e535a14fa7635ca871242262bbce4ba6ec4af733dda8654a26bb6fbd4b.jpg",
+        "table_caption": [
+            "表5BIRCH算法聚类与K-means 聚类结果比较 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>聚类方法</td><td rowspan=\"3\">BIRCH算法聚类</td><td rowspan=\"3\">K-means聚类</td></tr><tr><td>指标</td><td></td></tr><tr><td>聚类总簇数</td><td>190</td></tr><tr><td>聚类最深层次数</td><td></td><td>5</td><td>398 18</td></tr><tr><td>类内最少术语数</td><td></td><td>1</td><td>1</td></tr><tr><td>类内最多术语数</td><td></td><td>10</td><td>10</td></tr><tr><td></td><td></td><td>80.88</td><td>70.39</td></tr><tr><td>平均聚类正确率(%)</td><td></td><td></td><td></td></tr><tr><td>平均类标签抽取正确率(%)</td><td></td><td>89.71</td><td>55.59</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对两种聚类方法的过程和结果进行了比较分析：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)BIRCH算法聚类在确定聚类数目上有优势。K-means聚类方法需要指定具体的聚类数目，不同的聚类数目确定方案会导致不同的结果，因此，需要花费时间和精力制定合理的方案并进行不断尝试。BIRCH算法聚类可以在一定的聚类数目范围上根据相关指标自动确定聚类数目。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)BIRCH算法聚类更适合稀疏型数据。K-means聚类结果中有大量只含有一个术语的类,通过观察,有些术语完全可以并入其他类中，而BIRCH算法聚类的结果中这种现象较少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)BIRCH算法聚类结果的整体宽度和深度更为合理。K-means聚类的总簇数达到了BIRCH算法聚类的两倍，并且聚类最深层次达到18，这样的聚类结构不能客观合理地反映术语的事实层次关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)BIRCH算法聚类的有效性高于K-means聚类。通过随机抽取的样本进行计算，K-means聚类的平均聚类正确率是 $70 . 3 9 \\%$ ，平均类标签抽取正确率是$5 5 . 5 9 \\%$ ，低于BIRCH算法聚类的 $80 . 8 8 \\%$ 和 $89 . 7 1 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种从领域非结构化文本获取术语层次关系的方法，该方法通过术语抽取、术语向量空间模型构建、BIRCH算法聚类和聚类标签确定获取术语的语义层次关系。该方法利用术语词汇向量空间代替术语文档向量空间，从而提高了空间的数据稠密度，为后续BIRCH聚类的应用提供了良好的数据基础。BIRCH聚类与其他相关聚类方法相比，具备以下明显优势：适合大数据集的聚类；能诊断离群点和噪声数据；能自动确定聚类数目。本文以数字图书馆领域为例论证了该方法的可行性和有效性，但也存在一些缺陷，对于构建效果的验证只是基于随机抽样进行，且仅与一种其他构建方法进行实证比较。在今后的研究工作中，笔者将进一步尝试运用不同的机器学习方法(半)自动获取领域术语层次关系，探讨更有效可行的策略和方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Gruber T R.A Translation Approach to Portable Ontology Specifications [J]. Knowledge Acquisition，1993,5(2): 199-220.   \n[2] Rios-Alvarado A B，Lopez-Arevalo I, Sosa-Sosa V J. Learning Concept Hierarchies from Textual Resources for Ontologies Construction [J].Expert Systems with Applications, 2013,40(15): 5907-5915.   \n[3] 温春，石昭祥，张霄．本体概念层次获取方法综述[J]．计 算机应用与软件，2010，27(9):103-107.(Wen Chun，Shi Zhaoxiang，Zhang Xiao．A Survey on Ontology Concept Hierarchy Acquisition [J]. Computer Applicationsand Software,2010,27(9): 103-107.)   \n[4] Harries Z S.Mathematical Structures of Language [M].New York:Wiley,1968.   \n[5]Miller G A,Charles W.Contextual Correlates of Semantic Similarity [J].Language and Cognitive Processes,1991,6(1): 1-28.   \n[6]Sun C, Zhao M, Long Y J.Learning Concepts and Taxonomic RelationsbyMetricLearningforRegression[J]. Communications in Statistics-Theory and Methods,2014, 43(14): 2938-2950.   \n[7]Hu F H, Shao Z Q，Ruan T. Self-Supervised Chinese Ontology Learning from Online Encyclopedias [J].The Scientific World Journal,2014:Article ID 848631.   \n[8]Colace F,De Santo M，Greco L，et al. Terminological Ontology Learning and Population Using Latent Dirichlet Allocation[J]. Journal of Visual Languages and Computing, 2014,25(6): 818-826.   \n[9]Meijer K,Frasincar F, Hogenboom F.A Semantic Approach for Extracting Domain Taxonomies from Text [J].Decision Support Systems,2014,62:78-93.   \n[10]De Knijff J,Frasincar F,Hogenboom F.Domain Taxonomy Learning from Text: The Subsumption Method Versus Hierarchical Clustering[J]. Data & Knowledge Engineering, 2013,83: 54-69.   \n[11]季培培，鄢小燕，岑咏华，等．面向领域中文文本信息处 理的术语语义层次获取研究[J]．现代图书情报技术, 2010(9): 37-41. (Ji Peipei, Yan Xiaoyan, Cen Yonghua, et al. Research of Term Semantic Hierarchy Inductionfor Domain-specific Chinese Text Information Processing [J]. New Technology of Library and Information Service, 2010(9): 37-41.)   \n[12]林源，陈志泊，孙俏．计算机领域术语的自动获取与层次 构建[J]．计算机工程,2011,37(2):172-174.(Lin Yuan,Chen Zhibo， Sun Qiao.Computer Domain Term Automatic Extraction and Hierarchical Structure Building [J]. Computer Engineering,2011,37(2): 172-174.)   \n[13] 彭成，季培培．基于确定性退火的中文术语语义层次关联 研究[J]．计算机应用研究,2011,28(9):3235-3238.(Peng Cheng,Ji Peipei. Research of Term Semantic Hierarchy CorrelationsBasedonDeterministicAnnealing[J]. Application Research of Computers,2011,28(9): 3235-3238.)   \n[14] 谷俊，朱紫阳．基于聚类算法的本体层次关系获取研究[J]. 现代图书情报技术,2011(12):46-51.(Gu Jun,Zhu Ziyang. Study on Ontology Hierarchy Relation Inductionon Clustering Algorithm [J]. New Technology of Library and Information Service,201l(12): 46-51.)   \n[15]韩红旗，徐硕，桂婕，等．基于词形规则模板的术语层次 关系抽取方法[J]．情报学报，2013，32(7):708-715.(Han Hongqi,Xu Shuo,Gui Jie,et al.Term Hierarchical Relation Extraction Method Based on Morphology Rule Template [J]. Journal of the China Society for Scientific and Technical Information,2013,32(7):708-715.) [16] 涂鼎，陈岭，陈根才，等．基于多路层次聚类的商品评论 数据概念分类构建[J]．计算机研究与发展，2013，50(S):   \n208-215.(Tu Ding,Chen Ling,Chen Gencai,et al. Multi-way HierarchicalClusteringBasedConceptTaxonomy Construction for Product Reviews [J]. Journal of Computer Research and Development,2013,50(S): 208-215.) [17]李树青.基于引文关键词加权共现技术的图情学科领域本 体自动构建方法研究[J]．情报学报，2012，31(4):371-380. (Li Shuqing.Research on Automatic Construction ofDomain Ontology in Library and Information Science Based on Weighted Co-occurrence of Citation Keywords[J].Journal of the China Society for Scientific and Technical Information,   \n2012,31(4): 371-380.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18] Zhang T,Ramakrishnan R,Livny M.BIRCH:A New Data ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Clustering Algorithm and Its Applications [J]. Data Mining andKnowledge Discovery, 1997,1(2):141-182.   \n[19]NLPIR[EB/OL].[2014-06-03].http://ictclas.nlpir.org/docs.   \n[20]王昊，苏新宁，朱惠．中文医学专业术语的层次结构生成 研究[J].情报学报，2014，33(6):594-604.(Wang Hao，Su Xinning,Zhu Hui. Study on Hierarchy Structure Generation of Chinese Medical Terminology [J]. Journal of the China Society for Scientific and Technical Information,2014,33(6): 594-604.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "朱惠：提出研究思路，设计研究方案，进行试验，论文起草及最终版本修订;  \n杨建林：文献调研，论文修订;  \n王昊：数据搜集和清洗。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-06-19   \n收修改稿日期:2015-09-14 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Study on Construction of Domain Terminology Taxonomic Relation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhu HuiYang JianlinWang Hao (School of Information Management, Nanjing University, Nanjing 21o023, China) (Jiangsu Key Laboratory of Data Engineering and Knowledge Services,Nanjing 210023, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective] Discusshow to obtain the terminology taxonomic relation from Chinese domain unstructured text.[Methods] Based on Digital Library domain text from CNKI,construct terminology hierarchy by terminology extraction,terminology Vector Space Model construction,BIRCH clustering and cluster tag distribution.[Results] Obtaintheterminology taxonomic relation of Digital Library domain,and evaluate the efectiveness.The accuracyof clustering reaches up to $8 0 . 8 8 \\%$ ， and the accuracy of cluster tag extraction reaches up to $89 . 7 1 \\%$ . [Limitations] Evaluate the efectivenessbyrandom sampling,and in comparison with one method only.[Conclusions] Making use of BIRCH algorithm to construct terminology taxonomic relation,this algorithm has obvious advantage compared with K-means clustering method,and has higher execution and clustering effectiveness. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: TerminologyTaxonomic relation Ontology Ontology learningClustering ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,323 @@
+# 基于FCBF特征选择和集成优化学习的基因表达数据分类算法
+
+马超
+
+(深圳信息职业技术学院 数字媒体学院，广东 深圳 518172)
+
+摘要：针对微阵列基因表达数据高维小样本、高冗余且高噪声的问题，提出一种FCBF 特征选择和集成优化学习的分类算法FICS-EKELM。首先使用快速关联过滤方法FCBF滤除部分不相关特征和噪声，找出与类别相关性较高的特征集合；其次，运用抽样技术生成多个样本子集，在每个训练子集上利用改进乌鸦搜索算法同步实现最优特征子集选择和核极限学习机KELM分类器参数优化，然后基于基分类器构建集成分类模型对目标数据进行分类识别，此外运用多核平台多线程并行方式进一步提高算法计算效率。在六组基因数据集上的实验结果表明，不仅能用较少特征基因达到较优的分类效果，并且分类结果显著高于已有和相似方法，是一种有效的高维数据分类方法。
+
+关键词：特征选择；集成学习；微阵列基因表达数据；乌鸦搜索算法；核极限学习机 中图分类号：TP183 doi: 10.3969/j.issn.1001-3695.2018.04.0248
+
+# Gene expression data classification based on FCBF feature selection and ensemble optimized learning method
+
+Ma Chao (CollegeofDigitalMedia,henzhenInstituteofInformation Technology,Shenzhen Guangdong 518172,China)
+
+Abstract: Inorder to solvethe problemsofmicroarry gene expressiondata with thecharacteristicofhighdimensionandsmal sample,high redundancyandalotofnoise,this article proposed anovel modelFICS-EKELM,which wasbuild basedon the combinationFCBF featureselectionand ensemble optimized method,for geneexpressiondata classification.Intheproposed method,FastCorrelation-basedFiltermethod(FCBF)firstlyusedtoeliminatetheirelevantfeaturesandnoise,andchosethe discriminate featuresubsets.Secondlybootstraptechnology produced manysample trainingsubsets,bymeans ofthesesubsets, the improved crow search algorithm(ICS)used to select optimal feature subsets and parameters for kernel extreme learning machine(KELM)synchronously.Andthen,nsembleclasifirs wereconstructedfortarget genedataclassification,whichbased on thebasic classifiers.Moreover,the model implemented in paralelonmulti-core procesor,whichused OpenMPtospeedup thesearch and optimization process.Experiment on six public famous gene datasets,the proposed method notonly achieves a higher classification performance withlesscharacteristic genes,but alsogreatly improves theclassificationaccuracy.It proves the effective and validity of the proposed method.
+
+Key words:featureselection; ensemble learming; microaray gene expressiondata;crow search algorithm; kernel extreme learning machine
+
+# 0 引言
+
+DNA微阵列技术是生物信息学领域中一个具有重大意义的技术性突破，已被广泛应用于药物研究、基因测序等多个领域。通过微阵列技术得到的基因表达数据称为微阵列基因表达数据，通常表示为矩阵形式，分析的是基因发生的改变，基因间的互相关系以及基因活动产生的影响。分类是微阵列基因表达数据挖掘的一个重要任务，通过分析微阵列基因表达数据可为对疾病诊断和治疗提供可靠的分类结果。但微阵列基因表达数据中存在维度高样本少的“维数灾难”问题，导致传统模式分类研究难以解决[I]，如何进行有效特征选择和分类以识别出少部分对分类最有贡献的基因，提高分类效果，成为基因表达数据分类研究的关键问题之一。
+
+近些年，对基因表达数据的系统性分析已成为人工智能领域中的热门研究课题[2-4]。目前有很多数据降维方法被用于基因数据的特征选择与识别。其中基因特征选择方法是基因表达数据降维最主要的方法，依据是否独立于后续的学习算法，可分为过滤式(Filter)和封装式(Wrapper)[5]：
+
+a)Filter法。Filter特征选择方法一般使用评价准则来增强特征与类的相关性，削减特征之间的相关性，例如信息增益IG、最小冗余最大相关mRMR、ReliefF、FCBF、FisherScore评分和最小平方回归误差等[。Filter与后续学习算法无关，一般直接利用所有训练数据的统计性能评估特征，但Filter方法未考虑特征与分类器之间的相关性，并不能保证选择出一个优化特征子集，即使能找到一个满足条件的优化子集，它的规模也会比较庞大，会包含一些明显的噪声特征，评估与后续学习算法的性能偏差较大。
+
+b)Wrapper法。Wrapper方法作为学习算法组成部分，直接以分类器的分类性能作为特征重要性程度的评价标准，跟据选择的特征子集构造最终的分类模型。这类方法是特征选择研究领域的热点，相关研究工作也较多，虽然在运行速度要比Filter法慢，但所选择的特征子集规模相对要小得多，有利于特征的辨识，分类准确率较高。
+
+针对上述两种方法特点，目前很多研究采用的都是Filter与Wrapper的混合方法。例如2016年Jerzy 等人[7]利用ReliefF，mRMR结合SVM方法对高维癌症数据进行分类，得到较好的分类结果；同年谢娟英等人[8为解决基因特征选择难题，提出一种基于K-S检验与mRMR原则的混合方法，并以SVM为分类器，以F1_measure、分类精度和AUC作为评价指标进行基因选择评估，结果证明了该方法有效性；Lai等人[将Filter和Wrapper方法结合提出信息增益IG和改进简化群算法ISSO并利用线性核SVM分类器进行基因特征选择；2017年Lu等人[10]提出结合最大化交互信息MIM 和自适应遗传算法的混合特征选择算法来降低基因表达数据维度；同年Wang等人[]针对基因表达数据维数灾难问题提出加权离散细菌优化算法进行特征基因选择，结果证明该方法能解决传统细菌优化算法过早收敛的问题；Chen等人[12]采用粗糙集和熵计算的方法用于基于选择，结果显示该方法能够有效提高肿瘤数据的分类精度；Wang等人[13]引入马尔可夫毯以改进Wrapper方法进行基因特征选择，结果证明了该方法的有效性；2018年吴辰文等人[14]提出一种基于ReliefF和蚁群算法的特征基因选择方法以解决微阵列数据多分类问题，实验结果证明该方法能以较少特征基因得到较高的多分类效果；Jain等人[15]针对基因分类和癌症诊断问题提出整合相关特征选择CFS和改进二元粒子群iBPSO 算法，并利用朴素贝叶斯分类器进行分类，取得了较高的分类精度。
+
+从这些研究可以发现，Filter和Wrapper结合的方法在基因数据分类中取得了很好的效果，但仍存在两个主要问题：
+
+a)大多数算法采用的都是SVM分类器，SVM典型难题是模型的参数选择问题，这对分类结果有重要影响，但对参数选择没有统一的标准和理论指导；
+
+b)现有方法都采用单一分类器模型，关于集成学习的基因特征分类方法研究很少，基因数据分类的精度可能会由于单一分类器性能而达到瓶颈。而核极限学习机(kernelextremelearningmachine，KELM)具有比SVM和BP神经网络(BPNN)更优的性能[16。基于上述分析，为了克服上述不足，得到准确率更高的分类效模型，本文提出了一种新颖的分类模型FICS-
+
+EKELM，用于高维基因表达数据的分类研究。
+
+本方法首先利用FCBF特征选择进行初步特征选择，剔除掉数据集中冗余特征及噪音；然后使用bootstrap 抽样进行PCA转换生成多个训练样本子集，在每个训练子集上采用改进乌鸦搜索算法ICS 同步进行最优特征子集选择和KELM 模型参数优化，得到具有差异度的基KELM分类器，最后构建集成KELM分类模型，并运用多核平台多线程并行方式进一步提高算法运算效率，最后对测试集进行测试。
+
+本文工作创新点如下：
+
+a)运用FCBF方法对原始高维基因表达数据进行特征降维，剔除掉数据集中冗余特征及噪音，与其它Filter方法相比，FCBF算法既考虑了特征间相关性又分析了特征的冗余性，并且在大量实验比较中，FCBF被证明具有较低的时间复杂度和较好的特征选择结果，而ReliefF、IG以及FisherScore等方法虽然能处理不完备和有噪音的数据，但未能很好地处理冗余特征。
+
+b)提出ICS算法同步进行特征子集选择和KELM参数优化，构建基分类器。乌鸦搜索算法CSA简单易实现、涉及参数较少，与粒子群算法PSO、遗传算法GA以及人工蜂群算法ABC等算法相比，都能得到近似甚至更优的优化结果。
+
+c)采用集成分类思想进行基因特征选择和分类。
+
+d)基于多核处理技术运用OpenMP来实现模型并行运算，可以有效提高算法的效率。
+
+# 1 理论介绍
+
+# 1.1FCBF 算法(fast correlation-based filter)
+
+基于快速关联的过滤算法FCBF[17是一种典型的启发式序列后向消除方法，使用对称的不确定度量来衡量两个特征的相关性。算法核心思想是采用对称不确定性(Symmetricaluncertainty,SU)作为度量标准，如果一个特征与类别之间的不确定性程度高，且与其它已选特征之间的不确定性程度低，则将该特征标记为重要特征。
+
+FCBF算法简单描述如下：
+
+给定数据集 $( x _ { i } , \ t _ { i } )$ ， $i = 1 , . . . , N ,$ 其中 $x _ { i } = [ x _ { i 1 } , x _ { i 2 } , . . . , x _ { i d } ] ^ { T } \in R ^ { n } , t _ { i } =$ $[ t _ { i 1 }$ ，ti2，...， $t _ { i m } ] ^ { T } \in R ^ { m }$ ，样本类别为 $Y { = } ( y _ { 1 } , y _ { 2 } , . . . y _ { N } )$ ：Step1:初始化 $T$ 和S； $/ { ^ * T }$ 为特征向量集合， $s$ 为特征子集\*/Step2:对于每个 $t _ { i } \in T$ ，计算特征与类别的 $S U$ 值，即 $S U ( t _ { i } , Y )$ ，其计算公式为 $S U ( A , B ) { = } 2 { \left[ \frac { H ( A ) - H ( A | B ) } { H ( A ) + H ( B ) } \right] } ;$ Step3:选出 $\mathrm { \Delta T }$ 中 $S U ( t _ { i } , Y ) { > } r$ 的特征，根据 $S U$ 值降序排序并存入 $\boldsymbol { S } ^ { \prime }$ 中；Step4:从 $S ^ { \prime }$ 中选择一个特征 $t _ { i }$ ，将 $t _ { i }$ 存入 $s$ 集合中，并从 $\mathbf { \nabla } S ^ { \prime }$ 中删掉 $t _ { i }$ Step5:计算 $t _ { i }$ 与 $t _ { j }$ 的对称不确定性 SU值 $\mathrm { S U } ( t _ { i } , t _ { j } )$ ，去除 $t _ { j }$ 的冗余特征，如果 $\operatorname { S U } ( t _ { i } , t _ { j } ) > S U ( t _ { i } , Y )$ ，则从 $\mathrm { \Delta } \mathrm { s } { \mathrm { : } }$ 中删掉 $t _ { i }$ Step6:RepeatStep4和Step5until $s$ 为空集;Step7:输出得到的特征子集 ${ \mathbf { } } S .$ （204号
+
+# 1.2 核极限学习机(KELM)
+
+KELM 是由Huang 等人[18]在单隐层前馈神经网络模型ELM基础上提出的方法，它能逼近任意连续目标函数，其输出值能以极小误差逼近类标签值。
+
+假设给定 $N$ 个训练样本集 $( \boldsymbol { x } _ { i } , t _ { i } )$ ， $i { = } 1 , { \ldots } , N ,$ 其中 $x _ { i } = [ x _ { i 1 }$ $x _ { i 2 } , . . . , x _ { i d } ] ^ { T } \in R ^ { n } , t _ { i } = [ t _ { i 1 } , t _ { i 2 } , . . . , t _ { i m } ] ^ { T } \in R ^ { m }$ ，隐层激活函数为
+
+$g ( x )$ ，隐层节点个数为 $L$ ，ELM输出函数的计算公式为：
+
+$$
+f ( x ) = \sum _ { j = 1 } ^ { L } \beta _ { j } h _ { j } ( x ) = h ( x ) \beta
+$$
+
+其中 $\beta _ { j } = [ \beta _ { j 1 } , ~ \beta _ { j 2 } , ~ . . . , ~ \beta _ { j L } ] ^ { T } ( \ j = 1 , 2 , . . . , L )$ 表示连接第 $j$ 个隐层节点和输出层节点间的输出权重值。其中 $H = \{ h _ { i j } \}$ $( i$ $\mathbf { \Psi } = 1 , . . . , N ; j = 1 , . . . , L )$ 为隐层输出矩阵， $H$ 第 $j$ 个隐层节点的第 $j$ 列对应输入 $x _ { 1 } , x _ { 2 } , . . . , x _ { n }$ ， $H$ 的第 $i$ 行对应输入 $x _ { i }$ 的输出向量。通常采用最小二乘法确定线性系统的输出权重值：
+
+$$
+\beta ^ { \prime } = H ^ { T } T
+$$
+
+其中： $H ^ { + }$ 为隐层输出矩阵 $H$ 的Moore-Penrose广义逆矩阵。
+
+之后Huang等引入核函数避免ELM方法随机产生输入权重和偏倚值的问题，提出基于核函数的ELM方法KELM，KELM输出权重的计算公式如下：
+
+$$
+\beta = H ^ { T } ( \big / \big / C + H H ^ { T } ) ^ { - 1 } T
+$$
+
+因此，KELM输出函数的表达式为：
+
+$$
+f ( x ) = h \beta = h ( x ) H ^ { T } ( \bigtriangledown ^ { \prime } + H H ^ { T } ) ^ { - 1 } T
+$$
+
+当隐层映射函数 $h ( x )$ 不可知时，核函数矩阵计算公式如下：
+
+$$
+\Omega _ { E L M } = H H ^ { T } : \Omega _ { E L M i , j } = h ( x _ { i } ) \cdot h ( x _ { j } ) = K ( x _ { i } , x _ { j } )
+$$
+
+其中 $K ( x _ { i } , x _ { j } )$ 表示核函数，KELM中核函数为RBF核函数，那么KELM分类模型的计输出函数表达式为：
+
+$$
+f ( x ) = \left[ \begin{array} { c } { { K ( x , x _ { 1 } ) } } \\ { { \ldots } } \\ { { K ( x , x _ { N } ) } } \end{array} \right] ^ { T } ( \underbrace { I { \Big / _ { C } } } _ { \textstyle { C ^ { + } } } \Omega _ { { E L M } } ) ^ { - 1 } T
+$$
+
+# 2 改进乌鸦搜索算法 ICS(improved crow searchalgorithm)
+
+乌鸦搜索算法CSA是由Askarzadeh于2016年提出的一种新的元启发算法[19]，它模拟的是自然界中乌鸦的智能觅食行为。
+
+在求解最优问题时，假定 $N$ 只乌鸦随机分布在 $n$ 维搜索空间中， $x ^ { i , t } = [ x _ { 1 } { } ^ { \mathrm { i } , t } , x _ { 2 } { } ^ { i , t } , . . . , x _ { n } { } ^ { i , t } ] ( i = 1 , 2 , . . . , N ; t = 1 , 2 , . . . , M a x i t e r ) ;$ 表示第 $i$ 只乌鸦在第 $\mathbf { \chi } _ { t }$ 次迭代时的位置。 $M ^ { i , t }$ 表示乌鸦 $i$ 在第 $\mathbf { \chi } _ { t }$ 次迭代时隐藏食物的记忆值，即最优位置。 $A P ^ { i , t }$ 表示乌鸦 $i$ 在第 $t$ 次迭代时的感知概率 $A P$ ， $f l ^ { i , t }$ 表示乌鸦 $i$ 在第 $t$ 次迭代时的飞行长度；
+
+对乌鸦搜索算法进行初始化控制参数设置，所述初始化控制参数包括种群群体数量 $M$ 、感知概率 $A P$ 、飞行长度 $\mathbf { \nabla } _ { f l }$ 以及最大迭代次数Maxiter;
+
+传统乌鸦搜索算法是随机初始化位置，公式如下所示：
+
+$$
+x ^ { i , t } = r a n d \cdot ( x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } ) + x _ { \operatorname* { m i n } }
+$$
+
+其中， $x ^ { i , t }$ 为乌鸦随机产生的位置， $x _ { \mathrm { m a x } }$ 为 $x$ 的最大值， $x _ { \mathrm { m i n } }$ 为 $x$ 的最小值，rand为[0,1]区间随机生成数。
+
+但是随即初始化导致个体质量无法保证，如果初始解群较好，将会有助于求解效率与解的量，如果不好则会影响求解效率，增加了不确定性，一个好的初始化种群能够确保算法更快地收敛，本文将混沌算法优化乌鸦搜索来解决上述问题。混沌运动是在确定性非线性系统中自然出现的类随机行为，它具有确定性过程同时也兼具随机性[20]。混沌运动可以使得算法能够跳出局部最优的同时寻找全局最优解。因此本文采用混沌映射函数Logistics对乌鸦位置进行初始化：
+
+$$
+X _ { _ { n + 1 } } = \mu \cdot X _ { _ { n } } \cdot ( 1 - X _ { _ { n } } ) \quad \mu \in [ 0 , 4 ] , X _ { _ n } \in ( 0 , 1 )
+$$
+
+其中参数 $\mu$ 用于控制混沌程度。
+
+通过感知概率 $_ { A P }$ 进行动态调整以达到全局搜索和局部搜索的平衡状态，由于乌鸦位置的更新影响着最优解和收敛速度，引入混沌算法进一步优化乌鸦搜索位置的更新，位置更新的表达式如下：
+
+$$
+\begin{array} { r } { x ^ { i , t + 1 } = \left\{ \begin{array} { l l } { x ^ { i , t } + w _ { i } \cdot r _ { i } \cdot f l ^ { i , t } \cdot ( m ^ { j , t } - x ^ { i , t } ) , \quad } & { \mathrm { i f } \quad w _ { z } \geq A P ^ { j , t } } \\ { r a n d \cdot ( x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } ) + x _ { \operatorname* { m i n } } , \quad } & { e l s e } \end{array} \right. } \end{array}
+$$
+
+其中 $w _ { i }$ 表示在第i代时得到的混沌映射值， $w _ { z }$ 表示在第 $z$ 代得到的混沌映射值， $A P ^ { i , t }$ 表示乌鸦 $j$ 在 $t$ 代时的感知概率， $r _ { i }$ 和 $r _ { j }$ 是[0,1]区间均匀分布的随机数。
+
+由公式(9)可知，通过混合函数的引入进一步平衡算法全局搜索和局部搜索，对全局搜索和局部搜索进行更加灵活地动态扰动，在前期 $w _ { i }$ 值较大确保全局搜索占较大权重，提高种群搜索的多样性，到迭代后期， $w _ { i }$ 值变小，使得局部搜索权重加大，加速算法收敛。
+
+当乌鸦 $i$ 的位置发生改变，则更新记忆值表达式如下：
+
+$$
+M ^ { i , t + 1 } = \left\{ \begin{array} { l l } { x ^ { i , t + 1 } , } & { \mathrm { i f ~ } f ( x ^ { i , t + 1 } ) > f ( M ^ { i , t } ) } \\ { M ^ { i , t } , } & { e l s e } \end{array} \right.
+$$
+
+其中， $M ^ { i , t }$ 表示乌鸦记忆值， $f ( M ^ { i , t } )$ 表示适应度值。
+
+对于二进制乌鸦搜索算法在离散空间内进行搜索，每个解表示为1或0，引入映射函数 $\boldsymbol { S } ( \boldsymbol { x } )$ 将连续空间的值转换到离散空间[0,1]，计算公式如下：
+
+$$
+M ^ { i , t + 1 } = \left\{ \begin{array} { l l } { 1 \ , } & { \mathrm { i f ~ } f ( S ( M ^ { i , t + 1 } ) ) \geq r a n d ( ) } \\ { 0 \ , } & { e l s e } \end{array} \right.
+$$
+
+其中rand(为[0,1]区间均匀分布的随机数。映射函数 $S ( x )$ 表达式如下：
+
+$$
+S ( M ^ { i , t + 1 } ) = \frac { 1 } { 1 + e ^ { 1 0 ( M ^ { i , t + 1 } - 0 . 5 ) } }
+$$
+
+# 3 FICS-EKELM模型
+
+本节对FICS-EKELM模型进行详细说明，模型整体架构如图1所示。
+
+![](images/82b4647c6f1ab3fe8083fa5027771ac04720016381bf538ae898fceedf0d5314.jpg)  
+图1FICS-EKELM模型的总体流程图
+
+# 3.1产生训练子集
+
+为保证数据样本的多样性，引入旋转森林算法思想[21]，通过boostrap抽样方法从原始数据中随机抽取样本，并进行PCA转换，产生新样本集。假设原始数据集样本为 $X _ { i }$ ，类标号为 $Y$ 新的训练集中样本数为 $k$ ，产生训练样本的算法具体过程如下所示：
+
+Input：Original datasets $X$   
+Output：sub_datasets(T1,T2,...,Tk)   
+Begin For $i = 1$ to $k$ （204号 [sub_X, $\mathrm { \underline { { { s u b } } } \underline { { { Y } } } ] = }$ randomsub $( \boldsymbol { X } )$ trainX_subnew $\mathbf { \Sigma } =$ bootstrapal(sub_X,sub_Y)；/\*进行抽样\*/ Coeff $\ c =$ pcasky(trainX_subnew);/\*进行PCA转换得出新样本\*/ R_coeff $\ c =$ sort (Coeff); /\*进行排序\*/ New_sub $\mathbf { \eta } ( i ) =$ trainX_subnew\*R_coeff; End For   
+End Return：Final sub_datasets $( T 1 , T 2 , . . . , T k )$
+
+# 3.2构建基分类器模型
+
+文献[22]中明确指出：对于构建集成分类模型，要得到更高分类精度的充要条件是分类器必须是准确且存在差异的，即具有较大差异的分类器集成模型具有更强的性能，因此构建差异性的分类器是一个重要问题。与SVM一样，KELM受其惩罚因子 $C$ 和核宽y的影响较大，若取值不当，会导致模型分类效果较差。构建基于KELM模型差异性集成分类器，可通过以下两个条件来实现：(1)通过boostrap 采样和PCA 特征转换可得到不同的训练数据集，使得每个KELM模型得到不同的输入样本，保证在不同的训练数据集上训练 KELM 模型； (2)影响KELM分类性能的重要参数惩罚因子 $C$ 和核宽y，难以人为设置，采用ICS算法进行优化，能得到不同的分类模型，从而保证数据多样性和分类器差异性。
+
+本文基分类器ICS-KELM的核心思想是利用ICA算法进化机制同步进行特征子集选择和参数优化，从而得到最优基分类器。构建基分类器模型的流程图如图2所示，具体步骤如下：
+
+a)种群初始化，群体中每个个体由多个特征属性离散值，以及惩罚因子 $C$ 和核宽》两个连续值构成。编码形式为 $\tau$ $\underline { { = } } ( 1 , 0 , . . . , 1 , 1 , C , \gamma )$ ，其中1为选中的特征，0为未选中特征；
+
+b)利用初始化个体解码所得到的参数在训练子集上进行KELM训练，计算每个个体的适应度值，适应度值计算公式为：
+
+$$
+\mathit { F i t n e s s } = \alpha \cdot a c c _ { \mathrm { i } } + ( 1 - \alpha ) \cdot \frac { N - | S u b s e t | } { N }
+$$
+
+其中acci表示第 $i$ 个解的分类精度， $N$ 为特征总数， $| S u b s e t |$ 表示选出的最优特征子集的特征数， $\alpha$ 为调节分类精度和特征子集数量两部分的权重值， $0 { < } a { < } 1$ ，本文中 $\scriptstyle a$ 取值为0.8,Fitness表示 $K$ 折交叉验证( $K$ -fold Cross Validation, $\mathrm { \Delta K }$ -foldCV)平均值。
+
+c)增加迭代次数；
+
+d)更新种群的位置和记忆值，比较种群个体的适应度值，若新的适应度值大于比较值，则将最优适应度值记为新适应度值；
+
+e)利用上一步得到新的个体进行解码所得到的参数在KELM上训练，并根据公式(14)计算其适应度值；
+
+f)如果达到最大种群数量，转到步骤d执行，否则转到步骤g执行；
+
+g)比较当前适应度值和全局最优适应度值，若当前值大于记录的最优适应度值，更新为当前值；
+
+h)若达到最大迭代次数，算法转到步骤i执行，否则转到步骤c；
+
+i)输出全局最优的记忆值位置，即为最优解；
+
+j)利用得到最优特征子集和参数在训练子集上训练，构造出最优的基分类器。
+
+![](images/9d292e4f1096fda6b60ecb41c3b618dd7ca9efca78c46cecda30490469d85860.jpg)  
+图2ICS优化KELM构建基分类器的流程图
+
+# 3.3集成分类器模型
+
+本文采用加权投票法将这些不同的基分类器集成为一个分类器模型，权重系数由基分类器对验证集的分类准确率归一化处理后获得，分类器组合输出最终的输出结果。对于给定的数据样本 $x$ ，模型中有 $K$ 个分类器 $T k ( x )$ ， $k = 1 , 2 , . . . , K .$ ，那么多数投票策略得到样本最终的分类结果计算公式如下：
+
+$$
+T ( x ) = \arg \operatorname* { m a x } \sum _ { k = 1 } ^ { K } \delta _ { \operatorname { s g n } ( T k ( x ) ) , y }
+$$
+
+其中 $\mathcal { S } _ { i , j } = \left\{ { \boldsymbol { 0 } } , i \neq j \right.$ [1,i=j，y∈{-1,1}是分类器的输出类标号。公式(15)表示 $K$ 个分类器 $T k ( x )$ 累积结果的最大值。
+
+# 3.4并行模型计算
+
+对于复杂优化问题，ICS算法需要多次更新才能保证找到最优解，ICS算法的初始解生成、适应度计算、种群位置更新等在算法中比较耗时，但它们是相互独立的，所以该算法具有天然的并行性。为充分发挥ICS的并行性，提高算法效率，本文提出基于多核处理器利用OpenMP[23]来实现模型并行运算，多核平台整体框架分为三层：
+
+a)该层由一系列粒子组成，并行算法控制整个ICS迭代过程，每个个体独立参与整个运算过程。
+
+b)OpenMP平台。该层是为保证实现并行算法的同步，同时建立和操作系统间的通讯联系，平台核心组件是调度器，能给操作系统提供作业的调度和分配。
+
+c)多核处理器。作业在该层通过OpenMP被系统调用。
+
+并行模型FICS-EKELM的伪代码如下：  
+
+<html><body><table><tr><td>initialize model parameters train KELM; calculate the fitness；/*fitness为适应度值*/ while t<max_iteration/*max_iteration 为最大迭代次数*/</td></tr><tr><td>for each solution</td></tr><tr><td>update position; update memory;</td></tr><tr><td>train KELM;</td></tr><tr><td>calculate the fitness; calculate fitness_best;</td></tr><tr><td>calculate memory_best;</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>end for;</td></tr><tr><td>calculate fitness_global;</td></tr><tr><td>calculate memory_global; t=t+1; end while</td></tr><tr><td></td></tr></table></body></html>
+
+# 4 实验分析
+
+# 4.1实验设置
+
+为了评估本方法对高维微阵列基因表达数据的有效性，分别选取Breast Cancer、CNS、Leukemia、Lung Cancer、Lymphoma以及Prostate六组公共高维基因数据集。各基因数据集的信息如表1所示。
+
+表1基因数据集信息  
+
+<html><body><table><tr><td>数据集</td><td>基因数量</td><td>样本数量</td><td>类别</td></tr><tr><td>BreastCancer</td><td>24481</td><td>97</td><td>2</td></tr><tr><td>CNS</td><td>7129</td><td>60</td><td>2</td></tr><tr><td>Leukemia</td><td>7129</td><td>72</td><td>2</td></tr><tr><td>Lung Cancer</td><td>7129</td><td>96</td><td>2</td></tr><tr><td>Lymphoma</td><td>4026</td><td>62</td><td>3</td></tr><tr><td>Prostate</td><td>12600</td><td>102</td><td>2</td></tr></table></body></html>
+
+文中实验在Windows7操作系统上进行，IntelCore(TM)i5处理器，主频 $3 . 2 \mathrm { G H z }$ ，内存4GB，在MATLAB2014b环境下编程实现。ELM和KELM采用MATLAB工具箱。ICS-KELM算法的参数如表2所示。
+
+表2ICS-KELM算法的参数设置  
+
+<html><body><table><tr><td>ICS 算法参数</td><td>数值</td></tr><tr><td>种群数量</td><td>30</td></tr><tr><td>最大迭代次数</td><td>80</td></tr><tr><td>飞行长度fl</td><td>2</td></tr><tr><td>感知概率AP</td><td>0.1</td></tr></table></body></html>
+
+此外，ICS-EKELM模型实验结果与ELM、KELM、SVM以及BPNN等方法进行了比较，模型的详细参数设置如下：为了公平比较，KELM与SVM模型的参数设置相同，均采用网格计算方法，模型中 $C$ 和 $\gamma$ 的搜索范围为 $C \in \{ 2 ^ { - 1 1 } , . . . , 2 ^ { 1 1 } \}$ 和y$\in \{ 2 ^ { - 1 1 } , . . . , 2 ^ { 1 1 } \}$ 。ELM 和 BPNN 方法中的隐层节点个数取值通过试凑法获得，ELM和BPNN 隐层节点数分别为18和21个。
+
+# 4.2 实验结果讨论
+
+为了验证提出方法的有效性，实验首先给出在六组数据集上，提出的方法与四种常用方法，即分别基于ReliefF、mRMR、IG、CFS特征选择方法的分类结果进行对比分析，如表3所示。表3各个算法得到的分类准确率以及标准方差值。从实验结果可以看出，在这五种模型中，提出的方法取得了最高的分类准确率，而基于ReliefF、mRMR、IG、CFS特征选择的方法取得的分类结果明显低于本方法，例如以BreastCancer数据集为例，本方法的平均分类精度达到了 $9 2 . 9 8 \%$ ，而其它四种方法分别只得到了 $8 8 . 4 2 \% . 8 5 . 5 7 \% . 8 3 . 5 1 \%$ 和 $8 1 . 9 2 \%$ 的平均分类准确率，同时也说明了通过特征选择和集成分类学习，能有效提高高维基因数据的分类准确率。此外，从标准方差值可见本方法的方差值较小，也证明了该方法具有良好的稳定性。
+
+为了充分证明所提出方法特征选择的有效性，表4给出了五种特征选择算法在六组数据集上所选特征个数。其中，本方法所选择的特征个数最少，FCS和ReliefF次之，这是由于本方法先使用FCBF筛选掉大量不相关特征和噪音特征后，又利用ICS 搜索进一步优化特征子集选择，有效剔除掉了冗余度较高的特征。
+
+表3五种算法分类精度比较  
+
+<html><body><table><tr><td rowspan="2">数据集</td><td rowspan="2">本文方法</td><td rowspan="2">ReliefF</td><td rowspan="2">Fisher Score</td><td rowspan="2"></td><td rowspan="2">FCS</td></tr><tr><td>mRMR</td></tr><tr><td>Breast</td><td>92.98</td><td>88.42</td><td>85.57</td><td>83.51</td><td>81.92</td></tr><tr><td>Cancer</td><td>±0.21</td><td>±0.30</td><td>±0.34</td><td>±0.42</td><td>±0.33</td></tr><tr><td rowspan="2">CNS</td><td>91.87</td><td>90.13</td><td>84.34</td><td>88.39</td><td>80.96</td></tr><tr><td>±0.27</td><td>±0.44</td><td>±0.42</td><td>±0.44</td><td>±0.73</td></tr><tr><td rowspan="2">Leukemia</td><td>99.71</td><td>94.58</td><td>93.92</td><td>98.52</td><td>94.83</td></tr><tr><td>±0.18</td><td>±0.33</td><td>±0.38</td><td>±0.25</td><td>±0.45</td></tr><tr><td>Lung Cancer</td><td>90.79</td><td>85.67</td><td>86.91</td><td>67.67</td><td>78.16</td></tr><tr><td></td><td>±0.25</td><td>±0.31 95.26</td><td>±0.29 90.13</td><td>±0.54 85.21</td><td>±0.38 82.67</td></tr><tr><td rowspan="2">Lymphoma</td><td>100.00</td><td>±0.46</td><td>±0.35</td><td>±0.39</td><td>±0.44</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prostate</td><td>97.43 ±0.31</td><td>92.98 ±0.39</td><td>86.27</td><td>87.95</td><td>84.31</td></tr><tr><td></td><td>表4</td><td>五种方法选择的特征个数比较</td><td>±0.47</td><td>±0.36</td><td>±0.30</td></tr><tr><td colspan="2">数据集</td><td>本文方法</td><td>ReliefF</td><td>IG mRMR</td><td>FCS</td></tr><tr><td colspan="2">Breast Cancer</td><td>8</td><td>28</td><td>30 28</td><td>21</td></tr><tr><td colspan="2">CNS</td><td>9</td><td>45</td><td>32 32</td><td>29</td></tr><tr><td colspan="2">Leukemia</td><td>4</td><td>30</td><td>34 32</td><td>33</td></tr><tr><td colspan="2">Lung Cancer</td><td>9</td><td>31</td><td>45 44</td><td>32</td></tr><tr><td colspan="2">Lymphoma</td><td>7</td><td>31</td><td>28 35</td><td>31</td></tr><tr><td colspan="2"></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">Prostate</td><td>5</td><td>26</td><td>30 34</td><td>25</td></tr></table></body></html>
+
+为了更好地评估分类方法的性能，表5给出了本方法与研究常用的分类模型SVM、ELM、BPNN和NB方法进行了比较。从表中结果可知，本文方法在分类性能上要显著优于其它四种方法，这是由于本方法在进行利用ICS算法进行特征选择的同时还优化了模型参数，同时构建集成分类模式也能克服单一分类器易过拟合和分类瓶颈问题，进一步提高了分类准确率。
+
+表5五种基于不同分类器的方法分类结果比较  
+
+<html><body><table><tr><td>数据集</td><td>本文方法</td><td>SVM</td><td>ELM</td><td>BPNN</td><td>Naive Bayes</td></tr><tr><td>Breast Cancer</td><td>92.98</td><td>88.62</td><td>87.83</td><td>86.60</td><td>91.75</td></tr><tr><td>CNS</td><td>91.87</td><td>92.33</td><td>90.05</td><td>89.39</td><td>90.00</td></tr><tr><td>Leukemia</td><td>99.71</td><td>95.83</td><td>94.41</td><td>96.63</td><td>98.63</td></tr><tr><td>Lung Cancer</td><td>90.79</td><td>80.21</td><td>78.96</td><td>82.26</td><td>85.44</td></tr><tr><td>Lymphoma</td><td>100.00</td><td>100.00</td><td>98.61</td><td>97.94</td><td>98.32</td></tr><tr><td>Prostate</td><td>97.43</td><td>96.17</td><td>97.05</td><td>96.55</td><td>97.18</td></tr></table></body></html>
+
+基分类器的个数选取对结果是有影响的，本文对分类器集成数量进行了实验性分析，由于集成分类器数量尚未形成统一指导理论，多是通过多次实验进行尝试所得，本实验集成分类器数量的取值范围设为[1,10]，从中选取出分类结果最佳所对应的参数值用于后续实验，结果如图3所示。从图中可以看出，从分类器个数为1开始，随着分类器数量的增加，分类准确率有明显的提高，当分类器个数为5时，达到了最高的分类准确率，之后随着个数的增加，分类性能未得到进一步提高，而是呈现波动状态，说明在集成分类器达到一定数量后，即使继续增加分类器数量并未有助于分类性能的进一步提高。
+
+为了验证并行模型的性能，将并行模型与串行模型进行了比较。表6给出了并行和串行模型在六组数据集上训练时间以及分类精度的比较情况。从表中可以看到，两个模型在分类精度指标上的结果非常相近，它们的差别在于交叉验证过程数据集的随机选择造成，但串行模型所花费的实际明显高于并行模型。
+
+图4给出了并行模型和串行模型在CNS数据集上5折CV上独立运行的运行时间比较。从图中可见，在运行时间上，串行模型所花费的CPU 平均运算时间大约是并行模型PHGSA-KELM的2.6倍，在每一折过程中并行模型花费的时间要远低于串行模型，这表明提出的方法从并行算法获益，弥补串行算法在迭代优化过程中耗时过多，提高了算法的计算效率。
+
+![](images/6914a269a7c2e2b9cdf9bd6c39c1ec9e634efe2f70302b97449f1f776d1b3f8a.jpg)  
+图3集成分类器的数量对分类性能的影响
+
+表6并行模型和串行模型的训练时间和分类精度的对比  
+
+<html><body><table><tr><td rowspan="2">数据集</td><td rowspan="2">并行模型 训练时间/s</td><td rowspan="2">串行模型 训练时间/s</td><td rowspan="2">并行模型</td><td rowspan="2">串行模型 分类精度(%)</td></tr><tr><td>分类精度(%)</td></tr><tr><td>Breast Cancer</td><td>325.116</td><td>584.282</td><td>92.98</td><td>92.67</td></tr><tr><td>CNS</td><td>132.235</td><td>327.022</td><td>91.87</td><td>91.91</td></tr></table></body></html>
+
+<html><body><table><tr><td>Leukemia</td><td>134.653</td><td>336.528</td><td>99.71</td><td>99.52</td></tr><tr><td>Lung Cancer</td><td>132.879</td><td>327.434</td><td>90.79</td><td>95.45</td></tr><tr><td>Lymphoma</td><td>85.696</td><td>212.177</td><td>100.00</td><td>100.00</td></tr><tr><td>Prostate</td><td>178.320</td><td>296.595</td><td>97.43</td><td>97.47</td></tr></table></body></html>
+
+![](images/c4122e977d024b5b44d2500960061f3599b4ac16f6cc373f2805b79cb8d17c45.jpg)  
+图4并行模型和串行模型在5折CV上的运行时间比较
+
+为验证ICS算法全局搜索能力和收敛速度，实验进一步对算法的迭代机制进行研究，以LungCancer 数据集为例，给出ICS和原始CSA算法在5折CV中(选的是第1折)的最优适应度值变化过程，如图5所示。图中给出的是全局最优值的变化过程，将每一次迭代中所有个体的最优适应度值记录下来。由图分析可知，性能较好的是ICS曲线，从第一次迭代一直到第80次迭代逐步演化，ICS曲线在初始阶段增长迅速，在第23次迭代时收敛到最高值，之后趋于平稳；适应度值较低的是CSA曲线，在第19次迭代时收敛到较高值，之后趋于平稳，但仍低于ICS曲线值，说明CSA算法有可能陷入局部最优而未找到全局最优解。该现象证明了ICS算法比原始CSA 算法具有更优的全局搜索能力和收敛速度，能迅速收敛到全局最优解。
+
+![](images/5c9718c7d29d72dba8850e9516a14b2c934f16e815cdcef0154d2d1b2261997f.jpg)  
+图5ICS和CSA算法在第1折上训练得到最优适应度值
+
+从图3\~5中的结果可知，本方法在六组公共基因数据集上分别取得了 $9 2 . 9 8 \%$ 、 $91 . 8 7 \%$ 、 $9 9 . 7 1 \%$ 、 $90 . 7 9 \%$ 、 $1 0 0 . 0 0 \%$ 以及$9 7 . 4 3 \%$ 的平均分类准确率，同时通过特征选择在原始高维数据特征空间下，分别得到了8、9、4、9、7和5个特征个数，极大降低了特征数量，但分类精度却没有得到明显下降，说明了特征选择的有效性。这是由于设计评估函数同时考虑了特征选择和分类器性能，在尽可能减少特征数量的同时最大化分类结果。从表6和图4中的结果对比可知，通过并行计算方式，将本方法从模型训练所花费的CPU平均运算时间比串行计算时间节省了近2/3，说明通过并行计算方式能充分发挥ICS的并行性，提高算法效率。
+
+# 5 结束语
+
+为了更好地处理高维基因数据的分类问题，本文充分利用FCBF过滤性能、乌鸦搜索能力以及集成分类模型的优势，提出了一种基于FCBF和集成优化KELM分类器的分类模型。在该方法中，FCBF方法可以有效去除数据集中冗余特征及噪声，找出对分类结果相关程度较高的特征集合，降低了特征维度，同时采用集成分类方法思想，将KELM作为基分类器，并利用ICS算法同步实现最优特征子集选择和KELM模型参数优化，以得到最优分类模型，且基于多核处理器利用OpenMP实现了模型并行运算，进一步提升了算法计算效率。实验结果表明，提出的方法优于其它典型过滤特征选择方法，以及基于SVM、ELM、BPNN以及NB的分类方法。本方法不仅可以去除冗余基因，还取得了较高的分类效果，实验验证了方法的有效性和高效性。
+
+下一步工作将对特征与特征子集间关系的度量进行研究。此外，对ICS算法中设定参数的灵活调整，降低参数设置对搜索以及分类结果的影响，实现对算法的进一步优化，也是值得研究的内容。
+
+# 参考文献：
+
+[1]Boulesteix AL,Strobl C,Augustin T,et al. Evaluating microarray based classifiers:an overview [J].Cancer Informatics,20o8,6:77-97.   
+[2]Lin Hungyi. Reduced gene subset selection based on discrimination power boosting for molecular classification [J].Knowledge-Based Systems，2018, 142: 181-191.   
+[3]Hanaa S,Gamal A，Nawal E.Classification of human cancer diseases by gene expression profiles [J].Applied Soft Computing,2017,50:124-134.   
+[4]Liang Sen,Ma Anjun,Yang Sen,et al.a review of matched pairs feature selection methods for gene expression data analysis [J]. Computational and Structural Biotechnology,2018,16: 88-97.   
+[5]Ghaddar B,Naoum-Sawaya J.High dimensional data classification and feature selection using support vector machines [J].European Journal of Operational Research,2018,265(3):993-1004.   
+[6]Bolon-Canedo V, Sanchez-Marono N,Alonso-Betanzos A.A review of feature selection methods on synthetic data [J]. Knowledge and Information Systems,2013,34 (3): 483-519.   
+[7]Jerzy K,Tomasz L.The feature selection bias problem in relation to highdimensional gene data [J].Artificial Intelligence in Medicine,2O16,66:63- 71.   
+[8] 谢娟英，胡秋锋，董亚非.K-S 检验与 mRMR 相结合的基因选择算法 [J].计算机应用研究,2016,33(4):1013-1018.(Juanying Xie,Qiufeng Hu, Yafei Dong.Gene selection algorithm based on K-S test and mRMR[J]. Application Research of Computers,2016,33(4):1013-1018.)   
+[9]Lai C M,Yeh WC, Chang C Y. Gene selection using information gain and improved simplified swarm optimization [J]. Neurocomputing,2016,218: 331-338.   
+[10] Lu Huijuan, Chen Junying, Yan Ke,et al.A hybrid eature election lgorithm for gene expression data classification [J]. Neurocomputing，2017,256: 56-62.   
+[11] Wang Hong，Jing Xingjian,Niu Ben.A discrete bacterial algorithm for feature selection in classification of microarray gene expression cancer data[J]. Knowledge-Based Systems，2017,126:8-19.   
+[12] Chen Yumin, Zhang Zunjun, Zheng Jianzhong,et al. Gene selection for tumor classification using neighborhood rough sets and entropy measures [J]. Journal ofBiomedical Informatics，2017,67: 59-68.   
+[13] Wang Aiguo,An Ning, Yang Jing,et al. Wrapper-based gene selection with Markov blanket [J]. Computers in Biology and Medicine,2017,81: 11-23.   
+[14]吴辰文，李晨阳，郭叔瑾，等．基于 ReliefF 和蚁群算法的特征基因选 择方法[J].计算机应用研究，2018,35(9):1-7.(Wu Chenwen,Li Chenyang,Guo Shujin,et al.Feature gene selection method based on ReliefF andantcolonyotimization[J]. AplicationResearchofComputes, 2018,35 (9): 1-7.)   
+[15] Jain I, Vinod K,Jain R.Correlation feature selection based improved binary particle swarm optimization for gene selection and cancer classification [J]. Applied Soft Computing，2018,62: 203-215.   
+[16]Luo Fangfang,Guo Wenzhong,Yu Yuanlong.A multi-label classification algorithmbasedon kernelextreme learningmachine [J] Neurocomputing，2017,260:313-320.   
+[17] SongQB,NiJJ,WangG T.A fast clustering-based feature subset selection algorithm for high-dimensional data[J].IEEE Trans on Knowledge and Data Engineering,2013,25 (1): 1-14.   
+[18] Huang Guangbin.Extreme learning machine for regression and multiclass classification [J]. IEEE Trans on Systems,Man,and Cybernetics,Part B: Cybernetics,2012,42 (2): 513-529.   
+[19]Askarzadeh A.A novel metaheuristic method for solving constrained engineering optimization problems: crow search algorithm [J]. Computers & Structures,2016,169: 1-12.   
+[20] Wang G G,Guo L,Gandomi AH,et al. Chaotic krillherd algorithm [J]. Information Sciences,2014,274: 17-34.   
+[21]Rodriguez JKuncheva,AlonsoCRotationforest:newcas ensemble method [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2006,28 (10): 1619-1630.   
+[22] Hansen L K, Salamon P. Neural network ensembles [J]. IEEE Trans on Patern Analysis and Machine Intelligence,1990,12(10): 993-1001.   
+[23] Chapman B, Jost G, Van R. Using OpenMP: portable shared memory paralel programming [M]. Cambridge: MITPress,2007.

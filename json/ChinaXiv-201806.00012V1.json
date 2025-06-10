@@ -1,0 +1,377 @@
+[
+    {
+        "type": "text",
+        "text": "AP0S0S项目15cm光电望远镜故障监测方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡炀烁1²高鹏骐’沈鸣’于欢欢’郭效忠’杨大陶’赵有1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 (1.中国科学院国家天文台，北京，100012；2.中国科学院大学，北京，100049)  \n4 摘要：为了对海外站点和无人值守望远镜进行动态监测，判断望远镜是否处于正常的工作  \n5 状态，提出了一种联合使用天文定位数据和轴系定位数据对望远镜的运行状态进行动态监  \n6 测的方法。该方法对观测得到的天文定位与轴系定位数据进行误差计算，对比分析两种数  \n7 据的误差范围，判断望远镜工作状态。利用该方法对亚太地基光学空间物体观测系统  \n8 (Asia-Pacific Ground-based Optical Space Object Observation System， APOSOS）项  \n9 目位于伊朗和巴基斯坦的两台15cm地基光电观测望远镜的观测数据进行检验,结果发现：  \n10 其中1台15cm望远镜轴系定位中方位角存在较大误差，误差在上百角秒，设备存在问题。  \n11 通过对比此设备在国内与国外两地观测数据的误差，确定了出现问题的时间和地点。观测  \n站工作人员对望远镜出现问题的报告印证了分析结论，证明了方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：故障监测；空间碎片；天文定位；轴系定位；误差分析中图分类号：P228.1 文献标识码：A 文章编号：1672-7673(2018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自1957年前苏联发射第1颗人造卫星以来，空间碎片的数量与日俱增。愈来愈多的飞行器将被发射到太空中，围绕地球运行的火箭体、失效卫星、飞行器及产生的碎片也随之越来越多，进而对航天器的安全形成巨大的威胁。因此对空间碎片进行监测，将是更多国家关注的内容[1-3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "亚太地基光学空间物体观测系统 (Asia-Pacific Ground-based Optical SpaceOb ject Observation System，APOSOS，以下皆简称为APOSOS）是亚太空间合作组织(Asia-Pacific Space Cooperation Organization，APSCO）设立和支持运行的项目，意在联合其成员国，发挥各国的经济、技术及地域优势，建立一个区域性乃至全球性的光学观测网络实现空间目标的捕获、跟踪与测量，为在轨航天器的管理、使用与安全运行提供保障，为未来航天器的发射提供服务[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "APOSOS项目15cm望远镜系统主要由跟踪架、光学系统、成像探测器、时间系统、主控计算机、配电等组成,察院望远镜主要参数见表1。",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4926335fe50ab9e2390d4ac467e9093e7e7b51b95531b5ca9f00c350497f45f.jpg",
+        "table_caption": [
+            "表1.15cm望远镜主要参数",
+            "Table1.Parameters of the 15cm telescope "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>功能</td><td>参数</td></tr><tr><td rowspan=\"3\">镜筒</td><td rowspan=\"3\">光学系统</td><td>折射式</td></tr><tr><td>口径：15cm</td></tr><tr><td>焦距：300mm</td></tr><tr><td rowspan=\"3\">CCD</td><td rowspan=\"3\">成像系统</td><td>像元大小：半径13μm</td></tr><tr><td>分辨率：1024*1024</td></tr><tr><td>视场：2.5×2.5° 帧频：5帧</td></tr><tr><td rowspan=\"3\">跟踪架</td><td rowspan=\"3\">支撑部件</td><td>地平式</td></tr><tr><td>跟踪速度：5/s</td></tr><tr><td>跟踪加速度：2/s</td></tr><tr><td>GPS</td><td>频率与时钟</td><td>跟踪精度：小于15\" 频率：10 MHz/1s 精准度：109</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "31 目前首批15cm地平式光电望远镜已经研制完成，并部署到位于亚太空间合作组织所属  \n32 成员国的节点，由当地的科技人员根据观测计划对感兴趣的卫星与碎片进行跟踪观测，观  \n33 测完毕后将数据回传到位于中国科学院国家天文台的数据与运行管理中心。由于数据与运  \n34 行管理中心在各成员国节点并无驻守人员，为掌控各望远镜的状态，便于指导当地科技人  \n35 员对设备进行维护，非常有必要研究一种通过观测数据对望远镜状态进行监测和故障诊断  \n36 的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种联合使用天文定位与轴系定位数据对望远镜状态进行动态监测的方法。：通过综合分析天文定位与轴系定位误差，由轴系定位的观测误差及稳定性判断望远镜跟踪硬件的工作状态是否正常，进而提出诊断方向与维护意见。该方法不仅解决了项目15cm望远镜的动态监测问题，对于其它无法现场检测的远程控制站点和无人值守望远镜的监控也有重要参考价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.数据来源与计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APOSOS项目15cm望远镜输出的观测数据分为方位-高度和赤经-赤纬两类，分别来源于轴系定位与天文定位。轴系定位是以安装在望远镜轴上的码盘读数为基础进行定位，而天文定位是以视场中多个恒星的位置为基准进行定位。轴系定位得到的方位角与高度角，与观测者位置相关，不同台站、不同时间观测的数据不在同一坐标系下。而天文定位得到的位置信息是赤经和赤纬，经简单换算，任何测站、任何观测时间的观测数据均可视为处于同一个稳定的坐标系中。轴系定位的测量误差取决于望远镜轴系读数的精度、目标在CCD上读数的精度、望远镜轴系的稳定性、大气折射改正的精度。天文定位的测量误差不受望远镜轴系误差和大气折射改正误差的影响，主要取决于定标星个数、卫星或空间碎片的运动速度、恒星和卫星星像的测量精度。天文定位是目前光电望远镜观测跟踪空间目标的主要方法[59]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所用的原始数据来自于安置在伊朗和巴基斯坦观测站的15cm折射式地基空间碎片光电观测望远镜（下称1号设备与2号设备），以及1号设备在中国长春的测试观测数据。要分析设备的测量误差，需对两台设备的天文定位、轴系定位分别进行外符精度判定。观测数据包括观测卫星的轴系定位数据和天文定位数据。两台设备观测的卫星信息见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/04ed50ba2420b20d38fd1ff1bcc729ecfe92db2109c879ae7c276f1760157141.jpg",
+        "table_caption": [
+            "表2．1号、2号设备观测的卫星编号及观测时间",
+            "Table2.Number and observation time of satellites observed by equipment ",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备</td><td>卫星编号</td><td>卫星名称</td><td>观测时间</td><td></td></tr><tr><td rowspan=\"6\">1号设备</td><td>41240</td><td>JASON3</td><td>2017/02/0615h12min</td><td></td></tr><tr><td>33105</td><td>JASON2</td><td>2017/02/0616h8min</td><td></td></tr><tr><td rowspan=\"2\">39086</td><td rowspan=\"2\">SARAL</td><td>2017/02/06 16h13min</td><td></td></tr><tr><td>2017/02/1916h9min</td><td></td></tr><tr><td></td><td></td><td>2017/02/2516h22min</td><td></td></tr><tr><td>40890 41241</td><td>GALILE0 10 (206)</td><td>2017/02/0617h7min</td><td></td></tr><tr><td rowspan=\"3\">2号设备</td><td></td><td>IRNSS-1E</td><td>2017/02/1915h54min</td><td></td></tr><tr><td rowspan=\"2\">39086</td><td rowspan=\"2\">SARAL</td><td>2017/01/05 14h34min</td><td>2017/02/0914h43min</td></tr><tr><td>2017/02/171h32min</td><td></td></tr><tr><td rowspan=\"4\">1号设备在国内观测</td><td>41240</td><td>JASON3</td><td>2017/02/100h24min</td><td></td></tr><tr><td>27386</td><td>ENVISAT</td><td>2016/09/19 11h51min</td><td></td></tr><tr><td>39086</td><td></td><td>2016/09/2012h54min</td><td></td></tr><tr><td>36508</td><td>SARAL CRYOSAT2</td><td>2016/09/2011h14min 2016/09/2013h7min</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2计算方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对望远镜状态的动态监测采用天文定位与轴系定位误差对比的方式，由轴系定位的观测误差及稳定性判断望远镜跟踪硬件的工作状态是否正常。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "64 对望远镜观测数据的误差评估一般采用外符精度评估的方式。外符精度评估一般是指利用  \n65 与待评估设备相互独立的、得到广大认可的观测手段，得到的高精度精密星历，与待估设备实  \n66 测的观测数据做比较，以确定待估设备的测量误差[10]。激光测距是目前空间目标观测手段中  \n67 精度最高的一种，对合作目标的测距精度可优于1cm，预报一天的轨道误差在几十米量级，利  \n68 用激光测距资料通过精密定轨软件计算得到的精密轨道可近似认为是真实轨道、理论真值。以  \n69 此作为外符精度评定依据，得到的评定结果具有合理性以及可靠性。目前，国际激光测距网  \n70 （International Laser Ranging Service，ILRS）可观测的卫星高度从几百公里到几万公里，  \n71 可以根据光电望远镜的探测距离灵活选择适当的卫星。因此，选取了利用SLR测距技术获取的  \n72 高精密星历作为观测数据外符精度判定的标准。整个过程简述如下：  \n73 （1）使用15cm望远镜观测一颗有ILRS支持的卫星，获得记录有卫星观测时刻和空间位  \n74 置的光学观测数据。  \n75 （2）从ILRS下载高精度星历。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）对高精度星历进行内插，计算到与实际观测时刻一一对应，以生成卫星的理论位置（“真实值”）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）使理论位置与观测位置处在同一参考系中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（5）计算残差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用SLR数据得到的观测时刻理论的赤经赤纬值是在J2000.0惯性坐标系中的。在i时刻，J2000.0惯性坐标系中空间目标的位置矢量为，测站的位置矢量为，则空间目标在站心历元平赤道坐标系的位置矢量为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时，空间目标的赤经赤纬理论值和为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式（1）中，测站的位置矢量由测站在地固坐标系中的位置矢量经过极移矩阵、地球自转矩阵、章动矩阵和岁差矩阵这一系列矩阵变换得到，具体形式见后文。而由测站在大地坐标系中的位置矢量转换而来：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "，，分别为测站的经度，纬度和海拔高度，为地球赤道半径，f为地球扁率。因此我们有则站的地心地固坐标为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对卫星的精密轨道星历做时刻的插值计算，利用插值后的卫星精密轨道由（3）式计算得到理论的赤经赤纬值和。由中误差公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别求出赤经和赤纬的中误差和，其中，为观测值与理论值之间的残差。的残差用来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为得到轴系定位的测量误差，需要先得到被观测卫星的地平坐标系理论坐标。有两种途径。第一种是，将ILRS支持的激光星观测时刻的站心地固参考系坐标，转化到地平坐标系的方位角高度角坐标。而对于非激光星，则需要第二种途径，首先将地心天球坐标系的天文定位视为可靠的理论位置。再把观测时刻理论的赤经赤纬值，转化成对应时刻同一测站的方位角和高度角的理论值。流程图见图1，GCRS为地心天球坐标系，MOD为瞬时平赤道平春分点坐标系，TOD为瞬时真赤道真春分点坐标系，PEF为伪地固参考系，ITRS为地固参考系。要将GCRS地心天球坐标系的坐标，转换到ITRS地固参考系坐标，再将ITRS地固参考系坐标转换到AZEL地平坐标系的方位高度坐标[5]。需要注意的是，GCRS 坐标系与J2000 坐标系有着细微的差异，由于其他的误差来源远远大于这两个坐标的差异，因而在人卫工作中，一般情况下不区分这两个坐标系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Coordinate Transformations ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据1976岁差模型和1980章动模型，岁差和章动矩阵如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地球自转矩阵为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "极移矩阵为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天球地心赤道坐标系（J2000）到站心地平坐标系的转换为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述方程中，是空间物体分别在地固系、J2000平赤道坐标系和站心地平坐标系中的直角坐标，是旋转矩阵，代表任一矢量分别绕轴旋转角，逆时针为正。其中为格林尼治真恒星时，，为极移分量，为瞬时天文纬度，为地方恒星时。公式（7）（8）中为黄经章动和交角章动，其余参数均是与时间相关的参数[12]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "理论赤经赤纬转换得到的方位角Ai’、高度角 $\\boldsymbol { \\mathsf { h } } _ { \\mathrm { i } } ^ { \\prime }$ 与修正大气折射后轴系定位的观测值",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（Ai，hi）的残差，由公式（6）可得到方位角与高度角的中误差。其中方位角的残差与赤经残差相似，需要乘高度角的余弦值，即用表示。这样也得到了望远镜轴系定位的误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.数据结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c68e0f63e8dd0a499cae080f8c66534153f371b8b6f5c78985e3f07473ea11c7.jpg",
+        "img_caption": [
+            "图2两台设备观测JASON3卫星天文定位残差对比 analysis for celestial positioningof JASON3 satellite observed by the two equipment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2是1号、2号设备分别观测41240卫星（JAS0N3）时，天文定位中赤经与赤纬的残差。两台设备天文定位赤经赤纬的残差均在几个角秒之内，有某些残差较大的值，可能存在较大的随机误差，不影响系统误差的评估，可以忽略。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab15269ac4497ed595c6b7393b69a4eecbeadd55b476d6d6e70f3340ac311a07.jpg",
+        "img_caption": [
+            "图3两台设备观测JASON3卫星轴系定位残差对比 Fig.3Residual analysis for axis positioning ofJASON 3 satellite observed by the two equipment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为两台设备在分别观测41240卫星（JAS0N3）时，轴系定位中方位角与高度角的残差。从图中可以看出，1号设备比2号设备的轴系定位误差大，1号设备方位角误差为106角秒，高度角误差为36角秒。2号设备方位角与高度角误差均为十几角秒。两台设备对其他相同目标的观测数据也进行相同处理，结果与41240卫星相似，在此不一一列举。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从两台设备对相同目标进行观测的残差结果来看，两台设备的天文定位都具有较低的测量误差。并发现轴系定位方面，1号设备可能存在较大问题，尤其是方位轴。为了进一步确定此推论，对两台设备不同目标的观测数据也进行了误差分析，得到的测量误差(残差中误差)如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3．1号设备观测不同目标的测量误差",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ec1e6c16af27a869ec0af4e69f09f69e10068bc5d2eaede28865a4a062e0b96.jpg",
+        "table_caption": [
+            "Table 3.No.1 equipment's errors of different objects "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>卫星编号</td><td>观测时间（UTC)</td><td>赤经误差（\"）</td><td>赤纬误差(\" ）</td><td>方位角误差（\"）</td><td>高度角误差（\" ）</td></tr><tr><td>41240</td><td>2017/02/0615h12min</td><td>1.7</td><td>2.7</td><td>106</td><td>36</td></tr><tr><td>33105</td><td>2017/02/0616h8min</td><td>0.9</td><td>3.7</td><td>34</td><td>54</td></tr><tr><td>39086</td><td>2017/02/0616h13min</td><td>3.8</td><td>5.5</td><td>97</td><td>40</td></tr><tr><td>40890</td><td>2017/02/0617h7min</td><td>1.6</td><td>2.0</td><td>15</td><td>25</td></tr><tr><td>41241</td><td>2017/02/1915h54min</td><td>5.8</td><td>5.0</td><td>34</td><td>50</td></tr><tr><td>39086</td><td>2017/02/1916h9min</td><td>2.8</td><td>3.6</td><td>111</td><td>56</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b8d445ef30b8c5931a0b8f72c9d1363d17f080e04ef323f0a9aea39d98d548c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>39086</td><td>2017/02/2516h22min</td><td>6.7</td><td>7.8</td><td>145</td><td>24.4</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4．2号设备观测不同目标的测量误差",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e64adce6faecf84362b6bf29a79cdf49fcbac2c723393e43dac63a460dfbd7c1.jpg",
+        "table_caption": [
+            "Table 4. No.2 equipment's errors of different objects "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>卫星编号</td><td>观测时间(UTC)</td><td>赤经误差(\")</td><td>赤纬误差(\")</td><td>方位角误差(\"）</td><td>高度角误差（\"）</td></tr><tr><td>39086</td><td>2017/01/0514h34min</td><td>8.1</td><td>8.7</td><td>15</td><td>19</td></tr><tr><td>39086</td><td>2017/02/0914h43min</td><td>2.5</td><td>2.6</td><td>12</td><td>24</td></tr><tr><td>41240</td><td>2017/02/100h24min</td><td>5.0</td><td>9.0</td><td>18</td><td>9.3</td></tr><tr><td>39086</td><td>2017/02/171h32min</td><td>1.8</td><td>4.6</td><td>9.0</td><td>20</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3与表4的对比中可以看出，两台设备在天文定位的误差相差不大，而轴系定位方面1号设备的误差高于2号设备，尤其是方位角误差达到上百角秒。初步推断1号设备轴系定位系统出现故障，需对比1号设备在国内的观测数据，来确定故障出现的大致时间。1号设备在国内长春试验观测时，部分观测数据误差分析结果如下表。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5. 1号设备在长春的测量误差",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/840a02a2a79b7200e53c373031663f77fe602342b7d55d71946ce4bb5b543bd4.jpg",
+        "table_caption": [
+            "Table 5.No.1 equipment's errors ofdifferent objects in Changchun "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>卫星编号</td><td>观测时间(UTC)</td><td>赤经误差(\"）</td><td>赤纬误差(\"）</td><td>方位角误差（\"）</td><td>高度角误差（\"）</td></tr><tr><td>27386</td><td>2016/09/1911h51min</td><td>1.5</td><td>5.1</td><td>8.8</td><td>18</td></tr><tr><td>39086</td><td>2016/09/2011h14min</td><td>6.2</td><td>5.8</td><td>13</td><td>16</td></tr><tr><td>27386</td><td>2016/09/2012h54min</td><td>5.2</td><td>7.0</td><td>9.9</td><td>6.9</td></tr><tr><td>36508</td><td>2016/09/2013h7min</td><td>1.2</td><td>4.7</td><td>7.5</td><td>11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过表5与表3、表4的对比，三者天文定位的误差均低于10角秒，且具有良好的稳定度。而2号设备的轴系定位误差与1号设备在国内长春的轴系定位误差相差不大，均为10-20角秒，且有较好的稳定性，好于1号设备在伊朗时的轴系定位数十、上百个角秒的测量误差。1号设备在国内的轴系定位测量误差只有十几角秒，与2号设备精度相当，可以认为在国内时1号设备轴系定位并没有问题。在国外测量误差的增加及稳定性的明显下降，说明此时1号设备出现了问题。随后伊朗观测站报告15cm光电望远镜轴系定位系统方位轴出现了运转不灵的情况，证实了这一判断，也证明了本文所用的通过对比分析利用天文定位与轴系定位数据的测量误差与稳定性来判断望远镜转台的工作状态的可行性与有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管轴系定位的误差略高，但在天文定位工作良好的情况下，以天文定位误差作为参考量，通过综合分析轴系定位的观测误差及稳定性来判断望远镜跟踪硬件的工作状态是否正常。在AP0SOS项目1号、2号设备的空间目标定位当中，天文定位观测误差一般都小于10角秒，适合用于高精度空间目标探测。而轴系定位观测误差较大，且稳定度不高，测量误差在10到100角秒不等，可作为天文定位的辅助观测。且1号设备在伊朗时的轴系定位存在较大误差，在国内观测时没有发现同样问题，明确了是在伊朗观测时出现了问题，随后伊朗观测站的报告也证实了这一结论，验证了分析方法的可行性和有效性。利用本方法可指导设备故障排查方向，有助于快速诊断与维修，不仅解决了APOSOS项目望远镜的动态监测问题，对于无法现场检测的远程控制站点和无人值守望远镜也有重要的参考价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "致谢：在此感谢提供实际观测数据的各观测站，感谢他们的工作与支持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］李语强，李荣旺，李祝莲,等，空间碎片激光测距应用研究[J].红外与激光工程,2015,44 (11): 3324-3329.Li Yuqiang, Li Rongwang, Li Zhuliang, et al. Application research on space debris laserranging[J]. Infrared and Laser Engineering, 2015,44(11): 3324-3329.  \n[2] 汤儒峰，李语强，李荣旺．GE0暗弱空间碎片目标搜索策略分析[J]．天文研究与技术，2017， 14(3): 304-309Tang Rufeng, Li Yuqiang, Li Rongwang. The strategic analysis for searching faint spacedebris in the GEO region[J]. Astronomical Research and Technology,2017,14(3): 304-309.  \n196 [3]祁先锋.空间碎片观测综述[J].中国航天，2005（7）：24-26.  \n197 Qi Xianfeng. Review of space debris observation[J].Aerospace China, 2005(7) :24-26.（自  \n198 己翻译的，可以去掉不用）  \n199 [4]高鹏骐，赵有，张伟,等.亚太地基光学空间物体观测系统项目进展与展望[C]//第七盾  \n200 空间碎片会议论文集.2013.  \n201 [5]吴连大．人造卫星与空间碎片的轨道和探测[M]．北京：中国科学技术出版社，2011.  \n202 [6]李振伟，张涛，孙明国．星空背景下空间目标的快速识别与精密定位[J].光学精密工程  \n203 2015,23(2) 589-599.  \n204 Li Zhenwei, Zhang Tao, Sun Mingguo. Fast recognition and precise orientation of space  \n205 objects in star background [J]. Optics and Precision Engineering,2015,23(2): 589-599.  \n206 [7]李振伟，杨文波，张楠，水平式光电望远镜静态指向误差的修正[J].中国光学，  \n207 2015,8 (2): 263-269.  \n208 Li Zhenwei， Yang Wenbo, Zhang Nan. Static pointing error of level mounting  \n209 optoelectronic telescope[J]. Chinese Optics,2015,8 (2): 263-269.  \n210 [8] 陈艳玲，黄勇，胡小工，等．CCD 测角与激光测距技术综合测定空间目标的轨道[J].中国科学院上海天文台年刊，2014（35）：112-121.Chen Yanling, Huang Yong, Hu Xiaogong, et al.Space target's orbit determination usingCCD and SLR techniques[J].Annals of Shanghai Astronominal Observatory,CAS,2014（35） :112-121.[9] 于欢欢，高鹏骐，沈鸣,等.空间碎片激光测距探测能力分析[J]．天文研究与技术，2016， 13(4): 416-421.Yu Huanhuan, Gao Pengqi, Shen Ming, et al. Detection capability analysis of space debrislaser ranging[J]. Astronomical Research and Technology, 2016, 13(4): 416-421.[10]孙明国，刘承志，范存波,等.基于SLR精密轨道的天文定位精度分析[J].天文学报,2012,53（2）： 153-160.Sun Mingguo,Liu Chengzhi,Fan Cunbo, et al. Analysis on the accuracy of celestialpositioning based on SLR precise orbit[J].Acta Astronomica Sinica, 2012,53 (2） : 153-160.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Study on Monitor and Diagnostic Method of APOSOS 15cm opto-electrical telescopes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cai Yangshuol, ², Gao Pengqi', Shen Ming',Yu Huanhuan', Guo Xiaozhong', Yang Datao', Zhao You1   \n（1.The National Astronomical Observatories of the Chinese Academy of   \nSciences，Beijing，1000l2；2. University of Chinese Academy of Sciences，Beijing，100049) Abstract: To dynamically monitor the oversea and unmanned telescopes, this paper proposes a method checking the working status of $1 5 \\mathrm { c m }$ telescopes of APOSOS (Asia-Pacific Ground-based Optical Space Object Observation System) project, by using celestial positioning and axis positioning data together. First, calculate the error of the observed celestial positioning and axis positioning data, then determine whether the telescope is in normal operating state by analyzing and comparing the error range of them. This method can be used in dynamically monitoring of oversea and unmanned telescope. Applying this method to two 15cm APOSOS telescopes located in Iran and Pakistan, we find that azimuth errors of one telescope reached to more than one hundred arc seconds, which means that there may be some problems in the equipment.The time and location, when and where the problems appeared, were further determined by comparing the observation data errors of this equipment in both domestic and abroad. Reports from the site confirmed the analysis result, which proved the validity of the method. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words: Fault monitor; Space debris; Celestial positioning; Axis positioning; Error analysis ",
+        "page_idx": 5
+    }
+]

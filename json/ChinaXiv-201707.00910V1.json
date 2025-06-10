@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "Multidimensionally-constrained relativistic mean-field study of spontaneous fission coupling between shape and pairing degrees of freedom ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jie Zhao(赵杰),1,\\* Bing-Nan Lu (吕炳楠), Tamara Niksic,1 Dario Vretenar,1and Shan-Gui Zhou (周善贵)3,4,5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ { 1 }$ Physics Department, Faculty of Science, University of Zagreb， Bijenicka Cesta 32, Zagreb 10， Croatia （204号 $^ 2$ Institute for Advanced Simulation, Institut fir Kernphysik, and Julich Center for Hadron Physics， Forschungszentrum Jilich, D-52425 Julich， Germany （204号 $^ 3$ State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences， Beijing 100190， China （204号 $^ 4$ Center of Theoretical Nuclear Physics，National Laboratoryof Heavy Ion Acelerator，Lanzhou 730oo0, China （204号 $^ { 5 }$ Synergetic Innovation Center for Quantum Effects and Application, Hunan Normal University，Changsha 410081，China (Dated:July 30,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Studies of fision dynamics,based on nuclear energy density functionals,have shown that the coupling between shape and pairing degrees of freedom has a pronounced efect on the nonperturbative collective inertia and, therefore,on dynamic (least-action) spontaneous fission paths and half-lives. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Purpose:To analyze effects of particle-number fluctuation degree of freedom on symmetric and asymmetric spontaneous fision (SF)dynamics,and compare with results ofrecent studies basedon the self-consistent HartreeFock-Bogoliubov（HFB） method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods:Collective potentials and nonperturbative cranking colective inertia tensors are calculated using the multidimensionaly-constrained relativistic mean-field(MDC-RMF）model.Pairing correlations are treated in the BCS approximation using a separable pairing force of finite range.Pairing fluctuations are included as a coletive variable using a constraint on particle-number dispersion.Fisson paths are determined with the dynamic programming method by minimizing the action in multidimensional collective spaces. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: The dynamics of spontaneous fission of $^ { 2 6 4 }$ Fm and $^ { 2 5 0 }$ Fm are explored. Fission paths,action integrals and corresponding half-lives computed in the thre-dimensional collctive space of shape and pairing coordinates, using the relativistic functional DD-PC1 and a separable pairing force of finite range,are compared with results obtained without pairing fuctuations. Results for $^ { 2 6 4 }$ Fmarealsodiscussed in relation with thoserecentlyobtained using the HFB model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions:The inclusion of pairing correlations in the space of colective coordinates favors axially symmetric shapes along the dynamic path of the fisioning system,amplifes pairing as the path traverses the fision barriers, significantly reduces the action integral and shortens the corresponding SF half-life. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.Jz,24.75.+i,25.85.Ca,27.90.+b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Important advances have recently been reported in microscopic modeling of the dynamics of spontaneous and induced fission,based on nuclear density functional theory(DFT) [1]. Within this framework,spontaneous fission (SF),in particular,is described by quantum tunneling through potential barrier(s) in a multidimensional space of coordinates that parametrize large-amplitude collective motion.Most calculations of SF lifetimes are based on the semiclassical Wentzel-Kramers-Brillouin (WKB）approximation for the one-dimensional barrier tunneling. The dynamics of the SF process is governed by the potential energy surface (PES) as function of the collective coordinates,and by the collective inertia along the fission path. The path along which the nucleus tunnels is determined by minimizing the fission action integral in the multidimensional collective space [2, 3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The PES's can be computed using the macroscopicmicroscopic(MM) model,or a number of self-consistent mean-field (SCMF）approaches based on microscopic effective interaction or energy density functionals.In most recent studies the multidimensional collective inertia tensor is usually determined using the adiabatic timedependent Hartree-Fock-Bogoliubov(ATDHFB) method with the perturbative cranking approximation (neglecting the contribution from time-odd mean fields and treats perturbatively the derivatives of single-nucleon and pairing densities with respect to collective coordinates)，or the nonperturbative cranking approximation (the derivatives with respect to collective coordinates are computed explicitly). Although perturbative cranking ATDHFB collective masses has extensively been used in SF fission half-life calculations [2,4-7],a number of recent studies [8-10] have indicated the essential role of the nonperturbative cranking ATDHFB approximation to the collective inertia for a quantitative dynamic description of SF. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the first approximation the effective collective inertia $\\mathcal { M } ~ \\propto ~ \\Delta ^ { - 2 }$ ，and the collective potential $V ~ \\propto$ $( \\Delta - \\Delta _ { 0 } ) ^ { 2 }$ ，where $\\Delta$ is the pairing gap and $\\Delta _ { 0 }$ corresponds to its self-consistent stationary value. When the gap parameter is treated as a dynamical variable,an enhancement of pairing correlations reduces the effective inertia and thus minimizes the action integral $S$ along the fission path [11]. A number of studies of SF have shown that the coupling of pairing fluctuations with the fission mode can significantly reduce the estimated fission lifetimes [12-19]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent studies dynamic fission paths determined with the least-action principle have been investigated using the Hartree-Fock-Bogogliubov(HFB) framework based on the Barcelona-Catania-Paris-Madrid [20], Gogny D1M [20],and Skyrme SkM $^ *$ [21,22] energy density functionals. The pairing gap parameter has been included as a dynamical variable in the collective space.As a result,an enhancement of pairing correlations along fission paths and the speedup of SF have been predicted. It has also been noted that pairing fluctuations can restore axial symmetry in the fissioning system [21, 22],although the triaxial quadrupole degree of freedom is known to play an important role around the inner and even outer barriers both along the static fission path for actinide nuclei (Ref. [23] and references therein)，and in the dynamic case when the influence of pairing fluctuations is not taken into account [9,10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Ref.[1O] we have used the multidimensionally constrained relativistic Hartree-Bogoliubov (MDC-RHB) to analyse effects of triaxial and octupole deformations, as well as approximations to the collective inertia,on the symmetric and asymmetric spontaneous fission dynamics. Based on the framework of relativistic energy density functionals,and using as examples $^ { 2 6 4 }$ Fmand 250Fm, our analysis has shown that the action integrals and,consequently, the half-lives crucially depend on the approximation used to calculate the effective collective inertia along the fission path. While the perturbative cranking approach underestimates the effects of structural changes at the level crossings,the nonperturbative collective mass is characterized by the occurrence of sharp peaks on the surface of collective coordinates, that can be related to single-particle level crossings near the Fermi surface,and this enhances the effective inertia. In this work we continue to explore the dynamics of SF of （204号 $^ { 2 6 4 }$ Fm and $2 5 0$ Fm but, in addition to shape deformation degrees of freedom，pairing correlations are included in the space of collective coordinates. The dynamic (leastaction） fission paths are determined in three-dimensional (3D)collective spaces,and the corresponding SF halflives are computed. Since calculations in the 3D collective space with the MDC-RHB model are computationally very demanding，here we employ the MDC-RMF model in which the pairing correlations are treated in the BCS approximation. The collective inertia tensor is calculated using the self-consistent relativistic mean-field (RMF） solutions and applying the ATDHFB expressions in the nonperturbative cranking approximation. The article is organized as follows: the method for calculating dynamic fission paths is described in Sec.II;numerical details of the calculation, results for the deformation energy landscapes,collective inertias,minimum-action fission paths and the corresponding half-lives are discussed in Sec.III;and Sec.IV contains a short summary of the main results. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. METHOD FOR CALCULATINGDYNAMIC FISSION PATHS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RMF-based models present a particular implementation of the relativistic nuclear energy density functional (EDF) framework,which has become a standard method for studies of the structure of medium-heavy and heavy nuclei [24-29]. As in our previous study of spontaneous fission [1O],here we employ the point-coupling relativistic EDF DD-PC1 [30]. Starting from microscopic nucleon self-energies in nuclear matter,and empirical global properties of the nuclear matter equation of state,the coupling parameters of DD-PC1 were fine-tuned to the experimental masses of a set of 64 deformed nuclei in the mass regions $A \\approx 1 5 0 - 1 8 0$ and $A \\approx 2 3 0 - 2 5 0$ .The functional has been further tested in a number of meanfield and beyond-mean-field calculations in different mass regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For a quantitative description of open-shell nuclei it is necessary to consider also pairing correlations.In the MDC-RMF model pairing is taken into account in the BCS approximation and here,as in Ref.[1O],we use a separable pairing force of finite range: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( { \\bf r } _ { 1 } , { \\bf r } _ { 2 } , { \\bf r } _ { 1 } ^ { \\prime } , { \\bf r } _ { 2 } ^ { \\prime } ) = G _ { 0 } \\ \\delta ( { \\bf R } - { \\bf R } ^ { \\prime } ) P ( { \\bf r } ) P ( { \\bf r } ^ { \\prime } ) \\frac { 1 } { 2 } \\left( 1 - P ^ { \\sigma } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { R } = ( \\mathbf { r } _ { 1 } + \\mathbf { r } _ { 2 } ) / 2$ and $\\mathbf { r } = \\mathbf { r } _ { 1 } - \\mathbf { r } _ { 2 }$ denote the centerof-mass and the relative coordinates,respectively,and $P ( \\mathbf { r } )$ reads ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( { \\bf r } ) = \\frac { 1 } { \\left( 4 \\pi a ^ { 2 } \\right) ^ { 3 / 2 } } e ^ { - { \\bf r } ^ { 2 } / 4 a ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The two parameters $G _ { 0 } ~ = ~ - 7 3 8$ MeV $\\mathrm { f m ^ { - 3 } }$ and $a \\ =$ 0.644 fm [31] have been adjusted to reproduce the density dependence of the pairing gap in nuclear matter at the Fermi surface calculated with the D1S parameterization of the Gogny force [32]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The energy landscape is obtained in a self-consistent mean-field calculation with constraints on mass multipole moments $Q _ { \\lambda \\mu } = r ^ { \\lambda } Y _ { \\lambda \\mu }$ ，and the particle-number dispersion operator $\\Delta \\hat { N } ^ { 2 } = \\hat { N } ^ { 2 } - \\langle \\hat { N } \\rangle ^ { 2 }$ [33]．In the present analysis the Routhian is therefore defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ^ { \\prime } = E _ { \\mathrm { R M F } } + \\sum _ { \\lambda \\mu } \\frac { 1 } { 2 } C _ { \\lambda \\mu } Q _ { \\lambda \\mu } + \\lambda _ { 2 } \\Delta \\hat { N } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\mathrm { R M F } }$ denotes the total RMF energy including static BCS pairing correlations.The amount of dynamic pairing correlations can be controlled by the Lagrange multipliers $\\lambda _ { 2 \\tau }$ ( $\\tau = n , p$ ),[21,34,35]. As it has recently been shown in a similar study of Ref.[21],the isovector pairing degree of freedom appears to play a far less important role in spontaneous fission as compared to isoscalar dynamic pairing.Therefore,the computational task can be greatly reduced by considering only dynamic pairing with $\\lambda _ { 2 n } = \\lambda _ { 2 p } \\equiv \\lambda _ { 2 }$ as a collective coordinate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The nuclear shape is parameterized by the deformation parameters ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\lambda \\mu } = \\frac { 4 \\pi } { 3 A R ^ { \\lambda } } \\langle Q _ { \\lambda \\mu } \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The shape is assumed to be invariant under the exchange of the $x$ and $y$ axes and all deformations $\\beta _ { \\lambda \\mu }$ with even $\\mu$ can be included simultaneously. The deformed RMF equations are solved by an expansion in the axially deformed harmonic oscillator（ADHO）basis [36]. In the present study of transactinide nuclei calculations have been performed in an ADHO basis truncated to $N _ { f } = 1 6$ oscillator shells.For details of the MDC-RMF model we refer the reader to Ref. [23]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The action integral along the one-dimensional fission path $L$ is calculated using the expression: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( L ) = \\int _ { s _ { \\mathrm { i n } } } ^ { s _ { \\mathrm { o u t } } } \\frac { 1 } { \\hbar } \\sqrt { 2 \\mathcal { M } _ { \\mathrm { e f f } } ( s ) \\left[ V _ { \\mathrm { e f f } } ( s ) - E _ { 0 } \\right] } d s ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { M } _ { \\mathrm { e f f } } ( s )$ and $V _ { \\mathrm { e f f } } ( s )$ are the effective collective inertia and potential along the path $L ( s )$ ，respectively. $E _ { 0 }$ is the collective ground state energy,and the integration limits correspond to the classical inner ( $s _ { \\mathrm { i n } }$ ）and outer ( $s _ { \\mathrm { o u t } }$ ）turning points defined by: $V _ { \\mathrm { e f f } } ( s ) = E _ { 0 }$ ： The fission path $L ( s )$ is determined in the multidimensional collective space by minimizing the action integral of Eq. (5) [2,3]. The spontaneous fission half-life is calculated as $T _ { 1 / 2 } = \\ln 2 / ( n P )$ ，where $n$ is the number of assaults on the fission barrier per unit time [9,21,37,38], and $P$ is the barrier penetration probability in the WKB approximation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\frac { 1 } { 1 + \\exp [ 2 S ( L ) ] } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The action integral Eq. (5) and, therefore, the fission half-life is essentially determined by the effective collective inertia and potential. The effective inertia is defined in terms of the multidimensional collective inertia tensor $\\mathcal { M }$ [2,9,10, 21,37, 38] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { \\mathrm { e f f } } ( s ) = \\sum _ { i j } \\mathcal { M } _ { i j } \\frac { d q _ { i } } { d s } \\frac { d q _ { j } } { d s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $q _ { i } ( s )$ denotes the collective variable as function of thepath's length. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the present study the inertia tensor is computed using the ATDHFB method in the nonperturbative cranking approximation [8] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { i j } ^ { C } = \\frac { \\hbar ^ { 2 } } { 2 \\dot { q } _ { i } \\dot { q } _ { j } } \\sum _ { \\alpha \\beta } \\frac { F _ { \\alpha \\beta } ^ { i * } F _ { \\alpha \\beta } ^ { j } + F _ { \\alpha \\beta } ^ { i } F _ { \\alpha \\beta } ^ { j * } } { E _ { \\alpha } + E _ { \\beta } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { F ^ { i } } { \\dot { q } _ { i } } = U ^ { \\dagger } \\frac { \\partial \\rho } { \\partial q _ { i } } V ^ { * } + U ^ { \\dagger } \\frac { \\partial \\kappa } { \\partial q _ { i } } U ^ { * } - V ^ { \\dagger } \\frac { \\partial \\rho ^ { * } } { \\partial q _ { i } } U ^ { * } - V ^ { \\dagger } \\frac { \\partial \\kappa ^ { * } } { \\partial q _ { i } } V ^ { * } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$U$ and $V$ are the self-consistent Bogoliubov matrices,and $\\rho$ and $\\kappa$ are the corresponding particle and pairing density matrices,respectively. The derivatives of the densities are calculated using the Lagrange three-point formula for unequally spaced points [39,40]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The collective potential $V _ { \\mathrm { e f f } }$ is obtained by subtracting the vibrational zero-point energy (ZPE) from the total RMF constrained energy surface [9,10,21,41, 42]. The fission path is determined in a multidimensional collective space using both the dynamic programming (DPM) [38] and Ritz[37] (RM)methods． For both methods we have considered several possible values for the turning points $s _ { \\mathrm { i n } }$ and $s _ { \\mathrm { o u t } }$ to verify that the minimum action path is chosen. Since both methods give virtually identical results,only those obtained using the DPM are included in the presentation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. SPONTANEOUS FISSION OF $^ { 2 6 4 }$ Fm AND 250Fm:PAIRING-INDUCED SPEEDUP ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the effect of dynamic pairing correlations along fission paths,as in our previous study of SF of Ref.[1O],we will analyze two illustrative examples: the symmetric spontaneous fission of $^ { 2 6 4 }$ Fm and the asymmetric SF of $2 5 0$ Fm. In addition to shape variables, here pairing correlations are also considered as collective coordinates in the study of fission dynamics. Because of computational restrictions and to simplify the interpretation of results,the present analysis is restricted to a three-dimensional (3D） collective space，defined by either $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ (quadrupole triaxial shapes）or $( \\beta _ { 2 0 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ (quadrupole and octupole axial shapes), where the coordinate $\\lambda _ { 2 }$ represents dynamic pairing fluctuations. The relativistic energy density functional DDPC1 [30] is employed in self-consistent RMF calculations of constrained energy surfaces,collective inertia tensors and fission action integrals. The height of fission barriers is sensitive to the strength of the pairing interaction [43] and,therefore,a particular choice of the pairing strength may have a considerable effect on fission dynamics. As explained above and in Ref.[1o],the parameters of the finite range separable pairing force were originally adjusted to reproduce the pairing gap at the Fermi surface in symmetric nuclear matter as calculated with the Gogny force D1S.A number of mean-field studies based on the relativistic Hartree-Bogoliubov (RHB) model have shown that the pairing strength needs to be fine-tuned in some cases,especially for heavy nuclei [44,45]. Since in the present study pairing correlations are treated in the BCS approximation，we have adjusted the strength parameters to reproduce the available empirical pairing gaps in Fm isotopes. The resulting values with respect to the original pairing strength adjusted in nuclear matter ( $G _ { 0 } ~ = ~ - 7 3 8$ MeV fm $^ { - 3 }$ ）are $G _ { n } / G _ { 0 } = 1 . 2 1$ ， $G _ { p } / G _ { 0 } = 1 . 1 4$ .As in Refs. [9,21] and our previous work Ref. [1O]，we choose $E _ { 0 } = 1$ MeV in Eq. (5) for the value of the collective ground state energy. This value enables a direct comparison of our results with those reported in previous studies,especially in Ref. [21]. For the vibrational frequency $\\hbar \\omega _ { 0 } = 1$ MeV the number of assaults on the fission barrier per unit is $1 0 ^ { 2 0 . 3 8 }$ $\\mathrm { s } ^ { - 1 }$ [46]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1893f589d2402e3184de0c1f665f4bfbdaf34503f73b2c2e267a0f9976f7159.jpg",
+        "img_caption": [
+            "FIG.1.（Color online）Effective collective potential $V _ { \\mathrm { e f f } }$ of （204号 $^ { 2 6 4 }$ Fm in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for $\\lambda _ { 2 } ~ = ~ 0$ (a)， and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ (b)．In each panel energies are normalized with respect to the corresponding value at the equilibrium minimum,and contours join points on the surface with the same energy (in MeV).The energy surfaces are calculated with the relativistic density functionals DD-PC1 [30], and the pairing interaction Eq. (1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A．Symmetric fission of ${ \\bf ^ { 2 6 4 } F m }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first example in our analysis of the influence of dynamical fluctuations in shape and pairing degrees of freedom on fission paths is the nucleus $2 6 4$ Fm, for which the oretical studies [47, 48] predict a symmetric spontaneous fission decay. The shape degrees of freedom in this case are elongation and triaxiality and,therefore,calculations of the energy landscape, inertia tensor,and fission paths are restricted to the 3D collective space $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fa1f01a8cbf0e152c3d613bf08d7578acc704a9add9369bdf087772a60194d0.jpg",
+        "img_caption": [
+            "FIG.2.(Color online）Cubic root determinants of the nonperturbative-cranking inertia tensor $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ (in $1 0 \\times$ $\\hbar ^ { 2 } \\mathrm { M e V } ^ { - 1 }$ of $^ { 2 6 4 } \\mathrm { F m }$ in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for $\\lambda _ { 2 } ~ = ~ 0$ (a)， and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1 we plot the collective potential energy (the vibrational ZPE is subtracted from the constrained selfconsistent mean-field energy） of $^ { 2 6 4 }$ Fm in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for $\\lambda _ { 2 } = 0$ (a),and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ (b).Therefore,panel (a) displays the results obtained without including dynamical pairing correlations,and the potential can be directly compared to the one shown in Fig.6(b)of Ref.[1O],where we used the relativistic Hartree-Bogoliubov (RHB) model to compute the energy surface.We notice that the energy landscapes obtained with RMF and RHB models are almost identical,and this validates the treatment of pairing in the BCS approximation in the present analysis.The functional DD-PC1 predicts an axially symmetric equilibrium state at moderate deformation ( $\\beta _ { 2 0 } \\approx 0 . 2$ ),and the axially symmetric barrier at $\\beta _ { 2 0 } \\approx 0 . 6$ is bypassed through the triaxial region,thus lowering the height of the barrier by $\\approx 2 . 5 - 3$ MeV.In panel (b) of Fig.1 we project the potential energy calculated in the 3D collective space that includes dynamic pairing,on the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane.For $\\beta _ { 2 2 } ~ = ~ 0$ (axially symmetric shape),the potential energy increases monotonically with $\\lambda _ { 2 }$ (stronger pairing） at each deformation $\\beta _ { 2 0 }$ .The topography of the collective potential in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane is relatively simple. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effective inertia that determines the fission action integral is defined in terms of the multidimensional collective inertia tensor $\\mathcal { M }$ Eq.(7).The important effects related to the exact treatment of derivatives of single particle and pairing densities in the ATDHFB expressions for the mass parameters were recently analyzed in Refs. [9] and [1O]. For the three-dimensional space of collective coordinates,six independent components determine the inertia tensor.The inertia tensor can be visualized by plotting the cubic root determinant $| \\mathcal { M } | ^ { 1 / 3 }$ ,invariant with respect to rotations in the three-dimensional collective space [21]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Fig.2 we plot $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ obtained in the nonperturbative cranking approximation, in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for ${ \\lambda } _ { 2 } ~ = ~ 0$ (a),and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ (b). These results correspond to the self-consistent solutions for the potential energy surfaces shown in Fig.1. The nonperturbative $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ ， calculated without dynamic pairing correlations,displays a rather complex structure in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane ( ${ \\lambda } _ { 2 } = 0$ ),as shown in panel (a). In particular, very large values of $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ are calculated in the region of the axial fission barrier.As discussed in Refs.[8-1O], this is related to single-particle level crossings near the Fermi surface.The abrupt changes of occupied single-particle configurations lead to strong variations in the derivatives of densities in Eq.(9) and, consequently,sharp peaks develop.When dynamic pairing correlations are included in the collective space (panel (b)),a simple dependence of the nonperurbative $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ on $\\lambda _ { 2 }$ is obtained at each deformation $\\beta _ { 2 0 }$ ,consistent with the expected relation $\\mathcal { M } \\propto \\Delta ^ { - 2 }$ .We note that the results for $^ { 2 6 4 }$ Fm, shown in Figs.1 and 2,are very similar to those obtained using the nonrelativistic HFB framework based on the Skyrme energy density functional SkM $^ *$ and a density-dependent pairing interaction (cf. Fig. 2 of Ref. [21]). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c626e8ee0e46f22d3b439c48183b622106a6d1d9279fcc5337baa4298f5680ec.jpg",
+        "img_caption": [
+            "FIG.3.(Color online）Projections of the three-dimensional (3D)dynamic path (solid curves) for the spontaneous fission of $^ { 2 6 4 }$ Fm on the $\\left( \\beta _ { 2 0 } , \\beta _ { 2 2 } \\right)$ plane for $\\lambda _ { 2 } ~ = ~ 0$ (a)，and the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ (b),calculated using the dynamic programming method. The dash-dot-dot curve denotes the two-dimensional (2D）path computed without the inclusion of dynamic pairing correlations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coupling between shape and pairing degrees of freedom has a pronounced effect on the predicted fission paths.As the effective potential increases from the self-consistent values because of the enhancement of pairing,the effective collective inertia is reduced $\\propto ~ \\Delta ^ { - 2 }$ These two effects determine the minimum-action path in Eq. (5). The projections of the 3D spontaneous fission path of $^ { 2 6 4 }$ Fm on the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane and on the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane are shown in Fig.3(a）and (b),respectively (solid curves). The two-dimensional (2D) path calculated without pairing fluctuations ( $\\lambda _ { 2 } = 0$ ）isalso included for comparison (dash-dot curve). It is very interesting to note that,while the 2D dynamic path detours the axial barrier through the triaxial region,the extension of the collective space by the pairing degree of freedom fully restores the axial symmetry of the fissioning system. The evolution of the pairing strength along the axially symmetric fission path is shown in the lower panel of Fig.3. One notices how，in order to reduce the collective inertia,the fissioning nucleus favors an increase in pairing over the static self-consistent solution, at the expense of a larger potential energy. Because of pairing fluctuations, the corresponding fission action integralis reduced by about 5 units with respect to the 2D path and,consequently, the predicted half-life is almost five orders of magnitude shorter in comparison to the 2D case without the dynamic pairing degree of freedom (cf.Table I).This result can directly be compared to the one obtained using the the Skyrme energy density functional SkM $^ *$ and a density-dependent pairing interaction (cf.Fig.3 of Ref. [21]).In the latter case triaxiality is reduced along the 3D fission path because of dynamic pairing fluctuations,but the full axial symmetry is not restored. This is probably due to the fact that in the 2D calculation with the Skyrme functional the triaxial coordinate reduces the fission barrier height by more than 4 MeV (less than 3 MeV in the present calculation with DD-PC1). A combination of a higher axially symmetric fission barrier and/or possibly weaker pairing,prevents the full restoration of axial symmetry along the 3D fssion path of $^ { 2 6 4 }$ Fm.In the case of $^ { 2 4 0 }$ Pu,on the other hand, for which the Skyrme functional SkM $^ *$ predicts an energy gain on the first barrier resulting from triaxiality of only 2 MeV, the inclusion of pairing fluctuations leads to a full restoration of axial symmetry along the 3D fission path between the equilibrium ground state and the superdeformed fission isomer (cf. Fig. 5 of Ref. [21]). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a96788391b312fa49341d61632f40df21ddb9780e44af5eee7e9d2b2eee91d84.jpg",
+        "img_caption": [
+            "FIG.4.(Color online） Same as described in the caption to Fig.1 but for the nucleus ${ } ^ { 2 5 0 } \\mathrm { F m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e61983b731627df0da3ecddf56d0f58dd3e1edd7878fac5b845856f9b38bda3.jpg",
+        "img_caption": [
+            "FIG.5.(Color online) Same as described in the caption to Fig. 2 but for the nucleus ${ } ^ { 2 5 0 } \\mathrm { F m }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B.Asymmetric fission of $\\mathbf { 2 5 0 } _ { \\mathbf { F m } }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the second example we explore the interplay be tween reflection-asymmetric shapes and pairing degrees of freedom,and analyze the asymmetric spontaneous fission of ${ } ^ { 2 5 0 } \\mathrm { F m }$ [48]. Since the triaxial degree of freedom isparticularly important around the inner fission barrier,and the complete calculation in the four-dimensional collective space $( \\beta _ { 2 0 } , \\ \\beta _ { 2 2 } , \\ \\beta _ { 3 0 } , \\ \\lambda _ { 2 } )$ is computationally too demanding,we first analyze the path that connects the mean-field equilibrium (ground) state and the isomeric fission state calculated in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ collective space. The collective potential energy surface of $2 5 0$ Fm in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for $\\lambda _ { 2 } ~ = ~ 0$ ，and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } = 0$ ,is plotted in upper and lower panels of Fig.4,respectively. The inclusion of the triaxial degree of freedom reduces the inner fission barrier height by $\\approx 2$ MeV,and this effect is similar in magnitude to the case of $^ { 2 6 4 }$ Fm considered in the previous section.The lower panel displays the projection of the potential energy calculated in the 3D collective space on the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane and we notice that,for $\\beta _ { 2 2 } = 0$ ，the energy increases monotonically with $\\lambda _ { 2 }$ at each value of the axial deformation parameter $\\beta _ { 2 0 }$ ，with a pronounced fission barrier around $\\beta _ { 2 0 } \\approx 0 . 5 5$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The deformation dependence of the nonperturbative collective inertia tensor is displayed in Fig.5，where we plot the cubic root determinants $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ and $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ planes.The global deformation dependence of $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ is similar to the one calculated for $^ { 2 6 4 }$ Fm and shown in Fig. 2, that is, $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ displays strong variations in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ plane for $\\lambda _ { 2 } = 0$ . and pronounced peaks generated by single-particle level crossings near the Fermi surface appear in the region of the fission barrier.By including the dynamic pairing degree of freedom, one finds that $| \\mathcal { M } ^ { C } | ^ { 1 / 3 }$ decreases as $\\lambda _ { 2 }$ increases at each deformation $\\beta _ { 2 0 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The projections of the 3D dynamic path determined in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ collective space is shown in Fig. 6 (solid curves). The minimum-action path connects the inner turning point and the isomer minimum at $\\beta _ { 2 0 } \\approx 0 . 9 5$ The 2D path calculated in $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ collective space is also included(dash-dot red curve) for comparison.Even though the 2D dynamic path does not extend very far in the triaxial region,the triaxial shape degree of freedom is important in the calculation of the fission action integral, similar to the result we obtained with the RHB model in our previous study of fission dynamics (cf. Fig 12 of [1ol). However,since triaxiality gains only $\\approx 2$ MeV in energy on the first barrier, the inclusion of dynamic pairing fluctuations fully restores axial symmetry in the fissioning system (upper panel of Fig. 6).Pairing is enhanced with respect to the static solution along the axially symmetric path and, consequently, the action integral in the interval between the inner turning point and the isomeric state decreases from 23.06 (2D dynamic path) to 14.90 along the 3D fssion path. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/168c28a4f467398007481f3824f59b4fb5e9da5be18ce93d61a34ae12baec511.jpg",
+        "img_caption": [
+            "FIG.6.(Color online）Projections of the three-dimensional (3D）dynamic fission path (solid curves)of ${ } ^ { 2 5 0 } \\mathrm { F m }$ on the $\\left( \\beta _ { 2 0 } , \\beta _ { 2 2 } \\right)$ plane for $\\lambda _ { 2 } ~ = ~ 0$ (a),and the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 2 2 } ~ = ~ 0$ (b)，The dash-dot (red）curve denotes the twodimensional (2D) path computed without the inclusion of dynamic pairing correlations. The minimum-action paths connect the inner turning point and the fission isomer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Since the triaxial shape degree of freedom is suppressed，that is,it does not contribute to the action integral in the dynamic case when pairing fluctuations are included,we can analyze the SF decay of $2 5 0$ Fm in the restricted 3D collective space with coordinates $( \\beta _ { 2 0 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ .In Fig. 7 we display the collective potential of $2 5 0$ Fm in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane for ${ \\lambda } _ { 2 } ~ = ~ 0$ (a）， and in the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 3 0 } = 0$ (b). The meanfield equilibrium (ground） state is predicted at moderate quadrupole deformation $\\beta _ { 2 0 } \\approx 0 . 3$ ,and the isomeric minimum at $\\beta _ { 2 0 } \\approx 0 . 9 5$ .The nucleus remains reflection symmetric through the entire region of quadrupole deformations $\\beta _ { 2 0 } \\leq 1 . 4$ ．As in the previous cases,at each deformation the potential energy rises steeply with increasing $\\lambda _ { 2 }$ ，as shown in the lower panel of Fig.7. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The dynamic path computed in the restricted 2D collective space $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ (dash-dot red curve),and the projections of the path determined in the 3D collective space $( \\beta _ { 2 0 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ (solid curves),are shown in Fig.8.In the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane the 2D and 3D paths are almost indistinguishable.From the mean-field equilibrium state to the fission isomer the reflection-asymmetric shape degree of freedom does not contribute,whereas it plays a crucial role along the dynamic path connecting the isomeric state and the outer turning point.The effect of pairing fuctuations on the asymmetric fission of $2 5 0$ Fm is illustrated in the lower panel of Fig.8. The dynamic pairing correlations are markedly amplified along the fission path when the nucleus traverses the inner and outer barriers, and this has a significant effect on the effective inertia. In fact,even though the 2D and 3D paths are almost identical in the plane of axially symmetric shape degrees of freedom $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ ，because of pairing fluctuations in the 3D case the fission action integral is reduced by as much as $\\sim 1 0$ units (see Table I). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/89117b93d5a4c6428b4bd552c96507c42c998692a140e7c6f5909f4f60a764fb.jpg",
+        "img_caption": [
+            "FIG.7.（Color online）Effective collective potential $V _ { \\mathrm { e f f } }$ of ${ } ^ { 2 5 0 } \\mathrm { F m }$ in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane for $\\lambda _ { 2 } = 0$ (a) and the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 3 0 } = 0$ (b).In each panel energies are normalized with respect to the corresponding value of the equilibrium minimum,and contours join points on the surface with the same energy (in MeV).The energy surfaces are calculated with the density functionals DD-PC1 [30],and the pairing interaction Eq.(1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The calculated action integrals and resulting fission half-lives for $2 6 4$ Fm and $2 5 0$ Fm are listed in Tab.I. 2D denotes the values obtained in two-dimensional collective spaces without taking dynamic pairing fluctuations into account,whereas 3Dlabels the values calculated in threedimensional spaces that include the pairing degree of freedom as collective coordinate.For the symmetric spontaneous fission of $^ { 2 6 4 }$ Fm the dynamic paths are determined in the $( \\beta _ { 2 0 } , \\beta _ { 2 2 } )$ and $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ collective spaces.The path traverses a single fission barrier and the axial symmetry of the fissioning system is fully restored by the inclusion of dynamic pairing correlations.As a result,in the 3D space the action integral is reduced by $\\sim 5$ units, and the predicted half-life is almost five orders of magnitude shorter than in the 2D case that neglects dynamic pairing fluctuations. For the asymmetric fissioning nucleus $2 5 0$ Fm we have also shown that, although triaxial effects are important in the static case or in the dynamic case without pairing fluctuations,the triaxial shape degree of freedom does not play a role when pairing is included as collective variable, just as in the case of $^ { 2 6 4 }$ Fm. Therefore, the SF action integral and fission half-life can be determined in the 3D collective space $( \\beta _ { 2 0 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ Two barriers are traversed by the fission path and,as the result of significantly enhanced dynamic pairing correlations,theaction integral isreduced by $\\sim 1 0$ units as compared to the value computed along the 2D path in the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ collective space.The corresponding halflife is almost nine orders of magnitude shorter than the value predicted in the 2D space $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1254652b0d27540fe25fd57750cf997a8de92efef5f2c65b92c9f95b6f54201.jpg",
+        "img_caption": [
+            "FIG.8.(Color online) Projections of the 3D dynamic fission path (solid curves) of $^ { 2 5 0 }$ Fm on the $( \\beta _ { 2 0 } , \\beta _ { 3 0 } )$ plane for $\\lambda _ { 2 } =$ 0 (a)，and the $( \\beta _ { 2 0 } , \\lambda _ { 2 } )$ plane for $\\beta _ { 3 0 } ~ = ~ 0$ (b).The dashdot (red) curve denotes the 2D path computed without the inclusion of dynamic pairing correlations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/87bba36e205383b551052f3468ff1e6b5da229ecd3010d884aec2dcbf4880fb5.jpg",
+        "table_caption": [
+            "TABLE I.Values for the action integral and SF half-lives of $^ { 2 6 4 }$ Fm and $^ { 2 5 0 }$ Fm that correspond to the fission paths displayed in Figs.3and 8. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nucleus</td><td>Path</td><td>S(L)</td><td>log10(T1/2/yr)</td></tr><tr><td>264Fm</td><td>2D</td><td>19.58</td><td>-11.03</td></tr><tr><td>250Fm</td><td>3D</td><td>14.15</td><td>-15.75</td></tr><tr><td></td><td>2D</td><td>32.09</td><td>-0.16</td></tr><tr><td></td><td>3D</td><td>22.33</td><td>-8.64</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IV. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The dynamics of spontaneous fission of $^ { 2 6 4 }$ Fm and $2 5 0$ Fm have been investigated in a theoretical framework based on relativistic energy density functionals and,in addition to shape deformation degrees of freedom,pairing correlations have been included as collective coordinates. Effective potentials and nonperturbative ATDHFB cranking collective inertia tensors have been calculated using the multidimensionally-constrained relativistic mean-field(MDC-RMF)model based on the energy density functional DD-PC1,and pairing correlations taken into account in the BCS approximation with a separable pairing force of finite range. The effect of coupling between shape and pairing degrees of freedom on dynamic (least-action) fission paths,as well as the corresponding SF half-lives has been analyzed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "264Fm undergoes symmetric fission into two $^ { 1 3 2 }$ Sn nuclei.Hence，this process can be described in the 3D collective space $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\lambda _ { 2 } )$ ，where $\\lambda _ { 2 }$ is the Lagrange multiplier related to pairing fluctuations via the particlenumber dispersion operator.The dynamic path that connects the mean-field ground state and the isomeric state of $2 5 0$ Fm is also studied in this 3D collective space. For both nuclei triaxial deformations reduce the height of the static inner barrier by $2 - 3$ MeV.However，axial symmetry of the fissioning system is fully restored along the dynamic paths when pairing is included as collective coordinate and, simultaneously,pairing correlations are significantly enhanced. The description of asymmetric spontaneous fission of $2 5 0$ Fm necessitates the inclusion of the octupole (reflection-asymmetric) degree of freedom $\\beta _ { 3 0 }$ and,in principle,calculations should be carried out in the full 4D space spanned by the collective coordinates $( \\beta _ { 2 0 } , \\beta _ { 2 2 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ .However,since the triaxial degree of freedom does not play a role in the dynamic case that includes pairing fluctuations,the fission action integral could be computed along the dynamic path in the symmetry-restricted 3D collective space $( \\beta _ { 2 0 } , \\beta _ { 3 0 } , \\lambda _ { 2 } )$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The octupole deformation degree of freedom becomes crucial beyond the isomeric state,and pairing correlations display a pronounced increase when the path traverses the inner and outer barriers.Consistent with the findings of Ref.[21],it has been shown that the inclusion of pairing correlations in the space of collective coordinates, that is, the dynamical coupling between shape and pairing degrees of freedom,reduces the fission action integral by several units (more than five in the case of $^ { 2 6 4 }$ Fm, and almost ten for $2 5 0$ Fm) and, therefore,has a dramatic effect on the calculated SF half-lives. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported in part by the NEWFELPRO project of the Ministry of Science, Croatia,co-financed through the Marie Curie FP7-PEOPLE2011-COFUND program,the Croatian Science Foundation-project “Structure and Dynamics of Exotic Femtosystems” (IP-2014-09-9159)，the National Key Basic Research Program of China (Grant No. 2013CB834400), the National Natural Science Foundation of China (Grants No.11120101005，No.11120101005，No. 11275248 and No. 11525524)and the Knowledge Innovation Project of the Chinese Academy of Sciences (Grant No. KJCX2-EW-No1).Calculations have been performed in part at the High-performance Computing Cluster of SKLTP/ITP-CAS. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] N. Schunck and L. M. Robledo, arXiv:1511.07517v1 (2015). [2] M. Brack，J. Damgaard, A.S. Jensen, H.C. Pauli,V.M.Strutinsky, and C. Y. Wong, Rev.Mod.Phys.44,320 (1972).   \n[3]T. Ledergerber and H.-C. Pauli, Nucl.Phys.A 207,1 (1973).   \n[4] S.G.Nilsson, C.F.Tsang,A. Sobiczewski, Z. Szymanski, S.Wycech,C.Gustafson,I.-L.Lamm,P. Moller，and B. Nilsson,Nucl. Phys.A 131,1 (1969).   \n[5]M. Girod and B. Grammaticos, Nuclear Physics A 330,40 (1979). [6] D.Bés and Z. Szymanski, Nuclear Physics 28,42 (1961). [7] A.Sobiczewski, Z. Szymaiski, S.Wycech, S.G.Nilsson, J.R.Nix,C.F.Tsang,C.Gustafson，P.Moller，and B.Nilsson,Nucl. Phys.A 131,67 (1969).   \n[8] A.Baran, J.A. Sheikh,J.Dobaczewski,W.Nazarewicz, and A. Staszczak,Phys.Rev.C 84,054321 (2011).   \n[9] J.Sadhukhan，K.Mazurek, A. Baran, J.Dobaczewski，W.Nazarewicz, and J. A. Sheikh, Phys. Rev.C 88,064314 (2013).   \n[10] J.Zhao，B.-N.Lu，T.Niksic, and D. Vretenar, Phys.Rev.C 92,064315 (2015).   \n[11] L. Moretto and R. Babinet, Phys. Lett.B 49,147 (1974).   \n[12] M. Urin and D. Zaretsky, Nucl. Phys.75,101 (1966).   \n[13] Y.A. Lazarev,Phys. Scr.35,255 (1987).   \n[14] A. Staszczak,A. Baran,K.Pomorski, and K.Boning, Phys.Lett.B 161,227 (1985).   \n[15]R.Smolanczuk，H.V.Klapdor-Kleingrothaus, and A. Sobiczewski,Acta Phys.Pol.B 24,685 (1993).   \n[16] A． Staszczak，S.Pilat, and K. Pomorski, Nucl.Phys.A 504, 589 (1989).   \n[17] Z. Lojewski and A. Staszczak, Nucl. Phys.A 657,134 (1999).   \n[18] M. Mirea and R. C. Bobulescu, J.Phys.G: Nucl. Part.Phys.37, 055106 (2010).   \n[19] K.Pomorski, Int.J.Mod.Phys.E 16,237 (2007).   \n[20] S.A.Giuliani，L.M.Robledo, and R. RodriguezGuzman, Phys.Rev. C 90, 054311 (2014).   \n[21]J.Sadhukhan，J.Dobaczewski,W.Nazarewicz，J.A. Sheikh，and A.Baran,Phys.Rev.C 90,061304 (2014).   \n[22] J.Sadhukhan，W.Nazarewicz, and N. Schunck, Phys. Rev.C 93,011304 (2016).   \n[23] B.-N.Lu,J. Zhao,E.-G. Zhao, and S.-G. Zhou, Phys.Rev.C 89,014323 (2014).   \n[24] B.D.Serot and J.D.Walecka,Adv.Nucl. Phys.16,1 (1986).   \n[25]P.G.Reinhard,Rep.Prog.Phys.52,439 (1989).   \n[26] P.Ring,Prog.Part. Nucl. Phys.37,193 (1996).   \n[27] M.Bender,P.-H.Heenen, and P.-G. Reinhard, Rev.Mod.Phys.75,121 (2003).   \n[28] D.Vretenar,A. Afanasjev,G. Lalazissis, and P. Ring, Phys.Rep.409,101 (2005).   \n[29] J.Meng,H. Toki,S. Zhou,S.Zhang,W.Long，and L. Geng, Prog.Part. Nucl. Phys.57, 470 (2006).   \n[30] T.Niksic, D. Vretenar, and P. Ring, Phys. Rev.C 78,034318 (2008).   \n[31]Y. Tian, Z. Y. Ma, and P. Ring, Phys.Lett.B 676,44 (2009).   \n[32]J Berger, M. Girod, and D. Gogny, Comput.Phys.Commun.63,365 (1991).   \n[33]P.Ring and P.Schuck, The Nuclear Many-Body Problem (Springer Verlag,New York,1980).   \n[34] N.L. Vaquero，T. R. Rodriguez, and J. L. Egido, Phys.Lett.B 704, 520 (2011).   \n[35] N.L.Vaquero，J. L. Egido, and T. R. Rodrguez, Phys. Rev.C 88,064311 (2013).   \n[36] Y.Gambhir，P.Ring, and A. Thimet, Ann.Phys.198,132 (1990).   \n[37] A.Baran, Phys.Lett. B 76,8 (1978).   \n[38]A.Baran，K.Pomorski，A.Lukasiak, and A. Sobiczewski, Nuclear Physics A 361,83 (1981).   \n[39] M. J. Giannoni and P. Quentin, Phys.Rev.C 21,2076 (1980).   \n[40] E. Yuldashbaeva,J.Libert,P.Quentin，and M.Girod, Phys.Lett.B 461,1(1999).   \n[41]A. Staszczak， A.Baran, and W. Nazarewicz, Phys. Rev.C 87,024320 (2013).   \n[42]A. Baran， A． Staszczak， J. Dobaczewski, and W.Nazarewicz,Int.J.Mod.Phys.E16,443 (2007).   \n[43] S. Karatzikos,A. Afanasjev, G. Lalazisss, and P. Ring, Phys.Lett.B 689,72 (2010).   \n[44] L. J. Wang, B. Y. Sun, J. M. Dong， and W.H. Long, Phys. Rev.C 87,054331 (2013).   \n[45] A.V.Afanasjev and O. Abdurazakov, Phys.Rev.C 88,014320 (2013).   \n[46] A．Baran，Z. Lojewski，K.Sieja, and M. Kowal, Phys.Rev.C 72,044310 (2005).   \n[47]A. Staszczak， A. Baran， J. Dobaczewski, and W.Nazarewicz,Phys.Rev.C 80,014309 (2009).   \n[48] A． Staszczak， A. Baran, andW.Nazarewicz, Int.J.Mod.Phys.E 20,552 (2011). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

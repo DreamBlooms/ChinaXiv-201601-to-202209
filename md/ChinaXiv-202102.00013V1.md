@@ -1,0 +1,192 @@
+# 使命感的影响效果及其展望
+
+杨付」刘清
+
+（1西南财经大学工商管理学院，成都611130)
+
+摘要使命感(calling)作为一个前沿主题，近年来受到理论界和实务界的广泛关注。根据 PRISMA申明推荐的文献搜索流程，保留国内外使命感的影响效果相关文献，对这些文献进行系统梳理和分析，总结出使命感影响效果的三种变量类型：职业心理与状态、职业技能与能力以及职业过程与产出。未来研究应进一步探索使命感消极影响，关注双刃剑效应；分析使命感文化差异，探讨跨文化比较效应；构建使命感团队模型,延伸研究层次；追踪使命感变化，构建动态模型。
+
+关键词 职业，使命感，影响效果，PRISMA申明
+
+1引言
+
+使命感(calling)起源于一种宗教情境，描述了一个上帝号召人们去做与他们的天资和生活环境相匹配的工作过程(Luther,1883)。在职业环境中，使命感是一个新兴的概念，在 2007年后关于使命感的实证研究才刚刚起步，随着人们对人生意义的重视和自我实现行为的追寻，这一转折点后使命感在心理学及相关分支学科中产生了大量研究成果(Duffy&Dik,2013)，受到职业心理学界和管理学界的重视。使命感作为一种超越自我的超然召唤，通过一种以展示或获得目的感或意义感为导向的方式来接近一个特定的生活角色，这种方式将以他人为导向的价值观和目标作为动力的主要来源(Dik&Duffy,2009)。此次抗击新冠肺炎疫情行动中，医务人员们舍生忘死的“逆行”，正是使命感在实践中的强大体现。西方学者对使命感进行了深入研究，发现其对组织和个体发展具有积极的作用。使命感能够增强个体对于多变职业环境的适应能力(Duffy& Blustein，2005；Praskova et al.,2014)和自身职业决定自我效能感(Douglass& Duffy,2015），进而获得更高的职业期望(Domene,2012；Kaminsky& Behrend,2015)。作为一种主观的心理感受，使命感能够提高个体的职业成熟度和幸福感(Hirschi &
+
+Herrmann,2013),促进个体工作和生活满意度(Duffy& Sedlacek,2010;Lee et al.,2020)。同时，使命感会增强个体对组织的依附(Cardador etal.,2011)，改进情境绩效(Rawat ＆Nadavulakere,2015)和激发组织公民行为(Xie et al.,2017)。
+
+使命感逐渐受到理论界和实务界的广泛关注，国内外零星开始对使命感进行系统性梳理、分析和总结，并指明了未来研究的具体方向。例如,Duffy 和Dik(2013)以及谢宝国等人(2016)均对使命感研究进行了回顾和总结。值得强调的是，本文与这些研究存在明显差异。具体而言，首先，研究时间范围存在差异。Duffy 和 Dik 主要评述了2013 年以前的研究成果，谢宝国等人着重于 2016 年前的研究成果，而本文在此基础上将使命感相关文献范围延伸扩展至 2019 年(2016—2019 年文献占比为 $4 3 . 3 3 \% \mathrm { , }$ 。其次，研究导向存在差异。从使命感的影响效果分析来看，这两篇综述文献均从具体变量入手，对使命感相关研究的系列成果进行系统梳理和分析，而本文紧密围绕“使命感能够带来什么影响效果”这一问题导向来进行深入探讨。最后，研究内容存在差异。Duffy 和Dik 总结了使命感对职业成熟度(career maturity)、工作产出、领域满意(domain satisfaction)和幸福感等方面具有积极影响，提出未来使命感研究应聚焦的发展方向，例如纵向研究、理论模型构建和人群多元化等。谢宝国等人主要梳理使命感的概念和测量，聚焦于使命感对主观幸福感和工作态度以及行为的正向作用。与之相比，本文首先按照 PRISMA 申明推荐的文献检索流程，依次通过识别(Identification)、筛选(Screening)、合格(Eligibility)和保留(Included)等步骤对国内外使命感相关文献进行检索和梳理，然后使用VOSviewer 软件对保留的57篇与使命感影响效果相关的中英文文献进行导入和分析，获得两个结果视图，即标签视图和密度视图，最后对使命感影响效果按照三种变量类型进行分析和总结，并在此基础上提出具体的研究展望。
+
+本研究将采用 PRISMA 申明推荐的文献检索方法，通过系统梳理国内外使命感研究的相关文献，主要探讨使命感的影响效果，将这些影响效果划分为职业心理与状态、职业技能与能力以及职业过程与产出等三个类型，进一步深入分析“使命感能够带来什么影响效果”这一具体问题，以期为使命感的未来研究提供发展方向和重要启示。
+
+# 2 文献检索与筛选
+
+为保证文献搜索过程的系统性和文献保留的全面性，根据经典文献推荐的 PRISMA 申 明(preferred reporting items for systematic reviews and meta-analyses; Moher et al., 2O10)对文 献进行检索与筛选。
+
+# 2.1识别(Identification)
+
+文献检索仅限于中英文，发表时间范围为 2005年到 2019 年间的文章，选取2005 年为起点年限原因在于Hall和Chandler(2005)建立了第一个以使命感为核心的模型——职业成功使命感模型，使命感研究逐渐进入了学者们的视线，随后使命感得到了理论界的广泛探讨。中文检索主要基于中国知网、万方数据库和维普中文科技期刊数据库，以“使命感”“感召”“召唤”和“号召”为检索词，分别针对篇名、关键词或摘要进行搜索；英文检索主要基于Web of Science、ProQuest 和 EBSCO/host，以“calling”为检索词。需要说明的是，为了准确回顾具有更高影响力的心理学和管理学期刊文献，同时，根据 Gardner 等(2011)在内容分析法中的观点，由于会议论文和学位论文相对缺少同行审查（peer review process）和互动修改过程，可能缺少坚实的理论依据和经验方法，建议剔除，因此，中文文献仅筛选发表在中文社会科学引文索引(CSSCI)和北大核心期刊中包含的心理学和管理学期刊上的文献，并在检索文献时将中英文会议论文和学位论文排除。由于以上英文数据库检索方式存在差异，在实际检索过程中，Webof Science主要针对主题检索（主题检索选项包括“标题、摘要、作者与关键词”信息)，ProQuest主要针对所有主题和索引、文档标题或摘要检索，而 EBSCO主要针对标题、摘要或关键词检索。上述初步检索（initial search)共获得英文文献合计13034篇（Web of Science 合计 6451 篇；EBSCO/host 合计 2037篇；ProQuest 合计 4546 篇），中文文献合计16522篇（知网合计8119篇；维普合计2188 篇；万方合计6215篇）。
+
+# 2.2筛选(Screening)
+
+针对初步检索所得文献，剔除中英文数据库间的重复文献。英文文献以EBSCO/host为标准，剔除 ProQuest 和Web of Science 中的重复文献合计1036 篇，剩余英文文献合计11998篇；同时，中文文献以中国知网为标准，剔除维普中文科技期刊数据库和万方数据库中的重复文献合计2724 篇，剩余中文文献合计13798 篇。
+
+# 2.3合格(Eligibility)
+
+本研究保留以使命感为核心的心理学和管理学领域中英文文献，剔除生物学、生物化学、社会学、医学以及通讯等领域在内的其它领域文献，包括英文文献合计11892 篇和中文文献合计13779 篇，剩余英文文献合计106 篇和中文文献合计19 篇。
+
+# 2.4保留(Included)
+
+阅读全文后，剔除与使命感无关的文献，包括英文文献合计3篇和中文文献合计2篇，保留英文文献合计103 篇和中文文献合计17篇。本文主要围绕使命感能够带来什么影响效果这一问题展开分析，为保证研究问题与内容的一致性，在120 篇文献中删除63 篇与使命感影响效果无关的文献，最终获得有效文献合计 57篇。其中中文文献合计8篇，英文文献合计49 篇。上述文献系统检索流程如图1所示。
+
+图1文献系统检索流程  
+![](images/a57968d2a2cb76e48517872ea58327dca7a41af4f7a79bb4e6a2bf5e612a6a89.jpg)  
+注：截止日期为2019年12月31日
+
+# 3 文献可视化分析
+
+将与使命感影响效果相关的57篇中英文文献导入VOSviewer进行可视化分析，最终获得两个结果视图，分别为标签视图(图2)和密度视图(图3)。
+
+由标签视图可看出，使命感影响效果相关文献的关键词条目主要分为4个群组。第一个群组包含了9个条目，其中“使命感”出现次数最多，链接强度最大，该群组关键词条目主要涉及两个类别的变量：一是包含工作绩效和工作满意度等与职业内职业过程与产出相关的变量；二是包含意义感和组织及职业承诺等与职业心理与状态相关的变量。第二个群组包含了9个条目，这些关键词条目涉及了两个类别的变量，除了包含产出期望和职业满意度等与职业内职业过程与产出相关的变量外，还包含了自我效能感在内的与职业技能与能力相关的变量。第三个群组包含了5个条目，主要聚焦于使命感对包括人生意义和生活满意度等与职业外职业过程与产出相关变量的影响研究。最后一个群组仅包含了3个条目，但主题较为分散，“动机”与“工作参与”的出现次数和链接强度接近，可依次归类到职业心理与状态、与职业内职业过程与产出相关的变量类型。通过对标签视图中4个群组的关键词条目分析和整理所得，使命感影响效果包括三个类型：职业心理与状态、职业过程与产出以及职业技能与能力。同时，对密度视图进行分析，图中每个点的颜色指示了该点处项目的密度，颜色范围从蓝色到绿色再到黄色。一个点附近的项目数量越多，相邻项目的权重越高，该点颜色越接近黄色。在密度视图中可以发现，“使命感”这一条目的密度很大，而其影响效果各条目的密度相对而言较低，表示使命感在与其影响效果的相关研究中占据核心地位。
+
+![](images/51c0f7609ae172a2dcf24b8ab75c07d5ddec93ca4da3b942073653e174d88697.jpg)  
+图2标签视图
+
+![](images/45074147d9f351e8b516d21244fb88ff8b36b34af278c9e73388acb30dcebf58.jpg)  
+图3密度视图
+
+# 4 影响效果
+
+使命感影响效果的理论模型主要包括职业成功使命感模型(a calling modelof careersuccess; Hall& Chandler,2005)和工作使命感模型(work as a calling model; Duffy et al., 2018)。职业成功使命感模型指出，使命感能够强化个体的职业能力和提升个体积极的职业心理(Hall&Chandler,2005)。同时，工作使命感模型认为，实现使命感能够为个体带来积极的职业产出(Duffy etal.,2018)。根据这两种理论模型，使命感影响效果可划分为职业心理、职业能力和职业产出。这三种变量类型的划分与文献可视化分析结果中的标签视图相一致，具体而言，标签视图中组织承诺、职业承诺和意义感等与职业心理与状态相关的条目对应着积极的职业心理；自我效能感和受雇能力等与职业技能与能力相关的条目对应着职业能力；工作绩效、工作满意度和产出期望等与职业过程与产出相关的条目则对应着职业产出。因此，根据上述两种以使命感为中心的理论模型，结合文献可视化结果，我们将使命感影响效果划分为三种类型：职业心理与状态、职业过程与产出以及职业技能与能力。
+
+# 4.1职业心理与状态
+
+使命感能够为个体带来积极的职业心理与状态。具体而言，基于外部环境的视角，高使命感的个体拥有更明确的目标，他们会打破壁垒进入社会环境，将组织作为一种工具以实现职业目标(Fitzsimons & Shah，2008)，从而提升自己的工作满意度(Duffy，Bottet al.,2012;Hagmaier& Abele，2012；Xie et al.，2017)。在这一过程中，组织工具性(organizationalinstrumentality)对高使命感的个体产生强大的吸引力，进而提升其组织认同(organizationalidentification)和降低离职倾向(Cardador et al.,2011; Vianello et al.,2019)。此外，基于内在动机的视角，高使命感的个体能够获得积极的职业心理与状态。个体有三种基本的心理需求：能力、关系和自主，满足这些需求有助于个体发挥最佳状态(Deci&Ryan,2000)。实现使命感的个体在工作中满足其自主需求，有助于提升幸福感(Conway et al.,2015)和激发在工作中的愉悦感和意义感(Berg et al.,2010)。因此，与没有或拥有低使命感的个体相比，高使命感的个体会增强其组织承诺(Kim et al.，2018；赵小云，王静，2016)、职业承诺(Duffy,Dik，&Steger,2011; Duffy et al.,2018;Gazica& Spector,2015；韩雪，厉杰,2018；裴宇晶，赵曙明,2015; Sawhney et al.,2019)和留职倾向(Presbitero & Teng-Caleja,2019)。最后，高使命感的个体能够更适应职业环境(Xie etal.,2016)，并善于与同事进行知识分享，进而获得高职业满意度(Lee,2016)。
+
+# 4.2职业技能与能力
+
+使命感能够帮助个体提升职业技能与能力。第一，使命感通过职业适应能力，不仅可以增强职业决策自我效能感(Duffy,Allan,&Dik,2011; Douglass &Duffy,2015)，还可以提升包括人际网络(net-working)、自我展示(self-profiling)和工作探索(work exploration)等职业能力(Dumulescu et al.,2015)。第二，使命感会促进个体积极提前地参与目标设定过程(Duffy et al.,2015; Hall & Chandler, 20o5)，即前摄职业发展(proactive professional development,PPD)，从而帮助他们拥有更清晰的职业认知(Lys0va et al.,2018)和求职清晰度(叶宝娟等,2017)，进而提升其感知到的可就业能力(叶宝娟等,2017)和受雇能力(Lysova et al.,2018;Praskova et al.,2015a)。第三，使命感通过激发个体在职业发展过程中的心理参与来关注和聚焦自己的职业目标(Hall&Chandler，2005)，从而驱动个体在职业发展过程中的自我管理与自我发展行为(韩雪，厉杰,2018)。此外，使命感作为一种学习经验(Domene,2012)，而学习经验有助于促进职业自我效能感(陈鸿飞等,2016)，因而它能够对个体的职业自我效能感产生积极影响(陈鸿飞等,2016; Domene,2012; Dobrow & Tosti-Kharas,2012; Kaminsky & Behrend,2015)。最后,高使命感的个体还会自主地提升自己的能力，不断探索和学习，参与到与上级和同事间的知识分享中，通过不断的知识学习一反馈这一循环来获得新的技能(Lee,2016)。
+
+# 4.3职业过程与产出
+
+使命感对职业过程与产出的影响效果主要包括六个方面。第一，利他主义(altruism)和亲社会动机是它的典型特征(Duffy,Foley,et al.,2012; Zhang et al.,2015))，拥有使命感的个体更倾向于为组织做出牺牲，从而表现出建言行为(张跃等,2018)和组织公民行为(Xie etal.,2017)。第二，使命感能够为个体提供一种个人存在意义的确定性，这种确定性能够帮助个体在职业选择时做出明确决策(Chongruksa et al.，2015)，提升其对于职业决策制定的信念和信心(Douglass& Duffy，2015)，抑制个体在制定职业策时犹豫不决的行为(Duffy& Sedlacek,2007)和实现主观职业成功(Chen et al.,2018)。第三，高使命感的个体更能适应多变的职业环境(Guo et al.,2014;Hall& Chandler,2005)，他们会发自内心享受工作，从而在工作中表现出高程度的工作参与和工作投入(Hirschi,2012; Gazica& Spector,2015;Xie et al.,2016；顾江洪等,2018)。第四，利用组织工具性，高使命感的个体能够实现其职业目标，进而提升自己的工作绩效(赵小云，王静，2016)。第五，使命感通过提升个体在职业过程中的自信程度(Domene,2012;Dobrow& Heller,2014; Kaminsky& Behrend,2015)，为他们带来更高的职业产出期望(Domene,2012;Kaminsky&Behrend,2015)，并促使其表现出积极的求职行为(叶宝娟等,2016)，同时对学业投入的提升也有重要价值(陈鸿飞等,2016)。第六，使命感不仅能够对个体职业内效果产生积极影响，还能够带来个体职业外的积极产出。人生目的是使命感的核心特征之一(Coulson etal.,2012)，拥有使命感的个体能够感知到其存在的人生意义(Dufy,Manuel,et al.,2011; Duffy et al.,2016; Duffy et al.,2017)，从而提高其生活满意度(Allan et al.,2015;Duffy et al.,2017; Praskova et al.,2015b；张春雨等,2013)。同时，使命感还能够通过改善个体在工作中的良性状态来对其生活满意度产生积极影响(Allan et al.,2015)。
+
+我们根据上述三种类型变量构建了一个使命感影响效果实证研究的整合模型，如图 4所示。
+
+![](images/5e7c4d07a3ca8432cef0a44a1c17f8564dc33e4183a97a80dc1f5af1b4e48322.jpg)  
+图4使命感影响效果实证研究的整合模型
+
+# 5局限与展望
+
+# 5.1探索使命感消极影响，关注双刃剑效应
+
+现存使命感研究大都表明使命感具有积极作用，却尚未探讨其潜在的消极影响，而分析使命感潜在的负面效应有利于为它的作用机制提供更加全面和辩证的解释，进而揭示其负面效应带来的潜在成本。因此，未来研究有必要分析使命感潜在的“阴暗面”。首先，基于反馈干预理论(fedback intervention theory,FIT;Kluger&Denisi,1996)，可以引入反馈自我效能感(feedback self-efficacy)，即“一种感知到的对于反馈做出适当解释和回应的能力”
+
+(Linderbaum&Levy,2010,p.1378)，来解释使命感的负面效应。毋庸置疑，当高使命感个体拥有高反馈自我效能感时，他们会表现出更积极的职业行为，因为他们能够针对反馈做出合理解释，采取有效方法来解决问题，从而提升工作表现。反之，当高使命感个体拥有低反馈自我效能感时，可能会产生负面影响，其原因可能在于，基于社会认知职业理论(Lent et al,2003)，高使命感的个体会拥有高的自我效能感和产出期待，进而获得高的工作满意度和工作投入。然而，当高使命感个体拥有低反馈自我效能感时，无法适当而有效地对反馈做出解释回应并采取适当行动去缩小当前绩效与期望目标间的差距，这种“无力感”使得使命感对自我效能感和产出期待的促进作用可能受到抑制，甚至可能呈现出反向关系，进而降低个体的工作满意感和工作参与。其次，使命感的确能为个体带来明确的目标和强烈的动机，促使他们将组织作为工具来实现目标。基于资源保存理论(conservation of resource theory,COR;Hobfoll,1989)，在低质量的领导成员交换关系中，个体处于“圈外人”的角色，他们无法获得资源和情感的支持，这可能导致个人目标和价值无法实现，从而促使他们的工作满意度和参与感降低，甚至产生高的离职倾向。此外，使命感的确能够通过提升个体的工作活力来降低其情绪衰竭和倦怠程度。然而，从资源保存理论的视角来看，个体占用的资源总量是一定的(Hobfoll,1989)。高使命感个体大量的工作投入会导致资源分配失调，家庭可占用资源减少，从而可能诱发工作-家庭冲突(work-family conflict)。这一冲突可能会增加他们的工作和心理压力，最终表现出高情绪衰竭和工作倦怠。因此，未来研究应深入探索使命感的双刃剑效应，全面系统了解其积极面和消极面的边界条件和作用机制，以采取措施避免使命感带来的潜在损失。
+
+# 5.2分析使命感文化差异，探讨跨文化比较效应
+
+使命感的研究起源于西方文化背景，但其在中国组织情境中的探究还比较有限。首先，古典主义认为，使命感起源于宗教，来源于上帝或更高的存在(Weiss et al.,2003)，个体受到上帝的号召，通过采取对公众有利的善行以达到个人救世的目的(Ponton et al.,2014)。然而，中国传统的道家思想强调“顺其自然”，认为真实的人性是自足的、不喜干涉的，人要以一种不为外在名利引诱也不为内在思虑控制的无为的方式生活。在这样一种“大道无为”的文化背景中，使命感的存在和实现受到一定程度的阻碍。其次，使命感强调个人意义的获得和目标的实现，是一种以个人为中心的主观感受,这与西方文化注重的个人主义相一致。然而，在中国组织情境所强调的集体主义背景下，使命感是否依然适用呢？基于目标促进理论，拥有使命感的个体会利用组织工具性去实现目标(Fitzsimons& Shah,2008)，但个人目标与组织目标不一定是一致的，委托一代理问题就是一个很好的例子。在中国组织情境下，个人利益的重要性低于集体利益，当个人目标与组织目标产生分歧而不得不被舍弃时，使命感对个体产生的积极影响是否会受到抑制，甚至消失？这是值得思考的。最后，西方学者已经开发出适应西方文化背景的使命感测量工具，然而，这些工具在韩国和印度具有很大程度的不适用性(Autin et al.,2017; Kim et al.,2017)，因为不同文化背景下的个体对于条目的理解可能存在差异，这也意味着现存的使命感量表在中国的应用可能无法完全移植。因此，开发出适应中国组织情境和文化背景的使命感测量工具是值得未来研究探讨的。
+
+# 5.3构建使命感团队模型，延伸研究层次
+
+现存的使命感研究均是在个体层次进行，学者们将使命感与个体的职业生涯紧密相连，但使命感在团队层次的研究尚且为一个盲区。未来研究可从团队亲社会动机(Hu& Liden,2015)的视角和社会信息加工理论(social information processing theory；Salancik & Pfeffer,1978)入手，探究使命感的团队层次模型。一方面，根据目标促进理论(Fitzsimons & Shah,2008)，拥有使命感的领导具有明确的团队目标和方向。类似的，基于社会信息加工理论(Salancik&Pfeffer,1978)，领导者为团队目标付出的努力和行动能够通过组织环境来影响下属，使得团队其他成员从领导者的“榜样”角色中获得信息来塑造自身的态度和行为，从而树立明确的与团队相关的目标并采取积极的职业行为去完成团队任务和实现团队目标。在这一过程中，团队领导和成员对于团队共同目标的明晰和努力能够使得整个团队获得价值和意义感，从而产生团队层面的使命感。另一方面，使命感是追求亲社会意图的行动过程(Elangovan et al.,2010)，将以他人为导向的价值观和目标作为动力的主要来源(Dik&Duffy,2009)。基于社会信息加工理论，当团队中存在拥有使命感的个体，他们的亲社会动机会使其表现出高组织公民行为和情境绩效(Rawat& Nadavulakere,2015;Xie et al.,2017)来影响组织中的其他成员。这些成员会从他们的“榜样”行为中获得相关信息来形成自身的感知和态度，从而产生相应的个体亲社会动机。不同个体成员对于其团队亲社会动机的理解会聚合并形成一个团队层次的共享的集体信念，这在多层次文化中是一个自下而上的过程(Klein &Kozlowski，2000)。当团队的整体或大多数成员表现出亲社会动机和利他导向的价值观，整个团队可能会形成团队层面的使命感。
+
+# 5.4追踪使命感变化，构建动态模型
+
+使命感作为个体的一种主观感知，是一个持续且变化的过程(Hall& Chandler，2005;Praskova etal.,2015a)，但现有研究却未曾对它的动态变化进行相应探讨。从概念本身来看，使命感是一种个人想做的、应该做的和实际做的事情意识的融合，目标是构成使命感的一个重要特征(Dik&Duffy,2009;Hall&Chandler,2005)。然而，个人的目标会因情境差异而产生动态变化(Schilpzand et al.,2018)，导致使命感随目标设定的变化而表现出相应的动态性。正如职业成功使命感模型(Hall&Chandler,2005)指出，使命感与包含目标等在内的因素存在循环影响关系，随着个人目标设定的高度发生动态变化，使命感强度也会随之改变。因此，未来研究有必要对使命感动态性进行探索。尽管现有研究分析了使命感的影响效果，却只采用了静态的研究方法，只是隐含性地假设了使命感的存在与否，以及对其影响效果作用强度的高低，却忽略了使命感本身内部的变化。事实上，使命感是一个心理构念，势必会因个体心理和情绪变化而产生波动。由于使命感的发展是一个持续的过程，其内部波动也会相应表现出连续性。因此，可以将研究使命感变化的时间节点设定为“每天”，构建每日使命感(dailycalling)来探索使命感连续的动态变化。鉴于此，可采用日志研究法作为分析工具，以每天为单位对使命感进行深入分析，探索每日使命感对其影响效果带来的每日变化。该方法目的在于打破以往研究中时间尺度长的局限性，消除使命感只在一段长时间内变化的固有观念。例如，每日使命感的变化可能会带来个体每日工作投入的改变：每日使命感会提升个体的参与感和当日工作投入，但当每日使命感降低，则会减少个体当日的工作投入。每日使命感的动态变化可能会导致个体职业行为和态度的每日变化，因此，采用日志研究法，追踪每日使命感变化，构建动态模型，是未来研究需要关注的一个重要方向。
+
+# 参考文献
+
+(带\*的文献为使命感影响效果分析的有效样本)  
+\*陈鸿飞，谢宝国，郭钟泽，辛迅.(2016).职业使命感与免费师范生学业投入的关系：基于社会认知职业理论视角．心理科学,39(3),659-665.  
+\*顾江洪，江新会，丁世青，谢立新，黄波.(2018).职业使命感驱动的工作投入：对工作与个人资源效应的超越和强化．南开管理评论,21(2),107-120.  
+\*韩雪，厉杰.(2018).我的职业我做主：使命感对职业生涯自我管理的影响研究．中国人力资源开发,35(9),6-15.  
+\*裴宇晶，赵曙明.(2015)．知识型员工职业召唤、职业承诺与工作态度关系研究．管理科学,28(2),103-114.  
+谢宝国，辛迅，周文霞.(2016).工作使命感：一个正在复苏的研究课题．心理科学进展,24(5),783-793.  
+\*叶宝娟，郑清，董圣鸿，方小婷，刘林林.(2017).职业使命感对大学生可就业能力的影响：求职清晰度与求职效能感的中介作用．心理发展与教育,33(1),37-44.  
+\*张春雨，韦嘉，张进辅，李喆.(2013)．师范生职业使命感与学业满意度及生活满意度的关系：人生意义感的作用．心理发展与教育,29(1),102-108.  
+\*张跃，杨旭华，陈娜.(2018).职业召唤对建言行为的影响机制研究．中国人力资源开发,35(9),40-50.  
+\*赵小云，王静.(2016).幼儿教师的职业使命感与工作绩效的关系：组织承诺的中介作用．教师教育研究，28(6), 59-64.  
+\*Allan,B.A.,Tebbe,E.A.,Duffy,R.D.,&Autin,K.L. (2015).Living acalling,lifesatisfaction,and workplaceclimate among a lesbian,gay,and bisexual population. The Career Development Quarterly, 63(4),306-319.  
+\*Autin,K.L.,Allan,B.A.,Palaniappan,M.,&Duffy,R.D.(217).Careercaing in India and the United States:Across-cultural measurement study. Journal of Career Assessment, 25(4), 688-702.  
+Berg,J.M.,Grant,A.M.,& Johnson,V.(2O10). When callings are callng:Crafting Work and leisure in pursuit ofunanswered occupational callings. Organization Science, 21(5), 973-994.  
+\*Cardador, M.T.,Dane,E.,&Prat,M.G.(O).Linkingcallngorientations toorganzationalattachment viaorganizational instrumentality. Journal of Vocational Behavior, 79(2),367-378.  
+\*Chen, J.,May,D.R.,Schwoerer, C.E.,&Augelli,B. (2018). Exploring the boundaries of career callng: Themoderating roles of procedural justice and psychological safety. Journal of Career Development,45(2),103-116.  
+Chongruksa,D.,Prinyapol,P.,Sawatsri, S.,& Pansomboon, C. (2O15). Integrated group counselling toenhancemental healthand resilience of Thai army rangers.Asia Pacific Journalof Counselling and Psychotherapy,
+
+6(1-2), 41-57.
+
+\*Conway,N.,Clinton,M.,Sturges,J.,&Budjanovcanin,A. (2O15). Using self-determination theory tounderstand the relationship between caling enactment and daily well-being. Journal of Organizational Behavior,36(8), 1114-1131.
+
+\*Coulson, J. C., Oades,L. G.,& Stoyles, G,J. (2012). Parents'subjective sense of caling in childrearing: Measurement,development and initial findings. The Journal of Positive Psychology,7(2),83-94.   
+Deci,E.L.,& Ryan, R. M. (20oo). The“what”and“why” of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry,11(4),227-268.   
+\*Dik, B. J.,& Duffy, R.D. (2O09). Calling and vocation at work: Definitions and prospects for research and practice. The Counseling Psychologist,37(3),424-250.   
+\*Dobrow, S.R.,& Tosti-Kharas,J. (2O12). Listen to your heart? Calling and receptivity tocareer advice. Journal of Career Assessment,20(3),264-280.   
+\*Dobrow, S.R.,& Heller,D. (2O14).Follow your heart or your head? Alongitudinal studyof the facilitating role of calling and ability in the pursuit of a challenging career. Journal of Applied Psychology,10o(3),695-713.   
+\*Domene,J.F. (2012). Calling and career outcomes expectations: The mediating role of self-efficacy. Journalof Career Assessment, 20(3),281-292.   
+\*Douglass,R.P.,& Duffy,R.D.(2O15). Callng and career adaptability among undergraduate students. Journal of Vocational Behavior, 86,58-65.   
+\*Duffy, R. D.,Alan,B.A.,&Dik, B.J. (2011).The presenceof acaling and academic satisfaction:Examiing potential mediators. Journal of Vocational Behavior,79(1),74-80.   
+\*Duffy,.D,L.).id Journal of Vocational Behavior, 67(3), 429-440.   
+\*Duffy,R.D.，Bot,E.M.，Allan,B.A.，& Autin,K.L.(2015).Calling among the unemployed: Examining prevalence and links to coping with job loss. The Journal of Positive Psychology,10(4),332-345.   
+\*Duffy,.DE.C.,i)iig, and job satisfaction: Testing a moderated,multiple mediator model.Journal of Counseling Psychology,59(1), 50-59.   
+Dufy,R. D.,& Dik,B.J. (2013). Research on calling: What have we learned and where are we going? Journal of Vocational Behavior, 83(3),428-436.
+
+\*Duffy,R.D.,Dik,B.J.,Douglass,R.P.,England,J.W.,& VelezB.L. (2018). Work asacaling: Atheoretical model. Journal of Counseling Psychology,65(4),423-439.
+
+\*Duffy, R.D., Dik,B.J.,& Steger,M.F. (2011). Calling and work-related outcomes: Career commitment asa mediator. Journal of Vocational Behavior,78(2),210-218.   
+\*Duffy,R.D.,Douglass,R.P.,Autin,K.L.,England,J.,&Dik,B.J. (2016). Does the dark sideof a calling exist? Examining potential negative effects. The Journal of Positive Psychology,1l(6), 634-646.   
+\*Duffy,R. D.，England,J. W., Douglass,R.P.,Autin,K.L.,& Allan,B.A. (2017). Perceiving a callng and wellbeing: Motivation and access to opportunity as moderator. Journal of Vocational Behavior, 98,127- 137.   
+\*Duffy,R.D.,FoleyP.F.,Raque-Bodgan,T.L.Reid-Marks,L,Dik,B.J.,Castano,M.C.,&AdamsC.. (2012). Counseling psychologists who view their career as a caling: A qualitative study. Journal of Career Assessment, 20(3), 293-308.   
+\*Duffy,R.D.,Manuel,R.S.,Borges,N.J.,&Bott,E.M. (2o11).Calling,vocational development,and well-being: A longitudinal study of medical students. Journal of Vocational Behavior,79(2),361-366.   
+\*Duffy,R. D.,& Sedlacek, W.E. (2007). The presence of and search for a calling: Connections to career development. Journal of Vocational Behavior,70(3), 590-601.   
+\*Duffy,R.D.,& Sedlacek, W.E.(2010).The salience of a career calling among college students: Exploring group differences and links to religiousness,life meaning, and life satisfaction. The Career Development Quarterly, 59(1),27-41.   
+\*Dumulescu,D.,Balazsi, R.,& Opre. A.(2015).Callng and career competencies among Romanian students:The mediation role of career adaptability. Procedia - Social and Behavior Sciences, 209,25-32.   
+\*Elangovan，A.R.，Pinder,C.C.，& McLean,M.(2010). Calings and organizational behavior. Journal of Vocational Behavior, 76(3),428-440,   
+Fitzsimons, G. M.,& Shah,J. Y. (2o08). How goal instrumentality shapes relationship evaluations. Journal of Personality and Social Psychology, 95(2), 319-337.   
+Gardner, W.L., Cogliser, C.C., Davis, K. M.,& Dickens, M. P. (2011). Authentic leadership: A review of the literature and research agenda. The Leadership Quarterly,22(6),1120-1145.   
+\*Gazica,M. W.,& Spector,P.E. (2O15). Acomparison of individuals with unanswered caling to those with no calling at all Journal of Vocational Behavior, 91,1-10.   
+\*Guo,Y.,GuanY,Yag,X,Xu,J.,Zou,X,SheZ...Fu,. ().Careradapabilitycigdhe professional competence of social work students in China: A career construction perspective. Journal of Vocational Behavior, 85(3),394-402.   
+Hagmaier,T.,& Abele,A.E. (2O12).The multidimensionality of caling: Conceptualization, measurement and a bicultural perspective. Journal of Vocational Behavior, 81(1),39-51.   
+\*Hall,D.T.，& Chandler， D. E. (2005). Psychological succes: When the career is a calling. Journal of Organizational Behavior, 26(2),155-176.   
+\*Hirschi,A. (2012).Callingsand workengagement:Moderatedmediation model of work meaningfulness, occupational identity, and occupational self-efficacy. Journal of Counseling Psychology,59(3), 479-485.   
+\*Hirschi，A.，& Herrmann,A. (2O13). Caling and career preparation: Investigating development paterns and temporal precedence. Journal of Vocational Behavior, 83(1), 51-60.   
+Hobfoll, S.E. (1989).Conservation of resources. Anewatempt at conceptualizing stress American Psychologist, 44(3), 513-524.   
+Hu,J.,& Liden,R. C. (2O15).Making a difference in the teamwork: Linking team prosocial motivation to team processes and efectiveness. Academy of Management Journal,58(4), 1102-1127.   
+Kaminsky,S.E.,& Behrend,T. S. (2O15). Career choice and calling: Integrating caling and social cognitive career theory. Journal of Career Assessment, 23(3),383-398.   
+\*Kim, H. J.,Praskova,A.,&Lee,K-H.(O17). Cross-cultural validationofthecareercallingscale for Korean emerging adults. Journal of Career Assessment, 25(3), 434-449.   
+\*Kim, S.S.,Shin,D.,& Vough,H.C. (2o18). Howdocallngs relate tojobperformance?Teroleof organizational commitment and ideological contract fulfillment. Human Relations,71(10),1319-1347.   
+Klein,K. J.,& Kozlowski,S. W. J. (2ooo).From micro to meso: Critical steps in conceptualizing and conducting multilevel research. Organizational Research Methods,3(3),211-236.   
+Kluger, A. N.,& DeNisi,A. (1996).The effects of feedback interventions on performance: Ahistorical review, a meta-analysis,and a preliminary feedback intervention theory. Psychological Buletin,119(2),254-284.   
+\*Lee,H.,Lee,E.S.,&Shin,Y. (2020).The role ofcallinginasocialcognitive modelof wellbeing. Journalof Career Assessment,28(1), 59-75.   
+\*Le, K-J. (2O16). Sense ofcaling and career satisfaction of hotel frontline employees: Mediation through knowledge sharing with organizational members. International Journal of Contemporary Hospitality Management, 28(2),346-365.   
+Lent,R.W.,Brown,S.D.,Nota,L.,&Soresi,S. (2Oo3).Testing socialcognitive interestand choice hypotheses across Holland types in Italian high school students.Journal of Vocational Behavior,62(1),101-118.
+
+Linderbaum,B.A.,&Levy,P.E.(2O10).The development and validation of the Feedback Orientation Scale (FOS). Journal of Management, 36(6),1372-1405.
+
+Luther,M. (1883).Werke Kritische Gesamtausgabe The collected critical works.Weimar: Hermann Bohlaus.   
+\*Lysova,E.I.， Jansen,P.G.W.，Khapova,S.N.,Plomp,J.，& Tims,M. (2018). Examining calling as a double-edged sword for employability. Journal of Vocational Behavior,104,261-272.   
+Moher D,Liberati A, Tetzlaff J,& Altman D. G. (2O10).Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. International Journal of Surgery, 8(5), 336-341.   
+\*Ponton,R.,Brown,T., McDonnell,B., Clark,C.,Pepe,J.,& Deykerhoff,M. (2014). Vocational perception: A mixed-method investigation of caling. The Psychologist-Manager Journal,17(3),182-204.   
+\*Praskova, A., Creed,P.A,& Hood,M. (21a).Self-regularityprocesss mediating betweencareercalling ad perceived employability and life satisfaction in emerging adults. Journal of Career Development, 42(2), 86- 101.   
+\*Praskova,A., Creed,P.A.,& Hood, M. (2015b).The development and initial validationof a careercalling scale for emerging adults. Journal of Career Assessment, 23(1), 91-106.   
+\*Praskova,A., Hood,M.，& Creed,P.A. (2014). Testing a caling model of psychological career success in Australian young adult: A longitudinal study. Journal of Vocational Behavior, 85(1),125-135.   
+\*Presbitero,A.,& Teng-Caleja,M. (2O19). Employee intention to stay in an organization: Examining the role of caling and perceived supervisor support through the theoretical lens of work as calling. Journal of Career Assessment, 28(2),1-17.   
+\*Rawat, A.,& Nadavulakere,S. (2O15). Examining the outcomes of having a calling: Does context mater? Journal of Business & Psychology,30(3),499-512.   
+Salancik, G.R.,& Pfeffr, J. (1978). Asocial information processing approach to job attitudes and task design. Administrative Science Quarterly,23(2),224-253.   
+\*Sawhney, G.,Britt,T. W,& Wilson, C.(2019).Perceivingacaling asapredictoroffuturework atiudes: The moderating role of meaningful work. Journal of Career Assessment, 28(2),187-201.   
+Schilpzand,P.,Houston,L.,& Cho,J. (2O18). Not too tired to be proactive: Daily empowering leadershipspurs next-morning employee proactivity as moderated by nightly sleep quality. Academy of Management Journal, 61(6), 2367-2414.   
+\*Vianell, M., Galliani,E.M.,Rosa,A.D.,& Anselmi,P. (2019).The developmental trajectories of calling: Predictors and outcomes. Journal of Career Assessment,28(1),128-146.   
+Weiss,J.W.,Skelley,M.F,Hall,D.T.,&Haughey,J.C.(2O3). Callng,newcareersandspirituality: Areflective perspective for organizational leaders and professionals.Research in Ethical Issues,5,175-201.   
+\*Xie,B.,Xia,M.,Xin,X.,& Zhou, W.(2016).Linking callingto work engagement and subjective careersuccess: The perspective of career construction theory. Journal of Vocational Behavior, 94,70-78.   
+\*Xie,B.,Zhou, W.,Huang,J.L.,& Xia,M.(2O17). Using goal facilitation theory to explain the relationships between calling and organization-directed citizenship behavior and job satisfaction. Journal of Vocational Behavior,100,78-87.   
+\*Zhang,C.,Herrmann,A.,Hirschi,A., Wei,J.,& Zhang,J. (2015).Assessing callng in Chinese college students: Development of a measure and its relation to hope. Journal of Career Assessment, 23(4), 582-596.
+
+# Calling: Consequences and its future directions
+
+YANG Fu1, LIU Qing1
+
+(lSchool of Business Administration, Southwestern University of Finance and Economics, Chengdu 611130, China)
+
+Abstract:As a frontier topic,calling has received extensive attention from scholars and practitioners in recent years. According to the flow of information through the different phases of a systematic review recommended by PRISMA statement, full text articles related to the consequences of calling are included in quantitative synthesis.We summarized three types of variables about the consequences of caling, including career psychology and states,carer skills and capabilities,as well as career processes and outcomes.Future research should explore the potential negative impact of calling and focus on its double-edged sword effect, analyze the cultural differences of calling and discuss its cross-cultural comparisons, develop a team model of calling and extend the research level, as well as track the variations of caling and build a dynamic model.
+
+Keywords: career, calling, consequences, PRISMA statement

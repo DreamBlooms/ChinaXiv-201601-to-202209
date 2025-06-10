@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "Utilizing biofuels for sustainable development in the panel of 17 developed and developing countries ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ILHAN OZTURK Faculty of Economics and Administrative Sciences,CagUniversity,338ooMersin,urkey ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This study investigates the dynamic linkages between biofuels production and sustainable indicators in the panel of 17 developed and developing countries,over the period of 2000-2012.The study emphasized the role of biofuels production in the sustainable development of the region.For this purpose,the study utilized four main sustainable indicators including carbon dioxide emissions,energy intensity,renewable energy generation, and total population that have a significant impact on the biofuels production.The study used dynamic heterogeneous panel econometric technique-Generalized Method of Moments and found that carbon dioxide emissions increase along with the increase in biofuels production.Therefore,the caution should be applied when burning the biofuels during the production proces.In addition,renewable electricity generation also increases the biofuels production in the region.The results of robust least square regression confirmed that allof the sustainable indicators have a significant association with the biofuels production,as total primary energy consumption increases the biofuels production,while total population significantly decreases the biofuels production in theregion.The results derived to the conclusion that forsustainable development inthe region,the policymakers should haveto formulate carbon free policies that coupled with the renewable energy sources for emphasizing the life cycle of bioenergy during the production process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:biofuelsproduction,carbondioxidemisions,totalpopulation,totalprimaryenergyconsumption,totaleewable electricity generation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received23April2015;accepted29May 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biofuels production merely based on living organisms that contain more than $8 0 \\%$ of renewable materials,as it is derived from the process of photosynthesis,there fore,mostly referred as solar energy source. The term biofuels is hard to explain,as we used biofuel as like fossil fuel. However,biofuel has a unique correspondence from other energy sources，asit considered being carbon dioxide emissions neutral (AENews, 2014).There are different counter arguments poses the biofuels production. One argued in the favor of biofuelsproduction that addresses the greenhouse gas emissions and removes carbon dioxide emissions from the atmosphere.However， the second stream of argument against the biofuels production poses a major threat to global food security and for biodiversity (Christopherson，2008)．According to UNCTAD (2008, P.vii)，'There is growing interest in biofuels in many developing countries asa means of'modernizing'biomass use and providing greateraccess to clean liquid fuels while helping to address energy costs,energy security and global warming concerns associated with petroleum fuels'.There is undeniable fact that fossil fuel is one of the main concerns in the circle of environmentalists and academicians toward environmental degradation. The quest for the alternative energy sources always is the need of the globe to sustain and formulates green policies. The biofuels somehow a convenient solution to preserve environment and substitute of high petroleum; however，biofuel energy should be evaluated with some cautions，as it is so far highly environmental friendly energy sources across the globe (Chauhan & Shukla,2011).Biodiesel fuel is the only option to serve healthy nation and fulfill the requirements of Clean Air Act of 1990,as the particulate emissions associated with the biodiesel fuels is lowering around more than $5 0 \\%$ with fossil source diesel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioenergy is roughly estimated around more than $1 0 \\%$ ，that is, 50 EJ of global total primary energy supply，and it serves mostly for households cooking and heating that have a significant impact on environment and health. Modern bioenergy used in building sector around 5 EJ in 2012,while around 8 EJ were used in industrial sector.A total of 370 TWh of bioenergy electricity were produced in the year 2012 that corresponds to $1 . 5 \\%$ of global electricity generation (IEA，2013). Table 1 shows the first,second,and third generation of biofuels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/638511f4211ab11c68ae5f2106887dcd440a7b3d83f70b8e93ecf1d7118cf3f3.jpg",
+        "table_caption": [
+            "Table1 Biofuels generation "
+        ],
+        "table_footnote": [
+            "Source:IEA (2013). "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Biofuels</td></tr><tr><td>generation</td><td>Commercial scale</td><td>Feed stocks</td></tr><tr><td>Fist generation</td><td>Sugar and</td><td>Sugar cane</td></tr><tr><td></td><td>starch-based ethanol</td><td>Sugar beet</td></tr><tr><td></td><td>Oil-crop based</td><td>Starch bearings</td></tr><tr><td></td><td>biodiesel and</td><td>grains</td></tr><tr><td></td><td>vegetable oil</td><td>Animal fats</td></tr><tr><td></td><td>Anaerobic digestion</td><td>Cooking oils</td></tr><tr><td>Second and</td><td>Cellulosic ethanol</td><td>Algae-based biofuels</td></tr><tr><td>third generation</td><td>Biomass-to-liquids</td><td>Diesel-type biofuels</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>diesel Bio-synthetic gas</td><td>using biological or chemical catalysts</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are two major classifications of biofuels, that is, one is the primary biofuels and another one is secondary biofuels.Primary biofuels contained fuel wood, wood chips,and pellets that primarily used in household items including heating,cooking, or electricity pro duction. Secondary biofuels include liquid biofuels (i.e., ethanol and biodiesel) that can beused in vehicles and industrial processes. Bioenergy accounts for more than $8 0 \\%$ used in household items，while $1 8 \\mathrm { - } 2 0 \\%$ used in industry. There is onlya $2 \\%$ used in transport sector which shows a very limited role of bioenergy in this sector (Green Facts,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The overall facts indicate the importance of biofuels production that is the way towards the future energy fuel to the developed and developing countries.There are number of studies established the viability of the biofuels production in their nationwide and across the region.Therefore,there isa pressing need to evaluate biofuels production coupled with the sustainable indicators in the panel of diverse countries portfolios including the set of developed and developing countries that gives the sound policy vista for developing biofuels energy as a green source of energy.The effectiveness of biomass and bioenergy found in the study of Hall & Scrase (1998) where they probe that in the future, whether biomass fuel will be environmental friendly? This notion is used by many developed countries and found that biomass fuel is environmental friendly However,the systems need to be caution in terms of environment and social benefits across the countries. Schaldach et al. (2011) examining the potential impact of biofuel development on land-use change in India and found that rising population and biofuel production will affect on the land-use change over the coming decades in India.Ravindranath et al. (2011） further step toward the sustainability of India in relation with the biofuel development and its impact on three key environmental factors comprising land use,environment, and food production. The results suggest that technological and policy breakthroughs are prerequisite for promoting sustainable and long-term biofuel production in India. According to Groom et al.(2008,p. 602)‘Conservation biologists can significantly broaden and deepen effrts to develop sustainable fuels by playing active roles in pursuing research on biodiversity-friendly biofuel production practicesandby helping definebiodioersity-friendly biofuel certification standards'. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Escobar et al. (2009) examined the dynamic linkages between environment， food security，technology，and biofuel production and conclude that there is a substantial need to regulate some international certification mechanism for checking the considerable impact of biofuels on environment,land use,and food security across the globe.Yang et al. (20o9) conclude that China's current biofuel development path may affect on nation's food supply, terms of trade and nation's environment. Hoefnagels et al. (2010) traces the footprints of greenhouse gas during different biofuel production systems and found that greenhouse gas performance of biofuels varies depends upon the production method applications and the selected system boundaries. Common practice in life cycle assessment (LCA) of bioenergy has been to assume that any carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ emission related to biomass combustion equals the amount absorbed in biomass, thus assuming no climate change impacts (Cherubini et al.,2011;Van Zelm et al.,2014). Demirbas (2Oo7) conclude that the main advantage of biofuels production is to minimize the risk of greenhouse gas emissions and unpredictable climate change across the globe.According to Hill et al. (2006，p. 11206)，'Negative environmental consequences of fossil fuels and concerns about petroleum supplies have spurred the search forrenewabletransportationbiofuels.To beaviable alternative,a biofuel should provide a net energy gain, have environmental benefits,be economically competitive,and be producible in large quantities without reducing food supplies'.Birur et al. (2oo8) examined the impact of biofuels production on global agricultural markets using the Computable general equilibrium model and found that terms of trade in oil sector considerable improves in all of the oil exporting regions on the cost of aggregate agricultural sectors.Nigam & Singh (2011） provide extensive literature review on liquid biofuels and conclude that the process of conversion and chemical transformation of liquid biofuels is too much expensive; therefore，for economic viability of liquid biofuels on large scale is difficult to attain this bioenergy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is a considerable need to search the cheap way of conservation and chemical transformation of liquid biofuels for using worldwide. Cremonez et al. (2015) recognize the three major outcomes that inclined from the production of biofuels,that is,economic impact, environmental preservation,and societal benefits in Brazil.The results derive that there is substantial need to improved the production routes of biofuel energy with lowering cost of production,as the raw material used in biofuels production mostly linked with the nitrous oxide emissions that may affect on agricultural productivity loss，threatened wildlife，and intensive water usage that impact on the productivity loss,environmental degradation，and social problems in the society. Spartz et al. (2015） conducted the natural experiment and gathered the public perceptions regarding bioenergy and land-use change in the frames of agriculture and forestry. The results indicate the higher uncertainty in both of the frames; however，perception regarding the future energy prices in the forestry frame is highly uncertain.Panichelli & Gnansounou (2015) considered different modeling choices for examining the potential impact of biofuels production on land-use change and greenhouse gas emissions.The results show the favor able outcomes that addresses from biofuels production to mitigate greenhouse gas emissions and land-use change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The overall studies indicate the significance of biofuels in the sustainable development of the globe.Therefore，this study explore the dynamic linkages between total biofuels production，carbon dioxide emissions, total primary energy consumption, renewable electricity generation，and total population in the panel of 17 developed and developing countries for the period of 2000-2012. The study used dynamic panel heterogeneous econometric modeling coupled with the robust least square regression for robust estimations. The results of the study provide broader insights toward sustainability for policymaking and biofuels effectiveness across the countries. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thedataof thebiofuelsand sustainable indicators taken from U.S.Energy Information Administration (EIA,2014) over the period of 2000-2012 for 17 developed and developing countries namely Canada,United States,Argentina,Brazil,Cuba,Paraguay，Peru,Austria,Czech Republic,Denmark,France,Germany,Italy,Spain,Sweden,China,and India.The variables comprises total biofuels production in thousand barrels per day,total carbon dioxide emissions from the consumption of energy in million metric tons,total population in million, energy intensity-total primary energy consumption per Dollar of GDP [Btu per year 20o5 U.S. Dollars (purchasing power parities)l,and total renewable electricity net generation in billion kilowatt hours.These variables selected for examining the long-run relationship between biofuels production and its regressors,that is,sustainable indicators in the panel of selected 17 developed and developing countries.Table 2 shows the list of variables and their expected signs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows that sustainable indicators have a positive relationship with the biofuels production,as increasing carbon dioxide emissions elevate the importance of biofuels production in the region.Conventional use of combustion of fossil fuels emerged the deleterious impact on the environmental degradation.Thus, there is a need to emphasize on the production of biofuels that have considerable better impact on environment as compare to the combustion of fossl fuels energy. Energy intensity subsequently increases the use of biofuels production，as total primary energy consumption insufficient to fulfill the need of energy supply and demand gap for the region.Renewable energy consumption search for the environmental friendly energy production that minimizes the risks of environmental-related health issues and provide safe and clean air to the rapid population in a region.These sustainable indicators indicate the undeniable significance to promote biofuels production for scoring sustainable agenda reforms across the countries. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study used following nonlinear regression equation to explore the impact of sustainable indicators on biofuels pro duction: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { L o g ( B I O F ) } _ { i , t } = \\alpha _ { 0 } + \\alpha _ { 1 } \\mathrm { L o g } ( \\mathrm { C O } _ { 2 } ) _ { i , t } + \\alpha _ { 2 } \\mathrm { L o g ( E I N T ) } _ { i , t } } \\\\ { + \\alpha _ { 4 } \\mathrm { L o g ( R E N E G E N ) } _ { i , t } + \\alpha _ { 4 } \\mathrm { L o g ( P O P ) } _ { i , t } + \\varepsilon _ { i , t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where，BIOF represents biofuels production, $\\mathrm { C O } _ { 2 }$ represents carbon dioxide emissions,EINT represents energy intensity, RENEGEN represents renewable energy, POP represents total population, $' _ { i ^ { \\prime } }$ represents cross section identifiers, that is,country 1 to country 17, $' t ^ { \\prime }$ represents time period from 2000 to 2012,Log' represents natural logarithm,and ε represents error term. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equation (1) shows the empirical relationship between biofuels production and sustainable indicators for assessing the parameter estimates between the variables.This equation tested by number of panel econometric techniques for robust results.The study first evaluated the panel unit root tests by Im,Pesaran and Shin (i.e.,Im et al.,20o3) for confirming the stationary series of the candidate variables.The study further used Levin et al.(2o02) panel unit root test for only those variables that does not confirmed their stationary properties by Im et al.(2003). In the Levin,Lin and Chu (LLC) approach,it is assumed that,all the $\\alpha _ { \\mathrm { i } }$ have a common value,so that the null hypothesisis formulated as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b06340031b419d8e88363a4e6d92df54d0dfca7b15b1986ac0cd2591dbf1480a.jpg",
+        "table_caption": [
+            "Table 2 List ofvariables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Variables</td><td>Symbol</td><td>Expected Sign</td></tr><tr><td>Biofuels production</td><td>BIOF</td><td></td></tr><tr><td>Regressors</td><td></td><td></td></tr><tr><td>Carbon dioxide emissions</td><td>CO2</td><td>Positive</td></tr><tr><td>Energy Intensity</td><td>EINT</td><td>Positive</td></tr><tr><td>Renewable Energy</td><td>RENEGEN</td><td>Positive</td></tr><tr><td>Population</td><td>POP</td><td>Positive</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H } _ { 0 } : \\alpha = 0 \\mathrm { v s . } \\mathrm { H } _ { 1 } : \\alpha < 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "：Thus,an estimator of $\\alpha$ is absorbing the heteroscadasticity across the time series that make up the panel.While,in $\\mathrm { I m } ,$ Pesaran,and Shin approach (IPS) is also based on the ADF regressions;however, the $\\mathrm { H } _ { 0 }$ and $\\mathrm { H } _ { 1 }$ areconsiderable different from the LLC approach, that is,the rejection of the null hypothesis implies that all the series are stationary: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { H } _ { 0 } : \\alpha _ { 1 } = \\alpha _ { 2 } = . . . = \\alpha _ { N } = 0 \\mathrm { v s . H } _ { 1 } \\qquad } \\\\ { : \\mathrm { S o m e ~ b u t ~ n o t ~ n e c e s s a r i l y ~ a l l } \\alpha _ { i } < 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study further employed Pedroni (1999) panel co-integration for substantiate the long-run relationship between the variables.Pedroni's panel co-integration test allows the four panel statistics ‘within' dimension including panel $v$ -statistic，panel rho-statistic,panel ADF-statistic,and panel PP-statistics,while there are four weighted panel regression statistics also available in ‘within dimension'. In addition, there are three group statistics available for substantiating the long-run relationship between the variables including group rho-statistic,group ADF-statistic and group PP-statistic.In majority of the cases, panel $v$ -statistics substantially show positive and greater magnitude, while remaining panel and group statistics shows negative sign.However，for long-run cointegration relationship between the variables,the respective probability values may also have a considerable impact on confirmation of co-integrationrelationship between the variables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In majority of the panel econometric techniques, there appears a problem of endogeneity in the model that leads the wrong results.Thus,the study employed dynamic panel approach -Generalized Method of Moments (GMM) that handle the problem of endogeneity problem in the given data set. Equation (2) shows the GMM model specification. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { L o g ( B I O F ) } _ { i , t } = \\alpha _ { 0 } + \\theta _ { i , t } + \\alpha _ { 1 } \\mathrm { L o g } ( \\mathrm { C O } _ { 2 } ) _ { i , t } + \\alpha _ { 2 } \\mathrm { L o g } ( \\mathrm { E I N T } ) _ { i , t } } \\\\ { + \\alpha _ { 4 } \\mathrm { L o g } ( \\mathrm { R E N E G E N } ) _ { i , t } + \\alpha _ { 4 } \\mathrm { L o g ( P O P ) } _ { i , t } + \\varepsilon _ { i , t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta$ represents list of instrumental variables including the firstlaggedvalue of the explanatoryvariables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After correcting the problem of endogeneity from the model, the study detected and adjusted outliers from the given variables data set and presented robust results.For this purpose, the study used robust least square regression apparatus that is less sensitive to outliers.There are three different methods available for robust regressions including M-estimation proposed by Huber (1973) that addresses the dependent variable outliers;S-estimation as proposed by Rousseeuw & Yohai (1984) that focuses outliers in regressors' variables;and finally, MM-estimation proposed by Yohai (1987) that is the combination of M-estimation and S-estimations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This section comprises the following sequential order of estimations,that is,descriptive statistics，correlation matrix， panel unit root test， panel co-integration, dynamic panel modeling，and robust least square regression. Table 3 shows the descriptive statistics of thevariables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The descriptive statistics show that total biofuels production hasaminimum value of O.o2O thousandbarrels per day to maximumvalue of 971.619 thousandbarrels per day,having a mean value of 57.o64 thousand barrels per day. Carbon dioxide emissions have an average value of 948.340 millionmetric tonswith standard deviation of 1808.336 million metric tons.Energy intensity has a minimum value of 3285.539 US dollar to maximum value of 32 192.63 US dollar，having a positive skewed distribution and considerable peak of the distribution. Total population is 5.337 million to maximum 1336.990 million，with an average of 193.838 million having standard deviation of 379.074 million，respectively.Finally, the region comprises minimum value of 0.488 total renewable electricity net generations in Billion Kilowatt hours to maximum value of 1o03.515 billion kilowatt hours,having a mean value of 133.583 billion kilo watt hours with standard deviation of 170.008 billion kilowatt hours. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 4 shows the correlation matrix between the variables.The results show that carbon dioxide emissions have a positive correlation with the biofuels production,as the correlation coefficient value of $r = 0 . 4 4 5 ,$ $P < 0 . 0 0 0$ depicts the significant association between the variables. The results indicate that along with the increase in carbon emissions, the region emphasized on the production of biofuels rather than the fossil fuel energy that increase the carbon dioxide emissions in the region.In addition，combustion of biofuels during production should be carefully handled. Similarly, renewable energy increases the production of biofuels, as the coefficient value indicates the high correlation between them,that is, $r = 0 . 5 3 7 .$ ， $P < 0 . 0 0 0$ .Renewable energy consumption in the form of electricity supply needs environmental friendly energy production that useful for providing energy supply according to the requirement of energy demand in the region. The result further confirmed the conventional hypothesis,that is, massive population increases carbon dioxide emissions in the region,as the value of correlation coeficient indicates the positive and high correlation between them, that is, $r = 0 . 6 5 4 ,$ 、 $P < 0 . 0 0 0$ .In addition，the results endorsed that renewable energy generation in the form of electricity increases carbon dioxide emissions,that is, the coefficient value indicates $r = 0 . 7 7 1$ 1 $P < 0 . 0 0 0$ .This relationship confirmed the need of biofuels production that has a minimal impact on environmental degradation. Finally,massive population required more energy, as correlation coeficient value indicates the positive and significant association between renewable energy and population in the region. This all exercise suggests the following points,that is,(i) the caution should be applied when burning the biofuels during the production process; (ii) to fulfill the energy supply-demand gap，there is required biofuels production; and (ii) rapid population hinders in the objective of sustainable development,therefore,healthy and safe environment prerequisite for sustainable development. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3479e6e2e0798fe7950cfdfc1baf37e8933ceaeed38646d88c919dd7d26e1614.jpg",
+        "table_caption": [
+            "Table 3 Descriptive statistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>BIOF</td><td>CO2</td><td>EINT</td><td>POP</td><td>RENEGEN</td></tr><tr><td>Mean</td><td>57.06480</td><td>948.3409</td><td>8082.234</td><td>193.8383</td><td>133.5839</td></tr><tr><td>Maximum</td><td>971.6192</td><td>8547.746</td><td>32192.63</td><td>1336.990</td><td>1003.515</td></tr><tr><td>Minimum</td><td>0.020000</td><td>3.453520</td><td>3285.539</td><td>5.337420</td><td>0.488100</td></tr><tr><td>SD</td><td>153.4918</td><td>1808.336</td><td>5102.211</td><td>379.0744</td><td>170.0080</td></tr><tr><td>Skewness</td><td>3.910798</td><td>2.472694</td><td>2.637874</td><td>2.258935</td><td>1.900773</td></tr><tr><td>Kurtosis</td><td>19.37075</td><td>7.911910</td><td>11.20377</td><td>6.440978</td><td>6.990724</td></tr><tr><td>Observations</td><td>221</td><td>221</td><td>221</td><td>221</td><td>221</td></tr><tr><td>Cross-section</td><td>17</td><td>17</td><td>17</td><td>17</td><td>17</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee7a6072c768934239c00fa2d6f7e323657f925e129bcfd330c9d88697db146d.jpg",
+        "table_caption": [
+            "Table 4 Correlation matrix "
+        ],
+        "table_footnote": [
+            "Note: $* * *$ indicates significance of the variables at 1 percent level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>BIOF</td><td>CO2</td><td>EINT</td><td>POP</td><td>RENEGEN</td></tr><tr><td>BIOF</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>CO2</td><td>0.445***</td><td>1</td><td></td><td></td><td></td></tr><tr><td>EINT</td><td>-0.083</td><td>0.045</td><td>1</td><td></td><td></td></tr><tr><td>POP</td><td>0.068</td><td>0.654***</td><td>0.027</td><td>1</td><td></td></tr><tr><td>RENEGEN</td><td>0.537***</td><td>0.771***</td><td>0.057</td><td>0.528***</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 5 shows the results of panel unit root test to check the stationary series of the individual variables. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results show that the data series of biofuels production and carbon dioxide emissions are more volatile in nature,as both of the variables are nonstationary at level;however,it becomes differenced stationary. The remaining variables,that is,energy intensityand renewable energy generation both are stationary at level when adjusted the time trend in the series.However,without adjusted trend in the data series,both the variablesare differenced stationary.Finally, the data set of total population is not captured any stationary series till second differenced in IPS (Im,Pesaran and Shin） approach. Thus, the study used LLC panel unit root approach for confirming the stationary process. The LLC panel unit root test confirmed that population data is stationary at level,although,it does not become significant at first difference.The results confirmed the mixture of order ofintegration among the candidate variables,therefore, during estimation; it would be cautions to use robust least square regression that are less sensitive to outliers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 6 shows the Pedroni (1999） panel residual co-integration test results for evaluating null hypothesis of no co-integration against the alternative hypothesis of co-integration relationship between the variables. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results of Table 6 show that both the weighted panel PP-statistic and weighted panel ADF-statistic significant at $1 \\%$ and $5 \\%$ level，respectively.Similarly, group PP-statistic and group ADF-statistic also tend to show significant at $1 \\%$ and $10 \\%$ level,respectively. The results reject the null hypothesis of no co-integration and accepted the alternative hypothesis of co-integration relationship between the variables.The results established the long-run association between biofuels production and sustainable indicators in the panel of selecteddevelopedanddeveloping countries.The study step toward the estimation of variable parameters in a multivariate setting.Therefore, the study used dynamic heterogeneous panel technique，that is，generalized method of moments (GMM) to adjust the problem of endogeneity in the given model and the results presented in Table 7. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/15820b0ec6803adbea043ef6be9ddfac52c97bac70cf2d8b920ec1bc241f3db5.jpg",
+        "table_caption": [
+            "Table 5 Results of panel unit root test "
+        ],
+        "table_footnote": [
+            "Note: $* * *$ and \\*\\* shows significance at $1 \\%$ and $5 \\%$ level respectively "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variables</td><td colspan=\"2\">Level</td><td colspan=\"2\">First difference</td></tr><tr><td>Constant</td><td>Constant + Trend</td><td>Constant</td><td>Constant+Trend</td></tr><tr><td>BIOF</td><td>3.194</td><td>−1.344</td><td>-6.353***</td><td>-4.040***</td></tr><tr><td>CO2</td><td>4.706</td><td>-0.629</td><td>-6.679***</td><td>-4.960***</td></tr><tr><td>EINT</td><td>1.455</td><td>-1.738**</td><td>-10.071***</td><td>-8.098***</td></tr><tr><td>RENEGEN</td><td>4.696</td><td>-2.104**</td><td>-9.002***</td><td>-6.858***</td></tr><tr><td>POP</td><td>2.858</td><td>4.269</td><td>2.913</td><td>5.768</td></tr><tr><td colspan=\"5\">Levin,Lin and Chu (LLC) panel unit root test</td></tr><tr><td>LLC test for POP</td><td>-2.749***</td><td>-5.518***</td><td>-1.368</td><td>-0.812</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/38aecb365a0b9b442aa0eab6ea3f53b4befde3251c03937a669eb50864467077.jpg",
+        "table_caption": [
+            "Table 6 Pedroni residual co-integration results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Cross-sections included: 17</td></tr><tr><td colspan=\"5\">Null Hypothesis: No co-integration</td></tr><tr><td colspan=\"5\">Trend assumption: No deterministic trend</td></tr><tr><td colspan=\"5\">User-specified lag length: 1</td></tr><tr><td colspan=\"5\">Newey-West automatic bandwidth selection and Bartlett kernel</td></tr><tr><td colspan=\"5\">Alternative hypothesis: common AR coefs. (within-dimension)</td></tr><tr><td></td><td>Statistic</td><td></td><td>Weighted Statistic</td><td>P</td></tr><tr><td>Panel v-Statistic</td><td>0.571603</td><td>P 0.2838</td><td>-1.567849</td><td>0.9415</td></tr><tr><td>Panel rho-Statistic</td><td>2.952751</td><td>0.9984</td><td>3.072395</td><td>0.9989</td></tr><tr><td>Panel PP-Statistic</td><td>1.485271</td><td>0.9313</td><td>-3.103340</td><td>0.0010</td></tr><tr><td>Panel ADF-Statistic</td><td>2.463213</td><td>0.9931</td><td>-2.060473</td><td>0.0197</td></tr><tr><td colspan=\"5\">Alternative hypothesis: individual AR coefs. (between-dimension)</td></tr><tr><td></td><td>Statistic</td><td>P</td><td></td><td></td></tr><tr><td>Group rho-Statistic</td><td>4.929505</td><td>1.0000</td><td></td><td></td></tr><tr><td>Group PP-Statistic</td><td>-6.059985</td><td>0.0000</td><td></td><td></td></tr><tr><td>Group ADF-Statistic</td><td>-1.530066</td><td>0.0630</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of GMM show that carbon dioxide emissions have a positive and significant association with thebiofuels production,as the coefficient value indicate that there is less elastic relationship between the variables.The results imply that environmental quality indicator is affected by the combustion of fossil fuels energy due to the high abundance and cheap source of energy in most of the developed and developing countries. Therefore,for caution of carbon free energy，there is substantially required biofuels production that adjusted the problem of high emissions in the region.The result further depict that along with the increase in the renewable energy generation, there is largely required biofuels production,as if there is one percent increase in renewable energy generation, biofuels production increases by $0 . 4 1 5 \\%$ .However，the magnitude is far less than the magnitude of carbon dioxide emissions that increases the production of biofuels in the region.The results obviously would facilitate the policy planners to formulate the policies related with the carbon free economy and sustainable development in the region.The remaining variables, that is, energy intensity and total population does not show any significant association during the time period; however,we may not ignore the possible impact of both the variables on biofuels production The other statistics including adjusted R-squared show that about $5 2 . 4 8 \\%$ sustainable indicators explained the importance of biofuels production，while the value of $J .$ -statistic shows that the problem of endogeneity has been adjusted and the results are free from errors.After adjustment of endogeneity，the study further checked the possible outliers in the panel of countries,as during panel unit root estimation,some of the variables are highly volatile and there is considerable need to adjust the outliers and obtained the robust results.For this purpose,the study used several outliers'detection tests that presented in Table 8,Figs 1 and 2, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2156d71b0337bcb6f1105d61350ae8e8bd19cb0b65c967b040772e07517a349.jpg",
+        "table_caption": [
+            "able 7 Panel dynamic modeling-generalized method of moments (GMM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">DependentVariable:LOG(BIOF)</td></tr><tr><td colspan=\"4\">Method: Generalized Method of Moments</td></tr><tr><td colspan=\"4\">Estimation weighting matrix: HAC (Bartlett kernel, Newey-West fixed bandwidth = 5.000)</td></tr><tr><td colspan=\"4\">Standard errors & covariance computed using estimation weighting matrix</td></tr><tr><td colspan=\"4\">Instrument specification: LOG(CO2(-1)) LOG(POP(-1))LOG(RENEGEN(-1)) Log(EINT(-1))</td></tr><tr><td>Constant added to instrument list</td><td></td><td>t-Statistic</td><td></td></tr><tr><td>Variable</td><td>Coefficient</td><td>SE</td><td>P</td></tr><tr><td>C</td><td>-0.816184</td><td>3.740940 -0.218176</td><td>0.8275</td></tr><tr><td>LOG(CO2)</td><td>0.828618</td><td>0.235484</td><td>3.518795 0.0005</td></tr><tr><td>LOG(POP)</td><td>-0.313812</td><td>0.244223</td><td>-1.284943 0.2002</td></tr><tr><td>LOG(RENEGEN)</td><td>0.415999</td><td>0.155783 2.670370</td><td>0.0082</td></tr><tr><td>LOG(EINT)</td><td>-0.265458 0.414985</td><td>-0.639681</td><td>0.5231</td></tr><tr><td>R-squared</td><td>0.533560</td><td>Mean dependent var</td><td>1.731545</td></tr><tr><td>Adjusted R-squared</td><td>0.524882</td><td>SD dependent var</td><td>2.261811</td></tr><tr><td>SE of regression</td><td>1.559039</td><td>Sum-squared resid</td><td>522.5796</td></tr><tr><td>Durbin-Watson stat</td><td>0.351840</td><td>J-statistic</td><td>1.94E-42</td></tr><tr><td>Instrument rank</td><td>5</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ef98a7ed463e80b168971d66ca82ab93e1c2927213bee5bc55a51b8a8330360.jpg",
+        "table_caption": [
+            "Table 8 Outliers detection in panel modeling "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Number of</td><td>Model Fit statistics</td><td colspan=\"3\">Ljung-Box Q(18)</td><td>Number</td></tr><tr><td></td><td>predictors</td><td>Stationary R-squared</td><td>Statistics</td><td>DF</td><td>Sig.</td><td>of outliers</td></tr><tr><td>BIOF-Model_1</td><td>4</td><td>.939</td><td>25.739</td><td>18</td><td>.106</td><td>22</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e54cf703d1b4a7796f32b165ff519f301cf1dc651db36b05ea34f00ee590efe5.jpg",
+        "img_caption": [
+            "Fig.1 Influence statistics. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The result confirmed that around 22 outliers presented in the panel of 17 developed and developing countries which should have to be adjusted before estimation.Figure 1 further shows the influence statistics for closer overview of outliers in the panel of countries. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows that most of the observations of the given variable series surpass the average values; therefore,there is clear indication that the parameter estimates may be affected by the possible outliers in the given model. All of the four influence statistics confirmed that majority of the variables observations exceeds the average line.Thus,there is required variable by variable to see the observation trends.Figure 2 shows the leverage plots of each variable to observe the outliers in the data series.Figure 2 depict that variable series are fluctuating over the period of time,as one of thereason is obvious the difference of developed and developing countries.Developed countries more pronounce toward the biofuels production and environ mental indicators while developing countries struggling to achieve the optimum level of energy and carbon emissions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2b563b9734527ba49a4ad1f72d26458b44eaab42f10f07e950f3635e46ca7c3.jpg",
+        "img_caption": [
+            "Fig.2Stability diagnostics -leverage plots.BIOF vs. Variables (Partialled on Regressors). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After careful analysis of above exercise, there is considerable need to adjust the outliers from dependent variable and from its regressors.Therefore,the study used robust least square regression including M-estimations that adjust the outliers of dependent variables, while MM-estimations address both the dependent and independent variables' outliers.Table 9 shows the panel robust least square regression estimated that less sensitive to outliers. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results of robust least square regression indicate that carbon dioxide emissions and renewable energy generation have a significant and positive impact on increasing biofuels production in the region,while total population significantly decreases the biofuels production. One of the possible implications of this result is that biofuels production sensitizes the total population by moving towards traditional sector to modern era. Therefore, the pace of mechanized world hinders by the rapid population pressure on the cost of supplydemand gap of energy in the region. The robust regression indicated the robust weighted R-squared $5 9 . 9 \\%$ that are greater than the $6 . 6 \\%$ higher than the actual ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "R-squared in GMM estimations.This result adjusted the outliers of dependent variable shows that explanatory variables have only $4 6 . 5 \\%$ impact on biofuels produc tion in the region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The study further uses MM-estimations of robust least square regression to adjust the model outliers and results are presented in Table 10. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results show that after adjusting both the dependent and independent variables' outliers,all of the sustainable indications exhibit the significant association with the biofuels production with the greater magnitude andimproved statistical significancepowers. The results reveal that if there is one percent increase in carbon dioxide emissions,biofuels production increases by $0 . 9 3 4 \\%$ . The magnitude value is improved in MM-estimations as compared to GMM and M-estimations. Similarly，renewable energy generation along with the energy intensity both exerted the positive relationship with the biofuels production，as the coefficient values are $0 . 4 9 3 \\%$ and $0 . 5 2 9 \\%$ ,respectively. Finally, total popu lation have a significant and negative relationship with the biofuels production that need to device sound health policy to reduce the pressure of massive populations in order to utilize energy infrastructure across the countries.In both the M-estimation and MM-estimation, R-squaredconsiderablydecreasingwhilerobust weighted R-squared increases in a greater extent that shows the explanatory powers of the sustainable indicators in the region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/149faa2077e201ef4b6f431d554ee2dc2d7be61ee9e503e754b721bb78c83095.jpg",
+        "table_caption": [
+            "Table 9 Panel robust least square results (M-estimations) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Dependent Variable: LOG(BIOF)</td></tr><tr><td colspan=\"5\">Method: Robust Least Squares</td></tr><tr><td colspan=\"5\">Included observations: 221</td></tr><tr><td colspan=\"5\">Method: M-estimation</td></tr><tr><td colspan=\"5\">M settings: weight = Bisquare, tuning = 4.685,scale = MAD (median centered) Huber TypeI Standard Errors & Covariance</td></tr><tr><td>Variable</td><td>Coefficient</td><td>SE</td><td>z-Statistic</td><td>P</td></tr><tr><td>C</td><td>-2.274181</td><td>2.086535</td><td>-1.089931</td><td>0.2757</td></tr><tr><td>LOG(CO2)</td><td>0.880646</td><td>0.112631</td><td>7.818870</td><td>0.0000</td></tr><tr><td>LOG(EINT)</td><td>-0.099009</td><td>0.225922</td><td>-0.438245</td><td>0.6612</td></tr><tr><td>LOG(POP)</td><td>-0.348856</td><td>0.125392</td><td>-2.782131</td><td>0.0054</td></tr><tr><td>LOG(RENEGEN)</td><td>0.375143</td><td>0.081909</td><td>4.580000</td><td>0.0000</td></tr><tr><td colspan=\"5\">Robust Statistics</td></tr><tr><td>R-squared</td><td>0.474733</td><td colspan=\"2\">Adjusted R-squared</td><td>0.465006</td></tr><tr><td>Rw-squared</td><td>0.599739</td><td colspan=\"2\">Adjust Rw-squared</td><td>0.599739</td></tr><tr><td>Akaike infocriterion</td><td>207.9675</td><td colspan=\"2\">Schwarz criterion</td><td>227.2109</td></tr><tr><td>Deviance</td><td>436.9568</td><td colspan=\"2\">Scale</td><td>1.477289</td></tr><tr><td>Rn-squared statistic</td><td>252.0903</td><td colspan=\"2\">Prob(Rn-squared stat.)</td><td>0.000000</td></tr><tr><td></td><td colspan=\"2\">Non-robust Statistics</td><td></td><td></td></tr><tr><td>Mean dependent var</td><td>1.729630</td><td colspan=\"2\">SD dependent var</td><td>2.256845</td></tr><tr><td>SE of regression</td><td>1.565053</td><td colspan=\"2\">Sum-squared resid</td><td>529.0682</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebf2a3e50a70f5ccdab28dffb57312043f6b0afbc33e39adcd4dc9d74d5b104f.jpg",
+        "table_caption": [
+            "Table 10 Panel robust least square results (MM-estimations) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Dependent variable: LOG(BIOF)</td></tr><tr><td colspan=\"5\">Method: Robust Least Squares</td></tr><tr><td colspan=\"5\">Included observations: 221</td></tr><tr><td colspan=\"5\">S settings: tuning = 0.275,breakdown = 0.90011, trials = 200,subsmpl = 5, refine =2, compare = 5</td></tr><tr><td colspan=\"5\">M settings: weight = Bisquare, tuning = 3.78</td></tr><tr><td colspan=\"5\">Random number generator: rng = kn, seed = 1540814231</td></tr><tr><td colspan=\"5\">Huber Type II Standard Errors & Covariance</td></tr><tr><td></td><td>Coefficient</td><td>SE</td><td>z-Statistic</td><td>P</td></tr><tr><td>Variable C</td><td>-7.180870</td><td>1.508614</td><td>-4.759913</td><td>0.0000</td></tr><tr><td>LOG(CO2)</td><td>0.934792</td><td>0.092803</td><td>10.07284</td><td>0.0000</td></tr><tr><td>LOG(EINT)</td><td>0.529426</td><td>0.160719</td><td>3.294115</td><td>0.0010</td></tr><tr><td>LOG(POP)</td><td>-0.712284</td><td>0.092219</td><td>-7.723788</td><td>0.0000</td></tr><tr><td>LOG(RENEGEN)</td><td>0.493846</td><td>0.062015</td><td>7.963311</td><td>0.0000</td></tr><tr><td colspan=\"5\">Robust Statistics</td></tr><tr><td>R-squared</td><td>0.309064</td><td>Adjusted R-squared</td><td></td><td>0.296269</td></tr><tr><td>Rw-squared</td><td>0.829145</td><td>Adjust Rw-squared</td><td></td><td>0.829145</td></tr><tr><td>Akaike info criterion</td><td>442.4348</td><td>Schwarz criterion</td><td></td><td>458.8377</td></tr><tr><td>Deviance</td><td>184.3613</td><td>Scale</td><td></td><td>0.653386</td></tr><tr><td>Rn-squared statistic</td><td>328.2296</td><td>Prob(Rn-squared stat.)</td><td></td><td>0.000000</td></tr><tr><td colspan=\"5\">Non-robust Statistics</td></tr><tr><td>Mean dependent var</td><td>1.729630</td><td>SD dependent var</td><td></td><td>2.256845</td></tr><tr><td>SE of regression</td><td>1.657219</td><td>Sum squared resid</td><td></td><td>593.2168</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The overall results indicate the importance of biofuels production for a strong policy vista for sustainable bioenergy development across the globe. There is one thing be in a mind that if the economies pertaining to the bioenergy development in a region, there should be keen focused on the land-use changes and greenhouse gas balances for climatic protections.Piccirillo (2012）conclude that biofuel energy is one of the key factors of green development alternative to the standard fossil fuels,as it is produced from renewable energy sources. Besides that the impact of biofuel energy on environmental degradation is observed smaller as compared to the conventional fossil fuel combustion，because the plants used for biofuel production absorb carbon dioxide emissions, that leading to zero net $\\mathrm { C O } _ { 2 }$ emissions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The study focused on the biofuels production that is used as one of the key factor for green sustainable agenda for the panel of developed and developing countries.The study examined the impact of four promising sustainable indicators that impact on the biofuels production in the region. The time series data of 17 developed and developing countries taken from U.S Energy Information Administration (EIA）database for the period of 2000-2012. The study employed number of panel econometric modeling techniques on merit, that is,panel unit root test evaluate stationary series of the variables; panel co-integration test indicates the longrun connection between the variables,panel GMM technique incorporated the endogeneity problem from the model; and robust least square regression technique addresses the outliers in the given model. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of panel unit root test indicate the mixture of order of integration,as some of the variables including biofuels,and carbon dioxide emissions are highly volatile data in nature;therefore,it decomposed with differenced stationary. The panel co-integration results rejected the null hypothesis of no co-integration against the alternative hypothesis.Therefore，the study established that there is co-integration relationship between thevariables.Theresultsof GMMindicate thatboth the carbon dioxide emissions and renewable electricity generation have a positive and significant association with the biofuels production in the region. The results of robust least square regression confirmed that all of the sustainable indicators have a dynamic linkage with the biofuels production.Thus，the policy related to the green biofuels production process should be carried out for long-term development in the region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the following results,the study pro posed short-term,medium term and long-term policy implications.In the short-term，the policymakers and government officials may have to reduce the burden of trade deficit using the diverse energy mix in their portfolios.However,biofuel energy has a distinct edge on the other energy mix as it may be used as a substitute for high priced petroleum. In addition, biofuels energy using in transport sector may help to mitigate the greenhouse gas emissions to addresses the threat of climate change in the region. In the medium-term plan, policymakers should have to be devoted a major expenditures on the $\\textsc { r } \\& \\textmu$ activitiesrelated with the sustainable development of biofuels including the availability of the biofuels,cost effectiveness,ecosystem protection, etc.Finally，in the long-term plan，the policymakers have to promote biofuels as the important component that reduces life cycle $\\mathrm { C O } _ { 2 }$ emissions by replacing fossil fuels.However,it is point of noted that during cultivation and production of biofuels,second-generation bio fuels produces less carbon dioxide emissions than the replaced fossil fuel. Biofuels development should be considered as integrated spatial planning with resource efficiency and renewable energy strategies. Therefore, biofuels production is the desirable situation to optimize economic growth that lead to sustainable development across the globe.Future research should focus on different income level country group,longer data series and with more variables to investigate this issue. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AENews (2014) Biofuels from engineered tobacco plants? Alternative Energy News. Availableat:http://www.alternative-energy-news.info/biofuels-engineeredtobacco-plants/ (accessed 1 March 2015).   \nBirur D,Hertel T,Tyner W (2o08) Impact of biofuel production on world agricultural markets:a computable general equilibrium analysis. Center for Global Trade Analysis.Purdue.   \nChauhan SK, Shukla A (2011) Environmental impacts of production of biodiesel and its use in transportation sector. doi: 10.5772/20923   \nCherubini F, Peters GP,Berntsen T, Stromman AH, Hertwich E (2011) $\\mathrm { C O } _ { 2 }$ emissions from biomass combustion for bioenergy:atmospheric decay and contribution to global warming. GGB Bioenergy,3,413-426.   \nChristopherson S. (2oo8)What are biofuels? Cornell University Ithaca.Available at: http://www.greenchoices.cornell.edu/energy/biofuels/(accessed1March 2015).   \nCremonez PA,Feroldi M,de Oliveira CDJ,Teleken JG,Alves HJ, Sampaio SC (2015) Environmental, economic and social impact of aviation biofuel production in Brazil. New biotechnology,32,26-271.   \nDemirbas A (2O07) Progress and recent trends in biofuels.Progress in Energy and CombustionScience,33,-1.   \nEIA (2014) U.S.Energy Information Administration, U.S Department of Energy, Washington,D.C.Availableat: http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm?tid=79&pid=79&aid=1 (accessed 20 January 2015).   \nEscobar JC,Lora ES,Venturini OJ,Yanez EE,Castillo EF,Almazan O (2oo9) Biofuels: environment,technology and food security.Renewable and Sustainable Energy Reviews,13,1275-1287.   \nGreen Facts (2010) Liquid Biofuels for Transport Prospects, risks and opportunities. Availableat:http://www.greenfacts.org/en/biofuels/l-2/1-definition.htm (accessed 1 March 2015).   \nGroom MJ,Gray EM, Townsend PA (20o8) Biofuels and biodiversity: principles for creating better policies for biofuel production. Conseroation Biology,22, 602-609.   \nHall DO, Scrase JI (1998) Will biomass be the environmentally friendly fuel of the future? Biomass and Bioenergy,15,357-367.   \nHill J,Nelson E,Tilman D,Polasky S,Tiffany D (2o06) Environmental, economic, and energetic costs and benefits of biodiesel and ethanol biofuels.Proceedings of theNational Academy ofSciences,103,11206-11210.   \nHoefnagels R,Smeets E,Faaij A (2010) Greenhouse gas footprints of different biofuel production systems.Renewable and Sustainable Energy Reviews,14,1661-1694.   \nHuber PJ (1973) Robust regression: asymptotics,conjectures and Monte Carlo. The Annals of Statistics,1,799-821.   \nIEA(2013) Medium-Term Renewable Energy Market Report 2013.OECD/IEA,Paris.   \nIm KS,Pesaran MH, Shin Y (2O03) Testing for Unit Roots in heterogeneous Panels. Journal of Economics,115,53-74.   \nLevinA, Lin CF,Chu CSJ (2002) Unit root tests in panel data: asymptotic and finite sample properties.Journal of Econometrics,108,1-24.   \nNigam PS,Singh A (2011) Production of liquid biofuels from renewable resources. Progress in Energy and Combustion Science,37,52-68.   \nPanicheli L,Gnansounou E (2015) Impact of agricultural-based biofuel production on greenhouse gas emissions from land-use change: key modelling choices. Renewable and Sustainable Energy Reviews,42,344-360.   \nPedroni P (1999) Critical values for cointegration tests in heterogeneous panels with multiple regressors.Oxford Bulletin of Economics and Statistics,Special Issue,61, 653-678.   \nPiccirillo C (2012) Biofuels Production and Greenhouse Gases Emissions. Available at: http://www.decodedscience.com/biofuels-production-greenhouse-gasesemissions/15432 (accessed2 March 2015).   \nRavindranath NH, Lakshmi CS,Manuvie R, Balachandra P (2011) Biofuel production and implications for land use,food production and environment in India. Energy Policy,39,5737-5745.   \nRousseeuw PJ,Yohai VJ (1984) Robust regression by means of S-estimators.In: RobustandNonlinearTimeSeriesAnalysis,LectureNotesinStatistics26,(edsFranke J, H'ardle W,Martin RD), pp.256-272. Springer Verlag,New York.   \nSchaldach R,Priess JA,Alcamo J (2011) Simulating the impact of biofuel develop ment on country-wide land-use change in India. Biomass and Bioenergy,35, 2401- 2410.   \nSpartz JT,Rickenbach M, Shaw BR (2015) Public perceptions of bioenergy and land use change: comparing narrative frames of agriculture and forestry. Biomass and Bioenergy,75,1-10.   \nUNCTAD (2008) Biofuel production technologies: status,prospects and implications for trade and development. United Nations Conference on Trade and Development, New York and Geneva,i- viii, pp. 1-41.   \nVan Zelm R,Muchada PAN, van der Velde M,Kindermann G, Obersteiner M,Huijbregts MAJ (2014) Impacts of biogenic $\\mathrm { C O } _ { 2 }$ emissions on human health and terrestrial ecosystems:the case of increased wood extraction for bioenergy production on a global scale. GGB Bioenergy,7,608-617.   \nYang H, Zhou Y, Liu J (20o9) Land and water requirements of biofuel and implications for food supply and the environment in China. Energy Policy,37,1876-1885.   \nYohai VJ (1987) High breakdown-point and high eficiency robust estimates for regression.The Annals of Statistics,15,642-656. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

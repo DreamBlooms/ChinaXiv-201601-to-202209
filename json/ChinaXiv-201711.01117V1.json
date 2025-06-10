@@ -1,0 +1,533 @@
+[
+    {
+        "type": "text",
+        "text": "最大熵与MP-CLEAN方法对扩展源图像重建的比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张茂林1,²，周建锋1,2（1.清华大学工程物理系天体物理中心，北京100084；2.粒子技术与辐射成像教育部重点实验室(清华大学)，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在射电综合成像领域，通常需要用退卷积的方法补全频域稀疏的采样。由于扩展源的频域信息更为丰富，要补全这些信息相对于点源来说更难，因此扩展源的图像重建是射电综合成像领域的一大难点。为了探索射电干涉扩展源图像重建方法的特点，将最大熵与一种加速的CLEAN方法（文中称之为 Multi-PointCLEAN，MP-CLEAN)对扩展源的干涉阵模拟数据的图像重建进行了比较。通过比较，发现对于同样的观测数据，两种方法都能较好地重建图像，但MP-CLEAN方法的旁瓣祛除效果与重建效果优于最大熵方法，而且在模拟数据重建中MP-CLEAN方法的总体速度比最大熵快3倍以上。最后，在讨论部分通过研究两种方法中参数的选择对重建结果的影响，发现最大熵方法比MP-CLEAN方法对参数选择的依赖性弱，这表明最大熵方法有更好的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：图像重建；射电干涉阵；Multi-PointCLEAN；最大熵方法；扩展源中图分类号：P164 文献标识码：A 文章编号：1672-7673(2016)01-0100-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "射电天文是天文学的一个分支，射电天文顾名思义是通过探测射电波观测天体，从而研究天体的一门科学。射电波的波长相对于可见光长得多，这使得射电观测的角分辨率受到很大的限制，以6cm 的射电波为例，其波长是可见光（波长400 至 $7 6 0 ~ \\mathrm { n m } ^ { \\cdot }$ )的十万倍左右，也就是说，一个 $1 \\mathrm { ~ m ~ }$ 直径的光学望远镜的分辨率相当于直径约 $1 0 0 \\mathrm { k m }$ 的射电望远镜，显然分辨率是射电天文发展的一个很大的阻碍。从19 世纪40年代起，干涉成像技术的发展克服了这种局限。干涉成像技术的创始人MartinRyle 也因此获得了1974 年的诺贝尔奖。接下来的数十年，一些大型的射电干涉阵列（如One-MileTelescope、Green Bank Interferometer、Westerbork Synthesis Radio Telescope、Very Large Array）陆续建成，大大推动了射电天文学的发展。如今的射电干涉望远镜已经跨入世界上分辨能力最高的望远镜行列，例如阿塔卡玛毫米/亚毫米波阵列望远镜（Atacama Large Millimeter Array，ALMA)的空间分辨能力已经是哈勃空间望远镜（Hubble Space Telescope)的 5 倍左右。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干涉阵是利用干涉原理得到可见度数据（VisibilityData），这里的可见度数据可等效理解为图像的空间频谱数据。由于干涉是来自两个信号的相干，所以得到的可见度数据与观测天线的数量及相对位置分布有关。受材料、建造技术及资金等限制，现实中只能建造天线数目和尺寸都有限的干涉阵。但是，随着干涉技术的不断发展和完善，人们已经开始筹建越来越大的阵列，例如我国的“天籁计划”等，由此也带来了数据处理的挑战[1]。干涉阵的排布对成像有较显著的影响，这方面国内已有所研究[2]。由于射电干涉阵的观测数据是对图像频域空间的稀疏采样，因此如果直接对获取的可见度数据进行傅里叶逆变换，得到的图像往往很模糊，通常存在很强的旁瓣。为了重建清晰的图像，通常需要进行反卷积（Deconvolution）。在射电天文图像重建领域，常用的几种反卷积方法有CLEAN方法[3-4]及其衍生方法（如 Multi-scale CLEAN[5]、Multi-resolution CLEAN[6]等）和最大熵方法[7]及其衍生方法（如 Multi-scale MEM[8等）。射电干涉成像中，扩展源的图像重建是其中的难点，普通的CLEAN方法虽然对简单的点源重建效果较好，但对于复杂的大面积弥散源来说重建时计算量大，收敛速度慢，重建稳定性差，得到的结果通常不理想[9]。具有代表性的适用于扩展源干涉阵数据的重建方法主要有两种：一种是在CLEAN的基础上发展起来的多尺度方法，以Cormwell的Multi-Scale CLEAN[5]为代表，一种是以最大熵方法[7]（MEM)为代表。本文使用一种简单的加速CLEAN的方法，与CLEAN 方法每次选择残余图中的最亮点不同，每次选择大于最亮点 $\\gamma \\left( \\ 0 < \\gamma < 1 \\right)$ )倍的多个点，而不仅仅是一个[10]，这种方法本文称为 Multi-Point CLEAN 方法（简称 MP-CLEAN 方法）。这种方法既加速了CLEAN，又在一定程度上利用了相邻像素值之间的物理联系，适合进行复杂扩展源的重建。本文之所以选择用最大熵方法与MP-CLEAN方法进行对比，是由于MP-CLEAN方法的简单性，它并不属于多尺度方法，同样地，最大熵方法也不属于多尺度的方法，二者同属于扩展源重建的初级方法。因此可以将这两种比较初级的方法进行比较，通过对比两种扩展源重建方法，可以了解两种方法的特点，并为进一步完善和改进射电干涉扩展源图像重建方法提供启发。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1模型的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了简化模型，本文中认为天图的可见度数据与天图的空间频谱等效，即直接使用傅里叶频谱数据作为可见度数据。任意给定一个亮度分布 $I ( x , y )$ ，其可见度可以用(1)式表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( u , \\ v ) = \\iiint I ( \\ x , \\ y ) \\ e ^ { 2 \\pi j ( u x + v y ) } \\mathrm { d } x \\mathrm { d } y ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $V ( u , v )$ 为可见度数据； $I ( x , y )$ 为亮度分布图像，即可见度是图像的傅里叶变换。射电望远镜的观测等效于在天图的频域进行采样。如果准确获得可见度的全部采样，可以直接利用傅里叶逆变换求得 $I ( x , y )$ ，如(2)式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( x , \\ y ) = \\iint V ( u , \\ v ) \\ e ^ { - 2 \\pi j ( u x + v y ) } \\mathrm { d } u \\mathrm { d } v \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而实际数据往往是对可见度数据的部分采样，采样函数如(3)式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( u , \\ v ) = { \\sum } _ { \\ k } { \\omega } _ { k } \\delta ( u - u _ { k } ) \\delta ( v - v _ { k } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\omega _ { \\mathrm { k } }$ 为加权因子，在本文中全部取为常数1，即认为采样完全准确有效； $\\delta$ 函数满足 $\\delta ( 0 ) = 1$ ，当$x \\neq 0$ 时， $\\delta ( x ) = 0$ 。于是得到可见度数据：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde V ( u , \\ v ) = S ( u , \\ v ) \\ V ( u , \\ v ) = \\sum _ { \\ k } V ( u _ { k } , \\ v _ { k } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，第 $k$ 个采样点的位置由采样函数决定，采样得到的可见度数据就是 $\\widetilde { \\nu }$ ，显然上述过程是不可逆的，信息有丢失，这就决定了后面的方法只能基于一定的模型对真实信号进行估计，而无法准确无误地恢复复杂的真图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在重建时，已知数据是采样得到的可见度数据和采样函数（在图像域表达就是已知脏图和点扩展函数)，而需要重建真实图像 $I ( x , y )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果考虑观测中存在的噪声，可见度观测数据可以用下式表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\pmb { u } _ { k } ) = \\sum _ { i } I ( \\pmb { x } _ { i } ) \\exp ( 2 \\pi j \\pmb { u } _ { k } \\pmb { x } _ { i } ) + n _ { k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $V ( \\pmb { u } _ { k } )$ 表示可见度观测数据； $I ( \\pmb { x } _ { i } )$ 表示真实亮度分布； $\\boldsymbol { \\mathbf { \\mathit { u } } } _ { k }$ 是 $U V$ 平面(频域)上第 $k$ 个采样点的位置向量； $\\mathbf { \\boldsymbol { x } } _ { i }$ 是图像平面第 $i$ 个像素的位置向量； $n _ { k }$ 表示 $U V$ 平面上第 $k$ 个采样点的噪声。有了(5)式描述的关系，要求出真实亮度分布，需要用反卷积方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2重建方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 最大熵方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在引入最大熵方法之前先给出一种熵的定义，文[11]于1991年提出了一种熵的形式，如(6)式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mathrm { g } } = { \\sum } _ { i } \\bigl [ b _ { i } - m _ { i } - b _ { i } \\ln \\biggl ( \\frac { b _ { i } } { m _ { i } } \\biggr ) \\bigr ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $H _ { \\mathrm { g } }$ 表示图像的(相对)熵； $b$ 表示待重建图像； $m$ 表示图像模型； $i$ 表示第 $i$ 个像素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用这种熵的定义，结合观测数据，就能求解真实亮度分布。在观测数据的约束下求满足熵最大的解，可以利用拉格朗日乘子法构造目标函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = H _ { \\mathrm { g } } ^ { } - \\alpha [ \\chi ^ { 2 } - E ( \\chi ^ { 2 } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\chi ^ { 2 }$ 为观测可见度数据与重建图像的可见度数据各点偏差大小的归一化平方和； $E ( \\chi ^ { 2 } )$ 为 $\\chi ^ { 2 }$ 的期望值, $\\chi ^ { 2 }$ 具体表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\frac { \\displaystyle \\sum _ { k } \\omega _ { k } \\mid V _ { k } - V _ { \\ k } ^ { \\prime } \\mid ^ { 2 } } { \\displaystyle \\sigma _ { n } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { \\omega } _ { k }$ 是权重因子(本文中取为1)； $V _ { _ k }$ 是观测获得的可见度数据； $\\boldsymbol { V ^ { \\prime } } _ { \\boldsymbol { k } }$ 是待重建图像频域的重采样数据； $\\textstyle \\sigma _ { n } ^ { 2 }$ 为观测获得数据噪声的方差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使目标函数取得最大值的图像 $b$ 就是待求的解，函数的极值问题有多种求解方法，这里不妨转化为求目标函数梯度的0点，即可利用牛顿法求解，迭代步长的具体表达式由下式得到[10]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta b _ { i } ( n ) = - \\frac { \\partial J } { \\partial b _ { i } ( n ) } \\diagdown ( \\frac { 1 } { b _ { i } ( n ) } + 2 \\alpha q ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathbf { \\Omega } _ { n }$ 从0开始取值， $b ( 0 )$ 即为已知给定的先验图像 $m$ ，本文所做模拟中的先验图像 $m$ 是一张所有点取值为1的图像； $J$ 为目标函数； $\\alpha$ 取常数； $q$ 取点扩展函数的主峰峰值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实现步骤[12]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)给出初始重建图像 $b _ { 0 }$ ，图像模型 $\\mathbf { \\Omega } _ { m }$ ，这里令 $b _ { 0 }$ 及 $\\mathbf { \\nabla } _ { m }$ 所有像素的值等于1;（2)对重建图像的傅里叶域用采样函数进行采样，得到重采样数据 $V _ { k ^ { \\prime } }$ ：(3)利用重采样数据、观测采样数据及采样函数的有关参数，代入(9)式，求出迭代步长 $\\Delta b$ ：(4)更新重建图像： $b = b + \\Delta b$ ·(5)判断迭代终止条件是否达到，即归一化卡方值开始小于等于1。如果达到终止条件，则输出图像 $b$ 即为重建图像；如果未达到，则返回第(2)步;(6)将重建图像卷积与最大基线长对应分辨率的高斯函数即得到最终的最大熵重建结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 MP-CLEAN方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在射电天文图像重建中，CLEAN方法是最常用的反卷积方法之一，文[10]于1980年提出了一种可以同时对多个点进行CLEAN来加速CLEAN的方法，为了描述和比较方便，本文称之为Multi-PointCLEAN（MP-CLEAN）。在应用MP-CLEAN时，需要一条经验性假设，即有采样较好的数据对应点扩散函数的主瓣比旁瓣高很多，即使有旁瓣的叠加，不同亮源同时作用在同一位置的概率不大，形成假源的峰值也不会太大。这就为同时选择多个真实的源提供了可能，因此可以在每一步迭代中选择大于最亮值 $\\gamma ( 0 < \\gamma \\leqslant 1 )$ 倍的多个点，而不仅仅是一个点[8来加速CLEAN。每一次迭代 $\\gamma$ 允许的取值范围可能不一样，但是，文中为了简便， $\\gamma$ 在同一次重建中都取一个较为保守的常数（注 $\\gamma \\equiv 1$ 时为CLEAN 方法），参数的选取在文中第4部分详细讨论。下面是 MP-CLEAN方法的实现步骤[10]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)给出一个初始模型 $M _ { 0 }$ ，并令 $M _ { 0 }$ 所有元素为0；  \n(2)利用采样函数求出由模型得到的可见度数据;(3)将模型可见度数据与观测数据作差，再做傅里叶逆变换，取实部得到残差图 $R$ (4)找出残差图 $R$ 中的最大值 $M A X$ ：(5)找出残差图中大于 $M A X \\ \\gamma ( 0 { < } \\gamma { \\leqslant } 1 )$ 倍的点，作为MP图（与模型尺寸一样的图，图中的点除  \n了找出的这些点与原图位置及像素值一样，其余像素点全为0)；(6)更新模型：在原模型上加MP图的 $\\beta ( 0 { < } \\beta { < } 1 )$ 倍；(7)判断是否达到迭代终止条件：残差图对应的可见度数据的均方根小于等于估计噪声水平（即  \n卡方小于等于1时终止迭代)。如果未达到终止条件，则返回第(2)步。(8)将结果卷积与最大基线长对应分辨率的高斯函数即得到MP-CLEAN重建结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3数值模拟及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 模拟数据的生成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模拟数据的生成从干涉阵的排列及组合开始，采样函数由天线阵列及观测等因素确定，本文模拟所用的采样函数由排列在同一条直线上的天线组成，其位置参考韦斯特博克综合孔径射电望远镜（Westerbork Synthesis Radio Telescope，WSRT)的天线位置设置。观测时利用地球自身的旋转，一条基线对应的点在采样空间扫过一条弧线。为了简便，用一条弧线表示这种观测。观测时间越长，扫过弧线长度越长，考虑到地球自转的周期性，12小时等效 ${ 1 8 0 } ^ { \\circ }$ 的扫描。由于实信号对应的可见度数据具有对称性，因此扫描过程等效于绕着中心直径上的点旋转采样，这里扫描的弧线是椭圆弧，椭圆的长轴与短轴之比为 $1 { : \\sin \\theta }$ （这里的 $\\theta$ 为被观测源所在的赤纬，文中 $\\theta$ 取 ${ 6 0 } ^ { \\circ }$ 为例)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选一张扩展源作为原图（图1左上图：图像尺寸为 $1 2 0 0 \\times 1 2 0 0$ ，这里每个像素大小设为1arcsec $\\times 1$ arcsec)做傅里叶变换，即得到可见度（图1右上图)，再利用采样函数(图1左下图)对可见度采样并加上噪声就可以得到模拟的可见度观测数据（图1右下图）。干涉阵的最大基线长度决定了其分辨率（在波长一定的情况下），所选的观测波长 $\\lambda$ 约为 $6 ~ \\mathrm { c m }$ ，得到的分辨率约为 $4 . 4 \\mathrm { a r c s e c } \\times 5 . 1$ arcsec。由于观测数据分辨率的限制，为了统一分辨率，在后面的重建图像与真图（真图与原图不同，真图是原图卷积高斯函数得到的分辨率为4.4arcsec $\\times 5 . 1$ arcsec）的比较中，统一卷积一个归一化的二维高斯函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于模拟可见度数据是复数，因此选择的噪声也必须取复数形式，其幅度取服从均方差为5（单位：Jansky，Jy）、均值为0的高斯分布的绝对值，其相位取 $\\left[ 0 , 2 \\pi \\right]$ 上的均匀分布。在后面的模拟中假设知道噪声的大小（即预估的噪声水平是准确的）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于采样函数没有对可见度的原点（直流分量)进行采样，即总流量需要估计，而这里模拟中流量估计认为准确，即在频域采样时对可见度的原点多采了一点。数值模拟中输入信息是图1右下图对应的采样得到的可见度数据（即模拟观测数据）、估计的噪声、估计的流量及采样函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1d173f60ef15f93f916e780322617161514b7f487a9d46550c2f203fb5f8c3b.jpg",
+        "img_caption": [
+            "图1左上：模拟选用的扩展源，单位：Jy；左下： $^ { 1 2 \\mathrm { ~ h ~ } }$ 观测对应的采样函数，又称为UV覆盖（uv-coverage），两坐标轴单位都是 $\\mathbf { k } \\lambda$ （ $1 \\mathrm { k } \\lambda \\approx 6 0 \\mathrm { ~ m ~ }$ )；右上：原图可见度数据的幅度的对数，右下：模拟观测（采样)得到的可见度数据(已加噪声)的幅度的对数"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Top-left panel:extended source chosen for this paper （unit：Jy）；Bottom-left panel：the UV coverage of a 12h observation；Top-right panel：the logarithm of the visibility amplitude to the original image；Bottomleft panel:the logarithm of the sampled visibility ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用模拟数据，可以通过最大熵或者MP-CLEAN等方法对真图进行重建。然而由于采样数据本身的缺失，对于模拟中用到的复杂扩展源而言，任何方法重建的结果都不可能恢复到与复杂的原始图像完全一致，因为任何反卷积方法都可看成在缺失的频域采样处插值，重建结果只能是基于一定的模型对真图的近似估计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2模拟重建比较 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文所用模拟中 $\\alpha$ 、 $\\beta$ 、 $\\gamma \\ 3$ 个参数的选取：$\\alpha = 5$ 、 $\\beta = 0 . 1$ 、 $\\gamma = 0 . 6$ （参数的选取可参看第4部分的讨论，选择这些参数的基本原则是使得收敛的卡方尽可能地接近1且保证重建的稳定性)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "固定上面的几个参数，就可以分别用最大熵及MP-CLEAN对模拟的可见度数据进行重建，得到的重建结果如图2。图2展示了最大熵方法及MP-CLEAN方法利用 $8 \\mathrm { ~ h ~ }$ 和 $^ { 1 2 \\mathrm { ~ h ~ } }$ 的模拟观测数据重建的结果。可以发现直接利用采样数据作傅里叶逆变换得到的脏图（Dirtymap）与真图（Tureimage)差别很大，主要体现在旁瓣很多，而且有条纹状结构。MP-CLEAN方法和最大熵方法的重建结果在不同程度上抑制了旁瓣，正中间的面源及它的延展结构都恢复得较好，尤其是MP-CLEAN方法，重建的结果很清楚，同时淹没在旁瓣中的点源也得到了较好的恢复，但是，最大熵方法依旧有一部分源没能恢复，而且存在微弱可见的旁瓣。从残余图来看（残余图是重建图像频谱重采样与观测得到的可见度数据做差之后傅里叶逆变换得到)，最大熵的残余图中还能依稀看见真图中间面源的影子，也可以看到许多黑色点源的残迹，而MP-CLEAN方法得到的残余图中几乎看不到这些踪迹，这说明MP-CLEAN重建更胜一筹。对比真图、脏图以及重建结果，总体来说两种方法的重建效果较好，重建结构比较清楚，比脏图的效果要好很多。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了更直观地分析它们之间的差别，在RA$= 6 0 1$ arcsec处取一剖面（下文中所有的剖面都是指此位置处的剖面)如图3。表1是从剖面的残差图（此处残差图是指真图减去重建图像得到的图，注意与前面的残余图有区别)图3中得到的几个统计量（由于随机噪声的存在，对于不同次的重建，表1至表3中的所有统计量具有一定的变化幅度，但均值变化幅度小于0.5Jy，标准差变化幅度一般不超过 $10 \\%$ ，由于这种变化很小，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "True image Dirty map(8h)   \ntssscc 400 2050 50100   \neee 800 100 800 50 50 1200 4008001200 1200 4008001200 RA/arcsec RA/arcsec 8h Reconstruction Results MEM image MEMresidual 200 100 800 800   \nD 50 1200 1200 4008001200 4008001200 RA/arcsec RA/arcsec MP-CLEAN image MP-CLEAN residual   \nttsec 400 200 0.65 0.55   \n800 100 800 0.5 50 0.45 1200 1200 4008001200 4008001200 RA/arcsec RA/arcsec 12h Reconstruction Results MEMimage MEMresidual 200   \nPrreeesc preceese 3 400 150 400 100 800 800 50 1200 4008001200 1200 4008001200 RA/arcsec RA/arcsec MP-CLEAN image MP-CLEAN residual 0.75   \ntaessec 400 3050 40 0.75   \np5g 800 100 eeg 800 0.55 50 0.5 1200 1200 4008001200 400 800 1200 RA/arcsec RA/arcsec ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2The reconstruction results of the 8h and 12h observations from the MP-CLEAN and the MEM.Top-left panel：the True image；Top-right panel：the dirty image made from the 8h observation.The two foursubplots at the middle and bottom of the image correspond to the 8h and $1 2 \\mathrm { h }$ observation respectively. For each four subplots，Middle-left panel:the MEM result；Middle-right panel：the residual of the MEM result；Bottom-left panel:the MP-CLEAN result；Bottomright panel：the residual of the MP-CLEAN result ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "并不影响两种方法结果的对比分析，因此本文只取某一次重建结果进行分析)，均值越接近0且标准差越小，表明越接近真图。最大熵与MP-CLEAN方法重建的图像均值与脏图相比小得多，说明两种方法的重建都保证了总流量恢复得很好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从标准差来看，MP-CLEAN的结果无论是 $8 \\mathrm { h }$ 还是 $^ { 1 2 \\mathrm { ~ h ~ } }$ 观测中，其标准差都要比最大熵小。从剖面图可以看出，即使在源较弱的图像边缘，MP-CLEAN的结果与真实图像吻合得很好，而最大熵结果还存在微弱的旁瓣难以去除，说明MP-CLEAN的旁瓣抑制效果比最大熵要好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1重建结果剖面残差图的均值及标准差",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d86fb8a7e9b2ba7b3e97cb3f59c9d80dbf6d089345e04257e2f486d9f3642138.jpg",
+        "table_caption": [
+            "Table1The meanand standard deviations of profile differences from the reconstruction ",
+            "Profiledifferencesat $R A { = } 6 0 1$ arcsec "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Profiles</td><td>Dirty map</td><td>MEM</td><td>MP-CLEAN</td></tr><tr><td rowspan=\"2\">8h</td><td>Mean/Jy</td><td>16.5</td><td>-0.07</td><td>0.09</td></tr><tr><td>g/Jy</td><td>36.8</td><td>18.5</td><td>14.7</td></tr><tr><td rowspan=\"2\">12h</td><td></td><td></td><td></td><td></td></tr><tr><td>Mean/Jy</td><td>16.5</td><td>0. 15</td><td>-0.52</td></tr><tr><td></td><td>g/Jy</td><td>20.1</td><td>9.1</td><td>3.2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/234e7d136795cda2c20ff350ccfa296e7ea6d0788033982ca1467e136d3ba011.jpg",
+        "img_caption": [
+            "图3MP-CLEAN及最大熵方法对 $^ { 8 \\mathrm { { h } } }$ （上图）及 $1 2 \\mathrm { { h } }$ （下图)观测的重建结果的剖面残差图 （在剖面 $R A = 6 0 1$ arcsec 处真图减去脏图、最大熵及MP-CLEAN的结果) Fig.3The profile difference map of reconstruction results of the 8h（Top subplot）and 12h （bottom subplot）observation（true image minus other images at $R A = 6 0 1$ arcsec) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了重建的效果，再看两种方法的重建速度，图4给出了最大熵和MP-CLEAN对 $1 2 \\mathrm { ~ h ~ }$ 观测数据进行重建的 $\\chi ^ { 2 }$ 及残差(绝对值)最大值随迭代步数及时间变化的关系。从图4中 $\\chi ^ { 2 }$ 与迭代步数之间的关系可以发现，MP-CLEAN只需要不到70步， $\\chi ^ { 2 }$ 即达到1，而最大熵则需要140多步。从 $\\chi ^ { 2 }$ 随时间的变化曲线可以发现，MP-CLEAN只需约 $1 5 \\mathrm { ~ s ~ }$ ，而最大熵则需要 $5 5 \\mathrm { ~ s ~ }$ 左右。结合迭代步数及时间，可以算出MP-CLEAN平均每步运算所需时间为0.2s左右，而最大熵大约要0.4s。由此可见MP-CLEAN的每一次迭代的速度约为最大熵方法的两倍，而 MP-CLEAN需要的重建步数是最大熵方法的一半，最终导致最大熵方法所需的重建时间是MP-CLEAN 的3倍多（接近4倍）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/29cc22dab142808278ed81052d4a2a81d47fe38847f3b66152e6b22b262610e1.jpg",
+        "img_caption": [
+            "图4 $\\chi ^ { 2 }$ 及残差绝对值最大值随迭代步数及时间变化的关系曲线Fig.4The $\\chi ^ { 2 }$ and the maximum absolute residual versus the iteration or time"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步检验这两种方法的重建特点，选择更多的原图进行模拟观测，然后重建，采样时间为$1 2 \\mathrm { h }$ ，采样阵列保持不变。为了体现与上面的扩展源不一样，选用的源一个是规则的源（月球），另一个是两个不规则星系的原图。重建得到的结果如图5，从图5的重建结果不难发现，与前面分析的重建特点一致：流量恢复均较好，都能较好地重建，而且MP-CLEAN 对旁瓣的祛除更好，其剖面残差的方差更小。限于篇幅原因，关于这些源重建速度的曲线并未给出，这两个源的实验结果是：第1个源（Source1)的重建中，MP-CLEAN的迭代时间不到15 s，而最大熵则花了近50s（是MP-CLEAN 的3倍多）；第2个源(Source2)的重建中，MP-CLEAN的迭代时间不到 $3 0 \\mathrm { ~ s ~ }$ ，而最大熵的迭代时间却超过了150 s（是MP-CLEAN的5倍多）。模拟结果表明 MP-CLEAN 比最大熵快3倍以上，与前面的结果保持一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在3.2节已经给出了最大熵及MP-CLEAN的重建结果，并且进行了详细的对比分析。然而，最大熵与MP-CLEAN方法的重建效果与重建参数的选择有关，下面是利用前面 $8 \\mathrm { ~ h ~ }$ 的观测数据在不同参数选择情况下的重建，通过对比和分析重建结果，进一步了解两种重建方法的特点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先改变最大熵方法中的参数 $\\alpha$ ，得到图6中不同 $\\alpha$ 情况下 $\\cdot \\chi ^ { 2 }$ 的变化曲线，可以看到如果不断地增大 $\\alpha$ ， $\\chi ^ { 2 }$ 会迅速地降到1，重建结果的标准差较大，而如果不断减小 $\\alpha$ 到0附近，那么重建结果与真图就有较大的整体偏差。这可以从表2中看出明显的规律：随着 $\\alpha$ 的增大，均值的变化趋向0，然后稳定在0附近；从标准差来看，随着 $\\alpha$ 的增大，标准差逐渐增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/33e07b1460d1d6d5a425b18069976b08ede33956b56f7d17b03707fa37a35c93.jpg",
+        "img_caption": [
+            "图5最大熵及MP-CLEAN方法对于不同扩展源的重建结果。中心线左边为第1个源的重建结果及在 $R A = 3 7 7$ arcsec处的剖面残差曲线；中心线右边为第2个源的重建结果及在 $D e c = 6 0 1$ arcsec 处的剖面残差曲线",
+            "Fig.5Thereconstructionresultsfromthe MEMandMP-CLEANmethodfordiferentsources.Theleftpanelis thereconstruction results of Source 1 and the plot of the profile difference map at $R A = 3 7 7$ arcsec；the right panel is the reconstruction results of Source 2 and the plot of the profile difference map at $D e c = 6 0 1$ arcsec "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "这与 $\\alpha$ 作用在观测数据上有关，随着 $\\alpha$ 增大，观测数据这个约束的权重越大，所以均值会收敛到0，而熵的权重就相对变小，熵本身是一种平滑性约束，熵权重减小，意味着重建结果的振荡剧烈，所以标准差逐渐变大。在 $\\alpha = 0 . 2$ 时，不难发现旁瓣被抑制了，但是无论从图6中 $\\chi ^ { 2 }$ 的收敛曲线，还是从表2中的均值来看，重建结果与真图有整体上的偏离。从图6中 $\\chi ^ { 2 }$ 的变化曲线可以看到，$\\alpha = 0 . 2$ 时 $\\chi ^ { 2 }$ 收敛的值远大于1，从表2中的标准差来看， $\\alpha = 0 . 2$ 时的结果振荡最小，恰恰是熵作为一种平滑性约束的体现。重建结果的剖面残差图如图7，在图7中，除了 $\\alpha = 0 . 2$ 时重建结果与真图有整体的偏移(从表2中对应的均值可以看出)，难以看出重建结果之间较明显的差别，这也说明最大熵重建结果对参数的选择有较好的鲁棒性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "下面再看 MP-CLEAN 方法在 $\\gamma ( 0 < \\gamma < 1 )$ 取不同值时的重建情况，从图8中的 $\\chi ^ { 2 }$ 随迭代的变化曲线可以看到， $\\gamma$ 越大则 MP-CLEAN方法对扩展源的重建速度越慢，图像重建结果中的振荡也变明显;$\\gamma$ 越小则重建结果越平滑，但是重建图像中存在假源的可能性越大，γ越小假源的数目和强度的期望值都会变多和变大， $\\gamma$ 太小（如图8中 $\\gamma = 0 . 1$ ） $\\chi ^ { 2 }$ 难以降下来，只能收敛到大于1的值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重建结果的剖面残差图如图9，可以发现 $\\gamma$ 取不同的值对重建结果有较显著的影响，对比图9与图7不难发现，最大熵方法在 $\\alpha$ 取不同值时，重建结果之间的差别并不太大，而从表2与表3中的标准差对比中可以定量地说明这一点，因此MP-CLEAN方法对影响其重建结果的参数 $\\gamma$ 的敏感程度较高，而最大熵则相对鲁棒性更好。从表3中可以发现 MP-CLEAN 在不同参数取值下均值都接近0，但是方差则呈现中间( $\\gamma$ 取0.5\\~0.7)低，两侧高的总体趋势，这说明MP-CLEAN的参数选择受两方面的约束，一个约束是重建结果中的假源应当数目少而且强度弱，另一个约束是结果的稳定性。前一个约束要求 $\\gamma$ 尽可能地接近1，因为这样重建结果含有假源的可能性才会变小，后一个约束则要求 $\\gamma$ 尽可能接近0，在这两个约束的相互作用下，最后就呈现了表3中的方差中间低、两侧高的现象。采样越多越全， $\\gamma$ 可以选取的范围越大，越有利于MP-CLEAN的重建。如果采样太少， $\\gamma$ 选择的区间就会越小，甚至可能找不到合适的 $\\gamma$ ，此时再使用MP-CLEAN方法进行复杂扩展源的重建可能难以得到好的结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/df2782646ba60f97b9686871bfcc5b764f35e6b6a412aa09117e6f2fd5d31a18.jpg",
+        "img_caption": [
+            "图6不同 $\\alpha$ 取值下 $\\chi ^ { 2 }$ 的自然对数随选代变化的关系曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ee408d8c070837ef8cb83b103426d443275ff689534ffe8e7f1eda772b45e68.jpg",
+        "img_caption": [
+            "Fig.6The natural logarithm of $\\chi ^ { 2 }$ versus the iteration when $\\alpha$ varies ",
+            "Fig.7The profile differences of the MEM reconstruction results within the 8h when $\\alpha$ varies "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ead7776379b570eab1b68d8fc7c5a53f6944dea8b19e762d9d3044348eb7a547.jpg",
+        "img_caption": [
+            "图8不同 $\\gamma$ 取值下 $\\chi ^ { 2 }$ 的自然对数随选代变化的关系曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8b0cb436e48bb8bf76d0d3aec2fc0c4d51def27195cbd37ee0830f563e9fe0c.jpg",
+        "img_caption": [
+            "图7不同 $\\alpha$ 取值下最大熵对 $^ { 8 \\mathrm { ~ h ~ } }$ 观测的重建结果剖面的残差图",
+            "Fig.8The natural logarithm of $\\chi ^ { 2 }$ versus the iteration when $\\gamma$ varies ",
+            "图9不同 $\\gamma$ 取值下MP-CLEAN对 $^ { 8 \\mathrm { { h } } }$ 观测的重建结果剖面的残差图",
+            "Fig.9The profile differences of the MP-CLEAN reconstruction results within the 8h when y varies "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表2最大熵方法在不同 $\\pmb { \\alpha }$ 取值下重建图像的剖面残差的均值及标准差",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f83ca26500865237b12cc5b0765a80071c2ff8daa165c1d6315b3031cd74f3a.jpg",
+        "table_caption": [
+            "Table 2The mean and standard deviationof profile differences using MEM when $\\pmb { \\alpha }$ varies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>α</td><td>Mean/Jy</td><td>g/Jy</td></tr><tr><td>0.2</td><td>11. 1</td><td>16.3</td></tr><tr><td>0.8</td><td>2.37</td><td>17.3</td></tr><tr><td>3.2</td><td>0.17</td><td>18.2</td></tr><tr><td>12.8</td><td>-0.15</td><td>18.8</td></tr><tr><td>51.2</td><td>-0.26</td><td>18.8</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3MP-CLEAN在不同 $\\gamma$ 取值下重建图像的剖面残差的均值及标准差",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7b6b5b179a552b9199155b5b1fdf9f9a5d3693eb7775dd1debd73e7adf71d4f.jpg",
+        "table_caption": [
+            "Table 3The mean and standard deviation of profile differencesusing the MP-CLEAN when $\\gamma$ varies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Mean/Jy</td><td>g/Jy</td></tr><tr><td>0.1</td><td>-0.51</td><td>20.0</td></tr><tr><td>0.3</td><td>-1.25</td><td>21.3</td></tr><tr><td>0.5</td><td>0.19</td><td>16.4</td></tr><tr><td>0.7</td><td>-0.20</td><td>17.4</td></tr><tr><td>0.9</td><td>-0.97</td><td>43.2</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\beta$ 的取值对MP-CLEAN的影响主要体现在速度上，对重建图像效果的影响不大（当然 $\\beta$ 很大时也可能出现一定的不稳定性)，因此 $\\beta$ 对 MP-CLEAN 重建的影响在此不再赘述。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文利用最大熵方法与MP-CLEAN方法对模拟扩展源的可见度数据进行重建，可以发现：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1)最大熵方法有着比MP-CLEAN 更严格的数学迭代形式，MP-CLEAN方法则带有一定的经验性;（2)对于同样的采样数据，MP-CLEAN对扩展源的重建比最大熵方法重建效果好（使得 $\\chi ^ { 2 }$ 收敛到1附近时各参数的取值)，主要体现在旁瓣降得更低，重建图像与真图之间差别更小;（3)MP-CLEAN方法的重建速度比最大熵快，从模拟结果来看，总体上所花时间不到最大熵的三分之一；(4)最大熵方法及MP-CLEAN方法的重建效果与参数的选择有关，最大熵方法对参数的依赖性要小于MP-CLEAN方法，即最大熵方法的鲁棒性优于MP-CLEAN方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总而言之，就本文所用的模拟数据及重建结果而言，综合模拟重建图像的效果及重建的速度，MP-CLEAN比最大熵方法有更佳的重建效果及更快的重建速度。然而，由于MP-CLEAN对可见度数据采样的要求较高，而且需要满足源的旁瓣作用在同一位置的概率较小这种经验性的假设，在采样很差(点扩散函数旁瓣峰值接近主峰峰值时)或者在经验性假设不成立时(例如亮源的某些对称性分布导致旁瓣叠加很严重)，MP-CLEAN方法从原理上已经不能适用，而最大熵方法理论上依旧能够用于重建，这也是最大熵方法的鲁棒性比 MP-CLEAN 好的体现之一。但MP-CLEAN方法在一定程度上挖掘了CLEAN方法在同一尺度上的潜能，可以为完善和改进可见度采样较好的扩展源图像重建方法提供更好、更快捷的途径。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 田海俊，徐洋，陈学雷，等.射电干涉阵GPU相关器的研究初探［J].天文研究与技术 国家天文台台刊，2014，11(3)：209-217. Tian Haijun，Xu Yang，Chen Xuelei,et al. A preliminary study on GPU-based correlators for a radio interferometer array ［J]. Astronomical Research & Technology———Publications of National Astronomical Observatories of China，2014，11(3）：209-217.   \n[2] 徐永华，汪敏，郝龙飞，等．太阳低频射电干涉阵的构建仿真［J].天文研究与技术——国 家天文台台刊，2013，10(3)：242-248. Xu Yonghua，Wang Min，Hao Longfei，et al. Simulations of a low-frequency solar radio interferometry array [J].Astronomical Research & Technology———Publications of National Astronomical Observatories of China，2013，10(3）:242-248.   \n[3] Hogbom JA.Aperture synthesis with a non-regular distribution of interferometer baselines [J]. Astronomy and Astrophysics Supplement，1974，15:417-426.   \n[4] Schwarz U J. Mathematical-statistical description of the iterative beam removing technique （Method CLEAN）[J]. Astronomy and Astrophysics，1978,65:345-356.   \n[5] Cornwell T J. Multiscale CLEAN deconvolution of radio synthesis images [J]. IEEE Journal of Selected Topics in Signal Processing，2008，2(5） : 793-801.   \n[6] Wakker B P，Schwarz U J. The multi-resolution CLEAN and its application to the short-spacing problem in interferometry [J].Astronomy and Astrophysics，1988，200:312-322.   \n[7] Gull S F，Skilling J. Maximum entropy method in image processing [J]. IEE Proceedings F, 1984，131(6) : 646-659.   \n[8] Pantin E, Starck JL. Deconvolution of astronomical images using the multiscale maximum entropy method[J].Astronomy and Astrophysics Supplement，1996，118(3）:575-586.   \n[9] Cornwell T J. A method of stabilizing the clean algorithm [J]. Astronomy and Astrophysics, 1983，121(2):281-285.   \n[10] Clark B G. An effcient implementation of the algorithm‘CLEAN’[J]. Astronomy and Astrophysics, 1980,89(3) : 377-378.   \n[11] Skilling J，Gull S F.Bayesian maximum entropy image reconstruction [J]. Institute of Mathematical Statistics，1991，20:341-367.   \n[12] Cornwell TJ,Evans K F.A simple maximum entropy deconvolution algorithm [J].Astronomy and Astrophysics，1985，143（1）:77-83. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Comparison of the MEM and the MP-CLEAN Methods for the Image Reconstruction of Extended Sources with Simulated Visibility Data ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhang Maolin $^ { 1 , 2 }$ ， Zhou Jianfeng1,2",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.Department of Engineering Physicsand Center for Astrophysics，Tsinghua University，Beijing 1Oo084,China, Email：zhangml13 $@$ mails.tsinghua.edu.cn；2.Key Laboratory of Particle& Radiation Imaging (TsinghuaUniversity）Ministry ofEducation，Beijing1Ooo84，China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：In the radio synthesis imaging area，the deconvolution is used to fill up the un-sampled points at the Fourier domain.The algorithms like CLEAN and MEM often playan important role in the deconvolution. As extended sources have more complex visibility，the reconstruction for extended sourcesis dificult.In this paper we make a comparison of the MEM（Maximum Entropy Method）with the speed up CLEAN method （named Multi-Point CLEAN in this paper，or MP-CLEAN for short）for extended source reconstruction based on the simulated visibility data.The simulated data are produced by sampling the Flourier Frequency domain for a true image with the sample function generated from a simulated interferometer array.By analyzing and comparing,it iseasy to find that both of these two methods work well on the image reconstruction while the MP-CLEAN is better than the MEM for geting ridof the side lobes.The MP-CLEAN is atleast 3 times faster than the MEM in our simulations.A deeper analyzing of the selection of parameters shows that the MEM is more independent on the parameters than the MP-CLEAN，which indicates that the MEM is more robust. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Image reconstruction;；Radio interferometer arry；Multi-Point CLEAN； Maximum Entropy Method;Extended source",
+        "page_idx": 10
+    }
+]

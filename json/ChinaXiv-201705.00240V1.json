@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "A feasible multilayer structure design for solid lubricant coatings in a lunar environment' ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jibin Pu, Siming Ren, Zhibin $\\mathsf { L u } ^ { \\mathsf { b } }$ and Liping Wang\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solid lubricant coatings have received considerable research attention in space applications owing to their remarkably improved tribologicalcharacteristics.But their service life is seriouslyrestricted by the harsh environment,such as high vacuum and abrasive wear.In this paper,a novel design of carbon-based multilayer $( M \\cup \\mathsf { S } _ { 2 } / \\mathsf { D } \\mathsf { L C }$ multilayer) coatings was reported to clarify the friction and wear behavior in high vacuum conditions with and without simulated lunar-dust (SLD). Compared with pure DLC or $M \\circ \\mathsf { S } _ { 2 }$ coatings,the multilayer coating showed excellent tribological performance with a low friction coefficient of 0.02 and a wear rate of ${ \\sim } 6 . 5 \\times 1 0 ^ { - 6 } \\ { \\sf m m } ^ { 3 } \\ { \\sf N } ^ { - 1 } \\ { \\sf m } ^ { - 1 }$ .What is particularly interesting is that the wear volume of $M O S _ { 2 } / D L C$ multilayer coatings with the increase of time is in accordance with the Archard linear law,regardless of the condition with or without SLD.Moreover,the surface morphology and composition of wear tracks and scars reveal that the long life of carbon-based multilayer coatings cannotbe explained solely by excellent mechanical performance,and is also attributed to the formation of ridge layers as third body reservoirs and a tribo-induced composite transfer layer containing SLD nanoparticles and coating materials. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many space-born systems involve relative motion of contacting surfaces,whosereliabilityisseverelylimitedbythedegradation of lubricants and excessive wear from lunar-dust.In NASA's reports,“dust is the number one environmental problem on the moon\",the dust on the lunar surface posed a surprisingly broad array of difficulties in the moon probe program,such as vision obscuration,equipment clogging,radiator performance degradation,seal failure,and abrasive wear,whereas abrasive wear was mainly destruction of solid particles.1,2 Consequently, a specific task has been set up under the exploration program to deal with the effects of lunar dust on surface wear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The tribological properties of solid lubricants such as graphite and the transition metal dichalcogenides (TMDsulfides,selenides or tellurides of tungsten,molybdenum and niobium) are of technological interest for reducing friction in circumstances where liquid lubricants are impractical, such as in space.3-9 Unfortunately,the tribological performance and lifetime of these flexible coatings under high vacuum condition with lunar-dust have greatly limited by the mechanical damage from the angular and sharp particles. Currently,diamond-like carbon (DLC) coatings are often referenced as potential candidates for space application due to their high load bearing capability，good adhesive strength,and excellent tribological properties.10-2o In the pioneering work of Enke et al.,hydrogenated DLC coating sliding against steel could provide much lower friction coefficient of o.oo5-0.o2 in a vacuum or an inert atmosphere (dry $\\mathbf { N } _ { 2 }$ or dry Ar).1 Carpick et al.revealed the passivation mechanism of low friction and wear of ultrananocrystalline diamond and tetrahedral amorphous carbon thin coatings.They suggested that the surface hydrogen or hydroxyl passivation could reduce friction and wear in ambient air by preventing carbon-carbon bonding across the sliding interface.19,20 Moreover, Qi et al. reported the effect of sand on dry sliding wear of a-C:H coating.1² The friction coefficient under the sand-dust condition was relatively lower than that under dry-sliding condition,and the values of the wear rate under sand-dust condition were in the same order of magnitude with that under dry sliding condition without sand.However,in a high vacuum condition，the gradually reduced hydrogen content of the DLC coating during sliding cycle causes the deletion of $\\mathbf { C } { \\mathrm { - } } \\mathbf { H }$ in the friction interface,thus leading to the adhesion and cold welding between the DLC coating and the counterpart.14-17 Fontaine et al.have carried out significant work on diamond-like carbon-based coatings for space tribology. They conclude that a higher hydrogen content may be associated with a higher contribution of the weak van der Waals interactions,whereasalowerhydrogen contentischaracteristic of carbon-based coatings whose friction level is similar to graphite in UHV.21,22 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent investigations on multilayer coatings composed of hard and ductile layers show an increased resistance to severe environmental conditions and an increase of durability in friction tests,which attributes to their moderate residential stress，good adherence and proper hardness to toughness ratio.23-26 However,the tribological performance of the multilayer coating system with third-body abrasive particles in high vacuum has not received enough attention and extensive research.Based on our previous study,²7 we successful fabricated a serious of compositionally and structurally modulated $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings with different bilayer periods by unbalanced magnetron sputtering.A fundamental aspect of this work is to utilize the features of a multilayer design and to identify the relationships between the comprehensive performance and bilayer period.Moreover，we investigated the tribological mechanisms of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coating under high vacuum condition with simulated lunar-dust (SLD). The low friction coefficient and wear rate are found to depend on the formation of ridge layer in wear track and a composite transfer layer on steel ball. The present paper takes the first step of a wide program whose final objective is to apply the carbonbased multilayer coatings on space components. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Deposition and characterization of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A series of $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings with different bilayer periods were deposited on silicon wafers and stainless steel substrates using medium frequency magnetron sputtering. The $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coating coated Si wafer was used for physical characterization，such as SEM,EDX and AFM.And multilayer coating coated stainless steel was used for tribological test.A graphite target (purity $9 9 . 9 9 \\%$ ),onechromiumtarget (purity $9 9 . 9 9 \\%$ ）and one molybdenum-disulfide target (purity $9 9 . 9 \\%$ ）were set in cylindrical vacuum chamber wall as the sputtering source. Prior to the coating deposition， the substrates were first cleaned ultrasonically in acetone and alcohol bath for $2 0 \\mathrm { m i n }$ ,respectively,and then dried in nitrogen followed by plasma etching with $\\mathbf { A \\boldsymbol { r } } ^ { + }$ ions in a vacuumchamber to remove the surface contaminations.Subsequently,the Cr interlayerofapproximately $0 . 2 ~ { \\mu \\mathrm { m } }$ in thickness was deposited on the substrate to improve the adhesion between the multilayer coatings and substrates.Then the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings were prepared byalternative deposition ofDLClayer (graphite target current: $3 . 5 \\mathrm { A }$ ,chromium target current: 0.38 A) and $\\mathbf { M o S } _ { 2 }$ layer $\\mathbf { ( M o S } _ { 2 }$ target current: O.8 A) for bilayer deposition times of $1 5 . 8 \\mathrm { ~ h ~ }$ ， $7 . 6 \\mathrm { ~ h ~ }$ ， $5 . 2 \\mathrm { ~ h ~ }$ ， $3 . 9 \\mathrm { ~ h ~ }$ ,and $0 . 6 \\mathrm { ~ h ~ }$ ,respectively. The as-deposited coatings with bilayer thicknesses of $6 0 0 0 \\ \\mathrm { n m }$ ， ${ 3 1 0 0 } \\mathrm { n m }$ ， $2 0 0 0 \\ \\mathrm { n m }$ ， $1 4 5 0 ~ \\mathrm { n m }$ ,and $2 1 0 \\mathrm { n m }$ are defined as $\\mathbf { M o S } _ { 2 } /$ DLC-2L,4L,6L,8L and 4OL,respectively.And the corresponding numbers of periods are 1, 2,3,4,and 20,respectively. Fig. 1 shows the cross-sectional SEM images and the corresponding AFM surface morphologies of as-deposited $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings.As shown in the cross-sectional images,the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings have a homogeneous and dense microstructure,which is related to the columnar structure of $\\mathbf { M o S } _ { 2 }$ sublayer. The thicknesses of the multilayer coatings are determined to be approximately $6 . 0 ~  { \\mu \\mathrm { m } }$ except the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - 4 0 L }$ coating whose thickness is $4 . 2 ~ { \\mu \\mathrm { m } }$ . The difference in the thickness is attributed to the discrepancy of deposition rates.The SEM and AFM surface morphologies show that the surfaces of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings are uniform and smooth.As shown in the Fig.1f, the coatings are composed of small spheres whose sizes decreased first and increased afterwards with the increase in bilayer period.The mechanical properties of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings,such as hardness and elastic modulus are summarized in Table 1.As shown in Table 1, the hardness and elastic modulus of multilayer coatings increased first and decreased afterwards with the increase in bilayer period.However,when the bilayer period increased to 20 $\\mathrm { \\langle M o S _ { 2 } / D L C ^ { - 4 0 L } }$ coating),the value of hardness and elastic modulus reached to the maximum.The reason for the sharply increasing $H$ and $E$ is the development of a large interfacial dislocation density during the elasto-plastic transition to fully plastic yield.Moreover, the $H / E$ ratio of $\\mathbf { M o S } _ { 2 } /$ DLC-40L is lowest,which indicates the 4OL coating with a low elastic recovery is vulnerable to dent damage from third-body abrasive particles.Fig.S1 in $\\mathrm { E S I } \\dagger$ shows the evolution of friction coefficient as a function of sliding time against steel ball without SLD condition.The friction coefficient of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings decreased first and increased afterward with bilayer period.And the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating obtained the lowest value of 0.02.When the bilayer period increased to 20, the $\\mathrm { M o S _ { 2 } / D L C ^ { - } \\mathrm { 4 0 L } }$ coating only maintains a short lifetime (sliding about $1 8 ~ \\mathrm { m i n }$ ). This phenomenon attributes to the low $H / E$ ratio of 40L coating(Table 1). By comparing the mechanical performance and the tribological behaviors of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings under vacuum condition indicate that the optimum bilayer period is 2 $\\mathrm { ( M o S _ { 2 } / D L C  – 4 L }$ coating). Consequently,we will focus on the tribological behavior and wear mechanism of the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating under high vacuum conditions with and without SLD. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Friction and wear test ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The friction and wear properties of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings were examined by dry sliding under vacuum conditions with and without SLD.The artificial synthetic lunar-dust used as theabrasive particles were fabricated by the Institute of Aerospace 5O1 (Beijing, China).The tests were performed ona ball-ondisk configuration,where a steel ball of $4 \\ \\mathrm { m m }$ diameter with hardness of ${ 7 1 0 \\mathrm { H V } }$ wasloaded and rubbedagainstamultilayer coating.The loads of 3,5,7,and $1 0 \\mathrm { ~ N ~ }$ were applied through astationary loading system，and the corresponding initial maximum Hertzian contact pressure were about 0.95,1.12,1.25, and $1 . 4 2 \\mathrm { \\ G P a }$ .The rotate radius was $6 ~ \\mathrm { m m }$ at 180 rotations per minute (rpm),which provided a velocity of $0 . 1 1 3 \\mathrm { ~ m ~ s ~ } ^ { - 1 }$ . Prior to the friction tests,acylinder $\\langle \\mathcal { D } 1 0 \\mathrm { c m } \\times 1 0 \\mathrm { c m } \\rangle$ cans as the lunardust reservoir was placed in the vacuumchamber.The specimen was placed at the bottom of cans.The SLD particles were fully homogenized on the surface of selected lubricant coating,and the counterpart steel ball preloaded on the SLD and the specimen holder remained still prior to the test.The specific amount of SLD particles are $2 6 . 7 \\pm 0 . 5 ~ \\mathrm { m g } ~ \\mathrm { c m } ^ { - 2 }$ . Subsequently,the lid of cans with some venthole and asbestos wire gauze was screwed on the top of cans.In the process of friction tests,the specimen was held stationary and the steel ball holder was rotating with velocity relative to the stationary contact area. The friction coefficient is continuously recorded during testing.The microphotographs of SLD with different magnification in Fig.2 show the typical irregular shapes,including‘uniquely shaped',‘fine grainangular fragments'，and ‘rodlike with bulbous ends'.The chemical compositions of SLD are shown in Table 2.In general, the shapes and compositions of SLD particles are similar to the real lunardust.All the friction tests were performed at room temperature and the vacuum chamber pressure less than $1 . 0 \\times 1 0 ^ { - 3 } \\mathrm { P a }$ . After friction test,the surface profile of wear tracks was measured using a surface profiler(D-1oo,KLA,Tencor).The wear volume of eachwear trackwasderived from three to fivemeasurements to calculate the average value.The wear rates of the coatingswere calculated from their wear volumes using the following equation: ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/42989c6c65aad21e9d1e6bdacd3f56dee7c12ebbb58943ba970731b7ccc50415.jpg",
+        "img_caption": [
+            "Fig.1rossalesifacassepsieda)b))(d coatings; (f) AFM surface morphologies of as-deposited multilayer coatings. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a927e6488e7832ea163a9c2f7b51ac15477e5ea166604815d1d05cb4ecb4165.jpg",
+        "table_caption": [
+            "Table1 Composition and mechanical properties of the $M O S _ { 2 } / D L C$ multilayer coatings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Coating</td><td>Thickness (um)</td><td>Roughness (nm)</td><td>Composition (at%)</td><td>Hardness and modulus (GPa)</td><td>H/E</td></tr><tr><td>2L</td><td>6.0</td><td>Ra = 3.36,Rq=4.20</td><td>41.29 at% Mo,57.71 at% S</td><td>H: 6.9, E: 82.4</td><td>0.084</td></tr><tr><td>4L</td><td>6.2</td><td>Ra = 2.70,Rq = 3.38</td><td>41.16 at% Mo,58.84 at% S</td><td>H: 8.5,E: 107.6</td><td>0.079</td></tr><tr><td>6L</td><td>5.9</td><td>Ra= 3.08,Rq= 3.83</td><td>41.00 at% Mo,59.00 at% S</td><td>H: 6.8,E: 78.8</td><td>0.086</td></tr><tr><td>8L</td><td>5.8</td><td>Ra = 3.18, Rq = 3.98</td><td>32.60 at% Mo,67.40 at% S</td><td>H: 6.2, E: 81.8</td><td>0.075</td></tr><tr><td>40L</td><td>4.2</td><td>Ra = 3.08, Rq = 3.86</td><td>12.80 at% Mo,21.18 at% S,</td><td>H: 10.3,E: 150.7</td><td>0.068</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ebdc3ffcf5cdaff3ec58b3e637a4bfbd48d684dc76e5c1a49097263be8cf6f4.jpg",
+        "img_caption": [
+            "Fig.2SEMphotomicrographsof theSLDparticles.(a)56magnification,(b)188magnification,(c)2000 magnification "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = V / S F\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $V$ is the wear volume in stere, $s$ is the total sliding distanceinmeter,and $F$ is the normal load in Newtons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3. Generalcharacterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nanohardness $\\mathit { \\Omega } \\left( H \\right)$ and Young's modulus $( E )$ of the coatings weremeasuredusinga NanoindenterI microprobe withadiamond Berkovich (three-sided pyramid) indenter tip and the indentation depth was about $1 0 \\%$ of the coating thickness to minimize the substrate contribution.The internal stress of the coatings was checked by measuring the substrate bending using a proflometer and the Stoney's equation.Wear tracks of the coatings and counterpart steel balls were examined using JEM-560oLV scanning electron microscopes (SEM; JEOL, Japan),energy dispersive X-ray analysis (EDX),Raman spectroscopy,and X-ray photoelectron spectroscopy (XPS).After the friction and wear measurements, the surface chemical composition were determined using scanning electron microscopyenergy dispersive X-ray spectroscopy (SEM-EDS) (Oxford IE250 Energy Dispersive Spectrometer,EDS) under $2 0 \\mathrm { k V }$ accelerating voltagewith $1 0 \\ \\mathrm { n A }$ beam current.The chemical states of the elements were analyzed by a PHI-5702 multifunctional X-ray photoelectron spectroscope (XPS) made by American Institute of Physics Electronics Company using K-Alpha irradiation as the excitation source.The binding energies of the target elements were determined at a pass energy of $2 9 . 3 \\ \\mathrm { \\ e V }$ ，with a resolution of about $\\pm 0 . 3 \\ \\mathrm { \\ e V }$ ，using the binding energy of contaminated carbon (C 1s:284.8 eV) as the reference.The structural characteristics of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings before and after friction test were measured using Raman spectroscopy equipped with a $5 3 2 \\mathrm { n m }$ argon ion laser from100 to $2 0 0 0 ~ \\mathrm { c m } ^ { - 1 }$ .The wear debris was observed by FEI Tecnai $\\mathbf { F } 3 0 0$ high-resolution transmission electron microscope (HRTEM) with an accelerating voltage of $3 0 0 ~ \\mathrm { k V } .$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9cff5bb9baae1c51893eb0ba88d37903561dee1bc22f3255ec14a2de6cce764e.jpg",
+        "table_caption": [
+            "Table 2 Chemical composition of the simulant lunar-dust "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Elements</td><td>0</td><td>Si</td><td>Al</td><td>Fe</td><td>Ca</td><td>Mg</td><td>Na</td><td>K</td><td>Ti</td></tr><tr><td>Composition (at%)</td><td>71.17</td><td>12.06</td><td>5.52</td><td>3.00</td><td>2.27</td><td>2.09</td><td>2.64</td><td>0.79</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Effect of load on the friction behaviorof $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coating ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the evolution of friction coefficient as a function of sliding time for the MoS /DLC-4L coating against steel ball under vacuum conditions with and without SLD;and for the lubricated conditions without SLD (Fig.3a), the variation trend in the friction coefficient over applied loads is not pronounced. However,for the condition with SLD,the friction coefficient fluctuated under $3 \\mathrm { ~ N ~ }$ and $1 0 \\mathrm { ~ N ~ }$ whereas maintained a steady valueunder $5 \\mathrm { ~ N ~ }$ and $^ { 7 \\mathrm { ~ N ~ } }$ Underalight load of $3 \\mathrm { ~ N ~ }$ ,some ofthe SLD particles on the contact surface are not broken down and mainly exist in the contact area by a cutting mechanism; the variation and fluctuation of friction spikes for the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating are associated with periodic loss of transfer layer due to the mechanical damage from sharp particles.With the increase in the applied load,the SLD particles could be crushed down and formed amounts of particles at small size to roll freely on the contact region.Moreover,the extremely small particles combining with coating material transferred to the steel ball to form a transfer layer,which was effective to reduce the friction coefficient.As a result, the friction coefficient stabilized gradually at a constant value.When the load wasup to the maximum value of $1 0 \\mathrm { ~ N ~ }$ ，the friction coefficient fluctuated remarkably ranging from O.02 to O.5o.This behavioris due to the fact that some abrasive particles of milled SLD embedded into the counterpart surface under heavy load and thus the transfer layer is difficult to form.Finally, the selected coating was completely removed after the periodic deformation and fatigue of $4 0 ~ \\mathrm { m i n }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/07bcdb06fe90adc64efe6bfa382246acbfc2c7d3259ba28e1dbd101fef60ce68.jpg",
+        "img_caption": [
+            "Fig.3Variation in friction coefficient of the $M \\circ \\mathsf { S } _ { 2 } .$ /DLC-4L coating sliding against steel ball asa function of the sliding time under high vacuum conditionswithout (a)andwith (b) SLD "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the SEM images of wear tracks for the $\\mathbf { M o S } _ { 2 } /$ DLC-4L coating and the counterpart steel balls under different applied loads in a high vacuum environment without SLD.The sizes of wear tracks increase with in the applied loads.As shown in Fig.4a-c,the asperities of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coating were flattened in the sliding direction by plastic deformation, revealing a smooth and burnished appearance.The elliptical wear scar on the counterpart steel ball were covered by continuous and compact transfer layer formed from the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }  – 4 \\mathbf { L }$ coating (Fig.4d-f). Furthermore, the thickness of transfer layer increases with the increasing applied load,which can explain why the wearrates of the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating underdifferent applied loads are in the same order of magnitude as shown in Fig. S2 in ESI $\\dagger$ It can be concluded that the applied load has a slightly effect on the tribological behavior of the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating under vacuum condition without SLD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9fcf066673ecbd85629375592661debf5d7259d807fb5b3248a2dfc6ceee65f.jpg",
+        "img_caption": [
+            "Fig.4SEMimagsofartracksfortheS/D-4Lcoatingandwearsarsofcorespodingcounterpartsteelbllsunderdiferenaplied loads in a high vacuum environment without SLD.(a,d)3 N; (b,e) 7 N; (c,f) 10 N. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Typical SEM photographs of the wear tracks for the $\\mathbf { M o S } _ { 2 } /$ DLC-4L coating under different applied loads in a high vacuum environmentwith SLD are shown in Fig.5.Compared with the condition without SLD (Fig.4),the addition of SLD abrasives resulted in the increase in wear to a large extent.The wear tracks are deep and have sharp edges that correlate well with the angular shape of SLD particles.This suggests that the grooves are formed by SLD abrasive particles and not by asperities on the surface of the counterpart steel ball.As shown in Fig. 5a-c, the wear trackunder light load of $3 \\mathrm { N }$ was wider than that under intermediate load (5 Nand 7 N),and the edge of wear track did not peel off evenly.It is important to note that most of the SLD particles do not enter into the contact area under light load but flowround the sides of wear track,and onlya few particles are seen in the centre of contact area (Fig. 5e). This phenomenon has been reported previously.28,29 For the applied loads of $5 \\mathrm { ~ N ~ }$ and $^ { 7 \\mathrm { ~ N ~ } }$ ,thedelamination and plastic deformation of the wear trackare observed obviously inFig.5b andc.Inaddition,it is observed from the high magnified imagesin Fig. 5f and g that a large number of small SLD abrasive particles exist in the contact surface,and these micro-/nanoparticles can roll freely to reduce friction (Fig.3b).However,when the loadisup to the maximum value of $1 0 \\mathrm { ~ N ~ }$ (Fig.5d and h),the load per SLD particle will increase,and thus the stress concentration in the contact region leads to the coating failure due to the severe fatigue wear occurred locally.In terms of the Rabinowicz's derivation of eqn (2),o the increase in load has caused the particles to embed more deeply and cutting may become more significant,which lead to a large increase in wear rate.31 This coincides with a change in wear mechanism froma three-body rolling process at the light load to a two-body cutting-type process at the heavy load. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = k S N\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the wear coefficient with units $\\mathbf { m } ^ { 3 } \\left( \\mathbf { N } \\mathbf { m } \\right) ^ { - 1 }$ ， $s$ can be related to the total distance of sliding, $N$ is the normal load on the contact, $V$ is the wear volume. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The 3D morphologies of the wear track for the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }  – 4 \\mathbf { L }$ coating under the applied load of $^ { 7 \\mathrm { ~ N ~ } }$ in a high vacuum environment with and without SLD are shown in Fig.6.The 3D morphologies provided the convincing evidences of distinct wear depth and surface characteristics under two lubricated conditions.The wear track was very smooth and shallow under the condition without SLD (Fig. 6a) whereas rough and deep under the condition of SLD (Fig. 6b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2．Tribological behaviors of the monolayer and multilayer coatings with SLD ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the above results,the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } { \\cdot } 4 \\mathbf { L }$ coating presents excellent tribological performance under intermediate load with SLD.Fig.7 shows the comparison of tribological properties of pure $\\mathbf { M o S } _ { 2 }$ ,DLCand the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { \\cdot } 4 \\mathrm { L }$ coatings under the applied load of $^ { 7 \\mathrm { N } }$ in a high vacuum environment with SLD.In previous reports,1,3² pure $\\mathbf { M o S } _ { 2 }$ coating under vacuum condition without SLD exhibitsexcellent tribological performance, whereas the coating only maintains a short lifetime (about 500 cycles) when the SLD are introduced in the contact area.The main reason is that the soft coating is easy to shear off from the substrate due to the mechanical damage by the angular SLD particles. The poor friction behavior of DLC coating can be attributed to the high adhesive effect in vacuum.In contrast, the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coating maintains a steady friction coefficient of 0.02 and a longer wear life under high vacuum condition with SLD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee1950de511a5df1215904575782563c355d81e433eba9f792eb5c49a2a85d3e.jpg",
+        "img_caption": [
+            "Fig.5SEimagartracsdditapldldsieontit.(d57N;(i enlargeddetail of wear tracks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/21d3b057d2609c8c58298c4a4c11794d4b6f0b2509735c6da75c75a916f4654e.jpg",
+        "img_caption": [
+            "Fig.63D images of wear track under the applied load of7N ina high vacuum environment (a) without and (b) with SLD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3. Mechanism of anti-wear and friction-reducing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to further understand the tribological behavior and wear mechanism of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coating with SLD, the effect of the sliding distance on the wear volume for the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } { \\cdot } 4 \\mathrm { L }$ coating against steel ball was examined.The test time was set for1,3,5,10,30,and $6 0 \\mathrm { m i n }$ corresponding to the 180,540,900,1800,5400,and 10 800 sliding cycles,respectively. The variation in wear rate of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } { \\cdot } 4 \\mathrm { L }$ coating is plotted in Fig.8,as a function of sliding time under the applied load of 7 N in high vacuum conditions (a) without and (b) with SLD.As shown in Fig.8,in both cases,the initial material loss was significantly higher than the steady-state wear,and the wear rates decreased with the increase of sliding cycle by a power law function.This isa common observation. But the wear mechanism for two casesis totally different.For the condition without SLD,because the surface asperity of counterpart steel ball scratched the coating surface at running-in stage,the transfer layer wasnot yet form,and resulted in the high wearratio at initial stage.With increasing sliding cycle，the wear ratio decreased.This was because the counterpart steel ball was polished，and the coating material transferred to contact surface to form gradually a transfer layer.When a compact, dense and continuous tribofilm formed on the counterpart surface,the friction reached the stable wear stage.As showed in Fig.8a,the wear rates of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coating decreased from $6 . 9 \\times 1 0 ^ { - 5 } \\mathrm { { m m } ^ { 3 } \\mathrm { { N } ^ { - 1 } \\mathrm { { m } ^ { - 1 } } } }$ at 180 cycles to $1 . 6 \\times 1 0 ^ { - 6 } \\mathrm { m m } ^ { 3 }$ $\\mathbf { N } ^ { - 1 } \\mathrm { m } ^ { - 1 }$ at $1 0 ~ 8 0 0$ cycles.In comparison, the wear ratio with SLDis higher slightly than that without,which indicated the SLD dominated the wear.At the initial sliding stage,the angular SLD particles with high hardness penetrated into the coating surface with soft $\\mathbf { M o S } _ { 2 }$ top-layer，and scratched the coating surface to form microploughing，microcutting and pitting morphologies.This resulted in high wear ratio.With increasing sliding cycle, the sliding performed on exposed DLC sublayer with high hardness and compact structure.The SLD particles were milled to form small size of micro-/nanoparticles with smooth surface.Amounts of milled SLD wrapped by $\\mathbf { M o S } _ { 2 }$ could roll freely in groove of the contact region to decrease the wear ratio.As showed in Fig.8b,the wear rates of the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating decreased from $7 . 0 \\ \\times \\ 1 0 ^ { - 5 } \\ \\mathrm { m m } ^ { 3 } \\ \\mathrm { N } ^ { - 1 } \\ \\mathrm { m } ^ { - 1 }$ at 180 cycles to $6 . 5 \\times 1 0 ^ { - 6 } \\mathrm { \\ m m } ^ { 3 } \\mathrm { \\ N } ^ { - 1 } \\mathrm { \\ m } ^ { - 1 }$ at 10 800 cycles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c9fc39b486afc6f4da12c13055a1579fdf4847656f62a8663ccfe1c3819a9b8.jpg",
+        "img_caption": [
+            "Fig.7Friction curves of pure $M \\circ \\mathsf { S } _ { 2 }$ DLCand $M O S _ { 2 } / D L C - 4 L$ coatings under the applied load of $7 N$ in a high vacuum environment with SLD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e4327000b70fca6fb0bc3d95cc4ad2fe9df8d6a1683788a3509675a5903087a.jpg",
+        "img_caption": [
+            "Fig.8The wear rates (main drawing) and wear volume (inset)as a function of sliding cycle for the $M O S _ { 2 } / D L C - 4 L$ coating under the applied load of $7 N$ in high vacuum conditions (a) without and (b) with SLD.The inset is fitted the wear volume as a linear function of sliding cycle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the results of wearrate,we fitted the wear volume asalinear function.The relationship betweenwear volume and friction time can be illustrated as the inset of Fig.8a and b. It was found that the total wear volume was directly proportional to the sliding cycle,which could be expressed using the Archard's law mostly used in dry friction and abrasive wear conditions,29,33 i.e. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = K { \\frac { L N } { H } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $Q$ is volume worn loss, $L$ is total sliding distance, $N$ is the applied load, $K$ is the wear coefficient and $H$ is the hardness of the softer of the materialsin contact.The wear volume increases linearly with sliding time.Moreover, the slopes of wear volume/ timeat initial stage are higher than the stable stage regardless of frictional conditions.For the dry sliding tests,the high slope at running-in process is probably due to mechanical interlocking generated by the surface asperity of two mating bodies. When the SLD is introduced in the contact, the higher slope at initial stage is mainly attributed to the mechanical scraping from the sharp particles.With the increase of sliding cycle,the particles can be broken and milled into the fine particles to roll, thus resulting in the stable friction coefficient and lower slope than initial stage.This confirms that a transition between the two mechanisms (two-body cutting to three-body rolling) will occurs at the region from initial to stable stage.More interestingly,the slopes for SLD condition are higher than the dry condition under the same stage.We claim that the high value of slopeis causedby the abrasive effect of three-bodyparticles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 shows the photomicrographs of the wear tracks of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coating after 180,900,1800,and10 800 sliding cycles against steel balls under the applied load of $^ { 7 \\mathrm { ~ N ~ } }$ in high vacuum environment with SLD.To get a better look at the abrasive coating surface，the tested samples were cleaned ultrasonically in ethanol bath to remove the cohesive particles. AsshowninFig.9a,thewearsurfacewasrelativelyshallowafter 180 cycles,indicating that $\\mathbf { M o S } _ { 2 }$ top layer was still present. Moreover, the wear track showed several microgrooves due to the cutting effect of the angular SLD particles.However, the partial region of the wear track revealeda rougher surface after 900 cycles (Fig.9b),which was attributed to the delamination of $\\mathbf { M o S } _ { 2 }$ top layer.When sliding cycle increased to the 18oo cycles (Fig.9c),wear process mainly occurred on the DLC sublayer. The central region of the wear track was dominated by indentation/plastic deformation characteristics,which perhaps suggested that the wear mechanisms of DLC layer was a mixed mechanism involving grooving and rolling abrasive wear during the sliding cycle.When the sliding cycle was up to the 10 800 cycles,the wear track revealed severe plastic deformation and some“ridge”layer.In particular,such ridge formation at the centre of the wear track was richer than that at the edge region, which was consistent with the results of the 3D profile of wear track (Fig.6b).Thisridge layer actingas third body reservoirs can achieve long life and low friction to protect worn spots in sliding contact.Meanwhile, the SLD particles could roll freely between the ridge layer and the steel ball surface to reduce friction and wear.Therefore,the wear rate decreases bya powerlaw function with the sliding cycle (Fig.8),and the three-body rolling wear is the dominating wear mechanism under the applied load of $^ { 7 \\mathrm { ~ N ~ } }$ ，suggesting a lower slope of wear volume/ time line at initial stage than stable stage. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The energy dispersive X-ray (EDX) elemental distribution mapsofwear track for the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coatingafter180,1800, and $1 0 ~ 8 0 0$ sliding cycles against steel balls under the applied load of $^ { 7 \\mathrm { N } }$ in high vacuum environment with SLD are shown in Fig.10.The brighter area means a higher concentration of the detected ion.Results indicate that the wear trackisrich in some SLD elements (such as O,Si,and Fe) and coating elements, regardless of the sliding cycle.As indicated by the Mo,S,C,and Cr mapping images in Fig.10, the concentration of Mo and S elements decreased gradually while that of C and Cr elements increased with increasing sliding cycle.As shown in Fig.10a, the $\\mathbf { M o S } _ { 2 }$ top layer did not peel off at the initial friction stage. When the sliding cycle rose to 10 80o (Fig.10c), the Mo and S elements were only presented at the central region of wear track. We suggested that the Mo and S elements were derived from the top layer based on the 3D morphologies of wear track (Fig.6) and the thickness value of the coating (Fig. 1). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab4eea45f6e4319c4449c30b63c41de0110d6bde35758eb5e208bf5bb8005362.jpg",
+        "img_caption": [
+            "Fig.9The photomicrographs of the wear surfaces of the MoSz/DLC4L coating under the applied load of 7 N in high vacuum environment with SLD.(a)180 cycles,(b) 900 cycles,(c) 1800 cycles,(d) 10 800 cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/746f24ffa7a11a0d741d10ee6fd0f90960f2cfc7642d603487db926018d3b706.jpg",
+        "img_caption": [
+            "Fig.10Elemental distribution maps of wear track of the $M O S _ { 2 } / D L C - 4 L$ coating under the applied load of $7 N$ in high vacuum environment with SLD.(a) 180 cycles,(b) 1800 cycles,(c) 10 800 cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Raman spectra provide an insight into the structure of the wear track for the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }  – 4 \\mathbf { L }$ coating and steel balls. Results showed that two well-defined bands at 383 $\\left( \\mathbf { E } _ { 2 \\mathrm { g } } \\right)$ and 408 $\\mathrm { { ( A _ { 1 g } ) \\ c m ^ { - 1 } } }$ were assigned to $\\mathbf { M o S } _ { 2 }$ single crystal in all test conditions (Fig.11).34,35 In addition, the broadening peak at the approximate 285 and $6 0 0 ~ \\mathrm { { c m } ^ { - 1 } }$ could be related to the presence of $\\mathbf { M o O } _ { 3 }$ because the $\\mathbf { M o S } _ { 2 }$ phase was easily oxidized into the $\\mathbf { M o O } _ { 3 }$ in air after friction test.However,much stronger $\\mathbf { M o O } _ { 3 }$ modes at ${ \\sim } 6 6 6$ ,850 and $9 9 5 ~ \\mathrm { c m } ^ { - 1 }$ were not observed.36 The line shapes of Raman spectra acquired from wear tracks and scars after18o,540,and 9oo sliding cycles were similar to each other and to that of the as-deposited coating,i.e.it only showed the sharp TMD peaks,and the C peak $[ 1 0 0 0 - 1 7 0 0 ~ \\mathrm { c m } ^ { - 1 } ]$ wasnot observed.When the sliding cycle was up to 18oo,the intensity of the $\\mathbf { M o S } _ { 2 }$ peak decreased whereas that of C peak increased with the increasing sliding cycle (Fig.11).As seen from the inset in Fig.11a，when the sliding cycle rose to 5400, $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ ratio increased,and the G band peak shifted to higher Raman frequency.This could be attributed to the graphitization process of the coating during the wear process,leading to the phase transition from $\\displaystyle \\mathbf { s p } ^ { 3 }$ to $\\displaystyle \\mathbf { s p } ^ { 2 }$ 13,37 Also,the inset in Fig.11b showed D-band at $1 4 1 2 ~ \\mathrm { c m } ^ { - 1 }$ and G-band at $1 5 8 2 ~ \\mathrm { c m } ^ { - 1 }$ for carbon after18oo sliding cycles.It was indicated that the friction process occurred in the DLC layer (second layer) and formed a carbon transfer layer on the contact surface of steel ball.Moreover， the intensity ratio between C and $\\mathbf { M o S } _ { 2 }$ increased with the increasing sliding cycle,suggesting that the transfer layer mainly consisted of the disordered graphitic carbon and less order $\\mathbf { M o S } _ { 2 }$ after 10 800 cycles.With both species found in the spectrum after sliding,the friction was likely controlled by both species acting synergistically. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2842b678641937399d16e191fd85c0c384c30baeb8caeea0ba4ed870fb83495.jpg",
+        "img_caption": [
+            "Fig.11Raman spectra acquired from different sliding cycles of the wear tracks for the (a) $M O S _ { 2 } / D L C - 4 L$ coating and (b) steel ball under the applied load of 7 N in high vacuum environment with SLD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The chemical states of the transfer layer tested at different sliding cycles are characterized by XPS spectra.As shown in Fig.12a,the results indicated the existence of molybdenum, sulphur,carbon,oxygen,silicon,iron,and calcium.It is clear that molybdenum,sulphur and carbon are from the coating material. Oxygen, silicon,and calcium derive from the SLD.As for oxygen element,the as-deposited $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }  – 4 \\mathbf { L }$ coating is mainly derived from the absorbed oxygen of coating. However, when the coating is tested on the SLD environment, the position of O 1s is shifted to lower binding energy.This indicates that the oxide of transfer layer is mainly from the SLD particles and the effect of mating material.As for iron element,a large amount of iron comes from the steel ball while small amount comes from the particles.Moreover,except for the Mo and S peaks,the peak shapes of other elements are very similar regardless of the sliding cycle,indicating that the SLD has small chemical changes.In order to further analyse the chemical states,the C 1s, S 2p and Mo 3d spectra of the coating as well as the O 1s, Si 2p,Fe 2p,and $\\mathrm { C a } 2 \\mathrm { p }$ spectra of the SLD are fitted by GuassianLorentian function.The C 1s spectra can be fitted into five distinct carbon species:C-C species at $2 8 5 . 4 \\ : \\mathrm { e V }$ $\\scriptstyle \\mathbf { C } = \\mathbf { C }$ species at 284.6 eV，C-O-C species at $2 8 6 . 4 \\ \\mathrm { ~ e V }$ ，and $\\scriptstyle \\mathbf { C } = \\mathbf { O }$ species at 288.5 eV.According to literature reports,in case of the friction conditions with SLD,the C 1s peaks show contribution from carbon bonded to silicon (C-Si) at $2 8 4 . 1 \\ \\mathrm { e V }$ ,whichisinagreement with the Si 2p spectra.38 The broad peaks of $\\mathrm { s i } 2 \\mathrm { p }$ around 102.1 and $1 0 2 . 8 \\mathrm { e V }$ are correspond to SiC and $\\mathrm { S i O } _ { x } .$ ,respectively. This suggests that a containing SiC composite transfer layer forms on steel ball from the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating and SLD. The O 1s peak at $5 3 2 . 0 \\ \\mathrm { \\ e V }$ is mainly attributed to the absorbed oxygen on the coating surface or the oxide of the introduced SLD.Fig.12b and c show the deconvoluted Mo 3d and S 2p XPS spectra.Mo 3d spectra are fitted into four components,representing the $\\mathbf { M o S } _ { 2 }$ (228.9 and $2 3 2 . 2 \\ \\mathrm { e V } ]$ and $\\mathbf { M o O } _ { x }$ (228.1 and 231.6 eV),respectively.After180 and 9oo sliding cycles,a small shoulder at approximately $2 2 6 . 0 \\ : \\mathrm { e V }$ assigning to S 2s appears in Mo 3d spectra.9-41 Moreover, the fitted results and peak shapes of Mo and S elements are very similar to the as-deposited coating，which indicates that the structure of the transfer layer does not change obviously.The reason is that the transfer layer is mainly composed of $\\mathbf { M o S } _ { 2 }$ from the mechanical abrasion and the SLD particles.With the increase in sliding cycle, the Mo-C bond is also observed at 227.8 and $2 3 1 . 0 \\ \\mathrm { e V } , ^ { 3 9 }$ due to theincreases chemical action of friction interface.It indicates that the $\\mathbf { M o S } _ { 2 }$ transferring to the steel ball can passivate the friction-induced carbon dangling bonds to some extent, which can prevent the adhesion and cold welding between the DLC layerand the counterpart under high vacuum.Thus,the solid compact wear debris layer on the top of wear scars after sliding 10 800 cycles is mainly dominated by $\\mathbf { M o S } _ { 2 } / \\mathbf { M o - C }$ structure under the repeated action of compression. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the fitting results of XPS spectra,the friction behavior and the wear mechanism of the selected multilayer coating under vacuum condition with SLD can be further explained.In the initial sliding stage of 18o and 9oo cycles,the SLD particles could become trapped between the sliding surfaces and scratched the coating surface to form microploughing,microcutting and pitting morphologies due to the relative low hardness of top layer (Fig.9), thereby increasing the wear rate (Fig.8).At the same time,the SLD particles started to penetrate into the contact surface of steel ball and mixed with some coating debris to forma composite transfer layerat initial friction stage.With the increasing sliding cycle,the formed hard molybdenum carbide phase in the composite transfer layer found by XPS which could improve the anti-wear performance of the coating due to decreasing contact area to shear. Furthermore,the SLD was polished to the flat facets and formed impact nanoparticles stack at the stable stage,which further decreased the contact stress between SLD and coating and the wear rate of coating. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.13 shows the major chemical composition of the composite transfer layer as a function of the sliding cycle. Results showed that the Mo and S elements of coating decreased first and increased afterward with the increase in sliding cycle.However, the carbon element from the hard layer (DLC) had an opposite tendency that the composition increased first and decreased afterward with the increasing cycle.Interestingly,the Si,Al elements from the SLD enriched on the contact surface and their contents increased monotonically with the increasing sliding cycle.Therefore,it is demonstrated that the formed transfer layer is a composite transfer layer consisted of SLD particlesand weardebrisof the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating.This composite transfer layer acts as a protective layer to depress the wear of the steel ball and coating.4² Inset in ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/950b6d0ffbd6ef25685a9640fdbf2dc3f96c847544f420750a4981f9430e70f3.jpg",
+        "img_caption": [
+            "Fig.12 (a) XPS spectra of Mo 3d,S 2p,C 1s,O 1s, $\\mathsf { S i } 2 \\mathsf { p }$ ,Fe 2p,and Ca 2p obtained from the transfer layer on the steelballs for different sliding cycles under the applied load of $7 N$ in high vacuum environment with SLD (the green line obtained from the as-deposited $M O S _ { 2 } / D L C - 4 L$ coating):(b) deconvoluted Mo 3d XPS spectra; (c) deconvoluted S2p XPS spectra. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.13 shows the evolution of the $\\mathbf { S } / \\mathbf { M } \\mathbf { o }$ ratio as a function of the sliding cycle.The $\\mathbf { S } / \\mathbf { M } \\mathbf { o }$ ratio increased dramatically in the initial stage and then increased gradually with the increasing sliding cycle. It is anticipated that friction-inducedreorientation of basal planes occurs at the beginning of sliding. The relative low $\\mathbf { { S } / \\mathbf { { M o } } }$ ratio of as-deposited coating is due to the S can be easier to sputter out of the surface than Mo during deposition of the coating.With the increase in sliding cycle, the $\\mathbf { S } / \\mathbf { M } \\mathbf { o }$ ratioof the transferlayer increasesandis muchcloser to stoichiometric $\\mathbf { M o S } _ { 2 }$ ．Considering the theory proposed by ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b63b80be2a787944d3b659549e751adff45158198be72c735027499b043bbcaa.jpg",
+        "img_caption": [
+            "Fig.13The variation of chemical composition (main drawing) and ${ \\mathsf S } /$ Moratio (inset) of the composite transfer layer as a function of the sliding cycle for the $M O S _ { 2 } / D L C - 4 L$ coating under the applied load of 7 N in high vacuum environment with SLD. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hirano andMartin,the stoichiometric $\\mathbf { M o S } _ { 2 }$ is more advanta geous to reduce friction coefficient in vacuum.43.44 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The wear mechanism to describe the wear process as the generation and removal of wear debris from the contact surfaces was proposed.36 Fig.14a shows the transmission electron microscopy (TEM) image of the wear debris from the test conducted at $^ { 7 \\mathrm { ~ N ~ } }$ for the $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { \\cdot } 4 \\mathrm { L }$ coating under high vacuum condition with SLD after 10 8oo cycles.According to the corresponding EDX(Fig.14b), the debris is mainly made of the elements in SLDand $\\mathbf { M o S } _ { 2 }$ ,which is consistent with that of the formed composite transfer layer (confirmed by XPS in Fig.12). The origin of carbon detected is not well defined: it can either come from TEM grids or from the coating materials.Frictioninduced reorientation of the $\\mathbf { M o S } _ { 2 }$ basal planes in the contact interface is clearly demonstrated by high resolution TEM studies.As shown in Fig.14c,the periphery of the wear debris aggregates some $\\mathbf { M o S } _ { 2 }$ crystals whose most visible feature is the stacking of the (ooo2) planes with $d _ { 0 0 0 2 } = 6 . 5 \\stackrel { \\circ } { \\mathrm { A } }$ ,which can be confirmed by Fig.14d. The superimposed $\\mathbf { M o S } _ { 2 }$ crystals with a rotation angle are liberated in the contact area,and finally an efficient orientation of these crystals into the ideal anglewith the easy shear planes parallels to the sliding direction，as already reported in the literature.44-46 Moreover, the central region of wear debris presents a polycrystalline structure (Fig.14e) with the corresponding diffraction pattern of the SLD particles (Fig.14f).Therefore,the SLD particles are broken under contact pressure and wrapped by $\\mathbf { M o S } _ { 2 }$ with lamellar structure because of the shear stress.An efficient composite layer containing hybrid nanocrystals (SLD nanoparticles and $\\mathbf { M o S } _ { 2 } ^ { \\cdot }$ ）iseventually formed in the contact interface,which favours low friction and long lifetime of the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }  – 4 \\mathbf { L }$ coating.This result brings a lot of possibilities for the use of the $\\mathbf { M o S } _ { 2 }$ /DLC multilayer coating in reality space environment. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We fabricated a series of $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C }$ multilayer coatings with different bilayer periods by unbalanced magnetron sputtering. The $\\mathrm { M o S } _ { 2 } / \\mathrm { D L C } { - } 4 \\mathrm { L }$ coating had the optimum comprehensive performance.We also investigated the friction and wear behavioursof $\\bf M o S _ { 2 } / D L C { - } 4 L$ coating under high vacuum condition with and without SLD.Itis noteworthy that the wear volume of $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } { \\cdot } 4 \\mathbf { L }$ coating with the increase of sliding time follows Archard laws,regardless of the condition with or without SLD.Moreover，the $\\mathbf { M o S } _ { 2 } / \\mathbf { D L C } \\mathbf { - } 4 \\mathbf { L }$ coating in SLC condition exhibited lowerfriction coefficientand wear rate than those of pure $\\mathbf { M o S } _ { 2 }$ or DLC coating. Characterization of wear tracksby SEM and 3D morphologiesrevealed thata low wear rate was attributed to the formation of ridge layer at the central region of wear track,where the milled SLD particles could roll freelybetween the ridge layerand the steel ball surface.Results of wear tracks/scarsbyXPSand weardebrisby TEMshowed that the formation of tribo-induced composite transfer layer in the contact interface and the reorientation of the $\\mathbf { M o S } _ { 2 }$ basal planes could effectively reduce the friction and wear. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6b4aea706564ef7ae022afff74dab699616b167ce418e835e84af5b0470c3bb.jpg",
+        "img_caption": [
+            "Fig.14(a)TEMphotogaphand(b)orespondingEDXanalysisoftheeadebrisfromtetestconductedat7NfortheSDLC-4Lcoating underhighvacuumconditionwithSLDafter10800cycles,(c-e)HRTEMimagesand(f)SAEDpatternof themarkedareain)(a) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for financial support from the National Natural Science Foundation of China (no.111723oo) and the Program of the Light of the Chinese Academy of Sciences in China's Western Region (2013). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1 J.R.Gaier and E.A.Sechkar,Lunar simulation in the lunar dust adhesion bell jar，Proceedings of the 45th AIAA Aerospace Sciences Meeting,2007.   \n2J.R.Gaier,The effects oflunar dust on EVA systems during the Apollo missions,in NASA/TM-2005-213610,2005. $^ 3 \\textbf { M }$ ，Chhowalla and G.A.J. Amaratunga，Thin films of fullerene-like $\\mathbf { M o S } _ { 2 }$ nanoparticles with ultra-low friction and wear,Nature,2000,407,164-167.   \n4 Y.H. Lee,X.Q. Zhang,W. Zhang, M. T.Chang, C.T.Lin, K. D. Chang, Y. C. Yu, J. T. W. Wang, C. S. Chang,L. J. Li and T.W.Lin, Synthesis of Large-Area $\\mathbf { M o S } _ { 2 }$ Atomic Layers with Chemical Vapor Deposition，Adv. Mater.，2012，24,   \n2320-2325.   \n5T.W.Scharf,P.G.Kotula and S.V.Prasad,Friction and wear mechanisms in $\\mathrm { M o S } _ { 2 } / \\mathrm { S b } _ { 2 } \\mathrm { O } _ { 3 } / \\mathrm { A u }$ nanocomposite coatings, ActaMater.,2010,58,4100-4109.   \n6 T.W.Scharf,S.V.Prasad，M.T.Dugger，P.G.Kotula, R.S.Goeke and R.K.Grubbs，Growth，structure，and tribological behavior of atomic layer-deposited tungsten disulphide solid lubricant coatings with applications to MEMS,Acta Mater.,2006,54,4731-4743.   \n7L.Rapoport,Y.Bilik,Y.Feldman,M.Homyonfer, S.R.Cohen and R. Tenne,Hollow nanoparticles of $\\mathrm { W S } _ { 2 }$ as potential solid-state lubricants,Nature,1997,387,791-793.   \n8 X. Zhang,B.Luster,A. Church,C.Muratore,A.A.Voevodin, P.Kohli， S. AouadiandS. Talapatra， Carbon nanotube $- \\mathbf { M } \\mathbf { o } \\mathbf { S } _ { 2 }$ composites as solid lubricants,ACs Appl. Mater. Interfaces,2009,1,735-739.   \n9 M.Tagawa,M.Muromoto, S.Hachiue,K.Yokota,N. Ohmae, K.Matsumoto and M. Suzuki, Hyperthermal atomic oxygen interaction with $\\mathbf { M o S } _ { 2 }$ lubricants and relevance to space   \n10 K.Enke,H. Dimigen and H.Hübsch,Frictional properties of diamondlike carbon layers,Appl. Phys. Let.,1980,36, 291- 292.   \n11 C.Donnet,T.Le.Mogne,L. Ponsonnet, M.Belin,A. Grill, V. Patel and C. Jahnes, The respective role of oxygen and water vapor on the tribology of hydrogenated diamond-like carbon coatings, Tribol. Lett.,1998,4, 259-265.   \n12 J.Qi,L.Wang,F. Yan and Q. Xue,Ultra-high tribological performance of magnetron sputtered a-C: H films in sanddust environment, Tribol. Lett.,2010,38,195-205.   \n13 S.Ren，S. Zheng, J. Pu, Z. Lu and G. Zhang, Study of tribological mechanisms of carbon-based coatingsin antiwearadditive containing lubricantsunderhigh temperature, RSC Adv.,2015,5, 66426-66437.   \n14 A.Erdemir,Genesis of superlow friction and wear in diamondlike carbon films,Tribol. Int.,2004,37,1005-1012.   \n15 C.Meunier,P.Alers,L.Marot,J. Stauffer,N.Randall and S. Mikhailov，Friction properties of ta-C and a-C: H coatings under high vacuum，Surf. Coat. Technol.,2005, 200,1976-1981.   \n16 E.Konca, Y. T. Cheng,A. M. Weiner, J. M. Dasch and A.T.Alpas，Vacuum tribological behavior of the nonhydrogenateddiamond-like carbon coatingsagainst aluminum: effect of running-in in ambient air, Wear, 2005, 259,795-799.   \n17 L.Cui, Z. Lu and L. Wang, Toward low friction in high vacuum for hydrogenated diamondlike carbon by tailoring sliding interface,ACS Appl.Mater. Interfaces,2013,5,5889- 5893.   \n18 F. Wang, L. Wang and Q. Xue,Fluorine and sulfur co-doped amorphous carbon films to achieve ultra-low friction under high vacuum, Carbon, 2016,96,411-420.   \n19 A.R. Konicek, D.S.Grierson,A. V. Sumant, T.A.Friedmann, J. P.Sullivan，P.U.P.A.Gilbert，W.G. Sawyer and R.W. Carpick, Influence of surface passivation on the friction and wear behavior of ultrananocrystalline diamond and tetrahedral amorphous carbon thin films,Phys. Rev.B: Condens.Matter Mater.Phys.,2012,85,155448.   \n20 A．R.Konicek，D.S.Grierson，P．U.P．A.Gilbert, W.G. Sawyer,A.V. Sumant and R.W. Carpick,Origin of UltralowFrictionand Wearin Ultrananocrystalline Diamond,Phys.Rev. Lett.,2008,100,235502.   \n21 M. Tagawa, K. Yokota, K. Matsumoto, M. Suzuki,Y. Teraoka, A. Kitamura, M. Belin, J. Fontaine and J. M. Martin, Space environmental effects on $\\mathbf { M o S } _ { 2 }$ and diamond-like carbon lubricating films: Atomic oxygen-induced erosion and its effect on tribological properties, Surf. Coat. Technol., 2007, 202,1003-1010.   \n22 C.Donnet, J. Fontaine,T. L. Mogne,M. Belin, C. Héau, J. P. Terrat,F. Vaux and G. Pont，Diamond-like carbonbased functionally gradient coatings for space tribology, Surf. Coat. Technol., 1999,120,548-554.   \n23 S.Gayathri, N. Kumar, R. Krishnan, S. Gayathri, N. Kumar, R.Krishnan,T. R.Ravindran,S.Dash and A.K. Tyagi, Tribological properties of pulsed laser deposited DLC/TM 0 $\\mathbf { \\partial } \\mathbf { T M } = \\mathbf { C r }$ ,Ag,Ti and Ni) multilayers,Tribol. Int.,2012,53,87- 97.   \n24 D.G.Liu,C. D.Gu,R.Chen and J.P. Tu, Interface and superhardness of $\\mathrm { T i N } / \\mathrm { C N } _ { x }$ multilayer films, Surf. Coat. Technol.,2010,205,2386-2392.   \n25H. Ziegele,H.J. Scheibe and B. Schultrich,DLC and metallic nanometer multilayers deposited by laser-arc,Surf. Coat. Technol.,1997,97,385-390.   \n26 S.Yang and D.G.Teer, Investigation of sputtered carbon and carbon/chromium multi-layered coatings,Surf. Coat. Technol.,2000,131,412-416.   \n27 Y.Wu,H.Li,L.Ji, Y.Ye,J. Chen and H. Zhou,A long-lifetime $\\mathbf { M o S } _ { 2 } / \\mathbf { a } { \\cdot } \\mathbf { C } { : } \\mathrm { H }$ nanoscale multilayer film with extremely low internal stress,Surf. Coat. Technol.,2013,236,438-443.   \n28 D.N.Allsopp,R.I. Trezona and I. M. Hutchings, The effects of ball surface condition in the micro-scale abrasive wear test,Tribol.Lett.,1998,5,259-264.   \n29 R.I. Trezona,D.N.Allsopp and I.M.Hutchings,Transitions between two-body and three-body abrasive wear: influence of test conditions in the microscale abrasive wear test,Wear, 1999,225,205-214.   \n30 E.Rabinowicz,L.A.Dunn and P.G.Russell,A study of abrasive wear under three-body conditions,Wear,1961,4, 345-355.   \n31 M. S.Bingley and S. Schnee,A study of the mechanisms of abrasive wear for ductile metals under wet and dry threebody conditions,Wear,2005,258,50-61.   \n32I.L. Singer,R.N.Bolster,J. Wegand and S.Fayeulle,Hertzian stress contribution to low friction behavior of thin $\\mathbf { M o S } _ { 2 }$ （204号 coatings,Appl. Phys. Lett,1990,57, 995-997.   \n33 J. F.Archard, Contact and rubbing of flat surfaces,J. Appl. Phys.,1953,24, 981-988.   \n34 H. Li,Q. Zhang, C.C.R. Yap,B.K. Tay, T.H. T.Edwin and A.Olivier，From bulk to monolayer $\\mathbf { M o S } _ { 2 }$ ：evolution of Raman scattering,Adv.Funct.Mater.,2012,22,1385-1390.   \n35 B.C.Windom,W.G. Sawyer and D.W.Hahn,A Raman spectroscopic study of $\\mathbf { M o S } _ { 2 }$ and $\\mathbf { M o O } _ { 3 }$ : applications to tribological systems,Tribol. Lett.,2011,42,301-310.   \n36 F.Gustavsson， S. Jacobson，A. Cavaleiro and T. Polcar, Frictional behavior of self-adaptive nanostructural Mo-SeC coatings in different sliding conditions,Wear,2013,303, 286-296.   \n37A.Yoshida,Y.Kaburagi and Y.Hishiyama,Full width at half maximum intensity of the G band in the first order Raman spectrum ofcarbonmaterialasaparameterfor graphitization, Carbon,2006,44,2333-2335.   \n38 J.Qi，L. Wang，F.Yan and Q.Xue，The tribological performance of DLC-based coating under the solid-liquid lubrication system with sand-dust particles，Wear，2013, 297, 972-985.   \n$3 9 \\textbf { M }$ 、A.Baker，R.Gilmore,C.Lenardi and W.Gissler,XPS investigation of preferential sputtering of S from $\\mathbf { M o S } _ { 2 }$ and determination of $\\mathbf { M o S } _ { x }$ stoichiometry from Mo and S peak positions,Appl. Surf. Sci.,1999,150,255-262.   \n（204号 $4 0 \\mathrm { ~ L ~ }$ .Gu,P. Ke, Y. Zou, X. Li and A. Wang,Amorphous selflubricant $\\mathbf { M o S } _ { 2 } – \\mathbf { C }$ sputtered coating with high hardness, Appl. Surf. Sci.,2015,331,66-71.   \n41 J.V.Pimentel，T.Polcar and A.Cavaleiro，Structural, mechanical and tribological properties of Mo-S-C solid lubricant coating,Surf. Coat. Technol.,2011,205,3274-3279.   \n42I.L.Singer,How third-body processes affect friction and wear,MRS Bull.,1998,23,37-40.   \n$4 3 \\textbf { M }$ Hirano, K. Shinjo,R. Kaneko and Y. Murata, Anisotropy of frictional forces in muscovite mica, Phys. Rev. Lett., 1991,67,2642.   \n44 J.M. Martin，C.Donnet，T.L. Mogne and T.Epicier, Superlubricity of molybdenum disulphide，Phys.Rev.B: Condens.Matter Mater.Phys.,1993,48,10583.   \n45 J.Moser,H.Liao and F.Levy,Texture characterisation of sputtered $\\mathbf { M o S } _ { 2 }$ thin films by cross-sectional TEM analysis, J. Phys.D: Appl. Phys.,1990,23,624-626.   \n（20 $4 6 \\mathrm { ~ L ~ }$ .Cizaire,B. Vacher, T.L. Mogne,J. M. Martin,L. Rapoport, A.Margolin andR.Tenne,Mechanisms ofultra-low friction by hollow inorganic fullerene-like $\\mathbf { M o S } _ { 2 }$ nanoparticles, Surf. Coat. Technol.,2002,160,282-287. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,185 @@
+3种蛋白酶对苏淮断奶仔猪生长性能、营养物质表观消化率和血清生化指标的影响
+
+侯玉煌」丁宏标1\* 李强²
+
+（1.中国农业科学院饲料研究所，北京100081；2.生物饲料开发国家工程研究中心，北京100081；3.新淮猪资源开发中心，淮安223000）
+
+摘要：本试验旨在研究3种蛋白酶对苏淮断奶仔猪生长性能、营养物质表观消化率和血清生化指标的影响。试验采用单因素随机区组设计，选取健康、平均体重为（ $9 . 2 4 \pm 0 . 8 4 \$ ）kg的苏淮断奶仔猪120头，按体重、性别基本一致的原则随机分为4组，每组6个重复，每个重复5头猪。对照组断奶仔猪饲喂不添加任何蛋白酶的基础饲粮，试验组分别饲喂在基础饲粮中添加 $0 . 2 ~ \mathrm { g / k g }$ 酸性蛋白酶（I组）、 $0 . 2 ~ \mathrm { g / k g }$ 中性蛋白酶（Ⅱ组）和 $0 . 1 \ \mathrm { g / k g }$ 碱性蛋白酶（IⅢ组）的饲粮。试验预试期5d，正试期 $4 5 \mathrm { d }$ 。结果表明：1）与对照组相比，I组的末重、平均日增重（ADG）和平均日采食量（ADFI）有显著提高（ $. P { < } 0 . 0 5$ ），料重比（F/G）降低，但差异不显著（ $P { > } 0 . 0 5 \$ ）。II组的ADG 显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ），F/G 较对照组显著降低 $\cdot P { < } 0 . 0 5$ ）。2）试验第 $3 1 { \sim } 4 5$ 天，试验组的腹泻率和粪便指数显著低于对照组（ $_ { , P < 0 . 0 5 ) }$ ，试验组间差异不显著（ $\cdot P { > } 0 . 0 5 \$ ），IⅢ组的腹泻率和粪便指数最低。3）与对照组相比，试验组的干物质（DM）表观消化率和有机物（OM）表观消化率均显著提高（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。I组和II组的DM表观消化率和OM表观消化率显著高于ⅡI组（ $\scriptstyle P < 0 . 0 5$ ）。I组的粗蛋白质（CP）表观消化率显著高于对照组、Ⅱ组和Ⅲ组（ $\scriptstyle P < 0 . 0 5$ ）。4）与对照组相比，I组血清中尿素氮含量显著降低（ $. P { < } 0 . 0 5$ ），试验组间差异不显著（ $P { > } 0 . 0 5$ ）。由此可知酸性蛋白酶在提高苏淮断奶仔猪生长性能和营养物质表观消化率方面的效果较好，而中性蛋白酶和碱性蛋白酶在减少营养性腹泻方面的效果较好。
+
+关键词：蛋白酶；断奶仔猪；生长性能；营养物质表观消化率；血清生化指标中图分类号：S828
+
+相对于动物蛋白质，植物性蛋白质原料（如豆粕等）因其价廉、易得、储运方便等优点在饲料配方中的比例日渐增多。但植物性蛋白质原料中也存在大量的抗营养因子，如胰蛋白酶抑制因子、抗原蛋白等，极易造成动物（尤其是幼龄动物）的营养性腹泻。外源蛋白酶不仅可以补充动物内源蛋白酶的不足，降解大豆抗营养因子[，防治营养性腹泻，还可以提高营养物质的消化利用率，因此关于饲用蛋白酶的研究备受关注[2]。研究结果表明添加蛋白酶可以提高断奶仔猪的日增重，降低料重比，提高营养物质的表观消化率[3]。但目前的研究多以复合酶为主，未见有单一蛋白酶使用效果对比的报道。本研究旨在对比酸性、中性和碱性蛋白酶对苏淮断奶仔猪的生长性能、营养物质表观消化率以及血清生化指标的影响，集中探讨不同蛋白酶对营养性腹泻情况改善的效果，为饲料配方中蛋白酶的合理使用提供科学依据，也为苏淮猪的健康养殖提供科学指导。
+
+1材料与方法
+
+# 1.1 试验材料
+
+酸性、中性和碱性蛋白酶均购自山东隆科特酶制剂有限公司。酸性蛋白酶：产自黑曲霉，活性 $1 0 0 0 0 0 \mathrm { U / g }$ ，有效 $\mathfrak { p H }$ 为 $2 . 0 { \sim } 6 . 0$ ，最适 $\mathsf { p H }$ 为 $2 . 5 \sim 3 . 5$ ；中性蛋白酶：产自枯草芽孢杆菌，活性 $1 0 0 0 0 0 \mathrm { U / g }$ ，有效 $\mathfrak { p H }$ 为 $5 . 5 \sim 8 . 5$ ，最适 $\mathfrak { p H }$ 为 $6 . 8 \sim 7 . 0$ ；碱性蛋白酶：产自地衣芽孢杆菌，活性 $2 0 0 0 0 0 \mathrm { U / g }$ ，有效 $\mathfrak { p H }$ 为 $6 . 0 \sim 1 1 . 0$ ，最适 $\mathsf { p H }$ 为 $9 . 5 \sim 1 0 . 5 \$ 。
+
+# 1.2试验饲粮与营养水平
+
+试验所用的饲粮配方参照NRC(1998)并结合苏淮猪的营养特点设计而成，试验料为机配粉状料。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>玉米Corn 55.42</td></tr><tr><td>膨化大豆 Extruded soybean 24.83</td></tr><tr><td>小麦麸 Wheat bran 8.00</td></tr><tr><td>蔗糖 Sucrose 2.40</td></tr><tr><td>米糠Rice bran 2.00</td></tr><tr><td>鱼粉Fish meal 2.00</td></tr><tr><td>乳清粉 Whey powder 1.00</td></tr><tr><td>食盐 NaCl 0.10</td></tr><tr><td>预混料 Premix1) 4.00</td></tr><tr><td>赖氨酸Lys 0.25</td></tr><tr><td>合计 Total 100.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能 DE/(MJ/kg) 15.21</td></tr><tr><td>粗蛋白质CP 18.44</td></tr><tr><td>干物质 DM 88.50</td></tr><tr><td>有机物OM 93.99</td></tr><tr><td>粗脂肪 EE 6.91</td></tr><tr><td>钙Ca 0.70</td></tr><tr><td>磷P 0.55</td></tr><tr><td>赖氨酸Lys 1.55</td></tr><tr><td>蛋氨酸 Met 0.36</td></tr><tr><td>苏氨酸 Thr 0.87</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet:VA 8 000 IU, $\mathrm { V D } _ { 3 } \ 2 \ 0 0 0$ IU，VE 28 IU, $\mathrm { V B } _ { 1 } 3 . 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 3 ~ \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 . 8 \mathrm { m g }$ ，烟酸niacin $1 8 ~ \mathrm { m g }$ ，泛酸钙 calcium pantothenate $2 0 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 2 \mathrm { m g }$ ，氯化胆碱 choline chloride $3 2 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 8 0 \mathrm { m g }$ ，Fe120mg， Zn 100 mg, $\mathrm { M n } 4 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 8 \ : \mathrm { m g }$ ，Se $0 . 2 8 \mathrm { m g }$ 。
+
+2）实测值。Measured values.
+
+# 1.3试验动物与饲养管理
+
+试验采用单因素随机区组设计，选择健康、平均体重为 $( 9 . 2 4 \pm 0 . 8 4 ) \mathrm { k g }$ 的苏淮断奶仔猪120 头，按体重、性别基本一致的原则随机分为4组，每组6个重复，每个重复5头猪。对照组饲喂基础饲粮，试验I、II、组分别饲喂在基础饲粮中添加0.2、0.2 和 $0 . 1 \ \mathrm { g / k g }$ 酸性蛋白酶、中性蛋白酶和碱性蛋白酶的饲粮。试验预试期5d，正试期 $4 5 \mathrm { d }$ 。试验猪舍为封闭式猪舍，猪栏为半漏缝地板式。饲养管理方式采用常规方式（每天喂料3次，分别为07:00、14:00 和17:00），定期消毒、免疫、驱除蚊虫，试验猪自由采食和饮水。
+
+# 1.4样品采集与指标测定
+
+# 1.4.1 生长性能
+
+于正试期第1天和最后1天08:00 空腹称重，得到平均初重和平均末重，计算出每头猪的平均日增重（ADG）；每周准确记录每组饲粮的投放量和剩余量，计算出每头猪的平均日采食量（ADFI）；根据ADG和ADFI计算出料重比（F/G）。
+
+# 1.4.2 血清生化指标
+
+于试验最后1天晨饲前进行采血，每个重复随机选取2头仔猪（公母各1头）从颈静脉采血 $1 0 ~ \mathrm { m L }$ ，采血后立即 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { { m i n } }$ ，取血清装入 $1 . 5 ~ \mathrm { m L }$ EP 管内， $- 2 0 { } ^ { \circ } \mathrm { C }$ 冷冻保存，待测。血清生化指标测定方法：采用双缩脲终点法检测总蛋白（TP）含量；采用溴甲酚绿比色法检测白蛋白（ALB）含量；采用分光光度法检测谷丙转氨酶（ALT）、谷草转氨酶（AST）活性；采用酶剂法检测甘油三酯（TG）含量；采用脲酶法检测尿素氮（UN)含量。上述指标测定所用试剂盒均购自北京金海科隅生物科技发展有限公司。
+
+# 1.4.3 腹泻率与粪便指数
+
+试验开始后以每个重复为单位，每天观察记录每栏仔猪的腹泻情况并进行粪便评分，评分标准：外观条形或粒状为正常，评分记0；软粪，能成形为轻度腹泻，评分记1；稠状，不成形，粪水无分离现象为中度，评分记2；液状，不成形，粪水有分离现象为严重，评分记3。当仔猪粪便评分 ${ \geq } 2$ 时，开始使用抗生素或止泻药进行治疗。试验结束时计算腹泻率与粪便指数，用腹泻率、粪便指数等指标反映腹泻程度。腹泻相关计算公式：
+
+腹泻率 $\scriptstyle = 1 0 0 \times$ 腹泻头数/总头数（单个重复的总头数）；
+
+粪便指数 $\scriptstyle :$ 粪便评分之和/总头数。
+
+# 1.4.4营养物质表观消化率
+
+于试验结束前1周进行消化试验，为期7d，其中3d适应期，4d试验期。每个重复选取1头进行全收粪，记录每日采食量、每日产粪总重。每天收集 $1 0 0 \ \mathrm { g }$ 粪便，加入 $10 \mathrm { m L } 1 0 \%$ 硫酸溶液混匀冷冻保存，结束后再将4d的粪样混匀， $- 2 0 ^ { \circ } \mathrm { C }$ 冷冻保存，待测。测定饲粮中和粪样中的干物质（DM）、有机物（OM）、粗蛋白质（CP）和粗脂肪（EE）含量。营养物质表观消化率计算公式：
+
+营养物质表观消化率 $( \% ) = 1 0 0 \times [$ 食入的营养物质含量（g）一粪中该物质含量（g）]/食入的营养物质含量（g）。
+
+# 1.5 数据处理
+
+试验数据通过Excel2003进行初步处理后，采用 SPSS22.0统计软件的ANOVA过程进行单因素方差分析，差异显著则用Duncan氏法进行多重比较，结果表示为平均值 $\pm$ 标准差，$P { < } 0 . 0 5$ 作为差异显著的判断标准。
+
+# 2结果与分析
+
+# 2.13种蛋白酶对断奶仔猪生长性能的影响
+
+由表2可知，酸性蛋白酶组（I组）的ADG和ADFI均显著高于对照组（ $( P { < } 0 . 0 5 )$ ），F/G低于对照组，但差异不显著（ $P { > } 0 . 0 5$ ）；碱性蛋白酶组（I组）的ADG显著高于对照组
+
+（ $P { < } 0 . 0 5$ ），F/G显著低于对照组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）；中性蛋白酶组（Ⅱ组）的ADG高于对照组，F/G 低于对照组，但差异均不显著（ $P { > } 0 . 0 5$ ）。
+
+Table 2Effects of 3 proteases on growth performance of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>I组 Group I</td><td>Ⅱ组 Group II</td><td>Ⅲ组 Group IⅢI</td></tr><tr><td>初重 Initial weight/kg</td><td>9.18±0.93</td><td>9.37±0.52</td><td>9.35±1.03</td><td>9.05±0.93</td></tr><tr><td>末重 Final weight/kg</td><td>21.50±1.58b</td><td>23.35±0.99a</td><td>22.75±0.41ab</td><td>22.28±1.39ab</td></tr><tr><td>平均日增重 ADG/g</td><td>279.92±17.68b</td><td>317.8±24.07a</td><td>304.55±28.97ab</td><td>311.75±12.14a</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>1.17±0.05b</td><td>1.26±0.04a</td><td>1.22±0.06ab</td><td>1.20±0.08ab</td></tr><tr><td>料重比F/G</td><td>4.18±0.13a</td><td>3.98±0.26ab</td><td>4.01±0.22ab</td><td>3.85±0.20b</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同小写字母或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference( $\scriptstyle P < 0 . 0 5 ,$ ,while with the same small letter or no letter superscripts mean no significant difference（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ ）.The same as below.
+
+2.23种蛋白酶对断奶仔猪营养物质表观消化率的影响
+
+由表3可知，试验组的DM表观消化率和OM表观消化率均显著高于对照组（ $( P { < } 0 . 0 5 )$ ，I组和III组的DM消化率和OM表观消化率显著高于ⅡI组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）；I组的CP表观消化率显著高于对照组、Ⅱ组和Ⅲ组（ $_ { . P < 0 . 0 5 }$ ）。
+
+表23种蛋白酶对断奶仔猪生长性能的影响  
+表33种蛋白酶对断奶仔猪营养物质表观消化率的影响  
+Table 3Effects of 3 proteases on nutrient apparent digestibility of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>I组 Group I</td><td>Ⅱ组 Group II</td><td>IⅢ组 Group III</td></tr><tr><td>干物质 DM</td><td>81.57±2.80c</td><td>86.58±2.46a</td><td>84.20±2.35b</td><td>86.29±1.69a</td></tr><tr><td>有机物OM</td><td>85.01±2.41c</td><td>89.10±2.26a</td><td>86.90±1.88b</td><td>88.73±1.40a</td></tr><tr><td>粗蛋白质 CP</td><td>80.78±2.80b</td><td>85.08±2.77a</td><td>81.04±2.52b</td><td>82.03±2.51b</td></tr><tr><td>粗脂肪 EE</td><td>83.18±2.86</td><td>82.64±3.02</td><td>82.56±4.55</td><td>83.11±3.22</td></tr></table></body></html>
+
+2.33种蛋白酶对断奶仔猪腹泻情况的影响
+
+由表4可知，各试验组的腹泻率和粪便指数均低于对照组。在试验第 $3 1 { \sim } 4 5$ 天这一时期，各试验组的腹泻率和粪便指数均显著低于对照组（ $\cdot P { < } 0 . 0 5 \$ ），Ⅲ组的腹泻率和粪便指数
+
+最低。
+
+# 表43种蛋白酶对断奶仔猪腹泻情况的影响
+
+Table 4Effects of 3 proteases on diarrhea of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>时间Time</td><td>对照组 Control group</td><td>I组 Group I</td><td>Ⅱ组 Group ⅡI</td><td>II组 Group II</td></tr><tr><td rowspan="4">腹泻率 Diarrhea rate/%</td><td>第1~15天</td><td>9.67±2.72</td><td>6.00±3.17</td><td>6.00±2.31</td><td>7.33±1.72</td></tr><tr><td>第16~30天</td><td>3.67±1.68a</td><td>1.87±0.73ab</td><td>2.67±1.22ab</td><td>1.33±1.12b</td></tr><tr><td>第31~45天</td><td>4.50±1.26a</td><td>1.33±1.08b</td><td>1.05±0.78b</td><td>1.00±1.28b</td></tr><tr><td>第1~15天</td><td>14.0±3.47a</td><td>7.33±4.15b</td><td>7.67±3.51b</td><td>9.30±1.09ab</td></tr><tr><td>粪便指数Fecal index</td><td>第16~30天</td><td>4.92±2.39</td><td>2.00±0.78</td><td>4.00±3.27</td><td>1.67±2.00</td></tr><tr><td></td><td>第31~45天</td><td>5.50±1.91a</td><td>2.42±1.66b</td><td>1.83±1.67b</td><td>1.33±1.89b</td></tr></table></body></html>
+
+2.43种蛋白酶对断奶仔猪血清生化指标的影响
+
+由表5可知，ⅡI组血清AST活性显著高于I组、I组和对照组（ $P { < } 0 . 0 5$ ）；各试验组血清中UN 含量都低于对照组，但只有I组与对照组差异显著（ $P { < } 0 . 0 5$ ）。
+
+表53种蛋白酶对断奶仔猪血清生化指标的影响  
+Table 5Effects of 3 proteases on serum biochemical indices of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>I组Group I</td><td>Ⅱ组 Group II</td><td>IⅢ组 Group III</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>66.17±5.52</td><td>67.29±5.66</td><td>68.01±4.69</td><td>67.77±4.18</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>29.26±2.37</td><td>31.02±3.03</td><td>29.17±2.71</td><td>30.01±2.23</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>36.91±6.48</td><td>36.28±7.08</td><td>38.84±5.70</td><td>37.77±3.49</td></tr><tr><td>白球比 ALB/GLB</td><td>0.82±0.20</td><td>0.90±0.24</td><td>0.77±0.17</td><td>0.8±0.09</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>41.90±6.44</td><td>45.89±10.65</td><td>41.64±14.97</td><td>42.10±8.74</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>72.99±14.97b</td><td>70.97±13.50b</td><td>85.10±14.33a</td><td>79.31±13.14b</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.34±0.41</td><td>2.17±0.40</td><td>2.52±0.43</td><td>2.40±0.46</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.56±0.16</td><td>0.52±0.16</td><td>0.50±0.17</td><td>0.62±0.22</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>7.63±1.00a</td><td>6.55±1.00b</td><td>7.23±1.44ab</td><td>7.09±1.02ab</td></tr></table></body></html>
+
+3讨论
+
+# 3.13种蛋白酶对断奶仔猪生长性能的影响
+
+幼龄动物的胃肠道发育不完善，哺乳仔猪断奶后，体内消化酶活性大幅度降低，如胃蛋白酶[4]等，故在饲粮中添加外源蛋白酶尤为重要。Han 等[5]研究发现将含有酸性蛋白酶的饲用复合酶添加到保育猪饲粮中，增强了肠道相关消化酶的活性，提高了保育猪的生长性能。本试验中，各试验组的生长性能均优于对照组，这与 Zuo 等的结果一致，其中I组的末重、ADG 和ADFI都显著高于对照组，F/G 降低了 $4 . 7 8 \%$ ；ⅡI组的末重、ADG 和 ADFI较对照组分别提高 $5 . 8 1 \%$ 、 $8 . 8 0 \%$ 和 $4 . 2 7 \%$ ，F/G 较对照组降低 $4 . 0 7 \%$ ；II组的 ADG 显著高于对照组,末重和ADFI较对照组分别提高 $3 . 6 3 \%$ 和 $2 . 5 6 \%$ ，F/G 显著低于对照组。本试验中，I组的末重较Ⅱ组和Ⅲ组分别提高了 $2 . 6 3 \%$ 和 $4 . 8 0 \%$ ，ADG 较Ⅱ组和I组分别提高了 $4 . 3 5 \%$ 和 $1 . 9 4 \%$ ADFI较较Ⅱ组和Ⅲ组分别提高了 $3 . 2 8 \%$ 和 $5 . 0 0 \%$ ，可见酸性蛋白酶在生长性能方面的效果优于中性蛋白酶和碱性蛋白酶，这与卢晨等[7的试验中中性蛋白酶优于酸性蛋白酶的研究结果不一致。原因可能是本试验采用的蛋白酶均为普通粉剂，未做任何包被处理，只有酸性蛋白酶可以适应胃液的酸性条件，能优先发挥作用，使饲粮中CP在胃中初步消化分解的作用增强，促进营养物质在小肠内的消化吸收；而中性和碱性蛋白酶不能适应胃部酸性环境，被部分破坏分解，酶活降低，使得效果低于酸性蛋白酶。且本试验酶活水平较卢晨等[7试验酶活水平高一个数量级，极大地补充了胃蛋白酶的不足，增强了胃消化功能。在自由采食条件下，仔猪未完善的消化系统难以充分消化摄入的营养物质，酸性蛋白酶可增强胃的消化功能，降低小肠的消化负担，提高生长性能。
+
+# 3.23种蛋白酶对断奶仔猪营养物质消化率的影响
+
+李同洲等8研究发现，在断奶仔猪饲粮中添加含有蛋白酶的复合酶，可以提高CP 的消化率，最佳可提高 $1 . 5 2 \%$ ，并且指出蛋白酶是断奶仔猪酶制剂配方的首选成分。本试验中，I组的CP表观消化率较对照组提高 $5 . 3 2 \%$ ，较Ⅱ组和Ⅲ组分别提高 $4 . 9 9 \%$ 和 $3 . 7 2 \%$ 。I组、ⅡI组、I组DM表观消化率分别较对照组提高 $6 . 1 4 \%$ 、 $3 . 2 2 \%$ 和 $5 . 7 9 \%$ ，I组和Ⅲ组又显著高于ⅡI组；I组、ⅡI组、IⅢ组OM表观消化率较对照组提高 $4 . 8 1 \%$ 、 $2 . 2 2 \%$ 和 $4 . 3 8 \%$ ，I组和Ⅲ组也显著高于II组；从数据可以看出，I组的DM表观消化率、OM表观消化率和CP表观消化率都高于Ⅱ组和II组。本试验中各试验组的CP表观消化率较对照组均有提高，这与 $\mathrm { Y u }$ 等[9]的结果一致。有研究表明，蛋白酶使用可提高CP 和氨基酸在回肠的消化率[10]，在 Zuo 等[6]的试验中，营养物质消化率也获得提高。外源添加蛋白酶也可能因作用位点等方面的不同，将一些动物内源蛋白酶难以消化的蛋白质水解为肽和氨基酸，进而提高动物对饲粮CP 的消化率。单一蛋白酶制剂在畜禽行业内的使用较少，但单一酶的使用可以更好地对比酶的作用效果，还可探究单一酶在动物不同的生长时期的添加水平，更详细地分析不同时期的消化代谢特点。育肥猪比仔猪具有完善的消化功能，可以很好地消化营养物质[I]，使得蛋白酶在仔猪上的使用效果优于育肥猪。
+
+# 3.33种蛋白酶对断奶仔猪腹泻情况的影响
+
+断奶仔猪由于应激导致消化系统紊乱，消化酶分泌的不足进一步影响断奶仔猪的消化能力，从而降低仔猪健康状况[12]。添加酶制剂可弥补内源消化酶分泌的不足，帮助消化肠道内营养物质，减少过敏反应的发生，降低腹泻率[13]。郭建来等[14]在探究酸性蛋白酶对仔猪生长性能和养分表观消化率的影响时对仔猪的腹泻情况也进行了记录，酸性蛋白酶组的腹泻率较对照组降低了 $6 5 . 4 7 \%$ ，减少腹泻效果明显。本试验中，试验组的腹泻率和粪便指数均低于对照组，在试验第 $3 1 { \sim } 4 5$ 天时期试验组的腹泻率和粪便指数与对照组有最明显差异。其中，I组、Ⅱ组和I组的腹泻率分别比对照组低 $70 . 4 4 \%$ 、 $7 6 . 6 7 \%$ 和 $7 7 . 7 8 \%$ ，粪便指数分别比对照组低 $56 . 0 0 \%$ 、 $6 6 . 7 3 \%$ 和 $7 5 . 8 2 \%$ ；而Ⅱ组的腹泻率和粪便指数分别比I组降低了 $2 1 . 0 5 \%$ 和 $2 4 . 8 1 \%$ ；IⅢ组的腹泻率和粪便指数分别比Ⅱ组降低了 $4 . 7 6 \%$ 和 $2 7 . 3 2 \%$ 。可以看出中性蛋白酶和碱性蛋白酶的防治腹泻效果优于酸性蛋白酶，推测是由于中性蛋白酶和碱性蛋白酶在肠道中发挥的作用更明显。断奶仔猪饲粮为高蛋白质饲粮，断奶早期的仔猪消化系统和免疫系统的发育均不完善，肠道微生物区系平衡尚未建立，会对饲粮中的CP产生消化障碍，未消化的蛋白质进入肠道后段被细菌降解成胺类等有害物质，造成仔猪营养性腹泻[15]。同时肠道对饲粮抗原产生免疫反应，引起肠道形态结构的损伤性变化，破坏仔猪肠道的免疫功能，引起肠道局部过敏反应，加剧仔猪营养性腹泻的爆发[16]。中性蛋白酶的最适pH为 $6 . 8 \sim 7 . 0$ 更适应小肠内的pH条件[17]。中性蛋白酶进入小肠后补充了胰蛋白酶分泌的不足，促进胰蛋白酶对肠道内蛋白的分解，减少抗原引起的免疫应激，有效降低营养性腹泻的发生。据报道，大豆副产品中抗营养因子的残留量很高，如豆粕、膨化豆粕，而膨化大豆经高温虽然可以去除热敏性的抗营养因子，但无法去除豆粕中热稳定性的大豆抗原蛋白等抗营养因子[18-19]，使其成为造成仔猪营养性腹泻的一大因素。有研究发现碱性蛋白酶不仅可以改善豆粕中大豆蛋白的溶解性，也能快速地将大部分大豆抗原蛋白降解为 $2 1 \mathrm { { k u } }$ 以下的肽，很好地改善了豆粕的使用安全性[20]。亦有报道认为枯草芽孢杆菌分泌的中性蛋白酶可以降解大豆蛋白，提高CP 消化率，是枯草芽孢杆菌益生作用的机理之一[21]。碱性蛋白酶在肠道内虽不能达到最适酶活条件，但弱碱性环境处于其能发挥酶活条件内。碱性蛋白酶能更好地降解饲粮中的抗营养因子，如抗原蛋白等[1，大分子、难降解的蛋白质经碱性蛋白酶的降解变成小分子的肽进入组织内，减少了饲粮中抗营养因子引起的仔猪肠道免疫反应，从而达到防治营养性腹泻的效果。
+
+# 3.43种蛋白酶对断奶仔猪血清生化指标的影响
+
+李元凤等[22]在研究角蛋白酶对仔猪生长性能、血清生化指标及抗氧化指标影响时发现外源添加角蛋白酶可显著降低血清中ALT 的活性。ALT 和AST主要存在于细胞液中，在心脏和肝脏组织中含量较高。转氨酶活性可反映肝脏结构和功能完整性[23]，当肝脏受损时，大量的转氨酶进入血中导致血清中转氨酶含量偏高。本试验中，ⅡI组血清AST 活性显著高于对照组、I组和Ⅲ组，与相关试验结果不一致，原因尚不清楚。本试验I组血清UN 含量显著低于对照组，血液中的尿素是通过鸟氨酸循环合成的，是蛋白质分解的最终产物，可以反映蛋白质的代谢。单胃动物血清UN 含量与饲粮的氮利用率成反比，可以衡量饲粮蛋白质的生物学价值，UN 含量越低表明饲粮蛋白质的利用率越高[24]。本试验中，I组、ⅡI组和III组中血清 TP含量较对照组分别提高了 $1 . 6 9 \%$ 、 $2 . 7 8 \%$ 、 $2 . 4 2 \%$ ，但差异不显著。而TP有运输营养物质、维持渗透压，参与体液免疫的功能，TP含量升高可增强营养物质的运输，维持内环境稳态平衡。
+
+# 4结论
+
+此试验中，在饲粮中添加酸性、中性和碱性蛋白酶提高了苏淮断奶仔猪的生长性能和营养物质消化率，也使得腹泻率得到降低。其中I组的末重、ADG、ADFI、DM表观消化率、OM表观消化率和CP表观消化率较Ⅱ组和I组都有所提高，而II组和I组在腹泻率和腹泻指数方面要低于I组。可见酸性蛋白酶在提高生长性能和提高营养物质消化率方面效果好，中性蛋白酶和碱性蛋白酶在降低营养性腹泻方面的效果好。
+
+# 参考文献:
+
+[1] 王章存,李乐静,赵学伟,等.碱性蛋白酶水解对豆粕中大豆抗原蛋白的影响[J].中国粮油学 报,2013,28(2):6-9.   
+[2] 王勇灵.饲用蛋白酶在动物营养与饲料生产中的应用[J].饲料与畜牧（新饲 料）,2016(1):33-39.   
+[3] 王向荣,蒋桂韬,张旭,等.四种复合酶制剂对断奶仔猪生长性能及养分消化率的影响[J].家畜 生态学报,2010,31(5):35-40.   
+[4] HEDEMANN M S,JENSEN B B.Variations in enzyme activity in stomach and pancreatic tissue and digesta in piglets around weaning[J].Archives of Animal Nutrition,2004,58(1):47-49.   
+[5] HAN X Y,YAN F Y,NIE X Z,et al.Effect of replacing antibiotics using multi-enzyme preparations on production performance and antioxidant activity in piglets[J].Journal of
+
+Integrative Agriculture,2017,16(3):640-647.
+
+[6] ZUO J J,LING B M,LONG L N,et al.Eect of dietary supplementation with protease on the growth performance,nutrient digestibility,intestinal morphology,digestive enzymes and gene expression of weaned piglets[J].Animal Nutrition,2015,1(4):276-282.
+
+[7]卢晨,边连全,刘显军,等.中性和酸性蛋白酶对断奶仔猪生长性能的影响[J].动物营养学报,2009,21(6):993-997.
+
+[8]李同洲,吕志强,臧素敏,等.复合酶制剂对猪消化道中营养物质消化率的影响[J].河北农业大学学报,1996,19(1):45-49.
+
+[9] YU G X,CHEN D W,YU B,et al.Coated protease increases ileal digestibility of protein and amino acids in weaned piglets[J].Animal Feed Science and Technology,2016,214:142-147.
+
+[10] GUGGENBUHL P,WACHE Y,WILSON J W.Effects of dietary supplementation with a protease on the apparentilealdigestibility of the weanedpiglet[J].Journal ofAnimal Science,2012,90(13):152-154.
+
+[11]MC ALPINE P O,O'SHEA C J,VARLEY P F,et al.The effct of protease and xylanase enzymes ongrowth performance and nutrient digestibility in finisher pigs[J].Journal of Animal Science,2012,90(S4):375-377.
+
+[12]凌宝明,冯定远,左建军.饲用蛋白酶的研究进展[J].饲料工业,2009,30(22):7-10.
+
+[13]王冬艳,李德发,邢建军,等.酶制剂对断奶仔猪生产性能和腹泻的影响[J].饲料工业,2000,21(12):42-43.
+
+[14]郭建来,魏红芳.酸性蛋白酶对仔猪生产性能及养分表观消化率的影响[J].饲料博览,2007(3):10-12.
+
+[15]高尚,王恬.仔猪营养性腹泻调控的研究进展[J].中国饲料,2010(18):19-23.
+
+[16]刘丹丹,赵元,张诗尧.大豆抗原蛋白对肠道致敏性的研究进展[J].中国畜牧杂志,2015,51(5):77-81.
+
+[17] JENSEN M S,JENSEN S K,JAKOBSEN K.Development of digestive enzymes in pigs with emphasisonlipolyticactivityinthestomachandpancreas[J].Journal of Animal Science,1997,75(2):437-445.
+
+[18] 杨玉娟,姚怡莎,秦玉昌,等.豆粕与发酵豆粕中主要抗营养因子调查分析[J].中国农业科学,2016,49(3):573-580.
+
+[19]姚怡莎,谷旭,商方方,等.大豆和膨化大豆主要抗营养因子分析[J].中国农业科
+
+学,2016,49(11):2174-2182.
+
+[20]王章存,李乐静,赵学伟,等.碱性蛋白酶水解对豆粕中大豆抗原蛋白的影响[J].中国粮油学报，2013，28（2） :6-9.  
+[21]石慧,赵述淼,梁运祥.降解大豆抗原蛋白枯草芽孢杆菌的筛选及发酵条件[J.湖北农业科学,2011,50(10):1969-1971.  
+[22]李元凤,何健,张波,等.角蛋白酶对仔猪生长性能、血清生化指标及抗氧化指标影响的研究[J].中国畜牧杂志,2016(18):66-71.  
+[23]管武太,刘朝亮.复合酶制剂对仔猪血液生理生化指标的影响[C]//酶制剂在饲料工业中的应用.岳阳：中国畜牧兽医学会,2005.  
+[24]张苏江.日粮铜水平对生长猪生长性能及生化指标影响的研究[D].硕士学位论文.长春：中国人民解放军军需大学，2001
+
+Effects of 3 Proteases on Growth Performance, Nutrient Apparent Digestibility and Serum Biochemical Indices of Suhuai Weaned Pigletsi HOU YuhuanglDING Hongbiaol\* LI Qiang2 (1. Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China; 2. National Engineering Research Center of Biological Feed, Beijing 10oo81, China; 3. New Suhuai Pig Resource Development Center, Huaian 2230oo, China)
+
+Abstract: This experiment was conducted to explore the effects of 3 proteases on growth performance, nutrient apparent digestibility and serum biochemical indices of Suhuai weaned piglets. Single factor randomized block design was used in this experiment, and a total of 120 healthy Suhuai weaned piglets with an average body weight of( $9 . 2 4 { \scriptstyle \pm 0 . 8 4 }$ ）kg were allocated into 4 groups with 6 replications each and 5 pigs in each replication according to similar weight and gender. Pigs in the control (CT） group were fed a basal diet, and in the experimental groups were fed the basal diets supplemented with $0 . 2 ~ \mathrm { g / k g }$ acid protease (group I), $0 . 2 ~ \mathrm { g / k g }$ neutral protease (group II) and $0 . 1 \ \mathrm { g / k g }$ alkaline protease (group II), respectively. The trial lasted for $4 5 \mathrm { d }$ after 5 d adaptation. The results showed as follows: 1） compared with the CT group, the final weight,average daily gain (ADG) and average daily feed intake (ADFI) were significantly increased $( P { < } 0 . 0 5 )$ ，and the ratio of feed to gain(F/G） was decreased $( P { > } 0 . 0 5 )$ ）in group I. Compared with the CT group, the ADG was significantly increased $( P { < } 0 . 0 5 )$ while the F/G was significantly decreased $( P { < } 0 . 0 5 )$ in group II. 2) On day 31 to 45 of the experiment, compared with the CT group,the diarrhea rate and the fecal index in proteases treated groups were significantly decreased $( P { < } 0 . 0 5 )$ , but there were no significant differences among experimental groups( $\cdot P { > } 0 . 0 5$ ）. The diarrhea rate and the fecal index in group II were the lowest. 3) The dry matter (DM) apparent digestibility and organic matter（OM）apparent digestibility in the proteases treated groups were significantly higher than those in the CT group $( P { < } 0 . 0 5 )$ . The DM apparent digestibility and OM apparent digestibility in group I and group III were significantly higher than those in group I $( P { < } 0 . 0 5 )$ . The crude protein (CP) apparent digestibility in group I was significantly higher than that in the CT group, group I and group III $( P { < } 0 . 0 5 )$ . 4) Compared with the CT group, the serum urea nitrogen content in group I was significantly decreased $( P { < } 0 . 0 5 )$ , while there were no significant differences among experimental groups( $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ .The results indicate that acid protease has a better effect in improving the growth performance and nutrient apparent digestibility of Suhuai weaned piglets,while neutral protease and alkaline protease are better in reducing nutritional diarrhea.
+
+Key words: protease; weaned piglets; growth performance; nutrient apparent digestibility; serum biochemical indices

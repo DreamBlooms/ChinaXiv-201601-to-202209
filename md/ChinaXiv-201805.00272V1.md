@@ -1,0 +1,237 @@
+# 一种基于支持向量机的跨站脚本漏洞检测技术\*
+
+黄娜娜a,b，万良a,bt
+
+(贵州大学 a.计算机科学与技术学院;b.计算机科学理论研究所，贵阳 550025)
+
+摘要：跨站脚本是一种常见的针对Web应用程序安全的漏洞攻击方式。恶意用户利用漏洞将恶意脚本注入网页之中，当用户浏览该网页时，便会触发脚本，导致攻击行为产生。为此，针对各种变形跨站脚本攻击难以检测问题，对一种基于正则表达式和支持向量机的递归特征消去算法（RE-SVM-RFE）进行了研究。首先采用正则表达式匹配算法，为训练集选择有代表性的特征，即对数据预处理；再利用RE-SVM-RFE 特征选择算法选择出最优特征，再对具有攻击性的关键词进行特征排序；最后通过总结特征关键字的出现频率，发现频率越高漏洞存在可能性越大。实验结果表明，数据经过RE-SVM-RFE递归特征消去算法选择之后的SVM特征，预测的准确率更高，敏感度和特异度也更好，该算法能够有效地检测出跨站脚本漏洞。
+
+关键词：支持向量机；跨站脚本攻击；特征向量；Web 安全；特征选择；RE-SVM-RFE算法中图分类号：TP309.02 doi:10.3969/j.issn.1001-3695.2017.08.0712
+
+# Cross site scripting vulnerabilities detection based on support vector machine (SVM) technology
+
+Huang Nana b, Wang Lianga bt (a.CollegeofComputerSience&Technology,b.InstituteofomputercienceGuizhouUniversityGuang05,Cina)
+
+Abstract: Cross-sitescripting isacommonwayofexploiting Webapplicationsecurityvulnerabilities.Amalicioususerexploits a vulnerabilityto injectamaliciousscriptintoawebpage,and whentheuserbrowsesthepage,it riggrs thescript,causing theattack tooccur.This paper studied arecursivefeature eliminationalgorithm basedonregular expressionand supportvector machine(RE-SVM-RFE）for each kindof deformation.Firstly，theregular expresion matching algorithm,to selecta representative training setofcharacteristics,i.e.,the data preprocessing;reuseRE-SVM-RFEfeature selection algorithmto selectheoptialcharacteristics,andthenteeywordfeatureofensiesort.Finally,itsummarzedthefrequncyoocnce ofthe keywordfeature,found thatthehigherthe frequencythe greater thelikelihoodloopholes.Experimentalresults showthat, afterthe dataRE-SVM-RFErecursivefeature eliminationafterSVMfeature selectionalgorithm,higheraccuracyofprediction, and better sensitivity and specificity, the algorithm can effectively detect XSS.
+
+Key Words: SVM; XSS; feature vectors; Web security; feature selection; RE-SVM-REF algorithm
+
+# 0 引言
+
+Web 商业化以来，Web发展一直在不断增长，Web以其自身的开放性和易用性受到越来越多的开发者和用户关注。然而，正在Web为人类生活提供便捷时，其应用程序中所包含的各类漏洞[I]也随之成为Web上最为严重的安全隐患之一。跨站脚本(cross site scripting，XSS)[2]是数据通过不受信任的来源（通常是Web请求)进入Web应用程序，数据被包含在动态内容中，发送到Web用户，而恶意脚本内容不会被验证。当最终用户浏览网页时，可能会触发未被验证的恶意脚本代码，从而攻击者会发送私有数据（如Cookie或其他会话信息)，将受害者重定向到由攻击者控制的Web内容。
+
+关于跨站脚本的检测最早可追溯到上个世纪，随后关于该研究的研究者们提出很多方法。最早对跨站脚本进行测试的方法是渗透测试[3]，在渗透测试进行的过程中，把渗透测试的脆弱性分析和动态分析相结合，有效利用扩展的污染模式模型来检测 XSS 的存在情况。文献[4]提出了基于行为对比方法来进行漏洞的判定，通过系统在普通状态下和受攻击状态下的行为对比来判断系统中的漏洞存在情况。文献[5]设计一个保护Web服务器的入侵检测工具，能够实时跟踪可疑主机，能检测出恶意的XSS，但是其通用性不强，模式匹配部署工具中只包含对ApacheWeb这一服务器的检测。文献[6]提出一种使用软件故障注入技术来检测自动Web漏洞扫描程序的方法，此方法通过最常见的软件故障类型注入到Web应用程序代码中，然后由扫描程序进行检查，检查出存在跨站脚本攻击漏洞，但是此方法的漏洞检测覆盖率低，误报率较高。文献[7]提出一种2阶段的静态检测方法来寻找并移除服务器端代码中的XSS漏洞，该方法在第1阶段采用污点分析方法来跟踪用户输入，确定潜在的脆弱点，第2阶段采用模式匹配和数据依赖性分析找出源码中存在漏洞的位置并对漏洞进行移除，该方法对服务端代码分析检测效果较好，但由于没有实现对客户端代码的检测，因此无法检测出DOM的XSS。文献[8提出一种使用最优攻击向量的XSS 漏洞检测方法来检测Web应用程序中的XSS漏洞，此方法自动生成矢量图，优化模型的攻击向量计数器，但是该方法需要进行长时间的学习。
+
+已经有许多方法用来检测XSS攻击了，但是由于都有各自的缺点，目前很少有研究者借助支持向量机的分类器[9,10]来检测XSS 漏洞。因此，本文在借助支持向量机分类器检测的基础上，研究出一种把正则表达式匹配算法和支持向量机的特征消除选择算法进行结合的特征重组算法(RegEx andrecursivefeature elimination based on support vector machine,RE-SVM-RFE)，针对跨站脚本漏洞进行检测。实验首先要收集正常页面和存在XSS 漏洞的页面Web 请求数据集，同时分别对两类页面中的URL、JavaScript代码以及Post请求等进行特征提取建立样本数据集，通过上面步骤中收集的载荷数据，然后利用正则表达式匹配算法对原始样本数据集进行预处理，提取出最优的特征，随后进行特征的组合筛选，形成特征数据集，利用SVM算法的模型训练传递到分类器中进行结果检测，最终给出检测结果。XSS攻击检测流程如图1所示。
+
+![](images/be7064978e6c04bee53ff529a492deccc0ef2b8dd251a33bd179465ef704be2e.jpg)  
+图1 XSS 攻击检测流程
+
+函数能将两类样本完全分开，就称为线性可分，否则为非线性可分。最佳超平面如图2所示。
+
+![](images/98e1b7af792fa08fe64aa4b708ad8170dcd8d87bba1a1a1df8784ebad443a6fe.jpg)  
+图2支持向量机最佳超平面
+
+# 2 RE-SVM-RFE特征选择算法
+
+特征优选的目的是将最有价值的、彼此相关性不强的检测特征保留下来。对于两类分类问题，意味着两类样本之间的平均相似性更小，具有更大的可分性。因此，可以定义类别可分性度量用于表示两类样本的差异。类别可分性越大，则两类样本间的相似性越小，越容易分开。特征选择和提取就是从候选特征集中选出或提取与任务最相关的特征集。特征选择的基本框架如图3所示。
+
+# 1 支持向量机基本原理
+
+![](images/31ab120bd37ec4b37d868fa22ece5ea2995f30b45d53e8ed2bcb6f2dcdb91956.jpg)  
+图3特征选择的基本框架
+
+SVM的原理是寻找一个满足分类要求的最优分类超平面[11]，使得该超平面在保证分类精度的同时，能够使超平面两侧的空白区域最大化。理论上，支持向量机能够实现对线性可分数据的最优分类。SVM是从线性可分情况下的最佳分类超平面发展而来，其基本思想可用如图2所示的情况来解释。现假设给定两类数据分类的训练样本集为$D = \{ ( x _ { i } , y _ { 1 } ) , ( x _ { 2 } , y _ { 2 } ) , \cdots , ( x _ { n } , y _ { n } ) \}$ ， $y _ { i } \in \{ - 1 , + 1 \}$ ，其中 $x _ { i }$ 是原始样本的特征向量， $y _ { _ i }$ 是相关联的类标号；在二分类中，每个 $y _ { _ i }$ （即y∈{-l,+1}）取二值之一，表示是否属于这个类。如果有线性
+
+# 2.1正则表达式匹配算法
+
+正则表达式以其强大和灵活的表达能力，已成为描述新一代规则的主要工具。使用正则表达式来描述攻击的特征，比传统的提取精确字符串方法更准确、方便和有效。XSS攻击与程序中的字符串变量的操作有关，通过注入脚本代码带来安全隐患。本文为了能够做到分析数据集中字符串变量的取值集合，字符串变量在数据集中经过一系列的定义、赋值以及组合操作，使用正则表达式匹配算法来表示其在不同数据集中的取值，这使得正则表达式匹配算法成为属性选择的最好算法。
+
+# 2.2 RE-SVM-RFE算法
+
+RE-SVM-RFE算法的提出是根据支持向量机递归特征消除算法[12]的思想，在特征筛选过程中进行了一些改进。在 RE-SVM-RFE算法处理数据集前，首先利用正则表达式匹配算法从数据集中挑选出有代表性的特征数据，本实验从数据集中挑选出了46个有代表性的特征；然后通过迭代训练选出一些最优特征。对选出的良好特征进行分组测试，利用递归特征消除算法计算出组合特征权重[13]值，通过每次迭代都能对组合特征的权重值进行排序，筛选出权重值最小的进行删除。在开始步骤中特征集合是比较庞大的，但是随着算法的进行，每次的迭代都会移除一个组合特征，本实验通过RE-SVM-RFE 算法迭代后，最终挑选出了6个最优的特征。对挑选出的6个最优特征，进行重新组合来测试RE-SVM-RFE算法与SVM-RFE算法的差别。
+
+# 2.2.1RE-SVM-RFE算法的迭代过程
+
+在RE-SVM-RFE 算法的执行过程中，每次都需要挑选出一个权重最小值，然后将其移除。在算法每删除一个权重最小值时都有三个执行步骤，具体内容如下：
+
+a)用样本数据集训练分类器，得到的特征数据要与分类器的特征相关（如优化权值ω)；
+
+b)依据前面正则表达式匹配算法挑选出的特征来进行筛选同时计算挑选出的46 特征的属性值（如代价函数 $D J ( h ) ~ )$
+
+c)删除数据集中挑选出的最小权重，即最小排序标准的特征。
+
+在最优特征的选择过程中，每选择出一个最优特征，都是要进行一定的迭代过程，直到数据集中只留下一个特征变量时方可结束，最终选择出的结果是获得了一列按照特征重要性排列的特征排序列表，本实验中，最终选出6个最优特征。下面介绍SVM的代价函数。
+
+对于线性 $\mathrm { S V M }$ ，消去第 $h$ 个特征的代价函数：
+
+$$
+D J ( h ) = ( \omega _ { _ h } ) ^ { 2 }
+$$
+
+对于非线性SVM：
+
+$$
+D J ( h ) = \frac { 1 } { 2 } \alpha ^ { \tau } H \alpha - \frac { 1 } { 2 } \alpha ^ { \tau } H ( - h ) \alpha
+$$
+
+$H$ 是一个矩阵，其元素为 $y _ { i } y _ { , i } K ( X _ { i } , X _ { j } ) , H ( - h )$ 为消去第$h$ 个特征后的矩阵。其中 $K$ 表示核函数，核函数测量实例 $X _ { i }$ 与$X _ { _ j }$ 之间的相似性。
+
+# 2.2.2RE-SVM-RFE算法过程
+
+RE-SVM-RFE算法的整体过程如下所示：
+
+输入：  
+训练样本矩阵：X。=[X,X,…,X,…X]  
+类别标签：y=[y,y,…,y,…,y]  
+初始化：  
+当前特征子集向量： $\pmb { S } = [ 1 , 2 , \cdots , k ]$   
+特征排序向量： $\pmb { r } = \left[ \begin{array} { r l } \end{array} \right]$   
+特征排序：迭代过程直到：s=[]  
+获取当前新的训练样本矩阵：X=X(;,s)  
+给定参数后训练分类器：α=SVM-train(X,y)计算权值向量： $W { = } \sum _ { i } \alpha _ { i } y _ { i } X _ { i }$   
+计算排序标准：cn=DJ(h)  
+寻找特征排序得分值最小项：f=arg min(c)更新特征排序向量：r=[s(f),r]  
+消去得分最小特征：s=s(l:f-1,f+1:length(s)输出：特征排序列表 $r$ 。
+
+经过上面RE-SVM-RFE 算法的筛选过程最终得到最优的特征排序表。排序在前面的单个特征不一定能使得SVM分类器[14有很好的分类性能，需要将多个特征进行组合，才能使得SVM分类器有最优的分类性能，要想得到较好的分类结果需先对SVM模型进行训练。首先利用挑选出来的特征排序表定义一定数量的嵌套的特征子集 $F _ { 1 } \subset F _ { 2 } \subset \cdots \subset F _ { n }$ 来训练 SVM 模型[15]，然后用 SVM 模型来预测正确率来准确评估这些特征子集的优劣，最终能够获得最优的特征子集。挑选结果说明，经过RE-SVM-RFE算法选择后，能挑选出最优的特征。
+
+在用RE-SVM-RFE算法选择最优特征子集时，本文用10折交叉验证算法[16]，用固定的参数维数来分配训练集和测试集。在特征排序表训练过程中使用SVM参数寻优方法进行参数寻优。具体详细的特征选择框架如所图4所示。
+
+![](images/2945c004c10a5d36488bc6e66462c6e994f82c6618001eebcf62d12a63782a6c.jpg)  
+图4特征选择框架
+
+# 2.3RE-SVM-RFE算法的数据处理结果
+
+从超文本传输协议请求数据包中提取的载荷数据都是非结构化的，需要进行结构化处理，从原始特征中挑选出数量为 $n$ 的一组最优特征，在不降低分类准确率的前提下降低原始特征的空间维数，将原始载荷数据转换为固定维数的特征向量，作为XSS攻击检测算法的输入数据。
+
+通过分析漏洞验证阶段、漏洞利用阶段及各种绕过情景下的 XSS攻击语句的各种形式，采用人工挑选、数学统计以及RE-SVM-RFE算法相结合的方式对原始载荷数据进行特征选择，经过不断的迭代，再从选择的特征中进行分组测试，最终选择出最优的6个特征：各种截断、闭合等特殊字符频率（特殊字符个数/字符数）、大写字母字符频率；攻击特征关键字频率、小写字母字符频率、数字字符个数频率和空格字符频率。特征的汇总和具体含义如表1所示。
+
+表1特征名称与含义  
+
+<html><body><table><tr><td>特征名称</td><td>特征含义</td></tr><tr><td>攻击特征关键字</td><td>相应类型攻击的特征关键字</td></tr><tr><td>特殊字符频率</td><td>各种闭合、截断等特殊字符</td></tr><tr><td>大字字母字符频率</td><td>大字字母(A-Z)</td></tr><tr><td>小写字母字符频率</td><td>小字字母(a-z)</td></tr><tr><td>数字字符频率</td><td>数字0-9</td></tr><tr><td>空格字符频率</td><td>空格字符频率</td></tr></table></body></html>
+
+其中，XSS 攻击语句中常见的攻击特征关键字有 script、java、iframe、alert、img、style、prompt、location、hash、src、href、eval、XMLHttpRequest、ActiveXobject、 $@ .$ improt；常见的特殊字符有：<、>、"、 $0 \%$ 、（、）、！、#、&、: $\it { \Omega } = \sum \it { \Omega } 2$ 、 $@$ 、[}$1 , 1 , \{ 1 , \} , \{ 1 , \} , \{ 1 , \} , \{ 1 , \} , \{ 1 , \} , \{ 1 , \} , \{ 1 , \} , \{ 1 , \}$
+
+由于实验数据包含两类样本，为了对数据集进一步细致的分析和理解，筛选出具有显著区分能力的潜在特征。即从46个特征中挑选出6个最优特征进行分类组合，再用SVM-RFE和RE-SVM-RFE的10折10倍交叉验证方法的进行平均分类准确率和标准偏差计算。结果对比如表2所示。
+
+表2两种算法的准确率对比  
+
+<html><body><table><tr><td>SVM-RFE/%</td><td>RE-SVM-RFE /%</td></tr><tr><td>特征1vs 特征2 77.96 ± 3.29</td><td>83.69 ± 3.07</td></tr><tr><td>特征2vs 特征3 78.82 ± 3.67</td><td>78.82 ± 3.19</td></tr><tr><td>特征3vs 特征4 78.82 ± 4.48</td><td>86.18± 2.78</td></tr><tr><td>特征3vs 特征4vs特征5 72.00 ± 4.15</td><td>78.56 ± 2.88</td></tr></table></body></html>
+
+从表2中可以看出，无论从平均准确率还是标准偏差上RE-SVM-RFE的结果均好于SVM-RFE。在特征1vs 特征2、特征3vs 特征4和特征3vs 特征4vs 特征5三组分类问题上，RE-SVM-RFE的分类准确率比SVM-RFE分别高 $5 . 7 3 \%$ 、 $7 . 3 6 \%$ 和$6 . 5 6 \%$ 。在特征2vs 特征3分类问题上，虽然两者的分类准确率相同，但RE-SVM-RFE的标准偏差明显小于SVM-RFE，即RE-SVM-RFE算法得到的结果更稳定，如表3所示。
+
+表3敏感度和特异度的比较  
+
+<html><body><table><tr><td></td><td>SVM-RFE</td><td>RE-SVM-RFE</td><td>SVM-RFE</td><td>RE-SVM-RFE</td></tr><tr><td>1组</td><td>Sensibility(%)</td><td>Sensibility(%)</td><td>Specificity(%)</td><td>Specificity(%)</td></tr><tr><td></td><td>75.90± 4.63</td><td>81.53±5.83</td><td>76.97± 5.02</td><td>85.00±3.92</td></tr><tr><td>2组</td><td>78.09±3.29</td><td>79.05±3.01</td><td>79.87 ± 5.94</td><td>82.87 ± 4.03</td></tr><tr><td>3组</td><td>76.87 ± 5.98</td><td>84.25± 5.46</td><td>80.23±5.63</td><td>88.63±5.09</td></tr><tr><td>4组</td><td>76.96± 3.09</td><td>73.00±3.85</td><td>76.06± 3.19</td><td>79.56± 2.68</td></tr></table></body></html>
+
+同时，为了弥补只考虑准确率的不足，对两类问题，敏感度（sensitivity）和特异度（specificity）也是一种常用的度量指标。表3中的1组、2组、3组和4组分别代表特征1vs特征2、特征2vs 特征3、特征3vs特征4和特征4vs 特征5这4组。表3中给出了两种算法在敏感度和差异度上的比较。可以看出，RE-SVM-RFE算法的结果要明显好于SVM-RFE的结果。
+
+算法执行结果说明，RE-SVM-RFE算法选出了区分能力更为显著的特征，即选出了对类别区分能力很强的特征，XSS攻击样本数据中攻击特征关键字确实能够影响SVM模型的建立，从而对特征评价产生影响，因此，在SVM-RFE 特征选择之前通过正则表达式进行数据预处理是非常有意义的。
+
+# 3 实验与结果分析
+
+# 3.1实验准备
+
+本文实验使用数据集均来自互联网，但是有两个不同的方面。正常样本数据集是通过分析Web服务器日志提取良性访问资源的请求得到的，跨站脚本攻击样本数据集是通过分析漏洞提交网站 XSSED[17]、HA.CKKERS[18]与 exploit-db.[19]得到的。本实验所用数据集共有两部分组成：正常的载荷请求样本集和跨站脚本漏洞样本集。在之前的准备工作中，共收集1378 条样本数据，样本集如表4所示。
+
+表4样本集分类  
+
+<html><body><table><tr><td>请求类型</td><td>样本数量</td></tr><tr><td>XSS请求</td><td>686</td></tr><tr><td>HTTP正常请求</td><td>692</td></tr></table></body></html>
+
+本实验用到的主机配置为为CPUIntelI5，主频 $2 . 0 \mathrm { G B }$ ，内存8GB，操作系统是Win1064位。对于现有的机器识别方法，采用Weka实验平台进行测试，通过SVM分类器来识别跨站脚本攻击。本文提出的算法则是通过MicrosoftVisualStudio 2015与MicrosoftSQLServer2012编程进行数据集的特征预处理，首先对收集到的原始数据进行分类概括总结出了46个特征，然后利用正则表达式匹配算法进行数据的预处理，再采用本文提出的RE-SVM-RFE 特征选择算法来匹配出最好的特征。从46 个特征中找出最具代表性的6个特征作为最终的验证数据集。最佳特征应具有稳定性、可辨别性和相对独立性等特征，其中稳定性表示同一类别的特征值就相近、可辨别性表示不同类别的特征取值应具有明显差异、相对独立性表示各个不同特征之间关联性不强[20]。本实验中提取出的6个最优特征能够准确的反映Web请求载荷数据的本质特征。表5、6给出了提取后的最优样本特征值。每个特征所表示的含义为：特征1表示特殊字符频率、特征2表示数字个数频率、特征3表示小写字母个数频率、特征4表示大写字母字符个数频率、特征5表示不同类型的攻击关键词特征字符频率和特征6表示载荷数据中是否出现相应类型攻击的特征关键字类别标号。最后选择出最优的各类样本集特征如表5、6所示。
+
+从表5、6所列的正常样本和跨站脚本攻击样本中，可以看出同一类别的特征值取值相近，不同特征的特征值取值相差较大，这说明提取的数据特征具有强的可辨别性、高的稳定性，然而不同的特征之间没有相关性，说明数据特征具有很好的独立性。
+
+表5正常样本特征  
+
+<html><body><table><tr><td>特征1</td><td>特征2</td><td>特征3</td><td>特征4</td><td>特征5</td><td>特征6</td></tr><tr><td>0.1389</td><td>0.2083</td><td>0.5694</td><td>0.0556</td><td>0.0000</td><td>0</td></tr><tr><td>0.2400</td><td>0.0000</td><td>0.7600</td><td>0.0000</td><td>0.0000</td><td>0</td></tr><tr><td>0.2857</td><td>0.0000</td><td>0.7143</td><td>0.0000</td><td>0.0000</td><td>0</td></tr><tr><td>0.3182</td><td>0.0000</td><td>0.6818</td><td>0.0000</td><td>0.0000</td><td>0</td></tr><tr><td>0.1719</td><td>0.4219</td><td>0.3906</td><td>0.0000</td><td>0.0000</td><td>0</td></tr><tr><td></td><td>表6</td><td></td><td>XSS 攻击样本特征</td><td></td><td></td></tr><tr><td>特征1</td><td>特征2</td><td>特征3</td><td>特征4</td><td>特征5</td><td>特征6</td></tr><tr><td>0.2045</td><td>0.0114</td><td>0.7614</td><td>0.0000</td><td>0.0341</td><td>1</td></tr><tr><td>0.2119</td><td>0.0593</td><td>0.6695</td><td>0.0508</td><td>0.0254</td><td>1</td></tr><tr><td>0.1686</td><td>0.1065</td><td>0.6391</td><td>0.0680</td><td>0.0118</td><td>1</td></tr><tr><td>0.1684</td><td>0.1053</td><td>0.6737</td><td>0.0421</td><td>0.0316</td><td>1</td></tr><tr><td>0.2000</td><td>0.1517</td><td>0.6276</td><td>0.0207</td><td>0.0138</td><td>1</td></tr></table></body></html>
+
+# 3.2结果分析
+
+为了验证该算法的正确性，需要用到一些评估指标，如混淆矩阵、查准率、查全率、ROC 曲线和F-measure值。混淆矩阵中所有参数及参数意义为：真正例（true positive，TP），表示实际为正类被预测为正类样本的个数；假正例（false positive，FP)，表示实际为负类被测为正类的样本个数；真反例（truenegative，TN)，表示实际为负类被预测为负类的样本个数；假反例（falsenegative，FN)，表示实际为正类被预测为负类的样例个数，最终样本总数 ${ \bf \Gamma } = \mathrm { T P + F P + T N + F N }$ 。分类结果的混淆矩阵如表7所示。
+
+<html><body><table><tr><td rowspan="2">真实情况</td><td colspan="2">预测结果</td></tr><tr><td>正例</td><td>反例</td></tr><tr><td>正例</td><td>TP（真正例)</td><td>FN(假反例)</td></tr><tr><td>反例</td><td>FP (假正例)</td><td>TN(真反例)</td></tr></table></body></html>
+
+表7分类结果混淆矩阵  
+
+<html><body><table><tr><td rowspan="2">真实情况</td><td colspan="2">预测结果</td></tr><tr><td>正例</td><td>反例</td></tr><tr><td>正例</td><td>632</td><td>64</td></tr><tr><td>反例</td><td>32</td><td>660</td></tr></table></body></html>
+
+本文提出的算法最终得到的混淆矩阵数据如表8所示。
+
+从表8中可以看到主对角线的检测出来的数据远远大于副对角线上的数据，这说明本文所用方法得到的准确率较高。
+
+查准率（precision）和查全率（recall）一般是不会被孤立的进行讨论的，但是有时候为了检测的方便也会单独测试，本实验验证算法则是单独测试的，查准率P和查全率R分别表示如下：
+
+$$
+P = { \frac { T P } { T P + F P } }
+$$
+
+$$
+P = { \frac { T P } { T P + F P } }
+$$
+
+在检测跨站脚本攻击实验中，完美的查准率值应为1.0意味着通过检测的每个结果都是相关的，完美的查全率值也为1.0意味着所有存在漏洞的请求数据都被检测出来，本文所提出算法的测试结果如表9所示，检测结果明显优于其他算法。
+
+ROC 曲线[21,22]，是用来衡量学习训练器泛化性能的工具,ROC 曲线是由学习训练器计算出的两个重要的特征量决定。ROC曲线是用坐标轴来表示的，它的横坐标表示假正例率，它的纵坐标表示真正例率，两者表示如下：
+
+$$
+T P R = \frac { T P } { T P + F N }
+$$
+
+$$
+F P R = \frac { F P } { T N + F P }
+$$
+
+ROC曲线描述的是真正例率和假正例率的综合指标。ROC曲线下与坐标轴围成的面积值（ROCarea）越靠近1，表明对该类数据的检测准确率越高，表9中ROCarea值表现最好的则是本文算法，说明本文算法对跨站脚本攻击有较高的检测率。
+
+在前人的研究中，一般采用设定固定阈值的方法进行特征选择，但是由于阈值的设置缺乏客观性很难实现特征子集的最优选取[23]。本文利用递归反向特征剔除算法每次从特征排序集R 中删除一个当前CS值最小的特征，再利用SVM算法对选取出来的特征子集进行评估选值。每次迭代中，采用SVM的F-measure值作为当前被选特征子集的评估标准。F-measure是用来度量测试精度，通常被定义为准确率和查全率的加权调和平均值。F-measure 的计算公式[24] 如下：
+
+$$
+F - m e a s u r e = \frac { 2 \times \mathrm { P r } e c i s o n \times \mathrm { R e } c a l l } { \mathrm { P r } e c i s o n + \mathrm { R e } c a l l }
+$$
+
+如表9所示，F-measure值表现最好的则支持向量机分类器，说明本文算法对XSS攻击有较高的识别率。
+
+表8本文算法分类结果混淆矩阵  
+表9各分类器检测结果数据  
+
+<html><body><table><tr><td rowspan="2">Classifier</td><td rowspan="2">Class</td><td rowspan="2">TP Rate</td><td rowspan="2">FP Rate</td><td rowspan="2">Precision</td><td rowspan="2">Recall</td><td rowspan="2">F-</td><td rowspan="2">ROC Area</td></tr><tr><td>Measure</td></tr><tr><td>REB</td><td>+1</td><td>0.905</td><td>0.058</td><td>0.939</td><td>0.905</td><td>0.922</td><td>0.955</td></tr><tr><td>Tree</td><td>-1</td><td>0.942</td><td>0.095</td><td>0.909</td><td>0.942</td><td>0.925</td><td>0.955</td></tr><tr><td>Naive</td><td>+1</td><td>0.792</td><td>0.066</td><td>0.922</td><td>0.792</td><td>0.852</td><td>0.916</td></tr><tr><td>Bayes</td><td>-1</td><td>0.934</td><td>0.208</td><td>0.819</td><td>0.934</td><td>0.872</td><td>0.916</td></tr><tr><td rowspan="2">J48</td><td>+1</td><td>0.794</td><td>0.081</td><td>0.907</td><td>0.794</td><td>0.847</td><td>0.857</td></tr><tr><td>-1</td><td>0.919</td><td>0.206</td><td>0.819</td><td>0.919</td><td>0.866</td><td>0.857</td></tr><tr><td rowspan="2">Logistic</td><td>+1</td><td>0.847</td><td>0.053</td><td>0.940</td><td>0.847</td><td>0.891</td><td>0.945</td></tr><tr><td>-1</td><td>0.947</td><td>0.153</td><td>0.862</td><td>0.947</td><td>0.902</td><td>0.962</td></tr><tr><td>LogitBoo</td><td>+1</td><td>0.847</td><td>0.053</td><td>0.940</td><td>0.847</td><td>0.891</td><td>0.962</td></tr><tr><td>st</td><td>-1</td><td>0.947</td><td>0.153</td><td>0.862</td><td>0.947</td><td>0.902</td><td>0.962</td></tr><tr><td>本文</td><td>+1</td><td>0.907</td><td>0.046</td><td>0.951</td><td>0.907</td><td>0.928</td><td>0.969</td></tr><tr><td>方法</td><td>-1</td><td>0.954</td><td>0.093</td><td>0.912</td><td>0.954</td><td>0.932</td><td>0.956</td></tr></table></body></html>
+
+不同的分类器消耗时间如表10所示。
+
+表10各分类器耗费时间的具体数据  
+
+<html><body><table><tr><td>Classifier</td><td>Train Time(S)</td><td>Test Time(S)</td><td>Total Time(S)</td></tr><tr><td>REBTree</td><td>0.05</td><td>0.01</td><td>0.06</td></tr><tr><td>NaiveBayes</td><td>0.03</td><td>0.02</td><td>0.05</td></tr><tr><td>J48</td><td>0.07</td><td>0.04</td><td>0.11</td></tr><tr><td>Logistic</td><td>0.07</td><td>0.05</td><td>0.12</td></tr><tr><td>LogitBoost</td><td>0.06</td><td>0.04</td><td>0.10</td></tr><tr><td>本文方法</td><td>0.03</td><td>0.01</td><td>0.04</td></tr></table></body></html>
+
+表10中J48分类器训练与测试总耗费时间为 $0 . 1 1 \mathrm { ~ s ~ }$ ，但其准确率为 $8 5 . 7 0 9 \ 3 \%$ ，NaiveBayes分类器训练与测试总耗费时间为 $0 . 0 5 \mathrm { ~ s ~ }$ ，准确率为 $8 6 . 2 8 4 ~ 5 \%$ ，本文算法训练所用时间为$0 . 0 4 \mathrm { s }$ ，仅次于NaiveBayes 的0.01s,但识别准确率比NaiveBayes高 $6 . 7 9 4 4 \%$ 。训练所耗时间还取决于算法优化，SVM算法优化程度较好，运行所耗费时间短，RE-SVM-RFE算法的时间复杂度可以再优化。
+
+# 4 结束语
+
+本文的前期工作量比较大，主要工作要分析跨站脚本漏洞的一些主要特征，了解漏洞产生的原因；然后分析正常用户的输入与攻击者输入的攻击语句之间的不同，要能正确区分出正常请求与跨站脚本攻击请求后；最后收集整理数据集对跨站脚本攻击进行检测。本文基于支持向量机模型训练的原理，提出了一种基于正则表达式匹配算法和支持向量机的特征消除选择算法，通过正则表达式匹配算法对数据集进行预处理，用核函数对预处理后的数据进一步优化，再依据序列最小优化分类器来对跨站脚本漏洞进行检测，最后利用SVM模型进行验证检测结果。实验结果表明，本文提出的特征选择消除算法进行分析对比得出对未知的跨站脚本攻击有较好的检测效率。接下来的任务主要还是对数据集的特征进行再优化。本文研究内容主要是建立在实验的基础上，在实际检测应用中还需加以改进和不断的完善。
+
+# 参考文献：
+
+[1]Garg A,Singh S.A review on Web application security vulnerabilities [J]. Internation Journal,2013,3(1): 222-226.   
+[2]Antunes N, Vieira M.Defending against Web application vnlnerabilities [J]. Computer,2012,45(2): 66-72.   
+[3]Melbourne J,Jorm D.Penetration testing for Web applications [C]// Proc of IEEE Symposium on Security and Privacy.2014:256-263.   
+[4]Huang Yaowen, Huang Shihkun,Lin T S P,et al. Web application security assessment by fault injection and behavior monitoring [Cl//Proc of the 12th International Conference on World WideWeb.2003:148-159.   
+[5]Almgren M,DebarH,Dacier M, et al.A lightweight tool for detecting Web server attacks [Cl//Proc ofNetword and Distributed Systems Security.2000: 157-170. security risks [R]. New York: The Open Web Application Security Project, 2013.   
+[7] Shar L K,Tan HB K. Auto-mated removal of cross site scripting vulnerabilities in Web application [J]. Infromation and Software Technolohy, 2012, 54 (5): 467-478.   
+[8]Guo X,Jin S,Zhang Y.XSS vulnerability detection using optimized attack vector repertory [Cl/ Proc of IEEE International Conference on CyberEnabled Distributed Computing and Knowledge Discovery. 2015: 29-36.   
+[9]Vishnu B A, Jevitha K P.Prediction of cross-site scripting attack using machine learning algorithms [C]// Proc of International Conference on Interdisciplinary Advances in Applied Computing. New York: ACM Press, 2014.   
+[10] Keerthi S S,Shevade SK, Bhatacharyya C,et al. Improvements toplatt's SMO algorithm for SVM classifier design [J]. Neural Computation,2001, 13 (3): 637-649.   
+[11] Joachims T.Text categorization with support vector machines: learning with many relevant features [C]// Proc of Machine Learning.1998: 137-142.   
+[12] Zhou X,Tuck DP.MSVM-RFE:extensions of SVM-RFE for multiclass gene selection on DNA microarray data [J].Bioinformatics,2007,23 (9): 1106-1114.   
+[13] Plat J. Sequential minimal optimization: a fast algorithm for training support vector machines [Cl//Advances in Kernel Methods-Support Vector Learning. 1998.   
+[14] Hearst MA, Dumais S T,Osuna E,et al. Support vector machines [J]. IEEE Intelligent Systems and Their Applications,1998,13 (4): 18-28.   
+[15] Chen Y W,Lin C J.Combining SVMs with various feature selection strategies [J]. Studies inFuzziness& Soft Computing,2005,207:315-324.   
+[16] Powers D M. Evaluation: from precision,recall and F-measure to ROC, informedness, markednessand correlation[J]. Journal ofMachine Learning Technologies,2011,2 (1): 37-63.   
+[17] XSSED [OL]. (2017-06). http://xssed.com.   
+[18] XSS (cross site scripting) cheat sheet [EB/OL].(2017-06).http://ha. ckers. org/xssAttacks. xml.   
+[19]exploit-dbEB/OL].(2017-06).htp://www.exploit-b.co/webaps.   
+[20]甘俊英，张有为．一种基于奇异值特征的神经网络人脸识别新途径[J]. 电子学报,2004,32(1):170-173.   
+[21] Han J,Pei J, Kamber M,et al. Data mining: concepts and techniques [M]. 2011.   
+[22] Witten IH,Frank E, HallMA,et al. Data mining: practical machine learning tools and techniques [M]. 2016.   
+[23]段宏湘，张秋余，张墨逸，等．基于归一化互信息的 FCBF 特征选择 算法[J].华中科技大学学报：自然科学版,2017,45(1):52-56.   
+[24] Kim S,D'Haro LF,Banchs R E,et al. The fourth dialog state tracking challenge [M]//Dialogues with Social Robots.2017: 435-449.

@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "Impact of pickup ions on the shock front nonstationarity and energy dissipation of the heliospheric termination shock: Two-dimensional full particle simulations and comparison with Voyager 2 observations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhongwei Yang1, Ying D. Liu $^ 1$ , John D. Richardson $\\cdot ^ { 2 }$ ， Quanming Lu $^ 3$ , Can Huang³,and Rui Wang1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transition between the supersonic solar wind and the subsonic heliosheath, the termination shock (TS)，was observed by Voyager 2(V2) on 2007 August 31-September 1 at a distance of 84 AU from the Sun. The data reveal multiple crossings of a complex, quasi-perpendicular supercritical shock. These experimental data are a starting point for a more sophisticated analysis that includes computer modeling of a shock in the presence of pickup ions (PUIs). Here, for the first time we present two-dimensional (2-D) particle-in-cell (PIC) simulations of the TS including PUIs self-consistently. We also report the ion velocity distribution across the TS using the Faraday cup data from V2. A relatively complete plasma and magnetic field data set from V2 gives us the opportunity to do a full comparison between the experimental data and PIC simulation results. Our results show that: (1) The nonstationarity of the shock front is mainly caused by the ripples and it can exists well even at a high percentage of PUIs (PUI% $\\mathit { \\Pi } _ { 0 } ^ { \\prime }$ ). The width of the ripples decreases with the increasing PUI% because the enhanced PUI foot makes the gyro-radius of reflected solar wind ions (SWIs) become smaller. (2） PUIs play a key role in the energy dissipation of the TS, and most of the incident ion dynamic energy is transferred to the thermal energy of PUIs. (3) The PIC simulation indicates for the upstream parameters chosen for V2 conditions that the density of PUIs is about 25% and the PUIs gain the larger fraction (approximately 86.6%） on average of the downstream thermal pressure, consistent with V2 observations near the shock. The downstream pressure of PUIs can very in a range from about 61.9% to $9 6 . 3 \\%$ in the direction perpendicular to the shock normal due to the impact of shock front ripples (i.e., a 2-D effect). (4) The simulated composite heliosheath ion distribution function is a superposition of a cold core formed by transmitted SWIs, the shoulders contributed by the hot reflected SWIs and directly transmitted PUIs,and the wings of the distribution dominated by the very hot reflected PUIs. It is similar to a previous theoretical heliosheath ion distribution function. (5） The V2 Faraday cups observed the cool core of the distribution, so we see only a tip of the iceberg. For the evolution of the cool core distribution function across the TS, the computed results agree reasonably well with the V2 experimental results. The relevance of the shock front ripples to the multiple crossings of TS observed by V2 is also discussed in this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subject headings: interplanetary medium - shock waves - plasmas - Sun: heliosphere ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The solar wind blows outward from the Sun and forms a bubble of solar material in the interstellar medium. Because the interstellar plasma confines the solar wind, it has to become subsonic before directly interacting with the interstellar plasma,and this transition Occurs at the heliospheric termination shock (TS) (Decker et al. 2O05; Richardson et al. 2008; Jokipii 2008; Burlaga et al. 2008)． Interstellar neutrals enter the heliosphere and are ionized by charge exchange with the solar wind ions (SWIs) (Vasyliunas & Siscoe 1976; Mobius et al. 1985; Lee & Ip 1987; Galeev & Sagdeev 1988). They are then picked up by the solar wind and are named pickup ions (PUIs). After these PUIs are convected to the TS, they are energized and a fraction of them become the anomalous cosmic rays (ACRs) due to diffusive shock acceleration (Axford et al. 1977; Bell 1978; Blandford 1978; Giacalone 2005； Zank et al. 2006; Fisk et al. 2006;Guo & Giacalone 2010). The TS is strongly influenced by the presence of PUIs (Liewer & Goldsten 1993; Gloeckler & Geiss 1998; Matsukiyo et al. 2Oo7), which makes the TS very different from planetary and interplanetary shocks inside the heliosphere (Lembege et al. 2004; Burgess et al. 2005; Goncharov et al. 2014). Of particular interest are the microstructure and the energy dissipation of the TS. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First, the number density of PUIs at the TS is relatively high ( $\\sim$ 25%) (Richardson et al. 2008;Wu et al. 2Oo9) and thus may greatly modify the microstructure of the shock front. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The TS was expected to be a boundary that is stable on a timescale of several days. The Voyager 2 (V2) plasma experiment observed a decrease in the solar wind speed commencing on about 2007 June 9, which culminated in several observations of TS crossings (named TS-2， TS-3, and TS-4) between 2007 August 30 and September 1 (Burlaga et al. 2008; Decker et al. 2008; Richardson et al. 2008; Stone et al. 2008). At least two TS crossings (TS-1 and TS-5) occurred when there were gaps in the telemetry. Observations of the magnetic field structure and dynamics of the TS were reported (Burlaga et al. 2Oo8). The TS location depends on the solar activity, and it moves inward and outward due to changes in the solar wind pressure during the rising or declining phase of the solar cycle. This motion is on a long time scale (several years; Whang & Burlaga 2Oo0). The underlying mechanisms of how the V2 spacecraft made so many crossings in such a short time (several hours), however, still remain unclear. It is believed that the multiple crossings imply motions of the TS, which would be caused by the shock front nonstationarity (Burlaga et al. 2008). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are many types of nonstationarity for a shock front, e.g., self-reformation (Lembege 1987; Hada et al. 2003; Chapman et al. 2005; Matsukiyo & Scholer 2014),self-exited ripples (Winske & Quest 1988; Savoini & Lembege 1994; Lembege et al. 2004; Burgess & Schc 2007)，pre-existing waves or turbulence (Giacalone 2005; Guo & Giacalone 2010)，which likely cause the unexpected motions of the TS. These nonstationarities are predicted and observed by numerical simulations and satellite observations,respectively. The term “selfreformation” describes a process that the particles reflected by the shock ramp accumulate ahead of the shock and form a shock foot， which then grows and becomes the new ramp. The new ramp starts to reflect incident particles，and the process repeats. Selfreformation of the shock front was predicted by both hybrid simulations (Helinger et al. 2002; Lembege et al. 2009; Yuan et al. 2009; Tiu 2011; Su et al. 2012) and PIC simulations (Lembege & Dawson 1987; Hada et al. 2003; Scholer et al. 2003; Nishimura et al. 2003; Lee et al. 2005a; Yang et al. 2009, 2013) for large Mach number and low $\\beta _ { i }$ shocks, where $\\beta _ { i }$ is the ratio of the thermal pressure of ions to the magnetic pressure. Even in the presence of PUIs,the self-reformation can still be retrieved in some conditions (Lee et al. 2005b; Chapman et al. 2005; Oka et al. 201l; Yang et al. 2012a; Matsukiyo & Scholer 2014). For the heliospheric TS, the values of $\\beta _ { i }$ and the Mach number are relatively low and high,respectively. The TS is generally believed to be in the supercritical regime and probably undergoes self-reformation (Burlaga et al. 2008). Self-excited ripples are usually found in 2-D hybrid simulations (Thomas1989;Burgess & Scholer 2007） and PIC simulations (Savoini & Lembege 1994; Lembege et al. 2009; Yang et al. 2012b). Shock front ripples are robust in three dimensional hybrid simulations (Thomas 1989; Hellinger et al. 1996). The filament instability of the shock front found in high dimensional simulations can also contribute to the shock front nonstationarity (Spitkovsky 2005; Guo & Giacalone 2013; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Caprioli & Spitkovsky 2014). All of the simulations above do not include PUIs. By using the 2-D Los Alamos hybrid simulation code with PUIs,Liu et al. (2010) studied the Alfvencyclotron and mirror modes excited in the near-TS heliosheath. The impact of the PUIs on the shock front ripples and self-reformation is not mentioned. It is expected that the density of PUIs at the TS is of the order of 20% to 30% of the solar wind density (Richardson et al. 2008;Wu et al. 2009; Matsukiyo & Scholer 2014). The impact of such high percentage of PUIs on the shock front ripples has not been studied yet. The relevance of the shock front ripples to the multiple TS crossings stil remains unclear. A precise description of this influence would require at least a 2-D full particle model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Second, the relative high percentage of PUIs may greatly change the dissipation mechanism of the shock front. The V2 has a working plasma instrument and the coverage was sufficient to identify three crossings of the TS. The identified TS-3 crossing revealed an almost classical perpendicular shock structure (Burlaga et al. 2008; Richardson et al. 2008). It is clearly evidenced that the TS heats the incident SWIs very little,and the average downstream ion temperature is much smallr than predicted by the MHD Rankine-Hugoniot conditions. Richardson et al. (2O08) concluded that most of the solar wind energy is transferred to the PUIs or other energetic particles that reside in the energy range not covered by V2 plasma instrument. Zank et al. (1996) predicted that the TS dissipation mechanism would favor PUIs and leave the SWIs relatively cool. They concluded that PUIs may therefore provide the primary dissipation mechanism for a perpendicular TS with SWIs playing a secondary role. Previous 1-D hybrid simulations with multiple ion species (Wu et al. 2009) suggest that the density of PUIs is about $2 5 \\%$ and the PUIs gain the lager fraction (approximately $9 0 \\%$ ） of the downstream thermal pressure. They defined a downstream pressure ratio $\\chi = P _ { t } ^ { P U I } / P _ { t }$ ，where $P _ { t } ^ { P U I }$ and $P _ { t }$ represent the thermal pressure of PUIs and the total ions, respectively. However, it is not clear how the upstream plasma dynamic energy transfers to the PUIs inside the shock front and how the downstream pressure ratio $\\chi$ varies in different locations along the shock surface (i.e., a 2-D effect). In order to understand the energy dissipation process and the energy partition between different species of ions, here we develop a 2-D full particle model of the TS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is also worth studying how the velocity distribution function downstream of the TS looks like from PIC simulations that include PUIs. The Voyager spacecraft are making in situ measurements along two different trajectories in the heliosheath, but unfortunately they were not designed to measure the PUIs directly. Launched on 2008 October 19, IBEX (McComas et al. 2O09) is measuring the energetic neutral atom (ENA) flux from the boundary region of the heliosphere. The interpretation of ENA fluxes measured at 1 AU by IBEX needs knowledge of the ion velocity distribution function in the inner heliosheath. ENAs are created by charge exchange of interstellar neutrals with hot heliosheath protons or ions. The fux of ENAs therefore depends sensitively on the number of hot protons downstream of the TS.Heerikhuisen et al. (20o8) find that the ENA flux for a $\\kappa -$ distribution is higher than that for a Maxwelian proton distribution with the same temperature. This is not surprising because the $\\kappa -$ distribution contains many more particles in the wings of the distribution function than the corresponding Maxwellian distribution. Why the heliosheath proton distribution function should be like a $\\kappa -$ distribution is, however,unclear. The answer may well reside in the processing of upstream PUI distribution by the TS and subsequent relaxation of the processed distribution in the heliosheath. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we use a 2-D PIC code to investigate the impact of PUIs on the shock front microstructure, the energy dissipation，and the downstream particle velocity distribution function of the TS. This paper is organized as folows. The simulation model is described in Section 2. We describe the simulation results in Section 3, focusing on the impact of PUIs on the shock front nonstationarity and the particle energy partition. In Section 4, we compare the simulation results with V2 observations. Finally, conclusions are drawn in Section 5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2． Simulation model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We use a 2-D electromagnetic PIC code to simulate the evolving structures of supercritical, collisionless, perpendicular shocks with PUIs. Simulations of nonstationary shocks have been performed by 1-D PIC codes where PUIs are included (Chapman et al. 2005; Matsukiyo & Scholer 2011; Yang et al. 2012a). In this paper, we expand our simulation code to 2-D in order to investigate the ripples of the shock front. Here,the control equations of the PIC code are Maxwell and Newton-Lorentz equations only. Due to the numerical error built up during PIC simulations, Guass law cannot be assumed to be satisfied allthe time. Instead of solving Possion equation, our code solves only two curls, i.e., Ampere and Faraday equations. A rigorous charge conservation method for the current deposits is described in Villasenor $\\&$ Buneman (1991). By using the charge conservation method, an additional equation $\\partial \\rho / \\partial t = - \\nabla \\cdot \\bar { J }$ should be solved at each time step to provide the current density to the field update. This method has been commonly used in previous PIC simulations (Buneman 1993; Nishikawa 1997; Cai et al. 2003; Spitkovsky 2008; Rekaa et al. 2014). The particle data are updated by the leap-frog method (Birdsall & Langdon 1991). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the 2-D simulations, we consider a Cartesian grid $( x , y )$ . The plasma box size along the shock normal and shock front is $L _ { x } = 4 0 9 6 \\Delta _ { x }$ and $L _ { y } = 5 1 2 \\Delta _ { y }$ , respectively, where the numerical grid spacing $\\Delta _ { x } = \\Delta _ { y } = 0 . 0 2 5 c / \\omega _ { p i } = 0 . 2 5 c / \\omega _ { p e }$ . The spatial resolution is high enough to resolve the microstructures of the shock front even on the electron inertial scale (Mazelle et al. 2O10). The physical vectors, such as velocities of particles,and electric and magnetic fields $E$ and $B$ ， have components in three directions and also spatially depend on $x$ and $y$ . A shock is produced by using the so-called piston method (Burgess & Scholer 2007; Hao et al. 2Ol4), in which the plasma is injected continuously from one end of the simulation box ( $x = 0$ , in our case)，and reflected elastically at the other end ( $x = L _ { x }$ ). The upstream plasma has a uniform density with 16 particles per species per cell. The fractions of the particles of different species can be changed for different purposes (e.g.， for a $2 5 \\%$ （204号 PUI case, the fractions of electrons, SWIs, and PUIs are 1, 0.75 and 0.25 respectively). The right boundary is assumed to be a perfectly conducting barrier. The pileup of the density and magnetic field creates a shock propagating in the $- x$ direction. In the 2-D simulation, the boundary conditions of the electromagnetic fields in the $y$ direction are periodic,and the particles that move out of one end of the simulation domain in the $y$ direction will reenter the domain from the other end. The initial distribution functions for the SWIs and electrons are both Maxwellian. PUIs are injected on a thin sphere in velocity space centered at $V _ { i n j }$ with a radius $V _ { s h e l l }$ as in earlier 1-D works (Chapman et al. 2005; Yang et al. 2012a; Matsukiyo $\\&$ Scholer 2014). The upstream Alfvén speed $V _ { A }$ is equal to 1. To reduce the computational time, we use an unrealistic mass ratio for ions and electrons $m _ { i } / m _ { e } = 1 0 0$ ， and light speed $c = 2 0 V _ { A }$ as usual (Chapman et al. 2005; Oka et al. 2011). The basic parameters and configuration are as follows. The ambient magnetic field $B _ { o }$ is in the $Y$ （204号 direction as in previous work (Winske & Quest 1988; Liu et al. 2010). The solar wind ion $\\beta _ { i }$ is O.04 as observed by Voyager 2 (Burlaga et al. 2008; Richardson et al. 2008). The injected plasma is quasi-neutral, i.e., $n _ { i } = n _ { e }$ and $n _ { i } = n _ { S W I } + n _ { P U I }$ ，where $n _ { e }$ ， $n _ { i }$ ， $n _ { S W I }$ ， and $n P U I$ are densities of the electrons, total ions, SWIs and PUIs, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.Simulation results on the impact of PUIs ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this section, the impact of PUIs on the shock front nonstationarity will be analyzed in detail for three cases with different percentages of PUIs (PUI $\\%$ ): 0% (Run A), $1 0 \\%$ （204号 (Run B),and 25% (Run C). Then we concentrate on an open question of how the upstream ion dynamic energy transfers to the thermal energy of PUIs and SWIs and the magnetic energy within the shock transition layer. Furthermore, the energy partition of SWIs and PUIs downstream of the TS will also be computed as in previous 1-D hybrid simulations (Wu et al. 2009). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "First,we investigate the impact of the relative percentage of PUIs on the shock front. Figure 1 is an overview of Runs A (PUI%=O),B (PUI%=10), and C (PUI%=25). In each panel, the surface indicates the magnetic field $B$ in the 2-D simulation domain at a time $t = 4 \\Omega _ { c i } ^ { - 1 }$ .Figure la shows the shock case in the absence of PUIs. In this case, the shock front is characterized by self-excited ripples (marked by a red box) as in previous 2-D PIC simulations without PUIs (Savoini & Lembege 1994; Lembege et al. 2009). Typical structures of a supercritical perpendicular shock such as the foot (“F\")，ramp (“R\"） and overshoot （“O\"） are evident in this case (see the magnetic field profile at $Y = 0$ marked by the black solid curve). The upstream Alfvénic Mach number $M _ { A }$ is about 4.5. A similar plot for Run B is shown in Figure 1b. In this case, a weak but broad PUI foot with an average amplitude of \\~ 1.15 $B _ { o }$ (marked by “PUI F\"） emerges ahead of the SWI foot (marked by “SWI F\"). The PUI foot is stationary. Figure lc shows the corresponding plot for Run C. In this high PUI% (=25) case, the amplitude of the PUI foot becomes higher,but the amplitude of the overshoot becomes lower than that in Runs A and B. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Figure 1, the shock front is nonstationary even in the high PUI% case due to the self-excited ripples. The impact of the relative percentage of PUIs on the rippling shock front can be illustrated from two aspects: wave features and particle behaviors. Figure 2 plots the corresponding power spectrum of the fluctuating magnetic field $B$ . The color shading indicates the power $| B ( k _ { y } ) | ^ { 2 }$ which is obtained by Fourier transforming the values of $B$ along the $Y$ direction (i.e.，along the shock front） at a selected position $X$ .In order to show the location of the shock front, the $Y$ -averaged magnetic field $B / 3$ has been overlaid on the spectrum for reference (white curve). The horizonal dashed line indicates the upstream value of $B / 3$ . The magnetic field fluctuations are enhanced greatly form the SWI foot to the ramp. With the increase of PUI $\\%$ , the ripple excitation region in the $x$ direction (between the two vertical red lines） becomes narrower. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To understand why the scale of ripples along $Y$ decreases with the relative percentage of PUIs, we perform particle diagnosis for the cases in Figure 2. Corresponding phase space diagrams ( $X - V _ { i x }$ , black dots) of SWIs are plotted in the downstream rest frame (i.e., the simulation frame) in Figure 3. The $Y -$ averaged magnetic field $B$ is also shown for reference (blue curve). A fraction of the incident SWIs coming from the left-hand side is reflected at the shock front,and the reflected ions become a hot SWI population when convected back to the downstream. The other incident SWIs are directly transmitted to the downstream region and form the cool core of the downstream ion velocity distribution. The shock front ripple is associated with the reflected SWIs. In brief, the magnetic field of the PUI foot ahead of the shock ramp increases with the percentage of PUIs. In a high PUI% case, the gyro-radius of the R SWIs becomes smaller due to the enhanced local $B$ caused by the R PUIs at the foot. This leads to a narrower ripple excitation region at the shock front. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows stack plots of the $B$ profiles at a fixed $Y$ ( $= 0$ ） versus time with different PUI%. The period of the shock front nonstationarity is about $1 - 2 \\Omega _ { c i } ^ { - 1 }$ , which is close to the self-reformation time observed in 1-D PIC simulations (Hada et al. 2O03; Chapman et al. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2005;Yang et al. 2009). The time scale of the first TS crossing (named TS-2) observed by V2 is about 29 min (Richardson et al. 2008)，which is equivalent to 1.7 $\\Omega _ { c i } ^ { - 1 }$ . Our PIC simulation give a similar period,so TS-2 is likely caused by the self-excited rippling at the shock front. The time intervals of other two crossings (TS-3 and TS-4) are about 3.7 hours and 2.8 hours $( \\sim 1 0 \\Omega _ { c i } ^ { - 1 }$ ), respectively. These crossings are likely due to the interaction of the TS with the pre-existing waves or turbulence with a larger temporal scale (Guo & Giacalone 2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Second,we study the energy dissipation process within the shock transition layer and the resulting energy partition in the downstream region of the TS. Wu et al. (2009) studied the energy partition of PUIs and SWIs at the TS by 1-D hybrid simulations. For comparison with V2 observations, they defined the energy partition of PUIs in the downstream as a pressure ratio $\\chi = P _ { t } ^ { P U I } / P _ { t }$ ，where $P _ { t }$ and $P _ { t } ^ { P U I }$ are the downstream thermal pressure of the total ions and PUIs, respectively. The pressure ratio $\\chi$ increases as the PUI relative density increases. In the high percentage (25%） PUI case, the ratio $\\chi$ is about $9 0 \\%$ , which is the energy fraction gain for PUIs inferred from the Voyager 2 observations by Richardson et al. (2O08). However,1-D hybrid simulations have the fundamental limitation that the downstream heating occurs only in the two directions perpendicular to the magnetic field (Wu et al. 2009). 2-D hybrid simulations of quasi-perpendicular shocks without PUIs have demonstrated downstream ion temperature anisotropies and associated cyclotron and miror-like fluctuations (Winske & Quest 1988; Lu & Wang 2006; Hao et al. 2014), consistent with observations (Liu et al. 2006, 2007; Richardson et al. 2007). Here, we examine the energy partition of PUIs in the downstream of the TS by using a 2-D PIC code which allows the heating to take place in all three directions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For reference, we present the energy dissipation at a shock without PUIs. Figure 5 shows the phase space plots $( X - V _ { i x }$ ， $V _ { i y }$ and $V _ { i z }$ ) of SWIs in the shock rest frame for Run A. Note that the simulations are performed in the downstream rest frame so that the downstream flow speed $| V _ { D S } | = | V _ { s } |$ ，where $V _ { s }$ is the shock propagation speed. The top three panels in Figure 5 show that the SWIs are mainly heated along the directions perpendicular to the magnetic field. The dynamic pressure of the SWIs along the shock normal can be calculated from $P _ { d } = n m V _ { x } ^ { 2 }$ ，where $n$ ， $m$ ，and $V _ { x }$ are the density, mass,and bulk velocity of ions in the （204号 $X$ direction. The thermal pressure of SWIs along the shock normal can be calculated from （204号 $P _ { t } = n k T$ ，where $k$ and $T$ are the Boltzmann constant and the temperature of the particles. The magnetic pressure $P _ { b }$ is computed from $B ^ { 2 } / ( 2 \\mu _ { 0 } )$ . All the pressures are normalized by （204 $n _ { 0 } m _ { 0 } V _ { A } ^ { 2 }$ of the upstream region (Figure 5d)，where $m _ { 0 }$ and $n _ { 0 }$ are the mass and upstream density of the ions, respectively. A reduction of the dynamic pressure of SWIs is evident at the shock transition. Both of $P _ { t }$ and $P _ { b }$ increase at the the shock transition,and their sum is negatively correlated with the dynamic pressure $P _ { d }$ . Obviously, the upstream dynamic energy is transferred to the SWI thermal energy and the magnetic energy of in the shock transition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The impact of PUIs on the dissipation process and the energy partition is shown in Figure 6 with a moderate PUI% (1O). In the PUI foot region (from $X ~ = ~ 8 4 ~ c / \\omega _ { p i }$ to about $X \\ = \\ 8 9 \\ c / \\omega _ { p i , }$ )，the dynamic pressures of both PUIs and SWIs start to decrease. Simultaneously, the thermal pressure of PUIs increases due to the reflected PUIs (Figure 6a). There are no reflected SWIs in the PUI foot (see Figure 6a), thus the thermal pressure of SWIs is almost unchanged in this region. The magnetic pressure $P _ { b }$ slightly increases at the PUI foot. Therefore,most of the decreased dynamic energy of the incident ions (PUIs plus SWIs) is transferred to the PUIs and dissipated as their thermal energy in the PUI foot. In the SWI foot region (from $X = 8 9 ~ c / \\omega _ { p i }$ to about $X = 9 0 . 2 5 ~ c / \\omega _ { p i } ,$ )， the dynamic pressure of SWIs decreases drastically due to the reflected SWIs, while the dynamic pressure of PUIs is almost unchanged. The thermal pressure of PUIs and the magnetic field pressure increase gradually. Thus,most of the energy of SWIs is dissipated as the thermal energy of SWIs in the SWI foot. In the narrow ramp region (from $X = 9 0 . 2 5 ~ c / \\omega _ { p i }$ to the about （204号 $X \\ = \\ 9 0 . 7 5 \\ c / \\omega _ { p i } )$ ，all the pressures decrease except the magnetic pressure, which shows a steep increase. Thus, the dynamic energy and the thermal energy of the total ions are transferred to the magnetic field in this region. Figure 6c shows the thermal pressure ratio $\\chi$ in a downstream region. Curves in different colors indicate the $\\chi$ profiles obtained in different $Y$ locations. The ratio $\\chi$ can vary versus $Y$ due to the downstream turbulence as a remnant of the shock front ripples (a 2-D effect). This can not be obtained in 1-D simulations because of $\\partial / \\partial Y = 0$ . The average value of the ratio $\\chi$ in the current 2-D simulations is about $5 7 . 3 \\%$ （20 (marked by a horizonal black dashed line). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then we do similar calculations for the high percentage PUI (25%) case, as shown in Figure 7. In contrast to the low percentage PUI (10%) case, the SWIs lose almost half of their dynamic energy at the PUI foot (from $X = 8 3 . 7 5 ~ c / \\omega _ { p i }$ to about $X = 8 8 ~ c / \\omega _ { p i }$ ).Asa consequence, the PUIs gain more thermal energy in this region. The gains of SWI thermal energy and the magnetic energy are lower than those in Run B.Most of the upstream dynamic energy is transferred to PUIs,and the pressure of PUIs becomes much higher than that of SWIs. In this case, the ratio $\\chi$ can vary in a range from about 61.9% to $9 6 . 3 \\%$ along the $Y$ direction due to the remnant effect of shock front ripples. The average value of the pressure ratio $\\chi$ in the downstream region is about $8 6 . 6 \\%$ ，which is consistent with previous 1-D hybrid models (Wu et al. 2009) and the V2 experimental data (Richardson et al. 2008). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.Comparison with Voyager 2 observations ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We compare the simulation results with V2 observations. Figure 8a shows the observed （204号 $B$ field at the TS-3 crossing (after Burlaga et al. 2008). The identified TS-3 crossing revealed an almost classcal perpendicular shock structure. The plasma instrument (Faraday cups) on V2 worked well during the TS crossings. Figure 8b shows the observed low energy ion data. The average speed corresponding to the channel numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 is ab0ut 60, 90,119,148, 216,256,300,352, and $4 1 0 ~ \\mathrm { k m / s }$ ， respectively. The bulk speed of the low energy ions decreases at the foot and reaches a very low value after the shock front. The estimated upstream ion gyro-period is about 17 min (Burlaga et al. 2008). Thus the time span of the TS-3 crossing plotted in Figure 8 is about $8 . 8 ~ \\Omega _ { c i } ^ { - 1 }$ . The V2 spacecraft moved outwards with a speed $\\sim 1 8 ~ \\mathrm { k m / s }$ ， and the TS-3 front moved inwards with a speed $\\sim 6 8 \\mathrm { k m / s }$ . Hence, the relative speed between V2 and the shock is about $8 6 ~ \\mathrm { k m / s } \\sim 2 . 2 8 ~ V _ { A }$ ， where $V _ { A }$ is the Alfven speed measured in the upstream of the TS at a distance of 84 AU from the sun. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to generate time series in PIC simulations, a virtual probe (“VP\") is used which records the in situ electromagnetic field and plasma information as done in previous work for Cluster crossings of the Earth's bow shock (Scholer & Burgess 2006). The VP moves from the upstream to the downstream of the shock in Run C (PUI%=25). The relative speed between the VP and the shock front is about $2 . 2 ~ V _ { A }$ . The in situ $B$ field seen by the VP is shown in Figure 8c. The corresponding phase space plot of the ions (SWIs plus PUIs) is shown in Figure 8d. Because the low energy plasma instrument on V2 is not sensitive enough to see all of the ions (e.g., the wings of the ion velocity distribution)，V2 can not directly observe the PUIs. To imitate this effect, the color bar range of Figure 8d has been set from 40 to 5000. It means that the number of ions lower than 40 in the phase space can not be seen by the VP.Figure 8d shows that the simulated ion distribution across the shock is quite similar to that observed by V2 (Figure 8b). If we set the color bar range from 0 to 5000, the VP can see all of the ions during the shock crossing (Figure 8e). It implies that the thermal speed of the total ions should be higher than that estimated by using V2 plasma data. To give a more clearer view, the downstream ion velocity distribution function is computed from the overshoot to the far downstream of the shock. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 9a shows the normalized total ion velocity distribution (black curve） in the downstream in Run C. The total heliosheath ion distribution function is a superposition of cold transmitted SWIs (DT SWI)， hot reflected SWIs (R SWI)， hot directly transmitted PUIs (DT PUI),and a very hot PUI population (R PUI) that is reflected by the TS and then convected back to the downstream. The highlighted region in red is the part expected to be observed by V2. Figure 9b shows the composite heliosheath ion distribution function modeled by Zank et al. (2010). Their form of the total ion distribution function is similar to that obtained from our PIC simulations (Figure 9a). For reference, the blue solid and red dashed curves illustrates a $\\kappa -$ distribution and a Maxwellian distribution with the same downstream density and temperature. Both of the modeled composite distribution and the $\\kappa -$ distribution have more ions in the wings of the distribution than a corresponding Maxwellian one. The R SWI population is not included in Zank's model; our simulations show that the contribution of R SWIs is small compared with that of R PUIs. Previous 1D PIC simulations have also shown that the fraction of R SWIs decreases with the PUI% at the shock (Yang et al. 2O12a). Figure 9c shows the ion velocity distribution observed by the Faraday cup on V2 in the heliosheath near the TS. Compared with the experimental data, both of velocity distribution functions obtained from the PIC simulations and Zank's models imply that V2 only saw the tip of the iceberg (i.e., the cool core of the total distribution). This cool part of the distribution can tellthe bulk velocity of the plasma, the number density of SWIs, and roughly the temperature of SWIs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusions and Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we use a 2-D PIC code to investigate the impact of PUIs on the nonstationarity and energy dissipation of the TS. We summarize our main findings below: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. Different from previous 1-D simulations,we have shown that the shock front ripples can still exist even when the relative percentage of pickup ions approaches 25%. The excitation of ripples is associated with the reflected solar wind ions. In a high percentage (25%) pickup ion case, the gyro-radius of the reflected solar wind ions becomes smaler due to the enhanced local $B$ caused by the reflected pickup ions at the shock foot. This leads to a narrower ripple excitation region at the shock front. The period of the shock front nonstationarity caused by the ripples is about $1 - 2 \\Omega _ { c i } ^ { - 1 }$ . The multiple crossings of the TS in a short time duration (e.g., TS-2) can be explained by the shock front nonstationarity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. The energy disspation process is examined for shocks with different percentages of pickup ions. At a shock in the absence of pickup ions, the transformation of wave-particle energy shows that the dynamic energy at the shock front is transferred to the thermal energy of solar wind ions and the magnetic energy. In contrast, most of the dynamic energy is transferred to the thermal energy of pickup ions instead of solar wind ions at a shock in the presence of $2 5 \\%$ pickup ions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. In order to examine the energy partition in the downstream of the shock with pickup ions,we compute the pressure ratio $\\chi$ ，as in previous 1-D hybrid simulations. In the $1 0 \\%$ （204号 pickup ion case, the ratio is about $5 7 . 3 \\%$ . For the 25% pickup ion case, the average value of the ratio $\\chi$ reaches about 86.6% and can vary in a range from about 61.9% to $9 6 . 3 \\%$ （204号 along the $Y$ direction due to the remnant effect of shock front ripples (a 2-D effect). In 1-D simulations, the ratio $\\chi$ can not vary along the $Y$ direction because of $\\partial / \\partial Y = 0$ . The yaveraged ratio $\\chi$ obtained in the 2-D simulation is consistent with that obtained in previous 1-D hybrid simulations and that estimated by the Voyager 2 experimental data. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. We compare our 2-D PIC simulations with the magnetic field and plasma observations for a typical shock crossing (TS-3). The velocity distribution of low energy solar wind ions resulting from PIC simulations are quit similar to the Voyager 2 observed plasma data. In addition,the velocity distribution of the pickup ions, which can not be directly observed by Voyager 2, is also predicted future observations and studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.A composite heliosheath ion distribution function is obtained in our simulation. The core of the distribution function is formed by the cool directly transmitted solar wind ions, the shoulder is contributed by the hot directly transmitted pickup ions and reflected solar wind ions together,and the wing of the distribution is dominated by the very hot reflected pickup ions. The shape of the total distribution is similar to the theoretical model made by Zank et al. (20l0). Compared with the experimental data, both of the velocity distribution functions obtained from the PIC simulations and Zank's model imply that Voyager 2 only observed the tip of the iceberg (i.e.，the cool core of the total distribution). The PIC simulation results may help interpret the IBEX data in probing the microphysics of the termination shock. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "By using a fixed shock profile, Burrows et al. (201O) found that multiply reflected pickup ions (i.e., shock surfing accelerated pickup ions) could account for the termination shock downstream energy gains that are generally assumed to go into the pickup ions. We find that the termination shock is nonstationary and the shock front width changes with time. The shock surfing may be suffcient only when the termination shock is steep and has a narrow shock profile (Zank et al. 1996; Lee et al. 1996; Lipatov & Zank 1999; Shapiro & Ucer 2003; Yang et al. 2009). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to B. Lembege and F. Guo for helpful discussions. This research was supported by NSFC under grants No. 41204106 and 41374173, the Recruitment Program of Global Experts of China, the Specialized Research Fund for State Key Laboratories of China,and the Shanghai Science Foundation (12ZR1451500). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Axford,W. I., Lee, I. E., & Skadron G. 1977,Proc. Int. Conf. Cosmic Rays 15th,11,132.   \nBell,A. R. 1978,Mon. Not. R. Astrophys. Soc., 182,147.   \nBirdsall C.K.,& Langdon, A. B. 1991, Plasma Physics Via Computer Simulation (Bristol: IOP).   \nBlandford, R. D., & Ostriker, J. P. 1978,ApJ,221, L29.   \nBuneman, O.,& Nishikawa, K., & Neubert,T.1993, Geophys. Mono., 86, 347.   \nBurgess, D., Lucek, E. A., Scholer, M., et al. 2005, Space Sci. Rev., 118, 205.   \nBurgess,D.,& Scholer,M. 2007, Phys. Plasmas,14, 012108.   \nBurlaga, L. F., Ness, N. F., Acuna, M. H., et al. 2008, Nature, 454, 75.   \nBurrows,R. H., Zank, G.P., Webb, G. M., et al. 2010, 715,1109.   \nCai, D. S., Li, Y. T., Nishikawa, K., Xiao, C. J., Yan, X. Y., and Pu, Z. Y. 2003, Space Plasma Simulation (Springer-Verlag, Heidelberg 2002).   \nCaprioli, D.， & Spitkovsky, A. 2014, ApJ, 783, 91.   \nChapman, S. C., Lee, R. E., & Dendy, R. O. 2005, Space Sci. Rev., 121, 5.   \nDecker, R. B., Krimigis, S. M., Roelof, E. C.,et al.， 2005, Science, 309, 2020.   \nDecker, R. B., Krimigis, S. M., Roelof, E. C., et al., 2008, Nature, 453, 67.   \nFisk,L. A., Gloeckler,G., & Zurbuchen,T. H. 2006,ApJ,644,631.   \nGuo, F., & Giacalone, J. 2010, ApJ, 715, 406.   \nGuo, F.,& Giacalone, J. 2012, ApJ, 753, 28.   \nGuo, F., & Giacalone, J. 2013, ApJ, 773,158.   \nGaleev, A. A., & Sagdeev, R. Z. 1988, Astrophys. and Space Sci., 144, 427.   \nGiacalone, J. 2005, ApJ, 628, L37.   \nGloeckler, G., & Geiss, J. 1998, Space Sci. Rev., 86, 127.   \nGoncharov, O., Safránkova, J., Nemecek, Z., et al. 2014, Geophys. Res. Lett., 41, 8100. Hada, T., Oonishi, M., Lembége, B., et al. 2003, J. Geophys. Res., 108,1233.   \nHao, Y. F., Lu, Q. M., Gao, X. L., et al. 2014, J. Geophys. Res., 119, 3225.   \nHeerikhuisen, J., Pogorelov, N. V., Florinski, V., et al. 2008,ApJ, 682, 679.   \nHellinger,P.,Mangeney, A.,& Matthews, A. 1996,Geophys.Res. Lett., 23, 621.   \nHellinger, P., & Travnicek, P. 2002, Geophys. Res. Lett., 29,87.   \nJokipii, J. R. 2008, Nature, 454,38.   \nLee,M. A., & Ip, W. H. 1987, J. Geophys. Res., 92, 11041.   \nLee,M. A., Shapiro, V. D., and Sagdeev, R. Z. 1996, J. Geophys. Res., 101, 4777.   \nLee, R. E., Chapman, S. C., & Dendy, R. O. 2005a, Phys. Plasmas,12, 012901.   \nLee, R. E., Chapman, S. C.,& Dendy,R. O. 2005b,Ann. Geophys., 23,643.   \nLembege, B., & Dawson, J. M. 1987, Phys. Fluids, 30, 1767.   \nLembege, B., Giacalone, J., Scholer， M.， et al. 2004, Space Sci. Rev., 110, 161.   \nLembege, B., Savoini, P., Hellinger, P., et al. 2009, J. Geophys. Res.， 114, A03217.   \nLiewer, P.C., & Goldsten, B.E. 1993, J. Geophys. Res., 98,15211.   \nLipatov, A. S., and Zank, G. P. 1999, Phys. Rev. Lett., 82,18.   \nLiu, Y., Richardson, J. D., Belcher, J. W., et al. 2006, J. Geophys. Res., 111, A09108.   \nLiu, Y., Richardson, J. D., Belcher, J. W., et al. 2007, ApJL, 659, L65.   \nLiu,K. J., Gary, S.P.,& Winske, D. 2010, J. Geophys. Res., 115,A12114.   \nLu, Q. M., & Wang, S., 2006, J. Geophys. Res., 111, A05204.   \nMatsukiyo, S., Scholer, M., & Burgess, D. 2007,Ann. Geophys.， 25, 283.   \nMatsukiyo, S.,& Scholer,M. 2011, J. Geophys. Res.， 116,A08106.   \nMatsukiyo, S., & Scholer, M. 2014, J. Geophys. Res.， 119, 2388.   \nMazelle, C., Lembege, B., Morgenthaler, A., et al. 2010, AIP Conf. Proc., 1216, 471.   \nMcComas, D. J.， Allegrini, F., Bochsler, P., et al. 2009, Science, 326, 959. Mobius, E., Hovestadt, D., Klecker, B., et al. 1985, Nature, 318, 46.   \nNishimura, K., Matsukiyo, H., & Kojima, H. 2003, J. Geophys. Res., 108,1182.   \nNishikawa, K. 1997, J. Geophys. Res.，102, 17631.   \nOka,M., Zank, G. P., Burrows, R. H., et al. 2011, AIP Conf. Proc., 1366, 53 Rekaa, V. L., Chapman, S. C.,& Dendy, R. O. 2014, ApJ, 791, 26.   \nRichardson, J. D., & Liu, Y. 2007, AIP Conf.Proc., 932, 387.   \nRichardson, J. D., Kasper, J. C., Wang, C., et al. 2008, Nature, 454, 63.   \nSavoini, P.,& Lembege, B. 1994, J. Geophys. Res., 99,6609.   \nScholer, M., I. Shinohara,& Matsukiyo, S., 2003, J. Geophys. Res., 108,A1,1014.   \nScholer M.,& Burgess, D. 2006,Phys. Plasmas,13, 062101.   \nShapiro, V. D., and Uger, D. 2003, Planet. Space Sci., 51, 665.   \nSpitkovsky, A. 2005, AIP Conf. Proc., 801, 345.   \nSpitkovsky, A. 2008, ApJ, 682, L5.   \nStone, E. C., Cummings, A. C., McDonald, F. B., et al. 2008, Nature, 454, 71.   \nSu, Y. Q., Lu, Q. M., Gao, X. L., et al. 2012, Phys. Plasmas, 19, 092108.   \nThomas, V. A. 1989, J. Geophys. Res., 94,12009.   \nTiu,D., Cairns, I. H., Yuan, X. Q., et al. 2001, J. Geophys. Res., 116, A04228.   \nVasyliunas, V. M., & Siscoe, G. L. 1976, J. Geophys. Res., 81,1247.   \nVillasenor, J.,& Buneman,O. 1992, Comput. Phys. Commun., 69, 306.   \nWhang, Y. C.,& Burlaga, L. F. 2000,Geophys. Res. Lett., 27, 1607.   \nWinske, D., & Quest, K. B. 1988, J. Geophys. Res., 91, 9681.   \nWu, P., Winske, D., Gary, S. P., et al. 2009, J. Geophys. Res., 114, A08103.   \nYang,Z. W., Lu, Q. M., Lembege, B., et al. 2009, J. Geophys. Res., 114,A03111.   \nYang,Z. W. Han, D. S., Yang, H. G., et al. 2012a. Astrophvs. Space Sci., 341. 241. Yang,Z. W., Lu, Q. M., & Lembege, B. 2012b, J. Geophys. Res., 117, A07222.   \nYang, Z. W., Lu, Q. M., Gao, X. L., et al. 2013, Phys. Plasmas, 20, 092116.   \nYuan, X. Q.， Cairns,I. H., Trichtchenko, L., et al. 2009, Geophys. Res. Lett., 36,L05103.   \nZank,G. P., Pauls, H. L., Carins, I. H.,& Webb, G. M. 1996, J. Geophys. Res., 101, 457.   \nZank, G. P., Li, G., Florinski, V., et al. 2006, J. Geophys. Res.,111, A06108.   \nZank, G. P., Heerikhuisen, J., Pogorelov, N. V., et al. 2010, ApJ, 708,1092. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/638be06cd4692fc7176b7fde4b5f0fed85fa1ee9d0aa872e7468afcd3fe613ef.jpg",
+        "img_caption": [
+            "Fig. 1.- Overview of the magnetic field profile at a time $t = 4$ （204号 $\\Omega _ { c i } ^ { - 1 }$ resulting from different Runs: (a) PUI%=0, (b) PUI%=10,and (c) PUI%=25. The color shading indicates the strength of the magnetic field. The shock foot, ramp and overshoot are marked by “F\",“R\" and “O\", respectively. The foot regions due to the reflected PUIs and SWIs are labeled as “PUI F” and “SWI F\", respectively. The dashed black reference line shows the upstream value $B _ { o }$ . The $B$ profiles at $Y = 0$ are shown by black solid curves. The shock front ripples are marked by a red box. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e7cb09fdc4c15452e1583b9a3c43a5ea29fba864a53b8a23390a3665e4a17b0.jpg",
+        "img_caption": [
+            "Fig. 2.— The power spectrum of the fluctuating magnetic field $B$ across the shock with 0% （204号 $1 0 \\%$ and $2 5 \\%$ PUIs (from top to bottom） at $t = 4 ~ \\Omega _ { c i } ^ { - 1 }$ . The color shading indicates the power $( | B ( K _ { y } ) | ^ { 2 } )$ which is obtained by Fourier transforming the values of $B$ along the $Y$ direction at a selected position $X$ . The vertical red lines denote the interval of the rippling region. The profile ${ \\bar { B } } / 3$ (averaged along the $Y$ direction） is superimposed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee4fbe81a6717d748fefa3bfee032efcc809f583be47d6d9b54676653d393e96.jpg",
+        "img_caption": [
+            "Fig. 3.- Phase space plots ( $V _ { i x }$ versus $X$ ) of SWIs at $t = 4 \\Omega _ { p i } ^ { - 1 }$ . From top to bottom,the relative density of PUIs is 0%, $1 0 \\%$ ，and $2 5 \\%$ ， respectively. In each panel, the Y-averaged $B$ field (blue curve) is shown for reference. The ripple region is between the two vertical red lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fe143bc02f0fff883ff496c70a49a569261e206e7c9340d05846cf4451c13cd.jpg",
+        "img_caption": [
+            "Fig. 4.— Stack-plots of the $B$ profiles （at $Y = 0$ ）at different times. From left to right, the relative density of PUIs is 0%, $1 0 \\%$ ，and $2 5 \\%$ ， respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/a389e1efbd8ee75bba4515040dba08ded1697dc1fb7a9eb7337688d72a7ba94b.jpg",
+        "img_caption": [
+            "Fig. 5.- (a) Phase space plots $( X - V _ { i x } )$ of the SWIs at $t = 7 ~ \\Omega _ { c i } ^ { - 1 }$ in Run A (PUI%=0). The color shading shows logarithmic distributions of the particle number. (b-c) Similar plots but for $X - V _ { i y }$ and $X \\mathrm { ~ - ~ } V _ { i z }$ ， respectively. (d） The dynamic pressure of SWIs (black)， the thermal pressure of SWIs (red)，and the magnetic pressure (green) across the shock front. The sum of the SWI thermal pressure and the magnetic pressure is also shown for reference (red dashed). "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c64e4219d9258161864059bc62db4acecb32c0cda8b08a0a07d4db74417868e.jpg",
+        "img_caption": [
+            "Fig. 6.- (a) Phase space plots of the SWIs and PUIs at $t = 7 ~ \\Omega _ { c i } ^ { - 1 }$ in Run B (PUI%=10). The color shading shows logarithmic distributions of the particle number. (b) The dynamic pressure of SWIs (black) and PUIs (blue), the thermal pressure of SWIs (red) and PUIs (magenta)，and the magnetic pressure (green) across the shock front. The black dashed curve indicates the total ion dynamic pressure. The red dashed curve indicates the sum of the totalion thermal pressure and the magnetic pressure. (c)The pressure ratio $\\chi = P _ { t } ^ { P U I } / P _ { t }$ computed in a downstream region (marked by “DS box” in the top panel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa82a7f27bbb197a1408a6809191358bccb9f57e4ce0c3f815c6bfab787b1dc.jpg",
+        "img_caption": [
+            "Fig. 7.- The same format as Figure 6, but for Run C( $\\mathrm { { P U } \\% = 2 5 }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2afa83815bb409f529630002d0342da2c1d88f64e422326bbc5151a3f8823a3.jpg",
+        "img_caption": [
+            "Fig. 8.- (a) 48-s averages of the magnetic field strength $B$ at the TS (TS-3,after Burlaga et al. 2O08). (b) Velocity distribution observed by Faraday cups on V2. Different channels correspond to different velocity ranges. The color shading shows logarithmic distributions of the current or particle count number. (c) The in situ magnetic feld strength （204号 $B$ seen by a virtual probe (VP) across the TS profiles obtained from Run C (PUI%=25). (d) Corresponding logarithmic distributions of the ions seen by the VP across the TS. Here the particle counts range from 40 to 50o0. (e) Similar plot as in panel (d) but with a full count sensitivity (counts range from O to 50oo). It shows the complete distribution of the total ions across the TS. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/90c00fdb1457807d8d7f457c02733de4d84c057a7860cfe2c6725047b86d5c4b.jpg",
+        "img_caption": [
+            "Fig. 9.—(a) Velocity distribution of the ions (black) selected in the “DS box” (see Figure 7) of the TS. Contributions of SWIs and PUIs to the total distribution are indicated by red and blue curves,respectively. The highlight region (cool core） at the peak of the distribution is expected to be observed by V2. (b） Heliosheath particle distribution (black） modeled by Zank et al. (201O). The Maxwellian (red) and $\\kappa$ (blue） distributions with the same temperature and particle density are also shown for reference. (c) Cool core of the ion distribution observed by V2 in the downstream region of TS-3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    }
+]

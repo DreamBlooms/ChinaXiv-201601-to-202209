@@ -1,0 +1,335 @@
+# CPU/ATIGPU混合体系结构上DGEMM的性能研究
+
+# 李佳佳 李兴建 谭光明
+
+摘要：本文报道了我们在CPU/ATIGPU混合体系结构上优化双精度矩阵乘法（DGEMM）的工作。在真实应用中，CPU与图形处理器（GPU）之间的数据传输是影响性能的关键因素。由于软件流水可以降低数据传输开销，我们提出了三种软件流水算法，分别是双缓存（Double Buffering）、数据重用（Data Reuse）和数据存储优化（Data Placement)。在AMD 公司的图形处理器（GPU）ATIHD5970上，优化后DGEMM性能达到758GFLOP/s，对应效率为 $8 2 \%$ ，是ACML-GPUv1.1性能的两倍。在IntelWestmereEP和 ATIHD5970组成的异构系统上，性能达到844GFLOP/s，效率为 $8 0 \%$ 。我们进一步考察了多个CPU 和多个GPU上DGEMM的扩展性，详细分析了体系结构方面的影响因素。分析表明，PCIe总线和内存总线的竞争是异构系统上程序性能降低的重要影响因素。
+
+关键词 高性能计算GPUCAL 矩阵乘法
+
+# 1引言
+
+双精度矩阵乘法是影响科学和工程领域多种应用性能的重要因素。多种关键数值算法，如 BLAS311和LU 分解[2]，都依赖于DGEMM的高性能实现。而全球超级计算机排名的依据——HPL3测试程序则是由稠密矩阵的LU分解构成。由于DGEMM的性能很大程度上依赖于计算机硬件，许多处理器厂商开发了基于特定机器的DGEMM，如英特尔的 MKL 和AMD²的ACML，并且在各自的多核处理器上进一步优化BLAS库。图形处理器（GPU）的浮点峰值性能比通用CPU 高出一个数量级以上，例如AMDHD5970 双精度浮点性能达到928 GFLOP/s；NVIDIATeslaC2070 的双精度浮点峰值性能为 515GFLOP/s。众所周知，DGEMM是计算密集型程序，访存比较规律，这使其适合在GPU上进行优化。事实上，已经有许多在 GPU 上优化 DGEMM 的工作[1-17,19-21,23-27]。以前的工作大多数针对 DGEMM 的计算矩阵已经存储在显存上的情况，对DGEMM在GPU上的实现进行优化。当前，在许多系统中GPU通过PCIe总线作为加速部件与CPU相连。在实际应用中，初始时DGEMM的计算矩阵都存放在CPU 主存上。由于GPU只能使用存储在GPU 显存上的数据，因此GPU计算DGEMM之前需要进行CPU与GPU之间的数据传输。由于GPU 显存容量的限制，大规模数据需要CPU与GPU之间进行多次数据传输。
+
+CPU/GPU的异构系统中，存储层次之间的数据传输对DGEMM的性能有重要影响。从系统的角度看存储层次分为两层：CPU的主存和GPU的显存。首先，CPU通过PCIe总线向 GPU 显存传输数据，然后GPU 渲染器（shader）从显存取数据计算。GPUHD5970 的显存峰值带宽为 $2 5 6 \mathrm { G B / s }$ ，而PCIe总线的峰值带宽是 ${ \& \operatorname { \mathbf { \sigma } } } \mathrm { { G B / s } }$ 。虽然DGEMM是计算密集型，但这两个带宽的差异仍然是异构系统上DGEMM总体性能的瓶颈。中里直人（N.Nakasato）在引文[15]中指出，如果将 CPU与 ATICypress GPU之间数据传输时间计入DGEMM的总时间，DGEMM的效率会从 $8 5 \%$ 降至 $5 5 \%$ 。AMD基于CPU-ATIGPU异构系统开发的GEMM
+
+优化库，也存在这种效率下降现象。
+
+优化DGEMM和分析未来混合体系结构的趋势，都需要对每个存储层次进行定量分析：了解当前的CPU-GPU异构体系结构，存储层次对DGEMM的总体性能到底产生了多大影响。虽然之前已经有一些DGEMM在GPU的优化工作，但少有文章进行了定量的分析，尤其对于CPU/GPU异构系统。
+
+本文通过对多核CPU/CypressGPU 异构系统的研究来解决上述问题。通过设计新算法来减少存储层次间数据传输的开销，我们在这个异构系统上得到了DGEMM的快速实现。本文的主要贡献有三点：
+
+$\bullet$ 定量分析了异构体系结构上的DGEMM性能，其中详细分析了CPU-GPU之间数据传输过程。分析显示，数据传输过程占DGEMM总时间的 $40 \%$ ，而不是先前工作得到的$20 \%$ ，因此数据传输的开销对DGEMM的性能有很大影响。  
+$\bullet$ 针对大规模的DGEMM提出了新的流水算法。三种优化方法依次是：双缓存优化（DoubleBuffering）、数据重用优化（DataReuse）、数据存储优化（DataPlacement）。优化后的DGEMM在一个Cypress GPU上，性能达到408GFLOP/s，对应效率达到 $8 8 \%$ 。优化后的 DGEMM性能是ACML-GPUv1.1的2倍多。在ATIHD5970上，优化后的DGEMM性能达到758GFLOP/s，对应效率为 $82 \%$ ；混合版DGEMM 在 Intel Westmere EP/ATIHD5970的异构系统上，性能达到844GFLOP/s，为峰值性能的 $80 \%$ 。  
+$\bullet$ 最后，我们分析了将DGEMM扩展到多个CPU 和多个GPU时的资源竞争情况，重点分析了PCIe竞争和内存竞争。从中得出，资源竞争（PCIe竞争和内存竞争）是可扩展性的主要瓶颈之一。然而，单纯凭借软件方式不能完全避免资源竞争对DGEMM整体程序的影响。
+
+# 2 背景
+
+我们的性能优化主要针对 ATIEvergreen GPU 体系结构，Cypress 是Evergreen 系列中最前端的GPU。ATI HD5870 卡封装了一个Cypress 卡，而 HD5970 集成了两个Cypress 卡。这部分主要介绍 Cypress 的几个重要特性——ATICAL软件层面上的存储层次。我们将ACML-GPU库中的DGEMM程序作为基准程序，并以它为基础进行性能优化，因此我们对ACML-GPU中DGEMM进行详细分析，从中寻找优化途径。
+
+# 2.1 Cypress GPU
+
+一个Evergreen GPU 芯片集成了多个计算单元、一个控制单元（又称为线程分发部件）、存储控制器和DMA4引擎。为了充分发挥浮点操作的吞吐量，CypressGPU微体系结构采用单指令流多数据流（SIMD）和超长指令字（VLIW)。由于
+
+![](images/0ea74ad27337fe235240265f661b51867483768f83972653492c9aa2e67ede25.jpg)  
+图1.CAL系统在CPU与ATIGPU间的存储层次
+
+DGEMM在GPU上的核心程序（kernel）5的优化不是本文的着重点，在这里我们不详细描述GPU 微体系结构的细节。本文使用文献[15]中的核心程序，其效率为 $80 \%$ 。简单讲，一个Cypress 卡当频率为 725MHz 时单精度浮点峰值性能为 $2 . 3 2 \mathrm { T F L O P / s }$ ，双精度浮点操作性能是单精度性能的1/5，因此在 $7 2 5 \mathrm { { M H z } }$ 频率下双精度浮点操作的峰值性能为464GFLOP/s。
+
+图1画出了CAL软件系统层面CPU/ATIGPU的异构体系结构的存储层次。下面我们详细介绍使用CAL系统中与程序优化密切相关的存储层次特征：
+
+$\bullet$ CAL系统将物理存储划分为本地存储和远程存储两部分。本地存储指显存，为显卡上的高速存储。远程存储指物理存储空间不在显卡上，但GPU仍可访问的存储空间（即CPU 主存的部分空间)。本地存储和远程存储都可由GPU 核心程序读取。换言之，GPU核心程序既可以把GPU 寄存器中的数据写回显存，也可直接写回远程存储。由于对远程存储空间的操作相对本地存储的操作有更长的延迟，因此这种存储方式的性能较低。远程存储进一步分为可缓存（cached）部分和不可缓存（uncached）部分。例如，CAL系统将HD5970的远程存储划分为1788MB的不可缓存存储和500MB的可缓存存储。因此，选择哪种存储空间作为CPU与GPU之间的共享数据空间，将会影响程序的性能。
+
+CAL应用中初始数据存放在CPU 的应用空间。GPU核心程序使用数据前需要进行两次数据传输：应用空间和远程存储之间与远程存储和本地存储之间。一种优化方法是利用系统的固定内存（pinned memory）——应用程序直接将CPU应用空间的数据传输到远程存储空间，使其直接进行DMA传输。这种方法省去了从应用空间到远程存储的数据传输。一些应用使用CUDA[5实现，通过这种方法有效地提升了性能。在CAL系统中，同样存在固定内存的技术，但固定存储在大小等方面存在限制。因此，通过存储层次之间适当的组织（如流水线算法)来降低PCIe总线上的数据传输时间是十分必要的。
+
+# 2.2DGEMM
+
+<html><body><table><tr><td>B1</td><td>B2</td></tr></table></body></html>
+
+本节描述大规模DGEMM在CPU/ATIGPU异构系统上的算法，原始数据存储在CPU的应用空间。DGEMM计算 $C : = a l p h a \times A \times B + b e t a \times C$ ，其中A、$\textbf {  { B } }$ 和 $c$ 分别是规模为 $\pmb { m } { \times } \pmb { k }$ 、 $\pmb { k } { \times } \pmb { n }$ 、 $\pmb { m } { \times } \pmb { n }$ 的矩阵。涉及DGEMM的实际应用中，这三个矩阵的规模较大，不能全部存储在GPU 显存上。因此，这三个矩阵被划分为多个子矩阵块，每次将几个矩阵块传输到GPU显存，进行部分DGEMM计算。划分算法将 $A$ 、 $B$ 、 $c$ 划分为 $A = \left\{ A _ { 1 } , A _ { 2 } , \cdots , A _ { p } \right\}$ ，$\pmb { { \cal B } } = \left\{ { \pmb { { B } } } _ { 1 } , { \pmb { { B } } } _ { 2 } , \cdot \cdot \cdot , { \pmb { { B } } } _ { q } \right\}$ ， $C = \left\{ C _ { 1 } , C _ { 2 } , \cdots , C _ { p \times q } \right\}$ ，其中 $\pmb { p }$ 和 $\pmb q$ 依赖于显存大小。以 $\scriptstyle { p = 2 }$ ， $\scriptstyle q = 2$ 为例，矩阵块乘法如图2所示。
+
+<html><body><table><tr><td>A1</td><td>WU1 (C1)</td><td>WU2 (C2)</td></tr><tr><td>A2</td><td>WU3 (C3)</td><td>WU4 (C4)</td></tr></table></body></html>
+
+图2 中划分产生了四个独立的 $c$ 子矩阵， $\pmb { C } _ { 1 } { = } \pmb { A } _ { I } { \times } \pmb { B } _ { 1 }$ ， $\pmb { C } _ { 2 } { = } \pmb { A } _ { 1 } { \times } \pmb { B } _ { 2 }$ ， $\pmb { C } _ { 3 } { = } \pmb { A } _ { 2 } { \times } \pmb { B } _ { 1 }$ 、 $\pmb { C } _ { 4 } { = } \pmb { A } _ { 2 } { \times } \pmb { B } _ { 2 }$ ，这四个矩阵块运算相互独立，可以并行计算。对每个子矩阵乘法，我们将其依赖的 $A$ 和 $\textbf {  { B } }$ 子矩阵传入显存，DGEMM 核心程序将这些子矩阵进一步划分为更小的矩阵[9-13]（如缓存（cache）分块和寄存器分块)。基于ATICAL系统的存储层次，大规模DGEMM实现如算法1。远程存储作为CPU 和GPU之间的共享空间，CPU 的应用空间与GPU 的显存（本地存储）之间传输数据必须经过远程存储（第1行)。算法1的伪代码中，加载数据到GPU 包含两个步骤（ $l o a d _ { \ l 1 }$ 和 $\ l _ { 1 0 a d _ { 2 } }$ )，将数据写回CPU内存为1个步骤（store)。事实上，第5 行 DGEMMmult 核心程序的操作中隐式地包含了另一个数据写回操作——子矩阵C 的数据从GPU 寄存器写回到远程存储。
+
+Partition: $\Im = \{ A _ { \ L _ { 2 } } , A _ { \ L _ { 2 } } , . . . , A _ { \ L _ { p } } \} , B = \{ B _ { \ L _ { 1 } } , B _ { \ L _ { 2 } } , . . . , B _ { \ L _ { q } } \} , C = \{ C _ { \ L _ { 1 } } , C _ { \ L _ { 2 } } , . . . , C _ { \ L _ { p x q } } \}$   
+Work unit: $W U = \{ C _ { 1 } = A _ { 1 } ^ { \ast } B _ { 1 } , C _ { 2 } = A _ { 1 } ^ { \ast } B _ { 2 } , . . . \}$   
+1   
+1.bind remote memory for sub-matrices A,B,C   
+2. for each workunit wui do //i=1,2...,.pxq   
+//load1   
+3. copy both $\mathsf { A } _ { \mathrm { i } }$ and $\mathsf { B } _ { \mathrm { i } }$ from application space into remote memory   
+//load2   
+4. copy both $\mathsf { A } _ { \mathrm { i } }$ and $\mathsf { B } _ { \mathrm { i } }$ from remote memory to local memory   
+//mult   
+5. calculate ${ \mathsf { C } } _ { \mathrm { i } }$ on GPU device and directly output it to remote memory   
+//store   
+6.copy Cifrom remote memory to application space (also multiply by beta)   
+7. endfor
+
+我们将算法1作为进行性能对比的基准程序。下面我们给出异构CPU/GPU系统上DGEMM运行时各部分的详细剖析。图3给出了算法1的每部分时间。由于不同问题规模下DGEMM各部分时间比例有着近似的分布，我们以 $\scriptstyle { k = 2 0 4 8 }$ 为例， $\mathbf { x }$ 轴值为 ${ \pmb m } ( { \pmb n } )$ 表示矩阵规模。我们发现GPUmu1t核心程序占用了大部分时间（大于 $70 \%$ )，而其余的三部分数据传输总共占据不到 $30 \%$ 的运行时间，直观上数据传输的时间可以被核心程序的计算时间所掩盖。为了寻找可并行执行的操作，我们将DGEMM算法中使用资源分为：GPU， $\mathrm { C P U + }$ 内存总线，PCIe总线三部分，这三种资源间的操作可以并行执行。
+
+图3.DGEMM原始实现的时间组成  
+![](images/1925649dce664d5dacaf2279de987eced507b7f610da17509dccf627205fdb43.jpg)  
+算法1. DGEMM的原始实现
+
+表1给出了算法1中各部分的资源占用情况。 $l o a d _ { 1 }$ 和store占用 $\mathrm { C P U + }$ 主存总线，$l o a d _ { 2 }$ 只需要PCIe 总线来传输数据。 $\boldsymbol { \mathit { M u l t } }$ 核心程序在GPU上执行，通过PCIe总线将结果输出到CPU主存。根据资源分配情况，利用软件流水算法来重叠数据传输（ $, \ l \ l _ { 1 } o a d _ { 1 }$
+
+表1.算法1中各步资源分配情况  
+
+<html><body><table><tr><td></td><td>CPU+内存总线</td><td>GPU</td><td>PCIe总线</td></tr><tr><td>Load1</td><td></td><td></td><td></td></tr><tr><td>Load2</td><td></td><td></td><td></td></tr><tr><td>Mult</td><td></td><td></td><td></td></tr><tr><td>Store</td><td></td><td></td><td></td></tr></table></body></html>
+
+$l o a d _ { 2 }$ ，store）和 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t$ 核心程序是可行的。杨灿群（Canqun Yang）等人也实现了利用流水线算法使 loadi和 mult 重叠执行[21l。然而，正如他们文章中所说及本文第4 部分的实验结果显示，简单的流水线算法对性能的提升并不明显（大概 $20 \%$ )。事实上，算法1的执行时间主体为mult核心程序。先前算法中 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \bot } t$ 核心程序都是直接将计算结果从寄存器写回远程存储，其中 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t$ 核心程序部分除了包含矩阵乘法计算还包含从PCIe总线写回数据。这样，在使用流水线后，核心程序中的数据传输成为性能瓶颈。因为：（1)．PCIe带宽小于GPU 显存/CPU主存带宽；（2)．mult写回的数据会比 $\ l \ l 1 o a d _ { 2 }$ 操作中传输的数据大。例如LINPACK中的DGEMM， $\pmb { k }$ 远小于 $\textbf { \em m }$ 和 $\textbf { \em n }$ ，因此输出的 $c$ 矩阵大小 $\pmb { m } { \times } \pmb { n }$ 大于输入的矩阵 $A , B$ 的大小 $\pmb { k } \times \left( \pmb { m } + \pmb { n } \right)$ 。并且如下一节所说，可以通过进一步开发数据重用优化来降低$\ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \$ 中的数据传输次数。因此我们优化流水线算法使浮点操作和数据传输操作重叠得更好。
+
+# 3 流水线算法
+
+软件流水是使计算和存储操作重叠的通用方法。算法1中有loadi、load、store 三个显式的存储操作在CPU 和GPU之间传输数据，乘法操作（mult）直接输出结果到远程存储。因此，用流水线算法实现mult和三个存储操作的并行执行是必要的。
+
+# 3.1双缓存优化（DoubleBuffering）
+
+Partition: $A = \{ A _ { \mathit { 1 } } , A _ { \mathit { 2 } } , . . . , A _ { \mathit { p } } \} , B { = } \{ B _ { \mathit { 1 } } , B _ { \mathit { 2 } } , . . . , B _ { q } \} ,$   
+$C = \{ C _ { \boldsymbol { \imath } } , C _ { 2 } , . . . , C _ { p x q } \}$   
+Work unit: $W U = \{ C _ { 1 } { = } A _ { 1 } { } ^ { * } B _ { 1 } , C _ { 2 } { = } A _ { 1 } { } ^ { * } B _ { 2 , { \ldots } } \}$   
+$C _ { i j }$ : thesub-matricesCis partitioned into blocks   
+1   
+1. bind remote memory for sub-matrices A,B,C   
+2. for each workunit $w u _ { i } { \bf d o } / / i { \bf = } 1 , 2 , . . . , p x q$   
+//load1   
+3. copy both $\mathsf { A } _ { \mathrm { i } }$ and $\mathsf { B } _ { \mathrm { i } }$ from application space   
+into remote memory   
+//load2   
+4. copy both $\mathsf { A } _ { \mathrm { i } }$ and $\mathsf { B } _ { \mathrm { i } }$ from remote memory to   
+local memory   
+//mult   
+5. calculate $\mathsf { C } _ { \mathrm { i } , 1 }$ on GPU device and output it to   
+remotememory   
+6.for each block $\mathsf { C } _ { \mathrm { i , j } }$ do $1 / \mathrm { j } = 2 , 3 \ldots$ //store   
+7．copy $\mathsf { C } _ { \mathrm { i , j - 1 } }$ form remote memory to   
+application space (also multiply by beta) //mult   
+8.calculate $\mathsf { C } _ { \mathrm { i , j } }$ on GPU device and output it   
+to remote memory   
+9.endfor //store   
+10.copy the last $\mathsf { C } _ { \mathrm { i , j } }$ form remote memory to   
+application space (also multiply by beta)   
+11. endfor
+
+Partition: A={A, A,.,Ap}, B={B,B.,Bq},   
+C={CL, C2,...Cpxq}   
+Work unit: $W U = \{ C _ { 1 } = A _ { 1 } ^ { \ast } B _ { 1 } , C _ { 2 } = A _ { 1 } ^ { \ast } B _ { 2 , } . . . \}$   
+$C _ { i j } .$ :thesub-matrices Cispartitioned into blocks   
+1   
+1. bind remote memory for sub-matrices A,B,C   
+//pre-processing   
+Allocate workunits in a wriggled way   
+//the for-loop ispipelined   
+2.for each workunit $w u _ { i } { \mathsf { d o } } / / i { = } 1 , 2 , . . . , p x q$   
+//load1   
+3. copy either $\mathsf { A } _ { \mathsf { i } }$ or $\mathsf { B } _ { \mathrm { i } }$ from application space into remote memory according to the indicators   
+//load2   
+4. copy either $\mathsf { A } _ { \mathsf { i } }$ or $\mathsf { B } _ { \mathrm { i } }$ from remote memory to local memory according to the indicators   
+//mult   
+5. calculate $\mathsf { C } _ { \mathrm { i } , 1 }$ on GPU device and output it to   
+remote memory   
+6.for each block $C _ { \mathrm { i , j } } \mathrm { d } \mathbf { o } / / \mathrm { j } { = } 2 , 3 . .$ //store   
+7．copy $\mathsf { C } _ { \mathrm { i } , \mathrm { j } - 1 }$ form remote memory to   
+application space (also multiply by beta) //mult   
+8.calculate $\mathsf { C } _ { \mathrm { i , j } }$ on GPU device and output it   
+to remote memory   
+9. endfor //store   
+10. copy the last $\mathsf { C } _ { \mathrm { i , j } }$ form remote memory to   
+application space (also multiply by beta)   
+11. endfor
+
+算法3. 结合数据重用优化（DataReuse）的DGEMM
+
+写回 $c$ 矩阵的 $s t o r e$ 操作实现了数据传输和少量的浮点计算 $( b e t a \times C )$ ，占用一定CPU资源。为隐藏写回 $c$ 矩阵的开销，一种方法是在不同工作单元间实现流水。例如，当工作单元i执行 $s t o r e$ 操作时，工作单元 $\mathrm { i } { + } 1$ 的 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t$ 操作可以同时进行。这种流水线存在两个问题。首先，loadi和 store之间存在资源冲突，因为他们都是在应用空间和CAL的远程存储（CPU 主存的一部分）之间进行数据传输，资源的冲突降低流水线效率。其次，远程存储空间的大小有限，尤其是可缓存远程存储。由于 store 操作在CPU部分执行，因此利用可缓存远程存储空间保存产生的 $c$ 子矩阵。但缓存空间大小限制流水线中可并发执行的工作单元数量。
+
+一个更好的策略是在一个工作单元中开发更细粒度的流水线。算法2给出了细粒度流水线的伪代码，将生成的 $c$ 子矩阵块进一步划分成更细的子块，这些子块用流水方式执行。我们开发了双缓存算法，在可缓存远程存储上开辟两个缓存空间。对于算法2第6-9行的每个for循环， $s t o r e$ 操作将一个缓存的子矩阵块 $c _ { \mathrm { i , j } }$ 写回应用空间，同时mult计算下一个子矩阵块 $C _ { \mathrm { i , j + 1 } }$ 并将其写回到另一个缓存空间。流水过程中，mult 和 store交替使用这两个缓存空间。由于GPU的核心程序以异步的方式执行，因此对于每个循环mult和 store都可以并行执行。
+
+# 3.2数据重用优化（DataReuse）
+
+从上面得知， $\ l _ { 1 0 a d _ { 1 } , \ l _ { 1 } o a d _ { 2 } }$ 和 $s t o r e$ 操作的执行时间总和比mult执行时间小很多（图3)，这三部分的开销可以较容易地被工作单元间的流水线执行方式掩盖。然而，各操作间仍存在资源冲突， $\ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \$ 和 store 之间存在CPU 主存冲突， $\ l \ l 1 o a d _ { 2 }$ 和mult之间存在PCIe冲突。资源冲突导致流水线的延迟，从而降低DGEMM的整体性能。
+
+幸运的是，在两个连续的工作单元间我们可以开发数据重用。以图2为例，如果我们按照 $\pmb { W } \pmb { U } _ { 1 } = \pmb { C } _ { 1 } = \pmb { A } _ { 1 } \times \pmb { B } _ { 1 }$ ， $\pmb { W } \pmb { U } _ { 2 } = \pmb { C } _ { 2 } = \pmb { A } _ { 1 } \times \pmb { B } _ { 2 }$ ， $\pmb { W } \pmb { U } _ { 3 } = \pmb { C } _ { 4 } = \pmb { A } _ { 2 } \times \pmb { B } _ { 2 }$ ， $\pmb { W } \pmb { U } _ { 4 } = \pmb { C } _ { 3 } = \pmb { A } _ { 2 } \times \pmb { B } _ { 1 }$ 的顺序调度工作单元，每两个连续的工作单元间都有一个输入子矩阵是相同的，这就降低了资源冲突的开销。开发数据重用还需要另外两个步骤：首先，需要一个预处理过程，对工作单元重新排序，结果存放在一个队列中。我们把 $c$ 矩阵划分为条形矩阵的集合，以整数 $( \mathrm { i } { = } 0 , 1 \ldots )$ （20命名。每个条形矩阵再分为矩阵块，当 $\mathrm { i } \% 2 { = } 0$ 时自底向上划分；当 $\mathrm { i } \% 2 { = } 1$ 时自上而下划分。我们以这种“迁回”的方式划分条形矩阵，一个条形矩阵顶部（或底部）的矩阵块与下一个条形矩阵顶部（或底部）的矩阵块相连，并将所有矩阵块按序存入队列。其次，我们需要设置两个标志，标出正在运行的 $A , B$ 的矩阵块在队列中的位置，避免载入相同的矩阵块。算法3给出了结合数据重用优化的流水线算法。
+
+# 3.3数据存储优化（DataPlacement）
+
+表2．优化后DGEMM（算法4）的资源分配情况  
+
+<html><body><table><tr><td></td><td>CPU+内存总线</td><td>GPU</td><td>PCIe总线</td></tr><tr><td>loadi</td><td></td><td></td><td></td></tr><tr><td>load2</td><td></td><td></td><td></td></tr><tr><td>mult</td><td></td><td></td><td></td></tr><tr><td>storel</td><td></td><td></td><td></td></tr><tr><td>store2</td><td></td><td></td><td></td></tr></table></body></html>
+
+数据重用优化中 $A$ 和 $\textbf {  { B } }$ 的矩阵子块临时存储在GPU本地存储中。我们将 $A$ 和 $\textbf {  { B } }$ 的远程存储空间设置为不可缓存方式，因为：（1)．矩阵 $A$ 和 $\textbf {  { B } }$ 的数据传输过程中不需要计算；（2)．远程存储的可缓存部分空间太小，不能有效加速 $\_ l o a d _ { 1 }$ 操作的执行。由于所有工作单元中的 $c$
+
+子矩阵之间不存在数据重用，是相互独立的，且 $c$ 矩阵作为最终输出结果不会重新使用，这样看来，将 $c$ 矩阵存储在远程存储而非GPU本地存储很合理，并且减少了有限显存空间的占用。因此上面的三个算法中， $c$ 矩阵都是存储在可缓存远程存储上，以期在诸如内存间数据拷贝和与beta的乘积等运算获得更高的CPU性能。
+
+上述流水线的执行使得数据传输操作(loadi、load、store)与乘法核心程序(mult)重叠，流水线的执行时间基本由mult时间决定。因此，目前的优化方向是降低流水线中mult 的执行时间。由于 mult 核心程序中包含数据传输操作，输出数据从GPU 寄存器直接写回远程存储。我们的优化策略是在流水线中增加一个额外的阶段，这样输出数据到远程存储的操作也可以和GPU核心程序的计算重叠。
+
+<html><body><table><tr><td>Partition: A={AL, A2,.,Ap}, B={B,B2,..,.Bq}, C={CL, C2,..,.Cpxq} Work unit: WU={C1=A1*B1, C2=A1*B2,..} Cij: the sub-matrices Cis partitioned into blocks 1///1. bind remote memory for sub-matrices A,B,C //pre-processing Allocate workunits in a wriggled way //the for-loop is pipelined 2.for each workunit wui do //i=1,2.,..,.pxq //load1 3.copy either Ai or B; from application space into remote memory according to the indicators //load2 4. copy either Ai or B; from remote memory to local memory according to the indicators //mult 5. DMAPipeline(Ci,1) 6. for each block Ci,j do //j=2,3... //store2 7． copy Cij-1 form remote memory to application space (also multiply by beta) //mult 8.DMAPipeline(Ci,j) 9.endfor //store2 10. copy the last Ci,j form remote memory to application space (also multiply by beta) 11. endfor</td><td>Algorithm: DMAPipeline(Ci,j) Ci,j,k: the Ci.j blocks are further partitioned into sub-blocks //mult1 1. calculate Ci,j,1 in local memory 2.for each sub-block Cijk do //k=2.,3... /storel 3．DMA transfer Ci,j,k-1 from local memory into remote memory //mult1 4．calculate Ci,j,k in local memory 5.endfor /store1 6.DMA transfer the last Ci.j,k from local memory into remote memory</td></tr></table></body></html>
+
+因此我们把矩阵 $c$ 直接输出到远程存储的操作从mult核心程序中分离出来。核心程序产生的结果输出到GPU 本地存储，而非远程存储。如算法4所示，先前的 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t$ 操作分成两个阶段： $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { J } } t _ { 1 }$ 和 $\boldsymbol { s t o r e } _ { 1 }$ ， $\boldsymbol { s t o r e } _ { 1 }$ 将 $c$ 矩阵从GPU 本地存储传输到远程存储。资源的占用情况发生改变， $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 完全由GPU设备执行，而 $\boldsymbol { s t o r e } _ { 1 }$ 由DMA引擎传输数据。由于核心程序和DMA操作都是异步执行，我们在显存中同样采用双缓存策略来存储 $c$ 子块,使得这两个操作并行执行。为了表述更清晰，以下部分我们用 $\_ s t o r e _ { 2 }$ 来代替 $s t o r e$ 操作。
+
+到目前为止，优化的DGEMM中建立了5级流水线（1oadi、load、multi、 $s t o r e _ { 1 } .$ $s t o r e _ { 2 } .$ )，各个操作的资源占用情况如表2所示。至此我们成功地解决了第2节提到的ACML-GPU中的两个问题。 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 核心程序只需要GPU资源，不再需要PCIe总线和系统内存，消除了mult中的PCIe竞争， $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 核心程序可以与 $\ l \ l 1 o a d _ { 2 }$ 并行执行。算法4不仅提出了更快速的核心程序执行，而且细化了流水线，降低了由于资源竞争造成的流水线延迟。我们绘出了流水线的粗略时空图（图4)，此图只画出了流水线的大致流程，未考虑每个微小步骤之间的资源冲突情况。我们用不同的底纹表示这五个操作。 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 块中的条形小块表示被 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 核心程序重叠的子矩阵的数据传输操作。如此图所示，除了流水线的开始和结束开销，算法4中大部分数据传输过程被完全重叠。
+
+![](images/4246495505b7f30794748c8179e908d95e9f4a7f339e9380c9c623cc5e24d97e.jpg)  
+图4.优化后的DGEMM流水线执行时空图
+
+# 4 实验结果和分析
+
+# 4.1实验建立
+
+我们的实验平台是2-路IntelXeon5650CPU和一个ATIHD5970GPU卡组成的异构平台。表3概括了实验平台的配置参数，其中英特尔的多核CPU双精度浮点峰值性能为128GFLOP/s。CPU内存大小为24GB，带宽为31GB/s。GPU集成了两个Cypress 芯片，双精度浮点峰值性能为 928GFLOP/s。GPU 显存大小为2GB，带宽为256GB/s。该异构系统双精度浮点峰值性能达到1056GFLOP/s。
+
+表3.实验平台的系统配置参数  
+
+<html><body><table><tr><td colspan="2">处理器</td><td>Intel Xeon X5650</td><td>ATIHD5970</td></tr><tr><td colspan="2">架构</td><td>Westmere EP</td><td>Cypress</td></tr><tr><td colspan="2">频率</td><td>2.66Ghz</td><td>725Mhz</td></tr><tr><td colspan="2">芯片数</td><td>2</td><td>2</td></tr><tr><td colspan="2">双精度浮点峰值</td><td>128GFLOP/s</td><td>928GFLOP/s</td></tr><tr><td rowspan="3">DRAM</td><td>类型</td><td>DDR31.3Ghz</td><td>GDDR5 1.0Ghz</td></tr><tr><td>大小</td><td>24GB</td><td>2GB</td></tr><tr><td>峰值带宽</td><td>31.2GB/s</td><td>256GB/s</td></tr><tr><td colspan="2">PCIe2.0</td><td>x16,8GB/s</td><td></td></tr><tr><td colspan="2">编程环境</td><td>icc +openmpi</td><td>ATI Stream SDK 2.2</td></tr></table></body></html>
+
+为了给出完整的实验分析，我们依次运行了第3节的三个优化算法，其中每个优化算法都包含前一种优化。为方便描述，我们定义一些记号代表不同的优化版本。
+
+$\bullet$ DB：该程序执行算法2—利用双缓存策略隐藏从远程存储写回到 $c$ 矩阵到应用空间的开销。程序分配的两个缓存大小由显存中的矩阵大小决定。  
+$\bullet$ DR：该程序执行流水线算法3，基于DB 优化并对降低输入矩阵的载入开销进行了改进，其中一个重要优化是开发读入矩阵的数据重用。）DP：在DB 和DR的基础上，该程序执行算法4，针对CAL系统存储层次中的数据存放进行优化。其主要优化是改变了矩阵 $c$ 的存储位置并利用DMA方式设计出更有效的流水线。  
+·HB：上述三个程序单纯利用GPU的计算资源，本程序实现了混合版
+
+DGEMM—CPU和GPU并行进行矩阵乘法运算。我们采用引文[21]中提出的CPU与GPU之间负载均衡策略，在CPU和GPU之间进行矩阵划分。实验中，我们启动两个MPI进程，每个进程使用一对CPU/GPU。
+
+这四个程序代表了四种优化策略，程序之间的优化策略包含情况为 DB<DR<DP<HB。由于ACML-GPU[7库中的DGEMM代码是开源的，我们利用这个代码作为我们的初始实验和实验对比来衡量本文的优化效果。
+
+表4给出了实验中用到的矩阵大小 $( m , n , k )$ 。由于 $\smash { m , n }$ 值的不同对DGEMM性能几乎没有影响，因此我们设定 $\scriptstyle { m = n }$ 。 $\pmb { k }$ 的大小决定了输入矩阵 $A$ 、 $\textbf {  { B } }$ 时的数据重用个数，影响
+
+DGEMM性能。我们取三种 $\pmb { k }$ 的值代表不同的数据集大小， $\pmb { k }$ 分别等于1536、2048、4096。在以下部分，我们通过计算相同 $\pmb { k }$ 值不同 $\mathbf { \nabla } _ { m }$ 或 $| n \rangle$ 规模矩阵的性能均值得出不同 $\pmb { k }$ 大小对应的三种规模DGEMM性能值。对于详细的剖析我们默认以 $k { = } 2 0 4 8$ 为例，不同的矩阵规模通过 $\mathbf { \boldsymbol { x } }$ 轴上的 ${ \pmb m } ( { \pmb n } )$ 值表示。
+
+表4．实验中使用的 ${ \mathrm { m } } , { \mathrm { n } } , { \mathrm { k } }$ 大小  
+
+<html><body><table><tr><td>k</td><td colspan="5">m=n</td></tr><tr><td>1536</td><td rowspan="3">16384</td><td rowspan="3">20480</td><td rowspan="3">24576</td><td rowspan="3">28672</td><td rowspan="3">32768</td></tr><tr><td>2048</td></tr><tr><td>4096</td></tr></table></body></html>
+
+# 4.2实验结果
+
+首先，我们给出优化的DGEMM在异构系统上的性能。性能对比的基准程序为ACML-GPUv1.1，图5画出了最终优化版本DP和CPU/GPU协同计算的混合版DGEMM（HB）的性能提升。混合版DGEMM（HB-2GPU）最高性能为844GFLOP/s在矩阵规模为 $( m , n , k ) = ( 1 6 3 8 4 .$ 16384,4096)处取得，其相应的效率为 $80 \%$ 。优化后DGEMM在GPU上的（DP-2GPU）最高性能为758GFLOP/s在矩阵规模 $( { \pmb m } , { \pmb n } , { \pmb k } ) =$ (16384，16384，4096)处取得，对应效率为 $82 \%$ 。这些结果说明DP-
+
+![](images/3a8f6f3c6ec9f2bc41fa1ea61bc35bc8978f1b6b556d927dd1938699b29ae2aa.jpg)  
+图5.优化后DGEMM性能及效率（两个MPI进程）
+
+2GPU是ACML-GPU 库中DGEMM 性能的2 倍,混合版DGEMM 性能进一步提升了$10 \% - 2 0 \%$ 。大体来说，随着矩阵规模增大这三个程序都表现出性能和效率的提升。有的规模出现了反常的情况（当 $\pmb { m } = \pmb { n } = 1 0 2 4 0$ 时)，因为此时的问题规模不是最优的数据传输和核心程序执行时矩阵块大小的整数倍。随着矩阵规模增大，DP 相对ACML-GPU的加速比降低。当 $\pmb { k }$ 为1536、2048、4096，加速比分别为2.9、2.1、1.9倍。这是由于数据传输与核心程序执行时间的比例随着问题规模的增大而降低。而我们的流水线优化是针对降低CPU与GPU之间数据传输的开销，因此规模大的矩阵优化效果减弱。我们观察到大规模矩阵比小规模矩阵在GPU上相对而言更容易获得高效率，因为小规模矩阵数据传输时间的比重大。矩阵规模越小，越难得到好的效率。并且，矩阵规模越大，HB-2GPU的性能提升越快。这是因为矩阵规模越大，CPU部分DGEMM的性能越好，从而提升了HB-2GPU的整体性能。
+
+其次，我们评价了第3节提出的三种优化策略。为了屏蔽系统中的其他干扰（如带宽竞争，我们将在下一节详细介绍)，我们在一个GPU 芯片上运行DGEMM 程序且不分配计算任务给CPU，CPU只用来指导数据传输。图6画出了优化后算法性能的增长，包括双缓存优化（DB）、数据重用优化（DR）和数据存储优化（DP)。与算法1 对比，双缓存优化借助在一个工作单元内部将store2流水执行，性能提升了 $1 6 \%$ 。数据重用优化由于对不同工作单元间的数据载入操作流水执行，进一步使性能提升了 $1 8 \%$ 。最后，数据存储优化又更进一步使性能显著提升了 $74 \%$ ，其中我们优化了原始的mu1t核心程序并利用DMA引擎对 $c$ 矩阵的写回操作进行流水处理。在单个CypressGPU芯片上，DP优化算法达到了408GFLOP/s的性能，其效率为 $8 8 \%$ 。
+
+图3中表示的三个数据传输操作（ $\_ l o a d _ { 1 }$ 、load和store）占据了总计算时间的近$30 \%$ ，但这并不是全部的数据传输过程，还应加入 $\boldsymbol { s t o r e } _ { 1 }$ 的执行时间。我们优化了流水算法，将store从 mult 核心程序中分离出来。显然，这种做法更符合流水线的本质。将mult 核心程序中的 storei计入总数据传输时间后，总数据传输过程占据了总时间的 $40 \%$ 以上。图7给出每个数据传输操作占总数据传输时间的百分比。从中看出，图6中的每种优化策略得到的性能提升与各部分数据传输时间的分布大体一致，说明我们的优化使流水线得到了充分利用。另外，数据存储优化使得DGEMM得到了更多的性能提升，这是因为通过这一优化，核心程序的性能也得以提升。图6中还可以看出，优化的DGEMM性能对矩阵规模变化不太敏感，性能比较平稳。这一性质为将优化的DGEMM扩展到多个CPU和多个GPU 的平台打下了良好基础。本图中在一个GPU芯片上DGEMM的性能平稳，这与图5中异构平台上得到的性能趋势不同。我们将在下一节进一步讨论这一现象。
+
+![](images/93d82894141d9376abe21b3f29dbeb267edcf93cce1705bf1bfb0b74140ad166.jpg)  
+图6.每种优化方法的性能提升
+
+![](images/5b13fd5c874fd82b7c3abc8943f1d320cb2fc37f192fb752384f011acf81f0e9.jpg)  
+图7.DGEMM中四个数据传输操作所占百分比
+
+# 4.3实验分析
+
+CPU数学库中DGEMM的效率通常达到 $90 \%$ 以上，异构体系结构上混合版DGEMM的效率最高为 $82 \%$ 。本节我们考察：（1)．我们的流水线优化在异构体系结构上还存在多大的优化空间；（2)．体系结构的参数怎样影响优化的DGEMM在多个CPU/GPU的性能。
+
+# 4.3.1性能差距
+
+在流水线执行的五个阶段， $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 核心程序决定了DGEMM可能达到的最高性能。中里直人[15]优化了DGEMM 核心程序的性能，在 HD5870（集成一个Cypress 芯片）上获得的最高效率是 $87 \%$ 。我们采用中里直人优化后的核心程序。不同的是，我们使用了图像读写寻址模式，而不是全局寻址模式。因此在一个Cypress芯片上，我们获得了更高的效率：$94 \%$ 。
+
+图8绘出了DGEMM与核心程序的效率对比，其中含有一个GPU卡优化的DGEMM实现（即DP实现)，两个GPU卡的DP 实现及两个CPU与两个GPU的混合版DGEMM实现。我们对每个测试集求出它们的平均效率。DGEMM执行过程中多次调用核心程序，我们对每次核心程序计时，最后求出它们的性能平均值作为最终的核心程序性能。优化的核心程序只读写GPU的本地存储空间，因此它的性能与CPU无关。如图所示，核心程序的平均效率超过 $90 \%$ （最优效率为 $94 \%$ )，与CPU上DGEMM效率相近。DP与核心程序的区别是CPU与GPU之间通过内存总线和PCIe总线的数据传输的有无，本文通过软件流水方法掩盖数据传输的开销。图中的实验结果表示由于数据传输开销，DP-1GPU 的效率相比核心程序降低了 $6 \%$ 。该性能降低有两个原因：首先，流水线的启动和终止时间是不能隐藏的，这部分大约占据了DGEMM总时间的 $3 \%$ 。其次，如表2所示，优化的DGEMM中仍然存在固有的资源冲突， $\_ l o a d _ { 1 }$ 和 $\_ s t o r e _ { 2 }$ 间的内存总线冲突，load和storei间的PCIe总线冲突。除去这两个因素，我们认为优化的DGEMM在一个GPU芯片上实现DP-1GPU几乎达到了最优性能。
+
+从图8中还得知，当DGEMM运行在更多的CPU和GPU时（DP-2GPU和HB-2GPU）效率下降。当在两个GPU芯片上运行DP时（DP-2GPU），与DP-1GPU相比效率降低$1 1 \%$ 。这是因为两个GPU芯片上运行的DGEMM，都需要通过内存总线和PCIe总线进行CPU和GPU之间的数据传输，加剧了这两条总线的资源竞争。另外，当DGEMM扩展到两个CPU和两个GPU的异构系统时（HB-2GPU)，效率相比DP-2GPU降低 $5 \%$ 。HB-2GPU中CPU运行部分矩阵的DGEMM，与GPU共享同一应用空间，进一步加重了内存总线负担。增加的系统内存竞争使得
+
+![](images/285d0d8f330bb9307400346b80e3e1909615ee1d6ff40c80a5fb5990163ee5e4.jpg)  
+图8.扩展到多个GPU/CPU时优化后DGEMM的效率
+
+HB-2GPU的效率低于DP-2GPU。我们将在接下来的两节详细讨论这两种资源竞争。
+
+# 4.3.2多个GPU上的扩展性
+
+目前大多数加速器（如GPU,ClearSpeed,Tilera）通过PCIe 总线与CPU 相连，主板上的多个PCIe插槽可以同时支持多个GPU 连接。有些GPU卡集成了多个GPU芯片，如ATIRadeon HD5970 和NVIDIA Tesla S1070。因此，优化的DGEMM在多个GPU上的扩展性问题也很重要。由于实验平台的限制，实验中运行两个MPI进程，每个进程负责一个GPU芯片的运行。由于影响DGEMM扩展性的关键因素是共享资源竞争，如PCIe总线和内存总线，用两个GPU芯片的性能来预测DGEMM在多个GPU上的性能是可行的。实验试图通过两个GPU芯片之间的带宽竞争来预测多个GPU上DGEMM的扩展性。实验剖析了DGEMM从一个GPU芯片到两个GPU芯片的有效带宽变化，其中DP-2GPU中每个MPI进程运行的矩阵规模与DP-1GPU相同。从表2中可以看出，PCIe 总线和内存总线都存在带宽竞争。
+
+为了突出带宽变化，我们将 DP-2GPU上的PCIe 和内存带宽相对 DP-1GPU 的带宽进行归一化。首先，我们考虑 $\ l \ l 1 o a d _ { 2 }$ 和 $\boldsymbol { s t o r e } _ { 1 }$ 之间的PCIe带宽竞争情况。图9显示了平均带宽的降低，y轴表示归一化后的相对带宽。如图所示，load 和$s t o r e _ { 1 }$ 的有效带宽分别达到DP-1GPU的 $89 \%$ 和$56 \%$ 。由于PCIe传输得更加频繁并且需要传输的数据规模更大（矩阵 $c$ 的大小大于矩阵 $A$ 与 $\textbf {  { B } }$ 的大小之和)，故 $\boldsymbol { s t o r e } _ { 1 }$ 的带宽下降幅度更大。正如 3.3节提到的，为充分利用流水线， $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 核心程序将子矩阵进一步划分为更小的子块。每个$s t o r e _ { 1 }$ 操作一个更小的矩阵子块。 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 运行时，几个 $\boldsymbol { s t o r e } _ { 1 }$ 同时执行（根据核心程序计算的子块大小，我们的实验中是4个 $\boldsymbol { s t o r e } _ { 1 }$ 与1个 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 同时执行)。 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 执行时间内，PCIe 带宽可认为被 $\boldsymbol { s t o r e } _ { 1 }$ 占用，这样即使在一个GPU 芯片运行的 DGEMM， $\boldsymbol { s t o r e } _ { 1 }$ 对 PCIe带宽占用率已经很高。因此，当扩展到两个GPU芯片时，PCIe总线的竞争变得更加激烈。然而， $\ l \ l 1 o a d _ { 2 }$ 过程中 PCIe有效带宽的下降并没有像 $\boldsymbol { s t o r e } _ { 1 }$ 这样严重。这是因为 $\ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \ l \$ 与 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { J } } t _ { 1 }$ 核心程序是工作单元间的流水，而非 $\boldsymbol { s t o r e } _ { 1 }$ 与 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 的工作单元内部流水，因此对PCIe的请求不如 $\boldsymbol { s t o r e } _ { 1 }$ 频繁。另外, $\ l \ l 1 o a d _ { 2 }$ 传输的矩阵规模为 $( \pmb { m } + \pmb { n } ) \ \times \pmb { k }$ ，而 $\boldsymbol { s t o r e } _ { 1 }$ 传输的矩阵规模为 $\pmb { m } \times \pmb { n }$ 。由于 $k$ 比 $\textbf { \em n }$ 小很多，因此前者对PCIe总线的压力较小。
+
+![](images/8700101e3dfbeaa71561a4ad3b3bd9823ca27327b42ba01fe6a83825fea3b135.jpg)  
+图9.DGEMM在一个GPU卡和两个GPU卡上PCIe相对带宽百分比
+
+![](images/129f0a18165c7795f4fca0905c7328139785096907327722c1f014dd94a53790.jpg)  
+图10.DGEMM系统内存在一个和两个GPU卡上的利用率相对百分比
+
+其次，由于传输数据也发生在应用空间和CAL的远程存储上，因此除了PCIe带宽竞争，两个GPU芯片上还存在内存总线竞争。图10表示1oadi和 $\_ s t o r e _ { 2 }$ 的有效内存带宽分别下降了 $8 \%$ 和 $14 \%$ 。与PCIe带宽下降的原因类似， $\_ s t o r e _ { 2 }$ 的带宽下降更明显。
+
+通过对流水线执行过程的分析，我们发现在DP-1GPU 中，loadi、load、storei$s t o r e _ { 2 }$ 基本被 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathrm { 1 } } t _ { 1 }$ 全部掩盖。然而，图8显示有效带宽的降低仍然导致了DP-2GPU的效率降低 $1 1 \%$ 。这说明共享资源的竞争（PCIe带宽和内存带宽）阻止了部分数据传输过程与 $\boldsymbol { m } \boldsymbol { u } \boldsymbol { \mathcal { I } } \boldsymbol { t } _ { 1 }$ 核心程序重叠。随着GPU数目增加，带宽的请求会更加频繁，加剧带宽竞争对整体性能的影响。综上，当DGEMM从1个GPU芯片扩展到2个GPU芯片时，PCIe和系统内存的带宽都下降。基于这些实验结果，我们得到以下两个结论：
+
+$\bullet$ 结论1：由于PCIe带宽的限制，DGEMM在同一主板上多个GPU卡的扩展性受限。DGEMM中 $\ l \ l 1 o a d _ { 2 }$ 和 $\boldsymbol { s t o r e } _ { 1 }$ 都使用PCIe带宽，如图7所示，这两个操作占DGEMM总数据传输时间的 $60 \%$ 。图8的实验结果给出了竞争导致的两个GPU芯片上DGEMM（DP-2GPU）的效率降低。随着GPU数目的增多，PCIe竞争增强，DGEMM的效率受到的影响增大。
+
+：结论2：改善系统内存带宽，GPU-onlyDGEMM（DP-1GPU和DP-2GPU）的性能会有所提升。虽然 $\_ l o a d _ { 1 }$ 和 $\ s t o r e _ { 2 }$ 都占用内存带宽，但从图10 得出，它们对内存带宽的竞争敏感度较低。如图7所示，这两部分的执行时间并不是数据传输时间的主要部分。虽然在某些情况下，固定内存的使用可避免loadi和 $\_ s t o r e _ { 2 }$ 的竞争。但使用固定内存的前提是数据不会被重新分配，且数据规模小于固定内存的限制。我们的工作证明了这部分的传输开销同样可以通过算法优化来降低。
+
+# 4.3.3混合CPUs和GPUs的扩展性
+
+我们的混合实验平台上，IntelXeon CPU 提供了128GFLOP/s 的计算能力，占系统双精度浮点性能的 $12 \%$ 。对计算密集型程序（如DGEMM）作性能优化时，CPU的计算能力不容忽视。在混合版DGEMM的HB-2GPU 实现中，矩阵首先被划分为均等的两部分，每部分都分别由一对CPU/GPU 计算。每对 CPU/GPU 中，我们采用引文[21]中描述的划分算法在CPU 和GPU之间划分任务。虽然 HB-2GPU 相对DP-2GPU 性能提升了 $6 \%$ ，效率却下降了 $5 \%$ ，本节分析效率下降的原因。
+
+图8给出了DGEMM在混合CPUs/GPUs系统上DGEMM的效率。我们在图11中分析CPU 部分（记为CPU-HB）对HB-2GPU的性能贡献。单纯CPU版的DGEMM程序（记为Pure-CPU）作为对比程序，Pure-CPU 计算的矩阵规模与CPU-HB 相同。该图显示混合版DGEMMCPU部分性能比Pure-CPU 降低 $2 2 \%$ 。这是由于混合版DGEMM中 GPU计算的DGEMM也需要从应用空间到CAL远程存储拷贝数据，从而对DGEMMCPU部分的计算造成干扰，导致CPU内存竞争更为激烈。我们从中得出结论：
+
+$\bullet$ 结论3：改善系统内存带宽有利于降低内存竞争，从而提高混合版DGEMM 在CPUs/GPUs异构系统的性能。随着CPU计算能力的增强，系统内存竞争对混合DGEMM的整体性能影响会增大。固定内存的使用将有利于降低内存竞争。
+
+0.10  
+0.05  
+0.00  
+-0.05  
+-0.101536 2048 4096矩阵规模 $( k )$ 每条曲线从左至右各点m=n，依次为  
+16384、20480、24576、28672、32768
+
+![](images/929503e39a0509c64cafe8f5d48e034925d8d2014adca14e38ccc0a55db9377a.jpg)  
+图11.混合版DGEMM中CPU部分与纯CPU版DGEMM性能对比  
+图12.CPU和GPU任务负载不平衡对DGEMM的影响
+
+另一个效率降低的原因是CPU与GPU之间负载的不均衡。我们采用启发式的划分策略，使得CPU与GPU的执行时间差距在一定阈值内。根据多次实验总结，本文的阈值取为0.1秒。图12画出CPU与GPU执行时间的相对差异，纵坐标为（（GPU计算时间-CPU计算时间）/CPU 计算时间)，这细微的不均衡性导致了混合版DGEMM整体性能的少许降低（约$1 \%$ ）。
+
+# 5 其他相关工作
+
+先前有一些工作对矩阵规模小于显存的 DGEMM 进行了GPU 优化。中里直人基于
+
+HD5870 提出了新的DGEMM 核心程序[15]，核心程序性能达到了GPU 峰值性能的 $87 \%$ 。我们优化的DGEMM核心程序性能在HD5970 的一个Cypress 芯片上达到了 $94 \%$ 。张（音译，Chris Jang）提出的GATLAS 自动调优器[20利用自动调优方法加强不同GPU结构上的可移植性，并打算在真实应用中调用。GATLAS同样只关注了矩阵可以存入GPU显存的情况，因此现在还没有直接的方式在真实应用中调用GATLAS。沃尔科夫（V.Volkov）和德梅尔（J.Demmel）在混合CPU/GPU 系统上实现了单边的矩阵分解（LU,QR等）[12]，他们将分解过程分配到CPU 和GPU上使其同时执行。但其中的矩阵乘法仍然只针对矩阵能存放在GPU显存的情况，不存在CPU与GPU间的数据传输。此外还有很多工作针对GPU上特定程序的性能优化，均未考虑数据传输过程，这里不一一列举。
+
+还有一些工作虽然考虑了数据传输开销，但他们大多集中于实现CPU 和GPU 的计算过程并行，并未设法降低数据传输的开销。文卡塔苏布拉玛尼安（S.Venkatasubramanian）和乌杜科（R.Vuduc）在混合CPU/GPU 架构上实现了雅克比算法[23]。他们考虑了CPU 与 GPU之间的数据传输，混合程序的性能提升仅 $8 \%$ 。任达奇（音译，DaQiRen）和须田玲兒（ReijiSuda）在多核CPU/GPU系统上实现了大规模矩阵乘法[25]。他们的关注点是能耗问题，利用CPU 的多线程来进行优化。当一个线程等待GPU访存结束的信号时，CPU开启一个新线程执行其他的任务。这种方法使得GPU可以和CPU同时进行计算，而数据传输仍然会造成整个执行过程停滞，从而浪费CPU 和GPU 的计算能力。费彻廷格（C.Feichtinger）等人在混合 CPU/GPU 集群上实现了并行的格子波尔兹曼（Latice Boltzmann）方法[24]。他们通过只传输偏微分方程的边界值使传输数据量最小化。他们认为负载不均衡是导致性能提升效果不明显的原因之一。阿加塔（Y.Ogata）等人提出了基于模型的CPU/GPU 系统上的异构快速傅里叶变换库[27]。这一模型更好地指导 CPU 与GPU 之间计算任务的划分。我们在异构系统上优化DGEMM时采用引文[21]中的自适应划分算法解决了这个问题。我们的工作关注大规模DGEMM在异构CPU/GPU 体系结构上的实现，其中包含CPU与GPU之间的数据传输。我们不仅将数据传输计入总时间，而且用流水线算法对其进行优化，使得这部分开销可以与计算重叠。因此，混合版DGEMM可以在实际应用中调用。通过我们的优化，混合版DGEMM性能达到844GFLOP/s，对应效率 $80 \%$ 。杨灿群等人提出了用DGEMM计算过程掩盖数据传输的开销[21l，采用的优化方法有数据载入流水和数据输出流水。我们还发展了数据存储优化策略改进DGEMM核心程序的性能并建立了更细的流水线。这新增的优化策略使DGEMM性能提升了 $74 \%$ ，成为最重要的优化手段。另外，我们分析了共享资源（特别是PCIe总线和系统内存）的竞争和优化的DGEMM在多个CPU和多个GPU上的可扩展性。通过分析，我们给出了一些对DGEMM扩展到异构CPUs/GPUs体系结构的建议。
+
+# 6结论
+
+我们通过三种策略（双缓存优化，数据重用优化和数据存储优化）优化了大规模DGEMM，得到了一个新的流水线算法。在流水线中，我们将DGEMM核心程序在GPU上的执行与数据传输过程重叠。优化的DGEMM在一个ATIHD5970 Cypress 芯片上的性能达到408GFLOP/s，效率为 $8 8 \%$ 。在ATIHD5970上性能为758GFLOP/s，效率为 $82 \%$ 。在异构CPU/ATIGPU系统上，混合版DGEMM性能达到峰值性能的 $8 0 \% \mathrm { ~ -- ~ } 8 4 4 \mathrm { G F L O P / s } .$ 。与核心程序的性能对比可以看出，优化的DGEMM在一个GPU芯片上的效率接近峰值，进一步优化空间不大。然而，当DGEMM扩展到多个GPU和多个CPU时，DGEMM的效率受到影响，主要影响因素是共享资源的竞争，特别是PCIe和系统内存竞争。通过实验和分析，我们得出三个结论：（1)．由于PCIe带宽的限制，DGEMM在同一主板上多个GPU卡的扩展性受限；（2)．改善系统内存带宽，GPU-only DGEMM（DP-1GPU 和DP-2GPU）的性能会有所提升；（3)．改善系统内存带宽有利于降低系统内存竞争，从而提高混合版DGEMM在CPUs/GPUs异构系统的性能。
+
+# 参考文献：
+
+[1] J. J. Dongarra, J. Du Croz, I. S. Duff,and S. Hammarling,A set of Level 3 Basic Linear Algebra Subprograms,ACM Trans. Math. Soft.,16 (1990), pp.1--17.   
+[2] E. Anderson,Z.Bai, C.Bischof,J.Demmel,J.Dongara,J.DuCroz,A.Grenbaum,S.Hamrlng, A. McKenney,D. Sorensen,LAPACK:A Portable Linear Algebra Library for High-Performance Computers,UT-CS-90-105,May 1990.   
+[3] HPL-A Portable Implementation of the High-Performance Linpack Benchmarkfor Distributed-Memory Computers http://www.netlib.org/benchmark/hpl/   
+[4] NVIDIA. Compute Unified Device Architecture Programming, Guide Version 3.2,   
+[5] D.Kirk and W. W. Hwu. ECE 489AL Lectures 8-9: The CUDA Hardware Model, http://courses.ece.ilinois.edu/ece498/al/Archive /Spring2007/lectures/lecture8-9-hardware.ppt, 2007.   
+[6] AMD. ATI Stream SDK CAL Programming Guide v2.0, 2010.   
+[7] AMD Core Math Library for Graphic Processors (ACML-GPU) http://developer.amd.com/gpu/acmlgpu/pages/default.aspx   
+[8] NVIDIA. CUDA Community Showcase. http://www.NVIDIA.com/ object/ cuda_apps_flash_new.html.   
+[9] J. Demmel, J. Dongarra, V. Eijkhout,E. Fuentes,A.Petitet,R. Vuduc,R. C.Whaley and K. Yelick. Self-Adapting Linear Algebra Algorithms and Software,Proceedings of the IEEE，Volume 93, Number2,pp 293-312,February,2005.   
+[10] Goto,K.，and Geijn，R.A.v.d.Anatomy of high-performance matrix multiplication.ACM Trans.Math. Softw.34,3 (2008),1-25.   
+[11]Nath,R.，Tomov,S., Dongarra, J. An Improved MAGMA GEMM for Fermi GPUs, University of Tennessee Computer Science Technical Report, UT-CS-10-655 (also LAPACK working note 227), July 29,2010.   
+[12]Volkov,V.,and Demmel,J.W.Benchmarking GPUs to tune dense linear algebra,2Oo8 ACM/IEEE Conference on Supercomputing (SC08).   
+[13]Ryoo,Shane and Rodrigues, Christopher I. and Baghsorkhi, Sara S.and Stone, Sam S.and Kirk, David B. Optimization principles and application performance evaluation of a multithreaded GPU using CUDA, Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of parallel programming (PPoPP'08), pp.73-82, 2008.   
+[14]Ryoo,Shane and Rodrigues, Christopher I. and Stone,Sam S.and Baghsorkhi, Sara S.and Ueng, Sain-Zee.Program optimization space pruning for a multithreaded GPU,Proceedings of the 6th annual IEEE/ACM international symposium on Code generation and optimization (CGO'08), pp. 195-204, 2008   
+[15]N.Nakasato.A Fast GEMM Implementation On a Cypress GPU,1st International Workshop on Performance Modeling,Benchmarking and Simulation of High Performance Computing Systems (PMBS 10). 2010.   
+[16]H.Wong,M.Papadopoulou, M. Sadooghi-Alvandi, A.Moshovos. Demystifying GPU microarchitecture through microbenchmarking， IEEE International Symposium on Performance Analysis of Systems and Software,March 2010.   
+[17]GTan, Z.Guo, M.Chen, D.Meng. Single-particle 3D Reconstruction from Cryo-Electron Microscopy Imageson GPU，23rd ACM International Conference on Supercomputing (ICs'09)，2009, pp.380-389.   
+[18] G.Tan,N.Sun and G.R.Gao. Improving Performance of Dynamic Programming via Parallelism and Locality on Multi-core Architectures,IEEE Transactions on Paralll and Distributed Systems, Vol.20, No.2,2009, pp. 261-274.   
+[19] Li,Y.,Dongarra,J.,and Tomov, S.A Note on Auto-tuning GEMM for GPUs. In Proceedings of ICCS'09 (Baton Rouge,LA, USA, 2009).   
+[20] Jang, C. GATLAS GPU Automatically Tuned Linear Algebra Software, http://golem5.org/gatlas/.   
+[21] Canqun Yang,Feng Wang,Yunfei Du,Juan Chen,Jie Liu,Huizhan Yi,KaiLu,"Adaptive Optimization for Petascale Heterogeneous CPU/GPU Computing,"cluster,pp.19-28,2010 IEEE International Conference on Cluster Computing,2010   
+[22] J. Dongarra, P. Beckman, Terry Moore, et al. The International Exascale Software Project roadmap. IJHPCA 25(1): 3-60 (2011)   
+[23] Sundaresan Venkatasubramanian,Richard W. Vuduc Tuned and wildly asynchronous stencil kernels for hybrid CPU/GPU systems.In Proceedings of the 23rd international conference on Supercomputing (ICS '09).ACM,New York,NY,USA,244-255.   
+[24] Christian Feichtinger,Johannes Habich,Harald Kostler,Georg Hager,Ulrich Rüde,Gerhard Wellein. AFlexible Patch-Based Lattice Boltzmann Parallelization Approach for Heterogeneous GPU-CPU Clusters. CoRR,2010   
+[25] DaQi Ren，Reiji Suda,"Power Efficient Large Matrices Multiplication by Load Scheduling on Multi-core and GPU Platform with CUDA," cse,vol.1,pp.424-429,2009 International Conference on Computational Science and Engineering,2009   
+[26] Mark Silberstein,Assaf Schuster,and John D. Owens.Accelerating sum-product computations on hybrid CPU-GPU architectures.In Wen-mei W.Hwu,editor, GPU Computing Gems,volume 2, chapter 9. Morgan Kaufmann, August 2011 To appear   
+[27] Ogata,Y.；Endo，T.；Maruyama，N.；Matsuoka，S.；，"An efficient，model-based CPU-GPU heterogeneousFFT library,"Parallel and Distributed Processing，2OO8．IPDPS2O08．IEEE International Symposium on,vol.,no., pp.1-10,14-18 April 2008
+
+作者简介：
+
+李佳佳： 计算技术研究所 2010 级博士研究生lijiajia $@$ ict.ac.cn李兴建： 计算技术研究所2008级硕士研究生谭光明： 计算技术研究所副研究员
+
+# （上接第42页）
+
+[37]C.Bienia, S.Kumar,J.P. Singh,and K.Li,“The PARSEC benchmark suite: characterization and architectural implications”,in Proceedings of international conferenceon Parallel architectures and compilation techniques,pp:72-81,2008.
+
+作者简介：
+
+付斌章： 中国科学院计算技术研究所，计算机体系结构国家重点实验室博士研究生fubinzhang@ict.ac.cn  
+韩银和： 中国科学院计算技术研究所，计算机体系结构国家重点实验室副研究员，硕士生导师  
+李华伟： 中国科学院计算技术研究所，计算机体系结构国家重点实验室研究员，博士生导师  
+李晓维： 中国科学院计算技术研究所，计算机体系结构国家重点实验室研究员，博士生导师

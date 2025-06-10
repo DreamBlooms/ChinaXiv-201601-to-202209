@@ -1,0 +1,384 @@
+# A flexure-based electromagnetic nanopositioning actuator with predictable and re-configurable open-loop positioning resolution
+
+Tat Joo Teoa,\*, Guilin Yangb,I-Ming Chenc aMechatronics Group,Singapore Institute of Manufacturing Technology,Singapore 638075,Singapore bNingbo InstituteofMaterialsTechnologyandEngineering,ChineseAcademyofSciences,Zhejiang Province315201,Chind cSchoolofMechanicalandAerospaceEngineering,NanyangTechnological University,Singapore 39798,Singapore
+
+Keywords:   
+Flexure joints   
+Semi-analytic model   
+Lorentz-force actuation   
+Nanopositioning actuator   
+Thermal modeling   
+Lumped capacitance model   
+Flexure modeling
+
+# ABSTRACT
+
+This paper presents a novel cylindrical-shaped Flexure-based Electromagnetic Linear Actuator (FELA) that exhibits predictable and re-configurable open-loop positioning resolution.By combining contactless Lorentz-force actuation and frictionless flexure-based supporting bearings,it produces high repeatable motionand sub-micron positioning resolution.In this paper,the design conceptofthis cylindrical-shaped FELA will be introduced.Itfocuses on the modeling ofthe flexure-based supporting bearings,the thermal modeling of the electromagnetic module,and the unique characteristics of FELA,i.e. predictable and reconfigurable open-loop positioning resolution.A prototype was developed to evaluate the performance and demonstrate these unique characteristics of this new class of nanopositioning actuator.
+
+# 1.Introduction
+
+An actuator with nano-positioning capabilities has been the key technology in nano-/micro-scale manufacturing processes such as nano-imprint lithography,fibre optics alignment,MEMS assembly,nano-scale machining,etc.Among various types of nanopositioningactuators,the solid-state piezoelectric(PZT) actuators have been the most popular choice due to their large actuating forceand high stiffness.However,PZTactuators have limited displacements that make them unsuitable to drive high-precision manipulators targeted for large traveling range[1].Although some existing high-precision positioningactuators are able to eliminate such limitations,the displacement amplification techniques that are used within these actuators inherit other drawbacks.For example,PZT-driven actuators that use high-pitch screw actuating-shaft to achieve millimeters of displacement have poor repeatability due to backlash and Coulomb friction [2]. Others that use the magnetostrictive clamping technique [3], the inchworm clamping[4], and the impact-force method [5] to drive an internal shaft for displacement amplification purposes have low payload capacities. In addition,the slow response speed makes these actuators inefficient for high speed applications.
+
+Electromagnetic driving scheme has the potential of delivering millimeters of traveling range with nanometers of positioning resolution.Actuators of such frictionless drive,i.e.,voice-coil linear actuators and solenoid actuators,have also been employed in high-precisionmanipulation[6,7].However,the voice-coil actuator producesrelatively small output forces (or poor force sensitivity). Although the moving magnet actuator offers good dynamic behaviorand good heat dissipation,the magnetic force attraction due to the external iron casing causes the output force to be inconstant throughout the entire displacement stroke [8].A solenoid actuator offers good force sensitivity but is unable to achieve a constant output force throughout its allowable traveling range due to the nonlinearity between forceand displacement[9]. Furthermore, magnetization on the ferromagnetic stator introduces nonlinear magnetic hysteresis that leads to inaccuracy in nanometric positioning tracking[1O].The drawbacks of existing nano-positioning actuators motivated the development of a Flexure-based Electromagnetic Linear Actuator(FELA)[11].FELA is formed through a marriage between an electromagnetic(EM) driving scheme and the flexure joints to achievea few millimeters of displacement, large continuous thrust force,and a direct-force control capability. From past literatures [12,11],FELA was able to deliver a positioning accuracy of $\pm 2 0 \mathrm { n m }$ ,a continuous output force of $6 0 \mathsf { N } / \mathsf { A } ,$ an actuating speed of more than $1 0 0 \mathrm { m m } / s$ throughout a large displacement stroke of $4 \mathrm { m m }$
+
+Inour previous research efforts,the thermal management of FELA was not considered because its applications were mainly onautomating embossing[13,14] and nano-imprinting processes [15,16] to replicate micro/nano-scale features.In these processes, large output force with direct precise force feedback is essential.Hence,high force generation and high motion repeatability were the key considerations during the design phase.In addition, the closed-loop feedback control implemented on the end-effector ensures any form of thermal expansion will not affect the positioning accuracy.Thus,the coils usually operate between 6O and $8 0 ^ { \circ } C$ during those imprinting operations.However,recent challenges arisen from applications such as the optical fiber alignment and the bio-cell manipulation have demanded FELA to produce higher positioning and thermal stability overa fewminutes ofoperation period with or without closed-loop feedback control.Thus,an improved version,which could meet such requirements,is required for those applications.In our recent research efforts,a model-based thermal compensation control was implemented to the existing FELA to compensate for the material expansion at the tip of the output shaft due to thermal induction from the energized coil [17]. This investigation shows that the effectiveness of thermal control largely depends on the amount of thermocouple sensors used to estimate the thermally induced position error.To reduce the complexity of the entire control system,a two-stage optimization method was explored to re-design the Electromagnetic (EM) module of the existing FELA[18]. These efforts led to the conclusion thatby factoring the thermal effect in the initial design stage will be much effective over the thermal control or thermal management approach in the later stages.
+
+This paper presents a novel cylindrical-shaped FELA that achieves lower heat generation as compared to the existing rectangular-shaped FELA.Itconsists of a new Lorentz-force Electromagnetic (EM) module and flexure-based membrane supporting bearings.In thiswork,the cylindrical-shaped FELA hastargeted specifications of $\pm 1 0 \mathrm { n m }$ positioning accuracy and $\pm 0 . 1 5 ^ { \circ } \mathsf C$ thermal stability over a stroke length of $2 \mathrm { m m }$ at the end-effector. To achieve the desired thermal characteristic,an accurate thermal modeling of the EM module will be presented.To synthesize the desired stiffness characteristic that facilitate the EM module in achieving the targeted thermal stability,the stiffness modelingof the flexure-based membrane bearings was conducted usinga novel semi-analytic modelingapproach [19] and will also be presented in this paper.Most importantly,this paper also presentsa unique characteristicof the FELA,i.e.，predictable and re-configurable open-loop positioning resolution.Such characteristic cannot be found in existing nanopositioning actuators.All theoretical modelingand the unique characteristics of FELA will be evaluated and demonstrated.
+
+# 2.Design concept of the novel cylindrical-shaped FELA
+
+The cylindrical-shape FELA comprises of a new Lorentz-force EM module and a pair of flexure-based membrane support bearings as shown in Fig.1.Termed as an Electromagnetic Driving Module(EDM),the Lorentz-force EMmodule is formed bya PM-based magnetic circuit with the moving air-core coil while while the flexure-based membrane bearings are used to support both ends of the moving air-core coil in order to retain the contactless nature of the EM driving scheme.Consequently,the frictionless characteristic of both driving and supporting elements ensure high motion repeatability.
+
+![](images/4cf057589c75f611115a3749d2b7d79ae68313f14f2239dea38c835a149236ac.jpg)  
+Fig.1.A detailed breakdown on the cylindrical-shaped FELA.
+
+# 2.1.A segmented dual-magnet configuration
+
+In the previous EDM design [11], $50 \%$ of the moving air-core coil does not operate within the magnetic field regions.Assuming that this portion of coil could operate within the magnetic field regions, the overall force generation could be enhanced by up to $50 \%$ with the same amount of input current.In other words,only $5 0 \%$ of the input current would be needed to generate the equivalent amount of force that the previous EDM design is producing. Consequently, heat generation could be reduced by half. In this paper,a segmented Dual-Magnet (DM) configuration was proposed to ensure that the entire air-core coil is operating within the magnetic field regionsas shown in Fig.2a.Instead of a complete stator casing, the new cylindrical-shaped EDM was constructed by a group of segments whereby each segment was formed viaa DM configuration as shown in Fig. 2b.
+
+Based on a segmented architecture,the magnetic field travels from outer PM to the inner PM within the designated closed-loop ferrous path to reduce magnetic leakages.(Note:the magnetization direction of the outer and inner PMs are similar.)Thus,most of the magnetic field could be extracted from both PMs to enhance the magnetic flux density within the effective air gap,in which the moving air-core coil operates.The segmented concept also prevents demagnetization between two inner PMs or two outer PMs when packed closely together because of the designated closedloop ferrous path from each segment.Such a concept also reduces the assembly time significantly since the PMs can be glued in each segment concurrently before assemblingall the segments together. Lastly,the cylindrical DM configuration formsan encasement for the magnetic field and prevents magnetic feld leakage to the environment.Hence,FELA can be used in certain applications and environment that are sensitive to EMor magnetic field disturbance.
+
+Unlike conventional magnetic circuits [2O,21] that deliver inconsistent and non-uniform magnetic flux density within the effective air gaps,the DM configuration delivers constant and evenlydistributed magnetic flux densitywithina large effective air gap [22], i.e., $1 0 \mathrm { m m }$ gap between the outer and inner PMs.By restricting the moving air-core coil to operate within the effective air gap as shown in Fig.3,the new cylindrical-shaped EDM produces a constant current-force sensitivity $( \mathsf { N } / \mathsf { A } )$ throughout the entire traveling range of the moving coil. Governed by the Lorentz-force principle and assuming that the magnetic flux density, $B _ { e x t }$ ,is perpendicular to the direction of input current,i,the output force, $F _ { \parallel }$ is expressed as
+
+$$
+F \equiv i L B _ { e x t }
+$$
+
+![](images/3b14eac6396e9a9f4c036cca3e01fc84f2620cfcebdf2c2105cb74c1aa1214c0.jpg)  
+Fig.2.(a)Acylindrical-shapedEDMconstructedbyagroupof segmentedDMconfiguration(USpatentappl.#20l3/90,219).
+
+where L represents the total coil length operating within the effective air gap.Aided by the segmented DM configuration,Eq.(1) also suggest that the new cylindrical-shaped EDM provides a linear current-force relationship due to the constant magnetic flux density within the effective air gap.The modeling and optimization of the DM configuration have been presented in recent literatures [18,22].This paper mainly focuses on the thermal modeling of the EDM.
+
+# 2.2.Flexure-based membrane support bearings
+
+To retain the contactless nature of the Lorentz-force EM driving scheme,flexure joints are used to develop frictionless bearings to support the movingair-core coil as illustrated in Fig.3.Unlike other frictionless bearings such as the air bearings,the magnetic bearings, and the hydrostatic/hydrodynamic bearings,these flexure-based bearings do not require any air/electrical/fluid source,expensive sensors,nor complex control systems to function. As a result, flexure-based bearings are simple,inexpensive and maintenancefree.Inaddition,a well-designed flexure-based bearing ensures low stiffness in the actuating directionwhile providing relatively higher stiffness inall non-actuating directionswithin the allowable travel range.Unlike the previous FELAdesign,which used clamping blocks and stainless steel shims to form such flexure-based bearings [11], thenewcylindrical-shaped FELAadoptsaflexure-based membrane architecture that is formed by a single monolithic-cut stainless steel sheet. Consequently, the absence of the clamping blocks also eliminates these secondary moving masses.As the flexure-based bearings only operate within the elastic region of the material, the relationship between the force generated from the EDM and the output displacement, $\delta$ ,of the air-core coil translatorisassumed to be linear and expressed as
+
+$$
+K = { \frac { F } { \delta } }
+$$
+
+where $K$ represents the stiffness of the flexure-based bearings.
+
+![](images/24744e5ff6c05ba07098914b30e88bca4e86418c616bcc6b6ee4714c375bbcbd.jpg)  
+Fig.3.Working principle of FELA: flexure-based bearings supporting a moving aircore coil that operates within the effective air gap of a DM configuration.
+
+# 2.3.Re-configurable open-loop positioning resolution
+
+Dueto the linear current-force relationship of the EDMand thelinear force-displacement relationship of the flexure-based bearings,the open-loop positioning resolution of FELA becomes predictable and re-configurable.(Note:an open-loop positioning resolution is defined as the achievable resolution based on the smallest controllable input current.) By combining the Ohm's Law, i.e., $V = I R$ ,with Eqs.(1) and(2),the open-loop positioning resolution of FELA is given as
+
+$$
+\delta = \frac { V ( R _ { c o i l } + R _ { e x t } ) ^ { - 1 } L B _ { e x t } } { K }
+$$
+
+where $R _ { c o i l }$ represents the resistance of the air-core coil and $R _ { e x t }$ represents the resistance of the external resistor.Eq.(3) suggests two different approaches to enhance the open-loop positioning resolution of FELA.First,by increasing the stiffness of flexure-based bearings to enhance the positioning resolution for the same amount of driving force. Second,by adding external resistors between the voltage supply and the system to reduce the amount of current via the voltage mode.Flexibility to reconfigure the open-loop positioning resolution is an unique characteristic of FELA and will be demonstrated in later part of this paper.
+
+# 3. Thermal modeling of the cylindrical-shaped EDM
+
+Thermal modeling and analysis plays a crucial role in synthesizingthe cylindrical-shaped EDMto achievea desired power consumption and temperature characteristic for continuous force generation.In this work,the lumped capacitance modeling approach was used to obtain the mathematical representation of the thermal performance of the EDM.
+
+# 3.1.Power management
+
+From Eq.(1), the output force is a function ofinput current, magnetic flux density and the total coil length operating within the air gap.Based on the architecture of the cylindrical-shaped EDM,the coils are wound on a circular bobbin to form the moving air-core coil as shown in Fig.4. Assuming that the coiling is ideal, the total number of rows will represent the total number of layers while each column will represent the number of turns per layer.Based on this configuration, the total coil length is represented as
+
+$$
+L = 2 \pi N _ { t p l } [ r _ { b } N _ { l } + O D ( N _ { l } + 1 ) ( N _ { l } / 2 ) ]
+$$
+
+where $N _ { l }$ represents the number of layers of coil within a bobbin, $N _ { t p l }$ represents the number of turns per layer,OD represents the overall diameter of the conducting coil wire(with insulation
+
+![](images/0f412b91be6d7f6918064bba911179978aa46c833ef8db21f5a7a63b10120795.jpg)  
+Fig.4.A circular bobbin that holds the moving air-core coil.
+
+layer),and $r _ { b }$ represents the radius of the bobbin. Subsequently, the internal coil resistance of the total coil length is given as
+
+$$
+R _ { c o i l } = \frac { \chi L } { \pi { ( I D / 2 ) } ^ { 2 } }
+$$
+
+where $\chi$ represents the resistivity of the conducting material,i.e., $1 . 7 \times 1 0 ^ { - 8 } \Omega \mathrm { m }$ for copper wire,and $I D$ represents the internal diameter or the core diameter of the conducting wire (excluding the insulation layer).With $R _ { c o i l }$ and input current, the power, $\scriptstyle Q ,$ consumed bythe EDMis expressed as
+
+$$
+Q = i ^ { 2 } R _ { c o i l }
+$$
+
+# 3.2.Lumpedcapacitancemodelingapproach
+
+In nanopositioning applications,the air-core coil is usually slow moving and needs to hold at a position during operations.When the air-core coil is stationary,i.e.,no work done,it can be assumed that all the power generated from the coil turns into heat. Thus, the elevation and saturation of coil temperature will reflect the thermal characteristicof the EDM,which iscrucial forunderstanding the thermal stability of FELA.Based on thearchitecture of the cylindrical-shaped FELA,the movingair-core is located in the center while the stator and other structures constitute the thermal paths to dissipate heat to the external environment.The thermal performance can be represented as a classical analogous lumped-element circuit model that comprises of thermal resistors and capacitors [23].Based on this approach,the thermal resistance of an element, $\mathbb { R }$ ,isgivenas
+
+$$
+\mathbb { R } = \frac { \mathbb { L } } { A h }
+$$
+
+where $\mathbb { L }$ represents the length of the thermal path, $A$ represents the cross-sectional area of the thermal path,and $h$ represents the thermal conductivity of the thermal path.Inaddition,the thermal capacitance of an element, $\mathbb { C } ,$ ,is given as
+
+$$
+\mathbb { C } = M H _ { s }
+$$
+
+where $M$ and $H _ { s }$ represent the mass and the specific heat capacity of the element respectively.By differentiating the transient behavior of a resistance-capacitance (RC) circuit,the rate of change in temperature is expressed as
+
+$$
+\Delta T = Q \mathbb { R } \left[ 1 - \exp \left( \frac { - t } { \tau } \right) \right]
+$$
+
+where $t$ represents the time and $\tau$ represents the thermal time constant,i.e., $\boldsymbol { \tau } = \boldsymbol { M } \boldsymbol { H } _ { s } \mathbb { R }$
+
+# 3.3.Thermal model of the EDM
+
+Based on the lumped capacitance modeling approach,the thermal path of the cylindrical-shaped EDM is represented by two cascaded RC circuits as shown in Fig.5.The source of this circuit is the temperature of the air-core coil,which is represented by $T _ { c o i l }$ and the ground represents the ambient temperature outside of the EDM, i.e., $T _ { A m b i e n t }$ .The first RC circuit represents the thermal path of the air gap between the surface of the air-core coil and the surface of the outer PM where $\mathbb { R } _ { G }$ represents the thermal resistance of the air gap while $\mathbb { C } _ { G }$ represents the thermal capacitance of the coil. In addition,italso contains the parallel thermal path of heat transfer from the air-core coil to the bobbin that holds it where $\mathbb { R } _ { B }$ represents the thermal resistance of the air gap while $\mathbb { C } _ { B }$ represents the thermal capacitance of the coil.For the first RC circuit, the thermal resistance and capacitance are expressed as
+
+![](images/1310bd779846ada4d29b245ad45dc4e104d94cfb2f18364a85b975daa8c5b3cd.jpg)  
+Fig.5.RC circuit representation of the cylindrical-shaped EDM.
+
+$$
+\begin{array} { r l } & { \mathbb { R } _ { \mathrm { I } } = ( 1 / \mathbb { R } _ { G } + 1 / \mathbb { R } _ { B } ) ^ { - 1 } } \\ & { \mathbb { C } _ { \mathrm { I } } = \mathbb { C } _ { C } + \mathbb { C } _ { B } } \end{array}
+$$
+
+Based on the first RC circuit, the change of temperature, $\Delta T _ { 1 }$ due to the power generated by the input current is given as
+
+$$
+\Delta T _ { 1 } = Q \mathbb { R } _ { \mathrm { I } }
+$$
+
+The second RC circuit represents the parallel thermal paths from the outer PM to the environment and from the inner air gap to the environment. From the outer PM to environment, $\mathbb { R } _ { P M O }$ and $\mathbb { R } _ { S O P }$ represent the thermal resistance of the outer PM and the stator outer casing respectively while $\mathbb { C } _ { P M O }$ and $\mathbb { C } _ { S O P }$ represent the thermal capacitance of the outer PM and the stator outer casing respectively. From the inner air gap to environment, $\mathbb { R } _ { G } , \mathbb { R } _ { P M I } , \mathbb { R } _ { S I P }$ and $\mathbb { R } _ { S S }$ represent the thermal resistance of the inner air gap,inner PM,stator inner shaft,and stator side structure respectively Similarly, $\mathbb { C }$ represents the thermal capacitance of these elements.For the second RC circuit, the thermal resistance and capacitance are expressed as
+
+$$
+\mathbb { R } _ { \mathrm { I I } } = [ 1 / ( \mathbb { R } _ { P M O } + \mathbb { R } _ { S O P } ) + 1 / ( \mathbb { R } _ { G } + \mathbb { R } _ { P M I } + \mathbb { R } _ { S I P } + \mathbb { R } _ { S S } ) ] ^ { - 1 } + \mathbb { R } _ { C O N V }
+$$
+
+$$
+\mathbb { C } _ { \mathrm { I I } } = \left( 1 / \mathbb { C } _ { P M O } + 1 / \mathbb { C } _ { S O P } \right) ^ { - 1 } + \left( 1 / \mathbb { C } _ { P M I } + 1 / \mathbb { C } _ { S I P } + 1 / \mathbb { C } _ { S S } \right) ^ { - 1 }
+$$
+
+Based on the second RC circuit,the change of temperature, $\Delta T _ { 2 }$ due to the power generated by the input current is given as
+
+$$
+\Delta T _ { 2 } = Q \mathbb { R } _ { I I }
+$$
+
+A generic temperature-time characteristic of the air-core coil due to a constant current input over a period of time is plotted in Fig. 6. $\Delta T _ { 1 }$ ,which is contributed by the first RC circuit,occurs rapidly because the thermal path is short due to the small air gap between the coil and the PM.Inaddition,the rise is linearas the thermal capacitance of the bobbin is low due to its small volume mass thatis unable to store much heat.Hence,the heat generated from the coil is quickly dissipated to the surrounding PMs.In most cases, $\Delta T _ { 1 }$ would be at $9 5 \%$ of its final value by $3 \tau$ .On the other hand, the temperature rise from $\Delta T _ { 1 }$ to $\Delta T _ { 2 }$ isusually longer and nonlinear as compared to $\Delta T _ { 1 }$ .This is because there are more elements in the second RC circuit thatlead to higher thermal resistance and capacitance.Higher thermal resistance will cause the temperature rise to be slow and higher thermal capacitance will cause nonlinearity.In most cases,it will take more than $3 \tau$ before $\Delta T _ { 2 }$ reaches $9 5 \%$ of its final value.Without considering the transient temperature overa period of time,the final saturation temperature of the air-core coil is expressed as
+
+![](images/e6e21359589a384888977749112aa3a4852a9e59c1a9ab37b288c1576c0cddf1.jpg)  
+Fig.6.A generic temperature-time graph of an air-core coil when introduced with a constant current over a period of time.
+
+Table 1 Selected values for the thermal properties of different elements.   
+
+<html><body><table><tr><td>Elements</td><td>Thermal properties</td><td>Values</td></tr><tr><td>Copper (Coil</td><td>Density (kg/m²)</td><td>8940</td></tr><tr><td>wire)</td><td>Specific heat capacity (J/kg K)</td><td>390</td></tr><tr><td rowspan="3">Iron (Stator)</td><td>Thermal conductivity (W/m K)</td><td>400</td></tr><tr><td>Density (kg/m³)</td><td>7850</td></tr><tr><td>Specific heat capacity (J/kg K)</td><td>449</td></tr><tr><td rowspan="3">Rare-earth (PMs)</td><td>Thermal conductivity (W/m K)</td><td>80</td></tr><tr><td>Density (kg/m²)</td><td>7400</td></tr><tr><td>Specific heat capacity (J/Kg K)</td><td>506</td></tr><tr><td>Aluminum</td><td>Thermal conductivity (W/m K) Density (kg/m³)</td><td>17 2700</td></tr><tr><td>(Non-ferrous</td><td>Specific heat capacity (J/Kg K)</td><td>900</td></tr><tr><td>parts)</td><td>Thermal conductivity (W/m K)</td><td>250</td></tr></table></body></html>
+
+$$
+T _ { f i n a l } = T _ { A m b i e n t } + \Delta T _ { 1 } + \Delta T _ { 2 }
+$$
+
+Lastly,Table 1 lists the selected values for the thermal properties of different elements thatare used to calculate the saturation temperature of the air-core coil based on the thermal resistance and capacitance of the proposed RC circuit.
+
+# 4.Stiffnessmodelingof the flexure-based membrane support bearings
+
+After designing the cylindrical-shaped EDM based on the presented thermal modeling,the predicted output forceat the desired operating temperature will be used to design the flexure-based membranes.Fig.7 illustrates a flexure-based membrane support articulated by fourparallel beam-based flexure joints.The length of each beam-based flexure joint is a combination of four folds of flexible beams,which are coupled together to deliver a pure translational motion.With the fixed segment attached to the stator of the EDM,a single-DOF motion is produced at the moving segment through the deflection of these beam-based flexure joints.
+
+# 4.1.Semi-analytic model
+
+The stiffness of the flexure-based membrane can be obtained using the semi-analytic model[19].This theoretical model provides a simple and generic solution for approximating the large nonlinear deflection of any beam-based flexure configuration,i.e.,a beam-based flexure coupled witha rigid-link of any length,shown in Fig.7d.The accuracy and robustness of the proposed model isensured by considering two crucial factors while adopting the principle of using a torsional spring to represent the stiffness of a beam-based flexure joint.The first factoris the parasitic shifting of the‘pivot' joint ofa beam-based flexure joint during large deflection,while the second factor is the changing angular stiffness of the torsional spring.With all derivations being presented in previous work[19], the semi-analytic model states that the deflection ofa flexure configuration is given as
+
+$$
+\delta = \left( L + { \frac { l } { 2 \varpi } } \right) \sin \alpha
+$$
+
+where $\alpha$ represents the deflection angle and $\varpi$ isa Sinc function, i.e., ${ \boldsymbol { \varpi } } = \sin \alpha / \alpha$ .The resultant parasitic motion, $\delta _ { p }$ ,normal to the deflection axis is given as
+
+$$
+\delta _ { p } = \left( L + \frac { l } { 2 } \right) - \left( L + \frac { l } { 2 \varpi } \right) \cos \alpha
+$$
+
+The loading force, $F _ { \parallel }$ is expressed as
+
+$$
+F = \frac { E I \alpha } { l ( L + ( \rho l / 2 \varpi ) ) \sin ( ( \pi / 2 ) - \alpha ) }
+$$
+
+where $E$ and $I$ represent the Young's Modulus and second moment of area of the flexure joint respectively,while $\rho$ is
+
+$$
+\rho = \frac { l \sqrt { 1 . 8 } + L } { l + L }
+$$
+
+The maximum bending stress, $\sigma _ { m a x }$ , is given as
+
+$$
+\sigma _ { \mathrm { m a x } } = \frac { F [ l / 2 + ( L + l / 2 \varpi ) \cos \alpha ] ( h / 2 ) } { I }
+$$
+
+where $h$ represents the thickness of the flexure joint.
+
+(Note: Termed as semi-analytic model since deflection or loading force can be solved directly with a given deflection angle while solving deflection angle based on a known deflection or loading force would require iterative root-finding procedures, e.g., Newton-Raphson method,etc.)
+
+# 4.2.Modeling of the flexure-based membrane
+
+In this work,the flexure-based membranes are made up of beam-based flexure joints with no rigid-link coupled to them. Hence, $L = 0$ when using the semi-analytic model. The deflection stiffness along the $x$ -axisof a beam-based flexure joint with no rigid-link is denote as $K _ { \delta }$ .Hence,the loading of the beam-based flexure joint becomes a point force.However, the point force loading does not permit a pure translational motion.As each flexure membrane is a supporting bearing for the air-core coil translating in a single linear motion,the beam-based flexure joint must be modeled asacantileverbeamwithapure translationmotion.To delivera pure translation motion,each beam-based flexure joint deflects in "S"-like shape and can be represented as two identical beam-joints with individual length being $1 / 2$ and the desired translation motion, $\Delta$ ,becomes twice of the deflection of each beam-joint,i.e., $\Delta / 2$ ,as shown in Fig.7c.Hence,the translation stiffness is given as
+
+$$
+K _ { J } = 2 \frac { F _ { \Delta } } { \Delta }
+$$
+
+where driving force, $F _ { \Delta }$ ,is obtained from Eq.(19) using the deflection angle, $\alpha$ ,derived from Eq.（17)based on $\delta = \Delta / 2 , l  l / 2$ ,and $L = 0$ .With each limb being formed by two identical beam-joints connected in series,the translation stiffness along the $x$ -axisof each limb, $K _ { L }$ ,is half of a beam-joint,i.e., $K _ { L } = K _ { J } / 2$ . Consequently, the translation stiffness of a pair of flexure-based membrane is governed by
+
+![](images/52c49cd9d0cd9cb4f140a6c2124e9bf4273945aba59f101ea45f845ca613dc6c.jpg)  
+Fig7 beams to deliver(c)apure translational motion.(d)Illustration of a generic beam-based flexure configuration.
+
+$$
+K _ { \delta } = 8 K _ { L }
+$$
+
+As mentioned,the length of each beam-based flexure joint is a combination of four folds of flexible beams.The length of each flexible beam is represented as
+
+$$
+l _ { j } = ( 9 0 ^ { \circ } - d ) \left( { \frac { \pi } { 1 8 0 } } \right) r
+$$
+
+where jrepresents the beam number $\{ i = 1 , 2 , 3 , 4 \}$ $d$ is the angle (in degree) and $r$ is the radius of each arc that represents the length of the beam as shown in Fig.7b.From the fixed segment to the moving segment, $d = 2 ( d 3 )$ and $r = r 1$ to determine the length of flexible beam #1, $d = d 2 + d 3$ and $r = r 2$ to determine the length of flexible beam #2, $d = 2 ( d 2 )$ and $r = r 3$ to determine the length of flexible beam $\# 3$ and $d = d 1 + d 2$ and $r = r 4$ to determine the length of flexible beam $\# 4$ Subsequently, the length of each beam-based flexure joint is givenas
+
+$$
+l = \sum _ { j = 1 } ^ { 4 } l _ { j }
+$$
+
+# 5.Prototype
+
+The presented analytical models were used to synthesize the cylindrical-shaped FELAbased on the targeted specifications,i.e., $\pm 2 0 \mathrm { n m }$ positioning stabilityand $\pm 0 . 1 5 ^ { \circ } \mathsf C$ thermal stability overa strokelength of $2 \mathrm { m m }$ at the end-effector.In addition,the overall dimension must not exceed $\otimes 5 0 \times 1 0 0 \mathrm { m m } ^ { 2 }$ due to size constraint of the entire positioning system.Based on the magnetic field model derived in [22,18],the thickness of the PMs within the segmented DM configuration were selected as $6 \mathrm { m m }$ witha length of $5 0 \mathrm { m m }$ .Using the presented thermal model, the cylindrical-shaped EDM was predicted to produce a constant current-force sensitivity of $1 0 . 1 5 \mathsf { N } / \mathsf { A } .$ Toachieve a thermal stability of $\pm 0 . 1 5 ^ { \circ } \mathsf C ,$ the stiffness of a pair of supporting flexure-based membranes plays a crucial role as the EDM must operate near ambient temperature,i.e., $2 0 ^ { \circ } C .$ Using the presented model to synthesize the pair of flexure-based membrane support bearings,the bearings were eventuallydesigned witha predicted stiffness of $1 3 7 5 \mathrm { N / m }$ Asa result,only O.136Ais required to generate $1 . 3 8 \mathsf { N }$ toachieve $\pm 1 \mathrm { m m }$ Based on the thermal model, the temperature of the air-core coil within the cylindrical-shaped EDMwill rise by $0 . 7 ^ { \circ } \mathsf { C }$ after $1 . 5 \mathrm { h }$ Asthis predicted performance can satisfy the targeted specifications,acylindrical-shaped FELA prototype based on the synthesized EDMand flexure-based membranes was developed as shown in Fig.8.Table 2 lists the parameters and actual specifications of the cylindrical-shaped EDM and the flexure-based membrane support bearing.
+
+![](images/d07d6846bffa145a6a81548d896cb7b000235dd2003da2a02d0f5d435618a0e8.jpg)  
+Fig.8.Prototype of the new cylindrical-shaped FELA.
+
+Table 2 Parameters and specifications of the cylindrical-shaped EDM and the flexure-based membrane support bearing.   
+
+<html><body><table><tr><td></td><td>Specifications</td></tr><tr><td>Cylindrical-shaped EDM</td><td></td></tr><tr><td>Wire diameter, OD</td><td>0.48 mm (insulation layer~ O.03 mm)</td></tr><tr><td>Coil resistance, Rcoil</td><td>5.93Ω</td></tr><tr><td>Flexure-basedmembrane</td><td></td></tr><tr><td>Material</td><td>SUS301 Full-hard</td></tr><tr><td>Young's modulus</td><td>193 GPa</td></tr><tr><td>Thickness</td><td>0.2 mm</td></tr><tr><td>Width</td><td>3 mm</td></tr><tr><td>Angle of arc,d</td><td>d1=35°,d2=25°,d3=20°</td></tr><tr><td>Radius of arc,r</td><td>r1= 18.20 mm,r2=14.90 mm, r3= 11.60 mm,r4=8.30 mm</td></tr></table></body></html>
+
+# 6.Experiments and results
+
+# 6.1.Thermal characteristicof thecylindrical-shaped EDM
+
+Anexperiment was conducted to investigate the thermal characteristic of the cylindrical-shaped EDM and to evaluate the accuracy of the proposed model.A thermocouple sensor (RT-100) was attached onto the surface of the air-core coil and connected to a computer to log the temperature at an interval of 1s.Temperature measurement was taken only with the cylindrical-shaped EDM because the thermal characteristic was modeled without the flexure-based membranes and supporting components.To prevent heat loss through any material that is not part of the prototype, it was placed on a carbon fiber composite board,which was treated as an isolator.A set of constant current inputs was used to energize the air-core coil and temperature of the coil was logged until it saturated,i.e.,about $1 . 5 \mathrm { h }$ after being energized.The predicted and measured coil temperature based on the constant current valuesare listed in Table 3.A comparison between the predicted and measured temperature values shows that the presented analytical model is accurate in predicting the coil temperature with a maximum deviation of $7 . 5 \%$ obtained the investigation.The slight deviationis contributed by variation in the internal coil resistance where actual value is measured at $5 . 9 3 \Omega$ while the predicted value is $5 . 3 1 \Omega$ . In addition,the selected values for each thermal property listed in Table1 may differ from the actual values.Nevertheless,the experimental results have shown that the developed cylindricalshaped EDMhas achieved the desired thermal characteristic.
+
+Table 3 Predicted and measured coil temperature after 1.5 h based on constant input current.   
+
+<html><body><table><tr><td>Current (A)</td><td>Power (W)</td><td colspan="2">Coil temperature after 1.5 h (C)</td></tr><tr><td></td><td></td><td>Predicted</td><td>Measured</td></tr><tr><td>0.1</td><td>0.059</td><td>20.4</td><td>20.3</td></tr><tr><td>0.4</td><td>0.949</td><td>26.2</td><td>28.0</td></tr><tr><td>0.5</td><td>1.483</td><td>29.6</td><td>32.0</td></tr></table></body></html>
+
+![](images/25887e4101956b7f1b0885b4a8e46f97fbf2024aa86b26a082d77ec0a622ec07.jpg)  
+Fig.9.Current-force relationship of the cylindrical-shaped EDM due to different positions of the air-core coil translator.
+
+# 6.2.Current-force sensitivity of the cylindrical-shaped EDM
+
+To evaluate the current-force sensitivity,the FELA prototype was mounted ona linear guide thatlocked the cylindrical-shaped EDMat any position along the displacement range.A force sensor (ATI,Nano4O) was attached to the output shaft with the other end of the sensor mounted on a fixed wall.The flexure-based bearings ensure that no friction force will be contributing the force measurement.When the air-core coil was energized by an amount of current,the output shaft moved against the force sensor,which picked up the amount of force generated.The linear guide with a locking mechanism allows the cylindrical-shaped EDM to change its position with respect to the fixed air-core coil.As a result, the current-force sensitivityat different positions can be evaluated.
+
+The selected positions along the displacement range to evaluate the current-force sensitivity were neutral position, $\pm 0 . 5$ and $\pm 1 \mathrm { m m }$ .Ateach position,a power supply source was used to energized the air-core coil from O to 1A with an interval of O.1A.Fig.9 plots the input current and output force when the air-core coil was at all selected positions w.r.t. the fixed EDM.It shows that the relationship between input current and output force obtained from all five positions are very consistent and the deviations between the experimental and predicted resultsare less than $8 . 3 5 \%$ .Table 4 summarizes the current-force sensitivity at all selected positions. Results show that the current-force sensitivity at various positions along the displacement range are consistent with a deviation of $0 . 5 8 \%$ recorded between the maximum and minimum values.Subsequently,the average current-force sensitivity throughout the entire stroke measured from the developed prototype is $1 0 . 3 \ N / \mathsf { A } .$ （204号 The achieved current-force sensitivity is close to the predicted value of $1 0 . 2 \mathsf { N } / \mathsf { A }$ 、Most importantly,this investigation shows that thedeveloped cylindrical-shaped FELA has achieved a near constant current-force sensitivity throughout $2 \mathrm { m m }$ stroke.
+
+Table 4 Current-force sensitivity at various positions along the traveling range.   
+
+<html><body><table><tr><td>Pos (mm)</td><td>-1.0</td><td>-0.5</td><td>Neutral</td><td>+0.5</td><td>+1.0</td></tr><tr><td>Current-force (N/A)</td><td>10.36</td><td>10.34</td><td>10.30</td><td>10.32</td><td>10.36</td></tr></table></body></html>
+
+![](images/5fb7344147fed4eb56ea7a6d53a79f1b8d12f200405a180ab1d892f89ada0fbc.jpg)  
+Fig.10.Experimental results and theoretical prediction on the stiffness of a pair of flexure-based membranes.
+
+# 6.3.Stiffness of the flexure-based membrane support bearing
+
+Stiffness of the flexure-based membrane support bearing governs the relationship between the force generated from the EDM and the displacement of the output shaft.To evaluate the stiffness of these bearings,a high resolution current source (KEITHLEY 224/2243)was used to energize the EDM and the generated displacement of the output shaft was measured bya high resolution optical linear encoder(MicroE Systems,M35oO).In this work,high resolution current source was used because it provides very stable current output.Hence,very stable step displacements can be obtained to reduce measurement errors.Subsequently,the force generated due to the input current was determined based on the current-force sensitivity of $1 0 . 3 \mathrm { N } / \mathrm { A } .$ With the measured displacement and predicted force,the actual stiffness of the pair of flexure-based membrane support bearings was obtained and plotted in Fig.1O.The predicted stiffness of $1 3 7 5 \mathrm { N / m }$ obtained from the semi-analytic model wasalso plotted against the measured values.Results show that the pair of flexure-based membrane support bearings has an average stiffness of ${ \approx } 1 3 9 8  { \mathrm { N / m } }$ Although the input current was restricted to $8 0 \mathrm { m A }$ due to the limitation of the current source,the trend suggests that the stiffness of the flexure-based membrane support bearings is linear throughout the targeted strokerange.Most importantly,this investigation shows that the semi-analytic model isaccurate in predicting the stiffness withamaximum deviation of $7 . 1 5 \%$
+
+# 5.4.Reconfiguring the open-loop positioning resolution
+
+This section presents how the open-loop positioning resolution of FELA can be reconfigured by changing the thickness of the flexure-based bearings or by addingan external resistor.
+
+# 6.4.1.Changing the thickness of the flexure-based bearings
+
+Governed by Eq.(3),achange in the stiffness ofthe flexure-based bearing will alter the open-loop positioning resolution.In Eq.(19), the second moment of area is expressed as
+
+$$
+I = { \frac { b t ^ { 3 } } { 1 2 } }
+$$
+
+where $b$ and t represent the width and the thickness of the flexure respectively.Based on Eq.(26),changing the thickness is the most effectively approach in altering the stiffness of the flexure-based bearing.In thiswork,an investigation,which involved the FELA prototype,was conducted to demonstrate such flexibility.Based on the initial thickness of $0 . 2 \mathrm { m m }$ ,aset of input current,i.e.,from $i = 2 2$ to $1 1 0 \mu \mathrm { A }$ at an interval of $2 2 \mu \mathrm { A }$ ，via the high resolution current source,was used to energize the moving air-core coil so as to step the output shaft forward and return to neutral position. The step displacements of the output shaft were recorded by the highresolution optical encoder $\mathrm { \langle 5 n m / c o u n t \rangle }$ and plotted in Fig. 11. At $2 2 \mu \mathrm { A } ,$ ,adisplacement of $1 7 2 \mathrm { n m }$ wasachieved and $3 4 5 \mathrm { n m }$ was achieved at $4 4 \mu \mathrm { A }$ Hence,the open-loop positioning sensitivity was $7 . 8 2 \mathrm { n m } / \mu \mathrm { A } .$ （204
+
+![](images/18edd8649e947d63bf6822bf9b04fbbc22acb9f6a74d852c595f6062fc504b49.jpg)  
+Fig.11. Open-loop step displacements of FELA using flexure-based bearing with $0 . 2 \mathrm { m m }$ thickness.
+
+Next,the thickness of each flexure-based bearing was changed from 0.2 to $0 . 5 \mathrm { m m }$ at an interval of $0 . 1 \mathrm { m m }$ .Foreach thickness change,similar set of input current was used to drive the output shaft forward and return to neutral position.Based on a pair of flexure-based bearings with $0 . 3 \mathrm { m m }$ thickness,the semi-analytic modelpredictedastiffnessof $4 6 4 1 \mathrm { N / m }$ For $0 . 4 \mathrm { m m }$ thickness,the predicted stiffness for the bearings is $1 1 0 0 3 \mathrm { N / m }$ .For $0 . 5 \mathrm { m m }$ thickness,the predicted stiffness is $2 1 4 8 5 \mathrm { N / m }$ .Using the measured current-force sensitivity,i.e., $1 0 . 3 \mathsf { N } / \mathsf { A }$ ,the step displacements of FELA were predicted and listed in Table 5 based on different bearing thickness and input current values.The experimental results show that the measured step displacements agree with the predicted values.Witha maximum deviation of $6 . 8 4 \%$ found between the measured and predicted values,this experimental investigation shows that the semi-analytic model is accurate in predicting the stiffness for such kind of flexure joint configuration,i.e., $L = 0$ Most importantly,results also show that the open-loop positioning resolution of FELA is predictable.
+
+Table 5 Reconfiguring the open-loop step displacement of FELA using flexure-based bearings with different thickness.   
+
+<html><body><table><tr><td>Current (μA)</td><td>Predicted</td><td>Measured (avg)</td><td>Error (%)</td></tr><tr><td colspan="4">0.3 mm thickness: Step displacement (nm)</td></tr><tr><td>22</td><td>45.43</td><td>42.69</td><td>6.42</td></tr><tr><td>44</td><td>89.46</td><td>86.00</td><td>4.02</td></tr><tr><td>66</td><td>133.83</td><td>130.69</td><td>2.41</td></tr><tr><td>88</td><td>177.16</td><td>174.37</td><td>1.60</td></tr><tr><td>110</td><td>221.18</td><td>212.43</td><td>4.12</td></tr><tr><td colspan="4">0.4 mm thickness: Step displacement (nm)</td></tr><tr><td>22</td><td>19.15</td><td>20.56</td><td>6.84</td></tr><tr><td>44</td><td>37.59</td><td>37.66</td><td>0.17</td></tr><tr><td>66</td><td>56.17</td><td>54.36</td><td>3.32</td></tr><tr><td>88</td><td>74.74</td><td>74.98</td><td>0.31</td></tr><tr><td>110</td><td>93.17</td><td>94.89</td><td>1.82</td></tr><tr><td colspan="4">0.5 mm thickness: Step displacement (nm)</td></tr><tr><td>22</td><td>9.88</td><td>10.00</td><td>1.17</td></tr><tr><td>44</td><td>19.48</td><td>20.00</td><td>2.62</td></tr><tr><td>66</td><td>28.92</td><td>30.00</td><td>3.61</td></tr><tr><td>88</td><td>38.42</td><td>40.00</td><td>3.95</td></tr><tr><td>110</td><td>47.86</td><td>50.00</td><td>4.28</td></tr></table></body></html>
+
+![](images/7088cac1b8a23aabfe685c34bb494b9127b31b79e4b75f80ae150a9181b452a4.jpg)  
+Fig.12.Open-loop step displacements ofFELA supported by flexure-based bearings with $0 . 3 \mathrm { m m }$ thickness.
+
+![](images/391506b62fac659e0a5dfc73dc02e335b8cc40f738aced6f9a941459c6a44cfb.jpg)  
+Fig.13.Open-loop step displacements ofFELA supported by flexure-based bearings with $0 . 4 \mathrm { m m }$ thickness.
+
+Figs.12-14 plot the actual step displacements of FELA supported by flexure-based bearings with thickness of O.3,O.4,and $0 . 5 \mathrm { m m }$ respectively. Referring to Fig.12,the open-loop positioning sensitivity of FELA was enhanced from 7.82 to $1 . 9 4 \mathrm { n m / \mu A }$ when the thickness of the flexure-based bearings changed from 0.2 to $0 . 3 \mathrm { m m }$ .With thickness of $0 . 4 \mathrm { m m }$ ,the open-loop positioning sensitivitywas further improved to $0 . 9 3 \mathrm { n m } / \mu \mathrm { A } .$ Lastly,FELAproduced an open-loop positioning sensitivity of $0 . 4 5 \mathrm { n m / \mu A }$ with the flexure-based bearings having a thickness of $0 . 5 \mathrm { m m }$ .Experimental results show that the open-loop positioning resolution of FELA is reconfigurable by changing the thickness of the flexure-based bearings.
+
+On the other hand,the achievable displacements were also affected by such changes.By comparing the final displacements plotted in both Fig.12 and 14,a FELA,which was supported by flexure-based bearings with thickness of $0 . 3 \mathrm { m m }$ ，achieved $2 1 2 . 4 3 \mathrm { n m }$ at $1 1 0 \mu \mathrm { A } .$ .With the same amount of input current, the FELA,which was supported by flexure-based bearings with thickness of $0 . 5 \mathrm { m m }$ ，achieved just $5 0 \mathrm { n m }$ .This comparison suggests that although the open-loop positioning sensitivity of FELA can be enhanced by increasing the thickness of the flexure-based bearings,this approach requires more force to overcome the increasing stiffness of those bearings.Consequently，more heat will be generated due to the increase of input current. In addition,changing the stiffness has a direct effect on the dynamics of the FELA. Assuming the moving mass remains unchanged,reducing the stiffness so as to minimize heat generation will reduce the dynamic performance,i.e.，natural resonant frequency.On the other hand,both dynamic behavior and open-loop positioningresolution can be enhanced by increasing the stiffness of the flexure-based bearings.Most importantly,the results obtained from the experimental investigation have demonstrated that the open-loop positioning resolution of FELA is predictable and reconfigurable by changing the thickness of the flexure-based support bearings.
+
+![](images/056f345ed59bb9d6b7d48398038a094f33ef7848faa3f1e0dec1518510f7e11e.jpg)  
+Fig.14.Open-loop step displacements ofFELA supported by flexure-based bearings with $0 . 5 \mathrm { m m }$ thickness.
+
+# 6.4.2.Addingan external resistor
+
+An alternate approach to enhance the open-loop positioning resolution ofFELA withoutaffecting the heat generation is by making use the Ohm's Law.From Eq.(3),adding an external resistor, $R _ { e x t }$ inseries with FELA will reduce the amount ofcurrent energizing the EDM via the voltage mode. Consequently,less amount of current will lead to less force generation and thus produce smaller step displacement.An experimental investigation was conducted to demonstrate how external resistance loads can enhance the open-loop positioning resolution.
+
+At initial conditions,i.e.,flexure-based bearings with $0 . 2 \mathrm { m m }$ thickness,internal coil resistance, $R _ { c o i l } = 5 . 9 3 \Omega$ ,and $R _ { e x t } = 0 \Omega$ ,a set of input voltage,i.e.,from $\mathsf { V D C } = 0 . 0 6 4$ to $0 . 2 5 6 \mathrm { m V }$ atan interval of $0 . 0 6 4 \mathrm { { m V } }$ was used to drive the output shaft forward and return to neutral position.The step displacements of the output shaft were recorded by the same optical encoderas plotted in Fig.15.At $0 . 0 6 4 \mathrm { { m V } }$ ,a step displacement of $1 7 2 . 8 7 \mathrm { n m }$ wasachieved by the FELA. At $0 . 2 5 6 \mathrm { m V }$ ,a step displacement of $3 4 5 \mathrm { n m }$ was produced. Hence,the open-loop positioning sensitivity was $1 3 4 7 . 6 6 \mathrm { n m / m V } .$ Next, $R _ { e x t }$ was increased to 5,15,and $2 5 \Omega$ respectively.For every increment,the same set of input voltage was used to drive the output shaft while the optical encoder recorded the step displacements.Table 6 lists the measured step displacements of FELA due to different external resistance loads.
+
+Using Eq. (3)， the current-force sensitivity of $1 0 . 3 \mathsf { N } / \mathsf { A } ,$ $R _ { c o i l } = 5 . 9 3 \Omega$ and stiffness of $1 3 7 5 \mathrm { N / m }$ ，the predicted step displacements of FELA at different external resistance loads are also listed in Table 6.For every change of external resistance load,the experimental results show that the step displacements of FELA were well predicted by Eq.(3).The measured step displacements agree with the predicted values and the maximum deviation between them is $8 . 1 7 \%$ .Using the same set of input voltage,the experiment also show that the step displacements of FELA reduced when the external resistance load increased.Results have proven that the assumption of increasing resistance load to lower the input current,which in turn reduce the step displacement,is valid.When $R _ { e x t } = 5 \Omega$ ,the measured open-loop positioning sensitivity became $3 6 2 . 8 1 \mathrm { n m / m V }$ When $R _ { e x t } = 2 5 \Omega$ ，the measured open-loop positioning sensitivity became $2 4 5 . 7 8 \mathrm { n m / m V }$ Results show that the open-loop positioning sensitivity of FELA was increased from the initial 1347.66 to $2 4 5 . 7 8 \mathrm { n m / m V }$ just by adding a $2 5 \Omega$ external resistor. Consequently, this experimental investigation has demonstrated that the open-loop positioning resolution ispredictable and reconfigurable through an external resistance load.
+
+![](images/015e5f2331987c81de88d0e626c7e69d8ece9de0cc35165a2bb92ca243c7bd9c.jpg)  
+Fig.15.Open-loop step displacements of FELAat initial conditions.
+
+Table 6 Reconfiguring the open-loop step displacement of FELA by adding different external variable resistance.   
+
+<html><body><table><tr><td>Voltage (mV)</td><td>Predicted</td><td>Measured (avg)</td><td>Error (%)</td></tr><tr><td colspan="4">Rext =5: Step displacement (nm)</td></tr><tr><td>0.064</td><td>43.43</td><td>43.02</td><td>0.95</td></tr><tr><td>0.128</td><td>88.37</td><td>89.23</td><td>0.98</td></tr><tr><td>0.192</td><td>125.81</td><td>128.84</td><td>2.41</td></tr><tr><td>0.256</td><td>168.50</td><td>171.99</td><td>2.08</td></tr><tr><td colspan="4">Rext =15: Step displacement (nm)</td></tr><tr><td>0.064</td><td>23.22</td><td>25.11</td><td>8.17</td></tr><tr><td>0.128</td><td>45.68</td><td>46.78</td><td>2.42</td></tr><tr><td>0.191</td><td>68.90</td><td>70.94</td><td>2.96</td></tr><tr><td>0.256</td><td>92.11</td><td>95.52</td><td>3.70</td></tr><tr><td colspan="4">Rext =25 Ω: Step displacement (nm)</td></tr><tr><td>0.064</td><td>15.73</td><td>15.52</td><td>1.29</td></tr><tr><td>0.128</td><td>30.70</td><td>28.46</td><td>7.32</td></tr><tr><td>0.192</td><td>46.80</td><td>44.77</td><td>4.36</td></tr><tr><td>0.256</td><td>62.53</td><td>61.43</td><td>1.77</td></tr></table></body></html>
+
+As compared to changing the thickness of the flexure-based bearings,there are two main advantages of usingan external resistance load to configure the open-loop positioning resolution. First, this approach will not increase the force required to achieve the targeted displacement since the stiffness of the bearings remains unchanged.Asa result,targeted displacement can still beachieved without increasing the input current. Thus,the thermal characteristics of the FELA remains unchanged.Second,the flexibility is higher as compared to changing the thickness of the bearings. In real applications,adding an external resistance load in series with FELA is more flexible than changing the thickness of the support bearings.In addition,thickness of these stainless steel shims are limited to certain range or specific thickness.The limitation of adding external resistance load is that this approach cannot reduce the noise level caused by the environmental disturbance. Figs.16-18 plot the actual open-loop step displacements of FELA when $R _ { e x t } = 5$ ,15and $2 5 \Omega$ respectively.At different external resistance loads,the average positioning noise isalways $\pm 1 5 \mathrm { n m }$ .From Fig.12-14,the average positioning noise drops from $\pm 1 5$ to $\pm 1 0 \mathrm { n m }$ due to change in the stiffness of the flexure-based bearings.As a result,Fig.14 shows more stable open-loop step displacements plot as compared to Fig.18.Another limitation of adding external resistance load is that the overall power consumption of the system will increase.Although this increase in power consumption has no effect in the heat generation since the external load is outside of FELA,the wattage of the power source,which drives the entire system,needs to be increased accordingly to the added resistance.Although each approach has its limitations,bothapproaches are able to configure the open-loop positioning resolution of FELA. Choosing between two approaches will depend very much on the targeted applications and a good understanding of the performance trade-offs.
+
+![](images/474669032462b2daf577dda1b965abb7e902085619c61e11a7096141ec72cc32.jpg)  
+Fig.16. Open-loop step displacements of FELA when $R _ { e x t } = 5 \Omega$
+
+![](images/294560d9b515fbb7812d37c4c49d26916fa389f7ef740b5f6ac85d4e122a48f8.jpg)  
+Fig.17. Open-loop step displacements of FELA when $R _ { e x t } = 1 5 \Omega$
+
+![](images/eb9804a48a96be4be62b4ac288e46089acca8d1c5d65449ca0af36080bc16688.jpg)  
+Fig.18.Open-loop step displacements of FELA when $R _ { e x t } = 2 5 \Omega$
+
+![](images/a2ef3e53849d171b4a49d2e9f5934bb6571e506a62b64fe64ce40065d52dbbe8.jpg)  
+Fig.19.Positioning stability at $1 \mathrm { m m }$ with PID servo-control.
+
+# 6.5.Evaluatingthepositioningandthermal stability
+
+Using the same optical encoder as the position feedback sensor of the output shaft,a Proportional-Integral-Derivative(PID) control was implemented to control the positioning of the FELA. Through the PID control scheme,FELAachieved a closed-loop positioning resolution of $\pm 1 0 \mathrm { n m }$ at $\pm 1 \mathrm { m m }$ .Alaser interferometer system(SIOS,resolution: $1 \mathrm { n m }$ /count) was used to evaluate the actual positioning accuracy at the tip of the output shaft.At $1 \mathrm { m m }$ Fig.19 shows that the tip of the output shaft is capable of deliveringan average positioning stability of $\pm 1 0 \mathrm { n m }$ .Fig.20 plots the temperature of the coil when FELAwas operatingat $1 \mathrm { m m }$ It shows that the coil temperature remained at $2 0 . 2 5 ^ { \circ } { \mathsf { C } }$ with a thermal stability of $\pm 0 . 1 5 ^ { \circ } \mathsf C$ 、Based on the measured flexure-based bearing stiffness of $1 3 9 8 \mathrm { N / m }$ and current-force sensitivity of $1 0 . 3 \mathsf { N } / \mathsf { A } ,$ the estimated input current isapproximately O.135A(O.8W).Based on this amount of input current, the thermal model predicted that the coil temperature will increase to $2 0 . 4 ^ { \circ } \mathsf C$ by approximately 92 s $( 1 . 5 \mathrm { m i n } )$ .The predicted temperature and time almost agree with the coil temperature profile plotted in Fig.2O with a deviation of $0 . 1 5 ^ { \circ } \mathsf C$
+
+![](images/8fe9f2efd6ed7f519c5c5e4e41053aecec26bc39a7447b69d99fd6fa3db3ff6a.jpg)  
+Fig.20. Operating temperature of coil at $1 \mathrm { m m }$
+
+# 7.Conclusion
+
+This paper has presented a novel nanopositioning actuator that achieves a large stroke range of $\pm 1 \mathrm { m m }$ with a positioningstability of $\pm 1 0 \mathrm { n m }$ and a thermal stability of $\pm 0 . 1 5 ^ { \circ } \mathsf C .$ To achieve such desired thermal characteristics,a thermal model of the Lorentz-force EDM based on lumped capacitance modeling approach was presented.Experimental investigations have shown that the presented thermal model is accurate in predicting the coil temperature.This paper also presented a novel semi-analytic modeling approach that was used to synthesize the proposed flexure-based membrane support bearings.Experimental evaluations have shown that the proposed semi-analytic model is accurate in predicting the stiffness of such bearings.The unique characteristics of the nanopositioning actuator,i.e.，predictable and re-configurable open-loop positioning resolution,were also demonstrated. Two approaches were presented on how to reconfigure the open-loop positioning resolution.Advantages and disadvantages of eachapproachwere discussed indetail.With the FELA,the future work will focus on the implementation of this actuatoronapplications such as stem-cell manipulation and fiber optics alignment.
+
+# References
+
+[1] Kenji U. Piezoelectric actuator and ultrasonic motors. USA: Kluwer Academic Publishers; 1997.   
+[2] Pham H-H, Chen I-M. Stiffness modeling of flexure parallel mechanism. Precis Eng 2005;29(4):467-78.   
+[3] Sok CW, Youcef TK. Modeling of an omni-directional high precision friction drive positioning stage. In: IEEE international conference on robotics and automation. 1998. p. 175-80.   
+[4] Lia J， Sedaghatia R,Dargahia J，Waechterb D. Design and development of a new piezoelectric linear inchworm actuator. Mechatronics 2005;15: 651-81.   
+[5] Yamagata Y, Higuchi T. A micropositioning device for precision automatic assembly using impact force of piezoelectric elements. In: IEEE international conference on robotics and automation. 1995. p. 666-71.   
+[6] Sprenger B, Binzel O, Siegwart R. Control of a high performance 3 dof linear direct drive operating with submicron precision. In: 4th international conference on motion and vibration control. 1998.p. 1145-50.   
+[7] Lum GZ, Teo TJ, Yang G, Yeo SH, Sitti M. Integrating mechanism synthesis and topological optimization technique for stiffness-oriented design of a three degrees-of-freedom flexure-based parallel mechanism. Precis Eng 2015;39:125-33.   
+[8] Hiemstra DB,Parmar G, Awtar S. Performance tradeoffs posed by moving magnet actuators in flexure-based nanopositioning. ASME/IEEE Trans Mechatron 2014;19:1-12.   
+[9] Chen KS, Trumper DL, Smith ST. Design and control for an electromagnetically driven x-y-0 stage. Precis Eng 2002;26:355-69.   
+10] Mittal S, Meng C-H. Hysteresis compensation in electromagnetic actuators through preisach model inversion. IEEE Trans Mechatron 2ooo;5:394-409.   
+11] Teo TJ, Chen I-M, Yang G, Lin W.A flexure-based electromagnetic linear actuator.Nanotechnology2008;19:315501.   
+12] Teo TJ, Chen IM, Yang G,Lin W. A novel actuator for high-precision alignment ina nano-imprint multi-layers-interconnection fabrication. In: 2o07 IEEE international conference on roboticsand automation. 2007.   
+13] Kiew CM,Lin WJ, Teo TJ,Tan JL,Lin W, Yang G.Finite element analysis of pmma pattern formation during hot embossing process. In: IEEE/ASME international conference on advanced intelligent mechatronics. 2oo9. p. 314-9.   
+[14] Teo TJ,Kiew CM, Chen I-M,Yang G，Lin W. Model-based control of a high precision imprinting actuator for micro-channel fabrications. In: 2010 IEEE international conference on robotics and automation. 2010.p.3159- 64.   
+[15] Teo TJ, Yang G, Chen I-M. A large deflection and high payload flexure-based parallel manipulator for UV nanoimprint lithography: Part I. Modeling and analyses. Precis Eng 2014;38(4):861-71.   
+[16] Teo TJ, Chen I-M,Yang G. A large deflection and high payload flexurebasedparallel manipulator for uv nanoimprint lithography: Part II. Stiffness modeling and performance evaluation. Precis Eng 2014;38(4):872- 84.   
+[17] Hey J, Kiew CM, Yang G,Martinez-Botas R. Model-based compensation of thermal disturbance in a precision linear electromagnetic actuator. IEEE Trans Mechatron 2014;19:1477-88.   
+[18] HeyJ,Teo TJ,Bui VP,Yang G,Martinez-Botas R. Electromagnetic actuator design analysis using a two stage optimization method with coarse-fine model output space mapping. IEEE Trans Ind Electron 2014;61:5453-64.   
+[19] Teo TJ, Chen I-M, Yang G, Lin W. A generic approximation model for analyzing large nonlinear deflection of beam-based flexure joints. Precis Eng 2010;34(3):607-18.   
+[20] BEI Kimco Magnetics linear voice coil actuators,online: BEI Kimco Magnetics website (February 2014).   
+[21] H2W Technologies voice coil linear actuators,online: H2W Technologies website (February 2014).   
+[22] Teo TJ, Chen I-M, Yang G, Lin W. Magnetic field modeling of a dual-magnet configuration.JAppl Phys 2007;102(7):074924.   
+[23] Button BJ. Heat dissipation and power compression in loudspeakers. JAudio Eng Soc 1992;40:32-41.

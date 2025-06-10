@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "Structural basis for allosteric, substratedependent stimulation of SIRT1 activity by resveratrol ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Duanfang Cao,1,2 Mingzhu Wang,1 Xiayang Qiu,³ Dongxiang Liu,4 Hualiang Jiang,4 Na Yang, and Rui-Ming $\\mathbf { X } \\mathbf { u } ^ { 1 , 2 }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1NationalLaboratoryof iomacromolecules,Instituteof Bophysics,Chinese AcademyofSiences,Beijing0China; 2UniversityofChinese Academyof Sciences,Beijing 10049,ChinaDepartmentof Structural BiologyandBiophysics,Pfizer Groton ResearchLaboratories,Groton,Connecticut6340,USA;4ShanghaiInstituteofMateria Medica,Chinese Academyof Sciences, Shanghai 201203, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sirtuins withanextendedN-terminal domain (NTD),representedbyyeast Sir2and human SRT1,harborintrisic mechanisms for regulation of their NAD-dependent deacetylase activities.Elucidation of the regulatory mechanisms is crucialfor understanding the biologicalfunctions ofsirtuins and development of potentialtherapeutics.In particular,SIRT1 has emerged as an atractive therapeutic target,and the search for SIRT1-activating compounds (STACs)has beenactively pursued.However,the effectiveness of aclass of reported STACs (represented by resveratrol)as direct SIRT1activators is underdebate due to the complication involving theuseoffluorogenic substrates in in vitro assays.Future eforts of SIRT1-based therapeutics necessitate the dissectionof the molecular mechanism of SIRT1 stimulation. We solved the structure of SIRT1 in complex with resveratrolanda 7-amino-4- methylcoumarin (AMC)-containing peptide.The structure reveals the presence of three resveratrol molecules,two of which mediate theinteractionbetween the AMCpeptide and theNTDof SIRT1.The two NTD-boundresveratrol molecules are principally responsible for promoting tighter binding between SIRT1 and the peptide and the stimulation of SIRT1 activity.The structural information provides valuable insights into regulation of SIRT1 activity and should benefit the development of authentic SIRT1 activators. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Keywords:histone/protein deacetylase;resveratrol; sirtuins;structure] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplemental materialis available for this article. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received May11,20l5;revised versionaccepted June 1,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sirtuins are NAD-dependent protein deacetylases catalyzing the removal of the acetyl group of an acetylated lysine residue concomitant with the cleavage of the nicotinamide group from NAD,resulting in reaction products of a deacetylated protein, nicotinamide,and a novel compound $[ 2 ^ { \\prime }$ -O-acetyl-ADP-ribose) (Imai et al. 200O;Landry et al.200O; Smith et al. 200O; Tanner et al. 200O; Sauve et al.2OOl; Tanny and Moazed 2OOl). Crystal structures of several archael, yeast,and human sirtuins have been solved,and they revealed a conserved catalytic core composed of a Rossmann-fold large lobe and a zinc-containing small lobe (Finnin et al.2OOl;Min et al.2OOl;Avalos et al. 2002; Zhao et al. 2003,2013; Schuetz et al.2007; Jin et al. 2009；Pan et al.201l;Davenport et al. 20l4).NAD is bound in the cleft formed between the two lobes,with the nicotinamide group pointing inside of the cleft. The substrate acetyl-lysine approaches the nicotinamide group of NAD via a hydrophobic channel.The combined biochemical and structural analyses have yielded considerable understandings of the catalytic mechanism of sirtuins (Sauve et al. 2OO6；Sanders et al. 2OlO;Feldman et al. 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The two best-characterized sirtuins are yeast Sir2 and human SIRT1.While Sir2 primarily deacetylates Lysl6 of histone H4 (H4Kl6),a variety of SIRT1 substrates—including histones,p53，FOXOs,and PGC-la—have been reported (Luo et al. 2OOl;Vaziri et al.2OOl;Brunet et al. 2004;Motta et al. 2004;Vaquero et al. 2004; Rodgers et al.2005).Accordingly, SIRT1 has been reported to function in many physiological and pathological processes, such as aging and the development of metabolic,neurodegenerative,and cardiovascular diseases (Guarente 2011). Therefore,modulating the SIRTl activities by small molecules might serve as an effective therapeutic strategy toward the aforementioned diseases,and there has been great interest in finding SIRTl-activating compounds (STACs) (Baur 201O; Sinclair and Guarente 2014). Largescale screenings have yielded a number of possible STACs, among which is a class of polyphenol compounds,notably represented by resveratrol,an ingredient of red wine (Howitz et al. 2003;Sauve et al.2005;Milne et al. $2 0 0 7 ;$ （204 Bemis et al. 2Oo9).However, several studies questioned the effectiveness of resveratrol and related compounds as direct SIRTl activators, pointing out that the observed stimulatory effect depended on the presence of a fluorescent group in the substrates used in in vitro assays (Borra et al.2005；Kaeberlein et al. 2005;Pacholec et al. 2010). Nevertheless,it is possible that the artificial fluorescent group in the substrate peptide may mimic an aromatic residue in certain natural substrates of SIRT1 (Dai etal.2010; Hubbard etal.20l3;Lakshminarasimhan etal.2Ol3; Sinclair and Guarente 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Regardless of the nature of the substrates,it was found that the stimulatory effect of resveratrol requires the presence of an N-terminal domain (NTD)in addition to the catalytic domain (CD) of SIRT1 (Milne et al. 2OO7; Hubbard etal.2Ol3).There are seven sirtuins in humans,and SIRT1 distinguishes itself from others in having sizable N-terminal and C-terminal extensions beyond the conserved catalytic core (Frye 2OoO).In vitro studies showed that three regions of the 747-residue human SIRTl are required to recapitulate known biochemical properties of the full-length protein. They include the ${ \\sim } 2 6 0$ -residue CD located in the middle,an ${ \\sim } 2 5$ -residue C-terminal ESA sequence,and an $\\sim 5 0$ -residue NTD (Fig.1A; Kang et al. 2O11; Pan et al. $2 0 1 2 ;$ Hubbard et al. 2013). In particular, $\\mathrm { \\ G l u { 2 3 0 } }$ in NTD was shown to be critical for stimulationbyresveratrol (Hubbard etal.2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of the CD of SIRT1 with and without the C-terminal ESA polypeptide has been determined previously (Zhao etal.2013;Davenport et al.20l4). The struc ture of the catalytic core resembles that of other sirtuins, and the ESA polypeptide folds into a $\\beta$ hairpin，which is juxtaposed with the parallel $\\beta$ strands of the Rossmann-fold domain and forms an extended, mixed $\\beta$ sheet (Davenport et al.20l4).However, little is known about the structure of the SIRT1 NTD.This structural information is vital for understanding the stimulatory effect of resveratrol regardless of whether it works for natural substrates,as it will provide valuable insights into how SIRT1 activity is modulated,and this knowledge should be useful for the development of authentic, effective activators of SIRT1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Deacetylase activitiesofSIRT1fragments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sinceresveratrol was shown to stimulate the deacetylase activity of SIRT1 toward a four-residue acetylated p53 peptide,termed p53-AMC (7-amino-4-methylcoumarin), which carriesa C-terminal AMC fluorophore,we intended to cocrystallize SIRT1 with resveratrol and the p53- AMC peptide.To achieve crystallization,we engineered a truncated version of SIRT1, termed SIRT1-143, spanning residues 143-665 but with the intervening sequences (amino acids 513-640) between the CD and ESA removed and the remaining segments spliced together without an exogenous linker (Fig.lA). Judging by a continuous, enzyme-coupled microplate assay (Smith et al.2oo9), SIRT1- 143 exhibited an enzymatic activity level comparable with that of a longer SIRT1 fragment lacking only $8 8 ~ \\mathrm { N } .$ terminal residues (SIRT1-89-747) using p53-AMC as the substrate (Fig.lB,C).Furthermore,the deacetylase activity of SIRT1-l43 is stimulated by resveratrol in a manner similar to that of the full-length protein,while a truncated form of SIRT1-143,SIRT1-241,lacking the noncatalytic NTD,was not stimulated by the addition of resveratrol (Fig.1B).Therefore,a SIRT1-143 structure would reveal the salient features of SIRTl activation by resveratrol. We succeeded in crystallizing a quadruple cysteine-to-serine mutant (C253S,C268S,C501S,and C502S) of SIRT1- 143，termed SIRT1- $\\cdot 1 4 3 \\mathrm { C S } ,$ which shares the enzymatic properties of the parental fragment (Fig.1B),in complex with resveratrol and the p53-AMC peptide,and a $3 . 2 – \\mathring { \\mathrm { A } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/caa8a3151ef0bcc5c0fd47013d3fbe30bd750073015eda851083f45ad0039f41.jpg",
+        "img_caption": [
+            "Figure 1. SIRT1 fragments and their resveratroldependentdeacetylationactivities.(A)Aschematic diagram showing functional domains in full-length SIRT1 (top) and a truncation variant (SIRT1-143) used for crystallization (bottom). (B)Abardiagram showing deacetylase activities of the indicated SIRT1 fragments and the stimulatory effects of $0 . 5 ~ \\mathrm { \\ m M }$ resveratrol. (C）The p53-AMC peptide used for cocrystallization and deacetylation assays. The single-letter residue symbol together with the residue number indicates SIRT1 residues involved in protein-peptide interactions via main chain (filled circles) or side chain (filled boxes) groups. The red dashed lines denote hydrogen bonds,the brown thick curve indicates the acetyl-lysine-binding pocket in SIRT1-CD,and the nearby indicated ",
+            "residuesepresentonescontactigtheacetyl-lysineviahydrophobicand/orvanderWaals interactions.Cyanandgreenfiledshpesin dicate residues in CD and $\\mathrm { \\bf N T D , }$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "structure was solved by molecular replacement (Table 1;   \nSupplemental Fig. S1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Overall structure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structure of SIRT1-143CS in complex with resveratrol and p53-AMC revealed a conserved catalytic core with an extended central $\\beta$ sheet formed by the juxtaposition of the $\\beta$ hairpin from the ESA sequence (Fig.2A; Zhao et al.20l3; Davenport et al. 2Ol4). This arrangement of theESA $\\beta$ hairpin is reminiscent of that of the C-terminal $\\beta$ hairpin in yeast Sir2,indicatinga largely structural role of the ESA sequence in the Sir2-SIRT1 clade of sirtuins (Fig. $2 { \\mathrm { C } } ;$ Hsu et al.2013).The SIRT1 NTD is mainly composed of a core of three helices (amino acids 184-229)—a feature that can also be identified in Sir2 (although the Sir2 NTD has two extra helices)—and, when bound by another protein (Sir4)assumes a distinct spatial position (Fig. 2C,D; Hsu et al. 2013). Apart from covalent joining of the two domains, there are very few direct contacts between the NTD and CD,with the notable exception of an interdomain hydrogen bond between $\\mathrm { \\ G l u { 2 3 0 } }$ and $\\mathrm { A r g } 4 4 6$ (Fig. 2A,B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cf4a16d7827ba5be94fe9945630c0d4a3fa6bfb5e29edef5b98bd714734b377.jpg",
+        "table_caption": [
+            "Table1. Statistics of crystallographic analysis "
+        ],
+        "table_footnote": [
+            "aData in parentheses are that of the highest-resolution shell "
+        ],
+        "table_body": "<html><body><table><tr><td>Data collection</td><td></td></tr><tr><td>Space group</td><td>P41</td></tr><tr><td>Cell dimensions</td><td></td></tr><tr><td>a,b,c</td><td>133.89A,133.89A,106.71 A</td></tr><tr><td>α,β, Y</td><td>90°,90°,90°</td></tr><tr><td>Wavelength</td><td>0.9792A</td></tr><tr><td>Resolution</td><td>50.00 A-3.20 A (3.31 A-3.20 A)a</td></tr><tr><td>Rmerge</td><td>0.079 (0.717)</td></tr><tr><td>I/oI</td><td>17.8 (2.3)</td></tr><tr><td>Completeness</td><td>99.8 (100.0%)</td></tr><tr><td>Redundancy</td><td>4.2 (4.3)</td></tr><tr><td>Number of total/unique observations</td><td>130,624/31,197</td></tr><tr><td>Refinement</td><td></td></tr><tr><td>Resolution</td><td>50.00 A-3.20 A</td></tr><tr><td>Number of reflections</td><td>31,180</td></tr><tr><td>Rwork/Rfree</td><td>0.207/0.252</td></tr><tr><td>Number of atoms</td><td></td></tr><tr><td>Protein</td><td>8459</td></tr><tr><td>Peptide</td><td>174</td></tr><tr><td>Zn2+</td><td>3</td></tr><tr><td>Resveratrol</td><td>153</td></tr><tr><td>Water</td><td>11</td></tr><tr><td>B-factors</td><td></td></tr><tr><td>Protein</td><td>100.6 A²</td></tr><tr><td>Peptide</td><td>80.6A²</td></tr><tr><td>Zn2+</td><td>121.0 A²</td></tr><tr><td>Resveratrol</td><td>80.6A²</td></tr><tr><td>Water</td><td>58.6A²</td></tr><tr><td>RMSD</td><td></td></tr><tr><td>Bond lengths</td><td>0.006A</td></tr><tr><td>Bond angles</td><td>0.979°</td></tr><tr><td>Ramachandran plot</td><td></td></tr><tr><td>Favored</td><td>98.4%</td></tr><tr><td>Allowed</td><td>1.6%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The p53-AMC peptide is bound in a cleft formed between the NTD and CD of SIRT1 (Fig.2).Like in all sirtuins,a substrate-bindingchannel between the large and small lobes in the CD binds the target acetyl-lysine of p53-AMC.Additional direct interactions between the CD and the peptide involve three hydrogen bonds between main chain carbonyl and amino groups of three SIRTl residues (Gly415,Glu416,and Arg446) and the peptide (Fig.lC). These hydrogen bonds are conserved in the structures of other sirtuin-peptide complexes known to date (Avalos et al. 2002; Zhao et al. 2003).Unique to the SIRTl-p53-AMC complex,Argl of the peptide interacts with Asn226 of the SIRT1 NTD via two hydrogen bonds: one between the carbonyl of Argl and the side chain amino group of Asn226 and another between one $\\omega$ -amino group of Argl and the side chain hydroxyl group of Asn226 (Fig.1C). The coumarin group of p53-AMC projects away from the SIRT1 CD,with the ring plane roughly perpendicular to the side chain of acLys4 (Fig. 2B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Resveratrol binding ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three resveratrol molecules are found in the structure, and they are denoted as Resl to Res3.Resl and Res2 make hydrogen bonds with both the SIRT1 NTD and p53-AMC,while Res3 contacts the SIRT1 CD and the peptide (Fig. 2B). One hydroxyl group of the dihydroxyphenyl moiety of Resl bonds to the side chain of $\\mathrm { G l u } 2 3 0 .$ ，and the other hydroxyl group contacts the main chain amino and carbonyl groups of Lys3 of p53- AMC.The phenyl ring of the hydroxyphenyl moiety of Resl stacks with the coumarin ring in parallel and also enjoys hydrophobic interactions with several residues located in a2 and α3 of the SIRT1 NTD.Note that $\\mathrm { G l u } 2 3 0$ of the SIRT1 NTD also interacts with $\\mathrm { A r g } 4 4 6$ in the CD (Fig. 2B).Res2 is located $\\sim 4 - 5$ A away from Resl,with its hydroxyl group of the hydroxyphenyl moiety making hydrogen bonds to $\\mathbf { G } \\mathbf { l n } 2 2 2$ and Asn226 of the SIRT1 NTD and also with the carbonyl of Argl of the peptide.The dihydroxyphenyl ring of Res2 stacks edge to edge with the coumarin ring and also contacts both the NTD and CD via hydrophobic and van de Waals interactions.Res3 is located next to the SIRT1 CD,on the opposite side of the coumarin ring with respect to the locations of Resl and Res2 (Fig. 2B).The hydroxyl groups of the dihydroxyphenyl moiety of Res3 interact with Asp292 and Asp298 in the CD. The distal hydroxyl group of Res3 bonds the carbonyl of Lys444,and the hydroxyphenyl ring stacks with the coumarin face to face.Res3 also interacts with Res2 via a hydrogen bond (Fig. 2B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To date,several other sirtuin structures in complex with p53-AMC and resveratrol or its analogs, $4 ^ { \\prime }$ -bromoresveratrol and piceatannol, have been determined(Gertz et al. 20l2; Nguyen et al. 2Ol3). Resveratrol was reported to stimulate the activity of SIRT5 and inhibit SIRT3 using the fluorogenic \"Fluor-de-Lys\" $\\left( \\mathrm { F d L } ; \\right.$ identical to p53- AMC) peptide as the substrate (Gertz et al.20l2). The structure of SIRT5 in complex with resveratrol shows that the only resveratrol molecule is bound in a location near the binding site of Res3 in SIRT1(Fig.3A,B),although both the resveratrol molecule and the peptidyl coumarin moiety adopt significantly different orientations in the SIRT5 complex.In the SIRT3 complexes, the bromo-resveratrol molecule is bound further away from the fluorogenic peptide (Fig. 3C),while the piceatannol molecule occupies a position similar to that taken by Res2 in the SIRT1 complex (Fig.3D).It should be noted that neither SIRT3 nor SIRT5 have an extended NTD as in SIRT1. The contrasting binding modes of resveratrol and its analogs in different sirtuin complexes reflect distinct binding conformation of the peptides and the local environments in separate sirtuins. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/abe69534e4c55af6e68e9c3ae2f54ea1f5cfbdb2b0dc742eb6521c8bf31dbafc.jpg",
+        "img_caption": [
+            "Figure 2. Structure of the SIRT1 ternary complex.(A)Overall structure of SIRT1 with the protein domains color-coded as in Figure lA.A pair of SIRT1 residues involved in NTD-CD interdomain interactions are shown ina stick model,with the hydrogenbonds indicated bywhite dashed lines.The acetylated p53-AMC peptide (carbon colored wheat) and resveratrol molecules (carbon colored magenta) are shown asa stick model.(B)A detailed view of protein-resveratrol and resveratrol-peptide interactions. $| C |$ Superposition of SIRT1 and Sir2 structures aligned via their CDs.The ribbon structure of Sir2 is shown in light pink,and the structure of the SIRT1 complex is color-coded the same as in $A ,$ with the exception that the p53-AMC peptide is shown as a light-blue stick model. The SIR4 structure was removed for viewing clarity,but the blue-shaded region indicates its general location. $| D |$ Superposition of theN-terminal helical domains of SIRT1 and Sir2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stimulatoryeffectofindividual resveratrol molecules ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/98f8f7b4cc3c33b243500e20f9dab1da626e55993c7c664b0260740fbbd5a546.jpg",
+        "img_caption": [
+            "Figure 3.Comparison of resveratrol-bindingmodes. (A)Asurface representation (with electrostatic potential distribution) of SIRT1 with the bound p53-AMC peptide and resveratrol.The NTD of SIRT1 was removed for viewing clarity.(B)The structure of SIRT5 with the bound peptide and resveratrol (Protein Data Bank [PDB] ID 4HDA). (C) The structure of SIRT3 with the bound peptide and bromo-resveratrol (PDB ID 4C7B). $| D |$ The structure of SIRT3 with the bound piceatannol (PDB ID 4HD8). Both the peptides (carbon colored gold) and resveratrol or its analog (carbon colored green) are shown as a stick model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine the contribution of each resveratrol molecule，we separately mutated the SIRT1 residues contacting each resveratrol and compared the deacetylase activities of the SIRTl mutants in the presence and absence of $0 . 2 \\mathrm { ~ m M }$ resveratrol using the continuous enzyme-coupled microplate assay.Note that the mutations were intended to disrupt the hydrogen bonds between the resveratrol and the protein，which may or may not completely abolish the binding of relevant resveratrol molecules.Hence,strictly speaking, the change in deacetylase activity is a consequence of perturbations to the observed resveratrol-binding mode.In agreement with previous observations,changing Glu23O to a lysine (E23OK) or an alanine (E23OA) significantly reduced the stimulatory effect of resveratrol, indicating that the binding of Resl is crucial for the elevated SIRT1 activity toward the p53-AMC peptide (Fig. 4A). The Q222A/ N226A double mutant of SIRT1 displayed a conspicuous level of reduction in response to the addition of resveratrol,confirming the role of Res2 in the stimulation of SIRT1 activity.By comparison,a D292A/D298A mutant had a mild effect on SIRT1 activity in the presence of resveratrol, suggesting an auxiliary role of Res3 in the stimulation of SIRT1 activity (Fig. 4A).Isothermal titration calorimetry (ITC)measurements revealed that resveratrol increased the binding between SIRT1 and the p53-AMC peptide,from an undetectable level without resveratrol toa $K _ { \\mathrm { D } }$ of $7 . 3 ~ \\mu \\mathrm { M }$ in the presence of $0 . 5 ~ \\mathrm { m M }$ resveratrol (Fig. 4B).Under the same binding conditions, the $\\mathrm { E } 2 3 0 \\mathrm { K } ,$ $\\mathrm { Q 2 2 2 A } / \\mathrm { N 2 2 6 A } ,$ and D292A/D298A mutants of SIRT1 bound the peptide with $K _ { \\mathrm { D } }$ values of $1 9 . 5 ~ \\mu \\mathrm { M } ,$ （ $1 8 . 2 ~ \\mu \\mathrm { M } ,$ and $6 . 5 ~ \\mu \\mathrm { M } ,$ respectively (Fig.4C-E).The binding for the E230A mutant was too weak to be reliably measured. The observed binding strengths appear to correlate with the level of resveratrol stimulation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The structure also shows that Glu23O makes an interdomain contact with $\\mathrm { A r g } 4 4 6$ in the SIRT1 CD (Fig.2) in addition to direct binding to reseveratrol. We hypothesized that stabilization of the interdomain arrangement configured by the Glu23O-Arg466 interaction might playan important role for the resveratrol-dependent effect.To test this hypothesis,we made a R446A mutation, which should disrupt the Glu230-Arg446 interaction without directly affecting hydrogen bonding between $\\mathrm { \\ G l u { 2 3 0 } }$ and resveratrol,and measured its binding affinity and deacetylase activity toward the p53-AMC peptide. The R446A mutant bound the peptide with a $K _ { \\mathrm { D } }$ of $1 7 . 7 ~ \\mu \\mathrm { M }$ in the presence of $0 . 5 ~ \\mathrm { m M }$ resveratrol and displayed a level of resveratrol stimulation similar to that of the E230K mutant (Fig. 4A,F). This result supports the notion that a proper interdomain arrangement is important for the stimulatory effect of resveratrol.To understand whether maintaining the interdomain interaction alone is sufficient for the resveratrol effect,we generated an E230R/R446E mutant swapping the two residues, with the expectation that the reciprocal change of amino acid residues will maintain a stable interdomain configuration.Evidently,the mutant had an impaired ability to stimulate SIRT1 activity and displayed a significantly weaker binding to the p53-AMC peptide (Fig. $\\mathrm { 4 A , G }$ .The result indicates that either the interdomain configuration is not restored by the amino acid swap,or a precise positioning of the two amino acids is required for the resveratrol effect. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b8c1e3eade28db1dbf46ef5929f642c777cefaf38d0215931b42b21b3ebc366.jpg",
+        "img_caption": [
+            "Figure 4.Deacetylase activities and peptide-binding affinities of SIRTl variants. $| A |$ Deacetylation rates of the indicated SIRTl variants toward p53-AMC in the absence and presence of $0 . 2 \\mathrm { m M }$ resveratrol. $\\left( B { - } G \\right)$ ITC measurements of binding affinities of the p53-AMC peptide to the indicated SIRT1 variants in the presence of $0 . 5 \\mathrm { m M }$ resveratrol. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Altogether, the structure shows that SIRT1 residues important for binding Resl and Res2 are crucial for resveratrol-dependent stimulation of deacetylation of p53-AMC and are all located in the NTD.Itis interesting that direct interactions between the peptide and the SIRT1 NTD are scarce,with their contacts mainly mediated by two resveratrol molecules (Figs.1C, 2B).It was previously reported that resveratrol and other purported SIRTl activators interact with fluorophore-attached p53 peptides weakly (Borra et al. 2OO5;Pacholec et al.2OlO). The structure shows that resveratrol interacts with both the peptide and SIRT1, its NTD in particular.We attempted to measure the binding affinities between resveratrol and the p53-AMC peptide as well as that between resveratrol and the SIRT1 NTD (using isolated protein domain) by ITC,but they were too weak to be reliably quantitated. Nevertheless,it is clear that resveratrol and the NTD synergistically increased the binding affinities of the fluorophore-attached peptide to SIRT1. The structural, biochemical,and biophysical results are consistent with an adaptor role of resveratrol to contour the surface of the SIRT1 NTD for optimal binding of the p53-AMC peptide. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the resveratrol effect with the artificial p53- AMC peptide is clear, it is controversial with native peptides bearing no fluorophore.It was reported that resveratrol could stimulate SIRT1's activity toward acetylated peptides with a bulky aromatic residue at the $+ 1$ position, such as PGC-1α and FOXO3a (Hubbard et al.2013).We also measured the effect of resveratrol on fluorophorefree PGC-lα and FOXO3a peptides using the enzyme-coupled microplate assay.We first determined the kinetic parameters of SIRT1 for these peptides: an 1l-mer PGC-la peptide that contains both the $+ 1$ tyrosine and the $+ 6$ phenylalanine suggested to have a beneficial effect on resveratrol activation,a hexameric FOXO3a peptide that has a tryptophan at the $+ 1$ position,and, for comparison, the p53-AMC peptide (Fig. 5A-E).While the addition of resveratrol significantlylowered the $K _ { \\mathrm { m } }$ value for the p53- AMC peptide，the changes with PGC-la and FOXO3a are less pronounced (Fig. 5E).For the two native peptides, we found no stimulation of SIRT1 activity with the addition of resveratrol under nonsaturation conditions in our assay using both the crystallized and the nearly fulllength SIRT1 fragments (Fig.5F). This result is consistent with the structural findings,as the AMC group in the p53- AMC peptide occupies the path of the main chain position of native peptides as seen in the structures of sirtuin-peptide complexes,and,in this manner,the side chain of the $+ 1$ residue in the SIRTl complex with a native peptide cannot bind the protein in a way similar to that of the AMC group (Fig. 5G; Avalos et al. 2002). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1fbd54935d63779984bab9492888e215e5f85e299c9a3bad6d675b05bf96c63.jpg",
+        "img_caption": [
+            "Figure 5. Resveratrol effect on native peptides. $| A { - } D ) ,$ Titration curves for determination of $K _ { \\mathrm { m } }$ values of SIRT1-143CS toward the indicated peptides in the absence (black curves) and presence (red curves) of $0 . 2 \\mathrm { m M }$ resveratrol.An enzyme concentration of $2 0 0 { \\mathrm { n M } }$ in $B ,$ as opposed to $4 0 0 \\mathrm { n M }$ in the rest, was used to slow down the reaction for better precision measurement. $| E |$ A summary of measured Michaelis-Menten kinetic parameters for the indicated peptides in the absence and presence of $0 . 2 \\mathrm { m M }$ resveratrol. $\\left( F \\right)$ Deacetylase activities of SIRT1 fragments l43-CS and 89-747 toward the indicated peptides measured at $4 0 0 { \\mathrm { n M } }$ and $5 0 \\mu \\mathrm { M }$ enzyme and peptide concentrations, respectively, in the absence and presence of $0 . 2 \\mathrm { m M }$ resveratrol. $\\left( G \\right)$ Superposition of the fluorophoreless acetylated p53 peptide (carbon coloredyellow)fromanarchaealsirtuincomplex(PDBIMA3)with theSIRTlterarycomplex.Residuepositions withrespecttothe acetylated lysine are indicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SIRT1 differs from other mammalian sirtuins in having an extended NTD,which has been suggested to bea target for allosteric activation of SIRTl activities.While it has been demonstrated that it indeed mediates the activation toward artificial peptides bearing a fluorophore group at the $+ 1$ position,there is considerable confusion with regard to activation of SIRTl activity toward natural substrates.However,it is not unprecedented that an NTD of sirtuin harbors an allosteric activation mechanism toward native substrates.For example,binding of Sir4, principally through the NTD of Sir2,stimulates deacetylation of H4Kl6 by Sir2 (Tanny et al.2004; Hsu et al.2013),and binding by AROS and Lamin $\\mathbf { A } ,$ suggested via the NTD of SIRTl,potentiates the activity of SIRT1 toward p53 (Kim et al.2OO7;Liu et al. 20l2). Therefore,it is possible that, by modeling the protein-protein interaction effect with small molecules,allosteric activation of SIRT1 activation may be achieved.To learn about possible mechanisms, the structure of the NTD-containing SIRT1 complex with resveratrol and the fluorogenic peptide can serve as a model for mechanistic analyses. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ourstructure shows that two of the threebound resveratrol molecules mediate the interaction between the p53- AMC peptide and the NTDof SIRT1.TheNTD contains a core of three helices,which are arrangedinamanner similar to that of three of the five helices in the NTD of yeast $\\mathrm { { S i r 2 , } }$ although the NTDs are positioned quite differently with respect to their respective CDs in ligand-bound structures.A common feature of the two structures is that there are rarely any direct contacts between the NTD and CD in both proteins. It has been previously suggested and confirmed by molecular dynamics simulation that the two domains in Sir2 are not stably held together in the absence of Sir4 (Hsu et al. 20l3).It is expected that the same is true for SIRTl when the peptide and resveratrol are not bound.The structure shows that resveratrol serves as an adaptor to bridge the NTD and the peptide together by principally interacting with the peptidyl AMC moiety on one side and via specific NTD residues on the other side.The structural findings are consistent with previous as well as our enzyme kinetics and binding results that resveratrol lowered the $K _ { \\mathrm { m } }$ value of the fluorogenic peptide and increased the binding affinity between the peptide and the enzyme (Howitz et al.2003;Borra etal.2005;Kaeberlein etal.2005). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As with native peptides carrying no fluorophore,we did not detect significant changes of $K _ { \\mathrm { m } }$ values with and without resveratrol and observed no stimulation of deacetylase activity of SIRTl upon addition of resveratrol in our experiments.This is in agreement with several previous reports (Borra etal.2005;Kaeberleinetal.20O5;Beher etal.2009; Pacholec et al. 20lO; Liu et al. 20l2) and contrasts with some others (Dai etal.2O1O; Hubbard etal.20l3). Significantly, the two native peptides used in our experiments all have an aromatic residue at the $+ 1$ position,and the PGClα peptide also contains an additional aromatic residue at the $^ { + 6 }$ position,which has been suggested to further stimulation of SIRT1 activity by STACs (Hubbard et al.2013). Froma structural point of view,the inability of resveratrol to stimulate SIRTl activity toward native peptides may stem from the difference in the positioning of the $+ 1$ aromatic residue in native peptides and the coumarin group in p53-AMC.However, the mechanism of SIRT1 activation learned here—namely,resveratrol serves as an adaptor to strengthen the binding between the fluorogenic peptide and the NTD of SIRT1—should work for native peptides in principle if suitable compounds can be identified to mediate proper interactions between the substrate and SIRT1.The structural information obtained here may facilitate a computational search of such compounds. The structural property of SIRT1, together with further information on protein-protein interaction,should also benefit the understanding of new activation mechanisms of SIRT1 involving additional binding factors，such as Lamin A,which is reported to synergize with resveratrol to stimulate SIRT1 activity (Liu et al.2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Protein expression and purification ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Human SIRT1 fragments were all expressed as his-sumo-tagged proteins in the BL2l(DE3) strain of Escherichia coli using a pET28a-smt3 vector.The fragments used for crystallization studies—SIRT1-143 and SIRT1-143CS—encompass the NTD,the CD,and the C-terminal ESA region (amino acids 143-512 and 641-665). SIRT1-143CS differs from the wild-type SIRT1-143 by substitution of four cysteine residues to serine (C253S,C268S, C501S,and C502S) to improve the protein property for crystallization. SIRT1-24l and SIRT1-24lCS are corresponding truncation variants lacking $2 4 0 \\mathrm { ~ N ~ }$ -terminal residues (amino acids 241-512 and 64l-665). The longest SIRT1 fragments used in this study lack $8 8 ~ \\mathrm { { N } }$ -terminal residues (amino acids 89-747). All SIRT1 fragments were expressed and purified following a protocol similar to that described below.Cells reaching a density of $\\mathrm { O D } _ { 6 0 0 } \\sim 0 . 6 \\mathrm { - } 0 . 8$ were induced with $0 . 3 \\mathrm { m M }$ IPTG for $\\mathord { \\sim } 1 8 \\mathrm { h }$ at $1 6 ^ { \\circ } \\mathrm { C }$ .Harvested cells were resuspended in a buffer containing $2 0 ~ \\mathrm { m M }$ Tris $\\mathrm { ( p H ~ 8 . 0 ) }$ ， $5 0 0 ~ \\mathrm { m M ~ N a C l }$ $5 \\%$ glycerol,and $1 \\ \\mathrm { m M }$ PMSF and were lysed by sonication.The cell lysate was clarified by centrifugation,and the supernatant was applied to a Ni-IDA column and eluted via a $0 { \\sim } 1 0 0 \\ \\mathrm { \\ m M }$ imidazole gradient in 20 mMTris $\\mathrm { \\{ p H 8 . 0 \\} }$ $2 0 0 \\mathrm { m M N a C l } ,$ and $5 \\%$ glycerol.Eluted fractions enriched with the recombinant protein were pooled and treated with sumo protease for $^ { \\mathrm { 2 h , } }$ and then the sample was diluted and loaded onto the Ni-IDA column again to remove the hissumo tag.Afterward，the tag-free protein was concentrated andloaded onto a SuperdexHiLoad $7 5 ~ 1 6 / 6 0$ size exclusion column (GE Healthcare) in a buffer containing $2 0 \\mathrm { \\ m M }$ HEPES $\\mathrm { \\langle p H ~ 7 . 5 \\vert } ,$ $1 5 0 \\ \\mathrm { m M \\ N a C l } ,$ $1 0 \\%$ glycerol,and $0 . 1 \\%$ （ $\\beta$ -mercaptoethanol.High-purity fractions were pooled and concentrated to ${ \\sim } 3 6 \\ \\mathrm { \\ m g / m L } ,$ and the freshly purified proteins were used for crystallization. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Peptides ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The p53-AMC peptide carrying the sequence of [acR]HK[Kac]- AMC,where [acR] stands for Na-acetylated arginine,and [Kac] stands for Nε-acetylated lysine,was purchased from Sangong Biotech (Shanghai). Remaining peptides-PGC-la (TKS[Kac] YDSLDFD) and FOXO3a (QLS[Kac]WP)—were purchased from Scilight Biotechnology. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Crystallization,data collection,structure determination, andrefinement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The p53-AMC peptide was dissolved in water at $1 0 0 \\ \\mathrm { m g / m L } ,$ and a stock solution of $5 0 ~ \\mathrm { \\ m M }$ resveratrol (Sigma) in $5 0 \\%$ DMSO was prepared.The peptide was added at 2:l and resveratrol was added at 5:l molar ratios with respect to SIRTl,and the mixture was incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ and centrifuged before setting up for crystallization.Crystals of the SIRT1-143CS, p53-AMC,and resveratrol complex were grown at $1 6 ^ { \\circ } \\mathrm { C }$ by hanging-drop vapor diffusion using $1 . 0 ~ \\mu \\mathrm { L }$ of the protein-peptideresveratrol mixture $\\left( { \\sim } 3 2 { - } 3 6 \\mathrm { m g / m L } \\right)$ and $1 . 0 \\mu \\mathrm { L }$ of reservoir solution ${ \\left| 0 . 9 M \\right. }$ sodium malonate, $0 . 5 \\%$ JeffaminM-600,0.1MHEPES at $\\mathrm { p H } 7 . 8$ ）： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For X-ray data collection, the crystals were flash-frozen in liquid nitrogen using a cryoprotectant prepared from the reservoir solution supplemented with $1 5 \\%$ ethylene glycol. Diffraction datawere collected at Beamline BL17Uof the Shanghai SynchrotronRadiation Facility (SSRF)usinga Quantum3l5rCCDdetector (ADSC) at a wavelength of ${ \\bar { 0 . 9 7 9 2 \\ { \\bar { \\mathrm { A } } } , } }$ and the data were processed using HKL2000 (Otwinowski and Minor 1997).The crystal belonged to the $\\mathrm { P } 4 _ { 1 }$ space group,and there were three complexes per asymmetric unit.The structure was solved by molecular replacement with the Phaser software (McCoy et al. 2007) using the structure of the CD of human SIRT1 (PDB ID 4I5I) as the search model. The remaining structure was manually built using Coot (Emsley and Cowtan 2OO4),and refinement was carried out using Refmac (Murshudov et al.1997) and Phenix (Adams et al. 2OlO). The refined structure has a $R$ -workand $R$ -free of $2 0 . 7 \\%$ and $2 5 . 2 \\%$ ,respectively.The density for one of the three SIRT1 molecules (chain $\\mathrm { ^ C } )$ in the asymmetric unit was poor,as also reflected in its higher average B factor $( 1 5 6 . 7 \\mathring \\mathrm { A } ^ { 2 }$ compared with $7 4 . 9 \\mathrm { ~ \\AA ~ } ^ { 2 }$ and $7 8 . 1 \\mathrm { \\bar { A } } ^ { 2 }$ for chain A and chain B,respectively). The region spanning residues l57-173 of SIRT1 was disordered in the model, preventing us from reliably connecting an N-terminal fragment (142-156) to the major body of SIRT1.Detailed statistics for data collection and refinement are in Supplemental Table S1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Atomic coordinates and diffraction data have been deposited with PDB under accession code 5BTR. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Enzyme-coupled deacetylation assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The deacetylase activity of SIRTl was measured using a continuous,enzyme-coupled microplate assay (Smith et al. 2oo9).In brief, the reaction product nicotinamide was converted to nicotinic acid and ammonia by nicotinamidase PncA.Next, glutamate dehydrogenase converted ammonia,α-ketoglutarate,and NADH to glutamate and $\\mathrm { N A D ^ { + } }$ .The oxidation of NADH was measured spectrophotometrically at ${ 3 4 0 } \\mathrm { n m }$ usinga Multilabel reader (Enspire,PerkinElmer)，with the extinction coefficient for NADHof $6 . 2 2 \\mathrm { m } \\mathrm { M } ^ { - 1 } \\mathrm { c m } ^ { - 1 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Determination of $K _ { \\mathrm { m } }$ values and measurements of SIRT1 deacetylase activities were performed with individual peptides at various concentrations but with the rest of the conditions fixed unless explicitly stated otherwise;i.e., $2 \\mathrm { \\ m M }$ NAD, $4 0 0 ~ \\mathrm { { n M } }$ SIRT1-143CS, $0 . 2 \\mathrm { \\ m M }$ NADH, $3 . 3 \\mathrm { \\ m M }$ α-ketoglutarate, $1 ~ \\mu \\mathrm { M }$ PncA, $3 \\mathrm { ~ U ~ }$ of bovine liver glutamate dehydrogenase (Sigma), $1 \\mathrm { m M }$ DTT,and $2 \\%$ DMSO in PBS buffer $\\mathrm { \\left. p H 7 . 4 \\right. }$ .Recombinant PncA was prepared according to a published protocol (Garrity et al.2OO7).The reactions were carried out in $1 0 0 ~ \\mu \\mathrm { L }$ with a flat-bottom 96-well plate.The assay mixtures without NAD werefirstincubated for $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ until the absorbance at ${ 3 4 0 } \\mathrm { n m }$ reached equilibrium.Next, the reactions were initiated by the addition ofNAD $\\scriptstyle ( 2 \\mu \\mathrm { L }$ of stock solution at $1 0 0 ~ \\mathrm { m M } _ { \\cdot } ^ { \\prime }$ ,and changes of absorbance at ${ 3 4 0 } \\mathrm { n m }$ were recorded and analyzed continuously for $1 5 \\ \\mathrm { m i n }$ .Readings from control reactions lacking NAD were taken as the background and subtracted from that of reactions containing NAD. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For determination of $K _ { \\mathrm { m } }$ values,individual peptides with concentrations ranging from 10 to $8 0 0 ~ \\mu \\mathrm { M }$ were titrated in the absence or presence of $0 . 2 \\mathrm { m M }$ resveratrol.A SIRT1 concentration of $2 0 0 ~ \\mathrm { n M } ,$ instead of $4 0 0 ~ \\mathrm { { n M } }$ as in other measurements,was used in the measurement of $K _ { \\mathrm { m } }$ value of the p53-AMC peptide with resveratrol. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The data were first analyzed using Excel and then fitted to the Michaelis-Menten equation using GraphPad Prism (GraphPad Software, Inc.).The kinetic parameters were calculated according to the Lineweaver-Burk plot.Deacetylation activities were measured in the absence and presence of $0 . 2 \\mathrm { m M }$ reseveratrol and peptide concentrations at $1 0 0 \\mu \\mathrm { M }$ for p53-AMC and $5 0 \\mu \\mathrm { M }$ for PGCla and FOXO 3a.The data were also analyzed using Excel and GraphPad Prism，and the deacetylation rates were obtained from the velocity calculated from the linear portion of the curves. All of the measurements above were repeated three times. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ITCmeasurements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All ITC measurements were carried out at $2 5 ^ { \\circ } \\mathrm { C }$ using an ITC200 calorimeter (MicroCalLLC).Except for the experiment with the E230R/R446E sample,a total of 20 injections of $1 . 5 \\mathrm { m M }$ peptide, with a $0 . 5 \\mathrm { - } \\mu \\mathrm { L }$ first drop (data not used) and $2 \\mathrm { - } \\mu \\mathrm { L }$ subsequent drops, was titrated into a $2 0 0 \\mathrm { - \\mu L }$ well of $0 . 1 ~ \\mathrm { m M }$ protein solution. For the E230R/R446E mutant,a peptide concentration of $4 \\mathrm { \\ m M }$ was used.The reference power was set at $5 \\mu \\mathrm { C a l } / \\mathrm { s e c } ,$ initial delay was set at $6 0 \\ \\mathrm { s e c } ,$ and the sample cell was stirred at $6 0 0 \\mathrm { r p m }$ .Injections were carried out at $0 . 5 ~ \\mu \\mathrm { L } / \\mathrm { s e c }$ with an interval of $2 \\mathrm { m i n }$ between injections.The titrant and the protein well solution were in the same buffer $ { \\left[ 2 0 \\mathrm { \\ m M } \\right. }$ HEPES at $\\mathrm { p H } ~ 7 . 5 ,$ $1 5 0 ~ \\mathrm { m M }$ $\\mathrm { \\Delta N a C l , }$ $1 0 \\%$ glycerol),all with or without $0 . 5 ~ \\mathrm { m M }$ resveratrol. Buffer control for each experiment was performed under the same conditions without peptide in the titrant,and the measured background heat was subtracted from the integrated data.All of the data were integrated and analyzed using a one-site model with the Origin software (Origin Laboratory). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank SSRF beamline scientists for help with data collection, Dr.Jorge Escalante-Semerena at the University of WisconsinMadison for the generous gift of the $E$ ，coli expression plasmid of PncA,Litao Sun for participation at an early stage of the work,Yuanyuan Chen for help with ITC experiments,and Zhensheng XieandLiliNiu for helpwith MS analyses.We also thank grant support from the Chinese Ministry of Science and Technology (20l2CB9l07O2),the Natural Science Foundation of China (31430018 and 31210103914),the Strategic Priority Research Program (XDB080101oO),and the Key ResearchProgram (KJZDEW-LO5）of the Chinese Academy of Sciences，the National ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "KeyNew Drug Creation and Manufacturing Program of China (2014ZX09507002),and Pfizer.N.Y.is also supported by the Youth Innovation Promotion Association of the Chinese Academy of Sciences. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adams PD,Afonine PV,BunkocziG,Chen VB,Davis IW,Echols N,Headd JJ,Hung LW,Kapral GJ,Grosse-Kunstleve RW,et al. 2010.Phenix:a comprehensive Python-based system for macromolecular structure solution.Acta Crystallogr D Biol Crystallogr 66:213-221.   \nAvalos JL,Celic I,Muhammad S,Cosgrove MS,Boeke JD,Wolberger C.2Oo2.Structure of a Sir2 enzyme bound to an acetylated p53 peptide. Mol Cell10: 523-535.   \nBaur JA.2Ol0.Biochemical effects of SIRT1 activators.Biochim Biophys Acta 1804: 1626-1634.   \nBeherD,Wu J,Cumine S,Kim KW,Lu SC,Atangan L,Wang M. 2009.Resveratrolis not a direct activator of SIRTl enzyme activity. Chem Biol Drug Des 74: 619-624.   \nBemis JE,Vu CB,XieR,Nunes JJ,Ng PY,Disch JS,Milne JC,Carney DP,Lynch AV,JinL,etal.2009.Discovery of oxazolo[4,5-b] pyridines and related heterocyclic analogs as novel SIRTl activators.Bioorg Med Chem Lett19:2350-2353.   \nBorra MT,Smith BC,Denu JM. 2005.Mechanism of human SIRTl activation by resveratrol./ Biol Chem 280:17187- 17195.   \nBrunetA, Sweeney LB,SturgillJF,Chua KF,Greer PL,Lin Y,Tran H,Ross SE,Mostoslavsky R,Cohen HY,etal.2004. Stress-dependent regulation of FOXO transcription factors by the SIRT1 deacetylase. Science 303: 2011-2015.   \nDai H, Kustigian L,Carney D,Case A, Considine T, Hubbard BP, Perni RB,Riera TV, Szczepankiewicz B,Vlasuk GP,et al. 2010. SIRT1 activation by small molecules: kinetic and biophysical evidence for direct interaction of enzyme and activator.JBiol Chem 285:32695-32703.   \nDavenport AM,Huber FM, Hoelz A. 20l4. Structural and functional analysis of human SIRT1. JMol Biol 426: 526-541.   \nEmsley P, Cowtan K.2004. Coot: model-building tools for molecular graphics.Acta Crystallogr D Biol Crystallogr 60:2126- 2132.   \nFeldman JL,Dittenhafer-Reed KE,Denu JM.2Ol2. Sirtuin catalysis and regulation.J Biol Chem 287: 42419-42427.   \nFinnin MS,Donigian JR, Pavletich NP.2Oo1.Structure of the histone deacetylase SIRT2.Nat Struct Biol 8:621-625.   \nFrye RA.2Ooo.Phylogenetic classification of prokaryotic and eukaryotic Sir2-like proteins.Biochem Biophys Res Commun 273: 793-798.   \nGarrity J，Gardner $\\textstyle | \\mathbf { G } ,$ Hawse W，Wolberger $\\scriptstyle \\mathbf { C } ,$ EscalanteSemerena JC. 20o7. N-lysine propionylation controls the activity of propionyl-CoA synthetase. J Biol Chem 282: 30239- 30245.   \nGertz M, Nguyen GT,FischerF, Suenkel B,Schlicker C,Franzel B,TomaschewskiJ,AladiniF, Becker C,Wolters D,etal.2012. A molecular mechanism for direct sirtuin activation by resveratrol.PLoS One 7: e49761.   \nGuarente L.2Ol1.Franklin H. Epstein lecture: sirtuins,aging, and medicine.N Engl JMed 364: 2235-2244.   \nHowitz KT,Bitterman KJ,Cohen HY,Lamming DW,Lavu S, Wood JG,Zipkin RE,Chung P,Kisielewski A,Zhang LL, et al.2Oo3.Small molecule activators of sirtuins extend Saccharomyces cerevisiae lifespan.Nature 425:l91-196.   \nHsu HC,Wang CL,Wang M, Yang N, Chen Z, Sternglanz R, Xu RM.2Ol3.Structural basis for allosteric stimulation of Sir2 activity by Sir4 binding. Genes Dev 27: 64-73. riubbaru riera TV,Lee JE,E SY,Lamming DW,et al. 2013.Evidence for a common mechanism of SIRTl regulation by allosteric activators. Science 339:1216-1219.   \nImai $s ,$ Armstrong CM, Kaeberlein M, Guarente L. 2000. Transcriptional silencing and longevity protein Sir2 is an NAD-dependent histone deacetylase. Nature 403: 795-800.   \nJin L, Wei W,Jiang Y,Peng H,Cai J, Mao C,DaiH,ChoyW, Bemis JE,Jirousek MR,et al.2O09.Crystal structures of human SIRT3 displaying substrate-induced conformational changes. J Biol Chem 284: 24394-24405.   \nKaeberlein M,McDonagh T,Heltweg B,Hixon J,Westman EA, Caldwell SD,Napper A,Curtis R,DiStefano PS,Fields S, et al.2OO5.Substrate-specific activation of sirtuins by resveratrol. J Biol Chem 280: 17038-17045.   \nKang H,SuhJY,Jung YS,Jung JW,Kim MK,ChungJH.2011.Peptide switch is essential for Sirtl deacetylase activity.Mol Cell 44: 203-213.   \nKim EJ, Kho JH, Kang MR, Um SJ.2007.Active regulator of SIRT1 cooperates with SIRTl and facilitates suppression of p53 activity.Mol Cell 28: 277-290.   \nLakshminarasimhan M, Rauh D, Schutkowski M, Steegborn C. 2013.Sirtl activation by resveratrol is substrate sequenceselective. Aging (Albany NY) 5: 151-154.   \nLandry J, Sutton $\\mathbf { A } ,$ Tafrov ST,Heller RC, Stebbins J, Pillus L, Sternglanz R.2Ooo. The silencing protein SIR2 and its homologs are NAD-dependent protein deacetylases.Proc Natl Acad Sci 97: 5807-5811.   \nLiu B,Ghosh S, Yang X, ZhengH,Liu X, Wang Z, Jin G,Zheng B, Kennedy BK,Suh Y,etal.2Ol2.Resveratrol rescues SIRT1-dependent adult stem cell decline and alleviates progeroid features in laminopathy-based progeria.Cell Metab 16: 738-750.   \nLuo J,Nikolaev AY, Imai S,Chen D,Su F, Shiloh A,Guarente L, Gu W. 2001.Negative control of p53 by Sir2a promotes cell survival under stress. Cell 107:137-148.   \nMcCoy AJ,Grosse-Kunstleve RW,Adams PD,Winn MD, Storoni LC,Read RJ. 20o7.Phaser crystallographic software.JAppl Crystallogr 40: 658-674.   \nMilne JC, Lambert PD, Schenk S, Carney DP,Smith J,Gagne DJ, Jin L, Boss O,Perni RB,Vu CB, et al.2007. Small molecule activators of SIRT1 as therapeutics for the treatment of type 2 diabetes. Nature 450: 712-716.   \nMin J, Landry J, Sternglanz R, Xu RM.2OO1. Crystal structure of a SIR2 homolog-NAD complex. Cell 105: 269-279.   \nMotta MC,Divecha N,Lemieux M,Kamel C,Chen D,Gu W, Bultsma Y， McBurney M, Guarente L. 2004. Mammalian SIRT1 represses forkhead transcription factors.Cell 116: 551-563.   \nMurshudov GN, Vagin AA,Dodson EJ.1997.Refinement of macromolecular structures by the maximum-likelihood method. Acta Crystallogr D Biol Crystallogr 53: 240-255.   \nNguyen GT, Gertz M, Steegborn C. 2013. Crystal structures of Sirt3 complexes with $4 ^ { \\prime }$ -bromo-resveratrol reveal binding sites and inhibition mechanism. Chem Biol 20:1375-1385.   \nOtwinowski $Z ,$ Minor W.1997.Processing of X-ray diffraction data collected in oscillation mode.Methods Enzymol 276: 307-326.   \nPacholec $M ,$ Bleasdale JE, Chrunyk B, Cunningham D, Flynn $\\mathbf { D } ,$ Garofalo RS,Griffith D,Griffor M, Loulakis P,Pabst B, et al. 2010.SRT1720,SRT2183,SRT1460,and resveratrol are not direct activators of SIRT1.JBiol Chem 285:8340-8351.   \nPan PW,Feldman JL,Devries MK,DongA, Edwards AM, Denu JM.2011. Structure and biochemical functions of SIRT6.J n:11 An   \nPanM,YuanH,BrentM,Ding EC,MarmorsteinR.2O12.SIRT1 contains N- and C-terminal regions that potentiate deacetylase activity.JBiol Chem 287: 2468-2476.   \nRodgers JT,Lerin C,Haas W,Gygi SP,Spiegelman BM,Puigserver P.2005.Nutrient control of glucose homeostasis through a complex of PGC-la and SIRT1.Nature 434:113-118.   \nSanders BD,JacksonB,MarmorsteinR.2OlO.Structural basis for sirtuin function: what we know and what we don't.Biochim Biophys Acta 1804:1604-1616.   \nSauve AA,Celic I,Avalos J,Deng H,Boeke JD,Schramm VL. 2001.Chemistry of gene silencing: the mechanism of $\\mathrm { N A D + }$ ， dependent deacetylation reactions.Biochemistry 40:15456- 15463.   \nSauve AA,Moir RD,Schramm VL,Willis IM.2005.Chemical activation of Sir2-dependent silencing by relief of nicotinamide inhibition. Mol Cell 17: 595-601.   \nSauve AA,Wolberger C,Schramm VL,Boeke JD.2006.The biochemistry of sirtuins.Annu Rev Biochem 75:435-465.   \nSchuetz A,Min J,Antoshenko T,Wang $\\mathrm { C L } ,$ Allali-Hassani $\\mathbf { A } ,$ DongA,Loppnau P,VedadiM,BochkarevA,Sternglanz $\\scriptstyle \\mathrm { \\mathrm { ~ R , ~ } }$ et al.2OO7.Structural basis of inhibition of the human NAD+-dependent deacetylase SIRT5 by suramin. Structure 15:377-389.   \nSinclair DA，Guarente L.2Ol4． Small-molecule allosteric activators of sirtuins.Annu Rev Pharmacol Toxicol 54:363- 380.   \nSmith JS,Brachmann CB,Celic I,Kenna MA,Muhammad $s ,$ StaraiVJ,Avalos ${ \\mathrm { J L } } ,$ Escalante-Semerena JC,Grubmeyer $\\scriptstyle \\mathbf { C } ,$ Wolberger $\\scriptstyle \\mathbf { C } ,$ et al.20oo.A phylogenetically conserved $\\mathrm { N A D ^ { + } }$ -dependent protein deacetylase activity in the Sir2 protein family.Proc Natl Acad Sci 97:6658-6663.   \nSmith BC,Hallows WC,Denu JM.20o9.A continuous microplate assay for sirtuins and nicotinamide-producing enzymes. AnalBiochem 394:101-109.   \nTanner KG,Landry J, Sternglanz R,Denu JM.2Ooo. Silent information regulator 2 family of NAD-dependent histone/protein deacetylases generates a unique product,1-O-acetyl-ADP-ribose.Proc Natl Acad Sci 97:14178-14182.   \nTanny JC,Moazed D.2Oo1.Coupling of histone deacetylation to NAD breakdown by the yeast silencing protein Sir2: evidence for acetyl transfer from substrate to an NAD breakdown product.Proc Natl Acad Sci 98:415-420.   \nTanny JC,Kirkpatrick DS,Gerber SA,Gygi SP,Moazed D.2004. Budding yeast silencing complexes and regulation of Sir2 activity by protein-protein interactions.Mol Cell Biol 24: 6931-6946.   \nVaquero A, Scher M,Lee D,Erdjument-Bromage H, Tempst P, Reinberg D.2OO4.Human SirT1 interacts with histone Hl and promotes formation of facultative heterochromatin. Mol Cell 16:93-105.   \nVaziri H,Dessain SK,Ng Eaton E, Imai SI,Frye RA,Pandita TK, Guarente L,Weinberg RA.2OO1.hSIR2(SIRT1) functions as an NAD-dependent p53 deacetylase. Cell107:149-159.   \nZhao K, Chai ${ \\mathrm { X , } }$ Marmorstein R.2OO3.Structure of the yeast Hst2 protein deacetylase in ternary complex with $2 ^ { \\prime }$ -Oacetyl ADP ribose and histone peptide. Structure 11:1403- 1411.   \nZhao X,Allison D, CondonB,Zhang F,Gheyi T,ZhangA,Ashok S,RussellM,MacEwanI,QianY,et al.2O13.The 2.5Acrystal structure of the SIRT1 catalytic domain bound to nicotinamide adenine dinucleotide $\\left( \\mathrm { N A D ^ { + } } \\right)$ and an indole (EX527 analogue) reveals a novel mechanism of histone deacetylase inhibition.JMed Chem 56:963-969. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Structural basis for allosteric, substrate-dependent stimulation of SIRT1 activity by resveratrol ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Duanfang Cao, Mingzhu Wang, Xiayang Qiu, et al. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Genes Dev.2015 29:1316-1325   \nAccess the most recent version at doi:10.1101/gad.265462.115 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Material ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://genesdev.cshlp.org/content/suppl/2015/06/24/29.12.1316.DC1.html ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thisarticle cites 54 articles,17ofwhich can beaccessed free at: http://genesdev.cshlp.org/content/29/12/1316.full.html#ref-list-1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Creative Commons License ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue publication date (see   \nhttp://genesdev.cshlp.org/site/misc/terms.xhtml). After six months, it is available under a Creative Commons License (Atribution-NonCommercial 4.0 International),as described at http://creativecommons.org/licenses/by-nc/4.0/. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Email Alerting Service ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Receive free email alerts when new articles cite this article - sign up in the box at the top right corner of the article orclick here. ",
+        "page_idx": 10
+    }
+]

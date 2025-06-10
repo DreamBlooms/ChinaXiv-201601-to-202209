@@ -1,0 +1,155 @@
+# 诊断性玻璃体切除术在临床的价值
+
+狄宇 叶俊杰
+
+中国医学科学院北京协和医学院北京协和医院眼科，北京100730通信作者：叶俊杰，E-mail：yejunjie_xh@163.com
+
+【摘要】诊断性玻璃体切除术是通过获取玻璃体、视网膜或脉络膜标本，结合相关实验室检查技术，对原因不明或传统治疗无效的眼内炎性疾病及恶性肿瘤等明确病因并指导治疗的一种有效的诊断方法。伴随着玻璃体视网膜手术的微创化及实验诊断技术的发展，使诊断性玻璃体切除术的敏感性和特异性进一步提高。本文对诊断性玻璃体切除术的适应症、标本的采集及处理、实验室检测方法及微创玻璃体切除术的进展进行综述。
+
+【关键词】诊断性玻璃体切除术；微创化；实验室检测
+
+# Development of diagnostic vitrectomy
+
+Di Yu， Ye Jun-jie. Department of ophthalmology, Peking Union Medical Academy of
+
+Medical Sciences,Beijing 10O730, China
+
+Corresponding author: Ye Jun-jie, E-mail: yejunjie_xh $@$ 163. Com
+
+【Abstract】 Diagnostic vitrectomy is a procedure that can obtain vitreous,retina or choroid specimens from patients with intraocular inflammation or malignant tumors with obscured etiology or ineffective treatment by performing vitrectomy. Then, an accurate diagnosis could be obtained from these specimens by using related laboratory diagnostic technologies. Microincision diagnostic vitrecomy and developed laboratory diagnostic technology increases the specificity and sensitivity of the disease diagnosing. The review will summarize the surgical indications of diagnostic vitrectomy, collection and processing of specimens, method of laboratory diagnostic technology and development of diagnostic vitrectomy.
+
+【Key words】 Diagnostic vitrectomy; Minimally invasive; Laboratory diagnostic
+
+# technology
+
+诊断性玻璃体切除术是通过获取玻璃体、视网膜或脉络膜标本，结合实验室检测技术，明确一些眼内炎性疾病及恶性肿瘤的病因学诊断，并指导进一步治疗的方法。自二十一世纪初25G、23G切口无缝合玻璃切除术的相继推出，已将我们带入玻璃视网膜手术的微创化时代，此外伴随着实验室检查技术的迅速发展，诊断性玻璃体切除术的安全性和有效性有所提高，使其在眼科临床的应用前景更加广阔。
+
+# 一、诊断性玻璃体切除术的临床应用
+
+诊断性玻璃体切除术对于病因不明或治疗无效的眼内炎性疾病及恶性肿瘤的病因诊断具有重要意义，同时具有一定的治疗作用。
+
+# （一）病因不明或治疗无效的葡萄膜炎
+
+葡萄膜炎的病因诊断对于治疗方案选择及病情预后具有重要意义。临床上大多数葡萄膜炎可通过详细的病史、完善的眼部检查以及辅助性实验室技术得出明确诊断，给予有效治疗方案，然而当葡萄膜炎临床表现不典型，传统治疗方案反应不佳时，为确定病因并指导治疗，组织学活检是必要的，诊断性玻璃体切除术具有较高的敏感性及特异性，有助于病因早期诊断[1]，林海燕等[2]对65例诊断不明的葡萄膜炎患者行诊断性玻璃体切除术，其诊断的阳性率为 $5 9 . 7 \%$ 。
+
+研究表明诊断性玻璃体切除术的诊断率为 $1 2 . 4 \% \sim 6 4 . 3 \%$ ，其中感染性葡萄膜炎的诊断率为 $2 7 . 9 \% \sim 7 7 . 1 \% ^ { [ 3 ] }$ 。细菌或真菌性葡萄膜炎常用玻璃体标本革兰染色和培养进行病原学诊断，其诊断率约为 $1 6 . 7 \% \sim 9 6 \% ^ { [ 4 ] }$ ，William等[5]对15例患者行23G诊断性玻璃体切除术，其中12例（ $7 5 \%$ ）确诊为内源性真菌性眼内炎。弓形虫可通过PCR与Goldmann-Witmer（GWC）系数联合行病原学检测，Westeneng等[对54例患者行诊断玻璃体切除术，16例（ $30 \%$ ）诊断为弓形虫感染，余13例（ $24 \%$ ）单纯疱疹病毒感染，16例（ $30 \%$ ）带状疱疹病毒感染。
+
+# （二）原发性眼内淋巴瘤
+
+原发性眼内淋巴瘤（primary intraocular lymphoma，PIOL）临床常表现为伪装综合征，误诊率较高，从而延误了治疗，失去了早期挽救患者视力的时机，并且存在威胁生命的危险因素。
+
+组织病理学是诊断PIOL的金标准，而诊断性玻璃体切除术是获取玻璃体液最有效的方法，并可同时切除混浊的玻璃体，提高患者视力[7]。Yeh等[8对12例临床怀疑PIOL患者行25G诊断性玻璃体切除术，结合细胞病理学分析、流式细胞技术及分子生物学检测后，11例确诊为B细胞或T细胞淋巴瘤，给予对因治疗，经过平均37周随访，11只眼的视力稳定或有提高，平均视力由20/95提升至20/66。
+
+# （三）诊断性玻璃体切除术的治疗作用
+
+诊断性玻璃体切除术可减轻玻璃体混浊，切除玻璃体腔内的炎性介质，包括细胞因子、白介素和活性淋巴细胞，若联合术中注药，能很大程度上减轻炎症反应。Oahalou等[1提出微创诊断性玻璃体切除术有利于患者视力的提高、减少全身免疫抑制剂的使用，18例患者诊断性玻璃体切除术后平均视力由20/200提升至20/80，8例患者！ $( 4 4 \% )$ ）撤除免疫抑制剂治疗，3例患者（ $1 6 . 7 \%$ ）免疫抑制剂减量，并提出诊断性玻璃体切除术与治疗性玻璃体切除术的作用相同。此外Sato提出诊断性玻璃体切除术对感染性或非感染性葡萄膜炎的视力均有提高作用。Pakdel等[10]发现对于PIOL经诊断性玻璃体切除术后其视网膜下病灶消退，分析PIOL多为弥漫大B细胞淋巴瘤，当行诊断行玻璃体切除时大量的 $\mathrm { C D 4 + T }$ 细胞活化抑制B细胞的增殖，从而使其视网膜下的病灶消退。
+
+# 二、诊断性玻璃体切除术标本采集及送检
+
+诊断性玻璃切除术包括玻璃体、视网膜及脉络膜活检，其中玻璃体活检在临床较为常见。术前根据临床资料选择合适检查项目，术中仔细操作获取足够样本，术后及时送检保证样本完整性，最终以提高诊断性玻璃体切除术的诊断率。
+
+# （一）玻璃体活体检查
+
+# 1、玻璃体标本的获取方法
+
+可通过玻璃体切除术获取玻璃体标本，首先关闭灌注管，3ml注射器连接于玻璃体切除头吸引管，将玻璃体切除头置于玻璃体中周部自动切除并手动抽吸获得未经稀释的玻璃体标本，当眼球开始变软时打开灌注，用5mL或 $1 0 \mathrm { m L }$ 注射器连接玻璃体切除头吸引管，继续 手动抽吸获得稀释的玻璃体标本，最后收集玻璃体切除机集液盒中液体。
+
+# 2、玻璃体标本的获取量及检测方法的选择
+
+玻璃体样本的获取量通常由于低眼压的并发症而受到限制，通常获取未经稀释玻璃体标本量为 $1 . 5 \mathrm { m l } \sim 2 . 0 \mathrm { m l }$ ，Mercado等[11]提出使用重水代替平衡盐溶液，可获得
+
+$2 . 2 4 \mathrm { m l }$ 未经稀释的玻璃体标本，ZhangLY[12]等提出当抽吸玻璃体标本时由灌注管注气可获得 $3 \mathrm { m l }$ 的玻璃体标本，样本经细胞离心涂片机处理后行细胞病理学分析及免疫组织化学分析，上清液行细胞因子检测及抗体分析，此外未稀释玻璃体标本行分子生物学分析；通常获取稀释玻璃体标本量为 $3 { \sim } 4 \mathrm { m l }$ ，进行流式细胞分析及微生物培养，稀释玻璃体标本经过离心后也可进行细胞学分析；集液盒中获取玻璃体标本 $5 0 \mathrm { m l }$ 可行微生物培养及药敏试验。[2,12,13]
+
+# 3、玻璃体标本送检及提高检出率的措施
+
+经诊断性玻璃体切除术后获得获取的玻璃体标本，由于细胞在很短的时间内就会变性，因此需尽快送至实验室检测。对于PIOL的玻璃体标本数分钟之内即发生变性，Rantly等[14]研究发现将手术获得的未被稀释的玻璃体迅速装于含有RPMI（RoswellPark Memorial Institution）-164培养基、去蛋白小牛血清和庆大霉素的收集管中，可有效保护细胞的完整性，即使标本取出1h后进行细胞学分析，仍有较高确诊率。由于乙醇固定会使淋巴细胞变性，因此疑诊PIOL患者玻璃体样本不能用乙醇固定。免疫蛋白效价分析的玻璃体样本需要冰冻[15]。此外由于淋巴细胞受糖皮质激素的影响而变性，疑诊PIOL的患者应停止全身以及局部应用糖皮质激素，提高玻璃体病变中细胞的活性及数量。另有研究[提出中周部玻璃体较核心部玻璃体有较多细胞成分，因此选择中周部玻璃体进行细胞病理学检测阳性率较高。若样本质量较差实验室检出率较低，可考虑再次行诊断性玻璃体切除术，但由于玻璃体切除术后患眼玻璃体中细胞数量减少，此时可考虑进一步行视网膜、脉络膜活检。目前尚无一种单一的实验室检测方法完全敏感，多种检查方法联合应用也是提高检出率的有效措施。
+
+# （二）视网膜脉络膜活体检查
+
+对于累及视网膜、脉络膜的眼底疾病可行相应的活体检查。位于赤道前部的肿物可由外路取材，位于赤道后部的肿物可经视网膜细针穿刺活检或玻璃体切除术取材。但因外路手术常有脉络膜出血及肿瘤播散情况，从而其临床应用受限。而玻璃体切除术的并发症较少，使其在视网膜脉络活体检查中备受青睐。
+
+诊断性玻璃体切除术通常选取细胞复制活跃的病灶与正常视网膜的交界处，若视网膜未脱离，在活检部位行3排激光光凝。视网膜切开后注入生理盐水形成脱离，可用眼内剪切除病变的组织，眼内压升至 ${ 7 0 } { \sim } 9 0 \mathrm { m m H g }$ 可减少剪切时出血的发生，最后将标本用眼内镊取出。如果视网膜已经脱离，应切除选取部位的组织，气液交换后眼内光凝，最后于活检部位行气体或硅油填充[2]。获取的视网膜脉络膜标本应迅速置于戊二醛溶液中行电镜检查，置于甲醛溶液中行光镜检查。此外应与病理实验室的人员进行沟通，决定标本处理时间便于行组织病理学的评估。Seregard等[17]对43例临床诊断恶性肿瘤患者经25G玻璃体切除术后行脉络膜活检，其检出率可达 $9 5 \%$ （41/43），敏感性（0.97）和特异性（1.00）均较高。
+
+# 三、诊断性玻璃体切除术标本常用检测方法
+
+# （一）细胞病理学检测
+
+细胞病理学检测是诊断眼内恶性肿瘤的金标准[18],通常选取未稀释玻璃体液进行分析。Margolis等[13]提出细胞病理学分析检测眼内恶性肿瘤敏感性为 $6 6 . 7 \%$ ，PIOL检测敏感性较高 $8 3 . 3 \%$ ，眼内转移性肿瘤检测敏感性较低 $3 3 . 3 \%$ 。Raparia等[19]提出细胞病理学分析诊断PIOL敏感性为 $87 . 5 \%$ （14/16），当细胞病理学分析为阴性，但又高度怀疑PIOL时可结合免疫组织化学分析、流式细胞分析及分子生物学技术进一步明确诊断。Adrienne等[20通过细胞病理学分析排除肿瘤及感染相关葡萄膜炎结合相关临床资料， $5 . 3 \%$ （8/150）患眼诊断为结节病性葡萄膜炎。
+
+# （二）免疫组织化学分析和流式细胞分析
+
+免疫组织化学通过特异性抗体与细胞表面标志结合鉴别细胞种类，是一项定性、定位、定量的新技术，通常选取未稀释玻璃体液进行检测，当获取样本量较少时，可选取稀释玻璃体液通过流式细胞分析同时检测多种细胞表面标志记录细胞数量。B细胞淋巴瘤表现为K和入链限制性表达，K与 $\lambda$ 的比值 $\geq 3$ 或 $\lvert \underline { { \leq } } 0 . 6$ 均是B细胞淋巴瘤的敏感标记[21]。Davis等[22]提出K： $\lambda$ （ $\geq 3$ 或 $\lvert \underline { { \leq } } 0 . 6$ ）诊断PIOL敏感性为 $80 \%$ ，而CD22、CD20诊断敏感性较低为 $50 \%$ 和 $30 \%$ ，但具有较高特异性 $94 \%$ 和 $89 \%$ ， $\mathrm { C D 4 2 C D 8 } \geq 4$ 对诊断感染性葡萄膜炎有较高的敏感性（ $64 \%$ ）和特异性（ $8 5 \%$ ），有研究提出[13]流式细胞分析对PIOL的诊断敏感性为 $8 3 . 3 \%$ ，但对慢性特发性葡萄膜炎诊断敏感性较低。
+
+# （三）细胞因子检测
+
+细胞因子检测主要检测稀释玻璃体中IL-10,IL-6,IL-2的浓度，肿瘤B细胞分泌大量IL10，炎性B细胞分泌大量IL-6,正常情况下房水和眼内玻璃体中均无IL-10和IL-6的表达,因此检测眼内标本IL-10的水平以及IL-10与IL-6的比例有助于B淋巴细胞瘤的诊断[14]。研究表明IL-10与IL-6的比例>1时，B淋巴细胞瘤的可能性比较大，其敏感性可达$8 1 . 8 \%$ ，特异性为 $1 . 0 0 0 ^ { [ 2 3 ] }$ 。此外Fisson等[24]对PIOL患者和葡萄膜炎患者房水和玻璃体中的干扰素（interferon-α）和肿瘤坏死因子（tumor necrosis factor-γ）、IL-6和IL-10进行检测，发现IL-10和IL-6的比值和IL-10和IFN-α的比值可作为PIOL与葡萄膜炎的鉴别指标。
+
+# （四）分子生物学技术
+
+聚合酶链反应(polymerase chain reaton,PCR)[25]可用于微生物学诊断，通过扩增细菌16SrRNA基因及真菌18SrRNA基因与常规微生物培养相结合对细菌和真菌进行检测，Misstate等[26]将PCR技术与Goldmann-Witmer系数C[玻璃体液特异性抗体IgG/玻璃体液总IgG］／［血浆特异性抗体IgG/血浆总IgG］联合提高病毒学检测率。应用PCR技术对免疫球蛋白重链（IgH）和T细胞受体（Tcell receptor，TCR）进行基因重排分析有助于B细胞淋巴瘤及T细胞淋巴瘤的诊断。Yeh等[8对12例可疑PIOL患者玻璃体样本行基因重排，其检出率最高为 $80 \%$ （8/10），其次为细胞因子分析 $3 7 . 5 \%$ （3/8）及流式细胞分析 $3 3 . 3 \%$ （4/12）。Harper等[27]对133例患者行诊断性玻璃体切除术，通过PCR检测视网膜脉络膜炎的特异性（ $9 7 . 4 \%$ ）和敏感性（ $8 0 . 9 \%$ ）均较高。
+
+# （五）微生物培养及药敏试验
+
+对于细菌及真菌性眼内炎传统检测方法包括标本的革兰氏染色和微生物培养，通常选取稀释的玻璃体液，该方法对感染性眼内炎的检出率为 $1 6 . 7 \% \sim 9 6 \%$ 。 Joseph[28]对64例可疑细菌性眼内炎患者同时行PCR检测及微生物学培养，发现PCR检出率( $6 6 \%$ ）较微生物培养（ $34 \%$ ）较高。此外Arvanitis[29]等人提使用分子生物学技术有助于快速诊断真菌性眼内炎，其敏感性为 $4 3 \% \sim 1 0 0 \%$ 。Liu等[30]提出组织病理学检测真菌的敏感性 $( 7 0 \% )$ 较传统微生物培养的敏感性！ $( 4 0 \% )$ ）较高，建议两种检测方法同时应用。
+
+# 四、微创化诊断玻璃体切除术
+
+1971年Machemer等[31]将经睫状体平坦部的闭合式玻璃体切除术首先应用于临床，为减少手术创伤，提高手术效率，近些年诊断性玻璃体切除术向微创化发展，目前有研究报道[32]切口更小的27G玻璃体切除术正逐渐应用于临床。
+
+# (一)微创诊断性玻璃体切除术优势
+
+微创诊断性玻璃体切除术通过清除眼内混浊的屈光间质，可更清晰的观察眼内病变，获取充足玻璃体、视网膜脉络膜标本，结合实验室各项检查提高诊断率[27]。Yeh等8对12例临床怀疑PIOL患者行25G诊断性玻璃体切除术，最终确诊11例（ $9 2 \%$ ）。Kanavi等[33]对12例（18只眼)行25G诊断性玻璃体切除术，15只眼（ $8 3 \%$ 确诊为PIOL。
+
+此外与传统20G玻璃体切除术相比，其无需切开球结膜和缝合巩膜切口，简化手术方式、缩短手术时间；微创诊断性玻璃体切除术创口小，术后愈合快，不缝合的巩膜切口可使其愈合最接近自然状态，减少结膜瘢痕、角膜散光，提高患者术后舒适性。
+
+# (二)微创诊断性玻璃体切除术的不足之处
+
+微创诊断性玻璃体切除术的并发症较少，主要包括视网膜脱离、并发性白内障、术后一过性低眼压、眼内炎等。William等[5]对19例真菌性眼内炎患者行23G诊断性玻璃体切除术，术后视网膜脱离 $42 \%$ （8/19）、并发性白内障 $32 \%$ （6/19）、一过性低眼压 $5 \%$ （1/19）。Oshima等[34]提出25G与20G诊断性玻璃体切除术后眼内炎发生率均较低，且二者无显著差异，Hu等[3研究得出相同结论，并分析术后眼内炎发生可因无缝线巩膜切口及术后一过性低眼压，使眼外液及微生物进入眼内导致。近些年有研究发现对可疑恶性肿瘤行诊断性玻璃体切除术具有发生肿瘤播散风险，Kung等［39]对1例泡样视网膜脱离患者行微创诊断性玻璃体切除术，结合细胞病理学分析后未得出明确病因，6个月后巩膜切口处见肿瘤样团块，行病理学分析为乳腺导管样腺癌，分析可由诊断性玻璃体切除术导致肿瘤细胞播散所致。
+
+综上所述，伴随着玻璃体手术的微创化发展及实验室检测技术的不断提高，使诊断性玻璃体切除术对疾病诊断具有较高的敏感性和特异性，可早期明确病因并给予有效治疗方案，为临床工作者提供有力的诊断依据，同时也为患者带来福音。但微创诊断玻璃体切除术也存在一定不足。相信伴随着微创玻璃体手术的进一步进展，诊断性玻璃体切除术适用疾病的种类的增多，术后的并发症逐渐减少，其在诊断眼科疾病的应用前景将更加广阔。
+
+# 参考文献
+
+[1]. Oahalou A， Schellekens PA，de Groot-Mijnes JD，et al，Diagnostic pars plana vitrectomyandaqueousanalysisinpatientswithuveitisofunknown cause[J].Retina ,2014,34(1):108-114.   
+[2] 林海燕，戴荣平等.65例诊断不明的葡萄膜炎患者玻璃体切割标本检查诊断结果 分析 [J].中华眼底病杂志，2017,7(33):404-406   
+[3]. Jeroudi A, Yeh S. Diagnostic Vitrectomy for Infectious Uveitis[J]. Int Ophthalmol Clin,2014,54(2):173-197.
+
+[4]. Bispo PJ, Melo GB, d'Azevedo PA,et al. Culture proven bacterial endophthalmitis: a 6-year review[J]. Arq Bras Oftalmol,2008,71(5)617-622.
+
+[5]. William A， Spitzer MS，Deuter C，et al. Outcomes of Primary Transconjunctival 23-Gauge Vitrectomy in the Diagnosis and Treatment of Presumed Endogenous Fungal Endophthalmitis. OculImmunol and Inflamm,2016,30:1-7.   
+[6]. Westeneng AC， Rothova A， de Boer JH， et al． Infectious uveitisin immunocompromised patients and the diagnostic value of polymerase chain reaction andGoldmann-Witmercoefcientinaqueousanalysis[J]. Am J Ophthalmol,2007,144(5):781-785.   
+[7].Hochberg FH，Miller DC.Primary central nervous system lymphoma[J].J Neourosurg,1988,68(6):835-853.   
+[8]. Yeh S,Weichel ED, Faia LJ, et al. 25-Gauge transconjunctival suturelessvitrectomy for the diagnosis of intraocular lymphoma[J].Br J Ophthalmol ,2010,94(5):633-638.   
+[9]. Sato T,Kinoshita R, Taguchi M,et al. Assessment of diagnostic and therapeutic   
+vitrectomy for vitrousopacity associated with uveitiswith variousetiology.   
+Medicine,2018:97(2) :e9491   
+[10] Pakdel A,Mammo Z,et al. Regression of subretinal lymphoma after diagnostic vitrectomy[J].JAMA Opthalmol,2017;135(5):503-505   
+[11]. Quiroz-Mercado H，Rivera-Sempertegui J，Macky TA，et al. Performingvitreous biopsybyperfluorocarbon-perfusedvitrctomy[J].AmJ Ophthalmol 2005;140(6):1161-1163.   
+[12]. Zhang L, Yang X, Zheng Q, et al. Binocular indirect ophthalmo microscope- assistant gas-perfused parsplanavitrectomy A novel technique for vitreoussample acquisition[J]. Medicine, 2016,95(49):e5503.   
+[13]. Margolis R. Diagnostic vitrectomy for the diagnosis and management of posterior uveitis of unknown etiology[J]. CurrOpin Ophthalmol,2008,19(3): 218-224.   
+[14].RantyML,LaurentC,AzizaJ,eta1.Improvingthecytologicaldiagnosis of introcularlymphoma from vitreousfluid[J].Histopathology,2015,67(1):48-61.   
+[15]. Errera MH, Goldschmidt P, Batellier L,et al. Real-time polymerase chain reaction and intraocular antibody production for the diagnosis of viral versus toxoplasmic 8 infectiousposterioruveitis.GraefesArch Clin ExpOphthalmol, 2011,249(12):1837-1846.   
+[16].Mudhar HS, Sheard R,et al. Diagnostic cellular yield is superior with full pars planavitrectomy compared with core vitreous biopsy[J]. Eye ,2013,27(1): 50-55.   
+[17]. Seregard S,All-Ericsson S,Hjelmqvist L, et al. Diagnostic incisional biopsies in clinically indeterminate choroidaltumours .Eye,2013,27(2):115-118.   
+[18].Coupland SE，Heimann H， Bechrakis NE. Primary intocular lymphoma: a review of the clinical, histopathological and molecular biological features[J]. Graefes Arch Clin Exp Ophthalmol,2004,242(11):901-913.   
+[19].Raparia K, Chang CC, Chevez-Barrios P,et al. Intraocular Lymphoma Diagnostic Approach and Immunophenotypic Findings in Vitrectomy Specimens[J].Arch Pathol Lab Med. 2009,133(8):1233-1237.   
+[20].Scott AW, Mruthyunjaya P,McCallum RM, et al. Diagnostic yield of vitreous biopsy in presumed sarcoidosis-related posterior segment inflammation[J]. Graefes Arch Clin Exp Ophthalmol,2012,250(9):1379-1385.   
+[21].Li M, Ye J. Research progress in primary intraocular lymphoma[J].Chin J Ophthalmol, 2015,51:795-800.   
+[22]. Davis JL， Miller DM， Ruiz p. Diagnostic testing of vitrectomyspecimens[J]. Am J Ophthal,2005,140(5):822-829.   
+[23]. Sugita S, Takase H, Sugamoto Y et al. Diagnosis of intraocular lymphoma by polymerase chain reaction analysis and cytokine profiling of the vitreous fluid[J]. Jpn J Ophthalmol,2009,53(3):209-214.   
+[24]. Fisson S， Ouskrim H，Touitou V，et al. Cytokine profile in human eyes:contribution of a new cytokine combination for different diagnosis between intraocular lymphaoma or uveitis[J].PloS One,2013,8(2):e52385.   
+[25].Kitiatschky VB, Deuter C, Beck R, et al. Relationship between Suspected Reasons of Intraocular Inflammation and the Results of Diagnostic Vitrectomy: An Observational Study[J]. OculImmunol and Inflamm, 2015,23(1): 59-66.   
+[26].Misstate T， Tielemans D，Bromberg JE， et al. Multicolor flowcytometric immunophenotyping is a valuable tool for detection of intraocular lymphoma[J]. 9
+
+ophthalmol0gy,2013,120(5):991-996.
+
+[27]. Harper TW, Miller D, Schiffman JC,et al. Polymerase chain reaction analysis of aqueous and vitreous specimens in the diagnosis of posterior segment infectious uveitis. Am J Ophthalmol,2009,147(1):140-147.   
+[28]. Joseph CR,Lalitha P, Sivaraman KR, et al. Real-time polymerase chain reation in the diagnosis of acute postoperative endophthalmitis[J]. Am J Opthalmol. 2012;153(6): 1031-1037.   
+[29].Arvanitis M, Anagnostou T, Fuchs BB, et al. Molecular and nonmolecular diagnostic methods for invasive fungal infections[J].ClinMicrobiol Rev,2014,27(3):490-526.   
+[30].Liu K, Fang F, Li H, Reliability of vitreous histological detection of pathogenic fungi in the diagnosis of fungal endophthalmitis[J]. Eye ,2015,29(3):424-427.   
+[31].Machemer R, Parel JM, Norton EW, et al. Vitrectomy: a pars planaapproach[J]. Trans Am AcadOphthalmol Otolaryngol,1971,75:813-820.   
+[32]O'Malley C, Heintz RM Sr. Vitrectomy with an alternative instrument system[J]. Ann Ophthalmol ,1975,7:585-588,591-594.   
+[33].Kanavi MR, Soheilian M, Hosseini SB, et al. 25-gauge transconjunctival diagnostic vitrectomy in suspected cases of intraocular lymphoma: a case series and review of the literature.Int J Ophthalmol 2014;7(3):577-58   
+[34].Oshima Y, Kadonosono K, Yamaji H, et al. Multicenter Survey with a Systematic Overview of Acute-Onset Endophthalmitis after Transconjunctival Microincision Vitrectomy Surgery[J]. Am J Ophthalmol,2010,150(5):716-725.   
+[35].Hu AYH, Bourges JL, Shah SP, et al. Endophthalmitis after Pars Plana Vitrectomy. A 20-and 25-Gauge Comparison[J].Ophthalmology,2009,116(7):1360-1365.   
+[36].Kung YH, Wu TT, Lin CS. Tumor seeding after diagnostic vitrectomy for choroidal metastasis in breast cancer[J]. J Chin Med Assoc,2012,75(9):483-486.

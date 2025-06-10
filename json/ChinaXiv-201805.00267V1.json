@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "面向安全的轮流中继选择方案\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦小刚，邹羿，黄开枝(国家数字交换系统工程技术研究中心，郑州 450002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对多中继轮流中继系统被窃听的问题，提出面向安全的轮流中继选择方案。首先提出了遍历的最优中继选择方案，并推导得到了保密速率的理论值；之后为降低复杂度，分别从降低计算复杂度和信道估计开销的角度设计了两种两阶段的次优中继选择方案，先缩小中继选择范围再进行搜索。仿真结果表明K-最大主信道中继选择方案能够以较低的复杂度实现最优保密速率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：轮流中继；物理层安全；中继选择；保密速率中图分类号：TN92 doi:10.3969/j.issn.1001-3695.2017.09.0881",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Secure-oriented relay selection schemes in successive relaying systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qin Xiaogang, Zou Yi, Huang Kaizhi (China National Digital Switching System Engineering &Technological Research Center,Zhengzhou 450o02,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To solve eavesdropping problem inmulti-relaysuccessiverelaying systems,thispaper proposed asecurity-oriented relayelectionschemes.First,itproposedoptimalrelayselection(OPRS)scheme throughgeneralsearchanddeducedtheoretical secrecyrate.To lower complexity,two different two-stagerelay selection schemes which proposed first narrows the scopeof relays from aspects of decreasing computation complexityand CSIoverhead,respectively.Simulationresults showthat KMMRS scheme can achieve optimal secrecy rate with lower complexity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: successive relaying; physical-layer security; relay selection; secrecy rate ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "协作通信技术能够成倍提高无线通信网络的频谱效率，但是一些中继站点的半双工特性限制了频谱效率的进一步提升[1]。半双工的中继站点不能同时收发信号，导致一次信息传输需要至少两个独立的时隙，导致了频谱效率的损失。全双工中继需要复杂的硬件设计，并且其存在的自干扰如果没能进行适当的处理反而会严重影响系统性能[2]，因此在很多场景下并不适用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了克服中继节点的半双工限制，一些学者提出了轮流中继(successive relaying,SR)的概念，通过合理安排多个半双工的中继交替转发信号来模拟一个全双工节点，达到了中继同时收发信号的效果[1,3\\~7]。利用 SR 技术，源节点与目的节点之间能够实现连续通信，从而提高了通信系统的频谱效率。在SR 通信过程中，源节点与其中一个中继节点同时发送的信号会在另一个中继节点处相互干扰，来自另一中继转发的信号被称为中继间干扰(inter-relay interference,IRI)。现有研究表明利用信号处理技术能够克服IRI的影响，有效提高通信容量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SR 技术引入多个中继节点给通信安全带来了新的问题，潜在地扩大了保密信号的传播范围，增加了中继链路被窃听的风险。另一方面，多中继网络也为安全通信提供了有利的空域协作资源，基于无线信道特征的物理层安全传输技术能够利用中继的协作资源，构造合法链路的优势通信条件保障安全通信，成为近年来的研究热点。中继选择技术 $[ 8 ^ { \\sim } 1 4 ]$ 利用少数节点，能够以较低的复杂度实现最优或次优的安全性能，取得了很多的研究进展。其中文献[8]讨论了多种传输策略的最佳中继选择方案，并比较了它们的截获概率和可达分集增益；文献[9]针对多用户场景提出三种最小化保密中断概率的最优中继用户组合选择标准；文献[10]考虑采用改变自身策略以适应窃听者的方法，根据不同信道信息情况分别提出了最优中继选择方案，并进行了保密中断概率的推导；而文献 $[ 1 1 ^ { \\sim } 1 3 ]$ 在中继选择的同时引入人工噪声的思想，选择其他节点发送友好干扰。文献[11]首次提出在多中继网络中选择一个中继和一个友好干扰节点增强网络安全性的思路；文献[12]则将该方法拓展到双向中继网络中，并证明当中继节点随机分散时保密速率优于传统双向中继网络的结论；文献[13]将该方法进一步推广，选择信道最佳的中继被选择来转发信息，其他节点均作为友好干扰发送噪声。此外文献[14,15]考虑到节点的自私性，引入博弈论模型进行中继和干扰节点的选择。多中继的 SR系统也面临着中继选择的问题。文献[16]考虑了SR系统中存在非信任中继的问题，将IRI消除技术与中继选择技术结合，提出了快速中继选择方法以取得较低的保密中断概率。但是还未有研究提出利用中继选择技术解决多中继SR系统的外部窃听问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文提出了面向安全的轮流中继系统中继选择方案，分别是最优中继选择(optimal relay selection,OPRS)方案、K-最大主信道中继选择(K-max main channels relayselection，K-MMRS)方案、K-最大中继间干扰中继选择(K-maxIRIrelay selection,K-MIRS)方案方案。其中OPRS方案从最大化保密速率的角度出发通过一维搜索的方法获得最优保密性能，并推导得到了系统保密速率的理论值，但是当中继数量较多时，OPRS方案的计算复杂度、信道估计开销过高。为降低中继选择方案的复杂度，分别从最大化主信道、最大化IRI的角度出发提出K-MMRS方案、K-MIRS方案。上述两个方案均为两阶段的次优中继选择方案，其基本思想是首先缩小中继选择范围然后进行遍历搜索，其中K-MIRS方案的计算复杂度最低，K-MMRS方案的信道估计开销最低。最后，对上述方案进行了仿真验证，结果表明K-MMRS方案能够以较低的计算复杂度和信道估计开销实现最佳安全性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究如图1所示的多中继网络模型，该模型包含一个合法源节点(Alice)、一个合法接收节点(Bob)、一个窃听者(Eve),以及一组相互之间距离较近的N个中继节点Rn∈C(1≤n≤N)，其中中继节点均采用放大转发协议。假设除了Alice配备 $N a$ 天线外，网络中其他节点均为单天线，并且所有节点均工作在半双工模式。Alice与Bob之间不存在直达径，因此它们之间的通信只能通过中继节点来建立。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/606cbdaf50b67bbb1907fc1f88a81bb311b7d7504025c99630d91b3a4a268c7f.jpg",
+        "img_caption": [
+            "图1多中继网络模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb55e82bce679127257f1e69f4e712a98ef1ec59b4c50a8c6fa4db6eae7e6529.jpg",
+        "img_caption": [
+            "图2轮流中继系统通信过程示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设在通信开始前Alice 通过信道估计获取各节点之间的CSI，并且基于一定的中继选择标准选择第 $i$ 个中继 $\\left( { { R } _ { i } } \\right)$ 和第 $j$ 个中继 $( R _ { j }$ )参与通信，该假设与文献[13]及其参考文献相同。因此在通信过程中，只有被激活的中继参与通信，其他所有中继保持静默。SR通信过程如图2所示。不失一般性，在奇数时隙，Alice 向 $R _ { i }$ 发送保密信息， $R _ { j }$ 转发前一时隙的接收信号；在偶数时隙，Alice 向 $R _ { j }$ 发送保密信息， $R _ { i }$ 转发前一时隙的接收信号。当中继之间的链路存在时，Alice的发送信号与任意中继的发送信号会产生叠加，从而形成IRI。IRI的存在降低了合法节点的信道质量，会导致系统的保密速率为零。不失一般性，假设Alice 向 $R _ { i }$ 发送信号 $\\mathbf { s } ( k )$ ，同时 $R _ { j }$ 向 Bob 转发前一时隙的接收信号 $y _ { j } \\big ( k - 1 \\big )$ ，其中 $\\mathbf { \\boldsymbol { s } } ( \\boldsymbol { k } ) = \\mathbf { \\boldsymbol { W } } ( \\boldsymbol { k } ) \\boldsymbol { x } ( \\boldsymbol { k } )$ ， $\\mathbf { W } \\big ( k \\big )$ 和 $x ( k )$ 分别为波束成形矢量和第 $k$ 时隙的数据符号，并且 $E \\Big [ \\big | \\mathbf { s } ( k ) \\big | ^ { 2 } \\Big ] = 1$ ，此时中继和Bob的原始接收信号中包含 $\\mathrm { I R I }$ 。中继和Bob的原始接收信号如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } \\left( k \\right) = \\sqrt { P _ { a } } \\mathbf { h } _ { a , i } s \\left( k \\right) + \\sum _ { p = 1 } ^ { k - 1 } \\left( \\sqrt { P _ { a } } \\mathbf { h } _ { a , u } s \\left( p \\right) + n _ { r } \\left( p \\right) \\right) \\prod _ { q = p } ^ { k - 1 } \\sqrt { \\alpha _ { \\nu } } h _ { \\nu , u } + n _ { r } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { b } \\left( k \\right) = h _ { j , b } \\sqrt { \\alpha _ { j } } y _ { j } \\left( k - 1 \\right) + n _ { b } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\textit { u } , \\textit { \\nu }$ 分别代表第 $p$ 时隙和第 $q$ 时隙发送信号的中继标号，当 $p = q = 1$ 时， $\\alpha _ { _ \\nu } = 0$ 表示在第1时隙无中继参与信号转发。假设无线信道受到高斯白噪声的影响， $h _ { i , j }$ 表示天线i到j之间的信道为非频率选择性瑞利分组衰落信道，该衰落服从均值为零、方差为 $\\delta _ { i j } ^ { 2 }$ 的复高斯分布，因此信道增益 $g _ { i j } = \\left| \\delta _ { i j } ^ { 2 } \\right|$ 为指数分布； $P _ { a }$ 表示 Alice 平均功率限制， $\\alpha _ { i }$ 和 $\\alpha _ { j }$ 分别表示 $R _ { i }$ 和$R _ { j }$ 在平均功率限制 $P _ { r }$ 下的放大系数， $n ( k )$ 表示第 $k$ 时隙的加性高斯白噪声变量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用文献[16]中IRI消除方案能够实现IRI在Bob处的完全消除，同时Eve由于信道差异无法进行类似的IRI消除，造成相邻保密信息之间的相互干扰，有效提高了SR系统的安全性。此外，Alice采用迫零波束成形技术7使其信号在Eve处取得零陷。此时，在图2所示 SR系统中进行IRI消除，中继、Bob和Eve的接收信号分别可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } \\left( k \\right) = \\sqrt { P _ { a } } \\mathbf { h } _ { a , i } \\mathbf { s } \\left( k \\right) + \\sqrt { \\alpha _ { j } } h _ { j , i } \\sqrt { P _ { a } } \\mathbf { h } _ { a , j } \\mathbf { s } \\left( k - 1 \\right) + n _ { r } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { b } \\left( k \\right) = \\sqrt { \\alpha _ { j } } h _ { j , b } \\sqrt { P _ { a } } \\mathbf { h } _ { a , j } \\mathbf { s } \\left( k - 1 \\right) + n _ { b } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { e } \\left( k \\right) = \\sqrt { \\alpha _ { j } } h _ { j , e } \\sqrt { P _ { a } } \\mathbf { h } _ { a , j } \\mathbf { s } \\left( k - 1 \\right) + \\sqrt { \\alpha _ { j } } h _ { j , e } \\sqrt { \\alpha _ { i } } h _ { i , j } \\sqrt { P _ { a } } \\mathbf { h } _ { a , i } \\mathbf { s } \\left( k - 2 \\right) + n _ { e } \\left( k \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha _ { x } = \\frac { P _ { r } } { \\gamma _ { a , x } + \\gamma _ { i , j } } , x \\in \\left( i , j \\right) , \\gamma _ { i , j } = P _ { r } g _ { i , j }$ 。并且为了便于分析，假设来自Alice的信号和IRI都远远大于噪声部分，噪声的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "影响被忽略。根据式(3)\\~(5)可得Bob和Eve两条链路的信干噪 比(signal-to-interference-plus- noise ratio,SINR): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { B , j } = \\frac { \\gamma _ { a , j } \\gamma _ { j , b } } { \\left( \\gamma _ { a , j } + \\gamma _ { i , j } \\right) \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { B , i } = \\frac { \\gamma _ { a , i } \\gamma _ { i , b } } { \\left( \\gamma _ { a , i } + \\gamma _ { i , j } \\right) \\sigma ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { \\scriptscriptstyle { E , j } } = \\frac { S } { N + I } \\le \\frac { S } { I } = \\frac { \\gamma _ { a , j } } { \\gamma _ { i , j } \\gamma _ { a , i } } \\Big ( \\gamma _ { a , i } + \\gamma _ { i , j } \\Big ) = \\gamma _ { a , j } \\left( \\frac { 1 } { \\gamma _ { i , j } } + \\frac { 1 } { \\gamma _ { a , i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { E , i } \\leq \\gamma _ { a , i } \\left( \\frac { 1 } { \\gamma _ { i , j } } + \\frac { 1 } { \\gamma _ { a , j } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma _ { a , x } = P _ { a } g _ { a , x }$ ， $\\gamma _ { _ { x , b } } = P _ { _ { r } } g _ { _ { x , b } }$ ， $x \\in \\left( i , j \\right)$ 。因此系统的保密速率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = \\frac { 1 } { 2 } R _ { s , i } + \\frac { 1 } { 2 } R _ { s , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { s , x } = \\frac { 1 } { 2 } \\Bigl [ \\log _ { 2 } \\Bigl ( 1 + \\gamma _ { B , x } \\Bigr ) - \\log _ { 2 } \\Bigl ( 1 + \\gamma _ { E , x } \\Bigr ) \\Bigr ] ^ { + }$ ， $x \\in \\left( i , j \\right)$ 。由于采用了IRI消除方案，可认为窃听信道容量小于主信道容量，此时 $R _ { s , x }$ 中 $\\log _ { 2 } \\left( 1 + \\gamma _ { _ { B , x } } \\right) > \\log _ { 2 } \\left( 1 + \\gamma _ { _ { E , x } } \\right)$ 成立，因此：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } \\approx 0 . 5 \\log _ { 2 } \\left( \\frac { \\left( 1 + \\gamma _ { b , i } \\right) \\left( 1 + \\gamma _ { b , j } \\right) } { \\left( 1 + \\gamma _ { e , i } \\right) \\left( 1 + \\gamma _ { e , j } \\right) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 SR系统中存在 $N$ 个可用的中继节点时，需要选择两个中继节点进行轮流转发以协助Alice与Bob之间的通信。基于上述分析建模，如何本文接下来将解决如何进行中继选择以保障通信安全的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 系统模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与一般的中继系统不同，在SR系统中进行中继选择时需要考虑所选中继组合之间的信道对系统性能的影响。本章从SR系统安全性的角度出发，在进行中继选择时以系统保密速率为衡量指标，首先利用遍历的方法得到OPRS方案，并分析了中继数量较大时保密速率的理论值；为了降低中继选择的复杂度，从影响保密速率的不同角度出发提出了三种两阶段的中继选择方案，并分析对比了它们在计算复杂度分析、信道估计开销分析方面的表现。具体方案如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 OPRS方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于 $R _ { s }$ 表达式过于复杂，很难直接根据 $R _ { s }$ 的表达式选择最优的中继组合。为了得到最大的保密速率，最优的中继组合$R _ { i }$ 和 $R _ { j }$ 的选择需要遍历所有可能的中继对，分别计算其保密速率，然后根据以下标准进行联合选择：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( i _ { O S , } j _ { O S } \\right) = \\arg \\operatorname* { m a x } _ { i , j \\in C , i \\neq j } R _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面推导当 SR系统中可用的中继数量 $N$ 较大时( $N \\to \\infty$ ）系统保密速率的理论值。当中继数量较大时，最优中继到Alice之间的信道增益通常较大，可认为 $\\gamma _ { a , j } = \\gamma _ { a , \\mathrm { i } } = \\operatorname* { m a x } ( \\gamma _ { a , n } )$ 。由于",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alice为多天线，此时 $\\gamma _ { a , n }$ 为 $N$ 个相互独立、服从gamma(Na,1/a,)分布的随机变量，其中a,=Paδ²,。其累积分布函 数（Cumulative Distribution Function，CDF）为$F _ { \\scriptscriptstyle X } \\left( x \\right) = 1 - \\frac { 1 } { \\Gamma \\left( N _ { \\scriptscriptstyle a } \\right) } \\Gamma \\left( N _ { \\scriptscriptstyle a } , x / \\lambda _ { \\scriptscriptstyle a , r } \\right)$ ，由于 $\\gamma _ { a , j } = \\gamma _ { a , \\mathrm { i } } = \\operatorname* { m a x } \\left( \\gamma _ { a , n } \\right)$ ，因此 $\\gamma _ { a , i }$ 和 $\\gamma _ { a , j }$ 的CDF为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\scriptscriptstyle Y } \\left( y \\right) = \\left( 1 - \\frac { 1 } { \\Gamma \\left( N _ { a } \\right) } \\Gamma \\left( N _ { a } , y / \\lambda _ { a , r } \\right) \\right) ^ { \\scriptscriptstyle N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $N$ 较大时可以认为 $\\gamma _ { a , j } = \\gamma _ { a , \\mathrm { i } } = E Y$ 。由式可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE Y = \\int _ { 0 } ^ { \\infty } y d F _ { Y } ( y ) = y F _ { Y } ( y ) | _ { 0 } ^ { \\infty } - \\int _ { 0 } ^ { \\infty } F _ { Y } ( y ) d y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于 $y F _ { Y } \\left( y \\right) \\Big | _ { 0 } ^ { \\infty }$ 和 $\\int _ { 0 } ^ { \\infty } F _ { \\gamma } \\left( y \\right) d y$ 均无解，所以考虑将式(17)中的积分上限替换为 $N N _ { a } P _ { a } \\delta _ { a , r } ^ { 2 }$ ，即可解得$E Y \\approx N N _ { a } P _ { a } \\delta _ { a , r } ^ { 2 } F _ { Y } N N _ { a } P _ { a } \\delta _ { a , r } ^ { 2 } - \\int _ { 0 } ^ { N N _ { a } P _ { a } \\delta _ { a , r } ^ { 2 } } F _ { Y } \\left( y \\right) d y .$ 。同理，可令（204 $\\gamma _ { j , b } = \\gamma _ { \\mathrm { i , b } } = E Z$ ,其中随机变量 $Z = \\operatorname* { m a x } ( \\gamma _ { n , b } ) , \\ E Z \\ ^ { \\overset { } {  } }$ $E Y$ 的计算过程相似：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE Z \\approx N \\lambda _ { r , b } F _ { z } \\left( N \\lambda _ { r , b } \\right) - \\int _ { 0 } ^ { N \\lambda _ { r , b } } F _ { z } \\left( z \\right) d z\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { r , b } = \\frac { a } { a + \\lambda _ { r , r } } { \\bf P } _ { r } \\delta _ { r , b } ^ { 2 } \\ , \\quad F _ { Z } \\left( z \\right) = \\left( 1 - \\exp ( - x / \\lambda _ { r , b } ) \\right) ^ { N } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时，整理 $R _ { s }$ 表达式可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } \\approx \\left[ \\log _ { 2 } \\left( \\frac { E Y + \\lambda _ { r , r } + E Y E Z } { E Y + \\lambda _ { r , r } } \\right) \\left( \\frac { \\lambda _ { r , r } } { 2 \\lambda _ { r , r } + E Y } \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于中继数量较多，中继间信道增益的取值范围较广，可以通过最大化 $R _ { s }$ 的方法求解最优 $\\lambda _ { r , r }$ ，由式(19)可知，最大化 $R _ { s }$ 等价于最大化 $\\left( \\frac { E Y + \\lambda _ { r , r } + E Y E Z } { E Y + \\lambda _ { r , r } } \\right) \\left( \\frac { \\lambda _ { r , r } } { 2 \\lambda _ { r , r } + E Y } \\right)$ ，对该式求导并使导数为0，即可得到最优 $\\lambda _ { r , r }$ 的取值：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { r , r } = \\left[ \\frac { - \\bigl ( E Y \\bigr ) ^ { 2 } \\pm \\sqrt { \\bigl ( E Y \\bigr ) ^ { 4 } - \\bigl ( E Y - 2 E Y E Z \\bigr ) \\bigl ( \\bigl ( E Y \\bigr ) ^ { 3 } + \\bigl ( E Y \\bigr ) ^ { 3 } E Z \\bigr ) } } { \\bigl ( E Y - 2 E Y E Z \\bigr ) } \\right] ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了衡量不同中继选择准则的性能，本文定义 $f$ 为计算复杂度系数， $f = 1$ 表示对应的中继选择算法需要遍历所有可能的中继对；定义 $\\mathbf { \\Psi } _ { e }$ 为需要交换的CSI开销系数， $e = 1$ 时表示对应的中继选择算法需要获取全局信道状态信息。OPRS方案采用一维搜索的方法来选择最优中继组合，因此需要计算所有可能的中继组合的 $R _ { s }$ ，OPSRS方案的 $f _ { O P } = 1$ ，共有 $C _ { N } ^ { 2 } = \\frac { N ( N - 1 ) } { 2 }$ （204号种。易得OPRS 方案的时间复杂度为 $O ( N ^ { 2 } )$ ，当 $N$ 较大时，该方案所需的计算时间将无法接受。采用OPRS方案时，所有中继链路、窃听链路和中继间的CSI需要估计，因此 $e _ { o s } = 1$ ，该方案下需要估计的CSI数量为 $1 + 3 N + { \\frac { N { \\bigl ( } N - 1 { \\bigr ) } } { 2 } }$ N(N-1)。为了降低实现复杂度，本文在接下来的小节提出了三种快速中继选择方案，其基本思想是先通过一定的准则缩小候选中继的范围，再利用遍历方法确定参与通信的中继组合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2K-MMRS方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统保密速率取决于主信道容量和窃听信道容量两方面，$K$ -MMRS方案从保证主信道容量的角度出发，首先选择 $K$ 个包含最大主信道 $\\boldsymbol { \\gamma } _ { n } = \\boldsymbol { \\gamma } _ { a , n } \\boldsymbol { \\gamma } _ { n , b }$ 的中继以降低候选中继数量，然后再采用一维搜索的方法得到参与通信的中继组合：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( i _ { _ { M M } , } j _ { _ { M M } } \\right) = \\arg \\operatorname* { m a x } _ { \\substack { i , j \\in C _ { 1 } , i \\neq j } } R _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { 1 }$ 表示 $K$ 个 $\\gamma _ { n }$ 最大的中继的集合。 $K$ -MMRS方案采用了先减小中继选择范围再进行 $R _ { s }$ 计算与中继选择的方法，经过第一轮中继选择后可得到 $K$ 个中继，因此第二轮需要计算的$R _ { s }$ 的数量为 $\\frac { K { \\bigl ( } K - 1 { \\bigr ) } } { 2 }$ ， $f _ { _ { M M } } = \\frac { K \\left( K - 1 \\right) } { N \\left( N - 1 \\right) }$ （204号 $K \\cdot$ -MMRS方案在第一轮中继选择时需要获得所有Alice到中继、中继到Bob的信道，第二轮中继选择时需要获取 $K$ 个中继间、中继与窃听者之间的信道,因此需要估计的CSI数量为1+2N+K+K(K-1)，可得eMM= $e _ { M M } = \\frac { 1 + 2 N + K + \\displaystyle \\frac { K ( K - 1 ) } { 2 } } { 1 + 3 N + \\displaystyle \\frac { N ( N - 1 ) } { 2 } } ~ \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 K-MIRS方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SR 系统与一般半双工中继系统最大的不同在于IRI的存在，在本文考虑的SR通信系统中通过对IRI的处理，利用IRI恶化窃听条件，增大了主信道与窃听信道的差距，使IRI变为对系统安全有增益的因素。从最大程度恶化窃听信道的角度出发，提出K-MIRS方案。该方案首先在所有可能的中继组合中选择K个IRI最大(中继间信道增益最大)的中继组合，然后计算每个中继组合的并选择其中保密性能最好的中继对参与通信：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( i _ { M } , j _ { M I } \\right) = \\arg \\operatorname* { m a x } _ { i , j \\in C _ { 2 } , i \\neq j } R _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { 2 }$ 表示IRI最接近最优 $\\lambda _ { r , r }$ 的 $K$ 对中继的集合。 $K$ -MIRS方案也采用了两阶段中继选择的方法，但是与 $K$ -MMRS方案不同的是，其第一轮根据 IRI筛选出的是 $K$ 个中继组合，第二轮需要计算的 $R _ { s }$ 的数量为 $\\boldsymbol { K }$ ，因此 $f _ { M I } = \\frac { 2 K } { N ( N - 1 ) }$ （204号 。在信道估计开销方面， $K$ -OIRS方案方案在选择 $K$ 个中继组合时首先要获得所有中继之间的信道，然后第二阶段计算 $R _ { s }$ 时需要遍历 $K$ 个中继对与其他节点(Alice、Bob、Eve)之间的信道，因此需要估计的CSI 数量最多为1+N(N-1) ，因此可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { _ { M I } } = { \\frac { 1 + { \\frac { N \\left( N - 1 \\right) } { 2 } } + 6 K } { 1 + 3 N + { \\frac { N \\left( N - 1 \\right) } { 2 } } } } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为验证保密速率理论值以对比分析各中继选择方案的有效性，本文在MATLAB 环境中对 SR 系统进行了相关的仿真分析。统一设置以下仿真参数：AWGN 的功率为 $\\sigma ^ { 2 } = 1$ ，Alice到中继、中继到Bob的信道增益均值为1，Alice天线数为4，发射功率 $P _ { \\mathrm {  a } } = P _ { r } = 3 0 d B m$ ，蒙特卡洛仿真的次数为 $1 0 ^ { 4 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36e6a5c34efe40e985b1ac4ef24cb1ff73be0c1599cd6147d6df93eddb3ecf09.jpg",
+        "img_caption": [
+            "图3保密速率理论值与最优平均保密速率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中继数量变化时保密速率理论值与OPSR方案得到的最优保密速率变化情况如图3所示，其中假设中继间信道增益均值为9。由图3可以看出，随着中继数量的增加，可达保密速率也增大，符合式(19)的规律，当 $N$ 增大时， $E Y$ 和 $E Z$ 的取值也增大，显然 $R _ { s }$ 是 $E Z$ 的单调递增函数，当其他变量保持不变时，$E Z$ 增大导致 $R _ { s }$ 的增加；而 $R _ { s }$ 不是 $E Y$ 的单调递增函数，其中$\\left( \\frac { \\lambda _ { r , r } } { 2 \\lambda _ { r , r } + E Y } \\right)$ 部分甚至会随着 $E Y$ 的增长而降低，但是由于 $\\lambda _ { r , r }$ 的最优值会随着 $E Z \\setminus E Y$ 的变动而调整，弥补了 $E Y$ 变动带来的可能的损失。从物理意义理解，当可用中继的数量增加时，主信道容量取得较大值的可能性增加，受IRI的影响窃听信道容量保持较低水平，从而增大了保密速率的理论值。此外，由图3可知，随机信道下OPSR的平均保密速率略高于保密速率理论值，这与求解 $E Z \\setminus E Y$ 时缩小了积分上限有关，但是其与理论值的误差较小，在中继数量不超过400时最大误差仅为$3 . 0 3 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4展示了随着中继数量的增加，不同中继选择方案的平均保密速率变化情况，其中假设 $K = 1 0$ 、中继间信道增益均值为9。如图4所示，在相同的信道条件下，OPSR方案能够得到最优的中继组合使得系统保密速率最大。 $K$ -MMRS方案的性能次之，在中继数量较少时（ $N < 5 0$ ）几乎能取得与OPSR方案相同的保密速率，随着 $N$ 的进一步增加, $K$ -MMRS方案与OPSR方案的差距逐渐增大，但是差距在可以接受的范围内，并且在$\\mathrm { K } { = } 1 0$ 的条件下，计算复杂度、信道估计开销相比OPSR方案很小。计算复杂度和信道估计开销最低的 $K$ -MIRS方案在保密速率方面的性能最差，并且随着N的增加并没有改善，主要与其中继选择的标准有关，充分证实了IRI不是越大越好，在某个确定信道下存在最优值使得保密速率最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e71d3178b462727a8b9dfb9fb370e64ee8b82092f5c1b3df999702693c3789ab.jpg",
+        "img_caption": [
+            "图4各中继选择方案的平均保密速率随中继数量变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a5a116f8d71e18547675518de05f5c77e5edf86856bf33716f1dbf9bfdf1b4a.jpg",
+        "img_caption": [
+            "图5各中继选择方案的平均保密速率随K值变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $K$ 值变化时，各中继选择方案的平均保密速率变化情况如图5所示，其中假设 $N = 2 0 0$ 、中继间信道增益均值为9。可以看出，各中继选择方案的平均保密速率都随着 $K$ 值的增加而逐渐提高， $K$ 值越大，各中继选择方案的计算复杂度、信道估计开销增加，以此为代价换取了更高的保密速率。此外，各中继选择方案的保密速率在 $K$ 值较小时斜率较大，随着 $K$ 值增大斜率变小，表明各中继选择方案会最终收敛。 $K \\cdot$ -MMRS方案在$K = 8$ 时已经非常接近最优值，此时再增加 $K$ 值带来的保密速率增益很小，而方案的复杂度会较高；K-MIRS方案在 $K = 1 0$ 以后增速放缓，但其保密速率与OPRS方案差距较大，在 $K < 2 0$ 的条件下差距在 $2 \\ : \\mathrm { b i t / s / H z }$ 以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6展示了中继数量增加时， $K$ -MMRS方案达到最优保密性能时的平均K值、计算复杂度系数和CSI开销系数。上图表明，随着中继数量的增加， $K$ -MMRS方案达到最优保密性能所需要的 $K$ 值也逐渐增大并基本呈线性规律增加，当中继数量较多400时，取 $K { = } 1 0$ 基本能取得最优保密速率；从下图可以看出， $K$ -MMRS的计算复杂度和CSI开销相比OPRS方案也有了明显的降低，其中计算复杂度系数小于 $1 \\%$ ，CSI开销系数小于$10 \\%$ ，证明 $K$ -MMRS方案能够以降低的计算复杂度与信道开销实现最优的安全性能。此外，随着中继数量的增加，计算复杂度系数与CSI开销系数也逐渐降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dce61e505711873f4f18e122c60a74c46bf9965808700baed0514447548ee9e.jpg",
+        "img_caption": [
+            "图6K-MMRS方案性能分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1对比了本文提出的三种中继选择方案在保密速率、计算复杂度、信道估计开销方案的性能对比情况。其中在保密速率方面，OPRS方案在任意场景下均为最优，在 $K$ 相同时 $\\operatorname { K } -$ MMRS方案优于K-MIRS方案；在 $N$ 和 $K$ 相同时，三种方案根据计算复杂度性能排序（由低到高）： ${ \\mathrm { K } } { \\mathrm { - M I R S } } { \\mathrm { < K } } { \\mathrm { - } }$ MMRS $\\Lt$ OPRS，K-MIRS方案的计算复杂度最低；在N相同且较大时，三种方案根据信道估计开销性能排序（由低到高）为：K-MMRS ${ < } \\mathrm { K }$ -MIRS $\\Lsh$ OPRS，其中K-MMRS方案的信道估计开销最小。综上，OPRS方案的保密性能最优但是中继数量较多时复杂度较高，K-MMRS方案适用于信道变化较快的场景，而K-MIRS方案适用于对节点计算能力较低的场景。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f64788e50e963882606f9a6a219cd4ce64fca283b1b8bd1439848bb296ec0e61.jpg",
+        "table_caption": [
+            "表1各中继选择方案性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能</td><td>保密</td><td>计算</td><td>信道</td><td>适用场合</td></tr><tr><td>方案 OPRS</td><td>速率 最优</td><td>复杂度 最高</td><td>估计开销 最高</td><td>中继数量较少</td></tr><tr><td>K-MMRS</td><td>次优</td><td>一般</td><td>最低</td><td>信道变化较快</td></tr><tr><td>K-MIRS</td><td>最低</td><td>最低</td><td>一般</td><td>节点计算能力较低</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对 SR系统中存在多个可用中继的场景，提出了多种面向安全的中继选择方案。首先，利用IRI消除方法提高了Bob 的信号质量，使IRI只恶化Eve的信道，从而保障了SR系统的安全性。基于上述模型，提出通过遍历搜索的方法选取最优中继组合的OPRS方案，并推导了系统的保密速率理论值；针对OPRS复杂度和开销高的问题，进一步提出两种两阶段中继选择方案。然后，从计算复杂度和信道估计开销方面分析、对比了不同中继选择方案的性能。仿真结果表明，OPRS方案与所得保密速率理论值基本相同，最大化主信道容量的 K-MMRS方案所取得的保密速率接近最优值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Yang S,Belfiore JC.Towards the optimal amplify-and-forward cooperative diversity scheme [J].IEEE Trans on Information Theory,2006,53(9):3114- 3126.   \n[2]Chen G,Yu G,Xiao P,et al. Physical layer network security in the fullduplex relay system [J].IEEE Trans on Information Forensics & Security, 2015,10 (3): 574-583.   \n[3]Rankov B,Wittneben A. Spectral efficient protocols for half-duplex fading relay channels [J].IEEE Journal on Selected Areas in Communications, 2007,25 (2): 379-389.   \n[4]Hu Y,Li K H, Teh K C.An efficient successive relaying protocol for multiple-relay cooperative networks[J]. IEEE Transon Wireless Communications,2012,11(5):1892-1899.   \n[5]Xu P,Dai X,Ding Z,et al. Approaching MISO upper bound: design of new wireless cooperative transmission protocols [J].IEEE Trans on Wireless Communications,2011,10(8):2725-2737.   \n[6]Nomikos N,Charalambous T,Krikidis I,et al.A buffer-aided successive opportunistic relay selection scheme with power adaptation and inter-relay interference cancellation for cooperative diversity systems [J].IEEE Trans on Communications,2015,63 (5): 1623-1634.   \n[7]Kiim S H,Chaitanya TVK,Le-Ngoc T,et al.Rate maximization based power allocation and relay selection with IRI consideration for two-path AF relaying [J].IEEE Trans on Wireless Communications,2015,14(11): 6012- 6027.   \n[8]Zou Y,Wang X, Shen W. Optimal relay selection for physical-layer security in cooperative wireless networks [J].IEEE Journal on Selected Areas in Communications,2013,31(10): 2099-2111.   \n[9]Fanl, Lei X,Duong TQ,et al. Secure multiuser communications in multiple amplify-and-forward relay networks [J]. IEEE Trans on Communications, 2014,62 (9): 3299-3310.   \n[10] YangL,Chen J, JiangH, etal.Optimal relay selection for secure cooperative communications with an adaptive eavesdropper [J].IEEE Trans on Wireless Communications,2016,16(1): 26-42.   \n[11] Krikidis I,Thompson J S,Mclaughlin S.Relay selection for secure cooperative networks with jamming [J]. International Journal of Computer Science & Mobile Computing,2009,8(10): 5003-5011.   \n[12] Chen J,Zhang R,Song L,etal. Joint Relay and Jammer Selection for Secure Two-Way Relay Networks [J]. IEEE Trans on Information Forensics & Security,2012,7(1): 310-320.   \n[13] Wang C, Wang H M, Xia X G. Hybrid opportunistic relaying and jamming with power allocation for secure cooperative networks [J].IEEE Trans on Wireless Communications,2015,14(2): 589-605.   \n[14] Zhang N, Cheng N,Lu N,et al.Partner selection and incentive mechanism for physical layer security [J].IEEE Trans on Wireless Communications, 2015,14 (8): 4265-4276.   \n[15]洪颖，黄开枝，罗文宇，等．一种基于两次报价博弈机制的安全中继选 择方法[J].信息工程大学学报,2014,15(5):551-556.   \n[16] Wang W,Teh KC,LiKH.Relay selection for secure successive AF relaying networks with untrusted nodes [J].IEEE Trans on Information Forensics & Security,2016,11 (11): 2466-2476. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

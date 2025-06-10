@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "基于关键帧节点自适应分区与关联的行为识别算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘锁兰‘²，田珍珍‘，顾嘉晖'，周岳靖1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．常州大学 计算机与人工智能学院，江苏 常州 213164;2.南京理工大学 江苏省社会安全图像与视频理解重点实验室，南京 210094)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于视频的人体行为识别任务中由于大部分画面并不包含重要的判别信息，这对识别应用的准确性造成严重干扰。关键姿态帧既能表达视频又能降低计算量，且骨骼数据相比于图像包含更多维度的信息。因此，提出一种基于关键帧骨骼节点自适应分区与关联的行为识别算法。首先构建自适应池化深度网络以评估帧的重要性获取关键姿态帧序列；其次通过节点自学习模型建立非自然连接状态下的节点间关联；最后将改进的时空信息应用于STGCN并使用SoftMax分类识别。在开源的大规模数据集NTU-RGB $+ \\mathrm { D }$ 和Kinetics上与几种典型技术进行比对，验证了所提方法在减少冗余数据量的同时能保留关键动作信息，且动作识别准确率平均提高了 $0 . 6 3 \\% { \\sim } 1 1 . 8 1 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：行为识别；关键姿态；自适应；节点关联；STGCN 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2022.02.0123 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Action recognition based on adaptive partition and association of key-frame nodes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Suolan1,²2, Tian Zhenzhen1, Gu Jiahuil, Zhou Yuejingl (1.Schoolofomputer&ArtificialInteligence,ChangzhouUniversityChangzhouJiangshu3164,China;2.JiangsuKey LaboratoryofSocialecurityImage&VideoUnderstanding,Nanjing UniversityofScience&Technology,NanJing210094, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inthetaskof human behaviorrecognition,mostof thevideoframesdo notinclude important discrimination information,which seriouslyaffects theaccuracyofapplication.Key poseframescanefectively expressthe videoandreduce theamount of computation.Furthermore,bone data contains richer information than RGB image.Therefore,this paper proposes anactionrecognitionapproach basedonadaptivepartitionandassciationofkey-frame nodes.Firstly,itconstucts anadaptive pooleddeepnetwork toevaluate frames importanceandobtainkeyposesequence.Then,itestablishesassociation between nodes inunnatural connection state byself-learning model.Finall,itappies the improved spatio-temporal informationon STGCNanduses SoftMax forclasification.This paper evaluates the efectiveness ofthe proposed approach by comparing with several typical technologies on the open-source and large-scale datasets of NTU-RGB $+ \\mathrm { D }$ and Kinetics. Experimentalresultsshowthatitcanreducetheamountofredundantdataandretain keyaction information,andobtain higher average accuracy by $0 . 6 3 \\% \\sim 1 1 . 8 1 \\%$ than the compared methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:action recognition; key poses; adaptive; node association; stgcn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年国内外学者们提出了大量的视频行为识别方法，并给出一些公开的行为数据集 $[ 1 { \\sim } 5 ]$ 。图卷积神经网络(graphconvolutionalnetwork，GCN)起源于卷积神经网络(convolutional neural network,CNN)[6.7]。它将神经网络进行一般化的处理后应用于拓扑图结构中，以代替图的正则化、核方法等传统的拓扑图处理方法，其卓越的性能在视频应用领域得到广泛关注[8\\~10]。Caramalau 等人[1]将GCN应用于人体行为识别任务，通过序列图卷积网络主动学习训练，并应用于训练数据和采样处理，以识别并丢弃多余的未标注数据流得到有效的标注样例。该方法在后续的识别、分类、预测等系列任务中发挥出了比传统方法更好的性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相比于其他模态在面对复杂背景、多视角以及遮挡时会出现鲁棒性不足，同时还会产生更多的计算消耗，人体骨骼信息更为清晰直观且不易受到其他外界因素的干扰，具有相对良好的适应性能[12]。一般使用2D 或者3D 坐标进行骨骼表示，具有丰富的空间域和时域信息，加强了相邻关节之间的相关性[13]。如Vemulapall等人[14]将骨骼表达成一系列的刚体运动，且用一种特殊的欧式群表示刚体间的3D几何关系并映射为李群空间中的点，使用SVM可以获得较好的分类效果。随着深度学习的成功应用基于深度学习的骨骼建模方法迅速兴起，越来越多的专家学者使用骨骼模态来进行人体检测和行为识别[15-21]。Wang 等人[15] 提出一种基于视频的行为识别模型(temporal segmentnetwork，TSN)。该模型可以将稀疏时间采样策略和视频监督相结合，使用整个视频支持有效的学习。Qiu等人[16结合CNN和3D信息提出了一种利用骨骼序列构建关节的三维轨迹进行三维动作识别。该方法首先将每个骨架序列转换为三个片段，每个片段由若干帧组成，然后利用深度神经网络进行时空特征学习。Yan 等人[19]将图卷积网络扩展到时空图模型(spatial temporal graphconvolutionalnetworks，STGCN)，设计出用于行为识别的骨骼序列通用表示。STGCN模型将节点对应于人体的关节，构建多层时空图卷积并让信息沿着空间和时间两个维度进行整合。该方法在测试动作识别数据集上取得了较大的性能提升，其成果引起了广泛关注。在此基础上，文献[20]根据人体关节和骨骼之间的运动相关性，将骨骼数据表示为有向无环图，设计了一种有向图神经网络(directed graph neural networks，DGNN)，用于提取关节、骨骼及其相互关系的信息，并根据提取的特征进行预测。同时，为了更好地适应动作识别任务，在训练过程的基础上对图的拓扑结构进行了自适应性表示，使其性能得到显著改进。Cheng等人在文献[21]中结合CNN中的 shift 结构，将其引入到GCN，提出了一种改进的移位图进化网络(shift graph convolutional network，Shift-GCN)来克服这两个缺点。Shift-GCN不使用传统的图卷积操作，而是由新的移位图操作和轻量点卷积组成，其中移位图操作为空间图和时间图提供了灵活的感受野，同时在时序TCN上进行CNN的shift操作，极大地减少了模型参数和计算复杂度。文献[22]描述了一种新的多流注意增强自适应图卷积神经网络(multi-stream adaptive graph convolutional networks，MS-AAGCN)用于骨架的动作识别。图拓扑可以基于端到端的输入数据统一地或单独学习。这种数据驱动的方法增加了模型的灵活性，使其更具通用性，以适应不同的数据样本。此外，通过时空注意力模块进一步增强自适应图卷积层，使模型更加关注重要的关节、帧和特征。在多流框架下，对关节和骨骼的运动信息进行同步建模，提高了识别准确率。Zhao等人在文献[23]中提出采用基于节点加权贡献的关键帧提取方法并结合STGCN 模型进行多特征融合，可以有效提高识别准确率。2021年Liu等[24]针对人体骨架数据提出了一种自适应注意力记忆机制的图卷积网络(adaptiveattention memorygraphconvolutional networks，AAM-GCN)进行动作识别，且在此算法中使用注意机制从骨架序列中提取关键帧，以获取更具鉴别力的时间特征，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上研究可以发现，在GCN模型基础上结合时间和空间维度信息广泛应用于基于骨架的人体行为识别研究[23-26]。同时，由于视频中大部分帧图像都不包含所做的运动信息(静止)，如果把这些也放入网络进行训练，会对训练过程起到反向作用。因此，为排除干扰和信息冗余问题，关键帧提取成为基于视频行为识别的重要预处理环节。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基于STGCN的人体行为识别",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "STGCN是基于图卷积神经网络并加强了时空联系的一类模型，在基于骨架的动作识别中取得了显著的性能。然而GCN模型本身仍存在一些问题。比如，在所有模型层和输入数据上对图的拓扑结构进行启发式设置和固定，这可能不适用于GCN模型的层次结构和动作识别任务中数据的复杂性与多样性。虽然双流或多流网络进行了空间邻接矩阵的学习，或通过引入增量式自适应模块来增强空间图的表达能力，但其性能仍然受到模型结构本身的限制。此外，GCN方法通常计算复杂度相当高，一个动作样本的计算复杂度往往超过15GFLOPs[27]。尤其随着增量模块、多流融合策略，以及有向无环图网络等的应用，使得计算复杂度急剧增大，而且提取不同特征也需要巨大的计算开销。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常，在进行视频动作识别时将序列中的所有帧视为同等重要，这使得不能聚焦于最具代表性的帧导致计算量居高不下。大量的研究工作已证明从视频中提取关键帧图像再进行人体行为分析，在降低冗余数据对计算影响的同时，仍能有效使用姿势信息来描述运动信息，表达行为类别。在日常动作中，以\"走\"为例，此过程包含多个状态，人体在各个时刻也呈现出不同的姿态。在帧序列中目标对象有时是直立的，其他帧中即便出现姿势变化但由于动作的连贯性导致连续几帧对动作识别的贡献存在冗余。因此，如能就帧图像对动作识别的贡献度进行有效衡量，以提取对识别更具信息量的关键姿态帧将有助于降低计算量。依据此，本文设计了一种深度强化子网络来自动学习和获知序列中不同帧的重要性，使重要的帧在分类中起更积极的作用，以降低计算复杂度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，研究表明基于骨骼的行为识别中每个关节点对动作判别并非同等重要。一些行为动作会跟某些关节点构成的集合密切相关，而另一些行为动作则会跟其他一些关节点构成的集合有关。以\"打电话\"为例，主要与头、肩膀、手肘和手腕这些关节点密切相关，而与腿部关节的关系很小；但是对于“走”、“踢\"这类动作的判别就主要通过腿部节点的关联计算才能完成。依据这一点，本文根据序列当前关键帧时空信息和历史信息优化节点分区模型，通过构建节点多级分区建立非自然连接状态下的关联，实现序列中节点关联可以随时间自适应优化，以提升模型鲁棒性并提高识别精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用基于STGCN的方法进行人体行为识别。为减少冗余信息对识别效率的影响，在STGCN 模型基础上提出了视频关键帧提取及骨架节点关联构建方法。首先将视频数据送入深度强化子网络学习和获知序列中不同帧的重要性得到关键信息帧，并通过姿态估计提取骨骼信息。其次，通过节点自学习模型关联序列中不同节点，以衡量节点运动变化对识别的影响。在STGCN模块中通过结合关键节点时间和空间信息生成更高层次的特征图，最后通过SoftMax分类器进行动作分类识别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1关键帧判别与提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "视频相比于静态图像来说包含更加丰富信息。但实际一段视频中可能大部分画面并不包含重要的动作判别信息(如静止)，如果把这些帧图像也放入网络训练，则会对训练过程起反作用。因此，如何有效判别冗余信息并提取关键帧是该领域重要的研究内容。但是，现有的关键帧提取算法没有groundtruth，因此需要根据序列间的关联自动生成关键帧。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出的关键姿态帧判别与骨架提取流程如图1所示a)通过采样从原始RGB视频序列中抽取初始化的M帧图像；b)获取预选帧图像时空特征，并送入多层感知网络模块计算帧间特征差预测其对动作识别的重要性；c计算预选帧深度特征，在池化环节以当前池化特征和帧间特征差作为输入，这样可以让网络关注之前未关注到的特征进而判断是否为关键帧，得到仅为关键帧的自适应池化向量 $F _ { p o o l e d }$ ；d)经深度网络输出关键图像帧，采用Openpose 姿态估计获得关键帧骨架。所提模型旨在利用帧的时空特征，并通过强化学习预测帧间差异来表达帧的重要性，能有效加强帧的判别性，去除冗余信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入 关键帧判别  \nRGB视频序列池化向量 输出  \n采样 自适应池化 伙人大利Openposej  \nM个采用帧 深度网络多层感知器 姿态估计帧重要性预测关键帧骨架",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设训练样本 $X = \\left\\{ x _ { i } , y \\right\\}$ ， $x _ { i }$ 为第 $i$ 个训练图像， $X$ 对应的动作类别标签为 $y$ 。从训练序列中通过采样得到的初始预选帧集合表示为 $\\left\\{ a _ { j } \\right\\}$ ， $i$ 与 $j$ 为采样关联。通过深度网络获得帧特征向量为 $\\phi ( a _ { j } )$ 。由于采样倾向于“宁多勿少”，因此卷积层输出中仍可能包含大部分冗余信息。在池化环节中引入权重参数，则可有效突出关键帧，同时弱化次要帧的影响。因此通过设计一个具有注意力机制的多层感知网络模型预测每个初始预选帧的重要性，定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ( a _ { j } ) = f _ { p r e } ( \\Phi ( x _ { i } , t - 1 ) , \\phi ( a _ { j } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(1)中 $f _ { p r e } ( \\cdot )$ 为采用注意力机制的计算函数， $\\Phi ( x _ { i } , t - 1 )$ 表示该帧在原始序列中其前一帧图像的特征，学习过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\Phi } ( x _ { i } , t ) = \\lambda ( x _ { i } , t - 1 ) { \\Phi } ( x _ { i } , t - 1 ) + \\lambda ( a _ { j } ) { \\phi } ( a _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda ( a _ { i } ) \\in [ 0 , 1 ]$ 表示预选帧重要性权值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自适应池化过程不仅考虑了预选帧的深度特征，且利用图像帧间信息衡量其所含信息对识别的重要性，得到仅为关键帧的池化向量 $F _ { p o o l e d }$ 。经姿态估计处理得到关键帧骨架序列，以便后续行为识别任务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2节点关联模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对视频数据进行关键信息帧姿态估计后构造图$G = ( s , \\nu )$ ，其中 $\\boldsymbol { s } \\in \\mathbb { R } ^ { N \\times 3 }$ 为包含了 $N$ 个关节点的三维坐标(如Kinetics数据集中，采用Openpose提取18个关节点，则$N = 1 8$ )。人体节点自然关联和固定的分区方案通常不能很好地表达一个序列中发生的所有行为动作。本文设计一种节点关联学习模型，根据序列内容动态优化分区，不仅可以增强/弱化一定邻域范围内节点间的连接，而且可以使没有直接关联的节点之间产生关联。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在GCN基础上通过建立节点关联学习模型为节点选择分区，以增强模型的自适应性。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { o u t } = W _ { k } f _ { i n } ( S _ { k } + T _ { k } + Q _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $W _ { k }$ 为权值， $S _ { k }$ 表示基础邻接矩阵即关节点之间的自然连接。单帧骨架图中的关节 $s _ { i }$ 和 $s _ { j }$ 通常存在内在关联和外在关联两种自然依赖关系，可以通过设置不同的参数来进行区分，如式(4)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k } ^ { i j } = \\left\\{ \\begin{array} { l l } { 0 , \\quad } & { i = j } \\\\ { \\mathcal { S } , \\quad } & { c o n n e c t e d } \\\\ { \\rho , \\quad } & { d i s c o n n e c t e d } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过将关节点的自连接设置为0可避免自连接对动作判别的影响。内在关联权重用 $\\boldsymbol { \\vartheta }$ 来表示相邻节点之间的物理连接且边距离在动作发生过程中保持不变。外在关联权重用 $\\rho$ 表示，指的是节点之间本身不存在物理连接的关系，但在行为过程中却存在较大的联系。例如“打高尔夫球”，左手和右手的自然物理连接并不存在，但是双手共同握住球杆这个关系对于识别此动作具有非常重要的意义。作为可训练的权重邻接矩阵， $S _ { k }$ 亦可通过网络学习数据进行优化，在表达节点之间是否存在联系的同时，对关联的强弱也能进行表达。$T _ { k }$ 表示时间约束， $\\scriptstyle Q _ { k }$ 表示注意力矩阵。利用注意力机制衡量当前状态图中一节点与其他节点的实际依赖关系，即判断是否连接和连接的强度。因此算法实现的关键是对节点对 $( s _ { i } , s _ { j } )$ 判别动作的实际传入和传出得到依赖权值，计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ( s _ { i } , s _ { j } ) = { \\frac { e ^ { \\theta ( s _ { i } ) ^ { T } \\gamma ( s _ { j } ) } } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } e ^ { \\theta ( s _ { i } ) ^ { T } \\gamma ( s _ { j } ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$ { \\boldsymbol { \\theta } } ( \\cdot )$ 和y()分别计算当前节点相对于参考源点的角度和位置信息。为减少参数量、降低计算复杂度，以及防止过拟合，可以通过利用节点的轨迹对任意两个节点间的注意力值进一步计算，并将时间维度融合到 $Q _ { k }$ 中。在训练过程中通常要根据动作类别标签预定义多级分区与关联。如提取18个关节点，则关联最多可达7级。图2所示为以肘部节点为例的2级分区和关联示意图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验数据集与设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)NTU-RGB $+ \\mathrm { D }$ 数据集[4]。该数据集共采集了56880个视频样本,包含drink water、throw、clapping、phone call、shakinghands等在内的40类日常行为动作，9类与健康相关的动作，以及11类双人互动动作。数据采用三个不同水平角度( $- 4 5 ^ { \\circ }$ ，$0 ^ { \\circ }$ 和 $4 5 ^ { \\circ }$ )放置的微软Kinectv2传感器采集40个年龄10至35 岁的人员得到。每个动作执行人做两遍相同的动作。数据形式包括深度信息、3D骨骼信息、RGB帧以及红外序列。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dab0c6597879f94898cd242f1abf8eef8364d8009db83c42bb355ba73f34c7ca.jpg",
+        "img_caption": [
+            "图2节点2级分区和关联示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据集提供了两种不分划分标准。a)Cross-Subject 将ID为1,2,4,5,8,9,13,14,15,16,17,18,19,25,27,28,31,34,35,38共20个采集人员的40320个视频作为训练集，其余为测试集共16560个样本；b)Cross-View 按相机编号划分训练集和测试集。相机1采集的18960个样本作为测试集，相机2和3采集的37920样本作为训练集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)Kinetics-400数据集[5]。该数据集采集自YouTube，约300000 个视频包含了abseiling、applauding、feeding fish、openingbottle、playing piano、yoga等在内的人与物体交互动作，以及人与人的互动动作等。涵盖400类动作，每类动作至少有400个视频样本，每个视频持续约10秒。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为降低视频参数差异性对后续处理的影响，本文将所有视频帧分辨率调整为 $3 4 0 \\times 2 5 6$ ，同时将帧率转换为30frame/s，示例如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9bf7c4cc72a3aa18acede0d103777becf215488365d3e5eec6e87ebdd120eec.jpg",
+        "img_caption": [
+            "Fig.2Node level-2 zoning and association diagram ",
+            "图3NTU-RGB $+ \\mathrm { D }$ 和Kinetics-400 数据集示例 Fig.3Samples from NTU-RGB $+ \\mathrm { D }$ and Kinetics-40o datasets "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1关键帧提取实验设置与结果分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在关键帧判别与提取环节，设置MLP为四层感知网络，分别采用双曲正切函数tanh和最后一层sigmod函数为激活函数。通过在模型中加入非线性函数作为隐藏层可以有效解决梯度消失问题。将池化向量的初始状态设置为与第一帧的特征向量一致，后续以当前帧与其前一帧的特征向量差作为自适应模块的输入。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隐藏层神经元数量直接影响感知网络的性能和关键帧提取效果，过少会导致准确度欠佳，过多导致网络过拟合、收敛不理想等问题。同时考虑到不同数据集行为类别数量和样本间的差异性，本文对隐藏层神经元数目 $N _ { n u m }$ 进行动态估算Nnum= N+N）。其中，N,和N分别表示输入层和输出层神经元数目。 $N _ { t r a i n i n g }$ 为训练样本数。调节参数 $\\partial$ 取值范围为1\\~10",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证所提关键帧提取算法的有效性，与常用的两种算法进行对比，包括基于运动分析的光流法和视频聚类算法。其中，光流法每次取局部运动光流量最小值作为所要提取的关键帧，聚类法使用 $\\mathbf { k }$ -means取距离聚类中心距离最小者为关键帧。实验随机选取Kinetics 数据集中的robotdancing 视频片段为例进行说明，结果如图4所示。该视频演示动作持续约10秒，图像序列共包含301帧。聚类算法提取第2，19，34等共计76帧为关键帧，光流法提取第4，48，79，107等共16帧图像作为关键帧。本文算法分别提取第18，91，199，263，268共5帧图像为关键帧。对比三种方法可见聚类法提取效果较差，尽管压缩率达到 $2 5 . 1 \\%$ 但仍存在大量冗余，主要原因在于聚类初始化中心数受人为因素干扰严重，且阈值大小的选择也直接导致选取的关键帧数不稳定。光流法主要通过计算镜头中的运动量来反映视频数据中的静止状态，因此该方法对视频镜头的结构选择依赖性较大。视频中第一个动作重复多次出现，本文算法能有效识别并去除重复和冗余，压缩视频，提取5帧为关键帧，但却完整反映了视频中的两个关键动作。姿态估计也能有效检测运动目标的关键关节点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b54a06b8606ce29a0662a74908fb64bd7aef9ccff599668b5566e09e6c7f857.jpg",
+        "img_caption": [
+            "图4三种关键帧提取方法结果及本文关键帧姿态估计结果 Fig.4Key frame extraction of three algorithms and pose estimation results used in this paper "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2NTU-RGB $+$ D(Cross-Subject)行为识别结果与分析 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将本文工作分别与文献[19]中 STGCN 模型在uniform,distance和spatial三种分区策略下的识别性能，以及笔者先前报道的研究成果[25]进行了比对。在节点分区和关联算法中设置了9和 $\\rho$ 两个参数，这里主要通过改变参数值进行实验得到模型的最优性能参数。分别取值 $\\scriptstyle { \\mathcal { S } } = 3$ ， $\\rho = 1$ 在加强内在关联的同时适当强化外在关联的影响，同时减少因连接引起的计算量。主要采用top-1和top-5 两个指标对模型性能进行评估。对比方法实验结果为通过设置初始学习率0.01，在第80个epoch 时减少至初始值的0.1倍。本文算法识别率为通过重复实验动态调整每轮迭代相适应的学习率而获得。算法实验环境均为Ubuntu16.04系统，1060-6GBGPU，使用PyTorch深度学习框架。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5和6分别为在NTU-RGB $+ { \\cdot }$ D(Cross-Subject)数据集上的top-1和 top-5的识别率比对。可以看出，模型随着训练逐步优化，本文方法相比于文献[19]和[25]在 top-1和 top-5 上的识别性能均有一定程度的改进。在第 50 个epoch 时 top-1识别精度的最高提升达到 $3 . 8 4 \\%$ ，在epoch为45时 top-5识别精度的最高提升达到 $1 . 3 4 \\%$ 。在 50 至80 epoch区间，识别率基本达到稳定状态分别约为 $82 \\%$ 和 $9 7 \\%$ 。这证明对STGCN模型改进人体骨骼节点分区和关联可以有效提高模型的识别性能。尤其在对每轮进行相适应的学习率设置之后，本文呈现的实验结果更优于本文之前报道的工作。这也进一步证明了合适的学习率参数对模型性能的改进有着积极作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e09d7b174b277dc6aebde348304a650bfc9b9e794f815aa715e8b8241d95d5d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e062ee09ac7dac8031edd2d2b376c82d16303d568986bce1a0ddc7d67110c29a.jpg",
+        "img_caption": [
+            "图5NTU-RGB+D(Cross-Subject)上TOP-1实验结果 Fig.5Experimental results of TOP-1onNTU-RGB $\\cdot +$ D(Cross-Subject) ",
+            "图6NTU-RGB $^ +$ D(Cross-Subject)上TOP-5实验结果 Fig.6Experimental results of TOP-5 on NTU-RGB $\\cdot +$ D(Cross-Subject) 3.2.3NTU-RGB $+$ D(Cross-View）行为识别结果与分析 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1为在NTU-RGB $+ .$ D(Cross-View)数据集上的实验比对结果。可以看出本文方法相比于文献[19]的spatial方法在其他条件相同下的测试结果在 top-1和 top-5上的识别精度分别提升约 $2 . 8 2 \\%$ 和 $0 . 6 3 \\%$ ，比文献[25]的最优识别结果提升$5 . 2 1 \\%$ 和 $1 . 0 7 \\%$ 。改进效果明显优于在NTU-RGB $+ { \\dot { } }$ D(Cross-Subject)上的性能测试，主要原因在于Cross-View数据集相对Cross-Subject仅改变了数据采集角度，但训练和测试数据来源于全部动作执行人员，极大地降低了动作识别过程中的类内差异。因此，在NTU-RGB $+$ D(Cross-View)上的识别率与对比方法相当。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1NTU-RGB+D(Cross-View)实验结果对比",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9dc095473405906a59dfa529b65cd405728ec45ac8cdd55ef54a65ed5f20412.jpg",
+        "table_caption": [
+            "Tab.1Comparison results on NTU-RGB $+$ D(Cross-View) "
+        ],
+        "table_footnote": [
+            "3.2.4在NTU-RGB $+ \\mathrm { D }$ 数据集上与其他算法的对比"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">epoch</td><td colspan=\"2\">STGCN[19](spatial)</td><td colspan=\"2\">文献[25]</td><td colspan=\"2\">本文算法</td></tr><tr><td>top-1</td><td>top-5</td><td>top-1</td><td>top-5</td><td>top-1</td><td>top-5</td></tr><tr><td>5</td><td>56.96</td><td>89.49</td><td>59.17</td><td>91.04</td><td>60.94</td><td>92.71</td></tr><tr><td>10</td><td>65.53</td><td>93.15</td><td>58.41</td><td>89.78</td><td>67.02</td><td>94.63</td></tr><tr><td>15</td><td>80.08</td><td>97.73</td><td>79.55</td><td>97.48</td><td>76.43</td><td>95.77</td></tr><tr><td>20</td><td>80.68</td><td>97.70</td><td>81.80</td><td>97.84</td><td>81.09</td><td>96.92</td></tr><tr><td>25</td><td>83.63</td><td>98.27</td><td>81.32</td><td>97.86</td><td>84.37</td><td>97.08</td></tr><tr><td>30</td><td>84.32</td><td>98.29</td><td>83.02</td><td>98.26</td><td>87.51</td><td>97.82</td></tr><tr><td>35</td><td>84.95</td><td>98.37</td><td>82.55</td><td>98.08</td><td>88.43</td><td>98.69</td></tr><tr><td>40</td><td>85.90</td><td>98.54</td><td>83.51</td><td>98.10</td><td>88.72</td><td>99.17</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将本文算法模型与当前几种比较典型的方法进行了比较，主要选用了Lie Group[14]，Deep-LSTM[4]，TSN(TemporalSegment Networks)[15]以及 $\\mathrm { C l i p s { + } C N N { + } M T L N ^ { [ 1 6 ] } }$ 。其中，LieGroup方法主要将人体动作表达为流形空间的特征向量。通过建模捕捉帧间时空关联，构成LieGroup 特征序列形成流形曲线，进行分类识别。Deep-LSTM网络主要由三层LSTM层和全连层(FCLayer)组成。相比于常见的双流网络，TSN的相主要优势在于解决长时间视频的行为判别，以及小样本导致的过拟合问题。同时该方法对帧序列进行稀疏采样以去除冗余信息降低计算量。Clips $. +$ CNN+MTLN方法首先将骨架序列划分为三个片段，然后使用CNN网络学习序列框架中的骨架信息，并使用多任务学习网络(MTLN)联合处理生成的并行片段，以此合并空间结构信息，识别视频动作。根据数据集划分特点，分别在Cross-View 和Cross-Subject上测试了识别效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过表2可以发现本文算法相比于其他几种方法中效果最好的ClipsCNN $+$ MTLN在Cross-View 和Cross-Subject的实验方法下的识别精度分别提高了 $3 . 9 2 \\%$ 和 $2 . 4 7 \\%$ 。同时，对比几种识别方法可以发现在不同视角下的识别精度整体上均优于不同行为主体实验下的识别精度，最高相差 $7 . 1 3 \\%$ 。这主要是由于不同执行人即便在采集相同动作时仍因行为习惯等因素导致动作存在较大的差异，这对识别的准确性会产生直接影响。其次，LieGroup 方法更侧重于利用骨骼节点的空间信息而弱化了时序信息对识别的影响，导致效果不理想。Deep-LSTM方法的优势在于LSTM网络对时间序列处理的强大能力，而关键帧的提取则弱化的时间特征，导致识别率不佳。Deep-LSTM，TSN 和ClipsCNN+MTLN方法虽然也关注了运动过程中节点的时序信息，但未有效建立节点空间关联且忽略了平移和尺度变化对识别影响。相比于本文方法在压缩视频帧的同时仍通过关键帧保留行为的时序特征，且构建非关联节点在空间的逻辑变化，更能充分表达行为的时空特性，因此在该数据集上表现出优越的识别效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/07c969800c2490e1fc8dbdcc627e24a071a487abdaa44d3bbfa2750bf3529974.jpg",
+        "table_caption": [
+            "表2与其他算法的top-1最优结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Methods</td><td>X-View</td><td>X-Subject</td></tr><tr><td>Lie Group[14]</td><td>52.80</td><td>50.10</td></tr><tr><td>Deep LSTM[4]</td><td>67.30</td><td>60.70</td></tr><tr><td>TSN[15]</td><td>75.41</td><td>78.27</td></tr><tr><td>Clips+CNN+MTLN[16]</td><td>84.80</td><td>79.60</td></tr><tr><td>本文算法</td><td>88.72</td><td>82.07</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.5Kinetics行为识别结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3为将模型改进后在Kinetics数据集上的实验结果。可以看出通过设置相适应的迭代学习率之后本文的训练结果在 top-1 和 top-5 上相比于原始 STGCN 模型分别达到了$2 . 7 1 \\%$ 和 $2 . 3 4 \\%$ 的提升。但是对比NTU-RGB+D 数据集，其测试结果远低于预期，主要原因在于NTU-RGB $+ \\mathrm { D }$ 采集数据时机位固定且实验环境可控，而Kinetics数据集来自于YouTube视频采集过程非固定模式，尤其存在大镜头运动导致数据稳定性较差，从而加大了姿态估计难度以及节点间信息关联的难度。但相比于文献[25]所提算法测试结果，可见关键帧的处理以及对人体拓扑结构的关联和加强对此类难度较大的视频数据的识别有着更明显的改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/11d60f859afe580a778819f41034d57981c197ee1c8c868eee22605c534d4db4.jpg",
+        "table_caption": [
+            "Tab.2Best results of top-1 with other compared methods ",
+            "表3Kinetics 实验结果对比",
+            "Tab.3Comparison results on Kinetics "
+        ],
+        "table_footnote": [
+            "3.2.6在Kinetics 数据集上与其他算法的对比"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">epoch</td><td colspan=\"2\">STGCN[19](spatial)</td><td colspan=\"2\">文献[25]</td><td colspan=\"2\">本文算法</td></tr><tr><td>top-1</td><td>top-5</td><td>top-1</td><td>top-5</td><td>top-1</td><td>top-5</td></tr><tr><td>5</td><td>3.56</td><td>11.89</td><td>5.41</td><td>16.29</td><td>5.65</td><td>17.10</td></tr><tr><td>10</td><td>4.19</td><td>14.23</td><td>6.84</td><td>20.14</td><td>5.96</td><td>18.13</td></tr><tr><td>15</td><td>6.40</td><td>18.23</td><td>6.59</td><td>19.31</td><td>14.66</td><td>33.62</td></tr><tr><td>20</td><td>7.11</td><td>19.64</td><td>7.67</td><td>21.63</td><td>17.17</td><td>37.08</td></tr><tr><td>25</td><td>14.87</td><td>33.88</td><td>15.19</td><td>34.24</td><td>22.77</td><td>44.69</td></tr><tr><td>30</td><td>16.37</td><td>35.85</td><td>17.26</td><td>37.26</td><td>23.33</td><td>44.66</td></tr><tr><td>35</td><td>22.77</td><td>44.77</td><td>22.94</td><td>42.31</td><td>25.48</td><td>47.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比方法包括使用特征编码方法(Feature Coding)[28]，以及基于深度学习的DeepLSTM[4]和TSN[15]。特征编码方法主要通过从骨架序列中提取人体运动信息，并使用稀疏编码等方法获取特征向量进而行为识别。本节分别比较了几种算法在top-1和top-5精度方面的识别性能，结果如表4所示。所提方法相比于Deep LSTM在 top-1 和 top-5 的识别率分别提高了 $9 . 0 8 \\%$ 和 $1 1 . 8 1 \\%$ 。但是在该数据集上的平均识别率整体偏低不到 $50 \\%$ 。主要原因在于该视频采集大多基于开放环境且手持设备拍摄不稳定性高，以及大镜头运动造成行为模糊度较高，导致骨架提取难度大。因此，即便构建节点自适应分区与关联模型，识别准确率仍偏低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9592d49d120be02708fe5907f6d4a18d2a313864babae98a227ee333b4bd6208.jpg",
+        "table_caption": [
+            "表4Kinetics数据集上与其他算法的实验对比",
+            "Tab.4Comparison results with other three methods on Kinetici "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Methods</td><td>Top-1</td><td>Top-5</td></tr><tr><td>Deep LSTM[4]</td><td>16.40</td><td>35.30</td></tr><tr><td>Feature Coding[26]</td><td>19.53</td><td>36.71</td></tr><tr><td>TSN[15]</td><td>23.69</td><td>44.15</td></tr><tr><td>本文算法</td><td>25.48</td><td>47.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在基于视频的行为识别任务中，冗余信息通常会导致模型训练耗时长且对资源需求高，有效识别结果的准确性。实践已证明使用关键姿态帧图像能有效判别行为类别。基于此，本文在STGCN模型基础上引入深度强化子网络来学习和评估序列中不同帧的重要性，提取关键帧以表达视频，并通过姿态估计获得骨骼信息。通过节点自适应模型学习非自然连接状态下的节点间关联，以扩展节点的运动变化对识别的影响。在NTU-RGB $+ \\mathrm { D }$ 和Kinetics两个具有挑战性的大规模数据集上的测试效果相比于几种主流的识别技术FeatureCoding、Lie Group、DeepLSTM、TSN以及Clips+CNN+MTLN皆呈现一定程度的提升。值得注意的是节点关联模型虽然能建立非自然分区下的节点联系，但为了降低计算复杂度关联参数9和 $\\rho$ 的选择不宜过大。本文为在重复实验条件下选择最优参数，因此如能通过建立合适的目标函数进一步自动优化参数选择是后续研究的重要内容。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhang Hongbo,Zhang Yixiang,Zhong Bineng,et al.A comprehensive survey of vision-based human action recognition methods [J]. Sensors 2019,19:1005-1025.   \n[2]Wang Zhengwei, She Qi, Smolic A.ACTION-NET: Multipath excitation for action recognition[C]./Proc ofIEEE Conference on Computer Vision and Pattern Recognition.Piscataway,NJ:IEEE Press,2O21.https://doi. org/10.48550/arXiv.2103.07372.   \n[3]Wang Limin,Tong Zhan,Ji Bin Ji,et al.TDN:Temporal Difference Networks for Efficient Action Recognition [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition,Piscataway, NJ: IEEE Press,2021.https://doi.org/10.48550/arXiv.2012.10071.   \n[4]Shahroudy A,Liu Jun,Tsong N T,et al. NTU RGB+D:A large scale dataset for 3D human activity analysis [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway,NJ:IEEE Press, 2016:1010-1019.   \n[5]Kay W,Carreira J,Simonyan K,et al. The kinetics human action video dataset[EB/OL].(2017).https://doi.org/10.48550/arXiv.1705.06950.   \n[6]Krizhevsky A,Sutskever I,Hinton G E.ImageNet classification with deep convolutional neural networks[C]./Proc of International Conference on Neural Information Processing Systems,2012,1097-1105.   \n[7]Ji Shuiwang,Xu Wei,Yang Ming,et al.3D Convolutional neural networks for human action recognition [J]. IEEE Trans on Pattern Analysis and Machine Intelligence (PAMI),2012,35 (1): 221-231.   \n[8]徐冰冰，岑科廷，黄俊杰，等．图卷积神经网络综述[J].计算机学 报,2020,43 (5):755-780.(Xu Bingbing,Cen Keting,Huang Junjie,et al.A survey on graph convolutional neural network [J].Chinese Journal of Computers,2020,43 (5): 755-780.)   \n[9]Duvenaud D,Maclaurin D,Aguilera J,et al. Convolutional networks on graphs for learning molecular fingerprints [J].Advances in Neural Information Processing Systems,2015:2224-2232.   \n[10]谢昭，周义，吴克伟，等．基于时空关注度LSTM的行为识别[J]. 计算机学报,2021,44(2):261-274.(Xie Zhao, Zhou Yi,Wu Kewei,et al.Activity Recognition Based on Spatial-Temporal Attention LSTM[J]. Chinese Journal of Computers,2021,44 (2): 261-274.)   \n[11] Caramalau R,Bhatarai B,Kim T K. Sequential graph convolutional network for active learning[C]./Proc ofIEEE Conference on Computer Vision and Pattern Recognition,Piscataway，NJ:IEEE Press,2021. https://doi.org/10.48550/arXiv.2006.10219.   \n[12] Zhao Hang,TorralbaA,Torresani L,et al. Hacs: Human action clips and segments dataset for recognition and temporal localization [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019: 8668-8678.   \n[13] Li Kunchang，Li Xianhang，Wang Yali,et al.CT-net: Channel tensorization network for video classification [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway, NJ: IEEE Press,2018.htps://doi.org/10.48550/arXiv.2106.01603.   \n[14] Vemulapalli R,Arrate F,Chellappa R,et al. Human action recognition by representing 3D skeletons as points in a lie group [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway, NJ: IEEE Press,2014: 588-595.   \n[15] Wang Limin,Xiong Yuanjun,Wang Zhe,et al.Temporal Segment networks: Towards good practices for deep action recognition[C]./Proc of IEEE Conference on European Conference on Computer Vision,2016. https://doi.org/10.48550/arXiv.1608.00859.   \n[16] Qiu Hongke,Mohammed B, Senjian A,et al.A new representation of skeleton sequences for 3D action recognition [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway, NJ: IEEE Press,2017.htps://doi.org/10.48550/arXiv.1703.03492.   \n[17] Christoph F,Hao Qifan,Jitendra M,et al. Slow fast networks for video recognition [C]./Proc of IEEE International Conference on Computer Vision,2019:6201-6210.   \n[18] Cheng Xiaopeng，Feng Dapeng. Skeleton embedded motion body partition for human action recognition using depth sequences [J]. Signal Processing,2018,143: 56-68.   \n[19] Yan Sijie,Xiong Yuanjun,Lin Dahua.Spatial temporal graph convolutional networks for skeleton-based action recognition [C]./Proc of the Thirty-second AAAI Conference on Artificial Intelligence.Menlo Park,CA: AAAI Press,2018,32 (01): 7444-7452.   \n[20] Shi Lei,Zhang Yifang,Cheng Jian，et al. Skeleton-Based Action Recognition with Directed Graph Neural Networks [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway, NJ: IEEE Press,2019: 7912-7921.   \n[21] Cheng Ke,Zhang Xifan,He Xiangyu,et al. Skeleton-based action recognition with shift graph convolutional network [C]./Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway, NJ: IEEE Press,2020:183-192.   \n[22] Shi Lei,Zhang Yifang,Cheng Jian,et al.Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [J].IEEE Trans on Image Processing,2020,29:9532-9545.   \n[23] Zhao Yuerong,Guo Hongbo,Gao Ling,et al.Multifeature fusion action recognition based on key frames [J].Concurrency & Computation Practice& Experience,2021,2021(3）.htps://doi.org/10.1002/cpe. 6137.   \n[24] Liu Di,Xu Hui,Wang Jianzhong,et al.Adaptive Attention Memory Graph Convolutional Networks for Skeleton-Based Action Recognition [J].Sensors,2021,21: 6761-6780.   \n[25]刘锁兰，顾嘉晖，王洪元，等．基于关联分区和 ST-GCN的人体行为 识别[J].计算机工程与应用,2021,57(3):168-178.(Liu Suolan,Gu Jiahui,Wang Hongyuan,et al.Human behavior recognition based on associative partition and ST-GCN [J].Computer Engineering and Application,2021,57 (3): 168-178.)   \n[26] Jian Meng,Zhang Shuai,Wu Lifang,et al.Deep key frame extraction for sport training [J].Neurocomputing,2019,328:147-156.   \n[27]陈煜平，邱卫根．基于视觉的人体行为识别算法研究综述[J].计算 机应用研究,2019,36（7):1927-1934.(Chen Yuping,Qiu Weigen. Survey of human action recognition algorithm based on vision [J]. Application Research of Computers,2019,36 (7):1927-1934.)   \n[28] Zhang Yixiang,Zhang Hongbo,Du Jixiang,et al.RGB $+ 2 \\mathrm { D }$ skeleton: local hand-crafted and 3D convolution feature coding for action recognition [J]. Signal,Image and Video Processing,2021,2021 (15): Article ID 1386. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

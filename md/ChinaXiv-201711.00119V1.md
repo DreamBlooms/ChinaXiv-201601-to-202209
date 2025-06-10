@@ -1,0 +1,187 @@
+# DOI:10.5846/stxb201606121121
+
+张继平,乔青，刘春兰,王海华，裴厦.基于最小累积阻力模型的北京市生态用地规划研究.生态学报,2017,37（19):6313-6321.ZhangJP,QiaoQ,LiuCL,WangHHPeiScolgicalanduseplaigfoeijingCitasedteiuumlaiveresistaceodelActaEcologica Sinica,2017,37(19) :6313-6321.
+
+# 基于最小累积阻力模型的北京市生态用地规划研究
+
+张继平1,2,3，乔青1,2,3，刘春兰1,2,3，\*，王海华1,2,3，裴厦1,23
+
+1北京市环境保护科学研究院，北京100037  
+2国家城市环境污染控制工程技术研究中心，北京100037  
+3国家环境保护工业废水污染控制工程技术(北京)中心，北京100037
+
+摘要;生态用地规划强调对区域生态系统结构与功能的保护,增强社会经济发展的生态环境支撑能力。从保障首都基本生态安全、改善大气环境质量、建设宜居城市的角度出发,通过对北京市生态重要性进行综合评价,明确北京市重要生态用地空间分布特征。在此基础上,采用最小累积阻力模型(MCR),以重要生态用地为“源”,以土地覆被类型、距道路距离和距居民点距离作为阻力因子生成阻力面,模拟重要生态用地空间扩张过程,进而设置生态用地规划情景,并从景观连通性、生态功能保障度及与现状建设用地冲突情况等3个方面对不同情景下的生态用地规划方案进行保护效能评价，最终提出北京市生态用地的适宜规模和优化布局方案。研究结果表明：北京市重要生态用地总面积为 $9 8 7 9 { \mathrm { ~ k m } } ^ { 2 }$ ,占市域总面积的 $6 0 . 2 0 \%$ ;生态用地的适宜规模为$1 2 4 1 7 ~ \mathrm { k m } ^ { 2 }$ ,占市域总面积的 $7 5 . 6 7 \%$ ,其中,平原区生态用地的适宜规模为 $2 9 4 4 ~ \mathrm { k m } ^ { 2 }$ ,占平原区总面积的 $4 6 . 4 5 \%$ ,主要分布于建成区的外围过渡地带;山区生态用地的适宜规模为 $9 4 7 3 { \mathrm { ~ k m } } ^ { 2 }$ ,占山区总面积的 $9 4 . 0 5 \%$ 0
+
+关键词：生态用地;最小累积阻力模型(MCR)；土地利用规划;北京市
+
+# Ecological land use planning for Beijing City based on the minimum cumulative resistance model
+
+ZHANG Jiping1,2,3，QIAO Qing1,2,3，LIU Chunlan1,2,3,\*，WANG Haihua1,2,3，PEI Sha1,2,3
+
+1Beijing Municipal Research Institute of Environmental Protection,Beijing 1Ooo37,China   
+2National Engineering Research Centerof Urban EnvironmentalPollution Control,Beijing 1Ooo37,China   
+3State EnvironmentalProtectionEngineering（Beijing）CenterforIndustrial WastewaterPutionControl，BeijingoChina
+
+Abstract:Ecological land planning places emphasis on protecting the structure and function of regional ecological systems andreinforcing the eco-environmental supportcapacityof social-economic development.Allowing for thecomprehensive consideration of ecological securitydemands，air-qualityimprovementrequirements，and livable cityneeds，we firstly identifiedpivotalecologicallandbasedonan integratedevaluationof theecologicalimportanceofBeijingCity.Ecological importance was evaluated usingananalysis of ecological qualityand function.The keyareas，with great importance to the improvementoftheatmosphericandresidential environments，were identified.Ecological qualitywas basedonvegetation coverage and biomassusing 3Stechnology.Theecological functionsof waterconservation，soilconservation，and biodiversity maintenance wereevaluated using theintegrated water storage capacitycalculation，theuniversalsoil loss equation，and InVEST（Integrated ValuationofEcosystem Servicesand Trade-ofs）model，respectively.Forestresource inventorydatawereused to identify keyareaswith great importancetotheimprovementof atmospheric environmental quality.Distribution maps offorest parks，nature reserves，water source conservation areas，and scenic spots were used to identifykeyareasofgreatimportancetotheimprovementofresidentialenvironments.Pivotalecologicallandwasfinally identifiedbyspatialoverlayanalysisusingtheArcGIS1O.1 softwareplatform.Secondly，weconsideredthepivotal ecological landas the“source,”andbuiltupon theresistancesurface according to landuse type，distanceto roads，and distanceto setlements torun the minimum cumulativeresistance modeland simulate thespatial expansion of ecological land.From this，weestablished threeplanningscenarios forecologicalland.Thirdly，ecological protectionefectivenessunderdierent planning scenarios wasevaluatedbyanalyzing landscapepaterns，protection levels for ecological functions，andconflicts with actual construction areas.Landscape paterns were analyzedbycalculating landscape indexes using Fragstats 4.2 software.Theprotectionlevel ofecologicalfunctionswasdeterminedbyweightcalculations.Conflictswith actual construction areas were based on spatial analysis statistics.Finally，we chose the best planning scenario，anddetermined theminimum scaleandoptimized spatial patternforecologicalland.Theresultsshowedthat1）theareaof pivotalecological land in Beijing City covered $9 8 7 9 \ \mathrm { k m } ^ { 2 }$ ，accounting for $6 0 . 2 0 \%$ of the total area of the city；2） the area of minimum ecological land was $1 2 4 1 7 ~ \mathrm { k m } ^ { 2 }$ ，accounting for $7 5 . 6 7 \%$ of the total area of the city；3） the area of minimum ecological land in plain terrain was $2 9 4 4 \mathrm { ~ k m } ^ { 2 }$ ，accounting for $4 6 . 4 5 \%$ of total plain terrain area,and was mainly located in the surrounding transitionareas of the construction areas；and4）thearea of the minimum ecological land in mountainousareas was 9473 （204号 $ { \mathrm { k m } } ^ { 2 }$ ，accounting for $9 4 . 0 5 \%$ of total mountainous area. The minimum ecological land area in this study was larger than that inother similar studies.Our study took notonly the demandof ecological security into consideration but also the major environmental problemsandurban construction targetareasof Beijing City.The keyareas with great importance to he improvement ofatmosphericandresidential environmentalconditions wereanalyzed togetherand givenecological importance.Therefore,theminimum scaleandoptimized spatial patern of ecological landin this study was more practical and corresponded with the development demands of the city.
+
+Key Words:ecological land;minimum cumulative resistance model （MCR）；land use planning；Beijing City
+
+生态用地具有涵养水源、调节小气候(净化空气、保护野生生物、提供游憩场所等生态功能,是一个区域生态环境质量好坏的晴雨表[-2]。随着社会经济的高速发展和城市加速扩张,生产建设对土地的需求越来越高,使得原有的生态用地被大量挤占,许多具有特殊生态价值的土地如森林、草地、湿地等丧失其生态功能,使本来就十分脆弱的生态系统日趋恶化,进而导致诸多环境问题[3]。与此同时,人们生活水平也在逐步提高，对生活质量的要求越来越高,在这种背景下,合理规划生态用地,保护必需的生态用地,使其发挥良好的生态环境调节功能,是保障城市生态安全、提高居民生活环境质量的重要保障[45]。近年来,我国在自然资源管理中对生态用地的保护日臻重视,尤其在各类空间管制规划中,对生态用地的保护都给予了很高的关注[6-8]
+
+目前,国内外关于生态用地规划方法大概可以分为两类。一类是基于生态功能重要性或生态敏感性评价进行的生态用地划分[9-10],这种方法重视土地属性和自身生态功能,但忽视生态用地在空间上的联系。另一类意识到通过格局优化可提高生态用地效能,因此在生态功能重要性评价的基础上,再基于景观生态学的基本原理进行生态用地规划。张林波等[11]将 Forman 的景观生态概念模型[12]与生态功能重要性评价结合起来,分别以市域面积的 $3 0 \% . 4 0 \% . 5 0 \%$ 和 $6 0 \%$ 提取相应的生态用地,并定性分析了4种情景下格局的连通程度,最终将 $5 0 \%$ 定为深圳市最小生态用地的规模。关小克[13]采用与张林波类似的方法,提取了北京市市域面积的 $4 0 \%$ $5 0 \%$ ， $6 0 \%$ 作为生态用地的情景,认为 $6 0 \%$ 的情景下可以将全境内的生态种子斑块予以关联，建议至少将 $6 0 \%$ 国土面积作为北京市的生态用地。俞孔坚等[14]强调生态用地的“最小”概念,即通过最少面积的保护实现最大生态保护的功效,以北京市东三乡为例,采用最小累积阻力模型(MCR)分析了基于雨洪管理和生物保护需求的生态用地。采用最小累积阻力模型研究生态用地的方法可以在关注土地斑块本身生态功能大小的基础上，更加关注斑块之间的生态联系,强调通过提高景观连通性等格局优化策略促进生态功能的高效发挥[15-16]。现有生态用地的相关研究多以自然保护区、风景名胜区等各类生态保护用地的空间分布数据为基础进行分析[17-20],尚缺少对生态质量、城市主要环境问题及居民对宜居的要求等方面的综合考量,因此,估算得到的生态用地规模稍显片面。
+
+本研究采用官方文件对生态用地的界定[6],将具有重要生态功能的草地、林地和湿地视为生态用地,综合考虑北京市的自然环境状况、城市发展水平及市民对生活质量的要求,从保障首都基本生态安全、改善大气环境质量、建设宜居城市的角度出发,基于对北京市生态重要性评价,明确北京市重要生态用地空间分布特征。在此基础上,采用最小累积阻力模型(MCR),模拟分析北京市重要生态用地空间扩张过程,进而通过情景划定和生态用地保护效能评估,提出北京市生态用地的适宜规模和优化布局方案,为首都生态环境保护和城市规划设计提供技术支撑。
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+北京市地处华北平原西北边缘， $3 9 ^ { \circ } 2 6 ^ { \prime } \mathrm { - } 4 1 ^ { \circ } 0 3 ^ { \prime } \mathrm { N }$ ， $1 1 5 ^ { \circ } 2 5 ^ { \prime } - 1 1 7 ^ { \circ } 3 0 ^ { \prime } \mathrm { E }$ ,总面积为 $1 6 4 1 0 ~ \mathrm { k m } ^ { 2 }$ 。地势西北高、东南低。西部山地属太行山脉,北部山地属燕山山脉,北部与内蒙古高原相连。山地一般海拔 1000—$1 5 0 0 \mathrm { ~ m ~ }$ ,平原海拔20- ${ \cdot 6 0 \mathrm { ~ m ~ } }$ 。北京属暖温带半湿润大陆性季风气候,年平均气温 $1 0 { \ - } \mathrm { - } 1 2 \%$ ,年平均降水量600$\mathbf { m } \mathbf { m }$ 左右,降水季节分配不均,全年降水的 $7 5 \%$ 集中在夏季。全年无霜期 $1 8 0 { - } 2 0 0 \ \mathrm { d }$ 。冬季多偏北或西北风，夏季多偏南或东南风。北京市拥有森林、草地、灌丛、湿地、农田与城镇等多种生态系统类型,在自然环境与人类活动的相互作用下,北京市自然生态系统、农业生态系统和城市生态系统表现为以城区为核心的圈层结构[3]。根据 2014年 SPOT卫星影像解译结果,北京市建设用地面积为 $3 1 6 5 . 9 9 ~ \mathrm { k m } ^ { 2 }$ ,占北京市总面积的$1 9 . 2 9 \%$ ;平原地区主要分布以人工植被为主的农田生态系统，面积 $2 5 6 3 . 8 9 ~ \mathrm { k m } ^ { 2 }$ ,占比为 $1 5 . 6 2 \%$ ;远郊山区多为森林生态系统,面积 $8 8 8 8 . 0 9 ~ \mathrm { k m } ^ { 2 }$ ,占比为 $5 4 . 1 4 \%$ 。草地、湿地等生态系统面积占比较小。
+
+# 1.2 研究方法
+
+# 1.2.1 最小累积阻力模型
+
+最小累积阻力模型指物种在从源到目的地运动过程中所需耗费代价的模型，它最早由Knaapen 于1992年提出[21]，之后该模型被应用到多种自然生态或人文过程的研究[28]。MCR 模型在众多的应用中,充分展示了其在分析各种过程在水平空间扩张方面的良好适应性和可扩张性,其计算公式如下：
+
+$$
+\mathrm { M C R } = f \mathrm { m i n } \sum _ { j = n } ^ { i = m } \ D _ { i j } \ \times R _ { i }
+$$
+
+式中，MCR指最小累积阻力值， $D _ { i j }$ 指生态用地从源 $i$ 到 $j$ 的空间距离； $R _ { i }$ 表示栅格 $i$ 对生态用地空间扩张的阻力系数。£表示栅格 $\mathbf { \chi } _ { i }$ 与源 $j$ 之间穿越所有单元的距离和阻力的累积 $_ { ; f }$ 表示最小累积阻力与生态过程的正相关关系。该模型可通过ArcGIS的cost-distance 模块实现。
+
+# 1.2.2 模型假设
+
+将最小累积阻力模型用于生态用地规划的研究是建立在以下假设中进行的,即生态用地扩张可以被看作是在空间水平方向上,生态用地从“源"沿"空间阻力面"扩张的过程。在此假设前提下,生态用地在水平扩张过程中,由于土地覆被的空间异质性,在不同的土地单元所受阻力不一,可以根据累积阻力值确定生态用地的面积和布局。
+
+# 1.2.3 扩张源确定
+
+本研究将北京市重要生态用地视为生态用地规划中的扩张源,重要生态用地通过生态重要性评价确定。本研究以保障首都基本生态安全、改善大气环境及建设宜居城市为目标,开展生态用地重要性评价,评价分两个层次进行。
+
+首先,进行单项生态重要性评价，包括：
+
+1)生态功能重要性评价从生态质量和生态功能两个方面进行评估。其中,生态质量评估以植被覆盖度及生物量为主要的生态质量因子进行分析。植被覆盖度以空间分辨率为 $2 5 0 \mathrm { ~ m ~ }$ 的MODISNDVI数据为数据源,在对数据进行拼接、剪裁、投影转换、滤波去噪等预处理的基础上,获取 2000—2015 年 NDVI各年度平均值,在此基础上,计算植被覆盖度。最后,计算植被覆盖度的多年平均值。生物量通过建立森林、草地和农田等典型样地生物量与光谱反射率的拟合关系得到。在对植被覆盖度及生物量进行重要性分级的基础上，明确北京市高生态质量区域的空间分布。
+
+生态功能评估内容主要包括水源涵养、土壤保持、生物多样性等。水源涵养功能评估综合考虑地表覆盖类型、发育度指数、径流系数等因素,采用程根伟等[29]提出的水源涵养量计算公式对北京市生态系统水源涵养功能进行估算;土壤保持功能主要基于北京市月降水量、土壤类型、地形、植被覆盖度及土地利用等数据,采用通用土壤流失方程USLE（Universal Soil Loss Equation）[30]估算土壤侵蚀量,明确土壤侵蚀敏感性;生物多样性维持功能采用 InVEST(Integrated Valuation of Ecosystem Services and Trade-offs）模型下的生物多样性评价模块[31|进行评估,该模型采用土地利用/土地覆盖信息,结合各种对生物多样性构成威胁的生态威胁因子,在区域景观格局上对其生境质量、生境退化状况及生境多样性情况进行总体评价。该模型需要的空间分析数据有生态威胁因子的影响范围、土地利用类型数据、各土地利用类型对于生态威胁因子的敏感程度等。威胁因子的影响范围通过计算其与生态系统中各地类斑块的空间距离来确定。本研究综合考虑北京市城镇交通工具限制和经济发展水平,对最大影响距离、权重及相关性指数进行设置。同时,依照生态学和景观生态学中生物多样性保护的一般性要求,把不同地类对威胁因子的敏感度按照由高到低的原则来划分，进而分析得到具有较高生物多样性维持功能的区域。为与生态质量评估的评价单元保持→致,生态功能评价过程中涉及到的各因子的评价单元均设置为250 m。
+
+2)改善大气环境的生态功能重要性评价不同森林类型的滞尘及吸收污染物能力有所不同,同一森林类型,由于群落结构特征的不同,其滞尘及吸收污染物能力也存在差异。本研究依托北京市森林二类调查小班数据,以森林类型、优势树种、分布面积、蓄积量、植被盖度等为主要指标,识别出具有较高滞尘及吸收污染物能力的重要生态用地。 人
+
+3)改善人居环境重要性评价根据北京市地貌特征、自然环境特征及生态系统分布特征,针对山区、平原区及城区等3个不同地域单元的绿地系统特征及关键绿地进行分析和识别。同时,综合考虑重要北京市生态屏障、重要生态走廊,以及森林公园、自然保护区、水源地保护区、风景名胜区等各类保护用地,确定改善人居环境的重要生态用地。
+
+在完成单项生态功能重要性评价的基础上,将栅格数据转换为矢量数据,进而在ArcGIS 软件平台下进行空间叠加,对空间上重叠的区域进行合并处理,最终明确北京市重要生态用地的空间分布特征。
+
+# 1.2.4 阻力面确定
+
+以北京市重要生态用地为“源”,分析生态用地从“源”向外扩张过程中所遇到的累积阻力。本研究主要考虑的阻力因子包括土地覆被类型、距道路距离和距居民点的距离。根据生态用地性质,对北京市土地覆被类型的扩张阻力等级进行排序,并设定阻力系数。根据距离道路和居民点的距离,设定不同级别,分别设置阻力系数。根据土地覆被类型、距道路距离和距居民点距离等3个阻力因子的阻力系数,分别生成阻力因子的栅格数据,对三层阻力栅格数据进行求和运算,得到生态用地扩张的空间阻力面数据。
+
+1.2.5北京市最小生态用地规模与格局耦合分析与评价
+
+根据北京市重要生态用地空间分布数据及阻力面数据,运用 ArcGIS 中的cost-distance 模块进行累积阻力计算,得到重要生态用地“源”在市域范围内空间扩张的阻力值。基于MCR阻力值建立的频率序列识别出“拐点值”,根据不同拐点值形成不同的生态用地规划情景方案。进而,从景观连通性、生态功能保障度及与现状建设用地冲突情况等3个方面对不同生态用地规划方案进行综合评价，根据评价结果,确定北京市生态用地的适宜规模与优化布局方案。
+
+# 2研究结果
+
+# 2.1北京市重要生态用地空间分布
+
+为明确北京市重要生态用地的空间分布，本研究对北京市全市域的植被覆盖度、生物量、水源涵养功能、土壤保持功能、生物多样性维持功能、改善大气环境的生态功能重要性和改善人居环境重要性等要素分别进行了评估，并对评估结果进行空间叠加分析，进而明确北京市重要生态用地空间分布(图1)。北京市重要生态用地总面积达 $9 8 7 9 ~ \mathrm { k m } ^ { 2 }$ ，占北京市市域总面积的$6 0 . 2 0 \%$ ，主要分布于北京市山区，城区和平原区呈零散分布。
+
+# 2.2生态用地扩张的阻力面
+
+在生态用地扩张过程中，不同的土地覆被类型会产生不同的阻力，根据生态用地性质及结构特征，北京市土地覆盖类型的生态阻力等级可进行如下排序：林地<水域和湿地<草地<未利用地<耕地<建设用地。各种地表覆盖的相对阻力系数分别拟定在0—500之间。同时,道路和居民点也会对生态用地的扩散产生阻力,距离道路和居民点越近,则生态用地的扩张阻力越大。生态用地扩张的阻力因子及其阻力系数见表1。需要指出,这些阻力系数是由研究组根据专家意见和有关资料得出的相对值,只反映相对的阻力概念,不是绝对的。但由于阻力面计算的目的是要反映相对的趋势,所以，相对意义上的阻力系数仍然具有意义[16]。基于各阻力因子的阻力系数,通过栅格运算得到的生态用地扩张的阻力面数据（图2）。
+
+![](images/f054a9ad5104b154498af69263178c2e70e0bda2d1445000b2825547df4e7ca4.jpg)  
+图1北京市重要生态用地空间分布图Fig.1Spatial distribution of pivotal ecological land
+
+# 表1生态用地扩张阻力因子与阻力系数
+
+Table 1 Resistance factors and resistance coefficients of ecological land expansion   
+
+<html><body><table><tr><td>阻力因子 Resistance factors</td><td>阻力因子分类/分级 Classification/ grading of resistance factors</td><td>阻力系数 Resistance coefficients</td><td>阻力因子 Resistance factors</td><td>阻力因子分类/分级 Classification/ grading of resistance factors</td><td>阻力系数 Resistance coefficients</td></tr><tr><td>土地覆被类型</td><td>有林地</td><td>1</td><td></td><td>其他未利用地</td><td>100</td></tr><tr><td>Land cover type</td><td>河流(渠)</td><td>1</td><td></td><td>旱地</td><td>300</td></tr><tr><td rowspan="10">nttp</td><td>湖泊</td><td>1</td><td></td><td>菜地</td><td>300</td></tr><tr><td>河湖湿地</td><td>10</td><td></td><td>农村居民点</td><td>400</td></tr><tr><td>灌木林地</td><td>10</td><td></td><td>其他建设用地</td><td>400</td></tr><tr><td>疏林地</td><td>10</td><td></td><td>城镇建设用地</td><td>500</td></tr><tr><td>园林地</td><td>20</td><td>距道路距离</td><td><50</td><td>500</td></tr><tr><td>高覆盖度草地</td><td>20</td><td>Distance to roads/m</td><td>50—200</td><td>300</td></tr><tr><td>中覆盖度草地</td><td>30</td><td></td><td>200—500</td><td>200</td></tr><tr><td>低覆盖度草地</td><td>40</td><td></td><td>500—1000</td><td>100</td></tr><tr><td>人工草地</td><td>50</td><td>距居民点距离</td><td>>1000 <100</td><td>10</td></tr><tr><td>水田 沙地</td><td>100 100</td><td>Distance to</td><td>100—500</td><td>500</td></tr><tr><td></td><td>盐碱地</td><td>100</td><td>settlements/m</td><td>500—1000</td><td>300</td></tr><tr><td></td><td>裸土地</td><td>100</td><td></td><td>>1000</td><td>100</td></tr><tr><td></td><td>裸岩石砾</td><td></td><td></td><td></td><td>10</td></tr><tr><td></td><td></td><td>100</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3北京市生态用地规划的情景模式分析
+
+2.3.1北京市生态用地规划的情景模式设定
+
+根据北京市重要生态用地空间分布数据及阻力面数据,运用 ArcGIS 中的cost-distance 模块进行累积阻力计算,得到重要生态用地“源”在市域范围内扩张的累积阻力值（图3）。
+
+![](images/7fc681419a8aed5544b052ca9585396f86f40255fc42f2aabc24f903d4804c33.jpg)  
+图2生态用地扩张阻力系数空间分布图  
+Fig.2Spatial distribution of resistance coefficients of ecological land expansion
+
+![](images/163aae475379aa838943da79d86db0a40e034a61d280d0ee31e6c1f08500613c.jpg)  
+图3生态用地扩张累积阻力分级图  
+Fig.3Cumulative resistance classification of spatial expansion of ecological land
+
+总体而言,北京市山区以林地为主,生态用地空间扩张阻力相对较小,适于生态用地的扩张。北京市建成区、各区县建成区、平原区耕地分布地区,尤其是东南部耕地集中分布区范围内的阻力较高,不宜于生态用地的扩张。
+
+基于生态用地空间扩张阻力分析结果，根据重要生态用地“源”在市域范围内扩张的累积阻力值栅格数据的频数统计数据，识别频数序列中的"拐点值”分别为1000,10000和30000,根据这3个拐点（图4）,分别设定3种北京市生态用地规划情景,如图5所示。
+
+# 2.3.2不同生态用地规划情景的生态保护效能评价
+
+为确定最佳的生态用地规划情景，本研究从景观格局、生态功能保障度及与现状建设用地冲突情况等3个方面对3种规划情景下的生态用地保护效能进行评价,并结合北京市土地利用现状及社会经济发展背景进行综合分析。
+
+【本研究采用Fragstats 4.2景观格局分析软件,对3种生态用地规划情景的景观格局指数进行分析。主要计算生态用地的连通性指数和聚集度指数,指数值越高,表明生态用地的空间分布格局越有利于生态功能的发挥,计算结果见表2。
+
+为定量分析各情景的生态功能保障度，本研究将生态用地占比最大的情景三视为生态功能得到 $100 \%$ 保障,在此前提下,综合考虑主要的生态功能保护类型和面积,设置不同权重,对情景一和情境二的生态用地生态功能保障度进行评价。假设生态用地总的生态功能保障度为1,则生态功能、改善大气环境功能和改善人居环境等三大类别的权重依次为0.5,0.3和0.2。其中,反映生态功能的5个指标：植被覆盖度、单位面积生物
+
+![](images/3764267a761a9be584d83b95ed96a9123442ab1032336c05ac69a1b8551533d1.jpg)  
+Fig.4Relationship of cumulative resistance value and grid number
+
+![](images/0c9e8cca9039870fa10b7a23c67542e7594b4e8bbe14ef05ef0e1db31191defd.jpg)  
+图4累积阻力值与栅格数量的关系  
+图5北京市生态用地规划情景设定  
+Fig.5Planning scenarios of ecological land of Beijing City
+
+http://www.ecologica.cn
+
+量、土壤侵蚀敏感度、水源涵养量及生物多样性维持功能各占生态功能保护效能的 $2 0 \%$ ;滞尘及吸收污染物功能各占改善大气环境保护效能的 $5 0 \%$ ;自然保护区、山区关键林地、建成区绿地、道路防护林、河流水系及饮用水源地一级保护区各占改善人居环境保护效能的 $1 0 \% 1 0 \% 3 0 \% 2 0 \% 2 0 \%$ 和 $10 \%$ 。在ArcGIS中，根据各指标的权重,生成每个指标的权重栅格,将所有指标权重栅格进行求和运算,得到生态功能保障度权重栅格图层。在此基础上,与各情景下的生态用地空间分布数据相结合,统计出不同情境下生态用地生态功能保障度的总权重。将情境一和情境二的生态用地生态功能保障度总权重与情境三进行比较,最终得到各情景下生态用地的生态功能保障度,计算结果见表2。
+
+同时,将3种情景下的生态用地空间分布与现状建设用地空间分布进行叠加分析,分析不同情景下的生态用地空间布局与现状建设用地布局的空间冲突情况,并进行面积统计（表2）。
+
+表23种生态用地规划情景对比  
+Table2Comparison of three planning scenarios of ecological lar   
+
+<html><body><table><tr><td></td><td>Tablc2 生态用地面积 Ecological land</td><td>Conparsonor 生态用地占比 Ecological</td><td>planhngSccharosorteorogrkarTand 连通性指数 Connectivity</td><td>生态功能保障度 与现状建设用地 Confcs面 with</td></tr><tr><td>情景方案</td><td>area/km²</td><td>land ratio/%</td><td>index</td><td>function/% actual construction/km² 67.85</td></tr><tr><td>情景一 Scenario 1</td><td>9826</td><td>59.88</td><td>0.31 2.46</td><td>533.53 1107.89</td></tr><tr><td>情景二 Scenario 2</td><td>12417</td><td>75.67</td><td>11.74</td><td>2161.43</td></tr><tr><td>情景三 Scenario 3</td><td>14702</td><td>89.59</td><td></td><td></td></tr></table></body></html>
+
+# 2.4北京市最小生态用地规模与布局
+
+由图5和表2可知：3种情景下山区的生态用地规模均较大,平原区生态用地的规模及格局有较大差异性。情景一的生态用地规模,尤其是平原区的生态用地规模较小,从生态用地空间布局来看,虽然与现状建设用地的冲突较小,但是没有形成有效的隔离带,无法有效控制城市的无序扩张,生态用地的景观连通性较低，无法有效发挥生态功能;情景二的生态用地规模较情景一有所增加,尤其体现在平原区生态用地规模的增加。在建成区周边出现了较为明显的楔形生态用地通道及环形生态用地隔离带,生态用地的规模和格局能够保证生态用地的各项生态功能得到较大程度的发挥;情景三的生态用地规模最大,景观连通度、生态功能保障度最大,但是,大面积的生态用地一方面与北京市建成区的现有规模冲突较大，一方面占用了平原区相当面积的基本农田。综合考虑城市土地利用现状、社会经济发展背景以及区域粮食安全等问题,该方案虽为生态用地规划的理想方案,却与城市总体发展和规划不协调,故而不是最佳方案。综上所述,本研究选取情景二作为北京市最小生态用地的空间优化布局方案。对该情景下的生态用地规模及布局进行分析可知：北京市生态用地的适宜规模为 $1 2 4 1 7 ~ \mathrm { k m } ^ { 2 }$ ,占市域总面积的 $7 5 . 6 7 \%$ ,其中,平原区生态用地适宜规模为 $2 9 4 4 ~ \mathrm { k m } ^ { 2 }$ ，占平原区总面积的$4 6 . 4 5 \%$ ,主要分布于建成区的外围过渡地带;山区生态用地适宜规模为 $9 4 7 3 { \mathrm { ~ k m } } ^ { 2 }$ ,占山区总面积的 $9 4 . 0 5 \%$ 。
+
+# 3结论与讨论
+
+本研究采用最小累积阻力模型对北京市生态用地的适宜规模和优化布局方案进行了分析。结果表明：北京市生态用地的适宜规模为 $1 2 4 1 7 ~ \mathrm { k m } ^ { 2 }$ ,占市域总面积的 $7 5 . 6 7 \%$ 。在已有相关研究中，关小克等人[13]通过对生态用地的生态服务功能、景观空间结构和生态敏感性的全面分析,构建生态用地空间重要性的评价模型,并以重要生态用地空间为刚性框架,分别按照保留城市面积 $4 0 \%$ ， $5 0 \%$ ， $6 0 \%$ 作为重点生态用地的情景,提出北京市城市生态用地空间的布局模式,最终建议将至少 $6 0 \%$ 国土面积列入重点生态用地,并给予严格保护。欧阳志云等[3]在明确北京市生态安全与生态系统服务功能的关系基础上分析了北京市生态系统服务功能重要性及其空间格局,规划了保障北京市生态安全的7类生态用地,总面积共计 $5 1 3 7 . 3 7 ~ \mathrm { k m } ^ { 2 }$ ,占北京市域面积的$3 1 . 3 1 \%$ 。与以上研究结果对比发现,本文研究得到的生态用地适宜规模较高,空间上基本囊括了相关研究结果。这一方面是由于采用的分析方法不同,另一方面是由于本研究不仅考虑了保障首都基本生态安全对生态用地的需求，同时针对北京市目前面临的主要环境问题和城市建设目标，增加了对改善大气环境质量和建设宜居城市对生态用地需求的考量,使得研究结果更切合实际,符合城市发展需要。
+
+本研究的实践证明,最小累积阻力模型在城市生态用地规划中的应用可行,该方法相对较客观,操作性较强,其在城市规划领域的深入推广应用还需学者不断研究完善。研究过程中,生态用地扩张阻力因子的选择带有一定的人为主观因素,且难免有遗漏,未来研究中,可进一步增加地形、距各类保护区距离、距主城区距离等阻力因子,细化阻力面数据。同时,未来可尝试采用定量的方法确定出最优的生态用地规划情景,使得研究结果更为客观。
+
+# 参考文献（References）：
+
+［1］宗毅，汪波.城市生态用地的"协调—集约"度创新研究.科学管理研究，2005，23(6)：32-35,57-57.  
+［2］杨荣金，周申立，王兴贵.生态用地研究进展综述.中国环境管理干部学院学报，2011,21（2）：33-35，63-63.  
+[3］欧阳志云，李小马，徐卫华,李煜珊，郑华，王效科.北京市生态用地规划与管理对策.生态学报,2015,35(11)：1-14.  
+[4］李晖，易娜，姚文璟，王思琪，李志英，杨树华.基于景观安全格局的香格里拉县生态用地规划.生态学报，2011,31（20)：5928-5936.  
+[5］俞孔坚，王思思，李迪华，乔青.北京城市扩张的生态底线——基本生态系统服务及其安全格局.城市规划，2010,34（2)：19-24.  
+[6］国家环境总局.关于深入贯彻落实《全国生态环境保护纲要》的通知.（2000-12-06）[2016-02-10].htp:/ww.zhb.gov.cn/gkml/zj/wj/200910/t20091022_172001.htm.  
+[7］环境保护部.关于印发《国家生态文明建设试点示范区指标（试行）》的通知.（2013-05-23）[2016-03-15].ttp://ww.zhb.gov.cn/gkml/hbb/bwj/201306/t20130603_253114.htm#.  
+［8］周朕，蒙吉军，齐杨，彭福利.中国生态用地重要性及其格局优化研究进展.生态学杂志，2016,35(1)：218-225.  
+[9] 刘昕，谷雨，邓红兵.江西省生态用地保护重要性评价研究.中国环境科学，2010，30(5)；716-720.  
+[10] 谢花林，李秀彬.基于GIS 的区域关键性生态用地空间结构识别方法探讨.资源科学，2011,33（1)：112-119.  
+[11］张林波，李伟涛，王维，熊严军.基于GIS 的城市最小生态用地空间分析模型研究——以深圳市为例．自然资源学报，2008，23（1)：69-78.  
+[12]ForanColiSK.atureoediaggdsesidospatialngndapedUbang977(1/2):129-135.  
+[13］关小克，张凤荣，王秀丽，赵华甫，姜广辉.北京市生态用地空间演变与布局优化研究.地域研究与开发，2013,32（3)：119-124.  
+[14]俞孔坚，乔青,李迪华，袁弘，王思思.基于景观安全格局分析的生态用地研究——以北京市东三乡为例.应用生态学报，2009,20（8)：1932- 1939.  
+[15］俞孔坚.生物保护的景观生态安全格局.生态学报，1999，19（1)：8-14.  
+[16] 俞孔坚，王思思，李迪华.区域生态安全格局：北京案例.北京：中国建筑工业出版社，2012.  
+[17] 匡丽花，叶英聪，赵小敏.基于最小累积阻力模型的土地生态适宜性评价——以鄱阳县为例.江西农业大学学报，2014，36（4)：903-910.  
+[18］钟式玉，吴箐，李宇，程金屏.基于最小累积阻力模型的城镇土地空间重构——以广州市新塘镇为例.应用生态学报，2012，23(11)：3173-3179.  
+[19］李谦，戴靓，朱青，杨桂山，吴绍华.基于最小阻力模型的土地整治中生态连通性变化及其优化研究.地理科学,2014,34(6)：733-739.  
+［20］李晶，蒙吉军,毛熙彦.基于最小累积阻力模型的农牧交错带土地利用生态安全格局构建——以鄂尔多斯市准格尔旗为例.北京大学学报：自然科学版，2013，49(4)：707-715.  
+[21]KnaapenJrasBatigbiatolatioidapeplang.sapedUbnng92,6.  
+[22]DongJH,DiWoG，XuJEcolgcalokostrctiobsediuulatieesistaceforeCityofjgna.ISPRS International Journal of Geo-Information，2015，4(4）：2045-2060.  
+[23]Lloret-ltos-JiR，GleFraLoladelaJA.CoveedvcefrtgicaltrostsMediterranean greenhouses. Ecological Modelling，2014，292: 37-44.  
+24]LiF，YeYogBWWngRatifubableolocaldsdotieressaeoelaestuyfrom Changzhou，China.Ecological Modelling，2015，318：194-203.  
+[25] Zhao XQXuXH.ReseahonlndsapeolcalsurityeEytustucedbsedoodivesitoseatiuJournal of Ecology，2015，46(1）：59-70.  
+[26］潘竟虎,刘晓.基于空间主成分和最小累积阻力模型的内陆河景观生态安全评价与格局优化——以张披市甘州区为例.应用生态学报，2015，26(10):3126-3136.  
+[27］彭晋福.应用最小累计阻力模型模拟土地变化——以江苏省扬中市为例[D].北京：北京大学，2000.  
+[28］刘孝富，舒俭民，张林波.最小累积阻力模型在城市土地生态适宜性评价中的应用——以厦门为例.生态学报，2010,30(2）：421-428.  
+[29］程根伟，石培礼.长江上游森林涵养水源效益及其经济价值评估.中国水土保持科学，2004，2（4)：17-20.  
+[30］孙文义，邵全琴，刘纪远.黄土高原不同生态系统水土保持服务功能评价.自然资源学报，2014，29（3）：365-376.  
+[31］孙传谆,甄霖，王超，胡洁，杜秉贞.基于InVEST模型的鄱阳湖湿地生物多样性情景分析.长江流域资源与环境，2015，24（7)：1119- 1125.

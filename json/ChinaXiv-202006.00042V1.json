@@ -1,0 +1,463 @@
+[
+    {
+        "type": "text",
+        "text": "柴达木盆地表土孢粉与植被的关系1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵楠楠，杨振京，宁凯，杨庆华，毕志伟，王攀中国地质科学院水文地质环境地质研究所 河北石家庄050061摘要：通过对柴达木盆地124个样点的表土孢粉分析和植被样方调查，研究了盆地表土孢粉与植被的对应关系。结果表明：柴达木盆地的表土孢粉组合能较好地反应当地植被特征，但是在具体的科属组成上有差异。藜科、蒿属、麻黄属等花粉 $R$ 值大于1，具有超代表性；怪柳属、菊科等花粉 $R$ 值小于1，具有低代表性，但对植被具有一定指示意义；禾本科和白刺属花粉在大多数样点具有低代表性，但禾本科花粉在建群种样点、白刺属花粉在盐碱区都具有适中代表性。主要科属花粉百分比与植被盖度之间具有一定相关性，禾本科、莎草科、菊科、怪柳属的相关性较高，可以建立相应函数关系。盆地西部的无植被区仍有相当含量的花粉，主要为藜科、蒿属、麻黄属、松属等超代表性花粉。盆地蒿属与藜科花粉比值（A/C）呈东南-西北递减趋势，与盆地由东南-西北逐渐干旱的环境特点很好对应。主要草灌木表土花粉数据的主成分分析表明，该区花粉组合主要受水文和土壤盐碱度等因素控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：花粉代表性；R值；花粉百分比；植被盖度；蒿藜比；主成分分析；柴达木盆地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between surface pollen and vegetation in the Qaidam basin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Nan-nan, YANG Zhen-jing, NING Kai, YANG Qing-hua Institute of Hydrogeologyand Environmental Geology, Chinese Academy of Geological Sciences,Shijiazhuang 0500061,Hebei,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to investigate the relationship between surface polln and modern vegetation,in total 124 surface pollen samples colected from Qaidam basin have been analyzed.The result shows that the corresponding relationship between pollen assemblages ofsurface samples and main vegetation types is significant,however,pollen assemblages of surface samples cannot fully reflect the composition of families and genera. $R$ values of Chenopodiaceae,Artemisia and Ephedra are greater than 1，indicating these three pollen types are super representative.R values of Tamarix and Compositae are lessthan 1,showing these two pollen taxa having low representativeness for their coverages.Further,Gramineae and Nitratia has low representation in most samples.But Gramineae has better representativeness inareas where it's the constructive or dominant species in plant communities,and Nitraria inalkali region has moderate representativeness.There is acertain corelationbetween the pollen percentage of main families and vegetation coverage,and higher correlations can be established for Gramineae, Cyperaceae,Compositae,and Tamarix.Polln in the non-vegetation regions is mainly composed of Chenopodiaceae,Artemisia and Ephedra.Ratio of Artemisia to Chenopodiaceae $( A / C )$ shows a decreasing trend from southeast to northwest,corresponding well to the environmental characteristics of the basin that is changing gradually drier from southeast to northwest.Principal component analysis of the main herbaceous and shrub pollen shows that the polen distribution in this area is mainlycontrolled by hydrological condition and soil pH value. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: pollen representation; $R$ values; pollen percentages; vegetation coverage; ratio of Artemisia to Chenopodiaceae; principal component analysis; Qaidam basin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地自然资源丰富，素有\"聚宝盆\"美誉，在\"西部大开发战略\"中发挥了重要作用，也是首批国家级循环经济实验产业园区之一[I-2]，而近些年盆地面临植被退化、沙化面积增大、自然环境恶化等问题[3]。要兼顾盆地内经济开发和环境保护工作，就必须清楚过去环境演变规律、现代环境特点及未来环境发展趋势，其首要和基础工作之一就是调查表土孢粉的分布及其与现代植被的对应关系[4-5]。盆地位于青藏高原北缘，是季风区与非季风区的过渡地带，气候干燥寒冷、人类活动稀少，植被对环境变化敏感[6-7]，是调查孢粉与植被、孢粉与环境关系的理想区域。王志英[8研究了盆地东北部的主要花粉在不同群落中的代表性问题；Zhao 等通过盆地内表土花粉与湖泊沉积花粉的对比发现，表土花粉更能反应当地植被情况，而湖泊沉积花粉主要反应了花粉的来源问题；Zhang 等[10]通过对盆地东部现代表土花粉的分析发现，降水是影响植被分布和花粉粒径的主要影响因素。前人对柴达木盆地表土孢粉的研究多集中于局部范围[8-1]，未能概括盆地孢粉的整体变化特点及其原因，另外对孢粉与植被的定量化关系研究稍显欠缺。在此基础上，本文研究区覆盖整个柴达木盆地，范围大、样点多、全方位探明表土孢粉的分布特点及其影响因素；同时，利用多个参数对花粉的代表性及其与植被的定量关系进行分析，力求为还原柴达木盆地的古植被和古环境提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区自然概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地位于 $3 4 ^ { \\circ } 4 5 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 2 0 \\mathrm { T }$ ， $8 7 ^ { \\circ } 4 9 ^ { \\prime } { \\sim } 9 9 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { E }$ ，海拔在 $2 6 5 0 { \\sim } 3 3 5 0 \\mathrm { m }$ ，是中国海拔最高的内陆盆地和沙漠分布区[12]。盆地四周环山，其东、南、西北、东北部分别为鄂拉山、昆仑山、阿尔金山、祁连山。盆地位于季风区与西风区的过渡带，对气候和环境变化非常敏感[13-14]。气候属于内陆干旱高寒气候，降水集中分布在夏季，东南部年降水量 $3 0 0 \\mathrm { m m }$ ，西北部年降水量 $2 0 \\mathrm { m m }$ ，荒漠区年降水量不足 $5 \\mathrm { m m }$ ，总体而言降水量呈现出从东南向西北递减、四周向中间减少的趋势[15]。年平均气温 $3 . 5 ^ { \\circ } \\mathrm { C } , 1$ 月平均气温约 $\\cdot 1 2 ^ { \\circ } \\mathrm { C } , 7$ 月平均气温约 $1 6 ^ { \\circ } \\mathrm { C }$ 呈现由四周山地向中心荒漠区递增的趋势[16]。盆地内日照充足、蒸发强烈，以戈壁风沙地貌为主，盆地中部、西北部地区分布有大面积的盐碱地。这样的气候和环境特征导致盆地内植物比较稀少，仅生长少数耐干旱植物。植被盖度总体呈东南向西北递减的趋势，东南部主要是荒漠草原，中部灌丛居多，西北部是无植被区[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与鉴定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沿柴达木盆地四周及盆地中央典型区域布设样线进行取样。取样原则为每隔水平距离$2 0 \\mathrm { k m }$ 选择没有人为扰动的天然植被区设置一个样点，同时进行表土采集和植被调查(图1)。植被样方调查方法根据实际情况分别进行 $\\boldsymbol { 1 } \\mathrm { m } { \\times } \\boldsymbol { 1 } \\mathrm { m }$ 草本层调查、 $5 \\mathrm { m } { \\times } 5 \\mathrm { m }$ 灌木调查、$1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 乔木调查，记录样方内的植物盖度、丰富度、种类等特征。通过GPS 进行定位，准确记录样方的经度、纬度和海拔。同时在样方内以\"梅花采样法\"进行表土采集（本次研究主要采集 $0 . 5 \\mathrm { c m }$ 以上的表土）。植被样方和表土样品按采集顺序进行编号，共取表土孢粉样品124个，并完成相应植被样方调查（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c62fb16a18ef65500a32b6d77787eb6e8c54b14ccdd2b4184c325cbaf6d50ab.jpg",
+        "img_caption": [
+            "图1柴达木盆地采样点分布示意图 Fig.1Location of the sampling sites in the Qaidam basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实验室进行分析时，根据样品的岩性和植被样方调查情况，每块样品取 $5 0 { \\sim } 1 5 0 \\mathrm { g }$ ，采自盆地西部和中部的粗砂砾石样品取 $3 0 0 ~ \\mathrm { g }$ ，利用常规酸碱处理法和过筛法进行花粉提取，应用Olympus 光学显微镜在 $4 0 \\times 1 0$ 倍镜下对孢粉进行鉴定和统计，绝大多数样品统计花粉超过400粒。将孢粉分析结果以占陆生植物花粉总和为基数进行柴达木盆地主要孢粉类型百分比计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花粉百分含量图和植被盖度图采用Tilia1.7.16绘制，采用Canoco4.5对主要科属的花粉百分含量的对数进行主成分分析(principal component analysis，PCA)，绘制主成分分析因子关系图。通过典型科属花粉的 $R$ 值[18]进行花粉代表性的讨论，其中种属 $k$ 在 $i$ 样点的 $R _ { i k }$ 值[19]可表示为： $R _ { i k } = P _ { i k } / V _ { i k }$ ；即 $i$ 点种属 $k$ 的花粉比率（ $\\mathbf { \\nabla } _ { \\cdot } P _ { i k }$ ）和植物比率（ $V _ { i k }$ ）之比。估算 $n$ 个样点的 $R$ 值采用算术平均法： $\\begin{array} { r } { R _ { k } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } ( P _ { i k } / V _ { i k } ) } \\end{array}$ 。花粉百分比与植被盖度的关系用散点图表示（其中纵坐标为花粉百分比，横坐标为植被盖度），对关系显著的科属给出具体",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "函数关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1典型植被类型表土孢粉的特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据柴达木盆地内各植被样方调查结果，统计各样方内主要科属植被的盖度情况（图2）发现：乔木为只在个别样点出现的梭梭（平均盖度 $0 . 7 \\%$ )；灌木较常见（平均盖度 $5. 5 4 \\%$ ），主要有驼绒藜属（Ceratoides）、麻黄属(Ephedra)、怪柳属（Tamarix）、白刺属（Nitraria）等;草本植物最多（平均盖度 $14 . 2 \\%$ ),有禾本科(Gramineae)、菊科(Compositae）、蒿属(Artemisia)、藜科(Chenopodiaceae)、莎草科(Cyperacea)、十字花科（Cruciferae）等。盆地内 124 块样地孢粉总数56397粒，平均454粒，共鉴定出37个科属，均为柴达木盆地及其邻区现生的植物种类。其中乔木花粉百分含量仅 $3 . 7 5 \\%$ ，主要为松属(Pinus)。灌木花粉百分含量为 $1 3 . 5 6 \\%$ 主要有麻黄属、白刺属及少量沙棘属(Hippopjae)、胡颓子属（Elaeagnus）、怪柳属、驼绒藜属、忍冬属(Lonicera)等。草本植物花粉平均含量高达 $8 2 . 5 \\%$ ，最多的是藜科（含量为 $5 1 . 1 \\%$ )，其次为蒿属（含量为 $1 7 . 6 \\%$ )，另外还有禾本科、莎草科、菊科、毛茛科（Ranunculaceae）、十字花科、蓼属（Polygonum）、香蒲属（Typha）等。依据表土孢粉特征和现代植被调查，将柴达木盆地划分为5个植被带(图3)，鉴定出的主要孢粉科属与调查发现的主要植被科属种类基本对应。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/982f3ce7f73a34704b1920894891e7d6f9f1f7dcf2db148f7ffe142a24b8652e.jpg",
+        "img_caption": [
+            "图2柴达木盆地主要科属植被盖度"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef04bebd5b70f232bb700550d0b0a487b62e26d3bac0eeff5ccc7e1fc2562d3.jpg",
+        "img_caption": [
+            "Fig.2 Vegetation coverages of main plant families and genura in Qaidam basin ",
+            "'ig.3Pollen percentages of major pollen taxa in the Qaidam basi "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "带I（荒漠草原带)：共13个样品，主要取自柴达木盆地的东南部（图1)。该带主要生长草本植物（平均盖度 $4 6 . 5 \\%$ )，植被组成是禾本科（平均盖度 $1 5 . 6 \\%$ ）-藜科 $( 1 2 . 7 \\% )$ -蒿属$( 6 \\% )$ -豆科（ $4 . 8 \\%$ ）-莎草科（ $3 . 2 \\%$ )，与之对应的孢粉组合是藜科（ $50 \\%$ ）-蒿属（ $20 . 6 \\%$ ）-白刺属（ $10 . 8 \\%$ ）-禾本科（ $4 . 2 \\%$ ）-麻黄属（ $3 . 6 \\%$ )。怪柳属（ $1 . 7 \\%$ ）、白刺属（ $1 . 7 \\%$ 、驼绒藜属（ $1 . 2 \\%$ ）的花粉几乎未统计到。豆科、莎草科花粉含量均低至 $1 \\%$ 以下；另外孢粉组合中还出现了松属（ $4 . 5 \\%$ ）及少量的香蒲属、蓼属、十字花科等花粉，但并未发现相应科属的植物生长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带ⅡI（灌丛荒漠带)：共 28个样品（图1)，主要取自盆地南部的格尔木附近，其西侧的多个样点开始出现表土盐碱化现象。该带植被平均盖度为 $2 5 \\%$ ，主要植被组成是禾本科( $. 5 . 1 \\%$ -藜科（ $5 . 1 \\%$ ）-菊科（ $1 . 7 \\%$ ）-豆科（ $1 . 6 \\%$ ）-麻黄属（ $1 . 2 5 \\%$ ）-夹竹桃属（Nerium）（ $1 . 1 \\%$ ）-沙拐枣属（Calligonum）( $0 . 9 \\%$ )。其花粉组合是藜科 $( 4 3 . 8 \\%$ )-蒿属 $( 1 5 . 3 \\%$ )-麻黄属 $( 1 1 . 1 \\%$ ）-禾本科（ $9 . 1 \\%$ ）-白刺属（ $7 . 4 \\%$ ）-松属 $( 2 . 1 \\%$ )。花粉组合中的蒿属及少量的莎草科、毛茛科、十字花科等科属的花粉，在植被调查中是未发现的科属。夹竹桃属（Nerium）（ $1 . 1 \\%$ ）沙拐枣属（Calligonum）（ $0 . 9 \\%$ )、驼绒藜属（ $0 . 9 \\%$ ）及黑果枸杞（Lyciumruthenicum）等，未发现其相应科属花粉。植被调查中的乔木植被（ $0 . 9 \\%$ ）主要是梭梭（Haloxylonammodendron)，只出现在格尔木往东的个别样点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带II（盐碱荒漠带)：多个样点出现盐壳结晶。分为两个亚带：II和I\"带。其中带取自盆地的西南部，共19个样品（图1)，该地土壤盐碱化严重，植被盖度只有 $1 2 . 7 \\%$ ，种类较少，主要植被科属是禾本科（盐生芦苇， $7 . 9 \\%$ ）-白刺属（ $1 . 3 \\%$ ）-驼绒藜属（ $1 . 3 \\%$ ）-怪柳属（ $0 . 9 \\%$ )。与之对应的花粉组合为藜科（ $6 0 . 4 \\%$ ）-蒿属（ $10 . 3 \\%$ ）-禾本科（ $7 . 4 \\%$ ）-白刺属（ $6 . 1 \\%$ ）-麻黄属（ $3 . 3 \\%$ ）-松属（ $2 . 6 \\%$ )。但该带的植被调查中未发现藜科、蒿属、麻黄属植物生长；样方中出现的怪柳属、驼绒藜属等花粉含量低至 $0 . 5 \\%$ 以下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带III\"取自盆地的中部（图1)，共6个样品。该区域对应柴达木盆地主要的盐碱工业基地。植被种类很少，盖度只有 $8 . 5 \\%$ ，主要以禾本科（盐生芦苇， $5 . 3 \\%$ ）为主，另外还有少量零星分布的白刺、驼绒藜、怪柳、沙拐枣等。与之对应的花粉组合是藜科（ $5 7 . 1 \\%$ ）-蒿属（ $1 8 . 1 \\%$ ）-麻黄属（ $9 . 1 \\%$ ）-禾本科（ $4 . 5 \\%$ ）-白刺属（ $2 . 9 \\%$ )。花粉中占有相当大比例的藜科、蒿属及外来的松属（ $1 . 9 \\%$ ）和云杉属（ $0 . 5 \\%$ ）均未在植被样方调查中出现，调查中出现的驼绒藜属、柽柳属、白刺属、沙拐枣属等的花粉含量仍很少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带IV（无植被带)：取自盆地中西部区域（图1)，共 24个样点。该带没有植物生长，但是样品中仍有相当含量的孢粉，主要孢粉组合是藜科( $4 3 . 2 \\%$ -蒿属（ $23 \\%$ )-麻黄属 $( 1 0 . 1 \\% )$ 0-白刺属（ $4 . 2 \\%$ ）-松属（ $5 . 4 \\%$ ）等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "带V（灌丛荒漠带)：取自盆地的北部（图1)，共35个样点。植被盖度为 $2 3 . 2 \\%$ ，主要植物有藜科（ $10 . 7 \\%$ ）-禾本科（ $5 . 4 \\%$ ）-驼绒藜属 $( 3 . 9 \\%$ ）-怪柳属 $( 2 . 5 \\%$ )。花粉组合是藜科（ $56 . 3 \\%$ ）-蒿属（ $1 8 . 3 \\%$ ）-白刺属（ $6 . 7 \\%$ ）-禾本科（ $4 . 3 \\%$ ）-麻黄属 $( 3 . 0 \\%$ )；植被样方中并未出现的蒿属、麻黄属。白刺属、麻黄属、沙拐枣、枸杞等的花粉含量低于 $1 \\%$ 。乔木植物主要是梭梭（ $1 . 8 \\%$ )，乔木花粉以松属（ $1 . 7 \\%$ ）为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2主要花粉与植被的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地表土中以草本植物花粉为主，其中分布广、占比大的是藜科、蒿属及禾本科花粉。藜科花粉几乎在每一个样点都占据着相当大的比例（ $20 \\% 8 0 \\%$ ， $R$ 值普遍大于1（表1)，在以非藜科植物为建群种的地带甚至高达40以上，具有明显的超代表性。 $41 . 9 \\%$ 的样点附近无藜科植物生长，但仍有相当比例（ $1 0 . 2 \\% 5 5 \\%$ ）的藜科花粉存在，本研究区藜科植被盖度与花粉百分比的对应关系不密切（图4a)，决定系数 $R ^ { 2 }$ 为 $0 . 1 4 4 9 6$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蒿属花粉几乎在每个样点都有分布（ $1 0 \\% { \\sim } 3 0 \\%$ ， $R$ 值基本大于1（表1)，具有超代表性。但仅有 $2 6 . 8 \\%$ 的样点有蒿属植物生长，主要集中于盆地东部的带I和带V，而蒿属花粉含量最高（ $23 \\%$ ）的是北部的无植被带IV。蒿属花粉比例与植被盖度之间的相关性是所有科属中最低的（图4b)， $R ^ { 2 }$ 仅为0.01194。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5df342d9926e78af18534200b3032f041a8d9cdae9f55a83284848cdeb411451.jpg",
+        "table_caption": [
+            "表1柴达木盆地主要表土花粉 $\\pmb { R }$ 值",
+            "Tab.1 The R values of major pollen taxa in the Qaidam basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>花粉</td><td>植物群落</td><td>植被带</td><td>R值</td><td>花粉</td><td>植物群落</td><td>植被带</td><td>R值</td></tr><tr><td rowspan=\"6\">藜科</td><td>盐爪爪荒漠</td><td>I</td><td>5.6</td><td rowspan=\"3\">菊科 怪柳属</td><td>盐爪爪戈壁草甸</td><td>I</td><td>0.61</td></tr><tr><td>唐古特白刺荒漠</td><td>I</td><td>0.93</td><td>芦苇、柽柳戈壁沙地</td><td>I</td><td>0.04</td></tr><tr><td>蒿叶猪毛菜荒漠</td><td>V</td><td>4.09</td><td>怪柳、猪毛菜戈壁</td><td>V</td><td>0.1</td></tr><tr><td>梭梭、驼绒藜荒漠</td><td>ⅡI</td><td>2.09</td><td rowspan=\"3\">白刺属</td><td>合头草、怪柳荒漠</td><td>I</td><td>0</td></tr><tr><td>芦苇荒漠</td><td>III'</td><td>45.04</td><td>盐爪爪盐碱草地</td><td>I</td><td>1.7</td></tr><tr><td>骆驼蓬荒漠</td><td>II\"</td><td>49.76</td><td>白刺、梭梭戈壁</td><td>V</td><td>0.38</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/80b2a1e7737be440136e7605b6db202bf5951cdce0ecb0f193de75ba718a1bb7.jpg",
+        "img_caption": [
+            "图4柴达木盆地主要花粉类型百分比与植被盖度的关系",
+            "Fig.4 Relations between pollen percentages and vegetation cover in the Qaidam basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "禾本科植物是遍布整个柴达木盆地的优势物种，其花粉的代表性是相对的。禾本科花粉在盆地东北部、中部地区的 $R$ 值远远小于1（表1植被带III、V)，具有低代表性。而在盆地东南部的带I和带Ⅱ以禾本科为优势种的样点R值在1附近（表1)，代表性较好。 $4 6 . 8 \\%$ 的样点无禾本科植物出现，其花粉占比基本都小于 $5 \\%$ 。总的来说，禾本科花粉百分比与植被盖度有一定的正相关关系（图4c)，决定系数（ $. R ^ { 2 }$ ）为0.60869，相关性较高，建立相关函数为： $y = 1 . 3 5 3 2 3 + 0 . 8 4 4 7 5 x$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "莎草科和菊科植物是高寒草甸的优势种类[20-21],但在柴达木盆地只出现在地势相对更高的东部、东北部（ $3 2 0 0 \\mathrm { m }$ 以上)，且不属于建群种， $R$ 值远小于1(表1)，具有低代表性。只有 $8 . 1 \\%$ 的样点有莎草科植物生长且盖度不超过 $20 \\%$ ，相应的莎草科花粉含量小于 $10 \\%$ 。莎草科植被盖度与花粉占比有一定的相关性（图4d)，决定系数（ $R ^ { 2 }$ ）为0.49895，建立相关函数为： $y { = } 1 . 1 8 6 8 3 { + } 0 . 4 1 0 8 3 x$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "菊科花粉含量与植被盖度关系如图4e，决定系数（ $R ^ { 2 }$ ）为0.46005，建立相关函数为：$y = 1 . 6 0 9 \\ 6 1 + 0 . 8 8 3 \\ 4 5 x .$ 。 $2 2 . 6 \\%$ 的样点有菊科植物生长，相应的菊科花粉占比均大于 $3 \\%$ ，其他样点的菊科花粉占比基本小于 $3 \\%$ ，所以，本研究区菊科花粉含量达到 $3 \\%$ 的样点可以推测附近有菊科植物生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地的木本植物主要是灌木，其中分布最广的是怪柳属。但是怪柳属花粉的 $R$ 值远远小于1，甚至部分样点 $R$ 值为0（表1)，代表性特别低。 $6 . 5 \\%$ 的样点有怪柳花粉出现，其百分含量低至 $2 \\%$ 以下，但是该样点附近一定会出现盖度不低于 $8 \\%$ 的怪柳灌丛，所以怪柳花粉对植被具有很好的指示性。花粉百分比与植被盖度的相关性相对较高（图4f)，决定系数 $R ^ { 2 }$ 为0.62573，建立相关函数为： $y = 0 . 0 5 1 ~ 1 4 x - 0 . 0 4 1 ~ 6 4 _ { \\mathrm { c } }$ （2",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "白刺属植物是柴达木盆地的优势灌木之一，主要生长在盆地的东部和东北部，白刺属在大部分样点都具有低代表性， $R$ 值小于1(表1)。但是在荒漠盐碱区白刺属花粉的 $R$ 值大于1，反而具有超代表性。 $82 . 3 \\%$ 的样点没有白刺属出现，但均发现了白刺属花粉（ $1 \\% { \\sim } 1 3 \\%$ ）存在。花粉百分比与植被盖度的相关性很低（图 $4 \\mathrm { g }$ ， $R ^ { 2 }$ 为0.042 2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "麻黄属植被主要分布在南部的格尔木附近，约 $1 6 . 3 \\%$ 的样点出现，而其花粉几乎遍布整个柴达木盆地。麻黄属花粉的 $R$ 值大于1（表1)，具有明显的超代表性。麻黄花粉占比与植被盖度的相关性不明显， $R ^ { 2 }$ 为0.09828.约 $16 . 3 \\%$ 的样点出现沙拐枣植被(盖度占 $1 0 \\% { \\sim } 2 0 \\%$ ），主要集中分布在格尔木的东部和大柴旦的西北部，但是其花粉百分含量很低，花粉的 $R$ 值远小于1，代表性很低。花粉与植被盖度之间的相关性也很低（图4i)， $R ^ { 2 }$ 为0.096 81。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3特征花粉比值研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒿属与藜科花粉的比值 $( A / C )$ 比值通常可作为干旱半干旱地区干湿程度的指示参数[22-23]， $A / C$ 值越低越干旱， $A / C$ 值大于1为草原地区， $A / C { < } 0 . 5$ 时为荒漠带[20.24]。一般认为蒿属与藜科花粉之和占优势（ $5 5 \\%$ ）时，才对当地环境的干湿程度具有指示意义[25-26]。柴达木盆地的表土孢粉样品中的蒿属、藜科花粉之和高于 $50 \\%$ 的共有99个样品（图5)，大多数样点的 $A / C$ 介于 $0 { \\sim } 1$ 之间。 $A / C$ 值较大的样点基本集中在盆地东部，中部、西部地区的 A/C值基本小于0.5。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/98bb37d24d75148b058adbc2352c26eb72128925e1503d596ed47d60bec6605e.jpg",
+        "img_caption": [
+            "Fig.5 The ratios of Artemisia and Chenopodiaceae(A/C) in the Qaidam basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是在带IV无植被带，植被盖度为0，环境最干旱。但是该带的 $A / C$ 值却明显偏高（平均值0.62)，该结果不具有环境指示意义（造成该区蒿属花粉百分含量异常升高的原因详见3.1)。总的来说，A/C值具有从东南—西北减少的趋势，与盆地内东南—西北逐渐干旱的环境特点具有很好的对应关系。因而在使用 $A / C$ 进行植被环境恢复时，应综合考虑研究区的地理位置、气候环境特征及孢粉浓度等方面的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4de1155f8d0964ab47edc6c4de6b2b4bb443d1694d7c78db3a2831b4be4a4ef0.jpg",
+        "img_caption": [
+            "图5柴达木盆地各样点A/C"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有学者将麻黄属/藜科 ${ \\left( { E p / C } \\right) }$ 的比值作为干旱程度进一步划分的依据， $E p / C$ 的值越高,环境越干旱[27]。在本研究区， $E p / C$ 的值并未出现随干旱程度加剧而增大的趋势，这可能是由柴达木盆地风沙大，且荒漠戈壁、盐碱地、无植被区广布等导致的。所以，在采用 Ep/C时也应考虑研究区的特殊性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4孢粉浓度与植被盖度的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6植被盖度与孢粉浓度分布示意图",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig 6 Vegetation cover and pollen percentages in the Qaidam basin ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地的植被分布规律比较明显，从东南部到西北部植被越来越少，盖度从 $89 \\%$ 减小到 $0 \\%$ （图6a)。这种植被状况造成样品的花粉浓度变化非常大（图6b)，浓度最大的样点高达28199粒 $\\cdot \\mathrm { g } ^ { - 1 }$ ，最小的样点只有12粒 $\\cdot \\mathrm { g } ^ { - 1 }$ 。总的来说，花粉浓度与植被盖度的分布具有较好的对应关系—花粉浓度也呈现从东南-西北逐渐减小的趋势。各植被带盖度和花粉浓度由高到低分别为：东南部带I草原荒漠带植被盖度为 $40 \\% { \\sim } 8 0 \\%$ ，花粉平均浓度为7930 粒·g1；中南部带Ⅱ灌丛荒漠带为 $20 \\% { \\sim } 5 0 \\%$ ，花粉平均浓度为5646粒 $\\cdot \\mathbf { g } ^ { - 1 }$ ；北部带V戈壁荒漠盖度为 $10 \\% { \\sim } 4 0 \\%$ ，花粉平均浓度为4007粒 $\\cdot \\mathbf { g } ^ { - 1 }$ ；西南部的带IⅢI盐碱荒漠带盖度为 $5 \\% { \\sim } 2 0 \\%$ 花粉平均浓度为1249 粒 $\\cdot \\mathrm { g } ^ { - 1 }$ ；西北带IV无植被带盖度为0，花粉平均浓度为584粒 $\\cdot \\mathrm { g } ^ { - 1 }$ 。不同植被带的植被盖度所对应的花粉浓度差异显著，特别是荒漠草原带和无植被带的花粉浓度相差高达13.5倍，这说明在柴达木盆地等干旱半干旱地区，花粉浓度可以作为恢复植物群落及其生长环境的重要指标之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "但在同一植被带中的不同样点，花粉浓度与植被盖度有时不具有明显的相关关系，前人的研究也证明了此观点[22-23,27]，这可能与具体的花粉产量和传播等有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5孢粉主成分分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将柴达木盆地124个样点的13种占主要地位的灌木、草本植物花粉含量的对数进行主成分分析（图7)。PCA排序第1、2主轴的特征值为0.568和0.173，第3、4主轴特征值分别为0.104和0.098，前两个主轴的累积方差贡献率为 $74 . 1 \\%$ ，表明样品主要由第1主轴所代表的环境因素控制，第二主轴因素占次要地位。第一主轴最低排序值为藜科，最高排序值为莎草科、十字花科等喜湿物种，因而第一轴因子可能主要反映荒漠区的水文因素。前人的研究也表明，水文因素是干旱半干旱地区影响植物生长的最重要因素[8.17,28]。第二主轴最低排序为蒿属、最高排序为耐盐碱的白刺属、禾本科（主要为芦苇属)，所以推测第二轴因子可能主要反映土壤的盐碱性、pH等隐性环境因子。根据不同类型的花粉在排序轴上的不同位置，基本可以将花粉类型分为3组。第1组主要包括藜科、蒿属、麻黄属、蓼科等花粉，代表干旱荒漠环境的优势种；第2组主要是菊科、毛茛科、豆科、香蒲科、蔷薇科、莎草科、十字花科等，这些花粉可能是偏向草原的非优势物种；第3组是白刺属和禾本科（主要是芦苇属）等在盆地内干旱盐碱区的优势种。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a61c607bd62bd616945829224be3940c731b0ed59e85a42f985cac7e8dee84e4.jpg",
+        "img_caption": [
+            "图7主成分分析第1、2轴因子关系 Fig.7 The relation between first and second axis in Principal Component Analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1无植被区外来花粉的影响与花粉的迁移",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地的西部、西北部地区（茫崖附近）存在大面积的无植被区，而该区有相当高的花粉含量，且主要为藜科、蒿属、麻黄属、松属等公认的超代表性花粉属种。在进行表土花粉分析时，当地未发现母体植物生长的花粉类型均视为外来花粉，可分为近距离迁移和远距离迁移花粉[29]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "藜科、麻黄属等花粉均可在盆地其他植被带找到相对应的植物且处于优势地位，属于近距离迁移花粉。该类花粉可能是由盆地局部气流带来，都对干旱环境有指示意义。近距离迁移的花粉离母体植物较近，所反映的气候环境差别不大，故近距离迁移的花粉对花粉谱的解释影响不大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "无植被带花粉组合中松属花粉（ $5 . 4 \\%$ )、蒿属花粉（ $23 \\%$ ）含量远远高于其他植被带。松属花粉可能来自北部的祁连山[30]，因其本身就有双气囊结构，易于远距离传播[31-32]。蒿属花粉可能少部分由盆地内近距离传播而来，主要来自盆地西部的阿尔金山和北部的祁连山[30,33]。盆地常年盛行北西-南东风，风速大，在阿尔金山与祁连山脉之间的峡谷地带，由于“狭管效应”，极易造成大风天气，如盆地西北部的茫崖地区大风天气频繁[13.34]。这样的大风和气流可能将附近山上的大量松、蒿属花粉携带到相邻的无植被区沉积，而该带花粉浓度又远低于其他植被带，从而造成了无植被区松属、蒿属花粉的百分含量相对增大。此类花粉属于远距离迁移花粉，会对当地花粉谱的解释造成误解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在对地层花粉进行解释时，需要综合花粉浓度和具体花粉组合来判定。如果发现花粉均是公认的产量大、易传播的超代表性花粉科属（如本区的藜-蒿-麻黄-松组合)，其他种类花粉几乎未见，而花粉浓度又明显低于临近区域时，可以判定为无植被区域。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2主要科属孢粉的代表性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上述分析中柴达木盆地的孢粉组合可以划分为5个带，大致能反映当地植被的主要特征，孢粉组合中占比较大的花粉种类基本是该区的优势植物种类。主要优势种花粉是藜科、禾本科、蒿属、麻黄属、白刺属、莎草科、菊科等花粉，与该区地层花粉种类基本一致[35-36],所以，本研究可以为该区域地层花粉研究和古气候恢复提供很好的基础材料。但是不同花粉种类的代表性可能有所差异，藜科、蒿属、麻黄属花粉具有明显的超代表性，这在其他研究区也多次被证实[24.31]，可能是因其都具有较高的花粉产量[37]。菊科、莎草科、怪柳科、沙拐枣花粉的低代表性也多次被证实[21,37]。禾本科在盆地大部分区域都具有低代表性，前人也证实了可能是由其花粉产量低、保存能力差导致的[38]，但是取自盐碱区样点的禾本科花粉的代表性反而较好，可能是因为在盐碱区许多样点的建群种是大片的盐生芦苇，取样时的7、8月份正是芦苇的花期，所以禾本科（芦苇）花粉得以较好地保存。灌木植物中白刺属在大部分样点也具有低代表性，在盐碱区的样点具有较好的代表性，可能因为白刺属植物在盐碱区是优势物种，其花粉含量相对增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3主要科属的花粉百分比与植被盖度的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于柴达木盆地的特殊气候和地理位置，主要科属花粉百分比与母体植物盖度有一定的相关性，但相关性稍低于其他学者在中国北方的研究结果[37,39]。其中藜科、蒿属、白刺属、麻黄属是盆地内的优势植被，它们的花粉几乎出现在盆地的每个样品且占有一定的比例，花粉百分比与植被盖度之间并无明显的相关关系，但这些花粉可以反应研究区的整体环境特性-相对干旱。蒿属花粉百分含量具有从盆地东南向西北随降水量的减少而降低的趋势。这样的分布规律具有一定的生态指示意义，可能是由蒿属植物更喜湿润导致的。禾本科、莎草科、菊科、怪柳属花粉百分比与植被盖度具有较好的相关性，该类花粉可以很好地指示采样点附近区域的植被，在地层花粉研究中应着重注意该类花粉的情况。在本研究区内主要科属与植被盖度的关系与前人在其他区域得出的结论有所不同，如在中国北方其他区域白刺属花粉百分比与植被盖度之间具有较好的相关关系，禾本科关系不明显等[37.39]。这种差异可能是由盆地内大风天气频发，花粉迁移扰动明显导致的。另外还应考虑盆地大部分地区地面裸露、光照强烈及盐碱环境等都会对花粉的保存造成影响，这方面还需要与花粉通量的对比研究加以佐证。所以，在恢复地层花粉时应因地制宜，不能生搬硬套其他研究区的结论。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4孢粉-植被与环境梯度的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "影响干旱半干旱地区植物生长分布的最主要环境因素是水分条件[40]，随着盆地由东南向西北土壤水分的减少，植被盖度和多度、孢粉浓度和种类也逐渐减少；植物和孢粉的种类也会随之发生变化，喜湿的菊科、莎草科、蒿属、毛茛科等植被盖度和花粉百分比逐渐减少，A/C 逐渐增大；耐旱的藜科、麻黄属等植被盖度和花粉百分比逐渐增多。而在盐碱区几乎只生长白刺属、禾本科（芦苇属)，花粉组合以藜科-蒿属-禾本科-白刺属为主。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）无植被区的花粉浓度远远低于其他样带，且花粉组合以藜科-蒿属-麻黄属-松属等主要超代表性花粉为主，该结论也可应用于地层花粉分析时对无植被区的判定。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）本研究区蒿属、麻黄属、藜科花粉具有超代表性；菊科、莎草科、柽柳属、沙拐枣属等具有低代表性；禾本科和白刺属在大部分样点具有低代表性，但禾本科花粉在建群种样点、白刺属花粉在盐碱区具有适中代表性。（3）禾本科、莎草科、菊科、柽柳属等科属花粉百分比与植被盖度之间可以建立一定的相关关系，该类花粉对样点附近的植被有很好的指示意义；藜科、蒿属、麻黄属、白刺属等科属的相关性不高，但可以较好地指示研究区整体的环境。（4）盆地内的植被和花粉分布主要受水文因素的影响，土壤盐碱度等隐性因子的影响占次要地位。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 陈琰，雷涛，张国卿，等.柴达木盆地石油地质条件、资源潜力及勘探方向[J]．海相油 气地质,2019, 24(2): 64-74.[Chen Yan, Lei Tao, Zhang Guoqing,et al. The geological conditions, resource potential and exploration direction of oil in Qaidam basin[J]. Marine Origin Petroleum Geology,2019,24(2): 64-74.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]冯乔，付锁堂，张小莉，等.柴达木盆地及邻区侏罗纪原型盆地恢复及油气勘探前景 [J]．地学前缘，2019,26(1): 44-58.[Feng Qiao,Fu Suotang,Zhang Xiaoli,et al. Restoration of jurassc prototype basins in Qaidam basin and its adjacent areas and prospects for oil and gas exploration[J]. Earth Science Frontiers,2019,26(1): 44-58.]   \n[3] 石秀云，陈宏松，刘成丰，等.格尔木地区近5年沙尘暴天气分析[J]．青海气象,2019, 6(1): 11-15.[Shi Xiuyun, Chen Hongsong,Liu Chengfeng,et al. Sandstorm weather analysis in Golmud in recent 5 years [J]. Qinghai Meteorology, 2019, 6(1): 11-15.]   \n[4] 杨振京，徐建明.孢粉-植被-气候关系研究进展[J]．植物生态学报,2002,26(Suppl.1): 73-81.[Yang Zhenjing, Xu Jianming. Advances in studies on relationship among pollen, vegetation and climate[J]. Acta Phytoecologica Sinica, 2002, 26(Suppl.1): 73-81.]   \n[5] 杨庆华，杨振京，张芸，等.新疆夏尔希里自然保护区表土孢粉与植被的关系[J]．干 旱区地理,2019,42(5): 986-997.[Yang Qinghua, Yang Zhenjing, Zhang Yun,et al. Relationship between surface sporepollen and modern vegetation in Xarxili Nature Reserve of Xinjiang[J]. Arid Land Geography, 2019, 42(5): 986-997.]   \n[6]尤勇刚，杨庆华,王攀，等.柴达木盆地植被调查与研究[J].干旱区资源与环境,2019, 33(2): 183-188. [You Yonggang, Yang Qinghua, Wang Pan, et al. Investigation on the vegetations in Qaidam basin[J]. Journal of Arid Land Resources and Environment, 2019, 33(2): 183-188.]   \n[7] 刘雪梅，高小红，马元仓.2002—2015年青海省不同气候区植被覆盖时空变化[J]．干 旱区研究.2017,34(6): 1345-1352.[Liu Xuemei, Gao Xiaohong,Ma Yuancang. Spatiotemporal evolution of vegetation coverage in Qinghai Province, China during the periods from 2002 to 2015[J].Arid Zone Research.2017, 34(6): 1345-1352.]   \n[8] 王志英．柴达木盆地表土花粉与植被关系的研究[D].广州：广州大学,2008.[Wang Zhiying. Study on the Relationship Between Surface Pollen Assemblage and Vegetable in Qaidam basin[D]. Guangzhou: Guangzhou University, 2008.]   \n[9] Zhao Y, Xu Q H, Huang X Z, et al. Differences of modern pollen assemblages from lake sediments and surface soils in arid and semi-arid China and their significance for pollenbased quantitative climate reconstruction[J]. Review of Palaeobotany and Palynology, 2009,156(3): 519-524.   \n[10] Zhang S R, Xu Q H, Nielsen A,et al. Pollen assemblages and their environmental implications in the Qaidam basin, NW China[J].Boreas, 2012,41(4): 602-613.   \n[11]路晶芳，宋博文，陈锐明，等.柴达木盆地大柴旦地区大红沟古近纪孢粉组合序列与 地层对比[J]．地球科学，2010,35(5):839-848.[Lu Jingfang,Song Bowen,Chen Ruiming，et al. Palynological assemblage of Eocene-Oligocene pollen and their biostratigraphic correlation in Dahonggou, Daqaidam Area, Qaidam basin[J]. Earth Science,2010,35(5): 839-848.]   \n[12] 申元村，王秀红，程维明，等.中国戈壁综合自然区划研究[J]，地理科学进展.2016, 35(1): 57-66. [Shen Yuancun, Wang Xiuhong, Cheng Weiming, et al. Integrated physical regionalization of stony deserts in China[J]. Progress in Geography, 2016,35(1): 57-66.]   \n[13] 许婉彤，曾彪,李博，等.柴达木盆地气候变化区域性特征及其影响因素[J]．兰州大 学学报（自然科学版),2019, 55(3): 357-364.[Xu Wantong, Zeng Biao,Li Bo,et al. Regional differentiation of climate changes in Qaidam basin and its influencing factors[J]. Journal of Lanzhou University (Natural Sciences), 2019, 55(3): 357-364.]   \n[14] Fu Y, Chen H, Niu H H, et al. Spatial and temporal variation of vegetation phenology and its response to climate changes in Qaidam basin from 200o to 2015[J]. Journal of Geographical Sciences, 2018, 28(4): 400-414.   \n[15]尹文杰，张梦琳，胡立堂.柴达木盆地干旱时空变化特征[J].干旱区研究,2018, 35(2): 387-394.[Yin Wenjie, Zhang_Menglin, Hu Litang. Spatiotemporal variation of drought in the Qaidam basin[J]. Arid Zone Research, 2018, 35(2): 387-394.]   \n[16]张旺雄，刘普幸.1961—2017年柴达木盆地干湿状况及其影响因子[J].干旱区研究. 2019,36(6): 1391-1400. [Zhang Wangxiong, Liu Puxing. Surface humid situation and its affecting factors in the Qaidam basin from 1961 to 2017[J].Arid Zone Research. 2019, 36(6): 1391-1400.]   \n[17] 朱文彬，吕爱锋，贾绍凤.基于NDVI的柴达木盆地植被空间分异规律及影响因素[J]. 干旱区研究,2010,27(5): 691-698.[Zhu Wenbin,Lyu Aifeng, Jia Shaofeng.Study on spatial distribution of vegetation coverage and its affecting factors in the Qaidam basin based on NDVI[J].Arid Zone Research,2010, 27(5): 691-698.]   \n[18] Davis M. On the theory of pollen analysis[J]. American Journal of Science,1963,261(10): 897-912.   \n[19] 李宜垠，张新时，周广胜，等.中国北方几种常见表土花粉类型与植被的数量关系[J]. 科学通报,2000,45(7): 761-765.[Li Yiyin, Zhang Xinshi, Zhou Guangsheng,et al. Relationship between surface pollen and vegetation in some communities of Northern China[J]. Chinese Science Bulletin, 2000, 45(7): 761-765.]   \n[20] 杨振京，孔昭宸，阎顺，等.天山乌鲁木齐河源区大西沟表土花粉散布特征[J].干旱 区地理,2004, 27(4): 543-547.[Yang Zhenjing,Kong Zhaochen, Yan Shun, et al. Pollen distribution in topsoil along the Daxigou Valley in the headwaters of the Urumqi River, the central Tianshan Mountains[J]. Arid Land Geography, 2004, 27(4): 543-547.]   \n[21]魏海成，郑卓，马海州，等.青海表土花粉分布规律及其与植被的关系[J].干旱区地 理，2009,32(6):932-940.[Wei Haicheng,Zheng Zhuo,Ma Haizhou,et al. Pollen distribution patterns of surfuce soil sample in Qinghai of China and their relationship with vegetation[J]. Arid Land Geography, 2009, 32(6): 932-940.]   \n[22] Li Y M, Zhang Y, Tong G B, et al. Pollen assemblages and anthropogenic influences in the central and western regions of Yunnan Province[J]. The Science of the Total Environment, 2018, 646: 368-376.   \n[23]李月丛，许清海，阳小兰，等.中国草原区主要群落类型花粉组合特征[J]．生态学报, 2005, 25 (3): 555-564. [Li Yuecong, Xu Qinghai, Yang Xiaolan, et al. Pollen assemblages of major steppe communities in China[J]. Acta Ecologica Sinica, 2005, 25 (3): 555-564.]   \n[24]罗传秀，郑卓，潘安定，等.新疆地区表土孢粉空间分布规律研究[J]．地理科学, 2008,28(2): 272-275.[Luo Chuanxiu, Zheng Zhuo,Pan Anding, et al. Spatial distribution of modern pollen in Xinjiang region[J]. Scientia Geographica Sinica, 2008, 28(2): 272- 275.]   \n[25] Chang J, Hui Z C,Pan B T, et al. Characteristics of the modern pollen assemblages from different sedimentary environments of the middle reaches of the arid Heihe region of Asia[J]. Quaternary International, 2018, 479: 34-41.   \n[26] Xu Q H, Zhang S R, Gaillard M, et al. Studies of modern pollen assemblages for pollen dispersal-deposition-preservationprocessunderstandingandforpollen-based reconstructions of past vegetation, climate, and human impact: A review based on case studies in China[J]. Quaternary Science Reviews, 2016, 149: 151-166.   \n[27] 罗传秀，郑卓，潘安定，等.新疆地区表土孢粉分布规律及其与植被关系研究[J].干 旱区地理，2007,30(4): 536-543.[Luo Chuanxiu, Zheng Zhuo,Pan Anding,et al. Distribution of surface soil spore-pollen and its relationship with vegetation in XinJiang, China[J]. Arid Land Geography, 2007, 30(4): 536-543.]   \n[28] Yang Z J, Zhang Y, Ren HB, et al. Altitudinal changes of surface pollen and vegetation on the north slope of the Middle Tianshan Mountains, China[J]. Journal of Arid Land, 2016, 8(5): 799-810.   \n[29] 黄赐璇，艾利斯·冯·康波，让·弗朗索瓦士·多布雷梅.西藏西部表土孢粉研究[J].干 旱区地理,1993,16(4): 75-84.[Huang Cixuan, Ailisi Fengkangbo,Rang Fulangsuowashi duobuleimei. A study on pollen in surface soil from the western Xizang[J]. Arid Land Geography, 1993,16(4): 75-84.]   \n[30] 许娟，张百平,朱运海，等.阿尔金山-祁连山山地植被垂直带谱分布及地学分析[J]. 地理研究,2006,25(6): 977-984.[Xu Juan, Zhang Baiping,Zhu Yunhai,et al. Distribution and geographical analysis of altitudinal belts in the Altun-Qilian Mountains[J]. Geographical Research, 2006,25(6): 977-984.]   \n[31] Cour P, Zheng Z, Duzer D, et al. Vegetational and climatic significance of modern pollen rain in northwestern Tibet[J]. Review of Palaeobotany and Palynology, 1999,104(3-4): 183-204.   \n[32] Zhang Y J, Duo L, Pang Y Z, et al. Modern pollen assemblages and their relationships to vegetation and climate in the Lhasa Valley， Tibetan Plateau, China[J]. Quaternary International, 2018, 467(7): 871-877.   \n[33]吴鹏，辉朝茂，薛亚东，等.阿尔金山北麓野骆驼生境植被调查研究[J]．林业调查规 划，2014,39(3): 58-62.[Wu Peng，Hui Chaomao,Xue Yadong, et al. Vegetation characteristic in the habitat of Wild Bactrian Camel in the northern slope of Altun Mountains[J]. Forest Inventory and Planning, 2014, 39(3): 58-62.]   \n[34] 吴桐雯,李江海，杨梦莲.柴达木盆地风成地貌类型与晚全新世古风况恢复[J]．北京 大学学报(自然科学版),2018,54(5):1021-1027.[Wu Tongwen,Li Jianghai, Yang Menglian. The aeolian bedforms and the reconstruction of Late Holocene wind direction in Qaidam basin[J]. Acta Scientiarum Naturalium Universitatis Pekinensis, 2018, 54(5): 1021-1027.]   \n[35] 方小敏,吴福莉，韩文霞，等.上新世-第四纪亚洲内陆干旱化过程—柴达木中部 鸭湖剖面孢粉和盐类化学指标证据[J]．第四纪研究,2008,28(5):874-882.[Fang Xiaomin, Wu Fuli, Han Wenxia, et al. Plio-Pleistocene drying process of Asian inlandsporopollen and salinity records from Yahu Section in the central Qaidam basin[J]. Quaternary Sciences,2008,28(5): 874-88.]   \n[36] 杨平，谢宗奎，袁秀君，等.柴达木盆地北缘侏罗纪古生态特征及其古地理意义[J]. 古地理学报,2006,8(2):165-173.[Yang Ping, Xie Zongkui, Yuan Xiujun,et al. Palaeoecological characteristics and its palaeogeographic significance of the Jurassic in northern margin of Qaidam basin[J]. Journal of Palaeogeography, 2006, 8(2): 165-173.]   \n[37] 许清海，李月丛，阳小兰，等.中国北方几种主要花粉类型与植被定量关系[J]．中国 科学(D辑:地球科学),2007,37(2): 192-205.[Xu Qinghai,Li Yuecong,Yang Xiaolan, et al. Quantitative relationship between pollen and vegetation in Northern China[J]. Scientia Sinica(Terrae),2007, 37(2): 192-205.]   \n[38] Luo C X,Lin G, Chen M H, et al. Characteristics of pollen in surface sediments from the southern South China Sea and its paleoclimatic significance[J]. Palaeogeography Palaeoclimatology Palaeoecology, 2016, 461: 12-18.   \n[39]李月丛，许清海，肖举乐，等.中国北方几种灌丛群落表土花粉与植被关系研究[J]. 地理科学,2007,27(2): 205-210.[Li Yuecong,Xu Qinghai, Xiao Jule,et al. Relationship between surface pollen and vegetation in some shrub communities of Northern China[J]. Scientia Geographica Sinica, 2007, 27(2): 205-210.]   \n[40] 刘雪佳，董璐，赵杰，等.我国荒漠植被生产力动态及其与水热因子的关系[J].干旱区研 究.2019,36(2): 459-466. [Liu Xuejia, Dong Lu, Zhao Jie， et al. Dynamic state of desert ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "vegetation productivity and its relationship with water-heat factors in China[J]. Arid Zone Research.2019,36(2): 459-466.] ",
+        "page_idx": 11
+    }
+]

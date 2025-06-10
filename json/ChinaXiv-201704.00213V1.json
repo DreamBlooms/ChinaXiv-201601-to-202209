@@ -1,0 +1,431 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201512242566 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张亚娟,李崇巍,胡蓓蓓,谢慧君,宋爱云.城镇化流域“源-汇\"景观格局对河流氮磷空间分异的影响——以天津于桥水库流域为例.生态学报，2017,37(7) :2437-2446.ZhangYJ,LiC,HuieHJgApaof“soucein”lnapeaeibdatesorogedssspatialvariatiosinvers；casesudyofYuqiaoRsevoirwatershd,Tanji，inaActaEologicanica（7）446.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城镇化流域“源-汇”景观格局对河流氮磷空间分异的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以天津于桥水库流域为例张亚娟1，李崇巍1，\\*，胡蓓蓓，谢慧君l，宋爱云²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1天津师范大学城市与环境科学学院，天津300387  \n2 滨州学院山东省黄河三角州生态环境重点实验室，滨州256603",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;随着流域城镇化的加速,流域城镇化景观格局对流域水质的影响逐渐加剧。以城镇化趋势明显的于桥水库流域为例，基于流域“源-汇\"景观特征指数，并结合于桥水库流域 2013、2014和2015年33个子流域的水质数据,采用空间分析、相关分析和冗余分析等方法，探讨了在城镇化影响下,于桥水库流域景观特征指数和水质指标的定量关系。结果表明：整个流域从上游到下游呈现\"汇”景观面积减小，“源\"景观面积增大的趋势,居民建设用地面积比在中下游子流域达 $3 4 . 6 \\%$ ，“汇”型景观中林地面积为 $3 3 . 5 \\%$ ;景观空间负荷对比指数(LWLI)全局Moran's $I$ 的值为 $0 . 6 3 7 , P { < } 0 . 0 1$ ,在空间上存在趋于集群的现象，LWLI高-高聚集区与城镇化集中区域具有一致性。LWLI与流域氮、磷空间分布存在极显著的相关性,平水期TN与LWLI的复相关系数 $\\textstyle R ^ { 2 }$ 为0.811,丰水期LWLI与TP的复相关系数 $\\textstyle R ^ { 2 }$ 为0.741;子流域所有水质参数 $\\mathrm { N H } _ { 4 } ^ { + } { - \\mathrm { N } } \\ 、 \\mathrm { T N } \\vphantom { \\mathrm { N O } _ { 3 } ^ { - } - \\mathrm { N } } , \\mathrm { T N } \\vphantom { \\mathrm { N H } _ { 4 } ^ { - } } \\mathrm { N H } _ { 4 } ^ { + }$ P及LWLI均集中在同一象限,与其它景观特征指数相比,LWLI对河流中氮、磷的影响最大。城镇居民用地与水质指标存在极显著的相关性，是流域水质污染重要的贡献源。流域城镇化发展中,建议提高村镇的景观连通性，便于污染物集中处理，同时增加林地、草地面积，改善流域的生态水文功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：景观格局；景观空间负荷对比指数；城镇化流域;非点源污染 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impact of a “ source-sink” landscape pattern in an urbanized watershed on nitrogen and phosphorus spatial variations in rivers : a case study of Yuqiao Reservoir watershed，Tianjin， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yajuan’，LI Chongwei1,\\*，HU Beibei1，XIE Huijun'，SONG Aiyun² 1College of Urban and Environmental Science,Tianjin Normal University,Tianjin 30o387,China 2ShandongProvinceKeyLaboratoryofcoenironmentalcienceforYelowiverDelta，inzhouUniversityinzhou6in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：With thedevelopmentof watershed urbanization,the impact of landscape patern onriver basin waterquality has gradually increased.The typesof polutioncausedby urbanization are random，complex，and uncertain.Therefore，it is important tounderstand howalandscape patern afects waterqualityinanurbanized watershed.The Yuqiao Reservoir is an important water source forthe Luanhe-Tianjin Water Diversion Project.However，itisunclear howurbanizationof he Yuqiao Reservoir watershed influences waterquality.Inthis study，we investigatedhowthe“source-sink”landscape patern of theurbanized watershedaffectednitrogenand phosphorusspatial variations inlocal rivers.Thiscan potentiallprovide theoreticalsupportforoptimizingthelandscapepattern intheYuqiaoReservoirwatershed.Themainobjectiveof this study wasto ientifytherelationship between landscape paternand waterquality.Thequantitativerelationship between the landscape index and waterqualitywasanalyzed using landscape indices （including the location-weighted landscape contrast index（LWLI）combined with 33 waterquality data for 2013—2O15).Theresultsshowed that the amountof“sink” landscape，fell，butthe amountof“source”landscaperose in the whole basin fromupstream areas to downstream areas. The proportion of the land used for residential construction reached $3 4 . 6 \\%$ on average in the middle and lower sub-basin, and the forest area accounted for $3 3 . 5 \\%$ of the“sink” landscape.LWLI's Moran's $I$ for the Yuqiao Reservoir watershed was 0.637 ( ${ P { < } 0 . 0 1 }$ ），and this tended to cluster at the spatial scale.LWLI and the spatial paterns for nitrogen and phosphorus were significantly correlated. The coefficient of determination $( R ^ { 2 } )$ between the LWLI and total nitrogen（TN）was 0.811 during the normal-water period,and $R ^ { 2 }$ was O.741 during the high-water period. The $\\mathrm { N H } _ { 4 } ^ { + }$ -N，TN, $\\mathrm { N O } _ { 3 } ^ { - }$ -N，TP，andLWLI waterqualityparameters testedinthesub-basins were gatheredtogetherinthe fourthquadrant.LWLIhadagreatereffection nitrogenand phosphorus in theriverthandidother landscape paern indices.Ithad widelydistributedandapparently aggregating characteristicsinurbanresidentialland.Urbanresidential landsurrounding Zunhua Citywasanimportant sourceof water pollution in the watershed.Identifying the quantitativerelationships between landscapepattmnand water qualityindicesisof theoreticalandpractical significancewhenattempting tooptimizetheregionallandscapepatterand improve water quality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：landscapepattern；location-weightedlandscapecontrastindex；urbanized watershed；non-point source pollution ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济的快速发展,流域城镇化的趋势加快[1-3],人为活动加剧引发了诸多的河流生态环境问题[4-5]。各种点源、非点源污染物以不同的方式随水体在各类型景观中迁移转化,导致流域景观组成、空间格局、不同空间尺度对河流水质均有影响[6-7]。景观组成和空间结构指数缺乏一定的生态学意义,而基于“源-汇\"过程的景观空间负荷对比指数（LWLI),融合了景观空间结构和景观性质,可以定量评价景观格局对污染过程的影响[8],该指数已在长江流域[9]、海河流域[10]和太湖流域[1]等多个流域进行了验证与应用。近几年来,该方法应用更加深入,结合不同区域特点,将栅格化LWLI应用于河口区域[12-13],将基于景观坡度指数和水文响应单元的空间负荷对比指数应用于水土侵蚀区域[14]。目前,城镇化引发的污染形式多样,且随机性、复杂性、不确定性更强,而单纯的对流域农业面源污染引发的水体污染进行分析已不能满足解决城市化带来的水环境恶化问题,对城镇化流域景观格局与水体污染关系的研究已成为近年来关注的焦点[15-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "流域景观格局具有高度的空间变异性和空间关联性,而水体污染物的空间异质性与之密切相关。景观格局特征的空间自相关分析,可以揭示景观格局空间聚集特征,有助于理解污染物的空间分布特征[18]。目前,景观格局与水质关系的研究多采用模型研究和数理统计分析方法，基于生态水文过程的模型机理性强,模型结构较为复杂,研究需要大量基础空间数据和长时间序列的监测数据[19-20]。而时间尺度较短的监测研究多采用相关分析、回归分析等数理统计方法来探讨景观格局与水体污染的关系。由于流域污染物具有复杂性和空间异质性,景观格局与流域水质存在一定的不确定性。近年来,结合多元线性回归分析、典范对应分析和冗余分析等研究多变量关系的方法，对影响水质的多因素关系进行了较为深入的研究[21-22]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于桥水库是引滦入津工程中的重要调蓄水库,其水环境状况直接影响着天津市工农业用水和生活饮用水。近年来流域城镇化趋势明显，居民建设用地从1984年的 $1 1 . 7 \\%$ 增加到2013年的 $1 8 . 1 \\%$ ,城镇居民点空间异质性显著增加,由平原向山区扩展明显[23];流域的污染形式更为复杂,氮、磷等营养盐严重富集,蓝藻水华频繁暴发,这对天津市饮用水源地的安全构成了威胁[24]。对该流域水环境的相关研究从20世纪80 年代一直延续至今,过去对流域中小尺度的研究较多,而对整个流域尺度的研究相对较少。陈利顶等[25]在本流域研究中应用“源-汇”景观格局理论,对流域农业面源污染进行了系统的研究,而对流域城镇化背景下，“源-汇\"",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "格局特征与流域水质空间耦合关系的研究相对较少[26] U",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之,流域城镇化过程中,河流水体污染的复杂不确定性更强。在多空间尺度上，揭示“源-汇”景观格局与河流水质空间异质关系,对流域景观格局优化具有重要意义。本研究选取于桥水库流域为研究区,基于3年来流域实地监测数据,采用空间分析及冗余分析的方法,探讨城镇化流域平水期与丰水期景观格局特征对水质的影响,为于桥水库流域的水环境保护与管理提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区域",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于桥水库流域 $( 3 9 ^ { \\circ } 5 6 ^ { \\prime } \\mathrm { - } 4 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { N } , 1 1 7 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { - } 1 1 8 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { E } )$ 总面积约 $2 0 6 0 \\mathrm { k m } ^ { 2 }$ ,位于天津市北部蓟县城东 4km处,其中约 $8 0 \\%$ 位于河北省遵化市地区。地形地势从东北向西南呈阶梯下降,西北部是山区,中部为平原,南部为丘陵和低山区。流域属温带大陆季风型半湿润气候区,年平均降水量在 $7 0 0 ~ \\mathrm { m m }$ 以上[24]。汇入该流域的主要河流有沙河、淋河和黎河。流域附近广泛分布着村镇,产生的各种污染物直接或间接影响着流域的水质。为了能全面的反映流域内水环境特征,本研究在全流域内划分出33个子流域开展水质监测与采样分析（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1889f56e983e2593ee41926fa26649e0a06b6d2827ffc76fe18d0686d6ec751e.jpg",
+        "img_caption": [
+            "图1于桥水库流域地理位置及采样点分布",
+            "Fig.1Geographical position and sampling points in the Yuqiao Reservoir watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 土地利用类型的划分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用2013年8月美国陆地卫星Landsat8遥感影像解译获得于桥水库流域土地利用数据,在ENVI5.1支持下对其进行大气辐射校正、几何校正等预处理,对解译结果进行实地调查校正,解译精度为 $8 7 \\%$ ,将流域土地利用类型划分为水体、林地、城镇居民用地、园地、裸地和耕地6种类型[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2水样点设置与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用1:5万DEM,在 ArcGIS水文模块中将流域集水区划分成33个子流域（图1）。子流域划分主要考虑取样的可达性及流域的独立性(其中有17个独立流域,其余16 个为镶套流域,由于取样点间隔距离远,从监测数据看并未受嵌套影响),此外考虑研究区不受引滦工程的影响,子流域划分集中于流域中上部的支流。流域监测的水质数据来源 2013、2014和2015年5—10月,其中7—9月丰水期于中雨及大雨后取样,平水期为每月中旬取样。于桥水库流域33个子流域河流出水口各设置1个监测点。每次取样 $5 0 0 \\mathrm { m L }$ ,装于采样瓶内并置于 $4 ^ { \\circ } \\mathrm { C }$ 采样保温箱内保存,3a共采集 792个水样。综合考虑流域内水环境污染特征及相关研究[27-29]选择总氮（TN）、氨态氮( $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ ）、硝态氮( $N \\mathrm { O } _ { 3 } ^ { - } { - } \\mathrm { N }$ ）、总磷（TP）作为水质指标，水质测试参照GB3838—2002《地表水环境质量标准》[30],TN采用碱性过硫酸钾消解紫外分光光度法（GB11894—89）， $\\mathrm { N H } _ { 4 } ^ { + }$ -N 采用纳氏试剂比色法（GB 7479—87）, $\\mathrm { N O } _ { 3 } ^ { - }$ -N 用紫外分光光度法[28],TP采用钼酸铵分光光度计测定（GB11893—89）。33个子流域氮磷含量普遍偏高,流域内三大子流域之间氮、磷存在一定的差异,受城镇化影响较高的沙河流域氮、磷含量较高,其次为黎河、淋河。受降雨的影响,磷含量存在明显的季节性差异,丰水期大于平水期,TN $\\mathrm { , N H _ { 4 } ^ { + } { - N } , N O _ { 3 } ^ { - } { - N } }$ 含量季节性差异较小（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e271f8d4a01f1c1d97358c8610191a5f58636f2e56e1353ae1eb0218c366894.jpg",
+        "table_caption": [
+            "表1水质数据描述性统计",
+            "Table 1Descriptive statistics of water quality parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阶段 Period</td><td>水质指标 Water quality index</td><td>平均值 Mean value/ (mg/L)</td><td>标准差 Standard deviation/ (mg/L)</td><td>标准变异系数 Standardized coefficients of variation/%</td><td>黎河/平均值 Li River/ Mean value/ (mg/L)</td><td>淋河/平均值 Lin Rive/ Mean value/ (mg/L)</td><td>沙河/平均值 Sha River/ Mean value/ (mg/L)</td></tr><tr><td>丰水期</td><td>总氮TN</td><td>8.60</td><td>4.74</td><td>57.80</td><td>9.38</td><td>5.54</td><td>11.89</td></tr><tr><td>High-water period</td><td>NH4-N</td><td>0.45</td><td>0.36</td><td>79.70</td><td>0.53</td><td>0.28</td><td>0.84</td></tr><tr><td rowspan=\"6\">平水期 Normal-water period</td><td>NO3-N</td><td>6.84</td><td>2.49</td><td>36.40</td><td>6.38</td><td>6.03</td><td>8.33</td></tr><tr><td>总磷TP</td><td>0.62</td><td>0.49</td><td>78.90</td><td>0.69</td><td>0.32</td><td>0.74</td></tr><tr><td>总氮TN</td><td>8.20</td><td>6.28</td><td>72.50</td><td>8.46</td><td>4.29</td><td>10.09</td></tr><tr><td>NH4 -N</td><td>0.42</td><td>0.71</td><td>113.70</td><td>0.59</td><td>0.14</td><td>0.50</td></tr><tr><td>NO3 -N</td><td>6.4</td><td>4.82</td><td>65.03</td><td>7.29</td><td>3.85</td><td>7.44</td></tr><tr><td>总氮TP</td><td>0.26</td><td>0.16</td><td>76.40</td><td>0.29</td><td>0.12</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3景观格局指数的获取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于研究区的实际情况及景观指数的生态学意义,本研究选取景观多样性指数（SHDI）、斑块密度（PD）、面积加权分形维数（area-weighted mean patch fractal dimension，AWMPFD）和最大斑块指数（LPI)与水质相关性较高的景观指数,用以表征流域景观格局特征[31-32]。其中 AWMPFD 反映人类活动对景观格局的影响程度,LPI是斑块聚集程度及优势景观类型的指数,而PD及 SHDI都是景观破碎化和丰富程度的指数。采用Fragstats 4.2软件计算各种景观格局特征指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "陈利顶、傅伯杰等[33-34]在\"源-汇\"景观理论的基础上,借用洛伦兹曲线提出了源汇景观空间负荷对比指数,来定量描述景观空间格局与非点源污染之间的过程。根据前人的研究[10.29],结合土壤侵蚀通用方程中的植被覆盖与管理因子(C值),对其“源”和“汇”的贡献权重进行了赋值。各土地利用类型赋值依次为林地（0.8）、耕地(0.4）、城镇居民用地（1.0）、园地(0.4）、裸地(0.5）。基于洛伦兹曲线的景观空间负荷对比指数模型如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L W L I } ^ { \\prime } = \\sum _ { i = 1 } ^ { m } A _ { \\mathrm { s o u r e c t } } \\times W _ { i } \\times A P _ { i } \\ \\div \\ \\Bigl [ \\sum _ { i = 1 } ^ { m } A _ { \\mathrm { s o u r e c t } } \\times W _ { i } \\times A P _ { i } \\ + \\sum _ { j = 1 } ^ { n } A _ { \\mathrm { s i n k j } } \\times W _ { j } \\times A P _ { j } \\Bigr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L W L I = L W L I ^ { \\prime } _ { \\ d i s t a n c e } \\times L W L I ^ { \\prime } _ { \\ e l e v a t i o n } \\div L W L I _ { \\mathrm { s l o p e } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中,LWLI代表综合的景观空间负荷对比指数， $A _ { \\mathrm { s o u r c e } i }$ 和 $A _ { \\mathrm { s o u r c e } j }$ 分别指第 $i$ 种\"源”景观和第 $j$ 种“汇\"景观面积累积曲线组成的不规则三边形面积， $\\textstyle \\mathbf { \\boldsymbol { W } } _ { i }$ 和 $\\boldsymbol { W } _ { j }$ 指“源”景观和“汇”景观类型的权重[10」， $\\mathrm { A P } _ { i }$ 和 $\\mathrm { A P } _ { j }$ 指第 $i$ 种源景观和第 $j$ 种汇景观类型的面积百分比, $m$ 和 $n$ 分别为“源”景观和“汇”景观类型的总数目。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水质数据为2013、2014和2015年每年5—10月份于桥水库流域的监测数据，分别选取每年丰水期和平水期各监测点数据进行统计分析。利用 $\\mathrm { A r c G I S ~ } 1 0 . 2$ 空间统计工具模块，对研究区源汇景观空间负荷对比指数（LWLI)进行空间自相关(Moran'sI)和聚类空间关联性(Anselin Local Moran's $I$ ))分析[18]；子流域“源-汇”",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观特征指数与子流域水质数据采用 Spearman 秩相关性分析在 SPSS17.0中完成;逐步回归分析用来确定最能解释单个河流水质变量的环境或景观变量因子;CANOCO 4.5 软件进行冗余分析（Redundancy analysia,RDA），用以揭示单个景观变量对河流水质变化的贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1于桥水库子流域景观格局分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "33个子流域内景观类型的构成(图2)按照“源\"型景观类型进行面积比例排列。流域内耕地和城镇居民用地面积比分别为 $7 . 9 \\%$ 和 $1 7 \\%$ ，“汇”型景观中林地面积占流域总面积的 $3 3 . 5 \\%$ 。城镇居民用地在各个子流域中均有分布,城镇居民用地所占子流域面积比例在 $0 . 1 \\% - 5 6 . 4 \\%$ ,中下游地区城镇居民用地高于上游地区,城镇居民用地的面积百分比在中下游子流域平均值达 $3 4 . 6 \\%$ ，个别子流域超过 $56 \\%$ 。受人为因素影响，耕地主要分布在中下游地区，占子流域面积比例平均值为 $4 . 6 \\%$ 。城镇居民用地和耕地所占面积比例从上游到下游逐渐增大,整个流域从上游到下游呈现“汇”景观减小，“源”景观增大的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "城镇居民用地分布广泛且空间聚集特征明显,上游地区以林地和园地为主要土地利用类型,虽然城镇居民用地面积比例低,但分布范围很广泛,如地势较为陡峭,海拔高度为700多米的四拨子仍然分布有居民地。城镇居民用地分布主要集中于中下游遵化市周边。15号流域包含遵化市区,其城镇化面积比最大,为 $56 . 4 \\%$ ，其次为16、12、17、8和5号流域,主要分布在遵化市周边地区。林地面积比例最大的流域为27号,其次为33、20、31、26、32和21号流域,分布在上游流域主要集中于清东陵等山区。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a904751d8c32cd432e3af76b6647e063a9836e3e524cb2107e826407c7841bf.jpg",
+        "img_caption": [
+            "图2各子流域景观类型构成",
+            "Fig.2Composition of landscape types in different watersheds "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2流域景观空间负荷对比指数空间关联性及其与流域氮磷空间分布的相关性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空间自相关分析是一系列空间数据分析方法和技术的集合[18],对LWLI进行空间自相关性分析,可揭示LWLI的空间集聚特征与流域\"源-汇\"景观格局及流域城镇化的空间分布的内在联系,而流域城镇居民用地和汇景观的分布与河流水质关系密切。首先使用全局Moran's $I$ 指数用于验证整个研究区域LWLI的空间相关关系,LWLI全局Moran's $I$ 的值为0.637， $P { < } 0 . 0 1$ ,表明研究区域LWLI存在较强的正相关情况,其空间分布存在一定的内在联系，即LWLI在空间上存在趋于集群的现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全局空间自相关指标可以检验整个区域某一要素的空间分布模式,但全局Moran's $I$ 不能用来测度相邻区域之间要素或属性的空间关联模式,因此需要讨论局部子流域LWLI的相关程度。为此,本文进一步对子流域LWLI进行局部空间关联格局分析,得出LWLI集聚图（图3）,高-高和低-低聚集模式的区域代表具有显著的空间自相关性。位于高-高聚集模式的区域主要集中在中部遵化市周边的15 西留村、16张七各庄村、12水平口、8鄂庄子村、5东双城村和11堡子店,这些子流域的城镇居民用地面积比分别为 $5 6 . 4 \\% . 5 0 . 2 \\%$ 、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 3 . 7 \\% , 3 8 . 5 \\% , 3 1 . 2 \\% , 1 1 . 9 \\%$ 和 $6 . 8 \\%$ ,均属于“源”型景观起主导作用城镇化较为突出的区域,LWLI高-高区域与城镇化集中区域具有一致性,表明LWLI能较好地反映流域城镇化趋势。低-低聚集模式主要分布在西北部地区淋河流域的28大鹿圈、20金山子村、31后龙台、26 小溪、21四拨子和32二拨子流域,主要以灌草地和林地为主,居民建设用地仅有 $0 . 0 8 \\% 0 . 2 1 \\% 0 . 2 5 \\% 0 . 3 8 \\% 0 . 4 4 \\%$ 和 $0 . 8 3 \\%$ ,林地占 $7 9 . 5 \\% - 9 2 . 5 \\%$ ,人为干扰较少，“汇”型景观在流域内起主导作用。LWLI的空间分布与流域“源-汇”景观格局形成对应关系,在空间分布上与城镇化集中区域具有一致性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac50fef22d72751a889c6bc0ae5b6f374df32fa6894a0bc11650cde142f74d69.jpg",
+        "img_caption": [
+            "图3源汇景观空间负荷对比指数局部空间自相关图",
+            "Fig.3The LWLI of local spatial autocorrelation in the Yuqiao Reservoir watershed "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "流域景观空间负荷对比指数(LWLI)与流域氮、磷空间分布存在极显著的相关性(表2)。在平水期与丰水期LWLI与 $\\mathrm { T P } \\ \\mathrm { , T N \\ , N O _ { 3 } ^ { - } \\mathrm { - N \\ , N H _ { 4 } ^ { + } \\mathrm { - } } }$ N 均呈显著的正相关。平水期河流水质受人为影响较大,平水期与总氮的相关系数最高为0.811，其次为 $\\mathrm { N O } _ { 3 } ^ { - }$ -N和 $\\mathrm { T P }$ 。丰水期受雨水的冲刷将土壤中磷带入水体中,使河流中磷浓度上升,在丰水期LWLI与TP的相关性最大,相关系数为0.797,其次为TN 和 $\\mathrm { N O } _ { 3 } ^ { - }$ -N。平水期到丰水期,随降雨量增加,子流域TP与LWLI的相关系数较高。而T $\\mathrm { \\Delta N , N H _ { 4 } ^ { + } { - N } , N O _ { 3 } ^ { - } { - N } }$ 与LWLI的相关系数均减小。LWLI指数是基于高程、坡度、距离和景观类型的综合指标,能较好反映水体中氮、磷的输出状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d3082b7795dc3885429cde3105fe6d6dbe4c1c02078e7f9d905f62fbe655dcc.jpg",
+        "table_caption": [
+            "表2LWLI与水质指标之间的Spearman相关性分析",
+            "Table2Spearman correlation analysis between LWLI and water parameter "
+        ],
+        "table_footnote": [
+            "\\*\\*表示 $P { < } 0 . 0 1$ ;LWLI：景观空间负荷对比指数"
+        ],
+        "table_body": "<html><body><table><tr><td>阶段Period</td><td>景观指数 Landscape index</td><td>TN</td><td>NO3-N</td><td>TP</td><td>NH4 -N</td></tr><tr><td>丰水期High-water period</td><td>LWLI</td><td>0.811**</td><td>0.782 **</td><td>0.727**</td><td>0.718**</td></tr><tr><td>平水期 Normal-water period</td><td>LWLI</td><td>0.741**</td><td>0.694 **</td><td>0.797**</td><td>0.661**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3水质变化的主导景观变量辨析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更直观反应景观特征指数与水质指标之间的关系,选取RDA线性模型,以33个检测点的水质数据和10个景观特征指数为样本对其进行冗余分析(图4)。当景观特征指数与水质指标之间的箭头夹角小于90度,两者之间为正相关;夹角等于90度,两者不相关;夹角大于90度,两者之间为负相关。由RDA排序图可看出，丰水期与平水期水质指标与城镇居民用地比例( $\\operatorname { R e d } \\%$ ）、裸地比例( $\\mathrm { B a r } \\%$ ）、园地比例( $0 r d \\%$ )、耕地比例（ $\\mathrm { C u l } \\%$ ）、斑块密度(PD）、景观多样性指数(SHDI)和面积加权分形维数（AWMPFD)呈正相关,与林地比例（ $\\mathrm { F o r } \\%$ ）、最大斑块指数(LPI)呈负相关。另外,箭头的长度反应该景观特征指数对水质指标的影响程度,箭头越长影响程度越大,可看出土地利用类型中 $\\mathrm { R e d } \\%$ 和 $\\mathrm { F o r \\% }$ 对水质指标的影响最为显著,与 $\\mathrm { B a r } \\%$ 和 $\\mathrm { C u l } \\%$ 的相关性并不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "子流域所有的水质参数 $\\mathrm { N H _ { 4 } ^ { + } { - N } , T N , N O _ { 3 } ^ { - } { - N } , T P }$ 、与LWLI均集中在排序轴的同一象限,表明与其它景观特征指数相比,LWLI对河流中氮、磷的影响最大。在平水期,LWLI与TN趋于重合的趋势,丰水期,TP与LWLI趋于重合的趋势,表明平水期LWLI能最有效的反映TN流失的状况,与平水期相比,丰水期LWLI对TP 影响增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For% $0 r d \\%$ 、LPI、AWMPFD与上游地区的子流域主要分布在第二排序轴的左侧,结合子流域景观类型构成可知,这些子流域林地面积百分比相对较高,受人为干扰较小。分布在排序图右侧的子流域主要受 SHDI、PD、 $\\mathrm { R e d } \\%$ 、 $\\mathrm { B a r } \\%$ 、 $\\mathrm { C u l } \\%$ 的影响。结合子流域景观类型构成分析,这些子流域城镇居民用地面积比例较高,且景观破碎化严重,人为干扰强烈,其中15、8、16、12、5和11号子流域对氮、磷影响较大,这与城镇居民用地面积百分比大小具有一致性,表明城镇居民用地是流域水质污染的重要贡献源。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/772f8482ab23056caccfcc0fffb0fb0b09be1f8e05d2d8d9a891db0647edda0c.jpg",
+        "img_caption": [
+            "图4不同水期的RDA排序",
+            "Fig.4RDA ordination in different water periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究景观特征指数对水质的影响,对水质指标与所有的景观特征指数进行逐步回归分析。由(表3)多元逐步回归分析可以看出,大多数的水质理化指标由2到3个环境变量来解释。在平水期,回归模型中， $\\mathrm { F o r \\% }$ 对TN和TP产生显著影响， $\\operatorname { R e d } \\%$ 与 $\\mathrm { N H } _ { 4 } ^ { + }$ -N 显著正相关, $0 r d \\%$ 显著贡献了 $N \\mathrm { O } _ { 3 } ^ { - } { - } \\mathrm { N }$ 。在丰水期，$\\operatorname { R e d } \\%$ 对TP和 $\\mathrm { N H } _ { 4 } ^ { + }$ -N有着显著地正相关趋势， $\\mathrm { F o r \\% }$ 对TN显著的负相关趋势， $0 r d \\%$ 对 $\\mathrm { N O } _ { 3 } ^ { - }$ -N有较强的正相关性,SHDI对 $\\mathrm { N H } _ { 4 } ^ { + }$ -N 产生显著影响。从回归效果来看,平水期TN与LWLI之间回归系数最高， $R ^ { 2 }$ 为0.765,丰水期TP与LWLI的回归系数最高, $R ^ { 2 }$ 为0.708。从平水期到丰水期TN、 $\\mathrm { N H } _ { 4 } ^ { + }$ -N与 $\\mathrm { N O } _ { 3 } ^ { - }$ -N 的回归系数降低,TP 回归系数系数增大。所有模型中,LWLI均为解释变量,说明LWLI与各种污染物显著相关,这一结果和LWLI与水质指标之间的 Spearman 相关性分析结果具有一致性,表明LWLI能有效地反映氮、磷输出特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1景观特征指数与水质之间的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明城镇居民用地是水质退化最主要的贡献源,森林能够有效控制水体中污染物的浓度[2,27-28],本研究中RDA 排序图直观展示了平水期与丰水期城镇居民用地与水质指标之间的相关性均为最高,由逐步回归分析和 Spearman 相关分析可知,林地与水质指标呈显著负相关,说明“汇”景观对水体的净化功能较强，即水质较好的流域具有较高的森林覆盖率和较低的城镇化水平。由于城镇居民用地遍及所有的子流域,居民生活区的污染物经不透水面排入河道更为便捷,加剧了水质的恶化。位于流域中下游地区的遵化市周边城镇居民用地面积比例较大,河道水质相对较差,城镇化较高，人为十扰严重，除企业排污及矿业废水等点源污染外,居民生活污水及家禽养殖对流域面源污染贡献较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/93da0c89e5d7750a384935bd6c2dd3a0c2781703f374e92a01251d94e0b94c1b.jpg",
+        "table_caption": [
+            "表3景观特征指数与水质指标之间的逐步回归分析",
+            "Table 3Regression analysis between indices of landscape pattern and water quality index "
+        ],
+        "table_footnote": [
+            "$\\mathrm { F o r } \\%$ :林地比例 forest percent; $\\operatorname { R e d } \\%$ ：城镇居民用地比例 residential percent; $0 r d \\%$ :园地比例 Orchard percent;SHDI;景观多样性指数 shannon'sdiversity index"
+        ],
+        "table_body": "<html><body><table><tr><td>阶段d</td><td>Wate水q质aliyindex</td><td>回归分析方程aysis cquation</td><td>R²</td><td>P</td></tr><tr><td>丰水期</td><td>TN</td><td>y=14.490LWLI-12.102 For% +0.685</td><td>0.549</td><td>0.000</td></tr><tr><td>High-water period</td><td>TP</td><td>y=1.170LWLI+1.024 Red% -0.113</td><td>0.708</td><td>0.003</td></tr><tr><td></td><td>NH4-N</td><td>y=0.727LWLI+1.376 Red% +0.389SHDI-0.267</td><td>0.647</td><td>0.001</td></tr><tr><td></td><td>NO3 -N</td><td>y= 3.717LWLI+0.132 Ord%+0.025</td><td>0.316</td><td>0.005</td></tr><tr><td>平水期</td><td>TN</td><td>y=21.618LWLI-43.152 For% -1.388</td><td>0.765</td><td>0.000</td></tr><tr><td>Normal-water period</td><td>TP</td><td>y=0.466LWLI-1.649 For% -0.093</td><td>0.475</td><td>0.000</td></tr><tr><td></td><td>NH4-N</td><td>y =1.226LWLI+0.012 Red% -0.767</td><td>0.702</td><td>0.000</td></tr><tr><td></td><td>NO3-N</td><td>y= 18.914LWLI+3.757 Ord%-0.680</td><td>0.632</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "于桥水库流域城镇居民用地对氮、磷的影响更加显著,这与部分研究结果[28]有所不同，可能是因为流域内耕地面积比例相对较小且较为集中,相对城镇居民用地来说氮、磷输出的贡献较低。近几十年来随着园林果业的发展,农业面源污染对河流的影响也会逐渐降低。本研究中园地与 $\\mathrm { N O } _ { 3 } ^ { - }$ -N 表现出相关性,与其他水质指标相关性并不显著,表明园地对水质的影响具有不确定性,这与前人研究结果相吻合[35]。这可能是由于本流域内园地主要为板栗林,板栗林施肥主要以氮肥为主,磷肥使用比例较低,但其地表植被对污染物又起到吸附和滞留的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由RDA排序结果可知,斑块密度(PD）、景观多样性指数(SHDI)和面积加权分形维数（AWMPFD)与水质指标呈正相关,PD、AWMPFD 和 SHID 的增高意味着景观的破碎化程度越高,受人类干扰强度越大,越不利于控制污染物的迁移和转化;最大斑块指数(LPI)与水质指标呈负相关,高的LPI意味着受人类干扰强度越小，水质往往较好;城镇化引发的污染随机性、复杂性、不确定性更强,水体中的污染物输出只能被少数景观指数解释,甚至有些水质指标与景观格局指数之间的关系无法被合理解释.多数景观指数是对景观格局几何特征的描述和分析,忽略了对景观格局特征的内涵理解[36]。在\"源-汇\"理论基础上建立的LWLI,能够较好的融合景观类型、面积、空间位置和地形特征[8」,在本研究中和氮磷指标有显著的相关性,有效地刻画水体污染的空间异质性。因此,适宜的景观格局指数能有效说明流域水质的空间分布特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2LWLI与水质之间的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在逐步回归分析中,LWLI均为解释变量,表明 LWLI能有效地反映氮、磷输出特征,结合 Spearman 相关性分析结果(表1）,表明LWLI与流域氮、磷空间分布存在极显著的相关性,这与已有研究结果是相似的[9-10]。本研究中(LWLI)与流域氮、磷的相关性要高于其他景观特征指数,这与孙然好等[10]和李晶等[14]的观点相同。LWLI指数是基于高程、坡度、距离和景观类型的综合指标[10],较好地融合了景观组成结构、空间结构和景观性质,可以定量评价水体的污染程度。从平水期到丰水期LWLI与磷污染相关性增加,而与氮污染相关性较低,可能由于LWLI中体现了地形因素的影响,河流中水质的空间分布与地形因素密切相关,研究表明强降雨作用下,地势较高将引发较高的侵蚀率,使得土壤中颗粒态的磷大量的流入河流中,同时流域内园地施加的磷肥在丰水期也会被雨水冲出进入河道,导致河流中的磷浓度增加。LWLI涵盖地形因子和景观类型因子,在汛期LWLI能更好的解释磷污染的状况。氮含量与人为因素密切相关,降水较少的情况下,居民生活区是氮输出的主要形式[36],本流域内城镇居民用地遍布所有子流域,同时城镇居民用地与水质指标之间的相关性最显著。由于LWLI考虑了景观类型和汇水口距离的影响,因此,在平水期相对传统景观指数,LWLI能更好地解释氮的输出。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由 Spearman 相关性分析可知,LWLI与水质指标均表现为显著地相关性。而在逐步回归分析中,LWLI与水质指标的相关性较低。可能在逐步回归分析中大多数的水质理化指标可以由2到3个环境变量来解释,由于不同环境变量的差异,导致水质指标与LWLI的相关性产生一定的差异性。如：平水期LWLI与 $\\mathrm { R e d } \\%$ 对$\\mathrm { N H } _ { 4 } ^ { + }$ -N 产生显著影响,而 $\\mathrm { N O } _ { 3 } ^ { - }$ -N 主要受LWLI与 $0 r d \\%$ 的影响,说明水体中 $\\mathrm { N H } _ { 4 } ^ { + }$ -N 受村镇的影响较大,园地对$\\mathrm { N O } _ { 3 } ^ { - }$ -N 产生一定的影响,这与前人的研究结果具有一致性[36]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)整个流域从上游到下游呈现“汇”景观减小，“源\"景观增大的趋势。城镇居民用地主要分布在中下  \n游地区遵化市周边，城镇居民用地的面积百分比在中下游子流域平均值达 $3 4 . 6 \\%$ ，个别子流域超过 $56 \\%$ 。城  \n镇用地和耕地所占面积比从上游到下游逐渐增大,林地所占面积比例呈现相反的趋势。(2)LWLI全局 Moran's $I$ 的值为 $0 . 6 3 7 , P { < } 0 . 0 1$ ,在空间上存在趋于集群的现象。高-高聚集模式的区域主  \n要集中在中部遵化市区周边,这与城镇居民点主要集中分布于遵化市周边一致。低-低聚集模式主要分布在  \n流域上游西北部地区，而林地等\"汇\"型景观也主要集中在清东陵等山区。(3)在丰水期与平水期LWLI与氮、磷均呈显著的正相关性。LWLI与所有水质指标均集中于同一象限,  \n对水质指标的解释能力远大于其他景观特征指数;平水期 TN与LWLI之间的回归系数要高于 TP、 $\\mathrm { N H } _ { 4 } ^ { + }$ -N和  \n$\\mathrm { N O } _ { 3 } ^ { - } { - } \\mathrm { N } , R ^ { 2 }$ 为0.811,丰水期TP与LWLI的回归系数最大， $R ^ { 2 }$ 为0.745。在流域城镇化发展中,城镇居民用地分布广泛,源汇景观破碎化程度较高。建议优化流域\"源-汇”景观格  \n局。控制“源\"景观的排放,提高村镇景观的连通性,有利于污水和垃圾的收集和处理;优化农林格局,推广生  \n态农业,减少化肥农药的使用。同时,提高“汇\"景观的调节功能,退耕还林,降低高山区林地的景观破碎化;",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "流域下游应增加林地、草地的斑块，可以改善水质优化环境。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]XianG,raneM,uJAnnalysisofurbaevelopentditsviroentalimpactoteTampaBywatesdJalofiotalManagement，2007,85(4）:965-976.  \n[2]EvansDhSgoJrdialesofsolergdossurface waters of a multil and use basin.Environmental Monitoring and Assessment,2014,186(2)：873-887.  \n[3］李静芝，朱翔，李景保，徐美.洞庭湖区城镇化进程与水资源利用的关系.应用生态学报，2013,24（6)：1677-1685.  \n[4]ShenZHouaX,iWinG,nLogactfsapeetuiplespaalesatealitydtypical urbanised watershed in China.Ecological Indicators,2015,48：417-427.  \n[5]SnRH,LD,nW,JtofLdeaesoTotalrCoetratoneUpstreaRegosfierBasin，China.Environmental Management,2013,51(1）：45-58.  \n[6]BuHM,MengW,ZhangY，WanJ.Relationshipsbetweelandusepatesand waterqualityintheTaizRiverbasin，ChinaEcologicalIndicators,2014,41：187-197.  \n[7］李艳利，李艳粉，徐宗学，关中美.浑太河上游流域河岸缓冲区景观格局对水质的影响.生态与农村环境学报，2015,31（1）：59-68.  \n[8] 陈利顶，李秀珍，傅伯杰，肖笃宁，赵文武.中国景观生态学发展历程与未来研究重点.生态学报，2014，34（12)：3129-3141.  \n[9] 刘芳，沈珍瑶，刘瑞民.基于“源-汇\"生态过程的长江上游农业非点源污染.生态学报，2009,29(6)：3271-3277.  \n[10] 孙然好，陈利顶，王伟，王赵明.基于“源\"“汇\"景观格局指数的海河流域总氮流失评价.环境科学，2012，33（6)：1784-1788.  \n[11］王瑛，张建锋，陈光才，单奇华,李泽波，徐永辉，陈云.太湖流域典型入湖港口景观格局对河流水质的影响.生态学报，2012，32（20)：6422- 6430.  \n[12]JiangMZ,ChenHYChQH.Aethodtaly“ouresink\"structureofo-ptsouepltidoreotesiglogEnvironmental Pollution,2013,182：135-140.  \n[13]Jiang,Heudfaefadotstetlan estuary.Marine Pollution Bulletin，2014,87(1/2）:88-97.  \n[14]LiJ，ZouZXupledsodapepadrolpcsiwatedofieefhTtat,2015，505:927-938.  \n[15］冯源嵩，林陶，杨庆媛.百花湖周边城市近郊小流域氮、磷输出时空特征.环境科学，2014，35(12）：4537-4543.  \n[16］李昆，王玲，李兆华，王祥荣，陈红兵，吴忠，朱鹏.丰水期洪湖水质空间变异特征及驱动力分析.环境科学，2015，36(4)：1285-1292.  \n[17]ShenZY，HouXS，LiW，AiniGRelatinglndscapecaracteriticsto-poitsoucepoltioninatyalubanzedwatershdemunicipality of Beijing.Landscape and Urban Planning，2O14，123：96-107.  \n[18］孙才志，闫晓露，钟敬秋.下辽河平原景观格局脆弱性及空间关联格局.生态学报，2014，34（2)：247-257.  \n[19]ChiangLanY,Mhafey,JacksonMubeIesingSW'spefoaceineKskaskiaverwatershedsifdbythe number of calibration stations used.Hydrological Processes，2014,28（3）：676-687.  \n[20]OuyangWogKWangX,HaoF-otsourceltiodisergeaicuralevelopntdrelatipilandscape dynamics.Ecological Indicators，2014，45：579-589.  \n[21］赵鹏，夏北成，秦建桥，赵华荣.流域景观格局与河流水质的多变量相关分析.生态学报，2012，32（8)：2331-2341.  \n[22] 刘丽娟，李小玉，何兴元.流域尺度上的景观格局与河流水质关系研究进展.生态学报，2011,31（19)：5460-5465.  \n[23］陈萍，李崇巍，王中良，孟伟庆，包姗姗，谢慧君.天津于桥水库流域典型景观类型时空演变分析.生态学杂志，2015，34（1）：227-236.  \n[24］徐媛，谢汝芹，卢蔚，王玉秋.于桥水库富营养化评价及空间分布特征研究.水资源与水工程学报，2014，25（1)：1-6.  \n[25］陈利顶，傅伯杰，张淑荣，丘君，郭旭东，杨福林.异质景观中非点源污染动态变化比较研究.生态学报，2002，2（6)：808-816.  \n［26］包姗姗，李崇巍，王祖伟，陈萍，郭继发.天津于桥水库流域水体氮磷空间分异与景观格局的关系.农业环境科学学报，2014，33（8)：1609- 1616.  \n[27］王琼，姜德娟，于靖，张华.小清河流域氮磷时空特征及影响因素的空间与多元统计分析.生态与农村环境学报，2015,31(2）：137-145.  \n[28] 王欢，袁旭音，陈海龙，许海燕，李正阳.太湖流域上游西苕溪支流的营养状态特征及成因分析.湖泊科学，2015,27(2)：208-215.  \n[29]ChenLDau,XFevelotfNdeforteatidseaesicaredScale.Chinese Geographical Science，2009，19(1）:37-45.  \n[30］国家环境保护总局.水和废水监测分析方法(第四版).北京：中国环境科学出版社，2002.  \n[31］焦胜，杨娜，彭楷，郭谌达，李振民，周怀宇.为水流域土地景观格局对河流水质的影响.地理研究，2014，33（12)：2263-2274.  \n[32] 欧洋，王晓燕，耿润哲.密云水库上游流域不同尺度景观特征对水质的影响.环境科学学报，2012，32（5)：1219-1226.  \n[33］陈利顶，傅伯杰，徐建英，巩杰.基于“源-汇\"生态过程的景观格局识别方法—景观空间负荷对比指数.生态学报，2003，23（11)：2406-2413.  \n[34］陈利顶，傅伯杰，赵文武.“源”“汇\"景观理论及其生态学意义.生态学报，2006,26(5）：1444-1449.  \n[35］吉冬青，文雅，魏建兵，吴志峰，刘庆，程炯.流溪河流域景观空间特征与河流水质的关联分析.生态学报，2015，35(2)：246-253.  \n［36］韩黎阳，黄志霖，肖文发，田耀武，曾立雄，吴东.三峡库区兰陵溪小流域土地利用及景观格局对氮磷输出的影响.环境科学，2014，35(3)：1091-1097.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

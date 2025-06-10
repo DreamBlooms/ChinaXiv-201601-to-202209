@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160541 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈玲，董坤，杨智仙，董艳，汤利，郑毅．苯甲酸胁迫下间作对蚕豆自毒效应的缓解机制[J]．中国生态农业学报，2017, 25(1): 95-103 Chen L,Dong K,Yang Z X,Dong Y,Tang L, Zheng Y.Alleviation mechanismof intercropping with wheat forfaba bean autotoxicity under benzoic acid stress[J]. Chinese Journal of Eco-Agriculture,2017,25(1): 95-103 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸胁迫下间作对蚕豆自毒效应的缓解机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈玲'，董坤²，杨智仙³，董艳1\\*\\*，汤 利，郑毅1,4(1．云南农业大学资源与环境学院昆明650201;2.云南农业大学食品科技学院昆明650201;3．云南大学 昆明 650091;4.西南林业大学 昆明650224)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：苯甲酸是引起蚕豆连作障碍的主要自毒物质之一。本文采用水培试验，研究了不同浓度苯甲酸 $\\mathrm { { [ C _ { 0 } ( 0 \\ m g \\cdot L ^ { - 1 } ) } }$ 、$\\mathrm { C _ { 1 } ( 5 0 \\ m g { \\cdot } L ^ { - 1 } ) }$ 、 ${ \\bf C } _ { 2 } ( 1 0 0 ~ \\mathrm { m g { \\cdot L } ^ { - 1 } } )$ 和 $\\mathrm { C } _ { 3 } ( 2 0 0 \\ \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 } )$ ]处理对与小麦间作的蚕豆幼苗生长和枯萎病发生的影响，从生理抗性角度探讨小麦与蚕豆间作对缓解苯甲酸自毒效应的机制，为合理利用间作缓解连作障碍，实现农业可持续发展提供科学依据。结果表明：与 $\\mathrm { ~ C ~ } _ { 0 }$ 处理相比，不同浓度苯甲酸处理均显著抑制了蚕豆幼苗的生长，并且随处理浓度升高，抑制效应增强；同时显著提高了蚕豆枯萎病发病率和病情指数；蚕豆根系和叶片的 MDA含量显著提高，但抗氧化酶(POD和CAT)活性和病程相关蛋白(β-1,3-葡聚糖酶和几丁质酶)活性均随苯甲酸处理浓度升高而降低。表明不同浓度苯甲酸处理均显著抑制了蚕豆的生长，降低蚕豆的生理抗性而促进枯萎病发生。与单作蚕豆相比，蚕豆与小麦间作显著提高了苯甲酸胁迫下蚕豆的地上部干重 $( 1 7 . 0 \\% { \\sim } 4 7 . 1 \\% )$ ，降低了发病率 $( 1 1 . 1 \\% { \\sim } 2 5 . 0 \\%$ 和病情指数 $( 2 0 . 0 \\% \\sim 4 2 . 1 \\% )$ ；蚕豆根系和叶片中POD 活性分别提高 $1 2 . 9 \\% { \\sim } 1 6 . 9 \\%$ 和$9 . 3 \\% { \\sim } 2 4 . 9 \\%$ ，CAT活性分别提高 $1 0 . 3 \\% { \\sim } 5 4 . 0 \\%$ 和 $6 . 6 \\% { \\sim } 2 0 . 5 \\%$ ，蚕豆根系的 $\\beta$ -1,3-葡聚糖酶和几丁质酶活性分别提高 $4 . 7 \\% { \\sim } 1 3 . 1 \\%$ 和 $6 . 7 \\% { \\sim } 1 5 . 8 \\%$ ，MDA含量分别降低 $1 9 . 5 \\% { \\sim } 2 5 . 4 \\%$ 和 $2 0 . 5 \\% { \\sim } 2 9 . 9 \\%$ 。 $\\mathbf { C } _ { 2 }$ 处理下间作提高抗氧化酶和病程相关蛋白活性的效果最好，抗病效果最佳。表明小麦与蚕豆间作通过提高蚕豆的生理抗性而减轻苯甲酸引起的枯萎病危害，促进蚕豆生长，是缓解苯甲酸自毒效应的有效措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苯甲酸；蚕豆；连作障碍；间作；抗氧化酶；病程相关蛋白；枯萎病中图分类号：S154.36 文献标识码：A 文章编号：1671-3990(2017)01-0095-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alleviation mechanism of intercropping with wheat for faba bean autotoxicity under benzoic acid stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ling1, DONG Kun², YANG Zhixian³, DONG Yan1\\*\\*, TANG Li', ZHENG Yi1,4 (1.College ofResourcesandEnvironment,YunnanAgriculturalUniversity,Kunming 601,China;2.CollgeofFoodScience andTechnology,YunnanAgricultural University,Kunming6502o1,China;3.Yunnan UnversityKunming 650091,hna; 4.Southwest Forestry University,Kunming 650224, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Continuous cropping offababeancauses serious growth obstacle,and benzoic acid isoneof the main autotoxins in faba beancontinuous cropping.Fababean-wheat intercropping isageneral plantingpaterninSouthwest China.Toinvestigate the efectofbenzoicacidonfababeanseedlinggrowthandFusarium wiltoccurence,andtoexplore theefectandaleviation mechanism ofintercropping with wheat on faba bean autotoxicity,a hydroponic experiment offaba bean-wheat intercropping with benzoic acid application was conducted in the greenhouseof Yunnan Agricultural University.Four benzoic acid rates were set, which were ${ \\bf C } _ { 0 } ( 0 \\mathrm { \\ m g { \\cdot } L ^ { - 1 } } )$ ， $\\mathrm { C _ { 1 } } ( 5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } } )$ ， ${ \\bf C } _ { 2 } ( 1 0 0 \\mathrm { \\ m g { \\cdot } L } ^ { - 1 } )$ and $\\mathrm { C } _ { 3 } ( 2 0 0 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } } )$ ， with two planting patterns, faba bean monocropping and faba bean and wheat intercropping.The growth，enzymes activities and occurrence of faba bean Fusarium wilt were investigated.The results showed that in comparison with $\\mathrm { C } _ { 0 }$ treatment, seedling growth was inhibited with increasing benzoic acid concentration.Benzoic acid increased the incidence and disease index of monocropped faba bean Fusarium wilt,significantly increasedroot andleafMDA contents,and decreased the activitiesof antioxidant enzyme (POD and CAT）andpathogenesis-related proteins (β-1,3-glacanaseandchitinase）with increasingapplicationrates.Comparison with monocropped faba bean, intercropped faba bean increased shoot dry weight by $1 7 . 0 \\% { - 4 7 . 1 \\% }$ ,reduced disease incidence and disease index by $1 1 . 1 \\% { - 2 5 . 0 \\% }$ and $2 0 . 0 \\% { - 4 2 . 1 \\% }$ ，respectively,under benzoic acid application. Furthermore,the peroxidase (POD） activity increased by $1 2 . 9 \\% { - 1 6 . 9 \\% }$ in root and by $9 . 3 \\% { - 2 4 . 9 \\% }$ in leaf;and the catalase (CAT） activity increased by $1 0 . 3 \\% { - 5 4 . 0 \\% }$ in root and by $6 . 6 \\% - 2 0 . 5 \\%$ in leaf under intercropped condition. Compared with monocropping of faba bean, intercropping with wheat increased faba bean $\\beta$ -1,3-glacanase and chitinase activities in root by $4 . 7 \\% - 1 3 . 1 \\%$ and $6 . 7 \\% - 1 5 . 8 \\%$ ，while decreased malondialdehyde (MDA） contents in both root and leaf significantly by $1 9 . 5 \\% { - 2 5 . 4 \\% }$ and $2 0 . 5 \\% { - 2 9 . 9 \\% }$ ，respectively,with benzoic acid application. Under $\\mathbf { C } _ { 2 }$ $( 1 0 0 \\ \\mathrm { \\ m g { \\cdot } L ^ { - 1 } } ,$ ）treatment of benzoic acid stress,faba bean-wheat intercroppingsystemshowedthe best efectofimproving pathogenesis-related proteinsandantioxidative enzymes activity.Intercroppingoffababean-wheatsignificantly increasedphysiologicalresistance toFusarium oxysprumf.fabae and significantlydecreasedthe incidenceofFusarium wilt.Therefore,italleviatedthedamageofFusariumwiltcausedbybenzoic acid,and promoted growth of faba bean.Thus,intercropping with wheat was an efective method to alleviate faba bean autotoxicitycaused by benzoicacid.Theresultsalsoprovided anexperimental evidence for developinganecologicaleconomic and effective approach to control soil-borne diseases caused by continuous crop cultivation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Benzoic acid;Faba bean; Continuous cropping obstacle； Intercropping;Antioxidativeenzyme;Pathogenesis related protein;Fusarium wilt ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受土地资源短缺、种植习惯、环境条件和经济利益驱动等条件制约，我国在同一块土地上连续种植同科或同一种作物的现象非常普遍[1]。长期单一作物连作，会出现植株生长和发育受阻，土传病害严重发生，从而导致大幅减产的连作障碍问题[1]。多年来，大量研究表明土壤养分缺乏、土壤酶活性降低、根际微生物区系恶化和土传病害高发等均会导致连作障碍发生。近年来的研究表明，连作土壤中酚酸类物质的累积是导致多种作物连作障碍发生的重要原因[2-3]。目前研究者已从多种作物根系分泌物和连作土壤中检测出肉桂酸、对羟基苯甲酸、苯甲酸、香草酸、丁香酸、香豆酸和阿魏酸等多种酚酸物质[3-4]，并证明了这些酚酸是导致韭菜(Cunninghamialanceolata)、黄瓜(Cucumis sativus)、茄子(Solanummelongena)、番茄(Solanumlycopersicum)等作物发生连作障碍的自毒物质，其中苯甲酸是西瓜(Citrulluslanatus)、芋头(Colocasia esculenta)和人参(Panaxginseng)等作物连作土壤和根系分泌物中主要的酚酸物质[1,5]，在连作西瓜和人参中已证明苯甲酸能显著促进黄瓜枯萎病和人参锈病的发生[6-7]。我们前期在田间试验中发现，连作条件下蚕豆(Viciafaba)出苗差，生长瘦弱，枯萎病发病较严重；进一步通过高效液相色谱在蚕豆连作土壤中检测到7种酚酸(对羟基苯甲酸、香草酸、丁香酸、阿魏酸、水杨酸、肉桂酸、苯甲酸)，且苯甲酸具有较高的含量[8]，但苯甲酸是否是引起蚕豆连作障碍的自毒物质尚不清楚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用植物化感作用而采用的间作模式，是以植物为药源取代化学杀菌剂，去弊存利的植物保护措施，是解除连作障碍的有效手段[5]。云南具有丰富的生物资源优势，小麦(Triticum aestivum)与蚕豆间作一直是云南及西南地区普遍的种植模式，在农业生产中占有重要地位，具有大面积的种植，增产、增收、抗病效果显著[9]。蚕豆连作致使土传枯萎病严重发生，产量严重下降，是制约我国蚕豆生产的重要病害，尤其在云南蚕豆生产上发生危害较重。我们的前期研究表明小麦与蚕豆间作增加了蚕豆根际微生物的数量和多样性而抑制了枯萎病的发生[10-11]。但截至目前为止，有关自毒物质胁迫下，小麦与蚕豆间作对连作蚕豆自毒作用的缓解效果及机理尚未见报道。本试验在外源添加苯甲酸并接种尖孢镰刀菌的条件下，研究苯甲酸对单作蚕豆生长、枯萎病发生及蚕豆抗氧化酶和病程相关蛋白的影响，明确苯甲酸在蚕豆连作障碍形成中的作用；通过比较单作和间作蚕豆生长和枯萎病发生，根系及叶片病程相关蛋白和抗氧化酶活性的差异，明确间作对苯甲酸自毒效应的缓解效果及间作减轻苯甲酸自毒效应的生理机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 供试材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2015年10月至12月在云南农业大学资源环境学院温室大棚内进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试小麦品种为‘云麦53'，蚕豆品种为‘89-147'，购于云南省农业科学研究院。供试苯甲酸(分析纯)购于国药集团上海有限公司。供试病原菌为尖孢镰刀菌蚕豆专化型[Fusariumoxysporumf.fabae,(FOF)],由本试验室从蚕豆连作土壤中筛选并保存。在PDA平板上培养，于28℃培养箱中恒温培养7d后刮取菌丝于无菌水中振荡均匀，经两层纱布过滤后配成孢子悬液用于接种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验为双因素试验设计，A因素为苯甲酸处理，共设4个浓度, $\\mathrm { C _ { 0 } } ( 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ，为对照), $\\mathrm { C _ { 1 } } ( 5 0 \\ \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 } )$ $\\mathrm { C } _ { 2 } ( 1 0 0 \\ \\mathrm { m g { \\cdot } L } ^ { - 1 } )$ ， $\\mathrm { C } _ { 3 } ( 2 0 0 \\ \\mathrm { m g { \\cdot } L } ^ { - 1 } )$ 。B因素为种植模式,设蚕豆单作(MF)和小麦与蚕豆间作(IF)，组合为8个处理，每个处理3次重复，共计24盆。单作每盆种植3株蚕豆，间作每盆种植3株蚕豆和9株小麦(如图1), $2 4 \\mathrm { h }$ 通气泵通气。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/500ca9b491d5689915bc2782f1ece8e2ed729525cb206aaac2e2eb3ec421508b.jpg",
+        "img_caption": [
+            "图1蚕豆单作和小麦与蚕豆间作种植示意图",
+            "Fig.1Schematic diagrams of faba bean monocropping and intercropping with wheat "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验实施",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦和蚕豆种子于室温下浸种 $2 4 \\mathrm { ~ h ~ }$ ， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 下催芽后同时播于Hoagland营养液浸透的无菌石英砂中培养，待蚕豆幼苗长至4\\~6片真叶时，选取长势一致的蚕豆幼苗移入盛有不同浓度苯甲酸的 $2 \\mathrm { ~ L ~ }$ 容器中，间作处理同时移小麦(3叶期)。苯甲酸处理2d后，向营养液中添加 $1 \\times { 1 0 } ^ { 6 }$ cfu $\\mathrm { m L } ^ { - 1 }$ 的尖孢镰刀菌孢子悬液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 蚕豆枯萎病调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蚕豆移栽45d时进行枯萎病调查，单间作处理每个重复均调查蚕豆3株。蚕豆枯萎病调查按 5级分类标准进行[11]，调查结束后计算发病率、病情指数和防治效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发病率 $( \\% ) =$ (发病株数/调查总株数） $\\times 1 0 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "病情指数 $= \\sum$ 各级病株数 $\\ : \\cdot \\times \\ :$ 相应级值)/(最高级值$\\times$ 调查总株数） $\\lvert \\times 1 0 0$ (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相对防治效果 $\\scriptstyle \\cdot ( { \\% } ) =$ (对照病情指数-处理病情指数)/对照病情指数 $\\times 1 0 0$ (3)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5蚕豆生长、生理指标测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 生长指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蚕豆移栽 45d时(蚕豆分枝期)采样，每个重复采3株蚕豆，测量单株叶片数、最大叶长、最大叶宽、株高、主根长、植株地上部干重和根系干重，计算根冠比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 抗氧化酶活性和膜质过氧化测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于蚕豆移栽 45d (蚕豆分枝期)时采样，每个重 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复采样3株，用叶片和根系鲜样测定过氧化物酶(POD)、过氧化氢酶(CAT)活性和丙二醛(MDA)含量,测定采用李合生[12的方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 病程相关蛋白测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蚕豆移栽 45d时(蚕豆分枝期)采样，每个重复采样3株，用蚕豆根系鲜样测定病程相关蛋白。几丁质酶测定采用几丁质酶试剂盒(购于南京建成生物工程研究所),1个单位几丁质酶活性定义为每g组织每小时分解几丁质产生 $1 \\ \\mathrm { m g \\ N }$ -乙酰氨基葡萄糖的量。 $\\beta$ -1,3-葡聚糖酶活性测定采用 $\\beta$ -1,3-葡聚糖酶试剂盒(购于北京索莱宝科技有限公司)，1个单位$\\beta$ -1,3-葡聚糖酶活性定义为每 $\\mathbf { g }$ 组织每小时产生 $1 \\ \\mathrm { m g }$ 还原糖的量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2007进行数据处理，采用SPSS20.0软件对试验数据进行方差分析，最小显著差异法(LSD）检验各处理间的差异显著性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1苯甲酸胁迫下间作对蚕豆幼苗生长的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸处理对蚕豆幼苗生长的影响见表1。从表1可看出，蚕豆单作条件下，随苯甲酸处理浓度升高，蚕豆幼苗生长参数(叶片数、最大叶长、最大叶宽、株高、主根长、地上部干重、根干重和根冠比)均显著降低。与 $\\mathrm { ~ C ~ } _ { 0 }$ 相比, $\\mathrm { C } _ { 1 \\setminus }$ $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理显著降低蚕豆叶片数 $3 2 . 3 \\%$ / $3 5 . 4 \\%$ 和 $41 . 5 \\%$ ；显著降低最大叶长 $1 5 . 6 \\%$ $3 2 . 4 \\%$ 和 $4 4 . 5 \\%$ ；显著降低最大叶宽$2 5 . 0 \\%$ 1 $3 1 . 7 \\%$ 和 $5 0 . 3 \\%$ ；显著降低株高 $1 8 . 0 \\%$ 人 $34 . 2 \\%$ 和 $4 6 . 2 \\%$ ；显著降低地上部干重 $3 1 . 8 \\%$ 、 $6 1 . 0 \\%$ 和$7 6 . 2 \\%$ ；显著降低根干重 $3 3 . 3 \\%$ 有 $6 4 . 8 \\%$ 和 $8 3 . 3 \\text{‰}$ 与$\\mathrm { ~ C ~ } _ { 0 }$ 相比， $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C ~ } _ { 3 }$ 浓度处理显著降低主根长 $8 . 1 8 \\%$ 和$28 . 4 \\text{‰}$ 表明苯甲酸处理显著抑制了蚕豆的生长。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2aa48dc12250fcd1ef131de5264e89ad61c97d8ff34a4ac1f920d91a495e4bb6.jpg",
+        "table_caption": [
+            "表1苯甲酸胁迫下与小麦间作对蚕豆幼苗生长的影响 ┌able1Effect of intercropping with wheat on faba bean growth parameters under benzoi "
+        ],
+        "table_footnote": [
+            "MF:单作蚕豆;IF:间作蚕豆。 $\\mathrm { ~ C ~ } _ { 0 }$ 、 $\\mathbf { C } _ { 1 } .$ ： $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C ~ } _ { 3 }$ 为苯甲酸处理，浓度分别为 $\\overline { { { 0 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } } } }$ 、 $5 0 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 、 $\\overline { { 1 0 0 \\mathrm { ~ m g } { \\cdot } \\mathrm { L } ^ { - 1 } } }$ 和 $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 。同行中 不同字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 。MF: monocropped faba bean; IF: intercropped faba bean. $\\mathrm { ~ C _ { 0 } ~ }$ $\\mathrm { \\Phi } _ { \\mathrm { C _ { 1 } } }$ $\\mathbf { C } _ { 2 }$ and $\\mathrm { C } _ { 3 }$ are treatments of benzoic acid stress of 0 $\\mathrm { \\ m g { \\cdot } L } ^ { - 1 }$ $5 0 ~ \\mathrm { m g ^ { . } L } ^ { - 1 }$ 5 $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ and $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ . Different letters in the same row mean significant differences at O.05 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">生长参数 Growth parameter</td><td colspan=\"2\">C0</td><td colspan=\"2\">C1</td><td colspan=\"2\">C</td><td colspan=\"2\">C</td></tr><tr><td>MF</td><td>IF</td><td>MF</td><td>IF</td><td>MF</td><td>IF</td><td>MF</td><td>IF</td></tr><tr><td>单株叶片数 Leaf number per plant 21.67±0.57b</td><td></td><td>24.00±1.00a</td><td>14.67±1.15de</td><td>16.23±0.58c</td><td></td><td>14.00±1.00def 15.33±0.58cd</td><td></td><td>12.67±1.15f 13.67±0.58ef</td></tr><tr><td>最大叶长 Max leaf length (cm)</td><td>8.53±0.38b</td><td>9.37±0.12a</td><td>7.20±0.20cd</td><td>7.80±0.36c</td><td>5.77±0.47e</td><td>6.12±0.30d</td><td>4.73±0.49f</td><td>4.90±0.35e</td></tr><tr><td>最大叶宽Max leaf width (cm)</td><td>5.43±0.51a</td><td>5.53±0.12a</td><td>4.07±0.25b</td><td>4.47±0.35b</td><td>3.71±0.38c</td><td>3.97±0.21b</td><td></td><td>2.70±0.26d 2.80±0.38cd</td></tr><tr><td>株高 Plant height (cm)</td><td>39.23±0.49a</td><td>37.87±1.44a</td><td>32.17±1.06b</td><td>30.47±0.61c</td><td>25.80±1.04d</td><td>23.90±0.56e</td><td></td><td>21.10±0.11f 19.37±0.76f</td></tr><tr><td>主根长 Main root length (cm)</td><td>18.33±1.45bc</td><td>19.83±0.97a</td><td>18.13±0.42bcd</td><td></td><td>19.23±0.38ab 16.83±0.76d</td><td>17.40±0.17cd</td><td></td><td>13.13±0.45e 13.43±0.21e</td></tr><tr><td>地上部干重 Shoot dry weight (g)</td><td>2.23±0.05b</td><td>3.28±0.07a</td><td>1.52±0.12c</td><td>2.14±0.07b</td><td>0.87±0.35e</td><td>1.14±0.07d</td><td>0.53±0.01f</td><td>0.62±0.15e</td></tr><tr><td>根系干重 Root dry weight (g)</td><td>0.54±0.03b</td><td>0.86±0.06d</td><td>0.36±0.01a</td><td>0.56±0.05c</td><td>0.19±0.05c</td><td>0.32±0.01e</td><td>0.09±0.01b</td><td>0.16±0.02d</td></tr><tr><td>根冠比 Root-shoot ratio</td><td>0.24±0.02a</td><td>0.26±0.01ab</td><td>0.24±0.01a</td><td>0.26±0.03a</td><td>0.22±0.04ab</td><td>0.28±0.01c</td><td>0.17±0.01a</td><td>0.26±0.01c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸各浓度处理下，小麦与蚕豆间作均促进了蚕豆幼苗的生长。不添加苯甲酸 $\\left( \\mathrm { C } _ { 0 } \\right)$ 情况下，间作显著增加了蚕豆叶片数、最大叶长、主根长、地上部干重和根干重 $10 . 8 \\%$ 人 $12 . 2 \\%$ ！ $8 . 2 \\%$ 人 $4 7 . 1 \\%$ 和 $5 9 . 3 \\%$ 苯甲酸 $\\mathbf { C } _ { 1 }$ 浓度处理下，间作显著增加蚕豆叶片数、地上部干重和根干重 $10 . 6 \\%$ ！ $4 0 . 8 \\%$ 和 $5 5 . 6 \\%$ · $\\mathbf { C } _ { 2 }$ 浓度处理下，间作显著增加蚕豆最大叶长、最大叶宽、地上部干重和根干重 $6 . 1 \\%$ 、 $7 . 0 \\%$ 、 $3 1 . 0 \\%$ 和 $6 8 . 4 \\%$ · $\\mathrm { C } _ { 3 }$ 处理浓度下，间作显著增加蚕豆最大叶长、地上部干重和根干重 $3 . 6 \\%$ 、 $1 7 . 0 \\%$ 和 $7 7 . 8 \\text{‰}$ 表明小麦与蚕豆间作促进了蚕豆幼苗的生长，缓解了苯甲酸对蚕豆生长的抑制效应(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2苯甲酸胁迫下间作对蚕豆枯萎病发生的影响从表2可看出，蚕豆单作条件下，与 $\\mathrm { ~ C ~ } _ { 0 }$ 处理相比，苯甲酸 $\\mathbf { C } _ { 1 } , \\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 处理显著提高枯萎病发病率$3 3 . 3 \\%$ 、 $5 0 . 0 \\%$ 和 $5 0 . 0 \\%$ ，提高病情指数 $2 5 . 0 \\%$ 1$1 3 7 . 5 \\%$ 和 $3 6 2 . 4 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸 $\\mathbf { C } _ { 1 }$ 和 $\\mathbf { C } _ { 2 }$ 浓度处理下，与单作蚕豆相比，间作使蚕豆枯萎病发病率显著降低 $2 5 . 0 \\%$ 和 $1 1 . 1 \\%$ $\\mathrm { ~ C ~ } _ { 0 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理下间作对蚕豆枯萎病发病率无显著影响。 $\\mathrm { ~ C _ { 0 \\setminus } }$ $\\mathbf { C } _ { 1 }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理下，间作降低病情指数 $2 5 . 0 \\%$ 、 $2 0 . 0 \\%$ 、 $4 2 . 1 \\%$ 和 $2 1 . 6 \\%$ ，以 $\\mathbf { C } _ { 2 }$ 浓度处理下间作降低病情指数的效果最好。苯甲酸不同浓度处理下，小麦与蚕豆间作对蚕豆枯萎病的防效为 $2 0 . 0 \\% { \\sim } 4 2 . 1 \\%$ ，其中以 $\\mathbf { C } _ { 2 }$ 处理条件下间作防效最高，达 $42 . 1 \\text{‰}$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe0c95ca172b6beef6156da9ff82cc5e9e04b112721887ada90f9d6c2295c3d6.jpg",
+        "table_caption": [
+            "表2苯甲酸胁迫下间作对蚕豆枯萎病发病率和病情指数的影响 Table 2Efect of intercropping with wheat on occurrence and index offaba bean Fusarium wilt under benzoic acid stress "
+        ],
+        "table_footnote": [
+            "MF:单作蚕豆;IF:间作蚕豆。 $\\mathrm { C } _ { 0 } .$ ： $\\mathrm { C } _ { 1 }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C ~ } _ { 3 }$ 为苯甲酸处理，浓度分别为 $\\overline { { { 0 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } } } }$ 、 $\\overline { { 5 0 \\mathrm { ~ m g } \\cdot \\mathrm { L } ^ { - 1 } } }$ 、 $\\overline { { 1 0 0 \\mathrm { ~ m g } \\cdot \\mathrm { L } ^ { - 1 } } }$ 和 $\\overline { { 2 0 0 \\ \\mathrm { m g } ^ { . } L ^ { - 1 } } }$ 。同行中 不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。MF:monocropped faba bean; IF:intercropped faba bean. $\\mathrm { ~ C _ { 0 } ~ }$ $\\mathrm { \\bf C } _ { 1 }$ $\\mathbf { C } _ { 2 }$ and $\\mathrm { C } _ { 3 }$ are treatments of benzoic acid stress of $0 \\ \\mathrm { m g \\cdot L } ^ { - 1 }$ ${ 5 0 \\ \\mathrm { m g ^ { . } L } ^ { - 1 } }$ $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ and $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ .Different letters in the same row mean significant differences at O.O5 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理浓度</td><td colspan=\"2\">发病率 Incidence (%)</td><td colspan=\"2\">病情指数 Disease index (%)</td><td rowspan=\"2\">相对防效 Relative control effect (%)</td></tr><tr><td>MF</td><td>IF</td><td>MF</td><td>IF</td></tr><tr><td>Co</td><td>66.67±3.61c</td><td>66.67±3.33c</td><td>17.78±2.04ef</td><td>13.33±1.67f</td><td>25.03±2.00b</td></tr><tr><td>C1</td><td>88.89±1.92b</td><td>66.67±1.67c</td><td>22.22±3.85de</td><td>17.78±0.96ef</td><td>19.98±2.32c</td></tr><tr><td>C2</td><td>100.00±0.00a</td><td>88.89±8.38b</td><td>42.22±1.92c</td><td>24.44±3.85d</td><td>42.11±2.31a</td></tr><tr><td>C</td><td>100.00±0.00a</td><td>100.00±0.00a</td><td>82.22±3.85a</td><td>64.44±1.95b</td><td>21.62±4.94bc</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 苯甲酸胁迫下间作对蚕豆POD和CAT活性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸处理对蚕豆根系和叶片中POD活性的影响见图2。随苯甲酸处理浓度升高，单作蚕豆根系和叶片中POD活性均呈先提高后降低的趋势。蚕豆单作条件下，与 $\\mathrm { ~ C ~ } _ { 0 }$ 相比， $\\mathrm { \\bf C } _ { 1 }$ 处理下蚕豆根系和叶片中POD 酶活性高于 $\\mathrm { ~ C ~ } _ { 0 }$ 处理，但差异不显著; $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理下间作显著降低蚕豆根系中POD活性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffda838eb5e11c1ac9eac542a506cbd63b2a1aa88cc089bd57ea908dc81cc6f8.jpg",
+        "img_caption": [
+            "图2苯甲酸胁迫下与小麦间作对蚕豆根系和叶片中POD和CAT活性的影响 Fig.2Efect of intercropping with wheatonPODand CATactivities inroots and leaves offaba beanunderbenzoic acid stress MF:单作蚕豆;IF:间作蚕豆。 $\\mathrm { ~ C _ { 0 } } .$ ， $\\mathrm { \\bf C } _ { 1 }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C } _ { 3 }$ 为苯甲酸处理，浓度分别为 $0 \\mathrm { m g \\cdot L } ^ { - 1 }$ 、 $5 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ 、 $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 和 $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 。蚕 豆相同部位之间不同字母表示不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。 MF: monocropped faba bean; IF: intercropped faba bean. $\\mathrm { C } _ { 0 } , \\mathrm { C } _ { 1 }$ $\\mathbf { C } _ { 2 }$ and $\\mathrm { C } _ { 3 }$ are treatments of benzoic acid stress of $0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ， $5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ， $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ and $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ . Different letters for the same organ of faba bean mean significant differences at O.O5 level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 5 . 7 \\%$ 和 $3 1 . 4 \\%$ ；显著降低蚕豆叶片中 POD活性$2 1 . 3 \\%$ 和 $3 8 . 7 \\text{‰}$ 表明，随苯甲酸处理浓度升高，蚕豆POD活性降低幅度增大。",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸 $\\mathrm { ~ C _ { 0 \\setminus } }$ $\\mathbf { C } _ { 1 } .$ $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C ~ } _ { 3 }$ 浓度处理下，间作显著提高蚕豆根系的POD活性 $12 . 9 \\%$ 、 $1 5 . 1 \\%$ 、 $1 6 . 9 \\%$ 和$14 . 6 \\text{‰}$ 苯甲酸各处理浓度下，间作均提高了蚕豆叶片中POD 的活性，其中 $\\mathbf { C } _ { 2 }$ 浓度下间作显著提高POD活性 $2 4 . 9 \\%$ (图2)。表明苯甲酸 $\\mathbf { C } _ { 2 }$ 浓度处理下间作提高蚕豆POD酶活性的增幅最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸处理对蚕豆CAT活性的影响见图2。蚕豆单作条件下，与 $\\mathrm { { C } } _ { 0 }$ 相比, $\\mathrm { \\Phi } _ { \\mathrm { C } _ { 1 } }$ 浓度处理下蚕豆根系和叶片中CAT活性低于 $\\mathrm { ~ C ~ } _ { 0 }$ 处理，但无显著差异; $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C } _ { 3 }$ 浓度处理显著降低蚕豆根系CAT活性 $3 7 . 7 \\%$ 和$4 2 . 8 \\%$ ；显著降低蚕豆叶片CAT活性 $2 8 . 4 \\%$ 和 $44 . 8 \\text{‰}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸各浓度处理下，间作均提高了蚕豆根系和叶片中CAT活性。 $\\mathrm { C } _ { 0 \\setminus } \\mathrm { C } _ { 1 \\setminus } \\mathrm { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理下，间作提高蚕豆根系CAT活性 $1 0 . 3 \\%$ 、 $2 2 . 6 \\%$ 、 $54 . 0 \\%$ 和$2 1 . 7 \\%$ ，提高蚕豆叶片CAT活性 $6 . 6 \\%$ 1 $9 . 2 \\%$ 人 $1 1 . 5 \\%$ 和 $20 . 5 \\%$ （图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4苯甲酸胁迫下间作对蚕豆MDA含量的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸和间作对蚕豆MDA含量的影响见图3。蚕豆单作条件下，与 $\\mathrm { ~ C ~ } _ { 0 }$ 相比， $\\mathrm { C } _ { 1 }$ 处理条件下蚕豆根系和叶片中MDA含量均低于 $\\mathrm { ~ C ~ } _ { 0 }$ 处理，但差异不显著； $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { ~ C ~ } _ { 3 }$ 浓度处理显著提高蚕豆根系MDA含量$2 8 . 9 \\%$ 和 $4 2 . 6 \\%$ ；显著提高蚕豆叶片MDA含量 $1 6 . 4 \\%$ 和 $45 . 0 \\text{‰}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸各浓度处理下，间作均显著降低了蚕豆根系和叶片中MDA 含量， $\\mathrm { C } _ { 0 \\setminus }$ $\\mathrm { \\Phi } _ { \\mathrm { C _ { 1 } } }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b2ab394607df15dfed3b33a57d3129c349875ba9826af6facf0ee1c3f2e2991.jpg",
+        "img_caption": [
+            "图3苯甲酸胁迫下与小麦间作对蚕豆根系和叶片中MDA含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Effect of intercropping with wheat on MDA content in roots and leaves of faba bean under benzoic acid stress MF:单作蚕豆;IF:间作蚕豆。 $\\mathrm { ~ C ~ } _ { 0 }$ 、 $\\mathrm { \\bf C } _ { 1 }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 为苯甲酸   \n处理，浓度分别为 $0 \\mathrm { m g ^ { \\cdot } L ^ { - 1 } }$ ， $5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ， $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 和 $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$   \n蚕豆相同部位之间不同字母表示不同处理间差异显著 $( P { < } 0 . 0 5 )$ 。   \nMF:monocropped faba bean;IF:intercropped faba bean. $\\mathrm { ~ C ~ } _ { 0 }$ 5 $\\mathrm { \\bf C } _ { 1 }$ $\\mathbf { C } _ { 2 }$   \nand $\\mathrm { C } _ { 3 }$ are treatments of benzoic acid stress of $0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ $5 0 ~ \\mathrm { m g ^ { . } L ^ { - 1 } }$   \n$1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ and $2 0 0 ~ \\mathrm { { m g } { \\cdot } \\mathrm { { L } ^ { - 1 } } }$ .Different letters for the same organ of   \nfaba bean mean significant differences at O.O5 level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "理下，间作显著降低蚕豆根系的MDA含量 $2 5 . 4 \\%$ /$2 2 . 6 \\%$ 、 $20 . 0 \\%$ 和 $1 9 . 5 \\%$ ，显著降低了蚕豆叶片MDA含量 $2 0 . 5 \\%$ 、 $2 9 . 9 \\%$ 、 $2 4 . 5 \\%$ 和 $2 6 . 5 \\% _ { \\textmd { c } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5苯甲酸胁迫下间作对蚕豆幼苗根系病程相关蛋白的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸处理对蚕豆 $\\beta \\mathrm { - } 1 , 3$ 葡聚糖酶和几丁质酶活性的影响见图4。蚕豆单作条件下，与 $\\mathrm { ~ C ~ } _ { 0 }$ 处理相比， $\\mathbf { C } _ { 1 }$ 处理条件下蚕豆根系中 $\\beta \\mathrm { - } 1 , 3$ 葡聚糖酶活性高于 $\\mathrm { ~ C ~ } _ { 0 }$ 处理，但差异不显著; $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理显著降低根系 $\\beta \\mathrm { - } 1 , 3$ 葡聚糖酶活性 $1 7 . 4 \\%$ 和 $3 8 . 7 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸 $\\mathrm { C } _ { 0 \\setminus }$ $\\mathrm { C } _ { 1 \\setminus }$ $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理下，间作提高蚕豆根系 $\\beta \\mathrm { - } 1 , 3$ 葡聚糖酶活性 $4 . 7 \\%$ 有 $7 . 9 \\%$ 、 $1 3 . 1 \\%$ 和$1 0 . 3 \\%$ ，其中以 $\\mathbf { C } _ { 2 }$ 浓度处理下间作提高 $\\beta \\mathrm { - } 1 , 3$ 葡聚糖酶活性的效果最好(图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2f9b6bca57846f897c95d5ab1ec02eafc0650daed5cad6bfa9a1d61ad9056b3.jpg",
+        "img_caption": [
+            "图4苯甲酸胁迫下与小麦间作对蚕豆根系 $\\mathfrak { \\textbf { \\beta } }$ -1,3葡聚糖酶和几丁质酶活性的影响 Fig.4Effect of intercropping with wheat on $\\beta$ -1,3-glacanase and chitinase activities in roots of faba bean under benzoic acid stress MF:单作蚕豆;IF:间作蚕豆。 $\\mathrm { ~ C ~ } _ { 0 }$ 、 $\\mathrm { \\overline { { C } } _ { 1 } }$ 、 $\\mathbf { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 为苯甲酸处理，浓度分别为 $0 \\mathrm { m g ^ { . } L } ^ { - 1 }$ 、 $5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 、 $1 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 和 $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 。不 同字母表示不同处理间差异显著 $( P { < } 0 . 0 5$ )。MF:monocropped faba bean; IF:intercropped faba bean. $\\mathrm { ~ C ~ } _ { 0 }$ ， $\\mathrm { C } _ { 1 }$ ， $\\mathrm { C } _ { 2 }$ and $\\mathrm { C } _ { 3 }$ are treatments of benzoic acid stress of $0 \\mathrm { m g \\cdot L } ^ { - 1 }$ $5 0 \\mathrm { m g ^ { . } L ^ { - 1 } }$ $1 0 0 \\mathrm { m g ^ { - L ^ { - 1 } } }$ and $2 0 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ .Different letters mean significant differences at O.05 level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蚕豆单作条件下，与 $\\mathrm { C } _ { 0 }$ 处理相比， $\\mathbf { C } _ { 1 }$ 处理条件下蚕豆根系中几丁质酶活性高于 $\\mathrm { { C } _ { 0 } }$ 处理，但差异不显著； $\\mathrm { C } _ { 2 }$ 和 $\\mathrm { C } _ { 3 }$ 浓度处理降低几丁质酶活性 $23 . 6 \\%$ 和$3 9 . 4 \\% ( P { < } 0 . 0 5 )$ ，表现为随苯甲酸处理浓度增高，几丁质酶活性显著降低。苯甲酸各浓度处理下，间作提高了蚕豆根系中几丁质酶活性 $6 . 7 \\%$ 人 $7 . 8 \\%$ 人 $1 5 . 8 \\%$ 和 $10 . 5 \\%$ ，以 $\\mathrm { C } _ { 2 }$ 浓度下间作提高几丁质酶活性的增幅最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 苯甲酸胁迫下间作对蚕豆生长和枯萎病发生的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化感自毒现象在农业生产中广泛存在，许多作物的连作障碍与此相关，在世界农业生产中，由于化感自毒效应所造成的损失每年达数十亿美元。黄瓜(Cucumis sativus)、西瓜(Citrullus lanatus)和茄子(Solanummelongena)连作障碍的自毒作用主要是由根系分泌物中的酚酸物质引起的，主要包括芥子酸、丁香酸、香草酸(醛)、香豆酸、五倍子酸、对羟基苯甲酸、邻苯二甲酸、咖啡酸、阿魏酸、苯甲酸、水杨酸和肉桂酸等[13]。自毒物质肉桂酸和香草醛对茄子根系生长(根干重、根鲜鲜重、根系活力)表现为“低促高抑\"的作用特点[14]。本试验结果表明，蚕豆单作条件下，苯甲酸处理抑制了蚕豆幼苗的生长，其中以生物量(地上部干重和根干重)的降低最为明显，随苯甲酸处理浓度的提高，对蚕豆生长的抑制程度更加严重。黄瓜连作障碍研究中也发现了同样的现象，即自毒物质肉桂酸处理后再接种镰刀菌能显著抑制黄瓜的生长，原因是肉桂酸作用于黄瓜根系就表现出明显的化感抑制效应，同时镰刀菌还通过破坏维管束系统进而影响黄瓜生长[15]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对羟基苯甲酸胁迫下接种尖孢镰刀菌明显加重草莓(Fragariaananassa)根系组织受损程度，促进草莓枯萎病发生[16]。肉桂酸是黄瓜根系分泌物中重要的化感物质，能诱导黄瓜镰刀菌枯萎病的发生[17];苯甲酸和肉桂酸处理可显著提高西瓜幼苗枯萎病的发病率[18]。本研究中苯甲酸处理显著提高单作蚕豆枯萎病发病率和病情指数，表明苯甲酸加剧了蚕豆枯萎病的发生，发病程度随苯甲酸处理浓度的提高而加重。本研究结果与甜瓜根系分泌物中的肉桂酸、阿魏酸和苯甲酸显著提高甜瓜(Cucumis melo)枯萎病病情指数的结论相同[13]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "间作作为我国传统农业的精髓，具有增产、提高养分资源利用效率的优势[19-20]，采用间作减轻土传病害危害，缓解作物连作障碍已成为近年来的研究热点[21]。旱作水稻(Oryza sativa)和西瓜间作显著提高了西瓜鲜重和株高，促进了西瓜生长[22]。本研究中，苯甲酸不同浓度处理下，小麦与蚕豆间作促进了蚕豆叶片的生长，提高了蚕豆地上部干重。中药材茅苍术(Artractylodes lancea)与花生间作显著降低了花生连作土传病害的发生，缓解了花生连作障碍[23]；旱作水稻与西瓜间作降低了西瓜枯萎病的病情指数[5]。本研究结果表明，苯甲酸各浓度处理下,间作对蚕豆枯萎病的相对防效为 $2 0 . 0 \\% { \\sim } 4 2 . 1 \\%$ ，以$\\mathbf { C } _ { 2 }$ 处理下防效最好。表明小麦与蚕豆间作能有效减轻苯甲酸对蚕豆幼苗生长的抑制效应，缓解苯甲酸对枯萎病发生的促进效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2间作缓解苯甲酸自毒效应的生理机制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植株在正常情况下，体内活性氧产生与清除处于动态平衡状态，CAT是植物细胞中清除活性氧，保护细胞的重要酶系统，其活性可作为植物抗病性的生理生化指标[22]。植物感病后，其体内的保护酶活性与植株抗病性呈正相关[24-25]。自毒物质胁迫下,茄子和黄瓜等作物的POD和CAT等抗氧化酶活性有一定程度的降低[14,26]。肉桂酸处理并接种镰刀菌的条件下嫁接黄瓜苗根系中的CAT酶活性普遍高于自根苗，嫁接黄瓜根系具有较高的抗氧化系统[15]。本试验结果表明，苯甲酸不同浓度处理并接种镰刀菌的条件下，间作蚕豆根系和叶片的CAT酶活性均高于单作蚕豆，表明在自毒物质苯甲酸胁迫下，间作蚕豆根系和叶片能够迅速提高抗氧化系统活性(CAT)，有效并及时清除体内的自由基，提高蚕豆自身的抗性，从而缓解苯甲酸对枯萎病发生的促进效应。POD是酚类物质代谢过程中的关键酶，存在于细胞壁上参与脯氨酸转化和木质素的合成，能控制病原菌的扩展。本研究中，苯甲酸处理并接种尖孢镰刀菌条件下，间作显著提高了蚕豆根系和叶片的POD酶活性，从而抑制病原菌的破坏并保护蚕豆自身的生长和代谢，表明小麦与蚕豆间作提升了蚕豆抵御枯萎病菌侵染的能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MDA是直接反映膜脂过氧化程度的重要指标之一，其含量的高低反映了细胞氧化损伤的程度，MDA含量越高，细胞膜受损伤程度越大。自毒物质通过加速膜脂过氧化程度，造成营养元素泄漏，从而刺激病原菌使其更易侵入寄主，结果表现为发病率高，土传病害严重[27]。黄瓜根系分泌物中主要自毒物质肉桂酸处理黄瓜后明显增加了根系MDA的含量，从而破坏了根系细胞的细胞膜，显著增加根系的离子渗漏而促进黄瓜枯萎病的发生[15]。本研究结果表明，苯甲酸处理并接种镰刀菌后，蚕豆幼苗根系和叶片的MDA含量显著增高，枯萎病发病率和病情指数也显著提高，表明蚕豆连作条件下，苯甲酸通过增加蚕豆幼苗的膜质过氧化，提高营养元素的渗透，促进镰刀菌对蚕豆的侵染而加剧枯萎病发生。苯甲酸各浓度处理下间作均显著降低蚕豆根系和叶片的MDA含量，表明间作显著降低了蚕豆幼苗根系和叶片中MDA的积累，降低脂质过氧化伤害，膜透性下降，维持了苯甲酸作用下蚕豆幼苗细胞膜的稳定性而减少了对镰刀菌供应营养，减轻了枯萎病发生。本研究结果与接种西瓜尖孢镰刀菌5d、10d和15d后西瓜根系内MDA含量呈上升趋势，但与小麦伴生的西瓜根系内MDA含量显著低于单作西瓜的结论相同[28]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "苯甲酸胁迫条件下，蚕豆幼苗根系和叶片的POD与CAT活性下降，防御系统受到损害，MDA含量增加，细胞膜受损严重，降低其生理生化抗性是蚕豆幼苗枯萎病抗性降低的主要原因，而间作提高蚕豆抗氧化酶活性并降低膜脂过氧化程度，显著提升了蚕豆对枯萎病的抗性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3苯甲酸胁迫下间作对蚕豆枯萎病病程相关蛋白的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当寄主植物被病原菌侵染后，自身防御反应启动，病程相关蛋白表达，产生水解真菌细胞壁的重要水解酶，从而提高寄主对病原菌的抵抗能力[28]。几丁质酶是重要的水解酶，能直接降解真菌细胞壁的主要成分一几丁质，从而使菌丝停止生长，粗缩畸形，甚至完全解体消化，从而抵抗病原物侵染;$\\beta$ -1,3-葡聚糖酶是一类重要的病程相关蛋白，其在植物抗真菌病害的防卫反应中起着重要的作用[28]。添加阿魏酸并同时接种尖孢镰刀菌，西瓜根系和叶片的几丁质酶活性受到抑制，西瓜叶片 $\\beta$ -1,3-葡聚糖酶活性下降，从而促进了西瓜枯萎病的发生[29]。本研究中，接种尖孢镰刀菌的情况下，苯甲酸 $\\mathrm { C } _ { 1 }$ 处理提高了蚕豆根系的β-1,3-葡聚糖酶和几丁质酶活性，此时蚕豆根系防御系统开启保护功能；当苯甲酸处理超过C浓度时， $\\beta$ -1,3-葡聚糖酶和几丁质酶活性显著低于对照，此时蚕豆自身保护系统功能逐渐下降，不能抵抗病原菌侵染而加剧枯萎病发生。表明苯甲酸和枯萎病菌共同胁迫加剧了蚕豆植物自身防御系统破坏程度，导致枯萎病严重发生。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "伴生小麦通过提高西瓜根系 $\\beta$ -1,3-葡聚糖酶和几丁质酶活性而提高了西瓜对枯萎病的抗性[28]。西瓜与水稻间作显著提高了西瓜根系几丁质酶和$\\beta$ -1,3-葡聚糖酶的活性，从而提高了西瓜抗枯萎病的能力[29]。本研究表明，添加苯甲酸并接种镰刀菌情况下，小麦与蚕豆间作提高了蚕豆根系几丁质酶和$\\beta$ -1,3-葡聚糖酶的活性，且间作提高蚕豆根系几丁质酶和 $\\beta \\mathrm { - } 1 , 3$ -葡聚糖酶的效果随苯甲酸处理浓度升高而增加，表明苯甲酸高浓度累积环境下间作仍能显著提高蚕豆病程相关蛋白表达，从而提高蚕豆的抗病性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，自毒物质苯甲酸一方面抑制蚕豆幼苗的生长，且通过降低蚕豆抗氧化酶和防御酶活性而降低蚕豆抗性，促进枯萎病发生；苯甲酸和镰刀菌的辅助和协同作用是形成蚕豆连作障碍的重要机制。小麦与蚕豆间作，缓解了苯甲酸对蚕豆幼苗生长的抑制效应，提高了蚕豆的防御酶活性，降低了细胞膜受损程度，从生理上提高了蚕豆对枯萎病的抗病能力，缓解了苯甲酸对蚕豆的自毒效应，证实了合理间作是缓解作物连作障碍的有效措施。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Huang L F, Song L X, Xia X J, et al.Plant-soil feedbacks and soil sickness: From mechanisms to application in agriculture[J]. Journal of Chemical Ecology，2013,39(2): 232-242   \n[2] Asaduzzaman M,Asao T. Autotoxicity in beans and their allelochemicals[J]. Scientia Horticulturae,2012,134: 26-31   \n[3] Wu H S,Zhou X D,Shi X,et al. In vitro responses of Fusarium oxysporum f. sp. niveum to phenolic acids in decaying watermelon tissues[J]. Phytochemistry Letters, 2014, 8: 171-178   \n[4]肖靖秀，郑毅，汤利，等．间作小麦蚕豆不同生长期根际有 机酸和酚酸变化[J]．土壤学报,2016,53(3):685-693 Xiao JX, Zheng Y, Tang L,et al.Changes in organic and phenolic acids in rhizosphere of interplanted wheat and faba bean with growth stage[J].Acta Pedologica Sinica,2016, 53(3): 685-693   \n[5] Hao W Y,Ren L X,Ran W,et al. Allelopathic effects of root exudates from watermelon and rice plants on Fusarium oxysporum f. sp. niveum[J].Plant and Soil, 2010,336(1/2): 485-497   \n[6] Wu H S,Liu D Y,Ling N,et al. Influence of root exudates of watermelon on Fusarium oxysporum f. sp. niveum[J]. Soil Science Society of America Journal,2009,73(4):1150-1156   \n[7]李自博，周如军，解宇娇，等．人参连作根际土壤中酚酸物 质对人参锈腐病菌的化感效应[J].应用生态学报，2016, doi: 10.13287/j.1001-9332.201611.002 LiZB,Zhou R J,Xie Y J,et al.Allelopathic effects of phenolic compoundsof ginseng root rhizosphereon Cylindrocarpon destructans[J]. Chinese Journal of Applied Ecology,2016,doi: 10.13287/j.1001-9332.201611.002   \n[8] 董艳，董坤，杨智仙，等．间作减轻蚕豆枯萎病的微生物和 生理机制[J].应用生态学报,2016,27(6):1984-1992 Dong Y,Dong K，Yang Z X，et al． Microbial and physiological mechanisms for alleviating fusarium wilt of faba bean in intercropping system[J]. Chinese Journal of Applied Ecology,2016,27(6): 1984-1992   \n[9] Li C Y,He X H,Zhu S S,et al.Crop diversity for yield increase[J].PLoS One,2009,4(11): e8049   \n10]董艳，董坤，汤利，等．小麦蚕豆间作对蚕豆根际微生物群 落功能多样性的影响及其与蚕豆枯萎病发生的关系[J]．生 态学报,2013,33(23): 7445-7454 Dong Y,Dong K，Tang L，et al.Relationship between ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "rhizosphere microbial community functional diversity and faba bean fusarium wilt occurrence in wheat and faba bean intercropping system[J].Acta Ecologica Sinica,2013,33(23): 7445-7454 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]董艳，汤利，郑毅，等．施氮对间作蚕豆根际微生物区系和 枯萎病发生的影响[J]．生态学报,2010,30(7):1797-1805 Dong Y, Tang L, Zheng Y,et al. Effects of N application on rhizosphere microflora and fusarium wilt occurrence of intercropped faba bean[J].Acta Ecologica Sinica,2010,30(7): 1797-1805   \n[12] 李合生．植物生理生化实验原理和技术[M]．北京：高等教 育出版社,2000 Li H S.Principles and Techniques of Plant Physiological Biochemical Experiment[M]. Beijing: Higher Education Press, 2000   \n[13]杨瑞秀，高增贵，姚远，等．甜瓜根系分泌物中酚酸物质对 尖孢镰孢菌的化感效应[J]．应用生态学报，2014，25(8): 2355-2360 Yang R X,Gao Z G, Yao Y,et al. Allelopathic effects of phenolic compounds of melon root exudates on Fusarium oxysporum f. sp.melonis[J]. Chinese Journal of Applied Ecology,2014,25(8): 2355-2360   \n[14] 陈绍莉，周宝利，葡姗姗，等．肉桂酸和香草醛对嫁接茄子 根系生长及生理特性的影响[J]．应用生态学报,2010,21(6): 1446-1452 Chen S L, Zhou BL,Lin S S,et al. Effects of cinnamic acid andvanillin ongrafted eggplant rootgrowthand physiological characteristics[J]. Chinese Journal of Applied Ecology,2010,21(6): 1446-1452   \n[15]叶素芬．黄瓜根系自毒物质对其根系病害的助长作用及其 缓解机制研究[D]．杭州：浙江大学,2004 Ye S F. Research on promotive effects of fusarium wilt in Cucumis sativus by cinnamic acid,an autotoxin in root exudates of Cucumis sativus L.,and mitigation mechanism by grafting and cinnamic acid-degrading microbial strains[D]. Hangzhou: Zhejiang University, 2004   \n[16] 齐永志，苏媛，王宁，等．对羟基苯甲酸胁迫下尖孢镰刀菌 侵染草莓根系的组织结构观察[J]．园艺学报，2015,42(10): 1909-1918 Qi Y Z,Su Y,Wang N,et al. Observation on histological structure of strawberry roots after inoculating Fusarium oxysporum f. sp.fragariae under 4-hydroxybenzoic acid stress[J].Acta Horticulturae Sinica,2015,42(10): 1909-1918   \n[17] Ye SF,Yu JQ,Peng Y H,et al. Incidence of Fusarium wilt in Cucumis sativus L.is promoted by cinnamic acid,an autotoxin in root exudates[J].Plant and Soil, 2004,263(1): 143-150   \n[18] 王倩，李晓林．苯甲酸和肉桂酸对西瓜幼苗生长及枯萎病 发生的作用[J]．中国农业大学学报,2003,8(1):83-86 Wang Q,Li X L.Effects of benzoic and cinnamic acids on watermelon seedling growth and fusarium wilt occurrence[J]. Journal of China Agricultural University,2003,8(1): 83-86   \n[19] Li Q Z, Sun JH, Wei X J, et al. Overyielding and interspecific interactionsmediated by nitrogen fertilization instrip intercropping of maize with faba bean,wheat and barley[J]. Plant and Soil,2011,339(1/2):147-161   \n[20]Yang W T,Li Z X,Wang JW,et al.Crop yield,nitrogen acquisition and sugarcane quality as affected by interspecific competition and nitrogen application[J].Field Crops Research, 2013,146:44-50   \n[21]Gao X,Wu M,Xu R N,et al.Root interactions in a maize/soybeanintercroppingsystemcontrolsoybean soil-borne disease,red crown rot[J].PLoS One,2014,9(5): e95031   \n[22]Ren L X,Su S M,Yang XM,et al. Intercropping with aerobic rice suppressed Fusarium wilt in watermelon[J]. Soil Biology and Biochemistry,2008,40(3):834-844   \n[23]Dai C C,Chen Y,Wang XX,et al.Effects of intercropping of peanut with the medicinal plant Atractylodes lancea on soil microecology and peanut yield in subtropical China[J]. Agroforestry Systems,2013,87(2):417-426   \n[24]张树生，胡蕾，刘忠良，等．植物体内抗病相关酶与植物抗 病性的关系[J].安徽农学通报,2006,12(13):48-49 Zhang S S,Hu L,Liu $Z \\textrm { L }$ ，et al.Relationship between the disease defense-related enzymes and the disease resistance of plants[J].Anhui Agricultural Science Bulletin,2006,12(13):   \n40-4y [25]Maya M A,Matsubara YI.Tolerance to Fusarium wilt and anthracnose diseases and changes of antioxidative activity in mycorrhizal cyclamen[J].Crop Protection,2013,47:   \n41-48 [26]Li D M,Nie Y X,Zhang J,et al.Ferulic acid pretreatment enhances dehydration-stress tolerance of cucumber seedlings[J]. Biologia Plantarum,2013,57(4):711-717 [27]Ye S F,Zhou Y H,Sun Y,et al.Cinnamic acid causes oxidative stress in cucumber roots,and promotes incidence of Fusarium wilt[J].Environmental and Experimental Botany,   \n2006,56(3): 255-262 [28]Xu W H,Liu D,Wu F Z,et al.Root exudates of wheat are involved in suppression of Fusarium wilt in watermelon in watermelon-wheat companion cropping[J].European Journal of Plant Pathology,2015,141(1):209-216 [29]任丽轩.旱作水稻/西瓜间作抑制西瓜枯萎病的生理机制[D]. 南京：南京农业大学,2012 Ren L X. Physiological mechanisms for suppressing watermelon wilt disease by intercropped with aerobic rice[D]. Nanjing:Nanjing Agricultural University, 2012 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

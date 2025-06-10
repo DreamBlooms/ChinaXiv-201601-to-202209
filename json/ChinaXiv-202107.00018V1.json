@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "非符号数量表征和符号分数表征的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛伙敏」刘琴²吕建相牟毅4（1珠海中山大学附属小学，广东，5190312'3'4中山大学心理学系，广东，51006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要个体学习符号分数的一个关键是能对其数值形成准确表征。现有研究假设符号分数表征的认知基础是人类自婴幼儿期就具有的非符号数量表征（如表征两个集合各自的数量，或两个数量的比例)。其证据包括表征非符号数量(尤其是非符号数量比例关系)和表征符号分数在行为和大脑神经活动层面上都表现出相关性。然而要说明非符号数量表征是符号分数表征的认知基础，还需更多研究表明两者在数量概念上的独特相关和因果联系，并阐明符号分数表征形成的认知机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词非符号数量表征，比例加工系统，非符号比例表征，非符号分数表征，符号分数表征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“这个口渴的孩子一口气喝了半瓶矿泉水。”",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“上周买的那堆橙子忘了吃，等想起来时发现已经坏了四分之一。”",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分数在我们的日常生活中无处不在，而且这一概念在儿童小学数学学习中也占有重要地位。这是因为分数既是儿童对数的认识从整数扩展到有理数的关键一环，也为他们今后学习代数等更复杂的数学知识提供基础(综述见 Siegler et al.,2013)。实证研究发现儿童的分数知识确能预测其日后的代数以及一般性数学表现(Bailey etal.,2012;Mou et al.,2016; Siegler etal.,2011;Siegler&Pyke,2013)。然而，分数学习对许多儿童而言是非常困难的。尽管学生从大约小学三年级开始学习分数，但美国的初高中学生有相当一部分不能区分分数的数值大小、将它们按数值排序或转换分数和小数(Bailey et al.,2014;Braithwaite & Siegler, 2018;Braithwaite et al.,2018;Jordan,Resnick,et al.,2017)。在我国，相当部分中高年级小学儿童不能正确理解分数概念或准确表征分数数值(高瑞彦 等,2018；张丽 等,2014；高婷 等,2016;刘春晖，辛自强,2010；孙玉 等,2016；张丽 等,2012)。分数难以理解可能是因为它跟整数在许多方面不同，例如分数的数值不是单由分子或分母来决定而是取决于二者的比值关系;分数不像整数那样有下一个唯一的数字（整数2的下一位是3，但1/2的下一位则不确定)等等(Jordan,Rodrigues,et al,2017; Ni& Zhou,2005; Siegler et al.,2013；刘春晖，辛自强,2010;杨伊生，刘儒德,2008)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然学习由符号化数字（例如阿拉伯数字）表示的分数对儿童而言是一个挑战，但表征数量以及数量之间比例关系的能力早在尚未掌握人类语言符号的婴幼儿期便已出现(即非符号数量表征；Denison et al.,2013; Denison & Xu,2014; McCrink & Wynn,2007)。而且这样的表征数量及数量间比例关系的能力在一些非人类动物物种中也能见到(Starr& Brannon,2015;Vallentin&Nieder,2008)。那么，非符号数量表征，尤其是对数量比例的表征，和儿童的符号分数表征之间存在什么关系†？这两者都是关于数量的表征，且前者远早于后者出现，那么前者会是后者的认知基础吗？这个问题非常重要，因为它本质上是在探究人类学习抽象复杂的符号化数学知识的认知来源，而这是数认知发展研究的核心内容之一(Jordan,Resnick,etal.,2017;Matthews etal,2016; Siegler et al.,2013)。此外，厘清非符号数量表征和符号分数表征的关系还能为针对分数的数学教育提供理论指导，并有助于发展出更有效的教学方法。例如，如果非符号数量表征的确是儿童符号分数表征的认知基础之一，那么我们可以在教学中对非符号数量表征能力进行有针对性的训练，从而帮助儿童更好地学习符号分数(Gouet et al,2020; Matthews et al., 2016; Siegler et al., 2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文旨在梳理现有探索非符号数量表征和符号分数表征关系的研究。这一类研究是目前数认知发展领域里非符号数量表征能力和符号化数学学习的关系问题这一理论框架中的必要组成部分。在这个大研究框架中，有很多研究已检查了关于整数的非符号和符号数量表征的关系，这些关于整数的发现及其争论为分数的非符号和符号表征研究提供了参照。例如，研究者可对比检查在整数中看到的非符号和符号数量表征关系的发现以及争论是否在分数中也存在，从而有助于形成更为全面的关于数量的非符号和符号表征关系的认识。本文先回顾关于整数的研究，再介绍个体自婴幼儿期就具有的非符号比例表征能力，然后探讨非符号数量表征与符号分数表征的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2整数的非符号数量表征及其与符号化数学学习的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人类自婴儿期起便具有不依赖语言的表征和加工数量的能力，本文称之为非符号数量表征能力(Feigenson et al.,2004;Leibovich& Ansari,2016; Spelke,2017)。例如行为研究发现婴儿可以区分或匹配不同数量，以及估算数量的加减结果(McCrink&Wynn,2009;vanMarle etal.,2016)。大脑认知神经研究还发现婴儿在看两个不同数量的点阵出现时（如8个和16 个点子)，大脑后顶叶区域会自发加工并比较数量差异(Hyde & Spelke,2011;Hyde etal.,2010)。除了婴儿外，儿童和成人也能在不依赖语言的情况下比较或估算数量(Hyde etal.,2016; Geary& vanMarle,2016;Libertus et al.,2016;Wang et al.,2020)。比较心理学研究还发现许多非人类动物也具有数量表征和加工能力，这指出非言语符号数能力的进化来源(Howard etal.,2019;综述见 Starr & Brannon,2015)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一些研究者认为非符号数量表征能力是建立在一种不依赖于语言的数量表征系统一“近似数量系统\"(Approximate Number System,ANS; Feigenson et al.,2004; Gallistel & Gelman,2000)的基础上。ANS 对数量的表征是近似的，即是说它只是大致表征一个物体集合的数量。例如在看到10个点子时，ANS可能在头脑中表征数量为10，也可能是9或者11等其他相邻数量。而且，随着数量增大，ANS 表征越不准确。当两个数量的差异越小，它们对应的ANS 表征就有更多重叠，因此就越难被区分。实验数据表明，数量区分的难易程度取决于数量之间的比例距离（距离效应；Feigenson etal.,2004)，这被视为是使用 ANS 表征数量的一个标志。此外，ANS 的数量表征准确性存在个体差异。例如有人能区分8：9的数量差别，而有人只能在数量比例距离差别更大时才能区分。值得注意的是，ANS一般用于表征比较大的数量（ $( > 4 )$ )。当一组物体的数量不超过4时，人们可能会使用另一个认知系统来表征这些物体 － 物体追踪系统(Object Tracking System,OTS;Feigenson et al.,2004)。OTS 能同时准确表征和追踪一个较小物体集合（ ${ \\leqslant } 4$ ）的每个物体，并用一一对应的方式来比较两个集合数量的多少。因为在数量不超过4时ANS 和OTS都可能被使用，为避免混淆，现有研究一般使用大于4的数量来明确个体是使用ANS 进行数量表征和加工。本文谈及的是基于ANS的非符号数量表征。ANS 既可以表征单个非符号数量（如本小节介绍）也可表征非符号数量之间的比例关系（下文介绍)。需要注意的是，有研究者假设非符号数量比例表征可能不基于 ANS，而是另一个专门处理比例信息的表征系统(Ratio Process System; Mattews &Chesney,2015;Matthews etal.,2016)。但就现有发现而言，我们不能确定是否存在有别于 ANS的比例表征系统（见下文对此假设的介绍和讨论）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现有研究从以下几个方面展示了ANS和符号数字学习的相关关系：儿童和成人在非符号（如点阵）和符号（如阿拉伯数字）数量比较的任务中的行为反应都呈现距离效应(Mundy& Gilmore,2009; Sasanguie et al.,2012; Schneider et al.,2017)。个体在比较非符号和符号数量时激活了相同的大脑后顶叶区域，显示两种表征有共同的认知神经基础(Piazza,2010)。再有，ANS 表征准确性的个体差异还与符号化数学表现的个体差异相关(vanMarleet al.,2014; Chuet al.,2016; Mou et al.,2018; Starr et al.,2018; Wang et al.,2020;元分析见 Chen &Li，2014;Fazio et al.,2014; Schneider etal.,2017)。而且在训练基于 ANS 的数量加减运算后（例如估算两个点阵加合后的数量)，儿童和成人的符号化数字运算成绩也得到提高(Hyde etal.,2014;Szkudlarek&Brannon,2018)；这显示出两者之间可能的因果关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，一些研究发现个体的ANS 准确性和符号化数字以及一般性数学学习并无显著相关(Negen& Sarmecka,2015；综述见De Smedt etal.,2013)。一些报告里的相关性可能是因为测试ANS 和其他数学能力的任务都包含了一般性认知能力，而当控制了这些一般性认知能力后两者不再相关(Fuhs & McNeil,2013; Gilmore et al.,2013；但见Keler& Libertus,2015)。所以基于ANS 的非符号数量表征和符号数字是否有数量概念上的独特联系，或者说两者是否相对独立，仍然是有争议的问题(Barner,2017; Chen& Li,2014;Gilmore& Cragg,2018;Sasanguie et al., 2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因本文篇幅所限，相关的理论争论和实验证据请见本段引用的相关文献。简言之，非符号数量表征和符号数字的关系问题还有争议。那么，对于比整数更复杂的分数概念而言，其非符号和符号表征又呈现出怎样的关系？下文将介绍关于分数的非符号和符号表征及其关系；之后，我们参照现有关于整数的研究发现及争论（如非符号和符号数量表征两者之间是否有独特相关或因果关系)，讨论对分数而言其非符号表征是否是符号表征认知基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3非符号比例表征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人类和一些非人类动物不仅能表征单个的非符号数量（整数)，还能表征两个非符号数量之间的比例关系，而且这样的表征也是基于ANS的。例如恒河猴在看到两条长短不同的目标线段对后，可以在备选项中选出长短比例与目标线段对一致的线段对，即便备选线段对和目标线段对的绝对长度并不一样(Vallentin&Nieder,2008)；在另一个研究中，恒河猴观看左右同时呈现的一对比例图片，其中每个比例由白色和黑色图形的数量之比组成。结果发现在控制了图形的绝对数量后，恒河猴依然可以判断出哪个图片中的数量比例更大(Drucker etal.,2016)。而且，这些动物在判断比例时显示出距离效应，表明可能是用 ANS 表征比例信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人类个体从婴儿期起也能表征两个数量之间的比例。例如6个月的婴儿在对一个数量比例产生视觉习惯化后（如1：4由一定数量的蓝色点子和4倍数量的黄色点子表示)，他们注视含有新比例的图片（如1：2）比原有比例（1：4）的时间更久(McCrink&Wynn,2007)。而且，这些婴儿能区分1：4和1：2（两个比例相差2倍)，但不能区分1：3和1：2（两个比例相差1.5倍)。婴儿对数量比例的区分也受它们之间的数量距离差异调控，表明他们是可能用ANS在表征数量比例。还有研究发现8个月的婴儿看到箱子里装有大量红色和白色小球且红球数量远多于白球时，他们期望主试随机抽出的球里也是红球比白球多，而不是白球比红球多(Xu&Garcia,2008)，这表明婴儿能根据总体里红白球的数量比例预测随机抽出的样本中红白球的大致比例。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "儿童也表现出表征非符号比例的能力(辛自强，刘国芳,2011)。当6-7岁的儿童看到某个几何图形有1/2 的面积被涂上黄色，他们能选出一个也有1/2 被涂黄色的另一种几何图形来跟原图形的比例进行匹配(Goswami,1989)。一些研究还用果汁浓度配兑任务来考察儿童表征非符号比例的能力(Boyer & Levine,2015; Boyer et al.,2008)。实验中红色条状的长度代表纯果汁的量，而蓝色条状的长度代表水的量。红色占红蓝总长度的比值越大，则代表果汁的浓度越大。在看到一个目标浓度后，儿童能从两个备选项中选取跟目标浓度相同的选项，即便该选项的条状总长度和目标浓度的不一样（即条状总长度不同但红色占总条状的长度比例相同；Boyer et al.,2008)；或者他们能将目标浓度转换到一条数轴上大致标记出来(Mohring etal.,2016)。此外9岁的儿童还认识到同一浓度可以由不同的数量对来表示。比如他们认识到3份果汁和9份水表示的果汁浓度跟2份果汁和6份水的浓度（即3：（3+9）＝2：（2+6））是一样的(Boyer& Levine,2012)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有趣的是，如果代表纯果汁和水的两种条状上下叠放，儿童的判断较好；而当纯果汁和水左右并排时，儿童的判断则较差(Mohring etal.,2016)。这可能是因为上下叠放能更好地反映出部分和整体的关系，而左右并排更易于反映部分和部分（而非部分和整体）的关系，因此更难估计浓度(Mohring etal.,2016)。此外，如果纯果汁和水的量不是以连续的条状而是以可数的离散的小块来表示，许多儿童则难以准确表征浓度；这可能是因为在用离散小块时，儿童倾向于去数红蓝这两个成分各自的数量，而不是去表征它们的比例关系(Boyer et al,2008；类似发现见 Begolli et al.,2020；辛自强，韩玉蕾,2014)。这些发现表明儿童的非符号比例表征容易受到数量表现形式的影响，显示出不稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4非符号数量表征与符号分数表征的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "儿童对单个数量（整数）和两个数量构成的比例都能进行ANS非符号数量表征，而且一些研究者认为这些非符号数量表征与符号分数表征密切相关(Jordan,Rodrigues,et al.,2017;Siegler etal.,2013)。在这个假设里，将非符号和符号表征联系起来的核心就是这两者本质上都是在表征“量”。理解符号分数的关键，是理解它的数值（即是“量\"）是多大以及这个数值和其他分数的关系。ANS 的非符号表征提供了“量”这个基础，而个体在学习符号化分数时就把其对应的量与 ANS 表征进行匹配。需要提及的是，这个假设强调了ANS 表征对符号分数表征的关系，但它并不严格区分究竟是对单个数量（整数）的非符号表征还是对比例的非符号表征与符号分数表征相关。有研究者近来更明确提出，符号分数表征可能并不基于对单个数量的非符号表征，而是只与对比例的非符号表征相关(Matthews etal.,2016)。为了厘清这一问题，我们梳理符号分数表征分别和单个数量(整数)以及比例的非符号表征的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一项研究显示五年级学生对单个数量（整数）的非符号表征越准确（比较点阵的数量大小)，其符号分数表现（比较符号分数的大小以及符号分数的数轴估计）也越好(Fazio et al,2014)。这表明单个数量的非符号表征和符号分数表征有关。但是，其他研究则报告在同时纳入一般性认知和语言等因素后，三年级学生对单个数量的非符号表征准确性不能预测符号分数概念理解（填涂图形表示符号分数、分数比较、数轴上标记分数）、分数程序性知识（加减计算及应用题）以及一般性数学成就(Jordan etal.,2013)。总体看来，目前检查基于 ANS的单个数量的非符号表征和符号分数表征关系的研究较少，而且对两者的相关关系还得到不一致的发现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对非符号比例表征和符号分数表征关系而言，小学儿童和成人在比较两个非符号比例（比例由两条竖线的长度之比表示）、两个符号分数、或者一个非符号比例和一个符号分数时都表现出了距离效应，而且比较两个非符号比例的反应时快于另外两者(Kalra etal.,2020)。这显示数量比例不论是以非符号还是符号形式表达出来，个体都能将它们的形式进行转化并比较；而且，因为比较两个非符号比例的反应时最短，研究者认为个体是将这些不同形式的比例都转化为非符号表征进行比较，并以此推测非符号的比例表征是符号分数表征的基础",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Kalra et al., 2020)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，9岁儿童的非符号比例匹配准确性（果汁浓度配比）与其符号分数测验综合成绩（如比较符号分数值大小，分数加减法等）有显著相关(Mohring etal.,2016)。也有研究报告五年级儿童在果汁浓度匹配中的正确率相关于其符号分数概念理解（如分数数值大小)，但不相关于符号化分数运算(Hansenetal.,2015)。除了相关性检验外，用果汁浓度任务来训练四年级学生的非符号比例表征准确性大约一周后，这些学生的符号分数成绩也得到了提高(Gouetetal.,2020)。该训练结果预示了非符号比例和符号分数表征之间可能的因果联系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再有，认知神经研究的结果也支持非符号比例表征和符号分数表征有关。脑电研究显示成人在比较非符号比例与符号分数大小时在前额叶和顶叶的P2、N3、P3等ERP 都呈现距离效应，显示在比较不同形式的分数时大脑有相似的神经加工过程(Zhang etal.,2013)。脑成像研究显示，个体在反复看到某一个比例并产生适应性后再看到另一个比例时会在前顶内沟（anterior intraparietal sulcus）和前额叶皮层有显著激活，而且激活强度随两个比例的距离差异而变化(ANS 特征;Jacob& Nieder,2009a,2009b)。这些实验的关键之处在于，大脑活动的距离效应在比例信息以非符号化（如长度为1:5的两根竖直排布的横线，或红色与蓝色的数量比为5:10的红蓝点阵）或符号化（如“3/6”，“halb”,halb在德语中表示一半）方式呈现时都能被观察到，这显示非符号比例和符号分数表征享有共同的神经基础。Mock 等(2018)也发现成人在比较以不同形式呈现的非符号比例或符号分数时（非符号比例有饼图和点阵两种表现形式；符号分数有阿拉伯数字分数和小数两种形式)，顶内沟和前额叶在符号或非符号条件中均有激活。相似的发现在儿童研究中也被观察到。Park 等人(2018)让二年级和五年级学生比较两个非符号比例（两根竖线的长度之比）、或两个符号分数、或一个为符号分数而另一个为非符号比例。不论哪种情况，顶叶和前额叶皮层的激活均呈现距离效应。这些结果都表明大脑对非符号比例与符号分数的表征和加工可能有共同的神经机制，显示了两者在大脑神经水平上的相关性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从行为和认知神经研究结果来看，比起单个数量的非符号表征，非符号比例表征和符号分数表征的关系似乎更为密切。新近有研究专门针对这一问题进行探索。Mathews 和Lewis等 (2016）发现成人的非符号比例匹配准确性（线段对的长度比例、两个点阵的数量比例)可以预测其符号分数表现(分数数值比较、分数数轴估计、概念和程序性分数知识纸笔测试)以及代数知识。值得注意的是，该研究还测量了个体对单个数量的非符号表征准确性（如比较两组点阵的数量多少，两条线段的长短；即通常意义上的ANS 表征准确性)。结果发现当没有纳入非符号比例表征准确性时，对单个数量的非符号表征准确性与符号分数比较成绩、分数概念程序知识以及代数知识相关；但是，在纳入非符号化比例准确性后，该变量能显著预测符号分数和代数成绩，但单个数量的非符号数量表征的预测作用不再显著。这个研究强调了是对比例而非对单个数量的非符号表征与符号化分数表征密切相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由此，这些研究者还进一步提出非符号比例表征并不基于ANS，而是基于另一个专用以表征和加工比例信息的比例加工系统(Ratio Processing System,RPS;Matthews & Chesney,2015;Mattews et al.,2016)。这个假设提出的原因是这些研究者认为ANS 为可计数的整数的符号化表征提供认知基础，但分数有别于可计数的整数（例如很难靠计数的方式数出 3/5这个数量)，因此ANS 难以作为分数学习的认知基础；但是，RPS 这个系统则专用于表征非符号的比例信息。在这个假设里，是RPS 而非ANS才是符号分数表征的认知基础(Matthews& Chesney, 2015; Matthews et al., 2016)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对 RPS 存在的支持证据还来自另外一项实验(Park etal.,2020)。学前儿童、小学儿童和成人判断由非符号数量表示的比例大小（有线段长度、点阵数量或者图形面积三种形式)，并且也判断这些非符号形式表达的单个数量本身的数值大小（如一条线段比另一条线段更长或更短；即测量ANS 表征准确性)。结果显示个体在某一类非符号比例任务中的表现与其他类非符号比例的表现相关，且这样的相关性总体要高于这类比例比较的表现和同类单个数量比较表现的相关性（例如，由线条表示的比例任务的成绩，更能由面积表示的比例比较成绩来预测，而不是比较线条单个数量的任务成绩来预测)。这些研究者认为这样的发现说明了对非符号比例的表征可能是基于专门表征比例关系的认知系统RPS,而不是一般性的ANS。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "近来还有研究者检查一般儿童和成人以及患有失算症（dyscalculia）的成人的非符号比例表征和符号分数表征(Bhatia,etal.,2020)。结果显示这些群体都可能使用RPS 来表征非符号比例信息，且该系统可能支持非符号比例表征和符号分数表征的匹配。这些发现表明 RPS可能广泛存在于不同人群群体中。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5尚待解决的关键问题",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过前文综述，我们看到人类个体从婴幼儿期开始就显示出了表征和加工非符号比例的能力，但这样的能力在儿童期可能受数量表达形式的影响显示出不稳定性；此外，这种非符号数量表征与符号分数表征在行为和大脑神经活动层面都表现出相关关系。但是我们也需要看到这样的相关关系目前尚有争议。要更准确地理解两者的关系，我们还需在以下方面做出更多探索：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）目前有研究发现非符号数量表征（单个数量或数量间的比例）和符号分数表征之间有相关，但还需进一步检验这样的相关是否反映出两者在数量概念上的独特联系。现有关于对整数的研究显示，非符号和符号数量表征两者的相关性可能并不源于它们独特的数量概念上的联系，而是由一般性认知或语言等其他因素造成的(Fuchs&McNeil,2013;Gilmore et al.,2013)。相比于整数而言，比例或分数(不论是非符号化还是符号化)包含了两个成分(a/b;Fazioetal.,2014)，所以表征时可能需要更多一般认知能力的参与。个体需要同时表征两个成分（分子和分母）并计算两者的比值，同时抑制把其中任何单个成分的值当作分数值的反应。这一系列的加工都不仅限于对非符号或符号的数量表征，而是包含了多种认知加工和计算。有认知神经研究的确发现非符号比例和符号化分数表征所共同激活的脑区中，有的本身与注意、记忆、抑制控制等一般性认知有关(Mock etal.,2019)。Cui等(2020)也发现加工符号分数激活了与语义加工相关的左颞中回等脑区（left middle temporal gyrus,leftMTG)，这显示大脑在表征分数时可能在提取跟数学规则相关的语义知识（如分数值取决于分子和分母的比值)。这些发现都突显了在考虑非符号和符号数量表征相关性时要检查多种一般性认知因素的作用。但是，前文回顾的多数关于分数的研究尚未严格检查这些因素的可能影响(但见Matthews et al,2016)，所以即便目前我们看到了非符号数量和符号分数表征的相关，但对于该相关性的本质仍了解不足。这是未来研究尤其需要注意的一个问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2）如果非符号数量表征和符号分数表征确有相关，那么这样的相关是否必然说明前者是后者的认知基础，即两者之间有因果关系？目前多数研究只检查两者的同时性相关，故难以得出两者的因果关系如何。而且，目前一些关于整数的行为和大脑认知神经追踪研究发现，与基于ANS 的非符号数量表征是符号数字表征的认知基础这一假设所预测的情况相反，个体的ANS表征准确性并不能预测其之后的符号数字成绩，而是符号数字成绩预测之后的ANS 表征准确性(Lyons et al.,2018; Matejko & Ansari, 2016; Suarez-Pelicioni & Booth, 2018;但见 Ellott et al.,2018 报告的双向预测)。一个可能的原因是符号数字表征从本质上讲更为准确，且长期的符号化表征训练可提高个体的非符号数量表征的准确性(Lyons etal.,2018;Matejko＆Ansari,2016)。那么，对分数的表征是否也有这样的关系？为了回答这一问题，我们需要用追踪研究在时间先后顺序上检查非符号数量表征对符号分数表征的影响，以及通过训练的方式检查是否对非符号数量的训练能引起符号表征的变化(Gout etal.,2020)。而且，这样的检查还需要是双向的，即既检查非符号数量表征对符号分数表征的预测作用，也检查符号分数表征对非符号数量表征的预测作用。这些严格检验在目前的分数研究中尚未看到，而这应该是之后关于分数学习的一个重要研究方面。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）如果非符号数量表征和符号分数表征确有相关（甚至有因果关系)，那么前者究竟是如何支持对后者的学习的？有研究者提出非符号数量表征和符号分数表征有所联系的关键是个体理解了两者都表示“量”这个概念(Jordan,Resnick,et al.,2017; Siegler et al.,2013)。但分数的符号化表征是要表达一个准确唯一的数值，而非符号数量表征（不管是对单个数量还是对比例）从本质上讲是近似模糊的（例如非符号数量表征无法准确表征3/4这个分数的数值)，那么符号分数表征是如何在非符号表征的基础上建立起来的？这个问题在整数的数量表征中也存在(对整数数字准确数量含义的理解如何建立于近似数量表征的基础上;Gallistel,2007)。一些研究者已开始尝试回答这一问题。例如vanMarle 等（2016）发现儿童对数词概念的学习既需要ANS 提供数量表征，也需要OTS 提供对个体的精确表征；而且这两个系统的贡献可能是在语言的作用下逐渐整合到一起(Spelke,2011)。这也符合数概念的习得是基于数量特异信息（如ANS 表征）、语言和一般性认知（如抑制控制等）等多个认知来源的假设(Dehaene et al.,2003;LeFevre et al.,2010)。这些实验发现和理论假设对我们理解对分数的非符号和符号表征的关系也提供了参考：非符号数量表征为理解符号分数的数值提供了基本的数量信息，这可能使个体表征作为一个整体代表的“量”，而不是构成它的各个成分(Siegler etal.,2013)。但是，这样的数量信息并不十分准确；此时还需要语言或其他一般性认知能力来将这个非符号-符号的匹配过程精确化，从而形成准确唯一的符号分数表征。当然，对分数的符号表征是如何在非符号数量表征基础上一步步建立起来的；非符号数量表征、一般性认知及语言等多种认知因素在符号分数学习中如何具体协同作用，以及它们的作用是否随着个体处在不同的分数学习阶段而不同？目前还很少有研究对这一系列问题进行深入探索，这是有待未来研究关注的地方。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（4）现有研究显示相对于对单个数量（整数）的非符号表征而言，对数量比例的非符号表征和符号分数表征有更密切相关。然而，我们是否能以此认为非符号比例表征是由一个有别于ANS 的专门处理数量比例信息的RPS所支持，以及更进一步认为符号分数的认知基础是RPS(Matthews etal.,2016)?上文提到支持RPS 假设的一些实验证据，例如是RPS（由非符号比例表征准确性指示）而不是ANS（由单个数量的非符号数量表征准确性指示）是预测符号化分数表现的显著变量(Matthews et al.,2016)。但是，有一种可能是实验任务里测得的非符号比例表征准确性是ANS 表征准确性和快速运算能力的综合体现。例如，在非符号比例任务中个体用ANS表征两个数量，然后再快速计算出两者的比例关系（即形成一个非符号比例表征)，最后对需要比较的两个比例进行大小判断。这也可以解释测得的RPS 比",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ANS 对符号分数表征更具预测力的现象（即测得的非符号比例的反应既包含ANS表征准确性还包含计算加工)。同样的，这一假设也可用于解释为何不同类型刺激的非符号比例表征准确性之间的相关性要高于同类的单个数量表征的准确性(Park etal.,2020；但见 Matthews& Chesney,2015关于表征比例信息反应时的更多讨论)。因为目前的研究并未纳入个体对数量关系的计算能力进行考虑，所以这样的备择解释目前还不能被排除。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "此外，如果RPS 是一个独立于ANS 的表征系统，那它是否也有独立于ANS 的认知神经基础？目前关于ANS的认知神经研究发现人类和非人类动物对单个数量（整数）和比例的非符号表征和加工共同激活了大脑顶内沟（Intraparietal Sulcus,IPS）等脑区(Hyde& Mou,2015;Mock,et al.,2018;Nieder,2016;Piazza,2010)，但目前尚无明显证据表明表征非符号比例和单个数量各自激活了相对独立的大脑区域。因此，我们还需要更明确的行为和大脑神经证据来断定是否有一个独立于ANS的专门处理比例数量信息的表征系统存在。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "总体而言，目前的研究表明自婴幼儿期起我们便具有了表征非符号数量表征能力；这样的表征，尤其是对非符号数量比例关系的表征，和符号分数表征有一定关联。然而，这两者关系的稳定性和因果性还有待进一步检验，并且我们还需更多研究来揭示在非符号数量表征基础之上形成符号分数表征的认知机制。所得到的关于非符号和符号分数表征加工关系的发现，将会促进我们对于初级的数量表征加工能力和正式符号数学学习之间关系的了解，从而更好认识人类数学学习的认知来源并发展出更为有效的促进符号数学学习的教学方法。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "高瑞彦，牛美心，杨涛，周新林.(2018).4-8年级学生分数数量表征的准确性及形式．心理发展与教育，34(4), 443-452. https://doi.0rg/10.16187/j.cnki.issn1001-4918.2018.04.08  \n高婷，刘儒德，刘颖，庄鸿娟.(2016).小学生分数比较中的加工模式：基于反应时和口语报告的研究．心理发展与教育. 32(4),463-470. https://doi.org/10.16187/j.cnki.issn1001-4918.2016.04.10  \n刘春晖，辛自强.(2010).分数认知的“整数偏向”研究：理论与方法．心理科学进展.18(1),65-74.  \n孙玉，司继伟，黄碧娟.(2016).分数的数量表征．心理科学进展,24(4),1207-1216.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "https://doi.0rg/10.3724/SP.J.1042.2016.01207 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "辛自强，韩玉蕾.(2014).小学低年级儿童的等值分数概念发展及干预.心理学报,46(6),791-806.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "https://doi.0rg/10.3724/SP.J.1041.2014.00791   \n辛自强，刘国芳.(2011).非符号分数与整数计算能力的发展及其与数字记忆的关系．心理科学,34(3),520- 526. https://doi.0rg/CNKI:SUN:XLKX.0.2011-03-003   \n杨伊生，刘儒德.(2008).儿童分数概念发展研究综述．内蒙古师范大学学报(教育科学版).21(6),130-134.   \n张丽，卢彩芳，杨新荣.(2014).3-6年级儿童整数数量表征与分数数量表征的关系.心理发展与教育.30(1), 1-8. https://doi.0rg/CNKI:SUN:XLFZ.0.2014-01-001   \n张丽，辛自强，王琦，李红.(2012)．整体分数构成对分数加工的影响．心理发展与教育.28(1).31-37. https://doi.0rg/CNKI:SUN:XLFZ.0.2012-01-005   \nBailey,D.H., Hoard,M. K.,Nugent,L., & Geary,D. C. (20l2). Competence with fractions predicts gains in mathematics achievement.Journal of Experimental Child Psychology,113(3), 447-455. https://doi.org/10.1016/j.jecp.2012.06.004   \nBailey,D.H., Siegler,R. S.,& Geary,D.C.(2014).Early predictors of middle school fraction knowledge. Developmental Science,17(5), 775-785. htps://doi.org/10.111/desc.12155   \nBarner D. (2017). Language, procedures,and the non-perceptual origin of number word meanings. Journal of Child Language, 44(3), 553-590. htps://doi.0rg/10.1017/S0305000917000058   \nBegoli, K. N., Booth,J.L.,Holmes, C.A.,& Newcombe,N. S. (2020). How many apples make a quarter?The challenge ofdiscrete proportional formats.Journal ofExperimental Child Psychology,192,104774. https://doi.0rg/10.1016/j.jecp.2019.104774   \nBhatia,P.,Delem,M.,Leone,J.,Boisin,E.,Cheylus,A., Gardes,M.L.,&Prado,J. (202).Theratio proceing system and its role in fraction understanding: Evidence from a match-to-sample task in children and adults with and without dyscalculia. Quarterly Journal of Experimental Psychology (2006),73(12),2158-2176. https://doi.0rg/10.1177/1747021820940631   \nBoyer,T.W.,&Levine,S.C. (2012). Child proportional scaling: is1/3=2/6=3/9=4/12?.JournalofExperimental Child Psychology,111(3), 516-533. https://doi.0rg/10.1016/j.jecp.2011.11.001   \nBoyer,T. W.,& Levine, S. C. (2015).Prompting children to reason proportionally: Processing discrete units as continuous amounts. Developmental Psychology, 51(5), 615-620. htps://doi.0rg/10.1037/a0039010   \nBoyer,T. W.,Levine, S. C.,& Hutenlocher, J. (2008). Development of proportional reasoning: Where young children go wrong. Developmental Psychology, 44(5),1478-1490. https://doi.0rg/10.1037/a0013110   \nBraithwaite,D. W.,& Siegler,R. S. (2018). Children learn spurious associations in their math textbooks: Examples from fraction arithmetic. Journal of Experimental Psychology: Learning Memory and Cognition, 44(11), 1765-1777. https://doi.org/10.1037/xlm0000546   \nBraithwaite,D.W., Tian,J.,& Siegler,R.S. (2018).Do children understand fractionaddition.Developmental Science, 21(4), e12601. https://doi.0rg/10.1111/desc.12601   \nChen, Q.,& Li, J. (2014).Association between individual diffrences in non-symbolic number acuity and math performance: A meta-analysis. Acta Psychologica,148,163-172. https://doi.org/10.1016/j.actpsy.2014.01.016   \nChu,F.W.,vanMarle,K.,& Geary,D.C. (2016).Predicting children's reading and mathematics achievement from early quantitative knowledge and domain-general cognitive abilities.Frontiers in Psychology,7,775. https://doi.0rg/10.3389/fpsyg.2016.00775   \nCui, J.,Li,L.,Li,M.,iegler,R.,& Zhou,X. (202o). Middle temporal cortex isinvolved inprocessing fractions. Neuroscience Letters, 725,134901.htps://doi.org/10.1016/j.neulet.2020.134901   \nDehaene,S., Piazza,M.,Pinel,P.,& Cohen,L.(20o3). Three parietal circuits for number processing. Cognitive Neuropsychology, 20(3), 487-506. https://doi.0rg/10.1080/02643290244000239   \nDenison, S.,Reed, C.,& Xu,F. (2013).The emergence of probabilistic reasoning in very young infants: Evidence from 4.5- and 6-month-olds. Developmental Psychology, 49(2), 243-249. htps://doi.0rg/10.1037/a0028278   \nDenison,S.,& Xu,F.(2014).The origins of probabilistic inference inhuman infants.Cognition,130(3),35-347. https://doi.0rg/10.1016/j.cognition.2013.12.001   \nDe Smedt,B., Noel,M.P., Gilmore, C.,& Ansari, D.(20l3). How do symbolic and non-symbolic numerical magnitude processing skills relate to individual differences in children's mathematical skils? Areview of evidence from brain and behavior. Trends in Neuroscience and Education,2(2), 48-55.   \nDeWolf,M.,Bassok,M., & Holyoak, K. J.(2O15). Conceptual structure and the procedural affrdancesofrational numbers: relational reasoning with fractions and decimals. Journal of Experimental Psychology: General,144(1),127-150. htps://doi.org/10.1037/xge0000034   \nDrucker, C.B.,Rossa, M.A.,& Brannon, E. M. (20l6). Comparison of discrete ratios by rhesus macaques (Macaca mulatta). Animal Cognition,19(1), 75-89. htps:/doi.org/10.1007/s10071-015-0914-9   \nElliott,L.,Feigenson,L.,Halberda,J.,&ibertus,.E.(18).Bdirectional,longitudinalassociationsbete math ability and approximate number system precision in childhood.Journal of Cognition and Development, 20(1), 56-74. htps://doi.0rg/10.1080/15248372.2018.1551218   \nFazio,L.K.,Bailey,D.H.,Thompson,C.A.,& Siegler,R.S. (2014).Relationsofdiferenttypesofnumerical magnitude representations to each other and to mathematics achievement. Journal of Experimental Child Psychology,123,53-72.htps://doi.0rg/10.1016/j.jecp.2014.01.013   \nFeigenson,L.,Dehaene,S.,& Spelke,E. (2004). Core systems of number. Trends in Cognitive Sciences,8(7), 307-314. https://doi.0rg/10.1016/j.tics.2004.05.002   \nFuhs,M. W.,& McNeil,N.M.(20l3).ANS acuity and mathematics ability in preschoolers from low-income homes: Contributions ofinhibitory control. Developmental Science,16(1),136-14. https://doi.org/10.111/desc.12013   \nGallistel, C.R.,& Gelman,I.,I(2ooo).Non-verbal numerical cognition: Fromreals to integers.Trends in Cognitive Sciences, 4(2), 59-65. https:/oi.0rg/10.1016/s1364-6613(99)01424-2   \nGalistel, C.R. (2007). Commentary on Le Corre & Carey. Cognition,105(2),439-445. https://doi.0rg/10.1016/j.cognition.2007.01.010   \nGeary,D.C.,& vanMarle,K. (20l6).Young children's core symbolic and nonsymbolic quantitative knowledge in the prediction of later mathematics achievement. Developmental Psychology,52(12),2130-2144. https://doi.0rg/10.1037/dev0000214   \nGilmore,C.,Atridge,N.,Clayton,S.,Cagg,L.,Jonson,S.,arlow,N...Inglis,. (2).Idval differences in inhibitory control, not non-verbal number acuity, correlate with mathematics achievement. PLOS ONE, 8(6), e67374. https://doi.0rg/10.1371/journal.pone.0067374   \nGilmore, C.& Cragg,L. (2018). Heterogeneity ofFunction in Numerical Cognition. In H. Avishai,& F.Wim (Eds.)The role of executive function skills in the development ofchildren's mathematical competencies (pp. 263-286). Elsevier. https:/doi.0rg/10.1016/B978-0-12-811529-9.00014-5.   \nGoswami, U. (1989). Relational complexity and the development of analogical reasoning. Cognitive Development, 4(3),251-268. https:/oi.0rg/10.1016/0885-2014(89)90008-7   \nGouet, C., Carvajal, S.,Halberda,J.,& Peia,M. (202o). Training nonsymbolic proportionalreasoning inchildren and its effects on their symbolic math abilities. Cognition,197,104154. https://doi.0rg/10.1016/j.cognition.2019.104154   \nHansen,N.,Jordan,N.C.,Ferandez,E.,Siegler,R.S.,Fuchs,L.,Gersten,R,&Micklos,D.(2015).Generaland math-specific predictors of sixth-graders' knowledge of fractions. Cognitive Development, 35, 34-49. https://doi.0rg/10.1016/j.cogdev.2015.02.001   \nHoward, S.R.,Avargues- Weber, A., Garcia,J.E., Greentree,A. D., & Dyer, A. G. (2019). Surpassing the subitizing threshold: appetitive-aversive conditioning improves discrimination of numerosities in honeybees. The Journal of Experimental Biology, 222(Pt 19), jeb205658. https://doi.0rg/10.1242/jeb.205658   \nHyde,D. C., Boas,D.A., Blair, C.,& Carey, S. (2010). Near-infrared spectroscopy shows right parietal specialization for number in pre-verbal infants. Neurolmage, 53(2), 647-652. https://doi:10.1016/j.neuroimage.2010.06.030   \nHyde, D. C., Khanum, S.,& Spelke,E.S. (2014). Brief non-symbolic,approximate number practice enhances subsequent exact symbolic arithmetic in children. Cognition,131(1),92-107. https://doi.org/10.1016/j.cognition.2013.12.007   \nHyde,D.C. & Mou, Y. (2O15). Neural and behavioral signatures core numerical abilities and early numerical development. In D.B. Berch, D.C. Geary,& K. Mann Koepke (Eds.), Mathematical Cognition and Learning, (Vol.2, pp. 51-77). Elsevier. https://doi.0rg/10.1016/B978-0-12-801871-2.00003-4   \nHyde,D.C.,Simon, C.E.,Berteletti,I.,& Mou, Y. (2016).The relationship between non-verbal systems of number and counting development: a neural signatures approach. Developmental Science, 20(6), 10.111/desc.12464. https://doi.org/10.1111/desc.12464   \nHyde,D. C.,& Spelke,E. S. (2011). Neural signatures ofnumber processing in human infants: Evidence for two core systems underlying numerical cognition. Developmental Science, 14(2),360-371. https://doi.0rg/10.111/j.1467-7687.2010.00987.x   \nJacob,S.N.,&Nieder,A.(2O09a).Notation-independent representation of fractions in the human parietal cortex. The Journal of Neuroscience,29(14), 4652-4657. htps://doi.0rg/10.1523/JNEUROSCL0651-09.2009   \nJacob,S.N.,& Nieder,A. (20o9b). Tuning to non-symbolic proportions in the human frontoparietal cortex. European Journal of Neuroscience,30(7),1432-1442. https://doi.org/10.11/j.1460- 9568.2009.06932.x   \nJordan,N. C.,Hansen, N.,Fuchs,L. S., Siegler,R.S., Gersten,R.,& Micklos,D.(2013). Developmental predictors of fraction concepts and procedures. Journal of Experimental Child Psychology,116(1), 45-58. https://doi.0rg/10.1016/j.jecp.2013.02.001   \nJordan,N.C.,Resnick,I.,Rodrigues,J.,Hansen,N.,&Dyson,N. (2o17).Delaware longitudinal studyoffraction learning: implications for helping children with mathematics difficulties. Journal of Learning Disabilities, 50(6), 621-630. htps://doi.0rg/10.1177/002219416662033   \nJordan,N. C.,Rodrigues,J.,Hansen,N.,& Resnick,I.(2O17).Fraction developmentin children: Importanceof building numerical magnitude understanding. In D.C. Geary, D.B. Berch, R. J. Ochsendorf, K. M. Koepke, In Mathematical Cognition and Learning,Acquisition of Complex Arithmetic Skills and Higher-Order Mathematics Concepts (pp.125-140). Elsevier. htps://doi.0rg/10.1016/B978-0-12-801871-2.00003-4.   \nKalra,P.B.,Binzak,J.V.,Mathews,P.G.,& Hubbard,E.M. (202O). Symbolic fractions elicit an analog magnitude representation in school-age children. Journal of Experimental Child Psychology,195,104844. https://doi.0rg/10.1016/j.jecp.2020.104844   \nKeler,L.,& Libertus, M. (2015). Inhibitory control may not explain the link between approximation and math abilities in kindergarteners from middle class families. Frontiers in Psychology, 6, 685. https://doi.0rg/10.3389/fpsyg.2015.00685   \nLeFevre,J.A.,Fast,L., Skwarchuk, S.L.,Smith-Chant,B.L.,Bisanz,J.,Kamawar,D.,&Penner-Wilger,. (2010). Pathways to mathematics: Longitudinal predictors of performance. Child Development,81(6),1753- 1767 https://doi.0rg/10.1111/j.1467-8624.2010.01508.x   \nLeibovich,T., & Ansari,D.(2016).The symbol-grounding problem in numerical cognition: Areview of theory, evidence, and outstanding questions. Canadian Journal of Experimental Psychology/Revue canadiene de psychologie experimentale,70(1),12-23. htps://oi.org/10.1037/cep0000070   \nLibertus, M.E., Odic,D.,Feigenson,L.,& Halberda,J. (2016).The precision of mapping between number words and the approximate number system predicts children's formal math abilities.Journal of Experimental Child Psychology, 150,207-226. htps://doi.0rg/10.1016/j.jecp.2016.06.003   \nLyons,I. M., Bugden, S., Zheng,S.,De Jesus,S.,& Ansari,D. (2018). Symbolic number skils predict growth in nonsymbolic number skils in kindergarteners. Developmental Psychology, 54(3), 440-457. https://doi.0rg/10.1037/dev0000445   \nMatejko,A.A., & Ansari, D.(2016). Trajectories of symbolic and nonsymbolic magnitude processing in the first year of formal schooling. PlOS ONE, 11(3), e0149863. https://doi.org/10.1371/journal.pone.0149863   \nMatthews, P. G., & Chesney, D.L. (2015).Fractions as percepts? Exploring cross-format distance effects for fractional magnitudes. Cognitive Psychology,78,28-56. htps://doi.org/10.1016/j.cogpsych.2015.01.006   \nMatthews, P.G.,Lewis,M.R.,& Hubbard,E.M. (2016). Individual diffrences innonsymbolic ratio proceing predict symbolic math performance. Psychological Science, 27(2),191-202. https://doi.0rg/10.1177/0956797615617799   \nMcCrink,K.,& Wynn, K. (20o7).Ratio abstraction by 6-month-old infants.Psychological Science,18(8),740- 745. https://doi.0rg/10.1111/j.1467-9280.2007.01969.x   \nMcCrink,K.,& Wynn,K.(2009). Operational momentum in large-number addition and subtraction by 9-montholds. Journal of Experimental Child Psychology,103(4), 400-408. htps:/oi.org/10.1016/j.jecp.2009.01.013   \nMock,J.,Huber,S.,Bloechle,J.,Dietrich,J.F.,Bahnmueller,J.,Rennig,J.,..&Moeller,K. (2018).Magnitude processing of symbolic and non-symbolic proportions: An fMRI study. Behavioral and Brain Functions, 14(1), 9. htps://doi.0rg/10.1186/s12993-018-0141-z   \nMock,J.,Huber,S.,Bloechle,J.,Bahnmueller,J.,Moeller,K,&Klein,E. (20l9).Processngsymbolicandnonsymbolic proportions: Domain-specific numerical and domain-general processes in intraparietal cortex. Brain Research,1714, 133-146. https://doi.0rg/10.1016/j.brainres.2019.02.029   \nMou, Y., Berteleti,I.,& Hyde,D.C. (2018). What counts in preschool number knowledge? ABayes factor analytic approach toward theoretical model development. Journal of Experimental Child Psychology,166, 116-133 htps://oi.org/10.1016/j.jecp.2017.07.016   \nMou,Y.,Li,Y.,Hoard,M.K,Nugent,L.D.,Chu,F.W.,Rouder,J.N.,& Geary,D.C. (2016).Developmental foundations of children's fraction magnitude knowledge. Cognitive Development,39,141-153. https://doi.0rg/10.1016/j.cogdev.2016.05.002   \nMohring, W., Newcombe,N.S.,Levine, S.C.,& Frick,A. (2016). Spatial proportional reasoning is associated with formal knowledge about fractions. Journal of Cognition and Development,17(1), 67-84. https://doi:10.1080/15248372.2014.996289   \nMundy,E.,& Gilmore, C.K. (20o9). Children's mapping between symbolic and nonsymbolic representations of number. Journal of Experimental Child Psychology,103(4),490-502. https://doi.0rg/10.1016/j.jecp.2009.02.003   \nNegen, J.,& Sarnecka, B.W. (2O15).Is there really alink between exact-number knowledge and approximate number system acuity in young children?.The British Journal of Developmental Psychology,33(1), 92-105. https://doi.0rg/10.1111/bjdp.12071   \nNieder A. (2016). The neuronal code for number. Nature Reviews Neuroscience,17(6),366-382. https://doi.0rg/10.1038/nrn.2016.40   \nNi,Y.,& Zhou, Y.D. (2oo5).Teaching and learning fraction and rational numbers: The origins and implications of whole number bias. Educational Psychologist, 40(1), 27-52. https:/doi.0rg/10.1207/s15326985ep4001_3   \nPark,Y.,Binzak,J.,Toomarian,E.,Kalra,P.,Mathews,P.G.,&Hubbard,E.(2018,July). Developmental changes in children's processing of nonsymbolic ratio magnitudes: A cross-sectional fMRl study.40th Annual Meetings of Cognitive Science Society,Madison,WI, USA.   \nPark, Y., Viegut, A.A.,& Matthews,P.G. (2020). More than the sum of its parts: Exploring the development of ratio magnitude versus simple magnitude perception. Developmental Science, e13043. https://doi.0rg/10.111/DESC.13043   \nPiazza M. (2010). Neurocognitive start-up tools for symbolic number representations. Trends in cognitive Sciences,14(12), 542-551. https://doi.0rg/10.1016/j.tics.2010.09.008   \nSasanguie,D.,Defever,E., Maertens,B.,& Reynvoet, B. (2014).The approximate number system is not predictive for symbolic number processing in kindergarteners. Quarterly Journal of Experimental Psychology, 67(2), 271-280. htps://doi.0rg/10.1080/17470218.2013.803581   \nSasanguie,D.,De Smedt,B.,Defever,E.,&Reynvoet, B.(2ol2).Association between basic numerical abilities and mathematics achievement.The British Journal of Developmental Psychology,30(Pt 2),344-357. https://doi.0rg/10.111/j.2044-835X.2011.02048.x   \nSchneider,M.,Beeres,K., Coban,L.,Merz,S.,Susan Schmidt,S.,Stricker,J.,& De Smedt,B.(2017). Associations of non-symbolic and symbolic numerical magnitude processing with mathematical competence: A meta-analysis. Developmental Science, 20(3),10.1111/desc.12372. htps://doi.org/10.111/desc.12372   \nSiegler,R.S.,Fazio,L.K.,Bailey,D.H.,& Zhou,X. (2o13).Fractions: The new frontier fortheoriesofnumerical development. Trendsin Cognitive Sciences,17(1),13-19. htps://doi.org/10.1016/j.tics.2012.11.004   \nSiegler, R.S.,& Pyke,A.A. (2013). Developmental and individual differences in understanding of fractions. Developmental Psychology, 49(10), 1994-2004. https://doi.0rg/10.1037/a0031200   \nSiegler,R.S.,Thompson, C.A.,& Schneider,M.(2011).An integrated theoryof whole number and fractions development. Cognitive Psychology, 62(4),273-296. htps://doi.0rg/10.1016/j.cogpsych.2011.03.001   \nSpelke,E.S. (201). Natural number and natural geometry. In S.Dehaene,&E.M. Brannon (Eds.),Space,Time and Number in the Brain (pp. 287-317). Elsevier. htps://doi.0rg/10.1016/B978-0-12-385948-8.00018-9   \nSpelke,E.S. (20l7). Core knowledge,language,and number.Language Learning andDevelopment,13(2),147- 170. https://doi.0rg/10.1080/15475441.2016.1263572   \nStar,A.,& Brannon,E.M.(20l5).Evolutionaryand developmentalcontinuities in numerical cognition.In D.C. Geary,D.B.Berch,& K. M. Koepke (Eds.), Mathematical Cognition and Learning (Vol.1, pp.123-144). Elsevier. https://doi.0rg/10.1016/B978-0-12-420133-0.00005-3   \nStarr,A.,Tomlinson,R.C.,& Brannon,E.M.(2O18).The acuityand manipulability of the ANS have separable influences on preschoolers' symbolic math achievement.Frontiers in Psychology,9,2554. https://doi.0rg/10.3389/fpsyg.2018.02554   \nSuarez-Pellicioni, M.,& Booth,J.R. (2018).Fluency in symbolic arithmetic refines the approximate number system in parietal cortex. Human Brain Mapping, 39(10),3956-3971. https://doi.org/10.1002/hbm.24223   \nSzkudlarek,E.,& Brannon,E.M. (2018). Approximate arithmetic training improves informal math performance in low achieving preschoolers. Frontiers in Psychology,9, 606. htps://doi.org/10.3389/fpsyg.2018.00606   \nVallentin,D.,& Nieder,A. (2oo8). Behavioral and prefrontal representation of spatial proportions in the monkey. Current Biology,18(18),1420-1425. htps://doi.org/10.1016/j.cub.2008.08.042   \nvanMarle,K., Chu,F.W.,Li,Y.,& Geary, D.C.(2014).Acuity of the approximate number systemand preschoolers' quantitative development. Developmental Science,17(4), 492-505. https://doi.org/10.1111/desc.12143   \nvanMarle, K., Mou, Y.,& Seok, J. H. (2016). Analog magnitudes support large number ordinal judgments in infancy. Perception, 45(1-2), 32-43. https://doi.0rg/10.1177/0301006615602630   \nWang, J.J.,Halberda,J.,&Feigenson,L. (2O20).Emergenceofthe link between the approximate number system and symbolic math ability. Child Development,10.1111/cdev.13454.Advance online publication. https://doi.org/10.1111/cdev.13454   \nXu,F.,& Garcia,V.(20o8). Intuitive statisticsby 8-month-old infants.Proceedings of the National Academy of Sciences of the United States of America,105(13),5012-5015. https://oi.org/10.1073/pnas.0704450105   \nZhang,L., Wang, Q.,Lin, C.,Ding, C.,& Zhou, X. (2013). An ERP study of the processing of common and decimal fractions: How different they are.PLOS ONE,8(7),e69487. https://doi.org/10.1371/journal.pone.0069487 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The relation between non-symbolic magnitude representation and symbolic fraction representation ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "MAO Huomin1; LIU Qin²; LV Jianxiang³; MOU Yi4 (Zhu Hai Sun Yat-sen University Primary School，519031，China 2 34 DepartmentofsychlogySunYat-sen University,6,China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Representing the numerical value of symbolic fraction is central to the conceptual learning of symbolic fraction. The representation of symbolic fraction has been hypothesized to be built on non-symbolic magnitude representation (e.g., representing the magnitude of a set, or the proportion between two magnitudes） that exists since human early infancy. The supportive evidence includes that non-symbolic magnitude representation, especially the non-symbolic representation for the proportion between quantities, is correlated with the representation for symbolic fraction in behavioral and brain neural responses.However, further research is needed to determine the unique and causal relation between non-symbolic magnitude representation and symbolic fraction representation, and to clarify the specific cognitive mechanism underlying symbolic fraction representation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Key words: non-symbolic magnitude representation， ratio processing system， non-symbolicproportional representation， non-symbolic fraction representation， symbolicfractionrepresentation",
+        "page_idx": 20
+    }
+]

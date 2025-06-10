@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "Application of biocementation technique using Bacillus sphaericus for stabilization of soil surface and dust storm control ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DavoodNAMDAR-KHOJASTEHl\\*,MasoudBAZGIR², Seyed Abdollah HASHEMI BABAHEIDARI,AkwasiB ASUMADU-SAKYI4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Soil Science,Faculty of Agriculture, Shahed University,Tehran 3319118651,Iran;   \n2 Department of Soil and Water Engineering,Facultyof Agriculture,Ilam University,Ilam 6931863949,Iran;   \n3 Department of Plant Protection,Faculty of Agriculture,Shahed University,Tehran 3319118651,Iran;   \n4InternationalLaboratoryforAirQualityandHealth,SchoolofChemistry,Physicsand MechancalEnginering,Queensland   \nUniversity of Technology,Brisbane, Queensland 40oo,Australia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Dust emisson and wind erosion are widespread phenomena in arid and semi-arid regions, which have far-reaching harmful effects to the environment.This study aimed to use microbial induced carbonate precipitation (MICP) method with Bacillus sphaericus to reduce soil losses that occur in a dust-producing area due to wind erosion in the Ilam Province,Iran. Soil samples at the $\\left. 0 - 3 0 \\ \\mathrm { c m } \\right.$ depth were used and sterilized in an autoclave for $^ { 2 \\mathrm { ~ h ~ } }$ at $1 2 1 ^ { \\circ } \\mathrm { C }$ and $1 0 3 \\mathrm { ~ k P a }$ . Approximately $3 ~ \\mathrm { k g }$ soils were weighed and poured in the $3 5 ~ \\mathrm { c m } { \\times } 3 5 ~ \\mathrm { c m } { \\times } 3 ~ \\mathrm { c m }$ trays.Different treatments included two levels of $B$ spbaericus (O.0 and $0 . 5 ~ \\mathrm { O D } ^ { \\cdot }$ ),three levels of suspension volume (123,264,and $3 6 9 ~ \\mathrm { m L }$ )，two levels of urea-chloride cementation solution (0.O and $0 . 5 ~ \\mathrm { M } ,$ ,and two levels of bacterial spray (once and twice spray). After $2 8 \\mathrm { d }$ , soil properties such as soil mass loss, penetration resistance,and aggregate stability were measured. The results showed a low soil mass loss ${ \\left( 1 \\ { \\mathrm { g } } \\right) }$ in $\\mathrm { F } _ { 1 4 }$ formulation (twice bacterial spray $+ 2 6 4 ~ \\mathrm { m L }$ suspension volume+without cementation solution） and a high soil mass loss $( 2 4 6 \\ \\mathrm { g } )$ in $\\mathrm { F } _ { 5 }$ formulation (without bacteria $+ 2 6 4 ~ \\mathrm { m L }$ suspension volume $+ 0 . 5 \\mathrm { ~ M ~ }$ cementation solution). The highest $( 4 2 . 5 5 \\% )$ and the lowest $( 1 9 . 4 7 \\% )$ aggregate stabilities were observed in $\\mathrm { F } _ { 1 6 }$ and $\\mathrm { F } _ { 7 }$ formulations, respectively, and the highest penetration resistance $( 3 . 3 2 8 ~ \\mathrm { k g } / \\mathrm { c m } ^ { 2 } )$ was observed in $\\mathrm { F } _ { 1 8 }$ formulation.According to the final results, we recommended the formulation with twice bacterial spray, $0 . 5 \\mathrm { ~ M ~ }$ cementation solution,and 269 mL suspension volume as the best combination for soil surface stabilization. Furthermore,this method is environmentally friendly because it has no adverse effects on soil, water,and plants,thus,it would be an efficient approach to stabilize soil surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil stabilization; microbial cementation; calcium carbonate; bacteria; penetration resistance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Davood NAMDAR-KHOJASTEH, Masoud BAZGIR,Seyed Abdollah HASHEMI BABAHEIDARI, Akwasi B ASUMADU-SAKYI.2022.Application of biocementation technique using Bacillus sphaericus for stabilization of soil surface anddust storm control.Journalof Arid Land,14(5):537-549.https://doiorg/10.1007/s4033-022-0017-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wind erosion and dust storms have become more common in recent years (Merrill et al.,1999). Wind erosion has adverse effect on visibility,air and ground transportation system,and human health(Goudie and Middleton,2O06,Bennion et al.，2OO7).The abundance of dust in the environment has also become a global concern because of to its harmful effects on human health and functional ecosystems (Anderson et al., 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Approaches to dust reduction and soil stabilization are not always efficient according to studies, thus, combination of biological and mechanical treatments is required. Soil stabilization and wind erosion control are done using a variety of techniques, which includes biological (vegetation and microorganisms)，mechanical， physical (windbreaks)，and chemical (polymers and petroleum products)(Anderson and Haff,1988; Goudie and Middleton,2006; Anderson et al.,2014). The above traditional methods have a number of drawbacks, including the improper plant growth because of poor soil physical and chemical conditions (Gadi et al.,2O16). In addition to these methods,the inability to reset and move windbreaks (Miao et al.,2O2O), environmental concerns for chemical stabilizers (Karol,2Oo3),and the infeasibility of engineering methods (Dagliya et al.. 2022) raise concerns. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent decades, microbial induced carbonate precipitation (MICP), also known as microbial cementation, has been developed. The MICP method,as compared with traditional methods,is less likely to create the aforementioned concerns (Wang et al.,2O18; Sharma et al.,2O2la),and has been employed as a biological mulching method for aeolian erosion mitigation (Duo et al., 2018;Tian et al., 2O18). It improves the properties of different soil types (Peng and Liu, 2019), soil erosion resistance (Chen et al.,2O16),and fine particle stabilization (DeJong et al.,2006; Whiffin et al.，20O7)，meanwhile, it minimizes dust storms (Gomez et al.，2015）and soil mechanical properties (such as hardness, strength,and permeability) (van Paassen et al.,2009; Al Qabany et al.，2O12). The application of the MICP is efficiently helpful in soil stabilization because of in situ generation of cementing agent such as calcium carbonate or calcite (Devrani et al., 2021; Dubey et al., 2021; Meng et al., 2021; Dagliya et al., 2022). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main process of this method is the adherence of soil and sand particles to the cementing agent because of microbial and carbonate activity (Murugan et al.， 2O21). Aside from being low-cost, this method is also environment-friendly because a wide variety of microorganisms can be utilized without causing harm to the ecosystem (Gebru et al.,2O21). The cementation process of the MICP is influenced by a number of elements,including soil physical and chemical properties,ambient and climatic conditions,permeability，and structure (Mujah et al.，2019; Zomorodian et al.,2019; Zehner et al., 2O21). The following three groups of microorganisms that have the ability to precipitate calcium carbonate are as follows: microorganisms such as cyanobacteria and algae with the ability to stabilize $\\mathrm { C O } _ { 2 }$ ，sulfate reduction bacteria,and effective nitrogen transformation by microorganisms (Castro-Alonso et al.， 2019; Kim and Lee, 2019). Bacteria are most commonly used microorganisms for this method and the predominant microorganisms in the soil (Gebru et al.,2021; Dagliya et al., 2O22). These microorganisms are utilized to help improve soil physical properties because of their small size and vast number. A series of soil bacteria such as $B$ ，sphaericus from the Bacillaceae family is one of the most abundant groups of soil bacteria that play an important role in soil cementation by producing urease and hydrolysis of urea.Hydrolyzing of urea with this approach is around $1 0 ^ { 1 4 }$ times faster than that of natural process (Jabri et al.，1995). So urease-producing bacteria serve two purposes: they produce enzymes that hydrolyze urea and they serve as nucleation sites (Stocks-Fischer et al., 1999).During the latter process, the ammonium produced increases the $\\mathrm { p H }$ and subsequently with presence of carbonate ions,calcium carbonate crystals are formed (Whiffin et al.,2Oo7; Lai et al., 2021; Zehner et al.,2O21). By coating soil grains with these crystals,soil particles bond, strength, and resistance of aggregates improves (Mujah et al., 2019; Zehner et al., 2021). Overall, it is widely recognized that carbonate precipitation has enormous potential as a biomineralization approach (Sharma et al., 2021b,c). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many studies have been conducted by using the MICP method,such as Ghosh et al. (2019), and they developed a new method for creating natural calcite deposition where sand was strengthened by utilizing Sporosarcina pasteurii with urea and calcium chloride as a cementation solution. Whiffin et al. (2Oo7） measured calcium carbonate synthesis using bacteria in a basic medium containing two grams of yeast extract per liter. The results showed that the highest amount of calcium carbonate was produced in $\\mathrm { p H } 8 . 5$ at $2 5 ^ { \\circ } \\mathrm { C }$ Moreover, Al-Thawadi et al. (2008) used S. pasteurii with high urease activity and high resistance to produce bio-cement. In this study, S. pasteuri was found to be the best bacteria for hydrolyzing urea and reducing pH. Chang et al. (2016) also observed that microbial polymers can improve tensile strength as a cement between soil particles while also being environmentally friendly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Most of studies focus on combating dust storm by polymers and petroleum products mulches in Iran and surprisingly little is known on the biological mulches. Therefore,this study aimed to assess the potential of a microbial induced calcium carbonate precipitation process using $B _ { \\cdot }$ sphaericus to reduce wind erosion and airborne dust derived from silty soils at one of the dust-producing area in the Ilam Province, Iran.For this purpose, experiments were conducted on the surface layer of samples using a mixture of cementation solutions.The stabilization performance of this method was evaluated through aggregate stability and penetration resistance test on crustal soil layer as well as soil mass loss. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sampling was conducted in one of the dust prone areas in the Ilam Province $( 3 2 ^ { \\circ } 0 3 ^ { \\prime } 3 4 ^ { \\prime \\prime } \\mathrm { N } .$ $4 5 ^ { \\circ } 4 0 ^ { \\prime } 4 8 ^ { \\prime \\prime } \\mathrm { E }$ $2 3 7 \\mathrm { m }$ a.s.l.),western Iran in 2O2O. The province has an average annual precipitation of $1 2 0 ~ \\mathrm { m m }$ and the annual average temperature ranges from $- 1 3 . 6 ^ { \\circ } \\mathrm { C }$ to $4 1 . 2 ^ { \\circ } \\mathrm { C }$ . According to the Koppen climate clasification, the region has an arid climate (Koppen,1936). After selecting the study area,we took about $5 0 0 ~ \\mathrm { k g }$ of soil samples at a depth of $\\mathrm { 0 - 3 0 ~ c m }$ ，The following soil physical and chemical characteristics are measured: soil texture (Gee and Bauder,1986),EC (Rhoades,1996), $\\mathrm { \\ p H }$ (McLean,1982),organic carbon (Nelson and Sommers,1996)，and lime (McLean,1982).Equivalent calcium carbonate was also determined by the titration method (Nelson and Sommers,1996). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Preparation of bacteria and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The B. sphaericus PTCC (Persian Type Culture Collection) 1487(CIP S25 O01) was obtained in pure culture established in the Iranian Research Organization for Science and Technology (IROST).Bacteria were cultivated in sterile Nutrient Agar (NA) and incubated at $2 5 . 0 ^ { \\circ } \\mathrm { C }$ for 5-7 d. The bacteria were cultivated in sterile liquid culture media, Nutrient Broth (Merck $\\textcircled{8}$ , Germany) and incubated at $2 8 . 5 ^ { \\circ } \\mathrm { C }$ with cultures shake of $2 0 0 ~ \\mathrm { r / m i n }$ to achieve the required concentration of bacteria. The concentration of bacteria in the liquid culture medium used in the experiment was determined by measuring the optical density using a M55O UV/VIS spectrophotometer at a wavelength of $6 0 0 \\ \\mathrm { n m }$ (Maleki Kakler et al., 2016;Moravej et al., 2O18). Sterile Nutrient Broth culture medium was used as a control for reading the optical density,and each sample was read three times. The maximum optical density obtained was $0 . 5 \\mathrm { c d } / \\mathrm { m } ^ { 2 }$ The experiment was performed with the same concentration of the desired bacterial strain. We calculated the predicted mathematical correlation between the measured data of CFU (colony forming units) $/ \\mathrm { m L }$ (the total number of the bacteria) and $\\mathrm { O D } _ { 6 0 0 }$ (the optical density of a sample measured at a wavelength of $6 0 0 \\mathrm { n m } ,$ for $B$ ，sphaericus based on Equation 1 (Deriase and El-Gendy, 2014): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\frac { C F U } { m L } } = 4 . 2 5 \\mathrm { e l } 2 ( \\mathrm { O D } ) ^ { 1 8 . 5 7 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where bacterial population at $\\mathrm { O D } { = } 0 . 5$ was $6 . 4 2 \\times 1 0 ^ { 6 }$ cells/mL. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The bacteria preparation was performed as randomized factorial design with four factors including two levels of bacteria (O.O and $0 . 5 \\ \\mathrm { O D } \\ '$ )，two levels of urea-chloride cementation solution (O.0 and $0 . 5 { \\mathrm { ~ M } } _ { , } ^ { }$ ),three levels of suspension volume（123,264,and $3 6 9 ~ \\mathrm { m L }$ ，and two levels of bacterial spray (once and twice spray) with three replications (Table 1). Nutrient broth (3 $\\mathrm { g / L } )$ ，ammonium chloride $( 1 0 ~ \\mathrm { g / L } )$ ，and sodium bicarbonate $( 2 . 1 2 ~ \\mathrm { g / L } )$ were used to prepare 0.5 M urea-chloride cementation solution (Zomorodian et al.,2019). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7719b585c66c2aac82d50bddd87e50e046accdf5e84e18707951b0bf2a6c2cd1.jpg",
+        "table_caption": [
+            "Table1 Combination of different formulations "
+        ],
+        "table_footnote": [
+            "Note: OD,optical density. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment Bacteria</td><td colspan=\"4\">Combination</td><td rowspan=\"2\"></td><td colspan=\"4\">Combination</td></tr><tr><td>(OD)</td><td>Urea-chloride cementation solution (M)</td><td>Solution volume (mL)</td><td>No. of spray</td><td>Treatment Bacteria (OD)</td><td>cementation solution (M)</td><td>Urea-chloride</td><td>Solution No. of volume (mL) spray</td></tr><tr><td>F1</td><td>0.0</td><td>0.0</td><td>123</td><td>1</td><td>F10</td><td>0.5</td><td>0.5</td><td>123</td><td>1</td></tr><tr><td>F2</td><td>0.0</td><td>0.0</td><td>264</td><td>1</td><td>F11</td><td>0.5</td><td>0.5</td><td>264</td><td>1</td></tr><tr><td>F</td><td>0.0</td><td>0.0</td><td>369</td><td>1</td><td>F12</td><td>0.5</td><td>0.5</td><td>369</td><td>1</td></tr><tr><td>F4</td><td>0.0</td><td>0.5</td><td>123</td><td>1</td><td>F13</td><td>0.5</td><td>0.0</td><td>123</td><td>2</td></tr><tr><td>F5</td><td>0.0</td><td>0.5</td><td>264</td><td>1</td><td>F14</td><td>0.5</td><td>0.0</td><td>264</td><td>2</td></tr><tr><td>F6</td><td>0.0</td><td>0.5</td><td>369</td><td>1</td><td>F15</td><td>0.5</td><td>0.0</td><td>369</td><td>2</td></tr><tr><td>F7</td><td>0.5</td><td>0.0</td><td>123</td><td>1</td><td>F16</td><td>0.5</td><td>0.5</td><td>123</td><td>2</td></tr><tr><td>F8</td><td>0.5</td><td>0.0</td><td>264</td><td>1</td><td>F17</td><td>0.5</td><td>0.5</td><td>264</td><td>2</td></tr><tr><td>F9</td><td>0.5</td><td>0.0</td><td>369</td><td>1</td><td>F18</td><td>0.5</td><td>0.5</td><td>369</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Preparation of trays ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil samples were sieved with a $2 \\mathrm { - m m }$ sieve afterphysical and chemical analysis.To sterilize the samples,we autoclaved for $^ { 2 \\mathrm { ~ h ~ } }$ at $1 2 1 ^ { \\circ } \\mathrm { C }$ and $1 0 3 \\mathrm { \\ k P a }$ . After cooling of the soil samples, approximately $3 ~ \\mathrm { k g }$ was weighed and poured in the $3 5 \\ \\mathrm { c m } { \\times } 3 5 \\ \\mathrm { c m } { \\times } 3$ cm trays (Fig. la). The aforementioned suspension was sprayed evenly on the soil surface before being placed in an incubator at $2 5 ^ { \\circ } \\mathrm { C }$ for $2 8 { \\mathrm { ~ d ~ } }$ (Fig.1b). To keep the soil surface moist,we equally sprayed sterile water on it every $3 \\mathrm { ~ d ~ }$ ，After this process, the trays were placed under ambient conditions and all samples were tested for penetration resistance, aggregate stability,and soil mass loss using the wind tunnel (Namdar Khojasteh et al., 2021). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f326be89f5ed31abffc04047dd564b1f72fee30dfd8bfc7207ddbda8faa887ae.jpg",
+        "img_caption": [
+            "Fig.1Preparation of samples.(a),laboratory environment;(b),incubator. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Laboratory experiments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Wind tunnel test ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A portable wind tunnel was used to test soil surface stabilization.This experiment was performed in the laboratory under simulated conditions.The wind tunnel used in this study consists of two main parts,including a jet fan blower and working section. The air movement was driven by a high-pressure axial fan usually used in industrial ventilation systems.A diesel generator with a power of $1 5 \\mathrm { k W }$ runs the fan with $2 8 0 0 ~ \\mathrm { r / m i n }$ , which can generate wind speeds of $0 . 3 { - } 2 0 . 0 \\ \\mathrm { m / s }$ at a height of $0 . 3 0 \\mathrm { m }$ .In this test, the wind speed used was $1 5 . 6 ~ \\mathrm { m / s }$ . In front of the tunnel entrance, a conic section was installed to allow for more controlled air flow into the test area. As the air flows, a $2 5 \\mathrm { - m m }$ square honeycomb diffuser laminates the air stream to eliminate any unexpected artificial turbulence.The total length of the working section from the diffuser end was $3 . 4 \\mathrm { ~ m ~ }$ with a cross-sectional area of $0 . 3 5 ~ \\mathrm { m } { \\times } 0 . 3 5 ~ \\mathrm { m }$ (Fig. 2).A hot wire anemometer Model AN-4330 with two miniature glass-bead thermostats that provide better accuracy at low speeds was used to measure wind speed. At the top of testing section, holes were installed to measure wind speed and dust.The samples were first weighed before being placed in the desired part of the device and weighed again after $1 5 ~ \\mathrm { m i n }$ of testing.Loss of soil weight in trays indicated soil mass loss or soil erosion by wind (Khojasteh et al., 2017). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8ecbf5abce672d1faee151dbf65bcc23f8212db89bc3bc6e1e95af0520f65c1.jpg",
+        "img_caption": [
+            "Fig.2Portable wind tunnel used in the study "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Penetration resistance measurement ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Penetration resistance is one of the important physical (mechanical） properties affecting other intrinsic properties of soil such as erodibility.In this study，the penetration resistance of the samples was measured three times after a period of 28 d (depending on favorable moisture content) at the $2 4 \\mathrm { ~ h ~ }$ intervals using Mortar Penetration Resistance Apparatus (H-4137, Humboldt Mfg. Co., USA). During the test,the penetrometer with a flat end was gradually placed on the surface of the mulched soil samples on the trays.Different locations on each tray were penetrated for each test and their average values were calculated. Three replications were performed for the various soil treatments and then averaged (Namdar Khojasteh et al.,2021). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.3Aggregate stability (AS) test ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The AS is an important parameter used to assess the effectiveness of soil surface stability in arid and semi-arid areas. The wet sieving apparatus O8.13 (Eijkelkamp Soil & Water, USA) was used to determine the AS of the trays. For this purpose,wet sieving apparatus with 8 sieve sizes of 2.000,1.000,0.500, 0.250,0.125, 0.064,0.053,and $0 . 0 4 6 ~ \\mathrm { m m }$ were used, respectively. The AS index (Eq. 2) is equal to the weight of soil particles obtained in the dispersing solution cans $( 2 \\mathrm { ~ g ~ }$ sodium hexameta phosphate/L) divided by the sum of weights obtained from the distilled water cans and the dispersing solution cans.The closer the index to 1，the greater stability of the aggregates. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A S } = \\frac { \\displaystyle \\sum _ { I = 1 } ^ { 8 } \\mathrm { M s } } { \\displaystyle \\sum _ { I = 1 } ^ { 8 } \\mathrm { M s } + \\sum _ { I = 1 } ^ { 8 } \\mathrm { M w } } \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where AS is the aggregate stability index $( \\% )$ ; Ms is the weight of soil particles inside cans with dispersing solution $( \\mathbf { g } )$ ; and Mw is the weight of soil particles inside cans with distilled water (g). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Data analysis was performed using $\\mathrm { S P S S ~ v . ~ } 2 2 . 0$ and the R v. 3.6.O Statistical software (R Core Team,2019). We performed analysis of variance based on completely randomized factorial design. After determining the differences between the treatments (based on table of variance analysis), least significant difference and Duncan multiple range test at $P { < } 0 . 0 5$ level were used to determine their mean difference. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil mass loss ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results of wind tunnel test indicated that increasing urea-chloride cementation solution levels had no significant effect on soil mass loss $( P { < } 0 . 0 5 )$ ,as shown in Figure 3.Even though there was an increase in soil mass loss at $0 . 5 { \\mathrm { ~ M ~ } }$ cementation solution level compared with the control, the changes in the overall weight of soil in each tray were negligible.The volume of solution had no effect on soil mass loss,and there was no significant difference between various levels at $0 . 5 { \\bf \\delta M }$ （204号 concentration. Relatively high soil mass loss occurred with the solution volume of $2 6 4 ~ \\mathrm { m L }$ (58.33 g),while the least soil mass loss was observed in the treatment with the solution volume of 123 mL $( 2 3 . 4 2 \\ \\mathrm { g } )$ ,as shown in Figure 3.The rate of soil mass loss decreased significantly $( P { < } 0 . 0 5 )$ as the bacterial concentration increased. Soil mass loss on the surface with twice bacterial spray $\\left( 8 . 5 8 ~ \\mathrm { g } \\right)$ was less than that of once spray $( 2 3 . 5 8 \\ \\mathrm { g } )$ and without bacteria $( 7 6 . 0 0 \\ \\mathrm { g } )$ , as presented in Figure 4. The results of different formulations (interaction of bacteria,cementation solution,and solution volume） showed that formulations had significant differences $( P { < } 0 . 0 5 )$ on soil mass loss. $\\mathrm { F } _ { 1 4 }$ formulation,i.e., twice spray, $2 6 4 ~ \\mathrm { m L }$ solution volume,and without cementation solution had the minimum rate of soil mass loss $( 1 . 0 0 \\ \\mathrm { g } )$ ，while $\\mathrm { F } _ { 5 }$ formulation,i.e.,without bacteria, $2 6 4 ~ \\mathrm { m L }$ （204号 solution volume, and $0 . 5 { \\bf M }$ cementation solution had the highest rate of soil mass loss ( $( 2 4 6 . 0 0 \\ \\mathrm { g }$ Fig. 5). Overall,the results of this study showed that as the bacterial concentration increased, the rate of soil mass loss reduced. Therefore,soil mass loss with twice spray was lower than that with once spray. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/95e05541aebdcc545a047da07ab074fd2f2cbf1a9791f60f0b810e58f7871c2a.jpg",
+        "img_caption": [
+            "Fig.3Efect of diferent levels of cementation solution (a)and solution volume (b)on soil mass loss.Cot, without cementation solution or $_ { 0 \\mathrm { ~ M ~ } }$ $\\mathbf { C } _ { 1 } \\mathbf { t }$ $0 . 5 { \\bf \\delta M }$ cementation solution. $\\mathbf { W } \\mathbf { C } _ { 1 } \\mathbf { t } .$ ,total solution volume of $1 2 3 ~ \\mathrm { m L }$ $\\mathrm { \\mathbf { W } C _ { 2 } t }$ ,total solution volume of $2 6 4 ~ \\mathrm { m L }$ $\\mathrm { W C } _ { 3 } \\mathrm { t }$ ,total solution volume of $3 6 9 ~ \\mathrm { m L }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/36a3d5d272b308acc08d4a40e6db9b2e0e87d72defed28f65ca908fc8c2ef24c.jpg",
+        "img_caption": [
+            "Fig.4Effect of bacterial concentration on soil mass loss.WBt,without bacteria; ${ \\mathbf { B } } { \\mathbf { S } } _ { 1 } { \\mathbf { t } } .$ ，0.5OD bacteria with once spray; ${ \\bf B } { \\bf S } _ { 2 } { \\bf t }$ ， $0 . 5 \\mathrm { \\ O D }$ bacteria with twice spray.Different lowercase letters indicate significant differences among treatments at $P { < } 0 . 0 5$ level. OD, optical density. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5d9096eba69654b772e0239452abf3f5003620d2efb85d97f35485decb54797.jpg",
+        "img_caption": [
+            "Fig.5Effects of different formulations on soil mass loss.The right-hand ordinate shows the value of $\\mathrm { F } _ { 5 }$ formulation. Different lowercase letters indicate significant differences among formulations at $P { < } 0 . 0 5$ level. The detailed explanation of formulations is presented in Table 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Aggregate stability (AS) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Effect of two levels of cementation solutions (O.O and $0 . 5 { \\mathrm { ~ M } } { \\dot { } } { }$ ） on the AS were not statistically significant $( P { < } 0 . 0 5 )$ ,despite an increase in the AS with $0 . 5 { \\bf M }$ cementation solution $( 3 1 . 0 1 \\% )$ ，as shown in Figure 6.The results also indicated that the effect of solution volume on the AS was not significant ( $( P { < } 0 . 0 5$ ; Fig. 6). The solution volume of $3 6 9 ~ \\mathrm { m L }$ （20 $( \\mathsf { W C } _ { 3 } \\mathbf { t } )$ had the best AS with a value of $2 9 . 7 2 \\%$ . The AS increased exponentially as the solution volume increased, indicating the effectiveness of quantity of solution on the AS.Effect of bacterial concentration on the AS was significant $( P { < } 0 . 0 5 )$ ,thus,a high stability of $3 3 . 9 4 \\%$ was observed in ${ \\tt B S } _ { 2 } \\mathrm { t }$ treatment, while a low stability of $2 3 . 4 8 \\%$ was observed in WBt treatment (Fig. 7). AS increased as the bacteria increased.These tests confirmed that the increase of bacterial concentration could improve the AS. The results of various formulations indicated that there was a significant difference between them （204号 $( P { < } 0 . 0 5 )$ ： $\\mathrm { F } _ { 1 6 }$ and $\\mathrm { F } _ { 7 }$ formulations had the highest $( 4 2 . 5 5 ~ \\% )$ and the lowest $( 1 8 . 0 0 \\% )$ AS, respectively (Fig. 8). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/33731a0195bf84e9da5d9030a3d0ba01e44113472c55afc4b1234abe2824052e.jpg",
+        "img_caption": [
+            "Fig.6Effect of different levels of cementation solution (a)and solution volume (b)on aggregate stability. $\\mathbf { C } _ { 0 } \\mathbf { t } .$ without cementation solution or $0 . 0 \\mathbf { M }$ ： $\\mathbf { C } _ { 1 } \\mathbf { t }$ $0 . 5 { \\bf M }$ cementation solution; $\\mathbf { W } \\mathbf { C } _ { 1 } \\mathbf { t } .$ ,total solution volume of $1 2 3 ~ \\mathrm { m L }$ · $\\mathrm { W C } _ { 2 } \\mathrm { t }$ ,total solution volume of $2 6 4 ~ \\mathrm { m L }$ · $\\mathrm { W C } _ { 3 } \\mathrm { t }$ ,total solution volume of $3 6 9 \\mathrm { m L }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Penetration resistance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The use of $0 . 5 { \\bf M }$ concentration cementation solution resulted in a penetration resistance of 1.684 $\\mathrm { k g / c m } ^ { 2 }$ that enhanced soil penetration resistance more than that of the control ( $\\left( 1 . 3 0 8 \\mathrm { k g } / \\mathrm { c m } ^ { 2 } \\right)$ ，as shown in Figure 8.Although penetration resistance increased with the amount of solution, the difference between these levels was not significant at $5 \\%$ level. Solution volume of $3 6 9 ~ \\mathrm { m L }$ $( \\mathsf { W C } _ { 3 } \\mathrm { t } )$ had the highest penetration resistance $( 1 . 7 3 7 \\mathrm { ~ k g } / \\mathrm { c m } ^ { 2 } )$ ，while a volume of $1 2 3 \\ \\mathrm { m L } \\ \\mathrm { ( W C _ { 1 } t ) }$ （20 had the lowest ( $\\mathrm { 1 . 1 6 6 ~ k g / c m ^ { 2 } } )$ value (Fig. 9). The results of penetration resistance tests at various concentration of cementation solution indicate the significant effect on penetration resistance. The effect of bacterial concentration on penetration resistance was significant $( P { < } 0 . 0 5 )$ . Thus, penetration resistance increased with increasing bacterial concentration (Fig.1O). Twice bacterial spray $\\mathrm { ( B S } _ { 2 } \\mathrm { t ) }$ had the maximum penetration resistance $( 2 . 3 3 4 ~ \\mathrm { k g } / \\mathrm { c m } ^ { 2 } )$ ，while without bacteria treatment had the lowest value ( $( 0 . 7 2 2 \\mathrm { k g } / \\mathrm { c m } ^ { 2 } )$ . The results of different formulations showed that there was a significant difference among formulations $( P { < } 0 . 0 5 )$ . Penetration resistance increased with increasing bacteria and cementation solution. The highest penetration resistance (3.328 $\\mathrm { k g } / \\mathrm { c m } ^ { 2 } )$ ）wasobserved in $\\mathrm { F } _ { 1 8 }$ formulation,whereas in $\\mathrm { F } _ { 3 }$ formulation,it was the lowest (O.416 $\\mathrm { k g / c m } ^ { 2 }$ ; Fig. 11). Overall, the results of various formulations indicated that twice bacterial spray with $0 . 5 ~ \\mathrm { ~ M ~ }$ cementation solution and $2 6 4 ~ \\mathrm { \\ m L }$ solution volume $( \\mathbf { B } \\mathbf { S } _ { 2 } \\mathbf { t } + \\mathbf { C } _ { 1 } \\mathbf { t } + \\mathbf { W } \\mathbf { C } _ { 2 } \\mathbf { t } )$ are recommended as the best formulation for improving soil penetration resistance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/18899858dd6365ccfe4b833e76648877cdb8825dd35b9f603c763c24b0bb9721.jpg",
+        "img_caption": [
+            "Fig.7Effect of different bacterial concentrations on aggregate stability.WBt,without bacteria; $\\mathbf { B S } _ { 1 } \\mathbf { t } .$ 0.5OD bacteria with once spray; ${ \\mathrm { B S } } _ { 2 } { \\mathrm { t } } .$ ,0.5 OD bacteria with twice spray; OD,optical density. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b36fc933f9799cf4fa906393a53db0d115c851f8080357a6aae433b5f72d4a0.jpg",
+        "img_caption": [
+            "Fig.8Efect of different formulations on aggregate stability.Different lowercase letters indicate significant differences among formulations at $P { < } 0 . 0 5$ level.The detailed explanation of formulations is presented in Table 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/db36de65b8289b724435c0333b39de7488f3ba78ba216da7fdcd2e9693656d0d.jpg",
+        "img_caption": [
+            "Fig.9Efect of different levels of cementation solution (a) and solution volume (b)on penetration resistance. $\\mathrm { { C o t } }$ ，without cementation solution or $0 . 0 \\mathbf { M }$ $\\mathbf { C } _ { 1 } \\mathbf { t }$ $0 . 5 { \\bf M }$ cementation solution; $\\mathbf { W } \\mathbf { C } _ { 1 } \\mathbf { t } .$ ,total solution volume of 123 mL; $\\mathrm { W C } _ { 2 } \\mathrm { t }$ ,total solution volume of $2 6 4 ~ \\mathrm { m L }$ $\\mathrm { W C } _ { 3 } \\mathrm { t }$ ,total solution volume of $3 6 9 \\mathrm { m L }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/60eeeb1bb1286deb8bd86f278eaa07f29fb0e1527a3ab5c0de020dfe41aa8d91.jpg",
+        "img_caption": [
+            "Fig.10Effect of bacterialconcentration on penetration resistance.WBt, without bacteria;BSit,0.5 OD bacteria with once spray; BS2t,0.5 OD bacteria with twice sprays; OD,optical density. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/279d0f7752700799269bb56dad6e1c9442ec2103ec88bcd4c9f7ddcabc77d981.jpg",
+        "img_caption": [
+            "Fig.l1Effect of different formulations on penetration resistance.Diffrent lowercase letters indicate significant differences among formulations at $P { < } 0 . 0 5$ level.The detailed explanation of formulations is presented in Table 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study, a comprehensive laboratory evaluation using the MICP method was cared out. Thus，soil wind erosion， penetration resistance，and aggregate stability tests were conducted. Using the MICP method,a combination of bacteria and cementation solution were applied to soil samples,and calcium carbonate was produced from calcium and carbonate ions using hydrolyzing ammonium urease-producing bacteria. According to the findings of this study,a high microbial concentration (twice spray) reduces soil mass loss and enhances penetration resistance as well as strengthens aggregate stability. Additionally， increasing the cementation solution $( 0 . 5 ~ \\mathrm { ~ M ~ } )$ （204号 amplifies the crust layer thickness and penetration resistance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There was a correlation between the rate of soil mass loss and calcite precipitation. Comparison of soil mass loss rate by different formulations at a speed of $1 5 . 6 ~ \\mathrm { m / s }$ indicated that average soil mass loss in $\\mathrm { F } _ { 1 4 }$ and $\\mathrm { F } _ { 1 7 }$ formulations was 1 and $3 \\mathrm { g }$ ,respectively,whereas the control treatment (for example, $\\mathrm { F } _ { 5 _ { \\cdot } }$ ）was $2 4 6 \\ \\mathrm { g }$ . Therefore,high levels bacteria and cementation solution resulted in a significant decrease in soil mass loss $( P { < } 0 . 0 5 )$ . The deposition of additional calcite material that reduced the rate of soil erosion was atributed to the bacterial activity (Hammad et al.,2013; Maleki Kakler et al., 2016; Moravej et al., 2018; Rajabi Agereh et al.,2019; Wang et al., 2018).Results of aggregate stability test showed that increase in cementation solution and solution volume had no significant impact. As the solution volume increased,the trend of aggregate stability increased exponentially， indicating that solution volume is effective in preserving stability. Penetration resistance of twice spray greater than $1 . 5 2 ~ \\mathrm { k g } / \\mathrm { c m } ^ { 2 }$ (Fig. 11) confirmed that increased calcium carbonate deposition crystals between soil particles act as bridges,improving soil stability and resistance to penetration (Zhao et al., 2O14; Maleki Kakler et al.,2016; Wang et al.,2018; Zomorodian et al., 2019). So, increase in the spray number of the MICP method results in increase of the soil surface penetration resistance.As penetration resistance of the soil surface improves,the rate of soil erosion decreases,which confirmed the MICP method is efective for soil erosion control (Meyer et al., 2011; Bahmani et al.,2017; Wang et al., 2018; Zomorodian et al., 2019). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, a twice spray of bacteria with $0 . 5 { \\mathrm { ~ M ~ } }$ cementation solution and $2 6 9 ~ \\mathrm { m L }$ solution volume( $\\mathbf { \\langle B S _ { 2 } t + C _ { 1 } t + W C _ { 2 } t \\rangle }$ was found to be the best formulation for soil surface stabilization.Thus, it would be an efficient approach to stabilize soil surface，wind erosion mitigation，and an acceptable improvement in soil penetration resistance (Whiffin et al.,2Oo7; Hammad et al., 2013; Wang et al., 2018; Rajabi Agereh et al., 2019; Devrani et al., 2021). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Other researchers' findings are consistent with the finding of this study. Meng et al. (2021) discovered that after $3 \\mathrm { ~ d ~ }$ ，soil penetration resistance could reach a maximum of $4 5 9 . 9 \\mathrm { { k P a } }$ ，and surface soil loss could be reduced to O after $3 0 \\mathrm { d }$ 、Dagliya et al. (2O22) found that increasing the treatment duration using the MICP method improves the calcite content percentage，crust thickness，and penetrating resistance. The quantity of erosion decreased significantly as the amount of calcite sediment increased (Omoregie et al.,2O19). Moreover, Dubey et al. (2021) showed that there was a withstanding in wind erosion and soil loss with a $^ { 1 \\mathrm { ~ M ~ } }$ cementation solution treatment at the wind speed of $5 5 \\mathrm { k m / h }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The MICP method has several advantages, including in situ application (Stabnikov et al., 2015; Nayanthara et al.， 2O19)，environmental friendliness， requiring minimal temperature for bio-cement production (Bahmani et al.，2Ol7； Nayanthara et al.，2O19)，and industrial applicability (Mahawish et al.,2O18; Mathur et al.,2O18). This method,on the other hand, has a number of disadvantages,including,the presence of high ammonia concentrations in aquatic environments (Wang et al.,2O17),its inapplicability for soils with less than $1 \\ \\mathrm { m m }$ size (Gebru et al.,2021),cost effectiveness at large scale due to the high cost of enzymes and bacterial nutrients, and the possibility of contaminating air and drinking water employing this technology on a large scale (Mahawish et al., 2018,Gebru et al., 2021). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In all the MICP method is efficient approach for dust suppression in the areas sensitive to wind erosion.Furthermore,applying the MICP method to a soil surface can be an effective choice for wind erosion control, particularly at higher velocities.The percentage of carbonate precipitation, which is related to reduced particle loss,was the important factor in the MICP's erosion control efficiency. Urease activity and the quantity of suspended bacteria have a considerable positive relationship,when urease activity and bacteria are higher, more urea is hydrolyzed, resulting in higher amounts of calcite precipitation. The amount of soil mass loss and the bacterial concentration in different treatments had a strong relationship.This relationship depicts that by forming the aggregate structure and increasing penetration resistance, the MICP method can greatly reduce wind erosion and provide sand dune stabilization for dust control. The $\\mathrm { B S } _ { 2 } \\mathrm { t } + \\mathrm { C } _ { 1 } \\mathrm { t } + \\mathrm { W C } _ { 2 } \\mathrm { t }$ treatment provided the strongest hardness and penetration resistance.In addition, this technology is ideal for stabilization of soil surface and thus,a better substitute for existing technologies. The primary reason for the technique's viability is because the technology is considered an environmentally friendly approach to geotechnical engineering application,and it does not use any cementing agents. Generally, the MICP method may be used to mitigate and limit harmful wind erosion and dust emissions as an alternative to existing methods.However, the type of soil and the environmental elements have a significant impact on the efficacy of this strategy. Therefore,further research is needed to understand the impact of this technique on different types of soil as well as physical properties of treated soil. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by an approved research project of the Shahed University,Iran (9710/97)and the Vice ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "President of Science and Technology-Iran National Science Foundation (INSF; 97003753). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Al QabanyA,Soga K,Santamarina C.2012.Factorsaffecting eficiencyofmicrobiallyinducedcalcite precipitationJouralof Geotechnical and Geoenvironmental Engineering,138: 992-1001.   \nAl-Thawadi S.20o8.Highstrength in-situbiocementationofsoil bycalcite precipitating locally isolatedureolyticbacteria.PhD Dissertation. Western Australia: Murdoch University.   \nAnderson J,Bang S,Bang SS,et al.2014.Reductionof wind erosion potentialusing microbial calciteand soil fibers. American Society of Civil Engineers (ASCE). Geotechnical Special Publication,234: 1664-1673.   \nAnderson R S,Haff PK.1988.Simulation of eolian saltation. Science,241(4867): 820-823.   \nBahmani MA,Noorzad J,Hamedi J,et al.2O17.Theroleofbacills pasteuriionthechangeof parametersof sands according to temperature compresion and wind erosion resistance. Journal CleanWAS,1(2): 1-5.   \nBenionP,HubbardR,O'Hara S,etal.2Oo7.Theimpactof airborne dustonrespiratoryhealth inchildren living inthe Aral Sea region.International Journal of Epidemiology,36(5):1103-1110.   \nCastro-AlonsoMJ,Montaiez-Hernandez L E,Sanchez-Munoz M A,et al.2019.Microbiall inducedcalciumcarbonate precipitation (MICP)and its potential in bioconcrete:microbiologicaland molecularconcepts.Frontiers in Materials,6:126.   \nChang I,ImJ,ChoGC.2O16Itroductionof microbial biopolymers insoil teatmentforfutureenvironmentally-friedlyand sustainable geotechnical engineering. Sustainability, 8(3): 251.   \nChenF,Deng C，Song W,etal.2O16.Biostabilization of desertsandsusing bacterially inducedcalciteprecipitation. Geomicrobiology Journal,33(3-4): 243-249.   \nDagliya M,Satyam N,harma M,etal.2O.Experimental studyonmitigatingwinderosionofcalcareous desertsandusing spray method for microbially induced calciumcarbonate precipitation.Journal of Rock Mechanicsand Geotechnical Engineering,doi: 10.1016/j.jrmge.2021.12.008 (in press).   \nDeJong JT,Fritzges MB,Nussein K.2o06.Microbially inducedcementation tocontrol sandresponsetoundrained shear. Journal of Geotechnical Geoenvironmental Engineering,132:1381-1392.   \nDeriaseSF,El-GendyNS.2014.Mathematicalcorrelation between microbial biomassand total viablecountfordiferent bacterial strains used in biotreatment of oil pollution.Biosciences Biotechnology Research Asia,11(1): 61-65.   \nDevraniR,DubeyAA,RaviK,etal.2O21.Applicationsofbio-cementationandbio-polymerizationforaeolianerosionotrol. Journal of Arid Environments,187:104433,doi:10.1016/j.jaridenv.2020.104433.   \nDubeyAA,DevraniR,RaviK,etal.2O21.Experimentalinvestigationtomitigateeolianerosionviabiocementatioeploed with a novel ureolytic soil isolate.Aeolian Research,52:100727,doi: 10.1016/j.aeolia.2021.100727.   \nDuo L,Tian KL,Zhang HL,etal.2O18.Experimental investigationof solidifying desert aeolian sand using microbially induced calcite precipitation.Construction and Building Materials,172:251-262.   \nGadi VK,Bordoloi S,Garg A,etal.2O16.Improvingandcorrecting unsaturatedsoil hydraulic properties with plantparameters for agriculture and bioengineered slopes.Rhizosphere,1: 58-78.   \nGebruKA,KidanemariamTG, GebretinsaeHK.2021.Bio-cementproductionusing microbiallinduced calcite precipiation (MICP) method: A review.Chemical Engineering Science,238:116610,doi: 10.1016/j.ces.2021.116610.   \nGee G,BauderJ.1986.Methods of Soil Analysis.Part1.Monogr.9.Madison:American Societyof Aggronony Inc.,234.   \nGhosh T,Bhaduri S,MontemagnoC,etal.2O19.Sporosarcina pasteuri canformnanoscalecalciumcarbonate crystalsoncel surface.PloS ONE,14(1): e0210339,doi: 10.1371/journal.pone.0210339.   \nGomez MG,MartinezBC,DeJongJT,etal.2O15.Field-scalebio-cementation tests toimprove sands.Proceedingsof the Institution of Civil Engineers-Ground Improvement,168(3):206-216.   \nGoudie A S,Middleton N J.2006.Dust storm control. Desert Dust in the Global System,193-199.   \nHammadIA,Talkhan F,Zoheir A.2013. Ureaseactivityand inductionof calcium carbonate precipitation by Sporosarcina pasteurii NCIMB 8841. Journal of Applied Sciences Research,9:1525-1533.   \nJabriE,CarrMB,HausingerRP,etal.1995.Thecrystal structureof urease from Klebsiellaerogenes.Science,268(5213): 998-1004.   \nKarol R H. 2Oo3.Chemical Grouting and Soil Stabilization.New York: Basel Marcel Dekker, Inc.,122.   \nKhojasteh DN,Bahrami HA,KianiradM,etal.2O17.Using bio-mulch fordust stabilization (casestudy:SemnanProvince, Iran). Nature Environment Pollution Technology,16(4):1313-1320.   \nKimJH,Lee JY.2019.Anoptimumconditionof MICPindigenous bacteria with contaminated wastes of heavy metal.Journal of Material Cycles Waste Management,21: 239-247. Borntrager,46.(in German)   \nLaiY,YuJ,LiuS,etal.2O21.Experimentalstudytoimprove the mechanical propertiesofirontailingssandbyusingMICPat low pH. Construction Building Materials,273: 121729,doi: 10.1016/j.conbuildmat.2020.121729.   \nMahawish A,Bouazza A, Gates WP.2018.Effect of particle size distributiononthebio-cementationofcoarse aggregates.Acta Geotechnica,13:1019-1025.   \nMaleki KaklerM,Ebrahimi S,AsadzadehF,etal.2O16.Evaluationof microbial depositioneficiencyofcarbonate for stabilization of sand. Iranian Soil and Water Research,47: 407-415.   \nMathurS,BhattA,PatelR.2O18.Role of microbial induced calciteprecipitation in sustainable development.Analsof Biological Research,9:11-27.   \nMcLean EO.1982.Soil pHand lime requirement.In:Buxton DR.Methodsof Soil Analysis: Part 2.Madison:American Society of Aggronony Inc.,199-224.   \nMeng H,Gao Y,HeJ,etal.2O21.Microbiallyinduced carbonateprecipitation for wind erosioncontrol of desert soil: Field-scale tests. Geoderma,383: 114723,doi: 10.1016/j.geoderma.2020.114723.   \nMerrill SD,BlackAL,FryrearDW,etal.1999.Soil wind erosion hazardofspring wheat-fallowasafectedbylong-term climate and tillage. Soil Science Society of America Journal,63(6):1768-1777.   \nMeyerF,Bang S,Min S,etal.2O11.Microbiologically-induced soilstabilization:applicationof Sporosarcina pasteuri for fugitive dustcontrol.In: Geo-Frontiers 20l1: Advances inGeotechnical Engineering.Dalls: ASCE,2011: 4002-4011.   \nMiao L,WuL,Sun X.2O20.Enzyme-catalysed mineralisation experiment study to solidify desert sands.Scientific Reports, 10(1): 1-12.   \nMoravej S,Habibagahi GNkooeeE,etal.2O18.Stabilzationof dispersivesoilsbymeansofbiologicalcalciteprecipitation. Geoderma,315: 130-137.   \nMujah D,ChengL,Shahin MA.2O19.Microstructural and geomechanical studyon biocemented sand for optimization of MICP proces.Journal of Materials inCivilEngineering,31(4): 04019025,doi:10.1061/(ASCE)MT.1943-5533.0002660.   \nMuruganR,SuraishkumarG,MukherjeeA,etal.2O21.Insightsintothe influenceofcellconcentration indesignand development of microbially induced calcium carbonate precipitation (MICP) process.PloS ONE,16(7): eO254536,doi: 10.1371/journal.pone.0254536.   \nNamdar Khojasteh D,Bonsu Asumadu-Sakyi A.2O21.Design,manufacture,and testing ofan innovative ridging device for controlling of wind erosion.Arid Land Research and Management, 35(4): 375-396.   \nNayantharaPG,DassnayakeABN,Nakashima K,etal.2O19.Microbialinducedcarbonate precipitationusinganative inland bacterium for beach sand stabilization in nearshore areas.Applied Sciences,9(15): 3201.   \nNelson DW,Sommers LE.1996.Total carbon,organiccarbon,and organic mater.In: Sparks DL,Page PA,Helmke PA. Methods of Soil Analysis: Part 3. Madison: American Society of Aggronony Inc.,961-1010.   \nOmoregie AI,NguLH,OngDEL,etal.2019.Low-cost cultivationof Sporosarcina pasteuri strain in food-gradeyeast extract medium for microbiall induced carbonate precipitation (MICP)appication.Biocatalysis Agricultural Biotechnology, 17: 247-255.   \nPeng J,Liu Z.2019.Inflenceof temperatureonmicrobiallyinducedcalciumcarbonateprecipitation forsoil treatment.PloS ONE,14(6): e0218396,doi:10.1371/journal.pone.0218396.   \nR Core Team.2O19.R:Alanguageand environmentfor statistical computing.R foundation for statistical computing,Vienna, Austria.[2021-10-18]. https://www.R-project.org/.   \nRajabi AgerehS,KianiFKhavaziK,etal.2Ol9.Anenvironmentallfriendlysoilimprovement technologyforsandandust storms control. Environmental Health Engineering Management Journal,6(1): 63-71. Rhoades J.1996.Salinity:Electrical conductivityandtotal dissolved solids.In: SparksDL,PagePA,HelmkePA.Methods of Soil Analysis: Part 3. Madison: American Society of Aggronony Inc.,417-435.   \nSharma M,Satyam N,Reddy K.R.2O21a.Comparisonof improved shearstrengthof biotreated sand using differentureolytic strains and sterile conditions. Soil Use and Management, 38(1): 771-789.   \nSharma M,Satyam N,ReddyKR.2O21b.Rock-likebehaviorof biocementedsand treatedundernon-sterileenvironmentand various treatment conditions.Journal of Rock Mechanics and Geotechnical Engineering,13(3):705-716.   \nSharmaM,SatyamN,TiwariN,etal.2O2lc.Simplifiedbiogeochemicalnumericalmodel topredictporefluidchemistryand calcite precipitation during biocementation of soil.Arabian Journal of Geosciences,14:1-16.   \nStabnikov V,IvanovV,ChuJ.2O15.Construction biotechnology:anewareaof biotechnological researchandaplications. World Journal of Microbiology and Biotechnology,31(11): 1303-1314.   \nStocks-Fischer S,Galinat JK, Bang S S.1999.Microbiological precipitation of $\\mathrm { C a C O } _ { 3 }$ .Soil Biology and Biochemistry, 31: 1563-1571.   \nTianK,WuY,Zhang H,etal.2Ol8.Icreasingwinderosionresistanceofaeoliansandysoilbymicrobialliducedcalcium carbonate precipitation.Land Degradation and Development, 29(12):4271-4281.   \nvanPaassenL,Harkes M,van Zwieten G,etal.2O09.ScaleupofBioGrout:abiological ground reinforcementmethod.In: Proceedings of the $1 7 ^ { \\mathrm { u } }$ International Conference on Soil Mechanics and Geotechnical Engineering.Alexandria,Egypt: The Academia and Practice of Geotechnical Engineering,2328-2333.   \nWang Z,Zhang N,Cai G,etal.2O17.Reviewof ground improvementusing microbial inducedcarbonate precipitatio (CP). Marine Georesources and Geotechnology, 35(8):1135-1146.   \nWang Z,Zhang N,DingJ,etal.2O18.Experimentalstudyon winderosionresistanceand strengthof sands treated with microbial-inducedcalcium carbonateprecipitation.Advances inMaterialsSciene Enginering,2018:3463298,doi: 10.1155/2018/3463298.   \nWhifnV S,van Passen LA,Harkes MP.2Oo7.Microbial carbonate precipitation asa soil improvement technique. Geomicrobiology Journal,24(5): 417-423.   \nZehner J,Roye A,SikorskiP.2O21.Calciteseed-asistedmicrobial inducedcarbonate precipitation (MICP).PloSONE,6(2): e0240763,doi: 10.1371/journal.pone.0240763.   \nZhao Q,LiL,Li C,etal2O14.Factors afecting improvementof engineering propertiesof MICP-treated soilcatalyzed by bacteriaandurease.Journalof Materials in Civil Enginering,26(12):04014094,doi:10.106l/(ASCE)MT.1943-5533. 0001013.   \nZomorodian S MA,Ghafari H,OKelly BC.2019.Stabilisationofcrustal sand layerusingbiocementationtechnique for wind erosion control.Aeolian Research,4O:34-41. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

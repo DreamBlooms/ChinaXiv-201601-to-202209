@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "陕西榆林地区无定河流域淤地坝遥感解译",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马煜栋，杨帅，韩静，曹江涛，王子垚，张文龙(自然资源陕西省卫星应用技术中心，陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：淤地坝是黄土高原水土流失防治的主要措施之一，明确淤地坝的分布、规模等重要参数信息对流域水土保持研究具有重要意义。利用遥感技术(RS)和地理信息系统(GIS)技术,结合陕北地区无定河流域高分二号卫星影像、野外踏勘及资料收集到的研究区淤地坝情况，对其进行预处理获取矢量数据，通过对比分析，得到淤地坝解译标志。针对榆林地区无定河流域淤地坝进行遥感解译，利用遥感及GIS软件实现淤地坝数目、淤地坝位置、水面面积、控制面积等主要信息的提取,获取淤地坝在定边、靖边、米脂、绥德、横山、榆阳、子洲和清涧8个县(区)分布状况。结果显示：研究区共解译出疑似淤地坝图斑1257个，其中榆阳区60个，横山区85个，定边县65个，靖边县19个，米脂县470个，子州县99个，绥德县316个，清涧县143个。由此发现，淤地坝主要分布于无定河下游区域的绥德、米脂、子洲和清涧4县的沟道内，且沟道内多存在耕地或水域。将淤地坝分布情况与地形、年均降雨量、农业种植面积和地质灾害等进行比较分析，显示其分布状况与这些因素相关联,表现为沟壑纵横的区域淤地坝较多，农业种植面积较少的区域淤地坝较多，年均降雨量和耕种面积比值较大区域淤地坝较多。由此，总结其分布规律，为未来淤地坝的维护和修建提供重要支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：淤地坝；遥感解译；高分二号卫星；无定河",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "淤地坝是指在水土流失地区各级沟道中，以泥淤地为目的而修建的横穿河床或沟渠，以控制水流和泥沙输送为目的的横向结构坝工建筑物。淤地坝作为沟道治理的水土保持工程措施，不仅能蓄水削洪、减蚀拦沙，而且能够淤地造田，直接减少入河泥沙，在水土流失治理中具有不可替代的地位。淤地坝有400多年的历史，它的雏形和建设理念来源于“古聚湫”；20世纪60年代中期—70年代末期，淤地坝建设随筑坝技术的发展而得到迅速推广；2003年水利部实施的“亮点工程”又一次大大推进了淤地坝的建设规模[2]。2015年,习总书记在陕北梁家河调研时，肯定了淤地坝在黄土高原水土治理与促进农业发展中的重要意义：“游地坝是流域治理的一种有效形式，既可以增加耕地面积，提高农业生产能力，又可以防止水土流失，要因地制宜推行[3]。”",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "淤地坝等一系列水土保持措施的实施有效减少了水土流失的发生。准确获取淤地坝的数目、水面面积、控制面积(流域周围分水线与坝口断面之间所包围的面积）、淤地项位置及空间分布等信息是科学分析淤地坝减蚀(减少土壤侵蚀)和拦沙(拦截入黄泥沙)作用及其未来建设规划的基础[3]。但由于受历史条件限制，早期建设的淤地坝相关信息严重缺失，现在及过去的淤地坝信息很不对称，传统的人工统计方法由于主观及客观原因的影响存在效率低及准确性问题，而且无法获得淤地坝空间分布及其动态变化。随着遥感技术的发展，因其具有大面积的同步观测、时效性强等特点在信息提取中发挥重要作用[4-5]。因而采用遥感技术,结合GIS空间分析技术，开展淤地坝的遥感解译研究，就显得十分必要。同时，淤地坝在影像中范围较小，且部分自然堆土、田坎的影像特征与淤地坝相似，因此使用高精度、亚米级影像可降低解译难度、增强解译准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以无定河流域为例，整合相关影像数据，探索基于我国高分卫星遥感数据及遥感技术(RS)和地理信息系统(GIS)技术的淤地坝信息提取技术与方法，为开展淤地坝主要信息提取提供支撑，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无定河流域 $\\mathrm { 3 7 ^ { \\circ } 1 4 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 3 5 ^ { \\prime } N , 1 0 8 ^ { \\circ } 0 6 ^ { \\prime } { \\sim } 1 1 0 ^ { \\circ } 4 5 ^ { \\prime } E }$ 海拔 $6 0 0 { \\sim } 1 8 0 0 ~ \\mathrm { m }$ )地处黄土高原与毛乌素沙漠的过渡带。无定河发源于定边县白于山北麓，上游称为红柳河，流经靖边新桥后称为无定河，由靖边县西部进入内蒙古自治区，经大夏统万城遗址后，在榆林市榆阳区与横山县交界处的雷龙湾进入陕北，由西北向东南在清涧县河口村注入黄河。干流全长$4 9 1 . 2 ~ \\mathrm { k m }$ ，流域面积为 $3 0 2 6 1 ~ \\mathrm { k m } ^ { 2 }$ ,河道平均比降$1 . 8 \\% o$ 。其中，位于陕西省界内干流的河长约442.8$\\mathrm { k m }$ ，流域面积为 $2 1 7 3 7 . 5 3 \\ \\mathrm { k m } ^ { 2 }$ ，占流域总面积的$7 1 . 8 4 \\% ^ { [ 6 ] }$ 。主要流经榆林市榆阳、靖边、米脂、绥德、横山、定边、子洲和清涧8个县(区）(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无定河为黄河的一级支流，是榆林地区最大河流，也是陕西输出粗沙最多的河流，对陕北地区的水土流失及黄河夹带泥沙的现象有重要影响[。同时，无定河流域的淤地项数量众多，对当地的地质灾害防护和第一产业发展占据重要地位。因此，本次对无定河流域的淤地坝状况进行遥感解译会对环保、地灾和农业等领域起到相应作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究使用的是覆盖无定河流域榆林8个县（区)的高分二号(GF-2)卫星影像。GF-2卫星作为我国首颗分辨率达到亚米级宽幅的民用遥感卫星，实现了高空间分辨率、多光谱综合光学遥感数据获取，同时还具有高辐射精度、高定位精度、长寿命、多角度测拍等特点[8]。GF-2卫星点像元分辨率为全色 $0 . 8 \\mathrm { ~ m ~ }$ 、多光谱 $3 . 2 \\mathrm { ~ m ~ }$ ，幅宽 $4 5 ~ \\mathrm { k m }$ 。多光谱4个谱段分别为：蓝光 $0 . 4 5 { \\sim } 0 . 5 2 ~ { \\mu \\mathrm { m } }$ ，绿光 $0 . 5 2 \\mathrm { \\sim } 0 . 5 9$ $\\mu \\mathrm { m }$ ,红光 $0 . 6 3 \\mathrm { \\sim } 0 . 6 9 ~ \\mu \\mathrm { m }$ ,近红外 $0 . 7 7 { \\sim } 0 . 8 9 ~ { \\mu \\mathrm { m } } ^ { \\left[ 9 \\right] }$ 。该数据源分辨率高，能够精确识别出淤地坝坝体、水域、沟道和坡体等信息，且其重访周期为5d,在研究区内覆盖间隔为5个月左右，能够提供丰富的多时相数据，便于开展不同季节的淤地坝特征对比，提高提取准确率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GF-2卫星影像的数据获取的原始数据为L1级别，经过正射校正、融合、裁剪、镶嵌、几何校正共5个部分操作后用于淤地项提取，具体流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fa9ac10c39444da3a38122cb7e2ca6b1c1fc8f42a5374816dbdaccbd1d2fe99.jpg",
+        "img_caption": [
+            "图1无定河流域地理概况图",
+            "Fig.1 Geographical map ofWuding River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c37cc55cf88a132ab68c3ebacc478b6cdaf8299f926f4eb2642dfb63ac2b093c.jpg",
+        "img_caption": [
+            "图2GF-2卫星影像处理流程",
+            "Fig.2 Flow chart of Gf-2 satellite image processing "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1淤地坝遥感解译结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征明显的遥感解译标志的建立是快速、准确地提取淤地坝遥感信息重要的前提和关键[10]。GF-2卫星影像优于 $1 \\mathrm { m }$ 的分辨率使其展现出的地物细节更加清晰。通过遥感影像解译和野外验证，初步掌握了工作区不同建筑特征及分布规律。结合前期成果，分析和调查淤地坝在遥感影像上呈现的色彩、纹形图案、大小、形态、影像结构、粗糙度等，建立直接解译标志。通过分析淤地坝的特征与地貌、环境、植被等关联性，分析淤地坝与天然或人工坡体的影像差异，建立间接解译标志。根据解译标志，再结合具体情况，采用目视解译（直判法、综合分析法)和计算机图像处理相结合的方法对榆林市8县流域区的淤地坝图斑位置、坐标、占地面积、经纬度、水域面积、类型和规模进行遥感解译。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过本次解译，淤地坝特征总体如下：淤地坝多位于沟道中，形似水坝，上窄下宽;坝体至少有一侧为淤积地、耕地或水域；一条沟道中可有多个淤地坝(表1、图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "遥感解译完成后，共抽取图斑377个，占全部解译图斑个数的 $3 0 \\%$ ，进行野外验证。经过验证，共有336个图斑确定为淤地坝，准确率约为 $89 \\%$ （图4)。剩余 $1 1 \\%$ 的图斑，皆为自然堆土与田坎，其影像特征与淤地坝有相似之处，造成解译错误。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次遥感解译共解译出疑似淤地坝图斑1257个（去除实地验证的41个非淤地坝图斑），占地",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/90ae6189dda2e9a2cbe35dadfd2a69743ad118c3869efb812aee281d09b34e1c.jpg",
+        "table_caption": [
+            "表1淤地坝遥感解译标志",
+            "Tab.1 Signs for remote sensing interpretation of check dams "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>淤地坝分类</td><td>直接解译标志</td><td>遥感影像</td></tr><tr><td>1</td><td>两侧淤积型</td><td>沟道内为一细长型光滑图案，或为淤积,或为耕地; 一坝体型构造横贯沟道,与沟道两侧坡体相连,两侧 皆为光滑图案,坝顶部可能存在道路。</td><td></td></tr><tr><td>2</td><td>单侧淤积型</td><td>沟道内为一细长型光滑图案，或为淤积,或为耕地; 一坝体型构造横贯沟道,与沟道两侧坡体相连,位于 光滑图案顶端或底端，一侧为光滑图案，一侧为山 体、道路等其他构造,坝顶部可能存在道路。</td><td></td></tr><tr><td>3</td><td>单侧水体型</td><td>沟道内为一细长型光滑蓝色水域图案；一坝体型构 造横贯沟道，与沟道两侧坡体相连，位于光滑图案顶 端或底端，一侧为水域，一侧为山体、道路等其他构 造,坝顶部可能存在道路。</td><td></td></tr><tr><td>4</td><td>两侧混合型</td><td>沟道内为细长型光滑水域图案与光滑淤积图案相 连；一坝体型构造横贯沟道，与沟道两侧坡体相连， 位于水域与淤积之间,坝顶部可能存在道路。</td><td></td></tr><tr><td>5</td><td>坝系</td><td>多支沟相交于主沟，沟道类有细长水域、淤积，多个 坝体型构造横贯沟道，与沟道两侧坡体相连。沟道 内多有平整规则的淤积土地或水面。</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b5e08c411984bbe483ce3e29bd15475c9a939112e4df77c61005f1c8ec7065d.jpg",
+        "img_caption": [
+            "图3淤地坝现场照片"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54ead550615b89918ce44c26664054147156e97319d9f1ce5dc43276e1fb04fc.jpg",
+        "img_caption": [
+            "Fig.3 Photo of check dams ",
+            "图4研究区淤地坝图斑分布",
+            "Fig.4 Distribution of check dams in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$3 4 9 . 5 8 ~ \\mathrm { h m } ^ { 2 }$ ,水域面积 $1 1 4 5 . 0 6 \\mathrm { h m } ^ { 2 }$ ;其中，榆阳区60 个，横山区85个，定边县65个，靖边县19个，米脂县 470个，子洲县99个，绥德县316个，清涧县143个。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2淤地坝分布特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将占地面积 $6 . 6 7 \\mathrm { h m } ^ { 2 } .$ 以上划分为大型淤地坝， $3 . 3 3 { \\sim } 6 . 6 7 \\ \\mathrm { h m } ^ { 2 }$ 划分为中型淤地坝， $3 . 3 3 \\mathrm { ~ h m } ^ { 2 }$ 以下划分为小型淤地坝。经过解译，大型淤地坝79个，占全部疑似淤地坝图斑个数的 $6 \\%$ ；中型淤地坝228个，占全部疑似淤地坝图斑个数的 $1 8 \\%$ ;小型淤地坝950个，占全部疑似淤地坝图斑个数的 $7 6 \\%$ （表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "整个无定河榆林流域中，淤地坝主要分布于米脂县、绥德县和清涧县等下游区域(图4)，总数达929个，占全部疑似淤地坝图斑个数的 $7 3 . 9 \\%$ ；占地面积 $2 3 3 . 8 4 ~ \\mathrm { h m } ^ { 2 }$ ，占全部疑似淤地坝图斑面积的$6 6 . 8 9 \\%$ 。其中大型和中型淤地坝主要分布于米脂县，分别有48个和94个，占比分别为 $6 0 . 7 6 \\%$ 和$4 1 . 2 3 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用年均降雨量、人口、群测群防点、农作物耕种面积与淤地坝数量分布情况进行对比(图5、图6)，发现：(1）淤地坝分布情况与地质灾害群测群防点有部分关联，在地质灾害群测群防点数量较多的米脂、子洲、清涧、绥德等县，其淤地坝数量也多;(2）淤地坝分布情况与人口数呈反相关，人口较少地区，游地坝数量较多；(3）游地项数量与农作物耕种面积也呈反相关，农作物耕种面积较少地区，淤地坝数量较多；(4)淤地项数量与年均降雨量呈正相关，年均降雨量较多的地区，淤地坝数量较多；(5）淤地项数量与年均降雨量和耕种面积比值呈正相关，比值越大，淤地坝数量越多。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究以国产GF-2数据为信息源，提出了榆",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24e5674565539bb54623c21af2767c59d6d5252460da8f076598950302553413.jpg",
+        "table_caption": [
+            "表2各县(区)淤地坝图斑情况",
+            "Tab.2 Number of check dams in each county or district "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>县(区)</td><td>大型淤地坝/个</td><td>中型淤地坝/个</td><td>小型淤地坝/个</td><td>淤地坝小计/个</td></tr><tr><td>榆阳区</td><td>4</td><td>23</td><td>33</td><td>60</td></tr><tr><td>横山区</td><td>0</td><td>15</td><td>70</td><td>85</td></tr><tr><td>定边县</td><td>16</td><td>11</td><td>38</td><td>65</td></tr><tr><td>靖边县</td><td>6</td><td>4</td><td>9</td><td>19</td></tr><tr><td>米脂县</td><td>48</td><td>94</td><td>328</td><td>470</td></tr><tr><td>子洲县</td><td>3</td><td>27</td><td>69</td><td>99</td></tr><tr><td>绥德县</td><td>2</td><td>50</td><td>264</td><td>316</td></tr><tr><td>清涧县</td><td>0</td><td>4</td><td>139</td><td>143</td></tr><tr><td>合计</td><td>79</td><td>228</td><td>950</td><td>1257</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/758f97c758b616849ec2b3dda4516a464adbed0b0eb1105247f670f75b0a18fe.jpg",
+        "img_caption": [
+            "图5各县(区)淤地坝个数及其他数据统计 Fig.5Number of check dams and other data statistics in each county or district ",
+            "图6各县(区)年均降雨量与耕种面积比值 Fig.6 Ratio of annual rainfall to cultivated area in each county or district "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "/ 987654321 . 山山 0 榆阳区 横山区 定边县 靖边县 米脂县 子洲县 绥德县 清涧县 县(区) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "林地区无定河流域淤地坝解译的技术方案，并进行解译研究；同时，对淤地坝的分布状况特征进行分析，得到以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）淤地坝在一条主沟可有多处淤地坝，多处支沟内也有淤地坝，最后汇聚于主沟；从解译标志上观察其沟道内多有规律平整的耕地或水面；若沟道内土地不平整，无耕地或水面特征，沟道内可能不存在淤地坝。后期增加外业验证图斑数量,结合实地特征，改进解译标志。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）淤地坝主要分布于无定河下游的特征与当地的地形状况有关，上游区域的定边县、靖边县等地区地势相对平坦，甚至部分地区为毛乌素沙漠南缘风沙滩区，沟壑较少，因此淤地坝需求较小；下游区域的米脂、绥德等县全境大部为黄土高原丘陵沟壑区，人类的生产活动主要位于沟道内，所以需要修建大量淤地坝来增强生产活动，保护人民生命财产安全。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）淤地坝分布情况与农业发展、气候、地质灾害分布有关。耕种面积大的县（区），耕地数量充足，在农业方面对淤地坝的需求较少；耕种面积较少的县（区），耕地数量少，在农业方面对淤地坝的需求较大，导致淤地坝数量相对较多。年均降雨量和耕种面积比值较大的区域，其降水较大，区域面积小，地形可能不平坦，易发生洪涝灾害，对淤地坝需求较大。淤地坝对地质灾害有防护作用，故地质灾害频发区域，淤地坝数量较多。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]陈晓梅,杨惠淑.淤地坝的历史沿革[J].河南水利与南水北调, 2007(1): 65-66.[Chen Xiaomei, Yang Huisu.Historical evolution of check dam[J]. Henan Water Resources & South-to-North Water Diversion,2007(1): 65-66.]   \n[2]弥智娟,穆兴民,赵广举.基于多源数据的皇甫川淤地坝信息提 取[J].干旱区地理,2015,38(1):52-59.[Mi Zhijuan,Mu Xingmin, Zhao Guangju. Extraction of check dam based on multi-sources data in the Huangfuchuan watershed[J].Arid Land Geography, 2015,38(1): 52-59.]   \n[3]史红艳.黄土高原淤地坝防汛监控预警系统建设展望[J].中国 防汛抗旱,2019,29(3):16-19.[Shi Hongyan. Construction prospect of flood control monitoring and early warning system for check dams in the Loess Plateau[J]. China Flood & Drought Management,2019,29(3): 16-19.]   \n[4]Huang M,Gong J,Shi Z,et al.River bed identification for checkdam engineering using SPOT-5 image in the Hongshimao watershed of the Loess Plateau, China[J]. International Journal of Remote Sensing,2009,30(8): 1853-1865.   \n[5]Ratnam K N, Srivastava Y K,Rao V V,et al. Check dam positioning by prioritization of micro-watersheds using SYI model and morphometric analysis:Remote sensing and GIS perspective[J]. Journal of the Indian Society of Remote Sensing,2005,33(1): 25-38.   \n[6]李丽娟,杨俊伟,姜德娟,等.20世纪90年代无定河流域土地利 用的时空变化[J].地理研究,2005,24(4):527-534,656.[Li Lijuan, Yang Junwei, Jiang Dejuan, et al. GIS-based study on spatial-temporal changes of land use in Wuding River Basin in the 1990s[J]. Geographical Research,2005,24(4): 527-534,656.]   \n[7]佟彪,党安荣,周宏宇.无定河流域城镇聚落的历史演变与人地 耦合[J].自然资源学报,2021,36(1):38-54.[Tong Biao,Dang Anrong,Zhou Hongyu.The historical evolution of urban settlements and man-land coupling in Wuding River Basin[J]. Journal of Natural Resources,2021,36(1): 38-54.]   \n[8]潘腾,关晖,贺玮.“高分二号\"卫星遥感技术[J].航天返回与遥 感,2015,36(4):16-24.[Pan Teng,Guan Hui,He Wei.GF-2 satellite remote sensing technology[J]. Spacecraft Recovery & Remote Sensing,2015,36(4): 16-24.]   \n[9]张幼莹,余江宽,步凡,等.“高分二号\"卫星在黄土地质灾害解 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "译中的应用研究[J].测绘与空间地理信息,2017,40(11):31- 34,38.[Zhang Youying,Yu Jiangkuan,Bu Fan,et al. Application of GF-2 satellite to geological hazard interpretation in Loess Plateau[J].Geomatics & Spatial Information Technology,2O17,40 (11): 31-34,38.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[10] 李思发,李亮,赵伟立.GeoEye-1在矿山开发遥感调查中的应用[J].工程地球物理学报,2011,8(5):631-634.[Li Sifa,Li Li-ang,Zhao Weili.Application of GeoEye-1 to remote sensing sur-veyfor mine exploitation[J]. Chinese Journal of Engineering Geophysics,2011,8(5): 631-634.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Remote sensing interpretation of check dams in Wuding River Basin in Yulin Area of Shaanxi Province ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MA Yudong， YANG Shuai， HAN Jing， CAO Jiangtao, WANG Ziyao, ZHANG Wenlong (Shaanxi Satellite Application Center for Natural Resources,Xi'an 71O119,Shaanxi, China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study extracted check dam informationusing GF-2 data inthe Wuding River Basin in the northern Shaanxi Province of China. The cloud cover of every image was less than $5 \\%$ because the identification of check dams became complicated due to disturbances from shadows. Using remote sensing (RS） and geographic information system (GIS)technology,combined with the GF-2 satelite image of the Wuding River Basin,the situation of thesiltdam in the studyarea collcted from fieldsurveys,and data is usedto preprocessit toobtain vector data,and through comparison and analysis, we got interpretation sign of silt dam. Remote-sensing interpretation was conducted for the silt dam in the Wuding River Basin in the Yulin area; the main information,such as the number of silt dams,location of the silt dam,water surface area,and control area,were extracted using RS and GIS software.In total,1257 silt lands were interpreted Batu spots,including 60 in Yuyang District,85 in Hengshan District, 65 inDingbian County,19 in Jingbian County,470inMizhi County,99 in Zizhou County,316 in Suide County, and 143 in Qingjian County. Divide an area of more than 1 hectare as large silt dams: $0 . 5 \\substack { - 1 . 0 }$ hectares as medium silt dams,and less than 0.5 hectares as small silt dams.After the interpretation,79 were identified as large silt dams $( 6 \\% )$ ; 228 as medium silt dams $( 1 8 \\% )$ ; and 950 as small silt dams ( $7 6 \\%$ ). The results show that the silt dams are distributed in the four counties of Suide,Mizhi, Zizhou,and Qingjian in the lower reaches of the Wuding River, with the number of 1028,accounting for $8 1 . 7 8 \\%$ and 38.74 hectares,accounting for $7 3 . 8 8 \\%$ ： Large and medium silt dams are distributed in Mizhi County，with the number of 48and 94,respectively, accounting for $6 0 . 7 6 \\%$ and $4 1 . 2 3 \\%$ , respectively. Comparing and analyzing the distribution of silt dams using topography,climate,agriculture,and geological disasters shows that their distribution is related to these factors. Thus,the distribution law is summarized to support the maintenance and construction of silt dams in the future. Key words: check dam; remote sensing interpretation; GF-2； Wuding River ",
+        "page_idx": 5
+    }
+]

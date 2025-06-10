@@ -1,0 +1,506 @@
+[
+    {
+        "type": "text",
+        "text": "贵州省野生苦苣苔科物种多样性与地理分布",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄梅，李美君，黄红，张金权，白新祥（贵州大学林学院，贵阳550025）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究在建立贵州省野生苦苣苔科植物名录和地理分布数据库的基础上，对其物种多样性及地理分布格局进行研究。通过文献资料结合实地调查，从物种组成、特有性、水平分布、垂直分布和相似性等方面进行分析，最后采用筛除算法确定贵州苦苣苔科植物分布的热点地区。结果表明：贵州省苦苣苔科植物共计2族8亚族28属153种(含种下等级),分布在75个县级行政区，有128/45个中国/贵州特有种，垂直分布以 $9 0 0 { \\sim } 1 ~ 3 0 0 ~ \\mathrm { m }$ 海拔段最为丰富。通过计算省级相似性系数，发现贵州与广西的相似程度最高，最后筛选得到10个热点县，共代表了 $7 5 \\%$ 的苦苣苔科植物。贵州省为典型的喀斯特高原山地，苦苣苔科植物种类丰富，尤其是广义马铃苣苔属、广义报春苣苔属、广义石山苣苔属和蛛毛苣苔属等，有着较高的物种多样性和区域特有性。本研究可以为贵州省苦苣苔科植物资源保护和持续利用提供理论参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：苦苣苔科，贵州省，相似性系数，热点地区，垂直分布，水平分布中图分类号：Q944 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Species diversity and geographic distribution of wild Gesneriaceae in Guizhou ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANG Mei, LI Meijun, HUANG Hong, ZHANG Jinquan, BAI Xinxiang (CollegeofForestry,GuizhouUniversity,Guiyang55o025,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this study,the species diversity and geographical distribution pattern of wild Gesneriaceae in Guizhou Province were studied based on the establishment of a list and geographical distribution database of wild Gesneriaceae in Guizhou Province.Through the literature and a field investigation,the species composition,endemism,horizontal distribution,vertical distribution and similarity were analysed.Finally, the hotspots of Gesneriaceae in Guizhou were determined by a complementary algorithm. The results were as follows: There are 153 species (including subspecies） of Gesneriaceae in Guizhou Province, belonging to 2 tribes,8 subtribes,and 28 genera.These plants are distributed among 75 county-level administrative districts.There are 128 species endemic to China and 45 endemic to Guizhou,and the vertical distribution is the most abundant at altitudes of $9 0 0 { - } 1 ~ 3 0 0 ~ \\mathrm { m }$ .The calculation of the provincial similarity coefficient showed that Guizhou and Guangxi had the highest similarity.Finaly，1O hot spots were selected, representing $7 5 \\%$ of the Gesneriaceae plants. Guizhou Province is a typical karst plateau mountainous area that is rich in species of Gesneriaceae,especially Oreocharis,Primulina,Petrocodon and Paraboea,which have high species diversity and regional specificity. This study can provide a theoretical reference for the conservation and sustainable utilization of Gesneriaceae plant resources in Guizhou Province. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Gesneriaceae，Guizhou, similarity coefficient,hot spots，vertical distribution, horizontal distribution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科（Gesneriaceae）在全世界约有160 属3800 余种，主要分布在亚洲东部和南部、非洲、欧洲南部、大洋洲、南美洲至墨西哥等热带至温带地区（李振宇和王印政，2005；Weber et al.,2013;许为斌等，2017；葛玉珍等，2020；温放，2020）。我国是苦苣苔科植物主要分布中心之一，根据Weber分类系统，截至2020年11月，我国自然分布的苦苣苔科植物已记载有2族14亚族45属786种（含种下等级），10个特有属，11个单型属（韦毅刚等，2010；符龙飞等，2019；陆昭岑等，2019;温放等，2019，2020）。我国苦苣苔科植物只有台闽苣苔[Titanotrichum oldhamii(Hemsl.)Soler.]属于大岩桐亚科（Subfam.Gesnerioideae）并自成一族（台闽苣苔族 Tr.Titanotricheae T.Yamaz.ex W.T.Wang），其余都隶属于长蒴苣苔亚科（Subfam.Didymocarpoideae）（辛子兵等，2019；杨丽华等，2019）。我国苦苣苔科植物绝大部分分布于桂、滇、黔、粤、川等省区的热带以及亚热带区域，主要生于各种裸露的岩壁、喀斯特和丹霞地貌的石缝中、林下阴湿处或者岩溶洞穴入口处(温放，2008)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贵州省地理位置特殊，地形地貌复杂，喀斯特地貌发育典型，高原山地居多，生境异质性程度高，气候温暖湿润，为苦苣苔科植物的生长提供了多样化的生境。从现有的文献资料可以发现，贵州省野生苦苣苔科植物资源较为丰富，且绝大多数为岩生种类，具有独特的观赏性以及较高的物种多样性和区域特有性。对贵州省苦苣苔科植物的研究侧重于一些重要类群在区域尺度开展的资源调查和区系研究，尤其是近几年有较多的新类群发表，但现有的研究与苦苣苔科植物资源大省地位严重失衡。近年来随着苦苣苔科植物野外调查和分类学的不断发展，尤其是分类系统的修订和新类群等相关研究相继发表，使得贵州省苦苣苔科植物种类不断激增，使学界对苦苣苔科植物的认识和研究造成了混乱与困扰，因此很有必要对贵州省苦苣苔科植物资源进行系统整理和研究。同时，随着近年来贵州省“大生态”战略的实施，生态环境持续向好，尤其是伴随着交通条件的改善使得野外调查的可达性进一步增强，考虑到苦苣苔科植物分布的狭域特征，因此开展县级尺度下的文献资料整理和野外调查工作对摸清贵州省苦苣苔科植物本底资源尤为重要。本研究以贵州省苦苣苔科植物为研究对象，结合最新的研究成果，建立贵州省苦苣苔科植物名录，从物种组成、特有性等方面对贵州省苦苣苔科植物的物种多样性进行分析，进而探讨其地理分布特征及热点地区，分析苦苣苔科植物分布的重要区域，对今后贵州省苦苣苔科植物资源的野外调查、保护和开发利用具有科学指导意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1名录确定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过查阅《贵州植物志》（第4卷）、《中国植物志》（第69卷）、FloraofChina（第18卷）、《中国苦苣苔科植物》、《华南苦苣苔科植物》、《贵州维管束植物编目》和《中国石蝴蝶属植物》等专著及贵州省各级自然保护区科学考察集和中国数字植物标本馆等基础资料（李永康，1988；王文采，1990；Wang et al.，1998；李振宇和王印政，2005；韦毅刚等，2010；罗扬等，2015；邱志敬和刘正宇，2015），以截止 2020年11月发表的硕博士论文、期刊论文中报道的贵州新类群进行补充。本文的贵州省苦苣苔科植物名录采用Weber分类系统（Moller etal.,2016；符龙飞等，2019），对其属、种的中文名、拉丁学名进行整理、校对和修订，最终确定比较完整的贵州省苦苣苔科植物编目。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2地理分布数据的收集及数据校正",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过收集有关苦苣苔科植物地理分布数据，建立贵州省苦苣苔科植物地理分布数据库，数据来源主要包括：（1）植物志书：《贵州植物志》（第4卷）、《中国植物志》（第 69卷）和FloraofChina（第18卷）；（2）学术专著：《中国苦苣苔科植物》、《华南苦苣苔科植物》、《贵州维管束植物编目》和《中国石蝴蝶属植物》等；（3）学术论文：截止2020年11月发表的有关记录苦苣苔科植物地理分布的学术期刊和学位论文；（4）标本数据：中国数字植物标本馆的标本记录(http://www.cvh.org.cn)；（5）贵州省各级自然保护区科考集。提取上述资料中苦苣苔科植物地理分布信息，然后进一步筛选、整理和汇总，为了提高数据的精确性，删除重复记录和采自引种栽培区域的标本数据，并对地理数据进行校正和新旧地名转换，如CVH上的小河区并入花溪区、水城县更改为水城区、清镇县更改为清镇市等（参考2020年贵州省行政区划），最终建立贵州省苦苣苔科植物的地理分布数据库，数据库包括的属性有属名、种名、特有性、分布区域等。该数据库地理精度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统一转换为县级行政单元。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于建立的贵州省苦苣苔科植物地理分布数据库，利用 ArcGIS 10.0软件将物种分布数据与贵州省行政区划图进行关联，采用Nature break (Jenks)分割方法对物种丰富度进行分级，绘制贵州省苦苣苔科植物县级尺度的物种丰富度地理分布图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3热点地区的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在贵州省苦苣苔科物种名录及地理分布数据库的支持下，基于物种丰富度进一步运用 Dobson筛除算法来确定贵州苦苣苔科植物分布的热点地区。具体步骤为首先选取物种丰富度最高的县，然后将该区域中包含的物种从总名录中剔除，再选取剩余物种丰富度排序最高的县，重复以上筛选步骤直至将所有物种都剔除完后，最后筛选得到的县的集合为贵州苦苣苔科植物的热点地区，即包含物种丰富度最高且最为互补的区域（Dobson etal.,1997；张晓龙，2014；张殷波等，2015；徐翔等，2018）。在筛选过程中，如果遇到包含物种数相同的县，则优先选择面积较小的县，目的是为了得到用最小的土地面积涵盖最多该科物种丰富度的区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1贵州苦苣苔科植物物种名录及数量的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究确立的贵州省野生苦苣苔科物种名录共记载2族8亚族28属153种（含种下等级），占中国苦苣苔科植物总物种数的 $1 9 . 4 7 \\%$ （韩孟奇，2018；Cai etal.,2019;Li et al.,2019；彭涛和徐婷，2019；杨加文和蔡磊，2019；Fan etal.,2020；汤升虎等，2020；徐婷，2020），包含中国/贵州特有种分别为128/45种（附录1）。近几年我国苦苣苔科植物新类群出现了激增，以及亚科之下族、属的系统位置发生较大的变动和重新界定（Wei et al.,2010; Moler et al.,2011; Weber et al.,201la,b,c;Middleton,2014）。目前贵州苦苣苔科植物编目不断在更新，从1988年的82种到2005年的96种再到2015 年的106种（李永康，1988；王文采，1990；Wang,1998；李振宇和王印政，2005），而后查阅截止 2020 年11月的相关文献陆续发现很多新记录种及新种，如都匀马铃苣苔（Oreocharisduyunensis）、白云岩蛛毛苣苔（Paraboea dolomitica）、小黄花石山苣苔（Petrocodon luteoflorus）等，数量上达到153 种（Guo et al.,2018;Fu et al.,2019；苏兰英等，2019；Wen,2019; Guo et al.,2020;李飒等，2020）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2贵州苦苣苔科植物多样性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1物种多样性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "贵州分布的苦苣苔科植物主要是附生型，绝大多数种类分布在喀斯特和丹霞地貌，附生于岩石表面的腐殖质层或岩石缝中，少数种类生长在富含腐殖质的林下环境。贵州省苦苣苔科植物的族、亚族、属和种多样性高，有2个族，分别为盾座苣苔族（Tr.EpithemateaeC.B.Clarke）和芒毛苣苔族（Tr.Trichosporeae Nees）,8个亚族，分别为独叶苣苔亚族（Subtr.Monophyllaeinae A.Weber & Mich.Moller）、尖舌苣苔亚族（Subtr.Loxotidinae G. Don）、盾座苣苔亚族（Subtr.Epithematinae DC.exMeisn）、凹柱苣苔亚族（Subtr.Litostigmatinae A.Weber& Mich.Moller）、珊瑚苣苔亚族（Subtr.Coralldiscinae A.Weber & Mich.Moller）、细蒴苣苔亚族（Subtr.Leptobaeinae C.B.Clarke）、长蒴苣苔亚族（Subtr. Didymocarpinae G Don）、肿蒴苣苔亚族（Subtr.Loxocarpinae A.DC.），共有 28属153种，占中国苦苣苔科植物总属数/总种数的 $6 2 . 2 2 \\% / 1 9 . 4 7 \\%$ 。其中有2个中国单型属在贵州有分布，即筒花苣苔属（Briggsiopsis K.Y.Pan）和粉毛苣苔属（Middletonia C.Puglisi）。中国特有种和贵州特有成分丰富，将特有种数占贵州省该科总种数的比例定义为特有率，得出中国特有种特有率为 $8 3 . 6 6 \\%$ ，贵州特有种特有率为 $2 9 . 4 1 \\%$ ，种数在10 种以上的属有7个，总计114种，占贵州省苦苣苔科总数的 $7 4 . 5 1 \\%$ ，是贵州省苦苣苔科植物的主要组成部分（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d06838bb7798702db10375641d71965d80f4d2362c8d5f361157c89663cdce31.jpg",
+        "table_caption": [
+            "表1贵州苦苣苔科植物属种数和特有种数",
+            "Table1 Species and endemic species of Gesneriaceae in Guizhou "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">属名 Genus</td><td rowspan=\"4\">种数 Species</td><td>占贵州总种</td><td>中国特有种</td><td>贵州特有</td><td>中国特有种特</td><td>贵州特有种</td></tr><tr><td>数的比例</td><td>数</td><td>种数</td><td>有率</td><td>特有率</td></tr><tr><td>Ratio of</td><td>Number of</td><td>Endemic</td><td>Species</td><td>Endemic</td></tr><tr><td>species in</td><td>Chinese</td><td>species in</td><td>endemic to</td><td>species in</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b11257683d3b532d4df561bfd08fb7f29449052139d4dd75687f42ba7c538bdd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td></td><td>Guizhou (%)</td><td>endemic species</td><td>Guizhou</td><td>China/Total species in</td><td>Guizhou/Total speciesin</td></tr><tr><td>异叶苣苔属Whytockia</td><td></td><td>3</td><td>1.96</td><td>3</td><td>1</td><td>Guizhou (%) 1.96</td><td>Guizhou (%) 0.65</td></tr><tr><td>尖舌苣苔属 Rhynchoglossum</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>盾座苣苔属Epithema</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>凹柱苣苔属 Litostigma</td><td></td><td>1</td><td>0.65</td><td>1</td><td>1</td><td>0.65</td><td>0.65</td></tr><tr><td>珊瑚苣苔属 Corallodiscus</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>横蒴苣苔属Beccarinda</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>线柱苣苔属Rhynchotechum</td><td></td><td>2</td><td>1.31</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>马铃苣苔属Oreocharis</td><td></td><td>30</td><td>19.61</td><td>30</td><td>15</td><td>19.61</td><td>9.80</td></tr><tr><td>筒花苣苔属 Briggsiopsis</td><td></td><td>1</td><td>0.65</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>漏斗苣苔属 Raphiocarpus</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>半蒴苣苔属Hemiboea</td><td></td><td>19</td><td>12.42</td><td>18</td><td>4</td><td>11.76</td><td>2.61</td></tr><tr><td>石蝴蝶属 Petrocosmea</td><td></td><td>12</td><td>7.84</td><td>12</td><td>5</td><td>7.84</td><td>3.27</td></tr><tr><td>报春苣苔属Primulina</td><td></td><td>21</td><td>13.73</td><td>20</td><td>5</td><td>13.07</td><td>3.27</td></tr><tr><td>汉克苣苔属Henckelia</td><td></td><td>4</td><td>2.61</td><td>2</td><td>1</td><td>1.31</td><td>0.65</td></tr><tr><td>石山苣苔属Petrocodon</td><td></td><td>12</td><td>7.84</td><td>10</td><td>8</td><td>6.54</td><td>5.23</td></tr><tr><td>长蒴苣苔属 Didymocarpus</td><td></td><td>4</td><td>2.61</td><td>4</td><td>0</td><td>2.61</td><td>0.00</td></tr><tr><td>圆唇苣苔属Gyrocheilos</td><td></td><td>1</td><td>0.65</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>异唇苣苔属Allocheilos</td><td></td><td>1</td><td>0.65</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>大苞苣苔属 Anna</td><td></td><td>2</td><td>1.31</td><td>2</td><td>1</td><td>1.31</td><td>0.65</td></tr><tr><td>斜柱苣苔属Loxostigma</td><td></td><td>4</td><td>2.61</td><td>3</td><td>0</td><td>1.96</td><td>0.00</td></tr><tr><td>芒毛苣苔属Aeschynanthus</td><td></td><td>3</td><td>1.96</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>吊石苣苔属 Lysionotus</td><td></td><td>10</td><td>6.54</td><td>7</td><td>1</td><td>4.58</td><td>0.65</td></tr><tr><td>光叶苣苔属Glabrella</td><td></td><td>3</td><td>1.96</td><td>3</td><td>1</td><td>1.96</td><td>0.65</td></tr><tr><td>蛛毛苣苔属 Paraboea</td><td></td><td>10</td><td>6.54</td><td>6</td><td>2</td><td>3.92</td><td>1.31</td></tr><tr><td>旋蒴苣苔属 Dorcoceras</td><td></td><td>2</td><td>1.31</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>喜鹊苣苔属Ornithoboea</td><td></td><td>1</td><td>0.65</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>粉毛苣苔属Middletonia</td><td></td><td>1</td><td>0.65</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr><tr><td>长冠苣苔属Rhabdothamnopsis</td><td></td><td>1</td><td>0.65</td><td>1</td><td>0</td><td>0.65</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2相似性系数分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对两个地区植物相似性的比较，采用相似性系数法进行分析，其表达式如下：相似性系数$= 2 w / ( a + b )$ 。式中： $\\mathbf { \\Delta } _ { a }$ 为 $\\mathbf { \\Delta } _ { a }$ 地物种总数； $b$ 为 $b$ 地物种总数； $w$ 为两地共有物种数。在植物区系地理的比较研究中，通常用属、种相似性系数（similarity coeficient）作为相似性程度最基本的数量指标来分析不同区域植物区系间的亲缘关系（杨林等，2020）。在对贵州省苦苣苔科植物与其他地区（种数 $\\geqslant 3 0$ 种的省、市、区）的共有种进行统计的基础上，计算出相似性系数（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fecf7bc10d03d8c8ab342e253ae11331acb6a70cf83c1b18e55e6b765156a3e4.jpg",
+        "table_caption": [
+            "表2贵州省与其他省级行政区共有种相似性系数",
+            "Table 2 Similarity coefficient of common species between Guizhou Province and other provincial-leve "
+        ],
+        "table_footnote": [
+            "研究表明，贵州苦苣苔科植物与广西的相似程度最高，相似性系数为 $2 5 . 3 7 \\%$ 。因为贵州是云贵高原向湘桂丘陵过渡的地带，桂黔相邻的地区属于红水河流域（杨林等，2020），有着同类型喀斯特石灰岩地貌和气候类型，而且相邻地区物种丰富度都相对较高，因此，共有种类较多。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">administrative regions</td></tr><tr><td>省级行政区</td><td>共有种数</td><td>相似性系数</td></tr><tr><td>Provincial-level administrative region</td><td>Number of common species</td><td>Similarity coefficient (%)</td></tr><tr><td>广西Guangxi</td><td>60</td><td>25.37</td></tr><tr><td>四川 Sichuan</td><td>32</td><td>25.30</td></tr><tr><td>湖北 Hubei</td><td>22</td><td>23.40</td></tr><tr><td>云南Yunnan</td><td>49</td><td>22.53</td></tr><tr><td>广东 Guangdong</td><td>25</td><td>18.66</td></tr><tr><td>湖南 Hunan</td><td>19</td><td>17.51</td></tr><tr><td>江西Jiangxi</td><td>13</td><td>14.13</td></tr><tr><td>福建Fujian</td><td>9</td><td>9.63</td></tr><tr><td>西藏Tibet</td><td>6</td><td>6.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3贵州省苦苣苔科植物地理分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1水平分布",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过实地调查结合相关资料对贵州省苦苣苔科植物地理分布数据进行统计，得出贵州省苦苣苔科植物物种分布较广，各州市均有分布，其中黔南布依族苗族自治州（以下简称黔南州）分布最为丰富有74种，其次为黔西南布依族苗族自治州（以下简称黔西南州）58种，遵义市46种，黔东南苗族侗族自治州（以下简称黔东南州）33种，铜仁市30种，贵阳市 24种，毕节市 28种，安顺市和六盘水市相对较少，分别为17种和14种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在县级尺度上，共有 75个县级行政区分布，按照物种丰富度排序，得到 $\\geqslant 1 5$ 种的县级行政区共10个，包括荔波县、赤水市、兴义市、道真仡佬族苗族自治县（以下简称道真县）、贵定县、贞丰县、安龙县、江口县、罗甸县和兴仁市（图1：a）。贵州特有种主要分布于37个县级行政区，特有率较高的地区在全省范围内呈现出离散的分布格局（图1：b,c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物的区系分化强度可以用区系分化率的大小，即种数/属数比值进行描述，比值越大区系分化率越小（张殷波等，2015）。部分地区物种丰富度较高，但是属数量低，故区系分化率较低，贵州省区系分化率最低的区域主要为荔波县、道真县（图1：d）。对比相同物种丰富度，属数量越多，种属比越小，区系分化率越高，反之亦然。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a.物种丰富度；b.特有种丰富度；c.特有种/所有种比值；d.物种数/属数比值。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca17eba3c9d9be053d9e9d8a473243d6f2d948f384f1b3676c158fcc9782e7a7.jpg",
+        "img_caption": [
+            "图1县级尺度下贵州野生苦苣苔科植物丰富度分布格局"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ".Species richness; b.Abundance of endemic species; c.Ratio of endemic/all species; d. Ratio of species/genus ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Distribution pattern of wild Gesneriaceae richness in Guizhou at county scale ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2垂直分布",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "野生苦苣苔科植物在贵州省垂直分布特征比较明显，按 $4 0 0 \\mathrm { m }$ 为一个梯度，划分为7个海拔段（赵熙黔和安明态，2015），即：H1（ $1 4 8 { \\sim } 5 0 0 \\mathrm { m }$ ）、H2( $5 0 0 { \\sim } 9 0 0 \\mathrm { m }$ ）、H3（ $9 0 0 { \\sim } 1 3 0 0 \\mathrm { m }$ ）、H4（ $1 3 0 0 { \\sim } 1 7 0 0 \\mathrm { m }$ ）、H5（ $1 7 0 0 { \\sim } 2 1 0 0 \\mathrm { m }$ ）、H6（ $2 \\ 1 0 0 { \\sim } 2 \\ 5 0 0 \\ \\mathrm { m }$ ）、 $\\mathrm { H } 7$ ( $2 5 0 0 { \\sim } 2 9 0 0 \\mathrm { m }$ ）（表3，图2，图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，贵州省苦苣苔科植物在垂直分布上H3海拔段属/种数分布最多，共计24属99种，其物种数占全省总数的 $6 4 . 7 1 \\%$ 。总体来看，较低海拔段属种分布较丰富，当海拔达到H3时达到最大值，随后物种数和属数逐渐减少。由图3可知，不同属在不同海拔阶段分布差异较大，如马铃苣苔属的物种数量从H1海拔段增加至H3海拔段后开始不断减少，报春苣苔属（Primulina Hance）和半蒴苣苔属（HemiboeaC.B.Clarke）主要分布低海拔阶段，当海拔超过 $9 0 0 \\mathrm { ~ m ~ }$ 时随着海拔的升高，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "逐渐减少。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ed4ba196d6541ae8afe6ed6a83049867d24de3882c4fcd1382b9ec4c45cc352.jpg",
+        "table_caption": [
+            "表3不同海拔段的属种差异",
+            "Table 3 Differences of genera and species at different altitudes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>海拔段</td><td>代号</td><td>属数</td><td>物种数</td><td>属种比</td></tr><tr><td>Altitude section（m)</td><td>Code name</td><td>Genus</td><td>Species</td><td>Ratio of genus/species</td></tr><tr><td>148~500 500~900</td><td>H1</td><td>14</td><td>44</td><td>0.32</td></tr><tr><td>900~1 300</td><td>H2</td><td>19</td><td>84 99</td><td>0.23 0.24</td></tr><tr><td>1 300~1700</td><td>H3 H4</td><td>24 24</td><td>59</td><td>0.41</td></tr><tr><td>1 700~2100</td><td>H5</td><td>16</td><td>33</td><td></td></tr><tr><td>2 100~2 500</td><td>H6</td><td>12</td><td>22</td><td>0.48 0.55</td></tr><tr><td>2 500~2 900</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>H7</td><td>6</td><td>7</td><td>0.86</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6da39c7747141d2c27f9ae618b9713d1bf00d60aa6bb4d81c8e4d989c2de2bf.jpg",
+        "img_caption": [
+            "图2贵州苦苣苔科植物垂直分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cefba67c58b5468e22263116dabe9e3e33d7104b02a597a3854422487790006.jpg",
+        "img_caption": [
+            "Fig.2 Vertical distribution of Gesneriaceae in Guizhou ",
+            "图3苦苣苔科植物不同海拔段优势属（ $: \\geqslant 1 0$ ）差异"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Differences of dominant genera ( $( \\geqslant 1 0 )$ in different altitudes of Gesneria ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过统计各海拔段物种数量，并用Jaccard相似性系数来计算（陈圣宾等，2010；赵熙黔和安明态，2015；凌少军等，2017），其表达式如下： $C _ { j } { = } j / ( a { + } b { - } j )$ ，式中： $C _ { j }$ 表示为相似性系数；a、 $b$ 分别为A、B海拔段的苦苣苔科植物种类数量； $j$ 为两海拔段共有的苦苣苔科植物数量。由表4可知，21组相似性数据的平均值为0.2127，其中最小值为0，最大值为0.5278。不同海拔段之间相距越远，生态环境差异越大，物种组成相似性系数越小，反之亦然。如H1与H7的相似性系数为0，最低海拔与最高海拔分布的物种所适应的环境不同，无共同物种分布。中低海拔分布的物种最多但绝大多数具有特有性，共同物种较少，因此其相似性系数并不是最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4贵州省不同海拔段苦苣苔科植物物种相似性系数",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 4 Similarity coefficients of Gesneriaceae species at different altitudes in Guizhou ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac9c0aa631d12fda09ff491140812455883ad08f174e582a5619d93602941cec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>海拔段 Altitude section</td><td>H2</td><td>H3</td><td>H4</td><td>H5</td><td>H6</td><td>H7</td></tr><tr><td>H1</td><td>0.406 6</td><td>0.254 4</td><td>0.197 7</td><td>0.069 4</td><td>0.047 6</td><td>0.000 0</td></tr><tr><td>H2</td><td></td><td>0.464 0</td><td>0.265 5</td><td>0.125 0</td><td>0.081 6</td><td>0.011 1</td></tr><tr><td>H3</td><td></td><td></td><td>0.436 4</td><td>0.222 2</td><td>0.130 8</td><td>0.039 2</td></tr><tr><td>H4</td><td></td><td></td><td></td><td>0.415 4</td><td>0.246 2</td><td>0.064 5</td></tr><tr><td>H5</td><td></td><td></td><td></td><td></td><td>0.527 8</td><td>0.142 9</td></tr><tr><td>H6</td><td></td><td></td><td></td><td></td><td></td><td>0.318 2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4热点地区",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用筛除算法（Dobson,1997；张晓龙，2014；张殷波等，2015）对贵州省野生苦苣苔科植物分布的热点地区进行筛选，当包含物种数累计达到 $7 5 \\%$ 时共筛选得到10个县，分布111种苦苣苔科植物，包含荔波县、赤水市、兴义市、贞丰县、威宁彝族回族苗族自治县、江口县、贵定县、道真县、盘州市和沿河土家族自治县。其中荔波县分布有51种，成为贵州省苦苣苔科植物种类最为丰富的县级行政区。分布2种的有9个县，剩下的县级区域只分布1种苦苣苔科植物，且仅在该区域有分布，如文采后蕊苣苔(Oreochariswentsaii)、万山金盏苣苔( $\\boldsymbol { O }$ 、wanshanensis)、琦润石蝴蝶（Petrocosmeaqiruniae）等。当包含物种数累计达到 $100 \\%$ 时共筛选得到39个热点县，包含苦苣苔科植物153种（图4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1ade14dcc50e9846be6130fb893a1ef34502592614db2bc21fdcdd1fa193bad.jpg",
+        "img_caption": [
+            "图4基于筛除算法确立的贵州省苦苣苔科植物分布的热点地区 Fig. 4 Hot spots of Gesneriaceae in Guizhou Province based on screening algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1贵州省苦苣苔科植物物种多样性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "贵州省地处云贵高原，是南方喀斯特中心区域之一，属于典型的亚热带季风气候类型。不同类型的地貌环境和气候条件为苦苣苔科植物的生长提供了多样的生境。据统计，贵州省苦苣苔科植物共有2族8亚族28属153种，占中国苦苣苔科植物总属数的 $6 2 . 2 2 \\%$ ，总种数的 $1 9 . 4 7 \\%$ ，是中国苦苣苔科植物重要的分布中心之一，中国特有种和贵州特有种种类丰富。广义马铃苣苔属、广义报春苣苔属、半蒴苣苔属、石蝴蝶属、石山苣苔属、蛛毛苣苔属和吊石苣苔属为贵州省的优势属，共计114 种。物种数排名前二的广西和云南，其属数占中国苦苣苔科植物总属数分别为 $7 3 . 3 3 \\%$ 和 $7 5 . 5 6 \\%$ .与贵州的属数差异不大，但两省的物种数占中国总种数的比例远高于贵州省，分别为 $4 0 . 7 1 \\%$ 和$3 5 . 8 8 \\%$ ，由此可见，贵州省苦苣苔科植物资源的野外调查工作和研究还不够深入，可能存在大量新类群未被发现。随着交通条件的改善以及各类旅游区和景区开发，一定程度上降低了野外调查工作的难度，在目前贵州省苦苣苔科植物地理分布现状的基础上，进一步加强对该科植物的野外调查和系统研究，将是今后一段时间贵州省苦苣苔科植物物种多样性工作的重点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2贵州省苦苣苔科植物地理分布格局",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "贵州省苦苣苔科植物分布十分广泛，据统计在75个县级行政区均有分布，集中分布在黔南州、黔西南州和遵义市，有128/45个中国/贵州特有种。苦苣苔科植物对生境要求较特殊，因此该科植物的多样性格局可以间接地反映一个区域生物多样性丰富度的状况。分析特有苦苣苔科植物在每一区域内所占比例，可以得到特有比例非常高的一些重要区域在贵州省呈现出离散的分布格局，尤其是一些物种丰富度很低的地区其特有种比例却很高，这一结果与筛除算法得到 $100 \\%$ 物种时的热点地区相吻合。虽然这些区域的物种多样性较低，但是分布了一些区域特有种，因此不可替代性和补充贡献率较高，为了进一步提高野生苦苣苔科植物的保护效率，这些区域的保护优先性应该得到提升。当包含物种数累计达到 $100 \\%$ 时共筛选得到39个热点县，包含苦苣苔科植物153种，在县级尺度上，荔波县、兴义市和赤水市等为贵州省苦苣苔科植物集中分布区域，其中，荔波县成为贵州省苦苣苔科植物种类分布最丰富的县。在垂直分布上，主要分布海拔为 $5 0 0 { \\sim } 1 7 0 0 \\mathrm { m }$ ，最大峰值在 $9 0 0 { \\sim } 1 ~ 3 0 0 ~ \\mathrm { m }$ 海拔段。如贵州省的报春苣苔属、半蒴苣苔属大部分物种分布在海拔 $9 0 0 \\mathrm { ~ m ~ }$ 及以下，石山苣苔属多分布于海拔 $5 0 0 { \\sim } 1 0 0 0 \\mathrm { m }$ 处，而马铃苣苔属则海拔分布跨度大，从 $3 0 0 { \\sim } 2 6 0 0 \\mathrm { m }$ 均有可能出现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "贵州与广西的相似程度最高，可能因为贵州省大部分种类分布于南部，与广西相邻，地貌特征与气候类型都非常相似，但数据显示，相似性系数总体较低，可能是调查不够全面，还存在大量的新类群和共有种未被调查到；又或许是各省独特的地理环境和温暖湿润的热带亚热带气候为野生苦苣苔科植物的生长发育提供了多样的生境条件，使得贵州、广西、云南等地的苦苣苔科植物具较高的区域特有性，如盘州马铃苣苔(Oreocharis panzhouensis)、威宁短檐苣苔(O.pankaiyuae var.weiningense)、卵瓣马铃苣苔(O.ovatilobata)等在贵州省仅分布于海拔 $1 \\ 7 0 0 \\ \\mathrm { m }$ 以上。因此，高山深谷形成的生境隔离可能促进了苦苣苔科物种的形成与维持（韦毅刚等，2004）。为了进一步提高贵州省苦苣苔科物种多样性，应加强对热点地区以及特有性较高的区域进行系统考察，同时需重视文献资料未覆盖的区域，对适宜该科植物分布的小生境地带进行全面调查，如常绿阔叶林林下、石灰岩岩壁上、洞穴、天坑、峡谷、近水地带等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3贵州省苦苣苔科植物资源保护与利用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科植物的保护工作刻不容缓，在进行野外调研时发现，少部分苦苣苔科植物种类呈现较大居群，但有部分种群逐渐变小，这是由于大部分苦苣苔科植物适宜的洞穴、石灰岩岩壁、峡谷等特殊生境遭到了破坏，种群很难恢复，还有一部分具有药用价值的种类被人类大量采挖，造成居群破坏，导致种群日趋减少甚至消亡，所以自然环境的保护对野生苦苣苔科植物具有非常重要的意义。因此，应该对贵州省苦苣苔科植物资源的保护引起重视，尽快完善苦苣苔科植物的分布情况及种群现状信息，加强苦苣苔科植物资源的调查和科学研究，准确把握资源分布、数量、生长状态等，确定优先保护类群和优先保护区域，防止物种消失；了解重要区域内该科植物物种多样性的状况和面临的威胁，制定针对性的保护措施，积极开展对苦苣苔科植物热点地区内的人民群众进行科普宣传和教育工作，采用以就地保护为主，迁地保育为辅的指导原则来开展有效的保护工作，减少和消除人为干扰，从而提高苦苣苔科植物资源的保护成效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科植物株型多样、花色绚丽、花朵结构精巧等，具有较高的观赏价值，深受人们的青睐。贵州省苦苣苔科植物种类丰富、适应类型多、一年四季几乎都有花开，种内往往产生各种各样的形态变异，具有极高的观赏价值，但几乎都处于野生状态，未能得到很好地开发利用。绝大部分种类喜生于潮湿的石灰岩岩壁、石缝、峡谷，还有一部分喜生于密林下阴湿处，可借鉴其自然环境下的生长特性与岩石及其他岩生观赏植物进行搭配，营造出独具特色的景观。一些叶大株高花朵艳丽的种类，如半蒴苣苔（Hemiboea subcapitata）、荔波报春苣苔(Primulina liboensis)、牛耳朵(P.eburnea)等，以其耐荫的特性可作为林下花境、荫生地被等，丰富了植物群落层次结构。总而言之，该科植物是假山造景、盆花和花境等特色景观的优良材料，具有很大的开发潜力，因此，建议深入研究苦苣苔科植物的种质资源，引种驯化观赏价值较高的种类，使美丽的野生苦苣苔科观赏植物走出深山，应用到花卉产业中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CAI L, GUO Y, ZHANG RM, et al., 2019. Oreocharis panzhouensis (Gesneriaceae), a new species from ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DOBSON AP,RODRIGUEZ JP,ROBERTS WM, et al.，1997. Geographic distribution of endangeredspecies in the United States[J]. Science,275: 550-553.  \nFU LF,LI S, XIN ZB,et al.,2O19.The changes of the Chinese names and scientific names of Gesneriaceaein China between Wang's and Weber's classifications for Gesneriaceae[J]. Guangxi Sci, 26(1):118-131.[符龙飞，黎舒，辛子兵，等，2019．中国苦苣苔科植物中王文采旧分类系统与 Weber新分类系统的名实更替[J]．广西科学，26(1)：118-131.]  \nFU Q,GUO Y, HUANG R, et al., 2019. Oreocharis ovatilobata (Gesneriaceae), a new species fromGuizhou, China[J]. Ann Bot Fenn, 56: 259-265.  \nFU Q,XIA Y,GUO Y, et al., 2019. Oreocharis odontopetala, a new species of Gesneriaceae fromGuizhou, China[J]. PhytoKeys,124: 1-9.  \nFAN ZW,CAIL, YANG JW, et al., 2020. Petrocodon luteoflorus (Gesneriaceae), a new species from karstregion in Guizhou, China[J]. PhytoKeys,157: 167-173.  \nGE YZ, XIN ZB,LI S,et al.，2020. Study on endangered degree and conserved levels for plants ofGesneriaceae in Guangxi[J].Guihaia,40(10):1491-1504.[葛玉珍，辛子兵，黎舒，等，2020.广西苦苣苔科植物濒危程度和优先保护序列研究[J]．广西植物，40(10)：1491-1504.]  \nGUO ZY,LI ZY, XIANG XG, 2018. Oreocharis duyunensis (Gesneriaceae), a new species from Guizhou,China[J]. Nord JBot, 36(9): 1-7.  \nGUO ZY, WU ZW, XU WB, et al., 2020. Paraboea dolomitica (Gesneriaceae), a new species fromGuizhou, China[J]. PhytoKeys,153: 37-48.  \nHAN MQ, 2O18.Taxonomic studies of Petrocosmea (Gesneriaceae) in China[D]. Guilin: Guangxi NormalUniversity.[韩孟奇，2018．中国石蝴蝶属（苦苣苔科）的分类学研究[D]．桂林：广西师范大学.]  \nHONG X, KEENE J, SHAN WY,et al.,2020. Taxonomic identity of Primulina swinglei (Gesneriaceae)[J].Guihaia,40(10):1393-1401.[洪欣，KEENE Jeremy，单皖粤，等，2020．钟冠报春苣苔（苦苣苔科）的分类鉴定（英文）[J].广西植物，40(10)：1393-1401.]  \nHONG X,LI S, CAI L, et al.,2019. Preliminary study on the selecting/formulating rules of Chinese namesof Chinese Gesneriaceae[J].Guangxi Sci,26(1): 17-36.[洪欣，黎舒，蔡磊，等，2019．中国苦苣苔科植物物种中文名的选定/拟定原则建议初探[J]．广西科学，26(1)：17-36.]  \nLI YK,1988.Flora of Guizhou: Vol. 4[M]. Chengdu: Sichuan minorities press: 581-672.[李永康，1988.贵州植物志：第4卷[M]．成都：四川民族出版社：581-672.]  \nLI ZY，1996. The geographical distribution of the subfamily Cyrtandroideae Endl. Emend. Burtt(Gesneriaceae)[J].Acta Phytotax Sin,34(4):341-360.[李振宇，1996．苦苣苔亚科的地理分布[J].植物分类学报，34(4)：341-360.]  \nLI ZY，WANG YZ，2O05.Plants of Gesneriaceae in China[M]. Zhengzhou: Henan Science andTechnology Publishing House.[李振宇，王印政，2005．中国苦苣苔科植物[M]．郑州：河南科学技术出版社.]  \nLIU MT, YU YS,LIU CG, et al., 2020. Textual research on type locality of Petrocodon scopulorum[J].Guihaia,40(10)：1450-1456．[刘明涛，余跃生，刘承贵，等，2020．世纬苣苔模式产地的考证[J].广西植物，40(10)：1450-1456.]  \nLU ZC, NGUYEN KS, PHAN KL, et al., 2020. Discovery ofa rare genus Litostigma (Gesneriaceae) fromnorthern Vietnam with the supplementary description of L. crystallinum[J]. Guihaia, 40(10):1445-1449.[陆昭岑，NGUYEN Khang Sinh,PHAN Ke Loc，等，2020．苦苣苔科凹柱苣苔属在越南的发现及水晶凹柱苣苔的补充描述[J]．广西植物，40(10)：1445-1449.]  \nLUO Y, DENG LY, YANG CH, 2015. Guizhou Vascular Plant[M]. Beijing: China Forestry PublishingHouse:406-412.[罗扬，邓伦秀，杨成华，2015．贵州维管束植物编目[M]．北京：中国林业出版社：406-412.]other genera [J]. Gardens Bull Singap, 66(2): 195-205.  \nMOLLER M, MIDDLETON DJ, NISHII K, et al.,2011. A new delineation for Oreocharis incorporatingan additional ten genera of Chinese Gesneriaceae [J]. Phytotaxa, 23: 1-36.  \nMOLLER M, WEI YG, WEN F, et al.,2016. You win some you lose some: updated generic delineationsand classification of Gesneriaceae—implications for the family in China[J]. Guihaia,36(1):44-60.[MOLLERMichael，韦毅刚，温放，等，2016．得与失：苦苣苔科新的属级界定与分类系统——中国该科植物之变迁[J].广西植物，36(1)：44-60.]  \nPENG T, XU T,2019. Opithandra fargesi,a newly-recorded species of Gesneriaceae from Guizhou[J].Mol Plant Breed,17(8):2724-2727.[彭涛，徐婷，2019．贵州苦苣苔科一新记录种— -皱叶后蕊苣苔[J]．分子植物育种，17(8)：2724-2727.]  \nQIU ZJ,LIU ZY,2015.Plants of Petrocosmea in China[M]. Beijing: Science Press.[邱志敬,刘正宇,2015.中国石蝴蝶属植物[M].北京：科学出版社.]  \nSULY,PENG T,ZHAO ZG, et al., 2019.Petrocodon chongqingensis,a new species of Gesneriaceae fromChongqing City,China[J].Guihaia,39(8):997-1006.[苏兰英，彭涛，赵志国，等，2019．苦苣苔科石山苣苔属一新种——重庆石山苣苔[J].广西植物，39(8)：997-1006.]  \nTANG SH, LI S, YANG JW, et al.， 2020. Catalogue of Gesneriaceae species in Guizhou, China[J].Guizhou Sci,38(1):1-7.[汤升虎，李讽，杨加文，等，2020．贵州苦苣苔科植物名录[J]．贵州科学，38(1): 1-7.]  \nWANG WT,1990.Flora Reipublicae Popularis Sinicae [M]. Beijing: Science Press: 69: 125-581.[王文采,1990.中国植物志[M]．北京：科学出版社：69：125-581]  \nWANG WT,PAN KY,LI ZY, et al.,1998. Gesneriaceae [M]// WU ZY,RAVEN PH (eds). Flora of China.Beijing: Science Press; St.Louis: Missouri Botanical Garden Press,18: 244-401.  \nWEBER A, MIDDLETON DJ, FORREST A, et al.， 2011a. Molecular systematics and remodelling ofChirita and associated genera (Gesneriaceae) [J]. Taxon, 6O(3): 767-790.  \nWEBER A, WEI YG,PUGLISI C,et al.,2011b.A new definition of the genus Petrocodon (Gesneriaceae)[J]. Phytotaxa, 23: 49-67.  \nWEBER A, WEI YG, SONTAG S,et al., 2011c. Inclusion of Metabriggsia into Hemiboea (Gesneriaceae)[J]. Phytotaxa, 23: 37-48.  \nWEI YG, 2O10. Gesneriaceae of South China[M]. Nanning: Guangxi Science and Technology PublishingHouse:606-645.[韦毅刚，2010.华南苦苣苔科植物[M]．南宁：广西科学技术出版社：606-645.]  \nWEI YG, WEN F, CHEN WH, et al., 2010. Litostigma, a new genus from China: A morphological linkbetween basal and derived didymocarpoid Gesneriaceae [J]. Edinb JBot, 67(1): 161-184.  \nWEI YG, ZHONG SH,WEN HQ, 2004. Studies of the flora and ecology Gesneriaceae in GuangxiProvince[J].Plant Divers Resour,26:173-182.[韦毅刚，钟树华，文和群，2004．广西苦苣苔科植物区系和生态特点研究[J]．植物分类与资源学报，26：173-182.]  \nWEN F, 2O08. Studies on investigation and introduction of wild ornamental resources of Gesneriaceae inGuangxi[D].Beijing:Beijing Forestry University.[温放，2008．广西苦苣苔科观赏植物资源调查与引种研究[D]．北京：北京林业大学.]  \nWEN F,2020.Introduction of Gesneriaceae[J].Guihaia,40(10).[温放，2020．苦苣苔科植物介绍[J].广西植物，40(10).]  \nWEN F,LI S, XIN ZB,et al.,2019.The updated plant list of Gesneriaceae in China under the new Chinesenaming rules[J].Guangxi Sci,26(1):37-63.[温放，黎舒，辛子兵，等，2019．新中文命名规则下的最新中国苦苣苔科植物名录[J].广西科学，26(1)：37-63.]  \nWENF,WEI YG,FU LF, et al., 2020.The Checklist of Gesneriaceae in China[EB/OL]. The GesneriadConservation Center of China, htp://gcc.gxib.cn/cn/about-68.aspx.[温放，韦毅刚，符龙飞，等，2020.中国苦苣苔科植物名录[EB/OL].中国苦苣苔科植物保育中心，http://gccc.gxib.cn/cn/about-68.aspx.]  \nWU ZW, GUO ZY, DENG CY, et al., 2019. Hemiboea albiflora, a new species of Gesneriaceae fromGuizhou, China[J]. PhytoKeys,122: 79-86.  \nXIN ZB,FULF,LI S,et al.,2O19.The historical changes in the classification of Chinese Gesneriaceae: Onthe analysis of new taxonomic group qualifiedly published in China and new records of nationaldistribution of this family [J].Guangxi Sci,26(1):102-117.[辛子兵，符龙飞，黎舒，等，2019.中国苦苣苔科植物的分类系统历史变化——兼论该科植物在我国合格发表的新分类群与国家级分布新记录情况分析[J].广西科学，26(1)：102-117.]  \nXIN ZB,FULF, HUANG ZJ, et al., 2O20. Petrocodon chishuiensis (Gesneriaceae),a new species endemicto Guizhou, China[J]. Taiwania, 65(2): 181-186.  \nXU T, 2020. A taxonomic study of Gesneriaceae at Guizhou Maolan National Nature Reserve[D]. Guiyang:Guizhou Normal University.[徐婷，2020．贵州茂兰国家级自然保护区苦苣苔科植物分类学研究[D]．贵阳：贵州师范大学.]  \nXU WB,GUO J, PAN B,et al.，2017. Diversity and distribution of Gesneriaceae in China[J]. Guihaia,37(10):1219-1226.[许为斌，郭婧，盘波，等，2017.中国苦苣苔科植物的多样性与地理分布[J].广西植物，37(10)：1219-1226.]  \nXU X,ZHANG HY, XIE T,et al.,2O18.Elevational pattern of seed plant diversity in Xishuangbanna andits mechanisms[J].Biodivers Sci,26(7):678-689.[徐翔，张化永，谢婷，等，2018．西双版纳种子植物物种多样性的垂直格局及机制[J]．生物多样性，26(7)：678-689.]  \nYANG JW, CAI L, 2019. Four newly recorded species of Gesneriaceae in Guizhou Province[J]. GuangxiSci,26(1):86-88.[杨加文,蔡磊,2019．贵州苦苣苔科植物4新记录种[J].广西科学,26(1):86-88.]  \nYANG L, JIANG YL， YANG CH, et al. 2020. Study on germplasm resources of Denddrobium inGuizhou[J].Seed,39(2):57-62.[杨林，姜运力，杨成华，等，2020．贵州石斛属植物种类资源研究[J]．种子，39(2)：57-62.]  \nYANG LH, FENG C， XU MZ, et al.， 2019. Synopsis of cytological studies on Didymocarpoideae(Gesneriaceae) under new classfication system[J]. J Trop Subtrop Bot, 27(5): 548-557.[杨丽华，冯晨，徐梅珍，等，2019．新分类系统下长蒴苣苔亚科（苦苣苔科）细胞学研究概述[J]．热带亚热带植物学报,27(5)：548-557.]  \nZHANG XL, 2014. Study on geographic distribution pattern of the wild Orchidaceae plants in China[D].Taiyuan: ShanxiUniversity.[张晓龙，2014．中国野生兰科植物地理分布格局研究[D]．太原：山西大学.]  \nZHANG YB,DU HD, JIN XH,et al.，2015. Species diversity and geographic distribution of wildOrchidaceae in China[J].Chin Sci Bull,60(2):179-188.[张殷波，杜昊东，金效华，等，2015．中国野生兰科植物物种多样性与地理分布[J]．科学通报，60(2)：179-188.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/64e097f8f10aa2f6b06b0dc16a40af4f06440f168c9a0ba18c47f4d3f737d897.jpg",
+        "table_caption": [
+            "附录1贵州省苦苣苔科植物名录",
+            "Appendix1List of Gesneriaceae plants in Guizhou Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名</td><td>序号 surial</td><td>种es</td><td>中国/贵州特有种 Endemi Guzcies</td><td>Dis分ibution</td></tr><tr><td rowspan=\"3\">异叶苣苔属</td><td>1</td><td>毕节异叶苣苔 Whytockia bijieensis</td><td>是/是 Yes/Yes</td><td>七星关区 Qixingguan District</td></tr><tr><td>2</td><td>峨眉异叶苣苔i</td><td>是</td><td>七星关区Qixingguan District 贞丰县、兴仁市、印江土家族苗族自治县、江口县、从江县、</td></tr><tr><td>3</td><td>W白花异叶苣</td><td>是香</td><td>ZhenfengC星a Autonomous County, Jiangkou County, Cong Jiang County,</td></tr><tr><td>尖舌苣苔属 Rhynchoglossum</td><td>1</td><td>尖舌苣苔 Rhynchoglossum obliquum</td><td>否/否 No/No</td><td>Qixingguan District, Chishui City*, Duyun City* 册亨县、兴义市、荔波县、织金县*、望谟县*、紫云苗族布依 族自治县* Ceheng County, Xingyi City,Libo County, Zhijin County *,</td></tr><tr><td>盾座苣苔属</td><td>1</td><td>盾座苣苔 Epithema carnosum</td><td>香</td><td>Wangmo County *, Ziyun Miao and Buyi Autonomous County* Xingyiiy市、册g县*望*unty</td></tr><tr><td>凹柱苣苔属 Litostigma</td><td>1</td><td>凹柱苣苔 Litostigma coriaceifolium</td><td>是/是 Yes/Yes</td><td>Shuicheng District* 兴义市Xingyi City</td></tr><tr><td>珊瑚苣苔属 Corallodiscus</td><td>1</td><td>珊瑚苣苔 Corallodiscus lanuginosus</td><td>否/否 No/No</td><td>道真仡佬族苗族自治县、盘州市、松桃苗族自治县、印江土家 族苗族自治县、沿河土家族自治县、普安县、册亨县、晴隆县、 大方县、七星关区、威宁彝族回族苗族自治县、赫章县、凯里 市、西秀区、赤水市、贵定县、惠水县、习水县、兴义市、荔 波县、思南县 Daozhen Gelao and Miao Autonomous County,Panzhou City, Songtao Miao Autonomous County,Yinjiang Tujia and Miao Autonomous County, Yanhe Tujia Autonomous County,Pu'an County, Ceheng County, Qinglong County,Dafang County, Qixingguan District,Weining Yi and Hui and Miao Autonomous</td></tr><tr><td></td><td></td><td></td><td></td><td>County,Hezhang County,Kaili City, Xixiu District, Chishui City, Guiding County,Huishui County,Xishui County, Xingyi City, Libo County, Sinan County</td></tr><tr><td>Beccarinda</td><td>1</td><td>横蒴苣苔 Beccarinda tonkinensis 线柱苣苔</td><td>否/否 No/No 否/否</td><td>望谟县、赤水市、绥阳县、荔波县 Wangmo County,Chishui City,Suiyang County,Libo County 安龙县、榕江县、荔波县、赤水市*</td></tr><tr><td>线柱苣苔属 Rhynchotechum</td><td></td><td>Rhynchotechum ellipticum</td><td>No/No</td><td>Anlong County,Rongjiang County,Libo County,Chishui City*</td></tr><tr><td rowspan=\"10\"></td><td>2</td><td>冠萼线柱苣苔R.formosanum</td><td>香香 是/是</td><td>都匀市 Duyun City 兴仁市、贞丰县</td></tr><tr><td>1</td><td>辐花苣苔 Oreocharis esquirolii</td><td>Yes/Yes</td><td>Xingren City, Zhenfeng County</td></tr><tr><td>2</td><td>威宁短檐苣苔 O. pankaiyuae var. weiningense</td><td>是/是 Yes/Yes</td><td>威宁彝族回族苗族自治县 Weining Yi and Hui and Miao Autonomous County</td></tr><tr><td>3</td><td>东川短檐苣苔O.mairei</td><td>是/否</td><td>盘州市 Panzhou City</td></tr><tr><td>4</td><td>南川金盏苣苔O.nanchuanica</td><td>Yes/No 是/否</td><td>道真仡佬族苗族自治县</td></tr><tr><td></td><td></td><td>Yes/No 是/是</td><td>Daozhen Gelao and Miao Autonomous County</td></tr><tr><td>5</td><td>万山金盏苣苔O.wanshanensis</td><td>Yes/Yes 是/否</td><td>万山区Wanshan District</td></tr><tr><td>6</td><td>弥勒苣苔 O.mileensis</td><td>Yes/No</td><td>兴义市 Xingyi City 开阳县、威宁彝族回族苗族自治县、绥阳县、安龙县、织金县*</td></tr><tr><td>7</td><td>川滇马铃苣苔O.henryana</td><td>是/否 Yes/No</td><td>Kaiyang County,Weining Yi and Hui and Miao Autonomous County, Suiyang County,Anlong County, Zhijin County* 印江土家族苗族自治县、江口县、雷山县、独山县、关岭布依</td></tr><tr><td>8</td><td>长瓣马铃苣苔 O. auricula</td><td>是/否 Yes/No</td><td>族苗族自治县、荔波县、榕江县、三都水族自治县、罗甸县 Yinjiang Tujia and Miao Autonomous County, Jiangkou County, Leishan County,Dushan County, Guanling Buyi and Miao</td></tr><tr><td></td><td></td><td></td><td>Autonomous County, Libo County, Rongjiang County,Sandu Shui Autonomous County,Luodian County</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2aa8549e2ef8f8e7d68733b307ff0f3e6a3a70312a74fb448cba96832f6fe75c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名</td><td>序号 Serial</td><td>种名</td><td>中国/贵州特有种 Endemic species</td><td>Disibation</td></tr><tr><td></td><td>number 10</td><td>贵州马铃苣苔 O.cavaleriei</td><td>of China/Guizhou 是/是</td><td>龙里县Longli County</td></tr><tr><td></td><td>11</td><td>都匀马铃苣苔 O.duyunensis</td><td>Yes/Yes 是/是</td><td>都匀市 Duyun City</td></tr><tr><td></td><td>12</td><td>盘州马铃苣苔O.panzhouensis</td><td>Yes/Yes 是/是</td><td>盘州市 Panzhou City</td></tr><tr><td></td><td>13</td><td>齿瓣粗筒苣苔 O.odontopetala</td><td>Yes/Yes /s</td><td>盘州市 Panzhou City</td></tr><tr><td></td><td>14</td><td></td><td>是/否</td><td>开阳县、清镇市、江口县、道真仡佬族苗族自治县 Kaiyang County, Qingzhen City, Jiangkou County,</td></tr><tr><td></td><td></td><td></td><td>Yes/No 是/否</td><td>Daozhen Gelao and Miao Autonomous County 威宁彝族回族苗族自治县</td></tr><tr><td></td><td>15</td><td>凸瓣苣苔 O.convexa</td><td>Yes/No 是/是</td><td>Weining Yi and Hui and Miao Autonomous County 观山湖区、惠水县</td></tr><tr><td></td><td>16 17</td><td>贵州直瓣苣苔 O.notochlaena</td><td>Yes/Yes 是/否 Yes/No</td><td>Guanshanhu District, Huishui County 道真仡佬族苗族自治县 Daozhen Gelao and Miao Autonomous County</td></tr><tr><td>18</td><td></td><td>川鄂粗筒苣苔</td><td>是/否 Yes/No</td><td>印江土家族苗族自治县、江口县、清镇市、雷山县、道真仡佬 族苗族自治县、赤水市、绥阳县、松桃苗族自治县、石阡县、 贞丰县、兴仁市、普安县、盘州市、都匀市* Yinjiang Tujia and Miao Autonomous County, Jiangkou County, Qingzhen City,Leishan County,Daozhen Gelao and Miao Autonomous County, Chishui City, Suiyang County, Songtao Miao</td></tr><tr><td></td><td></td><td></td><td></td><td>Autonomous County, Shiqian County, Zhenfeng County, Xingren City,Pu'an County,Panzhou City,Duyun City*</td></tr><tr><td></td><td>19</td><td>贞丰粗筒苣苔 O.rosthornii var. crenulata</td><td>是/是 Yes/Yes</td><td>贞丰县、石阡县 Zhenfeng County, Shiqian County</td></tr><tr><td></td><td>20</td><td>0.rosheens</td><td>是/s</td><td>兴仁市 Xingren City 贵定县、独山县、荔波县、赤水市、雷山县</td></tr><tr><td></td><td>21</td><td>紫花粗筒苣苔 O.elegantissima</td><td>是/是 Yes/Yes</td><td>Guiding County, Dushan County, Libo County, Chishui City,Leishan County</td></tr><tr><td></td><td>22</td><td>平伐粗筒苣苔 O.pinfaensis</td><td>/</td><td>Guiding定县、y都ayun City</td></tr><tr><td></td><td>23</td><td>小叶粗筒苣苔 O.parvifolia</td><td>是/是 Yes/Yes</td><td>贵定县 Guiding County</td></tr><tr><td></td><td>24</td><td>灰叶后蕊苣苔O.cinerea</td><td>是/否 Yes/No</td><td>剑河县 Jianhe County</td></tr><tr><td></td><td>25</td><td>皱叶后蕊苣苔O.stenosiphon</td><td>是/否 Yes/No</td><td>江口县 Jiangkou County</td></tr><tr><td></td><td>26</td><td>文采后蕊苣苔0.wentsaii</td><td>是/否 Yes/No</td><td>台江县 Taijiang County</td></tr><tr><td></td><td>27</td><td>卵瓣马铃苣苔O.ovatilobata</td><td>是/是 Yes/Yes</td><td>盘州市 Panzhou City 道真仡佬族苗族自治县、贞丰县</td></tr><tr><td></td><td>28</td><td>东川粗筒苣苔 O.tongtchouanensis</td><td>是/否 Yes/No 是/否</td><td>Daozhen Gelao and Miao Autonomous County, Zhenfeng County</td></tr><tr><td></td><td>29</td><td>浙皖粗筒苣苔 O.chienii</td><td>Yes/No</td><td>贞丰县 Zhenfeng County</td></tr><tr><td></td><td>30</td><td>黄花直瓣苣苔O.gamosepala</td><td>是/否 Yes/No</td><td>威宁彝族回族苗族自治县 Weining Yi and Hui and Miao Autonomous County</td></tr><tr><td>筒花苣苔属 Briggsiopsis</td><td>1</td><td>筒花苣苔 Briggsiopsis delavayi</td><td>是/否 Yes/No</td><td>习水县、赤水市 Xishui County, Chishui City</td></tr><tr><td>漏斗苣苔属</td><td></td><td>大苞漏斗苣苔</td><td>香/否</td><td>兴仁市、安龙县、册亨县、望谟县、绥阳县、荔波县、赤水市、 贞丰县</td></tr><tr><td>aphiocarpus</td><td>1</td><td>Raphiocarpusbegoniifolius</td><td>No/No</td><td> Xingren City,Anlong county, Ceheng County, Wangmo County,</td></tr><tr><td>华菊苣苔属</td><td></td><td></td><td>是香</td><td>Suiyang County,Libo County,Chishui City, Zhenfeng County Libo波县、州hou City</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/810be1c504c251eb9db8868659254767abbbe9c0372944ba4dedb71138bd7872.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>seribelr</td><td>Species</td><td> Efndemic Guizhes</td><td colspan=\"2\">Distribution</td></tr><tr><td></td><td>贵州半蒴苣苔</td><td>是/否</td><td>贵定县、七星关区、兴仁市、安龙县、兴义市、册亨县、独山 县、道真仡佬族苗族自治县、赤水市、荔波县、罗甸县、绥阳 县*</td><td></td></tr><tr><td>2</td><td>H. cavaleriei</td><td>Yes/No</td><td></td><td>Guiding County, Qixingguan District, Xingren City, Anlong County,Xingyi City,Ceheng County,Dushan County,Daozhen Gelao and Miao Autonomous County,Chishui City,Libo County, Luodian County, Suiyang County*</td></tr><tr><td>3</td><td>疏脉半蒴苣苔 H. cavaleriei var. paucinervis</td><td>否/否 No/No</td><td>桐梓县、乌当区、龙里县、雷山县、荔波县*、绥阳县*、都匀</td><td>贵定县、兴义市、安龙县、荔波县、独山县、六枝特区* Guiding County, Xingyi City, Anlong County,Libo County, Dushan County, Liuzhi Special Region* 印江土家族苗族自治县、施秉县、江口县、湄潭县、开阳县、 三都水族自治县、锦屏县、道真仡佬族苗族自治县、赤水市、</td></tr><tr><td>4</td><td>纤细半蒴苣苔 H. gracilis</td><td>是/否 Yes/No</td><td>Yinjiang Tujia and Miao Autonomous County, Shibing County, Jiangkou County,Meitan County,Kaiyang County,Sandu Shui Autonomous County, Jinping County,Daozhen Gelao and Miao Autonomous County, Chishui City,Tongzi County,Wudang</td><td>市* District,Longli County,Leishan County,Libo County *,Suiyang</td></tr><tr><td>5</td><td>卷瓣半蒴苣苔 H. follicularis var. retroflexa</td><td>是/否 Yes/No</td><td></td><td>County *, Duyun City* 荔波县Libo County</td></tr><tr><td>6</td><td>H.graiceat</td><td>是/香</td><td>榕江县、惠水县、湄潭县、绥阳县、雷山县、剑河县、务川仡 佬族苗族自治县、凤冈县、天柱县、江口县、沿河土家族自治 县、印江土家族苗族自治县、册亨县、兴义市、赫章县、七星 关区、花溪区、紫云苗族布依族自治县、息烽县、修文县、荔</td><td></td></tr><tr><td>7</td><td>半蒴苣苔 H.subcapitata</td><td>否/否 No/No</td><td>波县、贵定县、德江县、瓮安县、从江县、纳雍县、盘州市、 道真仡佬族苗族自治县、赤水市、桐梓县、正安县、松桃苗族 County, Qixingguan District, Huaxi District, Ziyun Miao and Buyi Autonomous County, Xifeng County,Xiuwen County,Libo</td><td>自治县、石阡县、乌当区、锦屏县、开阳县* Rongjiang County,Huishui County,Meitan County, Suiyang County,Leishan County, Jianhe County,Wuchuan Gelao and Miao Autonomous County,Fenggang County,Tianzhu County, Jiangkou County,Yanhe Tujia Autonomous County,Yinjiang Tujia and Miao Autonomous County, Ceheng County, Xingyi City,Hezhang</td></tr><tr><td>8</td><td>短茎半蒴苣苔</td><td>是/否</td><td></td><td>and Miao Autonomous County, Chishui City,Tongzi County, Zheng'an County, Songtao Miao Autonomous County, Shiqian County,Wudang District, Jinping County,Kaiyang County* 镇远县、三穗县、黎平县*</td></tr><tr><td>9</td><td>柔毛半蒴苣苔 H.mollifolia</td><td>是香</td><td>o</td><td>松桃苗族自治县、碧江区、榕江县、道真仡佬族苗族自治县、 赤水市、石阡县、江口县</td></tr><tr><td>10</td><td>毛果半蒴苣苔 H.flaccida</td><td>是香</td><td></td><td>City,Shiqian County, Jiangkou County 荔波县 Libo County</td></tr><tr><td>11</td><td>小苞半蒴苣苔 H.parvibracteata</td><td>是/是 Yes/Yes</td><td></td><td>施秉县、道真仡佬族苗族自治县 Shibing County, Daozhen Gelao and Miao Autonomous County 贞丰县、册亨县、望谟县、兴义市、安龙县、荔波县*</td></tr><tr><td>12</td><td>合萼半蒴苣苔 H.gamosepala</td><td>是/</td><td></td><td>Zhenfeng County, Ceheng County,Wangmo County, Xingyi City, Anlong County,Libo County* 册亨县、清镇市、兴义市、纳雍县、贞丰县、习水县、赤水市、</td></tr><tr><td>13</td><td>华南半蒴苣苔 H.follicularis</td><td>是/否 Yes/No</td><td></td><td>CehengCou波县、兴仁市、望县、yongCty Zhenfeng County, Xishui County, Chishui City,Libo County,</td></tr><tr><td>14</td><td>大苞半蒴苣苔H.magnibracteata</td><td>是/香</td><td></td><td>Xingren City, Wangmo County,Duyun City 荔波县 Libo County</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/630ae2b07eea1e3554f908e65cf3286b45e98e3bae0e04cf7dde00beba0e7926.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名</td><td>序号 number</td><td>种名</td><td>中国/贵州特有 of China/Guizhou</td><td>Disitio</td></tr><tr><td></td><td>15</td><td>绥阳半蒴苣苔 H. suiyangensis</td><td>是/是 Yes/Yes</td><td>绥阳县 Suiyang County</td></tr><tr><td></td><td>16</td><td>白花半蒴苣苔 H.albiflora</td><td>是/是 Yes/Yes</td><td>兴义市、安龙县*、江口县* Xingyi City, Anlong County*, Jiangkou County*</td></tr><tr><td></td><td>17</td><td>王氏半蒴苣苔 H.wangiana</td><td>是香</td><td>兴义市 Xingyi City</td></tr><tr><td></td><td>18</td><td>拟单座半蒴苣苔 H. pseudometabriggsia #</td><td>是/是</td><td>开阳县、台江县*</td></tr><tr><td></td><td></td><td>拟大苞半蒴苣苔</td><td>Yes/Yes 是/否</td><td>Kaiyang County, Taijiang County*</td></tr><tr><td></td><td>19</td><td>H. pseudomagnibracteata</td><td>Yes/No</td><td>荔波县 Libo County</td></tr><tr><td></td><td>1</td><td>黄斑石蝴蝶 Petrocosmea xanthomaculata</td><td>是/是 Yes/Yes</td><td>沿河土家族自治县 Yanhe Tujia Autonomous County</td></tr><tr><td></td><td>2</td><td>贵州石蝴蝶P.cavaleriei</td><td>是/否</td><td>平坝区、清镇市、赫章县、罗甸县、惠水县、荔波县、兴义市、 镇宁布依族苗族自治县、织金县*、紫云苗族布依族自治县* Pingba District, Qingzhen City,Hezhang County,Luodian County, Huishui County,Libo County, Xingyi City,Zhenning Buyi and</td></tr><tr><td></td><td></td><td></td><td>Yes/No</td><td>Miao Autonomous County, Zhijin County*, Ziyun Miao and Buyi Autonomous County*</td></tr><tr><td></td><td>3</td><td>兴义石蝴蝶 P.xingyiensis</td><td>是香</td><td>兴义市 Xingyi City</td></tr><tr><td></td><td>4</td><td>青翠石蝴蝶 P.viridis</td><td>是香 是/是</td><td>平塘县 Pingtang County 望谟县、盘州市*</td></tr><tr><td></td><td>5</td><td>汇药石蝴蝶 P.confluens</td><td>Yes/Yes</td><td>Wangmo County,Panzhou City*</td></tr><tr><td>石蝴蝶属 Petrocosmea</td><td>6</td><td>滇黔石蝴蝶 P.martinii</td><td>是/否 Yes/No</td><td>平坝区、龙里县、清镇市、荔波县 Pingba District,Longli County, Qingzhen City,Libo County</td></tr><tr><td></td><td>7</td><td>光蕊石蝴蝶P.leiandra</td><td>是/是 Yes/Yes</td><td>清镇市 Qingzhen City</td></tr><tr><td></td><td></td><td>琦润石蝴蝶P.qiruniae</td><td>是/是 Yes/Yes</td><td>大方县 Dafang County</td></tr><tr><td></td><td>9</td><td>长药石蝴蝶</td><td>是/否 Yes/No</td><td>兴义市、安龙县 Xingyi City,Anlong County</td></tr><tr><td></td><td></td><td>Petrocosmea × longianthera</td><td>是/否</td><td>务川仡佬族苗族自治县、桐梓县</td></tr><tr><td></td><td>10</td><td>合溪石蝴蝶 P.hexiensis</td><td>Yes/No 是/是</td><td>Wuchuan Gelao and Miao Autonomous County,Tongzi County</td></tr><tr><td></td><td>11</td><td>文采石蝴蝶P.wentsaii #</td><td>Yes/Yes</td><td>黔西县 Qianxi County</td></tr><tr><td></td><td>12</td><td>紫云石蝴蝶 P.ziyunensis #</td><td>是/否 Yes/No</td><td>紫云苗族布依族自治县 Ziyun Miao and Buyi Autonomous County</td></tr><tr><td></td><td></td><td>舌柱报春苣苔 Primulina liguliformis</td><td>是/否 Yes/No</td><td>安龙县、册亨县、罗甸县、荔波县 Anlong County, Ceheng County,Luodian County, Libo County 册亨县、兴义市、安龙县、独山县、荔波县、瓮安县、平坝区、 西秀区、道真仡佬族苗族自治县、正安县、赤水市、习水县、 花溪区、贵定县、长顺县、平塘县、开阳县、德江县、绥阳县*、</td></tr><tr><td>报春苣苔属</td><td>2</td><td>牛耳朵P.eburnea</td><td>是香</td><td>织金县* Daozhen Gelao and Miao Autonomous County, Zheng'an County,</td></tr><tr><td>Primulina</td><td></td><td></td><td></td><td>Chishui City, Xishui County, Huaxi District, Guiding County, Changshun County,Pingtang County,Kaiyang County, Dejiang County, Suiyang County *, Zhijin County*</td></tr><tr><td></td><td>3</td><td>钻萼报春苣苔 P.subulatisepala</td><td>是/否 Yes/No</td><td>务川仡佬族苗族自治县 Wuchuan Gelao and Miao Autonomous County</td></tr><tr><td></td><td>4</td><td>钟冠报春苣苔 P.swinglei</td><td>否/否</td><td>兴义市 Xingyi City</td></tr><tr><td></td><td></td><td></td><td>No/No</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>P. lunglinensis</td><td>Yes/No</td><td>Dushan County, Xingyi City, Luodian County</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>是/否</td><td>独山县、兴义市、罗甸县</td></tr><tr><td></td><td></td><td>隆林报春苣苔</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>是/否</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>印江土家族苗族自治县、江口县</td></tr><tr><td></td><td></td><td>钝齿报春苣苔</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e70c5ab0db9c605d2e502b17a02df80fc27f724fa2519690488cf53859e934d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名 Genus</td><td>序号 number</td><td>种名 Species</td><td>中国/贵州特有种 of China/Guizhou</td><td>分布 Distribution</td></tr><tr><td></td><td>7</td><td>桂粤报春苣苔P.fordii</td><td>是香</td><td>Yanhe Tuja家族自治County</td></tr><tr><td></td><td>8</td><td>蚂蝗七P.fimbrisepala</td><td>是/否 Yes/No</td><td>锦屏县、天柱县、荔波县、罗甸县、榕江县、从江县、赤水市、 正安县、松桃苗族自治县 Jinping County,Tianzhu County,Libo County,Luodian County, Rongjiang County,Congjiang County,Chishui City,Zheng'an</td></tr><tr><td></td><td>9</td><td>毛报春苣苔</td><td>是香</td><td>County, Songtao Miao Autonomous County 荔波县 Libo County</td></tr><tr><td></td><td>10</td><td>大苞短毛报春苣苔</td><td>是/是</td><td>荔波县 Libo County</td></tr><tr><td></td><td></td><td>P.brachytricha var.magnibracteata</td><td>Yes/Yes 是/否</td><td>LiboCouny、从</td></tr><tr><td></td><td>11</td><td>荔波报春苣苔 P.liboensis</td><td>Yes/No 是/是</td><td>County*</td></tr><tr><td></td><td>12</td><td>少毛报春苣苔 P.glabrescens</td><td>Yes/Yes</td><td>荔波县 Libo County</td></tr><tr><td></td><td>13</td><td>羽裂报春苣苔P.pinnatifida</td><td>是/否 Yes/No</td><td>从江县、榕江县、江口县 Congjiang County,Rongjiang County,Jiangkou County</td></tr><tr><td></td><td>14</td><td>细筒报春苣苔 P.vestita</td><td>是/否 Yes/No</td><td>清镇市、贵定县 Qingzhen City, Guiding County 清镇市、兴义市</td></tr><tr><td></td><td>15</td><td>清镇报春苣苔 P.secundiflora</td><td>是/是 Yes/Yes</td><td>Qingzhen City,Xingyi City 碧江区、江口县、印江土家族苗族自治县、沿河土家族自治县</td></tr><tr><td></td><td>16</td><td>神农架报春苣苔P.tenuituba</td><td>是/否 Yes/No</td><td>Bijiang District,Jiangkou County,Yinjiang Tujia and Miao Autonomous County, Yanhe Tujia Autonomous County</td></tr><tr><td></td><td>17</td><td>锯缘报春苣苔 P.serrulata</td><td>是/是 Yes/Yes</td><td>榕江县 Rongjiang County</td></tr><tr><td></td><td>18</td><td>长柱报春苣苔P.longistyla</td><td>是/否 Yes/No</td><td>沿河土家族自治县、开阳县* Yanhe Tujia Autonomous County, Kaiyang County*</td></tr><tr><td></td><td>19</td><td>黄斑报春苣苔 P.flavimaculata</td><td>是香</td><td>罗甸县 Luodian County</td></tr><tr><td></td><td>20</td><td>南丹报春苣苔 P.nandanensis</td><td>是/否 Yes/No</td><td>荔波县 Libo County</td></tr><tr><td></td><td>21</td><td>曲管报春苣苔 P.flexusa</td><td>是/是 Yes/Yes</td><td>都匀市 Duyun City</td></tr><tr><td></td><td>1</td><td>康定汉克苣苔 Henckelia tibetica</td><td>是/否 Yes/No</td><td>Hezhang Cou章县、宁彝族d苗族自Autoomous County</td></tr><tr><td>汉克苣苔属</td><td>2</td><td>大叶汉克苣</td><td>香香</td><td>贞丰县 Zhenfeng County</td></tr><tr><td>Henckelia.</td><td></td><td></td><td>否/否</td><td>盘州市、安龙县、兴仁市、贞丰县、紫云苗族布依族自治县、 望谟县、普安县*、水城区* Panzhou City, Anlong County, Xingren City, Zhenfeng County,</td></tr><tr><td></td><td></td><td>斑叶汉克苣苔H.pumila</td><td>No/No</td><td>Ziyun Miao and Buyi Autonomous County, Wangmo County, Pu'an County *, Shuicheng District*</td></tr><tr><td></td><td>4</td><td>威宁汉克苣苔 H. lachenensis var.weiningii</td><td>是/是 Yes/Yes</td><td>威宁彝族回族苗族自治县 Weining Yi and Hui and Miao Autonomous County</td></tr><tr><td></td><td>1</td><td>Per齿缘石山atus 反折石山苣苔 P.retroflexus</td><td>是香 是/是</td><td>黎平县 Liping County</td></tr><tr><td></td><td>2</td><td></td><td>Yes/Yes 是/是</td><td>长顺县 Changshun Country 平坝区、修文县、习水县、正安县</td></tr><tr><td></td><td>3</td><td>世纬苣苔 P.scopulorum</td><td>Yes/Yes</td><td>Pingba District, Xiuwen County, Xishui County,Zheng'an County</td></tr><tr><td>石山苣苔属</td><td>4</td><td>披针叶石山苣苔 P.lancifolius</td><td>是/</td><td>Huishuity</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5</td><td></td><td>Yes/Yes</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>是/是</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>桐梓县、绥阳县*</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>桐梓石山苣苔 P.tongziensis</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Tongzi County, Suiyang County*</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>荔波县、独山县、施秉县、黄平县、纳雍县、镇远县、道真仡</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>LbCt</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>是/</td><td></td></tr><tr><td></td><td></td><td>石山苣</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cb80ead090186e212fbeebaeba02dee71c5aa887db05db7d8ea338bb66233db.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>属名 Genus</td><td>number</td><td>种名 Species</td><td>中国/贵州特有 of China/Guizhou</td><td>分布 Distribution</td></tr><tr><td rowspan=\"9\"></td><td>7</td><td>绵毛石山苣苔 P.niveolanosus</td><td>是/否 Yes/No</td><td>黔西南布依族苗族自治州 Qianxinan Buyi and Miao Autonomous Prefecture</td></tr><tr><td>8</td><td>长筒石山苣苔 P.longitubus</td><td>是/</td><td>望谟县 Wangmo County</td></tr><tr><td>9</td><td>赤水石山苣苔 P.chishuiensis</td><td>是/是 Yes/Yes</td><td>赤水市 Chishui City</td></tr><tr><td>10</td><td>小黄花石山苣苔 P.luteoflorus</td><td>是/是 Yes/Yes</td><td>荔波县 Libo County</td></tr><tr><td>11</td><td>朱红苣苔 P.coccineus</td><td>否/否</td><td>荔波县 Libo County</td></tr><tr><td>12</td><td>重庆石山苣苔</td><td>No/No 是/否</td><td></td></tr><tr><td></td><td>P. chongqingensis +</td><td>Yes/No</td><td>赤水市* Chishui City*</td></tr><tr><td>1</td><td>狭冠长蒴苣苔 Didymocarpus stenanthos</td><td>是/否 Yes/No</td><td>Chishu CiyZ市、正安县、江口县、雷山县、nCounty， Rongjiang County</td></tr><tr><td>2</td><td>毛长苣</td><td>是</td><td>ingyiCy县、从、赤i</td></tr><tr><td>长蒴苣苔属 Didymocarpus</td><td>3</td><td>短萼长蒴苣苔 D. glandulosus var.minor</td><td>是/否 Yes/No</td><td>Dushan County* 从江县、榕江县 Congjiang County,Rongjiang County 贞丰县、安龙县、贵定县、黄平县、雷山县、凯里市、施秉县、</td></tr><tr><td></td><td>4</td><td>疏毛长蒴苣苔</td><td>是/否 Yes/No</td><td>印江土家族苗族自治县、江口县、赤水市、榕江县、兴仁市、 Zhenfent County,Leishan County,Kaili City,Shibing County,Yinjiang Tujia and Miao Autonomous County, Jiangkou County, Chishui</td></tr><tr><td>圆唇苣苔属 Gyrocheilos</td><td></td><td>稀裂圆唇苣苔</td><td>是/否</td><td>City,Rongjiang County,Xingren City, Qianxi County 从江县Congjiang County</td></tr><tr><td rowspan=\"5\">异唇苣属</td><td></td><td>Gyrocheilos retrotrichum var. oligolobum</td><td>Yes/No</td><td></td></tr><tr><td>1</td><td>Allocheigrsirarun</td><td>是香</td><td>Xingy义、ui ciy</td></tr><tr><td>1</td><td>红花大苞苣苔 Anna rubidiflora</td><td>是/是 Yes/Yes</td><td>KaiyangC县、金、，县县、方uty</td></tr><tr><td>大苞苣苔属 Anna</td><td></td><td></td><td>Dafang County* 赤水市、罗甸县、荔波县、绥阳县、麻江县、都匀市、六枝特</td></tr><tr><td>2</td><td>白花大苞苣苔 A.ophiorrhizoides</td><td></td><td>区 Chishui City,Luodian County,Libo County,Suiyang County,</td></tr><tr><td rowspan=\"5\">斜柱苣苔属 Loxostigma</td><td></td><td></td><td>是/否 Yes/No</td><td>Majiang County, Duyun City,Liuzhi Special Region</td></tr><tr><td>1</td><td>斜柱苣苔Loxostigma grifithii</td><td>香香</td><td>xisuiC</td></tr><tr><td>2</td><td>滇黔斜柱苣苔 L.cavaleriei</td><td>是/否 Yes/No</td><td>贵定县、独山县 Guiding County,Dushan County</td></tr><tr><td>3</td><td>光叶斜柱苣苔L. glabrifolium</td><td>是/否 Yes/No</td><td>贞丰县 Zhenfeng County</td></tr><tr><td>4</td><td>粗筒斜柱苣苔 L. kurzii</td><td>是/否</td><td>赤水市 Chishui City</td></tr><tr><td rowspan=\"5\">芒毛苣苔属 Aeschynanthus</td><td>1</td><td>芒毛苣苔</td><td>Yes/No 否/否</td><td>贞丰县、赤水市、荔波县</td></tr><tr><td></td><td>Aeschynanthus acuminatus</td><td>No/No</td><td>Zhenfeng County, Chishui City,Libo County</td></tr><tr><td>2</td><td>广西芒毛苣苔 A.austroyunnanensis var.</td><td>是/否 Yes/No</td><td>贞丰县、望谟县、平塘县* Zhenfeng County, Wangmo County, Pingtang County*</td></tr><tr><td></td><td>guangxiensis</td><td>否/否</td><td>Xingre族自县、County</td></tr><tr><td>3</td><td>黄杨叶芒毛苣苔 A.buxifolius</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Lysionotus denticulosus</td><td>Yes/No</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>No/No</td><td> Guiding County</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>多齿吊石苣苔</td><td>是/否</td><td>荔波县、独山县*</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Libo County, Dushan County*</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>吊石苣苔属</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>桂黔吊石苣苔</td><td>是/否</td><td>晴隆县、兴义市、贞丰县</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lysionotus</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>L. aeschynanthoides</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Yes/No</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Qinglong County, Xingyi City, Zhenfeng County</td></tr><tr><td></td></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e7b2e97790ef25dbda1586a52bf66108a4c4e395c999102db9f8166845edc1d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Sriar</td><td>种名 Species</td><td>中国/贵州特有种 fndimilGuiztls</td><td>分布 Distribution</td></tr><tr><td>4</td><td>异叶吊石苣苔 L. heterophyllus</td><td>是香</td><td>镇远县、兴义市、雷山县、都匀市、平塘县、沿河土家族自治 县、剑河县、道真仡佬族苗族自治县、西秀区、平坝区、盘州 市、水城区、麻江县、清镇市、贵定县、汇川区、七星关区、</td></tr><tr><td></td><td></td><td></td><td>威宁彝族回族苗族自治县、花溪区、兴仁市、册亨县、罗甸县、 习水县、施秉县、石阡县、江口县、松桃苗族自治县、从江县、 绥阳县、赤水市、镇宁布依族苗族自治县、榕江县、黎平县、 锦屏县、瓮安县、三都水族自治县、德江县、印江土家族苗族 自治县、修文县、乌当区、台江县、普安县、织金县、紫云苗 族布依族自治县、关岭布依族苗族自治县、六枝特区、湄潭县、 独山县*、南明区*、荔波县*、黄平县*、正安县*、仁怀市*、 大方县*、红花岗区* Zhenyuan County, Xingyi City,Leishan County, Duyu City, Pingtang County,Yanhe Tujia Autonomous County, Jianhe County,Daozhen Gelao and Miao Autonomous County, Xixiu District,Pingba District,Panzhou City,Shuicheng District,</td></tr><tr><td></td><td></td><td></td><td>Autonomous County,Huaxi District, Xingren City, Ceheng County,Luodian County,Xishui County,Shibing County, Shiqian County, Jiangkou County, Songtao Miao Autonomous County, Congjiang County, Suiyang County, Chishui City, Zhenning Buyi and Miao Autonomous County, Rongjiang County, Liping County, Jinping County,Weng'an county,Sandu Shui Autonomous County, Dejiang County,Yinjiang Tujia and Miao Autonomous County, Xiuwen County, Wudang District,Taijiang County,Pu'an County, Zhijin County, Ziyun Miao and Buyi Autonomous County, Guanling Buyi and Miao Autonomous County,Liuzhi Special Region,Meitan County,Dushan County*,Nanming District*,Libo</td></tr><tr><td>6</td><td>灰叶吊石苣苔 L. pauciflorus var.indutus</td><td>是/是 Yes/Yes</td><td>County*,Huangping County*, Zheng'an County*,Renhuai City*, Dafang County*, Honghuagang District* 威宁彝族回族苗族自治县 Weining Yi and Hui and Miao Autonomous County 兴仁市、兴义市、安龙县、罗甸县、西秀区、册亨县、望谟县、</td></tr><tr><td>7</td><td>齿叶吊石苣苔</td><td>香香</td><td>麻江县、平塘县、惠水县、道真仡佬族苗族自治县、水城区* Xiii Pingtang County,Huishui County,Daozhen Gelao and Miao</td></tr><tr><td>8</td><td>攀援吊石苣苔L.chingii</td><td>香/否 No/No</td><td>Autonomous County, Shuicheng district* 荔波县、紫云苗族布依族自治县* Libo County, Ziyun Miao and Buyi Autonomous County*</td></tr><tr><td>9</td><td>桑植吊石苣苔 L.sangzhiensis</td><td>是香</td><td>Jjang印江族自松白nty Songtao Miao Autonomous County 荔波县 Libo County</td></tr><tr><td></td><td>10凤山吊石苣苔L.fengshanensis</td><td>Yes/No</td><td>平坝区、兴义市、安龙县、花溪区、德江县、习水县、清镇市、 镇宁布依族苗族自治县、紫云苗族布依族自治县、凯里市、七 星关区、汇川区、大方县、惠水县、贵定县、道真仡佬族苗族 自治县、赤水市、荔波县、绥阳县、仁怀市、正安县、沿河土 家族自治县、松桃苗族自治县、雷山县、乌当区、望谟县、兴</td></tr><tr><td>1</td><td>革叶光叶苣苔Glabrella mihieri</td><td>是/否 Yes/No</td><td>仁市、六枝特区、普安县、织金县、赫章县、开阳县*、施秉县 Pingba District, Xingyi City, Anlong County, Huaxi District, Dejiang County, Xishui County, Qingzhen City, Zhenning Buyi and Miao Autonomous County, Ziyun Buyi and Miao Autonomous County,Kaili City,Qixingguan District,Huichuan District,Dafang County,Huishui County,Guiding County,Daozhen Gelao and Miao AutonomousCountyhishuCityLiboCoutyag County,Renhuai City,Zheng'an County,Yanhe Tujia Autonomous</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/24636ae46fd282ddbf075c70b4100e2edf3f9d93fa55c4971cd68878073c4d4f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Region,Pu'an County,Zhijin County,Hezhang County,Kaiyang County \\*, Shibing County\\* "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>序号</td><td></td><td>中国/贵州特有种</td><td></td></tr><tr><td>属名</td><td>Serial</td><td>种名</td><td>Endemic species</td><td>分布</td></tr><tr><td>Genus</td><td>number</td><td>Species</td><td>of China/Guizhou</td><td>Distribution</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef7f915782baca509dfb88a90e87935a8e138556963d9632eeb52ff1494e0364.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2</td><td>盾叶光叶苣苔G.longipes</td><td>是/否 Yes/No</td><td>兴仁市、安龙县、赤水市、绥阳县、施秉县 Xingren City,Anlong County, Chishui City,Suiyang County,</td></tr><tr><td>3</td><td>无毛光叶苣苔G.leiophylla</td><td>是/是 Yes/Yes</td><td>Shibing County 惠水县 Huishui County</td></tr><tr><td>1</td><td>锥序蛛毛苣苔 Paraboea swinhoii</td><td>否/否 No/No</td><td>独山县、荔波县、道真仡佬族苗族自治县 Dushan County,Libo County,Daozhen Gelao and Miao Autonomous County</td></tr><tr><td>2</td><td>蛛毛苣苔P.sinensis</td><td>否/否 No/No</td><td>印江土家族苗族自治县、沿河土家族自治县、七星关区、贵定 县、荔波县、绥阳县、正安县、习水县、松桃苗族自治县、施 秉县、兴仁市、兴义市、盘州市、纳雍县、清镇市、水城区* Yinjiang Tujia and Miao Autonomous County,Yanhe Tujia Autonomous County,Qixingguan District, Guiding County,Libo County, Suiyang County, Zheng'an County,Xishui County, Songtao Miao Autonomous County, Shibing County, Xingren City</td></tr><tr><td>3 蛛毛苣苔属 Paraboea</td><td>锈色蛛毛苣苔P.rufescens</td><td>否/否 No/No</td><td>Xingyi City,Panzhou City,Nayong County,Qingzhen City, Shuicheng District* 安龙县、册亨县、独山县、关岭布依族苗族自治县、贵定县、 荔波县、罗甸县、兴仁市、兴义市、镇宁布依族苗族自治县、 道真仡佬族苗族自治县、威宁彝族回族苗族自治县、纳雍县、 普定县、望谟县、紫云苗族布依族自治县、惠水县、清镇市、 雷山县、施秉县、江口县、印江土家族苗族自治县、德江县、 正安县、绥阳县 Anlong County, Ceheng County,Dushan County,Guanling Buyi and Miao Autonomous County,Guiding County,Libo County, Luodian County,Xingren City,Xingyi City,Zhenning Buyi and</td></tr><tr><td>4</td><td></td><td></td><td>MiountyWusCiny zenGiaAdMiaoS too Nayong County, Puding County,Wangmo County, Ziyun Miao and Buyi Autonomous County, Huishui County, Qingzhen City, Leishan County,Shibing County,Jiangkou County,Yinjiang Tujia and Miao Autonomous County,Dejiang County, Zheng'an County, Suiyang County</td></tr><tr><td>5</td><td>白花蛛毛苣苔P.glutinosa</td><td>是/否 Yes/No</td><td>罗甸县、长顺县、贵定县、平坝区、荔波县* Luodian County,Changshun County, Guiding County,Pingba District,Libo County*</td></tr><tr><td>6</td><td>髯丝蛛毛苣苔P.martini 三苞蛛毛苣苔P.tribracteata</td><td>是/否 Yes/No 是香</td><td>罗甸县、荔波县、开阳县、望谟县* Luodia County, Libo County, Kaiyang County, Wangmo County* 荔波县Libo County</td></tr><tr><td></td><td></td><td></td><td>松桃苗族自治县、江口县、碧江区、普定县、罗甸县、湄潭县、 兴义市、道真仡佬族苗族自治县、开阳县、威宁彝族回族苗族 自治县、晴隆县、沿河土家族自治县</td></tr><tr><td>7</td><td>厚叶蛛毛苣苔P.crassifolia</td><td>是/否 Yes/No</td><td>Songtao Miao Autonomous County, Jiangkou County, Bijiang District, Puding County,Luodian County,Meitan County, Xingyi City, Daozhen Gelao and Miao Autonomous County, Kaiyang County, Weining Yi and Hui and Miao Autonomous County,</td></tr><tr><td>8</td><td>独山蛛毛苣苔 P.dushanensis</td><td>是/是</td><td>Qinglong County,Yanhe Tujia Autonomous County 独山县、望谟县*</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/f18a21aae3f5baa7c9ae83897770cb9bb84e65ccea936690aac2d0d435bce9f3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：标\\*的为实地调查到的新增分布区；标# 的为待发表的种类；标 $^ +$ 的为贵州省新记录种，正在发表中。 Note:Those marked with \\*arethe newly increased distribution areas found inthe field survey;thosespecies marked with # are will to be published; those speciesmarked with $^ +$ are new records of Guizhou Province,which are being published. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">属名 Genus</td><td rowspan=\"2\">序号 Serial number</td><td rowspan=\"2\">种名 Species</td><td rowspan=\"2\">中国/贵州特有种 Endemic species of China/Guizhou Yes/Yes</td><td rowspan=\"2\">分布</td></tr><tr><td>Distribution Dushan County,Wangmo County*</td></tr><tr><td rowspan=\"6\">旋蒴苣苔属 Dorcoceras</td><td>9</td><td>网脉蛛毛苣苔 P.dictyoneura</td><td>否/否</td><td>荔波县 Libo County</td></tr><tr><td>10</td><td>白云岩蛛毛苣苔P.dolomitica</td><td>No/No 是/是</td><td>施秉县、镇远县</td></tr><tr><td>1</td><td>地胆旋蒴苣苔</td><td>Yes/Yes 否/否</td><td>Shibing County, Zhenyuan County 安龙县、长顺县、罗甸县、望谟县、荔波县 Anlong County, Changshun County,Luodian County,Wangmo</td></tr><tr><td></td><td>Dorcoceras philippinense</td><td>No/No</td><td>County, Libo County 罗甸县、安龙县、望谟县、荔波县、道真仡佬族苗族自治县、 赤水市、正安县、江口县、织金县、赫章县、册亨县</td></tr><tr><td>2</td><td>旋蒴苣苔 D.hygrometrica</td><td>是/否 Yes/No</td><td>Luodian County,Anlong County,Wangmo County,Libo County Daozhen Gelao and Miao Autonomous County, Chishui City, Zheng'an County, Jiangkou County, Zhijin County,Hezhang County, Ceheng County</td></tr><tr><td>喜鹊苣苔属 1 Ornithoboea 粉毛苣苔属</td><td>贵州喜鹊苣苔Ornithoboea feddei</td><td>否/否 No/No</td><td>关岭布依族苗族自治县、贞丰县 Guanling Buyi and Miao Autonomous County, Zhenfeng County</td></tr><tr><td>Middletonia</td><td>1</td><td>粉毛苣苔 Middletonia multiflora</td><td>是/否 Yes/No</td><td>罗甸县、兴义市、荔波县 Luodian County, Xingyi City,Libo County 长顺县、独山县、贵定县、罗甸县、安龙县、盘州市、荔波县、</td></tr><tr><td>长冠苣苔属 Rhabdothamnopsis</td><td>1</td><td>长冠苣苔 Rhabdothamnopsis chinensis</td><td>是/否 Yes/No</td><td>紫云苗族布依族自治县、开阳县* Changshun County,Dushan County, Guiding County,Luodian County,Anlong County,Panzhou City,Libo County, Ziyun Miao and Buyi Autonomous County,Kaiyang County*</td></tr></table></body></html>",
+        "page_idx": 19
+    }
+]

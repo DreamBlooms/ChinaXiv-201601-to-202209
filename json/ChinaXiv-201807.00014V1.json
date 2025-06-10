@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "新疆3大山区云中液态水时空分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张小娟'，王军，黄观'，陈勇航}²，杨莲梅²，李红军²，李曼²，郑宁1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．东华大学环境科学与工程学院,上海201620；2．中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用2003—2015 年美国宇航局（NASA）发布的 AIRS/Aqua L2 Standard Physical Retrieval ( $\\mathrm { \\Delta A I R S + A M S U }$ ）V006（AIRX2RET)云数据集,选取新疆地区,特别是其云水量较丰富的3大山区为研究区域,研究其云中液态水的时空分布特征。结果表明：从空间分布看,北疆的云水量高于南疆,山区比沙漠盆地丰富,山区迎风面更为丰富，高达 $5 0 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,呈西多东少的趋势。受大气环流的影响,整个研究区域、天山和阿尔泰山的云水量在春季分布较丰富,均高于 $3 5 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,昆仑山在夏季分布较丰富;整个研究区域秋季的云水量分布均较少,在20$\\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 以下。近 $1 3 \\mathrm { ~ a ~ }$ 研究区域云水量的年均值为 $4 2 . 4 7 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g \\cdot m ^ { - 2 } } \\sim 4 5 5 . 3 2 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g \\cdot m ^ { - 2 } }$ ,整个研究区域云水量总体平稳,3大山区则呈下降趋势;在2009—2010年研究区域的云水量总体呈上升趋势,天山变化较明显。3大山区云水量的年变化呈“单峰形”,阿尔泰山、天山和昆仑山云水量最高时段分别出现在2—4月、3—5月和4—8月,峰值分别为 $8 2 2 . 3 0 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 } . 8 6 9 . 7 5 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 和 $7 4 2 . 8 2 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：云中液态水；大气环流；时空分布；阿尔泰山；天山；昆仑山；新疆地区；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "云水资源是贮存在云中、通过天然降水或人工降水的方式可持续开发利用的一种内陆水资源[1-4]。云中液态水是云水资源的主要成分,其分布对全球气候和局地天气的变化都有重要的影响[5-6]。云中液态水含量是一个重要的气象学和云物理参数，是指导人工增水作业的有效指标，也是直接影响人工增水效果的关键因素之一。通过合理开发和利用云水资源能较好地解决干旱地区水资源短缺和不平衡的问题。新疆地处我国西北边陲，地形特点为“三山夹两盆”，年均天然降水量（约150mm）不到全国（约 $6 2 0 ~ \\mathrm { m m } ^ { \\cdot }$ )的1/4，且在空间上呈现北多南少、西多东少的特点[1]，面临着严重的水资源短缺和分布不均匀问题[7]。而在新疆山区,随着地势升高，暖湿气流被迫抬升，云水资源极为丰富，如天山山区降水可达 $8 0 0 \\sim 1 ~ 0 0 0 ~ \\mathrm { m m }$ ,相当于我国东部江淮地区的年降水量[8]。这些云水资源若能得到充分利用，将成为缓解新疆水资源短缺问题的有效途径之一[2]。根据此特点,2009—2010 年在北疆和天山山区进行了人工增水作业，明显缓解了当地的干旱状况[9]。新疆的3 大山系—阿尔泰山、天山和昆仑山最高海拔均在 $4 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 以上，约占全疆总面积的 $4 0 \\%$ [3],是新疆河流的主要发源地,也是人工增水的主要作业区，探明其云水资源的时空分布特征极为必要。但是由于山区的云等效高度与海拔高度相当[10],加之山区地形特殊,导致设备与观测条件受限，因此，严重缺乏云观测数据。本研究利用的高分辨率卫星资料则不受这些因素的影响，不仅能够提供大范围的云观测数据，而且能给出地面常规观测无法提供的定量化云微物理特性情况，获取的数据更为全面。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卫星资料的应用目前已经较为成熟，国际上Aumann、Chahine、Science、Rossow等科学家已作了很多云参量卫星反演方面的研究[11-14],且得到了广泛的应用[13-14]。国内,张建新等[15]利用QFW21型双通道微波辐射计对天山山区大气总水汽量和云中液态水含量进行了研究，认为天山山区的云水资源充沛，并给出了天山山区人工增雨实施播云作业的参照指标;陈勇航等[16]、王洪强等[17]、彭宽军等[2]邱学兴等[18]、阿丽亚·拜都热拉等[19]利用CERES卫星资料从云的宏、微观物理属性的角度研究了新疆山区云水资源的时空分布特征;李浩等[20]利用CloudSat卫星资料分析了一次暴雨过程云中液态水物理属性的垂直分布，结果表明云中液态水含量随云层高度的增加而降低；刘瑞霞等[21]利用AIRS反演资料研究了中国区域对流层水汽分布特征，结果表明中国区域对流层水汽具有明显的季节变化规律,其中新疆地区冬季偏湿,夏季偏干;占瑞芬等[22]对AIRS资料进行了质量检验，结果表明AIRS反演的水汽数据与探空实测数据一致;张雪芹等[23]利用AIRS资料研究了中亚地区上对流层水汽的时空分布特征。上述工作为本研究提供了重要参考,但应用AIRS数据针对云中液态水的研究极少见。本研究采用了长时间序列的AIRS反演数据，对新疆及其3大山区云中液态水的时空变化规律进行了分析，为缓解新疆水资源短缺和分布不均问题提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区域为新疆及其周边地区 $( 7 3 ^ { \\circ } \\sim 9 7 ^ { \\circ } \\mathrm { E }$ $3 4 ^ { \\circ } \\sim 4 9 ^ { \\circ } \\mathrm { N } \\cdot$ ),该区域位于亚欧大陆腹地，四周有高山阻隔，距离海洋较远，水汽输送较难到达，降水分布不均匀。重点研究区域为新疆3大山区：阿尔泰山 $( 8 5 ^ { \\circ } \\sim 9 5 ^ { \\circ } \\mathrm { E } , 4 5 ^ { \\circ } \\sim 5 0 ^ { \\circ } \\mathrm { N } )$ ,呈西北一东南走向，在中国境内为中段南坡，山体长达 $5 0 0 ~ \\mathrm { k m }$ ,海拔1000$\\sim 3 \\ 0 0 0 \\ \\mathrm { m }$ ;天山 $( 7 5 ^ { \\circ } \\sim 9 5 ^ { \\circ } \\mathrm { E } , 4 0 ^ { \\circ } \\sim 4 5 ^ { \\circ } \\mathrm { N } )$ ,是世界上距离海洋最远和最大的独立纬向山系，也是全球干旱范围最广的山系，从西一西南向东一东北延伸约$2 ~ 5 0 0 ~ \\mathrm { k m }$ ,其中位于中国境内的部分长约 $1 ~ 7 0 0 ~ \\mathrm { k m }$ 山地平均海拔 $3 ~ 5 0 0 \\sim 4 ~ 5 0 0 ~ \\mathrm { m }$ ,不少高峰在 $5 ~ 0 0 0 ~ \\mathrm { m }$ 以上。昆仑山 $( 7 5 ^ { \\circ } \\sim 9 5 ^ { \\circ } \\mathrm { E } , 3 5 ^ { \\circ } \\sim 3 9 ^ { \\circ } \\mathrm { N } )$ ,横贯新疆、西藏间，延伸至青海境内，全长约 $2 ~ 5 0 0 ~ \\mathrm { k m }$ ,平均海拔 $5 ~ 5 0 0 \\sim 6 ~ 0 0 0 ~ \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/69c84957a9ea33faec6eac4dfe9aa60b6cbb74701b3d152fd605887e057254f1.jpg",
+        "img_caption": [
+            "图1研究区域地理位置",
+            "Fig.1Geographic location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 资料选取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所用资料为美国宇航局（NASA）发布的2003年1月至2015年12月AIRS/AquaL2StandardPhysicalRetrieval（ AIRS $^ +$ AMSU）V006(AIRX2RET)卫星云资料。Aqua卫星为美国宇航局(NASA)2002年5月4日发射的极轨气象卫星，对同一地区的观测频率为一日两次,Aqua 卫星上搭载的高光谱红外探测仪（Atmospheric Infrared Sound-er,AIRS）和高级微波探测单元（AdvancedMicrowaveSoundingUnit,AMSU)具有高空间分辨率和高时间分辨率，其中AIRS能够提供准确的陆地、海洋和大气的红外光谱数据，AMSU用于测量水汽和地表温度。两者可进行垂直探测，及时跟踪中亚低涡等天气系统的变化，弥补新疆地区监测站少的不足，更全面地表达云中液态水在新疆地区的时空分布特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大气环流场的分析使用了NCAR/NCEP月平均再分析资料，水平分辨率为 $2 . 5 ^ { \\circ } \\times 2 . 5 ^ { \\circ }$ 。云中液态水最高值年与最低值年差异场分别指文中选定云水含量最高年和最低年大气等压面高度场减去1961—2015年的高度场平均值。研究区域春季云水含量最高和最低年份分别是：2010年、2006年；阿尔泰山春季云水含量最高和最低年份分别是：2010年、2015年;天山春季云水含量最高和最低年份分别是：2012年、2014年;昆仑山夏季云水含量最高和最低年份分别是：2005年、2013年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云中液态水柱含量（以下简称“云水量”)表示单位面积垂直大气柱所含液态水的总量，是了解大气和云物理量的一个重要参数，对于降水等天气现象的发生起着重要的作用。计算过程为：空间上，首先对 $0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ 格点内的所有像素点的云水量数据求取平均，然后再插值到每个格点上，根据格点数据进行结果分析。时间上，以每个格点数据除以相应的年、季节或月累计的天数，得到相应的年均、季均和月均值。数据结果用IDL程序处理计算得到，采用线性倾向估计法和对比分析法，分析新疆及其3大山区云水量的时间变化趋势。利用GIS技术将格点内所有像素点的数据采用克里金插值法，得到研究区域云水量多年平均、季节平均的空间分布，从而分析新疆及其3大山区云水量的时空分布特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2时空分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1多年平均空间分布研究区域2003—2015年的云水量多年平均空间分布见图2。山区海拔较高，其云水量明显高于中部盆地和沙漠地带，因水汽自西而来，山区云水量呈西多东少的分布特征；研究区域的云水量分布为北疆明显高于南疆，这主要是大气环流和当地的地形共同作用造成的。轩俊伟等[24]研究表明,南北疆干旱状况的空间分布差异主要是由天山山脉阻隔及地形差异导致的，云水量在南北疆分布差异也是天山山脉阻挡西风气流所致。云水量在塔克拉玛干沙漠分布最少,低至 $2 \\times 1 0 ^ { - 6 }$ $\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 2 }$ ,高值均分布在山区,高达 $5 0 0 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g }$ ：$\\mathrm { ~ m ~ } ^ { - 2 }$ 。3 大山区中,阿尔泰山的云水量总体较为丰富,在 $1 0 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以上；天山西部的云水量在 $5 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以上,中东部则在 $5 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g }$ ： $\\mathrm { ~ m ~ } ^ { - 2 }$ 以下。由于地理位置和地形趋势原因,阿尔泰山和天山山区的云水量呈北高南低的分布格局，而昆仑山山区则为南高北低，这是由于昆仑山山区的水汽主要来自南山坡的印度洋，因此其南坡迎风的气流易被抬升成云，云水量相对充沛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 L □ A +XXXXXXXxx 由 ■ 自 1 L 1 □ AA ■ ■ 阿泰x N++   \n48N 4 A A A A ■ A A A ■ A + ■ X X XX X A + AAAAAAAAA X+XX+++XXXXXX+AX ■ L 1 ■ ■ ■ A A A 电 X +XX++ X■ 中 典 xxxxxxx×x+ +×xxxxxxx×xxx++ XXX米 00000 0   \n45N ■ +++++++x+X+X++XXxxx\\* X+ 0 V ■ ++++++X+ 0 0 XXXXXXX+++++XX+XXXXXXXX +x+ AA + X\\*X 米\\*米 0 XX\\*\\*\\*\\*\\*000\\* 9 XX 米 3   \n42°N AA A AAAAAA AAAA 中 xXXXx + + 1 XXX 0 \\* 。 果 9 0 0 V # 0 0 ， 9 A A AAAA++XXXXX 。 V 7 中 mxX 00 中 中 V 中 VV 00 中 V 中 中 中 0 V 公 A ■ + 00000 0 0 0 0 0 ， 0 0 0 0 0 0 0 0 0 000   \n39N 5 xx 中 V 04 中 0000 A 0 4 0 0 0 00 A X\\*味 00000 0 0 K X A 00008 xxxxx 888   \n36N A ■ 1 xxx×xxx× XXxxXXXX 票 米 + ▲+xXxXxxXXxxxxxxXxXxxXxxxxXxxxx XxxXx+XxxXxxxxxxxxxxxxxxx\\*\\*\\*0xx30260x xxXxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxXxxXxXXxXxjXXxXxXjXXxxXXjx ×X 75E 78E 81°E 84°E 87°E 90°E 93°E 96E 图国界线一线状省界山区 例<2米2-5×5-50+50-100 ■ 100-500▲>500云水量：10kg·m² ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2季节平均空间分布图3是研究区域2003一2015年多年平均云水量的季节空间分布。从结果来看，4个季节的空间分布与多年平均空间分布格局基本相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "春、冬两季，云水量的空间分布相似度较高。受西风气流和大尺度地形的共同作用，在地形迎风的一侧气团抬升而易成云[25],因此在同一季节内,北部的阿尔泰山和天山的云水量较为充沛；而南部的昆仑山在背风侧，其海拔较高，空气较为稀薄，云水量较低。与冬季相比，春季南部的云水量低值更高且中心范围更大（图 $\\mathrm { 3 a } \\mathrm { , } 3 \\mathrm { d }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "夏季，盛行风向为西南风，临近西印度河的昆仑山位于迎风侧，携带大量水汽的夏季风在昆仑山的作用下发生抬升，因此南部区域云水量较春季有所增加,增至 $2 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 以上，云水量高于500$\\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 的范围亦有所扩大;其他区域则明显下降至 $2 0 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,低值中心范围缩小且向东移动。3大山区的空间分布仍符合西多东少的特征（图3b）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "秋季，由于西风气流逐渐加强，夏季风减弱，研究区域内的云水量相对其他季节较少，基本在 $2 0 \\times$ $1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以下;相对于夏季，秋季的低值中心范围扩大，3大山区的云水量仍呈西多东少的分布，且东部云水量在 $5 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以下(图3c)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 时间变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1年际变化由图4可知，云水量多年均值的变化范围为 $4 2 . 5 4 \\times 1 0 ^ { - 6 } \\sim 5 2 5 . 3 7 \\times 1 0 ^ { - 6 } { \\mathrm { ~ k g } } \\cdot { \\mathrm { ~ m } } ^ { - 2 }$ 。天山位于新疆中部，作为新疆的南北分界线，其南北云水量的分布与研究区域相似，因此两者具有一致的年际波动趋势。天山的云水量相对较丰富，多年均值为 $2 1 9 . 0 6 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,最丰富年为2004年，最少年为2014年。阿尔泰山和昆仑山的云水量相对较少,多年均值分别为 $1 0 4 . 7 7 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ （204号和 $1 4 8 . 1 9 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ,最丰富年分别为2010 年和2005年。整个研究区域和3大山区在 $2 0 0 9 / 2 0 1 0$ 年云水量明显增加，这可能与 $2 0 0 9 / 2 0 1 0$ 年发生的厄尔尼诺现象有关，其对新疆的塔城、阿勒泰北部、巴音郭楞蒙古自治州北部、南疆西部喀什至和田一带及天山一带具有明显的增湿效果[26],且在厄尔尼诺年大气环流异常，气温偏高，有利于云中液态水的形成。总体来看，3大山区的云水量呈逐年下降的趋势，但天山和昆仑山在2015年回升至均值线以上,阿尔泰山则降至 $5 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2年变化2003—2015 年3大山区云水量的年变化特征见图5。3大山区云水量随月份呈显著的\"单峰形”特征，变化范围为 $4 2 . 4 7 \\times 1 0 ^ { - 6 } \\sim 4 5 5$ ：$3 2 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,受气候、地形地貌及地理位置的影响，每个山区的峰值出现的月份不同。天山的峰值出现在2月或3月,云水量均大于 $7 0 0 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g }$ ： $\\mathrm { ~ m ~ } ^ { - 2 }$ ,最高达 $1 \\ 3 9 6 . 0 2 \\ \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ,其后云水量开始下降,6月进入低值期（小于 $1 0 0 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g }$ ：$\\mathrm { ~ m ~ } ^ { - 2 }$ );阿尔泰山的峰值出现在4月，且各年峰值点的云水量变化较大，最高出现在2010年，为1099.$8 5 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,最低出现在2015年，为211.14$\\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,6 月进入低值期;昆仑山在1—4月处于低值期，之后逐渐增加,6一8月出现峰值，最大峰值出现在 2012年7月,为 $7 3 3 . 0 7 \\times 1 0 ^ { - 6 } \\mathrm { k g }$ ：$\\mathrm { ~ m ~ } ^ { - 2 }$ ,8-9月急剧降至低值期。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/34ca9a342b373cf1492a2a65d49b194ad5099accee13c1625557a6897afeb9fb.jpg",
+        "img_caption": [
+            "图32003-2015年多年平均云水量的季节空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/734ee690fcf7d1a97d0402f7d282685c8c344f504dfb1ceedc6eeacf10d55e50.jpg",
+        "img_caption": [
+            "Fig.3The multi-year average seasonal spatial distribution of the cloud liquid water from 2OO3 to 2015 ",
+            "注：y表示2003-2015年对应山区云水量的多年平均值。",
+            "图4新疆及其3大山区云水量年际变化",
+            "Fig.4Inter annual variation for the cloud liquid water in the three mountains of Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体来看，3大山区云水量的多年平均年变化与年内月际变化趋势一致，1一8月呈波动变化，9—12月处于低值期，主要是由于秋、冬季3大山区受大陆冷高压控制，以下沉气流为主，以致云水量明显减少;春、夏季气温回升，以上升气流为主，云水量也较为丰富。天山云水量在2、3月最丰富，1、4月次之,其余月份均在 $1 5 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以下;而阿尔泰山仅在4月达到 $1 5 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以上;昆仑山",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10500 (a)2003-2015年 0 (b)2003年900 一阿尔泰山 900 一阿尔泰山750 一0一天山 750 0一天山丨昆仑山 昆仑山600 600450 450300 300150 1500 01 2 3 4 5 6 7 89101112 I 2 3 4 5 6 7 891011121200(c) 2004年 20 (d) 2005年1200 一阿尔泰山 1000 一阿尔泰山天山 -天山一昆仑山 800 昆仑山900600600400300 200云 0 01 2 3 4 5 6 7 89101112 1 2 3 X 5 6 7 8 91011 121200(e)2006年 （201 (f)2007年900 一阿尔泰山 1000 —阿尔泰山一天山 l0一天山750 昆仑山 800 昆仑山600600450400300150 C 2000 01 2 3 4 5 6789101112 1 2 3 4 5 6 7 891011120 900(g)2008年 (h)2009年750 □一阿尔泰山 750 一阿尔泰山10一天山 10一天山600 兄 昆仑山 600 一昆仑山450 450300 300150 150云 四0 01 23 456789101112 1 2345 6789101112月份 月份",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1200 1050  \n0 (i)2010年 0 ()2011年1050 一阿尔泰山 900 一阿尔泰山900 0一天山 750 10一天山750 昆仑山 昆仑山600600450450300 300150 1500 02 3 A 5 6 7 8 9 10 1112 2 3 4 5 6 7 8 91011122000 800  \n0 (k)2012年 0 ()2013年1750 二一阿尔泰山 640 二0一阿尔泰山1250 昆仑山 480 昆仑山1000750 3205001602500 0 A1 2 3 4 5 6 7 8 9 101112 2 4 5 6 7 8 9101112(m)2014年 (n)2015年900 一阿尔泰山 1000 一阿尔泰山lo一天山 丨0一天山750 丨昆仑山 800 昆仑山600600450400300150 2000 0 贝1 2 3 4 5 6 7 8 9 101112 0 2 4 6 8 10 12 14月份 月份",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然各个月份的云水量相对较低，但其含量在150$\\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ 以上的时间长达4个月。云水量的年变化状况为人工增水作业的时间选择提供了准确的理论依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3季节变化表1是近13a云水量的季节平均统计。从整个研究区域来看,云水量在春季最丰富、冬季次之、秋季最少。在3大山区中，阿尔泰山和天山的云水量均在春季最丰富，昆仑山则在夏季，且均高于 $3 5 0 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 。此外,天山冬季和昆仑山春季的云水量也较为丰富，阿尔泰山除春季外，其他季节的云水量均低于 $5 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 } ; 3$ 大山区秋季的云水量均低于 $2 0 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\ ^ { \\cdot } \\ \\mathrm { m } ^ { - 2 }$ 。可知,阿尔泰山和天山的云水量季节分布相似。总体来看，天山的云水量相对丰富，具有较高的开发利用价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc75883c282fb15048f7faef9b5ece72393a1378e95a96f62385ddd38695af62.jpg",
+        "table_caption": [
+            "表12003—2015年云水量的季节平均值",
+            "Tab.1The average seasonal means of the cloud liquid water from 2003 to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>季节</td><td>整个研究区域</td><td>阿尔泰山</td><td>天山</td><td>昆仑山</td></tr><tr><td>春季</td><td>444.30</td><td>368.77</td><td>440.68</td><td>114.26</td></tr><tr><td>夏季</td><td>184.08</td><td>3.99</td><td>25.05</td><td>436.46</td></tr><tr><td>秋季</td><td>18.92</td><td>4.16</td><td>15.49</td><td>9.46</td></tr><tr><td>冬季</td><td>347.73</td><td>42.11</td><td>394.97</td><td>32.60</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 环流变化对云水量年际变化的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由上述分析可知，新疆及其3大山区的云水量有明显的年际差异。因大气环流是影响各区域气候、天气以及云变化的重要原因，所以，通过分析新疆及其3大山区云水量最高值年、最低值年与多年平均值的环流差异，来探讨其变化原因。因为整个研究区域、阿尔泰山和天山春季的云中液态水柱含注：环流场单位：gpm;风场单位： $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ 量在年云中液态水柱含量所占比重最大，因此，选择春季来分析其环流差异；基于同样的原因，选择昆仑山的夏季分析其环流差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/db99ee6e9b0c49d00b326be71805e6cae9aa1407573b34544a764bcd31d8c181.jpg",
+        "img_caption": [
+            "图6研究区云水量最高值年与最低值年的 $5 0 0 ~ \\mathrm { { h P a } }$ 高度场环流和风场差异 Fig.6Composite differences of the $5 0 0 \\mathrm { { h P a } }$ height fields and wind fields between the year of the max cloud liquid water(min cloud liquid water) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从整个研究区域春季云水量最高值年的环流差异图(图6a)可见，在东亚，以蒙古国为中心形成一个距平气旋，新疆大部分区域处于此距平气旋范围内，在中亚形成一个距平反气旋,新疆处于这两个距平气旋与距平反气旋的气流交汇处,在这种环流配置下，新疆东部距平气旋和西部距平反气旋的气流在新疆交汇，所以，新疆整个区域气流辐合上升增强，水汽输送增强，容易形成含水丰富的云，因而云水量高。从整个研究区域春季云水量最低值年的环流差异图(图6b)可见，新疆基本处于以中亚为中心的距平反气旋范围内，整个区域气流辐散增强，水汽输送主要来自干冷的北方，所以云水量低",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阿尔泰山春季云水量最高值年与整个研究区域相同，两者环流形势相同，所以，该年阿尔泰山春季云水量高(图6c）。而从阿尔泰山春季云水量最低值年的环流差异图(图6d)可见，阿尔泰山处于距平反气旋中，气流辐散增强，水汽输送主要来自干冷的北方，所以云水量低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从天山春季云水量最高值年的环流差异图（图6e)也能得到,天山山区处于南北距平气旋交汇区域，东方的水汽向天山地区输送加强，也易形成云系；而在天山春季云水量最低值年，从其环流差异图（图6f)可见，天山山区处于西方距平反气旋和东方距平气旋之外区域，说明天山山区天气过程减少，气流辐合减弱，水汽输送减弱，因而云水量低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同样，分析昆仑山夏季云水量最高值年的环流差异图（图 $6 \\mathrm { g }$ )也能得到，昆仑山区处于距平气旋区域，气流辐合加强，昆仑山南部和东部的水汽向昆仑山地区输送加强，也易形成云系，而从昆仑山夏季云水量最低值年的环流差异图(图6h)能得出，昆仑山区处于距平反气旋区域，气流辐散增强，水汽输送主要来自干冷的东北方向。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从以上各研究区的云水量最高值年或最低值年风场变化来看，与环流场变化一致，有利于各研究区的云水量高低值变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）从云水量的空间分布来看，北疆明显高于南疆,西北区域高于东南区域，山区高于沙漠盆地，且山区的迎风向高于背风向，由西向东呈减少趋势。最低值分布在南疆的塔克拉玛干沙漠，其含量低于$2 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;高值区分布在阿尔泰山北部、天山中西部和昆仑山西南部,高达 $5 0 0 \\times 1 0 ^ { - 6 } ~ \\mathrm { k g }$ ：$\\mathrm { ~ m ~ } ^ { - 2 }$ ,山区的云水资源具有较大的开发潜力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）云水量的季节变化较明显，整个研究区域、天山和昆仑山的云水量在春季丰富，含量高于350$\\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,昆仑山在夏季较丰富;秋季云水量的均较低。新疆及其3大山区的春、夏季云水量增多的原因是，气旋性环流增多、增强，气流辐合上升增强，水汽向研究区域的输送加强，因而云水量高；而在研究区域的云水量低值年，环流变化趋势则与之相反。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）2003—2015年云水量的年均值为 $4 2 . 4 7 \\times$ $1 0 ^ { - 6 } \\sim 4 5 5 . 3 2 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,总体来看，近 $1 3 \\mathrm { ~ a ~ }$ 整个研究区域云水量时间变化平稳，3大山区则呈下降趋势。在 $2 0 0 9 / 2 0 1 0$ 年受厄尔尼诺现象影响，整个研究区域及其3大山区的云水量均明显增加，天山变化较明显。3大山区中天山的多年平均值最大，为 $2 1 9 . 0 6 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）近13a云水量的年变化总体呈“单峰形”特征,1—8月呈波动变化,变化范围为 $4 2 . 4 7 \\times 1 0 ^ { - 6 }$ （204 $\\sim 4 5 5 . 3 2 \\times 1 0 ^ { - 6 } \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ,9—12月为云水量低值期。阿尔泰山4月云水量最丰富，天山2、3月最丰富，昆仑山则在6一8月较丰富。该研究为人工增水作业的时间选择提供了理论依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文所用卫星资料来自美国宇航局(NASA）的the GoddardEarth SciencesData and In-formationServicesCenter,在此表示衷心的感谢！",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]丁贤荣.高山增水效应及其水资源意义[J].山地学报,2003， 21(6）:681-685.[Ding Xianrong.Water increasing effect of mountains and its value of water resources[J]. Journal of Mountain Research,2003,21(6):681-685.]   \n[2]彭宽军，陈勇航，林雄，等.利用CERES卫星遥感资料研究新 疆三大山区低层云水资源[C]/／中国气象学会气候资源应用 研究委员会、国家气候中心，2009：6.［PengKuanjun,Chen Yonghang,Lin Xiong,et al.Using CERES satellite remote sensing data to study low-level cloud water resources in three mountainous areas of Xinjiang $[ \\mathrm { C } ] / \\prime$ .Chinese Meteorological Society、National Climate Center,2009 6.]   \n[3]张家宝，袁玉江.试论新疆气候对水资源的影响[J].自然资源 学报,2002,17(1）:28-34.[Zhang Jiabao,Yuan Yujiang.A tentative discussion on the impact of climate on surface water resources in Xinjiang[J]. Journal of Natural Resources,2002,17 (1):28 -34.]   \n[4］陈勇航,黄建平,王天河,等.西北地区不同类型云的时空分布 及其与降水的关系[J].应用气象学报,2005,16(6)：717-727 ,862.[Chen Yonghang,Huang Jianping,Wang Tianhe,et al. Temporal and spatial distribution of the diferent clouds over northwestern china with the relation to precipitation[J]. Quarterly Journal of Applied Meteorology,2005,16(6) :717-727,862.]   \n[5]Paltridge G W.Cloud-radiation feedback to climate[J]. Quarterly Journal of theRoyal Meteorological Society,2010,106(450）:895 -899.   \n[6]Stephens G L,Greenwald T J.The Earth's radiation budget and its relation to atmospheric hydrology:2.Observations of cloud effects [J].Journal of Geophysical Research:Atmospheres,1991,96 (D8):15 325-15 340.   \n[7」石岩,饶丹.新疆水资源现状及其可持续利用对策分析[J].华 北水利水电大学学报（自然科学版）,2015,36（4）：36－38. [Shi Yan,Rao Dan.Analysis on present situation of water resourcesandsustainableutilizationcountermeasuresof Xinjiang [J].Journal of North China University of Water Resources and Electric Power（Natural Science Edition）,2015,36(4）:36-38.]   \n[8]任美谔.中国自然地理纲要[M].北京：商务印书馆,1992:334 -370.[Ren Mei'e.An Outline of China’s Physical Geography [M].Beijing:Commerce Press,1992 :334 -370.]   \n[9］王旭,马禹.2009—2010 年新疆人工增水效果评价[J].水资源 研究,2015,4(5）:450-457.[Wang Xu,Ma Yu.The effect evaluation of weather modification in the range of 2Oo9 -201O years in Xinjiang[J]. Journal of Water Resources Research,2015,4（5）: 450 -457.]   \n[10］李梦,金宏春,陈勇航,等.天山低层云水资源中冰粒子物理属 性年际变化[J].自然资源学报,2015,30（4）:696－704.[Li Meng,Jin Hongchun,Chen Yonghang,etal. The inter- annual variation of macro and micro physical properties of ice particles in the lower layer cloud water resources over Tianshan Mountains [J].Journal of Natural Resources.2015,30(4）:696 －704.]   \n[11]Aumann H H,Chahine M T,Gautier C,et al.AIRS/AMSU/HSB on the Aqua misson:Design,science objectives,data products,and processing systems[J]. IEEE Transactions on Geoscience and Remote Sensing,2003,41(2）:253-264.   \n[12]Chahine M T.AIRS:The atmospheric infrared sounder[J]. Optics and Photonics News,1991,2(10）:25 -27.   \n[13] Science T C.Clouds and the Earth's Radiant Energy System （CERES）Algorithm Theoretical Basis Document. Volume IV- Determination of Surface and Atmosphere Fluxes and Temporally and Spatially Averaged Products（Subsystems 5-12）[M].Washington:NASA Langley Technical Report Server,1995.   \n[14]Rossow W B,Schiffer R A.Advances in understanding clouds from ISCCP[J].Bulletin of the American Meteorological Society,1999, 80(11) :2 261 -2 287.   \n[15］张建新,廖飞佳,王文新.中天山山区大气总水汽量和云液水 量的遥感研究[J].中国沙漠,2003,23（5）:89-92.[Zhang Jianxin,Liao Feijia,Wang Wenxin. Study on atmospheric vapour and cloud liquid water in Tianshan Mountains by remote sensing ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J].Journal of DesertResearch,2003,23（5）:89-92.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]陈勇航,彭宽军,史玉光,等.天山山区与塔克拉玛干沙漠云水 资源的对比分析[J].干旱区地理,2009,32(6）:886－891. [Chen Yonghang,Peng Kuanjun,Shi Yuguang,et al. Comparison of cloud water resources over Tianshan Mountains and Takliman Desert[J]. Arid Land Geography,2009,32(6） :886 -891.] [17］王洪强,陈勇航,彭宽军,等.基于 Aqua卫星总云量资料分析 山区云水资源[J].自然资源学报,2011,26（1）:89－96. [Wang Hongqiang,Chen Yonghang,Peng Kuanjun,et al. Study on cloud water resources of mountain ranges in Xinjiang based on Aqua satellte data[J].Journal of Natural Resources,2011,26 (1) :89 -96.] [18］邱学兴,张萍,陈勇航,等.基于CERES 资料的山区低层云特 性时空变化研究[J].兰州大学学报（自然科学版）,2012,48 (3）:46-51.[Qiu Xuexing,Zhang Ping,Chen Yonghang,et al. Spatial and temporal variation in lower layer cloud properties over mountains based on CERES data[J]. Journal of Lanzhou University（Natural Sciences）,2012,48(3） :46-51.] [19］阿丽亚·拜都热拉,邱学兴,陈勇航,等.新疆山区低层冰云云 水资源初探[J].资源科学,2011,33（9）:1727－1734.[Aliya Badrul,Qiu Xuexing,Chen Yonghang,etal.Apreliminarystudyon lower layer ice cloud water resources over the mountainous regions in Xinjiang[J]. Resources Science,2011,33(9):1727 -1734.] [20］李浩,邓军英,刘岩,等.一次暴雨过程云中液态水微物理属性 垂直分布[J].干旱区研究,2015,32（1）：161－167.[Li Hao, Deng Junying,Liu Yan,et al.Vertical distribution of microphysical properties of liquid water in cloud during a rainstorm[J].Arid Zone Research,2015,32(1）:161-167.] [21]刘瑞霞,刘杰,刘月丽.AIRS反演中国区域上对流层水汽分布 特征研究[J].气候变化研究进展,2016,12（1)：1-9.［Liu Ruixia,Liu Jie,Liu Yueli.A spatial-temporal distribution characteristics study on the water vapor upper troposphere over China using AIRS data[J]. Climate Change Research,2016,12(1) :1 -   \n9.] [22］占瑞芬,李建平.青藏高原地区大气红外探测器(AIRS)资料质 量检验及揭示的上对流层水汽特征[J].大气科学,2008,32 (2）:242-260.[Zhan Ruifen,Li Jjianping.Validation and characteristics of upper tropospheric water vapor over the Tibetan Plateau from AIRS satelite retrieval[J]. Chinese Journal of Atmospheric Sciences,2008,32(2） :242-260.] [23］张雪芹,李敏姣,孙通.大气红外探测器(AIRS)资料揭示的中 亚地区上对流层水汽时空变化特征[J].干旱区研究,2013,30 (6）:951-957.[Zhang Xueqin,Li Minjiao,Sun Tong.Spatiotemporal variation of water vapor in upper troposphere over Central Asia based on AIRS satellte retrieval[J].Arid Zone Research,   \n2013,30(6) :951 -957.] [24]轩俊伟,郑江华,刘志辉.基于 SPEI的新疆干旱时空变化特征 [J].干旱区研究,2016,33（2）:338-344[Xuan Junwei,Zheng Jianghua,Liu Zhihui. SPEI - based spatiotemporal variation of drought in Xinjiang[J].Arid Zone Research.2016,33(2）:338 -   \n344.] [25］李兴宇,郭学良,朱江.中国地区空中云水资源气候分布特征 及变化趋势[J].大气科学,2008,32（5）：1094-1106.［Li ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Xingyu,Guo Xueliang,Zhu Jiang.Climatic distribution features and trends of cloud water resources over China[J].Chinese Journal of Atmospheric Sciences,2008,32(5) :1 094-1 106.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]徐洁，张新军，王舒，等.厄尔尼诺-拉尼娜事件对新疆环境气 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial and Temporal Distribution for the Cloud Liquid Water over Three Major Mountains in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiao - juan1,WANG Junl $*$ ,HUANG Guan1,CHEN Yong -hang1,2 \\*, YANG Lian-mei2,LI Hong- jun2,WANG Xu3,ZHENG Ning1 (1. College of Environmental Science and Engineering,Donghua University,Shanghai 2O162O,China ; 2.Instituteof Desert Meteorologyof China Meteorological Administration,Urumqi 83oo02,Xinjiang,China; 3. Weather Modification Office of Xinjiang Uygur Autonomous Region of China,Urumqi 830o02,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Using the cloud data set distributed by NASA（AIRS/Aqua L2 Standard Physical Retrieval （AIRS $+$ AMSU）VO06（AIRX2RET）,and select Xinjiang region,especially the three mountainous areas with abundant cloud liquid water,to study the temporaland spatial distribution of cloud liquid water.Theresults show that the cloud water volume inthe northwestern region is higher than thatinthe southeast region，the lowest in the desert basin.The richer in the mountainous area,up to $5 0 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ，and the upwind direction is higher in the mountainous region.Afected by the general circulationof theatmosphere，the total research areas，Tianshan Mountains and Kunlun Mountains have abundant cloud liquid water in spring，which is than $3 5 0 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ： Kunlun Mountains are more abundant in the summer,whilethe total research areas are lower in autumn,below 20 $\\times 1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ . The average annual cloud water volume fluctuated between $4 2 . 4 7 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ and $4 5 5 . 3 2 \\times$ $1 0 ^ { - 6 } \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ in recent 13 years.The cloud liquid water was generall stable in the total research areas，and the three mountainous regions showed a decreasing trend.The cloud liquid water volume showed an upward trend in the general region from $2 0 0 9 \\ \\mathrm { t o } 2 0 1 0$ ，and Tianshan Mountains has obvious changes. The annual variation of cloud water in the tree major mountain areas showed \"single peak\"，and the highest period of cloud liquid water in Altai, Tianshan and Kunlun Mountains occurred from February to April，March to May and April to August respectively, and the peak values ?? were $8 2 2 . 3 0 \\times 1 0 ^ { - 6 } \\mathrm { k g } \\cdot \\mathrm { m } ^ { - 2 }$ ， $8 6 9 . 7 5 \\mathrm { x } 1 0 - 6 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } - 2$ ，and $7 4 2 . 8 2 { \\times } 1 0 - 6 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } - 2$ ： Key words:the cloud liquid water；atmospheric circulation；temporal and spatial distribution；Xinjiang region; the three mountain ranges : ",
+        "page_idx": 9
+    }
+]

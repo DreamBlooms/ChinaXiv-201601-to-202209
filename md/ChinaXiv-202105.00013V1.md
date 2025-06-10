@@ -1,0 +1,279 @@
+# 基于虚拟相机的天线俯仰轴形变快速高精度测量方法研究
+
+于琳琳1,4，许谦 $^ { 1 , 2 , 3 ^ { * } }$ ，王娜1,2,3  
+(1.中国科学院新疆天文台，乌鲁木齐，830011；2.中国科学院射电天文重点实验室，乌鲁木  
+齐 830011；3.新疆射电天体物理重点实验室，乌鲁木齐 830011；4.中国科学院大学，北京，100049)
+
+摘要：磨损和扭转造成天线俯仰轴结构小尺度变形的快速高精度测量，对修正大口径全可动射电望远镜天线指向精度以及俯仰轴主动健康监测有非常重要的价值。本文提出一种基于虚拟相机的俯仰轴形变测量方法，通过构建单相机测量系统进行数据采集，并建立测量系统数学模型，借助虚拟相机将结构变形转换为虚拟相机空间变换。实验结果表明，该方法在平移分量综合精度可达 $0 . 2 8 2 5 \mathrm { m m }$ ，旋转分量精度最低可达0.2918，能够实现俯仰轴1mm尺度变形的快速测量。该系统及其方法具有非接触、精度高、快速性等优点，能满足大口径高频段高精度的射电望远镜俯仰轴长期快速测量需求，也适用于其他大结构小变形测量。
+
+关键词：虚拟相机；大口径射电望远镜；天线俯仰轴；小尺度变形；目标空间变换中图分类号：P111.5 文献标识码：A 文章编号：1007-2276-(2004)4-0338-05
+
+# 0引言
+
+射电望远镜天线俯仰轴长期运行会造成磨损和扭转变形，虽然变化量不大，但对高精度指向产生的影响不可忽略，这种影响随着天线口径增大、观测频段提高、天线综合性能要求提升而显得更加明显。研究俯仰轴形位变化对提高望远镜指向精度具有重要意义[1][2]。
+
+目前国内外大口径、高精度天线对关键结构变化造成的性能影响研究主要集中于中、大尺度变形的测量及补偿。如美国GBT100米[3在天线座架及副面撑腿上安装了温度传感器，测量了结构受温度影响大小。钱宏亮、范锋等[4,5,6]考虑了天线结构阴影遮挡，对500米口径球面射电望远镜(FAST)及上海天马65米射电望远镜(TM)进行了热力学仿真，分析了各类天线的温度分布特性。意大利SRT64米采用位置信号传感器(Position Sensor Device,PSD)测量了副反射体位姿，用以修正副面因自重、环境载荷造成的位置偏差[7,8]。上海TM应用PSD测量副面三维位移，并分析各种因素导致的大型射电望远镜的副面位姿变化[9,10]。Ukita等[1]利用倾斜仪、热电偶以及风速仪，建立了方位轴误差与温度梯度、风致倾覆力矩与方位轴偏转之间的经验公式。新疆南山26米望远镜测量了望远镜轨道高差，并分析了其对指向精度的影响[12]。对于天线重要部件的小尺度变形测量研究并不多，IgorA.Konyakhin等人为RT-70Suffa射电望远镜俯仰轴设计了基于自准直方法的角度变形测量系统，在22米远测量距离和16角分测量范围内，系统误差为15角分[13]。改进后的自准直法测量系统，系统测量距离为8米，其测量精度为11角秒(Root Mean Square,RMS)[14]，但是自准直法系统结构复杂、安装要求高、不易维护。
+
+俯仰轴作为天线结构重要部件，其长期运行过程中会产生磨损、扭转等使得位置发生小尺度变化，会导致轴角编码器获取的俯仰角和实际俯仰角发生偏差影响指向精度，微小变化造成的俯仰轴内部组织性能的演化在特定阶段会加速俯仰轴的疲劳。精确测量俯仰轴的形变对天线指向精度修正、俯仰轴系统主动维护、以及制定和动态调整合理的望远镜观测极化提供重要支撑。
+
+本文设计了一种单相机形变测量系统，提出基于虚拟相机的俯仰轴形变测量方法，快速获取俯仰轴上靶标图像，分析靶标处形变信息，实现俯仰轴结构小变形高精度快速测量，为实现大口径射电望远镜指向精度修正提供一种备选方法。
+
+# 1单相机形变测量系统
+
+单相机形变测量系统设计方法，如图1左所示。通过快速获取俯仰轴设置的靶标图像，分析俯仰轴上靶标所在处形变信息，图中每个靶标对应某一俯仰角下的被测物所在位置的形变情况。靶标1，2和3，分别于俯仰角30度、60度和90度时单独出现在相机视野中。如图1所示，约定分别沿着X、Y、Z轴正向以右手法则为俯仰角(Pitch)、偏航角(Yaw)和滚转角(Roll)。
+
+测量过程如下。首先，俯仰轴非工作时，获取三个靶标的图像各一帧，作为初始位置参考。然后，正常工作时，当俯仰角达到其中之一角度时，固定在俯仰轴末端的单个相机快速获取对应的靶标的图像，分别存储和处理三个靶标的图像集。最后，通过图像处理算法，得到相应靶标的多次空间变换。
+
+![](images/1d84e45540b40fb89ba1752e0832a495443e79a9e83272050601bd6fbbd80075.jpg)  
+图1单相机形变测量系统及俯仰轴角度方向
+
+Fig.1 Single camera deformation measurement system and angular orientation of the pitch axis
+
+# 2测量系统数学模型
+
+# 2.1 虚拟相机
+
+虚拟相机是将真实物体空间变换等效成真实相机空间变换的方法，特点是在真实相机中观察到的物体运动情况与虚拟相机中原物体运动情况一致。采用虚拟相机的优势在于：一个固定相机能够监测物体的小尺度六自由度运动情况，且虚拟相机空间变换与真实物体空间变换有定量关系。
+
+本研究假定，真实模型包括初始目标A、形变后的目标B和真实相机O，如图2(a)所示；而虚拟模型包括初始目标A、真实相机O和虚拟相机 $\mathrm { ~ \bf ~ P ~ }$ 组成，如图2(b)所示。建立右手坐标系， $O - X _ { o } Y _ { o } Z _ { o }$ 是真实相机坐标系也是世界坐标系， $A - X _ { _ { A } } Y _ { _ { A } } Z _ { _ { A } }$ 是初始目标坐标系，目标坐标系各坐标轴与真实相机坐标系平行， $B - X _ { _ { B } } Y _ { _ { B } } Z _ { _ B }$ 是形变后的目标坐标系， $P - X _ { _ { P } } Y _ { _ { P } } Z _ { _ { P } }$ 是虚拟相机坐标系。
+
+![](images/a62151cdd4c75a8fcd99856a24c7576557202fbe262c31496d037bc5c239ad80.jpg)  
+图2真实模型与虚拟模型 Fig.2Real and virtual models
+
+假定存在一个虚拟相机 $\mathrm { ~ \bf ~ P ~ }$ ，当俯仰轴上目标A变化到B，虚拟相机拍到的目标A图像与真实相机O拍到的目标B的图像完全相同，则公式(1)成立，其中 $A _ { 1 }$ 和 $B _ { 1 }$ 分别是 $A - X _ { _ { A } } Y _ { _ { A } } Z _ { _ { A } }$ 下和 $B - X _ { _ { B } } Y _ { _ { B } } Z _ { _ B }$ 下目标上同一点，如图2所示。
+
+$$
+\overrightarrow { O B } _ { \scriptscriptstyle 1 } = \overrightarrow { P A } _ { \scriptscriptstyle 1 }
+$$
+
+在 $O - X _ { o } Y _ { o } Z _ { o }$ 和 $P - X _ { _ { P } } Y _ { _ { P } } Z _ { _ { P } }$ 坐标系表示 $\overrightarrow { O B _ { 1 } }$ 和 $\overrightarrow { P A _ { 1 } }$ ，如公式(2)所示。
+
+$$
+\begin{array} { r } { \overrightarrow { O B _ { 1 } } = \overrightarrow { O A } + \mathbf { \Pi } _ { A } ^ { O } R \cdot \overrightarrow { A B } + \mathbf { \Pi } _ { A } ^ { O } R \cdot \mathbf { \Pi } _ { B } ^ { A } R \cdot \overrightarrow { B B _ { 1 } } } \\ { \overrightarrow { P A _ { 1 } } = \overrightarrow { P O } + \mathbf { \Pi } _ { O } ^ { P } R \cdot \overrightarrow { O A } + \mathbf { \Pi } _ { O } ^ { P } R \cdot \mathbf { \Pi } _ { A } ^ { O } R \cdot \overrightarrow { A A _ { 1 } } } \end{array}
+$$
+
+根据虚拟相机概念以及公式(1)和(2)，目标空间变换可等价成虚拟相机相对于真实相机的空间变换。
+
+# 2.2空间等价变换
+
+由于虚拟相机的存在，若目标A发生到B的平移变换，则相当于真实相机O到P 的变换，如图3(a)所示。若目标A发生到B的旋转变换，则相当于真实相机O到Q的变换，如图3(b)所示。一次空间等价变换，等价于若干次平移变换和旋转变换的组合迭代。
+
+![](images/90693226373ae81397b7d0a1b49a86a08c5132a8efae12f6c0279061c29fc948.jpg)  
+图3目标的平移与旋转  
+Fig.3 Translation and rotation of the target
+
+在图3(a)中，平移变换的关系如公式(3)。
+
+$$
+\begin{array} { l } { { \overrightarrow { O B } = \overrightarrow { P A } } } \\ { { x _ { a } = x _ { o } , y _ { a } = - y _ { o } , z _ { a } = z _ { o } } } \end{array}
+$$
+
+在图3(b)中，旋转变换的关系如式(4)。
+
+$$
+\begin{array} { l } { \overrightarrow { P A _ { 1 } } = \overrightarrow { O B _ { 1 } } } \\ { \alpha _ { 1 } = \alpha _ { 2 } = \alpha _ { 3 } } \\ { \beta _ { \ 1 } = \beta _ { 2 } = \beta _ { 3 } } \end{array}
+$$
+
+# 2.3目标空间变换
+
+根据坐标系的欧式变换，可以得到目标空间等价变换定量关系。
+
+设某个向量在 $A - X _ { _ { A } } Y _ { _ { A } } Z _ { _ { A } }$ 下表示为 $\vec { \mathbf { \Phi } } _ { a } ^ { - }$ ，在 $O - X _ { o } Y _ { o } Z _ { o }$ 下表示为 $\vec { b }$ ，经过一次空间变换，初始目标坐标系 $A - X _ { _ { A } } Y _ { _ { A } } Z _ { _ { A } }$ 变换到 $B - X _ { _ { B } } Y _ { _ { B } } Z _ { _ B }$ ,等价于真实相机坐标系 $O - X _ { o } Y _ { o } Z _ { o }$ 下虚拟相机坐标系 $P - X _ { _ { P } } Y _ { _ { P } } Z _ { _ { P } }$ 的位姿变换，则公式(5)关系成立。
+
+$$
+\begin{array} { r l } & { \vec { b } = \mathbf { \Phi } _ { A } ^ { o } \mathbf { R } \cdot \vec { a } + \mathbf { t } _ { O A } } \\ & { \vec { b } = \mathbf { \Phi } _ { B } ^ { o } \mathbf { R } \cdot ( \mathbf { \Phi } _ { A } ^ { B } \mathbf { R } \cdot \vec { a } + \mathbf { t } _ { B A } ) + \mathbf { t } _ { O B } } \\ & { \vec { b } = \mathbf { \Phi } _ { P } ^ { o } \mathbf { R } \cdot ( \mathbf { \Phi } _ { A } ^ { P } \mathbf { R } \cdot \vec { a } + \mathbf { t } _ { P A } ) + \mathbf { t } _ { O P } } \end{array}
+$$
+
+由公式(5)可以得出公式(6)。
+
+$$
+{ \bf \Pi } _ { A } ^ { o } { \bf T } = { \bf \Pi } _ { B } ^ { o } { \bf T } \cdot { \bf \Pi } _ { A } ^ { B } { \bf T } = { \bf \Pi } _ { P } ^ { o } { \bf T } \cdot { \bf \Pi } _ { A } ^ { P } { \bf T }
+$$
+
+其中，
+
+$\mathbf { \Phi } _ { A } ^ { o } \mathbf { T } = \left| \mathbf { \Phi } _ { 4 } ^ { o } \mathbf { R } \quad \mathbf { f } _ { O _ { 4 } } \right| , \mathbf { \Phi } _ { B } ^ { o } T = \left| \mathbf { \Phi } _ { B } ^ { o } \mathbf { R } \quad \mathbf { f } _ { O _ { 4 } } \right| , \mathbf { \Phi } _ { \mathrm { A } } ^ { \mathrm { B } } \mathbf { T } = \left| \mathbf { \Phi } _ { 4 } ^ { B } \mathbf { R } \quad \mathbf { f } _ { B _ { 4 } } \right| , \mathbf { \Phi } _ { P } ^ { o } \mathbf { T } = \left| \mathbf { \Phi } _ { P } ^ { o } \mathbf { R } \quad \mathbf { f } _ { O P } \right| , \mathbf { \Phi } _ { A } ^ { P } \mathbf { T } = \left| \mathbf { \Phi } _ { 0 } ^ { P } \mathbf { R } \quad \mathbf { f } _ { P _ { 4 } } \right| ,$ ${ } _ { A } ^ { o } \mathbf { T }$ 是系统固有矩阵，与真实固定相机和初始目标的相对位置有关， $\mathbf { \Lambda } _ { B } ^ { o } \mathbf { T }$ 是 $O - X _ { o } Y _ { o } Z _ { o }$ 到$B - X _ { _ { B } } Y _ { _ { B } } Z _ { _ B }$ 的变换， $\mathbf { \Lambda } _ { B } ^ { o } \mathbf { T }$ 是目标空间变化量， $\mathbf { \Pi } _ { P } ^ { O } \mathbf { T }$ 是虚拟相机变换量， $\mathbf { \Pi } _ { A } ^ { P } \mathbf { T }$ 是 $A - X _ { _ { A } } Y _ { _ { A } } Z _ { _ { A } }$ 到$P - X _ { _ { P } } Y _ { _ { P } } Z _ { _ { P } }$ 的变换。容易得出 ${ \bf \Pi } _ { B } ^ { O } { \bf T } = { \bf \Pi } _ { A } ^ { P } { \bf T }$ ，故目标空间变换关系为公式(7)。
+
+$$
+\mathbf { \Pi } _ { A } ^ { B } \mathbf { T } = \mathbf { \Pi } _ { A } ^ { O } \mathbf { T } ^ { - 1 } \cdot \mathbf { \Pi } _ { P } ^ { O } \mathbf { T } \cdot \mathbf { \Pi } _ { A } ^ { O } \mathbf { T }
+$$
+
+其中， ${ } _ { A } ^ { o } \mathbf { T }$ 可由公式(2)求得。
+
+# 3虚拟相机空间变换求解
+
+# 3.1相机模型
+
+理想相机可以看作是针孔相机,如图4所示。设 ${ \cal O } _ { c } - X _ { c } Y _ { c } Z _ { c }$ 为相机坐标系， $O _ { \scriptscriptstyle W } - X _ { \scriptscriptstyle W } Y _ { \scriptscriptstyle W } Z _ { \scriptscriptstyle W }$ 为世界坐标系， $O _ { { \scriptscriptstyle U V } } - U V$ 是图像像素坐标系。设点 $P$ 在世界坐标系下坐标为 $( X _ { \scriptscriptstyle W } , Y _ { \scriptscriptstyle W } , Z _ { \scriptscriptstyle W } )$ ，相机坐标系下坐标为 $( X _ { c } , Y _ { c } , Z _ { c } )$ ，成像点 $P _ { 0 }$ 像素坐标为 $( u , \nu )$ ，相机成像过程表示成公式(8)。其中，相机内参矩阵为 $\mathbf { K }$ ，外参矩阵为 $\mathbf { M }$ 。
+
+![](images/37c5024f51f93873a4dc13e566c8501713381d88ce90e77f17aca52dc5fbf87b.jpg)  
+图4针孔相机模型  
+Fig.4 Pinhole camera model
+
+$$
+\begin{array} { r } { Z _ { c } \cdot \left( \begin{array} { l } { u } \\ { \nu } \\ { 1 } \end{array} \right) = \mathbf { K } \cdot \left( \begin{array} { l } { X _ { c } } \\ { Y _ { c } } \\ { Z _ { c } } \\ { 1 } \end{array} \right) = \mathbf { K } \cdot \mathbf { M } \cdot \left( \begin{array} { l } { \left( X _ { W } \right) } \\ { Y _ { W } } \\ { Z _ { W } } \\ { 1 } \end{array} \right) } \end{array}
+$$
+
+其中， $\mathbf { K } = \left( \begin{array} { c c c c } { f _ { x } } & { s } & { u _ { 0 } } & { 0 } \\ { 0 } & { f _ { y } } & { \nu _ { 0 } } & { 0 } \\ { 0 } & { 0 } & { 1 } & { 0 } \end{array} \right) , \mathbf { M } = \left( \begin{array} { c c c c } { R } & { t } \\ { 0 ^ { T } } & { 1 } \end{array} \right) \circ \mathbf { \Omega } \left( f _ { x } , f _ { y } \right) \cdot \mathbf { \Omega }$ 是相机焦距， $( u _ { 0 } , \nu _ { 0 } )$ 是相机主轴与图像平面的交点， $s$ 是倾斜因子通常认为是0， $\textbf { R }$ 和t是从世界坐标系到摄像机坐标系的旋转和
+
+平移变换。
+
+在实际相机模型中，有多种类型畸变，但一般情况下考虑径向畸变和切向畸变已经足够。
+
+# 3.2第一帧对应虚拟相机空间变换
+
+![](images/a7e5ae0f9eeeda4eaaa7d72ddfaf35c48d96b5b79c18bb1512610abf29b3b4d4.jpg)  
+图5参考帧和第一帧的关系  
+Fig.5 The relationship between the reference frame and the first frame
+
+利用二维投影求解第一帧对应虚拟相机空间变换[15]，如图5所示。设 $P$ 是三维空间中一点。 $O _ { 1 }$ 和 $O _ { 2 }$ 是真实相机光心和虚拟相机光心，空间变换为 $\textbf { R }$ 和t。 $p _ { 1 }$ 和 $p _ { 2 }$ 分别是空间点 $P$ 在两个成像平面 $I _ { 1 }$ 和 $I _ { 2 }$ 上的投影。 $l _ { 1 }$ 和 $l _ { 2 }$ 是极线， $e _ { 1 }$ 和 $e _ { 2 }$ 是极点。根据针孔相机模型，得公式(9)。
+
+$$
+s _ { 1 } p _ { 1 } = \mathbf { K } P , s _ { 2 } p _ { 2 } = \mathbf { K } ( \mathbf { R } P + \mathbf { t } )
+$$
+
+其中， $K$ 是相机内参矩阵， $s _ { 1 }$ 和 $s _ { 2 }$ 是特征点深度。若取 $x _ { 1 }$ 和 $x _ { 2 }$ 是两个像素点的归一化平面坐标，得到公式(10)。
+
+$$
+{ x _ { 2 } } ^ { \mathrm { T } } { \bf E } x _ { 1 } = { p _ { 2 } } ^ { \mathrm { T } } { \bf F } p _ { 1 } = 0
+$$
+
+其中， $x _ { 1 } = \mathbf { K } ^ { - 1 } p _ { 1 } , x _ { 2 } = \mathbf { K } ^ { - 1 } p _ { 2 }$ 。 $\mathbf { F }$ 是基础矩阵和 $\mathbf { E }$ 是本质矩阵，分解 $\mathbf { E }$ 或 $\mathbf { F }$ 可求 $\textbf { R }$ 和t。若多对空间点都落在同一平面内，则通过单应矩阵 $\mathbf { H }$ 求 $\textbf { R }$ 和t。
+
+# 3.3其余帧对应虚拟相机空间变换
+
+利用三角测量法如公式(11)，得到空间点的深度信息。
+
+$$
+s _ { 2 } x _ { 2 } = s _ { 1 } \mathbf { R } x _ { 1 } + \mathbf { t }
+$$
+
+从第二帧起，相邻帧间关系如图6(a)所示， $O _ { k - 1 }$ 和 $I _ { k - 1 }$ 是前一帧对应虚拟相机的光心和图像， $O _ { k }$ 和 $I _ { k - 1 }$ 是当前帧对应虚拟相机的光心和图像， $P _ { 1 } \setminus P _ { 2 }$ 和 $P _ { 3 }$ 是空间点，投影点是 $p _ { 1 }$ 、$p _ { 2 }$ 和 ${ p } _ { 3 }$ ，以及 $p _ { 1 } ^ { \prime }$ 、 ${ p _ { 2 } } ^ { \prime }$ 和 ${ p _ { 3 } } ^ { \prime }$ 。
+
+根据多个空间点三维信息和相邻帧间关系，借助 Perspective-3-Points(P3P)[16]，为求解其余帧对应虚拟相机空间变换，如图6(b)所示。空间点 $A$ 、 $B$ 和 $C$ 分别对应图像投影点 $\mathbf { \Delta } _ { a }$ 、b和 $\mathbf { \Psi } _ { c }$ ，几何关系表示成公式(12)。
+
+![](images/15e26414cc0c4fd06e7cdc4e7494f8a0b480437e7bdafeb5383e55a20dbadfc3.jpg)  
+图6其余帧虚拟相机空间变换
+
+Fig.6 Virtual camera space transformation for the remaining frames
+
+$$
+\begin{array} { l } { O A ^ { 2 } + O B ^ { 2 } - 2 O A \cdot O B \cdot \cos \langle a , b \rangle = A B ^ { 2 } } \\ { O B ^ { 2 } + O C ^ { 2 } - 2 O B \cdot O C \cdot \cos \langle b , c \rangle = B C ^ { 2 } } \\ { O A ^ { 2 } + O C ^ { 2 } - 2 O A \cdot O C \cdot \cos \langle a , c \rangle = A C ^ { 2 } } \end{array}
+$$
+
+# 4实验及结果
+
+本文搭建光学测试平台，验证测量系统数学模型中的空间等价变换，并分析实验误差。
+
+# 4.1光学测试平台
+
+光学测试系统主要组成有空间高精度平台、定焦镜头、相机和标定板等，如图7所示，参数见表1。
+
+![](images/0bba9cc925b456f87e3d615e44bab204e74fecacf943abfdae7e4f528a62ae6b.jpg)  
+图7光学测试平台  
+Fig.7 Optical test platform
+
+# 表1光学测试平台主要组成和具体参数
+
+Tab.1 Main components and specific parameters of the optical test platform
+
+<html><body><table><tr><td></td><td>Products</td><td>Parameters</td></tr><tr><td>High-precision</td><td>2* GCD-302001M、</td><td>GCD-302001M long reach table with 400mm stroke and 0.00125mm</td></tr><tr><td>four-degree-of-freedom</td><td>GCD-301101M、</td><td>resolution; GCD-301101M lift table with 12mm stroke and 2.5mium</td></tr><tr><td>stage</td><td>GCD-012100M</td><td>resolution; GCD-01210oM rotary table with 0.0005 degree resolution</td></tr><tr><td>Fixed focal lens</td><td>AZURE-NV5020M6M</td><td>length 50mm for focal length</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>F2.0~16 for aperture</td></tr><tr><td>Camera</td><td>DMK33UX290-USB3.0</td><td>The resolution is up to 1920*1080 with 1/2.8inch,2.9mium pixels both</td></tr><tr><td></td><td></td><td>horizontally and vertically,and the sensor is Sony IMX290LLR</td></tr><tr><td>Calibration plate</td><td>GCG-020303</td><td>2.0mm*2.0mm,25*25 arrays</td></tr></table></body></html>
+
+# 4.2结果分析
+
+本次结果分析将图像解算的空间变换数据作为测得值，将高精度四自由度平台数据作为真实值，将测得值与真实值差值作为误差，分析各自由度误差情况。
+
+由于结构为小变形量，本次实验在平移分量上实验条件为，X，Y和Z方向的变化范围分别为 $\cdot 4 { \sim } 5 \mathrm { m m }$ ， $- 2 { \sim } 2 \mathrm { m m }$ 和 $- 3 { \sim } 3 \mathrm { m m }$ 。
+
+![](images/416b432def5d7c43c95c5f4a3b6952550002f59dbbf49b74e3af842201aa385e.jpg)
+
+a)X 轴平移分量(误差折线反映了15帧图像的空间变换X轴分量上测得值与真实值的差值变化。) a)X-axistranslationalcomponent（Teerrorlinereflects thechangeintedierencebtweenthemeasuredandtruevaluesonthe X-axis component of the spatial transformation of the 15 frames.)
+
+![](images/d66ac53d533c7b9f43af3dfae11a9077a66b030a76b85f4b59bbb6982038cfbe.jpg)  
+b)Y轴平移分量(误差折线反映了15帧图像的空间变换Y轴分量上测得值与真实值的差值变化。)
+
+b)Y-axis ranslatioalcompoent（herorieeflectsthechangeinthediferencebetweenthemeasuredandtruevauesontheYaxis component of the spatial transformation of the 15 frames.)
+
+![](images/3b2c52d017aa00e71ce828eb6a33e26386a834cdf47c868bafd9cddf5aeba434.jpg)  
+c)Z 轴平移分量(误差折线反映了15 帧图像的空间变换Z轴分量上测得值与真实值的差值变化。)
+
+c)Z-axistranslatioalcompoenteerorneeflectsthecangeinthedierenceetweenthemeasurdandtuevauesoeZ-axis component of the spatial transformation of the 15 frames.) Fig.8 Error distribution of experimental results for translational components
+
+# 表2平移分量精度分析
+
+Tab.2 Translational component accuracy analysis   
+
+<html><body><table><tr><td>Error(mm)</td><td>X Axis</td><td>Y Axis</td><td>Z Axis</td></tr><tr><td>Minimum</td><td>0.0071</td><td>0.0010</td><td>-0.0190</td></tr><tr><td>Maximum</td><td>-0.3602</td><td>0.3914</td><td>-0.3937</td></tr><tr><td>RMS</td><td>0.1795</td><td>0.1355</td><td>0.1710</td></tr></table></body></html>
+
+由图8和表2可知，平移分量中，X轴方向上最大误差为 $. 0 . 3 6 0 2 \mathrm { m m }$ ，均方根误差（RootMean Square Error，RMSE）为 $0 . 1 7 9 5 \mathrm { m m }$ ，Y轴方向上最大误差为 $0 . 3 9 1 4 \mathrm { m m }$ ，RMSE为$0 . 1 3 5 5 \mathrm { m m }$ ，Z轴最大误差为 $. 0 . 3 9 3 7 \mathrm { m m }$ ，RMSE为 $0 . 1 7 1 0 \mathrm { m m }$ 。
+
+![](images/1598a2b9ad33af95ff5eb80218a3967989c82c216253fd168b7109f9ca2044af.jpg)  
+图8平移分量实验结果误差分布图
+
+在旋转分量上的实验条件为，Pitch和Roll方向认为置零，Yaw方向的变化范围为-5\~5degree。
+
+a)Pitch 旋转分量(误差折线反映了15 帧图像的空间变换Pitch 分量上测得值与真实值的差值变化)
+
+a)Pitchanglerotationalcomponent (Theerrorlineeflectsthechangeinthediferencebetweenthemeasuredandtruevaluesor
+
+![](images/55d6b0a46869824e3628056d3c6085cdf534f7d89e903c65c63e78da8ae2456d.jpg)
+
+b)Yaw 旋转分量(误差折线反映了15帧图像的空间变换Yaw 分量上测得值与真实值的差值变化。) b)Yawanglerotationalcomponent (Teerorlinereflects thechangeinthedierencebetweenthemeasuredandtruevaluesonthe yaw component of the spatial transformation of the 15 frames.)
+
+![](images/fdbdc0ab8f48493fde76df533578f8b0721da5ef36e3104a0629e58c9975e555.jpg)  
+c)Roll 旋转分量(误差折线反映了15 帧图像的空间变换Yaw 分量上测得值与真实值的差值变化。)  
+图9旋转分量实验结果误差分布图
+
+c)Rollanglerotationalcomponent (Terorlineeflects thechangeinediferenebtweenthemeasuredandtruealuesonte roll component of the spatial transformation of the 15 frames.)
+
+Fig.9 Error distribution of experimental results for rotational components
+
+# 表3旋转分量精度分析
+
+Tab.3 Rotational component accuracy analysis   
+
+<html><body><table><tr><td>Error(degree)</td><td>Pitch</td><td>Yaw</td><td>Roll</td></tr><tr><td>Minimum</td><td>0.0000</td><td>0.0023</td><td>0.0311</td></tr><tr><td>Maximum</td><td>0.0745</td><td>0.6138</td><td>0.6131</td></tr><tr><td>RMS</td><td>0.0376</td><td>0.2676</td><td>0.2918</td></tr></table></body></html>
+
+由图9和表3可知，旋转分量中，Pitch方向最大误差为0.0745degree，RMSE为0.0376degree，Yaw方向最大误差为0.6138degree，RMSE为0.2676degree，Roll方向最大误差为0.6131degree，RMSE 为0.2918degree。
+
+# 5结论
+
+本文设计了单相机俯仰轴形变测量系统，建立数学模型、推导虚拟相机空间变换与目标空间变换的定量关系，提出基于虚拟相机的俯仰轴形变测量方法；搭建光学测试平台对方法原理进行验证，并分析各自由度误差。
+
+实验结果表明：平移分量上，X方向 $\cdot 4 { \sim } 5 \mathrm { m m }$ 内RMSE 为 $0 . 1 7 9 5 \mathrm { m m }$ ，Y方向 $- 2 { \sim } 2 \mathrm { m m }$ 内 RMSE 为 $0 . 1 3 5 5 \mathrm { m m }$ ，Z方向 $- 3 { \sim } 3 \mathrm { m m }$ 内RMSE 为 $0 . 1 7 1 0 \mathrm { m m }$ ；旋转分量上，yaw方向在俯仰轴旋转-5\~5度内RMSE为0.2676degree，pitch方向和roll方向在0度处RMSE 分别为0.0376degree 与0.2918degree。误差主要由相机坐标轴与靶标坐标轴不完全平行和图像解算方法等因素引起。
+
+该系统及其方法具有非接触、精度高、快速性等优点，能满足大口径高频段高精度的射电望远镜俯仰轴长期快速测量需求，也适用于其他大结构小变形测量。下一步将在大口径射电望远镜中应用。
+
+# 参考文献
+
+[1]王娜，新疆奇台110米射电望远镜.中国科学:物理学 力学 天文学,2014,44(08):783-794.   
+WANGNa,XinjiangQitai10mradiotelescope.SCENTANICA:Physica,Mechanica&Astronomica,2014,44(08):783-794. [2]魏善祥,王启明,孔德庆,赵保庆,朱明,王清梅.大型双反射面天线指向误差评估算法[J].天文研究与技术,2020,17(04):513-521. WeiShanxiang,Wang Qiming,Kong Deqing,ZhaoBaoqing,ZhuMing,Wang Qingmei.AlgorithmforEstimatingPointingErf Large Dual-reflector[J].Antenna.Astronomical Reasearch & Technology,2020,17(04): 513-521.   
+[3]PrestageRM.TheGBTprecisiontelescopecontrolsystem[J].Proceedingsof SPIE-TheInternational SocietyforOptical Engineering,2004,314:689.   
+[4] 钱宏亮,钟杰,范峰.上海65m射电望远镜天线结构日照非均匀温度场[J].土木工程学报,2014,47(03):39-46   
+QianHongliang,ZhongJie,FanFeng.Analysisonnon-uniformtemperaturefieldduetosunshinefortheantennastructureofShanghai 65-meter-aperture radio telescope [J]. China Civil Engineering Journal,2014,47(O3): 39-46.   
+[5]金晓飞,范峰,沈世钊.巨型射电望远镜(FAST)反射面支承结构日照温度场效应分析[J].土木工程学报,2008(11):71-77. JINXiaofei,FANFeng,SHENShzhao.Effectofon-uniformtemperaturefeldundersunshneonthestructuresupportingtheeflector of alarge radio telescope-FAST[J]. China Civil Engineering Journal,20o8(11):71-77.   
+[6] Qian H,Chen D,FanF,etal.Evaluation of solar temperature field under different wind speeds for Shanghai $6 5 \mathrm { ~ m ~ }$ radio telescope[J]. International Journal of Steel Structures,2016,16(2):383-393.   
+[7]Pisanu,T,Buffa,F,Deiana,G Letal.,Architecture of the metrology for the SRT.2012,84442E.   
+[8]Pisanu,TBuffa,FConcuetal.,APSD(positionsensingdevice）tomaptesftandiltofteSsecondaryiro14, 91454U.   
+[9]江永琛,王锦清,苟伟,虞林峰,蒋甬斌.PSD法测量大型射电望远镜副面位姿[J].天文学报,2019,60(06):98-107.   
+JIANG Yongchen WANG Jinqing GOU Wei YULinfeng JIANG Yongbin.The MeasurementofSub-reflector's DisplacementofLarge Radio Telescopes by PSD Method [J].Acta Astronomica Sinica,2019,60(06): 98-107.   
+[10]Yongchen,JJinqing,W,WeiGetal.,APositionSensingevice'sApplicationonanaadioTelescope.hengduican China: 2017.5. [1]UkitaN,Ezawa H,IkenoueB,etal.ThermalandWindEfectsontheAzimuthAxisTiltoftheASTE10-mAntenna[J] Publications of the National Astronomical Observatory of Japan,2oo7,10.   
+[12] 温浩兴，许谦，王娜.南山26米射电望远镜轨道高差测量及其对指向精度的影响，天文研究与技术[J]，2019,16(2):158-166. Wen Haoxing Xu Qian Wang Na.Measurementof NSRT26m Antenna Track Unevenessand InfluenceonPointing Accuracy[J]. Astronomical Reasearch & Technology 2019,16(2): 158-166.   
+[13]Konyakhin,IoeevAUsik,ealOpticelectroicstesfoeasuingtegledforatisdlines reflecting elements at the rotateable radio-telescope.2011, 80823R.   
+[14]Koyakhin,KopyloaVKonakin,AIetaOptic-electronicstemsformeasurementthetre-dimesiogular deformation of axles at the millimeter wave range radiotelescope.2013,87593E.   
+[15]RichardHartley,AndrewZiserman.Multiple ViewGometryinComputerVision（SecondEdition）.Cambridge UniverityPr, March 2004.   
+[16]Xiao-San,Gao,XiaoRong,eta.ComplteSoutionClasificationforthPerspective-re-ointroblm[J]EEaactio on Pattern Analysis & Machine Intelligence,2003.
+
+# Research on rapid and high precision measurement method of antenna pitch axis deformation based on virtual camera
+
+Yu Linlin1.4, Xu Qian1.2.3\*, Wang Nal1,2,3
+
+(1.Xinjiang AstronomicalObservatory,Chinese AcademyofSciences,Urumqi,83ol1,China;2.KeyLaboratoryofRadic stronomy,ChineseAcademyofSciences,Urumqi83ool1,China;3TheKeyLaboratoryofXinjiangRadioAstropyics
+
+Urumqi 830o11,China;4.University of Chinese Academy of Sciences,Beijing 10o049,China
+
+Abstract: The rapid and high-precision measurement of small-scale deformation of the antenna pitch axis structure caused by wear and torsion is of great value for correcting the pointing accuracy of large-aperture fully steerable radio telescope antennas and for active health monitoring of the pitch axis. In this paper,a virtual camera-based pitch axis deformation measurement method is proposed. By constructing a single camera measurement system for data acquisition and establishing a mathematical model of the measurement system, the structural deformation is converted into a virtual camera spatial transformation with the help of a virtual camera. The experimental results show that the method can achieve an integrated accuracy of $0 . 2 8 2 5 \mathrm { m m }$ (rms） for the translation component and $0 . 2 9 1 8 ^ { \circ }$ for the rotation component, and is capable of rapid measurement of $1 \mathrm { m m }$ scale deformation of the pitch axis.The system and its method have the advantages of non-contact, high precision and rapidity,and can meet the demand for long-term rapid measurements of the pitch axis of large-aperture， high-frequency radio telescopes with high accuracy, and are also applicable to the measurement of small deformations of other large structures.
+
+Key words: virtual camera; large-aperture radio telescopes; antenna pitch axis; small-scale deformation; virtual camera; target space transformation

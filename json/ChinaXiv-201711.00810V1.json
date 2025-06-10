@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "1 不同加工方式针茅草对绵羊干物质采食、消化及瘤胃内环境的影响  \n2 李长春范文强　孙　林　格根图　成启明　贾玉山\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （内蒙古农业大学草原与资源环境学院,草地资源教育部重点实验室，呼和浩特 010019）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 摘要：本试验旨在研究针茅草的不同加工方式对绵羊采食、消化及瘤胃内环境的影响。选  \n5 用体重[ $( 4 5 { \\pm } 2 ) \\quad \\mathrm { k g } ]$ 、年龄 $( 1 . 5 \\mathrm { \\sim } 2 . 0 \\$ 岁)相近安装有永久性瘤胃瘘管的乌珠穆沁羯羊 48 只，  \n6 随机分为4组，每组12只，分析干草、草颗粒、草块、草粉4种加工方式的针茅草对绵羊  \n7 干物质采食量、表观消化率及瘤胃液 $\\mathfrak { p H }$ 及总氮、氨氮、总可利用氮、挥发性脂肪酸浓度的  \n8 影响。预试期 $1 0 \\mathrm { d }$ ，正试期7d。结果表明：1）针茅草颗粒的干物质采食量及表观消化率显  \n9 著高于其他组（ $\\scriptstyle P < 0 . 0 5$ ）。2）与其他各组相比，针茅草颗粒组的绵羊食后1h瘤胃液 pH  \n10 显著降低（ $\\cdot < 0 . 0 5$ ），总氮、氨氮和总可利用氮浓度较高。3）草颗粒组的瘤胃液总挥发性  \n11 脂肪酸浓度显著高于干草和草粉组（ $. P { < } 0 . 0 5$ ）。由此可见，针茅草颗粒的干物质采食量、  \n12 表观消化率以及在绵羊瘤胃内的发酵指标均较优，是饲喂绵羊的最佳利用形态。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "13 关键词：针茅草；草颗粒；绵羊；瘤胃内环境 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "14 中图分类号:S816 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "15 我国天然草地总面积达 $3 . 9 3 \\times 1 0 ^ { 8 } \\mathrm { h m } ^ { 2 }$ ，居世界第2位[1]。其中约 $78 \\%$ 的草地分布于我国  \n16 北部地区，以温性典型草原为主，面积达 $2 . 6 6 \\times 1 0 ^ { 7 } \\mathrm { h m } ^ { 2 }$ 。针茅草作为北方典型草原的主要建  \n17 群种，是我国北方草原畜牧业所依赖的重要饲用植物之一。但针茅草在结实后期的芒针常会  \n18 刺入家畜皮毛、口腔黏膜和腹下皮肤，造成皮张穿孔，引起口腔溃疡，影响羊皮及羊毛的质  \n19 量，甚至会造成家畜发病或死亡[2]，畜产品质量严重下降，畜牧业生产蒙受巨大损失。因此，  \n20 在以针茅草为主的天然牧草利用过程中，如何解决针茅草芒针对家畜的危害是生产实践亟待  \n21 解决的重大难题。李青丰等[3]从针茅草植物的繁衍角度论证了前人火烧、生物防治、耕翻等  \n22 一系列防除针茅草芒针的策略大都不可取。实践也证明目前已有的防除针茅草芒针的做法都  \n23 没有从根本上解决其对家畜的危害。成型草产品加工可有效提高饲草利用转化率，使营养均  \n24 衡且稳定。针茅草经成型加工后，其芒针被破除，可将芒针对家畜皮、毛、口腔等部位的危  \n25 害降到最低，且芒针的蛋白质也得到了有效保存及利用，提高了针茅草整体的营养物质含量  \n26 及饲喂价值。衡量草产品饲用价值的重要手段是研究其营养物质含量及其被家畜消化利用程  \n27 度。瘤胃是反刍动物营养消化的一个极其重要的器官。大量研究结果表明，饲草粉碎、制成  \n28 颗粒或草块等加工处理，都会使瘤胃发酵类型发生变化。饲草粉碎或制成颗粒饲喂，家畜分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "泌的碱性唾液变少，瘤胃内的微生物活性增强，挥发性脂肪酸（VFA）浓度增加，pH下降[4]。充分开发和利用针茅草这一优良牧草资源，开展针茅草的加工，研究不同加工方式针茅草对瘤胃内环境的影响，掌握其变化规律并实施有效调控，使营养物质的利用率达到最大化，能够产生非常大的经济效益，具有重大意义。本研究旨在探索破除针茅草芒针对家畜危害的合理加工利用方式，通过对比不同加工方式针茅草对绵羊瘤胃内环境的影响，确定最适饲喂的针茅草形态，为合理利用针茅草地资源，解决芒针对家畜危害难题，科学利用针茅草饲养家畜，指导广大农牧民生产实践提供科学的理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法  \n1.1 试验时间与地点试验于2015年8-10月在内蒙古农牧业科学院进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针茅草原料来自内蒙古自治区锡林浩特市西乌珠穆沁旗巴彦花镇的打草场(以大针茅草和克氏针茅草为主)，取处于成熟期的全株针茅草样（株高 $2 5 { \\sim } 3 5 ~ \\mathrm { c m }$ ）。于2015年8月23日至9月8日在锡林浩特市毛登牧场智圣生物科技有限责任公司加工针茅草粉和草颗粒，在锡林浩特市草都农牧业发展有限责任公司加工针茅草块。膨润土添加量 $3 \\%$ 。草粉粉碎粒度为 $6 \\ \\mathrm { m m }$ ，草颗粒和草块加工工艺参数分别见表1和表2，不同加工方式针茅草营养水平见表3。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f96f960352927bb73e7221a40f73ef1967c6829d4ea93e6041ed27d7ae9af09.jpg",
+        "table_caption": [
+            "Table 1Parameters of grass particle processing ",
+            "表2草块加工工艺参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粉碎粒度</td><td>直径</td><td>长度</td><td>密度</td><td>含水量</td></tr><tr><td>Particle size/mm</td><td>Diameter/mm</td><td>Length/mm</td><td>Density/(g·m³)</td><td>Moisture content/%</td></tr><tr><td>6</td><td>8</td><td>25~30</td><td>0.95~1.15</td><td>14~16</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa5c6e2634c9f751fdb4338a9d1c5337f6ddf2c7a4ea0c7631c62baa6611acc2.jpg",
+        "table_caption": [
+            "Table 2Parameters of grass blocks processing ",
+            "表3不同加工方式针茅草营养水平(干物质基础)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>长度</td><td>宽度</td><td>高度</td><td>密度</td><td>含水量</td></tr><tr><td>Particle size/mm</td><td>Diameter/mm</td><td>Length/mm</td><td>Density/(g:m³)</td><td>Moisture content/%</td></tr><tr><td>30~35</td><td>32~36</td><td>50~55</td><td>0.45~0.60</td><td>8~10</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cdb5ba3e1acb6c7cf3d7e8b168b209cae4a12fdb0b5796bfbd265522b3987c3.jpg",
+        "table_caption": [
+            "表1草颗粒加工工艺参数",
+            "Table 3Nutrient levels of Stipa capillata Linn. with different processing methods (DM basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>干物质</td><td>粗蛋白质</td><td>中性洗涤纤维</td><td>酸性洗涤纤维</td></tr><tr><td>项目Items</td><td>DM</td><td>CP</td><td>NDF</td><td>ADF</td></tr><tr><td>干草Dried grass hay</td><td>95.07</td><td>8.43</td><td>68.90</td><td>49.51</td></tr><tr><td>草粉 Grass powder</td><td>94.87</td><td>8.36</td><td>67.78</td><td>45.46</td></tr><tr><td>草颗粒 Grass particle</td><td>95.89</td><td>7.76</td><td>66.29</td><td>44.51</td></tr><tr><td>草块 Grass blocks</td><td>95.34</td><td>7.80</td><td>67.82</td><td>47.22</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择体况良好、 $1 . 5 { \\sim } 2 . 0$ 岁、体重为（ $4 5 { \\pm } 2$ ）kg、安装有永久性瘤胃瘘管的乌珠穆沁羯羊 48只，单笼饲养。试验期间，分别于每天09:00 和17：00对试验绵羊饲喂2次，确保绵羊自由采食，自由饮水和舔食盐砖。严格记录每天的饲喂量及剩料量。每日按时清理圈舍，保持圈舍清洁。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 试验设计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用对比试验设计，将48只乌珠穆沁羊随机分为4组，每组12只，用不同编号的耳号进行标记，对照（CK）组饲喂针茅干草（不进行任何加工处理），试验1组饲喂针茅草颗粒，试验2组饲喂针茅草块，试验3组饲喂针茅草粉。预试期 $1 0 \\mathrm { d }$ ，正试期 $\\mathrm { ~ 7 ~ d ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5样品采集及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 草样和粪样收集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从正试期第1天起，首次饲喂之前，把由尼龙袋制成的收粪袋固定在试验羊的尾部周围，每次饲喂之前准确收集并称量每种类型草产品的剩料量，计算每只羊1d的采食量，并于每天17:00及次日09:00收集袋中粪样，二者混合后称重（即前1天的排粪量）。将草样及粪样摊晒风干。用相同方法连续收集5d。待试验结束后，将5d收集的草产品及粪样分别均匀混合后，按四分法取混合样，各类草产品和粪样各取 $1 0 0 ~ \\mathrm { g }$ 风干样，贮于样品瓶中,备分析其营养物质含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 瘤胃液采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正试期第7天，09:00饲喂，分别在食前1h、食后1、3、5、7h，通过瘘管从试羊瘤胃中抽取瘤胃液 $5 0 ~ \\mathrm { m L }$ ，立即测定 $\\mathfrak { p H }$ 。然后用4层纱布过滤，收集于采样瓶，并按瘤胃液容积的1/100 加入饱和氯化汞（ $\\mathrm { H g } \\mathrm { C l } _ { 2 }$ ）溶液，放入冰箱（ $- 2 0 \\mathrm { ~ \\textdegree ~ }$ ）中冷冻保存，用于测定瘤胃液中的总氮、氨氮、尿素氮和挥发性脂肪酸（VFA）浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 测定指标",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 营养物质含量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用实验室常规分析方法测定样品中干物质（DM）、粗蛋白质（CP）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质含量：烘箱（ $1 0 5 { \\pm } 2$ ） $\\mathrm { { } ^ { \\circ } C }$ 条件下，烘至恒质量称重；CP含量：参照GB/T6432-94利用FOSSKjeltec 8400 全自动凯氏定氮仪测定；NDF 和ADF含量：用Ankom 220 型纤维分析系统进行测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6.2干物质采食与消化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质采食量 $\\scriptstyle \\cdot =$ 干物质饲喂量一干物质剩余量。干物质表观消化率采用全收粪法测定[]，计算公式如下：干物质表观消化率 $( \\% ) ~ = 1 0 0 \\times ~ ( 1 { - } S / F )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：S为饲料中干物质的量； $F$ 为粪便中干物质的量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "86 1.6.3 瘤胃内环境",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液 $\\mathfrak { p H }$ 用雷磁PHS-2F 型酸度计测定；总氮浓度用凯氏定氮法测定；氨态氮浓度按冯宗慈改进的比色法测定[7；尿素氮浓度采用二乙酰一肟法测定；从总氮中扣除氨氮和尿素氮，得到总可利用氮；挥发性脂肪酸(VFA)浓度用日本岛津GC-7A气相色谱仪进行测定，色谱柱为Nukol毛细管柱（ $3 0 \\mathrm { m } { \\times } 0 . 3 2 \\mathrm { m m } { \\times } 0 . 2 5 \\mathrm { \\mu m } )$ ）。测定条件：进样口温度 $2 2 0 \\mathrm { ~ \\textdegree ~ }$ ，压力$1 0 0 \\mathrm { k P a }$ ，载气（ $\\mathbf { \\bar { N } } _ { 2 }$ ）流量 $7 5 ~ \\mathrm { m L / m i n }$ 分流比20:1，进样量 $1 \\mu \\mathrm { L }$ ，柱温初始温度 $6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，然后以 $2 0 \\mathrm { \\ : \\ : } \\mathrm { \\mathcal { C } / m i n }$ 升温速率升至 $1 9 0 \\mathrm { ~ \\textdegree ~ }$ ，保持 $3 \\mathrm { m i n }$ ，火焰氢离子检测器(FID)温度为 $2 5 0 \\mathrm { ~ \\textdegree C }$ ，氢气 $7 0 ~ \\mathrm { m L / m i n } .$ 空气 $5 0 \\mathrm { m L / m i n ^ { [ 8 ] } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据用平均值 $\\scriptstyle \\pm$ 标准差表示，采用SAS9.2统计软件中的one-wayANOVA过程进行单因素方差分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同加工方式针茅草对绵羊干物质采食量和表观消化率的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，试验1组的干物质采食量显著高于其他组（ $\\scriptstyle P < 0 . 0 5 .$ ），试验3组的干物质采食量最低。试验3组的干物质排泄量显著高于试验1组（ $\\scriptstyle \\cdot - 0 . 0 5$ ），与其他2组无显著差异（ ${ \\cdot } P { > } 0 . 0 5$ ）。试验1组的干物质表观消化率与试验2组差异不显著（ $. P { > } 0 . 0 5$ ），但是显著高于其他组 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d364461844bc3bdf107514e38110365b789db3f32f1daa1b0fe784dfe1cbde5.jpg",
+        "table_caption": [
+            "",
+            "表4不同加工方式针茅草对绵羊干物质采食量和干物质表观消化率的影响 Table 4Effects of Stipa capillata Linn. with different processing methods on DM intake and apparent digestibility of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别</td><td>干物质采食量 DMFeed</td><td>P 干物质排泄量 DMfecal</td><td>干物质表观消化率 DMapparent</td></tr><tr><td>Groups CK</td><td>intake/(g/d)</td><td>excretion/ (g/d) 462.23±17.18ab</td><td>digestibility/% 59.99±1.84b</td></tr><tr><td>1</td><td>1 155.29±7.38c 1 356.15±9.23a</td><td>451.33±21.24b</td><td>66.72±1.49a</td></tr><tr><td>2</td><td>1 244.09±6.80b</td><td>460.56±23.85ab</td><td>62.98±1.92ab</td></tr><tr><td>3</td><td>1 077.14±6.24d</td><td>514.12±30.39a</td><td>52.27±2.81c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标无字母或相同字母表示差异不显著( $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with no letter or the same lettr superscripts mean no significant difference ( $P >$ 0.05),while with different small letter superscripts mean significant difference ( $\\scriptstyle \\sum 0 . 0 5$ ).The same as below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同加工方式针茅草对绵羊瘤胃液 $\\mathfrak { p H }$ 的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，4组瘤胃液pH在 $6 . 5 1 \\sim 7 . 1 4$ 变动，除试验3组瘤胃液 $\\mathfrak { p H }$ 在食后 ${ 5 } { \\sim } 7$ h一直呈下降趋势外，其他组瘤胃液 $\\mathfrak { p H }$ 在采食前后的变化规律大致相同，即食后 $^ \\textrm { \\scriptsize 1 h }$ 下降到最低值，随后逐渐上升。试验1组的瘤胃液pH在食后1h显著低于其他组（ $. P { < } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/377f783fb16023971d38dcaa7ef0fe96d24248b01b5a7cda03aef86afa0b2a8a.jpg",
+        "table_caption": [
+            "表5不同加工方式针茅草对绵羊瘤胃液pH的影响",
+            "Table 5Effects of Stipa capillata Linn. with different processing methods on rumen fluid pHof sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别</td><td>食前</td><td>食后1h</td><td>食后3h</td><td>食后5h</td><td>食后7h</td></tr><tr><td>Groups</td><td>Before feeding</td><td>1 h after feeding</td><td> 3 h after feeding</td><td>5 h after feeding</td><td>7 h after feeding</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bc8702167836e002b391fff170534a234359493c567a425b78b52850dbba399.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3不同加工方式针茅草对绵羊瘤胃液氮浓度的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>CK</td><td>7.14±0.04</td><td>6.64±0.16b</td><td>6.90±0.04a</td><td>6.97±0.05a</td><td>7.10±0.06a</td></tr><tr><td>1</td><td>7.10±0.02</td><td>6.51±0.11c</td><td>6.75±0.09bc</td><td>6.82±0.06b</td><td>6.93±0.08ab</td></tr><tr><td>2</td><td>6.93±0.04</td><td>6.75±0.11a</td><td>6.83±0.03a</td><td>6.80±0.03a</td><td>6.91±0.03a</td></tr><tr><td>3</td><td>7.12±0.05</td><td>6.90±0.09b</td><td>6.93±0.04b</td><td>6.90±0.04b</td><td>6.87±0.04b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，各组试验羊的瘤胃液总氮浓度在 $2 3 5 . 7 4 { \\sim } 3 0 0 . 3 8 ~ \\mathrm { m g / d L }$ 呈波动性变化，除食后 $3 \\mathrm { h }$ 外，各时间点的瘤胃液总氮浓度在各组间差异不显著（ $\\scriptstyle \\cdot > 0 . 0 5$ ）。随时间延长，各组瘤胃液氨氮浓度在 $1 1 . 3 4 { \\sim } 3 5 . 9 9 \\mathrm { m g / d L }$ 呈先升高后降低的变化趋势，各组均为食后1h瘤胃液氨氮浓度显著高于其他时间点（ $_ { \\cdot \\textcircled { P < 0 . 0 5 } }$ ），食后 $3 \\mathrm { { h } }$ 瘤胃液氨氮浓度显著高于食后5、7h，而食后5、7h各组间均无显著变化（ $( P { > } 0 . 0 5 )$ ）。各组瘤胃液尿素氮浓度在 $2 1 9 . 4 4 { \\sim } 2 6 6 . 8 7$ $\\mathrm { m g / d L }$ 均呈现先升高后降低的变化趋势，食后1和 $5 \\mathrm { ~ h ~ }$ 显著高于食后 $^ { 3 \\mathrm { ~ h ~ } }$ （ $_ { . P < 0 . 0 5 }$ ），与其他时间点无显著差异（ $. P { > } 0 . 0 5$ ）。4组中，试验1组的瘤胃液总氮、氨氮、总可利用氮浓度在各时间点均最高，而试验3组在各时间点均最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d990ebc437b0972c22cd3db94c87cf8b90ca6be0b69141a6561ecaaccf733d02.jpg",
+        "table_caption": [
+            "表6不同加工方式针茅草对瘤胃液氮浓度的影响",
+            "Table 6Effects of Stipa capillata Linn.with different processing methods on rumen fluid "
+        ],
+        "table_footnote": [
+            "2.4不同加工方式针茅草对绵羊瘤胃液挥发性脂肪酸浓度的影响由表7可知，试验1组的瘤胃液TVFA浓度、乙酸和丙酸含量显著高于试验3组和CK"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">nitrogen concentration of sheep</td><td colspan=\"2\">mg/dL</td></tr><tr><td>采食时间</td><td>组别</td><td>总氮Total</td><td>氨氮Ammonia</td><td>尿素氮Urea</td><td>总可利用氮 Total available</td></tr><tr><td>Feeding time</td><td>Groups</td><td>nitrogen</td><td>nitrogen</td><td>nitrogen</td><td>nitrogen</td></tr><tr><td>食前</td><td>CK</td><td>260.89±10.61a</td><td>16.06±0.88b</td><td>244.11±7.16ab</td><td>0.43±0.04b</td></tr><tr><td>Before</td><td>1</td><td>272.55±10.28a</td><td>17.86±0.83b</td><td>254.49±5.76ab</td><td>0.56±0.05ab</td></tr><tr><td>feeding</td><td>2</td><td>265.95±20.06ab</td><td>16.53±0.91b</td><td>248.96±6.69ab</td><td>0.49±0.03ab</td></tr><tr><td></td><td>3</td><td>252.57±16.15ab</td><td>13.71±0.67bc</td><td>238.59±7.45ab</td><td>0.39±0.03ab</td></tr><tr><td>食后1h</td><td>CK</td><td>286.12±16.09a</td><td>32.65±0.59a</td><td>253.39±7.52a</td><td>0.58±0.05a</td></tr><tr><td>1 h after</td><td>1</td><td>300.38±12.90a</td><td>35.99±0.74a</td><td>263.87±7.09a</td><td>0.70±0.06a</td></tr><tr><td>feeding</td><td>2</td><td>296.71±15.78a</td><td>34.61±0.36a</td><td>261.43±7.83a</td><td>0.64±0.05a</td></tr><tr><td></td><td>3</td><td>280.91±13.30a</td><td>30.48±0.82a</td><td>249.88±9.62a</td><td>0.47±0.02a</td></tr><tr><td>食后3h</td><td>CK</td><td>241.07±15.25a</td><td>16.53±0.98b</td><td>223.99±8.26b</td><td>0.38±0.05bc</td></tr><tr><td>3 h after</td><td>1</td><td>256.74±15.69a</td><td>20.38±0.58b</td><td>235.91±6.05b</td><td>0.49±0.05bc</td></tr><tr><td>feeding</td><td>2</td><td>246.36±22.13b</td><td>18.63±0.52b</td><td>227.45±5.82b</td><td>0.43±0.08ab</td></tr><tr><td></td><td>3</td><td>235.94±10.94a</td><td>16.08±0.73b</td><td>219.51±8.18b</td><td>0.31±0.07b</td></tr><tr><td>食后5h</td><td>CK</td><td>275.67±11.52a</td><td>12.79±0.69c</td><td>262.27±6.71a</td><td>0.37±0.05bc</td></tr><tr><td>5 h after</td><td>1</td><td>281.72±14.00a</td><td>14.28±1.16c</td><td>266.87±6.36a</td><td>0.45±0.04bc</td></tr><tr><td>feeding</td><td>2</td><td>278.68±23.85ab</td><td>13.68±1.05c</td><td>264.69±6.92a</td><td>0.44±0.07ab</td></tr><tr><td></td><td>3</td><td>270.45±12.50ab</td><td>11.87±0.67c</td><td>258.04±8.44a</td><td>0.34±0.04ab</td></tr><tr><td>食后7h</td><td>CK</td><td>262.75±15.02a</td><td>12.35±0.75c</td><td>250.84±8.44a</td><td>0.28±0.02c</td></tr><tr><td>7 h after</td><td>1</td><td>268.14±11.20a</td><td>13.83±0.66c</td><td>254.01±9.21ab</td><td>0.34±0.03c</td></tr><tr><td>feeding</td><td>2</td><td>265.83±24.59ab</td><td>12.73±0.66c</td><td>252.59±8.30a</td><td>0.32±0.08b</td></tr><tr><td></td><td>3</td><td>260.48±7.77ab</td><td>11.34±0.86c</td><td>248.71±6.88a</td><td>0.26±0.05b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "130 组（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ），与试验2组无显著差异（ $P { > } 0 . 0 5$ ）。试验1组丁酸含量、乙酸/丙酸显著低  \n131 于试验3组和CK组（ $. P { < } 0 . 0 5 ^ { \\cdot }$ ），与试验2组无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/feda38dd95bb3c2a7064c54c7a3f4633e0008da4e5bdc716f97bba88ac77a40a.jpg",
+        "table_caption": [
+            "表7不同加工方式针茅草对绵羊瘤胃液挥发性脂肪酸含量的影响",
+            "Table 7Efect of Stipa capillata Linn. products on volatile fatty acids concentrations of experimental sheep rumen fluid "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>154 组别</td><td>总挥发性脂肪</td><td>乙酸</td><td>PummienTdid 丙酸</td><td>丁酸</td><td>乙酸/丙酸</td></tr><tr><td>Groups</td><td>酸 TVFA/(mmol/L)</td><td>Acetic acid/%</td><td>Propionic acid/%</td><td>Butyric acid/%</td><td>Acetic acid/propionic acid</td></tr><tr><td>CK</td><td>56.23±1.39bc</td><td>33.25±1.24b</td><td>16.81±1.01bc</td><td>6.17±0.64ab</td><td>1.98±0.14ab</td></tr><tr><td>1</td><td>60.54±11.6a</td><td>35.86±0.94a</td><td>20.32±1.05a</td><td>4.36±0.94c</td><td>1.76±0.05c</td></tr><tr><td>2</td><td>58.43±1.19ab</td><td>34.21±1.02ab</td><td>18.64±0.96ab</td><td>5.58±0.44bc</td><td>1.84±0.09bc</td></tr><tr><td>3</td><td>55.76±0.95c</td><td>32.67±1.07b</td><td>15.48±1.02c</td><td>7.61±1.20a</td><td>2.11±0.13a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "135 3讨论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1不同加工方式针茅草对绵羊干物质采食量及表观消化率的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲草的种类、特性、物理形态是影响反刍动物采食、消化的重要因素。而草产品在粉碎粒度、形态结构等加工方式的不同，也导致绵羊对其采食及消化率有所差异。Knaus 等报道，将饲草颗粒化后可有效提高自由采食量和动物生产效率。本试验中，草颗粒的干物质采食量和表观消化率显著高于其他加工方式的针茅草，是由于草颗粒加工过程将芒针粉碎，极大地避免了芒针对绵羊口腔、消化道及皮肤的伤害，且经高温加热加压后具有糊香味，从而有效地改善了针茅草的适口性；而草粉的粉碎粒度太小，易吸入绵羊呼吸道，不利于绵羊吞咽、反刍和消化，导致采食量低下，而且草粉通过瘤胃速率太快，致使微生物消化作用时间减少，从而降低了其消化率。这与Yansari 等[1]的研究结果一致。Beauchemin 等[1]、马冬梅等[12]在山羊上的试验结果也表明，适宜大小的饲粮颗粒才能显著提高饲粮的采食量及消化率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2不同加工方式针茅草对绵羊瘤胃液 pH和VFA 浓度的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液 $\\mathfrak { p H }$ 是反映瘤胃发酵状况的基本指标。正常变化范围在 $5 . 5 \\sim 7 . 5$ ，呈现有规律的变动，一般采食后 $2 { \\sim } 6 \\mathrm { ~ h ~ }$ 达到最低值[13-14]，受饲粮结构与营养水平的影响[15-16]。本试验中各组绵羊的瘤胃液 $\\mathfrak { p H }$ 在 $6 . 5 1 \\sim 7 . 1 4$ 波动，均处于正常范围，绵羊采食后，pH先降低后又逐渐升高至采食前水平，变化规律与郑琛[17]的研究结果相符。CK组的pH稍高，是由于针茅干草的纤维含量高，绵羊采食和反刍所需时间长，进入瘤胃的唾液就会增加，瘤胃内缓冲物质也相应增加。瘤胃液pH在正常范围内波动，说明绵羊瘤胃有稳定的缓冲系统，发酵环境良好。饲粮物理形态对瘤胃液VFA浓度也有影响，李勇等[18]研究表明，当仅饲喂饲草时，磨碎或制成颗粒均会导致乙酸/丙酸的显著变化。本试验草颗粒、草块处理的 TVFA 浓度、乙酸和丙酸含量高于干草和草粉处理，其丁酸浓度和乙酸/丙酸低于干草和草粉处理，饲喂草颗粒和草块时，因采食量显著高于干草和草粉处理，食糜在瘤胃中滞留时间延长，导致挥发性脂肪酸浓度升高，这与张彩英等[19]的研究结果一致。而Rezaeian 等[20]报道，给绵羊饲喂紫花苜蓿草粉或颗粒时，对绵羊瘤胃液VFA浓度和比例没有影响，与本试验结果不符，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可能与饲草的特性不同有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3不同加工方式针茅草对绵羊瘤胃液氮浓度的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液中总氮包括氨氮、尿素氮、微生物蛋白氮、饲料中可溶解蛋白氮及唾液蛋白氮等，氨基酸和氨氮含量相对较多，能一定程度反映氮代谢水平。饲粮中蛋白质含量及降解率对其有直接影响，饲粮在瘤胃中滞留时间与其有也密切关系[21]。本试验中，除食后 $3 \\mathrm { { h } }$ 外，各时间点的瘤胃液总氮浓度在各组间差异不显著，但草颗粒处理高于其他3组，这是由于绵羊对草颗粒的采食量比其他组高，导致其瘤胃液总氮浓度较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液氨氮是饲粮中蛋白氮和非蛋白氮降解的终产物，反映了特定饲粮组成下，瘤胃中蛋白质降解与合成之间的平衡关系，其浓度变化与饲粮蛋白质含量、降解率以及碳水化合物特性和能量释放特点有关[2-23]。郑琛[17]研究表明，瘤胃液氨氮浓度在食后1h上升达到最大，食后 $3 \\mathrm { h }$ 出现下降，之后持续下降，变化趋势与的本试验研究结果相符。适宜的氨氮浓度有利于微生物蛋白的合成，而微生物生长对氨氮浓度耐受的临界范围为 $6 { \\sim } 3 0 \\mathrm { m g / d L }$ ，其最佳氨氮浓度为 $6 . 3 { \\sim } 2 7 . 5 \\ \\mathrm { m g / d L } ^ { [ 1 6 , 1 9 ] } ,$ 。本试验各组试验羊瘤胃液氨氮浓度为 $1 6 . 6 6 { \\sim } 2 0 . 3 5 ~ \\mathrm { m g / d L }$ 处于最佳范围内，说明试验饲草形态、蛋白质含量及降解特性等均较合理。草颗粒处理的氨氮浓度为 $2 0 . 3 5 \\mathrm { m g / d L }$ 接近理论最适宜值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液总可利用氮浓度可一定程度上反映瘤胃液中氨被瘤胃微生物利用的状况[22.24]。草颗粒组试验绵羊瘤胃液总可利用氮浓度显著高于其他组，与其瘤胃液pH较低、氨氮浓度较高，有利于瘤胃微生物的合成作用有关。干草和草粉组的绵羊瘤胃液总可利用氮浓度较低，这与食糜在试验绵羊瘤胃中停留时间短，不利于瘤胃微生物的合成作用有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 针茅草颗粒的干物质采食量及表观消化率较好。$\\textcircled{2}$ 饲喂针茅草颗粒的绵羊瘤胃液pH较低，总氮浓度较高，氨氮、总可利用氮浓度增加，总挥发性脂肪酸浓度较高。瘤胃发酵指标均较优。$\\textcircled{3}$ 综合上述各项指标,针茅草颗粒是4种加工方式的针茅草中饲喂绵羊的最佳利用形态。参考文献：  \n185 [1]陈玲玲,玉柱,毛培胜,等.中国饲草产业发展概况及饲草料质量安全现状[J].饲料工  \n186 业,2015,36(5):56-60.  \n187 [2]刘爱萍.针茅草原针茅颖果芒刺危害的生物防治[J].中国生物防治,2004,20(增刊):45-48.  \n188 [3] 李青丰,卫智军,赵萌莉,等.针茅对羊皮危害及防除针茅芒针危害的论证研究[J].内蒙古草  \n189 业,2000(4):1-10.  \n190 [4] 朝鲁孟其其格,贾玉山,格根图,等.草颗粒加工、贮藏及利用技术研究与应用[J].中国草地学  \n191 报,2010,32(4):98-102.  \n192 [5]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007:48-70.  \n193 [6] 史清河,韩友文,刘丽梅,等.全收粪法与尼龙袋法测定幼羊全混合日粮养分消化率的相关  \n194 性研究[J].东北农业大学学报,2000,31(3):270-274.  \n195 [7]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].内蒙古畜牧科学,1993(4):40-  \n196 41.  \n197 [8]曹庆云,周武艺,朱贵钊,等.气相色谱测定羊瘤胃液中挥发性脂肪酸方法研究[J].中国饲",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "198 料,2006(24):26-28.   \n199 [9] KNAUS W,LUGER K,ZOLLITSCH W,et al.Effects of grass clover-pellets and whole plant   \n200 maize-pelets on the feed intake and performance of dairy cows[J].Animal Feed Science and   \n201 Technol0gy,1999,81(3/4):265-277.   \n202 [10] YANSARI A T,PRIMOHAMMADI R.Effect of particle size of alfalfa hay and reconstitution   \n203 withwateronintake,digestionandmilkproductioninHolsteindairy   \n204 cows[J].Animal,2009,3(2):218-227.   \n205 [11] BEAUCHEMIN K A,YANG W Z.Effects of physically effective fiber on intake,chewing   \n206 activity,and ruminal acidosis for dairy cows fed diets based on corn silage[J].Journal of Dairy   \n207 Science,2005,88(6):2117-2129.   \n208 [12] 马冬梅,苗树君,刘子骞,等.全混合日粮中饲草长度对奶牛采食行为、瘤胃发酵和日粮消   \n209 化率的影响[J].中国牛业科学,2009,35(4):9-13.   \n210 [13]NAGARAJA T G,LECHTENBERG K F.Acidosis in feedlot cattle[J].Veterinary Clinics of   \n211 North America:Food Animal Practice,2007,23(2):333-350.   \n212 [14]王潍波.不同植物蛋白对山羊瘤胃液内环境的影响[J].中国畜牧业,2015(17):50-51.   \n213 [15] 张腾,庄苏,董文超,等.不同精粗比日粮对奶山羊瘤胃液pH、VFA及血液VFA含量的影响   \n214 [J].畜牧与兽医,2013,45(4):5-10.   \n215 [16] 赵国琦,贾亚红,陈小连,等.不同NDF/NFE比的日粮对山羊瘤胃发酵参数影响的研究[J].   \n216 中国畜牧杂志,2006,42(13):29-33.   \n217 [17] 郑琛.不同处理饲粮及不同组合全饲粮颗粒料对绵羊瘤胃内环境和养分消化代谢的影响   \n218 [D].硕士学位论文.兰州:甘肃农业大学,2004.   \n219 [18]李勇,郝正里,李发弟,等.不同组合饲粮对绵羊瘤胃代谢参数的影响[J].草业学   \n220 报,2011,20(3):136-142.   \n221 [19]张彩英,胡国良,曹华斌.反刍动物瘤胃内环境的特点及调控措施[J].中国畜牧兽   \n222 医,2010,37(4):18-20.   \n223 [20] REZAEIAN M,BEAKES G W,CHAUDHRY A S.Effect of feeding chopped and pelleted   \n224 lucerne on rumen fungal mass,fermentation profiles and in sacco degradation of barley straw in   \n225 sheep[J].Animal Feed Science and Technology,2006,128(3/4):292-306.   \n226 [21] 谭建华,袁玖,李发弟,等.全混合日粮营养水平和粒度对绵羊瘤胃内环境的影响[J].甘肃农   \n227 业大学学报,2012,47(1):32-40.   \n228 [22] 张昌吉,刘哲,郝正里,等.含不同秸秆的全饲粮颗粒料对绵羊瘤胃代谢参数的影响[J].草业   \n229 科学,2008,25(1):82-86.   \n230 [23]王聪,刘强,董群,等.日粮补充苹果酸对牛瘤胃发酵和养分消化代谢的影响[J].草业学   \n231 报,2009,18(3):224-231.   \n232 [24] 阳伏林,王虎成,郭旭生,等.用尿中嘌呤衍生物估测瘤胃微生物蛋白产量的研究进展[J].草   \n233 业学报,2008,17(1):121-129.   \n234 Effects of Stipa capillata Linn. with Different Processing Methods on Intake and Digestion of Dry   \n235 Mater and Rumen Environment of Sheep   \n236 LI Changchun FAN Wenqiang SUN Lin Gegentu CHENG Qiming JIA Yushan\\*   \n237 (Key Laboratory of Grassand Resources of Ministry of Education, College of Grassland   \n238 Resources and Environment, Inner Mongolia Agricultural University, Hohhot O1oo19, China)   \n239 Abstract: This research aims to study effects of Stipa capillata Linn. with different processing   \n240 methods on intake and digestion of dry matter（DM） and rumen environment of sheep.   \n241 Forty-eight Ujimqin sheep wethers with similar body weight $[ \\begin{array} { l l } { ( 4 5 { \\pm } 2 ) } & { \\mathrm { k g } } \\end{array} ]$ and age (1.5 to 2.0   \n242 years of age) fitted with permanent rumen fistula were randomly divided into 4 groups, and each   \n243 group had twelve sheep. The effects of four processing methods of Stipa capillata Linn. on DM   \n244 intake and apparent digestibility, and $\\mathfrak { p H }$ ，total nitrogen， ammonia nitrogen， total available   \n245 nitrogen, volatile fatty acid concentrations in rumen fluid were determined. The pre-trial lasted for   \n246 $1 0 \\mathrm { ~ d ~ } .$ ，and the trial lasted for $^ \\textrm { \\scriptsize 7 d }$ 、The results showed as follows: 1） DM intake and apparent   \n247 digestibility of Stipa capillata Linn. particles were significantly higher than the other groups   \n248 （ $. P { < } 0 . 0 5 )$ ）.2)After feeding for $^ { \\textrm { 1 h } }$ , rumen fluid of sheep fed Stipa capillata Linn. particles had a   \n249 significantly decreased pH（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ,and increased concentrations of total nitrogen, ammonia   \n250 nitrogen and total available nitrogen. 3) Total volatile fatty acids concentration of Stipa capillata   \n251 Linn. particles was significantly higher than that of Stipa capillata Linn. hay and Stipa capillata   \n252 Linn.grass meal ( $( P { < } 0 . 0 5 )$ . From the research,it can be concluded that the DM intake and   \n253 apparent digestibility, and ruminal fermentation parameters of sheep fed Stipa capillata Linn.   \n254 particles were better， which is the optimal shape to feed sheep.   \n255 Key words: Stipa capillata Linn.; grass particle; sheep; rumen environment ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

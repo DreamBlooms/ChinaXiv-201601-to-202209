@@ -1,0 +1,169 @@
+# 桂林岩溶石山青冈优势种群空间分布格局及关联分析
+
+盘远方²，卓文花1,3，姜勇1,3，梁士楚1,3，李丽香1.3\*（1.广西师范大学珍稀濒危动植物生态与环境保护教育部重点实验室，广西 桂林 541006；2.广西科学院，广西红树林研究中心，广西 北海 536000；3．广西师范大学 生命科学学院，广西 桂林 541006)
+
+摘要：种群空间分布格局是研究种群特征、种间相互作用以及种群与环境关系的重要手段。青冈（Cyclobalanopsisglauca）是岩溶生态系统顶极群落的建种群，为进一步了解其种群空间分布格局特征，根据样地调查规范对面积 $6 0 ~ \mathrm { m } \times 6 0 ~ \mathrm { m }$ 中的木本植物进行空间定位并进行每木调查。运用点格局方法中的 $g \ ( r )$ 和 $L _ { 1 2 }$ （r）函数对青冈幼苗（ $\mathrm { \Delta D B H } { < } 2 \ \mathrm { c m } { \it \Psi }$ ）、幼树（ $\scriptstyle \cdot 2 \ \mathrm { c m } \leqslant \mathrm { D B H } < 1 0 \ \mathrm { c m } )$ 和成树（ $1 0 \mathrm { c m } { \leqslant } \mathrm { D B H } .$ ）进行空间分布特征和关联性分析。结果表明：（1）青冈种群的径级结构符合倒“J”型分布。（2）幼苗、幼树和成树在较小尺度上表现为聚集分布，但幼树和成树在中、大尺度上基本表现为随机分布。（3）不同径级个体空间关联性主要表现如下：幼苗与幼树在 $0 ^ { \sim } 1 5 \mathrm { ~ m ~ }$ 的尺度上呈正相关；幼树与成树在 $0 { \sim } 1 0 \mathrm { ~ m ~ }$ 的尺度上呈不相关，在 $1 0 \sim 1 5 \mathrm { ~ m ~ }$ 的尺度上呈正相关;幼苗与成树在 $0 { \sim } 2 \mathrm { ~ m ~ }$ 的尺度上呈不相关，在 $2 \mathrm { \sim } 1 5 \mathrm { ~ m ~ }$ 的尺度上呈正相关。青冈种群的分布格局及其关联性随空间尺度和发育阶段而变化，这是由种群自身的生物生态学特性、种内种间关系以及环境条件共同作用的结果。该研究结果可为该区域植物群落形成和维持机制及资源利用研究提供基础资料。
+
+关键词：青冈种群，径级结构，空间点格局，空间关联性，岩溶石山中图分类号：Q948.15 文献标识码：A
+
+# Spatial distribution pattern and correlation analysis on Cyclobalanopsis glauca population of in karst hills of Guilin
+
+PAN Yuanfang², ZHUO Wenhual1,3, JIANG Yong1,3, LIANG Shichu1,3, LI Lixiang1,3
+
+(1. Key LaboratoryofEcologyofRareand Endangered Species and Environment Protection,MinistryofEducation,   
+Guangxi Normal University,Guilin541o06,Guangxi,China; 2.Guangxi Mangrove ResearchCenter,Guangxi Academyof   
+Sciences,Beihai5360oo,Guangxi,China;3.CollgeofLifeSciences,GuangxiNormal University,Guilin54o6,Guangxi, China)
+
+Abstract:The spatial distribution pattern of population is an important means to describe population characteristics，interspecific interactions，and its relationship between population and environment. Cyclobalanopsis glauca is a constructive population of climax community in karst ecosystems, in order to further understand the spatial distribution pattern of its populations.According to the sample plot investigation specification,a sample plot of $6 0 \mathrm { m } \times 6 0 \mathrm { m }$ was set up,and the woody plants in the plot were spatially located and investigated for each tree. The $C .$ ：glauca population was divided into three different diameter classes in the study, belonging to saplings $\mathrm { ( D B H < } 2 \ \mathrm { c m }$ )，small trees( $2 \mathrm { c m } { \leqslant } \mathrm { D B H } { < } 1 0 \mathrm { c m } \mathrm { \ : }$ ,adult trees ( $1 0 \mathrm { c m } { \leqslant } \mathrm { D B H }$ ). Using the point pattern analysis method, $g \left( r \right)$ and $L _ { 1 2 } \left( r \right)$ functions based on Ripley's $K$ function was used for the analysis of the spatial distribution pattern and correlation analysis of $C$ glauca population in different diameter classes.The results were as follows: (1)The diameter class structure of $C$ glauca population is in an inverted“J” distribution. (2) On the smallscale,the stage of saplings,small trees and adult trees,the spatial distribution pattern tends to cluster distribution，and the small trees,large tree stage tends to random distribution on the large scale.(3） The performance of spatial correlation between different diameter classees is different,the seedling and sapling are positively related on the scale of $0 ^ { - 1 5 { \mathrm { ~ m } } }$ ；sapling and adult trees reflected in the scale of $0 ^ { - 1 0 \mathrm { ~ m ~ } }$ is no correlation,it showed a positive correlation on the scale of $1 0 ^ { - 1 5 } \mathrm { ~ m ~ }$ ； Seedling and adult trees performance on the scale of $0 ^ { - } 2 \mathrm { ~ m ~ }$ is no correlation,it showed positive correlation on the scale of $2 ^ { - 1 5 { \mathrm { ~ m ~ } } }$ . The spatial distribution pattern and correlation of $C$ ： glauca population in the karst area of Guilin change with the spatial scale and development stage，which was the result of the combined effects of the population's bioecological characteristics,intraspecific and interspecific relationships,and environmental conditions.The results of the study can provide basic information for the formation and maintenance mechanism of plant community and resource utilization research of karst hills.
+
+Key words: Cyclobalanopsis glauca population, diameter class,spatial point pattrn, spatial correlation, karst hills
+
+某一特定时间组成种群所有植株个体在二维空间上的分布状况或布局称之为种群空间分布格局（Cao etal.,2003；高福元等,2012），通常在群落中有随机分布、聚集分布和均匀分布3种基本类型。种群的空间分布格局是分析种群与环境关系的重要手段，对解释种群本身生态学过程、结构发展历史和环境变迁具有重要意义（Hubbell,2001；张金屯等,2004; Zhao etal.,2010）。研究表明，种群空间分布格局与尺度有关（Harms et al.,2001;Wiegand et al.,2004），在某一尺度上可能呈随机分布或聚集分布，而另一尺度上可能呈均匀分布（Stoyan&Pentinen,2000）。种群空间分布格局除了与尺度有关外，还受到扩散限制（dispersal limitation）和生境异质性（habitat heterogeneity）的影响，在较小的尺度上可能是种内竞争、种间竞争、扩散限制等因素影响；而在较大尺度上则可能是由种群分布区环境的异质性决定（Harms etal.,2001;Lin etal.,2011）。
+
+目前，国内外学者对种群空间分布格局和关联方面已做了不少研究。例如：Ripley（1981）利用 $K$ 函数的单因素和双因素函数分析个体的空间分布格局；Call& Nilsen（2003）采用 Ripley's $K$ 函数分析了美国布莱克斯堡两个优势种的空间关联性；Schleicher等（2011）运用Ripley's函数研究了热带草原不同土地类型对2种灌木种群生长和空间分布的影响；苏松锦等（2014）运用O-ring 函数分析了戴云山黄山松种群空间分布格局和关联；Zhao 等（2010）采用 Ripley's $K$ 函数分析常绿阔叶林优势种的空间分布格局。但已有文献资料均以大尺度研究为主，小尺度研究较为缺乏。宋于洋等（2010）认为研究小尺度种群空间分布格局与关联是揭示种群生态学过程的关键尺度，即小尺度范围内对种群空间分布格局和关联分析结果更能准确地从生物学背景上提供和解释植物个体周围的局部空间结构。因此，研究小尺度种群空间分布格局和关联性对深入理解种内种间的相互作用、群落组成及其形成和维持机制具有重要意义。
+
+桂林位于广西东北部，是广西岩溶石山地貌聚集之一，也是我国石漠化水土治理和植被恢复的重点区域（刘彦随等，2006）。其典型的岩溶生态特征主要有岩石裸露率高、土壤贫瘠、土壤少且不连续和地表水缺乏等，其脆弱的生态系统备受全球关注（王明章，2004；胡芳等,2018）。该生态系统的植被是在碳酸盐类岩石风化壳发育形成的钙质土壤中生长的，植被形成时间十分缓慢（Zhanget al.,2013；徐艳芳等,2016）。若该生态系统遭到破坏，其植被容易退化且难以修复。独特的岩溶地质背景和高异质性的生境类型，形成了特有的植物区系组成及结构，对维持岩溶生态系统的稳定极为重要。但是，岩溶石山的地形、植被组成和研究手段等是限制岩溶石山野外调查的重要因素，迄今为止，关于岩溶石山植物种群空间格局方面的研究远不如非岩溶石山植被深入。而青冈（Cyclobalanopsis glauca）是我国南方亚热带地区常绿落叶阔叶混交林的主要树种之一，是岩溶生态系统顶级群落的建群种，具有良好的抗旱性、喜钙性、耐贫瘠性和发达的根系等特点，在防止岩溶石山石漠化、维持脆弱生态系统稳定、调节区域碳平衡和维持物种多样性等方面具有重要的生态学意义（Hu et al.,2007,2017;Li et al.,2008）。鉴于此，该研究以桂林岩溶石山青冈优势种群为研究对象，采用空间点格局方法中的 $g$ （r）函数和 $L _ { 1 2 ( r ) }$ 函数，拟探讨以下问题：（1）幼苗、幼树和成树的空间分布格局如何变化？（2）幼苗、幼树和成树之间存在怎样的关联性？进而为岩溶石山森林资源的保护、营林管理、生物多样性保护以及岩溶石山退化植被生态系统修复提供科学依据。
+
+# 1研究地区与研究方法
+
+# 1.1研究区域概况
+
+研究区位于桂林市郊的演坡山（ $\langle 1 1 0 ^ { \circ } 1 5 ^ { \prime } 1 7 ^ { \prime \prime } \mathrm { - } 1 1 0 ^ { \circ } 1 5 ^ { \prime } 1 9 ^ { \prime \prime } \mathrm { E }$ ， $2 5 ^ { \circ } 1 9 ^ { \prime } 7 ^ { \prime \prime } { \longrightarrow } 2 5 ^ { \circ } 1 9 ^ { \prime } 1 0 ^ { \prime \prime } \mathrm { N } )$ ，为典型的岩溶石山地貌，海拔多为 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m }$ 。该区域岩溶地貌特征显著，地貌类型以碳酸盐溶蚀所形成的峰丛洼地和峰丛谷地为主，成土速度缓慢、土壤钙含量高、地表土蓄水能力差及环境容纳量低等特点。研究区域属于亚热带湿润季风气候，气候温和，雨量充沛，年均降雨量为 $1 8 5 6 . 7 \mathrm { m m }$ ，降雨量年分配不均，降雨主要集中在4一7月，年均蒸发量为 $1 4 5 8 . 4 \mathrm { m m }$ ，年均气温 $1 9 ^ { \circ } \mathrm { C }$ ，无霜期长达$3 0 0 \mathrm { d }$ ，全年以偏北风为主，平均风速为 $2 . 7 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 。研究区土壤主要为红壤、棕壤等砂质土。典型植被以壳斗科的青冈为主，其伴生种主要有木（Loropetalumchinense）、干花豆（Fordia cauliflora）、扁片海桐（Pittosporum planilobum）、粗糠柴（Mallotus philippensis）、红背山麻杆（Alchorneatrewioides）、朴树（Celtis sinensis）等。
+
+# 1.2试验设计和调查方法
+
+2017年7一9月，经过实地踏勘，结合青冈群落特点及生境情况，选取最具有代表性且分布较集中的青冈群落为研究对象。但是由于受到地形和植被的限制，即岩溶石山山体整体偏小，山体中上部位较为陡峭；在样地踏查过程中发现山体中上部位较少有青冈的分布，主要是分布着木、龙须藤和金樱子等藤本和小灌木，而青冈主要分布在山底至山中部位。所以我们结合青冈的分布情况和地形条件确定以 $1 1 0 ^ { \circ } 1 5 ^ { \prime } 1 7 ^ { \prime \prime } \mathrm { E } . 2 5 ^ { \circ } 1 9 ^ { \prime } 7 ^ { \prime \prime } \mathrm { N }$ 为样地原点坐标，设置一个面积为 $6 0 \mathrm { m } \times 6 0 \mathrm { m }$ 的样地。虽然整个研究样地相对偏小，但这是目前找到保存相对完好、原生性较强、生长较为集中的青冈种群样地。为了便于野外调查，我们采用相邻格子调查方法将整个样地分成9个 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的样方，各样方的基本概况如表1所示。调查时对每个 $2 0 \ \mathrm { m } \times 2 0 \ \mathrm { m }$ 的样方进行每木检尺，记录样方内胸径$\geqslant 1 \ \mathrm { c m }$ 乔木物种和基径 $\geqslant 1 \ \mathrm { c m }$ 灌木物种的种名、胸径、基径、株高及生长状况，并测量每个植株的空间位置坐标。同时记录每个 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 样方的经纬度、坡向、海拔、岩石裸露率等环境特征。
+
+# 1.3径级划分
+
+不同物种其径级的划分标准不相同，需根据物种的生物学特性和生长状况进行划分（何增丽等，2017）。而生长在相似立地条件下相同物种其龄级和径级对环境的反映规律具有一致性（任毅华等，2021）。因此，该研究采用空间代替时间的方法，将青冈调查数据（样地中，青冈的平均胸径为8.63cm，最大胸径为 $4 7 . 7 2 ~ \mathrm { c m }$ ）划分为3个径级阶段，即幼苗：胸径 $_ { \mathrm { D B H } < 2 \mathrm { c m } }$ ；幼树：胸径 $2 \mathrm { c m } \leqslant$ $_ { \mathrm { D B H } < 1 0 \mathrm { c m } }$ ；成树：胸径 $1 0 \mathrm { c m } { \leqslant } \mathrm { D B H }$ ，以不同径级结构代替年龄结构分析青冈种群不同年龄结构的空间分布格局。虽然这样划分径级并不能非常科学准确地定义幼树、幼树和成树，但有利于分析的简化。
+
+表1各样方基本概况  
+Table 1 Basic informations of sampling plots   
+
+<html><body><table><tr><td>样方编号 Sample No.</td><td>物种数 Number of species</td><td>密度 Density （plant·hm-2)</td><td>海拔 Altitude (m)</td><td>岩石裸露率 Rock exposure rate (%)</td><td>土壤含水量 Soil water content (%)</td></tr><tr><td>P1</td><td>23</td><td>10 650</td><td>255</td><td>56</td><td>21.39</td></tr><tr><td>P2</td><td>22</td><td>11 225</td><td>258</td><td>65</td><td>21.45</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>P</td><td>23</td><td>8 250</td><td>219</td><td>72</td><td>19.71</td></tr><tr><td>P4</td><td>17</td><td>9 025</td><td>234</td><td>51</td><td>32.85</td></tr><tr><td>P5</td><td>21</td><td>29 100</td><td>237</td><td>54</td><td>21.66</td></tr><tr><td>P6</td><td>19</td><td>6 525</td><td>237</td><td>76</td><td>21.73</td></tr><tr><td>P7</td><td>19</td><td>7 300</td><td>240</td><td>67</td><td>24.02</td></tr><tr><td>P</td><td>24</td><td>6 175</td><td>254</td><td>60</td><td>19.83</td></tr><tr><td>P9</td><td>18</td><td>6 400</td><td>268</td><td>58</td><td>33.51</td></tr></table></body></html>
+
+# 1.4数据处理
+
+1.4.1不同径级青冈的空间格局
+
+$\textit { L } ( r )$ 函数和 $\textit { g } \left( r \right)$ 函数是由Ripley's $K$ 函数衍化而来（Ripiey,1977）。即以Ripley's $K$ 函数为基础，通过对Ripley's $K$ 函数进行方差校正和线性化得到 $L$ （r）函数，运用 $\textit { L } ( r )$ 函数来判断不同径级个体在各尺度上的空间分布格局。但 $\textit { L } ( r )$ 函数为积累分布函数，在分析大尺度的空间分布格局时容易受到小尺度积累效应的影响，使得格局分析复杂化（王鑫厅等，2012，2022）。而 $g \ ( r )$ 函数是用环代替了Ripley's $K$ 函数中的圆，它利用两圆心之间的距离，计算任一点为圆心、 $\boldsymbol { r }$ 为半径的圆环区域内点的数量来进行点格局分析，计算过程中消除了累积效应（郭屹立等,2015）。因此，该研究使用 $g \ ( r )$ 函数来描述青冈种群不同径级个体在各空间尺度上的分布格局。其中，Ripley's $K$ 函数、 $\textit { L } \left( r \right)$ 函数和 $g \ ( r )$ 函数公式如下：
+
+$$
+\begin{array} { r } { K ( r ) = \frac { A } { n ^ { 2 } } \ \sum _ { i = 1 } ^ { n } \ \sum _ { j = 1 } ^ { n } \ \frac { I _ { r } \left( u _ { i j } \right) } { w _ { i j } } \quad ( i \neq j ) ; \ L ( r ) = \sqrt { K ( r ) / \pi } - r ; \ g ( r ) = \frac { d K ( r ) } { 2 \pi r d r } \circ } \end{array}
+$$
+
+式中： $A$ 表示样地面积; $n$ 为样地内个体总数; $\boldsymbol { r }$ 表示空间尺度； $w _ { i j }$ 为消除边界效应的权重； $u _ { i j }$ 为点 $i$ 到点 $j$ 之间的距离； $I$ 为指示函数。当 $g ( r ) { = } 0$ 时，个体在 $\boldsymbol { r }$ 尺度上呈完全空间随机分布； $g$ $( r ) < 0$ 时，为分均匀布； $g \ ( r ) \ > 0$ 时，为聚集分布。
+
+# 1.4.2不同径级青冈的空间关联性
+
+在分析物种间的空间关联时，Diggle(1983)在Ripley's $K$ 函数基础上引入了 $K _ { 1 2 } \left( r \right)$ 函数。同样,对 $K _ { 1 2 }$ （r）函数进行方差校正和线性化得到 $L _ { 1 2 } \ ( r )$ 函数。因此，该文利用了分析物种间空间关联的方法来分析青冈种群不同径级间的空间关联。其中， $K _ { 1 2 } \ ( \boldsymbol { r } )$ 函数和 $L _ { 1 2 }$ （r）函数公式如下：
+
+$$
+\begin{array} { r l r } { K _ { 1 2 } ( r ) = \frac { A } { n _ { 1 } n _ { 2 } } ~ \sum _ { i = 1 } ^ { n _ { 1 } } ~ \sum _ { j = 1 } ^ { n _ { 2 } } \frac { I _ { r } ( d _ { i j } ) } { w _ { i j } } } & { { } } & { ( i \ne j ) ; ~ L _ { 1 2 } ( r ) = \sqrt { K _ { 1 2 } ( r ) / \pi } - r _ { \circ } } \end{array}
+$$
+
+式中： $n _ { 1 }$ 、 $n _ { 2 }$ 表示两个不同径级的青冈植株个体数； $i$ 和 $j$ 表示两个不同径级的植株。当 $L _ { 1 2 } { = } 0$ 时，表明两个径级植株之间相互独立或者没有显著相关性； $L _ { 1 2 } { < } 0$ 时，表明两个径级的植株在 $\boldsymbol { r }$ 尺度上呈显著负相关； $L _ { 1 2 } > 0$ 时，表明两个径级的植株在 $\boldsymbol { r }$ 尺度上呈显著正相关。
+
+本研究采用完全空间随机模型（complete spatial randomness,CSR），采用 Monte Carlo 进行 100次的随机模拟，利用模拟得出的最大值和最小值来计算上下包迹线分布的估计范围，然后根据其分布的区间截取 $9 5 \%$ 的置信水平。若实际分布的 $g \ ( r )$ 值和 $L _ { 1 2 } \left( r \right)$ 值落在包迹线内，则青冈呈随机分布或两径级之间相互独立，无空间相关性；若在包迹线以上，则为聚集分布或两径级之间呈空间正相关；若在包迹线以下，则为均匀分布或两径级之间呈空间负相关。数据分析过程在R软件3.6.3中的 spatstat 软件包中完成。
+
+# 2结果与分析
+
+# 2.1青冈种群及其所在群落的空间分布
+
+如图1和表2所示。本次调查共记录到 $\mathrm { D B H } \geqslant 1 \ \mathrm { c m }$ 的植株个体共有4384株，隶属 29科43属50 种，密度为12177株 $\mathrm { h m } ^ { - 2 }$ ，平均胸径为 $6 . 1 2 \mathrm { c m }$ ，幼苗、幼树和成树的个体数分别是2982、964和438株，分别约占总个体数的 $6 8 . 1 \% . 2 1 . 9 \%$ 和 $9 . 9 \%$ 。其中，青冈个体2239株，密度为6219株 $\mathrm { h m } ^ { - 2 }$ 种群平均胸径为 $8 . 6 3 \mathrm { c m }$ ，幼苗、幼树和成树的个体数分别是1540、370和329株，分别约占青冈总个体数的 $6 8 . 8 \%$ 、 $1 6 . 5 \%$ 和 $1 4 . 7 \%$ 。由径级分布趋势可以看出，样地内有大量的小径级个体储备，个体数量随径级的增大而逐渐减少，种群的径级结构更加接近于倒“J”型，种群属于增长型，种群的更新状态良好。
+
+![](images/38bdbfc2a5563231dea7116dfb14593d92374b92fa33aa9ec787bdb5bae7737c.jpg)  
+图1不同径级结构的青冈群落及种群在样地的分布图
+
+Fig.1 Distribution map of Cyclobalanopsis glauca community and population at diferent diameter classes 表2不同径级青冈群落和青冈种群的个体数目分布情况
+
+Table 2 Number distribution of Cyclobalanopsis glauca community and population at diferent diameter classes   
+
+<html><body><table><tr><td rowspan="2">类型Type</td><td colspan="6">生长阶段Life stage</td><td rowspan="2">合计 Total</td></tr><tr><td>幼苗 Seedling</td><td>比例 Proportion (%)</td><td>幼树 Sapling</td><td>比例 Proportion (%)</td><td>成树 Adult tree</td><td>比例 Proportion (%)</td></tr><tr><td>青冈群落 Cyclobalanopsis glauca community</td><td>2982</td><td>68.1</td><td>964</td><td>21.9</td><td>438</td><td>9.9</td><td>4384</td></tr><tr><td>青冈种群 Cyclobalanopsis</td><td>1 540</td><td>68.8</td><td>370</td><td>16.5</td><td>329</td><td>14.7</td><td>2 239</td></tr><tr><td>glauca population 合计 Total</td><td>4 522</td><td>136.9</td><td>1 334</td><td>38.4</td><td>767</td><td>24.6</td><td>6623</td></tr></table></body></html>
+
+# 2.2不同径级青冈种群的空间分布格局
+
+利用 $g \left( r \right)$ 函数对不同径级青冈种群在不同空间尺度上的分析结果如图2所示，幼苗在 $0 \mathrm { \sim } 1 5 \mathrm { m }$ 的尺度上表现为聚集分布；幼树在 $0 { \sim } 5 . 5 \mathrm { m } , 8 { \sim } 1 0 \mathrm { m }$ 和 $1 2 { \sim } 1 5 \mathrm { m }$ 尺度上表现为聚集分布，在 $5 . 5 \sim$ $8 \mathrm { ~ m ~ }$ 和 $1 0 { \sim } 1 2 \mathrm { m }$ 尺度上表现为随机分布；成树在 $0 { \sim } 4 \mathrm { m }$ 尺度上表现为聚集分布，在 $4 { \sim } 1 5 \mathrm { m }$ 尺度上以随机分布为主。不同径级的青冈种群在小尺度上均表现为聚集分布，除幼苗外，幼树和成树在
+
+较大尺度上主要表现为随机分布。
+
+![](images/d1a7db7624af07d895202ca91d7e2cf58a607a6cc8294482c742ddc12b278d12.jpg)
+
+Fig. 2 Spatial pattern analysis of Cyclobalanopsis glauca population in different diameter classes 不同径级青冈种群的空间关联
+
+不同径级个体间的空间关联如图3所示。幼苗与幼树在 $0 \mathrm { \sim } 1 5 \mathrm { m }$ 尺度上表现为正相关；幼树与成树在 $0 \mathrm { \sim } 1 0 \mathrm { m }$ 尺度上表现为不相关， $1 0 { \sim } 1 5 \ \mathrm { m }$ 尺度上表现为正相关；幼苗与成树在 $0 { \sim } 2 \mathrm { ~ m ~ }$ 尺度上表现为不相关，在 $2 \mathord { \sim } 1 5 \mathrm { m }$ 尺度上表现为正相关。
+
+![](images/c38fef977714da375ce73bfa3a27e1ef6ea1111feed45706c86c34d0cef3f7b7.jpg)  
+图2不同径级青冈种群的空间格局分析  
+图3不同径级青冈种群的空间关联性
+
+Fig.3 Spatial correlation of Cyclobalanopsis glauca population in different diameter classes
+
+# 3讨论
+
+# 3.1青冈种群的径级结构
+
+种群的径级结构是指植株按径级大小的分配状况或各径级大小在种群内所占据的比例（拓锋等，2020），它是种群重要的结构特征之一，也是种群的繁殖特性对不同环境因子长期适应的结果，在一定程度上可以反映群落结构现状和更新策略，同时也是预测种群或群落动态发展趋势的有效途径（Gao etal.,2003;Miao etal.,2018）。该研究发现青冈种群径级结构为倒“J”型，说明小径级的青冈幼苗数量储备较为丰富，其种群属于增长型，具有较强的自我更新和维持能力，如不受强烈的干扰，将来该种群数量会保持稳定（汪国海等，2021）。青冈种群小径级个体所占的比例最高。一方面是由其繁殖特性决定，青冈成树产生的成熟种子在重力作用下大多都聚集于母株冠幅下方，而自然条件下萌发形成大量小径级个体也集中分布在母株冠幅周围，在母树的庇护下，占据着有利的资源，有利于青冈幼苗个体与其他种群竞争过程中发挥群体效应。另一方面是由于岩溶石山土壤水分缺乏、土壤浅薄、岩石裸露、碳酸盐溶蚀和土壤贫瘠等特点（王明章，2004；胡芳等，2018），严重制约了青冈种子的萌发和幼苗的更新。有研究表明，幼苗个体是森林更新过程中最重要和最敏感的阶段，随着幼苗个体的生长，同种个体对光照、养分、水分及空间等资源的利用方式相同，但由于岩溶石山生境资源有限，种内种间竞争加剧，出现强烈的自疏效应(Das etal.,2011;Bai et al.,2012)。而幼苗在生长过程中竞争能力较弱的幼苗个体会大量死亡，只有少量个体能够成功向幼树阶段转化，所以样地内存在大量的幼苗，幼树和成树的数量却较少（Hu etal.,2012）。这样的种群径级结构分布能够维持种群持续健康发展，保持良好的更新潜力，对该种群的稳定具有积极的意义。
+
+# 3.2青冈种群的空间分布格局
+
+种群的空间分布格局是种群在二维空间上布局的一个定量描述，研究其特征有助于阐明种群空间分布格局的形成机制（Comitaetal.,2009）。种群的空间分布格局与尺度存在密切的关系，随着尺度的变化而变化（张华等，2016）。该研究发现，青冈种群在小尺度上均表现为聚集分布，随尺度增加，其聚集强度逐渐减弱，在中、大尺度上以随机分布为主（除幼苗外）。这与拓锋等（2020）、张华等（2016）、任毅华等（2021）研究结果具有一致性。一方面，小尺度上的物种分布格局主要受到种群自身的生物学特性影响（Zhao et al.,2010;Lin et al.,2011），如青冈成树成熟种子呈卵形、长卵形或椭圆形且无毛或被薄毛，主要靠重力传播，大部分成熟种子因重力作用直接沉积在母株冠幅下方，而高度裸露的岩石形成地漏、石缝、石槽等地理屏障，限制了青冈成熟种子的传播距离。另一方面，岩溶石山微地形复杂、土壤总量少且斑块化，使得水分、养分资源等生态因子的再分配呈很高的空间异质性，在空间上形成更多的微生境隔离（Wiegand et al.,2007; Huet al.,2012），青冈成树的成熟种子能达到适宜萌发的微生境概率大大降低，从而导致幼苗呈聚集分布。虽然幼苗的聚集分布会加剧种内不同个体之间对光照、养分、水分和空间等资源竞争，但是这种聚集分布也有利于种群发挥群体效应，能加快区域贫瘠环境的营养积累和幼苗因竞争发生死亡后营养元素的循环，使得该环境更有利于更新幼苗的生长，从而提高植物的种间竞争和抵抗外界不良环境的能力（Ripley，1981;Harms et al.,2001）。
+
+随着植株个体年龄的增长，植株对养分等资源的需求逐渐增大，个体之间的竞争也会逐渐增加，种内和种间的个体之间因竞争激烈进而出现大量的个体死亡现象（即自疏和他疏现象），最终导致种群的密度大大降低，其聚集强度也逐渐减弱（Nathan et al.,2000;Comita et al.,2009）。因此，随着年龄增长，种群由聚集分布向随机分布或均匀分布转化。另外，中、大径级青冈种群在较大尺度上呈现随机分布，这可能是青冈种群是优势树种，占据林冠层，而青冈成树的树冠和根系延伸到一定范围内基本定型，因种内和种间竞争加剧，自疏和他疏效应使得该种群由聚集分布到随机分布转化（Wiegand etal.,2007；汪国海等，2021）。
+
+# 3.3青冈种群的空间关联性
+
+植物种群不同径级个体的空间关联可以揭示种群内部个体间在某一特定时间内的空间分布和功能关系，这是种群个体与周围环境长期相互作用的结果，对同一种群不同径级个体的空间关联研究有利于描述种群的现状并预测种群的动态状况（Schleicher et al.,2011；王慧杰等，2016）。该研究结果发现，幼苗与幼树在 $0 { \sim } 1 5 \mathrm { m }$ 尺度上呈显著正相关，暗示幼苗与幼树之间存在正向或相互有利的生态关系。由于幼苗、幼树对光照、水分等资源的竞争能力比较弱，但为了生存，他们不得不采取协同策略来适应不利的生境，体现出一种互相帮助或者是互相“庇护”的互利共生关系（Comitaet al.,2009）。有研究表明，小径级个体之间的空间关联性呈正关联，表明他们对环境资源的选择具有一致性，所以它们在空间分布上通常结伴出现或相互依存的关系（Das etal.,2011）。另外，虽然小径级个体之间的生长发育阶段较为接近，对环境资源的需求具有相似性，也存在生态位重叠的现象，但幼树相对于幼苗，对光照、水分、养分等资源的竞争相对较弱，都需要借助高大的成树进行庇护（Harms et al.,2001；宋于洋等,2010），所以幼苗与幼树个体需要采取互惠的生态关系才能适应资源有限的岩溶石山生境，从而提高幼苗与幼树的成活率。幼树与成树在 $0 \mathrm { \sim } 1 0 \mathrm { m }$ 尺度上呈无显著关联性，在 $1 0 \sim 1 5 \mathrm { ~ m ~ }$ 的尺度上呈正相关性，这主要是成树占据林分的主林层，幼树与成树占据不同的生态位空间，进而对光照等资源的竞争不激烈，能够彼此相对独立的分享生境资源，表现出种群处于一种较稳定发展状态（李明辉等,2011；Lan etal.,2012）。幼苗与成年树在 $0 { \sim } 2 \mathrm { m }$ 尺度上表现为无显著关联性，在 $2 \mathord { \sim } 1 5 \mathrm { m }$ 尺度上表现为正相关，这是由于种子扩散限制或种间竞争导致的（Wiegand etal.,2004）。幼苗与成树的关联性变化与青冈种子自身的生物学特性有关，青冈成树能够产生大量种子，主要通过重力散播，而幼苗的分布范围在一定程度上也体现了成熟种子的分布情况。
+
+# 4结论
+
+通过对桂林岩溶石山青冈种群不同径级空间分布格局和关联性进行了研究。研究结果显示径级结构呈倒“J”型分布，说明该种群处于稳定发展阶段且具有一定自我维持和更新的能力。幼苗、幼树和成树在较小尺度上表现为聚集分布，但幼树和成树在中、大尺度上基本表现为随机分布。表明岩溶石山生境贫瘠，聚集分布有利于种群在竞争有限资源时发挥群体效应，提高种群的存活率。而幼苗与幼树和成树之间主要呈空间正相关，说明幼苗对环境资源的需求与幼树和成树具有相似性和互补性，但是幼苗竞争能力弱，需借助大树进行庇护才能生存。揭示了岩溶石山脆弱生态系统青冈种群不同发育阶段的空间分布规律及其空间关联情况，为我国西南岩溶石山地区植被重建与恢复及生态系统服务功能评价提供科学依据。
+
+# 参考文献:
+
+BAI XJ,QUEENBOROUGH SA,WANG XG,et al,2012.Effects of local biotic neighbors and habitat heterogeneity on tree and shrub seedling survival in an old-growth temperate forest[J]. Oecologia,170: 755-765.   
+CALL LJ, NILSEN ET, 20O3. Analysis of spatial patterns and spatial association between the invasive tree-of-heaven(Ailanthus altissima) and the native black locust(Robinia pseudoacacia)[J]. Univ Not Dame,150(1):1-14.   
+CAO GX, ZHONG ZC, LIU Y, et al., 2O03. The study of distribution pattern of Camellia rosthorniana population in Jinyun Mountain[J]. JBiol, 2O(1): 10-12.   
+COMITA LS,HUBBELL SP, 2009.Local neighborhood and species’shade tolerance influence survival in a diverse seedling bank[J]. Ecology, 90: 328-334.   
+DAS A,BATTLES J， STEPHENSON NL,2011. The contribution of competition to tree mortality in old-growth coniferous forests[J]. For Ecol Manag,261: 1203-1213.   
+DIGGLE PJ, 1983. Statistical analysis of spatial point patterns[M]. New York: Academic Press.   
+GAO FY, ZHAO CZ，2012.In the process of grassland degradation the spatial pattrn and spatial association of dominant species[J].Acta Ecol Sin,32(21): 6661-6669.[高福元，赵成章,2012.甘肃 臭草型退化草地优势种群空间格局及其关联性[J]．生态学报,32(21):6661-6669.]   
+GUO YL,WANG B, XIANG WS, et al.， 2015. Spatial distribution of tree species in a tropical karst seasonal rainforest in Nonggang,Guangxi, southern China[J].Biodivers Sci, 23(2):183-191.[郭屹立, 王斌，向悟生，等，2015.广西弄岗北热带喀斯特季节性雨林监测样地种群空间点格局分析[J]. 生物多样性,23(2):183-191.]   
+HUBBELL SP,2O01. The unified neutral theory of biodiversity and biogeography[M]. Princeton: Princeton University Press: 127-139.   
+HARMS KE,CONDIT R,FOSTER HRB,2001. Habitat Associations of Trees and Shrubs in a 50-Ha Neotropical Forest Plot[J]. JEcol, 89(6): 947-959.   
+HE ZL,XU H, QIN XS, et al., 2017. Spatial distribution paterns and assciation of two Apocynaceae plants in the tropical mountain rainforests of Jianfengling,Hainan Island, China[J]. Biodivers Sci, 25(10):1065-1074.[何增丽，许涵，秦新生，等,2017.海南尖峰岭热带山地雨林2种夹竹桃科植物 的空间分布格局与关联性[J]．生物多样性,25(10):1065-1074.]   
+HU F, ZENG FP, DU H, et al., 2018. Scale-dependent spatial patterns for species diversity in a karst evergreen and deciduous broad-leaved mixed forest of northwest Guangxi[J]. Acta Ecol Sin, 38(17) : 6074-6083.[胡芳，曾馥平，杜虎，等,2018．桂西北喀斯特常绿落叶阔叶混交林物种多样性分布 格局的尺度效应[J]．生态学报,38(17): 6074-6083.]   
+HU YH, SHA LQ, BLANCHET FG, et al, 2012.Dominant species and dispersal limitation regulate tree species distributions in a 20-ha plot in Xishuangbanna, southwest China[J]. Oikos,121: 952-960.   
+HU G, LIANG SC, ZHANG ZH, 2007. Quantitative analysis of Cyclobalanopsis glauca community on Karst hills of Guilin[J]. Chin J Ecol, 26(8): 1177-1171.   
+HU G, ZENG SQ,LONG SS, 2017. Structure and dynamic characteristics of Cyclobalanopsis glauca secondary forests[J]. JCentral South Univ Fore & Technol, 37(11): 110-114.   
+LIN YC, CHANG LW, YANG KC,et al., 2011. Point paterns of tree distribution determined by habitat heterogeneity and dispersal limitation[J]. Oecologia,165(1):175-184.   
+LAN G, GETZIN S,WIEGAND T, et al., 2O12. Spatial distribution and interspecific associations of tree species in a tropical seasonal rain forest of China[J]. PLoS ONE, 7(9): e46074.   
+LI XK,HE CX, TANG JS, 20O8. Evolution and ecological processes of karst ecosystem of Guangxi[J]. Guangxi Sci, 15(1): 80-86.   
+LI MH, HE FH, PAN CD,2011. Spatial distribution pattern of different strata and spatial assocations of different strata in the schrenk spruce forest,Northwest China[J]. Acta Ecol Sin,31(3): 62O-628.[李明 辉，何风华，潘存德，2011．天山云杉天然林不同林层的空间格局和空间关联性[J]．生态学报, 31(3): 620-628.]   
+LIU YS, DENG XS, HU YC, 2006. Rocky land degradation and poverty alleviation strategy in Guangxi karst mountainous area[J].Mt.Res,24(4): 228-233.[刘彦随，邓旭升，胡业翠,2006.广西喀斯特 山区土地石漠化与扶贫开发探析[J]．山地学报,24(4):228-233.]   
+MIAO N, XU H, MOERMOND TC, et al, 2018. Density-dependent and distance-dependent effects in a 60-ha tropical mountain rain forest in the Jianfengling mountains,Hainan Island,China: Spatial pattern analysis[J]. For Ecol Manag, 429: 226-232.   
+NATHAN R, MULLER-LANDAU HC, 20O0. Spatial pattrns of seed dispersal, their determinants and consequences for recruitment[J]. Trends Ecol Evol, 15: 278-285.   
+RIPLEY BD,1981. Spatial statistics[M]. New York: John Wiley & Sons: 252.   
+RIPLEY BD, 1977. Modelling spatial pattern[J]. JRoyal Statist Soc, 39: 17-21.   
+REN YH, ZHOU YZ,HOU L,et al., 2O21. Spatial distribution patterns of standing trees at different ages in Abies georgei var. smithi forests in Sejila Mountain[J]. Acta Ecol Sin, 41(13):5417-5424.[任毅华, 周尧治，侯磊，等，2021．色季拉山急尖长苞冷杉种群不同龄级立木的空间分布格局[J].生态学 报,41(13): 5417-5424.]   
+STOYAN D,PENTTINEN A,2OO0. Recent applications of point process methods in forestry statistics[J]. Statist Sci, 15(1): 61-78.   
+SCHLEICHER J，WIEGAND K，WARD D，2011. Changes of woody plant interaction and spatial distribution between rocky and sandy soil areas in a semi-arid savanna, South Africa[J]. J Arid Environ, 75(3): 270-278.   
+SU SJ,LIU JF, CHEN WW, 2O14. Spatial variability and patterns of soil moisture physical properties in Pinus taiwanensis forest basedon geostatistics and GIS[J]. Resour Sci, 36(11): 2423-2430.[苏松锦, 刘金福，陈文伟，等，2014．戴云山黄山松林土壤水分物理性质空间变异特征与格局[J]．资源科 学,36(11): 2423-2430.]   
+SONG YY，LI YY, ZHANG WH, 2010. Analysis of spatial pattrn and spatial association of Haloxylon ammodendron population in different developmental stages[J]. Acta Ecol Sin, 30(16): 4317-4327.[宋 于洋，李园园，张文辉，2010．梭梭种群不同发育阶段的空间格局与关联性分析[J]．生态学报, 30(16): 4317-4327.]   
+TUO F, LIU XD, LIU RH, et al.,2O20. Spatial distribution paterns and association of Picea crassifolia population in Dayekou Basin of Qilian Mountains, northwestern China[J]. Chin JPlant Ecol, 44(11): 1172-1183.[拓锋，刘贤德，刘润红，等,2020．祁连山大野口流域青海云杉种群空间格局及其关 联性[J]．植物生态学报,44(11):1172-1183.]   
+WIEGAND T, MOLONEY KA, 2004. Rings, circles,and null-models for point analysis in ecology[J]. Oikos,104:209-229.   
+WANG GH, PAN Y, QIN GL, et al., 2021. Population structure and spatial distribution pattern of Kmeria septentrionalis an endangered species,in karst habitat[J]. For Res,34(3): 81-87.[汪国海，潘扬，覃 国乐，等，2021．喀斯特生境中濒危植物单性木兰种群结构及空间分布格局研究[J]．林业科学研 究,34(3): 81-87.]   
+WANG HJ, CHANG SL, ZHANG YT, et al.,2016.Density-dependent effects in Picea schrenkiana forests in Tianshan Mountains[J].Biodivers Sci,24(3):252-261.[王慧杰，常顺利，张毓涛，等,2016．天 山雪岭云杉森林群落的密度制约效应[J]．生物多样性,24(3):252-261.]   
+WANG MZ, 2004. A deliberation upon the Karst environment of geology and its implication[J]. Guizhou Geol,(4)：251-253.[王明章，2004．论喀斯特生态地质环境及其研究意义[J]．贵州地质(4): 251-253.]   
+WANG XT, WANG DJ,LI HB,et al., 2022. Cumulative efects of K-function in point patterns[J/OL]. Chin JAppl Ecol: 1-8[2022-04-16].DOI:10.13287/j.1001-9332.202205.005.[王鑫厅，王殿杰，李海 兵，等，2022．点格局研究过程中K-函数的累积效应[J/OL].应用生态学 报:1-8[2022-04-16].DOI:10.13287/j.1001-9332.202205.005.]   
+WANG XT, HOU YL, LIANG CZ, et al.,2012. Point pattern analysis based on different null models for detecting spatial patterns[J].Biodivers Sci,20(2):151-158.[王鑫厅，侯亚丽，梁存柱，等,2012．基 于不同零模型的点格局分析[J].生物多样性,20(2):151-158.]   
+XU YF, WANG KL, QI XK, et al. 2016. Spatial and temporal vegetation changes under geological setings of dolomite and limestone based on TM images[J]. Acta Ecol Sin,36(1):180-189.[徐艳芳, 王克林，祁向坤，等,2016.基于TM影像的白云岩与石灰岩上喀斯特植被时空变化差异研究[J]. 生态学报,36(1): 180-189.]   
+ZHAO CZ, GAO FY, WANG XP, et al.， 2010. Fine-scale spatial patterns of Stellera chamaejasme population in degraded alpine grassand in upper reaches of Heihe, China[J]. Chin JPlant Ecol, 34(11): 1319-1326.   
+ZHANG ZH, HU G, ZHU JD, et al., 2O13. Aggregated spatial distributions of species in a subtropical karst forest, southwestern China[J]. JPlant Ecol, 6(2): 131-140.   
+ZHANG JT,20O4.Two methods for two dimensional patern analysis of community[J].Acta Bot BorealOccident Sin,24(8):1448-1451.[张金屯,2004．群落二维格局分析的两种方法[J]．西北植物学报, 24(8): 1448-1451.]   
+ZHANG H, HUANG Q, ZHAO CY, et al., 2016. Spatial patern analysis of individuals in diferent age-classes of Picea crassifolia[J]. Chin JEcol,35(5):1182-1187.[张华，黄琴，赵传燕，等,2016. 青海云杉不同龄级立木的点格局分析[J].生态学杂志,35(5):1182-1187.]

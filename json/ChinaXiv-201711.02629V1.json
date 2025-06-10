@@ -1,0 +1,650 @@
+[
+    {
+        "type": "text",
+        "text": "雄安新区资源环境承载力评价和调控提升研究 \\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/757daba38f57e59fba4f45bdaef9e2c7a88f3c30f7fe0506d68ba6f8c3f8efd5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*资助项目：中科院规划与战略研究专项（GHJ-ZLZX-2016-15），中科院地理科学与资源所所长基金（2016SJ007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*文章执笔人：葛全胜、杨林生、金凤君、朱会义",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "课题组成员：葛全胜、杨林生、金凤君、朱会义、许端阳、江东、席建超、王勇、郝萌萌、封志明、杨艳昭、游珍、王绍强、李宇、马丽、康蕾、汤秋鸿、王月玲、张学君、穆梦菲、吕爱锋、贾绍凤、张岸、余卓渊、石智杰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "修改稿收到日期：2017年11月1日",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“雄安新区资源环境承载力评价和调控提升研究”课题组\\*中国科学院地理科学与资源研究所北京100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要设立河北雄安新区，是以习近平同志为核心的党中央作出的重大历史性战略选择，是千年大计、国家大事。为支撑雄安新区规划建设，中科院地理科学与资源所“雄安新区资源环境承载力评价和调控提升研究”课题组，基于卫星与无人机遥感、定位观测及历史文献资料，从历史、现实、未来多个维度，开展了新区3县（雄县、安新、容城）资源环境承载力评价和调控提升研究。结果表明：（1）新区区位优势明显，土地资源丰富，但水资源短缺，地表水质污染较为严重，洪涝灾害风险较高，如维持现有的生产、生活、生态模式，新区3县资源环境承载力已接近自然上限。（2）人口与产业规模上升将显著加大新区资源环境压力，当人口规模达到500万时，城镇建设和产业用地需求分别为670和130平方公里，年用水11.6亿立方米，约一半建成区存在洪涝灾害风险。（3）实现新区建设目标，需科学调控、提升区域水资源和生态环境承载力，具体方向包括：人口规模控制在500万以内；多途径调水，适度控制湿地和森林面积；加大减排治污力度，提高生态环境质量；提高防洪标准，科学选址建设项目。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词雄安新区，资源环境承载力，资源环境压力，调控与提升对策 DOI 10.16418/j.issn.1000-3045.2017.11.005 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设立河北雄安新区，是以习近平同志为核心的党中央作出的重大历史性战略选择，对于集中疏解北京非首都功能、探索人口经济密集地区优化开发新模式、调整优化京津冀城市布局和空间结构、培育创新驱动发展新引擎，具有重大现实意义和深远历史意义，是千年大计、国家大事[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "习近平总书记指出，雄安新区首先是疏解北京非首都功能集中承载地，要坚持生态优先、绿色发展，着力建设绿色、森林、智慧、水城一体的新区，打造要素有序自由流动、主体功能约束有效、基本公共服务均等、资源环境可承载的区域协调发展示范区，为京津",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冀建设世界级城市群提供支撑[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为落实总书记的指示，中科院地理科学与资源所在中科院发展规划局的支持下，依托区域发展模拟、全国主体功能区划和资源环境承载力评价等方面的研究基础，基于卫星与无人机遥感、定位观测及历史文献资料，从历史、现实、未来多个维度，开展雄安新区（雄县、容城、安新3县）资源环境承载力评价和调控提升研究，形成了以下阶段性成果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资源环境承载力评价",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 区位条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "雄安新区西承太行，北望燕山，地处海河水系大清河流域腹地（图1）。海河水系发源于黄土高原，横切太行山脉后进入华北平原汇流入海。大清河上游支流潴龙河、孝义河、唐河、府河、漕河、萍河、杨村河、瀑河及白沟引河，九水汇集，注入华北明珠白洋淀[3]。特殊的地理位置赋予新区背山向海、坐拥华北平原最大湿地等自然环境优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太行山东侧冲积平原自古繁华，从北到南屡建“首善之区”而被誉为中国“古都廊道”（图2），北京、燕下都、灵寿故城、邯郸、邢都、邺城、安阳等古都（表1）[4]，都分布在这条廊道之上。新区临近“古都廊道”，连接荣乌高速、大广高速、京港澳高速及京广铁路和京九铁路，与京津两地相距100余公里，区位优势明显。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新区地处太行山断裂带和郯庐断裂带之间的安全区域，地质条件稳定，历史地震烈度为V度，仅与北京市西北部、天津市南部等低值区相当[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/02d6033911d8ebe78aa052be1e4ec23e7beaaf5ef57f6de361b6807bae2dccdd.jpg",
+        "table_caption": [
+            "表1 太行山东麓古都概况[4]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>古都名称</td><td>现代位置</td><td>海拔高程 (米)</td><td>建都年代</td><td>衰亡时间</td><td>古都历时</td></tr><tr><td>商代邢都</td><td>邢台市区附近</td><td>75</td><td>商祖乙九年 (公元前1438年)</td><td>商代中期</td><td>约158年</td></tr><tr><td>安阳古都</td><td>安阳小屯村</td><td>79</td><td>商盘庚时代 (公元前1300年)</td><td>商代晚期 (公元前1046年)</td><td>255年</td></tr><tr><td>燕上都</td><td>北京城区西南</td><td>49</td><td>春秋前期 (公元前7世纪)</td><td>春秋晚期燕文公时代</td><td>约150年</td></tr><tr><td>燕下都</td><td>河北易县</td><td>54</td><td>战国末期燕昭王时代 (公元前311年)</td><td>燕国末年 (公元前226年)</td><td>86年</td></tr><tr><td>中山国灵寿故城</td><td>河北平山县</td><td>130</td><td>战国时期中山国武公时代 (公元前414年)</td><td>公元前296年中山国被赵国所灭</td><td>119年</td></tr><tr><td>赵国邯郸故城</td><td>河北邯郸市</td><td>66</td><td>战国时期赵国于公元前386年迁都邯郸</td><td>公元前222年秦灭赵止</td><td>165年</td></tr><tr><td>邺城古都</td><td>河北临漳县</td><td>64</td><td>三国时期魏王曹操时代 (公元204年)</td><td>公元577年北齐亡</td><td>374年</td></tr><tr><td>金中都、元大都、明清北京 北京城区</td><td></td><td>50</td><td>金国海陵王完颜亮时代 (公元1151年)</td><td>公元1911年</td><td>761年</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/28d9a06c91dba60e1e0cc20ad4a49c74413fc2bd127abcbb66fc456f09dbc14b.jpg",
+        "img_caption": [
+            "图1雄安新区的地理位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31428b02896f2af3053e184bb89f32b936817f20f23afd191acfde55575c98de.jpg",
+        "img_caption": [
+            "图2 太行山东侧“古都廊道”示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 土地资源承载力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新区3县（雄县、安新、容城）土地总面积1557平方公里，远高于新区规划起步区面积（100平方公里）和中期发展区面积（200平方公里），略低于新区远期控制区面积（2000平方公里）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新区3县境内及周边以低海拔平原、洼地为主。按国家高程基准，新区3县最高海拔18米，最低5米，平均8.3米，低于海拔10米的地表面积1166平方公里，适于承载农业、水产养殖业、湿地旅游业及低污染、无污染现代产业。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "遥感调查结果显示，2015年新区3县土地覆被类型主要为耕地、聚落和湿地（含水域），约占总面积 $90 \\%$ 城镇建成区仅为34.4平方公里，约占区域总面积 $2 . 2 \\%$ （表2），发展空间充裕（图3）。区域产业结构中农业占比大，城镇化水平较低。2016年，户籍人口113万，城镇化率 $42 \\%$ （表3）[",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前，新区3县人口密度仅为726人/平方公里，单位面积年经济产出1355万元/平方公里，与上海浦东新区（人口密度4523人/平方公里，单位面积年经济产出6.53亿元/平方公里）、深圳特区（人口密度5398人/平方公里，单位面积年经济产出9.66亿元/平方公里）相比，土地资源承载力仍有巨大潜力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/371572641cf78317e707dd46c3d5dda7366a0abb662c8e231ca332dbf57dabc6.jpg",
+        "img_caption": [
+            "图3雄安新区3县2015年土地利用"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ed4bccbd36bf5f8f5228a4f1cc10352000609e2af4f643bce8b4b08e5e88817.jpg",
+        "table_caption": [
+            "表22015年雄安新区3县土地覆被类型面积统计表 (单位：平方公里)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">县名称</td><td colspan=\"2\">农田</td><td rowspan=\"2\">林地</td><td rowspan=\"2\">湿地</td><td colspan=\"3\">城镇和乡村聚落</td></tr><tr><td>水田</td><td>旱地</td><td>城镇 建成区</td><td>乡镇及 农村聚落</td><td>独立 工矿</td></tr><tr><td>容城县</td><td>0.00</td><td>224.72</td><td>1.59</td><td>5.70</td><td>9.22</td><td>67.29</td><td>5.22</td></tr><tr><td>安新县</td><td>0.00</td><td>399.90</td><td>6.51</td><td>5.48</td><td>17.58</td><td>79.74</td><td>6.42</td></tr><tr><td>雄县</td><td>51.56</td><td>391.61</td><td>1.02</td><td>163.90</td><td>7.56</td><td>99.79</td><td>10.55</td></tr><tr><td>总计</td><td>51.56</td><td>1016.23</td><td>9.12</td><td>175.08</td><td>34.37</td><td>246.82</td><td>22.20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/27196985dc21f97b1c6395a2a5c708b3deb7e30fe02176cf45059252750e360a.jpg",
+        "table_caption": [
+            "表32015年雄安新区3县行政区面积与人口经济统计[7]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">县名称面积（平</td><td rowspan=\"2\">行政区划 方公里)</td><td colspan=\"2\">人口状况 (万人)</td><td colspan=\"4\">经济状况 (亿元)</td></tr><tr><td>户籍 总人口</td><td>农业 人口</td><td>非农业 人口</td><td>地区生 产总值</td><td>增加值</td><td>第一产业 第二产业 第三产业 增加值 增加值</td></tr><tr><td>容城县</td><td>314</td><td>27.31</td><td>13.73</td><td>13.58</td><td>57.75</td><td>9.71</td><td>34.15 13.89</td></tr><tr><td>安新县</td><td>729</td><td>46.30</td><td>32.35</td><td>13.95 62.56</td><td>8.85</td><td>36.04</td><td>17.67</td></tr><tr><td>雄县</td><td>514</td><td>39.41</td><td>26.12</td><td>13.29</td><td>90.75 10.13</td><td>63.56</td><td>17.06</td></tr><tr><td>总计</td><td>1557</td><td>113.02</td><td>72.20</td><td>40.82</td><td>211.06 28.69</td><td>133.75</td><td>48.62</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3水资源承载力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新区3县多年平均降水516毫米，水资源总量1.2亿立方米/年，其中 $91 \\%$ 为地下水（表4）。2015年，新区3县总用水量2.53亿立方米，其中地下水开发利用量2.47亿立方米，占总用水量的 $9 7 . 6 \\%$ 。总用水量中，农业用水量占 $7 7 . 3 \\%$ ，居民生活用水量占 $9 . 9 \\%$ ，工业用水量占 $8 . 6 \\%$ 。目前用水赤字1.4亿立方米/年①，水资源承载力已达到自然的上限。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f146f47fe5f6e3593a21ce4fa975c23121310a65e544cb8e9caba53ac3d4974d.jpg",
+        "table_caption": [
+            "表4雄安新区3县多年平均水资源状况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>县域</td><td>降雨量 (毫米/年)</td><td>地表水资源量 (亿立方米/年)</td><td>地下水资源量 (亿立方米/年)</td><td>水资源总量 (亿立方米/年)</td></tr><tr><td>容城县</td><td>518</td><td>0.0232</td><td>0.3613</td><td>0.3522</td></tr><tr><td>安新县</td><td>514</td><td>0.0569</td><td>0.4797</td><td>0.4200</td></tr><tr><td>雄县</td><td>517</td><td>0.0282</td><td>0.4667</td><td>0.4546</td></tr><tr><td>合计</td><td>516</td><td>0.1083</td><td>1.3077</td><td>1.2268</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新区水资源承载力不足的一个重要表现是新区3县地下水位快速下降。2006一2015年，容城地下水埋深由",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "19.2米下降到22.5米，雄县地下水埋深由17.8米下降到19.2米，安新地下水埋深由7.8米下降到10.8米，下降幅度达 $3 8 \\% ^ { \\textcircled { 2 } }$ 。新区3县地下水已不同程度超采，容城县因严重超采而形成20米深的漏斗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "华北地区水资源短缺是刚性的长期性问题。1960 年以来，华北地区每10年增温 $0 . 1 ^ { \\circ } \\mathrm { C } - 0 . 3 ^ { \\circ } \\mathrm { C }$ ，降水量每10年减少5—20毫米（图4），蒸发量呈增加趋势[8]中科院大气物理所的模拟研究表明，2026年以前是华北地区弱的多雨期，2026一2046年则为极端的干旱时段，华北地区水资源短缺形势将可能加剧（图5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1000(uw) 800600 400 WwW v20001950 1960 1970 1980 1990 2000 2010 (年)",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22cf23f73cb526a0605bbc7bb26f3fc192a5f79cb8d52e60f5ddbae49918d5eb.jpg",
+        "img_caption": [
+            "图41950—2017年华北地区年平均降雨量",
+            "图52018—2046年华北地区模拟降雨量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中科院大气物理所的模拟结果响雄安新区的生态环境承载力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资料显示，白洋淀曾多次干淀，1984一1988年白洋淀曾连续5年干淀[10]。为维持湿地生态系统基本功能，1996年以来引水济淀32次[10]。遥感调查结果证明,1995年白洋淀水域面积为177平方公里（图6），2005年仅为53平方公里（图7），2015年“引黄济淀”后为78.5平方公里（图8）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水量减少和生产、生活污水排放导致白洋淀生态环境承载力进一步下降。据水利部海河水利委员会《海河流域水资源公报（2015）》评估结果，白洋淀约1/3水域水质为V类，2/3水域水质为劣V类[1]，底泥存在不同程度污染，约2/3的水体达不到水域功能的基本标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态承载力下降直接影响白洋淀的生物多样性、水产品生产和旅游业发展。白洋淀湿地生态系统自然保护区内，死鱼事件频发，现存47种大型水生植物、197种栖息鸟类[12]（含国家一级重点保护鸟类4种、国家二级重点保护鸟类26种）的繁育生长遭受不同程度威胁。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，大气雾霾也深刻影响新区生态环境承载力。资料显示，过去30年新区3县大风天数每10年减少2—5天[8]，雾霾时有发生。2015年，保定市 $\\mathrm { P M } _ { 2 . 5 }$ 年均浓度为107微克/立方米，是标准限值的3.1倍[13]，在全国74个重点城市中排名倒数第一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5灾害风险 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4生态环境承载力",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "白洋淀是华北平原最大湿地，主要分布于安新县（312平方公里）和雄县（18.3平方公里）境内，计有143 个淀泊、3700条沟壕，属于典型的浅水型淡水湖泊[]白洋淀一直被作为海河流域重要的蓄滞洪区，在拦蓄上游洪水、拱卫津冀安全，调节华北气候、补充地下水源方面发挥不可替代的作用，其水环境状况直接反映并影",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大清河流域年均降水500一600 毫米，其中每年7—8月降水占全年降水的 $60 \\%$ ，暴雨频发。暴雨通过山前扇形河网快速下泄，注入白洋淀，汇水同步性强，洪涝灾害极易发生。据史料，过去 700年雄县特大涝灾12年1次[14]。1963年8月，大清河七峪站7天降水1329毫米，白洋淀水位超过海拔11米达13天之久，京广线中断27天[15]，百姓生命财产损失巨大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全球增暖将导致流域暴雨增强，中科院大气物理所的模拟结果显示，如增暖 $2 ^ { \\circ } \\mathrm { C }$ ，暴雨将增强 $20 \\%$ 。根据对《近500年中国旱涝图集》[1]、《清代海河深河洪涝档案史料》[7和雨雪分寸记录分析，结合陆面水文模型VIC[18]、多功能高性能水文-地质灾害模拟系统HiPIMS[19]的模拟结果：当发生20年一遇的洪涝灾害时，3县淹没面积达 $34 \\%$ ，陆地平均淹没水深为3.2米（图9）；当发生100 年一遇的洪涝灾害时，3县淹没面积达 $61 \\%$ ，淹没水深约为4.5米（图10）；当发生300年一遇洪涝灾害时，3县淹没面积达 $9 0 \\% ^ { [ 1 6 ] }$ ；当发生500年一遇的洪涝灾害时,3县全境被洪水淹没，平均淹没水深超过7米。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1803e5d42251c996007074683238f622197832b7aee5e812d4c4ad5fb156bdba.jpg",
+        "img_caption": [
+            "图6 1995年白洋淀水域分布范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "洪涝风险评估结果还表明，除西北、东北及西南小部分地区外，约1100平方公里的地域洪涝灾害风险较高，占新区3县总面积的 $68 \\%$ （图6）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ac85dd40a99e74fb59fcd7bce4a26eaa693f0de7b8ec1a255a058a0cd67ef6e.jpg",
+        "img_caption": [
+            "图72005年白洋淀水域分布范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e75149c950ac76b00861d541df22b0f6774195f9c42ab9a6dcfc2ae50d9b5723.jpg",
+        "img_caption": [
+            "图9雄安新区3县20年一遇洪水淹没范围模拟结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce759e73b408e141cd684f47141930866dcdc3bc98339038379f0270a701b06c.jpg",
+        "img_caption": [
+            "图82015年白洋淀水域分布范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e560da918d57e059d208d3e4812affe9654ecd9b0aff8b0780df22b32ed68f.jpg",
+        "img_caption": [
+            "图10雄安新区3县100 年一遇洪水淹没范围模拟结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2未来发展情景与资源环境压力模拟",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1条件设置 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "依据雄安新区定位，参照沿海先发先进城市的标准，以人口规模300万和500万为目标值，在土地适宜性评价和洪涝灾害模拟的基础上，建立如下基本假设，开展多尺度区域发展与资源环境压力模拟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）根据非首都功能集中承接地的功能定位，新区未来人口和产业主要集中在非农产业，人口机械增长全部来自区外的北京非首都功能疏解，区内原有农村人口将在新区建设的推动下逐步城镇化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）根据国家《新型城镇化规划》，新增城市人口的人均建设用地标准为100平方米。初期基础设施建设需求大，工矿交通用地面积在最初10年按 $20 \\%$ 速度增加,第二个10年降为 $10 \\%$ ，第三个10年降为 $5 \\%$ ，此后保持不变；农村居民点面积随农村人口城市化逐步减少；未来新区产业用地规模约占城镇建设用地面积的 $20 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）建设用地布局优先考虑土地适宜性，按土地适宜程度从高到低依次开发。土地适宜性评价综合考虑土地利用、地块高程、洪涝风险、交通通达性等因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）针对区域水资源短缺和水环境问题，新区产业选择偏向低耗水或节水工业，现有耗水型工业逐步退出，可能造成区域水环境污染的皮革、造纸、化工、有色冶金等行业逐步退出，工矿用水总量基本保持不变；城镇用水（含生活和城镇服务业）参照北京市用水标准；农村生活用水控制在人均100升/天的标准；农业用水随耕作面积而变；生态用水基本保持不变，充分利用中水。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）根据新区建设目标，未来新区以高端、高技术、绿色环保产业为主，单位土地面积的产出效率达到同类地区的产出水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2模拟情景1：人口300万",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "模拟结果显示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）当人口规模达到300万时，雄安新区核心区人口预计达到250万人，城镇建设用地需求485平方公里，建设用地占区域土地总面积 $31 \\%$ ，其中产业用地100平方公里，区域资源环境系统从目前以农业系统为主体转变为以城市为主体。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）城镇生活用水需求达到5亿立方米/年，农村生活用水需求下降至0.14亿立方米/年，工矿用水基本保持不变，农业用水需求降至2.14亿立方米/年，总用水需求8.11亿立方米/年。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）新区西北部、东北部将成为城市化区域（图11），传统农业生态系统减少 $60 \\%$ 。当发生100年一遇洪涝灾害时，按国家基准地理高程估算，将有1/3建成区存在洪涝灾害风险（图12）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）新区产业体系基本建成，有能力与中关村国家自主创新示范区、滨海新区等形成分工合作体系，经济效率可望达到张江高新技术园区的水平，单位面积的年经济产出约4亿元/平方公里，年产出总量超过1900亿元，成为推动京津冀经济转型发展的引擎。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c615076def29b340f76893469a4188c10c736c5af2d350a821db6b2a7d5c119b.jpg",
+        "img_caption": [
+            "图11人口规模达到300万时，雄安新区建设用地分布情景"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fec458c3cf6770f18e00418b4f7162e119d322fd1a050b82548ff4774b62c8f6.jpg",
+        "img_caption": [
+            "图12人口300 万情景下，雄安新区100 年一遇洪水的预测淹没范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3模拟情景2：人口500万",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模拟结果显示：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）当人口规模达到500万时，核心区人口预计达到450万人，城镇建设用地需求671平方公里，建设用地占新区土地总面积的 $43 \\%$ ，其中产业用地130平方公里。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）城镇生活用水需求将达到约9亿立方米/年，农村生活用水需求降至0.1亿立方米/年，农业用水需求降至1.7亿立方米/年，总用水需求达到11.6亿立方米/年。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）新建城区在西北部和东北部进一步扩展（图13），新区湿地系统、陆地景观格局将发生功能性变化，传统农业生态系统减少 $90 \\%$ 。当发生100年一遇洪涝灾害时，约一半的建成区存在洪涝风险（图14）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）新区产业规模达到国家技术创新中心水平，单位面积经济产出与国家自主创新示范区持平（单位面积年经济产出约8亿元/平方公里），地区年经济总量将超过5300亿元，高于目前保定市经济总量。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a272a1a888c0da2e32a1e72bef89d83055e4bdc95ff110e5e9bb18f57b57d60.jpg",
+        "img_caption": [
+            "图13人口规模达到500万时，雄安新区建设用地分布情景"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d7b02cca1964c7068f58dcaf429f74137411b5bb5cd674c720899045d9ef5b2.jpg",
+        "img_caption": [
+            "图14人口500 万情景下，雄安新区100 年一遇洪水的预测淹没范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3资源环境承载力调控提升方向",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现有生产生活模式下，新区3县资源环境承载力已接近自然上限；未来新区建设将进一步加大区域资源环境压力；要实现新区建设目标，必须科学调控、提升新区资源环境承载能力。针对水资源短缺、地表水质污染和洪涝灾害风险等区域资源环境承载力主要限制因素，提出4点对策建议。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）合理控制人口规模和产业结构，调控区域资源环境压力。坚决实施非首都功能疏解措施，并将雄安新区人口规模控制在500万以内，防止出现北京人口未减而新区却聚集数百万人口现象；发展低耗水、无污染现代高技术产业和现代服务业体系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）多途径调水，适度控制湿地和森林面积，提升水资源承载力。南水北调工程每年可向新区调水4亿立方米，如实施“人口疏解 $+$ 调水指标”同步政策，每年另增加调水1.5亿—2.3亿立方米（图15）；上游水库、“引黄济淀”每年为白洋淀注水2.6亿立方米；耕地转化为建设用地后，每年可减少用水1亿立方米。以上途径综合实施，每年可增加水资源量9亿一10亿立方米。此外，应实施非常规水源利用政策，拓展供水渠道，按“海绵城市”理念建设新区。新区水面年均蒸发量1124毫米，约为降水量的2倍。为减少蒸发损失，湿地面积应控制在400平方公里。森林面积不宜过大。新区森林年均蒸散量550毫米，与降水量相当，草地年均蒸散量约为森林的 $3 / 4 ^ { [ 2 0 ] }$ 。新区绿化应林草结合，森林覆盖率宜控制在 $3 5 \\%$ 以下，并将有效减少蒸散作为条件纳入森林布局规划。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）加大减排治污力度，提高生态环境质量，提升生态环境承载力。首要任务是保护白洋淀。将整个白洋淀纳入新区管辖，建设国家湿地公园。控制新区污染物不超过目前水平的 $20 \\%$ ；围绕淀周建设1一2公里森林带，稳定维持湿地面积350平方公里。在白洋淀周边和河流两岸规划建设生态廊道；结合新区功能布局，科学",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "建设城市绿地生态系统。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）提高防洪标准，科学选址建设项目，规避洪涝灾害风险。按100年一遇防洪标准，对千里堤、新安北堤、四门堤、障水捻、淀南新堤进行建设（图16）。对白洋淀上下游河道实施疏浚和河堤加高工程，在白洋淀内实施开卡除封工程[21]。按200年一遇防洪标准建设城市项目[22]。建立流域洪涝灾害风险监测、预警系统。建设项目选址优先考虑新区西北部地区，以防范洪涝灾害风险。如启动区选址不变，则应将“地面垫高3米”作为建设条件纳入规划。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合上述分析，可得到3点结论。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）雄安新区区位优势明显，土地资源丰富，但如维持现有的生产、生活、生态模式，新区3县资源环境承载力已接近自然上限。主要限制因素是：水资源短缺，地表水质污染，洪涝灾害风险。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）新区规划建设将显著加大新区资源环境压力。当人口规模达到300万时，城镇建设和产业用地分别为485和100平方公里，年用水8.1亿立方米，传统农业生态系统减少 $60 \\%$ 。当人口规模达到500万时，城镇建设和产业用地分别为670和130平方公里，年用水11.6亿立方米，传统农业生态系统减少 $90 \\%$ 。当发生100年一遇洪涝灾害时，两种情景下分别有约1/3和1/2的建成区存在洪涝灾害风险。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）实现新区建设目标，需科学调控、提升区域水资源和生态环境承载力。具体方向包括：新区人口规模控制在500万以内；多途径调水，适度控制湿地和森林面积；加大减排治污力度，提高生态环境质量；提高防洪标准，科学选址建设项目。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从百年尺度看，影响新区发展的关键因素是人口规模、供水能力和环境质量；千年后，确保雄安新区是否能够成为我们这代人留给子孙后代的历史遗产，则依赖于华北资源环境系统弹性幅度和新区灾害风险防范能力。要把新区建设成为绿色生态宜居新城区、创新驱动发展引领区、协调发展示范区和开放发展先行区，仍需统筹谋划，提出系统化、详尽的资源环境承载力优化提升方案。当务之急是进一步细化水土资源评价、环境污染整治、洪水灾害模拟、城市发展预测、产业结构规划、生态建设策略等6个方面的研究。通过深入研究和科学规划，从提升资源环境承载力和合理控制资源环境压力两方面入手，彻底破解新区建设发展面临的水资源短缺、地表水质污染、洪涝灾害风险等内附与衍生的资源环境问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0542e43f3fa4bf2aafa2e9a05ecc893391b1b432185b57a260c760c3ee537581.jpg",
+        "img_caption": [
+            "图15南水北调中线工程线路图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b88855a0790097cc2210f8c78999e1609ab07ee918c26378b6e7c76bcce188b5.jpg",
+        "img_caption": [
+            "图16白洋淀堤防分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1新华社．中共中央、国务院决定设立河北雄安新区.[2017-04-01].http://news.xinhuanet.com/politics/2017-04/01/c_1120741571.htm.  \n2 新华社.千年大计、国家大事—以习近平同志为核心的党中央决策河北雄安新区规划建设纪实.[2017-04-01].http:/news.xinhuanet.com/politics/2017-04/13/c_1120806042.htm  \n3 安新县地方志编纂委员会.安新县志．北京：新华出版社,2000.  \n4 河北省政协文史资料委员会.河北文史集萃.石家庄：河北人民出版社,1992.  \n5河北省地质矿产局.河北省北京市天津市区域地质志.北京：地质出版社,1989.  \n6 河北省人民政府.河北经济年鉴2016.北京：中国统计科学出版社,2016.  \n7中华人民共和国国家统计局.中国县域统计年鉴 (县市卷)2015.北京：中国统计出版社,2016.  \n8段昊书,谢盼.从气象角度看雄安新区：白洋淀对气候变暖起遏制作用.北京日报,2017-04-26.  \n9白洋淀国土经济研究会.白洋淀综合治理与开发研究.石家庄：河北人民出版社,1987.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10 张伟亚.雄安新区纪行：生态补水“解渴”白洋淀.河北日",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "报,2017-04-26.  \n11 水利部海河水利委员会办公室．水利部海河水利委员会2015年度政府信息公开工作年度报告.[2016-03-31].http://www.hwcc.gov.cn/hwcc/wwgj/HWCCzwgk/zwgkgknb/201603/t20160331_54856.html.  \n12 中国科学院动物研究所白洋淀工作站.白洋淀生物资源极其综合利用初步调查报告.北京:科学出版社,1958.  \n13 中华人民共和国环境保护部.2015年中国环境统计年报．北京：中国环境出版社,2016.  \n14 雄县县志编委会.雄县志.北京:中国社会科学出版社,1992.  \n15 张塞,范宝俊.中国灾情报告.北京：中国统计出版社,1996.  \n16 中央气象局气象科学研究院.中国近五百年旱涝分布图集.北京：地图出版社,1981.  \n17 水利水电科学研究院.清代海河深河洪涝档案史料.北京：中华书局,1981.  \n18LiangX,LettenmaierDP,WoodEF,etal.A simple hydrologicallybased model of land surface water and energy fluxes for general-circulation models. Journal of Geophysical Research-atmospheres,1994, 99(D7): 14415-14428.  \n19 Liang Q, Smith L. A high-performance integrated hydrodynamicmodelling system for urban flood simulations. Journal ofHydroinformatics,2015,17(4): 518-533.  \n20 莫兴国，刘苏峡，林忠辉,等.华北平原蒸散和GPP格局及其对气候波动的响应.地理学报,66(5):589-598.  \n21 王建伟，刘爱军.白洋淀防洪存在的问题及对策.水科学与工程技术,2010,(4): 3-5.  \n22 中华人民共和国住房和城乡建设部，中华人民共和国国家质量监督检验检疫总局.中华人民共和国国家标准：防洪标准(GB 50201-2014).北京：中国计划出版社,2015.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Carrying Capacity of Resource and Environment of Xiongan New Area: Evaluation, Regulation, and Promotion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TheProjectGroupof\"Evaluation,RegulationandPromotionofCarringCapacityofResourceandEnvironmentofXionganNewArea （InstituteofGeographic Sciencesand NaturalResources Research,ChineseAcademyofSciences,Beijing10olo1,China） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbstractTheestablishmentof XionganNewAreaisastrategicchoiceandalongtermplaning madebytheCentral Commiteewith XiJinping asthecore.Tosupportplanningandconstructionof XionganNewArea,the project groupfromChineseAcademyof Sciences (CAS),madedfroetoralityndfuueprspiescugaatiogatdomotifci ofresourceandenvironment,asedonteemotesensingdataobtainedfromsatelieandunmaedircraft,fixedobservatiodataand historicaldocuments.Theresultsshowthat:(l)teNewAreaasanobviouslocationadvantage,richlandresources,hilethrearesome problemsvoingthsortaofwatrou,spolltioofsufacewategateoffooddsastersngacif resourceadenvironmnthasreachedtelimitofthethreecounties,tomaintainthepresentproductionmodeandlifestyle.(2)Tecrease in populationanddustralactivitiswilliposegeaterpresureosousandevioentofteearea.Wentepoulationsie touches 5 million,urban built-up areas and industrial land will be about $6 7 0 ~ \\mathrm { k m } ^ { 2 }$ and $1 3 0 ~ \\mathrm { k m } ^ { 2 }$ ,respectively,water consumption will reach 1 billion $\\mathrm { m } ^ { 3 }$ ,and the traditional agricultural ecosystem will reduced by $90 \\%$ . (3) To realize the development goal of the new area, it is necessary toncreasecaringcapacityofrsourceandeomentoughsietificregulatioandmanageentThspecificountereasuresclude: populatinsizeshouldbelessthan5milion;theareasof wetlandandforestshouldbemoderatelyontrolled;waterresourcesshouldbe suppliedbyvariouscaels;plutantdischrgesouldbeectielyanagedtoiproethealityoftolondeviotde location of construction projects should be rationally planned to improve flood control standard. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "KeywordsXionganNewArea,carringcapacityofresourceandenvironment,presureonresorceandevironment,countermeasuresof regulation and promotion ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "葛全胜中科院地理科学与资源所所长、学术委员会副主任、研究员、博士生导师。主要从事全球变化研究。先后主持中科院方向群项目、国家支撑计划项目、国家基金委重点基金、科技部“973”项目等。曾获国家自然科学奖二等奖、国家杰出青年科学基金资助。E-mail: geqs@igsnrr.ac.cn",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GeQuanshengDirectorndProfesorofstituteofGeographicciencsandNaturalResourcesResearch,ChineseAcademyofciences (CAS).Hisresearchfocusesonglobalenvironmentalchange.Hehaswonthefolowingawardsorhonors:SecondPrizeofNationalNatural Sciences (2012); Outstanding Young Scholars ofNational Natural ScienceFoundation of China.E-mail: geqs@igsnrac.cn ",
+        "page_idx": 9
+    }
+]

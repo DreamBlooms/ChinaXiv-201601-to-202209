@@ -1,0 +1,486 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201611032241 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜义亮,郑粉莉,温磊磊,沈海鸥，易祎.降雨和汇流对黑土区坡面土壤侵蚀的影响试验研究.生态学报,2017,37（24)：8207-8215.JiangY,Zsllregions.Acta Ecologica Sinica,2017,37(24）:8207-8215.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降雨和汇流对黑土区坡面土壤侵蚀的影响试验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜义亮¹，郑粉莉1,2，\\*，温磊磊³，沈海鸥³，易祎",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西北农林科技大学水土保持研究所,黄土高原土壤侵蚀与旱地农业国家重点实验室,杨凌712100  \n2中国科学院 水利部水土保持研究所，杨凌712100  \n3西北农林科技大学资源环境学院，杨凌712100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：东北黑土区上坡汇流对坡面土壤侵蚀有重要影响,因此辨析降雨和汇流对黑土区坡面土壤侵蚀的影响对农田土壤侵蚀防治有重要意义。通过设计不同降雨强度和汇流速率以及二者组合的模拟降雨及上方汇流试验,分析了降雨和汇流对黑土坡面侵蚀的影响及其贡献。试验处理包括两个降雨强度( $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ ）、两个汇流速率( $\\overline { { 5 0 \\ \\mathrm { m m / h } } }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ ，即： $1 0 ~ \\mathrm { L }$ min 和 $2 0 ~ \\mathrm { L / m i n }$ ）、以及4种不同降雨强度和汇流速率的组合( $( 5 0 + 5 0 ) \\mathrm { m m } / \\mathrm { h } , ( 5 0 + 1 0 0 ) \\mathrm { m m } / \\mathrm { h }$ （ $1 0 0 + 5 0 { \\dot { \\ } } ,$ ） $\\mathrm { { \\ m m / h } }$ 和( $1 0 0 + 1 0 0 ^ { \\cdot } ,$ $\\mathrm { { \\ m m / h } }$ )。结果表明，在 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 上方汇流引起的坡面侵蚀量仅分别是 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 降雨引起坡面侵蚀量的 $1 . 9 \\%$ 和 $0 . 6 \\%$ ;当降雨强度和坡上方汇流速率分别由 $5 0 \\ \\mathrm { m m / h }$ 增加至 $1 0 0 \\ \\mathrm { m m / h }$ 时,降雨试验处理下的坡面侵蚀量增加6.1倍,汇流试验处理下的坡面侵蚀量增加3.2倍,说明降雨对坡面土壤侵蚀的影响显著大于汇流的作用。在降雨和汇流组合试验中,总供水强度（降雨强度 $^ +$ 汇流速率)为 $1 5 0 \\ \\mathrm { m m / h }$ 时,降雨强度为 $1 0 0 \\ \\mathrm { m m / h }$ 和汇流速率为 $5 0 \\ \\mathrm { m m / h }$ 组合试验的坡面侵蚀量是降雨强度为 $5 0 \\ \\mathrm { m m / h }$ 和汇流速率为 $1 0 0 \\ \\mathrm { m m / h }$ 组合试验坡面侵蚀量的7.9倍。在相同汇流条件下,降雨强度由 $5 0 \\mathrm { m m } / \\mathrm { h }$ 增加到 $1 0 0 \\ \\mathrm { m m / h }$ 时,降雨强度的增加对坡面侵蚀量的贡献率为 $8 9 . 6 \\% - 9 9 . 5 \\%$ ;而在相同降雨条件下,坡面汇流速率由 $5 0 \\ \\mathrm { m m / h }$ 增加 $1 0 0 \\ \\mathrm { m m / h }$ 时,汇流速率的增加对坡面侵蚀量的贡献率为 $1 7 . 2 \\%$ 一 $. 7 8 . 7 \\%$ ,说明在东北黑土区防治坡面汇流对坡面土壤侵蚀影响也尤为重要。 1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：降雨;汇流；贡献率；黑土坡面；土壤侵蚀 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An experimental study on the impacts of rainfall and inflow on hillslope soil erosion in typical black soil regions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Yiliang1， ZHENG Fenli1,2)\\*，WEN Leilei³， SHEN Hai'ou³，YI Yi³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InstuteofSldteCosetiteKyLbatofSlosidDrydFingisteutt&Uei Yangling 712100,China 2InstituteofSoiland WaterConservation，ChineseAcademyofSciences&MinistryofwaterResources，Yangling7210,China 3 College of Resources and Environment，Northuest Agricultureand Forestry University，Yangling，7121o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Upsloperunoffhas a great influenceon hillslope soilerosion in typical black soil regions.However,fewattempts have been made to clearly distinguish theeffectsof rainfalland upslope runoffon the hilslopesoil erosion.Therefore, quantifying thecontributionsofrainfallandupsloperunof tothehilslopesoil erosion isimportant，which willprovidea scientificbasis topreventandcontrolthehilslopeerosion intheblack soilregions.Thisstudyused simulatedraifalland inflow experiments to investigatehowrainfalland inflowafect hilslopesoil erosionand estimated theircontributions tosoil loss ntypical black soilregions.The black soilused inthisexperiment wascolected fromtheYushucityin the Jilin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Provinceandtheexperimentwasconducted in thesimulationrainfallhallof theInstituteofSoiland Water Conservation. The set of rainfall simulator with lateral spraying nozzles , $1 6 \\mathrm { ~ m ~ }$ above the ground，were used to simulate the rainfall. An overflow tank，atached to the upper end of the soil pan，was used for supplying the inflow.The soil pan( $8 \\mathrm { ~ m ~ }$ long, $3 \\mathrm { ~ m ~ }$ （20 wide，and $0 . 5 \\mathrm { ~ m ~ d e e p }$ ）was divided into two sub-soil pans by separation of PVC sheets.The experimental design included two rainfall intensities（ $5 0 \\mathrm { m m / h }$ and $1 0 0 \\ \\mathrm { m m / h }$ ），two inflow rates（ $5 0 \\ \\mathrm { m m / h }$ and $1 0 0 \\ \\mathrm { m m / h }$ ，equal to $1 0 ~ \\mathrm { L / m i n }$ and 20 （20 $\\mathrm { L } / \\mathrm { m i n }$ ，respectively），and combinations of two rainfall intensities and two inflow rates（ $5 0 \\ \\mathrm { m m / h }$ rainfall $+ \\ 5 0 \\ \\mathrm { m m / h }$ （204号 inflow, $5 0 \\ \\mathrm { m m / h }$ rainfall $\\mathbf { + ~ 1 0 0 ~ m m / h }$ inflow, $1 0 0 \\ \\mathrm { m m / h }$ rainfall $+$ 50 mm/h inflow，100 mm/h rainfall $^ +$ 100 mm/h inflow）.All experiments were run at a $1 0 ^ { \\circ }$ slope gradient and the duration was $1 0 0 ~ \\mathrm { { \\ m i n } }$ . Each treatment had two replications.During the experiment，runoff samples were collected every 2 min with a $1 5 \\mathrm { ~ L ~ }$ bucket and the weight of the dried sediment was used to calculate the erosion rate.Results showed that soil loss caused by $5 0 \\mathrm { \\ m m / h } \\mathrm { \\ a n d \\ i 0 0 \\ m m / h }$ （20 inflow rates only occupied $1 . 9 \\%$ and $0 . 6 \\%$ of soil loss induced by $5 0 \\ \\mathrm { m m / h }$ and $1 0 0 \\ \\mathrm { m m / h }$ rainfall intensities，respectively. With increasing rainfall intensity from $5 0 \\ \\mathrm { m m / h }$ to $1 0 0 \\ \\mathrm { m m / h }$ ，the soil loss increased 6.1 times，and with increasing inflow rate from $5 0 \\ \\mathrm { m m / h }$ to $1 0 0 \\ \\mathrm { \\ m m / h }$ ，the soil loss increased 3.2 times. The results indicated that the influence of rainfall intensityonsoilloss is greaterthan thatof inflowrate.Regardingthecombinationtreatmentsofrainfallandinflow,whenthe total water supply was $1 5 0 \\ \\mathrm { m m / h }$ ，the soil loss under $1 0 0 \\ \\mathrm { m m / h }$ rainfall intensity $\\mathrm { { + ~ 5 0 ~ m m / h } }$ inflow rate was $1 1 . 5 2 ~ \\mathrm { k g }$ ， which was 7.9 times higher than that under $5 0 \\ \\mathrm { m m / h }$ rainfall intensity $+ ~ 1 0 0 ~ \\mathrm { m m }$ /h inflow rate. Under remaining $5 0 \\ \\mathrm { m m / h }$ （204号 inflow rate or under $1 0 0 \\ \\mathrm { m m / h }$ inflow rate，when the rainfall intensity changed from $5 0 \\ \\mathrm { m m / h }$ to $1 0 0 \\ \\mathrm { m m / h }$ ，the increased rainfall intensity contributed to $8 9 . 6 \\% - 9 9 . 5 \\%$ of the soil loss. At keeping $5 0 \\ \\mathrm { { m m } / h }$ rainfall intensity or under $1 0 0 \\ \\mathrm { m m / h }$ （20 rainfall intensity，when the inflow rate varied from $5 0 \\ \\mathrm { \\ m m / h }$ to $1 0 0 ~ \\mathrm { \\frac { \\ d } { \\ m m / h } }$ ，the increased inflow rate contributed to $1 7 . 2 \\% - 7 8 . 7 \\%$ of the soil loss.These results indicate that controlling the upslope runoff is also an important way for reducing the hillslope soil erosion in typical black soil regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:rainfall；upslope inflow；contribution rate；black soil hillslope； soil erosion",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据《中国水土流失防治与生态安全》调查显示,土壤侵蚀造成表层黑土每年以0.3— $\\cdot 1 . 0 \\ \\mathrm { c m }$ 的速度递减,平均土层厚度已由 20 世纪50年代的 $6 0 { - } 7 0 ~ \\mathrm { c m }$ 下降至目前的2 $\\mathrm { : 0 - 3 0 ~ c m ^ { [ 1 - 2 ] } }$ 。黑土区坡面土壤侵蚀导致土壤严重退化,从而使土地生产力降低,制约了黑土资源的可持续利用,影响了国家的粮食安全[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于土壤抗蚀性的差异和坡面汇流作用的影响,导致不同环境条件下雨滴打击和径流搬运作用对坡面土壤侵蚀的影响有所不同[4]。Walker等发现,降雨侵蚀下坡面的产沙速率是同等径流大小下坡面产沙速率的 5倍左右[5],郑粉莉等基于双试验的模拟降雨试验对比研究了降雨侵蚀和径流侵蚀作用,发现在相同的坡度和径流量条件下,降雨侵蚀的产沙量大于供水径流侵蚀的产沙量[67]。还有学者发现降雨和径流在侵蚀过程中是相互辅佐或相互制约的[8-9]。Guy 等发现扰动水流的泥沙输移能力中雨滴打击作用的贡献为 $8 5 \\%$ ,而径流贡献仅为 $1 5 \\% ^ { \\left[ 1 0 \\right] }$ ;Palmer 等发现当径流水深大于雨滴直径3倍以上时,雨滴击溅对土壤侵蚀的作用明显减少[I-13]。尽管降雨和径流对坡面侵蚀的影响及其贡献研究取得了一定的进展,但由于试验条件和侵蚀过程的复杂性，目前仍很难区分降雨和径流对坡面侵蚀过程的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在我国东北黑土区,由于长缓坡的地形特点,决定了在降雨量和降雨强度较大时易形成较大的坡面汇流，且其对坡面土壤进行集中冲刷[1417],造成坡面侵蚀严重;而目前有关黑土区降雨和径流在坡面侵蚀的作用研究仍鲜见报导。因此,迫切需要开展降雨和汇流共同作用对黑土坡面土壤侵蚀的影响,以期为坡面侵蚀防治提供理论指导。为此,本研究基于模拟降雨和上方汇流试验,设计了不同降雨强度和汇流速率以及二者组合的试验处理,研究降雨和汇流对黑土坡面土壤侵蚀的影响,并分析降雨和汇流对坡面侵蚀的贡献,以期为黑土区农田土壤侵蚀防治措施的布设提供理论支持和科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验土壤采自吉林省榆树市刘家镇合心村南城子屯， $\\langle 4 4 ^ { \\circ } 4 3 ^ { \\prime } 2 8 ^ { \\prime \\prime } \\mathrm { N } , 1 2 6 ^ { \\circ } 1 1 ^ { \\prime } 4 7 ^ { \\prime \\prime } \\mathrm { E } \\rangle$ 的 $0 { - } 2 0 ~ \\mathrm { c m }$ 耕层土壤,耕层土壤容重(环刀法)在 $1 . 1 5 ~ \\mathrm { g / c m } ^ { 3 }$ 左右。吉林省榆树市属于典型黑土区,土壤为研究区内典型黑土,具有较好的代表性。试验土壤颗粒分级划分标准采用美国农业部制,土壤质地属于粉壤土,粘粒（小于 $0 . 0 0 2 ~ \\mathrm { m m } \\dot { }$ 含量 $2 0 . 3 \\%$ ,粉粒（0.002- $0 . 0 5 \\ \\mathrm { m m }$ )含量 $7 6 . 4 \\%$ ,砂粒( $0 . 0 5 \\ \\mathrm { m m }$ 及以上)含量 $3 . 3 \\%$ ,有机质含量（重铬酸钾氧化一外加热法)约 $2 3 . 8 ~ \\mathrm { g / k g , p H }$ 值(水浸提法,水土比2.5:1)为5.9左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验装置与设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于 2014年4月在黄土高原土壤侵蚀与旱地农业国家重点实验室人工模拟降雨大厅进行。试验所用的降雨设备为侧喷式自动模拟降雨系统[18],降雨高度为 $1 6 \\mathrm { ~ m ~ }$ ,模拟降雨强度变化范围为 $2 0 { - } 3 0 0 \\ \\mathrm { m m / h }$ ,降雨特性与天然降雨特性相似,降雨均匀度大于 $9 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验土槽规格为 $8 \\mathrm { ~ m ~ }$ （长） $\\times 3 \\mathrm { ~ m ~ }$ （宽） $\\times \\ 0 . 6 \\mathrm { ~ m ~ }$ （深），试验时中间用PVC 板分隔为两个 $\\mathrm { 8 } \\ \\mathrm { m } { \\times } 1 . 5 \\ \\mathrm { m }$ 的试验土槽用于重复试验。试验土槽底部每隔 $0 . 2 { \\mathrm { ~ m ~ } }$ （长)和 $0 . 5 \\mathrm { ~ m ~ }$ (宽)设置直径为5cm的排水口以保证试验土槽在试验过程排水良好。试验土槽填土时,用纱布填充排水口后,在土槽底部铺设 $1 0 ~ \\mathrm { { c m } }$ 的细沙保证试验土槽透水良好。为了模拟农耕地田间条件(耕层和犁底层)和保证填土的均匀性,在试验土槽填土时,细沙之上采用分层（每层 $5 ~ \\mathrm { c m }$ )填土填充试验土槽,其中,细沙层以上按容重为 $1 . 3 5 ~ \\mathrm { g / c m } ^ { 3 }$ 填充 $1 0 \\ \\mathrm { c m }$ 的粘黄土和 $1 0 \\ \\mathrm { c m }$ 的黑土模拟农耕地犁底层,其上按容重为 $1 . 2 0 ~ \\mathrm { g / c m } ^ { 3 }$ 填充 $2 0 \\mathrm { { c m } }$ 的黑土模拟农耕地耕层。另外,每层土填充结束后，用 $2 \\ \\mathrm { c m }$ 深的土耙将表面耙磨形成一定的粗糙度使上层和下层形成很好的粘接。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上方汇流试验装置是由供水管、恒压箱和稳流槽三部分组成。首先通过供水系统使水流进人恒压箱以保持稳定的供水水压，多余的供水量通过溢流管再回到供水系统;其次通过供水阀调节所设计的汇水流量并将其汇入到试验土槽顶部的稳流槽内；最后通过稳流槽使供水量变为相对均匀的水流流向坡面，以此模拟坡面上方汇流对坡面下方土壤侵蚀的影响。上方汇流试验装置的供水流量范围为 $0 {  } 3 0 ~ \\mathrm { L / m i n }$ ,其大小可通过供水阀门进行调节（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过调查发现,在我国东北黑土区，主要降雨类型为短历时高强度降雨,其降雨历时大多小于 $1 \\ \\mathrm { h } ^ { [ 2 , 1 9 ] }$ ,频次较高的瞬时雨强为 $0 . 7 1 \\mathrm { \\ m m / m i n } ^ { \\left[ 2 0 \\right] }$ ;另外,该区地形特点是长缓坡,坡度变化于 $3 ^ { \\circ } - 1 0 ^ { \\circ [ 2 1 ] }$ 。为此,本试验设计 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ （分别为 $0 . 8 3 \\mathrm { \\ m m / m i n }$ 和1.67 mm/min)两个降雨强度[22],坡度为 $1 0 ^ { \\circ }$ ,降雨和汇流试验历时均为 $1 0 0 ~ \\mathrm { { m i n } }$ 。本研究试验处理重复2次,为保证重复试验条件的一致性,被分隔为2个试验土槽则是一次降雨(汇流、降雨和汇流)试验处理下的2次重复。同时,为了比较同等强度下降雨和汇流对黑土坡面土壤侵蚀的影响,基于两个降雨强度的设计对应设计了两个上方汇流速率,即 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m } \\ \\mathrm { h }$ 的汇流速率( $1 0 ~ \\mathrm { L / m i n }$ 和 $2 0 ~ \\mathrm { L / m i n }$ ）。根据降雨强度和汇流速率的不同组合，设计了4种不同降雨和汇流组合的试验条件。具体的试验设计见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce4376057270849e6029981d7549d6e0bf4183022333b60800179f2ee9dfca47.jpg",
+        "img_caption": [
+            "图1试验装置",
+            "Fig.1Experimental devices "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验步骤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验开始前，为保持下垫面前期土壤含水量一致，采用 $2 5 \\ \\mathrm { m m / h }$ 降雨强度进行预降雨，直至坡面出现径流流路且集流口有连续水流出现。预降雨结束后,用塑料布将试验土槽遮盖好,静置 $2 4 \\mathrm { ~ h ~ }$ ,使水分自由下渗接近自然状态的土壤水分分布状况,以保证每次降雨试验时试验土槽的土壤水分状况一致。试验所测定的土壤水分数据也表明,各次试验前土槽0— $2 0 ~ \\mathrm { c m }$ 表层的土壤含水量基本一致,其变化在 $2 8 . 6 \\% - 2 9 . 7 \\%$ 。为确保降雨强度和汇流速率的准确度,每次正式试验前对设计的降雨强度和汇流速率进行率定,当实测降雨强度或汇流速率与设计的目标降雨强度或汇流速率的差值小于 $5 . 0 \\%$ 时,方可进行试验。试验过程中，当坡面产流后，在试验土槽集流口处用 $1 5 \\mathrm { ~ L ~ }$ 塑料桶每隔 $2 ~ \\mathrm { m i n }$ 采集径流泥沙样，并用染色剂法测定试验土槽坡面流速。试验结束后，将所采集的全部径流样称重、静置 $2 4 \\mathrm { ~ h ~ }$ 、倒掉上层清液,然后转移到 $1 0 0 0 ~ \\mathrm { { m L } }$ 铝盒中,放入 $1 0 5 \\mathrm { ^ \\circ C }$ 烘箱烘干称重并计算泥沙量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/781de1c5270432314fdac66678bf2320e017c44bd26673eb7040351303ace742.jpg",
+        "table_caption": [
+            "表1试验设计",
+            "Table1 Experimental design "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>试验条件 Experimental condition</td><td>试验处理 Treatments</td><td>Tot总供水强pply/</td><td>Raifaliensty</td><td>汇流速率</td></tr><tr><td>1</td><td>降雨</td><td>R50</td><td>(mm/h) 50</td><td>(mm/h) 50</td><td>(mm/h) 0</td></tr><tr><td>2</td><td></td><td>R100</td><td>100</td><td>100</td><td>0</td></tr><tr><td>3</td><td>汇流</td><td>150</td><td>50</td><td>0</td><td>50（即:10 L/min)</td></tr><tr><td>4</td><td></td><td>100</td><td>100</td><td>0</td><td>100（即:20L/min)</td></tr><tr><td>5</td><td>降雨+汇流</td><td>R50150</td><td>100</td><td>50</td><td>50（即：10L/min)</td></tr><tr><td>6</td><td></td><td>R50100</td><td>150</td><td>50</td><td>100(即:20 L/min)</td></tr><tr><td>7</td><td></td><td>R100150</td><td>150</td><td>100</td><td>50（即：10 L/min)</td></tr><tr><td>8</td><td></td><td>R100100</td><td>200</td><td>100</td><td>100(即:20 L/min)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { R } _ { 5 0 }$ ：降雨强度 $5 0 \\ \\mathrm { m m / h }$ ,Rainfall intensity $5 0 \\ \\mathrm { m m / h }$ ： $\\mathrm { \\bf R } _ { 1 0 0 }$ ：降雨强度 $1 0 0 \\ \\mathrm { m m / h }$ , Rainfall intensity $1 0 0 ~ \\mathrm { { m m / h } }$ $\\mathrm { I } _ { 5 0 }$ ：汇流速率 $5 0 \\ \\mathrm { m m / h }$ ,inflow rate $5 0 \\ \\mathrm { m m / h }$ $\\mathrm { \\Delta I _ { 1 0 0 } }$ ：汇流速率 $1 0 0 ~ \\mathrm { { m m / h } }$ ,inflow rate $1 0 0 ~ \\mathrm { { m m / h } }$ $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ ：降雨强度 $5 0 \\ \\mathrm { m m / h ^ { + } }$ 汇流速率 $5 0 \\ \\mathrm { m m / h }$ ,rainfall intensity $5 0 \\ \\mathrm { m m / h }$ （204号 $^ +$ inflowrate 50 $\\mathrm { { \\ m m / h } }$ $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ ：降雨强度 $5 0 \\ \\mathrm { m m / h } +$ 汇流速率 $1 0 0 \\ \\mathrm { m m / h }$ ,rainfall intensity $5 0 \\ \\mathrm { { m m } \\mathrm { { \\acute { h } } } }$ +inflow rate $1 0 0 \\ \\mathrm { m m / h }$ $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ ：降雨强度 $1 0 0 \\ \\mathrm { m m / h } +$ 汇流速率 $5 0 \\ \\mathrm { m m / h }$ ,rainfall intensity $1 0 0 \\ \\mathrm { m m / h }$ +inflow rate $5 0 \\ \\mathrm { m m / h }$ $\\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 1 0 0 }$ ：降雨强度 $1 0 0 \\ \\mathrm { m m / h ^ { + } }$ 汇流速率 $1 0 0 \\ \\mathrm { m m / h }$ ,rainfall intensity $1 0 0 \\ \\mathrm { m m / h }$ $^ +$ inflow rate $1 0 0 \\ \\mathrm { m m / h }$ （204号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用Excel 2003和 SPSS13.0进行数据处理与分析,并绘制图表。采用Duncan 法进行多重比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1降雨和汇流对黑土区坡面土壤侵蚀的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1降雨和汇流对黑土区坡面侵蚀产沙量的对比",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2表明,当降雨强度和坡面上方汇流速率均为 $5 0 \\ \\mathrm { m m / h }$ 时 $5 0 \\ \\mathrm { m m / h }$ 的汇流速率即为 $1 0 ~ \\mathrm { L / m i n }$ ），二者坡面产生的径流量差异不显著,而坡面侵蚀量和径流含沙浓度则表现出显著差异,其中汇流试验条件下坡面侵蚀量和径流含沙浓度仅分别是对应降雨强度试验下的 $1 . 9 \\%$ 和 $2 . 6 \\%$ ;当降雨强度和坡面上方汇流速率均为$1 0 0 { , } \\mathrm { m m } { \\ddot { / \\mathrm { h } } }$ 时 $1 0 \\mathrm { { 0 } \\ m m / h }$ 的汇流速率即为 $2 0 ~ \\mathrm { L / m i n } ,$ ),二者坡面产生的径流量、侵蚀量和径流含沙浓度也表现出显著性差异,其中汇流试验条件下的径流量、侵蚀量和径流含沙浓度分别为降雨试验条件下的 $8 0 . 1 \\% . 0 . 6 \\%$ 和 $0 . 9 \\%$ 。当降雨强度和坡面上方汇流速率由 $5 0 \\ \\mathrm { m m / h }$ 增加至 $1 0 0 \\ \\mathrm { m m / h }$ 时,降雨试验处理的侵蚀量增加6.1倍,汇流试验处理的侵蚀量增加3.2倍。此结论说明降雨对坡面土壤侵蚀产沙的影响显著大于汇流作用。其主要原因为本文试验土壤为富含有机质的东北黑土,由于黑土土壤团聚含量和粘粒含量较高[23」,所以汇流对黑土土壤团粒结构的破坏和搬运能力较弱[24],远小于汇流对黄土坡面土壤侵蚀的影响[25]。而在降雨过程中,雨滴打击土壤时的快速湿润(气爆作用)不仅破坏土壤的团粒结构,同时还增加径流紊动性,使径流分散和搬运土壤的能力增强[26]。安娟等研究表明通过纱网覆盖消除雨滴打击后,黑土区坡面侵蚀量能够减少$7 5 \\%$ 以上[27],同样说明了降雨是引起黑土区坡耕地土壤侵蚀的主要动力,且消除雨滴打击后的径流对黑土坡耕地土壤侵蚀的影响降低。因此,为了有效地防治降雨对黑土坡耕地的土壤侵蚀，可通过秸秆覆盖等方式来",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "减少雨滴打击力,防止坡面土壤侵蚀[28] ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/78facaa92015cb12a5ec4dacfed1c1d79616bc0ddcd77ab4a996376df89e9def.jpg",
+        "table_caption": [
+            "表2不同降雨和汇流试验条件下坡面径流量、侵蚀量和径流含沙浓度",
+            "Table2Runoff,soil loss and sediment concentration at different rainfall or inflow treatments "
+        ],
+        "table_footnote": [
+            "总降雨历时为 $1 0 0 ~ \\mathrm { { m i n } }$ ，表中“ $\\pm$ ”后的数字为标准偏差，同一列中的不同字母表示 $\\scriptstyle P < 0 . 0 5$ 的差异性显著， $n = 8$ "
+        ],
+        "table_body": "<html><body><table><tr><td>试验处理 Experimental treatment</td><td>降雨强度/汇流速率 Rainfall intensity or inflow rate/(mm/h)</td><td>径流量 Runoff/L</td><td>侵蚀量 Soil loss/kg</td><td>含沙浓度 Sediment concentration/(g/L)</td></tr><tr><td>降雨强度</td><td>50</td><td>578.4±67.2c</td><td>0.77±0.06b</td><td>1.33±0.28b</td></tr><tr><td>Rainfall intensity</td><td>100</td><td>1371.6±302.4a</td><td>5.45±1.60a</td><td>3.97±0.74a</td></tr><tr><td>汇流速率</td><td>50（即：10L/min）</td><td>536.4±32.4c</td><td>0.01±0.00c</td><td>0.03±0.00c</td></tr><tr><td>Inflow rate</td><td>100(即:20 L/min)</td><td>1098.0±277.2b</td><td>0.03±0.01c</td><td>0.03±0.01c</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2降雨对黑土区坡面土壤侵蚀过程的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在降雨强度为 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 时,坡面产流时间分别在 $2 2 ~ \\mathrm { m i n }$ 和 $1 2 ~ \\mathrm { m i n ^ { \\prime } }$ 左右(图2),坡面径流产生后， $1 0 0 \\ \\mathrm { m m / h }$ 降雨强度下的侵蚀速率明显大于 $5 0 \\ \\mathrm { m m / h }$ 降雨强度下的侵蚀速率，两种降雨强度下的侵蚀速率随降雨历时的变化均先迅速增加后趋于稳定,最后呈波状起伏。造成这种现象的主要原因是侵蚀方式发生了变化。在降雨初期,雨滴击溅作用产生大量分散土粒并随降雨形成的薄层水流搬运,形成坡面侵蚀的第一个高峰( $\\mathrm { 5 0 ~ m m / h }$ 降雨强度出现在 $2 7 ~ \\mathrm { m i n }$ 左右； $1 0 0 \\ \\mathrm { m m / h }$ 降雨强度出现在 $ { \\mathrm { 1 4 } }  { }  { \\mathrm { m i n } }$ 左右）,随后由于坡面临时性结皮形成,使薄层水流的侵蚀能力减弱,导致此时坡面侵蚀速率下降并趋于稳定;此时,坡面侵蚀方式主要为片蚀。随着降雨历时增加,坡面因雨滴打击变得凹凸不平,坡面薄层水流逐步汇聚形成集中的股流,使坡面多处形成细沟下切沟头,坡面侵蚀出现第二个高峰( $5 0 \\ \\mathrm { m m / h }$ 降雨强度出现在 $4 3 ~ \\mathrm { m i n }$ 左右; $1 0 0 \\ \\mathrm { m m / h }$ 降雨强度出现在 $3 7 ~ \\mathrm { m i n }$ 左右）。细沟侵蚀发展的快慢影响着侵蚀速率的增加和降低,侵蚀速率随时间呈波状起伏变化,此时坡面由片蚀进入到细沟侵蚀为主阶段。黑土区坡面侵蚀的过程与郑粉莉对黄土坡面侵蚀过程的研究结果一致[29]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3汇流对黑土区坡面土壤侵蚀过程的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在汇流速率为 $5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 的条件下,坡面产流时间分别在 $2 4 ~ \\mathrm { m i n }$ 和 $1 7 ~ \\mathrm { m i n }$ 左右(图3)。坡面产流后,侵蚀速率随汇流历时的增加均呈迅速减小后趋于稳定,随后趋于稳定和变化于1一 $\\cdot 4 \\mathrm { ~ g ~ m ~ } ^ { - 2 } \\mathrm { h } ^ { - 1 }$ 之间。其原因是在汇流初期,由于土壤表面疏松,汇流对土壤进行分散、分离及输移的作用,侵蚀速率达到最大。此后,随着汇流试验的进行,土壤表面的破碎物质堵塞土壤孔隙,形成临时性的土壤结皮,使汇流作用的侵蚀能力减弱,所以坡面侵蚀速率维持在较低的范围内并逐渐趋于稳定,且坡面侵蚀方式以片蚀为主[30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4209b3ab8aa9d644007a91c98be64485f5c44c0dc0562db8dda7409760e0448.jpg",
+        "img_caption": [
+            "图2 $\\mathbf { 5 0 \\ m m } / \\mathbf { h }$ 和 $\\mathbf { 1 0 0 \\ m m / h }$ 降雨强度下侵蚀速率随降雨历时的 变化过程 Fig.2Erosion rate versus rainfall duration at rainfall intensities of $\\mathbf { 5 0 \\ m m } / \\mathbf { h }$ and $\\mathbf { 1 0 0 \\ m m / h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13539419cc40caf1c3e606bf1bd18b82d1b79cf772fed9a7b5a3fb1c7a5413bb.jpg",
+        "img_caption": [
+            "图3 $\\mathbf { 5 0 \\ m m } / \\mathbf { h }$ 和 $\\mathbf { 1 0 0 \\ m m / h }$ 汇流速率下侵蚀速率随汇流历时的 变化过程 Fig.3Erosion rate versus inflow duration at inflow rate of 50 $\\mathbf { m m } / \\mathbf { h }$ and $\\mathbf { 1 0 0 \\ m m / h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2降雨和汇流共同作用对黑土区坡面土壤侵蚀的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同降雨强度和汇流速率组合试验下的坡面侵蚀产沙量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对比 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ 和 $\\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 1 0 0 }$ 可知(表3)：当降雨强度和坡面上方汇流速率分别由 $5 0 \\ \\mathrm { m m / h }$ 增加至 $1 0 0 ~ \\mathrm { m m }$ h 时,坡面径流量仅增加1.5倍,而坡面侵蚀量和径流含沙浓度分别增加44.5倍和17.0倍,说明在雨滴打击作用和汇流冲刷作用共同影响下,坡面侵蚀量明显增加。通过比较相同总供水强度（降雨强度 $^ +$ 汇流速率)而降雨强度和汇流速率不同的处理下的侵蚀产沙量，来探究雨滴打击作用和汇流冲刷作用对黑土区坡面土壤侵蚀的影响大小。在坡面总供水强度（降雨强度 $^ +$ 汇流速率)均为 $1 5 0 \\ \\mathrm { m m / h }$ 的两组试验处理 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 和 $\\mathrm { R } _ { 1 0 0 } \\mathrm { R } _ { 5 0 }$ 中，发现二者坡面径流量、侵蚀量和含沙浓度均表现出显著性差异,其中 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 试验处理下的径流量、侵蚀量和含沙浓度分别是 $\\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 5 0 }$ 试验处理条件下的 $8 1 . 2 \\%$ 、 $1 2 . 6 \\%$ 和 $1 6 . 2 \\%$ 。对于坡面总供水强度为均为 $\\boldsymbol { 1 0 0 } \\ \\mathrm { m m / h }$ （ $\\mathrm { R } _ { 5 0 }$ （20 $\\mathrm { I } _ { 5 0 } \\setminus \\mathrm { R } _ { 1 0 0 }$ 和 $\\mathrm { \\Delta I _ { 1 0 0 } }$ )的3组试验处理(表2和表3),发现 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ 和 $\\mathrm { \\bf R } _ { 1 0 0 }$ 的两组试验处理的坡面径流量基本相同,但二者大于 $\\mathrm { \\Delta I _ { 1 0 0 } }$ 试验处理下的径流量;而3组试验处理的坡面侵蚀量差异明显,其中， $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ ） $\\mathrm { R } _ { 1 0 0 } ^ { \\left( \\mathrm { ~  ~ } }\\right.$ 试验处理的坡面侵蚀量是 $\\mathrm { \\Delta I _ { 1 0 0 } }$ 试验处理的40.0倍和181.7倍,含沙浓度是其28.3倍和132.2倍。说明坡面上方汇流也对黑土区坡面土壤侵蚀有影响,但其和雨滴打击共同作用时,坡面上方汇流作用小于雨滴打击作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/47022d595b1945f1ebaefe60fbdcded65da532b57e93779c10b12f9b02c928be.jpg",
+        "table_caption": [
+            "表3不同降雨和汇流组合试验条件下总径流量、总侵蚀量和含沙浓度的对比 ",
+            "Table 3Total runoff，soil lossand sediment concentration by diffrent rainfall and inflow treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验处理 Treatments</td><td>总供水强度 Total water/ (mm/h)</td><td>隆强a度 intensity/</td><td>汇流速率 径流量 Inflow rate/ Runoff/L (mm/h)</td><td>侵蚀量 Soil loss/kg</td><td>含沙浓度 concentration/</td></tr><tr><td>R50150</td><td>100</td><td>(mm/h) 50</td><td>50 1405.2±36.0d</td><td>1.20±0.10c</td><td>(g/L) 0.85±0.11c</td></tr><tr><td>R50100</td><td>150</td><td>50</td><td>100 2074.8±156.0c</td><td>1.45±0.54c</td><td>0.70±0.08c</td></tr><tr><td>R100150</td><td>150</td><td>100</td><td>50 2528.4±126.0b</td><td>11.52±4.04b</td><td>4.56±1.18b</td></tr><tr><td>R100100</td><td>200</td><td>100</td><td>1 100 D 3542.4±230.4a</td><td>54.19±9.61a</td><td>15.30±4.56a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2降雨和汇流共同作用对黑土区坡面土壤侵蚀过程的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "降雨和汇流组合 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ 和 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 试验处理的产流时间分别在 $1 6 ~ \\mathrm { m i n }$ 和 $1 3 ~ \\mathrm { m i n }$ 左右(图4)。坡面产流后，坡面侵蚀速率随降雨历时增加均呈迅速减小后趋于稳定,其中 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 的侵蚀速率明显大于 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 5 0 }$ 试验处理。与图2降雨强度为 $5 0 \\ \\mathrm { m m / h }$ 的侵蚀速率变化相比,上方汇流加入后,坡面主要以片蚀方式为主,其侵蚀过程与图3相似。通过比较试验处理 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 与图3中汇流速率为 $1 0 0 \\ \\mathrm { m m / h }$ 的侵蚀速率变化过程,发现雨滴打击作用,使坡面汇流的紊动性增强，从而增大了汇流对土壤剥蚀能力，导致 $\\mathrm { R } _ { 5 0 } \\mathrm { I } _ { 1 0 0 }$ 的侵蚀速率明显大于 $\\mathrm { \\Delta I _ { 1 0 0 } }$ 汇流试验的侵蚀速率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 5 0 }$ 和 $\\mathrm { R } _ { 1 0 0 } \\mathrm { \\overline { { I } } } _ { 1 0 0 }$ 试验处理下的产流时间分别在 $9 ~ \\mathrm { m i n }$ 和 $6 ~ \\mathrm { m i n }$ 左右(图4)。坡面产流后,两个试验处理的侵蚀速率随降雨历时的增加均呈波状起伏变化。与图2中降雨强度为 $1 0 0 \\ \\mathrm { m m / h }$ 的侵蚀速率变化过程相比较,坡上方汇流的加入,导致坡面侵蚀方式以细沟侵蚀主,说明在该试验条件下,坡面不仅受到雨滴击溅分散土壤颗粒的作用,还受到汇流对分散土壤的输移作用,从而使坡面侵蚀速率急剧增加。试验处理 $\\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 5 0 }$ 与$\\overline { { \\mathrm { R } _ { 1 0 0 } \\mathrm { I } _ { 1 0 0 } } }$ 相比,汇流速率的增加还会加速细沟侵蚀发展[31]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明,雨滴打击作用和坡面汇流冲刷作用对坡面土壤侵蚀的影响相互作用,有必要剖析二者对坡面土壤侵蚀的作用贡献。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3降雨和汇流对黑土区坡面土壤侵蚀影响的贡献分析降雨强度增加对黑土区坡面径流和侵蚀的贡献率可用下式计算：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { R I } } = { \\frac { R _ { \\mathrm { R 2 } } - R _ { \\mathrm { R 1 } } } { R _ { \\mathrm { R 2 } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { \\mathrm { R I } }$ 为增加的降雨强度对坡面径流量的贡献率， $R _ { \\mathrm { R 1 } }$ 和 $R _ { \\mathrm { R } 2 }$ 分别为汇流速率相同而降雨强度分别为0、50、",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5841505a6e67da7a23433de43068e3870da689b4ee6b5575146aa176dbea3056.jpg",
+        "img_caption": [
+            "图4不同降雨和汇流组合试验条件下侵蚀速率随降雨历时的变化过程",
+            "Fig.4Erosion rate versus rainfall duration by different rainfall and inflow treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 \\ \\mathrm { m m / h }$ 时的坡面径流量。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { _ { \\mathrm { R I } } } = { \\frac { S _ { _ { \\mathrm { R 2 } } } - S _ { _ { \\mathrm { R 1 } } } } { S _ { _ { \\mathrm { R 2 } } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $E _ { \\mathrm { { R I } } }$ 为增加的降雨强度对坡面侵蚀量的贡献率， $S _ { \\mathrm { { R 1 } } }$ 和 $S _ { \\mathrm { R 2 } }$ 分别为汇流速率相同而降雨强度分别为 $0 \\mathrm { m m } /$ $\\mathrm { h } \\ : { , } 5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 时的坡面侵蚀量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "汇流强度增加对黑土区坡面径流和侵蚀的贡献率可用下式计算：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { _ { \\mathrm { I W } } } = { \\frac { R _ { _ { \\mathrm { I 2 } } } - R _ { _ { \\mathrm { I 2 } } } } { R _ { _ { \\mathrm { I 2 } } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { \\mathrm { I W } }$ 为增加的汇流速率对坡面径流量的贡献率， $R _ { \\mathrm { I 1 } }$ 和 $\\overline { { R } } _ { 1 2 }$ 分别为降雨量相同而汇流速率分别为 $0 \\ \\mathrm { m m / h }$ 、$5 0 \\ \\mathrm { m m / h }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 时的坡面径流量。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boxed { E _ { \\scriptscriptstyle { \\mathrm { I W } } } = \\frac { S _ { \\scriptscriptstyle { \\mathrm { I 2 } } } - S _ { \\scriptscriptstyle { \\mathrm { I 1 } } } } { S _ { \\scriptscriptstyle { \\mathrm { I 2 } } } } \\times 1 0 0 \\% }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $E _ { \\mathrm { I W } }$ 为增加的汇流速率对坡面侵蚀量的贡献率， $S _ { \\mathrm { { I 1 } } }$ 和 $S _ { 1 2 }$ 为汇流速率相同而降雨强度分别为 $0 \\ \\mathrm { m m / h } \\ . 5 0$ $\\mathrm { { \\ m m / h } }$ 和 $1 0 0 \\ \\mathrm { m m / h }$ 时的坡面侵蚀流量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1降雨对黑土区坡面侵蚀产沙的贡献分析",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "比较表4中编号为1—4的4组试验处理可发现在汇流速率保持不变时,增加 $5 0 \\ \\mathrm { m m \\ h ^ { - 1 } }$ 的降雨强度后，降雨对坡面径流量和侵蚀量的贡献率分别在 $4 1 . 4 4 \\% - 5 8 . 6 5 \\%$ 和 $8 9 . 5 8 \\% - 9 9 . 5 0 \\%$ ;同理,比较5一6两组试验处理,在汇流速率保持不变时，增加 $1 0 0 \\ \\mathrm { m m / h }$ 的降雨强度后，降雨对坡面径流量和侵蚀量的贡献率分别平均为 $7 3 . 9 0 \\%$ 和 $9 9 . 9 \\%$ ;说明降雨强度的增加对坡面侵蚀量的贡献显著。这主要是因为在增加降雨强度后,雨滴动能增加,其对土壤颗粒的分散与输移作用增强。除了雨滴击溅的作用之外,降雨强度的增加使坡面薄层径流的紊动性增强,从而加大了汇流对土壤颗粒间的扰动与摩擦,进而使分散的土壤颗粒更容易被汇流冲刷流失,最后致其对侵蚀量贡献率明显;更重要的是降雨强度的增加使坡面侵蚀方式由片蚀为主演变为细沟侵蚀为主,从而使坡面侵蚀量显著增加。试验中测定的坡面流速数据表明,增加 $5 0 \\ \\mathrm { m m / h }$ 降雨强度后,坡面水流流速增加了 $4 6 . 9 4 \\% - 4 8 . 1 3 \\%$ ;增加 $1 0 0 \\ \\mathrm { m m / h }$ 降雨强度后，坡面水流流速增加了 $7 2 . 4 0 \\%$ 左右。由泥沙动力学理论知,径流的挟沙能力与流速的立方成正比,因而增加降雨强度后坡面水流流速增大,导致坡面径流冲刷力增强,坡面侵蚀产沙量增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2汇流对黑土区坡面土壤侵蚀的贡献分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "比较表5中编号为1—4的4组试验处理可发现,在降雨强度保持不变时,增加 $5 0 \\ \\mathrm { m m / h }$ 的汇流速率后，汇流对坡面径流量和侵蚀量的贡献率分别在 $2 8 . 6 4 \\%$ 一 ${ . 5 8 . 8 1 \\% }$ 和 $1 7 . 2 4 \\%$ 一 $7 8 . 7 4 \\%$ ;同理,比较5一6两组试验处理,在降雨强度保持不变时,增加 $1 0 0 \\ \\mathrm { m m / h }$ 的汇流速率后,汇流对坡面径流量和侵蚀量的贡献率分别在$6 1 . 2 8 \\% - 7 2 . 1 2 \\%$ 和 $4 6 . 9 0 \\% - 8 9 . 9 4 \\%$ ;说明汇流速率的增加对侵蚀量的贡献也比较明显。这是因为上坡汇流是坡面不同侵蚀部位之间水流能量传递的媒介,其大小不仅对下坡的入渗和径流速率产生影响,也使坡面侵蚀方式由片蚀为主演变为以细沟侵蚀为主,从而使坡面径流侵蚀和搬运能力增加,导致坡面侵蚀量明显增加。试验中测定的坡面水流流速表明,增加 $5 0 \\ \\mathrm { m m / h }$ 汇流速率后,坡面水流流速增加了 $1 0 . 5 5 \\% - 1 9 . 8 4 \\%$ ;增加$1 0 0 \\ \\mathrm { m m / h }$ 汇流速率后,坡面水流流速增加了 $2 8 . 2 1 \\%$ 左右。与降雨对土壤侵蚀贡献一样,增加汇流速率后，坡面水流流速增大,导致坡面径流冲刷力增强,坡面侵蚀产沙量增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb0ddba62531184cfe348dc0d78a241305e99fd004ad938f65d1b1336605c037.jpg",
+        "table_caption": [
+            "Table 4Contribution rates of the rainfall to runoff and soil loss ",
+            "表5汇流对黑土坡面径流和侵蚀的贡献率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>Tablc? 试验处理 Variation of</td><td>Cohltrhouton 增加降雨强度 Increased rainfall</td><td>径流贡献率(RRI) Contribution to runoff/%</td><td>SOIrTOSs 侵蚀贡献率(ERI) 侵蚀方式 Contribution to Erosion patterns</td></tr><tr><td>1</td><td>experiment treatments</td><td>intensities/(mm/h) 50</td><td>51.15</td><td>soil loss/% 99.50 片蚀</td></tr><tr><td>2</td><td>100 R50100</td><td>50</td><td>47.07</td><td>97.93 片蚀</td></tr><tr><td>3</td><td>R0</td><td>50</td><td>58.65</td><td>89.58 片蚀+细沟侵蚀</td></tr><tr><td>4</td><td>R10</td><td>50</td><td>41.44</td><td>97.32 片蚀+细沟侵蚀</td></tr><tr><td>5</td><td>150 R100150</td><td>100</td><td>78.79</td><td>99.95 片蚀+细沟侵蚀</td></tr><tr><td>6</td><td>RI</td><td>100</td><td>69.00</td><td>99.95 片蚀+细沟侵蚀</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/52cca3115d00e2ba8bcdf8ae853d88f2b09633a14cf4c975df38f3ccb3dc1224.jpg",
+        "table_caption": [
+            "表4降雨对黑土坡面径流和侵蚀的贡献率",
+            "Table 5Contribution rates of the inflow to runoff and soil loss "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>试验处理 Variation of experiment treatments</td><td>增加汇流速率 inflow rates/ (mm/h)</td><td>径流贡献率（Riw） Contribution to runoff/%</td><td>侵蚀贡献率(Erw) Contribution to soil loss/%</td><td>侵蚀方式 Erosion patterns</td></tr><tr><td>1</td><td>R50150 R50</td><td>50</td><td>58.81</td><td>35.83</td><td>片蚀</td></tr><tr><td>2</td><td>R100150 R100</td><td>50</td><td>45.76</td><td>52.69</td><td>片蚀+细沟侵蚀</td></tr><tr><td>3</td><td>R50150 R50100</td><td>50</td><td>32.26</td><td>17.24</td><td>片蚀</td></tr><tr><td>4</td><td>Rug R50</td><td>50</td><td>28.64</td><td>78.74</td><td>片蚀+细沟侵蚀</td></tr><tr><td></td><td>R501100 10</td><td>100</td><td>72.12</td><td>46.90</td><td>片蚀</td></tr><tr><td>6</td><td>R100I100</td><td>100</td><td>61.28</td><td>89.94</td><td>片蚀+细沟侵蚀</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究基于模拟降雨试验和上方汇流试验,设计了不同降雨强度和汇流速率以及二者组合的试验处理，  \n研究了降雨和汇流对黑土坡面土壤侵蚀的影响,分析了降雨和汇流对坡面侵蚀的作用贡献,主要结论如下：(1)在降雨和汇流独立试验中，当降雨强度由 $5 0 \\ \\mathrm { m m / h }$ 增加至 $1 0 0 \\ \\mathrm { m m / h }$ 时,坡面径流量和侵蚀量分别增  \n加了1.4 和6.1倍;当汇流速率由 $5 0 \\ \\mathrm { m m / h }$ 增加至 $1 0 0 \\ \\mathrm { m m / h }$ 时,坡面径流量和侵蚀量分别增加了1.1和",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2倍。说明降雨对坡面土壤侵蚀产沙的影响显著大于汇流作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)在降雨和汇流组合试验中，总供水强度（降雨强度 $^ +$ 汇流速率)均为 $1 5 0 \\ \\mathrm { m m / h }$ 时,降雨强度为100$\\mathrm { { \\ m m / h } }$ 和汇流速率为 $5 0 \\ \\mathrm { m m / h }$ 组合试验的坡面径流量和侵蚀量分别是降雨强度为 $5 0 \\ \\mathrm { m m / h }$ 和汇流速率为$1 0 0 \\ \\mathrm { m m / h }$ 组合试验1.2和7.9倍,前者试验处理的坡面主要以细沟侵蚀方式为主,后者试验处理的坡面主要以片蚀为主。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)在相同汇流条件下，降雨强度增加 $5 0 \\ \\mathrm { m m / h }$ 后，其对坡面侵蚀量的贡献率为 $8 9 . 6 \\% - 9 9 . 5 \\%$ ;而在相同降雨条件下,汇流速率增加 $5 0 \\ \\mathrm { m m / h }$ 后，其对坡面侵蚀量的贡献率为 $1 7 . 2 \\% - 7 8 . 7 \\%$ ,说明在东北黑土区防治坡面汇流对坡面土壤侵蚀影响也尤为重要。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4)降雨和汇流之间的相互影响作用对坡面土壤侵蚀的特征有待深人研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］张晓平，梁爱珍，申艳,李文凤，张学林,王玉玺，解运杰，刘凤飞，杨学明.东北黑土水土流失特点.地理科学,206,26(6)：687-692.  \n[2］水利部，中国科学院，中国工程院.中国水土流失防治与生态安全(东北黑土区卷)．北京：科学出版社,2010:41-55,209-230.  \n[3」刘丙友.典型黑土区土壤退化及可持续利用问题探讨.中国水土保持，2003，（12)：28-29.  \n［4］郑粉莉，高学田.黄土坡面土壤侵蚀过程与模拟.西安：陕西人民出版社，2000：6-22.  \n[5]WakerellrsptiyueifallexpeceJournal,1978,42(5)：793-801.  \n［6］郑粉莉.坡面降雨侵蚀和径流侵蚀研究.水土保持通报，1998，18(6)：17-21.  \n[7] GabbardDS，HuangC，NortonLD,SteinhardtGC.Landscapepostion，surfacehydraulicgradientsanderosionprocesss.EarthSurfaceProcessesLandforms，1998，23(1):83-93.  \n[8]ElisonWD.SolerosionsdypartV：soiltrasprt insplashprossAgriculuralEngeing，947,28：49-35-3.  \n[9] Elison WD,EioOlrosisd-partV;SlacentbfacefAgicluralEgeing948：-,48.  \n10]Guyllitil,1987，30(5)：1378-1386.  \n[11]Palmer R S.Water drop impact forces. Transactions of the ASAE，1965,8(1）: 69-70.  \n[12]MutchlerCK，YoungRA.SoildetachmentbyrindropsPresentandprospectivetechologyforpredictingsedimentyieldsandsources//Procedingsof theentYeldkshop.S-4UD-Agculuraleseacherve.Oford,iss：UASedetboatoy1975.  \n[13] Ghadiri H,Payne D.Raindrop impact stress.Journal of Soil Science，1981,32(1)：41-49.  \n[14］范昊明，蔡强国，王红闪.中国东北黑土区土壤侵蚀环境.水土保持学报，2004，18（2)：66-70.  \n[15]XuXZ,XuY,ChnSC,XuSG,ZhangHWSlossandconservationintheblacksolegionofrtheastCina;aretrospetivestudy.  \nEnvironmental Science & Policy，2010,13（8）：793-800.  \n[16]Cui,CaiQG,ZuAXFanHlosioalollotgetlehillreasfacksoleioirtheastCaalfGeographical Sciences，2007，17(3) :375-383.  \n[17］阎百兴，杨育红，刘兴土，张树文，刘宝元,沈波，王玉玺，郑国相.东北黑土区土壤侵蚀现状与演变趋势.中国水土保持,2008，（12)：26-30.  \n[18］郑粉莉，赵军.人工模拟降雨大厅及模拟降雨设备简介.水土保持研究，2004，11（4)：177-178.  \n[19] 詹敏，厉占才，信玉林.黑土侵蚀区降雨参数与土壤流失关系.黑龙江水专学报，1998，（1)：40-43.  \n[20] 张宪奎，许靖华，卢秀琴，邓育江，高德武.黑龙江省土壤流失方程的研究.水土保持通报，1992，12（4)：1-9,18-18.  \n[21］崔明，蔡强国，范昊明.东北黑土区土壤侵蚀研究进展.水土保持研究，2007，14(5）：28-32.  \n[22] BradfordJM,HuangCHomparisonofinterillsoilsforlaboratoyndfeldproceduresSolTecnolgy，99,，6(2)：45-156.  \n[23] 卢嘉，郑粉莉，安娟，李桂芳.降雨侵蚀过程中黑土团聚体流失特征.生态学报，2016，36(8）：2264-2273.  \n[24] 安娟，郑粉莉，李桂芳，王彬.不同近地表土壤水文条件下雨滴打击对黑土坡面养分流失的影响.生态学报，2011,31（24)：7579-7590.  \n[25] 汪晓勇，郑粉莉，张新和.上方汇流对黄土坡面侵蚀——搬运过程的影响.中国水土保持科学，2009，7（2）：7-11.  \n[26] 姜义亮，郑粉莉，王彬，温磊磊，沈海鸥，易祎.东北黑土区片蚀和沟蚀对土壤团聚体流失的影响.生态学报，2013,33(24)7774-7781.  \n[27] 安娟，卢嘉，郑粉莉，李桂芳.不同地表条件下黑土区坡耕地侵蚀过程中土壤团聚体迁移.水土保持学报，2011,25(6)：100-104.  \n[28] 覃超，郑粉莉，徐锡蒙，吴红艳，沈海鸥.玉米秸秆缓冲带防治黄土坡面细沟侵蚀的效果.中国水土保持科学，2015，13（1）：8-15.  \n[29] 郑粉莉.黄土区坡耕地细沟间侵蚀和细沟侵蚀的研究.土壤学报，1998，35(1)：95-103.  \n[30] 李桂芳，郑粉莉，卢嘉，安娟.降雨和地形因子对黑土坡面土壤侵蚀过程的影响.农业机械学报，2015，46(4)：147-154，182-182.  \n[31］郑粉莉，徐锡蒙，覃超.沟蚀过程研究进展.农业机械学报,2016,47（8)：48-59，116-116.",
+        "page_idx": 8
+    }
+]

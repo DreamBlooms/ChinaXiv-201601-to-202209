@@ -1,0 +1,447 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201603220512 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨亚东,张明才,胡君蔚,张凯,胡跃高,曾昭海.施氮肥对华北平原土壤氨氧化细菌和古菌数量及群落结构的影响.生态学报,2017,37（11)：3636-3646.YangYD,ZagC,HJagK,HuengZctsrogertltioodcediteoxidizingbacteriaandarchaeainaNorth Chinagricultural soil.Acta EcologicaSinica,2Ol7,37(11):3636-3646.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施氮肥对华北平原土壤氨氧化细菌和古菌数量及群落结构的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨亚东，张明才，胡君蔚，张 凯,胡跃高，曾昭海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国农业大学农学院，北京100193",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;利用荧光定量PCR、末端限制性片段长度多样性(T-RFLP)和基因克隆文库技术,比较了4 种施氮水平（不施氮肥， $0 ~ \\mathrm { k g }$ $\\mathrm { { N / h m } } ^ { 2 }$ ,CK;施低水平氮肥， $7 5 ~ \\mathrm { k g } \\ \\mathrm { N / h m } ^ { 2 }$ ,N1;施中水平氮肥, $1 5 0 \\ \\mathrm { k g \\ N / h m } ^ { 2 }$ ,N2;施高水平氮肥,225kg $\\mathrm { { N / h m } } ^ { 2 }$ ,N3)下华北平原地区小麦季表层 $\\left( 0 { - } 2 0 ~ \\mathrm { c m } \\right.$ )土壤总细菌、氨氧化细菌(AOB)和氨氧化古菌(AOA)的丰度和群落结构。结果表明,土壤总细菌、AOB 和 AOA 数量分别在每克干土 $5 . 7 4 \\times 1 0 ^ { 9 } - 7 . 5 0 \\times 1 0 ^ { 9 } \\ldots 8 . 8 9 \\times 1 0 ^ { 6 } - 2 . 6 6 \\times 1 0 ^ { 7 }$ 和 $3 . 8 3 \\times 1 0 ^ { 8 } - 7 . 7 8 \\times 1 0 ^ { 8 }$ 之间。不同施氮量土壤AOA数量均高于AOB数量， $\\mathrm { A O A } / \\mathrm { A O B }$ 值在81.72—14.38之间。增施氮肥显著显著提高 AOB 数量( $P { < } 0 . 0 5 )$ ,对总细菌和AOA数量的影响不显著( $_ { ( P > 0 . 0 5 ) }$ 。与CK 相比,处理N1、N2和N3中AOB数量分别提高了0.64、1.50和1.99倍。增施氮肥显著改变了AOB和AOA的群落结构，且不同施氮量处理中AOB群落结构差异更大。系统进化分析显示,施氮肥小麦土壤 AOB 主要为Nitrosospira 属类群,分布在 Cluster 3的两个分支中;AOA分布在Cluster S的4个分支中。相关性分析显示,AOB 数量与全氮和铵态氮含量呈显著正相关关系,与土壤 $\\mathrm { \\ p H }$ 和碳氮比呈显著负相关关系( $P { < } 0 . 0 5 \\$ );AOA数量与硝态氮含量和土壤 $\\mathrm { \\Delta p H }$ 呈显著正相关关系,与铵态氮含量呈显著负相关关系( $\\scriptstyle P < 0 . 0 5$ )。研究结果表明：增施氮肥可显著改变华北平原地区碱性土壤AOB数量与群落结构，该地区小麦土壤中AOB比AOA对氮肥响应更敏感。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氮肥;氨氧化细菌;氨氧化古菌;丰度;群落结构;末端限制性片段长度多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of nitrogen fertilizer application on abundance and community structure of ammonia oxidizing bacteria and archaea in a North China agricultural soil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Yadong，ZHANG Mingcai,HU Junwei, ZHANG Kai,HU Yuegao,ZENG Zhaohai College ofAgronomy and Biotechnology，China Agricultural University，Beijing 1Oo193,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The abundance and community structure of total bacteria ammonia oxidizing bacteria，and archaea were investigated byreal-timePCR,T-RFLP,andcloning libraryapproaches ina wheat fieldunder diferentNfertilizationrates ( no N fertilization, $\\mathsf { b } \\mathsf { k g N / h m } ^ { 2 }$ ，CK； low N fertilization rate, $7 5 ~ \\mathrm { k g } ~ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ，N1；moderate N fertilization rate, $1 5 0 \\mathrm { ~ k g ~ N ~ }$ （204 $\\mathrm { h } \\overline { { \\ m ^ { 2 } } } , \\ \\widetilde { \\mathrm { N } } 2 ; \\ \\mathrm { h i g h } \\ \\widetilde { \\mathrm { N } }$ fertilization rate , $2 2 5 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ，N3） in North China. The population sizes of total bacteria，AOB and AOA were $5 . 7 4 \\times 1 0 ^ { 9 }$ 一 ${ \\cdot 7 . 5 0 \\times 1 0 ^ { 9 } }$ ， $8 . 8 9 \\times 1 0 ^ { 6 } - 2 . 6 6 \\times 1 0 ^ { 7 }$ and $3 . 8 3 \\times 1 0 ^ { 8 } - 7 . 7 8 \\times 1 0 ^ { 8 }$ copies/g dry soil，respectively. The populationnumbers of AOA were higher than thatof AOB inalltreatments，with AOA to AOB ratios ranged from 81.72 to 14.38.Significant higher numbers for AOB were detected for the high level of N fertilization soil ( $( P { < } 0 . 0 5 ) ,$ ），but not in the population of total bacteria and AOA.The population numbersof AOBobserved in N1，N2and N3 were1.64,2.50 and 2.99 timesgreater than that in the CK treatment，respectively.TheN fertilizationrates significantly changed the communities of both AOBand AOA，and more variation wasobserved in thecommunityof AOB.Phylogenetic results showed thatthe majorityAOBsequences fellintotwobranchesofCluster3，afiliated withNitrosospiraspecies，andall AOA sequences fell within four branches in Cluster S.Significant positivecorelations were observed among the population sizes of AOB to total nitrogen and ammonium，and the population sizes of AOA to soil $\\mathrm { \\ p H }$ and nitrate ( $P { < } 0 . 0 5$ ). Significant negative correlations were observed among the population sizes of AOB to soil $\\mathrm { \\ p H }$ and C/N ratio,and the population sizes of AOA to ammonium ( $\\textstyle P < 0 . 0 5$ ).These results demonstrated that AOB were more sensitive than AOA to N fertilization in alkaline wheat fields in North China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:nitrogen fertilizer；ammonia oxidizing bacteria（AOB）；ammonia oxidizing archaea（AOA)；abundance; community structure；terminal restriction fragment length polymorphism（T-RFLP） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硝化作用是农田氮素循环的重要环节,也是土壤氮素转化的关键过程[1]。氨氧化作用是硝化作用的第一步反应,也是整个过程的限速步骤[2]。在很长一段时间内,来自变形菌纲的氨氧化细菌（AOB)[2-3]被认为是其唯一承担者,直到氨氧化古菌(AOA）[4-5]的发现,才证实了氨氧化过程是由AOB 和AOA 两类微生物共同承担。Leininger等[6]首次报道了原始土壤和农业土壤中AOA 在数量上远高于AOB,再次证实了AOA 是参与土壤环境中氨氧化过程的重要微生物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前人的研究表明,AOB 和AOA数量和群落组成受氨的有效性[3]、温度[7]、土壤 $\\mathrm { \\ p H } ^ { [ 8 ] }$ 、土壤含水量[9]和施肥措施[10]等因素影响。Zhou等[11]研究表明施用氮肥可以提高AOB数量,而施用有机肥则增加了AOA多样性;张苗苗等[12]研究显示长期施用氮肥降低了AOB 多样性,显著提高了AOA数量;Di等[13]发现草地土壤中AOA数量远高于AOB,而施用动物尿液（富含 $\\mathrm { N H } _ { 3 }$ )显著促进了AOB 数量的增加;Chen等[14]研究结果也证实了施肥对 AOA 数量影响强于对AOB 的影响,且影响 AOA 群落组成;Long 等[15]研究却发现施氮肥对 AOB 和AOA 数量影响不显著;关于施氮水平对AOB和AOA的影响研究方面,Zhong 等[16研究了温室蔬菜不同施氮量对 AOB 和AOA的影响,结果表明土壤施氮量增加后,AOB 和AOA 的数量均下降,且增施氮肥对 AOB 群落结构的影响强于对AOA群落结构的影响。施用氮肥对土壤 AOB和AOA的影响因氮肥类型和施氮量水平不同存在显著差异,而施氮水平对华北地区小麦生产系统土壤AOB 和AOA数量和群落组成的影响仍不清楚，亟待研究。 人",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "华北平原是我国重要的粮食主产区,长期小麦-玉米集约种植模式需要大量的肥水投入,带来温室气体（ ${ \\mathrm { N } } _ { 2 } \\mathrm { O }$ 、NO)排放和地下水污染等问题[10],给区域造成很大的生态压力。研究不同施氮水平对土壤 AOB 和AOA 数量和群落结构的影响可以进一步明确氮肥转化的微生物机制。本研究以连续5a的田间定位试验为基础,以华北平原小麦季土壤为研究对象,采用荧光定量 PCR（Real-time quantitative PCR, $\\mathbf { q }$ -PCR）、末端限制性片段长度多样性(T-RFLP)和基因克隆文库技术,比较了4种施氮水平下小麦土壤 AOB 和AOA 数量和群落组成的差异。旨在阐明华北平原小麦土壤中AOB和 AOA对氮肥的响应机制,为土壤科学施肥、维护土壤微生物多样性和农业可持续发展等提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计和土壤样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地位于河北省沧州市吴桥县中国农业大学吴桥实验站 $( 3 7 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { N } , 1 1 6 ^ { \\circ } 2 2 ^ { \\prime } \\mathrm { E } )$ 。该地区属暖温带半湿润大陆性季风气候,土壤类型为中壤质潮土,成土母质为河流冲积物。年平均气温 $1 2 . 9 \\mathrm { { ^ { \\circ } C } }$ ,全年积温 $( \\geqslant 0 ^ { \\circ } \\mathrm { C }$ ）为 $4 , 8 2 6 ^ { \\circ } \\mathrm { C }$ ,无霜期201d,降雨量为 $5 6 2 ~ \\mathrm { m m }$ ,日照时数 $2 7 2 4 \\mathrm { ~ h ~ }$ 。氮肥梯度试验起始于2010年，种植模式为冬小麦-夏玉米一年两熟,冬小麦季施氮量设置4个梯度,分别为不施氮肥( $0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ,CK），施低水平氮肥（75$\\mathbf { k g } \\ \\mathrm { N / h m } ^ { 2 }$ ,N1）,施中水平氮肥（ $1 5 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ,N2）和施高水平氮肥( $2 2 5 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ,N3）,磷肥施用量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$9 0 \\mathrm { ~ k g ~ P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 }$ ,钾肥施用量 $9 0 \\mathrm { ~ k g ~ K } _ { 2 } 0 / \\mathrm { h m } ^ { 2 }$ 。氮肥、磷肥和钾肥分别为尿素、磷酸二氢钙和硫酸钾,肥料均基 施。小区面积为 $2 4 ~ \\mathrm { m } ^ { 2 }$ ,重复3次,完全随机区组排列。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品采集于2015年6月冬小麦收获后,采用对角线五点采样法,每个小区采集5个点 $0 { - } 2 0 ~ \\mathrm { c m }$ 土壤。同一处理的土壤样品混合成一个样品,除去碎石、根系及其他杂物,过 $2 ~ \\mathrm { m m }$ 筛,将土样分成两部分,一部分迅速用锡箔纸包裹后液氮冷冻，用冰盒保存带回实验室后 $- 8 0 \\%$ 保存，用于DNA提取及后续分析；另一部分装入自封袋后带回实验室,用鲜土样测定铵态氮和硝态氮含量,剩余土壤自然风干后测定土壤 $\\mathrm { \\ p H }$ 、有机质和全氮含量。 A",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤理化性质测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤 $\\mathrm { \\ p H }$ 采用电位法（水：土 $= 2 . 5 { : } 1$ )测定，土壤全氮采用浓硫酸-蒸馏滴定法测定，土壤铵态氮和硝态氮用2mol/LKCl溶液浸提新鲜土样后，采用流动分析仪测定( $\\mathrm { S A N + + }$ ，Skalar，Holland）,土壤有机质采用重铬酸钾容量法测定[17]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 土壤总DNA提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取0.2- $\\cdot 0 . 5 \\mathrm { ~ g ~ }$ 冷冻土壤样品,用E.Z.N.A.? Soil DNA Kit（Omega,USA)试剂盒提取土壤总DNA。用 $1 \\%$ 琼脂糖凝胶电泳检测总 DNA 完整性,用 NANO Quant(Tecan,Switzerland)测定提取DNA 浓度和纯度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4总细菌16SrDNA、AOB 和AOAamoA 基因的扩增与荧光定量 PCR分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别用引物 BACT1369F/PROK1541R、amoA-1F/amoA-2R 和 Arch-amoAF/Arch-amoAR 扩增细菌 16SrDNA、AOB 和AOAamoA基因（表1）。PCR 体系为 $5 0 ~ \\mu \\mathrm { L }$ ,分别含 $1 0 \\times$ Buffer ${ 5 . 0 } ~ \\mu \\mathrm { L }$ . $\\mathrm { d N T P }$ （各 $2 . 5 ~ \\mu \\mathrm { m o l / L }$ ）$4 . 0 ~ \\mu \\mathrm { L }$ ,上下游引物( $1 0 ~ \\mu \\mathrm { M } \\dot { }$ 各 $1 . 0 ~ \\mu \\mathrm { L }$ ,DNA 模板 $( 1 { \\mathrm { - } } 1 0 \\ \\mathrm { n g } ) 1 \\ \\mu \\mathrm { L } , \\mathrm { r } T a q ( 5 \\ \\mathrm { U } / \\mu \\mathrm { L } ) 1 . 0 \\ \\mu \\mathrm { L }$ ，最后用 $\\mathrm { d d H } _ { 2 } \\mathrm { O }$ 补至$5 0 . 0 ~ \\mu \\mathrm { L } _ { \\circ }$ PCR程序： $9 5 \\mathrm { ^ { \\circ } C }$ 预变性 $3 ~ \\mathrm { m i n }$ $9 5 \\mathrm { ^ { \\circ } C }$ 变性30s, $5 5 \\mathrm { { ^ \\circ C } }$ 退火 $| 3 0 \\mathrm { ~ s ~ } |$ $7 2 \\%$ 延伸 $^ { 4 5 } \\mathrm { ~ s ~ } , 3 5$ 个循环;最后 $7 2 \\%$ 延伸 $5 ~ \\mathrm { m i n }$ 。回收PCR产物连接至pMD18-T载体,转化至大肠杆菌 $\\mathrm { D H } 5 \\alpha$ 感受态中，经 ${ \\mathrm { A m p } } ^ { + }$ 、IPTG 和 X-gal 的LB 平板筛选阳性克隆,测序分析。 A",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准曲线的制作：提取测序正确的细菌 $1 6 \\mathrm { S \\_ r D N A _ { \\Omega } ^ { 0 } A O B }$ 和 AOAamoA基因的阳性克隆质粒,用 NANOQuant（Tecan,Switzerland)测定质粒浓度,按 $\\mathrm { \\hat { 1 0 } }$ 倍梯度稀释质粒至 $1 0 ^ { 3 } { - } 1 0 ^ { 8 }$ 拷贝数/微升, $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 保存,用于制备标准曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "荧光定量PCR 在 ABI730O（ABI,USA)上进行,反应体系为 $2 0 ~ \\mu \\mathrm { L }$ ,分别含 $\\operatorname { S Y B R } ^ { \\circledast }$ Premix Ex Taq I（ThiRNaseH Plus) $1 0 . 0 ~ \\mu \\mathrm { L }$ ,上下游引物各 $0 . 8 ~ \\mu \\mathrm { L } ( 1 0 ~ \\mu \\mathrm { M } )$ ,ROX Reference Dye $( 5 0 \\mathrm { x } ) 0 . 4 ~ \\mu \\mathrm { L }$ ,DNA 模板 $2 . 0 ~ \\mu \\mathrm { L } ( 1 -$ $1 0 ~ \\mathrm { n g } \\dot { { \\mathrm { \\Omega } } }$ ，用 $\\mathrm { d d H } _ { 2 } 0$ 补至 $2 0 . 0 ~ \\mu \\mathrm { L } _ { \\circ } ~ \\mathrm { P C R }$ 引物及程序如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f418a8e46c6bd438fd78de06d0a19429ae3683bd4aaae8c82a2cb28d5d3766f.jpg",
+        "table_caption": [
+            "表1荧光定量PCR引物及反应条件",
+            "Table1Primers and PCR profiles used for real-time PCR amplification "
+        ],
+        "table_footnote": [
+            "表示C或T;R表示A或G;K表示G或T;S表示C或 $\\mathrm { G } { \\mathfrak { s l } } 0 \\mathrm { B }$ :氨氧化细菌 Ammonia oxidizing bacteria;AOA：氨氧化古菌 Ammonia oxidizing al"
+        ],
+        "table_body": "<html><body><table><tr><td>靶标 Target</td><td>引物名称 Primer</td><td>序列(5'-3') Sequence (5'-3')</td><td>片段长度 Length （bp)</td><td>荧光定量PCR 程序 Real-time PCR profiles</td><td>参考文献 References</td></tr><tr><td>细菌 Bacteria</td><td>BACT1369F PROK1541R</td><td>5'-CGGTGAATACGTTCYCGG-3' 5'-AAGGAGGTGATCCRGCCG CA-3'</td><td>173</td><td>95℃10 min;95℃ 10s,60℃ 1 min，35 cycles</td><td>[17]</td></tr><tr><td>氨氧化细菌 AOB</td><td>amoA-1F amoA-2R</td><td>5'-GGGGTTTCTACTGGTGGT-3' 5'-CCCCTCKGSAAAGCCTTCTTC-3'</td><td>491</td><td>95℃10 min；95℃ 10 s,55℃ 30s,68℃ 40 s,40 cycles</td><td>[17]</td></tr><tr><td>氨氧化古菌 AOA</td><td>Arch-amoAF Arch-amoAR</td><td>5'-STAATGGTCTGGCTTAGACG-3' 5'-GCGGCCATCCATCTGTATGT-3'</td><td>635</td><td>95℃10 min；95℃15s，55℃ 30s,68℃ 40 s,40 cycles</td><td>[17].</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5末端限制性片段长度多样性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对 AOB 和 AOA 进行 T-RFLP 分析,选用amoA-1F/amoA-2R 和 Arch-amoAF/Arch-amoAR 扩增 AOB 和AOAamoA基因,其中引物amoA-1F和Arch-amoAF的 $5 ^ { \\prime }$ 端用6-FAM进行荧光标记,PCR体系和程序同1.4所示。回收PCR产物后,用限制性内切酶 RsaI（Taraka,大连)分别酶切AOB 和AOA amoA 基因。反应体系为$2 0 ~ \\mu \\mathrm { L }$ ,分别含 $1 0 \\times$ TBuffer $2 \\ \\mu \\mathrm { L } , 0 . 1 \\%$ BSA $2 ~ \\mu \\mathrm { L }$ ,Rsa I ( $1 0 ~ \\mathrm { U / \\mu L }$ ） $1 ~ \\mu \\mathrm { L }$ ,PCR 产物DNA $1 0 ~ \\mu \\mathrm { L }$ ,最后用 $\\mathrm { d d H } _ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0补至 $2 0 . 0 ~ \\mu \\mathrm { L }$ 。 $3 7 \\%$ 水浴酶切 $^ 3 \\mathrm { ~ h ~ }$ ,重复3次,用乙醇沉淀法纯化酶切产物,最后将3个重复混匀成一个样品。取回收的酶切产物 $0 . 3 ~ \\mu \\mathrm { L }$ 、分子量内标 $( \\mathrm { G S 5 0 0 L I Z } ) 0 . 5 ~ \\mu \\mathrm { L }$ 和甲酰胺 $9 . 5 ~ \\mu \\mathrm { L }$ 混合均匀后加入96孔板中，$9 5 \\mathrm { ^ { \\circ } C }$ 变性 $5 ~ \\mathrm { m i n }$ $4 ^ { \\circ } \\mathrm { C }$ 冷却后离心， $1 \\times$ Buffer 缓冲液上机检测,采用ABI3730（ABI,USA)测序仪测定分析。用GeneMarkerV2.2（ABI,USA)分析电泳图中各峰的片段长度和峰面积,忽略长度小于 $5 0 ~ \\mathrm { b p }$ 和峰面积小于 $1 \\%$ 的峰。将峰的信号强度标准化,每种末端限制性片段(T-RF)类型的相对丰度用百分比形式表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 克隆和测序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将4个土壤样品的DNA 混合后做模板,采用amoA-1F/amoA-2R 和 Arch-amoAF/Arch-amoAR 扩增 AOB和AOAamoA基因,体系和扩增条件同1.4所示,引物不添加荧光标记。扩增产物回收后,分别连接至pMD18-T载体(Taraka,大连)上,转化至大肠杆菌 $\\mathrm { D H } 5 \\alpha$ 感受态中，经筛选后分别选取了53和56个阳性克隆进行测序分析。测序结果经分析比对后，将同源性 $9 \\%$ 的序列归为一类,选一条用于构建系统发育树。将具有代表性的 AOB 和 AOAamoA 基因序列提交至NCBI数据库中,获 AOB 和 AOA登录号分别为KU365731—KU365744 和KU365745—KU365753。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据的方差分析和相关性分析用 SPSS 20.0软件（SPSS 20.0 for Windows,SPSS Inc,USA)完成;土壤总细菌、AOB和AOA 数量的数据取对数后,用 SigmaPlot12.5软件制图;测序核苷酸序列用DNAMAN6.0软件分析,并用MEGA5.0软件构建系统进化树,选用邻-接法（Neighbour-Joining);用末端限制性片段(T-RF）的长度和相对含量数据进行主成分分析，由Canoco 5.0软件完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤基础理化性质 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同施氮量0- $- 2 0 \\ \\mathrm { c m }$ 土层土壤中除有机质含量差异不显著 $( 1 4 . 9 6 - 1 5 . 4 9 \\mathrm { \\ g } / \\mathrm { k g } , P > 0 . 0 5 )$ 外,其他理化性质存在显著差异（表2)。随施氮量增加,土壤pH呈显著下降趋势(8.46—8.29）,依次为 $N 3 < \\mathrm { N } 2 < \\mathrm { N } 1 < \\mathrm { C K } ( P <$ 0.05）。增施氮肥提高了土壤全氮 $( 0 . 8 6 - 1 . 0 4 ~ \\mathrm { g / k g } )$ 、铵态氮 $( 0 . 9 2 { - } 1 . 5 4 ~ \\mathrm { m g / k g } )$ 和硝态氮含量(3.76—24.29$\\mathrm { m g / k g } \\dot { } .$ )。N3和N2土壤全氮含量显著高于N1和CK( $P { < } 0 . 0 5 \\mathrm { ~ , ~ }$ );N3 土壤铵态氮含量显著高于 N2、N1和CK（ $_ { P < 0 . 0 5 ) }$ ;不同施氮处理土壤硝态氮含量均存在显著差异，依次为 $\\mathrm { C K } { < } \\mathrm { N } 1 { < } \\mathrm { N } 2 { < } \\mathrm { N } 3 \\left( \\thinspace P { < } 0 . 0 5 \\right)$ 。随着施氮量增加,土壤碳氮比下降,CK 显著高于 N2 和 N3,N1 显著高于 N3 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4c372dc328922b5a858fe6fc837ee203240fc2763f6f7678a2e189a161240e1.jpg",
+        "table_caption": [
+            "表2不同施氮处理土壤基础理化性质",
+            "Table 2\\Soil chemical properties of different N fertilizer application rate treatment "
+        ],
+        "table_footnote": [
+            "不同字母表示处理间差异显著( $\\scriptstyle P < 0 . 0 5$ ),数据为平均值 $\\pm$ 标准差， $n = 3 , \\mathrm { C K ~ 0 ~ k g ~ N H m ^ { 2 } , N 1 ~ 7 5 ~ k g ~ N / h m ^ { 2 } , N 2 ~ 1 5 0 ~ k g ~ N / h m ^ { 2 } , N 3 ~ 2 2 5 ~ k g ~ N / h m ^ { 2 } }$ N/hm²"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Table 处理 Treatment</td><td colspan=\"6\">Soll nem o1di ertnzer app icauonratetreatments Tot有机质ni</td><td rowspan=\"2\">碳氮比 C/N</td></tr><tr><td></td><td>pH</td><td>全氮含量 Total Nitrogen/ matter/ （g/kg） （g/kg)</td><td></td><td>铵态氮 NH4 -N/ （mg/kg)</td><td>硝态氮 NO3-N/ （mg/kg)</td></tr><tr><td>不施氮肥NoN fertilization，CK 施低水平氮肥</td><td></td><td>8.46±0.01 a</td><td>14.96±0.87 a</td><td>0.86±0.06 b</td><td>0.92±0.09 c</td><td>3.76±0.44 d</td><td>10.14±0.73 a</td></tr><tr><td>Low N fertilization rate，N1</td><td></td><td>8.38±0.01 b</td><td>15.18±.050 a</td><td>0.91±0.01 b</td><td>1.24±0.12 b</td><td>6.36±0.23 c</td><td>9.65±0.29 ab</td></tr><tr><td>施中水平氮肥 Moderate N fertilization rate，N2</td><td></td><td>8.34±0.02 c</td><td>15.25±0.26 a</td><td>0.99±0.02 a</td><td>1.22±0.15 b</td><td>7.92±0.22 b</td><td>8.95±0.05 bc</td></tr><tr><td>施高水平氮肥 High N fertilization rate，N3</td><td>8.29±0.01 d</td><td></td><td>15.49±0.41 a</td><td>1.04±0.02 a</td><td>1.54±0.08 a</td><td>24.29±0.69 a</td><td>8.67±0.37 c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤总细菌、AOB 和AOA的数量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以16S rDNA 和amoA 基因为靶标,用荧光定量 PCR 测定土壤总细菌、AOB 和 AOA 数量。结果显示,不同施氮处理土壤总细菌数量在 $5 . 7 4 \\times 1 0 ^ { 9 }$ 1 ${ \\cdot 7 . 5 0 \\times 1 0 ^ { 9 } }$ 拷贝数/ $\\mathbf { \\check { g } }$ 干土,处理间差异不显著( $P { > } 0 . 0 5$ ,图1)。不同施氮处理土壤AOB数量在 $8 . 8 9 \\times 1 0 ^ { 6 } - 2 . 6 6 \\times 1 0 ^ { 7 }$ 拷贝数 $\\gamma _ { \\mathbf { g } }$ 干土，不同施氮处理AOB数量均差异显著，随施氮量增加,AOB数量显著增加( $P { < } 0 . 0 5 )$ 。与CK 相比,N1、N2、N3中 AOB 数量分别提高了 $6 4 \\%$ 、 $1 5 0 \\%$ 和 $1 9 9 \\%$ 。AOA数量在 $3 . 8 3 \\times 1 0 ^ { 8 } - 7 . 7 8 \\times 1 0 ^ { 8 }$ 拷贝数/ $\\mathbf { \\dot { g } }$ 干土,CK、N1 和 N2 中 AOA 数量显著高于 N3( $P { < } 0 . 0 5$ ,图2)。相关性分析结果显示，总细菌数量仅与硝态氮， $\\mathit { \\Pi } _ { \\left. \\right)} ^ { \\prime } = - 0 . 5 8 2 , n = 1 2 , P { < } 0 . 0 5 $ 呈显著负相关关系。AOB数量与全氮$\\prime _ { r } = 0 . 8 3 8 , n = 1 2 , P { < } 0 . 0 1 )$ 和铵态氮 $\\left( r = 0 . 5 9 7 , n = 1 2 , P { < } 0 . 0 5 \\right)$ 呈显著正相关关系,与土壤 $\\operatorname { p H } ( r = - 0 . 8 5 9 , n =$ $1 2 , P { < } 0 . 0 1 \\ ' \\$ 和碳氮比 $( r = - 0 . 7 8 4 , n = 1 2 , P { < } 0 . 0 1 )$ 呈显著负相关关系。AOA数量与硝态氮( $r = 0 . 9 2 6$ $n = 1 2$ ，$P { < } 0 . 0 1 \\$ )和土壤 $\\operatorname { p H } ( r = 0 . 5 9 4 , n = 1 2 , P < 0 . 0 5 )$ 呈显著正相关关系，与铵态氮 $\\left( r = - 0 . 7 1 7 , n = 1 2 , P { < } 0 . 0 5 \\right)$ 呈显著负相关关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同施氮处理土壤AOA 数量均显著高于AOB 数量,AOA与AOB 数量比值在81.72—14.38之间,随施氮量增加,AOA与AOB数量比值呈下降趋势。荧光定量结果表明,增施氮肥能显著提高小麦土壤AOB数量,对总细菌和AOA数量影响不显著。此外,总细菌、AOB 和AOA数量与土壤各环境因子的相关性存在明显差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c4125ac7c2c7471f8186613883e248f1627e18220ae17e401f9e44f73ee7c7.jpg",
+        "img_caption": [
+            "图1不同施氮处理细菌16SrDNA基因拷贝数Fig.1Abundance of bacteria 16S rDNA gene under different Nfertilizer application rate treatments"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/205145bf14856392b1bcec0f1386a1bb088f012816a3c47ffeb8b6c54a208a3f.jpg",
+        "img_caption": [
+            "图2不同施氮处理氨氧化细菌和氨氧化古菌amoA基因拷贝数Fig.2Abundance of ammonia oxidizing bacteria and archeaeamoA genesunderdifferent Nfertilizerapplicationratetreatments"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 AOB和AOA的群落结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选用限制性内切酶RsaI分别对 AOB和AOA 进行T-RFLP分析。4个处理共得到10个AOB的T-RF片段长度(图3a）,其中 $9 6 、 2 1 0 、 2 5 1 、 2 4 4 、 2 5 5 、 2 7 0 、 2 7 4$ 和 $3 8 0 ~ \\mathrm { b p }$ 在4个处理中均存在, $6 3 \\mathrm { \\ b p }$ 只存在于CK、N1和N2中， $2 4 8 { \\mathrm { ~ b p } }$ 只存在于 N2 和 N3中。长度为210、251、255、274 和 $3 8 0 ~ \\mathrm { b p }$ 的 T-RFs为主要片段,分别占总片段的 $3 . 9 1 \\% - 1 1 . 3 8 \\% 2 6 . 6 0 \\% - 2 9 . 7 1 \\% 2 6 . 9 7 \\% - 3 9 . 4 9 \\% 6 . 5 0 \\% - 1 1 . 2 0 \\% \\%$ ！ $1 1 . 8 7 \\% - 1 7 . 7 6 \\%$ ,合计占总片段的 $9 2 . 7 4 \\% - 9 3 . 3 4 \\%$ 。这些片段所代表的AOB 在土壤中占优势,其中251、255 和 $3 8 0 \\ \\mathrm { b p }$ 长度所占比例均超过 $10 \\%$ ,为占绝对优势的3个AOB类群。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4个处理共得到11个AOA 的T-RF片段长度(图3b),其中60、98、196、259、261、263 和 299 bp在4个处理中均存在,63 和 $6 5 ~ \\mathrm { { b p } }$ 只存在于CK、N1 和 N2 中, $2 5 6 { \\mathrm { ~ b p } }$ 只存在于 N1、N2 和 N3 中,261bp 只存在于 CK中， $2 6 5 ~ \\mathrm { b p }$ 只存在于 N1 和 N2中。长度为 $6 0 , 1 9 6 , 2 5 6 , 2 5 9$ 和 299bp 的T-RFs为主要片段,分别占总片段的$5 3 . 2 6 \\%$ 一 $6 4 . 7 6 \\%$ ， $. 7 . 7 9 \\%$ 一 $1 2 . 8 8 \\%$ 、 $1 2 . 2 6 \\%$ 一 $1 6 . 1 7 \\%$ 、 $2 . 9 4 \\%$ 一 $1 0 . 4 5 \\%$ 和 $2 . 4 6 \\% - 5 . 3 4 \\%$ ，合计占总片段的$8 5 . 1 3 \\%$ 一 $9 4 . 9 1 \\%$ 。这些片段所代表的AOA在土壤中占优势,其中60 和 $2 5 6 ~ \\mathrm { b p }$ 长度所占比例均超过 $10 \\%$ ，为占绝对优势的2个AOA类群。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4AOB和AOAamoA基因序列的系统发育树构建",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经测序比对分析后,分别得到14和9个 AOB 和 AOAamoA 基因操作分类单元（operational taxonomicunit,OTU）。AOBamoA基因序列两两同源性在 $6 9 . 9 2 \\% - 9 6 . 5 4 \\%$ 之间,14条序列的同源性为 $9 1 . 7 7 \\%$ ; AOAamoA基因序列两两同源性在 $7 7 . 4 8 \\%$ 1 $9 6 . 2 2 \\%$ 之间,9条序列的同源性为 $8 7 . 4 4 \\%$ 。系统进化分析结果显示：AOB amoA基因序列聚类在两个 Cluster 中,其中,AOB 12 聚类在 N.communis Cluster中,其余 AOB 都聚类在Cluster 3中。聚类在Cluster 3中的AOB分布在Cluster 3a和Cluster 3b两个分支中,除片段长度为210 bp 的T-RF聚类在Cluster 3b外,其他片段长度 T-FRs 均聚类于Cluster 3a（图4);所有 AOAamoA 基因序列都聚类在 Cluster S中,分布在4个分支中。其中,196 bp T-RF聚类在分支I和Ⅲ中,60 bp T-RF聚类在分支Ⅱ中,63bp T-RF聚类在分支Ⅱ和Ⅲ中,299bp T-RF 聚类在分支I和IV中（图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3baac1baaa2c1d2e405b3373c0fd0b14bd582b7ea5a29a90e8da2ffc84e9dc53.jpg",
+        "img_caption": [
+            "图3不同施氮处理氨氧化细菌(a)和古菌(b)amoA基因T-RFs的相对丰度",
+            "Fig.3RelativeabundanceofT-RFsofammoniaoxidizingbacteria（a）andarchaea（b）amoAgenesrestrictedbyRsaIunderdierentN fertilizer application rate treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 主成分分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于T-RFs的主成分分析(PCA)结果显示,第一、二排序轴是主成分轴。对 AOB 群落变异的解释量达到$9 5 . 1 6 \\%$ ,其中轴1和轴2分别为 $7 6 . 8 1 \\%$ 和 $1 8 . 3 5 \\%$ （图6a)；对AOA群落变异的解释量达到 $9 4 . 4 4 \\%$ ,其中轴1和轴2分别为 $7 7 . 2 2 \\%$ 和 $1 7 . 2 2 \\%$ （图6b）。处理CK、N1、N2和N3的AOB 都明显分开,分布在4个象限中；而4个处理的AOA群落结构差异弱于AOB,其中,N1和N2聚在一起（第三象限),与CK和N3明显分开。PCA结果表明;施氮量显著影响小麦土壤AOB 和AOA的群落结构，且不同施氮处理的AOB 群落结构差异强于AOA。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1施氮肥对小麦土壤总细菌、AOB和AOA数量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤总细菌数量是反映土壤总微生物活性的一个重要参数。本研究中土壤总细菌16S rDNA 基因在$5 . 7 4 \\times 1 0 ^ { 9 } - 7 . 5 0 { \\times } 1 0 ^ { 9 }$ 拷贝数/ $\\mathbf { \\dot { g } }$ 干土之间,与 Shen 等[17]研究发现细菌数量在 $3 . 3 9 \\times 1 0 ^ { 9 } - 1 . 2 3 \\times 1 0 ^ { 1 0 }$ 拷贝数/ $\\mathbf { \\check { g } }$ 干土之间的结果相似,相较于He等[8]在水稻土壤中细菌数量 $1 0 ^ { 1 0 }$ 拷贝数/ $\\mathbf { \\chi } _ { \\mathbf { g } } ^ { \\prime }$ 干土数量级低,且总细菌数量仅与硝态氮呈显著负相关关系。小麦与水稻土壤类型和理化性质差异可能是引起总细菌数量差异的主要原因。此外,本研究不同施氮水平土壤总细菌数量差异不显著,与He 等[8和 Shen 等[17]研究结果一致,表明土壤总细菌数量对施氮肥响应不明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AOB 和AOA是土壤氮循环的关键微生物,直接影响着土壤健康、肥力状况和生产力等。本研究不同施氮量处理 AOA数量均高于AOB,AOA与AOB 数量比值在81.72—14.38 之间,与 Leininger 等[6]、 $\\mathrm { H e }$ 等[8]、Shen 等[17]和Jia等[18]研究结果相符,进一步证实了碱性土壤更适合AOB。AOB数量在 $8 . 8 9 \\times 1 0 ^ { 6 } - 2 . 6 6 \\times 1 0 ^ { 7 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "98 AOB3 (KU365732,251 bp) Fertilized soil clone E1 (EF122058) AOB35 (KU365741,380 bp) AOB40 (KU365742,274 bp) 77 AOB1(KU365731,380 bp) 100|Wheat soil clone NPM-405 (HQ875334) 50 AOB48 (KU365744,251 bp) 100AOB7 (KU365734,255 bp) Cluster 3a AOB10 (KU365735,255 bp) AOB20 (KU365739,255 bp) 67 87 Irrigated loam soil clone w704 (AF353252) AOB13 (KU365738 255 bp) Cluster 3 56 97 Nitrosolobus multiformis ATCC 25196 (X90822) AOB31 (KU365740 274 bp) 99 AOB43 (KU365743,210 bp) 100 Nitrosospira sp.Nl5 (AY123832) Nitrosospira briensis (U76553) 99 AOB4 (KU365733,210 bp) 54 Greenhouse soil clone AMNPK2RC11 (FR751353) Cluster 3b 98 AOB11 (KU365736,210 bp) 97 Nitrosospira briensis C-57(Z97858) Nitrosolobus multiformis (AF042171) 98 Soil clone NAB-0-38 (AF056067) Cluster 3c Nitrosomonassp.Nm33 (AF272408) 100 AOB12 (KU365737,302 bp) N.communis Cluster 100 Nitrosomonas communis (AF272399) 0.05 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "拷贝数/g干土,与He等[8]、Chen 等[14]和Wessen等[9]研究中AOB数量级一致,比Shen等[16]、Wang等[20]和Yao 等[21]研究中AOB高出2—3个数量级。AOA数量在 $3 . 8 3 \\times 1 0 ^ { 8 } - 7 . 7 8 \\times 1 0 ^ { 8 }$ 拷贝数/ $\\mathbf { \\check { g } }$ 干土,与Chen 等[14]研究中水稻土壤AOA数量级一致,比He等[8]、Shen等[17]和Wang 等[20]研究中AOA 数量高出1—2个数量级。此外,本研究中 AOB 数量随施氮量增加而显著增加,而AOA 数量差异不显著,与Di等[22]研究发现高氮草地土壤中AOB数量随施氮量增加而增加一致,而与 Zhong 等[16]研究表明随着施氮量增加,AOB 和AOA数量均下降不同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "He 等[1]研究表明土壤pH是造成AOB 和AOA数量差异的主要原因,而Chen 等[14]认为肥料是引起AOA 数量变化的主要原因,土壤pH和肥料均对AOB 数量产生影响;Di等[22]认为硝态氮含量是引起 AOB数量增加的原因;但 Zhong 等[22]在温室条件下却得到相反的结果,认为硝态氮含量是导致 AOB 数量下降的原因,而 AOA 数量下降则可能是由于土壤 $\\mathrm { \\ p H }$ 降低造成。本研究中AOB数量与土壤pH呈极显著负相关关系，与全氮含量呈极显著正相关关系,AOB数量上升可能是土壤pH下降和肥料作为底物导致,与Di等[22]结果一致。AOA数量与土壤pH呈显著正相关关系,而与全氮含量相关性不显著,AOA 数量的降低,可能是由施氮量增加引起的土壤pH下降造成,而非氮肥作为底物造成,与He等[8]和Chen 等[14]研究结果相符。不同施氮处理土壤 $\\mathrm { \\ p H }$ 均呈碱性,且长期增施氮肥引起土壤 $\\mathrm { \\ p H }$ 降低导致了AOA数量下降和AOB数量上升，与Shen等[23 报道的AOB 适合在中性至碱性、氮素含量丰富的土壤中生存,而 AOA 适合在酸性土壤中生存的结果一致。本研究中不同施氮处理AOA在数量上占优势,随着施氮量增加,AOB 数量显著上升,AOA数量上的优势减弱,表明AOB对氮肥更敏感,高氮条件下土壤中氨氧化过程的主要承担者可能是AOB 而非 AOA,与 Jia等[18]和Shen 等[23]结论一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2施氮肥对小麦土壤AOB和AOA群落组成的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究用限制性内切酶RsaI酶切AOB 和AOAamoA 基因经后测序分别得到了10 和11个T-RFs,与",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "61 AOA2 (KU365746,196 bp) 97 Sandy ecosystem soil clone R60-70_253 (DQ534864) 100 :AOA46 (KU365752,299 bp) I 100 – Wetlands sediment crenarchaeote clone BYD-4-82 (HQ538547) AOA45 (KU365751,196 bp) 78 100 Candidatus Nitrososphaera gargensis clone GA15E04 (EU281320) 97AOA23 (KU365748, 63 bp) Soil thaumarchaeote clone GL_C6 (JQ638734) Ⅱ 100 Agricultural soil clone AOA24 (JN688246) 67 93AOA16 (KU365747, 60 bp) Cluster S 99Arable soil crenarchaeote clone N2_28 (HM803711) 100_「AOA28 (KU365749,63 bp) L Sediment thaumarchaeote clone ME3-30-A3 (KM595441) 99-AOA52 (KU365753,196 bp)   \n100 100 -Soil thaumarchaeote clone PJ_G4 (JQ638728) Ⅲ 93 [ Sediment thaumarchaeote clone ME3-30-A7 (KM595445) 100LAOA1 (KU365745,63 bp) 93'Cropland soil WAC-25 (KR781374) AOA38 (KU365750,299 bp) 100 -Aquaculture farm sediment clone H4-G-25 (JF430509) V 99 Wheat soil clone A38 (FJ536737) Deep marine clone HF4000_G2 (DQ333404) Nitrosopumilus maritimus SCM1 (EU239959) Cluster M   \n66 Ocean sediment clone ES_HI_22 (DQ148789) 0.05 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhou 等[1]研究紫土中AOB 用AccⅡ酶切得到11个T-RFs,莫旭华等[24]研究小麦土壤中AOA用AfaI酶切得到10个T-RFs的结果一致;但Chen等[25]研究发现草原土壤中 AOB 用 MobI酶切后仅得到4个 T-RFs，Chen 等[14]研究发现水稻土壤中AOA用 $\\mathbf { \\nabla } _ { M o b } \\operatorname { I }$ 酶切后仅得到4个T-RFs。T-RFs数量不同,可能是选用内切酶不同导致，也可能是由于土壤类型差异引起。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同施氮处理中,T-RF长度为63、96、274、380、248 和 $2 5 5 ~ \\mathrm { b p }$ 的 AOB 类群所占比例差异较大,且随施氮量的增加表现出不同的变化趋势;而T-RF长度为256 和 $2 6 5 ~ \\mathrm { b p }$ 的AOA类群差异较大，且4个处理中AOA均含有2个绝对优势的类群 $\\mathrm { \\diamond } 1 0 \\%$ ),表明小麦土壤中AOB 的群落组成受施氮量的影响较大,而AOA具有较稳定性的群落结构,与Shen等[17]碱性土壤条件下得到的结果一致,而与He等[8]、Chen 等[14]、Ying 等[26]酸性土壤条件下得到的结果相反。另外,PCA 分析也显示4个处理AOB 比AOA 群落结构差异性更大,AOB 群落结构更易受氮肥的影响。这些结果都证实了施肥引起AOB 和AOA 群落结构的变化,且碱性条件下 AOB 比AOA 对氮肥施用量更敏感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3施氮肥小麦土壤中AOB和AOA的系统发育",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中绝大多数 AOB 都聚类在Cluster 3的两个分支中,除 AOB12属于 Nitrosomonas 属外,其他 AOB都聚类在Nitrosospira 属中,与莫旭华等[24]和Chu等[27]在小麦土壤中得到的 AOB 都属于 Nitrosospira 属的结果相符;也与水稻土壤[14]、黄土旱塬黑泸土壤[28]和草原[25]等土壤中AOB都主要聚类在 Nitrosospira 属中的结果一致;符合 Kowalchuk 等[29]报道的土壤环境中氨氧化细菌以 Nitrosospira 属为主,而非 Nitrosomonas 属的结论。He等[8]、Chen等[14]和 Shen 等[16]在水稻土壤中均发现了聚类于Cluster S和Cluster M的AOA类群,pH越低,聚类于Cluster M的AOA类群越多,并且Cluster S在农田和草地生态系统中占绝对优势。本研究中所有AOA均聚类于Cluster S中,未发现聚类在Cluster M的AOA 类群,与Chen等[25]和 Shen等[30]的结果一致，与农田生态系统中聚类于Cluster S的AOA占绝对优势的结果相符,本研究中土壤pH呈碱性是导致所有AOA都分布在Cluster S中的主要原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc0284369638f24c4ae2e34b9e60888369dd72d70e9889c6323bbea033409745.jpg",
+        "img_caption": [
+            "图6不同施氮处理氨氧化细菌(a)和古菌(b)amoA基因T-RFs主成分分析",
+            "Fig.6Principal component analysis （PCA）of T-RFsof ammonia oxidizingbacteria（a）and archaea（b）amoA genes under diferent N fertilizer application rate treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究对长期施用不同氮肥水平下小麦季土壤氨氧化微生物的群落结构和丰度特征进行了研究,结果发现,随施氮量增加引起土壤pH下降及其他理化性质的改变,施氮量增加显著提高AOB的数量,对AOB 群落结构的影响强于对 AOA 群落结构的影响,表明该地区小麦土壤中 AOB 比 AOA 对施用氮肥的响应更敏感。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究得到农业部都市农业(北方)重点实验室马兰青教授、杨明峰副教授的帮助,特此致谢。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］贺纪正，张丽梅.氨氧化微生物生态学与氮循环研究进展.生态学报，2009,29(1)：406-415.   \n[2]Prosser JI. Autotrophic nitrification in bacteria.Advances in Microbial Physiology，1989,30：125-181.   \n[3]KwalcukGtepenJAmo-oxidingbacteriaodelforoleularmicobialologAalRevifcrobolog55 (1): 485-529.   \n[4]VenterJC,RemingtonK,HeidelbergJF,HalperAL,RuschD,EisenJA,WuDY,PaulsenI,NelsonKE,NelsonW,FoutsDE,LeyS, Knap AH,Lomas MW,NealsonK,WiteO,PetersonJ,HoffmanJ,ParsonsR,Bden-TilsonH,PfankochC,RogersYH,mithHO. Environmental genome shotgun sequencing of the Sargasso Sea. Science，2004，304(5667）: 66-74.   \n[5]Konneke M,BermhardAE,DeLa TorreJR，WalkerCB，WaterburyJB,StahlDA.Isolationof anautotrophicammonia- dizingmarine archaeon.Nature，2005，437（7058）：543-546.   \n[6]LeiingerS,Uich,cloter,warkL，QiJ,icolG,ProseJ,usterSC,heperC.Archeapredoiateao oxidizing prokaryotes in soils.Nature，2006，442(7104）：806-809.   \n[7]TouaeitagE，icolGroserrowthctitympatueosesofo-xidigrchadeil microcosms.Environmental Microbiology，2008，10(5）：1357-1364.   \n[8]HeJZ,SenJP,ZhangLM,ZuYG,ZhengYM,XuMG,DiHJ.QuantativeanalysesoftheabundanceandcomposionofaooxidizingbacteradmoxdngeaofCneupladdoilunerefertilzipactiEvoentalcobog， 2007,9(9): 2364-2374.   \n[9]Hastings R C，Butler C，Singleton I,Saunders JR，McCarthy A J. Analysis of am nor oxidizing bacteria populations in acid forest soil during conditions of moisture limitation.Leters in Applied Microbiology，2000,30(1):14-18.   \n[10]Strauss SL,Reardon C L,Mazola M. The response of ammonia-oxidizer activity community structure to fertilizer amendment of orchard soils. Soil Biology and Biochemistry，2014,68:410-418.   \n[11]ZhouZF,SiXJ,ZngY,QinZXXie,LiZLuoTAbanceadoitytructurefo-oxidingbacterida in purple soil under long-term fertilization. European Journ: Soil Biology，2014，60：24-33.   \n[12］张苗苗，王伯仁，李冬初，贺纪正，张丽梅.长期施加氮肥及氧化钙调节对酸性土壤硝化作用及氨氧化微生物的影响.生态学报，2015, 35(19): 6362-6370.   \n[13]DiHJ,CameronKC，ShnJP,WinefieldCS，allghanM,Bowate S，HeJZ.Ammoia-oxidingbacteriaandarchaeagrounder contrastingsoilnitrogenconditions.FEMSMicrobiologyEcology，2010,72（3）:386-394.   \n[14]ChenX,ZhangLM,ShenJP,WeiWX，HeJZ.Abundanceandcommunitystructureofammona-oxidingarchaeaandbacteriainanacid paddy soil. Biology and Fertility of Soils，2011,47(3）:323-331.   \n[15]Long XE,Chen C R, Xu H,Linder S,He JZ.Abundance and community structure of ammonia oxidizing bacteria and archaea in a Sweden boreal forest soilunder19-year fertilizationand12-year warming.Journal ofSoilsand Sediments，2012,12（7)：1124-1133.   \n[16]ZongWGN,nJ,Shi,inXGnirgferilatiugidtioe mostlytobacteriaratherthanarchaeaingrenhouse-basedhighNinputvegetablesoil.SoilBiologyandBochemistry，016,93：150-159.   \n[17]ShenJP,ZangLMZuYG,ZangB,HeJZAbundanceandcomposionofammonia-oxidiingbacteriaandamona-oxidiingha communitiesfanalkalinesandyloam.EnviromentalMicrobiology8,(6）：60161.   \n18]JiaZJdcterrateobaloatiiualilviotalob, 11(7): 1658-1671.   \n19]WeseEalc long-term management.Applied Soil Ecology，2010,45(3）：193-200.   \n[20]WangY,ZuGogLY,WangSinCQ.aureertitolsthelatof-oidgctet oxidizing archaea in a paddy soil. Journal of Basic Microbiology，2014,54(3）：190-197.   \n[21]YaoHY,GaoYM,NicolGW,CampbellCD,ProserJI,ZhangLM,HanWY,SinghBK.Linksbetweenammoniaoxidizerconity structure，abundance,ndtrificationpotentialicidicslAppledndEnvironmentalcrobiology，l1,13）：461-4625.   \n[22]DiHJoKC,SnJ，eCS,OganM,owaeHJZNirftioicteridrc rich grassland soils.Nature Geoscience,2009,2（9）: 621-624.   \n[23]ShenJanDiJ,Heevieofo-oxidgcteradachainineseilFtiersiiobolo 296-296，dio:10.3389/fmicb.2012.00296.   \n[24］莫旭华，史荣久，李慧，郑佳，王元芬，徐慧.华北典型旱地小麦土壤 amoA基因的PCR-RFLP分析.生态科学,2009,28（1)：49-55.   \n[25]ChenYL,XuZW,HuHW,HuYJ，HaoZP,JiangY，ChenBD.Responsesofammonia-oxidingbacteriaandarchaeatoitrogen fertilizationandprecipitationincrementinatypicaltemperatesteppeinIner Mongolia.AppliedSoilEcology，20l3,68：36-45.   \n[26]YingJYZangL,HeJZuaivemmon-oxidngbcterndceainacidicedilwithdifentlndutiatioe. Environmental Microbiology Reports,2010,2(2）：304-312.   \n[27]ChuHY,Fuj,MoriotoS,LinXG,agiK，HuJ，ZangJB.Counistructureofon-oxidizingbacteriauderoe aplicatioofmineralfertlizerandoganicmaureisandyloamsoilAldandEnviroentalMcrobog,OO,（2）：485-491   \n[28］刘桂婷，程林，王保莉，赵其国，曲东.长期不同施肥对黄土旱塬黑泸土氨氧化细菌多样性的影响.中国农业科学，2010，43（13)： 2706-2714.   \n[29]KowalcukGA，StepenJR，DeoerW,ProserJIEmbley，WoldendoJWAnalyssofmmonia-oxidizingbacteriaofthebta subdivisioofteclassProteobacteriaincoastalandunesbydenaturinggadientgelelectrophoresisandsequencingofRaplifed6 ribosomal DNA fragments.Applied and Environmental Microbiology，1997,63(4）：1489 -1497.   \n[30]ShenXZgL,hJ,i,YanC,HJrginlevesedsifdin prokaryotes insemiarid temperate grassand.Journal of Soils and Sediments，2011,11（7）:1243-1252. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

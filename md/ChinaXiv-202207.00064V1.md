@@ -1,0 +1,161 @@
+上海市奉贤区基层医务人员房颤相关知识掌握情况及影响因素分析  
+段园霞1，顾柳娜1，张磊1，周丽婷1，朱海瀛1，杨超1，陈海英1，顾晓青1，黄蛟灵²，顾  
+杰3\*
+
+1.上海市奉贤区西渡街道社区卫生服务中心，上海，2014012.上海交通大学医学院公共卫生学院，上海，2000253.复旦大学附属中山医院全科医学科，上海，200032通讯作者：顾杰，doctorgu $@$ 163.com
+
+【摘要】背景 随着人口老龄化的加剧，房颤的患病率逐年递增。基层医务人员作为社区的健康守门人，其房颤知识的掌握程度对于规范管理尤为重要。目的了解上海市奉贤区基层医务人员对房颤相关知识的掌握情况，分析其影响因素，为后续开展相关培训工作提供理论依据。方法 于2021年6月至7月使用自行编制的电子问卷在上海市奉贤区21个社区卫生服务中心的医务人员中进行横断面调查。问卷内容包括：一般情况、房颤基本知识、抗凝治疗知识、心律/心率控制知识4个方面。结果 共回收有效问卷1383份，调查对象平均年龄$3 6 . 9 \pm 8 . 8$ 岁，女性占 $8 2 . 1 \%$ (1135/1383)，36.5%(506/1383)为全科医生。其中房颤基本知识模块、抗凝知识模块和心律/心率控制知识模块得分的不及格率分别为 $5 4 . 9 \% ( 7 5 9 / 1 3 8 3 )$ 97.7%(1351/1383)和 $6 9 . 6 \% ( 9 6 3 / 1 3 8 3 )$ ，相比其它岗位的医务人员，全科医师对三个模块的房颤知识均明显更好（P值均小于0.0001）。Logistic 回归分析显示，全科医生（ $\mathrm { O R = } 4 . 9 5 8 \AA$ ）和职称（初级 $\mathrm { O R } { = } 0 . 4 4 3$ ，中级 $\mathrm { O R } { = } 0 . 5 8 0$ ）为房颤基本知识模块得分的相关因素；年龄1 $\scriptstyle \mathrm { { ( O R = 0 . 9 4 0 } }$ ）、全科医生（ ${ \mathrm { O R } } { = } 5 . 2 4 3$ ）为抗凝治疗知识模块得分的相关因素；全科医生（ ${ \mathrm { O R } } { = } 2 . 3 1 0$ ）、规培（ $\mathrm { O R } { = } 1 . 6 9 6$ ）和一年内阅读过房颤指南（ ${ \mathrm { O R } } { = } 2 . 1 1 8$ ）为心律/心率控制知识模块得分的相关因素。结论 基层医务人员房颤相关知识的掌握情况总体上不理想，尤其是抗凝治疗知识缺乏。应特别加强对非全科医师、职称较低以及未规培的基层医务人员的房颤相关培训。
+
+【关键词】基层；心房颤动；知识；影响因素基金项目：上海市卫生健康委员会面上项目（202150046）；上海市奉贤区科技发展基金项目（20211827）；上海中西医结合学会社区医学与健康管理科研课题项目（2021-28）Analysis of atrial fibrillation-related knowledge and its influencing factors among grassrootsmedical staffs in Fengxian District, Shanghai
+
+DUAN Yuanxial, GU Liuna1, ZHANG Lei1, ZHOU Liting1, ZHU Haiying1, YANG Chao1, CHEN Haiying1,GU Xiaoqing1, HUANG Jiaoling², GU Jie3\*
+
+1. Xidu District Community Health Service Centre of Fengxian District, Shanghai 2O1401,China 2. School of public health, School of medicine, Shanghai Jiaotong University, Shanghai 200025, China
+
+3. Department of general practiton, Zhongshan Hospital, Fudan University, Shanghai, 200032,
+
+China
+
+Corresponding author:Gu Jie, Email:doctorgu $@$ 163.com [Abstract] Background With the aging of the population,the prevalence of atrial fibrillation is increasing year by year. The atrial fibrilation-related knowledge among grassroots medical staffs who are the health gatekeepers of community, is particularly important for standardized management. Objective To understand the mastery of atrial fibrillation-related knowledge among grassroots medical staf in Fengxian District, Shanghai, and analyze its influencing factors, so as to provide a theoretical basis for subsequent training work.Methods A cross-sectional survey was conducted among medical staffs in 21 community health service centers in Fengxian District of Shanghai from June to July 2O21 using a self-developed electronic questionnaire. The contents of the questionnaire included four aspects: general information, basic knowledge of atrial fibrillation, knowledge of anticoagulant therapy and knowledge of rhythm/heart rate control. Results A total of 1383 valid questionnaires were collected. The average age of the respondents was $3 6 . 9 { \pm } 8 . 8 \$ years old, $8 2 . 1 \%$ (1135/1383) were female, and $3 6 . 5 \%$ (506/1383) were general practitioners. The failure rate of atrial fibrilation basic knowledge module, anticoagulation knowledge module and heart rhythm/heart rate control knowledge module were $54 . 9 \%$ (759/1383), $9 7 . 7 \%$ (1351/1383) and $6 9 . 6 \%$ (963/1383),respectively. Compared with medical staff in other positions, general practitioners' knowledge of atrial fibrillation in the three modules is significantly better (P values are alless than 0.0001). Logistic regression analysis showed that general practitioner ( $\mathrm { \langle O R { = } } 4 . 9 5 8$ ）and professional title ( $\mathrm { O R } { = } 0 . 4 4 3$ for primary level, O $\scriptstyle 1 2 = 0 . 5 8 0$ for intermediate level) were the related factors for the basic knowledge score of atrial fibrillation module; age ( $\scriptstyle \mathrm { { O R = } } 0 . 9 4 0 ,$ ）, general practitioner ( $\mathrm { { O R } = }$ 5.243) were the related factors of the knowledge score of anticoagulation therapy module; general practitioners ( $\mathrm { \langle O R { = } } 2 . 3 1 0 \$ ), standardized training $\mathrm { \mathrm { O R } } { = } 1 . 6 9 6 \$ ） and read atrial fibrillation guideline
+
+within one year ( $_ \mathrm { C R } { = } 2 . 1 1 8$ ） were the related factors of knowledge score of heart rhythm/heart rate control module. Conclusions The mastery of atrial fibrillation-related knowledge among grassroots medical staff is generally unsatisfactory, especially the knowledge of anticoagulation treatment. The atrial fibrillation-related training should be strengthened among medical staff who are not general practitioners, with low professional titles and who have not received standardized training.
+
+[Key Words] Grassroots; atrial fibrillation; knowledge; influencing factors
+
+Fund Projects: General project of Shanghai Municipal Health Commission (2O2150046); Science and Technology Development Fund Project of Fengxian District, Shanghai (20211827); Community Medicine and Health Management Research Project of Shanghai Association of Integrative Medicine (2021-28)
+
+心房颤动，简称房颤，是最常见的快速性心律失常之一。研究显示，房颤的患病率、发病率以及死亡率正逐年攀升[1,2]。我国房颤患者已达800 万[3]，然而抗凝率低、对疾病危害认知不足、治疗依从性差，以及房颤患者在综合性医院得不到连续性服务等问题[4-6]，均导致房颤的规范化管理困难重重。社区是居民的主要生活场所，要管理好社区房颤患者，基层医务人员对房颤相关知识的掌握就显得尤为重要。目前虽然已有一些研究显示基层医务人员的房颤相关认知不够理想，但这些研究一方面样本量较小，另一方面也没有将房颤认知进行科学的分类，最重要的是未进一步探究其影响因素，因此无法有效指导后续的改进工作。本研究拟就这一问题进行更深入的研究，探索与基层医务人员掌握房颤知识有关的因素，从而为夯实基层房颤管理提供理论依据。
+
+# 1对象和方法
+
+1.1 研究对象本研究在上海市奉贤区全部 21家社区卫生服务中心采用系统抽样方法，按照每位基层医务人员的工号，选取工号为3的倍数者作为研究对象，包括医生、护士、药剂师、公卫医生以及其它医务人员（影像、检验、中医等）。排除标准：因上网设备、视力、听力等各种原因无法参与线上调查。
+
+1.2 研究方法 2021年6月至7月使用自行编制的电子问卷对入选的基层医务人员进行线上调查。问卷内容包括： $\textcircled{1}$ 一般情况：性别、年龄、学历、工作岗位、工作年限、职称、是否有上级医院工作经历、是否全科规培、一年内是否阅读过房颤指南、一年内是否参加过房颤培训； $\textcircled{2}$ 房颤基本知识：危险因素、症状与体征、诊断方式、分类、危害； $\textcircled{3}$ 抗凝治疗知识： ${ \mathrm { C H A D S } } _ { 2 }$ 评分、 $\mathrm { C H A } _ { 2 } \mathrm { D S } _ { 2 }$ -VASC 评分、HAS-BLED评分、抗凝指征、INR目标值、华法林的拮抗剂； $\textcircled{4}$ 心律/心率控制知识：心律控制目标、电复律适应症、改善心室率的适应症、控制心室率药物、复律前是否抗凝。3个房颤相关知识模块，每个条目答对得2分，答错不得分，按每个模块得分总分划分为4个等级，分别为不及格（ $< 6 0 \%$ 总分）、及格（ $60 \% - 7 4 \%$ 总分）、良好（ $7 5 \% 8 4 \%$ 总分）、优秀（ $> = 8 5 \%$ 总分）。
+
+1.3质量控制
+
+1.3.1 问卷的信效度评价：对16个条目做内部一致性分析，测得Cronbach'sα系数为0.724，条目之间内部一致性可接受。分别对房颤基本知识、抗凝治疗知识和心律/心率控制知识3个模块进行内容效度检验。共邀请了7名副主任医师及以上专家对3个模块共16 个条目进行评价，结果所有条目的条目内容效度（I-CVI）均大于0.78，3个模块的全体一致内容效度（S-CVI/UA）分别位0.80、0.83、0.80，3个模块的平均内容效度（S-CVI/Ave）分别位0.975，0.979 和0.975，故3个模块的内容效度均较好。
+
+1.3.2 电子问卷经由奉贤区卫生工作者协会发放至各单位医务科长，再由其发放至相应医务人员。调查开始前由研究者对各单位医务科长进行1课时的问卷填写培训，解答相关疑问。知情同意书设置在电子问卷首页，选择同意后方可作答；有缺漏项者系统会给予提醒，且无法提交问卷。房颤基本知识、抗凝治疗知识和心律/心率控制知识3个模块中连续5个问题的选项相同时，记作无效问卷。
+
+1.4 数据分析 采用 SPSS 24.0 进行统计分析。计量资料以均值 $\pm$ 标准差表示，计数资料以频数和百分比表示。分别以房颤基本知识模块、抗凝治疗知识模块和心律/心率控制知识模块得分等级为因变量，以性别、年龄、学历、是否全科医生、工作年限、职称、是否有上级医院工作经历、是否全科规培、是否阅读过房颤指南、是否参加过房颤培训为自变量进行有序多分类或二分类Logistic 回归分析。以 $\scriptstyle \mathbf { P < } 0 . 0 5$ 有统计学意义。
+
+# 2结果
+
+# 2.1研究对象基本情况
+
+本次调查共纳入研究对象1393人，回收有效问卷1383份，有效回收率 $9 9 . 3 \%$ （1383/1393）。1383人中全科医生506人（ $3 6 . 5 \%$ ），护士441人（ $3 1 . 8 \%$ ），药剂师117（ $8 . 4 \%$ ），公卫医生115人（ $8 . 3 \%$ ），其它人员204人（ $2 4 . 7 \%$ ）；女性1135人
+
+（ $8 2 . 1 \%$ ），平均年龄（ ${ 3 6 . 9 \pm 8 . 8 } \rangle$ ）岁，学历为本科及以上者1002人（ $7 2 . 4 \%$ ），职称中级及以上者650人（ $4 6 . 9 \%$ ），接受过全科规培者188人（ $1 3 . 5 \%$ ），有上级医院工作经历者376人（ $( 2 7 . 2 \% )$ ），一年内阅读过房颤指南者327人（ $23 . 6 \%$ ），一年内参加过房颤培训者287人（ $20 . 7 \%$ ）。
+
+# 2.2房颤相关知识模块得分等级
+
+房颤3个知识模块得分等级见表1。3个模块的及格率均低于 $50 \%$ ，其中抗凝治疗知识模块及格率最低，仅为 $2 . 3 \%$ 。不同岗位的医务人员对房颤相关知识的掌握情况不同，相比其它岗位的医务人员，全科医师对三个模块的掌握情况均明显更好。见表1
+
+表1.房颤3个知识模块得分等级分布情况  
+Table1.The score grade distribution of three knowledge modules of atrial fibrillation   
+
+<html><body><table><tr><td></td><td>不及格</td><td>及格</td><td>良好</td><td>优秀</td><td>x值</td><td>P值</td></tr><tr><td>基本知识</td><td>759</td><td>373</td><td>195</td><td>56</td><td>253.652</td><td><0.0001</td></tr><tr><td rowspan="4">全科医师</td><td>(54.9%)</td><td>(27.0%)</td><td>(14.1%)</td><td>(4.0%)</td><td></td><td></td></tr><tr><td>149</td><td>172</td><td>138</td><td>47</td><td></td><td></td></tr><tr><td>(29.4%)</td><td>(34.0%)</td><td>(27.3%)</td><td>(9.3%)</td><td></td><td></td></tr><tr><td>公卫医师 85 (73.9%)</td><td>26 (22.6%)</td><td>4 (3.5%)</td><td>0</td><td></td><td></td></tr><tr><td>护士</td><td>305</td><td>95 (21.5%)</td><td>39 (8.8%)</td><td>2 (0.5%)</td><td></td><td></td></tr><tr><td></td><td>(69.2%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>药剂师</td><td>83(70.9%)</td><td>32 (27.4%)</td><td>2 (1.7%)</td><td>0</td><td></td><td></td></tr><tr><td>其它</td><td>137</td><td>48 (23.5%)</td><td>12 (5.9%)</td><td>7 (3.4%)</td><td></td><td></td></tr><tr><td>抗凝治疗知识</td><td>(67.2%) 1351</td><td>26 (1.9%)</td><td></td><td></td><td></td><td><0.0001</td></tr><tr><td rowspan="3">全科医师</td><td></td><td></td><td>4 (0.3%)</td><td>2 (0.1%)</td><td>20.529</td><td></td></tr><tr><td>(97.7%) 483</td><td>18 (3.6%)</td><td></td><td></td><td></td><td></td></tr><tr><td>(95.4%)</td><td></td><td>3 (0.6%)</td><td>2 (0.4%)</td><td></td><td></td></tr><tr><td>公卫医师</td><td>115(100%)</td><td>0</td><td>0</td><td>0</td><td></td><td></td></tr><tr><td>护士</td><td>435</td><td>5 (1.1%)</td><td>1 (0.3%)</td><td>0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(98.6%)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>药剂师</td><td>114</td><td>3 (2.6%)</td><td>0</td><td>0</td><td></td></tr><tr><td></td><td>(97.4%)</td><td></td><td></td><td></td><td></td></tr><tr><td>其它</td><td>204(100%)</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>心律/心率控制知识</td><td>963</td><td>313</td><td>96 (6.9%)</td><td>11</td><td>116.236 <0.0001</td></tr><tr><td rowspan="2">全科医师</td><td>(69.6%)</td><td>(22.6%)</td><td></td><td>(0.8%)</td><td></td></tr><tr><td>273</td><td>168</td><td>54</td><td>11</td><td></td></tr><tr><td>公卫医师</td><td>(54.0%)</td><td>(33.1%)</td><td>(10.7%)</td><td>(2.2%)</td><td></td></tr><tr><td></td><td>108 (93.9%)</td><td>7 (6.1%)</td><td>0</td><td>0</td><td></td></tr><tr><td rowspan="2">护士</td><td>348</td><td>75 (17.0%)</td><td>18 (4.1%)</td><td></td><td></td></tr><tr><td>(78.9%)</td><td></td><td></td><td>0</td><td></td></tr><tr><td>药剂师</td><td>75 (64.1%)</td><td>25 (21.4%)</td><td>17</td><td>0</td><td></td></tr><tr><td></td><td></td><td></td><td>(14.5%)</td><td></td><td></td></tr><tr><td>其它</td><td>159</td><td>38 (18.6%)</td><td>7 (3.5%)</td><td>0</td><td></td></tr><tr><td></td><td>(77.9%)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3房颤相关知识影响因素分析
+
+# 2.3.1房颤基本知识模块
+
+以房颤基本知识模块总得分（分为不及格、及格、良好、优秀4个等级）为因变量，将年龄、工作年限、职称进行相关性分析，结果显示年龄和工作年限存在较强的相关性（相关系数$= 0 . 9 1 4$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ），故排除工作年限，以性别、年龄、学历、是否全科医生、职称、是否有上级医院工作经历、是否全科规培、一年内是否阅读过房颤指南、一年内是否参加过房颤培训为自变量，进行有序多分类Logistic 回归分析。平行线检验 $\mathrm { x } ^ { 2 } { = } 3 3 . 7 9 3$ ， $\scriptstyle { \mathrm { p = } } 0 . 1 4 0$ ，说明平行性假设存在；模型优度检验 $\mathrm { x } ^ { 2 } { = } 2 7 7 . 7 9 7$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ，说明模型有统计学意义。结果显示“全科医生”和“职称”为房颤基本知识模块的独立危险因素。见表 2。
+
+表2房颤基本知识模块影响因素分析  
+Table 2.Analysis of influencing factors of basic knowledge module of atrial fibrillation   
+
+<html><body><table><tr><td>自变量</td><td>B</td><td>SE</td><td>瓦尔德卡方</td><td>P值</td><td>OR值</td><td>OR值的95%CI</td><td></td></tr><tr><td>性别（vs. 女性)</td><td>0.124</td><td>0.1403</td><td>0.786</td><td>0.375</td><td>1.132</td><td>下限 0.860</td><td>上限 1.491</td></tr></table></body></html>
+
+<html><body><table><tr><td>年龄</td><td>-0.004</td><td>0.0093</td><td>0.186</td><td>0.666</td><td>0.996</td><td>0.978</td><td>1.014</td></tr><tr><td>学历（vs.研究生及以上）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中专及以下</td><td>-0.428</td><td>0.5875</td><td>0.531</td><td>0.466</td><td>0.652</td><td>0.206</td><td>2.062</td></tr><tr><td>大专</td><td>-0.539</td><td>0.4592</td><td>1.379</td><td>0.240</td><td>0.583</td><td>0.237</td><td>1.434</td></tr><tr><td>本科</td><td>-0.499</td><td>0.4407</td><td>1.281</td><td>0.258</td><td>0.607</td><td>0.256</td><td>1.440</td></tr><tr><td>全科医生(vs.否)</td><td>1.601</td><td>0.1368</td><td>137.024</td><td><0.0001*</td><td>4.958</td><td>3.792</td><td>6.482</td></tr><tr><td>职称（vs.副高及以上)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>-0.636</td><td>0.3448</td><td>3.408</td><td>0.065</td><td>0.529</td><td>0.269</td><td>1.040</td></tr><tr><td>初级</td><td>-0.815</td><td>0.2775</td><td>8.615</td><td>0.003*</td><td>0.443</td><td>0.257</td><td>0.763</td></tr><tr><td>中级</td><td>-0.544</td><td>0.2435</td><td>4.989</td><td>0.026*</td><td>0.580</td><td>0.360</td><td>0.936</td></tr><tr><td>上级医院工作经历（vs.否)</td><td>0.205</td><td>0.1261</td><td>2.639</td><td>0.104</td><td>1.227</td><td>0.959</td><td>1.571</td></tr><tr><td>全科规培(vs.否)</td><td>0.216</td><td>0.1908</td><td>1.287</td><td>0.257</td><td>1.242</td><td>0.854</td><td>1.805</td></tr><tr><td>一年内阅读过房颤指南(vs.否)</td><td>-0.005</td><td>0.1423</td><td>0.001</td><td>0.972</td><td>0.995</td><td>0.753</td><td>1.315</td></tr><tr><td>一年内参加过房颤培训(vs.否)</td><td>0.080</td><td>0.1486</td><td>0.287</td><td>0.592</td><td>1.083</td><td>0.809</td><td>1.449</td></tr></table></body></html>
+
+# 2.3.2抗凝治疗知识模块
+
+由于抗凝治疗知识模块总得分为良好及优秀的比例过低（ $< 1 \%$ ），故以抗凝知识模块总得分是否及格为二分类因变量，以表2中因素为自变量，首先进行单因素Logistic 回归分析，结果显示年龄、学历、全科医生、上级医院工作经历、全科规培、一年内阅读过房颤指南和一年内参加过房颤培训为影响因素。随后有意义自变量进行多因素Logistic 回归分析，模型优度检验 $\mathrm { x } ^ { 2 } { = } 3 6 . 7 4 1$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ，说明模型有统计学意义。结果显示“年龄”和“全科医生”为抗凝治疗知识的独立影响因素。见表3。
+
+表3.房颤抗凝治疗知识模块影响因素分析  
+Table 3. Analysis of influencing factors of anticoagulation therapy knowledge module of atrial fibrillation   
+
+<html><body><table><tr><td rowspan="2">自变量</td><td colspan="4">单因素分析</td><td colspan="4">多因素分析</td></tr><tr><td>P值</td><td>OR</td><td>OR值的95%CI</td><td></td><td>P值</td><td>OR值</td><td>OR值的95%CI</td><td></td></tr><tr><td></td><td></td><td>值</td><td>下限</td><td>上限</td><td></td><td></td><td>下限</td><td>上限</td></tr><tr><td>性别（vs.女性)</td><td>0.421</td><td>1.543</td><td>0.536</td><td>4.439</td><td>=</td><td></td><td></td><td>1</td></tr><tr><td>年龄</td><td>0.043</td><td>0.959</td><td>0.919</td><td>1.001</td><td>0.042*</td><td>0.940</td><td>0.886</td><td>0.998</td></tr><tr><td>学历（vs.研究生及以上）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中专及以下</td><td>0.998</td><td>0</td><td>0</td><td></td><td>0.998</td><td>0</td><td>0</td><td></td></tr><tr><td>大专</td><td>0.020</td><td>0.132</td><td>0.024</td><td>0.728</td><td>0.582</td><td>0.590</td><td>0.090</td><td>3.853</td></tr><tr><td>本科</td><td>0.049</td><td>0.218</td><td>0.048</td><td>0.992</td><td>0.526</td><td>0.585</td><td>0.112</td><td>3.069</td></tr><tr><td>全科医生(vs.否)</td><td>0.000</td><td>4.593</td><td>2.108</td><td>10.005</td><td>0.001*</td><td>5.243</td><td>1.891</td><td>14.537</td></tr><tr><td>工作年限</td><td>0.067</td><td>0.964</td><td>0.927</td><td>1.003</td><td></td><td></td><td></td><td></td></tr><tr><td>职称（vs.副高及以上）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>0.263</td><td>0.445</td><td>0.108</td><td>1.835</td><td></td><td></td><td></td><td></td></tr><tr><td>初级</td><td>0.091</td><td>0.371</td><td>0.117</td><td>1.170</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>中级</td><td>0.053</td><td>0.314</td><td>0.097</td><td>1.013</td><td>-</td><td></td><td></td><td>1</td></tr><tr><td>上级医院工作经历（vs.否）</td><td>0.014</td><td>2.411</td><td>1.192</td><td>4.877</td><td>0.160</td><td>1.729</td><td>0.806</td><td>3.713</td></tr><tr><td>全科规培（vs.否)</td><td>0.005</td><td>2.995</td><td>1.395</td><td>6.430</td><td>0.404</td><td>0.619</td><td>0.200</td><td>1.913</td></tr><tr><td>一年内阅读过房颤指南(vs.否)</td><td>0.001</td><td>3.344</td><td>1.653</td><td>6.764</td><td>0.175</td><td>1.755</td><td>0.779</td><td>3.956</td></tr><tr><td>一年内参加过房颤培训（vs.否)</td><td>0.001</td><td>3.500</td><td>1.726</td><td>7.098</td><td>0.067</td><td>2.136</td><td>0.948</td><td>4.814</td></tr></table></body></html>
+
+# 2.3.3心律/心率控制知识模块
+
+心律/心率控制知识模块总得分等级中优秀的比例过低（ $0 . 8 \%$ ），有序多分类Logistic回归平行线检验 $\mathrm { x } ^ { 2 } { = } 7 7 4 . 5 5 4$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 1$ ，故将心律/心率控制模块总得分等级调整为不及格、及格和优良（包括原良好和优秀等级）3个等级并作为因变量，以与表2相同的因素为自变量进行有序多分类Logistic 回归分析。平行线检验， $\mathbf { X } ^ { 2 } = 7 . 4 5 7$ ， $\mathrm { p { = } 0 } . 8 7 7$ ，说明平行性假设存在；模型优度检验 $\mathrm { x } ^ { 2 } { = } 1 5 0 . 4 3 2$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 0 1$ ，提示模型有统计学意义。结果显示“全科医生”、“规培”和“阅读过房颤指南”为心律/心率控制模块知识的独立影响因素。见表4。
+
+表4.房颤心律/心率控制模块影响因素分析  
+Table 4.Analysis of influencing factors of heart rhythm and heart ratecontrol module of atrial fibrilation   
+
+<html><body><table><tr><td rowspan="2">自变量</td><td rowspan="2">B</td><td rowspan="2">SE</td><td rowspan="2">瓦尔德卡方</td><td rowspan="2">P值</td><td rowspan="2">OR值</td><td colspan="2">OR值的95%CI</td></tr><tr><td>下限</td><td>上限</td></tr><tr><td>性别（vs.女性）</td><td>-.128</td><td>0.158</td><td>0.654</td><td>0.419</td><td>0.880</td><td>0.645</td><td>1.200</td></tr><tr><td>年龄</td><td>0.000</td><td>0.011</td><td>0.001</td><td>0.975</td><td>1.000</td><td>0.980</td><td>1.021</td></tr><tr><td>学历（vs.研究生及以上）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中专及以下</td><td>0.907</td><td>0.662</td><td>1.878</td><td>0.171</td><td>2.476</td><td>0.677</td><td>9.056</td></tr><tr><td>大专</td><td>0.645</td><td>0.524</td><td>1.518</td><td>0.218</td><td>1.907</td><td>0.683</td><td>5.323</td></tr><tr><td>本科</td><td>0.791</td><td>0.503</td><td>2.475</td><td>0.116</td><td>2.205</td><td>0.823</td><td>5.907</td></tr><tr><td>全科医生(vs.否)</td><td>0.837</td><td>0.148</td><td>32.155</td><td><0.0001*</td><td>2.310</td><td>1.730</td><td>3.086</td></tr><tr><td>职称（vs.副高及以上）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无</td><td>-0.132</td><td>0.390</td><td>0.115</td><td>0.734</td><td>0.876</td><td>0.408</td><td>1.882</td></tr><tr><td>初级</td><td>-0.133</td><td>0.316</td><td>0.177</td><td>0.674</td><td>0.876</td><td>0.472</td><td>1.625</td></tr><tr><td>中级</td><td>0.173</td><td>0.275</td><td>0.397</td><td>0.529</td><td>1.189</td><td>0.694</td><td>2.039</td></tr><tr><td>上级医院工作经验（vs．否）</td><td>0.260</td><td>0.138</td><td>3.555</td><td>0.059</td><td>1.296</td><td>0.990</td><td>1.698</td></tr><tr><td>全科规培(vs.否)</td><td>0.528</td><td>0.207</td><td>6.533</td><td>0.011*</td><td>1.696</td><td>1.131</td><td>2.543</td></tr><tr><td>一年内阅读过房颤指南(vs.否)</td><td>0.751</td><td>0.149</td><td>25.495</td><td><0.0001*</td><td>2.118</td><td>1.583</td><td>2.835</td></tr><tr><td>一年内参加过房颤培训(vs.否)</td><td>0.247</td><td>0.157</td><td>2.464</td><td>0.116</td><td>1.280</td><td>0.941</td><td>1.741</td></tr></table></body></html>
+
+# 3讨论
+
+本研究是我国针对基层医务人员房颤相关知识调查中样本量较大的研究，覆盖了上海奉贤区全部的社区卫生服务中心。与以往研究相比，本研究最大的区别在于研究对象更加多样化，不仅有全科医生，也包括护士、药剂师、公卫医生等其他基层医务人员。我们认为，虽然全科医生是提供基层卫生服务的主力军，但随着家庭医生团队建设的逐渐成熟，团队中的其他人员也同样肩负着维护居民健康的重任[8]。护士、药剂师、公卫医生等作为全科医生的左膀右臂，在房颤等慢性病患者的健康教育、随访、遵医行为纠正中也扮演者重要角色，因此他们房颤相关知识的掌握情况也直接关系到能否实现房颤的基层规范管理。因此，从这个意义上来说，本研究具有一定的创新性。
+
+3.1上海市奉贤区基层医务人员对房颤相关知识的掌握有待提高
+
+本研究结果显示，上海市奉贤区基层医务人员对房颤相关知识的总体掌握情况令人堪忧。房颤3个知识模块中得分及格率均低于 $5 0 \%$ ，尤其是抗凝治疗知识模块及格率极低，这与李波、程磊和倪兰等的研究结果较为一致，均显示基层医务人员包括全科医生对房颤抗凝治疗相关知识了解较少[7,9,10]。这可能与大部分上海社区卫生服务中心暂时无华法林等房颤抗凝药物以及无法进行凝血功能检测，从而影响基层医务人员学习相关知识的积极性有关。
+
+3.2上海市奉贤区医务人员对掌握房颤相关知识的影响因素
+
+与其他基层医务人员相比，全科医生对房颤基本知识( $\mathrm { O R = } 4 . 9 5 8 \AA$ 、抗凝知识( $\mathrm { \cdot } \mathrm { O R } { = } 5 . 2 4 3 \$ ）和心律/心率控制知识（ ${ \mathrm { O R } } { = } 2 . 3 1 0$ ）的掌握均更好（P均 $< 0 . 0 5$ ）。这很容易理解，全科医生作为临床医生，其接触房颤患者最密切也最频繁，理论知识和临床实践机会均比其他基层医务人员多。但这并不表示非全科医生无需学习房颤相关知识。2016年，欧洲心脏病协会欧洲心胸外科协会提出要打造以患者为核心的综合管理团队，这个团队里不但包括医生，也包括护士、药剂师、防保人员、影像工作者以及家医助理等[11,12]。要想组建好这样一个团队，管理好房颤患者，就需要团队里每个人都了解房颤的相关知识。
+
+与职称低的医务人员相比，职称高的医务人员对房颤一般知识掌握程度更高，这与其他研究的结果是一致的[7]。现有医疗行业职称的晋升评估指标主要包括学历、临床工作量、承担课题量以及论文发表量等[13]，因此职称高也就意味着综合能力较强，其掌握房颤相关知识的程度也就越高。叶雅文等有关护士对房颤认知的研究也显示，护士掌握房颤知识的水平与年龄、学历、职称和工作时间有关[14]，而一般情况下职称本身也是随着年龄、学历和工作时间的延长而升高的，年龄更大、工作年限更长者通常职称更高，临床工作经验积累也越多，相对而言对知识的掌握度也越好。本研究还显示年龄为抗凝治疗知识模块得分的相关因素。相对而言，年龄大者对抗凝知识模块得分更高。这与之前有关职称的研究结果相呼应。
+
+本研究还显示，与未进行规范化培训者相比，经过规培的医务人员对心律/心率控制知识掌握度更好。与此类似，刘建新等的研究也显示，深圳经过规培的全科医生在疾病诊疗能力、知识学习能力及医患沟通能力方面均更优秀，且其工作后更易获得单位的编制、外出学习机会和单位重视[15]。而邓姣等对护士的研究也显示，经过规范化培训后的护士理论考核成绩、人际沟通能力以及临床素养都得到了提升，临床实践能力也更强[1]。这些都充分认可了我国医务人员规范化培训政策的成效和意义，对于继续完善规范化培训政策的实施有。
+
+阅读指南和参加培训均为医务人员学习临床知识、提升临床技能的重要方式，也是继续教育的主要途径。赵渊等的研究显示医生对房颤认知不佳可能与指南熟悉程度较低有关，说明指南学习是影响认知的因素之一[17]。
+
+综上所述，上海市奉贤区基层医务人员对房颤相关知识的总体掌握度亟待提高，当前应加强基层医务人员尤其是职称低、未规培的基层医务人员的培训，全科医生以外的其他人员亦需加强房颤相关方面的学习。有关单位可通过组织各种形式的房颤知识培训、指南学习来提升基层医务人员的整体房颤相关知识水平。
+
+# 3.3本文的局限性
+
+本研究也存在一些局限性。一方面，本研究仅比较了基层医务人员中全科医师与非全科医师对房颤的认知，未进一步比较不同岗位的医务人员对房颤认知的差异，故对基层非全科医师岗位的医务人员外推性有限；另一方面，本研究并未调查基层医疗单位是否具备抗凝药物以及相关凝血功能检查，这些因素也可能会影响医务人员的房颤相关知识，后期应进一步完善相关研究。
+
+# 参考文献
+
+[1]吴雪迎,姚可欣,龙德勇,等.心房颤动管理指南的变迁与发展[J].中国医刊,2021,56(2):120-123.
+
+WU X Y,YAO K X,LONG D Y,et al.Changes and development of atrial fibrilation management guidelines[J].Chinese Medical Journal,2021,56(2):120-123. [2]杨荣,刘长明,廖晓阳,等.三级综合医院联合社区医院开展心房颤动综合管理协同路径的探索与思考[J].中国 全科医学,2021,24(1):36-39. YANGR,LIU CM,LIAO X Y,et al.Exploration and thinking on the cooperative path ofcomprehensive management ofatrial fibrillation carriedout bytertiary general hospitals and community hospitals[J].Chinese General Practice,2021,24(1):36-39. [3]冯书梅.心脏瓣膜置换术后抗凝治疗的监测与护理[J].中国实用期刊,2012，39(4):83-84. FENG SM.Monitoring and nursing care of anticoagulant therapy after heart valve replacement[J].China Practical Journal,2012，39(4):83-84. [4]WANG Z W，CHENZ，WANGX，et al.The disease burden of atrial fibrilation in China from a national crosssectional survey [J]．AmJCardiol，2018，122（5）：793-798．DOI:10.1016/j.amjcard.2018.05.015.
+
+[5]张维,吴毓敏,刘千军,等.社区老年非瓣膜性心房颤动患者的抗凝治疗现状[J].国际心血管病杂志,2016,43(03):187-189.
+
+ZHANG W,LIU YM,LIU QJ,etal.Curent status of anticoagulant therapy for elderly patients with nonvalvular atrial fibrillation inthecommunity[J].Intermational Journal of CardiovascularDisease,2O16,43(O3):187-189. [6]张国富.社区老年非瓣膜性心房颤动患者抗凝治疗现状分析[J].中国社区医师， $2 0 1 9 , 3 5 ( 1 8 ) { : } 7 4 { + } 7 6 .$ （204
+
+ZHANGGF.Analysis of current status ofanticoagulant therapyin elderlypatients with nonvalvular atrial fibrillation in community[J].Chinese community physician,2019,35(18):74+76. [7]倪岚,薛锦花,薛峰.上海市浦东新区全科医生心房颤动认识的现状调查[J].中华全科医师杂 志,2018,17(11):895-900.
+
+NI L,XUEJH, XUEF.A surveyof the status quoof general practitioners'understanding of atrial fibrillation in Pudong New Area, Shanghai[J].Chinese Journal of General Practitioners,2O18,17(11):895-900.
+
+[8]李俊,江雁,鲍玥葵,等.家庭医生团队医防融合一体化模式实施效果分析[J].中国公共卫生管理,2021,37(05):574-578.DOl:10.19568/j.cnki.23-1318.2021.05.0003.
+
+LI J,JIANG Y,BAO YK.et al.Analysis ofthe implementationefectofthe integrated mode of medicaland preventive integrationoffamilydoctorteam[J].Chinesepublichealthmanagement,2021,37(05):574- 578.DOl:10.19568/j.cnki.23-1318.2021.05.0003.
+
+[9]程磊,施海燕,周云庆.上海市部分社区全科医生心房颤动临床相关知识调查[J].健康教育与健康促进,2021,16(01):93-96.
+
+CHENG L, SHI HY,ZHOU Y Q.A survey of clinical knowledge of atrial fibrilation among general practitioners in some communities in Shanghai[J].Health Education and Health Promotion,2O21,16(O1):93-96. [10]李波,尹红,姚峰,等.基层医务人员对心房颤动疾病的认知情况调查分析[J].中国心脏起搏与心电生理杂 志,2021,35(01):41-43.
+
+LI B,YIN H,YAO F,etal.Investigationand analysisof basic medical staffscognitionof atrial fibrillation disease[J].Chinese Journal of Cardiac Pacing and Electrophysiology,2O21,35(O1):41-43.
+
+[11] KOTECHAD,BREITHARDTG, CAMMAJ,et al. Integrating new approaches to atrial fibrillation management: the 6th AFNET/EHRA Consensus Conference[J].Europace,2018,20(3)：395-407.DOI: 10.1093/europace/eux318.
+
+[12] KIRCHHOFP，BENUSSIS，KOTECHAD，etal．2016ESC guidelines forthe managementofatrialfibrilation developed in collaboration with EACTS [J].Eur Heart J，201637（38） :2893-2962.
+
+[13]龚怡琳,曾琳,刘辉,等.我院 2006-2018年临床医师职称晋升情况分析[J].中国医院管理,2019,39(11):51-53.
+
+GONGYL,ZENG L,LIU H,et al.Analysis of the promotion of clinician titles inour hospital from 2006 to 2018[J].Chinese Hospital Management,2019,39(11):51-53. [14]叶雅雯,王丽姿,张琼霄,等.护士对心房颤动脑卒中预防认知的多中心调查及对策分析[J].护理研 究,2018,32(11):1797-1802.
+
+YE Y W, WANG L Z,ZHANG QX,et al.A multi-center survey and countermeasure analysis of nurses' awareness of atrial fibrillation and stroke prevention[J].Nursing Research,2018,32(11):1797-1802.
+
+[15]刘建新,许幸之,常园园,等.深圳市全科医师规范化培训现状及对策研究[J].中国全科医学,2021,24(04):484-489.
+
+LIU JX, XU X Z, CHANG Y Y,et al.Research on the Currnt Situation and Countermeasures of Standardized Training of General Practitioners in Shenzhen[J].Chinese General Practice,2O21,24(O4):484-489.
+
+[16]邓姣,周群香,唐莉,等.基于护理教育程序的中医医院规范化培训的践行与效果评价[J].中医药导   
+报,2021,27(09):224-228. DENG J, ZHOU Q X,TANGL,et al.Practice and effect evaluation of standardized training in traditional Chinese   
+medicine hospitals based on nursing education procedures[J].Chinese Medicine Herald,2O21,27(O9):224-228.   
+[17]赵渊,杨松生,陈宗宁,等.丽江市心房颤动患者的治疗现状调查[J].中国医药指南,2010,8(17):148-150. ZHAO Y,YANG S S,CHENZN,etal.Investigation onthe treatment status of patients with atrial fibrillation in   
+Lijiang City[J].Chinese Medicine Guide,2010.8(17):148-150.

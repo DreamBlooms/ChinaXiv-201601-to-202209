@@ -1,0 +1,272 @@
+# 多目标追踪中基于运动信息的分组效应
+
+胡路明」苏晶」魏柳青」张学民1,2(北京师范大学心理学部，应用实验心理北京市重点实验室，心理学国家级实验教学示范中心(北京师范大学);²北京师范大学认知神经科学与学习国家重点实验室，北京 100875)
+
+摘要本研究旨在探讨运动信息对多目标追踪的影响，具体为考察多目标追踪中是否存在基于运动信息的分组效应，以及不同类型表面特征(颜色和形状)对这一效应的影响。实验1 发现多目标追踪中存在基于运动信息的分组效应，并且这一分组效应是自动化的。实验 2和实验3分别在不同颜色和不同形状组合条件下考察了基于运动信息的分组效应的稳定性，结果都表明不同表面特征的组合不会干扰基于运动信息的分组效应的形成，但其效应量都因表面特征的出现而缩减。整体而言，多目标追踪中存在基于运动信息的自动化分组效应，并且这一效应是格式塔法则中共同命运律的具体表现，能稳定存在于不同表面特征组合之间。
+
+关键词多目标追踪；共同命运；运动信息；分组效应
+
+分类号 B842
+
+# 1前言
+
+人们在生活中常常需要利用动态视觉来追踪和观察周边世界，比如海滩救生员需要时刻巡视海滩人群的状况，足球运动员需要时刻注意场上人员和足球的方位等。动态视觉追踪能力比静态注意知觉更为复杂，更为生态化，有利于更好地加工和理解动态客观世界。20 世纪80 年代,Pylyshyn 和 Storm (1988)提出了多目标追踪(Multiple Object Tracking,MOT)任务范式，系统地探讨了人类的这一动态视觉能力。多目标追踪任务也从此作为反映人类在时空变化场景中获取客体的能力的典型任务。经过近30年的研究发现，普通人一般最多能够同时追踪4\~5个目标，即对应同等数量的索引标签(index tag)(Pylyshyn& Storm,1988)，但这一容量仍会受到大量相关因素的影响，如目标或非目标的数量(Oksama&Hyona,2004；张学民，鲁学明，魏柳青,2011)，物体运动的速度(Feria,2013)，运动轨迹(Luu& Howe,2015)，运动所参考的框架(Huff,Meyerhoff,Papenmeier,& Jahn,2010)，空间间隔(Holcombe,Chen，&
+
+Howe，2014)，空间对称特征(Wang，Zhang,Li,& Lyu,2016)，表面特征(Makovski& Jiang,$2 0 0 9 \mathrm { a }$ ；雷寰宇，魏柳青，吕创，张学民，闫晓倩，2016)，范畴特征(Wei，Zhang，Chuang，&Zhen,2016)，身份变换(Lyu,Hu,Wei,Zhang,& Talhelm,2015；胡路明，吕创，张学民，魏柳青,2018)等因素。
+
+# 1.1多目标追踪中运动信息的作用
+
+尽管多目标追踪表现受到诸多因素的影响，但运动信息(motion information)相对于其他特征而言更为基础和关键。这一方面体现在典型的多目标追踪任务中，当所有运动客体都相同(Pylyshyn,2004; Schol,Pylyshyn,&Feldman,2001)，观察者无法利用表面特征来辅助追踪,但仍能够很好地持续保持对多个目标的同时追踪。另一方面体现在，即使表面特征时刻变化(Makovski& Jiang,2009b；胡路明等，2018)或被遮挡(Franconeri,Pylyshyn,& Scholl,2012;Scholl&Pylyshyn，1999)时，观察者无法有效利用表面特征来辅助追踪，也仍能够依靠时空特性来建立客体连续性，保持对多个运动客体的同时追踪。因此，多目标追踪中视觉系统对运动信息的依赖性相对较强(Keane&Pylyshyn,2006；张学民，姚林，鲁学明,2008)。
+
+运动信息是关于当前客体运动方式的问题(Fencsik,Klieger，&Horowitz,2007)，可以包含位置信息，速率，方向等综合性的信息(Suganuma&Yokosawa,2006)。早期,Yantis (1992)Scholl和Pylyshyn (1999)等发现当视觉客体消失或经过遮挡时，仍能够被当做连续的存在而被追踪，即视觉客体性(objecthood)仍被保持(Scholl& Pylyshyn,1999;Yantis,1992)。即使消失时间延长至 $1 5 0 { \sim } 9 0 0 ~ \mathrm { m s }$ 之间，追踪成绩也并无差异(Keane & Pylyshyn,2006)。Horowitz,Birnkrant,Fencsik,Tran 和Wolfe (2006)在考察目标复原的原因时推测，这种目标复原能力主要是因为目标刺激突然从视野消失时触发了一种离线存储，视觉系统把刺激消失时的目标信息保存在该离线存储记忆(off-line memory)中(Horowitzet al.,2006)。当目标再现时，观察者就可以把当前画面与存储的信息进行匹配来进行目标复原。对于这一假设的离线存储机制所储存的信息，Keane 和 Pylyshyn (2006）认为主要为目标的位置信息，而 Fencsik 等(2007)则进一步用实验证明除了目标位置信息，还应涵盖目标运动方向及轨迹信息(Fencsik,Horowitz, Kliege,& Wolf,2004; Fencsik et al., 2007)。
+
+运动信息除了能够辅助目标复原之外，还能够作为辅助线索来影响多目标追踪表现。首先,Horowitz和Cohen (2010)在一项典型MOT任务中要求观察者在运动阶段结束后判断目标的运动方向，结果显示观察者能够准确的予以识别。其次,StClair,Huff 和 Seiffert (2010)同样利用典型 MOT 范式发现，在运动客体连续可见地实时运动中，纹理背景的运动信息对多目标追踪成绩有显著影响(StClair etal.,2010)。相比于静止的纹理背景而言，与目标运动方向相反的纹理背景运动会阻碍多目标追踪表现，而与目标运动方向相同的纹理背景运动会促进多目标追踪表现。由此可推测，运动客体的运动信息能够被用于促进多目标追踪表现。第三，当运动客体直线运动且其位置可被预测时，观察者能够在一定程度上利用运动信息来辅助追踪。而当运动客体随机变化方向且位置不可预测时，观察者则无法利用运动信息(Howe&Holcombe,2012a)。
+
+运动信息能够帮助建立客体连续性，但其能否促进多目标追踪表现还在于其是否能够被有效组织和识别。当运动信息无规则的随机分布于多目标运动中，运动信息的利用程度就低，如典型的多目标追踪任务。而当运动信息组织程度较高或可识别性较高时，运动信息的促进效应则相对明显，如可预测的运动位置和无方向信息冲突的多目标运动。Suganuma 和Yokosawa(2006)的一项研究着重探讨了运动信息的组织形式对多目标追踪表现的影响。该研究选择了四种不同的运动轨迹作为实验条件(参见图1所示)，即追赶运动条件(the chasecondition)，平行运动条件(the parallel condition)，追踪运动条件(the trail condition)，以及基线随机运动条件(the random condition)。其中，追赶运动条件是指一个目标和一个非目标先相距3.6 度视角的距离，之后这两者中的任意一个先运动(即被追赶客体，或引领客体)，另一个随后与被追赶的客体保持同一方向和速度运动(即追赶客体，或被引领客体)。前后两个运动客体的运动方向与两者的圆心连线方向相同。平行运动条件在初始阶段与追赶运动条件相同，先相隔一定距离，然后两个对象先后同向运动，但前后对象在同向方位上相差至少 $3 0 ^ { \circ }$ ，即相互平行运动，但路径不重叠。追踪运动条件与追赶运动条件相同，但追赶运动条件的引领对象(leading item)其方向和速度是固定不变的，而追踪运动条件的引领对象允许随机变化方向和速度。随机运动条件则与典型MOT任务一致，作为实验的基线条件。
+
+经过逐一对比发现，追赶运动条件的成绩显著低于基线随机运动条件，即多目标追踪表现受客体运动轨迹的影响。此外，平行运动条件和追踪运动条件均显著低于基线随机运动条件，但均与追赶运动条件无显著差异，分别说明共享运动方向和共享运动轨迹都将降低多目标追踪表现。因此，当目标与非目标共享一定的运动信息，如方向(direction)或轨迹(trajectory)等时，将会损害多目标追踪表现，即使观察者并没有成功觉察到这一关系(Suganuma &Yokosawa,2006)。这一研究也暗示着即使在缺乏其他有效分组线索时，不同类型的共同运动信息似乎也能够作为整体客体表征来形成分组。但该研究主要是利用分组假设来解释共同运动信息所产生的效应，即高水平的知觉组织能够利用共同运动信息来维持标签-目标(tag-target)的更新，是从现象到理论解释的过程，并未直接阐述运动信息本身作为一类特征在不同情形下形成分组时对多目标追踪表现的影响。也即，该研究并非直接从理论延展到不同现象来探讨运动信息这一时空特征。具体而言，运动信息特征是否能类似于其他表面特征(如颜色，形状等)在目标内部和目标与非目标间都形成分组，以及这两类分组形成后能否对多目标追踪表现产生不同的影响。相对而言，本研究所探讨的内容较 Suganuma 和 Yokosawa(2006)的研究内容更为直接和具体。
+
+![](images/9719656c8d13eb4ee490e06cad762a793b80201f471bfe4e404db04ba2507de2.jpg)  
+图1三种运动轨迹图(Suganuma& Yokosawa,2006)
+
+注：a.追赶运动;b.平行运动;c.追踪运动。虚线表示实心客体的运动轨迹，而实线表示空心客体的运动轨迹。其中，虚线和实线轨迹加粗部分是运动匹配的关键阶段。上述图像的运动位置截取自关键阶段的第一帧画面。注意，正式实验中出现的是8或10个相同客体，不出现指示线。
+
+# 1.2多目标追踪中的分组效应
+
+Yantis (1992)首次报告了分组效应(Grouping)对多目标追踪表现的促进作用，即观察者能够在高层认知中自上而下(top-down)地形成虚拟多边形(polygon)来维持多个追踪目标。具体而言，在多目标追踪中，观察者先受刺激驱动(stimulus-driven)而自动形成分组(groupformation)，随后受自上而下的目标驱动来进行分组维持(group maintenance)。Scholl 等(2001)则通过目标合并(target merging)的方法，即通过可见或不可见的线条将一个目标和一个非目标相连接，发现目标合并技术会使得合并后的目标和非目标被自动视为一个整体客体，增大追踪任务难度。随后，一系列的多目标追踪研究还表明，多目标追踪中的运动客体能够基于不同的特性来形成知觉分组，如相似性(Feria,2012;Howe & Holcombe,2012b;Makovski &Jiang，2009a，2009b)，插补轮廓(Keane，Mettler，Tsoi，& Kellman，2011)，立体景深(Stereodepth)和对比度(Contrast polarity)(Erlikhman,Keane,Metter, Horowitz,& Kellman,2013)，对称规则(Symmetry regularity)(Wang et al.,2016)，概念范畴(Wei et al.,2016)，以及组合特征(Erlikhman et al.,2013;Howe &Holcombe,2012b)等特征。
+
+Makovski和Jiang (2009a,2009b)的研究表明目标和非目标共享颜色特征时，将会损害注意追踪。Feria(2012)的研究则表明当非目标在形状、颜色或静止状态上区别于目标时，追踪表现的损害要比非目标与目标一致时更小。Howe 和Holcombe (2012b)的研究进一步表明在非目标不与目标共享组合特征时，组合特征同样能够促进多目标追踪表现。Keane 等(2011)发现除表面特征外，插补轮廓特征也能够绑定目标和非目标，继而造成追踪表现受损，并且这一绑定是自动化的。为了验证这一自动化分组效应是独特还是普遍存在的，Erlikhman 等(2013)更深入地对8种特征的分组效应进行了综合考察，包括颜色，对比度，朝向，大小，形状，立体景深，插补，特征组合(颜色、形状、大小)，结果发现大部分特征形成的目标内部分组(inter-target grouping)都能够显著提高追踪表现，除了基于朝向和插补特征的分组。基于特定特征形成目标与非目标分组(target-distractor grouping)时，却会显著损害追踪表现，包括颜色，大小，形状，特征组合和插补。因此，绝大多数特征都能产生基于特征相似性的分组效应，即使这些特征与当前任务无关或相反，并且在动态追踪中，基于特征相似性的分组效应似乎更倾向于自动和平行加工。Wang 等(2016)最近还发现规则特征，如空间对称，也能够影响多目标追踪表现。当目标与目标处于对称位置时，多目标追踪表现提高，反之，多目标追踪表现下降。此外，基于对称的分组效应还能够与基于颜色或形状的分组效应相叠加，更进一步地提高多目标追踪表现。这说明两种不同类型特征的分组效应间能够相互不影响，并同时独立发挥作用。
+
+上述研究发现了大量的基于不同表面特征的分组效应，但对于基础的运动及时空特征属性是否也会产生类似的分组效应，仍有待进一步详细研究。运动与时空特征在建立客体连续性上有着重要作用，不同类型的运动分组效应理论上将影响到建立客体连续性的过程。因此，本实验假设如果运动信息能够辅助观察者在目标群内形成分组，那么这一分组效应将更有利于建立客体连续性。反之，若运动信息辅助观察者在目标和非目标间形成分组，那么这一分组效应将更可能干扰客体连续性的建立。这一方面可以探讨是否存在基于运动信息的分组效应，另一方面还可考察基于运动信息的分组效应是否倾向于自动加工。综上所述，当前研究的主要任务旨在探讨是否存在目标内部和目标与非目标间的基于运动信息的分组效应，以及这一分组效应是自下而上的自动加工还是自上而下的自主加工。实验1中通过设置三种不同的运动信息条件，分别对应目标内配对运动，目标与非目标间配对运动和随机运动(基线条件)，来考察这一分组效应。根据 Keane 等(2011)和 Erlikhman 等(2013)的研究可知，某一特征是否能够在多目标追踪过程中形成自动化分组需要满足两个条件。第一，目标内部形成分组时其成绩要好于随机运动状态的成绩。第二，目标与非目标间形成分组时其成绩要差于随机运动状态的成绩。满足条件一则说明该特征能够有效形成知觉分组，即观察者能够根据该特征来有效区分目标与非目标，提高追踪成绩。但满足条件一并非意味着该特征是自动化加工，也可能是自主化加工。因此，还需要进一步满足条件二。如果条件二也被满足则说明这一特征不仅能够有效区分目标和非目标，也能够有效干扰目标的视觉客体独立性，妨碍目标从非目标中被区分出来，并且这一效应不是观察者自主抑制就能改变，而是自下而上的自动化加工，是不可避免地会发生的视觉混淆。因此，在实验1中倘若目标内配对运动和目标与非目标间配对运动的追踪成绩都显著不同于随机运动，则说明配对运动能对多目标追踪产生影响，即观察者能够利用运动信息来形成分组。并且，如果目标内配对运动时的追踪成绩显著高于随机运动且目标与非目标间配对运动时的追踪成绩显著低于随机运动，那么说明这一分组效应还支持自下而上的自动加工。
+
+除此之外，考虑到日常生活中大量的运动客体都对应有各自的表面特征信息，当前研究还将在带有表面特征的多目标追踪任务中进一步深入考察基于运动信息的分组效应是否能稳定存在，即表面特征是否会影响基于运动信息的分组效应的形成。具体而言，在实验1中观察者可利用的表面特征信息都是一致的，也即观察者主要依靠运动信息来维持多目标追踪。而当出现表面特征信息时，运动信息的利用程度是否会受到影响呢？Pylyshyn (2004)认为表面特征对多目标追踪的作用较小，而 Makovski 和Jiang (2009b)与Feria (2012)等则认为表面特征在多目标追踪中起着重要作用。因此，考察不同表面特征下的基于运动信息的分组效应具有十分重要的理论和现实意义。在实验2和实验3中通过分别操纵不同颜色和不同形状组合特征来探讨基于运动信息的分组效应的稳定性，包括同一特征条件(Identical)，区别特征条件(Distinct)和混合特征条件(Mixed)三种组合特征。如果不同颜色和不同形状特征条件下都存在基于运动信息的分组效应，那么就有足够的证据支持基于运动信息的分组效应稳定存在于多目标追踪中。整体而言，当前研究对于理解多目标追踪中运动信息的作用有比较重要的意义，也有利于更进一步理解知觉分组效应对多目标追踪的影响。
+
+# 2实验1：基于运动信息的分组效应对多目标追踪表现的影响
+
+运动信息在多目标追踪中被广泛使用，如目标复原和辅助追踪，但其利用程度因组织形式的不同有所差异。此外，分组效应虽已被证明广泛存在于大量表面特征中，但就基础性的时空特征而言，尚未有完整的直接证据表明基于运动信息的分组效应的存在，以及这一效应是否是由自下而上的自动加工驱动。多目标追踪中的自动化的分组效应实质是指，目标内部分组时促进多目标追踪表现，同时目标与非目标分组时损害多目标追踪表现(Erlikhman，etal.,2013; Keane,et al.,2011;Wang et al.,2016)。因此，本实验将通过考察目标内部的运动分组和目标与非目标间的运动分组两种条件与随机运动条件的多目标追踪表现的差异，来证明基于运动信息的分组效应的存在及其自动化加工特性。
+
+# 2.1被试
+
+招募北京地区高校16名被试。其中，男性6人，女性10人，平均年龄 $2 1 . 3 8 { \pm } 2 . 1 7$ 岁。所有被试裸视或矫正后视力正常。实验前签署知情同意书，实验后给与相应实验酬劳。
+
+# 2.2 仪器和材料
+
+实验显示仪器为17英寸CRT显示屏，屏幕分辨率为 $1 0 2 4 \times 7 6 8$ pixel ( $\mathrm { 1 ~ p i x e l = 0 . 0 3 2 ~ c m } )$ 垂直刷新频率为 $8 5 \mathrm { H z }$ 。实验程序采用基于Matlab 2012b(www.mathworks.com)的心理物理工具箱Psychtoolbox 3 (Brainard,1997; Pelli,1997)编写。
+
+正式实验时，被试坐于电脑屏幕前 $5 7 \mathrm { c m }$ 左右的位置。刺激呈现区域为屏幕中央 $9 0 0 \times 6 7 5$ pixel $( 3 6 ^ { \circ } \times 2 7 ^ { \circ } )$ )的黑色[RGB(0,0,0)]方形框。背景和运动区域均采用自然灰度[RGB(128,128,128)]填充。追踪对象为12个直径30 pixel的黑色圆环(宽8 pixel)，其中6个为目标,6个为非目标。实验开始时，随机分配追踪对象的初始位置，平均运动速度为 $8 . 5 \%$ 。运动过程中不随机改变方向，碰到四周外壁后反弹，但相互间接触不反弹。
+
+# 2.3 实验设计
+
+实验设计采用单因素三水平被试内设计(见图2)。自变量为追踪对象的运动轨迹配对形式。条件一为目标与目标配对追赶运动(目标与目标配对条件)，一个目标在前面运动，同时另一个目标紧随其后。条件二为目标与非目标配对追赶运动(目标与非目标配对条件)，一个目标在前面运动，同时另一个非目标紧随其后。条件三为控制条件(随机无配对条件)，目标与非目标相互独立且随机运动，与典型MOT任务一致。因变量为追踪正确率。
+
+追赶运动开始时即进入配对状态，前后运动对象相互间隔3倍圆心距(90 pixel，3.6degree)。之后，追赶目标紧随被追赶目标的运动轨迹运动。追赶目标和被追赶目标的运动速度以及运动方向一致。两者的运动方向指向两者的圆心连线。其中，在前面运动的对象碰到黑色边框时反弹，后面追赶的对象沿着前面对象的轨迹在相同位置发生反弹，然后继续追赶前面的对象。
+
+![](images/aa4cef097141cb1109ec4134d7f9a3767903db673a485ab40bccf8366c066493.jpg)  
+图2三种实验条件示意图
+
+注：红色虚线圆环内为追踪目标。虚线箭头代表配对运动关系，每一配对运动关系中箭头指向的客体为引领者，箭头起始处的客体为被引领者。被引领的客体与引领客体的运动轨迹一致，呈现出追赶的状态。正式运动时红色虚线圆环和虚线箭头均不显示
+
+# 2.4 实验程序
+
+实验前，被试坐在距离屏幕显示器前约57cm的位置，以保证每个像素对应0.04度视角。实验开始时，首先屏幕上会自动呈现指导语，在确认被试了解当前任务后，按空格键继续。之后，屏幕上将同时呈现12个直径30 pixel的圆环，其中6个圆环被选为目标，其外周将伴随出现直径40 pixel(宽4 pixel)的红色圆环，并闪烁4次，持续 $2 0 0 0 ~ \mathrm { { m s } }$ 。闪烁结束后，仍保持标记状态 $1 0 0 0 ~ \mathrm { { m s } }$ (即红色圆环持续呈现在追踪对象外周)。标记阶段结束后，所有追踪对象开始进入运动阶段。其中，配对追赶运动中，前后配对的圆心距为90 pixel(即三倍于圆环直径)。配对圆环按照相同的方向和速度运动(看起来一个对象追着另外一个对象运动)，在前面运动的对象碰到边界黑色边框时反弹，后面追赶的对象沿着前面对象的轨迹在同样位置反弹，然后继续跟随前面对象运动。运动过程中圆环之间无碰撞反弹，可遮挡。无配对的随机运动中，所有圆环随机独立的运动，相互之间在圆心距为三倍圆环直径的位置互斥反弹。配对运动和无配对随机运动这两类条件在遮挡设置上有所不同。前者设置中允许遮挡是为了避免碰撞反弹的现象大面积出现，影响配对追踪效果。而后者设置为碰撞反弹无遮挡是考虑到配对追赶运动时前后运动客体间的间距为三倍客体直径，即一半的运动客体处于相互无接触的状态。为了抵消配对运动中这一现象可能带来的增益效应，故将随机运动设置为不接触提前反弹的状态。这一设置将更为保守，更不易造成结果的假阳性。整个运动阶段持续10s，并且从运动开始时即直接进入配对状态。为了防止被试在配对追赶运动中仅依靠被追赶对象的信息而忽视追赶对象的信息，所有对象在配对追赶运动结束前1s时，解除配对关系，进入随机运动状态。运动阶段结束后，要求被试用鼠标选出所有目标，被选择的圆环外周将出现直径40pixel的红色圆环，可以更改选择。选择完全部的6个目标后，按空格键进入下一试次。
+
+在正式实验前，被试需练习至少4试次，并且给予正误反馈，直至被试清楚实验任务为止。三种实验条件混合随机呈现，每种条件进行20试次，共计60试次。整个实验时间持续约20分钟。实验程序将自动记录实验反应数据。
+
+# 2.5 结果与分析
+
+经重复测量方差分析发现，不同运动方式之间的差异显著(见图3), $F ( 2 , 3 0 ) = 2 2$ ， $p \ <$ 0.001, ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } = 0 . 6$ 。事后两两检验(Bonferroni 校正)结果进一步表明，目标与目标配对条件显著高于目标与非目标配对条件, $t ( 1 5 ) = 7 . 5 1$ ， $p \ < \ 0 . 0 0 1$ ， Cohen's $d = 1 . 8 8$ ，和随机无配对条件，$t ( 1 5 ) = 3 . 2 3$ ， $p = 0 . 0 0 6$ ,Cohen's $d = 0 . 8 1$ 。并且，目标与非目标配对条件还显著低于随机无配对条件, $t ( 1 5 ) = - 3 . 0 6$ $p = 0 . 0 0 8$ , Cohen's $d = 0 . 7 6$ 。
+
+![](images/41fcc235ab7119902bbc868a4625519bb452631b9cb5bb4e0418f58f77963148.jpg)  
+图3三种运动条件的追踪正确率(误差线为 $+ 1$ SE)
+
+# 2.6 小结
+
+实验1发现，目标与目标配对条件的追踪准确率最高，随机无配对条件其次，目标与非目标配对条件的追踪准确率最低。即相对于基线条件，非目标与目标共享运动信息时，会损害追踪成绩，这与前人研究一致(Makovski& Jiang,2009b; Suganuma ＆ Yokosawa,2006)。而相对于基线条件，当目标与目标共享运动信息时，能够提高追踪成绩(Howe& Holcombe,2012b)。即基于运动轨迹的分组效应也是自动的(Erlikhman,etal.,2013)。这也说明，运动信息和表面特征，如颜色，大小，形状等一致，也是形成分组效应的重要因素。
+
+# 3实验2：多目标追踪中颜色特征对运动信息分组效应的影响
+
+实验1发现多目标追踪中存在基于运动信息的分组效应，并且这一分组效应是自动化加工的。在实验1中，所有运动客体的表面特征都是相同的，即具有同一颜色和同一形状。然而，在现实世界中，运动客体都带有一定的表面特征。那么，基于运动信息的分组效应是否稳定存在于不同的表面特征之下。具体而言，不同的表面特征是否会影响基于运动信息的分组效应的形成。基于此，本实验选取颜色特征作为表面特征，将表面特征组合分为三类情形，分别是目标与非目标颜色相同组(颜色相同条件)，目标与非目标颜色不同组(颜色不同条件),目标与非目标颜色混合组(颜色混合条件)。在上述三组表面特征下考察基于运动信息的分组效应是否仍稳定存在。
+
+# 3.1被试
+
+招募北京地区高校18名被试。其中，男性7人，女性11人，平均年龄 $2 1 . 2 5 { \scriptstyle \pm 1 . 5 2 }$ 岁。所有
+
+被试裸视或矫正后视力正常。实验前签署知情同意书，实验后给与相应实验酬劳。
+
+# 3.2 仪器与材料
+
+实验仪器和程序编写同实验1。实验材料为12个直径为30pixel的实心圆，其中6个为目标，6个为非目标。实心圆内填充的颜色种类如下(参见图4)，绿色[RGB (0,255,0)]，品红[RGB(255,0,255)]，蓝绿色[RGB (0,255,255)]，蓝色[RGB (0,0,255)]，红色[RGB (255,0,0)]，橙色[RGB(255,165,0)]，深粉色[RGB (255,20,147)]。目标和非目标颜色均从以上颜色中随机选择。运动物体的平均运动速度为 $1 0 . 2 ^ { \circ } / \mathrm { s }$ 。其余参数同实验1。
+
+![](images/08c5f5264e9f0ec6d14720805a0fbdc32598cf4474dd3507836b21de76d896b5.jpg)  
+图4实验备选颜色素材(彩图见电子版)
+
+# 3.3 实验设计
+
+本实验为2(基于运动信息分组：目标与目标配对条件和目标与非目标配对条件) $| \times 3 |$ （基于颜色分组：颜色相同条件，颜色不同条件，颜色混合条件)的两因素被试内设计。实验组合设计如表1和图5所示。
+
+表1实验2实验设计说明  
+
+<html><body><table><tr><td>条件命名</td><td>运动分组</td><td>颜色分组</td><td>组合条件解释</td></tr><tr><td>组合1</td><td>目标与目标配对</td><td>颜色相同</td><td>目标与目标配对追赶运动，且目标和非目标为同一颜色</td></tr><tr><td>组合2</td><td>目标与目标配对</td><td>颜色不同</td><td>目标与目标配对追赶运动，且目标为一种颜色，非目标为另一种颜色</td></tr><tr><td>组合3</td><td>目标与目标配对</td><td>颜色混合</td><td>目标与目标配对追赶运动，且一半目标和一半非目标为同一种颜色，另一 半目标和另一半非目标为另一种颜色</td></tr><tr><td>组合4</td><td>目标与非目标配对</td><td>颜色相同</td><td>非目标与目标配对追赶运动，且目标和非目标为同一颜色</td></tr><tr><td>组合5</td><td>目标与非目标配对</td><td>颜色不同</td><td>非目标与目标配对追赶运动，且目标为一种颜色，非目标为另一种颜色</td></tr><tr><td>组合6</td><td>目标与非目标配对</td><td>颜色混合</td><td>非目标与目标配对追赶运动，且一半目标和一半非目标为同一种颜色，另 一半目标和另一半非目标为另一种颜色</td></tr></table></body></html>
+
+![](images/8ba4e475ffe388dfdbaebda2850df0bf2a8304568ebfa47233478dd7d3d5eff9.jpg)
+
+图5实验条件示意图(颜色 $^ +$ 运动信息，彩图见电子版。虚线正方形方框内的圆形被标记为追踪目标，其余为分心物。正式实验中的标记阶段采用红色圆环进行标记，此处仅为示意。虚线箭头表示配对运动关系，每一配对运动关系中箭头指向的客体为引领者，箭头起始处的客体为被引领者。被引领的客体与引领客体的运动轨迹一致，呈现出追赶的状态。正式运动时虚线方框和虚线箭头均不显示)
+
+# 3.4 实验程序
+
+实验程序和参数基本同实验1。但每一试次都增加颜色作为表面特征，但在运动结束时采用相同大小的黑色实心圆(30pixel)进行遮蔽，避免被试依赖记忆策略来进行选择。参与者先完成三种颜色组合下目标与目标配对条件，再完成三种颜色组合下目标与非目标配对条件。在每种追赶条件中，三种颜色组合均随机混合出现。每种组合条件重复20试次，共完成120试次。整个实验时间持续约40分钟。实验程序将自动记录实验反应数据。
+
+# 3.5 结果与分析
+
+不同运动信息和颜色组合条件的追踪准确率如图6所示。经重复测量方差分析可知，基于运动信息分组的主效应显著, $F ( 1 , 1 7 ) = 2 8 . 7 6$ $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } _ { \mathtt { p } } } ^ { 2 } = 0 . 6 3$ 。这表明，整体上，目标与目标配对条件的追踪准确率要显著高于目标与非目标配对条件。基于颜色分组的主效应显著， $F ( 1 . 3 7 , 2 3 . 3 7 ) = 2 1 3 . 8 6 , p < 0 . 0 0 1$ ${ \mathfrak { \eta } } _ { \mathrm { p } } ^ { 2 } = 0 . 9 3$ (Greenhouse-Geisser校正)。这表明，在实验中不同的颜色分组处理是有效的。两者的交互作用同样显著, $F ( 2 , 3 4 ) = 9 . 4 4 \$ ， $p \ < \ 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } =$ 0.36。这表明，不同颜色特征分组下的目标与目标配对条件和目标与非目标配对条件的追踪准确率差异是不相同的。
+
+![](images/6e6b6effa319333cd91e0a80490ad80d0072b86bac3eb61f7839f8024bda706a.jpg)  
+图6三种颜色分组条件下基于运动分组的追踪准确率(误差线为 $\pm 1 \mathrm { S E }$ 0
+
+进一步在不同颜色分组条件下进行简单效应检验(Bonferroni 校正)发现，目标与非目标颜色相同条件 $( t ( 1 7 ) = 6 . 6 5$ $p < 0 . 0 0 1$ , Cohen's $d = 1 . 5 7 \AA$ ，目标与非目标颜色不同条件 $( t ( 1 7 ) =$ 2.72, $p = 0 . 0 1 5$ ，Cohen's $d = 0 . 6 4 )$ ，和目标与非目标颜色混合条件 $( t ( 1 7 ) = 2 . 1 9$ ， $p = 0 . 0 4 3$ Cohen's $d = 0 . 5 2$ )下目标与目标配对条件的多目标追踪准确率均显著高于目标与非目标配对条件。这表明，基于运动信息的分组效应稳定存在于不同颜色特征分组中。另一方面，在不同运动信息分组条件下进行简单效应检验(Bonferroni校正)发现，三种颜色分组条件在目标与目标配对条件中显著, $F ( 2 , 1 6 ) = 9 3 . 3 6 , p < 0 . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 9 2 ,$ 。具体为目标与非目标颜色不同条件显著高于目标与非目标颜色相同条件 $( t ( 1 7 ) = 1 2 . 3 9$ $p < 0 . 0 0 1$ ， Cohen's $d = 2 . 9 2$ 和目标与非目标颜色混合条件 $( t ( 1 7 ) = 1 4 . 0 8 , p < 0 . 0 0 1$ , Cohen's $d = 3 . 3 2 { \rangle }$ 。目标与非目标颜色混合条件显著低于目标与非目标颜色相同条件, $t ( 1 7 ) = - 2 . 9$ $p = 0 . 0 3$ ,Cohen's $d = 0 . 6 8$ 。三种颜色分组条件在目标与非目标配对条件中也显著， $F ( 2 , 1 6 ) = 1 7 3 . 3 6$ $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 9 6$ 。具体为目标与非目标颜色不同条件显著高于目标与非目标颜色相同条件 $( t ( 1 7 ) = 1 8 . 7 9$ ， $p ~ < ~ 0 . 0 0 1$ Cohen's $d = 4 . 4 3 ) d$ 和目标与非目标颜色混合条件 $( t ( 1 7 ) = 1 3 . 1 3$ $p < 0 . 0 0 1$ ,Cohen's $d = 3 . 1$ 。目标与非目标颜色混合条件与目标与非目标颜色相同条件无显著差异, $t ( 1 7 ) = - 2 . 1 5$ $p = 0 . 1 3 9$ Cohen's $d = - 0 . 5 1$ 。这表明，特征组合条件下，目标与非目标颜色不同条件也能够显著促进多目标追踪表现，而目标与非目标颜色混合条件不能促进，甚至还会损害多目标追踪表现。即在一定程度上，颜色特征和运动信息能够被同时利用。
+
+此外，为进一步分析颜色特征对运动信息的影响效应，将三种颜色分组条件下的目标与目标配对条件的追踪成绩分别减去其对应的目标与非目标配对条件的追踪成绩，得到三种颜色分组条件下的目标与目标配对条件-目标与非目标配对条件的增益量分别为 $1 0 . 1 \%$ $3 . 6 \%$ ， $3 . 4 \%$ 。以目标与非目标颜色相同条件下的增益量为基线，将另两种增益量与其进行配对样本 $t$ 检验分析发现，目标与非目标颜色不同条件 $( t ( 1 7 ) = - 3 . 7 3$ ， $p = 0 . 0 0 2$ ， Cohen's $d =$ -0.88)和目标与非目标颜色混合条件 $( t ( 1 7 ) = - 4 . 2 6$ $p = 0 . 0 0 1$ , Cohen's $d = - 1$ )的增益量均显著低于目标与非目标颜色相同条件。但目标与非目标颜色不同条件和目标与非目标颜色混合条件间的增益量无显著差异, $t ( 1 7 ) = 0 . 1$ $p = 0 . 9 2 4$ , Cohen's $d = 0 . 0 2$ 。这说明，基于运动信息的分组效应虽然稳定存在于不同颜色特征分组中，但其效应量却因表面特征而受到显著缩减。在颜色分组占优势的情况下，如目标与非目标颜色不同条件，因受颜色分组增益而缩减。在颜色分组处劣势的情况下，如目标与非目标颜色混合条件，因受颜色混合干扰而缩减。
+
+# 3.6小结
+
+在不同颜色组合条件中，目标与目标配对均比目标与非目标配对更有利于追踪，这表明基于运动信息的分组效应是稳定的。基于颜色的分组效应并未干扰基于运动信息的分组效应的形成。但和目标与非目标颜色相同时相比，颜色特征的存在显著缩减了目标与目标配对条件和目标与非目标配对条件间的差异量。即使两者的缩减原因有所不同，前者因增益缩减，后者因干扰缩减。因此，这一方面说明，基于运动信息的分组效应具有稳定性，即使存在基于颜色的分组效应也仍能发挥作用。另一方面还说明，虽然基于颜色的分组效应没有干扰基于运动信息的分组效应的形成，但是基于运动信息的分组效应仍受到了颜色特征的影响。
+
+# 4实验3：多目标追踪中形状特征对运动信息分组效应的影响
+
+实验2考察了不同颜色特征组合下的基于运动信息的分组效应，结果仍旧发现目标内部分组的多目标追踪表现优于目标与非目标间分组。但颜色特征仅是其中一种表面特征，需要增加形状特征加以进一步佐证。形状特征是和颜色特征一样广泛存在于客体表面的外在特征，但形状特征和颜色特征的认知加工是有所差异的。因此，实验3将进一步在不同形状分组的条件下考察基于运动信息的分组效应。
+
+# 4.1被试
+
+招募北京地区高校40名被试,(其中，男性11人，女性29人，平均年龄 $2 2 . 3 8 { \pm } 2 . 8 9$ 岁)。所有被试裸视或矫正后视力正常。实验前签署知情同意书，实验后给与相应实验酬劳。
+
+# 4.2 仪器与材料
+
+实验仪器和程序平台同实验2。但实验材料不再固定为实心圆形，而是根据形状特征分别采用圆、等腰三角形、正方形和五边形作为刺激材料。其中，后三者都是圆的内切几何图形(如图7)，参考圆的直径仍为30 pixel。实验中，目标和非目标所使用的形状均从以上四种形状中随机选择。实验中运动客体的平均运动速度为 $1 0 . 2 \mathrm { ^ { \circ } / s }$ ，与实验2一致。
+
+![](images/4245d8592cbd66d5c6e3698b46aac8ea4773e6987068a97fe06d9eced1211bcc.jpg)  
+图7实验备选形状素材(正式实验中，外接圆不显示)
+
+# 4.3 实验设计
+
+实验设计同实验2。除了颜色分组变为形状分组。具体设计可参照表1和图8。
+
+![](images/6bd311ae04aac6ae88a6db86edd90c85b4ec54beefa6621e862a10de087e4192.jpg)  
+图8实验条件示意图(形状 $^ { \cdot + }$ 运动信息)
+
+# 4.4 实验程序
+
+实验过程和参数同实验2，但每一试次都更变形状作为表面特征，并且在运动结束时同样采用相同大小的外接黑色实心圆(大小同参考圆，即直径30pixel)进行遮蔽，避免被试依赖记忆策略来进行选择。在每种追赶条件中，三种形状组合均随机混合出现。每种组合条件重复20 试次，共完成120 试次。整个实验时间持续约40分钟。实验程序将自动记录实验反应数据。
+
+# 4.5 结果与分析
+
+不同运动信息和形状组合条件的追踪准确率如图9所示。经重复测量方差分析可知，基于运动信息分组的主效应显著, $F ( 1 , 3 9 ) = 1 9 5 . 5 2 , p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } = 0 . 8 3$ 。这表明，整体上，目标与目标配对条件的追踪准确率要显著高于目标与非目标配对条件。基于形状分组的主效应显著， $F ( 2 , 7 8 ) = 2 4 1 . 5 7 , p < 0 . 0 0 1$ ${ \boldsymbol \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 8 6$ 。这表明，在实验中不同的形状分组处理是有效的。
+
+两者的交互作用显著, $F ( 2 , 7 8 ) = 5 . 2 3$ $p = 0 . 0 0 7$ ${ \boldsymbol \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 2$ 。这表明，不同形状特征分组下的目标与目标配对条件和目标与非目标配对条件的追踪准确率差异是显著不同的。
+
+![](images/2366d288c747d89dd85b82f66861dbdcda362b2ca5bd6417e711d396aa3d1b64.jpg)  
+图9三种形状分组条件下基于运动分组的追踪准确率(误差线为 $\pm 1 \mathrm { S E }$ 0
+
+在不同形状特征分组条件下进行简单效应检验(Bonferroni 校正)发现，目标与非目标形状相同条件 $( t ( 3 9 ) = 1 3 . 9 1$ ， $p < 0 . 0 0 1$ , Cohen's $d = 2 . 2 0 ,$ )，目标与非目标形状不同条件 $( t ( 3 9 ) =$ 10.67, $p < 0 . 0 0 1$ , Cohen's $d = 1 . 6 9 ,$ ，和目标与非目标形状混合条件 $( t ( 3 9 ) = 1 0 . 5 9$ ， $p < 0 . 0 0 1$ Cohen's $d = 1 . 6 7 \AA ,$ 下目标与目标配对条件的多目标追踪准确率均显著高于目标与非目标配对条件。这表明，基于运动信息的分组效应稳定存在于不同形状特征分组中。另一方面，在不同运动信息分组条件下进行简单效应检验(Bonferroni校正)发现，三种形状分组条件在目标与目标配对条件中显著， $F ( 2 , 3 8 ) = 1 2 6 . 0 5$ $p < 0 . 0 0 1$ ， $\mathfrak { \eta _ { \mathfrak { p } } } ^ { 2 } = 0 . 8 7$ 。具体为目标与非目标形状不同条件显著高于目标与非目标形状相同条件 $( t ( 3 9 ) = 1 3 . 5 8$ ， $p < 0 . 0 0 1$ , Cohen's $d = 2 . 1 5 )$ 和目标与非目标形状混合条件 $( t ( 3 9 ) = 1 5 . 9 9$ $p < 0 . 0 0 1$ , Cohen's $d = 2 . 5 3 \$ )。目标与非目标形状混合条件与目标与非目标形状相同条件存在边缘显著差异, $t ( 3 9 ) = - 2 . 3 8$ $p = 0 . 0 6 7$ , Cohen's $d =$ -0.38。三种形状分组条件在目标与非目标配对条件中也显著, $F ( 2 , 3 8 ) = 9 1 . 6 3 , p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } =$ 0.83。具体为目标与非目标形状不同条件显著高于目标与非目标形状相同条件 $( t ( 3 9 ) = 1 3 . 3 0$ $p < 0 . 0 0 1$ , Cohen's $d = 2 . 1 0 ,$ 和目标与非目标形状混合条件 $( t ( 3 9 ) = 1 2 . 9 3$ $p < 0 . 0 0 1$ , Cohen's $d$ （20$= 2 . 0 5 )$ 。目标与非目标形状混合条件与目标与非目标形状相同条件显著差异, $t ( 3 9 ) = 2 . 5 6 , p =$ 0.044, Cohen's $d = 0 . 4$ 。这表明，特征组合条件下，目标与非目标形状不同条件也能够显著促进多目标追踪表现，而目标与非目标形状混合条件不能促进多目标追踪表现，甚至还会显著抑制追踪表现。即在一定程度上，形状特征和运动信息也能够被同时利用。
+
+此外，将三种形状分组条件下的目标与目标配对条件分别减去其目标与非目标配对条件，得到三种形状分组条件下的目标与目标配对-目标与非目标配对的增益量分别为 $2 0 . 9 9 \%$ $1 7 . 0 6 \%$ ， $1 6 . 6 4 \%$ 。以目标与非目标形状相同条件下的增益量为基线，将另两种增益量与其进行配对样本 $t$ 检验分析发现，目标与非目标形状不同条件 $( t ( 3 9 ) = - 2 . 4 1 , p = 0 . 0 2 1$ , Cohen's $d =$ -0.38)和目标与非目标形状混合条件 $( t ( 3 9 ) = - 3 . 9 8$ ， $p < 0 . 0 0 1$ , Cohen's $d = - 0 . 6 3 )$ 的增益量均显著低于目标与非目标形状相同条件。但目标与非目标形状不同条件和目标与非目标形状混合条件间的增益量无显著差异, $t ( 3 9 ) = - 0 . 2 5$ $\begin{array} { r } { p = 0 . 8 0 3 } \end{array}$ ,Cohen's $d = - 0 . 0 4$ 。这说明，基于运动信息的分组效应虽然稳定存在于不同形状特征分组中，但其效应量均受表面特征影响而显著缩减。在形状分组占优势的情况下，如目标与非目标形状不同条件，因受形状分组增益而缩减。在形状分组处劣势的情况下，如目标与非目标形状混合条件，因受形状混合干扰而缩减。这与实验2所得结果相一致。
+
+# 4.6小结
+
+在不同形状组合条件中，目标与目标配对均比目标与非目标配对更有利于追踪，这同样表明基于运动信息的分组效应是稳定的。基于形状的分组效应并未干扰基于运动信息的分组效应的形成。但和目标与非目标形状相同时相比，形状特征的存在也显著缩减了目标与目标配对条件与目标与非目标配对条件间的差异量。因此，这一方面说明，基于运动信息的分组效应具有稳定性，即使存在基于形状的分组效应也仍能发挥作用。另一方面还说明，虽然基于形状的分组效应没有干扰基于运动信息的分组效应的形成，但是基于运动信息的分组效应仍受到了形状特征的影响。实验3所得结果与实验2具有一致性，即基于运动信息的分组效应稳定存在于不同颜色或不同形状条件下，且均因表面特征的存在而导致基于运动信息的分组效应量缩减。
+
+# 5综合讨论
+
+实验1证明存在基于运动信息的分组效应，并且这一分组效应是自动化的。实验2和实验3分别进一步在不同颜色和不同形状组合条件下考察了基于运动信息的分组效应的稳定性，结果表明不同表面特征的组合不会干扰基于运动信息的分组效应的形成，即基于运动信息的分组效应具有稳定性，但其效应量会受到表面特征的影响而缩减。
+
+# 5.1多目标追踪中的分组效应与格式塔法则
+
+当前研究发现的基于运动信息的自动化分组效应，与以往研究发现的基于颜色的分组效应，基于形状的分组效应，基于插补轮廓的分组效应，以及基于对称的分组效应等(Erlikhman, et al.,2013; Feria,2012; Howe & Holcombe,2012b; Keane, et al.,2011; Wang et al.,2016)可能都是格式塔法则(Gestaltlaw)在多目标追踪中的具体应用。
+
+格式塔法则主要包括连接律(law of Connectedness)，相似律(law of similarity)，闭合律(law of closure)，图形与背景律(law of figure-ground)，对称律(law of symmetry)，共同命运律(law of common fate)等法则(Wertheimer,1938)。根据多目标追踪中发现的分组效应来看，不同类型的特征所形成的分组效应似乎都对应着相应的格式塔法则原理。Scholl 等(2001)采用的目标合并方法，将两个客体相连接，导致两个客体被视为一个整体加工。这与格式塔法则中的连接律相似，相互连接的两个客体会被组合在一起。Feria(2012)，Howe 和 Holcombe(2012b)，以及Erlikhman 等(2013)发现的基于颜色，大小，形状，对比度，立体景深或组合特征等产生的分组效应，都遵守相似律。也即，表面特征相似的客体会被组织为一个整体。Keane 等(2011)和Erlikhman 等(2013)发现的插补轮廓特征符合闭合律。具有闭合特性的几个客体会被组织为一个整体。StClair 等(2010)发现当纹理背景运动(texture motion)方向与目标运动方向一致时会促进追踪表现，反之当与目标运动方向相反时会损害追踪表现(StClair etal.，2010)。这与图形与背景律相似，运动客体整体被视为一个群组，而背景纹理被视为另一个群组。Wang 等(2016)发现目标与目标对称时，追踪表现要更好，而目标与非目标对称时，追踪表现则要更差。这与对称律相似，相互对称的物体会被组织在一起。Yantis (1992)发现目标和非目标之间速度的相对差异可以提高追踪成绩，即使这种速度差异不能被有意识地感知。Suganuma 和Yokosawa (2006)发现目标与非目标之间出现追赶运动，平行运动或追踪运动时均会降低追踪成绩。这两个研究说明，速度、位置或者方向等运动信息所导致的共同运动倾向都会形成分组。这与共同命运律相一致。
+
+当前研究也可视为共同命运律的具体体现。当目标自身内部具有共同命运时，可以利化追踪。相反，当目标与非目标间具有共同命运时，将会阻碍追踪。因此，格式塔法则对于研究多目标追踪中的分组效应而言具有十分重要的启示意义。
+
+# 5.2多目标追踪中基于运动信息的自动化分组机制
+
+对于分组效应的自动化加工，Keane 等(2011)最早发现插补轮廓特征对多目标追踪的影响是自动化的，即在绑定目标和非目标时会损害多目标追踪表现。Wang 等(2016)发现规则特征(对称)在多目标追踪中同样也是自动加工的，当目标与非目标被对称规则绑定在对称位置时，追踪表现将会下降。Erlikhman 等(2013)则全面地概括了各类自动化加工的表面特征，将影响多目标追踪的特征类型暂且划分为四类。第一类是与追踪不相关的特征(irrelevant)，如朝向。但这一朝向是静止的，不是运动方向。事实上，朝向也并非完全与追踪任务无关(Keane,et al.,2011)。第二类是自主加工特征(voluntary)，如立体景深和对比度。此类特征能够在目标内部成一组时促进多目标追踪表现，但在目标与非目标成一组时并不会损害多目标追踪表现。第三类是自动但不形成分组的加工特征(automatic nongrouping features)，如大小。此类特征能够自动在目标内部形成分组，但不能自动在目标与非目标间形成分组。即这类特征在目标与非目标间共享时，只是破坏了目标内部的统一性，但是不会把共享同一特征的目标与非目标划分为一个分组。第四类是自动分组的加工特征(automatic grouping features)，如颜色,形状，特征组合，插补。此类特征的出现会被自动加工，无论是出现在目标内部，还是出现在目标与非目标间。本研究中的共同运动信息即属于自动分组的加工特征，而其涉及的内部认知机制在以往研究中并未得到直接且充分的阐述。因此，多目标追踪中基于运动信息的自动化分组机制目前尚未有统一的理论可以作出确切解释。
+
+本研究认为基于运动信息的分组效应这一自动化加工机制需要综合视觉索引理论(Visual Index Theory)，分组假设(Grouping)和视觉工作记忆理论等来进行阐述。首先，根据Pylyshyn提出的视觉索引理论(Pylyshyn,1989;Pylyshyn,2001)，在前注意阶段视觉索引系统会预分配一定数额的视觉索引标签来个体化(Individuation)待追踪的视觉客体。即对于三种运动条件(目标与目标配对，目标与非目标配对和随机无配对)而言，每种条件在运动开始前均分配有六个视觉索引标签。视觉索引标签还具有一定的黏性，在被分配给视觉客体后，将“黏"在视觉客体上，并能随环境变化而保持不变。此后，当各个客体开始运动时，根据Yantis(1992)提出的分组(Grouping)假设推测，观察者在多目标追踪中会有意识地将各个追踪目标组成一个更高水平的虚拟多边形。这一虚拟多边形对象的顶点分别对应各个追踪目标，即多目标追踪过程实质上转换成了持续加工一个形状不断变化的虚拟多边形对象的过程。因此，当客体运动呈现出配对追赶状态时，视觉系统会根据格式塔知觉组织原理自动化的将前后追赶的运动客体组成共同命运的视觉客体。如当在目标内部形成分组时，前后目标因共同方向和相同速度具有了共同命运(common fate)被组成共同命运的视觉客体。而当在目标与非目标间形成分组时，前面的目标和后面的非目标因共同命运被组成共同命运的视觉客体。当共同命运的视觉客体形成时，前后客体的运动信息随之被共享，而这些运动信息都存储在视觉工作记忆中。从视觉工作记忆的角度而言，当目标与非目标共享特征时会导致多目标追踪表现下降(Horowitz et al.,2007;Makovski& Jiang,2009a,2009b)，但当目标与非目标不共享特征时会促进多目标追踪表现(Feria,2012;Howe&Holcombe,2012b)。这是因为目标与非目标间共享特征会损害特征的独立性，且这一损害并非是视觉差异导致，而是来源自工作记忆混乱，损害了视觉客体的独特身份信息，无法进行丢失后寻回(Makovski&Jiang,2009a,2009b)。
+
+这还与 Scholl 等(2001)采用目标合并(target merging)方法组合两个视觉目标的情形类似，虽然合并方式不同，但都导致了视觉客体的分组，都损害了视觉索引标签的独立性。因此，当目标内部形成分组时，观察者可以根据视觉工作记忆中存储的引领目标的方位信息来反向搜索出被引领目标的方位信息，而在目标与非目标间形成分组时，观察者则无法再根据视觉工作记忆中存储的引领目标的方位信息来进行反向搜索。除此之外，这两种运动条件在视觉工作记忆中所存储的运动信息的负荷也可能是不相同的。理想情况下，在目标内部分组时，前后目标共用运动信息，即两个目标可以存储相同的运动信息，而在目标与非目标间分组时，则需要分别为每个目标存储独立且不同的运动信息。即在时空信息的更新和维持上，目标内部分组可能要优于目标与非目标间分组。最后，对非目标的抑制也有所不同。在目标内部分组条件中，非目标与目标不共享运动信息，抑制非目标不会干扰到目标的记忆信息。而相反，在目标与非目标间分组条件中，非目标与目标共享运动信息，抑制非目标则会干扰到目标的记忆信息。
+
+综上可推测，基于运动信息分组的多目标追踪过程首先在前注意阶段被分配视觉索引标签，之后在运动过程中根据格式塔知觉组织原理自动进行分组并形成具有共同命运的视觉客体。在形成分组的同时，各个目标的运动信息也被存储到视觉工作记忆空间。当目标内部形成分组时，目标与非目标不共享运动信息，观察者一方面可以依赖共同命运来检索丢失目标，另一方面存储的目标运动信息负荷也相对减小。而当目标与非目标间形成分组时，目标与非目标共享运动信息，这导致无法依赖共同命运来检索丢失目标，也增大了视觉工作记忆的负荷，还损害了各个运动客体的视觉独特性。以上结果仅论述了多目标追踪中基于运动信息的自动化分组的内部认知机制，而对其涉及的认知神经机制尚待进一步探讨。
+
+# 5.3多目标追踪中表面特征对基于运动信息的分组效应的影响
+
+以往研究大多单独考察单一特征下的多目标追踪表现，如 Suganuma 和Yokosawa(2006)探讨了单一的时空特征对多目标追踪的影响。Makovski和 Jiang (2009b)采用颜色特征作为操作变量，考察了独特身份的工作记忆在多目标追踪中的作用。Keane 等(2011)发现插补轮廓特征对多目标追踪的自动化影响。Feria (2012)通过操纵目标和非目标间的颜色特征相似性来分析分心物是如何影响多目标追踪表现的。Erlikhman 等(2013)虽然考察了大量的表面特征，但其对每一种特征的分析都是独立的，并未过多涉及到多种特征之间的相互影响。严格来说，虽然以上这些研究都只考察了单一的特征，但从另一种角度而言，这些单一的表面特征都导致了多目标追踪表现的变化。也即，表面特征确实影响了多目标追踪中运动信息的利用。也有较少的研究涉及特征之间相互影响，如Howe 和Holcombe (2012b)则通过改变颜色特征和大小特征的组合形式发现，当组合特征不与非目标共享任一特征时，组合特征可以用于促进多目标追踪表现。反之，若两者共享某一特征时，组合特征会损害多目标追踪表现。Wang等(2016)在考察基于规则特征(对称)的分组效应时，发现了规则特征和表面特征之间存在可加性，但两个表面特征之间不存在可加性。这表明相同类型的特征之间可能存在相互干扰。
+
+当前研究分别考察了颜色特征和形状特征作为表面特征时对基于运动信息的分组效应的影响，结果发现两种表面特征虽然没有干扰基于运动信息的分组效应的形成，但是表面特征的出现显著缩减了基于运动信息的分组效应。这暗示着在多目标追踪中，运动信息可能和颜色、形状此类表面特征同属于一类特征类型。此外,Suganuma 和 Yokosawa (2006)与Fencsik等(2007)发现运动信息会被储存在视觉工作记忆中，而Makovski和Jiang (2009b)的研究则发现表面特征的信息也会被储存在视觉工作记忆中。因此，多目标追踪中，表面特征影响运动信息的分组效应的认知机制可能源自于工作记忆之间的相互占用和相互干扰。
+
+# 6结论与展望
+
+本研究发现了基于运动信息的自动化分组效应，并且这一效应在不同表面特征(颜色和形状)下均稳定存在。这与格式塔法则中的共同命运规律相对应。此外，表面特征虽然不会干扰基于运动信息的分组效应的形成，但会显著缩减该分组效应的效应量，即表面特征和运动信息可能共享视觉工作记忆成分。
+
+未来研究建议进一步探讨基于运动信息分组效应的神经机制，了解基于时空特性的分组效应与基于表面特征的分组效应之间的脑功能差异。同时，对多目标追踪中的不同类型特征之间的相互影响关系也应更多关注。最后，还可以进一步拓展探索格式塔法则在多目标追踪中的作用及其认知机制。
+
+# 参考文献
+
+Brainard,D.H.(1997).The Psychophysics Toolbox.Spatial Vision,10(4),433-436.   
+Erlikhman,G.，Keane,B.P.，Metler,E.,Horowitz,T.S.,& Kellman,P.J.(2013).Automatic feature-based grouping during multiple object tracking. Journal of Experimental Psychology Human Perception & Performance,39(6),1625-1637.   
+Fencsik,D.E.,Horowitz,T.S.,Kliege,S.B.,& Wolf,J.M. (2O04). Target reacquisition strategies in multiple object tracking.Journal of Vision,4(8),370-370.   
+Fencsik,D.E.,Klieger,S.B.,& Horowitz,T.S.(2O07).The role of location and motion information in the tracking and recovery of moving objects.Attention,Perception,& Psychophysics, 69(4),567-577.   
+Feria,C.S.(2012).The effects of distractors in multiple object tracking are modulated by the similarity of distractor and target features.Perception,41(3),287-304.   
+Feria,C.S.(2O13). Speed has an efect on multiple-object tracking independently of the number of close encounters between targets and distractors. Attention,Perception,& Psychophysics,75(1),53-67.   
+Franconeri, S.L., Pylyshyn,Z. W.，& Scholl, B.J. (2012).A simple proximity heuristic allows tracking of multiple objects through occlusion.Attention,Perception,& Psychophysics,74(4), 691-702.   
+Holcombe, A. O., Chen, W. Y.,& Howe,P.D. (2014). Object tracking: Absence of long-range spatial interference supports resource theories. Journal of Vision, l4(6),1-1.   
+Horowitz,T.S.,Birnkrant,R.S.,Fencsik,D.E.,Tran,L.,& Wolfe,J.M.(2006).How do we track invisible objects?Psychonomic Bulletin & Review,13(3),516-523.   
+Horowitz,T.S.,& Cohen,M.A.(20lO). Direction information in multiple object tracking is limited by a graded resource. Attention,Perception & Psychophysics,72(7),1765-1775.   
+Horowitz,T. S., Klieger, S.B.,Fencsik, D.E., Yang,K. K.，Alvarez, G. A.,& Wolfe,J.M.(2007). Tracking unique objects.Perception & Psychophysics, 69(2),172-184.   
+Howe, P. D.L., & Holcombe,A.O. (2O12a). Motion information is sometimes used as an aid to the visual tracking of objects.Journal of Vision,12(13),1-10.   
+Howe,P. D.L.,& Holcombe,A. O. (2012b). The Effect of Visual Distinctiveness on Multiple Object Tracking Performance.Frontiers in Psychology,3,307-307.   
+Hu,L.M.,Lyu, C., Zhang,X.M.,& Wei,L. Q. (2O18).The effect ofidentity switch in Multiple Identity Tracking. Acta Psychologica Sinica,50(1), 9-27.   
+[胡路明，吕创，张学民，魏柳青.(2018)．身份交换对多身份追踪表现的影响．心理学报,50(1),9-27.]   
+Huff,M., Meyerhof,H. S.,Papenmeier,F.,& Jahn,G. (2010). Spatial updating of dynamic scenes: Tracking multiple invisible objects across viewpoint changes. Attention,Perception,& Psychophysics,72(3),628-636.   
+Keane,B.P.,Mettler,E.,Tsoi,V.,& Kellman,P.J. (2O11).Attentional signatures of perception: Multiple object tracking reveals the automaticity of contour interpolation. Journal of Experimental Psychology: Human Perception and Performance, 37(3), 685-698.   
+Keane, B. P.,& Pylyshyn, Z. W. (2006). Is motion extrapolation employed in multiple object tracking? Tracking as a low-level, non-predictive function. Cognitive Psychology, 52(4), 346-368.   
+Lei,H. Y.，Wei, L. Q., Lyu,C., Zhang, X. M.,& Yan, X. Q. (2016). Expresion-based Grouping in Multiple Identity Tracking. Acta Psychologica Sinica, 48,141-152.   
+[雷寰宇，魏柳青，吕创，张学民，闫晓倩.(2016).多身份追踪中基于表情特征的分组效应．心理学报,48(2), 1-12.]   
+Luu,T.，& Howe,P.D. (2O15).Extrapolation occurs in multiple object tracking when eye movements are controlled.Attention,Perception,& Psychophysics,77(6),1919-1929.   
+Lyu, C.,Hu,S., Wei,L., Zhang, X.,& Talhelm,T. (2015). Brain Activation of Identity Switching in Multiple Identity Tracking Task. PLOS ONE,10(12),e0145489.   
+Makovski,T.,&Jiang,Y.V.(2O09a).Feature binding in attentive tracking of distinct objects. Visual Cognition, 17(1-2), 180-194.   
+Makovski,T.,& Jiang,Y. V. (2009b). The role of visual working memory in attentive tracking of unique objects. Journal of Experimental Psychology: Human Perception and Performance,35(6),1687-1697.   
+Oksama，L.，& Hyöna,J.(2004).Is multiple object tracking carried out automatically by an early vision mechanism independent of higher-order cognition? An individual diference approach. Visual Cognition, 11(5), 631-671.   
+Pel,D. G.(1997). The VideoToolbox software for visual psychophysics: Transforming numbers into movies. Spatial Vision, 10(4), 437-442.   
+Pylyshyn,Z. W. (20o1). Visual indexes,preconceptual objects,and situatedvision. Cognition,80(1-2),127-158.   
+Pylyshyn,Z.W.,& Storm,R. W. (1988). Tracking multiple independent targets: Evidence for a parallel tracking mechanism. Spatial Vision,3(3),179-197.   
+Pylyshyn,Z.(1989).Therole of location indexes in spatial perception: a sketch of the FINST spatial-index model. Cognition, 32(1),65-97.   
+Pylyshyn, Z.W. (2O04). Some puzzling findings in multiple object tracking: I. Tracking without keeping track of object identities.Visual Cognition,11(7),801-822.   
+Scholl,B.J.,& Pylyshyn,Z. W. (1999). Tracking Multiple Items Through Ocusion: Clues to Visual Objecthood. Cognitive Psychology,38(2),259-290.   
+Scholl,B.J.,Pylyshyn,Z. W.,& Feldman,J. (2Oo1).What is a visual object?Evidence from target merging in multiple object tracking. Cognition, 80(1-2),159-177.   
+StClair,R.,Huff,M.,& Seifert,A.E. (2010). Conflicting motion information impairs multiple object tracking. Journal of Vision,10(4),1-13.   
+Suganuma,M.,& Yokosawa,K.(2O6). Grouping and trajectory storage in multiple object tracking: Impairments due to common item motions.Perception, 35(4),483-495.   
+Wang,C.D.,Zhang,X.M.,Li,Y.N.，& Lyu,C.(2016). Aditivity of Feature-based and Symmetry-based Grouping Effects in Multiple Object Tracking.Frontiers in Psychology,7,657-657.   
+Wei,L.Q., Zhang,X.M., Chuang,L.,& Zhen,L.(2016).The Categorical Distinction Between Targets and DistractorsFacilitates Tracking inMultiple Identity Tracking Task.Frontiers in Psychology,7,589-589.   
+Wertheimer,M.(1938).Laws of organization inperceptual forms.In W.D.Elis (Ed.),A source book of Gestalt psychology (pp.71-88). London, England: Kegan Paul, Trench, Trubner and Company.   
+Yantis,S.(1992). Multielement visual tracking: Atention and perceptual organization.Cognitive Psychology, 24(3),295-340.   
+Zhang,X.M.,Lu, X.M.,& Wei,L. Q. (2011).The selective inhibition efectsof changing the numberof targets and nontargets on multiple object tracking.Journal of Psychological Science,34(6),1295-1301.   
+[张学民，鲁学明，魏柳青.(2011)．目标与非目标数量变化对多目标追踪的选择性抑制效应．心理科学， 34(6), 1295-1301.]   
+Zhang,X-M., Yao,L.,&Lu, X-M.(2O08). The roleof location and trajectory information in the recovery of moving objects.Acta Psychologica Sinica, 40(1),1-7.   
+[张学民，姚林，鲁学明.(2008)．位置和轨迹信息在短暂消失目标复原过程中的作用．心理学报,40(1),1-7.]
+
+# The grouping effect of common fate in multiple object tracking
+
+HU Luming1; SU Jing1; WEI Liuqing1; ZHANG Xuemin1,2
+
+中 $^ { 1 }$ BeijingKeyLaboratoryofAppliedExperimentalPsychology;NationalDemonstrationCenterforExperimentalPsychologyEducation (Beijing Normal University);Faculty ofPsychology,Beijing Normal University; 2 State KeyLaboratoryofCognitive NeuroscienceandLearning,Beijing NormalUniversity,BeijingOo875,China)
+
+# Abstract
+
+The automatic grouping effect is the finding that inter-target grouping improves performance, while target-distractor grouping impairs performance during multiple object tracking (MOT). Many features can induce the automatic grouping effect, such as color, shape, interpolation, and symmetry. However， none of these features are spatial-temporal. Motion information is the principal spatial-temporal feature,and it plays an important role in multiple object tracking (MOT). Using motion information stored in visual spatial working memory (VsWM), people can not only keep track of multiple moving targets among identical distractors, but also periodically extrapolate the motion trajectory of targets. We investigated whether or not participants can use motion information as the basis of the automatic grouping effect just as they can with other feature (e.g. color, shape) during attention tracking.
+
+To test this question, we used classic random motion as the baseline and added two new types of chasing motion in MOT tasks. One chasing motion condition was target-chase-target; the other chasing motion condition was distractor-chase-target. Given that surface features can influence the grouping effect based on motion information, we next tested the motion-based grouping effect in a condition where targets and distractors are assigned diferent color combinations (Experiment 2) and different shape combinations (Experiment 3).The different color combinations included identical color between targets and distractors,distinct colors between targets and distractors,and mixed colors between targets and distractors. The shape combinations were analogous to the color combinations.
+
+Results of Experiment 1 showed that, compared to the random motion condition, tracking performance was better when targets chased targets and worse when distractors chased targets. In other words, motion information can be used as an automatic grouping cue. Results of Experiment 2 indicated that the tracking performance in the target-chase-target condition was always better than the distractor-chase-target condition when colors were identical, distinct,or mixed.However, compared with the identical color condition， the difference between chasing conditions (target-chase-target condition minus distractor-chase-target condition） was smaller in both the distinct color condition and the mixed color condition.When Experiment 3 varied the surface feature from color to shape,the results were the same as Experiment 2.The surface feature (i.e., color and shape） did not eliminate the motion-based grouping effect,but it did reduce the difference between the target-chase-target condition and distractor-chase-target condition.
+
+From these results,we can conclude that motion information can be used in multiple object tracking and may be an automatic grouping feature. This suggests that spatial-temporal features can also induce automatic grouping,regardless of the efect of surface feature in MOT tasks. It may also imply that, although motion information is encoded automatically and in parallel during tracking,it may share visual spatial working memory resources with surface feature.Finally, motion-based grouping effect in MOT showed that the gestalt law was embodied in attentive tracking.
+
+Key wordsmultiple object tracking; common fate; motion information; grouping effect

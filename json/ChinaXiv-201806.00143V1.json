@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "苯并[a]芘暴露大鼠的皮层代谢组学研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王晶',李春林',白璐璐',唐强虎」,张瑞源',Ting-LiHan²,郭玉明³,Philip N.Baker4,夏茵茵',涂白杰11重庆医科大学公共卫生与管理学院//医学与社会发展研究中心//健康领域社会风险预测治理协同创新中心,重庆 400016；奥克兰大学里金斯研究所，奥克兰新西兰；昆士兰大学人口健康学院流行病学和生物统计学系，布里斯班 澳大利亚；4莱斯特大学医学院生物科学与心理学院,英国",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的基于气相色谱/质谱联用技术(GC/MS)的代谢组学方法，分析苯并[a]芘(BLaJP)暴露后大鼠皮层内源性小分子代谢物的变化,研究其神经毒性机制。方法 将五日龄SD大鼠随机分为对照组和B[a]P暴露组( $2 \\mathrm { m g / k g } )$ ,连续灌胃染毒7周以构建B[a]P暴露模型。染毒结束后,Morris水迷宫(MWM)测定大鼠的空间学习能力;电镜观察皮层神经元超微结构;GC/MS检测皮层代谢谱,结合偏最小二乘法判别分析(PLS-DA)和两独立样本t检验分析筛选两组间的差异代谢物，Cytoscape软件分析与差异代谢物相关的代谢通路。结果与对照组相比,B[a]P暴露大鼠出现较长的逃避潜伏期( $_ { \\scriptstyle P < 0 . 0 5 } )$ 、较短的目标象限停留时间$( P { < } 0 . 0 5 )$ ;与对照组相比，B[aJP暴露大鼠出现突触间隙增宽、突触后膜增厚以及胞浆肿胀;两组大鼠的皮层中存在18个差异代谢物 $( \\mathrm { V I P } { > } 1 , P { < } 0 . 0 5 )$ ,分析差异代谢物得到9条与B[a]P神经毒性机制相关的通路，这些通路涉及氨基酸代谢、三羧酸循环以及维生素B3（烟酸和烟酰胺)代谢。结论B[a]P可干扰机体的正常代谢，其神经毒性机制可能与氨基酸类代谢紊乱、三羧酸循环紊乱以及维生素代谢紊乱等有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：B[a]P；皮层;代谢组学;神经毒性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changes of cerebral cortical metabolomics in rats following benzo[alpyrene exposure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANGJing,uln,uu,Qingu,HAyn,nnmng,ilipakern Baijie1 DepartmentofOccupationalandEnoironmentalHygiene,SholofPublicHealthndManagementesearchCenterforMedicinend SocialDeelopntoioeerfoaliseaeinltogdicalesityog Liinsieeitdttl Healthiei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToanalyze thechanges inendogenoussmallmolecule metabolitesafterbenzo[alpyrene (B[a]P)exposure inrat cerebral cortex and explore the mechanism of B[a]Pneurotoxicity. Methods Five-day-old SDrats were subjected to gavage administration of $2 \\mathrm { m g / k g }$ B[a]P for 7 consecutive weeks. After the exposure, the rats were assessed for spatial learning abilityusingMorris watermaze test,ultrastructuralchangesof thecorticalneuronsunderelectronmicroscope,andmetabolite profilesof thecortex using GC/MS.The diferential metabolites betweenthe exposed and controlrats were identified with partialleastsquares discriminantanalysis (PLS-DA)and themetabolicpathwaysrelated withthe diferential metabolites were analyzed using Cytoscape software.Results Compared with thecontrol group,therats exposed toB[a]Pshowed significantly increased escape latency $_ { ( P < 0 . 0 5 ) }$ and decreased time spent in the target area $_ { ( P < 0 . 0 5 ) }$ . The exposed rats exhibited widened synapticcleft, thickened endplate membrane and swolen cytoplasm compared with thecontrolrats.Eighteen diferential metabolites (VIP>1, $P { < } 0 . 0 5 \\ '$ ） in the cortex were identified between the two groups,and 9 pathways associated with B[a]P neurotoxicity were identified involving aminoacid metabolism,tricarboxylicacid cycleand Vitamin B3 (niacin and nicotinamide)metabolism. Conclusion B[a]Pcan cause disturbance in normal metabolisms and its neurotoxicityis posibly related with disorders in amino acid metabolism, tricarboxylic acid cycle and vitamin metabolism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: benzo[alpyrene; cortex; metabolomics; neurotoxicity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以苯并[a]芘(B[a]P)为代表的多环芳烃类(PAHs)环境污染物是有机物不完全燃烧的产物。其普遍的存",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在于大气中，可通过呼吸道、消化道以及皮肤进入机体，对居住在此污染物暴露区的居民健康造成严重威胁[1]。B[a]P及其代谢物具有高脂溶性，极易通过血脑屏障(BBB)进入脑，可通过损伤神经元DNA、改变神经元超微结构以及改变脑基因和蛋白质的表达谱，进而损伤神经系统,最终导致学习和记忆能力受损[3-5]。由于其诱导神经毒性作用方式的多样性及复杂性，至今关于BaP导致神经毒作用的具体机制仍未完全阐明。皮层和海马在学习记忆中相互协调,共同完成各种学习记忆任务[6-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "皮层可编码、检索情景记忆，并能参与许多高级的认知，有研究发现皮层的受损与工作记忆障碍密切相关[8-9]。但关于B[aP神经毒性的国内外研究主要集中在海马，对皮层鲜有报道，了解BaP对皮层的影响同样至关重要。代谢组学研究生物体对外源性刺激或基因修饰的代谢应答规律，该方法可用于阐明神经毒物暴露后动物脑中代谢物的变化[11]。B[a]P可通过众多途径影响机体代谢[12]。于是推测B[a]P影响皮层代谢、扰乱皮层动态平衡，是其导致学习记忆受损的可能机制。因此，对BaP暴露动物模型中皮层小分子代谢产物全谱进行分析，筛选出皮层的差异性代谢物，从代谢组学角度为进一步探索BaP神经毒作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morris水迷宫视频跟踪分析系统(成都泰盟软件有限公司）；透射电子显微镜Hitachi-7500(日本Hitachi)涡旋振荡仪和高速分散机(德国IKA);超低温冷冻干燥机(美国Labconco);GC7890型气相色谱仪和MSD5975型质谱联用仪(美国Agilent)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 药品与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B[a]P(美国Sigma,纯度 $9 5 \\%$ );内参标准液D4-丙氨酸、氯甲酸钾(MCF)和吡啶(美国Sigma);氯仿、甲醇、氢氧化钾、碳酸氢钠、氢氧化钠(德国Merck);本研究中所用化学试剂均为分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3动物模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20只初生的雄性SD乳鼠及2只母鼠，购于重庆医科大学动物实验中心，许可证号：SCXK(渝)2012-0001。适应性饲养5d后，将乳鼠随机分为对照组 $\\scriptstyle ( n = 1 0 )$ 和BaP暴露组 $( n { = } 1 0 )$ )，同组别的乳鼠居于一笼，每笼含母鼠共11只。根据SD大鼠饲养管理操作规程中饲养密度要求，幼鼠在21d断奶后，根据分组重新分配到笼中，每笼5只。参照高危暴露场所附近居民的B[a]P暴露剂量3]，按照 $2 \\mathrm { m g / k g \\ B [ a ] I }$ 灌胃暴露组老鼠,对照组老鼠灌胃相同剂量玉米油，持续暴露7周，以模拟婴幼儿在成年之前BaP的持续暴露。暴露期间自由进食进水，动物房内光照 $1 2 \\mathrm { h } / \\mathrm { d } ( 7 { : } 0 0 { - } 1 9 { : } 0 0 )$ ，湿度 $40 \\% \\sim 6 0 \\%$ ，温度 $2 2 { \\sim } 2 4 ~ \\mathrm { ^ { \\circ } C }$ 。以行为学观察（大鼠的空间学习能力降低）、组织病理学检查(皮层神经元超微结构改变)验证BaP暴露大鼠神经损伤模型造模成功。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4大鼠学习能力测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B[a]P染毒结束后,参照Chen[3用Morris水迷宫对大鼠学习记忆能力进行评估。第1天，训练大鼠定位清晰标记的平台。第2\\~5天定位航行实验，记录每天大鼠寻找平台的逃避潜伏期。试验4次/d,当老鼠位于平台时，试验结束。在60s内找不到平台的大鼠则通过手指引导其进入平台。第5天最后1次训练后撤除水下平台，然后将大鼠随机放入任何一个边缘，记录大鼠120 s内在以前放置平台的目标象限中停留的时间。用视频跟踪软件记录大鼠的游泳模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5样本采集与电镜切片制作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morris水迷宫结束后，颈椎脱白处死大鼠，冰上快速剥离皮层组织，参照Chen3进行电镜标本制作，用透射电镜观察皮层神经元细胞的超微结构。剩余皮层组织 ${ } _ { - 8 0 } \\mathrm { ‰}$ 冻存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6大鼠皮层样本的GC/MS代谢组学检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 代谢物萃取取皮层样品 $5 0 \\mathrm { m g }$ ，先后加入 $7 5 0 \\mu \\mathrm { L }$ 预冷的甲醇水 $( 1 { : } 1 , \\mathbf { v } / \\mathbf { v } )$ 和 $2 0  { \\mu \\mathrm { L D } } 4 -$ 丙氨酸匀浆后，于$4 \\mathrm { ^ { \\circ } C } , 1 5 0 0 0 \\mathrm { r } / \\mathrm { m i n }$ 离心 $1 0 \\mathrm { m i n }$ ,取上清液于另一干净EP管。沉淀部分加入 ${ 8 0 0 \\mu \\mathrm { L } }$ 预冷的有机溶剂氯仿和甲醇溶液 $( 3 { : } 1 { : } \\mathrm { v / v } )$ 作为代谢物提取溶剂，再次匀浆离心，混合两次上清液，于 $- 1 0 5 ~ \\mathrm { { ‰ } }$ 超低温真空干燥系统干燥浓缩代谢物， $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 保存浓缩后的样品。  \n1.6.2 代谢物衍生化向浓缩样品中加入 $2 0 0 ~ \\mu \\mathrm { L }$ NaOH,转移至干净玻璃试管，加入 $1 6 7 \\mu \\mathrm { L }$ 甲醇 ${ \\ 、 3 4 \\mu \\mathrm { L } }$ 吡啶涡旋振荡10s,加入 $2 0 { \\mu \\mathrm { L } }$ MCF涡旋振荡30s,再次加入 $2 0 { \\mu \\mathrm { L } }$ MCF涡旋振荡30 s,加入 $4 0 0 { \\mu \\mathrm { L } }$ 氯仿振 $1 0 ~ \\mathrm { s }$ 加入400μL碳酸氢钠振荡 $1 0 \\ \\mathrm { s } , 1 5 0 0 \\ \\mathrm { r / m i n }$ ，离心 $5 \\mathrm { m i n }$ 弃去水层，加入少量无水硫酸钠，将样本转移至专用样品管上机检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7GC/MS数据采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7.1色谱条件色谱柱：ZB-1701GC石英毛细管柱（ $( 3 0 ~ \\mathrm { m } { \\times } 2 5 0 ~ \\mu \\mathrm { m } , 0 . 1 5 ~ \\mu \\mathrm { m } )$ ;进样口温度 $2 9 0 ~ \\mathrm { { ^ { \\circ } C } }$ ,程序升温：初温 $4 5 ~ \\mathrm { { ^ { \\circ } C } }$ 保持 $2 ~ \\mathrm { m i n }$ ，以 $9 \\ : \\mathrm { { ‰ } }$ 升至 $1 8 0 ^ { \\circ } \\mathrm { C }$ ，维持5 min, $4 0 \\ \\mathrm { { ^ circ C / m i n } }$ 升至 $2 2 0 \\ \\mathrm { { ^ \\circ C } }$ ,维持5min, $4 0 \\ \\mathrm { { ^ circ C / m i n } }$ 升至 $2 4 0 \\ \\mathrm { ^ { \\circ } C }$ ，维持 $5 \\operatorname* { m i n } , 4 0 \\operatorname { \\mathrm { ~ ‰ ~ } }$ 升至 $2 8 0 \\mathrm { { ^ \\circ C } }$ ,维持 $2 \\mathrm { m i n } _ { \\mathrm { o } }$ 载气为高纯氮气，流量 $1 ~ \\mathrm { m L / m i n }$ ,不分流进样,进样量体积 $1 . 0 \\mu \\mathrm { L }$ 。  \n1.7.2质谱条件EI源，电子能量为 $7 0 \\mathrm { e V }$ ，离子源温度$2 5 0 \\mathrm { { ^ \\circ C } }$ ，质谱全扫描范围为 $3 8 { \\sim } 5 5 0 ~ \\mathrm { m / z }$ ，以计数100个离子为检测阈值。  \n1.7.3精密度测定取同一样品溶液连续进样6次，通过计算各相对峰面积的相对标准偏差(RSD)，RSD为$2 . 5 \\% { \\sim } 6 . 1 2 \\%$ 表示方法具有良好的可重复性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morris水迷宫数据应用SPSS20.0统计软件进行两独立样本t检验分析， $P { < } 0 . 0 5$ 差异有统计学意义。代谢组学数据应用AMDIS(2.66版本)软件和实验室内部MCF质谱数据库进行分析处理。其处理过程包括GC/MS色谱图基线矫正、峰判别和匹配、消除噪音，代谢物的比对鉴定，选择匹配度 $58 0 \\%$ 的内源性标志物作为鉴定结果。将代谢物质谱数据结果导人SIMCA-P11.5软件，运用PLS-DA法分析比较两组总体代谢产物是否存在的差异,将VIP(variable importance in the projection) ${ > } 1$ 的代谢物用SPSS20.0统计软件进行两独立样本t检验分析， $P { < } 0 . 0 5$ 为差异有统计学意义。根据筛选出的特异性代谢物，利用Cytoscape软件分析相关代谢途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1B[a]P对大鼠学习记忆行为影响[13] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着训练天数的增加，两组大鼠寻找平台的逃避潜伏期均缩短。与对照组相比，B[aP暴露组的大鼠具有较长的逃避潜伏期(图1A， $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ )，以及较短的目标象限停留时间（图1B， $P { < } 0 . 0 5$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a1dddd1c83169f028662821b973afdef70529d5c96da4b912621beb364b5834.jpg",
+        "img_caption": [
+            "图1大鼠水迷宫结果图 Fig.1 Escape latency (A) and the time spent in the target area (B)in Moris water maze test. (Mean± SD, $\\scriptstyle n = 5$ ).Comparedwithcontrol group, $^ { * } P { < } 0 . 0 5$ Us control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2B[a]P对大鼠皮层神经元超微结构的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电镜下对照组皮层神经元超微结构正常，正常突触（图2A)，正常神经元(图2C)。BaP暴露组出现突触间隙增宽、突触后膜增厚(图2B)，以及胞浆肿胀(图2D)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3BaP对大鼠皮层代谢组学的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1大鼠皮层GC/MS分析采用GC/MS获得大鼠皮层中小分子代谢物的信息。偏最小二乘法判别分析法(PLS-DA)通常用于分类判别和生物标志物筛选，将代谢组学数据进行PLS-DA分析，可见两组大鼠的代谢组学物质完全被区分（图3A)，软件参数为 $\\mathrm { R } 2 X { = } 0 . 5 7$ P$\\mathrm { R 2 Y = 0 . 9 9 8 }$ . $\\scriptstyle Q 2 = 0 . 9 2 5$ ，可以很好的体现模型的稳健性。同时两组代表样本总离子流图(图3B、C)存在明显差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2差异代谢物的筛选及生物信息学分析结合PLS-DA与两独立样本 $t$ 检验分析筛选得到18个差异代谢物（2 $\\left( \\mathrm { V I P } { > } 1 , P { < } 0 . 0 5 \\right)$ 。利用Cytoscape软件对差异代谢物进行network分析(图4)，筛选得到9条与神经毒性机制相关的通路，涉及氨基酸代谢、能量代谢、B族维生素代谢(表1)，共有12个差异代谢物参与了这些通路。与对照组相比，这些与B[a]P神经毒性相关的差异代谢物在B[a]P暴露大鼠皮层中的含量除半胱氨酸减少外，其余皆增高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "出生后的5\\~11d为大鼠脑发育的关键期，大鼠在成年(出生后的49d)之前均有脑部发育[14-15]。本研究选择大鼠脑发育期进行BaP暴露，构建B[aP暴露神经损伤模型，以模拟婴幼儿在成年之前B[aJP的持续暴露。与课题组以往实验结果一致[34],与对照组相比，B[aJP暴露大鼠在MWM中出现空间学习能力受损，以及在皮层的电镜中出现超微结构改变。表明BaP及其代谢物通过BBB进入皮层并发挥其神经毒性作用，即成功构建了B[a]P暴露神经损伤模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用GC/MS代谢组学方法对大鼠皮层进行代谢物质进行检测，并对结果进行PLS-DA分析，从代谢组学层面来讨论BaP对皮层潜在的神经毒性机制。在本研究中，B[a]P暴露组与对照组之间存在18个有差异的代谢物。将这些差异代谢物进行network分析，筛选得到了9条与B[aP神经毒性相关的通路，这些通路涉及氨基酸代谢、维生素B3(烟酸和烟酰胺)代谢以及三羧酸循环。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BaP暴露可干扰甲硫氨酸、缬氨酸、异亮氨酸、亮氨酸、苏氨酸、谷氨酸、天冬氨酸、甘氨酸、酪氨酸、组氨酸、精氨酸、半胱氨酸、丙氨酸、丝氨酸、天冬天酰胺以及脯氨酸的代谢。必需氨基酸在人体生长、发育、营养、代谢等生命活动中起着重要作用[。在本研究中，B[a]P暴露后大鼠皮层中的一些必需氨基酸，如缬氨酸、亮氨酸、异亮氨酸、甲硫氨酸、苏氨酸的含量增高，这些氨基酸为能量供应氨基酸，可参与脑能量供应。能量供应氨基酸代谢紊乱，可影响脑能量供应，进一步影响学习和记忆。非必须氨基酸在调节基因表达、抗氧化反应、神经传导和免疫方面起着重要作用[18]，大多数非必需氨基酸及其衍生物还可以作为神经递质，参与细胞间的突触传递与神经功能调节。丝氨酸在脑中主要参与神经递质及蛋白质的合成，与大脑发育和神经系统功能紧密相关[19]。酪氨酸参与多巴胺(DA)、去甲肾上腺素(NE)以及肾上腺素(A)等生物原胺类神经递质的合成，这些神经递质在学习、记忆、认知等意识活动中有着不可替代的作用20-21]。谷氨酸、天冬氨酸、为兴奋性氨基酸递质(EAA),甘氨酸为抑制性氨基酸递质(IAA)[22-23],它们均参与了学习和记忆的形成[24]。B[a]P暴露后，皮层中谷氨酸、天冬氨酸、甘氨酸的含量增高，EAA与IAA的平衡被打破，影响中枢神经系统正常的兴奋与抑制过程，是导致学习记忆损伤的可能机制[25]。由此可见,B[a]P暴露可能通过干扰皮层氨基酸类代谢，导致神经系统能量代谢紊乱、神经递质合成障碍以及干扰神经系统正常兴奋与抑制过程而影响中枢神经系统功能",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d2321a571a183505dcf3bcdbb235b7f6e68377bd605246a5ab352305232be21.jpg",
+        "img_caption": [
+            "图2大鼠皮层电镜图 Fig.2 Electron microscopy of the cerebral cortex of the rats (Original magnification: $\\times 2 0 \\ 0 0 0$ ） $\\mathbf { A } / \\mathbf { C }$ :Control group; B/D: B[a] P-treated group.The white arrows indicate the synaptic cleft and the yellow arrows the cytoplasm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6a98050e1a72a9111a8c82f12d8d93ffd854d11de562e44df081f00cc414b52.jpg",
+        "img_caption": [
+            "图3皮层组织的PLS-DA得分图和总离子流图 Fig.3 PLS-DA scoring diagram and total ion chromatogram of the cortex tissue.A:Cortex scoring plots ofPLS-DA; B/C: Totalion chromatogram of the cortex in control and exposed groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b72a1493c3260e72f6ec0efa0e39f31b0482facbfbc7eea3930ce5c307842b4d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B[a]P暴露还可干扰皮层三羧酸循环，导致能量代谢的异常。ATP是脑组织主要的能量来源，在细胞的主动转运、蛋白质合成与加工、细胞膜完整性、突触传递、递质释放与摄取等生理过程中发挥着重要作用。三羧酸循环(TCA)是机体获得ATP的主要方式，富马酸是琥珀酸-丙酸途径的关键中间产物2，本研究中BaP暴露大鼠皮层中富马酸含量升高，提示TCA的异常。学习、记忆等高级神经功能与脑细胞的能量代谢水平密切相关，因此，B[aP引起细胞的能量代谢紊乱是其神经毒性的可能机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无论是维生素B9还是维生素B3，它们的代谢紊乱均可影响到脑的认知功能。叶酸(维生素B9)经甲叉四氢叶酸还原酶转化为甲基四氢叶酸盐后，联合同型半胱氨酸，再次转化为蛋氨酸，最终合成作为甲基供体的S-腺苷-L-蛋氨酸，参与DA、5-HT和NE合成，与脑功能障碍尤其是认知功能障碍密切相关[27]。烟酰胺(维生素B3)与烟酸为两种可相互转化的吡啶衍生物，前者与核糖、磷酸以及腺苷酸结合构成体内多种脱氢酶的辅酶即辅酶I(CoI)与辅酶II(CoII)。氧化应激、线粒体的改变以及炎症通常是细胞凋亡的主要原因，Co1磷酸化后合成CoⅡI，CoⅡ被葡萄糖-6-磷酸脱氢酶还原生成可参与细胞抗氧化应激的NADPH[28],是保护大脑避免氧化应激导致损伤的可能机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/94234e6304b32e80fb0b0bb0ccc21d3103f34be1ad9e77384e1ca2417679dfe2.jpg",
+        "img_caption": [
+            "图4大鼠皮层差异代谢物代谢网络图 Fig.4 Metabolic network of the differential metabolites in rat cerebral cortex. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/57da5ff2dbf933e89010aef936a0e4bd8f2248d5963d7c1a3bd962b4718fec72.jpg",
+        "table_caption": [
+            "表1与神经毒性机制相关的12个大鼠皮层差异代谢物及9条通路 Tab.1Twelve diferential metabolites and9 pathways associated with B[a]Pneurotoxicity inratcerebralcortex "
+        ],
+        "table_footnote": [
+            "Compared with control group, $^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>VIP</td><td>Match percent (%)</td><td>Related metabolic pathway</td></tr><tr><td>Fumaric acid*</td><td>1.11</td><td>84</td><td>Uread</td></tr><tr><td>Glutamine*</td><td>1.22</td><td>86</td><td> Urea cyele andmteain is nicatinine,pd lineigamidey r abalism andasgarasie</td></tr><tr><td>Cysteine**</td><td>1.61</td><td>90</td><td>Uread</td></tr><tr><td>Nicotinamide*</td><td>1.00</td><td>90</td><td>Vitamin B3 (nicotinate and nicotinamide) metabolism</td></tr><tr><td>Isoleucine**</td><td>1.39</td><td>94</td><td>Valine,leucine and isoleucine degradation</td></tr><tr><td>Glycine**</td><td>1.24</td><td>96</td><td>Vitamin B9 (folate) metabolism; Glycine,serine,alanine and threonine metabolism; Urea cycle and metabolism of arginine, proline, glutamate,aspartate and asparagine;</td></tr><tr><td>Threonine*</td><td>1.05</td><td>97</td><td>Glycine,serine,alanine and threonine metabolism</td></tr><tr><td>Phenylalanine*</td><td>1.55</td><td>97</td><td>Tyrosine metabolism</td></tr><tr><td>Aspartic acid**</td><td>1.54</td><td>98</td><td>Urea cycle and metabolism of arginine,proline,glutamate,aspartate and asparagine</td></tr><tr><td>Leucine**</td><td>1.39</td><td>98</td><td>Valine,leucine and isoleucine degradation</td></tr><tr><td>Proline**</td><td>1.34</td><td>98</td><td>Urea cycle and metabolism of arginine,proline, glutamate,aspartate and asparagine</td></tr><tr><td>Glutamic acid**</td><td>1.24</td><td>99</td><td>Histidine metabolism; Vitamin B9 (folate) metabolism; Urea cycle and metabolism of arginine,proline,glutamate,aspartate and asparagie</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究结果显示干扰氨基酸代谢、TCA、维生素代谢是B[a]P可能的神经毒性机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Nie JS,Duan L,Yan ZW,et al. Tau hyperphosphorylation is associated with spatial learning and memory after exposure to benzo [a] pyrene in SD rats[J].Neurotox Res,2013,24(4): 461-71.   \n[2] Chepelev NL,Moffat ID,Bowers WJ,et al. Neurotoxicity may be an overlooked consequence of benzo [a] pyrene exposure that is relevant to human health risk assessment[J]. Mutat Res Rev Mutat Res,2015,764(8): 64-89.   \n[3]Chen CZ, Tang Y, Cheng SQ,et al. New candidate proteins for Benzo(a) pyrene-induced spatial learning and memoru deficits[J]. J Toxicol Sci,2011,36(2): 163-71.   \n[4]Xia Y, Cheng S,He J,etal. Effects of subchronic exposure to benzo [a]pyrene (B［a]P) on learning and memory,and neurotransmitters in male Sprague-Dawley rat[J]. Neurotoxicology, 2011,32(2):188- 98.   \n[5]Das M, Seth PK,Mukhtar H. Distribution of benzo(a)pyrene in discrete regions of rat-brain［J].Bull Environ Contam Toxicol, 1985, 35(4): 500-4.   \n[6]Wang GW, Cai JX. Disconnection of the hippocampal-prefrontal cortical circuits impairs spatial working memory performance in rats [J].Behav Brain Res,2006,175(2): 329-36.   \n[7]Demaster D,Pathman T,Ghetti S.Development of memory for spatial context: Hippocampal and cortical contributions [J]. Neuropsychologia,2013,51(12, SI): 2415-26.   \n[8]Edward ES,Jonides J. Storage and executive processes in the frontal lobes[J]. Science,1999,283(6): 1657-61.   \n[9]Banuelos C,Beas BS,Mcquail JA，et al．Prefrontal cortical GABAergic dysfunctioncontributesto age-related working memory impairment[J]. JNeurosci, 2014,34(10): 3457-66.   \n[10]Nicholson JK,Lindon JC,Holmes E.'Metabonomics': understanding the metabolic responses of living systems to pathophysiological stimuli via multivariate statistical analysis of biological NMR spectroscopic data[J].Xenobiotica,1999,29(11): 1181-9.   \n[11] Chang KL,New LS,Mal M,et al. Metabolic profiling of 3- nitropropionic acid early-stage Huntington's disease rat model using gaschromatography time-of-flight massspectrometry [J].J Proteome Res,2011,10(4): 2079-87.   \n[12] Song QQ,Zheng PF,Qiu LG,et al. Toxic effects of male Perna viridis gonad exposed to BaP,DDT and their mixture:A metabolomic and proteomic study of the underlying mechanism[J]. Toxicol Lett, 2016,240(1): 185-95.   \n[13] Yang K, Jiang XE，Su QP,et al. Disruption of glutamate neurotransmitter transmission is modulated by SNAP-25 in benzo [a] pyrene-induced neurotoxic effects[J].Toxicology,2017,384(5): 11-22.   \n[14] Spear LP. Assessment of adolescent neurotoxicity: Rationale and methodological considerations [J].Neurotoxicol Teratol, 2007,29 (1): 1-9.   \n[15]Mccallister MM,Li Z, Zhang TW,et al. Revealing behavioral learning deficit phenotypes subsequent to in utero exposure to benzo (a)pyrene[J]. Toxicol Sci,2016,149(1): 42-54.   \n[16]Narita K,Nagao K,Bannai M,et al.Dietary deficiency of essential amino acids rapidly induces cessation of the rat estrous cycle[J]. PLoS One,2011,6(11): e28136.   \n[17] Zhang TS,Wang W, Huang J,et al. Metabolomic investigation of regional brain tissue dysfunctions induced by global cerebral ischemia[J].BMC Neurosci,2016,17(1):25.   \n[18]Hou YQ,Yin YL,Wu GY.Dietary essentiality of \"nutritionally nonessential amino acids\" for animals and humans[J].Exp Biol Med (Maywo0d),2015,240(8): 997-1007.   \n[19] Tabatabaie L,Klomp LW, Berger R,et al.L-serine synthesis in the central nervous system: a review on serine deficiency disorders[J]. Mol Genet Metab,2010,99(3): 256-62.   \n[20] Welch KM,Meyer JS,Chabi E,et al． Tyrosine uptake and neurotransmiter synthesis in ischemic brain after administration of alpha and beta adrengeric blocking agents to man[J].Trans Am Neurol Ass0c,1975,100(8): 256-9.   \n[21]Seyedabadi M,Fakhfouri G,Ramezani V,et al. The role of serotonin in memory: interactions with neurotransmitersand downstream signaling[J].Exp Brain Res,2014,232(3): 723-38.   \n[22] Cazin M,Luyckx M, Brunet C,et al. Excitatory amino acid receptors[J].JPharm Belg,1991,46(2): 100-6.   \n[23]Peris J,Dunwiddie TV. Inhibitory neuromodulation of release of amino acid neurotransmitters [J].Alcohol Drug Res,1985,6(4): 253-64.   \n[24]Meredith RM,Mccabe BJ,Kendrick KM,et al. Amino acid neurotransmiter release and learning: A study of visual imprinting [J].Neuroscience,2004,126(2): 249-56.   \n[25] Zhang HM, Nie JS, Xue CE,et al. Influence of benzoa]pyrene on learning and memory and content of amino acid neurotransmitters in hippocampus of rats[J]. Zhonghua Lao Dong Wei Sheng Zhi Ye Bing Za Zhi,2008,26(9): 546-8.   \n[26]Constantinou C, Chrysanthopoulos PK, Margarity M, et al. GC-MS metabolomic analysis reveals significant alterations in cerebellar metabolicphysiologyina mousemodel ofadultonset hypothyroidism[J].JProteome Res,2011,10(2): 869-79.   \n[27] Elias MF,Robbins MA,Budge MM, et al.Homocysteine,folate, and vitamins B6 and B12 blood levels in relation to cognitive performance: the maine-syracuse study[J]. Psychosom Med,2006, 68(4): 547-54.   \n[28] Pollak N,Dolle C， Ziegler M.The power to reduce: pyridine nucleotides--small molecules with a multitude of functions [J]. Biochem J,2007,402(2): 205-18. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

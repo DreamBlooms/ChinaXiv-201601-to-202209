@@ -1,0 +1,197 @@
+# 艾比湖流域降水、地表水和地下水稳定同位素特征
+
+郝帅¹²，李发东34，李艳红¹²，朱农³，乔云峰34， 田超34，杨涵1²，付凯1.2
+
+(1.新疆师范大学地理科学与旅游学院，新疆乌鲁木齐830054；2.新疆维吾尔自治区重点实验室新疆十旱区湖泊环境与资源实验室,新疆 乌鲁木齐830054；3.中国科学院地理科学与资源研究所,北京100101;4.中国科学院大学资源与环境学院，北京100190)
+
+摘要：选取艾比湖流域降水、地表水和地下水为研究对象，结合流域水文地质资料，利用野外调查、室内试验和统计分析等方法分析了流域不同水体氢氧稳定同位素的时空变化特征。结果表明：(1)艾比湖流域降水 $\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 变化范围分别为 $- 1 4 8 . 2 \% o { \sim } - 3 4 . 5 \% o$ 和 $- 2 0 . 1 6 \% o - 1 . 2 0 \% o$ ，流域大气降水线斜率为 $6 . 6 9$ 。降水 $8 ^ { 1 8 } 0$ 值与气温呈正相关关系，与降水量在夏季表现出显著的负相关关系。(2)地表水 $\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 变化范围为 $- 1 0 1 . 0 \% o { \sim } 1 7 . 0 \% o$ 和 $- 1 4 . 5 4 \% o \sim 0 . 2 9 \% o$ ,其中8月最大，其次为5月和10月。博尔塔拉河同位素值从上游到下游沿流程逐渐增加，而精河沿流程变化趋势不明显，河水 $8 ^ { 1 8 } 0$ 与气温存在正相关关系。(3)地下水 $\mathfrak { s } ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 值的范围分别为 $- 8 5 . 0 \% o \mathrm { \sim } 6 5 . 5 \% o$ 和$- 1 2 . 1 8 \% o { \sim } - 9 . 0 5 \% o$ ，平均值分别为 $- 7 5 . 5 \% o$ 和 $- 1 1 . 0 0 \% o$ 。博尔塔拉河区地下水同位素值从上游到下游沿流程逐渐增加，精河区沿流程变化趋势不明显。艾比湖流域水体稳定同位素的测定，为阐明流域水文过程提供同位素证据，对变化环境下有效利用水资源，维护流域生态安全具有重要意义。
+
+关键词：降水；地表水；地下水；稳定同位素；艾比湖
+
+# 文章编号：
+
+我国西北地区属于典型的干旱区，生态环境脆弱且水文变化剧烈，对全球气候变化响应敏感。该区域地貌特征多为山盆系统结构，流域水循环通常经历降水一地表径流一地下径流一地表径流一蒸散发这一系列过程,其中降水是主要驱动因素，地表水和地下水径流过程和相互转换是流域水循环过程的主要组成部分，蒸散发是水分自然耗散的最主要过程[[]。
+
+氢氧稳定同位素作为水的组成部分，称为水的“指纹”。作为一种新的研究手段，稳定同位素方法逐渐应用在干旱区流域水循环过程，可以在点和流域尺度上示踪水分运动[2]。同传统的研究方法相比，具有测量精度高和不易受外界因素干扰的优点[3]。
+
+通过示踪水体中保留的与其来源地环境演化有关的同位素信息，来探究水体的形成、转化及运移机理，提高对干旱区流域地下水径流和排泄过程以及降水，地表水和地下水之间相互转化关系的认识[4-5]。
+
+大气降水是应用同位素技术研究流域水循环的基础和前提，对大气降水稳定同位素的观测主要是通过全球大气降水同位素网络[6-7]。由于水汽的输送来源和环境要素的差异，水体中稳定同位素特征表现出大陆效应、气温效应、海拔效应和降水量效应[8-9]。干旱区强烈的局地水汽再循环和云下二次蒸发对水体同位素演化影响较大，降水、冰川融水、河水、地下水同位素值常常偏离大气降水线[10]。干旱区河流发源于山区，河流流程较长，蒸发强烈，水体同位素组成表现出富集效应[-12]。另外,由于局地水汽蒸发参与水循环过程，干旱区水体同位素表现为氘盈余值偏高，且具有明显的季节差异[13-14]。全球气候变化背景下，干旱区流域水文过程更加复杂，水分高效利用面临新挑战，亟需从稳定同位素角度探究不同水体水文特征的变化，特别是降水、地表水和地下水的稳定同位素特征需进一步加强研究，为阐明干旱区流域水体转化和水分运移过程提供同位素数据支撑。
+
+艾比湖流域位于新疆准噶尔盆地西南部，是丝绸之路经济带核心区，也是区域水盐汇集中心。流域景观类型丰富，有湿地、荒漠和山地生态系统类型，共同维持生态系统平衡，是研究变化环境下水文过程的理想场地。近年来，该区域的研究主要集中在植被恢复、土地荒漠化防治以及景观格局变化等方面[15-17],而水体的水文特征研究较少，不利于当地水资源的高效合理利用。因此，本研究选取水文过程的关键要素降水、地表水和地下水作为研究对象，着重分析三者稳定同位素特征及其影响因素，为明晰流域水文过程提供同位素证据，对变化环境下有效利用水资源，维护流域生态安全具有重要意义。
+
+# 1 研究区概况
+
+艾比湖流域 $( 4 4 ^ { \circ } 0 2 ^ { \prime } { \sim } 4 5 ^ { \circ } 2 3 ^ { \prime } \mathrm { N } , 7 9 ^ { \circ } 5 3 ^ { \prime } { \sim } 8 3 ^ { \circ } 5 3 ^ { \prime } \mathrm { E } )$ 属于典型的温带干旱大陆性气候,年均降水量 $8 9 . 9 \sim$ $1 6 9 . 7 \ \mathrm { m m }$ ,年均气温 $8 . 0 ~ \mathrm { ^ { \circ } C }$ ,年均蒸发量1569\~3421$\mathbf { m } \mathbf { m }$ 。该流域河流发源于山区，主要有奎屯河、精河、大河沿子河、博尔塔拉河、四棵树河和时令河等23条。夏季为丰水期,冬季为枯水期[18]。而博尔塔拉河下游丰水期在冬季，最大径流量出现在12—3月。艾比湖平均水深 $1 . 7 \mathrm { m }$ ,是区域水盐汇集中心，主要由地表河流及地下水补给，目前以地表径流补给的河流主要是精河和博尔塔拉河[19]。艾比湖流域地貌景观多样，集湿地和荒漠化过程于一体。
+
+# 2 研究方法
+
+# 2.1试验设计和野外采样
+
+于2018年5、8月和10月（分别代表春季、夏季和秋季)对流域地表水和地下水样进行采集。地表水样采集，主要对博尔塔拉河、精河、奎屯河、大河沿子河和艾比湖水，每个季节采集38个，其中博尔塔拉河水样24个，精河水样7个，奎屯河水样1个，大河沿子河水样3个，艾比湖水样3个(图1)。河水样点保证上中下游均有分布，按照等距离原则在主河道采样。湖水样在上午采集，样点分布在湖泊周边（由于条件限制，湖泊中心区域未采集），采样深度在湖水表面以下 $2 0 \mathrm { c m }$ 处。地下水样采集选择灌溉水井和饮用水井，每个季节采集22个(其中泉水样点6个），其中博尔塔拉河区12个，精河区3个，奎屯河区1个，艾比湖周边6个(图1)。
+
+降水样采集时间为2017年6月一2019年5月，采集点设在艾比湖湿地自然保护区管护站，在每次降水时收集，降水样保证收集从降水开始到结束全过程水样，共收集到降水样42个(图1)。
+
+降雨样品直接装入采样瓶中，迅速拧紧瓶盖防正水样蒸发分馏；固态降水先装人塑料袋内，扎紧袋口，在室温下完全融化；地表水样采集点尽量选择平缓的河段，避免滞水和受污染的水体，并置于水面下数厘米处采集；地下水样采集保证现场抽水，记录地下水埋深和井深。所有采集水样均装入$2 5 0 ~ \mathrm { m L }$ 高密度聚氯乙烯采样瓶中，采样瓶用采样点水润洗3次，确保采样瓶盛满水，避免空气气泡的存在，最后用Parafilm膜密封瓶口。所有水样均经孔径为 $0 . 4 5 ~ { \mu \mathrm { m } }$ 的滤膜抽滤，在试验分析之前冷藏保存[20]
+
+# 2.2氢氧稳定同位素测试
+
+氢氧稳定同位素( $\mathfrak { s } ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { 1 8 } 0 \|$ )测试在新疆师范大学自治区重点实验室新疆干旱区湖泊环境与资源实验室完成，利用液态水稳定同位素分析仪(Model DLT-1OO,Los Gatos Research,Mountain View,CA，USA)分析。每个样品分析6次，分析方法采用三次方样条拟合法，为了减小测试记忆效应，前2次分析结果舍弃，取后4次平均值。测得的氢氧稳定同位素含量为维也纳标准平均大洋水（V-SMOW）的千分偏差，可用以下公式[20]表示：
+
+$$
+\delta \left( \% \boldsymbol { o } \right) = \frac { R _ { \mathrm { { s a m p l e } } } - R _ { \mathrm { { s t a n d a r d } } } } { R _ { \mathrm { { s t a n d a r d } } } } \times 1 0 0 0
+$$
+
+式中： $R _ { \mathrm { s a m p l e } } \mathcal { \bar { H } } \mathbb { R } _ { \mathrm { s t a n d a r d } }$ 分别为采集水样和标准样品的$\mathrm { ^ { 2 } H }$ 或 $^ { 1 8 } \mathrm { O }$ 的同位素比率( $^ 2 \mathrm { H / ^ { 1 } H }$ 或 $^ { 1 8 } \mathrm { O } / ^ { 1 6 } \mathrm { O }$ ），其中$\ S ^ { 2 } \mathrm { H } \bar { \mathcal { \mathrm { H } } } \bar { \Phi } ^ { 1 8 } \mathrm { O }$ 的测定精度分别为 $0 . 5 \% o$ 和 $0 . 1 5 \% o$ 。
+
+# 干吴区地理
+
+注：图中S1\~S35为地表水样点，G1\~G22为地下水样点，L1\~L3为湖水样点。
+
+![](images/b2e3b0197451b72b721e0e50cebb9648e9d8c323480217523f6d20e6ae870a32.jpg)  
+图1区域采样点位置示意图  
+Fig.1 Location of sampling sites in the study area
+
+# 3结果与分析
+
+# 3.1降水稳定同位素特征
+
+艾比湖流域降水的 $\ S ^ { 2 } \mathrm { H }$ 和 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathrm { O }$ 值季节变化明显（表1），春季(3—5月） $\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 平均值分别为 $- 9 6 . 6 \% o 1 ( - 9 8 . 4 \% 0 { \sim } - 7 8 . 4 \% o )$ 和 $- 1 2 . 3 3 \% o ( - 1 2 . 8 9 \% o$ $\sim - 9 . 3 2 \% o$ ），夏季(6—8月）分别为 $- 4 5 . 5 \% o ( - 6 3 . 1 \%$ $\sim - 3 5 . 5 \% o )$ 和 $- 2 . 5 0 \% o ( - 5 . 9 4 \% o - 1 . 2 0 \% o )$ ，秋季(9—11月)分别为 $- 1 0 3 . 0 \% o ( - 1 3 2 . 7 \% o \sim - 6 2 . 8 \% o )$ 和 $- 1 1 . 3 1 \% o$ （ $- 1 7 . 7 4 \% o \sim - 5 . 6 4 \% o )$ ，冬季（12—2月）分别为$- 1 2 9 . 7 \% o 1 - 1 4 8 . 2 \% o - 9 8 . 3 \% o )$ 和 $- 1 8 . 6 3 \% o 1 - 2 0 . 1 6 \%$ $\sim - 1 4 . 3 8 \% o$ ),季节变化呈现夏季最大，冬季最小，春秋季居中的态势。
+
+根据艾比湖流域事件尺度降水 $\ S ^ { 2 } \mathrm { H }$ 和 $1 8 ^ { 1 8 } \mathrm { O }$ 值，统计分析得到该区域大气降水线为 $\delta ^ { 2 } \mathrm { H } { = } 6 . 6 9 \ \delta ^ { 1 8 } \mathrm { O } { - }$ 6.53( $R ^ { 2 } { = } 0 . 9 9$ $n { = } 4 2$ )（图2）。与全球大气降水线( $\hat { \boldsymbol { \delta } } ^ { 2 } \mathrm { H } = 8 \hat { \boldsymbol { \nu } } ^ { 1 8 } \mathrm { O } + 1 0$ )和全国大气降水线（ ${ \mathfrak { d } } ^ { 2 } { \mathrm { H } } = 7 . 9$ $8 ^ { 1 8 } \mathrm { O } + 8 . 2 \$ )[21]相比，艾比湖流域大气降水线的斜率(6.69)和常数项 $\left( - 6 . 5 3 \right)$ 均偏小。这主要有2个原因，一是研究区地处内陆干旱区，次降水量小，空气湿度低、降水在降落过程中经过较强的蒸发分馏;二是研究区远离海洋，产生降水的水汽有相当一部分来自局地的蒸发，干旱地区表面水体中 $\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 偏高，因此，蒸发水汽中 $\ S ^ { 2 } \mathrm { H }$ 和 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathrm { O }$ 亦偏高，加上雨滴在降落过程中产生蒸发分馏作用[22]。这2种原因均导致降水中重同位素的富集，大气降水线的斜率
+
+表1 艾比湖流域降水 ${ \mathfrak { s } } ^ { 2 } \mathbf { H }$ 和 ${ \delta } ^ { 1 8 } { \bf { O } }$ 季节变化  
+Tab.1 Seasonal variation of precipitation $\mathbf { \delta } \mathbf { \delta } ^ { 2 } \mathbf { H } \mathbf { \delta } \mathbf { a n d } \mathbf { \delta } \mathbf { \delta } ^ { 1 8 } \mathbf { 0 }$ in EbinurLake Basi   
+
+<html><body><table><tr><td colspan="2">8</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td rowspan="2">8²H</td><td>均值</td><td>-96.6</td><td>-45.5</td><td>-103.0</td><td>-129.7</td></tr><tr><td>范围</td><td>-98.4~-78.4</td><td>-63.1~-35.5</td><td>-132.7~-62.8</td><td>-148.2~-98.3</td></tr><tr><td rowspan="2">8180</td><td>均值</td><td>-12.33</td><td>-2.50</td><td>-11.31</td><td>-18.63</td></tr><tr><td>范围</td><td>-12.89~-9.32</td><td>-5.94~1.20</td><td>-17.74~-5.64</td><td>-20.16~-14.38</td></tr></table></body></html>
+
+1%0
+
+![](images/5c9a65fd3b987fcc045eb2759e6b5c805b61c66f819c7404e4efaa18a1726721.jpg)  
+注：GMWL为全球大气降水线；LMWL为区域大气降水线。  
+图2艾比湖流域降水 $\mathfrak { \delta } ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 关系
+
+和常数项变小。
+
+# 3.2地表水稳定同位素特征
+
+3.2.1河水稳定同位素时空变化特征博尔塔拉河、精河、奎屯河和大河沿子河 $\delta ^ { 2 } \mathrm { H }$ 与 $8 ^ { 1 8 } 0$ 季节变化如表2所示。可以看出，河水 $\ S ^ { 2 } \mathrm { H }$ 与 $\mathbf { \delta } ^ { \mathrm { 1 8 } } \mathbf { 0 }$ 值均为8月最大，5月次之，10月最小，季节间变幅相差不大。
+
+河水稳定同位素值随季节而变化，这主要是由于不同季节气温和降雨量等气象因子具有差异性。
+
+图3表示博尔塔拉河和精河 $\ S ^ { 2 } \mathrm { H }$ 与 $8 ^ { 1 8 } 0$ 不同季节沿流程变化特征。可以看出，博尔塔拉河同位素值从上游到下游沿流程逐渐增加，这主要是由于河流不同区段补给源和蒸发强度不同造成的。博尔塔拉河上游靠近山区，河流补给源主要为同位素值较低的冰雪融水，表现出上游河水同位素值最低。中下游区域为平坦的盆地和平原，河水流速减缓，气温升高，蒸发分馏明显，导致河水同位素值沿流程逐渐增加。精河同位素值沿流程变化趋势不明显，主要原因是河流流程较短，没有明显的河水补给源和气象要素的变化。不同水体间比较来看，精河水的氢氧同位素组成整体比博尔塔拉河水偏贫化，且沿流向变化幅度小，这是由于精河流程短且河水补给单一化造成的。艾比湖水同位素值与河水比较，在不同季节均有较大幅度的增加，反映了湖水强烈的蒸发浓缩作用导致同位素值富集。
+
+3.2.2 艾比湖水氢氧稳定同位素组成图4显示了艾比湖水稳定同位素 $\ S ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { 1 8 } 0 \|$ 相关关系。艾比湖
+
+1%0
+
+表2河水 $\mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \otimes \mathbf { \delta } \delta \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } \delta \mathbf { \delta } \delta \mathbf { \delta } \delta \mathbf { \delta }$ 和 $\mathbf { 8 ^ { 1 8 } O }$ 季节变化  
+Tab.2Seasonal variationofriverwater $\mathbf { \delta } \mathbf { \delta } ^ { 2 } \mathbf { H } \mathbf { \delta } \mathbf { a n d } \mathbf { \delta } \mathbf { \delta } ^ { 1 8 } \mathbf { 0 }$ in the EbinurLake Basin   
+
+<html><body><table><tr><td rowspan="2" colspan="2">8</td><td colspan="3">博尔塔拉河</td><td colspan="3">精河</td><td colspan="3">奎屯河</td><td colspan="3">大河沿子河</td></tr><tr><td>5月</td><td>8月</td><td>10月</td><td>5月</td><td>8月</td><td>10月</td><td>5月</td><td>8月</td><td>10月</td><td>5月</td><td>8月</td><td>10月</td></tr><tr><td rowspan="2">8²H</td><td rowspan="2">均值</td><td>-82.9</td><td>-75.4</td><td>-90.2</td><td>-85.6</td><td>-79.4</td><td>-88.8</td><td rowspan="2">-84.3</td><td rowspan="2">-77.4</td><td rowspan="2">-86.2</td><td>-80.2</td><td>-73.5</td><td>-88.6</td></tr><tr><td>-96.1~</td><td>-84.1~</td><td>-101.1~</td><td>-88.5~</td><td>-81.2~</td><td>-90.8~</td><td></td><td>-85.1~</td><td>-79.1~ -92.1~</td></tr><tr><td rowspan="2"></td><td rowspan="2">范围</td><td>-75.0</td><td>-65.1</td><td>-80.9</td><td>-80.5</td><td>-75.8</td><td>-86.3</td><td rowspan="2">/</td><td rowspan="2">/</td><td>/</td><td>-77.0</td><td>-70.1</td><td>-82.9</td></tr><tr><td>-11.77</td><td>-10.71</td><td>-12.81</td><td>-12.51</td><td>-11.61</td><td>-12.99</td><td>-11.32 -10.45 -11.55</td><td></td><td></td><td>-11.84</td></tr><tr><td rowspan="2">8180</td><td rowspan="2">范围</td><td>-13.84</td><td>-12.04~</td><td>-14.54~</td><td>-12.98~</td><td>-11.91~</td><td>-13.21~</td><td rowspan="2"></td><td rowspan="2">/</td><td rowspan="2">/</td><td>-10.73 -12.84~</td><td>-9.76 -11.44~</td><td>-13.54~</td></tr><tr><td>~-9.61</td><td>-8.34</td><td>-10.97</td><td>-11.68</td><td>-11.00 -12.52</td><td>/</td><td>-9.86</td><td>-8.86</td><td>-10.64</td></tr></table></body></html>
+
+注：""表示无值。
+
+![](images/a1ab9d85673a4998171b5f997cda738c61381e9b73a89c4bc0689f254c099b70.jpg)  
+Fig.2 Relationship between the precipitation $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ in theEbinurLakeBasin   
+图3博尔塔拉河和精河同位素沿流程变化特征   
+Fig.3Stable isotopic variation characteristics of Bortala River and Jinghe River along the flow path
+
+![](images/9d4c7b8662337a745cda19d8c19ea7aef7d064f4ab721449044f9c64257fe125.jpg)  
+图4 艾比湖水 $\ S ^ { 2 } \mathrm { H }$ 和 $| \delta ^ { \mathrm { 1 8 } } \mathrm { O }$ 相关关系 Fig.4 Relationship between $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ ofEbinurLakewater
+
+水5月 $\mathfrak { s } ^ { 2 } \mathrm { H }$ 和 $1 8 ^ { 1 8 } \mathrm { O }$ 的变化范围分别为 $- 2 6 . 4 \% o .$ ）$- 2 2 . 4 \% o$ 和 $- 1 . 9 5 \% o \mathrm { \sim } 1 . 2 1 \% o , 8$ 月为 $- 1 9 . 7 \% o \sim - 1 7 . 0 \% o$ 和 $- 0 . 2 8 \% o \sim 0 . 2 9 \%$ ，10月为 $- 2 8 . 6 \% o \sim - 2 4 . 6 \% o$ 和$- 2 . 6 5 \% o \mathrm { { \sim } } 1 . 8 4 \% o$ 。艾比湖水氢氧稳定同位素均值8月最大，5月次之，10月最小，变幅季节间相差不大。
+
+基于氢氧稳定同位素的相关关系得到的湖水线方程为 $\mathfrak { \delta } ^ { 2 } \mathrm { H } = 4 . 0 7 \mathfrak { F } ^ { 1 8 } \mathrm { O } - 1 7 . 9 3$ $\left( R ^ { 2 } { = } 0 . 9 8 , P { < } 0 . 0 1 \right)$ ，可见湖水线斜率(4.07)低于全球降水线(8)和当地降水线(6.69），表明艾比湖水在干燥环境下受到非平衡蒸发的影响。湖水线斜率低于河水线，但湖水样点基本位于入湖河水线的延长线上，说明河水是艾比湖水的主要补给来源，但湖水蒸发作用较河水强烈。
+
+# 3.3地下水稳定同位素特征
+
+艾比湖流域地下水同位素值具有季节性差异，表现为5月最高，10月次之，8月最小。 $\ S ^ { 2 } \mathrm { H }$ 值的范围从 $- 8 5 . 0 \% o$ 到 $- 6 5 . 5 \% o$ ,平均值为 $- 7 5 . 5 \% o$ ： $8 ^ { 1 8 } 0$ 值的范围从 $- 1 2 . 1 8 \% o$ 到 $- 9 . 0 5 \% o$ ,平均值为 $- 1 1 . 0 0 \text{‰}$ ○
+
+艾比湖流域地下水样点在山区和平原均有分布，博尔塔拉河区和精河区地下水沿程变化特征见图5。博尔塔拉河区地下水G1和G2点同位素值明显比其他样点低，因为这2个样点位于上游区域，直接受冰雪融水补给，气温低，蒸发分馏效应不明显。从G3到G11点同位素值表现出在波动中略微升高的趋势，显示出受到潜水蒸发的影响。G7点在5月和10月同位素值出现了降低，这可能是由于下游区域农业灌溉对地下水补给造成的。G8和G9点出现略微升高的现象，可能是由于G8点地下水位较浅 $3 0 ~ \mathrm { m } ,$ )，与地表水相互转化频繁，而附近地表水由于受蒸发影响同位素值逐渐富集。精河区地下水同位素值从中游到下游呈逐渐增加的趋势，值得注意的是，G12和G13点的井深只有 $4 0 \mathrm { m }$ ，而G14点的井深达到了 $1 0 0 \mathrm { m }$ ，前2个样点由于与河水的交换作用同位素值较低，而G14样点非常接近艾比湖，应该是与高同位素值的湖水交换作用导致此样点同位素值偏高。
+
+# 3.4水体稳定同位素与环境要素关系
+
+3.4.1 降水稳定同位素与降水量和气温的关系 大气降水中 $\ S ^ { 2 } \mathrm { H } \mathcal { F } \mathbb { H } \ S ^ { 1 8 } \mathrm { O }$ 的变化与产生降水的蒸发和凝结过程密切相关，而气温是制约蒸发和凝结过程的重要因子。相关研究表明，气温升高会引起同位素分馏，导致水中重同位素的富集，从而使氢氧稳定同位素值升高[23]。图6显示了研究区氧同位素与气温的关系，可以看出事件尺度降水 $8 ^ { 1 8 } 0$ 值与气温之间有显著的正相关关系，关系式为 $\delta ^ { 1 8 } \mathrm { O } = 0 . 4 1 7 T -$ 14.479( $\lceil P < 0 . 0 5 \rceil$ ，气温每升高 $1 \mathrm { { ^ { c } } }$ ,将会引起 $8 ^ { 1 8 } 0$
+
+![](images/c20bc59510396ea2029c665c5ac116ec05c85caca06dcda631e74c95a4c9365b.jpg)  
+图5博尔塔拉河区和精河区地下水 $\ S ^ { 2 } \mathrm { H }$ 和 $1 8 ^ { 1 8 } \mathrm { O }$ 沿程变化特征
+
+Fig.5Groundwater $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ variation characteristics of Bortala River and Jinghe River Basin along the flow path
+
+![](images/7d505d1a2c30250a8c44c29f36c6f8ceb68de59fe208d6e827e7ff9804095590.jpg)  
+图6艾比湖流域降水 $\mathbf { \delta } ^ { 8 } \mathbf { \mathrm { ~ ‰ ~ } }$ 值与降水量和气温关系  
+Fig.6Relationship between precipitation $8 ^ { 1 8 } 0$ and rainfall amount and temperature in Ebinur Lake Basin
+
+增加约为 $0 . 4 1 7 \mathrm { ‰ }$ 。
+
+观察研究区降水中的 $8 ^ { 1 8 } 0$ 与降水量之间的关系，可以看出全年尺度 $8 ^ { 1 8 } 0$ 与降水量没有显著的变化趋势，说明研究区在全年尺度不存在降水量效应。经典同位素理论认为，降水量效应在内陆区通常不显著，而主要体现在中纬度海岸和海岛地区，降雨量效应的产生与强烈的对流现象有关[24]。在本研究区，随着降雨强度的增大， $8 ^ { 1 8 } 0$ 有下降的趋势。若只考虑夏季降雨，可以得出如下关系式$\mathfrak { d } ^ { 1 8 } \mathrm { O } = - 1 . 1 4 6 P + 1 . 1 6 9$ ,从图中可以看出，夏季的降水量效应还是比较显著的。可见，研究区全年尺度上降水稳定同位素的降水量效应不显著，而夏季有较明显的降水量效应，其他干旱区也有类似现象[25]$\ S ^ { 1 8 } \mathrm { O } - P$ 关系约为 $- 1 . 1 4 6 \% o \cdot \mathrm { m m } ^ { - 1 }$ 。
+
+艾比湖流域位于极端干旱区，降水量少，且主要集中在春季和夏季，秋冬季降水量较少，从观测数据来看，10月到次年4月期间降水量较少，气温较低，在气温效应的控制下，降水稳定同位素值呈现贫化特点，而夏季随着降水量的增加使得同位素值增大，呈现出降雨量效应。研究表明，季风降水的同位素组成特征可能会表现出一定的降水量效应[26]另外，研究区夏季的降水受局地水汽循环影响，而这些水汽中的稳定同位素值普遍较高，加之高温下的强烈蒸发，造成稳定同位素值偏高。
+
+3.4.2地表水稳定同位素与气温的关系一般而言，水同位素的气温效应在高纬度地区表现明显，且越深入大陆内部，其正相关关系越显著[25]。图7中可以看出,艾比湖流域河水中 $8 ^ { 1 8 } 0$ 与气温存在正相关关系，其中博尔塔拉河水5、8月和10月 $8 ^ { 1 8 } 0$ 与气温的关系式分别为 $\hat { \mathrm { \Phi } } ^ { 1 8 } \mathrm { O } { = } 0 . 2 8 2 T { - } 1 4 . 9 9 9 ( R ^ { 2 } { = } 0 . 4 3 7 )$ 、$\ S ^ { 1 8 } \mathrm { O } = 0 . 1 7 1 T - 1 4 . 5 3 0$ （ $R ^ { 2 } { = } 0 . 5 7 2 )$ 和 $\delta ^ { 1 8 } \mathrm { O } = \ 0 . 2 2 7 T -$ 16.238( $R ^ { 2 } { = } 0 . 4 7 3 \ r ,$ ，气温每升高 $1 \mathrm { { ^ { c } } }$ ，将会引起 $8 ^ { 1 8 } 0$ 分别增加约为 $0 . 2 8 2 \% o \setminus 0 . 1 7 1 \%$ 和 $0 . 2 2 7 \text{‰}$ 。精河水5、8月和10月 $\mathfrak { \delta } ^ { 1 8 } \mathrm { O }$ 与气温的关系式分别为 $\mathfrak { \delta } ^ { 1 8 } \mathrm { O }$ $= 0 . 0 8 9 T - 1 3 . 5 5 9$ ( $R ^ { 2 } { = } 0 . 2 4 4$ 、 $\ S ^ { 1 8 } \mathrm { O } = 0 . 0 2 7 T - 1 2 . 3 3 5$ $( R ^ { 2 } { = } 0 . 2 0 2 )$ 和 $\ S ^ { 1 8 } \mathrm { O } = 0 . 0 2 9 T - 1 3 . 5 3 2 \left( R ^ { 2 } { = } 0 . 1 8 9 \right)$ ，气温每升高 $1 \ \mathrm { { ^ { c } } }$ ,将会引起 $8 ^ { 1 8 } 0$ 分别增加约为 $0 . 0 8 9 \mathrm { ‰ }$ 、$0 . 0 2 7 \mathrm { ‰ }$ 和 $0 . 0 2 9 \mathrm { ‰ }$ 。可见，气温对博尔塔拉河和精河水同位素值的影响均在5月最大，10月次之，8月最小。这可能是因为5月和10月是河流枯水期，8月是丰水期,枯水期在河流水位、流量和流速方面均比丰水期小,气温的变化对河水影响较大，而丰水期气温可能只能影响到表层河水，对下层河水影响较小。两河间比较，气温对博尔塔拉河水同位素的影响更明显一些，这主要是因为博尔塔拉河流程长，沿途须经过山区、绿洲和荒漠等自然景观，每1种自然景观对河流水文特性产生不同的影响，山区海拔高气温低，荒漠日照强烈气温高，气温对河水的影响更复杂，也更明显。而精河流程短,河水气温和同位素值各采样点变化不大，气温对河水的影响不明显。
+
+博尔塔拉河不同区位气温对 $8 ^ { 1 8 } 0$ 的影响也存在差异(表3)。总的来说，下游地区河水 ${ \mathfrak { \delta } } ^ { 1 8 } \mathrm { { O } }$ 对气温的响应最敏感，其次为中游地区，上游地区两者相关性最小。博尔塔拉河下游地区为荒漠，气温高，蒸发量大，河水蒸发分馏作用强，上游山区气温
+
+![](images/6b942f3dc5dc6bbfe203be44df3418742d93653d206ef1a8e0e968f44cc6b6ba.jpg)  
+图7博尔塔拉河和精河 ${ \mathfrak { F } } ^ { 1 8 } \mathrm { O }$ 与气温相关关系  
+Fig.7Relationship between Bortala River and Jinghe River $8 ^ { 1 8 } 0$ and river temperature
+
+# 表3博尔塔拉河上中下游不同季节 $\mathbf { 8 ^ { 1 8 } O }$ 与气温关系
+
+Tab.3 Relationship between seasonal $\mathbf { 8 ^ { 1 8 } 0 }$ and river temperature in the upstream, midstream and downstream of Bortala River   
+
+<html><body><table><tr><td rowspan="2">区段</td><td colspan="2">5月</td><td colspan="2">8月</td><td colspan="2">10月</td></tr><tr><td>关系式</td><td>R</td><td>关系式</td><td>R</td><td>关系式</td><td>R</td></tr><tr><td>上游</td><td>8O =0.035T-12.728</td><td>0.04</td><td>8O =0.033T-12.147</td><td>0.02</td><td>8O =0.024T-13.133</td><td>0.03</td></tr><tr><td>中游</td><td>88O =0.256T-14.577</td><td>0.46</td><td>δO =0.148T-13.914</td><td>0.52</td><td>8O =0.239T-16.280</td><td>0.41</td></tr><tr><td>下游</td><td>8O =0.578T-19.211</td><td>0.55</td><td>8O =0.326T-18.682</td><td>0.62</td><td>8O =0.454T-20.412</td><td>0.75</td></tr></table></body></html>
+
+低，湿度大，蒸发量小，河水同位素分馏程度低。不同区段河流气温与 $8 ^ { 1 8 } 0$ 关系的季节变化比较复杂，上游区域5月气温对 $8 ^ { 1 8 } 0$ 的影响最明显，其次为8月，最小为10月；中下游区域 $8 ^ { 1 8 } 0$ 对气温的敏感性最强的月份依然是5月，但最小为8月，10月居中，反映了上游同中下游区域的河水与环境相互关系的差异性。
+
+降水 $\delta ^ { 1 8 } \mathrm { O } - T$ 关系约为 $0 . 4 1 7 \% o \cdot ^ { \circ } \mathrm { C } ^ { - 1 }$ ，而河水$\ S ^ { 1 8 } \mathrm { O } - T$ 关系值均低于降水，说明了河水的气温效应低于降水的气温效应，主要原因是降水对气温的响应比河水更敏感，而且干旱区雨滴在降落过程中要经过强烈的云下二次蒸发和水汽再循环过程的影响，气温对河水蒸发的影响主要表现在表层，对于流动状态的下层河水同位素影响相对较小。
+
+# 4结论
+
+（1）艾比湖流域降水 $\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 变化范围分别为 $- 1 4 8 . 2 \% o \sim - 3 4 . 5 \% o$ 和 $- 2 0 . 1 6 \% o \sim 1 . 2 0 \% o$ 。根据$\ S ^ { 2 } \mathrm { H }$ 和 $8 ^ { 1 8 } 0$ 关系得出流域大气降水线为 ${ \delta } ^ { 2 } \mathrm { H } = 6 . 6 9$ $8 ^ { 1 8 } \mathrm { O } - 6 . 5 3$ （ $R ^ { 2 } { = } 0 . 9 9$ $n { = } 4 2$ )。降水 $8 ^ { 1 8 } 0$ 值与气温之间关系式为 $\scriptstyle 8 ^ { 1 8 } \mathrm { O } = 0 . 4 1 7 T - 1 4 . 4 7 9$ 。降水 $8 ^ { 1 8 } 0$ 与降水量在夏季表现出显著的负相关关系。
+
+(2）地表水 $\mathfrak { s } ^ { 2 } \mathrm { H }$ 和 $1 8 ^ { 1 8 } 0$ 变化范围为 $- 1 0 1 . 0 \% o \sim$ $- 1 7 . 0 \% o$ 和 $- 1 4 . 5 4 \% o \sim 0 . 2 9 \% o$ 。博尔塔拉河同位素值从上游到下游沿流程逐渐增加，精河同位素值沿流程变化趋势不明显。地表水 $\ S ^ { 2 } \mathrm { H }$ 与 $8 ^ { 1 8 } 0$ 值8月最大,其次为5月和10月。河水 $8 ^ { 1 8 } 0$ 与气温存在正相关关系，艾比湖水线方程为 $\ S ^ { 2 } \mathrm { H } = 4 . 0 7 \ S ^ { 1 8 } \mathrm { O } - 1 7 . 9 3$ ( $R ^ { 2 } { = }$ $_ { 0 . 9 8 , P < 0 . 0 1 } ,$ 。
+
+(3）地下水 $\mathfrak { s } ^ { 2 } \mathrm { H }$ 和 $\mathfrak { \delta } ^ { 1 8 } \mathrm { O }$ 值的范围分别为$- 8 5 . 0 \% o \sim - 6 5 . 5 \% o$ 和 $- 1 2 . 1 8 \% o { \sim } - 9 . 0 5 \% o$ ,平均值分别为 $- 7 5 . 5 \% o$ 和 $- 1 1 . 0 0 \% o$ 。博尔塔拉河区域地下水同位素值从上游到下游沿流程逐渐增加，精河区域地下水同位素值沿流程变化趋势不明显。
+
+# 参考文献(References）
+
+[1] 庞忠和.新疆水循环变化机理与水资源储蓄[J].第四纪研究, 2014,34(5): 907-917.[Pang Zhonghe.Mechanism of water cycle changes and implications on water resources regulation in Xinjiang Uygur Autonomous Region[J]. Quaternary Sciences,2014,34
+
+(5): 907-917.]   
+[2]Adomako D, Maloszewski P, Stumpp C.Estimating groundwater recharge from water isotope( $\ S ^ { 2 } \mathrm { H }$ ， $\delta ^ { 1 8 } 0$ )depth profiles in the Densu River Basin,Ghana[J]. Hydrological Sciences Journal, 2010,55 (8): 1405-1416.   
+[3]Bruk L, Seifu K G, Sileshi N. Spatial and temporal $^ \mathrm { { } ^ { 2 } H }$ and $^ { 1 8 } 0$ isotope variation of contemporary precipitation in the Bale Mountains,Ethiopia[J].Isotopes in Environmental and Health Studies, 2020, 56(2): 1-14.   
+[4]Emily H, Dioni C,Dawit B.Environmental isotopes as indicators of groundwater recharge,residence times and salinity in a coastal urbanredevelopment precinctin Australia[J].Hydrogeology Journal,2019,28(2): 1-18.   
+[5]王雨山,郭媛,周殷竹,等.基于水化学和同位素评价马莲河下 游地下水补给河水的时空变化[J].干旱区地理,2020,43(2): 290-298.[Wang Yushan, Guo Yuan,Zhou Yinzhu,et al. Quantifications of spatial and temporal variations in groundwater discharge into a river using hydrochemical and isotopic tracers[J].Arid Land Geography,2020,43(2): 290-298.]   
+[6]Araguas-Araguas L,Froehlich K.Deuterium and oxygen-18 isotope composition of precipitation and atmospheric moisture[J].Hydrological Processes,2000,14(8): 1341-1355.   
+[7]宋献方,柳鉴容,孙晓敏,等.基于CERN的中国大气降水同位 素观测网络[J].地球科学进展,2007,22(7):738-747.[Song Xianfang,Liu Jianrong,Sun Xiaomin,et al. Establishment of Chinese network of isotopes in precipitation(CHNIP) based on CERN [J]. Advances inEarthScience,20,22(7):738-747.]   
+[8]Sprenger M,Leistert H, Gimbel K.Illuminating hydrological processes at the soil- vegetation-atmosphere interface with water stable isotopes[J]. Reviews of Geophysics,2016,54: 674-704.   
+[9]Pang Z, Kong Y, Froehlich K. Processes affcting isotopes in precipitation of an arid region[J]. Tellus B,2011,63(3): 352-359.   
+[10] Kong Y,Pang Z.A positive altitude gradient of isotope in the precipitation over the Tianshan Mountains: Efects of moisture recycling and sub-cloud evaporation[J]. Journal of Hydrology，2016, 542: 222-230.   
+[11]Abiye T, Mengistu H, Masindi K,et al. Surface water and groundwater interaction in the Upper Crocodile River Basin,Johannesburg,South Africa: Environmentalisotopeapproach[J].South African Journal of Geology,2015,118:109-118.   
+[12] 韩知明,贾克力,史小红,等.克鲁伦河流域下游水体氢氧同位 素与水化学特征[J].干旱区地理,2019,42(1):85-91.[Han Zhiming,Jia Keli,Shi Xiaohong,et al.Hydrochemical and hydrogen and oxygen isotopic characteristics of water in the low reach of Kherlen River[J]. Arid Land Geography,2019,42(1): 85-91.]   
+[13] Wang S, Zhang M, Che Y.Influence of below-cloud evaporation on deuterium excess in precipitation of arid Central Asia and its meteorological controls[J].Journal of Hydrometeorolgy，2016,17(7): 1973-1984. [14]Ma Q, Zhang M,Wang L.Quantification of moisture recycling in the riverbasins of China and its controlling factors[J]. Environmental Earth Sciences,2019,78(14): 392,doi: 10.1007/s12665-019-   
+8404-z. [15] 王诗韵,吕光辉,蒋腊梅,等.不同尺度下艾比湖典型植物群落 功能多样性和系统发育多样性研究[J].生态环境学报,2020,   
+29(5): 889-9OO.[Wang Shiyun,Lyu Guanghui, Jiang Lamei, et al. Multi-scaleanalysis on functionaldiversityand phylogeneticdiversity of typical plant community in Ebinur Lake[J]. Ecology and Environmental Sciences,2020,29(5): 889-900.] [16]王敬哲.内陆干旱区尾闾湖湿地识别及其景观结构动态变化 以艾比湖湿地为例[D].乌鲁木齐:新疆大学,2019:1-188. [Wang Jingzhe.Detection of terminal lake wetland and its landscape dynamics in arid regions:A case study from Ebinur Lake Wetland[D]. Urumqi: Xinjiang University,2019:1-18.] [17] 莫丰瑞,楚新正,马晓飞,等.景观格局变化下艾比湖湿地防风 固沙功能及其价值评估[J].生态科学,2017,36(6):195-206. [Mo Fengrui, Chu Xinzheng,Ma Xiaofei,et al.The windbreak and sand fixation function and its values assessment of landscape patterns change of Ebinur Lake Wetland[J].Ecological Science,   
+2017,36(6): 195-206.] [18] 苏向明,刘志辉,魏天锋,等.艾比湖面积变化及其径流特征变 化的响应[J].水土保持研究,2016,23(3):252-256.[Su Xiangming,Liu Zhihui,Wei Tianfeng,etal. Change of Ebinur Lake area and its response characteristics of the runoff change[J]. Research of Soil and Water Conservation,2016,23(3): 252-256.] [19] 张飞,王娟,塔西甫拉提·特依拜.1998—2013年新疆艾比湖湖 面时空动态变化及其驱动机制[J].生态学报,2015,35(9):   
+2849-2859.[Zhang Fei, Wang Juan,Tiyip Tashpolat. The spatial and temporal dynamic changes and driving forces in the surface area of Ebinur Lake from 1998 to 2013[J].Acta Ecologica Sinica,   
+2015,35(9): 2849-2859.] [20] 顾慰祖,庞忠和,王全九,等.同位素水文学[M].北京:科学出版 社,2011:1-1113.[Gu Weizu,Pang Zhonghe,Wang Quanjiu, et al. Isotopic hydrology[M]. Beijing: Science Press,2011: 1-1113.] [21]郑淑蕙,侯发高,倪葆.我国大气降水的氢氧同位素研究[J].科 学通报,1983(13): 801-806.[Zheng Shuhui,Hou Fagao,Ni Bao. Research on hydrogen and oxygen isotopes of meteoric water in China[J]. Chinese Science Bulletin,1983(13): 801-806.] [22]Wang S, Zhang M, Hughes C E.Factors controlling stable isotope composition of precipitation in arid conditions:An observation network inthe Tianshan Mountains,CentralAsia[J].TellusB2016,   
+68(1): 26206,doi: 10.3402/tellusb.v68.26206. [23]王圣杰,张明军.新疆天山降水稳定同位素的时空特征与影响 因素[J].第四纪研究,2017,37(5):1119-1130.[Wang Shengjie, Zhang Mingjun. Spatio-temporal characteristics and influencing factors of stable isotopes inprecipitationacross theChinese Tianshan Mountains[J]. Quaternary Sciences,2017,37(5): 1119-1130.] [24]Jochen H. Stable isotope geochemistry[M]. Heidelberg: Springer,   
+2018: 1-10.
+
+# 干吴区地理
+
+[25]Guo X,FengQ,Wei Y.An overview of precipitation isotopes over the extensive Hexi Region in NW China[J].Arabian Journal of Geosciences,2015,8(7): 4365-4387.
+
+[26]Ryunosuke U,Hiroshi O,Hiroko O.H and O isotopic differences in typhon and urban-induced heavy rain in Tokyo[J].Environmental Chemistry Letters,2017,15(4): 739-745.
+
+# Stable isotopes characteristics of precipitation, surface water and groundwater in Ebinur Lake Basin
+
+HAO Shuai $^ { 1 , 2 }$ ，LI Fadong³4，LI Yanhong¹2，ZHU Nong³，QIAO Yunfeng $^ { 3 , 4 }$ TIAN Chao³4， YANG Han¹²， FU Kai1,²2
+
+(1.CollegofGeogapicienceandTourism,XijangNoralUniversityUruqiO4,Xinjiang,Cina;.KeyLabato of XinjiangUygurAutonomousRegion,XinjiangLaboratoryofLakeEnvironmentandResourcesinAridArea,Urumqi830054, Xinjiang, China;3.InstituteofGeographicSciencesand Natural Resources Research,ChineseAcademyofSciences,Beijing 100101,China;4.CollgeofResourceandEnvironment,UniversityofChineseAcademyofSciences,Beijing090,China)
+
+Abstract: The study considered the precipitation,surface water,and groundwater of the Ebinur Lake Basin, Xinjiang,China as the research object. Combining the hydrogeological data,the temporal and spatial variation characteristics of hydrogen and oxygen isotopes of different water bodies in the basin were analyzed using field study,laboratory tests,and statistical analysis. The results show that: (1) the $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ of precipitation in the Ebinur Lake Basin range from $- 1 4 8 . 2 \text{‰}$ to $- 3 4 . 5 \text{‰}$ and $- 2 0 . 1 6 \text{‰}$ to $1 . 2 0 \text{‰}$ , respectively. The slope of the local meteorological water line is 6.69, precipitation $8 ^ { 1 8 } 0$ has a significant positive correlation with air temperature and a negative correlation with precipitation in summer. (2) Surface water $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ vary from $- 1 0 1 . 0 \text{‰}$ to $- 1 7 . 0 \text{‰}$ and $- 1 4 . 5 4 \text{‰}$ to $0 . 2 9 \text{‰}$ ,with the largest change in August, followed by May and October. The isotopic value of the Bortala River gradually increases from upstream to downstream,but the change in the trend of the Jinghe River is not obvious. $8 ^ { 1 8 } 0$ is positively correlated with temperature and negatively correlated with altitude.Compared with river water,the isotopic values of lake water increase significantly in different seasons, reflecting the high evapotranspiration and concentration of lake water. (3） The groundwater $\ S ^ { 2 } \mathrm { H }$ and $8 ^ { 1 8 } 0$ range from $- 8 5 . 0 \text{‰}$ to $- 6 5 . 5 \text{‰}$ and $- 1 2 . 1 8 \text{‰}$ to $- 9 . 0 5 \\text{‰}$ , respectively, and the average values are $- 7 5 . 5 \text{‰}$ and $- 1 1 . 0 0 \text{‰}$ ,respectively. The isotopic value of groundwater in the Bortala River region increases gradually from upstream todownstream,butit is not obvious in the JingheRiver region,which can be atributed to the different recharge sources and evaporation intensity in diferent sections of the river.The determination of stable isotopes in the Ebinur Lake Basin provides abasis for clarifying the hydrological process of the basin,which is of great importance for the effective use of water resources and the maintenance of ecological security in the face of environmental changes.
+
+Key words: precipitation； surface water; groundwater; stable isotopes； Ebinur Lake Basin

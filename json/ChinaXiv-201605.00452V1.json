@@ -1,0 +1,572 @@
+[
+    {
+        "type": "text",
+        "text": "Production of highly bioactive resveratrol analogues pterostilbene and piceatannol in metabolically engineered grapevine cell cultures ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ascensión Martinez-Márquez1+, Jaime A. Morante-Cariel1'2， Karla Ramirez-Estrada³, Rosa M. Cusid63 Javier Palazon³ and Roque Bru-Martinez1'\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plantroteoctfstcul   \n2Biotechnologyand Molecular Biology Group,Quevedo State Technical University,Quevedo,Ecuador   \n3Laboratoryof PlantPhysiology,Facultyof Pharmacy，UniversityofBarcelona,Barcelona,Spain Received 24 November2015;   \nrevised11 January2016;   \naccepted 11 January2016.   \n$\\star$ Correspondence (Tel +34965903880; fax +34965909955;email roque.bru@ua.es) +This article is part of Ascension MartinezMarquez's PhD thesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Grapevine stilbenes,particularly trans-resveratrol,have a demonstrated pharmacological activity. Other natural stilbenes derived from resveratrol such as pterostilbene or piceatannol, display higher oral bioavailabilityand bioactivity than the parent compound,butare far less abundant in natural sources.Thus,to eficiently obtain these bioactive resveratrol derivatives,there is a need to develop new bioproduction systems. Grapevine cell cultures are able to produce large amounts of easily recoverable extracellular resveratrol when elicited with methylated cyclodextrins and methyl jasmonate.We devised this system as an interesting starting point of a metabolic engineering-based strategy to produce resveratrol derivatives using resveratrolconverting enzymes.Constitutive expression of either Vitis vinifera resveratrol O-methyltransferase (VvROMT) or human cytochrome P450 hydroxylase 1B1 (HsCYP1B1) led to pterostilbene or piceatannol,respectively,after the engineered cell cultures were treated with the aforementioned elicitors.Functionality of both gene products was first assessed in planta by Nicotiana benthamiana agroinfiltration assays,in which tobacco cells transiently expressed stilbene synthase and VvROMT or HsCYP1B1.Grapevine cell cultures transformed with VvROMT produced pterostilbene,which was detected in both intra- and extracellular compartments,at a level of micrograms per litre. Grapevine cell cultures transformed with HsCYP1B1 produced about $2 0 ~ \\mathrm { m g / L }$ culture of piceatannol,displaying a sevenfold increase in relation to wild-type cultures,and reaching an extracellular distribution of up to $45 \\%$ of total production.The results obtained demonstrate the feasibility of this novel system for the bioproduction of natural and more bioactive resveratrol derivatives and suggest new ways for the improvement of production yields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: grapevine cell culture, metabolic engineering, piceatannol, pterostilbene,resveratrol,Vitis vinifera. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stilbenes are a family of polyphenols considered as the most important phytoalexin group in grapevine (Vitis vinifera).They derive from the general phenylpropanoid pathway in which transresveratrol $( 3 , 4 ^ { \\prime }$ ,5-trans-trihydroxystilbene;t-R) is first formed by stilbene synthases (STS) through the condensation of $p$ -coumaroyl-CoA with three units of malonyl-CoA (Figure 1).Free t-Rand its glycosylated derivatives are major stilbenes found in leaves and fruit;other stilbenes identified in grapes include piceatannol $( t r a n s \\cdot 3 , 3 ^ { \\prime } , 4 , 5 ^ { \\prime }$ -tetrahydroxy-stilbene；t-Pn） (Bavarescoet al., 2002)，while pterostilbene $( 3 ^ { \\prime } , 5 ^ { \\prime }$ -dimethoxy-resveratrol；t-Pt）is produced in small amounts in leaves by a specific resveratrol O-methyltransferase(VvROMT）uponmicrobialchallenge (Schmidlin et al.,2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The bioactivity of t-R has been widely studied and reviewed, and includes the prevention or slowing of a wide variety of illnesses,including cancer,obesity and cardiovascular diseases, as well as the extension of the lifespan of various organisms (Aggarwal et al.，2004; Baur and Sinclair,2006;Das and Das, 2007;Fulda,2010;Pervaiz and Holme,2009).Although these beneficial properties have been broadly demonstrated in vitro, transfer to in vivo systems is restricted by the limited oral bioavailability of t-R (Asensi et al.，20o2). Some t-R analogues suchaspolyhydroxyand polymethoxyderivatives exhibit higher pharmacological activity than the parent compound (Szekeres et al.，2O11). The naturally occurring t-Pt, $3 , 4 ^ { \\prime } , 5 -$ trimethoxystilbene，pinostilbene $^ { \\prime } 3 , 4 ^ { \\prime }$ -dihydroxy-5-methoxytrans-stilbene) anddesoxyrhapontigenin(3,5-dihydroxy $. 4 ^ { \\prime }$ methoxy-trans-stilbene)are found in some plants but at a very low concentration (Wang et al.，201O). Their bioavailability is five to ten times higher than that of t-R (Lin et al., 2010; Remsberg et al.,2oo8),and their anticancer and cancer chemopreventive activity have been demonstrated in both model cell culture systems and solid tumours (Pan et al., 2009;Suh et al.,2oo7).The efficacy of orally administered t-R depends on its absorption，metabolism and tissue distribution (Yu et al.，2oo6). In humans，hydroxy resveratrol derivatives such as $t \\mathrm { - } P { \\mathsf { n } }$ ，produced as a major metabolite of resveratrol by human liver CYP1B1 and CYP1A2 enzymes (Piver et al.,2004; Potter et al.，2oo2)，have revealed additional functions to anticancer properties.t-Pn obtained from a plant extract was identified as an antileukaemic principle (Ferrigni et al.，1984), displayinginhibitionoftyrosinekinases(Geahlenand McLaughlin，1989) involved incell proliferation(Fleming et al.，1995)，tubulin phosphorylation (Peters et al.，1996), the phosphorylation of DNA transcription factors (Suand David，2ooO),different types of cancer (Thakkar et al.，1993) and antiparasitic activity (Piotrowska et al.，2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d6c18ad9602515a51d462fa9760fa431e32424e4961fb257727f55199f254a9.jpg",
+        "img_caption": [
+            "Figure1 The biosynthetic pathway of stilbene compounds from sucrose as carbon source.The conversion of sucrose carbon into stilbenoids in grapevine cells involves several pathways from primary metabolism,that is glycolysis,pentose phosphate shunt and shikimate,to produce the amino acid phenylalanine as precursor of all polyphenolic compounds,and secondary metabolism, that is phenyl propanoid, to produce 4-coumaroyl CoA as precursor of stilbenoids (Langcake and Pryce,1977).The action of STS leads to the production of resveratrol as major stilbenoid,which is strongly induced (red dotted lines)under elicitation conditions with methylated $\\beta$ -cyclodextrin (MBCD) and methyl jasmonate (MeJA). In transformed grapevine cell lines with either VvROMT or HsCYP1B1 (green arrows), resveratrol is converted into methylated (pterostilbene) or hydroxylated (piceatannol) derivate,respectively.STS,stilbene synthase; VvROMT,resveratrol O-methyltransferase from Vitis vinifera;HsCYP1B1,human Cytochrome P450 hydroxylase 1B1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The therapeutic value of t-R and its derivatives has stimulated the demand for nutraceutical,cosmetic and pharmaceutical uses. Sources of resveratrol include extraction from plant raw material, chemical synthesis and bio-production， the latter havinga number of advantages that combine cost-effectiveness with beingenvironmentally friendly.The bioproduction of t-R (reviewed in Donnez et al.,2oo9) by grapevine cell cultures elicited with cyclodextrins (CD) alone (Bru et al.,2oo6) or combined with methyl jasmonate (MeJA) (Lijavetzkyetal.,2oo8;Martinez-Esteso et al.,2oo9) has proven to be the most efficient system,with a $30 \\%$ overall conversion of the sugar carbon into resveratrol carbon (Almagro et al.,2013).Metabolic engineering of microorganisms is also being intensively investigated as an alternative way for the bioproduction of t-R and analogues (Jeong et al., 2014; Kim et al.,2009; Li et al.，2015; Lim et al.,2011;Wang et al.,2o1O),but the yield of elicited grapevine cell cultures is still unbeaten. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This motivated us to investigate the production of the hydroxylated and methylated derivatives of t-R in grapevine cell suspensions.t-Pn accumulates in grape berries as a constitutive stilbene (Bavaresco et al.，2oo2）and t-Pt in grapevine leaves infectedby Plasmopara viticola (Langcake et al.，1979;Schmidlin et al.，2oo8); low amounts of pterostilbene are also produced during the preparation of grapevine protoplasts (Commun et al., 2003).This compound was also found in healthy grape berries as aconstitutive stilbene (Pezet and Pont，1988)，but not in grapevine cell cultures,even after elicitation (Bru et al.，2006; Lijavetzky et al.,2008;Martinez-Esteso et al.,2011a). To investigate if elicited cell cultures could become a new source of t-Pt and higher levels of t-Pn,we developed transgenic grapevine cell lines constitutively expressing HsCYP1B1 or VvROMT,and carried out elicitation experiments to supply t-R substrate forits conversion into the hydroxylated t-Pn or the methylated t-Pt, respectively (Figure 1).As a result，a number ofcell lines integrating the transgene expressed the corresponding protein and were able to accumulate t-Pn or t-Pt upon methylated $\\beta$ cyclodextrin (MBCD) and MeJA elicitation.Therefore,making use of enhanced metabolic capacity of grapevine cells upon elicitation to synthesize $t \\mathrm { - } R ,$ we have designed a metabolic engineering strategy to obtain t-Ptand t-Pnasa way to diversify the stilbeneproducing metabolic capacities of grapevine cell cultures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Biosynthesis of resveratrol derivatives in Nicotiana leaves ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Agrobacterium-mediated transient transformation of Nicotiana wasused to assess the functionality of the cloned genes ROMT and CYP1B1.As Nicotiana lacks the stilbenoid pathway,an STS gene was simultaneously transiently expressed to supply ROMT or CYP1B1 with t-R substrate in planta.In previous studies,several STS isoforms were shown to be induced in V. vinifera cv. Gamay and cv.Monastrell cell culture elicited with MBCD and MeJA (Martinez-Esteso et al.，2011a).Some of these isoforms such as Vst1 (Melchior and Kindl,1991) are known to produce t-R when introduced as a transgene into a range of species including tobacco (Nicotiana spp.),tomato (Solanum lycopersicum),papaya (Carica papaya)and grapevine (Coutos-Thévenot et al.，2001; Hain et al.，1990； Hipskind and Paiva，200O；Thomzik et al., 1997).Instead,we selected an STS gene (Acc.XM_002264953) not previously characterized whose protein product accumulates in response to MBCD and MeJA elicitors in grapevine cell cultures, to be coexpressed with ROMT or CYP1B1.As a control, tobacco leaves were infiltrated with Agrobacterium harbouring a rolDEgfpER construct (Martinez-Marquez et al.，2015).No stilbenes were detected in extracts from leaves expressing GFP (Figure 2b). Significant amounts of t-R and its glycosylated form piceid (tPc)accumulated when STS alone was transiently expressed (Figure 2c) while the coexpression of STS and ROMT resulted in an accumulation of t-Pt together with a decrease in the t-R and t-Pc peaks (Figure 2d) and the coexpression of STS and CYP1B1 resulted in a decrease in the resveratrol peak,together with an accumulation of t-Pn (Figure 2e). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Establishment of grapevine transformed cell culture ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.tumefaciens strain EHA 105 harbouring pJCV52-ROMT and A.tumefaciens strain C58C1 (pGV2260) harbouring pK7WG2DCYP1B1 successfully transformed callus of Vitis, from either Gamay or Monastrell varieties.After 4 weeks on selection medium, paramomycin-resistant callus colonies were large enough to harvest the biomass and transfer to new plates with fresh selection medium.In selection medium,the nontransformed material did not grow and turned brown while transformed callus grew vigorously.Within 3-4 months of initial transformation,sufficient callus material was obtained to launch liquid cultures, thus rapidly growing cell suspensions were established.Transgenic suspension cultures growing in paramomycin-containing medium showed no detectable difference in cell growth when compared to the wild parent cell line grown in paramomycin-free medium.Vitis transgenic cultures have been maintained under continuous paramomycin selection for more than 7 months and other 4 months in paramomycin free with no loss in vigour.On average，10 and 17 transformed calli were obtained per 1 g FW of plated Vitis Monastrell and Gamayvarieties cells,respectively,with no differences between the source material, either cell suspension or callus. About $6 0 - 6 5 \\%$ of Vitis transformed calli could be successfully maintained under continuous paramomycin selection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/884b9354805e68cd6ec5b046822e2f6aa766a031bcf469c87bd74eba3f77413a.jpg",
+        "img_caption": [
+            "Figure2odufttiaofitondctieedatoa infitrationtobacoaeseeecisdsifteifiatidetractsalydtractedoomataro resveatrol(dds construct().cidiibdacid and STS inducible by MBCD+MeJA.(e) Leaf extract agroinfiltrated with CYP1B1 and STS inducible by MBCD $^ +$ MeJA.Peaks:t-Pc,trans-piceid; t-R,transrsetrolt ldentityofpeaks WasconfirmedbyHPLC-ESI-MS/MSanalysis (datanotshown).Notethatt-Pccanbedetectedasamolecularion $[ M + H ^ { + } ] = 2 2 9$ due to extensive in-source fragmentation of this compound. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c0d5e6ac3253c3499132ab5190b91cc143a57039fab67b0a20c23263aa58c38.jpg",
+        "img_caption": [
+            "Figure 3 PCR amplification products from genomic DNA of transgenic callus lines of Vitis vinifera Monastrell and Gamay varieties. Amplification was carried out using P35S-ROMT, CYP1B1 and virB specific primers (Table S3). (a,c) Amplification products of P35S-ROMT (a) and CYP1B1 (c) from transgenic lines of $V .$ vinifera Monastrell and Gamay varieties. (b,d) Amplification products of virB from transgenic lines of $V .$ vinifera Monastrell and Gamay varieties.WT.wild-type callus negative control using nontransgenic genomic DNA of Vitis cells, 1-7 randomly selected transgenic callus.PC: positive controls using plasmidic DNA as template ",
+            "Figure 4 Expression of ROMT and CYP1B1 recombinant protein in cell cultures of Vitis vinifera Monastrell and Gamay varieties. (a) Expression of HA-tag fusion proteinswas confirmed by Western blot analysis with anti-HAtag antibody. (b) Expression of human liver CYP1B1 protein was confirmed by Western blot analysis with CYP1B1 antibody.WT,wild-type callus negative control using protein extract of nontransformed Vitis cells,1-7 randomly selected transgenic callus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Molecular characterization of grapevine transformed cell culture ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seven randomly selected grapevine transgenic calli,as well as the control wild-type calli，were checked for plant genome T-DNA integration of ROMT and CYP1B1 genes by PCR amplification using primer pairs specific for ROMT and CYP1B1 under control of P35S,and for eventual Agrobacterium contamination using virB primer pairs;ROMT and CYP1B1 were present in all of their respective transgenic clones,but not in the wild type (Figures 3a and 3c),whereas the virB PCR product was absent in all transgenic lines (Figures 3b and 3d).These results proved that the transgenic cultures were actually transformed with either ROMT or CYP1B1 and were not contaminated with Agrobacterium. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Immunodetection of HA-tagged ROMT protein and CYP1B1 protein in the soluble fraction of the corresponding transformed Vitis cultures was used to assess for recombinant protein synthesis in transgenic calli,as well as the negative control wild-type callus We were able to visualize HA-tagged ROMT protein bands in Western blots with anti-HA-tag antibody.A HA-tagged ROMT band of the expected theoretical molecular weight of $4 1 . 7 \\ k \\mathsf { D } \\mathsf { a }$ Was clearly distinguished in the soluble protein fraction of Vitis transformants callus of Gamay (6 of 7) and Monastrell (3 of 7), while it was absent in nontransformed cultures (Figure 4a). Furthermore,an additional band of approximately $5 0 ~ \\mathsf { k D a }$ was detected in 2and 5 transformant calli of Gamay and Monastrell, respectively,and a band of apparent Mwof $3 7 \\ k \\mathsf { D } \\mathsf { a }$ was also detected in two Monastrell calli where the $4 1 . 7 \\ k \\mathsf { D a }$ band was present as well.CYP1B1 protein bands in Western blots were visualized with anti-CYP1B1 antibody.A CYP1B1 band was clearly distinguished in the soluble protein fraction (Figure 4b) of all Vitis transformants callus corresponding to their theoretical molecular weight of $6 0 . 8 ~ \\mathsf { k D a }$ while it was absent in nontransformed cultures.A second band of ca. $5 5 ~ \\mathsf { k D a }$ appeared which most likely corresponded to a HsCYP1B1 degradation product, and according to the band intensity,degradation extent is higher in Gamay than in Monastrell. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tocharacterize recombinant ROMT activity， total soluble protein extract of grapevine transformant and wild-type callus was incubated with resveratrol and SAM.HPLC-MS analysis of reaction products after $2 4 \\mathrm { ~ h ~ }$ incubation with grapevine transgenic protein extract showed two peaks corresponding to resveratrol and pterostilbene (Figure 5). In the protein extract of wild-type callus， there was revealed a single peak corresponding to resveratrol, thus providing solid evidence of the functionality of ROMT in transgenic grapevine lines. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Accumulation of stilbenoids in grapevine cell cultures upon elicitation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is well known that elicitation treatments of $V .$ vinifera cv. Gamay and cv.Monastrell cell suspensions with MBCD combined with MeJA lead to large increases in accumulation of t-R (Lijavetzky et al.,2oo8) because t-R is abundantly synthesized in treated cells and continuously translocated to the medium. However，the treatment with MBCD and MeJA does not lead to de novo synthesis of cis-resveratrol (c-R)，being a minority metabolite as compared to t-R (Martinez-Esteso et al.，2011a). Inside the cels， trans-piceid (t-Pc)was already present in nontreated cells and underwent little or no significant change in abundance in response to the treatment,results that correlate well with our present study.t-Pn in elicitation treatments of Vitis cv.Gamay and cv.Monastrell cell suspensions with MBCD $+$ MeJA issynthesized in low amounts,beinga minority metaboliteas compared to t-R,while t-Pt has not been reported so far. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f44616b03d73c03e6ae97a906bf1f2734c2d10d92308046ab90f62be581631f3.jpg",
+        "img_caption": [
+            "Figuroesofitlactofrfdavieluresaisfcdtli incubation of recombinant HA-tagged ROMT with $5 0 0 ~ \\mu \\mathrm { M }$ resveratrolin the presence of SAM $\\mathsf { 2 5 ~ m m } ,$ . (a) Standards.Reaction was carried out with $4 0 0 ~ \\mu \\ g$ total soluble proteinof either wild (b)or transgeniccalluscv.Monastrell(c)and was allowed to proceed for $2 4 \\mathrm { ~ h ~ }$ A chromatographic profile is shown,and identityofpeaksaofidyH--/aalysiseakttras-iceid;Peakttrsresveratr;akt-t,trs-ptei "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Once suspension cultures of ROMT-expressing transgenic Vitis, cells were established t-R and t-Pt productivity upon MBCD $+$ MeJA treatment was determined.Figure 6 shows the presence of the stilbenoidsaccumulatedafter $1 6 8 { \\mathrm { ~ h ~ } }$ ofincubationwith MBCD $+$ MeJA determined by HPLC-ESl-MS. These analyses include $t \\mathrm { - } \\mathsf { R } ,$ glycosylated form of resveratrol,t-Pc and t-Pt.The t-Pt was found both inside and outside the transgenic culture of Monastrell and inside the transgenic culture of Gamay. Elicitation oftransgenic culture resulted in a decrease in the t-R,together with an accumulation of t-Pt,demonstrating that the t-R had been modified by double regiospecific dimethoxylation.The t-Pt accumulation in the Monastrell cells culture was higher than in the Gamay ones. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After suspension cultures of CYP1B1-expressing transgenic Vitis，cells were established t-R and t-Pn productivity was determined.Figure 7 shows the presence of the stilbenoids accumulated after $7 2 \\mathrm { ~ h ~ }$ of incubation with MBCD+MeJA determined by HPLC-ESl-MS.The t-Pn was found in both transgenic and wild-type cell suspensions,being the accumulation in the transgenic cell suspensions higher than in wild-type cell suspensions.Elicitation of transgenic culture resulted in a decrease of the total $t \\mathrm { - } R ,$ together with an increase of the total t-Pn accumulation.This result suggested that the t-R had been modified by regiospecific hydroxylation.The accumulation in the transformant Monastrell culture was higher than in the Gamay one. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total accumulation of t-Pn between 24 and $1 6 8 { \\mathrm { ~ h ~ } }$ after elicitation was analysed by HPLC-ESl-MS (Figure 8).Maximal level, both for wild type and almostall transformed lines,wasachieved at $1 2 0 \\mathrm { ~ h ~ }$ .Transgenic cell suspensions of Monastrell and Gamay varities produced about 2 and 1 mg per $1 0 0 ~ \\mathrm { { m L } }$ culture,respectively,displaying up to a 7-and 2.5-fold increase in relation to respective wild-type cultures.A significant amount of t-Pn was obtained from extracellular medium of the Monastrell while only traces were detected in the Gamay cells.The maximum accumulation occurred in the media at the end of the experiment,at $1 6 8 ~ \\mathsf { h } .$ ：representing between $34 \\%$ and $45 \\%$ of the total t-Pn production by Monastrell cells while in case of the Gamay cells the extracellular content of $t \\mathrm { - P n }$ represented onlya $0 . 0 5 \\%$ of the total t-Pn,at best.When extracellular t-Pn was compared with t-R in Monastrell(Figure 8c),an interesting behaviourwas observed.The t-Rincreased exponentially from the beginning of elicitation, deceleratingafter $9 6 ~ \\mathsf { h }$ and reaching an accumulation plateau after $1 2 0 { \\mathrm { ~ h } } ;$ on its side, $t \\mathrm { - P n }$ displayed a lagged accumulation of $7 2 ~ \\mathsf { h }$ ,increased almost linearly up to $1 4 4 \\mathrm { ~ h ~ }$ and then fast between 144 and $1 6 8 { \\ h } .$ .when the last sample was measured.There is an apparent correlation between the moment of resveratrol decelerationand the delayed start of extracellular t-Pn accumulation.This result suggestsa competence between resveratrol and piceatannol for the transport system to the extracellular medium and a higher specificity of the mechanism for resveratrol. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ccf90c385b64cda18c2600de59cbd344b3f1d2fa0a2daa2dd2a74a0618fdb4e.jpg",
+        "img_caption": [
+            "FiguroductftidOtrasfoapeluretidaloftrasfotisl andcv.GamayellxtratsandextracellarmediaSisontetseteedixtractsoftransgeniandild-tpceat $1 6 8 \\mathrm { ~ h ~ }$ Extractedionae(dseateoitsft (SeFiguredspoiall piceid; t-R,trans-resveratrol; t-Pt,trans-pterostilbene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7757c671431dde26b9ffb2d5db0dd90d5bd658078a1fa637be92835d6775183b.jpg",
+        "img_caption": [
+            "Figure7oduiflidtrasfdgrapeeluresHsitisastrelldl extractsand extracelularmedia.Contentof stibenesWasdetermined inextractsof transgenicand wild-typecellculturesat $7 2 \\mathrm { ~ h ~ }$ .Extracted ion chromatograadeatdtitsafitae ndforis resveratrol; t-Pn,trans-piceatannol. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The chemopreventive，therapeutic and cosmetic properties of resveratrol and its methoxylated and poly-hydroxylated derivatives,as well as their scarcity in natural plant sources,have prompted considerable efforts to engineer plant and microbial organisms for the production of these compounds (Delaunois et al.，2oo9;Donnez et al.，2oo9). Increased bioavailabilityand bioactivity support the interest in these types of t-R derivatives,in particular t-Pt and t-Pn (Lin et al.,201O;Piotrowska et al.,2012; Remsberg et al.,2008;Szekeres et al.,2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From an economical perspective，these compounds should ideally be obtained as the fermentation end-products from a cheap carbon source,that is sugars,rather thanas bioconversion products of metabolically related precursors.Extracellular accumulation is another desirable feature,allowing the product to be recovered more easily and in a purerstate.Metabolically engineered microorganisms,mainly E.coli and yeast,plant cell cultures and whole plants,are the type of biological systems used for such purposes (Donnez et al.,2009). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli has been engineered to produce t-Pt from tyrosine in a four-step pathway，the intermediates being $p$ coumaric acid, $p$ -coumaroyl-CoA and resveratrol (Kang etal., 2014).The doubly methylated target product t-Pt was formed when resveratrol was used as a precursor but not asa fermentation product of the carbon source,with only $p$ -coumaric acid，resveratrolandmono-methylatedderivativesbeing detected.Nicotiana and Arabidopsis plants stably transformed with peanut stilbene synthase-3 and sorghum O-methyl transferase-3 were found to accumulate t-Pt in planta (Rimando et al., 2012).However,although these plants may benefit from higher antifungal properties of this compound, their use as a t-Pt source would involve a complex downstream extraction and purification of the final product. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The bio-production of t-Pn is currently much less developed than that of t-Pt,and only enzymatic bioconversion of resveratrol has been reported，using human liver microsomes (Piver et al., 2004; Potter et al.,2002),bacterial cytochrome P450 BM3 and its mutants (Kim etal.，2oo9)and bacterial tyrosinase (Lee et al., 2012，2015)．No studies towards a metabolic engineering production strategy have been reported.As the most productive t-R system to date is an elicited grapevine cell culture (Almagro et al.，2013;Donnez et al.，20o9),the target compound accumulating mainly in the extracellular medium (Almagro et al., 2013;Donnez et al.,2oo9),we considered this as an interesting starting point for the production of t-Pt and t-Pn in metabolically engineered cell lines. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The designed strategy consisted of using grapevine cell lines in which the endogenous biosynthetic pathways leading from sucrose to t-R would be extended to produce the target derivatives by the constitutive expression of either a methyl transferase ora cytochrome P45O-dependent hydroxylase able to act on t-R (Figure 1). The treatment of the engineered lines with elicitors would supply large amounts of t-R to the recombinant enzymes and eventually lead to the extracellular accumulation of their reaction products. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Suitable enzymes were selected on the basis of literature reports，a major issue being reaction regiospecificity，so as to obtain only the desired single product,that is either t-Pt or t-Pn. Among methyl transferases，we selected grape VvROMT (Schmidlin et al.，2oo8)as it could be expected to exhibit higher specificity.The cytP450 was selected as the CYP1B1,due to its eukaryotic origin and its importance asa tumour suppressor, although both 1B1 and 1A2 isoenzymes produce a second tetrahydroxystilbene product,not structurally well characterized, named M1 (Piver et al.,2004). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a004ea920dfc46eea1c559871d279b256956c762d9760d5d241770e3707b6018.jpg",
+        "img_caption": [
+            "Figure 8 Time-course accumulation of $t \\mathrm { - } P { \\mathsf { n } }$ inelicited HsCYP1B1-transformed grapevinecellines.Total piceatannol production in Vitis cv.Monastrell (a), cv.Gamay(b)and extracellaraccumulationof resveratroland piceatannol incv.Monastrel (c)cellculture elicitedwith $5 0 ~ \\mathsf { m m }$ MBCD and $0 . 1 \\mathrm { \\ m m }$ MeJA between 24 and $1 6 8 { \\mathrm { ~ h ~ } }$ of incubation.Twenty grams ofcels wassuspended in sterile fresh standard medium containing elcitors broughttoafinal $1 0 0 ~ \\mathrm { { m L } }$ Total piceatannol amounts are calculated per $1 0 0 ~ \\mathrm { { m L } }$ of cell culture.In (a)and (b),black bars: intracellular content; white bars: extracellular content.In (c), eachaselit axi;ildtyldafoiaseldd independent biological replicates $\\pm \\mathsf { S D }$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The functionality of VvROMT and HsCYP1B1 was tested first in planta,for the first time in case of the hydroxylase,and rendered theexpected products， t-Pt and t-Pn， respectively，incoagroinfiltration experimentswitha VvSTS in Nicotiana (Figure 2d, e)．The functionality of VvROMT expressed in grapevine cell cultures was additionally confirmed in an in vitro enzymatic assay. Highlyefficientstable Agrobacterium-mediated transformation of somatic grapevine cels recently developed in our laboratory (Martinez-Marquez et al.,2o15)wasused to establish grapevine callus cell lines transformed with either VvROMT or HsCYP1B1. Characterization of the cell lines for transgene integration was positive in all the lines growing in the selection medium but not all of them produced the recombinant protein (Figures 3 and 4). Inconsistency between gene，transcript and protein presence, even under the control of a constitutive promoter such as pCaMV35S，has been reported previously，the phenomenon being attributed to fluctuations in environmental conditions and stress,which may affect gene expression,transcript steady-state levels or transgene silencing (Boyko et al.，2010;Kotakis et al., 2010). In the case of ROMT,immune-reactive bands were often observed with Mw significantly higher than expected and it was also associated with no detection of the t-Pt product in subsequent metabolite analysis.We attributed this failure to a possible fast turnover of the ROMT protein,likely mediated by ubiquitination，which would increase the Mw as observed in Western blot analysis.In summary,despite the occurrence of a number of unproductive transformation events,a remarkable number of cell lines were selected for t-Pt and t-Pn production assays. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The characterization of transformed cell lines involved the establishment of liquid cell suspension cultures，followed by elicitation with MBCD+MeJA and analysis of stilbene compounds accumulated both inside cells and in the extracellular medium. Grapevine cells respond to elicitation with MBCD+MeJA increasingthe abundance of several STS protein isoforms (MartinezEsteso et al.，2011a),which correlates with the large accumulation of t-R both in the cells and particularly the extracellular medium (Lijavetzky etal.，20o8;Martinez-Esteso et al.，2011a). Intransformed cell lines, this would also lead to resveratrol and eventually to resveratrol derivative synthesis.Elicitation of transgenic cultures resulted in the accumulation of either t-Pt (Figure6;Figure S1 and S2)or t-Pn (Figure7;Figure S3and S4),thus demonstrating the feasibility of the designed strategy to produce resveratrol derivatives.Their precursor t-R was also found but at a lower level than in the wild-type culture,in accordance with its role as an intermediate in the synthesis of the final derivative products. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Inprevious work，we ascertained that transformationof grapevine cells itself does not affect the level of resveratrol production upon elicitation (Martinez-Márquez et al.，2015). Overall， the production of t-Pt per $1 0 0 ~ \\mathrm { { m L } }$ of culture (low microgram range)was much lower than that of t-Pn (low milligram range)，which in turn was modest in relation to the overall production of resveratrol (1oo mg range).A likely reason for this unanticipated low rate of conversion of resveratrol into its derivatives may be a strongly competing (still unknown) resveratrol transport system to the extracellular medium.Another possible explanation is that in addition to being a substrate,if present in a highintracellular concentration,resveratrol canactasan inhibitor of CYP1B1 (Chang et al.，200O)，which may play against t-Pn production (Chang et al.，2ooo).Another factor could be a fast turnover of the recombinant protein,either ROMT or CYP1B1, suggested by the presence of additional immunoreactive bands, especially in the case ofROMT，andfinally， end-product stability might also contribute to reducing the product accumulation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The inducibility of the VvROMT gene by biotic-stress (Schmidlin et al.,20o8) can lead to a fast turnover (Li et al.,2012) through specific mechanisms,which might be operating fully upon its homologousoverexpressioningrapevine. In addition，we observed that t-Pt disappeared when added to either wild-type ortransgenic grapevine cultures.Five-millimolar MBCD slowed down that process (results not shown) and this point to low stability of t-Pt in the culture medium.The combination of these mechanisms may be a major cause of the limited accumulation of t-Pt,and thus,alternative strategies should be designed which may include the use of alternative OMTs and the efficient removal of the product during the cell culturing. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "While t-Pt was detected only in elicited ROMT-transformed grapevine cels,t-Pn was present in small amounts in the wildtype culture，with a maximum accumulation at $1 2 0 { \\mathrm { ~ h ~ } } .$ ，thus indicating of some endogenous,still uncharacterized,resveratrol hydroxylase activities. In CYP1B1-transformed cultures，t-Pn accumulation increased in all tested lines of both varieties,thus providing evidence for the activity of the transgene. Both resveratrol derivatives were found both inside and outside cells, with greater abundance in the Monastrell cells which were more productive overall than the Gamay ones. In fact，t-Pt presence in the extracellular medium could not be confirmed in the latter.The low accumulation of t-Pt precluded its reliable quantification，but in the case of t-Pn the percentage of extracellular production inMonastrellincreased rapidlyafter $1 4 4 ~ \\mathsf { h } .$ reaching up to $45 \\%$ at $1 6 8 { \\mathrm { ~ h ~ } }$ ，while extracellular t-Pn in Gamay was only $0 . 0 5 \\%$ at best. Extracellular resveratrol was the most abundant form,in agreement with previous reports (Lijavetzky et al.，2008； Martinez-Esteso et al.，2011a).This result suggests that the mechanisms of stilbenoid transport to the extracellular medium operate less efficiently for t-Pn/t-Pt than for resveratrol and differ between grapevine varieties. In addition,the delayed start of extracellularaccumulation of t-Pn and the moment of deceleration of resveratrol accumulation correlate quite well， suggesting that the transport system displaysa higher specificity for resveratrol and t-Pn is moved out only when resveratrol transport ceases.Nothing is known about such a mechanism,but the results obtained here point to transporter proteins that display stringent substrate specificity, rather than vesicle-mediated secretion whose cargo-type might be less specific. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another differential effect between the grapevine varieties concerns to t-Pn production enhancement in transgenic lines, which was higher in Monastrell.If we consider that Gamay,but not Monastrell,constitutively accumulates the resveratrol glyco sylated derivativepiceid (Martinez-Esteso etal.,2011a),a reason for the less efficient conversion of t-R into t-Pn in the Gamay cells may be competition of the cytochrome P450 hydroxylase with glycosyl transferases for resveratrol (Hall and De Luca,2oo7),in addition to the competing extracellular transport mechanisms.All the results presented here provide new information about stilbenoid metabolism in grapevine cell cultures and are currently being applied to re-shape our strategy to overcome the potential hurdles that hinder an efficient production of t-Pn in transformed grapevine cells. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Concluding remarks ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Herewe have demonstrated the feasibility of a metabolic engineering strategy in grapevine cells to produce the resveratrol derivatives t-Pt and t-Pn,endowed with enhanced pharmacologicaland pharmacodynamical properties.Use of alternative methylating enzymes and end-product stabilization could greatly improve the yields of t-Pt production.The engineered production of t-Pn has been carried out for the first time,both in planta and in cell cultures，and the results obtained point promisingly towards a future improved strategy to enable an economically viable bioproductive system. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Material and methods ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterial ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Vitis vinifera L.cv. Gamay callus was kindly supplied by Drs.J.C. Pechand A.Latché (ENSA，Toulouse，France)in 1989．Vitis vinifera L.cv.Monastrell albino calli were established in 1995 as previously described (Zapata et al.，1995). These cell lines were maintained in both solid and liquid cultures in Gamborg B5 medium (Duchefa， Haarlem，The Netherlands) by periodical subculturesas described elsewhere (Bru et al.,2006). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Vitisvinifera L.cv Aledo leaves were obtained froma commercial plot of table grapes located in Agost,Alicante, Spain, in June 2011 and transported to the laboratory at $4 ^ { \\circ } C$ Nicotiana benthamiana plants were obtained from seeds germinated and grown on potting soil in a greenhouse at a temperature of $2 5 ^ { \\circ } C ,$ （20 with 16 h light/8 h dark photoperiod,until they were 3-5 weeks old. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reagents ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Except if indicated between brackets chemicals and kits were purchased from Sigma-Aldrich (Madrid,Spain),including methylated $\\beta$ -cyclodextrin (MBCD) and methyl jasmonate (MeJA). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant material preparation for gene cloning ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Grapevine leaf discs ( $1 4 ~ \\mathsf { m m }$ diameter) from the sixth leaf counted from the apex were treated with $1 \\%$ （204号 $A | C | _ { 3 }$ or UV for ROMT gene induction as described in Schmidlin et al. (2008). Alternatively,discs were also treated with $0 . 1 ~ \\mathsf { m m }$ MeJA, $5 ~ \\mathsf { m m }$ MBCDor $0 . 1 m M N e { 5 } \\mathrm { { A + 5 } \\ m w M B C D }$ .Leaf discs were collected $2 4 \\ h$ after treatment, immediately frozen in liquid nitrogen,and stored at $- 8 0 ~ ^ { \\circ } C$ until RNA extraction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Vitis vinifera cv.Gamay cell suspensions were elicited as previously described (Martinez-Esteso et al.,2009,2011a) for STS gene induction,using $5 0 ~ \\mathsf { m m }$ MBCD and $0 . 1 ~ \\mathsf { m m }$ MeJA.The cell suspension was incubated for $2 4 \\ h$ with continuous rotary shaking $( 1 1 0 \\ r { \\mathsf { p m } } )$ at $2 5 ^ { \\circ } C$ and under a $1 6 \\mathrm { ~ h ~ }$ light/8 h dark photoperiod. Cells were collected by filtration under gentle vacuum and stored at $- 8 0 ~ ^ { \\circ } C$ until RNA extraction. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RNA isolation and cloning of ROMT and STS cDNA ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Total RNAswere isolated as described in Morante-Carriel et al. (2014) from $0 . 5 \\ { \\mathfrak { g } }$ grapevine leaf discs of each treatment or $1 \\ 9$ grapevine elicited cels,and quantified using a Nanodrop ND1000spectrophotometer (Thermo Scientific，Madrid，Spain). Residual genomic DNA was removed using DNase 丨 RNase-Free (Thermo Scientific,Madrid,Spain.First-strand cDNA was synthesized from $1 ~ \\mu \\ g$ of total RNA using a cDNA synthesis kit (RevertAid First Strand cDNA Synthesis Kit from ThermoScientific) according to the manufacturer's instructions.ROMT coding region (Acc.NM_001281115.1）was PCR amplified from leaf cDNA，and STS coding region (Acc.XM_002264953)was PCR amplified from elicited cell cDNA using specific primer (Table S1). The amplification reactions consisted of 1 cycle at $9 4 ~ ^ { \\circ } C$ for 5 min and 30 cycles at $9 4 ~ ^ { \\circ } \\mathsf { C }$ for 30 s, $5 4 ^ { \\circ } C$ for $3 0 \\ \\mathsf { s } , \\ 7 2 \\ ^ { \\circ } { \\mathsf C }$ for 1 min，followed by an extension cycle of $1 0 \\mathrm { \\ m i n }$ at $7 2 ^ { \\circ } C$ Amplified DNA fragments were cloned into $\\mathsf { p G E M } ^ { \\circledast } - 7$ Easy (Promega,Madison,WI,USA) and the inserts sequenced. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Construction of the binary vector and Agrobacterium transformation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The ROMT gene was cloned into pJCV52 vector (Laboratory of Plant Systems Biology; Ghent University, Belgium),and STS gene was cloned in pEarleyGate 103 (Earley etal.，2006) under the CaMV35S promoter using the Gateway cloning system (Invitrogen, Life Technologies,NY，USA).These constructs also contain the neomycin phosphotransferase (NPTIl) selectable marker reporter gene. Briefly, $\\mathsf { p G E M } ^ { \\circledast }$ -T Easy plasmid harbouring the target cDNA sequence was amplified by PCR using the proofreading Pfx DNA polymerase (Invitrogen) and the appropriate primers for ROMT and STS (Table S2).PCR products were inserted into the pENTRM/D${ \\mathsf { T O P O } } ^ { \\otimes }$ vector (Invitrogen) as recommended by the manufacturer. Plasmids pENTRTM/D-TOPO? containing cDNA insert in the correct orientation were selected by PCR,and the complete insert was subsequently sequenced.Correct inserts were transferred into the Gateway-compatible vector pJCV52 or pEarleyGate 103 using an LR clonase reaction (Invitrogen） carried out according to the manufacturer's instructions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Humanlivercytochrome P450 CYP1B1gene(Acc. BT019979.1）was obtained from commercial synthesis (GeneScript;Piscataway NJ,USA) and transferred into the Gatewaycompatible vector pK7WG2D (Laboratory of Plant Systems Biology;Ghent University，Belgium）under the CaMV35S promoter control. This construct also contain the neomycin phos photransferase (NPTll) selectable marker reporter gene. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The binary vector pJCV52-ROMT (Figure 9a)was transferred into chemically competent A. tumefaciens strain EHA105 (Hood et al.，1993)and the pEarleyGate-STS(Figure 9b) and the pK7WG2D-CYP1B1(Figure 9c)tochemicallycompetent A.tumefaciens strain C58C1 (pGV2260) (Koncz and Schell, 1986)by standard techniques (Sambrook et al.,1989). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Transient expression in Nicotiana benthamiana ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A.tumefaciens strain carrying binary vectors pJCV52-ROMT; pK7WG2D-CYP1B1 or pEarleyGate-STS were used for transient expression in Nicotiana leaf by agroinfiltration (Schob et al., 1997).The strains harbouring the binary plant vectors produced, pJCV52-ROMT and pEarleyGate-STS or pK7WG2D-CYP1B1 and pEarleyGate-STS,were co-infiltrated with a strain containing the HC-Pro silencing suppressor (Goytia et al.，20o6) in a $1 : 1 : 2$ ratio in leaves of Nicotiana plants.From 6 days after agroinfiltration,stilbenes content was analysed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Stable transformation of grapevinecell culture ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Transformation experiments were performed as described in Martinez-Marquez et al. (2015) from $\\boldsymbol { 1 0 } \\ \\boldsymbol { \\mathfrak { g } }$ Vitis callus.Then,the biomass was transferred onto solid Gamborg B5 medium containing $1 0 0 ~ \\mathrm { { m g / L } }$ acetosyringone，and after 2 days of coculture,cells were transferred onto solid Gamborg B5 medium containing $2 5 0 ~ \\mathrm { m g / L }$ cefotaxime and $6 0 ~ \\mathrm { { m g / L } }$ paramomycin. Periodical subcultures of growing callus colonies were carried out at cefotaxime decreasing concentrations. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DNA extraction,amplification and analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was isolated from 150 to $3 0 0 ~ \\mathrm { m g }$ of Vitis cells using E.Z.N.A.HP Plant DNA Mini Kit (OMEGA Bio-tek,Norcross GA，USA)，according to the manufacturer's instructions.The presence of the cassette P35S-ROMT,CYP1B1 and the absence of virB genesin Vitis transgenic calli wasassessed by PCR analysis, where specific primers were used for amplifyinga 1388 bp fragment of the cassette P35S-ROMT coding region,a 245 bp fragment of the CYP1B1 coding region and a 80o bp fragment of thevirB coding region (Table S3) (Figure 9).The amplification reactionsareas follows:1 cycle at $9 5 ~ ^ { \\circ } C$ for5minand30 cycles at $9 4 ~ ^ { \\circ } \\mathsf { C }$ for 1 min, $5 4 ^ { \\circ } C$ for 1 min, $7 2 ^ { \\circ } C$ for 1.30 min, followed by an extension cycle of $1 0 \\mathrm { \\ m i n }$ at $7 2 ^ { \\circ } C$ Plasmid DNA used in transformation served as a positive control,while DNA from nontransformed wild-type Vitis cellswasusedasa negative control.PCR products were analysed by electrophoresis on $1 \\%$ agarose gels. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Protein extraction and Western Blot ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Protein extracts from Vitis calli were prepared as described in Martinez-Esteso etal. (2011b) from $\\textsf { 5 g }$ grapevine cells.After homogenization， the extract was centrifuged and the supernatant which containing native soluble protein fraction was stored at $- 8 0 ~ ^ { \\circ } C$ for enzyme assays. One half of this supernatant was processed by adding an equal volume of Tris-saturated phenol $\\mathsf { p } \\mathsf { H } \\ 7 . 5$ (Applichem，Darmstadt,Germany).The precipitated and air-dried proteins were solubilized in $1 \\times$ SDS-PAGE sample buffer.The protein concentration was determined by RC DC protein assay (BlO-RAD,Madrid, Spain) based on the modified Lowry protein assay method (Raghupathi and Diwan,1994). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Proteins( $5 0 ~ \\mu \\ g / | \\mathsf { a n e } )$ were resolved by SDS-PAGE on $12 . 5 \\%$ polyacrylamide gels and electrotransferred to Hybond-P PVDF membranes (GE Healthcare，Madrid,Spain).Membranes were probed at $4 ^ { \\circ } C$ overnight with rabbit monoclonal anti-HA-Tag antibodies (Sigma) at a $1 : 1 0 0 0$ dilution to detect the HA-ROMT fusion protein or with rabbit monoclonal antibodies to CYP1B1 (Thermo Scientific，Pierce，Madrid，Spain)ata $1 : 7 5 0$ dilution. Thereafter,thiswasincubatedat $2 5 ^ { \\circ } C$ for $1 \\ h$ withhorseradish peroxidase-conjugated goat anti-rabbit IgG(Pierce) ata $1 : 1 0 0 0 0$ dilution. Detection was performed by ECL using the Prime Western Bloting Detection Reagent SuperSignal West Dura system (GE Healthcare-Amersham). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ROMT enzyme assay ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Soluble native protein $( 4 0 0 ~ \\mu \\ g$ total proteins) was incubated in a final volume of $1 \\ m L$ with $2 5 ~ \\mathsf { m m }$ S-( $5 ^ { \\prime }$ -Adenosyl) $\\cdot \\lfloor$ -methionine chloride dihydrochloride (SAM)and $5 0 0 ~ \\mu \\mathrm { m }$ of t-R in $0 . 1 ~ \\mathsf { m }$ Tris, ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c082a9c78a14a8a2deb5cedb919ab409e39d7593fcb02b7211ba47b89835084.jpg",
+        "img_caption": [
+            "Figure 9 Schematic diagram of T-DNA region of binary plasmids used for transformation experiments.P35S,CaMV 35S promoter; nptl, neomycin phosphotransferase under the control of the P35S promoter; GFP,green fluorescent protein; T35S,CaMV35S terminator; STS,stilbene synthase;ROMT,resveratrol O-methyltransferase; CYP1B1, Cytochrome P450; LB,left border; RB, right border.(a) pJCV52-ROMT.(b) pEarleyGateSTS. (c) pK7WG2D-CYP1B1. ",
+            "${ \\mathsf { p H } } 7 . 5$ containing $20 \\%$ glycerol (v/v), $5 \\ \\mathsf { m m } \\ \\mathsf { M g C l } _ { 2 }$ and $1 4 ~ \\mathsf { m m }$ 2-mercaptoethanol. Reaction products were analysed by LC in an Agilent 110O series HPLC equipped with UV-vis and ESl-MS/MS ion trap detectors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Elicitation of transformed grapevine cell cultures ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Elicitation was carried out as described (Lijavetzky et al.，2008; Martinez-Esteso et al.，2011a).Briefly，a weighted amount of filtered and washed cells was transferred to a $2 5 0 ~ \\mathrm { m L }$ Erlenmeyer flask and suspended in sterile fresh standard medium containing elicitors( $5 0 ~ \\mathsf { m m }$ MBCD and $0 . 1 ~ \\mathsf { m m }$ MeJA)at a final volume of $1 0 0 ~ \\mathrm { { m L } }$ .The cell suspension was incubated with continuous rotary shaking $( 1 0 0 ~ \\mathsf { r p m } )$ at $2 5 ^ { \\circ } C$ and under a $1 6 \\mathrm { ~ h ~ }$ light/8h dark photoperiod from Gamay and continuous dark from Monastrell. Samples were taken at time intervals from elicited cultures of CYP1B1 and ROMT transgenic grapevine cell cultures.The spent medium and the cells were used for extracellular and intracellular extraction and analysis of piceatannol or pterostilbene content, respectively. Experiments were carried out in triplicate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Determination of stilbenoids ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Extracellular stilbenes were extracted twice with $2 5 \\%$ ethyl acetate (v/v),evaporatedand resuspended in $80 \\%$ methanol.For intracellular samples, $1 \\ 9$ of fresh cells was extracted with $4 ~ \\mathsf { m L }$ of methanol overnight at $4 ^ { \\circ } C$ with continuous shaking and the extract was clarified by centrifugation at $1 4 \\ 0 0 0 \\ { \\pmb g }$ for $1 0 ~ \\mathrm { { m i n } }$ For agroinfiltration samples, $1 \\ 9$ of leaves was ground in liquid nitrogen and extracted with $8 ~ \\mathsf { m L }$ of methanol overnight at $4 ~ ^ { \\circ } \\mathsf C$ with continuous shaking and the extract was clarified by centrifugation at $1 4 \\ 0 0 0 \\ { \\pmb g }$ for10 min.For stilbenoid determination, $1 0 ~ \\mu \\iota$ of sample was analysed by LC in an Agilent 1100 series HPLC equipped with UV-vis and ESl-MS/MS detectors (Lijavetzky et al.,2oo8).The sample injected into a Poroshell 120 EC-C18 $( 4 . 6 \\times 1 0 0 ~ \\mathsf { m m } ~ 2 . 7 \\$ microns) (Agilent，Palo Alto，CA USA)was eluted in a gradient of solvents A $( 0 . 0 5 \\%$ TFA)and B $0 . 0 5 \\%$ TFA in methanol:acetonitrile $6 0 : 4 0$ v/v)at a flow rate of 1 mL/min.The gradient consisted of $0 \\mathrm { \\ m i n }$ 1 $2 2 . 5 \\%$ B;4 min, $3 5 \\%$ B;8 min, $40 \\%$ B; $1 4 ~ \\mathrm { m i n }$ $6 5 \\%$ B; 19 min, $6 5 \\%$ B;21 min, $2 2 . 5 \\%$ B;23 min, $2 2 . 5 \\%$ B.The t-Resveratrol (t-R),t-Piceid (t-Pc), t-Piceatannol (t-Pn) and t-Pterostilbene (t-Pt) standards were purchased from ChromaDex Inc.(Irvine,CA，USA).Calibration curves were made for quantification of these compounds in the samples obtained from the cell cultures. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported by grants from the Spanish Ministry of Science and Innovation (BlO2011-29856-C02-01, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BIO2011-29856-C02-02 and BlO2014-51861-R),Generalitat de Catalunya (2014SGR215) and European Funds for Regional Development (FEDER) and Conselleria d'Educacio,Cultura i Sport dela Generalitat Valenciana (FPA/2013/A/074). J.M.C.acknowledges a postdoctoral and research grants from SENESCYT GOVERNMENT OF ECUADOR (006-IECE-SMG5-GPLR-2012 and Programa1-Senescyt-2014) and a grant from UTEQ (UTEQAmbiental-9-FCAmb-IFOR-2014-FOCICYT002). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aggarwal, B.B., Bhardwaj,A.,Aggarwal, R.S.,Seeram,N.P., Shishodia,S.and Takada,Y.(2O04) Role of resveratrol in prevention and therapy of cancer: preclinical and clinical studies.Anticancer Res.24,2783-2840.   \nAlmagro,L.，Belchi-Navarro,S.，Sabater-Jara,A.B.,Vera-Urbina,J.C.,SellesMarchart,S.， Bru,R.and Pedreno,M.A. (2O13) Bioproduction of transresveratrol from grapevine cell cultures.In Handbook of Natural Products, (Ramawat，K.G．and Merillon，J.M.，eds)，pp.1683-1713.Heidelberg: Springer.   \nAsensi,M.,Medina,I., Ortega,A., Carretero,J., Bano,M.C., Obrador,E.and Estrela,J.M.(2oo2) Inhibition of cancer growth by resveratrol is related to its low bioavailability.Free Radic.Biol.Med.33,387-398.   \nBaur,J.A.and Sinclair,D.A.(2O06) Therapeutic potential of resveratrol: the in vivo evidence.Nat. Rev. Drug Discov.5,493-506.   \nBavaresco，L.，Fregoni，M.，Trevisan，M.，Mattivi，F.，Vrhovsek，U．and Falchetti，R.(2oo2) The occurrence of the stibene piceatannol in grapes. Vitis,41,133-136.   \nBoyko,A., Molinier,J.,Chatter, W., Laroche,A.and Kovalchuk,I. (2010)Acute but not chronic exposure to abiotic stress results in transient reduction of expression levels of the transgene driven by the 35S promoter.Nat. Biotechnol.27,70-77.   \nBru,R.,Selles,S., Casado-Vela,J. Belchi-Navarro,S.and Pedreno,M.A.(2006) Modified cyclodextrins are chemically defined glucan inducers of defense responses in grapevine cell cultures.J.Agric. Food Chem.54,65-71.   \nChang,T.K.,Lee,W.B.and Ko,H.H.(2OoO) Trans-resveratrol modulates the catalytic activity and mRNA expression of the procarcinogen-activating human cytochrome P450 1B1. Can.J.Physiol.Pharmacol.78,874-881.   \nCommun,K.,Mauro,M.C., Chupeau,Y.,Boulay,M., Burrus,M.and Jeandet, P.(2003) Phytoalexin production in grapevine protoplasts during isolation and culture.Plant Physiol. Biochem.41,317-323.   \nCoutos-Thévenot, P.,Poinssot, B., Bonomeli,A., Yean,H., Breda,C., Buffard, D.,Esnault,R.etal. (2O01)In vitro tolerance to Botrytis cinerea of grapevine 41B rootstock in transgenic plants expressing the stilbene synthase Vst1 gene under the control of a pathogen-inducible PR 10 promoter.J. Exp. Bot.52, 901-910.   \nDas,S．and Das，D.K.(20o7)Resveratrol:a therapeutic promise for cardiovascular diseases. Recent Pat. Cardiovasc. Drug Discov.2,133-138.   \nDelaunois,B., Cordelier,S.,Conreux,A., Clément, C.and Jeandet,P.(2009) Molecular engineering of resveratrol in plants.Plant Biotechnol.J.7,2-12.   \nDonnez,D., Jeandet,P.,Clément,C.and Courot,E.(2oo9) Bioproduction of resveratrol and stilbene derivatives by plant cells and microorganisms.Trends Biotechnol. 27,706-713.   \nEarley,K.W., Haag,J.R.,Pontes,O.,Opper,K.,Juehne,T.,Song, K.and Pikaard C.S.(20o6) Gateway-compatible vectors for plant functional genomics and proteomics.Plant J.45,616-629.   \nFerrigni, N.R., McLaughlin,J.L., Powell, R.G.and Smith, C.R.(1984) Isolation of piceatannol as the antileukemic principle from the seeds of euphorbia lagascae.J.Nat.Prod.47,347-352.   \nFleming,I.,Fissthaler,B.and Busse,R.(1995)Calcium signaling inendothelial cells involves activation of tyrosine kinases and leads to activation of MAP kinases. Circ.Res.76,522-529.   \nFulda,S.(2010) Resveratrol and derivatives for the prevention and treatment of cancer. Drug Discov.Today,15,757-765.   \nGeahlen，R.L.and McLaughlin,J.L.(1989) Isolation of piceatannol as the antileukemic principle from the seeds of euphorbia lagascae. Biochem. Biophys.Res.Commun.165,241-245.   \nGoytia,E.， Fernändez-Calvino,L.，Martinez-Garcia,B.,López-Abella,D.and López-Moya,J.J.(2006) Production of plum pox virus HC-Pro functionally active for aphid transmission in a transient-expresson system.J.Gen.Virol. 87, 3413-3423.   \nHain,R.,Bieseler,B.,Kindl,H.,Schroder,G.and Stocker,R.(199O) Expression of a stilbene synthase gene in Nicotiana tabacum results in synthesis of the phytoalexin resveratrol.Plant Mol. Biol.15,325-335.   \nHall,D.and De Luca,V.(2007) Mesocarp localization of a bi-functional resveratrol/hydroxycinnamic acid glucosyltransferase of Concord grape (Vitis labrusca).Plant J.49,579-591.   \nHipskind,J.D.and Paiva, N.L.(2ooO) Constitutive accumulation of a resveratrolglucoside in transgenic alfalfa increases resistance to Phoma medicaginis. Mol.Plant Microbe Interact.13,551-562.   \nHood，E.E.，Gelvin,S.B.，Melchers，L.S．and Hoekema，A.(1993)New Agrobacterium helper plasmids for gene transfer to plants.Transgenic Res. 2, 208-218.   \nJeong,Y.J.,An,C.H.,Woo,S.G.,Jeong, H.J.,Kim,Y.M.,Park,S.J.,Yoon,B.D. and Kim，C.Y.(2014) Production of pinostilbene compounds by the expression of resveratrol O-methyltransferase genes in Escherichia coli. Enzyme Microb. Technol.54,8-14.   \nKang,S.Y.,Lee,J.K.,Choi,O.,Kim,C.Y.,Jang,J.H., Hwang, B.Y.and Hong, Y.S.(2014) Biosynthesis of methylated resveratrol analogs through the construction of an artificial biosynthetic pathway in E.coli.BMC Biotechnol. 14, 67.   \nKim, D.H.,Ahn,T.,Jung, H.C.,Pan,J.G.and Yun,C.H.(2009) Generation of the human metabolite piceatannol from the anticancer-preventive agent resveratrol by bacterial cytochrome P450 BM3.Drug Metab.Dispos.37,932- 936.   \nKoncz,C.and Schell,J.(1986)The promoter of T-DNA gene 5 controls the tissue-specific expression of chimaeric genes carried by a novel type of Agrobacterium binary vector Mol. Gen. Genet.204,383-396.   \nKotakis,C., Vrettos,N., Kotsis,D.,Tsagris,M.,Kotzabasis,K.and Kalantidis,K. (2010)Light intensity affects RNA silencing of a transgene in Nicotiana benthamiana plants.BMC Plant Biol.10,220.   \nLangcake，P.and Pryce，R.J.(1977）A new class of phytoalexins from grapevines.Experientia,33,151-152.   \nLangcake，P.，Cornford， C.A．and Pryce，R.J.(1979)Identificationof pterostilbeneasaphytoalexinfromVitisViniferaleaves.Phytochemistry 18,1025-1027.   \nLee,N. Kim,E.J.and Kim,B.G.(2012) Regioselective hydroxylation of transresveratrolviainhibitionof tyrosinasefromStreptomycesavermitilis MA4680. ACS Chem. Biol.7,1687-1692.   \nLee,N.,Lee,S.H., Baek,K.and Kim,B.G.(2015) Heterologous expression of tyrosinase (MelC2) from Streptomyces avermitilis MA4680 in E.coli and its application for ortho-hydroxylation of resveratrol to produce piceatannol. Appl.Microbiol. Biotechnol. 99,7915-7924.   \nLi,L.,Nelson,C.J.,Solheim,C.,Whelan,J.and Milar,A.H. (2012) Determining degradation and synthesis rates of Arabidopsis proteins using the kinetics of progressive $^ { 1 5 } \\mathsf { N }$ labeling of two-dimensional gel-separated protein spots. Mol. Cell Proteomics,11,M111.010025.   \nLi,M.,Kildegaard,K.R.,Chen,Y.,Rodriguez,A.， Borodina,I.and Nielsen,J. (2015)De novo production of resveratrol from glucose or ethanol by engineered Saccharomyces cerevisiae.Metab.Eng.32,1-11.   \nLijavetzky，D.，Almagro,L.，Belchi-Navarro,S.，Martinez-Zapater,J.M.，BruMartinez, R.and Pedreno,M.A.(2oo8) Synergistic effect of methyljasmonate and cyclodextrin on stilbene biosynthesis pathway gene expression and resveratrol production in Monastrell grapevine cell cultures. BMC Res.Notes, 1, 132.   \nLim,C.G.,Fowler,Z.L.,Hueler,T.,Schaffer,S.and Koffas,M.A.G. (2011)High yield resveratrol production in engineered Escherichia coli. Appl.Environ. Microbiol.77,3451-3460.   \nLin,H.S.,Tringali, C.,Spatafora, C.,Wu,C.and Ho,P.C.(201O)A simple and sensitive HPLC-UV method for the quantification of piceatannol analog trans$3 , 5 , 3 ^ { \\prime } , 4 ^ { \\prime }$ -tetramethoxystilbenein rat plasma and itsapplication for a pre-clinical pharmacokinetic study.J.Pharm. Biomed. Anal.51,679-684.   \nMartinez-Esteso,M.J.,Selés-Marchart,S.,Vera-Urbina,J.C.,Pedreno,M.A.and Bru-Martinez，R.(2oo9) Changes of defense proteins in the extracellular proteome of grapevine(Vitis vinifera cv.Gamay) cell cultures in response to elicitors.J.Proteomics.73,331-341.   \nMartinez-Esteso,M.J.,Selés-Marchart,S., Vera-Urbina,J.C.,Pedreno,M.A.and Bru-Martinez,R.(2011a) DIGE analysis of proteome changes accompanying large resveratrol production by grapevine (Vitis vinifera cv.Gamay) cell cultures in response to methyl-β-cyclodextrin and methyl jasmonate elicitors. J.Proteomics.,74,1421-1436.   \nMartinez-Esteso,M.J.，Sellés-Marchart,S.，Lijavetzky,D.，Pedreno,M.A.and Bru-Martinez,R.(2O11b)A DIGE-based quantitative proteomic analysis of grape berry flesh development and ripening reveals key events in sugar and organic acid metabolism.J. Exp. Bot.,62,2521-2569.   \nMartinez-Marquez,A.,Morante-Carriel,J.,Ramirez-Estrada,K.,Cusidó,R.M., Selés-Marchart，S.，Palazon，J.，Pedreno，M.A．etal.(2015)Areliable protocol for the stable transformation of non-embryogenic cells cultures of grapevine(Vitis vinifera L.）and Taxus× media.J.Biol.Methods, 2, e21.   \nMelchior,F.and Kindl,H.(1991) Coordinate-and elicitor-dependent expresion of stilbene synthase and phenylalanine ammonia-lyase genes in Vitis cv. Optima.Arch. Biochem. Biophys.288,552-557.   \nMorante-Carriel,J.,Selles-Marchart,S.,Martinez-Marquez,A.,Martinez Esteso, M.J.,Luque,I.and Bru-Martinez,R.(2014) RNA isolation from organs and tissues of recalcitrant woody plants with high quality and yield.Anal. Biochem.452,46-53.   \nPan,M.H.,Chiou,Y.S.,Chen,W.J.,Wang,J.M.，Badmaev,V.and Ho,C.T. (2009)Pterostilbene inhibited tumor invasion via suppressing multiple signal transductionpathwaysinhumanhepatocellularcarcinomacells. Carcinogenesis,30,1234-1242.   \nPervaiz，S.and Holme，A.L.(2Oo9) Resveratrol: its biologic targets and functional activity,Antioxid.Redox.Signal,11,2851-2897.   \nPeters, J.D.,Furlong,M.T.,Asai,D.J.,Harrison,M.L.and Geahlen,R.L.(1996) Syk,activated by cross-linking the B-cell antigen receptor,localises to the citosol where it interacts with and phosphorylates a-tubulin on tyrosine.J. Biol. Chem.271,4755-4762.   \nPezet,R.and Pont，P.(1988) Mise en evidence de pterostilbene dans les grappes de Vitis vinifera.Plant Physiol. Biochem.26,603-607.   \nPiotrowska，H.，Kucinska，M.and Murias，M.(2012）Biological activity of piceatannol: leaving the shadow of resveratrol.Mutat.Res.750, 60-82.   \nPiver,B.,Fer,M.,Vitrac,X.,Merillon,J.M., Dreano,Y., Berthou,F.and Lucas,D. (2004)Involvement of cytochrome P450 1A2 in the biotransformation of trans-resveratrol in human liver microsomes. Biochem. Pharmacol. 68,773- 782.   \nPotter,G.A.,Patterson,L.H.,Wanogho,E.,Perry,P.J.,Butler,P.C.,ljaz,T.et al. (2002）The cancer preventative agent resveratrol is converted to the anticancer agent piceatannol by the cytochrome P450 enzyme CYP1B1. Br. J. Cancer,86,774-778.   \nRaghupathi, R.N.and Diwan,A.M.(1994) A protocol for protein estimation that gives a nearly constant color yield with simple proteins and nulifies the effects of four known interfering agents: microestimation of peptide groups. Anal. Biochem.219,356-359.   \nRemsberg, C.M., Yanez,J.A.,Ohgami,Y., Vega-Villa,K.R., Rimando,A.M.and Davies，N.M.(2o08)Pharmacometricsofpterostilbene:preclinical pharmacokineticsandmetabolism，anticancer， antiinflammatory, antioxidant and analgesic activity.Phytother.Res.22,169-179.   \nRimando,A.M.,Pan,.,Polashock,J.J.,Dayan,F.E.,Mizuno,C.S.,Snook,M.E. et al. (2012) In planta production of the highly potent resveratrol analogue pterostilbene via stilbene synthase and O-methyltransferase co-expression. Plant Biotechnol.J.,10,269-283.   \nSambrook，J.，Fritsch，E.F.and Maniatis,T.(1989) Molecular Cloning: A Laboratory Manual,2nd edn.New York:Cold Spring Harbor,New York.   \nSchmidlin,L.,Poutaraud,A.,Claudel,P.,Mestre,P.,Prado,E., Santos-Rosa, M.,Wiedemann-Merdinoglu,S.et al. (2oo8)A stress-inducible resveratrol omethyltransferase involved in the biosynthesis of pterostilbene in grapevine. Plant Physiol.148,1630-1639.   \nSchob, H., Kunz,C.and Meins,F.(1997) Silencing of transgenes introduced into leaves by agroinfiltration:a simple,rapid method for investigating sequence requirements for gene silencing. Mol. Gen. Genet.256, 581-585.   \nSu,L.and David,M.(2ooO) Distinct mechanisms of STAT phosphorylation via the interferon-a/b receptor，selective inhibition of STAT3 and STAT5 by piceatannol. J. Biol. Chem.275,12661-12666.   \nSuh,N.,Paul,S.,Hao,X.,Simi,B.,Xiao,H.,Rimando,A.M.and Reddy,B.S. (2007) Pterostilbene,an active constituent of blueberries,suppresses aberrant crypt foci formation in the azoxymethane-induced colon carcinogenesis model inrats. Clin. Cancer Res. 13,350-355.   \nSzekeres,T.，Saiko,P.,Fritzer-Szekeres,M.,Djavan,B.and Jäger,W. (2011) Chemopreventive effects of resveratrol and resveratrol analogues.Anna/s N.Y.Acad. Sci. 1215,89-95.   \nThakkar,K.，Geahlen，R.L.and Cushman,M.(1993)Synthesis and protein tyrosine kinase inhibitory activity of polyhydroxylated stilbene analogsof piceatannol.J.Med. Chem.36,2950-2955.   \nThomzik,J.,Stenzel,K.,Stocker,R.,Schreier,P.H.,Hain,R.and Stahl,D.(1997) Synthesis of a grapevine phytoalexin in transgenic tomatoes (Lycopersicon esculentum Mill.）conditions resistance against Phytophthora infestans. Physiol. Mol.Plant Pathol.51,265-278.   \nWang,T.T.,Schoene, N.W., Kim,Y.S.,Mizuno, C.S.and Rimando,A.M.(2010) Differential effects of resveratrol and its naturally occurring methylether analogs on cell cycle and apoptosis in human androgen-responsive LNCaP cancer cell.Mol.Nutr.Food Res.54,335-344.   \nYu,C.K.,Lam,C.N.，Springob,K.,Schmidt,J.，Chu,I.K.and Lo,C.(2006) Constitutiveaccumulationofcis-piceidintransgenicArabidopsis overexpressing a sorghum stilbene synthase gene.Plant Cell Physiol.47, 1017-1021.   \nZapata,J.M.,Calderon,A.A.and Ros Barcelo,A.(1995) Peroxidase isoenzyme patterns in cell cultures derived from cotyledon,stem,leaf and fruit from grapevine (Vitis vinifera cv.Monastrell).Ann. Bot.75,443-448. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 MS/MS spectrum of pterostilbene (m/z 257) in transgenic lines of Vitis vinifera cv.Monastrell and cv.Gamay extracellularmedium.   \nFigure S2 MS/MS spectrum of pterostilbene (m/z 257）in transgenic lines of Vitis vinifera cv.Monastrell and cv.Gamay cell extracts.   \nFigure S3 MS/MS spectrum of piceatannol $( \\mathsf { m } / z \\ 2 4 5 )$ in transgenic lines of Vitisvinifera cv.Monastrell and cv.Gamay extracellular medium.   \nFigure S4 MS/MS spectrum of piceatannol $( \\mathsf { m } / z \\ 2 4 5 )$ in transgenic and wild-type lines of Vitis vinifera cv.Monastrell and cv. Gamay cell extracts.   \nTable S1 Gene specific primers.   \nTable S2 Gene specific primers.   \nTable S3 Gene specific primers. ",
+        "page_idx": 12
+    }
+]

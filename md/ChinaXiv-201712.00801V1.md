@@ -1,0 +1,133 @@
+基础研究
+
+# 双功能分子白介素-2-粒细胞-巨噬细胞集落生长因子促进树突状细胞在肿瘤免疫抑制环境中的活化效应
+
+温茜，熊文景，刘苏东，周超颖，马骊南方医科大学生物技术学院分子免疫学研究所，广东广州510515摘要：目的将本室构建与制备的双功能分子白介素-2-粒细胞-巨噬细胞集落生长因子(IL2-GMCSF)蛋白作用于肿瘤条件培养基(TCM)环境中的树突状细胞系(DC),检测其对DC细胞的活化，探讨其用于活化DC、进行抗肿瘤免疫治疗的可能性。方法制备小鼠黑色素瘤 B16F10细胞系的TCM,用以培养DC2.4细胞，同时分别添加IL2-GMCSF、GM-CSF、IL-2、或IL-2与GM-CSF组合使用。24h后,检测DC2.4细胞的吞噬与增殖活性、细胞成熟表型、细胞因子分泌与信号通路活化。结果 DC2.4细胞具有未成熟DC的特征,在TCM培养条件下吞噬能力增强、但增殖活性显著受抑,TCM对DC成熟表型表面标志的表达有一定促进作用,并促进单核与DC来源的趋化因子(MDC),但抑制DC的IL-12分泌。与之相反,IL2-GMCSF主要借助其GM-CSF活性,促进DC2.4细胞的吞噬与增殖活性,并促进DC进一步成熟,且高表达IL-12与MDC。与GM-CSF相比，IL2-GMCSF可诱导更高的炎性NF-KB通路活化水平,而抑制调节性STAT3通路的活化。结论 与GM-CSF单独作用相比，IL2-GMCSF可更好地促进肿瘤免疫抑制环境中的DC活化，有望成为有效的临床抗肿瘤治疗手段。
+
+关键词：双功能分子；白介素-2;粒细胞-巨噬细胞集落生长因子；树突状细胞;肿瘤免疫抑制
+
+# Effect of bifunctional IL2-GMCSF in promoting dendritic cell activation in vitro in simulated tumor-induced immune suppression
+
+WEN Qian, XIONG Wenjing,LIU Sudong, ZHOU Chaoying, MA Li InstituteofMolecularImmunologyScholofBotechnologySouthernMedicalUniersityGuangzhou5O515,hina
+
+Abstract: ObjectiveTotest theeffectofbifunctional molecule IL2-GMCSFin promoting theactivation ofdendritic cels (DCs) cultured intumor conditioned medium.Methods We prepareda tumorconditioned mediumusing mousemelanoma cell line B16F10 supplemented withIL-GMCSF,GM-CSF,IL-2,orthecombinationof thelatertwo.Afterculturing mouseDcellline DC2.4 in the conditioned medium for $2 4 ~ \mathrm { h } ,$ the DCs were examined for phagocytosis, proliferation, maturation phenotype, cytokine secretion,andsignal pathwayactivation.Results DC2.4cels displayed characteristicsofimmature DCs.Aftercel culture intheconditioned medium,thecelshowed enhanced phagocytosisbut significantlysuppressed cell proliferation activity.Culture in theconditioned medium also promoted DCcell maturationand secretionof macrophage-derived chemokine (MDC), but inhibited IL-12 secretion.Supplementationof theconditioned medium with IL2-GMCSF promoted phagocytosis,proliferation, maturation,and cytokine (including both IL-12and MDC)secretionof DC2.4cells.Compared with GM-CSF, IL2-GMCSF induced a higher level of NF- $\cdot \kappa \mathrm { B }$ signal pathway activation but suppressed STAT3 activation. Conclusion Compared with GM-CSF,IL2-GMCSFcanbeter promote DCactivation in the context of tumor-induced immune suppresion, and thus shows potentials in anti-tumor therapy.
+
+Key words: bifunctional molecular;interleukin 2; granulocyte macrophagecolony stimulating factor;dendriticcels;umor immune inhibition
+
+肿瘤的发生发展往往与微环境免疫抑制相关。肿瘤细胞采用多种手段以实现免疫逃逸，如抑制免疫细胞的增殖分泌体液因子以拮抗效应T细胞的细胞毒活性[3、下调抗原递呈分子的表达从而抑制抗原呈递[],以及诱导T细胞失能5等。体外研究已证实，肿瘤培养上清可抑制树突状细胞的活化与成熟，从而显著抑制抗肿瘤免疫反应]
+
+细胞因子在免疫细胞间发挥信使作用，对协调免疫反应非常关键。白介素-2(IL-2)与粒细胞-巨噬细胞集落生长因子(GM-CSF)是具抗肿瘤效应的两种重要因子。GM-CSF具有多种免疫调节活性，包括促进粒细胞、巨噬细胞、嗜酸性细胞的分化，激活并募集树突状细胞(DC)[8]。GM-CSF可促进未活化T细胞表面IL-2受体的表达，使之可对IL-2发生反应，同时是具远距离抗瘤活性的细胞因子中效应最强的一个[9]。IL-2主要由辅助性T细胞分泌，但DC接触到细菌后的短时间内会短暂但迅速地上调IL-2的表达，这对于DC所介导的T细胞活化非常关键[10]。IL-2可激活多种效应细胞如细胞毒性T细胞(CTL)，自然杀伤细胞(NK)等，并可体外诱导淋巴因子活化的杀伤细胞(LAK)[12和肿瘤浸润细胞(TIL)[13],因此对肿瘤的排除具有非常重要的意义。
+
+IL-2与GM-CSF可协同发挥作用，促进肿瘤环境中TIL的增殖和细胞毒性[14],并增强单核细胞的活化与攻击黑色素瘤细胞的细胞毒性[15-6]。然而,IL-2与GM-CSF的半寿期相差甚远,往往使效应难以预期[1]。本课题组前期构建与制备了IL2-GMCSF融合蛋白，并证明其同时具有IL-2与GM-CSF的活性[18]。本研究将探讨在肿瘤培养上清的免疫抑制环境中，IL2-GMCSF双功能分子对DC活化水平的调节效应。
+
+# 1 材料与方法
+
+# 1.1主要试剂与细胞
+
+DC2.4细胞系为本室保存；双功能分子IL2-GMCSF为本室制备与保存，其包含的IL-2活性浓度为 $8 . 7 \times 1 0 ^ { 6 } ~ \mathrm { U / m g }$ ,GM-CSF活性浓度为 $1 . 1 \times 1 0 ^ { 7 } ~ \mathrm { U / m g }$ RPMI1640培养基、胎牛血清(FCS)购自Corning公司;FITC标记的葡聚糖（分子量为 $4 0 ~ \mathrm { K D }$ ，简称为FD40)购自Sigma公司;细胞因子IL-2,GM-CSF购自Peprotech公司；CD80-FITC,CD86-APC,CD83-PE,MHCclass II(I-A/I-E)-PE-Cyanine7荧光抗体购自eBioscience公司,磷酸化NF-kBp65抗体(p-p65,Ser536,93H1）,总NF-kB p65蛋白抗体(D14E12)购自Cell SignalingTechnology公司,磷酸化STAT3抗体(p-STAT3;Ser727),总 STAT3 蛋白抗体（H-190）购自SantaCruzBiotechnology公司，GAPDH抗体与辣根过氧化物酶标记的二抗购自北京中杉金桥公司;IL-12与巨噬细胞来源的趋化因子(MDC/CCL22)ELISA试剂盒购自武汉博士德;化学发光显色试剂SuperSignalWestPico 购自Thermo Scientific公司。
+
+# 1.2 方法
+
+1.2.1肿瘤细胞条件培养基的制备培养小鼠黑色素瘤细胞B16F10至对数生长期，胰酶消化后，按 $1 \times 1 0 ^ { 6 }$ 细胞/mL RPMI $1 6 4 0 – 1 0 \%$ FCS全培(简称为R10)接种6孔板，培养过夜后收集上清， $2 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 去除细胞碎片，即为肿瘤细胞条件培养基(TCM)。
+
+1.2.2TCM处理培养小鼠未成熟DC细胞系DC2.4至对数生长期，胰酶消化后，按 $5 { \times } 1 0 ^ { 5 }$ 细胞/mLR10接种6孔板，同时每孔添加 $1 \ \mathrm { m L }$ TCM,双功能分子IL2-GMCSF $2 0 0 0 ~ \mathrm { U }$ （以IL-2活性计算），细胞因子IL-2,GM-CSF或IL $- 2 { \ + } \mathbf { G } \mathbf { M }$ -CSF组合。以R10培养基培养为空白对照，以不加细胞因子的TCM培养为阴性对照。处理 $2 4 \mathrm { h }$ 后检测DC2.4细胞活性。
+
+1.2.3细胞吞噬功能检测胰酶消化TCM条件下培养的DC2.4细胞，按 $2 \times 1 0 ^ { 5 }$ 细胞 ${ \mathrm { / 1 0 0 ~ \mu L } }$ 磷酸盐缓冲液(PBS)重悬,加入FD40溶液至终浓度为 $1 \ \mathrm { m g / m L } , 3 7 \ \mathrm { ^ { \circ } C }$ 孵育 $1 5 ~ \mathrm { m i n }$ 。PBS洗涤3次后，流式细胞仪(CaliburFACS，BD公司)检测平均荧光强度(MFI)。
+
+1.2.4免疫荧光胰酶消化TCM条件下培养的DC2.4细胞，用含 $5 \%$ FCS的PBS( $5 \%$ FCS-PBS)洗涤后，按$2 . 5 { \times } 1 0 ^ { 5 }$ 细胞/ $1 0 0 \mu \mathrm { L } 5 \%$ FCS-PBS重悬,分别加入下列荧光抗体:CD80-FITC,CD86-APC,CD83-PE,MHCclassII(I-A/I-E)-PE-Cyanine7,并以同型对照抗体为阴性对照。 $4 ^ { \circ } \mathrm { C }$ 避光孵育 $2 0 \mathrm { m i n }$ 后洗涤，流式细胞仪检测染色阳性细胞比率。
+
+1.2.5ELISA取TCM条件下培养 $2 4 \mathrm { ~ h ~ }$ 的DC2.4细胞培养上清， $2 0 0 0 ~ \mathrm { r / m i n }$ 离心去除细胞碎片。根据ELISA试剂盒说明书进行操作，采用多功能酶标仪(ThermoScientific公司)于 $4 9 0 \mathrm { n m }$ 与 $6 3 0 \mathrm { n m }$ 处检测OD值，检测IL-12与MDC的分泌。
+
+1.2.6免疫印迹胰酶消化TCM条件下培养 $2 4 \mathrm { ~ h ~ }$ 的DC2.4细胞，采用RIPA蛋白裂解液裂解提取总蛋白，以$12 \%$ SDS-PAGE凝胶电泳分离后转膜，采用免疫印迹检测p-p65、p65、p-STAT3、STAT3的水平,以GAPDH为内参。抗体均行1：2000稀释。常规孵育洗涤后，采用化学发光显色底物进行显色，以GeneGnome5化学发光显影仪(基因公司)采集图像。
+
+# 2结果
+
+# 2.1IL2-GMCSF促进DC2.4细胞吞噬
+
+将DC2.4细胞在添加不同细胞因子或双功能分子IL2-GMCSF(图1中示为BF)的TCM中培养 $2 4 \mathrm { h }$ 后，检测其对FD40的吞噬能力。结果显示，TCM环境中细胞吞噬活性显著低于常规培养环境中的水平，提示TCM处理可抑制DC2.4细胞的吞噬活性。而IL2-GMCSF无论在常规培养环境中还是在TCM环境中，均可显著促进DC2.4细胞的吞噬活性，与GM-CSF或GM-CSF与IL-2组合使用具有相似的效应 $( P { < } 0 . 0 5 )$ 。与之相反，IL-2对细胞的吞噬活性无影响。然而，无论是IL2-GMCSF、GM-CSF,还是GM-CSF与IL-2的组合使用，均无法完全逆转相应细胞因子处理下，TCM对DC2.4细胞吞噬活性的抑制(图1)。
+
+# 2.2IL2-GMCSF促进DC2.4细胞的增殖
+
+胰酶消化处理24h后的DC2.4细胞并计数，结果显示，与常规培养条件相比，TCM培养条件下，细胞增殖受到显著抑制，GM-CSF与IL-2均有一定的逆转效应，但无法完全逆转，而两种细胞因子的组合可使细胞增殖活性回复到常规培养条件下的水平。与单独的细胞因子作用不同，IL2-GMCSF可显著促进TCM条件下的细胞增殖 $( P { < } 0 . 0 5 )$ 。值得注意的是，常规培养条件下，IL2-GMCSF对细胞增殖的促进效应与GM-CSF水平相当，但在TCM条件下却显著高于GM-CSF活性(图2)。
+
+![](images/419ad73f986369acfbce81961e2614279f3ca6a59d6b4ce85ee3beb82a2660dc.jpg)  
+图1流式细胞术检测DC2.4细胞的吞噬活性 Fig.1 Phagocytosis of DC2.4 cells detected with flow cytometry. TCM:Tumor conditioned medium. $^ { * } P <$ $0 . 0 5 v s$ BLK; $^ { \sharp } P { < } 0 . 0 5$ Us TCM.
+
+![](images/d5b115bcb65bf312ca99a2f42a4a7040153b4bc15fe409ac3035066df2dba4b1.jpg)  
+图2细胞计数法检测DC2.4细胞增殖活性 Fig.2Proliferation of DC2.4 cells detected with cell counting method. $^ { * } P { < } 0 . 0 5$ UsBLK; $^ { \sharp } P { < } 0 . 0 5$ Us TCM.
+
+0.05)。因此,在TCM环境中，与IL2-GMCSF共孵育的DC2.4细胞可呈现更显著的成熟表型(图3、4)。
+
+# 2.4IL2-GMCSF促进DC2.4细胞的细胞因子分泌
+
+ELISA检测结果显示，TCM处理显著抑制了DC2.4细胞的IL-12分泌水平，却可促进MDC的表达。GM-CSF可促进常规培养条件下IL-12的分泌，但无法逆转TCM环境对IL-12的表达抑制；与之相反，无TCM刺激的环境中，GM-CSF不会诱导MDC的分泌，但在TCM环境中可进一步显著提升MDC的水平。与GM-CSF相比，无论是常规培养条件还是TCM处理环境中，IL2-GMCSF均可显著提高MDC表达水平，同时促进IL-12的分泌，但无法完全逆转TCM环境对IL-12的表达抑制(图5A,B)。
+
+# 2.5IL2-GMCSF促进NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 信号通路的活化
+
+免疫印迹检测表明，TCM处理全面下调了NF-kB通路的活化水平，表现为p65亚基的磷酸化水平下降。IL2-GMCSF可提升该水平，但该通路的活化在GM-CSF处理组中进一步降低。与此同时，STAT3的检测结果显示，TCM处理活化了STAT3通路，然而，该通路的活化在IL2-GMCSF处理组却有所下调(图6)。
+
+# 3讨论
+
+细胞因子是免疫细胞交流的途径之一，在抗肿瘤免疫反应的启动与调节中具有重要作用[19]。为排除不同细胞因子半寿期不同所造成的作用效果，本课题组将协同发挥作用的IL-2与GM-CSF制备为融合蛋白，IL2-GMCSF。在证实其具备单个细胞因子的活性之后，本研究检测了体外肿瘤抑制环境中IL2-GMCSF对DC细胞系的活化水平。结果显示，在肿瘤细胞条件培养基的作用下，IL2-GMCSF可促进DC2.4细胞的活化，表现为吞噬、增殖、成熟、细胞因子分泌水平上调，NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 信号通路活化水平增强
+
+# 2.3IL2-GMCSF促进DC2.4细胞的成熟
+
+采用免疫荧光检测在TCM中培养 $2 4 \mathrm { ~ h ~ }$ 的DC2.4细胞表型，流式分析结果显示，TCM可抑制细胞表面成熟标志分子的表达。GM-CSF、IL-2或组合细胞因子在常规培养环境中和TCM环境中对共同孵育的DC2.4细胞表面CD80、CD86、MHC-II与CD83的表达有不同的作用效应。常规培养条件下，GM-CSF对上述标记分子的表达均呈现抑制效应，但在TCM环境中均促进其表达。而IL-2对这些分子的表达无显著影响，细胞因子的组合与之类似，但均无法逆转TCM对上述分子的表达抑制，甚而会进一步降低其表达水平。IL2-GMCSF的作用效应在常规培养条件下更接近于GM-CSF与IL-2的组合作用效应，但在TCM环境中，可显著促进CD80、CD86的水平，并维持MHC-II与CD83的水平（ $\scriptstyle { \mathcal { P } } <$
+
+DC细胞在免疫反应中发挥关键的作用，可在GM-CSF作用下发生活化与成熟，因此彰显了GM-CSF在免疫反应中的重要性。DC2.4细胞2是小鼠未成熟DC细胞系，摄取抗原后可从未成熟状态转变为成熟状态，并向T细胞提呈抗原，具有体内天然DC的活性。本研究结果显示，DC2.4细胞在TCM条件下培养24h后，吞噬水平上调，但增殖水平和表面成熟标志表达水平下降，提示DC2.4细胞接触肿瘤环境后活化受到抑制。吞噬是DC摄取抗原的重要途径，对DC吞噬的促进有助于DC更好地启动免疫反应。TCM抑制DC的吞噬活性，从而即可从源头上抑制免疫反应。IL2-GMCSF和GM-CSF的单独或组合IL-2作用在常规培养条件下可显著促进DC的吞噬活性，但在TCM环境中，虽可一定程度逆转TCM的抑制效应，但均无法使之恢复到正常
+
+![](images/5f702fcbcdf5a5a6f7207c82a294858900ddd1a0c2e8b439dcdc4c508637ef9f.jpg)
+
+25   
+0.0 BLK BF GM-CSF IL-2 2CK
+
+cytometry. $^ { * } P { < } 0 . 0 5$ Us BLK; $^ { \mathrm { 5 } } P { < } 0 . 0 5$ Us TCM.
+
+水平，说明TCM中抑制性因素的效应较强，非细胞因子这单纯1种免疫成分可抵御。从抗瘤免疫的目的来看，最好能找出该因素，并有针对性地加以抑制。此外，我们的结果显示，无论是正常培养条件下，还是在TCM处理的条件下，IL2-GMCSF促进吞噬的活性均与GM-CSF、2种细胞因子组合的效应相当，而IL-2对DC的吞噬活性无影响，提示IL2-GMCSF融合蛋白中，促进DC吞噬活性的有效成分是GM-CSF。
+
+TCM显著抑制DC2.4细胞增殖，这一现象可被
+
+GM-CSF与IL-2逆转，而IL2-GMCSF的效应显著高于细胞因子的单独及组合使用，提示该融合蛋白一定程度上克服了2种因子组合的缺陷，并带来新的效应，从而可以获得更为理想的效果。DC细胞的增殖使得更多肿瘤抗原得以递呈给T细胞，从而可引发更高水平的抗肿瘤免疫反应。原代DC的可增殖性未可确定，因此IL2-GMCSF显著促进DC2.4细胞增殖的意义尚需在体内进一步验证。但IL2-GMCSF促进DC在免疫抑制条件下的显著增殖是很有趣的现象，值得深入探讨。
+
+![](images/231ce2385c7009180bb77a1a98165b63415bdac8d5bb77c2f9bf777abe987932.jpg)  
+图5ELISA检测DC2.4细胞IL-12与MDC的分泌 Fig.5 Secretion of IL-12 and MDC by DC2.4 cells detected with ELISA. $^ { * } P { < } 0 . 0 5$ Us BLK; $^ { \sharp } P { < } 0 . 0 5$ vs TCM.
+
+![](images/6fd622955a49178883e2731bcdea157b70a38f61e17e0c560560bc72af10dd3e.jpg)  
+图6免疫印迹检测DC2.4细胞信号通路活化水平  
+Fig.6 Activation of signaling pathways in DC 2.4 cells detected with Western blotting.
+
+细胞表型可反映细胞的功能。本实验的结果显示，TCM单纯处理可抑制DC2.4细胞的CD80、CD86、CD83和MHC-ⅡI表达，而GM-CSF和IL-2对不同的DC成熟标志的效应迥异。然而，在TCM环境中，仅有双功能分子IL2-GMCSF可促进CD80和CD86的表达，同时维持CD83和MHC-II的水平。CD80和CD86是重要的共刺激分子，对DC和T细胞的相互作用具有重要的作用，是保护性T细胞反应产生所依赖的要素之一;DC表面CD80/CD86的缺失将诱导免疫耐受[21]。因此,双功能分子对CD80和CD86的表达促进作用对于抗肿瘤免疫反应具有重要意义。
+
+本研究中，检测了代表DC2.4细胞两种活性的细胞因子表达水平。一种是DC促进T细胞活化所依赖的IL-12,另一种是强效趋化因子MDC。其中,TCM确实可以促进MDC的分泌，但水平低于GM-CSF与IL2-GMCSF的效应。同时，TCM显著抑制IL-12的表达水平。而IL2-GMCSF在TCM环境中对IL-12表达的部分逆转，提示其对DC的影响主要是在DC活化T细胞方面的效应，与前述促进CD80和CD86表达的结果相一致。同时，IL2-GMCSF具有较GM-CSF更强的促进MDC分泌的活性，提示该融合蛋白具有GM-CSF所不可比拟的优势。MDC是DC与巨噬细胞分泌的强效趋化因子。Guo等22将MDC基因转染小鼠后发现，MDC可募集大量DC细胞至肿瘤病灶处，从而诱导较强的抗肿瘤免疫反应，显著抑制肿瘤发展的进程。与之相反，TCM抑制了DC2.4细胞的IL-12分泌活性，从而阻止其活化T细胞。然而该抑制效应可被GM-CSF有所逆转，在IL2-GMCSF作用下进一步恢复至接近正常培养条件下的水平，提示IL2-GMCSF可促进DC发挥更强的抗肿瘤免疫效应。
+
+在吞噬与增殖检测中可见，IL2-GMCSF主要通过GM-CSF对DC2.4细胞发挥活性，IL-2对其活性并无显著影响，但IL2-GMCSF对DC2.4细胞的活化活性高于GM-CSF单独作用的效应。因此，在细胞因子分泌检测与免疫印迹分析时，仅对IL2-GMCSF与GM-CSF的效应进行了比较。结果显示，融合蛋白具有更高的促进细胞因子分泌与活化NF $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 信号通路的活性。与此相一致的是，IL2-GMCSF对STAT3通路的活化水平显著低于GM-CSF单独细胞因子的作用效应。单核细胞来源的DC中，STAT3对免疫监视和炎症反应发挥负调控的功能。沉默STAT3通路不会改变DC细胞的表型，但会改变其细胞因子分泌谱,使IL-10上调,IL-12和TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 下调[23]。与TCM共孵育的DC2.4细胞,其STAT3通路活化水平上升。出人意料的是，在常规培养条件下GM-CSF以不明机制诱导出了更高水平的STAT3活化，在TCM环境中的水平也较高。与之相反，IL2-GMCSF对该通路的活化具有一定的抑制效应，这与其诱导更高水平的IL-12和MDC相一致。
+
+综上所述，IL2-GMCSF除具有两种细胞因子各自的活性外，更可发挥协同效应，促进DC在肿瘤免疫抑制环境中的活化。这一活性对逆转肿瘤的免疫逃逸、促进抗肿瘤免疫反应、进而抑制肿瘤的进展，将具有重要作用。因此，IL2-GMCSF有望成为有效的临床抗肿瘤治疗手段。同时，鉴于这一融合蛋白可使两种细胞因子持续性地协同作用，对于进一步研究二者联合的免疫学效应具有重要意义。
+
+# 参考文献：
+
+[1]Aptsiauri N,Cabrera T,Garcia-Lora A,et al. Cancer immune
+
+escape:implications for immunotherapy,Granada, Spain,October 3-5,2011[J].Cancer Immunol,Immunother,2012,61(5): 739-45.   
+[2]Munn DH,Mellor AL. Indoleamine 2,3-dioxygenaseand tumor-induced tolerance[J]. JClin Invest, 2007,117(5): 1147-54.   
+[3]Flavell RA,Sanjabi S,Wrzesinski SH,et al. The polarization of immune cells in the tumour environment by TGFbeta[J].Nat Rev Immunol,2010,10(8): 554-67.   
+[4] Wang Z, Zhang L, Qiao A,et al. Activation of CXCR4 triggers ubiquitination and down-regulation of major histocompatibility complex class I(MHC-I) on epithelioid carcinoma HeLa cells[J]. J Biol Chem,2008,283(7): 3951-9.   
+[5]Ramsay AG, Clear AJ, Kelly G,et al.Follicular lymphoma cells induce T-cell immunologic synapse dysfunction that can be repaired with lenalidomide:implications for the tumor microenvironment and immunotherapy[J]. Blood,2009,114(21): 4713-20.   
+[6]Hargadon KM,Ararso YT,Forrest OA,et al. Melanoma-associated suppression of the dendritic cell lines DC2.4 and JAWSI[J].Am J Immunol,2012,8: 179-90.   
+[7]Ruef C, Coleman DL. Granulocyte-macrophage colony-stimulating factor: pleiotropic cytokine with potential clinical usefulness [J]. Rev Infect Dis,1990,12(1): 41-62.   
+[8]Chang DZ, Lomazow W,Joy Somberg C，et al. Granulocytemacrophage colony stimulating factor: an adjuvant for cancer vaccines[J]. Hematology,2004,9(3): 207-15.   
+[9]Dranoff G,Jaffee E,Lazenby A,et al. Vaccination with irradiated tumor cells engineered to secrete murine granulocyte-macrophage colony-stimulating factor stimulates potent,specific,and longlasting anti-tumor immunity [C]/Proceedings of the National Academy of Sciences of the United States of America,90,1993: 3539-43.   
+[10]Granucci F,Vizzardelli C,Pavelka N,et al.Inducible IL-2 production by dendritic cells revealed by global gene expression analysis[J]. Nat Immunol, 2001,2(9): 882-8.   
+[11] Nissim A,Gofur Y,Vessillier S,et al. Methods for targeting biologicals to specific disease sites[J]. Trends Mol Med,2004,10 (6): 269-74.   
+[12]Rosenberg SA,Lotze MT,Muul LM,et al. Observations on the systemic administration of autologous lymphokine-activated killer cells and recombinant interleukin-2 to patients with metastatic cancer[J].NEnglJMed,1985,313(23):1485-92.   
+[13]Arienti F,Belli F,Rivoltini L,et al. Adoptive immunotherapy of advanced melanoma patientswith interleukin-2 (IL-2） and tumor-infiltrating lymphocytes selected in vitro with low doses of IL-2[J].Cancer Immunol Immunother,1993,36(5): 315-22.   
+[14] Steger GG,Kaboo R，Dekernion JB,et al.The effects of granulocyte-macrophage colony-stimulating factor on tumourinfiltrating lymphocytes from renal cell carcinoma[J].Br J Cancer, 1995,72(1): 101-7.   
+[15]Grabstein KH,Urdal DL，Tushinski RJ,et al．Induction of macrophagetumoricidal activitybygranulocyte-macrophage colony-stimulating factor[J]. Science,1986,232(4749): 506-8.   
+[16]Malkovsky M,Loveland B，North M,et al．Recombinant interleukin-2 directly augments the cytotoxicity of human monocytes[J]. Nature,1987,325(611): 262-5.   
+[17] Stagg J，Wu JH,Bouganim N,et al. Granulocyte-macrophage colony-stimulating factor and interleukin-2 fusion cDNA for cancer gene immunotherapy[J]. Cancer Res,2004,64(24): 8795-9.   
+[18]Wen Q,Ma L,Luo W,et al.Comparison of four methods for the purificationandrefoldingofhumaninterleukin-2-mouse granulocyte/macrophage colony-stimulating factor fusion protein [J].Biotechnol Appl Biochem,2008,50(Pt 1): 41-8.   
+[19] Mumm JB,Oft M. Cytokine-based transformation of immune surveillance into tumor-promoting inflammation [J]. Oncogene, 2008,27(45): 5913-9.   
+[20] Shen Z,Reznikoff G,Dranoff G,et al. Cloned dendritic cells can present exogenous antigens on both MHC class I and class II molecules[J].JImmunol,1997,158(6): 2723-30.   
+[21] Mildner A JS,function of dendritic cell subsets[J].Immunity,2014, 40: 642-56.   
+[22]Guo J,Wang B,Zhang M,et al. Macrophage-derived chemokine gene transfer results in tumor regression in murine lung carcinoma model through eficient induction of antitumor immunity[J].Gene Ther,2002,9(12): 793-803.   
+[23] Sanseverino I,Purificato C, Varano B,et al. STAT3-silenced human dendritic cells have an enhanced ability to prime IFNy production by both $\alpha \beta$ and $\gamma \delta \mathrm { ~ T ~ }$ lymphocytes [J].Immunobiology，2014,219 (7): 503-11. (编辑：吴锦雅)

@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "黑果枸杞茎叶生长及其生态化学计量特征对灌水施肥的响应 ①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李发奎，李金霞，孙小妹，陈年来（甘肃农业大学资源与环境学院,甘肃 兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在石羊河中游田间条件下,通过灌水和施肥调节黑果枸杞生长。测定不同时期黑果枸杞茎、叶生长量及其化学计量学特征变化,分析器官水平生长速率与化学计量学特征的关系,验证生态化学计量学理论“生长速率假说”。灌水施肥显著促进了茎长、基径和叶片长、宽及叶干重的生长( $\\textstyle P < 0 . 0 5 )$ ，而茎长、基径、叶面积和叶干重的相对生长速率与对照之间无显著差异。各处理下黑果枸杞新梢C含量及 $\\operatorname { C } \\colon \\mathrm { N } \\lrcorner \\operatorname { C } \\colon \\mathrm { P }$ 随生育期进程呈增加趋势，而 $\\mathrm { ~ N ~ }$ /P及N:P呈降低趋势;灌水和施肥处理后茎C含量及 $\\mathrm { C } \\colon \\mathrm { N } \\lrcorner \\mathrm { C } \\colon \\mathrm { P } \\lrcorner \\mathrm { N } \\colon \\mathrm { P }$ 低于对照,茎 $_ { \\textrm { N } , \\textrm { P } }$ 含量高于对照。各处理叶片$\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 含量在生育期内呈降低趋势,而 $\\operatorname { C } { : \\mathrm { N } } , \\operatorname { C } { : \\mathrm { P } }$ 及N:P呈增加趋势;灌水和施肥后叶片C含量及 $\\mathrm { C } \\colon \\mathrm { N } \\lrcorner \\mathrm { C } \\colon \\mathrm { P } \\lrcorner \\mathrm { N } \\colon \\mathrm { P }$ 低于对照，叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量高于对照。茎C含量及 $\\operatorname { C } { : \\mathrm { N } } , \\operatorname { C } { : \\mathrm { P } }$ 显著高于叶片( $\\scriptstyle P < 0 . 0 5 )$ ,而N、P含量及N:P显著低于叶片( $\\scriptstyle P < 0 . 0 5 )$ 。生长速率假说认为，生物个体的生长速率与体内的 ${ \\mathrm { N } } { : } \\mathrm { P } \\ 、 { \\mathrm { C } } { : } \\mathrm { P }$ 具有负相关关系，与N、P含量呈显著的正相关关系。各处理黑果枸杞茎、叶的生长速率与其N、P含量及 ${ \\mathrm { C } } { : } \\mathrm { P } { \\mathrm { , } } { \\mathrm { N } } { : } \\mathrm { P }$ 总体相关性不显著。表明施肥灌水调节下黑果枸杞茎叶生长及化学计量学特征不支持生长速率假说。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黑果枸杞；茎叶生长；生态化学计量学；生长速率假说",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态化学计量学是研究生态相互作用和过程中能量平衡及多重化学元素平衡的科学，为解决生态系统养分供求与循环问题提供了新思路[1]。其目的在于定量化研究生物有机体的重要元素组成，从化学元素平衡的层面阐明生态系统物质循环等生态过程，而且还能将不同生物组织水平的研究有机地统一起来[2]。目前,生态化学计量学的研究主要集中在 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素的计量关系，这是因为 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 作为植物的基本化学元素，在植物生长和各种生理调节机能中发挥着重要作用[3-4]。C 是构成植物体内干物质的最主要元素[5],而N和P是蛋白质和遗传物质的重要组成元素。生长速率理论是生态化学计量学的主要理论之一，研究主要集中在N:P与生物生长速率间的关系上。生长速率假说指出：有机体需要对富含磷的核糖体和rRNA进行相对较多的投资，以支持与快速生长相关的快速蛋白合成，快速生长的个体或分类群的元素化学计量比向磷倾斜，因此，快速生长的生物表现出较低 ${ \\mathrm { N } } { : \\mathrm { P } } $ 和 $\\operatorname { C } { : \\operatorname { P } }$ 比值。Agren[7]提出了植物相对生长速率假说的模型,并通过实验进行了验证，认为植物体内N元素的变化主要取决于P元素，因为P元素主要存在于rRNA中，N元素主要存在于蛋白质中，而蛋白质的合成速率受rRNA浓度的控制，当植物体均衡生长的时候,植物个体的相对生长速率与其N、P含量呈显著正相关关系，而与N:P呈负相关关系。由于高等植物具有贮存物质的功能，其RNA中的P占植物全磷的比例较低[8],陆生植物是否符合生长速率假说还没有一致结论。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，当水分与养分等环境因子发生改变时，植物体内不同元素含量也会随着外界环境变化做出相应的响应[9]。在内蒙古草原,额外增水可以增加土壤N的矿化速率,从而提高了绿叶和衰落叶的N:P 比值[10],但是在美国加利福尼亚州草原,增水并没有改变植物地上部分的 $\\mathsf { N } \\colon \\mathsf { P } ^ { [ 1 1 ] }$ ,却改变了禾本科植物衰落叶片的C 和N含量[12]。Townsend等[13]对哥斯达黎加和巴西的热带雨林150 个物种的研究表明植物叶片的N:P与年平均降雨量没有显著关系。目前，有关植物组织内N:P对降水变化响应的研究还比较少[14],而 ${ \\mathrm { N } } { : \\mathrm { P } } $ 与生长速率假说的关系对水分变化响应的研究几乎没有。严正兵等[15]通过氮磷施肥对拟南芥（Arabidopsis thaliana）叶片碳氮磷化学计量特征的影响的研究表明，P限制下,拟南芥叶片的 ${ \\mathrm { N } } { : } \\mathrm { P } \\ 、 { \\mathrm { C } } { : } \\mathrm { P }$ 与叶片生物量生长速率均呈显著的负相关关系，符合生长速率假说。黄顶菊（Flaveriabidentis）叶片生长速率与叶片 ${ \\mathrm { N } } { : } { \\mathrm { P } } $ 的关系取决于环境的 $\\mathrm { ~ N ~ } , \\mathrm { ~ P ~ }$ 相对供应水平，P限制中 $\\mathrm { N } \\colon \\mathrm { P } > 2 1 . 2 4 \\ \\mathrm { ) }$ 时，高叶片 ${ \\mathrm { N } } { : } \\mathrm { P } $ 对应低植株生物量，符合生长速率假说； $_ { \\textrm { N } , \\textrm { P } }$ 共同限制( $2 0 . 8 6 < \\mathrm { N } \\colon \\mathrm { P } <$ 21.24)或N限制时 $\\mathrm { ~ \\chi ~ N : ~ P ~ } < 2 0 . 8 6 \\mathrm { ~ \\chi ~ }$ ，高叶片 ${ \\mathrm { N } } { : \\mathrm { P } } $ 对应高植株生物量,不符合生长速率假说[16]。内蒙古草原维管植物物种内生长率与 $\\mathrm { C } { : } \\mathrm { N }$ 和C:P呈负相关，符合生长率假说，P限制条件下生长率与 ${ \\mathrm { N } } { : \\mathrm { P } } $ 负相关,也符合生长率假说，但是，N限制条件下生长率与N:P 正相关,不符合生长率假说[17]。为了克服植物物质贮存功能对生长速率假说的影响，Matzek等将N:P转换成更可靠的蛋白质:RNA，结果发现14种松树幼苗叶的生长速率与蛋白质：RNA之间呈显著负相关，而叶N:P与生长速率没有显著相关性[18]。因此,植物 ${ \\mathrm { N } } { : \\mathrm { P } } $ 比与生长速率的关系还需更多的实证研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黑果枸杞(Lyciumruthenicum）为茄科（Solanace-ae)多年生植物,属多棘刺灌木[19]。黑果枸杞根系发达,耐盐碱、耐旱性和抗逆性强,是干旱地区防风固沙、水土保持的先锋物种，具有显著生态效益。因此,研究黑果枸杞生态化学计量学特征对灌水施肥的响应,对揭示干旱生境下植物的生存策略具有重要意义。本研究以黑果枸杞为对象，在石羊河中游田间条件下，通过灌水和施肥调节茎、叶生长速率，测定不同时期茎、叶生长量及其化学计量学特征变化，分析器官水平生长速率与化学计量学特征的关系，验证生态化学计量学理论“生长速率假说”，为生长速率假说的统一和完善增加试验依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年在甘肃省民勤县农技中心试验站进行。该试验站位于石羊河下游的民勤绿洲$( 3 8 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N } , 1 0 3 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E } )$ 中部、腾格里沙漠和巴丹吉林沙漠之间，属温带大陆性干旱气候，海拔 $1 ~ 4 0 0 \\sim$ $1 5 5 0 \\mathrm { ~ m ~ }$ ,年平均降水量 $1 1 0 \\sim 1 2 7 . 7 ~ \\mathrm { m m }$ ,蒸发量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 ~ 6 0 4 . 3 \\sim 2 ~ 6 4 4 ~ \\mathrm { m m }$ ，日照时数 $3 \\ 0 7 3 . 5 \\mathrm { ~ h ~ }$ ,无霜期162d,年平均气温 $7 . 6 \\mathrm { ~ \\textdegree C }$ ,昼夜温差 $2 5 . 5 \\sim 2 5 . 2$ $\\mathcal { \\mathrm { C } }$ ,试验地为沙质壤土。试验前,采集样地表层土壤（ $0 \\sim 2 0 ~ \\mathrm { c m } ,$ 测定基本理化性质，结果为：土壤水分含量12. $7 9 \\%$ （W/W）, $\\mathrm { \\ p H }$ 值8.58，电导率0.45${ \\mu \\mathrm { S } } \\cdot \\ \\mathrm { c m } ^ { - 1 }$ ,有机质、全氮、全磷含量分别为 $1 0 . 4 7 \\ \\mathrm { g \\cdot }$ （204号$\\mathbf { k g } ^ { - 1 } , 0 . 7 5 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 } \\cdot 0 . 6 6 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 }$ ,碱解氮含量$4 7 . 4 9 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ ，速效磷含量 $1 2 . 7 2 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验以3a生黑果枸杞为材料，于2018年3月移栽并灌水。沟垄式种植，沟宽 $0 . 8 \\mathrm { ~ m ~ }$ ，垄宽1.8$\\mathrm { ~ m ~ }$ ,株距 $0 . 7 \\mathrm { ~ m ~ }$ ,每沟种植102株。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验设对照（不施肥、不灌水）、灌水、施肥 $^ +$ 灌水3个处理，每个处理10株，3次重复。于萌芽初期(4月21日)统计植株分枝数和测定植株高度后，选择分枝数和株高相近植株90株，齐地面整体平茬,于再生新枝高度达 $5 \\ \\mathrm { c m }$ 左右时，每株挂牌标记5个新枝,并注明新枝发出日期。齐地平茬后同时进行灌水和施肥处理,采用单株灌水方式,在萌芽初期(4月21日)和盛花期(5月28日)灌水，每次灌水 $1 0 \\mathrm { ~ L ~ }$ ·株-1,充分湿润根围土壤;施肥处理采用“水随肥走”的单株施肥,于第一次灌水时每株施用尿素 $9 . 6 9 \\ \\mathrm { g }$ ,过磷酸钙 $\\mathbf { 1 . 6 7 \\ g }$ ,折纯养分量为 $\\mathrm { { N / P = } }$ 15,同时灌水 $1 0 { \\mathrm { ~ L ~ } } \\cdot$ 株-1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在新生枝条萌生后第 $1 0 \\textrm { d } . 2 0 \\textrm { d } . 3 0 \\textrm { d } . 4 0 \\textrm { d } . 5 0$ d和 $6 0 \\mathrm { ~ d ~ }$ 分次齐地面采收标记的枝条，每个时期每次重复采收5枝，并摘取新稍上中部10片叶。采收的枝条和叶片分别称鲜重，在 $1 0 5 ~ \\mathrm { { ^ \\circ C } }$ 杀青 $3 0 ~ \\mathrm { m i n }$ ，再在 $8 0 ~ \\mathrm { { ^ { \\circ } C } }$ 烘干至恒重，分别粉碎后过 $0 . 2 5 ~ \\mathrm { m m }$ 筛，密封保存用于 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 含量测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.1植株生长指标茎长：钢卷尺测量;叶片长、宽：直尺测量；基径、叶厚：游标卡尺测量;叶面积：万深LA-S便携式活体叶面积仪测定；叶干重：烘干称重法。茎长、基径、叶面积、叶干重生长速率计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相对生长速率 $( \\mathrm { R G R } ) = ( \\mathrm { l n } { M _ { i } } / { M _ { 0 } } ) / t$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { i }$ 为 $t _ { i }$ 时的生长量/生物量; $M _ { 0 }$ 为 $t _ { 0 }$ 时的生长量/生物量； $\\mathbf { \\chi } _ { t }$ 为 $t _ { 0 }$ 距 $t _ { i }$ 的天数。1.5.2植物 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 含量的测定植物样品有机碳（TC）：用C/N联合分析仪测定；植物全氮（TN）：用$\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } - \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -凯氏定氮法；植物全磷（TP）：用$\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } - \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -钼锑抗比色法测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3土壤理化性质的测定土壤有机质：用重铬酸钾容量法－外加热法；土壤全氮（TN）：用$\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } - \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -凯氏定氮法；土壤全磷（TP）：用$\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } - \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -钼锑抗比色法测定。土壤速效氮：碱解扩散法;土壤速效P：以 $0 . 5 ~ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 浓度的碳酸氢钠法； $\\mathrm { \\ p H }$ 用 $\\mathrm { \\ p H }$ 计;电导率用电导率仪；含水率用烘干称重法。参照土壤农化分析[20]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用SPSS23.0软件中的ANONA对数据进行单因素方差分析，采用新复极差法（Duncan）比较不同处理间的差异显著性( $\\begin{array} { r } { \\alpha = 0 . 0 5 \\mathrm { ~ , ~ } } \\end{array}$ ），采用Excel2010软件对数据进行统计整理及作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 黑果枸杞茎叶生长对施肥灌水的响应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌水和施肥显著促进了黑果枸杞茎长、基径的生长（ $P < 0 . \\ 0 5 \\ \\cdot$ )，平均增幅分别为51. $13 \\%$ 和$4 0 . 4 9 \\%$ （ $, 8 0 . 6 8 \\%$ 和 $5 1 . 5 3 \\%$ ,灌水和施肥之间差异不显著( $\\textstyle P > 0 . 0 5 )$ 。茎长的相对生长速率随时间的延长表现为先升高后降低，基径的相对生长速率总体呈增加趋势。灌水处理茎长的平均相对生长速率高于对照( $\\textstyle P > 0 . 0 5 { \\dot { \\mathstrut } }$ )，平均增幅为 $1 1 . 6 3 \\%$ ，基径的相对生长速率低于对照，平均降幅为 $1 5 . 4 5 \\%$ ；施肥处理茎长、基径的平均相对生长速率低于对照( $P >$ 0.05），平均降幅为 $5 . 9 6 \\% . 3 . 2 6 \\%$ （图1，表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌水和施肥显著促进了黑果枸杞叶长、宽的生长（ $\\textstyle P < 0 . 0 5$ ），平均增幅分别为 $3 5 . 5 2 \\%$ 和",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b06a75f5f24abd419b026e9a8854ec147df63610552e670d5166d902d5198e8.jpg",
+        "img_caption": [
+            "图1施肥和灌水对黑果枸杞茎生长的影响",
+            "Fig.1Effects of fertilization and irrigation on stem growth of Lycium ruthenicum "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1各处理之间茎长和基径及其相对生长速率的差异显著性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/21615ca886442de74b8fb27d0b695cca2afcee5e7238c32ecb51da57039a0a8c.jpg",
+        "table_caption": [
+            "Tab.1Significant differences in stem length and base diameter and their relative growth rates among different treatments "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示各处理之间差异显著( $\\textstyle P < 0 . 0 5$ )，-表示各处理之间无显著差异。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"3\">茎长</td><td colspan=\"3\">茎长相对生长速率</td><td colspan=\"3\">基径</td><td colspan=\"3\">基径相对生长速率</td></tr><tr><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td></tr><tr><td>对照</td><td></td><td>1</td><td>*</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>*</td><td></td><td>1</td><td>1</td></tr><tr><td>灌水</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>*</td><td></td><td>1</td><td>1</td><td></td><td>1</td></tr><tr><td>施肥</td><td>*</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>1</td><td></td><td>1</td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$4 8 . 0 2 \\%$ ${ , 1 6 . 3 8 \\% }$ 和 $2 1 . 6 0 \\%$ （表2）。叶面积都会随时间延长而增加，但也都有个体增长快慢的区别，最后又会停止。灌水和施肥显著促进了叶面积的生长（ $\\textstyle P < 0 . 0 5 )$ ,平均增幅为 $5 9 . 7 4 \\%$ 和 $8 5 . 2 3 \\%$ ，灌水和施肥之间差异不显著( $\\ P > 0 . 0 5 )$ 。对照条件下，叶面积相对生长速率呈先降低后增加，灌水和施肥处理下呈低一高一低的变化。灌水和施肥处理下叶面积的平均相对生长速率高于对照( $P < 0 . \\ 0 5 )$ ，平均升幅为 $4 4 . 0 0 \\%$ 和 $4 2 . 1 3 \\%$ ,灌水和施肥之间差异不显著( $\\textstyle P > 0 . 0 5 )$ （图2，表3）。叶厚随时间整体呈增加趋势，灌水和施肥促进了叶厚的生长（ $P >$ 0.05），平均增幅为 $1 0 . 2 3 \\%$ 和 $3 . 4 5 \\%$ ,灌水和施肥之间差异不显著( $P > 0 . 0 5$ ，表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "黑果枸杞单叶干重会随着时间延长而增长，灌水和施肥促进了叶干重的增加（ $\\begin{array} { r } { P > 0 . 0 5 \\} , } \\end{array}$ ，平均增幅为 $3 9 . 7 6 \\%$ 和 $4 7 . 3 9 \\%$ ,灌水和施肥之间差异不显著( $\\scriptstyle P > 0 . 0 5 )$ 。叶干重的相对生长速率总体呈降低趋势，灌水处理下叶干重的相对生长速率稍高于对照( $\\ P > 0 . 0 5 )$ ,平均增幅为 $0 . 3 1 \\%$ ;施肥处理下叶干重的相对生长速率低于对照( $\\begin{array} { r } { P > 0 . 0 5 \\} , } \\end{array}$ ，平均降幅为 $1 3 . ~ 4 3 \\%$ 。灌水和施肥之间差异不显著( $P >$ 0.05)（图3，表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 黑果枸杞茎叶化学计量特征对施肥灌水的响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各处理黑果枸杞茎C含量都会随时间延长呈增加趋势，叶片C含量总体呈降低趋势。与对照相比，灌水和施肥处理下茎、叶C含量稍有降低，平均降幅为 $0 . 9 3 \\%$ 和 $0 . 4 7 \\% . 2 . 7 7 \\%$ 和 $1 . 4 4 \\%$ ，灌水和施肥之间差异不显著( $\\cdot P > 0 . 0 5 )$ ，茎C含量显著高于叶片( $\\scriptstyle P < 0 . 0 5 )$ 。茎、叶N含量随时间延长都呈降低趋势，灌水和施肥处理下茎、叶N含量高于对照 $\\cdot P > 0 . 0 5 )$ ,平均增幅分别为 $8 . 9 6 \\%$ 和 $1 2 . 0 0 \\%$ 、$1 3 . 2 1 \\%$ 和 $8 . 7 5 \\%$ ，灌水和施肥之间差异不显著1 $\\ P > 0 . 0 5 )$ ，叶片N含量显著高于茎 $^ { \\prime } P < 0 . 0 5 )$ 。茎、叶 $\\mathrm { ~ \\bf ~ P ~ }$ 含量随时间延长呈降低趋势，灌水和施肥处理下茎、叶含量高于对照( $\\cdot P > 0 . 0 5 )$ ,平均增幅分别为 $5 8 . 3 6 \\%$ 和 $3 1 . 3 0 \\%$ ， $6 1 . 6 7 \\%$ 和 $2 0 . 6 6 \\%$ ，灌水和施肥之间差异不显著( $\\cdot P > 0 . 0 5 )$ 。叶片 $\\mathrm { ~ \\bf ~ P ~ }$ 含量高于茎(图4,表4)。茎、叶中 $\\mathrm { C } { : } \\mathrm { N }$ 均随时间延长呈增",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1301425a4191a7b6d9314589bbae726e97709b7e148c9cefafa7af853de020c7.jpg",
+        "img_caption": [
+            "图2施肥和灌水对黑果枸杞单叶面积生长的影响",
+            "Fig.2Effects of fertilization and irrigation on the growth of single leaf area of Lycium ruthenicum "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6aaf92785809aebfad9bedf6805be8aaeab1d4edcd04089be8185bb5d42b249.jpg",
+        "table_caption": [
+            "表2灌水和施肥对黑果枸杞叶片大小的影响",
+            "Tab.2Effects of irrigation and fertilization on leaf volume of Lycium ruthenicum "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示同一处理不同采样时间之间差异显著( $\\textstyle P < 0 . 0 5$ );不同大写字母表示同一时间不同处理之间差异显著( $\\textstyle P < 0 . 0 5$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">萌芽后 天数/d</td><td colspan=\"3\">叶长/mm</td><td colspan=\"3\">叶宽/mm</td><td colspan=\"3\">叶厚/mm</td></tr><tr><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td></tr><tr><td>10</td><td>Aa</td><td>11.66 ±0.90 15.05 ±1.42 15.07 ±0.94 Abc</td><td>Ac</td><td>2.59±0.19 Cc</td><td>3.02±0.04 Bc</td><td>3.49 ±0.08 Ab</td><td>0.776 ±0.023 0.953 ±0.057 0.907 ±0.025 Bc</td><td>Aa</td><td>ABa</td></tr><tr><td>20</td><td>Ab</td><td>12.12 ±0.80 14.31±0.38 15.58±1.52 Ac</td><td>Ac</td><td>Ab</td><td>3.31±0.04 3.38±0.0.31 3.44±0.32 Abc</td><td>Ab</td><td>0.881±0.059 0.954±0.021 0.893 ±0.057 Abc</td><td>Aa</td><td>Aa</td></tr><tr><td>30</td><td>Ba</td><td>11.41±0.35 16.23±0.68 17.87±0.81 Abc</td><td>Abc</td><td>3.59 ±0.17 Aab</td><td>3.88 ±0.37 Aabc</td><td>3.95 ±0.16 Aab</td><td>Abc</td><td>0.885 ±0.035 0.966±0.040 0.900±0.062 Aa</td><td>Aa</td></tr><tr><td>40</td><td>Ba</td><td>12.94±1.08 15.35 ±1.48 18.83 ±1.27 ABbc</td><td>Aabc</td><td>3.23 ±0.25 Bb</td><td>4.15 ±0.49 ABab</td><td>4.78 ±0.44 Aa</td><td>0.877 ±0.060 0.997 ±0.078 1.060±0.030 Abc</td><td>Aa</td><td>Aa</td></tr><tr><td>50</td><td>Ba</td><td>13.08 ±1.47 21.71±2.46 21.58±1.19 Aa</td><td>Aab</td><td>3.35±0.15 Bab</td><td>4.02±0.26 ABabc</td><td>4.34 ±0.17 Aab</td><td>Aab</td><td>0.964 ±0.019 1.100±0.037 0.899±0.160 Aa</td><td>Aa</td></tr><tr><td>60</td><td>Ba</td><td>14.27 ±1.00 19.67 ±1.54 22.84 ±1.72 Aab</td><td>Aa</td><td>3.86±0.09 Aa</td><td>4.73 ±0.43 Aa</td><td>4.23±0.49 Aab</td><td>Aa</td><td>1.063 ±0.051 1.037±0.101 0.976±0.080 Aa</td><td>Aa</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7c1da18ca4d6cf248e5bd08f05cc3f3008dcb527bc775ca1be3e9ada215eab1.jpg",
+        "img_caption": [
+            "Fig.3Efects of fertilization and irrigation on single leaf dry weight of Lycium ruthenicum "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9d5109acd45182f29be68fa4c644ae942fa193d657f750030b03279bf2e8c75.jpg",
+        "table_caption": [
+            "表3各处理之间叶面积和叶干重及其相对生长速率的差异显著性",
+            "Tab.3Significant difference in leaf area，leaf dryweight and relative growthrateamong diferent treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"3\">叶面积</td><td colspan=\"3\">叶面积相对生长速率</td><td colspan=\"3\">叶干重</td><td colspan=\"3\">叶干重相对生长速率</td></tr><tr><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td></tr><tr><td>对照</td><td></td><td>*</td><td>*</td><td></td><td>1</td><td>1</td><td></td><td></td><td>1</td><td></td><td>二</td><td>二</td></tr><tr><td>灌水</td><td>*</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>一</td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>施肥</td><td>*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb387838f3c691b6b97b291bc42afe1169fc3182887e1a371b5907d122ed3f9c.jpg",
+        "img_caption": [
+            "图3施肥和灌水对黑果枸杞单叶干重影响",
+            "图4黑果枸杞茎叶的 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Changes of C，N and $\\mathrm { \\Delta P }$ contents in stems and leaves of Lycium ruthenicum under different treatments加趋势，灌水和施肥处理茎、叶 $\\mathrm { C } { : } \\mathrm { N }$ 低于对照( $P >$ 0.05），灌水与施肥之间差异不显著( $P > 0 . 0 5 )$ ，茎$\\mathrm { C } { : } \\mathrm { N }$ 显著高于叶片( $\\ P < 0 . 0 5 )$ 。茎、叶的 $\\operatorname { C } { : \\operatorname { P } }$ 随时间延长呈增加趋势，灌水和施肥处理茎、叶的 $\\mathbf { C } \\colon \\mathbf { P }$ 显著低于对照( $\\textstyle P < 0 . 0 5 )$ ，灌水和施肥之间差异显著( $\\textstyle P < 0 . 0 5 )$ ，茎 $\\operatorname { C } { : \\operatorname { P } }$ 显著高于叶片 $^ { \\prime } P < 0 . 0 5 )$ 。茎N:P随时间延长总体呈缓慢降低趋势，叶的N：P呈增加趋势。灌水处理茎、叶 ${ \\mathrm { N } } { : \\mathrm { P } } $ 显著低于对照（ $\\textstyle P < 0 . 0 5 )$ ，施肥处理茎、叶 ${ \\mathrm { N } } { : \\mathrm { P } } $ 低于对照（ $P >$ 0.05），灌水和施肥之间差异不显著( $\\begin{array} { r } { P > 0 . 0 5 \\ ' } \\end{array}$ ，叶片N:P显著高于茎( $P < 0 . 0 5 )$ （图5，表5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ef41e128d5988a93ebc442c09280a529b669f44ab565977ea42fc6991acbbbb.jpg",
+        "table_caption": [
+            "表4各处理之间茎和叶C、N、P含量的差异显著性",
+            "Tab.4Significant difference of C,N and Pcontent in stem and leaf among different treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">处理</td><td colspan=\"3\">C含量</td><td colspan=\"3\">N含量</td><td colspan=\"3\">P含量</td></tr><tr><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td></tr><tr><td>茎</td><td>对照</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>*</td></tr><tr><td></td><td>灌水</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>*</td><td></td><td>1</td></tr><tr><td></td><td>施肥</td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>1</td><td></td></tr><tr><td>叶</td><td>对照</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>1</td></tr><tr><td></td><td>灌水</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>*</td><td></td><td>1</td></tr><tr><td></td><td>施肥</td><td>二</td><td>1</td><td></td><td>二</td><td>1</td><td></td><td>二</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3黑果枸杞茎叶化学计量学特征与生长速率的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "黑果枸杞茎、叶的相对生长速率与 $_ { \\textrm { N } , \\textrm { P } }$ 含量及${ \\mathrm { C } } { : } \\mathrm { P } \\ 、 { \\mathrm { N } } { : } \\mathrm { P }$ 呈不同的变化趋势。其中，灌水处理基径的相对生长速率与叶N含量呈显著负相关关系（ $\\ P < 0 . \\ 0 5 \\ )$ ，与 $\\mathrm { C } : \\mathrm { P }$ 呈显著的正相关关系（ $\\boldsymbol { P } <$ 0.05）。灌水处理茎相对生长速率与茎 $_ { \\textrm { N } , \\textrm { P } }$ 含量呈正相关( $\\textstyle P < 0 . 0 5 )$ ，与茎 ${ \\mathrm { C } } \\colon { \\mathrm { P } } , { \\mathrm { N } } \\colon { \\mathrm { P } }$ 呈负相关( $P <$ 0.05）。对照和灌水条件下叶干重相对生长速率与叶 $_ { \\textrm { N } , \\textrm { P } }$ 含量呈正相关( $\\textstyle P < 0 . 0 5 ,$ ，与叶 ${ \\mathrm { C } } { : } \\mathrm { P } { \\mathrm { , } } { \\mathrm { N } } { : } \\mathrm { P }$ 呈负相关( $P < 0 . 0 5$ ，表6)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c8998d8fd5521558c4aaa3ca15f3a614cfe970d9ae686e43f9d64db3547dce5.jpg",
+        "img_caption": [
+            "图5不同处理下黑果枸杞茎叶的C、N、P比值的变化",
+            "Fig.5Changes of C，Nand P ratios in stems and leaves of Lycium ruthenicum under different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9a00e686423d4aca386eae9f82967b67d9327cbbda40efe60e75af70b054617.jpg",
+        "table_caption": [
+            "Tab.5Significant difference in C,Nand Pratio of stemand leaf among different treatments ",
+            "表6黑果枸杞茎叶化学计量学特征与生长速率的相关系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">处理</td><td colspan=\"3\">C: N</td><td colspan=\"3\">C:P</td><td colspan=\"3\">N: P</td></tr><tr><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td><td>对照</td><td>灌水</td><td>施肥</td></tr><tr><td>茎</td><td>对照</td><td></td><td>1</td><td>1</td><td></td><td>*</td><td>*</td><td></td><td>*</td><td>*</td></tr><tr><td></td><td>灌水</td><td>1</td><td></td><td>1</td><td>*</td><td></td><td>1</td><td>*</td><td></td><td>*</td></tr><tr><td></td><td>施肥</td><td>1</td><td>1</td><td></td><td>*</td><td>1</td><td></td><td>*</td><td>*</td><td></td></tr><tr><td>叶</td><td>对照</td><td></td><td>*</td><td>1</td><td></td><td>*</td><td>1</td><td></td><td>*</td><td>1</td></tr><tr><td></td><td>灌水</td><td>*</td><td></td><td>1</td><td>*</td><td></td><td>1</td><td>*</td><td></td><td>1</td></tr><tr><td></td><td>施肥</td><td>二</td><td>1</td><td></td><td>二</td><td>1</td><td></td><td>二</td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6952111762ceb2a434a4d1a91a7c7c1f8de1c1a943ca36fc6d36a3b9e7d28d7.jpg",
+        "table_caption": [
+            "表5各处理之间茎和叶C、N、P比值的差异显著性",
+            "Tab.6Coeficient of correlation between stoichiometric characteristics of stem and leaf,and growth rate of Lyciumruthenicum "
+        ],
+        "table_footnote": [
+            "注： $*$ 在 $\\textstyle P < 0 . 0 5$ (双尾)水平上相关性显著。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"3\"></td><td colspan=\"4\">茎</td><td colspan=\"4\">叶</td></tr><tr><td>TN</td><td>TP</td><td>C: P</td><td>N: P</td><td>TN</td><td>TP</td><td>C:P</td><td>N: P</td></tr><tr><td rowspan=\"10\">相对生长速 率</td><td></td><td>对照</td><td>0.32</td><td>0.12</td><td>-0.30</td><td>0.34</td><td>-0.18</td><td>-0.01</td><td>-0.01</td><td>-0.13</td></tr><tr><td>茎长</td><td>灌水</td><td>0.22</td><td>0.55</td><td>-0.59</td><td>-0.25</td><td>0.51</td><td>0.05</td><td>-0.02</td><td>0.31</td></tr><tr><td></td><td>施肥</td><td>0.22</td><td>0.27</td><td>-0.28</td><td>0.41</td><td>0.66</td><td>0.30</td><td>-0.23</td><td>0.15</td></tr><tr><td></td><td>对照</td><td>-0.22</td><td>-0.55</td><td>0.50</td><td>0.06</td><td>-0.05</td><td>-0.21</td><td>0.44</td><td>0.54</td></tr><tr><td>基径</td><td>灌水</td><td>-0.566</td><td>-0.68</td><td>0.55</td><td>-0.50</td><td>-0.63</td><td>-0.90 *</td><td>0.89 *</td><td>0.73</td></tr><tr><td></td><td>施肥</td><td>-0.64</td><td>-0.64</td><td>0.68</td><td>-0.65</td><td>-0.83</td><td>-0.66</td><td>-0.59</td><td>0.08</td></tr><tr><td>叶面积</td><td>对照</td><td>-0.01</td><td>-0.31</td><td>0.29</td><td>0.33</td><td>0.25</td><td>0.12</td><td>0.11</td><td>0.21</td></tr><tr><td></td><td>灌水</td><td>-0.18</td><td>-0.27</td><td>0.35</td><td>-0.12</td><td>-0.43</td><td>-0.53</td><td>0.58</td><td>0.47</td></tr><tr><td>施肥</td><td></td><td>-0.12</td><td>-0.03</td><td>0.07</td><td>0.09</td><td>0.24</td><td>0.124</td><td>-0.04</td><td>0.10</td></tr><tr><td rowspan=\"3\">叶干重</td><td>对照</td><td>0.27</td><td>0.30</td><td>-0.18</td><td>0.42</td><td>0.61</td><td>0.59</td><td>-0.54</td><td></td><td>-0.47</td></tr><tr><td>灌水</td><td>0.80</td><td>0.86</td><td>-0.75</td><td>0.58</td><td>0.50</td><td></td><td>0.73</td><td>-0.69</td><td>-0.57</td></tr><tr><td>施肥</td><td>-0.05</td><td>0.05</td><td>-0.01</td><td>0.01</td><td></td><td>0.41</td><td>0.11</td><td>-0.05</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.1黑果枸杞茎叶生长对灌水施肥的响应研究表明，当水分与养分等环境因子发生改变时，植物的形态特征、生物量积累均有不同程度的响应。灌水和施肥对植物的株高、地径及地上部干物质量有一定的促进作用[21],本研究结果与此相符,灌水和施肥显著促进了黑果枸杞茎长、基径和叶面积及叶干重的生长。这可能是由于茎和叶片这些组织器官长期暴露在环境中，外界环境的变化极其敏感[22]植物会通过改变自身的形态结构以适应环境而继续生存下去。但是，灌水处理茎长的平均相对生长速率高于对照，基径的相对生长速率低于对照；施肥处理茎长、基径的平均相对生长速率低于对照。这可能是由于灌水促进茎的顶端优势；施肥抑制茎的顶端优势，更多的资源用于侧枝的生长。灌水和施肥处理下叶面积的平均相对生长速率高于对照，说明灌水和施肥会促进叶面积的增加。灌水处理后叶干重的平均相对生长速率基本不变，施肥处理后叶十重相对生长速率低于对照，这可能是由于施肥处理叶片的生物日积累量会降低，生物量分配到果实中，与施氮对燕麦生物量积累及其分配的研究结果相似[23]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2黑果枸杞茎叶化学计量学特征对灌水施肥的响应对于植物而言，环境变化对功能性物质影响较大,对结构性物质影响较小[6]。本研究结果与此相符,灌水使黑果枸杞C含量略有降低，而N、P含量显著增加，与不同森林类型主要优势植物叶片C 含量随着降水量或人工灌溉量的增加而减小，N、P含量增加的结论[24-25]相似。这可能由于灌水增加叶片面积和厚度，从而蒸腾作用增加，导致叶片C含量降低。而植物N、P吸收和C固定的途径不同，灌水增加了土壤N的矿化速率，从而提高对N的吸收[14],所以,茎、叶 N含量增加。P含量增加可能是由于灌水使黑果枸杞茎、叶生长量的增加，植物调整养分需求，输运了更多的P物质以支持核糖体合成蛋白质[9,26]。施肥处理下黑果枸杞茎、叶的C 含量则相对稳定,N、P含量变化明显,这与刘晓玲[7通过氮磷供应对群落生态化学计量特征影响的研究相似。陈伏生等[28]研究表明,氮、磷养分的供应明显影响植物叶片N、P浓度及其化学计量比。本试验中施肥处理显著增加了黑果枸杞茎、叶中的N、P含量，可能是由于施肥提高了土壤中的养分含量，植物调整养分需求,从而导致自身 N、P 含量增加[9,26] 。这与罗艳等[29]的研究“不同荒漠灌木植物叶片的$\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 元素含量及其比值与土壤养分含量无相关关系”相反，这可能是由于外界环境的改变对一年生幼苗的影响较大引起的。所以，灌水和施肥处理下茎和叶的 $\\operatorname { C } { : \\mathrm { N } } , \\operatorname { C } { : \\mathrm { P } }$ 均低于对照,N:P 阈值作为指示植物生长受N 或 $\\mathrm { ~ \\bf ~ P ~ }$ 元素限制[29]，在植物生长过程中， $\\mathrm { N } { : } \\mathrm { P } < 1 4$ 表现为N限制， $\\mathrm { N } { : } \\mathrm { P } > 1 6$ 为 $\\mathrm { ~ \\bf ~ P ~ }$ 限制，$1 4 < \\mathrm { N } { : } \\mathrm { P } < 1 6$ ，为 $_ { \\textrm { N } , \\textrm { P } }$ 共同限制[30]。本研究中各处理茎 $\\mathrm { N } { : } \\mathrm { P } < 1 4$ ，表现为N限制，叶片 $\\mathrm { N } { : \\mathrm { P } > 1 6 }$ 为 $\\mathrm { ~ \\bf ~ P ~ }$ 限制。灌水和施肥处理下茎叶 ${ \\mathrm { N } } { : \\mathrm { P } } $ 低于对照，这可能是由于灌水和施肥处理下茎和叶生长受N限制作用增强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3茎叶生长速率与生态化学计量学特征的相关性本研究中灌水处理基径的相对生长速率与叶N含量呈显著负相关关系( $\\textstyle P < 0 . 0 5 )$ ，与 $\\operatorname { C } { : \\operatorname { P } }$ 呈显著的正相关关系（ $P < 0 . 0 5 )$ ，这可能是茎叶生长速率快使N、P浓度稀释所致，因此，不符合生长速率假说,这与杨梅等[31]对烤烟的研究结果相似。茎长相对生长速率与茎、叶的 $_ { \\textrm { N } , \\textrm { P } }$ 含量及其 ${ \\mathrm { C } } : { \\mathrm { P } } , { \\mathrm { N } } : { \\mathrm { P } }$ 无显著相关性;叶面积与叶干重相对生长速率与叶片N、P含量及其 ${ \\mathrm { C } } { : } \\mathrm { P } { \\mathrm { , } } { \\mathrm { N } } { : } \\mathrm { P }$ 无显著相关性，也不支持生长速率假说。但是，各处理茎长的相对生长速率与茎N、P含量的相关系数为正，对照和施肥处理下茎长相对生长速率与茎 ${ \\mathrm { N } } { : } \\mathrm { P } $ 相关系数为正，这与庚强[17]在内蒙古草原的研究相似,不符合生长速率假说;各处理基径相对生长速率与茎N、P含量的相关性系数为负，也不符合生长速率假说。而各处理下叶干重相对生长速率与叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量相关性系数为正，与叶片 ${ \\mathrm { C } } { : } \\mathrm { P } { \\mathrm { , } } { \\mathrm { N } } { : } \\mathrm { P }$ 的相关性系数为正，这与严正兵等[15]通过氮磷施肥对拟南芥叶片碳氮磷化学计量特征的影响的研究结果具有相似的趋势，但不符合生长速率假说。这可能是由于在植物中不用于生长的N或P可能被储存起来，从而掩盖了生长速率与化学计量比之间的关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生长速率假说认为，生物个体的生长速率与体内的 ${ \\mathrm { N } } { : } \\mathrm { P } \\ 、 { \\mathrm { C } } { : } \\mathrm { P }$ 具有负相关关系，与体内的N、P含量呈显著的正相关关系[7],即相对生长速率（rela-tivegrowthrate，RGR)较快的生物具有快速合成蛋白质的能力，而快速合成蛋白质则意味着更多的核糖体即rRNA。由于生物体内的P主要存在于rRNA中，因此,相对生长速率较快的生物往往具有较高的N 和P,但同时具有较低的 ${ \\mathrm { N } } { : } { \\mathrm { P } }$ 。因此，本研究与生长速率假说预测的“生物个体生长速率与体内N：P、C:P负相关、与体内N、P含量正相关”的结果不一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]刘珮,马慧,智颖飙,等.9 种典型荒漠植物生态化学计量学特 征分析[J].干旱区研究,2018,35（1）：207-216.［LiuPei,Ma Hui,Zhi Yingbiao,et al. Ecological stoichiometric differences of nine typical eremophyte species[J].Arid Zone Research,2018,35 (1) :207 -216.]   \n[2］李瑞新,刘庆福,李丹,等.锡林河流域退化羊草草原的生态化 学计量学研究[J].中国草地学报,2018,40（2)：75－80.［Li Ruixin,Liu Qingfu,Li Dan,et al. Ecochemometric stoicheimetry of degraded Leymud chinensis steppe in Xilin river basin[J].Chinese Journal of Grassland,2018,40(2）:75 -80.]   \n[3]Reich PB,Tjoelker MG,Machado JL,et al.Universal scaling of respiratory metabolism,size and nitrogen in plants[J].Nature, 2006,439(7095）:457 -461.   \n[4]刘敏国,王士嘉,陆姣云,等.河西走廊藜麦C、N、P生态化学计 量学特征对物候期的响应[J].干旱区研究,2018,35（1)：192 -198.［Liu Minguo,Wang Shijia,Lu Jiaoyun,et al.Response of C,N and P stoichiometry of Chenopodium quinoa to phenological phase in the Hexi corridor[J].Arid Zone Research,2018,35（1）: 192 -198.]   \n[5]Xiang WH,Huang Z H,Yan W D,et al.Review on coupling of interactive functions between carbon and nitrogen cycles in forest ecosystems[J].Acta Ecologica Sinica,2006,26(7）:2365-2372.   \n[6]Sterner R W,Elser JJ.Ecological Stoichiometry:The Biology of Elements from Molecules to the Biosphere[M].New Jersey:Princeton University Press,2002.   \n[7]Agren G I.The C: N: P stoichiometry of autotrophs-theory and observations[J].Ecology Letters,2004,7(3）:185-191.   \n[8]Elser JJ,Acharya K,Kyle M,et al. Growth rate-stoichiometry couplings in diverse biota[J].Ecology Letters,2003,6（10）:936- 943.   \n[9］王凯,沈潮,孙冰,等.干旱胁迫对科尔沁沙地榆树幼苗C、N、P 化学计量特征的影响[J].应用生态学报,2018,29（7）：2286- 2294.[Wang Kai,Shen Chao,Sun Bing,et al.Eects of drought stress on $\\mathrm { c } , \\mathrm { N }$ and P stoichiometry of Ulmus pumila seedlings in Horqin sandy land,China[J].Chinese Journal of Applied Ecology,2018,29(7) :2286 -2294.]   \n[10]Lu X T,Kong DL,Pan Q M,et al. Nitrogen and water availability interact to affect leaf stoichiometry ina semi-arid grassland[J]. Oecologia,2012,168:301-310.   \n[11]Henry HA L,Chlariello NR,Vitousek PM,et al.Inter-active effects of fire,elevated carbon dioxide,nitrogendeposition,and precipitation ona California annual grassland[J].Ecosystems, 2006,9:1066 - 1075.   \n[12]Henty HAL,Cleiand EE,Field CB,et al.Interactive effects of elevated CO $2$ ,N deposition and climate change on plant liter quality ina California annual grassland[J].Oecologia,2005,142： 465- 473.   \n[13]Townsend AR,Cleveland C C,Asner GP,et al.Controls over foliar N: P ratios in tropical rain forests[J].Ecology,2007,88（1）: 107 -118.   \n[14］洪江涛,吴建波,王小丹.全球气候变化对陆地植物碳氮磷生 态化学计量学特征的影响[J].应用生态学报,2013,24（9)： 2658-2665.[Hong Jiangtao,Wu Jianbo,Wang Xiaodan.Effects of global climate change on the C,N,and P stoichiometryof terrestrial plants[J].ChineseJourmal of Applied Ecology,2013,24（9）： 2658 - 2665. ]   \n[15］严正兵,金南瑛,韩廷申,等.氮磷施肥对拟南芥叶片碳氮磷化 学计量特征的影响[J].植物生态学报,2013,37（6）：551- 557.[Yan Zhengbing,Jin Nanying,Han Tingshen,et al.Effects of nitrogen and phosphorus fertilization on leaf carbon,nitrogen and phosphorus stoichiometry of Arabidopsis thaliana[J]. Chinese Journal of Plant Ecology,2013,37(6）:551-557.]   \n[16］陈新微,杨殿林,刘红梅,等.不同N、P添加水平对黄顶菊叶片 化学计量特征的影响[J].农业资源与环境学报,2015,2（2）： 185-191.[Chen Xinwei,Yang Dianlin,Liu Hongmei,et al. Effcts of different N,Paddition levels on leaf stoichiometry characteristics of Flaveria bidentis[J].Journal of Agricultural Resources and Environment,2015,2（2）:185 -191.]   \n[17］庚强.内蒙古草原植物化学计量生态学研究［D].北京：中国 科学院植物研究所,2009.[Geng Qiang.Ecology Stoichiometric Study on Vascular Plants in the Inner Mongolia Steppe[D].Beijing:Institute of Botany,Chinese Academy of Sciences,2009.]   \n[18]Matzek V,Vitousek PM.N: P stoichiometry and protein:RNA ratios in vascular plants：an evaluation of the growth-rate hypothesis[J]. Ecology Letters,2009,12(8） :765 -771.   \n[19］马俊梅,郭春秀,何芳兰,等.民勤绿洲外围不同立地类型黑果 枸杞种群分布格局[J].干旱区研究,2019,36(1）：122－130. [Ma Junmei,Guo Chunxiu,He Fanglan,et al.Spatial distribution pattern of Lycium ruthenicum in different site types in periphery of the Minqin oasis[J].Arid Zone Research,2019,36（1）:122- 130.]   \n[20］鲍士旦.土壤农化分析［M].北京：中国农业出版社,2000. [Bao Shidan.Study of Analysis of Soil and Agrochemistry[M]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Beijing:China Agriculture Press,2000.] [21］张璐,张国盛，王林和,等.不同灌水量对三种园林植物生长的 影啊[J].北万园艺,2012（9）:71-74.[Zhang Lu,Zhang Guosheng,Wang Linhe,et al.Effects of different irrigation amount on the growth of three kinds of graden plants[J].Northern Horticulture,2012(9):71-74.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22］韦梅琴,沈宁东,海显勋,等.黑马河草原8种植物叶的解剖结构研究[J].草地学报,2010,18（6）:865-869.[Wei Meiqin,Shen Ningdong,Hai Xianxun,et al.Stem and leaf anatomical char-acteristics of eight species on Heimahe grassland[J].Acta AgrestiaSinica,2010,18(6):865 -869.]  \n[23］吴浩,刘文辉,贾志锋,等.施氮对青引1号燕麦生物量积累及其分配的影响[J].中国农学通报,2018,34（31）：10-18.［WuHao,Liu WenuiJiaZifengetal.Efectsofitrogenapcatioon biomass accumulation and allocation of Avena sativa'QingyinNo.1'[J]. Chinese Agricultural Science Bulletin,2018,34（31）:10 -18.]  \n[24]任书杰,于贵瑞,陶波,等.兴安落叶松（Larix gmelinii Rupr.）叶片养分的空间分布格局[J].生态学报,2009,29（4）：1899-1906.[Ren Shujie,Yu Guirui,Tao Bo,etal. Spatial patterns forvariations in leaf nutrient contents of Dahurian Larch (Larix gmeli-nii Rupr.）[J].Acta Ecologica Sinica,2009,29（4）:1899-1906.]  \n[25］王晶苑,王绍强,李纫兰,等.中国四种森林类型主要优势植物的C:N:P化学计量学特征[J].植物生态学报,2011,35（6)：587 -595.[Wang Jingyuan, Wang Shaoqiang,Li Renlan,et al.C: N: P stoichiometriccharacteristics offour forest types’domianttree species in China[J]. Chinese Journal of Plant Ecology,2011,35(6) :587 -595.]  \n[26]田耀武,贺春玲,赵燕,等.外方山草本植物叶片生长期C、N、P生态化学计量学特征的变化[J].河南农业科学,2017,46（5）：120-124,135.[Tian Yaowu,He Chunling,Zhao Yan,et al.Vari-ations of herbaceous plantl leaf C,N,P ecological stoichiometricalcharacteristics during growth period in Waifang mountain[J]. Jour-nal of Henan Agricultural Sciences,2017,46（5）:120 - 124,135.]  \n[27］刘晓玲.氮磷供应条件对滨海湿地植物群落结构和生态化学计量特征的影响[D].烟台：中国科学院大学,中国科学院烟台海岸带研究所,2018.[Liu Xiaoling.Efects of NandP supplycondition on plant community structure and stoichiometric charac-teristics of costal wetland[D]. Yantai: Chinese Academy of Sci-ences University,Yantai Coastal Zone Research Institute,ChineseAcademy of Sciences,2018.]  \n[28］陈伏生,胡小飞,葛刚.城市地被植物麦冬叶片氮磷化学计量比和养分再吸收效率[J].草业学报,2007（4）：47-54.［ChenFushen,Hu Xiaofei,Ge Gang.Leaf N: P stoichiometry and nutrientresorption eficiencyof Ophiopogon japonicus in Nanchang city[J].Acta Prataculturae Sinica,2007(4）:47 -54.]  \n[29］罗艳,贡璐,朱美玲,等.塔里木河上游荒漠区4种灌木植物叶片与土壤生态化学计量特征[J].生态学报,2017,37（24）：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8326-8335.[Luo Yan,Gong Lu,Zhu Meiling,et al. Stoichiometry characteristics of leaves and soil of four shrubs in the upper reaches of the Tarim River Desert[J].Acta Ecologica Sinica,2017, 37(24):8326-8335.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30］徐露燕，田大伦，王光军，等.湘潭锰矿栾树叶片和土壤N、P化学计量特征[J].生态学报，2014，34（9）：2316-2322.［XuLuyan,Tian Dalun,Wang Guangjun,etal.NandP stoichiometry ofKoelreuteria paniculata leaf and soil in Xiangtan manganese minewasteland[J]．Acta Ecologica Sinica,2014,34（9）：2316-2322.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[31］杨梅，王昌全，袁大刚,等.不同生长期烤烟各器官C、N、P生态化学计量学特征[J].中国生态农业学报，2015，23（6)：686-693.[Yang Mei,Wang Changquan,Yuan Dagang,et al.C,N,Pstoichiometry traits of different flue-cured tobacco organs at differ-ent growth stages[J].Chinese Journal of Eco-Agriculture,2O15,23(6):686 -693.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of irrigation and fertilization on the stem and leaf growth and ecostoichiometric characteristics of Lycium ruthenicum Murr. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LI Fa-kui1，LI Jin-xia’，SUN Xiao-mei¹，CHEN Nian-lail (1.CollegeofResourcesandEnvironmental Siences,Gansu Agricultural University,Lanzhou73O7,Gansu,China ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Lycium ruthenicum Murrwas grown under field conditions in the middle reaches of Shiyang River in Chinainthe presenceandabsenceof irigationand fertilization,and stemand leaf growthatdifferent stagesand ecostoichiometric characteristics of the species were measured.Asociations between organ growth rates and ecostoichiometric characteristics were analyzed,and thegrowth rate hypothesisof theecostoichiometric theorywas tested. Irigationandfertilizationsignificantlyincreasedstemlength,basaldiameter,leaf length,leaf width,andleafdry weight of $L .$ ruthenicum ( $\\textstyle P < 0 . 0 5 { \\mathrm { ~ } }$ ）;however,there were no significant diferences in stem length,basal diameter, leaf area,and leaf dry weight between treated plantsand controls.During the growth period,new L.ruthenicum shoots showed increased C content and $\\mathrm { C } { : } \\mathrm { N }$ and $\\operatorname { C } { : \\operatorname { P } }$ ratios and decreased N and $\\mathrm { \\Delta P }$ contents and ${ \\mathrm { N } } { : } { \\mathrm { P } } $ ratio.Furthermore,stems of treated plants showed lower C content and $\\mathrm { C } \\colon \\mathrm { N } , \\mathrm { C } \\colon \\mathrm { P }$ ,and ${ \\mathrm { N } } { : \\mathrm { P } } $ ratios but higher N and $\\mathrm { \\bf P }$ contents than those of controls.During the growth period,leaves showed decreased C,N,and Pcontents and increased $\\mathrm { C } { : } \\mathrm { N }$ ， $\\operatorname { C } { : \\operatorname { P } }$ ,and ${ \\mathrm { N } } { : } \\mathrm { P }$ ratios.Leaves of treated plants showed lower C content and $\\mathrm { C } { : } \\mathrm { N } , \\mathrm { C } { : } \\mathrm { P }$ ,and ${ \\mathrm { N } } { : } \\mathrm { P }$ ratios but higher N and $\\mathrm { \\Delta P }$ contents than those of controls. Stems showed significantly higher C content and $\\mathrm { C } { : } \\mathrm { N }$ and $\\operatorname { C } { : \\operatorname { P } }$ ratios ( $P <$ 0.05）but significantly lower N and $\\mathrm { \\Delta P }$ contents and ${ \\mathrm { N } } { : } \\mathrm { P }$ ratio ( $\\ P < 0 . 0 5 ,$ ）than leaves.The growth rate hypothesis states that the individual growth rate is negatively correlated to ${ \\mathrm { N } } { : \\mathrm { P } } $ and $\\operatorname { C } { : \\operatorname { P } }$ ratios and positively correlated to N and $\\mathrm { \\Delta P }$ contents in vivo.In the present study,there were no significant correlations of stem and leaf growth rates of $L$ ： ruthenicum with N and $\\mathrm { \\Delta P }$ contents and $\\operatorname { C } { : \\operatorname { P } }$ and ${ \\mathrm { N } } { : } \\mathrm { P }$ ratios,indicating that stem and leaf growth rates and ecostoichiometric characteristics of L.ruthenicum did not support the growth rate hypothesis under irigation and fertilization. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:Lycium ruthenicum Murr ;ecological stem and leaf growth；ecological stoichiometry； growth rate hypothesis ",
+        "page_idx": 9
+    }
+]

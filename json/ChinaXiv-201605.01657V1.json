@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Wang Chunqin,SunYueqiang,CaoGuangwei,ZhangXianguo,LiJawei,ZhangXiaoxin,JingTao,ShenGuohong,Zhang Huang Cong,Liang Jinbao,ShiChunyan,HanYing.Radiationdoseevaluationandanalysis insideFY-3Asatelite(iniese). Chin.J. Space Sci.,2015,35(1):56-63,doi:10.11728/cjss2015.01.056 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FY-3A卫星星内辐射剂量评估与分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王春琴1,2 孙越强¹曹光伟¹ 张贤国¹ 李嘉巍张效信 荆涛¹ 沈国红1 张申毅1黄聪 梁金宝1 史春燕¹ 韩英4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(中国科学院空间科学与应用研究中心北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院大学北京 100049)  \n3(国家卫星气象中心 北京 100081)  \n4(北京石油化工大学 北京 102617)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要对FY-3A卫星近四年的辐射剂量数据进行分析，结果表明,在 $\\mathrm { 1 m m }$ 铝的等效屏蔽厚度下，星内辐射剂量存在显著的方向性差异， $+ Y$ 向剂量增长变化显著大于 $+ Z$ 向．深入分析剂量变化与带电粒子辐射关系后发现,太阳质子事件期间的高能质子增长不会对辐射剂量增长变化产生显著影响；而高能电子是剂量增长变化的主要贡献者,其中扰动导致的高能电子通量强增长是使得辐射剂量显著增加的主要原因，并显著影响到卫星 $+ Y$ 向.进一步与工程常用 SPENVIS 剂量计算结果的对比表明，实测能更好地反映剂量动态变化和方向差异．综上，实测剂量数据对于同类工程星内器件的合理布局和工程防护设计具有一定指导和参考价值.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词辐射剂量，高能带电粒子,FY-3A卫星中图分类号P353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radiation Dose Evaluation and Analysis Inside FY-3A Satellite ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Chunqin $^ { 1 , 2 }$ SUN Yueqiang1 CAO Guangwei1 ZHANG Xianguo $^ 1$ LI Jiawei $^ 3$ ZHANG Xiaoxin³ JING Tao $^ { 1 }$ （ SHEN Guohong $^ { 1 }$ （20 ZHANG Shenyi $\\cdot ^ { 1 }$ HUANG Cong³LIANG Jinbao $^ 1$ SHI Chunyan $^ { 1 }$ HAN Ying $^ 4$ （204 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(University of ChineseAcademyofSciences,Beijing 100049) 3(National Satellite Meteorological Center,Beijing l00081) 4(Beijing Institute of Petrochemical Technology,Beijing 102617) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract FY-3A satellite can measure the radiation dose data from different directions during the missions from 2008 to 20l2. In this paper,we describe total radiation dose from two directions, and dose rate variation with energetic particle fux. The result shows that diferent sections of the spacecraft receive diferent amounts of radiation dose, which is always consistent with space distribution of energetic particles. Absorbed dose rate changed greatly from several rad (Si). $\\mathrm { d } ^ { - 1 }$ （204号 during quite time to even more than tenfold during disturbances. The increased high energy electrons in polar regions during disturbances are responsible for significant increase of radiation dose.At last, FY-3A radiation dose during the operational period of the mission is compared with the results calculated by SPENVIS.It is obvious that observation data is more realistic to reflect the real space radiation environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordsRadiation dose,High energetic particle, FY-3A satellite ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星运行轨道空间高能带电粒子可以穿透卫星表面进入物质内部传输，通过电离作用导致星内电子器件等性能变差甚至损坏，造成辐射损伤；随着卫星在轨运行时间的增长，积累的能量会加大对卫星安全工作的威胁,使得卫星遭受的辐射损伤效应增强[1].因此，高能带电粒子辐射损伤效应一直备受关注．对于卫星在轨运行期间所遭遇的粒子辐射损伤效应情况的评估通常是通过探测或仿真计算高能带电粒子穿透一定厚度物质后的辐射剂量水平来实现的．20世纪80年代以来，ESA和NASA等机构先后在卫星、空间站等各类航天器上开展了航天器轨道空间辐射总剂量的探测[2-5]．中国于 20 世纪90 年代末首次在实践五号卫星上开展了星内辐射总剂量的探测，随后又在实践[6-7]和风云等系列卫星上先后开展了辐射剂量的探测．20世纪90年代NASA开发出了可用来评估电离辐射剂量的SHIELDOSE程序，该程序被广泛应用于航天工程设计，但受输入的粒子辐射源模型的制约，该程序不能反映卫星舱内辐射剂量方向差异和动态差异.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总辐射剂量效应作为一种长期效应，随着航天活动的日益增多以及长寿命发展趋势，其对航天器及星上电子设备的影响更不容忽视.因此合理评估航天器轨道总辐射剂量，采取有效防护，规避日益复杂的辐射环境的破坏性影响，是保障航天材料及电子设备高可靠长寿命运行的关键,也是航天材料和电子领域的研究重点与热点，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FY-3A卫星运行轨道高度约 $8 0 0 \\mathrm { k m }$ ，倾角 $9 8 ^ { \\circ }$ 为太阳同步轨道气象卫星.这一轨道空间的带电粒子主要来源于南大西洋上空的地球辐射带异常区粒子及太阳活动和地磁活动时地球高纬度地区的注入和沉降粒子.FY-3A卫星上不仅安装了空间带电粒子探测仪，用以实时监测轨道空间的粒子辐射水平，而且安装了多台辐射剂量仪，对星内不同方向辐射总剂量效应开展监测．卫星在轨工作近四年，可提供长时间及复杂空间环境状态下的星内辐射剂量实测数据结合同期星上带电粒子辐射观测数据，有助于深入了解粒子辐射产生的剂量影响，为今后同类卫星进行抗辐照评估提供参考，同时为进一步改进剂量评估模型提供依据.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1仪器及数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FY-3A星辐射剂量仪传感器选用特制的PMOS器件，每个传感器内置两个 PMOS管，具有不同的辐射剂量灵敏度，分别测量 $0 { \\sim } 1 0 ^ { 4 }$ rad (Si),$0 { \\sim } 1 0 ^ { 3 }$ rad(Si）两个剂量范围.辐射剂量仪利用传感器器件栅极电压变化与传感器接受的辐射剂量的对应关系来实现剂量探测．FY-3A辐射剂量仪地面定标采用经国家剂量定标的 $6 0 \\mathrm { C o } \\ \\gamma$ 标准源.在室温环境中，模拟空间的辐照剂量 (大剂量)对传感器进行辐照，栅极电压的变化与传感器接收的辐射剂量间的地面定标函数关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = A _ { 1 } X + A _ { 2 } X ^ { 2 } + A _ { 3 } X ^ { 3 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y$ 为辐射剂量值，单位rad(Si); $X$ 为栅极电压值,单位V;转换关系系数 $A _ { 1 } , A _ { 2 } , A _ { 3 }$ 由放射源辐照试验给出.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FY-3A卫星设置了三台辐射剂量仪，分别装在载荷舱底面 $+ Y$ 向 (垂直于卫星轨道平面),载荷舱内$+ Y$ 向，服务舱内 $+ Z$ 向 (指向地心方向)．卫星在轨工作时间为2008年6月3日至2012年5月23日.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用FY-3A卫星分别安装于载荷舱内 $+ Y$ 向及服务舱内 $+ Z$ 向,量程 $0 \\sim 1 0 ^ { 4 } \\mathrm { r a d }$ （Si）的辐射剂量仪探测数据.这两台剂量仪均安装在卫星舱内，等效屏蔽厚度为 $1 \\mathrm { m m }$ 铝",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用FY-3A卫星高能带电粒子观测数据，进一步讨论剂量变化与高能带电粒子辐射的关系．FY-3A卫星带电粒子探测器探测来自 $+ Y$ 向的高能带电粒子，可与 $+ Y$ 向的辐射剂量仪探测结果相结合开展有关分析．FY-3A卫星高能带电粒子观测 $3 { \\sim } 3 0 0 \\mathrm { M e V }$ 共6道高能质子及 $0 . 1 5 { \\sim } 5 . 7 \\mathrm { M e V }$ 共5道高能电子;带电粒子探测数据经与NOAA卫星进行比较证实，FY-3系列卫星带电粒子观测数据可靠有效[8]．文中使用的其他数据有地磁 $A p$ 指数、太阳黑子数数据，均源自NOAA\\*.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2剂量实测结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在2008年6月3日至2012年5月23日近四年的卫星任务期内，FY-3A 辐射剂量仪累计剂量探测结果显示 (见图1)， $+ Y$ 向辐射剂量仪累计剂量达到3300rad(Si)， $+ Z$ 向辐射剂量仪累计剂量达到 $2 0 0 0 { \\mathrm { r a d } } ( { \\mathrm { S i } } )$ (剂量观测等效屏蔽厚度均为 $1 \\mathrm { m m }$ 铝).剂量长期变化显示 $+ Y$ 向累计剂量显著大于 $+ Z$ 向，且其随时间的变化 $+ Y$ 向增长幅度始终大于 $+ Z$ 向．实测剂量显著的方向差异表明卫星不同方向遭受的粒子辐射程度不同,这是由于带电粒子在地球空间分布宏观上通常表现为垂直于磁力线入射的带电粒子通量最强(对应粒子投掷角为 $9 0 ^ { \\circ }$ )，反之平行于磁力线带电粒子通量最小．FY-3A为太阳同步轨道卫星,遭遇的带电粒子辐射区域主要有南大西洋异常区和两极高纬区域.安装在 $+ Y$ 和 $+ Z$ 向的两台辐射剂量仪通过异常区主要遭受来自投掷角接近 $9 0 ^ { \\circ }$ 的带电粒子的辐照，因此卫星经过该辐射区域星内两台仪器接受的粒子辐照水平基本相当．但在通过两极高纬区域时， $+ Z$ 向辐射剂量仪主要遭受沿磁力线方向的沉降粒子的辐照，而 $+ Y$ 向主要遭受垂直磁力线的带电粒子的辐照影响.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2太阳黑子数的分布可以看出，在FY-3A卫星任务期内，太阳活动水平呈现出由低到高缓慢增强的趋势.图2显示在 $2 0 0 9 - 2 0 1 1$ 年FY-3A辐射剂量仪开展探测的三个完整年度内，对应太阳活动低年的 2009 年，年度累计剂量最小；对应太阳活动过渡的 2010 年，年度累计剂量最大．其中 $+ Y$ 向年度变化差异明显，2010 年的年度剂量最大，接近1000rad (Si); $+ Z$ 向年度变化差异不显著,2010 年的年度剂量最大，约500rad(Si). $+ Y$ 向在 2010 年一个年度的剂量增长变化(1000rad(Si)）已占到 $+ Z$ 向卫星任务期累计剂量（2000rad(Si)）的近 $1 / 2$ ，表明粒子辐射环境在 2010年存在明显变化，并显著影响到 $+ Y$ 向.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引入辐射剂量率来深入了解实测辐射剂量的增长变化特征，辐射剂量率这里定义为经平滑处理的每日累积增长剂量，单位为ra $\\mathrm { \\Delta } \\mathrm { { u d } } \\left( \\mathrm { { S i } } \\right) { \\cdot } \\mathrm { { d } } ^ { - 1 }$ ．图3给出了FY-3A卫星任务期内 $+ Y$ 和 $+ Z$ 向的辐射剂量率.图3显示在太阳活动低年的 $2 0 0 8 { \\scriptstyle - 2 0 0 9 }$ 年, $+ Y$ 向辐射剂量率变化范围为 $1 . 5 { \\sim } 2 \\mathrm { r a d } ( \\mathrm { S i } ) { \\cdot } \\mathrm { d } ^ { - 1 }$ $+ Z$ 向辐射剂量率变化范围为 $1 { \\sim } 1 . 5 \\mathrm { r a d } ( \\mathrm { S i } ) { \\cdot } \\mathrm { d } ^ { - 1 }$ .进入太",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef520dacf6506279930abf678f1088162d6f06ae755974aaf1e0b1ddd6648fa1.jpg",
+        "img_caption": [
+            "图1FY-3A卫星任务期内累计辐射剂量探测结果 Fig.1 Observation result of total radiation dose during FY-3Aflight ",
+            "图2随太阳活动变化FY-3A卫星年度累计辐射剂量 Fig.2Total radiation dose annual variation along with solar activities "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "120 1iigaiaergertn 800 108002 600 400 +Y XX> number of 200 sun spot 0 0 2000 2003 2006 2009 2012 year ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/95b76a76916f27a37e3f8da62280597c509750cc3ccc8a66a02be8dd5534db5a.jpg",
+        "img_caption": [
+            "图3FY-3A卫星任务期内辐射剂量率结果 Fig.3Radiation dose rate during FY-3A fight "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阳活动向峰年的过渡年份2010－2012年, $+ Y$ 向辐射剂量率变化范围大部分时间为 $1 . 5 \\mathrm { \\sim } 3 . 5$ rad (Si) $\\mathrm { d } ^ { - 1 }$ ，但在2010年4月8日至12日，2012年3月9日至28日和2012年4月30日至5月8日三个时段内辐射剂量率持续出现显著增长,其中2010年4月8日至9日辐射剂量率最大达到 $1 8 \\mathrm { r a d } ( \\mathrm { S i } ) { \\cdot } \\mathrm { d } ^ { - 1 }$ ，2012年3月9日至12日辐射剂量率最大约 $8 \\operatorname { r a d } ( \\mathrm { { S i } } ) { \\cdot } \\mathrm { { d } } ^ { - 1 }$ 2012年4月30日至5月1日辐射剂量率最大达到 $1 0 \\operatorname { r a d } ( \\operatorname { S i } ) { \\cdot } \\mathrm { d } ^ { - 1 }$ ： $+ Z$ 向辐射剂量率变化为 $1 { \\sim } 2 . 7$ rad (Si) $\\mathrm { d } ^ { - 1 }$ ，在上述三个时段内 $+ Z$ 向未出现显著的剂量率变化．FY-3A卫星任务期剂量率的显著变化反映出当时带电粒子辐射环境存在显著的扰动增强变化，且粒子辐射增强主要影响到 $+ Y$ 向.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3分析与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对星内辐射剂量产生影响的高能带电粒子辐射源主要为高能电子和高能质子，在太阳同步轨道高度，带电粒子辐射区域主要集中在南大西洋异常区和两极高纬区域．这里将通过分析轨道空间带电粒子特性,讨论对上述辐射剂量产生显著影响的带电粒子辐射类型及分布区域",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FY-3A卫星可以监测到轨道空间内 $3 { \\sim } 5 \\mathrm { M e V }$ $5 { \\sim } 1 0 \\mathrm { M e V }$ ， $1 0 { \\sim } 2 6 \\mathrm { M e V }$ ， $2 6 { \\sim } 4 0 \\mathrm { M e V }$ ， $4 0 { \\sim } 1 0 0 \\mathrm { M e V }$ $1 0 0 { \\sim } 3 0 0 \\mathrm { M e V }$ 的高能质子以及 ${ 0 . 1 5 } { \\sim } 0 . 3 5 \\mathrm { M e V }$ ，0.35${ \\sim } 0 . 6 5 \\mathrm { M e V }$ ， $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ ${ 1 . 2 } { \\sim } 2 . 0 \\mathrm { M e V }$ ， $2 . 0 { \\sim } 5 . 7$ MeV的高能电子.根据仿真计算,等效 $1 \\mathrm { m m } \\mathrm { A l }$ 的厚度可基本屏蔽掉 $< 0 . 5 \\mathrm { M e V }$ 的高能电子和 $< 1 0 \\mathrm { M e V }$ 的高能质子.因此仅需分析FY-3A卫星 $1 0 { \\sim } 3 0 0 \\mathrm { M e V }$ 高能质子和 $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ 高能电子的时空特性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FY-3A带电粒子观测数据在南大西洋异常区时序分布显示 (见图4)，在卫星任务期内，南大西洋异常区高能质子各能道日平均通量量级均达到 $1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ，高能电子各能道日平均通量量级均达到 $1 0 ^ { 9 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ．带电粒子通量随时间的起伏变化幅度较小， $2 0 0 9 - 2 0 1 0$ 年通量较大2011－2012年通量略有减小，整体呈现相对稳定的分布.综合剂量实测结果，可以认为辐射带异常区高能带电粒子是造成剂量累计增长的稳定背景辐射，不会造成剂量的显著增长，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FY-3A高能质子观测数据在高纬区域的时序分布显示(见图5),2008年6月至2012年5月卫星任务期内发生多起不同强度的太阳质子事件，使得高纬区域的高能质子通量出现不同程度响应增强．其中在2012年1月23-31日、3月7日-15日和5月13一19日期间发生的太阳质子事件使得高能质子通量出现较为显著的响应增强，2012年1月和3月发生的太阳质子事件强度最大达到3级 $( > 1 0 \\mathrm { M e V } )$ （204的高能质子通量最大超过 $1 0 0 0 \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ，在此期间极区 $1 0 { \\sim } 2 6 \\mathrm { M e V }$ 的高能质子日平均峰值通量量级可达到 $1 0 ^ { 8 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ， $2 6 { \\sim } 4 0 \\mathrm { M e V }$ 高能质子日平均峰值通量量级达到 $1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ $\\mathrm { > ~ \\ 4 0 M e V }$ 高能质子日平均峰值通量量级要低于 $1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ；5 月太阳质子事件强度稍弱,为 2级太阳质子事件，极区 $1 0 { \\sim } 2 6 \\mathrm { M e V }$ 高能质子日平均峰值通量量级接近 $1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ， $>$ $2 6 \\mathrm { M e V }$ 的其他各能道高能质子日平均峰值通量量级低于 $1 0 ^ { 6 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ．在没有太阳质子事件发生的其他时段，极区 $> 1 0 \\mathrm { M e V }$ 的高能质子分布很少,日平均通量小于 $1 0 ^ { 5 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ．从实测剂量显著增长分布时段来看， $+ Y$ 向剂量率分别在2010年4月8-12日，2012年3月9-28日和2012年4月30日至5月8日时段出现显著增长变化，但高能质子极区观测结果显示2012年1月23－31日及5月13－19日期间,质子事件导致的高能质子辐射显著增强与上述剂量增长并无时间对应关系，也即这两起事件并未影响剂量的显著增长变化;2012年3月7日至15日质子增强辐射与剂量增长在时间上有对应，但该起质子事件与1月质子事件特征相似，其产生增强的高能质子辐射对剂量影响程度应该相当．综上分析，卫星任务期内监测到的所有太阳质子事件中，3级及以下级别的太阳质子事件导致的高能质子辐射增强不会造成剂量的显著增长，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/50fd649d4e8f1e4e430a3e5f43886d2ebf9fe0490ac2b3a561eec9555ac7be3a.jpg",
+        "img_caption": [
+            "图4南大西洋异常区高能质子(a）和高能电子(b）日平均通量时序分布 Fig.4Day average fux temporal variation of proton (a) and electron (b) high energy particles in SAA "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相比高能质子在极区的分布，高能电子通量起伏变化要剧烈得多，尤其在2010年以后．结合地磁扰动 $A p$ 指数分析高能电子在极区的时序变化与辐射剂量率变化的关系 (见图6)，可以看出伴随 $A p$ 指数准 27天周期的变化[9]，两极高纬高能电子日均通量呈现不同程度、相应的周期增长变化，且高能电子通量峰值较 $A p$ 峰值有延迟，受扰动影响高能电子高通量通常会持续一段时间后恢复至扰动前通量水平其中，在2010年4月6－12日、2012年3月9－28日以及4月24日至5月9日三个时段，分别发生 $A p$ 峰值为49,67和35的地磁扰动，各能道高能电子增长变化最为显著.在此期间, $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ 高能电子日均峰值通量量级均超过 $3 . 5 { \\times } 1 0 ^ { 9 } \\mathrm { c m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } { \\cdot } \\mathrm { s r } ^ { - 1 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d61c008594ae0e7ac90616515298a6dd309d258c466dc3ea97088cd1bc4db88b.jpg",
+        "img_caption": [
+            "图5两极高纬区域高能质子日平均通量时序分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/89954a93328db0b4a2411531a04ff4e7d0ec42d066baf671f0e2bef76edcb397.jpg",
+        "img_caption": [
+            "Fig.5Day average flux temporal variation of protons in polar region ",
+            "图6 $A p$ 指数、两极高纬区域高能电子日平均通量与辐射剂量率时序分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Day average flux temporal variation of electrons in polar region along with $A p$ indices and radiation dose rate ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 { \\sim } 2 . 0 \\mathrm { M e V }$ 高能电子日均峰值通量量级均超过了 $3 . 5 { \\times } 1 0 ^ { 8 } \\mathrm { c m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 } { \\cdot } \\mathrm { s r } ^ { - 1 }$ $2 . 0 { \\sim } 5 . 7 \\mathrm { M e V }$ 高能电子日均峰值通量量级均超过了 $4 . 5 { \\times } 1 0 ^ { 7 } \\mathrm { c m } ^ { - 2 }$ ： $\\mathrm { d } ^ { - 1 } { \\cdot } \\mathrm { s r } ^ { - 1 }$ 且各能道高能电子持续三天以上时间维持上述高通量水平．在三次高能电子明显出现增强的时段内，2010 年 4月6一12日增强的高能电子通量水平最高， $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ 高能电子日均峰值通量量级接近 $1 0 ^ { 1 0 } \\mathrm { c m } ^ { - 2 }$ ， $\\mathrm { d } ^ { - 1 } { \\cdot } \\mathrm { s r } ^ { - 1 }$ ， $1 . 2 { \\sim } 2 . 0 \\mathrm { M e V }$ 高能电子日均峰值通量量级超过了 $1 0 ^ { 9 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ $2 . 0 { \\sim } 5 . 7 \\mathrm { M e V }$ 高能电子日均峰值通量量级超过了 $1 0 ^ { 8 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ .2012年3月9-28日和2012年4月24日至5月9日两个时段高能电子日均通量略低于2010年4月增强的电子通量.与剂量率的对应关系可以看出，辐射剂量率的显著增长与上述时段高能电子通量增强一一对应，且各能道电子通量水平越高，剂量率增长幅度越大．由此可以说明，受地磁扰动影响，极区增强的高能电子对剂量显著增长起主要作用，但不是所有的高能电子增强都能造成剂量的显著变化，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上分析，在FY-3A卫星任务期内，极区高能电子通量呈现如下变化特征时会导致剂量的显著增长： $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ 的高能电子日均峰值通量 $> 3 . 5 \\times$ $1 0 ^ { 9 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ， $1 . 2 { \\sim } 2 . 0 \\mathrm { M e V }$ 高能电子日均峰值通量 $> 3 . 5 \\times 1 0 ^ { 8 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ， $2 . 0 { \\sim } 5 . 7 \\mathrm { M e V }$ 高能电子日均峰值通量 $> 4 . 5 \\times 1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ，且增强的高能电子持续三天以上的高通量，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可以看出对于低轨卫星，等效 $1 \\mathrm { m m }$ Al的卫星舱内，高能电子是剂量增长的主要贡献者；地磁扰动导致的极区高能电子显著增强是导致剂量显著增长变化的主要因素，并显著影响到卫星 $+ Y$ 向.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4实测结果与 SHIELDOSE 程序计算结果比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过欧空局空间环境信息系统（SPENVIS）提供的 SHIELDOSE 程序估算辐射剂量，具体实现步骤如下.通过坐标生成器(coordinate generators）设定卫星运行轨道的一系列参数，主要包括卫星轨道高度、倾角及卫星任务起始时间，这里选择FY-3A卫星轨道高度 $8 3 0 \\mathrm { k m }$ 、轨道倾角 $9 8 ^ { \\circ }$ 、卫星任务起止时间为2008年6月3日至2012年5月23日；通过选择粒子辐射模型，输入粒子辐射源(radiationsources)，本文剂量估算粒子辐射源选取捕获质子和电子模型 (AP8AE8)；确定剂量计算模型参数，包括屏蔽深度、屏蔽几何结构和靶材料，得出深度剂量曲线，文中参数屏蔽深度为 $0 . 0 5 { \\sim } 2 0 \\mathrm { m m } \\ .$ A1，屏蔽结构为半平板模型,靶材料为Si.图7为SHIELDOSE 程序计算得到的FY-3A任务期不同卫星铝屏蔽厚度、太阳活动峰年和谷年两种状态下卫星可能遭受的方向粒子辐射剂量（由于作为辐射源输入的AE8AP8只能提供全向粒子通量，因此直接计算结果为全向辐射剂量.不考虑粒子辐射的各向异性，对全向辐射剂量进行方向转换).",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1为 SHIELDOSE 程序计算结果与FY-3A剂量实测结果的比较.可以看出，FY-3A剂量实测结果反映出辐射剂量显著的方向差异，而用SHIELD-OSE程序计算出的辐射剂量不能分辨方向差异．实测结果表明扰动粒子辐射增强会导致剂量显著增长，而 SHIELDOSE程序仅可以反映出在太阳活动峰年和谷年两种空间环境状态下长期平均的剂量变化，不能对短时期内由空间环境扰动造成的辐射剂量做出评估．因此实测剂量结果将更有助于合理指导航天工程应用.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FY-3A辐射剂量实测结果显示，辐射总剂量在探测方向随时间呈逐渐增加趋势，在相同屏蔽条件下， $+ Y$ 向辐射剂量要强于 $+ Z$ 向辐射剂量. $+ Y$ 向辐射剂量与 $+ Z$ 向辐射剂量存在显著的方向差异，且随时间增加，累计剂量差异增大．FY-3A卫星任务期内(2008年6月3日至2012年5月23日)，在等效1mm Al屏蔽厚度下，实测 $+ Y$ 向辐射总剂量与 $+ Z$ 向相差超过 $1 0 0 0 \\mathrm { r a d ( S i ) }$ ，该数值是 $+ Z$ 向年度最大累计剂量的近2.5倍",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b982c386bb226f959b344ad2b3d8fa9d7208128d93dd6f333bb89a239462052.jpg",
+        "img_caption": [
+            "图7FY-3A卫星任务期内SHIELDOSE 程序剂量结果 Fig.7Radiation dose calculated by SHIELDOSE during FY-3A flight "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a12a92660c56be78c36f77ad0d51df360f6eb36c2f4d372e054e56f7e09f575.jpg",
+        "table_caption": [
+            "表1SHIELDOSE 程序剂量计算结果与FY-3A 剂量实测结果比较 .able 1 Radiation dose comparison between FY-3A and SHIELDOS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">等效屏蔽 1 mm Al</td><td colspan=\"2\">任务期累计剂量</td><td colspan=\"2\">平均剂量率</td><td rowspan=\"3\">最大剂量率 /(rad (Si)·d-1)</td></tr><tr><td colspan=\"2\">/rad (Si)</td><td colspan=\"2\">/(rad (Si)·d-1)</td></tr><tr><td>SHIELDOSE</td><td>solar_max</td><td>solar_min</td><td>solar_max</td><td>solar_min</td><td></td></tr><tr><td>半平板模型</td><td>4161</td><td>2790</td><td>2.9</td><td>1.9</td><td>2.9</td></tr><tr><td>+Y FY-3A</td><td colspan=\"2\">3300</td><td>1.5~3.5</td><td>1.5~2.0</td><td>18</td></tr><tr><td>+Z</td><td colspan=\"2\">2000</td><td>1~2.7</td><td>1~1.5</td><td>2.7</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于类似FY-3A低轨道卫星而言，等效 $1 \\mathrm { m m }$ A1的卫星舱内，高能电子是剂量增长的主要贡献者;而地磁扰动导致的极区高能电子显著增强是导致剂量显著增长的主要因素，并显著影响到卫星 $+ Y$ 向在卫星任务期内，极区增强的高能电子通量呈现如下变化会导致剂量的显著增长： $0 . 6 5 { \\sim } 1 . 2 \\mathrm { M e V }$ 的高能电子日均峰值通量 $> 3 . 5 \\times 1 0 ^ { 9 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ $1 . 2 { \\sim } 2 . 0 \\mathrm { M e V }$ 高能电子日均峰值通量 $>$ $3 . 5 ~ \\times$ $1 0 ^ { 8 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ， $2 . 0 { \\sim } 5 . 7 \\mathrm { M e V }$ 高能电子日均峰值通量 $> 4 . 5 \\times 1 0 ^ { 7 } \\mathrm { c m ^ { - 2 } { \\cdot } d ^ { - 1 } { \\cdot } s r ^ { - 1 } }$ ，且增强的高能电子持续3天以上的高通量.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于类似FY-3A 低轨道卫星而言，等效 $1 \\mathrm { m m }$ Al的卫星舱内，观测显示3级及以下级别的高能质子事件导致的两极高能质子增强不会对辐射剂量显著增长产生明显影响，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "工程常用的 SHIELDOSE程序主要以AE8AP8作为辐射源输入，AE8AP8为长期统计平均模型，不能反映粒子辐射动态扰动变化和方向差异，因此对剂量的短期动态评估和方向评估能力不足．实测剂量数据能够弥补上述不足，可为工程应用提供更准确的数据依据，更有效地指导星内器件的合理布局，减少剂量效应带来的损失，避免工程过设计或防护不足，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FY-3A星内实测剂量尽管取得了一些结果，但是受卫星任务期的约束，还缺少大量的事件累计．因此,进一步利用卫星实测开展长期统计研究，并最终建立高能电子积分通量与实测剂量数据的直接关联模型，为舱内辐射剂量的评估提供简单快速可靠的方法，提升观测数据对实际工程的指导作用，将是今后工作的努力方向．另外，利用粒子观测数据改进粒子辐射源模型也是提高现有剂量计算模型准确性的有效方法.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢FY-3A卫星辐射剂量和高能带电粒子观测数据由国家空间天气监测预警中心提供，NOAA卫星带电粒子观测数据来自NOAA的国家地球物理数据中心（NationalGeophysicalData Center,NGDC).",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Liu Zhenxing. Space Physics [M].Harbin:Harbin Institute Technology Press,2005,6:402   \n[2]Buhler P,DesorgherL,Zehnder A,et al.Observations of the low earth orbit radiation environment from MIR[J]. Radiat.Meas.,1996,26(6):917-921   \n[3] Bogorad A,Bowman C,Dennis A,et al. Integrated environmental monitoring system for spacecraft [J].IEEE Trans．Nucl.Sci.,1995,42(6):2051-2057   \n[4] Dyer C S,Wat son C J,Peerless CL,et al. Measurements of the radiation environment from CREDO-11 on STRV &APEX[J].IEEE Trans.Nucl．Sci.,1996,43(6):2751- 2757   \n[5] Mackay G F,Thomson I,Sultan N,et al.Applications of MOSFET dosimeters on MIR and BION satellites [J]. IEEE Trans.Nucl.Sci.,1997,44(6):2048-2051   \n[6] Shi Linqin，Wang Shijin，Ye Zonghai，et al.Energetic particle environmental observations by Shijian5[C]//Conference on Space Exploration and Test Results of Shijian-5 Satellite.Wuyishan:Chinese Society of Space Science,2002   \n[7] Yang Xiaochao,Wang Shijin,Wang Yue, Zhang Wei. Observation and research of space particle radiation dose on Sun-synchronous orbit [J]. J. Astron., 2008,29(1):358-361   \n[8] Wang Chunqin,Zhang Xianguo,Li Jiawei,et al. Crosscalibration of high energetic particles data—Acase study between FY3B and NOAA-17[J]． Sci. China:Technol. Sci.,2013,56(11):2668-2674   \n[9] Miao Juan,Tian Jianhua,Lin Zhenshan.Morlet transform of sunspot number and $A p$ index[J].Chin.J.Space Sci.,2004,24(1):28-33 ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "双峰驼源天然噬菌体纳米抗体展示库的构建及抗GDH纳米抗体筛选",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方媛¹，徐广贤¹²\\*，王羨¹，王红霞¹，潘俊斐（1.宁夏医科大学临床医学院，银川750004；2.宁夏医科大学总医院，银川750004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的：构建噬菌体天然纳米抗体展示库，以期用于筛选不同抗原分子的纳米抗体筛选平台，并用艰难梭菌谷氨酸脱氢酶（GDH）抗原筛选靶向GDH的纳米抗体，对所构建的噬菌体天然纳米抗体展示库进行验证。方法：采用OligoDT提取双峰骆驼脾脏总 RNA 进行反转录，通过巢氏PCR获取全套重链可变区基因，将其构建到噬菌粒pCANTAB5E载体，经多次电转化至E.coi1TG1构建初级噬菌体抗体库，经辅助噬菌体拯救后构成噬菌体展示库，并对噬菌体展示库的库容及多样性进行分析和鉴定。同时以GDH为靶向抗原对文库进行淘筛，计算淘筛回收率，并对第三轮淘筛后平板的单克隆进行ELISA鉴定。结果：构建的天然噬菌体纳米抗体库的插入率为 $9 5 \\%$ 左右，随机挑取的9个克隆氨基酸同源性为 $6 6 . 1 7 \\%$ ，经MEGA分析后具有较好的多样性，同时经辅助噬菌体拯救后，得到的噬菌体展示库滴度为 $\\mathrm { 4 \\times 1 0 ^ { 1 2 } }$ CFU/ml。在三轮淘筛过程中，回收率逐步升高，噬菌体得到了有效的富集，同时对阳性克隆进行测序及分析，最终得到2条抗GDH纳米抗体序列。结论：成功构建了双峰驼源天然噬菌体纳米抗体展示文库且多样性良好，为后续筛选其他的靶向抗原奠定了基础，同时筛选获得两条抗GDH纳米抗体序列，为制备艰难梭菌谷氨酸脱氢酶诊断抗体提供技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】纳米抗体；噬菌体展示技术；GDH",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骆驼外周血液中存在一种天然缺失轻链的重链抗体，该抗体只包含一个重链可变区和两个常规的 CH2 和CH3区[1]。通过PCR 技术克隆重链可变区所得到的单域抗体称之为VHH抗体（variable domain of heavy-chain antibody,VHH)，其分子量只有15KD，是普通IgG的十几分之一，结构直径2.5nm，长 $4 \\mathrm { n m }$ ，又称之为纳米抗体（nanobody,Nb）[2]。纳米抗体是目前所知到的最小的具有完整抗原结合活性的抗体3，由于其体积小，因此具有较强的抗原抗体结合能力。除此之外，还具有稳定的结构和高亲水性，并且由于VHH片段与人的VH序列具有高度同源性，可达到 $8 0 \\%$ 以上[4，免疫原性低。基于以上优点，使得纳米抗体在一些疾病的诊断和治疗中具有的广泛的应用前景。噬菌体展示技术可以使插入的外源基因与外壳蛋白融合表达，然后展示到噬菌体表面，从而获得编码基因。因此，构建容量大、多样性相对较好的文库，更容易获得基因工程抗体。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "艰难梭菌作为人的肠道固有菌群，可存在于正常人的消化道中。但是随着抗生素不规范使用和其他化疗药物的应用，导致肠内稳定的内环境被破坏，从而使得艰难梭菌过度增殖，分泌毒素A和毒素B引起艰难梭菌感染，例如艰难梭菌相关性腹泻及伪膜性肠炎等[5]，严重者可致死亡。其中，艰难梭菌谷氨酸脱氢酶(GDH)是艰难梭菌的一种跨膜蛋白，具有稳定表达的特性,是不同菌株艰难梭菌的共同表膜抗原，并且在感染早期会大量产生GDH。对艰难梭菌共同表膜抗原（GDH）进行 ELISA检测或胶体金免疫层析的检测，可以作为临床初步筛查依据8。本研究利用噬菌体展示技术构建双峰驼源天然噬菌体纳米抗体展示库，以GDH为抗原靶点筛选靶向GDH的纳米抗体，从而为制备GDH诊断试剂提供支持。同时对所构建的文库进行鉴定，将其作为可筛选多种抗原的通用平台，为后续基因工程抗体的制备和改造奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1主要试剂与仪器GDH原核表达载体由本实验室构建保存；质粒小提试剂盒（天根生物有限公司)；TRIZOL试剂；RNA纯化试剂盒反转录试剂盒（天根生物有限公司)；DNA 胶回收试剂盒（OMEGA 公司)；ExTaq DNA聚合酶；T4DNA 连接酶（TaKaRa公司)；限制性内切酶NotI和SifI均购自英国NEB公司；HRP-TAB底物显色试剂盒（康为世纪生物科技有限公司)；酵母提取物和蛋白陈购自Oxoid公司；脱脂奶粉（Coolaber公司)；HRP 标记小鼠 Anti-M13二抗（北京义翘神州生物技术有限公司)；其他化学试剂均为国产分析纯试剂。主要仪器有PCR 仪，凝胶成像分析系统，酶标分析仪，BioRad基因电穿孔仪等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2菌株与质粒噬菌粒pCANTAB5E载体购自长沙优宝生物科技有限公司；大肠杆菌TG1、辅助噬菌体KM13均由中科院赠送。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1脾脏血RNA提取及反转录 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从 $- 8 0 ^ { \\circ } \\mathrm { C }$ 中取出骆驼脾脏组织(取自于内蒙古阿拉善左旗某屠宰场经检验检疫健康的双峰驼)，加入液氮将标本碾碎，按照每 50-100mg 组织加入1mlTrizol比例,利用氯仿和异丙醇对总RNA进行抽提。抽提后经mRNA纯化试剂盒提取mRNA，并通过cDNA反转录试剂盒，以Oligo dT 获得cDNA。反应条件为 $3 7 ^ { \\circ } \\mathrm { C }$ 、30min;$8 5 ^ { \\circ } \\mathrm { C }$ 、 $5 \\mathrm { s }$ ； $\\mathrm { 4 ^ { \\circ } C }$ 保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2VHH基因的扩增和重组载体构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用巢氏PCR 法获得重链可变区，以cDNA为模板，使用第一对引物CALL001和 CALL002（如表1）进行第一轮PCR反应，获得约700bp左右片段。PCR反应条件为 $9 4 ^ { \\circ } \\mathrm { C }$ 、30s； $5 6 ^ { \\circ } \\mathrm { C }$ 、30s； $7 2 \\mathrm { { ^ \\circ C } }$ 、45s，32个循环； $7 2 \\mathrm { { ^ \\circ C } }$ 、延伸10min；PCR产物经过凝胶电泳进行回收并测定浓度。然后以700bp片段为模板，引物采用VHH-Forward和VHH-Reverse（如表1）进行第二轮PCR扩增，并采用两步法来扩增，反应条件为 $9 4 ^ { \\circ } \\mathrm { C }$ 、 $4 0 \\mathrm { s }$ ; $6 4 ^ { \\circ } \\mathrm { C }$ 、40s; $7 2 \\mathrm { ^ \\circ C }$ 、 $4 0 \\mathrm { s }$ ，5个循环； $9 4 ^ { \\circ } \\mathrm { C }$ 、40s; $6 8 ^ { \\circ } \\mathrm { C }$ 、45s，32个循环； $7 2 \\mathrm { { ^ \\circ C } }$ 、延伸10min。将第二轮PCR 获得的400bpVHH片段进行跑胶验证并分离回收，保存于 $- 2 0 ^ { \\circ } \\mathrm { C }$ 备用。用NotI和SifI对VHH片段和pCANTAB5E载体进行双酶切并鉴定，之后用T4DNA连接酶将目的片段和载体进行连接，反应条件为 $1 6 ^ { \\circ } \\mathrm { C }$ 连接 $\\mathrm { 4 h }$ ， $\\mathrm { 4 ^ { \\circ } C }$ 连接过夜。连接后将连接产物保存于 $- 2 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1巢氏PCR反应引物设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d2e2f71334d36cd29b2dfc6fcf77171e2ac1fad5fa922b57ec28dcfcb54934b.jpg",
+        "table_caption": [
+            "Table 1 Primer design ofNested PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物</td><td>序列</td></tr><tr><td>CALL001</td><td>5’-GTCCTGGCTGCTCTTCTACAAAG-3'</td></tr><tr><td>CA11002</td><td>5’-GGTACGTGCTGTTGAACTGTTCC-3'</td></tr><tr><td>VHH-Forward</td><td>5'-TCGCGGCCCAGCCGGCCCAGGTCCAACTGCAGGAGTCTGGGG-3'</td></tr><tr><td>VHH-Reverse</td><td>5'-ATAAGAATGCGGCCGCTGAGGAGACGGTGACCTGGGTCCCC-3'</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3电转化感受态的制备及噬菌体文库构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用甘油重悬的方法制备TG1电转化感受态,参照文献[10]进行，将制备好的电转化感受态分装保存。取 $\\mathrm { 1 0 u l }$ 连接产物电转化到TG1感受态细胞中，条件为2.5kv,25uF, $2 0 0 \\Omega$ ，共进行电转化5次。将电转化后的菌液进行培养复苏，取10ul复苏后的菌液进行倍比稀释涂布于 SOBAG 培养基，用于计算转化效率，其余全部涂布于20 个 SOBAG 平板上， $3 7 ^ { \\circ } \\mathrm { C }$ 过夜培养。次日，每个平板用 5ml的 $2 \\times \\mathrm { Y T }$ 培养基将菌苔用细胞刮刀刮洗收集，加入终浓度 $2 5 \\%$ 的甘油，分装于EP 管中，每管1ml,保存于 $- 8 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4文库的鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从转化后的平板上随机挑取20个菌落进行菌落PCR，并对PCR产物进行验证，鉴定片段插入阳性率。随机挑取其中10个菌落进行测序后，DNAMAN分析其氨基酸同源性及MEGA系统进化树分析，鉴定文库的多样性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5辅助噬菌体的扩增和救援",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用上层琼脂法对辅助噬菌体进行倍比稀释分离培养，次日挑取单个噬菌斑过夜摇菌培养。将过夜培养物利用PEG/NaC1沉淀法回收辅助噬菌体，测定辅助噬菌体滴度并分装保存 $- 8 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取1支1ml文库菌接种到 $2 \\times \\mathrm { Y T / G l u / A m p }$ 中，培养至大肠杆菌对数期时加入感染复数为 $\\mathrm { M O I { = } 2 0 : 1 }$ 的辅助噬菌体，感染1h后离心，用 $2 \\times$ YT/Amp/Kana培养基重悬 $3 0 ^ { \\circ } \\mathrm { C }$ 过夜振荡。次日离心取上清加入1/5体积PEG/NaC1冰浴并回收噬菌体，测定拯救后的VHH噬菌体展示文库的滴度并保存 $- 2 0 ^ { \\circ } \\mathrm { C }$ ，用于之后的文库淘筛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6噬菌体文库的淘筛过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将GDH 重组表达菌株进行IPTG 诱导表达，并经Ni柱纯化回收后，以20ug/mlGDH抗原包被酶标板 $\\mathrm { 4 ^ { \\circ } C }$ 过夜，并用2%PBSM进行封闭处理，同时将噬菌体文库以1:3的比例与 $2 \\% \\mathrm { P B S M }$ 混合进行预处理，将处理好的文库加入96孔板中孵育结合2h。弃去液体，用 PBST 洗涤10 遍后，向每孔中加入新鲜对数期TG1菌侵染15min,移去菌液每孔加入100ul0.2M甘氨酸（ $\\mathrm { \\cdot P H } { = } 2 . 7 )$ ， $3 7 ^ { \\circ } \\mathrm { C }$ 温育10min，将洗脱液回收后，按1:0.2比例加入1Mtris（ $\\mathrm { P H = 9 . 1 } \\dot { . }$ )。将回收的洗脱液和菌液混合后加入$\\mathrm { 0 D } _ { 6 0 0 } { = } 0 . 5$ 的新鲜TG1， $3 7 ^ { \\circ } \\mathrm { C }$ 侵染30min。从侵染液中取 $\\mathrm { 1 0 0 u l }$ 进行倍比梯度稀释，涂布于 $2 \\times \\mathrm { Y T / A m p / G 1 u }$ 平板测定筛选输出率，剩余侵染液离心后重悬涂布于 $2 \\times$ YT/Amp/Glu平板，过夜培养。次日将平板上的菌落用细胞刮刀刮洗收集，取适量菌液加入 $1 0 0 \\mathrm { { m } 1 2 \\times \\mathrm { { Y T } / \\mathrm { { A m p } / \\mathrm { { G } 1 u } } } }$ 培养基，摇至对数期按 $\\mathrm { M O I { = } 2 0 : 1 }$ 加入KM13， $3 7 \\mathrm { { ^ \\circ C } }$ 感染30min后离心，沉淀用200ml2×YT/Amp/Kana 重悬振荡过夜。次日加入1/5体积的PEG/NaC1沉淀噬菌体，测定其滴度并进行第二轮筛选，步骤同上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7Phage-ELISA鉴定阳性克隆",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从第三轮筛选后的平板上挑取500个菌落，每5个菌落为一孔，接种于96孔深孔板 $2 \\times \\mathrm { Y T / A m p / G l u }$ 过夜培养。次日另取一个96孔深孔板，从上一板每孔吸取 $\\mathrm { 5 0 u l }$ 接种至新板培养基中摇至对数期，加入 $\\mathrm { M O I { = } 2 0 : 1 }$ 的KM13, $3 7 ^ { \\circ } \\mathrm { C }$ 静置20min,振荡 30min。离心后每孔加入2×YT/Amp/Kana 过夜振荡，次日离心后取上清进行间接ELISA 检测。用10ug/mlGDH包被酶标板， $5 \\% \\mathrm { P B S M }$ 过夜封闭后加入预处理的噬菌体上清液结合2h，洗涤拍干后加入HRP 标记的anti-M13酶标抗体，洗涤 4次，加入TMB 显色液显色，记录吸光度值。选取10个吸光度值较高的阳性克隆菌液，重新挑取各孔菌液划板于 $2 \\times \\mathrm { Y T / A m p / G l u }$ 培养基复苏，从各板再各挑取10个单菌落接种于96孔深孔板，重复上述过程，制备噬菌体单克隆上清。对噬菌体单克隆上清进行Phage-Elisa 鉴定，筛选阳性克隆并对其进行测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1VHH目的片段PCR扩增结果",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提取总RNA并经过纯化后，进行反转录合成cDNA,作为PCR反应的模板。以CALL001和CALL002作为第一轮PCR反应的引物，将PCR产物进行凝胶电泳鉴定回收，可得到大小约700bp左右的片段大小。结果如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38b156842caab345814ad9600635d37e723f1630eab766b40432d0d31051dcde.jpg",
+        "img_caption": [
+            "图1第一轮PCR 琼脂糖凝胶电泳图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取第一轮回收后的700bp产物1ul作为第二轮PCR反应的模板，优化反应条件后，以VHH-Forward 和 VHH-Reserve 作为第二轮反应的引物，可得到 400bp 左右的 VHH目的片段，与预期相符合,结果如图2所示。将所获得的 400bp 的目的片段进行凝胶电泳回收并测定浓度保存于 $- 2 0 ^ { \\circ } \\mathrm { C }$ 备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c983f9917debac54ae948fb0101d5c2efd9a2eb9a096568f322bbc8de02e13f3.jpg",
+        "img_caption": [
+            "泳道M：DNA分子量标记DL1000；泳道1,2,3：700bpPCR扩增产物 Figure 1Agarose gel electrophoresis of the first-round PCR M: DNA marker DL1000;1\\~3: 700bp PCR products ",
+            "图2第二轮 PCR 琼脂糖凝胶电泳图",
+            "泳道M：DNA分子量标记DL1000；泳道 $\\cdot \\widetilde { \\mathbf { \\Gamma } } ^ { 5 }$ 为第二轮PCR后 $4 0 0 \\mathrm { b p }$ 扩增产物 Figure 2Agarose gel electrophoresis of the second-round PCR M: DNA marker DL1000;1\\~5: 400bp PCR products "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2电转化及噬菌体文库的构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将第二轮PCR 获得的产物与pCANTAB5E 载体用SifI和NotI进行双酶切，酶切后的产物进行凝胶电泳回收和定量分析。将载体与目的片段以1:3的摩尔比，总体积10ul的体系进行过夜连接。取50ul连接产物分批次电转化大肠杆菌TG1，转化后取部分菌液经倍比梯度稀释后涂板，用于推算库容。其余转化后菌液均全部涂布于SOBAG平板，然后用细胞刮刀收集平板上所有文库菌，加入终浓度 $2 0 \\%$ 的甘油进行保存。通过计数平板上的单菌落得出初始库容为 $2 \\times { 1 0 } ^ { 6 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将初始文库经过辅助噬菌体 KM13救援，通过PEG/NaCl法纯化沉淀噬菌体后得到噬菌体展示文库，测定其展示文库的滴度为 $4 \\times 1 0 ^ { 1 2 } \\mathrm { C F U / m l }$ ，符合建库的要求（如图3所示）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/78946474990c4c70e516a814d31b432a396aaddabecc9e1a723f432998ef8b95.jpg",
+        "img_caption": [
+            "图3倍比稀释法测定救援后的噬菌体展示文库滴度"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A: ${ 1 0 } ^ { - 2 }$ 稀释平板长菌情况；B： ${ 1 0 } ^ { - 4 }$ 稀释平板长菌情况；C： ${ 1 0 } ^ { - 6 }$ 稀释平板长菌情况；D： ${ 1 0 } ^ { - 8 }$ 稀释平板长菌情况",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A:The growth of $1 0 ^ { - 2 }$ dilution plating; B:The growth of $1 0 ^ { - 4 }$ dilution plating; C:The growth of （204号 $1 0 ^ { - 6 }$ dilution plating;D:The growth of $1 0 ^ { - 8 }$ dilution plating; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3文库质量的鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从转化后的 SOBAG 平板上随机挑取20个单克隆菌落进行菌落PCR 验证分析，鉴定克隆效率。结果显示,随机挑取的20个单菌落中仅有一个菌落未扩增出 400bp的片段，其余均扩增得到400bp的产物（如图4所示)，提示文库的插入率在 $9 5 \\%$ 左右。随机挑取其中的10个阳性克隆送至上海生物工程（生工）有限公司进行测序，结果显示10个均测序成功，经过DNAMAN序列比对分析后，得出氨基酸同源性为 $6 6 . 1 7 \\%$ ，同时进行MEGA系统进化树分析，得出其具有较好的多样性，且经Blaste分析均为骆驼的重链抗体（如图5所示)。同时，在图6所示的氨基酸序列比对中，虚线所显示的为VHH基因在FR2区中四个特征性的疏水性氨基酸突变位点，从而增强亲水性，维持稳定的结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a33b1f3bb6875b1b1152958eaad2ac09b305578617512d9d19aec81660830dc8.jpg",
+        "img_caption": [
+            "Figure 3:Detection of the library titer by double dilution methoc ",
+            "图4菌落PCR鉴定噬菌体抗体展示库插入率 M：DNA分子标记量DL1000； $1 ^ { \\sim } 2 0$ ：随机挑取的单克隆菌落 ",
+            "Figure 4:Colony PCR analysescolonies "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/af27295ceb0febe033ca9e87f826aaae335f2bdc93a78fa40873c1f4d4bfab66.jpg",
+        "img_caption": [
+            "图5：MEGA系统进化树分析",
+            "Figure5:MEGAanalysisPhylogenetic tree ",
+            "图6VHH抗体库中9个随机克隆氨基酸多序列分析Figure 6Amino acid sequence analysis of nine randomly colonies"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "-FR1 <-CDR1-> -FR2 ><--CDR2-->  \n10 20 30 40 50 60  \nVHH_1 QVQLQESGGGSVQAGGSLRLACALS GFTSRWFT MAVFRQPQGLERMGVAS IDNE-GNTMY 59  \nVHH_2 QVQLQESGGGAVQTGGSLRLSCKAS TGTYFNYC LAVFRQVPGKGREGVAL IHSVSGRDRY 60  \nVHH_3 QVQLQESGGGSVQAGGSLRLACALS GFTSRWFT MAWFRQPQGLERMGVAS IDNE-GNTMY 59  \nVHH_5 QVQLQESGGDSVQAGEALSLTCTAP ELSTIDCD LVVFRLVPGKGYERISTLRPDG-TAVY 59  \nVHH_6 QVQLQESGGAQVEAGGSLRLSCESP RYNSRWNH WAWFRQTPGKEREGVAA IDLQSGIAYY 60  \nVHH_7 QVQLQESGGGSVQAGGSLRLSCAAS GHKYSRFC MGWIRQAPGRAHEGVAA IQVGGNTQYY 60  \nVHH_8 QVQLQESGGGSVQAGAFLKLICTVS GDNFAQYC MGVFRQAPGRQREGIVR LYIDGGPVSY 60  \nVHH_9 QVQLQESGGGSAQPGGSLRLSCTAP GLISNDCG VDVFRQPAGGQRQWWAS IARVG-GPGY 59  \nVHH_10 QVQLQESGGGSVEAGGSLRLSCTAPG--WSNYC LAWFRQAPGKEREWVSD ISGTN-TPRY 57  \n-FR3- CDR3- <-  \n70 80 90 100 110 120  \nVHH_1 AGSFKARFTISHDSAKTTLYLEMNNLKPEDTAMYYCAVDRVKR---VTLST--DAWEYW G 114  \nVHH_2 PDSVKGRFTVSRDFNKKTLYLQMNSLKPEDTAMYYCAAEPRGGCGAIAAD- -EFRYW G 116  \nVHH_3 AGSFKARFTISHDSAKTTLYLEMNNLKPEDTAMYYC AVDRVKR---VTLST--DAWEYW G 114  \nVHH_5 ADSVKGRFSTFKDKEKDTLYLQMNNLKPEDTALYKC DATAPASTRGKLLWCS-EKFER- G 117  \nVHH_6 DDSVKDRFTISRDSASNTLYLQLNDLKPDDTAMYYCTAGYFHAGTNMKLRR--THYTSW G 118  \nVHH_7 ADSVKGRFTIAQDTPKNTVYLQLTSLKPEDTAMYYC VAEVQPDSAGFCPVYLLADFGYRG 120  \nVHH_8 AESVKDRVTIGKDPTQNELYLTMNNLSPADTGTYYC AAIRGRTDCSLRPE---SDFTDW G 117  \nVHH_9 ARSVEGRFTISIDAAKDTVYLQMDSLRPNDTGTYFCRANPRGKVAGRSGD---CEYDHP G 116  \nVHH_10 SRAVIGRFTVSRDDDKSALYLEMSSLKSEDTAMYYCAGRKGEAICSPAPI- --MYDDWG 113  \n-FR4-  \n130  \nVHH_1 QGTQVTVSSAAA 126  \nVHH_2 QGTQVTVSSAAA 128  \nVHH_3 QGTQVTVSSAAA 126  \nVHH_5 RGTQVTVSSAAA 129  \nVHH_6 QGTQVTVSSAAA 130  \nVHH_7 QGTQVTVSSAAA 132  \nVHH_8 RGTQVTVSSAAA 129  \nVHH_9 QGTQVTVSSAAA 128  \nVHH_10 QGTQVTVSSAAA 125",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4针对GDH抗原的噬菌体文库筛选富集结果 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将GDH包被于96孔板上，用噬菌体展示文库淘筛能够与GDH特异性结合的噬菌体，一共进行三轮淘筛，每一轮淘筛后均用倍比稀释法测定感染效率和扩增滴度，从而测定投入量和洗脱量，计算回收率，观察富集变化。结果表明经过三轮筛选后噬菌体得到了有效的富集，噬菌体的量明显增加（如表2所示）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/92764c294124d95e53e363c236966cf374deeacff032ce53eb14cfb14235bad4.jpg",
+        "table_caption": [
+            "表2三轮筛选后噬菌体的富集度变化",
+            "Table 2Selective enrichment of nanobody during panning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轮次</td><td>投入量（CFU/ml）</td><td>洗脱量（CFU/ml）</td><td>回收率</td></tr><tr><td>1</td><td>4×1012</td><td>1.5×104</td><td>3.8×10°9</td></tr><tr><td>2個</td><td>3×10°</td><td>7.0×104</td><td>2.3×10°</td></tr><tr><td>3</td><td>1×10°</td><td>5.0×10°</td><td>5.0×10-</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5Phage-ELISA鉴定结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在第三轮筛选后的平板上随机挑取500个单菌落，5个为一孔，进行辅助噬菌体救援并制备噬菌体多克隆上清。将噬菌体上清用间接Phage-Elisa进行鉴定，用酶标仪测定 $\\mathrm { A } _ { 4 5 0 }$ 值，实验组为阴性对照组的2倍时作为阳性值（如图7)。选取其中吸光度值较高的10个孔，重新涂板挑单菌落制备噬菌体单克隆上清进行",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Phage-Elisa 鉴定，以高于阴性值2倍作为阳性样品（如图8a所示）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c25f51bb1da3ce13d0e52d226cf115ca4d6a556552439badec2be04e6ebc05c.jpg",
+        "img_caption": [
+            "图7Phage-ELISA检测噬菌体多克隆上清",
+            "Figure 7Identification of polyclonal phage by Phage-ELISA "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将 ELISA检测后阳性吸光度值较高的10个单克隆菌液（图8b所示）送至苏州金唯智生物科技有限公司进行测序，结果显示2个阳性克隆测序成功，其余未测序成功。对D1和F1两个阳性序列结果在NCBI上进行Blast比对分析、同源性分析，结果表明二者与驼源的VHH序列具有较高的同源性，且二者序列不完全一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2acf8e8652f7d684d5973928469ff8dc06bb433298f9ced479609f9fc11127c.jpg",
+        "img_caption": [
+            "图8噬菌体单克隆ELISA鉴定及 $\\mathrm { A } _ { 4 5 0 }$ 较高样品孔(a)：噬菌体单克隆上清ELISA； (b)：阳性克隆间接Phage-ELISA",
+            "Figure 8Identification of monoclonal phage by Phage-ELISA "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a):Phage-ELISA of monoclonal phage;(b):Indirect Phage-ELISA of positive colonies ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3．讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "噬菌体展示技术是近年来发展较快的一种生物工程技术，该技术已广泛应用于抗体工程、蛋白质工程、多肽筛选和新药筛选等，对临床疾病的诊断和治疗有着重要的意义。天然的噬菌体抗体库与免疫库相比，不需要免疫动物，而直接利用抗原从抗体库中筛选特异性抗体，进而避免了繁琐的免疫动物的过程。天然噬菌体库由于库容量较好，几乎可以涵盖所有可能的抗体，所以能够结合到特异性的抗体。构建噬菌体展示库并筛选抗GDH纳米抗体，可以为制备诊断试剂提供支持，从而能够作为早期检测艰难梭菌的筛查手段。与此同时，在临床方面，由于单克隆抗体存在分子量较大、穿透力弱、正常组织血清清除率慢且具有异源性等缺点和不足，因此在临床的应用有一定的限制。而纳米抗体具有比其他抗体更有优势的特点如分子量小，稳定性强等，使得纳米抗体在肿瘤的诊断和治疗方面具有更潜在和广泛的应用，可以为诊断和治疗提供一个新的平台。例如，CXCR4 是趋化因子CXCL12 的受体，CXCL4 纳米抗体能够抑制CXCL4/CXCL12 轴的形成，从而抑制肿瘤细胞的增殖[1]，Groot 课题组从非免疫的驼源纳米抗体文库中筛选得到了针对HIF-1α的特异性抗体，通过与HIF-1α的ODD位点结合，从而下调了HIF-1对靶基因的转录活性[12]等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "建库过程中，经过IMGT氨基酸序列分析比对后，可得出随机测序的各序列均为骆驼的重链抗体，包含有4个FR 抗体相对恒定区和3个CDR 抗体可变区，符合纳米抗体的基本结构特征。同时，对多样性影响较大的CDR3区域，相比于传统抗体更长一些[13]，可形成稳定的暴露的凸环结构，从而能够深入抗原内部的裂缝凹陷，增强了与抗原的结合力。经比较，骆驼的VHH与人的VH序列高度同源，因此，针对纳米抗体的CDR区可以构建人源化的框架结构，产生新型的人源化基因工程抗体，针对TNF-α、Her2、CD19 等抗原靶标，可以为新型的药物研发提供基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，目前CAR-T细胞技术被广泛运用于癌症免疫治疗的研究中，临床试验正在检测CAR 新的靶点用于治疗血液和实体瘤。本研究成功构建了多样性良好且库容较好的天然双峰驼源噬菌体纳米抗体展示库，可以作为不同靶点抗原的通用筛选平台。在今后的研究中，可以利用纳米抗体库筛选针对特定靶点的特异性高、亲和性强的单链抗体，开发靶向的CAR-T细胞技术，从而有望进一步提高CAR-T疗法效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Gong R,Chen W,Dimitrov D S. Expression,purification,and characterization of engineered antibody CH2 and VH domains.Methods in molecular biology, 2012,899:85-102. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]Muyldermans S,Baral T N,Cortez Retamozzo V,et al. Camelid immune-globulins and nanobody technology.Vet Immunol Immunopathol,2009,128:178-183. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]Beghein E,Gettemans J.Nabody technology:A versatile toolkit for microscopic imaging, Protein-protein interaction analysis,and protein function exploration.Frontiers in Immunology,2017,8:771-774. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]Vincke C,Loris R,Saerens D,et al.General Strategy to Humanize a Camelid Single-domain Antibody and Identification of a Universal Humanized Nanobody Scaffold.Journal of Biological Chemistry,2009,284(5):3273-3284. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]Luciano J.A., Zuckerbraun B.S. Clostridium difficile infection:prevention, treatment, and surgical management. Surg Clin North Am, 2014, 94(6):1335-1349. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]Planche T.,Wilcox M.H. Diagnostic pitfalls in Clostridium difficile infection. Infect Dis Clin North Am, 2015,29(1):63-82. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]Ticehuist J R,Aird D Z ,Dam L M,et al.Effective Detection of Toxigenic Clostridium dificile by a Two-Step Algorithm Including Tests for Antigen and Cytotoxin.Journal of Clinical Microbiology,2006,44(3):1145. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]Kim J,Pai H,Seo M,et al.Epidemiology and Clinical Characteristicsof Clostridium Difficile Infection in a Korean Tertiary Hospital.Journal of Korean Medical Science,2011,26(10):1258. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]Yillib SV.\" Camel nanoantibody\" is an efficient tool for research,diagnostics and therapy.Mol Biol(Mosk),2011,45(1):77-85.DOI:10.1134/s0026893311010134 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]Sambrook J,Russell D W.Molecular cloning:a laboratory manual[M].3re ed.New York:Cold Spring Harbor Laboratory Press,2002:99-102. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]Jahnichen S,Blanchetot C,Maussang D,et al.CXCR4 nanobodies (VHH-based single variable domians)potently inhibit chemotaxis and HIV-1 replication and mobilize stem cells.Proceedings of the National Academy of Sciences of the United States of America,2010,107(47):20 565-20 570. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]Groot A J,Verheesen P,Westerlaken E J,et al.Identification by phage display of single-domain antibody fragments specific for the ODD domain in hypoxia-inducible factor lalpha.Laboratory Investigation;A Journal of Technical Methodsand Pathol0gy,2006,86(4):345-356. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]Yan J,Li G,Hu Y,Qu W,Wan Y.Construction of a synthetic phage-displayed Nanobody library with CDR3 regions randomized by trinucleotide cassettes for diagnostic applications.J Transl Med,2014,12:343. doi:10.1186/s12967-014-0343-6 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Construction of Camelid Natural Nanobody Phage Display ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Library and Screening for Anti-GDH Nanobody ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FANG Yuan1XU Guang-xian1,2WANG Xian1WANG Hong-xia1PAN Jun-fei1 (1. Clinical Medical Colleges,Ningxia Medical University,Yinchuan,75ooo4,China) (2. General Hospital of Ningxia Medical University,Yinchuan,750o04,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjectiveTo construct a natural nanobody phage display library as a nanobody platform for screening different antigens.Using GDH antigen to screen and obtain single domain antibody variable region gene (VHH) of the camel targeting GDH. MethodsIsolate the total RNA from the camel by using Oligo DT and synthesize the cDNA.The genes of variable domain of heavy chain(VHH) were amplified by nested PCR,and then were ligated with the vector pCANTAB5E.Next the recombinant vector cloned into TG1 to construct the phage display library ,and make the analysis and identification for the library.Using GDH to screening anti-GDH nanobodies,and identified the monoclonal by phage-ELISA. Result The positive rate of the phage display library is $9 5 \\%$ ,the amino acid homology of nine randomly colonies is $6 6 . 1 7 \\%$ ,and it has a good variety after MEGA analyzing.After helper phage rescue,the titer of the phage display library is $4 { \\times } 1 0 ^ { 1 2 } \\mathrm { C F U } / \\mathrm { m l } . .$ And after three times round of screening,it showed significant enrichment of binding phage.In the end,two nanobodies sequence were obtained by sequencing positive clonoies. ConclusionSuccessfully constructed a natural camelid nanobody phage display library,and the good diversity laid a foundation for selecting other nanobodies.Two GDH specific sequences derived from camel are obtained through phage display library,which can be used to prepare the diagnostic antibodies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key wordsNanobodies Phage display technology GDH ",
+        "page_idx": 9
+    }
+]

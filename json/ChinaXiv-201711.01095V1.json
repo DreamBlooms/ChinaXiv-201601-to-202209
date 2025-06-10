@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "大视场光学瞬变源认证系统的设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马冬1,²，吴潮²，田海俊¹，魏建彦²(1.三峡大学，湖北 宜昌 443002；2.中国科学院国家天文台，北京 100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：我国的大视场光学瞬变源巡天设备地基广角相机阵每 $2 . 5 \\ \\mathrm { m i n }$ 机器初步筛选出近千个瞬变源候选体，这些瞬变源候选体可能为超新星、变星、移动天体或者是噪声等。为进一步对瞬变源候选体进行管理和详细地筛选与认证，提出了基于网络开发框架的Django 平台实现后台数据库管理和前端网页交互展示功能的光学瞬变源认证系统的设计方案。通过研究，本方案主要具备对瞬变源候选体的管理；光变曲线处理与展示；与已知多个类型天体星表的交叉进行分类；同时提供人机交互的人工认证界面接口等功能。得益于Django 框架的优秀特性，系统无需额外的开发，即可提供良好的命令方式交互接口，方便科学家通过Django 的接口对数据库进行面向对象的操作。通过将系统应用于我国已建成的迷你地基广角相机阵的观测数据测试，结果表明系统能将瞬变源候选体进行正确的分类与认证，为科学家对瞬变源候选体的后期认证提供了丰富的信息和方便实用的操作工具。同时，系统对于其它类似的瞬变源巡天项目也具有同样的实用意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：交叉认证；光变数据可视化；Django 框架；MVT模式中图分类号：TP311 文献标识码：A 文章编号：1672-7673(2016)02-0190-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着现代天文观测技术和数据处理技术的发展，时域天文观测向更大的视场、更暗的探测深度和更高的时间采样方向发展。得益于这些技术的发展，越来越多的未知瞬变源将被发现。这也使得瞬变源的巡天观测与研究越来越成为天文界的关注焦点，如美国重点支持的科学项目大型综合巡天望远镜[1]（Large Synoptic Survey Telescope，LSST）、帕洛玛瞬变源工厂巡天（Palomar Transient Factory，PTF）、卡特琳娜实时瞬变源巡天(Catalina Real-time Transient Survey，CRTS)等。我国兴建中的宽视场瞬变源巡天设备地基广角相机阵(GroundWide Angle Camera，GWAC)是由36个直径为 $1 8 ~ \\mathrm { c m }$ 的广角相机构成，总视场达到5000平方度，每15s产生一幅观测图像。地基广角相机阵在大视场和高时间采样两个技术指标上相对于传统的瞬变源巡天有极大的提升，同时也对数据处理与分析的手段提出更高的要求与挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过研究，成功地将经典图像相减[2-3]技术应用于地基广角相机阵寻找瞬变源，即通过对实时观测的图像与模板图像(前期观测质量较好的一幅图像)进行图像位置匹配、点扩散函数轮廓匹配和流量匹配，将完成上述匹配后的两幅图像相减，如果光度发生增亮或者新出现某个天体目标，在相减后的残差图中会明显地显示出来。利用优化特征参量加到随机森林分类的算法中，使得利用随机森林算法能自动快速地完成将瞬变源候选体从残差图像中挑选出来。每 $2 . 5 \\ \\mathrm { m i n }$ 瞬变源候选体达到近千个，在这些瞬变源候选体中，主要分为：移动天体目标包括人造天体和小行星等，变星包括微引力透镜等恒星光变、伽玛暴、超新星、引力波暴等爆发于星系的瞬变天体以及噪声。天文学家如何将这些瞬变源候选体进行快速认证与初步分类对于瞬变源尤其是短时标瞬变源的后续观测有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实际观测数据研究表明，需要开发一个能及时将瞬变源候选体进行分类和管理的瞬变源认证系统。这个系统能为天文学家提供足够多的辅助认证信息，协助观测人员进行快速的分析与判断。系统主要通过3方面功能实现：(1)通过与多个已知星表进行交叉认证是否是已知天体以及与其最为近邻的天体目标。这里用到的已知星表为国际天文联合会的小行星星表库、UCAC4星表、变星星表①、星系星表HyperLeda，从而实现认证瞬变源候选体是否是小行星、已知恒星或者发生于星系的增亮天体。（2)通过处理和实时展示瞬变源候选体的光变曲线，为进一步分类提供辅助参考信息。（3)设置天文学家进行人工认证的交互界面，通过人工查看以上与星表的交叉认证信息、光变曲线以及认证图（观测图像、模板图像和残差图像)判断瞬变源候选体的类型或者噪声。从而通过系统可以确认是否要进行后续观测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，本文介绍系统的设计，从瞬变源候选体认证系统的基本需求与功能出发，提出了基于网络层和命令方式的交互层结构，具体介绍系统的体系架构和功能模块的设计。其次，详细介绍系统的各个模块功能的实现过程，并讨论技术上的优缺点。然后，将系统应用于已建成的迷你地基广角相机阵的观测数据，验证系统的功能和有效性，同时讨论验证的结果。最后，对系统的功能和特点进行总结与讨论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1系统设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 1 体系架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统首先要实现瞬变源候选体的管理。从数据流上分析，认证系统的数据输入来源是由随机森林分类算法自动从图像相减后的残差图像中找到的瞬变源候选体，主要数据特征信息为位置信息、相关的测光信息以及时间信息。每 $2 . 5 \\ \\mathrm { m i n }$ 会有一次近千条输入数据的更新(考虑36个相机）。然后系统主要通过与多种类型的已知观测星表进行交叉认证完成瞬变源候选体的初步认证与分类，以及确认是否需要进一步的后续观测。主要的已知观测星表为小行星星表②、星系星表③、变星星表、全天巡天星表，最后完成时序观测的交叉认证，在时序上判定瞬变源候选体出现的次数以及光变曲线，从而判断噪声以及提供光变曲线为进一步的人工辅助分类提供参考依据。系统开发采用由数据库驱动的网络设计方案，该方案采用网络开发框架Django以及与Django 框架结合较好且运行稳定的PostgreSQL 作为数据库平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统中采用基于网络和命令两种方式进行后台数据的查询与分析。主要目的是方便天文学家在不同的设备上能进行快速的网页访问和分析数据。同时，命令方式对后台数据的查询和获取，可以进行更深层次的定制分析。系统的体系架构如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)表现层的设计分为网页交互方式与命令方式。提供用户与系统的交互接口功能。用户通过表现层可以获取瞬变源候选体的基本测光参数、光变曲线、图像相减后的认证图、与多个已知星表的交叉认证结果、人工进行分类的确认功能等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)业务逻辑层是整个系统的核心，集成了天文学家认证瞬变源候选体所需的服务组件，直接与数据资源层进行数据交互操作，实现候选体的快速访问与获取，与此同时，也为业务逻辑层屏蔽了数据资源层的底层实现细节，增强了系统的透明性。用户管理服务主要提供不同层次的用户权限管理。针对数据管理员和普通用户，分别通过直接登录系统后台完成瞬变源数据的管理与操作和通过前台进行权限以内的数据查看与修改等操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)数据资源层负责数据的管理，对外提供数据访问的应用程序接口。系统管理的数据类型包括结构化数据(瞬变源候选体的各种属性参数)和非结构化数据(认证图等图像文件)两类，因而系统分别采用数据库系统和文件系统共同管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)基础环境层给系统的运行提供一个可靠的物理环境。系统的开发测试环境搭建使用 ScientificLinux(SL)操作系统服务器，并且网络服务器和数据库服务器位于同一台服务器，实际使用会进一步考虑将两个类型的服务器在物理介质上分开。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/24703ce1de4f18822f66f2caba825ef563b824c805dc5240df18ad1858f18d08.jpg",
+        "img_caption": [
+            "图1系统的体系架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 功能模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光学瞬变源认证系统总体的功能目标是实现对瞬变源候选体的分类与认证。结合系统的体系架构图1，系统的主要功能模块包括：数据库管理平台、时序数据的交叉认证、与已知星表的交叉认证、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)数据库管理平台",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要设计的数据表为：“OTcands”存放所有瞬变源候选体在时序上的观测属性数据;“OTuniq”存放位置唯一化后的瞬变源候选体信息，即通过时序数据交叉认证的目标信息，相对于“OTcands”表它不存放时序数据；“Fchart”存放图像瞬变源候选体的认证图信息；“Comments”存放用户对瞬变源候选体的评注信息；“Catfiles”存放与每幅图像相关的信息，如观测时的儒略日、天区编号等；“Users”存储管理系统中的用户信息。最终数据库模型如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6354fb5fd43330f8f02d2b7a956e02a29b0258a940949be3da50e63c9c47f9cc.jpg",
+        "img_caption": [
+            "Fig.1The architecture of the system ",
+            "图2数据库模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)时序数据交叉认证 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过时序数据交叉认证，即将每 $2 . 5 \\ \\mathrm { m i n }$ 采 Fig.2Database schema样数据与历史数据进行交叉认证，从而可实现同一个目标源的归类并生成光变曲线，同时可判断该瞬变源候选体在历史上的出现次数，偶发的噪声出现次数较少，因而可通过匹配的次数筛选噪声源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)与已知星表交叉认证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将瞬变源候选体与小行星星表、星系星表、变星星表、全大巡天星表(恒星)等星表的交叉认证可以实现瞬变源候选体的大致分类属性，从而为观测者提供是否做后续观测提供判断依据。这是系统",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的核心功能。主要实现的功能包括已知各种类型星表的获取与管理、交叉认证、认证后的数据管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)光变曲线的可视化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这部分的功能主要实现将瞬变源候选体的光变数据从数据库中快速查询获取，并在网页上以二维散点图的形式直观地展示，建立良好的用户视觉体验效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)用户交互认证及用户管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统提供观测者判断瞬变源候选体的分类工具，因此必须具备用户交互功能，即天文观测用户能通过查询需要的数据信息，做出人工判断，人工判断需要反馈并且记录到系统的数据库中。同时，为了记录不同观测者对于分类的判断及评注，即不同的用户需要具有帐户与密码才能登陆与评注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 系统实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1技术架构与模式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统开发选用基于Python 语言的平台，这是因为Python具有丰富的第三方天文软件开发工具包和友好的跨平台部署能力[4]。基于Python 的网络开发框架 Django 采用了网络服务器开发领域的模板视图控制层（Model-View-Controller，MVC)设计模式，该模式具有高效的系统开发和维护特性[5]。根据图1设计的系统体系架构以及图2关于在数据库管理系统中设计的模型图，认证系统的实现通过在模型层中利用Django 内置模块models 完成数据表在模型层中所有字段的定义，实现模型层与数据库表之间的对象关系映射；视图层负责瞬变源认证系统中所有业务逻辑的实现，如交叉认证、光变数据的处理、用户登录系统的校验等。同时，视图层还在模型层与模板层之间起到桥梁作用，通过模型层从数据库中获取瞬变源候选体元数据，将经过自身视图函数处理后的数据结果传递给模板层；模板层负责把视图层传递的数据以网页形式展示给用户，实现系统的瞬变源候选体认证图、光变曲线数据的可视化、人工交互认证界面等功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，系统采用B/S 网络架构技术[6]（即浏览器和服务器架构)和动态网页技术AJAX。它们使系统具有以下优点：便于系统的升级与维护；具有良好的跨平台特性；实现网页异步更新；减少系统服务器端的负荷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2模块功能的实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统中的数据库管理平台采用与Django 兼容性较好的PostgreSQL数据库，根据地基广角相机阵瞬变源自动识别系统获得的瞬变源候选体的元数据信息，结合上述数据库管理平台中关于数据库概念模型、逻辑模型和物理模型的设计结果（图2），利用 Django 自身的对象关系型数据映射组件（ORM）即可将数据库中各个表对象化，简化数据的访问与获取方式。系统中数据表对象化的具体实现过程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)创建数据库模型层",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型层是数据表对象化的基础，首先使用 Django 的 startapp 创建一个应用框架，然后在其包含的models.py文件中通过继承django.db.models.Model模块中设定的字段类型完成模型层中数据表的创建。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）配置 settings.py",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在使用模型层之前，需要对配置文件进行数据库的配置，进行系统中选用的数据库基本信息的定义。例如：数据库引擎、数据库名字、登陆用户名、登陆密码、数据库服务器IP地址以及数据库访问端口号等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是“setings.py”的配置过程与上述模型层没有任何关联。这一特性的好处是如果要更新系统后台数据库的类型，不需要对模型层做任何附加的修改，从而极大降低了系统模型层与数据库层之间的耦合性。通过以上两步的设置操作，利用 Django 的数据映射组件便可轻松实现数据表的对象化。同时也给开发人员提供一个使用简单且功能强大的数据库访问接口，通过此接口，开发人员可以通过面向对象的方式操作数据库，而无需使用 SQL语句。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交叉认证是系统的核心功能模块，主要包括时序数据的交叉认证以及与已知星表的交叉认证。交叉认证算法的基本原理是将新观测的目标星与其它参考星进行距离计算，找出与其距离最短的参考星，如果这一距离小于交叉半径(与测量误差相关的量)，那么这两颗星被认为是同一天体[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "时序数据的交叉认证是通过两点距离计算公式计算出新观测的瞬变源与历史瞬变源之间的最短距离，将不同时间观测到的属于同一目标源的候选体关联起来，实现归类操作。时序数据交叉认证流程的原理如图3。在系统中，为了方便实现时序数据的交叉认证，在模型层中创建了唯一化表“OTuniq”，以此记录不同的目标源信息。每个新的候选体都将与唯一化表中处于同一天区的每一条历史数据进行交叉认证，将匹配上的候选体连同唯一化表中的OTid号写入候选源表“OTcands”，反之表明是新的目标，则将该目标写入“OTuniq”并赋予一个新的OTid号，同时，该新的候选体也会被添加到表“OTcands”中。通过唯一化表中的OTid号与“OTcands”表进行关联，对同一目标源进行归类。而且，后续光变曲线可视化时所需数据也可通过OTid号的查询筛选获取。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b416b20601c3cea87963fa968d0494379b7ade0e7f82f9059a62ed8aaf36bdc.jpg",
+        "img_caption": [
+            "图3时序数据交叉认证原理图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与已知星表做交叉认证，即将唯一化数据表里不同的瞬变源候选体依次与小行星星表、星系星表、变星星表和巡天星表(UCAC4)进行交叉认证，数据处理流程如图4。经过上述时序数据的交叉认证，完成了瞬变源候选体的归类操作，将不同的瞬变源候选体目标写入唯一化表，显著地减少了与已知星表做交叉认证的候选体数目，满足了地基广角相机阵对认证系统的快速实时性需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b234cfccbab760cf8a46e9c73a8e64570a1628b158b9f945b7f1b4beddde0c.jpg",
+        "img_caption": [
+            "Fig.3Schematic diagram of timing data cross-identification ",
+            "图4瞬变源认证过程流程图",
+            "Fig.4Flow chart of the transient identification "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于经过时序交叉后出现在唯一化表中的不同瞬变源候选体，如果连续出现的次数不到3次，那么初步判定为噪声。否则，与已知星表进行交叉认证，确定出不同目标源的分类结果。首先与国际天文联合会的小行星星表库进行交叉认证，其交叉认证过程为：（1)利用 Django 的数据库访问接口从唯一化表里获取不同候选体的赤经赤纬属性；（2)通过 HTTP接口访问小行星星表库；（3)利用大圆距离计算公式计算该目标源与小行星的最小距离，如果这个距离小于交叉半径，那么认为该目标源属于已知小行星；（4)将匹配的相关小行星信息(比如匹配的最小距离、小行星星等、类型以及名称等)通过 Django 提供的应用程序接口（Application Programming Interface，API)更新到唯一化数据表中。通过以上交叉认证过程，对未能与小行星星表匹配的候选体，则进一步与星系星表进行交叉认证。星系星表的交叉认证主要通过与建立在本地的 HyperLeda 星表进行交叉认证，爆发于星系的瞬变源是地基广角相机阵观测中具有高权重值进行后续观测的目标。对于未归类到星系星表的候选体，进行与变星星表的交叉认证，该过程类似于小行星的认证过程，通过HTTP接口访问 simbad网站提供的变星星表，实现与变星的自动匹配。根据实测数据的测试和理论分析表明，在这一分类过程中会鉴别出大量的已知变星和新变星。对仍然未匹配的候选体继续进行与巡天星表的交叉认证，这一过程是鉴别其余候选体是否是已知的巡天目标星。如果不是则可能是未知天体，观测者需要通过人工查看光变曲线以及认证图等信息，综合分析判定是否属于未知天体，以及确认是否需要进行后续观测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了实现在光变数据可视化的图中实现动态的气泡提示框和数据区域缩放功能，开发过程通过在模型视图模板(Model-View-Templet，MVT)中的模板层中引入ECharts 图表库实现。图表库 ECharts 具有强大的功能，支持多种数据可视化方式，如地图、散点图、柱状图、饼状图等。系统针对光变数据的特点，采用ECharts中二维散点图的可视化形式，实现当鼠标悬停于图表中某一数据节点时，动态显示该节点的详细数据信息；以及当展现大量数据时，用于选择可视数据区域范围。该特点在分析短周期瞬变源的光变特性时非常有用。光变数据可视化界面如图5。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/26b812f0a5280a841b4f4f8595203b2d7057692188c62261215d3d03ab47ee45.jpg",
+        "img_caption": [
+            "图5瞬变源光变数据的可视化界面",
+            "Fig.5Visual interference of the transient's light curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "天文学家进行人工认证是瞬变源候选体最后一个判断环节，本认证系统提供判断瞬变源候选体类型的多方面辅助信息。主要包括与多个已知星表交叉认证信息、光变曲线以及认证图等。利用这些辅助参考信息，天文学家可以对候选体类型进行人工交互认证，相应的认证界面如图6。在人工交互认证过程中，系统分别从候选体的状态和类别两方面完成。状态包括“经过确认不属于瞬变源”、“未曾确认”、“确认后属于瞬变源”、“有待继续证实确认”，类别包括“未曾确认”、“小行星”、“变星”、“UCAC4”、“星系”、“新天体”。为了给天文学家提供图6中便捷的人工交互认证界面，主要通过模型视图模板设计模式实现：首先在模板层中利用超文本标记语言(HyperText Markup Language，HTML)表单的单选组合框以及层叠样式表(Cascading Style Sheets，CSS)技术实现图6中的网页显示效果；然",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "后在视图层中通过应用程序接口调用模型层完成视图函数的定义；最后当观测者在网页上标记完候选体类型并点击提交按钮后，网络服务器将统一资源定位器（Uniform Resoure Locator，URL）的页面请求传递给Django框架的URL分发器，由URL分发器找到刚刚定义好的视图函数，执行对应的业务逻辑操作，将人工判断结果和评注信息反馈到系统后台数据库中，供系统中其它天文观测者参考，在此之前，用户必须登录系统。在实现人工认证界面的过程中，在模板中使用了JavaScript函数库 JQuery[8-10]。利用JQuery 技术,可以实现在不重新加载整个页面的情况下，实现网页的局部更新，即当用户在图6的界面中点击提交按钮后，整个界面不用重新加载便可实现用户评注信息以及信息计数器的自动更新。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 系统的应用验证",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "系统的验证测试通过对Mini-GWAC相机的实测数据进行测试与分析。Mini-GWAC是地基广角相机阵的先导项目，由12台口径为 $7 \\ \\mathrm { c m }$ 的广角相机构成，数据的处理流程与地基广角相机阵类似。Mini-GWAC现已在国家天文台兴隆观测站正式运行，并获得真实观测数据。系统验证采用其中2个相机观测的2个晚上的实测数据(共两个视场），验证瞬变源认证系统在瞬变源候选体认证功能上的有效性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "系统运行后的主界面如图7。天文学家可以对时序出现的次数进行排序后的数据进行快速浏览，通过点击Counts列，可以弹出查看瞬变源时序数据的认证图、二维散点可视化光变曲线以及其它观测者的评注信息。同时，天文学家对瞬变源候选体进行认证状态及认证后的类型分别显示在主界面中“status”和“type”列。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe695fdad12b19653b3b054e02646ef6dd9b4a7e2f243deaab5a88fa0c3d9921.jpg",
+        "img_caption": [
+            "图6瞬变源类型人工交互认证界面 Fig.6Manual interaction interface of the transient identification system ",
+            "图7瞬变源认证系统主界面",
+            "Fig.7Main interface of the transient identification system "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transient Management System   \nLogin   \nOTid Ra Dec Magcalib Magorig Magres Counts _VSmag_Vs name_Vs type_Vs r_UCAC4 mag_UCAC4r_Gr_MPmag_MP name_MP Status type   \n17 83.09525.352 0.0 12.44 9.76 78 5.71 None TYC 1852-1665-1 Star 5.72 10.26 None None None 0 0   \n9 69.77922.711 0.0 12.13 9.48 76 5.46 None HD284583 Star 5.59 9.89 None None None 0 。 0   \n5 66.65434.937 0.0 11.42 10.26 58 21.73 9.161 HD279834 Star 9.1 15.37 None None None 0 1 0   \n24 65.847 36.213 0.0 11.65 10.05 49 6.39 None GQ Per LPV\\* 6.53 9.51 None None None 0 2 0   \n36 75.012 27.187 0.0 11.24 9.47 47 20.0 None HD283995 Star 19.88 8.98 None None None 0all 0   \n6 67.541 25.541 0.0 13.13 10.30 43 4.03 10.42 GW Tau EB\\*betLyr 4.22 10.88 None None None 1 2   \n2145268.63130.410 0.0 13.94 9.63 35 2.86 None VTW Her RRLyr 2.92 11.24 None None None 0 0   \n42 78.019 33.963 0.0 13.34 9.82 33 None None None None 4.65 11.46 None None None 0 0   \n1212 66.669 37.013 0.0 14.03 11.10 32 5.46 None HD279872 Candidate_EB\\* 5.45 11.57 None None None 1 2   \n37 82.918 34.240 0.0 13.14 11.00 29 3.21 None TYC 2411-1002-1 Star 3.09 11.11 None82.83 19.2 （38826）2000 RZ92 0 0   \n130 68.56934.382 0.0 12.81 10.78 29 None None None None 14.74 11.10 None None None 0 0   \n3071 258.60436.365 0.0 10.52 8.03 28 11.39 None VUW Her semi-reg 11.45 8.31 None None None 0 0   \n3081 261.960 22.519 0.0 12.79 10.74 27 4.23 None TYC 2075-1939-1 Star 4.34 9.74 None None None 0 0   \n2115257.69827.065 0.0 12.79 10.46 26 6.84 14.12 RT Her Mira 6.79 13.85 None None None 1 2   \n25 67.06633.649 0.0 11.29 9.63 25 15.48 None HD282068 Star 15.48 9.11 None None None 0 0   \n3073267.68524.006 0.0 12.85 9.95 24 18.89 None TYC2077-2963-1 Star 18.98 9.83 None None None 0 0   \n122769.77922.711 0.0 12.02 9.66 24 6.72 None HD284583 Star 6.82 9.89 None None None 0 0   \n2113 257.65627.592 0.0 11.44 9.02 24 4.24 None VCX Her semi-regV 4.41 9.35 None None None 1 2   \n2131 260.42622.921 0.0 12.37 9.61 24 1.89 None RSHer Mira 1.96 9.10 None None None 0 0   \n2125 258.602 36.367 0.0 10.46 8.51 24 2.71 None UW Her semi-regV\\* 2.6 8.31 None None None 0 0   \n3070 259.13727.683 0.0 11.19 9.96 23 0.87 None 943Her Candidate_LP\\* 0.78 8.85 None None None 0 0   \n3066 257.69527.065 0.0 12.33 10.63 23 17.94 14.12 VRT Her Mira 17.86 13.85 None None None 0 0   \n2124259.13727.683 0.0 12.10 8.69 22 2.08 None V943Her Candidate_LP\\* 1.95 8.85 None None None 0 0   \nstatus\\*-1 False transient;OTo be confirmed;1 True transient；2Continue to be confirmed   \n\\*type\\*:OTobeconfirmed;lMinorplanet;2Variablestar;3UCAC4;4Galaxy;5New object   \n12345678next ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经过统计分析，总共有瞬变源候选体记录7209个。通过时序交叉认证，出现3次及以下的为随机噪声点和快速移动天体占总记录数约 $4 6 \\%$ ，而出现3次以上的目标源数目为348个（占总记录数约$54 \\%$ )，其中通过与已知星表交叉认证出已知小行星9个，与已知星系的对应位置为0个（出现在星系中的瞬变源为极小概率事件），已知变星73个 $( \\sim 2 0 \\%$ ）， $2 2 4 / 3 4 8$ 约 $6 4 \\%$ 的候选体为巡天星表能匹配但可能为未知的变星等，其中约 $1 3 \\%$ 为(46个)未匹配源，需要进一步人工认证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步明确认证系统自动分类结果的正确性，选取了几个典型的变星进行系统外的测光分析，结果如图8，（a)为未知的新发现变星，（b)为EB\\* Belyr型变星，（c)为RRLyr变星。通过对比分析它们各自光变曲线的特征，结果表明系统自动分类的变星类别基本正确。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e63dce324b5cca3b8d6886d64c00a4fe4109ff46918fc763eaaa50af177aa059.jpg",
+        "img_caption": [
+            "图8典型目标的光变曲线图 Fig.8The light curves of typical identified objects "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "应用验证的测试表明：本瞬变源候选体认证系统能通过系统的算法对瞬变源候选体进行自动的正确初步分类，极大地减少了需要人工认证的样本，同时有效地管理所有瞬变源候选体。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论与总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对我国大视场光学瞬变源巡天设备地基广角相机阵及其先导项目Mini-GWAC产生的大量瞬变源候选体提出的瞬变源候选体的管理与分类认证系统，通过研究开发出一个能及时将瞬变源候选体进行分类和管理的瞬变源认证系统。这个系统能为天文学家提供足够多的辅助认证信息，协助进行快速的分析与判断。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "系统主要实现了三方面功能：（1)通过与多个已知星表进行交叉认证是否是已知天体以及与其最为近邻的天体目标，从而实现认证瞬变源候选体是否是小行星、已知恒星或者发生于星系的增亮天体；（2)通过处理和实时展示瞬变源候选体的光变曲线，为进一步的分类提供辅助参考信息；（3）为天文学家进行人工认证提供交互界面，通过人工查看与星表的交叉认证信息、光变曲线以及认证图等，判断瞬变源候选体的类型。最后确认是否要对某些认证的瞬变源候选体进行后续观测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "系统的实现采用了Django框架的MVT设计模式，不仅提升了系统的开发效率，而且降低了系统中模型层、视图层以及模板层之间的相互依赖程度，实现了高内聚低耦合的特性，增强了系统功能的可扩展性。本系统的实现，极大地降低了人工认证瞬变源候选体的数量，并能对所有瞬变源候选体进行有效的管理。通过对 Mini-GWAC 观测数据的测试表明，系统能正确地对瞬变源候选体进行初步分类，并能将需要人工认证的样本降低到 $10 \\%$ 左右。从操作上也为天文学家提供良好的界面接口。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "系统的功能和实现原理对于其他相似目标的瞬变源巡天项目，尤其是大视场的瞬变源巡天项目也具有同样的实用意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] LSST Public website sitemap [EB/OL].[2015-10-31].http://www.lsst.org/lsst/science/scientist_transient.  \n[2] Alard C. Image subtraction using a space-varying kernel [J]. Astronomy & Astrophysics Supplement,2000，144:363-370.  \n[3] Bramich D M.A new algorithm for diference image analysis [J]. Monthly Notices of the RoyalAstronomical Society，2008，386(1） :L77-L81.  \n[4] ChunWJ.Python 核心编程［M].宋吉广，译.第二版.北京：人民邮电出版社，2008.  \n[5] ForcierJ，BissexP，ChunW.Django web开发指南［M].徐旭铭，译.北京：机械工业出版社，2009.  \n[6] 朱道雨.基于Django 的旅游管理信息系统的建设［D]．北京：中国地质大学，2011.  \n[7] 徐洋，吴潮，万萌，等．用于光学瞬变源搜寻的交叉认证快速算法［J］.天文研究与技术国家天文台台刊，2013，10(3)：273-282.Xu Yang，Wu Chao，Wan Meng，et al.A fast cross-identification algorithm for searching opticaltransient sources ［J].Astronomical Research & Technology——Publications of NationalAstronomical Observatories of China，2013，10(3）:273-282.  \n[8] CesarO，RobL.jQuery高级编程［M].施宏斌，译.北京：清华大学出版社，2013.  \n[9] 高云.jQuery技术内幕：深入解析jQuery架构设计与实现原理［M].北京：机械工业出版社，2014.  \n[10] McFarlandDS.JavaScript 实战手册［M].李强，钟静薇，译.北京：机械工业出版社，2009.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Design and Implementation of a Wide-Field Optical Transient Identification System ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ma Dong $^ { 1 , 2 }$ ，Wu Chao²,Tian Haijun1，Wei Jianyan² (1.China Three Gorges University，Yichang 443002，China；2.National Astronomical Observatories, Chinese Academy of Sciences，Beijing 1Ooo12，China,Email：cwu@ bao.ac.cn) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ground Wide Angle Camera（GWAC）willinitially select thousands of transient candidates in every 2.5 minutes.These candidates may be supernova，variable stars，moving objects，or noise.To identify and manage these candidates，we design and develop an optical transient identification system based on the web framework Django.This system willimplement the database management system in the backend and web interactive display in the frontend.Thesystem mainly includes the following functions：transient candidates management，light curve processing and display，crosscheck with multiple known celestial catalogs and interactive identification interface for the scientists.Due to Django's excellnt characteristics，this system can provide a good command mode interactive interface，which makes the scientists operate the database in an object-oriented manner without any extra-developed codes.The system has been tested by observation data from the Mini-GWAC.The test indicates that transient candidates can be clasified and identified correctly.It is a useful tool forastronomers to identify transient candidateswith itspreliminary identificationandabundant information from automatically processing.This program can be used for other similar transient surveys in practice. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Cross identification；Optical data visualization；Django；MVT ",
+        "page_idx": 8
+    }
+]

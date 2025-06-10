@@ -1,0 +1,97 @@
+# 综述
+
+# 长效GLP-1受体激动剂的临床研究进展
+
+谢静，杨刚毅重庆医科大学第二附属医院内分泌科，重庆400010摘要：胰高血糖素样肽1受体激动剂(GLP-1RA)是一种新型降糖药物，长效GLP-1RA通过改造结构延长其半衰期，每周仅需注射1次,使用便捷,正受到广泛关注，目前国内尚未上市,国外已上市的有艾塞纳肽长效注射液、阿必鲁肽及杜拉糖肽，各系列研究均表明无论在单药治疗还是替代传统基础胰岛素及餐时胰岛素治疗方面均能有效降低HbA1c、改善体质量及低血糖发生率低等优势,且严重不良反应事件发生率低，其中胃肠道反应及局部注射反应为最主要的不良反应，也是长效GLP-1RA在未来研发中需要注意的问题。
+
+关键词：糖尿病;2型;长效GLP-1RA;疗效性;安全性
+
+# Advance in study of long-acting glucagon-like peptide-1 receptor agonist
+
+XIE Jing,YANG Gangyi DepartmentofEndocrinology,theSecondAflitedHospitalofhongqingedicalUniersityChongqing40Cina
+
+Abstract: Glucagon-like peptide-1receptor agonist(GLP-1RA)is anew type of antidiabetic drug,structure transformation of long-acting GLP-1RAcan prolong its half-ife, great atention hasbeenpaid tothis convenient weeklyusing drug(exenatide LAR、albiglutide、dulaglutide),which hadbeen listed abroad, while ithas not been marketed inour nation.Aseries of studies present either in monotherapy or replace basal insulin and prandial insulin treatmentcan reduce HbA1c、weight and the risk of hypoglycemia efectively withalowseriousadverse events rate.Gastrointestinaland local injection reactionarethemain adverse events which need to be improved in the future.
+
+Key words: Diabetes Mellitus; Type 2; Long-acting GLP-1RA; Effect; Safety
+
+2型糖尿病(T2DM)是一种以慢性血糖升高为特征的代谢性疾病，我国最新调查显示糖尿病和糖尿病前期的患病率分别为 $1 1 . 6 \%$ 和 $5 0 . 1 \% ^ { [ 1 ] }$ ,至2030年全球糖尿病患者数量可能突破4.38亿，糖尿病及其并发症对人体危害极大，致死率仅次于感染、心血管疾病、癌症、创伤等疾病[3]。除遗传因素外[4],肥胖在糖尿病发生发展中也具有重要作用5。传统降糖药物在控制血糖的同时伴有不同程度的体质量增加、低血糖风险增高、心血管风险等不良反应，且无法遏制T2DM患者β细胞功能的进行性减退6，使用受到一定限制，寻找一种安全有效、副作用小、依从性高的降糖药物至关重要。近几年来，胰高血糖素样肽1(GLP-1)受体激动剂正受到广泛关注，它既可以通过多种作用机制降低血糖，又具有保护胰岛β细胞功能、减轻体质量、低血糖发生率低、降低心血管危险因素等优势[，GLP-1受体激动剂(GLP-1RA)可分为短效和长效制剂，短效制剂需每天注射增加了糖尿病患者的用药痛苦，降低了用药依从性，长效GLP-1RA每周给药1次，极大的提高了患者依从性，成为糖尿病患者的新希望。第1个长效GLP-1RA于2012年由美国FDA批准上市[8]，目前尚未进入中国市场，GLP-1RA类药物在改善血糖、降低体质量及减少低血糖方面具有优势，因其上市时间短，常见不良反应（胃肠道副反应、注射部位的局部不良反应)的管理以及胰腺炎、胰腺肿瘤和甲状腺肿瘤的发生率等方面的安全性还存在争议。本文就目前常用的长效制剂(艾塞那肽长效注射液、阿必鲁肽及杜拉糖肽)的成药形式、单药治疗及其与基础或餐时胰岛素比较的有疗效性和安全性等做一综述，为初发糖尿病患者以及需要胰岛素替代治疗的糖尿病患者选择长效GLP-1RA提供临床参考。
+
+# 1长效GLP-1受体激动剂的成药形式
+
+GLP-1是一种肠源性激素，在食物刺激下由回肠与结肠的L细胞合成、分泌并释放入血。尽管其具有良好的降糖作用，然而人体自身合成的GLP-1在体内很快被二肽基肽酶-4(DPP-4)降解并被肾脏清除，半衰期极短，这使得天然GLP-1的应用受到限制。人工合成短效制剂的上市为糖尿病患者带来了福音，但其半衰期仍较短，患者需要每天给药，患者的依从性较差。长效GLP-1RA包括艾塞那肽长效注射液、阿必鲁肽及杜拉糖肽，分别通过构建GLP-1RA微球剂型(药物可通过微球体缓慢释放[°）对GLP-1序列进行改造(两个GLP-1通过Ala8-Gly8替换串联至血清白蛋白，可掩蔽DPP-IV清除位点而获得水解抗性[）构建GLP-1融合蛋白(两个GLP-1类似物与hIgG-Fc共价结合形成融合蛋白，阻止DPP-IV分解2)等形式延长半衰期，每周只需注射1次，极大的降低了用药频率。
+
+# 2长效GLP-1受体激动剂单药治疗的疗效和安全性评价
+
+长效GLP-1RA对于降低糖化血红蛋白(HbA1c)、空腹血糖(FPG)及改善体质量效果均显著，其降糖效应呈现明显的剂量-效应关系，而体质量下降幅度与药物剂量的相关性有待进一步研究。
+
+DURATION-1共随机258例T2DM患者评价艾塞那肽长效注射液( $2 \mathrm { m g } , 1$ 次/周)单药治疗糖尿病患者的有效性与安全性，为期5年，有153例患者纳入研究终点，在研究中发现HbA1c、FPG及体质量均明显下降，下降值分别为HbA1c $1 . 6 \%$ 、FPG $2 8 . 8 ~ \mathrm { m g / d L }$ 、体质量3$\mathrm { k g } ^ { [ 1 3 ] }$ 。Harmony2为多中心双盲对照临床研究,评估了阿必鲁肽单药治疗对于药物初始治疗糖尿病患者的临床疗效，阿必鲁肽单药 $3 0 ~ \mathrm { m g }$ 和 $5 0 ~ \mathrm { m g }$ 治疗52周后，与安慰剂相比可显著降低HbA1c及FPG，且阿必鲁肽50mg组降糖疗效更为明显（下降值分别为 $3 0 ~ \mathrm { m g }$ 组$0 . 8 4 \% \mathrm { ~ , ~ } 1 . 8 9 \mathrm { \ m m o l / L } v s \mathrm { ~ } 5 0 \mathrm { \ m g } \ddagger$ 且 $1 . 0 4 \% , 1 . 3 8 \mathrm { m m o l / L } )$ 另一方面，3组体质量均有所下降，但下降幅度无统计学差异[14]。Award-3研究评价了在控制饮食、适当运动 $\mid \pm .$ 单药治疗基础上血糖控制欠佳的患者分别予以杜拉糖肽$1 . 5 \mathrm { m g } . 0 . 7 5 \mathrm { m g } .$ 二甲双胍( $1 5 0 0 { \sim } 2 0 0 0 ~ \mathrm { m g } ,$ 治疗的疗效性与安全性，在第26周与第52周进行疗效分析，杜拉糖肽 $1 . 5 ~ \mathrm { m g }$ 组较 $0 . 7 5 ~ \mathrm { m g }$ 组降糖效果明显，与第52周相比，治疗后第26周的HbA1c及FPG下降更为显著，且此种现象在杜拉糖肽 $3 0 ~ \mathrm { m g }$ 组更为明显，这可能与其2\~4周达到稳态这一药理机制有关;体质量方面，第26周与第52周统计结果均提示杜拉糖肽 $1 . 5 ~ \mathrm { m g }$ 组与二甲双胍组下降值无显著差异,且均略优于杜拉糖肽 $0 . 7 5 ~ \mathrm { m g }$ 组[15]。另一方面,长效GLP-1RA可提高心脏功能,即降低收缩压及舒张压、增加心率。
+
+长效GLP-1RA最常见不良反应为轻至中度的胃肠道反应(主要为恶心)，症状通常为大多数患者所耐受，该反应的发生率与药物剂量无明显相关性，其次为局部注射反应，上述两种不良反应会随着治疗时间的延长而减轻。虽然部分患者胰腺酶学指标可有所升高，但胰腺炎、胰腺肿瘤发生率低，其它严重不良反应事件如重度低血糖反应及甲状腺肿瘤发生率同样极低。
+
+DURATION-1研究中皮下注射艾塞那肽长效注射液后恶心及局部瘙痒不适在30周以前发生率分别为$8 4 . 6 \% . 5 1 . 0 \%$ ，而30周以后分别降至 $8 . 0 \% . 1 . 6 \%$ ,严重不良反应事件发生率为 $3 . 2 7 \%$ ，分别为胰腺癌1例、胰腺炎1例、急性肾功能损害3例，无重度低血糖及甲状腺肿瘤事件发生[13]。Nauck[14]报道在Harmony 2研究中阿必鲁肽 $3 0 . 5 0 ~ \mathrm { m g }$ 及安慰剂组胃肠道反应发生率基本相同,且低于艾塞那肽及利拉鲁肽,其它研究中同样存在类似现象，目前考虑其可能原因为阿必鲁肽相对分子质量较大，很难通过血脑屏障，从而对呕吐中枢及下丘脑摄食中枢的作用减弱;另一方面可能受到血药浓度达峰时间的影响,阿必鲁肽血药浓度达峰时间为3\~4d,而艾塞那肽及利拉鲁肽为数小时，但具体机制尚待进一步研究。此外，该研究中低血糖反应发生率低，仅阿必鲁肽 $3 0 ~ \mathrm { m g }$ 组发生了1例轻度低血糖反应事件，并无与研究药物相关的胰腺炎、胰腺肿瘤、甲状腺肿瘤及重度低血糖等严重不良反应事件的报道[14]。类似Harmony 2研究,Award-3研究中杜拉糖肽 $1 . 5 . 0 . 7 5 \mathrm { m g }$ 及二甲双胍组恶心发生率基本相等，无重度低血糖事件发生，而在统计超出胰腺酶学指标参考值上限时发现杜拉糖肽组较二甲双胍组发生率高，差异具有显著性，但3组均无胰腺炎和胰腺肿瘤的发生，整个研究期间降钙素浓度基本不变，无甲状腺肿瘤病例的报道[15]
+
+综上所述，长效GLP-1RA在控制糖尿病患者血糖、降低体质量方面具有优势，且安全性较高。早期糖尿病患者可选用长效GLP-1RA单药治疗，因恶心不适为GLP-1RA类药物的常见胃肠道反应，该反应也可导致部分患者停药，故阿必鲁肽胃肠道反应发生率低在一定程度上能够提高患者的依从性，从这一方面来讲，该药有望成为长效GLP-1RA中的首选，发展前景较好。
+
+# 3长效GLP-1受体激动剂与基础胰岛素疗效和安全性的比较
+
+长效GLP-1RA单药治疗能给糖尿病患者带来明显获益，它是否能替代基础胰岛素的临床疗效吸引了众多研究者的目光。与基础胰岛素相比，长效GLP-1RA可明显改善患者体质量，更有效控制餐后血糖,而在降低HbA1c方面各个研究结果尚不一致，可能与研究方案差异有关，但大多数研究提示长效GLP-1RA降低HbA1c的能力较基础胰岛素高。
+
+DURATION-3研究对比了艾塞那肽长效注射液和甘精胰岛素的临床疗效，该研究长达3年，艾塞那肽长效注射液组HbA1c较甘精组明显下降(艾塞那肽长效注射液组 $1 . 0 1 \%$ vs甘精组 $0 . 8 1 \%$ )，且艾塞那肽长效注射液组HbA1c达标率( $< 7 \%$ )高，两组分别为 $4 8 \%$ 、$3 8 \%$ 。而甘精胰岛素组FPG明显下降(1.73mmol/Lvs$2 . 6 5 \mathrm { m m o l / L }$ )，提示艾塞那肽长效注射液降低餐后血糖的能力较基础胰岛素高；其次艾塞那肽长效注射液组体质量明显改善[16]。Award系列研究观察了杜拉糖肽的临床疗效，其中的Award-2、Award-4研究分别是在口服1\~3种降糖药治疗血糖控制不佳的患者中以及应用赖脯胰岛素的背景基础上对比杜拉糖肽 $1 . 5 \mathrm { m g } . 0 . 7 5 \mathrm { m g }$ 甘精胰岛素的疗效性与安全性，同样上述两项研究均提示杜拉糖肽组在降低HbA1c、体质量方面较甘精胰岛素组好,而对FPG的控制次于甘精组[17-18]。不同于前3项研究，Harmony4研究中甘精组HbA1c下降幅度更高，该研究则是以2：1的比例将使用二甲双胍 $\pm$ 磺脲类药物血糖控制不佳的患者分别随机到阿必鲁肽组和甘精组，可根据血糖水平调整药物剂量和种类，第52周阿必鲁肽及甘精胰岛素平均用量分别为 $4 3 . 4 \mathrm { m g } , 3 0 \mu \mathrm { m }$ 而与前3项研究一致的是甘精组降低FPG效果较好、阿必鲁肽可显著改善患者体质量[19]。
+
+同前述单药治疗，长效GLP-1RA最主要的不良反应仍为胃肠道反应，而严重不良反应事件发生率低，与基础胰岛素相比，不会增加低血糖反应的发生率。
+
+DURATION-3研究中甘精组低血糖反应的发生率约为艾塞纳肽组3倍[16]。Giorgino[17]报道在Award-2研究中杜拉糖肽组低血糖反应事件发生率较甘精组低。同样在Harmony4研究中，阿必鲁肽组低血糖发生率较甘精组低[19]。
+
+综上所述，多个研究表明长效GLP-1RA在降低HbA1c、餐后血糖、改善体质量方面较基础胰岛素好，而降低FPG的能力不及基础胰岛素；另一方面，此类药物低血糖及严重不良反应事件发生率低，可替代基础胰岛素治疗糖尿病，为血糖控制不佳需要胰岛素治疗者提供了一条新途径。
+
+# 4长效GLP-1受体激动剂与餐时胰岛素疗效和安全性的比较
+
+长效GLP-1RA每周注射1次，在替代基础胰岛素后极大减轻了糖尿病患者的注射痛苦，针对其能否替代餐时胰岛素治疗正成为研究中的另一关注热点，其中Harmony6研究则进行了大胆尝试，该研究是在使用甘精胰岛素的基础上对比阿必鲁肽和赖脯胰岛素的临床疗效，阿必鲁肽起始用量为 $3 0 ~ \mathrm { m g }$ ,可根据HbA1c将其调整至 $5 0 \mathrm { m g }$ ，甘精胰岛素及赖脯胰岛素起始剂量可根据患者血糖而定，维持其 $\mathrm { F P G } { < } 5 . 6 \ \mathrm { m m o l / L }$ ，餐前血糖
+
+$4 . 4 { \sim } 7 . 2 \ \mathrm { m m o l / L }$ ，餐后 $2 \mathrm { h }$ 血糖 ${ < } 1 0 . 0 \ \mathrm { m m o l / L }$ ；在第26周发现阿必鲁肽组在降低HbA1C及FPG方面均优于赖脯组;对于不良反应，阿必鲁肽组仍主要表现为胃肠道反应及局部注射反应，赖脯组低血糖反应发生率为阿必鲁肽组的2倍，且该组有2例重度低血糖反应病例的报道,但未出现与研究药物相关的其它严重不良反应[20]该研究表明阿必鲁肽降低HbA1C及FPG能力较赖脯胰岛素好，长效GLP-1用于替代餐时胰岛素治疗糖尿病成为可能，但需要指出的是此类研究相对较少，尚需大量临床研究以进一步证实。
+
+# 5总结
+
+目前长效GLP-1RA主要通过结构改造延长其半衰期，每周1次皮下注射，极大提高了糖尿病患者的依从性，减轻了其痛苦，无论单一疗法还是替代胰岛素治疗在降低HbA1c、减轻患者体质量方面均具有较好疗效，且低血糖及严重不良反应事件发生率低。更长半衰期及可口服的长效GLP-1RA制剂是未来发展方向之一，但长效GLP-1RA在治疗糖尿病的同时也会带来胃肠道及局部注射等不良反应，在一定程度上限制了此类药物在部分患者中的应用。因此针对如何降低长效GLP-1RA的不良反应发生率是未来开发中需要考虑的问题。此外，尽管短期研究提示长效GLP-1RA使用者中胰腺炎、胰腺肿瘤和甲状腺肿瘤的发生率极低,但仍需大量上市后研究随访其长期安全性。对相信随着研究的深入，更多作用时间长，治疗效果好、毒副作用低及顺应性好的新型长效GLP-1RA降糖药物将不断出现。
+
+# 参考文献：
+
+[1］宁光.肥胖与2型糖尿病的流行趋势及其深远影响[J].内科理论与 实践ISTIC,2012,7(3):149-51.   
+[2]Xu Y,Wang LM,He J,et al.Prevalence and control of diabetes in Chinese adults[J]. JAMA,2013,310(9): 948-58.   
+[3]Roglic G,Unwin N,Bennett PH,et al. The burden of mortality attributable to diabetes-realistic estimates for the year 2OOO [J]. Diabetes Care,2005,28(9):2130-5.   
+[4]陈 玉,周 玲,徐耀初,等.2型糖尿病与遗传和环境因素相互关系的 研究[J].中华预防医学杂志,2002,36(3):191-4.   
+[5]邓吉容,唐兰,李革,等.肥胖是发生糖尿病的危险因素[J].重庆医 学,2006,35(10):886-9.   
+[6]郭立新.2型糖尿病传统降糖治疗的问题与挑战[J].药品评价,2014, 11(15): 27-31.   
+[7]Holst J. The physiology of glucagon-like peptide 1[J].Physiol Rev,2007,87(4):1409-39.   
+[8]Deng WQ,Qiu S,Yang GY,et al. Exenatide once-weekly injection for the treatment of type 2 diabetes in Chinese patients:current perspectives[J].Ther Clin Risk Manag,2015,11(3):1153-62.   
+[9]Kim W1.Egan JM.the role of incretions in glucose homeostasis and diabetes treatment[J].Pharmacol Rev,2008,60(4): 470-512.   
+[10]Bydureon package insert.Available at http://www.azpicentral.com/ bydureon/pi_bydureon.pdfpage $\scriptstyle : = 1$ [Last accessed:Dec 28th,2015].   
+[11]Tanzeum package insert.Available at https://gsksource.com/pharma/ content/dam/GlaxoSmithKline/US/en/Prescribing_Information/ Tanzeum/pdf/TANZEUM-PI-MG-IFU-COMBINED.PDF[Last accessed:Dec 28th,2015].   
+[12]Trulicity package insert.Available at http://pi.lilly.com/us/trulicityuspi.pdf[Last accessed:Dec 28th,2015].   
+[13]Wysham CH,Macconell LA,Maggs DG,et al. Five-Year efficacy and safety data of exenatide once weekly:long-term results from the DURATION-1 randomized clinical trial[J].Mayo Clinic Proceedings,2015,90(3): 356-65.   
+[14]Nauck MA,Stewart MW,Perkins C,et al.Efficacy and safety of once-weekly GLP-1 receptor agonist albiglutide(HARMONY 2):52 weekprimaryendpoint resultsfroma randomised,placebocontrolled trial inpatientswith type 2 diabetesmellitus inadequately controlled with diet and exercise [J].Diabetologia, 2016,59(2): 266-74.   
+[15]Umpierrez G,Tofé PS,Pérez MF,et al.Efficacy and safety of dulaglutide monotherapy versus metformin in type 2 diabetes in a randomized controlled trial (AWARD-3)[J].Diabetes Care,2014,37 (8): 2168-76.   
+[16]Diamant M,Van Gaal L,Guerci B,et al. Exenatide once weekly versus insulin glargine for type 2 diabetes (DURATION-3):3-year results of an open-label randomised trial[J].The Lancet Diabetes & Endocrinology,2014,2(6): 464-73.   
+[17] Giorgino F,Benroubi M, Sun JH,et al.Efficacy and safety of once-weekly dulaglutideversus insulin glargine in patients with type 2 diabetes on metformin and glimepiride(AWARD-2）[J]. Diabetes Care,2015,38(12):2241-9.   
+[18]Blonde L, Jendle J,Gross J,et al. Once-weekly dulaglutide versus bedtime insulin glargine,both in combination with prandial insulin lispro,in patients with type 2 diabetes (AWARD-4):a randomised, open-label,phase 3,non-inferiority study[J].Lancet,2O15,385 (9982): 2057-66.   
+[19]Weissman PN,Carr MC,Ye JE,et al.HARMONY 4:randomised clinical trial comparing once-weekly albiglutide and insulin glargine in patients with type 2 diabetes inadequately controlled with metformin with or without sulfonylurea[J].Diabetologia, 2014,57(12): 2475-84.   
+[20]Rosenstock J,Fonseca VA,Gross JL,et al.Advancing basal insulin replacement in type 2 diabetes inadequately controlled with insulin glargine plus oral agents:a comparison of adding albiglutide,a weekly GLP-1 receptor agonist,versus Thrice-Daily prandial insulin lispro[J].Diabetes Care,2014,37(8):2317-25.
+
+# (上接415页）
+
+[2]王秀琴,姜彩凤.Morse跌倒评估量表在脑卒中患者康复护理中的应用效果[J].解放军护理杂志,2014,31(14):57-8,68.  
+[3]徐建鸣.预防住院患者跌倒的最新实证[J].实用护理杂志,2007,17(7):38-40.  
+[4]Yoo IY. Recurrent falls among community-dwelling older Koreans:prevalence and multivariate risk factors[J].JGerontol Nurs,2011,37(9):28-40.  
+[5］王苏娜.香港医院预防住院患者跌倒的方法[J].中华护理杂志,2003,38(5): 397-8.  
+[6]方凯,瞿杭炯,张玲娣.轻型脑梗死患者早期神经功能恶化的危险因素研究[J].现代实用医学,2013,25(5):504-5,539.  
+[7]Morse JM,Black C, Oberle K,et al.A prospective study to identifythe fall-prone patient[J]. Soc Sci Med,1989,28(1): 81-6.  
+[8] Chow SK,Lai CK,Wong TK,et al.Evaluation of the morse fallscale:applicability in Chinese hospital populations[J].Int J NursStud,2007,44(4): 556-65.  
+[9]Berg KO,Wood DS,Williams JT,et al.Measuring balance in theelderly:preliminary development of an instrument [J].PhysiotherCan,1989,41(5): 304-11.  
+[10]瓮长水,王军,王刚,等.Berg平衡量表在脑卒中患者中的内在信度和同时效度[J].中国康复医学杂志,2007,22(8):688-90,717.  
+[11]Cassel CK,Leipzig RM,Cohen HJ,et al.Geriatric medicine:anevidence-based approach [M]. 4th ed.NewYork:springer,2003:979-94.  
+[12]李丽萍，王金宇.Morse跌倒评估量表与Berg平衡量表在老年患者跌倒风险管理中的应用体会[J].中国实用医药，2013,8(18)：219-20.  
+[13]廖长青，任会.Morse跌倒评估量表在老年住院病房的应用[J].中国民康医学，2012,24(6):712-8.  
+[14]江桂素.患者跌倒原因分析与对策[J].中国实用护理杂志,2007,23(18): 59-60.  
+[15」周君桂,李亚洁,范建中.Morse跌倒评估量表中文版在我国住院老年患者中的信度及效度研究[J].中国康复医学杂志,2012,27(3):244-7,284.  
+[16]杨洁.Morse跌倒评估量表在临床护理中的应用[J].全科护理，2012,10(25):2318-9.  
+[17]周君桂,范建中.Morse跌倒评估量表与Berg平衡量表应用于老年患者预测跌倒风险的效果分析[J].中国康复医学杂志,2012,27(2):130-3.

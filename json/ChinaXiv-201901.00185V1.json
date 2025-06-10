@@ -1,0 +1,782 @@
+[
+    {
+        "type": "text",
+        "text": "基于平滑 $\\boldsymbol { L } _ { 1 }$ 范数的深度稀疏自动编码器社区识别算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张军祥，李书琴，刘斌(西北农林科技大学 信息工程学院，陕西 杨凌 712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：大数据时代，利用传统的社区发现算法对大规模复杂网络进行社区结构挖掘显得愈发困难，准确率也较低。因此,提出一种基于平滑 $L _ { 1 }$ 范数的深度稀疏自编码器社区发现算法 $L _ { 1 }$ -ECDA (community discovery algorithm for deepsparse self-encoder based on smooth $L _ { 1 }$ norm)。该算法首先采用基于s跳的方法对网络图的邻接矩阵进行预处理；然后构建基于平滑 $L _ { 1 }$ 范数的深度稀疏自编码器，并通过训练网络图相似度矩阵得到低维特征矩阵；最后采用K-means算法对低维特征矩阵进行聚类得到网络社区结构。通过在仿真网络与真实网络数据集上实验表明， $L _ { \\mathrm { 1 } }$ -ECDA算法有效提高了社区识别的准确率，且比DBCS算法准确率平均高 $4 \\%$ ，比Deepwalk算法和CoDDA算法平均高 $5 . 4 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：深度学习；社区识别；稀疏自编码器；平滑 $L _ { 1 }$ 范数 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.09.0743 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sparse AutoEncoder community recognition algorithm based on smoothed $L _ { 1 }$ norm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Junxiang,Li Shuqin†,Liu Bin (College ofInformation Engineering,NorthwestA&F University,Yangling Shanxi 7121oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Intheageofbigdata,itis increasinglydifficultto makethecommunitystructure miningoflarge-scalecomplex networksbyusing the traditionalcommunitydiscoveryalgorithmand theaccuracyrate islow.Therefore,this research come up with $L _ { 1 }$ -ECDA，a community discovery algorithm for deep sparse self-encoder based on smooth $L _ { 1 }$ norm. This algorithm preprocessed the adjacency matrix of the network diagram withthe method based ons Jump; then it established the deep sparse self-encoder based on smooth $L _ { \\mathrm { 1 } }$ norm and get the low dimensional characteristic matrix by training the similaritymatrixofthe network graph;Finally,itgetthenetwork communitystructurebyclustering thelow-dimensional feature matrix through the K-means algorithm.Experiments on simulated network andreal network data setshow that the algorithm of $L _ { 1 }$ -ECDA improves the accuracy of community recognition effectively. Its accuracy rate is $4 \\%$ higher than the DBCS algorithm on average, and $5 . 4 \\%$ higher than Deepwalk algorithm and CoDDA algorithm on average. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: deep learning; community recognition; sparse self-encoder; smoothing $L _ { 1 }$ norm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "复杂网络由大规模用户个体及用户之间的复杂关系所构成，社区结构作为复杂网络的重要特征之一，往往社区内部节点之间的连接相对稠密，社区之间节点的连接相对比较稀疏[12]。现实世界中诸多网络都呈现出社区结构，比如高校学生由于兴趣差异而构成不同的社团关系网络、知网中学者之间通过论文引用形成关系网、电商网站中客户购买商品形成交易网等。近年来，社区发现研究引起了学术界相关学者的高度重视，在社会学、计算机科学等众多领域获得了极大关注与深入研究[3]。社区发现对复杂网络中节点内部关联、个性化推荐、舆情分析及信息传播具有重要研究意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，整个互联网发展进入大数据时代，伴随着整个网络用户数量呈爆炸性增长，网络节点剧增，节点之间的关系越发复杂。比如，腾讯、阿里巴巴等用户规模早已超过10亿，Facebook每月的活跃用户数量超过13亿。因此，对大规模复杂网络社区结构进行挖掘，分析用户之间的关联关系，发现用户的行为规律，可以为广告投放、精准营销、个性化推荐及舆论控制等提供辅助决策支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而传统社区检测算法对于节点数量动辄上百万，节点之间关系错综复杂的大规模复杂网络进行社区结构挖掘准确率往往较低。因此提出一种更加准确、新型的大规模网络社区识别算法成了亟需解决的问题。从提高社区识别的准确率出发，本文提出基于平滑 $L _ { 1 }$ 范数的深度稀疏自动编码社区检测算法 $L _ { 1 }$ -ECDA。该算法通过对网络高维相似度矩阵进行降维，将得到的低维特征矩阵进行聚类分析，从而得到更加准确的网络社区结构。 $L _ { \\mathrm { 1 } }$ -ECDA算法流程如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/78398711c744e6d90df7078d599c51222700f5c67d645b802e34d2ad362be67d.jpg",
+        "img_caption": [
+            "图1 $L _ { 1 }$ -ECDA算法流程",
+            "Fig.1 （20 $L _ { 1 }$ -ECDAalgorithm flow chart "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文主要贡献如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a）利用基于 $s$ 跳数方法对网络节点的邻接矩阵进行预处理，处理后的矩阵既能反映网络拓扑结构中直接相连节点之间的相似性，又能反映不直接相连节点间的相似关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b）提出基于平滑 $L _ { 1 }$ 范数的深度稀疏自动编码器学习方法，提取相似度矩阵的特征表示，得到的低维特征矩阵对网络拓扑结构中的社区结构具有更好的表达能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）通过在仿真数据集，Stanford大学网络数据集及小规模数据集上实验表明，本文提出的 $L _ { 1 }$ -ECDA算法可以得到更加准确的网络社区结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1社区发现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设大规模网络图 $G = G ( V , E )$ ，社区发现根据网络结构中的连接关系，将全部节点聚合成一系列子结构，即社区[4]。同一社区内节点之间的连接相对紧密，而不同社区之间的连接相对稀疏[1]。当前，经典的社区发现算法可以分为模块度优化法、标签传播法、图分割法与图嵌入法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于模块度优化算法主要思想是将社区发现问题转换为数学优化问题，通过将模块度定义为评价社区挖掘质量好坏的指标，对比模块度数值来得到最佳的社区划分结构。常见的算法有GN 算法[5]、AGSO 算法[6]、Louvain[7]算法等。Louvain算法将模块度优化与层次聚类相结合，使得算法的计算速度更快；同时，社区划分结果准确性也得到了提高。基于标签传播方法是一种启发式社区划分算法，其基本思想是根据已标记节点的标签信息去预测未标记节点的标签信息。典型的标签传播算法有LPPB算法[8]、MCPLP算法[9]、COPRA算法[10]、MMLP算法[1I]。MCPLP算法首先计算未标记样本到标记样本间的最小代价路径，然后根据标记沿着节点间代价的最小路径传播来实现社区划分。He等人[I2]结合网络链路信息与标签信息，提出了一种基于多视图非负矩阵分解模型的社区发现算法，获得了较高质量的社区结构。基于图分割的社区发现算法是将图分割为两个子图，然后不断迭代，最后得出要求的子图数。Dilanni等人[13]在考虑节点对之间互连量的情况下，引入min-max社区的概念，用于建模高度连接的节点集。Zeng等人[14]在图分割理论基础上，研究了网络结构与并行聚类有效性之间的关系，提出了一种分布于内存机器上的并行社区发现算法。基于图嵌入方法是先对矩阵进行降维，再聚类得到社区结果。典型算法有DeepWalk[15]、LE[16]、GraRep[17]。DeepWalk[15]算法根据随机漫步模型生成子网络，再利用skip-gram 模型计算出网络图矩阵，通过聚类得到社区。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 自动编码器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自动编码器(auto encoder,AE)[18]是神经网络的一种，其具有三层神经网络结构，即输入层、隐藏层及输出层。AE通过将神经网络的隐藏层当做一个编码器与解码器，输入数据经过隐藏层后，到达输出层，利用反向传播算法来训练网络使得输入等于输出。其结构如图2所示，形象表示如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/08b738b28d39f771587ec75d13e577925e97a418b511ddc1e88cb129f8ec3773.jpg",
+        "img_caption": [
+            "图2自动编码器结构",
+            "Fig.2Automatic encoder structure diagram ",
+            "Fig.3Automatic encoder image representation diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaa1c405d539d68430d86aa7841d5e36a6028ceb9c91af9348e820137e477cb7.jpg",
+        "img_caption": [
+            "图3自动编码器形象表示图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稀疏自动编码器（sparse Auto-Encoder,SAE）[18]是自编码器的一种，它是在自动编码器隐藏层神经元添加稀疏性限制条件而产生的一种衍生自编码器，能够在恶劣环境下学习到最好表达样本的特征，有效对数据样本进行降维。常见的数据降维方法有线性降维与非线性降维。线性降维在处理具有线性结构和高斯分布特征的高维数据时具有非常好的降维效果，但当数据集复杂且是非线性结构时，采用该类方法的效果往往不理想[19]。非线性降维方法在一定程度上存在短路边与领域参数的选择问题，同时在数据拓扑空间不稳定的情况下，容易受到噪声干扰。因此，需要借助其他技术来改进数据降维中存在的缺陷。本文采用深度学习中的稀疏自编码器进行数据降维处理，通过在自编码器基础上加入约束条件，使得自编码器每次迭代得到的表达数据尽量稀疏，从而通过少量的特征来表达输入数据，达到数据降维的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于网络图 $G = \\left( V , E \\right)$ ,其中 $V = \\{ \\ \\nu _ { 1 } , \\nu _ { 2 } , \\cdots , \\nu _ { n } \\ .$ 表示网络中节点的集合， $E = \\{ \\ e _ { 1 } , e _ { 2 } , \\cdots , e _ { m } \\ \\} $ 为边的集合。节点之间的连接关系用邻接矩阵表示为 $A d j = \\left[ \\omega _ { i j } \\right] _ { n \\times n }$ ， $\\omega _ { i j }$ 取值为1或0,若 $\\omega _ { i j } = 1$ ，则表示节点 $\\nu _ { i }  \\nu _ { j }$ 之间存在连接关系，否则表示两节点之间不直接相连。若直接用邻接矩阵Adi来描述网络中节点之间的相似性关系，显然不全面，事实上网络图中不直接相连的节点也会存在一定的相似关系，仅仅使用邻接矩阵刻画网络图中节点的相似关系，显然会影响社区检测的质量。为了能够更加全面、真实地刻画网络图中节点之间的相似性关系，本文利用基于跳数的方法，对节点的邻接矩阵重新进行计算，得到节点新的邻接矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1跳数s。设网络图 $G = \\left( V , E \\right)$ ，对于节点 $\\nu , u \\in V$ ，若节点 $\\nu$ 到节点 $u$ 的最短路径为 $s$ ,则称节点 $\\nu$ 可以经过 $s$ 跳到达节点 $u$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2节点相似度。对于网络 $G = \\left( V , E \\right)$ ，其中 $\\nu _ { \\textrm { , } u \\in V }$ ，则节点 $\\nu$ 与 $\\boldsymbol { u }$ 之间的相似度 $\\sin ( \\nu _ { \\mathrm { ~ , ~ } } u )$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } ( { \\nu } , u ) { = } e ^ { \\sigma ( 1 - s ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s \\geq 1$ ，随着跳数 $s$ 的增加，节点之间的相似度呈现先递增后减少趋势； $\\sigma$ 为衰减因子， $\\sigma \\in ( 0 , 1 )$ ，它控制着节点相似度的衰减程度， $\\sigma$ 越大，则衰减越快。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3网络相似度矩阵。对于网络图 $G = \\left( V , E \\right)$ ，则定义图 $G$ 对应的相似度矩阵为 $\\boldsymbol { X } = \\left[ x _ { i j } \\right] _ { n \\times n }$ ,其中 $x _ { i j } = { S i m } ( \\nu _ { i } , \\nu _ { j } ) =$ $e ^ { \\sigma ( 1 - s ) }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据预处理过程如算法1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法1：计算跳数集合、网络图相似度矩阵",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入：复杂网络图 $G = \\left( V , E \\right)$ 的邻接矩阵 $A d j \\in R ^ { n \\times n }$ ,跳数阈值s,衰减因子 $\\sigma$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出：相似度矩阵 $\\boldsymbol { \\cal X }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 for each $\\textbf { x }$ in $V$ ; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 初始化图 $G$ 中所有的节点状态为未访问状态；3 分别初始化跳数集合 $H o p = \\mathbf { N U L L }$ ；队列 $Q u e u e = \\mathbf { N U L L }$ ·4 将 $\\textbf { \\em x }$ 设置为访问中状态，初始化 $\\textbf { x }$ 的跳数为0，并将  \n$\\textbf { x }$ 和跳数s,写入集合Hop 中，并将 $\\textbf { x }$ 加入队列Queue；5 while Q $u e u e \\neq \\mathbf { N U L L }$ ;6 从队列Queue中取出网络节点 $\\boldsymbol { u }$ ·7 for each $\\nu$ in $N \\left( u \\right)$ 8 if $u$ 在 $\\textbf { x }$ 的(s-1)跳内且 $\\nu$ 处于未访问状态;9 将 $\\nu$ 设置为访问状态，同时将 $\\textbf { x }$ 到 $\\nu$ 的跳数等于 $\\textbf { x }$   \n到 $\\boldsymbol { u }$ 的跳数加1;10 将 $\\nu$ 及 $\\textbf { x }$ 到 $\\nu$ 的跳数写入跳数集合 $H o p$ ,并将 $\\nu$ 加  \n入队列Queue；11 end12 end13将 $\\boldsymbol { u }$ 标记为访问结束状态;14 end15 for each $\\nu$ in $V$ ：16根据跳数集合Hop 及式(1)计算 $\\textbf { x }$ 和 $\\nu$ 的相似度 Sim  \n$( \\mathrm {  ~ x ~ } , \\mathrm {  ~ \\nu ~ } )$ 17 end18end19 Return 基于跳数的相似度矩阵 $\\boldsymbol { \\cal X }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在算法1中，先计算出跳数集合 $H o p$ ，再根据式(1)计算出网络图的相似度矩阵 $X$ 。从第5行到第16行，对网络图 $G$ 中的每个节点 $\\textbf { \\em x }$ ，使用BFS广度优先遍历算法找到节点 $\\textbf { x }$ 在$s$ 跳内能达到的节点 $\\nu$ ,将 $\\nu$ ， $\\textbf { x }$ 与 $\\nu$ 之间的跳数写进集合 $H o p$ 5从15行到17行，计算 $\\textbf { x }$ 与点集 $\\boldsymbol { V }$ 内其他节点的相似度，若 $\\nu$ 在Hop 内，则使用式(1)计算 $S i m ( \\textbf { x } , \\nu _ { \\mathbf { \\lambda } } )$ ，否则 $S i m ( \\mathrm {  ~ x ~ } , \\nu \\mathrm {  ~ ) = 0 \\mathrm { _ c } }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 特征提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本章将介绍 $L _ { \\mathrm { 1 } }$ -ECDA算法进行特征提取的详细过程。首先介绍稀疏惩罚函数平滑 $L _ { 1 }$ 范数；然后讲述构建基于平滑 $L _ { 1 }$ 范数的深度稀疏自动编码器的过程，对预处理后的相似度矩阵X进行特征提取，并通过聚类得到社区挖掘结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1平滑 $L _ { \\mathrm { 1 } }$ 范数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了能够更好地提取出高维数据中的低维特征值，往往使用稀疏惩罚函数对隐藏层的输出值加上某种稀疏性约束，从而实现为输入数据学习到稀疏表示。通常引入KL散度作为自动编码器中稀疏性的表示，其公式如式(2)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\left( t \\right) = \\rho \\log \\frac { \\rho } { t } + ( 1 - \\rho ) \\log \\frac { 1 - \\rho } { 1 - \\mathrm t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： 表示稀疏自编码器模型中第j个隐藏层单元在 $m$ 个训练模型样本中的平均输出值； $a _ { j } ^ { ( i ) }$ 为第 $i$ 个样本的第$j$ 个隐藏层单元的输出值；超参数 $\\rho > 0$ ，表示稀疏级别， $\\rho$ 值越小则表示越稀疏。结合KL散度函数，得到稀疏编码器的目标函数如式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { w , b } \\frac { 1 } { m } \\sum _ { i = 1 } ^ { m } \\frac { 1 } { 2 } h _ { w , b } \\left( x ^ { i } \\right) - x ^ { ( i ) } { } _ { 2 } ^ { 2 } + \\beta \\sum _ { j = 1 } ^ { h s } S \\left( \\frac { 1 } { m } \\sum _ { j = 1 } ^ { m } a _ { j } ^ { ( i ) } \\right) + \\frac { \\lambda } { 2 } W _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $h s$ 表示稀疏编码器模型中隐藏层单元的个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然采用KL散度作为稀疏惩罚函数取得了不错的效果，但是根据稀疏理论， $L _ { 1 }$ 范数能够诱导出更好的稀疏性[20\\~22],且已经广泛应用于机器学习与压缩感知领域[21]。但是并没有相关研究者使用 $L _ { \\mathrm { 1 } }$ 范数作为自编码器的稀疏性表示，来实现网络社区的检测研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "学术研究过程中，之所以很少有研究学者使用 $L _ { 1 }$ 范数作为自编码器的稀疏项，其重要的因素是 $L _ { 1 }$ 范数在完整区间上是一个不可导函数，即在零点不可导，该缺陷给神经网络的优化带来了一定的挑战。针对此问题，本文对 $L _ { 1 }$ 范数使用“inf-conv”平滑技术来解决此问题，从而替换 $L _ { 1 }$ 范数作为自编码器模型的稀疏项。Abernethy 等人[23]提出一种称为“inf-conv”的平滑技术， $L _ { 1 }$ 范数作为不可微凸函数，能够很好地满足该平滑技术的条件。当“inf-conv”平滑技术的输入函数为 $L _ { 1 }$ 范数时，平滑 $L _ { 1 }$ 范数如式(4)所示。在式(4)中， $L _ { 1 }$ 范数与平滑 $L _ { 1 }$ 范数之间的相似度由超参数 $\\mu$ 控制，若 $\\mu > 0$ 且取值越小，两者之间越相似。显然，引进平滑 $L _ { 1 }$ 范数实质就是在零点附近将不可导的 $L _ { 1 }$ 范数替换为 $L _ { 2 }$ 范数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，若直接将KL散度式(3)更改为式(4)并作为稀疏自编码器的稀疏惩罚函数，则会出现一些问题，因为在稀",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\mu } \\left( t \\right) = \\left\\{ \\begin{array} { c c } { \\displaystyle { \\frac { t ^ { 2 } } { 2 \\mu } \\qquad } } & { \\displaystyle { \\left| t \\right| \\leq \\mu } } \\\\ { \\displaystyle { \\left| t \\right| - \\frac { \\mu } { 2 } \\qquad } } & { \\displaystyle { \\left| t \\right| > \\mu } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "疏自动编码器中，常常选用simoid函数作为编码器的激活函数，其中 $\\mathrm { s i m o i d } ( \\mathrm { x } ) { = } 1 / 1 + \\exp ( - x )$ ,该函数在定义域内皆满足simoid $\\vert ( \\mathbf { x } ) \\in ( 0 , 1 )$ 。即此时 $A E$ 中任意隐藏层的输出单元的输出值 $a _ { j } ^ { ( i ) }$ 均满足 $a _ { j } ^ { ( i ) } \\in \\left( 0 , 1 \\right)$ ,进而导致惩罚函数的自变量 $\\textit { t }$ 满足$t \\in \\left( 0 , 1 \\right)$ 。在该范围内，对 $L _ { 1 }$ 范数进行平滑是没有意义的，因为 $L _ { 1 }$ 范数函数在该定义域范围内是可导的。但由式(2)可知，引入稀疏级别参数 $\\rho$ 为稀疏惩罚函数带来了更大的可调性。基于此，本文将平滑 $L _ { \\mathrm { 1 } }$ 范数式(4)向右平滑 $\\lambda$ 个单位来克服上述“平滑无意义”的缺陷，且该做法可以在一定程度上提升平滑 $L _ { 1 }$ 范数在使用时的灵活度。因此，使用式(5)替换KL散度来作为稀疏自动编码器的稀疏惩罚函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\left( t \\right) = f \\left( x \\right) = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { \\left( t - \\gamma \\right) ^ { 2 } } { 2 \\mu } } & { \\displaystyle \\left| t - \\gamma \\right| \\leq \\mu } \\\\ { \\displaystyle \\left| t - \\gamma \\right| - \\displaystyle \\frac { \\mu } { 2 } } & { \\displaystyle \\left| t - \\gamma \\right| > \\mu } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：为了保证平滑 $L _ { 1 }$ 范数的有效性，需要界定超参数 $\\gamma$ 和 $\\vert \\mu$ 的取值范围，通常情况下， $0 \\leq \\gamma \\leq 1$ ，因为／是控制稀疏级别的，若》在非定义域内取值，则针对 $L _ { 1 }$ 范数进行平滑操作是没有意义的；而参数 $\\mu$ 的取值为 $0 < \\mu \\leq m a x \\left\\{ \\gamma , 1 - \\gamma \\right\\}$ ，设置 $0 < \\mu$ 是由于 $\\mu$ 控制着 $L _ { 1 }$ 范数与平滑 $L _ { \\mathrm { 1 } }$ 范数之间的相似度，但为了防止平滑 $L _ { 1 }$ 范数在社区检测时退化为 $L _ { 2 }$ 范数，则要求$\\mu \\leq m a x \\{ \\gamma , 1 - \\gamma \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2构建基于平滑 $L _ { \\mathrm { 1 } }$ 范数的深度稀疏自动编码器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在图2中，从输入层到隐藏层则对应于图3中的编码(encode)过程。当给定网络图 $G$ 的相似度矩阵 $\\boldsymbol { X } = \\left[ x _ { i j } \\right] _ { n \\times n }$ ,输入其中一个节点在 $G$ 中对应的向量 $\\boldsymbol { x } _ { i } \\in R ^ { n }$ 后，经过编码后，输出该节点对应的低维特征向量 $h _ { i } \\in R ^ { d }$ 。而从隐藏层到输出层则相当于一个解码的过程，在这个过程中，对低维特征向量 $h _ { i }$ 进行解码，得到输出向量 $x _ { i } ^ { \\prime }$ ，且 $x _ { i } ^ { \\ast }$ 与 $x _ { i }$ 具有相同的维度。在编码与解码的过程中，使用反向传播算法训练网络，调整编码器与解码器中的参数，使得重构误差最小化，从而让输出向量 $x _ { i } ^ { \\prime }$ 与输入向量 $x _ { i }$ 近似相等。而在这个过程中，得到的低维向量 $h _ { i }$ 即作为特征结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在上述网络训练的过程中，假设将 $x _ { i }$ 输入到具有d个神经元的编码层中，经过式(6)后，得到低维向量 $h _ { i } \\in R ^ { d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { i } = s _ { f } \\left( W x _ { i } + p \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { f }$ 为激活函数，常取 $s _ { f } = 1 / 1 + \\exp \\left( - x \\right)$ ； $W \\in R ^ { d \\times n }$ 为权重矩阵； $p \\in R ^ { d \\times 1 }$ 为编码层中的偏置向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将向量 $h _ { i }$ 输入到解码层中，通过式(7)解码后，得到$\\boldsymbol { x } _ { i } ^ { * } \\in R ^ { d \\times 1 }$ 作为输出结果：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { \\prime } = s _ { g } \\left( \\tilde { W } h _ { i } + q \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { g }$ 是解码器中的激活函数； $\\tilde { W } = W ^ { T } \\in R ^ { n \\times d }$ 为权重矩阵;  \n$q \\in R ^ { n \\times 1 }$ 为解码层中的偏置向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在训练的过程中，通过调整自动编码器中权重矩阵与偏置向量四个参数 $\\delta = \\left\\{ W , \\tilde { W } , q , p \\right\\}$ ，则最小化 $\\boldsymbol { x } _ { i } ^ { \\mathrm { ' } }$ 与 $x _ { i }$ 的重构误差为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { W , \\tilde { W } , q , p } m i z e \\sum _ { i = 1 } ^ { n } s _ { g } \\left( \\tilde { W } s _ { f } \\left( W x _ { i } + p \\right) + q \\right) - x _ { i 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于3.1节，现使用式(5)为自动编码器添加稀疏性限制，则构建基于平滑 $L _ { 1 }$ 范数的稀疏自动编码器的重构误差如式(9)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( \\delta ) = \\sum _ { i = 1 } ^ { n } s _ { g } \\left( \\tilde { W } s _ { f } \\left( W x _ { i } + p \\right) + q \\right) - x _ { i 2 } ^ { 2 } + S \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "构建基于平滑 $L _ { 1 }$ 范数的深度稀疏编码器由多层稀疏自动编码器组成，其结构如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8c42ce3361baa9913ef3030e85dd8d35bf89c14f128f2316b836b6727c4105f.jpg",
+        "img_caption": [
+            "图4深度稀疏自动编码器结构",
+            "Fig.4Deep sparse autoencoder structure diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在训练的过程中，使用逐层贪婪的训练方法，具体的训练过程如下：首先设置编码器的层数 $\\mathbf { \\Omega } _ { M }$ 及每层的节点 $T =$ $\\{ d ^ { ( 1 ) } , d ^ { ( 2 ) } , \\cdots d ^ { ( M ) } \\}$ ,其中 $\\boldsymbol { d } ^ { ( 1 ) } = { \\bf n }$ ,并将给定网络图 $G$ 的相似度矩阵${ \\cal X } ^ { ( 1 ) } \\in { \\cal R } ^ { n \\times n }$ 输入到具有 $d ^ { ( 2 ) }$ 个节点的编码器中，训练后得到编码结果为 ${ X ^ { ( 2 ) } \\in R ^ { n \\times d ^ { ( 2 ) } } }$ ；然后将前一层得到的编码结果 $X ^ { ( 2 ) }$ 输入到具有 $d ^ { ( 3 ) }$ 个节点的编码器中，提取训练后的编码结果$X ^ { ( 3 ) } \\in R ^ { n \\times d ^ { ( 3 ) } }$ ；如此循环，当最后一个自动编码器训练得到的编码结果为 ${ X ^ { ( M ) } \\in R ^ { n \\times d ^ { ( M ) } } }$ 时，循环终止；最后，输出经过循环后得到的低维特征矩阵 $X ^ { ( M ) }$ 。特征提取详细过程见算法2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2：对相似度矩阵 $\\boldsymbol { \\cal X }$ 进行特征提取，再聚类得到社区结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：网络图相似度矩阵 $\\boldsymbol { \\cal X }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输出：社区发现结果 $\\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 X ^ { ( 1 ) } = X$ ：2 for $\\begin{array} { r l } { j } & { { } = 1 } \\end{array}$ to $T$ ;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3构建基于平滑 $L _ { 1 }$ 范数的稀疏编码器；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4输入特征矩阵 $X ^ { ( j ) }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5通过优化式（4\\~8）训练稀疏自动编码器; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6获得隐藏层的表示 $H ^ { ( j ) }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7 （204号 $X ^ { ( j + 1 ) } = H ^ { ( j ) }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 end ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9对低维特征矩阵 $X ^ { ( T ) } \\in R ^ { n \\times d ^ { ( T ) } }$ 进行聚类，得到社区检测结果 $C = \\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10 Return 社区结果 $C = \\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在算法2中，从第1行到第8行是对相似度矩阵 $X$ 进行特征提取。通过循环迭代 $\\mathbf { \\Omega } _ { M }$ 次，每次使用一个稀疏自动编码器从编码层中提取低维特征矩阵 $H ^ { ( j ) }$ ,并使 $X ^ { ( j + 1 ) } = H ^ { ( j ) }$ 作为下一次循环的输入矩阵。最终循环停止，得到低维特征矩阵$X ^ { ( M ) } \\in R ^ { n \\times d ^ { ( M ) } }$ 。第9行使用K-means 算法对低维特征矩阵进行聚类，首先以节点最小关联度原则选取新的聚类中心；然后以最大关联度原则进行模式归类，直到所有节点划分完为止；最后采用模块度优化确定K值，得到结果社区 $C =$ $\\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章中，首先对实验数据集进行简单的描述；然后介绍社区发现准确率的评判指标；最后针对社区发现的准确率、实验参数进行了详细分析，并对小规模数据集进行可视化展示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1数据集描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节采用三种数据集论证 $L _ { 1 }$ -ECDA 算法的有效性：a)利用LFR基准程序随机生成人工模拟大规模复杂网络数据集[24]；b)Stanford大学网络数据分析项目组StanfordNetworkAnalysisProject(SNAP)真实复杂网络数据集(Http://snap.standford.edu/data/index.html)；c)利用典型的小规模真实网络数据集进行可视化展示。表1为实验室数据集详细信息，表2为Epinionsl、NotreDame、Pokec 数据集的深度神经网络结构。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lancichinetti等人[24]提出LFR基准程序是一种用于生成模拟网络的算法。该算法可以用来验证社区检测算法的准确性，具有较高的实用价值。LFR基准程序根据用户输入的参数，生成符合真实网络特征的人工合成网络与对应的社区结构。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c47e53dd9a264667cf56888b9b03f5e006405b7581c57ec1e5ad9e4d6eb4628.jpg",
+        "table_caption": [
+            "表1实验数据集Table 1 Experimental data seta)仿真网络数据集"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">a) Simulationnetwork data set</td></tr><tr><td>名称</td><td>节点</td><td>边</td><td>参数？</td><td>平均度</td></tr><tr><td>L-1W</td><td>10000</td><td>78546</td><td>0.3</td><td>15.71</td></tr><tr><td>L-10W</td><td>100000</td><td>2021456</td><td>0.3</td><td>40.43</td></tr><tr><td>L-50W</td><td>500000</td><td>9845687</td><td>0.3</td><td>39.38</td></tr><tr><td>L-100W</td><td>1000000</td><td>20254864</td><td>0.3</td><td>40.51</td></tr><tr><td colspan=\"5\">b)真实网络数据集 b)Real network data set</td></tr><tr><td>名称</td><td>节点</td><td>边</td><td>平均度</td><td>描述</td></tr><tr><td>Epinionsl</td><td>75879</td><td>508837</td><td>13.41</td><td>Epinions.com</td></tr><tr><td>NotreDame</td><td>325729</td><td>1497134</td><td>9.19</td><td>Notre Dame web</td></tr><tr><td>Pokec</td><td>1632803</td><td>30622564</td><td>37.51</td><td>Pokec 数据集</td></tr><tr><td>com-friendster</td><td>65608366</td><td>1806067135</td><td>55.06</td><td>Friendster-online social-network</td></tr><tr><td colspan=\"5\">c)小规模数据集 c) Small data set</td></tr><tr><td>名称</td><td>节点 边</td><td>平均度</td><td></td><td>描述</td></tr><tr><td>Karate</td><td>34 78</td><td>4.58</td><td></td><td>空手道俱乐部网络</td></tr><tr><td>football</td><td>115 652</td><td>11.33</td><td></td><td>足球队数据集</td></tr><tr><td> jazz</td><td>198 2742</td><td>27.00</td><td>爵士乐音乐家网络</td><td></td></tr><tr><td>facebook</td><td>5000 8194</td><td>3.28</td><td></td><td>Facebook子网络</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c38853f344a670cd3e74bb2e6054fa5fcc98ae0915e81897ffa615702787d061.jpg",
+        "table_caption": [
+            "Table 2 Deep neural network structure "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>每层节点数</td></tr><tr><td>Epinionsl</td><td>75879-61384-30692-16384-8192-4096-2048-1024</td></tr><tr><td>NotreDame</td><td>303516-151758-75879-61384-30692-16384-</td></tr><tr><td rowspan=\"2\">Pokec</td><td>8192-4096-2048-1024</td></tr><tr><td>1632803-1214064-607032-303516-151758- 75879-61384-30692-16384-8192-4096-2048</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2评价指标及对比算法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文用社区发现准确率DA(dedection accuracy)与NMI(normalizedmutualinformation)这两个通用的社区评价标准对社区识别的准确率进行分析。社区发现准确率将查全率与查准率两个信息检索指标相结合，可信度较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义4社区发现准确率DA。将社区发现准确率定义为正确识别社区中节点的个数与网络节点总数的比率，用DA(detectionaccuracy)表示，如式(10)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D A } = \\frac { \\sum _ { i = 1 } ^ { k } m a x \\left\\{ C _ { i } \\cap C _ { j } ^ { * } \\middle | C _ { j } ^ { * } \\in C ^ { \\prime } \\right\\} } { n } , j = 1 , 2 , \\cdots , k\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为网络节点数； $C = \\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ 表示原始的社区集合； $\\mathbf { C } ^ { \\prime } = \\{ C _ { 1 } ^ { \\prime } , C _ { 2 } ^ { \\prime } , \\cdots , C _ { k } ^ { \\prime } \\}$ 表示利用算法检测出来的社区集合；$m a x \\{ C _ { i } \\cap C _ { j } | C _ { j } ^ { \\prime } \\in C ^ { \\prime } \\}$ 为所有结果社区集与第 $i$ 个精准社区 $C _ { i }$ 公共节点的数据的最大值。DA值越大，则表示社区检测结果质量越好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义5NMI。归一化互信息(normalizedmutualinformation,NMI),它是社区精准度评价标准之一，其计算公式如式（11）所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { N M I } } = { \\frac { - 2 { \\sum _ { i = 1 } ^ { C _ { i } ^ { \\prime } } } { \\sum _ { j = 1 } ^ { C _ { j } ^ { \\prime } } } N _ { i j } \\log \\left( { \\frac { N _ { i j } \\times N } { N _ { i } \\times N _ { . j } } } \\right) } { { \\sum _ { i = 1 } ^ { C _ { i } ^ { \\prime } } } N _ { i . } \\log \\left( { \\frac { N _ { i . } } { N } } \\right) + { \\sum _ { j = 1 } ^ { C _ { j } } } N _ { . j } \\log \\left( { \\frac { N _ { . j } } { N } } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { j }$ 表示第 $j$ 个精准社区； $C _ { i } ^ { \\phantom { \\dagger } }$ 为第 $i$ 个真实社区；矩阵 $N$ 的行对应标准的社区结果，列对应算法得到的社区检测结果；$N _ { i \\cdot }$ 表示第 $i$ 行的求和， $N _ { . j }$ 表示第 $j$ 列的求和； $N _ { i \\mathrm { j } }$ 表示 $C _ { j }$ 与 $C _ { i } ^ { ' }$ 的公共节点数目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验对比算法包括尚敬文等人[25]提出基于深度稀疏自动编码器的社区发现算法CoDDA，该算法与本文提出的 $L _ { 1 }$ -ECDA算法思路很相似，两者皆是先对相似度矩阵进行特征提取，再通过聚类得到社区结构。Deepwalk 算法[15]是一种基于图嵌入的方法，利用随机游走和 skip-gram 模型，获取到网络图的低维矩阵，再计算得到社区结果。DBCS算法[26]是一种复杂网络社区发现并行算法，该算法采用模块度的思想，首先计算出节点之间的模块度增量，然后迭代寻找出所有模块度增量最大的节点对，再进行合并操作，并不断更新节点之间的模块度增量，从而实现大规模网络社区识别。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3.1社区发现准确率分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由定义4可知，DA能够直观表示社区检测的准确率，反映节点归属社区的正确性。因此，本文采用DA作为社区检测质量的评判标准。在表3和图5中列出了测试数据集在不同算法上社区检测的准确率。可以得出如下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）从整体看出， $L _ { 1 }$ -ECDA算法社区检测准确率相对于其他算法均较高，而且相对比较稳定，这是由于该算法在进行聚类前，采用了基于跳数的预处理方法，重新计算了网络节点的相似度矩阵，更加完善了节点的局部信息，并通过深度稀疏自编码器进行训练，得到更加准确表达社区结构的低维特征矩阵。 $L _ { 1 }$ -ECDA算法划分的社区结果平均高出CoDDA算法 $5 . 4 \\%$ ，这是由于在使用稀疏自动编码器进行特征提取时， $L _ { 1 }$ -ECDA算法采用平滑 $L _ { 1 }$ 范数作为自编码器的稀疏惩罚函数，得到的低维特征矩阵更能表达网络的结构，这证明了 $L _ { 1 }$ -ECDA算法的有效性。DBCS算法在大规模数据集上准确率比 $L _ { 1 }$ -ECDA算法平均低 $5 . 3 \\%$ ，但比Deepwalk 算法平均高于 $1 1 . 4 \\%$ ，且DBCS算法准确率能保持在 $70 \\%$ 左右，识别效果较好，这也体现了并行计算的优势。Deepwalk 算法在状态转移过程中存在较强的随机性，且没有明确的优化目标函数，导致准确率整体较低，这也完全与文献[15]的情况相吻。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/546a2628abe924247a90c371d9294ab72db3691c620ebf03c819ddc55d6bffe1.jpg",
+        "table_caption": [
+            "表2深度神经网络结构",
+            "表3真实数据集上社区发现准确率对比/%",
+            "Table 3 Comparison of community detection accuracy on real data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">sets/%</td></tr><tr><td></td><td>DBCS</td><td>Deepwalk</td><td>CoDDA</td><td>L -ECDA</td></tr><tr><td>Karate</td><td>99.8</td><td>93.7</td><td>99.7</td><td>99.3</td></tr><tr><td>football</td><td>94.6</td><td>93.4</td><td>99.5</td><td>99.8</td></tr><tr><td>jazz</td><td>92.5</td><td>92.8</td><td>94.7</td><td>95.6</td></tr><tr><td>facebook</td><td>83.3</td><td>81.6</td><td>84.8</td><td>88.2</td></tr><tr><td>Epinionsl</td><td>75.5</td><td>64.8</td><td>78.7</td><td>83.3</td></tr><tr><td>NotreDame</td><td>70.6</td><td>59.7</td><td>68.6</td><td>74.7</td></tr><tr><td>Pokec</td><td>66.2</td><td>53.5</td><td>64.8</td><td>70.3</td></tr><tr><td>com-friendster</td><td>45.8</td><td>40.2</td><td>45.7</td><td>51.4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/617609407ff50d850e14db068c77c84310f525e1982f06bb3f58183efa0da979.jpg",
+        "img_caption": [
+            "图5仿真数据集上社区发现准确率比较",
+            "Fig.5Comparison of community detection accuracy on simulation data sets "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）在图5中，当网络节点数目达到10万甚至更大时，整体准确率都逐渐呈下降趋势，这是因为随着数据集规模的扩大，网络中会出现越来越多的小社区，这会影响社区识别的准确率。对于DBCS 算法，影响尤其重要。但在整体上，$L _ { 1 }$ -ECDA算法最终准确率能保持在 $70 \\%$ 左右，这验证了本文提出算法的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生成仿真网络数据集的过程中，参数Y值控制着网络社区结构的明显程度，Y值越大，则社区结构越不明显。在图6中采用L-1W数据集，随着Y值的不断增大，采用不同算法进行社区识别的准确率对比情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，随着Y值的增大,DBCS、Deepwalk、CoDDA及 $L _ { \\mathrm { 1 } }$ -ECDA算法的识别率都呈递减趋势，说明参数Y对社区发现质量具有较大的影响。当参数 $\\boldsymbol { \\gamma }$ 小于0.3时，四种算法的准确率相差不大；当 $\\gamma > 0 . 4$ 时， $L _ { 1 }$ -ECDA算法的准确率明显高于其他算法，这说明本文提出的 $L _ { 1 }$ -ECDA 算法，对于社区结构较为模糊的网络具有较好的性能优势。这是由于 $L _ { 1 }$ -ECDA算法在特征提取过程中，取出有价值的信息，去除高维数据的冗余特征项，得到的低维特征矩阵更加能够表达节点的局部信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/73dc757c5ef87478f04f26fda842f2b6df446d69bc4922ef6997acacab1ce04d.jpg",
+        "img_caption": [
+            "图6丫值变化下不同算法社区发现准确率比较 Fig.6Comparison of community detection accuracy of different algorithms under change of theY "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.2参数实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）衰减因子参数 $\\sigma$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于Epinionsl网络数据集，设置跳数值为 $\\mathrm { { s } } = 1 5$ 构建基于平滑 $l _ { 1 }$ 范数的稀疏自动编码器每层的节点数为[75879-61384-30692-16384-8192-4096-2048-1024]，分析对比不同衰减因子参数 $\\sigma$ 的取值对于NMI的影响。由图7可知，使用 $L _ { 1 }$ -ECDA算法对网络节点的相似度矩阵进行特征提取后，再进行社区划分比直接使用K-means算法进行聚类得到的社区划分结果更加准确。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bfaacbe757096b7585f2cd5f4cf0dfc57ae0cf0c60b23e842b8be4a049f9983.jpg",
+        "img_caption": [
+            "图7不同衰减因子参数 $\\sigma$ 下，在Epinionsl数据集上使用 $L _ { 1 }$ -ECDA算法与K-means算法NMI值比较Fig.7Comparison of NMI between $L _ { \\mathrm { 1 } }$ -ECDA algorithm andK-means algorithm on Epinionsl data set under different value ofattenuation factor parameter $\\sigma$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图7所示，当衰减因子参数 $\\sigma$ 逐渐增加时，NMI整体呈先递增再递减趋势。因为根据式（2）可知，随着跳数s的增加，节点相似度逐渐减少，而 $\\sigma$ 控制着相似度的衰减程度。对于规模较小的数据集Karate，设置衰减因子参数 $\\sigma = 0 . 6$ 来避免参数 $\\sigma$ 过大对社区边界的模糊作用。当数据集规模较大时，可以选择稍小的衰减因子 $\\sigma { = } 0 . 2$ ，这样可以更好的获取节点的局部特征，以达到最好的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）跳数参数s ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于jazz 网络数据集，设置衰减因子参数 $\\sigma = 0 . 5$ 构建基于平滑 $L _ { 1 }$ 范数的深度稀疏自动编码器每一层的节点数为[198-128]，分析对比不同跳数的取值对于NMI的影响，并比较得出使用 $L _ { 1 }$ -ECDA算法得到的社区划分结果比直接使用K-means算法进行聚类更加准确。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8所知，NMI整体呈先递增后递减的趋势，这也符合实际情况，因为真实网络中，不直接相连但经过一定跳数可以达到的节点间存在一定相似度，若跳数过大，距离较远的节点也存在一定的相似度，却增加了社区识别边界的模糊度。对于规模较小的数据集jazz，跳数阈值 $s = 3$ ；对于规模稍微较大的数据集facebook，选取跳数 $s = 9$ ，即可以到达最优的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9797ee6530668b5c8a47d39b9d5b72db607f128f9af16ad415235a5cc6219f60.jpg",
+        "img_caption": [
+            "图8不同参数s下，在facebook数据集上使用 $L _ { \\mathrm { 1 } }$ -ECDA算法与K-means 算法 NMI值比较",
+            "Fig.8Comparison of NMI between $L _ { ☉ }$ -ECDA algorithm and K-means algorithm on facebook data set under different value of "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "parameter s ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）编码器的层数M ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在构建基于平滑 $L _ { 1 }$ 范数的深度稀疏自动编码器基础上，对于数据集Epinionsl、NotreDame，设置衰减因子参数 $\\sigma { = } 0 . 1$ ，跳数s分别为15、20，对比分析不同层数的稀疏编码器对NMI评价指标的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图9所示，Epinionsl与NotreDame数据集在不同层数的深度稀疏自编码器中采用 $L _ { 1 }$ -ECDA算法的NMI值对比。对于Epinionsl数据集，当稀疏自编码器的层数达到八层（75879-61384-30692-16384-8192-4096-2048-1024）时，使用$L _ { 1 }$ -ECDA算法进行社区划分时性能达到最佳，但当深度稀疏编码器的层数再增加时，社区划分的准确性呈现递减趋势。结果表明，采用深度学习中的稀疏编码器学习方法可以提取网络社区结构中的特征信息，提高社区划分的准确性，但若编码器的层数设置过高，则可能部分特征信息被过滤掉，降低了社区划分的准确性。对于NotreDame数据集，当编码层数达到10层时，其社区划分质量达到最佳。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.3可视化展示",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用 $L _ { 1 }$ -ECDA算法分别在数据集Karate，football以及jazz上进行实验并可视化展示。从图10(a)\\~(c)可以发现， $L _ { 1 }$ -ECDA算法在小规模数据集上的识别率很高，与经典的社区发现算法不相上下(表3)。此外，根据图10(b)与(c)可知，尽管football数据集与jazz数据集的节点数目相差不多，但jazz 数据集的复杂度却比football高很多。由表3可知，采用$L _ { 1 }$ -ECDA算法进行社区检测时，football数据集的识别率比jazz数据集要高 $4 . 2 \\%$ ，这表明网络的复杂度对 $L _ { 1 }$ -ECDA算法社区识别质量具有一定影响，显然与客观事实相符合。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d28499b0b240ad47a51d8190333e956bac9fb4593241cd5b62db00327055ca9b.jpg",
+        "img_caption": [
+            "图9Epinionsl、NotreDame 数据集在不同层数的稀疏自编码器中使用 $L _ { 1 }$ -ECDA算法的NMI值Fig.9Values of NMI from $L _ { 1 }$ -ECDA algorithm on data sets ofpinionsl and notredame in sparse autoencoder with different layei"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20 0 ? 26 0 0 2 22  \n24 ?18  \n32 25 28 34 7 20 12  \n30 33 0  \n2 23 15 1 16 27 45(a) karate 社区结构(a) karate community structuree 8 88 6 88 112 8 79 20 00 日8 O 6250 7510 29 66 70  \n08 @e 白8 5282 0 日@ 08 3885 008 992 74 0 54 1872  \n18 0 39(b)football社区结构(b) football community structure® 000000192 08 000008 00 0800 00 1470? 8  \n23105-122 11 120 0 88  \n9568 6080 8 06 4 。 3139180 。 158 0 8自 oo E 8 143 ?  \n0 8 0 00 8 GG 88 8  \n0。 000 00 0四 ® 0 0 1906 9 9(c)jazz 社区结构(c) jazz community structure",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图10社区识别结果可视化",
+            "Fig.10Visualization of community recognition results "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文针对传统经典社区识别算法在大规模数据集上进行社区发现准确率较低的问题，提出了基于平滑 $l _ { 1 }$ 范数的深度稀疏自编码器社区发现 $L _ { 1 }$ -ECDA算法。该算法首先将网络图的邻接矩阵进行预处理，重新计算节点之间的相似度矩阵；然后使用基于平滑 $L _ { 1 }$ 范数的深度稀疏自编码器对相似度矩阵进行特征提取，得到网络图的低维特征；最后通过K-means聚类获得社区结构。通过在仿真数据集、Stanford大学网络数据集及部分小规模数据集上论证，本文提出的 $L _ { 1 }$ -ECDA算法进行社区识别的准确性更高、稳定性更强。目前，网络重叠社区的识别能够更加真实反映网络结构特征，因此在后续的研究过程中，将重点研究复杂网络结构中的重叠社区结构。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李玉翔．基于网络社区的用户兴趣建模与推荐技术研究[D]郑州： 信息工程大学,2013.(Li Yuxiang.Research on user interest modeling and recommendation technology based on network community [D] Zhengzhou: Information Engineering University,2013.）   \n[2]付姣．基于线图与标签传播的重叠社区发现算法研究[D].武汉： 武汉科技大学,2018.(Fu Wei.Research on overlapping community discovery algorithm based on line graph and label propagation [D]. Wuhan: Wuhan University of Science and Technology,2018.)   \n[3]周小平，梁循，张海燕．基于RC 模型的微博用户社区发现[J]．软 件学报,2014,25 (12):2808-2823.(Zhou Xiaoping,Liang Xun, Zhang Haiyan. Community discovery of weibo users based on RC model [J]. Journal of Software,2014,25 (12): 2808-2823.)   \n[4]Wang Meng,Wang Chaokun,Yu JX,et al.Community detection in socialnetworks:anin-depthbenchmarkingstudywith aprocedure-orientedframework[J].Proceedings of the VLDBEndowment,2015,8 (10): 998-1009.   \n[5]Newman ME J, Girvan M.Finding and evaluating community structure in networks [J].Physical Review E,2004,69 (2): 026113.   \n[6]冷作福．基于贪婪优化技术的网络社区发现算法研究[J].电子学 报，2014，42 (4):723-729.(Leng Zuofu.Research on network communitydiscoveryalgorithmbased on greedy optimization technology[J]. Chinese Journal of Electronics,2014,42 (4): 723-729.)   \n[7]黄天诚．基于图着色的并行Louvain 社区发现算法研究[D].长春： 吉林大学,2016.(Huang Tiancheng.Research on paralel Louvain community discovery algorithm based on graph coloring [D]. Changchun: Jilin University,2016.）   \n[8] 刘世超，朱福喜，甘琳．基于标签传播概率的重叠社区发现算法[J]. 计算机学报,2016,39 (4):717-729.(Liu Shichao,Zhu Fuxi,Gan Lin. Overlapping communitydiscoveryalgorithmbased onlabel propagation probability [J]. Chinese Journal of Computers,20l6,39 (4): 717-729.)   \n[9]汪西莉，蔺洪帅．最小代价路径标签传播算法[J].计算机学报, 2016,39(7):1407-1418.(Wang Xili, Yan Hongshuai. The minimum cost path label propagation algorithm [J]. Chinese Journal of Computers, 2016,39 (7): 1407-1418.)   \n[10]孟令恒．自动编码器相关理论研究与应用[D].北京：中国矿业大 学，2017.(Meng Lingheng.Research and application of automatic encoder related theory [D].Beijing: China University of Mining and Technology, 2017.)   \n[11] Kim K H,Choi S.Label propagation through minimax paths for scalable semi-supervised learning [Jl. Pattern Recognition Letters.2014. 45: 17-25.   \n[12] He Chaobo,Fei Xiang,Li Hanchao,et al.A multi-view clustering method for community discovery integrating links and tags [C]//Proc of the 14th IEEE International Conference on e-Business Engineering. 2017.Melmaruvathur:IEEE Press,2017:23-30.   \n[13] Di Ianni M,Gambosi G,Rossi G,et al.Min-max communities in graphs: complexity and computational properties [J]．Theoretical Computer Science,2016,613:94-114.   \n[14] Zeng Jianping,Yu Hongfeng.A study of graph partitioning schemes for parallel graph community detection [J].Parallel Computing,2016,58: 131-139.   \n[15] Perozzi B,Al-Rfou R,Skiena S.Deepwalk:online learning of social representations [C]//Proc of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.[S.l.]:ACM Press,2014:701-710.   \n[16]Belkin M,Niyogi P.Laplacian eigenmaps for dimensionality reduction and data representation [J].Neural Computation，2Oo3，15(6): 1373-1396.   \n[17] Cao S,Lu W, Xu Q. Grarep: Learning graph representations with global structural information [C]//Proc of the 24th ACM International on Conference on Information and Knowledge Management.[S.l.]:ACM Press,2015:891-900.   \n[18] Qiao Shaojie,Han Nan,Gao Yunjun,et al.A fast parallel community discoverymodel oncomplexnetworksthroughapproximate optimization [J].IEEE Trans on Knowledge and Data Engineering, 2018,30 (9):1638-1651.   \n[19]朱啸天，张艳珠，王凡迪．一种基于稀疏自编码网络的数据降维方 法研究[J].沈阳理工大学学报,2016,35(5):39-43.(Zhu Xiaotian, Zhang Yanzhu,Wang Fandi.Research on data dimensionality reduction method based on sparse self-coded network [J]. Journal of Shenyang Ligong University,2016,35 (5): 39-43.)   \n[20]Lee H,Battle A,Raina R,et al.Efficient sparse coding algorithms [C]/Advances in Neural Information Processing Systems.[S.1.]:MIT Press 2007:801-808.   \n[21]周巍.L1 范数最小化算法及应用[D].广州：华南理工大学，2013. (Zhou Wei.L1 norm minimization algorithm and its application [D]. Guangzhou: South China University of Technology,2013.)   \n[22]鲁亚平．面向深度网络的自编码器研究[D].苏州：苏州大学,2016. (Lu Yaping.Research on self-encoder for deep network [D]. Suzhou: Suzhou University, 2016.)   \n[23] Abernethy J,Lee C,Sinha A,et al.Online linear optimization via smoothing [C]//Proc of Conference on Learning Theory. [S.l.]:ACM Press,2014:807-823.   \n[24]Lancichinetti A,Fortunato S.Limits of modularity maximization in community detection [J].Physical Review E,2011,84(6): 066122.   \n[25]尚敬文，王朝坤，辛欣，等．基于深度稀疏自动编码器的社区发现算 法[J]．软件学报，2017，28(3):648-662.(Shang Jingwen，Wang Zhaokun,Xin Xin,et al. Community discovery algorithm based on deep sparse autoencoder [J].Journal of Software,2017,28 (3): 648-662.)   \n[26]乔少杰，郭俊，韩楠，等．大规模复杂网络社区并行发现算法[J]. 计算机学报,2015,38:1-14.(Qiao Shaojie,Guo Jun,Han Nan,et al. Parallel discoveryalgorithm forlarge-scalecomplexnetwork communities [J].Chinese Journal of Computers,2015,38:1-14.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

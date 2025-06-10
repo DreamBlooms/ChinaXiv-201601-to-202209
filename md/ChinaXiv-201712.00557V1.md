@@ -1,0 +1,124 @@
+临床研究
+
+# 神经介入联合局部使用地塞米松对急性缺血性脑卒中患者预后的影响
+
+张虎庭1，罗赛华²  
+1广东医科大学，广东 湛江 524023;廉江市人民医院神经外科，广东廉江 524400
+
+摘要：目的探讨神经介人联合局部使用地塞米松治疗急性缺血性脑卒中(AIS)的疗效及安全性。方法人选60例AIS患者随机分为地塞米松组(A组）、生理盐水组(B组)及单纯介入组(C组),每组各20例。比较3组术后神经功能评分、脑组织相对表观弥散系数、内分泌及并发症例数等。结果A组术后1月神经功能评分明显低于B及C组( $_ { P < 0 . 0 5 ) }$ ；A组术后第3天脑组织相对表观弥散系数明显高于B及C组，而术后1月最终脑体积明显低于B及C组;术后第1天3组间血清皮质醇含量均无统计学意义$( \mathrm { P } { > } 0 . 0 5 ) { ; } 3$ 组间术后并发症例数构成均无统计学差异 $( P { > } 0 . 0 5 )$ 。结论 神经介入联合局部使用地塞米松治疗可减轻AIS患者脑水肿并降低脑梗死体积，且不影响神经内分泌、不增加患者发生并发症风险,有助于改善AIS患者的预后。
+
+关键词：缺血性脑卒中；脑保护；糖皮质激素；神经介人；预后
+
+# Influence of neurological intervention combined with dexamethasone injection on the outcome for the patients suffered from acute ischemic stroke
+
+ZHANGHuting, LUO Saihua²   
+Guangdongdicalesityajnia;erosureryepatmntjngople'sospital,j   
+China
+
+Abstract:Objective Toobserve the influenceof neurological intervention combinedwithdexamethasone injection onthe outcome for thepatientssuffered fromacuteischemic stroke.MethodsSixtypatients withAIS wererandomlydivided intothe dexamethasone group (group A),normal saline group (group B)and thesimple intervention group (groupC), with20cases in each group.Three groups were compared of postoperative neurological function score (NIHSS)scores,brain tisue relative apparent difusion coeficient (rADC)，endocrine and complications suchas thenumberof cases.Results NIHSS score of group A was lower than that in group B and $\mathrm { ~ C ~ } ( P { < } 0 . 0 5 )$ after January; A group was significantly higher than that of group B and Cin postoperative day3rADC,and thefinal brain volume was lower than that in group Band Cafter1 month; serum cortisol levels between the 3 groups had no significant difference $( P { > } 0 . 0 5 )$ at postoperative day 1; The postoperative complications between the 3 groups of cases constitute had no significant difference $( P { > } 0 . 0 5 )$ . Conclusion Nerve involvement with local useof DXMtherapycan relieve cerebral edema and AIS patients reduced cerebral infarction volume,can not ffect the neuroendocrinedoesnotincreaseapatient'srskofcomplicationsandhelptoimprovetheprognosisofpatients withAs. Key words: ischemic stroke; brain protect; glucocorticoids; nerve intervention; prognosis
+
+急性缺血性脑卒中(AIS)是因脑血管闭塞或狭窄导致脑组织缺血缺氧性疾病，其中血管再通后脑缺血再灌注损伤是影响患者预后的主要因素[1]。研究显示糖皮质激素(GC)具有减轻脑水肿、保护血脑屏障等的作用[2。但由于GC类药物副作用大,且由于脑血管的闭塞药物不能进入病灶局部而影响了GC的疗效。针对以上问题，本研究通过应用神经介人技术是将小剂量地塞米松(DXM)直接应用于病灶局部，达到提高局部药物浓度及作用效果、缩短再通与给药间隔时间、极大减少药物剂量及全身副作用，并通过美国国立卫生研究院卒中量表(NIHSS)评分、相对表观弥散系数(rADC）、脑梗死体积、血清皮质醇及临床指标等角度，初步评价了神经介人技术联合局部使用DXM治疗AIS的疗效及安全性，过程如下。
+
+# 1资料与方法
+
+# 1.1 患者资料
+
+以2014年6月\~2015年12月在廉江市人民医院住院的AIS为研究对象。纳入标准为：符合1995年全国第4届脑血管病学术会议通过的脑梗塞诊断标准中脑血栓形成的诊断要点；发病在6h内，根据患者情况可适当放宽(影像提示有少量侧枝循环建立并且梗塞面积不大);意识清楚，均有不同程度的肢体瘫痪或语言障碍症状;全脑血管造影证实为一侧大脑中动脉闭塞为责任血管；近2个月内无手术或外伤史[3]。排除标准为：短暂性脑缺血发作;NIHSS评分低于4分；有免疫系统及合并血液系统患者;有血液系统疾病或出血倾向的患者；经检查证实由脑肿瘤、脑外伤、脑寄生虫病、代谢障碍等引起的卒中患者，或合并脑出血;合并有肝、肾、造血系统和内分泌系统等严重原发病及骨关节病、精神病患者;妊娠或哺乳期妇女;过敏体质者[4]。共纳入60名AIS患者，其中男性33例，女性27例，年龄63\~86岁。
+
+# 1.2分组及手术方法
+
+采用随机数字表法按照患者就诊顺序将人选的患者随机分为：地塞米松组(A组，男11女9）生理盐水组(B组，男女各10例）单纯介入组(C组，男12女8),3组的性别构成及年龄均无组间差异(表1)。其中A组在责任血管未通之前即通过微导管至血栓远端给予小剂量地米溶液 $3 ~ \mathrm { m L } ( 0 . 5 { \sim } 1 ~ \mathrm { m g } )$ ,血管再通后继续经微导管持续 $3 0 ~ \mathrm { m i n }$ 动脉内微泵泵入地塞米松 $7 \mathrm { m L } ( 1 { \sim } 2 \mathrm { m g } )$ ，总剂量不超过 $3 ~ \mathrm { m g ^ { [ 5 ] } }$ 。B组取与A组等容量的生理盐水按A组的方法使用。C组单纯采用传统的神经介入方法治疗。所有患者神经介人术后 $2 4 \mathrm { h }$ 内予阿司匹林肠溶片 $0 . 1 \ \mathrm { g } / \$ 次，1次/d;阿托伐他汀 $2 0 \mathrm { m g / }$ 次，1次/d；于3d后开始进行2个大气压高压氧稳压治疗，1次 $/ \mathrm { d } , 1 \ : \mathrm { h } / \$ 次，疗程 $1 0 \mathrm { d } _ { \circ }$
+
+# 1.3 安全性观察
+
+常规体格检查；手术前后3大常规、凝血四项，肝功、肾功检查；不良反应所出现的症状体征的观察；术后并发症如脑出血、恶性脑水肿等严重并发症应。
+
+# 1.4疗效评定及相关指标测定
+
+神经功能缺损程度采用NIHSS，分别于术前、术后1d、3d、1周、2周、1个月评估。术后第1天早8：00测定血清皮质醇,第3天行MR计算病灶rADC。术后1个月行CT检查，测定脑梗死体积。所有患者6个月后随访评估NIHSS。
+
+# 1.5统计学分析
+
+数据以SPSS18.0软件包分析。计量资料以均数 $\cdot \pm$ 标准差表示；计数资料以 $n$ 表示，3组间计数资料比较采用秩和检验；定量资料比较采用方差分析LSD法比较组间两两差异。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+表1治疗前3组患者基本情况 $( n { = } 2 0 , \overline { { x } } { \pm } s )$   
+
+<html><body><table><tr><td>分组</td><td>年龄(岁)</td><td>术前NIHSS评分</td><td>高血压</td><td>糖尿病</td><td>冠心病</td><td>高脂血症</td><td>高同型半胱氨酸症</td></tr><tr><td>A</td><td>58.2±11.4</td><td>23.9±4.6</td><td>3</td><td>2</td><td>1</td><td>2</td><td>0</td></tr><tr><td>B</td><td>55.2±10.5</td><td>23.7±4.4</td><td>3</td><td>0</td><td>2</td><td>3</td><td>1</td></tr><tr><td>C</td><td>52.4±8.4</td><td>24.6±3.9</td><td>2</td><td>1</td><td>1</td><td>4</td><td>0</td></tr><tr><td>FX</td><td>3.21</td><td>0.22</td><td>2.79</td><td>5.62</td><td>0.70</td><td>0.84</td><td>1.85</td></tr><tr><td>100P</td><td>0.57</td><td>0.80</td><td>0.27</td><td>0.52</td><td>0.28</td><td>0.50</td><td>0.60</td></tr></table></body></html>
+
+# 2结果
+
+# 2.1一般情况比较
+
+3组病例的平均年龄、术前NIHSS评分以及合并症均无显著性差异( $\mathrm { \ P { > } 0 . 0 5 }$ ，表1)。
+
+# 2.2 血清皮质醇含量
+
+3组患者术后第1天早8:00血清皮质醇含量依次为$A { > } \mathrm { B > } \mathrm { C }$ ，但3组间无统计学差异(表2)。
+
+# 2.3并发症情况
+
+3组患者术后脑出血、再灌注综合症、脑梗死、肺部感染、消化道出血、糖尿病等的发病率之间无统计学差异(表3)。
+
+表2术后血清皮质醇水平、rADC和最终脑梗死体积 $( \overline { { x } } \pm s )$   
+
+<html><body><table><tr><td>分组</td><td>血清皮质醇均值(nmol/L)</td><td>术后3drADC均值</td><td>术后1个月最终脑梗死体积均值(mm)</td></tr><tr><td>A</td><td>610.9±154.9</td><td>0.62±0.1*#</td><td>7.20±2.4*#</td></tr><tr><td>B</td><td>606.3±135.2</td><td>0.49±0.3</td><td>10.74±4.5</td></tr><tr><td>C</td><td>600.9±163.7</td><td>0.48±0.2</td><td>10.90±6.0</td></tr><tr><td>F</td><td>0.02</td><td>14.63</td><td>4.26</td></tr><tr><td>P</td><td>0.98</td><td>0.00</td><td>0.02</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs B组; $^ { 4 } P { < } 0 . 0 5$ vs C组
+
+表33组患者术后1个月内并发症情况 $( n )$   
+
+<html><body><table><tr><td>分组</td><td>脑出血</td><td>再灌注综合症</td><td>肺部感染</td><td>消化道出血</td><td>糖尿病</td></tr><tr><td>A</td><td>2</td><td>2</td><td>8</td><td>1</td><td>4</td></tr><tr><td>B</td><td>1</td><td>3</td><td>7</td><td>2</td><td>5</td></tr><tr><td>对照组</td><td>3</td><td>1</td><td>9</td><td>1</td><td>3</td></tr><tr><td>x</td><td>0.72</td><td>0.72</td><td>1.12</td><td>0.70</td><td>0.68</td></tr><tr><td>P</td><td>0.31</td><td>0.31</td><td>0.28</td><td>0.28</td><td>0.4</td></tr></table></body></html>
+
+# 2.4 NIHSS评分比较
+
+术后第3天开始，3组患者NIHSS评分之间有统计学差异。通过进一步采用LSD-t检验统计处理发现，A
+
+组患者术后3d、术后1周、术后2周和术后1个月A组与C组之间均有统计学差异，而B组与C组之间无统计学差异(表4)。
+
+表43组患者术后NIHSS评分情况 $( \overline { { x } } \pm s )$   
+
+<html><body><table><tr><td>分组</td><td>术后第1天</td><td>术后第3天</td><td>术后1周</td><td>术后2周</td><td>术后1个月</td></tr><tr><td>A</td><td>18.8±3.9*</td><td>13.5±3.2*#</td><td>11.3±2.4*#</td><td>9.6±2.1*#</td><td>7.1±1.3*#</td></tr><tr><td>B</td><td>21.1±4.6</td><td>18.1±4.3</td><td>15.7±4.1</td><td>12.8±4.2</td><td>10.2±2.9</td></tr><tr><td>C</td><td>21.1±3.9</td><td>17.9±3.5</td><td>15.7±3.0</td><td>12.3±3.0</td><td>9.3±3.0</td></tr><tr><td>F</td><td>2.1</td><td>9.76</td><td>12.56</td><td>5.93</td><td>7.61</td></tr><tr><td>P</td><td>0.14</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.00</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vsB组; $^ { \# } P { < } 0 . 0 5$ vsC组
+
+# 2.5局部弥散系数及最终脑梗死体积
+
+术后第3天患者rADC值以及术后1个月最终脑梗死体积在3组患者之间有统计学差异。两两比较显示：A与C组术后3drADC有统计学差异，而B组与C组之间无统计学差异;A与C组术后1个月最终脑梗死体积有统计学差异，但B与C组无统计学差异(表2)。
+
+# 3讨论
+
+3.1神经介入联合局部小剂量使用地塞米松可改善急性缺血性脑卒中患者的预后
+
+既往动物实验表明GC具有抗炎、减轻脑水肿、保护血脑屏障等作用5，但循证医学并没有足够的证据证明GC可以改善AIS患者的预后，但有研究提示小剂量、短期、局部使用GC有望改善预后且降低不良反应时间，如Goericke等[将不同剂量的曲安奈德注射入延髓小脑池内治疗大脑中动脉大鼠模型，发现 $0 . 0 1 2 ~ \mathrm { m g / k g }$ 改善脑梗死体积方面优于其他剂量，提示局部药可以改善患者的预后。
+
+随着介人技术的发展和新材料的应用，通过微导管动脉内局部给药变的越来约便捷、快速、安全9。本研究发现，A组患者术后第3天开始NIHSS评分明显优于B组和C组，因此，认为神经介入联合局部使用地塞米松可以改善急性缺血性脑卒中患者的预后。即使如此，神经介人技术联合局部使用DXM治疗AIS也存在一定的问题。由于该方案并未进行不同剂量药物疗效的比较，因此GC局部用药的合理剂量仍不能确定。同时由于我们的研究方案中药物作用部位在大脑中动脉，其是否能应用于大脑前动脉、椎基底动脉、颈内动脉不能确定。
+
+# 3.2神经介入技术联合颅内局部小剂量使用地塞米松不增加并发症的风险
+
+神经介人术后患者由于缺血再灌注损伤其病理进程的持续瀑布样进展，往往导致患者出现再灌注综合征、再梗塞等并发症,严重影响了患者的预后[10]。此外,糖皮质激素的副作用，如肺部感染、高血糖、消化道出血等也可进一步加重患者的病情。前者与缺血时间、缺血缓急、侧支循环等有关，而后者则与GC的用量、部位、剂型、种类、方法等有关系[]。本研究提示神经介入联合局部使用DXM并没有增加患者肺部感染、糖尿病、消化道出血等并发症的风险，且无增加缺血再灌注损伤，如出血转化、突破再灌注等的风险。因此,本研究提示神经介人联合局部使用DXM的方案安全性较高。
+
+# 3.3神经介入技术联合局部使用地塞米松并不影响神经内分泌系统的变化
+
+AIS早期患者血清皮质醇水平往往增高，且与患者预后不佳明显相关[8]。外源性GC的应用有可能进一步增加血清皮质醇水平，从而不利于预后。本研究通过微导管将药物送达病灶局部，但是由于下丘脑、垂体均位于颅内，由颈内动脉系统供血[12]。颅内动脉动脉使用地塞米松很有可能增加下丘脑、垂体局部的糖皮质激素浓度从而抑制下丘脑-垂体-肾上腺轴，加重患者病情。为尽量避免此种情况，我们采用了以下两种方法：(1)大脑中动脉内并无供应下丘脑、垂体的血管，我们人为控制了地塞米松的作用范围，单纯在大脑中动脉内用药，使得地塞米松不会直接进人下丘脑和垂体局部，因此不会影响神经内分泌系统；(2)控制总体药物剂量，在药物作用于病灶局部后由于药物体内再分布作用，最终到达颅内下丘脑和垂体的剂量很小，不会影响神经内分泌系统。本研究通过测定术后第2天8：00血清皮质醇水平，发现3组患者血清皮质醇水平之间无统计学差异，提示大脑中动脉内使用糖皮质激素并不影响神经内分泌系统的变化。
+
+# 3.4神经介入技术联合局部小剂量使用地塞米松可减轻脑水肿、减少脑梗死体积
+
+AIS是以脑细胞缺血、缺氧后的能量代谢障碍为起点，通过细胞膜通道异常、钙超载、谷氨酸(GLu)大量释放、等多种途径导致细胞水肿，后者是脑体积增加的直接原因[13]。本研究发现,A组患者术后第3天病灶局部rADC值明显减小，与C组和B组比较具有统计学差异，因此认为神经介入联合局部使用地塞米松可以减轻病灶局部水肿程度，同时在最终脑梗死体积的比较中也发现,A组患者最终脑梗死体积较小，与C组和B组比较具有统计学差异。这可能是因为早期在病灶局部使用DXM，避免了全身用药中因血管闭塞药物不能到达病灶局部的缺点，充分发挥了DXM阻断或抑制脑缺血及再灌注损伤的作用，从而减轻了脑水肿，最终达到了减少脑梗死体积、改善患者预后的目的。
+
+综上所述，神经介入联合局部使用DXM治疗AIS能改善患者的预后，同时不增加患者发生并发症的风险，对神经-内分泌-下丘脑轴无明显影响，值得进一步应用、研究。其作用机制可能是DXM达到病灶局部后充分发挥了其抑制或阻断缺血和再灌注损伤的作用，从而减轻脑水肿、降低颅内压，最终达到减少梗死体积、改善患者的预后的作用。以神经介入技术为基础的动脉内给药等的方案具有作用部位准确、局部药物浓度高、药物剂量小、给药时间短等的优点，未来GC在AIS中的局部应用非常值得期待。同时本研究还存在一些不足，主要有：局部地塞米松应用剂量为常规估计，未能更好的探索局部地塞米松应用的剂量;颈内动脉、大脑前动脉、后循环等使用地塞米松的影响未能进行全面估计;血清皮质醇受的时间点分析等，以上不足将在后续研究得以细化。
+
+# 参考文献：
+
+[1］缪中荣,王拥军.急性缺血性卒中血管内治疗中国指南2015[J].中国 卒中杂志,2015,10(7):590-606.   
+[2]Sandercock PA, Soane T.Corticosteroids for acute ischaemic stroke [J].Cochrane Database of Systematic Reviews，2011，7(9): CD000064-6.   
+[3]Jiang WJ,Yu W,Du B,et al.Outcome of patients with $3 7 0 \%$ symptomatic intracranial stenosis after Wingspan stenting [J]. Stroke,2011,42(7): 1971-5.   
+[4]罗赛华,杨柳明,陈立一，等.尿激酶对非老年性脑梗死缺血半暗带相 对弥散系数的影响[J].中国微侵袭神经外科杂志,2014,19(1): 28-30.   
+[5]Davis S,Donnan GA. Time is Penumbra: imaging,selection and outcome.The Johann Jacob wepfer award 2014[J].Cerebrovasc Dis,2014,38(1): 59-72.   
+[6]刘 毅,孙智善,孟 然,等.缺血性卒中神经保护药物的临床前和临床 研究分析及进展[J].中国脑血管病杂志,2013,10(2):108-12.   
+[7]罗赛华,杨柳明,陈立一,等.不同溶栓剂对老年急性脑梗死患者缺血 半暗带的影响[J].立体定向和功能性神经外科杂志,2014,29(2): 87-90.   
+[8] Goericke SL,Engelhorn T,Forsting M,et al. Intrathecal corticoids in permanent focal cerebral ischemia in rats.Part I: a new therapeutic approach in the acute phase[J].J Cereb Blood Flow Metab, 2010,30(4): 801-7.   
+[9]卫生部.糖皮质激素类药物临床应用指导原则(节选)[J].药物不良反 应杂志,2011,13(1): 40-4.   
+[10]El Husseini N,Laskowitz DT. The role of neuroendocrine pathways in prognosis after stroke[J].Expert Rev Neurother,2014,14(2): 217-32.   
+[11] Zeng L,Wang Y,Liu J,et al.Pro-inflammatory cytokine network in peripheral inflammation response to cerebral ischemia[J].Neurosci Lett, 2013,548(10): 4-9.   
+[12]Beridze M, Sanikidze T, Shakarishvili RA,et al. Selected acute phase CSF factors in ischemic stroke: findings and prognostic value [J].BMC Neurol,2011,11(5): 41.   
+[13]江基尧,朱诚,罗其中,等.颅脑创伤临床救治指南[M].3版.上海:第 二军医大学出版社,2007:89-90.

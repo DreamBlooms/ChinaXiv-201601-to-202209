@@ -1,0 +1,241 @@
+# 辱虐管理与员工创造力：心理契约破坏和中庸思维的不同作用
+
+沈伊默1,2 白新文诸彦含4鲁云林刘　军²　张庆林1(西南大学心理学部，重庆 400715)(中国人民大学商学院，北京 100872)(中国科学院心理研究所行为科学重点实验室，北京100101)  
+(4西南大学政治与公共管理学院，北京 100872)(5江苏第二师范学院经济与法政学院，南京 210029)
+
+摘要近年来，辱虐管理与员工创造力的关系受到越来越多研究者的关注。在以往研究的基础上,本研究构建了一个有调节的中介作用模型，以探讨中国文化情境下辱虐管理影响员工创造力的中介心理机制及边界条件。采用多阶段-多来源的策略，以93名主管和369名员工为对象，通过多水平结构方程建模技术对三阶段主管-员工配对调查所获取的数据进行分析，结果表明：主管的辱虐管理行为会通过心理契约破坏的中介作用，对员工创造力产生间接的消极影响；但该负向的间接关系的强度对高中庸思维者而言较弱。本研究有助于揭示辱虐管理影响员工创造力的心理机制及边界条件，研究结果对企业员工创造力及创新行为的管理实践也有一定启示。
+
+关键词辱虐管理；心理契约破坏；中庸思维；创造力
+
+分类号 B849:C93
+
+# 1问题提出
+
+越来越多的组织已经意识到，只有根据环境的变化，开发出富有创造性的、独特且实用的产品或服务，才能让组织在动态的复杂市场环境中赢得一席之地(Shalley,Gilson,& Blum,2009;Zhou&Hoever,2014)。领导作为组织环境的一个重要构成因素，是员工创造性开展工作的重要决定因素之一。目前，越来越多的研究者开始探讨和检验领导者的辱虐管理(abusive supervision)与员工创造力之间的关系，然而研究结果并不完全一致。例如，有研究表明辱虐管理会直接降低员工的创造力(Liu,Liao,&Loi,2012)，同时它可以通过内在动机和情绪衰竭的中介作用，进而对创造力产生间接的消极影响(Han,Harms,&Bai,2017; Zhang,Kwan,Zhang,&Wu,2014)。然而也有研究表明辱虐管理不一定总会降低员工的创造力，适度的辱虐管理甚至有利于提升员工创造力(Lee,Yun,& Srivastava,2013)。研究者认为，现有的相关研究并不足以解释辱虐管理与创造力之间的复杂关系，并呼吁在未来的研究中厘清辱虐管理对员工创造力的内在影响机制及边界
+
+条件(Zhang et al., 2014)。
+
+响应此号召，我们在心理契约理论(Robinson& Morrison,200o)和认知-情感加工系统理论(Metcalfe&Mischel,1999)的基础上提出辱虐管理会通过心理契约破坏(Psychological contractbreach)的中介作用，对员工创造力产生间接的消极影响；同时该过程会受到中庸思维的调节。
+
+# 1.1辱虐管理、心理契约破坏与创造力的关系
+
+辱虐管理是指下属对上司不断地表现出不包括肢体接触的语言性或非语言性敌意行为的知觉，如嘲弄奚落、公开大声责骂、刻意冷落等(Tepper,2000)。本研究认为辱虐管理会通过心理契约破坏的中介作用，对员工的创造力产生间接的消极影响。心理契约是指在以承诺、信任和知觉为基础的雇佣关系中，个体对雇佣关系中双方各自应承担的责任或义务的一种信念(Morrison& Robinson,1997)。当员工感知到组织未能履行心理契约中与员工贡献相称的一种或多种责任时，心理契约破坏就产生了(Morrison&Robinson,1997)。以往有研究者指出，领导者在员工的心理契约的构建与维持过程中发挥着重要的作用(Tekleab&Taylor,2003)。例如，领导者在工作中对员工表现出较多的辱虐管理行为(如公开批评或贬损员工等)时，员工会将其视为对自己的不尊重、蔑视与羞辱；这与自己应该受到公正对待的期望或信念是相违背的，它违反了雇佣关系中双方"平等互惠"的交换原则及道德规范，损害了领导在员工心目中的正面形象，因此会导致较严重的心理契约破坏(丁桂凤，张澎涛,2013;Parzefall& Salin,2010)。
+
+当员工感知到心理契约被破坏时，为了维持个体与组织双方交换关系的平衡，员工会作出  
+不利于组织的态度和行为，例如在工作中表现出较低水平的创造力或创新行为(Khazanchi&  
+Masterson, 2011) 。 n (Hemphala &  
+Magnusson, 2012)；, ， ，(Agarwal, 2016; Scott & Bruce, 1994)
+
+， (Janssen,2000,2004）心理契约被看成是雇佣关系的晴雨表,它对员工表现有着重要的影响，因此常被用于解释个体与组织的关系(Zhao,Wayne,Glibkowski,& Bravo,2007)。实证研究表明，当心理契约被破坏时，基于平等互惠的交换原则(Blau,1964)，个体的组织支持感和情感承诺会大大降低，这会导致员工在创新过程中勇冒风险和积极投入(时间和精力等)的意愿大大减弱，因此其采取新的、有创造力的方法或思路来解决工作中的难题的可能性较小(Khazanchi & Masterson, 2011; Kiazad, Seibert,& Kraimer, 2014; Ng,Feldman,& Lam,2010)。由此我们提出：
+
+假设1：辱虐管理会通过心理契约破坏的中介作用，对创造力产生间接的消极影响。
+
+# 1.2中庸思维的调节作用
+
+《中庸》曾开宗明义指出“不偏之谓中，不易之谓庸；中者天下之正道，庸者天下之正理”,就是要求人们为人处世时始终保持不偏不倚，永远执中协同，这是必须坚持不能改变的法则。学者们认为，中庸思维是根植于中国人内心的固有思维方式的深刻反映，它被认为是一种调节矛盾以达到中和的生活哲理；它时时刻刻都在作用于人们的言行，是一套实用性很强的价值观体系(杨中芳,2010；杨中芳，赵志裕,1997)。中国人这种整体性、辩证性的中庸思维模式是有异于西方的，例如他们会把世界看成由复杂事情交织在一起的整体，并力图在这种复杂性之中去认识事物；在对事物的分析时也不仅仅局限于事物本身，而是包括它所处的背景与环境。吴佳辉和林以正(2005)在总结以往研究的基础上，将中庸思维定义为"由多个角度来思考同一件事情，在详细考虑不同看法之后，选择可以顾全自我与大局的行为方式”(p.225)；并认为中庸思维总体上有三个方面的特点:(1)善于从多个角度来思考问题，即多元性思考;(2)善于整合外在环境信息与自己的内在想法，即整合性;(3)充分考虑自己行为可能带来的后果，以和谐方式作为行为准则，即和谐性。因此，中庸思维代表的是个体自我调节与约束自己的行为，在行为之前会仔细审查行动对他人可能带来的后果，并选择最佳的行动方案的思维方式(何轩,2010)。
+
+由于中庸思维注重个体的自我调节，即通过自我反省、观察形势等反馈机制来修正自我行为，我们借鉴认知-情感加工系统理论(Metcalfe&Mischel,1999)，提出中庸思维可能会在辱虐管理、心理契约破坏和创造力的关系中起调节作用。该理论认为，个体内存在“冷"和“热"两个平行但又相互作用的加工系统(cool/hot-system)，即基于认知的冷加工系统和基于情感的热加工系统(Metcalfe＆Mischel,1999)。冷系统是由众多信息节点相互联系而构成的精细认知网络，能够对外部刺激进行缓慢、系统的认知加工，促使个体表现出理性的、策略性的行为反应，是个体实现自我行为调节的基础。与此不同，热系统是一个情感自动反应系统，在外部刺激激活情感时，自动、快速地引发个体做出趋近或规避的行为反应。两个系统的交互作用决定了个体对外界刺激的行为反应。面临外界刺激时，基于情感的热系统常常快速、情绪化地做出反射性反应；个体自我调控的效果取决于认知加工系统能否有效抑制对刺激的冲动性反应。
+
+作为显著的负性刺激，辱虐管理和心理契约破坏会激活员工的热加工系统，让员工产生不良的负性情感体验(Conway& Briner,2002;Tepper,2007)；而中庸思维作为一种认知思维方式和认知加工策略，发挥冷加工系统的作用，可以从以下几个方面调节辱虐管理、心理契约破坏和创造力这三者之间的关系。理由在于：
+
+高中庸思维者善于多元思考，因此在遭受到辱虐管理时会从多方面考察它产生的主要原因，以及它给自己带来的影响。与低中庸思维者相比较来看，在处理具体事情时，高中庸思维者往往会在一个更大的时间和空间框架中来审视形势的变化。具体而言，中庸思维会促使个体跳出“小我"意识，把自己置于更大的一个集体(大我思考)或换到他人的角度来看待自己面临的处境与问题(吴佳辉,2006)。当遭受到辱虐管理时，由于高中庸思维者善于多元思考，他们会从动态的、更积极的角度来看待和评价组织的行为，例如会看到领导(组织)在某些方面满足其自身需求所作的积极努力。这种多元思考可作为一种注意力转换的认知加工策略，帮助员工由基于情感的热加工系统转向基于认知的冷加工系统(Sethi,Mischel,Aber, Shoda,& Rodriguez,2000)。因此高中庸思维者在遭受辱虐管理时，不会任由负面情绪和情感主导自己的行动，而是会在认知重评行为后果后，采取宽恕的姿态来面对(Ho&Hung,2011)，因此产生心理契约破坏的可能性较小。相反，低中庸思维者由于多元思考的能力比较弱，因此在面对辱虐管理时往往会把注意力集中于辱虐管理行为的本身，很少看到领导(组织)在某些方面满足其自身需求所作的积极努力，这导致其基于情感的热加工系统无法有效地向基于认知的冷加工系统转化，因此在遭受辱虐管理时产生心理契约破坏的可能性较大。
+
+即使遭受到较严重的心理契约破坏，但和谐性和整合性的思维方式有助于高中庸思维者快速有效地由基于情感的热加工系统转向基于认知的冷加工系统，从而实现自我行为的控制和调节。高中庸思维者会以维护和谐作为行为准则，冷静思考自己的行为是否会对组织或他人带来不良的影响。和谐行为的选择，通过将行为后果在头脑中成像，整合内外信息，通过比较、加工各种行为结果，从而实现情感系统向认知系统的转换(Metcalfe&Mischel,1999)。在遭受心理契约破坏时，我们猜想拥有和谐性和整合性的思维方式的高中庸思维者仍然可能会表现出较高的创造力。毕竟对大多数组织而言，提高个体和组织的创造力，不断开发富有创意的商品及服务，仍是其获得核心竞争优势的重要手段(Oldham&Cumming,1996)。因此，如果员工在工作中过于墨守陈规，循规蹈矩，不懂变通与创新，这不仅会影响到员工本人的工作绩效，也会对与其有工作往来的团队成员带来不方便和麻烦，造成人际关系的紧张；而且，自己在创新绩效上的落后表现，也会影响到整个团队的绩效，这可能会激发主管的愤怒情绪，使双方关系愈发紧张(Li,Zhang,Law,&Yan,2015)。此时即使遭受到较严重的心理契约破坏而使得为组织出谋划策的创新意愿较低，但为了维护与同事(或主管)之间关系的和谐，高中庸思维者仍可能会积极改进的自己想法，以便提出对大家都可以接受的、新颖的和切实可行的方案，来避免人际关系的冲突(Yao,Yang,Dong,&Wang,2010)。因此，对高中庸思维者而言，心理契约破坏和创造力之间的负向关系较弱。相比较而言，在遭受心理契约破坏时，低中庸思维者由于其在人际互动时并不太注重人际关系的和谐性，因此不会通过提升自身的创新行为来避免人际关系的冲突。因此，对低中庸思维者而言，心理契约破坏与创造力之间的负向关系较强。由此提出假设2和3：
+
+假设2：中庸思维可以调节辱虐管理与心理契约破坏之间的关系，即个体的中庸思维越强烈，辱虐管理与心理契约破坏之间的正向关系越弱。
+
+假设3：中庸思维可以调节心理契约破坏与创造力之间的关系，即个体的中庸思维越强烈，心理契约破坏与创造力之间的负向关系越弱。
+
+# 1.3 整合的模型
+
+假设1\~3所揭示的关系进一步表现为两阶段有调节的中介作用模式(Edwards&Lambert,2007)，即当个体的中庸思维水平较弱时，辱虐管理会较多地通过心理契约破坏的中介作用，对员工创造力造成间接的消极影响；而当个体的中庸思维水平较强时，辱虐管理较少地通过心理契约破坏的中介作用，对员工创造力产生间接的消极影响。据此，本研究提出以下假设：
+
+假设4：中庸思维调节了心理契约破坏在辱虐管理和员工创造力关系间的中介作用，表现为被调节的中介作用模式，即个体的中庸思维越强，心理契约破坏在辱虐管理与创造力关系间的中介作用越弱；反之当个体的中庸思维越弱，心理契约破坏在辱虐管理与创造力关系间的中介作用越强。
+
+本研究的理论框架如图1所示。
+
+![](images/b9936cd34e8200cfaa767fcd1126ae6e408ebd8bc2bd6c93cf5423991f5fc947.jpg)  
+图1 理论框架
+
+# 2研究方法
+
+# 2.1样本和调查过程
+
+我们在上海、苏州、重庆、南昌、广州的9家企业(涉及通讯、制药、房地产、教育培训和市政建设)中进行问卷调查以收集数据。为避免共同方法偏差，我们采用多阶段-多来源的设计，分三个阶段收集了员工和直接主管配对的调查数据。调查时，我们先与各公司人力资源管理部门进行沟通，由人力资源部与各相关部门进行沟通协调，并说明我们问卷调查的目的。我们先让人力资源部确定被调查的员工和直接主管的名单，并根据名单对配对问卷进行编号。我们在三个时间点收集数据。在与相关部门沟通后，我们让员工评定主管的辱虐管理行为(时间点1)；约1个星期以后(时间点2)，我们再让员工报告心理契约破坏和中庸思维这2个变量的得分；在大约两个月后(时间点3)，我们让主管对员工的创造力进行评价。在时间点1，共有来自137个团体的572 名员工参与我们的问卷调查，其中有115个团体的员工返回了有效问卷共439 份，问卷回收率是 $7 7 \%$ ；在时间点2，在这115个团体中共有109个团体的402名员工继续参与我们的问卷调查，其中有102个团体中的员工返回了有效问卷共377份，问卷回收率是 $94 \%$ ；在时间点3，我们再让这102个部门(团体)的主管评价员工的创造力水平，共有97个主管按时返回了调查问卷，但最终只有93个团体的主管和员工的问卷能有效配对。由于以下原因，我们删除了部分相关数据：(1)主管和员工的问卷无法有效配对;(2)主要变量的数据缺失严重(如没有报告或填写);(3)主管和员工的数据虽能有效配对，但主管评价员工的数目小于3。最终我们获得369 份有效配对问卷(93 名主管和 369 名员工)。在369 名下属中，男性占 $51 . 8 \%$ ；30岁以下的人占 $51 . 2 \%$ ；接受过本科及以上教育的人占 $2 7 . 7 \%$ ： $59 . 5 \%$ 的人在该公司工作不超过3年。
+
+# 2.2 研究工具
+
+辱虐管理：采用 Tepper(2000)的量表来测量辱虐管理，共15个条目。举例条目为"我的主管常嘲笑我"和"我的主管常说我的想法和感觉很愚蠢”。该量表已由吴隆增、刘军和刘刚(2009)在中国情境下使用，并具有良好的信效度。本研究将采用 $R _ { w g \ddot { ( j ) } }$ 、组内相关系数(ICC[1])和评判间信度(ICC[2])来衡量分数的一致性，以判断个体层面的分数是否能汇总成为群体层次的分数(Bliese,2000)。统计结果显示，个体在辱虐管理上的得分具有较好的一致性(ICC[1]为0.17,ICC[2]为0.44,$R _ { w g ( j ) }$ 的平均数和中位数分别为0.95 和0.97)。因此，本研究有足够的证据将其放置群体层面。在本研究中，该量表的内部一致性系数为0.93。
+
+心理契约破坏：采用 Robinson 和Morrison(2000)的量表来测量心理契约破坏，共5个条目。举例条目为"迄今为止，本公司在招聘我时作出的所有承诺几乎都实现了"(反向计分)。在本研究中该量表的内部一致性系数为0.96。
+
+中庸思维：采用吴佳辉和林以正(2005)的量表来测量中庸思维。该量表由"多方思考”、“整合性"和"和谐性"这3个维度组成，共13个条目。举例条目为"我习惯从多方面的角度来思考同一件事情”、“我会试着在自己与他人的意见中，找到一个平衡点”和“意见决定时，我会试着以和谐的方式让少数人接受多数人的意见”。本研究不在维度层面上展开细致研究，所以将这3个维度上的得分合并取平均值。本研究中总量表的内部一致性系数为0.92。
+
+创造力：沿用前人的做法(Wang,Tsai,& Tsai,2014)，采用 Oldham 和 Cumming(1996)编制的3 个条目来测量员工的创造力，共3个条目。举例条目为“该员工经常会想出一些新颖的、实用的方法来改进绩效”。本研究中该量表的内部一致性系数为0.88。
+
+控制变量：有研究者指出，在遭受不公平对待或人际虐待时，不同性别、年龄、教育程度和工作任期的人，其反应可能是不同的(Aquino＆Douglas,2003)。因此，在本研究中，我们控制了员工的性别、年龄、受教育程度和工作年限。
+
+本研究中所有量表均采用7点量表( $1 =$ 完全反对; $7 =$ 完全同意)。所有量表均已在中国情境下使用过，并具有良好的信效度。
+
+# 2.3 数据分析方法
+
+资料分析的步骤如下：首先，本研究采用验证性因子分析来确认本研究中涉及的几个变量的构念效度。其次，本研究的数据呈现嵌套结构，我们利用 Mplus 7.0 软件(Muthen&Muthen,2012)进行多水平结构方程建模(multilevel structural equation modeling,MSEM)，以检验本文的研究假设；特别是，我们结合 Edward 和 Lambert (2007)的路径分析技术来检验本文涉及的有调节的中介模型。同时，我们还会通过蒙特卡罗再抽样法(Monte Carlo resampling method)，来计算中介效应的置信区间，以检验其显著性程度。在本研究中，所有的数据分析均纳入了控制变量。
+
+# 3研究结果
+
+# 3.1 验证性因素分析
+
+为了考察并确认各个变量的聚合效度(convergent validity)和区分效度(discriminant validity),我们使用Lisrel8.7软件对 369 份员工-主管配对数据进行验证性因子分析。结果表明,4 因子模型中各因子的因子负荷及t值均达到了0.05的显著性水平，且没有不恰当解，这说明本文涉及的几个构念均具有较好的聚合效度。同时，我们通过模型比较的方法来考察各个变量的区分效度。如表 $^ 1$ 所示,4因子模型与另外5个模型相比，对实际数据最为拟合 $( \chi ^ { 2 } = 1 4 8 0 . 6 6 ; d f = 5 8 8 ; \chi ^ { 2 } / d f =$ 2.52; NNFI = 0.95; CFI= 0.96; RMSEA $= 0 . 0 6$ )，说明本文所涉及的4个量表均具有良好的区分效度。
+
+表1验证性因子分析结果  
+
+<html><body><table><tr><td colspan="8">模型比较检验</td></tr><tr><td>模型</td><td>x²</td><td>df</td><td>NNFI</td><td>CFI</td><td>RMSEA</td><td>模型比较</td><td>△x²</td><td>△df</td></tr><tr><td>1.基准模型(4 因子)</td><td>1480.66</td><td>588</td><td>0.95</td><td>0.96</td><td>0.06</td><td></td><td></td><td></td></tr><tr><td>2.三因子模型一</td><td>4065.49</td><td>591</td><td>0.85</td><td>0.86</td><td>0.13</td><td>2 vs.1</td><td>2584.83**</td><td>3</td></tr><tr><td>3.三因子模型二</td><td>7780.26</td><td>591</td><td>0.85</td><td>0.86</td><td>0.18</td><td>3 vs.1</td><td>6299.60**</td><td>3</td></tr><tr><td>4.三因子模型三</td><td>2007.45</td><td>591</td><td>0.93</td><td>0.93</td><td>0.08</td><td>4 vs.1</td><td>526.79**</td><td>3</td></tr><tr><td>5.三因子模型四</td><td>7504.47</td><td>591</td><td>0.86</td><td>0.86</td><td>0.18</td><td>5 vs.1</td><td>6023.81**</td><td>3</td></tr><tr><td>6.单因子模型</td><td>11119.26</td><td>594</td><td>0.72</td><td>0.74</td><td>0.22</td><td>6vs.1</td><td>9638.60**</td><td>6</td></tr></table></body></html>
+
+注： $( 1 ) n _ { \scriptscriptstyle  { p q r } } = 3 6 9 ; n _ { \scriptscriptstyle  { \pm \infty } } = 9 3 _ { \circ } ( 2 ) ^ { \ast \ast } p < 0 . 0 1$ (双尾检验).
+
+基准模型：辱虐管理、心理契约破坏、中庸思维、创造力;  
+三因子模型一：在基准模型的基础上，将辱虐管理和心理契约破坏合并为一个因子;  
+三因子模型二：在基准模型的基础上，将辱虐管理和中庸思维合并为一个因子;  
+三因子模型三：在基准模型的基础上，将辱虐管理和创造力合并为一个因子;  
+三因子模型四：在基准模型的基础上，将心理契约破坏和中庸思维合并为一个因子;  
+单因子模型：将辱虐管理、心理契约破坏、中庸思维、创造力合并为一个因子。
+
+# 3.2 描述性统计结果
+
+各变量的均值、标准差和相关系数如表2所示。心理契约破坏与员工创造力呈显著负相关(r$= - 0 . 1 3 , p < 0 . 0 5 )$ 。这些结果与我们的理论预期基本相符。
+
+表2均值、标准差及变量间的相关关系  
+
+<html><body><table><tr><td>变量a</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>个体层面</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.性别</td><td>1.47</td><td>0.49</td><td>--</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.年龄</td><td>1.70</td><td>0.86</td><td>-0.08</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.受教育程度</td><td>1.23</td><td>0.43</td><td>-0.08</td><td>-0.22**</td><td>--</td><td></td><td></td><td></td><td></td></tr><tr><td>4.工作任期</td><td>2.50</td><td>1.31</td><td>-0.03</td><td>0.53**</td><td>-0.12*</td><td>--</td><td></td><td></td><td></td></tr><tr><td>5．心理契约破坏</td><td>3.23</td><td>1.56</td><td>-0.05</td><td>-0.04</td><td>0.01</td><td>0.07</td><td>(0.96)</td><td></td><td></td></tr><tr><td>6.中庸思维</td><td>2.22</td><td>0.79</td><td>0.10</td><td>-0.11*</td><td>-0.03</td><td>0.01</td><td>0.22**</td><td>(0.92)</td><td></td></tr><tr><td>7．员工创造力</td><td>4.94</td><td>1.16</td><td>0.01</td><td>0.11*</td><td>-0.06</td><td>0.07</td><td>-0.13*</td><td>-0.05</td><td>(0.88)</td></tr><tr><td>群体层面</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.辱虐管理</td><td>1.71</td><td>0.52</td><td>(0.93)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注： $( 1 ) n _ { \scriptscriptstyle  { \ d I } } = 3 6 9$ $n _ { \tt \equiv \hat { B } } = 9 3$ 。(2 $) { } ^ { * } p < 0 . 0 5 { } ^ { * } { } ^ { * } p < 0 . 0 1$ (双尾检验)。(3)各量表的信度系数标注在矩阵对角线括号内。(4)°性别分为两类：1$\mathbf { \Sigma } = \mathbf { \Sigma }$ 男； $2 =$ 女。年龄分为三类： $1 = 2 0 { \sim } 2 9$ 岁； $2 = 3 0 { \sim } 3 9$ 岁； $3 = 4 0$ 岁以上。受教育程度分为三类： $1 =$ 高中及以下; $2 =$ 专科; $3 =$ 本科及以上。任职年限分为四类： $1 = 1 { \sim } 3$ 年; $2 = 4 { \sim } 6$ 年; $3 = 7 { \sim } 9$ 年； $4 = 1 0$ 年以上。
+
+# 3.3 假设检验
+
+# 3.3.1 心理契约破坏的中介效应检验
+
+在假设1中我们假设辱虐管理通过心理契约破坏的中介作用，对员工创造力产生间接的消极影响。由于本研究的数据呈嵌套结构，因此我们分别以心理契约破坏、创造力为因变量，以公司编号为自变量，做单因素方差分析，结果发现组间方差并不显著(心理契约破坏： $F ( 8 , 3 6 0 ) =$ 1.64, n.s.；创造力： $F ( 8 , 3 6 0 ) = 1 . 5 9 , n . s . )$ ；但当我们继续以心理契约破坏、创造力为因变量，以部门(主管)编号为自变量，做单因素方差分析时，结果显示组间方差均极其显著(心理契约破坏：$F ( 9 2 , 2 7 6 ) = 2 . 7 8 , p < 0 . 0 1$ ；创造力： $F ( 9 2 , 2 7 6 ) = 3 . 5 9 , p < 0 . 0 1 )$ 。这表明这两个变量来自部门(而非公司)的变异较大，应进行两水平分析以控制嵌套关系所导致的非随机性的影响(Cohen,1988)。两水平结构方程建模结果表明，辱虐管理与心理契约破坏 $( r = 1 . 0 6 , p < 0 . 0 1 )$ 和员工创造力 $( r =$ $- 0 . 4 1 , p < 0 . 0 1 \rangle$ 相关显著；心理契约破坏与员工创造力相关并不显著 $( r = - 0 . 0 4 , n . s . )$ 。这说明在不考虑中庸思维的调节作用的前提下，心理契约破坏在辱虐管理和创造力的关系间的中介作用并不显著(间接效应为-0.04; $9 5 \%$ 置信区间为[-0.11,0.03])。因此，假设1并没有得到数据的支持。需注意的是，就统计本身而言，这并不是分析被调节的中介效应的必要条件，这是因为调节变量的潜在影响，抵消了这种平均中介作用(刘东，张震，汪默,2012)。
+
+# 3.3.2中庸思维的调节效应检验
+
+在假设2和3中我们假设中庸思维能调节辱虐管理与心理契约破坏、以及心理契约破坏与员工创造力之间的关系。由于我们的数据呈嵌套关系，我们仍然利用 MPLUS7.0软件，通过多水平结构方程建模技术来检验该假设。数据的分析结果如表3所示。从表3中可以看出，在控制员工的性别、年龄、受教育程度、任职年限，以及辱虐管理和中庸思维的主效应以后，辱虐管理和中庸思维的交互项对心理契约破坏的影响不显著 $( r = - 0 . 1 4 , n . s . )$ ；但在控制性别等人口学变量以及心理契约破坏和中庸思维的主效应后，心理契约破坏和中庸思维的交互项对员工创造力具有显著的预测效果 $( r = 0 . 1 8 , p < 0 . 0 1 )$ 。因此，研究结果支持了假设3，但是没有支持假设2。
+
+表3中庸思维在辱虐管理、心理契约破坏和员工创造力关系间的调节效应分析  
+
+<html><body><table><tr><td>变量</td><td>心理契约破坏</td><td>员工创造力</td></tr><tr><td>性别</td><td>-0.26 (0.15)</td><td>-0.05(0.14)</td></tr><tr><td>年龄</td><td>-0.21*(0.11)</td><td>0.02(0.07)</td></tr><tr><td>受教育程度</td><td>-0.04 (0.18)</td><td>-0.13(0.17)</td></tr><tr><td>任职期限</td><td>0.03 (0.06)</td><td>0.07(0.05)</td></tr><tr><td>中庸思维</td><td>0.28* (0.11)</td><td>-0.03(0.07)</td></tr><tr><td>辱虐管理</td><td>1.02** (0.18)</td><td></td></tr><tr><td>心理契约破坏</td><td></td><td>-0.05(0.03)</td></tr><tr><td>辱虐管理×中庸思维</td><td>-0.14 (0.22)</td><td></td></tr><tr><td>心理契约破坏×中庸思维</td><td></td><td>0.18**(0.07)</td></tr></table></body></html>
+
+注：( $1 ) n _ { \Re ^ { 1 } \Im ^ { 1 } } ( \Re \mathbb { Z } ) = 3 6 9$ $n _ { ☉ 2 , 2 , ( \ I ^ { * } ) } = 9 3$ 。 (2) \*\* $p < 0 . 0 1$ $^ { * } p < 0 . 0 5 .$ 。(3)括号中数据为标准误。
+
+为了进一步确认中庸思维在心理契约破坏和员工创造力的关系间的调节效应的型态是否符合原先的预期，我们参考 Aiken 和West (1991)的做法，分别取中庸思维加减一个标准差的值代入回归模型中，并进行绘图(见图 2)。从图2中可以看出，与低中庸思维相比，在高中庸思维的情境下，心理契约破坏和员工创造力之间的负向关联性较弱，这与原先的预期相符。简单斜率分析(simple slope analysis)结果也表明，在高中庸思维的条件下，心理契约破坏和员工创造力之间的负向关联性较弱(简单斜率为0.09,n.s.)；相比较而言，在低中庸思维的条件下，心理契约破坏和员工创造力之间的负向关联性较强(简单斜率为-0.19, $p < 0 . 0 1 \AA \AA$ )。其组间差异为0.28，达到了显著性水平 $( p < 0 . 0 1 )$ 。这与原先的预期相符，因此假设3得到支持。
+
+![](images/be68cc8a3458aee1c439afea818891ef10fb518bb66ef4d9df466aae2ff794ed.jpg)  
+图2中庸思维在心理契约破坏和员工员工创造力之间的调节作用
+
+# 3.3.3 有调节的中介效应检验
+
+假设4中，我们假设心理契约破坏在辱虐管理和员工创造力之间的中介作用会受到中庸思维的双重调节。由于中庸思维能调节心理契约破坏与创造力之间的关系(假设3)，但不能调节辱虐管理与心理契约破坏之间的关系(假设2)，因此它只能构成第二阶段有调节的中介效应模型(刘东等,2012)。我们仍然利用 Edward 和Lambert (2007)的路径分析技术，来检验中庸思维是否能调节以上间接关系。数据分析结果如表4所示。
+
+表4调节-中介模型分析  
+
+<html><body><table><tr><td rowspan="3">分组统计</td><td colspan="4">辱虐管理(X)→心理契约破坏(M)→员工创造力(Y)</td><td rowspan="3">间接效应95%的 置信区间</td></tr><tr><td colspan="2">阶段</td><td colspan="2">效应</td></tr><tr><td>第一阶段</td><td>第二阶段</td><td>直接效应</td><td>间接效应</td></tr><tr><td>低中庸思维(-1SD)</td><td>(PMx) 1.06**(0.18)</td><td>(PYM)</td><td>(Pyx)</td><td>(PMx Pym)</td><td></td></tr><tr><td>高中庸思维(+1 SD)</td><td></td><td>-0.12*(0.05)</td><td>-0.39** (0.14)</td><td>-0.12*(0.05)</td><td>[-0.22,-0.03]</td></tr><tr><td></td><td>1.06**(0.18)</td><td>0.07 (0.05)</td><td>-0.39** (0.14)</td><td>0.07(0.06)</td><td>[-0.04,0.19]</td></tr><tr><td>组间差异</td><td>1.06**(0.18)</td><td>-0.18**(0.07)</td><td>-0.39** (0.14)</td><td>-0.19*(0.08)</td><td>[-0.37, -0.04]</td></tr></table></body></html>
+
+注： $( 1 ) n _ { \mathrm { ~ \# ~ l ~ } _ { E } ( \wp _ { \pm } , \mathbb { T } ) } = 3 6 9$ $n _ { ☉ } 2 _ { \mathbb { E } } ( \ I _ { \Xi ^ { \ c } } ) = 9 3$ 。 $( 2 ) ^ { * * } p < 0 . 0 1$ $^ { * } p < 0 . 0 5$ 。(3)括号中数据为标准误。 $( 4 ) P _ { \mathrm { M X } }$ 表示辱虐管理到心理契约破坏的非标准化路径; $P _ { \mathrm { Y M } }$ 表示心理契约破坏到员工创造力的非标准化路径; $P _ { \mathrm { Y X } }$ 表示辱虐管理到员工创造力的非标准化路径。(5)我们通过中庸思维的正负1个标准差(SD)来区分出高低组。
+
+从表4中可以看出，中庸思维能调节心理契约破坏在辱虐管理和员工创造力之间的中介作用,即当中庸思维水平较低时，心理契约破坏在辱虐管理和员工创造力之间的中介作用十分显著(间接效应为-0.12, $9 5 \%$ 置信区间为 $[ - 0 . 2 2 , - 0 . 0 3 ] )$ ；但当中庸思维水平较高时，该中介作用不再显著(间接效应为 $0 . 0 7 , 9 5 \%$ 置信区间为[-0.04,0.19])。其组间差异为-0.19,达到了显著性水平 $( p <$ 0.05)。因此，假设4基本得到数据支持。
+
+# 4讨论
+
+# 4.1 研究结果讨论
+
+创造力是企业可持续发展的主题。如何激发和维持员工的创造力，已成为学界和企业界长期关注的话题。领导方式是影响员工创造力的重要情境变量，本研究采用纵向研究设计，运用多时间点、多来源数据，借助多水平结构方程建模分析，探讨并检验了辱虐管理对创造力影响过程中心理契约破坏的中介作用，以及中庸思维的调节作用。实证结果也总体上支持了我们的研究构想。总体而言，本研究对于理论贡献和管理实践主要表现在以下几点：
+
+首先，以往的研究在探讨辱虐管理对员工创造力的影响时大多是基于社会学习理论(e.g.,Liu et al.,2012)和激活理论(e.g.,Lee et al.,2013)等视角，很少有研究从心理契约理论的角度来探讨辱虐管理对员工创造力的影响过程及作用机制。本研究从心理契约理论的角度出发，发现辱虐管理会通过心理契约破坏的中介作用，对员工创造力产生间接的影响。虽然先前曾有研究者猜想辱虐管理可能会通过心理契约破坏的中介作用，进而对员工工作态度和行为产生间接的影响(e.g.,Parzefall& Salin,2010; Restubog,Scott,& Zagenczyk,2011)，然而目前鲜有研究为该假说提供相关的实证支持。本研究较早地提出辱虐管理可能会通过心理契约破坏的中介作用，对员工创造力产生间接的消极影响，并通过实证研究来检验，这对以往研究是一个有益的补充，它丰富了我们对辱虐管理的内在机理的认识。
+
+其次，本研究提出并检验了中庸思维作为一种边界条件，在辱虐管理-心理契约破坏-创造力的间接关系中的调节作用。中庸思维的调节作用为我们理解文化价值观影响辱虐管理的影响效果的方式提供了线索。如前所述，中庸之道强调人们在处理矛盾时要做到"执两用中，执中致和”，以达到中正、中和、稳定、和谐的状态。这使得高中庸思维者在思考问题时比较全面(Ji,Peng,& Nisbett,2000)，在处理事情时也很少走极端(Lee,2000)，在遇到不同意见甚至冲突时，往往会寻求妥协(Cheung et al.,2003)。因此，在遭受因主管的辱虐管理而产生的心理契约破坏时，高中庸思维者会换位思考，从动态的、更积极的角度来看待和评价组织的行为，这有助于个体由基于情感的热加工系统转向基于认知的冷加工系统，实现自我行为的控制和调节，因而不会意气用事，而是会在组织需要的时候仍然会主动提出新颖性的、切实可行的想法与方案。虽然近年来国内对辱虐管理的研究逐渐增多，但是目前大多数研究仍然根植于西方文化背景，对中国本土文化情景下的辱虐管理研究还不太多。契合近来学者提出并检验中国文化情境下辱虐管理效应边界的呼吁(丁桂凤，古茜茜，朱滢莹，刘建雄,2012；吴隆增，刘军，刘刚,2009)，本研究为辱虐管理-心理契约破坏-创造力的间接关系模型输入了非常有价值的中国文化背景，这也是本研究的最大理论贡献所在。
+
+另外，本研究对企业管理实践也有一定的启示作用：(1)本研究对领导者的日常管理具有一定的警醒作用。本研究结果提醒管理者应该要重视其辱虐管理行为的危害性，并在管理实践中采取有效措施以减少辱虐管理行为的发生。这是因为辱虐管理如果不加干预，会让员工体验到心理契约的破坏，进而在工作中会表现出较低的创造力。有鉴于此，企业可针对主管展开相关的培训，提高其在工作中的个人修养，学习如何人性化地管理下属；让其真正重视辱虐管理行为的危害性，并发自内心的去做出改变，以期从源头纠正主管的辱虐管理行为。(2)本研究对于管理者如何降低辱虐管理行为的负面效应也具有一定的参考意义。虽然辱虐管理行为在中国企业中普遍存在，但本研究启示管理者可从文化价值观的塑造入手实施干预，以实现员工行为的自我调节，从而规避辱虐管理的负面效应。例如，作为管理者，可以为员工提供中庸文化的学习培训，培养员工的中庸思维方式，修炼员工的"心性”，让员工懂得如何在工作中整体地、辩证性地看待主管的辱虐管理行为，合理地调适工作中的负面情绪及认知，以减少辱虐管理给员工创造力带来的负面影响。
+
+# 5.2 研究局限性及未来研究展望
+
+本研究还存在一些不足之处：(1)本研究通过主管与员工的配对，在三个不同的时间点收集数据，这种研究设计在一定程度上控制了共同方法偏差；但辱虐管理的测量具有敏感性，会产生社会赞许效应，因此在未来的研究中可以尝试采用不同的方法(如运用深度访谈等质化研究的方式等)来收集上司的辱虐管理数据，进一步探索辱虐管理对员工创造力的影响过程及作用机制。(2)本研究表明当个体的中庸思维水平较低时，辱虐管理可以通过心理契约破坏的中介作用，给员工创造力带来消极的影响；但Lee等人(2013)的研究表明辱虐管理与创造力之间呈倒U型曲线关系，这说明辱虐管理不总是会降低员工的创造力，在某些时候它可能有助于提升员工的创造力。因此，我们呼呼研究者们在未来的研究中继续探索辱虐管理影响员工创造力的潜在心理机制与边界条件，特别是要搞清楚辱虐管理是如何提高员工的创造力的。对于以上不足，我们将在后续的研究中加以改进。
+
+# 6结论
+
+本研究检验了心理契约破坏在辱虐管理和员工创造力之间的中介作用，以及该间接关系间的调节作用。研究的具体发现如下：主管的辱虐管理行为会通过心理契约破坏的中介作用，对员工创造力产生间接的消极影响；但该间接的影响过程会受到下属中庸思维的调节。具体而言，当下属的中庸思维水平较低时，心理契约破坏在辱虐管理和创造力关系间的中介作用较强；当下属的中庸思维水平较高时，心理契约破坏在辱虐管理和创造力关系间的中介作用较弱。
+
+# 参考文献
+
+Aiken,L.S.,& West,S.G.(1991).Multipleregression:Testingand interpreting interactions.NewburyPark,CA: Sage Publications.   
+Aquino,K.，& Douglas,S.(2Oo3).Identitythreatandantisocial behavior inorganizations:The moderating effectsof individual diferences,aggressive modeling,and hierarchical status. Organizational Behavior and Human Decision Processes,90(1),195-208.   
+Agarwal,A.U. (2016).Examining perceived organizational politicsamong Indian managers: Engagement as mediatorand locus of control as moderator.International Journal of Organizational Analysis,24(3),415-437.   
+Blau,P.M. (1964). Exchange and power in social life. New York: Wiley.   
+Bliese,P.D.(2ooo).Within-groupagreement,non-independence,andreliability:Implications fordataaggregationand analysis. In K.J. Klein & S. W. J Kozlowski (Eds.),Multilevel theoryresearch and methods in organizations (pp. 349-381). San Francisco: Jossey-Bass.   
+Cheung,T.,Chan,H.,Chan,K.,King,A.Y.,Chiu,C.,&Yang,C.(2O3).On Zhongyongrationality:TheConfuciandoctrine of the mean as a missing link between instrumental rationality and communicative rationality. Asian Journal of Social Science,31(1),107-127.   
+Cohen,J.(1988). Statistical power analysis for the behavioral sciences (2 ed.).Hillsdale,NJ: Eribaum.   
+Conway,N.and Briner,R.B.(2OO2).Adailydiarystudyof affectiveresponses topsychologicalcontract breachand exceeded promises.Journal of Organizational Behavior, 23(3),287-303.   
+Ding,G.F.,Gu,X.X.,Zhu,Y.Y.,&Liu,J.X.(2Ol2).The mechanism between superior'sabusiveandsubordinate's performance behavior and intervention strategies. Advances in Psychological Science,20(9),1347-1354.   
+[丁桂凤，古茜茜，朱滢莹，刘建雄.(2012).上司不当督导与下属绩效行为的作用机制及其干预策略．心理科学进展， 20(9),1347-1354.]   
+Ding,G.,& Zhang,P.(2O13).Abusive supervision and normative commitment:The mediation efects of followership. Studies of Psychology and Behavior; 11(6),796-800.   
+[丁桂凤，张澎涛.(2013)．领导不当督导与追随者规范承诺：追随力的中介作用．心理与行为研究,1(6),796-800.]   
+Edwards,J.R.,&Lambert,L.S.(oo7).Methods for integrating moderationand mediation: ageneral analytical framework using moderated path analysis.Psychological Methods,12(1),1-22.   
+Han,G.H., Harms,P.D.,& Bai,Y. (20l7).Nightmare bosses: The impact of abusive supervision on employees’ sleep, emotions,and creativity.Journal of Business Ethics,145(l),21-31   
+He,X.(2o09). Does interactional justice cure salience? Management World,(4),128-134.   
+[何轩.(2009).互动公平真的就能治疗沉默病吗？以中庸思维作为调节变量的本土实证研究．管理世界,(4),128-134.]   
+Hemphala,J.,& Magnusson,M.(2O12).Networks for innovation-but what networksand what innovation.Creativity and Innovation Management,21,3-16.   
+Ho,M. Y.,&Fung,H.H. (20l1).A dyamic process model offorgiveness: A cros-cultural perspective. Reviewof General Psychology, 15(1),77-84.   
+Janssen，O.(2oo).Job demands，perceptions of effort-reward fairness and innovative work behaviour. Journalof Occupational and Organizational Psychology, 73(3),287-302.   
+Janssen,O. (2004). How fairness perceptions make innovative behavior moreor lesstressul. Journal of Organizational Behavior, 25(2),201-215.   
+Ji,L.J.,Peng,K.,sbt,R.E.().Culure,otroldprptinfrelaiosineiront.Joulof Personality and Social Psychology, 78(5), 943-955.   
+Khazanchi,S.,& Masterson,S.S.(2Ol1).Whoand what is fair maters: A multi-focisocial exchange model of creativity. Journal of Organizational Behavior, 32, 86-106.   
+Kiazad,K.,Seibert,S.E.,&Kramer,M.L.(20l4).Psychologicalcontractbreachand employee innovation: Aconservation of resources perspective. Journal of Occupational and Organizational Psychology, 87,535-556.   
+Lee,S.,Yun,S.,& Srivastava,A. (2Ol3).Evidenceforacurvilinearrelationship betweenabusive supervisionand creativity in South Korea. The Leadership Quarterly, 24(5),724-731.   
+Lee,Y.T.(20o0). What is mising in Chinese-Western dialectical reasoning?American Psychologist,55,1065-1067.   
+Li,Y.N.,Zhang,M.J.,Law,K.S.,&Yan,M.N.(20l5).ubordinate performanceand abusivesupervision:Theroleofenvy and anger. Academy of Management Proceedings, 2015(1),16420-16420.   
+Liu,D.,Liao,H.,&Loi,R.(0l2).Tedark sideofladership:Athre-levelinvestigationofthcascadingeffctofbusive supervision on employee creativity. Academy of Management Journal, 55(5),1187-1212.   
+Liu,D.,Zhang,Z.,& Wang,M. (2012).Mono-level and multilevel mediated moderation and moderated mediation: Theorization and test. In X. Chen,A. Tsui &L.Farh (Eds.), Management Research Methods (2nd ed., pp.545-579). Beijing: Peking University Press.   
+[刘东，张震，汪默.(2012).被调节的中介和被中介的调节：理论构建与模型验证．见陈晓萍，徐淑英和樊景立(主编). 组织与管理研究实证方法(2nd; pp.545-579.).北京：北京大学出版社.]   
+Metcalfe，J.，& Mischel， W.(1999).A hot/col-system analysisof delay of gratification: Dynamics of wilpower. Psychological Review, 106,3-19.   
+Morison,E.W.,&Robinson,S.L.(1997).Whenemployes felbetrayed: Amodelofhow psychologicalcontractviolation develops. Academy of Management Review, 22(1),226-256.   
+Muthen,L. K.,& Muthén, B. O. (2012). Mplus user's guide (7th ed.).Los Angeles, CA: Author.   
+Ng,T.W.H.,Feldman,D.C.&Lam,S.S.K. (20l0).Psychological contract breaches,organizational commitment,and innovation-related behaviors: A latent growth modeling approach. Journal of Applied Psychology, 95(4),744-751.   
+Oldham,G. R.，& Cummings，A. (1996).Employee creativity: Personal and contextual factors at work. Academy of Management Journal, 39(3),607-634.   
+Parzefall, M.R.,& Salin,D.M. (2010). Perceptionsof and reactions to workplace bullying: Asocial exchange perspective. Human Relations, 63(6), 761-780.   
+Restubog,S.L.D.,Scot,K.L.,& Zagenczyk,T.J.(20l1).When distress hitshome:Theroleofcontextual factorsand psychological distress in predicting employees'responses to abusive supervision. Journal of Applied Psychology, 96, 713-729.   
+Robinson,S.L.,&Morrison,E.W. (2Ooo).Thedevelopmentofpsychologicalcontract breachand violation: Alongitudinal study. Journal of Organizational Behavior, 21(5),525-546.   
+Scott,S.G.,& Bruce,R.A.(1994).Determinants of innovative behavior: A path modelof individual innovation in the workplace. Academy of Management Journal, 37(3),580-607.   
+Sethi,A.,Mischel,W.,Aber,J.L.Shoda,Y.,&Rodriguez,M.L.(20o0).Theroleof strategicatention deploymentin development of self-regulation: Predicting preschoolers' delay of gratification from mother-toddler interactions. Developmental Psychology, 36,767-777.   
+Shalley,C.E.,Gilson,L.L.,&Blum,T.C.(209).Interactiveeffectsof growth needstrength,workcontext,and job complexity on self-reported creative performance. Academy of Management Journal, 52(3), 489-505.   
+Tekleab，A.G.，& Taylor,M. S.(2003).Aren't there two parties inan employment relationship?Antecedents and consequences of organization-employee agreement on contract obligations and violations. Journal of Organizational Behavior, 24(5), 585-608.   
+Tepper,B.J.(20oo). Consequences of abusive supervision.Academy of Management Journal, 43(2),178-190.   
+Tepper,B.J.(20o7).Abusive supervision inwork organizations:Review,synthesis,and research agenda.Journalof Management, 33(3),261-289.   
+Wang,C.J.,Tsai,H.T.,&Tsai,M.T.(O14).Linkingtransformationalleadershipandemployeecreativityinthehospitality industry: The influences of creative role identity,creative self-efficacy,and job complexity.Tourism Management, 40,79-89.   
+Wu,J.H.(2006).Zhongyong makemy life beter:The efect of Zhongyong thinkingon life satisfaction.Journal of Psychology in Chinese Societies,7,163-176.   
+[吴佳辉.(2006).中庸让我生活更美好：中庸思维对生活满意度之影响．华人心理学报,7,163-176.]   
+Wu,J.H.,&Lin,Y.C.(2Oo5).Developmentofa Zhong-Yong thinkingstyle scale.Indigenous Psychological Researchin Chinese Societies,24,247-300.   
+[吴佳辉，林以正.(2005).中庸思维量表的编制．本土心理学研究,24,247-300.]   
+Wu,L. Z.,Liu,J.,&Liu,G. (Oo9).Abusive supervisionandemployee performance: Mechanismsoftraditionalityandtrust. Acta Psychologica Sinica, 41(6),510-518.   
+[吴隆增，刘军，刘刚.(2009).辱虐管理与员工表现：传统性与信任的作用．心理学报,41(6),510-518.]   
+Yang,C.F.(20l0).MultiplicityofZhongYong studies.Indigenous Psychological Researchin Chinese Societies,34,3-96.   
+[杨中芳.(2010)．中庸实践思维体系探研的初步进展．本土心理学研究,34,1120-165.]   
+Yang, C.F.,& Chiu, C.Y. (1997). A preliminary explorationof the idea of Zhongyong in practice. Paper presented at the Chinese psychology and behavior Interdisciplinary Symposium, Taipei.   
+[杨中芳，赵志裕.(1997)．中庸实践思维初探．未发表论文稿.]   
+Yao,X.,Yang,Q.,Dong,N.,&Wang,L. (2010).Moderating effectof Zhong Yong on therelationshipbetween creativityand innovation behaviour.Asian Journal of Social Psychology,13,53-57.   
+Zhang,H.,Kwan,H.K., Zhang,X.,& Wu,L.Z. (2014). High core self-evaluators maintain creativity: Amotivational model of abusive supervision. Journal of Management, 40(4),1151-1174.   
+Zhao,H.,Wayne,S.J., Gbkowski,B.C,& Bravo,J.(2007).The impactof psychologicalcontractbreachon work-related outcomes: A meta-analysis. Personnel Psychology, 60(3),647-680.   
+Zhou,J.，& Hoever,I.J.(2014).Research on workplace creativity: A review and redirection. Annual Review of Organizational Psychology and Organizational Behavior; 1(1),333-359.
+
+# Linking abusive supervision with employee creativity: The roles of psychological contract breach and Zhongyong thinking style
+
+SHEN Yimo 1,2; BAI Xinwen’; ZHU Yanhan4; LU Yunlin5; LIU Jun²; ZHANG Qinglin1
+
+(l SchoolofPsychology,Southwest University,Chongqing 400715,China) ( Business School,Renmin UniversityofChina,Beijing 0o872,hina) (CASKeyLbratoryofehavioralienceInstitutefsychologyCneseAcdemyfcenceseijingina) (4 SchoolofPolitical ScienceandPublic Administration,Southwest University,Chongqing 40o715,China) ( Schoolof BusinessandLaw,Jiangsu Second Normal University,Nanjing 21oo29,China)
+
+# Abstract
+
+Although creativity has been recognized as an important employee outcome related with work context, to date litle research has actually examined the relationship between abusive supervision and creativity, which is hindered perhaps by the lack of a theoretical framework outlining the mechanisms underlying this relationship. The current study examined the processes linking abusive supervision to employee creativity by focusing on the mediating influence of psychological contract breach and the moderating influence of Zhongyong thinking style.
+
+We collected the data from 93 supervisors and 369 subordinates at three diferent time points. In the first survey，the subordinates were asked to provide information about abusive supervision and their demography. One week later, these subordinates were asked to answer some questions about psychological contract breach,and Zhongyong thinking style. About two months later, we asked these supervisors to rate their subordinates’creativity. Multilevel structuring equation modeling technique and Monte Carlo resampling method were employed to examine the hypothesis about the moderating role of Zhongyong thinking style in the indirect relationship between abusive supervision and employee creativity through psychological contract breach.
+
+The findings provided support to the hypothesis that the indirect relationship between abusive supervision and employee creativity through psychological contract breach is moderated by Zhongyong thinking style,such that the indirect relationship would be weakened when Zhongyong thinking style is high, rather than low.
+
+Keywords: abusive supervision; psychological contract breach; Zhongyong thinking style; creativity

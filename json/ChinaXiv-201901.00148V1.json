@@ -1,0 +1,579 @@
+[
+    {
+        "type": "text",
+        "text": "面向图文匹配任务的多层次图像特征融合算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝志峰‘²，李俊峰1，蔡瑞初」，温雯'，王丽娟‘，黎伊婷」(1．广东工业大学 计算机学院，广州 510006;2．佛山科学技术学院 数学与大数据学院，广东 佛山 528000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：现有主流的利用预训练卷积神经网络提取图像特征的方法存在如下问题：仅使用单层预训练特征表征图像；预训练任务与实际研究任务不一致。使得现有图文匹配方法无法充分利用图像特征，极易受到噪声特征干扰。针对上述问题，使用了预训练网络中的多层特征，并提出了多层次图像特征融合算法。在图文匹配的学习目标指导下，利用多层感知机（Multi-Layer Perceptron）有监督地融合和降维多层次的预训练图像特征，生成融合图像特征，从而充分利用预训练特征，减少噪声干扰。实验结果表明，提出的融合算法可实现对预训练的图像特征更有效的利用，相比于使用单层次特征的方法能获得更好的图文匹配效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：图文匹配；多层次图像特征；预训练特征；融合图像特征；推荐系统 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.10.0780 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fusion of multi-level image features for image-text matching ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hao Zhifeng1,², Li Junfengl†, Cai Ruichu1, Wen Wen1, Wang Lijuan1,Li Yitingl (1.Colegeof Computer,Guangdong UniversityofTechnologyGuangzhou51006,China;2.ColegeofMathematics& Big Data,Foshan University,Foshan Guangdong 5280o0,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Theexisting mainstream methods use thepre-trainedconvolutional neural networks to extract image features and usually have the following limitations:a）Only usinga single layer of pre-trained features to represent image;b) Inconsistency betweenthe pre-trainedtask and theactualresearchtask.Theselimitations result inthatthe existing methods of image-text matching cannot makefulluseof image features and is easily influenced bythe noises.Tosolve the above limitations,this paper used multi-layer features from a pre-trained network and proposed a fusion algorithm of multi-level image featuresaccordingly. Under the guidanceofthe image-textmatching objective function,theproposed algorithm fused the multi-level pre-trained image features andreduced their dimensionalityusing amulti-layer perceptron to generate fusion features.Itisable tomakefulluseofpre-trainedfeaturesandsuccessfullyreducethe influencesofnoises.Theexperimental results showthatthe proposed fusion algorithmmakes beteruseofpre-trained image featuresand outperforms the methods using single-level features in the image-text matching task. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:image-text matching;multi-levelimage features;pre-trained features;Fusion features;recommendationsystem ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，图文匹配任务在人工智能、机器学习等领域中逐渐变得热门。为了给文本选取最适合的图像，在过去通常采用人工搜索的方式，根据文本内容在海量图像中进行筛选，这会耗费人类大量的时间和精力。得益于前人所取得的成果，本文现在可以利用机器学习等技术，构建一个能根据文本内容推荐合适图像的图文匹配系统。这使得无须再进行繁琐的、重复的人工搜索，减轻工作压力。而作为一个图文匹配系统，其必须同时关注文本和图像这两个属于不同模态的研究对象，因此图文匹配实际上是属于多模态（multimodal）的任务。为了完成这个任务，一般需要解决的有三个基本问题：如何对文本进行表征；如何对图像进行表征；如何联合地分析文本和图像的特征，精准地度量两者的相似性。其中前两个表征问题尤为重要，因为它们是解决第三个问题的基础。数十年来，解决表征问题需要仔细的工程设计和相当的领域专业知识来设计一个特征提取器，将原始数据（如未处理的文本或者图像的像素值）转换成合适的内部表示或者特征向量。如此一来，建模过程会过于复杂而且往往其表征能力也不强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于前人在深度学习领域取得的瞩目成果，可以利用一些通用的人工神经网络去进行表征学习，例如多层感知机（multi-layerperceptron）[1]、循环神经网络（recurrentneuralnetworks，RNN）[2]、卷积神经网络（convolutional neuralnetworks,CNN）[3]和长短期记忆网络（longshort-termmemory,LSTM）[4]。这些网络是由多个简单、非线性的特征层组合而成。每个特征层都将某一级别的特征变换为更抽象、更高级的特征。有了足够的变换组合，网络也就能学习到十分复杂的功能。最关键的一点是，这些人工神经网络里的特征层并不是由人类工程师所设计的，而是在学习目标指导下从数据中学习的。因此，深度学习方法的利用简化了建模的过程和增强了对研究对象的表征能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般地，在深度学习中为了对研究对象进行特征抽取，有两种方法：a）在研究任务的学习目标指导下有监督地训练一个人工神经网络，然后利用该网络为研究对象抽取对任务有用的特征；b)利用数据集质量较高的预训练任务训练一个人工神经网络，再用该网络中某一层特征作为研究对象的一般特征。对于一些数据集质量不够高的研究任务，为了更丰富和更有效率地对研究对象进行表征，主流的做法是采用第二种方法。例如，为了更好地抽取图像特征，可以在图像识别的任务指导下使用ImageNet数据集预训练一个卷积神经网络，然后使用该网络中的某一层特征层（一般是分类输出前的全连接层）的输出值作为图像特征，然后再进行进一步的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络的层级结构天然地决定了高层特征是底层特征的归纳和总结。也即网络中的不同特征层分别代表着不同层次的特征，并且随着网络层级越深，所表达的特征就越抽象和越高层次。在学习的过程中，网络必定会在任务的学习目标指导下，有监督地归纳出对任务有用的特征。然而，基于深度学习的图文匹配一般是直接使用预训练网络中的单层特征去作为图像特征，或者对该单层特征进一步进行微调（fine-tuning)。因此也就只能使用到预训练任务所归纳的某一单层次特征，或者只能从该单层次特征的基础上进一步进行归纳。遗憾的是，预训练任务和实际研究的图文匹配任务是有一定差别的（任务的不一致性)。直接使用某一单层次的预训练特征会存在图文匹配所需要的特征并没有被归纳到的情况，同时也存在大量没有作用的噪声特征；再者，对单层次的预训练特征进行微调也未能利用到其他层次的有用特征因此，直接使用或微调预训练网络的某一单层次特征并没有充分地、合理地使用这种预训练特征，需要去抽取多层次的预训练特征，并在该多层次特征的基础上进行进一步的归纳、提炼。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特别地，针对以上问题，本文创新地使用了预训练网络中的多层特征，并提出了一种多层次图像特征融合算法（简称融合算法)。该算法通过在图文匹配任务的学习目标指导下，利用多层感知机有监督地去融合和降维多层次的预训练图像特征，最后生成出融合图像特征。其中，多层次的预训练图像特征的使用可充分地利用到更多不同层次的特征，融合和降维的过程则能归纳出对图文匹配任务有用的特征，去除无用的特征，因此也减少了噪声特征的干扰。本文之所以采用多层感知机来实现融合，是因为多层次的预训练图像特征不能简单地进行叠加融合，具有复杂的非线性关系。而多层感知机是感知机的推广，能有效地对这种非线性关系的特征进行处理，因此用多层感知机有监督地处理这种多层次的特征是一种简洁且有效的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过把融合图像特征引入到本文所实现的基于文本内容的图像推荐算法中，能够获得更好的推荐效果。最后，两个数据集上的实验结果都表明：本文所提出的方法的确能更有效地利用预训练的图像特征，生成在图文匹配任务中表达能力更强的融合图像特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的贡献主要包括以下几个方面：a）使用了由预训练卷积神经网络抽取出的多层次图像特征；b）构建了一个在图文匹配任务的学习目标指导下，对多层次的预训练图像特征进行融合和降维的多层感知机，并用其为图像生成融合图像特征；c）利用协同过滤[5的思想构建了一个能根据文本内容进行推荐的图像推荐算法，并在该算法中使用本文所提出的融合图像特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图文匹配在推荐系统、机器学习等领域中占据着重要的地位。Yan等人[6提出使用深度网络去表征图像和文本，然后利用带有深度典型关联分析的联合隐藏空间学习以解决图文匹配的问题。Ma等人[7在图文匹配任务中，构建了一个图像特征抽取网络，并提出使用预训练的卷积神经网络来初始化该特征抽取网络。Wang等人[8]基于深度学习方法构建了一个图文联合隐藏空间学习的一般框架，且提出了图像和文本都存在各自的结构保持约束以及图文匹配的双向排名约束。Nam等人[9提出使用注意力机制去解决图文匹配以及基于视觉的问答这两种多模态任务，最后在标准的数据集中获得了十分先进的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而在图像特征工程领域里，一些用于处理图像的卷积神经网络结构[10\\~16]变得越来越深，朝着模块化的方向发展。这些网络不断刷新着图像识别任务的成绩，现今已经能达到很高的水平，甚至已经超越了人类的识别能力。因此可以确信的是，这些优秀的网络模型有能力抽取到大量高级的图像语义特征，利用这些预训练的网络抽取图像的特征信息也是合乎常理的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于这些优秀的图像识别网络，Zeiler 等人[7]尝试去可视化和理解卷积神经网络，以及观察了给定的特征图是受输入图像的哪些结构所影响的。随后，Garcia-Gasulla 等人[18]尝试无监督地抽取关于抽象语义的视觉表达特征。他们使用了预训练的卷积神经网络中的卷积层特征去表征图像，然后利用与Word-Net距离的相关性评估了该特征空间的语义，发现该空间的向量距离是与语言语义强相关的。接着通过聚类实验，他们发现在WordNet中靠近的元素能被聚集在一起，“犬类”和“轮式车辆”的类别之间也存在着明显的鸿沟，而且“生物”和“非生物”这两个更高级的语义类别也能被明显地区分开来。这些证据都可以证明该表征方式的确能够成功地获取视觉的高级语义信息。Agrawal等人[19]分析了预训练特征对于实际研究的物体识别任务是否有效。实验证明在大多数情况下，预训练特征和微调后的特征的表现都要比重新开始训练的特征要好（除了在数据集有较大补充的情况下，重新训练的特征的实验表现会比预训练特征好，但是微调特征的表现依然是最好的)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际上在应用研究中，大量的实验表明利用预训练的图像特征能够取得很好的效果。如Vinyals 等人[20]使用预训练的卷积神经网络去表征图像，然后构建出一个能为图像生成描述文字的模型。Peng等人[21]利用了微调后的预训练卷积神经网络多尺度地去获取图像的特征，并且提出了标签继承的概念。Liu等人[22]在图像识别任务中使用了预训练卷积神经网络中的卷积层来获取图像的局部特征。由于卷积层保留了空间的信息，不再需要多次地使用网络获取图像的局部特征，因此也消除了训练图像的尺度与图像局部的尺度不一致的影响。该工作证明了只要使用得当，不仅预训练的全连接层特征有用，预训练的卷积层特征也能蕴涵十分有用的信息。Doersch等人[23]利用了图像的自身信息，自监督地预训练网络。这个过程没有用到实际研究数据集以外的任何标签。该工作的实验结果表明，利用该方法预训练的特征也能够在计算机视觉任务中发挥作用，提升表现。以上的工作都是使用预训练的网络去表征图像的，虽然能有很好的表现，但是都仅仅使用了预训练网络中的某一单层次特征去作为图像的特征。这会导致预训练特征没有被充分地利用和易受噪声特征的干扰等问题。因此有人开始尝试去使用和融合预训练网络中的多层次特征。如Gatys等人[24]在图像的风格迁移任务中使用了预训练网络中的某一单层卷积层特征来作为图像的内容特征，以及使用了由多层卷积层特征所产生的多个GramMatrices共同地表示图像的风格特征。然后利用反向梯度传播修改噪声图像，最终即可产生带有指定风格和指定内容的图像。该工作通过损失函数叠加的方式对多层次的预训练特征进行利用。Liu等人[25]利用BoVW（bagofvisual words）算法把预训练的卷积层特征转换成单词直方图以表征图像。最后通过各层直方图距离核的带权加和得到一个总的深度金字塔式匹配核，用于对 SVM（supportvector machine）算法进行优化。Ronneberger等人[26]构建了一个U型网络以解决生物医学图像的分割任务。该网络为了更好地进行定位，把网络的收缩路径中的高分辨率特征和上采样路径中的输出结合在一起，以致随后的连续卷积层能学习根据这些信息组合出一个更精确的输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 多层次图像特征融合算法及图像推荐算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1多层次图像特征融合算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "融合算法用于对多层次的预训练图像特征进行融合和降维，是本文的核心算法，整个算法框架如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间信息，则不需要进行池化操作：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { f } _ { i } ^ { ( k ) } = \\pmb { f } \\pmb { c } _ { i } ^ { ( k ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要注意的是，实际上不总是需要使用预训练网络中所有的特征层，而是可以根据具体情况有选择性地使用，因此式（1）中的 $F _ { \\mathrm { p r e } } ^ { ( k ) }$ 可以只包含部分特征层的特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了从多层次的预训练特征中归纳出对图文匹配任务有用的特征和舍弃无用的噪声特征，本文构建了一个多层感知机MLP在图文匹配任务的学习目标指导下去融合和降维图像 $k$ 的 $F _ { \\mathrm { p r e } } ^ { ( k ) }$ 特征，最终输出融合图像特征 $E _ { \\mathrm { i m g } } ^ { ( k ) }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { E } _ { \\mathrm { i m g } } ^ { ( k ) } = \\mathbf { M } \\mathbf { L } \\mathrm { P } ( \\pmb { F } _ { \\mathrm { p r e } } ^ { ( k ) } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该MLP为标准的全连接人工神经网络，其设计有以下几个特点：a）隐藏层和输出层都设置了非线性激活函数以增强网络的表达能力；b）网络的各层维度随着深度越深变得越低，用于对高维度且包含大量噪声特征的多层次预训练特征进行融合和降维；c）网络输出的融合图像特征的维度要与文本特征一致，以便进行相似度测量。由于MLP中所采用的激活函数、各层的维度以及层数是与实际的研究对象和研究数据集有关的，本节并没有更详细地定义其网络的细节结构，只是给出一个最一般的定义，实际所用MLP的更多细节将在第3章中呈现。为了训练MLP的网络参数，定义一个约束：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d70d0c2a1f1290591fa8697c1fb73592d1bcf9bd272b6e017ac0aeb77bc5d9fe.jpg",
+        "img_caption": [
+            "图1融合算法框架 Framework of fusion algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( E _ { \\mathrm { t e x t } } ^ { ( x _ { i } ) } , E _ { \\mathrm { i m g } } ^ { ( y _ { j } ) } ) > m + s ( E _ { \\mathrm { t e x t } } ^ { ( x _ { i } ) } , E _ { \\mathrm { i m g } } ^ { ( y _ { p } ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall y _ { j } \\in Y _ { i } ^ { + } , \\forall y _ { p } \\in Y _ { i } ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $Y _ { i } ^ { + }$ 和 $Y _ { i } ^ { - }$ 分别代表训练文本 $x _ { i }$ 所对应的正类（匹配）和负类（不匹配）的图像集合； $E _ { \\mathrm { { t e x t } } } ^ { ( x _ { i } ) }$ 为文本 $x _ { i }$ 对应的特征向量（通过一些无监督方法，如潜语义分析（latentsemanticanalysis，LSA）主题模型[27]和doc2vec[28]等，去抽取出文本特征向量)； $E _ { \\mathrm { i m g } } ^ { ( y _ { j } ) }$ 和 ${ \\pmb { E } } _ { \\mathrm { i m g } } ^ { ( y _ { p } ) }$ 分别代表当图像 $y _ { j }$ 和 $y _ { p }$ 作为融合算法的输入时，所输出的融合图像特征； $s ( \\pmb { \\nu } _ { 1 } , \\pmb { \\nu } _ { 2 } )$ 代表着 $\\pmb { \\nu } _ { 1 }$ 和 $\\boldsymbol { \\nu } _ { 2 }$ 的余弦相似度； $\\mathbf { \\nabla } _ { m }$ 为强制间隔大小（Enforced Margin）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（5）的约束表示：给定训练文本 $x _ { i }$ ，令其与对应的每个正类图像 $y _ { j }$ 的特征相似度，都要大于间隔大小 $\\mathbf { \\nabla } _ { m }$ 加上其与每个负类图像 $y _ { p }$ 的特征相似度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过使用HingeLoss的标准形式，把式（5）的约束转换为MLP的训练损失函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l o s s } = \\sum _ { i , j , p } \\operatorname* { m a x } [ 0 , m + s ( { E _ { \\mathrm { t e x t } } ^ { ( x _ { i } ) } , E _ { \\mathrm { i m g } } ^ { ( y _ { p } ) } } ) - s ( { E _ { \\mathrm { t e x t } } ^ { ( x _ { i } ) } , E _ { \\mathrm { i m g } } ^ { ( y _ { j } ) } } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定一个已经用预训练任务（如ImageNet图像识别任务）训练过的卷积神经网络，可以有选择地抽取使用该网络中的卷积层或全连接层的特征。假设预训练网络中共有 $n$ 层特征层，把图像 $k$ 输入到网络后，对各层特征进行拼接，生成一个多层次的总预训练特征 $F _ { \\mathrm { p r e } } ^ { ( k ) }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { p r e } } ^ { ( k ) } = [ \\pmb { f } _ { 1 } ^ { ( k ) } , \\pmb { f } _ { 2 } ^ { ( k ) } , . . . , \\pmb { f } _ { n } ^ { ( k ) } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { f } _ { i } ^ { ( k ) }$ 为图像 $k$ 在预训练网络中的第 $i$ 层特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了令各层的特征能拼接在一起，当预训练网络的第 $i$ 层特征为卷积层特征 $\\mathbf { \\Delta } _ { c o n \\nu _ { i } ^ { ( k ) } }$ 时，由于其具有空间的信息，需要对该层特征进行池化（Pooling）操作以消除空间信息：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { f } _ { i } ^ { ( k ) } = \\mathrm { p o o l } ( c o \\pmb { n } \\nu _ { i } ^ { ( k ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而当第 $i$ 层特征为全连接层特征 $f \\pmb { c } _ { i } ^ { ( k ) }$ 时，由于其不具有",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（6）的损失函数包含了训练集中所有由训练文本，对应的正类图像，以及对应的负类图像所组成的三元组。而由于三元组的组合数量太多，使用所有的三元组来训练MLP是不切实际的。所以在MLP的每一次迭代训练中，对于每个训练文本，仅随机选取一个负类图像，和对应的正类图像共同构建出三元组以进行匹配训练。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上，对于不同的训练样例，式（6）中的间隔大小 $\\mathbf { \\nabla } _ { m }$ 是可以不同的。但是为了更易于进行优化，为数据集中的所有训练样例设置一个固定的间隔大小 $m$ ，其具体数值将在章节3中给出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2图像推荐算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本节实现了一个基于协同过滤思想的、能根据文本内容进行推荐的图像推荐算法，并且在搜狐2017图文匹配大赛（https://www.biendata.com/competition/luckydata/）中使用了该算法，获得了第三名。设 $X _ { \\mathrm { t r a i n } }$ 代表训练集中的文本集合， $Y _ { \\mathrm { t e s t } }$ 代表测试集中的图像集合以及result代表推荐结果的图像集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合。算法的具体步骤为:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）给定一个在测试集中的文本 $\\boldsymbol { x } _ { \\mathrm { t e s t } }$ ，通过文本主题模型为其在文本集合 $X _ { \\mathrm { t r a i n } }$ 中找寻最相似文本内容的文本 $x _ { \\mathrm { u r a i n } } ^ { * }$ （式(7))，相应地，即可获得文本 $x _ { \\mathrm { t r a i n } } ^ { * }$ 在训练集中所对应的匹配图像 $y _ { \\mathrm { t r a i n } } ^ { * }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)在图像集合 $( Y _ { \\mathrm { { t e s t } } } - r e s u l t )$ 中利用图像的特征信息找寻出与图像 $y _ { \\mathrm { t r a i n } } ^ { * }$ 最相似的图像 $y _ { \\mathrm { t e s t } } ^ { \\ast }$ 作为推荐候选图像（式（8）)，并把该 $y _ { \\mathrm { t e s t } } ^ { \\ast }$ 放进图像集合result中。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { \\mathrm { t r a i n } } ^ { * } = \\arg \\operatorname* { m a x } _ { \\boldsymbol { x } _ { \\mathrm { t r a i n } } ^ { i } \\in \\boldsymbol { X } _ { \\mathrm { t r a i n } } } \\boldsymbol { s } ( E _ { \\mathrm { t e x t } } ^ { ( \\boldsymbol { x } _ { \\mathrm { t e x t } } ) } , E _ { \\mathrm { t e x t } } ^ { ( \\boldsymbol { x } _ { \\mathrm { t r a i n } } ^ { i } ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { \\mathrm { t e s t } } ^ { * } = \\arg \\operatorname* { m a x } _ { y _ { \\mathrm { t e s t } } ^ { j } \\in ( Y _ { \\mathrm { t e s t } } - r e s u l t ) } s ( E _ { \\mathrm { i m g } } ^ { ( y _ { \\mathrm { t m i n } } ^ { * } ) } , E _ { \\mathrm { i m g } } ^ { ( y _ { \\mathrm { t e s t } } ^ { j } ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该推荐流程如图2所示。重复步骤b）直至result中已包含 $K$ 个推荐候选图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主题模型  \n→目一圆↑ ↑  \nytest 图像特征 1 \\*ytrain",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显然，在本推荐算法中使用不同表征能力的图像特征会产生不同的推荐表现。本文尝试把多种图像特征（包括由本文2.1节的融合算法所生成的融合图像特征）分别作为推荐算法中的图像特征信息，然后根据推荐表现直接地评估各种图像特征的表征能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章在搜狐图文匹配比赛数据集和Flickr30K 数据集[29]上进行了对比实验，评估了各种图像特征的表现，并结合实验结果分析了本文所提出的融合算法的优势。本文使用图文匹配任务中常用的评测标准recall $@ K \\%$ （ $K = 1 , 5 , 1 0 ^$ )报告了实验的推荐表现，其为匹配的图像被检索在推荐结果前 $K$ 的新闻文本占得的比例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1搜狐图文匹配比赛数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本数据集来源于2017年由搜狐公司举办的图文匹配大赛。本实验所使用的数据包含了初赛十万级别的训练集，复赛百万级别的训练集，决赛400小型测试集（决赛400小型测试集是在决赛20000完整测试集中分出的子集，包含了完整测试集中的400篇新闻和对应400幅配图)以及决赛20000完整测试集。该数据集里的每一篇新闻文本都有其相应的一幅配图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本实验中，为了更好地表达文本，利用百万组数据级别的复赛训练集中的所有新闻文本，训练了一个500主题的潜语义分析主题模型[27]，并通过该模型为所有的新闻文本生成特征向量。融合算法里的预训练网络是经过ImageNet图像识别任务预训练完成的Inception v3 网络[14]，该网络的结构轮廓在表1给出，更详细的结构可参见文献[14]。本实验使用了预训练网络中两个特征层来作为多层次预训练图像特征分别是：最后的Pool层特征（简称fc 特征)；首个Inception模块3（图6）的经过最大值池化处理的卷积层特征输出（简称 mixed9 特征）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/abaf76d4b954853310139b5f9bd21ccc2735e67fd62f7052ecd61455ea254323.jpg",
+        "table_caption": [
+            "表1Inceptionv3 网络结构",
+            "Table 1Network structure of Inception v3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>T 窗口大小/步长或备注</td><td>输入大小</td></tr><tr><td>Conv</td><td>3×3/2</td><td>299×299×3</td></tr><tr><td>Conv</td><td>3×3/1</td><td>149×149× 32</td></tr><tr><td>ConvPadded</td><td>3×3/1</td><td>147× 147× 32</td></tr><tr><td>Pool</td><td>3×3/2</td><td>147× 147× 64</td></tr><tr><td>Conv</td><td>3×3/1</td><td>73× 73×64</td></tr><tr><td>Conv</td><td>3×3/2</td><td>71× 71× 80</td></tr><tr><td>Conv</td><td>3×3/1</td><td>35×35×192</td></tr><tr><td>3 × Inception</td><td>图4</td><td>35× 35×288</td></tr><tr><td>5 × Inception</td><td>图5</td><td>17× 17× 768</td></tr><tr><td>2 × Inception</td><td>图6</td><td>8×8×1280</td></tr><tr><td>Pool</td><td>8×8</td><td>8×8×2048</td></tr><tr><td>Linear</td><td>Logits</td><td>1×1× 2048</td></tr><tr><td>Softmax</td><td>Classifier</td><td>1×1× 1000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了设定融合算法中MLP的结构参数，进行了以下探讨。Cybenko[30]已经证明了，MLP最多只需要一层隐藏层就能够达到近似函数的目的。基于该结论，本文的MLP只设置一层隐藏层。此外还进一步探究了非线性激活函数对融合效果的影响，在图3呈现（利用推荐效果来间接体现融合效果)。可看到为隐藏层加入了非线性激活函数后，网络的融合效果下降了，但是通过加入对网络参数的L2正则化约束后，能使整个网络的拟合能力和泛化能力提升，融合效果为最优。所以本文最后采用了为隐藏层加入非线性激活函数的网络结构，并且利用L2正则化优化网络参数的训练。具体地，融合算法中使用了fc特征和mixed9特征作为输入的MLP（简称 $\\mathbf { M L P _ { \\mathrm { f c , m i x e d } 9 } }$ ）的结构为：维度为4096维的输入层；维度为2048维，带有sigmoid激活函数的隐藏层；维度为500维，带有 tanh 激活函数的输出层。本文使用了十万组数据级别的初赛训练集在最小化式（6)的指导下有监督地训练 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d 9 } }$ 的网络参数，并且在训练的过程中加入了对参数的L2正则化约束（权重为0.0005）以优化训练效果。其中，式（6)损失函数中的 $\\mathbf { \\nabla } _ { m }$ 设置为0.5，参数采用Adam算法(learning_rate $_ { : = 0 . 0 0 1 }$ ， betal $= 0 . 9$ ，beta2 $\\scriptstyle \\sum = 0 . 9 9 9$ ，e-psilor $\\mathsf { \\Omega } _ { 1 = 1 \\mathrm { e } - 0 8 }$ ）进行更新。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd9ef45876f29b28fb52487a288b665854fd9d68ab0f66b37717151b468e9279.jpg",
+        "img_caption": [
+            "图2推荐流程图",
+            "Fig.2Recommendation flowchart ",
+            "图3MLP网络结构对融合效果的影响",
+            "Fig.3Influence ofMLP network structure on fusion performance "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/73477c3df6f3d9314b187ddcecdf807e0b7cb8a15204340e96817a8c2a52dcd7.jpg",
+        "img_caption": [
+            "图4Inception v3 网络中的 Inception 模块1Fig.4Module 1in Inceptionv3 network"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提高，其中recall $@ 1 0$ 表现有0.5的提升。证明多层次特征比单层次特征会有更好的推荐表现，但是由于其特征维度太高，含有大量对图文匹配任务而言是噪声的特征，所以表现提升不算太大。然而本文的方法能够在图文匹配任务的学习目标指导下，有监督地对多层次图像特征进行融合和降维。因此，$\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征的 recall@K 表现相比于 fc 特征都有大量的提高，其中Recall $@ 1 0$ 表现甚至有9.5的提升。显然，本文提出的方法是有效的。为了进一步检验本方法在大型测试集中是否有效，本文在决赛20000完整测试集中也进行了该实验，实验结果仍然在表2给出。从表2可以看出，因为推荐的搜索空间扩大了，所以完整测试集中的recall@K表现明显比小型测试集的要差。尽管如此，fc+mixed9特征的大部分Recall@K表现还是相比于fc特征有稍微的提高。而$\\mathbf { M L P } _ { \\mathrm { f c , m i x e d 9 } }$ 融合图像特征的 recall@K 表现相比于 fc 特征则有更大的提升，其中recall $@ 1 0$ 表现有0.6的提升。因而，本方法在大型测试集中也是有效的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fece00af5e66e6ab59945063de99a09dc5e09a4cec008ad510bed2a30d3ed8d0.jpg",
+        "img_caption": [
+            "图5Inception v3 网络中的 Inception 模块2Fig.5Module 2 in Inceptionv3 network"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2搜狐数据集中各种图像特征在图像推荐算法的对比实验",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ff01358de1ada6e390060c978755f8ccfcaceb26bcac5e797d19436a3b64bb2.jpg",
+        "table_caption": [
+            "Table 2Comparison of image recommendation algorithms using different image features on SOHU dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试集</td><td>特征</td><td>R@1</td><td>R@5</td><td>R@10</td></tr><tr><td rowspan=\"4\">决赛400小型 测试集</td><td>fc 特征</td><td>4.0</td><td>7.0</td><td>10.2</td></tr><tr><td>fc+mixed9 特征</td><td>4.7</td><td>8.0</td><td>10.7</td></tr><tr><td>MLPfe,mixed9融合图像 特征（this paper）</td><td>6.2</td><td>13.0</td><td>19.7</td></tr><tr><td>fc 特征</td><td>0.6</td><td>1.2</td><td>1.7</td></tr><tr><td rowspan=\"3\">决赛20000完 整测试集</td><td>fc+mixed9 特征</td><td>0.7</td><td>1.3</td><td>1.7</td></tr><tr><td>MLPfe,mixed9融合图像</td><td>0.7</td><td>1.6</td><td></td></tr><tr><td>特征（this paper）</td><td></td><td></td><td>2.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb3ad7a8dcbdd370d6bb0526225811bbe13ac40c61fabafa27e5be187821f83a.jpg",
+        "img_caption": [
+            "图6Inception $\\mathbf { v } 3$ 网络中的 Inception 模块3Fig.6Module 3 inInception v3 network"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了直接对比由 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d 9 } }$ 生成的融合图像特征（简称$\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征)、fc 单层次特征和 $\\mathrm { f c ^ { + } }$ mixed9多层次特征的推荐表现，本文在2.2节的图像推荐算法中分别使用了这三种图像特征来进行对比实验，实验结果在表2给出（其中，在图像推荐算法中采用fc 单层次特征是本团队在 2017搜狐图文匹配大赛中的做法，前两名团队的图像表征方法也是类似的)。根据在决赛400小型测试集的实验结果得出，fc+mixed9特征的Recall@K表现相比于fc 特征都有稍微的",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验还设计了一个只使用fc特征作为输入的MLP（简称 $\\mathbf { M L P _ { \\mathrm { f c } } }$ ，其产生的图像特征也简称为 $\\mathbf { M L P _ { \\mathrm { f c } } }$ 特征)，其具体结构和训练细节与 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 相比，只是结构上的输入层维度变为2048，其他保持一致。由于MLP的训练约束能让其输出的图像特征向量与文本特征向量直接在余弦相似度上进行匹配，所以实验在表3分别给出了利用不同MLP所输出的图像特征与文本特征直接进行相似度匹配的推荐表现，以检验在融合和降维的过程中使用多层次的特征是否比使用单层次的特征更有优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb3b50e54e711dd2344cfe02a0fdb976f5525233f8e05ff879b85945786a3528.jpg",
+        "table_caption": [
+            "表3在搜狐数据集中直接对图像特征和文本特征进行相似度匹配的对比实验",
+            "Table 3Comparison of similarity matching between image features and text features on SOHU dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试集</td><td>特征</td><td>R@1</td><td>R@5</td><td>R@10</td></tr><tr><td rowspan=\"3\">决赛400 小型 测试集</td><td>MLPfe特征</td><td>5.5</td><td>13.7</td><td>20.7</td></tr><tr><td>融合图像 MLPfc,mixed9</td><td>4.2</td><td>16.7</td><td>24.2</td></tr><tr><td>特征 MLPfc特征</td><td>0.3</td><td>1.5</td><td>2.4</td></tr><tr><td rowspan=\"2\">决赛20000完 整测试集</td><td>MLPr.ixed9 融合图像</td><td></td><td></td><td></td></tr><tr><td>特征</td><td>0.5</td><td>1.7</td><td>3.0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据表3可以看到， $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征的大部分recall $@ K$ 表现要优于 $\\mathbf { M L P _ { \\mathrm { f c } } }$ 特征（只在小型测试集中的recall $@ 1$ 出现了 $\\mathbf { M L P _ { \\mathrm { f c , m i x e d } 9 } }$ 融合图像特征表现较差的情况)。该结果表明，在图文匹配任务的学习目标指导下， $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d 9 } }$ 所产生的融合图像特征要比 $\\mathbf { M L P _ { \\mathrm { f c } } }$ 所产生的特征要有更强的表达能力。换言之，在融合和降维的过程中使用多层次的特征的确比使用单层次的特征更有优势。同时也能看到，与图像推荐算法相比，利用 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征直接进行相似度匹配的方法在recall $^ { ( a ) 5 , 1 0 }$ 上具有更优秀的表现，尤其是在recall $@ 1 0$ 表现上，其相对于只采用fc特征的图像推荐算法在小型测试集里有14.0的提升，在完整测试集里有1.3的提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Flickr30K数据集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文提出的融合算法是否具有普遍性，本文在Flickr30K数据集中也进行了对比实验。该数据集总共包含了31783幅图像，每幅图像都有其对应的5个描述短句。本实验遵循了公开的数据集划分方案[31]，把该数据集分成了29783幅训练图像、1000幅验证图像以及1000幅测试图像。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本实验中，利用所有的描述短句训练出500主题的潜语义分析主题模型，用于产生文本的特征向量。与3.1节的实验一样，本节实验也使用了预训练Inceptionv3网络中的fc 特征以及mixed9特征来作为多层次预训练图像特征。融合算法中所使用的 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 和用于对比实验的MLPfc的具体结构和训练细节也与搜狐数据集实验保持一致，已在3.1节给出。最终则能利用29783幅训练图像和对应的描述短句，有监督地对 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 和 $\\mathbf { M L P _ { \\mathrm { f c } } }$ 的网络参数进行训练。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本数据集中，各种图像特征在图像推荐算法中的对比实验结果在表4给出。从表4可以看到，与3.1节的实验结果不一样，fc+mixed9特征的大部分recall@K表现相比于fc特征要差，证明噪声特征在该数据集中有很严重的不利影响。而 $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征相比于 fc 特征，尽管在Recall@1的表现有下降，但是其在recall $@ 5 , 1 0$ 的表现更优，其中recall $@ 1 0$ 表现有1.0的提升。因此，本文方法在Flickr30K数据集中也是有效的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4Flickr30K数据集中各种图像特征在图像推荐算法的对比实验",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3329cdb5428adc4e22db548eaff78fb2239cfb55bd8fea6f1af9eef4719b8aa.jpg",
+        "table_caption": [
+            "Table 4 Comparison of image recommendation algorithms using different image features on Flickr3oK dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试集</td><td>特征</td><td>R@1</td><td>R@5</td><td>R@10</td></tr><tr><td rowspan=\"4\">1000 测试集</td><td>fc 特征</td><td>4.3</td><td>13.1</td><td>19.1</td></tr><tr><td>fc+mixed9 特征</td><td>4.5</td><td>12.6</td><td>18.5</td></tr><tr><td>MLPfe,ixed9 融合图像</td><td>3.6</td><td>13.3</td><td></td></tr><tr><td>特征（this paper)</td><td></td><td></td><td>20.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同样地，本文也在Flickr30K数据集中对使用单层次特征和使用多层次特征的MLP进行对比实验，实验结果在表5给出。可以看出， $\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征在 Recall@K 表现上全面优于 $\\mathbf { M L P _ { \\mathrm { f c } } }$ 特征。所以在Flickr30K数据集中，同样能得出在融合和降维的过程中使用多层次的特征比使用单层次的特征更有优势的结论。并且，相比于图像推荐算法，利用$\\mathbf { M L P } _ { \\mathrm { f c , m i x e d } 9 }$ 融合图像特征直接进行相似度匹配的方法在recall $@ K$ 上的表现也要全面占优，尤其在recal $@ 1 0$ 表现上，其相对于只采用fc特征的图像推荐算法甚至有高达20.6的提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5在Flickr30K数据集中直接对图像特征和",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文本特征进行相似度匹配的对比实验",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/63dfd29b5a2174712a85c4d00a81ffcf64a0d2fb7380ff529ec6b600120afa97.jpg",
+        "table_caption": [
+            "Table 5Comparison of similarity matching between image features "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">and text features on Flickr3oKdataset</td></tr><tr><td>测试集</td><td>特征</td><td>R@1</td><td>R@5</td><td>R@10</td></tr><tr><td rowspan=\"3\">1000测试集</td><td>MLPfc特征</td><td>8.5</td><td>25.0</td><td>36.9</td></tr><tr><td>MLPfc,mixed9融合图像</td><td>9.5</td><td>27.9</td><td>39.7</td></tr><tr><td>特征</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合两个数据集的实验结果，本文提出的融合算法的确能有效地对多层次的预训练图像特征进行融合和降维，充分地利用预训练的特征，最后生成在图文匹配任务中表达能力更强的融合图像特征。特别是由于搜狐比赛数据集是由现实世界真实存在的新闻及其配图所组成，因此在该数据集上解决图文匹配任务的难度会更大。但是本文的方法在该数据集上依然是有效的，能获得更好的推荐表现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图文匹配一直是一个极具挑战性的任务，需要精准地抽取文本和图像的特征。特别是对于图像来说，由于其表达同样事物的表现更为丰富，因而获取图像特征尤为困难。大量先前的研究工作提出了多种获取图像特征的方法，而现今主流的做法是使用预训练深度学习网络去抽取图像特征。然而，该主流做法未能充分利用有用的特征且易受噪声特征的干扰",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对以上存在的问题，本文提出了一种对多层次深度表达的预训练图像特征进行利用的融合算法：通过利用图文匹配任务的学习目标，有监督地融合和降维多层次的预训练图像特征，最终生成出融合图像特征，充分地利用了更多的有用特征和减少了噪声特征的干扰。在实验部分，通过把融合图像特征引入到本文实现的图像推荐算法中进行对比实验，证明了融合图像特征确实是拥有更强大的表征能力，能获得更好的推荐表现。而且，本文也进一步地设计了一个实验，证明了在融合和降维的过程中使用多层次的特征是比使用单层次的特征更有优势，获得的效果更好。最后综合所有的实验结果，得出本文所提出的方法是有效的结论。值得注意的是，本文虽然针对的是图文匹配任务，但实际上通过更改用于指导融合和降维的学习目标，可以把本方法延伸到不同任务中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前在短句文本上的图文匹配已经获得了很好的成果。但是对于长句文本来说，由于其内容十分复杂，难于抽取关键特征，在短句中适用的方法并不适用于长句。因此在长句文本上的图文匹配将是一个需克服的挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]宋宜斌．多层感知器的一种快速网络训练法及其应用[J].控制与 决策,2000,15(1):125-127.(Song Yibin.Quick training method for multi-layer perception and its application [J].Control and Decision, 2000,15(1): 125-127.)   \n[2]Lipton Z C,Berkowitz J,Elkan C.A critical review of recurrent neural networks for sequence learning[EB/OL].(2015-10-17).https://arxiv. org/abs/1506.00019.   \n[3]LeCun Y,Bottou L,Bengio Y,et al. Gradient-based learning applied to document recognition [J].Proceedings of the IEEE,1998,86(11): 2278-2324.   \n[4]Hochreiter S,Schmidhuber J.Long short-term memory [J].Neural Computation,1997,9(8): 1735-1780.   \n[5]冷亚军，陆青，梁昌勇．协同过滤推荐技术综述[J].模式识别与人 工智能，2014，27(8):720-734.(Leng Yajun，Lu Qing，Liang Changyong.Survey of recommendation based on collaborative filtering [J]．Pattern Recognition and Artificial Intelligence,2014,27 (8): 720-734.)   \n[6]Yan Fei,Mikolajczyk K.Deep correlation for matching images and text [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society，2015: 3441-3450.   \n[7]Ma Lin,Lu Zhengdong,Shang Lifeng,et al.Multimodal convolutional neural networks for matching image and sentence [C]// Proc of IEEE International Conference on Computer Vision.Washington DC:IEEE Computer Society,2015:2623-2631.   \n[8] Wang Liwei, Li Yin,Lazebnik S.Learning deep structure-preserving image-text embeddings [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society,2016: 5005-5013.   \n[9] Nam H,Ha JW,Kim J.Dual attention networks for multimodal reasoning and matching [C]// Proc of IEEE Conference on Computer Vision and Pattrn Recognition.Washington DC:IEEE Computer Society,2017: 2156-2164.   \n[10] Krizhevsky A,Sutskever I,Hinton G E.ImageNet classification with deep convolutional neural networks[C]//Advancesin Neural Information Processing Systems.Cambridge,MA:MIT Press,2012: 1097-1105.   \n[11] Simonyan K, Zisserman A. Very deep convolutional networks for large-scale image recognition [EB/OL]. (2015-04-10).https://arxiv. org/abs/1409.1556.   \n[12] Szegedy C，Liu Wei, Jia Yangqing, et al.Going deeper with convolutions [C]//Proc of IEEE Conference on Computer Vision and Patern Recognition. Washington DC:IEEE Computer Society,2015: 1-9.   \n[13] Ioffe S, Szegedy C. Batch normalization: accelerating deep network training by reducing internal covariate shift [C]// Proc of ACM International Conference on Machine Learning.New York: ACM Press, 2015: 448-456.   \n[14] Szegedy C,Vanhoucke V,Ioffe S,et al. Rethinking the inception architecture for computer vision [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society,,2016: 2818-2826.   \n[15] Szegedy C,Ioffe S,Vanhoucke V,et al. Inception-v4,inception-resnet and the impact of residual connections on learning [Cl//Proc of AAAI Conference on Artificial Intelligence.Palo Alto,CA:AAAI Press,2017: 4278-4284.   \n[16] He Kaiming， Zhang Xiangyu,Ren Shaoqing，et al. Deep residual learning for image recognition [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. Washington DC:IEEE Computer Society,2016: 770-778.   \n[17] Zeiler M D,Fergus R.Visualizing and understanding convolutional networks [C]// Proc of European Conference on Computer Vision. Cham: Springer,2014: 818-833.   \n[18] Garcia-Gasulla D,Ayguadé E,Labarta J,et al.A visual embedding for theunsupervisedextractionofabstractsemantics[EB/OL]. (2016-12-16) .https://arxiv.org/abs/1507.08818.   \n[19] Agrawal P,Girshick R，Malik J.Analyzing the performance of multilayer neural networks for object recognition [C]// Proc of European Conference on Computer Vision.Cham: Springer,2014:   \n[20] Vinyals O,Toshev A,Bengio S,et al. Show and tell: a neural image caption generator [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society, 2015:3156-3164.   \n[21] Peng Kuanchuan,Chen T.A framework of extracting multi-scale features using multiple convolutional neural networks [C]// Proc of IEEE International Conference on Multimedia and Expo.Piscataway, NJ: IEEE Press,2015: 1-6.   \n[22] Liu Lingqiao,Shen Chunhua,van den Hengel A. The treasure beneath convolutional layers: cross-convolutional-layer pooling for image classification [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society,2015: 4749-4757.   \n[23] Doersch C,Gupta A,Efros A A.Unsupervised visual representation learning by context prediction [C]// Proc of IEEE International Conference on Computer Vision.Washington DC:IEEE Computer Society,2015: 1422-1430.   \n[24] Gatys L A，Ecker A S,Bethge M. Image style transfer using convolutional neural networks [Cl// Proc of IEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society,2016: 2414-2423.   \n[25] Liu Qingshan,Hang Renlong,Song Huihui,et al. Adaptive deep pyramid matching for remote sensing scene classification [EB/OL]. (2016-11-11).htps://arxiv.org/abs/1611.03589.   \n[26] Ronneberger O,Fischer P,Brox T. U-net: convolutional networks for biomedical image segmentation [C]/ Proc of International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer,2015: 234-241.   \n[27] EvangelopoulosNE.Latentsemanticanalysis[J].Wiley Interdisciplinary Reviews: Cognitive Science,2013,4(6): 683-692.   \n[28] Le Q，Mikolov T. Distributed representations of sentences and documents [C]// Proc of ACM International Conference on Machine Learning. New York: ACM Press,2014: 1188-1196.   \n[29] Young P,Lai A,Hodosh M,et al.From image descriptions to visual denotations:new similarity metrics for semantic inference over event descriptions [J]. Transactions of the Association for Computational Linguistics,2014,2: 67-78.   \n[30] Cybenko G.Approximation by superpositions of a sigmoidal function [J].Mathematics of Control, Signals and Systems,1989,2 (4): 303-314.   \n[31] Mao Junhua,Xu Wei, Yang Yi,et al. Deep captioning with multimodal recurrent neural networks(M-RNN） [EB/OL].(2015-06-11）. https://arxiv.org/abs/1412.6632. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

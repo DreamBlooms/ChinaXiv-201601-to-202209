@@ -1,0 +1,198 @@
+# ACE2 shedding and furin abundance in target organs may influence the efciency of SARS-CoV-2 entry
+
+Yuanchen $\mathrm { M a ^ { 1 * } }$ ,Yinong Huang1,2\*, Tao Wang1, Andy Peng Xiangl and Weijun Hungl
+
+1. Center for Stem Cell Biology and Tissue Engineering,Key Laboratory for Stem Cells and Tissue Engineering,Ministry of Education, Sun Yat-sen University, Guangzhou, Guangdong 510080, China.
+
+2. Department ofNeurology, The Third Affiliated Hospital, Sun Yat-Sen University, No.   
+600 Tianhe Road, Guangzhou, Guangdong 510630, China.
+
+# \* Yuanchen Ma and Yinong Huang contributed equally to the article.
+
+Corresponding author: Weijun Huang. Center for Stem Cell Biology and Tissue Engineering, Key Laboratory for Stem Cells and Tissue Engineering, Ministry of Education, Sun Yat-sen University, Guangzhou, Guangdong 510o80, China. E-mail: hweijun@mail.sysu.edu.cn
+
+# Abstract
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2） is a recently identified lineage B coronavirus, causing rapid worldwide outbreak of Corona Virus Disease 2019 (COVID-19). Despite genetically closed to SARS-CoV, SARS-CoV-2 seems to possess enhanced infectivity and subtle different clinical features, which may hamper the early screening of suspected patients as well as the control of virus transmission. Unfortunately, there are few tools to predict the potential target organ damage and possible clinical manifestations caused by such novel coronavirus. To solve this problem, we investigate the potential host cell entry mechanisms of SARS-CoV-2 through bioinformatics. Using the online single-cell sequence datasets, we analyze the expression of major receptor in host cells that mediates the virus entry, including angiotensin converting enzyme 2 (ACE2)， and itsco-expressed membrane endopeptidases. The results indicated the differential expression of ADAM1O and ADAM17 might contribute to the ACE2 shedding and affect the membrane ACE2 abundance. We further confirm a putative furin-cleavage site reported recently in the spike protein of SARS-CoV-2,which may facilitate the virus-cell fusion. Based on these findings, we develop a novel approach that comprehensively analyzed the virus receptor expression, ACE2 shedding, membrane fusion activity, virus uptake and virus replication to evaluate the infectivity of SARS-CoV-2 to different human organs. Our results indicate that, in addition to airway epithelia, cardiac tissue and enteric canals are susceptible to SARS-CoV-2 as well.
+
+# Keywords:
+
+SARS-CoV-2, scRNA-seq,ACE2, endopeptidase, furin, viral entry
+
+# Introduction
+
+In December 2019,a novel coronavirus (SARS-CoV-2） epidemic emerged in Wuhan, Hubei, China and rapidly spread globally [1]. As of $2 6 ^ { \mathrm { t h } }$ February 2020, there are 78,196 confirmed cases and 2,718 fatalities in all province of China, posing a serious challenge for the public health. Similar to severe acute respiratory syndrome (SARS)-CoV, SARS-CoV-2 was distinguished as group 2B CoV and genetically related to SARS-CoV with ${ \sim } 8 0 \%$ nucleotide identity [2]. Although patients with SARS-CoV2-induced pneumonia exhibited typical symptoms of viral pneumonia including cough, fever, myalgia, headache and even acute respiratory distress syndrome (ARDS), substantial portion of patients could experience atypical symptoms like diarrhea (gastrointestinal discomforts), acute kidney injury, liver damage and acute cardiac injury [3], challenging clinical interventions and long-term rehabilitations. Here, we speculated that in-depth analysis of virus entry into host cells would be crucial to explain the different sensitivities of various cell types to SARS-CoV-2 and the abovementioned diversity of clinical manifestations.
+
+Coronaviruses have been reported to enter host cells in two distinct routes [4]. The first route is the well-known receptor-mediated endocytosis. The surface spike (S) glycoprotein is widely accepted as the major determinant of coronaviruses entry, with the S1 domain mediating the receptor binding and the S2 domain responsible for viruscell membrane fusion [5]. Upon binding to the corresponding receptor on host cells surface, the S protein undergoes subtle conformational changes result in the uptake by endosomes for further proteolytic digest [6-7]. In the case of SARS-CoV, numerous studies have demonstrated angiotensin converting enzyme 2 (ACE2） receptor on the surface of human cells could be utilized to facilitate virus entry [8-9]. Given closely related to SARS-CoV, emerging evidences indicate the S1 subunit of SARS-CoV-2 may also bind ACE2 receptor in lung, renal and cardiac tissue, liver, testis and intestinal epithelia to mediate the virus fusion and lead to the related symptoms [10-13]. Furthermore,ACE2 could be shed from the surface of human airway epithelia, the site of SARS-CoV infection, by a disintegrin and metalloproteinase (ADAM) family of proteases,which contributes to the ACE2 downregulation [14-15]. This means the expression pattern of ACE2 in normal tissues may not directly correlate with their susceptibility to the SARS-CoV-2.
+
+Alternatively, the S protein could be cleaved by S-activating protease co-expressed with the host cell receptor, thereby inducing the direct fusion of viral and cellular membrane [16]. Millet et al. identified the S protein of Middle East respiratory syndrome coronavirus (MERS-CoV） could be cleaved and activated by furin， a ubiquitously expressed endopeptidase, which is essential for the MERS-CoV infection [17]. Additionally， transmembrane protease， serine 2(TMPRSS2) was reported to directly cleave and activate SARA-S, rendering SARS-S-driven virus-cell fusion [18- 19]. However, few researchers investigate the potential endopeptidases involved in the cleavage of SARS-CoV-2 S protein, leading to the infections of multiple organs.
+
+Based on the above, the distribution of ACE2 may not strictly correlated with the cell tropism of SARS-CoV-2. Other influencing factors should be taken into consideration to predict the potential tissue damage besides pulmonary injury. In the current study, we analyzed the online single-cell sequence datasets to unveil the expression pattern of ACE2 as well as ACE2 co-expressed endopeptidases to comprehensively assess the infective efficiency of SARS-CoV-2 in different organs. Furthermore，we emphasized the overall analysis of ACE2 expression， FURIN expression and ACE2 shedding to explain the various clinical manifestations in different targeted organs after SARS-CoV-2 infection.
+
+# Methods
+
+# Public scRNA-seq dataset acquisition
+
+The gene expression and cell type annotation of single cell RNA-sequencing (scRNA-seq) data from normal human lung, nose, heart and enteric canal were downloaded from the Gene Expression Omnibus (GSE122960，GSE121600, GSE121893, GSE125970, GSE119969).
+
+# scRNA-seq data processing
+
+Seurat (version 2.3.2） and Scanpy (1.4.4.postl） [20-21] were used to perform the scRNA-seq data processing following the standard procedure (mentioned at https://scanpy.tutorials.readthedocs.io/en/latest/pbmc3k.html and https://satijalab.org /seurat/v3.1/pbmc3k_tutorial.html)
+
+# Filtering of ACE2 co-expressing genes
+
+All original data were treated through a normalization procedure by Scanpy (https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html). Cell count matrixs were normalized in order to make them comparable through all qualified cells. The newly formed normalization matrixes were used to find genes co-expressing with ACE2. Cells with ACE2 expression ${ > } 0$ were selected from normalized gene-cell matrix. From these filtered ACE2 positive cells, if the number of cells expressing one gene did not exceed the 10 percent of the total ACE2 positive cell, it would be excluded. The rest would be regarded as ACE2 co-expressing genes. The signature scores were calculated basing on the method mentioned by A Wallrapp et al. [22]. The Violin plots representing the gene expressions and score values were drawn byseaborn (https://seaborn.pydata.org/generated/seaborn.violinplot.html?highlight=violinplot#se aborn.violinplot) and matplotlib (https://matplotlib.org/api/_as_gen/matplotlib.pyplot. violinplot.html?highlight=violinplot#matplotlib.pyplot.violinplot).
+
+# Sequencing analysis of virus spike protein
+
+The complete genome and protein sequences of SARS-CoV-2 (NC_045512.2) and SARS-Cov (NC_004718.3) were acquired from GenBank. The protein sequences of their spike protein were picked up for complete alignment with software Clustal X2 [23]. The secondary structure prediction of the spike protein of SARS-CoV-2 was performedbytheonline tool SOPMA (https://npsa-prabi.ibcp.fr/cgibin/npsa_automat.pl?page $\ L =$ npsa_sopma.html).
+
+# Results
+
+# Candidate endopeptidases related to virus entry
+
+The alveolar type II cells of lung were enrolled into our study. After filtering the ACE2 co-expressed genes, eight candidate endopeptidases related to virus entry were selected according to the selection flow chart (Fig 1), including ADAM10, ADAM17, FURIN, SPPL2B, TMPRSS2, HPN, CAPN1 and CAPNS1. They are all located on cell membrane. ADAM10 and ADAM17 were reported to cleave the ACE2 to make it shed from cell surface[14-15]. The cleaving enzyme activity of SPPL2B is similar to FURIN [24]. FURIN is a key factor for viral entry of human immunodeficiency virus type-1 (HIV-1） through cleaving its envelope glycoprotein [25]. In addition, FURIN could proteolytically activate membrane fusion activity of influenza viruses through cutting their hemagglutinin [26]. TMPRSS2 and HPN both belong to the serine protease family containing a type I transmembrane domain. They were reported to be involved in the viral entry of SARS-CoV, Sendai virus (SeV),human metapneumovirus (HMPV), human parainfluenza viruses (HPIV) and influenza A virus [4, 27-29]. The products of gene CAPN1 and CAPNS1 formed micromolar-calpain (m-calpain). The m-calpain was regarded as an important factor to the replication of SARS-CoV [30]. Hence, these candidates were enrolled into the following research to detect their expression in the target organs.
+
+# The putative furin cleavage site in the spike protein of SARS-CoV-2
+
+As mentioned above, six genes of our candidates, except FURIN and SPPL2B, have been reported to be related to the host cell entry of SARS-CoV. Thus, we wonder whether FURIN would contribute to the viral entry of SARS-CoV-2. To verify this hypothesis, we analyzed the spike protein sequence of SARS-CoV-2. The results indicated that the residue 682-685 contained the minimal furin cleavage motif R-X-XR [31]. This region was highly similar to the S1/S2 cleavage site of SARS-CoV (Fig 2A). The results of secondary structure prediction showed this putative furin cleavage site located in the random coil region, which is the preferred target of endopeptidases (Fig 2B). Hence, we speculated that FURIN might proteolytically activate membrane fusion activity of SARS-CoV-2 through cleaving the spike protein.
+
+# The expression of candidate endopeptidases in target organs
+
+The epithelial cells of nasal brushing samples and nasal turbinate， the cardiomyocytes and endothelial cells of heart,and the epithelial cells of enteric canal were enrolled into our study. As showed in Fig 3, the expression of ACE2, TMPRSS2 and CAPNS1 in lung were abundant, and the FURIN and HPN were moderately expressed. The expression of ACE2 and FURIN in the nose were slightly fewer than those in the lung. TMPRSS2 expression in the nose was significantly less than that in the lung. These results indicate that SARS-CoV-2 could utilize ACE2 and TMPRSS2 to infect airway epithelia, which is similar to the infection mechanism of SARS-CoV. Interestingly, the expressions of CAPN1 and CAPNS1 in the nose were significantly more abundant than that in the lung, indicating that the viruses would replicate rapidly once they could enter the nasal epithelial cells and SARS-CoV-2 might infect nasal epithelia more easily than SARS-CoV.
+
+Notably, the FURIN expression in cardiac tissue was moderate, which was similar to that in the nose. This suggests SARS-CoV-2 may be able to infect cardiomyocytes and cause cardiac damage. In contrast, SARS-CoV is unlikely to utilize furin to enter cardiomyocytes due to the absence of furin cleavage site. Additionally, TMPRSS2, a well-known endopeptidase capable of cleaving and activating SARS-S protein was not detected in the cardiac tissue. Thus, we speculated the lack of endopeptidase- mediated direct virus-cell fusion may partially explain why SARS-CoV rarely cause cardiac damage, despite of the abundant ACE2 expression in cardiomyocytes.
+
+In addition, the expression of ADAM10 and ADAM17 of epithelial cells in enteric canal were abundant. These results suggested that the actual amount of membrane ACE2 would be limited by shedding, despite their ACE2 expression was abundant in the normal enterocytes.This finding may be responsible for the relatively milder gastrointestinal discomforts of COVID-19 patients when compared with their respiratory symptoms [3].
+
+In order to comprehensively assess the efficiency of viral entry to the target organs, we developed a method to calculate the signature score on virus receptor, ACE2 shedding, membrane fusion activity, virus uptake and virus replication. The results were showed in Fig 4.
+
+# Discussion
+
+The sheer speed of SARS-CoV-2 and the large number of infected people have quickly overwhelmed the public health services in Hubei Province, and has become a public health problem [32]. Besides the common respiratory system symptoms, many COVID-19 patients experience gastrointestinal symptoms, cardiac and renal injury and some may even be asymptomatic [3]. The diversity of clinical manifestations challenges the diagnosis of patients and hinders the individualized treatment. Therefore, studies on mechanisms of cell entry could help us comprehensively understand the pathogenesis of SARS-CoV-2 in affected tissues.
+
+The cell surface receptor ACE2 has been proven to facilitate SARS-CoV entry into host cells,and recent studies reveal the crucial role of ACE2 in receptor-mediated SARS-CoV-2 infection as well [33]. However, the expression of endopeptidases may provide a 1Oo-fold higher efficient infection pathway than receptor-mediated endocytosis does [34]. In this study，we explored the expression of screened endopeptidases co-expressed with ACE2 in various targeted cells using the online single-cell sequence datasets.Besides ACE2, the abundant expression of furin and other endopeptidases (such as TMPRSS2, CAPN1 and CAPNS1） in the nasal epithelia provided prerequisites for SARS-CoV-2 infection and rapid replication in the upper respiratory tract.These findings are in accordance with the recent report of SARS-CoV2 load in upper respiratory specimens (nasal and throat swabs) [1], suggesting its augmented transmission and requirement for different isolation strategies from SARSCoV.
+
+Notably, we confirmed a potential furin cleavage site at the S1/S2 interface of SARS-CoV-2 by bioinformatics, which is absent in the S protein of SARS-CoV. This difference between the S protein of SARS-CoV and SARS-CoV-2 was also reported in another recent study from China [35]. Hence, we speculated the presence of furin during the course of SARS-CoV-2 infection may result in some clinical manifestations distinct from SARS-CoV infection. In the case of cardiac tissue, ACE2 expression was detected in the cardiomyocytes, providing the prerequisites for SARS-CoV and SARS-CoV-2 infection. Correspondingly, acute cardiac injury has also been reported in SARS-CoV2-infected patients, whereas rarely found after SARS-CoV infection [3]. We suppose the furin-mediated cardiomyocyte entry may explain the cardiac damage in some SARS-CoV-2 patients. Following up and evaluation of the cardiac function may be necessary in the SARS-CoV-2-infected patients， especially the elderly patients. Whether the treatment of furin inhibitors could benefits these SARS-CoV-2-infected patients deserves further researches.
+
+Another major point of this study is the global analysis of the susceptibility of potential targeted organs to SARS-CoV-2 infection. Since CoVs commonly infect respiratory and gastrointestinal systems [36], we take the enteric tissue as an example in the current study. Abundant ACE2 expression was detected in enterocytes from colon, intestine and rectum, corresponding to the enteric symptoms of SARS-CoV-2-infected patients. Meanwhile, the ACE2 sheddase,ADAM 10 and ADAM 17, were also high expressed in the enteric canals,among which the expression of ADAMs was relatively low in the ileum. These findings suggest the actual membrane ACE2 in the ileum epithelia may be higher than that in other enteric canals because of the lower ACE2 shedding rate. Moreover, considering the virus receptor expression, membrane fusion activity, virus uptake and virus replication, the signature score of the ileum was much higher than that in the colon or rectum. Thus, we speculate that the ileum might be more susceptible to the SARS-CoV-2 gastrointestinal infection. Consistent with the recent study [12], this study calls for clinicians to pay attention to the fecal-oral transmission and the enteric damage, especially the ileal abnormalities in COVID-19 patients.
+
+In conclusion, our results highlight the potential role of endopeptidase, such as the ACE2 sheddase and furin, in the entry of SARS-CoV-2 into targeted cells.Additionally, we provided a novel method to assess the sensitivities of different targeted organs to SARS-CoV-2 infection, which may benefit the future clinical cares.
+
+# References
+
+1. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, Yu J, Kang M, Song Y, Xia J, Guo Q, Song T, He J, Yen HL, Peiris M, Wu J. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients.N Engl JMed. 2020 Feb 19.
+
+2.Gralinski LE, Menachery VD. Return of the Coronavirus: 2019-nCoV. Viruses. 2020, 12(2). pii: E135.   
+3. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L,Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan， China. Lancet. 2020, 395(10223):497-506.   
+4.Heurich A，Hofmann-Winkler H, Gierer S,Liepold T, Jahn O,Pohlmann S. TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by TMPRSS2 augments entry driven by the severe acute respiratory syndrome coronavirus spike protein. J Virol. 2014, 88(2):1293-307.   
+5. Song W, Gui M, Wang X, Xiang Y. Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2. PLoS Pathog. 2018, 14(8):e1007236.   
+6. Kirchdoerfer RN, Cottrell CA,Wang N, Pallesen J, Yassine HM, Turner HL, Corbett KS, Graham BS, McLellan JS, Ward AB. Pre-fusion structure of a human coronavirus spike protein. Nature. 2016, 531(7592):118-21.   
+7． Walls AC, Tortorici MA,Bosch BJ,Frenz B,Rottier PJM,DiMaio F, Rey FA,
+
+Veesler D. Cryo-electron microscopy structure of a coronavirus spike glycoprotein trimer. Nature. 2016, 531(7592):114-117.
+
+8. van Boheemen S, de Graaf M, Lauber C, Bestebroer TM, Raj VS, Zaki AM, Osterhaus AD, Haagmans BL, Gorbalenya AE, Snijder EJ, Fouchier RA. Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans. mBio. 2012, 3(6). pii: e00473-12.
+
+9. Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev Virol. 2016, 3(1):237-261.
+
+10. Chai X, Hu L, Zhang Y, Han W, Lu Z, Ke A, Zhou J, Shi G, Fang N, Fan J, Cai J, Fan J, Lan F. Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection. bioRxiv 2020.02.03.931766.
+
+11. Fan C, Li K, Ding Y, Lu W, Wang J. ACE2 Expression in Kidney and Testis May Cause Kidney and Testis Damage After 2019-nCoV Infection. medRxiv 2020.02.12.20022418.
+
+12. Xiao F, Tang M, Zheng X, Li C, He J, Hong Z, Huang S, Zhang Z, Lin X, Fang Z, Lai R, Chen S,Liu J, Huang J, Xia J, Li Z, Jiang G,Liu Y,Li X, Shan H. Evidence for gastrointestinal infection of SARS-CoV-2. medRxiv 2020.02.17.20023721.
+
+13. Qi F, Qian S, Zhang S, Zhang Z. Single cell RNA sequencing of 13 human tissues identifycell typesand receptorsofhuman coronaviruses.bioRxiv 2020.02.16.951913.
+
+14.Lambert DW, Yarski M, Warner FJ, Thornhill P, Parkin ET, Smith AI, Hooper NM, Turner AJ. Tumor necrosis factor-alpha convertase (ADAM17) mediates regulated ectodomain shedding of the severe-acute respiratory syndrome-coronavirus (SARS-CoV） receptor, angiotensin-converting enzyme-2 (ACE2). J Biol Chem. 2005,280(34):30113-9.
+
+15.Jia HP, Look DC, Tan P, Shi L, Hickey M, Gakhar L, Chappell MC,WohlfordLenane C, McCray PB Jr. Ectodomain shedding of angiotensin converting enzyme 2 in human airway epithelia. Am J Physiol Lung Cell Mol Physiol. 2009, 297(1):L84-96.
+
+16. Simmons G, Zmora P, Gierer S, Heurich A, Pohlmann S. Proteolytic activation of the SARS-coronavirus spike protein: cutting enzymes at the cutting edge of antiviral research.Antiviral Res.2013,100(3):605-14.
+
+17.Millet JK, Whittaker GR. Host cell entry of Middle East respiratory syndrome coronavirus after two-step, furin-mediated activation of the spike protein. Proc Natl Acad Sci U S A. 2014, 111(42):15214-9.
+
+18.Bertram S, Glowacka I, Müller MA, Lavender H, Gnirss K, Nehlmeier I, Niemeyer D,He Y, Simmons G, Drosten C, Soilleux EJ, Jahn O, Steffen I, Pohlmann S. Cleavage and activation of the severe acute respiratory syndrome coronavirus spike protein by human airway trypsin-like protease. J Virol. 2011, 85(24):13363-72.
+
+19.Glowacka I, Bertram S,Müller MA, Allen P, Soilleux E, Pfefferle S, Steffen I, Tsegaye TS, He Y, Gnirss K, Niemeyer D, Schneider H, Drosten C, Pohlmann S. Evidence that TMPRSS2 activates the severe acute respiratory syndrome coronavirus spike protein for membrane fusion and reduces viral control by the humoral immune response. J Virol. 2011, 85(9):4122-34.
+
+20.Butler A, Hoffman P, Smibert P, Papalexi E， Satija R. Integrating single-cell transcriptomic data across different conditions, technologies，and species. Nat Biotechnol. 2018, 36(5):411-420.
+
+21. Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E, Mauck WM 3rd, Hao Y,Stoeckius M, Smibert P, Satija R. Comprehensive Integration of Single-Cell Data. Cell. 2019, 177(7):1888-1902.
+
+22. Wallrapp A, Riesenfeld SJ, Burkett PR, Abdulnour RE, Nyman J, Dionne D, Hofree M, Cuoco MS, Rodman C, Farouq D,Haas BJ, Tickle TL, Trombetta JJ, Baral P, Klose CSN,Mahlakoiv T, Artis D，Rozenblatt-Rosen O, Chiu IM,Levy BD, Kowalczyk MS, Regev A, Kuchroo VK. The neuropeptide NMU amplifies ILC2- driven allergic lung inflammation. Nature. 2017, 549(7672):351-356.
+
+23. Larkin MA, Blackshields G, Brown NP, Chenna R, McGettigan PA, McWilliam H, Valentin F, Wallace IM, Wilm A, Lopez R, Thompson JD, Gibson TJ, Higgins DG. Clustal W and Clustal X version 2.0. Bioinformatics. 2007, 23(21):2947-8.
+
+24. Voss M, Fukumori A, Kuhn PH, Künzel U, Klier B, Grammer G, Haug-Kroper M, Kremmer E, Lichtenthaler SF, Steiner H, Schroder B, Haass C, Fluhrer R. Foamy virus envelope protein is a substrate for signal peptide peptidase-like 3 (SPPL3). J Biol Chem. 2012, 287(52):43401-9.
+
+25. Kong L, He L, de Val N, Vora N, Morris CD,Azadnia P, Sok D, Zhou B, Burton DR,Ward AB,Wilson IA, Zhu J. Uncleaved prefusion-optimized gpl40 trimers derived from analysis of HIV-1 envelope metastability. Nat Commun. 2016, 7:12040.
+
+26.Horimoto T, Nakayama K， Smeekens SP, Kawaoka Y. Proprotein-processing endoproteases PC6 and furin both activate hemagglutinin of virulent avian influenza viruses. J Virol. 1994, 68(9):6074-8.
+
+27. Shirogane Y, Takeda M, Iwasaki M, Ishiguro N, Takeuchi H, Nakatsu Y, Tahara M, Kikuta H, Yanagi Y. Efficient multiplication of human metapneumovirus in Vero cells expressing the transmembrane serine protease TMPRSS2. J Virol. 2008, 82(17):8942-6.
+
+28. Abe M, Tahara M, Sakai K, Yamaguchi H, Kanou K, Shirato K, Kawase M, Noda M, Kimura H, Matsuyama S, Fukuhara H, Mizuta K, Maenaka K, Ami Y, Esumi M, Kato A， Takeda M. TMPRSS2 is an activating protease for respiratory parainfluenzaviruses. J Virol. 2013, 87(21):11930-5.
+
+29.Bertram S,Heurich A,Lavender H, Gierer S,Danisch S,Perin P,Lucas JM, Nelson PS,Pohlmann S, Soilleux EJ. Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in human respiratory and gastrointestinal tracts. PLoS One. 2012, 7(4):e35876.
+
+30.Schneider M, Ackermann K, Stuart M, Wex C, Protzer U, Schätzl HM, Gilch S. Severe acute respiratory syndrome coronavirus replication is severely impaired by MG132 due to proteasome-independent inhibition of M-calpain. J Virol. 2012, 86(18):10112-22.
+
+31.Molloy SS, Bresnahan PA, Leppla SH, Klimpel KR, Thomas G. Human furin is a calcium-dependent serine endoprotease that recognizes the sequence Arg-X-X-Arg and efficiently cleaves anthrax toxin protective antigen. J Biol Chem. 1992,
+
+267(23):16396-402.
+
+32.Wu Z， McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24.
+
+33.Letko M, Munster V. Functional assessment of cell entry and receptor usage for lineage B $\beta$ -coronaviruses, including 2019-nCoV. bioRxiv 2020.01.22.915660.
+
+34.Matsuyama S, Ujike M, Morikawa S, Tashiro M, Taguchi F. Protease-mediated enhancement of severe acute respiratory syndrome coronavirus infection. Proc Natl Acad Sci U S A. 2005, 102(35):12543-7.
+
+35.Li X, Duan G, Zhang W, Shi J, Chen J, Chen X, Gao S, Ruan J. A furin cleavage site was discovered in the S protein of the 2019 novel coronavirus. chinaXiv:202002.00004v2.
+
+36.Perlman S, Netland J. Coronaviruses post-SARS: update on replication and pathogenesis. Nat Rev Microbiol. 2009, 7(6):439-50.
+
+# Figure legends
+
+Figure 1. Candidate selection flow chart
+
+Figure 2. Putative furin cleavage site
+
+Figure 2-A. The putative furin cleavage site located in the region that was similar to the S1/S2 cleavage site of SARS-CoV.
+
+Figure 2-B.The putative furin cleavage site was predicted tolocate in the random coil region.
+
+Figure 3.The expression of selected endopeptidases in the target organs
+
+Figure 4. The signature score about viral entry of target organs
+
+Figure 4-A. The signature score of virus receptor Figure 4-B. The signature score ofACE2 shedding Figure 4-C. The signature score of membrane fusion activity Figure 4-D. The signature score of virus uptake Figure 4-E. The signature score of virus replication
+
+![](images/659fdee8d82d05308c2c572e96f67d3b5d8d02ee760f53cd050f6442baf5431f.jpg)  
+Figure 1
+
+S1/S2 Cleavage Site   
+SARS-CoV DTSYECDIPIGAGICASYHTVS----LLRSTSQKSIVAYTMSLGADSSIAYSNNTIAIPT   
+SARS-CoV-2 NNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPT ：.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*:\* \*\*.:.:\*\*:\*\*\*\*\*\*\*\*:.\*:\*\*\*\*\*:\*\*\*\*\* PutativeFurin CleavageSite
+
+![](images/607991fd1891904fb9b974d44104daff11dc595faefcc7530c2c7b53b2a02652.jpg)  
+Figure 2-A   
+Figure 2-B
+
+![](images/2827aa2cddd87f2fb1550a1322c1af98ae7ad253a9b822dbd04f187a9f5bc972.jpg)  
+Figure 3
+
+![](images/d03ff5aa066787d08682a8115dff5539f05d273bc6b838aab3612545735930c0.jpg)  
+Figure 4-A
+
+![](images/d33ad75a407abd2c52a9c9e9321fd5d42c0719cb9a554bbba75ccb346bc189ae.jpg)  
+Figure 4-B
+
+![](images/8c0df962db436c43e9c504dcc8f857f4d3112aae7635e651bbf17bcf801582e0.jpg)  
+Figure 4-C
+
+![](images/b6a34ebf8cb48891325dc1f278fde63df81d6938ff0ada8297eb5b55c163aab0.jpg)  
+Figure 4-D
+
+![](images/9cb2196afa78ad2061e5a0c6b6ae706542d36aeab913d6b76e99c01742f0a151.jpg)  
+Figure 4-E

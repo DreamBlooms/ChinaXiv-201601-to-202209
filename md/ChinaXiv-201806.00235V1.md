@@ -1,0 +1,124 @@
+# 枯草芽孢杆菌壳聚糖酶水解制备低脱乙酰度壳寡糖及其组分分析\*
+
+程 功，焦思明，任立世，冯 翠，杜昱光\*\*1(中国科学院过程工程研究所 生化工程国家重点实验室，北京100190)
+
+摘要：对来源于枯草芽孢杆菌菌株168（Bacillus subtilis168）的壳聚糖酶编码基因进行了序列优化及全合成并在毕赤酵母（Pichia pastoris）中实现了分泌表达，表达产物的蛋白浓度达到 $0 . 3 0 \mathrm { m g / m l }$ 。表达的壳聚糖酶最适pH为5.6，最适温度为 $5 5 \ \mathrm { ~ \textdegree C }$ ，比酶活达 $8 4 . 5 4 \mathrm { U / m l }$ 。该酶在 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 及以下较稳定。利用该酶水解低脱乙酰度壳聚糖并使用超高效液相色谱-四极杆飞行时间质谱（Ultra-performance liquid chromatographyquadrupole time-of-flight mass spectrometry，UPLC-QTOF MS）对产物的组分进行了分离及鉴定。根据一级质谱信息，推测酶解产物中包含至少37种聚合度2-18，不同脱乙酰度的壳寡糖组分。综上，利用毕赤酵母分泌表达了来源于枯草芽孢杆菌菌株168的壳聚糖酶基因，利用表达产物水解制备了低脱乙酰度壳寡糖并对其组分进行了分析，可为后续壳寡糖结构与功能关系的研究提供参考。
+
+关键词：枯草芽孢杆菌；壳聚糖酶；毕赤酵母；壳寡糖；UPLC-QTOFMS
+
+Preparation and Composition Analysis of Chitooligosaccharides with Low Degree of Deacetylation by Hydrolysis of Bacillus subtilis Chitosanase CHENG Gong, JIAO Si-ming, REN Li-shi, FENG Cui,DU Yu-guang \* (State Key Laboratory of Biochemical Engineering,Institute of Process Engineering, Chinese Academy of Sciences, Beijing 100190, China)
+
+Abstract: Chitosanase encoding gene of Bacillus subtilis168 was optimized，synthesized and secretorily expressed in Pichia pastoris.The protein concentration of the expressed product reached $0 . 3 0 \mathrm { \ m g / m l }$ .The optimum $\mathsf { p H }$ and temperature of the expressed chitosanase was 5.6 and $5 5 \mathrm { ^ \circ C }$ ,respectively, and enzymatic activity reached $8 5 . 5 4 ~ \mathrm { U / m l }$ .The chitosanase was continuously thermostable at $5 0 ^ { \circ } \mathrm { C }$ . The low deacetylated chitosan was hydrolyzed by this enzyme and the composition of these products were analyzed through Ultra-performance liquid chromatography quadrupole time-of-flight mass spectrometry (UPLC-QTOF MS). The results showed that these hydrolysates contained at least 37diffrent kinds of chitooligosaccharides with degree of polymerizationof 2-18 and diferent degree of deacetylation. In summary,chitooligosaccharides with low degree of deacetylation were prepared through Bacillus subtilis 168 chitosanase expressed in Pichia pastoris and its composition analyzed, which can provide a reference for the study of the relationship between the structure and function of chitooligosaccharides.
+
+KeyWords:Bacilus subtilis;chitosanase;Pichia pastoris;chitooligosaccharides; Ultra-performance liquid chromatography quadrupole time-of-flight mass spectrometry (UPLC-QTOF MS)
+
+中图分类号：TS245.9 文献标志码：A
+
+壳寡糖是由氨基葡萄糖（Glucosamine，GlcN，D）、N-乙酰氨基葡萄糖（N-Acetylglucosamine,GlcNAc，A）或者二者的组合通过β-1,4 糖苷键连接而成的寡聚物，通常聚合度（degree ofpolymerization，DP） ${ < } 2 0 ^ { [ 1 ] }$ 。研究显示，壳寡糖具有抗炎、抗氧化、抗肿瘤及激活植物免疫等多种生物活性[2-5]。壳寡糖的结构特征，如DP、脱乙酰度（Degree of deacetylation,DDA）及A糖单元在寡糖链上的分布等均可能对其生物活性产生重要影响[6]。
+
+在工业上，通常使用生物、物理或化学等方法降解高脱乙酰度壳聚糖制备壳寡糖。因作为潜在活性单元的A糖已在壳聚糖制备过程中大部分转化为D糖，使得终产物壳寡糖的结构多样性十分有限，影响其生物活性的充分发挥[7-8]。不仅如此，因高效专一性壳聚糖酶的缺乏，壳寡糖酶法制备中通常使用含有壳聚糖水解活性的非特异性商品酶，如纤维素酶[9]、蛋白酶[10]及脂肪酶[11]等。这些商品酶中可能同时含有多种壳聚糖降解酶类，如壳聚糖酶及几丁质酶等，使得水解产物结构复杂，难以获得可控结构的壳寡糖，影响其结构与功能关系的研究。
+
+针对上述壳寡糖工业制备、应用及基础研究上存在的问题，有必要从如下方面进行突破：1．获得可应用于壳寡糖规模制备的高效、专一性壳聚糖水解酶类；2.为最大程度发挥壳寡糖的生物活性，在壳聚糖制备过程中应尽力保留A糖单元，即制备低脱乙酰度的壳聚糖；3.利用不同水解特异性的专一、高效壳聚糖水解酶类水解低脱乙酰度壳聚糖制备结构可控的多组分、复杂结构壳寡糖，对其组分进行分离、鉴定、活性差异评价及机制研究，以最终确定壳寡糖结构与功能的关系及分子机理。本研究按照上述思路开展了一些工作：利用毕赤酵母高效分泌表达了来源于枯草芽孢杆菌的壳聚糖酶基因，利用产物壳聚糖酶水解制备了低脱乙酰度壳寡糖并对其组分进行了初步分离及分析。
+
+# 1材料与方法
+
+# 1.1 材料与试剂
+
+毕赤酵母GS115（货号：C18100）、XhoI（货号：FD0695）、NotI（货号：FD0596)，BglII（货号：FD0084）及色谱纯乙腈（货号：A998-4）均购自美国thermo fisher公司。质粒提取试剂盒（货号：9760）、胶回收试剂盒（货号：9762）、T4连接酶（货号：2011A）及E.coliDH5α化学感受态细胞（货号：9057）购自宝日医（北京）生物技术有限公司。毕赤酵母表达载体pPIC9（货号：VT1343）购自优宝生物；pGBG1为pPIC9 信号肽核酸序列根据毕赤酵母密码子的偏好性优化后的载体[12]。毕赤酵母培养基MD、BMGY及BMMY的配制方法及电转化感受态细胞制备方法均参考毕赤酵母表达手册（货号：K1740-01，美国 thermo fisher 公司)。蛋白Marker（货号：PR1920）购自北京索莱宝科技有限公司。甲壳素（货号：V900332）购自 Sigma-Aldrich 公司。其他试剂均为分析纯。
+
+# 1.2 仪器与设备
+
+L535R型低温冷冻离心机，湘仪离心机仪器有限公司；DYY-6C 型核酸及蛋白电泳系统，北京六一生物科技有限公司；Tanon-1600 型凝胶成像系统，上海天能科技有限公司；MicroPulserTM电转仪，美国 BIO-RAD 公司；RE-2000B 型旋转蒸发器，巩义市英峪高科仪器厂；LGJ-10FD 型真空冷冻干燥机，北京松源华兴科技发展有限公司；ACQUITYUPLCBEHAmide色谱柱（ $\cdot 1 0 0 \mathrm { m m } \times 2 . 1 \mathrm { m m }$ ，1.7$\mu \textrm { m }$ )，Waters XEVO G2-SQTOF 质谱仪，配有Lock-spray 接口；电喷雾离子源(ESI)及 Masslynx 4.1质谱工作站软件，美国Waters 公司。
+
+# 1.3 方法
+
+1.3.1 枯草芽孢杆菌壳聚糖酶基因序列优化、全合成及表达载体构建
+
+选择枯草芽孢杆菌菌株168[13]的壳聚糖酶（GenBank:CAB14630，36-277，已去除信号肽序列)编码基因序列，在不改变氨基酸序列的前提下使用毕赤酵母偏好的密码子对其进行优化，合成前在5'及3末端分别添加XhoI及NotI酶切位点序列。设计好的序列委托北京擎科新业生物技术有限公司进行全合成。使用内切酶XhoI及NotI分别对含有目标基因序列的pUC18及表达载体pGBG1进行双酶切，分别回收目标基因序列片段及线性化的pGBG1载体大片段，使用T4连接酶进行连接并转化至E.coliDH5α化学感受态细胞中。对构建好的含有目标基因序列的表达载体质粒进行酶切及测序（委托北京擎科新业生物技术有限公司完成）验证。
+
+# 1.3.2 枯草芽孢杆菌壳聚糖酶毕赤酵母表达及初步鉴定
+
+使用限制性内切酶 $B g l \mathrm { I I }$ 将获得的重组质粒线性化，凝胶电泳分离并切胶回收含有目的基因的大片段，电转化至当天制备的毕赤酵母GS115电转感受态细胞中。使用组氨酸营养缺陷的MD平板筛选获得重组子，挑取一点数量的菌落划线至含有胶体壳聚糖（ $0 . 5 \%$ ）的BMMY琼脂平板上， $3 0 \mathrm { ~ \textdegree ~ }$ 培养 $2 { - } 3 \mathrm { d }$ ，从中进一步筛选出水解圈最大的单克隆菌株。将筛选的单菌落接种于 $2 0 0 \mathrm { m l }$ BMGY培养基中， $2 8 \ \mathrm { { ^ \circ C } }$ 及 $2 5 0 ~ \mathrm { r / m i n }$ 下培养 $^ { 4 8 \mathrm { ~ h ~ } }$ ，离心弃上清，加入 $2 0 0 \mathrm { m l }$ 的BMMY培养基进行诱导表达。 $2 4 \mathrm { h }$ 后补加甲醇至其终浓度为 $1 \%$ ，以后每隔 $2 4 \mathrm { h }$ 补加一次，共计诱导 $1 2 0 \mathrm { h }$ 后离心，上清液即为含有壳聚糖酶的粗酶液。使用 SDS-PAGE 检测发酵上清中的蛋白表达情况，Bradford 法测定粗酶液的蛋白浓度。以制备的脱乙酰度 $62 \%$ 壳聚糖[14]为底物，使用DNS方法测定壳聚糖的酶活。在 $\mathrm { p H } 3 . 6 \substack { - 8 . 0 }$ 范围内（ $\mathsf { p H 3 . 6 - 5 . 6 }$ 时使用 $5 0 \mathrm { m M }$ 的乙酸钠缓冲液， $\mathrm { p H } 6 . 0 \substack { - 8 . 0 }$ 时使用 $5 0 \mathrm { m M }$ 的磷酸缓冲液）测定该酶的最适$\mathfrak { p H }$ 值， $3 0 \ { ^ \circ } \mathrm { C } { \cdot } 9 0 \ { ^ \circ } \mathrm { C }$ 范围内确定最佳反应温度。在 $4 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ， $5 0 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 及 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 下处理壳聚糖酶 $^ { \textrm { 1 h } }$ ，每隔$2 0 \mathrm { m i n }$ 测一次残留的酶活。
+
+# 1.3.3 低脱乙酰壳寡糖制备及组分分析
+
+使用前期制备的脱乙酰度为 $62 \%$ 的壳聚糖[14]水解制备壳寡糖。称取 $5 0 ~ \mathrm { g }$ 制备的低脱乙酰度壳聚糖，加至 $1 0 0 0 \mathrm { m l }$ 水中，加入乙酸溶解并调节至 $\mathrm { p H } 6 . 0$ 。再加入 $1 0 \mathrm { m l }$ 的粗酶液， $4 0 \ { ^ \circ } \mathrm { C }$ 下搅拌反应48h。离心去除水解液中残留的少量不溶物，使用旋转蒸发仪将上清浓缩至约 $3 0 0 \mathrm { m l }$ 后进行冻干。称取$1 0 \mathrm { m g }$ 壳寡糖冻干样品，使用超纯水配制成 $\mathrm { { 1 \ m g / m l } }$ 溶液。UPLC 检测条件为：使用WatersACQUITYUPLCBEHAmide色谱柱，使用的流动相为 $0 . 1 \%$ 甲酸水(A)-乙晴(B)，梯度洗脱( $0 { \sim } 2 \ \operatorname* { m i n }$ ： $1 5 \%$ A，$2 \sim 3 2 \mathrm { m i n }$ ： $1 5 \% \sim 5 0 \%$ A， $3 2 { \sim } 3 3 \ \mathrm { m i n }$ ： $50 \% \sim 8 0 \%$ A， $3 3 \sim 3 6 \mathrm { m i n }$ ： $80 \%$ A， $3 6 \sim 3 7 \mathrm { m i n }$ ： $8 0 \% \sim 1 5 \%$ A， $3 7 \mathrm { \sim } 4 4 \mathrm { m i n }$ ： $1 5 \%$ A)，柱温为 $3 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，流速为 $0 . 3 \mathrm { m l / m i n }$ ，进样量为 $1 ~ \mu \mathrm { l } { \mathrm { { c } } }$ 质谱检测条件为：ESI 源，正离子扫描模式，毛细管电压为 $3 \mathrm { k V }$ ，锥孔电压为 $6 0 \mathrm { V }$ ，离子源温度为 $1 5 0 \ \mathrm { ^ \circ C }$ ，脱溶剂气的温度为$5 0 0 \mathrm { ~ \textdegree ~ }$ ，锥孔气流量为 $5 0 1 \mathrm { { / h } }$ ，脱溶剂气流量为 $8 0 0 1 / \mathrm { h }$ ，碰撞能量为 $3 0 { \sim } 6 0 \mathrm { V }$ ，离子能量为3V，每0.25s采集1次图谱；质量扫描范围为 $1 5 0 { \sim } 2 0 0 0 ~ \mathrm { m / z } .$ 。使用Masslynx4.1质谱工作站软件对获取的液质结果进行分析，以获得潜在的壳寡糖质谱信息并根据对这些推测的壳寡糖组成进行推测。
+
+# 2 结果与讨论
+
+2.1 枯草芽孢杆菌壳聚糖酶基因优化、全合成及毕赤酵母表达
+
+枯草芽孢杆菌菌株168 的壳聚糖酶编码基因长度为 $8 3 1 ~ \mathrm { b p }$ ，编码蛋白包含277个氨基酸，在蛋白的氨基末端包含一个35氨基酸组成的信号肽序列。我们将密码子优化后的基因序列命名为 bscsn（GenBank:MG595775）。将优化前后的壳聚糖基因序列进行比对发现，共有195个核苷酸发生了改变。我们将合成后的基因构建至毕赤酵母表达载体pGBG1中并使用酶切验证其正确性，电泳结果显示，含有目的基因的表达载体经XhoI及NotI双酶切后在750-1000 bp 附近出现了一个条带（E1)，与目的基因（ $7 6 2 \mathrm { b p }$ ）大小相符；使用 $B g l \mathrm { I I }$ 对质粒线性化后出现了预期的两个片段（E2)，其中，10kb 附近为含有目的基因bscsn的片段， $3 \mathrm { { k b } }$ 附近为抗性基因片段(图1a)。双末端测序结果也确认目的基因被正确构建至表达载体中。将含有目的基因的表达载体bscsn-pGBG1转化至毕赤酵母GS115中并使用甲醇进行了诱导表达，对表达产物（记为BSCSN）进行 SDS-PAGE 分析，结果显示，在35kDa 附近及 $2 5 { - } 3 5 \mathrm { k D a }$ 中间出现了两个蛋白条带（P1)，其中， $2 5 { - } 3 5 \mathrm { k D a }$ 之间的条带与该蛋白的预测值（ $2 8 . 3 \mathrm { \ k D a } ^ { \cdot }$ ）相符，而 $3 5 \mathrm { { k D a } }$ 附近的条带推测为该蛋白的糖基化产物（图1b)。Bradford 法测定粗酶液中的蛋白质浓度为 $0 . 3 0 \mathrm { m g / m l }$ 。
+
+在本研究之前，已有报道针对枯草芽孢杆菌菌株168壳聚糖酶的相关研究：Parro 等[15]在对菌株168 测序过程中首先发现了潜在的壳聚糖编码基因；Rivas 等[1将该壳聚糖酶在枯草芽孢杆菌中进行了表达并对其酶学性质进行了鉴定；Pechsrichuang 等[17]进一步将该菌株来源的壳聚糖酶基因与 $E .$ coli的OmpA信号肽融合并在E.coli中实现了分泌表达。本研究首次对该菌株的壳聚糖酶基因进行了密码子优化并在毕赤酵母中实现了分泌表达。除菌株168外，也有研究对枯草芽孢杆菌其他分离菌株的壳聚糖酶基因进行了表达及产物酶学性质鉴定，如 Kang 等[18]在毕赤酵母中分泌表达了菌株 HD145的壳聚糖酶基因并对酶解产物壳寡糖的组成进行了分析。
+
+![](images/5976439cec9c22a1feffa875118ed2b722695f4713d2a260287170ce464a618a.jpg)  
+图1壳聚糖酶基因 bscsn 重组质粒酶切产物(a)及其蛋白表达产物(b)电泳图谱
+
+Fig.1Electrophoresis mapofchitosanase gene bscsnrecombinantplasmid restriction enzyme hydrolysates (a)and protein expression products (b)
+
+(a)M1:DNAMarker;E1: plasmid bscsn-pGBG1digested withXhoIandNotI;E2:plasmid bscsn-pGBG1digested witglII;
+
+(b)P1:Protein marker; M2:Expressed protein BSCSN
+
+# 2.2 壳聚糖酶BSCSN酶学性质初步鉴定
+
+使用DNS 法测定发酵上清中粗酶的酶活。结果显示，该酶的最适pH为5.6（图2a)，最适反应温度为 $5 5 \mathrm { ~ ~ \textdegree C }$ （图2b)，在上述最适反应条件下的比酶活为 $8 4 . 5 4 \mathrm { U / m l }$ 。热稳定性测定结果显示，该酶在 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 及以下时较稳定，处理1h后酶活没有明显较低，当温度升高至60℃时，该酶很快失活（图 2c)。上述结果与Rivas 等[16的研究结果较为吻合：将该基因在枯草芽孢杆菌中表达时的最适pH及最适温度依次为5.7及 $6 0 ~ \mathrm { { ^ \circ C } }$ ，在不高于 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 时较为稳定。而Pechsrichuang等[17]将该基因在E.coli中表达时的最适pH及温度为5.0-6.0及 $4 0 { - } 5 0 \ \mathrm { ~ \textdegree ~ }$ ，该酶在 $4 5 \ \mathrm { ~ \textdegree C }$ 下较为稳定，50℃时很快失活。说明该基因在 $E$ .coli中表达时的热稳定性相对较差。
+
+![](images/ceb56b494f14835e672adc6edbe703417a9f140c8d75af7aa44768bbbc861bfe.jpg)  
+图2pH(a)、温度 (b)对壳聚糖酶 BSCSN 活性的影响及其热稳定性(c)  
+Fig.2Effect of pH(a)and Temperature (b)on the activity of chitosanase BSCSNand its thermostability (c)
+
+# 2.3 壳聚糖酶BSCSN水解产物组分分析
+
+我们使用毕赤酵母分泌表达的壳聚糖酶BSCSN对前期制备的脱乙酰度 $62 \%$ 的壳聚糖底物进行水解。UPLC-QTOFMS 检测及分析结果显示，水解产物可被一定程度分离（图3a)。我们选取其中的9个典型峰（A-I)，利用对应的质谱信息，在9个典型峰中共计找到37个较为明显的不同分子量的潜在壳寡糖组分峰（图3b)。根据一级质谱，对这些不同核质比（ $_ \mathrm { m / z }$ ）潜在壳寡糖组分的单糖组成、聚合度及脱乙酰度进行分析，推测这37种组分为聚合度 2-18，不同脱乙酰度的壳寡糖组分（表1)。将表1中不同主峰中的壳寡糖与图3对应时我们发现：水解物中的壳寡糖基本按照氨基葡萄糖（D)数量的多少，由少至多出峰。该结果说明，现有的分离条件可以对这些复杂的壳寡糖组分进行初步分离。然而，为了获得单一分子量的组分甚至确定结构（如A糖在寡糖链中的分布确定）的壳寡糖单体，还需要进一步优选分离材料并优化分离条件。
+
+在Kang等[18]的研究中，利用表达的壳聚糖酶水解不同脱乙酰度（DDA： $50 \%$ ， $70 \%$ 及 $90 \%$ ）壳聚糖的产物均主要为聚合度8以内的全脱乙酰壳寡糖，与本研究得到大量较高聚合度的部分脱乙酰壳寡糖存在较大差异，推测为使用的壳聚糖底物不同所致。研究发现，与动植物特定受体结合可能是壳寡糖发挥生物活性的一种重要方式，目前已有多种可专一性识别壳寡糖结构的动植物受体被发现[19-25]。有意思的是，这些受体可能与不同结构的壳寡糖作用并发挥不同生物活性：植物的一些几丁质受体需要与聚合度6及以上的几丁寡糖（全乙酰化的壳寡糖）结合来激活其先天免疫系统[2]；而另一类受体则与几丁四糖及几丁五糖等低聚合度寡糖结合，发挥促进植物生长等生物活性[27]。植物的这些受体是否能与特定结构的部分脱乙酰壳寡糖结合并发挥特定生物活性仍缺乏系统研究。
+
+目前，由于制备工艺的限制，商品壳寡糖主要由高脱乙酰度壳聚糖水解制备，基本为较低聚合度（ ${ \mathrm { D P } } { < } 1 0 { \it \Delta }$ 、高脱乙酰度（ $. D D A { > } 8 5 \%$ ）的壳寡糖，组分数量较少且含有A糖单元的寡糖稀少，影响其与受体的结合从而限制其生物活性的充分发挥。我们利用毕赤酵母表达系统分泌表达了来源于安全菌种（枯草芽孢杆菌）的壳聚糖酶，后续结合高密度发酵，可实现其高效低成本制备；同时，使用该酶水解可规模制备的低脱乙酰度壳聚糖，可以规模制备低脱乙酰度复杂结构壳寡糖。后续研发将重点开展这方面的工作。
+
+![](images/5fcc8f6d5f4c150ff4162965a9341199e826b76b2eeb328414b28e2db56d5e16.jpg)  
+图3BSCSN酶解产物总离子流图(a)及质谱图(b)  
+Figure 3TIC(a) and mass spectrogram(b) of BSCSN hydrolysis products
+
+Table1 Component identification of BSCSN hydrolysis products   
+
+<html><body><table><tr><td rowspan="2">umbers</td><td rowspan="2">Retention time (min)</td><td rowspan="2">Determined m/z</td><td rowspan="2">Theoretical m/z</td><td colspan="3">Predicted</td></tr><tr><td>components</td><td>DP</td><td>DDA</td></tr><tr><td>A1</td><td>9.65</td><td>341.4</td><td>341.1</td><td>[D2+H]+</td><td>2</td><td>100%</td></tr><tr><td>A</td><td>9.65</td><td>544.6</td><td>544.2</td><td>[A1D2+H]+</td><td>3</td><td>67%</td></tr><tr><td>B</td><td>15.31</td><td>502.6</td><td>502.2</td><td>[D3+H]+</td><td>3</td><td>100%</td></tr><tr><td>C1</td><td>17.30</td><td>705.8</td><td>705.3</td><td>[A1D3+H]+</td><td>4</td><td>75%</td></tr><tr><td>C</td><td>17.30</td><td>909.0</td><td>908.4</td><td>[A2D3+H]+</td><td>5</td><td>60%</td></tr><tr><td>D1</td><td>20.76</td><td>663.7</td><td>663.3</td><td>[D4+H]*</td><td>4</td><td>100%</td></tr><tr><td>D2</td><td>20.76</td><td>866.9</td><td>866.4</td><td>[A1D4+H]+</td><td>5</td><td>80%</td></tr><tr><td>D3</td><td>20.76</td><td>1070.1</td><td>1069.4</td><td>[A2D4+H]+</td><td>6號</td><td>67%</td></tr><tr><td>E1</td><td>24.89</td><td>514.6</td><td>514.2</td><td>[A1D5+2H]2+</td><td>6</td><td>83%</td></tr><tr><td>E2</td><td>24.89</td><td>616.2</td><td>615.8</td><td>[A2D5+2H]2+</td><td>7</td><td>71%</td></tr><tr><td>E3</td><td>24.89</td><td>717.8</td><td>717.3</td><td>[A3D5+2H]2+</td><td>8</td><td>63%</td></tr><tr><td>E4</td><td>24.89</td><td>819.4</td><td>818.8</td><td>[A4D5+2H]2+</td><td>9號</td><td>56%</td></tr><tr><td>F1</td><td>27.91</td><td>1189.3</td><td>1188.5</td><td>[A1D6+H]+</td><td>7</td><td>86%</td></tr><tr><td>F2</td><td>27.91</td><td>696.8</td><td>696.3</td><td>[A2D6+2H]2+</td><td>8</td><td>75%</td></tr><tr><td>F3</td><td>27.91</td><td>798.4</td><td>797.8</td><td>[A3D6+2H]2+</td><td>9</td><td>67%</td></tr><tr><td>F4</td><td>27.91</td><td>900.0</td><td>899.4</td><td>[A4D6+2H]2+</td><td>10</td><td>60%</td></tr><tr><td>F5</td><td>27.91</td><td>1001.6</td><td>1000.9</td><td>[A5D6+2H]2+</td><td></td><td>55%</td></tr><tr><td>F6</td><td>27.91</td><td>1103.2</td><td>1102.4</td><td>[A6D6+2H]2+</td><td>11</td><td>50%</td></tr><tr><td>G1</td><td>30.08</td><td>777.4</td><td>776.8</td><td>[A2D7+2H]2+</td><td>12 9</td><td>78%</td></tr><tr><td>G2</td><td>30.08</td><td>879.0</td><td>878.4</td><td>[A3D7+2H]2+</td><td></td><td>70%</td></tr><tr><td>G3</td><td>30.08</td><td>980.6</td><td>979.9</td><td>[A4D7+2H]2+</td><td>10</td><td>64%</td></tr><tr><td>G4</td><td>30.08</td><td>1082.1</td><td>1081.4</td><td>[A5D7+2H]2+</td><td>11</td><td>58%</td></tr><tr><td>G5</td><td>30.08</td><td>1183.8</td><td>1183.0</td><td>[A6D7+2H]2+</td><td>12</td><td>54%</td></tr><tr><td>G6</td><td>30.08</td><td>1285.4</td><td>1284.5</td><td>[A7D7+2H]2+</td><td>13</td><td>50%</td></tr><tr><td>G7</td><td>30.08</td><td>1387.0</td><td>1386.1</td><td>[A8D7+2H]2+</td><td>14 15</td><td>47%</td></tr><tr><td>H1</td><td>31.56</td><td>640.0</td><td>639.6</td><td>[A3D8+3H]3+</td><td>11</td><td>73%</td></tr><tr><td>H2</td><td>31.56</td><td>707.8</td><td>707.3</td><td>[A4D8+3H]3+</td><td>12</td><td>67%</td></tr><tr><td>H3</td><td>31.56</td><td>775.5</td><td>775.0</td><td>[A5D8+3H]3+</td><td>13</td><td>62%</td></tr><tr><td>H4</td><td>31.56</td><td>843.3</td><td>842.7</td><td>[A6D8+3H]3+</td><td>14</td><td>57%</td></tr><tr><td>H5</td><td>31.56</td><td>911.0</td><td>910.4</td><td>[A7D8+3H]3+</td><td>15</td><td>53%</td></tr><tr><td>H6</td><td>31.56</td><td>978.7</td><td>978.1</td><td>[A8D8+3H]3+</td><td>16</td><td>50%</td></tr><tr><td>I</td><td>32.69</td><td>761.5</td><td>761.0</td><td>[A4D9+3H]3+</td><td>13</td><td>69%</td></tr><tr><td>12</td><td>32.69</td><td>829.3</td><td>828.7</td><td>[A5D9+3H]3+</td><td>14</td><td>64%</td></tr><tr><td>13</td><td>32.69</td><td>897.0</td><td>896.4</td><td>[A6D9+3H]3+</td><td>15</td><td>60%</td></tr></table></body></html>
+
+<html><body><table><tr><td>14</td><td>32.69</td><td>964.7</td><td>964.1</td><td>[A7D9+3H]3+</td><td>16</td><td>56%</td></tr><tr><td>15</td><td>32.69</td><td>1032.4</td><td>1031.8</td><td>[A8D9+3H]3+</td><td>17</td><td>53%</td></tr><tr><td>16</td><td>32.69</td><td>1100.1</td><td>1099.4</td><td>[A9D9+3H]3+</td><td>18</td><td>50%</td></tr></table></body></html>
+
+Notes:ArepresentsN-Acetyl glucosamine，Drepresentsglucosamine，thesubsequent numbersrepresentthe numberof monosaccharide in these predicted components.
+
+# 3结论
+
+本研究优化并全合成了来源于枯草芽孢杆菌的壳聚糖酶基因并在毕赤酵母中实现了分泌表达。利用获得的壳聚糖酶水解低脱乙酰度壳聚糖并对水解产物的组分进行了分析，结果发现，产物中包含多种不同聚合度及脱乙酰度的壳寡糖。我们将在后续的研究中进一步分离并制备这些组分，以便深入研究壳寡糖结构与功能的关系，为更高活性壳寡糖新产品研发及应用提供参考。
+
+# 参考文献：
+
+[1]LodhiG,KimYS,HwangJW,etal.ChitooligosaccharideandItsDrivatives:PreparationandBiolgicalApplications.iomed Research International,2014,2014(1): 654913.   
+[2] ZouP,YangX,WangJ,etal.Advancesincharacterzationandbiologicalactivitiesofhitosanandchitosanligosaccharides. Food Chemistry,2016,190:1174-1181.   
+[3] Azuma K,OsakiT,MinamiS,etal.Anticancerandanti-infammatorypropertiesofchitinandchitosanolgosaccharides.Joual of functional biomaterials,2015,6(1): 33-49.   
+[4] ShinyaT,NakagawaT,Kaku H,etal.Chitin-mediatedplant-fungalinteractions:catching,hidingandhandshaking.Curnt Opinion in Plant Biology,2015,26: 64-71.   
+[5] Je JY,KimSK.oligosaccaridsasotetialtraceuticals:prouctionadoactivis.AdvFodutres65: 321-336.   
+[6] LiK,XingR,LiuStal.dvcsinepratioasisdoloicalctisofingleolgoscds.bdate Polymers,2016,139:178-190.   
+[7] Younes IRinaudoM.ChitinandChitosanPreparation from Marine SouresStructure,PropertiesandAplications.Marie Drugs, 2015,13(3): 1133-1174.   
+[8] Jung WJ,ParkRD.ioproductioofcitooligosaccharides: presentandprspectives.MarDrugs,14,2(11):528-56.   
+[9] TeglG，Ohlknecht C，VielnascherR，etal.CelobiohydrolasesProduce Diferent Oligosaccharidesfrom Chitosan. Biomacromolecules,2016,17(6): 2284-2292.   
+[10]RanokA,WongsantichonJ,RobinsonR,etal.High yield productionof monomer-freechitosanoligosaccharidesbypepsin catalyzed hydrolysis of ahigh deacetylation degree chitosan. Carbohydr Res,20o7,342(18):2750-2756.   
+[11]Lee DX,XiaWS,Zhang JL.Enzymaticpreparationofchitooligosaccaridesbycommercial lipase.FoodChemistry08, 111(2): 291-295.   
+[12]中科荣信(苏州)生物科技有限公司．一种里氏木霉几丁质酶及其制备方法和应用：中国,2017106305187. 2017-07-28[2018-05-15]. ZhongkeRunxin (Suzhou) Biological Technology Co.,Ltd.Preparation method and Applicationof Trichoderma reesei chitinase:Chinese,2017106305187.2017-07-28[2018-05-15]. http://pquery.sipgov.cn/txnQueryOrdinarPatents.do?select-key:shenqingh=2017063187&select-key:zuanlic&selct-ke y:shenqingrxm=&select-key:zhuanlilx $\scriptstyle : =$ &select-key:shenqingr_from $\ L _ { 1 } =$ &select-key:shenqingr_to $\vartriangleleft$ &verycode $\mathrel { \mathop : }$ 12&inner-flag:open-t ype=window&inner-flag:flownc $\vDash$ 1526355060614   
+[13]BoissR,DcnAHaroodC,aBcilusubilis,teodelG-posiiebacte: arsofotatit. Microb Biotechnol,2018,11(1): 3-17.   
+[14]程功，任立世，焦思明，等．纤维素酶制备低脱乙酰度壳寡糖及其组成分析．食品科技,2018,43(04):189-193. ChengG,RenLJiaoS,etal.Compositionnalysisdproductioofitolgosancchrides withlowdegeofeacetylatiby cellulase.Food Sience and Technology,2018,43(4):189-193.   
+[15]ParoV,anRomanMGalindoIetal.A2391pregonoftheBcilussubtilisgenomecomprsinggeneslocatedupstramnd downstream of the lev operon.Microbiology,1997,143:1321-1326.   
+[16]RivasL,ParoV,MorenoPazM,etal.TeBacilussubilis68csgeneencodesachitosanase withsimilarpropertisto streptomyces enzyme.Microbiology,2000,146: 2929-2936.   
+[17]PechsrichuangP,YoohatK,Yamabhai M.ProductionofrecombinantBacilussubtilischitosanase,suitableforbiosynthesisof chitosan-oligosaccharides.Bioresour Technol, 2013,127: 407-414.   
+[18]KangLX,ChenXM,FuL,etal.Recombinant expressionofchitosanasefromBacilussubtilisHD145inPichapstoris. Carbohydr Res,2012,352: 37-43.   
+[19]Feng J,ZhaoL,YuQ.Receptor-mediatedstimulatoryefectofoligochitosan inmacrophages.BiochemicalandBiophysical Research Communications,2004,317(2): 414-420.   
+[20]HanY,ZaoL,YuZ,etal.Rolefaoseeptorinligochitosan-mediatedsiulationofacropagefunction.Intetioal Immunopharmacology,2005,5(10):1533-1542.   
+[21]SCHMPLM,USHCL,BETOUM,etal.HumanYKL-39isapseudo-chitinasewithretainedchitoligosacharide-binding properties[J].Biochemical Journal,2012,446(1):149-157.   
+[22]RanokA,WongsantichonJRobinsonRC,etal.Structuralandthermodynamicinsightsintochitooligosaccaridebindingto humancartilagechitinase3-likeprotein2(CH3L2orYKL-39).JournalofBiological Chemistry,2015,290(5):2617-2629.   
+[23]HayafuneM,BerisioR,MarchetiR,etal.Chitin-inducedactivationofimmunesignalingbytheiceeeptorCEBiesona unique sandwich-type dimerization.Proceedings of the National Academy of Sciences,2014,11(3):E404-E413.   
+[24]LiuB,LiJF,AoY,etalLysimotif-cotaiingproteinsY4and6playalrolesinpeptidoglycaanditipeti rice innate immunity.Plant Cell, 2012,24(8): 3406-3419.   
+[25]XuJ，WangG,WangJ，etal.Thelysinmotf-containingproteins,Lypl,Lyk7andLysMe3,playimportantrolesichitin perception and defense against Verticillium dahliae in cotton.BMC Plant Biology,2017,17(1):148.   
+[26]LiuTuZogCetl.iiedzaictiesleie,):6.   
+[27]WinklerAJ,Dminguez-NunezJA,raazI,etal.Short-ChainChitinOligomers:PromotersofPlantGrowth.MarDrugs,07, 15: 40.

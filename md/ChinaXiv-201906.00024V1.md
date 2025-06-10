@@ -1,0 +1,109 @@
+# Characteristic frequency of the orbital fluctuation in the unconventional iron-based superconductor BaFe2As2: A TDDFT investigation of the electron pairing mechanism
+
+Tiege Zhou
+
+zhoutg@nankai.edu.cn
+
+June 13,2019
+
+(College ofElectronic Information and Optical Engineering,Nankai University,3oo350 Tianjin,P.R.China)
+
+# Abstract
+
+Itisproposed that the electron-pairing medium of the iron-based superconductors may be the orbital fluctuation of the transition metal ions. But the characteristic frequency of the orbital fluctuation has not been given. For the first time, the author has calculated the real-time evolution of the electron clouds of transition metal ions in BaFe2As2 under excitations by the time-dependent density functional theory (TDDFT). There are different modes of fluctuations. The characteristic frequencies are 150 meV, 160 meV, $2 5 0 \ \mathrm { m e V } ;$ and $2 0 0 { \mathrm { ~ m e V } } ;$ ，respectively, for the modes the author observed. The results are unexpected, because the general view is that the change of the electron density is very quick,and the frequency is much higher than the lattice vibration. The frequencies the author obtained are close to that of the lattice vibration in conventional superconductors at normal and high pressures, indicating the orbital (or electron cloud） fluctuation can by the electron pairing medium. Based on the calculation results, the author proposed a new electron pairing mechanism.
+
+Keywords: iron-based superconductor; time-dependent density functional theory; electron-pairing medium; orbital fluctuation
+
+# 1Introduction
+
+The electron-lattice interaction cannot explain the electron-pairing mechanism in the unconventional copper-oxide [1, 2] and iron-based [3, 4] superconductors. As a new electron pairing mechanism, orbital fluctuation has been extensively studied [5][6][7]8], but the characteristic frequency of the orbital fluctuation has been not obtained. If the frequency is too low or too high, it is unlikely to be an electron-pairing medium. Table 1 gives the maximum phonon frequencies and $T _ { \mathrm { c } }$ of three typical conventional superconductors. It is reasonable to guess that the characteristic frequency should be about $1 0 0 { - } 2 5 0 \ \mathrm { m e V } .$ （204
+
+Table 1 Maximum phonon frequencies and $T _ { \mathrm { c } }$ of three typical conventional superconductors.   
+
+<html><body><table><tr><td></td><td>Pb [9]</td><td>MgB2[9]</td><td>H3S[10]</td></tr><tr><td>ω/meV</td><td>9</td><td>90</td><td>250</td></tr><tr><td>Tc/K</td><td>7</td><td>39</td><td>164</td></tr></table></body></html>
+
+Based on the above consideration, the author has made an investigation, exploring the characteristic frequency of the orbital fluctuation. The real-time evolution of charge densities under excitations of BaFe2As2 has been calculated by TDDFT[11, 12] method. This paper will report the methods and results.
+
+# 2 Methods
+
+Calculations were conducted within the Octopus package [13, 14]. The generalized gradient approximation (GGA） of Perdew-Burke-Ernzerhof (PBE） was used to describe the exchange-correlation energy. The $\mathrm { G G A ^ { + } U }$ method [15,16] was considered to deal with the strong correlation of the $3 d$ electrons. HSCV pseudopotentials [17] were adopted. Approximated Enforced Time-Reversal Symmetry (AETRS) algorithm was used to approximate the evolution operator and the time step is $0 . 0 0 2 \hbar / \mathrm { e V } .$ （20 $3 \mathrm { p } ^ { 6 } \mathrm { d } ^ { 6 } 4 \mathrm { s } ^ { 2 }$ of Fe, $3 \mathrm { d } ^ { 1 0 } 4 \mathrm { s } ^ { 2 } \mathrm { p } ^ { 3 }$ of As and $5 \mathrm { p } ^ { 6 } 6 \mathrm { s } ^ { 2 }$ of Ba are taken as valence electrons in the calculation. The real space spacing is O.35 Bohr. The vibration of charge densities is excited with two methods. The first is a time-dependent electric field along 111 direction:
+
+$$
+f ( t ) = F _ { 0 } \cos ( \frac { \pi } { 2 } \frac { t - 2 \tau _ { 0 } - t _ { 0 } } { \tau _ { 0 } } ) \cos \omega t \qquad \quad \mathrm { ~ } I f \left| t - t _ { 0 } \right| > \tau _ { 0 } , t h e n f ( t ) = 0 .
+$$
+
+The second is to change some atom slightly. In the TDDFT calculation, the ions are fixed and the electron densities vibrate freely.
+
+# 3 Results and Discussions
+
+Electric fields with two frequencies were used to excite the charge fluctuation. When $\omega = 1 . 8 \ \mathrm { e V }$ (the applied electric field), Figure 1(a) shows the time dependence of the electric filed. The excitation vanishes after 5OoO steps and the charge densities vibrate freely thereafter. After 80oO steps'evolution, the charge densities are recorded. Figure l(b) shows the crystal structure and the real-time evolution of the change of the charge density. 1OO represents the charge density difference between the 8100th step and the 80ooth step and the same below. The change of the electron clouds of Fe ions (marked by 3 and 4) become obvious gradually with the evolution steps. To give a better illustration, Figure l(c） shows the maximum value of the charge density change as a function of the evolution steps. The charge density change reaches its maximum value after about 85O steps, and the corresponding time is $1 . 7 \hbar / \mathrm { e V } .$ It is the time from zero to the maximum. The time of one period should be $4 { \times } 1 . 7 \hbar / \mathrm { e V }$ and the frequency is about $1 5 0 \ \mathrm { m e V } .$ This result is unexpected, because the general view is that the change of the electron density is very quick,and the frequency is much higher than the lattice vibration.But the results obtained by the author are close to the lattice vibration. The frequency given in this way is not very accurate, but the frequency is consistent with the authors’ guess, indicating that it can be the electron-pairing medium in unconventional superconductors.
+
+![](images/30eb22b01015917863868f336e311eb570b1f00c55dfb612296c3b78a2739675.jpg)  
+Figure 1(a) Time dependence of the electric field applied, $\omega = 1 . 8 \mathrm { e V } .$ （20
+
+![](images/4d35e5352ee6dbda5c1a7c649c8a41e911c2444c16b3aa61e3c49dffe476e134.jpg)  
+Figure 1(b) Crystal structure and the charge density evolution of BaFezAsz. Plots were generated using VESTA[18] (the same below). The isosurface is $0 . 0 3 ~ \mathrm { e / b o h r } ^ { 3 }$ . The yellow color represents an increase of the charge density,while the blue a decrease (the same below). $\omega = 1 . 8 \mathrm { e V } .$ （204
+
+![](images/24d742076825d00b7b2fce16800ab2e12ed940c8434748940c9d9c579deceaec.jpg)  
+Figure l(c) The relationship between the maximum value of charge density change and the evolution steps. $\omega = 1 . 8 \mathrm { e V } .$ （204
+
+When $\omega = 0 . 9 \mathrm { ~ e V }$ for the applied electric field, Figure 2(a) shows the time dependence of the electric filed. Figure 2(b) shows the crystal structure and the real-time evolution of the change of the charge density. The change of Fe ions (marked by 3 and 4) reaches is maximum after 80O steps and the frequency is about $1 6 0 ~ \mathrm { m e V } .$ Compared with Figure 1(b), it is found there are significant differences in the pattern of charge density changes.
+
+![](images/0b082faff09da33146fea511f57e7da617fa3699e65d8708edb38e319a9666a1.jpg)  
+Figure 2(a) Time dependence of the electric field applied, $\omega = 0 . 9 \mathrm { e V } .$ （20
+
+![](images/de22643fba8e99c687b1f81cd72cdb0cebea82dc4e7e88b6b6b98b9f09159465.jpg)  
+Figure 2(b) Crystal structure and the charge density evolution of ${ \mathrm { B a F e } } _ { 2 } { \mathrm { A s } } _ { 2 }$ .The isosurface is 0.02
+
+$$
+\operatorname { e } / { \mathrm { b o h r } } ^ { 3 } . \omega = 0 . 9 \ \mathrm { e V } .
+$$
+
+For the second method to excite the charge vibration, the position of an As atom is slightly changed. The original coordinate is (0.0000, 0.0000, 0.3585),and modified to (0.0000, 0.0000, 0.3685), ie., the Ca atom was moved in the (001) direction by 0.13 A. Ground state was calculated. Then the coordinate was modified back to (0.0000, 0.0000, 0.3585） for TDDFT calculation. Charge densities were recorded after 5000 and 800O steps, respectively. Figure 3(a) shows the charge density change recorded after 5OoO steps’ evolution. The change of the Fe ions marked by an arrow reaches its maximum after 500 steps and the frequency is 250meV. Figure 3(b) shows the charge density change recorded after 80oo steps’ evolution. The change of the Fe ions marked by an arrow reaches its maximum after 6Oo steps and the frequency is $2 0 0 \mathrm { m e V . }$ It can be seen from Figure 3(a) and Figure 3(b) that the pattern of charge density changes can be different for the same excitation.
+
+![](images/c5cbe312b1addc812010ba1cf13229455badfaccfd3e56497f17435c87421a79.jpg)  
+Figure 3(a) Charge density change recorded after 5ooO steps’ evolution, isosurface $= 0 . 0 5$
+
+![](images/fea483120b8b501b381ce8b9013a020690bff73cad26145a2f68133d3998827b.jpg)  
+Figure 3(b) Charge density change recorded after 8ooO steps' evolution, isosurface $= 0 . 1$
+
+The author has also investigated other unconventional superconductors,and obtained similar results. For La2Fe2As2O2， FeSe sheet and HgBa2Ca2Cu3O8， the characteristic frequencies are 160 meV, 190meV, and 250meV, respectively [19]. Orbital (charge density of Fe or Cu ions) fluctuation may also be the electron pairing mechanism for copper oxide superconductors. It is worth noting that the change of the electron clouds of transition metal ions is very complicated. There may be different modes, corresponding to different frequencies.
+
+Why do the electron clouds of transition metal ions change this way? The main reason is that the $3 d$ shell of transition metal ions is not fully filled. The electron clouds possess no spherical symmetry, and easy to change under electric fields.
+
+The author proposes that the electron pairing mechanism (for both iron-based and copper-oxide superconductors） is as follows. When a free electron comes to a new place, the electron clouds of the neighboring transition metal ions will change. In this way, the charge densities around the free electron will decrease. When the free electron leaves, the electron clouds of the transition metal ions will not relax immediately (just as the lattice vibration)，so that there will be a region lack of electron. Another free electron will be atracted. An attraction appears. This mechanism is essentially the same as the electron-phonon interaction, except that the medium is the change of the electron cloud, not the displacement of the ions.
+
+# 4 Summary
+
+Real-time evolution of the electron clouds of transition metal ionsin unconventional superconductor was calculated by the TDDFT method. The frequencies of evolution of electron clouds match well with the frequencies of the lattice vibrations in conventional superconductors at normal and high pressures. Though the frequencies obtained by this method are not accurate, it can give a significant evidence that the change of electron clouds can be the electron-pairing medium in unconventional superconductors.
+
+# References
+
+[1] Bednorz, J. G., Müller, K. A.: Possible high $T _ { \mathrm { C } }$ superconductivity in the Ba-La-Cu-O system. Zeitschrift fur Physik B 64,189-193 (1986)
+
+[2] Wu, M. K.,Ashburn, J. R., Torng, C. J., Hor,P. H., Meng, R.L., Gao,L., Huang, Z. J., Wang, Y. Q., Chu, C. W.: Superconductivity at $9 3 \mathrm { K }$ in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure. Phys. Rev. Lett. 58, 908-910 (1987)
+
+[3] Kamihara, Y., Hiramatsu, H.,Hirano,M., Kawamura,R., Yanagi,H., Kamiya,T.,Hosono,H.: Iron-Based Layered Superconductor: LaOFeP.J.Am. Chem. Soc.128(31),10012-10013 (2006).
+
+[4] Kamihara, Y., Watanabe,T., Hirano,M., Hosono,H.: Iron-Based Layered Superconductor $\mathrm { L a } [ \mathrm { O } _ { \mathrm { l - x } } \mathrm { F } _ { \mathrm { x } } ]$ FeAs $\begin{array} { r } { \mathrm { \Sigma } _ { x } = 0 . 0 5 \mathrm { - } 0 . 1 2 , } \end{array}$ with $T _ { \mathrm { c } } = 2 6 \ : \mathrm { K }$ . J.Am. Chem. Soc.130,3296-3297 (2008).
+
+[5] Hiroshi Kontani and Seiichiro Onari, Orbital-Fluctuation-Mediated Superconductivity in Iron Pnictides: Analysis of the Five-Orbital Hubbard-Holstein Model,Phys.Rev.Lett.104,157001- Published 15 April 2010
+
+[6] Tetsuro Saito, Seiichiro Onari,and Hiroshi Kontani, Orbital fluctuation theory in iron pnictides: Effects of As-Fe-As bond angle, isotope substitution,and Z2-orbital pocket on superconductivity,Phys. Rev.B 82,144510-Published 14 October 2010
+
+[7] Tudor D. Stanescu, Victor Galitski, and S.Das Sarma, Orbital fluctuation mechanism for superconductivity in iron-based compounds,Phys.Rev.B 78,195114-Published 17 November 2008 [8] Akihisa Koga, Norio Kawakami, T.M. Rice,and Manfred Sigrist, Spin, charge, and orbital fluctuations in a multiorbital Mott insulator,Phys.Rev.B 72,045128-Published 19 July 2005 [9] Poncé, S., Margine,E.R., Verdi, C., Giustino,F.: EPW: Electron-phonon coupling, transport and superconducting properties using maximally localized Wannier functions. Comput. Phys. Commun. 209,116-133 (2016)
+
+[10] Durajski, A.P., Szczesniak, R.: First-principles study of superconducting hydrogen sulfide at pressure up to 500 Gpa. Sci. Rep. 7, 4473 (2017)
+
+[11] Castro, A., Marques, M.A.L., Alonso, J.A., Rubio,A.: Optical properties of nanostructures from time-dependent density functional theory, J. Comp. Theoret. Nanoscience 1,231-255 (2004)
+
+[12] Marques, M.A.L., Gross,E.K.U.: Time-dependent density functional theory, Annu.Rev.Phys. Chem. 55 427-455 (2004)
+
+[13] Andrade, X., Strubbe, D.A., De Giovannini, U.,Larsen, A.H., Oliveira, M.J.T., Alberdi-Rodriguez, J., Varas,A., Theophilou,I., Helbig, N., Verstraete,M., Stella,L.,Nogueira,F.,Aspuru-Guzik, A., Castro,A., Marques, M. A.L.,Rubio, A.: Real-space grids and the Octopus code as tools for the development of new simulation approaches for electronic systems.Phys. Chem. Chem. Phys.17, 31371-31396 (2015)   
+[14] Marques, M.A.L., Castro,A., Bertsch, G.F., Rubio,A: Octopus: a first-principles tool for excited electron-ion dynamics. Comput. Phys. Commun. 151 60-78 (2003)   
+[15] Agapito,L.A., Curtarolo, S., Nardelli, M.B.: Reformulation of DFT $+ \mathrm { ~ U ~ }$ as a Pseudohybrid Hubbard Density Functional for Accelerated Materials Discovery. Phys. Rev.X 5(1),011006 (2015) [16] Tancogne-Dejean, N., Oliveira, M.J.T., Rubio,A.: Self-consistent DFT $+ \mathrm { U }$ method for real-space time-dependent density functional theory calculations. Phys. Rev. B 96,245133 (2017)   
+[17] Vanderbilt,D.: Optimally smooth norm-conserving pseudopotentials. Phys. Rev. B 32,8412-8115 (1985)   
+[18] Momma, K., Izumi, F.: VESTA: a three-dimensional visualization system for electronic and structural analysis. J. Appl. Cryst. 41, 653-658 (2008).   
+[19] Tiege zhou, Real-Time Evolution of the Electron Clouds of Transition Metal Ions:   
+Electron-Pairing Medium of Unconventional High Temperature Superconductors,   
+http://vixra.0rg/abs/1904.0447 (2019)

@@ -1,0 +1,251 @@
+# 高分辨质谱-互联网-数据科学三元融合技术构建农药残留侦测技术平台 \*
+
+![](images/92924dbad4e99ceef600e4f0a4b20e1d9928d29a94dc245498ac86075f3a4374.jpg)
+
+# 庞国芳1 陈谊 范春林1 白若镔孙悦红² 常巧英1
+
+1中国检验检疫科学研究院北京100176  
+2 北京工商大学 北京 100048  
+3 北京合众恒星检测科技有限公司 北京 100176
+
+摘要研究建立了基于高分辨质谱-互联网-数据科学三元融合技术（简称“三元融合技术”）的农药残留侦测技术平台，包括网络联盟实验室、侦测结果数据库和5个基础数据库、数据采集系统和数据智能分析系统。分布在全国各地的网络联盟实验室在其客户端将农药残留的检测原始数量按统一模板通过网络上报至采集系统；采集系统对数据获取、信息补充、衍生物合并、毒性分析，然后参照多国农药最大残留限量（MRL）进行污染等级判定形成结果记录，存入检测结果数据库；数据智能分析系统根据用户的条件设定，读取数据，并根据统计分析模型进行各项统计分析，生成图表，得出综合结论，然后将分析结果返回网络联盟实验室的客户端。从而实现了20—30分钟自动生成图文并茂的农药残留侦测报告，并可实现“一键下载”，其工作效能是传统方法不可能实现的。农药残留侦测数据平台实现了食用农产品农药残留实时检测和数据的及时采集、管理和智能分析，并在短时间内自动生成相关农药残留检测报告，从而为农药残留追根溯源、风险安全评估、农药的科学管理与使用，提供实时在线服务。这是实现农药的科学施用，农产品农药残留安全监管，落实民众“舌尖上安全”的一个有效快捷的好工具。
+
+\*资助项目：“十二五”国家科技支撑计划项目（2012BAD29B01），国家科技基础性工作专项（2015FY111200)  
+修改稿收到日期：2017年12月12日
+
+关键词高分辨质谱，农药残留数据，智能分析，侦测报告自动生成 DOI 10.16418/j.issn.1000-3045.2017.12.013
+
+1976年，世界卫生组织（WHO）、国际粮农组织（FAO）和联合国环境规划署（UNEP）共同设立了全球环境检测系统/食品项目（Global Environment Monitoring System/Food），旨在掌握各会员国食品污染状况，了解食品污染物的摄入量，保护人体健康，促进国际贸易发展[1]。美国于1962年启动了“农药残留监测计划”（Pesticide Program:Residue Monitoring,PPRM），此后又相继建立了“国家残留监控计划”（NationalResidueProgram，NRP）和“农药数据计划”（PesticideDataProgram，PDP），到目前为止，美国共有三大农药残留监控系统[2]。欧盟于1971年按照71/118/EEC号指令要求各成员国开展农兽药残留检测工作，到1996年欧共体启动《共同体农药残留监控计划》，现已形成欧盟层面和欧盟各成员国两个层面的残留监控体系[3]。日本于2003 年启动了当时世界上最为严厉的农药残留监控体系——“肯定列表制度”，并明确规定，只有符合该列表制度的农产品才能进入日本市场[4]。中国于1999年制定了《中华人民共和国动物及动物源食品中残留物质监控计划》[5]；2010年，卫生部等5部门联合制定《食品安全风险监测管理规定》，提出制定国家食品安全风险监测计划[。
+
+随着世界各国食品安全战略地位的确立，农药残留限量标准越设越多，限量要求越来越严，农药残留监控的挑战越来越大。农药最大残留限量（MRL）既是食品安全限量标准之一，也是食品农产品国际贸易准入门槛，更是世界各国为保护食品农产品安全所重点研究的技术措施。目前世界常用农药大约有2000种，欧盟、美国、日本和中国制定的MRL分别达到162248项（839种农药，2013年）①、39147项（500多种农药，2011年）②、51600项（823种农药，2013年）③和4140项（433种农药，2016年）[7]。与世界发达国家相比，中国学者在这一领域的研究，还有广阔的发展空间。
+
+因此，笔者团队于2013年对1990—2013年这24年间发表在15个主流国际杂志上4109 篇检测农药残留的论文进行研究发现，农药残留分析一直唱主角的色谱技术论文总量悄然被质谱技术超越，超越的时间点在2001年左右，到2013年农药残留检测质谱技术的论文数量已遥遥领先于色谱技术[8]。气/液相色谱-串联质谱多残留检测技术，成为世界各国研究者的热门研究领域[9-16]。特别是近年来发展起来的高分辨质谱技术，由于具有以农药精确质量数筛查农药的优点，在农药残留分析方面具有显著优势，引起目前农药残留研究者的高度关注[17-20]。鉴于高分辨质谱侦测技术的高度数字化、信息化和自动化的实现，产生的数据也呈现出规模巨大（volume）、类型多样（variety）、产生速度快（velocity）、价值密度低（value）的大数据4V特征，这就为农药残留数据的采集、处理、存储和分析提出了极大的挑战[21,22]。因此，为了对海量数据进行快速智能分析，可以用于大数据采集、传送、统计和智能分析的农药残留侦测技术平台亟待开发。
+
+如何基于互联网，利用先进的高分辨率质谱技术与数据科学融合，构建农药残留侦测数据平台，实现食用农产品农药残留数据的及时采集、管理和智能分析，并在短时间内自动生成相关农药残留检测报告，为农药残留追根溯源、风险评估以及农药的科学管理与使用，提供实时在线服务。到目前为止，这类方法和系统未见报道。
+
+笔者团队研发了一种高分辨质谱-互联网-数据科学三元融合技术，并基于该技术构建了农药残留侦测技术平台，提出了侦测报告自动生成及一键快速下载的方法。通过全国各地的联盟实验室用高分辨质谱技术对18类146种水果蔬菜中世界常用1200多种农药化学污染物实施一年四季循环监测；通过互联网实现各个联盟实验室数据的互联互通及数据共享；通过数据采集系统和智能分析系统对数据进行智能管理与分析，实现了报告自动生成并一键快速下载。该方法提高农药残留发现的能力，以及提高检测方法的效能，是任何一种传统农药残留检测技术所不能比拟的。同时，也使农药残留食品安全问题早发现、早预警、早管理，促进食品安全监管前移，实现食品安全由被动整治逐步向防患于未然转移。
+
+# 1农药残留侦测技术平台的组成
+
+# 1.1三元融合技术构建农药残留监测技术平台
+
+基于三元融合技术构建的农药残留侦测技术平台（图1），主要包括3个部分：（1）分布在全国各地的若干个网络联盟实验室；（2）五大基础数据库——检测结果数据库、多国MRL数据子库、多国农产品信息数据子库、农药信息数据子库和地理信息数据子库；（3）基于浏览器、数据服务器和Web服务器3层架构的监测数据采集系统和智能分析系统。
+
+该平台的工作原理如下：
+
+（1）通过分布在全国各地的网络联盟实验室，从客户端将气相色谱-四极杆-飞行时间质谱（GC-Q-TOF/MS，下文简称“GC”）和液相色谱-四极杆-飞行时间质谱（LC-Q-TOF/MS，下文简称“LC”）农药残留侦测结果按统一模板通过网络上报至数据处理中心采集系统。
+
+（2）采集系统根据五大基础数据库通过对数据获取、信息补充、衍生物合并、毒性分析、参照多国MRL标准进行污染等级判定后，形成结果记录，存入侦测结果数据库。
+
+（3）智能分析系统根据用户的条件设定，读取数据，然后逐一根据统计分析模型，进行各项统计分析，生成图表，得出综合结论，并将分析结果返回给全国各地网络联盟实验室的客户端。最终生成一本图文并茂的
+
+农药残留侦测报告。
+
+# 1.2高分辨质谱检测新技术研发与网络联盟实验室的构建
+
+# 1.2.1农药残留检测标准方法的建立
+
+建立的农药残留检测标准方法是基于农药精确质量数据库（图2），采用LC和GC技术，对水果蔬菜中农药残留完成非靶向高通量检测，可获得相关农药残留原始数据，并对农药残留进行侦测，过程如图3所示。
+
+# 1.2.2建立网络联盟实验室
+
+加入网络联盟实验室要满足4个条件：（1）要熟悉高分辨质谱，比如GC、LC或其他高分辨质谱检测农药残留技术；（2）要有一定的农药残留识谱和解谱能力；（3）实验室要通过国家或国际组织农药残留水平测试能力的考核并获得A等级（该考核需每年1次），还要通过由联盟实验室组织的飞行样品考核；（4）为了保障检测数据的统一性、完整性、安全性和可靠性，联盟
+
+1200多种农药500多种，高m/z，低挥发 700多种，低m/z，高挥发建立LC的一、二级数据库 建立GC的碎片离子谱图库  
+TOF数据库的建立 QTOF数据库的建立 级全扫描获得全谱数据TOF模式下测定 输入母离子，建立QTOF采集方法 保留时间、特征碎片离子精确质量数、离子丰度分子式检索 选择4个碰撞能下碎片离子 比、一级全扫谱图信息丰富的质谱图编辑质谱图上碎片离子精  
+同位 同 精 确质量数信息位 确 保留 导入PCDL软件  
+素比 系 力 时 导入PCDL软件山 间 QTOF数据库  
+例 布 二谱图库符合得分值 TOF数据库TOF初筛依据
+
+![](images/77c1b02f7ab559fe2379224d1b87328ac0c41bbe9df105d8107b0e476877f575.jpg)  
+图1　农药残留侦测技术平台架构图
+
+![](images/8a6223029b956eebdc951bca261c0860f89889c18da5afada8f19b593ae37526.jpg)  
+图2LC和GC农药化学污染物质谱数据库建立流程  
+图3农药残留侦测流程图
+
+成员按照“五统一”规范进行操作，即统一采样、统一制样、统一检测方法、统一格式数据上传和统一内容统计分析报告。通过全国各联盟实验室成员实验室的标准化操作，每年、每季度、每个月都会定期采样并进行检测，从而实现一年四季循环侦测，产生并沉淀大量农药残留检测结果数据，存入数据库。
+
+# 1.3构建五大基础数据库
+
+为有效地保存和使用农药残留检测数据，并为农药残留污染物进行等级判定，以及为统计分析提供基础和依据，设计并建立了农药残留侦测数据库，包括农药残留侦测结果数据库、多国和多地区组织MRL数据子库、农产品信息数据子库、农药信息数据子库和地理信息数据子库五大基础数据库（表1）。
+
+# 1.4建立数据采集系统
+
+数据采集系统是基于“浏览器/数据库服务器/Web服务器”的3层架构。其中浏览器层位于各地联盟实验室的客户端中，是用户访问系统的界面；Web服务器层位于数据中心，负责访问数据库和执行预处理逻辑；数据库服务器位于数据中心，负责存储和管理农药残留各类数据。
+
+数据采集系统包括数据获取、数据预处理、污染等级判断、数据存储四大模块（图4）。各模块的功能分别为：（1）数据获取模块。负责获取各联盟实验室上报的农药残留检测结果。（2）数据预处理模块。负责对上报的检测数据进行处理，包括对上报数据的判定，对农药、地域和农产品分类等信息的补充、分类、合并。
+
+(3）污染等级判断模块。负责根据各国（或地区组织）的MRL进行污染等级判定。（4）数据存储模块。负责最后形成结果记录存人侦测结果数据库。采集系统实现了侦测结果的自动上传及污染等级判定，建立了农药残留侦测结果数据库。
+
+# 1.5建立数据智能分析系统
+
+农药残留侦测数据智能分析系统由数据层、访问层、业务层和展现层组成（图5）。
+
+![](images/a8db478d0871bd2681d9ad4d1c4604c22df9fc3769fd78b8310a94090f42b071.jpg)  
+图4农药残留侦测数据采集系统架构图
+
+![](images/bb3e42eaee1df431a6364a385f2a337671e33f77513ed205f19c91907ea45f01.jpg)  
+图5农药残留侦测数据智能分析系统架构图
+
+表1农药残留侦测数据库  
+
+<html><body><table><tr><td>侦测结果数据库 (联盟实验室)</td><td>多国/地区MRL数据子库</td><td>多国/地区农产品信息数据子库</td><td>农药信息数据子库</td><td>地理信息数据子库</td></tr><tr><td>统一方法采样</td><td>中国MRL</td><td>中国分类</td><td>基本信息</td><td></td></tr><tr><td>统一方法制样</td><td>中国香港MRL</td><td>中国香港分类</td><td>毒性信息</td><td>7个大区</td></tr><tr><td>统一检测方法</td><td>美国MRL</td><td>美国分类</td><td>功能信息</td><td>34个省、自治区、直辖市</td></tr><tr><td>统一格式数据上传</td><td>欧盟MRL</td><td>欧盟分类</td><td>化学成分</td><td>334个地级市</td></tr><tr><td>统一格式统计分析报告</td><td>日本MRL</td><td>日本分类</td><td>禁用信息 衍生物信息</td><td>2853个县</td></tr><tr><td>世界常用1200多种常用农药</td><td>MRL标准241527条</td><td>农产品350种</td><td>农药属性分类</td><td>全国2853个县</td></tr></table></body></html>
+
+（1）数据层。由农药残留侦测结果数据库、四大基础数据子库以及相关文件组成，提供数据库和文件服务；主要实现农药残留侦测结果数据库和4个基础数据子库相互关联、互联互通。
+
+（2）访问层。通过数据库访问组件访问数据库中的数据提供给业务层。
+
+（3）业务层。根据统计分析模型实现采样点、农药、污染等级等多维度的交叉统计分析。该系统同样基于“浏览器/Web服务器/数据库服务器”的3层架构。所述数据智能分析系统包括六大模块： $\textcircled{1}$ 参数设置模块,负责为用户提供参数设置的界面和通道； $\textcircled{2}$ 单项分析模块，负责完成20项单项统计功能； $\textcircled{3}$ 综合分析模块，负责在单项分析结果的基础上完成5项综合分析； $\textcircled{4}$ 报告生成模块，负责将分析结果形成图文并茂的检测报告;$\textcircled{5}$ 附表生成模块，负责生成各类统计报表； $\textcircled{6}$ 预警报告模块，根据分析结果给出预警提示。
+
+（4）展现层。根据客户提出的20个条件生成各类图文并茂的智能分析报告。生成的统计分析报告包含生成统计说明文本、生成统计图数据表、绘制统计图3个部分。
+
+侦测结果数据库。实现了一年四季不间断的农药残留侦测。农药残留检测的样品种类见表2和3。
+
+利用平台的智能分析系统，根据统一的统计分析条件设定，现已建成农药残留大数据库雏形（图6），包括31个省会/直辖市284个区县，600多个采样点；18类146 种水果蔬菜20000多批样品；400多种检出农药；1374万条侦测数据；1.4亿张残留农药质谱图；2500万字文图并茂侦测报告。
+
+图6农药残留侦测结果数据库结构示意图  
+![](images/eafd4aa50c94c30da2bbfd40564eb7bddce05984d6c371f1d9962682e65d3e4a.jpg)  
+$\textcircled { 1 } \textcircled { 2 } \textcircled { 3 } \textcircled { 4 } \textcircled { 5 } \textcircled { 6 } \textcircled { 7 } \textcircled { 8 } \cdots$ 为联盟实验室侦测结果数据库
+
+# 2三元融合技术平台应用示范
+
+为了调查清楚全国31个省会/直辖市所售不同产地水果蔬菜中不同农药残留情况和规律特征，本平台借助互联网构建的全国10个网络联盟示范实验室，按照“五统一”操作原则，对31个省会/直辖市的284个区县，638个采样点采集的18类146种水果蔬菜样品进行侦测，其中采用LC技术检测了12551个样品，数据量为7561620条，GC技术检测了9817个样品，数据量为6968862条。将分析结果数据按统一模板通过网络上报至采样系统，基于平台的五大基础数据库，对农药、地域和农产品分类信息进行补充；进行衍生物合并、农药毒性分类处理；根据各国或地区组织的MRL进行污染等级判定；形成结果记录，按统一格式数据上传，并存入
+
+# 2.1智能分析系统可按需定制报告内容并“一键下载”
+
+智能分析系统建立了在线定制模式，支持用户自主选择和过滤统计数据以凸显兴趣数据或关键数据；支持用户定制报告类型和范围，提高数据展示和大数据分析能力。同时，自动报告系统还可实现报告结构和内容的定制扩展开发。从31个省会/直辖市水果蔬菜中农药残留的情况分析，该平台可以在客户端自主选择所需报告类型并下载分析报告。农药残留侦测结果报告下载参数可任意选择，例如采样期间类型、一个或多个行政区域（可实现全国一大区一省一地市一区县5级架构）、检测设备类型以及导出报告正文或附表。根据数据量不同，一份报告字数从几万到几十万不等，从正文到附表，图文并茂，均可在30分钟内直接生成并实现“一键下载”，极大地提高了对海量农残数据进行分析报告的
+
+表2利用LC技术进行农药残留侦测的样品种类范围：18类146种水果蔬菜（占国家标准名录的 $8 0 \%$ 以上)  
+
+<html><body><table><tr><td>样品类型</td><td>样品名称 (数量)</td><td>数量小计</td></tr><tr><td></td><td>利用LC技术检测</td><td></td></tr><tr><td>蔬菜</td><td></td><td>8661</td></tr><tr><td>芸薹属类蔬菜</td><td>菜臺(74)，甘蓝 (459)，西兰花 (268)，芥蓝 (40)，紫甘蓝 (25)，花椰菜 (59)</td><td>925</td></tr><tr><td>茄果类蔬菜</td><td>番茄 (621)，茄子 (466)，甜椒 (549)，辣椒 (72)，圣女果 (66)，人参果 (21)</td><td>1795</td></tr><tr><td>食用菌</td><td>蘑菇 (362)，金针菇 (35)，杏鲍菇 (7)，香菇 (15)，平菇 (4)</td><td>423</td></tr><tr><td>瓜类蔬菜</td><td>黄瓜(591)，西葫芦(279)，棚瓜(9)，冬瓜 (200)，苦瓜 (76)，瓠瓜(6)，南瓜(73)，丝瓜(32)，佛手瓜(18)，笋瓜(2)，生瓜(1)</td><td>1287</td></tr><tr><td>叶菜类蔬菜</td><td>芹菜(537)，菠菜 (309)，小白菜(197)，筒蒿(203)，生菜 (418)，大白菜 (350)，青菜(144)，苋菜 (36)，叶芥菜(37)，地瓜叶 (23)，枸杞叶(7)，菜(84)，娃娃菜(15)，油麦菜(112)，油菜(78)，落葵(2，奶白菜(1)，苦苣(50)，茴香菜(13)，莴笋(16)， 白花菜(1)，儿菜(8)，春菜(19)，乌菜 (2)，芥菜(2)，芋花(1)</td><td>2685</td></tr><tr><td>豆类蔬菜</td><td>豆角 (470)，豇豆 (23)，菜豆 (20)，豌豆(3)，刀豆(2)，食荚豌豆 (8)，菜用大豆 (4)</td><td>530</td></tr><tr><td>鳞茎类蔬菜</td><td>韭菜(351)，葱 (41)，大蒜 (21)，蒜耋(58)，蒜苗 (9)，洋葱 (33)，青蒜 (2)，韭菜花 (3)，蒜黄(1)</td><td>519</td></tr><tr><td>茎类蔬菜</td><td>芦笋(14)</td><td>14</td></tr><tr><td>根茎类和薯芋类蔬菜</td><td>胡萝卜(166)，芋头(13)，马铃薯(105)，萝卜 (77)，雪莲果 (5)，紫薯(19)，甘薯(7)，姜(18)，山药(17)</td><td>427</td></tr><tr><td>水生类蔬菜</td><td>茭白(6)，豆瓣菜(13)，莲藕(19)，荸荠(2)，水芹(1)</td><td>41</td></tr><tr><td>芽菜类蔬菜</td><td>绿豆芽 (4)，香椿芽 (1)，草头 (3)</td><td>8</td></tr><tr><td>其他类蔬菜</td><td>百合 (6)，竹笋 (1)</td><td>7</td></tr><tr><td>水果</td><td></td><td>3826</td></tr><tr><td>柑橘类水果</td><td>橙(284)，橘(147)，柚 (24)，柠檬 (23)，金橘 (9)，柑(3)</td><td>490</td></tr><tr><td>瓜果类水果</td><td>西瓜 (237)，哈密瓜 (32)，甜瓜 (38)，香瓜 (50)</td><td>357</td></tr><tr><td>浆果和其他小型水果</td><td>猕猴桃(154)，葡萄 (411)，草莓(114)，西番莲(7)，提子 (10)，蓝莓(2)，桑葚(1)</td><td>699</td></tr><tr><td>仁果类水果</td><td>苹果(628)，梨 (574)，枇杷(11)，山楂(13)</td><td>1226</td></tr><tr><td>热带和亚热带水果</td><td>菠萝(92)，香蕉(99)，火龙果(136)，荔枝(46)，芒果(62)，阳桃(3)，山竹(32)，番石榴(23)，柿子(8)，木瓜(13)，龙眼 (8)，石 榴(4)，莲雾(1)，杨梅(1)，榴莲(1)</td><td>559</td></tr><tr><td>核果类水果</td><td>桃(310)，枣(50)，杏 (24)，李子 (102)，樱桃(6)，油桃 (3)</td><td>495</td></tr><tr><td>谷物</td><td></td><td>11</td></tr><tr><td>旱粮类</td><td>玉米(11)</td><td>11</td></tr><tr><td>调味料</td><td></td><td>53</td></tr><tr><td>叶类</td><td>芫萎 (51)，薄荷 (2)</td><td>53</td></tr></table></body></html>
+
+表3利用GC技术进行农药残留侦测的样品种类范围：18类146种水果蔬菜（占国家标准名录的 $8 0 \%$ 以上)  
+
+<html><body><table><tr><td>样品类型</td><td>样品名称 (数量)</td><td>数量小计</td></tr><tr><td>利用GC技术侦测</td><td></td><td></td></tr><tr><td>蔬菜</td><td></td><td>6387</td></tr><tr><td>豆类蔬菜</td><td>豆角 (367)，菜豆(7)，豇豆 (23)，扁豆 (22)，菜用大豆 (6)，食荚豌豆(4)</td><td>429</td></tr><tr><td>茄果类蔬菜</td><td>甜椒 (369)，番茄 (433)，茄子 (363)，辣椒 (79)，人参果 (22)，圣女果 (65)，秋葵(12)</td><td>1343</td></tr><tr><td>叶菜类蔬菜</td><td>芹菜(353)，龚菜(72)，生菜(277)，油麦菜(137)，筒蒿(11)，大白菜(199)，小白菜(134)，菠菜(167)，叶芥菜(37)，落葵 (12)，苋菜(28)，地瓜叶 (25)，油菜(72)，苦苣(35)，青菜(73)，芋花 (9)，莴笋 (22)，紫背菜(7)，娃娃菜(4)，枸杞叶 (7)，春菜 (19)，儿菜 (8)，奶白菜(1)</td><td>1809</td></tr><tr><td>鳞茎类蔬菜</td><td>韭菜(223)，洋葱 (50)，蒜苗 (19)，大蒜(12)，葱 (22)</td><td>326</td></tr><tr><td>瓜类蔬菜</td><td>苦瓜(125)，南瓜 (34)，黄瓜 (434)，冬瓜 (94)，西葫芦 (202)，棚瓜 (9)，丝瓜 (39)，瓠瓜 (15)，佛手瓜 (3)</td><td>955</td></tr><tr><td>芸墓属类蔬菜</td><td>菜臺 (93)，西兰花 (210)，甘蓝 (293)，紫甘蓝 (41)，花椰菜 (43)，芥蓝 (24)</td><td>704</td></tr><tr><td>食用菌</td><td>蘑菇 (210)，杏鲍菇 (36)，香菇 (35)，金针菇 (33)，平菇 (13)</td><td>327</td></tr><tr><td>根茎类和薯芋类蔬菜</td><td>马铃薯(120)，萝卜 (99)，胡萝卜(154)，芋头(13)，紫薯(8)，甘薯(4)，姜(22)，山药(14)</td><td>434</td></tr><tr><td>水生类蔬菜</td><td>豆瓣菜(13)，莲藕 (26)，茭白 (4)</td><td>43</td></tr><tr><td>其他类蔬菜</td><td>竹笋(8)，百合 (9)</td><td>17</td></tr><tr><td>水果</td><td></td><td>3404</td></tr><tr><td>核果类水果</td><td>桃 (279)，李子 (91)，杏(18)，枣(44)，油桃 (3)</td><td>435</td></tr><tr><td>仁果类水果</td><td>苹果 (450)，梨 (437)，枇杷(10)，山楂 (4)</td><td>901</td></tr><tr><td>瓜果类水果</td><td>西瓜 (158)，哈密瓜 (39)，香瓜 (51)，甜瓜 (25)</td><td>273</td></tr><tr><td>浆果和其他小型水果</td><td>葡萄 (369)，猕猴桃 (194)，草莓 (51)，西番莲 (7)，提子 (12)</td><td>633</td></tr><tr><td>柑橘类水果</td><td>橙(185)，橘(162)，柠檬(44)，柚 (50)</td><td>441</td></tr><tr><td>热带和亚热带水果</td><td>芒果(79)，荔枝(56)，菠萝(44)，山竹(47)，木瓜 (30)，火龙果(229)，阳桃(43)，番石榴 (23)，龙眼(12)，石榴(9)，香蕉(149)</td><td>721</td></tr><tr><td>调味料</td><td></td><td>22</td></tr><tr><td>叶类</td><td>芫萎 (22)</td><td>22</td></tr><tr><td>谷物</td><td></td><td>4</td></tr><tr><td>旱粮类</td><td>玉米 (4)</td><td>4</td></tr></table></body></html>
+
+能力。
+
+应用该平台形成的检测报告与现有人工报告相比,不但准确性高、速度快、判定标准多，且统计范围灵活、分析方法多样。实现了在线数据采集、结果判定、统计分析和报告制作的自动化，大大提高了数据分析的深度、精准度和工作效率，这是传统统计报告模式不可比拟的。因此，这种统计分析软件具有极其重要的现实意义和商业推广价值。
+
+# 3结果与讨论
+
+基于三元融合技术构建农药残留侦测技术平台，研究开发出的GC和LC两种联用技术具有非常重要的意义。
+
+# 3.1实现了高分辨质谱在农药残留检测技术供给侧改革领域的重要突破
+
+实现了6个方面的独特创新：（1）实现了以电子标准替代实物标准做参比的传统定性鉴定方法，使农药多残留检测技术实现了由靶标检测向非靶标筛查的跨越式发展。（2）两种技术联用检测能力相对于单一技术分别提高 $51 . 1 \%$ （GC485种）和 $3 9 . 6 \%$ （LC525种）。（3）一次样品制备，实现了对1000多种农药残留的有效提取和净化；两种技术联用，可适用于18类146种水果蔬菜多种农药残留的检测。（4）两种技术联用均能满足国际公认标准 $1 0 \mu \mathrm { g / k g }$ 精准测定的要求。（5）智能筛查软件的开发使GC/LC1000多种农药残留检测技术实现了数字化、信息化和电子化。（6）联用技术节省了资源、减少了污染，完全达到了绿色发展、环境友好、清洁高效的技术要求。
+
+# 3.2联用技术已领先于美国、欧盟、日本等同类技术
+
+美国EPA农药残留检测技术20种，检测农药500多种④；欧盟（29国）农药残留检测技术15种，检测农药996 种[23]；日本农药残留检测技术10 种，检测农药 832 种[24]；我国目前农药残留检测技术19种，测定农药609种；而GC和LC两种联用技术可同时筛查1080种农药化学污染物，处于国际领先地位。现行美国、欧盟、日本和我国的农药残留检测技术，仍以传统实物标准品作参比定性鉴定，属靶向检测，应用的检测范围有限；而本方法新研究技术是以电子标准做参比，属非靶向检测、全谱扫描，从原理看其检测范围是无限的，具有强大的发现能力，具备明显优势。
+
+# 3.3 查清了我国果蔬农药残留“家底”，发现了我国水果蔬菜农药残留的规律性特征
+
+全国采用这项技术的10个联盟示范实验室，将农药残留检测原始结果在其客户端通过网络上报至数据处理中心采集系统，并基于平台的四大基础数据子库，利用“数据获取一信息补充一衍生物合并一禁药处理一污染等级判定”的数据融合与处理模型，对农药、地域和农产品分类信息进行补充；进行衍生物合并、农药毒性分类处理；根据各国或地区组织的MRL进行污染等级判定；形成结果记录，存入侦测结果数据库。利用智能分析系统的“多国MRL标准一农产品分类一千余种农药特性”的数据关联存储与查询模型，可以对数据进行横向、纵向分类对比，单项、综合分析并举，详尽快捷地总结出各项规律特征[25]。
+
+对自动化智能统计分析发现，31个省会/直辖市普遍的典型农药残留规律性特征解读如下：
+
+（1）发现了我国市售水果蔬菜农药残留普遍存在。从图7可以看出，采用LC技术，检测了31个省会/直辖市635个采样点12551例市售水果蔬菜样品，检出农药174种，5486频次，不同城市样品中农药残留检出率为 $3 9 \% - 8 8 \%$ ；采用GC技术，检测了31个省会/直辖市471个采样点9823例水果蔬菜样品，检出农药329种，20412频次，不同城市样品中农药残留检出率为 $5 4 \% - 9 7 \%$ 。。
+
+（2）发现了我国使用农药功能分类状况。从图8可以看出，LC检出了174种农药，GC检出了343 种农药，两种技术合计检出517种农药，其中含共检的93种。利用两种检测技术共同发现，我国现行使用的排前3名的农药种类分别为杀虫剂、杀菌剂和除草剂，但检出品种数各有不同。证明两种技术联用有很强的互补性，能够更好地反映出水果蔬菜农药残留真实状况。
+
+（3）发现了我国使用农药化学组成分类状况。从图9可以看出，两种技术检出的农药，按化学组成分类，主要以有机氮、有机磷、有机氯农药为主。
+
+（4）发现了市售果蔬农药残留水平状况。从图10可以看出，目前我国蔬菜和水果检出农药以低、中残留水平为主，LC技术和GC技术检出农药残留含量不超过 $1 0 \mu \mathrm { g / k g }$ 的频次占比分别为 $54 . 1 \%$ 和 $51 \%$ 。两种技术检出农药残留水平较一致。
+
+（5）发现了单例样本检出农药品种与占比。从图11可以看出，LC技术未检出和检出1种农药的样品数占样品总数的 $5 2 . 6 \%$ ，GC技术未检出和检出1种农药的样品占样品总数的 $50 . 0 \%$ 。同时，也验证了两种技术检测结果的准确性。
+
+![](images/df1f55b21be6e106a1bd49a00e0e0522aa482381f2d98f5095d12d6e0cbaf8e0.jpg)  
+图731个省会／直辖市在2012—2015年间市售水果蔬菜农药残留检出率
+
+![](images/720693c91c5796c774a246d5123dd60beff8a9647d3ada16cbbfc9574e010211.jpg)  
+图8市售水果蔬菜检出农药品种 (按功能分类)
+
+(6）发现了水果蔬菜检出农药的毒性状况。图12显示，目前我国蔬菜和水果中检出农药残留以低毒和中毒农药为主，LC技术检出低毒和中毒农药种类和频次占比分别为 $8 5 . 4 \%$ 和 $9 2 . 9 \%$ ，GC技术检出低毒和中毒农药种类和频次占比分别为 $8 3 . 4 \%$ 和 $87 . 6 \%$ 。但是，值得特别警醒的是，LC技术高剧毒农药检出频次 $3 . 9 \%$ ，违禁农药占 $3 . 2 \%$ ，GC技术高剧毒农药检出频次 $7 . 0 \%$ ，违禁农药占 $5 . 4 \%$ 。
+
+（7）发现了31个省会/直辖市市售水果蔬菜农药残留报告统计分析显示安全水平有基本保障。从图13可以看出，蔬菜LC检验合格率 $9 6 . 5 \%$ ；GC合格率 $9 6 . 3 \%$ 。水果LC检验合格率 $9 8 . 3 \%$ ，GC合格率 $9 8 . 7 \%$ 。充分证明我国市售水果蔬菜农药残留安全水平有基本保障。
+
+![](images/6ac1481b82e939a63e10dc9b5c46be47eca6c187f1d706a6ee0f5ebbb26bcc31.jpg)  
+图9市售水果蔬菜检出农药品种 (化学成分分类)
+
+![](images/465c295975a44ba1c2be2c571a313743bbc9dbd8ca5c6aaf61c820a12fd5366b.jpg)  
+图10水果蔬菜检出农药水平
+
+![](images/34d9b9afdd3ee8ba5c805aba94254ae6b421d34d84990f5a1287b01e7b22c06d.jpg)  
+图11水果蔬菜单例样品检出农药品种
+
+# 4结论
+
+基于高分辨质谱-互联网-数据科学三元融合技术的农药残留侦测技术平台的构建及侦测报告自动生成方法，为我国各地区农药残留数据的分析与预警提供了高效精准的数据分析平台。其中网络联盟实验室与农药残留检测标准方法充分保障了数据的统一性、完整性、准确性、安全性和可靠性；联盟实验室检测结果数据库和4个基础数据子库的建立为农药残留侦测数据的分析和污染等级判定提供了标准和科学依据；提出的农药残留数据采集系统实现了检测结果的自动上传、数据预处理和污染等级判定，建立了农药残留侦测结果数据库;提出的农药残留数据智能分析系统实现了农药残留侦测结果数据库和5个基础数据子库相互关联、互联互通，多维农药残留数据的单项和综合统计分析，实现了图文并茂的检查结果报告生成的自动化。
+
+实现了“一键下载”一个省市的农药残留图文并茂侦测报告20一30分钟自动生成，这是传统统计方法不可能实现的。形成的检测报告与现有人工报告相比，不但准确性高、速度快、判定标准多，且统计范围灵活、分析方法多样。实现了在线数据采集、结果判定、统计分析和报告制作的自动化，大大提高了数据分析的深度、精准度和工作效率，具有极其重要的现实意义和商业推广价值。这项研究成果紧扣国家“十三五”规划纲要“增强农产品安全保障能力”和“推进健康中国建设”的主题。该项研究成果可在这些领域的发展中，发挥重要的技术保障作用。
+
+![](images/2f0ed7df86dc79a2b3c965f32b03979cc386a6a6b56f5297c606df10ec1012ba.jpg)  
+图12水果蔬菜检出农药毒性
+
+(a)利用LC技术检出农药品种数;(b)利用LC技术检出的农药频次;(c)利用GC技术检出的农药品种数;(d)利用GC技术检出的农药频次
+
+![](images/cef1775d426beca2bec6dbca64bdd07e25ba1aeeaaf8b22169bf58486afb37a1.jpg)  
+图1331个省会／直辖市市售水果蔬菜农药残留报告统计分析
+
+# 参考文献
+
+1杨杰,樊永祥,杨大进,等.国际食品污染物监测体系理化指标监测介绍及思考.中国食品卫生杂志,2009,21(2):161-168.  
+2 许彦阳,钱永忠.中美农产品药物残留监测计划比较分析及启示.世界农业,2015,(7):5-9.  
+3 汤晓艳，郭林宇，王敏，等.欧盟农药残留监控体系概况及启示.农业质量标准,2009,(6):41-44.  
+4 The Japanese Positive List System for Agricultural ChemicalResidues in Foods.[2006-05-29].http://www.ffcr.or.jp/zaidan/FFCRHOME.nsf/pages/MRLs-p.
+
+5农业部.关于发布《中华人民共和国动物及动物源食品中残留物质监控计划》和《官方取样程序》的通知（农牧发[1999]8号）.[2003-07-04]. http://www.moa.gov.cn/zwllm/zcfg/qtbmgz/200601/t20060123_541427.htm.
+
+6 中华人民共和国工业和信息化部．关于印发《食品安全风险监测管理规定（试行）》的通知（卫监督发[2010]17号）.[2010-01-25].http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057601/n3057609/c3561870/content.html.
+
+7国家卫生计生委食品安全标准与监测评估司.GB2763-2016食品安全国家标准食品中农药最大残留限量.北京：中国标准出版社,2016.
+
+8庞国芳,范春林，常巧英等.追踪近20年SCI论文见证世界农药残留检测技术进步.食品科学,2012,33(Z1):1-7.
+
+9Pang GF,Fan CL,Cao Y Z,et al.High throughput analytical techniques for the determination and confirmation of residues of 653 multiclass pesticides and chemical pollutants in tea by GC/ MS,GC/MS/MS,and LC/MS/MS: collaborative study, first action 2014.09.Journal of AOAC International,2015,98(5): 1428-1454.
+
+10 Nunez O,Gallart-Ayala H,Ferrer I,etal. Strategies for the multiresidue analysis of 1O0 pesticides by liquid chromatography-triple quadrupole mass spectrometry. Journal of Chromatography A, 2012,1249(15): 164-180.
+
+11 He ZY,Lu W,Yi P,etal.Multiresidue analysis of over 200 pesticides in cereals using a QuEChERS and gas chromatographytandem mass spectrometry-based method.Food Chemistry,2015, 169:372-380.
+
+12PizzuttiIR,de KokA,Hiematra M,etal.Method validation and comparison of acetonitrile and acetone extraction for the analysis of 169 pesticides in soya grain by liquid chromatography-tandem mass spectrometry. Journal of Chromatography A,2009,1216(21): 4539-4552.
+
+13Walorczyk S,Drozdzyhski D,Gnusowski B.Multiresidue determination of16O pesticides in wines employing mixed-mode dispersive-solid phase extraction and gas chromatography-tandem mass spectrometry. Talanta,2011,85(4):1856-1870.
+
+14 Kmellar B,Fodor P,Pareja L,et al. Validation and uncertainty study of a comprehensive list of 16O pesticide residues in multi-class vegetables by liquid chromatography-tandem mass spectrometry. Journal of Chromatography A,2008,1215(1-2): 37- 50.
+
+15 Zhao M A,FengY N,Zhu Y Z,etal.Multi-residue method for determination of 238 pesticides in Chinese cabbage and Cucumber by liquid chromatography-tandem mass spectrometry:comparison of different purification procedures.Journal of Agricultural and Food Chemistry,2014.62(47):11449-11456.
+
+16 Jadhav MR,Oulkar DP,Ahammed STP,etal.Quantitative screening of agrochemical residues in fruits and vegetables by buffered ethyl acetate extraction and LC-MS/MS analysis.Journal of Agricultural and Food Chemistry,2015,63(18): 4449-4456.
+
+17 Botitsi H V,Garbis S D,Economou A,et al. Current mass spectrometry strategies for the analysis of pesticides and their metabolites in food and water matrices.Mass Spectrometry Reviews,2011,30(5): 907-939.
+
+18 Alder L,Steinborn A,Bergelt S,et al. Suitability of an orbitrap mass spectrometer for the screening of pesticide residues in extracts of fruits and vegetables.Journal of Aoac International, 2011,94(6): 1661-1673.
+
+19 Gómez-Ramos M M,Ferrer C,Malato O,et al. Liquid chromatography-high-resolution mass spectrometry for pesticide residue analysis in fruit and vegetables: screening and quantitative studies.Journal of ChromatographyA,2013,1287(8): 24-37.
+
+20 Wang Z, Cao Y, Ge N,et al.,Wide-scope screening of pesticides in fruits and vegetables using information-dependent acquisition employing UHPLC-QTOF-MS and automated MS/MS library searching.Analytical and Bioanalytical Chemistry,2016.408(27): 7795-7810.
+
+21 冯超,徐骞,金玉娥,等.植物源性食品中农药残留筛选平台研究.食品安全质量检测学报，2015,6(5):1646-1653.
+
+22 杨永坛,陈士恒，史晓梅.食品中农药残留筛查系统的构建.食品安全质量检测学报,2015,6(4):1101-1106.
+
+23European Food Safety Authority.The 2Ol1 European Union report on pesticide residues in food.[2014-O7-23].https://publications. europa.eu/en/publication-detail/-/publication/c9cOaO18-9c6f423b-b7db-c891103a4849/language-en.
+
+24 国家质量监督检验检疫总局食品安全局，中国检验检疫科学研究院.日本厚生劳动省食品中农用化学品残留检测方法.北京：中国标准出版社,2006.
+
+25庞国芳，常巧英，范春林.农药残留监测技术研究与监控体系构建展望.中国科学院院刊,2017,32(10):1083-1090.
+
+# Tri-element Integrated Technology of High Resolution MS, Internet, and Digital Science Constitutes Technical Platform for Pesticide Residues
+
+Pang Guofang' Chen $\mathrm { Y i } ^ { 2 }$ Fan Chunlin’ Bai Ruobin³ Sun Yuehong² Chang Qiaoying
+
+(1 Chinese Academy of Inspection and Quarantine,Beijing 1oo176, China 2Beijing Technology and Business University,Beijng 1Ooo48,China 3Beijing Uni-Star Inspection Technology Co.,Ltd.,Beijing 100176, China)
+
+AbstractAtechnicalplafoforpesticideresiduesdetectionasbendevelopedonthebasisoftri-elementintegratedtechnologyofigh resolutioMialceipledtteado）ikdate resultdatabases,and4subbasoffundamentaldata,datacolectionsystemasellasdataintellgntlyalyzngsstm.Tetwork leaguedlaboratoieslocatedatvarousplacesacrosthecountrysubmittherawtestresultsofpesticideresiduesfromtheirclientsidetothe colectionsystmpate;oallanetaupptftiooate analyzethetoxicitybeforearchivingndstoringteresultsintothetestresultdtabasebasedonthejudgmentoftecontaminatioevelsin referencetomaiuleit()ofulioutrsataitellgaalyallasdoigofodoy clientcesstadtoaisalalsttillalletabsi andthenreturteanalyticalresultstotelientsidoftenetworkleagedlaboratoriesHencetherealizationof“e-clickdowlad”f thedetectionreportwithgraphswihin3OuteswithisokingiciencybeingincomparabletotatoftheconventioalethodTe platforforpstcderesiduedetectiodatahasrealiedtheraltiedetectionofpesticideresides inedibleagriculturalproductsdtiely colection,maagntditellgntalsfeatacayivetoaticgeeoofsteprtofteelatedicie residueswithinshorttie,usprovidgarealtieonesrvicefortetracealityndsafetyskaessmentofpestidersidusand thescientificaagntdaaofpesti.sisaetiedapdolfalgteetifclicatiooftde supervising the pesticide residue safety,and executing the“the safety of every bite”of our common folks.
+
+Keywordsigsoltionssectrometryesticidesidusdataintellgentalyingutomaticeratoofetectoprt庞国芳中国工程院院士，中国检验检疫科学研究院研究员，中国食品安全国家标准审评委员会副主任，中国国家食品安全风险评估专家委员会副主任，美国分析化学家协会（AOAC）资深专家，国际AOAC 2014年度HarveyW.Wiley奖获得者。30多年来始终工作在检验检疫第一线，致力于食品科学检测技术理论与实践的研究，在农药等化学污染物残留微量分析技术领域进行了开拓性的研究工作，在研究高灵敏度、高选择性、高分辨率的多残留快速检测新技术、新方法方面；在研究新型萃取、分离、富集等样品制备新技术、新方法方面多有创新。在检测技术标准化工程化方面颇有建树，研究建立了139项国家技术标准和3项国际AOAC标准。3次荣获国家科学技术进步奖二等奖，8次荣获国际AOAC科学技术奖。论著10部（2000万字），论文100多篇（其中40篇SCI论文）。E-mail:ciqpang@163.com
+
+PangGuofangAcademicianofChineseAcademyofEnginering,thechiefscientistofCAIQ,deputydirectorofRiskEvaluationExpert CommiteeofChinaNationalFoodSafety,deputydirectorofReviewCommiteeofChinaNationalFoodSafetyStandards,elloof AssociationofOfcialAalyticalChemists (AOAC),ecipientofthe214HareyW.WileyAward.Over tepast30years,easbenalways workingatheforefrotofteispctionndquarantieorkdevotighimselftotereseachontetoyadpracticeoffodsietific analysis andconductingtheponeringresearchworkinthefieldoftraceelementanaltical techniquesofpesticideandveteriarydrug residues.Heasadeayiovatiosintedyofnewtquesofapidetectionofutiresidesitsitivityelectiiy andhigh resolutions as wellasinthe studyofnewtechniquesandnew methodssuchassample preparationlikeextraction,sparation, enrichment,etc.Hesfocusdissudyonthghtrougputtechqusofteraceelementsofoveropesticidesadveteaydrug residuesandestablished139China NationalStandardsand3AOACOficialMethod.HewontheSecondPrizeofthe StateScientificand TechnicalProgresfor3timesandtheAwardofScienceandTechniqueofAOACfor8times.Hehad10scientificandtechnicalwork(20 million words) and over 100 papers published,of which 40 were SCI indexed papers.E-mail: ciqpang@163.com

@@ -1,0 +1,187 @@
+# 木聚糖酶和甘露聚糖酶在毕赤酵母中的共表达及产酶分析
+
+姚银；闵琪；熊海容；张莉\*\*（中南民族大学生命科学学院武汉430074）
+
+摘要木聚糖酶和甘露聚糖酶是两种重要的半纤维素酶，也是两种重要的饲用酶制剂，本研究利用毕赤酵母表达系统中的体外串联表达盒构建多拷贝的方法构建了木聚糖酶DSB 和甘露聚糖酶 ManA共表达重组质粒pPICZαA/DSB-ManA，将该重组质粒电转化至宿主菌毕赤酵母X33中获得共表达两种酶的重组菌X33/DSB-ManA，实现了两种酶的共分泌表达，经诱导表达后木聚糖酶和甘露聚糖酶的酶活分别为 $2 7 3 . 6 ~ \mathrm { U / m L }$ 和 $2 5 6 . 8 ~ \mathrm { U / m L }$ ，为单独表达重组菌X33/DSB和X33/ManA酶活的 $30 . 4 \%$ 和 $73 . 4 \%$ 。酶学性质的分析显示DSB和ManA的最适反应温度均为 $7 5 \mathrm { { ^ \circ C } }$ ，在 $4 5 ^ { \circ } C - 7 5 ^ { \circ } C$ 范围内具有较好的温度稳定性，酶活可保持最高酶活的 $60 \%$ 以上；DSB 最适 $\mathsf { p H }$ 为6.5，ManA最适 $\mathfrak { p H }$ 为6.0，在pH3.0、 $4 0 ^ { \circ } \mathrm { C }$ 条件下，ManA处理 $^ { \textrm { 1 h } }$ 能保持最高酶活的 $80 \%$ 以上，DSB 处理 $^ { \textrm { 1 h } }$ 时能保持最高酶活的 $50 \%$ 以上；DSB和ManA对多种金属离子和化学试剂（浓度为 $\mathrm { 1 \ m M ) }$ 具有较好的耐受性，均可保留 $60 \%$ 以上的酶活力。本研究利用单一菌株成功完成了不同酶的共表达，为复合酶饲料添加剂的生产和应用研究提供了一定的理论依据。
+
+# 关键词 木聚糖酶 甘露聚糖酶 毕赤酵母 共表达 酶学特性
+
+木聚糖酶和甘露聚糖酶是两种重要的半纤维素酶。木聚糖酶(endo-1,4- $\cdot \beta$ -xylanase,EC3.2.1.8）可将木聚糖降解为木二糖、木二糖以上的寡聚木糖及少量木糖等[Il，是木聚糖降解过程中起关键作用的酶，在CAZY 分类系统中属于第5、7、8、10、11和43家族，其中第10和11家族是最主要的木聚糖酶家族，以异头碳保持原有构象的保留机制进行催化水解，两个谷氨酸残基参与到全部的催化机制当中[2]。 $\beta$ -甘露聚糖酶（β-1,4-mannanase，EC3.2.1.78）是降解甘露聚糖的关键酶，属于内切水解酶，能降解含 $\beta$ -1,4-甘露糖苷键的甘露寡糖和甘露多糖[3]， $\beta \cdot$ -甘露聚糖酶多属于糖苷水解酶家族5和 $2 6 ^ { [ 4 ] }$ 。不同家族的β甘露聚糖酶尽管在催化域序列上存在不同，但是它们的催化域都采用TIM桶状结构并且遵循保留催化机制。
+
+玉米、豆粕、大麦等谷物饲粮及其副产品中普遍存在抗营养因子，木聚糖和甘露聚糖就是其中重要的两种。在饲料里添加木聚糖酶和甘露聚糖酶可破坏植物性饲料的细胞壁，降低抗营养作用，提高消化率和营养吸收，且多项研究表明在饲料里添加复合酶制剂比添加单酶制剂效果更好[5]。目前，饲用复合酶大部分是以复配形式生产，首先需生产多种单一酶，生产较复杂。利用基因工程方法将多种酶在同一宿主菌中进行共表达，可实现单一菌株发酵产多种酶，从而简化发酵过程。黄生平[等在毕赤酵母中共分泌表达了植酸酶和甘露聚糖酶，获得的共表达酵母工程菌可同时生产两种酶，且具有较好的稳定性，传代10次后发酵生产两种酶的酶活与初始菌株生产两种酶的酶活无明显差异。吴振芳[7等构建获得了共表达植酸酶和内切葡萄糖苷酶的毕赤酵母重组菌，经诱导表达后该共表达重组菌可同时分泌表达植酸酶和内切葡萄糖苷酶，两种酶的酶活力分别为单独表达两种酶菌株的 $3 9 . 4 \%$ 和 $56 . 2 \%$ ，却仍然分别高达 $1 3 7 2 6 . 7 \mathrm { U / m L }$ 和 $3 6 4 . 5 \mathrm { U / m L }$ 。
+
+巴斯德毕赤酵母表达系统目前已发展成为一个较为理想的蛋白表达系统，被广泛应用于生产外源蛋白[8-9]。本研究利用该表达系统实现了两种半纤维素酶（木聚糖酶和甘露聚糖酶)的共分泌表达，并对这两种酶的相关酶学性质进行了分析，为复合酶饲料添加剂的生产和应用研究提供了一定的理论依据。
+
+# 1材料与方法
+
+# 1.1菌种与质粒
+
+含木聚糖酶DSB 基因的质粒pAO815hr/DSB与含甘露聚糖酶 ManA基因的质粒pAO815hr/ManA由实验室构建并保藏。表达载体pPICZαA、巴斯德毕赤酵母 X33、大肠杆菌 Top10 均由实验室保藏。
+
+# 1.2 主要试剂
+
+限制性内切酶、Prime STARMaxDNA聚合酶、T4DNA连接酶等工具酶及DNAMarker均购自宝生物工程（大连）有限公司；质粒小量提取试剂盒、DNA凝胶回收试剂盒、PCR清洁试剂盒等购自上海AxyPrep公司；底物燕麦木聚糖和角豆胶购于Sigma公司；蛋白脉和酵母提取物购自于Oxoid公司；无氨基酵母氮源
+
+YNB、山梨醇和琼脂购自Biosharp公司；博来霉素Zeocin购自Invitrogen公司；其他试剂均为国产或进口分析纯。
+
+# 1.3共表达重组质粒的构建
+
+以质粒pAO815hr/DSB和pAO815hr/ManA为模板，分别使用相应的上下游引物P1/P2和P3/P4（表1）进行PCR扩增获得DSB和ManA的基因，然后分别经EcoRI与NotI和KpnI与XbaI双酶切后插入至质粒pPICZaA中，获得两个重组质粒pPICZαA/DSB和pPICZαA/ManA。在获得上述两个重组质粒的基础上，采用体外串联表达盒构建多拷贝的方法构建共表达重组质粒，先用同尾酶BgIII和BamHI对pPICZαA/ManA进行双酶切获得含有AOX1启动子、终止子和 $\mathfrak { a } \mathrm { . }$ -信号肽序列引导分泌的ManA表达盒，同时用BamHI单酶切重组质粒pPICZaA/DSB，随后将含ManA的表达盒与单酶切后的载体pPICZαA/DSB进行连接获得DSB与ManA共表达重组质粒pPICZαA/DSB-ManA，构建示意图如图1所示。所获质粒经双酶切鉴定正确后送至武汉擎科生物技术有限公司进行测序验证。
+
+表1PCR扩增引物序列  
+Table 1 Sequence of PCR amplification primers   
+
+<html><body><table><tr><td>基因</td><td>引物</td><td>引物序列(5'→3")</td><td>酶切位点</td></tr><tr><td rowspan="2">DSB</td><td>P1</td><td>CCGGAATTCTGCGCAACCCCCAACTCGGAG</td><td>EcoR I</td></tr><tr><td>P2</td><td>ATAGCGGCCGCTTAGCCCACGTCAGCAACGG</td><td>Not I</td></tr><tr><td rowspan="2">ManA</td><td>P3</td><td>TATGGTACCTCTGGTGGACCAAACTTGTCTG</td><td>Kpn I</td></tr><tr><td>P4</td><td>CCGTCTAGAAGAGGTACCGATAGCGTTAGTTC</td><td>Xba I</td></tr></table></body></html>
+
+![](images/80629cbfb961abf4a9b34773cc68bffdc1e21865d99df0890420192f621bbf36.jpg)  
+图1共表达载体pPICZαA/DSB-ManA的构建示意图  
+Fig.1 Schematic diagram of construction of pPICZaA/DSB-ManA
+
+1.4共表达木聚糖酶和甘露聚糖酶重组菌的构建及诱导表达
+
+使用真空离心浓缩仪将溶于无菌去离子水的重组质粒pPICZαA/DSB-ManA浓缩10倍（约 $5 0 ~ \mu \ g )$ ，电转化至宿主菌X33感受态细胞中，涂布于YPDSZ博来霉素抗性筛选平板上，使用引物P1/P2和P3/P4对转化子进行菌落PCR验证获得阳性转化子。将各阳性转化子接种于25mLBMGY（ $1 \%$ 酵母提取物， $2 \%$ 蛋白脉， $1 . 3 4 \%$ YNB， $1 \%$ 甘油， $4 \times 1 0 ^ { - 5 0 } \%$ 生物素， $0 . 1 \mathrm { m o l / L } \mathrm { p H } 6 . 0$ 磷酸钾缓冲溶液）培养基中，$3 0 ^ { \circ } \mathrm { C }$ 、 $2 5 0 \mathrm { r p m }$ 培养 $2 4 \mathrm { h }$ ，离心收集适量菌体，重悬于 $2 5 ~ \mathrm { m L }$ BMMY（ $1 \%$ 酵母提取物， $2 \%$ 蛋白脉， $1 . 3 4 \% \mathrm { Y N B }$ ， $1 \%$ 甲醇， $4 \times 1 0 ^ { - 5 0 } \%$ 生物素， $0 . 1 \mathrm { m o l / L } \mathrm { p H } 6 . 0$ 磷酸缓冲溶液）培养基中，控制重组菌的起始 $\mathrm { O D } _ { 6 0 0 }$ 为1.0，在 $3 0 ^ { \circ } \mathrm { C }$ 、 $2 5 0 \mathrm { r p m }$ 培养条件下诱导表达至 $1 4 4 \mathrm { h }$ ，每隔 $2 4 \mathrm { h }$ 取样 $0 . 5 ~ \mathrm { m L }$ 并补加 $1 \%$ 甲醇。将收取的样品离心并收集上清，采用DNS法测定各转化子发酵上清液木聚糖酶与甘露聚糖酶酶活，筛选获得酶活力较高的共表达DSB和ManA的重组菌X33/DSB-ManA。此外将重组质粒pPICZαA/ManA和pPICZαA/DSB分别转化至X33宿主菌中，获得单独表达ManA和DSB的重组菌X33/ManA和X33/DSB作为对照。所有实验数据均重复3次。木聚糖酶酶活力采用DNS法[1]测定，以木聚糖为底物，酶活力单位定义为在最适温度和pH条件下，1min内水解 $0 . 5 \%$ 木聚糖底物产生 $1 \mu \mathrm { m o l }$ 木糖所需要的木聚糖酶的量。甘露聚糖酶酶活力采用DNS法[I测定，以角豆胶为底物，酶活力单位定义为在最适温度和pH条件下， $1 \mathrm { m i n }$ 内水解 $0 . 5 \%$ 甘露聚糖底物产生 $1 \ \mathrm { \mu m o l }$ 甘露糖所需要的甘露聚糖酶的量。
+
+1.5共表达重组菌产木聚糖酶和甘露聚糖酶的SDS-PAGE电泳分析
+
+共表达重组菌GS115/DSB-ManA诱导产DSB和ManA发酵结束后，取上清液进行SDS-PAGE电泳分析，具体操作方法参考《分子克隆实验指南》第二版。
+
+1.6 共表达重组菌产木聚糖酶和甘露聚糖酶的酶学性质分析
+
+# 1.6.1最适温度测定
+
+分别在 $6 0 ^ { \circ } \mathrm { C }$ 、 $6 5 ^ { \circ } \mathrm { C }$ 、 $7 0 ^ { \circ } \mathrm { C }$ 、 $7 5 \mathrm { ^ \circ C }$ 、 $8 0 ^ { \circ } \mathrm { C }$ 、 $8 5 ^ { \circ } \mathrm { C }$ 条件下测定共表达重组菌产木聚糖酶（ $\mathsf { p H } 6 . 5$ ）和甘露聚糖酶（ $\mathrm { p H } 6 . 0 \dot { }$ ）酶活，设木聚糖酶和甘露聚糖酶最高酶活力为 $100 \%$ ，计算不同温度下两种酶的相对酶活力。所有实验数据均重复3次。
+
+# 1.6.2温度稳定性测定
+
+取适当稀释后的酶液分别置于 $4 5 ^ { \circ } \mathrm { C } - 8 5 ^ { \circ } \mathrm { C }$ （每隔 $5 \mathrm { { ^ { \circ } C } }$ 设置一个温度）水浴处理 $3 0 \mathrm { m i n }$ ，迅速置于冰上冷却，然后分别测定各处理酶液木聚糖酶酶活力和甘露聚糖酶酶活力，设未处理酶液的木聚糖酶酶活力和甘露聚糖酶酶活力为 $100 \%$ ，计算不同温度条件下处理 $3 0 \mathrm { m i n }$ 后两种酶残余的相对酶活力。所有实验数据均重复3次。
+
+# 1.6.3最适pH测定
+
+配制 $5 0 \mathrm { m m o l / L } \mathrm { p H } 4 . 5  – 7 . 5$ 磷酸氢二钠-柠檬酸缓冲液体系，并以上述缓冲液分别配制 $0 . 5 \%$ 木聚糖和 $0 . 5 \%$ 角豆胶底物，分别使用上述底物测定共表达重组菌产木聚糖酶和甘露聚糖酶酶活，酶液分别用对应pH值缓冲液进行稀释，反应温度均为 $7 5 ^ { \circ } \mathrm { C }$ ，设最高木聚糖酶和甘露聚糖酶酶活力为 $100 \%$ ，计算不同 $\mathsf { p H }$ 条件下两种酶的相对酶活力。所有实验数据均重复3次。
+
+# $1 . 6 . 4 \mathrm { p H }$ 稳定性测定
+
+设置了 $\mathrm { p H } 3 . 0$ 和 $\mathrm { p H } 6 . 0$ 两个条件，分别接近动物胃液和肠道的pH值。将分别用两种不同pH值缓冲液稀释的酶液置于 $4 0 ^ { \circ } \mathrm { C }$ 水浴中连续处理 $3 \mathrm { ~ h ~ }$ ，每隔 $3 0 \mathrm { m i n }$ 取样 $0 . 5 ~ \mathrm { m L }$ ，分别测定木聚糖酶酶活力和甘露聚糖酶酶活力，设未处理酶液的木聚糖酶酶活力和甘露聚糖酶酶活力为 $100 \%$ ，计算不同 $\mathsf { p H }$ 条件处理下，随着时间变化两种酶的残余相对酶活力。所有实验数据均重复3次。
+
+# 1.6.5不同金属离子和化学试剂对两种酶稳定性的影响
+
+在底物 $0 . 5 \%$ 木聚糖和 $0 . 5 \%$ 角豆胶中加入适量金属离子溶液和化学试剂溶液，使其终浓度分别为0.5mmol/L和1mmol/L。分别用上述底物测定酶液木聚糖酶酶活力和甘露聚糖酶酶活力，设未处理组木聚糖酶酶活力和甘露聚糖酶酶活力为 $100 \%$ ，计算不同金属离子和化学试剂处理下两种酶的相对活力。所有实验数据均重复3次。
+
+# 2结果
+
+# 2.1共表达重组质粒的构建
+
+以质粒pAO815hr/DSB和pAO815hr/ManA为模板，分别用引物P1/P2和P3/P4进行PCR扩增，获得DSB（约600bp）和ManA（约800bp）的基因（图2a）。PCR产物经双酶切后分别与质粒pPICZαA连接获得重组质粒pPICZαA/DSB和pPICZαA/ManA，两个重组质粒的双酶切鉴定结果显示各条带大小正确（图2b）。然后利用同尾酶BglII和BamHI，采用体外串联表达盒构建多拷贝的方法构建共表达重组质粒pPICZαA/DSB-ManA，经BglII和BamHI双酶切验证两条带大小正确，分别为DSB和ManA串联表达盒条带（约4.8kb）和质粒条带（约1.9kb），说明pPICZαA/DSB-ManA构建成功（图2c)。所获得的重组质粒均送至武汉擎科生物技术有限公司进行测序验证，所测序列均正确。
+
+![](images/2d298a631d9a57a014fe5840da5edd1513c274100648eec2d5b6a5f60b880ec3.jpg)  
+图2共表达重组质粒pPICZαA/DSB-ManA构建过程中的电泳图
+
+Fig.2 Electrophoresis analysis of co-expression recombinant plasmid
+
+pPICZaA/DSB-ManA
+
+(a) Electrophoresis of PCR analysis of DSB and ManA. M: DL5000 DNA marker; 1: ManA; 2: DSB (b) Restriction analysis of recombinant plasmid pPICZaA/DSB and pPICZαA/ManA. M: DL5000 DNA marker; 1: pPICZaA/ManA; 2: pPICZaA/DSB (c) Restriction analysis of pPICZαA/DSB-ManA. M: DL5000 DNA marker;1: pPICZαA/DSB-ManA
+
+2.2 共表达重组菌的构建及产木聚糖酶和甘露聚糖酶的分析
+
+将重组质粒pPICZαA/DSB-ManA转入毕赤酵母X33，筛选获得两种酶活力最高的共表达重组菌X33/DSB-ManA，同时将pPICZαA/DSB和pPICZαA/ManA也分别转入X33，获得单独表达两种酶的重组菌X33/DSB和X33/ManA。对上述各重组菌进行摇瓶发酵至144h，上清酶活力的检测结果显示X33/DSB的8个转化子的酶活平均值为 $9 0 0 \mathrm { U / m L }$ （图3(a))，X33/ManA的8个转化子的酶活平均值为350$\mathrm { U } / \mathrm { m L }$ （图3(b))，而X33/DSB-ManA产木聚糖酶和甘露聚糖酶的最高酶活分别为$2 7 3 . 6 ~ \mathrm { U / m L }$ 和 $2 5 6 . 8 ~ \mathrm { U / m L }$ （图4(b))，分别为X33/DSB和X33/ManA平均酶活的$30 . 4 \%$ 和 $7 3 . 4 \%$ 。此外，X33/DSB-ManA和宿主菌X33在摇瓶发酵过程中生长趋势一致（图4(a))，因此DSB和ManA在同一宿主菌中共表达时对宿主菌的生长无显著影响。上述结果表明DSB和ManA成功地在同一宿主菌中进行了共分泌表达，虽然与单独表达重组菌相比酶活力有所降低，但是两种酶仍然都表现出较高的酶活力。
+
+发酵结束后对X33/DSB-ManA上清液进行SDS-PAGE分析，结果如图5所示，上清液中有两条明显的条带，大小分别约为23KDa和30KDa，与DSB和ManA的预测分子量大小一致，进一步表明GS115/DSB-ManA能同时分泌表达两种半纤维素酶。
+
+![](images/75fcd24a81d6959f26a5fae0e2e24e0edbbec49227add8e27b88bfa557c108d3.jpg)  
+图3单独表达重组菌发酵144h产两种酶的酶活力 Fig.3Enzyme activities ofX33/DSB and X33/ManA at144h (a) Xylanase activity of different transmutants of X33/DSB;(b) Mannanase activity of different transmutants ofX33/ManA
+
+![](images/6d8b3914c23290ab5b00106d27c4600cb84e758a64757e2f4d8519855cf686e8.jpg)  
+图4X33/DSB-ManA发酵过程的生长曲线和产木聚糖酶与甘露聚糖酶的酶活曲线
+
+Fig.4 The growth curve(a) and the xylanase activity and mannanase activity curves(b) of
+
+X33/DSB-ManA
+
+![](images/e54dd2b459459ab401a3a67d59c793df4fd8d0d1cec5698a1af55c2654de3329.jpg)  
+图5X33/DSB-ManA发酵上清液的SDS-PAGE分析
+
+Fig.5 SDS-PAGE analysis of X33/DSB-ManA fermentation supernatant M: Prestained protein ladder; 1: X33/DSB-ManA fermentation supernatant
+
+2.3共表达重组菌产木聚糖酶和甘露聚糖酶的酶特性分析
+
+# 2.3.1两种酶的最适温度和温度稳定性
+
+X33/DSB-ManA产木聚糖酶和甘露聚糖酶最适温度的结果见图6(a)，DSB和ManA的最适反应温度均为 $7 5 \mathrm { { ^ \circ C } }$ ，属于高温酶，且两种酶在 $6 0 ^ { \circ } \mathrm { C } { - } 8 5 ^ { \circ } \mathrm { C }$ 之间均能够保持 $60 \%$ 以上的相对酶活力。将发酵上清液在不同温度条件下处理 $3 0 \mathrm { m i n }$ ，分析两种酶的温度稳定性，图6(b)的结果表明ManA在 $4 5 ^ { \circ } C - 7 5 ^ { \circ } C$ 处理 $3 0 \mathrm { m i n }$ ，仍能保持 $90 \%$ 以上相对酶活力，而DSB在 $4 5 ^ { \circ } C - 7 5 ^ { \circ } C$ 处理 $3 0 \mathrm { { m i n } }$ 也能够保持 $60 \%$ 以上相对酶活力。饲料加工中包括制粒、膨化和干燥等工艺过程，均需要高温处理（ $7 0 ^ { \circ } \mathrm { C }$ 以上），大多数酶制剂活性都将受到不同程度影响，而DSB和ManA具有较好的温度稳定性，这一特性成为饲用酶制剂生产中的一大优势，具有较好的应用前景。
+
+![](images/204f12332e6c33b3d39779f48b53916ac5c456a56c8c942cffbe9fe46a81f8e9.jpg)  
+图6X33/DSB-ManA产木聚糖酶（ $\mathrm { \cdot p H } 6 . 5 \mathrm { \cdot }$ ）和甘露聚糖酶（ $\mathrm { \Phi _ { \cdot } p H } 6 . 0 \dot { }$ ）的最适温度及热稳定性
+
+Fig.6 Optimum tempature (a) and thermal stability (b) of xylanase ( $\mathrm { ( p H } 6 . 5 )$ and mannanase $\left( \mathsf { p H } 6 . 0 \right)$ ofX33/DSB-ManA
+
+# 2.3.2两种酶的最适pH和pH稳定性
+
+X33/DSB-ManA产木聚糖酶和甘露聚糖酶最适pH的结果如图7(a)所示，DSB的最适pH为6.5，在pH4.5-7.5之间能保持 $60 \%$ 以上的相对酶活力；ManA最适pH为6.0，在 $\mathrm { p H } 4 . 5 \ – 7 . 5$ 之间也能保持 $50 \%$ 以上的相对酶活力。将发酵上清液在近动物胃液 ( $\cdot \mathsf { p H } 3 . 0 \rangle$ ）和肠道（ $\mathrm { p H } 6 . 0 \dot { . }$ ）的酸碱条件下处理 $3 \mathrm { ~ h ~ }$ ，分析两种酶的pH稳定性，结果见图7(b)，DSB和ManA在 $\mathrm { p H } 6 . 0$ 、 $4 0 ^ { \circ } \mathrm { C }$ 条件下处理 $3 \mathrm { ~ h ~ }$ 酶活基本维持不变，无明显下降。在pH3.0、 $4 0 ^ { \circ } \mathrm { C }$ 条件下，ManA处理 $1 \mathrm { ~ h ~ }$ 仍能保留 $80 \%$ 以上的酶活力，而处理 $2 . 5 \mathrm { h }$ 也能保留 $50 \%$ 的酶活力；DSB随着处理时间的延长酶活下降较快，但处理1h时也能够保持 $50 \%$ 以上的酶活力。上述结果显示DSB和ManA在偏酸性条件下能维持较高的酶活，这一特性有利于两种酶作为饲料添加剂抵抗动物胃肠道的酸性环境。
+
+![](images/0a50ba82e7d8c358c23ab0478985ff16ca0447c2131299c1b2224cc76942b117.jpg)  
+图7X33/DSB-ManA产木聚糖酶和甘露聚糖酶的最适pH（ $7 5 \mathrm { { ^ \circ C } }$ ）
+
+及pH稳定性
+
+Fig.7 Optimum pH $( 7 5 ^ { \circ } \mathrm { C } )$ (a) and pH stability (b) of xylanase and mannanase of
+
+# 2.3.3两种酶对不同金属离子和化学试剂的稳定性
+
+不同金属离子和化学试剂对两种酶活力的影响如表1和表2所示，从表中可以看出， $\mathrm { C u } ^ { 2 + }$ 、 $\mathrm { F e } ^ { 3 + }$ 、 $ { \mathrm { M n } } ^ { 2 + }$ 、 ${ \mathrm { C o } } ^ { 2 + }$ 、 $\mathrm { P b } ^ { 2 + }$ 、EDTA、巯基乙醇对甘露聚糖酶ManA有不同程度的抑制作用，其中 $\mathrm { C u } ^ { 2 + } , \ \mathrm { F e } ^ { 3 + }$ 、 $\mathrm { C o } ^ { 2 + }$ 在浓度较高时才会表现明显抑制作用， $\mathrm { M g ^ { 2 + } }$ 、 $\mathrm { L i ^ { + } } \setminus \mathrm { N i ^ { 2 + } }$ 、SDS 对该酶的酶活基本没有影响， $\mathrm { C a } ^ { 2 + }$ 则对该酶有明显的激活作用； $\mathrm { C u } ^ { 2 + }$ 、 $\mathrm { M n } ^ { 2 + }$ 、 $\mathrm { M g ^ { 2 + } }$ 、 $\mathrm { P b } ^ { 2 + }$ 、SDS、EDTA 对木聚糖酶DSB有不同程度的抑制作用， $\mathrm { F e } ^ { 3 + }$ 、 $\mathrm { C o } ^ { 2 + }$ 、 $\mathrm { L i ^ { + } }$ 、 $\mathrm { N i } ^ { 2 + }$ 、 $\mathrm { C a } ^ { 2 + }$ 、巯基乙醇对木聚糖酶酶活影响不大，其中 ${ \mathrm { C o } } ^ { 2 + }$ 在低浓度时对该酶有轻微的促进作用。在饲料加工过程中，原料本身会存在一定量金属元素或因动物生长需要添加不同种类和不同比例微量金属离子，这些金属离子会对酶的活性和稳定性产生一定影响。表2 和表3的结果表明DSB和ManA对大部分金属离子和化学试剂有一定耐受性，作为饲料添加剂，这一特性有利于最大限度发挥其催化活性。
+
+# 表2不同化学试剂及金属离子对甘露聚糖酶活力的影响
+
+Table 2 The effects of different chemical reagents and metal ions on the activity of
+
+表3不同化学试剂及金属离子对木聚糖酶活力的影响  
+
+<html><body><table><tr><td colspan="4">mannanase</td></tr><tr><td>浓度(mM) 金属离子</td><td></td><td>0.5</td><td>1</td></tr><tr><td>Cu2+</td><td>100±1.95</td><td>97.22±4.67</td><td>83.71±2.81</td></tr><tr><td>Fe3+</td><td>100±2.49</td><td>105.75±3.16</td><td>86.12±6.36</td></tr><tr><td>Mn2+</td><td>100±7.52</td><td>65.03±1.21</td><td>69.79±1.27</td></tr><tr><td>Co²+</td><td>100±4.52</td><td>104.93±5.30</td><td>87.15±3.82</td></tr><tr><td>Mg2+</td><td>100±2.93</td><td>99.83±4.24</td><td>107.56±3.00</td></tr><tr><td>Li+</td><td>100±2.85</td><td>103.43±3.62</td><td>101.33±6.26</td></tr><tr><td>Ni2+</td><td>100±4.03</td><td>101.38±7.19</td><td>102.36±4.31</td></tr><tr><td>Ca2+</td><td>100±5.58</td><td>121.27±2.82</td><td>131.57±4.88</td></tr><tr><td>Pb2+</td><td>100±3.94</td><td>95.74±2.49</td><td>87.14±5.91</td></tr><tr><td>SDS</td><td>100±4.28</td><td>97.74±4.89</td><td>99.73±1.85</td></tr><tr><td>EDTA</td><td>100±2.33</td><td>85.06±4.31</td><td>90.56±6.99</td></tr><tr><td>巯基乙醇</td><td>100±2.58</td><td>93.29±7.01</td><td>87.40±5.55</td></tr></table></body></html>
+
+Table 3 The effects of different chemical reagents and metal ions on the activity of   
+
+<html><body><table><tr><td colspan="4"> xylanase</td></tr><tr><td>浓度(mM)</td><td>0</td><td>0.5</td><td>1</td></tr><tr><td colspan="4">金属离子</td></tr><tr><td>Cu2+</td><td>100±0.26</td><td>91.55±0.38</td><td>73.18±0.37</td></tr><tr><td>Fe3+</td><td>100±0.76</td><td>98.29±0.33</td><td>97.20±0.14</td></tr><tr><td>Mn2+</td><td>100±0.77</td><td>64.09±0.54</td><td>67.89±0.77</td></tr><tr><td>Co2+</td><td>100±0.68</td><td>117.13±0.49</td><td>96.80±0.74</td></tr><tr><td>Mg²+</td><td>100±0.61</td><td>90.93±0.75</td><td>91.78±1.07</td></tr><tr><td>Li+</td><td>100±0.81</td><td>97.80±0.54</td><td>96.99±0.33</td></tr></table></body></html>
+
+<html><body><table><tr><td>Ni2+</td><td>100±0.45</td><td>99.16±0.63</td><td>96.69±0.56</td></tr><tr><td>Ca²+</td><td>100±0.50</td><td>92.79±0.71</td><td>96.04±0.35</td></tr><tr><td>Pb2+</td><td>100±0.86</td><td>92.62±0.77</td><td>87.71±1.09</td></tr><tr><td>SDS</td><td>100±2.22</td><td>84.89±0.92</td><td>78.51±0.58</td></tr><tr><td>EDTA</td><td>100±0.50</td><td>89.82±1.05</td><td>84.04±1.21</td></tr><tr><td>巯基乙醇</td><td>100±0.61</td><td>99.47±2.29</td><td>100.49±1.67</td></tr></table></body></html>
+
+# 3讨论
+
+木聚糖酶和甘露聚糖酶是两种重要的饲用酶制剂，在饲料中添加含有两种酶的复合酶制剂，可促进饲料养分的利用，提高动物的生长性能，增进动物的健康[12-17]。然而目前复合酶大部分是以复配形式生产，首先需生产多种单一酶，生产较复杂。本研究选用巴斯德毕赤酵母X33为宿主菌，采用基因工程技术构建木聚糖酶 DSB 和甘露聚糖酶 ManA 共表达重组质粒pPICZαA/DSB-ManA，然后将重组质粒转化至毕赤酵母宿主菌X33中获得共表达两种酶的重组菌X33/DSB-ManA，摇瓶发酵结果显示诱导表达至144h 时木聚糖酶和甘露聚糖酶的酶活分别为 $2 7 3 . 6 \mathrm { U } / \mathrm { m L }$ 和 $2 5 6 . 8 \mathrm { U / m L }$ ，表明两种酶在同一宿主中实现了共表达，且都具有较高的酶活，这对复合酶的工业生产来说，可简化发酵过程，降低生产成本。
+
+本研究对共表达重组菌X33/ManA-DSB产两种酶的酶活力与单独表达重组菌X33/DSB和X33/ManA产两种酶的酶活力进行了比较，摇瓶发酵至144h时，X33/DSB的酶活为 $9 0 0 \mathrm { U / m L }$ ，X33/ManA的酶活为 $3 5 0 \mathrm { U / m L }$ ，而X33/ManA-DSB产木聚糖酶和甘露聚糖酶的酶活分别为 $2 7 3 . 6 ~ \mathrm { U / m L }$ 和 $2 5 6 . 8 ~ \mathrm { U / m L }$ ，分别为X33/DSB和X33/ManA酶活的 $30 . 4 \%$ 和 $7 3 . 4 \%$ 。上述结果显示DSB和ManA在同一宿主中进行共表达时,与单独表达重组菌相比最高酶活力都有所降低，表明在毕赤酵母中表达外源蛋白时，宿主菌的最大表达能力可能是有一定上限的[7,18]。且共表达时，DSB最高酶活下降约 $70 \%$ ，而ManA最高酶活下降约 $30 \%$ ，即两种酶在同一宿主中的共表达对DSB酶活的影响大于ManA酶活，可能是因为共表达时两个基因使用相同的启动子出现了个别基因选择性高表达的问题[19],具体原因有待进一步研究。
+
+本研究中共表达的两种酶均为高温酶，最适反应温度都为 $7 5 \mathrm { { ^ \circ C } }$ ，且在 $7 5 \mathrm { { ^ \circ C } }$ 处理 $3 0 \mathrm { m i n }$ ，两种酶均能保持 $60 \%$ 以上相对酶活力，两种酶都表现出了较好的热稳定性，这一特点对于解决工业酶制剂制粒时高温下酶失活的问题具有重要意义，比较适合工业生产的要求。此外，两种酶也表现出了较好的耐酸性，在 $\mathrm { p H } 3 . 0 \$ $4 0 ^ { \circ } \mathrm { C }$ 条件下，ManA处理 $1 \mathrm { { h } }$ 仍能保留 $80 \%$ 以上的酶活力，而DSB处理1h时也能够保持 $50 \%$ 以上的酶活力，表明两种酶随饲料进入动物胃肠道后可抵抗胃肠道的酸性环境，因此两种酶在饲料工业中具有很好的应用前景。
+
+# 参考文献
+
+[1] Collins T, Gerday C, Feller G. Xylanases, xylanase families and extremophilic xylanases[J]. FEMS microbiology reviews, 2005,29(1): 3-23.   
+[2]Pollet A， Delcour J A， Courtin C M. Structural determinants of the substrate specificities of xylanases from different glycoside hydrolase families. Critical reviews in biotechnology, 2010, 30(3): 176-191.   
+[3] Le Nours J,Anderson L, Stoll D, et al. The structure and characterization of a modular endo- $\left\{ \beta - 1 \right.$ ，4-mannanase from Cellulomonas fimi. Biochemistry， 2005, 44(38): 12700-12708.   
+[4] Couturier M, Roussel A, Rosengren A, et al. Structural and biochemical analyses of glycoside hydrolase families 5 and 26 beta-(1,4)-mannanases from Podospora anserina reveal differences upon manno-oligosaccharides catalysis. Journal of Biological Chemistry, 2013: jbc. M113. 459438.   
+[5]魏川子，王兆斌，李燕蒙，等．半纤维素酶在畜禽饲料中的应用及研究进展. 畜牧与饲料科学,2015,36(12): 44-46. Wei C Z，Wang Z B,Li Y M， et al. Application and research progress of hemicellulose enzyme in animal feed. Animal Husbandry and Feed Science, 2015,36 (12): 44-46.   
+[6]黄生平，汪昌丽，张桂敏，等．植酸酶和甘露聚糖酶双功能毕赤酵母工程菌的 构建和产酶分析．微生物学报,2007,47(2):280-284. Huang S P, Wang C L, Zhang G M, et al. Construction and enzyme production analysis of bichia pastoris engineering bacteria with double functions of phytase and mannitase .Acta microbiologica Sinica, 2007, 47(2): 280-284.   
+[7]吴振芳，唐自钟，陈惠，等．毕赤酵母中植酸酶和内切葡聚糖酶共表达菌株的 构建及其高效表达．生物工程学报,2010,26(5):616-622. Wu Z F, Tang Z Z, Chen H, et al. Construction and efficient expression of phytase
+
+and endoglucanase co-expressed strains in pichia pastoris. Chinese Journal of Biotechnology, 2010, 26(5): 616-622.
+
+[8] Damasceno L M, Huang C J, Batt C A. Protein secretion in Pichia pastoris and advances in protein production. Appl Microbiol Biotechnol, 2012, 93(1): 31-39.   
+[9] Rabert C, Weinacker D, Pessoa A Jr, et al. Recombinants proteins for industrial uses: utilization of Pichia pastoris expression system. Braz JMicrobiol, 2013, 44(2): 351-356.   
+[10] Yu H Y, Sun Y M, Wang W, et al. Purification and Properties of Bacillus subtilis SA-22 Endo-1,4- $\beta$ -D-mannanase. Chinese Journal of Biotechnology, 20o3,19(3): 327-331.   
+[11]张巍，王亚伟，陈丰，等．一株全基因合成耐热甘露聚糖酶的表达及酶学性 质分析．中国生物工程杂志,2014,34(8):41-46. Zhang W, Wang Y W, Chen F, et al. Expresson and enzymological property analysis of a whole gene synthesis heat-resistant mannitosidase. Journal of Chinese Biotechnology, 2014, 34(8): 41-46.   
+[12]田军辉. $\beta$ -甘露聚糖酶对不同蛋白饲料的体外酶解效果及其在断奶仔猪低能 量日粮中的应用研究．河南:河南农业大学,2014. Tian JH. In vitro enzymatic hydrolysis effect and its application in low-energy diet of weaned piglets with different protein feed. Henan: Henan Agricultural University, 2014.   
+[13]郭玉光，杜红方，王敏，等．饲粮中添加复合酶对仔猪生长性能，血液生化指 标和养分消化率的影响．中国畜牧杂志,2018,54(2):65-68. Guo Y G, Du HF, Wang M, et al. Effects of compound enzymes added to diet on growth performance, blood biochemical indexes and nutrient digestibility of piglets. Chinese Journal of Animal Science, 2018, 54(2): 65-68.   
+[14]周雪梅，杨在宾，姜淑贞，等．复合酶制剂对蛋鸡生产性能，蛋品质，肠道健 康微生物及养分利用率的影响．家禽科学,2017(11):7-12. Zhou X M, Yang Z B, Jiang S Z, et al. Effects of compound enzyme preparation on production performance, egg quality, intestinal health microorganism and nutrient utilization rate of laying hens. Journal of Poultry Science, 2O17 (11): 7-12.   
+[15]谭子超，刘浩民，薛梅，等．小麦-豆粕型饲粮添加复合酶制剂对肉鸡肠道微 生物菌群和影响．中国饲料,2018(9):19-24. Tan Z C, Liu H M, Xue M, et al. Effects of compound enzyme preparation in wheat-soybean meal diet on intestinal microflora and microflora of broiler chickens. Chinese feed, 2018 (9): 19-24.   
+[16]Cozannet P, Meur M, Batut H, et al. Enzyme complex improves performance of broilers fed wheat-and soybean-based diets with graded density: optimum definition//24th Annual Australian Poultry Science Symposium, Sydney, New South Wales,Australia, 17-20 February 2013.Poultry Research Foundation, 2013: 68-71.   
+[17] Beauchemin K A, Colombatto D, Morgavi D P.A rationale for the development of feed enzyme products for ruminants. Canadian Journal of Animal Science, 2004, 84(1): 23-36.   
+[18]刘高磊,胡蝶,邬敏辰,等.内切葡聚糖酶与木聚糖酶在毕赤酵母中的共分 泌表达.食品与生物技术学报,2015,34(3):253-259. Liu G L,Hu D,Wu M C, et al. Co-expression of endoglucanase and xylanase in pichia pastoris. Journal of Food Science and Biotechnology, 2015, 34(3): 253-259.   
+[19]马蓉,徐昊,丁锐,等.大肠杆菌多基因共表达策略.中国生物工程杂志, 2012,32(04) :117-122. Ma R ,Xu H,Ding R, et al. Co-expression strategies of multiple genes in e. coli. Journal of Chinese Biotechnology ,2012, 32(04): 117-122.
+
+# Co-expression of xylanase and mannanase in Pichia pastoris and the enzymatic analyses
+
+YAO Yin MIN QiXIONG Hai-rongZHANG Li (College of Life Science， South-Central University for Nationalities， Wuhan
+
+430074，China)
+
+AbstractXylanase and mannanase are two important hemicellulases and feed enzyme preparations. Construction method of in vitro multimers in Pichia pastoris expressionsystemhasbeenused toconstructrecombinantplasmid pPICZαA/DSB-ManA which contained both DSB gene and ManA gene. Then, pPICZαA/DSB-ManA was transformed to host cells Pichia pastoris X33 by electroporation to obtain the co-expression recombinant strain X33/DSB-ManA. In shake-flask cultivation, xylanase activity and mannanase activity in the supernatant were $2 7 3 . 6 ~ \mathrm { U / m L }$ and $2 5 6 . 8 ~ \mathrm { U / m L }$ that reached $3 0 . 4 \%$ and $7 3 . 4 \%$ activity compared to X33/DSB and X33/ManA, respectively. Properties of the mixed enzyme suggested that the optimal reaction temperature for DSB and ManA is $7 5 \mathrm { { ^ \circ C } }$ . Both xylanase and mannanase showed more than $60 \%$ activity across temperature ranges $4 5 ^ { \circ } \mathrm { C }$ to $7 5 ^ { \circ } \mathrm { C }$ The optimal reaction $\mathfrak { p H }$ value of DSB and ManA were 6.5 and 6.0, respectively. After incubation $^ \mathrm { ~ 1 ~ h ~ }$ under the $\mathrm { p H } 3 . 0$ and $4 0 \ \mathrm { ^ \circ C }$ treatment condition， mannanase activity of ManA displayed greater than $80 \%$ activity and xylanase activity of DSB revealed more than $50 \%$ activity. Meanwhile, DSB and ManA have shown good tolerance to a variety of metal ions and chemical reagents. Both enzyme activities could keep over $60 \%$ activity when the treatment concentration of different metal ions and chemical reagents was 1 millimole. Xylanase DSB and mannanase ManA have been co-expressed in Pichia pastoris successfully. The successful expression of the two enzymes of the recombinant strain could offer the theory basis for production and application of compound enzyme in the animal feed.
+
+Key words Xylanase Mannanase Pichia pastoris Co-expression Enzymatic characteristics

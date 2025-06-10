@@ -1,0 +1,469 @@
+[
+    {
+        "type": "text",
+        "text": "A bibliometric analysis of carbon exchange in global drylands ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Zhaogang1,2, CHEN Zhi1,2.3\\*, YU Guirui1.2.3, ZHANG Tianyou4, YANG Meng1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 KeyLaboratoryof Ecosystem Network Observationand Modeling,Institute of Geographic Sciences and Natural Resources   \nResearch, Chinese Academy of Sciences,Beijing 100101, China;   \n2College of Resources and Environment, University of Chinese Academy of Sciences,Beijing 10o049,China;   \n3Yanshan Earth Critical Zone and SurfaceFluxes Research Station,UniversityofChineseAcademyof Sciences,Beijing   \n101408,China;   \n4 College of Grassland Agriculture,Northwest A&F University, Yangling 712100, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Drylands refer to regions with an aridity index lower than O.65,and billions of people depend on services provided by the critically important ecosystems in these areas. How ecosystem carbon exchange in global drylands (CED) occurs and how climate change affects CED are critical to the global carbon cycle. Here, we performed a comprehensive bibliometric study on the fields of annual publications, marked journals, marked institutions, marked countries, popular keywords,and their temporal evolution to understand the temporal trends of CED research over the past 30 a (1991-2O20). We found that the annual scientific publications on CED research increased significantly at an average growth rate of $7 . 9 3 \\%$ ： Agricultural Water Management ranked first among alljournals and had the most citations. The ten most productive institutions were centered on drylands in America, China,and Australia that had the largest number and most citations of publications on CED research.\"Climate change\" and climate-related (such as \"drought\", \"precipitation\",\"temperature\",and \"rainfall\") research were found to be the most popular study areas. Keywords were clasified into five clusters, indicating the five main research focuses on CED studies: hydrological cycle，effects of climate change，carbon and water balance， productivity，and carbon-nitrogen-phosphorous coupling cycles. The temporal evolution of keywords further showed that the areas of focus on CED studies were transformed from classical pedology and agricultural research to applied ecology and then to global change ecological research over the past $3 0 \\mathrm { ~ a ~ }$ .In future CED studies, basic themes (such as \"water\", \"yield\",and \"salinity\"） and motor themes (such as \"climate change\", \"sustaiability\",and \"remote sensing\"） will be the focus of research on CED. In particular, multiple integrated methods to understand climate change and ecosystem sustainability are potential new research trends and hotspots. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: bibliometric analysis; drylands;carbon exchange;climate change; arid areas; water resources;sustainability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drylands refer to regions with an aridity index (AI, i.e., the ratio of mean annual precipitation to mean annual potential evapotranspiration） lower than 0.65， encompassing dry subhumid $( 0 . 5 0 { < } \\mathrm { A I } { < } 0 . 6 5$ ),semi-arid ( $\\mathrm { ( 0 . 2 0 { < } A I { \\leq } 0 . 5 ) }$ ,arid $( 0 . 0 5 { < } \\mathrm { A I } { \\leq } 0 . 2 0 )$ ,and hyperarid $( \\mathrm { A I } { \\le } 0 . 0 5 )$ areas ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Barrow，1992).T1090hey are critical terrestrial ecosystems located in regions subject to permanent or seasonal water shortages, cover approximately $41 \\%$ of the land area, and support more than $3 8 \\%$ of the population in the world. Drylands include shrublands,savannas,and grasslands,and are considered to be the most widespread biome on Earth (Reynolds et al., 2007; Schimel, 2010; Pravalie, 2016; Huang et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The unprecedented rise in $\\mathrm { C O } _ { 2 }$ concentrations causes global warming，glacier melting，sea level rise,and a series of global change problems. Drylands are highly sensitive to human activities and climate change (Berdugo et al.,2Ol7), while climate warming and frequent severe droughts (Yi et al.,20l5; Stoy,2018) have seriously imperilled biological diversity and the ability to sequester carbon in drylands (Ma et al.,2O16). On the other hand,the degradation of arid and semi-arid areas would have serious negative efects on the economy and society, particularly in developing countries (Huang et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dryland ecosystems also play a key role in the global carbon cycle, dominating the trend and variability of the global terrestrial ecosystem carbon sink,and are highly vulnerable to interannual climatic variability (Poulter et al., 2014; Ahlstrom et al., 2015; Biederman et al., 2017). These characteristics make carbon exchange in global drylands (CED) as a field with strong scientific significance,and many studies have been conducted in these areas (Krishnan et al., 2O12; Poulter et al., 2014; Yao et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bibliometric analysis is a statistical method of the quantitative evaluation of articles, books, and any other publications; it has been applied to many research areas (Chen et al.,2Ol6; Aria and Cuccurullo, 2017). Alan Pritchard proposed bibliometrics in 1969, reviewing the progress of all subjects and providing a comprehensive evaluation at different levels (Portner, 2Oo8； Zyoud, 2016).As a statistical and visible method,the review process of bibliometrics is very transparent, systematic,and reproducible,and bibliometrics can provide more objective and reliable analyses (Aria and Cuccurullo,2017; Arfaoui et al., 2019). Specifically, bibliometrics can evaluate special research fields and show the temporal trends of disciplines and research hotspots, making studies more meaningful (Wang et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the field of dryland research，Arfaoui et al. (2O19） analyzed research conducted in 2000-2017 to study the application of biochar in soil under drought conditions. Zhang and Chen (2020)conducted a bibliometric study of the published literature to understand the research hotspots of the Chinese Loess Plateau. They found that greenhouse gas emissons,carbon sequestration,and climate are predominant topics in arid areas, especially the carbon cycle in the context of global change. However, explicit knowledge of CED in inclusive arid and semi-arid areas is not well known. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To review all publications on CED research, we performed a comprehensive bibliometric analysis of research on CED with R software (Aria and Cuccurullo,2017). Our study mainly aims to apply a bibliometric method on CED research to:(1） evaluate the temporal trends of publications and identify the marked countries,marked institutions,marked journals,and hot topics; (2) demonstrate the evolutionary dynamics of research topics and reveal the underlying relationships between different research subjects; and (3） provide potential new research trends and hotspots in future studies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Data and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Data collection and preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study focused on CED research. Data collection and preparation were divided into two stages. The first stage was data retrieval,and the terms \"carbon flux & arid\" or \"carbon exchange & arid\" or \"gross primary production & arid\" or \"net ecosystem exchange & arid\" or \"production & arid\" or \"carbon flux & dryland\" or \"carbon exchange & dryland\" or \"gross primary production & dryland\" or \"net ecosystem exchange & dryland\" or \"production & dryland\" were searched as a topic in allpublications during 1991-2020.We chose 1991-2020 as the study period because few studies before 199l were found in the database. On 8 January 2021,we began our bibliometric collction in the Science Citation Index Expanded (SCI-E) database in the \"Web of Science Core Collection\" (http://www.webofknowledge.com). The SCI-E database comprehensively covers the most influential studies in the world and includes explicit reference information to enable us to track the trends of CED studies (Zhang and Chen，202O).We preliminarily screened the publications,mainly including 11 aspects (such as publication type,keywords, correspondence, title,abstract, citation count, year, month/day, volume, issue,and digital object identifier). In our study, there were 11,360 documents in total, mainly including proceeding papers,articles,reviews,and leters (more details are shown in Table 1). The second stage was to download and convert the data,in which we converted data into a BibTex format for performing comprehensive bibliometric analyses (bibliometrix package in R software). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8455251576670fb74c9400e9d687d4e7be61f69aac9a74a94c1ce0acb4a4cfdb.jpg",
+        "table_caption": [
+            "Table 1 Main information regarding the collection "
+        ],
+        "table_footnote": [
+            "Note:Collaboration index $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ Authors of multi authored publications/Multi authored publications. "
+        ],
+        "table_body": "<html><body><table><tr><td>Description</td><td>Result</td></tr><tr><td>Timespan</td><td>1991-2020</td></tr><tr><td>Sources (journals,books,etc.)</td><td>1516</td></tr><tr><td>Publications</td><td>11,360</td></tr><tr><td>Keywords</td><td>24,251</td></tr><tr><td>Authors</td><td>31,636</td></tr><tr><td>Annual years from publication (a)</td><td>9.45</td></tr><tr><td>Average citations per publication</td><td>22.63</td></tr><tr><td>Author appearances</td><td>50,327</td></tr><tr><td>Authors of single authored publications</td><td>597</td></tr><tr><td>Authors of multi authored publications</td><td>31,039</td></tr><tr><td>Publications per author</td><td>0.36</td></tr><tr><td>Authors per publication</td><td>2.78</td></tr><tr><td>Coauthors per publication</td><td>4.43</td></tr><tr><td>Collaboration index</td><td>2.91</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 General statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section, general statistical analysis was conducted, such as the number of publications and books published and cited in each country, journal, and institution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Most used keyword analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords can reflect study trends and frontiers (Chiu and Ho,2007; Liu et al., 2012; Ji et al., 2014). The wordcloud could quickly perceive the most significant words and locate a word in alphabetical order to determine its relative significance.We used the wordcloud to identify the 50 most popular keywords on CED research over the past 30 a. Labels included single words, and each label displayed different font sizes and colours at a frequency (Aria and Cuccurullo, 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Keyword co-occurrence analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords that appear in a publication are associated in the network,which is also called co-word network. The co-word network is used to understand the topics covered in a research area to define and determine the most important and latest issues (the so-called research front). It also helps to study the evolution of research topics over time (Choi et al., 2011; Aria and Cuccurullo,2017). In this study, we drew a co-occurrence network of the top 50 keywords, then we can indentify current research hotspots in the CED field through keyword co-occurrence analysis. Specifically， different colours represent different clusters， suggesting that these keywords are more likely to appear in the same publication. The size of the circle represents how often keywords appear in a cluster.The lines between two circles represent the relationship between two keywords; the thicker the line is,the closer the relationship between them (Lu et al., 2020). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 Temporal trend analysis of keywords ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To better understand the temporal evolution of research topics, we conducted temporal trend analysis of keywords and divided 30 a of publications into six periods (1991-1995,1996-2000, 2001-2005,2006-2010, 2011-2015,and 2016-2020). By dividing the timespan into time slices, the evolution of topics in a specific research field can be represented by an alluvial graph (Aria and Cuccurullo, 2017). In addition, by applying a clustering algorithm to a keyword network, different topics of a given field can be highlighted.We analyzed two themes,namely, motor themes and basic themes. Motor themes are topics that are both important and well developed. Basic themes refer to basic concepts and are very important in this field but have not been well developed (Cobo et al., 2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All bibliometric and text analyses (e.g.，annual number of publications,marked journals, marked institutions,marked countries,and popular keywords),data analysis,and plot figures were conducted with R 4.0.3 software and SigmaPlot 12.5 software. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Trends of publications and citations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The number of publications on CED research and their growth rate during 1991-2020 were closely related to the development of this scientific field (Fig.1). We found that the annual number of publications on CED research increased significantly at an average growth rate of $7 . 9 3 \\% / \\mathrm { a }$ . Publications moderately increased during 1991-2005,while they remarkably increased after 2005,with almost $80 \\%$ of the publications on CED being published during 2005-2020 (Fig. la). This increasing trend of CED research publications was consistent with the trend of global scientific publications in other reported areas (Zhang and Chen,2020). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/947ad613f8f9826364901267baafefef53516ea3de8049f61a03ca6b73b2db56.jpg",
+        "img_caption": [
+            "Fig.1Annual scientific production of publications on carbon exchange in global dryland (CED)research (a) and mean number of citations per publication (b) from l991 to 2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Over the past three decades, the mean number of citations per publication showed an opposite trend with the number of publications (Fig. 1b). The mean number of citations per publication increased in a wavelike pattern during 1991-2005 but decreased significantly after 2005.A similar pattern was found when calculating the mean number of citations per publication five years after publication. One explanation for this pattern is that recent publications spend more time reaching a high citation phase, while previous publications are gradually replaced by new publications.Another reason for this is that the number of annual publications is quickly increasing (Arfaoui et al.,2O19). The results showed that publications remarkably increased after 2005 (Fig. la)，which may have led to a decreasing trend of mean number of citations per publication in this period. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Marked journals ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Studies of CED have been published in 1516 journals and these journals were very diferent. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Agricultural Water Management, Journal of Arid Environments, Field Crops Research, Agronomy Journal, and Agricultural and Forest Meteorology were found to be the five most productive journals (Table 2). Agricultural Water Management ranked first among the top journals and was citied more than other journals (Table 2). In semi-arid areas, due to the high availability of energy, agriculture has a high potential yield, while the actual yield is seriously restricted by the shortage of water resources.In particular, drought often occurs in these areas,resulting in more frequent crop failures. An improved understanding of the hydrological cycle in semi-arid areas of the world could contribute to improve water resources management and adaptation policies (Yang et al., 2019). The aims and scopes of these journals are mainly related to water and agriculture; therfore,it is not difficult to find why they are the most productive journals. Furthermore, more scientists cited high-impact factor journals,although they had fewer publications in the field of CED research (Xiang et al., 2015; Zhang and Chen, 2020). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/67522a2e3dfa1484800addeb56a2b5773d804d644cb933e7d9f97c1c47af6f02.jpg",
+        "table_caption": [
+            "Table 2Top 2O most productive and cited journals with the publications of carbon exchange in global dryland (CED) during the period of1991-2020 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Journal</td><td>Publications</td><td>Journal</td><td>Total citations</td></tr><tr><td>Agricultural Water Management</td><td>356</td><td>Agricultural Water Management</td><td>7884</td></tr><tr><td>Journal of Arid Environments</td><td>329</td><td>Agronomy Journal</td><td>7089</td></tr><tr><td>Field Crops Research</td><td>204</td><td>Global Change Biology</td><td>6644</td></tr><tr><td>Agronomy Journal</td><td>188</td><td>Field Crops Research</td><td>6185</td></tr><tr><td>Agricultural and Forest Meteorology</td><td>161</td><td>Science</td><td>6000</td></tr><tr><td>Agriculture,Ecosystems& Environment</td><td>132</td><td>Soil Science Society of America Journal</td><td>5756</td></tr><tr><td>Soil&Tillage Research</td><td>130</td><td>Agricultural and Forest Meteorology</td><td>5713</td></tr><tr><td>Science of the Total Environment</td><td>128</td><td>Journal of Arid Environments</td><td>5618</td></tr><tr><td>Agricultural Systems</td><td>109</td><td>Nature</td><td>5568</td></tr><tr><td>Global Change Biology</td><td>97</td><td>Plant and Soil</td><td>5391</td></tr><tr><td>Plant and Soil</td><td>96</td><td>Oecologia</td><td>5024</td></tr><tr><td>PLoS ONE</td><td>89</td><td>Soil Biology and Biochemistry</td><td>5006</td></tr><tr><td>Industrial Crops and Products</td><td>88</td><td>Ecology</td><td>4949</td></tr><tr><td>Journal of Dairy Science</td><td>88</td><td>Soil& Tillage Research</td><td>4135</td></tr><tr><td>Water</td><td>86</td><td>Remote Sensing of Environment</td><td>3780</td></tr><tr><td>Sustainability</td><td>85</td><td>Agriculture,Ecosystems & Environment</td><td>3666</td></tr><tr><td>Communications in Soil Science and Plant Analysis</td><td>78</td><td>Crop Science Water Resources Research</td><td>3639</td></tr><tr><td>Scientific Reports</td><td>74</td><td>Journal of Hydrology</td><td>3431</td></tr><tr><td>Oecologia</td><td>72</td><td>Proceedings of the National Academy of the Sciences of the United States of America</td><td>3405</td></tr><tr><td>Crop & Pasture Science</td><td>72</td><td>New Phytologist</td><td>3372</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition, the top five marked journals on CED research showed various temporal trends (Fig. 2). Agricultural Water Management, Journal of Arid Environments,and Agricultural and Forest Meteorology have maintained an increasing trend in publishing CED research in recent years, in which Agricultural Water Management has shown the most remarkable increasing trend, indicating the high-quality of publications on CED research.This is consistent with the time when \"water\" and \"water use efficiency\" became popular keywords (Zhang and Chen， 2020). In addition, the number of publications in each journal basically showed an increasing trend every year. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Marked institutions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that 7692 institutions around the world have participated on CED research, of which the ten most marked institutions contributed $2 9 . 0 6 \\%$ (3301 publications) of the total publications. During the study period, Northwest A&F University ranked first with the most publications (596), followed by China Agricultural University and Colorado State University (Table 3).The ten marked institutions almost were located in drylands in America, China,and Australia. Many studies have shown that drylands have a strong carbon sequestration potential (Tagesson et al., 2016; Kou et al., 2018; Abdi et al.,2019). America, China,and Australia cover tremedous typical semi-arid and arid areas at the global scale (Yang et al.,2O19),and atach great importance to the trend and variability of the land carbon balance (Ahlstrom et al.,2015). Compared with America and Australia, Chinese institutions had more publications (Table 3), which suggests that Chinese institutions have invested more in the field of CED research. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6e175a94ea73f7af2d401d4fe460cc930d55b309010bd00dcefd128d166b151.jpg",
+        "img_caption": [
+            "Fig.2Temporal trend of publications for the top five marked journals on CED research.(a),Agricultural Water Management; (b),Journal of Arid Environments; (c),Field Crops Research; (d),Agronomy Journal; (e), Agricultural and Forest Meteorology. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad789a640d91963fa169cc4de99aee78889d7ad03f2f4245ebff5ff8ddda5530.jpg",
+        "table_caption": [
+            "Table 3Top ten most marked institutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Country</td><td>Institution</td><td>Publications</td></tr><tr><td>China</td><td>Northwest A&F University</td><td>596</td></tr><tr><td>China</td><td>China Agricultural University</td><td>375</td></tr><tr><td>America</td><td>Colorado State University</td><td>325</td></tr><tr><td>America</td><td>University of Arizona</td><td>321</td></tr><tr><td>Australia</td><td>TheUniversity of Western Australia</td><td>308</td></tr><tr><td>China</td><td>University of Chinese Academy of Sciences</td><td>286</td></tr><tr><td>America</td><td>Washington State University</td><td>280</td></tr><tr><td>China</td><td>Lanzhou University</td><td>272</td></tr><tr><td>India</td><td>International Crops ResearchInstitute for the Semi-Arid Tropics</td><td>264</td></tr><tr><td>China</td><td>Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences</td><td>244</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Marked countries ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The number of publications can reflect the development level of the country in this research field. To obtain more comprehensive information,we performed a comprehensive analysis of the publications and the number of citations.The results indicated that 117 countries worldwide had engaged in research on CED. America, China, Australia, India, Brazil, Spain, Iran, Germany, South Africa, and Canada were the ten most relevant countries by the corresponding authors, contributing $6 8 . 0 4 \\%$ （7729 publications） of the total publications.Further,America,China, Australia, Spain, Germany, the UK, India, Israel, Argentina, and Canada were the ten most cited countries, contributing $7 2 . 4 2 \\%$ (184,547 citations) of the total citations (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that countries with large areas of drylands in their teritory usually have had a large participation in publications on CED research. The most cited countries have mainly been closely related to their number of publications and scientific research strengths (Oliveira and Pereira,2O21).As mentioned above,the institutions with the most research on CED were mainly from America, China,and Canada (Table 3). It is evident that CED research has been greatly highlighted and developed in America, China,and Australia; however, there have only been few studies on CED research from countries in Africa and Central Asia. This suggested that there is a research gap on CED studies across countries,which fosters the collaboration between researchers from developed and developing countries, especially in drylands. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b849d99314edd888bdbea9453a173d89302281835a0f428a83cefcb808b5561.jpg",
+        "img_caption": [
+            "Fig.3Top ten most cited countries (a)and top ten most relevant countries by the corresponding authors (b) related to CED research "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 Keywords and temporal evolution ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 Most popular keywords ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"Climate change\" (total frequency of 395) was the most popular keyword, which suggested that climate change is one of the most attention-attracting areas on CED research (Fig. 4). This is likely because dryland ecosystems exert great impacts on the variability of global carbon cycle while they are highly sensitive to climate change such as drought, heat waves, and extreme rainfall (Zscheischler et al.，2014; Huang et al., 2016). Furthermore,model simulations have indicated that there are large uncertainties in the responses of dryland ecosystems to climate change (Ahlstrom et al.， 2015). Therefore, many studies have been carried out on the effect of climate change on carbon exchange in arid and semi-arid areas, and climate-related (such as \"drought\", \"precipitation\", \"temperature\",and \"rainfall\")） studies have been a focal area of CED research in the past three decades (Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"Soil\"，\"irrigation\"，\"water use efficiency\"， \"yield\",and \"wheat\" were frequently used keywords except for climate-related research, which reflected the main contents on CED studies (Fig. 4). As one of the most active parts of the carbon pool, agroecosystems are strongly affected by human activities (Soegaard et al., 2O03). Achieving high crop yields has become a major goal in drylands (Ahakpaz et al.， 2O21). Measuring carbon fluxes from croplands could provide a reference for management practices regarding how to affect crop growth，carbon absorption, and carbon release (Menefee et al.， 202O). For this purpose, scientists are expending energy on the relationship between crop yield and CED research. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Advanced methods were also the most popular keywords， such as \"model\", \"remote sensing\",and \"eddy covariance\" (Fig. 4). These were the three main approaches for observing and assessing ecosystem carbon exchange and balance from local to global scales (Piao et al., 2013;Chen et al.， 2015, 2018；Li et al., 2021). An increasing number of studies have combined various observation methods; for example, eddy covariance tower observation data and MODIS data-driven models have been used to test different ecosystem sites in drylands (Li et al., 2021). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "soil organic carbon de Water Use efficiencyaer produtity droughtstress salinitydroughtyield climate-change sheepdryland drylands temperature sem1-aridnitrogen soil mosureirrigationwheatgrain yield production evapotranspiration agriculture eddycovariance carbonsequestration ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 Co-occurrence network of popular keywords ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The occurrence network of the main keywords indicated that the research hotspots on CED were focused on five clusters: \"evapotranspiration\"， \"climate change\", \"water use efficiency\", \"photosynthesis\",and \"nitrogen\" (Fig. 5). \"Evapotranspiration\" was the most popular keyword in the dark blue cluster (Fig. 5). This cluster mainly described the sources, formation mechanisms, and regional evaluation of evapotranspiration， and was associated with \"soil\"， \"soil organic carbon\",\"soil moisture\",\"carbon sequestration\",and \"remote sensing\".Evapotranspiration is one of the most important fluxes in ecosystems and has been reported to be greatly enhanced by climate warming regionally (Liu et al., 2010) and globally (Zhang et al., 2015). Precipitation, temperature,radiation, and wind speed can influence evapotranspiration processes (Yang et al., 2019).As an important part of the water cycle, it is important to quantify the spatiotemporal patterns of evapotranspiration across major drylands along climatic gradients for water resources management in water shortage areas (Wang et al.， 2O21). Therefore， systematic and comprehensive studies need to be conducted to beter understand evapotranspiration, which may also be why these keywords appeared in a cluster. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The green cluster was focused on \"climate change\" (Fig. 5). In this cluster, the keyword \"drought\" occupied large parts and most frequently appeared with climate change. Drylands are the most sensitive areas to climate change and extreme drought is the main factor threatening the sustainable development of arid areas (Huang et al.，2016； Miao et al.，2O2O). These results indicated that in dryland studies,the effects of climate change were extensively highlighted under drought conditions, especially in arid and semi-arid areas, where ecosystems are very fragile and sensitive to drought. In semi-arid areas, droughts are frequent and have a negative effect on crops (Yang et al., 2019). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The purple cluster was associated with \"water use efficiency\" (Fig. 5). This cluster mainly described \"water use efficiency\" and \"yield\",as well as related topics such as \"irrigation\", \"salinity\",\"wheat\",and so on. Water use effciency is a key parameter linking global carbon and water cycles (Tarin et al.,2O2O) and is an important index in agriculture.In semi-arid areas, the actual yield of agriculture is seriously constrained by water shortage (Seneviratne et al.,2010; Yang et al.,2019). Therefore, improving water use efciency is an essential issue for agricultural management in dryland ecosystems. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The red cluster included \"photosynthesis\" as the most popular keyword and was related with \"biomass\" and \"productivity\" (Fig. 5). The final orange cluster consisted of keywords for \"carbon\", \"nitrogen\",and \"phosphorus\" (Fig. 5). These two clusters reflected the research on carbon and nutrient cyles. In dryland ecosystems，carbon exchange and carbon storage are strongly controlled by the supply of other key nutrient elements (such as nitrogen and phosphorus) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(Hessen et al., 2004). For example, nitrogen deposition promotes net carbon absorption in ecosystems by increasing nitrogen nutrients for photosynthesis and growth, which makes the relationship between supply and demand no longer balanced (Magnani et al., 2007). Therefore, it is important to study the balance of carbon，nitrogen，and phosphorus to understand the potential of ecosystem carbon sinks and to predict how ecosystems will respond to future climate warming (Grace and Rayment, 20oo; Hobbie et al., 2002). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/127bc441e97ccdc5f4167bac73ae7b7561f195c158c94cbd89efe87be49bdabc.jpg",
+        "img_caption": [
+            "Fig.5Co-occurrence network of the top 50 keywords.The size of the circle represents the frequency of the keyword; the larger the circle is,the higher the frequency. The lines between two circles indicate the relationships between two keywords；the thicker the line is,the closer the relationship between two keywords.Diferent colours represent diferent clusters, indicating that these keywords appear more frequently in the same publication.Red cluster,productivity; dark blue cluster,hydrological cycle; green cluster, efects of climate change; purple cluster， carbon and water balance; orange cluster, carbon-nitrogen-phosphorous coupling cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5.3Temporal evolution of keywords ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In 1991-20o0,classical pedology and agricultural science research were the main topics, such as \"water use efficiency/water use\", \"semi-arid\", \"salinity\", \"soil\", \"irrigation\", \"wheat\", \"sorghum\",\"nitrogen\",\"grazing\",\"growth\",\"agroforestry\", \"production\",and \"yield\" (Fig.6). With the develpoment of applied ecological research related to CED,keywords such as \"drought\",\"sheep\"，\"cropping system\"， \"desertification\"， \"agriculture\",and other applied ecological research increased from 2001 to 2005.During 2006-2010, the study region became larger, expanding from the \"semi-arid region\" to \"arid region\"，and the studies developed further into \"climate change\". In the 2O1Os, global change ecological research became main topics. For example, during 2011-2015，\"biofuel\"，\"nitrous oxide\",and \"vegetation\" became new popular fields of research (Fig. 6). After 2016, \"remote sensing\" and \"sustainability\" emerged and became new popular keywords. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The popular keywords transformed over the past three decades, from classical pedological and agricultural science research in the 1990s to applied ecological research in the 2000s and then to global change ecological research in the 2OlOs.In the early stage，with the implementation of the policy of \"march to science\" and \"spring of science\", many scientists devoted themselves to basic research (Zhu, 1999). In the millennium, global drylands are facing numerous problems that pose severe challenges to research, management, and policy, and scientists are concerned about land degradation, poverty, safeguarding biodiversity, and other issues (Reynolds et al., 2007). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/33761c9ef8b02de526f78106fa70dc0fcabcfb6dd76cafcc7e17b0d9cd11a08b.jpg",
+        "img_caption": [
+            "Fig.6Temporal evolution of popular keywords in regard to CED studies.The horizontal axis indicates the time period,and boxes of different colors indicate diferent keywords.The size of each box represents the frequency during the time period.The lines between each box reflectthe temporal evolution,transfer,and inheritance of keywords. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Some topics， such as \"nitrogen\"， \"irrigation\"， \"agroforestry\"，\"grazing\"， and \"water use efficiency\", have gradually cooled down， while other hot topics， such as \"climate change\", \"sustainability\",and \"remote sensing\",have recently emerged (Fig. 6). Therefore,we further added a thematic analysis to understand the temporal evolution of keywords. \"Grazing\", \"agriculture\", \"climate change\", \"sustainability\",and \"remote sensing\" were motor themes over the past $3 0 \\mathrm { ~ a ~ }$ ； however, \"irrigation\" and \"water use efficiency\" were basic themes (Table 4).This was a very interesting phenomenon. Generally，motor themes are both important and well developed, while basic themes are important for a research field but are not well developed (Cobo et al.,2011). Therefore, it is not difficult to understand why \"climate change\", \"sustainability\", and \"remote sensing\" have been hot topics in recent years while \"irrigation\" and \"water use efficiency\" have gradually become less popular. Although \"grazing\" and \"agriculture\" were motor themes and important, they were studied intensively in the early stage (Fig. 6) and may have reached a botleneck through long-term development. The thematic analysis also showed that each keyword evolves into different themes over time (Cobo et al., 2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In drylands,agriculture represents a major economic activity,and approximately one-third of the population living in these Zones depends on it. However, studies have pointed out that water irrigation technology has not been improved in recent years (Echchelh et al.,2018).As the theme analysis showed that, although \"irrigation\" and \"water use efficiency\" were very important, they did not develop very well (Table 4). This may be the reason why these keywords did not appear recently (Fig. 6). In addition, we subsequently identified strategies aimed at taking advantage of emerging opportunities in remote sensing to overcome previous challnges (such as low vegetation signal-to-noise ratios, high soil background reflectance,and presence of photosynthetic soils) in drylands and to analyze drylands more accurately within the broader Earth system (Smith et al., 2019). Therefore,remote sensing technology has become a research hotspot in arid areas. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Many studies have found that soil carbon storage and plant and microbial biomasses are limited by nitrogen availability in drylands (Maestre et al., 2Ol6). In the early stage,scientists studied nitrogen intensively and thoroughly because of the importance of nitrogen on CED research. At present, \"nitrogen\" gradually cooled through long-term development and evolved into \"climate change\" (Fig. 6). Climate change is one of the major global change drivers affecting the functioning of drylands (Maestre et al., 2O16). Due to the vast area, sensitivity to global change, and intensive spatial variability in productivity, the responses of dryland ecosystems to climate change have important scientific implications for regional and global carbon cycle studies (Schimel,2010). Under the context of global change,understanding the impact of climate change on CED research in future scenarios is urgently needed (Yao et al., 2O2O). These results can help us understand why \"climate change\" has recently appeared frequently. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/314d1f08ef02b0afe1fdb6375c6266b493b6a330cbb48eae46608c3f054fd9a5.jpg",
+        "table_caption": [
+            "able 4Basic information of the thematic analysis on CED research "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Basic themes</td><td>Frequency</td><td>Motor themes</td><td>Frequency</td></tr><tr><td>Productivity</td><td>119</td><td>Sustainability</td><td>89</td></tr><tr><td>Photosynthesis</td><td>156</td><td>Eddy covariance</td><td>90</td></tr><tr><td>Biomass</td><td>157</td><td>Arid</td><td>90</td></tr><tr><td>Salinity</td><td>174</td><td>Remote sensing</td><td>99</td></tr><tr><td>Water</td><td>187</td><td>Production</td><td>102</td></tr><tr><td>Evapotranspiration</td><td>198</td><td>Agriculture</td><td>106</td></tr><tr><td>Yield</td><td>216</td><td>Climate</td><td>108</td></tr><tr><td>Water use efficiency</td><td>223</td><td>Grazing</td><td>114</td></tr><tr><td>Irrigation</td><td>228</td><td>Semi-arid</td><td>263</td></tr><tr><td>Drought</td><td>267</td><td>Climate change</td><td>395</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Understanding how drylands respond to ongoing environmental change is also extremely important for maintaining ecosystem service sustainability and global sustainable development (Maestre et al.,2016) since $90 \\%$ of the dryland population is located in developing countries (Lu et al.,2O18).Therefore,we discovered that the keyword \"sustainable\" entered the hot keyword list.The sustainability of drylands is a challenging issue because of their relatively low natural and socioeconomic carrying capacities. However, without the contribution of drylands and people living there, it is impossible to achieve the world's 2030 sustainable development goals (Lü et al., 2021).Therefore, it is a critical goal to study and accomplish ecological and socioeconomic sustainability in drylands (Wang et al., 2021). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In short, basic themes (such as \"water\"，\"yield\",and \"salinity\") and motor themes (such as \"climate change\", \"sustainability\",and \"remote sensing\") wil be the focus of research on CED. These results also indicated that multiple methods (remote sensing technology and various models) integrated to understand climate change and ecosystem sustainability are potential new research trends and hotspots in future CED studies. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on bibliometric analysis,we analyzed the annual publications,marked journals, marked institutions, marked countries, popular keywords,and their temporal evolution in regard to CED research from 1991 to 2020.Over the past $3 0 \\mathrm { ~ a ~ }$ ,the number of publications on CED research has increased significantly. Agricultural Water Management ranked first among alljournals and had the most citations.The ten marked institutions were centred in drylands in America, China, and Australia, which had the largest number and most citations of publications on CED research.The most frequently used keyword was \"climate change\",and the other keywords included the climate-related terms (such as \"drought\",\"precipitation\",\"temperature\",and \"rainfall\"), the main research contents (such as \"soil\",\"irrigation\", \"water use efficiency\",\"yield\",and \"wheat\"),and applied methods (such as \"model\", \"remote sensing\",and \"eddy covariance\"). Keywords could be classified into five clusters，indicating the five main research focuses on CED research: hydrological cycle, effects of climate change，carbon and water balance， productivity,and carbon-nitrogen-phospherous coupling cycles. We found that classical pedology and agricultural scienceresearch were the main topics in the 199Os,applied ecological research in the 2000s, and global change ecology research in recent years ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our findings indicated that CED research was greatly highlighted and developed in America, China,and Australia; however, there have only been few studies on CED research from countries in Africa and Central Asia. Therefore, developing countries need to further promote cooperation and communication with developed countries, especially in arid and semi-arid areas. In addition, our results may change over time because the bibliometric data are constantly updated and changing. Although the scope of search results is limited, our results can provide a good example for clarifying the temporal trends of CED research. Basic themes (such as \"water\",\"yield\",and \"salinity\") and motor themes (such as \"climate change\", \"sustainability\",and \"remote sensing\") will be the focus of research on CED.In particular, multiple integrated methods to understand climate change and ecosystem sustainability are potential new research trends and hotspots in future CED studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Key Research and Development Program of China (2016YFA0600104), the National Natural Science Foundation of China (41991234,31800406),and the International Partnership Program of Chinese Academy of Sciences(121311KYSB20170004). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abdi AM,Boke-OlenN,JinH,etal.2019.Firstasessmentof theplantphenologyindex (PPI)forestimatinggrospmay productivityinAfrican semi-arid ecosystems.InternationalJournalof Applied Earth Observationand Geoinformation,78: 249-260.   \nAhakpazF,AbdiH,NeyestaniE,etalO21.Genotype-by-environment interactionanalysisforgrainyieldofbarleygenotypes underdryland conditions and theroleof monthlyrainfall.Agricultural Water Management，245:1065，doi: 10.1016/j.agwat.2020.106665.   \nAhlstromA,RaupachMR,SchurgersG,etal.Ol5.Thedominantroleofsemi-aridecosystemsinthetrendandvariabilityof the land $\\mathrm { C O } _ { 2 }$ sink. Science,348(6237): 895-899.   \nArfaoui A,IbrahimiK,TrabelsiF.2O19.Biocharapplicationtosoilunderaridconditions:abibliometric studyofresearch status and trends.Arabian Journal of Geosciences,12:45,doi:10.1007/s12517-018-4166-2.   \nAria M,CuccurullC.2017.Bibliometrix:An R-tool for comprehensive science mapping analysis.Journal of Informetrics, 11(4): 959-975.   \nBarow CJ.1992.WorldAtlasof Desertification(United Nations EnvironmentProgramme),edited byN.MiddletonandD.S. G.Thomas.Edward Arnold,London,1992.ISBN0340 555122,£89.50(hardback),ix +69 ppLand Degradation& Development, 3(4): 249-249.   \nBerdugoM,KefiS,SoliveresS,etal.l7.lantspatialpaternsidentifyalternativeecosystemmutfunctionalityatesin global drylands.Nature Ecology& Evolution,1:3,doi:10.1038/s41559-016-0003.   \nBiederman JA,Scott RL,Bell T W,et al.2017. $\\mathrm { C O } _ { 2 }$ exchange and evapotranspiration across dryland ecosystems of southwestern North America. Global Change Biology,23(10): 4204-4221.   \nChen D,Liu Z,LuoZH,etal.2O16.Bibliometricandvisualizedanalysisof emergyresearch.Ecological Engineering,90: 285-293.   \nChen Z,Yu GR,Zhu XJ,et al.2015.Covariationbetwen grossprimary productionand ecosystemrespiration across space and the underlying mechanisms: A global synthesis.Agricultural and Forest Meteorology,2O3:180-190.   \nChen Z,YuGR,Wang QF.20l8.EcosystemcarbonuseefficiencyinChina:Variationand influence factors.Ecological Indicators,90:316-323.   \nChiu W T,Ho Y S.20o7.Bibliometric analysis of tsunami research.Scientometrics,73: 3-17.   \nChoiJH,YiSY,Lee KC.2011Analysisof keyword networks inMISresearchand implications for predicting knowledge evolution.Information & Management,48(8):371-381.   \nCobo MJ,Lopez-HerreraA G,Herrera-Viedma E,etal.20l1.Anapproach fordetecting,quantifying,andvisualizing the evolutioofaresearch field:Apracticalapplication totheFuzzySets Theoryfield.JournalofInformetrics,5(1):146-166.   \nEchchelhA,Hess T,Sakrabani R.20l8.Reusingoilandgas produced waterforirrigationof food cropsin drylands. Agricultural Water Management,206:124-134.   \nGrace J,Rayment M. 20oo.Respiration in the balance.Nature,404: 819-820.   \nHobbie SE,NadelhofferKJ,Hgberg P.2O02.Asynthesis:Theroleofnutrientsasconstraintsoncarbonbalances nboreal and arctic regions.Plant and Soil,242:163-170.   \nHuang J,LiY,Fu C,etal.2O17.Dryland climatechange:Recent progressand challenges.Reviewsof Geophysics,55(3): 719-778.   \nHuang JP,Yu HP,Guan XD,et al.2016.Accelerated dryland expansion under climate change.Nature Climate Change,6: 166-171.   \nJi Q,Pang XP,Zhao X.2014.A bibliometricanalysis of research on Antarcticaduring 1993-2012.Scientometrics，101: 1925-1939.   \nKouD,Ma WH,DingJZ,etal.2O18.Drylandsoils in northernChinasequestercarbon during theearly20Os warming hiatus period.Functional Ecology,32(6): 1620-1630.   \nKrishnan P,Meyers TP,Scott RL,etal.2012.Energyexchangeandevapotranspiration over two temperatesemi-arid grasslands in North America.Agricultural and Forest Meteorology,153: 31-44.   \nLiY Z,LiLH,Dong JQ,et al.2021.Assessing MODIScarbonand water fluxes ingrasslands and shrublands in semiarid regions using eddy covariance tower data.International Journal of Remote Sensing,42(2): 595-616.   \nLiu B,XiaoZN,Ma ZG.2010.Relationship betweenpan evaporationandactual evaporation in diferent humid and arid regions of China. Plateau Meteorology,29: 629-636. (in Chinese)   \nLiu XJ,ZhanFB,Hong S,etal.2012.Abibliometric studyofearthquakeresearch:190-20l0.Scientometrics,92:747-76.   \nLuYL,WangY,LiB,etal.O2o.Temporalandspatialvriations inhazeresearch:abbliometricanalysis.Enviromental Reviews,28(1): 12-20.   \nLuN,Wang M,NingB,etal.018.Researchadvancesinecosystemservicesidrylandsunderglobalenvironmentalchanges. Current Opinion in Environmental Sustainability,33:92-98.   \nLüYH,LuD,FengXM,etal.2O21.Multi-scaleanalysesontheecosystem services inthe Chinese LoessPlateau and implications for dryland sustainability. Current Opinion in Environmental Sustainability, 48:1-9.   \nMa XL,Huete A, Cleverly J,et al. 2016.Drought rapidly diminishes the large net $\\mathrm { C O } _ { 2 }$ uptake in 2011 over semi-arid Australia. Scientific Reports,6: 37747,doi: 10.1038/srep37747.   \nMaestreFT,EldridgeDJ,Soliveres S,etal.2O16.Structureand functioningof dryland ecosystems inachanging world. Annual Review of Ecology,Evolution,and Systematics,47: 215-237.   \nMagnaniF,MencuccniM,Borgheti M,etal.2Oo7.The humanfootprintintecarboncycleof temperateandborealforests. Nature,447: 849-851.   \nMenefeeD,RajanN,CuiS,etal.2O2o.CarbonexchangeofadrylandcotonfieldanditsrelationshipwithPlanetScopeote sensing data.Agricultural and Forest Meteorology,294:12,doi:10.1016/j.agrformet.2020.108130.   \nMiao LJ,Li SY, Zhang F,et al.2O2O.Future drought in the dry lands of Asia under the 1.5 and $2 . 0 ~ ^ { \\circ } \\mathrm { C }$ warming scenarios. Earth's Future,8(6):13,doi: 10.1029/2019EF001337.   \nOliveira JD,Pereira MG.2O21.Globalsoilscienceresearchondrylands:ananalysisofresearch evolution,colaboration,and trends.Journal of Soils and Sediments,21: 3856-3867   \nPiao $\\mathrm { ~ S ~ L ~ }$ ,Sitch S,CiaisP,etal.2013.Evaluationofterestrialcarboncycle models fortheirresponse toclimatevariabilityand to $\\mathrm { C O } _ { 2 }$ trends. Global Change Biology,19(7): 2117-2132.   \nPortnerHO.20o8.Ecosystem effects ofoceanacidificationin timesofocean warming:a physiologist's view.Marine Ecology Progress Series,373:203-217.   \nPoulterB,FrankD,CiaisP,etal.2O14.Contrbutionofsemi-aridecosystems tointerannual variabilityoftheglobalcarbon cycle.Nature,509: 600-603.   \nPravalie R.2016.Drylands extent and environmental sues.A global approach.Earth-Science Reviews,161:259-278.   \nReynoldsJF,Stafford SmithDM,LambinEF,etal.2007.Globaldesertification:Buildingasciencefordrylanddevelopment. Science,316(5826): 847-851.   \nSchimel D S.2010.Drylands in the earth system. Science,327(5964): 418-419.   \nSeneviratneSI,CortiT,DavinEL,etal.2l0.Investigatingsoilmoistureclimate interactionsinachangingclimate:Areview. Earth-Science Reviews,99(3-4): 125-161.   \nSmith W K,Dannenberg MP,Yan D,et al.2019.Remote sensing of dryland ecosystem structure and function: Progress, challenges,and opportunities.Remote Sensing of Environment, 233:111401,doi: 10.1016/j.rse.2019.111401.   \nSoegaard H,JensenNO,BoeghE,etalOo3.Carbodioxide exchangeoveragriculturallandscapeusing eddycorrelatioand footprint modelling.Agricultural and Forest Meteorology,114(3-4): 153-173.   \nStoyPC.2O18.Deforestation intensifies hot days.Nature Climate Change,8:366-368.   \nTagesson T,Fensholt R,CappelaereB,etal.2O16.Spatiotemporal variabilityincarbonexchange fluxesacros the Sahel. Agricultural and Forest Meteorology,226-227: 108-118.   \nTarinT,NolanRH,MedlynBE,etal.202o.Water-useeficiencyinasemi-aridwoodlandwithhighrainfallvariability.Global Change Biology,26(2): 496-508.   \nWang HB,LiX,XiaoJF,etal.2021.Evapotranspirationcomponentsand wateruse eficiency from desertto alpine ecosystems indrylands.AgriculturalandForestMeteorology,298-299:108283,doi:10.1016/j.agrformet.2020.108283.   \nWang S,SongS,ZhangJZ,etal.2021.Achievingafitbetweensocialandecological systems indrylands forsustainability. Current Opinion in Environmental Sustainability,48: 53-58.   \nWang Y,LaiN,ZuoJ,etal.20l6.Characteristicsandtrendsofresearchonwaste-to-energyincineration:Abibliometric analysis,1999-2015.Renewable and Sustainable Energy Reviews,66:95-104.   \nXiang HM,ZhangJE,ZhuQD,2015.Ascientometric analysis of worldwide soil carbon stocks research from 2000 to 2014. Current Science,109(3):513-519.   \nYang ZS,Zhang Q,HaoXC,etal.2019.Changes inevapotranspirationover globalsemiarid regions 1984-2013.Journalof Geophysical Research-Atmospheres,124(6):2946-2963.   \nYao JY,LiuHP,HuangJP,etal.2Oo.Acelerateddrylandexpansionregulatesfuture variabilityindryland grosprimary production.Nature Communications,11(1): 1665,doi: 10.1038/s41467-020-15515-2.   \nYiCX,PendallE,CiaisP.2015.Focusonextremeeventsandthecarboncycle.EnvironmentalResearchLeters,(7):7001, doi:10.1088/1748-9326/10/7/070201.   \nZhang K,KimballJS,NemaniRR,etal.215.Vegetation greningandclimatechange promote multidecadalrisesof global land evapotranspiration. Scientific Reports,5:15956,doi:10.1038/srep15956.   \nZhang Y,ChenYP.2020.Research trendsandareas offocusonthe ChineseLoess Plateau:A bibliometric analysis during 1991-2018.CATENA,194:104798,doi: 10.1016/j.catena.2020.104798.   \nZhu LL.1999.Basic research in China. Science,283: 637-637.   \nZscheischlerJ,ReichsteinM,Harmeling S,etal.2O14.Extreme events ingross primaryproduction:acharacterizatioacross continents.Biogeosciences,11: 2909-2924.   \nZyoud SH.2016.Global research trends of Midle Eastrespiratory syndrome coronavirus:a bibliometric analysis.BMC Infectious Diseases,16: 255,doi: 10.1186/s12879-016-1600-5. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

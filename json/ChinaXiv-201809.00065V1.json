@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "基于DRN和FasterR-CNN融合模型的行为识别算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨楠，杨莘，杜能(武汉科技大学 信息科学与工程学院，武汉 430081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统单人行为识别算法易受行人形态多样性、背景和光照等影响的问题进行了研究。基于扩张卷积残差网络DRN 在分类效果及目标检测网络Faster R-CNN在目标追踪方面的准确性，提出了一种DRN和Faster R-CNN的融合网络模型。该模型在FasterR-CNN中融入DRN的扩张卷积残差块代替原来的一般卷积层部分。并对融合模型进行了两方面的改进：在每一层前面添加一个batch normalization层；用三层扩张卷积残差块代替部分两层残差块。实验结果表明三种融合网络识别算法在Olympic sports dataset 数据库上较其他行为识别算法取得了更高的 mAP。其中，包含三层扩张卷积残差块的融合模型识别性能最好，mAP达到 $78 . 9 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：行为识别；DRN；FasterR-CNN 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.05.0354 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Behavior recognition algorithm based on DRN and Faster R-CNN fusion model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Nan, Yang Shen, Du Neng (School of Information Science&Engineering,Wuhan UniversityofScience&Technology,Wuhan430081,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Duetothetraditionalnglepersonbehaviorrecognitionalgorithmiseasilyafectedbythediversitybackgroundnd illuminationofpedestrians.BasedontheaccuracyofconvolutionresidualnetworkDRN inclassificationanddetection network Faster R-CNN in target tracking，we proposes a fusion network model composed of DRNanFaster R-CNN.The model is integrated with dilated convolutionresidual inFasterR-CNNtoreplace theoriginalconvolutionlayer.Wealso made two improvements to the fusion model,adda Batch Normalization layerin frontofeach layer;Used three levelsof dilated convolutionresidual blocks insteadofpartialtwo levels ofresidual blocks.Theexperimentalresultsshow thatthe thr fusion network recognition algorithms proposed inthis paper haveachievedahigher mAPthanother behaviorrecognitionalgorithms on the Olympic Sports Dataset database.Among them,the fusion model withthreelayers ofconvolutionresidual blocks has the best recognition performance, and mAP achieves $78 . 9 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Behavior recognition;DRN;Faster R-CNN ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，人体行为识别在智能视频监控、视频检索和人机交互等多种应用中引起了广泛的关注[1]。目前国内外对人体行为识别都投入了大量研究，也取得了一定进展，但复杂的背景、照明变化、外观差异和运动行为繁杂等因素使得人体行为识别成为具有挑战性的任务，所以目前行为识别的准确度并不能满足实用化的需求。学者们提出了多种行为识别算法，其中基于机器学习的方法吸引了广泛的关注[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对行为识别的研究，传统的机器学习算法一般由特征提取和行为分类两个部分组成，常见特征提取算法有LBP(localbinary patterns)、HOG(histogram of oriented gradients)[3] 和SIFT(scale-invariant feature transform)[4]等。常见的分类器则有决策树、支持向量机(support vector machine,SVM)[5,6]等。传统的行为识别算法采用提取特征再利用分类器进行分类，存在提取特征不全面，人力消耗过大等问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年，卷积神经网络已经广泛应用于图像分类和目标识别等任务中。在ImageNetILSVRC中的图像分类比赛中，2012年由Krizhevsky 等人[7]实现的AlexNet卷积神经网络以 $1 6 \\%$ 的错误率夺得比赛的冠军，并使得卷积神经网络在计算机视觉领域受到广泛的关注。在之后的比赛中，各类卷积神经网络层出不穷，由He等人[8实现的残差网络(ResNet)则是ILSVRC2015的冠军模型，ResNet的跳跃式链接能有效解决较深网络中“退化”的问题。扩张残差网络(dilated residual networks,DRN)[9]则是在ResNet的基础上结合了扩张卷积(dilated convolutions)的算法。该算法通过增大卷积的感受野(receptive field)从而达到替代池化层的目的，在维持原网络的感受野不变的同时又不会损失图像空间的分辨率，从而能够最大限度的保留输入图像中的细节信息。目标识别任务则可以划分为目标的追踪和行为的分类两部分，传统基于机器学习的行为识别算法一般没有进行目标的追踪，而是直接对行为进行分类，如依据时间、空间建模[10,11]直接对待测行为进行识别；人为提取行为特征再调用分类器进行分类[12]；文献[13]采用 $_ \\mathrm { H O G + C N N }$ 进行特征的提取，并通过时间排序结合支持向量机( $\\mathrm { T O I + S V M ) }$ 进行行为分类。目前，将目标的追踪和分类同时进行的算法在各种数据库中取得了前所未有的成果[14\\~17]。由Girshick等人[15]提出的基于R-CNN(regionswithCNN)目标检测算法将目标检测的平均分类精度由 $34 . 3 \\%$ 提升到 $6 6 \\%$ 。但R-CNN训练步骤较为复杂，且测试时间较长。针对这些问题，研究人员相继提出了FastR-CNN[16]，Faster R-CNN[I7]等算法，这两种算法采用卷积神经网络来进行目标的追踪和分类，不仅解决了R-CNN算法的检测耗时较长的问题，而且有效提升了目标检测的平均分类精度(mean average precision,mAP)。本文结合DRN在分类任务上的准确性以及FasterR-CNN在目标追踪上的精确度，融合成一个新的网络模型完成行为识别任务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 深度卷积神经网络模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CNN在普通神经网络的基础上，添加了能够实现卷积操作的卷积层和进行降采样的池化层。在卷积层中，每一个神经元只与上一层的部分神经元相连。每一个卷积层通常包含多个滤波器，即特征平面，每个滤波器包含 $\\mathtt { n } ^ { * } \\mathtt { n }$ 个神经元，n为大于等于1的数，对于上一层输入网络，经过每个滤波器的神经元共享权值，该权值即为卷积核。下面简要介绍DRN网络和FasterR-CNN网络的模型结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 DRN网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DRN是残差网络(ResNet)的一种变体。ResNet是由何恺明等人实现的一种特殊的残差网络，即跳跃链接型网络。随着神经网络的深度不断加深，模型的学习能力会在某个深度达到稳定，继续增加模型的层数时，模型前面一个细小的改变都会在模型后面引起很大的变化，即会出现“梯度消失”或“梯度爆炸”现象，此外，还会产生“退化”问题，即网络层数很深时，其学习能力不仅不会提升反而下降，此时训练准确率和测试准确率均在下降，深度网络就变得难以训练了，且这种学习能力的下降与过拟合无关。针对所谓的“退化”问题，DRN提出一种Residual结构，如图1所示。图中给出了一个两层的残差学习模块，即一个Residual的结构中含有两层卷积层，其中 $\\textbf { x }$ 为输入，relu为线性整流函数（RectifiedLinearUnit,Relu），也称为修正线性单元，是机器学习中较为普遍的激活函数（activationfunction）[18]，映射函数 $\\mathrm { H } ( \\mathbf { x } )$ 由 $\\mathrm { F } ( \\mathbf { x } )$ 改为 $\\mathbf { F } ( \\mathbf { x } ) { + } \\mathbf { x } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DRN在ResNet的基础上加入了扩张卷积的思想，通过扩张卷积可以在实现与原网络中一致感受野的同时保持输出尺寸与输入一致，且无须经过池化操作。实现过程如图2所示，(a)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表示扩张为1的卷积，与普通卷积操作无异，(b)(c)分别表示扩张为2和4的卷积操作。由于扩张卷积可以代替池化层，该算法在增大卷积感受野的同时能保持输出与输入尺寸一致，从而能够最大限度的保留输入图片中的细节信息，使DRN较ResNet在图片分类上的性能有了一定的提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/392a52f0ddc514b9eee3aa0431952f92be51071c5aef704e00eec7b25b30b13b.jpg",
+        "img_caption": [
+            "图1残差块结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f14253054b0735248e9a4ca8672985382fbcf8708ef78a140a2b1c8de2a6e6a1.jpg",
+        "img_caption": [
+            "图2扩张卷积实现过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2Faster R-CNN ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对R-CNN和FastR-CNN中 selective search 算法生成目标建议框的速度问题，FasterR-CNN引入了区域建议网络(region proposal network,RPN)代替Selective Search算法用于生成目标建议框[17]，极大地提升了目标建议框的生成速度。该部分的网络结构如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b50a9041d4493557bf1bbc41bded687d9ad799ab3cb6bab278c7c47d3a06e0d8.jpg",
+        "img_caption": [
+            "图3RPN网络结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RPN网络进行第一个卷积操作之前，在输入的每个点上都形成三种尺寸、三种比例的anchor，每个anchor在原图对应9个目标框。然后，原图得到的9个目标框在图片上以步长为16扫描全图，每步都得到9个目标框，扫描结束后得到的全部目标框数量一般在2万\\~4万。剔除跨越边界的目标框，剩下的6000\\~10000个目标框作为目标建议框带入RPN网络中进行训练。然后，将输入特征带入RPN网络开始运算，第一个卷积层采用512个 $3 ^ { * } 3$ 的滤波器，步长为1，填充为‘SAME'，此时能保持输入和输出尺寸一致，激励函数为Relu。“rpn_cls_score\"和“rpn_bbox_pred”为两个全连接层，分别输出目标框在前景目标上的得分和在回归信息。两个包含“reshape”的层为维度转换层，能根据需要将输入的维度进行变换。“rpn_cls_prob”层为一个softmax层。“proposal”为目标框生成层，该层中剔除跨越边界的目标框，并通过非极大值抑制(non-maximumsuppression,NMS)[19]结合目标框前景得分筛选部分目标框，最后通过目标框的回归信息得到RPN网络给出的目标建议框，最后选取256个目标建议框作为RPN网络的输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“rpn_loss_cls”和“rpn_loss_bbox”分别对应于RPN网络的得分损失值和回归损失值。将得分损失和回归损失按一定的权重相加即为RPN网络的损失，其损失函数的定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( \\{ p _ { i } \\} , \\{ t _ { i } \\} ) = \\frac { 1 } { N _ { c l s } } \\sum _ { i } L _ { c l s } ( \\ p _ { i } , p _ { i } ^ { * } ) + \\lambda \\frac { 1 } { N _ { r e g } } \\sum _ { i } p _ { i } ^ { * } L _ { r e g } ( t _ { i } , t _ { i } ^ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $i$ 为 anchor 的索引， $\\lambda$ 为10， $p _ { i }$ 表示网络对索引为 $i$ 的anchor对应目标框预测为目标的概率值。 $\\boldsymbol { p } _ { i } ^ { * }$ 是正确标注(GroundTruth,GT)目标框的概率，只能为0或1，若该目标框为前景目标， $p _ { i } ^ { * }$ 为1；若该目标框为背景， $\\boldsymbol { p } _ { i } ^ { * }$ 为 $0 \\circ \\ t _ { i }$ 为一个向量，表示预测目标框左上角和右下角四个坐标值， $t _ { i } ^ { * }$ 为GT目标框左上角和右下角的四个坐标值。式(1)中，分类损失 $L _ { \\mathit { c l s } }$ $( p _ { i } , p _ { i } ^ { * } )$ 是目标和非目标的对数损失，其损失函数公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { c l s } ( \\boldsymbol { p } _ { i } , \\boldsymbol { p } _ { i } ^ { * } ) { = } { - } l o g l \\boldsymbol { p } _ { i } ^ { * } \\boldsymbol { p } _ { i } + ( 1 - \\boldsymbol { p } _ { i } ^ { * } ) ( 1 - \\boldsymbol { p } _ { i } ) \\boldsymbol { J }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "回归损失 $L _ { r e g } \\left( t _ { i } , t _ { i } ^ { * } \\right)$ 表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { r e g } ( t _ { i } , t _ { i } ^ { * } ) { = } R ( t _ { i } - t _ { i } ^ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R ( x )$ 是文献[13]中定义的鲁棒损失函数，其表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns m o o t h _ { L 1 } ( \\boldsymbol { x } ) = \\left\\{ \\begin{array} { c c } { 0 . 5 \\boldsymbol { x } ^ { 2 } \\quad } & { i f \\left| \\boldsymbol { x } \\right| < 1 } \\\\ { \\left| \\boldsymbol { x } \\right| - 0 . 5 \\quad } & { o t h e r w i s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于DRN与FasterR-CNN融合模型的行为识别算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用Olympic sports dataset 数据库，该数据库于 2010年由斯坦福大学发布，分为篮球、举重、长跑等十六类体育运动，其中每一类有50个视频，部分示例见图4。本文在彩色数据库中挑选5000幅图像并进行GT目标框标注，同时将这些图像左右翻转得到5000张同样含有GT目标框的镜像图像。将这10000幅图像作为训练集。从原彩色数据库中另外挑选2000幅图像作为交叉验证集，5000幅作为测试集。在通过交叉验证集调整超参数及测试集检测训练结果时无须对目标框的位置进行验证，只需检测行为识别的准确性，因此交叉验证集和测试集无须手动标注GT目标框。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cebaa2273197fae60394d88f19ee4138c05a6a3f8d3d88b5dad1ba5a030af79d.jpg",
+        "img_caption": [
+            "图4Olympic sports dataset 数据库示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 融合网络结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5给出了融合的网络模型，该融合模型中橘黄色部分与1.2节FasterR-CNN 模型中的RPN网络一致。金色框部分的“Roi_data”层存储了RPN网络对输入图片推荐的感兴趣区域(RegionofInterest,Roi)。“Roi_pool5”为FasterR-CNN网络中提到的感兴趣区域(RegionofInterest,Roi)池化层，其主要作用是将全连接层的输入尺寸调整一致，都为 $7 ^ { * } 7$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/debad7dbbe3430ebbb172fe48608ab566d2d773b03d362a9096962d9772a2ea7.jpg",
+        "img_caption": [
+            "图5融合网络结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "融合模型中的虚线框为融合模型的主体，即FastR-CNN部分，本文采用DRN网络来代替原FasterR-CNN中所用的VGG16 网络[20]。由于Roi 池化层可以将所有通过该层的尺寸变为一致，所以该网络的输入图像不唯一。蓝色部分第一层为$7 \\times 7$ 的卷积层，填充(padding)为2，步长(stride)为2，16代表用于该层中卷积的滤波器个数，由于步长为2，输入经过该卷积层后尺寸变为原来的一半，融合进来的DRN网络，除去第一层为一个单独的卷积层和前半部分的三个池化层外，其余的部分皆为2层的扩张卷积残差块，其结构如图1所示，所有的扩张卷积残差块中两层卷积层皆为 $3 ^ { * } 3$ 的滤波器，步长都为1，填充皆为“SAME”方式。卷积层的滤波器个数以及卷积层中的扩张值不一致。图5中蓝色部分第二层中“DR1”代表该模型中的第一个扩张卷积残差块，每个扩张卷积残差块皆由两个扩张卷积层组成，数字16为滤波器数量，两个卷积层的滤波器个数都为16，1表示扩张值，两个卷积层的扩张值为1，即图2所示，采用1-dilated的处理方式。下面各层的扩张卷积残差块中数字含义相同。该模型中“pool1”，“pool2”，“pool3”是三个相同的最大值池化层，池化层尺寸都为 $2 ^ { * } 2$ ，步长为2，填充采用的方式为“SAME”，经过池化层后的输出尺寸为输入的一半。在第三个池化层之后，即从第7个扩张卷积残差块开始采用扩张为2或者4的卷积，如图2(b)(c)中所示，扩张卷积增大了感受野，代替了池化层，避免了尺寸的不断减小，因此第3个池化层后全部为扩张卷积残差块，无池化层或其他层。在第12个扩张卷积残差块之后的2个全链接与原FasterR-CNN 模型中VGG16后面的全连接层一致，神经元个数都为4096，且在全连接层之后连接一个dropout层用以减轻网络模型对训练集的过拟合。由于本文行为识别的类别共16类，加上背景一共17类，因此“cls_score”全连接层种共17个神经元，“cls_prob”为一个softmax分类函数，输出目标属于17种类别的概率。“bbox_pred”全连接层中含有68个神经元，即目标对应于17种类别的目标框的回归信息。该融合网络中其他部分的连接方式与原FasterR-CNN网络模型中一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 融合网络训练",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的融合模型采用交替训练的方式对整个模型进行训练。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)单独训练RPN网络。该部分反向传播采用动量法(momentum)，本次RPN网络训练总的迭代次数为30000次，学习率衰减系数为0.1，学习率衰减设置在第20000次迭代，即当迭代次数到20000的时候，将学习率乘以衰减系数，得到新的学习率为0.0001。采用原FasterR-CNN网络中训练好的RPN网络作为本文融合模型中RPN网络参数的初始值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)将第一步中训练RPN网络后输出的256个目标建议框带入融合网络的DRN 网络部分，并单独训练该部分。该网络的损失函数见式(1)。由于融合模型DRN网络部分的复杂度远大于RPN网络部分，其模型达到收敛更加不易，因此总迭代次数设置为60000次，学习率衰减系数为0.1，设置在第50000次迭代，momentum系数为0.9。采用均值和方差分别为0和0.0001的截断正态分布中的随机值作为初始值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)微调融合模型中的RPN网络部分，并且使融合网络中的RPN网络部分和FastR-CNN网络部分共享卷积层，即图5中虚线框部分的第一个普通卷积层到第12个扩张卷积残差块。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)微调融合模型中FastR-CNN网络部分的全链接层，同样保持融合网络中的RPN网络部分和FastR-CNN网络部分共享卷积层。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 改进的融合模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章针对融合模型可能出现的“梯度消失”和“梯度爆炸”问题进行了两方面的改进。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1添加 BN层的融合模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当网络的层数很深时，会出现“梯度消散”或“梯度爆炸”的现象。且会影响网络模型后面层的数据分布，在网络的训练中，若模型中的数据分布每次都不同，网络就需要不断的去拟合新的分布，导致网络的训练速度过慢。批量归一化(BatchNormalization,BN)可以有效的预防这个问题[26]。其原理即在深度网络模型的每一层之前添加一个可以学习的归一化层，表达式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { \\displaystyle \\mu _ { \\beta } \\gets \\frac { 1 } { m } \\sum _ { i = 1 } ^ { m } x _ { i } } \\\\ { \\displaystyle \\sigma _ { \\beta } ^ { 2 } \\gets \\frac { 1 } { m } \\sum _ { i = 1 } ^ { m } \\left( x _ { i } - \\mu _ { \\beta } \\right) ^ { 2 } } \\\\ { \\displaystyle \\hat { x } _ { i } \\gets \\frac { x _ { i } - \\mu _ { \\beta } } { \\sqrt { \\sigma _ { \\beta } ^ { 2 } + \\in } } } \\\\ { \\displaystyle y _ { i } \\gets \\gamma \\hat { x } _ { i } + \\beta } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i }$ 为该批次(batch)的第 $i$ 个输入， $\\mu _ { \\beta }$ 为输入均值， $\\sigma _ { \\beta } ^ { 2 }$ 为方差， $\\in$ 为一个很小的固定数，本文取0.0001。 $\\widehat { x } _ { i }$ 为第 $i$ 个新输入， $y _ { i }$ 为该 BN 层的输出，／和 $\\beta$ 都是该层中需要学习的参数。在测试阶段，BN层的输出为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\frac { \\gamma } { \\sqrt { V a r \\big [ x \\big ] + \\in } } x + \\left( \\beta - \\frac { \\gamma E \\big [ x \\big ] } { \\sqrt { V a r \\big [ x \\big ] + \\in } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $E [ x ]$ 和 $V a r [ x ]$ 分别为式(5)中所有批次的 $\\mu _ { \\beta }$ 的均值和 $\\sigma _ { \\beta }$ 的无偏估计，其他参数含义与式(5)中一致。在图5的融合模型中，虚线框部分各层前面添加一个BN层，即全链接层和普通卷积层前添加一个BN层，在DR1至DR12的扩张卷积残差块中，两个卷积层的前面也添加一个BN层。对于RPN网络部分每个网络层前面同样添加BN层。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2包含三层残差块的融合模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "原融合模型中扩张卷积残差块包含两层卷积层，对应图4.1中DR1至DR12部分。文献[9]提出了一种包含三层卷积层的扩张卷积残差块，结构如图6所示。图中的 $\\textbf { x }$ 为输入，relu为斜坡函数。映射函数与两层的扩张卷积残差块一致，为 $\\mathrm { F } ( \\mathbf { x } ) { + } { \\mathbf { x } } _ { \\mathrm { ~ } }$ 本文采用的三个卷积层尺寸固定，第一个和第三个卷积层的尺寸为 $^ { 1 ^ { * } 1 }$ ，其扩张值为1。第二个卷积层的尺寸为 $3 ^ { * } 3$ ，扩张值不固定。三个卷积层的滤波器个数不固定，步长为1，填充全部采用“SAME”方式。三层扩张卷积残差块在网络层数很深的时候效果优于两层扩张卷积残差块。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d15e0116f99331ae932019b67528ea585f2c1cbe393416f1a1863972b54cc32d.jpg",
+        "img_caption": [
+            "图6三层的扩张卷积残差块"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将图5中虚线框部分DR1至DR6替换为三层扩张卷积残差块，“pool3”层后面的残差块保持不变，仍为两层扩张卷积残差块。由于部分两层残差块替换为三层残差块，加深了网络模型，因此需要添加BN层，即网络各层前面增加一个BN层。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1融合网络",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次实验在GPU版本的tensorflow上执行，该融合模型的训练共耗时约3天左右。得到训练好的模型之后，将部分示例图片带入到训练好的模型中测试其行为识别性能，示例图片通过该模型之后得到多个目标框及其在某一个类别上的得分，采用阈值为0.7的NMS剔除掉多余目标框后保留每类概率大于0.8的目标框。示例图片识别效果如下图。两张输入的示例图片尺寸不一致，图7尺寸为 $6 0 0 ^ { * } 4 5 0$ ，两名篮球运动员被红色框标记出来，同时出了篮球行为的标签及概率值，即置信度。图8尺寸为 $4 8 0 ^ { * } 3 6 0$ ，掷链球行为的概率大于阈值0.8，同样被标记出来，然而该图中的其他人在16类行为上的概率未能超过0.8，因此这些人物未被标记出来。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac4223932e1e30245252255029733e604394a3fe2f3b0d5a97964e55a106389d.jpg",
+        "img_caption": [
+            "图7篮球行为识别示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/518bf8862d592efed5be072e26efa015daf63c86d4cfc2f795586e19b7406549.jpg",
+        "img_caption": [
+            "图8掷链球行为识别示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "检测完示例图片的识别效果之后，通过测试集计算该模型的mAP，并与基于该数据库的其他行为识别算法比较，结果如表1所示。由表中可以看出，本文提出的融合模型在检测指标mAP上高于其他行为识别算法、原FasterR-CNN模型及采用本文所用数据库的YOLO[26]和 SSD[27]算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b763123ebaad88160575f45fc3f83d4835fd0df6bdd9488990b4d00c9d87324a.jpg",
+        "table_caption": [
+            "表1本文算法及其他算法的mAP"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>本文算法及相关算法</td><td>mAP</td></tr><tr><td>文献[21]</td><td>69.2%</td></tr><tr><td>文献[22]</td><td>76.4%</td></tr><tr><td>文献[23]</td><td>73.7%</td></tr><tr><td>文献[24]</td><td>72.3%</td></tr><tr><td>文献[25]</td><td>75.1%</td></tr><tr><td>文献[10]</td><td>72.1%</td></tr><tr><td>原FasterR-CNN 模型</td><td>76.4%</td></tr><tr><td>YOLO</td><td>67.3%</td></tr><tr><td>SSD</td><td>76.8%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e92efe33a4dba91c7becf0911a9e3c24f2b5a976517b78b051e8f690caa6278.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>融合模型 77.2%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2改进的融合模型与原融合模型对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对两种改进的融合模型采用同样的方式进行训练，除改进部分外，其余的参数与原融合模型一致，在相同的测试集计算其mAP并进行对比。表2给出了实验对比结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a242c1c107b4d0927c28423453b1386fe81e30ce01c89c8cd5ab2f428568ffb.jpg",
+        "table_caption": [
+            "表2两种改进的融合模型与原融合模型的mAP"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>融合模型</td><td>mAP</td></tr><tr><td>融合模型</td><td>77.2%</td></tr><tr><td>添加 BN层的融合模型</td><td>78.5%</td></tr><tr><td>含三层残差块的融合模型</td><td>78.9%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，添加了BN层的融合模型的mAP较原融合模型有了一定的提升，达到了 $78 . 5 \\%$ ，表明原融合模型中存在轻微的“梯度消失”或“梯度爆炸”问题，而添加的BN层在一定程度上解决了该问题。包含三层扩张卷积残差块的融合模型识别效果最好，其mAP为 $78 . 9 \\%$ ，表明本文所用的融合网络具有了一定的深度，此时三层的扩张卷积残差块在分类任务上的效果优于两层的扩张卷积残差块。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于DRN网络在分类上的优势及FasterR-CNN网络在目标追踪上的精确性，本文将DRN网络部分的扩张卷积残差块引入到FasterR-CNN网络中代替原网络中的共享卷积层部分，形成一个融合网络。在该融合模型的基础上又提出了两种改进的融合模型：添加BN层的融合模型及包含三层扩张卷积残差块的融合模型。实验结果表明三种融合模型在分类指标mAP上均高于原FasterR-CNN 模型及应用该数据库的其他行为识别算法，其中，包含三层扩张卷积残差块的融合模型取得了最高的mAP，为 $78 . 9 \\%$ 。但本文提出的融合模型在检测速度上略有欠缺，仅能达到每秒五帧左右，而YOLO 和SSD 算法均能达到每秒45帧及58帧左右。因此，如何在保证识别效果持续提升的同时，加快检测速度成为了今后的主要研究方向之一。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 梅阳，王永雄，秦琪，等．一种基于关键帧的人体行为识别方法[J] 光学技术,2017,43 (4): 323-328.(Mei Yang,Wang Yongxiong,Qing Qi, et al.A method of human behavior recognition based on key frame [J]. Optical Technology,2017,43 (4): 323-328.)   \n[2]王忠民，张琮，衡霞，等.CNN与决策树结合的新型人体行为识别方法 研究[J].计算机应用研究,2017,34(12):3569-3572.(Wang Zhongmin, Zhang Zong,Heng Xia,et al.Research onnew human behavior recognition method combining CNN with decision tree [J].Application Research of Computers,2017,34 (12):3569-3572.)   \n[3]肖玉玲.结合 HOG//HOF 级联特征和多层分类器的人体行为识别[J]. 计算机工程与设计，2017,38(9):2567-2572.(Xiao Yuling.Human behavior recognition combined with HOG//HOF cascade features and multilayer classifier [J]. Computer Engineering and Design,2017,38 (9): ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2567-2572. ) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4]Quy NH, Quoc NH,Anh NTL,et al. 3D human face recognition using sift descriptors of face's feature regions [Cl/ Proc of the 1st IEEE International Conference on Computer Communication and the Internet. Cham: Springer, 2015: 117-126.   \n[5]Ayumi V, Fanany M I.A comparison of SVM and RVM for human action recognition [C]//Proc of Internationan Conference on Industrial Internet of Things. 2015.   \n[6] Prasad S, Ramkumar B. Passive copy-move forgery detection using SIFT, HOG and SURF features [Cl//Proc of IEEE International Conference on Recent Trends in Electronics,Information & Communication Technology. Cham: Springer,2017: 706-710.   \n[7]Krizhevsky A, Sutskever I,Hinton G E.ImageNet classification with deep convolutional neural networks [Cl// Proc of International Conference on Neural Information Processing Systems. Curran Associates Inc.2012:1097- 1105.   \n[8]He Kaiming, Zhang Xiangyu,Ren Shaoqing,et al.Deep residual learning for image recognition [Cl// Computer Vision and Pattern Recognition.2016: 770-778.   \n[9]Yu Fisher,Koltun V,Funkhouser T. Dilated residual networks [J]. Computer Science,2017: 636-644.   \n[10] Niebles JC,Chen C W,Li Feifei. Modeling temporal structure of decomposable motion segments for activity classification [C]// Proc of European Conference on Computer Vision. Springer-Verlag,2010: 392-405.   \n[11] Koller D,Tang K,Li FeiFei.Learning latent temporal structure for complex event detection [Cl// Proc of IEEE Conference on Computer Vision and Patern Recognition.IEEE Computer Society,2012: 1250-1257.   \n[12] Liu Jingen,Kuipers B, Savarese S.Recognizing human actions by atributes [C]// Computer Vision and Pattern Recognition.IEEE,2011: 3337-3344.   \n[13] Liu Fang,Xu Xiangmin,Qing Chunmei. Temporal order information for complex action recognition [C]/ Proc of IEEE International Conference on Consumer Electronics-China.IEEE,2017.   \n[14] Razavian A S,Azizpour H, Sullivan J,et al. CNN features off-the-shelf: an astounding baseline for recognition [Cl// Proc of IEEE Conference on Computer Vision and Pattern Recognition Workshops.Washington DC: IEEE Computer Society,2014: 512-519.   \n[15] Girshick R,Donahue J,DarrellT,et al. Rich feature hierarchies for accurate object detection and semantic segmentation [C]// Proc of IEEE Conference on Computer Vision and Pattrn Recognition. Washington DC:IEEE Computer Society,2014: 580-587.   \n[16] Girshick R.Fast R-CNN [J]. Computer Science,2015.   \n[17] Ren Shaoqing,He Kaiming,Girshick R,et al.Faster R-CNN: towards realtime object detection with region proposal networks [J]. IEEE Trans on Pattern Analysis & Machine Intelligence,2017,39(6): 1137-1149.   \n[18] Zhang Yongbing,Sun Lulu,Wang Xingzhen.ReLU convolutional neutral network-based image denoising method:,CN 106204468 A[P]. 2016.   \n[19]陈金辉，叶西宁．行人检测中非极大值抑制算法的改进[J].华东理工 大学学报：自然科学版,2015,41(3):371-378.(Chen Jinghui,Ye Xining. Improvement of non-maximum value suppression algorithm in pedestrian detection [J]. Journal of East China University of Science and Technology: Natural Science Edition,2015,41(3): 371-378.)   \n[20] Simonyan K,Zisserman A. Very deep convolutional networks for large-scale image recognition [J]. Computer Science,2014.   \n[21] Wang L, Yu Qiao, Tang X.Latent hierarchical model of temporal structure for complex activity classification.[J]. IEEE Trans on Image Processing, 2014, 23 (2): 810-22.   \n[22] Yan Shiyang,Smith JS,Lu Wenjin,et al. CHAM: action recognition using convolutional hierarchical attention model [J]. Computer Science.2017.   \n[23] Sharma S,Kiros R,Salakhutdinov R.Action recognition using visual attention [J]. Computer Science,2015.   \n[24] LiuFang, Xu Xiangmin,Qiu Shuoyang,et al. Simple tocomplex transfer learning for action recognition.[J]. IEEE Trans on Image Processing,2015, 25 (2): 949.   \n[25] Chen Xu, Hero A, Savarese S. Shrinkage optimized directed information using pictorial structures for action recognition [J]. Computer Science,2014.   \n[26] Redmon J, Divvala S,Girshick R,et al. You only look once: unified, realtime object detection [C]// Computer Vision and Patern Recognition.2016: 779-788.   \n[27] Liu Wei,AnguelovD,Erhan D,etal. SSD: single shot multibox detector[J]. Computer Science. 2015: 21-37.   \n[28] Ioffe S, Szegedy C. Batch normalization: accelerating deep network training by reducing internal covariate shift [J]. Computer Science.2O15: 448-456. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

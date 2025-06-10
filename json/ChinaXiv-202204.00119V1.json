@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "Xitunaspis, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Hao-Ran1,2.3 GAI Zhi-Kun2,3,4 CAI Jia-Chen2,3,4 LI Qiang5 ZHU Min2.3,4 ZHAO Wen-Jin2,3.4\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1Institute of Geology and Geophysics,Chinese Academy of Sciences Beijing 100029)   \n(2KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy of Sciences Beijing 100044)   \n(3 Universityof Chinese Academy of Sciences Beijing 10o049 \\* Corresponding author: zhaowenjin@ivpp.ac.cn)   \n(4CAS Center for Excellence inLife and Paleoenvironment Beijingl00044)   \n(5Research Center of Natural History and Culture,Qujing Normal University Qujing,Yunnan 655099) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract A new genus and species of the family Eugaleaspidae (Eugaleaspiformes, Galeaspida), Xitunaspis magnus gen. et sp. nov.,is described from the Lower Devonian Xitun Formation in Qujing, Yunnan Province, China. The new genus displays the diagnostic characters of the Eugaleaspidae,including a slit-like median dorsal opening, no inner cornual process,developed median dorsal canals,and only three pairs of lateral transverse canals extending from lateral dorsal canals.Different from the other eugaleaspids, $X .$ magnus possesses a large headshield with thick dermal bone and a more plesiomorphic sensory canal system.The phylogenetic analysis of the Galeaspida reveals that Xitunaspis clusters with Dunyu and Eugaleaspis to form a monophyletic clade Eugaleaspidae Liu,1965,and has a closer relationship with Dunyu than Eugaleaspis by sharing the thick dermal bone of the headshield. The new finding represents the first convincing fossil record of the Eugaleaspiformes in the middle Lochkovian Xitun Formation and adds to our knowledge about the morphology of eugaleaspiforms and the evolutionary pattern of the sensory canal system in the Eugaleaspiformes and even Galeaspida. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key WordsQujing, Yunnan; Early Devonian; Xitunaspis, Eugaleaspiformes; sensory canal system ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Sun HR, Gai Z K, Cai J C et al., in press. Xitunaspis,a new eugaleaspid fish (Eugaleaspiformes,Galeaspida) from the Lower Devonian of Qujing,Yunnan. Vertebrata PalAsiatica. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Galeaspida is an extinct clade of armored jawless stem-gnathostomes,which to date is exclusively known from the Silurian and Devonian of China and Vietnam (Janvier, 1996; Zhao,2005; Zhu and Gai, 2006; Gai and Zhu, 2017). Except for some basal or earlydiverging taxa (Hanyangaspidae, Xiushuiaspidae, and Dayongaspidae), Galeaspida can be classified into three major monophyletic groups: Eugaleaspiformes,Polybrachiaspiformes, and Huananaspiformes (Zhu and Gai,2006; Zhu et al., 2015). Recent fossil records show that the Eugaleaspiformes diverged from the basal galeaspids as early as the middle Telychian, Llandovery of Silurian (Liu et al., 2O21),and survived to the Pragian of Early Devonian, in which the youngest eugaleaspiforms Eugaleaspis and Pterogonaspis were known from the Xujiachong Formation in Qujing,Yunnan Province (Liu, 1975; Zhu, 1992). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abundant galeaspid fossils have been found from the Ludlow to Early Devonian strata in the Qujing area since the l96Os.The Early Devonian fish-bearing sequence includes the Xishancun, Xitun, Guijiatun, and Xujiachong formations in ascending order (Liu,2O02; Zhao and Zhu, 2010). The eugaleaspiform Eugaleaspis changi, the huananaspiform Nanpanaspis microculus, the polybranchiaspiforms Polybranchiaspis liaojiaoshanensis,Microhoplonaspis microthyris,Laxaspis qujingensis, and‘Laxaspis rostrata', in addition to Hyperaspis acclivis (incerti ordinis, probably a polybranchiaspiform) were documented from the Xitun Formation in Qujing (Liu,1965,1975; Pan, 1992; Zhu et al., 2015). However, it is noteworthy that $E$ changi, N. microculus, L. qujingensis, and ‘Laxaspis rostrata', which were assumed to be from the Xitun Formation at a site of Liaokuoshan (formerly Liaojiaoshan) in their original description (Liu,1965,1975), were later corrected to be from the middle part of the Xishancun Formation together with the arthrodire Szelepis yunnanensis (Liu, 1979; Zhu et al., 2015). Therefore, there is still no convincing fossil record of the Eugaleaspiformes in the Xitun Formation. Here we describe the first eugaleaspiform from the Xitun Formation, which may add to our knowledge about the morphology and evolution of eugaleaspiforms and shed new light on the evolutionary pattern of the sensory canal system in galeaspids. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Geological setting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The specimens of the new taxon were collected from the grey-green marl in the lower part of the Xitun Formation near the Xitun villge in Qujing City (Fig.1A). The fish-bearing Xitun Formation, mainly dominated by variegated marls, siltstones,and shales intercalated with mudstones, was conformably in contact with the Xishancun Formation and was overlaid by the Guijiatun Formation (Cai et al.,1994; Zhao and Zhu, 2010) (Fig.1B). Since 1960s,rich fossils of placoderms, sarcopterygians,actinopterygians,chondrichthyans, and galeaspids, constituting the famous Xitun Vertebrate Fauna, have been found in the Xitun Formation, which probably represents a foreshore-shallow water marine environment (Zhu, 2000; Zhao and Zhu,2O1O). The age of the Xitun Formation is middle-late Lochkovian based on the evidence from the associated spores, such as Apiculiretusispora plicata, Streelispora newportensis, Stenozonotriletes pusillus, Breconisporites breconensis,Apiculatisporites microcanonus,and Emphanisporites neglectus (Cai et al.,1994; Zhu et al., 2000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c85f84c1651d763767b33f68a4ae50010b4598bc6d31aefd91ad3dbd23875394.jpg",
+        "img_caption": [
+            "Fig.1Map showing the fossil locality(A) and the fish-bearing lithological column (B) in Qujing Revised from Si et al.,2015;Meng et al.,2021 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Material and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The new materials described herein include a nearly complete headshield (IVPP V 27400.1b,Fig. 2B) as well as its external mould (V 27400.la,Fig.2A) (holotype),and three incomplete headshields (V 27400.2-4, Figs.2C, D; 3A). They are housed in the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences (CAS). The specimens were prepared mechanically using a vibro tool with a tungsten-carbide bit or needle and measured with a digital vernier calliper. They were studied under an Olympus SZ61 zoom stereo microscope.We chose the Canon EOS 5D Mark II camera coupled with a Canon macro photo lens EF $1 0 0 \\ \\mathrm { m m } \\ 1 { : } 2 . 8 \\mathrm { L }$ to photograph the general morphology and used a Canon macro photo lens MP- $\\mathsf { E 6 5 ~ m m ~ } 1 { : } 2 . 8 \\ 1 { - } 5 { \\times }$ and Olympus SZ61 zoom stereo microscope for a close-up of the ornamentation.All fossils and data are accessible for examination in the collections of IVPP, CAS. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The specimen V 27400.4 (Fig. 3A) was scanned at IVPP, Beijing, China using a 225 $\\mathbf { k V }$ micro-CT (designed by the Institute of High Energy Physics, CAS). The specimen was scanned with a beam energy of $1 3 0 ~ \\mathrm { k e V }$ and a flux of $1 2 0 ~ \\mathrm { m A }$ at a detector resolution of $4 2 . 3 4 ~ \\mu \\mathrm { m }$ per pixel, using a $3 6 0 ^ { \\circ }$ rotation with a step size of $0 . 5 ^ { \\circ }$ and an unfiltered aluminum reflection target. A total of 1560 transmission images were reconstructed by means of a twodimensional reconstruction software (IVPP 225KVCT Reconstruction) developed by the Institute of High Energy Physics, CAS.Three-dimensional reconstructions were then generated using Mimics (Materialize version 19.O),and images exported from Mimics were processed in Adobe Photoshop and Adobe Ilustrator. We conducted the phylogenetic analysis within Galeaspida. The character data entry and formatting were performed with Mesquite (version 3.61) (Maddison and Maddison,2O19). The dataset was subjected to the parsimony analysis in TNT software package (Goloboff and Catalano, 2O16). The analysis was conducted using a traditional search strategy, with default settings apart from 10ooo maximum trees in memory and 1000 replications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Subclass Galeaspida Tarlo,1967 Order Eugaleaspiformes (Liu, 1965) Liu, 1980 FamilyEugaleaspidae (Liu, 1965) Liu, 1980 Xitunaspis gen. nov. ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Figs. 2-4) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Etymology From Xitun,in reference to the fossil site;and aspis (Gr.),meaning shield. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Type species Xitunaspis magnus gen. et sp. nov. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisA large-sized eugaleaspid fish with nearly semicircular headshield; rostral margin of headshield blunt; narrow leaf-shaped cornual process extending posterolaterally; inner cornual process absent; median dorsal opening longitudinal slit-like (length/width ${ > } 6$ ), extending posteriorly behind the level of the center of orbital openings and ending at the level of the posterior margin of orbital openings; orbital opening round, and dorsally positioned; typical eugaleaspid-type sensory canal system consisting of U-shaped median dorsal canals, posterior supraorbital canals, infraorbital canals,lateral dorsal canals,and three pairs of lateral transverse canals; ornamentation composed of large polygonal, flat-topping tubercles. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RemarksThe most obvious difference between Xitunaspis and other eugaleaspids is shown in the distribution pattern of the sensory canal system. The vestige of the median transverse canal issuing from the median dorsal canal and a short central canal differentiate it from other eugaleaspids. Xitunaspis differs from Eugaleaspis in its larger headshield, the median dorsal opening ending at the level of the posterior margin of orbital opening, and the thicker dermal bones of the headshield. Xitunaspis differs from Dunyu in its width/ length ratio of headshield being bigger than 1, the narrow leaf-shaped cornual processes extending posterolaterally, and the median dorsal opening ending at the level or in front of the posterior margin of orbital openings. Xitunaspis is distinguishable from Nochelaspis and Yunnanogaleaspis by its polygonal flat-topping tubercles and the absence of paired inner cornual processes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a8996ff06b7ab128dd2676261012cb379101849055a460b10e4d6961fcce38e.jpg",
+        "img_caption": [
+            "Fig.2 Photographs of Xitunaspis magnus gen. et sp. nov. from the Xitun Formation in Qujing A,B. the external (A) and internal mould (B) of a nearly complete headshield,IVPP V27400.1 (holotype); C,D. two incomplete headshields, V 27400.2 (C), V 27400.3 (D); E.close-up of the median dorsal opening of V 274oo.3.A. in ventral view; B-E. in dorsal view; scale bars equal $1 0 \\mathrm { m m }$ Abbreviations: c.cornual proces; ifc.infraorbital canal; md.o.median dorsal opening; orb.orbital opening; pi. pineal opening; ri. dermal ring encircling median dorsal opening; spi. spine-like ridge on the dermal ring of median dorsal opening "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Xitunaspis magnus gen. et sp. nov. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Etymology From magnus (Latin),meaning large,in reference to the large-sized headshield. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Holotype A nearly complete headshield and its external mould, IVPP V 27400.la, b. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referred specimens Three incomplete headshields,IVPP V 27400.2-4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Locality and horizon Qujing, Yunnan, China; Xitun Formation, Lochkovian, Lower Devonian. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis The only known species, diagnosis as that of the genus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Measurements See Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DescriptionThe holotype IVPP V 27400.1 (Fig. 2A,B) and referred specimens V 27400.2-4 (Figs. 2C, D; 3A) show that $X .$ magnus is a large-sized eugaleaspiform with a semicircular headshield. The measured data of five specimens demonstrate that the maximum length and width of the headshield are 1O3.4 and $1 4 6 . 0 \\mathrm { m m }$ ,respectively(Table1).The ratio of width/length of the headshield is about 1.4.The midline length of the headshield in the largest specimen is $8 5 . 0 \\ \\mathrm { m m }$ (Table 1). The exoskeleton composed of galeaspidin is thicker than that of any known galeaspids. Its thickness is about $1 . 0 \\mathrm { m m }$ .In dorsal view, the headshield is gently convex to form a domed structure with its highest point at the middle of the posterior margin. The rostral margin is smooth and blunt. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d046fcbd23c0b7eb31fdf7dd34e4e78b0bcc1813bf8c606594df06e04e6f0ffa.jpg",
+        "img_caption": [
+            "Fig.3 Photographs of Xitunaspis magnus gen. et sp. nov. and its CT slices A. photograph of a nearly complete headshield V 27400.4; B.CT slice of V 27400.4,showing the sensory canal system; C.close-up of the pineal opening (box inset1 ofFig.3A); D.close-up of tubercles (box inset 2 ofFig.3A); E.close-up of vascular plexus (box inset 3 of Fig.3A); F.close-up of vascular plexus (box inset 4 of Fig.3A); G. CT slice of V27400.4,showing the middle region of the headshield A,C-F. in ventral view;B,G.in dorsal view; scale bars inA,B and G equal $1 0 \\mathrm { m m }$ ,scale bars in C-F equal $1 \\mathrm { m m }$ .For abbreviations see Fig.2 plus cc.central canal; dcm.dorsal commissure; ldc.lateral dorsal canal; ltc.lateral transverse canal; mdc. median dorsal canal; $\\mathbf { s o c } _ { 1 }$ .anterior supraorbital canal; （204号 $\\mathbf { s o c } _ { 2 }$ . posterior supraorbital canal; v.mtc.vestige of median transverse canal "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The right cornual process is completely preserved in the holotype V 27400.1b (Fig. 2B). It is narrow leaf-shaped and about $2 7 \\mathrm { m m }$ long, extending posterolaterally. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The median dorsal opening (md.o, Figs.2A,B,D; 3A) is very long and longitudinally slit-like in shape with nearly parallel lateral margins. In the holotype, the long axis of the median dorsal opening is $3 4 . 2 ~ \\mathrm { m m }$ and the short axis is $4 . 2 \\ \\mathrm { m m }$ (Table1),with the ratio between them being about 8.1. The median dorsal opening extends posteriorly and ends at the level or a little in front of the posterior margin of orbital openings. The median dorsal opening is encircled by a dermal ring-like structure, which bears anteriorly-tapering spine-like ridges along its medial surface (Fig. 2E). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The orbital openings (Figs. 2A-D; 3A) are positioned dorsally on the headshield. They are nearly circular in shape and large,with a diameter of about $1 0 . 0 ~ \\mathrm { m m }$ (Table 1). In the holotype,the distance between the two orbital openings reaches $4 4 . 0 \\mathrm { m m }$ (Table 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The pineal opening is preserved in the holotype V 27400.1b (Fig.2B) and the referred specimen V 27400.4 (Fig.3A, C). It is located in the midline of the headshield just behind the level of the posterior margin of the orbital openings. The pineal opening is large and nearly round. The long and short axes of the pineal opening are about 3 and $2 . 5 \\mathrm { m m }$ ,respectively. The length of the pre-pineal region is about 50.0 and the length of the post-pineal region is about $3 4 . 1 \\mathrm { m m }$ (Table 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8315844b22b2810e8576b0ced7b348bfb8beee97825ad6619a0146b6f8ef275.jpg",
+        "table_caption": [
+            "Table 1 Measurements of Xitunaspis magnus gen. et sp. nov. from Qujing (mm) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Items</td><td colspan=\"5\">IVPPV27400</td></tr><tr><td>1a</td><td>1b</td><td>2</td><td>3</td><td>4</td></tr><tr><td>Maximum length of the headshield</td><td></td><td>103.4</td><td></td><td>一</td><td>一</td></tr><tr><td>Maximum width of the headshield</td><td>146.0</td><td>146.0</td><td></td><td></td><td></td></tr><tr><td>Length of the headshield inmidline</td><td>一</td><td>85.0</td><td></td><td></td><td></td></tr><tr><td>Diameter of the orbital openings</td><td>10.0</td><td>10.0</td><td>9.0</td><td>10.1</td><td>10.1</td></tr><tr><td>Distance between the orbital openings</td><td>44.0</td><td>44.0</td><td></td><td></td><td>39.0</td></tr><tr><td>Long axis of the median dorsal opening</td><td>34.2</td><td>34.2</td><td></td><td>一</td><td>34.0</td></tr><tr><td>Short axis of the median dorsal opening</td><td>4.2</td><td>4.2</td><td></td><td>一</td><td>3.5</td></tr><tr><td>Length of the pre-pineal region in midline</td><td>50.0</td><td>一</td><td></td><td></td><td>一</td></tr><tr><td>Length of the post-pineal region in midline</td><td>34.1</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We restore the sensory canal system, which is of the typical eugaleaspid-type,mainly based on the CT slices and 3D reconstruction of the referred specimen V 27400.4 (Figs. 3B, G; 4A).The identified sensory canal system of $X .$ magnus includes anterior supraorbital canals, posterior supraorbital canals,infraorbital canals,median dorsal canals, lateral dorsal canals, lateral transverse canals, dorsal commissure, and a central canal (Figs.3B,G; 4A, B). The anterior supraorbital canals are disconnected with the posterior supraorbital canals (Figs. 3B, 4A). The paired median dorsal canals are nearly parallel. Their anterior ends join smoothly with two posterior supraorbital canals at the level of the pineal organ, while their posterior ends converge with the dorsal commissure forming a U-shape (Figs.3B, G; 4A,B). The infraorbital canals connect smoothly with the lateral dorsal canals, positioned lateral to the orbital opening (Figs.2C,D; 3B). Three pairs of lateral transverse canals, extending from the lateral dorsal canals in either side of the headshield,are visible in the holotype V 27400.1b (Fig. 2B), CT slices, and 3D reconstruction of the specimen V 27400.4 (Figs.3B; 4A). Among the three pairs of lateral transverse canals,the first is the shortest and extends anterior-laterally same as the second,while the third is the longest and extends posterior-laterally. The dorsal commissure connects the median dorsal canals and lateral dorsal canals,and extends to the second lateral transverse canals (Figs.3B,G; 4A,B).A short central canal issues from the dorsal commissure (Figs. 3B, G; 4A, B), as in Changxingaspis gui and Sinogaleaspis shankouensis (Gai et al., 2020).The vestiges of median transverse canals, distinct in the CT slices and 3D reconstruction of the referred specimen V 27400.4 (Figs.3B, G; 4A), are positioned at the level between the first lateral transverse canals and the second lateral transverse canals. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The subcutaneous vascular plexus, well-developed at the boundary between the exo- and endo-skeletons, is composed of lots of irregular vascular canals (Figs. 2A; 3A,E, F). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The lateral margin of the headshield is smooth and the surface of the headshield is ornamented with large polygonal, flat-topping tubercles. Like Eugaleaspis changi, the tubercles on the margin of the headshield (about 4 tubercles per square millmeter) are slightly smaller than those on the center (about 3 tubercles per square millimeter) (Figs.2B-D; 3A,B, G; 4A, B). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cf4f78674b9ff682d1100195f7ebca5019c154e1f54f368dd26e16493dec702.jpg",
+        "img_caption": [
+            "Fig.4 Reconstruction of Xitunaspis magnus gen.et sp.nov.in dorsal view A. 3D reconstruction of IVPP V 27400.4 based on Micro-CT scanning; B.restoration of the headshield by Feng Mingjuan; C.life restoration by Shi Aijuan; scale bars equal $1 0 \\mathrm { m m }$ For abbreviations see Figs. 2-3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Phylogenetic analysis and results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To explore the phylogenetic position of Xitunaspis magnus gen. et sp. nov. within Galeaspida, we conducted an extended phylogenetic analysis based on the known datasets (Gai et al.,2005,2018; Zhu and Gai, 2006; Shan et al.,2020; Jiang et al.,2021; Meng and Gai, 2021),with the addition of three new characters. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[64] Central canal: (O) absent,(1) present. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[65] Dermal bone of headshield: (O) no less than $1 \\mathrm { m m }$ in thickness,(1) less than $1 \\mathrm { m m }$ in thickness. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[66] Vestige of median transverse canal: (O) absent,(1) present. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The data entry and formatting were performed using Mesquite version 3.61 (Maddison and Maddison, 2O19),and the dataset was subjected to the maximum parsimony analysis in TNT software package (Goloboff and Catalano,2016). The analyses were conducted using a traditional search strategy, with default settings apart from the following: lOooO maximum trees in memory and 10oO replications. Bremer support values were generated in TNT by applying the‘New Traditional Search’ using TBR and collecting suboptimal topologies with 1000 replicates. Bootstrap values were generated in TNT using 10OO replicates (Qiao et al., 2016).All characters were also treated as unordered and weighted equally,as in the earlier versions of this dataset (Shan et al., 2020; Jiang et al.,2021; Meng and Gai, 2021). The phylogenetic analysis included 48 galeaspid genera as ingroup taxa. The basal osteostracan genus Ateleaspis was selected as the outgroup for the phylogenetic analysis because Osteostraci is a sister taxon to Galeaspida (Fig. 5) and Ateleaspis is regarded as the ancestral taxon of osteostracans (Sansom, 20o9; Meng and Gai, 2021). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b1debce9d4941a5ca78306e3bd5b376e09c8d128559a854c8cafaf91c2b5dd9.jpg",
+        "img_caption": [
+            "Fig.5Strict consensus tree of the two most parsimonious trees and cladistically-based classification ofthe basal galeaspids andEugaleaspiformes The clade Polybranchiaspidida is simplified and sameas that in Shan et al.,2O2o.Tree length $= 1 9 8$ consistency index $( \\mathrm { C I } ) = 0 . 4 1 9 2$ ,retention index $( \\mathrm { R I } ) { } = 0 . 7 6 0 9$ , numbers on branches denote bootstrap frequencies (above node) and Bremer support values (below node), bootstrap frequencies below 50 are not shown "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The phylogenetic analysis yielded a strict consensus tree of two equally mostparsimonious trees (Fig.5) with a tre length of 198,the consistency index (CI) of 0.4192,and the retention index (RI) of O.7609. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion and conclusion ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.1Taxonomic implication ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xitunaspis magnus gen. et sp. nov. exhibits the diagnostic characters of the Eugaleaspidae, including a nearly semicircular headshield,a long and longitudinally slit-like median dorsal opening, absence of the paired inner cornual processes, and a typical eugaleaspid-type sensory canal system with three pairs of lateral transverse canals. Our phylogenetic analysis indicates that Xitunaspis, Dunyu, and Eugaleaspis cluster together to form the monophyletic clade Eugaleaspidae Liu,1965 defined by the synapomorphies such as the semicircular headshield and the absence of paired inner cornual processes,whereas Falxcornus,Tridensaspis, and Pterogonaspis cluster together to form another monophyletic group, the family Tridensaspidae Liu S F,1986 (Fig. 5). Within the Eugaleaspidae, Xitunaspis has a closer relationship with Dunyu than Eugaleaspis because they share the thick dermal bone of the headshield. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Eugaleaspiformes mainly consists of the families Shuyuidae, Sinogaleaspidae, Tridenaspidae,and Eugaleaspidae (Zhu et al., 2015; Shan et al., 202O). Yunnanogaleaspis and Nochelaspis were consistently resolved as a paraphyletic array between the Sinogaleaspidae and Tridensaspidae plus Eugaleaspidae. They were removed from the Eugaleaspidae to keep the stability of Eugaleaspidae (Shan et al., 202O; Meng and Gai, 2021) (Fig. 5). The finding of $X .$ magnus and its phylogenetic result corroborate the previous analyses. The emended Eugaleaspidae still represents the most diversified clade of Eugaleaspiformes. It now includes six species of three genera, among which the two species of Dunyu from the Ludlow (Silurian) of Yunnan and Chongqing (Liu, 1983; Zhu et al, 2012, Gai and Zhu, 2017) represent the earliest revival of Eugaleaspiformes from the Wenlock extinction of the Sinogaleaspidae. The Eugaleaspidae survived to the Pragian of Early Devonian. The youngest eugaleaspiform fish, Eugaleaspis xujiachongensis, was documented in the upper part of the Xujiachong Formation in Qujing, Yunnan Province (Liu,1975). Therefore, the Eugaleaspidae also represents the longest lasting family of Eugaleaspiformes extending from the Ludlow ( $^ { \\sim 4 2 7 }$ million years ago) to the Pragian ( ${ \\sim } 4 0 7$ million years ago). X. magnus, representing the first convincing fossil record of Eugaleaspiformes in the middle Lochkovian Xitun Formation, bridged the gap of Eugaleaspiformes between the early Lochkovian Xishancun Formation and the Pragian Xujiachong Formation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.2The evolutionary pattern of sensory canal system in galeaspids ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The sensory canal system of Galeaspida, also named the lateral line system, is a system of sense organs that serves to detect movements, vibration,and pressure gradients in the surrounding water (Shan et al., 2O2O). It usually exhibits a grid pattern consisting of two pairs of longitudinal canals and a varied number of transverse canals,and has an evolutionary trend from complex to simple pattern (Liu Y H, 1986; Zhu et al., 2015). The anterior supraorbital canals,posterior supraorbital canals,median dorsal canals,infraorbital canals,and lateral dorsal canals belong to the longitudinal canals,while the lateral transverse canals,dorsal commissure,and median transverse canals can be referred to the transverse canals (Liu Y H,1986).In general, the number, placement, and branching patern of the sensory canals in galeaspids varies significantly among different groups (Liu Y H, 1986; Shan et al., 2020). There are three evolutionary paterns of sensory canal system shown in galeaspids, i.e., the hanyangaspid-type pattern (first named here) with two median transverse canals and more lateral transverse canals issuing from the infraorbital canals and undeveloped supraorbital canals as in the basal galeaspids (Fig. 6A, B), the eugaleaspid-type pattern characterized by U-shaped median dorsal canals as in Eugaleaspiformes (Fig. 6C-J),and the polybranchiaspidtype pattern featured by V-shaped posterior supraorbital canal with one median transverse canal (dorsal commissures) as in Polybranchiaspiformes and Huananaspiformes (Fig. 6K-L) (Liu Y H, 1986; Shan et al., 2020). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the plesiomorphic galeaspid taxa, such as Hanyangaspis,Changxingaspis, and Dayongaspis, the transverse canals are very developed and the longitudinal canals are reduced, which should be plesiomorphic in the sensory canal pattern of Galeaspida. The transverse canals of Hanyangaspis include seven or eight pairs of lateral transverse canals and two pairs of median transverse canals (the second pair is equal to the dorsal commissure) (Fig. 6A). Nine pairs of lateral transverse canals and two pairs of median transverse canals can be observed in the headshield of Changxingaspis (Fig. 6B). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Compared with the basal galeaspids, the transverse and longitudinal sensory canals within Eugaleaspiformes are developed on the dorsal side of headshield and generally show a trend of the reduction of the transverse canals and the increase of the longitudinal canals except for in several genera of the families Shuyuidae and Sinogaleaspidae (Fig. 6C-J). The longitudinal U-shaped medial dorsal canal, which is usually regarded as a derived character in Eugaleaspiformes, is well developed in the families Sinogaleaspidae,Eugaleaspidae,and Tridenaspidae as well as in Nochelaspis (Fig. 6C-J). However, more than one of the median transverse canals are regarded as a primitive character found in the basal galeaspids as well as in the family Sinogaleaspidae (Shan et al., 2O2O). Therefore, the sensory canal system of the families Shuyuidae (without the medial dorsal canal) and Sinogaleaspidae (with three pairs of the median transverse canals) should represent a plesiomorphic condition of the Eugaleaspiformes. The sensory canal system of the families Eugaleaspidae and Tridenaspidae with the developed medial dorsal canals and a dorsal commissure,i.e., the typical eugaleaspidtype sensory canal system, may represent an apomorphic condition of the Eugaleaspiformes. One pair of vestiges of the median transverse canals can be observed in Xitunaspis,which may be the result of the incomplete degradation of the first paired median transverse canals. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8983f5ee63b0047a90bc15a5eac8c5d0667e76a501614a0cbd2fcc7db9bce68c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.6The sensory canal system of galeaspids in different groups (revised from Shan et al.,2020) A,B. plesiomorphic taxa: A.Hanyangaspis guodingshanensis (P'an et al.,1975; Pan,1986);   \nB. Changxingaspis gui (Wang,1991); C-J. Eugaleaspiformes: C.Meishanaspis lehmani (Gai etal.,2005); D.Rumporostralis xikengensis (Shan et al.,202O); E.Nochelaspis maeandrine (Zhu,1992); F. Dunyu longiforus (Zhu et al., 2012); G. Xitunaspis magnus;   \nH.Eugaleaspis changi (Liu,965); I.E. xujiachongensis (Liu,975);J.Pterogonaspis yuhai (Zhu,1992); K.Polybranchiaspiformes:Polybranchiaspis liaojiaoshanensis (Liu,1975); L.Huananaspiformes: Sanchaspis magalarostrata (Pan and Wang, 1981). Scale bars equal $1 0 \\mathrm { m m }$   \nAbbreviations:l-6.the first to sixth lateral transverse canal or median transverse canal issuing from lateral dorsal canal; a-c.the first to third lateral transverse canal issuing from the infraorbital canal; ic.inner cornual process; mtc. median transverse canal; nc.p. pore for passage of the neural canal; pb.w. postbranchial wal; poc. preorbital commissure; ro. rostral process; V.mdc.vestige of median dorsal canal; other abbreviations see Figs.2-3 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The finding of the new eugaleaspiform Xitunaspis magnus provides new evidence for the evolutionary pattern of sensory canals in galeaspids. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The sensory canal system in Polybranchiaspiformes and Huananaspiformes exhibits another evolutionary pattern,i.e.， the polybranchiaspid-type pattern without the median dorsal canals (Liu Y H, 1986). The typical polybranchiaspid-type sensory canal system is characterized by the longitudinal V-shaped supraorbital canals and a transverse dorsal commissure, together with the transverse lateral transverse canals and the longitudinal canals (mainly including the infraorbital canals and lateral dorsal canals). In general, the sensory canal number of the typical polybranchiaspid-type is between that of the typical eugaleaspidtype and hanyangaspid-type.For example, there are four pairs of the lateral transverse canals in Polybranchiaspis and five pairs in Sanchaspis,in addition to the developed longitudinal V-shaped supraorbital canals (Fig, 6K, L). Compared with the hanyangaspid-type, the sensory canal system of the polybranchiaspid-type still displays a trend of the reduction of the transverse canals and the increase of the longitudinal canals,although its median dorsal canal is not developed. The developed V-shaped posterior supraorbital canal is regarded as a derived character only found in both Polybranchiaspiformes and Huananaspiformes (Shan et al.,2020), while the absence of the median dorsal canal probably represents a plesiomorphic condition of the basal galeaspids. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In summary,the evolutionary patterns of the sensory canal system within the endemic Galeaspida can mainly be exhibited by the evolution and replacement among the hanyangaspid-type, the eugaleaspid-type, and the polybranchiaspid-type patterns. The latter two patterns evolved from the former, then developed independently. The findings of the oldest known eugaleaspiforms and polybranchiaspiforms in Llandovery of Silurian indicate the split among three patterns of the sensory canal system had been accomplished by the end of the early Silurian (Liu Y H,1986; Zhu et al., 2015; Gai et al., 2018). The trend towards simplification, together with the reduction of the transverse canals and the increase of the longitudinal canals,can be observed in the evolution history of galeaspids. The sensory canal system of plesiomorphic galeaspids has a grid distribution, but we are still not very clear about the process from the grid distribution of the primitive sensory canal system to the more simplified sensory canal system in the later period. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsWe are grateful to Cui Xindong and Peng Lijian for their fieldwork,Lu Xiufen for the specimen preparation, Hou Yemao for the computed tomography scanning and rendering,Feng Mingjuan for illustration (Fig. 4B),and Shi Aijuan for the life restoration (Fig. 4C). We would also like to thank two anonymous reviewers for their constructive comments on the manuscript. This work was supported by the Strategic Priority Research Program of CAS (XDB26000000), the National Natural Science Foundation of China (41972006, 42072026), Key Research Program of Frontier Sciences, CAS (QYZDB-SSW-DQC040), and the National Program for Support of Topnotch Young Professionals. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "滇东曲靖地区早泥盆世真盔甲鱼科一新属种",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "孙浩然1,2.3 盖志琨2.3.4 蔡家琛2.34 李强朱敏2,3,4 赵文金2.3,4(1中国科学院地质与地球物理研究所 北京100029)(2中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室 北京100044)(3中国科学院大学北京100049)(4中国科学院生物演化与环境卓越创新中心北京100044)(5曲靖师范学院自然历史文化研究中心云南曲靖655099)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "摘要：记述了采自云南曲靖下泥盆统西屯组中的真盔甲鱼科一新属种——硕大西屯鱼(Xitunaspismagnus gen.et sp.nov.)。新属具有真盔甲鱼科的典型特征，包括一个纵长裂隙状的中背孔、没有内角、发达的中背管以及只有3对从侧背管上伸出的侧横管等，但其具有大而厚的头甲以及更原始的感觉管系统等特征明显区别于其他真盔甲鱼类。系统发育分析表明，西屯鱼属(Xitunaspis)与盾鱼属 (Dunyu)和真盔甲鱼属(Eugaleaspis)共同组成一个单系类群———真盔甲鱼科支系(Eugaleaspidae Liu,1965),并且三者之间西屯鱼与盾鱼的亲缘关系更为密切。作为曲靖地区下泥盆统西屯组中确凿的真盔甲鱼类化石记录，西屯鱼的发现加深了对真盔甲鱼类形态学及真盔甲鱼目乃至盔甲鱼亚纲中感觉管系统演化的认知。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "关键词：云南曲靖；早泥盆世；真盔甲鱼类，西屯鱼；感觉管系统",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cai CY,FangZJ,LiXXetal.,994.NewadvanceinthestudyofbiostratigraphyofLowerandMiddleDevonianarie continental transitional strata in east Yunnan. Sci China Ser B,24: 634-639   \nGai ZK,ZhuM,2O17.EvolutionaryHistoryofAgnathansand theirFosilRecords in China.Shanghai: Shanghai Scientific & Technical Publishers.1-314   \nGai Z K,Zhu M,Zhao WJ,2O05.New material ofeugaleaspids from the Silurian of Changxing,Zhejiang,China,witha discussion on the eugaleaspid phylogeny.Vert PalAsiat,43: 61-75   \nGai ZK,LuLW,Zhao WJetal.,2018.New polybranchiaspiform fishes (Agnatha: Galeaspida)from the middlePalaeozoic of China and their ecomorphological implications.PLoS One,13: e0202217   \nGai ZK,Shan XR,SunZXetal.,2O20.Aredescriptionof the Silurian Sinogaleaspis shankouensis (Galeaspida,stemGnathostomata) from Jiangxi, China.Vert PalAsiat, 58:85-99   \nGoloboff PA,Catalano SA,2016.TNT version 1.5,including a full implementationof phylogenetic morphometrics. Cladistics,32: 221-238   \nJanvier P,1996.Early Vertebrates.Oxford: Clarendon Press.1-393   \nJiang WY,ZhuM,ShiXDetal.,2O21.Qushiaspis,anewgenusofgantarostrataspidfish(Galeaspida,stem-Gnathostomata) from the Lower Devonian of Yunnan, China.Hist Biol,doi:10.1080/08912963.2021.1888086   \nLiu SF,1983.Agnathan from Sichuan, China. Vert PalAsiat,21: 97-102   \nLiu SF,1986.Fossil eugaleaspid from Guangxi. Vert PalAsiat, 24: 1-9   \nLiu YH,1965.New Devonian agnathans of Yunnan. Vert PalAsiat,9: 125-134   \nLiu YH,1975.Lower Devonian agnathans of Yunnan and Sichuan. Vert PalAsiat,13: 202-216   \nLiu YH,1979.On the arctolepid Arthrodira from Lower Devonian of Yunnan. Vert PalAsiat,17: 23-34   \nLiuYH,1980.Anomenclatural noteon Eugaleaspis for GaleaspisLiu,1965;Eugaleaspidae for GaleaspidaeLiu,196; Eugaleaspiformes for Galeaspiformes Liu,1965.Vert PalAsiat,18: 256-257   \nLiu YH,1986.The sensory line system of the Galeaspida (Agnatha). Vert PalAsiat, 24: 245-259   \nLiu YH,2O02.The age and correlation of some Devonian fish-bearing beds of East Yunnan, China.Vert PalAsiat, 40: 52-69   \nLiuYL,Huang LB,Zong R Wet al.,2021.Theoldest eugaleaspiform (Galeaspida)from the SilurianFentouFormation (Telychian,Llandovery)of Wuhan,South China.JSyst Palaeont,19: 253-264   \nMaddison W P, Maddison DR,2019. Mesquite: a modular system for evolutionary analysis. Version 3.61.http:// mesquiteproject.org   \nMeng XY,Gai ZK,2O21.Falxcornus,anew genus of Tridensaspidae (Galeaspida,stem-Gnathostomata) fromtheLower Devonian in Qujing,Yunnan,China.Hist Biol,doi: 10.1080/08912963.2021.1952198   \nMeng XY, Zhu M,Gai Z K,2021.Redescription of Nochelaspis maeandrine,the largest eugaleaspiform from the Lower Devonian of Qujing, Yunnan. Vert PalAsiat, 59: 257-272   \nPan J,1986.Notes on Silurian vertebrates of China.Bull Chinese Acad Geol Sci,15:161-190   \nPan J,1992.New galeaspids (Agnatha) from the Silurian and Devonian of China.Beijing: Geological Publishing House. 1-86   \nPan J,Wang ST,1981.New discoveries ofpolybranchiaspids from Yunnan Province.VertPalAsiat,19:113-121   \nP'an K,Wang ST,LiuYP,1975.The Lower Devonian Agnatha andPisces from South China.Prof Pap Stratigr Paleont, 1: 135-169   \nQiao T,King B,Long JA etal.,2016.Early gnathostome phylogenyrevisited: multiple method consensus.PLoSOne,1: e0163157   \nSansom R S,209.Phylogeny,clasification and character polarityof the Osteostraci (Vertebrata).JSyst Palaeont,7: 95-115   \nShan XR,Zhu M,Zhao WJet al.,2020.A new genus of sinogaleaspids (Galeaspida,stem-Gnathostomata) from the Silurian Period in Jiangxi, China.PeerJ,8: e9008   \nSi C D,Gai Z K, Zhao WJ,2015.A new species of Siyingia from the Lower Devonian Xishancun Formationof Qujing, Yunnan. Vert PalAsiat,53: 1-13   \nTarlo LB,1967.Agnatha.In: Harland WB ed.The Fossil Record.London: The Geological Society of London. 629-636   \nWang NZ,1991.Two new Siluriangaleaspids (jawless craniates）from Zhejiang Province,China,with a discussionof galeaspid-gnathostome relationships.In: Chang MM,Liu YH,Zhang G R eds.Early Vertebrates and Related Problems of Evolutionary Biology. Beijing: Science Press. 41-66   \nZhao W J,2Oo5. Galeaspids of the midde Paleozoic in China and its palaeogeographic significance.JPalaeogeogr,7: 305-320   \nZhao W J,Zhu M,2010.Siluro-Devonian vertebrate biostratigraphy and biogeographyof China.Palaeoworld,19: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4-26 Zhu M,1992.Two new eugaleaspids,with a discussion on eugaleaspid phylogeny.Vert PalAsiat,30:169-184 Zhu M,20oo.Catalogueof Devonian vertebrates in China,with noteson bio-events.CourForsch-InstSenckenberg,223: 373-390 Zhu M,Gai ZK,20o6.Phylogenetic relationships of galeaspids (Agnatha). Vert PalAsiat,44:1-27 Zhu M,Wang N Z,Wang JQ,200,Devonian macro-and microvetebrate assemblagesof China.CourForsch-Inst Senckenberg,223:361-372 Zhu M,LiuYH,Jia,LTetal.,2o12.Ane genusof eugaleaspidiforms (Agnatha: Galeaspida)from theLudlow,Silurianof Qujing,Yunnan,southwestern China.Vert PalAsiat, 5O:1-7 Zhu M etal.,2O15.Palaeovertebrata inica,Vol.I,Fishes,Fascile1,Agnathans.Beijing: Science Press.1-294 ",
+        "page_idx": 15
+    }
+]

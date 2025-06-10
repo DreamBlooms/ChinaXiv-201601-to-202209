@@ -1,0 +1,451 @@
+# 基于随机无迹 $\sigma$ 变异的改进HHO算法及应用
+
+陈强1，李康顺²
+
+(1．东莞城市学院计算机与信息学院，广东东莞 523419;2.华南农业大学 数学与信息学院/软件学院，广州510642)
+
+摘要：针对传统哈里斯鹰优化算法(Harris Hawk Optimization Algorithm，HHO)求解精度低、迭代后期收敛慢以及易早熟收敛的不足，提出一种融合随机无迹o变异的改进哈里斯鹰优化算法(Opposite-Support Harris HawkOptimization Algorithm，OSHHO)。利用伪对立和伪反射学习机制加快 HHO 算法的寻优效率，提升全局收敛能力；提出能量因子非线性周期性调整机制均衡算法的全局搜索与局部开发能力；设计随机无迹变异机制使算法能够跳离局部极值点，进一步提高算法的寻优精度和收敛速度。在八个基准函数上测试了OSHHO 算法的寻优性能。为了验证算法的实用性，利用改进哈里斯鹰优化算法 OSHHO 优化支持向量机模型(Support Vector Machine，SVM)的关键参数，并将模型应用于新冠肺炎疫情传播预测问题。随机选取若干天新冠肺炎疫情日增确认人数作为样本数据，利用训练好的 SVM模型预测新冠肺炎疫情变化趋势。结果证实算法具有更高的预测精度和更快的收敛速度。
+
+关键词：哈里斯优化算法；伪对立学习；伪反射学习；无迹变异；传播预测；支持向量机；新冠肺炎中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2022.03.0079
+
+Improved Harrs hawk optimization algorithm based on random traceless o mutation and ITS applications
+
+Chen Qiang1, Li Kangshun² (1.School of Computer & Information,Dongguan City College,Dongguan Guangdong 523419,China; 2.Collegeof Mathematics & Informatics/Collge ofSoftware,South China Agricultural University,Guangzhou 510642, China)
+
+Abstract:Aimingatthe shortcomingsofthe traditionalharris hawk optimizationalgorithm,suchaslowprecision,slow convergence sped in te later iterationand fallintoeasilya prematureconvergence.An improved hais hawk optimization algorithm OSHHO integrating with random traceless mutation is proposed.The pseudo back and pseudo reflection learning mechanism is usedtospeedupthe optimization eficiencyofHHO algorithmand improve the globalconvergence ability.The nonlinear periodic adjustment mechanismof energy factor is proposed to improve the global search and local development abilityofthe equalizationalgorithm.Therandom traceless point mutation mechanism is designed to make the algorithm jump away from the local extreme points,and further improve theoptimization acuracyandconvergence speedofthe algorithm. Eight benchmark functions are used to test the optimization performanceofOSHHO algorithm.And two typical engineering design problems are solved by OSHHO to further versifythe feasibilityand the eficiencyof the proposed algorithm.The results show that the new algorithm has higher prediction accuracy and faster convergence speed.
+
+Key words: Haris hawk algorithm;pseduo opposition-learning; pseduoreflection-learning;traceless mutation;diffuse prediction; support vector machine;covid-19
+
+# 0 引言
+
+群体智能优化算法是通过模拟自然界物种的社会行为机制衍生出的一种优化方法，这类算法具有适应性、自学习以及群体搜索性特征，在解决高维复杂和多极值优化问题时，拥有传统方法不可比拟的优势。近年来，已经涌现出鲸鱼优化算法(Whale Optimization Algorithm,WOA)[1]、灰狼优化算法(Grey Wolf Optimization,GWO)[2]、蝴蝶优化算法(ButterflyOptimization Algorithm,BOA)[3]和遵海鞘算法(Salp SwarmAlgorithm,SSA)[4]等一批寻优能力较强的群体智能算法。而哈里斯鹰优化算法(HarrisHawks Optimization,HHO)[5]是在2019年由学者Heidari 等提出的一种群体智能优化算法，模拟了自然界中哈里斯鹰的群体捕食行为，以种群对猎物的包围、攻击过程建立算法的数学模型。HHO算法综合性能较优、结构简单，同时依赖参数少，一经提出，已经广泛应用于诸多领域，如：图像处理[]、神经网络训练7、电力控制[8]、TDOA定位[9等。然而，标准HHO算法本身还是存在着易早熟收敛、面对高维复杂问题求解精度低、以及无法有效平衡全局搜索与局部开发过程的不足。为此，出现了许多针对标准哈里斯鹰优化算法的改进算法，这类算法通常针对某一方面来增强其局部开发能力或全局搜索能力。一种思路是融合其他智能算法对其进行改进，如文献[10]将差分进化算法DE 融入HHO 算法，将种群分割为两个部分分别以HHO 和DE 算法进行个体进化，能够提高寻优精度。文献[11]将正余弦算法SCA融入HHO算法，设计了混合变异算法，一定程度避免了HHO算法陷入局部最优，算法搜索能力得到了改进。文献[12]则将模拟退火算法SSA和HHO融合，以此提高HHO算法的全局收敛能力，并以参数寻优问题进行了验证。另一种思路是利用相关方法对HHO的结构进行改进，如文献[13]在HHO 算法的搜索阶段利用柯西变异机制提高种群多样性，并利用随机收缩改进能量方程，均衡全局搜索和局部开发过程。文献[14]引入方形邻域拓扑结构改进种群个体组成，通过纵横双向随机觅食提高HHO 算法的开发能力。文献[15]引入伪对立学习提高HHO 算法初始种群的多样性，进一步提升了算法的收敛速度。文献[16]设计了基于对立学习和正交学习的改进HHO算法，融合了具有正交学习能力的个体更新机制，局部搜索精度和种群多样性都得到了提高。文献[17]则提出具有信息交换共享功能的HHO 算法，以平衡搜索和开采性能。
+
+针对已有研究的分析发现，目前改进HHO算法主要针对全局搜索或局部开发能力中的某一方面进行强化，在局部开发和全局搜索过程间的平衡、避免局部极值及提升全局寻优精度等综合性能方面仍有许多不足。尤其针对高维度单峰或多峰复杂优化问题时，HHO算法的寻优精度和求解效率还需进一步提升。为此，本文将提出一种结合无迹 $\sigma$ 变异的哈里斯鹰优化算法，利用伪对立和伪反射学习机制加快HHO算法的寻优效率，提升全局收敛能力；提出能量因子非线性周期性调整机制均衡算法的搜索与开发能力；设计随机无迹变异机制使算法能够跳离局部极值点。通过这种多策略的全面改进机制对HHO算法的改进，并将改进HHO 算法对 支持向量 机(Support VectorMachine,SVM)的关键参数进行寻优，建立一种面向新冠肺炎疫情传播的预测模型。
+
+# 1 哈里斯鹰优化算法HHO
+
+哈里斯鹰优化算法HHO 是一种通过观察哈里斯鹰群的协作捕食行为而建立的随机式群搜索算法。该种群可以通过追踪、围捕、攻击对猎物进行高效协作捕食。HHO算法中，一个哈里斯鹰个体(位置)可视为问题的一个候选解，捕食过程中逐步靠近猎物，即最优解。算法可以分为全局搜索、搜索至开发间的切换以及局部开采三个阶段。
+
+# 1.1 全局搜索阶段
+
+这一阶段中，哈里斯鹰会以两种等概率的随机行为方式搜索猎物，具体数学模型为
+
+$$
+X _ { i } ( t + 1 ) = \left\{ \begin{array} { l l } { X _ { r a n d } ( t ) - r _ { 1 } \mid X _ { r a n d } ( t ) - 2 r _ { 2 } X _ { i } ( t ) \mid , q \geq 0 . 5 } \\ { ( X _ { r a b b i t } ( t ) - X _ { m } ( t ) ) - r _ { 3 } ( l b + r _ { 4 } ( u b - l b ) ) , q < 0 . 5 } \end{array} \right.
+$$
+
+其中： $X _ { r a n d } ( t )$ 为迭代 $t$ 时随机选择个体的位置， $X _ { i } ( t )$ 为哈里斯鹰个体 $i$ 的原位置， $X _ { i } ( t { + } 1 )$ 为个体 $i$ 的更新位置， $X _ { r a b b i t } ( t )$ 为迭代 $t$ 时种群中的全局最优个体， $q$ $\cdot \ r _ { i } ( \mathrm { i } \mathrm { = } 1 , 2 , 3 , 4 )$ 为(0,1)间的随机量， $[ l b , u b ]$ 为个体搜索空间下界与上界范围， $X _ { m } ( t )$ 为迭代 $t$ 时种群的平均位置，即：
+
+$$
+X _ { _ { m } } ( t ) = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } X _ { i } ( t )
+$$
+
+其中： $N$ 为哈里斯鹰的种群规模。
+
+# 1.2搜索至开发的过渡切换
+
+HHO算法实现从全局搜索到局部开发间的过渡切换由逃逸能量因子 $E$ 控制，该参数定义为
+
+$$
+E = 2 E _ { 0 } ( 1 - \frac { t } { T _ { \operatorname* { m a x } } } )
+$$
+
+其中： ${ { E } _ { 0 } }$ 为猎物初始的逃逸能量，且 $E _ { 0 } \in ( - 1 , 1 )$ 为随机量， $t$ 为当前迭代次数， $T _ { \mathrm { m a x } }$ 为最大迭代次数。切换原理为：若 $| E | { \geq } 1$ 算法进入全局搜索；否则，进入局部开采。
+
+# 1.3 局部开发阶段
+
+这一阶段中，HHO 算法可以按四种不同策略对猎物进行搜索，包括软包围、硬包围、渐近快速俯冲式软包围和渐近快速俯冲式硬包围。令为猎物的逃脱概率，若 $\lambda { < } 0 . 5$ ，则认为猎物成功逃脱；若 $\lambda { \ge } 0 . 5$ ，则猎物逃脱失败。逃逸能量因子$E$ 表示哈里斯鹰的软硬攻击策略，若 $| E | { \geq } 0 . 5$ ，则执行软包围；若 $| E | < 0 . 5$ ，则执行硬包围。由此共有以下四种捕食策略：
+
+a)软包围。若 $\lambda { \ge } 0 . 5$ 且 $| E | { \geq } 0 . 5$ 时，表明猎物拥有足够能量逃脱，哈里斯鹰会环绕包围猎物，逐渐消耗猎物能量，在猎物失去能量时完成猎物捕食。其数学模型为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l } { X _ { i } ( t + 1 ) = \Delta X ( t ) - E \big | J X _ { r a b b i t } ( t ) - X _ { i } ( t ) \big | } \\ { \Delta X ( t ) = X _ { r a b b i t } ( t ) - X _ { i } ( t ) } \end{array} \right. } \end{array}
+$$
+
+其中： $\triangle X ( t )$ 为猎物与哈里斯鹰个体位置的间距， $\scriptstyle { \mathcal { I } } = 2 ( 1 - r _ { 5 } )$
+
+$r { \bar { \bf s } }$ 为(0,1)间的随机量。
+
+b)硬包围。若 $\lambda { \ge } 0 . 5$ 且 $| E | < 0 . 5$ 时，表明猎物没有足够能量逃脱，哈里斯鹰会迅速捕食猎物。其数学模型为
+
+$$
+X _ { i } ( t + 1 ) = X _ { r a b b i t } ( t ) - E | \Delta X ( t ) |
+$$
+
+c)渐近快速俯冲式软包围。若 $\lambda { < } 0 . 5$ 且 $| E | { \geq } 0 . 5$ 时，表明猎物仍有能量逃脱，但哈里斯鹰种群会环绕、包围并追捕猎物，该数学模型为
+
+$$
+X _ { i } ( t + 1 ) = \left\{ \begin{array} { l l } { Y : X _ { r a b b i t } ( t ) - E \mid J X _ { r a b b i t } ( t ) - X _ { i } ( t ) \mid , F ( Y ) < F ( X _ { i } ( t ) ) } \\ { Z : Y + S \times L F ( D ) , F ( Z ) < F ( X _ { i } ( t ) ) } \end{array} \right.
+$$
+
+其中： $D$ 为问题维度， $s$ 为大小为 $D { \times } 1$ 的(0,1)间随机行向量，$L F ( )$ 为服从Levy飞行分布的函数，计算方法为
+
+$$
+L F ( x ) = 0 . 0 1 { \times } \frac { \mu \times \sigma } { \mid \nu \mid ^ { 1 / \beta } } , \sigma = ( \frac { \Gamma ( 1 + \beta ) \times \sin ( \pi \beta / 2 ) } { \Gamma ( 1 + \beta / 2 ) \times \beta \times 2 ^ { \scriptscriptstyle ( \beta - 1 ) / 2 } } )
+$$
+
+其中： $\mu , ~ \nu$ 为(0,1)间随机量， $\beta { = } 1 . 5$ 。
+
+d)渐近快速俯冲式硬包围。若 $\lambda { < } 0 . 5$ 且 $| E | < 0 . 5$ 时，表明猎物没有充足能量逃逸，哈里斯鹰种群会环绕建立一个硬包围捕食猎物，该数学模型为
+
+$$
+X _ { i } ( t + 1 ) = \left\{ \begin{array} { l l } { Y : X _ { r a b i t } ( t ) - E \mid J X _ { r a b i t } ( t ) - X _ { m } ( t ) \mid , F ( Y ) < F ( X _ { i } ( t ) ) } \\ { Z : Y + S \times L F ( D ) , F ( Z ) < F ( X _ { i } ( t ) ) } \end{array} \right.
+$$
+
+# 2 改进哈里斯鹰优化算法OSHHO
+
+# 2.1伪对立和伪反射学习机制
+
+对立学习(Opposition-basedLearning,OBL)可以通过同步考虑候选个体及其对立解的方式，通过择优保留至下一代种群的方式提升种群多样性，从而提升智能优化算法的求解精度和收敛速度。相关模型为：令 $d$ 维空间内个体 $i$ 的位置$X _ { i } { = } ( x _ { i , 1 } , x _ { i , 2 } , . . . , x _ { i , d } )$ ， $x _ { i , j } \in [ l b _ { j } , u b _ { j } ]$ ， $[ l b _ { j } , u b _ { j } ]$ 为个体在 $j$ 维空间取值范围， $j { = } 1 , 2 , . . . , d .$ 个体 $i$ 的对立点为 $X _ { i } \mathop { : = } ( x _ { i , 1 } \ ^ { , } , x _ { i , 2 } \ ^ { , } , . . . , x _ { i , d } \ ^ { , } )$ 个体 $i$ 的伪对立点为 $X _ { i } \stackrel { \prime \prime } { = } ( x _ { i , 1 } \stackrel { \prime \prime } { , } x _ { i , 2 } \stackrel { \prime \prime } { , } . . . , x _ { i , d } \stackrel { \prime \prime } { ) }$ ，个体 $i$ 的伪反射点为 $X _ { i } ^ { , , , , } { = } ( x _ { i , 1 } ^ { , , , , } , x _ { i , 2 } ^ { , , , } , . . . , x _ { i , d } ^ { , , , , } )$ ，定义分别为
+
+$$
+{ x _ { i , j } } ^ { \prime } = l b _ { j } + u b _ { j } - x _ { i , j }
+$$
+
+$$
+{ x _ { i , j } } ^ { \mathrm { { * } } } \mathrm { { = } } r a n d [ ( l b _ { j } + u b _ { j } ) / 2 \mathrm { { , } } x _ { i , j } \mathrm { { ' } } ]
+$$
+
+$$
+{ x _ { i , j } } ^ { * * } = r a n d [ { x _ { i , j } } , ( l b _ { j } + u b _ { j } ) / 2 ]
+$$
+
+在二维空间中，个体 $\scriptstyle { \chi = } ( x _ { 1 } , x _ { 2 } )$ 的伪对立点和伪反射点的取值范围如图1所示。伪反射点 $X ^ { \prime \prime } { = } ( x _ { 1 } \ ^ { \prime \prime } , x _ { 2 } \ ^ { \prime \prime } )$ 的取值范围为区域 $A$ ，伪对立点 $X ^ { \prime \prime } { = } ( x _ { 1 } \ ^ { , , } , x _ { 2 } \ ^ { , , } )$ 的取值范围为区域 $B$ 。根据图示结果，伪反射点 $X$ "比伪对立点 $X$ "更接近于候选解，可以在候选解的邻近区域进行充分的局部开发。伪对立点离候选解位置较远，则可以实现更广泛的全局搜索，开辟候选解未探索的空间。
+
+![](images/2fa6caea518639515048d7b21fc3472f6619773c0e1dcff89c8834e8f803ea4a.jpg)  
+图1伪对立点和伪反射点在搜索空间内的分布  
+Fig.1Distribution of pseudo opposition points and pseudo reflection points in search space
+
+对于HHO 算法而言，当 $| E | { \geq } 0 . 5$ 且 $\lambda { \ge } 0 . 5$ 时，猎物拥有足够能量以跳跃式逃脱包围，这使得哈里斯鹰个体需要扩大搜索范围来捕获猎物。为此，在软包围时期的位置更新中引入伪对立学习机制。根据图1所示结果，伪对立点离候选解的位置较远，在远离候选解的区域内生成当前解的伪对立解后，个体能够实现更广泛的全局搜索，拓展候选解未搜索过的区域，以此增强该过程中的种群多样性，并最后通过贪婪选择策略保留原个体和伪对立解个体进入下一代种群。令$X _ { i , o l d } ( t { + } 1 )$ 为 HHO算法软包围时的位置更新，则引入伪对立学习后的位置更新方式为
+
+$$
+X _ { i } ( t + 1 ) = \left\{ \begin{array} { l l } { X _ { i , o l d } ( t + 1 ) , f ( X _ { i , o l d } ( t + 1 ) ) < f ( X _ { i } " ( t + 1 ) ) } \\ { X _ { i } " ( t + 1 ) , f ( X _ { i , o l d } ( t + 1 ) ) \geq f ( X _ { i } " ( t + 1 ) ) } \end{array} \right.
+$$
+
+其中：
+
+$$
+X _ { i , o l d } ( t + 1 ) = \Delta X _ { i } ( t ) - E \big | J X _ { r a b b i t } ( t ) - X _ { i } ( t ) \big |
+$$
+
+$$
+X _ { i } " ( t + 1 ) = ( x _ { i , 1 , o l d } " ( t + 1 ) , . . . , x _ { i , d , o l d } " ( t + 1 ) )
+$$
+
+$$
+x _ { i , j , o l d } " ( t + 1 ) = r a n d [ ( l b _ { j } + u b _ { j } ) / 2 , l b _ { j } + u b _ { j } - x _ { i , j , o l d } ( t + 1 ) ]
+$$
+
+当 $| E | < 0 . 5$ 且 $\lambda { \ge } 0 . 5$ 时，猎物没有足够能量逃脱，这使得哈里斯鹰个体会在小范围内迅速捕食猎物。为此，在硬包围时期的位置更新中引入伪反射学习机制。根据图1所示结果，伪反射点更加接近候选解，在邻近候选解的区域内生成当前解的伪反射解后，个体能够实现更强的局部开发能力，在有限的空间内实现精细搜索，并通过贪婪选择策略保留原个体和伪反射解个体进入下一代种群。引入伪反射学习后的位置更新方式为
+
+$$
+X _ { i } ( t + 1 ) = \left\{ \begin{array} { l l } { X _ { i , o l d } ( t + 1 ) , f ( X _ { i , o l d } ( t + 1 ) ) < f ( X _ { i } ^ { \mathbf { \textsf { m } } } ( t + 1 ) ) } \\ { X _ { i } ^ { \mathbf { \textsf { m } } } ( t + 1 ) , f ( X _ { i , o l d } ( t + 1 ) ) \geq f ( X _ { i } ^ { \mathbf { \textsf { m } } } ( t + 1 ) ) } \end{array} \right.
+$$
+
+其中：
+
+$$
+X _ { i , o l d } \left( t + 1 \right) = X _ { r a b b i t } ( t ) - E \mid \Delta X _ { i } ( t ) \mid
+$$
+
+$$
+X _ { i }  " ( t + 1 ) = ( x _ { i , 1 , o l d } " ( t + 1 ) , . . . , x _ { i , d , o l d } " ( t + 1 )
+$$
+
+$$
+x _ { i , j , o l d } " ( t + 1 ) = r a n d [ x _ { i , j , o l d } ( t + 1 ) , ( l b _ { j } + u b _ { j } ) / 2 ]
+$$
+
+通过在局部开发过程中引入伪对立学习和伪反射学习机制，根据个体不同的搜索策略，能够加快HHO 算法的寻优效率，提升全局收敛能力。
+
+# 2.2随机无迹点变异机制
+
+在 HHO 算法迭代寻优过程中，迭代后期种群个体均会向着全局最优解 $X _ { r a b b i t }$ 所在区域逼近，这会导致种群多样性缺失，迭代停滞进而得到局部最优解，这也是智能优化算法的固有不足。为此，OSHHO 算法引入一种针对当前最优解$X _ { r a b b i t }$ 的随机无迹 $\sigma$ 点变异机制，使算法具备跳离局部最优的能力。无迹 $\sigma$ 点变换主要通过随机变量均值 $x _ { a \nu g }$ 及其方差值$S D _ { x }$ 产生 $2 d { + } 1$ 个随机点，用于评估随机变量函数 $\scriptstyle { y = g ( x ) }$ 的均值和方差。对称无迹 $\sigma$ 点的生成方式为
+
+$$
+\left\{ \begin{array} { l l } { \xi _ { 0 } ^ { ~ \prime } = x _ { a \nu g } , } \\ { \xi _ { i } ^ { ~ \prime } = x _ { a \nu g } + ( \sqrt { ( d + \kappa ) S D _ { x } } ) _ { i } , i = 1 , 2 , . . . , d } \\ { \xi _ { i + d } ^ { ~ \prime } = x _ { a \nu g } - ( \sqrt { ( d + \kappa ) S D _ { x } } ) _ { i } , i = 1 , 2 , . . . , d } \end{array} \right.
+$$
+
+其中， $\scriptstyle \kappa = a ^ { 2 } ( d + \lambda ) - d , \lambda = 3 - d$ ， $\mathbf { \Delta } _ { a }$ 表示极小正数， $d$ 为问题空间维度， $x _ { a \nu g }$ 为变量 $x$ 的均值， $S D _ { x }$ 为变量 $x$ 的协方差矩阵， $( ) _ { i }$ 表示 $( d + \kappa ) S D _ { x }$ 的平方根矩阵的第 $i$ 列。无迹 $\sigma$ 点通过函数$y _ { i } { = } \underline { { \operatorname { g } } } ( \xi _ { i } { } ^ { , } )$ 的传播，可以生成 $2 d { + } 1$ 个 $y$ 值。则随机变量 $y$ 的均值 $y _ { a \nu g }$ 和方差 $S D _ { y }$ 的估计分别为
+
+$$
+y _ { a v g } = { \frac { 1 } { 2 d + 1 } } \sum _ { i = 1 } ^ { 2 d + 1 } y _ { i }
+$$
+
+$$
+S D _ { Y } = { \frac { 1 } { 2 d + 1 } } \sum _ { i = 1 } ^ { 2 d + 1 } ( y _ { i } - y _ { a v g } ) ( y _ { i } - y _ { a v g } ) ^ { T }
+$$
+
+如图2为三维空间中，即 $d { = } 3$ 时无迹 $\sigma$ 点的分布示意图。
+
+利用随机无迹 $\sigma$ 点对HHO 算法中的全局最优解 $X _ { r a b b i t } ( t )$ 进行变异的主要思路是：将最优解 $X _ { r a b b i t } ( t )$ 所处位置作为均值，对其进行随机无迹变换，在最优解 $X _ { r a b b i t } ( t )$ 的邻近区域内作进一步高质量局部开发，提升 HHO 算法的寻优精度。对最优解 $X _ { r a b b i t } ( t )$ 进行 $\sigma$ 点变异，生成 $2 d { + } 1$ 个随机变异个体，变异个体如下：
+
+$$
+\left\{ \begin{array} { l l } { { X _ { 0 } } ^ { \prime } = X _ { r a b b i t } ( t ) } \\ { { X _ { i } } ^ { \prime } = X _ { r a b b i t } ( t ) + r _ { 6 } ( \sqrt { ( d + \kappa ) S D _ { X } } ) _ { i } } \\ { X _ { i + d } ^ { \prime } = X _ { r a b b i t } ( t ) - r _ { 6 } ( \sqrt { ( d + \kappa ) S D _ { X } } ) _ { i } } \end{array} \right.
+$$
+
+$$
+r _ { 6 } = \cos ( \frac { \pi } { 3 } \cdot \frac { t } { T _ { \mathrm { m a x } } } )
+$$
+
+其中， $i \mathrm { = } 1 , 2 , . . . , d$ ， $S D _ { X }$ 为协方差矩阵， $r _ { 6 }$ 为控制因子，用于控制在最优解邻近区域内的开采过程。OSHHO 算法实施个体变异扰动后，将从生成的变异个体中选择最优个体作为新的种群最优解，可表示为
+
+$$
+X _ { r a b b i t } ( t + 1 ) = \arg \operatorname* { m i n } \{ f ( X _ { i } ^ { \phantom { * } } ) \}
+$$
+
+![](images/dc7ffc5b14386858337fe671cfc3ad4030f7193a1edb008a78224821ecae5b84.jpg)  
+图2 $\scriptstyle \mathrm { d } = 3$ 时σ点分布  
+Fig.2Distribution of o points when $\mathrm { d } { = } 3$
+
+# 2.3能量因子非线性调整机制
+
+对于HHO 这类群体智能优化算法而言，全局搜索与局部开发过程的均衡切换对算法寻优极为关键。算法迭代早期，需要更强大的全局搜索能力，以便维持种群分布的多样性；而在迭代后期，则需要更好的局部开发能力，以保证算法在局部范围内的精细开采，加快算法收敛。由HHO 算法执行过程可知，逃逸能量因子 $E$ 决定了HHO 算法的全局搜索到局部开采之间的切换，是衡量HHO 算法寻优能力的重要指标。当 $| E | { \geq } 0 . 5$ 时，哈里斯硬个体进行软包围(渐近快速俯冲式软包围)，种群将扩大搜索范围，对应于算法的全局搜索阶段；当 $| E | < 0 . 5$ 时，哈里斯硬个体进行硬包围(渐近快速俯冲式硬包围)，种群将缩小搜索范围，对应于算法的局部开发阶段。然而，式(3)表明， $E$ 值在迭代过程中是线性单周期递减的，这并不符合哈里斯鹰种群需要多轮次协同围捕猎物的自然规律即：线性递减的 $E$ 值会使得每次迭代中的能量变化 $\triangle X ( t )$ 是常值。为此，OSHHO算法引入一种针对能量因子的非线性周期性调整策略，描述哈里斯鹰围捕猎物的过程。具体地，在因子 $E$ 的更新公式中以对数函数描述非线性周期性，具体定义为
+
+$$
+E = 2 E _ { \mathrm { 0 } } [ 1 - \ln ( 1 + \frac { t } { T _ { \mathrm { m a x } } } ( e - 1 ) ^ { 3 } ) ]
+$$
+
+其中， $\mathbf { \Psi } _ { t }$ 为当前迭代次数， $T _ { \mathrm { m a x } }$ 为最大迭代次数， $e$ 为自然常量， ${ { E } _ { 0 } }$ 为猎物的初始能量。根据式(26)，迭代早期， $E$ 的衰减速度较慢，迭代后期， $E$ 的衰减速度变快。如此，迭代早期,OSHHO算法的种群能够进行更加充分的全局搜索，最大限度地提升种群多样性；迭代后期，OSHHO算法能够更快的收敛，从而更均衡的实现迭代早期全局搜索与迭代后期局部开发间的稳定切换，进一步提高算法的寻优精度和收敛速度。图3为OSHHO 算法的执行流程。
+
+# 3基于 OSHHO 算法优化支持向量机的新冠肺炎疫情传播预测模型
+
+# 3.1支持向量机SVM预测新冠肺炎疫情传播
+
+2019年年末爆发的新冠肺炎让中国居民始料未及，该传染病具有传播感染快、死亡率高、持续时间长和防疫难度大的特点，对国内经济及医疗卫生体系造成了巨大冲击。在抗击新冠肺炎过程中，除生物医疗工作者在加紧研制疫苗，相关研究人员也在通过利用数学模型对疫情传播预测进行研究。如：文献[18]针对疫情首个爆发城市武汉封城前后的疫情传播模型进行分析，通过差分递推和SIR模型建立疫情传播的预测模型。文献[19]利用次指数增长拟合疫情爆发早期状态，并对传播模式进行建模。文献[20]将长短期记忆网络LSTM和SEIR模型融合，建立了针对新冠肺炎疫情传播的预测模型LS-Net，其预测精度优于传统SEIR 模型。文献[21]建立了基于极端梯度提升树 XGBoost 的新冠肺炎疫情传播预测模型，模型具有良好的预测能力。受此启发，本文的目标是结合群体智能优化算法和支持向量机SVM模型，建立新冠肺炎疫情传播的预测模型。
+
+![](images/16e62bb503898fb4e19c71c5f3da46f590f41a4dab01469f848e58a63bc69bf4.jpg)
+
+根据SVM模型可知，惩罚参数 $\boldsymbol { \mathscr { c } }$ 和宽度参数 $\sigma$ 是影响预测模型最关键的两个参数。参数 $\mid c \mid$ 表示预测模型复杂度与误差逼近的折中因子，参数 $\sigma$ 用于控制核函数的径向范围。若 $\mathbf { \Psi } _ { c }$ 值较大，则便于实现更高的数据拟合度，但相应会降低模型的泛化能力，反之亦然；而若 $\sigma$ 值较大，则会降低模型的复杂度和数据的线性可分割度，较小的 $\sigma$ 值则可能导致数据的严重过拟合，预测模型复杂度也将趋近无穷。由于两个参数对模型的泛化能力和预测精度都有着直接影响，新冠疫情预测的SVM 模型无论是复杂度，还是其泛化能力都取决于能否求解最优的(c,σ)对。标准SVM模型对关键参数的取值具有很大随机性，本文将利用OSHHO算法对SVM的关键参数寻优，再利用优化后的SVM模型对新冠肺炎疫情传播趋势进行预测。
+
+# 3.2预测算法OSHHO-SVM
+
+利用OSHHO 算法对 SVM 的惩罚因子 $\mathbf { \Psi } _ { c }$ 和宽度参数 $\sigma$ 进行自适应寻优，构建最优支持向量机预测模型，实现对新冠肺炎疫情传播的预测。预测算法过程如下：
+
+步骤1：确定支持向量机SVM的输入量以及惩罚因子 $\mathbf { \Psi } _ { c }$ 和核函数宽度参数 $\sigma$ 的搜索范围，确定OSHHO算法的初始参数：种群规模 $N$ 、最大迭代次数 $T _ { \mathrm { m a x } }$ 。
+
+步骤2：按比例将原始数据集划分为训练样本和测试样本，并以滑动窗口方法对训练集数据进行重构。
+
+步骤3：根据SVM模型的结构对哈里斯鹰个体位置进行编码。以均方误差函数 $M S E$ 定义评估个体位置优劣的适应度函数，具体为
+
+$$
+F i t n e s s = { \frac { \displaystyle \sum _ { i = 1 } ^ { s } ( y _ { i } - y _ { i } ^ { \prime } ) ^ { 2 } } { S } }
+$$
+
+其中， $s$ 为样本量， $y _ { j }$ '为SVM模型的确诊人数预测值， $y _ { j }$ 为实际确诊人数。
+
+步骤4：初始化哈里斯鹰种群 $\{ X _ { i } , i { = } 1 , 2 , . . . , N \}$ ，将个体位置编码为 $( c , \sigma )$ 。
+
+步骤5：计算个体适应度，确定当前最优解。
+
+步骤6：对当前最优解进行无迹 $\sigma$ 变异，并更新最优解。
+
+步骤7：根据式(26)更新猎物的逃逸能量因子 $E$ 。
+
+步骤8：若 $| E | { \geq } 1$ 且 $q { \geq } 0 . 5$ ，利用式(1)第1个公式更新个体位置；若 $| E | \geq 1$ 且 $q { < } 0 . 5$ ，利用式(1)第2个公式更新个体位置。
+
+步骤9：若 $| E | { \geq } 0 . 5$ 且 $\lambda { \ge } 0 . 5$ ，先利用式(4)更新个体位置，并利用式(10)计算其伪对立点位置，再根据式(12)确定个体位置。
+
+步骤10：若 $| E | { \geq } 0 . 5$ 且 $\lambda { < } 0 . 5$ ，利用式(6)更新个体位置。
+
+步骤11：若 $| E | < 0 . 5$ 且 $\lambda { \ge } 0 . 5$ ，先利用式(5)更新个体位置，并利用式(11)计算其伪反射点位置，再根据式(16)确定个体位置。
+
+步骤12：若 $| E | < 0 . 5$ 且 $\lambda { < } 0 . 5$ ，利用式(8)更新个体位置。
+
+步骤13：更新全局最优解及其适应度值；判断最优个体位置是否超过 $( c , \sigma )$ 的边界上下限，若出现越界，则以相应位置上下限修正个体位置。
+
+步骤14：判断算法终止条件，若满足，返回至步骤7执 行；否则，停止算法迭代，输出最优解 $\boldsymbol { X } ^ { * } \boldsymbol { = } ( \boldsymbol { c } ^ { * } , \sigma ^ { * } )$ 。
+
+步骤15：以 $\boldsymbol { X } ^ { * } \boldsymbol { = } ( \boldsymbol { c } ^ { * } , \sigma ^ { * } )$ 对SVM模型初始化，并利用训练样本和测试样本检测预测精度，得到新冠肺炎确诊预测值。
+
+![](images/185641a468ebf014687ed93a1a3de7c49e18e87f88f53ecc233e3520ec5b7901.jpg)  
+图3OSHHO算法的执行流程Fig.3Flow of OSHHO  
+图4是预测模型的流程图。  
+图4OSHHO 算法优化SVM的新冠肺炎疫情传播预测模型 Fig.4Covid-19 SVM prediction model for pneumonia epidemic situation based on OSHHO algorithm
+
+# 4 实验分析
+
+# 4.1实验1：针对OSHHO 算法的数值仿真
+
+为了客观评估改进算法的性能，利用表1所示的两组基准函数进行寻优测试。一组基准函数为 $F 1 { \sim } F 4$ ，为单峰函数类型，另一组基准函数为 $F 5 { \sim } F 8$ ，为多峰函数类型。基准函数定义域对应于个体位置中每个维度的搜索范围。选取引言部分中提及的DEHHO 算法[10]、CHHO 算法[13]和OBLHHO算法[16]与本文的OSHHO算法进行性能对比。实验在相同的硬件平台下进行，实验环境为Matlab，算法的公有参数设置为：种群规模为30，位置维度为100，算法迭代总次数为500，算法运行次数为20次。
+
+表2是四种算法在八个基准函数上的寻优均值和标准方差结果。对于单峰基准函数 $F 1 { \sim } F 4$ ，由于高维度复杂性，除了本文的 OSHHO 算法在 $F 2$ 上可以找到最优解，其他三种算法几乎无法获取最优解，都停留在局部最优解处。OSHHO算法虽然未在 $F 1$ 上得到最优解，但其收敛精度是算法中最高的。 $F 3$ 是一种病态复杂的单峰函数，多数函数表现较差；而 $F 4$ 是一种具有阶梯状的特殊函数，极易陷入局部极值点。从精度上讲，OSHHO 算法与四种算法中得到最优解仅相差三个量级，说明算法依然具备竞争力。这也证实在OSHHO算法的迭代后期进行无 $\sigma$ 点变异之后，可以跳离阶梯状的局部最优处，但由于阶梯较多，在寻优末期算法即停止了寻优进化。
+
+# 表1基准函数说明
+
+Tab.1 Reference function description   
+Tab.2The algorithm optimizes the mean value result on the benchmark function   
+
+<html><body><table><tr><td>基准函数</td><td>函数名称</td><td>搜索区域</td><td>理论最优解</td></tr><tr><td>F1</td><td>Sphere</td><td>[-100,100]</td><td>0</td></tr><tr><td>F2</td><td>Quartic</td><td>[-1.28,1.28]</td><td>0</td></tr><tr><td>F3</td><td>Rosenbrock</td><td>[-30,30]</td><td>0</td></tr><tr><td>F4</td><td>Step</td><td>[-100,100]</td><td>0</td></tr><tr><td>F5</td><td>Ackley</td><td>[-32,32]</td><td>0</td></tr><tr><td>F6</td><td>Rastrigin</td><td>[-5.12,5.12]</td><td>0</td></tr><tr><td>F7</td><td>Griewank</td><td>[-600,600]</td><td>0</td></tr><tr><td>F8</td><td>Schwefel</td><td>[-10,10]</td><td>0</td></tr></table></body></html>
+
+表2算法在基准函数上寻优的均值结果
+
+对于多峰基准函数 $F 5 { \sim } F 8$ ，此类函数通常具有多个局部极值点，其位置分布也各不相同，对于寻优算法要求更高，极易落入局部极值。根据结果，OSHHO算法在 ${ \cal F } 6 , { \cal F } 7$ 两个基准函数上得到了理论最优值，在 $F 5$ 、 $^ { F 8 }$ 上虽然未得到理论最优值，但其收敛精度是所有算法中最高的。尤其对于 $^ { F 8 }$ 函数，其分布特征是存在多个波峰极值，同时距离理论最优解较远的局部极值点，本文的OSHHO算法依然可以通过无迹 $\sigma$ 变异扩大种群搜索范围，最大限度地跳离局部极值点，靠近理论最优解，较好地平衡了搜索与开发间的关系。而标准方差值越小，证明OSHHO算法在不同基准函数上寻优具有更好的稳定性，在具有不同波峰形态和局部极值的函数上寻优具有更好的适应性。
+
+图5是算法的收敛曲线图。从500次迭代的收敛精度上看，OSHHO算法的收敛性能要优于三种对比算法。此外，对于 $F 1$ 、 $F 5$ 、 $F 6$ 、 $F 7$ 、F8五个基准函数而言，OSHHO算法的收敛曲线具有较明显的转折坠落，这种转折在不同函数上所处的迭代次数各不相同，这说明算法的寻优精度在大幅提升，得益于OSHHO算法的无迹$\sigma$ 变异机制能够帮助种群个体拓展解的搜索空间范围，得到更多的可行解。
+
+![](images/0a11553ebd904f3175b60f046ac5363d75ac2d4640ce4cb855bc05e735c6f5cc.jpg)  
+图5算法的收敛曲线  
+Fig.5Convergence curve of algorithm
+
+为了进一步分析伪对立学习和伪反射学习机制对HHO算法全局搜索能力的影响，以单个种群个体的搜索轨迹为例，以图示方式展示最优解个体与搜索个体的搜索轨迹对比图，如图6所示。该图以基准函数Rosenbrock和Ackley搜索的一维解进行测试，总共迭代200次，相关实验也可以扩展到其他基准函数上进行。根据测试结果，搜索个体在迭代初期搜索区域广泛，全局搜索能力较强，能够充分的在远离候选解的区域广泛寻优，保持着较好的多样性；而随着迭代的进行，后期搜索个体更加倾向于局部开采和精细搜索，并不断逼近候选解，提高了收敛速度和寻优精度。以上结果表明，在HHO算法的软包围和硬包围中分别引入伪对立学习和伪反射学习机制对搜索和开发过程的均衡优化后，能够提升算法的全局寻优能力和效率。
+
+![](images/49d8515f8d4551b57af63a07fd7c0b317084d41f3296a44ddadfbd4730f0d4b1.jpg)  
+Fig.6Individual search trajectory
+
+测试函数 $F 4$ 在不同迭代次数时种群个体的分布情况。如图7是四种算法在种群规模为30，迭代100次、200次和400次时种群个体在搜索空间内的分布。个体分布反映种群多样性。DEHHO和CHHO 算法在三个迭代时期的种群个体始终比较分散，尤其进入迭代后期，部分个体逐步陷入局部极值点而无法脱离，离最优解区域依然较远，这表明单一的改进策略还是无法根本改善HHO 算法的寻优精度。相比这两种算法，OBLHHO算法全局收敛性能更好，尤其在迭代后期部分个体已聚集于最优解区域，对立学习和正交学习使得HHO算法中种群能够更好的实现信息交互，很好地提升了算法的寻优精度。本文的OSHHO算法则具有最好的聚集性，种群进化没有过早聚集在局部最优区域，对种群多样性、搜索与开发间的均衡以及跳离局部极值方面，该算法通过多策略的混合改进还是起到了预期效果，迭代后期，多数个体已经逼近于最优解附近。
+
+进一步观察在固定目标基准函数的收敛精度时，不同算法达到该寻优精度所需的迭代次数和相应的寻优成功率。寻优成功率为寻优成功次数与实验次数的比值，而寻优成功的判定标准为
+
+$$
+\begin{array} { l } { \left\{ \left| F _ { A } - F _ { T } \right. \right| / F _ { T } < e ^ { - 5 } , F _ { T } \ne 0 } \\ { \left| \left| F _ { A } - F _ { T } \right. \right| < e ^ { - 5 } , F _ { T } = 0 } \end{array}
+$$
+
+其中： $F _ { A }$ 为实际求解最优解， $F _ { T }$ 为基准函数理论最优解。
+
+设置函数维度为20，最大迭代数为500，表3是算法的测试结果。当迭代500次仍未到达所需寻优精度时，则将迭代次数填为 $5 0 0 _ { \circ }$ DEHHO 算法在函数 $F 2$ 、 $F 3$ 、 $F 5$ 上迭代了500次均未达到目标寻优精度，所以其在这三个基准函数上寻优成功率都是0，算法的寻优性能还有待提升。本文的OSHHO算法在 $F 2$ 、 $F 6$ 、 $F 7$ 上均达到 $100 \%$ 的寻优成功率，同时利用了最少的迭代次数，说明改进算法所采用的伪学习和随机无迹 $\sigma$ 变异机制更好的引导了种群的寻优方向，加快了种群向着最优解区域的转移速度。本文提出的算法不仅寻优成功率更加稳定，同时其得到目标寻优精度时所需要的迭代次数也是最少的，说明算法处理复杂多峰问题时，也能够有效提升寻优精度和收敛速度。
+
+1)OSHHO算法的时间复杂度分析
+
+群体智能优化算法的时间复杂度主要取决于种群规模、搜索空间维度以及算法的最大迭代次数。令种群规模为 $N$ 算法最大迭代次数为 $T _ { \mathrm { m a x } }$ ，空间维度为 $\_ d$ 。算法初始化过程的时间复杂度为 $O ( N { \times } d )$ 。根据随机无迹 $\sigma$ 点变异机制，OSHHO 算法需要产生 $2 d { + } 1$ 个随机点并对其进行排序，以快速排序对随机点进行排序，可知该阶段的时间复杂度为$O ( ( 2 d + 1 ) + ( 2 d + 1 ) \lg ( 2 d + 1 ) )$ 。令进行伪对立学习和伪反射学习的种群个体数量分别为 $n _ { \mathrm { l } }$ 和 $n _ { 2 }$ ，且 $n _ { \mathrm { l } }$ 、 $n _ { 2 } { < } N _ { : }$ ，则该过程的时间复杂度为 $O ( ( n _ { 1 } + n _ { 2 } ) \times d \times T _ { \mathrm { m a x } } )$ 。综上，OSHHO 算法的最差复杂度为$O ( N \times d ) + O ( ( 2 d + 1 ) + ( 2 d + 1 ) ! g ( 2 d + 1 ) ) + O ( ( n _ { 1 } + n _ { 2 } ) \times d \times T _ { \mathrm { m a x } } ) { \approx } O ( N ^ { \times } d \times T _ { \mathrm { m a x } } ) ~$ 这表明改进算法并未在HHO 算法的基础上增加时间代价，与原算法HHO是保持一致的。
+
+![](images/0862eeea44f2aad89b3fad722c2d501159f9c84abf6cf8a68ad9fed2ad219458.jpg)  
+图6个体搜索轨迹  
+图7迭代中的种群个体分布  
+Fig.7Population individual distribution in iteration
+
+表3寻优成功率及收敛迭代数  
+Tab.3Optimization success rate and convergence iteration   
+
+<html><body><table><tr><td rowspan="2">算法</td><td colspan="8">寻优成功率/%</td></tr><tr><td>F1</td><td>F2</td><td>F3</td><td>F4</td><td>F5</td><td>F6</td><td>F7</td><td>F8</td></tr><tr><td>DEHHO</td><td>93.4</td><td>0</td><td>0</td><td>78.9</td><td>0</td><td>92.1</td><td>90.5</td><td>93.2</td></tr><tr><td>CHHO</td><td>91.1</td><td>86.3</td><td>96.7</td><td>97.4</td><td>98.4</td><td>97.9</td><td>94.9</td><td>94.2</td></tr><tr><td>OBLHHO</td><td>92.4</td><td>95.7</td><td>96.2</td><td>98.1</td><td>99.2</td><td>98.8</td><td>95.3</td><td>94.0</td></tr><tr><td>OSHHO</td><td>99.5</td><td>100</td><td>99.6</td><td>99.1</td><td>99.3</td><td>100</td><td>100</td><td>98.9</td></tr><tr><td rowspan="2">算法</td><td colspan="8">寻优迭代次数/次</td></tr><tr><td>F1</td><td>F2</td><td>F3</td><td>F4</td><td>F5</td><td>F6</td><td>F7</td><td>F8</td></tr><tr><td>DEHHO</td><td>498</td><td>500</td><td>500</td><td>489</td><td>500</td><td>478</td><td>469</td><td>493</td></tr><tr><td>CHHO</td><td>409</td><td>401</td><td>404</td><td>435</td><td>489</td><td>398</td><td>421</td><td>445</td></tr><tr><td>OBLHHO</td><td>487</td><td>389</td><td>399</td><td>338</td><td>410</td><td>376</td><td>367</td><td>401</td></tr><tr><td>OSHHO</td><td>328</td><td>266</td><td>231</td><td>208</td><td>395</td><td>319</td><td>332</td><td>389</td></tr></table></body></html>
+
+2)OSHHO算法的收敛性分析
+
+定理1OSHHO 算法中种群个体位置更新解集合$\{ x _ { i , j } ( t ) , t { > } 0 \}$ 是满足在有限状态空间内的齐次Markov链。
+
+证明由OSHHO 算法的迭代寻优过程可知，每次迭代中最优解的更新均局限于有限状态空间中。针对解更新所采用的改进策略伪对立和伪反射学习策略、能量因子非线性周期性调整以及随机无迹 $\sigma$ 点变异机制都满足相互独立条件，即针对哈里斯鹰个体寻优位置最新中是一种逐步更新机制，当次迭代 $\mathbf { \rho } ( t )$ 时的种群仅接收前代迭代(t-1)时种群的状态信息以触发更新过程，因此，算法的解集合 $\{ x _ { i , j } ( t ) , t { > } 0 \}$ 是满足在有限状态空间内的齐次Markov链。
+
+引理1OSHHO 算法的状态空间内，存在使条件 $p _ { i , j } { < } \mu$ 成立的常量 $\mu \in ( 0 , 1 ) , p _ { i , j }$ 为状态空间内状态 $i$ 转移至状态 $j$ 的概率。
+
+定理2 OSHHO 算法收敛到全局最优的概率为1。
+
+证明给定搜索精度 $\scriptstyle { \varepsilon > 0 }$ ，则Markov 链的序列状态空间 可划分为
+
+$$
+Q _ { 1 } = \{ d _ { i } \parallel f ( t ) - f _ { b e s t } | < \varepsilon \}
+$$
+
+$$
+Q _ { 2 } = \{ d _ { i } \parallel f ( t ) - f _ { b e s t } \models | \geq \varepsilon \}
+$$
+
+$$
+f _ { b e s t } = \mathrm { m i n } \{ f ( x _ { i , j } ( t ) ) , i = 1 , 2 , . . . , N \}
+$$
+
+种群从 $t \mathrm { - } 1$ 迭代至 $t$ 代时，令无法到达搜索精度 $\boldsymbol { \varepsilon }$ 的概率为 $p _ { 2 }$ ，则根据引理1有：
+
+$$
+\sum _ { t = 1 } ^ { \infty } p _ { 2 } < \sum _ { t = 1 } ^ { \infty } \mu < \infty
+$$
+
+再根据波莱尔-坎泰利引理，可得
+
+$$
+p ( \cap _ { n = 1 } ^ { \infty } \cup _ { i = n } ^ { \infty } \mid f ( t ) - f _ { b e s t } \mid \geq \varepsilon ) = 0
+$$
+
+已知结论：对于随机序列 $\theta ( t )$ ，若存在 $\theta$ ，使得任意 $\scriptstyle \theta > 0$ 时，满足：
+
+$$
+p ( \cap _ { n = 1 } ^ { \infty } \cup _ { i = n } ^ { \infty } B _ { k } ) = 0
+$$
+
+则表明随机序列 $\{ \theta ( t ) \}$ 能收敛于 $\theta _ { \circ }$
+
+综上结论可知，OSHHO算法收敛到全局最优的概率为1。
+
+# 4.2实验2：基于OSHHO-SVM 模型的新冠疫情预测
+
+1)实验环境与样本说明
+
+选取某地区在2020年3月10日 ${ \sim } 6$ 月17日之间100天的日增肺炎确诊人数作为样本数据，测试OSHHO-SVM模型对于预测肺炎传播的性能。该样本数据来源于国家卫健委(http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)每日疫情通报数据中的日增确诊人数。图8是该段时间区间内经预处理后得到的每日确诊人数变化情况。从2020年3月10日之后，疫情传播逐渐处于爆发期，日增人数迅猛增加。虽然在政府防控介入、严禁人口流动和人人佩戴口罩等有效防疫措施实施后，后期日增人数相应降低，但依然还存在局部性爆发趋势。从整个曲线趋势可以看出，确诊人数变化是典型的非线性、非稳定的分布特征，局部位置显现多个峰值。传统SVM模型对这类数据存在拟合困难，预测准确率低，需要对SVM 的关键参数：惩罚因子 $\mathbf { \Psi } _ { c }$ 和宽度参数 $\sigma$ 进行迭代优化，才能使预测模型具有更高的准确率。
+
+将样本数据以3:1的比例划分为训练集和测试集，模型独立运行20次，样本前75天数据为训练集，后25天数据为测试集。相关参数中，种群规模设置 $N { = } 5 0$ ，算法最大迭代次数 $T _ { \mathrm { m a x } } { = } 4 0 0$ 。SVM模型中，惩罚因子 $\mid c \mid$ 和宽度参数 $\sigma$ 的搜索范围设置为 $[ 2 ^ { - 6 } , 2 ^ { 6 } ]$ 。
+
+由于新冠疫情的爆发具有连续性和随机性，若预测时间间隔过小，会导致模型的学习程度不足；而预测时间间隔过大，又会影响到模型对邻近时段内疫情传播的学习。故针对前75天的训练集数据和后25天的测试集数据，利用滑动窗□法对训练集数据重构，窗口设置为5，且每次滑动单元数设为1。具体重构结果如表4所示。
+
+![](images/84a63972ada88da36853f0912bac2cfff7767b208cdb8ebe58a48a0f08729508.jpg)  
+图8日增确诊数据Fig.8 Daily diagnostic data表4 训练集数据的重构
+
+Tab.4Reconstruction of training set data   
+
+<html><body><table><tr><td>四维输入向量</td><td>一维输入向量</td></tr><tr><td>x1,x2,x3,x4</td><td>x5</td></tr><tr><td>x2,x3,x4,x5</td><td>x6</td></tr><tr><td>x3,x4,x5,x6</td><td>x7</td></tr><tr><td>：</td><td></td></tr><tr><td>x71,x72,x73,x74</td><td>x75</td></tr></table></body></html>
+
+选择标准支持向量机SVM模型、标准哈里斯鹰算法优化 SVM模型 $\mathrm { \cal H } \mathrm { \cal H } \mathrm { \cal O } { - } \mathrm { \cal S } \mathrm { \cal V } \mathrm { \cal M } ^ { [ 5 ] }$ 、粒子群优化神经网络PSO-BP[22]以及基于OBLHHO算法[I6优化SVM模型OBLHHO-SVM预测模型进行实验对比分析。与标准SVM模型对比可以验证OSHHO 算法优化 SVM 的可行性，与HHO-SVM、OBLHHO-SVM模型对比可以验证OSHHO算法的优越性，与PSO-BP模型对比则可以验证所选支持向量机模型对于新冠疫情传播预测是否有效有行。PSO-BP预测模型中，学习因子设置为2，惯性权重最小值为0.1，最大值为0.9，神经网络结构为10-6-1，即输入层神经元数量为10，隐含层神经元数为6，输出层神经元数为1(对应预测值)，神经网络训练目标误差为 $1 \times 1 0 ^ { - 5 }$ ，训练次数为1000，学习率为0.05。
+
+# 2)实验结果
+
+如图9是五种预测模型在测试样本上得到的确诊人数的预测值与实际值间的对比情况，不同预测模型的曲线表示为虚线，确诊人数的实际值表示为实线。总体来看，将智能优化算法与支持向量机模型或BP神经网络相结合，对预测模型的准确率有一定程度的提升，在预测新冠肺炎疫情传播问题上具有可行性。从预测值与实际值曲线的拟合程度上看，模型具有一定差异性。标准SVM模型、PSO-BP模型、HHO-SVM模型以及OBLHHO-SVM模型在预测值的拟合度上都有不同程度偏差，利用OBHHO算法优化的支持向量机预测模型在训练后，预测值与实际值具有最大程度的拟合，大部分日期中的预测准确率达到 $100 \%$ ，说明算法对SVM的惩罚参数和核函数宽度参数进行调整优化后，算法具有不断向最优解逼近的能力，算法的适应度在不断提升。标准SVM模型的预测偏差相对较大，模型泛化能力和稳定性都有待提升。HHO-SVM模型和OBLHHO-SVM模型在部分日期上确诊人数预测值与实际值极为接近，拟合度优于PSO-BP模型，这表明算法的寻优精度还有提高空间。综合比较，OSHHO-SVM利用改进的哈里斯鹰优化算法提高了模型的预测精度和泛化能力，具有性能优势。
+
+选择平均绝对误差 $M A E$ 、平均相对误差RMSE和拟合度因子 $R ^ { 2 }$ 三个指标评估算法的预测性能。相关定义如下：
+
+$$
+M A E = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \bigl | \ y _ { i } - y _ { i } ^ { \cdot } \bigr | \ x
+$$
+
+$$
+R M S E = \sqrt { \frac { 1 } { n } \sum _ { i = 1 } ^ { n } ( y _ { i } - y _ { i } \mathbf { \sigma } ) ^ { 2 } }
+$$
+
+$$
+R ^ { 2 } = { \frac { [ \sum _ { i = 1 } ^ { n } ( y _ { i } - y _ { a \nu g } ) ( { y _ { i } } ^ { \prime } - { y _ { i , a \nu g } } ^ { \prime } ) ] ^ { 2 } } { [ \sum _ { i = 1 } ^ { n } ( y _ { i } - y _ { a \nu g } ) ^ { 2 } ] [ \sum _ { i = 1 } ^ { n } ( { y _ { i } } ^ { \prime } - { y _ { i , a \nu g } } ^ { \prime } ) ^ { 2 } ] } }
+$$
+
+其中， $n$ 为选择的样本数量， $y _ { i }$ 为样本实际值， $y _ { i }$ 为水肥用量预测值， $y _ { a \nu g }$ 为实际值均值， $y _ { i , a \nu g }$ 为预测值均值。评估指标中， $M A E$ 用于评估预测值误差的实际情况， $M A E$ 越小，表明算法精度越高；RMSE用于评估预测可信度，RMSE越小，表明算法精度更高，结果更可信；拟合度因子则评估了预测值与实际值之间的拟合度， $R ^ { 2 } { \leq } 1$ ，值越大，拟合越高。
+
+![](images/cf1d16c6c3c020b348751b3d31507c2b72f323fac1d322012db67ab40f6d814e.jpg)  
+图9预测值与实际值对比
+
+如表5是以上三个评价指标的对比结果。对于 $M A E$ 和RMSE，OSHHO-SVM模型得到的值是所有模型中最小的，证明改进算法的预测精度是最高的。对于 $R ^ { 2 }$ ，标准SVM模型离1相差最远，说明模型预测值与实际值的拟合程度较差。四种启发式优化算法结合支持向量机的预测模型都在不同程度上提高了数据拟合度，即相应提升了 $R ^ { 2 }$ 值，证明通过相应的优化机制针对惩罚参数和核函数宽度参数的优化，能够提高SVM的预测能力。OSHHO-SVM模型在 $R ^ { 2 }$ 值上与极限值1仅相差0.0184，表明改进策略在提升SVM的模型泛化能力以及预测精度上具有现实可行性。
+
+表5评估指标结果  
+Tab.5Evaluation index results   
+
+<html><body><table><tr><td rowspan="2">预测模型</td><td colspan="3">评估指标</td></tr><tr><td>MAE</td><td>RMSE</td><td>R2</td></tr><tr><td>标准SVM模型</td><td>1.5745</td><td>3.7373</td><td>0.8416</td></tr><tr><td>PSO-BP模型</td><td>1.5632</td><td>3.4092</td><td>0.8509</td></tr><tr><td>HHO-SVM模型</td><td>1.5028</td><td>3.1378</td><td>0.9023</td></tr><tr><td>OBLHHO-SVM模型</td><td>1.3113</td><td>2.7093</td><td>0.9668</td></tr><tr><td>OSHHO-SVM模型</td><td>1.1937</td><td>2.6736</td><td>0.9816</td></tr></table></body></html>
+
+如图10是模型收敛性的对比结果。依据适应度函数的定义，适应度值越小，表明预测模型求解的确诊人数误差越小。从整个收敛曲线趋势看，OSHHO-SVM模型得到最佳的适应度值，表明最终的预测精度是最高的。而在收敛速度上，OSHHO-SVM模型在58次迭代后得到最佳适应度，表明此时通过OSHHO 算法求解到了最优的惩罚参数和核函数宽度参数，使SVM具备了最优的预测性能。比较而言，OBLHHO-SVM、HHO-SVM和PSO-BP三种预测模型分别在经过88、95、101次迭代后收敛于最佳适应度值，OSHHO-SVM相对这三种模型在收敛速度上分别提高了 $34 . 0 9 \%$ 、 $3 8 . 9 4 \%$ 、$4 2 . 5 7 \%$ 。
+
+# 5 结束语
+
+本文提出了一种融合无迹变异的改进哈里斯鹰优化算法OSHHO。改进算法分别利用伪对立和伪反射学习机制、能量因子非线性周期性调整机制以及随机无迹 $\sigma$ 点变异机制对HHO算法的寻优效率、全局搜索与局部开发能力的均衡以及全局搜索能力进行了改进。结合2019年爆发的新冠肺炎疫情传播情况，利用OSHHO算法对支持向量机模型SVM进行优化，建立了面向新冠肺炎疫情传播的预测模型OSHHO-SVM。并利用若干样本数据证明预测模型得到的拟合度、预测精度都得到了稳步提升。进一步的研究可集中在种群划分问题上，针对不同优劣的种群个体(如优、中、差)利用不同机制的位置进化策略，加快算法围绕最优解的渐近模式，提升算法整体的寻优效率。
+
+![](images/ef0ac0efbe83a708d5d08ec67e980851fedf244f3a0443f142e74a24dda8153c.jpg)  
+Fig.9Comparison between predicted value and actual value   
+图10模型收敛性比较   
+Fig.10 Comparative model convergence
+
+# 参考文献：
+
+[1]Cui D.Application of whale optimization algorithm in reservoir optimal operation [J].Advances in Ence and Technology of Water Resources, 2017,37 (3): $7 2 - 7 6 + 9 4$ ，   
+[2]Gupta S,Deep K.Performance of Grey Wolf Optimizer on large scale problems[C]//MATHEMATICALSCIENCESANDITS APPLICATIONS.American Institute of Physics Conference Series,2017: 1-20.   
+[3]Arora S,Singh S. Butterfly optimization algorithm [J]. Soft Computing, 2019,23 (3): 715-734.   
+[4]Sedydali M,Amr H, Seyedeh Z,et,al,Salp swarm algorithm:a bioinspired optimizer for engineering design problems [J],Advances in Engineering Software,2017,13 (48): 1-29.   
+[5]HEIDARI A A，MIRJALILI S,FARIS H，et al.Harris hawks optimization:algorithm and applications[J].Future Generation Computer Systems,2019,97(8): 849-872.   
+[6]JIAH,PENG X,KANG L,et al.Pulse coupled neural network based on Harris hawks optimization algorithm for image segmentation [J]. Multimedia Tools and Applications,2020,79 (5): 28369-28392.   
+[7]Fan C,Y Zhou,Tang Z.Neighborhood centroid opposite-based learning Harris Hawks optimization for training neural networks [J].Evolutionary Intelligence,2020,34 (5): 1-21.   
+[8]SARAVANAN G,IBRAHIM A,KUMAR D,et al.Iot based speed control of bldc motor with Harris hawks optimization controller [J]. International Journal of Grid and Distributed Computing,2020,13 (2): 1902-1915.   
+[9]马一鸣，石志东，赵康，等．基于改进哈里斯鹰优化算法的TDOA定 位[J]，计算机工程,2020,46(12):179-184.[MAY M,SHI Z D, ZHAO K,et al. TDOA localization based on improved harris hawk optimization algorithm[J],Computer Engineering,2020,46 (12):179- 184.]   
+[10] Bao X,Jia H,Lang C.A novel hybrid harris hawks optimization for color image multilevel thresholding segmentation [J].IEEE Access,2019,7 (2): 76529-76546.   
+[11] Kamboj VK,Nandi A,Bhadoria A,et al.An intensify harris hawks optimizer for numerical and engineering optimization problems [J]. Applied Soft Computing,2020,89 (4): 106-121.   
+[12]YildizAR,Bureerat S,KurtuluE,etal.A novel hybrid harris hawkssimulated annealing algorithm and RBF-based metamodel for design optimization of highway guardrails [J].Materials Testing,2020,62 (3): 1-15.   
+[13]郭雨鑫，刘升，高文欣，等．多策略改进哈里斯鹰优化算法[J]，微 电子学与计算机,2021,38(7):18-24.[GUOYX,LIUS,GAOWX,et al.Improved harris hawks optimization algorithm with multiple strategies [J],Microelectronics& Computer,2021,38(7):18-24.]   
+[14]刘小龙，梁彤缨．基于方形邻域和随机数组的哈里斯鹰优化算法 [J]，控制与决策,2021,8(3):1-12.[LIUXL,LIANGTY.Harris hawk optimization algorithm based on square neighborhood and random array [J],Control and Decision,2021,8(3): 1-12.]   
+[15] Fan Q,Chen Z,Xia Z.A novel quasi-reflected harris hawks optimization algorithm for global optimization problems[J]. Soft Computing,2020, 24 (4): 14825-14843.   
+[16] Jiao S,Chong G,Huang C,et al.Orthogonally adapted harris hawk optimization for parameter estimation of photovoltaic models [J]. Energy, 2020,203 (5):117-124.   
+[17] Qu C,He W,Peng X,etal.Harris hawks optimization with information exchange [J].Applied Mathematical Modelling,2020,84(12): 52-75.   
+[18]盛华雄，吴琳，肖长亮．新冠肺炎疫情传播建模分析与预测[J]，系 统仿真学报,2020,32(5):759-766.[Sheng Hua-xiong,Wu Lin,Xiao Chang-liang.Modeling analysis and prediction on NCP epidemic transmission [J].Journal of System Simulation,2020,32 (5):759-766.]   
+[19]张琳．新冠肺炎疫情传播的一般增长模型拟合与预测[J]，电子科 技大学学报，2020,49(3):345-348.[Zhang Lin.Fitness of the generalized growth to the COVID-19 data[J]. Journal of University of Electronic Science and Technology of China,2020,49 (3):345-348.]   
+[20]甘雨，吴雨，王建勇．新冠肺炎疫情趋势预测模型[J]，智能系统学 报,2021,16(3):528-536.[Gan Yu,Wu Yu,Wang Jianyong.Epidemics trend prediction model of COVID-19[J]，CAAI Transactions on Intelligent Systems,2021,16 (3): 528-536.]   
+[21]李少婷，王雪瑞.XGBo0st 模型在新冠疫情预测中的研究应用[J]， 小型微型计算机系统,2021,8(19):1-9.[Li Shaoting,Wang Xuerui. Research and application of XGBoost in prediction of novel coronavirus epidemic [J],Journal of Chinese Computer Systems,2021,8(19): 1-9.]   
+[22]马秋芳，改进PSO 优化的 BP神经网络短时交通流预测[J]，计算 机仿真,2019,36(4): 94-99.[Ma Qiufang,BP nerual network short-term traffic flow prediction based on improved particle swarm optimization [J],ComputerSimulation,2019,36 (4): 94-99.]

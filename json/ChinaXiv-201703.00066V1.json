@@ -1,0 +1,395 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201605060873 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温展明，徐健荣，林秋奇，韩博平.流溪河水库敞水区轮虫多样性与群落的动态特征.生态学报,2017,37(4):1328-1338. WenZM,XuJotidoicc 2017,37(4) :1328-1338. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "流溪河水库敞水区轮虫多样性与群落的动态特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温展明，徐健荣，林秋奇，韩博平暨南大学生态学系，广州510632",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：流溪河水库是位于北回归线上的大型峡谷型供水水库,于2013—2014年对该水库水区轮虫群落及其环境因子进行观测,分析水区轮虫多样性与群落动态特征。流溪河水库介于贫营养到中营养水平之间,丰水期(5月—9月)的总磷、透明度均高于枯水期（10月—4月）,两年的总磷的平均值为 $0 . 0 1 9 \\mathrm { m g / L }$ ,透明度为 $2 . 5 5 \\mathrm { m }$ 。两年共检出轮虫40种,单月检出物种数波动范围为8—19种,月均检出轮虫13种。螺形龟甲轮虫、真翅多肢轮虫、沟痕泡轮虫和胶鞘轮虫是主要优势轮虫。2013、2014年轮虫年均总丰度分别为68.9、66.9个/L,两年物种丰富度在丰水期大于枯水期,但枯水期轮虫群落 Simpson 多样性指数均大于丰水期。采用 Bray-Curtis 距离测度群落之间的相异性,计算表明两年的枯水期轮虫群落之间的平均距离均大于丰水期,即丰水期时轮虫群落相似性较高,枯水期时轮虫群落变异较大。丰水期的水温和水质参数的变化相对稳定,种类的优势度更为明显,导致丰水期群落之间更为相似。主成分分析表明,无柄轮属、胶鞘轮属、多肢轮属、异尾轮属、泡轮属、晶囊轮属和皱甲轮属的主要种类的全年分布有较大的差异,而其余多数轮虫种类全年分布差异较小,反映了我国南亚热带地区水温全年变幅小,可维持较多的全年性种类共存。群落的方差解析与RDA分析表明,相对于生物与化学变量,物理环境变量主导了流溪河水库敞水区轮虫群落的变异,就单个变量而言,水温和食物是影响流溪河水库水区轮虫群落结构的重要因素,降雨则是影响轮虫群落结构变异的宏观因素。绝大多数轮虫为滤食性的,处于食物链底端，个体小、生活史短,轮虫群落在对环境因子变化的响应上与浮游植物具有相似性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：轮虫群落；物种多样性；动态特征；群落结构；流溪河水库",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rotifer species diversity and community structure in the pelagic zone of the Liuxihe Reservoir ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WEN Zhanming，XU Jianrong，LIN Qiuqi，HAN Boping Department of Ecology，Jinan University，Guangzhou 510632，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：TheLiuxiheReservoirisalargecanyonreservoir locatedon the TropicofCancer in GuangdongProvince,and is used asasource of drinking water.The diversityand dynamicsof rotifer species asan indicator groupof waterqualityand ecosystemhealth,and environmentalvariables were investigated monthlyinthepelagiczoneof thereservoir from 2013 to 2014.We used the R language program（MASS，vegan，and packfor packages）to analyze the species diversity and community structure of rotifers in the pelagic zoneof Liuxihe Reservoir.Therotifer communitystructure was analyzed using principalcomponent analysis（PCA），redundancy analysis（RDA），nonmetric multidimensional scaling（NMDS），and variation partitioning.Inthe present study，Liuxihe Reservoir isanoligotrophicor mesotrophicwaterbody，with anual averages of total phosphorus of $0 . 0 1 9 ~ \\mathrm { m g / L }$ and water transparency of $2 . 5 5 \\mathrm { ~ m ~ }$ . Both total phosphorus and water transparency wereslightly higherinthe wetseasons from Mayto Septemberthandryseasons（OctobertoApril).In total，4O species wereobserved during the two-yearinvestigation.Theobservedspeciesrichnessranged from8to19 monthly，withamonthly average of13.Keratellcochlearis，Polyarthraeuryptera，Pompholyx sulcata，andColothecasp.werethedominantspecies. The average total abundance was 68.9and6.9 individuals/L in2013and2014，respectively.The species richnes was higher in wet than indryseasons，whereas the Simpson indexshowedtheopposite pattrn.The averagecommunitydistance, which wasmeasured bythe Bray-Curtis distance，washigherindrythan wetseasons，indicating that therotifercommunity similarity was higherin wetthandryseasons.Water temperatureandother variablesof waterquality were more stable in wet seasons.As aresult，species dominance became stronger and rotifer communities were more similar.PCA indicated that Ascomorpha，Colotheca，Polyarthra，Trichocerca，Pompholyx，Asplanchna，and Ploesoma speciesshowedsignificant temporalvariation.Thisrotifercommunitystructure isrepresentativeof tropicalandsubtropical China，wherethereisless water temperature fluctuation，allwing more species tooccurthroughout theyear.Variation partitioningand RDAof the rotifercommunitywithenvironment variablesdemonstrated that physical environment variables including temperature, dissolvedoxygen，Secchidisk depth，precipitation，andwaterretention timeexplainedthevarianceof therotifer community，andamong allthe measuredvariables，watertemperatureandfoodavailability were thetwo key factors explainingcommunitystructurevariation,andprecipitationwasamacroscopicindirectfactoraffectingthevariationofrotifer community.Mostrotiferspeciesarefiltersatlowtropic levels inthepelagiczoneoftheLiuxiheReservoir，withasmallbody sizeandshortlifespan,andtheircommunitiesresponded tothevariatioofenvironmentalfactorssimilarlytophytoplankton communities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：rotifer community；species diversity；dynamic characteristics；community structure；Liuxihe Reservoir ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "轮虫是淡水浮游动物中的重要类群，是水体食物网中的关键环节，对次级生产力有着显著贡献，同时也被认为在连接微生物循环和更高营养级上有着重要作用[1-2]。轮虫群落能够对环境变化做出快速响应,可以作为水体环境的指示性物种[3-4]。环境中的温度、水体营养状况、溶氧等非生物因素以及食物、捕食压力等生物因素都被认为是影响轮虫群落的重要因素[5-7]。水库通常是在流域上游筑坝蓄水形成的半人工水体,区别于河流和湖泊等自然水体,水库往往在外形、容量、流速及深度有其独特的特点,是一类介于河流与湖泊之间的特殊生态系统[8-9]。峡谷型水库建于峡谷地带,水体较深,风对水体流场的影响较弱,水库水动力与水文过程主要受降雨入库与出库水流调度的影响。对于水库而言,相对较短的水力滞留时间是影响到轮虫群落的重要综合环境因素[10-11]。在我国的热带及热带亚热带过渡区,在季风气候影响下的降雨具有明显的季节性,季风气候带来的季节性降雨和水库用水模式决定了水库的水文过程与动态,而这种由降雨带来的水库水文变化也被认为是影响水库轮虫群落组成与动态的宏观因素[12-13]。根据降雨量多少通常将全年分为两个水文阶段：丰水期和枯水期[14]。在我国华南地区,丰水期开始于4月中下旬,持续至9月底,降水量占全年的降雨量的$7 5 \\%$ 以上。进入汛期后,流域内降雨汇人人库河流,携带着地表的无机与有机物质进入水库,导致丰水期初期水库悬浮物增加、透明度下降,初级生产力下降,从而导致生态系统的周期性演替。峡谷型水库从入库河流到大坝的生境分区明显,具有典型的河流区、过渡区和湖泊区,而湖泊区是水区的主要组成部分。水区是指水库水面的宽阔区域,是受夏季风影响的热带及亚热带水库的主要生境类型[13]。水区的水体相对稳定,透明度较其它水域高,营养物质的循环受生物群落自身的影响较强。在大型峡谷型水库中,敞水区的生境相对单一,浮游动物的种间竞争增加,同时由视觉引导的捕食压力增加,生物相互作用在调节和影响群落构建与动态中发挥更为重要的作用。在浮游动物中,轮虫是体型最小的一类,多数轮虫为植食性,对营养盐等引起的浮游植物群落的变化敏感,因此轮虫群落的变化在很大程度上反映了它们对环境的响应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "流溪河水库位于热带亚热带过渡区域 $( 2 3 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { N } , 1 1 3 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { E } )$ ，是受亚热带季风影响下的大型峡谷型水库，具有相对稳定的水区(湖泊区),浮游动物有比较明显的季节演替和季节规律,是研究水区轮虫群落结构的季节性变化的理想场所[15]。本文以该水库为例,通过在2013—2014年水库水区逐月采样并监测环境参数,分析轮虫群落结构特征，研究季风气候影响下的水库水区轮虫多样性及群落的动态特征,识别大型峡谷型水库中轮虫多样性的变化特征和群落动态的主要影响因子,为建立以轮虫指示种类和群落结构的热带亚热带大型水库生态监测与水质管理提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究水库概况与采样",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流溪河水库是广州市重要的供水水源，由两条入库河流汇集而成，是受亚热带季风气候控制下的典型峡谷型水库，具有明显的枯水期(10—12月和1—4月)和丰水期（5—9月）。水库目前处于贫中营养状态，优势浮游植物种类以甲藻-硅藻为主，而鱼类则以鲢和为主[12,16-17]。野外采样点设置在水库敞水区的大坝（DB)处（图1)，大坝采样点位于水库湖泊区，能够较好地代表水库敞水区情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在2013—2014年每月中旬对水区采样点进行定期采样，除强台风外均定期采样，根据天气预报，通常在强台风或暴雨前完成采样,采样中使用孔径为 $2 0 \\mu \\mathrm { m }$ 浮游生物网斜向拖网获得浮游动物定性样品，定量样品则依据现场水深使用采水器从水体表层至底层均匀间隔采水并使用 $2 0 \\mu \\mathrm { m }$ 浮游生物网过水得到,过水体积为$5 0 \\mathrm { L }$ 。浮游动物定量样品加入福尔马林现场固定，静置浓缩后按照Koste分类系统进行鉴定,在显微镜下定量计数（2013年3月份样品缺失)。现场采样时使用YSI-85 型水质仪记录水温(Temp）、溶氧(DO)等环境参数,使用透明度盘测定水体的透明度(SD)。同时采集水样按照国标法来测定水体总氮（TN）、总磷（TP）、硝氮( $\\mathrm { N O } _ { 3 } – \\mathrm { N }$ ）、亚硝氮( $\\mathrm { N O } _ { 2 } { \\cdot } \\mathrm { N }$ )和氨氮( $\\mathrm { N H } _ { 4 } { \\cdot } \\mathrm { N }$ ）、正磷( $\\mathrm { P O } _ { 4 }$ P）,叶绿素a的测定(Chla)则通过反复冻融-浸提法进行[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e638fa975cb1a869d148565baa280169642cc7e756a2db9cc280c76a7010f5d4.jpg",
+        "img_caption": [
+            "图1流溪河水库采样点分布",
+            "Fig.1Location of the sampling site in Liuxihe Reservoir "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降雨量数据由流溪河发电公司提供,水力滞留时间(WRT)近似为当月库容与当月排水量之比，水面蒸发量忽略不计。采用 Simpson 多样性指数表示轮虫群落的物种多样性,使用R语言平台和 Excel进行数据处理及绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "群落数据分析使用了R语言平台中的 MASS、vegan 和 packfor 函数包,分析时使用 $\\log ( x + 1 )$ 对轮虫群落的丰度数据进行预处理后使用Hellnger转化,在RDA分析中使用前向选择去除自相关变量后筛选得到对轮虫群落结构有显著影响的环境变量。通过方差解析分析环境变量中的生物与化学变量(叶绿素a、总磷、正磷、总氮、可溶解性无机氮)和物理变量(温度、溶氧、透明度、降雨量和水力滞留时间)对轮虫群落变异的解释率。基于Bray-Curtis 距离进行非度量多维尺度分析（Nonmetric Multidimensional Scaling，NMDS）和计算平均群落距离,使用逐步回归法筛选对轮虫总丰度有显著影响的环境变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 理化指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013、2014年流溪河水库敞水区丰水期的总磷、透明度均高于枯水期(图2）。2013年丰水期的总氮和叶绿素a大于枯水期,在 2014 年则是枯水期大于丰水期,表明总氮和叶绿素a浓度在丰水期及枯水期的大小存在随机性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2群落种类组成及多样性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "两年期间共检测到轮虫40 种,其中主要优势种为螺形龟甲轮虫（Keratella cochlearis）、真翅多肢轮虫（Polyarthra euryptera）、沟痕泡轮虫（Pompholyx sulcata）和胶鞘轮虫（Collotheca sp.）（表1）。2013年丰水期和枯水期的轮虫群落 Simpson 多样性指数分别为0.66 和0.71,而2014 年则分别为0.54 和0.56,两年枯水期轮虫群落 Simpson 多样性指数均大于丰水期（图3）。2013年丰水期和枯水期物种丰富度（种类数)分别为16.8 和10.7,而 2014 年则分别为14.2和11.85,两年轮虫群落在丰水期的物种丰富度均要大于枯水期,与 Simpson 多样性指数相反(图3)。轮虫物种丰富度的逐步回归表明,轮虫种类丰富度与总氮、正磷、叶绿素a浓度、可溶解性无机氮、水温和降雨有关（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b782b6540aae84d285161edc3e06c9556d9f582a5b9e0240fc38a2c048f7a86.jpg",
+        "img_caption": [
+            "图2流溪河水库丰水期、枯水期总磷、总氮、叶绿素a和透明度的比较 ",
+            "Fig.2Comparison of TP,TN,Chlorophyll and transparency between wet and dry seasons inLiuxihe Reservoir "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ee5e34bbcee48d7de648b14734979ea7e99fdf85308a5a53fa980d2df69dbb7.jpg",
+        "table_caption": [
+            "表1研究期间流溪河水库的轮虫种类",
+            "Table1Therotifer speciesobserved inLixiheReservoirin2013and 2014and theirabbreviations used indata analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种类 Species</td><td>缩写 Abbreviations</td><td>种类 Species</td><td>缩写 Abbreviations</td></tr><tr><td>螺形龟甲轮虫Keratella cochlearis</td><td>Keco</td><td>较大多肢轮虫Polyarthra major</td><td>Poma</td></tr><tr><td>热带龟甲轮虫 Keratella tropica</td><td>Ketr</td><td>蹄形腔轮虫 Lecane ungulata</td><td>Leun</td></tr><tr><td>无棘龟甲轮虫 Keratella tecta</td><td>Kete</td><td>腔轮虫的一种 Lecane sp.1</td><td>Lesp.1</td></tr><tr><td>对棘异尾轮虫 Trichocerca similis</td><td>Trsi</td><td>腔轮虫的一种 Lecane sp.2</td><td>Lesp.2</td></tr><tr><td>圆筒异尾轮虫 Trichocerca cylindrica</td><td>Trey</td><td>裂痕龟纹轮虫 Anuraeopsis fissa</td><td>Anfi</td></tr><tr><td>卡顿异尾轮虫 Trichocerca chattoni</td><td>Trch</td><td>前节晶囊轮虫 Asplanchna priodonta</td><td>Aspr</td></tr><tr><td>罗氏异尾轮虫Trichocerca rousseleti</td><td>Trro</td><td>腹足腹尾轮虫 Gastropus hyptopus</td><td>Gahy</td></tr><tr><td>暗小异尾轮虫 Trichocerca pusilla</td><td>Trpu</td><td>柱足腹尾轮虫 Gastropus stylifer</td><td>Gast</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e32fcb06257d1c86b6470b8b25135cf00f622b92132a15ff7e4f60b1bdc19c0.jpg",
+        "table_caption": [
+            "续表",
+            "表2水库水区轮虫群落物种丰富度回归分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种类 Species</td><td>缩写 Abbreviations</td><td>种类 Species</td><td>缩写 Abbreviations</td></tr><tr><td>刺盖异尾轮虫 Trichocerca capucina</td><td>Trca</td><td>长圆疣毛轮虫 Synchaeta oblonga</td><td>Syob</td></tr><tr><td>韦氏异尾轮虫Trichocerca weberi</td><td>Trwe</td><td>尖尾疣毛轮虫 Synchaeta stylata</td><td>Syst</td></tr><tr><td>尖头异尾轮虫 Trichocerca tigris</td><td>Trti</td><td>郝氏皱甲轮虫Ploesoma hudsoni</td><td>Plhu</td></tr><tr><td>异棘臂尾轮虫 Brachionus donneri</td><td>Brdo</td><td>截头皱甲轮虫 Ploesoma truncatum</td><td>Pltr</td></tr><tr><td>剪形臂尾轮虫 Brachionus forficula</td><td>Brfo</td><td>奇异六腕轮虫 Hexarthra mira</td><td>Hemi</td></tr><tr><td>角突臂尾轮虫 Brachionus angularis</td><td>Bran</td><td>聚花轮虫 Conochilus sp.</td><td>Cosp</td></tr><tr><td>脾状三肢轮虫Filinia opoliensis</td><td>Fiop</td><td>胶鞘轮虫 Collotheca sp.</td><td>Colsp</td></tr><tr><td>臂三肢轮虫Filinia brachiata</td><td>Fibr</td><td>爱德里亚狭甲轮虫Colurella adriatica</td><td>Coad</td></tr><tr><td>真翅多肢轮虫 Polyarthra euryptera</td><td>Poeu</td><td>卵形无柄轮虫 Ascomorpha ovalis</td><td>Asov</td></tr><tr><td>广布多肢轮虫Polyarthra vulgaris</td><td>Povu</td><td>没尾无柄轮虫 Ascomorpha ecaudis</td><td>Asec</td></tr><tr><td>红多肢轮虫 Polyarthra remata</td><td>Pore</td><td>舞跃无柄轮虫 Ascomorpha saltans</td><td>Assa</td></tr><tr><td>长肢多肢轮虫Polyarthra dolichoptera</td><td>Podo</td><td>沟痕泡轮虫Pompholyx sulcata</td><td>Posu</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fff5e43af9f993a071020f527df4f5c89ced7a7fdd57ddddcdadb61b6d0ad7a3.jpg",
+        "table_caption": [
+            "Table 2Multiple regression of total rotifer species richness in pelagic zone "
+        ],
+        "table_footnote": [
+            "abun：总丰度 total abundance;Temp：水温 temperature;TN：总氮 total nitrogen; $\\mathrm { T P }$ ：总磷 total phosphorus; $\\mathrm { { C h l a } }$ ：叶绿素achlorophylla;DO：溶氧dissolved oxygen; $\\mathrm { P O } _ { 4 }$ ：正磷 phosphate;DIN：可溶解性无机氮dissolved inorganic nitrogen;SD：透明度 Secchi disk depth;SR：物种丰富度 speciesrichness; $\\mathrm { P r e c }$ ：降雨量 precipitation;WRT：水力滞留时间 water retention time； ${ } : P { < } 0 . 0 5$ ， $* * P { < } 0 . 0 1$ ， $\\ast \\ast \\ast P { < } 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>类别 Category</td><td>回归模型</td><td>校正R Adjusted R²</td><td>P</td></tr><tr><td>物种丰富度 Species richness</td><td>Regression model log(SR)= 2.808023*** +0.683914TN * +0.104152log（PO4）-0.331463l0g（Chla） **_</td><td>0.57</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebc71c68df4aa2a1c618fe73927a8d7ff6c8fb2c1dcc2d6ec60a223411851ef3.jpg",
+        "img_caption": [
+            "图3流溪河水库水区轮虫群落Simpson多样性指数和物种丰富度",
+            "Fig.3Simpson's diversity and species richness of rotifer community in Liuxihe Reservoir "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3轮虫群落总丰度及优势种动态 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2013、2014年轮虫群落的总丰度的平均丰度分别为68.9、66.9个/L,两年的总丰度最大值出现月份有所不同(图4)。逐步回归分析表明,2013年度轮虫总丰度与总氮、总磷、正磷、叶绿素a、可溶性无机氮、温度、溶氧和透明度有关,2014年度轮虫总丰度则与除叶绿素a浓度之外的环境因素有关，而轮虫的两年汇总丰度则与总磷及降雨有关。在枯水期,轮虫总丰度与全部环境因素有关,而在丰水期则与总磷、正磷、叶绿素a、可溶",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "解性无机氮、温度、溶氧和透明度有关(表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除螺形龟甲轮虫外的其余轮虫优势种在总体上均表现出季节性分布特征，优势种轮虫峰值出现时间在不同年份间存在差异(图5）。在2013年，1月份没有明显的绝对优势种，螺形龟甲轮虫在2月份成为绝对优势种，4月份主要优势种演替为沟痕泡轮虫和真翅多肢轮虫，5一6月份主要优势种为沟痕泡轮虫和螺形龟甲轮虫，7一9月份螺形龟甲轮虫作为绝对优势种丰度继续上升，10月份螺形龟甲轮虫丰度迅速下降，无绝对优势种，11月份真翅多肢轮虫出现年内峰值并演替为绝对优势种，12月份螺形龟甲轮虫再次演替为主要优势种。与2013年相比，2014年优势种动态有所变化，1月份无绝对优势种，真翅多肢轮虫在2月份上升为绝对优势种，3一4月无绝对优势种，5月份沟痕泡轮虫演替为主要优势种，到了6月份螺形龟甲轮虫上升为主要优势种，7月份主要优势种为螺形龟甲轮虫和胶鞘轮虫，8月份螺形龟甲轮虫仍为主要优势种随后迅速下降,9—10月无绝对优势种,11—12月螺形龟甲轮虫再次上升为绝对优势种（图5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/11579902aa24f71db229c10a10e7e047b93266ffa7c9ecbf58a46dc321aeee3a.jpg",
+        "img_caption": [
+            "图42013一2014年流溪河水库水区轮虫群落总丰度变化Fig. 4 Total abundance of rotifer community in LiuxiheReservoirfrom2013to 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/18976f277864b985cd924b6fe34b784cb905a264dd4e09a4ed425454b49b855b.jpg",
+        "img_caption": [
+            "图52013—2014年流溪河水库水区轮虫优势种种群动态Fig.5Population dynamics of the dominant species in rotifers in Liuxihe Reservoir"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/afae7330df7e711673edc0592aca4feb502e9722083af8288f089254af5490ff.jpg",
+        "table_caption": [
+            "表3水库水区轮虫丰度回归分析",
+            "Table 3Multiple regression of total rotifer abundance in pelagic zone "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别 Category</td><td>回归模型 Regression model</td><td>校正R² Adjusted R²</td><td>P</td></tr><tr><td>枯水期 Dry season</td><td>log（abun)=12.39**+6.25log(TN）**-138.8TP ** +0.2774log(PO4）-0.4551Chla*- 11.03DIN**-1.289log（Temp）*+0.0951DO**-0.7903log（SD）*+ 0.6129log（Prec+1） **-0.00002776WRT</td><td>0.99</td><td>0.01</td></tr><tr><td>丰水期 Wet season</td><td>log（abun)=-70.25196** +1.71444log(TP）** +0.97967log(PO4）**-0.14585Chla* - 2.04890log（DIN）** +23.81040log（Temp）**+1.66433log（DO）*- 1.08711log(SD） **</td><td>0.99</td><td>0.01</td></tr><tr><td>2013年</td><td>log(abun)=144.4987-16.8517TN+2.9389log(TP)-217.5540PO4+6.9926log(Chla) + 15.0892log(DIN)+0.6606Temp*-29.361log(DO)+3.1860log(SD) log(abun)=-38.81*** -4.428TN **-1.324log（TP）*** -1.0010g(PO4）*** +7.173DIN ***</td><td>0.72</td><td>0.20</td></tr><tr><td>2014年</td><td>-0.2063Temp *** +7.274log（DO）*** +0.1633SD ** +0.1183log（Prec+1） ** + 0.00002185WRT</td><td>0.99</td><td>0.00</td></tr><tr><td>两年度 Two years</td><td>log(abun)= 2.84972 *** -55.21432TP ** +0.45055log(Prec+1） ***</td><td>0.50</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4轮虫群落结构变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主成分分析表明,无柄轮属（Ascomorpha）、胶鞘轮属（Colotheca）、多肢轮属（Polyarthra）、异尾轮属（Trichocerca）、泡轮属（Pompholyx）、晶囊轮属（Asplanchna）和皱甲轮属（Ploesoma）的主要种类全年分布差异较大,而其余多数种类主要集中主成分图的原点,表明其全年分布差异不大,无明显季节性分布特征（图6）。前两个主轴对于水区轮虫群落结构变化的解释率为 $3 5 . 8 \\%$ （累计特征值)。在主要优势种中，只有螺形龟甲轮虫的全年分布差异稍不明显,其余主要优势种均表现出明显的全年分布差异(图6)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "非度量多维尺度分析中的压力值(Stress)较大(0.198),表明流溪河水库水区轮虫群落结构很难由少数主轴表示。在非度量多维尺度分析的排序图(图6)中,丰水期的采样点分布于主轴1的右侧,而枯水期分布于轴1的左侧,也反映出群落结构的水文季节性。2013 年轮虫群落在丰水期和枯水期的平均群落距离分别为0.55、0.66,而在2014年的轮虫群落丰水期和枯水期平均群落距离则分别0.47、0.65,两年的枯水期轮虫平均群落距离均大于丰水期,表明丰水期的轮虫群落相似性较高,而枯水期的群落变异较大（图7）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在对轮虫群落的RDA分析中,通过前向选择从10个环境变量中去除自相关变量,筛选出降雨量（Prec）、温度(Temp)和叶绿素a浓度(Chla)3个显著变量,表明流溪河水库水区轮虫群落结构变异受降雨量、温度和叶绿素a浓度影响,第1与第2主轴对流溪河水库轮虫群落结构变异的贡献率为 $2 6 . 4 \\%$ （累计特征值）（图8)。将环境变量中的温度、透明度、溶氧、降雨量和水力滞留时间作为物理变量组(X1),将叶绿素a浓度、总磷、总氮、正磷、可溶解性无机氮作为生物与化学环境变量组(X2)解析轮虫群落结构的变异,物理环境变量组对轮虫群落结构变异的解释率大于生物与化学环境变量组,表明流溪河水库水区轮虫群落结构变异受物理环境变量主导（图8）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "受亚热带季风气候影响,丰水期内骤增的降雨会给水库汇入流域土壤中丰富的氮和磷营养盐，同时降雨带来的水位改变也会直接影响到水体透明度及叶绿素a浓度。从理化指标来看,流溪河水库两年的总磷和透明度在丰水期均高于枯水期,而总氮和叶绿素a浓度在丰水期及枯水期的大小存在随机性（图 2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在中国南方地区的水库,浮游动物的丰度普遍较低,轮虫是占优势地位的类群之一[19]。轮虫群落的丰度和物种组成可以对水质状况的改变做出响应,当水体营养水平上升时,轮虫的种类组成被认为会随之发生变化[20-22]。在流溪河水库敞水区,轮虫群落的 Simpson 多样性指数、物种丰富度在丰水期和枯水期之间有着不同的特点,基于 Bray-Curtis 距离的平均群落距离同样在枯水期和丰水期之间有所差异,而这些指标在丰水期和枯水期之间的差异及特点很好地体现了轮虫群落的物种组成及群落结构变异对丰水期和枯水期两个水文",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/76017b583e19aaabd5cc5bc7922fc5614c5962f50889c1ab3387c9f4cc87c8fb.jpg",
+        "img_caption": [
+            "图6流溪河水库水区轮虫群落主成分分析(PCA)和非度量多维尺度分析（NMDS）Fig.6PCA and NMDS plots of rotifer community in Liuxihe Reservoir轮虫拉丁名缩写见表1，以大坝字母缩写 $^ +$ 年份 $^ +$ 月份表示采样点"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阶段的响应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "轮虫群落的RDA分析表明，水温、降雨量和叶绿素a浓度是影响流溪河水库敞水区轮虫群落结构的重要因素(图8)。捕食压力通常是影响轮虫群落的因素之一，在中国南方水库，由滤食鱼类带来的下行效应被认为对浮游生物有很重要的影响[23-25]。水体温度可以间接调节鱼类对轮虫的捕食强度，从而影响到轮虫群落面临的捕食压力，温度还可以通过影响作为食物的浮游植物的生长及密度,进而影响到轮虫群落的食物供给。另外温度作为重要的环境变量除了可以通过调节捕食压力和食物供给来间接影响轮虫群落，温度还可以通过直接影响轮虫的生长繁殖来直接作用于轮虫群落，因此水温是影响流溪河水库敞水区轮虫群落结构的关键要素。食物被认为是影响轮虫群落的另一重要因素[26-28]。叶绿素a的浓度(Chla)在一定程度上反映了食物水平，这表明食物是影响水库敞水区轮虫群落结构的另一关键要素。在环境变量对轮虫群落变异的影响的方差解析中,物理环境变量组(X1)对轮虫群落变异的解释率要远大于生物与化学环境变量组(X2),这表明物理变量因素主导了流溪河水库水区的轮虫群落结构变异。方差解析得到的结果与RDA分析中前向选择后保留的物理环境变量(温度、降雨量)的数量多于生物与化学环境变量(叶绿素a浓度)的结果一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f265b76037571e0929bee268c20d75c4b6f2bdb827a78b520247cbe258bbf6b2.jpg",
+        "img_caption": [
+            "图72013一2014年流溪河水库轮虫群落丰水期与枯水期内部群 落距离 Fig.7Bray-Curtis distance between sampled communities within the wet season and dry season "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在自然水体中,轮虫群落会受到诸如降雨、换水等物理扰动的强烈影响,这种影响经常足以导致轮虫群落结构的变化,由降雨带来的水文变化被认为是影响水体中浮游动物多样性的时空变化及群落结构的重要因素[13.29-30]。在敞水区轮虫群落的PCA 分析中,无柄轮属、胶鞘轮属、多肢轮属、异尾轮属、泡轮属、晶囊轮属和皱甲轮属的主要种类全年分布差异较大,而其余种类分布差异较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/59fb1a12981c8c06de89f101419c4e92843b1b7ed14f179e216e8b6b022a3c7c.jpg",
+        "img_caption": [
+            "http://www.ecologica.cn "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/393dc030b6ce7da52f478b5ca032818f7581813ee9d6b27e42250c7d9449d506.jpg",
+        "img_caption": [
+            "",
+            "图8流溪河水库轮虫群落与环境变量的RDA分析(A)及方差分解分析(B) Fig.8RDAand variation partitioning of rotifercommunity with environment variables inLiuxihe Reservoir X1：physical variables；X2：biological and chemical variables "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "主要的优势种中沟痕泡轮虫、胶鞘轮虫和真翅多肢轮虫表现出较大的全年分布差异,这种分布差异在优势种的种群动态中表现为分布的季节性,沟痕泡轮虫和胶鞘轮虫主要出现在丰水期,而真翅多肢轮虫则主要出现在枯水期。这表明降雨对流溪河水库水区不同轮虫有不同的影响，即降雨是影响敞水区轮虫群落变异的宏观变量,而这也与RDA分析中经前向选择后保留了降雨量这一显著变量的结果一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述,流溪河水库水区轮虫群落 Simpson 多样性指数、物种丰富度和平均群落距离在丰水期和枯水期两个不同的水文阶段有不同的特征,体现了轮虫群落对丰水期和枯水期两个水文阶段的响应。流溪河水库敞水区轮虫群落结构变异整体上受物理环境变量所主导,就单个变量而言,水温和食物是影响轮虫群落的关键要素,而降雨则是影响轮虫群落变异的宏观变量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]WalceRL,SnellW,icciC,NgradyTRotiferavol.：biologcologandsystematic/SegersH,DmontHJdsGudestoeIdentificationoftheMicrovertebratesoftheContientalWatersoftheWorld3.2nded.Leiden：BackhuysPublishers，06：1-299.  \n[2]SarBotfercouitiesofeporl，Asa,ndiacssbndaneadologJoualofeatedTaa（8）：1077-1086.  \n[3]GanonJE，StebererRZoplnkto（espeiallustacasndotifrs）sidicatosofwaterqualtrasactiosfthcanMicroscopical Society，1978,97(1）：16-35.  \n[4]Sladecek V.Rotifers as indicators of water quality.Hydrobiologia,1983,100(1）：169-201.  \n[5]Castro,ntusSereraesAVocalvesFotiferoitructureitslolas：asoalfucaexplanatory factors.Hydrobiologia，2005，543(1）：221-232.  \n[6］都雪，王齐东，张超文，李为，冯伟松，张堂林，刘家寿，李钟杰.洪泽湖轮虫群落结构及其与环境因子的关系.湖泊科学，2014，26(2): 269-276.  \n[7]Devefefioalctooieblairtfallke.Hdrob,998）：.  \n[8］林秋奇，韩博平.水库生态系统特征研究及其在水库水质管理中的应用.生态学报，2001,21(6)：1034-1040.  \n［9］韩博平.中国水库生态学研究的回顾与展望.湖泊科学，2010，22(2)：151-160.  \n[10] 陈丽光，林秋奇，韩博平.茜坑水库轮虫群落结构组成和动态.水生态学杂志，2013，34(6)：27-33.  \n[11] 乔磊，林秋奇，韩博平.珠海市调水水库水力滞留时间对轮虫群落结构的影响.应用与环境生物学报，2015,21（3）：499-504.  \n[12] 林秋奇.流溪河水库后生浮游动物多样性与群落结构的时空异质性[D].广州：暨南大学，2007.  \n[13] 习丽红，李慧明，林秋奇，韩博平.热带富营养水库敞水区浮游动物群落结构与季节变化：以广东大沙河水库为例.湖泊科学，2015，27(6)：1049-1058.  \n[14] HanBP,LiuZW.TropicalandSub-TropicalReservoirLimnologyinChina：TheoryandPractice.NewYork:Springer，2012：v-vi.  \n[15] 望甜.捕食与竞争———流溪河水库浮游动物群落的种间关系研究[D].广州：暨南大学，2010.  \n[16] 林国恩，望甜，林秋奇，韩博平.广东流溪河水库湖沼学变量的时空动态特征.湖泊科学，2009,21（3）：387-394.  \n[17] 肖利娟.华南地区两座大型水库浮游植物群落与演替机制比较[D].广州：暨南大学，2011.  \n[18] 林少君，贺立静，黄沛生，韩博平.浮游植物中叶绿素a提取方法的比较与改进.生态科学，2005,24(1)：9-11.  \n[19]LinQQSH,Haakostrirocalesoutiateatialevofdrb(6):602-613.  \n[20]DuX,Feg,iWiJag,iZJespserotfeitagsiehlmiddle reach of Changjiang River，China.Chinese Journal of Oceanologyand Limnology，2014，32(5）：1083-1091.  \n[21]MayL,SpearsBM,DudleyBJ，GuIDM.TheresponseoftherotifercommunityinLochLeven，UK,tochangesassociaedwith $60 \\%$ （20reduction in phosphorus inputs from the catchment.International Review of Hydrobiology,2O14,99(1-2）：65-71.  \n[22］林秋奇，赵帅营，韩博平.广东省水库轮虫分布特征.生态学报，2005，25（5)：1123-1131.  \n[23] Devetter M,Sed'a J.Regulation of rotifer community by predation of Cyclops vicinus（Copepoda）in the $\\check { \\mathrm { R } }$ imov reservoir in spring. InternationalReview of Hydrobiology，2006,91(1）：101-112.  \n24]LiQQXeEsscstate?Astudy（sub）troalCesesirsiutrtceatiHdrobl46(）：.  \n[25]ZhaoSYunY，HanBp-oetsofeadca（Aristicysobiis）ndLetodoraricardi（Hapod，Leptodo）insubtropical reservoirduring the winter-spring transition：a mesocosm experiment.Hydrobiologia,2O16,765(1）：43-54.  \n[26]WangSBGngH.ForcesdrivingtheasoalcangeofotferounityinroicCeseke.ResoucesndEviotitheYangtze Basin，2013，22(3)：343-352.  \n27Baiaoidlcehcurefotedeai(4): 369-377.  \n28]SpolarbjrbipoctbsdilfeLake Visovac（Krka River,Croatia).International Review of Hydrobiology，2005,90(5-6）：555-579.  \n[29]ChoiJogKJoGJinfallantirotfaswvidefloeatad（UWetlands，South Korea）.International Review of Hydrobiology，2015，100(1）：21-33.  \n]ffYGUsftluresdeiyoplaulatstSystem SE Nigeria. Knowledge and Management of Aquatic Ecosystems，2009,393(2）：1-19.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

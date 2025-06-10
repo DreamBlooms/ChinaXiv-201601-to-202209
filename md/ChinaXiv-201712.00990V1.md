@@ -1,0 +1,119 @@
+# 基础研究
+
+# 盐酸椒苯酮胺对庆大霉素所致豚鼠听力损伤的保护作用
+
+李波波,吴 剑,陈 婧,陈 浩,李永贺南方医科大学珠江医院耳鼻咽喉头颈外科，广东广州510282摘要：目的观察豚鼠耳蜗自噬相关蛋白beclin1和LC3、 $\mathrm { . N a ^ { + } K ^ { + } 2 C l }$ 联合转运体 $( \mathrm { N K C C 1 } ) _ { \mathrm { m R N A } }$ 、内皮素(ET)表达与耳蜗庆大霉素(GM)损伤关系及盐酸椒苯酮胺(PPTA)对损伤的保护作用及其机制。方法将60只豚鼠随机分成对照组、模型组、同期治疗组、造模后对照组、后期治疗组。对照组给 ${ \mathrm { N S } } + .$ 人工外淋巴液、模型组给 ${ \mathrm { G M } } +$ 人工外淋巴液、治疗组给 $\mathrm { G M + P P T A }$ (均连续给药7d),造模后对照组及后期治疗组均连续注射GM7d后，再分别行人工外淋巴液及PPTA连续注入 $7 \mathrm { d } _ { \circ }$ 所有豚鼠给药前均手术行听泡置管,NS及G $\mathbf { \dot { M } } ( 1 6 0 \mathbf { m g } \mathbf { \cdot k g } ^ { - 1 } \mathbf { \cdot d } ^ { - 1 } )$ 采用腹腔注射，人工外淋巴液及PPTA采用听泡注入。各组豚鼠完成给药后ABR测试分析听力，检测beclin1和LC3、NKCC1mRNA及ET-1的表达。结果模型组、造模后对照组的ABR结果差异无统计学意义心 $( P { > } 0 . 0 5 )$ ，但两者均明显高于其余3组（ $( P { < } 0 . 0 5 )$ ，同期治疗组豚鼠ABR阈值明显低于后期治疗组 $_ { ( P < 0 . 0 5 ) }$ ;模型组LC3Ⅱ及Beclin1的表达量较其余4组明显升高，后期治疗组LC3I及Beclin1的表达量较造模后对照组降低；模型组NKCC1mRNA表达较其余4组明显升高 $( P { < } 0 . 0 5 )$ ，后期治疗组NKCC1mRNA表达明显低于造模后对照组 $( P { < } 0 . 0 5 )$ 。模型组各部位ET-1表达较其余4组明显增高，对照组各部位ET-1表达低于其余4组，后期治疗组各部位ET-1表达较造模后对照组降低。结论PPTA可抑制耳蜗细胞自噬、NKCC1、ET-1的表达，从而对耳蜗庆大霉素损伤起到保护作用;PPTA早期对抗庆大霉素耳蜗损伤效果更优,提示GM可能对听觉细胞产生不可逆损伤。
+
+关键词：耳蜗；盐酸椒苯酮胺； $\mathrm { N a } ^ { + } \mathrm { K } ^ { + } 2 \mathrm { C l }$ 联合转运体；内皮素1;庆大霉素
+
+# Protective effect of peperphentonamine injection through the otocyst against gentamicininduced cochlear damage in guinea pigs
+
+LIBobo,WUJian,CHENJing,CHENHao,LI Yonghe DepartmentoftalaryngologyHeadndNeckurgery,ZujiangHospitalouthrnedicalesityuangzoui
+
+Abstract: Objective To explore the relationshipof gentamicin-induced cochlear damage with autophagy-related proteinLC3, beclin1, $\mathrm { N a } ^ { + } \mathrm { K } ^ { + } 2 \mathrm { C l } ^ { - }$ cotransporter (NKCC1) mRNA and endothelin-1 (ET-1),and investigate the protective mechanism of PPTA against gentamicin-induced cochlear damage.Methods Sixty guinea pigs were randomly divided into control group (with salineandartificial perilymph injections)，model group (with gentamicinand artificial perilymph injections),concurrent treatment group(with gentamicin and PPTAinjections), modelcontrol group(withartificial perilymph injection7daysafter gentamicin injection)and delayed treatment group (with PPTA injection 7 days after gentamicin injection). Saline and gentamicin $( 1 6 0 ~ \mathrm { m g / k g } )$ were injected intraperitoneall,and artificial perilymph and PPTA were injected into the otocysts on a daily basis for7consecutive days.Hearing impairmentof the guinea pigs wasanalyzed with ABR,andthe protein expresions of beclin1 and LC3 in cochlear tissue were tested.The expression of NKCC1 mRNA was detected with RT-PCR,and the expresionof ET-1 wasdetected immunohistochemically.Results TheABR thresholds inthe model groupand modelcontrol group were similar $( P { > } 0 . 0 5 )$ , but significantly higher than those in the other 3 groups $( P { < } 0 . 0 5 )$ ; the threshold was significantly lower in concurrent treatment group than in delayed treatment group $_ { ( P < 0 . 0 5 ) }$ . Compared with those in the other 4 groups, the expressions of LC3 II, beclin1, and NKCC1 mRNA were significantly increased in the model group $_ { ( P < 0 . 0 5 ) }$ ;and those in delayed treatment group were significantly lower than those in the model control group $_ { ( P < 0 . 0 5 ) }$ . The expressions of ET-1 in the Corti organ,striavascularis and spiral ganglion were significantly higherinthe model group butsignificantlylower in the control group thanthose in the other 4 groups; ET-1 expresion was significantlylowerindelayed treatment groupthan inthe model control group. Conclusion PPTA ofers protection against gantamicin-induced cochlear damage in guinea pigs by
+
+inhibiting cell autophagy and suppressing of NKCC1 and ET-1 expressions. Early intervention with PPTA produces better therapeutic effect, suggesting that gantamicin causes irreversible injury of the auditory cells.
+
+Key words: cochlea; peperphentonamine; Na+K\*2Cl cotransporter; endothelin-1; gentamicin
+
+感音神经性耳聋是临床常见的疾病,包括噪声性聋、老年性聋、药物性聋、突发性聋。其机制可能为通过机械力[]、氧自由基[2]、钙超载[3]等致使听觉感受器损害，病理改变主要分布于耳蜗和听神经4]，目前主要的治疗方法为配戴助听器或植入人工耳蜗，但是这两种方法对听力损害有所改善的病人使用是受限的5。虽然感音性耳聋发生在急性期，药物有时可以改善听力下降，但传统药物治疗有一定的限制，因此人们开始寻找新的药物和治疗方法。由于Cruz等在损伤刚孵育的雏鸡耳蜗毛细胞后发现其仍可再生，Forge等发现豚鼠耳蜗及迷路中也有毛细胞的再生，人们认识到保护和促进毛细胞的再生或许是治疗感音神经性耳聋的新方向。因此，这些新药和新疗法都以耳蜗毛胞作为靶点，保护受损毛细胞，促进毛细胞再生，以期达到治疗目的。Korver等[8发现D-甲硫氨酸可减少卡铂对毛细胞的损伤,预防听力下降;Lynch等[发现,口服 $4 { \sim } 1 0 ~ \mathrm { m g / k g }$ ebselen可减少动物噪声暴露后永久性阈移和暂时性阀移的产生;一些中药对于防止毛细胞及听神经细胞损伤,促进毛细胞再生也有一定效果[10-]。盐酸椒苯酮胺(PPTA)是一类治疗心肌缺血再灌注保护药，可降低心肌耗氧量，增加心肌细胞对钙离子的敏感性，同时不引发钙超载，本课题组先前的研究表明PPTA可改善豚鼠耳蜗缺血再灌注损伤[12],并抑制缺血再灌注后 $\mathrm { I L } { - } 1 \beta$ 、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ,Caspase-3及Fas表达[13-14],本研究在前期工作的基础上进一步探讨其对豚鼠庆大霉素所致听力损伤的保护作用。
+
+# 1 材料和方法
+
+# 1.1实验动物及分组
+
+健康成年纯白红目雄性豚鼠60只，体质量 $3 0 0 \sim$ $3 5 0 ~ \mathrm { g }$ ，双侧耳廓反射灵敏,鼓膜完整，标志清楚，并由ABR检测无听力异常。由南方医科大学实验动物中心提供(动物合格证编号：44002100006861)。随机分为对照组、模型组、同期治疗组、造模后对照组、后期治疗组共5组，每组12只。
+
+# 1.2主要实验试剂
+
+PPTA溶液（干粉剂，广州众为公司，溶于 $3 { < } \mathrm { p H } { < } 5$ 超纯水， $2 \mathrm { m g / m L }$ );硫酸庆大霉素注射液(广药白云山国药准字号H44022095）；Anti-Endothelin1抗体(abcam,货号ab117757);Anti-LC3兔抗(sigma,货号L8919）；Anti-Beclin1兔抗（Sigma，货号B6186）;Anti-Actin兔抗(Sigma,货号A4700);羊抗兔二抗（中杉金桥);TotalRNA提取试剂RNAiso Plus,PrimeScriptRT reagent Kit With gDNA Eraser,SYBR Premix ExTaqTM(Takara)。
+
+1.3实验方法
+
+1.3.1给药剂量及方法对照组腹腔注射同GM等量生 理盐水、听泡内注入人工外淋巴液0.1mL/次、3次/d,连 续7d;模型组腹腔注射 $\mathrm { G M \ 1 6 0 \ m g { \cdot } k g ^ { - 1 } { \cdot } d ^ { - 1 } }$ 听泡内注 入人工外淋巴液 $0 . 1 \mathrm { m L }$ 次、3次/d，连续7d;同期治疗 组腹腔注射( $\mathrm { \bf { \dot { J } } M _ { \ell } } 1 6 0 \mathrm { \ m g } \cdot \mathrm { k g } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 } ,$ 听泡内注入PPTA液 $0 . 1 ~ \mathrm { m L }$ 次、3次/d，连续7d;造模后对照组腹腔注射GM $1 6 0 \mathrm { m g \bullet k g ^ { - 1 } \bullet d ^ { - 1 } }$ ，连续7d后再行听泡内注入人工外淋巴 液 $0 . 1 ~ \mathrm { m L }$ 次、3次/d,连续7d;后期治疗组腹腔注GM $1 6 0 \mathrm { m g \cdot k g ^ { - 1 } \cdot d ^ { - 1 } }$ ,连续7d后再行听泡内注入0.1mL/次、 3次/d,连续 $\mathrm { 7 ~ d } _ { \circ }$ （20
+
+1.3.2听泡注药方法及标本取材豚鼠腹腔内注射 $2 \%$ 戊巴比妥钠( $\mathrm { 3 0 ~ m g / k g ) }$ 麻醉后，双耳备皮， $3 7 ~ \mathrm { ^ { \circ } C }$ 保温毯保温，常规消毒、铺无菌巾， $0 . 5 \%$ 利多卡因注射液行局部麻醉，于距耳后沟后1/3约 $0 . 5 \mathrm { c m }$ 处作切口，切开皮肤约$1 \mathrm { c m }$ ，钝性分离皮下组织及颞肌,暴露听泡，尖刀片在听泡上钻孔，孔径约 $1 . 5 \mathrm { m m }$ ，于小孔处置入外径约为 $1 . 5 \mathrm { m m }$ 的塑料软管，软管内插人内导丝，逐层缝合切口并固定导管。每次给药时可从拔出内导丝后从导管内行听泡注药。各组完成给药及活体检测项目后，断头处死，快速取出听泡，分离耳蜗备用。
+
+1.3.3听性脑干反应检测各组豚鼠在完成给药后检测听性脑干反应(ABR)。测试采用本单位"听觉电生理动物实验"测听平台，所有豚鼠的ABR检测操作均于隔音屏蔽室中在全麻下进行 $( 2 \%$ 戊巴比妥钠 $3 0 \mathrm { m g / k g }$ 腹腔注射)。自制短银针(极间电阻 $< 2 0 0 0 \Omega ,$ 插入豚鼠双耳前水平颅顶正中皮下作为记录电极，受试耳耳后皮下插入参考电极,对侧耳后皮下插入接地电极。距外耳道口约 $5 \mathrm { m m }$ 处放置测试耳机,对侧耳加噪声(低于刺激声20dBSPL)掩蔽。以短声进行测试，刺激采样的重复频率为11.1次/s(间隔 $9 0 ~ \mathrm { m s }$ ),交替相位消除伪迹，带通滤波 $1 0 0 { \sim } 3 0 0 0 \ \mathrm { H z }$ ,叠加信号500次，分析时程周期 $2 0 ~ \mathrm { m s }$ ，上下声强级调节为5dBSPL增减。以能引出Ⅲ波的最小声强确定反应阈，每只豚鼠测量3次后取平均值定为反应阈。
+
+1.3.4Westernblot检测耳蜗组织自噬水平取各组豚鼠耳蜗组织，PBS液充分灌洗冲出淋巴液后，显微镜下小心剥除蜗壳，完整保留蜗内组织及蜗轴，将耳蜗组织加入裂解液高速匀浆机充分粉碎后冰上裂解 $3 0 ~ \mathrm { m i n }$ $4 \ \mathrm { { ^ circ C } , 1 4 0 0 0 \ r / m i n , 1 5 \ m i n }$ ，将样本标准化，取各组蛋白经聚丙烯酰胺凝胶电泳后转膜。 $5 \%$ 脱脂奶粉液室温封闭 $3 0 ~ \mathrm { m i n }$ 后，加入一抗 $4 ^ { \circ } \mathrm { C }$ 过夜，TBST液洗涤，加入二抗室温孵育 $2 \mathrm { h }$ ，加发光液曝光显像。
+
+1.3.5RT-PCR检测耳蜗NKCC1mRNA的表达听泡内取出耳蜗，剥除蜗壳，将耳蜗组织置入 $2 { \mathrm { m L } }$ 冻存离心管中，液氮迅速冻存后 $- 8 0 \ \mathrm { { ^ { \circ } C } }$ 保存。根据表1的引物设计，对提取TotalRNA后合成的cDNA进行RT-PCR检测。
+
+表1引物序列设计 Tab.1PCR primer sequences   
+
+<html><body><table><tr><td>Primer</td><td>Primer sequence (5'→3')</td><td>Length(bp)</td></tr><tr><td>NKCC1</td><td>F-TCCGGTTCACGCAGATGAC R-CAAGTCCAGCAGCCTGCAT</td><td>62</td></tr><tr><td>β-action</td><td>F-GCCAACCGTGAGAAGATGAC R-CCAGAGGCATACAGGGACAG</td><td>98</td></tr></table></body></html>
+
+以β-action为内参,用 $2 ^ { - \triangle \triangle \mathrm { c I } }$ 进行mRNA的表达定量。
+
+1.3.6 内皮素1蛋白表达的免疫组化染色检测 耳蜗取材后，于蜗顶钻孔，并开放蜗窗及前庭窗，蜗内缓慢注入并整体于 $4 \%$ 多聚甲醛中固定 $2 4 \mathrm { ~ h ~ }$ ，清洗固定液后于$1 0 \% \mathrm { E D T A }$ 脱钙液中脱钙1周，石蜡包埋切片后按试剂盒说明行免疫组织化学染色。每张切片在200倍下分别于螺旋神经节、Corti器及血管纹随机各取3个视野摄像。并Motic系统进行图像分析，以细胞棕黄色染色为阳性，并综合行积分光密度分析。
+
+# 1.4统计学处理
+
+实验数据以均数 $\boxdot$ 标准差表示，采用SPSS19.0软件进行one-wayAVONA方差分析，一组与多组之间比较时采用LSD法， $P { < } 0 . 0 5$ 时差异有统计学意义。
+
+# 2结果
+
+# 2.1ABR结果
+
+各组豚鼠给药后ABR反应阈值比较，治疗组豚鼠ABR阀值明显低于于模型组( $3 0 . 8 { \pm } 8 . 5 \$ vs $6 2 . 9 5 { \scriptstyle \pm 9 . 9 }$ 新 $P <$ 0.001)，但明显高于对照组( $3 0 . 8 { \pm } 8 . 5 \$ vs $1 5 . 4 { \pm } 3 . 3 \$ ， $P <$ 0.001)；后期治疗组ABR值明显低于模型对照组 $4 8 . 8 \pm$ 9.1 vs $6 8 . 3 { \pm } 7 . 5 \$ $P { < } 0 . 0 0 1 \rangle$ ，但明显高于治疗组（ $4 8 . 8 \pm$ 9.1 vs $3 0 . 8 { \pm } 8 . 5 , P { < } 0 . 0 0 1$ ),模型组、模型后对照组ABR反应阀差异无统计学意义 $( P { > } 0 . 0 5 )$ 。
+
+# 2.2自噬蛋白LC3I及LC3ⅡI的表达结果
+
+模型组LC3I（与actin的比值)及Beclin1的表达量较其余4组明显升高，后期治疗组LC3ⅡI（与actin的比值)及Beclin1的表达量较造模后对照组降低(图1)。
+
+![](images/b1a2770331caeefc80fd937130f767e8ead9bdc022d77741960a81c345250eab.jpg)  
+图1WB检测各组耳蜗组织LC3、Beclin1蛋白表达 Fig.1Western bloting fordetecting protein expression of LC3 I (lane 1),LC3 II (lane 2)and beclin1 (lane3) in the cochlea.
+
+# 2.3PCR结果
+
+模型组NKCC1mRNA表达较其余4组明显升高中 $3 . 5 8 2 \pm 0 . 2 4 1$ vs $1 . 9 9 4 \pm 0 . 1 1 3 , 2 . 3 5 6 \pm 0 . 3 3 2 , 2 . 5 8 8 \pm$ $0 . 1 6 2 , 1 . 1 1 4 \pm 0 . 1 2 7 , P { < } 0 . 0 5 )$ ，后期治疗组NKCC1mRNA表达明显低于造模后对照组 $( 1 . 1 1 4 \pm 0 . 1 2 7$ vs$2 . 5 8 8 { \pm } 0 . 1 6 2 , P { < } 0 . 0 5 )$ ，造模后对照组NKCC1mRNA表达较对照组明显升高（ $2 . 5 8 8 { \scriptstyle \pm 0 . 1 6 2 }$ vs $1 . 9 9 4 { \scriptstyle \pm 0 . 1 1 3 }$ $P { < } 0 . 0 5 )$ ）
+
+# 2.4ET-1蛋白免疫组化表达结果
+
+ET-1在耳蜗螺旋神经节、Corti器和血管纹均有表达，主要表达于胞膜及胞浆中。模型组各部位ET-1表达较其余4组明显增高，对照组各部位ET-1表达低于其余4组，后期治疗组各部位ET-1表达较造模后对照组降低(图2)。
+
+# 3讨论
+
+在绝大部分感音性耳聋的患者中，内耳毛细胞的损伤或丢失是引起该疾病的主要原因。其中，耳蜗毛细胞缺血缺氧，导致活性氧堆积，是一个重要原因。内耳骨迷路的微血管能够产生ET-1[15]。研究表明ET-1可以增加AcE及AngⅡ的活性[1-17],而ACE也是强烈的缩血管物质，二者协同可使内耳缺血更加严重;ET-1作用于靶细胞可加速细胞内 $\mathrm { C a ^ { 2 + } }$ 释放，促进胞内 $\mathrm { { C a ^ { 2 + } } }$ 浓度升高，促进 $\mathrm { C a } ^ { 2 + }$ 通道开放及内流，造成细内钙超载，导致细胞损伤及死亡[7-18]。免疫组化的结果表明,给予GM刺激时，螺旋神经节、Corti器和血管纹ET-1内皮素表达升高，继而刺源小动腺收缩，导致该部位缺血缺氧，使毛细胞损伤。将给予庆大霉的小鼠给予PPTA预防性保护后可以发现内皮素的表达量下降，表明PPTA可以改善内耳的血供，降低钙负载。 $\mathrm { N a ^ { + } / K ^ { + } / 2 C l }$ 离子共转运体(NKCC)是有12个跨膜结构域,大小为195000糖蛋白[19]。在肠上皮细胞中NKCC是主要摄取氯离子的结构[20]。当细胞受到刺激时，其膜上的NKCC就会被激活，导致大量的$\mathrm { { N a ^ { + } / K ^ { + } / C l } }$ 进入细胞，使细胞渗透压严重升高，可以导致耳蜗内毛细胞、传入神经纤维的水肿、变性等一系列形态学和功能学的改变[22]。PCR结果表明,当给予庆大霉素刺激时，耳蜗NKCC表达上升，给予PPTA后，表达下降,这与上述文献报道一致。
+
+当外部刺激持续存在时，细胞将发生死亡。细胞的死亡方式包括凋亡、自噬和坏死。众多研究已表明感音性耳聋存在着内耳毛细胞的凋亡[23-25],但是否存在自噬尚无文献报道。自噬是一种真核细胞中普遍存在的由溶酶体参与的自身吞噬细胞器及胞内蛋白的细胞行为，借此进行自身胞内物质的代谢和再利用，并能自我更新细胞器,有效维持细胞的内环境稳态及存活[26]。LC3自噬的关键蛋白，对自噬小体的形成起着至关重要的作用27]实验结果表明，当小鼠受到庆大霉素刺激时，其耳蜗细胞自噬水平增加，PPTA保护性用药后，自噬水平又会降低。表明庆大霉素会造成耳蜗细胞自噬性死亡，PPTA可以减少这种现象的发生。
+
+![](images/5cb3aaa43b320300c0a93e3efce9a9b6337b5419c51395daaaa0d7798c81ec98.jpg)
+
+参考Oishi等[28-29]庆大霉素豚鼠耳毒性造模过程，结合实验具体情况，选用体质量较大的雄性豚鼠，行预实验造模，予庆大霉素 $1 6 0 ~ \mathrm { m g / k g }$ 、连续注射7d,可获得较为满意的耳聋模型。根据薛薇等[30]对PPTA人体耐受的研究及陈浩等[4]PPTA药物等应用，为保持充足药量的同时给予安全药量，予PPTA液 $\mathrm { ( 2 \ m g / m L ) }$ 00.1mL/次，3次/d听泡注射。听泡注射可较全身给药剂量减少，毒副作用小,药效确切。本研究结果中，在庆大霉素耳毒性造模过程中同时应用PPTA进行听力保护的效果明显优于先期造模后再予PPTA保护。但两个不同时期给予保护听力治疗过程中，细胞自噬、NKCC1mRNA、ET-1表达变化的趋势相同。这与临床一致认为的庆大霉素对听觉细胞产生不可逆的损伤相符合，但其后期过程中仍有保护听力作用，并且可能的作用机制仍存在，证明PPTA对发生后的感应神经性耳聋的治疗依然很有意义。另外，采用听泡置管注入给药对听力无明显影响，给药后药物作用明确，并与临床治疗过程中鼓室注射给药类似，是简单而确切有效的给药方法。
+
+总之，PPTA对于以庆大霉素为代表因素造成的感音性耳聋具有保护作用，其通过抑制ET-1表达和NKCC的激活，同时抑制自噬程序的发生来保护耳蜗细胞损伤，进而减少听力损失，PPTA可作为临床治疗感音性耳聋的潜在药物。
+
+# 参考文献：
+
+[1］付勇,龚树生,薛秋红,等.强噪声暴露后大鼠听觉电生理及形态学改 变[J].临床耳鼻咽喉头颈外科杂志,2008,22(11):509-12.   
+[2]Sha SH,Taylor R,Forge A,et al. Differential vulnerability of basal and apical hair cells is based on intrinsic susceptibility to free radicals[J].Hear Res,2001,155(1/2): 1-8.   
+[3]李兴启,杨仕明,张 倩,等.基因突变与耳蜗微环境[J].中华耳鼻咽喉 头颈外科杂志,2009,44(2):167-71.   
+[4] Moser T,Predoehl F, StarrA.Review of hair cell synapse defects in sensorineural hearing impairment[J]. Otol Neurotol, 2013,34(6): 995-1004.   
+[5] Nakagawa T. Strategies for developing novel therapeutics for sensorineural hearing loss[J].Front Pharmacol,2014,5(8): 206.   
+[6] Cruz RM,Lambert PR,Rubel EW.Light microscopic evidence of hair cell regeneration after gentamicin toxicity in chick cochlea[J]. Arch Otolaryngol Head Neck Surg,1987,113(10): 1058-62.   
+[7]Forge A,LiL, Corwin JT, et al. Ultrastructural evidence for hair cell regeneration in the mammalian inner ear[J].Science,1993,259 (5101): 1616-9.   
+[8]Korver KD，Rybak LP,Whitworth C，et al.Round window applicationofD-methionineprovidescompletecisplatin otoprotection[J]. Otolaryngol Head Neck Surg,2002,126(6): 683-9.   
+[9]Lynch ED,Kil J.Compounds for the prevention and treatment of noise-induced hearing loss [J].Drug Discov Today,20o5,10(19): 1291-8.   
+[10]李胜利,朱宏亮,刘全征,等.纯中药制剂复聪汤对感音性聋耳蜗毛细 胞修复再生的实验研究[C]/首届全国方剂组成原理高峰论坛论文 集,黄山,2012:12-4.   
+[11]徐庆瑞,石广蔚.葛根素注射液加地塞米松预防鼻咽癌放化疗所致感 音性听力损害临床观察[J].国际中医中药杂志,2011,33(12): 1115-6.   
+[12]李永贺,李 威,陈 浩,等.盐酸椒苯酮胺对豚鼠耳蜗缺血再灌注损伤 的听力保护作用[J].听力学及言语疾病杂志,2013(6):603-7.   
+[13]李永贺,吴 剑,李 威,等.盐酸椒苯酮胺对耳蜗缺血再灌注后白介 素-1β、肿瘤坏死因子-αmRNA及Fas蛋白表达的影响[J].南方医科大 学学报,2013,33(11):1669-72,1677.   
+[14]陈 浩,谢民强,吴 剑,等.盐酸椒苯酮胺通过降低caspase-3表达减轻 庆大霉素豚鼠耳蜗损伤[J].南方医科大学学报,2014,34(3):329-34.   
+[15]Jinnouchi K. Mechanism of endothelin 1 production in the cochlea of rats[J]. ORL J Otorhinolaryngol Relat Spec,2001,63(1): 6-11.   
+[16]Luft FC.Proinflammatory effects of angiotensin II and endothelin: targets for progression of cardiovascular and renal diseases[J]. Curr Opin Nephrol Hypertens,2002,11(1): 59-66.   
+[17]程 虹,谌贻璞.内皮素-1与肾素-血管紧张素-醛固酮系统的相互作用 [J].肾脏病与透析肾移植杂志,2003,12(4):371-4.   
+[18]张莹雯,涂晋文.内皮素在大鼠药物性肾损害尿液中的变化及意义 [J].武汉大学学报:医学版,2004,25(6):714-5.   
+[19]Xu JC,Lytle C,Zhu TT,et al.Molecular cloning and functional expression of the bumetanide-sensitive Na-K-Cl cotransporter[J]. Proc Natl Acad Sci USA,1994,91(6): 2201-5.   
+[20]D'andrea L,Lytle C,Matthews JB,et al. Na:K:2Cl cotransporter (NKCC)of intestinal epithelial cells. Surface expressionin response to cAMP[J].JBiol Chem,1996,271(46): 28969-76.   
+[21] Zhao H, Hyde R, Hundal HS. Signalling mechanisms underlying the rapid and additive stimulation of NKCC activity by insulin and hypertonicity in rat L6 skeletal muscle cells[J].JPhysiol,2004,560 (Pt 1): 123-36.   
+[22]孙 就,李兴启,单希征.耳蜗内毛细胞及传入神经突触损伤后的修复 [J].国外医学:耳鼻咽喉科学分册,2005,29(4):208-10.   
+[23]吴龙军,黄益灯,李兴启.耳蜗毛细胞凋亡及其基因调控的保护作用 [J].国际耳鼻咽喉头颈外科杂志,2014(3):125-8.   
+[24]王 静,施建蓉.氨基糖甙类抗生素与内耳毛细胞凋亡[J].中国中西医 结合耳鼻咽喉科杂志,2007,15(5):395-8.   
+[25]于 红,祝 威,李兴启.活性氧与内耳毛细胞凋亡相关的信号转导及基 因调控[J].国际耳鼻咽喉头颈外科杂志,2006,30(2):134-7.   
+[26]李红园,魏丽娟,魏占勇,等.细胞自噬的研究进展[J].畜牧与兽医, 2015,47(5): 143-6.   
+[27]Alonso S,Pethe K,Russell DG,et al.Lysosomal killing of Mycobacterium mediated by ubiquitin-derived peptides is enhanced by autophagy[J]. Proc Natl Acad Sci U SA,2007,104(14): 6031-6.   
+[28] Oishi N,Kendall A，Schacht J. Metformin protects against gentamicin-induced hair cell death in vitro but not ototoxicity in vivo[J]. Neurosci Lett, 2014,583(7): 65-9.   
+[29]Wang J,Wang Y, Chen X,et al. Histone deacetylase inhibitor Sodium butyrate attenuates gentamicin-induced hearing loss in vivo [J].Am JOtolaryngol,2015,36(2): 242-8.   
+[30]薛 薇,史爱欣,李茹冰,等.盐酸椒苯酮胺在中国健康人体连续给药的 耐受性研究[J].中国临床药理学杂志,2014,32(6):511-3. (编辑：吴锦雅）

@@ -1,0 +1,158 @@
+# 基于不同方法测定土壤酸性磷酸酶活性的比较
+
+李莹飞 耿玉清\*\* 周红娟 杨英(北京林业大学林学院 北京 100083)
+
+摘要土壤酸性磷酸酶与有机磷的矿化及植物的磷素营养关系最为密切。目前国内学者在测定酸性磷酸酶活性时主要参照关松荫《土壤酶及其研究法》中以磷酸苯二钠为基质的测定方法，而国外学者主要参照 Dick《Methods of SoilEnzymology》中以对硝基苯磷酸二钠为基质的测定方法(PNPP)。但是，在以磷酸苯二钠为基质测定生成物的过程中，常出现显色程度不明显的问题；另外，采用不同基质测定酸性磷酸酶活性也造成了测定方法选择的困难。为合理选择土壤酸性磷酸酶活性的测定方法，本研究选用酸性、中性和碱性土壤各 10个土样，分别采用以磷酸苯二钠为基质，且在显色阶段分别加入 $\mathrm { p H } 5 . 0$ 醋酸盐缓冲液(DPP1)和 $\mathsf { p H 9 . 4 }$ 硼酸盐缓冲液(DPP2)的方法，以及PNPP方法测定土壤酸性磷酸酶活性。同时也研究了不同 $\mathsf { p H }$ 缓冲液和苯酚浓度对生成物显色反应的影响。结果表明：以磷酸苯二钠为基质、在显色反应阶段加入 $\mathrm { p H } \leqslant 6$ 的缓冲液时，苯酚和2.6-二溴苯醌氯亚胺不显色；当加入 $\mathrm { p H } \geqslant 8$ 的缓冲液时，两者之间显色且苯酚浓度和吸光值的Pearson相关系数极显著。这说明 $\mathsf { p H }$ 低是导致高苯酚浓度和 2,6-二溴苯醌氯亚胺显色效果差的一个主要原因。此外，采用PNPP 方法测定时，在酸性、中性和碱性土壤中，10个样本酸性磷酸酶活性的变异系数分别较 DPP2增加了$70 . 0 4 \%$ 、 $4 2 . 4 4 \%$ 和 $2 1 . 1 7 \%$ ；极差分别是DPP2的27.18倍、26.85倍和39.43倍。总之，如果选用磷酸苯二钠为基质测定土壤酸性磷酸酶活性，应在显色阶段加入碱性硼酸盐缓冲液；选用对硝基苯磷酸二钠为基质，是更为简单和灵敏的方法。
+
+关键词 土壤酸性磷酸酶活性 磷酸苯二钠对硝基苯磷酸二钠 pH 显色中图分类号：S154.2 文献标识码：A 文章编号:1671-3990(2016)01-0098-07
+
+# Comparison of soil acid phosphatase activity determined by different methods
+
+LI Yingfei, GENG Yuqing\*\*, ZHOU Hongjuan, YANG Ying (Forestry College,Beijing Forestry University,Beijing 10oo83,China)
+
+AbstractSoilphosphatase,especiallacidphosphatase,playsacriticalroleinthedecompositionoforganicphosphorusand has a major impacton plant phosphorusuptake.Most Chinese researchers refer to the book entitled Soil Enzyme and Its Research Method,editedby Songyin Guan,for measurement method of soil acid phosphatase activity basedon phenyl phosphate disodium salt substrate.In contrast,researchers outside China mainly citethe book entitled Methodsof Soil Enzymology,edited by Dick, that was based on disodium $p$ -Nitrophenyl phosphate tetrahydrate (PNPP) substrate.However, non-conspicuous coloration has existed forthe measurement of products based on phenyl phosphate disodiumsalt substrate. Furthermore,it has been dificult forresearchers to select anoptimal method fordeterminingacid phosphatase activitysince thesemethods use different substrates.Todetermine the optimal method for measuring soil acid phosphatase activitythree diferent methods wereused to measure theacid phosphatase activityof1Osoil samples ofacid,neutral and alkaline soils, respectively.The three selected methods were 1)based on phenyl phosphate disodium salt substrate and colored using $\mathrm { p H } 5 . 0$ acetate buffer (DPP 1); 2) based on phenyl phosphate disodium salt substrate and colored using $\mathrm { p H } 9 . 4$ borate buffer (DPP 2)
+
+during chromogenic process;or3)the PNPP method.Furthermore,the study analyzed the effects of diferent pHbuffers and phenol concentrations on product absorbance.The results showed that chromogenic reaction of phenol with 2,6-dibromchinone-chlorimide was colorless within $\mathrm { \ p H } \leqslant 6$ buffer solution with phenyl phosphate disodium salt as the substrate.In contrast, the above chromogenic reaction was observed under alkaline bufer $\mathrm { ( p H ) } \geqslant 8 .$ )in all the samples.And there were significant differences in the Pearson correlation coefficient $( R ^ { 2 } )$ between phenol concentration and product absorbanceat O.Ol level.Therefore，pH was a significant factor in determining the coloration between phenol and 2,6-dibromchinone-chlorimide.Furthermore,whenacid phosphataseactivitywas determined using thePNPP method,the coefficient of variation of acid phosphatase activities in the 10 soil samples increased by $70 . 0 4 \%$ ， $42 . 4 4 \%$ and $2 1 . 1 7 \%$ in acid, neutraland alkalinesoils,respectively,which wasin sharpcontrasttothose determined usingthe DPP2method.Therangeof soilacidphosphataseactivitiesdeterminedbythePNPPmethodwas27.18,26.85and39.43timeslargerthanthosedetermned bythe DPP2methodinacid,neutralandalkalinesoils,respectively.Theseresultssuggested thatregardlessofsoilacidity PNPP wa aneasier and more sensitive methodthan DPP2forthe estimation ofsoil acid phosphatase activity.Inaddition,if phenylphosphate disodiumsalt wasused as substrate inanassy,alkalineborate was the most suitable bufer forcoloration reaction systems.
+
+KeywordsSoil; Acid phosphatase activity; Phenyl phosphate disodium salt; Disodium $p$ -Nitrophenyl phosphate tetrahydrate; pH; Coloration
+
+土壤磷为植物生长必需的营养元素之一，其中有机磷所占比例达 $1 5 \% { \sim } 8 0 \% ^ { [ 1 ] }$ 。由于有机磷不能被植物直接吸收利用，从而成为陆地生态系统一个主要的限制养分[2]。磷酸酶可催化磷酸脂或磷酸酐的水解，其活性的高低直接影响有机磷的分解转化及其生物有效性。其中酸性磷酸单酯酶与有机磷的矿化及植物的磷素营养关系最为密切[3-4]，且在酸性土壤中占优势[5]。
+
+酶的提取比较困难，对磷酸酶活性的测定主要是根据一定量的基质在酶催化反应过程中生成物或剩余底物量间接测得[6-7]。自Kroll等最早提出用磷酸苯酯作基质，以酚的释放量表示磷酸酶活性以来[6，对土壤磷酸酶活性测定方法的改进主要围绕基质以及缓冲液的种类进行。已报道采用的基质包括天然的基质(主要是核酸）、 $\beta$ -萘基磷酸钠、 $\beta$ -甘油磷酸盐、磷酸苯二钠、对硝基酚磷酸钠和酚酞磷酸盐等[8-10]。由于传统的分光比色测定方法成本低，较荧光比色更具有普遍性。本研究主要关注适用于分光比色的磷酸酶基质。
+
+在分光比色方法中，自前国际上大部分学者使用对硝基苯磷酸二钠为基质测定磷酸酶的活性，且有研究表明该方法是最快速且准确的[9,11]。有外文统计，在磷酸酶的动力学特征研究中，有706个数据使用对硝基苯磷酸二钠为基质，而只有140个数据使用其他基质[12]。此外，目前我国学者在研究中经常用到的基质是磷酸苯二钠[13]。虽早期有研究表明,在 $\mathsf { p H } ~ 6 . 5$ 条件下采用磷酸苯二钠测定磷酸酶活性时存在显色不稳定的问题[11,14]，但此测定方法已收录在一些参考书中[15-18]。且目前在中国知网上可查阅到不少使用该基质的文献[19-20]，在Science Direct网
+
+也有个别文献[21-22]。
+
+由于以磷酸苯二钠为基质测定磷酸酶活性的原理是基于磷酸苯二钠经磷酸酶水解后形成的酚，在碱性条件下与显色剂2,6-二溴苯醌氯亚胺反应，在酚羟基的对位引入醌亚胺生色基而生成兰色的靛酚盐[23-24]。目前国内部分参考书在描述土壤酸性磷酸酶活性的测定方法时提到在培养以及显色时均要加入醋酸盐缓冲液，使苯酚与2,6-二溴苯醌氯亚胺在酸性条件下反应[16-18]。但是《Methods in SoilBiology》中提到培养时加入醋酸盐缓冲液，而显色时加入硼酸盐缓冲液，使最终显色反应在碱性环境中进行[25]。国内大部分学者所参考的关松荫的《土壤酶及其研究法》中，在介绍土壤磷酸酶活性的测定方法时，描述为测定酸性磷酸酶活性需采用酸性醋酸盐缓冲液培养，而在显色过程中只提到加入缓冲液，具体是硼酸盐缓冲液还是醋酸盐缓冲液，并未具体说明[15]。此外，本文作者和其他学者前期相关工作表明，在采用磷酸苯二钠为基质加醋酸盐缓冲液显色的过程中出现不显色而影响酶活性测定的现象。故本研究以测定酸性磷酸酶活性时，酸性条件下不利于苯酚与2,6-二溴苯醌氯亚胺显色为假设，选用酸性、中性和碱性土壤来比较基于磷酸苯二钠为基质在不同酸碱缓冲液条件下的显色反应，同时把基于磷酸苯二钠为基质测定酸性磷酸酶活性的方法与对硝基苯磷酸二钠为基质的测定方法进行灵敏性比较，探讨基质对土壤酸性磷酸酶活性测定准确性和灵敏性的影响。研究结果可为土壤酸性磷酸酶活性的测定以及方法的选择提供依据，对改善土壤磷素营养状况具有重要意义。
+
+# 1 材料与方法
+
+# 1.1 供试土壤
+
+在土壤生物指标的研究中，不能仅根据土壤pH的高低，就简单地选择酸性磷酸酶或碱性磷酸酶单项指标，在非酸性土壤中也可以利用酸性磷酸酶活性作为微生物活动和功能的指标。为研究不同类型的土壤对不同方法的敏感程度，本研究选择pH 在$4 { \sim } 1 0$ 范围的3类土壤各10个土样来测定不同土样之间酸性磷酸酶活性的极差和变异系数。酸性土壤采自江西省分宜县大岗山地区， $\mathfrak { p H }$ 为 4.32\~4.46，士壤类型是红壤，植被类型是天然常绿阔叶林；中性土壤采自北京八达岭林场, $\mathsf { p H }$ 为 $6 . 2 6 { \sim } 7 . 3 5$ ，土壤类型是棕壤，植被类型主要是油松(PinustabulaeformisCarr.)；碱性土壤采自海拔 $4 \ : 2 0 0 \mathrm { ~ m ~ }$ 以上的青海果洛藏族自治州玛多玛查理镇， $\mathsf { p H }$ 为 $9 . 5 9 { \sim } 1 0 . 0 5$ ，土壤类型是草甸土，植被类型以草原为主。
+
+# 1.2土壤酸性磷酸酶活性的测定方法
+
+以磷酸苯二钠 $( \mathrm { C _ { 6 } H _ { 5 } N a _ { 2 } O _ { 4 } P } ;$ ，CAS编号：3279-54-7)为基质的测定方法依据中国学者广泛参考的《土壤酶及其研究法》的方法[15略作修改，采用两个方法进行酸性磷酸酶活性的测定：一种是在显色时同书中介绍的加磷酸苯二钠溶液的方法一致，加入酸性醋酸盐缓冲液(DPP1)；另一种是显色时加入碱性硼酸盐缓冲液(DPP2)，两种缓冲液的配制以及操作步骤参照书中所介绍的方法[15]。
+
+以对硝基苯磷酸二钠 $( \mathrm { C _ { 6 } H _ { 4 } N N a _ { 2 } O _ { 6 } P { \cdot } 6 H _ { 2 } O }$ CAS编号：4264-83-9)为基质的方法参照《MethodsofSoilEnzymology》中介绍的方法(PNPP)[]。称取1.00 g土壤后以甲苯为抑制剂，添加 $| 4 \ \mathrm { \ m L } \ \mathrm { p H } \ 6 . 5 \$ 改进的通用的缓冲液[每升缓冲液中含有12.1g三羟甲基氨基甲烷$\mathrm { ( C _ { 4 } H _ { 1 1 } N O _ { 3 } ) }$ ， $\mathrm { 1 1 . 6 ~ g }$ 马来酸 $\mathrm { ( C _ { 4 } H _ { 4 } O _ { 4 } ) }$ ， $\mathrm { 1 4 . 0 ~ \ g }$ 柠檬酸$\mathrm { ( C _ { 6 } H _ { 8 } O _ { 7 } ) }$ ， $\mathrm { ~ 6 . 3 ~ } \mathrm { ~ g ~ }$ 硼酸 $\mathrm { ( H } _ { 3 } \mathrm { B O } _ { 3 } \mathrm { ) }$ 和 $\mathrm { 1 9 . 5 2 g }$ 氢氧化钠$\left( \mathrm { N a O H } \right) ]$ ，和 $1 \ \mathrm { m L }$ 对硝基苯磷酸二钠基质溶液后于$3 7 \ \mathrm { { ^ circ C } }$ 下培养 $\mathrm { ~ ! ~ h ~ } _ { \mathfrak { c } }$ 。培养结束后，添加 $\mathrm { C a C l } _ { 2 }$ 和NaOH溶液，并将滤液于 $4 0 0 \ \mathrm { n m }$ 处比色测定。
+
+按文献介绍的方法对照试验有所差异：DPP1和DPP2设立无基质对照和无土壤对照；PNPP设立后加基质对照。为消除空白差异对结果的影响，本研究统一设立无基质对照和无土壤对照。经测定,DPP1、DPP2和PNPP无土壤对照吸光值分别是0.070、0.112和0.108。
+
+1.3缓冲液 $\mathbf { p H }$ 和苯酚浓度对显色反应影响的测定为了解不同pH缓冲液对不同浓度苯酚和2,6-二溴苯醌氯亚胺显色形成兰色靛酚盐的影响，采用pH分别为4.0、6.0、8.0的醋酸盐缓冲液和 $\mathsf { p H } 1 0 . 0$ 的硼酸盐缓冲液测定苯酚浓度分别为 $0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 、 $1 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ $2 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 、 $3 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ ！ $4 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 和 $6 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 的吸光值。每个处理3次重复。
+
+# 1.4 数据统计分析
+
+吸光值数据采用平均值 $\scriptstyle \pm$ 标准差表示。不同土样吸光值的差异，采用SPSS18.0进行LSD差异性检验。不同pH缓冲液下不同苯酚浓度的吸光值采用双因素交互作用分析。苯酚以及对硝基酚浓度与吸光值的关系采用Pearson相关分析。此外，利用MatlabR2010b做图。
+
+# 2 结果与分析
+
+# 2.1不同方法的标准曲线
+
+用DPP1测定，当苯酚浓度为 $1 . 8 ~ \mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 }$ 时，吸光值达到最大值(0.002)；而苯酚浓度为 $0 . 6 ~ \mathrm { \mu g { \cdot } m L ^ { - 1 } }$ 时，吸光值达到最小值(-0.003)(表1)。经Pearson相关分析显示，6个苯酚浓度与所测吸光值之间的相关系数为0.284，相关性不显著。
+
+表1采用DPP1方法测定土壤酸性磷酶活性时不同苯 酚浓度的吸光值 Table 1Absorbance of phenol in different concentrations when measured acid phosphatase activity with DPP1   
+
+<html><body><table><tr><td>苯酚浓度 Phenol concentration (μg:mL-1)</td><td>吸光度 Absorbance</td></tr><tr><td>0</td><td>0</td></tr><tr><td>0.2</td><td>0</td></tr><tr><td>0.6</td><td>-0.003±0.000</td></tr><tr><td>1.0</td><td>-0.002±0.001</td></tr><tr><td>1.4</td><td>-0.001±0.000</td></tr><tr><td>1.8</td><td>0.002±0.000</td></tr></table></body></html>
+
+DPP1参照《土壤酶及其研究法》[15]中介绍的方法，显色时加酸性醋酸盐缓冲液。下同。DPP1referred to the book of“Soil Enzymeand Its Research Method[15],with acid acetate buffer addition whencoloration.
+
+图1显示，随着苯酚浓度的增加，吸光值逐渐增加。DPP2测定时，苯酚浓度与吸光值之间的Pearson相关系数为0.997；PNPP测定时，对硝基酚浓度与所测吸光值之间的Pearson相关系数为1.000。均在0.01水平上显著相关。
+
+# 2.2 不同方法吸光值的比较
+
+# 2.2.1 酸性土壤中酸性磷酸酶活性的吸光值
+
+由于用DPP1测定时苯酚浓度与吸光值之间的Pearson相关系数不显著，也就无法得到满意的标准曲线，即无法计算生成物苯酚的浓度。而在酸性磷酸酶活性的计算过程中需要用到苯酚浓度，从而造成了酸性磷酸酶活性计算的困难。因此，本研究统
+
+![](images/154b042ccf88aa8589f115e5fc1a83638710a74d1cb92a69094c964e45bb1fd8.jpg)  
+图1采用DPP2和PNPP方法测定土壤酸性磷酶活性时不同苯酚浓度与吸光值(Abs)的标准曲线  
+Fig.1Standard curves of different phenol concentrations and absorbance(Abs) when measured acid phosphatase activity with DPP2andPNPP methods
+
+DPP2参照《土壤酶及其研究法》[15]中介绍的方法，显色时加硼 酸盐缓冲液。PNPP参照《Methods of Soil Enzymology》[1]中介绍的 方法。下同。DPP2 referred to the book of“Soil Enzyme and Its Research Method"[15] with borate buffer addition when coloration.PNPP referred to the book of“Methods of Soil Enzymology"[1].The same below.
+
+一采用吸光值指标进行不同土样之间的差异性比较。从表2中可知，用DPP1测定酸性磷酸酶活性时，10个土样吸光值之间差异不大，平均吸光值为0，土样4最大值和土样3最小值之间仅相差0.008；用DPP2测定时，吸光值介于0.089和0.045之间；用PNPP测定时，吸光值介于1.887和0.691之间，极差为1.196，是DPP2的27.18倍。此外，PNPP测定时，10个土样吸光值之间的变异系数为 $3 9 . 6 7 \%$ ，较DPP2增加 $70 . 0 4 \%$
+
+表23种方法测定酸性土壤酸性磷酸酶活性时的吸光值 Table 2Absorbance of acid phosphatase activity in acid soils with three measurement methods   
+
+<html><body><table><tr><td>土样编号 Soil sample No.</td><td>DPP1</td><td>DPP 2</td><td>PNPP</td></tr><tr><td>1</td><td>0.001±0.006abc</td><td>0.045±0.007e</td><td>0.691±0.031f</td></tr><tr><td>2</td><td>-0.001±0.001bcd</td><td>0.052±0.011cde</td><td>0.810±0.033e</td></tr><tr><td>3</td><td>-0.004±0.001d</td><td>0.054±0.003bcde</td><td>0.820±0.043e</td></tr><tr><td>4</td><td>0.004±0.001a</td><td>0.049±0.003e</td><td>0.772±0.005e</td></tr><tr><td>5</td><td>0.001±0.001abc</td><td>0.089±0.004a</td><td>1.887±0.064a</td></tr><tr><td>6</td><td>-0.002±0.003bcd</td><td>0.051±0.007de</td><td>0.771±0.017e</td></tr><tr><td>7</td><td>0.003±0.002a</td><td>0.058±0.002bcd</td><td>0.984±0.046d</td></tr><tr><td>8</td><td>0.002±0.001ab</td><td>0.080±0.003a</td><td>1.887±0.052a</td></tr><tr><td>9</td><td>0.001±0.001abc</td><td>0.063±0.002b</td><td>1.204±0.048b</td></tr><tr><td>10</td><td>-0.003±0.001cd</td><td>0.060±0.003bc</td><td>1.114±0.043c</td></tr><tr><td>平均值Mean</td><td>0.000±0.003</td><td>0.060±0.014</td><td>1.094±0.434</td></tr><tr><td>极差Range</td><td>0.008</td><td>0.044</td><td>1.196</td></tr><tr><td>变异系数 Coefficient of variation (%)</td><td></td><td>23.33</td><td>39.67</td></tr></table></body></html>
+
+表中数据均为样本吸光值减去无基质对照吸光值的结果。同列 不同字母表示在0.05水平上差异显著。下同。Thedata in the table are sample absorbance minus sample control absorbance.Different letters in the same column indicate significant difference among different soil samples at O.05 level. The same below.
+
+如果只考虑无基质对照吸光值，用DPP1测定时，10个土样的吸光值出现4个负值，而用DPP2和PNPP测定时，不存在负值；同时考虑无基质和无土壤对照，用DPP1和DPP2测定所测土样结果全部为负值，而用PNPP测定无负值。
+
+# 2.2.2 中性土壤中酸性磷酸酶活性的吸光值
+
+如表3所示，用DPP1测定时，尽管10个土样的吸光值在0.05水平下差异性显著，但极差仅为0.007。用DPP2和PNPP测定时，10个土样吸光值大小的变化趋势一致，但变化幅度不同。用DPP2测定时，吸光值介于0.061和0.041之间，极差为0.020；用PNPP测定时，吸光值介于1.012和0.475之间，极差为0.537，是DPP2的26.85倍。此外，用PNPP测定时，10个土样吸光值之间的变异系数为 $23 . 5 6 \%$ ，较DPP2增加了 $42 . 4 4 \text{‰}$
+
+表33种方法测定中性土壤酸性磷酸酶活性时的吸光值 Table 3Absorbance of acid phosphatase activity in neutral soils with three measurement methods   
+
+<html><body><table><tr><td>土样编号 Soil sample No.</td><td>DPP 1</td><td>DPP 2</td><td>PNPP</td></tr><tr><td>1</td><td>0.005±0.000a</td><td>0.059±0.007ab</td><td>0.670±0.019b</td></tr><tr><td>2</td><td>-0.001±0.001bc</td><td>0.058±0.004ab</td><td>0.665±0.018b</td></tr><tr><td>3</td><td>-0.001±0.002bc</td><td>0.050±0.008abcd</td><td>0.572±0.029c</td></tr><tr><td>4</td><td>0.001±0.003b</td><td>0.055±0.012abc</td><td>0.647±0.006b</td></tr><tr><td>5</td><td>-0.001±0.002bc</td><td>0.049±0.004abcd</td><td>0.572±0.003c</td></tr><tr><td>6</td><td>0.001±0.001b</td><td>0.048±0.007bcd</td><td>0.542±0.019cd</td></tr><tr><td>7</td><td>-0.002±0.001c</td><td>0.045±0.007cd</td><td>0.513±0.011de</td></tr><tr><td>8</td><td>-0.002±0.001c</td><td>0.061±0.002a</td><td>1.012±0.085a</td></tr><tr><td>9</td><td>0.001±0.001b</td><td>0.041±0.005d</td><td>0.475±0.003e</td></tr><tr><td>10</td><td>0.000±0.001bc</td><td>0.052±0.008abcd 0.576±0.026c</td><td></td></tr><tr><td>平均值Mean</td><td>0.000±0.002</td><td>0.052±0.008</td><td>0.624±0.147</td></tr><tr><td>极差Range</td><td>0.007</td><td>0.020</td><td>0.537</td></tr><tr><td>变异系数 Coefficient of variation (%)</td><td></td><td>16.54</td><td>23.56</td></tr></table></body></html>
+
+# 2.2.3 碱性土壤中酸性磷酸酶活性的吸光值
+
+3种方法所测得碱性土壤中酸性磷酸酶活性的吸光值如表4所示。从表中可以看出，用DPP1测定时，吸光值变化不大，且有部分负值。用DPP2和PNPP测定时，尽管10个土样吸光值的变化趋势一致，但用DPP2测定时，0.05水平下10个土样吸光值的差异性变化为 $\mathbf { a { \sim } b }$ ，而用PNPP测定时，差异性变化为$\mathrm { \sf { a } } \mathrm { \sim } \mathrm { h } ,$ 。此外，用PNPP测定时，10个土样吸光值之间的极差为0.276，是DPP2的39.43倍；变异系数为$3 5 . 6 6 \%$ ，较DPP2增加 $2 1 . 1 7 \%$ 0
+
+# 2.3缓冲液 $\mathbf { p H }$ 和苯酚浓度对显色反应的影响本研究采用DPP1测定酸性磷酸酶活性时，即
+
+表43种方法测定碱性土壤酸性磷酸酶活性时的吸光值 Table 4Absorbance of acid phosphatase activity in alkaline soils with three measurement methods   
+
+<html><body><table><tr><td>土样编号 Soil sample No.</td><td>DPP1</td><td>DPP 2</td><td>PNPP</td></tr><tr><td>1</td><td>0.000±0.001abc</td><td>0.011±0.002ab</td><td>0.152±0.005g</td></tr><tr><td>2</td><td>-0.002±0.002abc</td><td>0.011±0.004ab</td><td>0.155±0.001g</td></tr><tr><td>3</td><td>0.002±0.004a</td><td>0.013±0.004ab</td><td>0.215±0.005e</td></tr><tr><td>4</td><td>0.002±0.003ab</td><td>0.015±0.004ab</td><td>0.309±0.001c</td></tr><tr><td>5</td><td>-0.003±0.002bc</td><td>0.015±0.003a</td><td>0.315±0.004b</td></tr><tr><td>6</td><td>-0.002±0.004abc</td><td>0.011±0.005ab</td><td>0.252±0.003d</td></tr><tr><td>7</td><td>0.000±0.003abc</td><td>0.012±0.003ab</td><td>0.196±0.002f</td></tr><tr><td>8</td><td>0.002±0.002a</td><td>0.015±0.006ab</td><td>0.308±0.006c</td></tr><tr><td>9</td><td>0.000±0.002abc</td><td>0.009±0.002b</td><td>0.114±0.005h</td></tr><tr><td>10</td><td>-0.004±0.001c</td><td>0.016±0.005a</td><td>0.390±0.002a</td></tr><tr><td>平均值Mean</td><td>0.000±0.003</td><td>0.013±0.004</td><td>0.241±0.085</td></tr><tr><td>极差Range</td><td>0.006</td><td>0.007</td><td>0.276</td></tr><tr><td>变异系数 Coefficient of</td><td></td><td>29.43</td><td>35.66</td></tr></table></body></html>
+
+使在酸性土壤中酸性磷酸酶占优势的情况下，也未能获得满意的结果。而采用DPP2测定时，溶液中苯酚和2,6-二溴苯醌氯亚胺反应并呈现蓝色。这是否与缓冲液pH有关或者酸性磷酸酶活性低而形成的酚含量过低有关尚待进一步研究。为减小土壤对酚含量测定的干扰，本研究测定了不同pH缓冲液下不同苯酚浓度的吸光值。结果表明，pH和苯酚浓度对吸光值的影响极显著，且pH影响最大，苯酚浓度次之(表5)。此外，从图2可以看出，当缓冲液pH为4.0和6.0时，随着苯酚浓度的提高，吸光值未出现增加的趋势，且变化不大；当缓冲液pH为8.0和10.0时，随着苯酚浓度的提高，吸光值逐渐增大。且当缓冲液pH为8.0时，苯酚浓度与吸光值之间的Pearson相关系数为0.969，苯酚浓度每增加1 $\mathrm { \mu g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，吸光值增加0.007;当缓冲液 $\mathsf { p H }$ 为10.0时，两者之间的Pearson相关系数为0.998，苯酚浓度每增加 $1 \ \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ ，吸光值增加0.048。相关系数均在0.01水平下显著相关。
+
+# 3讨论
+
+# 在酸性条件下，不同浓度的苯酚显色差异不明
+
+表5缓冲液 $\mathbf { \Delta p H }$ 和苯酚浓度对吸光值的影响Table5 Effect of buffer pH and phenol concentration onabsorbance  
+
+<html><body><table><tr><td>变异来源 Variation source</td><td>df</td><td>F</td><td>Sig.</td></tr><tr><td>pH</td><td>3</td><td>18 831.851</td><td>***</td></tr><tr><td>苯酚浓度 Phenol concentration (PC)</td><td>5</td><td>2 993.938</td><td>***</td></tr><tr><td>pH×苯酚浓度pH×PC</td><td>15</td><td>2 090.968</td><td>***</td></tr></table></body></html>
+
+\*\*\*P≤0.001.
+
+![](images/874b937034662485e4a1f4a7f2bc5ecd3ff6f43ce50625cc0d7e24cc4ef1e397.jpg)  
+图2不同 $\mathbf { p H }$ 缓冲液下苯酚浓度与吸光值(Abs)的标准曲线 Fig.2Standard curves of different phenol concentrations and absorbance(Abs)under different pHbuffers
+
+显；而在碱性条件下，随着苯酚浓度的增加，吸光值呈现增加的趋势。且pH越大，斜率越大，苯酚的灵敏度越高。所以说酸性环境不利于苯酚和2,6-二溴苯醌氯亚胺的显色，而在碱性条件下可得到显色结果，pH低是导致高苯酚浓度显色效果差的一个关键原因。这与前面引言中酸性条件下不利于苯酚与2,6-二溴苯醌氯亚胺显色的假设相一致。
+
+pH低是影响苯酚含量测定的一个原因，这也被一些学者的研究所支持。如夏栋等[26]的研究表明pH低于8的缓冲液不利于苯酚和2,6-二溴苯醌氯亚胺的显色，显色时间缓慢，甚至不显色；适宜显色的pH为 $8 { \sim } 1 0$ ，且9.4更为合适[24]。Halstead[27]在研究pH对磷酸酶活性的影响时，使苯酚与2,6-二溴苯醌氯亚胺在碱性环境下显色。此外，有部分学者参照《MethodsinSoilBiology》进行磷酸酶活性的测定，在显色时加入碱性硼酸盐缓冲液[25]。这在一定程度上支持了DPP2的测定方法。由于培养结束后加入硫酸铝溶液并过滤，此时已终止反应。此后加入碱性缓冲液只是起到在显色时提供一种碱性环境的作用来有利于苯酚与2,6-二溴苯醌氯亚胺反应生成兰色的靛酚盐，而不参与酶促反应。因此，在显色时加入碱性硼酸盐缓冲液并不会影响酸性磷酸酶活性的测定。
+
+尽管采用DPP2可以得到显色结果，但如果同时考虑无土壤和无基质对照，吸光值会出现负值，这可能与土样酸性磷酸酶活性偏低有关。此外，不管是在酸性、中性还是碱性土壤中，DPP2方法测定的10个土样吸光值之间的变异系数都小于用PNPP测定时所得到的结果，所以其灵敏度不及PNPP。而采用PNPP以对硝基苯磷酸二钠为基质，经过酸性磷酸酶的酶促反应形成对硝基酚，在加入等量NaOH溶液的情况下，可获得快速且准确的显色效果，且培养时间与对硝基酚生成量成正比[14]。虽然在选定的碱性土壤中酸性磷酸酶的活性较低，也能获得满意的测定结果。
+
+本研究只是针对不同pH范围的土壤进行测定比较，并未考虑土壤的其他性质。建议今后对于我国主要土壤类型进行不同方法之间更加系统和深入的研究。
+
+# 4结论
+
+基于以磷酸苯二钠为基质测定酸性磷酸酶活性时，加醋酸盐缓冲液即在酸性条件下不利于苯酚和2,6-二溴苯醌氯亚胺显色，即使苯酚浓度增加，也未能获得满意的吸光值；加硼酸盐缓冲液即在碱性条件下虽然可以显色，但其灵敏度不及以对硝基苯磷酸二钠为基质测定酸性磷酸酶活性的结果。无论是酸性土壤、中性土壤还是碱性土壤，基于以对硝基苯磷酸二钠为基质的测定方法，均能得到满意的结果。总之，不管是测定酸性、中性还是碱性矿质土壤的酸性磷酸酶活性，如果选用磷酸苯二钠为基质，应在显色阶段加入碱性硼酸盐缓冲液；而选用对硝基苯磷酸二钠为基质测定土壤酸性磷酸酶活性，是更为简单和灵敏的方法。
+
+# 参考文献 References
+
+[1]张林，吴宁，吴彦，等．土壤磷素形态及其分级方法研究进 展[J]．应用生态学报,2009,20(7):1775-1782 Zhang L,Wu N,Wu Y,et al． Soil phosphorus form and fractionation scheme:A review[J].Chinese Journal of Applied Ecology,2009,20(7):1775-1782   
+[2]Maltais-Landry G,Scow K,Brennan E.Soil phosphorus mobilization in the rhizosphere of cover crops has little effect on phosphorus cycling in California agricultural soils[J]. Soil Biology and Biochemistry,2014,78: 255-262   
+[3] Juma N G, Tabatabai M A.Distribution of phosphomonoesterases in soils[J]. Soil Science,1978,126(2):101-108   
+[4]Dick W A，Tabatabai M A.Hydrolysis of organic and inorganic phosphorus compounds added to soils[J].Geoderma, 1978,21(3): 175-182   
+[5]Eivazi F,Tahatahai M A.Phosphatases in soils[J]．Soil Biology and Biochemistry,1977,9(3):167-172   
+[6] Burns R G. Soil Enzymes[M]. New York: Academic Press, 1978:295-340   
+[7]Gianfreda L,Ruggiero P. Enzyme activity in soil[M]// Nannipieri P,Smalla K.Nucleic Acids and Proteins in Soil. Berlin:Springer-Verlag,2006:257-311   
+[8]Tabatabai M A.Methods of soil analysis[M]//Chemical and Microbiological Properties.Madison: American Society of Agronomy, Soil Science Society of America,1982: 903-947   
+[9] Rejsek K. Experimental approaches to the determination of acidphosphomonoesteraseactivityinsoil[J].Folia Microbiologica,1994,39(3): 245-248   
+[10] Nannipieri P, Giagnoni L,Landi L,et al. Role of phosphatase enzymes in soil[M]//Bünemann E K, Oberson A,Frossard E, et al.Phosphorus in Action.Berlin: Springer-Verlag,2011: 215-237   
+[11]Dick R P.Methods of Soil Enzymology[M]. Madison: Soil Science Societyof America,2011: 163-168   
+[12] Hui D F,Mayes M A,Wang G S.Kinetic parameters of phosphatase: A quantitative synthesis[J]. Soil Biology and Biochemistry,2013,65:105-113   
+[13] Harrison A F,Pearce T. Seasonal variation of phosphatase activity in woodland soils[J].Soil Biologyand Biochemistry, 1979,11(4): 405-410   
+[14] Tabatabai MA,Bremner JM.Use of $p$ -Nitrophenyl phosphate for assay of soil phosphatase activity[J].Soil Biology and Biochemistry,1969,1(4): 301-307   
+[15]关松荫．土壤酶及其研究法[M]．北京：中国农业出版社, 1986: 274-339 Guan S Y. Soil Enzyme and Its Research Methods[M]. Beijing: Agricultural Press,1986: 274-339   
+[16]林先贵，王一明，尹睿．土壤微生物研究原理与方法[M]. 北京：高等教育出版社,2010:251-253 Lin X G,Wang Y M,Yin R.Principles and Methods of Soil Microbiology Research[M]. Beijing: Higher Education Press, 2010: 251-253   
+[17]洪庆文．土壤微生物研究法[M]．北京：科学出版社，1985: 273-275 Hong Q W. Soil Microbiology Research Methods[M]. Beijing: Science Press,1985:273-275   
+[18]李振高，骆永明，腾应．土壤与环境微生物研究法[M]．北 京：科学出版社,2008:412-413 Li Z G, Luo Y M,Teng Y. Soil and Environmental Microbiology Research Methods[M]. Beijing: Science Press, 2008: 412-413   
+[19]傅丽君，杨文金.4种农药对枇杷园土壤磷酸酶活性及微生 物呼吸的影响[J]．中国生态农业学,2007,15(6):113-116 Fu L J. Yang W J. Efects of pesticides on soil phosphatase activity and respiration of soil microorganisms in loquat orchard[J]. Chinese Journal of Eco-Agriculture,2007,15(6): 113-116   
+[20]杨佳佳，安韶山，张宏，等．黄土丘陵区小流域侵蚀环境对 土壤微生物量及酶活性的影响[J]．生态学报,2015,35(17): 5666-5674 Yang J J,An S S,Zhang H,et al. Effect of erosion on soil microbial biomass and enzyme activity in the Loess Hills[J]. Acta Ecologica Sinica,2015,35(17): 5666-5674   
+[21] Zhang XL,Ma L, Gilliamc F S,et al. Effects of raised-bed planting for enhanced summer maize yield on rhizosphere soil microbial functional groups and enzyme activity in Henan Province,China[J].Field Crops Research,2012,130: 28-37   
+[22] Zhang Y, Zhang F,Zhang G C,et al. Single and combined effects of As(II)and acetochlor on phosphatase activity in soil[J].Journal of Integrative Agriculture，2013,12(6): 1079-1086   
+[23]董世明．用2,6一双溴苯醌氯酰亚胺比色测定空气中酚[J]. 化学世界,1964(9):424 Dong S M. Determination of phenols with 2,6-dibromoquinone-4-chloroimide in air[J]. Chemical World,1964(9): 424   
+[24]Gibbs H D.Phenol tests II.The indophenol test[J].Journal ofBiological Chemistry,1927,72(2):649-664   
+[25] Schinner F,Ohlinger R,Kandeler E,et al.Methods in Soil Biology[M]. Berlin Heidelberg:Springer-Verlag,1995: 211-213   
+[26]夏栋，许文年，赵自超，等．土壤磷酸酶测定中不同缓冲溶 液对显色液吸收波长的影响[J]．湖北农业科学,2012,51(5): 997-999 XiaD,Xu WN,Zhao ZC,etal.Effects ofdifferent buffer solution on absorption wavelength in determination of soil phosphatase[J].Hubei Agricultural Sciences,2012,51(5): 997-999   
+[27]Halstead R L.Phosphatase activity of soils as influenced by lime and other treatments[J].Canadian Journal of Soil Science,1964,44(1): 137-144

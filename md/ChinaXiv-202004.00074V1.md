@@ -1,0 +1,221 @@
+# 建设性还是破坏性？羞愧的双路径模型
+
+王　煜李梦菊
+
+[中国地质大学（武汉）心理科学与健康研究中心，武汉430074]摘要羞愧是一种典型的自我意识情绪，在个体行为以及心理发展结果中发挥着重要作用。羞愧同时是一种中国传统文化中极为重要的道德情绪，被认为是中国人自我反省的重要途径。但当前关于羞愧的导向性存在两个截然相反的观点：羞愧导向建设性还是破坏性？理论模型包括：其一，羞愧导向破坏性，相应的理论解释有社会威胁防御模型、羞愧调节模型等，其二，羞愧导向建设性，相应的理论解释有进化心理学视角及功能主义视角等。这两种观点均得到大量实证研究的支持。为了合理解释这一分歧，系统理解羞愧促发的行动机制，本文提出羞愧的双路径结构模型，突出社会自我威胁评估在其中的重要作用。未来研究需要开发出更客观全面的羞愧测量方法，基于文化差异关注社会自我修复的影响因素，理解不同文化背景社会对羞愧的诠释，从而提出更具针对性的干预方法，以促进个体羞愧可能的破坏性结果向建设性方向转化。
+
+关键词 羞愧；社会威胁；功能性
+
+# 1引言
+
+羞愧作为中国儒家传统文化中一种不可或缺的道德情绪，被认为是帮助中国人自我反省的重要途径(Geaney,2004)。《论语·颜渊》中指出君子之道为：“内省不疚，夫何忧何惧？”即扪心自问，没有什么觉得愧疚的，就能远离忧愁和恐惧。这种观点在上个世纪末遭到了心理学界的大力批判，在Hawkins(2013)的能量层级理论中，羞愧处于最底层，被描述为犹如意识的自杀行为。更有研究者将羞愧视为“人类已知的最强大、最痛苦、最具潜在破坏性的经历之一”(Gilbert,1997)。它对心理功能有着多方面的影响，涵盖认知、行为、情感等，不断在个人层面、人际层面和文化层面上运作(Lewis,Alessandri,& Sullivan,1992; Tangney&Dearing,2002)。早期大多数羞愧定义集中于现象学层面，Lewis 等人(1992)将羞愧定义为个体运用内化了的标准、规则、目标对情境和总体自我进行评价后产生的消极感受。Tangney(1999)认为羞愧是个体经历失败事件或做出与道德准则相悖的行为之后察觉到自我形象受损，并由此产生的无价值感。不同研究者提出的定义大都聚焦于自我评价与自我感受。
+
+容易与其相混淆的概念是内疚，虽然研究显示羞愧与内疚都是由自我相关的负性行为所引发的，但二者的评价对象不同，羞愧更加关注自我痛苦，而内疚则是个体内在对某一特定行为的关注(Tangney,Stuewig,&Martinez,2014)。为了在概念上与内疚相区分,Tangney 等人(2014)将羞愧与内疚分别直观地描述为:"Iamabad person"与"Idid abad thing”。由此可见，羞愧来源于对整体自我贬值的感知(Tangney&Dearing,2002)。
+
+羞愧概念不仅在阐述上各不相同，其究竟将导向怎样的行为结果也始终没有统一的认识，近二十年来，研究者针对羞愧开展了大量实证研究，随之而来的便是因一系列截然相反的研究结果造成的分歧不断涌现，在羞愧引发消极行为结果的研究中，甚至部分验证了羞愧对于中国人心理发展带来的严重影响（郭瞻予，李阳，2017；汪启荣，钱铭怡，2010；王玉龙，陈慧玲，覃雅兰，蔺秀云，2019），显然这与儒家传统文化中对羞愧的阐释不尽相同。而分歧的另一方则认为羞愧可以导向建设性，有助于人际和谐与自我改变(Brown&Cehajic,2008; Gausel & Brown,2012; Lickel, Kushlev, Savalei, Mat,& Schmader,2014)。研究者们针对双方观点提出了许多有价值的理论模型，但是，这些理论模型的立足点也是相互矛盾的，无法完全合理地解释生活中的不同现象。导致这些理论模型的解释力度和预测效度无法令人满意的根本原因是：羞愧究竟是导向破坏性还是建设性？或者另有路径？本文将从这一问题出发，分别从羞愧的建设性和破坏性这两个方面进行梳理和总结，希望能在此基础上形成更具清晰性、阐释性和合理性的理论模型，并对未来的研究提出展望。研究羞愧有助于加深对文化视域下中国人心理发展能力的理解，并且对如何预防羞愧带来破坏性结果具有积极的指导意义。
+
+# 2 羞愧导向破坏性
+
+羞愧导向破坏性的观点随着自我意识情绪领域研究的兴起得到了越来越多研究者的认同与支持。20世纪起，大量研究者将焦点从基本情绪转向自我意识情绪，羞愧是其中受到广泛关注的一种。此前相关研究显示羞愧将会激发个体的消极动机，扰乱正在进行的活动，促使个体难以清晰地思考、表达与行动并有损心理健康发展(Lewis,1992)。在人际层面上，羞愧与社交回避、抑制社交互动的倾向有关(Haidt,2003)，个体的日常情绪行为中羞愧伴随着责备他人、愤怒和攻击倾向（Tangney,1991; Tracy&Robins,2006）。且相较于其他情绪，部分高羞愧感个体存在上瘾、物质滥用等不良行为问题(Randles& Tracy,2013)。一项对囚犯的研究表明，羞愧感评分能够正向预测累犯率(Hosser,Windzio,&Greve,2008)，除此之外，在一项青少年样本的研究中发现羞愧感与身体攻击呈正相关，并与过去三个月羞愧经历的频率有关(Aslund, Starrin,Leppert,& Nilsson,2009)，青春期个体羞愧感的上升同样也会加剧出现心理健康问题的风险(Kesser etal.; 2015)。事实上，作为一种潜在的情绪机制，羞愧也在某些时刻造成了一定程度的同伴伤害(Irwin,Li, Craig,&Hollenstein,2019)。
+
+同时，羞愧也与一系列心理问题密切相关，包括进食障碍与创伤后应激障碍等(Beall&Tracy,2017; Cunha, Matos,Faria,& Zagalo,2012; Porter, Zelkowitz,& Cole,2018)。高羞愧个体在一定程度上产生更多焦虑情绪以及偏执的想法(Gilbert,2000; Tangney,Wagner,& Gramzow,1992)。Tangney(1995)表明羞愧倾向与抑郁症有着明显的联系。综合发现，羞愧不仅仅对个体的人际协调与社会适应产生破坏性后果，同时对个体自身身心健康也潜在着不可忽视的破坏性影响。针对羞愧的破坏性，影响较大的解释主要为社会威胁防御模型与羞愧调节模型。
+
+# 2.1社会威胁防御模型
+
+社会威胁防御模型从社会自我威胁角度解释羞愧引发攻击行为的系列过程。羞愧通常伴随着一种畏缩或渺小的感觉，以及在真实或想象的观众面前暴露的感觉(Tangney,Niedenthal,Covert,& Barlow,1998)。Elison,Garofalo 和 Veloti(2014)提出羞愧与攻击性相联系的心理生物链，这一心理生物链完整阐述了个体针对羞愧采取的防御反应。首先，个体感受到一系列的社会威胁如个人贬值、地位下降等(De Wall,Anderson,& Bushman,2011; Elison, 2005;Leary& Guadagno,2011;Weisfeld&Dillon,2012)；第二，这一系列的社会威胁挑战了个体的基本归属需求，并使得归属需求难以得到满足(De Wall etal.,2011)；第三，当原本得到满足的归属需求被羞愧引发的社会威胁感剥夺时将会产生其他更为强烈的消极情绪反应如自卑(De Wall etal.,2011)；第四，羞愧的社会威胁以及连带的消极情绪带给个体的不仅仅是情感痛苦，更有身体痛苦的成分存在(Eisenberger,2011; Elison,2005)；第五，不论是情感还是身体的痛苦都足以引发个体的愤怒(Berkowitz,2012)；最后，愤怒将有极大的可能在某些日常情况下激发对外攻击性(Berkowitz,2012)。这一心理生物链解释了为何大量研究表明羞愧体验将引发暴力和攻击反应，其中最首要的因素是个体因羞愧而感受到的社会威胁，而这种社会威胁不一定真实存在，所以即使在他人看上去并无异常的情境下也有可能激发个体的攻击行为。Lynd(1961)认为羞愧可以发生在对方对这种情感联系的威胁上，但也可以发生在个体本身的“内心剧场”中，即从他人的角度看待自我社会形象的内心独白中。同样，Gilbert和 Miles(2002)提出羞愧可以是一种自我的内在体验，包括对威胁的非自愿的情感防御反应，也可以是一种实际的社会排斥或价值贬低的体验，在这种情况下，个体感受到在社会关系中丧失吸引力从而不得不采取行动展现自我力量(Gibbard,1990)。社会威胁包括暂时或永久地丧失社会关注、社会利益和社会地位，个体感受不到社会支持的来源，甚至感到永久地剥夺了自我的积极目标(Kurzban&Leary,2001)。个体觉察自己的身份受到玷污，为了避免羞愧采取了各种防御措施，这些防御包括了各种破坏性行为，如责备他人、愤怒和攻击等(Tracy& Robins,2006)。实验结果表明，社会排斥与羞愧会减少积极自我调节，增加愤怒与攻击性(Jones&Elison,2013)。而在神经学分析水平上，社会排斥引发身体疼痛，身体疼痛足以引发愤怒(Eisenberger,2011)。Berkowitz(2012)的模型中显示了身体疼痛与愤怒的紧密联系，个体对身体疼痛与社会疼痛的防御都是快速且自动化的，即使个体没有自发反应，社会痛苦（或身体疼痛）也会扰乱行为调节所必需的认知资源。这些实证研究为这一心理生物链提供了强有力的支持。
+
+# 2.2羞愧调节模型
+
+羞愧调节模型从情绪调节的视角弥补了社会威胁防御模型中破坏性仅指向外部的不足。Nathanson(1992)阐明了四种羞愧应对方式的本质，以及它们与消极行为结果的关系，即任何羞愧产生的指向他人的敌意与指向自我的心理痛苦都可以用情绪调节不良来解释，故这种破坏性结果并非羞愧本身带来的影响。在羞愧调节模型中 Nathanson(1992)提出个体应对羞愧的四种防御倾向，分别为攻击他人、攻击自我、回避与退缩。从理论上讲，攻击他人包括在情感、态度或行为上攻击他人，个体在此过程中得以展示自我力量，解决身份与自我概念的分歧。在攻击他人中，通常羞愧的信息不被外界所承认，羞愧情绪指向外部的愤怒，行为倾向是口头或身体上对他人的攻击，个体可能会试图提升自己的自我形象而将羞愧外化；攻击自我包括以自我为导向的愤怒、自责，大多数与抑郁或自卑相关的认知过程都属于自我攻击，因此有研究表明羞愧倾向与抑郁倾向存在高相关(Kim,Thibodeau,& Jorgensen,2011; Paulus,Vanwoerden,Norton,& Sharp,2016)，此时羞愧信息被个体内化、接受并放大，否定自我使得个体失去控制感与力量感，羞愧引发自我导向的愤怒或蔑视，行为倾向是对自己的批评与自我责备，消极的自我认知占据主导地位；回避包括通过否认或用其他方式来降低羞愧引起的情绪意识，主要表现出兴奋和快乐，在回避中，羞愧信息通常不被个体自身承认或接受，这种情绪可能会被否定或掩盖，行为倾向是防止自我意识到羞愧、拒绝责任等。退缩是指将自己从感到羞愧的情境中移除的行为，或尽量减少与类似情境的接触，个体经历悲伤、恐惧与焦虑，行为倾向是撤退或隐藏，将自己从情境中孤立出来，以限制羞愧的再次暴露(Elison,Lennon,&Pulos,2006a)。这四种羞愧的应对方式得到了多项研究的实证支持，并且成为一些测量内在羞愧感的问卷基础(Elison,Pulos,&Lennon,2006),退缩与羞愧之间的关系与通过社交孤立与社交焦虑、害羞之间的密切联系得到验证(Harder&Greenwald,1999)，攻击自我表现为消极的自我判断与自我批评等(Elison etal.,2006)，攻击他人在愤怒、家庭暴力、囚犯累犯率研究中均得到一定的支持(Hosser et al.,2008; Kaplenko,Loveland,& Raghavan,2018)。羞愧与回避层面的联系则在自我意识情绪测试的分离量表中有所体现(Stromsten,Henningsson, Holm, & Sundbom, 2009)。
+
+# 2.3小结
+
+社会威胁防御模型强调了个体对社会威胁的防御模式，在羞愧所引发的一整条心理生物链中展现了这一防御模式的基本过程，这一单路径过程突出了个体在感受到社会威胁之后的痛苦与愤怒，并从生理学角度解释愤怒何以引发攻击性行为。而在Nathanson 的羞愧调节模型中，从情绪调节角度阐述了个体经历羞愧体验之后的四种调节方式，表明羞愧与情绪调节不良有关，而不良的情绪调节模式可以解释羞愧与心理病理性症状和攻击性的关系。
+
+# 3羞愧导向建设性
+
+一部分研究者认为羞愧的积极适应潜能常常被忽视，羞愧可以激发积极的人际行为，以恢复受威胁的自我(De Hooge, Zeelenberg & Breugelmans, 2011; Gausel,Leach, Vignoles,&Brown,2012)。针对羞愧的建设性导向，进化理论将情绪视为最具有适应性的情感机制，促使生理与心理对当前事件的协调与适应，羞愧这种以自我为焦点的情绪也不例外(Beall&Tracy,2017)。功能主义者认为羞愧通过帮助个体获得赞赏和保持社会地位来提升在其社会群体眼中的接受度(Tracy& Robins,2004a)，研究者通过两项实验发现大多数感到羞愧的个体更倾向于与他人互动而不是回避，因而提出羞愧感最首要的是激发个体的社交(De Hooge,Breugelmans,Wagemans,& Zeelenberg,2018)。Gibson(2019)认为羞愧可以成为社会工作实践的重要组成部分，可作为一种力量被激发和运用，并尝试运用该情绪有效改变他人的行为。由于个体强烈希望避免羞愧带来的痛苦，因此它激励着个体遵守自我期望的规范以达到适应性目的(Muris & Meesters,2014)。
+
+# 3.1进化心理学视角
+
+许多学者从进化论的视角解释羞愧的建设性意义，情绪的进化往往与人类生存繁衍目的息息相关，而人类的生存繁衍愿望又总是与群体社会关系紧密相连(Baumeister&Leary,1995;Keltner&Gross,1999)。情绪是协调机制，其进化功能是协调生理与心理的各种程序，为解决特定的适应性问题服务(Al-Shawaf&Lewis,2017)。这类进化论学者认为羞愧很可能是通过自然选择进化而来，以服务于人类生存的适应性功能(Fessler,2007;Gilbert,2007)。羞愧对人类族群在自然环境中的生存非常重要，它能够在一定程度上提高人类族群的繁衍成功率。
+
+Sznycer 等(2012)通过他们的研究指出，羞愧是人类进化时产生的一种功能机制，它能抑制个体做出可能会降低自身在他人眼中价值的错误决定。人类祖先严酷的生活环境决定了他们在选择合作伙伴时需要格外谨慎，有限的资源必须物尽其用，故个体自身存在被排除在群体之外的可能(Fessler,2004)。换言之，人类之所以感到羞愧，表面上看起来是因为自己某种错误决定或失败行为而受到的自我指责，但其进化根源是帮助人类在族群中延续基因、保持良好的生存状态。如果个体想要获得帮助，就需要努力优化外界对他的评价，以避免被筛选出去，而羞愧的作用就在于矫正个体行为，防止自我成为他人眼中无价值的人(Fessler,2007)。羞愧促使个体回避可能导致价值降低的行为，并隐藏有害信息，当发现于自我不利的信息时，个体将会选择顺从他人并表现出安抚行为，增加人际间的合作(Sznycer et al,2016)。因此羞愧情绪的进化是为了保护个体的社会关系，帮助个体满足社会归属需求，维系人际和谐。进化论导向的羞愧研究虽然也认为羞愧是自然选择的结果，但往往羞愧服务于族群内的文化一致性，以保证群体内部的团结。故不仅仅是在群体内部，只要处于有可能被他人或集体消极评估的情形，羞愧就可以被触发。那些具有性吸引力、强壮和高地位的个体通常不易感到羞愧，因他们在群体中较易得到认同，但当个体感受到羞愧之后，顺从与合作便成为了寻求他人认可的尝试(Sznycer et al.,2012)。总而言之，羞愧不仅提醒着个体当前的行为，也在影响着未来的行为。进化中出现的羞愧基因很容易在个体经历一些消极事件后产生，因为它帮助个人避免因重复事件产生的社会惩罚(Jaffe,2008)。如果羞愧能预先避免社会惩罚，那么这种社会惩罚所涉及的成本可以保持在最低限度，因此，在现实的社会情境中，当个体感受到自我危机时，羞愧很有可能被维持下去，并通过合作、互动对社会关系产生积极的影响，从而使羞愧体验转化为更加具有能动性的活动(Sznycer et al.,2016)。
+
+# 3.2功能主义视角
+
+功能主义强调积极的自我观以及在此基础上羞愧对维护群体凝聚力的建设性意义。人类拥有各种原始与后天动机，而拥有积极的自我观是人类最基本的动机之一(Alexander&Knight,1971)，个体的自我观很大一部分来自于个体在社会中的归属感(Leary&Baumeister,2000)，这一点与进化理论相吻合，同样，功能主义者认为任何情感都是有功能的，它们告诉个体自我中重要的部分是什么，并赋予个体生存的意义。但与进化理论不同的是，功能主义观点虽然肯定了羞愧本身的积极意义，但也提出了在怎样的情况下个体将做出消极行为。羞愧虽然产生于个体当前自我与理想自我之间的感知差异，普遍认为是消极的，但正如恐惧，在一定程度上阻止了个体进行危险行为或帮助个体快速从危险情境中逃离，但当长时间过度处于恐惧状态就会产生一系列问题(Gilbert,2000)，这为系统理解羞愧的行为结果提供了一个辩证的视角。当站在功能主义角度解释羞愧导向的行为结果时可以得出：个体最先试图通过参与恢复性行为来满足拥有积极自我观点的动机，但是当发现恢复太困难或风险太大时，就会转而将这一策略更改为更具保护性的行动(De Hooge,Zeelenberg,& Breugelmans,2010)。功能主义观点肯定了羞愧本身的积极意义，而破坏性不过是由情境与事件本身的催化导致的。
+
+羞愧的功能一方面服务于各种社会目的，包括提醒个体注意对社会地位的威胁(Elison,2005;Scheff,2000)，促进个人和群体价值观的维护(Braithwaite,1989; Scheff,1988)，或者通过提高自我意识来缓和与他人的距离(Probyn,2004)。另有越来越多的研究发现，羞愧会激发接近行为，如亲社会行为和补偿行为(De Hooge,Breugelmans,& Zeelenberg,2008; Tangney,Wagner,Hill-Barlow,Marschall,& Gramzow,1996)。因此，羞愧中自我所受到的威胁可能被解释为一个信号，表明有必要接近他人，以保护自我属于一个社会群体的动机，因而羞愧的社会功能是调节个体与周围环境中其他人的关系并培养群体联结，防止被群体或他人排斥(Jacquet,Hauert,Traulsen,& Milinski,2011)。此外，羞愧有助于激发个体产生恢复受损的自我观的动机，例如通过参加社会活动或发展新技能(Lickel,Kushlev,Savalei,Matta,&Schmader,2014)。羞愧之所以产生，是由于当个体认为自己做得很好时，总是倾向于积极地评价自己，功能主义观点与传统的羞愧观相反，它是一种防止自我膨胀的情绪，并非肯定消极评价的道德作用，羞愧要求个体认识到，自我的形象并不总是自己认为的那样，因而提供了一个内省的框架，提醒个体未来应该或不应做什么(Leeming＆ Boyle,2013)。根据情绪反馈理论，个体会从他们的羞愧体验中学习，学会预测在类似的未来情境或事件中会出现怎样的情绪反应，并决定如何在这些情境中适当地表现(Baumeister& Vohs,2004)。这在集体主义文化中经常得到运用，印证了中国儒家思想将羞愧视为不可或缺的道德情绪，体现的是个体善于自省的内在表现，羞愧感的表达在日本青年中也受到鼓励，这被认为是一种自我提高的关键意识(Heine＆Lehman,1999)。在人际功能方面，羞愧带来了人际冲突之后的和解动机与弥补行为(Woodyatt＆Wenzel,2014)，弥补行为包括道歉，并希望对所有受事件影响的人进行赔偿或补偿等(Gauseletal.,2012)，以更好地增进人际适应，建立与他人的联系纽带。在假设诱导情景中经历更高程度羞愧感的儿童要比羞愧程度低的儿童更加频繁地表现出亲社会行为，并且其同伴和老师也认为这类儿童与他人接近的程度和欲望会更高(Olthof,2012)。
+
+# 3.3小结
+
+进化视角下的羞愧有助于人类族群在自然环境中的生存，其之所以存在于不同文化环境中，是由于进化保留下来的心理保护机制，它能够帮助个体远离那些有损他人眼中自我价值的决定，从某种意义上说，它提高了人类的繁殖成功率。功能主义者反对社会威胁防御理论的观点，认为羞愧本身即是一种具有建设性意义的情绪，内在特征就是能够促进个体的自我改变与人际协调，而以往研究出现的破坏性结果不过是个体反复经历羞愧的情况下或修复社会形象的风险超出个体能够承受的范围时才会造成。
+
+# 4羞愧的双路径结构模型
+
+随着羞愧的研究逐渐深入，分歧愈加明显地显现出来：一方面支持羞愧的破坏性，羞愧带来社会威胁，社会威胁造成心理与身体痛苦，继而导致愤怒和攻击性行为的线性过程，或面对羞愧体验不良的调节模式造成了羞愧的破坏性后果；另一方面支持羞愧与生俱来的建设性意义，羞愧本身是具有积极价值的，能够促进人际适应与自我提升。这一分歧抛出了一个最为关注的问题：羞愧究竟是一种怎样的情绪？以往研究者所提模型多在于解决这一概念上的矛盾，然而却使得区分破坏性后果的羞愧与建设性意义的羞愧愈加艰难。羞愧是一种自我意识情绪，在这一方面，Henniger 和Harris(2014)认为，情绪不能用非好即坏进行简单的定义，更重要的是需要考虑到这种情绪在特定情境中引起了何种变化，即情绪导致的结果取决于环境，其实并没有本质上消极或积极之分。因此与其力图解决概念纷争，不如将现有理论进行整合，探索羞愧情绪与行为之间的决定性因素，如此将更加有利于未来研究的推进与相关领域的应用。本研究将羞愧视为同时具有潜在破环性与建设性的情绪力量，并置于社会环境中进行分析，以社会自我形象威胁评估为分岔点提出羞愧的行为导向模型（如图1）。
+
+![](images/7f7ae533990c5bf5840f3e1ef72ef70ccacf5540408ad12be0396149dc9342b4.jpg)  
+图1羞愧行为结果的双路径结构模型
+
+4.1羞愧的存在条件：自我与社会的相互作用。
+
+自我聚焦是羞愧存在与产生的必要条件(scheff,2003)，虽然大多数情绪可以仅来源于内在心理过程或外界环境，但Cooley(1922)提出的“镜像自我”暗示了自我所具有的社会性，并且这种自我在情绪层面上直接指向了羞愧，他指出羞愧中的自我是由三个过程组成的连续体：（1）个体想象在别人面前的形象；（2）个体对想象中形象的判断；（3）产生羞愧情绪。因此在他人眼中消极地看待自我是羞愧得以存在的根源(Goffman,1967)，信息威胁理论同样认为羞愧是由个体接触或感知有关他人对自我的负面信息引发的(Sznycer et al.,2016)。因此羞愧存在于自我与社会的双向作用过程之中，个体自我觉察的同时激活自我表征，并将现实自我与理想状态的自我进行评估比较。在不同强度和持续时间上羞愧的表现更加接近“尴尬”（低强度且短时间）、“羞愧”（强烈且持久）和"耻辱”（更强烈且更持久），但总体而言都源于对社会关系的威胁(scheff,2000)。
+
+社会自我形象威胁就是自我与社会相互作用下羞愧的产物，社会自我即个体的社会价值与地位，因这一威胁不仅在羞愧产生之前被个体所感知，也在体验到羞愧情绪之后得到充分关注。获得地位和被他人所接受对个体的生存和繁衍至关重要，这也是个体拥有自我或身份的原因，羞愧等自我意识情绪就是帮助个体增强和保护这种自我或身份的有利工具(Scheff,2003)。Goffman(1955)指出每一个社会行为都潜藏着受到公众指责或面子丧失的可能性，羞愧经历的外部危险是拒绝或放弃。研究表明羞愧的产生具有特定的心理生物变化模式，对社会自我的严重威胁会增加个体促炎细胞因子和皮质醇活性，这些生理变化与羞愧将同时发生(Dickerson,Gruenewald,& Kemeny,2004)。威胁到社会自我将会引起个体对社会价值低下的感觉增加(Gruenewald,Kemeny,Aziz,&Fahey,2004)，为了有效避免社会自我受到威胁，个体能够采取行动影响观察到某种行为的他人去达到自己适应性的目的，如限制有关自我的负面信息的传播，从而防止由此引起的他人的负面评价和贬低(Sznycer,2018)。因此，羞愧情绪的产生令个体不得不直面感知到的社会威胁，此时个体由于情绪的驱动开始对这种社会威胁的可修复性进行认知评估(scheff,2003)。个体要在社会中生存就不得不关注他人与自我的双向评价，经过分析后采取合理行动以获得最优结果避免受到更大的伤害(Lewis,1992)。羞愧与社会评价高度相关，不论这种负面社会评价是真实存在还是内在感受，都会令个体感受到社会自我受到威胁。Leach与Cidam(2015)通过对羞愧的meta 分析表明当社会形象容易修复时，羞愧将更有可能激发社会接近行为，相反，当可修复性较低时，羞愧与社会接近呈负相关。
+
+# 4.2从羞愧到行为：双路径过程
+
+从以往研究中可以得出结论，导致羞愧行为的研究呈现两极化现象的一个重要区别在于个体体验到羞愧后是产生回避行为还是社会接近行为，大量研究显示羞愧要么与接近倾向有关，要么与回避倾向有关(Frijda,Kuipers,& Ter Schure,1989;Scherer& Wallbott,1994;Tangney,Miller,Flicker,& Barlow,1996; Wicker,Payne,& Morgan,1983)，而只有对羞愧的回避才会导致不良后果(Gausel& Leach,2011; Muris&Meesters,2014)，它解释了羞愧何以导向破坏性。此前诸多研究将回避项目包含在羞愧测量量表中，作为羞愧评分高低的指标之一，以区别于内疚与社会接近的联系，导致了研究结论均偏向消极后果(Cohen,Wolf,Panter,&Insko,2011)。然而并非所有的羞愧都会产生回避和退缩，现实生活中也并不可能存在完全无内疚的羞愧或无羞愧的内疚。Ho0ge 等（2018）在试验中给予被试选择进入社会情境还是独处的非社会情境的权利，在两个试验中，大多数感到羞愧的被试都选择了进入到社会情境中，更愿意与他人进行互动，表明羞愧激发了社交接近而非社交回避。也就是说，虽然大量研究者认为羞愧会激发社交回避(Keltner& Harker,1998;Lewis et al.,1992; Tangney,1992)，但羞愧同样也可能激发人际接近行为(De Hooge et al.,2008; Gausel& Leach,2011; Gausel et al.,2012)。此外，有研究显示羞愧与抑郁或饮食障碍相关，但不包括社交回避项目的羞愧量表却显示二者不相关(Allan,Gilbert,& Goss,1994)。可以认为羞愧的结果直接取决于个体产生回避还是接近倾向，二者将引发完全相反的行为结果。
+
+Hooge 等人(2008)在其研究中提出，个体的恢复动机将会在羞愧程度较弱时产生，企图通过亲社会或自我改变的形式恢复受到威胁的社会自我，如进入以表现为导向的情境或采取补救行为等。强烈的回避退却倾向则来自于个体的自我保护动机，因为当社会自我形象的修复是困难或危险的，那么额外的失败将会更伤害自我，个体为了保护受威胁的自我免受进一步伤害选择转向回避行为(Hooge et al.,2011)。因此，社会自我将会受到怎样的伤害以及个体在多大程度上能够修复这种伤害，个体对此的认知评估决定了接下来将以何种动机去执行何种行动，从而形成了羞愧导向的两条相反路径。
+
+# 5总结与研究展望
+
+“无羞恶之心，非人也。”由于中国文化自身价值体系的发展，羞愧的重要性是与儒家占主导地位的社会道德思想相联系的，它构成了个体道德发展与良心的基础(Geaney,2004)。当现实出现矛盾的结果时，需要对此进行更加全面系统的理解。以往研究大多重在讨论羞愧的内涵以及羞愧与内疚的区别，而这种单纯的比较无法回答现阶段矛盾的结果，因为羞愧与外化攻击以及内化攻击都有着直接或间接的联系，并且相关研究也验证了羞愧同样能够引发亲社会行为，促进人际适应与个体的自我改变(Lickel et al.,2014; Stuewig et al.,2015; Tracy &Robins,2006;Weingarden&Renshaw,2015)。合理解释这一矛盾能够帮助研究者将焦点转向羞愧与其行为结果的中间过程并考虑如何有效干预以尽量避免破坏性结果。本文吸纳分歧双方观点，前提是将羞愧看作同时具有潜在破坏性与建设性的自我意识情绪，任何情绪的意义都与社会环境以及内在动力共存。作为一种自我意识情绪，羞愧与自我和他人密不可分，羞愧产生前后都离不开个体感受到的社会自我威胁，正是对可能并非真实存在的威胁的认知评估促使个体产生修复或自我保护动机，从而激发完全不同的行为。双向路径的岔口在于社会自我修复的可能性，接下来的研究重点应是探究不同文化背景下影响社会自我可修复性诸多因素的实证证据以及干预措施，而非局限于对羞愧概念的争论。因此，未来研究还需要在以下方面有所推进。
+
+# 5.1羞愧模型与测量方法的改进
+
+虽然 Nathanson(1992)提出了羞愧调节的几种形式，但都是基于消极调节，显然不符合现阶段更多的研究结果，目前也有研究者分析了扩展这一模型积极面的可能性（王柳生，桑标，2019），然而真正完善这一模型并得到实证研究的支持还需要漫长的探索和建构。个体对羞愧情绪的积极调节对于理解个体在修复社会自我威胁中所涉及的内部与外部因素具有至关重要的作用，因此，未来研究可以在这一模型的基础上建构羞愧调节的积极面，对羞愧进行深入和全面的认识，也让个体认识到羞愧情绪破坏性以外的建设性结果的可能，增加个体对社会自我威胁修复的自我效能并促进社会接近行为。
+
+不仅羞愧的相关理论模型需要结合最新研究成果进行充实，羞愧的测量一直以来也缺乏全面细致的探究。一方面，忽略羞愧也存在社会接近倾向的量表导致了现有研究出现较大分歧，例如在内疚与羞愧倾向量表(GASP)中，内疚-修复、羞愧-退缩两个维度明确将二者割裂开来(Cohen,Wolf,Panter,& Insko,2011)，某种意义上否定了羞愧也会激发社会自我修复的可能性。另一方面，在一些情境实验研究中，实验者将被试直接置于社会情境中，随后观察他们的行为表现(DeHooge,2014)，这些测量并没有给予被试自发选择回避还是接近社会群体的可能性，只专注羞愧在其中引发的最终结果。故未来还需要考虑到羞愧测量的全面性，将个体主观因素与社会因素共同融合在内，并阐释如何在本土文化背景下界定它。羞愧引发的行为机制是一个复杂的过程，需要考虑多方面的影响才能有效进行相关研究的测量工作。
+
+# 5.2社会自我形象的修复
+
+除了全面理解羞愧的内涵，开发出更加客观有效的测量工具，面对上述双路径过程，系统探究影响社会自我修复可能性的因素具有重要意义。最早研究能对此产生影响的包括羞愧的内容是否得到公开承认。Lewis(1995)的研究表明，羞愧的愤怒循环将可能会造成持久的社会敌意和人际疏远，而公认的羞愧感，是维系人际关系的粘合剂。Lynd(1961)同样指出个体承认羞愧感可以加强人际关系，反之，不承认羞愧将会导致人际疏远。未被承认的羞愧将会受到个体的压抑，因此个体将经受"羞愧-愤怒"的恶性循环，产生一系列不良行为结果。另一方面，如果这种羞愧情绪的内容是得到社会广泛承认和认可的，那么个体将不会否认羞愧的存在，羞愧将有利于社会适应与人际协调。除此之外，个体的人格因素会影响社会自我威胁的修复性评定，如自尊、自我同情等(Candea& Szentagotai-Tatar,2018; Tangney&Dearing,2002)。那些自我评价高但却感受到社会自我受到某种威胁或挑战的个体更有可能直接采取敌对和暴力的方式(Heatherton&Vohs,2000)，降低对社会自我威胁的修复可能性的判断。社会地位等社会因素也在某种程度上影响着个体对社会自我威胁是否容易修复的判断(Gruenewald,Kemeny,&Aziz,2006)。综合而言，当前研究更加注重羞愧会产生怎样的行为与心理后果，对其中重要变量的影响因素的研究仍有所欠缺，因此需要多方面的实证证据为羞愧的干预提供可能，通过针对性的干预措施促进羞愧的破坏性后果向建设性方向转变。
+
+# 5.3跨文化比较
+
+文化差异是自我意识情绪领域中不可忽视的一方面，如上述羞愧的承认与否与文化因素密切相关，羞愧与内疚性质的二分法也受到文化因素的调节，使得二者并非处于绝对的位置(Sheikh,2014)。西方国家强调个人主义文化，也可以说内疚文化，把羞愧视为一种私人化情绪，具有一定的隐蔽性，个体往往不会轻易表达(Sheikh,2014)。其他国家多强调集体主义文化，也可以说羞耻文化，包括中国、印度与日本等，个人的生活不仅仅意味着个人，还牵涉到社会关系、集体团结等，社会交往作为个体重要的动机，承认羞愧是修复社会自我形象的有利途径，有助于促进社会接纳(Yakeley,2018)，在这些社会中，羞愧被视为提升群体凝聚力和防止社会分化的亲社会手段。此外，研究不同文化下羞愧的现象学与群体差异也可以帮助理解羞愧的不同发现，例如集体主义文化中羞愧的积极价值也反映在羞愧关系现象学中，个体的羞愧将会延伸到亲密的重要他人(Fung& Chen,2001; Swartz,1988)，即个体的羞愧会影响其他家庭成员，或因为其他家庭成员的行为而产生羞愧。不同文化对羞愧有着不同的评价准则，这将会影响特定文化环境下个体羞愧情绪的产生和对社会自我修复可能性的认知评估。未来研究需要认识到个体针对羞愧经历的认知和行为模式可能会受到文化的影响，并且需要提供一系列实证研究的证据。
+
+# 参考文献
+
+郭瞻予，李阳.(2017).大学生人格，羞耻感和社交焦虑的关系分析．沈阳师范大学学报：社会科学版.41(3), 121 - 124.   
+王柳生，桑标.(2019).羞耻罗盘扩展模型的初步建构．心理研究,12(5),394 -400.   
+汪启荣，钱铭怡.(2010)．自我概念羞耻感对大学生抑郁的影响．中国学校卫生,31(8),928- 929.   
+王玉龙，陈慧玲，覃雅兰，葡秀云.(2019).青少年自伤行为的自我惩罚功能：源于内疚感还是羞耻感?．心理 发展与教育,35(2),219 - 226.   
+Alexander Jr, C.N.,& Knight, G.W.(1971). Situated identities and social psychological experimentation. Sociometry, 34(1),65 - 82.   
+Alln,S., Gilbert,P.,& Goss,K.(1994).An explorationofshame measures—II: Psychopathology.Personality and Individual Differences,17(5),719- 722.   
+Al-Shawaf,L.,& Lewis,D.M. (2017). Evolutionary psychology and the emotions. In V. Zeigler-Hill& T. K. Shackelford (Eds.),Encyclopedia ofpersonalityand individual differences (pp.1-10).Basel, Switzerland: Springer.   
+Aslund, C., Starrin,B.,Leppert, J.,& Nilsson, K. W. (2009). Social status and shaming experiences related to adolescent overt aggression at school. Aggressive Behavior: Oficial Journal of the International Society for Research on Aggression, 35(1),1-13.   
+Baumeister,R.F.,& Leary, M.R.(1995). The need to belong: Desire for interpersonal atachments as a fundamental human motivation. Psychological Bulletin, 117(3), 497-529.   
+Baumeister,R.F.,&Vohs,K.D.(2oo4).Handbook ofself-regulation: Research,theoryand applications.New York: Guilford Press.   
+Beall,A.T.,& Tracy, J.L. (2O17). Emotivational psychology: How distinct emotions facilitate fundamental motives. Social and Personality Psychology Compass,11(2),e12303.   
+Berkowitz,L. (20l2).A different view of anger: The cognitive-neoassociation conception ofthe relation of anger to aggression. Aggressive Behavior,38(4),322-333.   
+Braithwaite,J. (1989). Crime, Shame and Reintegration. Cambridge: Cambridge University Press.   
+Brown,R.,&Cehajic,S.(2008).Dealing with the past and facing the future: Mediators of the effects of collective guilt and shame in Bosnia and Herzegovina. European Journal ofSocial Psychology, 38(4), 669 - 684.   
+Candea,D.M.,& Szentagotai-Tatar,A. (2O18).The impact of self-compassion on shame-proneness in social anxiety. Mindfulness, 9(6), 1816 - 1824.   
+Cohen,T.R., Wolf, S.T.,Panter,A.T.,& Insko, C.A. (2O11). Introducing the GASP scale: a new measure of guilt and shame proneness. Journal of Personality and Social Psychology, 100(5), 947 - 966.   
+Cooley, C. (1922). Human Nature and Conduct. New York: Scribners.   
+Cunha,M., Matos,M.,Faria, D., & Zagalo, S.(20l2). Shame memories and psychopathology in adolescence: The mediator effect ofshame.International JournalofPsychology and Psychological Therapy,12(2),203-218.   
+De Hooge,I.E.(2014).The general sociometer shame: Positive interpersonal consequences of an ugly emotion. In K. G. Lockhart (Ed.),Psychology ofShame: New Research (pp. 96-109). New York: Nova Science Publishers.   
+De Hooge,I.E.,Breugelmans,S.M.,Wagemans,F.M.,& Zeelenberg,M.(2018).The social side of shame: approach versus withdrawal. Cognition and Emotion, 32(8),1671 - 1677.   
+De Hooge,I. E., Breugelmans, S.M.,& Zeelenberg,M. (20o8). Not so ugly after al: when shame acts as a commitment device. Journal of Personality and Social Psychology, 95(4), 933 - 943.   
+De Hooge,I.E., Zeelenberg, M.,& Breugelmans,S.M. (2010). Restore and protect motivations following shame. Cognition and Emotion, 24(1),111- 127.   
+De Hooge,I. E., Zeelenberg, M.,& Breugelmans, S.M. (2011).A functionalist account of shame-induced behaviour. Cognition & Emotion, 25(5), 939 - 946.   
+De Wall,C.N.,Anderson, C.A.,& Bushman,B.J. (2011). The general aggression model: Theoretical extensions to violence. Psychology of Violence, 1(3),245- 258.   
+Dickerson,S.S., Gruenewald,T.L.,& Kemeny,M.E. (2004). When the social self is threatened: Shame, physiology,and health. Journal of Personality, 72(6),1191-1216.   
+Eisenberger,N.I. (2Ol1). Why rejection hurts: What social neuroscience has revealed about the brain's response to social rejection. In J. Decety,& J. Cacioppo (Eds.),The handbook ofsocial neuroscience (pp.586-598).New York: Oxford University Press.   
+Elison, J. (2005).Shame and guilt: Ahundred years ofapples and oranges.New Ideas in Psychology,23(1),5- 32.   
+Elison, J., Garofalo, C.,& Veloti,P. (2014). Shameand aggression: Theoreticalconsiderations.Aggression and Violent Behavior, 19(4),447 - 453.   
+Elison, J.,Lennon,R.,Pulos,S.(2006a). Investigating the Compassof Shame: The development of the Compass of Shame Scale. Social Behavior and Personality: An International Journal.34(3).221-238.   
+Elison, J.,Pulos,S.,&Lennon,R.(206).Shame-focused coping: An empirical studyof the compassof shame. Social Behavior and Personality: An International Journal, 34(2),161-168.   
+Fessler,D. (2oo4). Shame in two cultures: Implications for evolutionary approaches. Journal ofCognition and Culture, 4(2),207 - 262.   
+Fesler,D. (2007). From appeasement to conformity: Evolutionary and cultural perspectives on shame, competition,and cooperation.In J.L. Tracy,R.W.Robins &J.P.Tangney (Eds.),The Self-Conscious Emotions: Theory and Research(pp.174-193). New York: Guliford Press.   
+Frijda,N.H.,Kuipers,P.,& Ter Schure,E.(1989). Relations among emotion,appraisal,and emotionalaction readiness. Journal of Personality and Social Psychology, 57(2),212- 228.   
+Fung,H.,& Chen,E. C.H. (2oo1).Across time and beyond skin: Selfand transgression inthe everyday socialization of shame among Taiwanese preschool children. Social Development, 10(3), 419 - 437.   
+Gausel,N.,& Brown,R. (2012). Shame and guilt—Do they really difer in their focus of evaluation? Wanting to change the self and behavior in response to ingroup immorality.The Journal ofSocial Psychology,152(5),547 - 567.   
+Gausel,N.,& Leach, C.W. (20l1). Concern for self-image and social image in the management of moral failure: Rethinking shame. European Journal of Social Psychology, 41(4), 468 - 478.   
+Gausel,N.,Leach, C.W., Vignoles,V.L.,& Brown,R. (2012). Defend or repair? Explaining responses to in-group moral failure by disentangling feelings of shame,rejection,and inferiority. Journal of Personality and Social Psychology, 102(5),941 - 960.   
+Geaney,J. (2o04). Guarding moral boundaries: Shame in early Confucianism. Philosophy East and West,54(2), 113 - 142.   
+Gibbard,A. (1990). Wise choices,apt feelings: A theory of normative judgment. Cambridge: Harvard University Press.   
+Gibson, M. (2019).The Role of Pride, Shame, Guilt,and Humiliation in Social Service Organizations: A Conceptual Framework from a Qualitative Case Study. Journal of Social Service Research, 45(1),112 - 128.   
+Gilbert,P. (1997).The evolutionofsocial atractiveness andits role inshame,humiliation,guiltandtherapy. British Journal ofMedical Psychology,70(2),113-147.   
+Gilbert,P. (2ooo).The relationship of shame,social anxietyand depresson: The role of the evaluationof social rank. Clinical Psychology & Psychotherapy: An International Journal ofTheory & Practice, 7(3),174 - 189.   
+Gilbert, P. (2oo7). The evolution of shame as a marker for relationship security: A biopsychosocial approach. In J.
+
+Tracy,R.W.Robins &J.P.Tangney (Eds.),The Self-Conscious Emotions (pp.283-309).New York: The Guliford Press.
+
+Gilbert,P.,& Miles,J. (Eds.).(2002). Body shame: Conceptualisation,research,and treatment.London: Psychology Press.   
+Gofman,E.(1955). On face-work: Ananalysisofritual elements insocial interaction.Psychiatry18(3),213 231.   
+Goffman,E. (1967). Interaction Ritual: Essays on Face-to-Face Behavior.New York: Pantheon Books.   
+Gruenewald,T.L., Kemeny,M.E,& Aziz,N. (206).Subjective social status moderates cortisol responses to social threat. Brain, Behavior,and Immunity,20(4),410 - 419.   
+Gruenewald,T.L., Kemeny,M.E.,Aziz,N.,&Fahey,J.L.(20o4). Acute threat to the social self: Shame,social self-esteem, and cortisol activity. Psychosomatic Medicine, 66(6),915 - 924.   
+Haidt, J. (2003). The moral emotions. Handbook of Affective Sciences,11(2003),852- 870.   
+Hawkins, D.R. (20l3). Power vs. Force. California: Hay House.   
+Harder,D. W.,& Greenwald,D.F. (1999).Further validation ofthe shame and guilt scales of the Harder Personal Feelings Questionnaire-2. Psychological Reports,85(1),271 - 281.   
+Heatherton,T.F.,& Vohs,K.D. (20oo). Interpersonal evaluations following threats to self: Role ofself-esteem. Journal of Personality and Social Psychology, 78(4),725 - 736.   
+Heine,S.J.,&Lehman,D.R.(1999). Culture,self-discrepancies,and self-satisfaction.Personality and Social Psychology Bulletin, 25(8),915- 925.   
+Henniger, N. E.,& Harris, C.R. (2O14). Can negative social emotions have positive consequences? An examination of embarassment, shame, guilt, jealousy,and envy. In W.G.Parrott (Ed.),The Positive Side of Negative Emotions(pp.76-97). New York: Guliford Publications.   
+Hosser,D., Windzio,M.,& Greve, W.(20o08). Guilt and shame as predictors of recidivism: A longitudinal study with young prisoners.Criminal Justice and Behavior, 35(1),138-152.   
+Irwin,A.,Li,J., Craig, W.,&Hollenstein,T. (2019).The roleofshame inthe relationbetween peer victimization and mental health outcomes. Journal of Interpersonal Violence,34(1),156 - 181.   
+Jacquet,J.,Hauert, C.,Traulsen,A.,& Milinski,M. (2Ol1).Shame and honour drive cooperation.Biology Leters, 7(6), 899 - 901.   
+Jaffe, K. (2oo8).Evolution of shame as an adaptation to social punishment and its contribution to social cohesiveness. Complexity, 14(2),46 - 52.
+
+Jones,T.,&Elison,J.(2013,May).Coping with exclusion changes over time.Poster presented at the 25th annual Association for Psychological Science Convention,Washington,D.C.
+
+Kaplenko,H.,Loveland, J. E.,& Raghavan, C. (2018). Relationships between shame,restrictiveness, authoritativeness,and coercive control in men mandated to adomestic violence offenders program. Violence and Victims,33(2),296- 309.   
+Keltner,D.,& Gross,J. (1999).Functional accounts of emotions. Cognition and Emotion,13(5),467-480.   
+Keltner,D.,& Harker,L. (1998).The forms and functions of the nonverbal signal of shame.In P. Gilbert & B. Andrews (Eds.),Series in affective science. Shame: Interpersonal behavior, psychopathology,and culture(p 78-98). New York: Oxford University Press.   
+Kessler,R. C.,Adler,L.A.,Barkley,R.,Biederman,J., Conners,C.K.,Faraone,S.V.,..&Ustuin,Muris,P. (2015). Guilt, shame,and psychopathology in children and adolescents. Child Psychiatry & Human Development, 46(2), 177 - 179.   
+Kim,S.,Thibodeau,R.,&Jorgensen,R.S. (2011). Shame, guilt,and depressive symptoms: a meta-analytic review. Psychological Bulletin,137(1),68-96.   
+Kurzban,R.,& Leary,M. R. (2Oo1). Evolutionary origins of stigmatization: The functions of social exclusion. Psychological Bulletin,127(2),187-208.   
+Leach, C.W.,& Cidam,A. (2O15). When is shame linked to constructive approach orientation? A meta-analysis. Journal of Personality and Social Psychology,109(6),983-1002.   
+Leary,M. R.,& Baumeister,R.F. (2ooo).The nature and function of self-esteem: Sociometer theory. In M. P. Zana (d.),Advances inexperimental social psychology (Vol.32,pp.1- 62). New York: Academic Press.   
+Leary,M.R.,& Guadagno,J. (2011).The role of hypo-egoic self-processes inoptimal functioning and subjective wellbeing. In K. Sheldon,T.B. Kashdan,& M.F.Steger (Eds.),Designing positive psychology: Taking stock and moving forward (pp. 135-146). New York,NY: Oxford University Press.   
+Leeming,D.,& Boyle, M. (2013). Managing shame: An interpersonal perspective. British Journal of Social Psychology, 52(1), 140- 160.   
+Lewis,M. (1992). Shame: The Exposed Self. New York: Free Press.   
+Lewis,M.,Alessandri,S.M.,& Sullivan,M. W. (1992). Differences inshame and pride as a function of children's gender and task difficulty. Child Development, 63(3), 630 - 638.   
+Lickel,B.,Kushlev,K.,Savalei,V.,Matta,S.,&Schmader,T. (2o14).Shameand the motivationtochange the self. Emotion, 14(6),1049 - 1061.
+
+Lynd,H.M.(1961). Alienation: man's fate and man's hope.American Journal ofPsychoanalysis,21(2),166-171.
+
+Muris,P.,& Meesters, C.(2014).Smallor big in the eyes of the other: On the developmental psychopathology of self-conscious emotions as shame,guilt and pride. Clinical Child and Family Psychology Review,17(1),19-40   
+Nathanson, D.L. (1992). Shame and pride: Afect, sex and the birth ofthe self. New York: Norton.   
+Olthof,T. (20l2). Anticipated feelings of guilt and shame as predictors of early adolescents' antisocial and prosocial interpersonal behaviour. European Journal of Developmental Psychology, 9(3),371 - 388.   
+Paulus,D. J., Vanwoerden, S.,Norton,P.J.,& Sharp, C. (2016). Emotion dysregulation, psychological inflexibility,and shame as explanatory factors between neuroticism and depression. Journal of Affective Disorders,190(15),376 - 385.   
+Porter,A. C., Zelkowitz, R.L.,& Cole,D.A. (2018). The unique associations of self-criticism and shame-proneness to symptoms of disordered eating and depresson. Eating Behaviors, 29, 64 - 67.   
+Probyn,E.(2004).Everyday shame. Cultural Studies,18(2-3),328-349.   
+Randles,D.,&Tracy,J.L. (2O13). Nonverbal displays ofshame predict relapse and declining health inrecovering alcoholics. Clinical Psychological Science, 1(2),149 - 155.   
+Scheff,T.J.(1988).Shame and conformity: The deference-emotion system. American Sociological Review, 53(3). 395 - 406.   
+Scheff,T.J. (2oo0).Shame and the social bond: A sociological theory.Sociological Theory,18(1),84- 99.   
+Scheff,T. J. (2003). Shame in self and society. Symbolic Interaction,26(2),239 - 262.   
+Scherer,K.R.,& Wallbott, H. G.(1994).Evidence foruniversalityand cultural variation of differential emotion response patterning. Journal of Personality and Social Psychology, 66(2),310 - 328.   
+Sheikh, S. (2014). Cultural variations in shame's responses: A dynamic perspective. Personality and Social Psychology Review, 18(4),387- 403.   
+Stromsten,L.M., Henningssn, M.,Holm, U.,& Sundbom,E. (2o09). Assessment of self-conscious emotions: A Swedish psychometric and structure evaluation of the Test of Self-Conscious Afect (TOSCA). Scandinavian Journal of Psychology, 50(1),71-77.   
+Stuewig,J.,Tangney,J.P.Kendal,S.,olk,J.B.,Meyer,C.R.,&Dearing,R.L.(2o15).Children's proneto shame and guilt predict risky and illegal behaviors in young adulthood. Child Psychiatry & Human Development, 46(2),217 - 227.   
+Swartz,M.J.(1988). Shame, culture,and status among the Swahili of Mombasa.Ethos,16(1),21- 51.   
+Sznycer,D. (2o18).Forms and functions of the self-conscious emotions.Trends in Cognitive Sciences,23(2),143
+
+- 157.
+
+Sznycer,D.,Takemura,K., Delton,A. W., Sato,K.,Robertson,T., Cosmides,L.,& Tooby,J. (2012). Cross-cultural differences and similarities in proneness to shame: An adaptationist and ecological approach. Evolutionary Psychology，10(2),352-370.   
+Sznycer,D.,Tooby,J.,Cosmides,L.,Porat,R.,Shalvi,S.,&Halperin,E.(2o16).Shameclosely tracks thetreat of devaluation by others, even acrosscultures. Proceedings of the National Academy of Sciences,113(10),2625 - 2630.   
+Tangney,J.P.(1991).Moralaect: the good,thebad,andtheugly.Journalofersonalitynd SocialPsychology, 61(4), 598 - 607.   
+Tangney, J.P.(1992). Situational detenninants of shame and guilt in young adulthood. Personality and Social Psychology Bulletin,18(2),199- 206.   
+Tangney,J.P.(1995). Recent advances in the empirical studyofshame and guilt.American Behavioral Scientist, 38(8),1132 - 1145.   
+Tangney, J. P.(1999).The self-conscious emotions: Shame, guilt, embarrassment and pride.In T.Dalgleish& M.J. Power (Eds.), Handbook of cognition and emotion (pp. 541-568). Chichester, England: Wiley.   
+Tangney, J. P.,& Dearing, R.L. (2002). Shame and guilt. New York: Guilford.   
+Tangney,J.P.,Miller,R.S.,Flicker,L.,&Barlow,D.H. (1996).Are shame, guilt,and embarrassmentdistinct emotions? Journal ofPersonality and Social Psychology,70(6),1256-1269.   
+Tangney,J.P.,Niedenthal,P.M., Covert,M.V.,&Barlow,D.H. (1998). Are shame and guilt related todistinct self-discrepancies? A test ofHiggins's (1987) hypotheses.Journal ofPersonality and Social Psychology,75(1), 256 - 268.   
+Tangney, J.P.,Stuewig, J.,& Martinez,A. G.(2014).Two faces of shame: The roles of shame and guilt in predicting recidivism. Psychological Science, 25(3),799 - 805.   
+Tangney,J.P.,Wagner,P.,& Gramzow,R. (1992).Proneness toshame,pronenessto guilt,and psychopathology Journal of Abnormal Psychology, 101(3),469 - 478.   
+Tangney,J.P., Wagner,P.E.,Hill-Barlow,D.,Marschall,D.E.,& Gramzow,R. (1996). Relation ofshame and guilt to constructive versus destructive responses to anger across the lifespan. Journal of Personality and Social Psychology, 70(4),797 - 809.   
+Tracy,J.L.,& Robins,R. W. (2o04a). Puting the self Into self-conscious emotions: A theoretical model. Psychological Inquiry, 15(2),103-125.   
+Tracy,J.L.,& Robins,R.W.(2Oo6).Appraisal antecedents ofshameand guilt: Support for a theoretical model. Personality and Social Psychology Bulletin,32(10),1339 -1351.   
+Weingarden,H.,& Renshaw, K.D.(2015). Shame in the obsessve compulsive related disorders: A conceptual review.Journal of Affective Disorders,171(15),74- 84.   
+Weisfeld,G.E.,& Dillon,L.M.(2012). Applying the dominance hierarchy model to pride and shame,and related behaviors.Journal ofEvolutionary Psychology,10(1),15-41.   
+Wicker,F.W.,Payne, G. C.,& Morgan,R.D.(1983).Participant descriptions of guilt and shame. Motivation and Emotion, 7(1),25 - 39.   
+Woodyatt,L.,& Wenzel, M. (2014). A needs-based perspective on self-forgiveness: Addressing threat to moral identity as a means of encouraging interpersonal and intrapersonal restoration.Journal ofExperimental Social Psychology, 50(1),125-135.   
+Yakeley, J.(2018). Shame,culture and mental health. Nordic Journal of Psychiatry,72(sup1),S20- S22.
+
+# Constructive or destructive? A dual-pathway model of shame
+
+WANG Yu; LI Mengju
+
+(Research CenterforPsychologicaland Health Sciences,China UniversityofGeosciences,Wuhan 43074,China)
+
+Abstract: Shame is a self-conscious emotion that plays an important role in individual behaviour and personal psychological development. Shame is also a significant moral emotion in traditional Chinese culture and is a major way that Chinese people examine themselves and their own behaviours. There are two opposing views on the value of shame. In other words,is shame a constructive or a destructive emotion? Theoretical models include: (1） Shame as a destructive emotion includes models of social self-threat and shame adjustment and so on. (2) Shame as a constructive emotion includes those models of evolutionary psychology as well as the functionalist perspective. Both views on shame are supported by a large number of empirical studies. In order to examine the concept of shame systematically and comprehensively, this paper proposes a dual-pathway structural model with the goal of improving our understanding of the mechanisms underlying shame-induced behaviours. In our study, we highlight the critical role of social self-threat and the need to repair social self-image.Future studies are needed to develop more objective and comprehensive measures of shame and take account of the cultural factors that influence social self-healing.More objective analyses are needed to help people understand the interpretation of shame as experienced by those from different cultural backgrounds. Thus, more targeted interventions can be proposed and facilitate the constructive transformation of the potentially destructive consequences of individual shame.
+
+Key words: Shame; Social Threats; Functionality

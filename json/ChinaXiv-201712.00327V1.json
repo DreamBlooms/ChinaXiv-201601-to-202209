@@ -1,0 +1,394 @@
+[
+    {
+        "type": "text",
+        "text": "Monitoring desertification processes in Mongolian Plateau using MODIS tasseled cap transformation and TGSI time series ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Qingsheng1,2\\*, LIU Gaohuan1, HUANG Chong1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State KeyLaboratoryof Resources andEnvironmental InformationSystem,Instituteof Geographic Sciencesand Natural Resources Research,Chinese Academyof Sciences,Beijing 1Oo1o1, China;   \n2 Jiangsu Center for Collborative Innovation in Geographical InformationResource Developmentand Appication,Nanjing 210023, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Most remote sensing studies assess the desertification using vegetation monitoring method. But it has the insuffcient precision of vegetation monitoring for the limited vegetation cover of the desertification region. Therefore,it offers an alternative approach for the desertification research to assess sand dune and sandy land change using remote sensing in the desertification region.In this study,the indices derived from the well-known tasseled cap transformation (TCT), tasseled cap angle (TCA), disturbance index (DI), process indicator (PI),and topsoil grain size index (TGSI) were integrated to monitor and assess the deertification at the thirteen study sites including sand dunes and sandy lands distributed in the Mongolian Plateau (MP) from 2000 to 2015.A decision tree was used to classify the desertification on a regional scale. The average overall accuracy of 2000,2005,2010 and 2015 desertification classification was higher than $90 \\%$ . Results from this study indicated that integration of the advantages of TCA,DI and TGSI could beter assess the desertification. During the last 16 years, Badain Jaran Desert, Tengger Desert,and Ulan Buh Desert showed a relative stabilization. Otindag Sandy Land and the deserts of Khar Nuur, Ereen Nuur,Tsagan Nuur, Khongoryn Els, Hobq,and Mu Us showed a slow increasing of desertification, whereas Bayan Gobi, Horqin and Hulun Buir sandy lands showed a slow decreasing of desertification. Compared with the other 11 sites, the fine sand dunes occupied the majority of the Tengger Desert,and the coarse sandy land occupied the majority of the Horqin Sandy Land. Our findings on a three or four years' periodical fluctuated changes in the desertification may posibly reflect changing precipitation and soil moisture in the MP.Further work to link the TCA, DI, TGSI, and PI values with the desertification characteristics is recommended to set the thresholds and improve the assessment accuracy with field investigation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: desertification; MODIS; desert; sand dune; sandy land; Mongolian Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Desertification poses serious ecological, environmental, and socio-economic threats to the world. It directly affects $2 . 5 { \\times } 1 0 ^ { 8 }$ people and one-third of the Earth's surface (over $4 . 0 { \\times } 1 0 ^ { 7 } \\mathrm { k m } ^ { 2 }$ ; UNCCD, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016a).According to the definition put forward by the United Nations Convention to Combat Desertification (UNCCD) in 1994, desertification is land degradation in arid, semi-arid, and dry sub-humid areas due to climatic variation and human intervention.The Asian continent is occupied by approximately $1 . 7 { \\times } 1 0 ^ { 7 } ~ \\mathrm { k m } ^ { 2 }$ of arid, semi-arid, and dry sub-humid lands and desertification manifests itself in many different forms,such as the expanding deserts in China, Mongolia, India, Iran, and Pakistan (UNCCD, 2O16b). As the second largest plateau in Asia, the Mongolian Plateau (MP) consists primarily of the Inner Mongolia Autonomous Region of China (IMAR, a total area of $1 . 1 8 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 } \\mathrm { \\Omega }$ and the entire territory of Mongolia (a total area of $1 . 5 7 \\times 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ ; Fang et al., 2015). Approximately $90 \\%$ of Mongolia's territory is occupied by hyper-arid, arid, semi-arid, and dry sub-humid areas, and roughly $72 \\%$ of the country is vulnerable to desertification (Yu et al., 2013; Eckert et al., 2015). In the IMAR, $60 \\%$ of the land area is occupied by arid, semi-arid, and dry sub-humid areas and suffers from desertification (Ci and Wu,1997). Over the past few decades, rapid growth of the population and livestock, urbanization, and mining have exacerbated the dificulty in mitigating desertification faced by the government of China and Mongolia. Therefore, there is an urgent need to understand and control the desertification in terms of its status, trend, and drivers. The most effective way to achieve this is to monitor and map the desertification processes (Xiao et al., 2006; Albalawi and Kumar, 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Traditional desertification monitoring approaches from a site-specific perspective make it dificult to understand the spatial extent of the desertification (Collado et al., 2OO2; Lam et al., 2010). Remote sensing, with the ability to rapidly and reliably collect data over wide areas, has been applied to monitor and assess desertification and its dynamic processes (Cui et al., 2006; Albalawi and Kumar, 2O13). Changing vegetation and land use are the most common indicators used by many scholars to monitor desertification (Albalawi and Kumar, 2O13). Generally, changes in vegetation are the most direct indicator of desertification (land degradation), and can reflect the dynamic processes of desertification (Yang et al., 20o5; Xu et al., 2O09). Image-based vegetation indices such as the normalized difference vegetation index (NDVI), soil adjusted vegetation index (SAVI), modified SAVI (MSAVI), enhanced vegetation index (EVI)， vegetation temperature condition index (VTCI), and optimized vegetation index (OPVI), were most commonly used for monitoring the vegetation conditions in desertification assessment (Cui et al.,2OO6; Xu et al., 2009; Yu et al., 2O13). In addition, some indices that can reflect spatial heterogeneity, such as the land surface temperature (LST), land surface albedo, land surface water index (LSWI), moving standard deviation index (MSDI),and rain use efficiency (RUE),are also used to assess desertification. In Mongolia, trend analysis of MODIS NDVI time series data is used to detect areas of vegetation change to monitor land degradation and regeneration areas (Eckert et al., 2O15). The combination of NDVI and field-surveys provides an effective way to monitor desertification on the Mongolian steppes (Sternberg et al., 2011). MODIS NDVI cross-checked with the meteorologically-derived aridity index from 2OO0 to 2O12 identifies a recent contraction of the Gobi in East Asia (Sternberg et al., 2015). Compared with NDVI and EVI, MSAVI2 derived from multi-temporal SPOT-4 VEGETATION data from 1998 to 2001 is found to estimate vegetation biomass and monitor vegetation degradation well on the Mongolian desert steppes (Javzandulam et al., 2Oo5). The VTCI from multi-temporal Landsat-5 images has been used to predict the distribution of vegetation and efficiently monitor desertification in Bulgan, Mongolia (Yu et al., 2O13). The NDVI, MSDI, and land surface albedo from Landsat images have ben used in conjunction to quantitatively assess the desertification of the Ordos Plateau, China in 1980, 1990,and 2000 (Xu et al., 2009). The topsoil grain size index (TGSI) is proposed based on the field spectral reflectance measurements and laboratory physical analysis of topsoil grain composition to detect desertification in Siziwang Banner, IMAR (Xiao et al., 2006). Integrated desertification assessment conducted by combining NDVI, TGSI, and land surface albedo from Landsat images indicated a difference of $87 \\%$ in the desertification area in Hogno Khaan nature reserve in central Mongolia between 199O and 2011 (Lamchin et al., 2O16). The total accuracy of all Landsat MSS-derived vegetation indices (NDVI and SAVI) for desertification mapping of the Horqin Sandy Land, IMAR, is approximately $48 \\%$ (Bremborg, 1996). The MSAVI variation is not sufficient to assess the land degradation process, which indicates that the vegetation grenness alone is not a major indicator of land degradation assessment in the Gobi-Altai province in western Mongolia (Vova et al., 2O15). Land use and land cover change (LUCC) has been accepted widely as a primary driver for ecosystem degradation worldwide and become a key research topic in desertification. A full-year 2Oo0 time-series of SPOT VEGETATION images with $1 \\mathrm { k m }$ spatial resolution has been used to produce a land cover map to detect sparse vegetation as an indicator of areas at risk of desertification in North China, including the Gobi desert (Huang and Siegert, 2Oo6). Based on a GIS approach, researchers performed land desertification monitoring and assessment in Yulin, Northwest China using spatial patterns from land cover classes, Landsat NDVI, and the prevailing wind direction (Zhang et al., 2O08). The status, rate, and causes of the development of desertification in the Mu Us Sandy Land, northern China, has been analyzed based on land cover change from the 195Os to 199Os (Wu and Ci, 2002). The spatial and temporal dynamics of land use and land cover associated with land degradation and desertification in the Mu Us Sandy Land, China have been analyzed using NDVI and albedo through the change vector analysis technique (Karnieli et al.， 2O14). Monitoring changes in vegetation and land use is not the only method available to quantify desertification (Kawamura and Akiyama, 2O10; Albalawi and Kumar, 2013). Some scholars criticize using vegetation cover to detect desertification (Shafie et al., 2O12). It is also noteworthy that in the Gobi desert, the NDVI must be verified with a ground-based investigation due to the insufficient precision of the NDVI value for such limited vegetation cover (Lam et al., 2O10; Sternberg et al., 2O11; Zhao et al., 2015). Currently, it is not feasible to obtain field data and carry out ground-based investigations due to the remoteness and very large area of the MP (Sternberg, 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sandy desertification is one of the main forms of land degradation in the MP, especially in northern China (Elhadi et al., 2009; UNCCD,2016b). Desert area covers $1 4 . 3 \\%$ of Mongolia (Yang et al., 2004), and $4 0 . 0 \\%$ of the IMAR in China (John et al., 2O08); this has been steadily expanding since the 195Os (Eltahir et al., 2O09). The inclusion of sand dune encroachment in desertification monitoring would greatly improve the accuracy in the prediction criteria of risk-prone areas (Lam et al.,201O; El-Magd et al.,2O13). It has been found that sand dune encroachment can be effectively monitored through comparison of multi-temporal satellite images based on visual interpretation; differences in spectral brightness, land surface albedo, and temperature; image subtraction; and supervised and unsupervised classfication (Hu et al., 20O2; Yao et al., 2OO7; Hereher, 2010; Lam et al.,2010; Hermas etal.,2O12; Hugenholtz etal.,2012). However, compared with several discrete spectral bands or vegetation indices such as NDVI, MSAVI and normalized difference moisture index (NDMI), the tasseled cap brightness (TCB), tasseled cap greenness (TCG) and tasseled cap wetness (TCW） derived from the tasseled cap transformation (TCT)，which synthesizes the information contained in several discrete spectral bands into a few components and can associate remotely sensed spectral features with the physical characteristics of land use and land cover classes can yield slightly beter results (Jin and Sader, 2OO5; Lozano et al., 2OO7; Powell et al., 2010; Czerwinski et al., 2014; Liu et al., 2016). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recently, the different combinations of the tasseled cap indices such as the disturbance index (DI) and tasseled cap angle (TCA) have been used in forest disturbance detection and land cover change analysis (Masek et al.,2008; Powell et al.,2010; G6mez et al.,2O11; Baumann et al., 2014). The DI is a linear combination of the normalized TCB, TCG, and TCW, and was designed to highlight the un-vegetated spectral signatures and separate them from all other vegetation signatures. The DI metric is relatively insensitive to the changes in solar geometry or the bidirectional reflectance distribution function (BRDF) between scenes, and reduces the effect of phenologic variability among images obtained on different dates (Masek et al., 2OO8). Areas with disturbances have higher DI values. The advantage of the DI is that typically depends on the study region and only requires a threshold to be set. The DI has been used to successfully detect areas of forest disturbance in a wide range of forest biomes and $\\mathrm { D I } { = } 3 . 0$ has been shown to provide the most accurate disturbance map (Baumann et al., 2O14). The TCA introduced by Powell et al. (2010) condenses the information of the TCG/TCB ratio to a single value and fundamentally stands for the proportion of vegetated to non-vegetated areas; changes in the proportion of vegetated to nonvegetated areas result in concomitant changes in TCA values. Areas of dense vegetation have high ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TCA values, while areas of bare soil with no vegetation have negative TCA values (Gómez et al., 2011). The process indicator (PI) is a derivative of the TCA values,and represents the rate of change of TCA values over time. It is appropriate for detecting continuous subtle changes such as natural succession (Gómez et al., 2011). However, to the best of the authors’ knowledge, few studies had been conducted on sand dune encroachment using the TCT technique. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The goal of this study is to characterize the desertification process using the TGSI with the three indices derived from the TCT. Another goal is to use remote sensing data from 200O to 2015 to assess changes and trends in desertification in the MP as a whole based on the dune and sandy land classification of the decision tree (DT). In this study, thirteen sand dunes (deserts) and sandy lands were selected as the study sites to indicate the desertification processes of the MP as a whole. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MP is located in the hinterland of temperate Asia and has a total population of about $2 . 8 { \\times } 1 0 ^ { 7 }$ $( 0 . 3 { \\times } 1 0 ^ { 7 }$ for Mongolia and $2 . 5 { \\times } 1 0 ^ { 7 }$ for IMAR in 2015; Fang et al., 2015). It is dominated by steppe vegetation, including meadows, and typical and desert steppe vegetation (Zhao et al., 2015). It has a hyper-continental climate. The highest annual mean temperature appears in the desert steppe （ $1 . 2 ^ { \\circ } \\mathrm { C }$ in Mongolia and $5 . 3 ^ { \\circ } \\mathrm { C }$ in the IMAR) and the lowest annual mean temperature is $- 1 . 1 ^ { \\circ } \\mathrm { C }$ in the desert steppe of Mongolia and $1 . 9 ^ { \\circ } \\mathrm { C }$ in the desert steppe of IMAR (Fang et al., 2015; Zhao et al., 2015). The wind blows from between the northwest and the west for most of the year (Yao et al., 2007; Li, 2011; Karnieli et al.,2014; Lamchin et al., 2016). There are deserts of Badain Jaran, Tengger, Ulan Buh, and Hobq, and sandy lands of Mu Us, Otindag, Horqin,and Hulun Buir in the IMAR (Zha and Gao,1997; Kawamura and Akiyama, 2O10). The Gobi is a vast, large desert region situated on the MP, and covers parts of northern IMAR and southern Mongolia. This study was carried out in Khar Nuur Sand Dune (Site 1), Ereen Nuur Sand Dune (Site 2), Tsagan Nuur Sand Dune (Site 3), Khongoryn Els Sand Dune (Site 4), Khar Khorin and Bayan Gobi (Site 5), Badain Jaran Desert (Site 6), Tengger Desert (Site 7), Ulan Buh Desert (Site 8), Hobq Desert (Site 9), and Mu Us Sandy Land (Site 1O), Otindag Sandy Land (Site 11), Horqin Sandy Land (Site 12), and Hulun Buir Sandy Land (Site 13) in the MP (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/065258e6a0d43851c66d346cec6b6d2401f7a26a9896d7a8312c0d1ec138d29a.jpg",
+        "img_caption": [
+            "Fig.1 MODIS mosaic image (2014) for Mongolia Plateau (MP) with locations of deserts and sandy lands. Sites 1-13 are located in the Khar Nur Sand Dune, Ereen Nuur Sand Dune, Tsagan Nur Sand Dune, Khongoryn Els Sand Dune, Khar Khorin and Bayan Gobi, Badain Jaran Desert,Tengger Desert, Ulan Buh Desert, Hobq Desert, Mu Us Sandy Land, Otindag Sandy Land, Horqin Sandy Land, and Hulun Buir Sandy Land, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data and methodology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MODIS Nadir BRDF adjusted reflectance (NBAR) data were obtained from the United States Geological Survey (USGS). Compared with raw reflectance, NBAR data minimizes artifacts in the sample related to variable geometry, and has seven spectral bands comparable to those of Landsat TM, and is a logical choice for tasseled cap extension (Lobser and Cohen, 2OO7). For this study, the most recent collection 5 MODIS MCD43A4 16-day NBAR product at a spatial resolution of $5 0 0 \\mathrm { m }$ acquired in August from 200O to 2O15 was freely downloaded from the global visualization interface (GloVis; http://glovis.usgs.gov/). Through mosaicking, projection transformation and cloud removal, a cloud-free dataset covering the study area was analyzed for the period 2Oo0-2015. The TCB, TCG, and TCW are derived from MODIS MCD43A4 data using the tasseled cap coefficients given by Lobser and Cohen (2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The TGSI was proposed based on field-based spectral reflectance measurements and laboratorybased physical analysis of topsoil grain composition, which is positively correlated $scriptstyle ( R ^ { 2 } = 0 . 7 3 8 7 )$ with fine sand content (Xiao et al., 2006). According to the results from Landsat TM/ETM $^ +$ (Xiao et al., 2006), a TGSI value close to zero corresponds to vegetation and water bodies. Sometimes, it can even be negative, and areas covered by fine sand (i.e., deserts) have TGSI values near 0.20. The TGSI can be estimated using Equation 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT G S I = \\frac { \\left( R _ { b 1 } - B _ { b 3 } \\right) } { \\left( R _ { b 1 } + B _ { b 3 } + G _ { b 4 } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { b 1 } , G _ { b 4 }$ ,and $B _ { b 3 }$ are the red, green, and blue bands of the MCD43A4 data, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3Classification of sand dunes and sandy lands ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The DT is applied to classfy the sand dunes and sandy lands, which employs a flowchart-like process to perform multistage classification based on a series of spliting thresholds. DT classification has been used to assess the status of desertification (Xu et al., 2OO9; Lamchin et al., 2016). With no ground truth data, statistical criteria combined with the opinion of experts were used to detect the sand dunes and sandy lands in the high resolution images acquired for the corresponding years from Google Earth using the variables TCA, DI, and TGSI (Fig. 2). In this study, the land desertification was classfied into six grades: none (zero desertification),low sandy land (LSL, low desertification), coarse sandy land (CSL, medium desertification), fine sandy land (FSL, high desertification), coarse sand dune (CSD, severe desertification), and fine sand dune (FSD, severe desertification). After the DT classification, the masks (the rectangle buffers) were created to constrain calculations and analysis to the thirteen study sites. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7facb0eb46d7a61f81f02fda0571bf09a46442084297f7c9ea23567eae11f5ec.jpg",
+        "img_caption": [
+            "Fig. 2Decision tree for classifying sandy lands using tasseled cap angle (TCA), disturbance index (DI), and topsoil grain size index (TGSI) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Accuracyassessment ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A detailed accuracy assessment of DT classification could not be carried out due to insufficient field data. Informal assessment of accuracy was done by comparing the DT classifications to visualization interpretation of MCD43A4 images, some field photos, and Landsat images and high spatial resolution images acquired for periods corresponding to the classfication imagery, and the previous results (Hu et al., 2002; Xu et al., 2009; Guo et al., 2010; Li, 2011; Zhang et al., 2012; Duan et al., 2014; Lamchin et al., 2O16; Wang et al., 2017). Because there were not enough field data as the ground truth verification values, 1,4593 random sample pixels (one percent pixels of the thirteen sites) were generated from the DT classification results using the random sampling method respectively. After the random sample pixels were overlaid on the same period Landsat TM/ETM $\\cdot +$ and OLI images covered the thirteen sites, the correct and incorrect classification pixels were determined by visual interpretation with the high resolution images from the Google Earth. A confusion matrix was used for accuracy checking of non-desertification and desertification by produce accuracy, user accuracy, overall accuracy and Kappa coefficient. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 TCA,DI and TGSI ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the dynamic changes of TCA (Fig. 3a), DI (Fig. 3b) and TGSI (Fig. 3c) values of the thirteen sites over the last 16 years. At Site 1, the mean TCA values showed a decreasing trend during the periods 2000-2002, 2004-2008,and 2010-2012. The mean DI values showed an increasing trend during the periods 2004-2008 and 2010-2012. The mean values of TGSI of time series images from 2000 to 2015 were between 0.203 and 0.229. Compared with Site 1, extensive desertification occurred at Site 2. The mean TCA values showed a decreasing trend during the periods 2000-2002, 2005-2007,and 2010-2012. The mean DI values showed an increasing trend during the periods 2007-2009 and 2010-2012, indicating a fluctuating change in the conditions of land surface. The mean values of TGSI of time series images from 200O to 2015 were between 0.217 and O.232, which showed that the dominant soil particle size of the topsoil had a fluctuating increasing trend of fine sand from 2OOO to 2OO6,and a fluctuating decreasing trend of fine sand from 2006 to 2015. At Site 3,eleven years out of the last 16 years had negative average TCA values, indicating that a low proportion of vegetated to non-vegetated areas were present at Site 2 over the last 16 years. In particular, from 2OO4 to 2010, all the average TCA values were negative, indicating a persistent desertification. Compared with Site 1 and Site 2, a high proportion of the desertification occurred at Site 3. The mean DI values showed an increasing trend from 2003 and 2011 to 2005 and to 2013, and a decreasing trend during the periods 2001-2003, 2005-2007, and 2013-2015, respectively. The mean values of TGSI of time series images from 200O to 2015 were between 0.213 and 0.225. At Site 4, the average TCA values were negative in the fifteen years out of the last 16, indicating that a low proportion of vegetated to non-vegetated areas were presented at the site during these years. In particular, the average TCA values were close to $- 0 . 0 5$ in 2001, 2002, 2005, 2009, and 2O10, indicating a lower proportion of vegetated to non-vegetated areas existed during these years. During the last 16 years, the mean DI values were near 1.0,indicating a low proportion of sand dunes and sandy lands present at Site 4. The mean values of TGSI of time series images from 2000 to 2015 showed a slightly increasing trend during the periods 2000-2003 and 2010- 2012, and a slightly decreasing trend from 2003 to 2OO5. At Site 5, the average TCA values were positive at al time periods because sand dunes and sandy lands accounted for a small portion of the landscape at the site where the mean TCA values showed a decreasing trend during the periods 2000-2002 and 2012-2014, and an increasing trend during the periods 2004-2006, 2007-2009, and 2010-2O12. The average DI values werer negative in the twelve years out of the last 16 years, indicating a low proportion of sand dune and sandy lands at Site 5. The mean values of TGSI of time series images from 2000 to 2015 were 0.200-0.226,and showed a slightly increasing trend during the periods 2002-2004 and 2006-2008, and a slightly decreasing trend during the periods 2004-2006 and 2010-2013. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/db4e73723f115c33f2c911194bfe5152b236ec76862203cad2baaa8f7ccab13d.jpg",
+        "img_caption": [
+            "Fig.3 Dynamic changes of TCA,DI and TGSI values of the thirteen sites from 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At Site 6 in the Badain Jaran Desert, the average TCA values were negative at the whole period 2000-2015, indicating a high proportion of the presence of non-vegetated to vegetated areas. The average TCA values were all near $- 0 . 0 5$ and the standard deviations of TCA values were relatively low for the entire period, indicating a relative stabilization of the landscapes. The mean DI values were highly positive for the whole period, indicating a relative high temperature, low moisture and sparse vegetation compared to the five abovementioned sites. The mean values of TGSI of time series images from 2000 to 2015 were 0.215-0.235. Unlike the five abovementioned sites, for most image dates,the distribution of pixels with different TGSI values was bimodal, indicating that the soil particles were sorted by size into the fine and coarse grains, with the majority of the particles being coarse grains. At Site 7 in the Tengger Desert, the average TCA values were negative for the period 2000-2015 except for the year 2012, indicating a high proportion of non-vegetated to vegetated areas. The mean DI values were highly positive for the period, indicating a relative high temperature, low moisture and sparse vegetation in the desert. The mean values of TGSI of time series images from 2000 to 2015 were 0.241-0.260. Compared with the six abovementioned sites, the mean TGSI values were the highest, indicating more fine sands in the desert. At Site 8, the mean values of TCA were less than O.01, indicating a high proportion of non-vegetated to vegetated areas in the Ulan Buh Desert. The mean DI values were highly positive for the study period, indicating a relative high temperature,low moisture, and sparse vegetation in the desert. The mean values of TGSI of time series images from 2000 to 2015 were 0.217-0.237. It is interestingly noted that compared with the Tengger Desert, the mean values of TGSI were more like that of the Badain Jaran Desert. At Site 9, the mean values of TCA were more than O.O1 because sand dunes and sandy lands accounted for a small portion of the landscape. In the twelve years out of the last 16 years, the average DI had positive values,indicating a relatively high temperature and low moisture in the Hobq Desert. The mean values of TGSI of time series images from 2000 to 2015 were 0.207-0.220. The distribution of pixels with different TGSI values was bimodal, indicating that the soil particles were sorted by size into fine and coarse grains, with a majority of the grains being coarse grained. At Site 10, the mean TCA values showed an increasing trend from 2005 to 2008 and a decreasing trend during the periods 2008-2011 and 2012-2015, indicating a decreasing change with periodical fluctuations in the proportion of vegetation to non-vegetation. The mean DI values were negative at alltime periods, indicating a relatively high vegetation cover in the Mu Us Sandy Land. The mean values of TGSI of time series images from 2000 to 2015 were 0.202-0.235.At Site 11, the average TCA values were more than O.15 for the study period, indicating a relatively high vegetation cover in the Otindag Sandy Land. The mean TCA values showed an increasing trend during the periods 2001-2004 and 2009-2012, indicating a periodically fluctuating increasing change in the proportion of vegetated to non-vegetated areas. The mean TCA values showed a decreasing trend from 2012 to 2014, indicating a slow decreasing change in the proportion of vegetated to non-vegetated areas. Fifteen of the last 16 years had low positive values of the average DI which may have been due to the presence of water bodies and sparse vegetation in the Otindag Sandy Land. The mean values of TGSI of time series images from 200O to 2O15 were between 0.180 and 0.218,and showed an increasing trend during the periods 2004-2007, 2008-2010, and 2011-2014, indicating a periodically fluctuating increase in the proportion of fine grained to coarse grained particles of the topsoil. At Site 12, the minimum mean TCA of time series images from 2000 to 2015 was in 2009, the average TCA values were more than O.18 for the whole period, indicating a relatively high vegetation cover in the Horqin Sandy Land. The mean TCA values showed an increasing trend from 2O09 to 2013, indicating a periodically fluctuating increasing change in the proportion of vegetated to non-vegetated areas. The mean TCA values showed a decreasing trend during the periods 2001-2003, 2004-2007, and 2013-2015, indicating a slow decreasing change in the proportion of vegetation to non-vegetation. Seven years out of the last 16 years had low negative values of the average DI, which may be caused by sparse water bodies and vegetation in the Horqin Sandy Land. The mean values of TGSI of time series images from 2000 to 2015 were 0.192-0.213.At Site 13, the average TCA values were more than 0.12 for the study period, indicating a relatively high vegetation cover in the Hulun Buir Sandy Land. The mean DI values were negative for the period, which may be due to the presence of sparse water bodies and vegetation in the Hulun Buir Sandy Land. The mean values of TGSI of time series images from 2000 to 2015 were 0.167-O.203. Compared with Horqin Sandy Land, the coarse sand content of the topsoil was more than that in the Hulun Buir Sandy Land. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Although the mean TGSI of all thirteen sites showed a slight fluctuation, the mean TGSI values did not show a significant change over the period 2O0O-2015, indicating a relative stabilization in the soil grain size of the topsoil for the MP. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Desertification change processes-PI ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The average PI value represents the global status of change,and can be used to discover trends in the study area through evaluation of the average PI at consecutive dates (Gómez et al., 2O11). For most image dates, the distribution of pixels with different PI values was unimodal. The PI values were divided into five groups to explore the desertification change patterns. The stable group with near zero PI described areas with no changes in the proportion of non-vegetated to vegetated areas. According to the mean and standard deviation of PI at all dates, group thresholds (approximately the mean±two standard deviations) were determined: the PI value of the slow increase group (i.e., under slow desertification) ranged from $- 0 . 0 5$ to 0.00,and the PI value of the slow decrease group (i.e., under slow restoration) ranged from O.0O to 0.O5. The pixels with PI values less than $- 0 . 0 5$ were sorted into the fast increase group (i.e., in a rapid desertification), and the pixels with PI greater than O.O5 were sorted into the fast decrease group (i.e., in a rapid restoration). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the dynamic changes of the PI values of the thirteen sites over the last 16 years. At Site 1, nine years out of the last 16 years had low negative average PI values. In particular, the average PI values were negative from 2O04 to 2OO8, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas, i.e., desertification. The mean PI values in 2004, 2005, 2007, 2O08 and 2012 were close to zero, indicating a relative stabilization during these years. At Site 2, ten years out of the last 16 years had negative average PI values. The average PI values were negative from 2004 to 2008, indicating a slow increasing rate in the proportion of nonvegetated to vegetated areas, i.e., desertification. It should be noted that a significant change in restoration occurred in 2002 and 2010. The mean PI values in 2005, 2007,2008,2012, 2013 and 2014 were close to zero, indicating relative stability during these years. At Site 3, eight years out of the last 16 years had negative values in the average PI. The average PI values were positive from 2009 to 2O11, indicating a slow decreasing rate in the proportion of non-vegetated to vegetated areas, whereas the average PI values were negative from 2O12 to 2O14, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values in 20O3, 2005, 2008, 2009, 2012, 2013 and 2014 were close to zero,indicating a relative stabilization during these years. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At Site 4, nine years out of the last 16 years had negative average PI values. The average PI values were negative from 2O07 to 2O09, indicating a slow increasing rate in the proportion of nonvegetated to vegetated areas. The mean PI values in 2003,2005, 2007, 2012, 2013 and 2014 were close to zero, indicating relative stability during these years. At Site 5, ten years out of the last 16 years had positive average PI values. The average PI values were positive from 2OO8 to 2012, indicating a slow decreasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values in 2007,2009,and 2010 were close to zero, indicating relative stability of the landscape during these years. The mean PI values in 2OO1 and 2O13 were near $- 0 . 0 5$ , indicating a relative rapid desertification during these years. The mean PI values in 2OO5 and 2O11 were near 0.05, indicating a relative rapid change toward restoration during these years. For sites 1-5, the pixels in the fast increase and decrease groups were relatively infrequent during the study period, and the pixels in the slow increase and decrease groups were normally frequent. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cf2369580c114d03f1fb1097cac299277afe1f04a89b1f726da67754c478c5d.jpg",
+        "img_caption": [
+            "Fig. 4Dynamic changes of the process indicator (PI) values of the thirteen sites from 2000-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "At Site 6, nine years out of the last 16 years had positive average PI values, indicating a slow decreasing rate in the proportion of non-vegetated to vegetated areas. However, the mean PI values were close to zero, indicating a relative stability of the Badain Jaran Desert over the last 16 years. At Site 7, nine years out of the last 16 years had negative average PI values, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas. However, the mean PI values were all close to zero, indicating relative stability of the Badain Jaran Desert over the last 16 years. At Site 8, ten years out of the last 16 years had negative average PI values, indicating a slow increasing rate in the proportion of non-vegetation to vegetation. However, the mean PI values were all close to zero, indicating relative stability of the Ulan Buh Desert during the last 16 years. At Site 9,eight years out of the last 16 years had negative values in the average PI, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values in 2003, 2005 and 2Oo8 were close to zero, indicating relative stability during these years.At Site 10, nine years out of the last 16 years had the negative average PI values, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values were close to zero during the periods 2003-2005,and 2007-2010, indicating a relative stabilization during these years. At Site 11, nine years out of the last 16 years had the negative average PI values, indicating a slow increasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values were close to zero in 2001,and 2005 to 2007, indicating a relative stabilization during these years. At Site 12, nine years out of the last 16 years had positive values in the average PI, indicating a slow decreasing rate in the proportion of non-vegetated to vegetated areas. At Site 13, ten years out of the last 16 years had positive average PI values, indicating a slow decreasing rate in the proportion of non-vegetated to vegetated areas. The mean PI values were close to zero in 2006,2007, 2009, 2011,and 2012, indicating relative stability during these years. For sites 6-13, the pixels in the slow increase and decrease group were more common during the majority of the study period. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Assessment of desertification ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The $5 0 0 \\mathrm { ~ m ~ }$ pixels of MCD43A4 products represent a mixture of land cover classes that influence the spectral ranges, and other objects (such as the Gobi desert, and barren lands) with similar TCA, DI and TGSI as sand dunes and sandy lands, which could also create some errors. Through the buffer set on the study site, the DT classification errors could be reduced partly. The same period Landsat $\\mathrm { T M / E T M + }$ (fifty-two Landsat 5 TM and five Landsat $^ { 7 } \\mathrm { E T M + }$ images) and OLI images (nineteen Landsat 8 OLI images) covered the thirteen sites (Site 1, path/row 139/26 and 138/27; Site 2, path/row 139/27 and 138/27; Site 3, path/row 134/29; Site 4, path/row 133/30; Site 5, path/row 133/27; Site 6, path/row 133/32 and 132/32; Site 7, path/row 130/33; Site 8, path/row 130/32; Site 9,path/row 129/32 and 128/32; Site 10, path/row 128/32 and 128/33; Site 11, path/row 124/30 and 125/30; Site 12, path/row 121/30 and 122/30; Site 13, path/row 124/26), which were used to evaluate the DT classification. As Table 1 showed, the overall Kappa coefficient and overall accuracy values of the DT classification results were O.7759 and $9 1 . 7 1 \\%$ , 0.7659 and $9 0 . 7 1 \\%$ ， 0.7737 and $9 1 . 7 1 \\%$ ， 0.7649 and $9 0 . 4 4 \\%$ in 2000,2005，2010,and 2015,respectively, which reflected the overallclassification situation. TGSI is a key factor for classifying the desertification into CSL,FSL, CSD,and FSD. Compared with the grain size analysis results of the deposits in the Badian Jaran-Tengger Deserts (Li, 2O11), it showed that TGSI was a good indicator for the grain size analysis of the surface deposits, which indirectly indicated that the desertification classfication of this paper was credible. In addition, the desertification maps derived from the DT classification were comparable to the desertification map of Mu Us Sandy Land in 2O0O and 2O1O (Xu et al., 2009; Wang et al., 2017), Horqin Sandy Land in 1999, 2000, and 2010 (Hu et al., 2002; Zhang et al., 2012; Duan et al., 2014), Hulun Buir Sandy Land in 2000 and 2006 (Guo et al.,2010),and Khar Khorin and Bayan Gobi in 2002 and 2011 (Lamchin et al.,2016), which could provide the reliability of the classes of interest and could be employed to assess the desertification on a regional scale. Due to the excessive number of tables and figures for the thirteen sites for the last 16 years, we will only show the desertification map of the thirteen sites in 2O15 (Fig. 5),and for the annual changes of the main sand dune of Site 3 from 2000 to 2015 (Fig. 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a59edca4a4a57242224ddb383f8e4c2eab38a2c8407ac13d7703b9a7788abb14.jpg",
+        "table_caption": [
+            "Table 1Accuracy analysis for desertification for the thirteen study sites in 2000,2005,2010,and 2015 "
+        ],
+        "table_footnote": [
+            "Note:SanduneilueslowsandyanLSLlowesertification)oasesadylnd(CSLmdiudeserification)finedad (FSL,highrifao)aseue(Credetiatio)iedue(,sersiao);, sandy land. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Classes</td><td rowspan=\"2\">Year</td><td colspan=\"3\">Number of pixels</td><td rowspan=\"2\">Year</td><td colspan=\"3\">Number of pixels</td></tr><tr><td>Sand dune</td><td>Non</td><td>Total</td><td>Sand dune</td><td>Non</td><td>Total</td></tr><tr><td> Sand dune</td><td rowspan=\"7\"></td><td>3445</td><td>592</td><td>4037</td><td rowspan=\"7\"></td><td>2920 676</td><td>534</td><td>3454</td></tr><tr><td>Non</td><td>803</td><td>9753</td><td>10,556</td><td>3596</td><td>10,463</td><td>11,139</td></tr><tr><td>Total</td><td>4248</td><td>10,345</td><td>14,593</td><td>2010</td><td>10,997</td><td>14,593</td></tr><tr><td> Producer accuracy</td><td>81.10%</td><td>94.28%</td><td></td><td>81.20%</td><td>95.14%</td><td></td></tr><tr><td>User accuracy</td><td>85.34%</td><td>92.39%</td><td></td><td>84.54%</td><td>93.93%</td><td></td></tr><tr><td>Overall Kappa coefficient</td><td></td><td>0.7649</td><td></td><td></td><td>0.7737</td><td></td></tr><tr><td>Overall accuracy</td><td colspan=\"3\">90.44%</td><td colspan=\"3\">91.71%</td></tr><tr><td>Sand dune</td><td rowspan=\"7\"></td><td>3306</td><td>624</td><td>3930</td><td></td><td>3398</td><td>770</td><td>4168</td></tr><tr><td>Non</td><td>732</td><td>9931</td><td>10,663</td><td></td><td>543</td><td>9882</td><td>10,425</td></tr><tr><td>Total</td><td>4038</td><td>10,555</td><td>14,593</td><td>2000</td><td>3941</td><td>10,652</td><td>14,593</td></tr><tr><td>Producer accuracy</td><td>81.87%</td><td>94.09%</td><td></td><td></td><td>86.22%</td><td>92.77%</td><td></td></tr><tr><td>User accuracy</td><td>84.12%</td><td>93.14%</td><td></td><td></td><td>81.53%</td><td>94.79%</td><td></td></tr><tr><td>Overall Kappa coefficient</td><td></td><td>0.7659</td><td></td><td></td><td></td><td>0.7759</td><td></td></tr><tr><td>Overall accuracy</td><td></td><td>90.71%</td><td></td><td></td><td></td><td>91.00%</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From 200O to 2O15, it is clear that most of the study sites showed fluctuating trends of desertification, and not a monotonic increase. The area of desertification of Site 1 ( $2 0 . 6 \\%$ of the total area), Site 2 $( 3 4 . 0 \\%$ of the total area), Site 3 ( $5 1 . 1 \\%$ of the total area), Site 6( $6 5 . 7 \\%$ of the total area) and Site 7 ( $6 8 . 1 \\%$ of the total area) was the highest in 2O12. The area of desertification of the Site 4 ( $1 8 . 3 \\%$ of the total area), Site 5( $5 . 6 \\%$ of the total area), Site 8 $5 5 . 2 \\%$ of the total area), Site 9 ( $1 5 . 6 \\%$ of the total area), Site 10 ( $1 3 . 4 \\%$ of the total area), Site 11 $( 2 1 . 6 \\%$ of the total area), Site 12 ( $2 0 . 0 \\%$ of the total area), and Site 13 ( $3 . 8 \\%$ of the total area) was at the highest in 2001, 2002,2003, 2003,2000, 2005,2009,and 2004, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the annual changes of the main sand dune in Site 3 over the last 16 years. In 2001, total area of desertification was at its maximum, indicating the occurrence of a severe drought in 2001. The total desertification area and the area of coarse sand dune showed an increasing trend from 2003 to 2005,and decreasing trends in 2001-2003, 2005-2007, 2008-2011, and 2012-2015; and the overall trend was slow down from 2000 to 2015 (Fig. 6a). Figure 6b indicated a fluctuating increasing trend of the area of low sandy land,fine sandy land and fine sand dune.The southwest and northeast parts of the main sand dune underwent fluctuating changes over the last 16 years. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbf99a9e70e9510346abe6f464dc7533b2aaaf6d82705a7d4e38912a10a9e7ae.jpg",
+        "img_caption": [
+            "Fig.5Desertification map of the thirteen sites in 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a07616fb1c23d80a261d15853f2532c96989d7717a515211cf9a7d68ba5042b.jpg",
+        "img_caption": [
+            "Fig.6Annual area changes of the main sand dune in Site 3 forthe period 2Ooo-2O15.Total,total desertification area; CSD,coarse sand dune (severe desertification); LSL,low sandyland (low desertification);FSD,finesand dune (severe desertification); FSL, fine sandy land (high desertification). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For sand dunes and deserts, the coarse sand dunes and the fine sand dunes occupied the majority of the desertified area. The areas of the coarse sand dune and the fine sand dune were at their highest in2008 ( $6 . 2 \\%$ of the total area) and 2013( $1 . 5 \\%$ of the total area) at Site 1, in 2009( $2 0 . 4 \\%$ of the total area) and 2013 ( $3 . 3 \\%$ of the total area) at Site 2, in 2008 ( $4 2 . 4 \\%$ of the total area) and 2005 $( 0 . 9 \\%$ of the total area) at Site 3, in 2001 ( $1 5 . 4 \\%$ of the total area and $2 . 6 \\%$ of the total area respectively) at Site 4, in 2003 ( $5 4 . 2 \\%$ of the total area) and 2012 ( $8 . 7 \\%$ of the total area) at Site 6, in 2007 ( $4 1 . 9 \\%$ of the total area) and 2006( $2 6 . 1 \\%$ of the total area) at Site7,in 2003 ( $5 1 . 3 \\%$ of the total area) and 2013( $1 2 . 8 \\%$ of the total area) at Site 8, in 2001 ( $8 . 2 \\%$ of the total area) and 2003 $2 . 2 \\%$ of the total area) at Site 9, respectively. For the sandy lands, the low sandy land, coarse sandy land,and fine sandy land occupied the majority of the desertified area. The areas of the low sandy landand the fine sandyland were the highest in 2002 ( $5 . 3 \\%$ of the total area) and 2004( $1 . 7 \\%$ of the total area) at Site 5,in 2000( $7 . 7 \\%$ of the total area and $3 . 8 \\%$ of the total area) at Site 10, in ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2014( $7 . 8 \\%$ of the total area) and 2004 ( $1 . 7 \\%$ of the total area) at Site 11, respectively. However, the areas of the low sandy land and the coarse sandy land were the highest in 2009 ( $1 4 . 6 \\%$ of the total area) and 2000 ( $5 . 7 \\%$ of the total area) at Site 12, and in 2004 ( $3 . 4 \\%$ of the total area and $0 . 3 \\%$ of the total area at Site 13, respectively). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The TCA value describes the proportion of vegetated to non-vegetated areas. The TCA used in this study is a valuable parameter for the discrimination of sand dune, sandy land,and vegetation. In general, the TCA values of sand dunes were less than zero while the TCA values of the sandy lands were 0.0-0.1, indicating a better vegetation cover. The minimum mean TCA values of sites 1, 5, and 6 occurred in 2002; the minimum mean TCA values of sites 2, 11, and 12 occurred in 2009; and the minimum mean TCA values of sites 3, 4,7, 8, 9,10,and 13 occurred in 2001, indicating the occurrence of a severe drought and lower soil moisture content during these years (Dorjsuren et al., 2016; Lamchin et al., 2O16). It is worth examining why the minimum mean TCA values of the different sites occurred in different years, which has thus far been attributed to different climate change rates between the different sites. Compared with the TCA, the DI is created using TCB, TCG, and TCW, which reduced the effects of moisture and vegetation simultaneously. In some cases, the DI is beter able to identify sand dunes from the background than the TCA. The TGSI reports the grain size of the surface in a defined area. In this study,the TGSI values of more than 0.21 were classified into the sand dune or sandy land categories,unlike the studies using Landsat images in the Hogno Khaan protected area in Mongolia and the arid to semi-arid regions of Inner Mongolia (Xiao et al., 2OO6; Lamchin et al., 2016). This difference is likely due to the use of different sensors， although the spectral bands of the MCD43A4 have been adjusted to be comparable to those of Landsat TM. Compared with the DI, TGSIcan better describe the structures of the sand dunes and sandy land,such as the coarse and fine sand dune, and the coarse and fine sandy land, which is important for studying the sand dune movement, sand shift, and so on. However, in some cases, it cannot adequately differentiate the sandy land from the background. Compared with the other sand dunes of the study area, the Tengger Desert had higher DI and TGSI values,indicating a brighter and finer surface.Therefore, the integration of the advantages of TCA, DI, and TGSI could better identify and assess the desertification. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The PI is a valuable parameter used in assessing trends and processes of desertification change that might be missed by an exclusively bi-temporal change detection approach. It should be noted that the maximum mean PI did not correspond to the year with the maximum precipitation, which indicated that the restoration might have reached its environmental upper limit before the year with the maximum precipitation. During the last 16 years, the mean PI values of Badain Jaran, Tengger, and Ulan Buh deserts were all close to zero, indicating a relative stabilization of these deserts. The mean PI values were negative at sites 1,2,3,4,9,10,and 11 in more than half of the study period, indicating a slow increase in desertification, whereas the mean PI values were positive at sites 5, 12,and 13, indicating a slow decrease in desertification. It has not been determined whether the desertification is permanent or whether it is only an expression of seasonal variability (Sternberg et al.,2011; Eckert et al.,2015). However, our study identified parallel processes of ongoing climate variability and fluctuations in desertification, indicating a three or four-year periodically fluctuating change rather than a continuous increase or decrease in the desertification, which may be reflected by changes in precipitation, soil moisture, and vegetation restoration projects in the MP (Sternberg et al., 2011, 2015; Dorjsuren et al., 2016; Huang, 2017; Yu et al., 2017). The Horqin Sandy Land in particular, showed random alternations between a slow fluctuated increase and decrease for all the time periods, indicating the impacts from the local ecological restoration projects (Zhang et al., 2012). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For the Khar Nuur, Ereen Nuur, Tsagan Nuur, and Khongoryn Els sand dunes, and the Badain Jaran, Tengger, Ulan Buh and Hobq deserts, the fine sand dunes were mainly distributed in the east and southeast parts of the sites,indicating that the fine sand shifts with the predominant winds. Our study showed that compared with the other sand dunes and deserts, the fine sand dunes occupied the majority of the Tengger Desert, as is evidenced by the results of studies based on the grain size of deposits in the Badain Jarden-Tengger Desert (Li, 2O11), which indirectly indicate that the DT classification of this study was receivable, and the coarse sandy land occupied the majority of the Horqin Sandy Land. Our study showed that sandy lands around the dunes or deserts had finer sand particles than the coarse sandy land, for example, comparisons of sites 1 and 12 show the differences in topsoil grain sizes between the west and the east of the MP. Further studies need to be conducted in the future. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Desertification is a complex process driven by climate change and anthropogenic impacts. In this study, we attempted to monitor the desertification changes in the MP from 200O to 2015 through analysis of the thirteen sites, including sand dunes and sandy lands, using MODIS MCD43A4 data. Although with no ground truth data were available to carry out a detailed accuracy assessment of the DT classification, visual interpretation, and high resolution images from Google Earth acquired for the same periods, together with previous research results showed that the DT classification could be employed to assess the desertification at the regional scale. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It demonstrated that the TCA is a valuable parameter for the assessment of sand dunes, sandy lands,and vegetation. In some cases of this study, the DI was better able to identify sand dunes from the background than the TCA. The TGSI was able to beter describe the structures of the sand dune and sandy land, such as the coarse and fine sand dunes,and the coarse and fine sandy lands, which were important for studying sand dune movements, and sand shift. The PI provided a view of the trends and processes of desertification change that might be missed with only a bi-temporal change detection approach. The integration of the advantages of the TCA, DI, TGSI, and PI could better identify and assess the desertification. During the last 16 years,the deserts of Badain Jaran, Tengger, and Ulan Buh were relatively stable. The Khar Nuur, Ereen Nuur, Tsagan Nuur, Khongoryn Els, and Hobq deserts, and the Mu Us, and Otindag sandy lands showed a gradual increase in desertification, whereas the Bayan Gobi, Horqin,and Hulun Buir sandy lands showed a gradual decrease in desertification. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At the moment, various limitations remain, including the mixed pixel effects and threshold selection. Although evaluating relative changes in TCA, DI, TGSI, and PI did not require calibration, and MODIS MCD43A4 had standardized reflectance to a nadir view, normalization between the TCA,DI,TGSI,and PI values should be studied in the future. Further studies to link the TCA, DI, TGSI, and PI values with the desertification characteristics are recommended to set the thresholds and improve the assessment accuracy. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was jointly supported by the Innovation Project of State Key of Laboratory of Resources and Environmental Information System (O88RA2OCYA)， the National Natural Science Foundation of China (41671422), the International Cooperation in Science and Technology Special Project (2O13DFA91700),and the National Science-Technology Support Plan Project (2013BAD05B03). The authors would like to thank Miss ZHANG Yunjie and Miss GUO Yushan for MODIS MCD43A4 data downloading and mosaicking. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AlbalawiE K,KumarL.2O13.Usingremote sensing technologytodetect,modeland mapdesertification: Areview.Jouralof Food,Agriculture & Environment, 11(2): 791-797.   \nBaumann M,OzdoganM,WolterPT,et al.2O14.Landsatremote sensingofforest windfalldisturbance.Remote Sensingof Environment, 143: 171-179.   \nBremborg P.1996.Desertification mappng of Horqin Sandy Land,Inner Mongolia,bymeans of remote sensing. MSc Thesis. Sweden: Lund University.   \nCiLJ,WuB.1997.ClmatictypedivisionandthepotentialextentdeterminationofdesertificationinChina.JouralofDesert rangeland boundary of Argentina. Journal of Arid Environments, 52(1): 121-133.   \nCuiLL,FanWYhiJetal.Asesstesertiatioinori,a.I:roedinso 6298,Remote Sensing and Modelingof Ecosystems for Sustainability II.San Diego,California, USA: SPIE,62981L.   \nCzerwinski CJ, King DJ,MitchellS W.2014. Mapping forest growth and decline ina temperate mixed forestusing temporal trend analysis of Landsat imagery,1987-2010. Remote Sensing of Environment,141: 188-200.   \nDorjsuren M,Liou YA,Cheng CH.2016.Time series MODIS andin situ data analysis for Mongolia Drought. Remote Sensing, 8(6): 509.   \nDuan HC, Wang T, Xue X,et al. 2014.Dynamicsof Aeolian desertification and its driving forces in the Horqin Sandy Land, Northern China. Environmental Monitoring and Assessment, 186(10): 6083-6096.   \nEckertS,HuslerF,Liniger H, et al. 2015.Trend analysis of MODIS NDVItime series for detecting land degradation and regeneration in Mongolia. Journal of Arid Environments, 113: 16-28.   \nElhadi E M, Zomrawi N,Hu GD.2Oo9.Landsape change and sandy desertification monitoringandassssment.American Journal of Environmental Sciences,5(5): 633-638.   \nEl-Magd I A, Hassan O,Arafat S. 2013. Quantification of sand dune movements in the south western part of Egypt, using remotely sensed data and GIS. Journal of Geographic Information System, 5(5): 498-508.   \nFangJY,BaiYF, WuJG.2015.Towardsabeterunderstandingoflandscape paerns andecosystemprocesss of theMongolian Plateau. Landscape Ecology, 30(9): 1573-1578.   \nG6mez C, White JC,Wulder MA.2011. Characterizing the state and processs ofchange ina dynamic forest environmentusing hierarchical spatio-temporal segmentation. Remote Sensing of Environment, 115(7): 1665-1679.   \nGuo J, Wang T, Xue X,etal.2O1o. Monitoring Aeolian desertification processin HulunBuir grassand during1975-2006, Northern China. Environmental Monitoring and Assessment, 166(1-4): 563-571.   \nHereher ME.2010.Sand movement paterns in the Western Desert of Egypt: an environmental concern.EnvironmentalEarth Sciences, 59(5): 1119-1127.   \nHermas E,Leprince S,El-MagdIA.2012.Retrievingsanddune movements usingsub-pixelcorrelationof multi-temporaloptical remote sensing imagery,northwest Sinai Peninsula, Egypt. Remote Sensing of Environment,121: 51-60.   \nHu YM,Jiang YChang Y,etal.2Oo2.Thedynamic monitoringofHorqinsandlandusingremote sensing.Chinese Geograpical Science, 12(3): 238-243.   \nHuang L.2017. Spatial distribution of Agriophylum squarrosum Moq. (Chenopodiaceae)in the straw checkerboards at a revegetated land of the Tengger Desert, northern China. Journal of Arid Land, 9(2): 176-187.   \nHuangS,SiegertF.2O6.LandcoverclassificationoptimizedtodtectareasatriskofdesertificationiNorthChinabasedon SPOT VEGETATION imagery. Journal of Arid Environments, 67(2): 308-327.   \nHugenholtz C H,Levin N,Barchyn TE,et al.2O12. Remote sensingand spatial analysis ofAeoliansanddunes:Areviewand outlook. Earth-Science Reviews, 111(1-4): 319-334.   \nJavzandulamTateishiR,SanjaT.2o5.Analysisofvegetationindicesformontoringvegetationdegradationinse-aridand arid areas of Mongolia. International Journal of Environmental Studies, 62(2): 215-225.   \nJinSM,Sader SA.2O05.Comparisonof time series tasseledcap wetnessand the normalized diference moisture index in detecting forest disturbances. Remote Sensing of Environment, 94(3): 364-372.   \nJohn R,ChenJQ,LuN,etal.28.Predicting plantdiversitybasedonremotesensing products inthesemi-aridregionof Iner Mongolia. Remote Sensing of Environment, 112(5): 2018-2032.   \nKarnieli A,Qin ZH, WuB,etal.2014.Spatio-temporaldynamicsof lnd-useandland-coverinthe Mu UsSandyLand,China, using the change vector analysis technique. Remote Sensing, 6(1O): 9316-9339.   \nKawamura K,Akiyama T.201o.Simultaneous monitoringof livestock distributionanddesertification.Global Environmental Research,14: 29-36.   \nLam D K,Remmel T K, Drezner T D.2O10. Tracking desertification in California using remote sensing: a sand dune encroachment approach. Remote Sensing,3(1), 1-13.   \nLamchin M,LeeJY,Lee WK,etal.2016.Asesmentoflandcoverchangeanddesertificationusingremotesensingtechology in a local region of Mongolia. Advances in Space Research, 57(1): 64-77.   \nLiEJ. 011.Comparisonof characteristicsof deposits ofBadain Jaran Desert and Tengger Desert.PhDDissertation. Xian: Shaanxi Normal University. (in Chinese)   \nLiu Q S,Liu GH, Huang C,et al. 2016.Comparison of tasseled capcomponents of images from Landsat5 Thematic Mapper and Landsat 7 Enhanced Thematic Mapper Plus. Journal of Spatial Science, 61(2): 351-365.   \nLobser SE, Cohen WB.2007.MODIS tasselled cap:land cover characteristics expressed through transformed MODIS data. International Journal of Remote Sensing, 28(22): 5079-5101.   \nLozanoFJ,Suare-SeoaneS,deLuisE.Oo.Assessmentofseveralspectralindicesderivedfrommulti-temporalLandsatdata for fire occurrence probability modelling. Remote Sensing of Environment, 107(4): 533-544.   \nMasek JG, Huang CQ, WolfeR,et al. 2O08.North American forest disturbance mapped from adecadalLandsatrecord.Remote Sensing of Environment, 112(6): 2914-2926.   \nPowellSL,Cohen WB,HealeySP,etal.2O0.Quantificationofliveabovegroundforestbiomassdynamics withLansatt series and field inventory data: Acomparison of empirical modeling approaches.Remote Sensing ofEnvironment,14(5): 1053-1068.   \nShafieH,Hoseini SM,AmiriI.2o12.RS-basedassessmentof vegetationcoverchanges inSistan Plain.InternationalJoural of Forest, Soil and Erosion,2(2): 97-100.   \nSternbergT,TsolmonR,MiddletonN,etal.2011.Trackingdesertificationonthe Mongoliansteppethrough NDVIandfieldsurvey data. International Journal of Digital Earth, 4(1): 50-64.   \nSternberg T.2012.Piospheres and pastoralists: vegetationand degradation in steppe grasslands.Human Ecology,40(6):811- 820.   \nSternberg T,RueffH,Middleton N.2015.Contractionof the Gobi Desert,20-2012.Remote Sensing,7(2):1346-1358.   \nUNCCD.2016a.Is desertificationa global problem?2016-12-08].tp://ww.unccd.int/en/resources/Library/Pages/FAQ.aspx.   \nUNCCD.2016b.CombatingdesertificationinAsia.[2016-12-08].htp://www.unccd.int/en/regional-access/Asia/Pages/ default.aspx.   \nVova O,Kappas ,enchnTal.15.LanddgradatinaemntinGobi-tai provce.In: oceingofteaDisciplinaryResearch Conference:Building ResilienceofMongolian Rangelands.Ulaanbatar， Mongolia. https://dspace.library.colostate.edu/bitstream/andle/10217/181731/CONF_MOR2-2015-ENG1-6Vova_etal.pdf?sequence $^ { = 1 }$ &isAllowed=y.   \nWang XM,Cheng H,LiH,etal.2017.Keydriving forcesof desertificationin theMu Us Desert,China.ScientificReports,7: 3933,doi: 10. 1038/s41598-017-04363-8.   \nWu B, CiLJ.o2.Landscapechangeanddesertificationdevelopmentintheu UsSandland,NorthernChina.JouralofArid Environments, 503: 429-444.   \nXiaoJ,ShenY,TateishiR,etal.o6.Developmentoftopsoil gansizeidexformoitorngesertiicationinaridlandusing remote sensing. International Journal of Remote Sensing, 27(12): 2411-2422.   \nXu DY, Kang X W,QiuDS,etal.29. Quantitative assessmentof desertificatiousingLandsat data onargionalale-A case study in the Ordos Plateau, China. Sensors,9(3): 1738-1753.   \nYang X,Zhang K,JiaB,etal.2O5.Desertification assessmentin China: Anoverview.Journal of Arid Environments,63(2): 517-531.   \nYang XP,RostKT,LehmkuhlF,etal.2O04.Theevolutionofdrylands innortherChinaand intheRepublicofMongoliasince the last glacial maximum. Quaternary International, 118-119: 69-85.   \nYao ZY, WangT,HanZW,etal.2O7.Migrationofsanddunesonthenorthern AlxaPateau,Innerongolia,China.Journal of Arid Environments, 70(1): 80-93.   \nYu HN,LeeJY,Lee WK,etal.2013.Feasibilityofvegetationtemperatureconditionindex formonitoringdesertificationin Bulgan,Mongolia. Korean Journal of Remote Sensing, 29(6): 621-629.   \nYu X N,Huang YM,LiEG,etal.2017.Effectsof vegetationtypes onsoil waterdynamicsduringvegetationrestoratiointhe Mu Us Sandy Land, northwestern China. Journal of Arid Land, 9(2): 188-199.   \nZha Y,GaoJ.1997.CharacteristicsofdesertificationanditsrhabilitatioinChina.JouralofAridEnvironments,37(3):419- 432.   \nZhang GL,DongJW, XiaoXM,etal.21.Efectivenesofecologicalrestorationprojects inHrqiSandyLand,Chinabased on SPOT-VGT NDVI data. Ecological Engineering,38(1): 20-29.   \nZhang Y Z,Chen Z Y,Zhu B Q,et al.20o8.Land desertification monitoring and assssmentinYulinof Northwest Chinausing remote sensing and geographic informationsystems (GIS). EnvironmentalMonitoringand Assessment,147(1-3): 327-337.   \nZhao X,Hu HF,Shen H H,etal.2O15.Satelie-indicatedlong-term vegetationchangesand their driversontheMongolian Plateau. Landscape Ecology, 30(9): 1599-1611. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

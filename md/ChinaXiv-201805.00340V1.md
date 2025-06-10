@@ -1,0 +1,203 @@
+# DOI:10.5846/stxb201702270317
+
+刘琦,李鹏,刘莹,肖列,黄鹏,汤珊珊.不同供水下白羊草（Bothriochloaischaemum）离体根呼吸特征——基于稳定碳同位素示踪技术.生态学报，2018,38(9) :3035-3045.  
+LiuQ,LiP,iaaggSisedsptottlodusing stable carbon isotope techniques.Acta Ecologica Sinica,2018,38(9） :3035-3045.
+
+# 不同供水下白羊草（Bothriochloaischaemum）离体根呼吸特征 C
+
+基于稳定碳同位素示踪技术刘琦,李鹏\*,刘 莹,肖列,黄　鹏,汤珊珊西安理工大学陕西省西北旱区生态水利工程国家重点实验室培育基地,西安710048摘要;植物根呼吸是土壤呼吸的主要组成,研究根呼吸对生态系统碳收支及碳平衡有重要意义。采用 $^ { 1 3 } \mathrm { C }$ 脉冲标记技术,在3种供水条件下，对比不同根离体时间（标记后 $0 , 6 , 2 4 , 4 8 , 2 1 6 , 3 6 0 \mathrm { \ h } )$ 的白羊草离体根呼吸速率和根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 同位素比值变化,分析根参数与离体根呼吸相关性。结果表明：1)不同离体时间的离体根呼吸速率变化趋势一致,3种供水条件下无显著差异，均在0— $2 0 ~ \mathrm { m i n }$ 急剧下降，下降范围为 $3 2 \% - 3 9 \%$ 。2)测定离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 在不同离体时间的变化,为实时监测转移到白羊草根系的 $^ { 1 3 } \mathrm { C O } _ { 2 }$ 在根部释放的过程提供了新思路;不同离体时间,3种供水条件下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 在 $^ { 2 \mathrm { ~ h ~ } }$ 内均值大小呈：供水充分 $ { \mathrm {  ~ \cdot ~ } } >$ 轻度胁迫 $>$ 重度胁迫。随离体时间(0—360 h)推移根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值先增大后减小,在 $2 1 6 \mathrm { ~ h ~ }$ 达到峰值$3 1 . 4 6 \% o ; 3 \$ )离体根呼吸速率和根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 受根系根面积、比根面积、N含量、 $. \mathrm { C } / \mathrm { N }$ 及根组织 $\delta ^ { 1 3 } \mathrm { C }$ 的影响显著。4)轻度水分胁迫可促使根系生长(C 固定)和根呼吸(C代谢)同时增加。
+
+键词：白羊草；供水条件； $^ { 1 3 } \mathrm { C }$ 脉冲标记;离体根呼吸速率;根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$
+
+# Excised root respiration of Bothriochloa ischaemum under different water supply conditions ， measured using stable carbon isotope techniques
+
+LIUQi,LI Peng\*，LIU Ying，XIAO Lie,HUANG Peng，TANG Shanshan StateKeyLaboratory BaseofEco-hydraulicinAridArea，Xi'an UniversityofTechnology，Xi'an71O048,Chin
+
+Abstract：Plant rootrespirationisa primarycomponentof soilrespiration.In-depth researchonplantroot respiration isof great importance in understanding the budget and balance of ecosystem carbon storage.The present study used $^ { 1 3 } \mathrm { C }$ pulselabeling technology to evaluate changes in excised root respiration rates and root $\delta ^ { 1 3 } \mathrm { C }$ isotopic values of Bothriochloa ischaemum after different excision times $\mathrm { ~ ( ~ 0 ~ h ~ , ~ 6 ~ ~ h ~ , ~ } 2 4 \mathrm { ~ \ h ~ , ~ } 4 8 \mathrm { ~ \ h ~ , ~ } 2 1 6 \mathrm { ~ \ h ~ \ }$ ,and $3 6 0 \mathrm { ~ h ~ }$ after labeling）and analyzed the relationships between plantrot parameters andexcisedrotrespiration.Theresultsshowedthat：1）Excised rootrespiration did not significantly differafter diferent excision timesunder three water supply conditions.Excisedrootrespiration declined sharply by $3 2 \% - 3 9 \%$ after the first 2O minutes.2）Determination of the changes in $\delta ^ { 1 3 } \mathrm { C }$ isotope ratios in excised roots after different excision times provided us information on how the $\delta ^ { 1 3 } \mathrm { ~ C ~ }$ isotopes ratio changed in the roots of B.ischaemum. The mean value of the $\delta ^ { 1 3 } \mathrm { C }$ isotope ratio after the first $^ { 2 \mathrm { ~ h ~ } }$ was greatest in the well-watered condition, intermediate under moderate drought stress，and least under severe drought stress.The mean values of $\delta ^ { 1 3 } \mathrm { C }$ isotope ratios first increased and then decreased during the entire period of O- $3 6 0 \mathrm { ~ h ~ }$ ，with the highest value of $3 1 . 4 6 \text{‰}$ at $2 1 6 { \mathrm { h } } . 3$ ）The excised root respiration rate and the $\delta ^ { 1 3 } \mathrm { C }$ isotope ratio were significantly influenced by root area，specific root area，N concentration，C/N ratio，and $\delta ^ { 1 3 } \mathrm { C }$ of root tissue.4）Moderate drought stress contributed to a simultaneous increase in the root growth rate（C fixation）and root respiration（C metabolic rate）.
+
+Key Words: Bothriochloa ischaemum；water supply condition; $^ { 1 3 } \mathrm { C }$ pulse labeling；excised root respiration rate；δ1³ C released from root respiration
+
+土壤呼吸是生态系统碳循环的重要环节,作为大气 $\mathrm { C O } _ { 2 }$ 重要的来源和土壤碳库主要的输出途径,是陆地生态系统第二大碳通量,全球每年由土壤释放的 $\mathrm { C O } _ { 2 }$ 量为 $9 8 ~ \mathrm { P g ^ { [ 1 ] } }$ ,土壤 $\mathrm { C O } _ { 2 }$ 呼吸会显著加剧大气中 ${ \bf C } \boldsymbol { 0 } _ { 2 }$ 浓度的增高[2],加剧温室效应。植物根系是土壤C输入的主要途径[3-4],植物光合作用固定的碳量约 $5 0 \%$ 由根呼吸释放[5-6],研究表明根呼吸占土壤呼吸的大部分,由根呼吸损失的碳占土壤碳释放量的 $4 0 \% - 7 0 \% ^ { [ 7 ] }$ -10]，这表明研究根呼吸对揭示生态系统碳收支及生物圈碳平衡具有的重要意义。
+
+目前,有学者研究发现土壤水分、温度、养分等环境因素可通过影响植物光合同化物的形成及其在叶、茎和根中的分配,进而影响根系形态和根系呼吸[1-12]。测量植物根呼吸的方法分为直接法和间接法,直接法包括离体根法、同位素法、PVC 管气室法等,间接法分环割法和根排除法,这些研究方法可得出根呼吸速率变化和根呼吸对土壤呼吸的贡献率[13-15]。测定方法同样对根呼吸的估计存在差异性,如在对温带草原的研究中，同位素法和排除根法所测定的根呼吸对土壤总呼吸的贡献率分别为 $1 9 \%$ 和 $3 9 \%$ [13,16]。稳定碳同位素 $^ { 1 3 } \mathrm { C }$ 脉冲标记技术是研究根系呼吸有机碳输入、输出的新方法,有着灵敏度高、扰动较小和理论上较合理等优点[17]，可定量研究植物输入到根部的碳[18]和根际呼吸[19-20],但不能反应光合碳从地上传输到根系后的代谢过程,即根系中的碳在不同时间、不同供水条件下的呼吸释放过程少有研究,这是估算C平衡中的关键,需要相关研究支持。 C
+
+白羊草（Bothriochloa ischaemum）,是多年生禾本科孔颖草属C4植物,为典型旱生植物,其繁殖能力快、再生能力强、耐踩踏、耐旱、区域适应性强,成为陕北黄土丘陵区生产力较高的草种,白羊草的根系发达呈网状，能拦截地表降雨有蓄水保土的作用,也是黄土高原退化草地恢复和C存储的重要植物之一。在干旱半干旱区水分胁迫是最普遍的环境胁迫,根系作为土壤和植物物质运移的交换器官[21],研究不同供水下根系对其的响应对揭示植物抗旱性本质有重要的意义[22]。测定离体根呼吸释放的 $\mathrm { C O } _ { 2 }$ 可研究离体根呼吸速率的变化规律[11],但不能说明光合碳运输至根系后的运移及释放过程,而土壤水分、根系形态及根组织养分含量等都可能影响离体根呼吸,因此本文采用稳定碳同位素脉冲标记方法,研究3种供水条件,供水充分( $8 0 \%$ 田间持水量，HW）、轻度胁迫( $6 0 \%$ 田间持水量，MW)和重度胁迫（ $4 0 \%$ 田间持水量，LW）下,不同离体时间的白羊草离体根呼吸及其影响因素,为定量研究光合碳传输到根系后的呼吸释放过程及根系固碳提供新思路,以期为在不同水分条件下研究碳固定、代谢和估算提供理论依据。
+
+# 1材料与方法
+
+# 1.1实验材料与设计
+
+# 1.1.1 实验材料
+
+(1)试验用土壤和种子情况
+
+实验于2014年5月在西安理工大学进行。实验用土壤采于陕北黄土丘陵区以白羊草为优势种的草地，土壤类型为黄土，去除表层腐殖质和枯落物，取0一 ${ \cdot 3 0 } \ \mathrm { c m }$ 王壤均匀混合装袋，自然风十后过 $2 ~ \mathrm { m m }$ 筛，同时测定其容重。实验用白羊草种子于2013年10月采于陕北未受人为影响的草地，采收后装在纸袋内自然状态下实验室储藏。实验为盆栽控制实验,采用自制有机玻璃容器,每盆装土 $2 . 5 ~ \mathrm { k g }$ ,容重与陕北采土样地容重相
+
+http://www.ecologica.cn
+
+同，为 $1 . 2 ~ \mathrm { g / c m } ^ { 3 }$ ;总N含量 $0 . 6 9 ~ \mathrm { g / k g }$ ;田间持水量为 $2 2 \%$ 。
+
+(2)室内试验装置
+
+自制有机玻璃容器：用于播种白羊草种子。采用透明有机玻璃制成长方体容器,尺寸为 $1 9 \ \mathrm { c m } \times 4 \ \mathrm { c m } \times$ $2 7 \ \mathrm { c m }$ 。底部打双孔,内径厚度为 $4 ~ \mathrm { c m }$ ,共计需要上述花盆 72 个。
+
+自制双层密闭有机玻璃标记气室：用于测定土壤呼吸速率。采用透明有机玻璃制备的双层密闭有机玻璃罩长方体容器，内层尺寸为 $5 0 ~ \mathrm { c m } { \times } 5 0 ~ \mathrm { c m } { \times } 8 0 ~ \mathrm { c m }$ ，四周及底部密闭，顶部开口，开口尺寸 $3 0 \ \mathrm { c m } { \times } 3 0 \ \mathrm { c m }$ ,并配有尺寸相同的带密封条盖子；在玻璃罩相对两侧设置外层密闭槽，外层槽厚 $5 ~ \mathrm { c m }$ ,上下密封,仅在上下各留 $2 \ \mathrm { c m }$ 直径的进出水口。玻璃罩另相对两侧设置直径为 $4 \ \mathrm { c m }$ 的进气口和出气口，采用相同尺寸橡胶塞密封，橡胶塞中部打孔,插入外径 $8 ~ \mathrm { m m }$ ,内径 $6 ~ \mathrm { m m }$ 导气管,上部进气口除插人导气管外，在橡胶塞中部还插入玻璃导液管，上述所有连接处均用凡士林密封，导气管连接仪器进气口和出气口。共计需要上述气室3个。如图1为实验时在自制双层密闭有机玻璃标记气室中对白羊草幼苗进行 $^ { 1 3 } \mathrm { C }$ 脉冲标记
+
+自制密闭根呼吸气室：用于测定离体根呼吸速率，采用透明有机玻璃制备的有机玻璃罩长方体容器，尺寸为 $2 0 ~ \mathrm { c m } { \times } 1 0 ~ \mathrm { c m } { \times } 2 0 ~ \mathrm { c m }$ ，顶部及底部密闭，两侧开口，开口尺寸分别为直径为 $2 \ \mathrm { c m }$ 的圆孔和直径为 $4 ~ \mathrm { { c m } }$ 圆孔，并配有尺寸相同的橡胶塞,橡胶塞中部插入外径5 mm，内径 $4 ~ \mathrm { m m }$ 导气管，分别连接仪器的进气口和出气口。共计需要上述气室4个。
+
+![](images/ec9f0454956511646080b44a607ce0c7d8c4ddb0ce565fc010572a7ec28ce3e9.jpg)  
+图1双层密闭有机玻璃标记气室  
+Fig.1Double-layer sealed plexiglass labeled air chamber
+
+# 1.1.2 实验设计
+
+种子于2014年5月1日播种,每个自制有机玻璃容器撒播5穴,出苗后每穴保留生长最旺盛的一株幼苗,未出苗的种穴进行补植。定苗后于 2014年7月1日开始控水实验处理,设3个土壤水分梯度,供水充分（ $8 0 \%$ 田间持水量,HW），轻度胁迫( $6 0 \%$ 田间持水量,MW），重度胁迫( $4 0 \%$ 田间持水量,LW）;每个水分梯度设21盆重复;同时布设空白土壤样本9盆,每个水分梯度3盆重复。盆栽土壤含水量控制采用称重法,每天定时称重控制浇水,直至2014年10月1日实验结束。每盆白羊草生物量在控水处理前计入本底值重量,由于幼苗的初始生物量 $0 . 8 6 7 \mathrm { ~ g ~ }$ 与实验结束时每盆白羊草湿生物量最大值 $5 . 8 1 2 \mathrm { ~ g ~ }$ 差值仅占整体盆栽控水总重量 $3 8 8 0 ~ \mathrm { \overline { { g } } }$ 的 $0 . 1 \%$ ,且控水时间较短,因此忽略白羊草生长重量增加对水分处理控制的影响。
+
+# 1.2实验测定与方法
+
+# 1.2.1 $^ { 1 3 } \mathrm { C }$ 脉冲标记
+
+标记于2014年9月13—15日9:00-12:00进行。每个水分处理随机选取12 株白羊草幼苗,放在自制双层密闭有机玻璃标记气室内。同时标记室内放入盛有约 $2 \mathrm { ~ g ~ N a _ { 2 } C O } _ { 3 }$ 的小烧杯,烧杯顶部连接用于导入HCL的导液管和用于加标记气体的导气管,导液管和气管接至标记气室外侧（连接处密封)。采用CCIA-36d-EP二氧化碳同位素质谱仪（LosGatosResearch,USA)监控标记室内 $\mathrm { C O } _ { 2 }$ 浓度 $\cdot \delta ^ { 1 3 } \mathrm { C }$ 值。标记开始时,用针管注入丰度为 $9 9 . 9 \% ^ { 1 3 } \mathrm { C O } _ { 2 }$ 气体,标记室内初始 $\mathrm { C O } _ { 2 }$ 浓度 $4 5 0 ~ \mathrm { \textmu m o l / m o l }$ $\delta ^ { 1 3 } \mathrm { C }$ 值为 $500 \text{‰}$ ,温度27- $2 8 \mathrm { { ^ circ C } }$ 。在标记过程中,标记气室内 $\mathrm { C O } _ { 2 }$ 浓度低于 $4 0 0 ~ \mathrm { \textmu m o l / m o l }$ ,用针管从外接导管入口注入1mol/LHCL直至 $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ 反应放出 $^ { 1 2 } \mathrm { C O } _ { 2 }$ 气体使标记气室 $\mathrm { C O } _ { 2 }$ 浓度达到 $4 5 0 ~ \mathrm { \textmu m o l / m o l }$ ,若 $\delta ^ { 1 3 } \mathrm { C }$ 低于 $500 \text{‰}$ ,则由气管加入 $^ { 1 3 } \mathrm { C O } _ { 2 }$ 气体,重复此过程,直至实验结束。标记时间为 $1 2 0 ~ \mathrm { m i n }$ ,标记结束时标记室内 $\mathrm { C O } _ { 2 }$ 浓度约为 $4 5 0 ~ \mu \mathrm { m o l / m o l } ,$ $\delta ^ { 1 3 } \mathrm { C }$ 值为 $400 \text{‰}$
+
+# 1.2.2样品采集与离体根呼吸测定
+
+$^ { 1 3 } \mathrm { C }$ 脉冲标记结束后 $0 , 6 , 2 4 , 4 8 , 2 1 6 , 3 6 0 \mathrm { ~ h ~ \ }$ 进行样品采集和离体根系呼吸测定。各处理未标记样品与标记后 $3 6 0 \mathrm { ~ h ~ }$ 样品同一天(2015年10月1日)按照上述方法采集。在上述采集时段,分别取各水分处理的白羊草幼苗3盆,手动将根系从土壤分离,用镊子收集根系,分离出的根系蒸馏水冲洗干净后用滤纸吸干水份，断口涂抹凡士林后立即放入连接LGR二氧化碳气体同位素质谱仪的自制根呼吸气室（采用高速测定模式,每秒记录一次数据），测定0— $^ { - 2 \mathrm { ~ h ~ } }$ 根系呼吸速率,扫描根系后,将根系 $6 0 ^ { \circ } \mathrm { C }$ 恒温烘干 $^ { 4 8 \mathrm { ~ h ~ } }$ ,称干重后粉碎,过0.149$\mathbf { m } \mathbf { m }$ 筛备用。
+
+1.2.3样品稳定碳同位素及化学组分测定(1)扫描与 $\delta ^ { 1 3 } \mathrm { C }$ 测定
+
+将采集的根样立即用扫描仪（Expression1680，ETSON）扫描，再用根系图像分析软件（Win RHIZOTRON $2 0 0 5 \mathrm { a }$ ，Regent Instruments，Canada）对根形态参数进行测定。比根长是根长与对应根长根系干重比值。取0.005- $\cdot 0 . 0 0 6 \ \mathrm { g }$ 植物根系样品采用MultiN/C3100 德国耶拿总有机碳分/总氮分析仪（Analytik JenaAG,Germany）固体燃烧室中 $1 0 5 0 \mathrm { ^ { \circ } C }$ 高温充分燃烧后生成 $\mathrm { C O } _ { 2 }$ （同时记录样品TOC值 $\mathbf { g } / \mathrm { K g }$ )，之后采用二氧化碳同位素质谱仪检测样品的 $\delta ^ { 1 3 } \mathrm { C }$ 值。植物根系的 $\delta ^ { 1 3 } \mathrm { C }$ 值的测定以PDB（PeeDeeBelemnite）为标准,稳定碳同位素比值据下式计算： ）
+
+式中，( ${ } ^ { 1 3 } \mathrm { C } / { } ^ { 1 2 } \mathrm { C }$ )PDB 为标准物质PDB的 ${ } ^ { 1 3 } \mathrm { C } / { } ^ { 1 2 } \mathrm { C } , \delta ^ { 1 3 } \mathrm { C }$ 表示样品 $^ { 1 3 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 与标准样品偏离的千分率。
+
+(2)N浓度测定采用凯氏定氮仪（Kjeltec 2300,Foss TecatorAB,Sweden)测定根系组织N浓度。
+
+# 1.3 资料分析
+
+试验数据均采用Microsoft Excel2013 绘图,在 SPSS 21.0中采用线性回归及单因素法分析根参数与根呼吸相关性。
+
+# 2结果
+
+2.1不同供水条件下离体根呼吸速率变化特征
+
+如图2,3种供水条件下,不同根系离体时间的离体根呼吸速率在 $^ { 2 \mathrm { ~ h ~ } }$ 内呈先急剧减小,略微增大后减小,之后趋于平稳的趋势。C 脉冲标记完成后 $^ { 0 \mathrm { ~ h ~ } }$ 时离体,3种供水条件下根呼吸变化趋势相似：0— $2 0 ~ \mathrm { m i n }$ 急剧下降,HW、MW、LW 依次下降 $3 2 . 8 0 \% . 3 5 . 1 8 \% . 3 3 . 8 2 \%$ ,在 $6 0 ~ \mathrm { m i n }$ 左右降至最低。分别在 $^ { 1 3 } \mathrm { C }$ 脉冲标记完成6,$2 4 , 4 8 , 2 1 6 , 3 6 0 \mathrm { ~ h ~ }$ 时离体,3种供水条件下根呼吸速率在 $0 { - } 2 0 \ \operatorname* { m i n }$ 均有急剧下降的趋势，下降百分比为$3 2 \% - 3 9 \%$ ,各离体时间的根系呼吸速率均在 $6 0 ~ \mathrm { m i n }$ 左右降到最低,其后变化趋于平缓。
+
+3种供水条件下,离体根呼吸速率在 $^ { 1 3 } \mathrm { C }$ 脉冲标记后0— $^ { . 4 8 \mathrm { ~ h ~ } }$ 呈现波动性变化,48—216h均呈现增大趋势,之后逐渐减小。离体根呼吸速率范围在 $3 0 0 {  { - } } 4 5 0 ~ { \mu \mathrm { g } } ~ \mathrm { g } ^ { - 1 } ~ \mathrm { m i n } ^ { - 1 }$ （图3）。其中LW 处理的根呼吸速率呈现双峰变化趋势,在标记后 $\mathrm { ~ 0 ~ h ~ }$ 时最低,为 $3 5 6 ~ { \mu \mathrm { g } } ~ { \ g } ^ { - 1 } ~ \mathrm { { m i n } } ^ { - 1 }$ ， $6 \textup { h }$ 时达到第一个峰值 $4 1 3 ~ { \mu \mathrm { g } } ~ \mathrm { g } ^ { - 1 } ~ \mathrm { m i n } ^ { - 1 }$ ;MW 处理呈现单峰变化,0 $^ { . 4 8 \mathrm { ~ h ~ } }$ 呈下降趋势,在 $^ { 4 8 \mathrm { ~ h ~ } }$ 最小,为 $3 3 8 ~ { \mu \mathrm { g } } ~ { \ g } ^ { - 1 } ~ \mathrm { { m i n } } ^ { - 1 }$ ， $2 1 6 \mathrm { ~ h ~ }$ 时达到峰值,为 $4 3 1 ~ { \mu \mathrm { g } } ~ \mathbf { g } ^ { - 1 } \ \operatorname* { m i n } ^ { - 1 }$ ;HW 处理在 $\boldsymbol { 0 } \mathrm { ~ h ~ }$ 时根呼吸速率最大,为 $4 1 9 ~ { \mu \mathrm { g } } ~ { \ g } ^ { - 1 } ~ \mathrm { { m i n } } ^ { - 1 }$ ,其后呈波动变化。
+
+2.2不同供水条件下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 变化特征
+
+根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 测定的环境变化小,平均气室温度 $2 7 - 2 8 ^ { \circ } \mathrm { C }$ ,平均气室 $\mathrm { C O } _ { 2 }$ 浓度为400—450$\mu \mathrm { m o l } / \mathrm { m o l } ,$ 。
+
+3种供水条件下，经 $^ { 1 3 } \mathrm { C }$ 脉冲标记后，不同根离体时间的根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值在 $2 \mathrm { h }$ 内呈先增大后减小的趋势(图4)。 $^ { 1 3 } \mathrm { C }$ 脉冲标记后0h 离体,3种供水条件下白羊草离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值均小于 $- 5 \text{‰}$ ,其中HW供水条件下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值最大;HW 和MW 处理的 $\delta ^ { 1 3 } \mathrm { C }$ 值约在 $0 { - } 7 0 ~ \mathrm { m i n }$ 时呈逐渐上升趋势,在70min时达到峰值后呈缓慢降低趋势;而LW处理的 $\delta ^ { 1 3 } \mathrm { C }$ 值则在 $4 5 ~ \mathrm { m i n }$ 达到峰值。 $^ { 1 3 } \mathrm { C }$ 脉冲标记后 $6 \mathrm { ~ h ~ }$ 离体,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值对比 $^ { 0 \mathrm { ~ h ~ } }$ 略增， $\delta ^ { 1 3 } \mathrm { C }$ 均为负值,变化趋势与 $0 \mathrm { { h } }$ 相似。 $^ { 1 3 } \mathrm { C }$ 脉冲标记后 $2 4 \mathrm { ~ h ~ }$ 离体,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 上升为正值，均值从大到小依次为 $\mathrm { H W > M W > L W _ { \natural } }$ $^ { 1 3 } \mathrm { C }$ 脉冲标记后 $^ { 4 8 \mathrm { ~ h ~ } }$ 离体，根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 对比之前的测定值,变化趋势有较明显改变,在LW 和HW 处理下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值先均呈较快上升趋势,分别 $7 0 ~ \mathrm { m i n }$ 和 $8 0 ~ \mathrm { m i n }$ 达到峰值,其后逐渐下降；MW处理下 $\delta ^ { 1 3 } \mathrm { C }$ 值先缓慢上升,在 $8 0 ~ \mathrm { m i n }$ 时达到峰值。 $^ { 1 3 } \mathrm { C }$ 脉冲标记后 $2 1 6 \mathrm { ~ h ~ }$ 离体,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值与之前对比,HW和MW处理下 $\delta ^ { 1 3 } \mathrm { C }$ 值变化更为剧烈，且变化趋势和范围相近，在0一 $- 9 0 \ \operatorname { m i n }$ 内 HW处理下 $\delta ^ { 1 3 } \mathrm { C }$ 值从$10 . 9 4 \text{‰}$ 上升到 $3 8 . 9 2 \text{‰}$ ,MW处理下 $\delta ^ { 1 3 } \mathrm { C }$ 值从 $8 . 9 1 \text{‰}$ 上升到 $3 8 . 0 2 \text{‰}$ ,其后逐渐下降;LW处理下在 $0 { - } 5 0 \ \mathrm { m i n }$ 内从 $4 . 3 0 \text{‰}$ 上升到 $1 5 . 6 8 \text{‰}$ ,其后缓慢下降;其中HW处理下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值最大,比MW高 $8 \%$ ,比LW高 $1 3 2 \%$ 。 $^ { 1 3 } \mathrm { C }$ 脉冲标记后 $3 6 0 \mathrm { ~ h ~ }$ 离体,根呼吸释放的 $\delta ^ { 1 3 }$ C对比 $2 1 6 \mathrm { ~ h ~ }$ 的 $\delta ^ { 1 3 } \mathrm { C }$ 值有明显下降，HW处理下在100min达到峰值 $1 9 . 6 4 \text{‰}$ ,MW处理下在 $9 0 ~ \mathrm { m i n }$ 达到峰值$1 6 . 6 0 \text{‰}$ ,LW在 $5 0 ~ \mathrm { m i n }$ 达到峰值 $3 . 3 0 \text{‰}$ $\mathrm { H } \mathrm { W }$ 水分条件下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值最大,比MW 高 $10 \%$ ,比LW高 $71 4 \%$ 。总体上，HW和MW处理下的 $\delta ^ { 1 3 } \mathrm { C }$ 值比LW后达到峰值，HW处理下 $\delta ^ { 1 3 } \mathrm { C }$ 均值略高于MW,与LW差值较大。
+
+![](images/116b4a0164c7e53cc7deaa7d9093f912f466d212acb982deea84ea5da7ddfd0c.jpg)  
+图2不同供水条件下离体根呼吸随呼吸时间的变化  
+Fig.2 Changes of excised root respiration rates with respiration time under different water supply conditions LW：重度胁迫,Lowwatered;MW:轻度胁迫,Middlewatered;HW:供水充分,Highwatered
+
+![](images/c65058abd3168f4bc51e70cffa6bdd8bd98afad825b9c812e4780d62db766e36.jpg)  
+图3不同供水条件下离体根呼吸随根离体时间的变化 Fig.3Changes of excised root respiration rates with root excised time under different water supply conditions
+
+3 种供水条件下,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 随 $^ { 1 3 } \mathrm { C }$ 脉冲标记后离体时间的推移呈先增大后减小的趋势（图5）。3种供水条件下, $^ { 1 3 } \mathrm { C }$ 脉冲标记后0— $^ { - 6 \mathrm { ~ h ~ } }$ ,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均为负值,标记后48h出现拐点，根呼吸释放的 $\delta ^ { 1 3 }$ C 值增长迅速,并均在 $2 1 6 \mathrm { ~ h ~ }$ 达到峰值,其中HW 处理的根呼吸释放的 $\delta ^ { 1 3 } { \cal C }$ 值最大,为 $3 1 . 4 6 \% o$ ,比 $^ { \textrm { 0 h } }$ 时增长了 $4 1 7 . 7 8 \%$ ,其次为MW下根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ ，为 $3 1 . 4 6 \text{‰}$ ,比 $\widehat { 0 \mathrm { ~ h ~ } }$ 时的 $\delta ^ { 1 3 } \mathrm { C }$ 增长了 $3 7 5 . 6 7 \%$ ;再次是LW的 $\delta ^ { 1 3 }$ C 值,为13.54,比 $0 \mathrm { ~ h ~ }$ 时增长了 $2 1 3 . 4 0 \%$ ;标记后 $3 6 0 \mathrm { ~ h ~ }$ 离体测得，根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 急剧降低。
+
+# 2.3不同供水条件下影响离体根呼吸的根参数特征
+
+不同供水条件下根参数的特征不同(表1)。LW 处理下白羊草的总根长和总根面积显著增加,其中总根长是HW处理总根长的2.86倍,是MW的2.60倍;总根面积约是HW和MW处理的2.7—3.0倍。对比3个水分处理下白羊草的比根长和比根面积发现,MW 处理的比根长显著大于其他两个处理,但比根面积却没有显著差异。根C 含量在各个水分处理均无显著性差异。根N 含量随供水增加而增大,碳氮比随供水增加而减小,差异均不大。
+
+表1不同供水条件下白羊草根参数特征（平均值 $\cdot \pm$ 标准误)  
+Table 1The root parameters of Bothriochloa ischaemum under diferent water supply conditions(Mean ±SE)   
+
+<html><body><table><tr><td>水分处理 Treatmens</td><td>总根长/cm 总根面积/cm² Root length Root area</td><td>比根长/(m/g) Specific root length</td><td>比根面积/(m/g) Specific root area</td><td>根C量/（g/kg) Root C concentration</td><td>根N量/（g/kg) Root N concentration</td><td>C/N</td></tr><tr><td>HW</td><td>93.509 ±15.421b 7.965±1.215b</td><td>253.221±48.051b</td><td>0.223±0.055a</td><td>358.279±6.082a</td><td>17.617±0.313a</td><td>20.422±0.535c</td></tr><tr><td>MW</td><td>102.531 ±14.339b 7.423 ±0.914b</td><td>420.960±28.539a</td><td>0.307±0.022a</td><td>367.248±6.718a</td><td>16.103±0.123b</td><td>22.802±0.360b</td></tr><tr><td>LW</td><td>266.255±36.034a 22.075±3.100a</td><td>264.713±27.764b</td><td>0.227±0.028a</td><td>359.563±6.471a</td><td>14.538±0.368c</td><td>24.845±0.567a</td></tr></table></body></html>
+
+LW:重度胁迫,Low watered;MW:轻度胁迫,Middle watered;HW:供水充分,High watered;小写字母表示不同水分处理间差异显著（ $\scriptstyle ( P < 0 . 5 )$ （20
+
+2.4不同供水条件下离体根呼吸与影响因子根参数的相关性通过对白羊草离体根呼吸速率及根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 影响因素做相关分析(表2)可知：在HW 供水条件下离体根呼吸速率并未显著受到根系形态及养分因子的影响,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 与根系全氮呈极显著负相关关系。在MW供水条件下,离体根呼吸速率与根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 、根组织 $\delta ^ { 1 3 } \mathrm { C }$ 三者间呈显著相关性,但这两个指标与根系形态及组织养分浓度并未表达出显著相关性。在LW供水条件下,离体根呼吸速率与根面积呈显著正相关性,与比根面积呈极显著正相关性;根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 与根面积和C/N 比均呈显著正相关。
+
+![](images/b491d30b29dc3ca00fcf53058f7ec0bff117d67af21e53adeef2369ed2bc8a5e.jpg)  
+图4不同供水条件下根呼吸释放的 $\delta ^ { 1 3 } \mathbf { C }$ 随呼吸时间的变化
+
+Fig.4 Changes of $\delta ^ { 1 3 } \mathbf { C }$ released of root respiration with respiration time under diferent water supply conditions
+
+表2不同供水条件下白羊草根呼吸与根参数的相关关系矩阵  
+
+<html><body><table><tr><td></td><td>Table 2</td><td>The relationship between root respiration and root parameters under different water supply conditions</td><td>根呼吸释</td><td>根组</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理 Treatments</td><td>影响因子 Factors</td><td>根呼 吸速率 Root respiration</td><td>放的δC 813C released of root respiration</td><td>织813C 813C of root tissue</td><td>总根长 Root length</td><td>总根面积 Root area</td><td>比根长 Specific root length</td><td>比根面积 根C含量 Specific root C root area</td><td>根N含量 root N concentration concentration</td><td>C/N</td></tr><tr><td rowspan="3">HW</td><td>根呼吸速率</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根呼吸释放的δlC</td><td>0.081</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根组织δ1C</td><td>-0.483</td><td>-0.638 **</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td>处理 Treatments</td><td>影响因子 Factors</td><td>限率 respration</td><td>根呼吸释 放的8 relersed respiration</td><td>根组 rsote</td><td>总根长 length</td><td>总根面积 area</td><td>比e长 length</td><td>比根面积 root area</td><td>根c含量 concentration concentration</td><td>根N含量</td><td>C/N</td></tr><tr><td rowspan="10">MW</td><td>总根长</td><td>0.344</td><td>-0.223</td><td>-0.253</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总根面积</td><td>0.406</td><td>-0.099</td><td>-0.439</td><td>0.943 **</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>比根长</td><td>0.085</td><td>-0.276</td><td>-0.313</td><td>-0.404</td><td>-0.375</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>比根面积</td><td>0.161</td><td>-0.225</td><td>-0.181</td><td>-0.346</td><td>-0.252</td><td>0.973**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>根C含量</td><td>-0.212</td><td>-0.054</td><td>0.429</td><td>0.091</td><td>-0.017</td><td>-0.454</td><td>-0.559 *</td><td>1.000</td><td></td><td></td></tr><tr><td>根N含量</td><td>0.310</td><td>-0.655 **</td><td>0.673 **</td><td>0.278</td><td>0.232</td><td>0.419</td><td>0.429</td><td>-0.232</td><td>1.000</td><td></td></tr><tr><td>C/N</td><td>-0.328</td><td>0.391</td><td>-0.407</td><td>-0.108</td><td>-0.148</td><td>-0.545 *</td><td>-0.617 *</td><td>0.774</td><td>0.795 **</td><td>1.000</td></tr><tr><td>根呼吸速率</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根呼吸释放的δ13C</td><td>0.565 *</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根组织δ13C</td><td>0.596 *</td><td>0.803 **</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总根长 总根面积</td><td>0.434</td><td>0.007</td><td>0.169</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>比根长</td><td>0.247</td><td>-0.276</td><td>-0.063</td><td></td><td>0.700 **</td><td>1.000</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>比根面积</td><td>0.239</td><td>-0.051</td><td>0.098</td><td></td><td>0.745**</td><td>0.339</td><td>0.499</td><td>1.000</td><td></td><td></td></tr><tr><td>根C含量</td><td>-0.111</td><td>-0.384</td><td>-0.186</td><td>0.174</td><td></td><td>0.500 * 0.276</td><td>0.769*</td><td>0.239</td><td>1.000</td><td></td></tr><tr><td>根N含量</td><td>0.388</td><td>-0.050</td><td>-0.144</td><td>0.660** 0.067</td><td></td><td>0.058</td><td>0.150</td><td>0.069</td><td>1.000</td><td></td></tr><tr><td>C/N</td><td>0.504</td><td>-0.069</td><td>-0.165</td><td></td><td></td><td></td><td></td><td></td><td>0.530</td><td>1.000</td></tr><tr><td>LW</td><td></td><td>0.213</td><td>-0.016</td><td>-0.084</td><td>0.735 **</td><td>0.288</td><td>0.823 **</td><td>0.242</td><td>0.912</td><td>0.136</td></tr><tr><td>根呼吸速率 根呼吸释放的δ1C</td><td></td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>根组织δ1C</td><td>0.242 0.652 *</td><td>1.000 0.415</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总根长</td><td>0.039</td><td>0.185</td><td>0.446</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总根面积</td><td>0.535 *</td><td>0.513*</td><td>0.486</td><td>0.651**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>比根长</td><td>0.288</td><td>0.245</td><td>-0.326</td><td>0.230</td><td>0.038</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>比根面积</td><td>0.636</td><td>0.196</td><td>-0.256</td><td>0.276</td><td></td><td>0.407</td><td>0.766**</td><td>1.000</td><td></td><td></td></tr><tr><td>根C含量</td><td>-0.228</td><td>0.277</td><td>-0.252</td><td>0.101</td><td></td><td>0.273</td><td>-0.246</td><td>-0.037</td><td>1.000</td><td></td></tr><tr><td>根N含量</td><td>-0.269</td><td>-0.309</td><td>0.106</td><td>-0.083</td><td></td><td>-0.106</td><td>-0.311</td><td>-0.022</td><td>0.519 * 1.000</td><td></td></tr><tr><td>C/N</td><td></td><td></td><td>-0.230</td><td>0.163</td><td></td><td>0.346</td><td>0.162</td><td>0.016</td><td>0.240 -0.705 **</td><td>1.000</td></tr><tr><td></td><td>D</td><td>0.135</td><td>0.590 *</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+\*表示根呼吸速率与对应影响因子相关性显著，\*\*表示根呼吸速率与对应影响因子相关性极显著
+
+# 3讨论
+
+3.1 实时3CO变化监测对准确描述离体根系呼吸的意义
+
+离体根法和 $^ { 1 3 } \mathrm { C }$ 同位素表示法是测定根呼吸的主要方法,而根呼吸是土壤呼吸的重要贡献之一[12],土壤呼吸 $\mathrm { C O } _ { 2 }$ 的释放是对植物光合碳转化和利用的表现[23]。本文中离体根呼吸速率在 $2 0 ~ \mathrm { m i n }$ 内迅速下降（下降范围 $3 2 \% - 3 9 \%$ )后短暂上升,之后继续下降，最后呼吸速率趋于平稳,这与李又芳等[24]对16 年杉木细根、易志刚[15]对马尾松和黄果厚壳桂根系、Rakonczay等[25]对红花槭和赤栎、Bloom等[26]对大麦的根系的离体根呼吸研究得到的结果相似,造成这一现象的原因有以下两点：(1)细根离体后,有机物迅速分解,地上部分碳源不能及时供给,造成根系离体后呼吸速率急剧下降;(2)由于易分解有机物分解达到了相对稳定的状态,此时根损伤刺激根际微生物活动[27],微生物活动稍有加强,但可利用的碳源缺乏,微生物的活动导致了短时间内根呼吸速率波浪变化的趋势[28]。
+
+![](images/fd71b306285de2ad0e5014375d16cec8f8375bed18bf6aaa0bf1f79d650fa591.jpg)  
+图5不同供水条件下根呼吸释放的 $\delta ^ { 1 3 } \mathbf { C }$ 随根离体时间的变化 Fig.5Changes of $\delta ^ { 1 3 } \mathbf { C }$ released of root respiration with root excised time under different water supply conditions
+
+通过对比前人研究我们发现,对于离体根系的 $\mathrm { C O } _ { 2 }$ 释放速率可描述根系离体后根系呼吸速率的总体变化趋势,但当说明植物光合碳在“大气-植物-土壤”系统随时间的分配过程和分配比例,尤其是光合产物从地上部分运送到植物根系后,根系部分光合碳随时间的释放过程无法采用离体根呼吸速率这一指针反映。本研究用 $^ { 1 3 } \mathrm { C }$ 脉冲标记示踪白羊草根系接收的光合碳,用离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 研究根呼吸代谢能够解决上述问题。本研究表明：白羊草根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值随标记后离体时间 $( 0 - 3 6 0 \mathrm { ~ h ~ }$ )的推迟呈先增大后减小的趋势，在标记后第 $2 1 6 \mathrm { ~ h ~ }$ 离体测得的 $\delta ^ { 1 3 } \mathrm { C }$ 达到峰值。何敏毅等[29]对玉米光合碳分配研究表明根际呼吸产生的绝大部分 $^ { 1 3 } \mathrm { C }$ 都出现在标记后的 $2 1 6 \mathrm { ~ h ~ }$ 内,随时间推移 $^ { 1 3 } \mathrm { C }$ 积累速率降低,Wang等[30]研究表明内蒙古典型草原 $^ { 1 3 } \mathrm { C }$ 在地上叶片光合作用产生的标记光合同化物从叶片运输到地下根系,再由根系通过呼吸作用释放至大气需要约 $2 4 0 \mathrm { ~ h ~ }$ ,与本研究的结果一致,这说明本文提出的方法对于研究植物光合作用同化碳运输到根系,再以根呼吸形式释放的过程是可行的。
+
+再者本文离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 值也受到水分胁迫的影响，表现为：根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值 $\mathrm { H W > M W > }$ LW,当供水越充足,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 的峰值出现的越迟,且峰值越大,这与任军等[31]对不同供氮水平下水曲柳根呼吸、刘殿英等[32]对水分胁迫下的冬小麦根系、韦莉莉等[33]对杉木、严昌荣等[34]对暖温带落叶阔叶林生态系统主要乔灌木植物的光合作用产物及分配的研究结果相一致,当土壤含水量在一定阀值以下,根系呼吸速率随着土壤水分的增加而增大,干旱处理植株各组织平均 $\delta ^ { 1 3 } \mathrm { { \vec { C } } }$ 值总低于正常供水,因为供水不足会降低根系对N的吸收能力,限制苗木各器官的生长,光合效应 $^ { 1 3 } \mathrm { C O } _ { 2 }$ 的吸收随之减小。以上研究表明此方法可以定量研究根系呼吸释放的碳及其释放特征,对定量估算植物光合产物向地下运输的C固定和C代谢关系提供新思路支撑。
+
+# 3.2不同水分下根参数对根固碳和呼吸的影响
+
+本研究表明,在HW 供水条件下,白羊草离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 与根组织 $\delta ^ { 1 3 } \mathrm { C }$ 、根系全N呈极显著负相关关系,这可能是由于水分充足时,植株生长状况良好,地上部分光合固定的 $^ { 1 3 } \mathrm { C }$ 总量大,地下根系的固碳能力强,但土壤含水量大时根呼吸增强[35],植物生长(C 固定)和根呼吸(C 代谢)呈现竞争关系,此消彼长;另一方面根系对N的吸收能力随土壤水分增大而增强[32],水分充足时,根N含量增大,离体根呼吸释放的C量会随之增大[24],这与根系本身固碳也形成了竞争关系,所以水分充足时离体根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 与根系全N呈极显著负相关关系。
+
+在 MW供水条件下,白羊草离体根呼吸速率,与根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 和根组织 $\delta ^ { 1 3 } \mathrm { C }$ 呈显著正相关性,是由于植物受到轻度水分胁迫,促使根系生长[32.36-37],根系下扎，深层根相对较多,根系具有较强的吸收能力，可促进地上器官生长发育良好,而根干重、总吸收面积、光合强度等皆呈正相关关系[32],此时光合作用固定的总C量增加,根呼吸释放和根组织 $\delta ^ { 1 3 } \mathrm { C }$ 量同时增加,轻度水分胁迫致使植物生长（C 固定)和根呼吸（C 代谢)同时增加。
+
+在LW 供水条件下,白羊草离体根呼吸速率与根组织 $\delta ^ { 1 3 } \mathrm { C }$ 、根面积、比根面积呈显著正相关性,由于重度水分胁迫下,根系生长追逐水源,竞争碳水化合物,同化产物多分配向根系[37],白羊草通过增加根长和根面积获取更多的土壤水分[38-39],而根系呼吸作用主要通过根表皮吸入 $\mathbf { 0 } _ { 2 }$ 和释放 $\mathrm { C O } _ { 2 } ^ { [ 4 0 ] }$ ,根面积的大小会直接影响根系的呼吸效率和呼吸量[31],所以重度水分胁迫引起输入到根系的光合碳比例增加,根组织 $\delta ^ { 1 3 } \mathrm { C }$ 增大,根面积的增大又导致呼吸作用增强,它们之间呈现正相关性。重度水分胁迫下,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 与C/N呈显著正相关性,重度水分胁迫导致根系对N的吸收能力降低[32],植物为了获取足够的氮来保证其生长，一般通过提高向根系分配更多的碳量来促进根系的生长，目的是达到提高氮吸收能力，也提高了根系的呼吸速率[41],这与Eissenstat 和 Yanai[42]提出的成本-效益（cost-benefit)理论一致,碳作为成本,在重度水分胁迫下,植株对根系的光合碳投入比例增大,根系对N的吸收能力弱导致C/N大,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 增加,根系固碳量小。
+
+本文只研究稳定碳同位素脉冲标记后光合产物在根系的释放及固定过程，后期可定量分析植物从叶片吸收光合作用产物后的运移及释放的整体过程,研究植物光合C在"大气-植物-土壤”系统随时间的分配和分配比例。
+
+# 4结论
+
+1)3 种供水条件下,不同根离体时间的白羊草离体根呼吸速率在2h 内的无显著差异,且变化趋势一致,  
+0一 $2 0 ~ \mathrm { m i n }$ 急剧下降,下降百分比为 $3 2 \% - 3 9 \%$ ,反映了根呼吸的速率水平。2)稳定性碳同位素 $^ { 1 3 } \mathrm { C }$ 脉冲标记后,用根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 研究离体根呼吸，实时监测转移到白羊草根系  
+的 $^ { 1 3 } \mathrm { C O } _ { 2 }$ 在根部呼吸释放的过程。3种水分条件下,根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 在 $^ { 2 \mathrm { ~ h ~ } }$ 内均值大小为：供水充分>轻度  
+胁迫 $>$ 重度胁迫。随离体时间 $( 0 - 3 6 0 \mathrm { ~ h ~ } ^ { \cdot }$ )推迟根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 均值先增大后减小,在 $2 1 6 \mathrm { ~ h ~ }$ 达到峰值  
+$3 1 . 4 6 \text{‰}$ 。3)3 种供水条件下,离体根呼吸速率和根呼吸释放的 $\delta ^ { 1 3 } \mathrm { C }$ 受根系根面积、比根面积、N含量、C/N及根组  
+织 $\delta ^ { 1 3 } \mathrm { C }$ 的影响显著。4)轻度水分胁迫可促使根系生长(C固定)和根呼吸(C代谢)同时增加
+
+# 参考文献（References）:
+
+[1]Bond-Lmberoo.mpatureaoiatedieasieballspatiodatu，,4（7288）：8.  
+[2]Tucker C L，Bell J,Pendall E,Ogle K.Does declining carbon use efficiency explain thermal acclimation of soil respiration with warming?Global Change Biology，2013，19(1)：252-263.  
+[3]DavidsoEseIperaturesifbecposiiodactategture：165- 173.  
+[4]JonesDgenC,FnlaRDbofointhesreabradgathlroterfacetandSil/）：5-33.  
+[5]Lambers H,Stulen I，Van Der Wert A. Carbon use in roo respiration as affected by elevated atmospheric $\mathrm { C O } _ { 2 }$ .Plant and Soil,1995,187（2）:251-263.  
+[6] Giford RM.Theglobalcarboncycle：aviewpointonthe misingsink.Australian JouralofPlantPhysiology,1994,21（1）:1-15.  
+[7] 杨玉盛，董彬，谢锦升，陈光水，高人,李灵，王小国,郭剑芬.森林土壤呼吸及其对全球变化的响应.生态学报，2004,24（3）：583-591.  
+［8］王文杰.林木非同化器官 $\mathrm { C O } _ { 2 }$ 通量的测定方法及对结果的影响.生态学报，2004，24(9)：2056-2067.  
+[9]LeeaeKaoiHoaefspiallboesipatetAgricultural and Forest Meteorology，2005，134(1/4）: 95-101.  
+[10] HansonPJ,EdwadsNrtenCAdresJ.eparatigotdlobalotrbutiostolspatiovieofsdobservations.Biogeochemistry，2000，48（1）：115-146.  
+[11 丁杰萍，罗永清，周欣，岳祥飞，连杰.植物根系呼吸研究方法及影响因素研究进展.草业学报，2015，24（5)：206-216.12 张晶，沈应柏，徐程扬.树木根系呼吸及其对环境的反应研究进展.东北林业大学学报，2007，35（2)：78-81.  
+13]YazakiY，rikoaddgeiMistsesisassadiJapacolocalesearch9（）：511-520.  
+[14] 宋文琛，同小娟，张劲松，孟平，李俊.用自然 $^ { 1 3 } \mathrm { C }$ 丰度法区分人工林根源呼吸的原理与应用.中国水土保持科学，2015，13(4)：37-43.  
+[15] 易志刚.离体根呼吸研究及其在原位根呼吸测量中的应用.福建林学院学报，2008，28（3)：212-215.  
+[16] Warembourg FR,Paul E A. The use of $\mathrm { C } ^ { 1 4 } \mathrm { O } _ { 2 }$ canopy techniques for measuring carbon transfer through the plant-soil system. Plant and Soil,1973,38(2):331-345.  
+[17］金剑，王光华，刘晓冰，张磊，米亮，刘俊杰，HerbertSJ.作物生育期内光合碳在地下部的分配及转化.生态学杂志，2008，27（8)：1393-1399.  
+[18LuYaeatdidbllgcal6(4):32-1-32-8.  
+[19]GregoryPJ,AtwellBJ.Thefteofcarboninpulse-labelledcropsofbarleyandwhat.PlantandSoil，1991,136(2)：205-213.  
+20]Kuzeaaeepofeltd(1/2):127-136.  
+[21] 申建波，张福锁，毛达如.根际微生态系统中的碳循环.植物营养与肥料学报，2001，7(2)：232-240.  
+[22］耿东梅，单立山，李毅.土壤水分胁迫对红砂幼苗细根形态和功能特征的影响.水土保持通报，2014，34（6)：36-42.  
+[23] 金钊，董云社，齐玉春.综论土壤呼吸各组分区分方法.地理科学进展，2006，25(4)：22-33.  
+[24] 李又芳，高人，李营，邱敬，陈光水，尹云锋.不同径级杉木根参数与离体根呼吸.亚热带资源与环境学报，2008，3（2)：19-24.  
+[25]RakoZeleKeligboteoffsfseelilcisiovidExperimental Botany，1997,38(3）：243-249.  
+[26]BloomAJ，CaldwellRM.Rotexcisiondecreases nutrientabsortionandgafuxes.PlantPhysiology988，7(4)：794-796.  
+27]KatzeoatJdodeaaloofcteseaJa1957,3(2): 265-269.  
+28]Sgliodeubgassatidnngdint8519.  
+［29］何敏毅，孟凡乔，史雅娟，吴文良.用 $^ { 1 3 } \mathrm { C }$ 脉冲标记法研究玉米光合碳分配及其向地下的输人.环境科学，2008，29(2)：446-453.  
+[30]WangZ,LiLHHanXG,LiZQ，enQDasadaatiofretotiilaboiIerMglaesteppe.Environmental and Experimental Botany，2007,59(1）：1-10.  
+[31］任军，徐程扬，潘琳，林玉梅，章林,王晓娜.长白山阔叶红松林中水曲柳根呼吸及影响因素.北京林业大学学报，2011,3（1)：11-15.  
+[32] 刘殿英，黄炳茹，董庆裕.土壤水分对冬小麦根系的影响．山东农业大学学报，1991，22（2）：103-110.  
+[33] 韦莉莉，张小全，侯振宏，徐德应，余雪标.杉木苗木光合作用及其产物分配对水分胁迫的响应.植物生态学报，2005,29（3）：394-402.  
+[34] 严昌荣，韩兴国，陈灵芝，黄建辉，苏波.暖温带落叶阔叶林主要植物叶片中 $\delta ^ { 1 3 } \mathrm { C }$ 值的种间差异及时空变化.植物学报，1998，40（9)：853-859.  
+[35］史晶晶，耿元波.内蒙古羊草草原根呼吸和土壤微生物呼吸区分的研究.环境科学，2014，35(1)：341-347.  
+[36] 冯广龙，刘昌明，王立.土壤水分对作物根系生长及分布的调控作用.生态农业研究，1996,4（3)：5-9.  
+[37] 徐炳成，山仑，黄占斌，刘国彬.黄土丘陵区柳枝稷与白羊草光合生理生态特征的比较.中国草地，2003,25（1)：1-4.  
+[38]LiuY,,GieZotcaldlcalsohrstoFrontiers in Plant Science,2017,8：230.  
+[39］刘莹,李鹏，沈冰，冯朝红，刘琦，张祎.采用稳定碳同位素法分析白羊草在不同干旱胁迫下的水分利用效率.生态学报，2017,37（9)：3055-3064.  
+40]Basaerlllyotelspllisalblest107- 125.  
+[41]MartiFzYedeGJeJRospatdadstsideespeePlant，Cell & Environment,2002,25（10): 1271-1278.  
+[42]Eissnstat D M, Yanai R D.The ecology of rootlifespan.Advances in Ecological Research，1997,27:1-60.A

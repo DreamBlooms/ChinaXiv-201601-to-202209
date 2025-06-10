@@ -1,0 +1,364 @@
+[
+    {
+        "type": "text",
+        "text": "肌基乙酸的生理作用和机理及其在肉鸡、猪生产方面的应用",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "班博 蒋庆友 杨 泰 田科雄\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.湖南农业大学动物科学技术学院，长沙 410128；2.湖南畜禽安全生产协同创新中心，长沙 410128）摘要：胍基乙酸作为一种新型营养性饲料添加剂，对提高肉鸡和猪生产性能、促进能量代谢、加速蛋白质沉积、提高抗氧化能力、改善肉品质等方面具有一定效果。本文综述了胍基乙酸的代谢途径、生理作用及其机理，以及其在肉鸡和猪生产性能、肉品质方面的最新研究进展，以期为胍基乙酸的进一步研究和探索提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胍基乙酸；代谢；生产性能；肉品质；肉鸡；猪中图分类号：S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胍基乙酸（guanidine acetic acid，GAA）又称胍乙酸、N-咪基甘氨酸，分子式为 $\\mathrm { C } _ { 3 } \\mathrm { H } _ { 7 } \\mathrm { N } _ { 3 } \\mathrm { O } _ { 2 }$ ，摩尔质量为 $1 1 7 . 1 1 \\ \\mathrm { g / m o l }$ ，白色或灰白色粉末或晶体状，无臭味，溶于水，极微溶于乙醇和乙醚[1-2]。Weber 最早从尿液中发现并分离得到GAA，并提出GAA 是合成肌酸的前体物质，但没有进行深入的研究[1]。Bloch 等[3]发现机体内GAA 是由精氨酸和甘氨酸合成的，因此GAA 又属于甘氨酸衍生物。GAA 在肝脏中通过甲基化的形式最终形成肌酸[4]，饲粮中添加GAA正是为了提高动物机体肌酸的含量，2009 年10 月欧盟开始将 GAA用作饲料添加剂[5]。不含肌酸的植物性饲料原料的广泛使用[6]，提高了动物对精氨酸、甘氨酸的需求量，甚至造成肌酸缺乏症，由于在饲粮中直接添加肌酸成本较高且肌酸不稳定，目前通过在纯植物性饲粮中添加GAA 来解决这一问题[7]。GAA的内源合成以及进一步合成肌酸的机理基本研究清楚，但GAA在动物体内的代谢途径、抗氧化机理还有待探索。GAA作为一种新型的饲料添加剂受到越来越多的畜禽生产科研学者的关注，因此，本文对目前GAA 在肉鸡和猪多个方面的研究进展进行综述，以期对GAA的进一步研究和探索提供一定的参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "√ GAA代谢途径",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "动物机体内存在GAA的内源合成反应，即 $L .$ -精氨酸的咪基被 $L$ -精氨酸甘氨酸咪基转移酶（ $L$ -arginine:glycine amidinotranferase,AGAT)切开，甘氨酸与切下来的咪基结合转变为GAA[3]。 $L$ -精氨酸切掉咪基后转变为 $L$ 鸟氨酸，而 $L$ -鸟氨酸可以通过尿素循环重新转化为 $L$ -精氨酸。机体内源合成GAA最先在肾脏中被发现，随着进一步的研究发现肝脏和胰脏同样存在合成GAA的反应，但肾脏是合成GAA的主要场所。无论是内源合成的GAA还是通过采食饲粮摄取的GAA，都可以经血液循环运输到肝脏，通过甲基化的方式进一步合成肌酸。GAA到达肝脏后由 S-腺苷蛋氨酸（S-adenosyl methionine，SAM）提供甲基在S-腺苷蛋氨酸-胍基乙酸 N-甲基转移酶（S-adenosylmethionine:guanidinoacetate N-methyltransferase，GAMT）的催化下，GAA接受甲基生成肌酸。SAM失去甲基后转化为 S-腺苷高半胱氨酸（S-adenosyl- $L$ -homocysteine，SAH），SAH可以通过腺嘌呤核苷同型半胱氨酸水解酶水解形成腺嘌呤核苷和同型半胱氨酸。因此在机体内同型半胱氨酸的产生和GAA 甲基化反应存在着紧密的联系[1]。Stead 等[4]研究发现，GAA 合成肌酸所需的甲基主要由 SAM提供，而不是机体内存在的其他甲基化反应都可以提供，并且机体中超过 $8 5 \\%$ 的由SAM提供甲基的反应发生在肝脏中[8]。因此饲粮中过量添加GAA 会增加甲基的需要量，同时提高同型半胱氨酸的含量，导致胱氨酸血症的发生，Setoue 等[9]、Ohuchi 等[10]在研究中也发现这一问题。在甜菜碱-高半胱氨酸 S-甲基转移酶（betaine-homocysteine methyltransferase，BHMT)的催化下，甜菜碱的甲基可以将高半胱氨酸重新甲基化为甲硫氨酸，另外胆碱还具有增强BHMT活性的作用。所以在饲粮中添加GAA的同时添加胆碱和甜菜碱可以有效抑制胱氨酸血症的发生[]。另外在大鼠上的研究结果表明，饲粮中添加高络蛋白、香菇嘌呤等也能有效抑制GAA 诱导的胱氨酸血症[12]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肌酸在肌酸激酶（creatine kinase，CK）的催化下生成磷酸肌酸。在细胞内，肌酸和磷酸肌酸自发环化形成肌酸酐，这是肌酸和磷酸肌酸代谢的唯一已知最终产物。肌酸酐不主动或被动运输，但被动地扩散穿过细胞膜并最终在尿液中排泄[13]。据估计，一名年轻的 $7 0 \\mathrm { k g }$ 男性人体肌酐损失约为身体肌酸总量的 $1 . 7 \\%$ 或约 $2 \\mathrm { g } / \\mathrm { d } ^ { [ 1 4 ] }$ ，所以必须从饮食中获取或从头合成来弥补损失的肌酸。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2肌酸合成与转运",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在脊椎动物体内，GAA 是合成肌酸的前体物质，其在肝脏中通过甲基化的形式最终形成肌酸[4]。在动物体内， $L$ -精氨酸和甘氨酸在AGAT 的催化下生成GAA[3]。GAA最重要的生理功能就是进一步合成肌酸，肌酸的合成主要在肝脏中发生，虽然已有报道胰腺中存在关于肌酸合成所需要的酶，但该器官在肌酸合成中的任何可能的作用还不清楚[15]。主要由肾脏合成的GAA 通过血液循环被运输到肝脏后和 SAM在GAMT的催化下生成肌酸和 $\\mathrm { S A H } ^ { [ 4 , 1 6 ] }$ 。SAH严重抑制包括GAMT 在内的大部分 SAM依赖性甲基转移酶，GAMT是催化合成肌酸反应中最后一步的酶，据报道在人体中， $7 5 \\%$ 的SAM用于肌酸的生物合成[9]。因此GAMT是脊椎动物中 SAM代谢转化为SAH的主要酶[17]。有研究表明，在人和小鼠的肝脏中发现高水平的GAMTmRNA[18]，这直接证实了肝脏是负责肌酸生物合成的主要器官。机体内源合成肌酸的反应中存在反馈调节机制，机体可以调节GAMT的表达，但是不能调节AGAT的表达[19]。这一结论表明肌酸合成的反应中GAA的合成为限速反应。同时为在饲粮中添加GAA 以提高机体肌酸含量这一想法提供了理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肝细胞不能从精氨酸和甘氨酸直接合成肌酸，而很容易将GAA 转化为肌酸[1]。因此GAA 需要从血液递送到肝细胞，从而进一步合成肌酸。GAA转运是由肌酸转运蛋白（recombinant creatine transporter，CRT）[20]和牛磺酸转运蛋白（recombinant taurine transporter，TauT）介导的[21]，有研究表明肝细胞摄取GAA 还存在其他转运蛋白，即 $\\gamma$ -氨基丁酸转运蛋白[22],并指出γ-氨基丁酸转运蛋白II( $\\gamma$ aminobutyric acid transporter II,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GAT2）对肝细胞摄取GAA的贡献至少为 $6 4 . 4 \\% ^ { }$ 。GAT2主要定位于肝细胞的窦状膜上，主要位于门静脉周围区域。这种分布模式与GAMT的分布模式非常一致。GAT2和GAMT之间的功能耦合，调节GAA 的供应途径和门静脉肝细胞中的肌酸合成[23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3GAA的生理作用和机理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 提高能量代谢作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GAA 通过影响与糖代谢有关的以及呼吸链中的关键酶的活性来促进体内分解代谢，提高三磷酸腺苷（adenosine triphosphate，ATP）水平进而增加储能物质的合成。此外，GAA 通过进一步合成肌酸来提高机体能量代谢。由GAA进一步合成的肌酸，在高能量需求的组织中对磷酸基团的储存和传输起着重要作用[23]。当动物机体内能量充足时，肌酸可以接受能量生成磷酸肌酸，充当暂时储存能量的场所，磷酸肌酸是动物组织中的关键能量储备[24-26]。磷酸肌酸在机体能量短缺时通过肌酸激酶释放 ATP 快速提高机体 ATP 水平，因此磷酸肌酸起到高能磷酸盐缓冲液的作用[27-29]。磷酸肌酸与肌酸组成磷酸原系统，该系统被公认为细胞内能量利用的主要调节部门，其控制细胞 ATP的水平或积累即时可用的细胞能量[30]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 提高能量代谢的机理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "丙酮酸激酶（pyruvate kinase，PK）参与糖酵解反应的最后一步反应，也是糖酵解反应中的限速酶之一。PK 催化伴随 ATP 生成的去磷酸化反应，可调节细胞 ATP、腺苷二磷酸（adenosine diphosphate，ADP）和糖酵解中间产物的含量，其活性的变化可迅速反映糖酵解能力的水平[31]。在糖酵解的过程中已糖激酶（hexokinase，HK）、果糖-6-磷酸激酶（phosphofructokinase，PFK）催化磷酸化反应，反应过程中将消耗ATP。在三羧酸循环中异柠檬酸脱氢酶（isocitrate dehydrogenase，IDH）催化的异柠檬酸氧化脱羧反应和苹果酸脱氢酶（malate dehydrogenase，MDH）催化的苹果酸脱氢反应都伴有烟酰胺腺嘌呤二核苷酸（nicotinamide adenine dinucleotide，NADH）的生成，NADH可直接进入呼吸链与氧在烟酰胺腺嘌呤二核苷酸-辅酶Q还原酶（nicotinamide adeninedinucleotide coenzyme Qreductase，NADH-CoQ）和三磷酸腺苷合成酶（adenosine triphosphate synthase，ATPase）的催化下生成 ATP，1mol NADH可生成2.5 mol ATP。CK 是与细胞内能量运转、肌肉收缩、ATP再生有直接关系的一种激酶，磷酸肌酸与ATP之间高能磷酸键的转换由其催化，其活性的变化反映肌肉组织能量储存和转换功能状况的改变。李洁蕾等[32]在保育猪饲粮中添加$6 0 0 \\mathrm { m g / k g }$ GAA，测得血浆中催化产生 ATP 的PK、IDH、MDH、NADH-CoQ 和 ATPase 活性分别升高 $2 5 3 \\%$ ，$312 \\%$ 、 $1 5 1 \\%$ 、 $49 2 \\%$ 和 $1 8 3 \\%$ ，催化消耗ATP反应的PFK和CK活性分别升高 $2 5 2 \\%$ 和 $202 \\%$ ，结果表明ATP合成的增加量远大于消耗量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动物采食添加GAA的饲粮后肌肉中肌酸含量显著提高[33]，而肌肉细胞中磷酸肌酸含量与肌酸含量呈正比，有磷酸肌酸存在时 ADP 磷酸化反应需要的磷酸基团由其提供，直到磷酸肌酸消耗殆尽，糖原才酵解继续提供ADP生成 ATP需要的磷酸基团[34]。另外磷酸肌酸可不同程度地提高脂多糖诱导的人静脉细胞线粒体呼吸链复合酶I、II、II、IV的活性，促进线粒体内ATP 的生成，进而促进能量代谢[35]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，GAA一方面通过提高糖代谢和呼吸链相关酶的活性来增加ATP的合成直接影响能量代谢；另一方面GAA通过增加磷酸肌酸的含量来促进线粒体生产ATP 间接影响能量代谢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 抗氧化作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人和动物在呼吸的过程中，以及与外界污染物、放射线、有害气体等的接触中会在体内产生并积累一些自由基。当机体内自由基浓度太高时，机体将会受到损害，主要包括3个方面：损坏细胞膜、使蛋白酶失活、损伤基因。由于细胞膜化学结构松散，松散结构上的电子易丢失，这也是细胞膜容易遭受自由基攻击的原因。细胞膜中的脂质与自由基发生过氧化反应最终生成丙二醛（malonic dialdehyde，MDA），因此血清中 MDA的含量是判断过氧化反应程度的重要指标。饲粮中添加GAA可以提高动物血清中总抗氧化能力（total antioxidant capacity,T-AOC)以及超氧化物歧化酶（superoxide dismutase,SOD）、过氧化氢酶(catalase,CAT)、谷胱甘肽过氧化物酶（glutathione peroxidase，GSH-Px）活性，并且降低血清MDA 含量[36]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4抗氧化作用的机理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动物采食添加GAA的饲粮后增强抗氧化作用的原因有2方面。一方面，摄入GAA后动物机体内肌酸、磷酸肌酸含量显著提高，肌酸具有直接的抗氧化作用，磷酸肌酸可以抑制氧化应激反应增强抗氧化酶系统功能。肌酸可以通过直接清除细胞内的活性氧特别是羧基以及活性氮来保护细胞，另外肌酸激活CK，通过ADP 再循环机制消耗自由基，从而发挥抗氧化作用[37]。Lawler等[38]通过在体外的试验发现自由基可以在高浓度的肌酸环境下被清除；Guidi等[39]发现肌酸对线粒体 DNA 由于氧化应激产生的损伤具有显著的保护作用；赵力等[40]在磷酸肌酸对阿酶素致大鼠心肌损伤的保护作用及抗细胞凋亡的试验研究中加入磷酸肌酸钠后发现大鼠体内的 SOD 和CAT 活性增强，MDA含量减少，得出磷酸肌酸可以抑制氧化应激反应、增强抗氧化酶系统功能这一结论。另一方面，GAA的摄入减少了动物内源合成，节约了大量具有抗氧化功能的精氨酸，增加细胞内精氨酸的水平。有研究表明精氨酸能够猝灭自由基，如超氧阴离子（ $ { \\mathbf { O } } _ { 2 }  { \\mathbf { \\bar { \\ { \\delta } } } }$ ）[41]，精氨酸可通过清除黄嘌呤氧化酶产生的 $\\overline { { \\mathbf { O } _ { 2 } \\mathbf { \\bar { \\Sigma } } } }$ ，阻止铜诱导的脂蛋白氧化，以及内皮细胞和主动脉环缓慢释放 $ { \\mathbf { O } } _ { 2 } { } ^ { - [ 3 8 ] }$ 。另外精氨酸对由内皮细胞中氧化低密度脂蛋白（low density lipoprotein，LDL）导致的氧化应激具有保护作用[3。GAA是合成肌酸的前体物质，GAA的添加有效增加了机体肌酸、磷酸肌酸的含量，并且大量节约具有抗氧化作用的精氨酸，GAA正是通过这种方式发挥抗氧化的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4GAA在肉鸡和猪生产中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1GAA对肉鸡和猪生产性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加GAA有助于肌酸的大量合成，提高饲料转化率,促进肉鸡和猪的生长,提高其生产性能[42-43]。江涛[44]在爱拔益加（AA）肉鸡饲粮中分别添加 200、400、600、 $8 0 0 \\mathrm { m g / k g }$ GAA，与对照组相比平均日增重均显著提高，料重比显著降低，添加量为600、 $8 0 0 \\mathrm { m g / k g }$ GAA时效果最好。育肥猪饲粮中添加300\\~600mg/kg GAA可显著提高平均日增重和饲料转化率，对平均日采食量无显著影响[45-47]。饲粮中添加GAA 能促进动物生长，可能是因为减少了GAA 的内源合成。由于GAA在体内合成的过程中甘氨酸、精氨酸是必不可少的物质，饲粮中GAA 的添加减少了甘氨酸、精氨酸的消耗量，精氨酸和甘氨酸更大程度的参与机体氨基酸、蛋白质的合成，从而促进机体的生长[48-49]。精氨酸作为生长育肥猪和肉鸡的一种必需氨基酸，饲粮中缺乏时可通过添加GAA来有效缓解这一问题。另外添加GAA还可降低肉鸡因腹水导致的死亡率[50]。GAA的添加有效提高了肌肉中肌酸、磷酸肌酸的含量，碳水化合物、脂肪和蛋白质的分解供能因此减少。肌酸能够加强细胞的水合作用，通过促进液体渗透进入细胞内的方式使肌肉细胞体积增大，从而增大肌肉体积，另外水合作用加强能抑制蛋白质分解并促进蛋白质、糖原的合成，从而加快动物的生长[51]。GAA 还可通过影响γ-氨基丁酸的分泌从而促进下丘脑分泌促生长激素释放激素，最终促进垂体分泌生长激素[2]。此外GAA还可通过促进类胰岛素生长因子-I（IGF-I）的分泌来促进机体生长[3]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "祁永旺等[52]在育肥猪饲粮中添加 500、 $1 0 0 0 \\mathrm { m g / k g \\ G A }$ A，发现屠宰率分别提高了 $3 . 1 9 \\%$ 、 $5 . 5 7 \\%$ ；瘦肉率分别提高了 $10 . 3 8 \\%$ 、 $1 8 . 5 5 \\%$ ；眼肌面积分别提高了 $2 . 5 7 \\%$ 、 $4 . 8 3 \\%$ ，GAA 添加量为 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 时极显著提高瘦肉率。江涛[44]在 AA 肉鸡饲粮中分别添加 $2 0 0 , 4 0 0 , 6 0 0 , 8 0 0 \\mathrm { m g / k g  G A A }$ ，屠宰率分别提高了 $2 . 7 4 \\%$ 、$3 . 3 6 \\%$ 、 $4 . 9 9 \\%$ 、 $5 . 0 3 \\%$ ；胸肌率分别提高了 $3 . 3 3 \\%$ 、 $14 . 8 4 \\%$ 、 $2 1 . 9 8 \\%$ 、 $2 3 . 0 0 \\%$ ；腿肌率分别提高了 $12 . 0 2 \\%$ 、$1 5 . 4 0 \\%$ 、 $2 1 . 5 5 \\%$ 、 $2 2 . 2 3 \\%$ 。潘宝海等[47]在育肥猪饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ GAA，屠宰率提高了 $3 . 8 2 \\%$ ，眼肌面积提高了 $8 . 4 8 \\%$ 。屠宰率和瘦肉率的显著提高也得益于GAA对蛋白质合成的促进作用，机体消化吸收的营养物质在肌肉组织中以蛋白质的形式沉积，并非转化为脂肪储存。磷酸肌酸在肌肉、神经组织中大量存在，而在脂肪组织中含量极微，因此可以促进能量在肌肉组织中存储和分配，改善畜禽体型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 GAA对肉品质的改善作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动物饲喂添加GAA的饲粮，屠宰后可有效提高肌肉 $\\mathfrak { p H }$ ，减小剪切力和滴水损失，改善肉品质。Wang等[36研究表明，育肥猪饲粮中添加800、1200、2000 mg/kgGAA，屠宰后肌肉 $\\mathfrak { p H }$ 分别升高了0.44、0.03、0.21；滴水损失分别降低了 $3 8 . 8 4 \\%$ 、 $2 6 . 0 3 \\%$ 、 $9 . 0 9 \\%$ ；剪切力分别降低了 $1 3 . 6 9 \\%$ 、 $1 1 . 4 3 \\%$ 、 $6 . 3 8 \\%$ 。刘洋等[53]在育肥猪饲粮中添加 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g } \\mathrm { \\cdot }$ GAA，屠宰后肌肉 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 提高了0.2， $\\mathrm { P H } _ { 2 4 \\mathrm { h } }$ 提高了0.21，滴水损失降低了 $2 . 4 5 \\%$ ，剪切力降低了 $1 5 . 6 6 \\%$ 。潘宝海等[47]在育肥猪饲粮中添加 $5 0 0 \\mathrm { m g / k g }$ GAA，屠宰后肌肉 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ （204号提高了0.14， $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 提高了0.10。陈政宽等[54]在育肥猪饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ GAA，屠宰后肌肉 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 提高了0.15， $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 提高了0.25，滴水损失降低了 $2 1 . 9 3 \\%$ ，剪切力降低了 $1 7 . 2 4 \\%$ 。一般宰后血液循环停止中断了氧气的供给，导致ATP水平降低，肌肉中发生无氧酵解产生乳酸，肌肉 $\\mathsf { p H }$ 有下降的趋势。但饲粮中GAA 的添加有效提高了肌酸、磷酸肌酸的储备，同时增加了ATP的水平，在宰后有效延缓肌肉中无氧酵解反应，从而提高pH。Rahman 等[55研究发现，肌肉系水力的提高可以降低肉质的硬度。蛋白质与水的相互作用增强时，肌肉系水力将会提高，肌肉中较高的 $\\mathfrak { p H }$ 通过减少蛋白质的变性可使肌原纤维蛋白偏离等电点，导致蛋白质所带负电荷增多，蛋白质所带负电荷增多会促进与水的互相作用。在屠宰后肌肉pH下降到最低点之前，钙离子从肌细胞中肌浆内质网释放出来[5σ]，在能量的作用下肌肉将发生收缩。一般肌肉收缩时短缩度达到 $40 \\%$ 时硬度最大，而超过 $40 \\%$ 时反而变得柔软，这是由于肌动蛋白的细丝过度插入而引起的Z线断裂所致[33]，GAA的添加提高了ATP 的水平，在这种存在足够能量的情况下肌肉发生超收缩，从而提高嫩度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加GAA可以提高动物饲料转化率、调节能量代谢、改善肉品质。GAA作为一种新型饲料添加剂，在我国畜牧生产方面的应用尚处于起步阶段。对不同种动物的适宜添加阶段、适宜添加剂量、耐受性以及作用机制等，将会是进一步探索的方向与重点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \n[1]王连生,张圆圆,单安山.胍基乙酸的体内代谢及在动物生产中的应用[J].中国畜牧兽医,2010,37(6):13-16.   \n[2]OSTOJIC S M.Guanidinoacetic acid as a performance-enhancing agent[J].Amino Acids,2015,48(8):1867 -1875.   \n[3]BLOCH K,SCHOENHEIMER R.The biological origin of the amidine group in creatine[J].Journal of Biological Chemistry,1940,134:785-786   \n[4]STEADL M,AU K P,JACOBS RL,et al.Methylation demand and homocysteine metabolism:effects of dietary provision of creatine and guanidinoacetate[J].American Journal of Physiology-Endocrinologyand Metabolism,2001,281(5):E1095-E1100.   \n[5]张俊玲,张德福,石凤云,等.胍基乙酸在动物生产上的研究进展[J].中国畜牧杂志,2016,52(4):63-66.   \n[6] MACCORMICK V M,HILL L M,MACNEIL L,et al.Elevation of creatine in red blood cels in vegetarians   \nand nonvegetarians after creatine supplementation[J].Canadian Journal of Applied Physiology,2004,29(6):704-713.   \n[7] DILGER R N,BRYANT-ANGELONI K,PAYNE R L,et al.Dietary guanidino acetic acid is an effcacious replacement for arginine for young chicks[J].Poultry Science,2013,92(1):171-177.   \n[8]KHARBANDA K K,TODERO S L,MOATS J C,et al.Alcohol consumption decreases rat hepatic creati nebiosynthesis via altered guanidinoacetate methyltransferase activity[J].Alcoholism Clinical & Experi mental Research,2014,38(3):641-648.   \n[9]SETOUE M,OHUCHI S,MORITA T,et al.Hyperhomocysteinemia induced by guanidinoacetic acid is ef fectively suppressed by choline and betaine in rats[J].Bioscience,Biotechnology,and Biochemistry,2008,7 2(7):1696-1703. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[10]OHUCHI S,MATSUMOTO Y,MORITA T,et al.High-casein diet suppresses guanidinoacetic acid-induce d hyperhomocysteinemia and potentiates the hypohomocysteinemic efect of serine in rats[J].Bioscience, Biotechnology,and Biochemistry,2008,72(12):3258-3264. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]LIU Y Q,JIA Z,HAN F,et al.Suppression effects of betaine-enriched spinach on hyperhomocysteinemi a induced by guanidinoacetic acid and choline deficiency in rats[J].The Scientific World Journal,2014, 2014:904501. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]王娇,李庆霞,杨信,等.胍基乙酸在家禽生产中的应用[J].中国饲料,2017(20):11-13.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] ZHAO C R,SHANG L H,WANG W Y,et al.Myocelular creatine and creatine transporter serine phos phorylation after starvation[J].Journal of Surgical Research,2002,105(1):10-16. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14]DA SILVA R P,NISSIM I,BROSNAN M E,et al.Creatine synthesis:hepatic metabolism of guanidinoac etate and creatine in the rat in vitro and in vivo[J].American Journal of Physiology-Endocrinology and Metabolism,2009,296(2):E256-E261. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15]DA SILVA R,CLOW K,BROSNAN J T,et al.Synthesis of guanidinoacetate and creatine from amino acids by rat pancreas[J].British Journal of Nutrition,2014,111(4):571-577. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]KOMOTO J,TAKATA Y,YAMADA T,et al.Monoclinic guanidinoacetate methyltransferase and gadolini um ion-binding characteristics[J].Acta Crystallographica,2003,59(Pt 9):1589-1596. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17]KOMOTO J,YAMADA T,TAKATA Y,et al.Catalytic mechanism of guanidinoacetate methyltransferase: crystal structures of guanidinoacetate methyltransferase ternary complexes[J].Biochemistry,2004,43(45):1 4385-14394. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]SCHMIDT A,MARESCAU B,BOEHM E A,et al.Severely altered guanidino compound levels,disturbe d body weight homeostasis and impaired fertility in a mouse model of guanidinoacetate N-methyltrans ferase (GAMT) deficiency[J].Human Molecular Genetics,2004,13(9):905-921. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19]CHOE C U,NABUURS C,STOCKEBRAND M C,et al.L-arginine:glycine amidinotransferase deficienc y protects from metabolic syndrome[J].Human Molecular Genetics,2013,22(1):110-123. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20]TACHIKAWA M,FUJINAWA J,TAKAHASHI M,et al.Expression and possible role of creatine transpo rter in the brain and at the blood-cerebrospinal fluid barrier as a transporting protein of guanidinoacet ate,an endogenous convulsant[J].Journal of Neurochemistry,20o8,107(3):768-778. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21]TACHIKAWA M,KASAI Y,YOKOYAMA R,et al.The blood-brain barrier transport and cerebral distri bution of guanidinoacetate in rats:involvement of creatine and taurine transporters[J].Journal of Neuroc hemistry,2009,111(2):499-509. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22]OSTOJIC S M.A new perspective to improve brain bioenergetics in disorders with functional GAMT and CT1[J].Biomedicine & Pharmacotherapy,2016,84:1833. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23]TACHIKAWA M,IKEDA S,FUJINAWA J,et al.γ-aminobutyric acid transporter 2 mediates the hepatic uptake of guanidinoacetate,the creatine biosynthetic precursor,in rats[J].PLoS One,20l2,7(2):e32557. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]SHARIDEH H,ESMAEILE N L,ZAGHARI M,et al.Effect of feeding guanidinoacetic acid and L-argi nine on the fertility rate and sperm penetration in the perivitelline layer of aged broiler breeder hens [J.Journal of Animal Physiology and Animal Nutrition,2016,100(2):316-322. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]TAPEH R S,ZHANDI M,ZAGHARI M,et al.Effects of guanidinoacetic acid diet supplementation on semen quality and fertility of broiler breeder roosters[J].Theriogenology,20l7,89:178-182. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26]MURAKAMI A E,RODRIGUEIRO R J B,SANTOS T C,et al.Effects of dietary supplementation of meat-type quail breeders with guanidinoacetic acid on their reproductive parameters and progeny perfo rmance[J].Poultry Science,2014,93(9):2237-2244. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27]RINGEL J,LEMME A,KNOX A,et al.Efects of graded levels of creatine and guanidino acetic acid i n vegetable-based diets on performance and biochemical parameters in muscle tissue[C]//Proceedings o f the 16th European symposium on poultry nutrition,[S.l.]:[s.n.],2007:387-390. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28]MCBREAIRTY L E,ROBINSON JL,FURLONG K R,et al.Guanidinoacetate is more effective than c reatine at enhancing tissue creatine stores while consequently limiting methionine availability in Yucat an miniature pigs[J].PLoS One,2015,10(6):e0131563. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29]RINGEL J,LEMME A,REDSHAW M S,et al.The effects of supplemental guanidino acetic acid as a precursor of creatine in vegetable broiler diets on performance and carcass parameters[J].Poultry Scien ce,2008,87:72-72. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30]OSTOJIC S M.Cellular bioenergetics of guanidinoacetic acid:the role of mitochondria[J].Journal of B ioenergetics & Biomembranes,2015,47(5):369-372. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31]洑琴,乔丽红,唐志刚,等.胍基乙酸对建鲤生产性能、体成分及肌肉能量代谢关键酶的影响[J].中国粮油学报,2015,30(3):85-89.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32]李洁蕾,郝月,顾宪红.胍基乙酸对保育猪生长性能、抗氧化能力和糖代谢关键酶的影响[J].动物营养学报,2017(10):2773-2780.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33]MICHIELS J,MAERTENS L,BUYSE J,et al.Supplementation of guanidinoacetic acid to broiler diets: effects on performance,carcasscharacteristics,meat quality,and energy metabolism[J].Poultry Science,201 2,91(2):402-412. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34] CASEY A,GREENHAFF P L.Does dietary creatine supplementation play a role in skeletal muscle m etabolism and performance?[J].The American Journal of Clinical Nutrition,2000,72(2):607S-617S. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[35]孙正武.磷酸肌酸通过调节线粒体氧化磷酸化对抗脂多糖诱导的人脐静脉细胞凋亡[D].硕士学位论文.大连:大连医科大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[36] WANG L S,SHI B M,SHAN A S,et al.Efects of guanidinoacetic acid on growth performance,meat quality and antioxidation in growing-finishing pigs[J].Journal of Animal and Veterinary Advances,2012, 11(5):631-636.   \n[37]李洁蕾,郝月,崔艳军,等.胍基乙酸的代谢过程及其在畜禽生产中的作用[C]//中国畜牧兽医学会动物福 利与健康养殖分会成立大会暨首届规模化健康与福利养猪高峰学术论坛论文集.泰安:中国畜牧兽医学 会动物福利与健康养殖分会筹委会,2015.   \n[38]LAWLER J M,BARNES W S,WU G Y,et al.Direct antioxidant propertiesof creatine[J].Biochemical and Biophysical Research Communications,2002,290(1):47-52.   \n[39]GUIDI C,POTENZA L,SESTILI P,et al.Differential effect of creatine on oxidatively-injured mitochon drial and nuclear DNA[J].Biochimica et Biophysica Acta(BBA)-General Subjects,2008,1780(1):16-26.   \n[40]赵力,李琦,李午生,等.磷酸肌酸对阿霉素致大鼠心肌损伤的保护作用及其抗细胞凋亡的实验研究[J].中 国医学工程,2011,19(8):5-8,14.   \n[41]WU G,MEININGER C J.Arginine nutrition and cardiovascular function (Reprinted from vol 130,pg 2626,2000)[J].Journal of Nutrition,2002,132(Suppl.12):2626-2629.   \n[42]LEMME A,RINGEL J,STERK A,et al.Supplemental guanidino acetic acid afects energy metabolism of broilers[C]//Proceedings of the 16th European symposium on poultry nutrition,[S.1.]:[s.n.],2007:339-3 42.   \n[43]MOUSAVI S N,AFSAR A,LOTFOLLAHIAN H.Effects of guanidinoacetic acid supplementation to br oiler diets with varying energy contents[J].The Journal of Applied Poultry Research,2013,22(1):47-54.   \n[44] 江涛.胍基乙酸的合成及其对肉鸡生长性能和血液理化指标的影响[D].硕士毕业论文.合肥:安徽农业大 学,2012:1-41   \n[45]王欢,王为雄,汪宏云,等.胍基乙酸在育肥猪中应用效果研究[J].粮食与饲料工业,2015,12(3):47-49.   \n[46]张德福,李易明,田耀耀,等.胍基乙酸对猪生长性能和饲养经济效益的影响[J].中国饲料,2016(18):29-31,3 5.   \n[47]潘宝海,孙冬岩,田耀耀.胍基乙酸对育肥猪生长性能、胴体品质及肉品质的影响[J].中国畜牧杂志,2016, 52(19):38-41.   \n[48]BAKER D H.Advances in protein-amino acid nutrition of poultry[J].Amino Acids,2009,37(1):29-41.   \n[49]EMAMI N M,GOLIAN A,RHOADS D D,et al.Interactive effects of temperature and dietary supplem entation of arginine or guanidinoacetic acid on nutritional and physiological responses in male broiler chickens[J].British Poultry Science,2017,58(1):87-94.   \n[50]EDISON E E,BROSNAN M E,MEYER C,et al.Creatine synthesis:production of guanidinoacetate by therat and human kidney in vivo[J].American Journal of Physiology-Renal Physiology,2007,293(6):F17 99-F1804.   \n[51]王亚琼,刘强,姜发彬,等.胍基乙酸对樱桃谷肉鸭生产性能和抗氧化能力的影响[J].南京农业大学学报,20 16,39(2):269-274.   \n[52]祁永旺,王昕陟,侯华,等.胍基乙酸对育肥猪生产性能和胴体品质的影响[J].黑龙江畜牧兽医,2011(6):65- 66.   \n[53]刘洋,李蛟龙,张林,等.胍基乙酸和甜菜碱对育肥猪肌肉能量代谢和肉品质的影响[J].畜牧兽医学报,2015, 46(9):1557-1563.   \n[54]陈政宽,张俊玲,田耀耀,等.胍基乙酸对育肥猪胴体性状和肉品质的影响[J].饲料博览,2017(12):18-21.   \n[55]RAHMAN M S,AL-FARSI S A.Instrumental texture profile analysis (TPA) of date flesh as a functi on of moisture contene[J].Journal of Food Engineering,2005,66(4):505-511.   \n[56]SCHEFFLER T L,GERRARD D E.Mechanisms controlling pork quality development:the biochemistr y controlling postmortem energy metabolism[J].Meat Science,2007,77(1):7-16. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Physiological Action and Mechanism of Guanidine acetic acid and Its Application in Broiler chickens and Pigs Productioni ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BAN Bo JIANG Qingyou YANG Tai TIAN Kexiong (1. College of Animal Science, Hunan Agricultural University， Changsha 410128,China;2. Hunan Co-Inn ovation Center of Animal Production Safety, Changsha 410128, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Guanidine acetic acid,a new nutritive feed additive,which has the certain effects on improving the production performance ofbroiler chickens and pigs,promoting energy metabolism, accelerating protein deposition, improving antioxidant capacity，and improving meat quality. Thisarticle reviews the metabolic pathways, physiological effects and mechanisms of guanidine acetic acid,as wellas the latest advances in the production performance and meat quality of broiler chickens and pigs,with a view to providing references for the further ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "research and exploration of guanidine acetic acid. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: guanidine acetic acid; metabolism; production performance; meat quality; broiler chickens; pigs ",
+        "page_idx": 10
+    }
+]

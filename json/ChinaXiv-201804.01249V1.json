@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "text": "Negligible effect of tooth reduction on body mass in Mesozoic birds ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Ya-Chun1,2 Corwin SULLIVAN3,4 ZHANG Fu-Cheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionandHumanOriginsofChineseAcademyofciences,InstituteofVertebrat Paleontology andPaleoanthropology,Chinese Academy of Sciences Beijingl0oo44,China)   \n(2 University of Chinese Academy of Sciences Beijing 10oo49,China zhouyachun@ivpp.ac.cn)   \n(3DepartmentofBiological Sciences,UniversityofAlberta Edmonton,AlbertaT6G2E9,Canada)   \n(4PhilipJ.CurrieDinosaur Museum Wembley,Alberta TOH3S0,Canada)   \n(5Institute of Geology and Paleontology,Linyi University Linyi,Shandong276ooo,China \\* Corresponding author: zhangfucheng@ivpp.ac.cn, zhangfucheng@lyu.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractTooth reduction and loss was an important evolutionary process in Mesozoic birds. Analysis of evolutionary trends in the total mass of the dentition,a function of tooth size and tooth number, has the potential to shed light on the evolutionary pattern of tooth reduction and loss, and on the causes of this pattern.Because modern birds lack teeth,however, they cannot provide the basis for a model that would allow estimation of tooth masses in their Mesozoic counterparts. We selected the teeth of crocodilians as analogues of those in Mesozoic birds because the former are the closest living relatives of the later,and the two groups are similar in tooth morphology, tooth implantation,and tooth replacement pattern.To estimate tooth masses in Mesozoic birds, we formulated four regression equations relating tooth mass to various linear dimensions,which were measured in 31 intact isolated teeth from eight individual crocodiles (Crocodylus siamensis).The results for Mesozoic birds show that dental mass as a proportion of body mass was negligible,at least from the perspective of flight performance, suggesting that selection pressure favoring body mass reduction was probably not the primary driver of tooth reduction or loss. Variations in dental mass among Mesozoic birds may reflect the different foods they ate,and the different types of feeding behavior they displayed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Mesozoic birds; dental reduction; tooth mass; body mass,feeding behavior ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Zhou Y C,Sullivan C,Zhang F C.Negligible effect of tooth reduction on body mass in Mesozoic birds.VertebrataPalAsiatica,DOI:10.19615/j.cnki.1000-3118.180307 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tooth loss in Mesozoic birds has traditionally been regarded as a phenomenon driven at least in part by the need to improve flight performance by reducing the mass of the body, and particularly of body parts situated far from the center of gravity (Dilger,1957; Proctor and Lynch,1998; Feduccia,1999; Zhou et al., 2009; Louchart and Viriot, 2011).However, some recent studies (Zheng et al., 2011, 2014a) have linked tooth loss to dietary changes,and evodevo results even demonstrated the tooth reduction seen in early birds was correlated with the evolutionary origin of beaks (Wang et al., 2O17), implying that the mass reduction hypothesis requires critical reevaluation.Tooth loss occurred independently in several early avian lineages (Zhou and Zhang,2006; Zhou et al.,2009; Davit-Béal et al.,2009),suggesting that reduction and eventual disappearance of the dentition might have conferred some broadly applicable selective advantage.Among toothed Mesozoic birds, the teeth vary widely in both number and size, indicating that tooth reduction was a gradual and not necessarily monotonic process. For example, Hesperornis had up to 47 teeth in the mouth (Marsh,1880; Gregory,1951),whereas Jeholornis palmapenis may have had only one or two maxillary teeth on either side of the skull (O'Connor et al, 2012). The crown height of the teeth is $1 . 2 \\mathrm { - } 1 . 3 ~ \\mathrm { m m }$ in Archaeopteryx (London specimen, humerus length: $7 4 . 6 \\mathrm { m m }$ ; Wellnhofer, 2009),but only about $0 . 1 \\mathrm { m m }$ in the admittedly smaller Longirostravis (humerus length: $2 4 . 0 \\ \\mathrm { m m }$ ; Hou et al.,2004). However, the pattern of variation in tooth size and number across individual Mesozoic bird species has never been examined in detail. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here we investigate tooth reduction using a more quantitative approach than has been brought to bear in previous studies (Dilger,1957; Proctor and Lynch,1998; Feduccia, 1999; Zhou et al., 20o9).The parameter of interest is the total mass of the dentition, a function of both tooth number and average tooth size, as a proportion of body mass. This study aims to estimate the relative mass of the dentition in a range of Mesozoic birds, including representatives of key avian clades,in order to both assess the degree to which the dentition contributed to body mass across early birds in general and evaluate patterns of variation in relative dental mass within Aves. The results will shed light on the plausibility of the two underlying assumptions of the hypothesis that tooth loss in birds was driven primarily by selection for reduced body mass, namely that the teeth of the basalmost birds were massive enough to afect flight performance and that tooth mass was gradually reduced in proportional terms as flight capability improved.4 To the best of our knowledge,the analysis described here is the first to use empirically-derived estimates of the total mass of the dentition in a range of Mesozoic birds to explore the issue of tooth reduction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Institutional abbreviationIVPP, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Fossil taxa ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mesozoic birds vary widely with respect to quality and mode of preservation, but for this study we focused on taxa represented by at least one specimen in which the teeth could be accurately counted and measured.A total of 15 specimens with well-preserved dentitions, representing 11 avian taxa, were measured for this analysis (Table 1).The number of teeth that could be measured in these specimens varied from only one in Jeholornis IVPP V 14978 (2 or 3 teeth on each side of mouth during life; Zhou and Zhang,2Oo3) to 14 in Longusunguis IVPP V 17964 (approximately 10 teeth on each side of the mouth during life; Wang et al.,2014). In most cases the measurements were taken directly from the fossils,but measurements for two specimens of Archaeopteryx were taken from published figures (Wellnhofer,2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/19c3218903978122915e36d65147c89daf5f2cf6e94a001d5c9657eb83c0f80e.jpg",
+        "table_caption": [
+            "Table1 Fossil birds and dentition (both sides) measured in this study "
+        ],
+        "table_footnote": [
+            "Notes: \\* measurements taken from figures in Wellnhofer (2009). "
+        ],
+        "table_body": "<html><body><table><tr><td>Taxon</td><td></td><td>Premaxillary teeth</td><td>Maxillary teeth</td><td>Dentary teeth</td></tr><tr><td>Archaeopteryx</td><td>London specimen*</td><td>1</td><td>3</td><td>0</td></tr><tr><td></td><td>Berlin specimen*</td><td>4</td><td>2</td><td>2</td></tr><tr><td rowspan=\"2\">Jeholornis</td><td>IVPPV13274</td><td>0</td><td>0</td><td>3</td></tr><tr><td>IVPPV14978</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Sapeornis</td><td>IVPPV13275</td><td>3</td><td>1</td><td>0</td></tr><tr><td></td><td>IVPPV13276</td><td>4</td><td>4</td><td>0</td></tr><tr><td>Longipteryx va</td><td>IVPPV12325</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Longirostravis</td><td>IVPPV11309</td><td>4</td><td>0</td><td>5</td></tr><tr><td>Pengornis</td><td>IVPPV15336</td><td>1</td><td>2</td><td>1</td></tr><tr><td>Cathayornis</td><td>IVPPV9769</td><td>3</td><td>0</td><td>2</td></tr><tr><td>Eoenantiornis</td><td>IVPPV10533</td><td>4</td><td>0</td><td>0</td></tr><tr><td>Longusunguis</td><td>IVPPV 17964</td><td>3</td><td>1</td><td>10</td></tr><tr><td>Parabohaiornis</td><td>IVPPV 18691</td><td>3</td><td>4</td><td>6</td></tr><tr><td>Bohaiornis</td><td> IVPP V 17963</td><td>4</td><td>2</td><td>6</td></tr><tr><td>Yanornis</td><td>IVPPV12558</td><td>2</td><td>3</td><td>4</td></tr><tr><td>Tianyuornis</td><td>STM7-53</td><td>0</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 General approach to estimating dental mass in Mesozoic birds ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tooth masses cannot be measured directly in fossil yertebrates,even when isolated teeth are available, because the process of fossilization may alter the density of the hard tissues comprising the tooth (Rink and Hunter,1997) and involve mineral infilling of pore spaces that would be occupied in life by fluids and soft tissues. Given this constraint, the ideal approach would perhaps be to use the volume of a fossil tooth, combined with data on tooth density from modern vertebrates,as a basis for estimating the tooth's original mass in the living animal. This would be possible for complete, isolated teeth,but in the case of slab specimens would require that the dentition (including the tooth roots) be either excavated out of the jaws and surrounding matrix by a preparator or imaged three-dimensionally using a technique such as $\\mu { }$ CT scanning. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given time constraints and the technical difficulties involved in scanning large slab specimens with sufficiently high resolution, the more practical alternative is to use a regression approach to investigate the relationship between linear tooth dimensions and tooth mass in a living vertebrate whose teeth resemble those of Mesozoic birds.Linear measurements of the teeth of Mesozoic birds can then be exploited as a basis for estimating their masses.Regression analyses are widely used to estimate body mass in extinct animals (Bakker, 1972; Anderson, 1985; Christiansen and Farina,2004; Campione and Evans,2012; Campione et al.,2014),and a parallel methodology can be applied to the dentition alone.Because of their edentulous jaws, modern birds cannot serve as living analogues to their Mesozoic counterparts in this type of analysis.However, crocodilians are the closest living relatives of birds (Green et al.,2O14),and broadly resemble Mesozoic toothed birds in the morphology,replacement pattern, and mode of implantation of the dentition (Martin et al.,1980).Accordingly, this study establishes statistical relationships between tooth linear measurements and tooth mass derived from isolated teeth of the extant Siamese crocodile (Crocodylus siamensis),and uses these relationships to estimate the total tooth masses of Mesozoic bird specimens from the linear dimensions of the preserved teeth. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Derivation of regression functions from measurements of Crocodylus siamensis teeth ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We measured 31 isolated teeth (tooth height: $9 . 1 1 - 1 8 . 9 \\ \\mathrm { m m }$ ，Table S1） from eight individual immature Siamese crocodile skeletons (Crocodylus siamensis; total skeletal length 1.3 m) housed at the IVPP, in order to examine the quantitative relationships between the linear dimensions of the teeth (determined by taking photos and measuring distances on the images) and their masses (determined using a Sartorius ME5 microbalance). Measurements taken included crown height (CH), tooth height (TH), fore-aft-crown-length (FACL), fore-aftbasal-length (FABL) and fore-aft-root-length (FARL) (Fig. 1). The positions of the individual teeth within the dentitions of the eight individuals are unknown, because the teeth were ones that had dropped out of the jaws as the crocodile skeletons were shipped to the IVPP from a crocodile farm in Fujian Province, China. However, the teeth did not include any of the enlarged fangs that occur near the front of the mouth in crocodilians. The skeletons were individually packaged, making it possible to determine which teeth came from each individual in the sample. Because of hybridization practices in the crocodile farming industry, it is possible that the specimens are not pure C. siamensis but rather contain some genetic input from the salt-water crocodile (C. porosus) and/or other Crocodylus species.In the American alligator (Alligator mississippiensis), the tooth crowns tend to become more robust during ontogeny (Erickson et al., 2003), and similar changes may occur at least to some degree in Crocodylus. For this reason, the immature Crocodylus teeth used in this study probably represent better analogues for Mesozoic bird teeth, which are relatively slender, than would the teeth of older Crocodylus individuals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Least-squares regression equations were fitted to the log-transformed measurement data in order to establish relationships between various linear dimensions and mass for the teeth of $C$ ，siamensis. We carried out bivariate regressions of mass as a dependent factor against allfive linear measurements as independent factors, as well as ten multiple regressions that each incorporated two linear measurements as independent factors (Table 2). Carrying out ten multiple regressions enabled us to test every possible combination of two linear measurements. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A p-value was calculated as a metric for the statistical significance of each regression model (Table 2) and its corresponding equation, and $\\mathrm { R } ^ { 2 }$ was calculated as a measure of the amount of variation in the $C .$ siamensis tooth masses that could be explained by the model. For multiple regressions,a separate $\\mathfrak { p }$ -value was associated with each linear measurement, but a single $\\textstyle \\mathrm { R } ^ { 2 }$ was calculated for the regression model as a whole. The regression models with the lowest p-values and highest $\\textstyle \\mathrm { R } ^ { 2 }$ were selected as a basis for estimating tooth masses in Mesozoic birds. Specifically, regression models in which at least one linear measurement was associated with a p-value greater than or equal to O.O1 were immediately eliminated from consideration. The remaining models with acceptable p-values included all five bivariate models, in addition to the multiple regresson model based on TH and FARL.Among these models,the TH and TH & FARL models exhibited the highest $\\textstyle \\mathrm { R } ^ { 2 }$ values (0.822 and 0.887, respectively)and were accepted for inclusion in the Mesozoic bird analysis.The next highest $\\boldsymbol { \\mathrm { R } } ^ { 2 }$ values were associated with the FABL and FARL models (0.636 and O.649, respectively) and these models were also accepted given that FABL can be measured in many Mesozoic bird teeth whereas TH is impossible to measure in teeth with broken apices or concealed roots. Accordingly,a total of four regresson models (Table 3) were utilized in the next stage of the analysis,whereas all others were rejected. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ced666d40f44d372365cdef9803626a2e83a4cc366bfd93dcf407091f8959f27.jpg",
+        "img_caption": [
+            "Fig. 1 Linear measurements applied to bird and crocodilian teeth in this study A. isolated left premaxillary tooth of Archaeopteryx lithographica (London specimen; modified from Wellnhofer, 2009); B.isolated posterior tooth of Crocodylus siamensis (IVPP uncatalogued specimen). Dotted line: measurement line, solid line: indication line Abbreviations: CH. crown height; FABL.fore-aft-basic length; FACL. fore-aft-basic- length; FARL. fore-aft-root-length; TH. tooth height. Scale bars=1 mm "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c846b51ae645913f163663d1741b0a40b6c4e92955401b562e84a31704872a0.jpg",
+        "table_caption": [
+            "Table2 Regression results for Crocodylussiamensis tooth data "
+        ],
+        "table_footnote": [
+            "Notes:CH.crown height;FABL.fore-aft-basic-length;FACL.fore-aft-basic-length;FARL.fore-aftroot-length; TH. tooth height; M. mass. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>R²</td><td>intercept</td><td>slope</td><td></td><td></td><td>p-value</td></tr><tr><td>M-CH</td><td>0.423</td><td>1.081</td><td>1.483</td><td></td><td>0.000</td><td></td></tr><tr><td>M-TH</td><td>0.822</td><td>-0.276</td><td></td><td>2.180</td><td>0.000</td><td></td></tr><tr><td>M-FACL</td><td>0.595</td><td>0.693</td><td></td><td>2.366</td><td>0.000</td><td></td></tr><tr><td>M-FABL</td><td>0.636</td><td>0.913</td><td></td><td>2.278</td><td>0.000</td><td></td></tr><tr><td>M-FARL</td><td>0.649</td><td>0.522</td><td></td><td>2.168</td><td>0.000</td><td></td></tr><tr><td>M-(TH& FARL)</td><td>0.887</td><td>-0.346</td><td>1.606 (TH)</td><td>0.940 (FARL)</td><td>0.000 (TH)</td><td>0.000 (FARL)</td></tr><tr><td>M-(CH& TH)</td><td>0.855</td><td>-0.463</td><td>-0.749 (CH)</td><td>2.836 (TH)</td><td>0.017 (CH)</td><td>0.000 (TH)</td></tr><tr><td>M-(TH& FABL)</td><td>0.850</td><td>-0.153</td><td>1.710 (TH)</td><td>0.735 (FABL)</td><td>0.000 (TH)</td><td>0.030 (FABL)</td></tr><tr><td>M-(TH& FACL)</td><td>0.838</td><td>-0.249</td><td>1.821 (TH)</td><td>0.603 (FACL)</td><td>0.000 (TH)</td><td>0.103 (FACL)</td></tr><tr><td>M-(FABL & FARL)</td><td>0.703</td><td>0.571</td><td>1.187 (FABL)</td><td>1.243 (FARL)</td><td>0.031 (FABL)</td><td>0.018 (FARL)</td></tr><tr><td>M-(CH&FARL)</td><td>0.699</td><td>0.389</td><td>0.628 (CH)</td><td>1.738 (FARL)</td><td>0.039 (CH)</td><td>0.000 (FARL)</td></tr><tr><td>M-(FACL& FARL)</td><td>0.671</td><td>0.425</td><td>1.080 (FACL)</td><td>1.409 (FARL)</td><td>0.054 (FACL)</td><td>0.006 (FARL)</td></tr><tr><td>M-(CH& FABL)</td><td>0.636</td><td>0.904</td><td>0.50 (CH)</td><td>2.227 (FABL)</td><td>0.910 (CH)</td><td>0.000 (FACL)</td></tr><tr><td>M-(FACL & FABL)</td><td>0.636</td><td>0.883</td><td>0.229 (FACL)</td><td>2.074 (FABL)</td><td>0.854 (FACL)</td><td>0.084 (FABL)</td></tr><tr><td>M-(CH& FACL)</td><td>0.596</td><td>0.686</td><td>0.148 (CH)</td><td>2.204 (FACL)</td><td>0.757(CH)</td><td>0.002 (FACL)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/540d7013e76332e2e223a7ea5662118e64bfb14ff7c8d75f694cb82b0e2455e5.jpg",
+        "table_caption": [
+            "Table 3Four least-squares regression models used to generate tooth mass estimates for Mesozoic birds "
+        ],
+        "table_footnote": [
+            "AbbreviationsasinTable2. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Model</td><td>R²</td><td>Function</td></tr><tr><td>va</td><td>M-(TH& FARL)</td><td>0.887</td><td>Log10Mass=-0.346+1.606log10TH+0.940log10FARL</td></tr><tr><td></td><td>M-TH</td><td>0.822</td><td>Log10Mass=-0.276+2.180log10oTH</td></tr><tr><td></td><td>M-FARL</td><td>0.649</td><td>Log10Mass=0.522+2.168log10FARL</td></tr><tr><td></td><td>M-FABL</td><td>0.636</td><td>Log10Mass=0.913+2.278log10FABL</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 Estimation of dental masses in Mesozoic birds ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We used the regression equations selected during the previous stage of the analysis (Table 3) as the basis for calculating an ayerage total tooth mass (ATTM, sample calculations for London Archaeopteryx given in Table 4) for each Mesozoic bird specimen included in our study.The three steps described below were repeated separately for each of the four regression equations, producing four alternative ATTM values per specimen. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1) We measured the linear dimension(s) (Table S2) on which the regression equation was based in as many preserved teeth as possible. The regression equation was then used to produce a single tooth mass (STM) estimate for each measured tooth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2) All STM values were averaged to calculate the specimen's average single tooth mass4 (ASTM, Table S3). 3） Minimum and maximum counts of the total number of teeth in the mouth (based on the observation of number of visible teeth and alveoli in this work, or interpreted in the light of previous work) were estimated for the specimen and then average to produce a final estimated tooth number. The ASTM value was multiplied by the estimated tooth number to obtain an average total tooth mass (ATTM, Table S3), which was retained as the optimal estimate of the total mass of the specimen's dentition produced by the equation. Although it would have been preferable in principle to estimate the STM of every individual tooth in the mouth and then sum the STMs to produce a total mass estimate, this approach was not feasible because in most specimens some teeth were broken, unerupted or simply missing. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To account for body size,each ATTM value was then divided by the estimated body mass (Table 5) of the specimen in question to produce a relative average total tooth mass (R-ATTM).Body mass was estimated using a regression equation $\\mathrm { ( L o g _ { 1 0 } B M = - 0 . 7 6 2 8 0 4 + }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 . 7 3 3 2 8 2 \\mathrm { l o g } _ { 1 0 } \\mathrm { H u m L } \\backslash$ ）based on humeral length (Liu et al.,2O12),where BMis body mass in grams and HumL is humeral length in millimeters. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/790004e51348ead44240029cf3d204150725164e249cb60b868ae58399298b8b.jpg",
+        "table_caption": [
+            "Table 4 Average total tooth mass(ATTM) estimates for the London Archaeopteryx (London specimen) based on different regression equations "
+        ],
+        "table_footnote": [
+            "Notes:EN.estimated number of teeth (followed by range of plausible tooth number estimates, in parentheses); I: isolated; MT.maxillary teeth; PMT. premaxilary teeth; other abbreviations as in Table 2. "
+        ],
+        "table_body": "<html><body><table><tr><td>Taxon</td><td>Model</td><td>Teeth</td><td>STM (mg)</td><td>ASTM (mg)</td><td>Teeth (EN)</td><td>ATTM (mg)</td></tr><tr><td>Archaeopteryx</td><td>M-(TH& FARL)</td><td>I-PMT (1)</td><td>2.082</td><td>2.082</td><td>50</td><td>106.182</td></tr><tr><td>London specimen</td><td>M-TH</td><td>I-PMT (1)</td><td>4.667</td><td>4.667</td><td>50</td><td>238.527</td></tr><tr><td></td><td>M-FARL</td><td>I-PMT (1)</td><td>2.803</td><td>2.083</td><td>50</td><td>142.953</td></tr><tr><td></td><td>M-FABL</td><td>I-PMT (1)</td><td>1.845</td><td>3.091</td><td>50</td><td>157.679</td></tr><tr><td></td><td></td><td>MT (3)</td><td>3.457</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>3.550</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>3.515</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5449339e89361f2bce5435015a46fbd3a90d29c157f85cd809c2042f1e5621a.jpg",
+        "table_caption": [
+            "Table 5 Average total teeth mass (ATTM) values calculated for Mesozoic birds usingfour alternative regression models "
+        ],
+        "table_footnote": [
+            "Abbreviationsasin Table2. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Taxa</td><td colspan=\"4\">ATTM (mg)</td><td rowspan=\"2\">Body Mass (g) (M-Huml L)</td></tr><tr><td></td><td></td><td>(M-(TH& FARL)</td><td>(M-TH)</td><td>(M-FARL)</td><td>(M-FABL)</td></tr><tr><td>Archaeopteryx</td><td>London specimen</td><td>106.182</td><td>238.527</td><td>142.953</td><td>157.679</td><td>307.000</td></tr><tr><td rowspan=\"3\">Jeholornis</td><td>Berlin specimen</td><td></td><td></td><td></td><td>143.521</td><td>227.000</td></tr><tr><td>V13274</td><td></td><td></td><td></td><td>6.462</td><td>597.400</td></tr><tr><td>V14978</td><td></td><td></td><td></td><td>10.826</td><td>285.400</td></tr><tr><td>Sapeornis</td><td>V13275</td><td>onlin</td><td>80.496</td><td></td><td>70.148</td><td>680.600</td></tr><tr><td></td><td>V13276</td><td></td><td>111.254</td><td></td><td>141.115</td><td>712.900</td></tr><tr><td>Eoenantiornis</td><td>V10533</td><td>6.028</td><td>14.344</td><td>16.280</td><td>30.602</td><td>60.900</td></tr><tr><td>Cathayornis</td><td>V 9769</td><td></td><td></td><td></td><td>10.208</td><td>52.285</td></tr><tr><td>Pengornis</td><td>V15336</td><td>25.200</td><td>64.568</td><td>49.392</td><td>74.270</td><td>235.200</td></tr><tr><td>Longipteryx</td><td>V12325</td><td>47.976</td><td>67.956</td><td>109.392</td><td>60.132</td><td>126.700</td></tr><tr><td>Longirostravis</td><td>V11309</td><td>0.406</td><td>2.016</td><td>0.980</td><td>1.052</td><td>42.600</td></tr><tr><td>Longusunguis</td><td>V17964</td><td>37.336</td><td>58.872</td><td>50.016</td><td>64.680</td><td>104.627</td></tr><tr><td>Bohaiornis</td><td>V17963</td><td>59.883</td><td>179.886</td><td>54.705</td><td>144.550</td><td>153.636</td></tr><tr><td>Parabohaiornis</td><td>V18691</td><td>39.004</td><td>134.279</td><td>37.716</td><td>78.413</td><td>135.081</td></tr><tr><td>Yanornis</td><td>V12558</td><td>98.753</td><td>186.388</td><td>284.920</td><td>284.838</td><td>336.000</td></tr><tr><td>Tianyuornis</td><td>STM 7-53</td><td>7.775</td><td>22.971</td><td>14.664</td><td>17.602</td><td>43.545</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Average total tooth mass (ATTM) estimates for particular specimens varied widely across the four regression equations used in this study (Table 5),and this variation was unsystematic in the sense that no equation consistently produced larger estimates than any other. The inconsistency reflected variability in tooth shape among the Mesozoic birds included in the study,as each equation used different shape information as a basis for estimating tooth mass. The mass of a tall and slender tooth,for example, would likely have been overestimated by the TH equation and underestimated by the FABL and FARL equations, whereas the reverse would have been true for a tooth with short and robust proportions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Variation in dental mass estimates across taxa was also considerable.FABL-based estimates of ATTM, which are available for every specimen in the study because FABL was the easiest of the linear dimensions to measure,range from just over $1 ~ \\mathrm { m g }$ for the small enantiornithine Longirostravis V 11309 (estimated body mass $\\begin{array} { r } { 4 3 \\mathrm { ~ g ~ } } \\\\ { \\quad } \\end{array}$ to $2 8 5 ~ \\mathrm { m g }$ for the ornithuromorph Yanornis V 12558 (estimated body mass $3 3 6 ~ \\mathrm { g }$ ). Other regression equations also assigned the smallest ATTM values to Longirostravis. Only the FABL and FARL equations assigned the largest ATTM values to Yanornis,with the TH & FARL equation assigning a larger value to the London Archaeopteryx and the TH equation assigning larger values to both the London Archaeopteryx and Yanornis V 12558. Nevertheless,all four equations ranked Yanornis among the taxa with the most massive dentitions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Unsurprisingly, taxonomic variation in relative average total tooth mass (R-ATTM) (Table )is less extreme.Again using estimates derived from the FABL equation as an example, the smallest R-ATTM $( 0 . 0 1 1 \\text{‰}$ belongs to the large long-bony-tailed bird Jeholornis V 13274, while the largest $( 0 . 9 4 1 \\text{‰}$ )belongs to Bohaiornis V17963.The 86-fold difference in R-ATTM between Bohaiornis and Jeholornis is of course much less than the 27O-fold difference in ATTM between Yanornis and Longirostravis, reflecting the normalizing effect of dividing by body mass. It is also notable that the R-ATTM values produced by all four regression equations were rather small, with the estimated R-ATTM exceeding $1 . 0 0 0 \\text{‰}$ in only one case （ $1 . 1 7 1 \\text{‰}$ for Bohaiornis,using the TH-based equation) ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/523efa40f735b4ffe1c29f52eea2c6305edef9de2adfd079a9ef42b7c2dbff69.jpg",
+        "table_caption": [
+            "Table 6 Relative average total tooth mass (R-ATTM) values $( \\% 0 )$ calculated for Mesozoic birds using different regression models "
+        ],
+        "table_footnote": [
+            "Abbreviations as in Table2. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Taxa</td><td colspan=\"4\">OR-ATTM</td></tr><tr><td colspan=\"2\"></td><td>(M-(TH & FARL)</td><td>(M-TH)</td><td>(M-FARL)</td><td>(M-FABL)</td></tr><tr><td>Archaeopteryx</td><td>London specimen Berlin specimen</td><td>0.346</td><td>0.777</td><td>0.466 ■</td><td>0.514 0.632</td></tr><tr><td rowspan=\"3\">Jeholornis</td><td></td><td></td><td></td><td></td><td>0.011</td></tr><tr><td>V13274</td><td></td><td></td><td></td><td>0.038</td></tr><tr><td>V14978</td><td></td><td>0.118</td><td></td><td>0.103</td></tr><tr><td>Sapeornis</td><td>V 13275 V13276</td><td></td><td>0.156</td><td></td><td>0.198 中</td></tr><tr><td>Eoenantiornis</td><td>V10533</td><td>0.27</td><td>0.236</td><td>0.267</td><td>0.502</td></tr><tr><td>Cathayornis</td><td>V 9769</td><td></td><td></td><td></td><td>0.195</td></tr><tr><td>Pengornis</td><td>V15336</td><td>0.107</td><td>0.275</td><td>0.210</td><td>0.316</td></tr><tr><td>Longipteryx</td><td>V12325</td><td>0.379</td><td>0.536</td><td>0.863</td><td>0.475</td></tr><tr><td>Longirostravis</td><td>V11309</td><td>0.010</td><td>0.047</td><td>0.023</td><td>0.025</td></tr><tr><td>Longusunguis</td><td>V 17964</td><td>0.261</td><td>0.563</td><td>0.478</td><td>0.618</td></tr><tr><td>Bohaiornis</td><td>V17963</td><td>0.390</td><td>1.171</td><td>0.356</td><td>0.941</td></tr><tr><td>Parabohaiornis</td><td>V18691</td><td>0.289</td><td>0.994</td><td>0.405</td><td>0.580</td></tr><tr><td>Yanornis</td><td>V12558</td><td>0.294</td><td>0.555</td><td>0.848</td><td>0.848</td></tr><tr><td>Tianyuornis</td><td>STM7-53</td><td>0.179</td><td>0.528</td><td>0.337</td><td>0.404</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The large and unsystematic variation in the mass estimates produced by the four regression equations suggests that the Mesozoic birds in our analysis vary widely in their tooth ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "proportions,relative to both extant crocodilians and each other.Nevertheless,the results of the regression equations contain some clear and evidently meaningful patterns. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 ATTMvaluesforfossil birds ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The wide differences in ATTM estimates for the fossil birds in the analysis are partly driven by variation in body size,with larger taxa generally tending to have larger dentitions. However, our sample included significant exceptions such as Jeholornis,a relatively large bird with a small dentition,and ATTM values are often informative regarding the nature of the dentition despite the influence of size. Yanornis,for which large ATTM estimates were recovered by allfour regression equations,was estimated to have about 68 teeth in the mouth (Zhou and Zhang, 2001; Zheng et al.,2014a),and our measurements indicated that these teeth are fairly large (CH: 0.649-1.312 mm).By contrast, the smallest ATTM estimates were consistently recovered for Longirostravis (CH: 0.070-0.145 mm), in which we estimate 14 teeth to have been present in the mouth although only 10 are actually preserved (Hou et al., 2004). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 R-ATTM, a measure of proportional tooth mass ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "By representing tooth mass as a proportion of body mass, R-ATTM reveals meaningful patterns of tooth mass distribution among Mesozoic birds of varying sizes more clearly than does ATTM. The fact that all taxa were found to have R-ATTM values of less than $1 . 2 \\text{‰}$ ， regardless of the regression model used, is/important because of the improbability that an increment or decrement of ${ \\sim } 1 \\text{‰}$ of a bird's body mass would have any detectable impact on its flight capability. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abundant observations suggest living birds can function as capable fliers even when carrying objects considerably heavier than $1 \\text{‰}$ of body mass, as exemplified by the findings of Yosef (1993) with respect to the carnivorous passerine Lanius ludovicianus (loggerhead shrike). When experimentally offered mice, shrike with an average body mass of 48 g were able to transport mice averaging $ { 1 8 \\mathrm { ~ g ~ } }$ in mass an average distance of $6 5 \\mathrm { ~ m ~ }$ using the beak, and were able to transport mice averaging $4 0 \\ \\mathrm { g }$ an average of $3 5 \\mathrm { ~ m ~ }$ using the pedal claws. Prey carried using the feet ranged up to $12 9 \\%$ ,and prey carried in the beak up to $64 \\%$ ,of the average shrike body mass reported in the study.Although the masses carried by the shrikes clearly did reduce their capacity for sustained flight, their ability to transport prey items of large proportional mass over considerable distances nevertheless suggests that a burden amounting to $\\sim 1 \\text{‰}$ of body mass would have a negligible impact on flight performance. It is particularly notable that the shrikes were able to fly for tens of meters while carrying large prey items in their beaks,as this undermines otherwise plausible arguments that selection strongly favored dental reduction because the position of the teeth far anterior to the center of gravity caused them to exert a large, destabilizing torque during flight (Zhou et al., 2009). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Studies of birds of prey with body masses considerably greater than that of the loggerhead shrike also indicate that sizeable loads can be carried with little impact on flight performance. Videler et al. (1988a, b) applied artificial loads exceeding $30 \\%$ of body mass to the hindlimbs of a female and a male kestrel (Falco tinnunculus), whose respective body masses were ${ \\sim } 1 9 0$ g and ${ \\sim } 1 6 0 ~ \\mathrm { g }$ .Over a flight distance of $1 2 5 \\mathrm { ~ m ~ }$ ,these loads caused a reduction in cruising speed of less than $7 \\%$ for the male kestrel and less than $10 \\%$ for the female kestrel, compared to unloaded runs.Pennycuick et al.(1989) found that two female Harris' hawks (Parabuteo unicinctus) with body masses of about $9 2 0 ~ \\mathrm { g }$ were both able to fly a $5 0 ~ \\mathrm { m }$ course with loads amounting to about $68 \\%$ of body mass applied to their torsos,although when loaded to this degree they were unable to climb. Climbing flight was possible with loads approaching $50 \\%$ of body mass,though climbing speed decreased sharply as load increased.These examples not only reinforce the observation that extant birds remain capable fliers while carrying loads that exceed ${ \\sim } 1 \\text{‰}$ by orders of magnitude,but show that this result applies to birds that span a fairly wide range of body sizes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Apart from the ability of birds to fly while carrying external burdens, species such as the bobolink (Dolichonyx oryzivorus) (Zheng,1995) and Alaskan bar-tailed godwit (Limosa lapponica) (Pennycuick, 2o08) put on additional fat that may increase body mass by more than $50 \\%$ before embarking on long-distance migrations. The added mass inevitably affects the birds’ flight performance during the early part of the migration by increasing their minimum power speed (Pennycuick, 2008), but they can nevertheless cover extremely large distances （ $1 0 3 0 0 ~ \\mathrm { k m }$ ； Pennycuick, 20o8) while their mass is significantly elevated. Although we are unaware of any compelling evidence that any Mesozoic birds engaged in aerial migrations, the ability of some modern species to do so while carrying vast reserves of body fat suggests that the mass of the dentition would have had only a trivial effect on performance and the energetic cost of transport even if Mesozoic birds sometimes flew for considerable distances. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the mass of the gizzard stones in some living birds is approximately $1 \\%$ of body mass (Wings and Sander, 2O07), making them about an order of magnitude heavier in proportional terms than the dentition of any Mesozoic bird considered in our study. If gizzard stones are in some sense a functional replacement for teeth, the change from dental to gastricl trituration has increased rather than reduced the mass of the body and its contents,although it has admittedly also concentrated the body's mass closer to the center of gravity. The Mesozoic birds Sapeornis (Zhou and Zhang, 2003; Zheng et al.,2011), Bohaiornis (Li et al.,2014) and Yanornis (Zhou et al., 2004) in fact possess both gizzard stones and teeth,and it is striking that the non-ornithothoracine Sapeornis in particular could apparently fly adequately with both types of triturating apparatus in place despite lacking the ossified sternum and elongate coracoid (Zheng et al., 2O14b) seen in more aerially capable avians. While some other nonornithothoracine birds do possess an ossified sternum and elongate coracoid, a number of additional derived, apparently flight-related features are restricted to ornithothoracines, including a triosseal canal and a well-developed sternal keel (Brusatte et al.,2O15). Mesozoic ornithuromorphs and to some degree enantiornithines may have broadly resembled typical extant birds in their mode of flight, but non-ornithothoracine birds including Sapeornis were clearly less well adapted to aerial locomotion. It is possible,and indeed likely, that nonornithothoracine birds were somewhat more easily impaired by loads than their modern counterparts. Nevertheless, the occurrence of both gastroliths and teeth in Sapeornis,a nonornithothoracine bird that was probably a particularly weak flier, suggests that the mass of the triturating apparatus was not a major target of selection pressure even in birds of this grade. More broadly, the impressive load-carrying capabilities of extant birds strongly imply that a dentition making up no more than $\\sim 1 \\text{‰}$ of body mass would not have significantly encumbered even non-ornithothoracines,despite their lower level of aerial adaptation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results indicate that the total mass of the dentition in Mesozoic birds was uniformly small, amounting to less than $1 . 2 \\text{‰}$ of total body mass in most taxa examined in our study. Even allowing for the fact that the teeth would have been in a cranial position, giving their weight a large moment arm about the center of gravity, their effect on flight performance was probably negligible given that some modern birds carry proportionally much larger burdens in flight (including in the beak) and undergo dramatic fluctuations in body mass in connection with migration flights (Videler et al., 1988a,b; Yosef,1993; Pennycuick, 2008). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, the reduction and eventual disappearance of the dentition in avians requires an evolutionary explanation. It is possible that replacement of the teeth by a rhamphotheca resulted in greater general feeding efficiency (Dilger, 1957; Louchart and Viriot, 2011), or at least was a pathway to exploitation of specific feeding niches (Zheng et al., 2O11; 2014; O'Connor and Zhou, 2015). However, a modified form of the mass reduction hypothesis may still be viable, given that the presence of teeth requires the tooth-bearing bones to be deep enough to enclose tooth roots. Despite the small mass of the dentition itself, it is possible that flight-related lightening of the head, not the teeth per se,favored reduction of the premaxilla, maxilla and dentary to the point where retention of teth was no longer feasible. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThis work was supported by grants from the National Natural Sciences Foundation of China (41688103), National Science Fund for Distinguished Young Scholars (41125008), the National Basic Research Progam of China (2012CB821900), the Chinese Academy of Sciences (KZCX2-EW-105) and Linyi University to Zhang Fu-Cheng, and by a Natural Sciences and Engineering Research Council of Canada Discovery Grant (RGPIN-2017-06246) and start-up funding awarded by the University of Alberta to C.S. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "中生代鸟类牙齿的退化及其可忽略的体重效应",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "周亚纯12 舒柯文34 张福成(1中国科学院古脊椎动物与古人类研究所，脊椎动物演化与人类起源重点实验室北京100044)(2 中国科学院大学 北京100049)(3加拿大阿尔伯塔大学生命科学学院 埃德蒙顿T6G2E9)(4 加拿大菲利普·柯瑞恐龙博物馆 温布利T6G 2E9)(5临沂大学地质与古生物研究所 山东临沂276000)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "摘要：牙齿退化是中生代鸟类演化的一个重要过程，牙齿总重综合了牙齿大小和数量的信息，研究这一特征的演化趋势，有助于深入地分析中生代鸟类牙齿退化的原因和方式。然而，现生鸟类均不具齿，无法为研究中生代鸟类的牙齿重量提供参考。除鸟类外的现生脊椎动物中，鳄类与鸟类的亲缘关系最近，且牙齿形态、着生和替换方式与后者相似，因此可为估算中生代鸟类牙齿重量提供参考模型。本文对从8件现生暹罗鳄标本采得的31枚牙齿进行了形态和重量测量，基于缩放比例原理建立多组回归方程，依此方程对牙齿和齿列保存较完整的中生代鸟类标本进行了牙齿总重估计。结果表明多数中生代鸟类牙齿总重普遍占体重比例极小，据此推测其对飞行的影响可忽略不计，减轻体重的自然选择压力可能不是造成中生代鸟类牙齿退化的主要原因。中生代鸟类牙齿总重的多样性可能反映了其食性和取食行为的差异。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "关键词：中生代鸟类，牙齿退化，牙齿重量，体重，取食行为",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AndersonJF,Hall-MartinA,RussellA,985.Long-boneircumferenceand mass inmammals,irdsanddinosaursJ Zool,207: 53-61   \nBakker R T,1972.Anatomical and ecological evidence of endothermy in dinosaurs.Nature,238:81-85   \nBrusatte SL,O'ConnorJK,Jarvis ED,2015.The origin anddiversification of birds.Curr Biol,25:888-898   \nCampione NE,Evans DC,2012.Auniversalscaling relationship between body massand proximal limb bone dimensions in quadrupedal terrestrial tetrapods.BMC Biol,10: 60   \nCampione NE,Evans D C,Brown CM et al.,2014.Body mass estimation in non-avian bipeds using atheoretical conversion to quadruped stylopodial proportions.Methods Ecol Evol, 5(9): 913-923   \nChristiansen P,Farina RA,2oo4.Mass prediction in theropod dinosaurs.Hist Biol,16:85-92   \nDavit-BealT,uckerAS,ireJY9.Lossofteehdamelintetrapods:fossilrecordgeneticdataadmoological adaptations.JAnat, 214: 477-501   \nDilger WC,1957.The loss of teeth in birds.The Auk,74:103-104   \nErickson G M,LappnAK,VlietKA,203.Theontogenyof bite-force performanceinAmerican aligator (Alligator ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "mississippiensis).JZool,260: 317-27 Feduccia A,1999.The Origin and Evolution of Birds. $2 ^ { \\mathrm { n d } }$ ed.New Haven: Yale University Press.1-466 GreenRE,Braun EL,Armstrong Jetal.,2O14.Three crocodiliangenomes reveal ancestral paterns of evolution among archosaurs. Science,346: 1254449 GregoryJT,1951.Convergent evolution: the jaws ofHesperornis and the Mosasaurs.Evolution,5(4): 345-354 Hou L H,Chiappe L M,ZhangF C etal.,2004.New Early Cretaceous fossil from China documents a novel trophic specialization for Mesozoic birds.Naturwissenschaften,91(1): 22-25 Li ZH,Zhou ZH,Wang M etal.,2014.Anew specimenof large-bodied basal enantiornithine Bohaiornis fromtheEarly Cretaceous ofChina and the inference of feeding ecology in Mesozoic birds.JPaleontol, 88(1): 99-108 Liu D,ZhouZH,ZhangYG,2012.Mas estimateand evolutionary trend in Chinese Mesozoic fosil birds.VertPalAsiat, 50(1): 39-52 uchartA,ViriotL,20l1.Fromsnoutto beak: the lossof teeth inbirds.Trends EcolEvol,26(12): 663-673 Marsh OC1880. Odontornithes: a Monographon the Extinct Toothed Birds of North America; WithThirty-four Plates and Forty Woodcuts. Washington: Government Printing Ofice.1-384 Martin L,Stewart JWhetstone K,1980.The origin ofbirds: structure of the tarsus and teeth.The Auk,97: 86-93 O'Connor J K, Sun C, Xu X e 1.,2012.A new species of Jeholornis with complete caudal integument.Hist Biol,24: 29- 41 O'Connor JK,Zhou ZH,2015.Earlyevolutionof thebiological bird: perspectives fromnew fossil discoveries inChina.J Ornithol,156(1): 333-342 Pennycuick C J,1989. Climbing performance of Harris'Hawk rabuteo Unicinctus)with added load: implications for muscle mechanics and for radiotracking.JExp Biol,42: 1 Pennycuick C J,2008. Modeling the Flying Bird. London: Academic Pressof Elsevier. 1-480 ProctorN S,Lynch PJ,1998.Manual of Ornithology: Avian Structure &Function.New Haven: Yale UniversityPress. 1-340 Rink W J, Hunter VA,1997.Densitiesof modern and fossil dental tissues: significance toESR dating of toth enamel. Ancient TL,15(1): 20-27 Videler,JJ,VossebeltGGoddeM,etal.988a.IndoorfightexperimentswithtrainedkestrelsI.fightstategiein air with and without added weight.JExp Biol,134: 173-183. Videler,JJ,GroeegeA,odde,etal988b.IdoorfightexperimentswithtrinedkestrelsI.theectfdded weight on flapping flight kinematics.JExp Biol,134:185-199 Wang M,Zhou ZH,OConnorJK et al.,2014.Anew diverse enantiornithine family(Bohaiornithidae fam.nov.）from the Lower Cretaceous of China with information from two new species.Vert PalAsiat, 52(1): 31-76 Wang S,StieglerJWuPetal.,17.Heterochronic truncationofdontogenesis intheropoddinosaursprovidesisightinto the macroevolution of avian beaks.P Natl Acad Sci USA,114(41): 10930-10935 Wellnhofer P,2009.Archaeopteryx: The Icon of Evolution.Muinchen: Verlag Dr.Friedrich Pfeil.1-208 Wings O,SanderPM,2oo7.No gastric millin sauropod dinosaurs: new evidence from analysis of gastrolith mass and function in ostriches.Proc R Soc Lond B,274: 635-640 YosefR,1993.Prey transport by loggerhead shrikes.The Condor, 95(1): 231-233 Zheng G M,1995. Ornithology.Beijing: Normal University Press.1-583 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZhengXT,MartinLD,Zhou ZHetal.,2011Fossil evidenceof avian crops from the Early Cretaceousof China.PNatl Acad Sci USA,108(30): 15904-15907   \nZheng XT,O'ConnorJK,HuchzermeyerFet al.,2014a.New specimens of Yanornis indicate a piscivorous diet and modern alimentary canal.PloS One,9(4): e95036   \nZheng XT,O'Connor JK,Wang XL etal.,2014b.On the absence of sternal elements inAnchiornis (Paraves)and Sapeornis (Aves)and the complex early evolution of the avian sternum.PNatl Acad Sci USA,111(38):13900- 13905   \nZhou ZH,ZhangFC,20o1.Two new ornithurine birds from the Early Cretaceous of western Liaoning,China.Chin Sci Bull, 46:1258-1264   \nZhou ZH,ZhangFC,2O03.Anatomyofthe primitivebird Sapeornis chaoyangensis fromtheEarly CretaceousofLiaoning, China. Can JEarth Sci,40: 731-747   \nZhou ZH,ZhangFC,2006.Abeaked basal ornithurinebird(Aves,Ornithurae)fromtheLower Cretaceous ofChina. Zool Scr,35:363-373   \nZhouZH,ClarkeJ,ZhangFCetal.,2Oo4.Gastroliths in Yanornis:an indicationoftheearliestradical diet-switchingand gizzard plasticity in the lineage leading to living birds? Naturwissenschaften, 91: 571-574   \nZhou ZH,Li ZH,Zhang FC,20o9.Anew Lower Cretaceous bird from China and tooth reduction inearlyavian evolution. Proc Biol Sci,277: 219-227 ",
+        "page_idx": 13
+    }
+]

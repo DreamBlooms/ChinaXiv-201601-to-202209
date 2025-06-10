@@ -1,0 +1,232 @@
+# 数据冗余信息引导的低剂量心肌灌注CT成像方法
+
+林嘉慧'，边兆英'，马建华}，黄 静}，陶 熙'，曾 栋'，郭 宏²  
+1南方医科大学生物医学工程学院//广州市医用放射成像与检测技术重点实验室,广东广州 510515;天津医  
+科大学总医院医学影像科，天津300052
+
+摘要：目的 心提出一种数据冗余信息引导的低剂量心肌灌注CT成像方法。方法 考虑到心肌灌注CT图像帧内含有丰富的结构冗余性，且帧间具有高度的相似性,本文提出基于非局部均值滤波(NLM)和全变分(TV)混合框架的惩罚加权最小二乘(PWLS)图像重建模型,简称为PWLS-aviNLM-TV。该模型利用了帧间结构相似性和帧内数据冗余性,能有效消除重建图像中的噪声和伪影,提高灌注序列图像帧内空间分辨率与帧间时间分辨率。结果PWLS-aviNLM-TV相比PWLS-TV和PWLS-aviNLM能更好地去除心肌灌注图像中的噪声和伪影，同时较好保持图像边缘和细节信息,进而有效区分缺血心肌与正常心肌。结论 数据冗余信息引导的重建算法可有效改善低剂量心肌灌注CT成像质量，更好地为临床影像诊断服务。
+
+关键词：低剂量；心肌灌注CT；非局部均值正则化；全变分正则化
+
+# Redundancy information-induced image reconstruction for low-dose myocardial perfusion computed tomography
+
+LIN Jiahui', BIAN Zhaoying¹,MA Jianhua',HUANG Jing', TAO Xi’,ZENG Dong,GUOHong² GuangzhouKeyboatorfediclationindetectioTcololofomedicalngeenotdicl Uniersity;tfdalsaldliy
+
+Abstract: Objective In the clinic, myocardial perfusion computed tomography (MPCT) imaging iscommonly used to detect andassess myocardial ischemiaquantitatively.However,repeatedscaningonthe myocardialregion in the cine mode will increase theradiationdose for patients. With lowering radiationdose,the qualityof images are degraded by noise induced artifact,whichhampers the diagnosticacuracy. Therefore,in this paper, we propose aredundancy information induced iterative reconstruction framework for high quality MPCT images at the case of low dose.Methods MPCT images have redundantstructural information within frames and highlysimilarity between adjacentframes.Inspiredbythe two properties, in this work we propose a penalized weighted least-squares (PWLS) model incorporating NLM and TV based hybrid constraints,whichisreferrd toasPWLS-aviNLM-TVforsimplicity.The proposedalgorithmcanefectivelyeliminate noise andartifacts bytaking intoaccountthesimilaritybetweenadjacentframesandredundancyinformationwithinframes,which alsocanimprove spatial resolution within frames and maintain temporalresolution.Results Theexperimental results onthe 4D extended cardiac-torso (XCAT） phantom and preclinical porcine dataset demonstrates that the PWLS-aviNLM-TV algorithm obtains better performance in terms of noise reduction and artifacts suppression than the PWLS-TVand PWLSaviNLMalgorithm.Moreover,theproposedalgorithmcanpreservetheedgesanddetail information therebyeficiently diferentiate ischemia from myocardium. ConclusionThe presentredundancy information induced reconstructionalgorithm can reconstruct high-quality images from low-dose MPCT for better clinical imaging diagnosis.
+
+Keywords: low-dose; myocardial perfusion computed tomography; non-local means; total variation
+
+近年来，心血管疾病的发病率呈持续上升趋势，对冠状动脉疾病(CAD)患者进行早期精准的诊断具有重要的临床意义[-2]。心肌灌注CT作为一种非侵入式的CAD功能成像检查手段，不仅可以提供冠状动脉狭窄的解剖学信息，还能够获取冠状动脉的功能信息，在临床上受到越来越多的关注[3-4]。根据扫描协议,心肌灌注CT对心脏区域进行连续扫描得到时间序列图像，并由此计算出血流动力学参数图，为诊断心肌缺血区域提供可靠的影像诊断依据[5-6]。然而,由于心肌灌注CT动态扫描方式，导致病人接受的辐射剂量大幅增加，而过量的X射线照射会诱发癌症等遗传性疾病。当前，临床上常常采用降低管电流或者减低采样率的方式来减少辐射剂量，然而剂量的降低导致重建图像噪声和伪影增加，图像质量退化,影响临床诊断的精确性[7-10]。因此,如何在降低辐射剂量的条件下，得到满足临床诊断需求的心肌灌注图像已成为CT成像领域的热点研究课题之一。
+
+近年来，国内外大量研究学者针对低剂量心肌灌注CT成像进行了相关研究[11-15]。其中,主流的研究方法大致归为两大类：第1类是图像重建算法，该类方法针对投影数据的噪声特性进行统计建模，构建图像迭代重建模型实现图像降噪，从而获得优质的心肌灌注CT图像。Lin等[12]提出一种无分割的多能MPCT重建算法，该算法结合了物质衰减系数，X射线源光谱和局部组织类型的先验信息，更准确的重建出“无伪影”的灌注图像；Bian等[13将心肌灌注CT图像空间以及时间结构的稀疏特性引人到迭代重建过程中，在噪声伪影抑制和边缘保持方面达到良好效果;Tao等[4提出基于全变分(TV)的统计迭代算法抑制低剂量心肌灌注CT图像的中的噪声和伪影，第2类是图像去卷积算法，通过对低剂量CT序列图像进行去卷积，从而获得优质的血流动力学参数图。Zeng等人构造的基于结构张量TV正则化用于灌注去卷积算法，由于TV算法关于图像分段光滑的假设，导致所重建的图像中不可避免的引入阶梯伪影[15]
+
+上述现有算法均忽视心肌灌注图像帧间结构相似性和帧内数据冗余性。鉴于此，本文提出数据冗余信息引导的统计迭代算法，充分考虑灌注图像空间维度上的结构冗余性和时间维度上的信息相似性，将心肌灌注中前后相邻帧图像的均值作为NLM算法的参考图像(aviNLM),构造基于aviNLM和TV混合框架的惩罚加权最小二乘(PWLS)PWLS模型。采用XCAT体模仿真数据和猪心肌灌注数据进行实验，与传统单PWLS-TV和PWLS-aviNLM算法相比,PWLS-aviNLM-TV算法更能有效地抑制低剂量下的噪声和伪影，同时较好的保持图像结构信息，进而有效区分缺血心肌。
+
+# 1方法
+
+1.1惩罚加权最小二乘CT重建模型
+
+基于惩罚加权最小二乘的低剂量心肌灌注CT统计迭代重建模型可表达如下：
+
+$$
+u ^ { * } = \arg \operatorname* { m i n } _ { u \geq 0 } \left\{ \left( y - H u \right) ^ { } \Lambda { \left( y - H u \right) } + \beta R { \left( u \right) } \right\}
+$$
+
+其中， $u$ 为待重建的心肌灌注图像; $y$ 为经过系统校准和对数变换后获得的投影数据； $H$ 为CT成像系统矩阵; $\boldsymbol { R } ( \boldsymbol { u } )$ 为正则化项； $\beta$ 为正则化参数，其作用为控制 $\boldsymbol { R } ( \boldsymbol { u } )$ 的正则化力度。 $\Lambda$ 为权值矩阵,其对角元素为投影数据噪声方差的倒数，其余元素为零：
+
+$$
+\Lambda = \mathrm { d i a g } \left\{ \frac { 1 } { \sigma _ { i } ^ { 2 } } \right\} , l = 1 , 2 , . . . , L
+$$
+
+其中, $\boldsymbol { \sigma } _ { i } ^ { 2 }$ 为心肌灌注投影数据中第 $i$ 个像素的噪声方差，根据我们之前的研究[，投影数据的噪声方差可由如下公式求得：
+
+$$
+\sigma _ { i } ^ { 2 } = \frac { 1 } { I _ { 0 } } \mathrm { e x p } \big ( \bar { y } _ { i } \big ) \Bigg ( 1 + \frac { 1 } { I _ { 0 } } \mathrm { e x p } \big ( \bar { y } _ { i } \big ) \big ( \sigma _ { e } ^ { 2 } - 1 . 2 5 \big ) \Bigg )
+$$
+
+其中， $I _ { \mathrm { 0 } }$ 表示入射的X射线强度， $\bar { y } _ { i }$ 为投影数据 $y$ 在第 $i$ 个探测单元上的均值， $\sigma _ { e } ^ { 2 }$ 为电子噪声方差
+
+# 1.2双正则化项先验模型
+
+为探索并利用心肌灌注图像帧内冗余性与帧间相似性特征，本文将多帧图像的平均图像作为先验图像，并将之纳入先验图像引导的非局部均值正则化模型，以描述灌注数据帧内冗余性。除此之外,针对帧间的高度相似性，本文利用全变分正则化描述了图像的稀疏特点，从而构建"aviNLM-TV"双正则化模型，其公式表达为：
+
+$$
+\begin{array} { r l } & { R _ { a \nu i N L M - T V } ( u ) = \beta \phi _ { P } \big ( u - a \nu i N L M ( u ) \big ) } \\ & { + ( 1 - \beta ) T V ( u ) } \end{array}
+$$
+
+其中， $\phi _ { { \scriptscriptstyle P } } ( \cdot )$ 为势函数，其形式为矩阵的P范数,本文以2范数作为势函数，即 $P { = } 2$ 。 $\beta \in \left[ 0 , 1 \right]$ 为权重因子。
+
+在心肌灌注CT动态成像中，除了因造影剂而增强的血流动态信息，序列图像的前后帧的结构具有高度的相似性;此外，其前后帧之间的噪声是独立且随机分布的。鉴于此，本文将当前图像的前后帧进行平均，取其均值图像作为先验图像并将之纳入先验引导的非局部均值正则化模型[17-19]。式(3)中, $a \nu i N L M ( \cdot )$ 为均值图像引导的非局部均值先验项[20-22],其表达式如下：
+
+$$
+a v i N L M \big ( u ( i ) \big ) = \sum _ { j \in N _ { i } } \omega \big ( i , j \big ) u _ { a v } \big ( j \big )
+$$
+
+其中， $N _ { i }$ 为搜索窗， $u _ { a \nu } ( j )$ 为均值参考图像。$\omega ( i , j )$ 为权重，其值由低剂量图像中以像素 $i$ 为中心的图像块与先验图像中以像素 $j$ 为中心的图像块之间的相似性决定，其计算公式为：
+
+$$
+\omega ( i , j ) = \frac { C } { Z ( i ) } \cdot \exp \left\{ \frac { - \big | \big | u ( n _ { i } ) - C \cdot u _ { a \nu } \big ( n _ { j } \big ) \big | \big | _ { 2 , \alpha } ^ { 2 } } { h ^ { 2 } } \right\}
+$$
+
+$$
+Z _ { i } = \sum _ { j \in N _ { i } } \exp \left\{ \frac { - \left\| u ( n _ { i } ) - C \cdot u _ { a \nu } ( n _ { j } ) \right\| _ { 2 , a } ^ { 2 } } { h ^ { 2 } } \right\}
+$$
+
+其中 $n _ { i }$ 和 $n _ { j }$ 分别表示为以 $i$ 和 $j$ 为中心的图像块。 $\left\| \cdot \right\| _ { 2 , \alpha }$ 为两个图像块之间经过高斯加权的欧氏距离， $\alpha$ 为高斯函数的标准差。式(6)中， $h$ 为可调参数，控制aviNLM先验项的平滑力度。 $C$ 为局部修正系数，用于修正待求图像与先验图像之间的局部灰度水平差异，其计算公式为：
+
+$$
+C \big ( u ( n _ { i } ) , u _ { a \nu } ( n _ { j } ) \big ) =
+$$
+
+$$
+\left\{ \begin{array} { c c } { \displaystyle { E \big ( u ( n _ { i } ) \big ) } } & { \displaystyle { E \big ( u ( n _ { i } ) - u _ { a v } \big ( n _ { j } \big ) \big ) \geq \gamma } } \\ { 1 } & { o \mathrm { t h } e r w i s e } \end{array} \right.
+$$
+
+其中 $E ( \cdot )$ 为图像块的灰度均值,阈值因子γ由图像块灰度值的方差所决定。
+
+此外， $T V ( \cdot )$ 表示全变分正则化先验，其计算公式为：
+
+$$
+T V ( u ) = \sum _ { s , t } \sqrt { \left( u _ { s , t } - u _ { s - 1 , t } \right) ^ { 2 } + \left( u _ { s , t } - u _ { s , t - 1 } \right) ^ { 2 } }
+$$
+
+$s$ 和 $t$ 代表待重建心肌灌注图像 $u$ 的位置坐标。
+
+1.3代价函数与优化求解
+
+本文在PWLS框架下引人了"aviNLM-TV"双正则化先验，代价函数具体表达如下：
+
+$$
+u ^ { * } = \arg _ { { \frac { \mu \geq 0 } { \mu \geq 0 } } } \operatorname* { m i n } _ { }
+$$
+
+$$
+\{ \begin{array} { l l } { \displaystyle ( y - H u ) ^ { * } \Lambda \big ( y - H u \big ) + \beta } \\ { \displaystyle \| u - a \nu i N L M \big ( u \big ) \| _ { 2 } ^ { 2 } + \big ( 1 - \beta \big ) T V ( u ) \} } \end{array} 
+$$
+
+本文利用改进的梯度下降法算法[17对于代价函数式(10)进行迭代优化求解。其图像更新公式为：
+
+$$
+\begin{array} { r l } & { u ^ { n + 1 } = u ^ { n } - \alpha ^ { n + 1 } \Big ( H ^ { T } \Big ( \Sigma ^ { - 1 } \big ( H u ^ { n } - y \big ) \Big ) \Big ) } \\ & { - \beta \cdot R _ { \phantom { ^ n } { } a v i N L M - T V } ^ { \prime } \Big ( u ^ { n } \Big ) } \end{array}
+$$
+
+其中 $\boldsymbol { a } ^ { n + 1 }$ 表示梯度步长, $a ^ { n + 1 } { = } \frac { G ^ { T } G } { \left( H G \right) ^ { T } \left( \Sigma ^ { - 1 } ( H G ) \right) }$ $G \triangleq H ^ { T } { \Big ( } \Sigma ^ { - 1 } { \big ( } H \mu ^ { n } - y { \big ) } { \Big ) } \ \qquad $ 。 $n$ 为当前迭代步数, $R _ { a v i N L M - T V } ^ { ' } \Big ( u ^ { n } \Big )$ 表示双正则化项的梯度：
+
+$$
+\begin{array} { r l } & { { R ^ { ' } } _ { a v i N L M - T V } \Big ( { u ^ { n } } \Big ) = } \\ & { \left( 1 - \beta \right) \frac { \partial } { \partial u } T V \Big ( { u ^ { n } } \Big ) } \end{array}
+$$
+
+其中 $\frac { \partial } { \partial u } T V \big ( u ^ { n } \big )$ 为TV项的一阶偏导,其数学表达
+
+式为：
+
+$$
+\frac { \hat { \sigma } } { \hat { \sigma } u } T V \big ( u ^ { n } \big ) = \frac { 2 u _ { s , t } - u _ { s - 1 , t } - u _ { s , t - 1 } } { \sqrt { \big ( u _ { s , t } - u _ { s - 1 , t } \big ) ^ { 2 } + \big ( u _ { s , t } - u _ { s , t - 1 } \big ) ^ { 2 } + \tau } }
+$$
+
+$$
+- \frac { u _ { s + 1 , t } - u _ { s , t } } { \sqrt { \left( u _ { s + 1 , t } - u _ { s , t } \right) ^ { 2 } + \left( u _ { s + 1 , t } - u _ { s + 1 , t - 1 } \right) ^ { 2 } + \tau } }
+$$
+
+$$
+\frac { u _ { s , t + 1 } - u _ { s , t } } { \sqrt { \left( u _ { s , t + 1 } - u _ { s , t } \right) ^ { 2 } + \left( u _ { s , t + 1 } - u _ { s - 1 , t + 1 } \right) ^ { 2 } + \tau } }
+$$
+
+1.4实验数据的获取
+
+为了验证所提方法在低剂量心肌灌注CT成像中的有效性和准确性,本文利用XCAT体模仿真数据[23-24]和动物数据进行实验，并对实验结果进行了定性分析和定量分析。
+
+# 1.5XCAT体模仿真数据
+
+我们首先根据血流动力学模型[23-26仿真生成XCAT动态心肌灌注序列图像数据，其中第15帧心肌灌注图像如图1A所示。然后通过正向投影生成无噪声的投影数据，具体成像参数为：层厚为 $1 \mathrm { m m }$ ，图像大小为 $5 1 2 \times$ 512,射源到探测器和旋转中心的距离分别为 $1 0 4 0 ~ \mathrm { { m m } }$ 和 $5 4 0 ~ \mathrm { m m }$ ，探测器数目为672,采样角度数为1160,并根据参考文献[27]中的方法生成对应的低剂量心肌灌注数据。
+
+![](images/3cd82cca7c7e063c85e7d11649993f1bd722f08e2aa2155e84c62fe747760298.jpg)  
+图1心肌灌注CT图像 Fig.1 Myocardial perfusion CT images.A: XCAT myocardial perfusion image; B: The preclinical porcine myocardial perfusion image.
+
+# 1.6 动物数据
+
+采用GE公司DiscoveryCT75064层CT对猪进行心肌灌注扫描。其扫描参数为：管电压 $1 2 0  { \mathrm { k V } }  { \mathrm { p } }$ ，层厚为 $5 ~ \mathrm { m m }$ ，射源到扫描物体和探测器的距离分别为$5 3 8 . 5 2 ~ \mathrm { m m }$ 和 $9 4 6 . 7 4 6 \ \mathrm { m m }$ ，探测器数目为888，机架旋转1周为 $0 . 4 \mathrm { ~ s ~ }$ ，旋转角度为 $3 6 0 ^ { \circ }$ ，采样角度数为984。同上，低剂量心肌灌注数据由高剂量数据仿真所得[27]
+
+# 2结果
+
+# 2.1XCAT体模数据实验结果
+
+图2给出了不同方法下第2帧、第15帧和第26帧XCAT心肌灌注图像的重建结果。表1列出了图2中不同方法重建结果的峰值信噪比(PSNR)。
+
+图3绘出了对应于PWLS-TV,PWLS-aviNLM,PWLS-aviNLM-TV算法重建结果的剖面线，剖面线的
+
+2th 0o000   
+8   
+000
+
+表1不同重建算法的PSNR(dB)对比Tab.1PSNR(dB) of different reconstruct algorithms  
+
+<html><body><table><tr><td>Methods</td><td>FBP</td><td>PWLS-TV</td><td>PWLS-aviNLM</td><td>PWLS-aviNLM-TV</td></tr><tr><td>2nd</td><td>16.65</td><td>29.88</td><td>26.69</td><td>37.44</td></tr><tr><td>15h</td><td>16.36</td><td>30.43</td><td>26.73</td><td>37.94</td></tr><tr><td>26h</td><td>17.13</td><td>30.75</td><td>26.84</td><td>38.36</td></tr></table></body></html>
+
+位置如图3中蓝色水平线所示。图4所示为从不同算法重建的低剂量序列图像中计算得到的心肌血流量(MBF)。
+
+# 2.2动物数据实验结果
+
+图5显示了猪的第6帧，第10帧,第14帧高剂量心肌灌注图像和不同算法的低剂量心肌灌注重建图像。图6所示为猪的高剂量MBF参数图以及从不同算法重建的低剂量序列图像计算得到的MBF参数图像。图7给出各算法重建的低剂量图像质量检测系数(UQI)。
+
+# 3讨论
+
+常规迭代重建算法的正则化项设计往往只涉及图像单一框架下的先验信息，例如，先验图像引导NLM滤波的统计迭代重建算法[19；利用正常剂量图像中的先验信息进行低剂量重建，从而提高重建图像的质量2;基于图像时间序列先验的正则化项来重建心肌灌注图像[32]。然而针对低剂量心肌灌注CT成像，本文考虑了帧内结构相似性和帧间相关性，利用数据冗余信息，提出了一种基于TV和aviNLM混合框架下迭代重建算法，该算法充分利用图像自身分段光滑的特性和心肌灌注序列图像中不同帧内结构相似性和帧间相关性，通过平均前后帧的心肌灌注图像，将帧间的随机噪声减少，进而得到较优的参考图像指导NLM去噪，并将改进后的aviNLM结合TV模型作为正则化项融入PWLS的设计框架中,构建出PWLS-aviNLM-TV重建模型。对该模型的求解优化，我们采用梯度下降法算法来实现。同时，需要指出的是，迭代重建过程中各个参数的选择是一个公开的难优化的问题,有待今后更进一步的研究。为了评价PWLS-aviNLM-TV算法的有效性和准确性,本文采用XCAT体模仿真数据和猪心肌灌注数据进行了验证。
+
+![](images/44439369d6fbca0bd7580edec349ab1d19f2e7927a7dfcea95f6d96e467c1019.jpg)  
+图2体模真值图像和低剂量下不同方法重建结果 Fig.2 True phantom and low-dose images reconstructed by different algorithms.   
+图3不同算法重建结果的剖面线比较 Fig.3 Profile comparison between different algorithms.
+
+在XCAT体模仿真数据实验中，图2的FBP重建结果可以看出，由于剂量的降低，重建图像存在大量的伪影和噪声，难以辨别出缺血心肌区域，而PWLS-TV和PWLS-aviNLM算法重建结果中的伪影和噪声大大降低，但是仍存在阶梯伪影或者边缘模糊的现象。本文提出的双正则化方法的重建结果能有效保持边缘结构信息，并抑制伪影和噪声。从表1定量分析上可以看出，本文提出的算法重建图像的PSNR高于其它三类算法重建图像，能够有效的抑制了图像噪声。为了进一步比较单一正则化TV算法,单一aviNLM算法和双正则化算法对边缘结构的保持效果，图3给出重建结果剖面线的比较，其结果显示，相比TV和aviNLM单一正则化算法，PWLS-aviNLM-TV算法与真值的剖面线最为接近，即PWLS-aviNLM-TV算法能有较好的重建出边缘结构。为了评估重建算法的准确性，我们采用经典的奇异值分解方法[28]计算了心肌血流动力学参数图[29-30],如图4所示，可以看出FBP算法重建的图像存在大量的噪声和伪影，以至于无法辨别缺血心肌，而PWLS-TV和PWLS-aviNLM算法的结果稍有改善,但与真值图像还有一定的差距，相比之下，本文PWLS-aviNLM-TV的方法在抑制噪声的同时能保证较为精确的MBF参数图估计。
+
+![](images/bda9ebe7f692fbdbeae0df20ce6001f53d5fdc704a4af9d5e2105144b571cca4.jpg)  
+图4真值和不同算法重建低剂量图像的MBF血流动力学参数图 Fig.4MBFcalculated from the true phantomand low-dose images reconstructed bydifferent algorithms
+
+![](images/168e3ab496656869ff910ec3fe8c9512f485bdcccd6e872146bacefec81cfa3c.jpg)  
+图5高剂量心肌灌注图像和不同算法重建的低剂量心肌灌注图像 Fig.5 High-dose and low-dose myocardial perfusion images reconstructed by different algorithms.
+
+![](images/8243e7a591852b37e0e0350f12e8952c0ea7696693d01adad7ba2396a4a173e7.jpg)  
+图6高剂量MBF参数图和不同算法重建下低剂量图像的MBF参数图 Fig.6MBFmapscalculated fromahigh-doseimage and simulated low-doseimagesreconstructed bydiferentalgorithms
+
+![](images/85c6e3328e57992a7671bb3232ace7c0c41e5efcb2a1ccc0b4638a9cd2acb94d.jpg)  
+图7高剂量心肌灌注图像和不同算法重建的低剂量心肌 灌注图像的UQI Fig.7UQI measurements on a high-dose myocardial perfusion image and simulated low-dose myocardial perfusion images reconstructed by different algorithms.
+
+在猪心肌灌注数据实验中，图5的结果可观察到，本文提出的PWLS-aviNLM-TV算法不仅可以有效抑制图像的噪声和伪影，同时较好保持了具有诊断意义的结构信息。从MBF参数图定性分析结果中可以看出，FBP算法重建的图像中存在大量噪声和伪影，导致其MBF参数图无法辨别心肌缺血区域，另外，PWLS-TV和PWLS-aviNLM算法重建的图像一定程度上可辨别心肌缺血区域，但是在图6白色虚线框的缺血心肌区域仍存在部分噪声，且边缘细节有所退化，相比之下，PWLS-aviNLM-TV算法重建的图像不仅抑制了噪声和伪影，而且边缘细节与高剂量的图像具有较高的一致性。通过图7定量结果显示,不同时间帧下,UQI3得分从低到高依次为FBP,PWLS-TV,PWLS-aviNLM和PWLS-aviNLM-TV算法，这进一步表明,本文提出的PWLS-aviNLM-TV算法重建的低剂量图像与高剂量图像在结构和细节上更为接近。
+
+综上所述，PWLS-aviNLM-TV算法结合了NLM和TV模型特性，能更有效地抑制低剂量心肌灌注图像中的伪影和噪声，提高灌注序列图像帧内空间分辨率与帧间时间分辨率，且从其MBF参数图中可更清晰判断
+
+出缺血区域的位置和大小。
+
+参考文献：   
+[1]Writing Group Members，Mozaffarian D,Benjamin EJ,et al. Executive summary: heart disease and stroke statistics--2016 update: a report from the American heart association [J]. Circulation,2016,133(4): 447-54.   
+[2]Williams MC,Newby DE.CT myocardial perfusion imaging: current status and future directions[J]. Clin Radiol,2016,71(8, SI): 739-49.   
+[3] Steg PG,Ducrocq G.Future of the prevention and treatment of coronary artery disease[J]. Circ J,2016,80(5):1067-7.   
+[4]Varga-Szemes A,Meinel FG,De Cecco CN, et al. CT myocardial perfusion imaging[J].AJR Am JRoentgenol, 2015,204(3): 487-97.   
+[5]Fahmi R,Eck BL,Levi J,et al. Quantitative myocardial perfusion imaging in a porcine ischemia model using a prototype spectral detector CT system[J].Phys Med Biol,2016,61(6): 2407-31.   
+[6]Caruso D,Eid M,Schoepf UJ,et al.Dynamic CT myocardial perfusion imaging[J].Eur JRadiol,2016,85(10): 1893-9.   
+[7]Mayo JR,Leipsic JA.Radiation dose in cardiac CT[J]. AJR Am J Roentgenol,2009,192(3): 646.   
+[8] Othman AE,Brockmann C, Yang Z,et al. Impact of image denoising on image quality,quantitative parameters and sensitivity of ultralow-dose volume perfusion CT imaging[J].Eur Radiol,2016,26 (1): 167-74.   
+[9]Rossi A,Merkus D,Klotz E,et al. Stress myocardial perfusion: imaging with multidetector CT[J].Radiology,2014,270(1): 25-46.   
+[10]Kim SM, Cho YK, Choe YH. Adenosine-stress dynamic myocardial perfusion imaging using 128-slice dual-source CT in patients with normal body mass indices: effect of tube voltage,tube current, and Iodine concentration on image quality and radiation dose[J]. Int J Cardiovas Imaging,2014,30(2): 95-103.   
+[11]Li Y,Niu K,Chen GH. Statistical model based iterative Reconstruction in myocardial CT perfusion:exploitation of the low dimensionality of the spatial-temporal image matrix[C]//Proc SPIE, 2015,9412(4): 785-8.   
+[12]Lin Y,Samei E.An efficient polyenergetic SART(pSART) Reconstruction algorithm for quantitative myocardial CT perfusion [J].Med Phys,2014,41(2): 021911-4.   
+[13]Bian ZY, Zeng D, Zhang Z,et al. Low-dose dynamic myocardial perfusion CT imaging using a motion adaptive sparsity prior[J]. Med Phys,2017,44(9): e188-201.   
+[14] Tao Y,Chen GH,Hacker TA,et al.Low dose dynamic CT myocardial perfusionimagingusingastatistical iterative Reconstruction method[J]. Med Phys,2014,41(7): 071914.   
+[15] Zeng D,Gong CF,Bian ZY,et al. Robust dynamic myocardial perfusion CTdeconvolution foraccurateresiduefunction estimationviaadaptive-weightedtensortotalvariation regularization: a preclinical study[J].Phys Med Biol, 2016, 61(22): 8135.   
+[16]Ma JH,Liang ZR,Fan Y, et al. Variance analysis of x-ray CT sinograms in the presence of electronic noise background[J]. Med Phys,2012,39(7): 4051-65.   
+[17]Buades A,Coll B,Morel JM.A non-local algorithm for image denoising[C]//Computer Vision and Pattern Recognition,2005. CVPR 2005.IEEE Computer Society Conference on,2005: 60-5.   
+[18]Bougleux S,Cohen LD,Peyré G.Non-local regularization of inverse problems[J].Inver Problems Imaging,2017,5(2):511-30.   
+[19] Zhang H, Huang J,Ma J,et al. Iterative Reconstruction for $\mathbf { \boldsymbol { x } }$ -ray computed tomographyusingprior-image induced nonlocal regularization[J].IEEE Trans Biomed Eng,2014,61(9): 2367-78.   
+[20]Ma J,Huang J,Feng Q,et al.Low-dose computed tomography image restoration using previous normal-dose scan[J].Med Phys, 2011,38(10): 5713-31.   
+[21] Zeng D,Huang J, Zhang H, et al. Spectral CT image restoration via an average Image-Induced nonlocal means filter[J]. IEEE Trans Biomed Eng,2016,63(5): 1044-57.   
+[22] Zhang HJ, Zeng D,Lin JH,et al. Iterative Reconstruction for dual energy CT with an average image-induced nonlocal means regularization[J].Phys Med Biol,2017,62(13): 5556-74.   
+[23]Norris H, Zhang Y,Bond J,et al.A set of 4D pediatric XCAT reference phantoms for multimodality research[J].Med Phys,2014, 41(3): 033701-11.   
+[24]Segars WP, Sturgeon G,Mendonca S,et al.4D XCAT phantom for multimodality imaging research[J].Med Phys,2010,37(9):4902- 15.   
+[25]Bindschadler M,Modgil D,Branch KR,et al. Comparison of blood flow models and acquisitions for quantitative myocardial perfusion estimation from dynamic CT[J].Phys Med Biol,2014,59(7):1533- 56.   
+[26]Bindschadler M, Modgil D,Branch KR,et al. Simulation evaluation of quantitative myocardial perfusion assessment from cardiac CT [J].Proc SPIE Int Soc Opt Eng,2016,9033(9033): 903303.   
+[27] Zeng D,Huang J,Bian ZY,et al.A simple Low-Dose X-Ray CT simulation fromHigh-Dose scan|J].IEEE Trans Nucl Sci,2015,62 (5,2): 2226-33.   
+[28]Wu O,Ostergaard L,Weisskoff RM,et al. Tracer arrival timinginsensitive technique for estimating flow in Mr perfusion-weighted imaging using singular value decomposition with a block-circulant deconvolution matrix[J].Magn Reson Med,2003,50(1):164-74.   
+[29]Bamberg F,Becker A, Schwarz F,et al.Detection of hemodynamically significant coronary artery stenosis: incremental diagnostic value of dynamic CT-based myocardial perfusion imaging[J].Radiology, 2011,260(3):689-98.   
+[30]George RT, Jerosch-Herold M,Silva C,et al.Quantification of myocardial perfusion using dynamic 64-detector computed tomography[J]. Invest Radiol, 2007,42(12): 815-22.   
+[31]Wang Z,Bovik AC.A Universal image quality index[J].IEEE Signal Process Lett, 2002,9(3): 81-4.   
+[32]Li YS,Niu K,Chen GH. Statistical model based iterative reconstruction in myocardial CT perfusion: exploitation of the low dimensionality of the Spatial-Temporal image matrix[C]//Medical Imaging 2015:Physics of Medical Imaging,2015,9412(4): 785-8.

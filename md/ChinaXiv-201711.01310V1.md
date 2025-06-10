@@ -1,0 +1,97 @@
+# 光学天文时纬残差异常在强震预测中的实践纪念唐山地震暨光学天文时纬残差异常发现40周年
+
+胡辉¹，李语强}，苏有锦²，尹志强³，韩延本³，王锐}，王博（1.中国科学院云南天文台，云南 昆明650011；2.云南省地震局，云南 昆明650224；3.中国科学院国家天文台，北京 100012)
+
+摘要：为了进一步研究光学天文时纬残差异常在地震预测中的作用，介绍了光学天文时纬残差震前异常的发现和在地震预测中的研究实践，以及云南天文台光电等高仪的时纬残差异常变化与其周邻强震的对应关系，最后以讨论的形式给出了这种关联的可能的地球物理机制，目前在地震预测中的局限性和可能的解决途径。重要的是，2010年以来的预测实践进一步表明，利用光学天文时纬残差的同步异常提供地震预测信息，既没有虚报，也没有漏报。这就说明，它是完全可以作为地震预测的一种手段，投入地震预测实践中，值得更多重视和更加深入的研究。
+
+关键词：光学天文时纬残差；铅垂线变化；地下物质运动；地震中图分类号：P315.7 文献标识码：A 文章编号：1672-7673(2017)03-0401-06
+
+1966 年以来，一个问题一直困扰着北京天文台（即现在的国家天文台)授时组的科研人员，观测结果一直很好的目视等高仪，为什么在1966年2\~5月期间如此反常。所谓反常，就是这台仪器测定的地球自转参数(主要是地球自转速率)与全国其它仪器测定的综合值的偏差超出了正常的误差范围。到了1976年，这个问题又一次出现。正在大家感到困惑不解的时候，1976年7月28日唐山地震爆发了。这次大地震不仅震憾了中国，而且震动了全世界。正当全国上下支援唐山人民抗震救灾的同时，全国的科研人员也抓紧对地震的研究。正是在这种背景下，北京天文台的科研人员突然意识到，1966年与 1976 年北京天文台目视等高仪的观测结果反常，可能与1966 年的邢台地震和这次唐山地震有关。因为这两次地震发生时，北京都有明显的震感，并且邢台地震震中位于北京天文台的西南，相距约 $3 0 0 \mathrm { k m }$ ，而唐山地震震中位于北京天文台的东偏南，相距只有 $1 6 0 ~ \mathrm { k m }$ 。在经过一番认真思考讨论之后，他们潜身心对观测数据进行仔细的分析，终于发现了北京天文台光学天文测定的时间和纬度在强震前的异常现象。为了进一步证实这一现象的客观性和真实性，他们收集了全球10个天文台站的11台观测稳定、质量较好的仪器自1966年以来的观测结果，并进行了系统的分析。结果发现，在无震的年份和无震的台站，观测结果基本上没有出现这种异常现象，从而肯定了异常现象与地震有关，并称其为强烈地震前天文时纬残差的短期异常[1]。这一发现说明，精确的光学天体测量结果不仅可用于基本天体测量和地球自转参数的测定，而且可能为台站附近的地震预测提供警戒信息。
+
+研究结果得到了国内外同行的重视，地震学家、中国科学院院士、原国家地震局副局长陈顒认为，该研究属于探索地震前兆复杂性方面涌现的“新思路、新方法、新理论”，自1985年以来，国际天文学联合会大会在有关光学天体测量仪器未来工作的决议中多次指出，可以开展垂线变化和地震预测研究。
+
+在1990年11月举行的第5届全国地球动力学学术讨论会上，王仁、马宗晋等30多位地震、地球动  
+力学专家紧急呼呼国家地震局和有关部门从速采取措施，使我国各天文台的光学天体测量手段能够继续为  
+地震预测作贡献。他们还指出，“地震预测实践表明，光学天体测量观测结果是一项有希望的预测手段”。在北京天文台对天文观测异常与强震的可能关系进行深入研究的同时[2-4]，上海天文台、云南天
+
+文台也开展了此项研究工作[5-9]；上海天文台发现在1990 年6月5日江苏太仓5级地震前该台中星仪的测时残差与同期光电等高仪的测时测纬残差均有明显异常[6]。
+
+云南天文台由于地处地震多发地区，自1985年禄劝地震以后，与云南省地震局合作，开展了云南天文台光电等高仪的时纬残差异常与其周邻强震的相关研究，并为地震预测提供过几次重要参考信息[7]，2010年以来，更是为周邻地区的几次强震作了成功的预测。
+
+# 1云南天文台光电等高仪的时纬残差与周邻的强震
+
+1985年4月18日云南省禄劝县发生了6.3级地震，震中距云南天文台只有 $9 3 ~ \mathrm { k m }$ ，昆明震感强烈。地震发生以后，北京天文台的科研人员和我们分析了震前云南天文台光电等高仪的观测结果，发现在1985 年3月的观测结果中有明显的异常[5]。
+
+为了深入探讨云南天文台光电等高仪的时纬残差异常与周邻强震的关系，与云南省地震局合作，按照光学天文时纬残差的定义与数据处理方法，全面、系统地分析了云南天文台光电等高仪自有观测记录以来的全部观测结果，发现二者之间有良好的对应关系，而且发现时间残差异常与纬度残差异常同步与否，是有震与无震的重要标志。这些结果已列于文[7]的表1中。为了使读者对二者之间的关系有更完整的了解，本文再次引用文[7]表1的结果，并且随着时间的推移增加了更多实际证例。
+
+表1云南天文台的时纬残差异常变化与周邻强震的对应关系  
+Table 1 A The actual correspondence of the anomalies of the time-latitude residuals and the strong earthquakes around YO   
+
+<html><body><table><tr><td></td><td>发震日期</td><td>地点</td><td></td><td>入</td><td>M</td><td>D</td><td>A</td><td>S(t)</td><td>S()</td><td>Y/N</td><td>T(d)</td></tr><tr><td>1</td><td>1976-05-29</td><td>龙陵</td><td>24°33'</td><td>98°45'</td><td>7.4</td><td>411</td><td>262</td><td>>30</td><td>>2g</td><td>Y</td><td>120</td></tr><tr><td>2</td><td>1976-11-07</td><td>宁蒗</td><td>27°30'</td><td>101° 05'</td><td>6.7</td><td>322</td><td>328</td><td>1</td><td>1</td><td>1</td><td>无观测</td></tr><tr><td>3</td><td>1978</td><td></td><td></td><td></td><td></td><td></td><td></td><td>>2g</td><td>>3g</td><td>无≥6.0</td><td>地震</td></tr><tr><td>4</td><td>1979-03-15</td><td>普洱</td><td>23°07'</td><td>101°15'</td><td>6.8</td><td>265</td><td>216</td><td>>2g</td><td>>30</td><td>Y</td><td>100</td></tr><tr><td>5</td><td>1983-06-24</td><td>莱州</td><td>21°14'</td><td>103°10'</td><td>7. 0</td><td>425</td><td>173</td><td>>3σ</td><td>>30</td><td>Y</td><td>160</td></tr><tr><td>6</td><td>1984-04-24</td><td>孟连</td><td>22°04'</td><td>99°14'</td><td>6.0</td><td>489</td><td>227</td><td>>2g</td><td>>2g</td><td>Y</td><td>70</td></tr><tr><td>7</td><td>1985-04-18</td><td>禄劝</td><td>25°52'</td><td>102°51'</td><td>6.3</td><td>93</td><td>4</td><td>>2g</td><td>>30</td><td>Y</td><td>60</td></tr><tr><td>8</td><td>1986</td><td></td><td></td><td></td><td></td><td></td><td></td><td>>2g</td><td>>2g</td><td>无≥6.0</td><td>地震</td></tr><tr><td>9</td><td>1988-11-06</td><td>澜沧</td><td>22°50'</td><td>99°43'</td><td>7.6</td><td>372</td><td>231</td><td>>3g</td><td>>30</td><td>Y</td><td>170</td></tr><tr><td>10</td><td>1989-05-07</td><td>耿马</td><td>23°29'</td><td>99°29'</td><td>6.3</td><td>377</td><td>242</td><td>>2g</td><td>>30</td><td>Y</td><td>30</td></tr><tr><td>11</td><td>1992-04-23</td><td>孟连</td><td>22°25'</td><td>98°56'</td><td>6.8</td><td>464</td><td>233</td><td>>3g</td><td>>3g</td><td>Y</td><td>90</td></tr><tr><td>12</td><td>1993-01-27</td><td>普洱</td><td>22°56'</td><td>101°05'</td><td>6.3</td><td>291</td><td>216</td><td>>3g</td><td>>3g</td><td>Y</td><td>50</td></tr><tr><td>13</td><td>1995-07-12</td><td>孟连外</td><td>22°00'</td><td>99°18'</td><td>7.3</td><td>476</td><td>225</td><td>>2g</td><td>>3g</td><td>Y</td><td>100</td></tr><tr><td>14</td><td>1995-10-24</td><td>武定</td><td>25°46'</td><td>102°16'</td><td>6.5</td><td>110</td><td>330</td><td>1</td><td>1</td><td>1</td><td>无观测</td></tr><tr><td>15</td><td>1996-02-03</td><td>丽江</td><td>27°18'</td><td>100°06'</td><td>7.0</td><td>360</td><td>310</td><td>>2g</td><td>>3σ</td><td>Y</td><td>80</td></tr><tr><td>16</td><td>2003-07-21</td><td>大姚</td><td>25°57'</td><td>101°14'</td><td>6.2</td><td>210</td><td>315</td><td>>3σ</td><td>>2g</td><td>Y</td><td>80</td></tr><tr><td>17</td><td>2008-05-12</td><td>汶川</td><td>31°00'</td><td>103°24'</td><td>8.0</td><td>670</td><td>24</td><td>>2g</td><td>>2g</td><td>Y</td><td>50</td></tr><tr><td>18</td><td>2013-04-20</td><td>芦山</td><td>30°18'</td><td>103°00'</td><td>7.0</td><td>580</td><td>12</td><td>>2g</td><td>>2g</td><td>Y</td><td>45</td></tr><tr><td>19</td><td>2014-05-30</td><td>盈江</td><td>25°00'</td><td>97°48'</td><td>6.1</td><td>480</td><td>280</td><td>>2g</td><td>>2g</td><td>Y</td><td>80</td></tr><tr><td>20</td><td>2014-08-03</td><td>鲁甸</td><td>27°06'</td><td>103°18'</td><td>6.5</td><td>240</td><td>20</td><td>>2g</td><td>>2σ</td><td>Y</td><td>65</td></tr><tr><td>21</td><td>2014-10-07</td><td>景谷</td><td>23°24'</td><td>100°30'</td><td>6.6</td><td>280</td><td>230</td><td>>2g</td><td>>2g</td><td>Y</td><td>35</td></tr></table></body></html>
+
+表中包括发震日期、震区地点、地理纬度 $\varphi$ 和地理经度 $\lambda$ 、震级 $M$ 、相对于观测仪器的距离 $D$ 和方位A、时纬残差异常变化量 $S ( t )$ 和 $S ( \varphi )$ ，以及震前预兆天数 $T ( d )$ 。 $\mathrm { Y } / \mathrm { N }$ 表示异常的同步与否
+
+正如在文「7]中指出的，光学天文时纬残差的异常与其它和地震相关的地球物理现象有相似之处，相当多的异常出现在地震前两三个月。统计结果表明，当地震的震级大于6.0时，光学天文时纬残差警戒信号可以涉及到震中距达300或 $4 0 0 \mathrm { k m }$ 的地震，但当震中距更大时，例如 $7 0 0 \mathrm { k m }$ ，一般无反映。
+
+从表1可以看出，在2008 年四川汶川8.0地震[7]]以前，有5次向云南省地震局提供了震前警戒信息，即表1中的第11、12、13、15、16号震例，只因单台不成测网，还不能提供地震发生的三要素（即具体的时间、地点和震级）[7]。
+
+云南天文台所在地区的地质构造和相关的地震标示见图1。图中只标出地震发生的日期和震级，没有标出地震发生的地点，因为在研究期间有多次地震发生在同一地点（如孟连）。
+
+(1)金沙江断裂；(2)红河断裂；(3)小江断裂；(4)安宁河断裂；(5)鲜水河断裂；(6)龙门山断裂
+
+![](images/b19897c753ce5fd8083646eece55578685e547e7e055eb742a26ddd1dd8d4744.jpg)  
+图1川滇菱形块体地质构造图  
+Fig.1Figure of the geological structure of Xikang-Yunnan rhombic fault block
+
+# 22010年以来的预测实践
+
+自2010年2月，每个月的月初向云南省地震预报研究中心提供至上月底的光电等高仪时纬残差五日异常点日期，供他们分析研究和预测。
+
+从2010年至今的几年时间里，在云南天文台周邻 $7 0 0 ~ \mathrm { k m }$ 以内，先后发生了4次大于6.0的地震，2013年4月20日四川芦山7.0地震，2014年云南省内3次大于6.0的地震，即5月30日盈江6.1地震、8月30日鲁甸6.5级地震和10月7日景东6.6级地震，这4次地震的震中距云南天文台分别是 $5 8 0 \mathrm { k m }$ 、 $4 8 0 \ \mathrm { k m }$ 、 $2 4 0 \mathrm { k m }$ 和 $2 8 0 \mathrm { k m }$ ，其方位分别是北偏东 $1 2 ^ { \circ }$ 、西偏北 ${ 1 0 } ^ { \circ }$ 、北偏东 $2 0 ^ { \circ }$ 和南偏西 $4 8 ^ { \circ }$ （图1)。这4次地震不同程度地造成了人员伤亡和财产损失。
+
+同一期间，每月一报的云南天文台光电等高仪的时纬资料中，分别在这4次地震前的2013年3月和2014年3月、5月、9月有大于 $2 \sigma$ 的同步异常，而且仅有这4次同步异常，再无其它同步异常（见图2）。所以从2010年以来报告的预警情况看，既没有虚报，也没有漏报。
+
+![](images/7c1982bd37fb981e6331d961f2d819c23c727736745e4b66972ad85d5413d87e.jpg)  
+图22010.0\~2016.0年云南天文台光电等高仪的时纬残差曲线  
+Fig.2Residuals curves of the astronomical time（a）and latitude（b）of photoelectric astrolabe in YO from 2010.0 to 2016.0
+
+# 3讨论
+
+光学天体测量仪器是以地方铅垂线作为基准进行观测。因此，在观测结果中扣除地球整体运动（即地球自转参数影响)以后的部分，再经过适当的数据处理，消除偶然误差、星位误差、大气季节性等因素的影响以后，主要就是本地铅垂线的变化。而引起本地铅垂线变化的原因，主要可能来自震前地震孕育过程中的地下物质运动，如地下水活动和板内块体移动等[10-11]，因此，它也可用于在较大范围内监测重力的变化。
+
+光学天文时纬残差的同步异常，确实可以为台站周围即将发生的地震提前给出警戒信息，但是这种异常与地震发生之间的时间关系，目前也只是定性的。
+
+从表1可以看到，异常信号的出现与大地震发生之间的时间延迟一般是2至3个月，但有时更长，特别是1988年孟连7.6地震与异常信号之间的时间延迟大约是170 天。一些学者的研究结果表明，有些异常地球物理现象在地震前几个月、半年甚至更长的时间以前就出现了，例如1995年7月12 日孟连7.3级地震，有些地球物理异常在1994年末就出现了。
+
+在研究中还没有得到异常信号与地震震级、震中位置之间定量的关系，并且震级较小的地震和震中距较大的地震，在光学天文时纬残差中都还不能反映。如果用几架高精度的仪器，例如国家天文台研制的具有高精度、高自动化特征的CCD天顶望远镜[12]，在地震活动区建立一个观测网，仪器之间相距约 $2 0 0 \sim 3 0 0 ~ \mathrm { k m }$ ，获得丰富的资料对于研究和估计地震的震级和地点将有积极的作用[1]。
+
+另外，光学天体测量仪器的观测只能在晴朗和少云的夜晚进行。在昆明，每年的5～10月是雨季，阴雨天严重影响光学天文观测资料的连续性（如图2）。
+
+总之，2010年以来的预测实践进一步表明，利用光学天文时纬残差的同步异常提供地震预测信息，既没有虚报，也没有漏报，光学天文观测的时纬残差异常可能是一种有效的地震前兆，值得进一步重视和更加深入的研究。
+
+致谢：感谢中国地球物理学会天灾预测专业委员会顾问、英籍华人陈一文博士和云南天文台李春晓博士的有益讨论和帮助。
+
+# 参考文献：
+
+[1] 李致森，张国栋，张焕志，等．天文测时测纬的一种短时间异常与台站附近强震的对应关系［J].地球物理学报，1978，21（4)：278-291.Li Zhisen，Zhang Guodong，Zhang Huanzhi，et al. Relationship between the short-term anomalyof astronomical time-latitude observation and the strong earthquakes around the observatory [J].Acta Geophysical Sinica，1978，21(4） :278-291.  
+[2] Li Z S，Han Y B， Tian J. A possible warning sign of major earthquake through observations ofastronomical time and latitude [J]. Astrophysics and Space Science，1991，177(1） :383-384.  
+[3] 韩延本.北京天文台Ⅱ型光电等高仪时纬残差异常与地震的相关性［J］.科学通报，1992,37(12): 1105-1108.Han Yanben.Relationship between residual anomalies of time-latitude and earthquakes [J].Chinese Science Bulletin，1992，37(12）：1105-1108.  
+[4] Li Z S,Han Y B,Tian J,et al.Monitoring of anomalies of residuals of astronomical time-latitudebefore major earthquakes [J]. Publications of Beijing Astronomical Observatory，1992,19: 58-63.  
+[5] 韩延本，胡辉，杜红荣.禄劝6.3级地震前云南天文台时纬残差的初步分析［J].科学通报，1986，31(16)：1244-1246.Han Yanben，Hu Hui，Du Hongrong.Occurrence of short-period anomaly of residuals ofastronomical time-latitude at Yunnan observatory preceding the Luquan earthquake （ $\mathrm { M L } = 6 . 3$ ））[J].Chinese Science Bulletin，1986，31(16)：1244-1246.  
+[6] 廖德春，郑大伟.江苏太仓五级地震与上海天文台测时异常［J]．科学通报，1990，35(23): 80-81.Liao Dechun, Zheng Dawei. Earthquake（ $\mathrm { M S } = 5$ ）in Taicang and anomalous residuals of timedetermination at Shanghai Observatory [J]. Chinese Science Bulletin，1990，35(23）:80-81.  
+[7] 阚荣举，胡辉.云南及其周邻大地震与云南天文台时纬残差变化［J］．中国地震，1995，11(4): 299-309.Kan Rongju,Hu Hui. The major earthquakes in and around Yunnan and variation of astronomicaltime-latitude residuals determined in Yunnan Observatory [J]. Earthquake Research in China,1995，11(4): 299-309.  
+[8] 胡辉，苏有锦，付虹，等．大姚、普洱地震前云南天文台时纬残差异常［J］．自然灾害学报，2007，16(5)：106-110.Hu Hui,Su Youjin,Fu Hong，et al. Anomalies in time-latitude residuals at Yunnan Observatorybefore Dayao and Puer earthquakes [J]. Journal of Natural Disasters，2007，16(5）:106-110.  
+[9] 胡辉，韩延本，苏有锦，等. $2 0 0 8 \sim 2 0 0 9$ 年云台光电等高仪时纬残差的异常波动［J］．天文研究与技术—国家天文台台刊，2011，8(1)：91-94.Hu Hui,Han Yanben，Su Youjin，et al.Anomalous variations of daily residual fluctuations ofastronomical time of the astrolabe in the Yunnan Observatory during 2O08 - 2009[J].Astronomical Research & Technology———Publications of National Astronomical Observatories ofChina，2011,8(1):91-94.  
+[10] 张国栋.强震前地下水活动引起的垂线变化［J].地震学报，1981(2)：50-57.Zhang Guodong.The variation in the vertical line caused by the activity of the underground waterbefore a strong earthquake [J]. Acta Seismological Sinica，1981(2）: 50-57.  
+[11] 胡辉，林辉，尹志强，等.汶川地震的天文背景［J].天文研究与技术——国家天文台台刊，2009，6(2)：161-166.Hu Hui,Lin Hui,Yin Zhiqiang，et al. Astronomical background of Wenchuan earthquake [J].Astronomical Research & Technology———Publications of National Astronomical Observatories ofChina，2009,6(2)：161-166.  
+［12］王博，田立丽，王政，等.数字化天顶望远镜观测图像及数据处理［J].科学通报，2014,59(12): 1100-1107.Wang Bo，Tian Lili，Wang Zheng，et al. Image and data processing of Digital Zenith Telescope（DZT-1）of China ［J].Chinese Science Bulletin，2014，59(12）：1100-1107.
+
+# Practice of Anomalies of Optical Astronomic Time-latitude Residuals in Strong Earthquake Prediction
+
+Hu Hui $^ { 1 }$ ，Li Yuqiang1，Su Youjin²，Yin Zhiqiang³，Han Yanben $^ 3$ ，Wang Rui $^ { 1 }$ ，Wang Bo³ (1.Yunnan Observatories,Chinese Academy of Sciences，Kunming 65oo11,China,Email；huhui@mail.ynao.ac.cn；   
+2.Seismological Bureau of Yunnan Province,Kunming 65O224,China;   
+3.National Astronomical Observatories，Chinese Academy of Sciences，Beijing 10oo12,China)
+
+Abstract：To investigate the practical application of the anomalies of optical astronomic time-latitude residuals in earthquake prediction，the article introduces the discovery ofthe anomalies of optical astronomic time-latitude residuals before earthquake，its research practice in earthquake prediction，and the actual relation between the anomalies of the time-latitude residuals of photoelectric astrolabe in Yunnan Observatory and the strong earthquakes around，and finally discusses its possible geophysical mechanism，current limitations in earthquake prediction and possblesolution methods.The forecasting practice since 2010 especially shows that neither does it generate false forecasts，nor misses forecasts of major earthquakes.This indicates that it is can be used as a method of earthquake prediction for practical usage，such work requires more attention and further study.
+
+Key words:Optical astronomic time-latitude residuals；Plumb line variation；Motion of groundmass；Earthquake

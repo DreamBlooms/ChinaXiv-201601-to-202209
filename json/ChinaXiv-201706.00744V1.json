@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "Verification on Spray Simulation of a Pintle Injector for Liquid Rocket Engine ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Min $\\mathbf { S o n } ^ { 1 }$ ,Kijeong ${ { \\bf { Y } } _ { \\bf { u } } } ^ { 1 }$ , Kanmaniraja Radhakrishnan1, Bongchul Shin1 and Jaye Koo² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Graduate Student, Korea Aerospace University, Goyang,Republic of Korea 2. School of Aerospace and Mechanical Enginering,Korea Aerospace University, Goyang,Republic of Korea $\\mathfrak { C }$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The pintle injector used for a liquid rocket engine is a newly re-attracted injection system famous for its wide throtle ability with high eficiency.The pintle injector has many variations with complex inner structures due to its moving parts.Inorder to study the rotating flow nearthe injector tip,which was observed from the cold flow experment using water and air,a numerical simulation was adopted and a verification of the numerical model was later conducted.For the verification process,three types of experimentaldata including velocity distributions of gas flows,spray angles and liquid distribution were all compared using simulated results.The numerical simulation was performed using a commercial simulation program with the Eulerian multiphase model and axisymmetric two dimensional grids.The maximum and minimum velocities of gas were within the acceptable range of agreement,however, the spray angles experienced up to $2 5 \\%$ error when the momentum ratios were increased. The spray density distributions were quantitatively measured and had good agreement.As aresult of this study, it was concluded that the simulation method was properly constructed to study specific flow characteristics of the pintle injector despite having the limitations of two dimensional and coarse grids. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Spray characteristics,Pintle injector,Simulation,Experiment,Liquid rocket engine ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The pintle injector is a newly re-attracted injection system for a liquid rocket engine possessing several advantages such as availability of one injector unit instead of many injector elements and wide throttleability with high efficiency. These advantagesmake the pintle injectorhighly suitable for deep throttling of aliquid rocket engine due to its good efficiency at a wide range of throt tlinglevels[1-5].Unlike traditional coaxial injectors,the pintle injector has a complex shape due to its moving parts.For this reason，the flow characteristics near the injectoroutlet areverydifferentfrom that of thecoaxial injector. Therefore,fundamental studies of the pintle injector are required to analyze spray characteristics of each specific injector. Son et al. performed such a study on spray angles of the pintle injector using a moving pintle type injector[6],however,it was difficult to analyze the detailed breakup and mixing characteristics through experiment only. From Son's experimental research,an unusual spray structure was also observed near the pintle tip at specific injection conditions.Yue et al. conducted numerical combustion simulations of the pintle injector toinvestigate further [7]. During the investigates,although unique flow fields were visualized,the analysis of the detailed spray characteristics was not enough to properly study the effects of the injector shapes on the spraystructure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d0469067f3fd98c7c480a70c9668a270d39e644cfbdad84d1ef18dd08a84ee8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Nomenclature</td></tr><tr><td>D</td><td>diameter (mm)</td><td>Subscripts</td><td></td></tr><tr><td>dopen</td><td>pintle opening distance (m)</td><td>cg</td><td>center gap</td></tr><tr><td>L</td><td></td><td>cp</td><td>center post</td></tr><tr><td>M</td><td>momentum ratio</td><td>gas</td><td>gaseous</td></tr><tr><td>m</td><td>mass flow rate (kg/s)</td><td>ib</td><td>inner body</td></tr><tr><td>t</td><td>thickness (mm)</td><td>liq</td><td>liquid</td></tr><tr><td>V</td><td>velocity (m/s)</td><td>ob</td><td>outer body</td></tr><tr><td>We</td><td>Weber number</td><td>pe</td><td>pintle end</td></tr><tr><td>Greek letters</td><td></td><td>Pr</td><td> pintle rod</td></tr><tr><td>p</td><td>density (kg/m³)</td><td>Pt</td><td> pintle tip</td></tr><tr><td>0</td><td>surface tension (N/m)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To overcome this challenge,in this study,in order to analyze the microscopic flow characteristics near the tip region,a numerical method has been adopted and verification was also conducted by comparing the contour with spray images from the experiment. Two dimensional domains with coarse meshes were used only for the phenomenological study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Data for Verification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Setup and Conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pintle injector has coaxial injection ports with a moving pintle at the center port as shown in Figure 1. The pintle consists of a straight rod and cone shaped pintle tip with a constant spreading angle. The annular gap has a constant injection area and this area was fixed in this study. Detail specifications are arranged in Table 1. The center post protrudes from the injector plate and the diameter of the pintle tip is larger than the diameter of the center post. For this reason, the injector has a ring-shaped space at the post end with a $5 . 0 \\ \\mathrm { m m }$ length and $4 . 0 \\ \\mathrm { m m }$ depth. The flow rate and spray structure was adjusted according to the opening distance between the pintle tip and the center post.Although real propellants should be used to study spray characteristics,simulants,such as Water and air,were used instead of liquid oxidizer and gaseous fuel. Water was supplied from the piston pump via two bypass valves for flow rate control and air came from the compressor as shown in Figure 2.In order to properly visualize the spray,a scattering technique was applied.The camera was installed horizontally at 45 degrees for the axis and was constructed by the stroboscope and spray.Using this setup, the time averaged images of sprays were obtained and spray angles were measured. In thisstudy, the measured spray angles were used to verify the simulation results. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Additionally, one more experimental data was collected form a spray patternator as shown in figure 3. This patternator consisted of 7by 7 cylinders which each had а $2 0 \\mathrm { m m }$ diameter. Spray was injected vertically into the patternator at a $5 0 \\mathrm { m m }$ axial distance.The liquid in each cylinder was measured using an ultrasonic distance sensor. Measured mass distributions were normalized by collected total mass.For the verification,the mass concentrations of 4 cylinders from the center point to the outside were compared with similarly calculated mass concentration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a70d98d2fc058f735774a0ec2207a20e517a9ef3858af76f87661a1f704f7702.jpg",
+        "img_caption": [
+            "Fig.1Schematic of pintle injector "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/75648980e242612f9417965bbdc9dd17488261f2e437619cbd8cba9cdc282586.jpg",
+        "table_caption": [
+            "Table1 Dimensions of the pintle injector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Outer body diameter (mm)</td><td>Dob</td><td>13.5</td></tr><tr><td>Inner body diameter (mm)</td><td>Dib</td><td>12.0</td></tr><tr><td>Center gap diameter (mm)</td><td>Dcg</td><td>4.0</td></tr><tr><td>Center post diameter (mm)</td><td>Dcp</td><td>8.0</td></tr><tr><td>Pintle rod diameter (mm)</td><td>Dpr</td><td>3.0</td></tr><tr><td>Pintle tip diameter (mm)</td><td>Dpt</td><td>12.0</td></tr><tr><td>Center post length (mm)</td><td>Lpt</td><td>5.0</td></tr><tr><td>Pintle tip thickness (mm)</td><td>tpt</td><td>3.0</td></tr><tr><td>Pintle end thickness (mm)</td><td>tpe</td><td>1.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3296639559409856088b4d08293d8652f7340a66b509587e51f0a18d9a06aa01.jpg",
+        "img_caption": [
+            "Fig.2Schematic of spray visualization system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four experimental cases at different injection conditions were compared as shownin Table 2.Case1 was the reference and the pressure drop of liquid injection increased for case 2.Case 3 had a longer distance than that of case 2 and case 4 was designed to study the effect of the gas pressure drop.In order to generalize the results,a momentum ratio and Weber number were used as non-dimensional numbers shown in equation (1) and (2). Only bulk velocities at the injector exit were used in the numbers and the opening distance was adopted for characteristic length of Webernumber. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ~ = { \\frac { \\dot { m } _ { g a s } V _ { g a s } } { \\dot { m } _ { l i q } V _ { l i q } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW e = \\frac { { { \\rho } _ { g a s } } \\left( { { V } _ { g a s } } - { { V } _ { l i q } } \\right) ^ { 2 } { { d } _ { o p e n } } } { { { \\sigma } _ { l i q } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/acfd4243d28743dac657f80eb5c25c21ff72defef62f57f8320f15c3fb808be5.jpg",
+        "img_caption": [
+            "Fig.3Schematic of spray patterning system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6aec7fbe92dd440ea3d67053c1776f466feb8db9401510e993562dbae0bd002d.jpg",
+        "table_caption": [
+            "Table 2 Experimental cases "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Case 1</td><td>Case 2</td><td>Case 3</td><td>Case 4</td></tr><tr><td>Pintle opening distance (mm)</td><td>0.20</td><td>0.20</td><td>0.60</td><td>0.60</td></tr><tr><td>Pressure drop of liquidinjection (barg)</td><td>0.10</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>Pressure drop of gas injection</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.20</td></tr><tr><td>(barg) Momentum ratio</td><td>2.02</td><td>0.79</td><td>0.77</td><td>2.68</td></tr><tr><td>Weber number</td><td>10.62</td><td>9.35</td><td>32.19</td><td>121.30</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The scattering spray images of the four cases produced from the experiment are illustrated in Figure 4.At similar Weber numbers,the spray angle of case 2 was larger than that of the angle of case 1 due to an increase of momentum ratio.In addition，at the similar momentum ratio condition,although the overall spray structures of cases 2 and 3 were similar,an additional spray layer was observed in case 3.Finally, the boundary of the spray layer was smeared in case 4.Only for case 4 was there a splash near the center post region and this phenomenon was consistently observed in the cases with high Weber numbers.From these results,it could be deduced that the post shape strongly affected to the spray structure.In order to studythis effectin detail,numerical method was adopted andverified. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results of Numerical Simulation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NumericalMethodand Conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Numerical analysis was performed on the 2D axisymmetric domain shown in Figure 5,using a commercial program.All boundary conditions were similar to the actual experimental conditions. The number of basic grids was about 3oo,Ooo and refinements were conducted three times after convergence.An unsteady pressure based solver was used with the first order implicit method for time and the second order discretization for space. The realizable $\\mathbf { k }$ -epsilon model using standard wall function was applied to create a viscous flow model. The Eulerian multiphase model was adopted to simulate liquid and gas injection. The initial conditions and boundary conditionsin all four casesare shown in Table 3 and these conditions corresponded to the experimental conditions.Injection temperatures were fixed to 3OoK for water and air in all four cases.At all outlet boundaries,atmospheric conditions were assumed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NumericalResults ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to study the global spray structure,volume fractions of water phase were illustrated in log scales as shown in Figure 6.Similar to our experimental result, the sprays of cases 1 and 4 were strongly affected and mixed by gas flows while cases 2 and 3 were only lightly affected. There is a noticeable point for case 1 and case 4 where the recirculation zones were constructed under the pintle tip.This rotating region could be the flame holder and stabilizer in combustion,however, the recirculation Was unstable.And this recirculation will also cause a cooling problem in the pintle tip.Another remarkable point was the additional recirculation zone near the center post as shown in Figure 7. Streamlines colored by turbulent kinetic energies at the post region were different from those at the spray structures.Cases 2 and 3 had two rotating flows while cases1 and 4had one large circulation. Strong rotating flows at cases 1 and 4 pulled up the liquid drops from the sheet and this phenomenon was also clearly observed in the experiment of case 4.Because the recirculation at this region Was more stable than that of the recirculation under the pintle tip,it could possibly be a flame anchoring point at the combustion process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c1f2f634ab7c68ef3461e4d956a001454e5a623ad5a61031af7c03b259a486c.jpg",
+        "img_caption": [
+            "Fig.4Spray images from experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cdeed1942f081c57dfb51a17bc4e5ccc32e24ac8042c6f13f9daddb1b322152.jpg",
+        "img_caption": [
+            "Fig.5Specification of numerical domain and boundary conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5ff1354e2867493afd2aa9975c2a28de6afd596d22733272f2d54964ca1cc1d.jpg",
+        "table_caption": [
+            "Table3 Numerical simulation conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Liquid mass flux (Kg/s.m²)</td><td>Gas mass flux (Kg/s.m²)</td><td>Pintle opening distance (mm)</td></tr><tr><td>Case 1</td><td>2255.45</td><td>77.92</td><td>0.2</td></tr><tr><td>Case 2</td><td>3605.09</td><td>77.92</td><td>0.2</td></tr><tr><td>Case 3</td><td>6195.22</td><td>77.92</td><td>0.6</td></tr><tr><td>Case 4</td><td>6195.22</td><td>150.20</td><td>0.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VerificationofNumericalMethod ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the purpose of verification of gas flow, two cases with only gas injection were compared with the results of the simulations as shown in Figure 8.The figure shows velocities along the radial direction at the axial point of $5 0 \\mathrm { m m }$ distance.The initial and final velocities from the experiment were very similar to the simulation results but the calculated profiles were more slender than the experiment results.Considering the limitations of the two dimensional simulation，these results were enough to analyze the phenomenological structures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the contour images, numerical spray angles were extracted and compared with experimental results as shown in Table 4.Comprehensively, it was similar to that of the maximum spray angle as shown in case 3 and the minimum angle in case 1.This means that the overall spray angles have the same trends as found in the experimental results.However, there was about a $2 5 \\%$ error rate in the spray angles for the cases with high momen tum ratios such as those in case 1 and 4.In actuality, the measurements were too obscured in order to properly define spray boundaries and additionally,the numerical grids were too coarse to capture the small droplets.For these reasons,a comparison of more precise quantities Was required and therefore the data of spray density distributions were compared. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e46adf2a933cc5ffc96b8936660d9d108d46eb752b48a1df66340a2068dcba9b.jpg",
+        "img_caption": [
+            "Fig.6Contours of volume fraction of liquid (log scale) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/811a10dcaf567bd9b0af5bdf4a8fadc03e95f2d89e63a13f1c15d25a6ee8b9fc.jpg",
+        "img_caption": [
+            "Fig.7Contours of turbulent kinetic energy near the post region "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This method was more accurate than using that of the spray angle since the spray density distribution could be measured with exact quantity. While conducting the ex periment,the distributions were measured using 49 cylinders.For the axisymmetric assumption,measured liquid volumes of 3 cylinders and a single half center cylinder were selected as shown in Figure 9. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to apply the same collecting condition to the simulation,volume fractions at the same axial point were measured and grid data was integrated into 4 points as a single unit cylinder of $2 0 ~ \\mathrm { m m }$ diameter.In cases 1 and 4, because of the high momentum ratios, the sprays were concentrated towards the center. The overall agreement of results was acceptable except for case 3 which was due to the limitation of breakup modeling in the 2-D domain. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0050ab9b0a857e5572b5403a01fd87f20f0ea9d96bc40dc8b334a578c8a1bc2a.jpg",
+        "img_caption": [
+            "Fig.8Gas velocities along the radial positions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/47260f8ef514c9d54201c6a98c3e14112e12083ef6af9164b0043d51e40db9ad.jpg",
+        "table_caption": [
+            "Table 4Comparison of spray half angles "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Angle(°)</td><td rowspan=\"2\">Error (%)</td></tr><tr><td>Calculation</td><td>Experiment</td></tr><tr><td>Case 1</td><td>21.1</td><td>28.4</td><td>25.7</td></tr><tr><td>Case 2</td><td>44.6</td><td>47.2</td><td>5.5</td></tr><tr><td>Case 3</td><td>53.8</td><td>58.1</td><td>7.4</td></tr><tr><td>Case 4</td><td>39.5</td><td>52.4</td><td>24.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae38a3ab2317ddb8c7ddb81529c36ee719ac1ee3d30bd94ded3362baa22ed209.jpg",
+        "img_caption": [
+            "Fig.9Selected patternator region in experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0c2c27a1ce38339a3466ae8ad81ebc0aad5232426bdc14b8fc01e88e4f6590b.jpg",
+        "img_caption": [
+            "Fig.10Spray density distribution at radial direction "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to verify the simulation method used for the spray characteristics study of a pintle injector,the results from our experiment and actual simulation were compared.Using three different sets of data,verification were performed on;(1） velocity distributions of gas flows,(2) spray angles and(3）liquid distribution.From these comparisons,the results can be concluded as follows; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Comparing gas velocities along a radial direction, the maximum and minimum values were well matched. However, the simulated velocity profile was more slender than the measured profile. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2） Spray angles of less atomized cases were finely modeled and recirculation structureswere revealed. However, the highly atomized cases had an error rate of about $2 5 \\%$ due to difficulty of measurement from the spray images. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)Finally,a more precise quantityand spraydensity distribution were compared and the result showed reasonable agreement. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by Advanced Research Center Program （NRF-2013R1A5A1073861） through the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIP） contracted through Advanced Space Propulsion Research Center at Seoul National University. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]M.J.Casiano,J.R.Hulka,and V.Yang,Liquid-PropellantRocket Engine Throttling:A Comprehensive Review, Journal of Propulsion and Power,Vol.26,No.5,pp.793- 810,2010.   \n[2]M.J.Bedard,T.W.Feldman,A.Rettenmaier,and W. Anderson,Student Design /Build/Test of Throttleable LOX-LCH4 Thrust Chamber, Proceedings of the 48th AIAA/ASME/SAE/ASEE Joint Propulsion conference & Exhibit,July,Atlanta,GA,AIAA 2012-3883,2012.   \n[3]G.A.Dressler andJ.M.Bauer,TRWPintle Engine Heritageand Performance Characteristics,36th AIAA/ ASME/SAE/ASEE Joint Propulsion Conference and Exhibit,LasVegas,USA,AIAA2000-3871,2000.   \n[4]J.M.Gromski,A.N.Majamaki,S.G. Chianese,V.D. Weinstock,and T.S.Kim，Northrop Grumman TR202 LOX/LH2 Deep Throttling Engine Technology Project Status,46th AIAA/ASME /SAE/ASEE Joint Propulsion Conference & Exhibit,July,Nashville,TN,AIAA2010- 6725,2010.   \n[5]C. G. Yue, J. X. Li, X. Hou, X. P. Feng, and S. J. Yang, Summarization on Variable Liquid Thrust Rocket Engines,Science in China Series E:Technological Science, Vol. 52,No.10, pp.2918-2923,2009.   \n[6]M. Son,K. Yu,J. Koo, O. Kwon,and J. Kim, Effects of Momentum Ratio and Weber Number on Spray Half Angles of Liquid Controlled Pintle Injector,Journal of Thermal Science,Vol.24,No.1,pp.37-43,2015.   \n[7]C.G. Yue,X. L. Chang, S. J. Yang,and Y. H. Zhang, Numerical SimulationofaPintle Variable ThrustRocket Engine,Communications in Computer and Information Science,Vol.159,pp 477-481,2011. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,348 @@
+[
+    {
+        "type": "text",
+        "text": "Report ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comparing phreatic evaporation at zero water table depth with water surface evaporation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Shunjun1\\*, GAN Yongde1,2, CHEN Yongbao1.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof Desert and Oasis EcologyXinjiang Instituteof Ecologyand GeographyChinese Academyof Sciences, Urumqi 830011, China;   \n2 State Key Laboratory of Simulation and Regulation of Water Cyclein River Basin, China Instituteof Water Resources and Hydropower Research,Beijing10o038, China;   \n3 Central South Institute of Metallurgical Geology, Yichang 443003, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Salt-affected soils are mostly found in irrigated areas within arid and semi-arid regions where the groundwater table is shallw. Soils of this type have become an increasingly severe problem because they threaten both the environment and the sustainable development of irrigated agriculture. A tool to estimate phreatic evaporation is therefore urgently required to minimize the salinization potential of salt-affected areas. In this context, phreatic evaporation at zero water table depth $( E _ { 0 } )$ is a key parameter for establishing a model for calculating phreatic evaporation. The aim of this study was to explore the law of phreatic evaporation and to develop structurally rational empirical models for calculating phreatic evaporation, based on $E _ { 0 }$ data of six types of soil (i.e., gravel, fine sand, sandy loam, light loam, medium loam, and heavy loam) observed using the non-weighing lysimeter and water surface evaporation $( E _ { 6 0 1 } )$ data observed using a E601 evaporator of same evaporation area with a lysimeter-tube at the groundwater balance station of the Weigan River Management Office in Xinjiang Uygur Autonomous Region, China, during the non-freezing period (April to October) between 1990 and 1994. The relationship between $E _ { 0 }$ and $E _ { 6 0 1 }$ was analyzed, the relationship between the ratio of $E _ { 0 }$ to $E _ { 6 0 1 }$ and the mechanical compositions of different soils was presented, and the factors influencing $E _ { 0 }$ were discussed. The results of this study reveal that $E _ { 0 }$ is not equal to $E _ { 6 0 1 }$ . In fact, only values of the former for fine sand are close to those of the latter. Data also show that $E _ { 0 }$ values are related to soil texture as well as to potential atmospheric evaporation, the ratio of $E _ { 0 }$ to $E _ { 6 0 1 }$ and the silt-clay particle content (grain diameter less than $0 . 0 2 { \\mathrm { ~ m m } } ^ { \\cdot }$ is negatively exponentiall correlated,and that soil thermal capacity plays a key role in phreatic evaporation at $E _ { 0 }$ . The results of this analysis therefore imply that the treatment of zero phreatic depth is an essential requirement when constructing groundwater balance stations to study the law of phreatic evaporation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: phreatic evaporation; water table depth; water surface evaporation; soil texture; soil thermal capacity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phreatic evaporation from bare soil is a process that transfers water from phreatic zone to unsaturated zone before it passes into the air via soil evaporation. Understanding this process is of great importance to a range of research fields, including hydrology, hydrogeology, soil physics, and agriculture, especially in the context of evaluating water resource and calculating farmland drainage (Jin, 1982; Qu et al., 1983; Zhang, 1986, 1996, 2013; Huo and Wang, 1988; Lei et al., 1988; Shen, 1992; Wang,1993; Wang et al., 1994; Zhang and Shen, 1998; Ma et al., 2006; Su and Tao, 2Oo9). In arid and semi-arid regions where areas with a shallow groundwater table, this process is a particular issue because considerable amounts of water are lost to the atmosphere and salts are accumulated within upper parts of the soil profile. In places where the groundwater table is shallow, evaporation can also lead to increasingly severe soil salinization problems which result in a surface salt crust that hampers agricultural activities (Zarei et al., 2OO2, 2OO9); such crusts also threaten the environment and sustainable agricultural development in these regions (Williams, 1987) and are therefore critical factors affecting the stability of oasis agro-ecosystems. Soil secondary salinization is particularly serious within the Xinjiang region of northwestern China because of the evaporation of groundwater with less rainfall, a larger evaporation rate overall,and a shallow water table (Shi et al.,2Ol3).At the same time, however, direct evaporation measurements over large scales are problematic, costly, time consuming, and often impractical (Zarei et al., 2O1O). It is therefore essential to establish a tool to estimate phreatic evaporation (capillary rise) to minimize the salinization potential within salt-affected areas. In this context, Averianov (1956) proposed an empirical equation to estimate phreatic evaporation (Eq. 1). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { g } = E _ { 0 } ( 1 - \\frac { H } { H _ { \\operatorname* { m a x } } } ) ^ { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\mathrm { g } }$ denotes phreatic evaporation intensity $\\mathrm { ( m m / d ) }$ when the water table depth $\\mathrm { ( m ) }$ is $H$ (i.e., from the ground surface to the groundwater table); $E _ { 0 }$ is the phreatic evaporation intensity $\\mathrm { ( m m / d ) }$ when the water table depth is zero (a value which generally approximates surface water evaporation); $H _ { \\mathrm { m a x } }$ is the critical water table depth $\\mathrm { ( m ) }$ at which evaporation ceases; and $n$ is the phreatic evaporation index. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Even though the relationship between $E _ { \\mathrm { g } }$ and $H$ is limited in expression,it has nevertheless been widely applied because it is a simple expresson and requires fewer parameters (Zhang, 1986; Zammouri, 2001; Yang et al., 2011; Chen et al., 2013). At the same time, although the intensity of phreatic evaporation when the water table reaches the ground surface is an important parameter within the Averianov equation, limited research has been carried out regarding $E _ { \\mathrm { g } }$ when $H$ is zero. There are currently four main views regarding the relationship between phreatic evaporation and water table depth. The first view is that the phreatic evaporation at zero water table depth $( E _ { 0 } )$ is equal to, or approximate to, water surface evaporation $( E _ { 6 0 1 } )$ (Huo and Wang, 1988; Tang et al., 1989; Zhang, 1996; Guan, 2010; Xu, 2011; Shen and Huang, 2015). The second view is that phreatic evaporation at $E _ { 0 }$ is more than $E _ { 6 0 1 }$ (Shi and Liang, 1964; Liang, 1992; Tindall et al., 1999; Fang, 2009; Han et al., 2009; Rui, 2014)， while the third argument holds that phreatic evaporation at $E _ { 0 }$ is not equal to $E _ { 6 0 1 }$ (Zheng, 1951; Don and William, 1958). The final view in this context suggests that phreatic evaporation is the same as $E _ { 6 0 1 }$ when the depth of the water table is less than decoupling depth or that of the evapotranspiration (ET) surface (Wang,1993; Cook and Rassam, 2002; Shah et al., 2007; Ridolfi et al.,2008; Johnson et al., 2010). In an earlier study, Saxena et al. (1971) noted that water is lost readily from most soils at rates comparable to those from a free water surface when the water table is shallower than $6 0 \\ \\mathrm { c m }$ ,while Hillel (1998) considered $E _ { 0 }$ to be equivalent to potential evaporation. In a later study carried out in Tunisia, Zammouri (2OO1) noted that the Averianov equation provides more accurate estimates of $E _ { \\mathrm { g } }$ than either the Gardner or MODFLOW approaches， while Blight (20O2） concluded that more evaporation may occur from the bare soil surface than from the water surface. In a series of studies carried out within the Tarim River Basin, Yu (1993), Mao et al. (1998), Shang et al.(1999), and Hu et al. (2Oo9) established a series of empirical equations for estimating $E _ { \\mathrm { g } }$ based on experimental data collected at the Qongkol, Shache, and Aksu water balance experimental stations in South Xinjiang，but in the absence of $E _ { 0 }$ measurements. Additional information regarding phreatic evaporation intensity when the water table depth is zero should therefore be obtained to enable further studies regarding whether, or not, the phreatic evaporation at $E _ { 0 }$ approximates $E _ { 6 0 1 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this study are to: (1) identify whether phreatic evaporation for different soil textures is equal to $E _ { 6 0 1 }$ (as measured by the E6O1 evaporator) when water table depth is zero; (2) analyze the relationships among phreatic evaporation at $E _ { 0 }$ ， $E _ { 6 0 1 }$ , and the mechanical composition of different soils; and (3） provide a parameter to establish a calculation model for phreatic evaporation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study site ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiments described in this study were conducted using a non-weighing lysimeter (Fig. 1) at the groundwater balance station $( 4 0 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N }$ ， $8 2 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { E }$ ： $1 0 1 3 \\mathrm { ~ m ~ }$ a.s.l.） operated by the Weigan River Management Office in Xinjiang Uygur Autonomous Region, China. The annual mean temperature is $1 0 . 7 ^ { \\circ } \\mathrm { C }$ ， mean annual precipitation is $5 3 . 2 \\ \\mathrm { \\ m m }$ ， mean annual water surface evaporation is $2 4 0 0 ~ \\mathrm { { m m } }$ measured by an $\\operatorname { E } \\Phi 2 0$ evaporator, and annual frost-free days are $2 1 6 \\mathrm { ~ d ~ }$ The maximum frozen soil depth is $8 0 ~ \\mathrm { c m }$ ，and there are 29OO annual hours of sunshine. The Weigan River Management Office experimental station encompasses $1 2 0 \\ \\mathrm { h m } ^ { 2 }$ where the soil mostly consists of a grey sandy loam and a yellow mild clay; these clay layers occur $2 \\mathrm { ~ m ~ }$ below the land surface within the profile. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fed1dbec51593a53f175cb40a646dba7164f80b7f566ef745ab9b112ad822fc.jpg",
+        "img_caption": [
+            "Fig.1 Schematic illustration of the non-weighing lysimeter used in this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To accurately encapsulate the range of soil textures seen within the Weigan River irrigation district, we filled a series of 54 lysimeters (cross-sectional area, $0 . 3 ~ \\mathrm { m } ^ { 2 } \\mathrm { \\Omega }$ ） with six types of soil (gravel, fine sand, sandy loam, light loam, medium loam, and heavy loam) at nine water table depths (0.00, 0.25, 0.50, 0.75, 1.00, 1.50, 2.50, 3.50 and $4 . 5 0 ~ \\mathrm { m }$ ） to observe phreatic evaporation (Fig. 2). The mechanical compositions of these six soil types are summarized in Table 1 (Lai et al., 2003). The lysimeters used for these experiments comprise a phreatic evaporation measuring cylinder, a Marriotte bottle, a drainage collector, and a connector (Fig. 1). Cylinders used to control water table depths less than $1 . 0 0 \\mathrm { m }$ were installed on both sides of the observation gallery, while those used to control water table depths more than $1 . 0 0 \\mathrm { ~ m ~ }$ were installed around the underground observation room (Fig. 2). A Marriotte bottle system was connected to the soil column in each case to control and record the internal water table and to measure the amount of water supplied to the soil column (Fig. 1). Gravity drainage was recorded by the collector, while the water supplied to each lysimeter from the Marriotte bottle was measured three times a day at 08:00, 14:00, and 2O:0O (LST). Meteorological data were measured at a standard weather station within the experimental area; variables included air and ground temperature, humidity, hours of sunshine, wind speed at $2 \\mathrm { m }$ above the ground, rainfall, vapor pressure, and $E _ { 6 0 1 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e6892200eed7c38c7edbd3a0bcd1503a4fcaa13ff5c6c67a1692e5bff3c06e5.jpg",
+        "img_caption": [
+            "Fig.2Schematic illustration of the Weigan River groundwater evaporation station "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e42e1714b55c90ab7faa692ec38bdf81914d1e133584369736c8b88dc1bacfd1.jpg",
+        "table_caption": [
+            "Table 1  Soil mechanical composition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil texture</td><td colspan=\"3\">Weight percentage of soil particle content (%)</td></tr><tr><td><0.02 mm</td><td>0.02-0.25mm</td><td>>0.25 mm</td></tr><tr><td>Gravel</td><td>0.00</td><td>0.00</td><td>100.00</td></tr><tr><td>Fine sand</td><td>6.48</td><td>37.07</td><td>56.45</td></tr><tr><td>Sandy loam</td><td>32.36</td><td>67.11</td><td>0.53</td></tr><tr><td>Light loam</td><td>40.28</td><td>54.48</td><td>5.24</td></tr><tr><td>Medium loam</td><td>41.79</td><td>54.44</td><td>3.77</td></tr><tr><td>Heavy loam</td><td>54.95</td><td>44.22</td><td>0.83</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Relationship between phreatic evaporation at zero water table depth $( E _ { 0 } )$ and water surface evaporation $( E _ { 6 0 1 } )$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data reveal the relationship between the phreatic evaporation intensity of the six soil types in the Weigan River irrigation district when water table depth is zero and $E _ { 6 0 1 }$ (Fig. 3). Results reveal that the phreatic evaporation intensity of all six soil types at $E _ { 0 }$ within this region is linearly related to $E _ { 6 0 1 }$ (Fig. 3). This relationship is extremely significant as the correlation coefficient is greater than O.86 and can be expressed as Equation 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { E \\mathrm { 0 } = \\beta \\times E \\mathrm { _ { \\mathrm { 6 0 1 } } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta$ denotes the slope of the correlation equation between phreatic evaporation intensity when water table depth is zero and $E _ { 6 0 1 }$ $\\mathrm { ( m m / d ) }$ ，while $E _ { 6 0 1 }$ denotes the water surface evaporation measured by the E6O1 evaporator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thus, if $\\beta$ equals 1, then $E _ { 0 }$ is equal to $E _ { 6 0 1 }$ . Results further reveal the slope of the correlation equation between phreatic evaporation of the six soil types when water table depth is zero and $E _ { 6 0 1 }$ within the Weigan River irrigation district (Table 2); as these data show that the $\\beta$ value corresponding to the six soil types does not equal one, replacing $E _ { 0 }$ with $E _ { 6 0 1 }$ and establishing an empirical equation to calculate phreatic evaporation corresponding to different water table depths will generate a larger error. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe281d202d0f296e803cc60f8cdd9ad5287fd0555fa40f9484bd9687f77450f5.jpg",
+        "table_caption": [
+            "Table 2 Correlation equation slopes between $E _ { 0 }$ and $E _ { 6 0 1 }$ "
+        ],
+        "table_footnote": [
+            "Note: $E _ { 0 }$ ,phreatic evaporationat zero water table depth; $E _ { 6 0 1 }$ ,water surface evaporation; $\\beta$ ,slope; $R ^ { 2 }$ ,determination coefficient; $R$ correlationcoefficient; $R _ { 0 . 0 1 }$ ,critical correlationcoefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil texture</td><td>Slope β</td><td>R²</td><td>R</td><td>R0.01</td><td>Significance level</td></tr><tr><td>Gravel</td><td>1.2778</td><td>0.9257</td><td>0.9621</td><td>0.2944</td><td>Extremely significant</td></tr><tr><td>Fine sand</td><td>1.1026</td><td>0.8866</td><td>0.9416</td><td>0.3204</td><td>Extremely significant</td></tr><tr><td> Sandy loam</td><td>0.7690</td><td>0.7538</td><td>0.8682</td><td>0.3395</td><td>Extremely significant</td></tr><tr><td>Light loam</td><td>0.6606</td><td>0.7397</td><td>0.8601</td><td>0.2798</td><td>Extremely significant</td></tr><tr><td>Medium loam</td><td>0.5586</td><td>0.7600</td><td>0.8718</td><td>0.3089</td><td>Extremely significant</td></tr><tr><td>Heavy loam</td><td>0.4999</td><td>0.7669</td><td>0.8757</td><td>0.3612</td><td>Extremely significant</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12 (a) Gravel & 12 (b) Fine sand 0 10- E=1.2778E601 08 10- E=1.1026E601 。 % R²=0.9257 R²=0.8866 8 8   \n(p/uu) 6 6 8   \nE 4 8 8 4 美 。 2- 2- o 08 08 / 0 24 6 810 12 0 2 4 6 8 1012 12 12- (c) Sandy loam (d) Light loam 10 （4号 $E _ { \\scriptscriptstyle 0 } = 0 . 7 6 9 0 E _ { \\scriptscriptstyle 6 0 1 }$ （20 10- （204 $E _ { \\scriptscriptstyle 0 } = 0 . 6 6 0 6 E _ { \\scriptscriptstyle 6 0 1 }$ （204 R²=0.7538 R²=0.7397   \n(p/uu) 86 8 86 80   \nE 8 4 0 4 8 。88 2 。 o。o 2- o 00 00 0 2 4 6 8 10 12 0 2 4 6 10 12 12 12 (e) Medium loam (f) Heavy loam 10- （204 $E _ { _ { 0 } } { = } 0 . 5 5 8 6 E _ { _ { 6 0 1 } }$ （204号 10 （14号 $E _ { _ 0 } { = } 0 . 4 9 9 9 E _ { 6 0 1 }$ （20 R²=0.7626 R²=0.7669 8 8-   \n(p/uu) 6 6 o   \nE 8 4- 88 4 2- 88 88888 2 9080 8 88 00 80 8 00 0 0 2 4 6 8 10 12 0 2 4 6 8 10 12 E01 (mm/d) E01 (m/ld ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Relationships of $E _ { 0 } , E _ { 6 0 1 }$ and soil mechanical composition ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The data presented in Figure 4 illustrate the relationship among $E _ { 0 } , E _ { 6 0 1 }$ ，and the percentage of silt-clay particle $\\left( < 0 . 0 2 \\ \\mathrm { m m } \\right)$ ）content $( C )$ of a soil type. The ordinate in this figure is the ratio between $E _ { 0 }$ and $E _ { 6 0 1 }$ , the slope of the correlation equation between phreatic evaporation intensity when water table depth is zero and $E _ { 6 0 1 }$ . This was obtained by regressing Equation 2 (Table 2), and can be fitted with an exponential function (Eq. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { E _ { 0 } } { E _ { 6 0 1 } } = 1 . 2 6 2 2 \\mathrm { e } ^ { - 0 . 0 1 7 0 C } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this case, the regression is extremely significant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9d6bbc94367d512d1c5f12c8e99db6bb58fc9756b79709a783fabd3dc41dc98.jpg",
+        "img_caption": [
+            "Fig. 4 Relationship between $E _ { 0 } / E _ { 6 0 1 }$ and silt-clay particle content "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion and conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Averianov equation shows that phreatic evaporation at $E _ { 0 }$ is equal to $E _ { 6 0 1 }$ . The experimental results presented in this study reveal that $E _ { 0 }$ is greater than $E _ { 6 0 1 }$ in the case of gravel, but less than $E _ { 6 0 1 }$ in the case of loam, only approximate $E _ { 6 0 1 }$ in the case of fine sand within the Weigan River irrigated area. This analysis therefore suggests that additional research on phreatic evaporation at a water table depth of zero would be worthwhile. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Phreatic evaporation at $E _ { 0 }$ refers to the evaporative process from a saturated soil surface (Jin, 1982) as well as directly from phreatic water. As an oasis effect is also present when observing phreaticevaporationand $E _ { 6 0 1 }$ at the same time, the evaporation area within phreatic evaporation measuring cylinders was held the same as in the E6Ol evaporator. Because environmental conditions were also the same throughout experiments, Equation 2 shows that applying the ratio between $E _ { 0 }$ and $E _ { 6 0 1 }$ weakens the oasis effect in this study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The experimental results presented here also show that phreatic evaporation at $E _ { 0 }$ decreases in concert with soil particle size. This corroborates the earlier findings of Don and Willian (1958), but conflicts with some other previous researches. It is generally recognized that when soils are very wet, the evaporation of water is governed by external atmospheric conditions rather than by their inherent properties; evaporation rate is therefore equivalent to potential rate, referred to as \"potential evaporation\", i.e., $E _ { 6 0 1 }$ ( Hanks and Ashcroft, 1984; Jury et al., 1991; Hanks, 1992; Hillel, 1998, 2004; Lal and Shukla, 2004). Phreatic evaporation at $E _ { 0 }$ is not only related to potential atmospheric evaporation, but also is influenced by evaporation surface roughness, soil heat capacity, soil thermal conductivity, soil color, and soil surface albedo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The data assembled in this analysis show that the particle sizes of the six soil types decrease in concert with evaporative surface roughness. Indeed， as an aerodynamically rough surface increases the turbulent mixing of air, $E _ { 0 }$ for gravel is greater than $E _ { 6 0 1 }$ . As a rough irregular surface also has a greater evaporation area (Tang et al., 1992; Wang, 2O16), phreatic evaporation at $E _ { 0 }$ should increase (Wu and Zhang, 1986; Liang, 1992; Tindal et al., 1999; Cui, 2006; Lu and Pu, 2006; Fan et al., 2O14; Shen and Huang, 2O15). This theoretical result is inconsistent with the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "experimental results of this study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil thermal capacity and thermal conductivity are closely related to mechanical composition. Thus, if soil thermal capacity is large, the temperature rise will be small when the surface is heated,water molecules will move slowly， and little water evaporation will occur. Previous research has also shown that soil heat capacity increases in concert with water content (De Vries, 1963; Jury et al., 1991; Moldup et al., 2000; Wang, 2016). This means that as soil particle size decreases, saturated soil water content increases (Cosby et al., 1984) alongside thermal capacity while phreatic evaporation at $E _ { 0 }$ should decrease (Hu and Hou, 1988; Fang, 2009;Rui, 2014). This theoretical result agrees reasonably well with the experimental results of this study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The net radiation $( R _ { \\mathrm { n } } )$ received by a bare soil surface is partitioned into heating the soil and atmosphere, and evaporating water. Thus, under steady-state conditions (i.e., time-invariant and horizontally homogeneous), surface energy budget can be expressed as follows (Tindall et al., 1999): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n } = S + \\mathbf { L E } + G ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $S$ denotes sensible-heat flux $( \\mathrm { W } / \\mathrm { m } ^ { 2 } )$ ; LE denotes latent-heat flux $( \\mathrm { W } / \\mathrm { m } ^ { 2 } )$ ; and $G$ refers to soil heat flux $\\mathrm { ( W / m ^ { 2 } ) }$ (Tindall et al., 1999). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The heat flow equation can be written as follows (Hanks, 1992): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = - K _ { \\mathrm { q } } \\frac { \\Delta T } { \\Delta z } = - K _ { \\mathrm { q } } \\frac { ( T _ { \\mathrm { 0 } } - T _ { \\mathrm { l } } ) } { \\Delta z } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $K _ { \\mathrm { q } }$ denotes soil thermal conductivity $\\mathrm { ( W / ( m { \\cdot } ^ { \\circ } C ) ) }$ ： $T _ { 0 }$ denotes soil surface temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ and $T _ { 1 }$ is the soil temperature at the soil depth of $\\Delta z$ (m). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This energy balance relationship predicts that when soil thermal conductivity is large, more heat willbe conducted from the soil surface into deep soil, while latent heat willbe lower and the amount of evaporated water will be small. This means that as soil particle size decreases, saturated water content increases (Cosby et al., 1984) and the thermal conductivity of a saturated soil will fall (Chung, 1987; Jury et al., 1991; Wang, 2016; Wang et al., 2016). Thus, in theory, phreatic evaporation at $E _ { 0 }$ should increase, an outcome that is inconsistent with the experimental results of this study. We therefore conclude that soil thermal capacity exerts a significant influence on phreatic evaporation at $E _ { 0 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The potential phreatic evaporation refers to the removal of water from a fully saturated soil surface when the depth of the water table is less than the decoupling depth, the depth of ET surface, or the thickness of the capillary saturated zone. However, as upward water flow must be high enough to match the exteral rate, small variations in the position of the water table around zero will not markedly influence the evaporation rate so long as these changes remain less than the decoupling depth, the depth of ET surface, or the thickness of the capilary saturated zone. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When al soil particles are fully submerged as a result of controlling the water table depth, it is clear that measured phreatic evaporation will be equal to $E _ { 6 0 1 }$ . This phenomenon may explain why some researchers have mistakenly noted that phreatic evaporation at $E _ { 0 }$ is equal to $E _ { 6 0 1 }$ ， ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil color affects surface albedo and the absorption of solar radiation by the soil (i.e., soil color influences soil evaporation by changing evaporation surface temperature). In other words, the darker the soil, the more the heat is absorbed by soil, the faster the soil surface temperature rises, the higher the evaporation surface temperature, and the greater the evaporation. Experimental data show that evaporation from a brown soil is $19 \\%$ higher than that from a white soil, while evaporation from a black soil is $32 \\%$ higher than that from a white one. Similarly, evaporation from a yellow soil will be $7 \\%$ higher than that from a white soil (Shi, 1959; Fan et al., 2O14; Shen and Huang,2O15). The influence of soil color and albedo on phreatic evaporation at $E _ { 0 }$ also require further study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of this study lead to the suggestion that phreatic evaporation at $E _ { 0 }$ should be taken into account when groundwater balance stations are constructed to study the phreatic evaporation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the National Natural Science Foundation of China (41671032, U1303181),the Key Special Project of National Key Research and Development Program of China (2016YFC0501401),and the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HU Shunjun et al.: Comparing phreatic evaporation at zero water table depth with water surface evaporation ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "National Basic Research Program of China (2013CB429902). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Averianov SF.1956.Sepage from irrigation canals andits influenceonregime of ground water table.In: KostiakovA N, Favorin NN,AverianovSF. Influenceof Irrgation Systems on Regime of Ground Water.Moscow: Academic Press,140- 151. (in Russian)   \nBlight GE. 20o2. Measuring evaporation from soil surfaces for environmental and geotechnical purposes. Water SA,28(4): 381-394.   \nChen TF, Wang XS,Li HL,etal.2013.Redistributionof groundwaterevapotranspiration and watertablearounda welfield in an unconfined aquifer: A simplified analytical model. Journal of Hydrology, 495: 162-174.   \nChung SO, Horton R.1987. Soil heat and water flow with a partial surface mulch. Water Resources Research, 23(12): 2175-2186.   \nCook F J,Rassm D W.2O02. An analytical model for predicting water table dynamics during drainage and evaporation. Journal of Hydrology, 263(1-4): 105-113.   \nCosbyBJ,Hornerger GM,ClapRB,etal.984.Astatistical explorationof threlationshipsofsoilmoisturecharacteristics to the physical properties of soils. Water Resources Research, 20(6): 682-690.   \nCui M X. 2006. Agricultural Meteorology. Beijing: Higher Education Press, 64-65. (in Chinese)   \nDe VriesDA.1963.Thermalproperties of soils.In: Van Wijk WR.Physicsof Plant Environment. Amsterdam: North-Holland Publishing,210-235.   \nDon J, Wiliam PG. 1958. Elements of Applied Hydrology. New York: Ronal Press, 150-151.   \nFan S X,DaoYF,Liu J.2014.Principlesof Hydrology.Beijing: China Water and Power Press,91-94. (in Chinese)   \nFang M H. 2009.Environmental Hydrology. Beijing: China Science and Technology Press,15. (in Chinese)   \nGuan H. 2010. Hydrology. Beijing: Science Press,26. (in Chinese)   \nHan B Z,LiuJZ,FuJW.2009.Conceptofsoil evaporation andits determining method. Heilongjiang Scienceand Technology of Water Conservancy,37(2): 106. (in Chinese)   \nHanks R J,Ashcroft GL.1984. Applied Soil Physics: Soil Water and Temperature Applications.Beijing: China Water and Power Press,104-106.   \nHanks R J. 1992. Applied Soil Physics: Soil Water and Temperature Applications ( $2 ^ { \\mathrm { n d } }$ ed.). New York: Springer-Verlog New York, Inc., 87-88, 114.   \nHillel D.1998. Environmental Soil Physics. New York: Academic Press,514-515.   \nHillel D. 2004. Introduction to Environmental Soil Physics. New York: Academic Press, 343-344.   \nHu FR,Hou YG.1988.Principles of Hydrology.Beijing: China Water and Power Press,89.(in Chinese)   \nHuSJ,TianCY,Song YD.2Oo9.Empiricalmodelsofcalculating phreatic evaporationfrombare soil in Tarim River Basin, Xinjiang. Environmental Earth Sciences, 59(3): 663-668.   \nHuo C R, Wang YL. 1988. Groundwater Hydrology. Beijing: China Water and Power Press,104. (in Chinese)   \nJin GY. 1982.Evaluation of Groundwater Resources in aPlain Area. Beijing: China Hydraulic Press,41-47. (in Chnese)   \nJohnsonE,YanezJ,Ortiz C,etal.O10.Evaporation from shallow groundwaterinclosed basins inthe Chilean Altiplano. Hydrological Sciences Journal, 55(4): 624-635.   \nJuryWA,Gardner WR,GardnerWH.1991. SoilPhysics ( $5 ^ { \\mathrm { t h } }$ ed.). New York: John Wiley & Sons,178-184.   \nLal R,Shukla MK. 2OO4. Principles of Soil Physics. New York: Marcel Dekker, 411.   \nLei ZD, Yang S X,Xie SC.1988.Soil-Water Dynamics.Beijing: Tsinghua University Pres,133-146. (inChinese)   \nLiang X T. 1992. Principles of Hydrology. Beijing: China Water and Power Press, 99. (in Chinese)   \nLu Z Q,Pu X G.2006.Calculating modelstudyof thesoil evaporation in the Heilongjiang region. South to North Water Transfers and Water Science & Technology, 4 (Suppl.): 39-41. (in Chinese)   \nMa YJ,Shen B,Tumaerbay H.2O6.Spacing of drainage ditches in field under the influence of evaporation.Journalof Hydraulic Engineering,37(10): 1264-1269.(in Chinese)   \nMao X M,Li M,Shen YL,et al.1998. Analysisof the phreaticevaporation in Yarkant River Basin, Xinjiang. Arid Land Geography,21(3): 44-50. (in Chinese)   \nMoldupP,Olesen T,SchjonningP,etal.2O.Predictingthegas difusioncoeficient inundisturbedsoilfromsoilwater characteristics. Soil Science Society of America Journal, 64(1): 94-100.   \nQu XY,Zhang YY,SuJX,etal.1983.Phreatic evaporationandcalculationofnon-stableflowdrainage underdepth index relations $\\scriptstyle \\mathrm { n = 3 }$ . Journal of Hydraulic Engineering, (9): 48-53. (in Chinese)   \nRu1 X F.2O14. Principles ot Hydrology. Beijing: China Water and Power Press, I14-118. (in Chinese)   \nSaxena GS,TaylorGS,PranklingRE.1971.Effectofenvironmentalfactorsonevaporationratesfromsoilsinthe presenceof a water table. Journal of the Indian Society of Soil Science,19: 23-29.   \nShah N,Nachabe M,RossM.2Oo7.Extinction depthandevapotranspiration from ground water under selected landcovers. Groundwater, 45(3): 329-338.   \nShang SH, Mao XM,Lei Z D.et al.1999.Inverse-logistic formula forcalculationof phreatic evaporationcoeficient. Irrigation and Drainage,18(2): 18-21. (in Chinese)   \nShen B,Huang H H. 2015. Principles of Hydrology. Beijing: China Water and Power Pres, 66-69. (in Chinese)   \nShen ZR.1992. Water resoucesscientific experiment and research—atmospheric,surface,soil and ground water interactions. Beijing: China Science and Technology Press,213-231. (in Chinese)   \nShi C X. 1959.Land Hydrology. Beijing: Science Press,215-217. (in Chinese)   \nShi C X, Liang R J. 1964. Principles of Land Hydrology. Beijing: China Industry Press,30-31. (in Chinese)   \nShi WJ, Xing XG, Zhang Z H,etal. 2O13. Groundwater evaporation from saline soilunder plastic mulch withdierent percentage of open area. Journal of Food Agriculture and Environment, 11(2): 1268-1271.   \nShu L C,Tao Y Z.2009.Groundwater Hydrology. Beijing: China Water and Power Pres,88-90.(in Chinese)   \nTang DX,LiuYR,Zhang WS,etal.1992.Enginering Geology.Beijing: Geological Publishing House,28.(in Chinese)   \nTang HX,SuYS,Zhang HP.1989.Experimentalresearchon phreatic evaporationand improvementof its empirical formula. Journal of Hydraulic Engineering,10: 37-44. (in Chinese)   \nTindallJA,KunkelJR,Anderson DE.1999. Unsaturated Zone HydrologyforScientistsandEngineers.NewJersey:Prentice Hall, Inc., 215,230-231.   \nWang CJ.1993.Calculationand Evaluationof WaterResources.Nanjing: Nanjing UniversityPres,147-148.(inChinese)   \nWang K. 2016. Soil and Crop Science ( $4 ^ { \\mathrm { u } }$ ed.).Beijing: China Water and Power Press,18. (in Chinese)   \nWang QJ. 2016.Soil Physicsand Crop Growth Model.Beijing: China Water and Power Pres,87-93. (in Chinese)   \nWang W Y, Shen B,Li ZL.1994. Drain-spacing calculation considering influence of evaporation. Journalof Irigation and Drainage Engineering, 120(3): 563-572.   \nWilliams WD.1987.Salinization of rivers and streams: an important environmental hazard.Ambio,16(4): 180-185.   \nWu HG, Zhang Z M.1986. Meteorology. Beijing: China Water and Power Press,159. (in Chinese)   \nXu WC.2011. Calculation and Management of Water Resources. Beijing: Science Press,22-23,96-97. (in Chinese)   \nYang F, ZhangG X,Yin XR,et al.2O11.Studyoncapillaryrisefrom shallow groundwaterandcritical water table depthof a saline-sodic soil in western Songnen plain of China. Environmental Earth Sciences, 64(8): 2119-2126.   \nYu QH.1993. Studyof the evaporationof phreatic water inthe northeastern margin of Tarim Basin. XinjiangGeology,1(3): 246-254. (in Chinese)   \nZammouri M. 2O01.Case studyof water table evaporation at Ichkeul Marshes (Tunisia). Journal of Irigation and Drainage Engineering, 127(5): 265-271.   \nZarei G,Homaee M,Liaghat AM. 2O02. An analytical solution of nonsteady evaporation from bare soils with shallow ground water table. Developments in Water Science,47(2): 113-120.   \nZarei G,Homaee M,Liaghat AM.2O09.Modeling transient evaporation from descending shallow groundwater table basedon Brooks-Corey retention function. Water Resources Management, 23(14): 2867-2876.   \nZarei G,Homaee M,Liaghat A M,etal. 2010.A model for soil surface evaporation basedon Campbel'sretention curve. Journal of Hydrology, 380(3-4): 356-361.   \nZhang C X.1996.Analysis on relationship between water surface evaporation and phreatic evaporation when phreatic depth is zero for different soils. Water Resources Research,17(2): 27-28. (in Chinese)   \nZhang WZ.1986.Newdrainage formulas considering delayed gravity response and evaporation from shallow water table. In: Smith K VH, RycroftDW. Hydraulic Design in Water Resources Engineering: Land drainage. Berlin: Spring-Verlag Berlin Heidelberg, 35-47.   \nZhang W Z.1996. Groundwater and Soil Water Dynamics. Beijing: China Water and Power Pres,239-242.(in Chinese)   \nZhang W Z, Shen R K.1998. Groundwater and Groundwater Control. Beijing: China Water and Power Pres,102-122.(in Chinese)   \nZhang W Z.2013.Calculation of Unsteady Flow of Groundwater and Evaluation of Groundwater Resources. Wuhan: Wuhan University Press,10-12.(in Chinese)   \nZheng Z J. 1951. Hydrology. Shanghai: The Commercial Press, 79. (in Chinese) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

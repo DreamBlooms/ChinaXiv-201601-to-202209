@@ -1,0 +1,268 @@
+[
+    {
+        "type": "text",
+        "text": "猪支原体肺炎基因工程疫苗的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陶 宇1，李高建1，舒建洪1，吴月红1，杨 芳²，何玉龙1\\*\\*(1．浙江理工大学 生命科学学院，杭州310018;2．杭州洪晟生物技术股份有限公司，杭州 310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要猪支原体肺炎（Mycoplasmal pneumoniae of swine,MPS）是由猪肺炎支原体（Mycoplasmahyopneumonia,Mhp）引起的一种慢性呼吸道传染病，该病给养猪业造成巨大的经济损失。疫苗接种是目前减轻或预防由猪肺炎支原体感染引发经济损失的主要手段。本文对猪支原体肺炎基因工程疫苗近年来的研究进展进行综述，主要包括黏附因子相关疫苗、核苷酸还原酶相关疫苗、DNA疫苗、表达文库疫苗和肽疫苗等，最后对基因工程疫苗研究工作的继续开展提供了建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 Mhp 基因工程疫苗 黏附因子 NrdF 肽疫苗 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in the Research of Genetically Engineering Vaccine of Mycoplasmal pneumoniae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TAO $\\mathrm { Y u ^ { 1 } }$ ，LI Gao-jian1，SHU Jian-hongl,WU Yue-hongl，YANG Fang²,HE Yu-longl (1.College of Life Sciences, Zhejiang Sci-Tech University, Hangzhou 310018, China; 2. Hangzhou Hong Sheng biotechnology Limited by Share Ltd, Hangzhou 310018, China.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractMycoplasmal pneumoniae of swine (MPS) is a chronic respiratory infectious disease caused by Mycoplasma hyopneumonia (Mhp), thus causes huge losses to the pig industry. At present, vaccination is the main means to reduce or prevent the economic losses caused by Mycoplasma pneumoniae. In the present reviews, the research progress of gene engineering vaccine of Mycoplasmal pneumoniae of swine in recent years is discussed, mainly includes adhesion factors related vaccines, ribonucleotide reductase related vaccines, DNA vaccines, expression library vaccines and peptide vaccines, etc.Finally, suggestions for the development of genetic engineering vaccines are proposed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key WordsMhp Gene engineering vaccineAdhesion factorsNrdF Peptide vaccines ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "猪支原体肺炎(Mycoplasmal pneumoniae of swine,MPS)是由于感染猪肺炎支原体(Mycoplasma hyopneumonia,Mhp)而引发的慢性呼吸道传染病，又称“猪气喘病”或“猪地方性肺炎(porcine enzootic pneumonia,PEP)”。仔猪感染偏多，临床上以哮喘、阵发性痉挛性咳嗽、食欲减退和肺部水肿为主要特征，最终导致室息死亡。该病具有感染率高、传染性高的特点，给世界养猪业带来巨大的经济损失。且猪肺炎支原体常会与多杀性巴氏杆菌(P.multocida)、猪繁殖呼吸综合症病毒(Porcine Reproductive and Respiratory Syndrome Virus, PRRSV)和猪圆环病毒(PCV)等病原体协同感染，增加了相关疾病的严重性和潜在的持久性，使呼吸道疾病加重，继而引起呼吸系统疾病综合症(Porcine Respiratory Disease Complex,PRDC)，导致死亡率的上升，且这几种常见病原体的协同感染还可能相互促进其增殖[1]，大大增加了病猪的死亡率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1猪肺炎支原体的致病机制、免疫特点及相关疫苗的研究概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大量的研究表明，在猪肺炎支原体感染过程中，细胞膜上黏附因子抗原引发的免疫效应起关键性的作用。猪肺炎支原体感染宿主细胞时，首先会黏附于呼吸道黏膜上皮细胞的纤毛上，大量增殖并蚕食纤毛，致使纤毛变短、减少，甚至大面积脱落，导致呼吸系统防御能力减弱，造成气源性病菌的继发性感染[2]。而药物对此病的治疗效果较差，即药物只能缓释症状，停药后容易复发。因此一旦感染 Mhp 很难完全根除。提前做好防控措施是应对此病的重要方法，尤其是对猪群接种疫苗是关键性的措施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mhp 感染后主要引起机体的黏膜免疫和细胞免疫。在感染的早期阶段，由于机体体液免疫应答会延迟发作，此时黏膜型抗体的产生量将会优先决定肺部病变程度[3]，因此黏膜免疫在控制该病的发生中起着重要作用。猪肺炎支原体疫苗的免疫接种可以使呼吸道免疫系统在受Mhp 感染后迅速产生特异性抗体，进而抑制Mhp对猪纤毛的黏附，也可以减少炎症相关细胞因子的释放，最终通过降低肺部组织病变程度来减少机体损伤。当前针对猪支原体肺炎的弱毒和灭活疫苗已经得到了迅速的发展，并且表现出了良好的免疫效果，但是由于其肺内注射途径比较繁琐，使其应用受到很大限制[4]。且最近有研究发现，常规商品化灭活疫苗（Ingelvac Mycoflex@, $\\mathbf { M } { + } \\mathbf { P } \\mathbf { a c } ^ { \\mathcal { \\left( \\alpha \\right) } }$ , Mypravac@ Suis, Respisure@ 1One, ResprotekTMOne Shot,SerkelPneumo）免疫小鼠后并未显著诱导小鼠免疫系统产生针对 Mhp抗原的特异性抗体[5]，这可能归因于此类疫苗中缺乏对猪肺炎支原体菌株表达抗原的添加。另外，随着常规弱毒疫苗的广泛使用，疫苗免疫动物与自然感染动物的鉴别诊断问题也随之产生，并成为今后防制工作必须要解决的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着Mhp及其与其他病原体混合感染引起的呼吸道综合征对养猪业造成的影响和损失越来越大。相对于传统弱毒疫苗或灭活疫苗（见表1)，基因工程疫苗具有易于生产、能及时控制、接种方式简单、易于构建多价疫苗、安全、高效等优点，因此研制能克服传统疫苗缺陷的猪支原体肺炎基因工程疫苗具有非常重要的意义。鉴定和分离病原菌关键的免疫原和毒力因子是研究基因工程疫苗的前提和基础。由于对猪支原体肺炎的致病机理尚未完全清楚、对其致病因子也不能完全确定、且抗原类型复杂，严重阻碍了猪支原体肺炎基因工程疫苗研制的顺利进行，导致至今尚未获得可商品化使用的基因工程疫苗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于疫苗在防控猪肺炎支原体疾病中的重要作用和基因工程疫苗的优点，本文就猪肺炎支原体基因工程疫苗的研究进展进行综述，以期为该病新型疫苗的研发提供思路。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1．国内已批准使用的猪支原体肺炎疫苗",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd4cc8767d00c9d066f0034203273e1328234797ffbb320d8912da835371f54a.jpg",
+        "table_caption": [
+            "Table 1. The approved and commonly used products of swine Mycoplasma pneumoniae vaccine "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>商品名称</td><td>猪肺炎支原体株系</td><td>疫苗类型</td><td>生产厂家</td></tr><tr><td>喘净威</td><td>RM48株</td><td>弱毒苗</td><td>浙江诗华诺倍威</td></tr><tr><td>喘浩佳</td><td>168株</td><td>弱毒苗</td><td>乾元浩</td></tr><tr><td>诸欢畅</td><td>168株</td><td>弱毒苗</td><td>福州大北农</td></tr><tr><td>菲必舒</td><td>/</td><td>弱毒苗</td><td>吉林和元</td></tr><tr><td>支必宁</td><td>168株</td><td>弱毒苗</td><td>南京天邦</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f5a1cbd648cac33f25dba5afa20bf37c8934d8f8e82824c4acae6ff1776392d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：“-”表示无，“/”表示不详。数据来源于国家兽药基础信息查询系统。"
+        ],
+        "table_body": "<html><body><table><tr><td>支益宁</td><td>168株</td><td>弱毒苗</td><td>贵州福斯特</td></tr><tr><td>支宜捷</td><td>RM48株</td><td>弱毒苗</td><td>齐鲁动物</td></tr><tr><td>1</td><td>/</td><td>弱毒苗</td><td>南农高科技</td></tr><tr><td></td><td>/</td><td>弱毒苗</td><td>山东华宏</td></tr><tr><td></td><td>RM48</td><td>弱毒苗</td><td>山东绿都</td></tr><tr><td></td><td>/</td><td>弱毒苗</td><td>吉林正业</td></tr><tr><td></td><td>/</td><td>弱毒苗</td><td>新疆天康畜牧</td></tr><tr><td>瑞倍适 (旺)</td><td>P-5722-3株</td><td>灭活苗</td><td>哈药集团</td></tr><tr><td>科喘宁</td><td>J株</td><td>灭活苗</td><td>武汉科前</td></tr><tr><td>肺祥</td><td>DJ-166 株</td><td>灭活苗</td><td>中牧实业</td></tr><tr><td>优瑞适（舒）</td><td>/</td><td>灭活苗</td><td>瑞普</td></tr><tr><td>支肺通</td><td>/</td><td>灭活苗</td><td>四川华派</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note: \"-\" means \"no\",\"/\" means \"unknown\". The data derives from the national veterinary drug basic information enquiry system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 目前在研的几种主要基因工程疫苗简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. 1 黏附因子相关重组疫苗 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mhp 与猪呼吸道上皮细胞纤毛的特异性黏附是引起猪支原体肺炎的前提。而在黏附过程中包含了多种黏附因子的共同作用，现已发现如P97、P46、P216、P102、P95和P159等多种相关的功能性黏附因子。Mhp 的致病力和免疫原性都与菌膜上的这些黏附因子密切相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zhang 等最早利用单克隆抗体F2G5发现了黏附因子P97，且证明该蛋白是 Mhp 结合宿主细胞受体分子的主要黏附蛋白。之后，进一步研究发现P97的C 末端存在R1和R2两个重复区域。其中R1区直接参与黏附过程，并独立发挥功能；R2区位于R1区下游，目前功能尚不明确，可能与黏附在宿主细胞外的基质相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着P97结构功能被不断揭示，相关的研究也在不断的开展。刘茂军等[7]通过E.coli中表达Mhp 的P97基因R1区，证明了P97重组蛋白R1区域具有很强的抗原性和免疫原性，为基于P97的猪支原体肺炎基因工程疫苗的研发奠定了基础。2006 年，德佩洛塔斯联邦大学生物技术中心的团队又将Mhp 黏附素 P97的R1区融合到大肠杆菌不耐热肠毒素B亚单位（LTB）中产生重组亚单位疫苗(rLTBR1)，并且通过鼻内和肌肉注射两种方式接种小鼠，结果发现小鼠体内均能产生高浓度的抗R1的IgA抗体；但接种灭活的全细胞疫苗的小鼠却没有产生此特异性抗体[8]。鉴于以上研究结果，卢会英等[9]通过重组表达MhpR1区和E.coli的LTB 基因发现，LTB 是作为黏膜免疫佐剂起作用。进一步将Mhp 的R1、P42和 Nrdf（核苷酸还原酶）三种抗原与LTB融合构建的多抗原嵌合体免疫小鼠，与三个单抗原联合免疫组相比，多抗原嵌合体免疫组小鼠血清和支气管灌洗液中的特异性抗体水平显著升高，说明佐剂rLTB增强了其免疫效果[10]。提示这种以LTB 为黏膜佐剂的嵌合体是一种非常有效的Mhp 疫苗构建策略。之后，Barate等[]将Mhp 可溶性蛋白rR1和rR1R2及它们与LTB 偶联的嵌合体分别添加到佐剂 MI1113(MONTANIDEIMS1113)中，对其免疫原性评价发现，有特异性IgG、IgA 抗体和 IFN-γ的产生，在重组蛋白中所有的蛋白均能在体液和黏膜引起抗R1特异性的Th2型免疫效应，但嵌合体蛋白rLTBR1R2能最快引起体液免疫应答反应。这表明配以适当的佐剂(如IMS1113)的rR1,rR1R2,rLTBR1和rLTBR1R2可能是开发猪支原体肺炎亚单位疫苗的另一种策略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于P97黏附因子，除了以上利用细菌载体制备的重组疫苗取得了重大突破，研究者们也对一些病毒载体进行了重组构建。Okamba 等[12]构建了Mhp P97重组复制缺陷型腺病毒（rAdP97c）亚单位疫苗，鼻腔接种后发现其能引起机体强烈的体液和细胞免疫，产生了高水平的特异性的IgG 和IgA抗体，且显著减少炎症反应的程度和呼吸道中支原体的数量。Tassis 等[13]用表达了猪圆环病毒2型（PCV2）亚基的杆状病毒和灭活MhpJ株组成的新型联合疫苗，对600只高母源性免疫的三周龄仔猪进行了临床和亚临床实验，通过对肺病变程度、PCV2 病毒血症及平均日增重等因素的评估发现，这种新型重组疫苗对于PCV2和Mhp的控制均具有显著的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单个抗原可能不足以诱导一个理想的免疫反应[12,14-16]，并且某些病原体与Mhp 交叉反应会干扰对其的检测结果，因此一个或者多个单克隆抗体并不能识别猪肺炎支原体的所有野毒株[17]。研究的重点应使用多个免疫原性良好的抗原构成嵌合体疫苗，以发挥血清学检测特异性和敏感性的优势，并且能够引发机体一个比较全面的免疫反应。在多价疫苗的研究中，Lee 等[15]用E.coli融合表达胸膜肺炎放线杆菌 ApxIII毒素N端缺失的衍生物（ApxN）和MhpP97黏附素R1、R2 重复区域（P97C)得到嵌合蛋白Ap97，免疫小鼠后发现血清中P97C和 ApxN特异性的 IgG 同型抗体水平显著增加，并且脾细胞被诱导分泌了IL-4 和 IFN-γ。说明 Ap97能有效防止这两种病原体的侵害。Jeong等[18]通过研制了PCV2和 Mhp的二联疫苗，发现此二联疫苗能诱导产生PCV-2和 Mhp 相关特异性抗体，显著增加实验猪日均增重和显著降低其死亡率，且相应的肺部和淋巴病变程度也显著降低。因此，联苗的生产对于解决多种疾病或者对于多种疾病的交叉感染具有重要意义。最近，de Oliveira[19]等人用Mhp 的 P97R1、P46、P95 和 P42 四种抗原构建了多抗原嵌合体疫苗，免疫小鼠发现其能使机体产生显著水平的特异性IgG1抗体和IgG2a抗体，这一研究成果为Mhp基因工程疫苗的研发提供了重要的理论依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前除P97黏附因子的研究外，针对Mhp其他蛋白的研究也有大量的报道。Galli 等[20]对Mhp 的P37、P42和P95基因进行重组表达和免疫学分析，发现这些抗原均有发展为重组亚单位疫苗的潜力，尤其是P42和P95，能够同时引发细胞免疫和体液免疫效应。Zou 等[21将Mhp 的乳酸脱氢酶基因P36融合到胸膜肺炎放线杆菌突变株 SLW36中进行了重组构建，发现其能引发机体产生抗P36 抗原的抗体，证明了重组突变株 SLW36对胸膜肺炎放线杆菌和猪肺炎支原体疫苗的研制有潜在的作用。Burnett 等[22]研究发现，P159蛋白的裂解产物P52蛋白是其主要免疫活性成分，并且发现抗P52 的血清能抑制Mhp 对真核细胞的黏附能力，因此P52也是Mhp 细胞膜表面起重要作用的黏附蛋白，提示其可作为疫苗研发的候选基因。Jorge等[14]通过对猪肌肉接种重组Mhp 热休克蛋白P42（rP42)的疫苗，发现其能引发强烈的细胞免疫和体液免疫，且培养的单核细胞的表面有大量INF-γ和IL-10 的产生，证明了油性佐剂乳化的rP42有望成为一种针对猪气喘病的有效的重组亚单位疫苗。随着对猪支原体肺炎致病机理研究的不断深入，将有更多的黏附因子作为疫苗研发的候选基因被发现，为猪支原体肺炎基因工程疫苗的研发奠定基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 核苷酸还原酶（NrdF）相关重组疫苗 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 Mhp 感染过程中，除了Mhp 黏附因子外核苷酸还原酶（NrdF）对Mhp的侵染也具有重要的作用。澳大利亚Wollongong 大学的Fagan 团队对 NrdF 进行了深入的研究。起初他们用超免猪血清筛选了一个Mhp 克隆库，发现其中一个克隆对NrdFR2亚基表现出较高的序列同源性。进一步将其与β-半乳糖苷酶融合，分别加入不同的佐剂后免疫猪发现，用Mhp 感染已免疫的猪，其肺部损伤明显减轻[23]。随后，用表达Mhp NrdFR2 亚基的羧基末端抗原蛋白的减毒鼠伤寒沙门氏杆菌 SL3261 制备活载体疫苗 pKF1，用其口服免疫小鼠，发现感染 Mhp小鼠的肺部IgA的分泌显著增加，同时发现有肺黏膜免疫反应的产生，证明了这种特异的免疫反应能降低 Mhp 对猪的影响程度[24]。2001年，同样用上述重组沙门氏杆菌口服免疫猪，发现除呼吸道产生了明显的抗NrdF的分泌型IgA外，淋巴细胞也大量的增殖；与未免疫的猪相比，pKF1免疫的猪在强毒株感染后表现出较高的平均日增重以及肺部病变的减弱[25]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2006 年,Chen 等[26]将Mhp NrdF的R2亚基片段分别克隆到真核和原核表达载体，用包含重组表达质粒的减毒沙门氏菌aroAcs332口服免疫小鼠，通过分析血清和肺灌洗液中抗体评价NrdF 的免疫原性，通过检测用NrdF 抗原体外刺激脾细胞产生的IFN- $\\gamma$ 来检测细胞介导的免疫效应（CMI)。结果发现，表达了编码 NrdF的原核表达质粒（(pTrcNrdF）的鼠伤寒沙门氏菌未能引起显著的NrdF特异性血清或分泌型抗体和IFN- $\\gamma$ 的产生。与之相似，表达了编码NrdF的真核重组质粒（pcNrdF）的菌也同样未能引起NrdF 特异性血清或分泌型抗体反应，但是引发了显著的INF- $\\gamma$ 的产生，说明细胞介导的免疫反应被有效诱导。提示载体的种类可能对免疫应答的类型有影响。以上大量实验证实，NrdF 可作为 Mhp疫苗的候选抗原。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 DNA疫苗 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前多数疫苗并不能阻止Mhp 在呼吸道的增殖，也不能显著减少病原体的传染性[27-29]。但研究已经表明，细胞介导的免疫反应的诱发是该病很重要的控制途径[30]。有研究报告认为，DNA疫苗有利于Th1型免疫应答，从而促进细胞免疫应答[26,31,32]，且Th1细胞能够通过诱导巨噬细胞的活化破坏入侵的病原微生物，且能更有效地激活B细胞产生抗体。因此，DNA疫苗是防控Mhp 的一种有效的策略。Chen 等[33]对Mhp的5种抗原（P36、P46、Nrdf、P97和P97R1）进行研究发现，P46是唯一能引发特异性IgG产生的抗原。进一步的研究发现P46DNA 疫苗能诱导小鼠机体产生较强的Th1型和Th2型免疫应答[20],证明基于P46的DNA疫苗的具有很大的发展潜力。2014年，Virginio 等[34]通过评估猪肺炎支原体P46、HSP70 和MnuA三种重组抗原的体液和细胞免疫应答效应发现，P46、HSP70 和MnuA抗原特定区域（P46102-253、HSP70212-601和 MnuA182-378）能同时引发小鼠Th1和Th2型免疫反应，可以作为重组亚单位疫苗或DNA疫苗，这表明 P46102-253、HSP70212-601 和MnuA182-378作为针对Mhp 的DNA疫苗具有很大的发展前景。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4其他",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通常对于一个特定的病原体，为了研发安全高效的疫苗，需要找到一系列的保护性抗原，工作量较大。在疫苗学研究中，表达文库免疫（expression libraryimmunization,ELI）能够系统、客观地发现合适的疫苗抗原。为此，将ELI技术与基因工程技术相结合，将可能得到针对所有病原体的有效疫苗[35]。Moore 等[36]建立了猪肺炎支原体表达文库，并进行动物试验，初步发现此表达文库免疫具有良好的效果。因此，随着新质粒载体的发现以及库筛选方法的不断发展，可以促进ELI在猪支原体肺炎中的应用，为Mhp 疫苗的发展提供了更广泛的思路。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多数传统疫苗对生物都存在一定的危害性，可能产生交叉反应或遗传变异等问题，而且免疫反应的产生与具有免疫原性和保护性的特异性抗原表位的参与有直接联系[37,38]。目前噬菌体展示技术已被广泛应用于绘制抗原表位结构，作为发展分子疫苗的基础。将噬菌体展示技术和肽疫苗技术相结合，可以制备出含有病原体抗原决定簇的噬菌体肽疫苗。Yang 等[39]用IgG抗体筛选出了两种噬菌体随机肽库，进行免疫实验分析，发现筛选的噬菌体克隆CS4和 $\\Phi 5 8$ 能成为有潜力的候选疫苗。针对一些获取病原体抗原蛋白非常困难的微生物，使用 ELI技术和噬菌体肽库技术能研制成具有很大潜力的疫苗，这对Mhp 基因工程疫苗的发展是一个重大突破。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由单一抗原制成的重组疫苗免疫原性较差，有必要在基因工程疫苗的研制过程中，配合与相应抗原组合效果显著的佐剂加以辅助，以增强其免疫原性，达到期望的效果。如上述研究者们研究较多的LTB亚基和可通过抗凋亡机制抑制 Mhp感染的氯化锂[40]，以及最近发现与HSP70 相关重组疫苗组合得到良好免疫效果的介孔二氧化硅纳米颗粒[41]等。另外，随着猪群中Mhp 菌株多样性的增加，还会增加感染猪的肺损伤程度[42]。因此，在接种重组疫苗防控的同时，有必要对猪群的管理方式和安全措施进行优化和改善[29],且需根据猪群的感染情况决定疫苗接种的优先顺序[43]等措施进行综合防控，以发挥出疫苗的最佳效果，高效地解决问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，猪肺炎支原体基因工程疫苗的研制，可从以下几方面进行综合考虑：(1)继续深入开展在Mhp 黏附过程起重要作用的P97蛋白等，寻找到免疫效果更显著的嵌合体疫苗或DNA疫苗。(2)深入研究NrdF 相关的作用机理，开发高效的重组疫苗。 (3)结合表达文库技术和噬菌体展示技术等，同时与其他学科相互交流发现出更好的科学技术，从而与基因工程技术相结合，促进基因工程疫苗研发的进展。 (4)寻找更好的免疫途径、免疫程序及相关佐剂，提高基因工程疫苗的有效性和安全实用性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "circovirus type 2 replication in vitro PK-15 cells. Res Vet Sci, 2016,105(4): 56-61.   \n2. 曹培丽，李媛，陈超，等．猪肺炎支原体P52蛋白的原核表达及抗血清制备．中国预防兽 医学报,2009,31(7): 572-576. Cao P L,Li Y, Chen C, et al. Expression of Mycoplasma hyopneumoniae P52 protein and preparation of the rabbit antisera against P52 protein. Chinese Journal of Preventive Veterinary Medicine,2009,31(7): 572-576.   \n3. Garcia-Morante B, Segales J, Fraile L,et al. Potential use of local and systemic humoral immune response parameters to forecast Mycoplasma hyopneumoniae associated lung lesions. PLoS One, 2017, 12(4): e0175034.   \n4. 施尧．猪支原体肺炎疫苗研究进展．养猪,2013,3:93-95. Shi Y. Research progress of vaccine of Mycoplasma pneumonia. Swine Production, 2013, 3: 93-95.   \n5. Fisch A,Marchioro S B, Gomes C K, et al. Commercial bacterins did not induce detectable levels of antibodies in mice against Mycoplasma hyopneumoniae antigens strongly recognized by swine immune system. Trials in Vaccinology,2016,5: 32-37.   \n6. Zhang Q， Young T F,Ross R F. Identification and characterization of a Mycoplasma hyopneumoniae adhesin. Infect Immun,1995, 63(3): 1013-1019.   \n7. 刘茂军，邵国青，张映，等．猪肺炎支原体 P97基因抗原决定簇R1区的克隆与表达．江 苏农业学报,2005,21(3):207-211. Liu M J, Shao G Q, Zhang Y, et al. Cloning and Expressing of R1 Region of P97 Gene in Mycoplasma hyopneumoniae. Jiangsu Journal of Agricultural Sciences, 20o5,21(3): 207-211.   \n8. Conceicao F R, Moreira A N, Dellagostin O A.A recombinant chimera composed of Rl repeat region of Mycoplasma hyopneumoniae P97 adhesin with Escherichia coli heat-labile enterotoxin B subunit elicits immune response in mice. Vaccine, 2006,24(29): 5734-5743.   \n9. 卢会英，沈青春，宁宜宝．猪肺炎支原体p97R1区基因和大肠杆菌LTB 基因的重组和表 达．中国兽医杂志,2010,46(4): 3-6. Lu H Y, Shen Q C, Ning Y B. The recombination and expression of R1 region of Mycoplasma hyopneumoniae $\\mathsf { p } 9 7$ adhesin with Escherichia coli heat-labile enterotoxin B subunit. Chinese Journal of Veterinary Medicine,2010,46(4): 3-6.   \n10. Marchioro S B, Fisch A, Gomes C K, et al. Local and systemic immune responses induced by a recombinant chimeric protein containing Mycoplasma hyopneumoniae antigens fused to the B subunit of Escherichia coli heat-labile enterotoxin LTB. Vet Microbiol， 2014,173(1): 166-171.   \n11. Barate A K, Cho Y, Truong Q L, et al. Immunogenicity of IMS 1113 plus soluble subunit and chimeric proteins containing Mycoplasma hyopneumoniae P97 C-terminal repeat regions. FEMS Microbiol Lett, 2014,352(2): 213-220.   \n12. Okamba F R,Arella M, Music N, et al. Potential use of a recombinant replication-defective adenovirus vector carrying the C-terminal portion of the P97 adhesin protein as a vaccine against Mycoplasma hyopneumoniae in swine. Vaccine, 2010, 28(30): 4802-4809.   \n13. Tassis P D, Tsakmakidis I, Papatsiros V G,et al. A randomized controlled study on the efficacy of a novel combination vaccine against enzootic pneumonia (Mycoplasma hyopneumoniae) and porcine Circovirus type 2 (PCV2) in the presence of strong maternally derived PCV2 immunity in pigs. BMC Vet Res,2017,13(1): 91.   \n14. Jorge S,de Oliveira NR, Marchioro S B, et al. The Mycoplasma hyopneumoniae recombinant heat shock protein P42 induces an immune response in pigs under field conditions. Comp Immunol Microbiol Infect Dis,2014,37(4): 229-236.   \n15. Lee S H, Lee S, Chae C, et al.A recombinant chimera comprising the R1 and R2 repeat regions of M. hyopneumoniae P97 and the N-terminal region of A. pleuropneumoniae ApxIII elicits immune responses. BMC Vet Res, 2014,10(1): 43.   \n16. Shimoji Y, Oishi E，Muneta Y,et al. Vaccine effcacy of the attenuated Erysipelothrix rhusiopathiae YS-19 expressing a recombinant protein of Mycoplasma hyopneumoniae P97 adhesin against mycoplasmal pneumonia of swine. Vaccine, 20o3, 21(5): 532-537.   \n17. Petersen A C, Oneal D C, Seibel JR, et al. Cross reactivity among the swine mycoplasmas as identified by protein microarray. Vet Microbiol,2016,192(8): 204-212.   \n18. Jeong J, Park C, Choi K, et al. A new single-dose bivalent vaccine of porcine circovirus type 2 and Mycoplasma hyopneumoniae elicitsprotective immunity and improvesgrowth performance under field conditions. Vet Microbiol,2016,182(1): 178-186.   \n19. de Oliveira N R, Jorge S,Gomes C K，et al. A novel chimeric protein composed of recombinant Mycoplasma hyopneumoniae antigens as a vaccine candidate evaluated in mice. Vet Microbiol, 2017,201(3): 146-153.   \n20. Galli V, Simionatto S,Marchioro S B,et al. Immunisation of mice with Mycoplasma hyopneumoniae antigens P37, P42, P46 and P95 delivered as recombinant subunit or DNA vaccines. Vaccine,2012,31(1): 135-140.   \n21. Zou H Y, Liu X J, Ma F Y, et al. Attenuated Actinobacillus pleuropneumoniae as a bacterial vector for expression of Mycoplasma hyopneumoniae P36 gene. J Gene Med, 2011, 13(4): 221-229.   \n22. Burnett TA, Dinkla K, Rohde M, et al. P159 is a proteolytically processed, surface adhesin of Mycoplasma hyopneumoniae: defined domains of P159 bind heparin and promote adherence to eukaryote cells. Mol Microbiol, 2006, 60(3): 669-686.   \n23. Fagan P K, Djordjevic S P, Eamens G J, et al. Molecular characterization of a ribonucleotide reductase (nrdF） gene fragment of Mycoplasma hyopneumoniae and assessment of the recombinant product as an experimental vaccine for enzootic pneumonia. Infect Immun,1996, 64(3): 1060-1064.   \n24. Fagan P K, Djordjevic S P, Chin J,et al. Oral immunization of mice with attenuated Salmonella typhimurium aroA expressing a recombinant Mycoplasma hyopneumoniae antigen (NrdF). Infect Immun, 1997, 65(6): 2502-2507.   \n25. Fagan P K, Walker M J, Chin J, et al. Oral immunization of swine with attenuated Salmonella typhimurium aroA SL3261 expressng a recombinant antigen of Mycoplasma hyopneumoniae (NrdF） primes the immune system for a NrdF specific secretory IgA response in the lungs. Microb Pathog, 2001,30(2): 101-110.   \n26. Chen A Y, Fry S R， Forbes-Faulkner J，et al. Comparative immunogenicity of M. hyopneumoniae NrdF encoded in diferent expression systems delivered orally via attenuated S. typhimurium aroA in mice. Vet Microbiol,2006,114(3): 252-259.   \n27. Maes D, Segales J, Meyns T, et al. Control of Mycoplasma hyopneumoniae infections in pigs. Vet Microbiol,2008,126(4): 297-309.   \n28. Marchioro S B, Maes D, Flahou B, et al. Local and systemic immune responses in pigs uausuuaily mjeutcu wiul al mavuvatcu iviycupiasia nyupneuimuac vacumc. vacume, 2013, 31(9): 1305-1311.   \n29. Simionatto S,Marchioro S B,Maes D,et al. Mycoplasma hyopneumoniae: from disease to vaccine development. Vet Microbiol, 2013,165(3): 234-242.   \n30. Thacker E L, Thacker B J, Kuhn M, et al. Evaluation of local and systemic immune responses induced by intramuscular injection of a Mycoplasma hyopneumoniae bacterin to pigs. Am J Vet Res,2000,61(11): 1384-1389.   \n31. Babiuk L A. Vaccination: a management tool in veterinary medicine. Vet J, 2002,164(3): 188-201.   \n32. Chen Y L, Wang S N, Yang W J, et al. Expression and immunogenicity of Mycoplasma hyopneumoniae heat shock protein antigen P42 by DNA vaccination. Infect Immun, 2003, 71(3): 1155-1160.   \n33. Chen A Y, Fry S R,Daggard G E,et al. Evaluation of immune response to recombinant potential protective antigens of Mycoplasma hyopneumoniae delivered as cocktail DNA and/or recombinant protein vaccines in mice. Vaccine, 2008, 26(34): 4372-4378.   \n34. Virginio V G, Gonchoroski T, Paes J A, et al. Immune responses elicited by Mycoplasma hyopneumoniae recombinant antigens and DNA constructs with potential for use in vaccination against porcine enzootic pneumonia. Vaccine, 2014, 32(44): 5832-5838.   \n35. Talaat A M, Stemke-Hale K. Expression library immunization: a road map for discovery of vaccines against infectious diseases. Infect Immun, 2005, 73(11): 7089-7098.   \n36. Moore R J，Lenghaus C，Sheedy S A，et al. Improved vectors for expression library immunization--application to Mycoplasma hyopneumoniae infection in pigs. Vaccine,2001, 20(1): 115-120.   \n37. Razin S, Yogev D, Naot Y. Molecular biology and pathogenicity of mycoplasmas. Microbiol Mol Biol Rev, 1998, 62(4): 1094-1156.   \n38. King K W, Faulds D H, Rosey E L, et al. Characterization of the gene encoding Mhpl from Mycoplasma hyopneumoniae and examination of Mhpl's vaccine potential. Vaccine, 1997, 15(1): 25-35.   \n39. Yang W J, Lai JF, Peng K C, et al. Epitope mapping of Mycoplasma hyopneumoniae using phage displayed peptide libraries and the immune responses of the selected phagotopes. J Immunol Methods,2005, 304(1): 15-29.   \n40. Ishag H Z, Wu Y Z, Liu M J, et al. In vitro protective efficacy of Lithium chloride against Mycoplasma hyopneumoniae infection. Res Vet Sci, 2016, 106(6): 93-96.   \n41. Virginio V G,Bandeira N C,Leal F M,et al. Assessment of the adjuvant activity of mesoporous silica nanoparticles in recombinant Mycoplasma hyopneumoniae antigen vaccines. Heliyon,2017, 3(1): e00225.   \n42. Michiels A, Vranckx K, Piepers S,et al. Impact of diversity of Mycoplasma hyopneumoniae strains on lung lesions in slaughter pigs. Vet Res, 2017, 48(1): 2-14.   \n43. Chae C. Porcine respiratory disease complex: Interaction of vaccination and porcie circovirus type 2， porcine reproductive and respiratory syndrome virus,and Mycoplasma hyopneumoniae. Vet J, 2016,212(2): 1-6. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,600 @@
+[
+    {
+        "type": "text",
+        "text": "德尔西水电站设计阶段BIM应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄勇 杨党铎杨东升 刘立峰 李尔康 刘晓东 贾新会（中国电建集团西北勘测设计研究院有限公司，西安710065）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】德尔西水电站是完全采用中国技术、欧美标准进行建设与管理的跨国别大规模水电工程。基于达索3DEXPERIENCE平台,建立完整的项目管理流程。通过CATIA、ItasCAD、博超STD等专业软件的双向对接,构建数字化协同设计平台，进行标准化设计、碰撞分析、计算分析、工程出图等应用实践，综合集成工程项目数据源，搭建统一的项目数据中心，为工程全生命周期的高效化、精细化管理提供有效支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；项目管理；协同设计；数据中心",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17;TP391.9;TU271.1【文献标识码】A 【文章编号】1674-7461(2017)04-0012 -07   \n【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.04.03 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "德尔西水电站装机容量180MW，多年平均发电里 12.181亿 $\\operatorname { k W } \\cdot \\operatorname { h }$ ，总库容60.4万 $\\mathbf { m } ^ { 3 }$ ,额定水头$4 9 5 \\bar { \\mathrm { m } }$ 。工程主要建筑物由首部枢纽、引水系统、发电厂房及其附属设施组成,如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/31af74fb2938c97fdca6087f52dca70ecf216498641246cabcb6ca965ddefa1c.jpg",
+        "img_caption": [
+            "图1水电站工程布置"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)项目沟通难度大、沟通成本高。该水电站为EPC项目。业主单位为厄瓜多尔国家电力公司，设计单位为西北院，咨询单位由法国、意大利和厄瓜多尔四家公司组成，施工单位由水电十四局、十局和厄瓜多尔两家公司组成，机电设备供货商由国内十余家公司组成，项目参与方众多，跨区域、跨国别，涉及多种语言。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)参与专业多，专业间配合衔接频繁。水电项目涉及20多个专业，专业之间需要相互参考和互提接口。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)方案优化及变更情况复杂。该工程为EPC项目，对工程工期和投资控制非常严格，水电工程施工具有复杂性和不确定性，需要根据现场实际情况进行频繁的设计优化及变更，并反复同咨询工程师进行沟通。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(4)机电设备精细化设计程度高。项目所有的机电设备均从国内进口，其材料用量、运输方案对工程工期及成本影响较大，需要对其进行精细化设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(5)设计交底困难。项目设计及施工、监理涉及4个国家、3种语言，以二维施工图进行交底非常困难。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(6)项目文档管理难度大。项目建设过程中涉及设计、施工、采购等多类文档管理，不同参与方之间需要频繁进行文档共享与参考，文件类别多、版本多，使用人员的权限也各不相同，文档管理难度很大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为节约工期、成本,打造优质工程,树立电建品牌,全面应用BIM技术[1-3]进行水电站设计及施工应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM技术应用路线",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 平台建设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM应用平台架构如图2所示，基于达索3DEXPERIENCE平台，建立完整的BIM实施管理流程[4]。通过CATIA、ItasCAD、博超 STD 等专业软件的双向对接，构建数字化协同设计平台，进行标准化设计、碰撞分析、计算分析、工程出图等应用实践,并拓展应用到方案模拟、工艺仿真、虚拟现实、多维可视化管理等方面。综合集成工程项目数据源，搭建统一的项目数据中心，为工程全生命周期的高效化、精细化管理提供有效支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3DExperience电 项目启动 项目策划 项目执行 项目监控 拓展应用方案模拟101111035 测绘专业 地质专业 协同设计 厂房专业 港水专业 工艺伯真Supermap ItasCAD CATIA CATIA CATIA 3dnax施工专业 建筑专业 监测专业 水机专业 金结专业 虚拟现实CATIA Revit CATIA CATIA CATIAUmity 3D暖通专业 通信专业 给排水专业 电气一次专业 电气二次专业多维可视化管理CATIA CATIA CATTA 博超SID 博超SIDEaovia立 ? ?多方信息共享标准化设计 碰撞分析 计算分析 工程出图 工程量统计 方案比选 在线校审 设 Eaovia计变更 数字化移交Enovia数据史心 模型管理 文档管理 标准规范",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 工作流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于达索3DEXPERIENCE平台，定制详细的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM工作流程,如图3所示。从项目创建、策划到数据归档、发布，每一个BIM应用环节都进行科学规划、统一管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 技术标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照国际LOD标准、ISO-15926、IFC2.x等国际标准建立了三维数字化模型技术标准体系，形成了完备的公司级BIM技术标准体系，用以指导BIM技术应用，统一BIM行为。主要技术标准包括《三维设计项目实施导则》、《三维设计模型组织规则》、《三维设计项目结构分解规则》、《三维设计项目任务分解规则》、《三维协同设计操作方法》等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 软硬件配置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本项目引入多款BIM软件，配备了计算机、服务器和图形工作站，如表1所示。满足三维建模、计算分析、数据管理、渲染、动画制作、虚拟现实等各种需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d45d4a3825c7f2cca9b77a3f02faa2e9cd6f048be1d319314a9984ff5d976645.jpg",
+        "table_caption": [
+            "表1软硬件配置"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>软件或硬件名称</td><td>完成工作</td><td>备注</td></tr><tr><td>1</td><td>3DExperience/Enovia VPM</td><td>项目管理/协同/可 视化/信息共享</td><td></td></tr><tr><td>2</td><td>CATIA/ItasCAD/博超 STD</td><td>三维模型建立</td><td></td></tr><tr><td>3</td><td>ANSYSWorkbench/ABAQUS</td><td>结构计算分析</td><td></td></tr><tr><td>4</td><td>Delmia</td><td>方案模拟</td><td></td></tr><tr><td>5</td><td>3D Max</td><td>工艺仿真</td><td></td></tr><tr><td>6</td><td>Unity3D</td><td>虚拟现实</td><td>软件配置</td></tr><tr><td>7</td><td>HP ElietDesk</td><td>三维模型建立</td><td></td></tr><tr><td>8</td><td>ThinkStation D30</td><td>服务器、数据库</td><td></td></tr><tr><td>9</td><td>AlienwareAuroraR5</td><td>模型渲染、工艺仿真</td><td></td></tr><tr><td>10</td><td>Alienware Aera51R5</td><td>虚拟现实</td><td></td></tr><tr><td>11</td><td>Alienware ALW15ER3</td><td>计算分析、方案模拟</td><td>硬件配置</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/05d44018bf9424f7f81ecb1dcd33bbc2677736ee1c1ec68222245fccd75d4f99.jpg",
+        "img_caption": [
+            "图2BIM应用平台架构",
+            "图3工作流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 BIM团队组织架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本项目中设BIM经理1名，BIM设计工程师2名（土建、机电各一名），BIM应用工程师5名，BIM实施工程师2名，BIM数据管理员1名，BIM硬件维护人员2名（设计院、施工现场各一名）。BIM经理负责整个项目建设过程中BIM应用的全部工作，并协调解决相关问题；BIM设计工程师，主要为设计人员在协同设计过程中提供技术支持，同时对三维设计成果进行规格检验；BIM应用工程师，主要是在协同设计的基础上，基于BIM模型及项目数据，进行方案模拟、工艺仿真、虚拟现实、多维可视化管理及数字化移交等拓展应用；BIM实施工程师，一方面引导施工现场进行BIM设计成果应用，另一方面收集项目变更信息；BIM数据管理师，主要负责项目数据管理、人员权限设置、数据同步及备份；BIM硬件维护人员，主要负责服务器、网络的日常维护。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3设计阶段BIM应用及价值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "德尔西水电站三维设计是在3D EXPERIENCE协同设计平台下完成,基于项目管理的人员角色划2 权限定制、骨架驱动和装配约束的设计机制、维碰撞检测及计算分析技术的实现，确保了专业间数据引用的统一性、准确性和实时完整性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 项目管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C本工程采用3DEXPERIENCE平台实施项目启动项目策划、项目执行、项目监控，实现设计阶段项目的流程化、高效化、精细化管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目启动阶段进行项目模板创建、项目信息创建、项目成员创建。管理员进行各类项目年度计划模板的创建，项目经理通过模板创建项目基本信息，添加项目参与成员，设定基本的权限及角色信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目策划阶段进行项目WBS分解，编排计划进度，进行计划审批，分配任务等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目执行阶段主要进行任务接收、成果提交和成果审批。设计人员接收任务，根据实际情况填写任务进度，将设计成果上传至对应任务，完成后提交状态至复核，发起审批流程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目经理、设总、专业负责人等通过项目看板监控项目状态和执行情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 多专业协同设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同专业、不同人员基于产品上下文，利用骨架模型5进行协同设计，资料互提。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)地质专业",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地质专业设计流程如图4所示，地质设计工程师在ItasCAD[6]里面进行地质专业设计,将设计结果（mesh面和相应参数)导入CATIA，再进行地质数据的整理和修改，ItasCAD地形数据作为重要的骨架元素通过3DE发布供水工专业协同设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)水工专业",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水工专业设计流程如图5所示，水工专业从数据中心调用地质模型，建立设计骨架，并进行发布，用于水工子专业(坝工、厂房、泄水)设计及开挖设计。各子专业从模板库调用模板，通过修改参数快速建立各部位水工建筑物；基于BIM模型自动统计工程量，自动生成施工图纸；利用BIM模型进行工程布置方案的优化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)设备管路专业",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建立设备管路常用标准元件库，利用Catalog进",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/056e22162c0c328904026b5199506b661d0f296c64cf14f089e7de014a5e68df.jpg",
+        "img_caption": [
+            "图4地质专业设计流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/50b1e24b226c1a5e19c453b2aa940b3072414fc69d09093c318d5b7339a6c849.jpg",
+        "img_caption": [
+            "图5水工专业设计流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e25d2ed4b0f064b954b6cb78c086b746b5e97cc3d1a194d766b518853cc7bbb.jpg",
+        "img_caption": [
+            "图6设备管路布置"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7407f47a76a6e0bf308ff37190af8e9da8d14e90eeb82d6d4f1389b13f629061.jpg",
+        "img_caption": [
+            "图7电气专业设计流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "行管理，参考已经设计好的厂房模型，调用标准原件库快速进行精细化设计，并自动生成材料设备清册。设备管路布置如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)电气专业 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电气专业设计流程如图7所示，博超软件直接读取CATIA文件，供电气设计师参考和协同设计使用，电气成果使用3DE平台数据管理和供其他专业参考使用。基于电气三维设计成果，可直接生成施工图及电缆设备清册。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)各专业设计完成之后，通过项目总节点，即可查看工程总体设计成果，如图8～10所示。各专业相互协同，子专业变更后，相关设计图纸、工程量及上下游专业设计成果自动更新，大大减少设计变更工作量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9393733f0a3d3d45fc37c4ce0d0782f64f2b7e26eaf97c0a0bc33a969e60ffce.jpg",
+        "img_caption": [
+            "图8枢纽设计成果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc99da93285f993f0449f779cb1a799868b4d9e22631da3f78fa1ac928416290.jpg",
+        "img_caption": [
+            "图9厂房设计成果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b40370205a9ea27ea831f24053360a786367a69dc4bda40e1c29460e14e5cde7.jpg",
+        "img_caption": [
+            "图10机电设备设计成果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 在线校审 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于CATIA3DLiveExamine，校审人员无需安装三维设计软件，通过网页便捷地完成三维模型的检查、批注，提高校审效率，保证设计质量。规范化、一体化的校审方案，解决了三维设计无校审或依赖线下校审的局面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4 碰撞分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用BIM模型进行碰撞分析，共发现硬碰撞72处（厂房与机电35处、机电与机电37处），软碰撞",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "48 处。根据碰撞检测报告提前调整设备布置，避免机电安装时设备管路互相干涉和冲突，减少返工。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5 计算分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用BIM模型对结构进行力学分析和优化设计，如图11所示。一体化的设计计算避免了重复建模，提高设计效率，减轻设计人员工作量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.6 拓展应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)方案模拟 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于Delmia施工仿真模块，对地下交通洞大车",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bf21057e0fd215ae260e974a96e85428a8be849494f96e4f79e0ea6c62ef8f7.jpg",
+        "img_caption": [
+            "图11 计算分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60696bd8f8155d72361c690eb97dde4e385659430a532694ce9cb658a1f15e9c.jpg",
+        "img_caption": [
+            "图12运输方案模拟 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运载岔管可行性方案进行了模拟，如图12所示。通过模拟4种不同的运输方案，寻找出无碰撞的运输方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)工艺仿真 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "O引水系统竖井总高度 $4 2 9 \\mathrm { m }$ ,如此高的竖井,工程少见，一般均采用反井钻开挖。基于BIM模型进行正井法全断面施工工艺仿真，如图13所示。辅助项目施工方案的选择决策，最终为项目节省了工期。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/89f5840ea5b0b8c9f211477079982be51c0b73aaacc3fc8a8870dff44328cff8.jpg",
+        "img_caption": [
+            "图13 施工工艺仿真"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)虚拟现实 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用已建的三维信息模型实现动态可视化展示，结合交互式、沉浸式体验，使项目各参与方更加直观、身临其境地了解工程信息，辅助施工及机电。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)多维可视化管理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "建立专业、部位、系统三个维度的可视化管理组织结构，基于模型统一管理工程量、施工、采购、质量、安全等工程信息，方便项目不同参与方使用。通过访问权限控制实现数字化移交。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5)多方信息共享",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于3DEXPERIENCE平台，统一管理项目文件,EPC项目部统一管理的参建各方基于同一平台进行项目文件的获取、实现线上沟通及问题反馈，降低沟通成本。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 应用效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)设计阶段BIM集成应用。使设计差错减少$8 0 \\%$ 以上，现场修改数量减少约 $6 0 \\%$ ,现场协调会数量减少约 $30 \\%$ ,工程数据查找效率提高约 $5 0 0 \\%$ ，极大地提升了BIM应用效率及效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)多专业数字化协同设计。提高综合设计效率约 $2 5 \\%$ 、出图效率约 $6 0 \\%$ 以上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)设计数据统一存储、管理和使用，实现了数据安全、共享和可追溯。基于统一数据源开展以BIM模型为载体的数字化移交，打破水电行业长期以来以图纸报告为主要交付物的现状。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过将BIM技术应用于水电站设计阶段的各个环节,在BIM集成应用、设计管理流程化、设计成果多维可视化管理等几个方面取得了丰富的成果和经验，研究结论如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)设计阶段 BIM集成应用。基于统一的平台和数据架构进行设计阶段的项目管理、数字化设计、数据存储和信息沟通,极大地提升了BIM应用效率及效果；打破部门和专业界限，开展大坝、厂房、泄水、电气等多个专业和部门的数字化协同设计，实现了项目数据共享和可追溯以及项目、业务流程和数据的纵向一体化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)基于BIM的设计管理流程化。提出基于BIM的设计过程管理流程和管理方法，编写企业级BIM 标准30 余份,与BIM应用无缝对接,实现了BIM应用的标准化和规范化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)设计成果多维可视化管理。基于同一管理平台下的可视化设计任务管控、VR展示、可视化交底、异地协同办公，大大提高了沟通协调效率，简化沟通成本。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对以上研究结论，为促进工程建设行业BIM技术的发展提出相应建议：当前工程建设行业BIM应用工具众多，数据格式不统一，信息交互困难，因此，建立统一、标准的数据格式与标准尤为重要。BIM不仅仅是技术手段的改革，管理方式及标准也需要相应的更新。同时，BIM应用的价值贯穿于工程全生命周期管理的各阶段，尤其在施工阶段需要业主和相应参建方积极配合，才能发挥更大的价值。随着BIM应用的发展和本工程项目的推进，本研究将继续在施工阶段BIM应用、设计施工一体化、数字化移交、智慧运维等方面进一步深入探索，以期将BIM技术应用贯穿于工程项目的各个阶段，实现全生命周期精细化、高效化管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "［1］张建平.BIM技术的研究与应用[J].施工技术，2011(2):15-18.  \n［2］黄亚斌.BIM技术在设计中的应用实现[J].土木建筑工程信息技术，2010，2(4)：71-78.  \n［3］延汝萍，宋萍萍,张晓玲,等.传统施工技术在BIM技术引领下的新发展［J].建筑技术，2016，47（8）：694-697.  \n[4］孙永悦.工程设计项目管理的BIM控制思路[J].建筑技术，2013，44（10)：886-889.  \n［5］齐成龙．基于达索3D体验平台的BIM技术在斜拉桥锚槽设计中的应用［J].结构工程师，2017,33（2）：129-134.  \n[6］张春峰，周小娟，贾新会等.水电工程地质信息三维可视化研究及应用[J].资源环境与工程，2015，29（5）：726-730.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Application of BIM in the Design of Delsi-Tanisagua Hydropower Station ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Huang Yong，Yang Dangfeng，Yang Dongsheng，Liu Lifeng, Li Erkang,Liu Xiaodong， Jia Xinhui ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Northwest Engineering Corporation Limited，PowerChina，Xi’an 71OO65，China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Delsi-Tanisagua Hydropower Station is a large-scale hydropower project abroad,which is constructedand managed by using the Chinese technologyand European codes，respectively.Though the interface of CATIA,Itas CAD,Bochao STDand other professional design software，acollaborative digital design platform is setup to implement the standardized design，colision analysis，calculation analysis，engineering drawings，and etc.All engineering project data sourcesare integrated and a unified projectdata center is built，to provide efective support for the high efficiency and fine management for the whole life cycle of the project. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:BIM；Project Management；Collaborative Design；Data Center ",
+        "page_idx": 6
+    }
+]

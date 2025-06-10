@@ -1,0 +1,596 @@
+[
+    {
+        "type": "text",
+        "text": "编者按空间科学作为与重大科技突破和人类生存发展密切相关、能够引领密集技术创新的前沿交叉学科，在国家发展中发挥着越来越重要的作用，成为世界强国高度重视和争相支持的重要学科领域。为此，本刊特推出“中国空间科学的现状与未来\"专题，对我国至2030年的空间科学发展及在国际科学界中的地位与影响进行了探讨，以期为构建中国空间科学发展的国家战略形成智力支撑。该专题由中科院国家空间科学中心吴季研究员指导、推进。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcebff70ce8d6d783e16abc5c724ef83bcb12d06cfbf5a4913f97d36b2b28c5c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016一2030年中国空间科学发展规划建议",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文/吴季¹孙丽琳¹　尤亮’曹松白青江’　邹永廖²　张伟³  \n1中国科学院国家空间科学中心北京100190  \n2 中国科学院国家天文台 北京100012  \n3中国科学院空间应用工程与技术中心北京100094",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】半个世纪以来,空间科学不仅极大拓展了人类的认知领域,改变了人类对自然与自身的认识，而且牵引和带动了航天和相关高技术的快速发展，为国家安全、科技进步提供了支撑和保障,同时通过大批创造性的发明和技术应用，为国家经济社会发展、人类生活质量改善提供了源源不断的创新活力。在分析国内空间科学发展现状的基础上，文章阐述了我国2016一2030年空间科学拟研究的前沿科学问题,提出了我国至2030年空间科学发展战略目标、空间科学计划及所包含的科学卫星任务，并探讨了支撑和保障空间科学发展所需的技术手段与能力。希望通过系列空间科学计划与任务的实施,为我国经济社会发展和人类文明进步做出应有的贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 空间科学，科学问题，卫星计划和任务，规划建议DOI 10.16418/j.issn.1000-3045.2015.06.001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空间科学是以空间飞行器为主要平台，研究发生在日地空间、行星际空间乃至整个宇宙空间的物理、天文、化学以及生命等自然现象及其规律的科学。空间科学开展宇宙、生命的起源演化和基本物理规律的前沿探索，是当今自然科学重大发现与突破不断涌现的热点学科。21世纪以来，空间科学与技术的发展日新月异，人类探索宇宙的步伐越来越快，人类活动向太空的延伸也越来越深远，空间科学作为与重大科技突破和人类生存发展密切相关、能够引领密集技术创新的前沿交叉学科，在国家发展中发挥着越来越重要的作用，成为世界强国高度重视和争相支持的重要学科领域。本文着眼于未来5一15年的发展，在分析国内空间科学发展现状的基础上，阐述了2016—2030年中国空间科学拟研究的前沿科学问题，提出了中国至2030年空间科学发展战略目标、空间科学计划及所包含的科学卫星任务，探讨了支撑和保障空间科学发展所需的技术手段与能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1国内现状 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过50年的发展，我国在空间技术、空间科学研究方面都已具备了一定的基础，在学科领域设置、科研队伍培养、基础设施建设等方面取得了长足进展，目前学科领域齐全、人才队伍初具规模、科研成果不断涌现，形成了良好的发展势头。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在政策方面。2011年12月，国务院发布了《2011年中国的航天》白皮书[1],确定了中国发展航天事业的宗旨和原则，即：探索外层空间，扩展对地球和宇宙的认识；和平利用外层空间，促进人类文明和社会进步，造福全人类;满足经济建设、科技发展、国家安全和社会进步等方面的需求，提高全民科学文化素质，维护国家权益，增强综合国力。中国发展航天事业服从和服务于国家整体发展战略，坚持科学发展、自主发展、和平发展、创新发展、开放发展的原则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在载人航天工程方面。2011年9月和11月，先后发射了“天宫一号”目标飞行器和\"神舟八号”",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "飞船，成功实施中国首次空间交会对接试验，为后续空间实验室和空间站的建设奠定了基础[2]。2012年6月搭载男航天员景海鹏、刘旺和女航天员刘洋的\"神舟九号”飞船成功与\"天宫一号\"实施交会对接，中国实施了首次载人空间交会对接[]。2013年6月由“长征二号F\"改进型运载火箭“神箭”成功发射了“神舟十号”，飞行乘组由男航天员聂海胜、张晓光和女航天员王亚平组成，首次开展中国航天员太空授课活动，在轨飞行15天安全返回地面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在探月工程方面。2010年10月1日，中国成功发射“嫦娥二号”月球探测器，获取了分辨率更高的全月球影像图和虹湾区域高清晰影像，开展了月球形貌、结构构造、月面物质成分、微波特性和近月空间环境等研究工作，对月球的科学认知进一步提高，并成功开展环绕拉格朗日L2点等多项拓展性试验，为深空探测后续任务的实施奠定了基础。2013年12月2日“嫦娥三号\"登月探测器成功发射，通过着陆器和\"玉兔号”月球车，首次实现月球软着陆和月面巡视勘察，着陆器和巡视器顺利互拍，开展了月球着陆巡视区的月表特性原位分析、形貌探测、结构构造综合探测以及月表环境探测和月基天文观测，完成月球探测第二步任务[46]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在空间科学卫星方面。2010年以来我国空间科学领域最重要的系统性进展即为启动实施由中科院牵头的“空间科学战略性先导科技专项\"（简称\"空间科学先导专项”)。2010年3月31日，国务院第105次常务会议审议通过中科院“创新2020”规划，要求中科院“组织实施战略性先导科技专项，形成重大创新突破和集群优势”。2011年1月11日，中科院党组研究决定启动第一批战略性先导科技专项，空间科学先导专项作为首批启动的先导专项之一由此进入了正式实施阶段。空间科学先导专项的立项实施标志着我国空间科学事业进入新的发展阶段[7-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，也应看到,与国际先进水平相比，我们仍有很大的差距，在空间的探测和认知方面的能力还比较弱，缺少具有前沿性、探索性和原始创新性的重大科学发现和成果，中国仍然是空间知识的使用国，而非产出国。至今，中国空间科学家在开展研究时使用的数据仍以国外科学卫星的探测数据为主，这些数据大部分都已经被别人分析过，很难从中取得重大发现，即使经过大量的分析和统计，也仅能获得一些边边角角的成果。此外，即使获得了搭载的机会，甚至是独立立项的卫星计划，但由于试验的机会太少，中国在有效载荷研制方面还显得经验不足，探测仪器的性能与世界先进水平还有很大差距，这也限制了中国获取高质量的探测数据。因此，着眼于我国长远的战略需求，需要通过实施我国自主的空间科学计划并对其进行持续稳定的支持，发展空间科学事业，获取重大原创性科学成果,并使中国有能力为人类的空间探索、技术进步及社会发展做出持续性的贡献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2前沿科学问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间科学以人类历史发展中的基本问题(如宇宙起源、生命起源等)为主要研究内容，通过在宇宙空间中开展观测、探测与实验，为这些基本问题寻找答案;同时空间科学还关注对人类的生存有直接影响的领域（如太阳的变化及其对地球和人类的影响），为人类建设更安全更美好的生存家园提供理论指导。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "至2030年前，中国的空间科学研究应关注以下两大主题：一是宇宙和生命是如何起源和演化的；二是太阳系与人类的关系是怎样的。每一个主题下面都包含了数个科学问题和子问题，寻找这些问题的答案，将使我国对这个世界的了解更进一步。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 主题一包含的科学问题及子问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)宇宙是如何起源和演化的？ $\\textcircled{1}$ 宇宙是由什么构成及如何演化的； $\\textcircled{2}$ 宇宙中不同尺度的结构和天体是如何起源和演化的； $\\textcircled{3}$ 是否存在超越现有基本物理理论的新物理规律。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)生命是如何起源和演化的？ $\\textcircled{1}$ 生命是如何起源和演化的； $\\textcircled{2}$ 获取地球以外存在生命的证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)空间环境下的物质运动规律与生命活动规律是什么？ $\\textcircled{1}$ 空间环境下的物质运动规律是什么； $\\textcircled{2}$ 空间环境下的生命活动规律是什么。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2主题二包含的科学问题及子问题",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)太阳活动的基本规律是什么？ $\\textcircled{1}$ 太阳活动的微观现象和规律是什么； $\\textcircled{2}$ 太阳活动的宏观现象和规律是什么。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)太阳系的起源演化及其与太阳的关系是怎样的？ $\\textcircled{1}$ 太阳系行星是如何起源与演化的； $\\textcircled{2}$ 太阳活动事件在行星际空间中是如何传播和演化的； $\\textcircled{3}$ 太阳活动是如何影响地球空间环境的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)地球系统将怎样发展演化？ $\\textcircled{1}$ 地球系统如何变化； $\\textcircled{2}$ 地球系统变化的主要原因是什么； $\\textcircled{3}$ 地球系统未来如何变化； $\\textcircled{4}$ 地球系统科学如何提高对全球变化的适应能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3中国至2030年空间科学发展规划建议",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间科学研究依赖于通过实施发射空间科学卫星(或飞船)来获取第一手数据。为前述科学问题寻找答案需要实施目标明确、技术可行的空间科学计划。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中国空间科学至2030年的总体战略目标是：发展空间科学事业，在宇宙的形成和演化、系外行星和地外生命的探索、太阳系的形成与演化、太阳活动及其对地球空间环境的影响、地球系统的发展演化、超越现有基本物理理论的新物理规律、空间环境下的物质运动规律和生命活动规律等热点科学领域，通过系列空间科学计划与任务，取得重大科学发现与创新突破，推动航天和相关高技术的跨越式发展，为人类认识宇宙、探索太空做出中华民族应有的重大责献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为此，中国空间科学家提出了至2030年我国空间科学计划和任务建议[14-25]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“黑洞探针”计划。通过观测宇宙中的各种黑洞等致密天体以及伽玛射线暴，研究宇宙天体的高能过程和黑洞物理，以黑洞等极端天体作为恒星和星系演化的探针，理解宇宙极端物理过程和规律。“黑洞探针\"计划回答以下几个重要的关于宇宙组成和演化的前沿科学问题：(1)黑洞等极端和致密天体的性质是什么？(2)黑洞等极端和致密天体是如何和它们周围的环境相互作用的?(3)极高密度、极强磁场和极端引力场中的物理规律是什么?(4)大质量恒星是如何演化和最后形成黑洞等致密天体的?(5)超大质量黑洞是如何形成和增长的？(6)超大质量黑洞在星系以及宇宙大尺度结构的形成和演化过程中起什么作用？(7)高红移(早期)宇宙中暗物质和暗能量是如何演化的？“黑洞探针\"计划包括的项目建议为：硬X射线调制望远镜（Hard X-ray Modulation Telescope,HXMT）、“空间变源监视器”（SpaceVariable Objects Moni-tor,SVOM)和将搭载在我国空间实验室“天宫二号”上的“伽玛暴偏振探测项目”（Gamma RayBurst polarization experiment, POLAR）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“天体号脉\"计划。宇宙中各种天体的电磁波辐射信号随时间的变化提供了天体内部结构和天体活动的基本信息。恒星、白矮星和中子星的周期性光变对于理解它们的性质起了决定性的作用。“天体号脉\"计划旨在对天体各种波段的电磁波和非电磁波辐射进行高测光精度和高定时精度的探测，理解各种天体的内部结构和各种剧烈活动过程。主要项目建议包括：X射线时变与偏振卫星（X-ray TimingandPolarization,XTP）、爱因斯坦探针卫星(EinsteinProbe,EP）、中国引力波计划(China'sLISAprogram,cLISA)和拟在我国空间站上实施的中子星极端天体物理和新技术探索任务（Neutron-star Extreme Astrophysics and newTechnology Exploration Research,NEATER）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“天体肖像”计划。获得太阳系外的恒星、行星、白矮星、中子星、黑洞等天体的直接照片，星系中心、恒星形成区、超新星遗迹、喷流等结构的高清晰度照片，开展各个波段的深度成像巡天，以及绘制各个波段宇宙背景辐射的高精度天图，对理解宇宙的构成等科学问题起重要关键作用。目前在该计划的框架下提出的项目建议包括：空间毫米波VLBI 阵（Space millimeter VLBI array, S-VL-BI)和空间甚低频射电天文台（SpaceUltra-LowFrequency Radio Observatory, SULFRO）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“天体光谱”计划。对天体的各种波段(光学、射电、X射线等)的光谱进行高分辨的测量。主要项目建议包括：“宇宙网\"紫外发射线探测器(Ul-traviolet Emission Mapperof“Cosmic Web”,UVEM），宇宙分子探测器（CosmologyandMole-culeExplorer,COME）、暗物质粒子探测卫星(Dark Matter Particle Explore satellite,DAMPE)(图1)以及拟在我国空间站上实施的大规模多色成像与无缝光谱巡天(China's Space Station Opti-cal Survey,CSSOS）、高能空间辐射探测设施(High Energy Cosmic Radiation Detection facility,HERD)和X射线-紫外全天监视器(X-ray all sky",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f67514274683712be470373e2bfffef89f991fc41a54c47afc49f53024c33b0d.jpg",
+        "img_caption": [
+            "图1“暗物质粒子探测卫星”在轨示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "monitor）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“系外行星探测”计划。主要搜寻太阳系外类地、类木行星，精确测定行星的质量、轨道、可见光和红外光谱以及上述物理参数随时间的变化情况，并建立上述行星半径、密度、有效温度、反照率、大气环境、温室气体、表面重力等重要物理参数的数据库，初步对宇宙中是否存在另一个“地球\"这一基本科学问题做出回答。主要项目建议包括：系外类地行星探测计划(SearchforTerrestri-alExo-Planets,STEP）、外星黄道尘盘成像和系外类木/类地行星谱征研究(Jupiter/Earth-twin Exoplanets and Exo-zodiacal DustImager and Spectrometer,JEEEDIS）和寻找宜居地球——新地球（Searchingfor livableEarth-NewEarth,Nearth）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“太阳显微”计划。对太阳进行高分辨或近距离多视角的多波段观测，研究太阳内部结构与演化、磁场起源、日冕结构与动力学、爆发过程的触发机制和粒子加速机制等基本物理过程。主要项目建议包括：深空太阳天文 台（Deep Space Solar Observatory,DSO）、太阳极区探测器（SolarPolarRegionExplorer,SPORE）、超高分辨X射线望远镜(Super High Angular Resolution Principlefor coded-mask X-ray imaging, SHARP-X)和太阳磁场和速度场分层结构探测器(Multi-layer Exploration of Solar Magneticand Velocity field, MESMV）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“太阳全景”计划。多波段联合诊断太阳变化规律，建立小尺度运动与大尺度变化的联系，回答太阳磁场的起源、磁场的大尺度特征、耀斑的特性及与日冕物质抛射的关系、日冕物质抛射的全球特征等问题。主要项目建议包括：先进天基太阳天文台（Ad-vanced Space-basedSolarObservatory,ASO-S）、空间甚低频观测阵（SolarRadio",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ArrayatextremelyLowFrequency,SRALF）、太阳磁场立体测量（StereoscopicPolarization Imagersfor ExplosiveSun,SPIES）、太阳高能辐射与粒子探测任务（So-lar Energetic Emission and Particle Explorer,SEEPE)和拟在我国空间站上实施的大面积太阳伽玛射线谱仪（LargeArea SolarGAm-ma-rayspectrometer,LASGA)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“链锁”计划。针对日地整体联系中的关键耦合环境进行探测，研究空间天气事件的大尺度扰动能量的形成、释放、传输、转换和耗散的全过程和基本物理过程，认知太阳电磁辐射和高能粒子对全球气候变化的影响途径和机制。目前，主要的建议项目包括：“夸父\"计划(KUAFU）磁层-电离层-热层耦合小卫星星座探测计划(Magneto-sphere-Ionosphere-ThermosphereCouplingSmall-Satellite Constellation Mission,MIT)（图2)和太阳极轨望远镜计划(SolarPolarORbit Telescope, SPORT）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/80a47027e9e28182e87f596bb63437b69ab0eed7b361dedb7d3f73edd572d2ab.jpg",
+        "img_caption": [
+            "图2MIT计划星座及轨道方案示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“微星\"计划。探测太阳活动、行星际、地球磁层、辐射带和电离层、中高层大气，研究空间物理基本物理过程和空间天气建模与预报中的关键区域、关键过程、关键效应等关键科学问题。目前主要建议的项目包括：中国地磁卫星计划(ChineseGeomagnetic Satellite,CGS）、太阳风-磁层相互作用全景成像卫星计划（SolarwindMagnetosphereIonosphereLinkExplorer,SMILE）、空间子午链磁层空间天气监测微卫星星座计划(Meridianchainnano satellitesofmagnetosphere）、赤道电离层空间天气小卫星（Small satellite for equatorial iono-sphere)和地球磁场和辐射带高能粒子探测微纳卫星编队（Micro satellite fleet of geomagnetic fieldand radiation belt）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“探天”计划。旨在从根本上改善我国对太阳、太阳风、磁层、电离层和中高层大气的空间环境的监测能力，形成覆盖我国主要航天和装备试验基地、重要城市和观测站点的地基监测网，具备中、小尺度分辨的监测能力，揭示我国上空空间环境的区域性特征及其与全球整体变化的关系。主要项目建议包括：空间环境地基综合监测网(Ground-based Space Environment ComprehensiveMonitoringNetwork），即子午工程I期（MeridianProjectII）、中科院日地空间环境观测研究网络(Solar-Terrestrial Environment Research Network,STERN）和国际子午圈(International Space Weath-er Meridian Circle Program, ISWMCP）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“火星探测”计划。以全球遥感、区域巡视和取样返回等探测方式，实现从全球普查到局部详查、着陆就位分析、再到样品实验室分析的科学递进。火星探测计划总体科学目标包括：(1)研究确定火星着陆和生命存在的条件与地区。探测火星表面水(冰)及其存在信息、气候环境、地形地貌特征,研究火星演化史中水(冰)存在和改造的证据，确定火星表面水(冰)的存在和分布，探索火星生命信息及对现今和将来支持生命生存或居留的可能性；优选火星着陆探测的区域，详细研究着陆区的形貌、气候、地质和地球物理特征，理解火星的地质演化。(2)研究火星土壤特性及其水冰、气体与物质组成。探测火星土壤的成分、结构与分布，分析火星土壤中的水冰与气体组分，研究火星土壤的成因、表面气液流体与固体物质的相互作用和地质改造历史。(3)研究火星大气及气候特征。通过对火星电离层、中性大气、磁层探测以及火星表面的气象观测，研究火星的大气组成与结构、太阳辐射与火星大气和物理场的相互作用、火星表面的气候特征，探讨火星大气圈的演化历史。(4)研究火星地质特征、演化与比较行星学。通过从整体、全局性的探测，到局部详细特征的分析，再到内部组成的研究，解析火星的表面过程、构造特征、地质单元和内部结构，研究火星的地质演化历史，并通过与地球、月球和金星等的对比分析，为地球尤其是地球环境的演化提供重要启示。主要项目建议包括火星全球遥感和区域巡视探测任务和火星取样返回任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“小行星探测\"计划。以伴飞、附着、取样返回等探测方式，对近地自标小行星进行整体性探测和局部区域的就位分析。主要项目为近地小行星探测任务，其科学目标为：(1)精确测定近地小行星轨道参数、自转参数和形状大小等物理参数，分析小行星的物理特性和地质特征，评估近地小行星撞击地球的可能性，为规避小行星撞击地球提供科学依据。(2)测量目标小行星的形状、大小、表面形态、自转状态等基本性质，绘制小行星的地形地貌图，建立其形状结构模型，研究其自转状态动力学演化、约普(YORP)效应和表面形态成因。（3)获取小行星整体和局部形貌、矿物含量、元素种类、次表层物质成分、空间风化层、内部结构等，获取太阳系早期信息，研究小行星的形成和演化史，为太阳系起源与演化提供重要线索。(4)探测小行星次表层以下的有机物、水等可能的生命信息，深化生命起源的认识。(5)研究行星际太阳风的结构和能量特征。(6)获取小行星临近空间环境参数，研究太阳风对小行星表面的空间风化作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地球静止卫星。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“木星系统探测”计划。总体科学目标主要包括：(1)研究木星磁层结构。获取轨道器环绕“木卫二”木星捕获过程以及捕获轨道到环绕探测工作轨道的转换过程中木星磁层等离子体与“木卫二\"大气的耦合作用、感应磁场及其电流等数据，研究木星系统的磁层结构特性，并反演“木卫二\"内部结构特性。(2)研究“木卫二\"大气模型。获取“木卫二\"的磁场、等离子体和大气的组分、密度、温度、风场、粒子辐射、电磁波动等探测数据，开展\"木卫二\"空间环境与大气演化模型的综合性研究。(3)研究“木卫二\"表面冰层形貌及厚度。获取“木卫二\"表面形貌、矿物组成和微波等探测数据,分析其地形地貌、地质构造和地下物质组成特性，研究其冰层厚度及其演化特性。(4)研究金星-地球-木星间的太阳风结构。通过金星的借力飞行，获取金星-地球-木星间的太阳风等离子体随时空变化的探测数据，研究金星-地球-木星间的太阳风结构及其演化过程。(5)研究地球生命的地外生存状态及其演变特性。开展木星系统探测器在行星际飞行期间以及木星系统探测期间的微型遥测遥控生物实验，观测并研究地球生命在不同空间段的生命状态、适应性反应及其变化过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“水循环探测”计划。水循环是水在太阳辐射、地球引力和其他能量作用下周而复始循环的动态转化过程，是地球三大循环系统(水、能量、生物化学)中最为活跃的物质循环过程。“水循环探测\"计划旨在研究水循环在连接地球水圈、大气圈、冰冻圈、土壤圈、生物圈、岩石圈及其内部物质和能量交换，以及生物化学过程条件中所发生的枢纽作用、机制及规律。主要项目建议包括：全球水循环观测卫星（WaterCycle Observa-tionMission,WCOM)（图3)和水循环通量",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/755647e86d167ca43f9d55ea175b10dd4bff14d1256c7bd9835f2197ca7b78c1.jpg",
+        "img_caption": [
+            "图3WCOM卫星示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“能量循环探测”计划。研究太阳辐射能量和地球系统红外能量收支对地球系统主要分量(大气、海洋、冰雪和生态)运动和变化的影响及其规律。其中大气中的云对天气气候变化有重要的调节作用，云与辐射、气溶胶复杂的相互作用过程对气候变化也有重要的调节作用。在能量循环观测方面建议的卫星任务主要包括：全球云-气溶胶-辐射监测卫星、基于拉格朗日点L1/L2特殊位置的地球辐射气候监测计划、月基全球变化探测计划、热层大气探测纳卫星任务、临近空间大气研究卫星任务、大气金属层激光探测研究卫星任务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“生物化学循环探测”计划。陆地和海洋生态系统,通过光合作用、呼吸作用、分解以及伴随干扰如火灾而发生的碳释放和吸收，在全球碳循环中发挥着关键的作用。“生物化学循环探测\"计划研究陆地及海洋、生态系统所发生的碳释放和吸收对全球碳循环的影响；通过观测碳循环、土壤水分和植被结构，对生态系统的关键功能进行研究。主要项目建议包括：高光谱生物化学卫星任务和激光雷达碳测量卫星。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“轻盈”计划。研究微重力流体物理基础科学问题，与空间探索活动相关应用、应用基础微重力流体物理问题以及微重力流体物理学科交叉性问题。主要项目包括：“微重力流体物理\"科学实验卫星计划、“微重力流体物理\"抛物线飞机计划和\"微重力流体物理\"探空火箭计划。其中，有关“微重力流体物理\"科学实验卫星计划，计划开展以下实验研究：复杂毛细现象与界面动力学，空间流体相变与相变传热，复杂流体体系的聚集相变过程；复杂流体系统(溶质扩散，胶体流体，颗粒介质动力学），空间应用两相流体热、质传输规律；空间电场、磁场等作用下的流体物理规律，生物流体物质输运规律。有关“微重力流体物理\"抛物线飞机计划和“微重力流体物理\"探空火箭计划，计划开展以下实验研究：短时流体界面现象与流体动力学过程特性；空间应用两相流与传热机理与先进实验技术研究；复杂流体过程中的重力效应实验研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“轻飚”计划。研究微重力环境下的材料相变、晶体生长与材料形成等过程，以及微重力环境下凝聚态体系的物理、化学性能及变化过程和规律。主要项目包括：“空间材料科学\"系列返回式卫星计划、“空间材料科学\"抛物线飞机计划和“空间材料科学\"探空火箭计划。其中，“空间材料科学”系列返回式卫星计划使用我国自己的卫星或采取国际合作途径，将考虑一系列卫星的形式安排以下主题型实验研究：生长界面稳定性和形态演化，深过冷与非平衡相变，晶体生长、凝固过程中的形态与缺陷控制。有关\"空间材料科学\"抛物线飞机计划，可以用抛物线飞机开展预先或验证性研究，特别合适的研究方向还包括：熔体的深过冷非平衡相变与热物理性质测量，颗粒物质的运动动力学，尘埃等离子体聚集与相变以及晶体生长过程的实时观察。“空间材料科学\"探空火箭计划,可以开展预先或验证性研究内容,特别合适的优先研究方向包括：基于X射线形貌透视技术为基础的晶体生长过程的实时观察与技术验证，基于电磁悬浮无容器加工技术熔体的深过冷非平衡相变与热物理性质测量与技术验证，高温自蔓燃高温合成材料以及尘埃等离子体聚集与相变。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“轻焰”计划。研究湍流燃烧机理、煤燃烧和传热过程及相关机理，进行航天器防火安全研究。主要项目包括：“微重力燃烧\"科学实验卫星计划、“微重力燃烧\"抛物线飞机计划和“微重力燃烧\"探空火箭计划。有关“微重力燃烧\"科学实验卫星计划，建议系列科学实验卫星上开展如下微重力燃烧实验研究：火焰熄灭特性和灭火过程，扩散火焰中碳黑生成机理，液滴燃烧；固体燃料燃烧，煤燃烧和传热过程，湍流火焰熄灭过程和极限条件；液体燃料雾化和燃烧，湍流扩散火焰特性和瞬态响应。有关“微重力燃烧\"抛物线飞机计划，计划开展微重力和低重力燃烧基础研究；空间站和科学实验卫星等空间燃烧实验装置的技术验证、实验方案和过程验证以及关键实验参数验证和优选;基于激光和图像的燃烧测量技术、激光吸收光谱的燃烧多参数诊断等微重力燃烧实验关键技术的研究和验证。有关“微重力燃烧\"探空火箭计划，计划开展燃烧基础研究，其内容包括：液体燃料雾化和燃烧，微重力条件下湍流扩散火焰特性，固体材料着火和燃烧（包括闷烧），固体材料燃烧产物输运特性等；另外还计划开展空间站和科学实验卫星等空间实验的预先研究以及微重力燃烧实验技术研究和验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“空间基础物理\"计划。(1)量子科学实验卫星(QUantum Experiments at Space Scale,QUESS)(图4)。拟通过建立卫星与量子通信地面站之间地高速量于密钥分友实验,开仕此基础上进行广域量子密钥网络实验,以期在空间量子通信实用化方面取得重大突破;在空间尺度进行量子纠缠分发和量子隐形传态实验，开展空间尺度量子力学完备性检验的实验研究。QUESS卫星将于2016年发射。（2)“冷原子物理\"计划。建立超冷原子物理的卫星实验平台，探索超冷物质波的物理特性，发现新物态与相变,检验基本物理定律并寻找新物理。拟在该平台进行一系列极端条件下的超冷原子物理实验，例如量子相变实验、极化分子实验、拓扑量子体系实验等。（3）“高精密时频\"计划。建立高精度时频系统,提供不确定度优于 $1 0 ^ { - 1 8 }$ 的高精度时间与频率标准,开展系列空-地时频传递和基础物理实验。主要项目建议包括：高精度时频空地双向传递实验、检验相对论的实验和检验大统一理论预言。（4)“低温凝聚态物理”计划。建立低温凝聚态物理实验平台，提供空间低温物理实验连续工作半年以上的低温环境和接口，发展低温实验操控的特殊低温驱动技术、低温测量技术和信息技术。主要项目建议包括：压力调控的量子相变综合实验研究和微重力条件下的超导量子相变。（5)“相对论与引力物理\"计划。开展高微重力水平下等效原理实验检验以及引力定律的实验研究，通过对物理理论的基本假设和高精度检验来寻找新的基本相互作用力。主要项目建议包括：基于光学传感的空间等效原理检验实验（Test of the Equiva-lence Principle with Optical-readout in space,TEPO）、检验引力定律、宏观旋转物体新型等效原理实验检验、大椭圆轨道卫星对相对论的综合实验检验、冷原子干涉仪弱等效原理实验检验和检验广义相对论预言的磁型",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1547fbcec43217842398cb3390cc45be45bc81d298d52bfbc2c2cd6d7c182211.jpg",
+        "img_caption": [
+            "图4量子科学实验计划运行示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "引力效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“腾云”计划。研究空间特殊环境下的生命活动现象、过程及其规律，研究地球生命在地外的表现形式。主要包括“生命科学”系列返回式卫星计划、“生命科学\"探空火箭计划和\"生命科学\"抛物线飞机计划。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“桃源”计划。探索地外生命和智慧生命，研究普适的生命起源、演化与基本规律。主要考虑\"木卫二\"或“土卫二\"科学探测计划，目标是有计划地选择木星或土星行星系中可能存在冰壳和地下海洋及大气层的卫星为探测目标，利用着陆器和巡视器取样在线分析探测大气、冰壳以及海水中可能存在的生命物质或形式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“载人航天工程”科学计划。规划了空间生命科学与生物技术、微重力流体物理和燃烧科学、空间材料科学、微重力基础物理、空间天文和天体物理、空间物理与空间环境、空间地球科学及应用等8个领域和31个主题的空间科学研究和应用，计划开展数百项空间科学研究项目。在空间生命科学和生物技术领域，将开展空间基础生物学研究，空间生命科学的前沿和交叉研究，空间生物技术和应用研究，空间辐射生物学研究和先进空间生态生命支持系统基础性研究。在微重力流体物理和燃烧科学领域，将开展微重力流体动力学，两相流、相变传热及其应用研究，和燃烧科学及应用研究。在空间材料科学领域，将开展微重力下材料制备过程机理研究，重大战略需求材料制备与研究和空间环境下材料的使役行为研究。在微重力基础物理领域,将开展空间冷原子物理研究，相对论与引力物理及其技术研究，高精度空间时间频率系统及其应用研究和低温凝聚态物理实验研究。在空间天文领域，瞄准“一黑\"(黑洞）、“两暗\"（暗物质、暗能量）、“三起源\"（宇宙起源演化、天体起源演化、地外生命起源)等前沿重大基础科学问题，以巡天观测为主要方式开展多色高精度测光与光谱巡天、暗物质粒子和宇宙线探测研究、天体变源和爆发现象探测研究、空间天文新技术研究等。在空间地球科学与应用领域，将开展与全球变化相关的地球科学研究、新型对地观测遥感器及应用研究、环境资源和自然灾害研究及应用研究。在空间物理与空间环境领域，将开展空间环境预报和监测以及空间物理探测研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 支撑的技术手段",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间科学的发展离不开空间探测技术的支撑与发展，原创、先进的科学目标、创新的探测思路和方法以及探索更遥远、更深邃、更广阔的宇宙空间的梦想，这些都向空间探测技术不断提出新的、更高的要求。至2030年，为实现我国空间科学总体战略目标，需要重点发展以下技术。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间天文观测技术。包括超高分辨率成像技术、空间VLBI阵列技术、高能电子观测和高能伽玛射线观测技术、X射线聚焦技术、大面积轻量化软X射线探测器、单光子弱光锁相测量技术、红外空间天文探测技术、紫外空间天文技术、空间X射线量能器技术和太阳系外行星空间光谱成像与干涉观测技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间太阳观测技术。包括中性原子成像探测技术、高能阵列探测技术、磁场偏振测量新技术、日冕磁场观测技术、紫外偏振测量技术、高能辐射偏振测量技术、红外探测器技术、紫外波段探测器技术、极紫外电流片诊断技术、大数据处理技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "日地空间环境监测技术。包括各种粒子探测技术、电磁场及其波动探测技术、遥感成像探测技术和航天器效应探测技术等几个方面，重点突破的探测技术包括中高能粒子探测技术、热等离子体探测技术、太阳紫外辐射探测技术和中性大气探测技术、太阳的短波成像探测、地球空间的X-射线、紫外和中性粒子成像探测、低频射电成像探测技术、高精度的新一代空间磁场探测技术和低频电磁波探测技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "太阳系探测有效载荷技术。包括行星大气探测技术、微波探测技术、质谱探测技术、行星次表层及内部探测技术等。此外还有轻量化技术、自主导航技术、深空低功耗热控与辐射制冷技术等火星、小行星等深空探测任务关键技术。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间地球科学载荷技术。包括全球水循环探测技术、能量循环探测技术、生物化学循环探测技术和临近空间综合探测技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间基础物理试验技术。包括超高精度时间基准技术、高精度惯性传感器技术、激光干涉测量技术、无拖电控制技术以及压力调控量子相变关键技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "微重力科学和空间生命科学实验技术。包括通用流体实验装置技术、流体在轨监测诊断技术、多相流流体体系压力精确调控技术、空间材料实验在线测量与实时观察分析技术、高温材料无容器制备技术、材料热物性测量技术和空间生命在轨实验高精度观测技术、生物样品精细操作与检测技术、小型哺乳动物空间饲养技术、小型密闭生命生态支持技术、生物安全监测与保障技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综合探测技术。包括高精高稳卫星平台技术、分布式卫星组网技术、空间可展开机构技术、极端环境热控技术、低成本可重复使用卫星技术、超高精度空间基准技术和星际航行推进技术等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5计划实施的方式与准备",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "要实现空间科学的长期可持续发展，需建立合理的机制，并采取适当的方式组织实施，才能将规划变为现实。在“十二五\"期间，空间科学先导专项建立起了从战略规划到预先研究、背景型号，再到卫星工程立项论证与研制、科学运行和产出评估的完整链条(图5)，对空间科学卫星计划实施方式进行了有益的探索，同时也为未来空间科学计划的实施奠定了较好的基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空间科学先导专项分别于2011年和2013年组织了两批空间科学背景型号项目的遴选。遴选采取发布指南、自下而上征集项目建议的方式。遴选标准以重大产出为主要指标，注重卫星项目产生的科学突破的重大性、注重科学数据应用的广泛性以及能否带动学科整体发展。在遴选过程中，组织国内顶级专家根据上述标准打分评选，形成了具体量化的评价指标体系;对入选项目组织国际评估，征集国际合作方案；根据关键技术攻关和国际评估情况决定是否进入工程研制阶段。采取这样的项目遴选机制既符合科学家的期望，又符合国际惯例。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/32fb61514224a6e7f1d7dea4c221097fe4700e23d9d8e10ff2f9bed0f3091432.jpg",
+        "img_caption": [
+            "图5空间科学卫星计划的实施链条"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“十二五\"期间,已有8个项目脱颖而出入选了空间科学背景型号项目，它们分别是：“天体号脉\"计划中的\"X射线时变和偏振探测卫星\"(XTP)和\"爱因斯坦探针卫星”(EP)；“天体肖像\"计划中的“空间毫米波VLBI阵列\"（S-VLBI;“系外行星探测\"计划中的\"系外类地行星探测计划\"(STEP)；“太阳全景\"计划中的“先进天基太阳天文台”(ASO-S)；“链锁\"计划中的\"磁层-电离层-热层耦合小卫星星座探测计划\"(MIT)和“太阳极轨成像望远镜计划\"（SPORT)；“水循环探测”计划中的“全球水循环观测卫星”(WCOM)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1)\"X射线时变与偏振探测卫星\"致力于观测黑洞、普通中子星和磁星，研究极端引力条件下的广义相对论和极端密度条件下的中子星物态，以及极端磁场条件下的物理规律，即广义相对论(对应黑洞自旋和吸积盘铁线测量）、量子色动力学(对应中子星物态测量)和量子电动力学（对应磁星偏振测量)等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)“爱因斯坦探针\"致力于发现和探测几乎所有尺度上的沉寂的黑洞；探测引力波爆发源的电磁波对应体并对其精确定位；系统性的深度探测和研究各类X射线暂现天体，快速定位并发布预警。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3）“空间毫米波VLBI阵列\"将开展黑洞等致密天体的超高精细结构成像观测等研究，探究黑洞的物理本质，精确估算中央黑洞质量，增加人类对黑洞的认识，揭示活动星系核中央能源机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4)\"系外类地行星探测计划\"将搜寻太阳系附近的类地行星，开展太阳系附近行星系统的精确探测研究，进行宇宙距离尺度定标。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5)“先进天基太阳天文台\"将研究耀斑和日冕物质抛射之间的相互关系和形成规律；研究太阳耀斑爆发和日冕物质抛射与太阳磁场之间的因果关系；研究太阳爆发能量的传输机制及动力学特征等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(6)“磁层-电离层-热层耦合小卫星星座探测计划\"致力于揭示电离层向磁层的上行粒子流的起源、加速机制与传输规律，认识来自电离层和热层的物质外流在磁层空间暴触发与演化过程中的重要作用，了解磁层空间暴引起的电离层和热层全球性多尺度扰动特征，揭示磁层-电离层-热层系统相互作用的关键途径和变化规律。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(7)“太阳极轨成像望远镜计划\"旨在揭示日冕物质抛射在内日球层的传播、演化、相互作用，特别是利用太阳极轨的观测视角来重构内日球层的三维整体动力学图像；发现太阳高纬磁活动与太阳爆发、太阳活动周的因果关联;研究太阳风高速流的起源和特性；理解高能粒子在日冕和内日球层的加",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "速、传输和分布等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(8)“全球水循环观测卫星\"致力于实现对地球系统中水的分布、传输与相变过程的机理及水循环系统的时空分布特征认识上的突破；实现对历史观测数据和水循环模型的改进，揭示全球变化背景下水循环变化特征，深化理解水循环对全球变化的响应与反馈作用的科学规律等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "除了空间科学背景型号项目，中科院和欧空局还联合遴选出了一项任务：“太阳风-磁层相互作用全景成像卫星计划\"（SMILE)，属于“微星\"计划，致力于首次实现地球磁层进行整体的成像观测，揭示磁层大尺度结构及其对太阳风扰动的响应；实现对极光日侧和夜侧的同时成像，了解空间天气变化的宏观驱动控制因素一开放磁通；揭示太阳风-磁层相互作用的整体联系和因果关系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "作为空间科技皇冠上的“明珠”，空间科学是蕴含重大科学突破并与人类生存发展密切相关的前沿交叉科学领域，不但是自然科学的重要前沿领域，同样对航天技术的发展具有重要的驱动作用。中国的空间科学事业开展了载人航天工程空间科学探测、“双星计划\"和探月工程等空间活动，实现了从起步向自主发展的迈进。进入“十二五”以来，空间科学先导专项的立项实施，标志着中国的空间科学进入了跨越发展的新阶段，面临良好的发展机遇，需要全国空间科学家共同努力，不断推进空间科学的可持续发展。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "中国的空间科学将以回答事关人类发展的基本问题为己任，为我国经济社会发展甚至人类文明的进步做出应有的贡献，树立起中国人探索太空的新丰碑！",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1中华人民共和国国务院新闻办公室.2011年中国的航天.北京：2011.2余建斌.我国载人航天事业不断发展.人民日报，2010-10-18.3陈善广，陈金盾,姜国华,等.我国载人航天成就与空间站建设.航",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "天医学与医学工程,2012,25(6)：391-396.  \n4 叶培建,黄江川,孙泽州,等.中国月球探测器发展历程和经验初探.中国科学:技术科学,2014,44(06):543-558.  \n5 孙智信,卢绍华,林聪榕.人类探月与嫦娥工程.国防科技,2007,(12):13-20.  \n6 探月工程二期\"嫦娥二号\"任务专题.[2015-08-24].http://www.cnsa.gov.cn/n1081/n7634/n244209/index.html  \n7 中国科学院空间科学战略性先导科技专项研究团队.开启中国认识宇宙的新篇章.中国科学院院刊,2014,29(6):754-763.  \n8 Wu J, Sun LL.Strategic Priority Program on Space Science.Space Science Activities In China National Report 20l2—2014,2014: 1-11.  \n9 Hao X. Chinese Academy takes space under its wing. Science,2011,332: 904.  \n10 Cyranoski D. China forges ahead in Space.Nature,2011, 479:276-277.  \n11 Stone R.Anew dawn for China's space scientists. Science,2012,336: 1630-1637.  \n12 Science in the Chinese Academy of Sciences.A sponsored supple-ment to Science, 2012: 1-49.  \n13 Qiu J. Head of China's Space Science Reaches out.Nature News,2014-03-06.  \n14中国科学院空间科学项目中长期发展规划研究课题组.中国空间科学项目中长期发展规划(2010—2025）.北京，2008.  \n15中国科学院空间领域战略研究组.中国至2050年空间科技发展路线图.北京:科学出版社,2009:42-45.  \n16 中国科学院空间科学项目中长期发展规划研究课题组.空间科学项目发展规划深化研究报告.北京,2012.  \n17空间天文中长期发展规划研究组.2016—2030空间天文领域发展规划研究报告.北京,2014.  \n18 太阳物理中长期发展规划研究组.2016—2030太阳物理领域发展规划研究报告.北京,2014.  \n19 空间物理中长期发展规划研究组.2016一2030空间物理领域发展规划研究报告.北京,2014.  \n20 深空探测中长期发展规划研究组.2016—2030深空探测领域发展规划研究报告.北京，2014.  \n21空间地球科学/全球变化中长期发展规划研究组.2016—2030",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2016一2030年中国空间科学发展规划建议",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "空间地球科学/全球变化领域发展规划研究报告.北京，2014.  \n22微重力科学中长期发展规划研究组.2016—2030微重力科学领域发展规划研究报告.北京,2014.  \n23空间生命科学中长期发展规划研究组.2016—2030空间生命科学领域发展规划研究报告.北京，2014  \n24空间基础物理中长期发展规划研究组.2016—2030空间基础物理领域发展规划研究报告.北京，2014.  \n25空间科学探测综合技术中长期发展规划研究组2016—2030空间科学探测综合技术领域发展规划研究.北京，2014.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Prospect for Chinese Space Science in 2016—2030 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Wu Ji’ Sun Lilin’ You Liang' Cao Song' Bai Qingjiang' Zou Yongliao² Zhang Wei³ (1 National Space Science Center, Chinese Academy of Sciences,Beijing 10o190, China; : National Astronomical Observatories of the Chinese Academy of Sciences, Beijing 10o012, China; 3 Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences, Beijing 100094, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract After the half--century development, space science has not only explored and setled new frontiers, expanding human'sunderstanding about nature and human itself,but also lead the rapid development of space and related technologies,and also brought about a numberof innovative applications,which has been advancing national scientific,security,economic and social interest and human life quality. China has laid a certain foundation in space science research through 50 years ofdevelopment. In 2011,the go-ahead of Strategic Priority Program (SPP)on Space Science marked that China's space science had entered a new stage.With an analysis of domestic space science status as the beginning,the paper poses the scientific questions to be addressed by Chinese space science community in 2016—2030, which is a) how did matter originate, how does it evolve and move? b)what’s the relationship between the solar system and human beings? Besides,The Chinese space science strategic goal is proposed,i.e.to make great scientific discoveries and achieve innovative breakthroughs by a series of scientific satelite programs and missions in frontier scientific fields,such as the formation and evolution of the universe,the exploration of exoplanets and extraterestrial life,the formation and evolution of the solar system,solar activities and their impact on the earth's space environment,the development and evolution of the earth's system,new physics beyond the curent basic physics theories,the law of mater motion and the law of life activity in space environment,etc;and to drive the great-leap-forward of aerospace and related high technologies.In addition,the paper also proposes the space science programs and missions through 2O30,and probes into the supporting technical capability.Through the implementation of a series of space science programs and missons,it is expected to make due contribution to China's economic and social development and human's civilization. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords space science, scientific questions,space programs and missions,planning proposal ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "吴季中科院国家空间科学中心主任,研究员，中国空间科学学会副理事长,国防科工委科技委航天领域专家,国际空间研究委员会(COSPAR)副主席,国际宇航科学院(IAA)院士，中科院\"空间科学先导专项”负责人，“嫦娥\"1、2、3号科学探测有效载荷总指挥。主要研究领域包括：微波遥感技术、空间探测技术,以及空间科学与技术发展政策研究。E-mail:wuji@nssc.ac.cn",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Wu Ji,receivedB.S.andM.S.degrees fromBeijing UniversityofPostsandTelecommunications,Beijing,China,and,Ph. D.degree fromTechnicalUniversityofDenmark,Copenhagen,Denmark,in1993.Hiscurrntresearch interests include microwave nterfeometric radiometers(MIR),soil moisture and ocean salinity imaging,atmosphere temperature and water content sounding from geostationaryorbit,distributed space system forboth astronomicaland planet observations.From 1985— 1986,he was with European SpaceResearchand TechnologyCentre(ESTEC),Noordwijk,Netherland,asa UnitedNations ResearchFellow,where he workedon contoured beam satelite antenna design.From 1986—1989,he was with the Beijing UniversityofPostsand Telecommunications,Beijing,China,where he workedonantenna theoryanddesign.ince196,he has beenaFullProfessor with the CAS KeyLaboratoryof Microwave Remote Sensing,National Space Science Center(NSSC),ChineseAcademyofSciences(CAS),Beijing,China.From1996to,he,savisitigprofessor,hadvisitedveral universities inthe US,includingthe UniversityofMassachusetsatAmherst,the UniversityofTexasatArlingtoandtheMassachusetts Instituteof Technology(MIT).Heis currentlythe director generalof NSSC.He was the chief designerof ground applicationsystemofDoubleStarProgram,project managerof payloadsub-systemof CE-1,CE-2and CE-3,chief scientistof YH-1 mission. Currntly he is thechiefscientistand project leaderof Strategic Priority Programon Space Science ofCAS.Dr. Ji $\\mathrm { W u }$ is the vice president of Commitee for space research(COPSAR),fellow of the IEEE Geoscience and Remote Sensing Society, full member of International Astronautics Academy. E-mail: wuji@nssc.ac.cn ",
+        "page_idx": 13
+    }
+]

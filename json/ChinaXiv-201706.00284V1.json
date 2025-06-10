@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "ARTP辐照对磷脂酶A1重组质粒的诱变效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨建伟，薛正莲\\*、朱昊、杨蒙、王洲(安徽工程大学生物与化学工程学院，微生物发酵安徽省工程技术研究中心，安徽 芜湖 241000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用常压室温等离子体诱变技术（ARTP）处理磷脂酶A1重组质粒pET28a-plaB，经琼脂糖凝胶电泳检测发现随着处理时间的延长，质粒超螺旋结构逐渐转变为开环及线性结构。对处理后的质粒转化到 BL21宿主菌中，在特定选择培养基中检出突变株转化子，结果表明，质粒处理时间与转化率成反比，与突变率成正比，在60 S达到最优诱变值。挑选圈径比较大的转化子测定其酶活，结果显示突变株(12)最高酶活为 $1 2 . 8 \\ \\mathrm { U / m L }$ ，与原始菌株( $\\mathrm { C K } ) 4 . 8 \\mathrm { U } / \\mathrm { m L }$ 相比，提高了2.67倍。对两菌株测序比对，发现碱基突变率为 $0 . 7 4 \\%$ ，且大都集中在 $\\mathrm { A } {  } \\mathrm { G }$ 和 $\\mathrm { C } {  } \\mathrm { T }$ 。ARTP对离体质粒具有较好的诱变效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：常压室温等离子体诱变技术；诱变；磷脂酶A1；质粒；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：(Q691) 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the mutagenic effect of phospholipase A1 recombinant plasmid by ARTP ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Jian-wei ,XUE Zheng-lian \\*,ZHU Hao ,YANG Meng,WANG Zhou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institutefc&allUsito Anhuiprovince,Wuhu，Anhui2410o0,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Atmospheric and Room Temperature Plasma (ARTP) was used to treat the recombinant plasmid pET28a-plaB for the expression of phospholipase A1，agarose gel electrophoresis detection showed that with the prolonging of treatment time,the supercoiled plasmid gradually transformed into open loop and linear structure. Then the treatment of plasmid transformed into host strain BL21,The mutant transformants were detected in particμLar selective medium,the resμLts show that the processing time is directly proportio to the conversion rate and inversely proportional to the rate of mutation, mutation $6 0 \\mathrm { { S } }$ achieved to the optimal value. Selected of the transformants with large circle diameter to detect its enzyme activity,the resuLts showed that the highest enzyme activity of（12) could reach $1 2 . 8 ~ \\mathrm { U / m L }$ ，which increased to 2.67 times than that ofthe original strain ( $\\mathrm { \\Delta T K } ( 4 . 8 ~ \\mathrm { U / m L } )$ . Blasting the sequence of the two strains, the base mutation rate reached $0 . 7 4 \\%$ （204号 and the most was concentrated in $\\mathrm { A } {  } \\mathrm { G }$ and $C {  } \\mathrm { T } .$ ARTP has a significant mutagenic effect on the in vitro plasmid. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: ARTP; mutant; phospholipase A1; plasmid ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常压室温等离子体（ARTP）作为一种新型的诱变技术，可以快速诱变各类微生物，成为了获取优势菌株的最有效方法之一[1,2]。ARTP 利用等离子体射流改变微生物遗传特性，可直接改变核苷酸结构或造成DNA双链或单链断裂，诱发细胞启动应急修复机制，从而导致核苷酸序列的改变[3-5]。ARTP 也可以在细胞表面发生作用，通过间接影响胞内遗传物质而引起代谢途径的改变，因此利用ARTP 诱变所得突变性状能在胞内稳定遗传[6-7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "磷脂酶A1（phospholipase A1，PLA1）是一类能催化磷脂 Sn-1位上脂肪酸水解，生成游离脂肪酸和溶血性磷脂的酶类[8.9]。目前，磷脂酶 A1的应用越来越广泛，尤其是在油脂脱胶行业[10]。随着人们对磷脂酶A1需求量的增加，利用微生物发酵生产磷脂酶 A1被人们所关注。由于工程菌发酵具有目的强、产量高、易纯化等一系列的优点，利用工程菌生产磷脂酶A1的研究更加深入[11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "质粒是存在于细胞内与染色体相互独立的遗传单位，它是一种能自主复制的共价闭合环状双链DNA 分子[12]。在基因工程中，质粒常被用作为运载体[13]。最近十年来，由于分子生物学实验方法的迅速发展，极大的促进了对质粒的研究。目前，运用各种诱变技术对质粒进行诱变研究已较为广泛[14,15]，为了进一步提高诱变效率、使诱变目的性增强，已报道有利用ARTP 对工程菌进行诱变来提高产量的[16]，而利用ARTP 对质粒直接诱变的极为少见。因此，本研究为进一步揭示ARTP作用于离体质粒DNA的生物学效应及为生物诱变育种提供实验依据和技术参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "质粒pET28a-plaB（携带磷脂酶A1及辅助蛋白S基因， $7 . 1 \\mathrm { k b }$ ），BP28工程菌（携带pET28a-plaB 质粒）、宿主菌BL21（本实验室保藏），ARTP诱变仪本实验室购置，质粒提取试剂盒、琼脂糖均购自上海生工，其它试剂均购自国药。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LB 培养基：酵母粉 ${ 5 } \\mathrm { g }$ ，胰蛋白脉 $1 0 \\mathrm { { g } }$ ，氯化钠 $1 0 \\mathrm { { g } }$ ，蒸馏水 $1 0 0 0 \\mathrm { m L }$ ，调PH到7.0。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PLB固体培养基：LB培养基 $9 0 ~ \\mathrm { m L }$ ， $10 \\%$ 卵磷脂 $1 0 ~ \\mathrm { m L }$ ， $0 . 0 1 \\%$ 溴甲酚紫 $3 \\mathrm { m L }$ ， $1 \\mathbf { M }$ CaCl2 $2 . 5 \\mathrm { m L }$ ，琼脂粉 $2 { \\mathrm { g } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上培养基均在 $1 2 1 \\mathrm { ~ \\textdegree C }$ ，灭菌 $2 0 \\mathrm { m i n }$ ，培养基中的卵磷脂、氯化钙和溴甲酚紫需分开灭菌后混合使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自诱导培养基：蛋白陈 $1 0 \\mathrm { g }$ ，葡萄糖 $0 . 8 \\mathrm { ~ g ~ }$ ，乳糖 ${ 5 } \\mathrm { g }$ ，磷酸氢二钠 $0 . 0 2 5 \\mathrm { M }$ ，磷酸二氢钾 $0 . 0 2 5 \\mathrm { M }$ ，硫酸镁1mmol，甘氨酸 $7 . 5 \\ \\mathrm { g }$ ， $1 0 0 0 \\mathrm { m L }$ 蒸馏水， $1 1 5 ^ { \\circ } \\mathrm { ~ \\textdegree ~ }$ 灭菌 $1 5 \\mathrm { m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$8 \\%$ 卵磷脂配制：卵磷脂 $\\textrm { \\tiny 8 g }$ 、 $\\mathrm { C a C l } _ { 2 } 0 . 2 2 2 \\ \\mathrm { g }$ 、水 $1 0 0 ~ \\mathrm { m L }$ 、乳化器乳化 $3 0 \\mathrm { m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$10 \\%$ 卵磷脂配制：卵磷脂 $1 0 \\mathrm { { g } }$ 、水 $1 0 0 ~ \\mathrm { m L }$ 、乳化器乳化 $3 0 \\mathrm { m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柠檬酸-磷酸氢二钠缓冲液（ $\\mathrm { \\ p H } 3 . 0$ 、 $\\mathrm { p H } 4 . 0$ 、 $\\mathrm { p H } 5 . 0 \\dot { . }$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PB 缓冲液（ $\\mathrm { p H } 6 . 0$ 、pH 7.0、 $\\mathrm { p H } 8 . 0 \\dot { . }$ ）甘氨酸-氢氧化钠缓冲液（ $\\mathrm { p H } 9 . 0$ 、pH10.0)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1DNA 制备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按常规方法将工程菌BP28（携带目的质粒 $p E T 2 8 a$ ）接种到含 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 卡那霉素的LB 液体培养基中，过夜培养 $1 2 { \\cdot } 1 6 \\mathrm { h }$ ，按照质粒提取试剂盒步骤制备质粒样品。紫外可见光分光光度计测定其浓度及纯度，质粒DNA 浓度 $( \\mathrm { \\ u g / m L ) = O D } _ { 2 6 0 \\mathrm { n m } } { \\times } 5 0 { \\times } 3 0 ( \\$ 稀释率)[17]。 $2 \\mu \\mathrm { L }$ 质粒样品与 $1 ~ \\mu \\mathrm { L }$ 上样缓冲液混合， $1 \\%$ 琼脂糖凝胶电泳检测，凝胶成像仪拍照。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2ARTP诱变 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将质粒样品稀释到 ${ 5 0 } \\mathrm { u g / m L }$ ，取18个已灭菌的PCR 管盖，在每个PCR 管盖上滴加稀释好的质粒样品 $2 0 { \\mu \\mathrm { L } }$ ，将其放入ARTP诱变仪中诱变0S、30S、60S、90S、120S、150S，每组设3个平行，诱变参数为 $4 0 0 \\mathrm { W }$ ， $1 0 ~ \\mathrm { s l p m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3质粒结构检测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取诱变后的质粒 $1 0 ~ \\mu \\mathrm { L }$ 与 $2 \\mu \\mathrm { L }$ 上样缓冲液混合， $1 \\%$ 琼脂糖凝胶电泳检测，凝胶成像仪拍照观察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4BL21感受态制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将过夜活化的 BL21 菌液以 $2 \\%$ 比例接种于 $1 0 0 ~ \\mathrm { { m L } }$ LB 液体培养基中, $3 7 \\ \\mathrm { ^ { \\circ } C } \\cdot 2 0 0 \\ \\mathrm { r / m i n }$ 震荡培养至 $\\mathrm { O D } _ { 6 0 0 \\mathrm { n m } } { = } 0 . 5$ 左右；冰浴 $1 0 \\mathrm { m i n }$ ， $4 1 0 0 \\mathrm { r p m }$ 离心 $1 0 \\mathrm { m i n }$ ，弃上清；加入 $3 0 ~ \\mathrm { m L }$ 预冷的 $0 . 0 5 ~ \\mathrm { m o l / L } ~ \\mathrm { C a C l } _ { 2 }$ 重悬细胞，冰浴 $1 0 \\mathrm { m i n }$ ， $4 1 0 0 \\mathrm { r p m }$ 离心 $1 0 \\mathrm { m i n }$ ，弃上清；最后全部菌液用 $4 ~ \\mathrm { m L }$ C $\\mathrm { 0 . 1 \\ m o l / L \\ C a C l _ { 2 } { : } 3 0 \\ \\% }$ 甘油 $= 1 { : } 1$ ）重悬后分装至Dof管中，每支Dof管200μL，-70 度保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5转化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取制备好的感受态细胞，冰上解冻后加入 ${ 5 \\mu \\mathrm { L } }$ 诱变后的质粒，温和混匀后冰浴 $3 0 \\mathrm { m i n }$ $4 2 ^ { \\circ } \\mathrm { C }$ 热激90 S，立即冰浴 $1 5 \\mathrm { m i n }$ ，加入 ${ 8 0 0 \\mu \\mathrm { L } }$ LB 液体培养基 $3 7 \\ { } ^ { \\circ } \\mathrm { C } \\cdot 1 5 0 \\ \\mathrm { r p m }$ 恢复培养 $^ { \\textrm { 1 h } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "离心 $3 0 \\mathrm { s }$ ，弃上清液 $9 0 0 ~ \\mu \\mathrm { L }$ ，剩余上清液与沉淀混匀后涂布于含 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 卡那霉素的PLB平板中。 $3 7 ^ { \\circ } \\mathrm { C }$ 培养 $4 8 \\mathrm { h }$ ，计算转化率及突变率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相对转化率 $\\overset { \\cdot } { \\underset { \\cdot } { = } }$ （实验组菌落数/对照组菌落数） $\\times 1 0 0 \\%$ 突变率 $\\overset { \\cdot } { = }$ （突变数/总菌落数） $\\times 1 0 0 \\%$ 正突变率 $. =$ （诱变菌株的圈径比大于出发菌株的圈径比的个数/总菌落数） $\\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6最优诱变时间验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对分析出的最优诱变时间进行重复实验，挑取圈径比较高的菌株，活化后按 $1 \\%$ 接种量接入自诱导培养基中， $3 7 \\mathrm { ~ \\textdegree ~ }$ 、 $2 0 0 \\mathrm { r p m }$ 培养 $6 \\mathrm { { h } }$ ，测定其酶活。选取酶活最高的菌株与原始菌株磷脂酶A1基因测序比对、分析。磷脂酶A1酶活测定方法参照国标GBT23535-2009，酶活定义为： $\\mathrm { 1 g }$ 固体酶粉（或 $\\mathrm { 1 m L }$ 液体酶），在一定温度和 $\\mathsf { p H }$ 条件下， $1 \\mathrm { m i n }$ 水解底物产生 $1 \\mu \\mathrm { m o l }$ 的可滴定的脂肪酸，即为1个酶活单位， $\\mathrm { \\Delta U / g }$ 或 $\\mathrm { U } / \\mathrm { m L }$ 。酶活测定方法：.取A（对照组）、B（实验组）、C（实验组）3个 $1 0 0 ~ \\mathrm { m L }$ 烧杯，分别加入 $4 \\%$ 大豆卵磷脂和 $5 \\mathrm { m L p H 6 . 0 \\mathrm { P B } }$ 缓冲液，混匀， $4 0 ^ { \\circ } \\mathrm { C }$ 预热 $5 \\mathrm { m i n }$ ；向对照组中加入 $1 5 ~ \\mathrm { m L }$ 乙醇，混匀；向每组中加入 $1 \\mathrm { m L }$ 粗酶液， $4 0 ^ { \\circ } \\mathrm { C }$ 反应 $1 5 \\mathrm { m i n }$ ；向实验组加入 $1 5 ~ \\mathrm { m L }$ 乙醇混匀终止反应。 $0 . 0 5 \\mathrm { M N a O H }$ 滴定反应液至 $\\mathsf { p H } { = } 1 0 . 3$ ，记录所用NaOH体积，代入公式计算酶活。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酶活计算公式为： $\\mathrm { X } { = } ( \\mathrm { V } { - } \\mathrm { V } 0 ) { ^ { * } } \\mathrm { C } { ^ { * } } 5 0 { ^ { * } } \\mathrm { n } / ( 0 . 0 5 ^ { * } \\mathrm { t } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：X一样品的酶活力， $\\mathrm { U } / \\mathrm { m L }$ ; $\\mathrm { \\Delta V }$ 一滴定样品时消耗的NaOH标准溶液体积，mL;V0一滴定空白时消耗的NaOH标准溶液体积，mL；c一NaOH标准溶液的浓度，mol/L；50-0.05mol/LNaOH标准溶液 $1 . 0 0 \\mathrm { m L }$ 相当于脂肪酸 $5 0 \\mathrm { \\textmu m o l }$ ; $\\mathfrak { n }$ 一酶液样品的稀释倍数；t一测定酶活时的反应时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7磷脂酶A1野生酶与突变酶酶学性质比对",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在磷脂酶A1酶活测定的标准方法（GBT23535-2009）上，分别设定pH及温度梯度，测定酶活，将其转化为相对酶活力，对比其最适的pH及温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.8磷脂酶A1野生酶与突变酶蛋白结构比对",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用蛋白结构在线预测软件 Phyre2(http://www.sbg.bio.ic.ac.uk/phyre2 /html/page,cgi?id$\\ c =$ index)对高酶活菌株12及对照菌株CK磷脂酶 A1基因序列进行蛋白空间结构预测、比对。其空间结构预测模版为与其相似度 $9 9 . 7 \\%$ 的脂肪酶d3tgla",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果和讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 ARTP对质粒损伤效应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "质粒在受到外力作用下，其结构会发生改变甚至损伤。先前研究表明，质粒在受到激光作用下，低剂量时超螺旋结构解开形成开环结构，高剂量时单链或双链断裂形成线性结构，Li等[19]利用ARTP 对质粒pP-GFP诱变效应进行了研究，探究了不同诱变时间、诱变剂量、诱变功率及诱变距离对质粒结构的影响，通过琼脂糖凝胶电泳检测发现，在诱变强度较低的情况下，质粒超螺旋与开环结构条带变淡，线性结构条带变亮，随着诱变强度的增加，质粒超螺旋、开环及线性结构条带均变淡直至消失。由于质粒三种构象利用琼脂糖凝胶电泳就可观察，因此，诱变后的质粒可通过凝胶电泳反映其损伤程度。取诱变后的质粒 $1 0 ~ \\mu \\mathrm { L }$ 与 $2 \\mu \\mathrm { L }$ 上样缓冲液混合， $1 \\%$ 琼脂糖， $1 2 0 \\mathrm { V }$ 恒压 $3 0 \\mathrm { m i n }$ 。其结果如图1。由图可知，诱变时间越长，超螺旋结构越少，到120S时几乎不可见，诱变30S后开环结构条带也逐渐变淡，随着诱变时间的延长，其线性结构条带越亮。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/24efd1c66754ec350951a5c902f8763e7564496be2d558964396ffde9ced5da3.jpg",
+        "img_caption": [
+            "图1诱变质粒结构检测",
+            "Fig.1Mutation plasmid structure detection "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M 为DL10000 DNAMark泳道1-6诱变时间分别为0、30、60、90、120、150 SMis DL10000 DNAMark Lane 1-6 Mutation time is 0,30,60,90,120,150 S",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "质粒构象发生改变时，其转化活性也会受到影响，而且线性质粒在转化到宿主菌中后无法正常复制而使得宿主菌无法生长。因此，结合转化率可进一步揭示ARTP对离体质粒的损伤效应。将转化后菌株涂布到PLB平板中（图2）， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养 $4 8 \\mathrm { { h } }$ 后计算转化率（表1）。从表1可知，诱变时间与转化率成反比，说明质粒受损伤程度增加，结合图2分析可知，质粒超螺旋结构在0-90 S内逐渐转变为线性结构，开环结构在30S后逐渐转变为线性结构，150S时，转化率极低，可见质粒大部分断裂为线性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b6b49a64b755e7c2b8953faa24b59a87a4baa486959177b2d8d84e96419107e.jpg",
+        "img_caption": [
+            "图2转化子PLB平板生长情况Fig.2Growth of the Transformants on PLB plate注：(a)-(f)诱变时间分别为0、30、60、90、120、150 SNote:(a)-(f) Mutation time is 0,30,60,90,120,150 S"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cea3bc9d2aaff670740ee78d2ddfeb6c5ab310a95806302ca6b91ade3793deb.jpg",
+        "table_caption": [
+            "表1ARTP诱变质粒的相对转化率",
+            "Table 1The effect of relative conversion rate by ARTP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间/S</td><td>菌落数</td><td>相对转化率（%)</td></tr><tr><td>0</td><td>693±49</td><td>100±7.1</td></tr><tr><td>30</td><td>429±22</td><td>61.9±3.2</td></tr><tr><td>60</td><td>174±16</td><td>25.1±2.3</td></tr><tr><td>90</td><td>62±9</td><td>8.9±1.3</td></tr><tr><td>120</td><td>34±4</td><td>4.9±0.6</td></tr><tr><td>150</td><td>9±1</td><td>1.3±0.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2ARTP 对靶基因磷脂酶A1诱变效应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将转化后菌株涂布到PLB平板中，菌株分泌磷脂酶降解底物卵磷脂产生透明圈(图2)，利用圈径比判断磷脂酶A1基因是否发生突变并计算各诱变时间突变率（图3）。分析图3可知，0-90S突变率和正突变率成线性增长，90S后变化较小，趋于稳定。结合转化率数据，0-90 S转化率变化较大，下降较快。综合3组数据分析，在保证转化率不在较低水平，正突变率较高且利于后期正突变菌株的筛选，最佳诱变时间为 $6 0 \\mathrm { S }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5aa5f16512092bb60dab77c77a57f14c094b7545ba4ab04e1e0a285c6ad3d4d.jpg",
+        "img_caption": [
+            "图3ARTP诱变时间对突变率影响",
+            "Fig.3The effect of mutation rate by the ARTP mutation time "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3磷脂酶A1高酶活菌株筛选及其酶学性质分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以60S作为最佳诱变时间，重复诱变实验，挑选圈径比较高的转化子测定其酶活，结果如表2所示。在选择的17株圈径比较大的突变菌株中,12号菌株的磷脂酶A1酶活较高，达 $1 2 . 8 \\ \\mathrm { U / m L }$ ，较出发菌株提高2.67倍。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/25a2d460344715813fbf475566dbbecd48c5d924dac1d867be52195d82fc8dba.jpg",
+        "table_caption": [
+            "表2PLA1酶活测定",
+            "Table 2 Activity Determination of PLA1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株</td><td>酶活（U/mL)</td><td>菌株</td><td>酶活 (U/mL)</td><td>菌株</td><td>酶活(U/mL)</td></tr><tr><td>CK</td><td>4.8±0.2</td><td>6</td><td>6.4±0.1</td><td>12</td><td>12.8±0.1</td></tr><tr><td>1</td><td>10.8±0.2</td><td>7</td><td>9.6±0.4</td><td>13</td><td>9.6±0.2</td></tr><tr><td>2</td><td>11.4±0.1</td><td>8</td><td>5.0±0.2</td><td>14</td><td>9.2±0.4</td></tr><tr><td>3</td><td>10.8±0.2</td><td>9</td><td>6.0±0.1</td><td>15</td><td>6.0±0.4</td></tr><tr><td>4</td><td>11.6±0.1</td><td>10</td><td>4.8±0.1</td><td>16</td><td>10.8±0.2</td></tr><tr><td>5</td><td>10.0±0.4</td><td>11</td><td>10.2±0.4</td><td>17</td><td>11.0±0.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在获得一株酶活较高突变菌株的基础上，本文分别从酶催化pH和温度二个方面对酶的催化特性进行分析。首先，对酶反应的最适pH进行了测定，结果如图4所示。出发菌株的酶最适pH在5-7 范围内，在 $\\mathrm { p H } 6 . 0$ 条件下酶活最高，而突变菌株酶催化最适pH在5.0，相对于出发菌株有一定酸性偏移。接着，对酶的最适反应温度进行了测定，突变菌株与出发菌株结果一致，均在 $4 5 \\ \\mathrm { ~ \\textdegree C }$ 条件下达到最大酶活（图5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/216d1d51d5a3cbcbca35bcd8c3073870ed87ffd7f4950c900e9a69975de237e2.jpg",
+        "img_caption": [
+            "图4不同 $\\mathsf { p H }$ 下CK与12的相对酶活"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5302ae7a26977d403587e772c0c06cfa22729f4fab6e2e318e74c9b26e5d6517.jpg",
+        "img_caption": [
+            "Fig. 4 Relative activity ofCK and12 under different pH ",
+            "图5不同温度下CK与12的相对酶活",
+            "Fig.5Relative activity of CK and 12 at different temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4磷脂酶A1及其辅助蛋白的序列结构比对分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在对突变菌株酶催化特性分析基础上，我们对其酶的蛋白序列结构进行分析。磷脂酶A1编码基因涉及两个部分重叠的开放式阅读框，即plaA 和plaS，分别编码磷脂酶A1蛋白 PlaA及其辅助蛋白PlaS。首先，通过对突变菌株12 和原始菌株CK中磷脂酶A1合成相关基因的测序比对发现，相比原始序列，碱基突变率为 $0 . 7 4 \\%$ ，碱基及蛋白突变见表3。对表3数据分析可知，突变碱基大都集中在A与C，突变后碱基大都集中在T与G，且突变结果大都为 $\\mathrm { \\bf A } {  } \\mathrm { \\bf G }$ 和 $\\mathbf { C } {  } \\mathrm { T }$ ，可能揭示着ARTP作用下A与C突变概率更大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3菌株12相对于菌株CK碱基及氨基酸突变结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3 Strain 12 relative to the strain CKof the base and amino acid mutation results ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/947104df6e66d521e67f05b867fdfe6a4a5202b20597a10106590c976dbd59d5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位点</td><td>碱基</td><td>蛋白</td><td>位点</td><td>碱基</td><td>蛋白</td></tr><tr><td>290</td><td>A→G</td><td>Y→C</td><td>292</td><td>C→T</td><td>P→S</td></tr><tr><td>641</td><td>C→T</td><td>T→I</td><td>696</td><td>C→G</td><td>P→P</td></tr><tr><td>1092</td><td>C→T</td><td>P→P</td><td>1128</td><td>A→T</td><td>A→A</td></tr><tr><td>1361</td><td>A→G</td><td>E→G</td><td>1463</td><td>G→A</td><td>R→H</td></tr><tr><td>1606</td><td>A→G</td><td>T→A</td><td>1653</td><td>A→G</td><td>P→P</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在分析氨基酸突变的基础上，我们对氨基酸序列的疏水性进行分析，结果如图6,7所示。由图可知，在突变菌株中，蛋白的疏水性发生改变，主要表现在，磷脂酶A1蛋白中，94-100 位氨基酸区域由亲水到疏水的变化，在211-215 氨基酸区域表现氨基酸疏水性增强。磷脂酶辅助蛋白中，则表现出43-50 位氨基酸区域和167-172氨基酸区域疏水性降低，以及 55-60 位氨基酸疏水性增强的趋势。氨基酸疏水性的变化，一方面对蛋白的跨膜产生影响，另一方面，对酶与底物的结合具有一定的作用。在本研究中，磷脂酶是一类脂肪酶，其作用底物主要为油脂类化合物，那么磷脂酶蛋白结构中，氨基酸疏水性的增强，可能对酶与底物的结合性产生影响，从而表现出酶活增加的特性。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bbcfad9e385e6fde69f4172b4e2db0b78d1cf7cfd980bdb1912af1c90140c8e.jpg",
+        "img_caption": [
+            "图6磷脂酶A1蛋白疏水性对比分析",
+            "Fig.6The hydrophobicity analysis of phospholipase A1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/27c45e86b92c40c807ec4ceafe6d55cfc00fcf05ec84491697c323a08a15eefd.jpg",
+        "img_caption": [
+            "图7辅助蛋白疏水性分析"
+        ],
+        "img_footnote": [
+            "Fig.7The hydrophobicity analysis of accessory protein "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在对蛋白质疏水性分析基础上，我们对出发菌株和突变菌株的磷脂酶A1蛋白结构进行模拟预测和分析，结果如图8所示。突变酶与野生酶相比，其 $\\mathbf { a }$ 螺旋由 $43 \\%$ 减少为 $42 \\%$ β链由 $9 \\%$ 增加为 $11 \\%$ 。参照与其同源的脂肪酶分析，脂肪酶活性中心保守序列为Gly-X1-Ser-X2-Gly，而在磷脂酶 A1第193-197位同样存在该保守序列，推测磷脂酶 A1与脂肪酶有着相似的催化机理，其活性中心被多个α螺旋包裹，此时处于无活性构象，当酶与底物接触时， $\\mathfrak { a }$ 螺旋被打开，暴露活性位点，促进酶与底物结合。图8(a)中97、98、228 位氨基酸的突变导致了其α螺旋的缺失(图8(b))，促进了底物与活性位点的结合。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4d5bcc02bbb5534132e67e91920e5b782e31b48847e91199b983ed5298fe160.jpg",
+        "img_caption": [
+            "图8PLA1蛋白质空间结构",
+            "Fig.8The spatial structure of PLA1 Protein "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（a）野生酶空间结构（b）突变酶空间结构(a) spatial structure of wild enzyme (b) spatial structure of mutant enzyme",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，ARTP在基因工程诱变育种领域应用极其广泛。相比于其它诱变方法，ARTP展示出了更多优势，如何建华等[20]运用ARTP诱变筛选出了3株生长速度提高了 $1 7 \\% 5 7 \\%$ 的草菇优良菌，并运用RAPD技术扩增出了16个差异条带，证明了ARTP对核酸序列突变的多样性。Dong 等[21]利用 ARTP对方雷伯菌进行诱变，获得了1株高产1,3丙二醇的突变株，测定1,3丙二醇合成过程中关键酶：甘油脱氢酶、甘油脱水酶及1,3丙二醇氧化还原酶酶活力发现，各酶活力均有显著提升。 $\\mathrm { L u } ^ { [ 2 2 ] }$ 等对产气肠杆菌进行ARTP诱变，获得了每摩尔葡萄糖的氢气产量提高了 $2 . 6 4 \\%$ 的菌株，并对氢气合成途径分析发现，乳酸、乙醇、乙酸、琥珀酸产量上调，2,3-丁二醇产量下调，对其进一步研究发现，氢气产量的提高主要因为NADH氢气通量的提高。表明ARTP 能够引起遗传物质和代谢途径的变化。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究以离体质粒为研究对象，ARTP为技术手段，揭示了ARTP对离体质粒损伤及诱变效应。在较短处理时间范围内，质粒损伤表现为，随着处理时间的的延长，碱基间发生断裂，超螺旋与开环结构转变为线性结构。伴随着质粒损伤程度的增加，其转化活性和突变频率也相应的降低和增高。其中，0-90 S范围内成线性变化，之后变化较为平稳，可见，90S范围内ARTP对质粒诱变损伤较大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以磷脂酶A1基因作为靶标基因，酶活变化为参考依据，对酶活差异较大菌株磷脂酶A1基因测序比对发现了一个可能的结果，ARTP对质粒上碱基A、C诱变效果更为显著，其确切的结论还需进一步研究。对最佳诱变时间进行回复验证，筛选到了一株较原始菌株提升了 $167 \\%$ 的高酶活菌株，ARTP可以作为一种高效的诱变手段来提升菌种性能。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTP 诱变离体质粒获得高产菌株，为ARTP在诱变育种领域提供了一个新的诱变思路，也为后续更精准的诱变对象PCR产物的诱变提供了参考依据。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhang X, Zhang X F,Li H P, et al. Atmospheric and room temperature plasma (ARTP) as a new powerful mutagenesis tool[J]. Applied microbiology and biotechnology, 2014, 98(12): 5387-5396.   \n[2] Wang LY,Huang Z L,Li G, et al. Novel mutation breeding method for Streptomyces avermitilis using an atmospheric pressure glow discharge plasma[J]. Journal of applied microbiology,2010,108(3): 851-858. [3] Li H P,Wang Z B,Ge N,et al. Studies on the physical characteristics of the radio-frequency atmospheric-pressure glow discharge plasmas for the genome mutation of Methylosinus trichosporium[J]. IEEE Transactions on Plasma Science, 2012,40(11): 2853-2860.   \n[4] Zhang X, Zhang C, Zhou Q Q,et al. Quantitative evaluation of DNA damage and mutation rate by atmospheric and room-temperature plasma (ARTP) and conventional mutagenesis[J]. Applied microbiology and biotechnology,2015, 99(13): 5639-5646.   \n[5] Wang L Y, Li G, Zhao H X, et al. A new method for microbial breeding by atmospheric-pressure, non-equilibrium discharge plasma[J]. Journal of Biotechnology,2008,136(4): S295-S296. [6] Wang X, Lu M, Wang S, et al. The atmospheric and room temperature plasma (ARTP) method on the dextranase activity and structure[J]. International Journal of Biological Macro molecuLes, 2014,70(8): 284-291.   \n[7] Fang M, Jin L, Zhang C, et al. Rapid mutation of Spirulina platensis by a new mutagenesis system of atmospheric and room temperature plasmas (ARTP） and generation of a mutant library with diverse phenotypes[J].PLoS One,2013,8(10): e77046.   \n[8] 苏燕南,薛正莲等.粘质沙雷氏菌PL-06 磷脂酶 A1 基因大肠杆菌优化表达[J].中国生物工程杂 志.2013,33(7): 36-42.   \nSu Y N, Xue ZHL,et al.The Optimized Phospholipase A1 Gene Expression of Serratia marcescens PL-06 in E.coli[J].China Biotechnology.2013,33(7): 36-42.   \n[9] Meddy El Alaoui, Laurent Soul ere,et al.A continuous spectrophotometric assay that distinguishes between phospholipase A1 and A2 activities[J].Journal of Lipid Research.2016,57 (10)1589-1597.   \n[10] RanjanMoharana T. Selective Enrichment of Omega-3 Fatty Acids in Oils by Phospholipase A1[J].PLoS One.2016;11(3).   \n[11] Bakholdina SI， Tischenko NM,et al.Recombinant Phospholipase Al of the Outer Membrane of Psychrotrophic Yersinia pseudotubercuLosis: Expression, Purification,and Characterization[J].Biochemistry. 2016,07;81(1):47-57.   \n[12] 吴桂梅．柱式法和磁珠法提取大肠杆菌中质粒[J].生物技术世界.2015(11):26-27   \nWu G M.Pillar method and magnetic beads method to extract plasmid from E.coli[J].Biotech World, 2015(11):26-27   \n[13]刘成君,黄庆,赵莲．大肠杆菌-枯草杆菌穿梭质粒载体 pSUGV4 的构建[J]．四川大学学报(自然科学 版),2001,02:243-246.   \nLiu C J,Huang Q,Zhao L.Construction of a Escherichia Coli-Bacillus subtilis shuttle vector pSUGV4[J]. Journal of Sichuan University (Natural Science Edition).2001,02:243-246.   \n[14] 谢晖.紫外照射对大肠埃希氏菌质粒DNA 影响的研究[J].青海民族大学学报:教育科学版,2010, 30(5): 48-51.   \nXie H.The Influence on Escherichia coli Plasmid DNA Which caused by SOS Repaired System Combined with MLtraviolet Irradiation Mutation[J].Journal of Qinghai Junior Teachers Collge.2010,30(5): 48-51. [15]李莉,杨剑波,等.离子束辐照对 pUC18 质粒 DNA 结构和功能影响的初步研究[J].安徽农业科 学,1994,04:300-304.   \nLi L,Yang JH, Li J, et al.Research on damage of Ion Beam Irradiated pUC18 Plasmid DNA[J].Journal of AnHui Agricultural Sciences.1994,04:300-304.   \n[16] 陈璇,刘松,冯岳,等．常压室温等离子诱变选育L-天冬酰胺酶高产重组菌[J]．食品与生物技术学 报,2016,05:485-491.   \nChen X, Liu S，Feng Y，et al.Screening of High L-Asparaginase Activity Mutants of Recombinant Bacteria[J].JOURNAL OF FOOD SCIENCE AND BIOTECHNOLOGY.2016,05:485-491.   \n[17]周国雁,郭凤根,等.一种经济高效的用 Silica 提取纯化质粒 DNA 的方法[J].生物技术通讯,2007, 18(5): 800-802.   \nZhou G Y, Guo F G,et al.A Rapid and High Efficiency Method for Plasmid DNA Extraction and Purification Using Silica[J].LETTERS IN BIOTECHNOLOGY.2007,18(5): 800-802.   \n[18] Li X, Jin H, Wu Z, et al. An automated process to extract plasmid DNA by alkaline lysis[J]. Applied microbiology and biotechnology, 2007, 75(5): 1217-1223.   \n[19] Li G,Li H P, Wang LY,etal. Genetic effects of radio frequency,atmospheric-pressure glow discharges with helium[J]. Applied Physics Letters, 2008, 92(22): 221504-221504-3. [20] 何建华，蒋玮，吕贝贝，等.ARTP 诱变筛选草菇优良菌株及 RAPD 分析[J]．核农学报,2014, 28(11): 1950-1955.   \n[21] Dong X Y, Xiu ZL,HouY M, et al. Enhanced production of1,3-propanediol in Klebsiela pneumoniae induced by dielectric barier discharge plasma in atmospheric air[J]. IEEE Transactions on Plasma Science, 2009,37(6): 920-926.   \n[22] Lu Y, Wang L,Ma K,et al. Characteristics of hydrogen production of an Enterobacter aerogenes mutant generated by a new atmospheric and room temperature plasma (ARTP)[J]. Biochemical Engineering Journal, 2011, 55(1): 17-22. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

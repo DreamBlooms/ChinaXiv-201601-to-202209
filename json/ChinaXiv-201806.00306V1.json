@@ -1,0 +1,190 @@
+[
+    {
+        "type": "text",
+        "text": "3D打印技术在植物繁殖生态学中的应用进展与评述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王力平1,2，王林林²，和兆荣1，杨永平²，段元文2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．云南大学 生命科学学院，云南 昆明650500；2.中国科学院昆明植物研究所，云南 昆明650201）摘要：3D打印（3DPrinting）是以数字化模型为基础，运用粉末状金属或塑料等可粘合材料，通过逐层打印的方式构造物体的一项技术。由于3D打印具有灵活和精密的特点，这一技术已经在军工、航天等制造行业中发挥了重要作用。鉴于3D打印的独特优势，该技术也可以在植物繁殖生态学研究中发挥作用而且具有广阔的应用前景，但目前还处于探索阶段。该文概述了3D打印技术以及植物繁殖生态学的花特征进化研究，同时总结了3D打印技术在植物繁殖生态学领域的最新研究进展，并探讨将来可能的发展方向。关键词：3D打印技术，植物繁殖生态学，花特征进化，视觉信号，嗅觉信号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of 3D printing technology in plant reproductive ecology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Li-Ping1,2, WANG Lin-Lin², HE Zhao-Rong1, YANG Yong-Ping²,DUAN Yuan-Wen2\\* (1.SchoolofLife Sciences,Yunnan University, Kunming 6505oo,Yunnan,China; 2.Kunming InstituteofBotany, Chinese Academy of Sciences,Kunming 650201,Yunnan,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Three-dimensional printing (3D Printing) is a technique to manufacture objectives layer by layer with the powder metal or plastic adhesive materials based on the digital model.Due to its flexibilityand accuracy,3D printing has played an important role in military,aerospace and other manufacturing industries.Because of the unique advantagesof 3D printing,the application of three-dimensional printing technologyin plant reproductive ecology is promising，but is stillin an initial stage.This paper summarizes the development of 3D printing technology and floral traits evolution in plant reproductive ecology,and reviews the latest applications of 3D printing technology in researches of plant productive ecology.We also discuss the potential application and direction in the future researches of plant reproductive ecology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: three-dimensional printing technology,plant reproductive ecology,floral traits evolution,visual signals,olfactory signals ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3D 打印（3DPrinting）又被称为增材制造（Additive Manufacturing，AM)，属于快速成型（Rapid Prototyping Manufacturing，RPM）技术的一种。2009 年，美国材料与试验协会（American Society for Testing and Materials，ASTM）成立了3D 打印技术委员会（F42委员会）并定义了3D打印技术。定义指出，3D打印是一种与传统的材料加工方法截然相反的技术，它基于三维CAD模型数据，通过增加材料逐层制造，直接建立与相应数学模型完全一致的三维物理实体模型（Peltola et al，2008；Rengier et al，2010；Gebler etal，2014）。由于它在制造工艺上的创新，3D打印被认为是\"第三次工业革命的重要生产工具”。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着3D打印的日渐成熟，其应用从传统的模具制造领域不断扩展到设计、建筑、医疗以及本文关注的植物繁殖生态学领域（Campos etal，2015；Policha etal，2016)。目前 3D打印技术在植物繁殖生态学领域的研究还处于起步阶段，主要是在花特征进化的研究领域。3D 打印的花一方面使花进化的研究摆脱了比较难以控制的外界环境的影响，另一方面，3D打印的材料可以根据研究目的自主选择，并且仿真度高，可以满足个性化的研究方案。本文主要关注3D打印技术在植物繁殖生态学领域的最新研究进展以及将来可能的发展趋势，以期为植物繁殖生态学研究提供一个新视角。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．3D打印技术概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3D 打印技术被认为是第三次工业革命或制造业的新突破点，这一技术的起源可追溯至20 世纪 80 年代初期（Kruth，1991；Huang etal，2013）。1984 年，美国人Charles Hull以数字数据为基础研究出了立体平板印刷技术，用于3D物体的打印，并在1986年发明了世界上第一台商业3D印刷机，但3D打印的商业化、市场化进程相对比较缓慢。进入21世纪后，随着科学技术的不断发展与进步，3D打印在技术、造价，和应用领域等方面都得到了迅猛发展。在打印技术方面，目前主流打印机的打印精度能够在 $0 . 0 1 \\mathrm { m m }$ 的单层厚度上实现600dpi的分辨率，较先进产品的垂直打印速率可达到每小时1英寸以上，并可实现24位色彩的彩色打印。3D打印的原材料取样十分广泛，常见的如石料、金属等，有的还包括高分子材料和食品原料。目前可用于打印的材料约为14类，可搭配出一百多种。在造价方面，3D打印机的售价也在迅速降低，Printbot公司推出的入门级3D打印机PrintrbotPlay售价仅为 399美元，全球3D打印机销量第一的MakerBot公司，高端打印机Replicator 2X的售价也降至2499美元，同时，针对大多数3D打印设备只能打印单色模型的问题，日本Mimaki公司的全彩3D打印机3DUJ-553UVLED能产生1000万种颜色，价格可能超过20万美元。在应用领域方面，3D打印技术早期主要用于机械、建筑等行业的模型制作，随着进一步的成熟，3D 打印已开始用来制造汽车、飞机等高科技含量产品的零部件，以及血管、肌肉等组织结构（Chia&Wu，2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，科学家通过软件预先设计打印目标，并利用3D打印技术对不同特性的材料进行挤压、激光或高温等物理条件的控制，以此打印成型用于相关领域的科学研究。其中，植物学家尝试将其用于植物繁殖生态学中花部特征的进化研究，通过打印出各式各样的花部结构来代替植物原结构进行相关实验（Campos etal，2015；Policha etal，2016）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．植物繁殖生态学中的花特征进化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花部特征的进化是被子植物进化的最显著特性之一。普遍认为，在花部性状的进化过程中，传粉者介导的选择扮演了重要的作用。达尔文曾经以花的结构与功能为例详细地阐述并支持了他的自然选择理论。直至今日，花部特征进化的研究依然是进化生物学中备受关注的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "领域之一（Armbruster，2001；Martin，2004；Sun et al，2014；Kuriya et al，2015)。本文将主要从视觉信号、嗅觉信号和报酬三方面对花特征的进化进行具体阐述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1视觉信号",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉信号作为吸引昆虫的重要特征之一，主要可分为单花的构造（如对称性、花色等)和花序构造（如花在花序上的排列方式）等两方面内容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "花对称性（floral symmetry）是被子植物花部构造的重要特性之一，主要分为辐射对称和两侧对称两种形式。化石研究的结果表明，距被子植物出现五千万年后，花开始由原始的辐射对称向两侧对称进化，这正与特化的传粉昆虫多样性的时期相吻合（Crane etal，1995;Doyle&Endress，2000；Endress&Doyle，2009)。已有的研究表明，与辐射对称的花相比，两侧对称的花增强了与特异性传粉者的相互作用，进而增加了花粉落置的精确性并确保了繁殖成功（Gong&Huang，2009）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "花色是吸引传粉者的显著视觉信号之一，指示传粉者取食和传粉。例如，Sobral等（2015）发现分布在伊比利亚半岛上的12个Gentiana lutea种群间花色存在差异，经研究表明种群之间花色的变化与所在地区的传粉者群落不同有关，是对当地环境适应的结果。由于传粉者对花色的偏爱不同，从而导致了花色的进化。据统计，植物花色变化现象至少存在于78个科中（Ruxton& Schaefer，2006）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "花总是依据一定的规律排列在花序上，形成一定的空间结构。传粉者天生的喜好对被子植物的花序结构进化可能有重要的影响。为了排除自然条件下可能的干扰，研究花的排列方式对传粉昆虫行为的影响，Jordan 和Harder（2006）用人造花来模拟总状花序、伞形花序和圆锥花序，发现熊蜂在不同的花序结构上访花数目存在差异，其中总状花序上访花最少，圆锥花序上访花最多，这会对整个植株的花粉接受、花粉输出及自交传粉的概率产生截然不同的影响。Liao 和Harder（2014）同样以人造花模拟了单个大花序和多个小花序对熊蜂的影响，指出虽然熊蜂在单个花序上的运动趋势是向上的，但在花序间熊蜂则表现出了向下的运动趋势。这一结果对解释总状花序植物选择多个小花序还是少量大花序来适应不同的传粉者具有非常重要的意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2嗅觉信号",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "花的气味是植物吸引昆虫授粉的另一个重要信号，可以帮助传粉者定位花资源，如花蜜、花粉等在花结构中的位置。对于不同类群的传粉昆虫，植物散发的气味成分也存在差异。例如，马鞭草科的Lantana camaraL.通常为蝶类传粉，花气味组成主要为苯乙醛和苯乙醇等（Andersson etal，2002)；柳叶菜科的Clarkiabreweri为蛾类传粉，花气味组成主要为单萜和芳樟醇等（Dudareva etal，1996)。除此之外，也有植物的花模拟霉菌或邻近植物的气味来吸引传粉者，但不提供相应的报酬，例如，兰科植物毛瓣杓兰（Cypripedium fargesii）的花发出类似腐败叶子的气味（主要由异戊醇和正己醇等组成)，诱骗传粉昆虫扁足蝇传粉（Ren etal，2011)。由此可见，植物可以根据传粉者的嗅觉偏好，产生不同的化学物质，从而挥发出特定的气味吸引传粉者完成授粉，进而确保繁殖成功。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3报酬 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "报酬（主要为花蜜）也是植物吸引传粉者不可或缺的因素。花蜜的主要成分为糖类和氨基酸等营养物质，同时也存在少量低浓度的酚类、生物碱、和其它次生代谢物。一般情况下，生物碱会招到蜂类的厌恶，影响传粉效率，不过这也与生物碱的剂量和植物所处的生态环境相关。Singaravelan 等人发现低浓度的可卡因和尼古丁会增加植物对传粉者的吸引，作为提高访花率的手段（Singaravelan etal，2005；Thomson etal，2015）。也有少数植物的花蜜中含有花青素，呈现一定的颜色。唇形科木本植物米团花（Leucosceptrum canum Smith）是自交亲和植物，有色花蜜中可分离出一种紫色的花青素，米团花通过花蜜的色彩和动态变化来吸引鸟类传粉者，在传粉者取食花蜜的过程中有效地提高了传粉效率（Zhang et al，2012)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3．3D打印技术在植物繁殖生态学中的应用进展与评述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统的传粉生态学研究一般以野外观察和实验为主，但由于野外实验受外界环境的影响较大（如下雨会冲刷花柱头上的花粉、强烈的风和较低的温度也会影响传粉昆虫的行为)，这大大影响了传粉研究的进程和数据的精确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "早期的植物繁殖生态学研究曾尝试利用自然花剪除或摘去花瓣等手段来观察花的大小、花对称性对传粉昆虫的影响（Totland，2004；Potts，2015)。但是，一旦花瓣被剪或被摘除，一方面植株本身可能会由于遭受损害而释放某些化学物质或肉眼难以识别的视觉变化，从而影响传粉者对花的选择作用；另一方面，人工剪切的破损边缘与花瓣的正常边缘存在差别，也可能会影响传粉者的判断（Totland，2004)。同时，在自然界中，由于传粉者对花的选择受许多因素控制，想要测定单独一个花性状的影响是很困难的，因此可以利用人造花探究与传粉者觅食行为相关的对称性、尺寸、颜色和气味等性状。3D打印的花具有可自由控制形状，仿真程度高等特点，可以自由组合不同的花展示和花结构，再加上人工控制花颜色以及花气味等方法，可以很好地满足花进化研究的需要，同时也比之前应用的纸花、树脂玻璃等人造花具有更好的可控性，具有极大的优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3D 打印的花可以依据实验的目的来控制花的视觉信号和嗅觉信号两个方面。在视觉信号方面，3D打印技术可以选用具有颜色的原材料，避免了颜料的气味对传粉者造成的干扰，有利于单一信号的调控。同时，我们也可以探究花瓣上不同的图案（如斑点、条纹等）对传粉者的影响，有研究表明，显著的斑点可以在一定范围内与背景形成对比，从而将传粉者引向花的繁殖器官（Johnson & Dafni，1998；van Kleunen et al，2007；de Jager et al，2017）。在嗅觉信号方面，可以用无味的原材料打印花的结构，然后通过GC-MS（气相色谱-质谱联用仪）分析植物花的气味组成，再通过在3D打印的花上添加不同的气味成分或者组合，最终根据传粉者对气味成分的反应和访问偏好确定花气味吸引传粉者的关键气味成分。将3D打印技术应用于植物繁殖生态学中，一方面可以帮助我们在室内模拟实验中更为准确的探究传粉者对不同花性状（如颜色、气味、形状等）的访问偏好。例如，Campos等（2015）利用 3D 打印技术控制花冠曲率（喇叭状和平碟状）和蜜腺孔的大小两个参数，制作不同形状和蜜腺孔的假花进行实验，验证觅食者访问是否存在偏好，结果发现天蛾（Manduca sexta)倾向于访问花冠曲率相对较大的花，而蜜腺孔大小的变化对于传粉者的觅食没有明显差异，证明花冠曲率是影响天蛾觅食的一个重要因素。这一研究对于如何使用3D打印的花开展传粉者与花性状的相互关系研究提供了一个良好的先例。另一方面，也可以与野外实验相结合，用于复杂花信号的分析。如兰科植物的拟态现象，Policha等（2016）以无味的医药级硅胶为原材料，打印了兰科植物（Dracula lafleurii）逼真的花结构——花萼和蘑菇状的唇瓣，并将他们分别与真实的花器官组合，设计了四组不同类型的花，以此分析不同的花结构在吸引传粉者方面所发挥的作用，即真正的花、真正的唇瓣和打印的萼片相嵌合的花、真正的萼片和打印的唇瓣相嵌合的花和完全打印的花。结果发现兰科植物（Dracula lafleurii）主要从视觉信号和嗅觉信号两方面共同作用拟态蘑菇来吸引传粉昆虫：视觉上唇瓣和艳丽的花萼起主要作用，嗅觉上唇瓣会散发类似蘑菇的气味吸引传粉者。将3D打印技术应用于野外实验不仅可以帮我们减少外界因素的干扰，也为以后的野外实验提供了新的思路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在应用过程中，不仅可以结合商业蜜蜂和熊蜂的使用，利用3D打印的花在严格控制实验条件的前提下检测传粉昆虫对花结构、颜色、气味和花展示等花部特征的访问偏好，进而能精确揭示传粉者对某些花特征的访问差异是基于天生偏好还是后天的学习能力，用于在物种水平上解析植物花性状的选择压力；而且可以聚焦于群落水平上的繁殖生态学，利用 3D打印技术的可操控性和便捷性，我们不仅可以模拟自然条件下的群落组成，也可以根据实验的目的人为操控群落内斑块的大小，构成和斑块间的距离等因素（Yang etal，2011)，探究植物与传粉者间、植物与植物间的相互关系，从群落水平上研究传粉者对花部特征的选择作用，为植物花部特征的演化提供更为切实的证据。同时，考虑到3D打印的花无法对植物的适合度做出解析，可以考虑采用构建数学模型的方式（Jordan＆Harder，2006；Muchhala etal，2010）来模拟花粉的命运。例如，Jordan 和Harder（2006）为了研究不同结构的人造花序上熊蜂的访花行为对花粉输出所造成的影响，假定传粉者携带的花粉落置到柱头上的概率都是相等的，构建数学模型 ${ \\bf D } _ { \\mathrm { i } } { = } \\mathrm { P R } \\mathrm { ~  ~ \\ p ~ } ( 1 { - } \\mathrm { ~  ~ \\ p ~ } ) ^ { \\mathrm { ~ \\scriptstyle { i - } ~ } }$ ，其中D是传粉者在访问完一朵花后花粉落置到随即拜访的第i朵花上的花粉数量，P是提供花粉的花所包含的花粉数量，R是传粉者访花时花粉输出的比例，p是传粉者访花时花粉落置到柱头上的比例。这类方法不仅适用于揭示花序的结构与传粉者行为之间的相互关系，也可以探究群落内共存植物间的花粉输出与落置情况，从雄性适合度层面探讨群落的构建、种间关系和植物花部特征的演化，这些都将极大地促进植物繁殖生态学从野外观察向室内验证的快速发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3D 打印技术在植物繁殖生态学中的应用才刚刚开始，虽然应用前景十分广阔，但仍存在一些不完善的地方。一方面，将3D打印技术应用于花气味的相关实验，由于某些植物的花气味组成过于复杂，可能会增大实验的难度；另一方面，3D打印技术的原材料一般以塑料为主，不易降解，应尽量循环使用，在野外环境下注意回收，或者尽可能选用可生物分解、可堆肥化的原材料（如WillowFlex）（Behm etal，2018)，避免污染环境。目前，国外运用3D 打印技术对植物繁殖生态学的研究已逐步深入，而国内的研究则相对较少。将3D 打印技术应用于植物繁殖生态学，会使植物繁殖生态学的研究更加深入，研究结果更为准确，它将为植物繁殖生态学领域作出新的贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \nANDERSSON S,NILSSON LA,GROTHI, et al,2002.Floral scents in butterfly-pollinated plants: possible convergence in chemical composition[J]. Bot JLinn Soc,140(2): 129-153.   \nARMBRUSTER WS,20o1.Evolution offloral form: electrostatic forces,pollination,and adaptive compromise[J]. New Phytol, 152(2): 181-183.   \nBEHM J, WAITEBR, HSIEH ST, et al,2018.Benefits andlimitations of three-dimensional printing technology for ecological research[J]. bioRxiv, 283895.   \nCAMPOS EO, BRADSHAW HD, DANIEL TL, 2015. Shape matrs: coroll curvature improves nectar discovery in the hawkmoth Manduca sexta[J]. Funct Ecol,29(4): 462-468.   \nCHIA HN, WUBM,2015.Recent advances in 3D printing of biomaterials[J]. JBiol Eng,9(1): 4.   \nCRANE PR,FRIIS EM,PEDERSEN KR,1995.The origin and early diversification of angiosperms[J]. Nature, 374(6517): 27-33.   \nDE JAGER ML, WILLIS-JONES E,CRITCHLEY S,et al,2017.The impact offloral spot and ring markings on pollinator foraging dynamics[J]. Evol Ecol,31(2): 193-204.   \nDOYLE JA, ENDRESS PK, 20o0. Morphological phylogenetic analysis of basal angiosperms: comparison and combination with molecular data[J]. Int JPlant Sci,161(S6): S121-S153.   \nDUDAREVA N,CSEKE L,BLANC VM,et al,1996.Evolution of floral scent in Clarkia: novel patterns of S-linalool synthase gene expression in the C. breweri flower[J]. Plant Cell, 8(7): 1137-1148.   \nENDRESS PK,DOYLE JA,2009.Reconstructing the ancestralangiosperm flower and its initial specializations[J]. Amer JBot, 96(1): 22-66.   \nGEBLER M,UITERKAMP AJMS,VISSER C，2014. A global sustainability perspective on 3D printing technologies[J]. Energ Policy,74: 158-167.   \nGONG YB,HUANG SQ, 2009.Floral symmetry: polinator-mediated stabilizing seletion on flower size in bilateral species[J]. Proc Roy Soc B-Biol Sci,276(1675),4013-4020.   \nHUANG SH,LIU P, MOKASDAR A, et al,2013.Additive manufacturing and its societal impact: a literature review[J]. Int JAdv Manuf Technol, 67: 1191-1203.   \nJOHNSON SD,DAFNIA,1998. Response of be-flies to the shape and pattrn of model flowers: implications for floral evolution in a Mediterranean herb[J]. Funct Ecol,12(2): 289-297.   \nJORDAN CY，HARDER LD，2006.Manipulation of bee behavior by inflorescence architecture and its consequences for plant mating[J]. Amer Naturalist, 167(4): 496-509.   \nKRUTH JP,191. Material incress manufacturing by rapid prototyping techniques[J]. CIRP Ann-Manuf Technol, 40(2): 603-614.   \nKURIYA S,HATTORI M, NAGANO Y, et al, 2015.Altitudinal flower size variation correlates with local polinator size ina bumblebee-polinated herb,Prunellavulgaris L.(Lamiaceae)[J].JEvolution Biol,28(10): 1761-1769. LIAO WJ, HARDER LD,2014. Consequences of multiple inflorescences and clonality for polinator behavior and plant mating[J]. Amer Naturalist, 184(5): 580-592.   \nMARTIN NH, 2004.Flower size preferences of the honeybee (Apis melifera) foraging on Mimulus guttatus (Scrophulariaceae)[J]. Evol Ecol Res, 6(5): 777-782.   \nMUCHHALA N, BROWN Z, ARMBRUSTER WS, et al, 2010. Competition drives specialization in pollination systems through costs to male fitness[J]. Amer Naturalist,176: 732-743.   \nPELTOLA SM,MELCHELS FPW, GRIJPMA DW,et al, 2008. Areview of rapid prototyping techniques for tissue engineering purposes[J],Ann Med, 40(4): 268-280.   \nPOLICHA T，DAVIS A, BARNADAS M，et al.， 2016. Disentangling visual and olfactory signals in mushroom-mimicking Dracula orchids using realistic three-dimensional printed flowers[J]. New Phytol,210(3): 1058-1071.   \nPOTTS JG,2015.Effects of Floral Symmetry on Pollnation in Bidens aristosa[J]. Southwest Naturalist, 60(4): 370-373.   \nREN ZX,LI DZ, BERNHARDT P, et al, 2011.Flowers of Cypripedium fargesii (Orchidaceae) fool flat-footed flies (Platypezidae) by faking fungus-infected foliage[J]. Proc Nat Acad Sci USA,108(18): 7478-7480.   \nRENGIER F, MEHNDIRATTA A, VON TENGG-KOBLIGK H, et al, 2010. 3D printing based on imaging data: review of medical applications[J]. Int J CARS, 5(4): 335-441.   \nRUXTON GD,SCHAEFER HM, 2016. Floral colour change as a potential signal to polinators[J]. Curr Opin Plant Biol,32: 96-100.   \nSARGENT RD,2004. Floral symmetry affects speciation rates in angiosperms[J]. Proc Roy Soc B-Biol Sci, 271(1539): 603-608.   \nSINGARAVELAN N, NEE'MAN G, INBAR M, et al, 2005.Feeding responses of free-flying honeybees to secondary compounds mimicking floral nectars[J]. JChem Ecol, 31(12): 2791-2804.   \nSOBRAL M, VEIGA T, DOMiNGUEZ P,et al,2015.Selective pressures explain differences in flower color among Gentiana lutea populations[J]. Plos One,10(7): e0132522.   \nSUN M, GROSS K,SCHIESTLFP,2014. Floral adaptation to local pollinator guilds in aterrestrial orchid[J]. Ann Bot,113(2): 289-300.   \nTHOMSON JD，DRAGULEASA MA，TAN MG， 2015.Flowers with caffeinated nectar receive more pollination[J]. Arthropod-Plant Inte, 9(1): 1-7.   \nTOTLAND O, 2004.No evidence for a role of polinator discrimination in causing selection on flower size through female reproduction[J]. Oikos,106(3): 558-564.   \nVAN KLEUNEN M, NANNI I, DONALDSON JS,et al, 2007. The role of beetle marks and flower colour on visitation by monkey beetles (Hopliini) in the greater cape floral region,South Africa[J].Ann Bot,100(7): 1483-1489.   \nYANG S,FERRARI MJ， SHEA K, 2011. Polinator behavior mediates negative interactions between two congeneric invasive plant species[J]. Am Nat, 177: 110-118. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZHANGFP,CAI XH,WANG H,etal,2012.Dark purple nectarasa foraging signal ina bird-pollnated Himalayan plant[J]. New Phytol, 193(1): 188-195. ",
+        "page_idx": 7
+    }
+]

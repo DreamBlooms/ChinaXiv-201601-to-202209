@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "SuperWIMP dark matter scenario in light of WMAP ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Wang1, Jin Min Yang $^ { 1 , 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ 1$ Institute of Theoretical Physics， Academia Sinica, Beijing 10o08o, China （20 $^ 2$ Department of Physics， Tohoku University，Aoba-ku, Sendai 98o, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The heavy gravitino in the minimal supergravity (mSUGRA) models is likely to be the lightest supersymmetric particle (LSP).Produced from the late decays of the metastable Weakly Interacting Massive Particles (WIMPs) such as the lightest neutralinos,the stable gravitinos can be plausible candidates for the cold dark matter in the universe. Such gravitino dark matter can naturally evade the current detection experiments due to its superweak couplings. However,this scenario must be subjected to the constraints from the Big Bang nucleosynthesis (BBN） predictions for light element abundances as well as the Wilkinson Microwave Anisotropy Probe (WMAP） data for the relic density. Assuming the popular case in which the lightest neutralino is the next-tolightest supersymmetric particle (NLSP),we find that requiring BBN predictions for light element abundances to agree with the WMAP data can impose upper and lower mass bounds on both the gravitino LSP and the neutralino NLSP.A scan over the mSUGRA parameter space,subjected to the BBN constraints,the WMAP data and the $b  s \\gamma$ bounds,shows that the low $\\tan \\beta$ ( $\\lesssim$ 40) region as well as the region accessible at CERN Large Hadron Collider (LHC)will be severely constrained.Such stringent constraints on the parameter space might be instructive for testing this scenario in future collider experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "96.35.+d,04.65.+e，12.60.Jv",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The nature of thedark matter is one of the mysteries in today's physical science.It has been intensively explored both theoretically and experimentall. Studies showed that the cosmic dark matter is plausibly composed of nonbaryonic Weakly Interacting Massive Particles (WIMPs)[1].While the Standard Model of particle physics cannot provide acandidate for the dark matter WIMP,the popular supersymmetric theory with R-parity conservation can provide agood candidate,i.e.,the lightest supersymmetric particle (LSP).So far the widely studied scenario is that the lightest neutralino isassumed to be the LSP.However,despiteof the overwhelming popularityof this scenario, other possibilities should not beignored dueto the folowing reasons.On theone hand,the success ofsuch neutralino dark matter scenario may be spoiled by the problems caused by gravitino inthe reheating era[2].On the other hand, the neutralino dark matter scenario has not yet been confirmed by current experiments [3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One possible scenario other than neutralino LSP is that the gravitino is assumed to be the LSP.Such gravitino LSPs can form warm or cold cosmic dark matter, depending on the gravitino mass: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(i) In some low-energy SUSY breaking models,like the gauge mediated SUSY breaking(GMSB) models，the gravitino can be as light as KeV,much lighter than other supersymmetric particles.It can thus form the warm dark matter. Note that the recent WMAP data imposed severe constraints on the dark matter type.As analyzed in [4],while a very tiny component of dark matter can be the hot neutrinos,the warm dark matter is ruled out due to the detected early re-ionization of the universe at a redshift $z \\approx 0 . 2 0$ . Therefore, the scenario of warm dark matter gravitino is not favored by recent observation.   \n(ii In the popular mSUGRA models,the gravitino massis unspecifed and only known to be of the weak-scale. Such heavy gravitino is possbly the LSP and can form the cold dark matter in the universe. In contrast to the highly constrained scenarios,in which the gravitino is produced asa thermal relic [5]or produced during reheating [6],a new scenario,assuming the gravitino to be produced from the late decays of the thermal relic WIMPs, was recently proposed in [7]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inthis article we focus our attention on this new gravitino dark matter scenario.Since the heavy gravitinos couple gravitionally, they are naturally the so-caled Superweakly Interacting Massive Particles (SuperWIMPs).As a plausible candidate for the cold dark mater in the universe[7],the gravitino SuperWIMPcan naturally evadethe current dark matter detection experiments due to its superweak couplings. However,this scenario must be subjected to the constraints from the Big Bang nucleosynthesis (BBN) as well as the WMAP data [8]: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "· The late decays of WIMPs (like neutralinos） into gravitino SuperWIMPs willrelease electromagnetic (EM) and hadronic energy. Such energy release willalter the BBN predictions for light element abundances [9,10]. Requiring the resulted predictions for light element abundances to agree with the measured values willimpose strong constraints on the gravitino dark matter scenario. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "·WMAP precisely measured many quantities, especially the total matter density and the baryon density, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { m } h ^ { 2 } = 0 . 1 3 5 _ { - 0 . 0 0 9 } ^ { + 0 . 0 0 8 } \\ , \\quad \\Omega _ { b } h ^ { 2 } = 0 . 0 2 2 4 _ { - 0 . 0 0 9 } ^ { + 0 . 0 0 9 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From such results we can deduce the $2 \\sigma$ range for the cold dark matter density ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { C D M } h ^ { 2 } = 0 . 1 1 2 6 _ { - 0 . 0 1 8 1 } ^ { + 0 . 0 1 6 1 } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which is dramatically more accurate than previous results and agres quite well with other approaches. Such precise measurements willimpose strong constraints on the parameter space of gravitino dark matter scenario. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this articleis to examine theseconstraints on the parameter space ofmSUGRA in this new gravitino dark matter scenario.Asuming the popularcase that the lightest neutralino is the NLSP,we willexamine the constraints on the mSUGRA parameter space from the BBN light element abundances,the WMAP data of relic density as wel as the $b \\to s \\gamma$ branching ratio data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.CONSTRAINTSONTHEPARAMETERSPACE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the new scenario [7], the NLSPs freeze out with a thermal relic density $\\Omega _ { N L S P }$ and then decay to the gravitino it time $1 0 ^ { 4 } \\sim 1 0 ^ { 8 } s$ . Thus the relic density of gravitino dark matter is obtained by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { \\tilde { G } } = \\frac { m _ { \\tilde { G } } } { M _ { N L S P } } \\Omega _ { N L S P } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The latedecaysof the NLSPs willrelease energy which will alter the light element abundances.In fact,thelater injectionof high energy photon with the stopping energy inversely proportional to the temperature by scattering of the background photon willdissociate the existing light elements.If carefully chosen,such injecting EM energycan destruct the light element abundances to proper values.It is well known that theBBN predictions for light element abundances are quite successful for most light elements. Yet the BBN predictions for $^ 4$ He and $^ \\mathrm { 7 L i }$ (especially $^ \\mathrm { 7 L i }$ ） seeminglydo not agree with the WMAP data [11].Requiring such discrepancy be setled by the energy released from the late-decaying NLSPs and,at the same time,requiring such energy release not to spoil the succesful BBN predictions for other light elements,the constraints on the NLSP lifetime (in seconds)and EM energy release can be obtained [9]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 1 . 5 \\times 1 0 ^ { 6 } s \\leq \\tau \\leq 4 \\times 1 0 ^ { 6 } s , } \\\\ & { 0 . 8 \\times 1 0 ^ { - 9 } \\mathrm { G e V } \\leq \\zeta _ { E M } \\leq 1 . 5 \\times 1 0 ^ { - 9 } \\mathrm { G e V } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta _ { E M } = \\epsilon _ { \\mathrm { E M } } B _ { \\mathrm { E M } } Y _ { \\mathrm { N L S P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "is the emitted EM energy density,with $\\epsilon _ { \\mathrm { E M } }$ being the initial EM energy release from the decay, $B _ { \\mathrm { E M } }$ being the branching fraction_of the decay into EM components, and $Y _ { \\mathrm { N L S P } } ~ = ~ n _ { \\mathrm { N L S P } } / n _ { \\gamma }$ being the NLSP number density normalized to the BG photon number density. In the derivation of the above bounds,the ratio $\\eta \\equiv n _ { B } / n _ { \\gamma }$ is fixed to be $6 \\times 1 0 ^ { - 1 0 }$ , and the bounds on the primordial abundances of light elements are taken to be [9] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { 1 . 3 \\times 1 0 ^ { - 5 } ~ < ~ D / H ~ < ~ 5 . 3 \\times 1 0 ^ { - 5 } ~ , } } \\\\ & { \\mathrm { 0 . 2 2 7 ~ < ~ } Y _ { p } ~ < ~ 0 . 2 4 9 ~ , } \\\\ & { \\mathrm { 9 . 0 \\times 1 0 ^ { - 1 1 } ~ < ~ } ^ { \\mathrm { 7 } } \\mathrm { L i / H ~ < ~ 2 . 8 \\times 1 0 ^ { - 1 0 } ~ , } } \\\\ & { \\mathrm { ~ \\phantom { \\times } ^ { 6 } L i / ^ { 7 } L i ~ \\lesssim ~ 0 . 0 7 ~ , } } \\\\ & { \\mathrm { ~ \\phantom { \\times } ^ { 6 } L i / H ~ \\lesssim ~ 2 \\times 1 0 ^ { - 1 1 } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { p }$ denotes $^ 4$ Heabundance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dominant decay of neutralino ( $\\chi$ ） NLSP into gravitino ( $\\tilde { G }$ ） LSP is through $\\tilde { \\chi }  \\gamma \\tilde { G }$ with a rate given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( \\tilde { \\chi }  \\gamma \\tilde { G } ) = \\frac { | N _ { 1 1 } \\cos \\theta _ { W } + N _ { 1 2 } \\sin \\theta _ { W } | ^ { 2 } } { 4 8 \\pi M _ { * } ^ { 2 } } \\frac { m _ { \\tilde { \\chi } } ^ { 5 } } { m _ { \\tilde { G } } ^ { 2 } } [ 1 - \\frac { m _ { \\tilde { G } } ^ { 2 } } { m _ { \\tilde { \\chi } } ^ { 2 } } ] ^ { 3 } [ 1 + 3 \\frac { m _ { \\tilde { G } } ^ { 2 } } { m _ { \\tilde { \\chi } } ^ { 2 } } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { \\tilde { G } }$ is the gravitino LSP mass, $m _ { \\tilde { \\chi } }$ is the neutralino NLSP mass, $M _ { * } = 1 / \\sqrt { 8 \\pi G _ { N } } \\simeq 2 . 4 \\times 1 0 ^ { 1 8 }$ GeV is the reduced Plank scale, $\\theta _ { W }$ is the weak mixing angle,and $N _ { i j }$ denotes the matrix element projecting the $i$ -th neutralino into Bino ( $j = 1$ )，Wino ( $j = 2$ ）and Higgsinos( $j = 3 , 4 ,$ ). For such a decay we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle B _ { \\mathrm { E M } } = 1 ~ , } } \\\\ { { \\displaystyle \\epsilon _ { \\mathrm { E M } } = \\frac { m _ { \\tilde { \\chi } } ^ { 2 } - m _ { \\tilde { G } } ^ { 2 } } { 2 m _ { \\tilde { \\chi } } } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We would like to make some clarifications about our numerical calculations: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)In thecalculation of the thermal relic densityof the NLSPs,we considered the general mixing of neutralinos and used the package Microomega [13],which includes alltree level contributions to the scattering amplitudes   \n(2) In the scan over the mSUGRA parameter space,we used SuSpect2.0 [16] to obtain the sparticle mases in mSUGRA models,which includes one-loop corrections to sparticle masses and two-loop corrections to Higgs masses.   \n(3)When deriving the constraints on the mSUGRA parameter space，we consider the BBN constraints in Eqs.(2.2,2.3), the WMAP data of relic dark matter density in Eq.(1.2) as well as the $b \\to s \\gamma$ bound [17]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 . 1 6 \\times 1 0 ^ { - 4 } < B F ( b  s \\gamma ) < 4 . 3 4 \\times 1 0 ^ { - 4 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,we fixed the common trilinear coupling $A _ { 0 } = 0$ since our results are not sensitive to it. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4) In our calculation we also considered the muon anomalous magnetic moment $\\alpha _ { \\mu }$ . Since so far much theoretical uncertainty exists in $\\alpha _ { \\mu }$ predictions²,we did not use $\\alpha _ { \\mu }$ to set constraints and, instead, we only gave the range of the mSUGRA contributions corresponding to each case. This will be useful when $\\alpha _ { \\mu }$ uncertainty is further reduced in the future. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The bounds on the masses of the neutralino NLSP and gravitino LSP are shown in Fig.1. One sees that BBN results give rather stringent upper and lower bounds ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n4 3 0 ~ \\mathrm { G e V } \\leq M _ { L S P } \\leq 6 0 0 ~ \\mathrm { G e V } , ~ 6 3 0 ~ \\mathrm { G e V } \\leq M _ { N L S P } \\leq 8 4 0 ~ \\mathrm { G e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We found that the neutralino NLSP is quite bino-like ( $N _ { 1 1 } \\gtrsim 0 . 9 9 \\$ ）in the allowed regions in Fig.1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The allowed regions in the plane of $m _ { 0 }$ versus $m _ { 1 / 2 }$ are shown in Fig.2 for plus sign of $\\mu$ and Fig.3 for minus sign of （204号 $\\mu$ . From Fig.2 we see that for plus sign of $\\mu$ much of the parameter space with $\\tan \\beta \\lesssim 4 0$ is ruled out. For example, for $\\tan \\beta = 1 0$ , only a narrow strip survives, i.e., $2 2 5 { \\mathrm { ~ G e V } } \\lesssim m _ { 0 } \\lesssim 3 0 0$ GeV and $1 0 2 0 ~ \\mathrm { G e V } \\lesssim m _ { 1 / 2 } \\lesssim 1 2 7 0 ~ \\mathrm { G e V }$ (the corresponding contribution to $\\alpha _ { \\mu }$ is $1 . 3 8 \\lesssim \\Delta \\alpha _ { \\mu } \\times 1 0 ^ { 1 0 } \\lesssim 2 . 0 5 )$ .When $\\tan \\beta$ increase to 50, the allowed region gets quite large, i.e., $7 4 0 \\ \\mathrm { G e V } \\lesssim m _ { 0 } \\lesssim 1 7 3 0$ GeV and $1 0 6 0 \\ \\mathrm { G e V } \\lesssim m _ { 1 / 2 } \\lesssim 1 7 2 0$ GeV (the corresponding contribution to $\\alpha _ { \\mu }$ is $2 . 1 8 \\lesssim \\Delta \\alpha _ { \\mu } \\times 1 0 ^ { 1 0 } \\lesssim 6 . 3 2 \\$ 1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For minus sign of $\\mu$ , similar results are obtained. We see from Fig.3 that for $\\tan \\beta \\lesssim 3 0$ , the constraints are quite stringent. For example, for $\\tan \\beta = 1 0$ the constraints are $2 2 0 \\ \\mathrm { G e V } \\lesssim m _ { 0 } \\lesssim 3 0 5$ GeV and $1 0 2 0 \\ \\mathrm { G e V } \\lesssim m _ { 1 / 2 } \\ \\lesssim$ 1280 GeV (the corresponding contribution to $\\alpha _ { \\mu }$ is $- 6 . 0 7 \\lesssim \\Delta \\alpha _ { \\mu } \\times 1 0 ^ { 1 0 } \\lesssim - 3 . 7 )$ .When $\\tan \\beta$ increases to 40, the constraints are weakened to $1 0 6 0 \\ \\mathrm { G e V } \\lesssim m _ { 0 } \\lesssim 1 5 3 0 \\ \\mathrm { G e V }$ V,1290 GeV ≤ m1/2 ≤ 1795 GeV (the corresponding contribution to $\\alpha _ { \\mu }$ is $- 5 . 4 5 \\lesssim \\Delta \\alpha _ { \\mu } \\times 1 0 ^ { 1 0 } \\lesssim - 1 . 9 0 )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9dfd1f50855fc88efdd543bee8d69d9eec8e2bb4981bcbb4854f6e7b5b9ce77.jpg",
+        "img_caption": [
+            "FIG.1. The region (shaded) allowed by BBN to account for $^ 7 L i$ and $^ 4 H e$ abundance in the scenario of gravitino LSP and neutralino NLSP. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/17f9c6b0af3d599d3655e2e23f5acc5a78447862aa62ebe0d6b58c6b16445695.jpg",
+        "img_caption": [
+            "FIG. 2. The regions (shaded) allowed by the WMAP data,BBN constraints as well as $b  s \\gamma$ data. From left to right corresponds to $\\tan \\beta = 1 0 , 2 0 , 3 0 , 4 0 , 5 0$ ,respectively. The sign of $\\mu$ is assumed to be plus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d50e19d892b15a8e14c4c5f1445d5531b09372d480a0388caaea9d728f8deb6.jpg",
+        "img_caption": [
+            "FIG.3. Same as Fig.2, but for minus sign of $\\mu$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to note that if $\\Delta \\alpha _ { \\mu }$ is required to be positive (negative), then the allowed regions in $\\mu < 0$ ( $\\mu > 0$ ） case will be completely ruled out. Therefore,a further scrutiny of $\\alpha _ { \\mu }$ will provide meaningful constraints on the parameter space of mSUGRA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It should be pointed out that theabove stringent constraints inFigs.2and 3 were obtained under the requirement thatthe gravitinos from the late decays of the NLSP makeup allthe dark matter.If other particles like axions are also a component ofdark mater,then theconstraints willbe changed.Moreover,if the relic gravitinodark mater arepartly produced during reheating,the constraints willalso bechanged.Inorder to forbid gravitino (with mass range in Eq.(l6)） production during reheating,the reheating temperature $T _ { R }$ must be lower than a certain value. Following the analyses in [6],we evaluated such a limit and found $T _ { R } \\lesssim 1 0 ^ { 9 }$ GeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note that in our analysis we only considered the consequence of EM energy release from the late decays of WIMPs and required such EMenergy release to settle the discrepancy between the BBN predictions and the observed values for light element abundances. However,as can be seen in the allowed $M _ { N L S P } / M _ { L S P }$ region of Fig. 1, the decay $N L S P \\longrightarrow { \\tilde { G } } + Z$ is also possible and thus will cause hadronic energy release from the subsequent $Z$ decays. Such hadronic energy release canbequite dangeroussince it can alter the BBN predictions for the light element abundances. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Ref.[21]the authors studied the bounds from the hadronic energy release and found that such hadronic bounds may be stringent $^ 4$ due to the overproduction of $D$ ．However,as pointed out in Ref.[21],for the best fit region with lifetime $\\tau$ between $1 0 ^ { 6 } s$ and $1 0 ^ { 7 } s$ ，the $D$ overproduction from hadronic energy is possibly canceled by the overdestructionfrom EMenergyand thus the hadronic bounds become lesstringent and subject to large uncertainty. In sucharegion theEMenergy effects are dominant [21].Since inour study we focused on the best fit region,we did not consider the hadronic effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We examined the constraints on the newly proposed dark matter scenario,in which the gravitino is assumed to be the LSP and produced from the late decays of metastable NLSP.Although such gravitino dark mater can naturally evade the current detection experiments due to its superweak couplings，we found,however,that this scenario is subjected to stringent constraints from the BBN predictions for light element abundances as wellas the WMAP data or the relic density. Assuming the popular case that the lightest neutralino is the NLSP in mSUGRA models, we ound that the low $\\tan \\beta$ ( $\\lesssim$ 40）region as well as the region accessible at the LHC are severely constrained. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The popular mSUGRA models will be explored in future coliders like the LHC.For this purpose,it is important to know which partof the parameter space is viableandthus should be primarily explored.Inthis regard,the stringent cosmological constraints on the mSUGRA parameter space obtained in this work willbe useful.Especialy, if the ongoing and planned dark matter detection experiments fail to find any dark mater signal,it will imply that the dark matter interactions are too weak and thus the gravitinodark matter scenario willbe favored.Then,to test this scenario at coliders,the stringent cosmological constraints on the parameter space willbe quite instructive.This would serve as a good example that the studies in cosmology and astrophysics can shed some light on particle collider physics. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the LHC could explore mSUGRA parameter space up to $m _ { 1 / 2 } \\sim 1 4 0 0$ GeV (700 GeV） for small (large) values of $m _ { 0 }$ ，assuming 100 $f b ^ { - 1 }$ of integrated luminosity [20]. If the LHC results finally restrain the parameter space toone of the regions obtained inthis work,then it implies that the gravitinodark mater scenario is favored.In this sence,the studies in particle physics can provide some insights in theunderstanding of dark matter in cosmology. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We addressthat our study in this work is just ilustrative instead of exhaustive.We assumed the popular case that the lightest neutralino is the NLSP in mSUGRA models.Actuall,other super particles,like tau-slepton,are also likely to be the NLSP in mSUGRA models.If tau-slepton is assmed to be the NLSP,there are some theoretical uncertainties in its decay modes and the corresponding energy release. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Noteadded: While we are preparing this manuscript,some other preprints 21l appeared,where the constraints on the gravitinodark mater scenario are studied.Wefound thatthe studies in21lare quite exhaustively,where the scenarios of neutralino NLSP,stau NLSPas wellas sneutrino NLSP areallconsidered. Compared with the studies in [2l],the characteristicofour study is that we performedascan over the mSUGRA parameter space and presented the allowed regions in terms of original mSUGRA parameters. In addition, the BBN constraints on the EM energy release are more stringent inour study since we required such energy release settle the discrepancy between the BBN prediction and the WMAP data for 7Li abundance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEGENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We thank Shufang Su for useful comments and Yuqi Lee for debugging the linking code between Microomega and SuSpect.We also thank Junjie Cao and Guangping Gao for helpful discusions. This work is supported in part by National Natural Science Foundation of China (NNSFC) and by a visiting program (No. L03517)of Japan Society for the Promotion of Science. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] For a recent review,see,e.g.,C.Munoz,hep-ph/0309346.   \n[2]S.Weinberg,Phys.Rev.Let.48,303(1982);E.Holtmann,M.Kawasaki,K.Kohri,T.Moroi,Phys.Rev.D60,023506 (1999)；M.Kawasaki,K.Kohri,T.Moroi,Phys.Rev.D 63,103502 (2001).   \n[3] D. S. Akerib et al.,astro-ph/0405033   \n[4] A.B.Lahanas,D.V. Nanopoulos,Phys.Lett.B 568,55 (2003).   \n[5] H. Pagels and J. R. Primack,Phys.Rev. Lett.48,223 (1982).   \n[6] M.Bolz,A.Brandenburg and W.Buchmuler,Nucl.Phys.B606,518 (2001); T.Moroi,H.Murayama and M.Yamaguchi, Phys.Lett.B 303,289 (1993).   \n[7] J.L.Feng,A.Rajaraman,F.Takayama,Phys.Rev.Lett.91,11302 (2003);Phys.Rev.D68,063504(2003);J.L.Feng, hep-ph/0308201.   \n[8] WMAP Collaboration,Astrophys. J. Suppl. 148,1 (2003); 148,175 (2003); 248,195 (2003).   \n[9] R.H. Cyburt,J. Ells,B.D. Fields,K.A. Olive,Phys. Rev. D 67,103521 (2003).   \n[10]M.H.RenoandD.Seckel,Phys.Rev.D37,3441(1988);K.Kohri,Phys.Rev.D64,043515 (2001)；S.Dimopoulos, R.Esmailzadeh,L.J.Hall,G.D.Starkman,Nucl.Phys.B311,699 (1989)；M.Kawasaki,K.Kohri,T.Moroi,astro ph/0402490.   \n[11] B.Fields,Primordial Nucleosythesis in light of WMA $P$ ,CFA colloquium, University of Illinois.   \n[12] W. Buchmuler, K. Hamaguchi, M. Ratz, T. Yanagida, hep-ph/0403203.   \n[13] G.Belanger,F. Boudjema,A.Pukhov,A. Semenov, Comput.Phys.Commun.149,103 (2002). [14]M.Frank,S.Heinemeyer,W.Hollik,G.Weiglein,hep-ph/0212037 [15] A.Djouadi, J.Kalinowski, M. Spira,Comput.Phys. Commun.108, 56 (1998).   \n[16] A. Djouadi, J.-L. Kneur,G. Moultaka, hep-ph/0211331.   \n[17]H.Baer,C.Balazs,J.Ferrandis,X.Tata,Phys.Rev.D64,O35004(2001).   \n[18] K.Hagiwara,A.D.Martin,D.Nomura,T. Teuber,Phys.Lett.B 557,69(2003).   \n[19] M.Davier,S.Eidelman,A.Hocker, Z. Zhang,Eur.Phys.J.C27,497 (2003).   \n[20] H.Baer,A.Belyaev,T.Krupovnickas,A.Mustafayev,hep-ph/O403214.   \n[21] J.L.Feng,S. Su,F. Takayama,hep-ph/0404198;hep-ph/0404231. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

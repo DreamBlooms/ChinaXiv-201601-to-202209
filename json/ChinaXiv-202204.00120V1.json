@@ -1,0 +1,883 @@
+[
+    {
+        "type": "text",
+        "text": "New fossils of small and medium-sized bovids from the Early Pleistocene Site of Shanshenmiaozui in Nihewan Basin, North China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Hao-Wen1,2,3\\* ZHANG Bei4 CHEN Xi5 WANG Xiao-Min ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofciences,InstituteofVertebrate Paleontology andPaleoanthropology,Chinese Academy of Sciences Beijing100044 \\* Corresponding author: tonghaowen@ivpp.ac.cn)   \n(2 CAS Center for Excellence in Life and Paleoenvironment Beijing 100044)   \n(3University of Chinese Academy of Sciences Beijing 100049)   \n(4BeijingMuseumofNatural History Beijing100050)   \n(5Nanjing Normal University Nanjing 210023)   \n(6Institute of Archaeology,Chinese Academy of Social Sciences Beijing 100710) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractShanshenmiaozui site in Nihewan Basin in North China is a recently discovered Early Pleistocene site which yields rich and diverse mammalian fossils.In the fauna,the small and medium-sized bovid fossils are well represented and can be referred to the following taxa: Spirocerus wongi,Gazella sinensis,Ovis shantungensis and Megalovis piveteaui respectively, among which G. sinensis is the dominate species.S.wongi and G. sinensis are mainly represented by horn-cores and partial skull bones as well as mandibles; in addition,metacarpal and/or metatarsal bones were also recognized for all of the four species.The horn-cores are easy to be identified to the species level, while the dentitions and the postcranial bones underwent a series of examinations and comparisons before getting properly determined and referred to the most approximate taxa.Among the postcranial bones,the metapodials,especially to the metacarpal bones special attentions were paid,which are crucial not only for taxonomic identification,but also for phylogenetic and paleoecological reconstructions; the previously misidentified metapodial specimens in Nihewan fauna were reconsidered in this paper. In the SSMZ fauna,the bovid guild is dominated by Gazella and Bison,which indicates steppe was the most important biome in Nihewan Basin during Early Pleistocene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsShanshenmiaozui, Nihewan, China; Early Pleistocene; small-medium bovid; new fossils ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nihewan ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\bar { \\rho } }$ Nihowan which is abbreviated as‘NIH”in the MNHN collections)Basin is located at Yangyuan County of Hebei Province in North China, which is famous for its late Cenozoic fluvio-lacustrine deposit sequence and the Early Pleistocene mammalian faunathe Nihewan Fauna. Nihewan fauna was discovered in the 192Os and published in 1930 by Teilhard de Chardin and Piveteau. The early excavations were conducted mainly in the areas around the Xiashagou and Nihewan vilages on the north bank of the Sanggan River (Sangkanho). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7034e8e2b25b750bab792a9289ee90e40b5f71cb5b1d4621bdc88b8b3dc3ddf7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Location of Shanshenmiaozui (SSMZ) site, with distributional map of living antelopes and related fossil forms of the Pleistocene Epoch in China Data for the extant taxa are from Jiang (2oo4),Smith and Xie (2Oo8).Fossil localities: 1. Xiashagou of Nihewan; 2.Yushe; 3.Dongdoubi of Yuxian; 4. Jinyuan Cave; 5.Zhoukoudian Loc.1; 6. Xujiayao; 7. Mashandong; 8. Salawusu; 9. Xifeng of Qingyang;10.Loufangzi; 11. Jinniushan; 12.Miaohoushan; 13.Haimao of Dalian; 14. Gulongshan; 15.Xiaogushan; 16.Chicheng; 17. Dingcun; 18. Xihoudu; 19. Tianshuigou of Dali; 20.Wenxi; 21. Pinglu; 22. Danangou of Yuxian; 23.Bajiazui; 24.Gonghe; 25. Yangguo; 26. Tuozidong; 27. Tunliu; 28.Banpo; 29.Linyi; 30.Yuanmou; 31. Heshui; 32. Xingtai; 33. Xiaochangcun; 34. Wuwang ofLinyi; 35. Gengjiagou; 36.Luhuo; 37. Zhoukoudian Loc.15; 38. Upper Cave; 39. Guxiangtun; 40. Zhoujiayoufang; 41. Dali Man site; 42. Aba; 43. Chifeng; 44. Rouyuan; 45. Yanjiagang; 46. Yuhongcun of Dali; 47. Lingjing ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the past decades, much more explorations and excavations have been conducted, and almost all of them were took place on the southern bank of the Sanggan River, and the Shanshenmiaozui Site (Fig. 1) is among the most productive sites in mammalian fossils. Up to now, 25 species, including undetermined species,have been recognized and/or published: Allactaga sibirica (Tong et al., 2021), Ochotonoides complicidens (Tong et al., 2021),Ochotona youngi (Tong et al., 2021), Nyctereutes sp., Canis chihliensis (Tong et al., 2012, 2021), Homotherium sp., Acinonyx sp., Lynx sp., Panthera sp., Pachycrocuta licenti, Mammuthus trogontheri (Tong, 2012; Tong and Chen, 2016; Chen and Tong, 2017; Tong et al., 2021), Hipparion sp., Equus sanmeniensis, Coelodonta nihowanensis (Tong and Wang, 2014),Elasmotherium pei (Tong et al., 2014, 2018), Sus lydekkeri, Paracamelus gigas (Tong et al., 2021), Nipponicervus elegans (Tong et al., 2021), Eucladoceros boulei (Tong and Zhang, 2019),Elaphurus bifurcatus (Tong et al., 2021), Spirocerus wongi, Gazella sinensis, Ovis shantungensis, Megalovis piveteaui, Bison palaeosinensis (Tong et al., 2017). Among the 25 taxa mentioned above, 23 of which once appeared in the classical Nihewan fauna ( $\\mathrm { \\dot { = } }$ Xiashagou fauna),which account for $92 \\%$ of the SSMZ fauna. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the SSMZ fauna, the dominant species include Canis chihliensis,Mammuthus trogontherii, Equus sanmeniensis, Coelodonta nihowanensis,Sus lydekkeri, Eucladoceros boulei, Spirocerus wongi, Gazella sinensis and Bison palaeosinensis,most of which have gotten published; the present paper is going to focus on the study of the small and mediumsized bovids,all of which are regarded as having the same geologic horizon. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SSMZ site lies at the neighboring hill of Xiaochangliang, a wel-known Paleolithic Site in Nihewan Basin. Based on the stratigraphic correlation in the field, the fossil-bearing sand-silt bed at SSMZ site is a litle higher than the cultural layer at XCL site (Tong et al., 2011; Liu et al., 2012), whose paleomagnetic age is about 1.36 Ma BP (Zhu et al., 2001). On the other hand, the SSMZ fauna is very similar with the classical Nihewan fauna in faunal composition, which means the SSMZ fauna should have an approximate age as the latter based on faunal correlation (Tong et al.,2O21),whose recent dating result is $2 . 2 \\mathrm { - } 1 . 7 \\ \\mathrm { M a }$ (Liu et al., 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 New fossil materials and the extant specimens compared ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The information of all of the studied specimens from SSMZ is listed in Table 1.All of the fossils are reposited in IVPP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The compared local extant antilopines include the following species as defined by Jiang (2004): Gazella subgutturosa, Procapra picticaudata, $P .$ gutturosa, $P .$ przewalskii,Pantholops hodgsonii and Saiga tatarica. The compared extant specimens are from the following collections: Institute of Vertebrate Paleontology and Paleoanthropology, CAS; Institute of Zoology, CAS; Northwest Institute of Plateau Biology, CAS. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef839ec4e0571925573bab960593e3f2ab889945f6e57113a6639d082b350dfe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table1 Studied fossil specimens of small to medium-sized bovids newly unearthed from SSMZ</td></tr><tr><td>Materials</td><td>Field No.</td><td>Catalog No. (IVPP)</td><td>Context information</td></tr><tr><td>Spirocerus wongi</td><td></td><td></td><td></td></tr><tr><td>Partial skull with horn-cores</td><td>N-07-122</td><td>V28650</td><td>E4-8</td></tr><tr><td>Juvenile maxilla with DP2-M1</td><td>N-06-135</td><td>V 28651</td><td>E13-5</td></tr><tr><td>Left mandible with dp2-m1</td><td>N-06-167</td><td>V 28652.1</td><td>E14-4</td></tr><tr><td>Partial right mandible with dp2-ml</td><td>N-06-178</td><td>V 28652.2</td><td>E14-4</td></tr><tr><td>Partial right mandible with p4-m3</td><td>N-16-046</td><td>V 28653</td><td>120-12</td></tr><tr><td>Left Mc III+IV</td><td>N-11-209</td><td>V 28655</td><td>H20-9</td></tr><tr><td>Right naviculo-cuboid</td><td>N-11-042-2</td><td>V 28656.1</td><td>G21-7</td></tr><tr><td>The fused 2nd+3rd tarsals</td><td>N-11-042-3</td><td>V 28656.2</td><td>H20-9</td></tr><tr><td>The 1st tarsal</td><td>N-11-042-4</td><td>V 28656.3</td><td>G21-7</td></tr><tr><td>Right Mt III+IV</td><td>N-11-042-1</td><td>V 28656.4</td><td>G21-7</td></tr><tr><td>Gazella sinensis</td><td></td><td></td><td></td></tr><tr><td>Partial skull with horn-cores</td><td>N-11-273</td><td>V28657</td><td>H22-9</td></tr><tr><td>Partial skull with horn-cores</td><td>N-06-128</td><td>V 28658</td><td>E14-2</td></tr><tr><td>Partial skull with left horn-core</td><td>N-06-237A</td><td>V 28659.1</td><td>D10-6</td></tr><tr><td>Right horn-core</td><td>N-06-237B</td><td>V 28659.2</td><td>D10-6</td></tr><tr><td>Partial skull with right horn-core</td><td>N-06-166</td><td>V 28660</td><td>E14-4</td></tr><tr><td>Partial skull with right horn-core</td><td>N-08-04 (02)</td><td>V28661</td><td>H15-2?</td></tr><tr><td>Partial skull with left horn-core</td><td>N-08-037</td><td>V 28662</td><td>H16-3</td></tr><tr><td>Partial skull with left horn-core</td><td>N-08-078</td><td>V28663</td><td>G15-6</td></tr><tr><td>Partial skull with left horn-core</td><td>N-16-029</td><td>V 28664</td><td>I20-10</td></tr><tr><td>Partial skull with right horn-core</td><td>N-17-050</td><td>V28665</td><td>J15-13</td></tr><tr><td>Partial skull with right horn-core</td><td>N-17-052</td><td>V 28666</td><td>J16-13</td></tr><tr><td>Partial skull with left horn-core</td><td>N-17-064</td><td>V 28667</td><td>I16-13</td></tr><tr><td>Left horn-core</td><td>N-07-60</td><td>V 28668</td><td>E16-11</td></tr><tr><td>Left horn-core</td><td>N-17-067</td><td>V28669</td><td>J16-14</td></tr><tr><td>Partial skull with left horn-core</td><td>N-18-75</td><td>V28670</td><td>I11-13</td></tr><tr><td>Partial skull with right horn-core</td><td>N-18-85</td><td>V28671</td><td>I12-13</td></tr><tr><td>Partial skull with left horn-core</td><td>N-18-168</td><td>V 28672</td><td>K13-17</td></tr><tr><td>Partial maxilla with P3-M1</td><td>2007.9.1</td><td>V28673</td><td>F19-1</td></tr><tr><td>Partial maxilla with M1-3</td><td>N-17-176</td><td>V 28674</td><td>K16-17</td></tr><tr><td>Partial right mandible with p2-m3</td><td>N-06-220</td><td>V 28675</td><td>E12-5</td></tr><tr><td>Partial left mandible with p2-p3,m1-3</td><td>N-06-222</td><td>V 28676</td><td>D12-5</td></tr><tr><td>Partial right mandible with p4-m3</td><td>N-08-048</td><td>V28677</td><td>H15-4</td></tr><tr><td>Partial left mandible with p4-m3</td><td>N-08-068</td><td>V28678</td><td>H16-4</td></tr><tr><td>Partial right mandible with p3-m3s</td><td>N-08-067</td><td>V 28679</td><td>H16-4</td></tr><tr><td>Partial left mandible with p2-m3</td><td>N-08-069</td><td>V28680</td><td>H15-5</td></tr><tr><td>Partial right mandible with p2,p4-m3s</td><td>N-11-250-1</td><td>V 28681.1</td><td>F20-9</td></tr><tr><td>Partialleft mandible with p2-m3</td><td>N-11-250-2</td><td>V 28681.2</td><td>F20-9</td></tr><tr><td>Left mandible with p3-m3</td><td>N-16-086</td><td>V28682</td><td>K23-13</td></tr><tr><td>Partial left mandible with p4-m3</td><td>N-17-081</td><td>V 28683</td><td>I16-14</td></tr><tr><td>Partial right mandible with p4-m3</td><td>N-17-162</td><td>V 28684</td><td>K16-17</td></tr><tr><td>Left mandible with dp2-4,m1-2</td><td>N-17-164-g</td><td>V 28685.1</td><td>K16-17</td></tr><tr><td>Right mandible with dp2-4,m1-2</td><td>N-17-164-d</td><td>V 28685.2</td><td>K16-17</td></tr><tr><td>Partial mandible with p4-m3</td><td>N-17-177</td><td>V 28686</td><td>K16-17</td></tr><tr><td>Left humerus (distal)</td><td>N-11-174</td><td>V28687</td><td>F20-9</td></tr><tr><td>Left Mc III+IV</td><td>N-15-050</td><td>V28688</td><td>H30-3</td></tr><tr><td> 3rd phalanx</td><td>N-15-028</td><td>V28689</td><td>G29-4</td></tr><tr><td>Left naviculo-cuboid</td><td>N-15-125</td><td>V 28690</td><td>H30-6</td></tr><tr><td>Distal part of left tibia</td><td>N-15-246</td><td>V28691</td><td>F30-3</td></tr><tr><td>Left astragalus</td><td>N-15-244</td><td>V28692</td><td>G29-3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f82d702be1ee44c0b7cc23a3c8be7d351e9bc52b47a0ecf60bd4f136a27912a7.jpg",
+        "table_caption": [
+            "Tong et al.-New fossils of small and medium-sized bovids from the Early Pleistocene Site 5 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Materials</td><td>Field No.</td><td>Catalog No. (IVPP)</td><td>Context information</td></tr><tr><td>Ovis shantungensis</td><td></td><td></td><td></td></tr><tr><td>Partial maxilla with leftDP4-M1,rightDP2-M1</td><td>N-07-069-A+B</td><td>V28693</td><td>F17-1</td></tr><tr><td>Nearly complete left Mc III+IV</td><td>N-11-179</td><td>V28694</td><td>H23-9</td></tr><tr><td>Megalovis piveteaui</td><td></td><td></td><td></td></tr><tr><td>Left radius</td><td>N-16-051</td><td>V 28654</td><td>I20-12</td></tr><tr><td>Right Mc III+IV</td><td>N-17-017</td><td>V28695</td><td>I17-10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Methods, terminology and abbreviations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The suprageneric classification of Bovidae is after Pilgrim (1939), Sokolov (1953), Gentry (1992, 2010), McKenna and Bell (1997), Vrba and Schaller (2000), Grubb (2001), Matthee and Davis (2001), Kuznetsova and Kholodova (2003), Hassanin et al. (2012); the taxonomy at generic level is after Groves (2014) and Castelló (2016); the classification of the local Antilopinae and Caprinae is after Jiang (2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The osteological terms are after Reshetov and Sukhanov (1979), Gee (1993), Brown and Gustafson (1979). The terms of tooth nomenclature are after Janis and Lister (1985), Gentry (1992,2010), Bärmann and Rossner (2011). Upper case letters are used for upper, and lower case letters for lower teeth respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The specimens were measured according to the methods used by von den Driesch (1976). The measurement of horn-core is after Young (1932) and Ratajczak et al. (2016). The measurements were taken with sliding calipers in millimeters.The internal structures of the horn-cores were examined by using the CT scan machine (450ICT) at IVPP. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The biochronological framework follows Tong et al. (1995) and Qiu (2006). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Institutional and locality abbreviationsCAS, Chinese Academy of Sciences; GWL, Gongwangling; HPICR, Hebei Province Institute of Cultural Relics; IOZ, Institute of Zoology, CAS; IVPP, Institute of Vertebrate Paleontology and Paleoanthropology, CAS; MNHN, Muséum National d'Histoire Naturelle; NM, Nihewan Museum; NNNRM, Nihewan National Nature Reserve Management; NWIPB, Northwest Institute of Plateau Biology, CAS; OV, Prefix to the catalog numbers of extant specimens in IVPP; SIZ, Shaanxi Institute of Zoology; SSMZ, Shanshenmiaozui; TNHM, Tianjin Natural History Museum; V, Prefix in the catalog numbers for vertebrate fossils in IVPP; XCL, Xiaochangliang; XSG, Xiashagou; YS, Yushe. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Morphological abbreviations APD,anteroposterior diameter; TD, transverse diameter; Mc, metacarpal; Mt, metatarsal. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Systematic paleontology ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1Spiral-horned antelope Class MammaliaLinnaeus,1758 Order Artiodactyla Owen, 1848 Suborder Ruminantia Scopoli, 1777 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "InfraorderPecoraLinnaeus,1758 FamilyBovidae Gray,1821 Subfamily Antilopinae Baird,1857 ( $\\scriptstyle \\overbrace { = }$ Gazellinae Coues,1889) Tribe Antilopini Gray,1821 Genus Spirocerus Boule & Teilhard de Chardin,1928 Spiroceruswongi TeilharddeChardin&Piveteau,1930 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials See Table1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Skull bones: One partial adult skull (Fig.2A) and one partial juvenile skull (Fig. 2B1-3) can be referred to the the species S. wongi. The adult one has very limited frontal bone, but with almost complete horn-cores of both sides.In front view, the frontal bone shows two moderately developed supraorbital pits which accommodate the two prominent supraorbital foramina which are connecting directly to the anterosuperior corner of the orbit and each has a very large internal opening, even larger than in an ox. The eye socket is very large and deep, and has a trench-like roof with flat superior wallrather than domed as in other taxa.The horn is very close to the orbit,which is only $3 0 ~ \\mathrm { m m }$ apart; the postorbital constriction is also obvious. The cranial width at the horn bases is $1 4 9 . 0 ~ \\mathrm { m m }$ ，and the two horn-cores are $6 5 . 6 ~ \\mathrm { m m }$ apart at the base.The frontal sinus (pneumatization) is also quite developed, but the diverticulum doesn't extend to the cornual process (Fig. 3A2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3c3dc3ffaf9f0f646785545e85951fd6d5b5a75e685cd051f614bb6e7cf87ce.jpg",
+        "img_caption": [
+            "Fig.2 Partial skulls, jaw bones and teeth of Spirocerus wongi (A-D)and Ovis shantungensis (E) from SSMZ A-D. Spirocerus wongi: A. partial skull with horn-cores (IVPP V 28650), B1-B3. juvenile maxilla with DP2- M1 (V 28651),C1-C4.left mandible with $\\mathrm { d } { \\mathsf { p } } 2 { \\mathsf { - m } } 1$ (V 28652.1),D1-D4. partial right mandible with $\\mathsf { p 4 - m 3 }$ (V 28653); E1-E2. Ovis shantungensis,maxila with left DP4-M1 and right DP2-4 and M1 (V 28693) A.anterior view; B1,E1. palatal views; B2,C1,D1,E2.buccal views; C2,D2.lingual views; B3,C3-4, D3-4. occlusal views. The unmarked scale bars equal $2 0 \\mathrm { m m }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Horn-core: The horn-core is a typical form of Spirocerus wongi, with rugose surface and only one spiral carena (or carene or keel) (Fig. 3B1-4),rather than two as in S. pei and S. kiakhtensis. The carena derives from the basal anterior part and heteronymously spirals upwardly (the left horn spirals anticlockwise but the right one spirals clockwise) and ends near the tip after finishing one complete revolution. The pedicle is quite short. The interior of the horn-core is nearly solid but with a complicated minor canal system (Fig.3A1-2, C1-5), which resembles those of the true gazelles. The cross-section of the horn-core is elliptical (Fig. 3C1-5). Around the basal part of the horn-core, there are many nutrient foramina, among which the ones above the orbit are the largest (Fig. 3B2). The dimensions of the horn-cores are shown in Table 2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a1a9395ab15f9196e64b0d653a35b663c9d2842df850fef33b8e5d5b70ab96a.jpg",
+        "table_caption": [
+            "Table 2Measurements of the horn-cores of Spirocerus wongi,compared with related species (mm) "
+        ],
+        "table_footnote": [
+            "\\* Measured by the present authors from the figures of Teilhardde Chardinand Piveteau (1930);&calculated by the present authors;\" juvenile individual. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Dimensions</td><td>S.wongi</td><td>S.wongi</td><td>S.wongi</td><td>S.peii</td><td>S.kiakhtensis</td></tr><tr><td>This paper</td><td>PTeilbar(19d0)</td><td>Ba2019].</td><td>Young (1932)</td><td>Dong et al. (2009)</td></tr><tr><td>Total length</td><td>283</td><td>290</td><td>264.3-353.8</td><td>270</td><td>151-160.9#</td></tr><tr><td>Diameter of horn-core base (APD)</td><td>64.0-64.2</td><td>57-60</td><td>51.6-80.2</td><td>55</td><td>35.9#</td></tr><tr><td>Latero-medial diameter of horn core base (TD)</td><td>49.3-51.4</td><td></td><td>43.5-54.5</td><td></td><td></td></tr><tr><td>Angle of divergence of horn-cores</td><td>50°</td><td>570*</td><td>about 70°</td><td></td><td>500#</td></tr><tr><td>Cranial width at the horn bases</td><td>149.0</td><td>144*</td><td>134.1</td><td></td><td></td></tr><tr><td>Minimum distance between inner margins of horn processes</td><td>65.6</td><td>100*</td><td>51.7</td><td></td><td>64.2#</td></tr><tr><td>Distance between the supraorbital foramina (upper margin)</td><td>86.7</td><td>68.5*</td><td>63.2</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Maxilla: One juvenile maxilla with DP2-4 and unfully erupted M1 on both sides (Fig. 2B1). Except the trench-like anterior part, the palatal surface is quite flat; the palatal widths between DP2, DP3,DP4 and M1 are 37.0, 47.1, 49.0 and $5 8 . 9 \\mathrm { m m }$ respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mandible: One partial adult mandible with $\\mathsf { p 4 - m 3 }$ (Fig. 2D1-4) and two juvenile partial mandibles (Fig. 2C1-4) are referred to the species S. wongi. The two juvenile mandibles (IVPP V 28652.1 and V 28652.2) should belong to the same individual because of their exactly similar dental features. One of the juvenile mandible (V 28652.1) retains most of the mandibular body and the ramus,but lacks the angular process and the tip of the coronoid process. The adult partial mandible has the mandibular condyle completely preserved.All the mandibular specimens have no speciality except the moderately pachyostosed mandibular body (Fig. 2C3,D3), which is similar with those of the extant sumatran serows (Capricornis sumatraensis). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Deciduous upper teeth (Fig. 2B3; Table 3): All of the deciduous upper cheek teeth are completely molarized except DP2.DP2 is elongated, but the posterior lobe is relatively reduced and the posterior fossette (or infundibulum) is shallow. The DP3 has much more wider but shorter posterior lobe relative to the anterior one,and the two fossettes are V-shaped in occlusal view; the mesostyle rib is quite pronounced,the lingual wall of the first lobe is roundish.The DP4 has a much more wider anterior lobe relative to the posterior one; the mesostyle rib is also quite pronounced; the lingual wall of the posterior lobe is more roundish relative to the anterior one.The metacone rib is less developed in all three kinds of tooth. The dimensions of the deciduous teeth are shown in Table3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Deciduous lower teeth (Fig. 2C1-4): The dp2 is less complicated; the crown has a rectangle outline but the front portion becomes slightly narrower; the paraconid is crest like; there is no parastylid; the protoconid is robust; the metaconid and hypoconid are equally developed; the entoconid is not developed. Between the protoconid and the metaconid, there exists a shallow valley. The dp3 is much more complicatedly constructed,and larger than dp2 (Fig. 2C4); the outline is in narrow trapezoid, with the lingual side concave and the narrow portion toward anterior; in front of the paraconid there is a parastylid; the metaconid is very elongated and extended backwards; the valley between parastylid and paraconid is closed, but the valley between the paraconid and metaconid is open; the buccal wall is flat but slightly convex,and the hypoflexid is quite shallow. The dp4 is the most complicated and longest tooth which has three lobes,each lobe has a separate infundibulum, namely anterior, posterior and third fossettid respectively, and the three lobes are nearly equally developed but the second one is slightly more expanded; according to the nomenclature by Bärmann and Rossner (2011), the anterior lobe consists of anterobuccal conid and anterolingual conid, the middle lobe consists of protoconid and metaconid,and the posterior lobe is composed of hypoconid and entoconid respectively; on the buccal side, there is no basal pillars. The lingual cuspids, the parastylid, mesostylid and metastylid are well developed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cdd3ef2cca9593bf75dd32741d8b0e6097ade3fed8bb7e127ba2fc9b41b9f6c.jpg",
+        "img_caption": [
+            "Fig.3CT scan images and 3-D reconstructions of the horn-core of Spirocerus wongi from SSMZ(IVPP V 28650) A1-A2. CT scan images showing the general canal system (A1) and a longitudinal slice (A2); C1-C5.CT scan slices showing the changes of cross sections and the canal system at different levels; B1-B4.CT image reconstruction of the right horn-core in anterior (B1),lateral (B2),posterior (B3) and medial (B4) views "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Permanent lower teeth (Fig. 2D1-4; Table 3): Only one partial mandible preserves ${ \\mathfrak { p } } 4$ to $\\mathbf { m } 3$ . The $\\mathsf { p 4 }$ is very advanced in well developed protoconid and metaconid, but other cuspids are extremely reduced; metaconid is column-like but connects with paraconid mesially by a narrow bridge, it doesn't contact protoconid; there is a narrow and deep groove between metaconid and entoconid. The ml and $\\mathrm { m } 2$ are very similar in morphology, except the latter is longer and has more developed goat fold; the infundibulums are very narrow; the lingual cuspids are compressed linguobuccally and the lingual wall is quite flat. The m3 has three lobes,the front two of which are very similar to $\\mathrm { m } 2$ in shape and size; the third lobe has no infundibulums and is linguobuccally compressed. From the lingual aspect, prominent parastylid and entostylid ribs on $\\mathrm { m } 2$ and $\\mathbf { m } 3$ can be seen, and even a rib at the linguo-distal corner of hypoconulid lobe can also be observed, but the mesostylid rib is only slightly developed at the top part of the crown. From the buccal view, no basal pillars can be observed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Postcranial bones: See Table 1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f80c86cc1cc445a48c0153e0c9fdf824dd75c2e38e9e819a8d1f00c3f7b39114.jpg",
+        "table_caption": [
+            "Table 3 Measurements of the teeth of Spirocerus wongi, compared with related species(mm) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Species</td><td>S. wongi</td><td>S.wongi</td><td>S.wongi</td><td>S.peii</td><td>S.kiakhtensis</td><td>S.kiakhtensis</td><td>shanOwuigsensis</td></tr><tr><td colspan=\"2\">Sources</td><td>This paper</td><td>Teiveard& (1930)</td><td>Bai019a].</td><td>Young (1932)</td><td>Boule et al.</td><td>Do2get al.</td><td>This paper</td></tr><tr><td>DP2</td><td>L</td><td>14.2-14.5</td><td>13</td><td></td><td></td><td></td><td>10.5</td><td>9.5</td></tr><tr><td></td><td>W</td><td>10-10.2</td><td>8</td><td></td><td></td><td></td><td>7.7</td><td>7.4</td></tr><tr><td>DP3</td><td>L</td><td>19.9-20.3</td><td>19-23</td><td></td><td></td><td></td><td>12.5</td><td>14.8</td></tr><tr><td></td><td>W</td><td>13.6-14.2</td><td>10-12</td><td></td><td></td><td></td><td>11.1</td><td>12.8</td></tr><tr><td>DP4</td><td>L</td><td>23.5-23.7</td><td>22-24</td><td></td><td></td><td></td><td>16.5</td><td>18.0-18.5</td></tr><tr><td></td><td>W</td><td>16.8-18.1</td><td>12</td><td></td><td></td><td></td><td>13.6</td><td>15.1-15.5</td></tr><tr><td>DP2-4</td><td>L</td><td>56.2-57.4</td><td>52</td><td></td><td></td><td></td><td>39.4</td><td>41.9</td></tr><tr><td>M1</td><td>L</td><td>26.6-26.7</td><td>19?</td><td></td><td></td><td></td><td>19.5-24.9</td><td>24.0-24.3</td></tr><tr><td></td><td>W</td><td>15.3</td><td>15?</td><td></td><td></td><td></td><td>18.2-23.9?</td><td>15.7-15.8</td></tr><tr><td>dp2</td><td>L</td><td>10.5-10.8</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>W</td><td>6.6-6.7</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>dp3</td><td>L</td><td>16.4-16.6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>W</td><td>9.2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>dp4</td><td>L</td><td>28.2-28.5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>W</td><td>11.3-11.6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p4</td><td>L</td><td>13.6</td><td>13-15</td><td>17.1</td><td>12</td><td>15</td><td></td><td></td></tr><tr><td></td><td>W</td><td>8.4</td><td>9</td><td>8.3</td><td>9</td><td>9</td><td></td><td></td></tr><tr><td>ml</td><td>L</td><td>17.9</td><td>13-20</td><td>17.2</td><td>15</td><td>25？</td><td></td><td></td></tr><tr><td></td><td>W</td><td>12.3</td><td>11-14</td><td>10.7</td><td>11</td><td>11</td><td></td><td></td></tr><tr><td>m2</td><td>L</td><td>23.2</td><td>21-26</td><td>21.6</td><td>21</td><td>26</td><td></td><td></td></tr><tr><td></td><td>W</td><td>12.6</td><td>12-13</td><td>10.7</td><td>11.5</td><td>13</td><td></td><td></td></tr><tr><td>m3</td><td>L</td><td>32.2</td><td>32</td><td>30.2</td><td>32</td><td></td><td></td><td></td></tr><tr><td></td><td>W</td><td>11.7</td><td>11-13</td><td>10.1</td><td>12</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mc III+IV: The Mc $\\mathrm { I I I { + } I V }$ (Fig.4A1-3) is a kind of short but robust one,with the distal end expanded. The cranial aspect is more rounded on the shaft while the caudal surface is more flat. At both the proximal and distal ends the medial side or Mc II looks prominently thicker than the lateral side.In proximal view, there are two large articular facets,the larger facet or magnum trapezoid facet is relatively wide and has a curved edge, which is articulated with the fused 2nd and 3rd carpals; the smaller facet or unciform facet is triangular and articulates with the 4th carpal; between the two facets there exists a groove or depresson. The posterior medial tubercle is not developed. In anterior view, the vascular groove (or metacarpal gully) is nearly unobservable and the nutrient foramen is tiny. In posterior view, the shaft has a quite flat surface, except near the proximal end, there is a depression; a small nutrient foramen exists near the distal articular surface.The dimensions are shown in Table 4. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Naviculo-cuboid (IVPP V 28656.1): Except the astragalus and calcaneum, a complete set of right tarsal bone was preserved, which still articulates with the metatarsal bones (V 28656.4) in situ.In proximal view, the articular surface consists of a large trochlear facet with a pair of depressions and a distinct posterior beak-like projection (or internal process) at the medioposterior corner,but the internal process is not developed; a narrow sloped belt-like facet occupies the lateroposterior part, which articulates with the calcaneum; there is a tiny foramen at the bottom of the lateral depression which corresponds with the lateral condyle of the distal trochlea of the astragalus. In distal view, the general outline of the distal surface is that of a rounded quadrilateral with two large anterior articular facets and two small posterior facets;the anteromedial facet is articulated with the fused 2nd and 3rd tarsals; the smallest facet articulates with the 1st tarsal; the other two lateral facets articulated with the Mt $\\mathrm { I I I + I V }$ directly. In anterior view, the facet articulated with fused 2nd and 3rd tarsals is higher in position than other distal facets; the calcaneal facet is sloping upward anteroposteriorly. In posterior view, there is a large projection at the posteromedial corner; the posterior surface is not flat and with some small nutrient foramina; there exists a notch between the medial and the calcaneal facets, and the later extends downward along the back wall (Fig. 4B4). The TD is $4 3 . 4 \\mathrm { m m }$ ,and the APD is $4 3 . 8 \\mathrm { m m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The fused $2 { \\bmod { + 3 } } { \\bmod { } }$ tarsals (IVPP V 28656.2) (Fig. 4B2-3): Its anatomical position is under the anteromedial portion of the naviculo-cuboid. The proximal articular facet is concave, but the distal facet is convex. Its form is anteroposterior elongated, and its greatest dimension is $2 9 . 5 \\mathrm { m m }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The lst tarsal (or medial cuneiform): Short and pillar-like, with facets at both ends; the navicular facet is larger but depressed,and the Mt II facet is smaller but flat. Its anatomical position should be under the beak-like projection of naviculo-cuboid (Fig. 4B2-3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mt $\\mathrm { I I I { + } I V }$ (Fig. 4C1-3): In general view, the Mt $\\mathrm { I I I { + } I V }$ has the very proximate length as the Mc $\\mathrm { I I I + I V } _ { \\mathrm { : } }$ ，which is quite different from the common ungulates whose metatarsals are prominently longer than metacarpals belonging to the same individual; furthermore, the distal end expands more sharply relative to the shaft. In proximal view, the proximal surface has a polygon outline,and consists of four articular facets; the two anterior facets are large and kidney-shaped, but the two posterior facets are small and elongated. The mediolateral dimension of the proximal end is slightly larger than the anteroposterior dimension. The two large articular facets meet at the front middle part but diverge posteriorly; both of them have longer anteroposterior dimensions.The anteromedial facet articulates with the fused 2nd and 3rd tarsals; the anterolateral facet articulates with naviculo-cuboid. There are two smaller facets located near the posterior margin. The posterolateral facet has larger mediolateral dimension and articulates with naviculo-cuboid.The small roundish facet articulates with the 1st tarsal.The dimensions are shown in Table 4. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3cc88d10eddbcbf550a2ad4a57ca7202f20d9adc22ab56db0d81a07a817da2a.jpg",
+        "table_caption": [
+            "(uu) ",
+            "ynrrrr ereitrrrer nrlrtiltsrisgiserrreleirgl lilet ",
+            "reeerleer reeitlie netlrtgallr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"8\">Mc III+IV</td></tr><tr><td>Taxa</td><td>Sources</td><td>Length</td><td>Proximal</td><td>Praximal</td><td>Distal</td><td>Distal APD</td><td>Mishft Midsaft</td><td></td><td>Inwidtftalengs is</td></tr><tr><td></td><td>Teilhard and Piveteau (1930)</td><td>231-248</td><td>72-74</td><td></td><td>65</td><td></td><td></td><td></td><td>28-29</td></tr><tr><td>Bison palaeosinensis</td><td>Tong et al. (2018)</td><td>226-233</td><td>60-67.8</td><td>35-38.6</td><td>59-63.5</td><td>34.2-34.7</td><td>36-39.5</td><td>26-27.6</td><td>26-28</td></tr><tr><td>Megalovis latifrons</td><td>Viret (1954)</td><td>200</td><td>56.5</td><td></td><td>60</td><td></td><td></td><td></td><td>30</td></tr><tr><td>Megalovis latifrons</td><td>Radulesco and Samson (1962)</td><td>192</td><td>56</td><td></td><td>64</td><td></td><td>35.7</td><td></td><td>33.3</td></tr><tr><td>Megalovis piveteaui</td><td>This paper</td><td>212</td><td>59</td><td>37</td><td>59</td><td>32</td><td>34</td><td>25</td><td>27.8</td></tr><tr><td></td><td></td><td>192-204</td><td>51-57</td><td></td><td>54-61</td><td></td><td></td><td></td><td>28-30#</td></tr><tr><td>Megalovis wimani</td><td>Schaub (1937)</td><td>185</td><td>52</td><td></td><td>57</td><td></td><td></td><td></td><td>30.8#</td></tr><tr><td>Ovis shantungensis</td><td>This paper</td><td>221</td><td>41</td><td>29</td><td>42</td><td>27</td><td>26</td><td>20</td><td>19</td></tr><tr><td></td><td>Teilhard and Piveteau (1930)</td><td>231-233</td><td>42-44</td><td></td><td>42-44.5</td><td></td><td></td><td></td><td>18-19</td></tr><tr><td>Ovis ammon</td><td>Fedosenko and Blank (2005)</td><td>218</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ovis shangi</td><td>Teilhard and Young (1936)</td><td>150</td><td>26</td><td></td><td>28</td><td></td><td>17</td><td></td><td>18.7</td></tr><tr><td>Spirocerus wongi</td><td>This paper</td><td>175</td><td>47</td><td>32</td><td>56</td><td>29</td><td>31</td><td>19</td><td>32</td></tr><tr><td>Spirocerus kiakhtensis</td><td>Sokolov (1959)</td><td>170</td><td></td><td></td><td>60.9#</td><td></td><td>35.0#</td><td>22.0#</td><td>35.8</td></tr><tr><td>Gazella cf. G. lydekkeri</td><td>Zhang and Yang (2016)</td><td>141</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Gazella sinensis</td><td>This paper</td><td>180</td><td>22</td><td>17</td><td>23</td><td>16</td><td>12.5</td><td>11.3</td><td>12.8</td></tr><tr><td>Gazella subgutturosa</td><td>Demircioglu and Ince (2020)</td><td>146.0(F)</td><td>18.4(F)</td><td></td><td>18.0(F)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>150.7(M)</td><td>19.6(M)</td><td></td><td>18.9(M)</td><td></td><td>10.5(F) 11.4(M)</td><td>9.7(F) 9.9(M)</td><td></td></tr><tr><td>Procapra przewalskii</td><td>Boule et al. (1928)</td><td>142</td><td></td><td></td><td>18-21</td><td></td><td></td><td></td><td>12.7-14.8</td></tr><tr><td>Procapra gutturosa</td><td>Boule et al. (1928)</td><td>180</td><td></td><td></td><td>23</td><td></td><td></td><td></td><td>12.8</td></tr><tr><td> Procapra gutturosa</td><td>This paper (OV 1124)</td><td>146</td><td>15.5</td><td>8.0</td><td>16.7</td><td>12.1</td><td>8.7</td><td>7.0</td><td>11.4</td></tr><tr><td>Saiga tatarica</td><td>Prat (1966b)</td><td>153</td><td>25</td><td>18.5</td><td>25.5</td><td></td><td>13.5</td><td></td><td>17.7</td></tr><tr><td>Capra ibex</td><td>Prat (1966a)</td><td>126-155</td><td>28.5-38.5</td><td>20.5-27</td><td>31.5-43</td><td>19-24</td><td>20-27.5</td><td></td><td></td></tr><tr><td></td><td></td><td>(139.2)</td><td>(33)</td><td>(23.8)</td><td>(36.7)</td><td>(21.3)</td><td>(23.8)</td><td></td><td></td></tr><tr><td>Praeovibos priscus</td><td>Kahlke (1964)</td><td>193.7#</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Ovibos moschatus</td><td>Kahlke (1961)</td><td>189.9#</td><td>62.8</td><td>36.5#</td><td>69.1#</td><td></td><td>44</td><td></td><td>36.4</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Spirocerus wongi</td><td>This paper</td><td>173.0</td><td>Mt III+IV 36.9</td><td>34.0</td><td>45.3</td><td>26.1</td><td>22.0</td><td>21.5</td><td>26.2</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c12ca10f5fcec70dbf3f9710e4e9e2b92b062c25e2c693fe99e3d316eb4a5c2a.jpg",
+        "img_caption": [
+            "Fig.4Postcranial bones of small and medium-sized bovids from SSMZ A-C.Spirocerus wongi:A1-A3.left Mc $\\mathrm { I I I { + } I V }$ (IVPPV 28655), "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B1-B4. right naviculo-cuboid+lat-mid+medial cuneiforms (V 28656.2-3), C1-C3. right Mt III+IV(V 28656.4); D-I. Gazella sinensis: D1-D3. partial left humerus (V 28687), E1-E4.left Mc III+IV(V 28688),F. distal epiphysis of left tibia (V 28691),   \nG1-G2.left astragalus (V 28692),H1-H2.left naviculo-cuboid (V28690),I1-I3.3rd phalanx (V 28689); J-K. Megalovis piveteaui: J1-J4.left radius (V 28654), K1-K4. right Mc II+IV(V 28695); L1-L4.Ovis shantungensis: left Mc II+IV(V28694).A1,C1,D1,E1,G1,J1,K1,L1.anterior views; A2, B4, C2,D2,E2,G2,J2,K2,L2.posterior views; A3,B1, C3,E3,H1,J3,K3,L3. proximal views; B2,D3,E4,F,H2,J4,K4,L4.distal views; B3. medial view; I1.lateral view; I2.interdigital view;   \n3.volar view.The arrows indicate the lateral projection of the radius.The unmarked scale bars equal $2 0 \\mathrm { m m }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In posterior view, a very small nutrient foramen positioned slightly of-center some way under the posterior apophysis. Very shallow central trough only can be observed at the midshaft. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "At the distal end, there are two distal condyles whose intercondylar margins are parallel. On the anterior surface, the vascular groove (or midline dorsal groove) is wide but shallow and opens to the intercondylar groove. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Comparison and discussion The degree and direction of horn-core torsion, the type of spiraling and the development and position of the keels are the crucial characters to classify the fossil spiral-horned antelopes (Kostopoulos,2004).In the early publications,the torsion direction (clockwise or anticlockwise) always means for the right horn (Pilgrim,1939). Moreover, the recent publications prefer to use “homonymous” and “heteronymous\",if the left horn twists clockwise, the horns are termed homonymous,or else it's heteronymous. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Spirocerus was established by Boule and Teilhard de Chardin in 1928,and included the specimens from Sjara-osso-gol ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Salawusu) of Nei Mongol (Inner Mongolia) to it. Later on, the similar fossils from Nihewan (Teilhard de Chardin and Piveteau,193O) and Yushe (Teilhard de Chardin and Trassaert, 1938) also were referred to this genus. Spirocerus was originally included into the subfamily Tragelaphinae by Teilhard de Chardin and Trassaert (1938),later on, it was referred to the subfamily Caprine (Sokolov,1953); while currently it is usually placed in the subfamily Antilopinae (McKenna and Bell, 1997; http://taxonomicon.taxonomy. nl/TaxonTree.aspx?src $\\scriptstyle : = 1$ 0&id=68446). More recent assignment is to Bovinae (Bai et al., 2019). Up to now, the classifications of Spirocerus at the species level are mainly based on horncore characters,which caused quite a lot of confusions. Kahlke (1999) proposed that the most primitive Spirocerus with only anterior carena should be referred to S. wongi. Concerning the bicarinate forms with longer and slender horn-cores,the stratigraphically older ones can be referred to S. kiakhtensis peii, while the younger materials with correspondingly shorter and more massive horn-cores to S. kiakhtensis kiakhtensis. Moreover, all of the species of Spirocerus have heteronymous spiraled horns. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In China, three species were recognized, namely S. wongi, S. peii and S. kiakhtensis; the former one only has one spiral carena while the latter two have two spiral carenas on each horn-core (Teilhard de Chardin and Trassaert,1938). This genus mainly limited to northern China, Trans-Baikal region and the central Asian countries. From S. wongi via $S .$ peii to $S _ { \\mathbf { \\alpha } }$ （号 kiakhtensis,the size is getting smaller and the horn-cores are becoming straighter. Moreover, the current knowledge is mainly about the horn-cores, whereas the cranial features of the genus Spirocerus is still unknown; the dental and postcranial characters are still insufficiently studied yet, because no dentition was found attached to a skull with horn-cores in the fossil record. Relative to its cranial size, Spirocerus should have big postcranial bones, but the partial skeleton associated with skull materials of S. kiakhtensis discovered near Ulan-Ude of Russia showed that the limb bones of this kind of animals are quite short but robust; therefore, it was inferred that Spirocerus has big skullbut short limbs and similar body-build as the extant muskox does (Sokolov, 1959). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It has to be indicated that the maxillary bone described by Teilhard de Chardin and Piveteau (1930:pl. XII, fig. 1) (current catalog No. NIH 136) should be rechecked, because it seems that the DP4 was mistaken as M1, which can be easily verified by a CT scanning. Furthermore, the Nihewan limb bones identified as S. wongi and Ovibovine gen indet. respectively by Teilhard de Chardin and Piveteau (193O） should be reconsidered; the metapodials referred to $S .$ wongi (pl. XI: figs.2 and 4) are too long, they should belong to Ovis shantungensis; the metapodials referred to Ovibovine gen indet. (pl. XII: figs. 3 and 4) have the similar form and size as those of M. piveteaui. The metacarpal from SSMZ described in this paper has almost exactly the same form and same size as that of S. kiakhtensis from the Trans-Baikal region (Sokolov, 1959). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The lower teeth from SSMZ are different from those of Xiashagou in their slightly less developed goat folds and lack of the basal pillar in ml. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It's necessary to say that until now, none of the dental materials ever discovered for S. wongi was directly associated with the horns; that's to say all of the previous and current descriptions about the teeth of S.wongi can be open to questions. It's lucky enough that some cranial specimens of S. kiakhtensis have their horn-cores and teeth preserved jointly (Dong et al.,2009). These specimens are very crucial for the morphological studies of the extinct Spirocerus. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Spirocerus has developed frontal sinuses, but they do not extend to the horn-core at all (Fig. 3A2). According to Farke's paper of 2010, the frontal sinus doesn't always have phylogenetic significance. But the present authors think it's more important if the frontal sinus extends to the horn-core,i.e.if there is a cornual diverticulum of the frontal sinus or if the horn-core is hollowed. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Spirocerus is typical for its spiral and straight horn-cores, but sometimes it could be confused with Antilospira zdanskyi; some of the specimens (IVPP V 24483.4, V 25878.1-2) referred to Spirocerus (Bai et al., 2O19) possibly belong to Antilospira or some other taxon because of their un-straight horn-cores and the different carena feature (with prominent groove alongside the spiral carena). Hermier et al. (2O20) proposed that the horn-cores in Antilospira are variably inclined backwards and divergent but their surface usually shows much deeper longitudinal grooves. Antilospira is the most similar contemporaneous taxon with Spirocerus, and it was also uncovered in the Nihewan Basin, but it can be distinguished from the latter by the following characters: un-straight horn-cores, usually with two grooved and slowly twisting carenas (Teilhard de Chardin and Trassaert, 1938). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The comtemporaneous genus Gazellospira also has similar horn-cores,but it was only discovered in Europe and northern Asia not including China.Furthermore, Gazellospira has two spiraled keels of which the posterior one is the sharpest (Hermier et al., 2O20),which are less straight as those of Spirocerus. On the other hand, the metapodials of Gazellospira are completely different from those of Spirocerus,the formers' are much longer and slender (Hermier et al.,2020; Vislobokova et al.,2020). Furthermore,the lower p4 of Gazellospira has its lingual valleys open (Duvernois and Guérin,1989),while the anterior valley is closed in Spirocerus. Although the intraspecific variations in cranial and postcranial features have been recognized between different sexes and different latitudes for Gazellospira torticornis,its horncores and metapodials as well as the lower p4 are distinctly different from those of Spirocerus. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The other comtemporaneous genus Pontoceros is typical for its homonymous torsion of horn-core, which is different from other Early Pleistocene spiral-horned antelopes, including Tragelaphus, Gazellospira and Spirocerus (Vislobokova and Titov, 2020). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Concerning the taxonomic position of the extinct Spirocerus, it's still controversial. Its large supraorbital foramina (generally sunken in large frontal depressions) and horn-core characters (straight, solid, moderately spaced, twisted clockwise and situated directly over the orbits） support an atribution to the subfamily Antilopinae,but its solid and quite divergent horn-core,lack of post-cornual fossa, short but stout metapodials and the limb proportions share more similarities with the ovibovines under the subfamily Caprinae. Sokolov (1959) postulated that the extinct Spirocerus should have a similar appearance as muskox (Ovibos). It's a pity that the fossil records for this animal are too few to reach a definite phylogenetic approach currently. Although some recent publication attributed Spirocerus to the subfamily Bovinae Gill,1872 (Bai et al.,2019), it seems that few morphological characters can support this proposal. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2 Chinese gazelle ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Genus Gazella Blainville, 1816 Gazellasinensis Teilhard de Chardin&Piveteau,1930 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "MaterialsSee Table1. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Skull bones: One partial adult skull(Fig. 5B1-3) and one partial juvenile skul (Fig. 5A) can be identified as Gazella sinensis. The adult specimen has partial frontal bone preserved, but with almost complete horn-cores of both sides.In front view, the frontal bone has two large supraorbital foramina which are situated in triangular-shaped depressions of the frontals (supraorbital pits) near the base of the horn pedicels and closely above the orbit, they connect directly to the eye socket and have big roundish internal openings. At the lateroposterior aspect of the basal part of the pedicle, there exists a post-cornual fossa (Fig. 5D2, 6A1). The wall of the cranial bone is very thin (Fig. 5B3). The dimensions are shown in Table 5. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Horn-core: The general characters of the horn-cores are short but with moderately long pedicle, without torsion of their axes, and the surface is decorated with longitudinal grooves or striate.In anterior view the two horns are straight and are nearly sub-parallel, i.e. the divergence angle is small $( 1 6 ^ { \\circ } - 2 2 ^ { \\circ } )$ (Fig. 5A,B1,B3); in lateral view they have a gentle backward curvature (Fig. 5D2, E). The horn-cores are solid interiorly but with many longitudinal canals, most of which open upwardly (Fig. 6A1'-A4',B1’-B3'); at the basal part adjacent to the pedicle, there are a few large foramina and the one just above the post-cornual fossa is the largest (Fig. $6 \\mathrm { A } 4 ^ { , }$ ,B3').The horn-core has a sub-circular cross section with slight transverse compression (Fig. 6Al'-A4'). The horn-cores vary in size (Fig. 5; Table 5) and the development of longitudinal grooves, which may be subject to gender and age difference. The dimensions of the horn-cores are shown in Table 5. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Mandibles: There is no peculiarity in the mandibles. They have short symphyseal length but long diastema between lower canine and p2.The mental foramen is large and lies at the midway of the diastema at the buccal aspect, but sometimes an extraordinary mental foramen will occur below p3.The mandibular depth is shallow under the premolars but becomes deep rapidly as it passes back from beneath the premolars to the molars. The angular process is moderately developed. The coronoid process is long and recurved backward distally. The mandibular condyle is highly superior to dentition. Mandibular foramen is small and the maximum height of opening is at the same horizontal level as the alveolar margin (Fig. 7C3). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Upper teeth: Only two specimens with upper teeth (IVPP V 28673 and V 28674) can be assigned to the species G. sinensis.All of the upper cheek teeth are less hypsodont. The P3 is very special in its tendency of molarization by the appearing posterior infundibulum and has greater length than width (Fig.7A; Table 6). The P4 has only one lobe but without any peculiarity except its developed styles.Each molar consists of two lobes constructed by paracone and protocone, metacone and metaconule respectively; in Ml and M2, the anterior lobe usually has larger width (buccolingual dimension), but in M3 the anterior lobe is narrower than the posterior one.The infundibulum has simple structure and the fold can be seen only in M3.No basal pillar can be observed (Fig.7A-B). ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/f36f305b67931d704b47faa34a78a259586fa18235864d27ea3dbf6b4e7a360e.jpg",
+        "img_caption": [
+            "",
+            "Fig.）Incomplete skuls ana norn-cores ol Gazella sinensis Irom SSM∠ A. partial skullof a juvenile with horn-cores (IVPP V28658); B1-B3. partial skull with horn-cores (V 28657); C1-C2.left and right horn-cores (V 28659.1,V28659.2); D1-D2. partial skullwith left horn-core (V 28667); E. partial skull with right horn-core (V 28661).A,B1, C1-2, D1.anterior views; B3. posterior view; B2.dorsal view; E.medial view; D2.lateral view.The unmarked scale bars equal $5 0 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5543b139a2be67b2714ba24178728ea5c3e09ab399dc67ffc29cd801a6f3b33.jpg",
+        "img_caption": [
+            "Fig.6CT scan images of the the horn-core of Gazella sinensis (IVPP V 28661) from SSMZ A1-A4. CT image reconstruction showing postions of the cross CT scan slices (A1'-A4); B1-B3. CT image reconstruction showing postions of the longitudinal CT scan slices (B1'-B3\") "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lower teeth: The lower premolars are less hypsodont than those of the caprinines, but complicatedly constructed, except p2 which is simply constructed and prominently smaller than the other two (Table 6).Lower p3 and p4 has the similar structure,both of them are elongated but p3 has the lingual wall open both mesially and distally (Fig. 7C4, D1, G-H), sometimes with the anterior valley partially closed (Fig.7D1; 8A); on the other hand, the p4 only has the posterior valley open, like a narrow groove (Fig. 7C4, D3, F-J; 8A) and coincides with the type 5 of p4 patterns proposed by Janis and Lister (1985). Each premolar has two roots. Lower molars are elongate and with developed goat folds,but lack basal pillars; ml and $\\mathrm { m } 2$ are very similar in size and shape; m3 has three lobes,but the third lobe has very shallow infundibulum. Molars are quite hypsodont. The ml and $\\mathrm { m } 2$ with two roots,but m3 has three roots. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lower deciduous teeth: The deciduous teeth are brachyodont (Fig. 7E2). The dp2 resembles p2 in shape; dp3 is similar with p3;while dp4 is similar with $\\mathbf { m } 3$ in having three lobes but is different in having a larger third lobe and with a basal pillar at the buccal groove between the second and the third lobe (Fig. 7E3). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Postcranials: A humerus with partial shaft and complete distal end preserved, the length of the remained part is $7 3 . 9 ~ \\mathrm { m m }$ (IVPP V 28687) (Fig. 4D1-3). In anterior view, the indentation (radial or coronoid fossa) above the articular surface is shallow; the medial edge of the trochlea is curved and with the upper portion inclined laterally; at the lateral two-ffths part of the trochlear surface, there exists a sagittal ridge whose lower part is nearly vertical but with the upper part slightly inclined laterally; the lowest part of the distal articular surface occurs at the lateral side; there is a longitudinal trench at the middle part of the articular surface;below the articular surface at the medial side, the medial epicondyle can be observed. In posterior view, the shaft has a very straight medial margin and a nutrient foramen at the lateral aspect can be seen; the olecranon fossa at the distal end is very deep; the medial epicondyle extends much more downward than the lateral one. The distal APD is 27.3 mm; the distal TD is $2 9 . 7 \\mathrm { m m }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4419da201c9637628712b1505e22587931c4da8b30d9a6ad4f1e8de55c09356.jpg",
+        "table_caption": [
+            "9981 195587758695586299586655865558611558675581451 ",
+            "rnnlgrrireeeleegrse 5 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Greatest breadth across orbits: ectorbitale-ectorbitale</td><td>>81.8</td><td>>80.9 35.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Width between supraorbital foramina</td><td>30.9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Frontal angle</td><td>34°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Angle of divergence of horn-cores Width between horns</td><td>16°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>65.8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Minimumdistance betweeninermargis fhor</td><td>23.2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>27.6</td></tr><tr><td>Diameter of horn-core base (APD)</td><td>28.4</td><td>24.9</td><td>26.3</td><td>26.6</td><td>27.2</td><td>27.0</td><td>27.7</td><td>25.3</td><td>28.2</td><td></td><td>25.9</td><td>21.4</td></tr><tr><td>Latero-medial diameter of horn-core base (TD)</td><td>21.3</td><td>19.5</td><td>21.3</td><td>21.4</td><td>21.3</td><td>20.8</td><td>20.4</td><td>19.6</td><td>21.7</td><td></td><td>19.8</td><td></td></tr><tr><td>Full curved length of horn-core</td><td>170</td><td>118</td><td>146</td><td>135 123</td><td>130</td><td>132</td><td>135</td><td>>101</td><td>152</td><td>131 116</td><td></td><td></td></tr><tr><td>Straight length of horn-core</td><td>160</td><td>110</td><td>132</td><td></td><td>120</td><td>117</td><td>120</td><td>>95</td><td>140</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Mc $\\mathrm { I I I + I V }$ ：A complete left Mc $\\mathrm { I I I { + } I V }$ (IVPP V 28688) (Fig. 4E1-4). In general, the bone is very slender; the cranial aspect is more rounded on the shaft and the caudal aspect is much flatter and slightly concave at the upper part; the distal epiphysis is not fused yet.In proximal view, there are two articular facets, the larger one or magnum trapezoid facet is prominently wider and deeper, which articulates with the fused 2nd and 3rd carpals; the smaller one or unciform facet is oval-like and is the articular surface for 4th carpal; between the two facets there exists a narrow ridge; no nutrient foramen can be observed at the proximal end (Fig. 4E3). In anterior view, a prominent tubercle (extensor carpi radialis insertion: Gentry, 1966: fig. 12) occurs at the cranial aspect of the proximal end; no vascular groove (or metacarpal gully） can be observed, while the nutrient foramen is clear but small and located near the epiphyseal suture; the widest portion lies at the epiphyseal suture rather than at the trochlea (Fig. 4E1). In posterior view, no prominent groove can be observed except the upper part; the articular facet for the vestigial 5th metacarpal is absent.A prominent nutrient foramen exists near the epiphyseal suture and a tiny nutrient foramen occurs at the mid-shaft (Fig. 4E2). The dimensions are shown in Table 4. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/34c1c434517426c4a99f842398cd6acc64e957b3d984ad9c283fe41014232585.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Jaw bones and teeth of Gazella sinensis from SSMZ (A-J),compared with related taxa (K-P) A. maxilla with P3-M1 (IVPP V 28673); B. maxilla with M1-3 (V 28674); C1-C4.left mandible with p2-m3 (V 28680); D1-D3.left mandible with p2-m3 (V 28681.2); E1-E2.left mandible with dp2-4 and m1-2(V28685.1),E3.detail of dp2-4; F. right p4-m3 (V 28677); G.left p3-m3 (V 28682); H. right p2-m3 (V 28675); I.left p4-m3 (V 28686); J.left p4-m3 (V 28678); K.Procapra przewalskii, right p2-m3 (horizontally flipped) (NWIPB- $0 0 0 1 1 7 2 \\mathcal { Q }$ ） L.Procapra gutturosa,left p2-m3 (NWIPB 620032); M. Gazella subguturosa, left p2-m3 (NWIPB 609001); N. Pseudois nahaur,left p2-m3 (NWIPB-KX1); O. Capra ibex,left p2-m3 (IOZ-2); P.Ovis ammon,left p2-m3 (OV 1346-2).A,B,C1,C4,D1,E3,F-P.occlusal views; C2, D2,E1.buccal views; C3,D3,E2.lingual views.The arrows indicate the variations of p4 The unmarked scale bars equal $2 0 \\mathrm { m m }$ （204号 ",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/e087244c3f8d5ae12856f6dbbc74d87977c6ab5620f71703d50cb64ff62d9aa9.jpg",
+        "table_caption": [
+            "(uu) ree irl lerci nereeetrrisirlgiserersnlrr ir rls grgerreeeenlrr ",
+            "",
+            "2)7283585135855551 38988 789880113988 71)1188 08987 66987 8L987 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>795010120282764 4925253588321 188469 525154好2954240 4846 284618107299 945287235 6459750152844804749 6432 94725366622373460 60348432066226228 938294528060 502320825500506 87501522初192242 98273412501083 6964 88100 53742 08220380</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Distal epiphysis of tibia: On the distal end (IVPP V 28691) (Fig. 4F),the articular grooves are nearly parallel to the sagittal plane of the shaft, the medial groove is narrow but longer, the lateral groove is wide but shorter; between the two grooves,there exists a sagittal ridge,and the anterior end of the ridge is beak-like and distally projected; at the anteromedial corner, there is a long projection. There are two small articular surfaces on the lateral edge for the attachment of the lateral malleolus (or distal fibula). The APD is $1 8 . 5 ~ \\mathrm { m m }$ ,the TD is 21.3 mm. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Astragalus: A complete astragalus (IVPP V 28692) is preserved (Fig. 4G1-2). In anterior view, there are two proximal trochlear ridges (or condyles),which are parallel to each other and to the sagittal plane,the lateral ridge is prominently higher and wider. Between the two proximal trochlear ridges, there exists a deep trench-like median groove.The lateral border of the trochlear condyles is straight. The distal trochlea also consists of two parts, between them is a shallow saddle-like groove. In posterior view, the posterior articular surface for calcaneum is flat to slightly convex, but with a shallow longitudinal medial groove; the lateral edge is nearly straight; the medial bottom extends further downward and becomes confluent with the distal trochlear surface. The lateral face is trench-like and with anterior and posterior rims; the anterior rim extends upward and beak-like; at the bottom, the facet for calcaneum is ovalshaped. On the medial aspect, there is no articular facet.The length is $2 9 . 2 \\ \\mathrm { m m }$ , the width is $1 7 . 2 \\mathrm { m m }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Naviculo-cuboid: A complete naviculo-cuboid bone (IVPP V 28690) is preserved (Fig. 4H1-2).In proximal view, two articular surfaces can be observed, one for astragalus, the other for calcaneum; the former consists of a pair of depressions and a distinct posterior beak-like projection (or internal process) at the medioposterior corner; the latter is a narrowly sloped belt-like facet occupies the lateroposterior part; there is a tiny foramen at the bottom of the lateral depression.In distal view, the general outline is that of a rounded quadrilateral with two larger anterior articular facets and two smaller posterior facets.The anteromedial facet is articulated with the fused 2nd and 3rd tarsals; the smallest facet articulates with the 1st tarsal; the other two lateral facets articulated with the Mt $\\mathrm { I I I + I V } .$ In anterior view, there is a large projection at the posteromedial corner, which is separated from other part by a deep notch; the facet articulated with the fused 2nd and 3rd tarsals is higher in position than other distal facets; the posterior surface is not flat. The APD is $2 1 . 6 \\mathrm { m m }$ , and the TD is $2 2 . 3 \\ \\mathrm { m m }$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The 3rd phalanx: One complete distal (or 3rd or ungula) phalanx (IVPP V 28689) (Fig. 4I1-3) was unearthed, whose general look is quite narrow. In lateral view,both the dorsal and plantar margins are nearly straight except a slight concave at the middle part of the plantar margin. In proximal view, the dorso-posterior corner is projected; the articular surface can be divided into two facets,which articulate with distal end of 2nd phalanx.In distal view, the plantar surface is nearly flat and triangular and with the acute angle toward the anterior. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Comparisons and discussionsPremolars are crucial for taxonomic identification for the gazelles,especially the tooth structures of the lower p4 which is usually regarded as the most practical tooth in taxonomic distinctions (Boule et al.,，1928; Teilhard de Chardin and Piveteau,1930; Gentry,1966; Janis and Lister, 1985; Chen,1997). Among all the Gazella species,including both extant and fossil forms,the lower p4 usually has open lingual valleys (Teilhard de Chardin and Piveteau,193O; Teilhard de Chardin and Trassaert,1938; Zhang and Yang,2016; Li et al., 2018) (Fig. 7M, 8E), except G. sinensis (Fig. 7C4, D3,F-J; 8A) and $G$ yushensis Chen, 1997; whereas the Capra species usually has the anterior valley closed in p4, i.e. paraconid and metaconid joined to form a continuous anterolingual wall (Fig. 7O), and the posterior valley sometimes is also closed. Among all the Gazella species,G. sinensis has the most complicated lower p3,some of which have the anterior valleys partially closed lower in crown, and all the cuspids and stylids are well developed, especially the parastylid is very robust,and the metaconid is the most developed relative to other compared Asian gazelles'(Fig. 8A); but most p3s have their lingual valleys open. Because of the preorbital fossa, the fossils represented by $G .$ ，sinensis were included into the genus Gazella; on the other hand, its lower $\\mathsf { p 4 }$ has closed anterior valley, which is a crucial character of Procapra; therefore, the species $G$ sinensis was considered as the direct ancestor of Procapra (Sokolov and Lushchekina,1997). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In addition to lower $\\mathsf { p 4 }$ ， there exist other crucial premolar characters to distinguish the gazelle taxa in China, e.g. Saiga tatarica usually lacks and Pantholops hodgsonii exclusively lacks p2 in their dentitions (Fig. 8F-G). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The toothrow length is rather stable than their cranial sizes among the extant gazelles in China (Fig. 9: raw data from Jiang, 2004); although the Mongolian gazelle (Procapra gutturosa) is remarkably larger in body size and cranial length than others,its toothrow length has no prominent difference. Therefore,it seems impossible to distinguish the small gazelles only based on their toothrow lengths (Fig.9); in addition,the blue sheep also has similar toothrow length with the gazelles; while the wild goat has slightly larger tooth-row length and the sheep has obviously larger tooth-row length than others (Fig. 7P). ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/daafe6664ee764fa7cbf689a8bf4e141c34baf34c623d818e16a31078aa5ecb9.jpg",
+        "img_caption": [
+            "Fig. 8 Comparison of premolar series among some Quaternary gazelle species of China A. Gazell sinensis,left p2-4,IVPP V28681.2,SSMZ; B.Procapra gutturosa,left p2-4,NWIPB 0006065, extant; C.P. przewalskii, right p2-4 (horizontally flipped),NWIPB 0o01172, extant; D.P. picticaudata,left p2-4,NWIPB 01179,extant; E.Gazela subguturosa,left p2-4,IVPP-c-05,etant; F. Saiga tatarica, right p3-4 (horizontally flipped),NWIPB S-80503, extant; G.Pantholops hodgsonii,left p3-4,NWIPB 77001, extant.All are in occlusal views "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the horn-cores are highly uniform among the gazelle species, neither the size (Boule et al.,1928: table 13) nor the form can be used independently for specific distinctions.Although the post-cornual fossa of the frontal bone is also a common character among the gazelle species under the genera Gazella and Procapra in China, both fossil and extant, while it's absent in the species of Saiga and Pantholops, that's to say post-cornual fossa can be used for taxa distinction only to some extent. Pantholops is also different from other gazelles by its obviously smaller supraorbital foramen. Up to now, no fossil records of Saiga and Pantholops have ever been reported in China. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "It's worth mentioning that the upper P3 has some kind of peculiarity in its tendency of molarization, which is a general phenomenon only occurs in some kinds of gazelle taxa, such as $G .$ subgutturosa and the species of Procapra as well as the fossil forms of Gazella. In p4 morphology, G. sinensis is closer to $P .$ przewalskii. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Concerning the horn-cores of gazelles, they are fairly uniform, not only in size, but also in form and interior structures, and usually have grooved surfaces and are nearly completely interiorly solid,i.e. without cornual diverticulums; therefore, it's almost impossible to distinguish the gazelle taxa only by horn-cores. On the contrary, the horn-cores of caprines are exclusively hollowed and diversified in shape. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The recent study in frontal sinuses and cranial pneumaticity of the bovid species shows a strong phylogenetic correlation with sinus morphology, except few exceptions (Farke, 2010). The extant species of Procapra has no frontal sinus,which is distinctly different from the Gazella species. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The metacarpal bone is prominently larger than such allied taxa, as Gazella subgutturosa and Procapra przewalskii, but with the same size as that of $P .$ gutturosa (Table 4)； in morphology, it has no peculiarity. The metapodial bone does have distinctive characters relative to those of the caprines in their extremely slenderness.Meanwhile,the BT (maximum breadth of trochlea) of the metacarpal of SSMZ specimen is $2 0 . 9 \\ \\mathrm { m m }$ ，which stands between those of the Gazella (15.1-20.1) and Procapra (21.5-21.6) (Wang et al., 2020). ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/34b00ac6bc369f2ecff8f9a34e5cdb53d92dd0bcd6f367fc0a810f1b61c0f9cd.jpg",
+        "img_caption": [
+            "Fig.9 Toothrow length and cranial size of extant gazelles in China Rawdata was employed from Jiang,2004 "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Gazelles are adapted to open and arid environment, therefore,their range,both fossil and extant, only limited to the northern part in China, and the southernmost occurrences are Xuchang Man site at Lingjing in Henan Province (Dong and Li, 2O08) and the Tuozi Cave in Jiangsu Province (Dong et al., 2007) (Fig. 1). As to the “Gazella kaihuaensis” from Zhejiang Province (Jin et al.,1994), it's an incorrect identification because of the following evidences: larger size,lack of a pedicle, horn far away from orbit, horn-cores with smooth surface rather than with longitudinal grooves, supraorbital foramen too small, small angle between horn-core and cranial roof, none of which coincides with the characters of a Gazella.The partial skull bone described by Jin et al. (1994) should belong to a serow (Capricornis). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.3 Shandong sheep ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Subfamily Caprinae Gill, 1872 Tribe Caprini Gray,1821 Genus OvisLinnaeus,1758 Ovis shantungensis Matsumoto,1926 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1930 Spirocerus wongi, Teilhard de Chardin and Piveteau,p.71,Pl.XII, figs.2 and 4 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Maxilla: One maxilla with left DP4-M1 and right DP2-M1 (IVPP V 28693) (Fig. 2E1-2) can be referred to Ovis shantungensis.The DP2 is deeply worn and the infundibulum has disappeared. The DP3 is moderately worn, with robust paracone and metacone as well as metaconule, the protocone is less developed, with robust parastyle,the posterior lobe is wider than the anterior one. The DP4 has equally developed main cusps,and the styles are also equally developed; the paracone rib is very robust, the anterior lobe is wider than the posterior one.In form, the M1 is very similar with DP4, but much bigger and more hypsodont. The dimensions of the teeth are shown in Table 3. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Metacarpal: One almost complete Mc $\\mathrm { I I I { + } I V }$ is available (IVPP V 28694) (Fig. 4L1-4). The peculiarity is its slendness, which is really unuasal for a caprine taxon. In morphology, size and proportions, it's very similar with the metacarpal of a medium-sized deer, except its less developed vascular groove and less concave midshaft posterior surface. The two large proximal articular facets form an asymmetric semicircular, between them there is a groove which opens postwardly, but the nutrient foramen in the groove is tiny. The metacarpal gully is weak; the situation of the lower nutrient foramen is unclear because of the breakage; the cranial side is more rounded. In posterior view, the shaft has a shallow but broad longitudinal depression at the upper three-fifths of the bone,and the surrounding area is quite rugose, the lower part has quite flat posterior surface; a small nutrient foramen occurs near the distal trochlea. The greatest length is $2 2 1 ~ \\mathrm { m m }$ ，which is very close to that of $O$ 、ammon ( $2 1 8 ~ \\mathrm { m m } )$ (Fedosenko and Blank, 20o5); the BT (maximum breadth of trochlea) of the metacarpal of SSMZ is $3 9 . 3 ~ \\mathrm { m m }$ ，which falls within the range of $O$ ammon ( $3 0 . 1 \\mathrm { - } 4 1 . 9 ~ \\mathrm { m m }$ (Wang et al., 2020). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Comparisons and discussionsThe DP2 and DP3 have the similar form and size as the counterparts of $O$ ，shantungensis from XSG (Teilhard de Chardin and Piveteau,193O:text-fig. 26-B), but the M1 is prominently larger than the type specimen (Matsumoto,1926). Compared with the deciduous teeth of S. wongi,Teilhard de Chardin and Piveteau (1930:text-fig. 26) had indicated their differences: S. wongi has much bigger and more elongated teeth, especially the DP3 and DP4; furthermore, it's also different from $O _ { \\ l }$ ，shantungensis in its faint cingulum-like structure at the antero-lingual part of DP3,the buccal wall is broad and flat, the lingual wall of DP2 is concave at the posterior lobe. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "According to the data of metapodials of various Ovis species, both fossil and extant, it seems wrong assignments of the metatarsal bones from Yushe Basin to Ovis cf. shantungensis (Teilhard de Chardin and Trassaert 1938:83), and from Zhoukoudian Loc.1 to Ovis sp. (Young, 1932:76), because their total lengths are only 135 and $1 4 4 ~ \\mathrm { m m }$ respectively, which are too short for an Ovis species. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.4Piveteau's giant sheep ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Tribe Ovibovini Gray, 1872 GenusMegalovisSchaub,1923 Megalovispiveteaui Schaub,1937 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1930 Ovibovine gen. indet.,Teilhard de Chardin and Piveteau,p.76-79,Pl.XII,fig.2,2a,3-4   \n1942 ?Budorcus sp.,Teilhard de Chardin and Leroy, p.82 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Radius: A nearly complete left radius (IVPP V 28654) is preserved (Fig. 4J1-4). The radius is quite massive,the body is anteroposteriorly compressed, and with the middle portion curved anteriorly. The most peculiarities lie at the two ends: the proximal end consists of three glenoid sub-fossae,which are increasing in size from lateral to medial; the proximal articular surface of the glenoid fossa has an expanded and rounded medial outline; a deep V-shaped notch occurs at the middle fossa, which articulates with the ulna.The distal end is expanded, but the articular facet is moderate in size; a pronouced and rugose ulna facet lies at the posterolateral corner, which has a sharp projection toward the lateral side (indicated by an arrow in Fig. 4J4), which is a peculiarity of Ovibos (Gromova,196O); the distal ulna is not fused to the radius.The total length is $2 7 1 ~ \\mathrm { m m }$ , the proximal width is $6 4 . 5 ~ \\mathrm { m m }$ ，the proximal depth is $3 5 . 0 \\mathrm { m m }$ ,the distal width is $6 1 . 0 \\mathrm { m m }$ ,the distal depth is $4 2 . 2 \\mathrm { m m }$ ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Metacarpal: A right anterior canon bone (Mc II+IV) (IVPP V 28695) (Fig. 4K1-4). In general, both the proximal and distal ends expand to some extent, and the metacarpal bone is moderately stout.At both proximal and anterior aspects, the medial side or Mc I looks noticeably thicker than the lateral side. The two proximal articular facets are quite flat, and a narrow groove occurs between the facets. In anterior view, the shaft is roundish, and the vascular groove (or metacarpal gully) is very narrow at the upper par but widened around the nutrient foramen. In posterior view, the proximal portion of the shaft has a medial longitudinal depression, but the lower part is flat; a prominent nutrient foramen exists near the articular surface.The dimensions are shown in Table 4. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Comparisons and discussionsBased on the fossls identified as Ovibovine gen. indet. by Teilhard de Chardin and Piveteau (1930), the species Megalovis piveteaui was established by Schaub in 1937; both the maxillary and the metacarpal bones are very similar with the species Megalovis wimani Schaub,1937,but slightly larger. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The genus Megalovis of the Villafranchian are thought by many to be similar to the ancestral form of Ovibos,if not directly ancestral (Crégut-Bonnoure,1984). Actually, Teilhard de Chardin and Piveteau (193O) had indicated the close affinity of Megalovis piveteaui with Ovibos in the following aspects: cheek teeth without basal pillars,premolars quite hypsodont (Fig. 10A), upper molars with small enamel loops between the lobes at the lingual side (Fig. 10B). Furthermore, the present authors also think the upper molars are quite elongated in crown and the upper premolars with spurs (Fig. 1OB). Although the cranial and cornual features are almost completely unknown, the close relationship between Megalovis and ovibovines is verified. On the other hand, the metapodials of Megalovis are also quite stout (Table 4), which resembles those of the recent Ovibos. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Because of the poor fossil records, the knowledge about the features of Megalovis in China is very fragmented. The species Megalovis guangxiensis Han,1987 was established based on partial jaw bones and isolated teeth from the Liucheng Gigantopithecus Cave in Guangxi. The striking differences between the species and other Megalovis species from the Palearctic Region lie in its extremely larger size and developed basal pillars as well as the dental cementum; the $\\mathbf { m } 3$ basal length of $M .$ guangxiensis can be as large as $5 0 ~ \\mathrm { m m }$ (Han, 1987),which almost represents the largest bovid tooth ever discovered in China. The present authors suggest that the fossils once attributed to the species $M .$ guangxiensis should be reconsidered, not only because they are too different from the normal Megalovis species both in size and form,but also for the far distance between them. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The teeth of Megalovis can be easily distinguished from those of Spirocerus and Ovis shantungensis in the same fauna by the characters as mentioned above; in size, they are prominently larger than those of the two latter taxa. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6cc1cf1bef09960b2e89a36ba7a064cb4d4675eec2f66f0ea8fb17c5f3b36eb.jpg",
+        "img_caption": [
+            "Fig.10Maxilla of Megalovis piveteaui (MNHN-NIH150) from Xiashagou of Nihewan A.buccal view;B.occlusal view "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Concerning the other two contemporaneous local genera of Ovibovine, Boopsis and Budorcas, they are also poorly represented in the fossil record. It's difficult to go any further to make an intensive comparison among them. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the SSMZ metacarpal bone has the most similar dimensions with those of $M _ { ☉ }$ （20 piveteaui from XSG in Nihewan (Teilhard de Chardin and Piveteau,1930) except its slightly larger size,but with almost the same stoutness index (Table 4). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5 Discussions ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.1 Distinctions of metapodial bones ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The bovid metacarpal bones unearthed at SSMZ site are quite diversified,and most of them are easy to be identified according to their size and proportion, whereas some of them are very similar to each other both in size and stoutness.Therefore,an index should be employed, that's the robusticity index or stoutness index. Concerning the robusticity index, there exist two calculation methods: one is the relative dimensions of mediolateral diaphysis width and maximum length (SD/GL) $\\times 1 0 0$ ） (Maniakas and Kostopoulos,2017), the other is the distal width/total length (Sher, 1997). Because it’s easier and more practical to measure the distal width, this paper follows Sher's (1997) method to calculate the robusticity index,i.e.(distal width/greatest length) $\\times 1 0 0$ . Based on the morphological observations and robusticity index calculations, the metacarpal bones of bovids from SSMZ site are quite clearly distinguished (Table 4; Fig. 11). ",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/3caeb3dc39f8a3eeefddfa17d139ea7650f20adac10dda3ea8869f4d532e20e1.jpg",
+        "img_caption": [
+            "Fig.11 Length VS distal width of metacarpal bones of diverse bovids The data un-included in Table 4 are from Colbert and Hooijer,1953; Scott, 1985 "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The metacarpal bone of Spirocerus wongi is the shortest and stoutest one, which is one of the crucial characters of the ovibovine taxa. In regard to the metapodial characters, it seems that Spirocerus has a closer afinity with the ovibovines rather than with the antilopines; Whereas almost all of the current publications place the genus Spirocerus within the subfamily Antilopinae or even within the tribe Antilopini together with Gazella and other gazelles. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The metacarpals of the allied taxa, Gazellospira torticornis and Pontoceros ambiguous, from Russia (Vislobokova et al.,2O2O) are much longer than those of the species of Spirocerus. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Megalovis piveteaui and Bison palaeosinensis have quite similar metacarpals both in size and proportion,the only difference is that the formers’ is slightly smaller. Moreover, the Nihewan specimens of M. piveteaui share the similar size and form with M. latifrons of European (Viret, 1954; Radulesco and Samson,1962) (see Table 4). Megalovis was referred to Ovibovini, maybe its metacarpal is the largest, but less stout, among the ovibovine taxa. $M .$ （204 piveteaui should be larger than Spirocerus wongi in body mass. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The metacarpal bone of Gazella sinensis is the most slender one among the bovid metacarpals in SSMZ fauna. The metacarpal specimens for the Pleistocene gazelle species are very rare in China, there is only one example up to date,i.e. the metacarpal of a Late Pleistocene Procapra przewalskii from Sjara-osso-gol, whose length is only $1 4 2 ~ \\mathrm { m m }$ ,but the counterpart of the extant Procapra gutturosa is $1 8 0 ~ \\mathrm { m m }$ (Boule et al.,1928). Therefore, it can be estimated that the body mass of $G$ ，sinensis is similar with that of a $P .$ gutturosa, and larger than $P .$ przewalskii and the Late Miocene species Gazella cf. $G$ ：lydekkeri whose metacarpal's length is only $1 4 1 ~ \\mathrm { m m }$ (Zhang and Yang, 2016). ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The slenderness and total length of the metacarpal of Ovis shantungensis is very similar with that of a medium-sized deer, which is much longer and slender than those of the other Caprinae taxa, such as Pseudois and Capricornis as well as Capra. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "For the extant ovibovines, the metapodials are exclusively short and robust, but for the extinct taxa, their metapodials are completely unknown except Megalovis, which is much longer than the counterparts of the living ovibovines.In quite a number of genetic studies, Naemorhedus and Capricornis were grouped with Ovibos (Hassanin et al.,2012), which makes the forms of the subtribe Ovibovina much diversified. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2The bovid assemblage of the SSMZ fauna and its chronological significance ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "In China, Nihewan Basin and Yushe Basin are the most important fossiliferous spots for Late Cenozoic bovids, but the latter's bovid fauna is much more diversified (Teilhard de Chardin and Trassaert, 1938) than the former's. In Yushe Basin of Shanxi Province, the late Cenozoic deposits were subdivided into three biostratigraphical zones from bottom to top: Zone I, Zone II and Zone III (Licent and Trassaert,1935; Teilhard de Chardin and Trassaert, 1938; Tedford et al.,1991); the Zone III shares almost all of its faunal members with the Nihewan fauna. In regard to the bovid taxa, only the advanced and relict ones of each group of Yushe Basin also appear in the Nihewan Basin; the relict elements include Gazella,Antilospira and Megalovis; the newly appeared taxa include Spirocerus, Ovis and Bison. The recently discovered fauna in Jinyuan Cave in Dalian of Liaoning Province bears a very similar bovid assemblage (Jin et al., 2O21) with the Nihewan fauna. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "In the Nihewan Basin, except Gazella cf. subgutturosa, all the bovid taxa of the XSG fauna also occur in the SSMZ fauna. Furthermore, the mandible of Antilope gen. indet. of the XSG fauna (Teilhard de Chardin and Piveteau,1930:68,fig.25) was reidentified as Hydropotes by Tong et al. (2021). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "In the SSMZ fauna, Gazella sinensis is the richest in fossil specimens, most of which are horn-cores and mandibles. Spirocerus wongi are better represented than the previous reports, especially its metapodials represent the first discovery. For Megalovis piveteaui, radius is the first time to be reported. Except a metacarpal bone, no other new anatomic elements were discovered for Ovis shantungensis. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Among the spiral horned antelopes, Spirocerus wongi shares the same chronology with Antilospira of the local area and Gazellospira species of central Asia and Europe, which is the Late Pliocene to the Early Pleistocene and no younger than $1 . 6 \\mathrm { M a }$ (Hermier et al., 2020). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The Ovis shantungensis in Nihewan Basin used to be regarded as the earliest record of Ovis until the recent reports of the Early Pliocene Ovis sp. from Udunga in the Trans-Baikal region of Russian Siberia (Vislobokova et al.,1995; Vislobokova, 2008). The horn-cores of O.shantungensis are less stout than the later $O$ 、ammon (Bohlin,1938),and it's almost certain that $O _ { \\ l }$ . shantungensis indicates an Early Pleistocene age. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the Nihewan fauna and other Early Pleistocene faunas in northern China correspond with a stage of decline of the spiral-horned antelopes and the rise of the hollowedhorn caprines (with developed horn-core sinuses or cornual diverticulum) and the appearing of large bovids (Bovini) and the ovibovines (Ovibovini). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the bovid assemblage of the Nihewan fauna indicates an open prairie or steppe dominated environment. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The small and medium-sized bovid fossils from Shanshenmiaozui site were identified as Spirocerus wongi, Gazella sinensis, Ovis shantungensis and Megalovis piveteaui respectively. The spiral-horned antelope was referred to $S .$ wongi based on its twisted and with only one anterior keel of the horn-core; S.wongi has short but stout metapodials as does the species $S _ { \\mathbf { \\alpha } }$ kiakhtensis; the cranial and horn-core characters of Spirocerus support a closer relationship with antilopines,while the metapodials share more similar traits with ovibovines. The species G.sinensis is typical for its lower ${ \\mathfrak { p } } 4$ which is different from that of G.subgutturosa and earlier Gazella species in its exclusively closed anterior valley,and it is different from the Procapra species in its exclusively open posterior valley, no matter how narrow it is. Although $O$ shantungensis is poorly represented in the SSMZ fauna, the metacarpal bone is the first time to be recognized. The present study shows that $O$ ，shantungensis has much longer metapodial bones than other caprine taxa do. $M .$ piveteaui is also poorly represented in the fossil record, but it has very typical lower p4 and robust metacarpal bone; both characters support a closer afinity of Megalovis to ovibovines.Among the postcranial bones, the metapodials, especially the metacarpal bones are crucial not only for taxonomic identification, but also for phylogenetic and paleoecological reconstructions. The Shanshenmiaozui fauna shares $92 \\%$ of its elements with that of the classical Nihewan fauna,which means they should have the similar geologic age,i.e. 2.2-1.7 Ma BP. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThe authors wish to express their thanks to the following people and organizations for their help: Wei Q, Han F, Sun B Y, Lü D, Sun JJ, Xu Z J, Qiu Z W, Wang Q Y, Sun B H, Hu N,Liu X T and Yin C for participating the excavations; Xie F of HPICR,Li H Q of NNNRM and Hou W Y of NM for helps during excavations; Zheng M of TNHM, Argot C of MNHN, Li W J of NWIPB and Zhu X C of IOZ for providing access to collections; Qiu Z X, Zhou Z H, Vislobokova I A, van der Made J, Titov V, Salvagno L, Davis S J M, Jiang Z G, Zhang Z Q, Bai W P, Shi Q Q, Wang Y R and Wang J for sharing bibliographies and/or for fruitful discussions. Hou Y M for CT scanning. Thanks are also due to the two reviewers, Kostopoulos D S and Dong W, for their insightful questions and comments. The Editorin-Chief and the editors contributed a lot to the improvement of the article. This work was supported by the following grants: the National Natural Science Foundation of China (Grant Nos. 42172021, 41572003), the Strategic Priority Research Program of Chinese Academy of Sciences (Grant No. XDB260o0000) and the National Key R & D Program of China （Grant No.2020YFC1521500). ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "泥河湾盆地山神庙咀遗址早更新世中-小型牛科动物化石新材料",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "同号文'张 贝陈曦王晓敏°(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室 北京100044)(2中国科学院生物演化与环境卓越创新中心北京100044)(3中国科学院大学北京100049)(4北京自然博物馆北京100050)(5 南京师范大学 南京210023)(6中国社会科学院考古研究所北京100710)",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "摘要：山神庙咀是泥河湾盆地新发现的早更新世遗址，该遗址产出丰富多样的哺乳动物化石，其中包括如下属种的中-小型牛科动物：翁氏转角羚羊(Spirocerus wongi),中国羚羊(Gazella sinensis),山东绵羊(Ovis shantungensis)和皮氏巨羊(Megalovis piveteaui);中国羚羊是其中化石最丰富者。前两种化石主要以角心和头骨及下颌为主，此外，4个种都有掌骨和/或蹠骨发现。依据角心特征不难将有关类别鉴定到种一级，而对于牙齿及头后骨骼而言，要想确切鉴定是有一定困难的。在头后骨骼中，掌、蹠骨最值得关注，它不仅对属种鉴定有重要价值，而且对重建系统演化关系及解释古生态适应都是重要证据。修正了前人错误鉴定的泥河湾牛科动物的掌、蹠骨。山神庙咀动物群中的牛科动物以羚羊和野牛为主，表明泥河湾盆地在早更新世期间以草原环境为主导。",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "关键词：泥河湾山神庙咀，早更新世，中-小型牛科动物，新化石",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "BaiWP,DongW,ZhangLMetal.,2O19.New materialoftheEarlyPleistocene spiral horned antelope Spirocerus (Artiodactyla,Mammalia) from North China and discusson on its evolution.Quat Int,522: 94-102   \nBärmannEV,Rossner GE,20l1.Dental nomenclature in Ruminantia:towardsa standard terminological framework.Z Säugetierkd, 76(6): 762-768   \nBohlinB,1938.Einige Jungtertiareund Pleistozane Cavicornieraus Nord-China.Nova Acta Reg Soc Sci Upsala,Ser IV, 11(2): 1-54   \nBoule M,Breuil H,LicentE etal.,1928.LePaleolithiquede la Chine.Arch InstPaleontol Hum,Mém,4:1-138   \nBrown CL,GustafsonCE,1979.Akeytopostcranial skeletalremainsofcatle/bison,elk,and horse.RepInvestWash State Univ,Lab Anthropol,57: 1-199   \nCastel JR,2016.Bovidsof the World: Antelopes,Gazelles,Cattle,Goats,Sheep,and Relatives.Princeton:Princeton University Press.1-664   \nChenGF,1997.Thegenus GazellBlainville,1816(Bovidae,Artiodactyla)fromtheLate NeogeneofYushe Basin,Shanxi Province,China.Vert PalAsiat,35(4): 233-249   \nChen X,Tong HW,2017.Onthehindfot bones of Mammuthus trogontheriifrom Shanshenmiaozui in Nihewan Basin, China. Quat Int, 445: 50-59   \nColbertEH,HoijerDA,1953.Pleistocene mammals fromthe limestonefsuresof Szechuan,China.BullAmMus Nat Hist,102(1): 1-134   \nCregut-Bonnoure E,1984.The Pleistocene Ovibovinae of western Europe: temporo-spatial expansion and paleoecological implications.Biol Pap Univ Alaska Spec Rep,4: 136-144   \nDemircioglu I,InceNG,2020.Three-dimensional modellingofcomputed tomography images oflimbbones ingazelles (Gazella subgutturosa).Anat Hist Embryol,49: 695-707   \nDong W,LiZY,20o8.LatePleistocene Artiodactyla (Mammalia)from theLingjing site,Xuchang,Henan Province(China). Vert PalAsiat,46(1): 31-50   \nDong W,Fang Y S,Zhang Z H,2007.Artiodactyla Owen,1848.In: FangY S,Dong Weds.The Early Pleistocene Mammalian Fauna at Tuozi Cave,Nanjing,China.Beijing: Science Press.85-129   \nDong W,FuRY,Feng X Wet al.,2009.Late Pleistocene mammalian fauna from the Mashandong,Chaoyang,Liaoning Province.Acta Anthropol Sin,28: 95-109   \nDriesch A von den,l976.A guide to the measurement of animalbones fromarchaeological sites.BullPeabody Mus,1: ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "1-13/   \nDuvernois M-P,Guerin C,1989.Les Bovidae(Mammalia,Artiodactyla)du Villfranchien superieurdEuropeoccidentale. Geobios,22: 339-379   \nFarkeAA,2O10.Evolutionand functional morphologyof the frontal sinuses in Bovidae (Mammalia: Artiodactyla),and implications for the evolution of cranial pneumaticity. Zool JLinn Soc,159: 988-1014   \nFedosenko AK,Blank DA,2005.Ovis ammon.Mamm Spec,773:1-15   \nGee H,1993.The distinction betweenposteranial bonesofBosprimigenius Bojanus,1827andBison priscus Bojanus,827 from the British Pleistocene and the taxonomic status of Bos and Bison.J Quat Sci,8(1): 79-92   \nGentryAW,1966.Fossil Antilopini of East Africa.Bull Br Mus Nat Hist Geol,12(2): 45-106   \nGentryAW,1992.The subfamilies and tribes of the family Bovidae.Mamm Rev,22(1):1-32   \nGentry A W,2010.Chapter38: Bovidae.In: Werdelin L,Sanders WJeds.Cenozoic Mammals of Africa.Berkeley: University of California Press.747-803   \nGromova V,1960.AKeyto the LargeLong Bones of Mammals. (Liu HYtrans).Beijing: Science Press.1-162 (in Chinese; original work published in 1950 in Russian)   \nGroves C,2014: Current taxonomyand diversity of crown ruminants above the species level. Zitteliana B,32:5-14   \nGrubb P,20o1. Review of family- group names ofliving bovids.JMammal, 82(2): 374-388   \nHan D F,1987.Artiodactyla fossils from Liucheng Gigantopithecus Cave in Guangxi. Mem Inst Vert Paleontol Paleoanthropol,Acad Sin,18:135-208   \nHassanin A,Delsuc F,Ropiquet A etal.,2012.Paternand timing of diversification of Cetartiodactyla(Mammalia, Laurasiatheria),as revealed byacomprehensive analysis of mitochondrial genomes.Compt Rend Biol,335:32- 50   \nHermierR,MerceronG,Kostopoulos DS,020.The emblematicEurasianVillfranchianantelope Gazelospira (Mammalia: Bovidae): new insights from the Lower Pleistocene Dafnero fossil sites (northern Greece). Geobios,61:11-29   \nJanis CM,Lister A,1985.The morphologyof the lower fourth premolar as ataxonomic character in the Ruminantia (Mammalia; Artiodactyla),and the systematic position of Triceromeryx.JPaleontol,59(2): 405-410   \nJiang ZG,2004.Przewalski's Gazelle.Beijing: China Forestry Publishing House.1-251   \nJin CZ,Wang Y,LiuJYetal.,2O21.Late Cenozoic mammalianfaunal evolutionat theJinyuanCave siteofLuotuo Hill, Dalian,Northeast China.Quat Int,https://doi.org/10.1016/j.quaint.2021.01.011   \nJin X S,Wu WT,DuTM,1994.Thedisovery and studyofGazele skullfosil in Zhejiang.Geol Zhejiang,10(2):1-4   \nKahlke H D,1961.Revision der Säugetierfaunen der klasischen deutschen Pleistozn-Fundestellen von SüBenborn, Mosbach und Taubach. Geologie,10: 493-532   \nKahlke HD,1964.Early Middle Pleistocene (Mindel/Elster)PraeovibosandOvibos.Comment Biol,26(5):1-17   \nKahlkeRD,99.The historyof theorigin,evolutionanddispersalof theLatePleistocene Mammuthus-Coelodontafaunal complex in Eurasia (large mammals). Rapid City: Fenske Companies.1-219   \nKostopoulos DS,2004.Revisionof some Late Miocene spiral horned antelopes (Bovidae,Mammalia). Neues Jahrb Geol Palaeont Abh,231(2): 167-190   \nKuznetsova MV,KholodovMV,2o3.Revisionofphylogeneticrelationships intheAntilopiae Subamilyonthebasisof the mitochondrial rRNA and $\\beta$ -Spectrin nuclear gene sequences.Dokl Biol Sci: Proc Acad Sci USSR,Biol Sci Sect, 391(1-6): 333-336   \nLiY K,Shi Q Q, Chen S K etal.,2018.“Gazella”(Mammalia: Bovidae) from the Late Miocene Qingyang area, Gansu, China.Palaeont Electron,21.2.24A: 1-27, https://doi.org/10.26879/838   \nLicentE,Trassaert M,935.ThePliocene lacustrine series incentral Shansi.BullGeol Soc China,14:211-220   \nLister JA,1985.The morphologyofthe lower fourth premolar as a taxonomiccharacter in the Ruminantia (Mammalia; Artiodactyla),and the systematic position of Triceromeryx.JPaleontol,59(2): 405-410   \nLiu P,Deng C,Li Set al.,2012.Magnetostratigraphic dating of the Xiashagou Faunaand implication forsequencing the mammalian faunas in the Nihewan Basin,North China.Palaeogeogr Palaeoclimatol Palaeoecol,315:75-85   \nManiakas I, Kostopoulos D S,2017.Morphometric-palaeoecological discrimination between Bison populations of the western Palaearctic.Geobios,50:155-171   \nMatsumoto H,1926. Ona new fosil race ofbighorn sheep from Shantung, China.Sci Rep Tohoku Imp Univ,Ser 2 (Geol), 10: 39-41   \nMatthee CA,Davis SK,2Ool. Molecular insights into the evolution of the Family Bovidae: a nuclear DNA perspective. Mol Biol Evol,18(7): 1220-1230   \nMcKenna MC,BellSK,1997.ClasificationofMammals Above the Species Level.NewYork: Columbia UniversityPres 1-631   \nPilgrim G E,1939.The fossil Bovidae of India.Palaeontol Ind New Ser,26(1): 1-356   \nPratF,1966a.Les caprides.In:Lavocat Red.Atlasde Prehistoire.TomeI.Faunes et fores prehistoriques de PEurope occidentale.Paris: N.Boubée et cie (L'Homme et ses origines).279-322   \nPratF,1966b.Lesantilopes.In:Lavocat Red. Atlas de Prehistoire.Tome II.Faunes et fores prehistoriquesdeEurope occidentale.Paris: N.Boubée et cie (L'Homme et ses origines).323-336   \nQiu Z X,2Oo6.Quaternary environmental changes and evolution of large mammals in North China.Vert PalAsiat,44(2): 109-132   \nRadulesco C,Samson P,1962.Sur la presence de Megalovis latifronsdans le Villfranchiend'Oltenie (Roumanie).Vert PalAsiat, 6(3): 262-269   \nRatajczak U,ShpanskyAV,MalikovDG etal.,2016. Quaternary skulls ofthe saiga antelope fromeastern Europe and Siberia: Saiga borealis versus Saiga tatarica -one species or two? Quat Int, 420: 329-347   \nReshetov V,Sukhanov VB,1979.Postcranial skeleton.In:SokolovVEed.European Bison—Morphology,Systematics, Evolution, Ecology. Moscow: Nauka Publishers.142-173   \nSchaub S,1937.Ein neuer Cavicornier aus dem Oberpliocaen von Honan.Bull Geol Inst Univ Upps,27: 25-31   \nScot KM,1985.Allometric trends and locomotoradaptations in the Bovidae.BullAm Mus Nat Hist,179:197-288   \nSher A V,1997.Anearly Quaternarybison population from Untermasfeld: Bison menneri sp.nov.In: KahlkeR-Ded.Das Pleistozän von Untermassfeldbei Meiningen (Thuringen),Teil1. Monogr Romisch-German Zentralmus Mainzer, 40(1): 101-180   \nSmithAT,Xie Y,20o8.A Guide to the Mammals of China.Princeton: Princeton University Pres.1-576   \nSokolovII,1953.A primerof natural classficationofCavicorns (Bovidae).Proc Zool Inst AcadSci USSR,14:1-295   \nSokolovII,1959.On the postcranial skeleton and the outward appearanceof Spirocerus kiakhtensis M.Pavlova. Vert PalAsiat, 3(1): 23-33   \nSokolov VE,Lushchekina AA,1997.Procapra guttrosa. Mamm Spec,571: 1-5   \nTedford RH,FlynnLJ, QiuZXetal.,1991.YusheBasin,China: paleomagneticallycalibrated mammalian biostratigraphic standard for the Late Neogene of eastern Asia.JVert Paleontol,11(4): 519-526   \nTeilhard de ChrdinP,LeroyP,942.Cinese fossilmammals:acompletebliography,analyed,tabulated,anoatedd indexed.Inst Geo-Biol Pek,8:1-142   \nTeilhard de Chardin P,Piveteau J,1930.Les mammiferes fossiles de Nihowan (Chine).Ann Paleontol,19:1-134   \nTeilhard de Chardin P,Trassert M,1938.Cavicorniaof south-eastern Shansi.Palaeontol Sin New Ser C,6:1-98   \nTeilhard de ChardinP,Young CC,1936.Onthe mammalianremains fromthe archaeological siteofAnvang.Palaeontol Sin Ser C,1: 1-61   \nTong HW,2012.New remains of Mammuthus trogontheri from the Early Pleistocene Nihewan beds at Shanshenmiaozui, Hebei. Quat Int,255: 217-230   \nTong HW,ChenX,2016.Onnewborncalf skullsofEarlyPleistocene Mammuthus trogontheri from Shanshenmiaozui in Nihewan Basin, China. Quat Int, 406: 57-69   \nTong H W,Wang X M,2014.Juvenile skulls and other postcranial bones of Coelodonta nihowanensis from Shanshenmiaozui, Nihewan Basin,China.JVert Paleontol, 34(3):710-724   \nTong HW,Zhang B,2019.NewfossilsofEucladoceros boulei (Artiodactyla,Mammalia)from EarlyPleistoceneNihewan Beds,China.Palaeoworld,28(3): 403-424   \nTong H W,Hu N,Han F,20l1.A preliminary report on the excavations at the Early Pleistocene fossil site of Shanshenmiaozui in Nihewan Basin,Hebei, China.Quat Sci,31: 643-653   \nTong HW,HuN,Wang XM,2O12.Newremainsof Canischihliensis (Mammalia,Carnivora)from Shanshenmiaozui,a Lower Pleistocene Site in Yangyuan,Hebei. Vert PalAsiat, 50(4):335-360   \nTong HW,WangFG,Zheng Metal.,2O14.NewfosilsofStephanorhinuskirchbergensisandElasmotheriumpei fromthe Nihewan Basin.Acta Anthropol Sin,33(3): 369-388   \nTong HW, Chen X, Zhang B,2017. New fosils of Bison palaeosinensis (Artiodactyla, Mammalia) from the steppe mammoth site of Early Pleistocene in Nihewan Basin,China.Quat Int,445: 250-268   \nTong HW,Chen X,Zhang B,2018.New postcranial bones of Elasmotherium pei from Shanshenmiaozui in Nihewan Basin, northern China. Quaternaire,29 (3):195-204   \nTong HW,Zhang B,Chen Xetal.,2O21.Chronological significanceof the mammalian fauna from the EarlyPleistocene Shanshenmiaozui site in Nihewan Basin,northern China.Acta Anthropol Sin,40(3): 469-489   \nTong Y S, Zheng S H,Qiu ZD,1995.Cenozoic mammal ages of China. Vert PalAsiat, 33(4): 290-314   \nViret J,1954.LeLoessabancs durcisde Saint-Valler(Drome)etsa faune de mammiferes villfranchiens.NouvArch Mus Hist Nat Lyon, 4: 1-200   \nVislobokova IA,2008.The major stages in the evolution of Artiodactyl communities from the Pliocene-Early Middle Pleistocene of northern Eurasia.Paleontol J,42(3): 297-312; 42(4): 414-424   \nVislobokova I,DmitrievaE,KalmykovN,1995.Artiodactyls fromtheLatePlioceneof Udunga,western trans-Baikal, Russia.JVert Paleontol,15: 146-159   \nVislobokovaIA,TitovVV,202o.Spiral-hornedantelopesof theEarlyPleistocene Tamanian faunalcomplexof eastern Europe.Russ JTheriol,19(1): 37-44   \nVislobokovaIA,itovVVavrovAVetal.,02.EarlyPleistocenespiral-hornedantelopes (Artiodactyla,Bovidae)from the Taurida Cave (Crimea,Russia).Paleontol J,54: 81-90   \nVrbaES,SchalerG,2Ooo.PhylogenyofBovidaebasedonbehavior,glands,skulls,and postcrania.In:VrbaES,Schaller ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "G eds.Antelopes,Deer,and Relatives.New Haven: Yale University Press.203-222 WangYR,Peters J,Barker G,2020.Morphologicaland metriccriteria for identifyingposteranial skeletalremainsof modern and archaeological Caprinae and Antilopinae in the northeast Tibetan Plateau and adjacent areas.Int J Osteoarchaeol,30(4): 492-506 Young CC,1932.On the Artiodactyla from the Sinanthropus Site at Choukoutien.Palaeontol Sin Ser C,8(2):1-100 Zhang ZQ,Yang R,2016.Morphology and taxonomy of Gazell (Bovidae,Artiodactyla) from the Late Miocene Bahe Formation,Lantian, Shaanxi Province,China.Vert PalAsiat,54(1):1-20 Zhu RX,Hoffman KA,Pots R et al.,20ol.Earliest presence of humans in Northeast Asia.Nature,413: 413-417 ",
+        "page_idx": 34
+    }
+]

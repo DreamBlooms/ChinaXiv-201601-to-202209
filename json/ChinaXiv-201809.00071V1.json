@@ -1,0 +1,696 @@
+[
+    {
+        "type": "text",
+        "text": "正念维持适应的机制：来自心率变异性自相似的初步证据",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙莎莎1　李小兵²　李宝山」 刘承宜 黄敏儿1(中山大学心理学系，广州 510006)(中山大学体育部，广州 510275)(华南师范大学体育科学学院，广州510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要引入自相似的算法表征功能内稳态的过程，从功能内稳态的角度探讨特质正念与不同过程中心率变异性(Heart rate variability,HRV)自相似的关系，以揭示正念起作用的可能机制。功能内稳态是机体面对内外环境的变化保持自身功能相对稳定的一种能力或素质。研究设置静息态、冷加压任务、冷加压后恢复和正念练习4种不同的条件，并记录被试在这4个环节的HRV 指标。结果显示，HRV 自相似与特质正念之间存在显著相关，高HRV自相似组在冷加压环节的HRV 各指标都比低 HRV 自相似组高。结果表明，正念维持适应的生理机制可能与功能内稳态有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词特质正念；自相似；功能内稳态；心率变异性分类号 B845; R395",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“正念”(mindfulness)这个来源于佛学的概念，近些年来得到了越来越多的关注。从研究层面，近20年来关于正念的论文数量呈指数级增长；从应用层面，正念已被越来越多地应用到临床、教育、管理及体育竞技等各个领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "那么，正念究竟指的是什么?有哪些作用?其作用机制有哪些?下文将从正念对健康和适应的促进作用及其生理机制方面做一些梳理，并指出以往研究的不足，在此基础上提出本文的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 正念的概念与作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "正念是指有意识地对当下非评判的觉察(Kabat-Zinn，1994)。正念是一个过程，着重对当下体验的开放与接纳(Baer，Smith,& Allen,2004;Bishop et al.,2004; Brown & Ryan,2003;Chambers,Gullone,& Allen,2009)。正念也是觉知当下的一系列技术方法(Didonna,2009)。作为一种维护健康与适应的自我调节的方法，正念得到了越来越多的关注。自Kabat-Zinn(1982)报告关于正念缓解慢性疼痛的研究后，后续大量研究支持正念对健康及适应的促进效应(Eberth,& Sedlmeier,2012; Grossman, Niemann, Schmidt,& Walach, 2004; Keng, Smoski,&Robins,2011; Sedlmeier et al.,2012)。作为干预方法，正念可以减少抑郁的复发(Godfrin&vanHeeringen,2010)，提高社交焦虑者的情绪调节能力(Goldin& Gross,2010)；减少酒精依赖者复饮(Vieten,Astin,Buscemi,& Galloway,2010)，改善糖尿病患者的身体健康状况(Hartmannet al.,2012)，促进癌症患者心理社会方面的调整(Henderson et al.,2012)，维持 HIV 阳性者的免疫系统功能(Creswell,Myers,Cole,& Irwin,2009)。作为一种心理特质，正念预测更高的关系满意度(Barmes,Brown,Krusemark,Cambell,& Rogge,2007)，更强的幸福感及工作卷入(Malinowski & Hui, 2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特质正念反映个体聚焦当下的注意与自我调节的适应倾向(Weinstein,Brown，& Ryan.2009).高特质正念的个体对自己的体验采取较为接纳、非评判的态度，更多地采用去中心化视角，能够更好地将自己的想法和情绪等视为心理历程，而不是视为对现实的精准表征(Shapiro,Carlson,Astin,&Freedman,2006)。因此，相对于特质正念较低个体，特质正念较高个体能够根据环境的变化做出更为灵活有效的调整。有研究者将特质正念定义为注意觉知相关的单维度结构(Brown& Ryan，2003)，也有研究者认为特质正念是多维度结构，涵盖注意觉知及非评判接纳自身内部体验等(Sauer et al.,2013)。尽管不同研究者对于特质正念的操作性定义存在一定差异，大量研究结果还是一致表明了高特质正念在自我调节时更具适应性(Siegling& Petrides,2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2正念维持健康和适应的作用机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正念如何维持和促进适应?其内在生理机制有哪些?有研究者指出，正念增强前额皮层的调节 功能，通过 HPA（hypothalamic-pituitary-adrenocortical）轴和 SAM(sympathetic-adrenomedullary)轴减少皮质醇、肾上腺素及去甲肾上腺素的分泌，减弱应激反应，降低应激相关疾病风险(Creswell&Lindsay,2014; Creswell,2015)。自主神经系统是机体自动化的应激反应调节系统(Thayer&Lane，2000)。正念有可能通过调节心血管系统的应激反应来影响自主神经系统的调节功能(Demarzo etal.,2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "心率变异性(Heartrate variability,HRV)标志自主神经系统的调节功能，反映大脑对行为与外周生理的控制(Thayer,A hs,Fredrikson,Sollers,&Wager,2012)，是个体适应情况的良好生物标记物(Force,1996; Thayer et al.,2012; Thayer& Lane,2000,2009;Thayer& Brosschot,2005).较强的HRV表明心率变异范围较大，心血管系统有较强的应变能力。较弱的HRV则表明自主神经系统对变化环境缺少足够的应变能力，将增加相关疾病的患病风险(Thayer &Lane，2000)。研究表明，正念练习可增强HRV，增强副交感神经系统的活动(Libby,Worhunsky,Pilver,& Brewer,2012; Krygier et al.,2013)。可见,HRV的改善可能是正念促进适应的一种重要生理机制。目前HRV线性量化方法大致可以分为时域分析和频域分析(Berntson etal.,1997).其中，常用的HRV时域分析指标主要包括以下两个：连续正常RR间期的标准差(the standard deviation of the normal (NN) sinus,SDNN)，反映影响HRV的所有因素的变化情况(Shaffer,McCraty,& Zerr,2014)；相邻RR间期之差的均方根(the root mean squareof successve differences between normal heartbeats,RMSSD)，反映逐次心跳的变异情况，主要用来评估副交感神经系统的活动(Kleiger，Stein，& Bigger，2005).HRV频域分析指标是将总的频谱功率(total power，TP)根据功率频谱密度(power spectral density，PSD)分离出低频(low frequency,LF,0.04\\~0.15 Hz,)HRV和高频(high frequency, HF,0.15\\~0.40 Hz)HRV。一般认为,LF-HRV反映交感神经系统的活动，HF-HRV反映副交感神经系统的活动(Berntson et al,1997；Billman，2011).研究者用LF/HF ratio来量化交感神经活动和副交感神经活动的变化关系(Pagani et al.，1984)。和谐性(coherence)是近年来研究者提出的HRV频域分析的重要指标,该指标可以反映呼吸、血压及心脏节律间的相互影响，也可以反映系统活动间(如EEG节律与心跳周期)的同步性或系统共振(Shaffer et al.,2014;McCraty& Childre,2010)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究者从内稳态(homeostasis)的角度探讨正念维持机体适应的机制。研究者指出，面对压力时，前扣带回(Anterior cingulate gyrus，ACC,Tirch，2010)、自主神经系统(autonomicnervous system,ANS,Hosemans,2015)、皮质醇分泌(Matousek,Dobkin,& Pruessner,2010)等功能的失调，使机体无法维持自身内稳态。通过全然地觉知(保持正念)，个体能够实时地监控内外刺激带来的身体感觉，更好地评估环境及所面临的问题，实时调整自身状态以应对环境变化，重新建立内稳态并适应新的环境，而不是处于持续的应激状态中。也就是说，正念能够让个体在面对复杂的环境时保持自身的稳态应变，使机体各项功能(诸如上述所提到的ACC、ANS和皮质醇分泌等)得以充分稳定地发挥，从而做出更具适应性的行为反应(Fletcher,Schoendorff,& Hayes,2010; Matousek et al.,2010;Fries,2007)。愤怒作为一种情绪，在调动心理资源、维护自尊等方面有着重要作用。然而，一直以来愤怒也被看作是一种最具破坏性的情绪，对愤怒者本身及他人都会带来危害(Wright,Day & Howels,2009).Novaco (2007)指出,愤怒是一种习得的自动化的应对方式，愤怒调节的核心是自我监控，“个体只有觉察到偏离内稳态的信号，才有可能修正这种偏差”。而正念可以让个体及时探测到与愤怒有关的线索，更为恰当地做出反应，从而避免自动化反应带来的一系列问题(Wright et al.,2009)。Chrisman,Christopher和Lichtenstein (2009)的一项质性研究以八段锦(气功的一种)作为正念练习的一种方法，对心理咨询专业的研究生进行了为期15周的气功训练，结果发现，被试在身体、情绪及心理方面都有改善，比如平衡感更好、呼吸更深、情绪更平静、注意力更集中、意识更清晰等。作者从中医\"气\"的角度解释气功的作用机制，认为疾病是由体内\"气\"的失衡、不通，机体内稳态遭到破坏导致的；而长期的气功练习可以消除阻塞，使全身的\"气\"流更为通畅，恢复机体固有的内稳态，最终得以实现身心健康。还有研究者认为，积极重评的能力弱会导致个体在面对挑战时认为自己没有足够的资源应对挑战，这种压力评价(stress appraisals)的方式将会导致HPA轴的延长、过度激活，破坏机体整个系统功能的内稳态，最终导致疾病的发生(Rosmond,2005)。正念能够增强积极重评(positive reappraisal)的能力，正念在重评过程中发挥核心作用，从而降低应激相关疾病的患病风险(Garland,Gaylord,& Park,2009)。从以上内容可以看出，目前研究者多用\"内稳态\"的概念来解释正念在维持机体适应过程中的作用，还未见有效的方法用以量化“内稳态\"的过程，因此，本研究将尝试引入一个新的算法表征这个过程。这一新的算法将在后文详细介绍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以往研究发现，特质正念与情绪调节过程中 HRV 变化有密切关系。Braeken，Otte,Nyklicek 和Van den Bergh (2012)设置5种条件：静息态-心算任务-图片放松-心算任务-音乐放松，考察150 名孕期妇女的特质正念与HRV（RMSSD、HF）的关系，结果显示，高特质正念孕期妇女的 HRV 在平静休息状态和心算任务状态下都比低特质正念孕期妇女高。Garland (2011)检测了58名酒精依赖住院患者的特质正念、酒精注意偏好及HRV (HF)的关系，结果发现高特质正念的酒精依赖者在酒精注意偏好任务中表现出对酒精更少的注意偏好，任务结束后恢复阶段的 HRV 更高。Fogarty 等人(2015)的研究通过书写任务诱发被试的负性情绪，发现高特质正念个体在情绪恢复阶段有较高的 HRV (HF)，结果表明特质正念预测负性情绪反应之后较好恢复。Mankus,Aldao,Kerns,Mayville 和 Mennin (2013)的研究探讨高低广泛性焦虑患者在问卷填写时特质正念与HRV的关系，发现较高广泛性焦虑患者的特质正念与HRV (MSD，连续相邻心跳间差异绝对值的平均值，是HRV的一个时域指标)显著相关，而低广泛性焦虑患者的特质正念和HRV相关并不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，也有研究并没有发现特质正念与HRV之间存在显著相关。Jager(2016)以106 名大学生为被试，发现特质正念与静息态的 HRV (SDNN、LF、VLF)相关不显著。Soer,Jong.Hofstra,Preuper 和 Reneman (2015)对10 名慢性肌肉骨骼痛患者和15名健康被试进行3次HRV 协调性(HRVcoherence)的训练，训练前后的HRV协调性及特质正念都有提升，但HRV协调性的变化值与特质正念的变化值之间的相关并不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 问题提出",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HRV 的指标有很多，但研究者在探讨特质正念与HRV 的关系时，所选用的 HRV 指标只局限在某一两个(例如,Braeken et al.,2012;Jäger,2016)，而且不同的研究所选用的指标并不一致。不仅如此，以往研究在探讨HRV的指标在不同环节(静息态、任务态及任务态后的恢复)的变化时，并没有考虑指标之间的联动关系。例如,Braeken等人(2012)的研究只分析HRV(RMSSD 和 HF)与特质正念的相关，但是没有考察 HRV 多项指标协同、系统变化的模式。因此，以往研究还不能全面系统地反映自主神经系统的活动与特质正念的关系。本研究将引入较为全面的HRV 指标，而且将引入“自相似”(self-similarity)的概念和方法，考察HRV 指标在变化过程中保持自相似的程度与个体特质正念之间的关系，尝试揭示正念起作用的生理机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自相似是指一个模式不随空间尺度或时间尺度的变化而变化(Muzzio，Swanson，&Ottino，1992)，表现为一个集合(set)以相同的模式在不同的空间尺度或时间尺度上重复它自己(Galatzer-Levy，1995)。自相似广泛存在于自然现象中，例如植物的生长、大小瓷器碎片的关系等。自相似也存在于精神分析的文本材料中。Galatzer-Levy (1995)从分钟、小时、月和年 4个时间尺度展示一个强迫症患者的文本材料，发现患者在这4个尺度上表现出极为相似的强迫模式。将 HRV 各指标在特定状态下的变化理解为某种分布或某种集合，如果HRV 各指标之间的联动关系在不同状态下表现出时间不变性或者重复了它自己，那么就说明 HRV 指标之间是自相似的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一个系统的自相似表征的是系统参数(也称指标)之间的联动关系(West，2017)。如式(1)所示，一个变化过程中两个也称参数的自相似联动关系用幂函数表示(West,2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { 2 } / y _ { 1 } = \\big ( x _ { 2 } / x _ { 1 } \\big ) ^ { S S E ( 1 , 2 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中的指数称为自相似指数(self-similar exponent,SSE)。引入两个参数在不同状态下以黄金分割常数 $\\tau = ( \\sqrt { 5 } - 1 ) \\big / 2 \\approx 0 . 6 1 8$ 为底的过程对数(刘承宜等,2016,2017;Liu et al.,2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl _ { y } ( 1 , 2 ) = \\log _ { \\tau } ( y _ { 2 } / y _ { 1 } ) \\vphantom { \\sum _ { \\tau } l _ { x } ( 1 , 2 ) } , l _ { x } ( 1 , 2 ) = \\log _ { \\tau } ( x _ { 2 } / x _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从式(1)可得,",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S E ( 1 , 2 ) = l _ { y } \\left( 1 , 2 \\right) \\big / l _ { x } ( 1 , 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "过程对数的绝对值称为定量差异(quantitative difference,QD，刘承宜等,2016,2017; Liu etal.,2017)。(3)式表明,SSE 确实可以表征两个参数之间的联动关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "系统参数之间的联动关系可以表现为系统整体功能的稳定性。QD和自相似的生物学意义可以用功能内稳态(function-specific homeostasis,FSH)和稳态应变(allostasis)来阐述，是指机体为适应内外环境的变化而作出的主动偏离内稳态的调整(Liu et al.,2012,2014; Sterling& Eyer,1988)，是一种在变化过程中维持的稳态(Sterling,2012)。功能内稳态和稳态应变是维持功能充分稳定发挥的负反馈机制，保证机体适应内外环境的变化。功能内稳态与内稳态概念的区别在于，内稳态强调某项参数的稳定性，而功能内稳态强调功能的稳定性。某项参数的内稳态可以针对该参数设计研究。机体某项功能的内稳态由大量参数之间的互动来表征，目前来看只有利用自相似的方法才能揭示这种互动关系。可以假设，正念调整的就是HRV 参数之间的互动关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每个功能的QD 显著性阈值用 $( { \\mathfrak { a } } , \\beta )$ 表示,QD 大于 $\\mathfrak { a }$ 或 $\\beta$ 称为显著性或非常显著性差异。研究者(刘承宜等人,2016,2017;Liu etal.,2017)拟合流行病学研究数据发现，心理神经水平的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "QD 显著性阈值为(0.80,1.22)。本研究采用的HRV指标为心理神经水平的功能，因此,HRV 指标之间在不同变化过程中的 $\\mathrm { Q D } < 0 . 8 0$ 时，即为HRV 指标之间在不同的过程维持了自相似。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由以上分析可以看出，自相似的算法能够呈现动态变化过程中HRV 各指标之间的联动关系，表征机体的功能内稳态。通过全然的觉知(正念)，个体能够使自身功能得到充分稳定的发挥。因此，本研究借助自相似的算法，将HRV代表的自主神经系统功能内稳态的概念和理论进行量化，探讨特质正念与 HRV自相似之间的关系，尝试揭示正念维持适应的作用机制。研究假设，特质正念与HRV 自相似正相关。研究以健康大学生为被试，设置4种不同的条件：静息态-冷加压-冷加压后恢复-正念练习，记录被试在这4种不同条件下的HRV，考察特质正念与不同条件下HRV的关系。具体的研究目的如下：1)呈现不同状态下健康大学生HRV 的变化情况;2)探讨不同状态下特质正念与HRV的关系;3)考察特质正念与变化过程中HRV 自相似的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过微信群招募广东某高校56 名在校大学生(41名女生)，年龄18\\~20 岁, $M = 1 9 . 1 4 , S D$ $= 0 . 5 9$ 。全部没有正念练习或禅修经验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 测量工具、实验材料与仪器",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 测量工具",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正念注意觉知量表(Mindfulness Attention Awareness Scale,MAAS)用以测量个体的特质正念(Brown,Ryan,Loverich,Biegel,& West, 2011; Quaglia et al.,2016)，该量表由 Brown 和Ryan (2003)编制，中文版由Deng 等(2012)修订；单维度结构,15个条目,6点评分，“1\"到\"6\"表示“几乎总是\"到\"几乎从不\"；分数越高越正念。条目举例：“我发现自己沉浸在对未来的幻想或对过去的回忆中。\"及\"我发现静下心来关注当前发生的事情有些困难。\"在众多测量特质正念的工具中，MAAS 的应用最为广泛(Park，Reilly-Spong，& Gross，2013)。大量研究表明,MAAS 在不同文化、不同正念冥想经验的人群有良好的信效度(Brown&Ryan,2003;Carlson& Brown,2005;Deng et al.,2012; Mac Killop& Anderson,2007).本研究中，该量表 56 名被试的内部一致性系数 $\\mathfrak { a }$ 为 $0 . 8 9$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 实验材料",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正念音频为安卓版手机灵犀App 童慧琦呼吸空间练习，时长 $5 . 4 \\mathrm { m i n } _ { \\odot }$ ，呼吸空间练习是正念认知疗法(mindfulness-based cognitive therapy,MBCT; Segal, Teasdale,Williams,& Gemar,2002)的一个核心练习，分为三步：觉察-集中-扩展(Segal,Williams,& Teasdale,2012).第一步，觉察当下的体验，包括想法、情绪和感觉；第二步，将注意力集中到呼吸的感觉上，特别是腹部的感觉；第三步，将对呼吸的觉知扩展到整个身体。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 实验仪器",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HeartMath 公司开发生产的emWave pro plus 系统，硬件主要是一个夹耳朵的传感器，连接PC 的 USB接口；软件版本号：3.6.0.9625，用来记录并转换心脏节律(heart rhythms)数据。系统采样率为 $3 7 0 ~ \\mathrm { H z } .$ ，自动进行脉搏波的探测与校准。研究用到的指标有：每分钟平均心率(heart rate，HR)，常用的 HRV 时域分析指标 SDNN 和RMSSD，常用的 HRV 频域分析指标TP、LF-HRV、HF-HRV、LF/HF ratio 和 coherence (HRV 指标具体含义见引言部分)。由于HR与HRV都可表征自主神经系统的活动，因此放在一起进行统计分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "冷加压实验是实验室常用的安全有效的痛觉诱发方法(Zeltzer,Fanurik,&Lebaron,1989)。本研究所用仪器与工具包括塑料桶(直径 $2 2 \\ \\mathrm { m m }$ ，高 $2 3 \\mathrm { \\ m m } ,$ 、电子测温仪和制冰机。实验前将水温调至 $4 { \\sim } 6 ^ { \\circ } \\mathrm { C }$ (Liu,Wang,Chang,Chen,& Si,2013)。冷加压实验的具体流程见 2.3 研究程序的指导语。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 研究程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "被试进入接待室，首先填写知情同意书，研究协议由学校伦理审查委员会审批通过。之后被试需要用微信扫描二维码链接到问卷星，填写性别、年龄等个人资料，完成MAAS。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "接下来被试被带入实验室，首先了解实验的4个环节：静息 $5 \\mathrm { m i n }$ ，冷加压实验 $3 \\mathrm { m i n }$ ，冷加压实验后恢复 $5 \\ \\mathrm { m i n }$ ，正念练习 $5 . 4 \\ \\mathrm { m i n }$ 。主试确认被试清楚实验任务之后，打开emWave",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pro Plus 的软件，在被试的右耳耳垂上夹好传感器，然后开始正式实验。具体流程(见图1)及实验指导语如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c5803c44bed484a04e1dffbb4656e0b17ab779fd69fe73e4a63058d11e5a7d1.jpg",
+        "img_caption": [
+            "图1研究流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环节1：“安静时5分钟心率记录。请舒适地坐在椅子上，尽量保持头部和身体不动，放松，清醒，但也不要思考。”",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环节2：“冷加压实验。这个实验测试的是忍受疼痛的程度，以手放在冷水中的时间长度为衡量指标。这是实验室常用的安全有效的痛觉诱发方法，需要你把左手放进水里，五指分开，水要没过手腕。当你把手放到水里之后，可能会感到不舒服，但我们希望你能尽可能长时间地把手放在水里。一般来说，以1分钟为下限，3分钟为上限。但当你感觉非常难以忍受或非常疼痛的时候，也可以随时点\"stop”，把手拿出水中，结束实验。实验结束后，请用纸巾将手擦干。当你准备好了，请先把手放入水中，然后点\"start\"开始实验。”",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环节3：“实验后的5分钟心率记录。请保持平静、放松，自然地呼吸。”",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环节4：“请跟着录音的指示做练习。”",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "整个研究过程持续35\\~45分钟，室温维持在 $1 9 { \\sim } 2 2 ^ { \\circ } \\mathrm { C }$ ；被试获得课外体育积分或15元报酬。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4 数据处理 自相似的计算",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究设置了4种条件：静息态(环节1)、冷加压(环节2)、冷加压后恢复(环节3)和正念练习(环节4)。环节2是冷加压状态，其HR 和 HRV 各指标均为最高点(如图2)，选为计算的起点。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b1600e3a05e1dbde6c64dc6fc0e4fde60a11c7d324b8c51fa66a72650d12f6d.jpg",
+        "img_caption": [
+            "图2自相似计算示意图(以HF-HRV和LF-HRV为例)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "具体来讲,HRV自相似的计算步骤如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl _ { x } ( 2 , i ) = \\operatorname { I t } \\bigl ( x _ { i } / x _ { 2 } \\bigr ) = \\log _ { \\tau } \\bigl ( x _ { i } / x _ { 2 } \\bigr ) , i = 3 , 4 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl _ { y } ( 2 , i ) = \\mathrm { { l t } } \\big ( y _ { i } / y _ { 2 } \\big ) = \\log _ { \\tau } \\big ( y _ { i } / y _ { 2 } \\big ) , i = 3 , 4 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "步骤1：根据式(4)和(5)，分别计算LF-HRV和HF-HRV 环节3之于环节2以及环节4之于环节2的过程对数，共计得到4个过程对数。",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S E ( 2 , i ) = l _ { y } ( 2 , i ) \\big / l _ { x } ( 2 , i ) , i = 3 , 4 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "步骤2：根据式(6)，计算LF-HRV 和HF-HRV在环节2\\~3与环节2\\~4 相应过程对数的自相似指数 SSE，共计得到2个SSE。",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ D = \\left| \\frac { S S E ( 2 , 3 ) + S S E ( 2 , 4 ) } { 2 } \\mathrm { l n } \\frac { S S E ( 2 , 3 ) } { S S E ( 2 , 4 ) } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "步骤3：根据式(7)，计算2个 SSE之间的定量差异QD，共计得到1个QD。为了使QD尽可能大,(6)式中所得到的过程对数相除方法尽可能让SSE大于1。至此，完成了LF-HRV和HF-HRV 这一对参数在环节2\\~3与环节2\\~4的自相似计算。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "步骤4：重复步骤1\\~3，完成所有HR 和HRV 两两参数对之间的过程对数、SSE 以及QD计算，这样一个被试的 HRV 自相似计算完成。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "步骤5：所有被试重复步骤1\\~4，完成所有被试HRV自相似的计算",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HRV 的活动属于心理神经水平的功能，因此当 $\\mathrm { Q D } < 0 . 8 0$ 时，就说明参数对在不同过程中保持了自相似；反之，当 $\\mathrm { Q D } > 0 . 8 0$ 时，说明参数对在不同过程中没有保持自相似。本研究采用 HR 和 HRV 指标(SDNN、RMSSD、TP、LF-HRV、HF-HRV、LF/HF ratio 和 coherence)共计8个参数。经过计算，每个被试可以得到 ${ \\mathrm { C } _ { 8 } } ^ { 2 } = ( 8 { \\times } 7 ) / 2 = 2 8$ 个QD。每个被试的HRV 自相似程度最终以 $\\mathrm { Q D } < 0 . 8 0$ 的参数对的数量来表示。因此最后一个步骤如下：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "步骤6：确定每个被试 $\\mathrm { Q D } < 0 . 8 0$ 的HRV参数对数量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "自相似的计算用Excel2010完成。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于HR 和HRV都可表征自主神经系统的活动,HR又是计算HRV的基础和依据，因此本文所提到的\"HRV 自相似\"指的是将HR 的数据纳入计算的HRV自相似。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1不同环节自主神经系统各指标的平均数、标准差",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 个环节被试自主神经系统各指标的平均数、标准差见表1。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/baefa4e46933ece155df0500037a6919939c5fb6caf1d5388993e5f1c762e996.jpg",
+        "table_caption": [
+            "表1不同环节自主神经系统各指标的平均数、标准差 $( n = 5 6 )$ "
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { H R } =$ heartrate，每分钟平均心率; $\\mathrm { S D N N } =$ the standard deviation of the normal(NN) sinus，连续正常RR 间期的标准差;RMSSD $\\mathbf { \\tau } = \\mathbf { \\tau }$ the root mean square of successive diferences between normal heartbeats，相邻 RR 间期之差的均方根; ${ \\mathrm { T P } } = $ total power，总功率; $\\mathrm { L F = }$ low frequency，低频; ${ \\mathrm { H R V } } =$ heart rate variability，心率变异性; ${ \\mathrm { H F } } =$ high frequency，高频。下同。 "
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>环节1：静息态</td><td>环节2：冷加压</td><td>环节3：冷加压后恢复</td><td>环节4：正念练习</td></tr><tr><td>HR</td><td>78.12 ± 12.09</td><td>82.70 ± 11.81</td><td>74.82 ± 11.88</td><td>75.50 ± 12.11</td></tr><tr><td>SDNN</td><td>82.87 ± 41.72</td><td>108.96 ± 55.92</td><td>82.42 ± 33.29</td><td>79.03 ± 25.61</td></tr><tr><td>RMSSD</td><td>84.51 ± 57.66</td><td>120.79 ± 76.52</td><td>83.51 ± 47.52</td><td>71.61 ± 33.95</td></tr><tr><td>TP</td><td>2233.91 ± 4210.02</td><td>4497.88 ± 6378.48</td><td>2088.89 ± 2448.30</td><td>1901.19 ±1268.06</td></tr><tr><td>LF-HRV</td><td>1004.59 ± 1985.80</td><td>2521.39 ± 4099.93</td><td>803.93 ± 1102.43</td><td>867.86 ± 782.57</td></tr><tr><td>HF-HRV</td><td>531.60 ± 681.38</td><td>1079.55 ± 1411.91</td><td>503.92 ± 494.46</td><td>493.10 ± 485.91</td></tr><tr><td>LF/HF ratio</td><td>1.74 ± 1.33</td><td>1.92 ± 1.13</td><td>1.87 ± 2.31</td><td>2.94 ± 3.67</td></tr><tr><td>coherence</td><td>38.23 ± 8.83</td><td>36.15 ± 8.83</td><td>36.29 ± 9.19</td><td>41.48 ± 9.56</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "重复测量方差分析结果显示,HR 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 2 8 . 1 4 \\$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } =$ 0.34。事后检验表明，静息态的HR高于冷加压后恢复和正念练习环节；冷加压环节的HR 高于静息态、冷加压后恢复和正念练习环节。如图 $3 \\mathrm { a } _ { \\circ }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SDNN 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 1 1 . 0 2 , p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 7 _ { \\circ }$ 事后检验表明，冷加压环节 SDNN 高于静息态、冷加压后恢复和正念练习环节。如图 $3 { \\mathsf { b } }$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RMSSD 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 1 5 . 5 6 \\$ $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 2 2 _ { \\mathfrak { c } }$ ，事后检验表明，冷加压环节的RMSSD 高于静息态、冷加压后恢复和正念练习环节；正念练习环节的 RMSSD低于静息态和冷加压后恢复环节。如图 $3 \\mathrm { c } _ { \\circ }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "TP 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 6 . 4 5$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 1 { \\mathfrak { c } }$ ，事后检验表明，冷加压环节的 TP 高于静息态、冷加压后恢复和正念练习环节。如图 $3 \\mathrm { d } _ { \\circ }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LF-HRV 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 7 . 6 1$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 2 .$ ，事后检验表明，冷加压环节的LF-HRV 高于静息态、冷加压后恢复和正念练习环节。如图 $3 \\mathrm { e } _ { \\circ }$ （204号",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "HF-HRV 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 7 . 9 9$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathtt { p } } { } ^ { 2 } = 0 . 1 3 .$ ，事后检验表明，冷加压环节的HF-HRV 高于静息态、冷加压后恢复和正念练习环节。如图 $3 \\mathrm { f } _ { \\circ }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LF/HF ratio 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 3 . 8 8$ ， $p = 0 . 0 1 0$ ， ${ \\mathfrak { \\boldsymbol { \\eta } } } _ { \\mathfrak { p } } ^ { 2 } = 0 . 0 7$ 。事后检验表明,正念练习环节的LF/HF ratio 高于静息态、冷加压和冷加压恢复环节。如图 $3 \\mathrm { g } .$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "coherence 在不同环节差异显著, $F ( 3 , 1 6 5 ) = 6 . 0 4 \\$ ， $p = 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } _ { \\mathfrak { p } } } ^ { 2 } = 0 . 1 0 _ { \\mathfrak { c } }$ ，正念练习时的coherence 高于静息态、冷加压和冷加压后恢复环节。如图 $3 \\mathrm { h }$ 9",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B b 86 14D s 125 1 0 1   \n1 7 中 3 0 # 原. 加断发 三士标习 P8 国 压 正   \nC. d 140− 000 山 3t00 4500 00 一 1002 市 冲加压 医 金医卫 f 350E 1400 800 1200 1 000 一 400 广 = 50 300 汤 田 正业饰马 老车 牛王 加三 正习   \n8 h 4T 45 3.5 书 m 30 .5. 25 三三 2 4 2 25 1s 1 22 5 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2特质正念与4个环节自主神经系统各指标的相关",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f76f02cb97b78d311eff5d5e5722dbdad70a5b92d6282a971529eb80520c6e1.jpg",
+        "table_caption": [
+            "表2MAAS总分与4个环节自主神经系统各指标的相关 $\\left( n = 5 6 \\right)$ "
+        ],
+        "table_footnote": [
+            "注：表示 $\\begin{array} { r } { p < 0 . 0 8 , } \\end{array}$ \\*表示 $p < 0 . 0 5 , \\AA ^ { \\ast }$ \\*\\*表示 $p < 0 . 0 1$ \\*\\*\\*表示 $p < 0 . 0 0 1$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"4\">MAAS总分与自主神经系统各指标的皮尔逊相关系数r</td></tr><tr><td>环节1：静息态</td><td>环节2：冷加压</td><td>环节3：冷加压后恢复</td><td>环节4：正念练习</td></tr><tr><td>HR</td><td>0.017</td><td>-0.075</td><td>0.040</td><td>0.076</td></tr><tr><td>SDNN</td><td>0.182</td><td>0.216</td><td>0.144</td><td>0.007</td></tr><tr><td>RMSSD</td><td>0.192</td><td>0.253†</td><td>0.216</td><td>0.091</td></tr><tr><td>TP</td><td>0.230</td><td>0.329*</td><td>0.191</td><td>-0.054</td></tr><tr><td>LF-HRV</td><td>0.226</td><td>0.249†</td><td>0.103</td><td>-0.136</td></tr><tr><td>HF-HRV</td><td>0.177</td><td>0.307*</td><td>0.276*</td><td>0.022</td></tr><tr><td>LH/HF ratio</td><td>-0.003</td><td>0.010</td><td>-0.278*</td><td>-0.116</td></tr><tr><td>Coherence</td><td>-0.123</td><td>-0.077</td><td>-0.266*</td><td>-0.106</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "56名被试的MAAS总分为 $5 1 . 6 4 \\pm 1 2 . 1 4$ 。Pearson 相关结果(见表2)显示,MAAS总分与静息态的自主神经系统各指标相关不显著，与正念练习各指标的相关也不显著;MAAS 总分与冷加压环节的TP和HF-HRV显著正相关，与RMSSD 和LF-HRV正相关边缘显著;MAAS总分与冷加压后恢复环节的HF-HRV 显著正相关，与LF/HF ratio 与coherence 显著负相关。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3特质正念与HRV自相似的关系",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究中，神经心理水平功能的QD 阈值 $\\mathbf {  { a } }$ 为0.80，参数对之间的QD小于0.80表示满足自相似。小于QD阈值 $\\alpha$ 的参数对的平均数量为 $5 . 1 8 \\pm 4 . 3 0$ ，取值范围为0\\~18.MAAS总分与满足自相似的参数对的数量相关显著，斯皮尔曼相关系数 $\\rho = 0 . 2 7 , p = 0 . 0 4 7 .$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析HRV自相似与特质正念的关系以及HRV自相似在不同环节中对 HRV各指标的影响，以HRV自相似为依据进行分组。将自相似参数对数量小于或等于5和大于5分别定义为低自相似和高自相似。低自相似组31人,MAAS总分为 $4 8 . 6 4 \\pm 9 . 9 1 \\$ ；高自相似组25人,MAAS总分为 $5 5 . 3 6 \\pm 1 3 . 7 5 .$ 独立样本 $t$ 检验结果表明,MAAS总分在高低自相似组差异显著, $t ( 5 4 ) = 2 . 1 2$ $p = 0 . 0 3 8$ ,Cohen's $d = 0 . 5 7$ ，如图4。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bc5d5687ed539d6f4c5f776db6f4f06ceaa40c4c4190d749238b1e426528ac7.jpg",
+        "img_caption": [
+            "图4高、低自相似组在MAAS总分上的差异"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4高低自相似分组在不同环节HRV各指标上的差异",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/b75818a19674ef813d8168f16ff85bea71ca38a7236487506c6e7c9fe9542b88.jpg",
+        "table_caption": [
+            "表3高低自相似组HRV各指标在不同环节的平均数、标准差 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">环节</td><td colspan=\"5\">指标</td></tr><tr><td>SDNN</td><td>RMSSD</td><td>TP</td><td>LF-HRV</td><td>HF-HRV</td></tr><tr><td>环节1：静息态</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低自相似组(n=31)</td><td>81.80 ± 38.88</td><td>78.68 ± 50.94</td><td>2178.93 ± 3955.73</td><td>1107.73 ± 2080.27</td><td>494.98 ± 552.94</td></tr><tr><td>高自相似组(n=25)</td><td>84.20 ± 45.79</td><td>91.74 ± 65.39</td><td>2302.07 ± 4587.96</td><td>876.69 ± 1896.51</td><td>577.00 ± 823.34</td></tr><tr><td>环节2：冷加压</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低自相似组(n=31)</td><td>93.41 ± 42.07</td><td>98.08 ± 60.11</td><td>2618.21 ± 3296.85</td><td>1542.05 ± 2395.99</td><td>676.75 ± 945.63</td></tr><tr><td>高自相似组(n=25)</td><td>128.23 ± 65.23</td><td>149.00 ± 86.08</td><td>6828.65 ± 8332.31</td><td>3735.76 ± 5345.15</td><td>1579.01 ± 1726.61</td></tr><tr><td>环节3：冷加压后恢复</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低自相似组(n=31)</td><td>81.64 ± 33.89</td><td>78.78 ± 44.84</td><td>2403.22 ± 3037.06</td><td>974.99 ± 1389.88</td><td>480.25 ± 562.25</td></tr><tr><td>高自相似组(n=25)</td><td>83.41 ± 35.60</td><td>89.36 ± 50.97</td><td>1699.11 ± 1386.02</td><td>591.80 ± 534.58</td><td>533.25 ± 404.34</td></tr><tr><td>环节4：正念练习</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低自相似组(n=31)</td><td>81.91 ± 26.32</td><td>70.61 ± 33.09</td><td>2131.67 ± 1294.55</td><td>1026.77 ± 924.48</td><td>489.30 ± 544.08</td></tr><tr><td>高自相似组(n=25)</td><td>75.47 ± 24.77</td><td>72.86 ± 35.63</td><td>1615.38 ± 1198.50</td><td>670.80 ± 511.91</td><td>497.81 ± 413.52</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "以下为高、低自相似组HRV各指标在不同环节中的差异。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "重复测量方差分析结果显示，环节对 SDNN主效应显著, $F ( 3 , 1 6 2 ) = 1 3 . 4 0 , p < 0 . 0 0 1$ ， ${ \\mathfrak { n } } _ { \\mathfrak { p } } ^ { 2 }$ $= 0 . 2 0$ ；高低自相似组与不同环节对 SDNN 交互作用显著, $F ( 3 , 1 6 2 ) = 5 . 0 6 \\$ ， $p = 0 . 0 0 2$ ， $\\boldsymbol { \\eta } ^ { 2 } =$ 0.09。简单效应分析结果显示，冷加压环节高自相似组的 SDNN 高于低自相似组， $F ( 1 { , } 5 4 ) =$ 6.84, $p = 0 . 0 1 9$ ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } = . 0 . 1 0$ ；其他环节高低自相似组的 SDNN 没有显著差异。如图 $5 \\mathrm { a } _ { \\circ }$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "环节对RMSSD 主效应显著, $F ( 3 , 1 6 2 ) = 1 8 . 0 9$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 2 5$ ；高低自相似组与不同环节对RMSSD 交互作用显著, $F ( 3 , 1 6 2 ) = 4 . 2 0$ $p = 0 . 0 0 7$ ， ${ \\mathfrak { \\eta } _ { \\mathfrak { p } } } ^ { 2 } = 0 . 0 7$ 。简单效应分析结果显示，冷加压环节高自相似组的RMSSD 高于低自相似组, $F ( 1 , 5 4 ) = 6 . 7 6 \\$ $p = 0 . 0 1 2$ ， ${ \\mathfrak { \\eta } _ { \\mathtt { p } } } ^ { 2 } = 0 . 1 1$ 其他环节高低自相似组的RMSSD 没有显著差异。如图 $5 6$ 0",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "环节对 TP 主效应显著, $F ( 3 , 1 6 2 ) = 8 . 4 7$ ， $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathtt { p } } ^ { 2 } = 0 . 1 4$ ；高低自相似组与不同环节对 TP 交互作用显著, $F ( 3 , 1 6 2 ) = 6 . 3 0 , p < 0 . 0 0 1$ ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { ~ 2 } = 0 . 1 0 .$ ,简单效应分析结果显示，冷加压环节高自相似组的 TP 高于低自相似组, $F ( 1 , 5 4 ) = 6 . 6 5$ $p = 0 . 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 1$ ；其他环节高低自相似组的TP 没有显著差异。如图 $5 \\mathrm { c } .$ 0",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "环节对LF-HRV 主效应显著, $F ( 3 , 1 6 2 ) = 9 . 4 7 , p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 5$ ；高低自相似组与不同环节对LF-HRV 交互作用显著, $F ( 3 , 1 6 2 ) = 4 . 7 6$ ， $p = 0 . 0 0 3$ ， $\\displaystyle { \\mathfrak { \\boldsymbol { \\eta } } _ { \\mathfrak { p } } } ^ { 2 } = 0 . 0 8$ 。简单效应分析结果显示，冷加压环节高自相似组的LF-HRV 高于低自相似组, $F ( 1 , 5 4 ) = 4 . 1 9$ $p = 0 . 0 4 5$ ， $\\mathfrak { n } _ { \\mathrm { p } } ^ { 2 } = 0 . 2 0$ ；其他环节高低自相似组的LF-HRV 没有显著差异。如图 5d。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "环节对HF-HRV 主效应显著, $F ( 3 , 1 6 2 ) = 9 . 8 4 , p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 5$ ；高低自相似组与不同环节对HF-HRV 交互作用显著, $F ( 3 , 1 6 2 ) = 4 . 7 4$ ， $p = 0 . 0 0 3$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } = 0 . 0 8$ 。简单效应分析结果显示,冷加压环节高自相似组的 HF-HRV 高于低自相似组, $F ( 1 , 5 4 ) = 6 . 1 8$ $p = 0 . 0 1 6$ ， ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 0$ ；其他环节高低自相似组的HF-HRV 没有显著差异。如图 $5 \\mathrm { e } _ { \\circ }$ （204号",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/660a1d9c70d5ed70d83f818edea4683b28e799c9be67a2411a1bffa9bd30ee49.jpg",
+        "img_caption": [
+            "图5HRV高低自相似组与不同环节对HRV各指标的交互作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "正念在维持适应方面的作用已被大量研究所证明，也有不少研究尝试探讨正念在适应过程中的作用机制。本研究聚焦在特质正念与自主神经系统活动的关系方面，用 HRV 表征自主神经系统的活动。综合以往研究可以看到，前人在探讨特质正念与HRV的关系时，所用的 HRV 指标仅局限于其中的几个(例如 Braeken et al.,2012; Jäger,2016)，且没有考虑不同状态下 HRV 指标之间的联动关系。本研究认为，机体作为一个系统，在面对不同的刺激时，多个不同指标之间的联动作用更能真实、全面、系统地反映机体的适应过程。另外，前人尝试用“内稳态”的概念解释正念在维持机体适应方面的作用机制(例如 Chrisman et al.，2009;Hosemans,2015;Wright etal.,2009)，却无法将\"内稳态\"的过程进行量化。因此，本研究引入了自相似的算法和功能内稳态的概念，通过计算 HR 和 HRV 各指标在不同环节的联动关系来表征不同状态下自主神经系统活动的功能内稳态，将功能内稳态的概念和过程进行量化并首次应用于心理学的研究，用以探讨正念维持适应的机制，推进了以往研究。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "研究有以下几个发现。最重要的结果在于MAAS 总分与冷加压-冷加压后恢复和冷加压-正念练习这两个过程 HRV 自相似之间显著正相关，支持了研究假设。结果说明，特质正念越高，个体在面对不同刺激时自主神经系统的功能越能保持自相似。自相似的生物学意义在于面对环境变化时保持稳态应变，也就意味着高自相似的个体，能够实时调整自己的身心状态及身体机能去适应当前环境的变化，而这种调整又是基于自身的功能内稳态，不至于使个体机能过度调高或调低，超过某种限度。以MAAS 总分表征的特质正念测量的是个体的注意觉知能力，全然的觉知让个体能够探测到身心信号及环境刺激的细微变化，以及时地作出最为恰当的反应。高自相似组的MAAS 总分显著高于低自相似组(见图4)；高自相似组的 HRV各指标(SDNN、RMSSD、TP、LF 和HF)在冷加压环节皆高于低自相似组(见图 5)，而高的 HRV表明大脑对外周生理控制更好，个体适应更好(Force，1996；Thayer&Lane，2000，2009;Thayer et al.,2012; Thayer&Brosschot,2005)。综合图4 和图5 的结果，说明高 HRV 自相似的个体特质正念更高，在面对不同变化时能够保持功能内稳态，反应更具适应性。这同时也说明，依据 HRV自相似对被试进行分组是有效的而且必要的。如图5所示，冷加压环节，高HRV 自相似组的 HRV 各指标显著高于低 HRV 自相似组；而在冷加压后恢复环节，高、低HRV 自相似组的HRV 各指标之间没有显著差异。这个结果说明，低HRV自相似组对冷加压没有反应，而高 HRV自相似组对冷加压产生了较为有效的反应；在冷加压后恢复过程，高HRV 自相似组能够更为迅速地恢复。高HRV 自相似组在冷加压时HRV 各指标升高，冷加压后恢复环节迅速恢复，这个过程从另一方面体现了功能内稳态，而这种稳态体现的又是一种自限性(self-limited)过程，指机体在应对环境刺激的过程中本身有一种自愈力，并不需要额外的干预，就能自动恢复到原来的水平(Bigelow，1835)。以往研究表明，正念并不会降低人们对刺激的反应性，而是让人在反应之后能更快地恢复到初始水平(Greenberg& Meiran,2014)。这意味着特质正念高的个体，通过对内外环境实时敏锐的觉察，不仅可以更有效地对环境刺激做出恰当的反应，还可以在反应过后更为迅速恢复到初始水平。研究结果更为直接地表明高 HRV 自相似的个体对冷加压的反应更为强烈、恢复更为迅速。虽然结果3.3 显示MAAS 总分与HRV自相似之间显著正相关，但正念在维持功能内稳态的过程中究竟是如何展现自限性过程(自愈力)的，还需要进一步的研究去揭示。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本研究 4 个环节的设计能够反映不同状态下自主神经系统的活动。相比于静息态、冷加压后恢复和正念练习环节，HR 和 HRV 的指标(SDNN、RMSSD、TP、LF 和 HF)在冷加压时最高，这看起来与以往研究结果有所不同。以往研究发现，相比于应激状态，静息态和自我调节的状态下的 HRV 更高(Grossman& Taylor,2007),HRV 在正念练习时更高(Dito,Eclache,& Goldman,2006; Takahashi et al.,2005; Tang et al.,2009),Burg 等人(2012)指出，正念练习时更高的 HRV 可能是由于深度放松引起的，这种深度放松与副交感神经的激活有关。这也从侧面解释了为什么本研究中正念练习阶段的HRV 没有升高，因为被试完全没有正念冥想经验，面对一个新异刺激无法达到深度放松。Moses,Luecken 和 Eason (2007)研究3种不同压力任务下——注意(模式匹配)、冷加压和演讲—HRV 从静息态、任务态到恢复过程的变化情况,HRV 的指标为HF-HRV 和 LF-HRV。结果发现，注意任务条件下，任务态的 HF-HRV 和LF-HRV 均低于静息态；而冷加压和演讲条件下，相比于静息态，任务态的 HF-HRV 和LF-HRV的升降变化并不一致。具体表现为，冷加压条件下，相比于静息态，任务态的LF-HRV下降,HF-HRV不变；演讲条件下，相比于静息态，任务态的LF-HRV不变,HF-HRV上升。此研究说明，不同的压力任务引发的 HRV 指标变化并不相同。本研究的结果与 Moses等人(2007)的研究结果并不一致，Moses 等人(2007)发现相比于静息态，冷加压条件下LF-HRV 下降，HF-HRV 不变，而本研究发现冷加压条件下LF-HRV 和 HF-HRV 皆升高。Moses 等人(2007)的冷加压设置是将冰袋贴在被试前臂皮肤 2分钟，没有报告诸如室温等其他信息。本研究的设置是让被试将右手(没过手腕)放入 $4 { \\sim } 6 \\mathrm { \\ : ^ { \\circ } C }$ 的冷水中3分钟，室温 $1 9 { \\sim } 2 2 ^ { \\circ } \\mathrm { C }$ 而实验时间为12月至次年1月份，正值南方的冬季，天气较为寒冷。是不是这些具体的操作与设置导致了两个研究 HRV 指标的变化不一致，需要进一步的研究去验证。本研究中冷加压任务下HRV 各指标更高，说明个体在协调自主神经系统的活动进行自我调节。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "研究探讨的另一个问题是特质正念与不同状态下 HR 和 HRV 各指标之间的关系。与Jäger (2016)的结果一致，本研究发现特质正念与静息态的 HRV 各指标相关不显著。本研究还发现，特质正念与冷加压后恢复环节的HRV各指标相关不显著，与正念练习时的HRV 各指标相关也不显著，而coherence 这个反映心脏功能和谐稳定的指标在正念练习时最高，说明正念练习确实能让心脏处于良好的状态。为什么特质正念与正念练习时的 HRV 之间没有显著相关呢?可能的一个原因在于，被试皆为从未接触过正念训练、没有任何冥想经验的大学生，虽然正念练习能让他们的心脏功能处于良好的状态，但正念练习对他们来说毕竟是一个新异刺激。Evans,Eisenlohr-Moul,Button,Baer 和 Segerstrom (2014)用冷加压任务诱发被试的急性疼痛，控制组被试用他们自己熟悉的方式应对疼痛，实验组被试根据简短的正念指导语的指示应对疼痛，结果只在控制组发现高的HRV能够预测高的疼痛忍耐度。也就是说，对于这些完全没有正念经验的被试，正念作为一种新的不熟悉的策略反而会降低对疼痛的忍耐度。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "研究主要有以下不足。第一，被试都是年轻的大学生，限制了结论推广到其他年龄段的群体；第二，适应的指标主要为 HRV，没有其他的效标变量做参考；第三，研究最主要的结果是特质正念(MAAS总分)与HRV自相似之间的相关，相关关系并不能得出因果关系的推论。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "基于本研究的发现及研究的不足之处，今后考虑从以下两方面进一步推进研究。一，研究通过引入自相似的算法，初步得出特质正念与HRV自相似之间的相关，后续需要更多的数据去验证结果的稳定性。比如，本研究环节2设置的冷加压任务是比较偏物理性的刺激，换成更为情绪性的任务或者更为认知性的任务，是否能得出与本研究同样的结果，需要进一步验证。二，本研究从特质正念的角度探讨了正念与自主神经系统活动之间的关系，由结果可以初步推测，正念维持适应的机制可能在于维持机体功能的内稳态。正念的概念来源于佛学，正式的正念练习称为\"冥想\"或“禅修”。那么，有着长期冥想经验的禅修者与新手禅修者在不同状态转换时的自主神经系统活动会有怎样的差异?禅修老手在状态切换的过程中是否比禅修新手更能维持自身的功能内稳态?对于这个问题的回答可以更为直接且深入地揭示正念维持适应的机制。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "致谢：实验前得到灵犀App呼吸空间音频作者童慧琦老师的授权使用和大力支持，在此表示感谢。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Baer,R.A.，Smith, G.T.,& Allen,K.B.(2004).Assessment of mindfulnessby self-report: The Kentucky inventory of mindfulness skills.Assessment,11(3),191-206.   \nBarnes,S.,Brown, K.W.,Krusemark,E., Campbel, W. K.,& Rogge,R.D. (2007). The role of mindfulness in romantic relationship satisfaction and responses to relationship stressJournal of Marital and Family Therapy, 33(4),482-500.   \nBerntson,G.G.,Bigger,T.J.,Eckberg,D.L.,Grossman,P.,Kaufmann,P.G.,Malik,M.,..& VANDer Molen, M. W. (1997). Heart rate variability: origins, methods, and interpretive caveats.Psychophysiology, 34(6), 623-648.   \nBigelow,J.(1835).A Discourse on self-limited diseases.Nathan Hale.   \nBillman,G.E. (2O11).Heart rate variability-A historical perspective.Frontiers in Physiology,2, 86.   \nBishop,S.R.,Lau,M.,Shapiro,S.,Carlson,L.,Anderson,N.D., CarmodyJ...Devins,G.(2O4). Mindfuless: a proposed operational definition. Clinical Psychology: Science and Practice,11(3),230-241.   \nBraeken, M. A. K. A., Otte,R. A.,Nyklicek,I.,& Van den Bergh,B.R. H. M. (2012). Mindful during pregnancy: a positive relation with heart rate variability. Psychophysiology, 49(S1), S111-S111.   \nBrown,K.W.,& Ryan,R.M.(2Oo3).The benefits of being present: mindfulness and its role in psychological well-being. Journal of Personality and Social Psychology,84(4), 822-848.   \nBrown,K.W.,Ryan,R.M.,Loverich,T.M.,Biegel, G.M.,&West,A.M.(2011). Out of the armchair and into the streets: measuring mindfulness advances knowledge and improves interventions: reply to Grossman (2011). Psychological Assessment, 23(4),1041-1046.   \nBurg,J.M.,Wolf,O.T.,& Michalak,J. (2O12).Mindfulnessasself-regulated atention: Associations withheart rate variability.Swiss Journal of Psychology,71(3),135-139.   \nCarlson,L.E.,& Brown,K.W.(2Oo5).Validation of the Mindful Atention Awareness Scale ina cancer population. Journal of Psychosomatic Research, 58(1),29-33.   \nChambers,R.，Gullone,E.,& Allen,N.B.(2009). Mindful emotion regulation: an integrative review.Clinical Psychology Review,29(6),560-572.   \nChrisman,J.A., Christopher,J. C.,&Lichtenstein,S.J. (2O09). Qigong as a mindfulness practice forcounseling students: A qualitative study. Journal of Humanistic Psychology,49(2),236-257.   \nCreswell,J.D.(2015).Biological pathways linking mindfulness with health.In Brown,K.W.,Creswell,J.D.,& Ryan,R.M. (Eds.). Handbook of mindfulnes: theory, research, and practice. (pp.426-440). New York,NY: Guilford Press.   \nCreswell, J. D.,& Lindsay,E. K. (2014). How does mindfulness training affect health? A mindfulness stress buffering account. Current Directions in Psychological Science, 23(6),401-407.   \nCreswell,J.D.,Myers,H.F., Cole,S.W.,&Irwin,M.R. (20o9).Mindfulness meditation training effects on ${ \\mathrm { C d } } 4 +$ T lymphocytes in HIV-1 infected adults: a smallrandomized controlled trial. Brain, Behavior, and Immunity, 23(2),184-188.   \nDemarzo,M.M.P.,Montero-Marin,J.,Stein,P.K.,Cebolla,A.,Provinciale,J. G.,& Garcia-Campayo,J. (2014). Mindfulness may both moderate_and mediate the effect of physical fitness on cardiovascular responses to stress:A speculative hypothesis.Frontiersin Physiology,5(105),1-8.   \nDeng,Y.Q.,Li, S. Tang,Y.Y., Zhu,L. H.,Ryan,R.,& Brown,K.(2012).Psychometric properties of the Chinese translation of the mindful atention awareness scale (MAAS). Mindfulness,3(1),10-14.   \nDidonna,F. (Eds). (2009). Clinical Handbook of Mindfulness. Springer-Verlag New York.   \nDitto,B.,Eclache,M.,& Goldman,N.(2O06). Short-term autonomic and cardiovascular effects of mindfulness body scan meditation. Annals of Behavioral Medicine, 32(3),227-234.   \nEberth,J.,& Sedlmeier,P.(2012). The effects of mindfulness meditation: a meta-analysis. Mindfulness,3(3), 174-189.   \nEvans,D.R., Eisenlohr-Moul, T. A.，Buton, D.F., Baer,R. A.,& Segerstrom, S. C.(2014). Self-regulatory deficits associated with unpracticed mindfulness strategies for coping with acute pain. Journal of Applied Social Psychology, 44(1),23-30.   \nFletcher,L.B., Schoendorff,B.,& Hayes,S.C.(2O10).Searching for mindfulness inthe brain: A process-oriented approach to examining the neural correlates of mindfulness.Mindfulness,I(1),41-63.   \nFogarty,F.A.,Lu,L.M.,Solers,J.J.,Krivoschekov,S.G.,Booth,R.J.,&Consedine,N.S.(2015).Why itpays tobe mindful: trait mindfulness predicts physiological recovery from emotional stress and greater differentiation among negative emotions. Mindfulness, 6(2),175-185.   \nForce,T. (1996). Guidelines: heart rate variability. European Heart Journal,17,354-381.   \nFries,M. (2O07). Mindfulness based stress reduction for the changing work environment. Journal of Academic and Business Ethics,55(1),1-10.   \nGalatzer-Levy,R.M.(1995). Psychoanalysis and dynamical systems theory: prediction and self-similarity.Journal of the American Psychoanalytic Association, 43(4),1085-1113. Journal of Psychophysiology,25(4),180-189.   \nGarland,E., Gaylord,S.,&Park,J.(20o9).Therole of mindfulness inpositive reappraisal.EXPLORE:The Journal of Science and Healing,5(1),37-44.   \nGodfrin, K.A.,& van Heeringen, C.(2Oi0).The effects of mindfulness-based cognitive therapy on recurrence of depressive episodes,mental health and quality of life: A randomized controlled study. Behaviour Research and Therapy, 48(8), 738-746.   \nGoldin,P.R.,& Gross, J.J.(2010). Effects of mindfulness-based stressreduction (MBSR) on emotion regulation in social anxiety disorder.Emotion,10(1),83-91.   \nGreenberg,J.,& Meiran,N. (2014). Is mindfulness meditation associated with “feling less” Mindfulness,5(5), 471-476.   \nGrossman,P.,Niemann,L., Schmidt, S.,& Walach, H.(2O04).Mindfulness-based stress reduction and health benefits: A meta-analysis.Journal of Psychosomatic Research,57(1),35-43.   \nGrossman,P.,Taylor,E. W. (2Oo7). Toward understanding respiratory sinus arrhythmia: relations to cardiac vagal tone,evolution and biobehavioral functions. Biological Psychology,74 (2),263-285.   \nHartmann,M., Kopf,S., Kircher,C.,Faude-Lang,V., Djuric,Z.,Augstein,F..Nawroth,P.P. (2012). Sustained effects of a mindfulness-based stres-reduction intervention in type 2 diabetic patients: Design and first results of a randomized controled trial (the Heidelberger diabetes and stress-study). Diabetes Care,35(5), 945-947.   \nHenderson,V.P., Clemow,L, Massion,A. O.,Hurley,T.G.,Druker,S.,& Hebert,J.R. (2012). The effects of mindfulness-based stress reduction on psychosocial outcomes and quality of life in early-stage breast cancer patients: a randomized trial. Breast Cancer Research and Treatment, 131(1), 99-109.   \nHosemans,D. (2015). Meditation: a process of cultivating enhanced well-being. Mindfulness, 6(2),338-347.   \nJager,M.J.(2O16).An investigation ofthe relationship between heartratevariability,mindfulnessand resilience in the context of emotion regulation (Bachelor's thesis,). University of Twente.   \nKabat-Zinn,J. (1982).An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: theoretical considerations and preliminary results. General Hospital Psychiatry,4(1),33-47.   \nKabat-Zinn, J. (1994). Wherever you go, there you are: Mindfulness meditation in everyday life. New York: Hyperion.   \nKeng,S.L., Smoski, M.J.,& Robins, C.J. (2011). Effects of mindfulness on psychological health: a review of empirical studies.Clinical Psychology Review,31(6),1041-1056.   \nKleiger,R.E.,Stein,P.K.,& Bigger,J.T.(2Oo5).Heart rate variability: measurement and clinical utility.Annals of Noninvasive Electrocardiology,10(1),88-101.   \nKrygier,J.R.,Heathers,J.A.J.,Shahrestani,S.,Abbott,M.,Gross,J.J.,& Kemp,A.H. (2013).Mindfulness meditation,wel-being,and heart rate variability:A preliminary investigation into the impact of intensive Vipassana meditation. International Journal of Psychophysiology, 89(3),305-313.   \nLibby，D.J.，Worhunsky，P.D.，Pilver,C.E.，& Brewer,J.A.(2012).Meditation-induced changes in high-frequency heart rate variability predict smoking outcomes.Frontiers in Human Neuroscience,6(12),54.   \nLiu C.Y.,Hu S.J.,LiX.Y., Wei H. J.,Chen T.S., Yang X.B...Li,M.Y. (2016).Quantitative difference and its application in sports science.Journal of Physical Education,23(1),11-17.   \n[刘承宜，胡少娟，李晓云，魏华江，陈同生，杨湘波.李末月.(2016)．定量差异及其在体育科学中的应用. 体育学刊,23(1),11-17.]   \nLiu C.Y., Zhu L.,LiF. H.,Liu Y.Y., Duan R., Zhang Q. G.,& Long C.(2017).Self-similar constant and quantitative difference as well as their applications in sports science. Journal of Physical Education, 24(6), 72-78.   \n[刘承宜，朱玲，李方晖，刘延莹，段锐，张全光，龙程.(2017)．自相似常数和定量差异及其在体育科学中的 应用．体育学刊,24(6),72-78.]   \nLiu,C.Y.,Liu,G., Hu,S.J.,Zhu,L., Yang,X.B.,Zhang, Q.G. (2017).Quantitative Biologyof Exercise-Induced Signal Transduction Pathways. Advances in Experimental Medicine Biology, 977,419-424.   \nLiu, X.H., Wang,S.S., Chang,S. C., Chen, W.J.,& Si,M. (2013). Effect of brief mindfulness intervention on tolerance and distress of pain induced by cold-pressor task. Stress and Health,29 (3),199-204.   \nMacKillop,J.,&Anderson,E.J. (2Oo7).Further psychometric validation of the mindful attention awarenesscale (MAAS). Journal of Psychopathology and Behavioral Assessment, 29 (4),289-293.   \nMalinowski,P.,& Hui,J.L.(2O15).Mindfulness at work: positive aect,hope,and optimism mediate the relationship between dispositional mindfulness，work engagement，and well-being.Mindfulness，6(6), 1250-1262.   \nMankus,A.M.,Aldao,A., Kerns,C., Mayvile,E.W.，& Mennin,D.S.(2013). Mindfulness and heart rate variability in individuals with high and low generalized anxiety symptoms. Behaviour Research and Therapy, 51(7),386-391.   \nMatousek，R.H.，Dobkin，P.L.，& Pruessner，J.(2010).Cortisol as a marker for improvement in mindfulness-based stress reduction. Complementary Therapies in Clinical Practice,16(1),13-19.   \nMcCraty,R.& Childre,D. (010).Coherence: Bridging personal,social,and global health.Alternative Therapies in Health and Medicine,16(4),10-24. Poster session presented at International conterence of the IEEE engineering in medicine and biology society, 644-647.   \nMuzio,F.J.,Swanson,P.D.,& Otino,J. M. (1992). Mixing distributions produced by multiplicative stretching in chaotic flows. International Journal of Bifurcation and Chaos,2(1),37-50.   \nNovaco,R. W.(200).Anger dysregulation. In T.A. Cavel, K.T. Malcolm,T.A. Cavel,& K.T.Malcolm. (Eds.), Anger,aggression and interventions for interpersonal violence (pp.3-54). New Jersey: Lawrence Erlbaum Associates Publishers.   \nPagani,M.,Lombardi,F., Guzzeti,S.,Sandrone,G.,Rimoldi,O.,Malfato,G... Malliani,A.(1984).Power spectral density of heart rate variability as an index of sympatho-vagal interaction in normal and hypertensive subjects. Journal of hypertension,2(3), S383-385.   \nPark,T.,Reillyspong,M.,& Gross, C.R.(2O13). Mindfulnes: a systematic review of instruments to measure an emergent patient-reported outcome (pro). Quality of Life Research,22(10),2639-2659.   \nQuaglia,J.T.,Braun,S.E.,Freeman,S.P.,McDaniel,M.A.,&Brown,K.W. (2016). Meta-analytic evidence for effects of mindfulness training on dimensions of self-reported dispositional mindfulness.Psychological Assessment,28(7), 803-818.   \nRosmond,R. (2Oo5). Role of stress in the pathogenesis of the metabolic syndrome. Psychoneuroendocrinology, 30(1), 1-10.   \nSauer,S., Walach,H., Schmidt,S.,Hinterberger,T.,Lynch,S., Bussing,A.,& Kohls,N. (2013).Asessmentof mindfulness: Review onstate of the art. Mindfulness,4(1),3-17.   \nSedlmeier，P.，Eberth,J.， Schwarz,M.， Zimmermann,D.，Haarig,F., Jaeger,S.，& Kunze,S.(2012).The psychological effects of meditation: a meta-analysis.Psychological Bulletin,138(6),1139-1171.   \nSegal,Z.V.,Teasdale,J.D., Wiliams,J. M.,& Gemar,M. C. (2002). The mindfulness-based cognitive therapy adherence scale: Inter-rater reliability，adherence to protocol and treatment distinctiveness Clinical Psychology and Psychotherapy,9(2),131-138.   \nSegal,Z. V.,Williams,J. M.G.,& Teasdale,J.D. (2012). Mindfulness-based cognitive therapyfor depression. Guilford Press   \nShaffer,F.,McCraty,R.,& Zerr,C.L. (2014). A healthy heart is nota metronome: an integrative review of the heart's anatomy and heart rate variability.Frontiers in psychology,5,1040.   \nShapiro,S.L.，Carlson,L.E.，Astin,J.A.，& Freedman,B.(2006). Mechanisms of mindfulness.Journal of Clinical Psychology, 62(3),373-386.   \nSiegling，A.B.，& Petrides，K.V. (2014).Measures_of trait mindfulness: Convergent validity，shared dimensionality,and linkages to the five-factor model.Frontiers in Psychology,5,1164.   \nSoer,R.,de Jong,A.B., Hofstra,B.L.,Schiphorst Preuper, H.R.,& Reneman,M.F.(2015). Does mindfulness improve after heart coherence training in patients with chronic musculoskeletal pain and healthy subjects? A pilot study. Global Advances in Health and Medicine,4(4),50-55.   \nSterling,P. (2012). Allostasis: a model of predictive regulation. Physiology & Behavior,106(1),5-15.   \nSterling,P.& Eyer,J. (1988).Allostasis: anew paradigm to explain arousal pathology.In: SFisher,J.Reason. (Eds).Handbook of life stress,cognition and health (pp. 629-649).NewYork: John Wiley & Sons.   \nTakahashi,T., Murata,T., Hamada,T.,，Omori, M., Kosaka, H., Kikuchi, M... Wada, Y.J. (2005). Changes in EEG and autonomic nervous activity during meditation and their association with personality traits. International Journal of Psychophysiology,55(2),199-207.   \nTang,Y. Y., Ma, Y.H., Fan, Y. X., Feng, H. B.,Wang,J. H., Feng,S G.,...Fan, M. (2009). Central and autonomic nervous system interaction is altered by short-term meditation. PNAS Proceedings of the National Academy of Sciences of the United States of America, 106(22), 8865-8870.   \nThayer,J.F., Ahs,F.，Fredrikson,M.， Sollers,J.J.，& Wager,T.D. (2012).A meta-analysis of heart rate variability and neuroimaging studies: implications for heart rate variability as a marker of stress and health. Neuroscience and Biobehavioral Reviews,36(2),747-756.   \nThayer,J.F.,& Brosschot, J.F. (2005). Psychosomatics and psychopathology: looking up and down from the brain.Psychoneuroendocrinology,30(10),1050-1058.   \nThayer,J.F.,& Lane,R. D. (2ooo). A model of neurovisceral integration in emotion regulation and dysregulation. Journal of Affective Disorders, 61(3),201-216.   \nThayer,J.F.,& Lane,R.D.(2Oo9).Claude Bernard and the heart-brain connection: Further elaboration of a model of neurovisceral integration. Neuroscience and Biobehavioral Reviews,33(2),81-88.   \nTirch,D.D. (2o10).Mindfulness asacontext for thecultivationof compassion. International Journal ofCognitive Therapy, 3(2),113-123.   \nVieten, C.,Astin, J.A.，Buscemi,R.,& Galloway, G.P. (2010).Development of an acceptance based coping intervention for alcohol dependence relapse prevention. Substance Abuse,31(2),108-116.   \nWeinstein,N.,Brown,K.W.,&Ryan,R.M.(2Oo9).Amulti-method examination of the effects of mindfulness on stress atribution,coping,and emotional well-being. Journal of Research in Personality, 43(3),374-385.   \nWest G. (2O17).Scale:The Universal Laws of Growth, Innovation,Sustainability，and the Pace of Life in Organisms,Cities,Economies,and Companies.New York: Penguin Press.   \nWright,S., Day，A.,& Howels,K.(2009). Mindfulness and the treatment of anger problems. Aggression & Violent Behavior,14(5),396-401.   \nZeltzer,L. K.,Fanurik,D.,& Lebaron,S.(1989). The cold presor painparadigmin children: feasibilityof an intervention mndel (nart ii) Pain 37(3) 305-313 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Physiological mechanisms of mindfulness: Preliminary evidence from self-similarity of heart rate variability ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "SUN Shasha1; LI Xiaobing²; LI Baoshan1; LIU Chengyi³; HUANG Miner1 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(l Department of Psychology, Sun Yat-sen University,Guangzhou51ooo6,China) (² Department of Physical Education, Sun Yat-sen University,Guangzhou51O275,China) ( School of Physical Education and Sports Science,South China Normal University,Guangzhou 51oo06,China) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Mindfulness has a considerable contribution to one's physical and psychological health and his/her ability to adapt to an endlessly changing environment. Researchers have proposed different perspectives in studying the mechanism of mindfulness.However,few of the previous theoretical frameworks are based on the ongoing changes in a dynamic process. In this study, we investigate the relationship between trait mindfulness and the functions of the autonomic nervous system from a“self-similarity” perspective, which represents function-specific homeostasis. The concept of self-similarity refers to the ability of the human body to remain stable when experiencing changes from the internal and external environmental factors ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In the current study, four conditions (5 min resting,3 min stressful, 5 min post-stress states, and $5 . 4 \\mathrm { m i n }$ mindfulness practice) were established to induce different physical and psychological status and to examine the self-similarity levels of the participants.The cold-pressor task,a safe and effective paradigm to induce pain in laboratory setings,was used in this study，which involved 56 undergraduate students. Heart rate variability (HRV） with itstime- and frequency-domain measures (SDNN, RMSSD, TP,LF,and HF), which represent the functions of the autonomic nervous system, were employed to calculate self-similarity.A biofeedback system (emWave Pro Plus) with an ear sensor was used to record the HRV measures consecutively during the four phases. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The three main results of the study are as follows. First, one-way repeated analyses of the variance test on HRV measures (SDNN, RMSSD,TP,LF,and HF) yielded significant effects for the conditions.The post hoc test indicated that the HRV under stressful condition was higher than those under conditions of resting state,post-stress state,and mindfulness practice.Hence, the whole function and balance of the autonomic nervous system, HRV measure,and coherence were significantly higher in mindfulness practice than in the resting,stressful, and post-stress states. Second,correlation analysis revealed that the self-similarity level of HRV significantly correlated with trait mindfulness measured by the Mindful Attention Awareness Scale (MAAS). Third, the 56 participants were divided into two groups according to mean self-similarity level. Measures of HRV(SDNN,RMSSD，TP,LF,and HF） of the high self-similarity group $\\left( n \\ = \\ 2 5 \\right)$ ）were significantly higher than those of the low self-similarity group $\\left( n \\right) = 3 1 \\cdot$ ）only under stressful conditions.However, this was not the case under the other three conditions. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The above results indicated that HRV changes according to the changing conditions; moreover,high trait mindfulness and self-similarity can protect organisms from poor adaptation, especially when they encounter stressul conditions.The correlation between mindfulness and self-similarity of HRV measures implies that self-similarity may play a core role in how mindfulness works. The current study is a pilot study conducted with only college students, thus limiting the generalization of our conclusion. Moreover,the participants in our study had no previous experience of mindfulness practice,as their mindfulness level was represented with the MAAS measurement. In the future,we seek to recruit people with mindfulness or meditation practice experiences to explore whether meditation expertswould better keep their function-specific homeostasis in different processes than meditation novices would. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key wordstrait mindfulness; self-similarity; function-specific homeostasis; heart rate variability (HRV) ",
+        "page_idx": 23
+    }
+]

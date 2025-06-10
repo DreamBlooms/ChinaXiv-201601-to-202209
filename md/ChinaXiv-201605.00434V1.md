@@ -1,0 +1,245 @@
+# 海南岛热带原始森林主要分布区土壤有机碳密度及影响因素
+
+杨怀1,2 李意德l＊任　海³骆土寿」　陈仁利」　刘文杰4　陈德祥」许　涵 周　璋}林明献}　杨　秋4姚海荣4周国逸³
+
+1中国林业科学研究院热带林业研究所，海南尖峰岭森林生态系统国家野外科学观测研究站，广州 510520;中国林业科学研究院森林生态环境与保护研究所，国家林业局森林生态环境重点实验室，北京 100091;中国科学院华南植物园，广州 510650;海南大学环境与植物保护学院，海口 570228摘要以海南尖峰岭、霸王岭、五指山、吊罗山、鹦哥岭5个热带原始森林土壤为研究对象，分层采集 $1 0 0 \ \mathrm { c m }$ 的土壤样品并分析有机碳含量，用纵向拟合法和分层估算法分别估算其土壤有机碳密度及其影响因素。结果显示:(1)纵向拟合法计算的5个热带原始森林土壤有机碳密度分别为14.98、18.46、16.48、18.81、 $1 6 . 6 6 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，分层估算法分别为14.73、16.24、15.50、16.91、 $1 5 . 0 3 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ ，前者显著高于后者 $( p < 0 . 0 5 )$ ；未经扰动的原始森林土壤，宜采用纵向拟合法计算土壤有机碳密度。(2)5个热带原始森林 $0 { - } 3 0 ~ \mathrm { c m }$ 表层土壤有机碳含量分别占 $0 { \mathrm { - } } 1 0 0 \ { \mathrm { c m } }$ 的 $50 . 5 0 \%$ 、 $4 8 . 5 6 \%$ 、 $4 3 . 4 9 \%$ 、47.37、 $4 2 . 8 8 \%$ 。(3)土壤有机碳密度与森林群落Shannon-Wiener指数 $( p < 0 . 0 1 )$ )、Simpson指数 $( p < 0 . 0 5 )$ 、物种丰富度 $( p < 0 . 0 1 )$ ）、土壤容重 $( p < 0 . 0 0 1 )$ 存在极显著或显著的负相关关系；与海拔 $( p < 0 . 0 5 )$ 、土壤孔隙度 $( p < 0 . 0 0 1 )$ 、土壤全氮含量 $( p < 0 . 0 0 1 )$ 存在极显著或显著的正相关关系;与坡向、林分生物量、平均胸径、平均树高无显著相关关系 $( p > 0 . 0 5 )$ )。(4)由于海南地处低纬度地区，其丰富的降水和持续高温条件加速了有机质的分解和物质的再循环，导致海南森林土壤碳密度远低于全国平均水平。
+
+关键词海南热带原始森林；土壤纵向拟合方法；土壤分层方法；土壤有机碳密度引用格式：杨怀，李意德，任海，骆土寿，陈仁利，刘文杰，陈德祥，许涵，周璋，林明献，杨秋，姚海荣，周国逸(2016).海南岛热带原始森林主要分布区土壤有机碳密度及影响因素．植物生态学报,40,292-303.doi:10.17521/cjpe.2015.0314
+
+# Soil organic carbon density and influencing factors in tropical virgin forests of Hainan Island, China
+
+YANG Huail2,LI Yi-Del\*,REN Hai3,LUO Tu-Shoul, CHEN Ren-Lil,LIU Wen-Jie4, CHEN De-Xiang], XU Han ZHOU Zhangl, LIN Ming-Xian1, YANG Qiu4, YAO Hai-Rong4,and ZHOU Guo-Yi³
+
+Resercie Guangzou andProetelde China;and4CollgeofEnvironmentandPlantProtection,Hainan University,Haikou57o228,China
+
+# Abstract
+
+AimsEstimating soil organic carbon (SOC) density and influence factors of tropical virgin forests in Hainan Island provide new insight in basic data for SOC pool estimation and its dynamics study.
+
+MethodsThe main distribution areas of tropical virgin forests in Jianfengling (JFL),Bawangling (BWL),Wuzhishan (WZS), Diaoluoshan (DLS), Yinggeling (YGL) of Hainan Island were selected,and soil samples (0-100 cm) were sampled and analyzed.SOC density was estimated by soil vertical fiting method and soil stratification method to discover the distribution characteristics of soil organic carbon in tropical virgin forests of Hainan Island.
+
+Important findingsResults showed that: (1)The average SOC density using soil vertical fiting method in JFL, BWL,WZS, DLS and YGL was 14.98,18.46, 16.48, 18.81, $1 6 . 6 6 ~ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ , respectively, which was significantly higher $( p < 0 . 0 5 )$ than the estimated average SOC density using soil stratification method in these areas (14.73, 16.24, 15.50, 16.91, $1 5 . 0 3 \mathrm { ~ k g } { \cdot } \mathrm { m } ^ { - 2 }$ ,respectively). It is better to use soil vertical fitting method for SOC density estimation when the soil was natural without disturbance. (2） The proportion of SOC content in the first $0 { - } 3 0 ~ \mathrm { c m }$ depth interval out of SOC in the whole $0 { \mathrm { - } } 1 0 0 ~ { \mathrm { c m } }$ soil profiles in JFL,BWL, WZS,DLS and YGL was $5 0 . 5 0 \%$
+
+$4 8 . 5 6 \%$ ， $4 3 . 4 9 \%$ ， $4 7 . 3 7 \%$ ， $42 . 8 8 \%$ ，respectively. (3） SOC density was significantly negative correlated with Shannon-Wiener index,Simpson index,species richness,and soil bulk density; and was significantly positive correlated with altitude,soil porosity,and soil nitrogen.However, SOC density was not significantly correlated to slope,biomass,average diameter at breast height,or average height. (4) Our study area Hainan was located in low latitude area with high rainfalland high temperature, which accelerated the decomposition of organic mattr and nutrient recycling,resulting in significantly lower SOC densities in this tropical virgin forests of Hainan Island than the average value in China.
+
+Key wordsHainan tropical virgin forests; soil vertical fiting method;soil stratification method; soil organic carbon density
+
+Citation: Yang H,LiYD,RenH,LuoTS,ChenRL,Liu WJ,ChenDX,XuH,ZhouZ,LinMX,YangQ,YaoHR,Zhou GY(2016) SoilorganiccarbodsityndiuecingfactorsintropicalvirginforestsofHainanIsland,China.ChineseJounaloflntEcol ogy, 40,292-303.doi: 10.17521/cjpe.2015.0314
+
+森林生态系统作为陆地生态系统主体，其面积仅占全球非冰表面的 $40 \%$ (徐新良等，2007)，但维持着陆地生态系统植被碳库的 $8 2 \% - 8 6 \%$ 和土壤碳库的 $70 \% - 7 3 \%$ (Schmidt et al., 2011; Todd-Brown $e t$ al.，2014)，总碳量高达 $6 3 8 \ { \mathrm { ~ G t } }$ （ ${ \mathrm { ( 1 ~ G t ~ = ~ 1 ~ \times ~ 1 0 } ^ { 9 } }$ t)(FAO,2010)，每年固定的碳约占整个陆地生态系统的2/3(Fang&Chen,2001)。森林土壤有机碳储量的变化影响着陆地生态系统碳收支平衡，是导致大气碳库与全球气候变化主要的因素(Lal,2005)。土壤碳库 $0 . 1 \%$ 的变化将导致大气圈 $\mathrm { C O } _ { 2 }$ 浓度发生百万分之一的变化，全球土壤有机碳 $10 \%$ 的变化，相当于人类活动30年排放的 $\mathrm { C O } _ { 2 }$ 量(Parker et al.,2001)。土壤有机碳作为一种稳定而长效的碳源物质，其分布与动态变化是学者关注的热点问题(赵安玖等,2009)。近年来，我国在森林土壤有机碳密度的研究有增加趋势(王绍强和刘纪远，2002)，但大都基于收集的资料，在精度上有待提高。因此，要更精准地评价土壤碳库，须通过大量样地调查来实现。
+
+海南热带森林占全国热带森林面积的 $3 1 . 4 \%$ 是受全球气候变化影响的敏感区域，在生态环境建设中起举足轻重的作用(蒋有绪和卢俊培,1991)。一些学者对海南热带土壤碳密度进行了研究，如王海燕等(2009)、谭丽霞等(2012)、李福燕等(2008)、陈小花等(2014)、曹启民等(2012)、张莉(2013)，但较少涉及原始森林土壤碳密度。本文以海南主要热带原始森林土壤为研究对象，采用土壤纵向拟合法和土壤分层法分别计算土壤碳密度，阐明其与地形、植被、土壤理化性质的关系，为进一步精确估算海南岛热带原始林土壤碳库提供科学依据。
+
+# 2 研究方法
+
+# 2.1 研究地概况
+
+研究地在海南岛热带原始森林主要分布区尖峰岭(JFL)、霸王岭(BWL)、五指山(WZS)、吊罗山(DLS)和鹦哥岭(YGL)。海南属低纬度热带岛屿季风气候，雨热同期，降水丰富，干湿两季明显，11月-翌年4月为旱季，5-10月为雨季；成土母岩主要是花岗岩、砂页岩和闪长岩等，土壤主要为砖黄壤和砖红壤。各研究点基本情况见表1(蒋有绪和卢俊培，1991；安树青等，1999；李意德等，2002；江海声，2006；王文进等，2007；龙文兴等，2008；臧润国，2010；黄运峰等，2012；刘惠宁和陈辈乐，2012；郝清玉等,2013；张晓琳等,2014)。
+
+# 2.2样地设置、土壤采集及分析方法
+
+在5个区域内各设置 $\mathrm { ~ 1 ~ } 2 0 0 \mathrm { ~ m } ^ { 2 }$ 0 $3 0 \mathrm { ~ m ~ } \times 4 0 \mathrm { ~ m ~ }$ 的典型样地30个，记录其海拔、坡度、坡向等环境参数；调查其树种组成、胸径 $( D B H )$ 、树高等群落学参数，并计算Shannon-Weinner指数和物种丰富度。样地内使用内径为 $3 \ \mathrm { c m }$ 的土钻随机选取4-6个点，按 $\left. 0 - 1 0 \mathrm { c m } , 1 0 - 2 0 \mathrm { c m } , 2 0 - 3 0 \mathrm { c m } , 3 0 - 5 0 \mathrm { c m } , 5 0 - 1 0 0 \right.$ cm等5个层次分别取样，对应层次的样品进行混合。混合土样被带回实验室按四分法缩分再风干，过2mm筛后装瓶备测。土壤有机碳用重铬酸钾加热法，土壤全氮用半微量开氏法，土壤全磷用 $\mathrm { H C l O } _ { 4 }$ ， $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 法测定(史瑞和等,1996；鲁如坤,2000)。在样地周边挖取代表性的一个土壤剖面(深 $1 0 0 \ \mathrm { c m } )$ ，用土壤环刀中 $( 1 0 0 ~ \mathrm { c m } ^ { 3 } )$ 按上述土壤层次每层取2个环刀样品，在105$\mathrm { { ^ \circ C } }$ 烘干至恒质量后称量，并计算土壤容重。
+
+群落Shannon-Wiener指数的计算：
+
+表1海南5个主要热带原始林区基本情况表Table1 Basic conditions of the five tropical virgin forests in Hainan  
+
+<html><body><table><tr><td>研究点 Location</td><td>经度 Longitude (E)</td><td>纬度 Latitude (N)</td><td>年平均气温 Mean annual temperature(℃)</td><td>平均年降水量 Mean annual precipitation (mm)</td><td>海拔范围 Elevation range (m)</td><td>主要森林类型 Main forest type</td><td>主要土壤类型 Main soil type</td></tr><tr><td>尖峰岭 Jianfengling</td><td>108.60° 109.08°</td><td>18.38° 18.83°</td><td>25-20</td><td>1 700-2 600</td><td></td><td>600-1400低地雨林、山地雨林 Lowland rainforest,Montane rainforest</td><td>砖红壤、砖黄壤 Latosol,lateritic yellow soil</td></tr><tr><td>霸王岭 Bawangling</td><td>108.97°- 109.88°</td><td>18.88° 19.33°</td><td>25-20</td><td>1 500-2 300</td><td></td><td>600-1500低地雨林、山地雨林 Lowland rainforest,Montane rainforest</td><td>砖红壤、砖黄壤 Latosol, lateritic yellow soil</td></tr><tr><td>五指山 Wuzhishan</td><td>109.65° -109.78°</td><td>18.82° -18.97°</td><td>24-19</td><td>2 300-2 500</td><td></td><td>800-1800 山地雨林、山地常绿阔叶林 Montane rainforest, montane broadleaved evergreen forest</td><td>砖黄壤、黄壤 lateritic yellow soil,yellow soil</td></tr><tr><td>吊罗山 Diaoluoshan</td><td>109.75° -110.05°</td><td>18.67° -18.97°</td><td>25-20</td><td>1 870-2 760</td><td></td><td>500-1450低地雨林、山地雨林 Lowland rainforest,Montane rainforest</td><td>砖红壤、砖黄壤 Latosol, lateritic yellow soil</td></tr><tr><td>鹦哥岭 Yinggeling</td><td>109.18 109.57°</td><td>18.82°- 19.13°</td><td>24-20</td><td>1 800-2 700</td><td></td><td>600-1800 山地雨林、山地常绿阔叶林 Montane rainforest,montane broadleaved evergreen forest</td><td>砖红壤、砖黄壤、黄壤 Latosol,lateritic yellow soil, yellow soil</td></tr></table></body></html>
+
+$$
+H ^ { \prime } = - \sum _ { i = 1 } ^ { s } p _ { i } \ln p _ { i }
+$$
+
+式中 $S$ 表示总物种数， $p _ { i }$ 表示第 $i$ 个种占总数的比例(Pielou, 1975)。
+
+土壤容重的计算:
+
+土壤容重 $( \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 } ) = M / V$ (2)式中 $M$ 表示环刀内干土质量 $\mathbf { \tau } ( \mathbf { g } )$ ： $V$ 表示环刀体积$( \mathrm { c m } ^ { 3 } )$ 。
+
+# 2.3土壤碳密度计算方法
+
+土壤有机碳密度 $( S O C _ { \mathrm { d e n s i t y } } )$ 是指单位面积单位深度土体中土壤有机碳质量，国际上通常以深度1m、面积 $1 \mathrm { ~ m } ^ { 2 }$ ，即1 $\mathrm { m } ^ { 3 }$ 的土壤有机碳质量为参照标准，单位为 $\mathrm { k g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ 。
+
+# 2.3.1 纵向拟合法
+
+纵向拟合方法是通过对土壤各层进行拟合得到土壤有机碳随深度变化的近似函数，然后利用此函数计算平均土壤有机碳，结合土壤质地、厚度、容重等来计算土壤有机碳密度。公式如下：
+
+$S O C _ { \mathrm { d e n s i t y } } { = } C \times \theta \times D \times ( 1 { - } \delta ) / 1 0 0$ (3)式中， $C$ 为平均土壤有机碳含量 $( \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } )$ ,， $D$ 为土层厚度(cm), $\theta$ 为土壤容重 $( \mathrm { g } \cdot \mathrm { c m } ^ { - 3 } )$ ), $\delta$ 为直径 $> 2 \ \mathrm { m m }$ 的砾石含量(体积百分数)。土壤不同层次的有机碳含量、质地、容重等土壤理化性质也不同，在数据允许的情况下，应该分别计算，但小区域范围内，可以忽略砾石(粒径 $> 2 ~ \mathrm { ~ m m } )$ 含量之间的差异(徐艳等，2005)。根据研究区土壤质地(黄成敏和龚子同,2000)及土壤石质度级别与 $\delta$ 的关系(姚贤良和程云生,1986)，取 $\delta$ 值为 $0 . 5 \%$ 。
+
+表2利用纵向拟合方法计算的各地区土壤有机碳含量、土壤容重和土 壤有机碳密度 Table 2The soil organic carbon (SOC) content, SOC density and soil bulk density measured by the vertical fitting method   
+
+<html><body><table><tr><td>地点 Location</td><td>土壤有机碳含量 SOC content (g·kg-1)</td><td>土壤容重 Soil bulk density (g:cm-3)</td><td>土壤有机碳密度 SOC density (g·kg-1)</td></tr><tr><td>尖峰岭 Jianfengling</td><td>11.32</td><td>1.33</td><td>14.98</td></tr><tr><td>霸王岭</td><td>14.84</td><td>1.25</td><td>18.46</td></tr><tr><td>Bawangling 五指山</td><td>13.58</td><td>1.22</td><td>16.48</td></tr><tr><td>Wuzhishan 吊罗山 Diaoluoshan</td><td>13.60</td><td>1.39</td><td>18.81</td></tr><tr><td>鹦哥岭 Yinggeling</td><td>16.26</td><td>1.03</td><td>16.66</td></tr></table></body></html>
+
+# 2.3.2 分层估算法
+
+土壤分层方法是将不同深度的土壤有机碳、容重进行加和，然后再平均。根据土壤分层数据(表2)计算土壤有机碳密度，公式如下：
+
+$$
+S O C _ { \mathrm { d e n s i t y } } = \sum _ { i = 1 } ^ { 5 } C _ { i } \times \theta _ { i } \times D _ { i } \times \left( 1 - \delta _ { i } \right) / 1 0 0
+$$
+
+式中i为土层数， $C , \ N , \ D , \ \theta , \ \delta$ 的物理意义与公式3相同。
+
+# 3结果和分析
+
+# 3.1纵向拟合法计算土壤有机碳密度
+
+利用土壤有机碳、土壤容重等数据拟合其随土壤深度变化情况。首先将各研究点的30个样点的土壤有机碳、土壤容重作出散点图，然后利用线性函数、对数函数、幂函数、指数函数、二次多项式等多个函数进行拟合，找出最佳的拟合曲线(图1和图2)。
+
+60 60 O 50 A 50 OB oo 40 888 y=-9.045 In (x) + 43.929 40 9 y= 84.264x-0.541 30 W-0671 0-00 30 8o081o88o 00 R2=0.668p<0.01 ○ Q 688626000 1 60 80 cootaoy 900gpy 20 DQD 0 @odg 0 10 COP 0 0 0102030405060708090100 110 0102030405060708090100110 60 60   
+n g O 50 C 50 D 8   
+ceriaen orrreeg 30 40 00 8888 o0 y=49.762x-0.389 R²=0.555p<0.01 40 30 800 9 y=70.677x-0.515 R²=0.681 p<0.01   
+S 2010 pago 810199 20 CQ co0po: 10 Corbo1o 6aago 0 0 0102030405060708090100110 010 203040506070 8090100110 60 剖面深度 Profile depth (cm) 0 E 50 40上 @ y= 0.009x2-0.98x+35.258 6 R²=0.513 p<0.01 图1海南岛热带原始森林土壤有机碳含量与 30 下 8 贝。 O ○ 剖面深度拟合曲线。A，尖峰岭。B，霸王岭。 C，五指山。D，吊罗山。E，鹦哥岭。 20 90 Sxo 9o0o 89099 Fig.1 Changes of soil organic carbon content O with soil depth in tropical virgin forests of 0 9o Hainan Island.A,Jianfengling.B,Bawangling 10 C,Wuzhishan.D,Diaoluoshan.E, Yinggeling. O 0 L 0102030405060708090100110 剖面深度 Profile depth (cm)
+
+根据拟合曲线和积分中值定理，可得到5个地区的土壤有机碳密度、容重(表2)，其土壤容重的范围是 $1 . 0 3 { - } 1 . 3 9 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ ，与全国平均容重 $1 . 3 0 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ 接近。
+
+# 3.2分层估算法计算土壤有机碳密度
+
+对5个地区各层土壤有机碳、容重进行计算(表3)，其土壤表层有机碳 $( 0 { - } 1 0 ~ \mathrm { c m } )$ 显著高于其他土壤层次，具有表聚性。
+
+# 3.3植被、地形和土壤主要性质与土壤碳密度的相关性
+
+采用皮尔逊相关分析法，分析5个研究区的植
+
+1.8 1.8 O   
+1.6 A 89000g9 0o58000 1.6 B   
+41 = o80888 Qo00090oo 41 8808998 c009686 Qpgo0y 0 0p08g9 8989899   
+1.0 O 1.0 0   
+0.8 1 6 =0.961x0.090 0.8 0 y=0.778 + 0.130 ln (x)   
+0.6 R²=0.330 p<0.01 0.6 0 R²=0.396 p<0.01 ○   
+0.4 1 上 L 上 上 L L 0.4 0 10 20 3040 506070 8090100110 0 10 2030 40 50607080 90 100110   
+1.8 1.8 C o　0000898 oo08 o6pgpouo Cooxoxo 0 ooaobgo 899Q88 oogi0oo 1641 8@q@00   
+1.2 Qo1o0oo   
+108 。 ③−0 00s 1088 8 0 8 60 y= 0.969 +0.117ln (x)   
+0.6 R²=0.230 p<0.01 0.6 R²=0.287 p<0.01 0   
+0.4 上 L 0.4 010 2030405060 6070 8090 100 110 010 20 3040 5060 70 80 90100 110   
+1.8 剖面深度 Profile depth (cm) E O   
+1.6 6 O   
+1100 4归 oacocono 8 886090.o98 qangp888 图度海南岛热带原始森峰壞容重与。 8 o C，五指山。D，吊罗山。E，鹦哥岭。 Fig.2Changes of soil bulk density with soil   
+800 depth in tropical virgin forests of Hainan Island. y=0.795x0.068 A, Jianfengling.B, Bawangling. C,Wuzhishan. 1 R²=0.275 p<0.01 D, Diaoluoshan. E, Yinggeling.   
+0.4 F 1 1 L 0 102030405060708090100110 剖面深度 Profile depth (cm)
+
+被因子(物种丰富度、Simpson指数、Shannon-Wiener指数、Pielou均匀度指数、林分生物量、林分郁闭度、林木平均高度、林木平均胸径和单位面积植株个体数)、地形因子(坡度、海拔、坡向)和土壤理化性质因子(土壤总孔隙度、土壤容重、土壤全氮、土壤全磷)与土壤有机碳密度的关系，表明Shannon-Wiener指数 $( r = - 0 . 2 5 1$ ， $p < 0 . 0 1 \$ )、Simpson指数( ${ \bf \dot { \boldsymbol { r } } } =$ $- 0 . 1 8 2 , p < 0 . 0 5 )$ 、物种丰富度 $( r = - 0 . 2 2 8 , p < 0 . 0 1 )$ 、土壤容重 $( r = - 0 . 4 8 5$ $p < 0 . 0 0 1 \$ )与土壤有机碳密度存在极显著或显著的负相关关系；海拔( $r = 0 . 1 7 8$ ， $p <$ 0.05)、土壤孔隙度 $( r = 0 . 4 8 5 , p < 0 . 0 0 1 )$ 、土壤全氮 $( r =$ 0.317, $p < 0 . 0 0 1 \AA _ { . } ^ { \cdot }$ 与土壤有机碳密度存在极显著或显著的正相关关系。经单因素方差分析，表明坡向对土壤有机碳密度无显著影响 $( F = 0 . 6 2 0 , p > 0 . 0 5 )$ 。
+
+表3各土壤层次的土壤有机碳含量 $( S O C , \mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } )$ 和土壤容重(SBD, $\mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 } .$ 的统计结果(平均值±标准误差) Table 3Soil organic carbon content $( S O C , \mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } )$ and soil bulk density $( S B D , \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 } )$ of all soil layers (mean   
+
+<html><body><table><tr><td>土层 Soil layer (cm)</td><td>指标 index</td><td>尖峰岭 Jianfengling (n = 30)</td><td>霸王岭 Bawangling (n = 30)</td><td>五指山 Wuzhishan (n = 30)</td><td>吊罗山 Diaoluoshan (n = 30)</td><td>莺歌岭 Yinggeling (n = 30)</td></tr><tr><td rowspan="2">0-10</td><td>SOC</td><td>30.35± 1.57ABa</td><td>34.71 ± 2.78Aa</td><td>25.29 ± 1.27Ba</td><td>30.95 ± 1.68Aa</td><td>32.11 ± 2.13Aa</td></tr><tr><td>SBD</td><td>1.11 ± 0.03Aa</td><td>0.99±0.03Ba</td><td>0.99 ± 0.03Ba</td><td>1.16 ± 0.04Aa</td><td>0.90±0.04Ba</td></tr><tr><td rowspan="2">10-20</td><td>SOC</td><td>19.54 ± 1.23Ab</td><td>23.08 ± 1.41Ab</td><td>20.88± 1.5Ab</td><td>20.21 ± 1.16Ab</td><td>20.79 ± 1.03Ab</td></tr><tr><td>SBD</td><td>1.24 ± 0.02ACb</td><td>1.1 ± 0.03Bb</td><td>1.16 ± 0.03ABb</td><td>1.27 ± 0.03Cb</td><td>1.00 ± 0.04Dab</td></tr><tr><td rowspan="2">20-30</td><td>SOC</td><td>12.72 ± 0.68Ac</td><td>16.37 ± 1.11ABc</td><td>15.66 ± 1.09ABc</td><td>14.08 ±0.68Ac</td><td>14.88 ± 0.83Ac</td></tr><tr><td>SBD</td><td>1.32 ± 0.03Abc</td><td>1.22 ±0.03Bc</td><td>1.23 ± 0.02Bbc</td><td>1.35 ± 0.04Ab</td><td>1.02 ± 0.03Cb</td></tr><tr><td rowspan="2">30-50</td><td>SOC</td><td>9.73 ± 0.83Ad</td><td>12.42 ± 0.97Bc</td><td>12.05 ± 0.67Bd</td><td>10.41 ± 0.67ABd</td><td>12.35± 0.89Bc</td></tr><tr><td>SBD</td><td>1.37± 0.03Ac</td><td>1.27 ± 0.02Bed</td><td>1.26±0.03Bc</td><td>1.44 ± 0.02Ac</td><td>1.06 ± 0.04Cb</td></tr><tr><td rowspan="2">50-100</td><td>SOC</td><td>6.72 ± 0.61Ae</td><td>7.87 ± 0.44ABd</td><td>9.25 ± 0.50Bd</td><td>8.22 ± 0.51ABd</td><td>11.45 ± 1.28Cc</td></tr><tr><td>SBD</td><td>1.39 ± 0.03Ac</td><td>1.32 ± 0.02Ad</td><td>1.23 ± 0.02Bbc</td><td>1.45 ± 0.03ACe</td><td>1.05 ± 0.03Db</td></tr><tr><td>0-100</td><td>SOCdensity</td><td>14.73</td><td>16.24</td><td>15.50</td><td>16.91</td><td>15.03</td></tr></table></body></html>
+
+不同大写字母表示各地区间的差异显著 $( p = 0 . 0 5 )$ ，不同小写字母表示不同土壤层次间的差异显著 $( p = 0 . 0 5 )$ 。 $S O C _ { \mathrm { { d c n s i t y } } } ,$ ，土壤有机碳密度。Different capital letters showed significant difference among different areas $( p = 0 . 0 5 )$ ; Different lowercase letters showed significant difference among difisoil layers $( p = 0 . 0 5 )$ $S O C _ { \mathrm { d e n s i t y } }$ ,soil organic carbon density.
+
+PCA非约束排序分析(表4，表5；图3)表明，前两轴解释总方差的比例是 $54 . 9 \%$ 。从1型标尺双序图看，物种丰富度，Shannon-Wiener指数，Simpson指数，Pielou均匀度指数，生物量，林木平均高度，林木平均胸径，郁闭度对排序空间的贡献大于所有变量的平均贡献。从2型标尺双序图看，土壤有机碳密度、土壤总孔隙度、土壤全磷，坡度、郁闭度，土壤全氮，单位面积植株个体数，土壤容重，物种丰富度对样方沿着第一轴分布起关键作用；土壤有机碳密度与土壤总孔隙度、海拔、土壤全磷、坡度具有正相关关系，与土壤容重、物种丰富度、ShannonWiener指数、Simpson指数具有负相关关系。
+
+# 4讨论和结论
+
+# 4.1土壤有机碳含量及碳密度
+
+纵向拟合法计算的5个研究区土壤有机碳含量分别为11.32、14.84、13.58、13.60、 $1 6 . 2 6 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ ，土壤有机碳密度分别为15.21、18.60、16.08、18.81、$1 6 . 6 6 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ 。分层法计算的土壤有机碳密度分别为14.96、16.47、15.64、16.91、 $1 5 . 0 3 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ 。两种方法计算的森林土壤有机碳与海南白沙县原始森林土壤有机质A层为 $( 4 1 . 8 \pm 7 . 6 ) ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，B层为 $( 1 3 . 4 \pm$ 4.2) $\mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 }$ (王海燕等,2009)，霸王岭热带低地雨林原始森林 $0 { - } 2 0 ~ \mathrm { c m }$ 土壤有机质为 $3 1 . 8 6 9 ~ \mathrm { g { \cdot k g } ^ { - 1 } }$ (黄永涛，2013)，尖峰岭热带山地雨林原始森林0-10、$1 0 { - } 3 0 , 3 0 { - } 6 0 \ \mathrm { c m }$ 土壤有机质分别为 $( 5 7 . 3 1 \pm 1 5 . 4 6 )$ 、（24号 $( 2 4 . 9 0 \pm 7 . 0 6 ) \$ 、 $( 1 3 . 1 0 \pm 4 . 3 6 ) ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ (时雷雷，2012)相一致，均高于海南岛土壤有机碳密度的算术平均值 $9 . 4 8 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ (李克让等,2003)、广东鼎湖山自然保护区 $7 . 3 9 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ (方运霆等,2004)、中国土壤平均碳密度 $9 . 6 0 \mathrm { ~ k g } { \cdot } \mathrm { m } ^ { - 2 }$ (于东升等,2005)和 $1 0 . 5 3 \mathrm { ~ k g } { \cdot } \mathrm { m } ^ { - 2 }$ (王绍强等，2000)和全球土壤有机碳密度平均水平10.6$\mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ (Batjes，1996)，但小于东北地区平均土壤碳密度 $2 1 . 2 7 ~ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ (王绍强等,2001)。但这些结果包括农地、林地、草地的总和，不能反映森林土壤碳贮存的情况。因此，专从森林角度来看，海南5个地区原始林土壤有机碳密度小于中国森林土壤平均碳密度 $1 9 . 3 5 ~ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 }$ (路秋玲等，2012)，及方精云等(1996) $( 2 0 . 1 3 \ \mathrm { \ k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 、周玉荣等(2000）（19.36$\mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 估算的全国森林土壤有机碳密度的平均值,但高于广西 $( 1 2 . 1 3 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ (蔡会德等,2014)、美国大陆 $( 1 0 . 8 ~ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 和澳大利亚 $( 8 . 3 \ \mathrm { k g } { \cdot } \mathrm { m } ^ { - 2 } )$ 的森林土壤有机碳密度(Dixon et al.,1994)。
+
+表4植被、地形和土壤主要性质第1、2、3、4主成分特征值、贡献率、 累积率 Table 4Eigenvalue,contributive and accumulative rates of principal component 1,2,3 and 4 in the vegetation,topography and soil properties   
+
+<html><body><table><tr><td>主成分 Component</td><td>特征值 Eigenvalue</td><td>贡献率 Contributive rate (%)</td><td>累计贡献率 Accumulative rate (%)</td></tr><tr><td>1</td><td>5.436 171</td><td>33.98</td><td>33.98</td></tr><tr><td>2</td><td>3.352 781</td><td>20.95</td><td>54.93</td></tr><tr><td>3</td><td>1.918 007</td><td>11.99</td><td>66.92</td></tr><tr><td>4</td><td>1.024 251</td><td>6.402</td><td>73.32</td></tr></table></body></html>
+
+表5植被、地形和土壤主要性质中第1、2、3、4主成分元素负荷量Table 5Element loading of principal component 1,2,3 and 4 in the vege-tation,topography and soil properties  
+
+<html><body><table><tr><td>指标Index</td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td></tr><tr><td>物种丰富度</td><td>-0.361 22</td><td>-0.126 59</td><td>-0.19371</td><td>0.173 50</td></tr><tr><td>Species richness Simpson指数</td><td>-0.245 99</td><td>-0.385 24</td><td>-0.159 24</td><td>0.012 57</td></tr><tr><td>Simpson index</td><td></td><td>-0.338 54</td><td></td><td></td></tr><tr><td>Shannon-Wiener指数 Shannon-Wiener index</td><td>-0.310 91</td><td></td><td>-0.149 16</td><td>0.025 99</td></tr><tr><td>Pielou均匀度指数 Pielou evenness index</td><td>-0.13010</td><td>-0.43893</td><td>-0.163 01</td><td>-0.13468</td></tr><tr><td>林分生物量 Forest biomass</td><td>0.174 37</td><td>-0.375 81</td><td>-0.076 67</td><td>0.092 61</td></tr><tr><td>林分郁闭度 Forest canopy density</td><td>0.328 61</td><td>-0.172 54</td><td>0.193 56</td><td>-0.102 91</td></tr><tr><td>林木平均树高</td><td>0.22740</td><td>-0.357 66</td><td>0.171 44</td><td>-0.072 60</td></tr><tr><td>Trees average height 林木平均胸径</td><td>0.307 09</td><td>-0.324 36</td><td>0.06692</td><td>0.10056</td></tr><tr><td>Trees average DBH 单位面积植株个体数</td><td>-0.313 95</td><td>0.161 62</td><td>-0.265 97</td><td>0.28035</td></tr><tr><td>Plant individual numbers per unit area</td><td></td><td></td><td></td><td></td></tr><tr><td>坡度</td><td>0.08152</td><td>-0.066 99</td><td>-0.22718</td><td>0.199 30</td></tr><tr><td>Slope 海拔</td><td>0.190 56</td><td>-0.222 59</td><td></td><td></td></tr><tr><td>Elevation</td><td></td><td></td><td>-0.276 19</td><td>0.372 46</td></tr><tr><td>土壤总孔隙度</td><td>0.309 97</td><td>0.118 85</td><td>-0.361 86</td><td>0.077 20</td></tr><tr><td>The soil total porosity</td><td></td><td></td><td></td><td></td></tr><tr><td>土壤容重 Soil bulk density</td><td>-0.309 97</td><td>-0.118 85</td><td>0.36186</td><td>-0.07720</td></tr><tr><td></td><td>0.143 54</td><td></td><td></td><td></td></tr><tr><td>土壤有机碳</td><td></td><td>0.112 50</td><td>-0.458 22</td><td>0.36367</td></tr><tr><td>Soil organic carbon</td><td></td><td></td><td></td><td></td></tr><tr><td>土壤全氮</td><td>-0.035 58</td><td>0.03416</td><td>-0.36348</td><td>-0.579 54</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Soil total nitrogen</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>土壤全磷</td><td>0.23548</td><td>0.043 86</td><td>-0.092 07</td><td>0.423 42</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Soil total phosphorus</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+DBH,diameter of breast height.
+
+![](images/d0ef5dec88f31e33d6908d0b09c50f04c7e8ae5f084ece28e80982165f84feca.jpg)  
+图3海南岛热带原始森林植被、地形、土壤主要性质PCA双序图。 $A L _ { : }$ ，海拔;BI，生物量; $C ,$ 土壤有机碳密度; $C D$ ，郁闭度;DBH，林木平均胸径; $G R ,$ 坡度; $H ,$ 林木平均高度; $J ,$ Pielou均匀度指数; $N ,$ 土壤全氮; $P ,$ 土壤全磷; $S ,$ 物种丰富度;SBD，土壤容重; $S I ,$ Simpson指数; $S P ,$ 土壤总孔隙度; $s W ,$ Shannon-Wiener指数; $T D _ { \mathrm { { i } } }$ ，单位面积植株个数。  
+Fig.3Thedoublesequencedagramsofprincipalcompoentaalysis inegetation,topograph,soil propertiesintropicalvigin forests of Hainan Island. $A L ,$ altitude; $B I ,$ biomass; $C ,$ soil organic carbon density; $C D$ ,canopy density; $D B H ,$ average tree diameter at breast height; $G R$ ，gradient; $H ,$ average tree height; $J ,$ Pielou evenness index; $N ,$ soil total nitrogen; $P ,$ soil total phosphorus; $S ,$ species richness; $S B D$ ，soil bulk density; $S I _ { \ l }$ Simpson index; $S P ,$ soil porosity; SW, Shannon-Wiener index; $m$ , tree numbers in unit area.
+
+海南岛森林土壤碳密度低于全国平均水平，主要原因是海南岛地处低纬度地区，丰富的降水和持续高温条件加速有机质的分解和物质的再循环，不利于土壤有机碳的积累。但远远高于广西、美国和澳大利亚地区，说明海南岛热带森林土壤有明显的固持有机碳能力，在全球碳循环中是一个较大的碳汇。同时也高于鼎湖山近一倍，其原因是鼎湖山土层较薄(平均为 ${ 5 1 . 9 9 ~ \mathrm { c m } } )$ ，降雨量也较海南岛分配均匀，全年高温高湿，不利于有机碳的积累，且人为收割林下层植物和凋落物造成土壤碳损失(方运霆等，2004)。早在1988-1995年吴仲民(1997)的研究表明尖峰岭主要热带森林土壤有机碳储量为97.10-119.54$\tan ^ { - 2 }$ ，加权平均值为 $1 0 2 . 6 0 \ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ ，本文试验结果为 $1 5 2 . 0 ~ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ ，这与Zhou等(2006)研究发现的原始成龄林土壤碳库有累积现象是一致的。
+
+# 4.2土壤有机碳密度在土层中的垂直变化
+
+5个研究区 $0 { - } 3 0 ~ \mathrm { c m }$ 的土壤有机碳含量变化较大，而 $3 0 { \mathrm { - } } 1 0 0 \ { \mathrm { c m } }$ 土层变化较少，其中0-30cm土壤有机碳含量分别占0-100cm土层的 $50 . 5 0 \%$ ！$4 8 . 5 6 \%$ 、 $4 3 . 4 9 \%$ 、47.37、 $4 2 . 8 8 \%$ 。张晓琳等(2014)的研究 $0 { - } 3 0 ~ \mathrm { c m }$ 土层的有机碳贡献率是 $4 6 . 7 7 \%$ 。Baties (1996)的研究 $0 { - } 3 0 ~ \mathrm { c m }$ 土壤碳贮量在全球各类型土壤中的平均贡献率为 $49 \%$ 。赵广帅等(2014)的研究 $0 { \ - } 4 0 \ \mathrm { c m }$ 土层土壤有机碳在黄河下游引黄灌区的贡献率是 $43 . 5 \%$ 。李英升等(2014)的研究 $0 { - } 3 0 ~ \mathrm { c m }$ 土层土壤有机碳密度在江西省4种森林类型的贡献率为 $50 \%$ 左右。潘鹏等(2014)的研究 $0 { - } 3 0 ~ \mathrm { c m }$ 土壤有机碳密度在江西中部马尾松(Pinus massoniana)天然林不同龄组的贡献率在 $4 1 . 3 \% - 5 2 . 4 \%$ 之间。Liu等(2012)的研究中 $0 { - } 2 0 ~ \mathrm { c m }$ 土壤平均有机碳密度在青藏高原东北部7个植被类型的贡献率为 $43 \%$ 。本文结果与上述一致。上层土壤有机碳密度明显高于下层主要因为土壤有机碳来源于地上的凋落物和地下的根系。调落物集中在地表，其分解产物向浅层土壤转移；同时地下的根系也集中在浅层土壤。故浅层土壤有机碳密度的贡献率较高。
+
+# 4.3土壤有机碳密度的影响因素
+
+海南岛热带原始林区土壤有机碳密度与Shannon-Wiener指数、Simpson指数、物种丰富度呈负相关关系。Roem等(2002)的研究表明物种多样性与土壤养分呈负相关关系。DiTommaso和Aarssen (1989)研究表明草本物种丰富度随土壤养分增加而降低。王长庭(2010)研究认为不同类型草地群落其多样性指数随土壤有机碳增加而降低。崔鸿侠等(2012)研究表明灌木层和草本层物种多样性与土壤碳储量显著负相关。肖德荣等(2008)研究认为Shannon-Wiener指数、Simpson指数与土壤有机质含量负相关。李林等(2006)研究表明灌木层的Shannon指数与土壤有机质显著负相关。在海南岛热带原始森林里，物种数增多其根系分泌物及凋落物质量多样化，这导致微生物数量和活性升高及土壤酶活性增强，加速土壤有机物质的分解及养分元素的释放，使得土壤有机碳密度随多样性增加减少。另外，当土壤中养分丰富时，一些物种对丰富的养分能很快地吸收和利用，并且将形成占优势的区域而排除其他物种进入(Gough etal.,2000)。Xu等(2015)对尖峰岭热带雨林的研究表明稀有种往往分布在生物多样性较低的贫磷地方，且本文研究结果为生物多样性与土壤有机碳密度负相关，故稀有种分布的地方土壤有机碳密度可能较高，因此，这更加支持了划分自然保护区应包含生物多样性低的地方。本研究表明土壤有机碳密度与土壤容重负相关。在高寒草地(杜慧平，2007)、高寒牧区(土壤活性有机碳)(展争艳等，2005)、云南热区4种林分(陈伟等,2013)、密云水库上游流域(王淑芳，2012)等地土壤有机碳密度与土壤容重负相关关系。在影响土壤有机碳密度各因子中，土壤容重的独立解释能力最强 $( 4 2 . 0 \% )$ ，土壤容重增加，提高了土壤紧实度，孔隙减少，不利于有机碳矿化和分解(李志洪和王淑华,2000)。
+
+土壤有机碳含量随海拔上升而递增。在老哈河流域(郭月峰等，2014)、密云水库上游流域(王淑芳等,2012)、粤北亚热带山地森林(柯娴氢等,2012)、庐山(杜有新等,2011)、祁连山北坡垂直带山地森林(胡启武等，2006)和其他地方(徐侠等，2008；Fuetal.，2011；耿广坡等，2011)的研究土壤有机碳随海拔上升也递增。海拔升高导致气温降低，蒸发量减少，动植物残体分解缓慢且大部分沉积在土壤中，使土壤有机碳的释放降低(杜有新等,2011)。低海拔由于温度较高导致土壤有机碳分解加快，促进了有机碳的释放(施政等,2008)。
+
+森林碳汇是当今应对全球气候变暖的积极措施，也是林业对社会经济可持续发展做出贡献的途径和平台。海南是林业大省，开展森林碳汇研究具有生态区位的重要优势，通过精准测算和实地研究表明海南热带原始土壤有机碳密度较大，有明显的蓄积能力，是一个较大的碳汇。
+
+基金项目中国科学院战略性先导科技专项(XDA0505020602)、国家自然科学基金(31290223)和中央级公益性科研院所基本科研业务费专项(RITFYWZX2012-02和CAFYBB2014QA010)。
+
+致谢‧感谢尖峰岭森林生态系统国家野外科学观测研究站工作人员，霸王岭林业局杨秀森、洪小江及相关人员，五指山林业局韩志勇、张剑峰及相关人员在野外调查、采样工作中给予的帮助。
+
+# 参考文献
+
+AnSQ,Zhu XL,Wang ZF,Li GQ,Chen XL(1999). The plant species diversity in a tropical montane rain forest on Wuzhi Mountain,Hainan. Acta Ecologica Sinica，19,   
+803-809.(in Chinese with English abstract)[安树青，朱 学雷，王峥峰，李国旗，陈兴龙 (1999).海南五指山热 带山地雨林植物物种多样性研究．生态学报，19,   
+803-809.] Batjes NH (1996). Total carbon and nitrogen in the soils of the world.European Journal of Soil Science,47,151-163. CaiHD,Zhang W,Jiang JF,Nong SJ,Fang YK,Xiong XF (2014).Estimation and distribution patterns of organic carbon stock in forest soil in Guangxi.Journal of Nanjing Forestry University (Natural Sciences Edition),38(6),1-5. (in Chinese with English abstract)[蔡会德，张伟，江锦 烽，农胜奇，方颖琨，熊晓斐 (2014).广西森林土壤有 机碳储量估算及空间格局特征．南京林业大学学报(自 然科学版),38(6),1-5.]   
+Cao QM, Wu PF, Zhao CM, Qin JW,Jiang JS (2012). Latitude distribution of soil organic matter and its influence of climate factors in rubber planting areas in Hainan Island. Guangdong Agricultural Sciences, 39(7), 85-87. (in Chinese with English abstract)[曹启民,吴鹏飞，赵春梅，覃 姜薇，蒋菊生 (2012).海南植胶区土壤有机质纬度分布 特征及其气候影响因素．广东农业科学,39(7),85-87.]   
+Chen W, Meng M, Qiu Q, Feng X, Yang B, Xu YM (2013). Comparison of soil organic carbon of four forests in tropical Yunnan. Journal of West China Forestry Science, 42(3),79-85.(in Chinese with English abstract)[陈伟，孟 梦，李江，邱琼，冯弦，杨斌，徐玉梅，2013．云南热区4 种林分土壤有机碳的比较研究．西部林业科学，42(3), 79-85.]   
+Chen XH, Yu XB, Xue Y, Wang XY, Cui XB, Ding X (2014). Litter and soil soluble organic carbon feature of three vegetation types in Wenchang, Hainan Island. Chinese Journal of Tropical Crops，35,2043-2049. (in Chinese with English abstract）[陈小花，余雪标，薛杨，王小燕, 崔喜博，丁熙 (2014).海南文昌3种森林类型凋落物及 土壤有机碳现状分析．热带作物学报,35,2043-2049.]   
+Cui HX, Xiao WF, Pan L, Huang ZL, Pang HD (2012). Characteristics of soil carbon storage of Abies fargesi forest in Shennongjia. Scientia Silvae Sinicae,48(11),107-111. (in Chinese with English abstract)[崔鸿侠，肖文发，潘磊, 黄志霖，王晓荣，庞宏东 (2012)．神农架巴山冷杉林土 壤碳储量特征．林业科学,48(11),107-111.]   
+DiTommaso A,Aarssen L (1989). Resource manipulations in natural vegetation: A review. Vegetation, 84, 9-29.   
+Dixon RK,Solomon A,Brown S,Houghton R, Trexier M, Wisniewski J(1994). Carbon pools and flux of global forest ecosystems. Science,263,185-190.   
+Du HP (2007). Correlations Between Soil Organic Carbon Fractions with Variable Links to Soil Physical in an Alpine Pastureland. Master degree dissertation, Gansu Agricultural University,Lanzhou.1-11.(in Chinese with English abstract）[杜慧平 (2007)．高寒草地土壤有机碳组分之 间及有机碳组分与土壤物理性质之间的相关性．硕士 论文，甘肃农业大学,兰州.1-11.]   
+Du YX, Wu CJ, Zhou SX, Huang L, Han SM, Xu XF, Ding Y (2011). Forest soil organic carbon density and its distribution characteristics along an altitudinal gradient in Lushan Mountains of China. Chinese Journal of Applied Ecology, 22,1675-1681.(in Chinese with English abstract)[杜有 新，吴从建，周赛霞，黄良，韩世明，徐雪峰，丁园 (2011).庐山不同海拔森林土壤有机碳密度及分布特征. 应用生态学报,22,1675-1681.]   
+Fang JY, Chen AP (2001). Dynamic forest biomass carbon pools in China and their significance. Acta Botanica Sinica, 43, 967-973.   
+Fang JY, Liu GH, Xu SL, Wang GC, Wen YP (1996). Carbon Storage of Terrestrial Ecosystems in China. China Environment Science Press,Beijing. 128,391-397.(in Chinese)[方精云，刘国华，徐嵩龄，王庚辰，温玉璞 (1996).中国陆地生态系统的碳库．中国环境科学出版 社，北京.128,391-397.]   
+Fang YT,Mo JM,Browns S, Zhou GY, Zhang QM,Li DJ (2004). Storage and distribution of soil organic carbon in Dinghushan Biosphere Reserve. Acta Ecologica Sinica, 24,135-142.(in Chinese with English abstract)[方运霆, 莫江明,Brown S，周国逸，张倩媚,李德军 (2004)．鼎 湖山自然保护区土壤有机碳贮量和分配特征．生态学 报,24,135-142.]   
+FAO (2010). Global Forest Resources Assessment 2010: Main Report.http://159.226.251.229/videoplayer/i1757e.pdf?ich_ u_r_i=c4b8e6ae40ba67a122b7fcae2a6d7a01&ich_s_t_a_r. Cited: 2015-08-27.   
+Fu W, Zhao K, Zhang C, Tunney H (2011). Using Moran's I and geostatistics to identify spatial patterns of soil nutrients in two diffrent long-term phosphorus-application plots.Journal of Plant Nutrition and Soil Science,174, 785-798.   
+Geng GP,Gao Peng,Lv SQ, Zhang J(2011). Spatial distribution of soil organic mater and total nitrogen in Matiyu small watershed in hilly area of middle southern Shandong Province. Science of Soil and Water Conservation, 9(6), 99-105.(in Chinese with English abstract)[耿广坡，高鹏, 吕圣桥,张杰 (2011).鲁中南山区马蹄峪小流域土壤有 机质和全氮空间分布特征．中国水土保持科学，9(6), 99-105.]   
+Gough L, Osenberg CW, Gross KL,Collins SL (2000). Fertilization effects on species density and primary productivity in herbaceous plant communities. Oikos, 89,428-439.   
+Guo YF, Yao YF, Qin FC, QI W, Wang X, Chang WD (2014). Impact of terrain factors on soil organic carbon in Laoha riverbasin.Journal ofAridLand Resources and Environment,28(2),156-161.(in Chinese with English abstract) [郭月峰，姚云峰,秦富仓，祁伟，王欣,常伟东 (2014). 地形因子对老哈河流域土壤有机碳的影响．干旱区资 源与环境,28(2),156-161.]   
+Hao QY, Liu Q, Wang SQ, Zhong QX, Wang YC, Ruan CL, Yan TL,Du S, Huang YC (2013). Biomass of forest communities at different altitude regions in Yinggeling montane tropical rainforest,Hainan Island. Journal of Tropical and Subtropical Botany，21, 529-537. (in Chinese with English abstract)[郝清玉，刘强，王士泉，钟琼芯，王亚 陈，阮长林，严廷良，杜爽，黄奕财 (2013)．鹦哥岭山 地雨林不同海拔区森林群落的生物量研究．热带亚热 带植物学报,21,529-537.]   
+Hu QW, Ouyang H, Liu XD (2006). Distribution characteristics of soil organic carbon and total nitrogen along the altitudinal belt in the northern slope of Qilian Mountains. Journal of Mountain Science,24,654-661.(in Chinese with English abstract）[胡启武，欧阳华，刘贤德，2006．祁连 山北坡垂直带土壤碳氮分布特征．山地学报，24, 654-661.]   
+Huang CM, Gong ZT (2000). Study on pedogenesis and development of mountain soils in Jianfengling mountain area. Journal of Mountain Science,18(3),193-200.(in Chinese with English abstract)[黄成敏,龚子同 (2000).海南岛尖 峰岭地区山地土壤发生特性．山地学报,18(3),193-200.]   
+Huang YF,Ding Y, Zang RG,Li XC,Zhou ZC,Han WT (2012). Spatial patern of trees in tropical lowland rain forest in Bawangling of Hainan Island, China. Chinese Journal of Plant Ecology, 36, 269-280. (in Chinese with English abstract)[黄运峰，丁易，臧润国，李小成，邹正 冲，韩文涛 (2012)．海南岛霸王岭热带低地雨林树木的 空间格局．植物生态学报,36,269-280.]   
+Huang YT (2013). Comparison of Soil Properties under Different Succession Series of Tropical Lowland Rain Forest in Bawangling, Hainan Island. Master degree dissertation, Southwest University，Chongqing.12-35.(in Chinese with English abstract)[黄永涛 (2013).海南霸王岭热带 低地雨林不同演替阶段土壤理化性质比较．硕士论文, 西南大学，重庆.12-35.]   
+Jiang HS (2006). Biodiversity and Protection in Diaoluoshan, Hainan. Guangdong Science and Technology Press, Guangzhou.(in Chinese)[江海声 (2006).海南吊罗山生 物多样性及其保护．广东科技出版社，广州.]   
+Jiang YX,Lu JP (1991).Tropical Forest Ecosystem in Jiangfengling,Hainan Island, China. Science Press,Beijing. (in Chinese）[蒋有绪，卢俊培 (1991).中国海南岛尖峰岭 热带林生态系统．科学出版社，北京.]   
+Ke XD, Zhang L, Su ZR (2012). Variation of soil organic carbon content along altitudinal gradient in subtropical montane forest in North Guangdong. Journal of Ecology and Rural Environment, 28(2),151-156. (in Chinese with English abstract）[柯娴氰，张璐，苏志尧(2012)．粤北 亚热带山地森林土壤有机碳沿海拔梯度的变化．生态 与农村环境学报,28(2),151-156.]   
+Lal R (2oo5).Forest soils and carbon sequestration. Forest Ecology and Management, 220,242-258.   
+Li FY,Li XM, Chen LY, Guo B, Qi ZP (2008). The analysis of soil nutrient situations in Wanning of Hainan Province. Chinese Journal of Soil Science,39,1284-1287.(in Chinese with English abstract)[李福燕，李许明，陈柳燕，郭 彬，漆智平 (2008).海南万宁市土壤养分状况分析．土 壤通报,39,1284-1287.]   
+Li KR,Wang SQ, Cao MK (2003). China vegetation and soil carbon. Science in China (Series D),33, 72-80.(in Chinese)[李克让，王绍强，曹明奎 (2003).中国植被和土 壤碳贮量．中国科学(D辑),33,72-80.]   
+Li L, Zhou XY, Huang ZL, Wei SG, Shi JH (2006). Study on the relationship between α diversity of plant community and environment on Dinghushan. Acta Ecologica Sinica, 26,2301-2307.(in Chinese with English abstract)[李林, 周小勇，黄忠良，魏识广，史军辉 (2006)．鼎湖山植物 群落α多样性与环境的关系．生态学报,26,2301-2307.]   
+Li YD, Chen BF, Zhou GY (2002). Research of Tropical Forests and the Protection of Biodiversity in Hainan Island, China. China Forestry Publishing House,Beijing. (in Chinese) [李 意德，陈步峰，周光益 (2002)．中国海南岛热带森林及 其生物多样性保护研究.中国林业出版社，北京.]   
+Li YS (2014). Study on soil organic carbon storage and carbon sequestration of main forest type in Jiangxi Province. Guangdong Agricultural Sciences,(14)，154-158.(in Chinese with English abstract）[李英升 (2014).江西省 典型森林类型土壤碳贮量及碳汇能力研究.广东农业 科学,(14),154-158.]   
+Li ZH,Wang SH (2000). Effects of soil bulk density on soil physical properties and wheat growth. Chinese Journal of Soil Science,31(2), 55-57. (in Chinese with English abstract)[李志洪，王淑华 (2000)．土壤容重对土壤物理 性状和小麦生长的影响．土壤通报,31(2),55-57.]   
+Liu HN, Chen BL (2012). Amphibian fauna of Hainan Yinggeling Nature Reserve, with new genus and species records for Hainan Island. Chinese Journal of Zoology，47(1), 51-61.(in Chinese with English abstract)[刘惠宁，陈辈 乐(2012).海南鹦哥岭自然保护区两栖动物区系及属 种海南新纪录．动物学杂志,47(1),51-61.]   
+Liu W, Chen S, Qin X, Baumann F, Scholten T, Zhou Z, Sun W, Zhang T, Ren J, Qin D (2012). Storage, patterns, and control of soil organic carbon and nitrogen in the northeastern margin of the Qinghai-Tibetan Plateau. Environmental Research Letters, 7, doi:10.1088/1748-9326/7/3/ 035401.   
+Long WY, Yang XB,Wu QS,Li DH, Guo T (2008). Characteristics of Alsophila podophylla population and its community in the tropical rainforest in Wuzhi Mountains.Biodiversity Science,16,83-90.(in Chinese with English abstract)[龙文兴，杨小波，吴庆书，李东海，郭涛 (2008). 五指山热带雨林黑杪种群及其所在群落特征．生物 多样性,16,83-90.]   
+Lu QL,Wang GB,Yang P, Zheng AB,Ruan HH (2012).A review on the estimation methods of carbon pools of forest ecosystems. Journal of Nanjing Forestry University (Natural Sciences Edition), 36(5), 155-160.(in Chinese with English abstract）[路秋玲，王国兵，杨平，郑阿宝, 阮宏华 (2012).森林生态系统不同碳库碳储量估算方 法的评价．南京林业大学学报(自然科学版)，36(5), 155-160.]   
+Lu RK (2000). Soil Agricultural Chemistry Analysis Methods. China Agricultural Science and Technology Press, Beijing. (in Chinese）[鲁如坤 (2000).土壤农业化学分析方法. 中国农业科技出版社，北京.]   
+Pan P, Gan WF, Ouyang YZ, Xiao X (2014). Relationship between the contents of soil organic carbon, total nitrogen, total phosphorus and soil organic carbon density of Pinus massoniana nature forest. Journal of Northwest Forestry University，29(6),1-5. (in Chinese with English abstract) [潘鹏，甘文峰，欧阳勋志，肖欣 (2014)．马尾松天然林 土壤碳氮磷含量与碳密度的关系．西北林学院学报, 29(6), 1-5.]   
+Parker JL,Fernandez IJ, Rustad LE,Norton SA (2001).Effects of nitrogen enrichment, wildfire,and harvesting on forestsoil carbon and nitrogen. Soil Science Society of America Journal, 65, 1248-1255.   
+Pielou EC (1975). Ecological Diversity. John Wiley & Sons, New York.   
+Roem W,Klees H, Berendse F(2002).Effects of nutrient addition and acidification on plant species diversity and seed germination in heathland. Journal of Applied Ecology, 39, 937-948.   
+Schmidt MW,Torn MS,Abiven S, Ditmar T, Guggenberger G, Janssens IA, Kleber M, Kögel-Knabner I, Lehmann J, Manning DA (2011). Persistence of soil organic matter as an ecosystem property. Nature, 478, 49-56.   
+Shi LL (20l2). Study on the Spatial Heterogeneity of Soil Physical and Chemical Properties of Primary Tropical Montane Rainforest in Jianfengling,Hainan Island. Mas ter degree dissertation, Chinese Academy of Forestry, Beijing.30-74.(in Chinese with English abstract)[时雷雷 (2012).海南尖峰岭热带山地雨林原始林土壤理化性质 空间异质性研究．硕士论文，中国林业科学研究院，北 京.30-74.]   
+Shi RH, Bao SD, Qin HY (1996). Soil Agricultural Chemistry Analysis. 2nd edn.Agriculture Press,Beijing. (in Chinese) [史瑞和,鲍士旦，秦怀英(1996).土壤农化分析．第二 版．农业出版社，北京.]   
+Shi Z, Wang JS, He R, Fang YH, Xu ZK, Quan W, Zhang ZX, Ruan HH (2Oo8). Soil respiration and its regulating factor along an elevation gradient in Wuyi Mountain of Southeast China. Chinese Journal of Ecology,27, 563-568.(in Chinese with English abstract）[施政，汪家社，何容，方 燕鸿，徐自坤，权伟，张增信，阮宏华 (2008)．武夷山 不同海拔土壤呼吸及其主要调控因子．生态学杂志，27, 563-568.]   
+Tan LX, Fu CL,Pan SQ, Liu GB, Xie LS (2012). Soil nutrient status at Zhayun, Qiongzhong County of Hainan Province. Chinese Journal of Tropical Crops,33,816-820.(in Chinese with English abstract)[谭丽霞,符传良，潘顺秋，刘 国彪，谢良商 (2012).海南琼中县什运乡土壤养分状况 研究．热带作物学报,33,816-820.]   
+Todd-Brown K, Randerson J, Hopkins F,Arora V, Hajima T, Jones C， Shevliakova E,Tjiputra J，Volodin E,Wu T (2014). Changes in soil organic carbon storage predicted by earth system models during the 21st century. Biogeosciences,11,2341-2356.   
+Wang CT,Long RJ,Liu W,Wang QL,Zhang L，Wu PF (2010). Relationships between soil carbon distribution and species diversity and community biomass at different alpine meadows. Resources Science，32，2022-2029.(in Chinese with English abstract）[王长庭，龙瑞军，刘伟, 王启兰，张莉，吴鹏飞 (2010)．高寒草甸不同群落类型 土壤碳分布与物种多样性、生物量关系．资源科学,32, 2022–2029.]   
+Wang HY,Lei XD,Lu YC,Zhou YH,He CL (2009). Comparisons of soil chemical properties under four typical forest stands in Hainan Province.Forest Research,22(1), 129-133.(in Chinese with English abstract）[王海燕，雷 相东，陆元昌，周燕华，何楚林 (2009).海南4种典型林 分土壤化学性质比较研究．林业科学研究，22(1), 129-133.]   
+Wang SF, Wang XK, Ouyang ZY (2012). Factors controlling soil organic carbon and total nitrogen densities in the upstream watershed of Miyun Reservoir, north China. Environmental Science,33,946-951.(in Chinese with English abstract）[王淑芳，王效科，欧阳志云 (2012)．密云水库 上游流域土壤有机碳和全氮密度影响因素研究．环境 科学,33,946-951.]   
+Wang SQ,Liu JY (2002). Research status quo of impact factors of soil carbon storage.Advance in Earth Sciences,17, 528-534.(in Chinese with English abstract)[王绍强，刘 纪远 (2002)．土壤碳蓄积量变化的影响因素研究现状. 地球科学进展,17,528-534.]   
+Wang SQ,Zhou CH,Li KR,Zhu SL,Huang FH(2000). Analysis on spatial distribution characteristics of soil organic carbon reservoir in China. Acta Geographica Sinca, 55,533-544.(in Chinese with English abstract)[王绍强, 周成虎,李克让，朱松丽，黄方红 (2000).中国土壤有 机碳库及空间分布特征分析．地理学报,55,533-544.]   
+Wang SQ, Zhou CH, Liu JY, Li KR, Yang XM (2001). Simulation analyses of terrestrial carbon cycle balance model in Northeast China. Acta Geographica Sinica, 56, 390-400. (in Chinese with English abstract)[王绍强，周成虎,刘纪 远，李克让，杨晓梅 (2001).东北地区陆地碳循环平衡 模拟分析．地理学报,56,390-400.]   
+Wang WJ, Zhang M, Liu FD, Zheng JW, Wang ZS, Zhang ST, Yang WJ,An SQ (2007). Species association in tropical montane rain forest at two successional stages in Diaoluo Mountain of Hainan Island.Biodiversity Science，15, 257-263.(in Chinese with English abstract)[王文进，张 明，刘福德，郑建伟，王中生，张世挺，杨文杰，安树青 (2007).海南岛吊罗山热带山地雨林两个演替阶段的种 间联结性．生物多样性,15,257-263.]   
+Wu ZM (1997). A preliminary research on the carbon storage and $\mathrm { C O } _ { 2 }$ release of the tropical forest soils in Jianfengling, Hainan Island. Acta Phytoecologica Sinca, 21,416-423. (in Chinese with English abstract)[吴仲民(1997).尖峰 岭热带森林土壤C储量和 $\mathrm { C O } _ { 2 }$ 排放量的初步研究．植物 生态学报,21,416-423.]   
+Xiao DR, Tian K, Zhang QL (2008). Relationship between plant diversity and soil fertility in Napahai wetland of Northwestern Yunnan Plateau. Acta Ecologica Sinica, 28, 3116-3124.(in Chinese with English abstract）[肖德荣, 田昆，张利权 (2008).滇西北高原纳帕海湿地植物多样 性与土壤肥力的关系．生态学报,28,3116-3124.]   
+Xu H, Detto M, Fang S,Li Y, Zang R, Liu S (2015). Habitat hotspots of common and rare tropical species along climatic and edaphic gradients. Journal of Ecology， 103, 1325-1333.   
+Xu X, Chen YQ, Wang JS, Fang YH, Quan W, Ruan HH, Xu ZK (2008). Variations of soil labile organic carbon along an altitude gradient in Wuyi Mountain. Chinese Journal of Applied Ecology，19, 539-544. (in Chinese with English abstract)[徐侠，陈月琴，汪家社，方燕鸿，权伟，阮宏 华，徐自坤 (2008).武夷山不同海拔高度土壤活性有机 碳变化．应用生态学报,19,539-544.]   
+Xu XL, Cao MK, Li KR (2007). Temporal-spatial dynamics of carbon storage of forest vegetation in China. Progress in Geography，26(6),1-10. (in Chinese with English abstract)[徐新良，曹明奎,李克让 (2007).中国森林生态 系统植被碳储量时空动态变化研究.地理科学进展, 26(6), 1-10.]   
+Xu Y, Zhang FR, Duan ZQ, Zhang L, Kong XB (2005). Calculation method for density and storage of soil organic carbon. Chinese Journal of Soil Science,36,836-839.(in Chinese with English abstract）[徐艳，张凤荣，段增强, 张琳,孔祥斌 (2005).区域土壤有机碳密度及碳储量计 算方法探讨．土壤通报,36,836-839.]   
+Yao XL, Cheng YS (1986). Soil Physics. Agricultural Press, Beijing.(in Chinese)[姚贤良，程云生(1986).土壤物理 学．农业出版社，北京.]   
+Yu DS,Shi XZ, Sun WX,Wang HJ (2005). Estimation of China soil organic carbon storage and density based on 1:100000 soil database.Chinese Journal of Applied Ecology，16,2279-2283.(in Chinese with English abstract）[于东升，史学正,孙维侠，王洪杰 (2005).基于 1:100万土壤数据库的中国土壤有机碳密度及储量研究. 应用生态学报,16,2279-2283.]   
+Zang RG (2010). Main Function Group of Conservation and Restoration Ecology Basis in Tropical Virgin Forests of Hainan Island. Science Press,Beijing. (in Chinese) [臧润 国 (2010).海南岛热带天然林主要功能群保护与恢复 的生态学基础．科学出版社，北京.]   
+Zhan ZY, Li XG, Zhang DG, Wang ZF (2005). Effects of land use on organic C concentration and structural properties in alpine grassland soil. Acta Pedologica Sinica, 42, 777-782.(in Chinese with English abstract)[展争艳，李 小刚，张德罡，王哲锋 (2005).利用方式对高寒牧区土 壤有机碳含量及土壤结构性质的影响．土壤学报，42, 777-782.]   
+Zhang L (2013). Soil Organic Carbon in Mangrove Forests and Its Relationship with Soil Factor in Qinglangang, Hainan. Master degree dissertation, Henan University of Science and Technology,Luoyang. 13-32. (in Chinese with English abstract)[张莉 (2013)．海南清澜港红树林土壤有机 碳及其与土壤因子关系研究．硕士论文，河南科技大 学，洛阳.13-32.]   
+Zhang XL, Wang S, Wang X, Wen GS, Liu HW, Li JL (2014). Soil organic carbon storage of Diaoluoshan Natural Reserve in Hainan. Chinese Journal of Tropical Crops,35, 362-368.(in Chinese with English abstract）[张晓琳，王 帅，王旭，文关四，刘海伟，李佳灵 (2014).海南吊罗 山自然保护区土壤有机碳贮量研究．热带作物学报，35, 362-368.]   
+Zhao AJ,Hu TX, Chen XH (2009). Influence of subtropical forest ecosystems types on spatial heterogeneity of surface soil organic carbon. Journal of Natural Resources， 24, 1748-1756.(in Chinese with English abstract)[赵安玖, 胡庭兴，陈小红 (2009).森林类型对土壤表层有机碳空 间异质性的影响．自然资源学报,24,1748-1756.]   
+Zhao GS,Li YS,Gao J, Li FD (2014). Storage and spatial distribution of soils carbon in lower reaches of the Yellow River irrigation district. Ecology and Environmental Sciences,23,1113-1120. (in Chinese with English abstract) [赵广帅，李运生，高静，李发东 (2014).黄河下游灌区 土壤碳储量及碳密度分布．生态环境学报，23, 1113-1120.]   
+Zhou G,Liu S, Li Z, Zhang D, Tang X, Zhou C, Yan J, Mo J (2006). Old-growth forests can accumulate carbon in soils. Science,314,1417-1417.   
+Zhou YR, Yu ZL, Zhao SD (2000). Carbon storage and budget of major Chinese forest types. Acta Phytoecologica Sinca, 24,518-522.(in Chinese with English abstract)[周玉荣, 于振良，赵士洞 (2000).我国主要森林生态系统碳贮量 和碳平衡．植物生态学报,24,518-522.]
+
+特邀编委：闫俊华责任编辑：李敏

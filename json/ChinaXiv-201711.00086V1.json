@@ -1,0 +1,762 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201607161450 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐星林,曹永慧,顾连宏,周本智.基于FvCB模型的叶片光合生理对环境因子的响应研究进展.生态学报,2017,37（19):6633-6645TangXL,CaoYH,GuLH,ZhouBAdvancesinpoto-phsiologicalresponsesofavestnviroentalfctorsbasedothFBodelActaEcologica Sinica,2017,37(19）:6633-6645.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于FvCB模型的叶片光合生理对环境因子的响应研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐星林1,²，曹永慧1,²，顾连宏³，周本智1,2，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国林业科学研究院亚热带林业研究所，杭州311400  \n2国家林业局钱江源森林生态系统定位观测研究站，杭州311400  \n3美国橡树岭国家实验室环境科学部，USATN37831",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为提高叶片光合速率并更好地理解叶片光合生理对环境因子变化的响应机制,FvCB 模型( $\\mathrm { { \\dot { C } } } _ { 3 } ^ { - }$ 植物光合生化模型)常用于分析不同环境条件下 $\\mathrm { C O } _ { 2 }$ 响应曲线并预测叶片活体内光合系统的内在变化状况。系统介绍了FvCB 模型的建立、发展过程和拟合方法等基本理论,综述了该模型在叶片光合生理对光 $. \\mathrm { C O } _ { 2 }$ 、水、温度和N营养等环境因子变化的响应机制中的应用研究。为进一步完善 $\\operatorname { F v } \\mathbf { C B }$ 模型并更好地理解叶片活体内光合系统对环境因子变化的响应机制,未来拟加强以下研究:1)羧化速率与光合电子传递速率之间的联系;2)叶肉导度的具体组分及其对FvCB模型参数估计的影响;3)叶片气孔导度和叶肉导度对环境因子变化的调控机制。 （）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： $\\mathrm { C } _ { 3 }$ 植物;光合作用;FvCB光合模型;光合生理;环境因子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in photo-physiological responses of leaves to environmental factors based on the FvCB model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANG Xinglin1,2，CAO Yonghui1,²，GU Lianhong³，ZHOU Benzhi1,2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Research Institute of Subtropical Forestry，Chinese Academy of Forestry，Hangzhou 3114Oo,China   \n2QianjiangyuanForest Ecosystem Research Station，StateForestryAdministration,Hangzhou3114Oo,China   \n3Environmental Sciences Division，Oak Ridge National Laboratory，Oak Ridge，TN 37831,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Biochemical models of leaf photosynthesis are invaluable tools for exploringthe photo-physiological responses to environmental factors and identify potential targets to improve the efficiency of $\\mathrm { C O } _ { 2 }$ fixation.The FvCB model can be used to fit $\\mathrm { C O } _ { 2 }$ response curves developedunder diferent environmental conditionsand predict underlying photosynthetic biochemistry.However，todothissuccessfullitisimportanttoimprovechloroplastelectrontransport modeling，ndgaina better understanding of internal $\\mathrm { C O } _ { 2 }$ diffusion limitations and elucidate the mechanisms of stomatal $( \\varrho _ { s } )$ and mesophyll （ $\\cdot \\boldsymbol { g } _ { m }$ ）conductance responses toenvironmental factors.The FvCB modeland itsapplication in determining the photophysiological responses to environmental factors， such as light， $\\mathrm { C O } _ { 2 }$ ，water，temperature，and N nutrition have been reviewed inthis paper.To improvethe veracityofthe parameterestimationsandrevealthe mechanismofphoto-physiological responses toenvironmental factors，the folowing studies shouldbeemphasized in the future：1）therelationship between the carboxylation rate of Rubisco and chloroplast electron transport rate；2） the $\\mathrm { C O } _ { 2 }$ diffusion limitations in mesophyll cells and its effect on parameter estimations；and 3）the regulation of $\\boldsymbol { g } _ { s }$ and $\\boldsymbol { g } _ { m }$ responses to different environmental conditions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words : $\\mathrm { C } _ { 3 }$ plants；photosynthesis； FvCB model； photosynthetic physiology；environmental factors",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1980 年,Farquhar等根据Rubisco 酶动力学反应和RuBP再生反应化学计量学,提出 $\\mathrm { C } _ { 3 }$ 植物光合生化模型（简称FvCB 模型)[1]。它可以模拟叶片内部的光合生化反应,并通过分析不同环境条件下的 $\\mathrm { C O } _ { 2 }$ 响应曲线获得光合参数,预测叶片活体光合系统的内在变化状况[2-3]。FvCB模型已广泛应用于叶片光合生理对光照、温度、水分、 $\\mathrm { C O } _ { 2 }$ 浓度和N营养等环境因子变化的响应机制等方面的研究。它还有助于建立作物产量预测模型[4]、全球碳循环模型[5]、气孔模型[6] $\\mathrm { C } _ { 4 }$ 植物模型[7]等。最新的研究发现叶肉导度 $\\left( { { g } _ { m } } \\right)$ )可以分为细胞壁导度、细胞膜导度、细胞质导度、叶绿体膜导度、叶绿体基质等组分,并进一步改进FvCB 模型理论,但叶肉导度的具体路径非常复杂。另外,大量研究表明环境因子可能通过控制水通道蛋白基因的表达来调控叶肉细胞内$\\mathrm { C O } _ { 2 }$ 的转运过程，但该研究仍缺乏直接的实验证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内光合模型的相关研究多采用光合数学模型来描述光合速率与环境因子间的数量关系[8-9],并反映光合速率等随环境因子的变化情况,但却难以反映叶片内部的光合生化反应状况。而FvCB 模型可以揭示不同环境条件下叶片活体内部光合系统的变化状况,是光合生理生态研究中的重要工具。尽管国外已经开展了大量 FvCB 模型及其应用相关研究,但国内该领域的研究还相对较少,对该模型的基本理论及应用还缺乏深入和系统的认识,仅有的一些研究也大多只局限于温室茄子和光合生化模型模拟分析等[10]。本文将从FvCB 模型的建立出发,分析FvCB模型的理论和发展过程,探讨该模型在植物光合作用和环境因子关系研究中的应用,并提出FvCB 模型及其应用中存在的问题及可能的发展方向,以促进国内相关研究的深入开展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 $\\mathbf { C } _ { 3 }$ 植物FvCB模型理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在碳反应中, $\\mathrm { C O } _ { 2 } \\ 、 \\mathrm { O } _ { 2 }$ 和核酮糖-1,5-二磷酸(RuBP)等在 Rubisco 酶催化下发生羧化反应和氧化反应。当$\\mathrm { C O } _ { 2 }$ 浓度较低时,底物 RuBP 浓度过量,Rubisco 酶催化活性达到最大,光合速率受Rubisco 酶活性的限制,即Rubisco 酶活性限制阶段;随着 $\\mathrm { C O } _ { 2 }$ 浓度升高,底物RuBP再生速率小于其消耗速率,使RuBP 浓度不足而限制光合速率,即 RuBP 再生速率限制阶段[。由于前两个限制阶段不能解释一定环境条件下叶片净光合速率不随 $\\mathrm { C O } _ { 2 }$ 和 $\\mathbf { 0 } _ { 2 }$ 浓度变化而改变的现象,Sharkey 发现光合速率还可能受磷酸丙糖转运速率的限制（即 TPU 限制）[11]。随着FvCB模型和 $\\mathrm { C O } _ { 2 }$ 扩散路径等相关研究的深入,人们发现光合速率还受 $\\mathrm { C O } _ { 2 }$ 从胞间向Rubisco 羧化位点扩散阻力的限制,即叶肉导度限制[12]。由于,温度对光合生化反应过程有直接影响,FvCB模型的温度相关性研究也非常重要。在模型拟合方面,由于FvCB 模型包括3个公式完全不同的子模型并且子模型间的转换点无法确定,模型的拟合过程变得非常复杂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Rubisco 酶活性限制阶段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Farquhar等认为在高光强和低 $\\mathrm { C O } _ { 2 }$ 下,光合作用受Rubisco 酶活性大小的限制,并根据 Rubisco 酶动力学理论和光合碳反应的化学计量学提出Rubisco 酶活性限制阶段的子模型[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先是 Rubisco 酶动力学理论。Laing 提出当 RuBP 浓度过量时羧化反应和氧化反应的 Rubisco 酶动力学",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { c } = { \\frac { V _ { c \\operatorname* { m a x } } K _ { o } C _ { c } } { K _ { c } K _ { o } + K _ { o } C _ { c } + K _ { c } O } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { o } = \\frac { V _ { o \\operatorname* { m a x } } K _ { c } O } { K _ { c } K _ { o } + K _ { o } C _ { c } + K _ { c } O }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $V _ { c }$ 为羧化速率、 $\\boldsymbol { { \\cal V } } _ { o }$ 为氧化速率、 $\\boldsymbol { V } _ { \\mathrm { c m a x } }$ 为最大羧化速率、 $V _ { o m a x }$ 为最大氧化速率 $\\mathbf { \\nabla } \\cdot K _ { c }$ 为 $\\mathrm { C O } _ { 2 }$ 米氏常数 $\\cdot K _ { o }$ 为 $\\mathbf { 0 } _ { 2 }$ 米氏常数 $\\smash { \\boldsymbol { \\cdot } } \\boldsymbol { C } _ { c }$ 为 Rubisco 酶羚化位点 $\\mathrm { C O } _ { 2 }$ 浓度、 $\\phantom { \\frac { 1 } { 2 } } O$ 为 Rubisco 酶羧化位点 $\\mathbf { 0 } _ { 2 }$ 浓度。公式2除以公式1得 $V _ { o }$ 与 $V _ { c }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的比值(Φ)[13]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varPhi = \\frac { V _ { o } } { V _ { c } } = V _ { o \\mathrm { m a x } } K _ { c } O / V _ { c \\mathrm { m a x } } K _ { o } C _ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次是碳反应化学计量学。如图1,碳反应主要包括光合碳还原循环（PCR)和光呼吸循环（PCO）。在Rubisco 酶的催化下, $\\mathrm { 1 m o l ~ C O } _ { 2 }$ 与 $1 \\mathrm { m o l \\ R u B P }$ 发生羧化反应生成 $2 { \\bmod { 3 } }$ -磷酸甘油酸（PGA）， $\\mathrm { 1 m o l ~ } { \\mathrm { 0 } } _ { 2 }$ 和1molRuBP发生氧化反应生成 $1 \\mathrm { m o l }$ 磷酸乙醇酸(PGIA）和 $1 { \\bmod { \\mathrm { P G A } } }$ ,其中, $1 \\mathrm { m o l }$ PGIA发生氧化反应生成1mol甘氨酸(Gly)并释放 $0 . 5 \\mathrm { m o l ~ C O } _ { 2 }$ 。由此,净光合速率 $( A ) ^ { [ 1 ] }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = V _ { c } - 0 . 5 V _ { o } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { d }$ 为光下暗呼吸速率。其中， $R _ { d }$ 是指在光照条件下线粒体呼吸作用释放的 $\\mathrm { C O } _ { 2 }$ ,与PCO 循环无关。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f290ea0533a533c469711f008c7f787655822e7e08d4f9229b59ad6927998f1a.jpg",
+        "img_caption": [
+            "图1Rubisco酶化反应和氧化反应简图[1]",
+            "Fig.1Simplified photosynthetic carbon reduction and photorespiratory carbon oxidation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\phi$ ：氧化速率与羧化速率的比值Ratioof RubiscocarboxylaseratestoRubiscooxygenaserates；RuBP：核酮糖-1,5-二磷酸Ribulose-1,5-bisphosphate；PGA：3-磷酸甘油酸 3-phosphoglycerate；PGIA：磷酸乙醇酸Phosphoglycolate；Gly：甘氨酸 Glycine； $\\mathrm { F _ { d } ^ { - } }$ ：还原态的铁氧还蛋白Reduced ferredoxin ▲ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式3代人公式4[]得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\left( 1 - 0 . 5 \\phi \\right) V _ { c } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当A和 $R _ { d }$ 均为0时,叶绿体内的 $\\mathrm { C O } _ { 2 }$ 浓度被称为缺乏暗呼吸的 $\\mathrm { C O } _ { 2 }$ 补偿点[14],记为 $\\boldsymbol { { \\cal T } } ^ { * }$ ,由公式5和公式3得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ^ { * } \\ = V _ { _ { o \\mathrm { m a x } } } K _ { c } O / 2 V _ { _ { c \\mathrm { m a x } } } K _ { o }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式6代人公式3得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\frac { 2 \\ : \\Gamma _ { * } } { \\ : C _ { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式7代入公式5得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = ( 1 - \\frac { T _ { * } } { C _ { c } } ) V _ { c } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当光合作用受Rubisco酶活性限制时， $V _ { c }$ 由公式1给出，代入公式8得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { c } = \\frac { C _ { c } - { T _ { * } } } { C _ { c } + K _ { c } ( 1 + O / K _ { o } ) } V _ { c \\operatorname* { m a x } } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $A _ { c }$ 为 Rubisco酶活性限制阶段的净光合速率。公式9为FvCB 模型中Rubisco酶活性限制阶段的子模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 RuBP再生速率限制阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1,在碳反应中，Gly和PGA被光反应提供的同化力还原成 $\\mathrm { R u B P }$ ,其中,NADPH和ATP 等同化力是通过光合电子传递生成的。Farquhar 等认为在低光强和高 $\\mathrm { C O } _ { 2 }$ 的条件下，光合作用会受 $\\mathrm { R u B P }$ 再生速率限制,并根据RuBP再生过程中NADPH的需求量(由光反应提供)建立 $V _ { c }$ 和光合电子传递速率 $( J )$ 之间的联系，提出RuBP再生速率限制阶段的子模型[1]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先是 $V _ { c }$ 和NADPH消耗速率之间的联系。在碳反应中（如图1）,1molRuBP 发生羧化反应生成 2molPGA;1mol RuBP 发生氧化反应生成 $1 . 5 \\mathrm { m o l \\ P G A }$ 。因此,PGA 的生成速率( $V _ { \\mathrm { P G A } }$ )[1]为： 一",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ { P G A } } = 2 V _ { _ { c } } \\ + \\ 1 . 5 V _ { _ { o } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在光呼吸循环中（图1), $1 \\mathrm { m o l }$ PGIA 经过一系列生化反应生成 $0 . 5 \\mathrm { m o l }$ PGA并释放 $0 . 5 \\mathrm { { m o l } \\ N H _ { 4 } ^ { + [ 1 5 ] } }$ ；而$0 . 5 \\mathrm { m o l \\ N H _ { 4 } ^ { + } }$ 又与 $\\mathrm { 1 m o l ~ F _ { d } ^ { - } }$ 发生还原反应( $\\mathrm { 1 m o l ~ F _ { d } ^ { - } }$ 相当于 $0 . 5 \\mathrm { m o l \\ N A D P H } )$ ,因此,每个氧化反应会通过 $\\mathrm { N H } _ { 4 } ^ { + }$ 多消耗0.5个NADPH。在碳反应中（如图1）， $1 \\mathrm { m o l }$ PGA(由羧化反应和氧化反应生成)被1molNADPH还原成$\\mathrm { R u B P }$ 。因此,NADPH的消耗速率( $V _ { \\mathrm { N A D P H } } )$ 为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { \\scriptsize { N A D P H } } } = V _ { \\mathrm { \\scriptsize { N H \\frac { + } { 4 } } } } + V _ { \\mathrm { \\scriptsize { P G A } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $V _ { \\mathrm { N H _ { 4 } ^ { + } } }$ 为 $\\mathrm { N H } _ { 4 } ^ { + }$ 的还原速率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合公式4、公式10和公式11得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { { N A D P H } } } = ( 2 + 2 \\phi ) V _ { c } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其次是 $J$ 与 NADPH生成速率之间的联系。在光反应中,1molNADP+接受 $2 \\mathrm { m o l ~ e ^ { - } }$ 和1mol $\\boldsymbol { \\mathrm { H } } ^ { + }$ 生成 $1 \\mathrm { m o l }$ $\\mathrm { { N A D P H } ^ { [ 1 ] } }$ ,因此， $J$ 为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由公式12和公式13得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = 2 { \\cal V } _ { \\mathrm { \\small ~ N A D P H } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left( 4 + 4 \\phi \\right) V _ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公式7代入公式14得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = ( 4 + 8 \\ : { T _ { * } } / { C _ { c } } ) { V _ { c } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由公式15变换得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ c } = J / ( 4 + 8 \\ : { \\Gamma } _ { \\ast } / C _ { _ c } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三是 $J$ 和最大电子传递速率( $\\left( J _ { \\operatorname* { m a x } { } } \\right)$ 之间的联系。 $J$ 主要由有效光辐射和植物特性决定。一般用非直角双曲线函数来描述 $J$ 和 $J _ { \\mathrm { m a x } }$ 之间的关系[16]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\frac { \\sigma I + J _ { \\mathrm { m a x } } - \\sqrt { ( \\sigma I + J _ { \\mathrm { m a x } } ) ^ { 2 } - 4 \\theta \\sigma I J _ { \\mathrm { m a x } } } } { 2 \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\sigma$ 为叶片吸收常数 $\\cdot ^ { I }$ 为入射光辐射 $\\cdot ^ { \\theta }$ 为曲率。参数 $\\sigma$ 主要受叶片对入射光辐射的吸收比例和叶片吸收的有效辐射在光系统I和光系统ⅡI之间分配比例的影响。 $J _ { \\mathrm { m a x } }$ 由叶绿体类囊体膜上电子载体的组成成分决定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当光合作用受 $J$ 限制时, $V _ { c }$ 由公式16给出,代入公式8得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { j } = J \\cdot { \\frac { C _ { c } - \\bar { r } _ { * } } { 4 C _ { c } + 8 \\bar { r _ { * } } } } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $A _ { j }$ 为 $\\mathrm { R u B P }$ 再生速率限制阶段的净光合速率。公式18为FvCB模型 $\\mathrm { R u B P }$ 再生速率限制阶段的子模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3磷酸丙糖转运限制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在碳反应中,叶绿体内生成的磷酸丙糖(TP)在叶绿体膜上的磷酸丙糖/无机磷转运蛋白的作用下与细胞质内的无机磷酸( $\\mathrm { \\cdot } \\mathrm { P _ { i } }$ )交换，再在细胞质内合成蔗糖并释放 $\\mathrm { { P _ { i } } }$ 。Sharkey发现在一定条件下，叶绿体内TP的转运速率会小于其生成速率，同时 $\\mathrm { { P _ { i } } }$ 的转运速率也会小于叶绿体内 $\\mathrm { { P _ { i } } }$ 的消耗速率;叶绿体内TP的积累和 $\\mathrm { { P _ { i } } }$ 的不足会限制光合作用,即TPU 限制[8]。Rubisco 酶氧化反应虽然会影响 $\\mathrm { R u B P }$ 的再生速率,但不会影响 TP 的生成速率,又1mol TP 含有 $3 \\mathrm { m o l }$ 碳原子。因此,在 TPU 限制阶段,TP 的生成速率必须小于或等于1/3 倍 $\\mathrm { C O } _ { 2 }$ 固定速率,否则叶绿体内自由 $\\mathrm { { P _ { i } } }$ 的下降会限制光合作用[1],净光合速率为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { _ p } = 3 \\ T _ { _ p } \\ - \\ R _ { _ d }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\ v { A } _ { p }$ 为 TPU限制阶段的净光合速率、 $T _ { _ { p } }$ 为磷酸丙糖的最大转运速率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在高 $\\mathrm { C O } _ { 2 }$ 浓度、低光强和低温条件下,净光合速率反而会随 $\\mathbf { 0 } _ { 2 }$ 浓度增加而增大，随 $\\mathrm { C O } _ { 2 }$ 浓度增加而减少。由于公式19 无法解释该现象,Sharkey 等认为这些现象与碳反应中甘油酸盐的代谢过程有关[1,17]。光呼吸循环在细胞质内生成的甘油酸盐最终会返回叶绿体内。Harley和 Sharkey 发现在TPU阶段,只有部分甘油酸盐返回到叶绿体内[18],并根据碳反应中 $\\mathrm { { P _ { i } } }$ 的化学计量学进一步完善 TPU 阶段的子模型。根据碳反应中 $\\mathrm { { P _ { i } } }$ 的化学计量学,叶绿体内 $\\mathrm { { P _ { i } } }$ 的净消耗速率等于 $V _ { c } / 3 - V _ { o } / 6 ^ { [ 1 1 ] }$ 。当光合作用受 $\\mathrm { { P _ { i } } }$ 浓度限制时,P;的净消耗速率等于$\\mathrm { { P } _ { i } }$ 的转入速率,而 $\\mathrm { { P _ { i } } }$ 的转入速率又等于 $T _ { _ { p } }$ ,即：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { p } } = { \\frac { V _ { _ { c } } } { 3 } } - { \\frac { V _ { _ { o } } } { 6 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在光呼吸循环中,每个氧化反应会消耗半个 $P _ { i }$ 并生成半个甘油酸盐。假设有 $\\mathbf { \\Omega } _ { a }$ 倍的甘油酸盐( $\\scriptstyle 0 < a < 1$ 没有返回叶绿体内,结合公式20得 TP 的转运速率：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { p } } = { \\frac { V _ { c } } { 3 } } - { \\frac { V _ { _ { o } } } { 6 } } - ( { \\frac { \\alpha V _ { o } } { 2 } } \\\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公式4代入公式21得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { V _ { c } } { 3 } - \\frac { \\Phi V _ { c } } { 6 } - \\frac { \\alpha \\varPhi V _ { c } } { 0 \\textrm { 2 } } = T _ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "求解公式22,又 $ { V _ { c } } { > } 0$ 得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { c } = \\frac { 3 \\ T _ { p } C _ { c } } { C _ { c } - ( 1 + 3 \\alpha ) \\ T _ { * } } \\ ( \\ C _ { c } > ( 1 + 3 \\alpha ) \\ T _ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当光合作用受TP转运速率限制时， $\\boldsymbol { \\underline V } _ { c }$ 由公式23给出，代入公式8得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { _ { p } } = { \\frac { ( C _ { _ { c } } - { \\cal { T } } _ { \\ast } ) 3 { \\cal { T } } _ { _ { p } } } { C _ { _ { c } } - ( 1 + 3 \\alpha ) { \\cal { T } } _ { \\ast } } } - R _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公式24为FvCB光合模型 TPU阶段的子模型。当 $a = 0$ 时,公式24可简化为公式19。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 叶肉导度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1980 年,Farquhar等认为叶肉细胞对 $\\mathrm { C O } _ { 2 }$ 扩散的阻力很小,在FvCB 模型中可以忽略不计，即 $C _ { c }$ 等于胞间$\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ [1]。随着研究的深入,人们发现叶肉细胞对 $\\mathrm { C O } _ { 2 }$ 扩散的阻力是光合作用的一个重要限制因子[]。一般把 $\\mathrm { C O } _ { 2 }$ 从胞间到 Rubisco 酶羧化位点扩散的导度称为叶肉导度,记为 $\\boldsymbol { g } _ { m }$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { m } = { \\frac { A } { C _ { i } - C _ { c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为估计参数 $\\boldsymbol { g } _ { m }$ ,需结合公式25 和FvCB 模型的3个子模型推导出 $A$ 关于 $C _ { i }$ 的函数表达式。根据公式 25计算出 $C _ { c }$ ,再分别代入公式9、公式18和公式24得改进后的 $\\operatorname { F v } \\mathbf { C B }$ 模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先是 Rubisco 酶限制阶段。由公式25 和公式9得 $A _ { c }$ 关于 $C _ { i }$ 的函数[19]：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { c } ^ { 2 } - A _ { c } \\bigg \\{ \\bigg [ C _ { i } + K _ { c } \\bigg ( 1 + \\frac { O } { K _ { o } } \\bigg ) \\bigg ] \\varrho _ { m } + V _ { \\mathrm { c m a x } } - R _ { d } \\bigg \\} + \\bigg \\{ V _ { \\mathrm { c m a x } } ( C _ { i } - I _ { * } ) - R _ { d } \\bigg [ C _ { i } + K _ { c } \\bigg ( 1 + \\frac { O } { K _ { o } } \\bigg ) \\bigg ] \\bigg \\} g _ { m } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "求解公式26并取正解得：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { A = \\frac { b - \\sqrt { b ^ { 2 } - 4 c } } { 2 } } } \\\\ { \\displaystyle { b = [ C _ { i } + K _ { c } ( 1 + \\frac { O } { K _ { o } } ) ] \\varrho _ { m } + V _ { c \\operatorname* { m a x } } - R _ { d } } } \\\\ { \\displaystyle { c = \\{ V _ { c \\operatorname* { m a x } } ( C _ { i } - { \\cal T } _ { * } ) - R _ { d } \\middle [ C _ { i } + K _ { c } ( 1 + \\frac { O } { K _ { o } } ) ] \\} g _ { m } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次是 RuBP再生速率限制阶段。由公式25 和公式 18 得 $A _ { j }$ 关于 $C _ { i }$ 的函数[19]：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { j } ^ { 2 } - A _ { j } \\Biggl [ \\left( C _ { i } + 2 r _ { * } \\right) g _ { m } + \\frac { J } { 4 } - R _ { d } \\Biggr ] + \\bigl \\{ \\frac { \\left( C _ { i } - r _ { * } \\right) J } { 4 } - R _ { d } ( C _ { i } + 2 r _ { * } ) \\bigr \\} g _ { m } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "求解公式28并取正解得：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { A = \\frac { b - \\sqrt { b ^ { 2 } - 4 c } } { 2 } } } \\\\ { \\displaystyle { b = \\left( C _ { i } + 2 { \\cal T } _ { * } \\right) g _ { m } + \\frac { J } { 4 } - R _ { d } } } \\\\ { \\displaystyle { c = \\{ \\frac { \\left( C _ { i } - { \\cal T } _ { * } \\right) J } { 4 } - R _ { d } ( C _ { i } + 2 r _ { * } ) \\} g _ { m } } } \\end{array} \\dot { { \\mathcal Q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第三是 TPU 限制阶段。由公式25 和公式24得 $\\boldsymbol { A } _ { P }$ 关于 $C _ { i }$ 的函数[20]：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$A _ { p } ^ { 2 } - A _ { p } \\mid 3 \\ T _ { p } - R _ { d } + [ C _ { i } - ( 1 + 3 \\alpha ) T _ { * } ] _ { \\ L { g _ { m } } } \\} \\ + \\mid 3 [ C _ { i } - T _ { * } ] \\ T _ { p } \\ \\to [ C _ { i } - ( 1 + 3 \\alpha ) T _ { * } \\ ] R _ { d } \\} \\ _ { d }$ gm=0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3T,-R 如果C≥(1+3α)Γ\\*+ αI gm P ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果 $C _ { i } \\leqslant \\left( 1 + 3 \\alpha \\right) \\varGamma _ { * } \\ + \\frac { 3 \\ T _ { p } - R _ { d } } { g _ { m } } - 6 \\sqrt { T _ { p } \\alpha \\varGamma _ { * } / g _ { m } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = 3 \\ T _ { _ p } - R _ { _ d } + \\left[ C _ { _ i } - ( 1 + 3 \\alpha ) \\Gamma _ { \\ast } \\right] g _ { _ m }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = \\{ 3 [ C _ { i } - r _ { * } ] T _ { p } - [ C _ { i } - ( 1 + 3 \\alpha ) { \\cal { r } } _ { * } ] R _ { d } \\} g _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公式27、公式29和公式31为加入 $\\boldsymbol { g _ { m } }$ 参数后改进的FvCB模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5参数拟合",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在模型拟合中，一般假定所有 $\\mathrm { C } _ { 3 }$ 植物有相等的Rubisco 酶动力学常数( $K _ { c }$ 和 $K _ { o }$ ),叶绿体内 $\\mathbf { 0 } _ { 2 }$ 浓度等于空气 $\\mathrm { ~ O } _ { 2 }$ 浓度。由于FvCB 模型本身存在超参数现象，一般把 $T ^ { * }$ 作为输入常数[20]。根据公式27、公式29、公式31,FvCB 模型拟合 $\\mathrm { C O } _ { 2 }$ 响应曲线可以获得 $V _ { c \\operatorname* { m a x } { } } \\setminus J _ { \\operatorname* { m a x } { } } \\setminus T _ { p } \\setminus a$ 等阶段特异性参数和 ${  { g } _ { m } } \\cdot R _ { d }$ 等共同参数,而拟合的关键点是3个子模型分界点 $C _ { i }$ 的确定。一般,把Rubisco 酶活性限制阶段到 $\\mathrm { R u B P }$ 再生速率限制阶段转换点的 $\\vec { C } _ { i }$ 记为 $C _ { i \\_ C J }$ $\\mathrm { R u B P }$ 再生速率限制到TPU 限制转换点的 $C _ { i }$ 记为 $C _ { i \\_ J P }$ 。根据分界点 $C _ { i }$ 确定方法的不同,可以把现有的拟合方案大致分为3类[17]。第1类方案认为 $C _ { i \\_ C J }$ 在 $2 0 { - } 4 0 \\mathrm { P a }$ 的范围内变化[21-22],并且TPU 限制阶段在田间试验中很少出现。第2类方案利用 $\\mathrm { C O } _ { 2 }$ 响应曲线中的全部数据同时来拟合 FvCB 模型[23-24]。第3类方案认为FvCB 模型是变点模型,并采用特有的拟合方法进行模型拟合[20]。第1类方案的拟合过程相对简单,但有很多潜在的问题。首先,共同参数的取值不好确定。对2个子模型分别进行拟合,会获得2组不相等的 $\\boldsymbol { g } _ { m }$ 和 $R _ { d }$ 参数,实践中一般取平均值。其次,转换点 $C _ { i \\_ C J }$ 的不确定性。大量研究表明 $C _ { i \\_ C J }$ 随物种和环境条件的不同而不同[21,25],并且 $C _ { i \\_ C J }$ 的错误会影响参数拟合的准确性[21]。第2类方案虽然克服了人为确定 $C _ { i \\_ C J }$ （204号的缺点，但其拟合获得的最佳阶段分配组合可能不符合Rubisco酶活性限制、 $\\mathrm { R u B P }$ 再生速率限制和TPU限制的实际顺序。第3类方案不仅克服3个阶段人为划分的缺点,而且符合3个阶段的实际顺序,是较好的拟合方法，但是,其计算过程复杂,难以普遍使用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.6 参数的温度相关性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据FvCB模型的温度相关性，不同温度下 $K _ { c } \\ : , K _ { o }$ 和 $\\boldsymbol { { \\cal T } } ^ { * }$ 等参数的取值不同。为此，一般把 $2 5 \\mathrm { { ^ \\circ C } }$ 下的K.$K _ { o }$ 和 $\\boldsymbol { { \\cal T } } ^ { * }$ 等参数值作为标准（如表1),并根据参数的温度相关性函数来计算某测量温度下的参数值[26]。实践中，一般用阿伦尼乌斯方程来建立参数与温度间的函数关系：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( T ) = P ( 2 5 \\mathcal { C } ) ~ e ^ { \\{ [ T - 2 5 ] E / [ 2 9 8 R ( 2 7 3 + T ) ] \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $T$ 为测量温度 $\\ 、 P ( T )$ 为测量温度 $T$ 下的参数 $( K _ { c } , K _ { o }$ 和 $\\boldsymbol { { \\cal T } } ^ { * }$ ） ${ } _ { , P \\mathrm { ( } 2 5 \\mathcal { C ) } }$ 为 $2 5 \\mathrm { ^ { \\circ } C }$ 下的参数、E为活化能、 $R$ 为通用的气体常数。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/81cddf33e403353293d28cc10480f82204ef282b9a08913885d1f13e08e194f4.jpg",
+        "table_caption": [
+            "表1 $2 5 \\mathrm { ^ q C }$ 下的 $K _ { c } \\ 、 K _ { o } 、 T ^ { * }$ ? $\\boldsymbol { { \\mathbf { \\mathit { \\varepsilon } } } } _ { E }$ 等参数[26]",
+            "Table1 Parameters $( K _ { c } , K _ { o } , { T ^ { * } } , E )$ at $2 5 \\mathrm { ^ q C }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数 Parameters</td><td>CO米氏常数 Michaelis-Menten constant for RuBP Carboxylation Ke/μbar</td><td>O米氏常数 Michaelis-Menten constant for RuBP oxygenation K/mbar</td><td>缺乏暗呼吸的CO2补偿点 Chloroplastic CO2 photocompensation point T*/μbar</td><td>气体常数 Gas constant R/ (Jmol-1K-1)</td></tr><tr><td>取值Value</td><td>260</td><td>179</td><td>38.6</td><td>8.314</td></tr><tr><td>活化能/(KJ/mol) Activation energy</td><td>59.36</td><td>35.94</td><td>23.4</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "经过30多年的发展,FvCB模型已基本完善,并通过大量实验的验证。但在RuBP再生速率限制阶段中,光合电子传递全为线性电子传递的假设及ATP需求的忽略[1]会影响 FvCB 模型及其参数估计的准确性。由于 $\\boldsymbol { g _ { m } }$ 的组分非常复杂,而 FvCB 模型把 $\\boldsymbol { g } _ { m }$ 作为一个复合参数进行估计,这也会影响模型参数估计的准确性。由于FvCB 模型可以不进行叶片离体实验,而根据简单的气体交换数据获得叶片 $V _ { c { \\operatorname* { m a x } } } \\setminus J _ { \\operatorname* { m a x } } \\setminus T _ { p } \\setminus { \\boldsymbol { g } } _ { s } \\setminus { \\boldsymbol { g } } _ { m }$ 等光合生理生化信息[3」,它在植物光合生理与环境因子相互关系的研究中有广泛的应用。接下来将对FvCB模型在叶片光合生理对环境因子响应的应用研究进展进行论述。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2FvCB模型在叶片光合生理对环境因子响应的应用研究进展",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FvCB 模型结合叶片 Rubisco酶、细胞色素f(cytf)和ATP合成酶等生理指标可以揭示叶片活体光合系统对光照、 $\\mathrm { C O } _ { 2 }$ 浓度、温度、水分和N养分等环境因子变化的响应机制,其中， $V _ { \\mathrm { c m a x } }$ 反映光合系统中Rubisco 酶最大羧化能力 $\\phantom { + } \\cdot J _ { \\mathrm { m a x } }$ 反映光合电子传递链的最大电子传递能力、 $T _ { _ { p } }$ 反映磷酸丙糖的合成能力 $\\boldsymbol { \\cdot } \\boldsymbol { g } _ { s }$ 和 $\\boldsymbol { g } _ { m }$ 反映 $\\mathrm { C O } _ { 2 }$ 扩散阻力对光合作用的限制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1光照 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在不同环境光强下,叶片的形态和生化成分发生改变[27-28],其光合机构也会发生变化。大量研究表明阳生叶片的细胞色素f(cyt f)、ATP 合成酶、Rubisco 酶等含量均大于阴生叶片[29-31],导致阳生叶片 $V _ { \\mathrm { c m a x } }$ 和 $J _ { \\mathrm { m a x } }$ 参数均显著大于阴生叶片[32-33],由此,阳生叶片的光合能力显著大于阴生叶片。Hanba 等发现阳生叶片的气孔密度显著大于阴生叶片[31],这可能导致阳生叶片的 $\\phantom { + } g _ { s }$ 显著大于阴生叶片[32.34]。Piel等发现阳生叶片 $\\boldsymbol { g _ { m } }$ 有效路径的长度显著小于阴生叶片[32]。另外,有研究表明槭树和水青冈阳生叶片中单位面积叶绿体暴露在胞间的面积 $( S _ { c } )$ 显著大于阴生叶片[32.34]。这两个因素可能导致阳生叶片的 $\\boldsymbol { g } _ { m }$ 显著大于阴生叶片。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然瞬时光强对叶片 $V _ { _ { c m a x } }$ 和 $J _ { \\mathrm { m a x } }$ 参数没有显著影响,但对 $\\mathrm { C O } _ { 2 }$ 扩散阻力有显著的影响。研究表明 $\\phantom { + } g _ { s }$ 与瞬时光强呈正相关[35-36]。有人认为叶片光合系统与保卫细胞之间可能存在信号传递[35-36],使叶片可以通过改变气孔的张开程度来平衡 $\\phantom { + } \\boldsymbol { g } _ { s }$ 与光合速率的大小。有研究发现水稻[35]、桉树[36]、烟草[22]和班克木[37]等叶片的（204号 $\\boldsymbol { \\mathsf { g } } _ { m }$ 随测量光强增大而增加,但小麦和烟草叶片的 $\\boldsymbol { g } _ { m }$ 在不同瞬时光强下保持稳定不变[38-39]。Douthe 等认为不同物种光合特性的差异可能导致 $\\boldsymbol { g } _ { m }$ 随瞬时光强的响应情况不同[36]。另外,水通道蛋白基因的表达速率随光强的增加而加快[40-41],而水通道蛋白的含量与 $\\mathrm { C O } _ { 2 }$ 的跨膜转运过程直接相关[42-43]，所以，光强的瞬时变化可能通过调控水通道蛋白基因的表达来改变 $\\boldsymbol { g _ { m } }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2 （204号 $\\mathrm { C O } _ { 2 }$ 浓度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在长期高 $\\mathrm { C O } _ { 2 }$ 浓度下,植物叶片的结构和成分会发生变化,从而影响其光合作用[44]。长期高 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株叶片 Rubisco 酶含量及活性和叶片 N 含量均显著小于正常 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株[45-46]。而叶片N 含量可以影响光合系统中 Rubisco 酶含量及活性、光捕获组分、光合电子传递链组分的功能[47-48],进而影响叶片的光合能力,从而使得长期高 $\\mathrm { C O } _ { 2 }$ 浓度下生长植株的叶片 $V _ { c \\mathrm { m a x } } ^ { [ 4 5 ] }$ 和 $J _ { \\mathrm { m a x } } ^ { \\mathrm { ~ \\tiny ~ \\left[ ~ 4 9 - 5 0 \\right] ~ } }$ 等均显著小于在正常 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株。长期高 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株 ${ { g } _ { s } } ^ { [ 4 4 - 4 5 ] }$ 和 ${ \\underline { { \\boldsymbol { g } } } } _ { m } ^ { \\mathrm { ~ \\tiny ~ [ ~ 5 0 ] ~ } }$ 均小于在正常 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株。研究发现在长期高 $\\mathrm { C O } _ { 2 }$ 处理后,植株叶片的气孔特性和表皮细胞密度发生改变[51-52],这可能使得 $\\boldsymbol { g } _ { s }$ 减小。Kurschner等发现长期高 $\\mathrm { C O } _ { 2 }$ 浓度下生长的植株叶片厚度大于正常条件下生长的植株[53],而叶片厚度的增大可能会增大 $\\boldsymbol { g } _ { m }$ 的有效路径,导致 $\\boldsymbol { g _ { m } }$ 减小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C O } _ { 2 }$ 浓度的短期变化不影响叶片的 $V _ { \\mathrm { c m a x } }$ 和 $J _ { \\mathrm { m a x } }$ 参数,但对 $\\mathrm { C O } _ { 2 }$ 扩散阻力有显著影响。Flexas等发现 $\\phantom { + } g _ { s }$ 与$\\mathrm { C O } _ { 2 }$ 浓度的短期变化呈负相关关系[22」,对此，一般有3种解释：1)Hedrish 等发现叶片质外体中的 $\\mathrm { \\ p H }$ 值和膜电位[54]会随 $\\mathrm { C O } _ { 2 }$ 浓度的增加而发生改变,并伴随着气孔关闭,从而导致 $\\phantom { + } \\boldsymbol { g } _ { s }$ 变小。2) $\\mathrm { C O } _ { 2 }$ 浓度的大小会影响叶肉细胞中苹果酸的释放,苹果酸又可以调控保卫细胞质膜中阴离子的释放代谢,从而调控气孔行为[55。3)$\\mathrm { C O } _ { 2 }$ 浓度变化还可能通过ATP 调节机制[56]对 $\\phantom { + } \\boldsymbol { g } _ { s }$ 进行调控。大量研究表明 $\\boldsymbol { g } _ { m }$ 与 $\\mathrm { C O } _ { 2 }$ 浓度呈负相关关系122,3657],但也有部分研究表明 $\\boldsymbol { g } _ { m }$ 与 $\\mathrm { C O } _ { 2 }$ 浓度不相关[580。对此，一般有2种解释：1)由于水通道蛋白基因的表达速率受 $\\mathrm { C O } _ { 2 }$ 浓度变化的影响[60], $\\boldsymbol { g } _ { m }$ 对 $\\mathrm { C O } _ { 2 }$ 浓度短期变化的快速响应可能受水通道蛋白的调节。2)Sharkey 发现叶绿体的变形可能会减小叶肉导度]。而且 Tholen 认为叶绿体的移动对 $\\boldsymbol { g } _ { m }$ 有显著的影响[62]。由此可知,叶绿体的行为可能与不同 $\\mathrm { C O } _ { 2 }$ 浓度下 $\\boxed { g _ { m } }$ 的快速调控有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3温度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FvCB 模型常用于研究温度(不对植物产生损伤)对叶片光合系统内在变化状况的影响。有研究发现Rubisco 酶羧化能力、光合电子传递能力和 $\\mathrm { C O } _ { 2 }$ 扩散过程均随温度的变化而改变。由于Rubisco 酶及其激活酶活性均随温度的增加而增大( $\\mathrm { \\cdot 1 0 { - } } 4 0 ^ { \\circ } \\mathrm { C }$ ）， $K _ { c } \\ 、 K _ { o } \\ 、 V _ { \\mathrm { c m a x } }$ 会随温度的增加而增大[63-64]。Bernacchi等用指数函数来描述 $V _ { \\mathrm { c m a x } }$ 的温度相关性[64]。光系统II(PSII)电子传递速率、光系统I(PSI)和光系统 II(PSII)间的电子传递速率（质体醌PQ和质体蓝素PC)[65-66]和循环电子传递速率[63,67]均随温度的增加而增大,从而导致 $J _ { \\mathrm { m a x } }$ 随温度的增加而增大[68]。温度不仅影响叶片的光合能力,而且影响 $\\mathrm { C O } _ { 2 }$ 的扩散阻力。尽管 $\\phantom { + } g _ { s }$ 与温度变化不相关[69-70],但 $\\phantom { \\frac { 1 } { 2 } } \\mathbf { g } _ { m } ^ { \\phantom { \\dagger } }$ 会随温度的增加而增大[35,70]。Evans 等认为 $S _ { c }$ 、细胞壁厚度( $T _ { \\mathrm { c e l l \\_ w a l l } }$ )、细胞液和叶绿体膜厚度等细胞结构特点会影响 ${ { g } _ { m } } ^ { [ 7 1 ] }$ ,而 von Caemmerer 等发现 $\\mathrm { C O } _ { 2 }$ 的质膜渗透性和 $\\mathrm { C O } _ { 2 }$ 扩散的液相路径长度也受温度的影响[70]。由此可以推测温度可能通过改变叶肉细胞结构来调控 $\\boldsymbol { g } _ { m }$ 。另外,Kuwagata 等发现水通道蛋白基因的表达速度会随温度的增加而增大[72],所以，温度还可能通过控制水通道蛋白基因的表达速率来调控gm $\\mathbf { \\delta } _ { g _ { m } , \\mathcal { X } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$2 . 4 ^ { \\gamma }$ 干旱或盐胁迫 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱和盐胁迫可以直接导致植物缺水[73],进而影响植物光合作用。有研究表明干旱或盐胁迫尽管对$V _ { \\mathrm { c m a x } }$ 和 $J _ { \\mathrm { m a x } }$ 参数没有显著影响[74-75],但对 $\\mathrm { C O } _ { 2 }$ 的扩散阻力有显著影响[7]。在干旱或盐胁迫条件下,植株为减少蒸腾作用,叶片气孔会关闭。另外,在盐胁迫条件下,盐离子会在叶片保卫细胞内积累进而干扰气孔功能[77-78],导致气孔关闭。因此,在干旱或盐胁迫条件下植株叶片 $\\boldsymbol { g _ { s } }$ 显著小于在正常条件下生长的植株[79-80]大量研究表明在干旱或盐胁迫条件下生长的植株叶片 $\\boldsymbol { g } _ { m }$ 显著小于在正常条件下生长植株的叶片[74,79-80]。长期干旱或盐胁迫显著减少了表皮细胞和叶肉细胞的断面面积、宽度和半径[81-82],从而使 $\\boldsymbol { g _ { m } }$ 减小。另外,由于水通道蛋白基因的表达速率受干旱或盐胁迫的影响[83],干旱或盐胁迫可能通过控制水通道蛋白基因的表达来调控gmo",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 叶片N含量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于叶肉细胞光合系统中的Rubisco 酶、光捕获组分（叶绿素和相关蛋白)和cty f等均含有大量的 N元素[84],叶片N含量对光合作用有显著影响。FvCB模型常用于研究叶片N含量对叶片光合系统内在变化状况的影响。大量研究表明叶片 Rubisco 酶含量与叶片N 含量呈正相关[35.85],而叶片 Rubisco 酶含量及活性决定 $V _ { \\mathrm { c m a x } }$ 的大小,从而使得叶片 Rubisco 酶的羧化能力与叶片N 含量呈正相关[47-48]。Nakano 等发现叶绿素和Cyt f等含量均与叶片N含量呈正相关[47],从而使得 $J _ { \\mathrm { m a x } }$ 与叶片N含量呈正相关[84.86]。叶片N含量不仅影响光合能力,还影响 $\\mathrm { C O } _ { 2 }$ 的扩散阻力。有研究表明叶片N含量与 $\\boldsymbol { g } _ { s }$ 呈正相关[35]。虽然已知 $\\boldsymbol { g _ { s } }$ 与气孔特点（大小和密度）、气孔张开程度有关,但气孔对叶片N含量变化的具体响应机制还不清楚。大量研究表明叶片N 含量与 $\\boldsymbol { g _ { m } }$ 呈正相关[35,87]。大量研究表明 $T _ { \\mathrm { c e l l \\_ w a l l } }$ 、单位叶面积叶肉细胞接触胞间间隙的面积 $( S _ { m } ) , S _ { c }$ 等细胞结构特点与 $\\boldsymbol { g _ { m } }$ 直接相关[71.88]。Xiong 等研究发现 $S _ { c }$ 会随叶 N 含量的增加而增大[35]。Yong 还发现叶绿体的尺寸与叶片 N 含量呈正相关[89]。由此可知,叶片N 含量可能通过改变叶片结构来调控 $\\boldsymbol { g } _ { m } ^ { \\prime } \\boldsymbol { \\circ }$ 另外,由于叶片N含量的增加可以促进水通道蛋白的基因表达[90],不同叶片N 含量还可能通过控制水通道蛋白的表达来调控 $\\boldsymbol { g _ { m } }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前关于植物光合生理与环境因子的关系已有大量研究,但这些研究多停留在单因子水平,更没有考虑相互作用的生物因素与环境因素协同作用对植物光合生理的影响。同时,尽管人们已经提出多种假设来解释光合生理反应随环境因子变化的响应机制,但尚缺乏直接的实验证据。因此,结合植物生理分子实验与FvCB模型进行综合分析是研究不同环境因子下植物光合生理响应机制的有效途径。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3研究展望",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FvCB 模型光合参数的准确估计不仅有利于正确理解植物光合生理对环境变化的响应机理,而且可以更精确地估计作物产量和全球气候变暖情况[9I]。光合电子传递、碳反应 ATP 需求和叶肉细胞内 $\\mathrm { C O } _ { 2 }$ 的具体扩散路径等方面的假设影响 FvCB模型理论及参数估计的准确性,从而制约相关领域的研究。此外,尽管科学家已经开展了大量植物光合作用对环境条件变化响应等方面的研究,但是,在光合作用对环境因子变化的响应机制的研究中仍然存在很多问题。为此,未来需加强以下几个方面的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)羧化速率与光合电子传递速率间的联系",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "羧化速率与光合电子传递速率间的联系直接影响到 RuBP再生速率限制阶段的子模型,进而影响 $J _ { \\mathrm { m a x } }$ ）$V _ { _ { c \\operatorname* { m a x } } } \\cdot T _ { p } \\ : _ { \\circ } R _ { d } \\ : _ { \\circ } g _ { m }$ 等参数估计的准确性。在 $\\mathrm { R u B P }$ 再生速率限制阶段,Farquhar 等忽略了假电子传递、循环电子传递以及碳反应的ATP需求，并根据碳反应的NADPH消耗速率与 $J$ 相等来获得RuBP再生速率限制阶段的子模型。尽管人们已经开展 $J$ 和 NADPH/ATP 生成速率等相关的研究[92],但 $J$ 与 ATP 生成速率之间的关系比较复杂,目前仍未研究清楚[2]。因此,未来应该加强光合电子传递、NADPH/ATP代谢化学计量学等方面研究,以正确地建立 $V _ { c }$ 与 $J$ 间的联系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2)叶肉细胞内 $\\mathrm { C O } _ { 2 }$ 的扩散阻力",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sun等发现 $\\boldsymbol { g } _ { m }$ 对 $V _ { \\mathrm { c m a x } } \\setminus J _ { \\mathrm { m a x } } \\setminus$ $T _ { _ { p } }$ 等的参数估计有很大的影响[93]。目前,人们认为细胞壁、细胞膜、细胞质、叶绿体膜和叶绿体基质均对 $\\mathrm { C O } _ { 2 }$ 的扩散有限制作用。并且,线粒体呼吸作用和光呼吸释放的 $\\mathrm { C O } _ { 2 }$ 有一部分会被光合作用重新固定。这部分 $\\mathrm { C O } _ { 2 }$ 需通过线粒体膜、细胞质、叶绿体膜和叶绿体基质最终到达Rubisco 酶羧化位点[94],这使得 $\\mathrm { C O } _ { 2 }$ 的扩散路径变得非常复杂。目前,有研究已经把 $\\boldsymbol { g } _ { m }$ 区分为细胞壁阻力和叶绿体膜阻力[12.95],但 $\\boldsymbol { g _ { m } }$ 各组分的估计还有待进一步的研究。因此,未来可以结合细胞显微结构观察、叶肉细胞内 $\\mathrm { C O } _ { 2 }$ （204号扩散同位素跟踪技术和FvCB 模型对 $\\boldsymbol { g _ { m } }$ 各组分的参数估计进行研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$3 ) g _ { s }$ 和 $\\boldsymbol { g } _ { m }$ 对环境因子变化的具体调控机制",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明 $\\underline { { \\boldsymbol { g } } } _ { s } ^ { \\ [ 3 4 , 3 6 , 7 0 , 7 9 ] }$ 和 ${ \\underline { { \\boldsymbol { g } _ { m } } } } ^ { [ 3 1 , 3 5 , 3 6 , 3 9 ] }$ 随环境因子的变化而改变。尽管人们已经提出多种与气孔相关的调控机制,但其具体调控机制还不清楚,未来的研究可结合气孔调控相关生理指标测量、光合机构信号传导和FvCB模型等3方面的实验对气孔的调控机制进行深入研究。目前,人们已经提出细胞结构特点、水通道蛋白和叶绿体行为等几种假说来解释 $\\boldsymbol { g } _ { m }$ 的调控机制,但缺乏直接的实验证据。因此，未来的研究要重点研究不同环境条件下叶片细胞结构、水通道蛋白代谢和叶绿体行为的改变情况,并结合FvCB 模型来研究 $\\boldsymbol { g _ { m } }$ 的调控机制。而 $\\boldsymbol { g } _ { m }$ 的相关研究需多领域的科学家共同参与",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Farquhar GD,von Caemmerer S,Berry JA.A biochemical model of photosynthetic $\\mathrm { C O } _ { 2 }$ assimilation in leaves of $\\mathbf { C } _ { 3 }$ species. Planta，1980,149 (1): 78-90.   \n[2]von Caemmerer S.Steady-state models of photosynthesis.Plant，Celland Environment,2013,36(9)：1617-1630.   \n[3]LongSachCJGsechngemeasureents，atantellusbothderlingliatototostsisrursd sources of error.Journal of Experimental Botany，2003,54（392）：2393-2401.   \n[4]Zhu XG,Portis AR Jr,Long SP.Would transformation of $\\mathrm { C } _ { 3 }$ crop plants with foreign Rubisco increase productivity? A computational analysis extrapolating from kinetic properties tocanopy photosynthesis.Plant，Celland Environment,2O04,27(2）:155-165.   \n[5]SellesPJ，RandallDA,ColatzGJ，BerryJA，FieldCB，Dazlich DA,ZhangC，ColeloGD,BounouaL.Arevisedlandsufce parameterization（SiB2）for atmospheric GCMs.PartI：model formulation.Journal of Climate，1996,9(4）：676-705.   \n[6]Collatz G J，Ribas-Carbo M，BerryJA. Coupled photosynthesis-stomatal conductance model for leaves of $\\mathrm { C } _ { 4 }$ plants.Australian Journal of Plant Physiology，1992,19(5）: 519-538.   \n[7］von Caemmerer S,Furbank R T.The modeling of $\\mathrm { C } _ { 4 }$ photosynthesis//SageR，Monson R，eds.The Biology of $\\mathrm { C } _ { 4 }$ Photosynthesis. New York: Academic Press，1999:169-207.   \n[8] 黄红英，窦新永，孙蓓育，邓斌，吴国江，彭长连.两种不同生态型麻疯树夏季光合特性的比较.生态学报，2009,29(6)：2861-2867.   \n[9] 王海珍，韩路，徐雅丽，牛建龙.胡杨异形叶光合作用对光强与 $\\mathrm { C O } _ { 2 }$ 浓度的响应.植物生态学报，2014，38（10）：1099-1109.   \n[10] 高志奎，高荣孚，何俊萍，王梅，钟传飞.温室茄子(Solanum melongenaL.)光合数学模型与光合生化模型模拟分析.生态学报,2007,27 (6): 2265-2271.   \n[11]Sharkey TD.Photosynthesis in intact leaves of $\\mathrm { C } _ { 3 }$ plants：physics，physiology and rate limitations.The Botanical Review,1985,51(1）：53-105.   \n[12]Flexas J,Ribas-Carb6 M,Diaz-Espejo A,Galmés J,Medrano H. Mesophyll conductance to $\\mathrm { C O } _ { 2 }$ : current knowledge and future prospects.Plant , Cell and Environment,2008,31(5）:602-621.   \n[13]Laing W A，Ogren WL, Hageman R H. Regulation of soybean net photosynthetic $\\mathrm { C O } _ { 2 }$ fixation by the interaction of $\\mathrm { C O } _ { 2 }$ ， $0 _ { 2 }$ ,and ribulose-1,5- diphosphate carboxylase. Plant Physiology，1974,54(5）: 678-685.   \n[14]FarqarGDCerdeligofotiespoevietalodios//ageOobelOodCler H,eds.Physiological Plant Ecology II.Berlin Heidelberg:Springer,1982: 549-587.   \n[15] Keys AJ,BirdIFos,LeaJWgoeR,MinBJotorespatoryirogee.Nae978,568）：4.   \n[16] FarquharGD，WongSC.Anempiricalmodelof tomatalconductance.AusralianJoualofPlantPhysiology984,11（3）：91-210.   \n[17] SharkeyTD,sewygeniofosthsisisusedyofachsislant989,）8 387.   \n[18]Harley P C, Sharkey T D. An improved model of $\\mathrm { C } _ { 3 }$ photosynthesis at high CO $^ { - 2 }$ : reversed $0 _ { 2 }$ sensitivity explained by lack of glycerate reentry into the chloroplast. Photosynthesis Research，1991,27(3）:169-178.   \n[19] Ethier G J,Livingston N J.On the need to incorporate sensitivity to $\\mathrm { C O } _ { 2 }$ transfer conductance into the Farquhar-von Caemmerer-Bery leaf photosynthesis model.Plant，Cell and Environment，2004,27(2）：137-153. 20 Gu LH,Pallardy SG,Tu K,Law BE,Wulschleger SD.Reliable estimation of biochemical parameters from $\\mathrm { C } _ { 3 }$ leaf photosynthesis-intercellular carbon dioxide response curves.Plant，Cell and Environment,2010,33(11）：1852-1874.   \n[21]Manter D K, Kerrigan J. $A / C _ { i }$ curve analysis across a range of woody plant species:influence of regression analysis parametersand mesophyl conductance.Journal of Experimental Botany，2004,55(408）：2581-2588.   \n22]FlexasiejsJaf,dsbidtifoplldcacesos in $\\mathrm { C O } _ { 2 }$ concentration around leaves.Plant，Cell and Environment，2007,30（1O）：1284-1298.   \n[23]DuboisJJB,ssEokerFowrsD,ReidCOtiingthestatiticalstatiooftearametersoftear Caemmerer-Berry model of photosynthesis.New Phytologist，2007，176(2）：402-414.   \n[24]YinXYStruikPC，RomeroP,HarbnsonJ,EversJB,vanderPuttenPEL，VosJUsingcombinedmeasurementsf gasexchangead chlorophyllfluorescence to estimate parameters of a biochemical $\\mathrm { C } _ { 3 }$ photosynthesis model：a critical appraisal and a new integrated approach applied   \n[25]Wullschleger S D.Biochemical limitations to carbon assimilation in $\\mathrm { C } _ { 3 }$ plants—a retrospective analysis of the $A / C _ { i }$ curves from 109 species. Journal of Experimental Botany，1993,44（5）：907-920.   \n[26]von Caemmerer S.Biochemical Models of Leaf Photosynthesis. Colingwood:CSIRO Publishing，2000:44-45.   \n27NieesUlOalisfgsdlgteeti woody species of contrasting shade tolerance.Tree Physiology，1998，18（10）:681-696.   \n[28]TerasaoKosrodaceoftialosofefb plant and tree：an eco-developmental treatise.Annals of Botany，20o5,95(3）：507-519.   \n[29]HikosaaKsaatohsoffrogeridoofsitotrtioofro vine（Ipomoea tricolor Cav.）grown horizontalyto avoid mutual shading of leaves.Oecologia，1994,97(4）：451-457.   \n30]MakitaaTefoishdgtiett97, 203(3):390-398.   \n31]HanbYgsofthoeadooisiernia Plant,Cell and Environment,2002,25（8）：1021-1030.   \n[32]Piel C,Frak E,Le Roux X,Genty B.Effect of local irradiance on $\\mathrm { C O } _ { 2 }$ transfer conductance of mesophyll in walnut.Journal of Experimental Botany，2002，53(379）：2423-2430.   \n3]SchulEtefodelatofisedttdia (Vitis vinifera L.cvv.White Riesling and Zinfandel).Functional Plant Biology，2003,30(6）：673-687.   \n[34]Warren C R,Low M,Matyssek R,Tausz M. Internal conductance to $\\mathrm { C O } _ { 2 }$ transfer of adult Fagus sylvatica: variation between sun and shade leaves and due to free-air ozone fumigation.Environmental and Experimental Botany,20o7,59(2）：130-138.   \n[35]Xiong DL,LiuX,LiuLM,DoutheC,LiY,Peng SB,HuangJL.Rapidresponsesof mesophyllconductancetochangesofCO $^ 2$ concentration , temperatureandiadianceareafectedbyNsupplements inrice.Plant,CellandEnvironment,2O15,8(12）：2541-2550.   \n[36]Douthe C，Dreyer E,Epron D，Warren C R. Mesophyllconductance to CO $_ 2$ ， assessed from online TDL-AS records of $^ { 1 3 } { \\bf C } { \\bf O } _ { 2 }$ discrimination , displays smallbut significant short-term responses to $\\mathrm { C O } _ { 2 }$ and irradiance in Eucalyptus seedlings. Journal of Experimental Botany，2011,62（15）: 5335-5346.   \n[37]Hasiotou F,Ludwig M,Renton M, Veneklaas EJ,Evans JR. Influence of leaf dry mass per area, $\\mathrm { C O } _ { 2 }$ ，and iadiance on mesophyll conductance in sclerophylls.Journal of Experimental Botany，2009,60(8）：2303-2314.   \n[38]Tazoe Y,von Caemmerer S,Badger M R,Evans JR.Light and COzdo not affct the mesophyllconductance to CO $^ 2$ diffusion in wheat leaves. Journal of Experimental Botany，2009,60(8）：2291-2301.   \n[39]Yamori W,Evans JR,von CaemmererS.Efectsofgrowthand measurementlightintensitiesontemperature dependenceof $\\mathrm { C O } _ { 2 }$ assimilation rate in tobacco leaves.Plant，Celland Environment，2010,33（3）：33-343.   \n[40]CochardHVeniseJSarigah，rueerbetS，Guilit，eekrSPutativerolefaquapirblerlic conductance of leaves in response to light.Plant Physiology，2007，143(1）：122-133.   \n[41] VoicuMC,okeJEK,ZiazekJAquaporingeeexpresiondapoplasticwaterfoinrak（Querus mcrocarpa）leavesielatioto the light response of leaf hydraulic conductance.Journal of Experimental Botany,2009,60(14）：4063-4075.   \n[42]Terashima I, Ono K. Effects of $\\mathrm { \\mathrm { H g } C l } _ { 2 }$ on $\\mathrm { \\bar { C } O } _ { 2 }$ dependence of leaf photosynthesis：evidence indicating involvement of aquaporins in CO $^ 2$ diffusion across the plasma membrane.Plant and Cell Physiology，2002,43(1)：70-78.   \n[43]FlexasJbas-CbasotaJOoBifreJDowell,eraoH,KaldeobcoqapiNs in mesophyll conductance to $\\dot { \\mathrm { C O } } _ { 2 }$ in vivo.The Plant Journal,2006,48(3)：427-439.   \n[44]Ainsworth E A,Long S P. What have we learned from 15 years of free-air CO $^ 2$ enrichment （FACE)? A meta-analytic review of the responses of photosynthesis，canopy properties and plant production to rising CO $^ 2$ . The New Phytologist，2005,165(2）： 351-371.   \n[45] Harley P C,Thomas R B,Reynolds JF,Strain B R. Modeling photosynthesis of cotton grown in elevated $\\mathrm { C O } _ { 2 }$ .Plant，Celland Environment, 2006, 15(3) : 271-282.   \n[46] StitMKrapteactoeeevaedbodedrgurioiolicaldolearckgodtel and Environment，1999,22(6)： 583-621.   \n[47] Nakano H,MakinoA,Mae T.Theefetofelevated partial pressuresof $\\mathrm { C O } _ { 2 }$ on therelationship betweenphotosyntheticcapacityandNcontetin rice leaves.Plant Physiology，1997,115(1)：191-198.   \n[48]Makino A,Nakano H,Mae T.Responses of ribulose-1,5-bisphosphate carboxylase,cytochrome $f$ ,and sucrose synthesis enzymes in rice leaves to leaf nitrogen and their relationships to photosynthesis.Plant Physiology，1994，105(1）：173-179.   \n[49]Curtialyieedboiantell9 (2): 127-137.   \n[50] Singsaas EL，Ort DR，Delucia EH.Elevated CO $^ 2$ effects on mesophyll conductance and its consequences for interpreting photosynthetic physiology.Plant，Cell and Environment,2004,27(1)：41-50.   \n[51]Ferris R,Nijs I,Behaeghe T, Impens I. Elevated $\\mathrm { C O } _ { 2 }$ and temperature have different effects on leaf anatomy of perennial ryegrass in spring and   \n[52]Masle J. The efects of elevated $\\mathrm { C O } _ { 2 }$ concentrations on cell division rates，growth patterns，and blade anatomy in young wheat plants are modulated byfactors related to leaf position，vernalization，and genotype.Plant Physiology，2000,122(4）：1399-1415.   \n[53]KirscherWtulenIWaerF,KuiprJ.omparisonofalaeobotacalseratiositexperentaldataoteatof durmast oakQuercus petraea（Fagaceae)]inresponse to environmental change.Analsof Botany，1998,81（5）:657-664.   \n[54]Hedrich R,Neimanis S, Savchenko G,Felle HH, Kaiser W $\\mathbf { M }$ ,Heber U.Changes in apoplastic pHand membrane potential in leaves in relation to stomatal responses to $\\mathrm { C O } _ { 2 }$ ，malate，abscisic acid or interruption of water supply.Planta，2001,213(4）：594-601.   \n[55]Hedrich R,MartenI,Lohse G,Dietrich $\\mathrm { P }$ ,WinterH,Lohaus G,Heldt HW.Malate-sensitive anionchannels enable guardcels tosnsechanges in the ambient $\\mathrm { C O } _ { 2 }$ concentration.The Plant Journal,1994,6(5）：741-748.   \n[56]Buckleot,decaldicaldelftalucta.antlldvt 26(10): 1767-1785.   \n[57]FexasJ,BarbourM,BrendelOCabreraH,CariquM,Dz-EspejA,DutheC,DreerE,FerriJP,GagoJGalléA,GlmésJ, Kodama N,Medrano H, Niinemets $\\ddot { \\mathrm { ~ U ~ } }$ ，Peguero-Pina JJ，Pou A，Ribas-Carb6 M，Tomás M，Tosens T，Warren C R. Mesophylldifusion conductance to $\\mathrm { C O } _ { 2 }$ : an unappreciated central player in photosynthesis.Plant Science，2012，193-194：70-84.   \n[58]von Caemmerer S，Evans JR. Determination of the average partial pressure of CO $^ 2$ in chloroplasts from leaves of several C3 plants.Australian Journal of Plant Physiology，1991,18（3）：287-305.   \n[59]LoretoF,HarleyPC,Di MarcoG,Sharkey TD.Estimation of mesophyllconductance toCO $^ 2$ flux bythreedfferentmethods.Plant Physiology, 1992,98(4): 1437-1443.   \n[60]Alguacil M D M,Kohler J,Caravaca F，Roldän A.Diferential effects of Pseudomonas 1 endocina and Glomusintraradices on lettuce plants physiological response and aquaporin PIP2 gene expression under elevated atmospheric CO $^ 2$ and drought. Microbial Ecology，2009，58（4）: 942-951.   \n[61]Sarkeeeobiissbc L.）having excess phytochrome.Planta，1991,185(3）： 287-296.   \n[62]TholenD,C，uchiKOUedaS,KataseT,erashiaI.Theoplastvdanceresposedereasesintealoductacet $^ 2$ （204号 difusionin Aabidopsisthalian leaves.Plant，CellandEnvironment，2008,1（11）)：688-170.   \n[63] Sage R F,Kubien D S.The temperature response of $\\mathrm { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ photosynthesis.Plant，Cell and Environment，2007,30(9）：1086-1106.   \n[64]BeracciCingssEL，ientelC，PortisRJongSmprovedtemperaturerespoeunctiosfrodelsfbsle photosynthesis.Plant，Celland Environment，2001,24(2):253-259.   \n[65]Yamasakiaeatohperaueiaofossdeaedgs I electron transportin winter wheat.Plant Physiology，2002,128(3）:1087-1097.   \n[6]Ymorisseeurepef in spinach leaves grown at contrasting temperatures.Plant and Cell Physiology，2O08,49(4）：583-591.   \n67Sharketsofoderateattootostisporaceofyldactisactivatioeactiosei， and thermo tolerance provided by isoprene.Plant，Celland Environment，2005,28（3）:269-277.   \n[68]BeactelCgSuessefcsfpaeeseddelBPledoist, Cell and Environment，2003，26(9）:1419-1430.   \n[69]Waren C R,Dreyer E. Temperature response of photosynthesis and interal conductance to CO $^ 2$ : results from two independent approaches.Journal of Experimental Botany，2006,57（12）:3057-3067.   \n[70voCepusolitlt，eldt 38(4) : 629-637.   \n[71]Evans JR, Kaldenhof R,Genty B,Terashima I. Resistances along the CO $^ 2$ diffusion pathwayinside leaves.Journal ofExperimental Botany,2009, 60(8) : 2235-2248.   \n[72]Kuwagataskaw-SakuraiJ，ayshiH,gasugaK,FukushiK,aedA,TakasgiK,KatsuaraM,urai-HataoMIulo airhumidityndlowttmpatureoatetaeothdqapoxpressoiiceplatantdCellsi 1418- 1431.   \n[73] ChavesMM,rocoJreaJSUderstadingplatresposestroufromgenstoholeplantFctioalPantlog (3): 239-264.   \n[74]FlexasJ，Baron M,BotaJ，DucruetJM，GallA，GalmésJ,Jimenez M，PouA，Ribas-CarbóM，SajnaniC，TomasM，MedranoH. PotostsisgedeoddViisdi. Journal of Experimental Botany，2009,60(8）：2361-2377.   \n[75]JamesRCererS,doAG,ZartA,eecratoioleracetootirsopotflt in durum wheat.Functional Plant Biology，2008,35(2）：111-123.   \n[76]FlexasJ,otaJ,LoretoF,CoicG,SharkeyTDDifusiveadmetaboliclimitatiostopotosythesisunderdroughtandsaliity $\\mathrm { C } _ { 3 }$ Plants. Plant Biology，2004,6(3）：269-279.   \n[77]Giberd,ertoreIeflinrgatioothadartgndleafgsec (Daucus carota L.).Annals of Botany，2002,90(6)：715-724.   \n[78]James RA，Rivelli A R，Munns R，von Caemmerer S.Factors affecting CO $^ 2$ assimilation,leaf injury and growth in salt-stressed durum wheat. Functional Plant Biology，2002，29（12）：1393-1403.   \n[79]Pere-ti,hJsJbiefodl andmesopylloductaceudrwaterstsderyive：eiteexpresioofbcsd. Journal of Experimental Botany，2014,65(12）：3143-3156.   \n[80Centeleidoflaall light limitations to photosynthesis.Plant,Cell and Environment,2015,38(8）：1528-1542.   \n[81]HuYC,roJ,chhalterUEfectofsalinityoisuearchitectureinxpandingeatleaves.lantaOo,2)-84.   \n[82]Tosens,etsUVisapchelHzvelopntalagsisoldfusioouctaedoe capacityunderttteiliiuslcueoantellndo (5):839-856.   \n[83]Kawasebatsharaeotoscssefasexpigeatiter deficit and high vapor pressure deficit.Journal of Plant Research,2013,126(4）：517-527.   \n[84]WalerfAS，WitedDisterW，KelirFThresponsefpotosthetidelparameterstoemperatureditrog concentration in Pinus radiata D.Don.Plant,Cell and Environment，1997,20(11)：1338-1348.   \n[85]YamoriW,Nagai T,Makino A.The rate-limiting step for CO $^ 2$ assimilation at diferent temperatures is influenced by the leaf nitrogen content in several $\\mathrm { C } _ { 3 }$ crop species.Plant，Cell and Environment，2011,34（5）：764-777.   \n[86]SageRF,SharkeyTD,PearcyRW.Theefectof leaf nitrogenandtemperatureOntheCOresponseofphotosynthesisinthe $\\mathrm { C } _ { 3 }$ dicot $\\mathrm { M }$ （204号 Chenopodium album L.Australian Journal of Plant Physiology，1990,17(2）：135-148.   \n[87]Warren C R.The photosynthetic limitation posed by internal conductance to $\\mathrm { C O } _ { 2 }$ movement is increased by nutrient supply. Journal of Experimental Botany，2004,55(406）：2313-2321.   \n88]MuirCDagareRoylLC,Dvisolcaldatceantsfoucaildelati (Solanumsect.Lycopersicon，sect.Lycopersicoides；Solanaceae）.Plant，CellandEnvironment，O14，37(6)：1415-1426.   \n[89]LiY,GYX,XuXnQRGuSLigh-saturatedotosetateinigtrogece（OrstiL）aveis chloroplastic CO $^ 2$ concentration.Journal of Experimental Botany，2009,60(8）：2351-2360.   \n[90]GuoSW,KaldenoffR，UehleN，atemacherBrueck HRelatioshipetwenwaterandnitrogenuptakeitratendasupplied Phaseolus vulgaris L. plants. Journal of Plant Nutrition and Soil Science,2Oo7,17O(1)：73-80.   \n[91]SunY,GuH,DickinsonRE,NorbyRJ,PallrdySGHoffmanFM.Impactof mesophylldifusiononestimatedgloballand $\\mathrm { C O } _ { 2 }$ fertilization. Proceedings of the National Academy of Sciencesof the United Statesof America,2014,111(44):15774-15779.   \n[92]YinX,aOiehapdoAHExtesofcaloelfoeealidooeytrorasi $\\mathrm { C } _ { 3 }$ photosynthesis.Plant，Cell and Environment，,2004，27(10）：1211-1222.   \n[93]SunY,GuLH,DickinsonRE,PallrdySG,BakerJ,CaoYH,DamataFM,DongXJ,ElsworthD,VanGoethemD,JensenAM,LaB E,LoosR,VitorMartisSCNrbyRJ，WarrenJ，WestonD，WinterK.Asymmetricalfectsfmesoyllonductanceonfdatal photosyntheticparametesandheirelatioshipstatedfromleafgasecangemeasurements.Plant，CellandEnviroent，4，7（4）： 978-994.   \n[94]TholenD,EthierG,GentyB.Mesophyllconductance withatwist.Plant，CellandEnvironment，2014,37（11):2456-2458.   \n[95]TolenD,tGetepuGVblsooctaceevisalcgdperao Plant，Cell and Environment，2012，35（12）：2087-2103. A ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

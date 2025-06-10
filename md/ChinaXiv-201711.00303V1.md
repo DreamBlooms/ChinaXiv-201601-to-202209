@@ -1,0 +1,230 @@
+# [956一2010年辽西地区玉米气候适宜度时空分布特征
+
+宋英男」李颖1\*\* 任学慧」林　霞²(1．辽宁师范大学城市与环境学院大连116029;2.国家海洋环境监测中心 大连116023)
+
+摘要以玉米气候适宜度模型及辽西地区4市8站近50a(1956—2010年)逐日气象数据为基础，利用空间插值、经验正交函数分析方法(EOF)和小波变换分析方法对玉米全生育期及各主要生育时期气候适宜度的时间变化和空间分布特征进行分析，研究气候变化过程中辽西地区农业气候资源对玉米生长的适宜程度的变化特征。结果表明：1)近50a，辽西地区玉米全生育期的降水、日照及综合气候适宜度呈逐年下降趋势，除开花期综合气候适宜度呈上升趋势外，播种、出苗、成熟期综合气候适宜度均呈下降趋势；2)在空间分布上，辽西玉米全生育期的温度适宜度、日照适宜度，播种、成熟期的综合气候适宜度分别表现出由南向北、由西向东、由西向东南和东北、由东北向西南递增，而出苗期综合气候适宜度表现为由西北向东南和东北递减；全生育期的降水适宜度、综合气候适宜度和开花期的综合气候适宜度由北向南均呈现“低-高-低-高"的带状分布特征，播种、出苗和开花期限制因素分别为降水、日照和日照;3)EOF分析发现，辽西地区玉米全生育期综合气候适宜度距平百分率在空间上表现为西南向东北微幅递减；在时间上，小波分析发现辽西玉米综合气候适宜距平百分率第1特征向量的时间系数存在14\~30a、8\~14a、3\~7a的3类尺度的震荡周期。
+
+关键词 玉米生育期气候适宜度 经验正交函数分析方法(EOF） 小波变换辽西地区中图分类号：S513 文献标识码：A 文章编号：1671-3990(2016)03-0306-10
+
+# Spatio-temporal distribution characteristics of climatic suitability degree of maize in Western Liaoning Province from 1956 to 2010
+
+SONG Yingnan1,LI Ying1\*\*, REN Xuehui1, LIN Xia² (1.College of Urban and Environment,Liaoning Normal University,Dalian 116029,China; 2.National Marine Environmental Monitoring Center,Dalian 116o23,China)
+
+AbstractUnder global climate warming and drying,temperatures have increased to varying degres around the world. Global warming has caused significant changes in agro-ecological environments,of which maize yield and quality have ben found tobeheavilyinfluencedbymeteorological factors.Thereforetheanalysisofthesuitabilitydegree toclimatechangeof maize during growth period could providean important guide for increasing agricultural production.Basisona climatic suitabilitydegree model foroptimal maize production,dailymeteorological data for1956-20l0from eight meteorological stations in fourcities in WestLiaoning Provincewereanalyzed.Theanalysis includedthespatialand temporal distribution characteristics of climate suitabilitydegree during the whole growth period and each individual growth stage of maize using spatial interpolation,EmpiricalOrthogonalFunction(EOF）analysisand wavelet transformationanalysis.Theresultsshowed that:1)The suitabilitydegrees of precipitation,sunshineand integrated climatefollwed a declining trend during the maize growth period from 1956to 2010.The suitability degreeof integrated climate dropped at sowing,emergence and maturity stages butrose atflowering stage.2)Thesuitability degresofboth temperature and sunshine during the whole growth period of maize and the suitability degree of integrated climate during sowing and maturitystages tracked an increasing trend from south to north,from westtoeast,from west to southeast and northeast,and from northeast to southwest in West Liaoning Province.However, thesuitabilitydegresof temperature and sunshine atemergencestage were in contrast tothatofsowing, witha general declining trend fromnorthwest to southeastandnortheast.Thesuitabilitydegreesof precipitation,integrated climate during the wholegrowth periodof maize and integrated climate during flowering follweda“low-high-low-high" zonal distribution from north to south.Theconstraint factors during sowing,emergence and flowering were precipitation, sunshine and sunshine.3)EOF analysis showed that the percentage anomalyof suitabilitydegree of integrated climate during the whole growth periodof maize in West Liaoning Province generalyslightly declined in space from southwest to northeast. Waveletransformatioanalysissuggestedthetimecoeficientoffirstfeaturevectorsofintegratedclimate suitabilitydegreeat 3 scales of oscillation period - 14-30 years,8-14 years and 3-7 years.
+
+KeywordsMaize; Growth stage; Climate suitabilitydegree;Empirical orthogonalfunctionanalysis;Wavelet transformation analysis;West Liaoning Province
+
+玉米是辽宁省第一粮食作物。截至2012年，种植面积达220.1万 $\mathrm { h m } ^ { 2 }$ ，占全省粮食作物播种面积的$6 8 . 6 \% ^ { [ 1 ] }$ 。近年来，随着饲料、工业加工、食用、出口等行业的迅速发展和人民生活水平的不断提高，玉米消费需求量日益增加，品质要求不断提高[2]。根据IPCC第5次评估报告，过去的130年全球地表平均温度升高了 $0 . 8 5 \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { [ 3 ] }$ ，气候变暖导致农业生态环境产生较大变化，区域农作物育种、生产布局、生育结构等均受到较大影响[4-5]。作为辽宁省玉米主产区的辽西地区，是典型的半湿润半干旱地区，玉米产量及品质受气象环境等因素的影响较大[6。因此，分析该区域的玉米气候适宜度，对当地的农业生产具有重要的指导意义。
+
+农作物气候适宜度主要用于表征农作物在各生长阶段对所需的光水热等气象要素的适宜程度，在一定程度上影响着当地的农业生产类型、空间布局、产量高低及品质优劣[7-10]。近年来已有学者针对粮食作物的农业气候适宜度进行了系统的分析与探讨，以提高农作物适应当前及未来气候变化的能力。如王丽霞等[7拟合出了典型气候适宜度隶属函数，并提出了农业生态气候的3种等级模式。宫丽娟等[11-12]运用建立的玉米气候适宜度模型分别对东北三省和黑龙江省玉米气候适宜度的年际变化进行了分析。任玉玉等[13]和刘国成等[14]在农业气候适宜度模型的基础上，探讨了不同尺度农业气候资源的分区与评价，并以乡镇为单位对研究区气候适宜度进行了划分。魏瑞江等[15在气候适宜度模型的基础上对不同时段的夏玉米产量进行预报研究，效果良好。以上成果虽高效展现了区域的作物适宜性，但对模型的区域适宜性讨论尚待加强。因此，本文结合辽西玉米生理特性及气候特点，在已有研究的基础上，引入权重分析理论明确各气象要素适宜度对综合气候适宜度及不同生育期对全生育期气候适宜度的贡献率，改进气候适宜度模型，以辽西地区均匀分布的8个气象站点1956一2010年逐日气象数据为基础，采用EOF、小波变换等方法，分析辽西地区玉米气候适宜度的时序变化趋势和空间分布特征，有助于认识气候变化对辽西玉米的影响，为当地玉米种植的科学布局及制定应对气候变化对策提供依据。
+
+# 1研究区概况与研究方法
+
+# 1.1 区域概况
+
+辽西地区(119.70\~122.53°E, $4 0 . 3 5 { \sim } 4 2 . 2 4 ^ { \circ } \mathrm { N } )$ ，包括阜新、朝阳、葫芦岛和锦州市，分为辽西走廊和辽西北部低山丘陵2个区域。辽西走廊包括沿渤海湾狭长的平原及丘陵地带；辽西北部低山丘陵区域属于高丘陵山地[1(图1)。辽西地区由东南向西北气候由温带半湿润向半干旱过渡，具有雨热同期、日照丰富、降水较少的特点[17]。近 $5 0 \mathrm { a }$ 辽西地区气候变化的基本特征表现为气温升高了 $1 . 7 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，年平均温度变化率为 $0 . 3 2 2 \ \mathrm { ~ \textcircled { ~ } C } \cdot 1 0 \mathrm { { a } ^ { - 1 } }$ ；降水减少了 $6 2 \ \mathrm { m m }$ 年降水量变化率为 $- 1 2 . 4 6 4 ~ \mathrm { \ m m } { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ ；日照时数减少 $4 0 6 \mathrm { ~ h ~ }$ ，年日照时数变化率为 $- 8 1 . 1 \ \mathrm { h } { \cdot } 1 0 \mathrm { a } ^ { - 1 [ 1 8 ] }$ 。气候暖干化对农作物的各生理过程产生较大影响[14]。
+
+# 1.2 数据来源
+
+以辽西地区均匀分布8个气象站点(图1)1956—2010年逐日平均温度、日降水量、日照时数为基本资料。根据1981一2009年辽西地区各农业气象站实际观测的玉米发育期的均值，将玉米生长季划分为：播种期(4月18日一5月8日)、出苗期(5月9日一6月25日)、开花期(6月26日一7月31日)、成熟期(8月1日-9月20日)[19]。
+
+# 1.3 气候适宜度模型
+
+# 1.3.1 主要气象要素适宜度模型
+
+定量分析玉米生长发育对气候条件的适宜程度，根据宫丽娟等[11-12]、魏瑞江等[15]、刘国成等[14]的研究，并结合辽西地区的实际情况，拟定温度、降水、日照适宜度函数分别为：
+
+![](images/df2005da5c2f6cceba20453c242d1e242baa39f73f8904e6ef54d0dca23e7525.jpg)  
+图1辽西地区地理位置及主要气象站点分布Fig.1Location and distribution of main meteorological sitesof West Liaoning
+
+$$
+T { \big ( } t { \big ) } = { \frac { { \big ( } t - t _ { 1 } { \big ) } { \big ( } t _ { \mathrm { h } } - t { \big ) } ^ { B } } { { \big ( } t _ { 0 } - t _ { 1 } { \big ) } { \big ( } t _ { \mathrm { h } } - t _ { 0 } { \big ) } ^ { B } } } \quad \left( B = { \frac { t _ { \mathrm { h } } - t _ { 0 } } { t _ { 0 } - t _ { 1 } } } \right)
+$$
+
+$$
+P { \Big ( } p { \Big ) } = { \binom { p / p _ { 0 } } { 1 } } \quad { \big ( } p < 0 . 6 8 p _ { 0 } { \big ) }
+$$
+
+$$
+S \left( s \right) = \left\{ \begin{array} { l l } { \mathrm { e } ^ { - \left[ \frac { s - s _ { 0 } } { \mathfrak { b } } \right] ^ { 2 } } } & { \ \left( s < s _ { 0 } \right) } \\ { 1 } & { \ \left( s \geqslant s _ { 0 } \right) } \end{array} \right.
+$$
+
+式中： $T ( t )$ 为日平均气温适宜度； $\mathbf { \chi } _ { t } ^ { }$ 为某日平均气温$\mathrm { ( ^ { \circ } C ) }$ $\mathrm { { ? } ) ; \ } t _ { \mathrm { h } } , \ t _ { 0 \setminus } \ t _ { 1 }$ 分别表示玉米某生育期所需的最高温度、最适温度、最低温度[20(表1); $P ( p )$ 为日降水适宜度; $p$ 为某生育期实际累计降水量 $\left( \mathrm { m m } { \cdot } \mathrm { d } ^ { - 1 } \right)$ ： $p _ { 0 }$ 为玉米某生育期的需水量， $p _ { 0 }$ 根据FAO给出的作物系数，运用实时气象数据根据Penman-Monteith(2008版)公式计算而得[21-22]，结合辽西地区土壤类型[23]及当地玉米生理特性，定义玉米全生育期或某一生育期降水量 $\ge 0 . 6 8$ 倍需水量时，为降水适宜玉米生长发育; $S ( s )$ 为日照时数适宜度; $s$ 为日照时数(h); $s _ { 0 }$ 为生育期内某日日照百分率达到 $70 \%$ 的时数(h)，当某日的日照时数 $s \geq s _ { 0 }$ 时，日照适宜度为1，当 $s { < } s _ { 0 }$ 时，日照适宜度小于1,b 为常数[24](表1)。
+
+# 1.3.2 综合气候适宜度模型
+
+玉米在各个生育期生长发育特点不同，对温度、降水、日照等气候条件的要求各不相同。同时，不同生育期对玉米全生育期气候适宜度的贡献率也不尽相同，因此需要对各气象要素适宜度及各生育期综合气候适宜度设定权重。由于降水与温度、日照等气象要素不同，在辽西地区不具有逐日性，本文在计算温度、降水、日照气候适宜度的权重时，将生育期内的所包含的完整日数按旬分布。采用一元积分回归法及加权平均，用逐旬温度、降水、白照适宜度除以同期3者之和，得到温度、降水、日照适宜度所占的比重系数,分别为 $r _ { t i \setminus }$ rpi $r _ { s i }$ ；再用逐旬比重系数的绝对值除以全生育期(或各生育期)所包含的全部旬比重系数绝对值的总和，得到逐旬温度、降水、日照适宜度的权重系数，分别为 $q _ { t i \setminus } \ q _ { p i \setminus }$ $q _ { s i }$ [公式(4)\~(6)]。逐旬温度、降水、日照适宜度乘以所对应的权重系数，再求和[公式(7)\~(9)]，即为玉米全生育期(或各生育期)温度、降水、日照适宜度[15]。
+
+表1 辽西地区玉米各生育期最高、最适、最低温度及常数bTable1Maximum,optimal,and minimum temperatures andconstant b of each growth stage of maize in West Liaoning  
+
+<html><body><table><tr><td>项目 Item</td><td>播种期 Sowing</td><td>出苗期 Emergence</td><td>开花期 Flowing</td><td>成熟期 Mature</td></tr><tr><td>最高温度(th) Maximum temperature</td><td>20.0</td><td>27.0</td><td>32.0</td><td>28.0</td></tr><tr><td>最适温度(to) Optimal temperature</td><td>9.0</td><td>20.0</td><td>27.0</td><td>19.0</td></tr><tr><td>最低温度(ti) Minimum temperature</td><td>6.0</td><td>9.0</td><td>15.0</td><td>11.0</td></tr><tr><td>常数b Constant b</td><td>4.77</td><td>5.08</td><td>5.17</td><td>5.24</td></tr></table></body></html>
+
+$$
+q _ { t i } = \frac { \left| \boldsymbol { r } _ { t i } \right| } { \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } \left| \boldsymbol { r } _ { t i } \right| }
+$$
+
+$$
+q _ { p i } = \frac { \left| \boldsymbol { r } _ { p i } \right| } { \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } \left| \boldsymbol { r } _ { p i } \right| }
+$$
+
+$$
+q _ { s i } = \frac { \left| \boldsymbol { r } _ { s i } \right| } { \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } \left| \boldsymbol { r } _ { s i } \right| }
+$$
+
+$$
+\begin{array} { r } { T _ { n } \left( t \right) = \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } q _ { t i } T _ { i } \left( t \right) } \end{array}
+$$
+
+$$
+\begin{array} { r } { P _ { n } \left( p \right) = \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } q _ { p i } P _ { i } \left( p \right) } \end{array}
+$$
+
+$$
+S _ { n } \left( s \right) = \sum _ { i = n _ { 1 } } ^ { n _ { 2 } } q _ { s i } S _ { i } \left( s \right)
+$$
+
+$$
+C _ { n } = \sqrt [ 3 ] { T _ { n } \left( t \right) \times P _ { n } \left( p \right) \times S _ { n } \left( s \right) }
+$$
+
+式中： $T _ { i } ( t ) , \ P _ { i } ( p ) , \ S _ { i } ( s )$ 分别表示第 $i$ 旬温度、降水、日照适宜度; $T _ { n } ( t )$ ！ $P _ { n } ( p )$ 、 $S _ { n } ( s )$ 分别为第 $n$ 个生育期的温度、降水、日照适宜度； $C _ { n }$ 为第 $n$ 个生育期的综合气候适宜度; $n _ { 1 } , ~ n _ { 2 }$ 分别为第 $n$ 个生育期的开始旬和结束旬，而当 $n _ { 1 } = 1 , n _ { 2 } = m$ (玉米全生育期旬数)时，$T _ { n } ( t )$ 、 $P _ { n } ( p )$ 、 $S _ { n } ( s )$ 分别为全生育期的温度、降水、日照适宜度， $C _ { n }$ 为全生育期的综合气候适宜度。下文中以SDT、SDP、SDS、SDIC分别代表玉米全生育期温度、降水、日照、综合气候适宜度。
+
+# 1.4 EOF分析
+
+经验正交函数分析方法(EOF)是一种空间上的主成分分析法(PCA)，可将气象要素分解为时间与空间上两个正交函数的组合，用时间系数表征空间分布的时间变化特征，空间上用特征向量表示分布特点[25]。利用 EOF法，对辽西地区8站1956—2010年玉米全生育期综合气候适宜度空间分布特征进行分析，其原理如下：
+
+通过矩阵对数据进行预处理：
+
+$$
+X = X _ { m n } = { \left[ \begin{array} { l l l } { x _ { 1 1 } \cdots } & { x _ { 1 n } } \\ { \vdots } & { \ddots } & { \vdots } \\ { \dot { x _ { m 1 } } \cdots } & { x _ { m n } } \end{array} \right] }
+$$
+
+式中： $\mathbf { \nabla } _ { m }$ 为时间序列长度，选取55a玉米全生育期综合气候适宜度距平百分率， $\mathbf { \nabla } _ { m }$ 为55; $n$ 为气象站点个数，选取辽西地区8个气象站点， $n$ 为 8。因此玉米综合气候适宜度的特征向量场 $X$ 可分解为呈正交的时间矩阵 $S ( S _ { m n } )$ 和正交的空间矩阵 $T ( T _ { n h } )$
+
+$$
+X _ { m n } = S _ { m h } \times T _ { n h }
+$$
+
+$$
+S = S _ { m h } = \left[ \begin{array} { c c c } { { s _ { 1 1 } } } & { { \ldots } } & { { s _ { 1 h } } } \\ { { \vdots } } & { { \ddots } } & { { \vdots } } \\ { { s _ { m 1 } ^ { 2 } } } & { { \cdots } } & { { s _ { m h } ^ { 2 } } } \end{array} \right]
+$$
+
+$$
+T = T _ { n h } = \left[ { \begin{array} { c c c } { t _ { 1 1 } } & { \cdots } & { t _ { 1 h } } \\ { \vdots } & { \vdots } & { \vdots } \\ { t _ { n 1 } ^ { \smash { \prime } } } & { \cdots } & { t _ { n h } ^ { \smash { \prime } } } \end{array} } \right]
+$$
+
+式中： $h$ 为分解场的个数，利用 $h$ 个相互正交的分解场重新构建空间，得到新的空间场和时间系数可表征原始场的所有特征。因EOF收敛很快，其前几个大值典型场即可代表原始场的主要特征[25]。
+
+# 1.5 小波分析
+
+小波分析是一种信号时频分析方法，用以研究不同尺度周期随时间的演变情况，能较为准确地分析时间序列在任意时刻的频域特征以及变化特征[26]。采用常用的墨西哥帽小波函数[27]对全生育期玉米综合气候适宜度进行空间上的小波变换，进一步分析辽西地区玉米全生育期综合气候适宜度的时空变换规律。变换函数为：
+
+$$
+\Psi _ { t } = \mathrm { e } ^ { \frac { \left( - \mathrm { w } - f \right) ^ { 2 } } { 2 } }
+$$
+
+式中： $f$ 为常数，是小波函数的中心频率；w为常数，是小波变化的时频分析信号。在利用EOF方法计算出辽西地区玉米综合气候适宜度距平百分率第1特征向量时间系数的基础上，运用MATLABR2014a运算平台得到辽西玉米综合气候适宜度第1特征向量空间分布特征的时间变化规律。
+
+# 2 结果与分析
+
+利用辽西地区4市8站1956—2010年逐日的气象数据，根据公式(1)\~(10)分别算出玉米不同生育期逐年温度、降水、日照及综合气候适宜度，在此基础上计算出区域均值(图2、图3)。
+
+2.1 辽西地区玉米气候适宜度时间变化特征
+
+# 2.1.1 全生育期气候适宜度时间变化特征
+
+由图2所示，1956一2010年辽西地区玉米温度适宜度较高，在 $0 . 7 7 0 { \sim } 0 . 9 1 9$ 波动，最大波幅为0.146。降水适宜度均值(0.552)明显低于温度适宜度均值(0.844)且呈递减趋势，递减率为 $0 . 0 0 6 \cdot 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，在 $0 . 3 0 2 { \sim } 0 . 9 0 0$ 波动，波动幅度高达0.498，其中1965年、1994年降水过多发生涝灾，1992年、1999年、2001年[17则发生了大面积的干旱，对应年份的降水适宜度分别为0.311、0.378、0.398、0.302和0.350，均小于平均值0.522。日照适宜度均值最低(0.433)且呈递减趋势，递减率
+
+![](images/e2c6ddca4638ccaa96106b6052e94c499b835fb2365af07d20e12021ddefcd6e.jpg)  
+图21956—2010年辽西地区玉米全生育期气候适宜度年际变化(SDT:温度适宜度;SDP:降水适宜度;SDS：日照适宜度；SDIC：综合气候适宜度)
+
+Fig.2Inter-annualvariabilityofclimatesuitabilitydegreeduring maizewhole growth periodin WestLiaoningfroml956to2010 (SDT: suitabilitydegreeof temperature; SDP:suitabilitydegreeof precipitation; SDS:suitabilitydegreeofsunshine; SDIC: suitability degree of integrated climate)
+
+![](images/c751226d4648643360430086f72bbbb28d827f4068947f1889104f95380aea00.jpg)  
+图31956—2010年辽西地区玉米各个生育期综合气候适宜度年际变化Fig.3Inter-annualvariabilityof integratedclimatesuitabilitydegreeatdiferentgrowthstagesofmaizeinWestLiaonngfrom1956 to 2010
+
+为 $0 . 0 0 4 { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，波动范围为 $0 . 2 6 8 { \sim } 0 . 6 3 6$ ，波动幅度小于降水适宜度(为0.355),日照适宜度偏低主要是由于辽西地区日照时数呈现下降趋势[23]。综合气候适宜度在 $0 . 5 2 0 { \sim } 0 . 7 2 8$ 波动，波动幅度为0.208，1956—2010年间辽西地区玉米综合气候适宜度呈现出递减趋势，递减率为 $0 . 0 0 5 { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ （204号(通过了0.01显著性检验)。上述结果表明，辽西地区农业气候(光水热)资源总体比较适宜，基本上能够满足玉米的生理需要，其中温度资源较好，但降水、日照资源的逐年下降在一定程度上限制了辽西地区的玉米生长，导致辽西地区玉米综合气候适宜度逐年下降。
+
+# 2.1.2各生育期综合气候适宜度时间变化特征
+
+由图3可知，1956一2010年辽西地区玉米在播种期、出苗期、开花期、成熟期的综合气候适宜度均在0.5以上，平均值分别为0.560、0.596、0.630、0.662。播种期综合气候适宜度均值较小，且呈逐年递减趋势，递减率为 $0 . 0 0 6 { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，主要是由于播种期的日照适宜度(0.428)和降水适宜度(0.429)偏低。播种期的4一5月份，是辽西地区冷暖空气开始交汇、日照不充足、降水较少且时空分布不均的时段，易发生春旱，进而影响玉米出苗率。出苗期综合气候适宜度均值为0.596，呈逐年递减趋势，递减率为 $0 . 0 0 2 { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，此生育期日照适宜度偏低，均值为0.383,出苗期日照不足不利于干物质的积累，造成玉米出苗率低、幼苗死亡率高等问题[27]。开花期综合适宜度均值为0.630，呈逐年升高趋势，递增率为 $0 . 0 0 1 \cdot 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，但此生育期日照适宜度均值仅为0.231，明显低于温度适宜度(0.917)和降水适宜度(0.742)，说明在开花期水热条件配置较好的情况下，日照时数不适宜将成为制约辽西玉米生长发育的关键气候因素。成熟期综合气候适宜度均值为各生育期中最高值(0.662)，呈逐年递减趋势，递减率为 $0 . 0 1 2 { \cdot } 1 0 \mathrm { a } ^ { - 1 }$ (通过了0.01显著性检验)，温度、日照及降水适宜度均值分别为0.913、0.556及0.518,玉米在此生育期对温度和日照的适宜性相对较好，对降水的适宜性相对较差，成熟期缺水会造成玉米穗粒质量偏低进而降低玉米产量和质量[17]。
+
+# 2.2 气候适宜度空间分布特征
+
+以GIS为平台，采用空间插值中的反距离权重法对玉米全生育期气候适宜度进行空间分析(图4)。发现温度、降水、日照及综合适宜度存在着明显空间差异，辽西地区玉米温度适宜度较高，降水和日照适宜度较低，表明降水较少、日照不充足是限制辽西地区玉米生长发育进而降低产量、影响质量的关键因素。
+
+# 2.2.1 全生育期气候适宜度空间分布特征
+
+由图4可知，玉米全生育期温度适宜度大致呈现由北向南逐渐递减的规律，除绥中、锦州两地的温度适宜度相对较低分别为0.790和0.787，其他地区的温度适宜度均在0.854以上，表明辽西地区玉米温度适宜度较高，温度条件总体较好。玉米全生育期降水适宜度总体较小，由北向南大致呈现出“低-高-低-高"的带状分布特征，全区降水适宜度波动范围为 $0 . 5 2 4 { \sim } 0 . 5 9 0$ ，最大值出现在黑山站，最小值出现在朝阳站。玉米全生育期日照适宜度总体较小，由西向东逐步递减，除阜新、建平两站日照适宜度达到0.450以上，大部分地区在 $0 . 4 0 5 { \sim } 0 . 4 3 6$ 波动，明显偏低。全区综合气候适宜度在 $0 . 5 8 4 { \sim } 0 . 6 3 0$ 小范围波动，由北向南大致呈现“低-高-低-高"的带状分布特征，其中锦州、绥中两站综合气候适宜度较小，分别为0.584和0.585。
+
+![](images/60b38fe42fc96320b2dc262686e14cc75769ebabb9516f0745f83f41a8cd1ecd.jpg)  
+图41956—2010年辽西地区玉米全生育期气候适宜度空间分布(SDT:温度适宜度;SDP:降水适宜度;SDS：日照适宜度；SDIC：综合气候适宜度)  
+Fig.4Spatialdistributionofclimate suitabilitydegree during whole growth periodof maize in WestLiaoning froml956 to 2010 (SDT:suitabilitydegreeof temperature; SDP:suitabilitydegreeof precipitation;SDS:suitabilitydegreeof sunshine;SDIC: suitability degree of integrated climate)
+
+# 2.2.2 各生育期综合气候适宜度空间分布特征
+
+由图5可知，播种期综合气候适宜度大体呈现由西向东南和东北增加的趋势，最大值出现在绥中、兴城两站，最小值出现在朝阳、建平两站，其余各站介于 $0 . 4 9 9 { \sim } 0 . 5 9 9$ ，主要因为朝阳、建平站在该生育期的降水适宜度偏低，因此在播种期辽西玉米生长发育主要的限制因素为降水；出苗期综合气候适宜度空间分布规律与播种期相反，大体呈现由西北向东南和东北减少的趋势，最小值出现在兴城站为0.569，主要是由于兴城站在此生育阶段日照适宜度过低，仅为0.263，而彰武、锦州站同样受制于日照适宜度，导致该生育期的综合气候适宜度相对偏低；开花期综合气候适宜度由北向南大致显现出“低-高-低-高"的带状分布特征，其中朝阳、锦州、彰武、绥中4站综合气候适宜度分别为0.604、0.611、
+
+![](images/cde0f3feef0dc14fecc0781f90d0026e9a9a39659547e3e4e4c5bd31a3e7126b.jpg)  
+图51956—2010年辽西地区玉米各生育期综合气候适宜度空间分布
+
+Fig.5Spatialdistributionof integrated climate suitabilitydegreeatdiferent growth stages ofmaize in WestLiaoning from 1956 to 2010
+
+0.617和0.618，明显低于区域均值0.630，主要因该生育期上述4站的日照适宜度偏低，均值仅为0.210;成熟期综合适宜度呈现由东北向西南增加的趋势，区域平均值为0.662，最大值出现在朝阳站(0.687),最小值出现在彰武站(0.628)，可见辽西大部分地区的光水热条件在玉米成熟期匹配较好，基本能够满足玉米生长发育。
+
+2.3基于EOF和小波变换的辽西玉米综合气候适宜度时空分布规律以辽西地区气象站点坐标为空间数据，8站近
+
+50a综合气候适宜度距平百分率为时间数据进行经验正交分解(EOF)，得到辽西地区玉米综合气候适宜度的时空分布规律，在此基础上结合小波变换分析，确定空间分布特征的时间变化规律(图6)。利用EOF分解，发现前3个特征向量的方差贡献率高达$8 3 . 2 3 \%$ (通过North准则检验)，第1特征向量的方差贡献率为 $6 2 . 0 7 \%$ ，远大于其他特征向量的方差贡献率，表明第1特征向量能够很好地表征辽西地区玉米综合气候适宜度的空间分布特征和变化情况。由图6可知，辽西地区玉米综合气候适宜度以西南区域距平变率较低，大体上呈现西南-东北先递增、后微幅降低的趋势。
+
+![](images/44513c5a99409988906b8dc8de756a9e2995b3a501f2f5aa408e560b34eef45f.jpg)  
+图61956一2010年辽西地区玉米综合气候适宜度距平百分率第1特征向量场
+
+为了更好地分析辽西地区玉米综合气候适宜度空间分布特征的时间变化规律，对辽西地区玉米综合气候适宜度距平百分率第1特征向量的时间系数进行空间小波分析，得到了小波系数实部等值线图，小波变换图能够反映玉米综合气候适宜度在不同时间尺度上的周期震荡(图7)。图中横坐标为年份，纵坐标为时间尺度(a)，图中的等值曲线为小波系数实部值。信号的强弱通过小波系数的大小来表示，当小波系数为正时，代表综合气候适宜度较高，大于区域多年平均值；为负时，表示综合气候适宜度较低，小于区域多年平均值。如图7所示，在辽西地区玉米综合气候适宜度演变过程中存在 $1 4 { \sim } 3 0 \mathrm { ~ a } , 8 { \sim } 1 4 \mathrm { ~ a } ,$ （204号3\~7a的3类尺度的周期变化规律。其中，在14\~30a尺度上存在“低-高"交替的准2次震荡，表现的较为稳定且具有全时域性；在8\~14a的时间尺度上存在准6次震荡，1963年以后表现的较为稳定；在3\~7a尺度的周期变化中，存在准2次震荡，1955一1970年表现的较为稳定，1970年以后周期性特征不明显。
+
+![](images/4170667c0b5f9746e4d3b8aece9f3f2e4d8097250a435141c73bb89cb63fa6a5.jpg)  
+Fig.6Anomalous percentage of the first feature vectors of maize integrated climate suitability degree in West Liaoning from 1956 to 2010   
+图71956—2010年辽西地区玉米综合气候适宜度距平百分率时间系数小波分析图Fig.7Timecoeficient wavelet transformanalysisofanomalous percentageofmaize integratedclimatesuitabilitydegreein WestLiaoning from 1956 to 2010
+
+# 3 结论与讨论
+
+气温升高、降水减少、日照时数降低使辽西地区气候呈现暖干化，气候变化给辽西地区玉米生产带来了新的机遇与挑战。一方面，变暖为调整农业结构带来有利条件，可提高辽西地区的复种指数，延长作物的生育期，增加生物产量[17]；另一方面,升温促进了蒸散作用，降水减少易引发干旱，日照时数降低不利于玉米干物质的积累，从而严重影响辽西地区玉米产量与质量[28-29]。为了合理利用辽西地区农业气候资源配制当地玉米生产及积极应对气候变化对农业生产带来的影响，本文基于气候适宜度指数研究分析了1956—2010年辽西地区玉米气候适宜度的时空分布特征。结果表明：
+
+1)在时间尺度上，辽西地区玉米在全生育期对各气候因子的适宜程度不同，温度的适宜性最高，其次为降水，日照最低，这与宫丽娟等[11-12]的研究结果相符。近 $5 0 \mathrm { a }$ ，温度适宜度未明显表现出递变趋势，降水、日照及综合气候适宜度呈逐年下降趋势，对玉米生产发育不利；除开花期玉米综合气候适宜度表现为递增趋势，播种、出苗、成熟期均呈递减趋势。
+
+2)在空间分布上，温度适宜度、日照适宜度由南向北、由西向东总体呈现递增的趋势，降水适宜度、综合气候适宜度由北向南大体呈现“低-高-低-高”的带状分布特征，与杨晓晨等[30的研究结果基本一致，但他没有从不同生育期的时段说明气候适宜度的空间分布特征。本研究发现播种期、成熟期综合气候适宜度分别呈现由西向东南和东北、东北向西南逐渐递增的趋势，出苗期综合气候适宜度呈现由西北向东南和东北减少的趋势，开花期综合气候适宜度由北向南大体呈现为“低-高-低-高"的带状分布特征。在进一步揭示气候适宜度的时空变换规律时，前人大多采用EOF法分析气候适宜度空间分布特征[25-27]，本研究在此基础上叠加了小波分析法可以更清楚地揭示辽西地区玉米综合气候适宜度的时间波动趋势及变化的周期特点，结果表明其存在3类尺度的震荡周期，不同震荡周期在各年代表现出不同的稳定性。
+
+3)辽西地区热量条件可以较好地满足玉米生长的需要，但水分和光照条件需要根据不同生育期进行适当调整，播种、出苗、开花期限制因素分别为降水、日照、日照，这与周广学等[17在辽宁西部地区光热水资源变化对农业生产的影响中的结论相符。因此，根据辽西地区降水特点应加强夏、秋两季的人工灌溉量，确保玉米品质、产量；结合辽西地区光照特点，播种期适当控制播种密度，出苗期、开花期通过“匀留苗、留匀苗"等措施，增大植株生长空间，提高植株光照强度，确保玉米营养物质的积累。
+
+玉米的生长发育不仅与气象因子相关，还与土壤特性、作物病虫害、玉米品种、农业生产技术等众多环境、社会要素紧密相关。由于数据有限且经验不足，本文只分析气候背景下的辽西地区单一玉米品种的温度、降水、日照及综合气候适宜度的时空分布特征，而其他农业因子对辽西地区玉米气候适宜度会有什么样的影响，需要在今后的工作中进行更加深入、细化的研究，以便更好地指导当地农业生产。
+
+参考文献 References   
+[1] 张万志，徐韶，孙冠中，等．辽宁省玉米生产现状及增产途 径探讨[J]．园艺与种苗,2012(6):19-20 Zhang W Z,Xu S, Sun G Z,et al. Production situation and yield increasing ways of maize in Liaoning Province[J]. Horticulture & Seed,2012(6):19-20   
+[2] 孙成韬，王延波．辽宁省玉米生产现状、主要问题及解决途 径[J]．农业经济,2015(3):15-17 Sun C T,Wang Y B.Present situation and their solutions of maize production in Liaoning Province[J]. Agricultural Economy,2015(3): 15-17   
+[3] IPCC.Climate change 2013:The physical science basis[M]// Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press,2013:5-7   
+[4] 刘彦随，刘玉，郭丽英．气候变化对中国农业生产的影响 及应对策略[J]．中国生态农业学报,2010,18(4):905-910 Liu Y S,Liu Y,Guo L Y. Impact of climatic change on agricultural production and response strategies in China[J]. Chinese Journal of Eco-Agriculture,2010,18(4): 905-910   
+[5] 杨晓琳，宋振伟，王宏，等．黄淮海农作区冬小麦需水量时 空变化特征及气候影响因素分析[J]．中国生态农业学报, 2012,20(3): 356-362 Yang X L， Song Z W,Wang H, et al. Spatio-temporal variations of winter wheat water requirement and climatic causes in Huang-Huai-Hai Farming Region[J]. Chinese Journal of Eco-Agriculture,2012,20(3): 356-362   
+[6]张威．辽西玉米育种的难题和解决之道[J]．现代农业, 2014(6): 62-63 Zhang W.Problems and the way of maize breeding in western Liaoning Province[J]. Modern Agriculture,2014(6): 62-63   
+[7] 王丽霞，任志远．山西省大同市农业生态气候适宜度评 价[J]．地理研究,2007,26(1):53-59 Wang L X,Ren Z Y. Appraisal and analysis of agriculture eco-climatic amenity in Datong City of Shanxi Province[J]. Geographical Research,2007,26(1): 53-59   
+[8]高素华．未来30年气候对我国农业的可能影响[M]．北京: 气象出版社,1993:282-296 Gao S H. The Possible Effects of Climate on Agriculture in China in Next 30 Years[M]. Beijing: Meteorological Press, 1993:282-296   
+[9] 刘志娟，杨晓光，王文峰，等．气候变化背景下我国东北三 省农业气候资源变化特征[J]．应用生态学报，2009，20(9): 2199-2206 Liu Z J,Yang X G, Wang W F,et al. Characteristics of agricultural climate resources in three provinces of Northeast China under global climate change[J]. Journal of Applied Ecology,2009,20(9): 2199-2206   
+10]李硕，沈彦俊．气候变暖对西北干旱区农业热量资源变化 的影响[J]．中国生态农业学报,2013,21(2):227-235 Li S,Shen Y J. Impact of climate warming on temperature and heat resource in arid Northwest China[J]. Chinese Journal   
+[11]宫丽娟，王晨轶，王萍，等．东北三省玉米气候适宜度变化 分析[J]．玉米科学,2013,21(5):140-146 Gong L J，Wang C Y,Wang P,et al. Variation of climate suitability of maize in Northeast of China[J]. Journal of Maize Sciences,2013,21(5): 140-146   
+[12] 宫丽娟，李宇光，王萍，等．黑龙江省玉米气候适宜度变化 分析[J]．吉林农业科学,2012,37(5):75-80 Gong L J,Li Y G, Wang P,et al.Variation of climate suitability of maize in Heilongjiang Province[J]. Journal of Jilin Agricultural Sciences,2012,37(5):75-80   
+[13] 任玉玉，千怀遂．河南省棉花气候适宜度变化趋势分析[J]. 应用气象学报,2006,17(1):87-93 Ren Y Y,Qian H S.Climatic suitability of cotton and its changesin HenanProvince[J]. Journal ofApplied Meteorological Science,2006,17(1): 87-93   
+[14] 刘国成，杨长保，刘万崧，等．基于模糊数学的农业气候适 宜度划分研究及应用[J]．吉林农业大学学报，2007，29(4): 460-463 Liu G C, Yang C B,Liu W S,et al. Study and application of cropperclimatesuitabilitypartitionbased onfuzzy mathematics[J].Journal of Jilin Agricultural University,2007, 29(4): 460-463   
+[15]魏瑞江，宋迎波，王鑫．基于气候适宜度的玉米产量动态 预报方法[J].应用气象学报,2009,20(5):622-627 Wei R J, Song Y B, Wang X. Method for dynamic forecast of corn yield based on climatic suitability[J]. Journal of Applied Meteorological Science,2009,20(5): 622-627   
+[16] 钱纪良，林之光．关于中国干湿气候区划的初步研究[J]. 地理学报,1965,31(1):1-14 Qian JL,Lin Z G. A preliminary study on dry and wet climatic regionalization of China[J].Acta Geographica Sinica, 1965, 31(1): 1-14   
+[17]周广学，李普庆，周晓东．辽宁西部地区光热水资源变化 对农业生产的影响[J].中国农业气象,2011,32(S1):38-41 Zhou G X,Li PQ, Zhou X D. Impact of light, heat and water resourceschangeinwestern LiaoningProvinceon agricultural production[J]. Chinese Journal of Agrometeorology,2011,32(S1): 38-41   
+[18]孙凤华，吴志坚，李丽光．辽宁西部地区的气候变化及干 湿状况年代际变化特征[J].中国沙漠,2006,26(6):969-975 Sun F H,Wu Z J,Li L G. Climate change and inter-decadal fluctuation of dry and wet climate in western Liaoning Province[J].Journal of Desert Research，2006，26(6): 969-975   
+[19]韩秀君，杨青，孙晓巍，等．辽宁西部地区玉米作物生长季 降水特征及对作物的影响[J]．江苏农业科学，2015，43(1): 77-81 Han X J, Yang Q, Sun X W,et al. Precipitation of maize growing season and its effect in western Liaoning[J]. Jiangsu Agricultural Sciences,2015,43(1): 77-81   
+[20]宋迎波，王建林，杨霏云．粮食安全气象服务[M]．北京： 气象出版社,2006:32-39 Song Y B,Wang JL,Yang F Y.Weather Services of Food Safety[M]. Beijing: Meteorological Press,2006: 32-39   
+[21] Allen R G, Pereira L S,Smith M,et al.FAO-56 dual crop coefficient method for estimating evaporation from soil and applcauon extensions[J]. journal ol Irrigauon and Drainage Engineering,2005,131(1): 2-13   
+[22]黄会平，曹明明，宋进喜，等.1957一2012年中国参考作物 蒸散量时空变化及其影响因子分析[J]．自然资源学报, 2015,30(2): 315-326 Huang HP,Cao M M, Song JX,et al. Temporal and spatial changes of potential evapotranspiration and its influencing factors in China from l957 to 2012[J]. Journal of Natural Resources,2015,30(2): 315-326   
+[23] 黄璜．中国红黄壤地区作物生产的气候生态适应性研究[J]. 自然资源学报，1996,11(4):340-346 Huang H.A study on the climatic ecology adaptability of the crop production in the red and yellow soils region of China[J]. Journal of Natural Resources,1996,11(4): 340-346   
+[24]魏凤英.现代气候统计诊断与预测技术[M].北京：气象出 版社,2007:115-122 WeiF Y. Modern Climate Diagnostics and Prediction Techniques[M].Beijing: Meteorological Press,2007: 115-122   
+[25] 朱萌，周沫，乌兰，等．吉林省东部水稻延迟型冷害时空分 布特征分析[J]．灾害学,2015,30(3): 223-228 Zhu M, Zhou M, Wu L,et al. Spatial-temporal characteristics analysis of prolong-type rice chilling damage in eastern Jilin Province[J]. Journal of Catastrophology， 2015，30(3): 223-228   
+[26] 施能．气象统计预报中的多元分析方法[M]．北京：气象出 版社,1992:68-72 Shi N. Multivariate Analysis of Meteorological Statistical Forecast Method[M]. Beijing: Meteorological Press,1992: 68-72   
+[27]刘占明，陈子焱，路剑飞，等．广东北江流域降水时空分布 及其与Nino3区 SST相关性分析[J]．自然资源学报,2013, 28(5): 786-798 Liu Z M, Chen Z Y,Lu JF,et al．Analysis of correlation between the spatio-temporal distribution of precipitation in Beijiang river basin and SST in Nino 3[J]. Journal of Natural Resources,2013,28(5): 786-798   
+[28] 赵春雨，王颖，张玉书，等．近 50 年辽宁省作物生长季气 候条件变化及对农业生产的影响[J]．灾害学，2009，24(4): 102-106 Zhao C Y, Wang Y, Zhang Y S,et al. Climate conditions of crop growth season and its effect on agricultural production in the recent 5O years in Liaoning Province[J]. Journal of Catastrophology,2009,24(4): 102-106   
+[29]任学慧，李颖，王健．近60a北方沿海城市人居环境气候舒 适性评价——以辽宁省为例[J]．自然资源学报,2013,28(5): 811-821 Ren X H,Li Y,Wang J. Evaluation of climate comfortability for human settlement environment in northern coastal cities in recent 6O years — Taking Liaoning as a case[J]. Journal of Natural Resources,2013,28(5): 811-821   
+[30] 杨晓晨，明博，陶洪斌，等．中国东北春玉米区干旱时空分 布特征及其对产量的影响[J]．中国生态农业学报，2015, 23(6): 758-767 Yang X C,Ming B,Tao H B,et al． Spatial distribution characteristics and impact on spring maize yield of drought in Northeast China[J]. Chinese Journal of Eco-Agriculture,2015, 2.3(6): 758-767

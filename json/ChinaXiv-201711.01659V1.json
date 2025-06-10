@@ -1,0 +1,223 @@
+[
+    {
+        "type": "text",
+        "text": "1猪胰高血糖素样肽-2通过细胞外信号调节激酶1/2调节仔猪空肠上皮细胞紧密连接蛋白表达  \n2 齐珂珂　孙雨晴 万 晶 邓 波 门小明吴杰 徐子伟\\*  \n3 （浙江省农业科学院畜牧兽医研究所，杭州310021）  \n4摘要：本试验以体外培养的仔猪空肠上皮细胞（porcine smallintestinal epithelial cel from  \n5 jejunum,IPEC-J2）为研究对象，研究了猪胰高血糖素样肽-2（porcineglucagon-like  \n6 peptide-2,pGLP-2）对紧密连接蛋白表达的调节及其信号传导机制。培养液中分别添加 $1 0 ^ { - 9 }$   \n7 mol/L pGLP-2（pGLP-2 组）和 $1 0 ^ { - 9 }$ mol/L pGLP-2、 $1 0 \\mu \\mathrm { m o l / L }$ U0126（pGLP-2+U0126组），  \n8 对照组不添加以上试剂，每组3个重复，每个重复1个培养孔。测定IPEC-J2 胞质紧密黏连  \n9 蛋白-1（zonula occludens-1,ZO-1）、occludin、claudin-1 以及细胞外信号调节激酶 1/2  \n0 （extracellular regulated kinase1/2,ERK1/2）蛋白表达量。结果表明：与对照组相比，IPEC-J2  \n1 细胞培养液中添加 pGLP-2 显著增加了 ZO-1、occludin、claudin-1 以及 p42-ERK1/2、  \n2 p44-ERK1/2 的蛋白表达量（ $_ { _ { P < 0 . 0 5 } ) }$ ；与 pGLP-2 组相比，在 IPEC-J2 细胞培养液中加入  \n3 ERK1/2 的抑制剂 U0126,显著降低了 ZO-1、occludin、claudin-1以及 p42-ERK1/2、p44-ERK1/2  \n4 的蛋白表达量（ $. P { < } 0 . 0 5 ^ { \\cdot }$ )。综合得出，ERK1/2 通路是pGLP-2 调控肠道上皮细胞紧密连接蛋  \n5 白表达的一条重要信号通路。  \n6 关键词：猪胰高血糖素样肽-2；细胞外信号调节激酶1/2；紧密连接蛋白  \n7 中图分类号：S828  \n8號 胰高血糖素样肽-2（glucagon-like peptide-2,GLP-2）能够特异性地促进肠黏膜生长与损  \n9 伤后修复，且作用强于以往发现的其他非特异的肠生长因子，为治疗各种因素引起的仔猪肠  \n0 道损伤和功能紊乱提供了可能[]。猪胰高血糖素样肽-2（porcine glucagon-like  \n1 peptide-2,pGLP-2）通过C 端延长，含有 35个氨基酸，与人胰高血糖素样肽-2（human  \n2 glucagon-like peptide-2,hGLP-2）具有相似的肠道促生长作用，pGLP-2在体内的半衰期非常",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "短，极易被血液中大量存在的二肽酰肽酶-IV（dipeptidyl peptidase-IV,DPP-IV）快速降解[2]。GLP-2通过作用于GLP-2受体（GLP-2 receptor,GLP-2R）来调节肠上皮细胞的增殖及抑制其凋亡，从而保护肠道细胞[3-4]。GLP-2 促进细胞增殖、抑制细胞凋亡以及细胞保护等作用的调节涉及多种细胞信号传导途径，主要有环化-磷酸腺苷/蛋白激酶A（cAMP/PKA）或磷脂酰肌醇-3 激酶/蛋白激酶B（PI-3K/Akt）途径、无翅型MMTV 整合位点/β-连环蛋白（Wnt/β-catenin）途径、细胞外信号调节激酶1/2（extracellular regulated kinase1/2,ERK1/2）等信号通路，但是GLP-2作用的信号传导机制存在争议[5-8]。GLP-2功能的多样性以及研究所用的细胞模型不同是研究结果存在差异的主要原因，目前研究GLP-2作用机制的体外模型主要有Caco-2细胞[5]、BHK成纤维细胞[6]、Hela 细胞[7]和HEK293细胞[8]等。本试验使用仔猪空肠上皮细胞（porcine small intestinal epithelial cellfrom jejunum,IPEC-J2）作为研究对象，为研究外源pGLP-2在仔猪肠道损伤和功能紊乱中的应用提供了肠源的细胞模型。本试验在研究pGLP-2对紧密连接蛋白表达影响的基础上，通过添加ERK1/2信号传导通路中的抑制剂U0126，研究pGLP-2调控紧密连接蛋白表达的信号通路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IPEC-J2 细胞系由中国农业大学动物科学院王军军博士惠赠。[Gly2]pGLP-2（肽序列HGDGSFSDEMNTVLDNLATRDFINWLLHTKITDSL）由杭州中肽生化有限公司合成。主要试剂有：DMEM/F12（Gibco,C11330500BT）、胎牛血清（fetal bovine serum,FBS）（Gibco,10099133）、 $1 0 0 \\times$ 胰岛素铁硒传递蛋白（insulin-transferrin-selenium,ITS）（Sigma,I3146）、青-链霉素（Gibco,15140122）、表皮生长因子（epidermal growth factor,EGF)（Sigma,E4127）、 $0 . 2 5 \\%$ 胰蛋白酶-乙二胺四乙酸（EDTA）（Gibco,25200056）、猪ERK1/2抗体（Cell Signaling,4376s）， $\\beta$ 肌动蛋白（ $\\beta$ actin）抗体（Santa Cruz,Sc47778）、胞质紧密黏连蛋白-1（zonula occludens-1,ZO-1）抗体（Santa Cruz,Sc10804），occludin 抗体（Abcam,Ab312721），claudin-1抗体（Abcam,Ab15099），U0126（Cell Signaling,9903），羊抗小鼠辣根过氧化物酶标记的免疫球蛋白G（IgG-HRP）（Pierce,PA128568）。其他常规试剂及试剂盒购置于华东医药集团有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IPEC-J2培养于 $7 5 \\mathrm { c m } ^ { 2 }$ 的细胞培养瓶中， $3 7 \\ \\%$ $C O _ { 2 } 9 5 \\%$ 湿度，使用完全培养基（ $9 3 \\%$ DMEM/F12， $5 \\%$ FBS，1%ITS, $1 \\%$ 青-链霉素， $1 0 \\mathrm { \\ n g / m L }$ EGF）进行培养，隔天换液，待$80 \\%$ 细胞融合时用 $0 . 2 5 \\%$ 的胰蛋白酶-EDTA 消化液，按 $1 { \\times } 1 0 ^ { 5 }$ 个/孔接种至6孔板。待 $80 \\%$ 细胞汇合时，采用无血清培养基培养，试验采用单因子设计，共设3个处理（对照组、pGLP-2组和 $\\mathsf { p G L P - } 2 \\substack { + } \\mathrm { U 0 } 1 2 6$ 组），每个处理3个重复，每个重复1个培养孔。对照组和pGLP-2组中加入含0、 $1 0 ^ { - 9 } \\mathrm { m o l / L }$ 的 pGLP-2 的无血清培养液过夜， $\\mathsf { p G L P - } 2 \\substack { + } \\mathrm { U 0 } 1 2 6$ 组加入 $1 0 \\ \\mathrm { \\textmu m o l { } L }$ U0126预处理1h后，加入含 $1 0 ^ { - 9 }$ mol/L pGLP-2 的无血清培养液， $2 4 \\mathrm { h }$ 后弃去培养液，用预热的磷酸盐缓冲液（PBS）洗涤2次，加RIPA裂解细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 Western blotting检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用总蛋白提取试剂盒提取样品中的总蛋白，采用二喹啉甲酸（BCA）定量试剂盒进行总蛋白定量。配制 $10 \\%$ 分离胶和 $5 \\%$ 浓缩胶，每孔 $6 0 ~ \\mu \\ g$ 总蛋白上样，每孔 $1 0 { \\sim } 1 5 \\mu \\mathrm { L }$ ，浓缩胶 $6 0 ~ \\mathrm { V }$ 、分离胶 $8 0 ~ \\mathrm { V }$ 电泳 $^ { 5 \\mathrm { ~ h ~ } }$ 左右。十二烷基硫酸钠-聚丙烯酰胺凝胶电泳(SDS-PAGE)胶在 Tris-甘氨酸转移缓冲液中平衡 $3 0 ~ \\mathrm { m i n }$ ，在冷却条件下 $1 0 0 { \\mathrm { ~ V ~ } }$ 恒压转膜 $^ { 2 \\mathrm { ~ h ~ } }$ 。转膜结束后，醋酸纤维素（PVDF）膜放到含 $5 \\%$ 脱脂奶粉的吐温-Tris-盐酸缓冲液（T-TBS）中室温封闭1h。猪ERK1/2 抗体、ZO-1抗体、occludin 抗体、claudin-1抗体和 $\\beta$ -actin抗体分别按1:1000、1:500、1:1 000、1:800 和1:2 000 的比例溶于含 $3 \\%$ 脱脂奶粉的T-TBS 中， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 孵育过夜，T-TBS漂洗 $5 \\mathrm { m i n }$ ，重复4次。加入二抗（1:2000），室温孵育1h，T-TBS漂洗 $5 \\mathrm { m i n }$ ，重复5 次。采用 SuperSignal@ West Dura Extended Duration Substrate 试剂盒，按说明书操作，制备约1mLECL工作液，室温孵育转印膜 $1 \\mathrm { m i n }$ ，保鲜膜密封，暗盒中放上X光片曝光5\\~10min 后进行显影和定影。采用Bandscan5.0软件分析条带的光密度值，每个条带重复3次，按以下公式对目的蛋白进行相对定量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目的蛋白表达量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 目的蛋白光密度值/β-actin光密度值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理和统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 SAS6.12软件对数据进行单因素方差分析及Duncan氏法多重比较，测定结果以\"平均值±标准差\"表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1pGLP-2对紧密连接蛋白及ERK1/2蛋白表达量的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可见，与对照组相比，培养液中添加pGLP-2后，IPEC-J2 紧密连接蛋白 ZO-1、occludin、claudin-1以及p42-ERK1/2、p44-ERK1/2 的蛋白表达量显著增加（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2抑制剂U0126对紧密连接蛋白及ERK1/2蛋白表达量的影响由图1可见，与pGLP-2 组相比，在使用 ERK1/2 抑制剂U0126预处理后的 IPEC-J2 中  \n添加 pGLP-2，紧密连接蛋白 ZO-1、occludin、claudin-1 以及p42-ERK1/2、p44-ERK1/2 的  \n蛋白表达量显著降低（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/85d1996486ac48a40627f97fb65024fc9b0e272ed07c566f185dcd47d3e77b26.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "&：与对照组相比差异显著（ $P { < } 0 . 0 5$ ）；#：与pGLP-2组相比差异显著（ $P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "&:significant difference compared with control group $( P { < } 0 . 0 5 )$ ；#:significant difference compared with pGLP-2 group $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论  \nGLP-2 能够有效地促进肠上皮细胞紧密连接蛋白的表达，增强肠道屏障功能。Dong 等[9]报道GLP-2 能够显著提高小鼠空肠紧连接关键蛋白occludin、claudin-3、claudin-7基因的表达量。Moran 等[10]研究发现，GLP-2不仅能够显著增加Caco-2 细胞紧密连接关键蛋白occludin和 ZO-1的蛋白表达量,还能有效抑制由肿瘤坏死因子α(TNF-α)应激造成的occludin和 ZO-1的蛋白表达量的降低。Wu 等[I]证明一次注射[Gly2]pGLP-2 微球可有效抑制葡聚糖硫酸钠盐（DSS）引起的小鼠结肠occludin 表达量的降低。以 IPEC-J2为研究模型的研究表明，GLP-2 能够显著地改善正常培养条件下 IPEC-J2细胞形态结构，提高紧密连接关键蛋白occludin、claudin-1和 ZO-1基因的表达量[12]；GLP-2还能有效的抑制脂多糖（LPS）应激造成的 IPEC-J2细胞形态的破坏和紧密连接关键蛋白基因表达量的下降。与以上结果相一致，本试验发现 IPEC-J2 中添加 pGLP-2 后，紧密连接蛋白 ZO-1、ocudin 和claudin-1 的蛋白表达量显著增加。  \n在对紧密连接蛋白的调控研究中发现，众多生长因子能够通过丝裂原活化蛋白激酶（mitogen-activated protein kinase，MAPK）信号通路调控紧密连接蛋白的表达，实现对屏障功能的调节[13]。ERK1/2信号通路是经典MAPK信号传导途径，GLP-2可通过ERK1/2信号通路直接促进上皮细胞增殖。Jasleen 等[14]使用 10 nmol/L GLP-2 刺激人肠上皮细胞株 Caco-2,细胞内活化形式 ERK1/2 含量明显增加，细胞的增殖反应增加了10 倍；细胞外调节蛋白激酶（MEK）抑制剂PD98059 以剂量依赖性方式阻断GLP-2 的促细胞增殖作用。随后 Jasleen等[15]再次证明GLP-2 促进Caco-2 细胞增殖伴随着 ERK磷酸化水平的瞬间升高，这种反应会被 MEK抑制剂PD98059 所阻断。但是Yusta 等[16]则报道 $2 0 \\mathrm { n m o l } / \\mathrm { L }$ 的 GLP-2 没有增加乳仓鼠肾成纤维细胞（baby hamster kidney fibroblasts,BHK）ERK1/2 的磷酸化水平，反而降低了ERK1/2的基础磷酸化水平，认为GLP-2的信号传导不与p44/p42MAPK途径相偶联，这可能与研究使用的细胞为肾源细胞有关。关于试验所用的细胞模型表达GLP-2R与否对GLP-2R 的信号传导机制的影响,Koehler 等[7]在Hela 细胞上的研究发现GLP-2介导ERK1/2的激活不会通过减少GLP-2RcDNA 的转染而消除。Li等[1]研究也证明，小鼠小胶质瘤 BV-2细胞虽然不表达GLP-2R，可是GLP-2减弱LPS 引起的BV-2 细胞炎性反应也是通过抑制",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ERK1/2信号通路实现的。也就是说，研究GLP-2调节肠道功能信号传导机制的细胞模型不同，是引起此方面研究结果存在争议的主要原因。U0126是MAPK激酶MEK1/2的高效选择性抑制剂，比PD98059 的抑制活性高100倍。以非竞争性方式抑制MEK1/2 激酶的活性从而阻止分别由 ERK2 和 ERK1基因编码的p42MAPK和p44MAPK被激活。本试验中添加U0126 后，p42-ERK1/2、p44-ERK1/2 的蛋白表达量显著降低，且研究使用的 IPEC-J2 细胞系是正常生理状态下的新生仔猪空肠上皮细胞系，是最理想的研究猪源的GLP-2调节肠道屏障功能的细胞模型。本试验结果表明，使用 $1 0 ^ { - 9 } \\mathrm { m o l / L }$ 的 pGLP-2 处理 IPEC-J2，可显著增加紧密连接蛋白 ZO-1、occludin、claudin-1 以及 p42-ERK1/2、p44-ERK1/2 的蛋白表达量，而用 ERK1/2 抑制剂 U0126 预处理后再添加pGLP-2，显著抑制紧密连接蛋白 ZO-1、occludin、claudin-1以及p42-ERK1/2、p44-ERK1/2的蛋白表达量,说明 ERK1/2通路是 pGLP-2调控肠道上皮细胞紧密连接蛋白表达的一条重要信号通路。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ERK1/2 抑制剂 UO126 能显著抑制 pGLP-2 引起的 ZO-1、occludin、claudin-1 以及p42-ERK1/2、p44-ERK1/2蛋白表达量的增加，说明 ERK1/2是pGLP-2调控肠道上皮细胞紧密连接蛋白表达的一条重要信号通路。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]BURRIN D G,STOLL B,GUAN X.Glucagon-like peptide 2 function in domestic animals[J].Domestic Animal Endocrinology,2003,24(2):103-122. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]PEDERSEN N B,HJOLLUND K R,JOHNSEN A H,et al.Porcine glucagon-like peptide-2:structure,signaling,metabolism and effects[J].Regulatory Peptides,2008,146(1/2/3):310-320. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3] DRUCKER D J,DEFOREST L,BRUBAKER P L.Intestinal response to growth factors administered alone or in combination with human[Gly2]glucagon-like peptide 2[J].American Journal of Physiology,1997,273(6):G1252-G1262. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4] HSIEH J,LONGUET C,MAIDA A,et al.Glucagon-like peptide-2 increases intestinal lipid absorption and chylomicron production via CD36[J].Gastroenterology,2009,137(3):997- 1005. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5] 赵云.胰高血糖素样多肽-2的重组表达及其对肠道保护作用机制的实验研究[D].博士学位论文.重庆：第三军医大学，2006.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6] YUSTA B,ESTALL J,DRUCKER D J.Glucagon-like peptide-2 receptor activation engages bad and glycogen synthase kinase-3 in a protein kinase A-dependent manner and prevents apoptosis following inhibition of phosphatidylinositol 3-kinase[J].Journal of Biological Chemistry,2002,277(28):24896-248906. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7] KOEHLER J A,YUSTA B,DTUCKER D J.The Hela cell glucagon-like peptide-2 receptor is coupled to regulation of apoptosis and ERK1/2 activation through divergent signaling pathways[J].Molecular Endocrinology,2005,19(2):459-473. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8] SHI X M,LI X J,WANG Y,et al.Glucagon-like peptide-2-stimulated protein synthesis through the PI 3-kinase-dependentAkt-mTOR signalingpathway[J].American Journalof Physiol0gy,2011,300(3):E554-E563. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9] DONG C X,ZHAO W,SOLOMON C,et al.The intestinal epithelial insulin-like growth factor-1 receptor links glucagon-like peptide-2 action to gut barrier function[J].Endocrinology,2014,155(2):370-379. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10] MORAN G W,O'NEILL C,MCLAUGHLIN J T.GLP-2 enhances barrier formation and attenuatesTNF $\\mathfrak { a }$ -induced changesin a Caco-2 cell model ofthe intestinal barrier[J].Regulatory Peptides,2012,178(1/2/3):95-101. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11] WU J,QI K K,XU Z W,et al.Glucagon-like peptide-2-loaded microspheres as treatment for ulcerative colitis in the murine model[J].Journal of Microencapsulation,2O15,32(6):598-607. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12] 余长松,贾刚,邓秋红,等.胰高血糖素样肽-2 对脂多糖应激的 IPEC-J2 细胞形态和紧密连接相关基因表达的影响[J].畜牧兽医学报,2015,46(4):592-599.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] GONZALEZ-MARISCAL L,TAPIA R,CHAMORRO D.Crosstalk of tight junction components with signaling pathways[J].Biochimica et Biophysica Acta,2Oo8,1778(3):729- 756. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14] JASLEEN J,SHIMODA N,SHEN E R,et al.Signaling mechanisms of glucagon-like peptide 2-induced intestinal epithelial cell proliferation[J].Journal of Surgical ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15] JASLEEN J,ASHLEY S W,SHIMODA N,et al.Glucagon-like peptide 2 stimulates intestinal epithelial proliferation in vitro[J].Digestive Diseases and Sciences,2002,47(5):1135-1140.   \n[16] YUSTA B,SOMWAR R,WANG F,et al.Identification of glucagon-likepeptide-2 (GLP-2)-activated signaling pathways in baby hamster kidney fibroblasts expressing the rat GLP-2 receptor[J].The Journal of Biological Chemistry,1999,274(43):30459-30467.   \n[17] LI N,LIU B W,REN W Z,et al.GLP-2 attenuates LPS-induced inflammation in BV-2 cells by inhibiting ERK1/2,JNK1/2 and NF $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ signaling pathways[J].International Journal of Molecular Sciences,2016,17(2):190.   \nPorcine Glucagon-like Peptide-2 Regulates Tight Junction Protein Expressions in Porcine Small Intestinal Epithelial Cel through Extracellular Regulated Kinase 1/2 Signaling Pathway QI Keke SUNYuqing WAN Jin DENG Bo MEN Xiaoming WU Jie XU Ziwei\\* (Institute of Animal Science, Zhejiang Academy ofAgricultural Sciences, Hangzhou 310021, China)   \nAbstract: Porcine small intestinal epithelial cell from jejunum (IPEC-J2） was used to study the   \nregulation of porcine glucagon-like peptide-2 (pGLP-2） on protein expressions of tight junction   \nand its signaling pathway. Culture mediums were supplemented without (control group) or with   \n$1 0 ^ { - 9 }$ mol/L pGLP-2（pGLP-2 group），and $1 0 ^ { - 9 }$ mol/L pGLP-2 and $1 0 ~ \\mathrm { \\ \\mu m o l / L }$ U0126   \n（pGLP-2+U0126 group），respectively. Each group had 3 replicates with 1 culture pore per   \nreplicate. Protein expressions of zonula occludens-1 (ZO-1)， occluding， claudin-1 and   \nextracellular regulated kinase1/2 (ERK1/2) in cytoplasm of IPEC-J2 were determined. The results   \nshowed as follows: compared with control group,the supplementation of pGLP-2 in culture   \nmedium of IPEC-J2 significantly increased protein expressions of ZO-1，claudin-1，occludin,   \np42-ERK1/2 and p44-ERK1/2 $( P { < } 0 . 0 5 )$ ; compared with pGLP-2 group, the supplementation of   \nU0126,an inhibitor of ERK1/2,in culture medium of IPEC-J2 significantly decreased protein   \nexpressions of the above proteins $( P { < } 0 . 0 5 )$ . The results suggest that ERK1/2 pathway is an   \nimportant signaling pathway of pGLP-2 regulating tight junction protein expressions in intestinal ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "epithelial cells. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: porcine glucagon-like peptide-2； extracellular regulated kinasel/2； tight junctionprotein",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（责任编辑 王智航)",
+        "page_idx": 8
+    }
+]

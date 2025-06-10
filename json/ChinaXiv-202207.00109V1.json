@@ -1,0 +1,628 @@
+[
+    {
+        "type": "text",
+        "text": "基于当量法的政府办社区卫生服务机构财政补偿模型研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "娄翠迪1，赵丽颖 $^ { 1 , 2 ^ { * } }$ ，程薇1,2\\*，李媛1，安钊1，徐训航1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1北京中医药大学管理学院北京100029  \n2北京中医药大学国家中医药发展与战略研究院北京100029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【基金项目】北京市西城区卫生健康委员会资助项目（西城区社区卫生服务机构成本测算）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【作者单位】北京中医药大学管理学院社会医学与公共卫生事业管理，北京，100029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【作者简介】娄翠迪，女，1997年生，硕士研究生，研究方向：卫生机构财务管理，E-mail：loucuidi $@$ 163.com。  \n【通讯作者】赵丽颖\\*，女，讲师,E-mail: zhaoliying@bucm.edu.cn；程薇\\*，女，教授，E-mail:chengwei@bucm.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的 以当量法成本测算为基础，结合政府办社区卫生服务的特点，探索建立一种基于服务量的，更加简便易行、科学合理的财政补偿测算模型，为政府办社区卫生服务机构财政补偿提供借鉴。方法 采用政策分析和文献回顾法梳理政府办社区卫生服务机构财政补偿政策与现状，采用专家咨询确定模型重要参数指标。结果 财政补偿模型要综合考虑成本测算、服务产出、服务效率等多重因素；财政补偿测算模型主要由财政待补偿的服务当量（D）、每当量补偿标准（ $\\mathrm { \\cdot } \\mathrm { \\mathrm { \\bf P } _ { G } }$ ）和调节系数（T）三部分构成，并在财政补偿测算模型的基础上构建财政补偿预算模型；以14家机构为例进行财政补偿模型研究。结论 基于当量法成本测算的财政补偿测算模型数据来源规范易获得，便于推广使用，建议探索财政补偿新模式，灵活运用调整系数，使财政补偿模型更好地满足高质量发展需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】当量法；财政补偿；测算；预算；社区卫生服务机构;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：R179 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on financial compensation model of government run community health service institutions based on equivalent method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lou Cuidi', Zhao Liying1,2, Cheng Wei1.2, Li Yuan1, An Xuzhao, Xu Xunhang 1 School of Management, Beijing University of Traditional Chinese Medicine, Beijing 100029 2 National Institute of Traditional Chinese Medicine Development and Strategy, Beijing University of Traditional Chinese Medicine, Beijing 100029 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author: Cheng Wei； E-mail: chengwei@bucm.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Objective Based on thecost calculation of equivalent method and combined with the characteristics of governmentrun communityhealth services,this study explores to establishamoresimple,scientificandreasonablefnancial compensationmodel,soas toprovidereference forthefinancialcompensationof govermmentruncommunityhealth services. Methods Policyanalysis andliterature review wereused to sort out the financial compensation policies and currnt situation of government run community health service institutions,and expert consultation was used to determine the important parameters of the model. Results The financial compensation model should comprehensively consider multiple factors such as costcalculation,service outputand serviceeficiency;Thecalculation modeloffinancialcompensationismainlycomposed of three parts: service equivalent (d), compensation standard $( \\mathrm { P _ { G } } )$ and adjustment coefficient (T),and the budget model of financialcompensation is constructedonthebasisofthecalculationmodeloffinancialcompensation;Taking14 institutions as an example,this paper studies the financial compensation model.Conclusion The data sourceof the fiscal compensation calculation model based on the cost calculationofthe equivalent method is standardized and easy to obtain,which is convenient forpopularization and use.It is suggested to exploreanew modeloffiscalcompensation and flexibly use the adjustment coeffcient to make the fiscal compensation model beter meet the needs of high-quality development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】equivalent method; financialcompensation; calculation; budget; community health service institutions;建立健全社区卫生服务机构财政补偿机制，是实现“保基本、强基层、建机制”改革目标，体现公益性、调动积极性和保障可持续发展的重要内容。研究表明当前政府办社区卫生服务机构财政补偿仍亟需完善，在财政补偿机制的建设方面，补偿政策总体上缺乏一种根据服务量或业务产出给予补偿的正向激励机制[；在财政补偿的实施和分配方面，社区补助经费“到位不到账”、经费出台和额度不明确规范[2；在基本公共卫生经费补偿方面，基本公共卫生服务经费实际分配时包含了疾控、妇幼、精防等专业公共卫生机构的公用经费，对社区卫生服务机构的基本公共卫生服务项目没有明确的补偿[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在提升卫生服务水平、推进基本公共卫生服务均等化以及应对突发公共卫生事件的大背景下，本研究以当量法成本测算为基础，结合政府办社区卫生服务机构的现状，探索建立一种简便易行、科学合理的财政补偿测算模型和财政补偿预算模型，为政府制定合理的补偿标准提供参考，有利于提高资金使用效率，发挥引导作用，也有助于机构控制成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1社区卫生服务机构财政补偿相关政策",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着我国医疗领域多项改革举措，政府办社区卫生服务机构财政补偿政策也在不断优化完善。一方面，《医疗卫生领域中央与地方财政事权和支出责任划分改革方案》[4]指出中央和地方的财政事权按照隶属关系确定，医疗卫生领域内机构改革和发展建设相关支出由同级财政承担。《关于印发基本公共卫生服务等5项补助资金管理办法的通知》[5]明确了基本公共卫生服务、医疗服务与保障能力提升、基本药物制度改革、计划生育转移支付和重大传染病防控等五方面补助资金管理办法，中央转移支付资金采用因素法分配，弥补了单纯的财政分权理论的不足。由我国现行政策对中央、地方的事权财权划分可知，城市社区卫生服务机构的财政补偿应以地方财政为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一方面，我国社区卫生服务机构财政补偿模式经历了改革开放后经济转型时期的“预算包干”的模式，社会主义市场经济初期的“定额补助”模式。新医改后，2010年《关于建立健全基层医疗机构补偿机制的意见》[明确了政府办城市社区卫生服务机构财政补偿范围，政策也强调要在绩效考核和卫生服务成本测算的基础上制定合理的补助办法。2018 年全国基层卫生综合改革现场会推广“公益一类财政供给、公益二类绩效管理”，指出下一步改革既要保障合理供应，又要提高服务产出效率，这也是社区卫生服务机构财政补偿的发展趋势，即在成本测算的基础上，综合考虑服务效率和服务质量进行保障与激励（见表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b441a3094baf89eabeaaec5ac2c038e14b3e57efb43373b44966e15f462281a.jpg",
+        "table_caption": [
+            "表1政府办社区卫生服务机构财政补偿相关政策",
+            "Table 1 Relevant policies on financial compensation of government run community health service institutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>IriStrtutiors 政策</td><td>主要内容</td></tr><tr><td>2000年</td><td>策的意见〉的通知》（财社号（2000） 17号）</td><td>《关于印发〈关于卫生事业补助政按照定员定额、项目论证立项、零基预算等方法核 定，社区卫生服务机构以定额补助为主，同级财政 核定</td></tr><tr><td>2006年</td><td>《国务院关于发展城市社区卫生服 务的指导意见》（国发（2006）10 号）</td><td>按照购买服务的方式，根据服务人口、提供的公共 卫生服务项目数量、质量和相关成本核定</td></tr><tr><td>2006年</td><td>《关于城市社区卫生服务补助政策 的意见》（财社（2006）61号）</td><td>市、区两级政府主要负责社区卫生服务补偿，公共 卫生服务项目根据服务人口数、提供的数量、质量 以及单位（或综合）项目补助定额，考核评价后核 定补助</td></tr><tr><td>2009年</td><td>《关于完善政府卫生投入政策的意 见》（财社（2009）66号）</td><td>创新政府投入机制，以此促进医药卫生管理、运 行、用人与分配各项机制，探索政府购买、补需方 投入等方式</td></tr><tr><td>2010年</td><td>《关于建立健全基层医疗卫生机构补偿； 62号）</td><td>“核定任务、核定收支、绩效考核补助”、稳定长 效的多渠道补偿机制; 基本医疗服务主要通过医疗保障付费和个人付费 补偿机制的意见》（国办发（2010）基本公共卫生服务通过政府建立的城乡基本公共 卫生服务经费保障机制补偿; 人员支出和业务支出等运行成本通过服务收费和 政府补助补偿；经常性收支差额由政府按照核定 任务、核定收支、绩效考核补助的办法补助</td></tr><tr><td>2011年</td><td>政有关政策的意见》（中发（2011） 5号)</td><td>《关于分类推进事业单位改革中财明确社区卫生服务中心作为公益一类事业单位， 财政足额保障所需经费，以“创机制、保基本、多 层次、可持续、重绩效、促均等”为原则</td></tr><tr><td>2018年</td><td>《医疗卫生领域中央与地方财政事 办发（2018）67号）</td><td>权和支出责任划分改革方案》（国中央财政事权或地方财政事权由隶属关系确定</td></tr><tr><td>2019年</td><td>社（2019）113号）</td><td>《关于印发基本公共卫生服务等5采用因素法分配，考虑人口数量、国家基础标准、 项补助资金管理办法的通知》（财中央与地方分担比例、经济社会发展和物价水平 等多种因素进行调整</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2当量法在社区卫生服务机构中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当量法在社区卫生服务机构成本核算中的应用相对较为广泛，北京[等多地各地开展测算工作。其基本思路是将各类服务或活动的工作“人时数”进行当量值转化，使各种服务的工作量可以加和比较。运用当量法的过程主要有以下几点：（1）确定并定义标准当量值；（2）根据标准当量值，将各服务项目工作按照人时数转化为当量值，并进行加和比较；（3）利用机构的相关数据计算1个标准当量值的成本，进而测得整个服务项目的成本8。该方法突破了传统测算方法在社区卫生服务机构“总成本-科室-项目”的应用限制，以“总成本-项目”两级成本分摊模式，具有简便性与可操作性，适合基层医疗卫生机构实际，可推广性较好9。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当量法在政府办社区卫生服务机构财政补偿方面的研究则相对较少，政府办社区卫生服务机构防治结合的服务定位要求社区卫生机构既要提供收费的、一般面向个体的基本医疗服务，同时也要提供免费的、一般面向人群的公共卫生服务，服务项目的内涵和边际难以界定，在实际操作中，除全科医生外，非全科医护人员同样提供着公共卫生服务。因此，本研究以“当量法”中的标准化当量为标尺，充分发挥当量法“度量衡”各项服务的优势，将基本医疗当量与以往难以测量的公共卫生服务当量统一度量，探索在“同一补偿机制”统筹基本公共卫生服务和基本医疗服务，对两类服务经费进行整合测算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于当量法的财政补偿测算模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，政府办社区卫生服务机构的基本公共卫生服务经费与基本医疗经费并未统一完整的进行分配管理，经费的实施存在分离割裂，前后衔接不连贯，无法统筹规划各类服务项目，难以实现费用的全局控制。公共卫生服务项目内涵不断延伸，一线医务人员工作负荷重，财政补偿经费存在保障不足、补偿不精确等问题，无法激发人员积极性，居民的健康情况也未有明显的改善。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述情况，本研究构建了基于当量法的社区卫生服务中心财政补偿测算模型、财政补偿预算模型，综合考虑成本测算、服务数量、服务质量和满意度等多个维度，并根据政府办社区卫生服务机构的主要特点以及数据的可获得性、有效性和普及性，参照《关于加强基层医疗卫生机构绩效考核的指导意见（试行)》[10]，最终确立财政补偿测算模型主要由财政待补偿的服务当量（D）、每当量补偿标准（Pc）和调节系数（T）三部分构成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1财政待补偿的服务当量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社区卫生服务机构主要提供基本医疗服务和公共卫生服务，根据《关于建立健全基层医疗卫生机构补偿机制的意见》，确定财政待补偿的服务当量主要为基本医疗服务当量和公共卫生服务当量。模型采用“标准当量值”统一衡量两类服务的工作量，得到财政待补偿的服务当量（D)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本医疗当量合计 $\\scriptstyle \\mathbf { \\bar { \\rho } } = \\sum$ 各基本医疗项目当量 $\\times$ 服务量；  \n公共卫生当量合计 $\\scriptstyle \\mathbf { \\bar { \\rho } } = \\sum$ 各公共卫生项目当量 $\\times$ 服务量；  \n机构财政待补偿的服务当量（D) $\\begin{array} { r } { { \\bf \\Pi } = \\frac { \\bf { \\Pi } } { \\bf { \\Pi } } } \\end{array}$ 基本医疗当量合计 $^ +$ 公共卫生当量合计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2每当量补偿标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "政府办社区卫生服务机构的区域经济状况、服务人口年龄构成、技术水平、规模大小和管理模式等方面各有差异，对区域内不同规模的机构实行统一的每当量补偿标准是不符合现实情况，财政补偿标准更不能千篇一律，制定财政补偿标准时需因地制宜，分级分类进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）按照机构规模划分级别，制定不同财政补偿标准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前财政补偿标准尚未有明确统一的口径，各地政府事权财权管辖上的区域划分、同一城市不同区域的财政拨款标准都不尽相同。因此，本研究认为根据社区所在区域和规模级别制定单位财政补偿标准，将推动社区卫生服务机构向财政补偿标准趋近，倒逼单位测算成本高于单位财政补偿标准的机构强化成本管控，让机构树立成本核算的理念，形成有效的成本管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当前国内外卫生领域学者均多采用床位数来衡量医院规模。社区卫生服务中心作为基层医疗卫生服务的守门人，规模大小是与综合性医疗机构最显著的差异之一，它体现在门急诊人次数、在岗职工人员数、诊疗项目、专科数量等多个方面，同时考虑到部分社区卫生服务中心不涉及住院业务，没有床位，遵循简便易得、连续规范的原则，在文献资料和专家咨询的基础上，本研究选取以下代表社区卫生服务中心规模的四类指标（见表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dedfd1fd06fb47704abb3690eb61746feea4f58d7bb0f7de23c2d36d5bcb9fa6.jpg",
+        "table_caption": [
+            "表2政府办社区卫生服务机构规模界定指标",
+            "Table 2 Scale definition indicators of government run community health service institutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标领域</td><td>指标名称</td></tr><tr><td>服务规模</td><td>年末服务人口数、换算的诊疗人次数*</td></tr><tr><td>人员规模</td><td>年末在职职工数</td></tr><tr><td>设施规模</td><td>资产总计</td></tr><tr><td>财务规模指标</td><td>事业收入、业务活动费用</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "※注：换算的诊疗人次数 $\\varXi$ 诊疗人次数 $^ { + }$ 实际占用总床日数 $\\times 3$ （2）分类核定每当量人力补偿标准和每当量非人力补偿标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "社区卫生服务主要为人员投入，长期以来将公共卫生服务支出和相应的运行成本从成本中进行剥离是比较困难的，当量法将无法用数量衡量的服务项目进行标准化处理，消除了各个服务项目的量纲，使得各个服务项目间有了同质化、可比较的单位标尺，机构形成统一直观的服务量数据，有利于机构间的横向比较与机构自身的纵向比较。因此，本研究根据成本类别划分为人力成本与非人力成本，进一步细化财政补偿标准，测算出对应类别的人力补偿标准和非人力补偿标准，有利于对机构资金投入，便于后续人员绩效管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）每当量财政补偿标准",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，根据各规模级别下机构测定的每当量成本，确定区域内各规模级别机构的每当量补偿标准！ $\\left( \\mathrm { P _ { G } } \\right)$ 0。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { G } = { \\frac { C _ { G } } { D _ { G } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（ $\\mathrm { G } =$ 第一级规模，第二级规模，…，第 $\\mathfrak { n }$ 级规模）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { P _ { G } }$ ：表示同规模机构的每当量补偿标准； $\\mathrm { C _ { \\mathrm { G } } }$ ：表示同规模机构的测算成本合计； $\\mathrm { D } _ { \\mathrm { G } }$ ：表示同规模机构财改待补偿的当量合计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2019 年政府办社区卫生服务中心实行新《政府会计制度》，机构在财务会计中首次采用权责发生制开始进行固定资产折旧、无形资产摊销等工作，为成本测算奠定了良好的基础。研究进一步细分每当量补偿标准，确定政府财政用于补偿当量人力成本和非人力成本的投入所需。其中，人力成本包含医疗人员经费、公共卫生人员经费和管理人员经费；非人力成本为人员经费以外的成本，包含固定资产折旧费、无形资产摊销费、提取医疗基金、卫生材料费和其他运行费用等。随之基本药物制度改革的深入推进，政府办社区卫生服务机构取消了药品加成；基本建设、设备购置一般由财政专项进行补助，各机构间差异较大；离退休人员经费每年拨款额相对固定。为了保障财政补偿测算模型的稳定性，基本建设、设备购置、离退休人员经费、药品费以及单收费的卫生材料费不计入成本测算中（见表3)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/160e9d795250499f403dfe262bd95ab0e805eab1c3d70adc528c728938d4a7eb.jpg",
+        "table_caption": [
+            "Table 3 Measurement range of labor cost and non-labor cost "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>成本类别</td><td>项目</td></tr><tr><td>人力成本</td><td>医疗人员经费、公共卫生人员经费、管理人员经费</td></tr><tr><td>非人力成本</td><td>固定资产折旧费、无形资产摊销费、提取医疗基金、卫生材料费、其他 运行费用</td></tr><tr><td>不计入成本</td><td>基本建设和设备购置经费、离退休人员经费、药品费和单收费的卫生材 料费</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3调节系数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于调节系数的设定学者们做了大量的分析，张晓燕考虑到服务质量、服务反应性、有效服务量，计算折算系数后确定财政补偿总额；倪娜娜等[12]在机构绩效工资分配时考虑到工作量系数、综合K值（质量指标 $^ +$ 效率指标 $^ +$ 公益性指标）、地区性补贴和社区性补贴；张韬[13、李明[4]根据工分制原理赋予各项服务权重，拟定项目分值、每年每人享受服务次数、相关人群数和调节系数；林吉祥等[5构建了标化工作量值、标化工作量单价、发展力系数、科室/岗位发展力系数和质量考核系数5个变量，将其作为政府补贴的依据（见表4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4调节系数相关文献摘录",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b16442feae4f5f1900b6d5f4792f320074f5f7813d7a4138f4ef445f00c154ab.jpg",
+        "table_caption": [
+            "表3人力成本和非人力成本测算范围",
+            "Table 4 Literature extract of regulation coefficient "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>研究对象</td><td>系数设定</td></tr><tr><td rowspan=\"3\">2012年</td><td rowspan=\"3\">县级医院</td><td>服务质量指标：诊断符合率；</td></tr><tr><td>服务反应性指标：患者的满意度；</td></tr><tr><td>有效服务量指标：复诊率；</td></tr><tr><td>2016年</td><td>上海市社区卫生</td><td>政府财政能力、当地人健康水平、居民消费水平 项目分值(Xn）、每年每人享受服务次数(Y）、相关人群总人数</td></tr><tr><td rowspan=\"3\">2018年</td><td rowspan=\"3\">服务机构 北京市朝阳区社</td><td>(Z)、调节系数(P)和权重(V)值</td></tr><tr><td>工作量系数=机构当量合计/在岗人数/全区人均工作量;</td></tr><tr><td>质量性指标：绩效考核结果;</td></tr><tr><td rowspan=\"2\"></td><td></td><td>效率性指标：机构收入/机构支出+医疗收入/医药收入;</td></tr><tr><td></td><td>公益性指标： (1-机构均次门诊费用/全区均次门诊费用均值)</td></tr><tr><td>2021年</td><td>上海市社区卫生</td><td>各项目的项目发展力系数（Ii）、各项目的科室/岗位发展力系</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究在文献研究和专家咨询的基础上，根据数据的可得性、操作的可重复性原则，主要从服务效率、服务质量和动态调节系数等方面综合考虑核定财政补偿折算系数（T），通过设置差异化的调节系数，以各规模级别下机构的平均分为基准，奖优罚劣，对服务产出提出更高的要求。其中：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）服务效率：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "工作当量系数 $: = \\Sigma$ (基本医疗量 $\\times$ 标准当量值 $^ +$ 公共卫生量 $\\times$ 标准当量值)/机构年末在职职工数/各规模级别下的人均工作量；服务人口系数 $\\scriptstyle : = \\bar { \\gamma }$ 机构服务人口数/机构年末在职职工数/各规模级别下的人均服务人口数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）服务质量：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "绩效考核结果；满意度系数 $\\cdot = \\cdot$ 机构满意度/各规模级别下的机构平均服务满意度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）动态调节系数：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "区域人均GDP、政策倾斜系数等，各地财政部门可根据区域卫生政策、机构实际情况设置相应的动态调节系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4财政补偿测算额 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国补偿政策明确指出基本医疗服务原则上通过医疗保险和个人付费两个渠道进行补偿，即按照服务收费补偿，因政策原因造成的基本医疗服务亏损，上述两个渠道补偿后仍有不足的部分，可统筹考虑社区卫生服务机构的整体收支情况给予补助。因此，测算的财政补偿额进一步扣减了医疗收入。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最终确定单个机构财政补偿测算额为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = D \\times P _ { G } \\times T - I\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，D：表示机构财政待补偿的服务当量； $\\mathrm { P _ { G } }$ ：表示该机构规模级别下的每当量补偿标准；T：表示调节系数；I：表示医疗收入（不含药品和卫生材料）。区域财政补偿测算额为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\sum _ { j = 1 } ^ { n } z _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8331c63bcf0ecb299a035597e1649c0fde476524e21dabcf0a34f2f6e031d11d.jpg",
+        "img_caption": [
+            "图1财政补偿测算框架",
+            "Figure 1 Financial compensation measurement framework "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4基于当量法的财政补偿预算模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "财政补偿测算模型财主要由政待补偿的服务当量（D）、每当量补偿标准（PG）和调节系数（T）三部分构成，在此模型的基础上，构建基于当量法的财政补偿预算模型。财政补偿预算模型可在机构每年年初确定，用于政府部门对机构进行预算拨款。对于财政部门而言，建立财政补偿预算模型，便于对机构进行预付，支撑财政资金全面预算管理；对于社区机构而言，有利于落实财政资金管理，便于成本控制。财政补偿预算模型主要通过预测财政待补偿的服务当量和每当量补偿标准核定而得，《国家医疗保障按病种分值付费（DIP）技术规范》指出在进行DIP预算点值计算时，通常基于前三年的总费用情况，采用加权平均的方式对前三年总费用赋予权重，本研究借鉴DIP 预算点值的思路，利用加权平均的方式预算社区卫生服务财政补偿情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）预算财政待补偿的服务当量",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ^ { \\prime } = \\left\\{ \\sum ^ { d \\times ( 1 + a ) ^ { n } } \\qquad { \\textcircled { 1 } } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中D’：表示机构某年预算财政待补偿的服务当量；d：表示财政待补偿服务当量的基期值；a：表示财政待补偿当量的平均增长率；di：表示第i年机构财政待补偿服务当量值；fi：表示第i年赋予的权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公式 $\\textcircled{1}$ 以过去时间段（一般5年以上）服务当量的平均增长率类推未来某年的情况，适用于财政待补偿的当量平均增长率较为平稳，或增长趋势在预测期内仍将继续的情形。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公式 $\\textcircled{2}$ 对过去时间段（一般为3年）的服务当量进行加权平均，测得预算的服务当量，适用于数据时间跨度较为有限，财政待补偿当量较不稳定，无法用平均增长率精准预测的情形，本研究前三年测算服务当量权重参考DIP 预算点值，赋予1：2：7。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）预算每当量补偿标准",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "预算每当量补偿标准将同规模级别下的机构作为测算整体，其年度测算成本采用加权平均的方式计算。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ P _ { G } } ^ { \\prime } = { \\frac { \\sum ( C _ { G i } \\times f _ { i } ) } { D _ { G } ^ { ' } } } \\times C P I\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（ $\\mathrm { G } =$ 第一级规模，第二级规模，…，第 $\\mathfrak { n }$ 级规模）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中：Pc’：表示同规模级别下社区卫生服务每当量补偿标准； $\\mathrm { C _ { \\mathrm { G i } } }$ ：表示第 $\\mathrm { ~ i ~ }$ 年同规模级别机构测算的成本合计；De’：表示同规模级别下机构预算财政待补偿的服务当量合计；CPI表示消费者物价指数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）预算调节系数",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ^ { \\prime } = \\sum ( T _ { i } \\times f _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，Ti：表示第i年机构调节系数， $\\mathrm { f _ { i } }$ ：表示第i年赋予的权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）预算财政补偿额",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "预算医疗收入（不含药品、卫生材料）为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { \\prime } = \\left\\{ \\sum ^ { I \\times ( 1 + b ) ^ { n } } \\begin{array} { c c } { \\boldsymbol { { \\widehat { ( 1 ) } } } } & { } \\\\ { \\sum ( I _ { i } \\times f _ { i } ) } & { } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，I’：表示预算医疗收入（不含药品、卫生材料)；b：表示医疗收入平均增长率； $\\mathrm { I _ { i } }$ ：表示第i年机构医疗收入。公式 $\\textcircled{1}$ 与公式 $\\textcircled{2}$ 适用范围与预算财政待补偿的服务当量一致，不做赘述。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终确定单个机构财政预算补偿为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ^ { \\prime } = D ^ { \\prime } \\times { P _ { G } } ^ { \\prime } \\times T ^ { \\prime } - I ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "区域财政预算补偿额度为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ ^ { \\prime } = \\sum _ { j = 1 } ^ { n } z _ { j } \\prime \n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/110935c8b0ba98123fd5d98c175978e8f1796e4cf12a0b55fb5b26402c4a3202.jpg",
+        "img_caption": [
+            "图2财政补偿预算框架",
+            "Figure 2 Financial compensation budget framework "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5政府办社区卫生服务机构财政补偿测算一以14家机构为例",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据选用的规模指标，将14家政府办社区卫生服务机构分为三级规模，其中，S1和 S2规模为第一级规模；S3至 S7五家机构为第二级规模；其余7家机构为第三级规模。2019-2021年14家机构财政待补偿当量呈先下降后增长趋势，总体来看，机构平均服务当量合计由62.77万当量增至133.91万当量（见表5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表52019-2021年14家机构财政待补偿当量情况",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/10877b8c6d66203aadcd77d04256dda3c95e555147bd6d392c54917058793003.jpg",
+        "table_caption": [
+            "Table 5 Financial equivalent to be compensated of 14 institutions in 2019-2021 单位：万当量 ",
+            ""
+        ],
+        "table_footnote": [
+            "分别取各规模级别下每当量人力成本均值作为每当量人力补偿标准，取各规模级别下每当量非人力成本均值作为每当量非人力补偿标准。2021年三级规模的每当量补偿标准在31.99元/当量至42.97元/当量之间（见表6)。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">规模级 别</td><td rowspan=\"2\">机构</td><td colspan=\"3\">基本医疗服务当量</td><td colspan=\"3\">公共卫生服务当量</td><td colspan=\"3\">服务当量合计</td></tr><tr><td>2019 年</td><td>2020 年</td><td>2021 年</td><td>2019 年</td><td>2020 年</td><td>2021 年</td><td>2019年</td><td>2020 年</td><td>2021 年</td></tr><tr><td>1</td><td>S1</td><td>33.99</td><td>38.46</td><td>58.60</td><td>87.75</td><td>105.00</td><td>162.65</td><td>121. 73</td><td>143.46</td><td>221.25</td></tr><tr><td>1</td><td>S2</td><td>35.44</td><td>18.12</td><td>22.87</td><td>74.22</td><td>90.97</td><td>183.44</td><td>109.66</td><td>109.09</td><td>206.31</td></tr><tr><td>2</td><td>S3</td><td>77.32</td><td>66.41</td><td>113.21</td><td>64.09</td><td>69.78</td><td>133.88</td><td>141. 41</td><td>136.20</td><td>247.09</td></tr><tr><td>2</td><td>S4</td><td>29.35</td><td>25.01</td><td>29.27</td><td>37. 45</td><td>47.60</td><td>138.68</td><td>66.80</td><td>72.62</td><td>167.95</td></tr><tr><td>2</td><td>S5</td><td>19.60</td><td>20.62</td><td>55.08</td><td>71. 53</td><td>85.22</td><td>53.77</td><td>91.13</td><td>105.84</td><td>108.85</td></tr><tr><td>2</td><td>S6</td><td>13.34</td><td>9.71</td><td>24.98</td><td>34.26</td><td>53.18</td><td>96.96</td><td>47.60</td><td>62.88</td><td>121. 94</td></tr><tr><td>2</td><td>S7</td><td>21.46</td><td>19.75</td><td>19.61</td><td>29.35</td><td>41.37</td><td>104.82</td><td>50.82</td><td>61.12</td><td>124. 43</td></tr><tr><td>3</td><td>S8</td><td>18.56</td><td>21. 44</td><td>29.50</td><td>19.52</td><td>28.38</td><td>76.03</td><td>38.08</td><td>49.82</td><td>105.53</td></tr><tr><td>3</td><td>S9</td><td>18.55</td><td>12. 71</td><td>8.41</td><td>14.91</td><td>27. 47</td><td>70.89</td><td>33.46</td><td>40.18</td><td>79.30</td></tr><tr><td>3</td><td>S10</td><td>20.42</td><td>13.91</td><td>14. 72</td><td>10.53</td><td>17.95</td><td>48.51</td><td>30.95</td><td>31.86</td><td>63.23</td></tr><tr><td>3</td><td>S11</td><td>17.45</td><td>12.56</td><td>14. 12</td><td>21. 41</td><td>28.80</td><td>147.34</td><td>38.86</td><td>41.36</td><td>161.46</td></tr><tr><td>3</td><td>S12</td><td>9.08</td><td>11.05</td><td>21. 17</td><td>29.23</td><td>44.62</td><td>107. 40</td><td>38.31</td><td>55.67</td><td>128.56</td></tr><tr><td>3</td><td>S13</td><td>12.57</td><td>10.15</td><td>14. 43</td><td>35.10</td><td>38.06</td><td>64.22</td><td>47. 66</td><td>48.21</td><td>78.65</td></tr><tr><td>3</td><td>S14</td><td>4.31</td><td>2.93</td><td>3.77</td><td>18.02</td><td>17. 12</td><td>56.43</td><td>22.33</td><td>20.04</td><td>60.20</td></tr><tr><td></td><td>均值</td><td>23.67</td><td>20.20</td><td>30.70</td><td>39.10</td><td>49.68</td><td>103.22</td><td>62.77</td><td>69.88</td><td>133.91</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5943b3a50a7854ce4b2756b50d5ac5d58455d13c2d42598fb10a32abdfa57a8f.jpg",
+        "table_caption": [
+            "Table 6 Compensation standard of each volume of 14 institutions at different scales 单位：元/当量 "
+        ],
+        "table_footnote": [
+            "2021年平均每家机构测算的财政补偿额为4,732.22万元，各机构平均实际补助收入为4,454.68万元，略低于测算的财政补偿额（见表7)。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">规模 级别</td><td colspan=\"3\">每当量人力补偿标准</td><td colspan=\"3\">每当量非人力补偿标准</td><td colspan=\"3\">每当量补偿标准</td></tr><tr><td>2019 年</td><td>2020 年</td><td>2021 年</td><td>2019 年</td><td>2020 年</td><td>2021 年</td><td>2019 年</td><td>2020 年</td><td>2021 年</td></tr><tr><td>1</td><td>45. 42</td><td>50.83</td><td>28.79</td><td>9.08</td><td>5.58</td><td>3.20</td><td>54.50</td><td>56.41</td><td>31.99</td></tr><tr><td>2</td><td>65.82</td><td>67.38</td><td>36.43</td><td>14. 37</td><td>9.94</td><td>5.17</td><td>80.19</td><td>77.32</td><td>41.60</td></tr><tr><td>3</td><td>87.21</td><td>90.81</td><td>37.18</td><td>15.85</td><td>14. 15</td><td>5.79</td><td>103.06</td><td>104.97</td><td>42.97</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a39325d584b0940d2aead8adc4609c25b554a24588a2267fe1d91df950ec7e4.jpg",
+        "table_caption": [
+            "表614家机构各规模级别的每当量补偿标准",
+            "表7测算的财政补偿额和实际财政补助收入",
+            "Table 7 Estimated Fiscal compensation amount and actual Fiscal subsidy Income 单位：万j "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构</td><td colspan=\"3\">测算的财政补偿额</td><td colspan=\"3\">实际财政补助收入</td></tr><tr><td>2019年</td><td>2020年</td><td>2021年</td><td>2019年</td><td>2020年</td><td>2021年</td></tr><tr><td>S1</td><td>4,598.85</td><td>6,900.93</td><td>5,499.92</td><td>5,542.55</td><td>6,905.88</td><td>5,758.16</td></tr><tr><td>S2</td><td>5,509.05</td><td>6,057. 12</td><td>6,953.36</td><td>4,887.65</td><td>5,813.89</td><td>5,661. 77</td></tr><tr><td>S3</td><td>10, 723. 01</td><td>9,943.03</td><td>9,407. 15</td><td>5,728.82</td><td>6,412.56</td><td>6,065.52</td></tr><tr><td>S4</td><td>4,163.37</td><td>4,555.33</td><td>6,416.40</td><td>5,021.23</td><td>5,822.29</td><td>5,453.74</td></tr><tr><td>S5</td><td>6,628.09</td><td>7, 681. 61</td><td>3,049.60</td><td>4,315.25</td><td>5,289.53</td><td>5,032.02</td></tr><tr><td>S6</td><td>2,690.89</td><td>4,001.38</td><td>4,182. 91</td><td>4,255.47</td><td>4,864. 99</td><td>4,492.11</td></tr><tr><td>S7</td><td>2,910.00</td><td>3,813.38</td><td>4,207.95</td><td>4,999.60</td><td>5,835.48</td><td>5,371.50</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/29d4f142644a13e1a6b132d7448a3601aa9af97ad8fb0b922226420cbbfdeb1b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2021年CPI为1.01，2022年14家机构平均预算服务当量为126.21万当量，平均预算财政补偿为5,118.09万元（见表8）。"
+        ],
+        "table_body": "<html><body><table><tr><td>S8</td><td>3,611.66</td><td>5,236.30</td><td>4,237.99</td><td>2,765.94</td><td>3,192.23</td><td>3,206.73</td></tr><tr><td>S9</td><td>2,865.39</td><td>3,759.15</td><td>2,891. 76</td><td>2,898.65</td><td>3,309.55</td><td>2,926.14</td></tr><tr><td>S10</td><td>2,552.02</td><td>2, 793.96</td><td>2,203.01</td><td>3,376.37</td><td>3,650.06</td><td>3,354.60</td></tr><tr><td>S11</td><td>3,338.88</td><td>3,620.07</td><td>6,686.02</td><td>4,333.22</td><td>5,379.85</td><td>5,307.83</td></tr><tr><td>S12</td><td>3, 712. 09</td><td>5,878.55</td><td>5,282.30</td><td>4,357.39</td><td>5,213.03</td><td>5,026.43</td></tr><tr><td>S13</td><td>4,862. 04</td><td>4, 931. 95</td><td>2, 977. 91</td><td>2,467.82</td><td>2,650.55</td><td>2,495.55</td></tr><tr><td>S14</td><td>1, 979. 37</td><td>1, 674. 43</td><td>2,237. 15</td><td>2,140.78</td><td>2,853.23</td><td>2,213.39</td></tr><tr><td>均值</td><td>4,299.45</td><td>5,062.80</td><td>4,732.22</td><td>4, 077.91</td><td>4, 799.51</td><td>4, 454.68</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/665854881afd335f79fbe37f6be6059ef12450c3186a4244de6fc6fe18f20152.jpg",
+        "table_caption": [
+            "表82022年预算财政补偿情况Table 8 Estimated financial compensation for 2022"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>规模 级别</td><td>机构</td><td>预算服务当量 （万当量）</td><td>预算人力补偿标 准(元/当量)</td><td>预算非人力补偿 标准(元/当量）</td><td>预算财政补偿 额（万元）</td></tr><tr><td>1</td><td>S1</td><td>195.74</td><td>32.76</td><td>8.01</td><td>6,485. 15</td></tr><tr><td>1</td><td>S2</td><td>177.20</td><td>32.76</td><td>8.01</td><td>7,650. 63</td></tr><tr><td>2</td><td>S3</td><td>214.35</td><td>39.27</td><td>10.82</td><td>10,087.98</td></tr><tr><td>2</td><td>S4</td><td>138.77</td><td>39.27</td><td>10.82</td><td>6,294. 16</td></tr><tr><td>2</td><td>S5</td><td>106.48</td><td>39.27</td><td>10.82</td><td>4,104.02</td></tr><tr><td>2</td><td>S6</td><td>102.69</td><td>39.27</td><td>10.82</td><td>4,270.87</td></tr><tr><td>2</td><td>S7</td><td>104. 41</td><td>39.27</td><td>10.82</td><td>4,293.49</td></tr><tr><td>3</td><td>S8</td><td>87.65</td><td>41.65</td><td>13.55</td><td>4,667.66</td></tr><tr><td>3</td><td>S9</td><td>66.89</td><td>41. 65</td><td>13.55</td><td>3,213.94</td></tr><tr><td>3</td><td>S10</td><td>53.73</td><td>41.65</td><td>13.55</td><td>2,463.02</td></tr><tr><td>3</td><td>S11</td><td>125.18</td><td>41.65</td><td>13.55</td><td>6,544. 96</td></tr><tr><td>3</td><td>S12</td><td>104. 96</td><td>41.65</td><td>13.55</td><td>5,684. 66</td></tr><tr><td>3</td><td>S13</td><td>69.46</td><td>41.65</td><td>13.55</td><td>3,542. 19</td></tr><tr><td>3</td><td>S14</td><td>48.38</td><td>41.65</td><td>13.55</td><td>2,323.92</td></tr><tr><td></td><td>均值</td><td>113.99</td><td>39.53</td><td>11.78</td><td>5,118.09</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 讨论和建议",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1探索财政补偿新模式",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当前社区卫生服务的补偿常是通过增加机构财政补偿经费来改善社区卫生服务，而我国在基层医疗机构大力推广“公益一类财政供给、公益二类绩效管理”方案，即基层医疗机构保持公益一类性质不变，明确一类财政保障的范围，在管理上允许机构实行公益二类事业单位绩效管理，进一步完善了基层运行新机制[16。本研究积极探索兼顾效率和公平的财政补偿机制，根据社区卫生服务机构服务量和服务项目进行当量法成本测算，基于成本测算结果按照不同规模类别制定单位财政补偿标准，并合理评估机构人员效率、服务质量，从而让政府有依据“购买”卫生服务。这种补偿思路不同与政府以往的“增加供给、养人办事”补偿方式，而是以成本测算和绩效考核为抓手，转变为“政府购买服务、办事养人”的新模式，为政府办社区卫生服务机构建立“公益一类财政保障、公益二类绩效管理”运行机制提供支持。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2灵活运用调整系数",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "财政补偿能力的大小与机构所在区域经济发展水平、卫生政策规划有关。一方面，设置调整系数使得政府管理职能与社区卫生服务机构的管理职能边界清晰化。政府要做好合理规划、加强管理以及足额保障工作的，包括基础设施建设、设备购置、公共卫生服务经费、离退休人员经费和突发公共卫生事件处置项目等，经财政核定后给予补偿；应由社区卫生服务机构承担管理职能的部分，如运行成本等，由机构做好成本管控工作。另一方面，增设调节系数，也使财政补偿模型更具有灵活性，调节系数可综合考虑区域经济发展需要、地理位置、服务可及性、财政负担能力、机构规模类别、政策倾斜等多种因素，各区域在具体测算使用时依据实际情况而定，将更好地与本区卫生政策项衔接，提高财政补偿测算模型与实际情况的适配度，满足社区卫生服务的需要，统筹规划区域卫生服务发展，使得财政补偿更科学高效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3模型的适用性讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究构建了政府办社区卫生服务机构的财政补偿测算模型和财政补偿预算模型，模型以当量法成本测算为基础，考虑政府办社区卫生服务机构现状和服务特点。整套财政补偿模型数据主要来源于HIS 系统、卫生财务年报和卫生统计年报数据，数据规范易得，模型操作简便易行，具有极强的推广性，可以为不同服务侧重（医疗服务或公共卫生服务）的机构提供统一度量的服务当量，满足区域机构财政补偿多元化的发展特点，适用于成本测算基础相对薄弱、信息化水平有限的卫生机构。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：娄翠迪负责数据处理、论文撰写和文章修订；赵丽颖负责文章设计和论文修订；程薇负责论文修订、文章质量控制和审校；李媛负责数据收集处理、模型核对；安钊、徐训航负责资料收集与整理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]应亚珍,戈昕,徐明明等.我国基层医疗卫生机构补偿机制研究报告[J].卫生经济研究,2016,(09):3-8.[2]陈虾,陶红兵,罗乐宣等.国内外社区卫生服务经费分配与绩效管理体系的情况和分析[J].中国全科医学,2011,14(16) :1763-1769.  \n[3]彭迎春,何永洁.北京市基层医疗卫生机构补偿机制存在的问题探析[J].医学与社会,2015,28(12):16-19+24.[4]国务院办公厅.医疗卫生领域中央与地方财政事权和支出责任划分改革方案[Z].2018.  \n[5]财政部 国家卫生健康委 国家医疗保障局国家中医药管理局关于印发基本公共卫生服务等5项补助资金管理办法的通知[J].中华人民共和国财政部文告,2019(08):13-25.  \n[6］国务院办公厅.国务院办公厅关于建立健全基层医疗机构补偿机制的意见[Z].2010.  \n[7]石亚丽,李宁燕,杨慧敏.北京市西城区国家基本卫生服务项目成本测算研究[J].中国初级卫生保健,2015,29(7) :7-9.  \n[8]姜颖颖.北京市社区卫生服务项目成本测算模型研究[D].北京中医药大学,2012.  \n[9]尹德卢.国家基本公共卫生服务项目成本测算方法与实证研究[D].中国疾病预防控制中心,2015.  \n[10]关于加强基层医疗卫生机构绩效考核的指导意见(试行)[J].中华人民共和国国家卫生健康委员会公报,2020(07) :23-30.  \n[11]张晓燕,陈园.基于基本医疗服务服务量的县级医院财政补偿方式探讨[J].中国医院管理,2012,32(07)：6-7.[12]倪娜娜,杨非衡，朱磊,何欢,刘宝花.北京市朝阳区不同财政补偿模式社区卫生服务机构绩效改革效果研究[J].中国卫生事业管理,2015,32(10):733-736.  \n[13]张韬,李明,盖红梅等.基于工分制原理的基本公共卫生服务所需工作量的社区实践[J].中国全科医学,2016,19(04) : 396-399.  \n[14]李明,张韬,王洪兴等.基于工分制原理的基本公共卫生与基本医疗服务经费统筹管理的理论探讨[J].中国全科医学,2016,19(04) :392-396.  \n[15]林吉祥,顾静华,汪天英等.标化工作量在基层医疗卫生机构管理中的应用与价值研究[J].中国全科医学,2021,24(25):3197-3204.  \n[16]张丽芳,秦江梅,张艳春等.基层医疗卫生机构实行“公益一类财政供给、公益二类绩效管理”的实践与成效研究［J」.中国全科医学,2020,23(01)： $1 { - } 6 { + } 1 3$ ",
+        "page_idx": 8
+    }
+]

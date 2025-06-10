@@ -1,0 +1,624 @@
+[
+    {
+        "type": "text",
+        "text": "基于SCS-CN模型的半干旱黄土高原区秸秆炭覆盖集雨垄径流预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周旭姣¹，王琦}，张登奎¹，王小」，赵武成}，赵晓乐¹，雷俊²(1.甘肃农业大学草业学院/草业生态系统教育部重点实验室,甘肃 兰州730070;2.甘肃省定西市气象局,甘肃 定西743000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：垄沟集雨种植是缓解我国半干旱黄土高原区干旱、水土流失和土壤侵蚀的主要雨养农业技术。小流域水文模拟通常采用径流曲 线数(Soil conservation service curve number,SCS-CN)模型。在标准SCS-CN模型中，由于径流曲线数CN值取值未考虑土壤水分动态变化，导致径流预测产生不合理的突变。以甘肃省定西市垄沟微型生物炭集雨垄为研究对象，根据实测降雨-径流数据,采用修正曲线数(Modified curve number,MoCN)法改进标准 SCS-CN模型。结果表明：（1）随集雨垄垄宽增加(垄坡减小)，标准SCS-CN模型和MoCN模型的CN值增加，随生物炭覆盖量增加，标准 SCS-CN模型和MoCN模型的CN值减小；(2）MoCN模型的CN值高于标准 SCS-CN模型；（3)MoCN模型的纳什效率系数(Nash-sutcliffecoefficient)较标准SCS-CN模型提高 $4 0 \\% { \\sim } 2 7 5 \\%$ ，相关系数（Correlationcoefficient)较标准SCS-CN模型提高 $1 \\% \\sim 2 0 \\%$ 。修正曲线数MoCN模型能有效提高模型模拟精度，可为我国半干旱黄土高原区垄沟集雨种植系统地表径流预测及水土保持提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：SCS-CN模型；修正曲线数模型；径流曲线数；初损系数；生物炭",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国半干旱黄土高原区是典型的农牧交错带和生态脆弱带，水资源短缺和水土流失严重制约当地农牧业生产和经济发展[1]。自21世纪以来，国家在该地区重点开展退耕还林(草)工程、坡耕地整治和治沟造地工程，甘肃陇中黄土高原丘陵区水土流失治理取得显著的生态效益[2],然而，其脆弱的生态环境没有改变，森林砍伐、过度放牧、集约耕作和人口增长导致自然森林和草原植被生态系统退化、土壤荒漠化和地方经济贫穷[3]。特殊的环境条件和剧烈的人类活动进一步加重我国半干旱黄土高原区支离破碎的生态环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雨养农业技术的提升对我国半干旱黄土高原区水土保持和生态系统的可持续性至关重要。与传统平作相比，垄沟覆盖种植技术能较好的利用 $< 5$ $\\mathbf { m } \\mathbf { m }$ 降雨，雨水利用效率高达 $8 7 \\% ^ { [ 4 ] }$ ，同时，垄沟覆盖种植技术增加对小雨积水和暴雨径流的利用，减少暴雨造成的土壤和水分损失[5]。目前，塑料地膜是垄沟覆盖种植技术中的主要覆盖材料，被广泛应用于我国干旱和半干旱区，然而，塑料地膜残留物阻碍作物根系对土壤水肥的吸收，并造成土壤次生盐渍化和毒素累积,不利于农业生产和环境协调发展[6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物炭是有机原料(生物质)在有限的氧气供应和高温条件下热分解形成的一种含有大量芳香族炭、孔隙结构复杂和理化性质稳定的固体产物，具有密度小、微孔丰富和比表面积大的特征[7]。生物炭施用能改善干旱和半干旱地区土壤结构和提高土壤透水性，间接影响土壤持水能力，同时，适宜的生物炭施加量有利于减缓地表径流和控制水土流失[8-9]。目前,生物炭广泛应用于环境保护、生态修复和能源等多个领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "掌握降雨-径流水文效应机制可为半干旱黄土高原区耕作方式的选择、水保措施的布设和雨养农",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "业的发展提供有效途径。由于结构复杂、参数繁多、计算繁琐和校准复杂，应用于径流估算的众多水文模型受到限制，而美国农业部水土保持局于1954年研发的径流曲线数(SCS-CN)模型能较好地反映土地利用、植被覆盖、土壤类型和坡度等特征，成为小流域径流预测的一个可行选择[10-12]。径流曲线数(CN)和初损率(λ)是SCS-CN模型的2个主要输入参数。通常，CN值根据经验参数表确定，初损率λ根据大量长期试验研究基础确定，默认值取0.2。在模型应用中，国内外学者结合降雨径流观测资料和研究区土壤特征，通过优化模型参数(或CN)或引入参数等提高 SCS-CN模型的适用性[13-14]。由于前期土壤湿润程度(Antecedent moisture condition,AMC)划分不明确和CN值与AMC间的不连续性,SCS-CN模型的模拟精度和模型应用具有局限性。周翠宁等[15]应用SCS模型研究温榆流域降雨-径流关系，结果表明，AMC越湿润，产生的径流量越大。Mishra等[1利用CN与前5d降雨积累量之间的幂函数关系改进SCS-CN模型，进而消除非连续性前期土壤湿润程度对径流预测的影响。在SCS-CN模型应用中，需充分考虑土壤水分动力学与降雨-径流间的关系，建立CN和实际土壤湿度函数间的连续性关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为进一步明确秸秆炭覆盖垄沟集雨种植技术中不同秸秆炭覆盖量集雨垄的SCS-CN模型参数取值，本研究通过2017年实测秸秆炭覆盖集雨垄的降雨-径流数据，在充分考虑前期土壤湿润程度对地表产流影响的基础上，采用标准SCS-CN模型及改进径流曲线数算法进行降雨-径流预测，以期为甘肃陇中黄土高原丘陵区秸秆炭覆盖垄沟集雨种植技术中径流量的准确预测和水资源的有效利用提",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供借鉴和参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区（中国气象局兰州干旱气象研究所定西干旱气象与生态环境试验基地)位于甘肃省定西市西川农业科技园区，地理位置为 $1 0 4 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { E } , 3 5 ^ { \\circ } 3 3 ^ { \\prime } \\mathrm { N } _ { \\circ }$ 研究区地貌类型以黄土高原丘陵沟壑为主，海拔$1 8 9 6 . 7 \\mathrm { ~ m ~ }$ 。在研究区，1971—2017年年均降雨量为$3 8 5 . 6 7 ~ \\mathrm { m m }$ ，集中于5—9月（占年均降雨量比例为$7 9 . 6 0 \\%$ )。土壤质地为黄绵土，平均土壤容重为$1 . 3 8 ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ 。马铃薯（Solanumtuberosum）、春小麦(Triticumaestivum)和玉米(Zeamays)等为当地主要种植作物,紫花苜蓿(Medicago sativa)和红豆草( $\\scriptstyle { \\dot { O } } n$ （2号obrychisviciaefolia)等为当地主要种植牧草。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用随机区组试验设计，共设9个处理(3个秸秆炭覆盖量 $\\cdot { \\times } 3$ 个垄宽)，重复3次。3个秸秆炭覆盖量分别为O（土垄,Ridgeswithmanuallycompacted soil,MCS） $\\ 、 3 \\times 1 0 ^ { 4 } \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ （单倍秸秆炭垄，Ridges with single maize straw biochar application,SMB)和 $6 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ （双倍秸秆炭垄，Ridgeswithdouble maize straw biochar application,DMB）。3个垄宽分别为 $3 0 \\ \\mathrm { c m } \\ . 4 5 \\ \\mathrm { c m }$ 和 $6 0 ~ \\mathrm { c m }$ 。集雨垄形状近似半球形，高度为 $1 5 { \\sim } 2 0 ~ \\mathrm { c m }$ (图1)，长度为 $1 0 \\mathrm { m }$ 。集雨垄边坡坡度为 $3 4 ^ { \\circ } { \\sim } 4 5 ^ { \\circ }$ 。集雨垄采用原地湿土(适宜原地湿土含水量范围为 $1 4 \\% { \\sim } 2 1 \\%$ )起垄，起垄表面[或原地湿土和生物炭混合物(体积比 $_ { . = 1 : 1 }$ ）经人工铁锹拍实和降雨击溅形成土壤结皮(或生物炭土壤结皮)。生物炭(生物质为玉米秸秆)由浙江省秸秆炭工程技术研究中心制备和提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/461970006220337ee3c1939fec702b79933ce5f9428493bb1d5b1b5b6ffc5bf4.jpg",
+        "img_caption": [
+            "土垄/单倍秸秆炭垄/双倍秸秆炭垄",
+            "图1径流收集系统示意图",
+            "Fig.1 Schematic diagram of runoff collection system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为有效监测径流，在集雨垄4周设置水泥砖块（高出地面 $8 ~ \\mathrm { c m }$ ，厚度为 $7 { \\sim } 8 ~ \\mathrm { m m }$ )，相邻2条集雨垄间设置 $1 . 5 \\mathrm { ~ m ~ }$ 隔离区。为防止径流下渗损失，沿集雨垄长度方向沟槽底部铺设沥青。在集雨垄末端（低端处），开挖约 $1 0 ~ \\mathrm { m } ^ { 3 }$ （长 $1 0 ~ \\mathrm { m } \\times$ 宽 $1 \\mathrm { m } \\times$ 深 $1 \\mathrm { m }$ )沟槽，放置径流收集桶(容量为 $\\mathsf { 1 0 0 L } )$ 。每个径流收集桶包含2个孔(接入径流收集塑料软管)和盖子（消除降雨对径流量的直接影响）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用距试验地约 $5 0 { \\sim } 1 0 0 ~ \\mathrm { m }$ 的试验基地自动气象站(WS-STD1，英国)测定2017年4—10月降雨量。每次降雨停止后，即刻测定降雨量和径流量数据，并及时清理径流收集塑料软管中堵塞物和径流收集桶中沉淀物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降水距平百分率是指同一时段降水量与多年平均降水量的偏差[17],计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { p } } { = } \\frac { P { - } \\mathrm { A P } } { P } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D _ { \\mathrm { p } }$ 表示降水距平百分率 $( \\% ) { : } P$ 表示该时段内降雨量( $\\bf \\Pi _ { \\mathrm { m m } } ^ { \\prime } ,$ ;AP表示该时段内（本研究选取1971一2017年)多年平均降雨量 $( \\mathrm { m m }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "径流效率计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { E R } } = { \\frac { R _ { \\mathrm { v } } } { P _ { \\mathrm { t } } \\times A _ { \\mathrm { c } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：ER表示径流效率 $( \\% ) { : } P _ { \\mathrm { { t } } }$ 表示降雨量 $( \\mathrm { m m } ) { : } R _ { \\mathrm { v } }$ 表示同一降雨对应径流量 $( \\mathbf { m } ^ { 3 } )$ ） $A _ { \\mathrm { c } }$ 表示集水面积（即集雨垄投影面积） $\\left( \\mathbf { m } ^ { 2 } \\right)$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用MicrosoftExcel2016软件进行模型参数计算和函数图像绘制，参数计算采用单变量求解和规划求解；利用IBMSPSS20.0软件进行相关分析，相关分析采用Pearson法( $\\scriptstyle { \\overbrace { P { < } 0 . 0 1 } } .$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1标准SCS-CN模型基于水量平衡原理和2个基本假定，1954年美国农业部水土保持局研制出径流曲线数(SCS-CN)模型[18]。水量平衡方程计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { = } I _ { \\mathrm { a } } + F { + } Q\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 表示降雨量 $( \\mathrm { m m } )$ ； $F$ 表示集水区实际人渗量（204号 $\\left( { \\bf m } \\mathbf { m } \\right)$ ； $\\boldsymbol { \\mathcal { Q } }$ 表示集水区实际径流量（ $( \\mathrm { m m } )$ ; $I _ { \\mathrm { a } }$ 表示初损量 $\\left( \\mathrm { m m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本假定1：集水区实际径流量 $\\varrho$ 与(降雨前）潜在径流量 $\\left( P \\mathrm { - } I _ { \\mathrm { a } } \\right)$ 的比值和集水区实际人渗量 $F$ 与(降雨前)潜在入渗量 $S$ 的比值相等;",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { F } { S } = \\frac { Q } { P - I _ { \\mathrm { a } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本假定2：对于同一场降雨，集水区降雨的初损量 $I _ { \\mathrm { a } }$ 与(降雨前)潜在入渗量 $S$ 成正比[19]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { a } } = \\lambda S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：表示初损系数 $( 0 \\leqslant \\lambda \\leqslant 0 . 4 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS { = } \\frac { 2 5 4 0 0 } { \\mathrm { C N } } { - } 2 5 4\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：CN表示径流曲线数（ $0 { \\leqslant } \\mathrm { C N } { \\leqslant } 1 0 0$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将公式(3)\\~(6)结合，得到SCS-CN模型的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = { \\left\\{ \\begin{array} { l l } { { \\displaystyle { \\left[ P - \\lambda { \\left( { \\frac { 2 5 4 0 0 } { \\mathrm { C N } } } - 2 5 4 \\right) } \\right] } ^ { 2 } } } & { P \\geqslant \\lambda S } \\\\ { P + { \\big ( } 1 - \\lambda { \\big ) } { \\left( } { \\frac { 2 5 4 0 0 } { \\mathrm { C N } } } - 2 5 4 { \\right) } } & \\\\ { 0 } & { P < \\lambda S } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCS-CN模型的前期土壤湿润程度根据前5d累积降雨量共划分为3个等级：干旱（AMCI）、正常(AMCII)和湿润(AMCIII)（表1)，其对应CN值分别用 $\\mathrm { C N } _ { \\mathrm { I } } , \\mathrm { C N } _ { \\mathrm { I I } }$ 和 $\\mathrm { C N _ { \\mathrm { I I I } } }$ 表示。AMCI与调萎系数相对应，AMCIII与田间持水量相对应，而AMCII则与调萎系数和田间持水量间的平均土壤湿度水平相对应",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/499a7f68779114dd4eb7bc03b2d268b45677cee8079806baede1a3d4da2f8af1.jpg",
+        "table_caption": [
+            "表1前期土壤湿润程度(AMC)等级划分",
+            "Tab.1 Classification of antecedent moisture condition "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">AMC</td><td colspan=\"2\">前5d累积降雨量/mm</td></tr><tr><td>生长期</td><td>休闲期</td></tr><tr><td>AMCIII</td><td>>53.3</td><td>>27.9</td></tr><tr><td>AMCII</td><td>35.6~53.3</td><td>12.7~27.9</td></tr><tr><td>AMCI</td><td><35.6</td><td><12.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2MoCN模型由于CN值和AMC间存在非连续性类别变量关系，标准模型预测径流的精确性受到限制。因此, $\\mathbb { W } \\mathrm { a n g }$ 等[20]基于SCS-CN模型研发考虑CN和AMC间连续性关系的MoCN模型，MoCN模型重新定义 $I _ { \\mathrm { a } } ^ { [ 2 1 ] }$ 计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { a } } = \\lambda \\times S \\times \\left( \\frac { P } { P + S } \\right) ^ { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda ( 0 { \\leqslant } \\lambda { \\leqslant } 2 . 8 2 )$ 和 $\\alpha ( 0 . 0 9 { \\leqslant } \\alpha { \\leqslant } 1 1 . 3 6 .$ )为系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS { = } S _ { \\mathrm { { I } } } { - } M\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { \\mathrm { I } }$ 表示AMCI对应的最大滞蓄量 $( \\mathrm { m m }$ ） $M$ 表示前期土壤湿润程度AMC由AMCI向AMCIII转化所减少的土壤滞蓄量( $( \\mathbf { \\bar { \\rho } } _ { \\mathrm { m m } } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = a \\times \\left( \\frac { \\theta - \\theta _ { \\mathrm { w p } } } { \\theta _ { \\mathrm { s a t } } - \\theta _ { \\mathrm { w p } } } \\right) ^ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta _ { \\mathrm { s a t } }$ 表示土壤饱和含水量 $( \\% )$ ,在前期土壤湿润程度AMC为AMCI的条件下， $\\theta { = } \\theta _ { \\mathrm { w p } } , M { = } 0$ ；相反，在前期土壤湿润程度AMC为AMCIII的条件下， $\\scriptstyle { M = S _ { \\mathrm { I } } - }$ $S _ { \\mathrm { { I I I } } }$ ;在土壤完全饱和的条件下， $s$ 趋于 $0 , M { = } S _ { 1 } ; a$ 和 $b$ 为土壤相关系数； $\\theta _ { \\mathrm { w p } }$ 表示凋萎系数 $( \\% )$ ; $\\theta$ 表示即时土壤湿度 $( \\% )$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = S _ { \\mathrm { { I } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = \\frac { \\ln \\left( 1 - \\frac { S _ { \\mathrm { I I } } } { S _ { \\mathrm { I } } } \\right) } { \\ln \\left( \\frac { \\theta _ { \\mathrm { f c } } } { \\theta _ { \\mathrm { s a t } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { I } } { = } 2 5 . 4 \\times \\left( \\frac { 1 0 0 0 } { \\mathrm { C N _ { I } } } - 1 0 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { _ { \\mathrm { { I I I } } } } = 2 5 . 4 \\times { \\left( { \\frac { 1 0 0 0 } { \\mathrm { { C N } _ { _ { \\mathrm { { I I I } } } } } } - 1 0 } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CN与 $\\mathrm { C N _ { I } }$ 间的转换公式和CN与 $\\mathrm { C N _ { \\mathrm { I I I } } }$ 间的转换公式[22]如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C N } _ { \\mathrm { I } } = \\mathrm { C N } - { \\frac { 2 0 \\times { \\big ( } 1 0 0 - \\mathrm { C N } { \\big ) } } { 1 0 0 - \\mathrm { C N } + \\exp { \\big [ } 2 . 5 3 3 - 0 . 0 6 3 6 \\times { \\big ( } 1 0 0 - \\mathrm { C N } { \\big ) } { \\big ] } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C N } _ { _ \\mathrm { I I I } } = \\mathrm { C N } \\times \\exp \\bigl [ 0 . 0 0 6 7 3 \\times \\bigl ( 1 0 0 - \\mathrm { C N } \\bigr ) \\bigr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\left\\{ \\begin{array} { l l } { \\theta _ { \\mathrm { w p } } } & { P _ { s } < 1 2 . 5 \\operatorname* { m m } \\bigl ( \\mathcal { W } { \\mathbb H } \\mathbb { K } \\not { \\mathbb Z } \\hat { \\geq } } \\\\ { \\theta _ { \\mathrm { w p } } + \\frac { \\theta _ { \\mathrm { f c } } - \\theta _ { \\mathrm { w p } } } { 1 5 . 5 } \\times \\left( P _ { s } - 1 2 . 5 \\right) } & { 1 2 . 5 \\operatorname* { m m } \\leqslant P _ { s } < 2 8 . 0 \\operatorname* { m m } \\bigl ( \\mathcal { W } { \\mathbb H } \\mathbb { K } \\not { \\overset { \\mathcal { Z } \\hat { \\geq } } { \\neq } } \\bigr ) } \\\\ { \\theta _ { \\mathrm { w p } } + \\frac { \\theta _ { \\mathrm { f c } } - \\theta _ { \\mathrm { w p } } } { 1 8 . 0 } \\times \\left( P _ { s } - 3 5 . 5 \\right) } & { 3 5 . 5 \\operatorname* { m m } \\leqslant P _ { s } < 5 3 . 5 \\operatorname* { m m } \\bigl ( \\mathcal { L } \\not { \\leq } \\mathscr { Z } \\bigr ) } \\\\ { \\theta _ { \\mathrm { f c } } } & { P _ { s } \\geqslant 2 8 . 0 \\operatorname* { m m } \\bigl ( \\mathcal { W } { \\mathbb H } \\mathbb { K } \\not { \\overset { \\mathcal { Z } \\hat { \\geq } } { \\neq } } \\bigr ) \\mathrm { o r } P _ { s } \\geqslant 5 3 . 5 \\operatorname* { m m } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { 5 }$ 表示前5d累积降雨量（ $( \\operatorname* { m m } )$ ; $\\theta _ { \\mathrm { f c } }$ 表示田间持水量 $( \\% )$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3模型评价参数选择纳什效率系数 $( E _ { f } )$ 和相关系数 $( r )$ 作为模型有效性检验的依据[23-24]。 $E _ { f }$ 取值区间为 $\\left( - \\infty , 1 \\right) , r$ 取值区间为 $\\left[ - 1 , 1 \\right] , E _ { f }$ 或 $\\boldsymbol { r }$ 的绝对值越接近于1,表明模型预测值更接近于实测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { f } = 1 - \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( \\mathcal { Q } _ { \\circ \\mathrm { b s } i } - \\mathcal { Q } _ { \\mathrm { c a l } i } \\bigr ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( \\mathcal { Q } _ { \\circ \\mathrm { b s } i } - \\mathcal { Q } _ { \\circ \\mathrm { b s } } \\bigr ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\bigl ( Q _ { \\circ \\mathrm { b s } i } - Q _ { \\circ \\mathrm { b s } } \\bigr ) \\bigl ( Q _ { \\mathrm { c a l } i } - Q _ { \\mathrm { c a l } } \\bigr ) } { \\displaystyle \\sqrt { \\sum _ { i = 1 } ^ { n } \\bigl ( Q _ { \\circ \\mathrm { b s } i } - Q _ { \\circ \\mathrm { b s } } \\bigr ) ^ { 2 } \\sum _ { i = 1 } ^ { n } \\bigl ( Q _ { \\mathrm { c a l } i } - Q _ { \\mathrm { c a l } } \\bigr ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 表示降雨场次 $( i { = } 1 , 2 , 3 , \\cdots , n )$ ; $\\mathcal { Q } _ { \\mathrm { o b s } i }$ 和 $\\varrho _ { \\mathrm { o b s } }$ 分别表示第 $i$ 场降雨实测径流量和 $n$ 场降雨平均实测径流量( $\\bf \\Pi _ { \\mathrm { m m } } ^ { ' \\ m u } ,$ ; $\\boldsymbol { \\mathcal { Q } } _ { \\mathrm { c a l } i }$ 和 $\\varrho _ { \\mathrm { c a l } }$ 分别表示第 $i$ 场降雨预测径流量和 $n$ 场降雨平均预测径流量 $\\left( { \\bf m } \\mathbf { m } \\right)$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1研究区气温和降雨特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区2017年年最低气温、年最高气温和年平均气温分别为 $- 2 1 . 0 0 \\ ^ { \\circ } \\mathrm { C } \\ , 3 3 . 8 0 \\ ^ { \\circ } \\mathrm { C }$ 和 $8 . 7 4 ~ ^ { \\circ } \\mathrm { C }$ （图",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)。以试验区47a年均降雨量( $3 8 5 . 7 ~ \\mathrm { m m }$ 和2017年降水距平百分率( $D _ { \\mathrm { p } } { = } 4 . 2 8 \\%$ )为参考标准，2017年总降雨量为 $4 0 2 . 9 \\ \\mathrm { m m }$ ,属于平水年。在径流监测阶段，产生地表径流的降雨次数(20次)占总降雨次数(93次）的 $2 1 . 5 1 \\%$ 。研究区2017年产生地表径流的降雨量介于 $6 . 0 { \\sim } 4 3 . 2 ~ \\mathrm { m m }$ 之间。就2017年降雨分布情况而言， $< 1 0 \\ \\mathrm { m m }$ 降雨次数为82次，降雨量为$1 9 1 . 4 ~ \\mathrm { m m }$ ，占总降雨次数和总降雨量的 $8 8 . 1 7 \\%$ 和$4 7 . 5 1 \\%$ · $1 0 { \\sim } 2 0 ~ \\mathrm { m m }$ 降雨次数为8次，降雨量为122.0$\\mathbf { m } \\mathbf { m }$ ，占总降雨次数和总降雨量的 $8 . 6 0 \\%$ 和 $3 0 . 2 8 \\%$ $\\geqslant$ $2 0 ~ \\mathrm { m m }$ 降雨次数为3次，降雨量为 $8 9 . 5 ~ \\mathrm { m m }$ ，占总降雨次数和总降雨量的 $3 . 2 3 \\%$ 和 $2 2 . 2 1 \\%$ 。试验区降雨事件以 $< 1 0 ~ \\mathrm { m m }$ 小降水事件为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2集雨垄降雨-径流特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据皮尔森(Pearson)相关分析 $( P { < } 0 . 0 1 )$ ，土垄的降雨量与实测径流量间相关系数为 $0 . 9 5 1 { \\sim } 0 . 9 6 6$ ，单倍秸秆炭垄的降雨量与实测径流量间相关系数为 $0 . 9 0 2 { \\sim } 0 . 9 3 8$ ,双倍秸秆炭垄的降雨量与实测径流量间相关系数为 $0 . 8 9 8 \\mathrm { \\sim } 0 . 9 3 0$ （图3)。随生物炭覆盖量增加，降雨量与实测径流量间相关性减弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { M C S } _ { 3 0 }$ 、 $\\mathrm { M C S } _ { 4 5 }$ 和 $\\mathrm { M C S } _ { 6 0 }$ 的径流效率分别为",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff3c5737ba27cdce5785308abceccd49975e56ab05154f65309c480242f1f3ef.jpg",
+        "img_caption": [
+            "Fig.2 Temporal distribution of air temperature and rainfall in 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5ec88aa8af7cd26dd5976cec2243a10162105941385aaf5106afa9a5692cf6a.jpg",
+        "img_caption": [
+            "图22017年气温和降雨量分布",
+            "注：MCS表示土垄;SMB表示单倍秸秆炭垄;DMB表示双倍秸秆炭垄；下标表示垄宽（单位： $\\mathrm { c m }$ ）。图3降雨量和实测径流量相关性",
+            "Fig.3Relevance between rainfall and measured runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 5 . 4 8 \\% . 1 7 . 6 5 \\%$ 和 $1 9 . 8 4 \\%$ ，临界产流降雨量分别为$4 . 3 8 ~ \\mathrm { m m } \\ 、 4 . 1 6 ~ \\mathrm { m m }$ 和 $3 . 9 0 \\ \\mathrm { m m } ; \\mathrm { S M B } _ { 3 0 } \\ . \\mathrm { S M B } _ { 4 5 }$ 和 $\\mathrm { S M B } _ { 6 0 }$ 的径流效率分别为 $1 2 . 8 1 \\% . 1 4 . 5 1 \\%$ 和 $1 6 . 1 4 \\%$ ，临界产流降雨量分别为 $4 . 3 4 ~ \\mathrm { m m } \\ 、 5 . 0 1 ~ \\mathrm { m m }$ 和 $4 . 6 1 \\ \\mathrm { m m }$ $\\mathrm { D M B } _ { 3 0 } \\setminus \\mathrm { D M B } _ { 4 5 }$ 和 $\\mathrm { D M B } _ { 6 0 }$ 的径流效率分别为 $1 0 . 6 7 \\%$ 、$1 2 . 7 8 \\%$ 和 $1 3 . 8 0 \\%$ ,临界产流降雨量分别为 $5 . 3 9 \\mathrm { m m }$ 、$5 . 3 6 \\mathrm { m m }$ 和 $5 . 4 0 ~ \\mathrm { m m }$ 。同一生物炭覆盖量下，求不同垄宽集雨垄的平均径流效率和平均临界产流降雨量，得到MCS、SMB和DMB的平均径流效率分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 7 . 6 6 \\%$ 、 $1 4 . 4 9 \\%$ 和 $1 2 . 4 2 \\%$ ,平均临界产流降雨量分别为 $4 . 1 5 \\ \\mathrm { m m } \\setminus 4 . 6 5 \\ \\mathrm { m m }$ 和 $5 . 3 8 ~ \\mathrm { m m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3模型参数率定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于实测降雨-径流数据，采用穷举法进行模型参数估计。MoCN模型的λ值和CN值高于标准SCS-CN模型(表2)。随集雨垄垄宽增加，标准SCS-CN模型的CN值增加；MoCN模型的CN（CNI或 $\\mathrm { C N } _ { \\mathrm { m } } \\mathrm { \\dot { \\Omega } }$ ）值增加， $S ( S _ { \\mathrm { I } }$ 或 $S _ { \\mathrm { I I I } } \\rangle$ 值减小。对标准SCS-CN模型同一生物炭覆盖量不同垄宽集雨垄的CN值和λ值求",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/188d47396acef05a06ba520e3a18366fdd76198f7944ff0bf5d71fb43139d31a.jpg",
+        "table_caption": [
+            "表2标准SCS-CN模型和MoCN模型参数计算结果",
+            "Tab.2Summary results of parameters based on standard SCS-CN model and MoCN model "
+        ],
+        "table_footnote": [
+            "注;MCS表示土垄;SMB表示单倍秸秆炭垄;DMB表示双倍秸秆炭垄；下标表示垄宽(单位:cm);S表示潜在入渗量； $S _ { \\mathrm { I } } , S _ { \\mathrm { I I I } }$ 表示干旱、湿润土壤对应的最大滞蓄量。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数</td><td colspan=\"2\">标准SCS-CN模型</td><td colspan=\"8\">MoCN模型</td></tr><tr><td>CN</td><td></td><td>CN1</td><td>CN</td><td>CNII</td><td></td><td>a</td><td>S1</td><td>S</td><td>Sm</td></tr><tr><td>MCS30</td><td>84</td><td>0.10</td><td>86</td><td>94</td><td>98</td><td>2.94</td><td>2.82</td><td>42</td><td>16</td><td>6</td></tr><tr><td>MCS45</td><td>85</td><td>0.10</td><td>88</td><td>95</td><td>98</td><td>2.86</td><td>2.82</td><td>35</td><td>13</td><td>5</td></tr><tr><td>MCS60</td><td>85</td><td>0.10</td><td>90</td><td>96</td><td>99</td><td>2.87</td><td>2.82</td><td>28</td><td>11</td><td>4</td></tr><tr><td>SMB30</td><td>78</td><td>0.15</td><td>76</td><td>89</td><td>96</td><td>2.99</td><td>2.78</td><td>79</td><td>31</td><td>11</td></tr><tr><td>SMB45</td><td>84</td><td>0.10</td><td>86</td><td>94</td><td>98</td><td>2.94</td><td>2.80</td><td>42</td><td>16</td><td>6</td></tr><tr><td>SMB60</td><td>84</td><td>0.10</td><td>86</td><td>94</td><td>98</td><td>2.82</td><td>2.81</td><td>42</td><td>16</td><td>6</td></tr><tr><td>DMB30</td><td>78</td><td>0.05</td><td>68</td><td>84</td><td>94</td><td>2.78</td><td>2.78</td><td>117</td><td>48</td><td>18</td></tr><tr><td>DMB45</td><td>83</td><td>0.10</td><td>80</td><td>91</td><td>97</td><td>2.89</td><td>2.79</td><td>64</td><td>25</td><td>9</td></tr><tr><td>DMB60</td><td>83</td><td>0.10</td><td>82</td><td>92</td><td>97</td><td>2.80</td><td>2.80</td><td>57</td><td>22</td><td>8</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "平均值，得到MCS、SMB和DMB的平均CN值分别为85、82和81，平均λ值分别为0.10、0.12和0.08。对MoCN模型同一生物炭覆盖量不同垄宽集雨垄的CN值、值和 $\\boldsymbol { a }$ 值求平均值，得到MCS、SMB和DMB的平均CN值分别为95、92和89，平均λ值分别为2.89、2.92和2.82，平均 $\\scriptstyle a$ 值分别为2.82、2.80和$2 . 7 9$ 。随生物炭覆盖量增加，标准SCS-CN模型的平均CN值减小;MoCN模型的CN值和 $\\alpha$ 值减小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4模拟结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合实测值与预测值间的线性回归分析，实测值和预测值对应点与 $\\scriptstyle { y = x }$ 线间的离散程度采用纳什效率系数和相关系数进行分析(图4)。土垄的实测径流量最高值为 $9 . 9 4 { \\sim } 1 2 . 3 3 ~ \\mathrm { m m }$ ,单倍秸秆炭垄的实测径流量最高值为 $8 . 2 6 { \\sim } 1 1 . 5 0 ~ \\mathrm { m m }$ ，双倍秸秆炭垄的实测径流量最高值为 $8 . 1 2 { \\sim } 1 1 . 2 5 \\ \\mathrm { m m }$ 。在本研究区，各集雨垄产生径流主要以 $< 7 ~ \\mathrm { m m }$ 为主。对于标准SCS-CN模型，在实测径流量和预测径流量 $< 7 ~ \\mathrm { m m }$ 的条件下,实测径流量与预测径流量对应点位于 $\\scriptstyle { y = x }$ 线下方(实测径流量 $\\mathrm { > }$ 预测径流量），偏离 $y = x$ 线的离散程度较低；在实测径流量和预测径流量 $> 7 ~ \\mathrm { m m }$ 的条件下,实测径流量与预测径流量对应点位于 $\\scriptstyle { y = x }$ 线上方(实测径流量 $<$ 预测径流量），偏离 $\\scriptstyle { y = x }$ 线的离散程度较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c118c67440fa573a2d627650827582f694bb2ba2ada127af4dd840712566b15d.jpg",
+        "img_caption": [
+            "注：MCS表示土垄;SMB表示单倍秸秆炭垄;DMB表示双倍秸秆炭垄；下标表示垄宽（单位： $\\mathrm { c m }$ ）。",
+            "图4实测径流量和预测径流量对比",
+            "Fig.4 Contrast of predicted runoff and measured runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用纳什效率系数分析实测径流量和预测径流量间线性相关性；采用相关系数分析实测径流量和预测径流量的比值与1:1（即 $\\scriptstyle { y = x }$ 线)间差异（表3)。实测径流量与2个模型的预测径流量间呈极显著相关性 $( P { < } 0 . 0 1 )$ 。斜率按顺序依次排列为标准SCS-CN模型（a为 $0 . 7 1 { \\sim } 1 . 3 8 ) { > } y { = } x$ 线 $( \\mathrm { a } { = } 1 ) { > } \\mathrm { M o C N }$ 模型(a为 $0 . 7 4 \\sim 0 . 8 1 \\$ ),截距的绝对值按顺序依次排列为标准SCS-CN模型（b的绝对值为 $0 . 3 6 { \\sim } 1 . 5 9 ) >$ MoCN模型（b为 $0 . 6 0 { \\sim } 0 . 9 1 ) { > } y { = } x$ 线 $\\scriptstyle ( \\mathrm { b = 0 }$ ）,MoCN模型的斜率和截距更接近 $\\scriptstyle { y = x }$ 线。在标准SCS-CN模型中，随集雨垄垄宽增加，纳什效率系数和相关系数增加。土垄实测径流量和预测径流量间的纳什效率系数为 $0 . 4 2 \\mathrm { \\sim } 0 . 6 1$ ,相关系数为 $0 . 9 0 4 \\sim 0 . 9 2 9$ ；单倍秸秆炭垄实测径流量和预测径流量间的纳什效率系数为 $0 . 2 4 \\mathrm { \\sim } 0 . 6 0$ ,相关系数为 $0 . 7 5 4 { \\sim } 0 . 9 2 4$ ；双倍秸秆炭垄实测径流量和预测径流量间的纳什效率系数为0.42\\~0.65，相关系数为0.858\\~0.917。随生物炭覆盖量增加，纳什效率系数和相关系数变化不明显。在MoCN模型中，随集雨垄垄宽增加，纳什效率系数和相关系数变化不明显。土垄实测径流量和预测径流量间的纳什效率系数为 $0 . 9 4 { \\sim } 0 . 9 5$ ,相关系数为 $0 . 9 4 4 { \\sim } 0 . 9 6 2$ ;单倍秸秆炭垄实测径流量和预测径流量间的纳什效率系数为0.90\\~0.93，相关系数为$0 . 9 0 5 { \\sim } 0 . 9 5 3$ ；双倍秸秆炭垄实测径流量和预测径流量间的纳什效率系数为0.88\\~0.91，相关系数为0.896\\~0.934。随生物炭覆盖量增加，纳什效率系数和相关系数减小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2327936a87aea044c6839d574e7c9ca5953b83991826b189cea0a3d28c6dc7d1.jpg",
+        "table_caption": [
+            "表3SCS-CN模型和MoCN模型模拟精度",
+            "Tab.3 Simulation accuracy in standard SCS-CN model and MoCN model "
+        ],
+        "table_footnote": [
+            "注： $E _ { \\scriptscriptstyle f }$ 表示纳什效率系数;r表示相关系数;a表示实测径流量和预测径流量线性回归的斜率;b表示实测径流量和预测径流量线性回归的截距。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"4\">SCS-CN</td><td colspan=\"4\">MoCN</td></tr><tr><td>b</td><td>a</td><td>r</td><td>Ef</td><td>b</td><td>a</td><td>r</td><td>Ef</td></tr><tr><td>MCS30</td><td>-1.24</td><td>1.38</td><td>0.904</td><td>0.42</td><td>0.73</td><td>0.80</td><td>0.962</td><td>0.95</td></tr><tr><td>MCS45</td><td>-1.45</td><td>1.36</td><td>0.925</td><td>0.54</td><td>0.75</td><td>0.81</td><td>0.959</td><td>0.95</td></tr><tr><td>MCS60</td><td>-1.59</td><td>1.27</td><td>0.929</td><td>0.61</td><td>0.79</td><td>0.81</td><td>0.944</td><td>0.94</td></tr><tr><td>SMB30</td><td>-0.59</td><td>0.71</td><td>0.754</td><td>0.24</td><td>0.60</td><td>0.76</td><td>0.905</td><td>0.90</td></tr><tr><td>SMB45</td><td>-0.99</td><td>1.33</td><td>0.914</td><td>0.53</td><td>0.91</td><td>0.76</td><td>0.953</td><td>0.93</td></tr><tr><td>SMB60</td><td>-1.19</td><td>1.30</td><td>0.924</td><td>0.60</td><td>0.84</td><td>0.79</td><td>0.951</td><td>0.92</td></tr><tr><td>DMB30</td><td>-0.36</td><td>1.22</td><td>0.858</td><td>0.42</td><td>0.62</td><td>0.74</td><td>0.896</td><td>0.88</td></tr><tr><td>DMB45</td><td>-0.86</td><td>1.33</td><td>0.911</td><td>0.53</td><td>0.80</td><td>0.76</td><td>0.934</td><td>0.91</td></tr><tr><td>DMB60</td><td>-0.85</td><td>1.23</td><td>0.917</td><td>0.65</td><td>0.91</td><td>0.74</td><td>0.929</td><td>0.91</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤类型、水文条件、土地利用方式和前期水分条件影响潜在最大滞蓄量(S)变化，进而影响CN值变化。曹颖等[25]研究坡面水流流速与坡度和流量间的关系，结果表明，受水流势能影响，坡面水流速率随坡度增加而增加，同时，当坡面水流流量较大时，不同坡度水流流速间差异较小。张兴奇等[26]研究表明，在降雨均匀分布的条件下，CN值随坡长增加而增加，随坡度增加变化不明显。本研究中，随集雨垄垄宽增加，坡长增加，径流集水面积增加，CN值增加。吴昱等27发现土壤持水性能随生物炭施加量增加而增强。本研究结果表明，生物炭较大的比表面积和丰富的孔隙结构有助于增强土壤水分渗透性，进而增加前期降雨损失，因此，CN值随生物炭覆盖量增加而减小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "径流曲线数CN值反映流域下垫面单元的产流能力。通常，前期土壤湿度较高(或土壤渗透性较弱)的CN值高于前期土壤湿度较低(或土壤渗透性较强)的CN值。符素华等2研究表明，根据北京径",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "流小区径流资料获得的径流曲线数值高于美国土壤保持局CN值表中查得的CN值。本研究中，根据MoCN模型获得的CN值高于根据SCS-CN模型获得的CN值。在试验区，根据前期土壤湿润程度对产流事件进行划分，前期土壤湿润程度(AMC)为AM-CI、AMCII和AMCIII的产流次数分别占总产流次数的 $5 5 \\%$ 、 $4 0 \\%$ 和 $5 \\%$ ，试验区产流的前期土壤湿润程度以干旱为主。在径流预测过程中，采用干旱前期土壤湿润程度和湿润前期土壤湿润程度的平均值表示SCS-CN模型的前期土壤湿润程度，而采用前5d累积降雨量的连续函数表示MoCN模型的前期土壤湿润程度。在标准SCS-CN模型和MoCN模型中，CN值对应的前期土壤湿润程度值不同，导致CN值产生差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "标准SCS-CN模型建立的基础是美国东部湿润区的水文气象数据和自然地理状况，其应用范围受地域差异、土地利用类型、地形坡度和植被覆盖率等的限制。郭晓军等29通过采用前期影响雨量代替前5d降雨总量确定SCS-CN模型中的前期土壤湿润程度，进而对干热河谷区的降雨产流进行模拟，结果表明，模拟径流量与预测径流量的误差平均值为 $4 . 3 2 \\% \\sim 9 . 5 9 \\%$ ,模拟可信度较高。焦平金等[30]基于递推关系，将前期产流条件概化为前期日降雨量与初损量的函数，进而改进SCS模型，结果表明，在模型验证期，与SCS原模型相比，改进SCS模型的确定系数提高 $2 7 . 0 \\% { \\sim } 3 0 . 0 \\%$ ，纳什系数提高 $1 . 0 \\%$ 2$7 8 . 3 \\%$ 。本研究中，土垄、单倍秸秆炭垄和双倍秸秆炭垄MoCN模型的纳什效率系数较SCS-CN模型分别提高 $5 4 \\% \\sim 1 2 6 \\%$ ） $5 3 \\% { \\sim } 2 7 5 \\%$ 和 $4 0 \\% \\sim 1 1 0 \\%$ ，相关系数分别提高 $2 \\% { \\sim } 6 \\% . 3 \\% { \\sim } 2 0 \\%$ 和 $1 \\% { \\sim } 4 \\%$ 。土垄的MoCN模型有效性表现最好。在土壤结皮形成过程中，受人工拍实、降雨打击和湿润分散作用的影响，表层土的土壤团聚体崩解破碎，最终形成结构致密的薄土层。Neave等[31研究表明，致密结构的表层土壤具有较小的导水率和土壤入渗率，致使径流量增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）随集雨垄垄宽增加，标准SCS-CN模型和  \nMoCN模型的CN值增加;随秸秆炭覆盖量增加，标  \n准SCS-CN模型和MoCN模型的CN值减小。(2）MoCN模型的CN值高于SCS-CN模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）与标准SCS-CN模型相比，土垄、单倍秸秆炭垄和双倍秸秆炭垄的MoCN模型纳什效率系数分别提高 $5 4 \\% \\sim 1 2 6 \\%$ ） $5 3 \\% \\sim 2 7 5 \\%$ 和 $4 0 \\% \\sim 1 1 0 \\%$ ，相关系数分别提高 $2 \\% { \\sim } 6 \\% \\cdot 3 \\% { \\sim } 2 0 \\%$ 和 $1 \\% { \\sim } 4 \\%$ 。改进后的MoCN模型能提高模型模拟精度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]廉陆鹞,刘滨辉.近58a我国西北地区干期与湿期变化特征[J]. 干旱区地理,2019,42(6):1301-1309.[Lian Luyao,Liu Binhui. Change characteristics of dry and wet spels in northwest China during the past 58 years[J].Arid Land Geography,2019,42(6): 1301-1309.]   \n[2]王凤娇,梁伟,傅伯杰,等.近年来的黄土高原耕地时空变化与 □粮安全耕地数量分析[J].干旱区地理,2020,43(1):161-171. [Wang Fengjiao,Liang Wei,Fu Bojie,et al. Spatial and temporal changes of cultivated land and quantitative analysis of ration safe cultivated land on the Loess Plateau in recent years[J]. Arid Land Geography,2020,43(1): 161-171.]   \n[3]杨朝飞.中国土地退化及其防治对策[J].中国环境科学,1997, 17(2):13-17.[Yang Chaofei. Land degradation and its control strategies in China[J]. China Environmental Science,1997,17(2): 13-17.]   \n[4]Li X Y,Gong JD,Wei X H. In-situ rainwater harvesting and gravel mulch combination for corn production in the dry semi-arid region of China[J]. Journal of Arid Environments,20Oo,46(4): 371- 382.   \n[5]Hu Q,Pan F,Pan X,et al.Effcts of a ridge-furrow micro-field rainwater-harvesting system on potato yield in a semi-arid region [J]. Field Crops Research,2014,166: 92-101.   \n[6]张欣,李志涛,陈秋实,等.地膜使用年限对遵义市烟田土壤和 烟叶邻苯二甲酸酯累积的影响[J].应用生态学报,2018,29 (10):3311-3318.[Zhang Xin,Li Zhitao,Chen Qiushi,et al.Effects of mulching duration on PAEs accumulation in soil and tobacco leaves in Zunyi, China[J]. Chinese Journal of Applied Ecology,2018,29(10): 3311-3318.]   \n[7]刘玉学,刘微,吴伟祥,等.土壤生物质炭环境行为与环境效应 [J].应用生态学报,2009,20(4): 977-982.[Liu Yuxue,Liu Wei, Wu Weixiang,et al. Environmental behavior and effect of biomassderived black carbon in soil: A review[J]. Chinese Journal of Applied Ecology,2009,20(4): 977-982.]   \n[8]潘全良,陈坤,宋涛,等.生物炭及炭基肥对棕壤持水能力的影 响[J].水土保持研究,2017,24(1):115-121.[Pan Quanliang, Chen Kun,Song Tao,et al.Influences of biochar and biocharbased compound fertilizer on soil water retention in brown soil[J]. Research of Soil and Water Conservation,2017,24(1):115-121.]   \n[9]王红兰,唐翔宇,张维,等.施用生物炭对紫色土坡耕地耕层土 壤水力学性质的影响[J].农业工程学报,2015,31(4):107-112. [Wang Honglan,Tang Xiangyu,Zhang Wei,et al. Effects of biochar application on tilth soil hydraulic properties of slope cropland of purple soil[J]. Transactions of the Chinese Societyof Agricultural Engineering (Transactions of the CSAE)，2015,31(4): 107-112.]   \n[10] 张光义,夏军,张翔,等.具有空间分布的超渗产流模型[J].人民 黄河,2007,29(12):18- 20.[Zhang Guangyi, Xia Jun,Zhang Xiang,et al.The model of overpermeability yield flow with spatial distribution[J]. Yellow River,2007,29(12): 18-20.]   \n[11] 王瑾杰,丁建丽,张喆,等.干旱区降雨、融雪混合补给下的径流 模拟研究——以博尔塔拉河上游流域为例[J].干旱区地理, 2016,39(6): 1238-1246.[Wang Jinjie,Ding Jianli, Zhang Zhe,et al.Simulation of runoff of arid area with rainfall and snowmelt based on GF-1 satelite: A case of Bortala River[J]. Arid Land Geography,2016,39(6): 1238-1246.]   \n[12] 李盈盈,刘康,胡胜,等.陕西省子午岭生态功能区水源涵养能 力研究[J].干旱区地理,2015,38(3): 636-642.[Li Yingying, Liu Kang,Hu Sheng,et al. Water conservation function of Ziwuling ecologicalarea in ShaanxiProvince[J].AridLand Geography, 2015,38(3): 636-642.]   \n[13]Yuan Y,Nie W,Mccutcheon S C,et al. Initial abstraction and curve numbers for semiarid watersheds in southeastern Arizona[J]. Hydrological Processes,2014,28(3): 774-783.   \n[14] Shi Z H, Chen L D,Fang N F,et al. Research on the SCS-CN initialabstraction ratio using rainfal-runoff event analysis in the Three Gorges Area, China[J]. CATENA,2009,77(1): 1-7.   \n[15]周翠宁,任树梅,闫美俊.曲线数值法(SCS模型)在北京温榆河 流域降雨-径流关系中的应用研究[J].农业工程学报,2008,24 (3): 87-90. [Zhou Cuining,Ren Shumei, Yan Meijun. Application of SCS model to simulate rainfall-runoff relationship in Wenyu River Basin in Beijing[J].Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),2008,24(3): 87- 90.]   \n[16]Mishra S K, Singh VP.A relook at NEH-4 curve number data and antecedent moisture condition criteria[J]. Hydrological Processes, 2010,20(13): 2755-2768.   \n[17] 王永利,侯琼,云文丽,等.基于降水距平的内蒙古地区马铃薯 干旱指标研究[J].干旱地区农业研究,2018,36(3):224-229. [Wang Yongli,Hou Qiong,Yun Wenli,et al. Research on the drought index of potato based on precipitation anomaly in Inner Mongolia[J]. Agricultural Research in the Arid Areas,2O18, 36(3): 224-229.]   \n[18]Soil Conservation Service.National engineering handbook, Section 4: Hydrology[R]. Washington D C: US Department of Agriculture Soil Conservation Service,1972.   \n[19] Mishra S K, Sahu R K,Eldho T I, et al. An improved $I _ { \\mathrm { a } }$ -S relation incorporating antecedent moisture in SCS-CN methodology[J]. Water Resources Management, 2006,20(5): 643-660.   \n[20]Wang X, Shang S,Yang W,et al. Simulation of an agricultural watershed using an improved curve number method in SWAT[J]. Transactions of the ASABE,2008,51(4): 1323-1339.   \n[21]Parasuraman S B,Jain M K,Mishra S K,et al. Enhanced runof curve number model incorporating storm duration and a nonlinear Ia-S relation[J]. Journal of Hydrologic Engineering,2006,11(6): 631-635.   \n[22] Arnold JG,Srinivasan R, Muttiah R S,etal. Large area hydrologic modeling and assessment part I: Model development[J]. Journal of American Water Resources Association,1998,34(1): 73-79.   \n[23]Nash JE,Sutclffe JV. River flow forecasting through conceptual models:PartI.Adisussionofprinciples[J].JoualofHdlogy 1970,10(3): 282-290.   \n[24] 岳健敏,张金池,庄家尧,等.南京毛竹林小流域SCS-CN方法 初损率λ取值研究[J].中国水土保持科学,2015,13(5):9-15. [Yue Jianmin, Zhang Jinchi, Zhuang Jiayao,et al. Calibration of SCS-CN initial abstractionratioof a small watershed in Nanjing bamboo forest[J]. Science of Soil and Water Conservation,2O15,13(5): 9-15.]   \n[25] 曹颖,张光辉,唐科明,等.地表覆盖对坡面流流速影响的模拟 试验[J].山地学报,2011,29(6): 654-659.[Cao Ying, Zhang Guanghui, Tang Keming, et al. Experiment on the effect of simulated surface cover on the overland flow velocity[J]. Journal of Mountain Science,2011,29(6): 654-659.]   \n[26] 张兴奇,徐鹏程,顾璟冉.SCS模型在贵州省毕节市石桥小流域 坡面产流模拟中的应用[J].水土保持通报,2017,37(3):321- 328,333. [Zhang Xingqi, Xu Pengcheng,Gu Jingran.Application of SCS model to simulate runoff in slop field at Shiqiao smal watershed in Bijie City of Guizhou Province[J].Bulletinof Soil and Water Conservation,2017,37(3): 321-328,333.]   \n[27] 吴昱,刘慧,杨爱峥,等.黑土区坡耕地施加生物炭对水土流失 的影响[J].农业机械学报,2018,49(5):287-294.[Wu Yu, Liu Hui, Yang Aizheng,et al.Influences of biochar supply on water and soil erosion in slopping farm-land of black soil region[J]. Transactions of the Chinese Society for Agricultural Machinery,2018, 49(5): 287-294.]   \n[28] 符素华,王红叶,王向亮,等.北京地区径流曲线数模型中的径 流曲线数[J].地理研究,2013,32(5):797-807.[Fu Suhua,Wang Hongye,Wang Xiangliang, et al. The runoff curve number of SCSCN method in Beijing[J].Geographical Research,2013，2(5): 797-807.]   \n[29] 郭晓军,王道杰,庄建琦.SCS 模型在干热河谷区坡面产流模拟 中的应用[J].中国水土保持科学,2010,8(5):14-18.[Guo Xiaojun,Wang Daojie, Zhuang Jianqi. Application of SCS model on simulation of the slope-runoff process in dry-hotvalley[J]. Science of Soil and Water Conservation,2010,8(5):14-18.]   \n[30] 焦平金,许迪,于颖多,等.递推关系概化前期产流条件改进 SCS 模型[J].农业工程学报,2015,31(12):132-137.[Jiao Pingjin, Xu Di, Yu Yingduo,etal. Conceptualizing antecedent runoff condition using recurrence relation to modify SCSmodel[J]. Transactions of the ChineseSocietyof Agricultural Engineering (Transactions of the CSAE),2015,31(12): 132-137.]   \n[31]Neave M,RayburgS.Afieldinvestigationintotheefectsf pr gressive rainfall-induced soil seal and crust development on runoff anderosionrates:Theimpactofsurfacecover[J].Geomorphology, 2007,87(4): 378-390. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Runoff estimation of ridge-furrow rainwater harvesting with maize straw biochar application based on soil conservation service curve number (SCS-CN) model in semiarid regions of China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Xujiao'， WANG Qi'， ZHANG Dengkui'， WANG Xiaoyun',ZHAO Wucheng'， ZHAO Xiaole'， LEI Jun²(1.CollgeofraslandScience,GansuAgriculturalUnivesity/KeyLaboratoryofrassandEcosystem,MinistryofEducation,Lanzhou 730070,Gansu, China;2.Dingxi Meteorological Administration,Dingxi 74300,Gansu, China)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ridge-furrow rainwater harvesting (RFRH) planting is the main rain-fed agricultural technology to adress drought,water loss,and soil erosion in the Loess Plateau of central Gansu Province,China. Selecting suitable runoff estimation can effctively improve the utilization of water resources in this region.This paper analyzes the feasibility of the soil conservation service curve number (SCS-CN) model by considering the ridges with maize straw biochar application as the research object in the RFRH system.The runoff curve number (CN),as a basic input parameter of the SCS-CN model,is significantly affected by the antecedent moisture condition (AMC).The CN values,as categorical variables of three AMCs,do not consider the dynamic processof soil moisture between drought and wetness resulting in unreasonable sudden jumps in runoff estimation for the original development of the SCS-CN model.Thus,the modified curve number (MoCN) method proposed by Wang has been made to correct CN value based on continuous function between CN and AMC.The results showed that: (1） The CN values for the MoCN model is higher than the CN values for the SCS-CN model because the AMC value of the MoCN model is diffrent from the SCS-CN model. (2)The runoff discharge measured and estimated by the MoCN model achieved relatively better agreement.Compared with the standard SCS-CN model,the Nash-Sutelife coefficient $( E _ { f } )$ of the MoCN model increased from $40 \\%$ to $2 7 5 \\%$ ,and the correlation coefficient $( r )$ of the MoCN model increased from $1 \\%$ to $20 \\%$ .Thus, the runoff estimation by the MoCN model is more reasonable and feasible in the RFRH system.This study provides a reference for an effcient utilization of water resources and soil and water conservation in this region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: SCS-CN model; modified curve number method; soil conservation service curve number； initialabstraction ratio； biochar",
+        "page_idx": 9
+    }
+]

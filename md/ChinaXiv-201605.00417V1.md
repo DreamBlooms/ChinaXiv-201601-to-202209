@@ -1,0 +1,100 @@
+# Shade-induced stem elongation in rice seedlings: Implication of tissue-specific phytohormone regulation
+
+Summary A better understanding of shade avoidance syndrome (SAS) is an urgent need because of its effect on energy reallocation. Leverage-related mechanism in crops is of potential economic interest for agricultural applications. Here we report the SAS phenotype at tissue level rice seedlings. Tissue-specific RNA-sequencing indicates auxin plays different roles between coleoptile and the first leaf. Phenotypes of wild type treated by gibberellin and brassinosteroid biosynthesis inhibitors and of related mutants suggest these two hormones positively regulate SAS. Our work reveals the diversity of hormone responses in different organs and different species in shade conditions.
+
+Plants growingat high density experience a low red to far-red light ratio (R/FR) and a reduction in the amount of photosynthesis active radiation (PAR,between $4 0 0 \mathsf { n m }$ and $7 0 0 \mathsf { n m } ,$ ，which triggers a series of physiological changes termed a shade-avoidance response or syndrome (SAS).A common phenotype of SAS is out-growing neighborhoods while deprioritizing of harvestable organs，which would compromise the yield of crops (Franklin and Whitelam 2005).The detailed phenotypes and mechanisms of SAS have been mainly characterized in dicots (Arabidopsis,Brassica rapa,tobacco,tomato etc.)(Tao et al.2oo8; Casal 2o13; Procko et al.2o14)；however，little information in this regard is available in monocots (Kebrom and Brutnell 2oo7). Rice,as the primary staple for more than half the world's population,is of economic interest to plants in high density. Here we examined SASin coleoptile, the first leaf,the second leaf sheath and the shoot of rice seedlings.The results from experiments: (i) Gene Ontology(GO） enrichment analysis of shade regulated genes based on tissue-specific RNA-sequencing data;(ii) phenotype of seedlings treated by the inhibitor of auxin transporter,the inhibitors of GA and BR biosynthesis; and (ii) phenotype of GA- and BR-related mutants under shade,indicate GA and BR are positively involved in SAS of all aerial parts,but auxin plays different roles in coleoptile and the first leaf.
+
+Rice has three phytochrome genes (PHYA,PHYB and PHYC) in the genome (Takano et al.2oo5). It has been reported that the lamina joint inclination of rice seedlings increased in reduced R/FR condition and OsphyB acts as a sole photoreceptor in this response (Shin and Park 2014). Here,we monitored the length of coleoptile,the first leaf, the second $( 2 ^ { \mathsf { n d } } )$ leaf sheath and the shoot of rice seedlings grown under shade conditions (low R/FR and low PAR).Rice wild-type seeds (Oryza sativa L.cv.Nipponbare) were grown on semi-solid ( $( 0 . 4 \%$ agar in water) under continuous white light for 1 d，and then maintained in white light or transferred to shade for 4 d.Compared with white lightgrown seedlings,the lengths of coleoptile were increased by $9 7 \%$ in shade.The increased elongation were also observed on the first leaf (by $6 9 \%$ ),on the second leaf sheath (by $5 8 \%$ 0 and the shoot (by $4 2 \%$ ）after 4 d shade (Figure 1A).The similar phenotypes of T65 and Zh11 seedlings under shade are shown in Figure S1.
+
+To dissect the effect of low PAR and low R/FR on growth, we detected the phenotype of wild type seedlings under white light (high R/FR) with the reduced PAR levels (Figure S2).The change in light quality (R/FR） appears predominant for SAS phenotype under our conditions.We also found the length of coleoptile increased in response to decreased R/FR (o.9，o.67 and o.33)at the same PAR (Figure S3).
+
+Transcriptional studies have been used to discover the mechanism of SAS.In order to figure out the tissue-specific mechanism in rice，we collected coleoptiles and the first leaves separately from the seedlings treated by1h shade or white light for RNA sequencing. There are 251 shade upregulated and 1,257 downregulated genes (Fold Change $> 2$ $\begin{array} { r } { P < 0 . 0 1 \dot { } . } \end{array}$ )in coleoptiles (Table S1) and 276 shade induced and 464 repressed genes in the first leaves (Table S2; Figure 1B).Only 14 shade induced genes and 95 shade repressed genes are overlapped in two tissues.Gene ontology (GO）analysis shows“unidimensional cell growth”and “gibberellin biosynthetic process"are enriched in both shade upregulated genes of coleoptiles and the first leaves. Interestingly，“response to auxin stimulus”related genes appear repressed in coleoptiles but induced in the first leaves (Figure 1B; Tables S3,4), indicatinga tissue-specific regulation of auxin.
+
+Phytohormones such as auxin，gibberellins and brassinosteroids have been reported to facilitate shade induced hypocotyl elongation in Arabidopsis (Casal 2o13). But the regulations of these hormones by shade in rice remain unexplored.To verified RNA-sequencing data (Table S5),we detected the expression levels of auxin responsive genes (OslAA20 and $\cos \mathsf { G H } 3 ; 1 ,$ )，GAbiosynthetic genes (OsGA200x1 and OsGA20ox2） and BR responsive genes(OsDWARF and OsBRl1) after1h shade treatment in coleoptilesand the first leaves (Figure 1C).Consistent with that in Arabidopsis,the inductions of GA biosynthesis genes (OsGA2oox1 and OsGA2oox2） and the transcriptional regulations of BR responsive genes (OsDWARF and OsBRl） indicatean enhanced GA and BR response under shade in both tissues of rice seedlings.While BR related GO terms didn't show up in the web based GO enrichment analysis,when we picked up a cluster of rice putative BR responsive genes based on homology from our RNA-sequencing dataset (Vriet et al. 2015）(Table S6)，significant induction of these genes in shade suggested the increased BR response in coleoptiles
+
+A (u) yu 15- 69% \*\*\* 30 40 5% 50 40 42% \* B Upregulated genes Downregulated genes 工 30 工 10 20 20 (94.37) 26.%) 12.479.5%) 2 5 10- 10 ColeoptileThe first leaf Coleoptile The first leaf   
+C WLSH Coleoptile The first leaf The 2nd Leaf10 Shoot   
+0.0020 0.0025 0.0008 .01shah 0.5 1.5 四 GO term P-value 心 三 \* 020 H \*\*\* 三 7   
+1 0.010 0.005 \*\* 105 cotdeelee <1.0E-04 0.0005- 1.5E-02 2.5E-02   
+0.0000OSIAA20 OsGH3;1 OsGA200X1 OsGA200X2 OsDWARFOsBRI1 Regulationof meristem growth 3.4E-02   
+1 0.0020 0.00025 0.015] 1 0.4 Re -0 \*\*\*0.0015- 0.00020 10.0010 0.2 0.3 工 rltsegere Up Unidimensional cell growth 2.9E-02 0.00015- Response to stress <1.0E-04 0.0010- 0.2 DownTranscription 6.0E-04 0.000 0.0005 0.1 S 工 0.0005- 0.1 西   
+0.000OsIAA20 OsGH3;1 OsGA200X1OSGA200X2 OSDWARFOSBRI1   
+D Air_NPAPAC PCZ Air NPA PAC PCZ Eeui Zh11 euiZh11 Eui-OXTP309Eui-OXTP309d61-1 T65 d61-1T65 WL SH WL SH WL SH WL SH   
+T \* 前 6 m 中 59% 56% 62% 86% □ 54% CH 0 bC b b 明 C 1 王 5 54   
+5I 0 34% 2 A F 5046 5 2 \*\*\* 3% 5 3020 70\*\* dH 5 C 65 3%e 1 % 2 \* f A   
+10 0 0 0 0   
+Air NPA PAC PCZ Air NPA PACPCZ eui + 65 BUl T6 公
+
+and the first leaves (Figure S4, $\mathsf { \Pi } _ { P < 0 . 0 5 } ^ { P < }$ ).Moreover，the expression of cell wall organization gene OsXTH24 encoding xyloglucan endotransglycosylase is also induced by shade (Figure S5)，consistent with the elongation growth in coleoptiles and the first leaves.
+
+Despite being induced in the first leaves of rice,as that in Arabidopsis， the expression of OslAAs and OsGH3;1is unchanged in coleoptiles after shade treatment, confirming the tissue-specific regulation of auxin.
+
+To further confirm the effects of auxin,GA and BR on shade induced stem elongation,we cultured rice seedlings withNPA (1-N-Naphthylphthalamic acid，an auxin polar transport inhibitor),PAC(Paclobutrazol,a GA biosynthesis inhibitor) and PCZ (Propiconazol,a BR biosynthesis inhibitor)(Figure 1D).After NPA treatment,the aerial parts of seedlings grow in a curly manner and the roots lose gravitropism as previously reported.While NPA treatment increases coleoptile length,it has little effect on the first leaf elongation but decreases the length of the second leaf sheath and the shoot under both white light and shade. Compared to the mixed response by NPA treatment,PACand PCZ-treatment uniformly suppressed shade induced elongation of coleoptile，the first leaf，the second leaf sheath and the shoot,suggesting the positive role of GA and BR in SAS.This is consistent with that brassinosteroid biosynthesis inhibitor brassinozol decreases the shade response on lamina joint inclination (Shin and Park 2014). The supplement of $\mathsf { G A } _ { 3 }$ can rescue the effect of PAC on coleoptile under shade (Figure S6),confirmed GA is required for shade-induced elongation response in rice.
+
+We also verified the function of GA and BR in shade using genetic mutants.It has been reported that Eui gene,a P450 monooxygenase that inactivates GAs，is involved in GA homeostasis at the seedling stage (Zhu et al.2oo6).eui mutants exhibit elongated phenotypes due to accumulation of $\mathsf { G A } _ { 1 }$ and $\mathsf { G A } _ { 4 }$ and the Eui-OX plants are dwarf.When we grew them in shade,eui mutants displayed the enhanced shade-induced elongation compared with wild type Zh11 on the first leaf,the second leaf sheath and the shoot;Eui-OX seedlings exhibited the reduced elongation growth on all aerial parts after shade treatment compared with wild type TP309 (Figure 1E).The positive effect of BR is confirmed by rice BR-hyposensitive mutant d61-1 (a BR receptor mutant) (Yamamuro et al.2ooo).When growing in shade,d61-1exhibits shorter coleoptile,the first leaf, the second leaf sheath and the shoot compared to wild type control T65 (Figure 1E). Statistical analysis of the percentage increase by shade compared to wild type reveals defective shade response in most aerial parts except in the first leaf.
+
+Auxin,as we have seen in previous studies,plays a major role in SAS in the model dicot,Arabidopsis (Tao et al.2oo8). However, the expression levels of selected auxin responsive genes are not increased in rice coleoptile by shade treatment (Figure 1B,C). Together with the effect of NPA on coleoptile (Figure 1D), it is possible that auxin functions differentially between coleoptile in riceand hypocotyl in Arabidopsis under shade.The growth inhibitions by NPA are shown in the second leaf sheath and the shoot.The effects of NPA are largely dependent on where auxin isgenerated and transported to.This compartment-specific effect warrants more research for insights.
+
+The crosstalk between light and hormones has been studied in rice seedlings.OsphyBacts as a negative regulator of BL-regulated growth (Jeong et al.2oo7) and mediates the repression of GA biosynthesis capacity (Hirose et al.2012). Whether the shade phenotype is due to endogenous hormone biosynthesis or hormone signaling sensitivity,exogenous application of hormone on the hormone biosynthesis mutants may help.
+
+In the present study,we characterized the phenotypes of SAS in rice seedlings and investigated the possible functions of phytohormones (auxin,GA and BR) under shade.We show GA and BR signals contribute to shade induced stem elongation and the role of auxin may vary in different tissues.
+
+It is known that GA biosynthesis inhibitors can be used to form compact seedlings in farming technology.Our results propose potential novel applications of the inhibitors to dampen SAS.
+
+# ACKNOWLEDGEMENTS
+
+We thank Dr. Zuhua He (Institute of Plant Physiology and Ecology, Chinese Academy of Sciences) for kindly giftof eui and Eui-OX and Dr. Xuelu Wang (Huazhong Agricultural University) for the seeds of d61-1. This work was supported by National Natural Science Foundation of China Grants 3147o374，the Shanghai Pujiang Talent Program (14PJ14oo8oo),a start-up grant from Fudan University to L.L.
+
+Huihui Liu, Chuanwei Yang and Lin Li\* 'State Key Laboratory of Genetic Engineering, Institute of Plant Biology, School of Life Sciences,Fudan University, Shanghai 200433, China \*Correspondence: linli@fudan.edu.cn
+
+(A)Phenotypesof wildtypericeseedlings grownunderwhitelightandshadecondition.Whitearrowhead points tothenodeof coleoptile.Thearrowheadswiththediferentcolorindicatetheendof thecoleoptile (purple),thefirstleaf(green),thesecond leaf sheath (blue) and the shoot (red).White scale bar $= 1 0 \mathsf { m m }$ .The percentage of increase by shade is listed above the column. (B)The numbersandGOanalysisofdiferential expressed genes incoleoptilesand thefirst leaves.(C) Expresion levelof hormonerelated genes regulatedbyshadeincoleoptiles(toppanel)andthefirstlaves (bottompanel)byqRT-PCR.(D)Effects of NPA,PACand PCZ onshade induced growth.Bars marked with different letters denote significantdiferences( $\lceil P < 0 . 0 5 )$ of the meansof the length.The significant diferences on the percentage increase by shade compared inair condition is shown as asterisks.White scale bar $= 1 0 \mathsf { m m }$ .(E) Phenoypes of eui (Zh11 is wild type cultivar),Eui-OX ( $\mathsf { T P 3 0 9 }$ is wild type cultivar) and $d 6 1 – 1$ (T65 is wildtypecultivar)under white light and shade.Bars marked with diferent leters denote significant differences $\left( P < 0 . 0 5 \right)$ of the means of thelength.The significant diferenceson the percentage increase byshade compared to wild type is shown as asterisks. $^ { * } P < 0 . 0 1$ ， $^ { * * } P < 0 . 0 5$ and $^ { * * * } P < 0 . 0 0 1$ ,calculated by student's t-test.White scale bar $= 1 0 \mathsf { m m }$ ，
+
+Keywords:Auxin; BR; GA; rice seedlings; shade avoidance response
+
+Citation: Liu H, Yang C, Li L (2o16). Shade-induced stem elongation in rice seedlings:Implication of tissue-specific phytohormone regulation.J Integr Plant Biol XX:XX-XX doi: 10.1111/jipb.12468 Edited by:Minami Matsui,Genomic Sciences Center,Riken, Japan Received Jan.18,2016;Accepted Feb.16,2016
+
+Available online on Feb.17,2o16 at www.wileyonlinelibrary.com/ journal/jipb $\mathfrak { O }$ 2016 Institute of Botany,Chinese Academy of Sciences
+
+# AUTHOR CONTRIBUTIONS
+
+H.L.detected the phenotype of rice seedlings. C.Y.performed RNA-sequencing analyses.L.L. designed the experiment, supervised the study,drafted and revised the manuscript.
+
+# REFERENCES
+
+Casal JJ(2o13) Photoreceptor signaling networks in plant responses to shade. Annu Rev Plant Biol 64: 403-427   
+Franklin KA,Whitelam GC (2oo5) Phytochromes and shade-avoidance responses in plants. Ann Bot 96: 169-175   
+Hirose F,Inagaki N,Hanada A,Yamaguchi S,Kamiya Y，Miyao A, Hirochika H,Takano M (2o12） Cryptochrome and phytochrome cooperatively but independently reduce active gibberellin content in rice seedlings under light irradiation.Plant Cell Physiol 53: 1570-1582   
+Jeong DH，Lee S，Kim SL，Hwang I，An G (2oo7） Regulation of brassinosteroid responses by phytochrome B in rice.Plant Cell Environ 30: 590-599   
+Kebrom TH, Brutnell TP (2oo7) The molecular analysis of the shade avoidance syndrome in the grasses has begun.J Exp Bot 58: 3079-3089   
+Procko C,Crenshaw CM,Ljung K,Noel JP,Chory J(2o14) Cotyledongenerated auxin is required for shade-induced hypocotyl growth in Brassica rapa. Plant Physiol 165: 1285-1301   
+Shin J,Park PB (2o14) Shade avoidance and the regulation of leaf inclination in rice. Rapid Commun Photosci 3: 53-55   
+Takano M, Inagaki N,XieX,Yuzurihara N,Hihara F,Ishizuka T,Yano M, Nishimura M,Miyao A,Hirochika H,Shinomura T(2oo5) Distinct and cooperative functions of phytochromes A,B,and C in the control of deetiolation and flowering in rice.Plant Cell17:3311-3325   
+Tao Y,Ferrer JL,Ljung K,Pojer F,HongF,Long JA,LiL,Moreno JE, Bowman ME，Ivans LJ，Cheng Y，Lim J，Zhao Y，Ballare CL, Sandberg G, Noel JP,Chory J(2oo8) Rapid synthesis of auxin via a new tryptophan-dependent pathway is required for shade avoidance in plants.Cell 133: 164-176   
+Vriet C,Lemmens K,Vandepoele K,Reuzeau C,Russinova E(2o15) Evolutionary trails of plant steroid genes.Trends Plant Sci 2o: 301-308   
+Yamamuro C,Ihara Y，Wu X,Noguchi T,Fujioka S,Takatsuto S, Ashikari M, Kitano H,Matsuoka M (2ooo) Loss of function of a rice brassinosteroid insensitive1 homolog prevents internode elongation and bending of the lamina joint. Plant Cell12: 1591-1606   
+Zhu Y, Nomura T, Xu Y, Zhang Y,Peng Y, Mao B, Hanada A, Zhou H, Wang R,Li P,Zhu X,Mander LN,Kamiya Y,Yamaguchi S,He Z (2006)ELONGATED UPPERMOST INTERNODE enCOdeS a cytochrome P45o monooxygenase that epoxidizes gibberellins in a novel deactivation reaction in rice. Plant Cell18: 442-456
+
+# SUPPORTING INFORMATION
+
+Additional supporting information may be found in the online version of thisarticle at the publisher's web-site.
+
+# Supplemental experimental procedures
+
+Figure S1. Phenotypes of T65 and Zh11 grown under white light and shade condition   
+White arrowhead points to the node of coleoptile.The arrowheads with different colors indicate the end of the coleoptile (purple)，the first leaf (green), the second leaf sheath (blue) and the shoot (red).White scale bar $\circeq$ 10mm.The percentage of increase by shade is listed above the bars. Figure S2. Phenotypes of wild type rice seedlings grown under white light with different PAR levels and shade conditions Whitearrowhead points to the node of coleoptile.Thearrowheads with the different color indicate the end of the coleoptile (purple),the first leaf(green),the secondleaf sheath(blue)and the shoot (red).White scale bar $= 1 0 \mathsf { m m }$ .The PAR levels are listed above the pictures.Shade condition: Red, $1 6 \mu \mathsf { E } \cdot \mathsf { m } ^ { - 2 } \cdot \mathsf { s } ^ { - 1 }$ ： Far Red, $4 8 \mu \mathsf { E } \cdot \mathsf { m } ^ { - 2 } \cdot \mathsf { s } ^ { - 1 }$ ；Blue, $1 . 3 { - } 1 . 5 \mu \mathsf { E } \cdot \mathsf { m } ^ { - 2 } \cdot \mathsf { s } ^ { - 1 }$   
+Figure S3. Phenotypes of wild type rice seedlings grown under white light and shade with different R/FR conditions   
+The arrowheads indicate the end of the coleoptile.White scale bar $\scriptstyle \mathbf { \bar { \Gamma } } = \mathbf { \bar { \Gamma } }$ 10mm.The ratio of R/FR is listed above the pictures.The percentage increase by shade is listed above the dots in line chart. Figure S4. Boxplot represents the expression level of BR responsive genes in coleoptiles and the first leaves with or without shade treatment (the expression level are shown in Table S6) Significant difference was calculated by t-test between white light and shade samples.   
+Figure S5. Expression level of OsXTH24 in coleoptiles and the first leaves by qRT-PCR   
+Figure S6. Phenotypes of wild type rice seedlings grown with different concentrations of PAC and $\mathsf { G A } _ { 3 }$ （204号   
+The arrowheads indicate the end of the coleoptile.White scale $\mathsf { b a r } = 1 0 \mathsf { m m }$ . The concentrations of PAC and $\mathsf { G A } _ { 3 }$ are listed above the pictures.The percentage increase by shade is listed above column in histogram.   
+Table S1. The expression levels of differentially expressed genes in coleoptile after1 h shade treatment   
+FPKMs (Fragments per kilobase of exon per million fragments mapped) were listed.   
+Table S2. The expression levels of differentially expressed genes in the first leaf after 1 h shade treatment   
+FPKMs (Fragments per kilobase of exon per million fragments mapped) were listed.   
+Table S3. Over-represented GO terms of differentially expressed genes in coleoptile after1h shade treatment (Terms with $\mathsf { P } < 0 . 0 5$ are shown)   
+Table S4. Over-represented GO terms of differentially expressed genes in the first leaf after1h shade treatment (Terms with $\mathsf { P } < 0 . 0 5$ are shown)   
+Table S5.The expression levels of examined genes in Figure 1C based on RNA-sequencing data   
+FPKMs (Fragments per kilobase of exon per million fragments mapped) were listed.   
+Table S6. The expression levels of BR-related genes in coleoptile and the first leaf after1h shade treatment   
+FPKMs (Fragments per kilobase of exon per million fragments mapped) were listed.   
+Table S7.The primers used in this study

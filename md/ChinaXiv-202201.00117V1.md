@@ -1,0 +1,200 @@
+# 青藏高原东北侧暴雨数值模式预报空间误差特征
+
+张君霞，孔祥伟，刘新伟，王勇(兰州中心气象台，甘肃 兰州 730020)
+
+摘要：利用2019—2020年5—9月 ECMWF(European Center for Medium-Range Weather Forecast）、GRAPES-GFS（中国气象局GRAPES全球数值预报业务系统,Global/Regional Assimilation and Prediction System-Global ForecastSystem)大尺度数值模式36h预报时效的 $2 4 \mathrm { h }$ 降水量预报和加密降水观测资料,基于CRA空间检验技术识别、分离青藏高原东北侧暴雨目标(ECMWF模式18个,GRAPES-GFS模式11个),定量分析了两种模式对暴雨预报的空间误差(落区、强度和形态误差)特征，总结大尺度数值模式在青藏高原东北侧暴雨预报中的适用性。结果表明：(1)两种模式的降水预报形态误差占比均最大。ECMWF预报的强度误差占比最小,落区误差次之,而GRAPES-GFS的落区误差占比最小,强度误差次之。（2）两种模式预报的暴雨落区位置均较实况偏西偏北。暴雨大值中心ECMWF偏西偏南,而GRAPES-GFS仅偏西。（3）对暴雨雨区面积的预报两种模式均明显偏小,容易造成暴雨漏报，对最大降水量和平均雨强的预报GRAPES-GFS模式均偏弱超过 $4 0 \%$ ,ECMWF预报的平均雨强偏弱 $1 1 . 4 9 \%$ ,最大降水量偏强$1 . 4 7 \%$ 。（4）两种模式对甘肃陇东南地区和陕西西南部的暴雨预报效果较好,而对陕北及宁夏等偏北地区的预报效果较差。
+
+关键词：CRA；空间误差；暴雨；青藏高原东北侧
+
+降水预报是现代天气预报的重要业务之一，数值预报为降水预报提供最有价值的参考，但由于模式设计等本身原因及地形等外部因素，模式输出的降水等预报产品在时空分布上均有一定的误差，因此，通过检验和评估模式性能为预报员订正模式预报提供背景误差信息[1]。点对点的常规天气检验方法（如TS评分和ETS评分)对降水落区和时间较为敏感，存在"双重惩罚"现象[2-3],同时也会掩盖一些对预报员订正模式预报有参考价值的信息[4-5],无法对业务预报中关注的降水强度、范围大小及雨带落区等属性给出定量检验结果，也无法定量分析预报误差来源[5-6]。为了获取更详细的模式预报偏差信息,气象学者相继开发了CRA（Contiguous Rain Ar-ea）、SAL（Structure Amplitude Location）、MODE(Method for Object-based Diagnostic Evaluation）等多种基于目标属性的空间检验方法[2.4.7-12]。SAL空间检验方法以某一范围内识别的降水为目标，定量检验降水目标的强度（Amplitude,A）、位置(Location,L）、结构(Structure,S)误差，该方法中强度、位置和结构3个分量是相对的度量，且分离这3个分量的方法具有一定的主观性[1]。MODE方法在一定区域内识别、分离实况和预报降水场中的目标对象，比较两个场中目标对象的空间属性，在此基础上计算目标对象的相似度特征，最终获得实况和预报场的总体空间相似度特征4，但MODE方法会因平滑半径、滤波阈值等因素导致评估结果出现差异，可能会引起一定评估误导问题[13]。CRA方法将总体误差分解为强度、落区及形态误差，提供模式预报误差信息来源，具有明确的天气学检验意义。
+
+CRA方法在国内外被广泛用于模式降水预报和雷达邻近降水预报检验[14-20]。Sharma等[15]利用空间检验技术评估了UM(MetOfficeUnifiedModel)模式的预报偏差，发现模式对小量级降水预报能力强，对较大量级降水的预报能力较差，且随着降水量级的增大，位移误差增大。 $\mathrm { Y } \mathrm { u }$ 等[19]同样发现随着降水量级增大，模式预报能力减弱，在强降水预报中，形态误差最大，位移误差次之，此发现与符娇兰等[17]利用CRA空间检验技术对我国西南地区东部强降水 的 ECMWF（European Center for Medium-RangeWeatherForecast)预报的检验结果相似。王新敏等[18]通过对2018年8月3次登陆台风暴雨过程的多模式检验发现，CRA方法能更全面详细的评估模式的误差来源，且大部分模式预报降水个体的误差主要来源于位移误差。
+
+青藏高原东北侧是东亚夏季风北边缘过渡带[21-22],受东亚夏季风系统、西风带天气系统和高原天气系统的共同影响,是气候变化的敏感区[23-25]降水量年内分布极不平衡2，雨季降水量变化主要是由强降水变化引起[27]，发生在7一8月的暴雨占全年总次数的 $6 3 \% ^ { [ 2 8 ] }$ ,暴雨发生与该地区复杂地形或局地小气候密切相关[29]。近些年来随着大尺度数值模式预报性能的不断提升，模式对降水的预报能力也有提高，但对降水量的预报能力随着降水量级的增加而减弱,对强降水的预报受地形影响明显[1.30-31],且模式对降水强度和落区的预报误差也较大。本文利用基于目标属性的CRA空间检验技术，开展ECMWF和中国气象局GRAPES全球数值预报业务系统(GlobalForecast System)两种大尺度数值模式对青藏高原东北侧暴雨预报的空间偏差检验及分析，重点分析模式预报的落区误差、强度误差以及模式对暴雨的预报倾向，以期为预报员提供模式预报较详细的评估结果，从而有针对性的订正模式预报，同时为模式研发提供有价值的模式降水预报偏差信息。
+
+# 1数据与方法
+
+# 1.1数据来源与处理
+
+基于目前气象业务中的应用情况及资料的完整性，对ECMWF和GRAPES-GFS模式 $2 0 \mathrm { ~ h ~ }$ 起报的$3 6 \mathrm { h }$ 预报时效的 $2 4 \mathrm { h }$ 累积降水量在青藏高原东北侧$( 3 2 ^ { \circ } { \sim } 4 0 ^ { \circ } \mathrm { N } \mathrm { , } 1 0 0 ^ { \circ } { \sim } 1 1 1 ^ { \circ } \mathrm { E } )$ 的预报空间误差进行分析。为了减少模式版本升级对预报性能评估的影响，选用2019—2020年5—9月ECMWF和GRAPES-GFS两种模式降水预报数据，降水观测资料采用兰州中心气象台提供的同时段的自动站(基准站、基本站和一般站)和区域自动站 $2 4 \mathrm { ~ h ~ }$ 累积降水数据。ECMWF和GRAPES-GFS模式的分辨率分别为 $0 . 1 2 5 ^ { \circ } \times$ $0 . 1 2 5 ^ { \circ }$ 和 $0 . 2 5 ^ { \circ } { \times } 0 . 2 5 ^ { \circ }$ ,采用基于变分技术的客观插值方法[32]将GRAPES-GFS模式预报数据和实况观测站点数据统一插值为 $0 . 1 2 5 ^ { \circ } \times 0 . 1 2 5 ^ { \circ }$ 的网格数据，通过实例分析表明该方法具有较好的插值结果，能够满足客观分析中准确性和平滑性的要求[30]
+
+# 1.2 研究方法
+
+CRA方法是一种基于目标的定量降水检验方法，将连续雨区(ContiguousRainArea,CRA)作为目标进行检验[2]。检验目标由某一等值线为边界的单个降水目标或雨带而非整个降水场，因此，能够帮助预报员更好的理解模式预报误差来源[2.18]。该方法首先对一定区域内的降水场用某一降水阈值来定义连续雨区，然后计算CRA范围内预报和实况的降水质心、面积、平均降水强度等统计量。定义模式预报总误差为原始预报与实况偏差平方和的平均值，平移后的误差为平移后预报与实况偏差平方和的平均值，为了分析模式预报误差的来源，将预报雨区按照预报与实况之间均方根误差最小进行平移，得到平移后的预报雨区。由此，可将模式总误差分解为强度误差、形态误差和位移误差，其计算方法分别为：强度误差为平移后的模式平均降水强度减去实况降水平均强度的平方，位移误差为总误差减去平移后的误差，形态误差为平移后的误差减去强度误差，具体计算方法见参考文献[2.17」。
+
+# 1.3暴雨天气过程和有效CRA
+
+青藏高原东北侧发生区域性暴雨过程较少，规定该地区 $2 4 \mathrm { h }$ 累积降水量达到暴雨及以上量级降水 $\left[ \geqslant 5 0 \mathrm { \ m m } \cdot ( 2 4 \mathrm { h } ) ^ { - 1 } \right] ^ { - } .$ 的自动站和区域自动站超过30站的即为一次区域性暴雨天气过程。按此标准进行筛选，2019—2020年5—9月该地区共有37次暴雨天气过程(表1)。基于这些暴雨天气过程，采用CRA检验技术识别降水目标。考虑到青藏高原东北侧暴雨受地形等因素影响暴雨点相对分散28，同时大尺度数值模式对局地暴雨的预报能力有限[30-31]，对暴雨连续雨区进行识别和分离时 $\geqslant 5 0 \ \mathrm { m m }$ 以上量级的连续雨区范围不宜过大也不宜过小，此处要求连续暴雨区覆盖范围超过 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 时为一个有效CRA。在识别出的CRA范围内计算和分析实况观测和模式预报降水的暴雨质心、面积、平均雨强、最大降水量以及总降水量误差，并分析平移CRA后实况和预报的空间误差，重点分析强度误差和平移误差。图1给出了2019年6月4日08:00至5日08:00发生在青藏高原东北侧的一次区域性暴雨天气的实况、ECMWF预报的 $2 4 \mathrm { h }$ 累积降水和识别的CRA，以此说明CRA识别、分离和平移过程。主观上可以看出暴雨以上量级雨带主要位于甘肃陇东南地区的东南部，模式预报降水较实况偏西偏北(图1a)，识别和分离的观测场和预报场的有效CRA如图1b所示(填值"3”），整体结果与主观分析一致。将EC-MWF预报降水按均方根误差最小的标准向东向南平移后，模式预报降水更接近实况观测(图1c）。
+
+ECMWF和GRAPES-GFS两种模式分别识别出18个和11个有效CRA(表1)，部分暴雨天气过程无有效CRA，主要由3种情况导致，一是模式对于暴雨漏报，ECMWF漏报了4次，约占总过程数的 $1 1 \%$ ，GRAPES-GFS模式漏报了11次，约占 $3 0 \%$ ；二是模
+
+(a)预报和实况暴雨区 (b)识别的CRA (c)预报东移后预报和实况暴雨区 102E 106E 110E 102E 106E 102E 106E 110E 3304 33833035090 300380990 300 380350 200 38 930 1 304 3383370353900 1 250 220200 N50 32 32 2 5 ， 102E 106E 110E 102°E 106E 110E 102E 106E 110E
+
+::图(a)(c)中阴影区为实况,等值线为相应的ECMWF预报;图(b)填值"1、2、3、4、5"代表5个不同的CRA,其中"3"为有效CRA。
+
+表12019—2020年5—9月青藏高原东北侧暴雨天气过程、暴雨雨区面积及有效CRA统计  
+Tab.1 Statisticsofrainstorm processs on the northeastern sideof Tibet Plateau from Mayto September in 2019-2020, aswellastheeffective CRAandrainfallarea   
+
+<html><body><table><tr><td rowspan="2">暴雨天气过程 (年-月-日)</td><td rowspan="2">暴雨区面积/km</td><td colspan="2">是否识别有效CRA</td><td rowspan="2">暴雨天气过程 (年-月-日)</td><td rowspan="2">暴雨区面积/km</td><td colspan="2">是否识别有效CRA</td></tr><tr><td>ECMWF</td><td>GRAPES-GFS</td><td>ECMWF</td><td>GRAPES-GFS</td></tr><tr><td>2019-05-05</td><td>1709</td><td>×</td><td>×</td><td>2020-06-16</td><td>61783</td><td>√</td><td>√</td></tr><tr><td>2019-05-06</td><td>1832</td><td>×</td><td>×</td><td>2020-06-25</td><td>20154</td><td>√</td><td>×</td></tr><tr><td>2019-06-04</td><td>13312</td><td>√</td><td>√</td><td>2020-07-10</td><td>11445</td><td>√</td><td>√</td></tr><tr><td>2019-06-05</td><td>9688</td><td>×</td><td>×</td><td>2020-07-11</td><td>2786</td><td>×</td><td>×</td></tr><tr><td>2019-06-20</td><td>15609</td><td>√</td><td>√</td><td>2020-07-23</td><td>16981</td><td>×</td><td>×</td></tr><tr><td>2019-06-27</td><td>33730</td><td>×</td><td>×</td><td>2020-07-24</td><td>11289</td><td>√</td><td>×</td></tr><tr><td>2019-07-21</td><td>21002</td><td>√</td><td>×</td><td>2020-08-03</td><td>3623</td><td>×</td><td>×</td></tr><tr><td>2019-07-28</td><td>6618</td><td>×</td><td>×</td><td>2020-08-04</td><td>39610</td><td>√</td><td>×</td></tr><tr><td>2019-08-02</td><td>25670</td><td>√</td><td>√</td><td>2020-08-05</td><td>2159</td><td>×</td><td>×</td></tr><tr><td>2019-08-03</td><td>26854</td><td>√</td><td>√</td><td>2020-08-06</td><td>12724</td><td>√</td><td>×</td></tr><tr><td>2019-08-08</td><td>4682</td><td>×</td><td>×</td><td>2020-08-07</td><td>2598</td><td>×</td><td>×</td></tr><tr><td>2019-08-19</td><td>1235</td><td>×</td><td>×</td><td>2020-08-10</td><td>6267</td><td>×</td><td>×</td></tr><tr><td>2019-08-26</td><td>11970</td><td>√</td><td>×</td><td>2020-08-12</td><td>14230</td><td>√</td><td>√</td></tr><tr><td>2019-09-09</td><td>38960</td><td>√</td><td>√</td><td>2020-08-14</td><td>2200</td><td>×</td><td>×</td></tr><tr><td>2019-09-12</td><td>19184</td><td>√</td><td>×</td><td>2020-08-15</td><td>44730</td><td>√</td><td>√</td></tr><tr><td>2019-09-13</td><td>10496</td><td>×</td><td>×</td><td>2020-08-16</td><td>19860</td><td>√</td><td>√</td></tr><tr><td>2019-09-14</td><td>55048</td><td>√</td><td>√</td><td>2020-08-17</td><td>4709</td><td>×</td><td>×</td></tr><tr><td>2020-05-07</td><td>5017</td><td>×</td><td>×</td><td>2020-08-23</td><td>7802</td><td>×</td><td>×</td></tr><tr><td>2020-06-15</td><td>3405</td><td>×</td><td>×</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：√表示暴雨过程中识别出了有效CRA， $\times$ 表示没有识别出有效CRA。
+
+式预报面积小，例如2020年7月23日西太平洋副热带高压西北边缘偏南风气流中的暴雨天气(图略），ECMWF预报的暴雨点相对分散且暴雨雨区面积严重偏小，落区位置偏西北，故无法识别出有效CRA;三是位置偏差太大，例如，2019年6月27日的暴雨天气，实况暴雨区面积 $3 3 7 3 0 ~ \mathrm { k m } ^ { 2 }$ ，模式预报面积$1 4 8 4 5 \mathrm { k m } ^ { 2 }$ ，但由于预报的暴雨雨区较实况空间位置偏差太大，因此，也无法识别有效CRA。两种模式分别有15次过程因暴雨雨区面积预报太小或位置偏差太大而没有识别出有效CRA。
+
+# 2结果与分析
+
+# 2.1青藏高原东北侧暴雨天气特征
+
+青藏高原东北侧2019—2020年5—9月均有区域性暴雨天气发生(图2)，其中7月下旬、8月上旬和中旬发生次数最多。37次暴雨过程雨区面积（分散暴雨过程选取连续雨区最大区域计算面积)从$1 7 0 9 \mathrm { k m } ^ { 2 }$ 增加到 $6 1 7 8 3 { \mathrm { ~ k m } } ^ { 2 }$ (表1)，变化幅度大，最大雨区面积与最小雨区面积相差近 $6 0 0 0 0 \ \mathrm { k m } ^ { 2 }$ 。能识别出有效CRA的暴雨过程中实况雨区均超过$1 1 0 0 0 \mathrm { k m } ^ { 2 }$ ，集中在8月上旬和中旬。5月上旬的暴雨天气过程次数也较多，该时段暴雨局地性较强，暴雨面积往往小于 $6 0 0 0 ~ \mathrm { k m } ^ { 2 }$ (表1)，无法识别出有效CRA。ECMWF和GRAPES-GFS两种模式因漏报或预报偏差大而无法有效预报暴雨的比例分别高达 $5 1 \%$ 和 $7 0 \%$ ，二者对青藏高原东北侧的暴雨预报能力整体不高。
+
+已有研究表明，西太平洋副热带高压对西北地区暴雨有重要影响[28-29]。本文37次暴雨过程中，$70 \%$ 为西太平洋副热带高压西伸北抬输送的暖湿空气，与北方冷空气交汇，配合低层动力抬升作用产生，这种天气形势产生的暴雨主要发生在7一8月。另外约 $3 0 \%$ 的暴雨过程是高空低槽配合低层动力抬升作用产生，这种天气形势的暴雨主要发生在西太平洋副热带高压远离亚欧大陆期间。
+
+![](images/10f3936bc95310b9871a7a01d2cbe29839f3ce600e19c8b5651daa91a8b87e62.jpg)  
+图2青藏高原东北侧暴雨天气过程逐旬分布 Fig.2 The dekad distribution of rainstorm processes on the northeastern side of TibetPlateau
+
+# 2.2青藏高原东北侧暴雨预报总体误差
+
+ECMWF和GRAPES-GFS模式预报的青藏高原东北侧暴雨落区、形态和强度3类误差如表2所示，两种模式的预报形态误差占比最大，分别为 $5 2 . 3 6 \%$ 和 $5 2 . 5 8 \%$ ，ECMWF的强度误差占比最小，为$2 0 . 7 3 \%$ ,落区误差次之，占 $2 6 . 9 3 \%$ ,而GRAPES-GFS模式的落区误差占比最小，为 $1 6 . 3 3 \%$ ，强度误差$3 1 . 2 3 \%$ 。两种模式的落区误差占比和强度误差占比主要分布在 $10 \% { \sim } 5 0 \%$ ,ECMWF预报的 $5 0 \%$ 暴雨过程形态误差占比超过 $5 0 \%$ ( $4 0 \%$ 暴雨过程形态误差占比超过 $2 5 \%$ ),GRAPES-GFS模式预报的形态误差占比相对较分散，超过 $3 0 \%$ 的暴雨过程形态误差占比超过 $5 0 \%$ （图3）。
+
+较大的形态误差可能与青藏高原东北侧复杂地形有关。从2019—2020年5—9月的观测暴雨点分布可以发现（图 $\mathrm { 4 a }$ )，暴雨分布与地形有密切关系。秦岭南麓、六盘山一关山南麓、关中平原等地暴雨发生频次高，另外，受河谷、喇叭口、小山体等小地形影响的地区暴雨发生频次也较高，如榆林大河谷、积石山一太子山等地区(图4a)。这与黄玉霞等[29]、赵海英等[33]关于地形对暴雨影响的研究结果一致。分析逐个天气过程也发现地形对暴雨预报有重要影响，例如2020年8月16—17日暴雨天气，实况暴雨点主要分布在六盘山一关山南部，而模式预报的暴雨落区在山地南部和北部均有分布（图4b)，没有很好的反映出山地地形迎风坡和背风坡对降水的不同影响。此外，榆林大河谷附近降水受局地小地形增幅影响达到暴雨，而模式预报为漏报。
+
+表2暴雨落区、强度平均误差及落区、强度、形态误差平均占比统计  
+Tab.2 The average location and intensity error of rainstorm $\left[ \geqslant \pmb { 5 0 } \ \mathbf { m m } ^ { \cdot } \left( 2 4 \mathbf { h } \right) ^ { - 1 } \right]$ as well as the percentage of location, intensityand pattern errorin the total error   
+
+<html><body><table><tr><td></td><td>平均面积 误差/%</td><td>误差/%</td><td>量误差/%</td><td>误差/%</td><td>占比/%</td><td>占比/%</td><td></td><td>平均雨强 最大降水总降水量 落区误差 强度误差 形态误差平均纬向 占比/%位移误差/()位移误差/()质心误差/(质心误差()</td><td>平均经向</td><td>平均纬向</td><td>平均经向</td></tr><tr><td>ECMWF</td><td>-16.20</td><td>-11.49</td><td>1.47</td><td>3.51</td><td>26.93</td><td>20.73</td><td>52.36</td><td>-0.34</td><td>0.08</td><td>-0.36</td><td>-0.11</td></tr><tr><td>GRAPES-GFS</td><td>-68.33</td><td>-43.40</td><td>-49.33</td><td>-79.72</td><td>16.33</td><td>31.23</td><td>52.58</td><td>-0.15</td><td>0.10</td><td>-0.22</td><td>0.03</td></tr></table></body></html>
+
+![](images/81af71947a75e6f5d2d3cd44ba3d0c411d0a4ec7ec4d786ab42ee43afd54b10c.jpg)  
+图3青藏高原东北侧暴雨天气过程落区、强度和形态误差占比
+
+# 2.3青藏高原东北侧暴雨预报空间误差
+
+ECMWF和GRAPES-GFS模式预报的青藏高原东北侧暴雨雨区的质心较实况均明显偏西（图5a,图5c），ECMWF预报偏西 $0 . 3 6 ^ { \circ }$ ，偏南 $0 . 1 1 ^ { \circ }$ ,GRAPES-GFS模式预报的质心偏西 $0 . 2 2 ^ { \circ }$ ,但预报偏南偏北概率相当(表2)，表明两种模式预报的暴雨大值中心存在系统偏西现象，ECMWF的预报系统性偏南现象较明显，而GRAPES-GFS模式预报的暴雨大值中心经向偏差不明显。预报的暴雨落区较实况的位移误差分布表明，ECMWF预报大部分个例的落区较实况偏西偏北(图5b)，平均偏西 $0 . 3 4 ^ { \circ }$ ,平均偏北$0 . 0 8 ^ { \circ }$ (表2),大部分个例偏北的误差在 $1 ^ { \circ }$ 以内，误差分布比较集中(图5b)。对所有暴雨天气过程的环流形势进行分析，发现位移误差的成因主要有两方面，一是模式预报的高空系统相对实况偏慢，二是实况暴雨多出现在切变线右侧的南风中，而模式预报多集中在切变线或低涡附近动力作用明显的区域。例如2019年6月4—5日(图6a)和2019年8月3一4日(图6b)的暴雨天气，预报暴雨区相对于实况明显偏西偏北，前者模式预报高空系统相对实况偏慢，暴雨区主要在 $7 0 0 \mathrm { { h P a } }$ 低涡切变线附近，而实况暴雨出现在 $7 0 0 \mathrm { { h P a } }$ 切变线右侧南风中，后者模式预报的 $7 0 0 \mathrm { { h P a } }$ 切变线、水汽辐合区较实况偏西偏北，对应的暴雨落区同样较实况偏西北。GRAPES-GFS模式预报的落区同样较实况偏西偏北(图5d)，平均偏西不足ECMWF的一半，平均偏北位移与EC-
+
+Fig.3Box plots of the location, intensityand pattern errorrationin the total error on thenortheastern side of Tibet Plateau   
+图4青藏高原东北侧2019—2020年5—9月暴雨次数(a)及2020年8月16日暴雨实况、预报(b)  
+Fig.4Numberofrainstorm distributed from Mayto Septemberof20l9-2020onthe northeastern sideofTibetPlateau (a), observation on 16 August 2020 and its corresponding ECMWF forecasts (b)   
+![](images/d07c51bc2bba261ea2f7eac00bc9472c30153e41b4b213bfee5942d6157c977d.jpg)  
+注：图(b)为2020年8月16日08:00至17日08:00暴雨、16日20:00风场 $\left( \mathbf { m } { \cdot } \mathbf { s } ^ { - 1 } \right)$ 和比湿 $\left( { \bf g } \cdot { \bf k } { \bf g } ^ { - 1 } \right)$ 0
+
+![](images/f7db76675b385b0d88fb69146d9cc921d961fe513c184eb6ac6f860c1b982a97.jpg)  
+图5ECMWF和GRAPES-GFS模式暴雨预报较实况雨区的质心位置误差 $\left( \mathbf { a } , \mathbf { c } \right)$ 和位移误差 $( \mathbf { b } , \mathbf { d } )$ 散点分布 Fig.5Mass centerlocation bias (a,c),and displacement errors (b,d) between observationand forecasts anda,bareforECMWF,c,dare forGRAPES-GFS
+
+![](images/553f3dd2a96a8704727b443e450f1e351dbf42e10769d575664e4c348ac637ac.jpg)  
+注：图(a)为2019年6月4日08:00至5日08:00暴雨、4日 $2 0 { : } 0 0 7 0 0 \mathrm { h P a }$ 风场 $( \mathrm { m } \cdot \mathrm { s } ^ { - 1 } )$ 和比湿 $( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ ；图(b)为2019年8月3日08:00至4日08:00暴雨、3日 $2 0 { : } 0 0 7 0 0 \mathrm { h P a }$ 风场 $( \mathrm { m } \cdot \mathrm { s } ^ { - 1 } )$ 和比湿 $\left( { \bf g } \cdot { \bf k } { \bf g } ^ { - 1 } \right)$ 。  
+图62019年6月4日(a)和2019年8月3日(b)暴雨过程实况与模式预报  
+Fig.6The observation and its corresponding ECMWF forecasts for(a)4 June 2019 and(b)3 August 2019
+
+MWF相当。综上，ECMWF和GRAPES-GFS模式预报的落区较实况均偏西偏北，整体而言，ECMWF预报的落区偏西更明显。
+
+# 2.4青藏高原东北侧暴雨预报面积误差
+
+ECMWF和GRAPES-GFS模式预报的暴雨雨区面积均较实况雨区面积偏小，分别偏小 $1 6 . 2 0 \%$ 和$6 8 . 3 3 \%$ （表2)，且ECMWF预报的雨区面积离散度较大，而GRAPES-GFS模式预报的离散度很小（图7a)，表明GRAPES-GFS模式更易漏报暴雨过程。实况雨区格点数小于70个（面积约 $1 0 9 3 7 . 5 \mathrm { k m } ^ { 2 } .$ )，EC-
+
+MWF预报普遍较实况雨区面积偏小(图8a），无法识别出有效CRA（表1)，格点数大于70个，ECMWF预报的雨区面积较实况偏大或偏小概率相当，此时大部分过程能够识别出有效CRA(表1)，由此说明实况暴雨雨区较大时，ECMWF预报能力较强，对暴雨雨区面积的预报效果较好，而GRAPES-GFS模式预报的暴雨区面积普遍较实况偏小(图8b)。
+
+# 2.5青藏高原东北侧暴雨预报强度误差
+
+ECMWF预报的平均雨强较实况偏弱 $1 1 . 4 9 \%$ (表2)，其中 $56 \%$ 的CRA的平均雨强较实况偏弱，尤其当实况雨强超过 $6 0 ~ \mathrm { m m }$ 时偏弱更明显（图8c），GRAPES-GFS模式预报的平均雨强仅个别CRA与实况相当，其余均偏弱，平均偏弱 $4 3 . 4 0 \%$ (表2)，当平均雨强 $> 6 0 \ \mathrm { m m }$ 时所有的CRA均偏弱，且平均偏弱超过 $45 \%$ （图8d)。对于平均雨强，ECMWF预报的离散度较大，而GRAPES-GFS模式预报的离散度小（图7b)，更易漏报暴雨。对于最大降水量而言，ECMWF预报的大部分CRA较实况偏小（图8e），但因部分CRA的最大降水量较实况偏大的幅度较大，从而使预报的平均最大降水量较实况偏强 $1 . 4 7 \%$ （表2），而GRAPES-GFS模式对最大降水量的预报离散度很小（图7c），最大降水量平均偏弱 $4 9 . 3 3 \%$ (表2)，且呈现一致性较稳定的偏弱现象(图8f)，因此，GRAPES-GFS模式对暴雨以上量级降水的预报能力差，很容易出现漏报
+
+ECMWF预报的总降水量（平均降水乘以格点数） $5 8 \%$ 的CRA偏弱，但偏弱幅度较偏强幅度小（图$8 \mathrm { g }$ )，导致预报平均较实况偏强 $3 . 5 1 \%$ 。对于 $\angle 5 0 \times$
+
+![](images/c5c0e357f468d12b7dc4160b32b6a80d45049e76ca2ddde2502ed4bc2afa975a.jpg)  
+图7暴雨的实况和模式预报的箱线图  
+Fig.7The observation rainfall and forecasts characteristics on the northeastern side of Tibet Plateau   
+图8ECMWF(a、b、c、d)和GRAPES-GFS( $\mathrm { i e , f , g , h ) }$ 模式预报和实况暴雨面积、强度散点图 Fig.8Scatterof intensity and area for observed and forecasted,anda,b,c,dare for ECMWF,e,f,g,hare forGRAPES-GFSmodel
+
+(a)降水面积 (b)平均雨强 / (c)最大降水量 （/ (d)总降水量   
+400 / 300 300   
+80 ·   
+300 ：   
+60 200 200   
+32010 4020 100 100   
+0 L 0 0 0   
+100 200300 400 20 4060 80 100 200300 100200300   
+实况降水格点数/个 实况平均雨强 $/ \mathrm { m m }$ 实况最大降水量 $/ \mathrm { m m }$ 实况总降水量/ $\mathrm { ( 1 0 ^ { 2 } m m { \cdot } m ^ { - 2 } ) }$   
+400 (e)降水面积 / 80 (f)平均雨强 / 300 (g)最大降水量 （/ 300「(h)总降水量   
+300 60 200 200   
+200 40   
+100 20 100 100   
+0 "… 0 0 0 6   
+100 200300 400 20406080 100 200300 100 200300   
+实况降水格点数/个 实况平均雨强 $/ \mathrm { m m }$ 实况最大降水量 $/ \mathrm { m m }$ （20 实况总降水量/ $\cdot 1 0 ^ { 2 } \mathrm { m m } \cdot \mathrm { m } ^ { - 2 } )$
+
+$1 0 ^ { 2 } \mathrm { m m } { \cdot } \mathrm { m } ^ { - 2 }$ 的总降水量，ECMWF预报较实况偏小的概率较大，但对总降水量 $> 5 0 { \times } 1 0 ^ { 2 } \ \mathrm { m m } \cdot \mathrm { m } ^ { - 2 }$ 的CRA,ECMWF预报偏强偏弱的概率相当。ECMWF由于对尺度较小的暴雨雨区面积预报偏小，导致对 $\angle { \cdot }$ $5 0 { \times } 1 0 ^ { 2 } \ \mathrm { m m } \cdot \mathrm { m } ^ { - 2 }$ 总降水量预报偏弱。与ECMWF相反，GRAPES-GFS模式预报的总降水量一致性偏小且偏小达 $7 9 . 7 2 \%$ (图8h)，说明模式内部大气水汽循环整体偏干。通过对比暴雨以上量级的各类误差发现，ECMWF预报较GRAPES-GFS模式预报与实况更接近。
+
+# 2.6模式对不同区域的预报效果分析
+
+为了分析ECMWF和GRAPES-GFS两种模式对青藏高原东北侧不同区域的预报效果，统计分析有效CRA的空间分布。ECMWF预报的暴雨能识别的有效CRA主要分布在甘肃河东东部及陕西大部（图9)，其中，陇东南地区及陕西西南部地区CRA出现频次最高，其次是陕西中部、定西、天水东部及平庆地区，陕北、宁夏、白银南部及定西北部CRA出现频次低。18次暴雨过程中有效CRA平均位于陇东南地区和陕西西南部，GRAPES-GFS模式预报结果与ECMWF的相似（图略），但其有效CRA地理位置相对分散。ECMWF对暴雨较多的陇东南地区陕西西南部的预报效果较好，而对陕北地区和宁夏等偏北地区的预报效果较差。
+
+# 2.7模式预报暴雨的倾向分析
+
+为了核实ECMWF和GRAPES-GFS模式对青藏高原东北侧暴雨事件的预报倾向，假设两种模式预报的暴雨雨区面积误差不超过 $2 0 \%$ 为命中，大于$2 0 \%$ 为偏强，小于 $- 2 0 \%$ 为偏弱，平均雨强、最大降水量亦按此方法划分，两种模式的统计结果如表3所示。ECMWF预报的平均雨强偏强和偏弱的频次相注：虚线表示有效CRA所在的经纬度范围。
+
+![](images/0f91cfb8fb33250abf32845621da1c8506f8b4c03b31736e8face24f4a6ce476.jpg)  
+图9ECMWF的有效CRA位置分布  
+Fig.9The location of effective CRA forecasted by ECMWF
+
+当，命中频次最低，最大降水量预报偏弱的频次最高，命中和偏强的频次相当;GRAPES-GFS模式预报的平均雨强和最大降水量，分别有3个和2个命中，其余均偏弱。对面积的预报，ECMWF预报仅 $3 3 \%$ 命中， $1 7 \%$ 偏强，偏弱的概率达 $5 0 \%$ ，而GRAPES-GFS模式预报偏弱的概率高达 $8 2 \%$ 。因此，两种模式均倾向于将降水面积、平均雨强和最大降水量报弱，GRAPES-GFS模式更容易出现漏报。
+
+# 3结论
+
+利用2019—2020年5—9月ECMWF和GRAPES-GFS大尺度数值模式 $2 0 \mathrm { ~ h ~ }$ 起报的 $3 6 \mathrm { ~ h ~ }$ 预报时效的$2 4 \mathrm { h }$ 降水量预报和加密实况降水观测资料，基于目标属性的CRA空间检验技术，分析两种模式对青藏高原东北侧暴雨预报的空间误差（位移误差、强度误差和形态误差)和对暴雨的预报倾向，得到如下结论：
+
+表3暴雨雨区面积、平均雨强、最大降水量偏差频次分布  
+Tab.3Frequency distribution of rain area,average rainfall intensity and maximum precipitation deviationof rainstorm $\mathbf { o f } \geqslant \mathsf { 5 0 } \ \mathbf { m m } \cdot ( 2 4 \mathbf { h } ) ^ { - 1 }$   
+
+<html><body><table><tr><td rowspan="2" colspan="3"></td><td colspan="3">平均雨强</td><td colspan="3">最大降水量</td></tr><tr><td>偏弱</td><td>命中</td><td>偏强</td><td>偏弱</td><td>命中</td><td>偏强</td></tr><tr><td rowspan="6">面积</td><td>偏大</td><td>ECMWF</td><td>0</td><td>0</td><td>3</td><td>0</td><td>2</td><td>1</td></tr><tr><td></td><td>GRAPES-GFS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>命中</td><td>ECMWF</td><td>0</td><td>1</td><td>5</td><td>0</td><td>2</td><td>4</td></tr><tr><td></td><td>GRAPES-GFS</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>偏小</td><td>ECMWF</td><td>7</td><td>2</td><td>0</td><td>8</td><td>2</td><td>0</td></tr><tr><td></td><td>GRAPES-GFS</td><td>8</td><td>1</td><td>0</td><td>7</td><td>2</td><td>0</td></tr></table></body></html>
+
+（1）青藏高原东北侧暴雨预报误差中，ECMWF和GRAPES-GFS模式的形态误差占比最大，分别达$5 2 . 3 6 \%$ 和 $5 2 . 5 8 \%$ ,ECMWF的强度误差占比最小，为$2 0 . 7 3 \%$ ，落区误差次之，而GRAPES-GFS模式的落区误差占比最小，为 $1 6 . 1 9 \%$ ,强度误差次之。暴雨落区位移误差与大尺度模式预报系统快慢等因素有关，而形态误差可能与该地区复杂地形有关。
+
+（2）ECMWF模式预报的暴雨落区位置较实况偏西偏北，平均偏西 $0 . 3 4 ^ { \circ }$ ,偏北 $0 . 0 8 ^ { \circ }$ ,GRAPES-GFS平均偏西不足ECMWF的一半，平均偏北位移与EC-MWF相当，而ECMWF预报的暴雨雨区质心均较实况明显偏西偏南，平均偏西 $0 . 3 6 ^ { \circ }$ ，偏南 $0 . 1 1 ^ { \circ }$ ，GRAPES-GFS平均偏西约 $0 . 2 2 ^ { \circ }$ ，偏南偏北概率相当。ECMWF预报的暴雨中心偏西偏南，位置偏西偏北，而GRAPES-GFS模式的暴雨大值中心同样偏西，但偏差小于ECMWF，经向偏差不明显
+
+（3）ECMWF和GRAPES-GFS两种模式预报的暴雨雨区面积均较实况偏小，但ECMWF对格点数大于70个的雨区，面积预报偏大偏小的概率相当。ECMWF和GRAPES-GFS模式预报的平均雨强偏弱，分别偏弱 $1 1 . 4 9 \%$ 和 $4 3 . 4 0 \%$ ，平均雨强增强时，偏弱现象更明显。GRAPES-GFS模式对最大降水量的预报呈现一致性的偏弱现象，平均偏弱 $4 9 . 3 3 \%$ ，而ECMWF因对最大降水量预报离散度较大而平均偏强约 $1 . 4 7 \%$ ○
+
+（4）ECMWF和GRAPES-GFS两种模式对甘肃陇东南地区和陕西西南部的暴雨预报效果较好，而在陕北及宁夏等偏北地区的预报效果较差，两种模式对暴雨的预报倾向表明其对暴雨雨区面积的预报明显偏小，容易造成暴雨漏报，但ECMWF对暴雨的预报能力强于GRAPES-GFS模式。
+
+# 参考文献(References):
+
+[1] 王万筠，殷海涛，赵敬红，等.2014—2016年数值降水预报在天 津的检验评估[J].气象科技,2018,46(4):718-723.[Wang Wanjun,Yin Haitao,Zhao Jinghong,et al.Verification of numerical forecast products for TainJin precipitation forecast in recent three years[J].Meteorological Science and Technology，2O18,46(4): 718-723.]   
+[2] Ebert EE,Mcbride JL.Verification of precipitation in weather systems:Determination of systematic errors[J]. Journal of Hydrology,2000,239(1): 179-202.   
+[3] 崔粉娥,王勇,李慧君.多家数值产品沿海大暴雨预报性能检验 [J].气象科技,2013,41(4):696-702.[Cui Fen'e,Wang Yong,Li Huijun.Performance verification of coastal torrential rainfall forecast with several numerical products[J].Meteorological Science and Technology,2013,41(4): 696-702.]   
+[4]Davis C A,Brown B G,Bullock R,et al. The method for objectbased diagnostic evaluation (MODE)applied to numerical forecasts from the 2005 NSSL/SPC Spring Program[J].Weather & Forecasting,2009,24(5): 1252-1267.   
+[5]戴建华,茅懋,邵玲玲,等.强对流天气预报检验新方法在上海 的应用尝试[J].气象科技进展,2013,3(3):42-47.[Dai Jianhua, Mao Mao,Shao Lingling,et al.Applications of a new verification method for severe convection forecasting and nowcasting in Shanghai[J].Advances in Meteorological Science and Technology,2013, 3(3): 42-47.]   
+[6]刘凑华,牛若芸.基于目标的降水检验方法及应用[J].气象, 2013,39(6): 681-690.[Liu Couhua,Niu Ruoyun. Object- based precipitation verification method and itsapplication[J]. Meteorological Applications,2013,39(6): 681-690.]   
+[7]Davis C,Brown B,Bullock R. Object-based verification of precipitation forecasts.Part I: Methodology and application to mesoscale rain areas[J]. Monthly Weather Review,2006,134(7): 1772-1784.   
+[8]Davis C,Brown B, Bullock R. Object-based verification of precipitation forecasts.Part II: Application to convective rain systems[J]. Monthly Weather Review,2006,134(7): 1785-1795.   
+[9]Marzban C,Sandgathe S.Cluster analysis for verification of precipitation fields[J].Weather& Forecasting,2006,21(5): 824-838.   
+[10]Gilleland E,Lee TC,Halley G J,et al. Computationally efficient spatial forecast verification using Baddeley’s delta image metric [J]. Monthly Weather Review,2008,136(5): 1747-1757.   
+[11]Wernli H, Paulat M, Hagen M,et al. SAL: A novel quality measure forthe verification of quantitative precipitation forecasts[J]. Monthly Weather Review,2008,136(11): 4470-4487.   
+[12]Wernli H,Hofmann C, Zimmer M. Spatial forecast verification methods intercomparison project:Application of the SAL technique [J]. Weather & Forecasting,2009,24(6): 1472-1484.   
+[13] 赵滨,张博.邻域空间检验方法在降水评估中的应用[J].暴雨灾 害,2017,36(6): 497-504.[Zhao Bin,Zhang Bo.Application of neighborhood spatial verification method on precipitation evaluation[J].Torrential Rain and Disasters,2017,36(6): 497-504.]   
+[14]Ebert E E,Damrath U,Wergen W,et al. The WGNE assessment of short-term quantitative precipitation forecasts (QPFs) from operational numerical weather prediction models[J].Bulltin of the American Meteorological Society,2003,84(4): 481-492.   
+[15] Sharma K,Ashrit R,Ebert E,et al.Assessment of Met Office Unified Model (UM) quantitative precipitation forecasts during the Indian summer monsoon: Contiguous Rain Area (CRA) approach[J]. Journal of Earth System Science,2019,128(1): 1-17.   
+[16]Das A K,Kundu P K,Roy B,et al. Performance evaluation of WRF model with different cumulus parameterizations in forecast
+
+ing monsoon depressions[J]. Mausam,2019,70(3): 501-522.   
+[17] 符娇兰,代刊.基于CRA空间检验技术的西南地区东部强降水 EC 模式预报误差分析[J].气象,2016,42(12):1456-1464.[Fu Jiaolan,Dai Kan. The ECMWF model precipitation systematic error in the east of Southwest China based on the contiguous rain area method for spatial forecast verification[J]. Meteorological Applications,2016,42(12): 1456-1464.]   
+[18] 王新敏,栗晗.多数值模式对台风暴雨过程预报的空间检验评 估[J].气象,2020,46(6): 753-764.[Wang Xinmin,Li Han.Spatial verification evaluation of Typhoon rainstorm by multiple numerical models[J]. Meteorological Applications,2020,46(6): 753-764.]   
+[19]Yu Z,Chen YJ,Ebert B,et al.Benchmark rainfall verification of landfall tropical cyclone forecasts by operational ACCESS-TC over China[J]. Meteorological Applications,2020,27: e1842.   
+[20] Zhuang Y,Tang X, Wang Y.Impact of track forecast error on tropical cyclone quantitative precipitation forecasts over the coastal region of China[J].Journal of Hydrology,2020, 589: 125347.   
+[21] 李栋梁,邵鹏程,王慧,等.中国东亚副热带夏季风北边缘带研 究进展[J].高原气象,2013,32(1):305-314.[Li Dongliang, Shao Pengcheng,Wang Hui,et al. Advances in research of the north boundary belt of East Asia Subtropical Summer Monsoon in China [J].Plateau Meteorology,2013,32(1):305-314.]   
+[22] 陈婕,黄伟,靳立亚,等.东亚夏季风的气候北界指标及其年际 变化研究[J].中国科学:地球科学,2018,48(1):93-101.[Chen Jie,Huang Wei,Jin liya,etal.A climatological northern boundary index for East Asian Summer Monsoon and its interannual variability[J]. Scientia Sinica (Terrae),2018,48(1): 93-101.]   
+[23] 刘玉芝,吴楚樵,贾瑞,等.大气环流对中东亚干旱半干旱区气 候影响研究进展[J].中国科学:地球科学,2018,48(9):1141- 1152.[Liu Yuzhi,Wu Chuqiao,Jia Rui,et al.An overview of the influence of atmospheric circulation on the climate in arid and semi-arid region of Central and East Asia[J]. Scientia Sinica(Terrae),2018,48(9): 1141-1152.]   
+[24]殷田园,殷淑燕,李富民.秦岭南北区域夏季极端降水与西太平 洋副热带高压的关系[J].干旱区研究,2019,36(6):1379-1390. [Yin Tianyuan,Yin Shuyan,Li Fumin.Relationship between the summer extreme precipitation in the south and north of the Qinling Mountainsand Western Pacific Subtropical High[J].Arid Zone Research,2019,36(6): 1379-1390.]   
+[25] 姬凯,王士新,左洪超,等.东亚副热带急流经向位置对中国西 北东部盛夏降水的影响[J].干旱区研究,2020,37(1):10-17.[Ji Kai,Wang Shixin, Zuo Hongchao,et al.Effect of meridional position of East Asian Subtropical Jet on midsummer precipitation in eastern part ot Northwest China[JJ. Arid Zone Research, ZU20, 3/ (1): 10-17.]   
+[26] 李栋梁,谢金南,王文.中国西北夏季降水特征及其异常研究 [J].大气科学,1997,21(3): 331-340.[Li Dongliang,Xie Jinnan, Wang Wen. A study of summer precipitation features and anomaly in Northwest China[J]. Chinese Journal of Atmospheric Sciences, 1997,21(3):331-340.]   
+[27] 杨昭明,张调风.1961—2017年青藏高原东北部雨季降水量变 化及其贡献度分析[J]干旱区研究,2021,38(1):22-28.[Yang Zhaoming, Zhang Tiaofeng.Analysis of precipitation change and its contribution in the rainy season in the northeast Qinghai-Tibet Plateau from 1961-2017[J]. Arid Zone Research 2020,38(1): 22- 28.]   
+[28] 赵庆云,宋松涛,杨贵名,等.西北地区暴雨时空变化及异常年 夏季环流特征[J].兰州大学学报(自然科学版),2014,50(4): 517-522. [Zhao Qingyun,Song Songtao,Yang Guiming,etal. Spatial and temporal variations of torrential rain over Northwest China and general circulation anomalies in summer[J]. Journal of Lanzhou University (Natural Sciences),2014,50(4): 517-522.]   
+[29] 黄玉霞,王宝鉴,黄武斌,等.我国西北暴雨的研究进展[J].暴雨 灾害,2019,38(5): 515-525.[Huang Yuxia, Wang Baojian, Huang Wubin,et al.A review on rainstorm research in Northwest China [J]. Torrential Rain and Disasters,2019,38(5): 515-525.]   
+[30] 陈豫英,陈楠,任小芳,等.贺兰山东麓罕见特大暴雨的预报偏 差和可预报性分析[J].气象,2018,44(1):159-169.[Chen Yuying, Chen Nan,Ren Xiaofang,et al.Analysis on forecast deviation and predictability of a rare severe rainstorm along the eastern Helan Mountain[J]. Meteorological Monthly,2018,44(1): 159-169.]   
+[31] 杨侃,纪晓玲,毛璐,等.贺兰山两次特大致洪暴雨的数值模拟 与地形影响对比[J].干旱气象,2020,38(4):581-590.[Yang Kan, Ji Xiaoling,Mao Lu,et al.Numerical simulation and comparative analysis of topographic effects on two extraordinary severe flood rainstorms in Helan Mountain[J]. Journal of Arid Meteorology,2020,38(4): 581-590.]   
+[32] 刘凑华,曹勇,符娇兰.基于变分法的客观分析算法及应用[J]. 气象学报,2013,71(6):1172-1182.[Liu Couhua,Cao Yong,Fu Jiaolan.An objective analysis algorithm based on the variation method[J].Acta Meteorologica Sinica,2013,71(6): 1172-1182.]   
+[33] 赵海英,薄燕青,邱贵强,等.地形对山西暴雨影响的数值模拟 研究[J].气象与环境科学,2017,40(2):84-91.[Zhao Haiying, Bo Yanqing, Qiu Guiqiang,et al.Numerical simulation study of topography effects on a severe rainstorm in Shanxi Province[J]. Meteorological and Environmental Sciences,2017,40(2): 84-91.]
+
+# Spatial error characteristics of rainstorm forecasts of large-scale numerical model over the northeastern side of Tibetan Plateau
+
+ZHANG Junxia, KONG Xiangwei, LIU Xinwei， WANG Yong(Lanzhou Central Meteorological Observatory,Lanzhou 73OO2O,Gansu, China)
+
+Abstract: Rainstorm targets were identified from May to September in 2019-2020 over the northeastern side of Tibetan Plateau by using the Contiguous Rain Area technique. There were 18 rainstorm targets in European Center for Medium-Range Weather Forecast (ECMWF)and 11 in Global/Regional Assimilation and Prediction System-Global Forecast System (GRAPES-GFS) mode.The spatial eror characteristics—including displacement, intensity,and patern error—of the two models for rainstorm forecasts were analyzed quantitatively,and the applicability of the two models in rainstorm forecasts over the northeastern side of Tibetan Plateau is here summarized.The results of the study showed that: (1) The pattern errors of rainstorm forecasts in ECMWF and GRAPES-GFS accounted for the largest proportion of the total errors.ECMWF had the smallest intensity error ratio for rainstorm forecast, followed by displacement errors, while the GRAPES-GFS model had the smalest displacement errors，followed by intensity errors.(2） The rainstorm areas in the two models shifted more northwestward compared with observations. The forecast of ECMWF for the rainstorm center was southwestward, while that of GRAPES-GFS was only westward. (3) The forecast of rainstorm area produced by the two models was obviously too limited, meaning that it could easily fail to predict rainstorm events.The GRAPE-GFS model underestimated both maximum precipitation and rainfallintensity by more than $40 \%$ ,while ECMWF under-forecasted about $1 1 . 4 9 \%$ for the average rainfall intensity and overestimated about $1 . 4 7 \%$ for maximum precipitation.(4) The two models showed a beter forecasting ability for rainstorm in the southeastern Gansu and southwestern Shaanxi areas,and a poorer one in the northern Shaanxi, Ningxia,and other northern areas.
+
+Keywords: Contiguous Rain Area; spatial error； rainstorm; the northeastern side of Tibetan Plateau

@@ -1,0 +1,252 @@
+苜蓿草粉对育肥猪生长性能、血清生化指标、胴体品质及经济效益的影响吕先召 $^ 1$ 王成章」邱晓东²　姚国磊」　肖俊楠」史莹华」朱晓艳 1\*
+
+（1.河南农业大学牧医工程学院，郑州 450002；2.河南新大牧业股份有限公司，郑州 450000）摘要：本试验旨在探讨苜蓿草粉对育肥猪生长性能、血清生化指标、胴体品质及经济效益的影响。试验选用健康、平均体重（ $6 0 . 2 8 { \pm } 0 . 7 3$ ） $\mathbf { k g }$ 的“长 $\times$ 大”或“大 $\times$ 长”二元育肥猪130头，随机分为5组，每组26个重复，每个重复1头猪。各组分别饲喂在基础饲粮中添加0（对照组）、 $5 \%$ 、 $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉的试验饲粮。预试期 $1 0 \mathrm { d }$ ，正试期 $7 2 \mathrm { d }$ 。结果表明：1) $6 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段， $5 \%$ 苜蓿草粉组育肥猪平均日增重最高，增重成本最低。2)各组之间血清总蛋白、白蛋白、球蛋白、总胆固醇和低密度脂蛋白胆固醇含量差异不显著（ $P$ ${ > } 0 . 0 5 { : }$ 。与对照组相比， $5 \%$ 和 $30 \%$ 苜蓿草粉组血清尿素氮含量显著降低（ $\cdot < 0 . 0 5$ ， $5 \%$ 和$10 \%$ 苜蓿草粉组血清葡萄糖含量显著升高（ $\scriptstyle . . < 0 . 0 5$ ， $30 \%$ 苜蓿草粉组血清甘油三酯含量极显著降低（ $P { < } 0 . 0 1$ ， $10 \%$ 和 $30 \%$ 苜蓿草粉组血清高密度脂蛋白胆固醇含量显著升高（ $P <$ 0.05)。 $10 \%$ 和 $20 \%$ 苜蓿草粉组血清谷丙转氨酶、谷草转氨酶活性分别极显著、显著低于对照组和 $5 \%$ 苜蓿草粉组（ $P { < } 0 . 0 1$ ， $\scriptstyle P < 0 . 0 5 .$ ，对照组与 $5 \%$ 苜蓿草粉组之间差异不显著（ $P$ ${ \ > } 0 . 0 5 { \ : } ^ { \cdot }$ 。3） $20 \%$ 苜蓿草粉组瘦肉率比对照组显著提高了 $7 . 9 9 \%$ （ $\scriptstyle \cdot < 0 . 0 5 ,$ )。各组之间胴体重、屠宰率、背膘厚、眼肌面积、胴体斜长、胴体直长差异不显著（ $\vert P { > } 0 . 0 5 \$ 。4） $20 \%$ 苜蓿草粉组肌肉蛋白质含量显著高于对照组（ $\cdot < 0 . 0 5 \$ )。综上，饲粮中添加 $5 \%$ 的苜蓿草粉可以减少增重成本，提高经济效益；饲粮中添加 $20 \%$ 的苜蓿草粉可以提高瘦肉率和肌肉中蛋白质的含量，改善猪肉品质。
+
+关键词：苜蓿草粉；育肥猪；血清生化指标；胴体品质；肌肉蛋白质
+
+我国是养猪大国，生猪产量居世界领先地位[1]。近年来，我国耗粮型畜牧业发展迅速，人猪争粮矛盾突出[2]，饲料资源匮乏、饲料利用率低等成为制约我国养猪业发展的主要原因。另外，随着生活水平的提高及健康意识的增强，人们愈来愈重视畜产品的安全、感官品质等。猪肉是我国最主要的畜产消费品，其品质备受消费者关注。因此，为了满足消费者对优质猪肉的需求，在养殖业中开发利用绿色、安全、高效的牧草饲料原料已成为我国养猪行业的发展趋势，对于未来我国养猪产业的可持续发展具有重要的意义。
+
+苜蓿作为一种优质的饲料原料，不仅富含蛋白质、维生素、氨基酸和矿物质等营养成分[3]，同时还含有苜蓿皂苷、多糖、黄酮等多种生物活性物质[4]，饲粮中添加一定比例的苜蓿干草或草粉能不同程度地提高动物的生长性能、繁殖性能、免疫机能和畜产品品质等[5-12]。目前，国内很多生猪养殖企业开始尝试在猪饲粮中添加苜蓿草粉，改善猪肉品质。研究表明，在育肥猪饲粮中添加不同比例的苜蓿草粉，能提高日增重和采食量等生长性能指标，同时有提高瘦肉率、眼肌面积，改善肉色及血液生化指标等作用[13-16]。但不同研究结果建议的添加量也存在差异。基于此，本试验通过饲养和屠宰试验，探讨苜蓿草粉对育肥猪生长性能、血清生化指标、胴体品质及经济效益的影响，进一步充实苜蓿应用理论，为提高首蓿在育肥猪生产中的合理应用和节粮型畜牧业的发展提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验用苜蓿草粉由河南省镇平敏霞牧业有限公司提供，均为同一批次初花期刈割的紫花苜蓿，经自然干燥加工而成。经分析，该苜蓿草粉常规营养成分含量为：干物质 $( \mathrm { D M } ) 8 9 . 6 6 \%$ 、粗蛋白质（CP） $1 9 . 8 1 \%$ 、粗纤维（CF） $23 . 6 \%$ 、粗脂肪（EE） $2 . 1 2 \%$ 、粗灰分（Ash） $8 . 1 1 \%$ ，钙（Ca） $1 . 5 9 \%$ 、磷（P) $0 . 3 0 \%$ 。
+
+# 1.2 试验设计
+
+饲养试验于2015年7月10日至2015年9月26日在河南省宜阳新大牧业有限公司进行。预试期7d，正试期 $7 2 \mathrm { d } .$ 屠宰试验于2015年9月27日在河南沁阳食品有限公司进行。试验选用健康、平均体重（ $6 0 . 2 8 { \pm } 0 . 7 3$ ） $\mathbf { k g }$ 的"长 $\mathbf { \nabla } _ { \times }$ 大"或“大 $\ \cdot$ 长”二元育肥猪130头，采用单因子完全随机区组设计，随机分为5组，每组26个重复，每个重复1头猪。各组分别饲喂在基础饲粮中添加0（对照组）、 $5 \%$ 、 $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉的试验饲粮。参照NRC（2012）[17]猪的营养需要及猪场的实际饲喂水平设计饲粮配方，试验饲粮组成及营养水平见表1。
+
+# 表1试验饲粮组成及营养水平(干物质基础)
+
+项目
+
+Table 1Composition and nutrient levels of experimental diets (DM basis)   
+
+<html><body><table><tr><td>Items</td><td>对照组</td><td>5%苜蓿草</td><td>10%苜蓿草粉</td><td>20%苜蓿草粉</td><td>30%苜蓿草粉</td></tr><tr><td></td><td>Control</td><td>粉组</td><td>组</td><td>组</td><td>组</td></tr><tr><td></td><td>group</td><td>5% alfalfa</td><td>10%alfalfa</td><td>20% alfalfa</td><td>30%alfalfa</td></tr><tr><td></td><td></td><td>meal group</td><td>meal group</td><td> meal group</td><td>meal group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>71.05</td><td>73.83</td><td>70.70</td><td>61.13</td><td>51.56</td></tr><tr><td>豆粕 Soybean meal</td><td>16.50</td><td>16.48</td><td>15.33</td><td>12.44</td><td>9.53</td></tr><tr><td>麸皮Bran</td><td>9.20</td><td>1.63</td><td></td><td></td><td></td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td></td><td>5.00</td><td>10.00</td><td>20.00</td><td>30.00</td></tr><tr><td>大豆油 Soybean oil</td><td></td><td></td><td>1.09</td><td>3.89</td><td>6.68</td></tr><tr><td>石粉 Limestone</td><td>1.20</td><td>1.00</td><td>0.82</td><td>0.52</td><td>0.20</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.40</td><td>0.40</td><td>0.34</td><td>0.15</td><td>0.00</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr></table></body></html>
+
+<html><body><table><tr><td>赖氨酸 Lys (98%)</td><td>0.23</td><td>0.24</td><td>0.27</td><td>0.33</td><td>0.40</td></tr><tr><td>蛋氨酸 Met (98%)</td><td></td><td></td><td>0.02</td><td>0.07</td><td>0.12</td></tr><tr><td>苏氨酸 Thr (98%)</td><td></td><td></td><td>0.01</td><td>0.05</td><td>0.09</td></tr><tr><td>色氨酸 Try (98%)</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(kJ/kg)</td><td>13.60</td><td>13.60</td><td>13.60</td><td>13.60</td><td>13.60</td></tr><tr><td>粗蛋白质CP</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>钙Ca</td><td>0.59</td><td>0.59</td><td>0.59</td><td>0.59</td><td>0.59</td></tr><tr><td>有效磷 AP</td><td>0.26</td><td>0.26</td><td>0.26</td><td>0.26</td><td>0.26</td></tr><tr><td>赖氨酸Lys</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>蛋氨酸+半胱氨酸</td><td>0.44</td><td>0.44</td><td>0.44</td><td>0.44</td><td>0.44</td></tr><tr><td>Met+Cys</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>苏氨酸 Thr</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr></table></body></html>
+
+预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA 8 000IU，VD 3 000 IU，VE 33.6 IU， $\mathrm { V B } _ { 2 } 3 . 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \ 1 2 \ \mu \mathrm { g }$ ，烟酸 nicotinic acid $1 6 ~ \mathrm { m g }$ ，泛酸pantothenic acid $1 0 \mathrm { m g }$ ，生物素biotin $0 . 1 6 8 \mathrm { m g }$ ，叶酸 folic acid $1 . 2 8 \mathrm { m g }$ ， $\ifmmode \mathrm { ~ x ~ } \else \mathrm { ~ y ~ } \fi { } \mathrm { 1 1 . 2 ~ m g }$ ，Fe 140mg， $Z \mathrm { n } 6 5 . 6 \mathrm { m g }$ ， $\mathrm { M n } \ 3 7 . 6 \ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 . 5 2 \mathrm { m g }$ ，Se $0 . 3 0 \mathrm { m g }$ 。
+
+# 1.3 饲养管理
+
+试验前对供试猪舍进行全面打扫、消毒。待猪舍干燥后，将试验猪称重、编号、分组，然后进行驱虫和相关防疫工作。在预试期内，给各组试验猪饲喂相同的基础饲粮，同时观察猪的健康状况，并根据情况及时进行调整。预试期结束后，对各组进行第2次称重，待各组
+
+间体重无显著差异（ $\cdot P { > } 0 . 0 5$ ）时进入正试期。每天饲喂2次，分别是08:00和17:00，计量不限量，自由饮水，保持卫生，定期消毒。试验期间称重和记录每日耗料量及健康状况，试验结束时进行屠宰试验和肌肉蛋白质含量测定，并做好记录、采样等工作。
+
+# 1.4 指标测定
+
+# 1.4.1 生长性能
+
+试验采用奥斯本种猪生产性能测定系统（美国)，详细记录每头猪每天的采食时间、采食次数、采食量、不同阶段的初始体重和结束体重、生长至不同阶段的日龄，据此计算出平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）。
+
+# 1.4.2 血清生化指标
+
+饲养试验结束后，从每组中随机选取5头猪，共25头，前腔静脉采血 $1 0 ~ \mathrm { m L }$ ，置于3000$\mathrm { { r } / \mathrm { { m i n } } }$ 的离心机当中离心 $1 5 \mathrm { m i n }$ ，血清在 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冰箱保存备测。血清生化指标在郑大附属第二人民医院进行，采用西门子全自动生化分析仪测定血清中尿素氮（urea nitrogen，BUN）、葡萄糖（glucose，GLU）、总蛋白（total protein，TP）、白蛋白（albumin，ALB）、球蛋白（globulin,GLO）、甘油三酯（triglyceride，TG）、总胆固醇（totalcholesterol，TC）、高密度脂蛋白胆固醇（high-density lipoprotein,HDL-C）、低密度脂蛋白胆固醇(low-density lipoprotein,LDL-C)含量及谷丙转氨酶（alanine aminotransferase，ALT）、谷草转氨酶（aspartate transaminase，AST）活性。
+
+# 1.4.3 胴体性状指标
+
+采过血样的25头猪，自由饮水，禁食 $2 4 \mathrm { h }$ 后称重、屠宰。参照中华人民共和国农业行业标准NY/T825—2004《瘦肉型猪胴体性能测定技术规程》[18]进行胴体分割，去头、蹄、尾及内脏（肾脏和板油除外)，劈半后保留左侧胴体，称重，测定及计算胴体重、胴体直长、胴体斜长、背膘厚、屠宰率、瘦肉率和眼肌面积。
+
+# 1.4.4 肌肉蛋白质含量测定
+
+猪屠宰后取第4至第6腰椎处背最长肌 $\boldsymbol { 1 0 } \mathrm { g }$ ，采用凯氏定氮法（参照GB 5009.5—1985）测定猪肌肉蛋白质含量。
+
+# 1.5 统计分析
+
+试验数据用 Excel2010 进行初步整理后，利用 SPSS 20.0 软件进行方差分析，Duncan氏法进行各组间的多重比较，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准，试验结果用平均值 $\pm$ 标准差（mean±SD）表示。
+
+# 2结果与分析
+
+# 2.1首蓿草粉对育肥猪生长性能的影响
+
+由表2可见， $6 0 { \sim } 8 0 \mathrm { k g }$ 阶段，各组之间的ADG和F/G差异不显著（ $\cdot P { > } 0 . 0 5 \$ ，但 $5 \%$ 苜蓿草粉组的ADG 较对照组提高了 $0 . 9 2 \%$ ，较 $10 \%$ 、 $20 \%$ 和 $30 \%$ 的苜蓿草粉组分别提高了$2 . 7 1 \%$ 、 $2 . 3 9 \%$ 和 $12 . 2 6 \%$ 。 $30 \%$ 苜蓿草粉组的ADFI显著低于其他各组（ $\cdot P { < } 0 . 0 5 )$ ，到达 $6 0 { \sim } 8 0$ $\mathrm { k g }$ 阶段体重所需要的天数显著高于其他各组（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right)$ ；但 $30 \%$ 苜蓿草粉组的F/G 低于其他各组（ $P { > } 0 . 0 5 )$ )，增重成本均低于其他各组，且显著低于 $10 \%$ 苜蓿草粉组（ $P { < } 0 . 0 5 )$ 。
+
+$8 1 { \sim } 1 0 0 \mathrm { k g }$ 阶段，随着苜蓿草粉添加量的增加，育肥猪的ADFI呈逐渐下降趋势，ADG呈先上升后下降趋势。对照组和 $5 \%$ 苜蓿草粉组的ADFI极显著高于 $20 \%$ 和 $30 \%$ 苜蓿草粉组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ , ~ } }$ )，ADG显著高于 $20 \%$ 和 $30 \%$ 苜蓿草粉组（ $\scriptstyle P < 0 . 0 5 )$ ；对照组和 $10 \%$ 苜蓿草粉组的 F/G 显著高于 $20 \%$ 和 $30 \%$ 苜蓿草粉组（ $\scriptstyle P < 0 . 0 5 .$ ； $5 \%$ 和 $10 \%$ 苜蓿草粉组及对照组之间的
+
+ADFI、ADG和F/G差异不显著（ $\cdot P { > } 0 . 0 5$ 。 $5 \%$ 苜蓿草粉组到达 $8 1 { \sim } 1 0 0 \mathrm { k g }$ 阶段体重所需要的天数最少，ADG 分别比其他4个组提高了 $2 . 4 6 \%$ 、 $6 . 9 1 \%$ 、 $12 . 4 3 \%$ 和 $1 3 . 9 0 \%$ ，且增重成本最降。
+
+$6 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段， $5 \%$ 苜蓿草粉组的ADG 较对照组提高了 $2 . 2 4 \%$ ，但差异不显著（ $P >$ 0.05)。与对照组相比， $5 \%$ 、 $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉组的 ADFI、F/G 均有所降低，但各组之间差异不显著（ $( P { > } 0 . 0 5 )$ 。 $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉组的增重成本均有所提高，其中，$30 \%$ 苜蓿草粉组较对照组有显著提高（ $\cdot P { < } 0 . 0 5 )$ ，对照组和 $5 \%$ 、 $10 \%$ 、 $20 \%$ 苜蓿草粉组之间差异均不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表2苜蓿草粉对育肥猪生长性能的影响  
+Table 2 Effects of alfalfa meal on growth performance of finishing pigs   
+
+<html><body><table><tr><td>阶段</td><td></td><td>对照组</td><td>5%苜蓿草粉</td><td>10%苜蓿草</td><td>20%苜蓿草</td><td>30%苜蓿草粉</td></tr><tr><td>Stages</td><td>项目</td><td>Control group</td><td>组</td><td>粉组</td><td>粉组</td><td>组</td></tr><tr><td rowspan="7">60~80 kg</td><td>Items</td><td></td><td>5% alfalfa</td><td>10%alfalfa</td><td>20% alfalfa</td><td>30% alfalfa</td></tr><tr><td></td><td></td><td>meal group</td><td>meal group</td><td> meal group</td><td>meal group</td></tr><tr><td>初重 Initial weight/kg</td><td>60.12±0.58</td><td>60.26±0.51</td><td>60.38±0.64</td><td>60.47±00.53</td><td>60.06±0.49</td></tr><tr><td>末重 Final weight/kg</td><td>80.17±0.56</td><td>80.30±0.50</td><td>79.96±0.42</td><td>80.21±0.52</td><td>80.32±0.63</td></tr><tr><td>天数Days</td><td>27.41±4.32b</td><td>27.28±4.85b</td><td>27.35±4.99b</td><td>27.15±3.54b</td><td>30.60±3.95a</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.17±0.29a</td><td>2.09±0.34a</td><td>2.19±0.31a</td><td>2.13±0.35a</td><td>1.83±0.31b</td></tr><tr><td rowspan="2">平均日增重 ADG/g</td><td>749.49±125.1</td><td>756.39±135.0</td><td>736.41±121.5</td><td>738.75±108.6</td><td>673.81±108.0</td></tr><tr><td></td><td>2</td><td>0</td><td>9</td><td>2</td><td>0</td></tr><tr><td></td><td>料重比F/G</td><td>2.92±0.32</td><td>2.78±0.38</td><td>3.00±0.29</td><td>2.90±0.36</td><td>2.73±0.43</td></tr><tr><td>cost/(元/kg)</td><td>增重成本 Weight gain</td><td>7.01±0.76ab</td><td>6.67±0.91ab</td><td>7.19±0.70a</td><td>6.96±0.87ab</td><td>6.56±1.02b</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>初重 Initial weight/kg</td><td>80.21±0.57</td><td>80.27±0.47</td><td>79.98±0.42</td><td>80.01±0.48</td><td>80.23±0.67</td></tr><tr><td></td><td>末重 Final weight/kg</td><td>100.10±0.54</td><td>100.15±0.52</td><td>100.24±0.42</td><td>100.24±0.59</td><td>100.35±0.92</td></tr><tr><td></td><td>天数Days</td><td>21.45±3.07bc</td><td>20.90±2.90c</td><td>22.74±3.19abc</td><td>23.94±3.51ab</td><td>24.38±4.90a</td></tr><tr><td>81~100</td><td>平均日采食量 ADFI/kg</td><td>2.77±0.37Aa</td><td>2.76±0.48Aa</td><td>2.64±0.24ABa</td><td>2.28±0.46Bb</td><td>2.20±0.67Bb</td></tr><tr><td>kg</td><td>平均日增重 ADG/g</td><td>944.04±129.4</td><td>967.26±132.0</td><td>904.77±107.0</td><td>860.33±116.0</td><td>849.25±140.8</td></tr><tr><td></td><td></td><td>5a</td><td>8a</td><td>3ab</td><td>0b</td><td>0b</td></tr><tr><td></td><td>料重比F/G</td><td>2.96±0.34a</td><td>2.85±0.36ab</td><td>2.94±0.24a</td><td>2.67±0.51b</td><td>2.58±0.52b</td></tr><tr><td>cost/(元/kg)</td><td>增重成本 Weight gain</td><td>7.09±0.83b</td><td>7.02±0.88b</td><td>7.40±0.61ab</td><td>7.04±1.35b</td><td>8.03±1.42a</td></tr><tr><td>60~100</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>kg</td><td>始重 Initial weight/kg</td><td>60.12±0.58</td><td>60.26±0.51</td><td>60.38±0.64</td><td>60.47±00.53</td><td>60.06±0.49</td></tr><tr><td></td><td>末重 Final weight/kg</td><td>100.10±0.54</td><td>100.15±0.52</td><td>100.24±0.42</td><td>100.24±0.59</td><td>100.35±0.92</td></tr><tr><td></td><td>天数Days</td><td>49.10±5.68</td><td>47.84±5.26</td><td>49.47±4.93</td><td>50.80±6.29</td><td>51.44±6.46</td></tr><tr><td></td><td>平均日采食量 ADFI/kg</td><td>2.43±0.23</td><td>2.40±0.30</td><td>2.41±0.20</td><td>2.25±0.42</td><td>2.31±0.39</td></tr><tr><td></td><td>平均日增重 ADG/g</td><td>821.94±96.16</td><td>840.37±89.98</td><td>810.93±76.15</td><td>800.74±100.5</td><td>774.74±77.56</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr><tr><td></td><td>料重比 F/G</td><td>2.98±0.30</td><td>2.86±0.33</td><td>2.98±0.20</td><td>2.83±0.48</td><td>2.98±0.37</td></tr><tr><td>cost/(元/kg)</td><td>增重成本 Weight gain</td><td>7.15±0.71b</td><td>7.05±0.80b</td><td>7.49±0.52b</td><td>7.44±1.25b</td><td>8.14±1.01a</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { \cdot \cdot P < 0 . 0 5 } )$ ，不同大写字母表示差异极显著1 $_ { . } { P } { < } 0 . 0 1 \$ )，相同或无字母表示差异不显著（ $_ { P > 0 . 0 5 ) }$ 。表3、表4、表5同。
+
+In the same row, values with different small leter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while
+
+with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as Table 3,Table 4 and Table 5.
+
+# 2.2 苜蓿草粉对育肥猪血清生化指标的影响
+
+由表3可见，随着苜蓿草粉添加量的增加，育肥猪血清TP、ALB和GLO含量呈下降 趋势。对照组和 $20 \%$ 苜蓿草粉组血清UN 含量显著高于 $5 \%$ 和 $30 \%$ 苜蓿草粉组（ $\lceil P { < } 0 . 0 5 \rangle$ 。 $5 \%$ 和 $10 \%$ 苜蓿草粉组血清GLU 含量显著高于对照组和 $30 \%$ 苜蓿草粉组（ $P { < } 0 . 0 5$ ， $5 \%$ 、 $10 \%$ 和 $20 \%$ 苜蓿草粉组之间差异不显著（ $\textstyle P > 0 . 0 5 .$ )°
+
+$10 \%$ 和 $20 \%$ 苜蓿草粉组血清ALT活性极显著低于对照组和 $5 \%$ 苜蓿草粉组 （ $\scriptstyle \cdot < 0 . 0 1 { \dot { } }$ )’显著低于 $30 \%$ 苜蓿草粉组（ $P { < } 0 . 0 5 )$ ，对照组、 $5 \%$ 和 $30 \%$ 苜蓿草粉组之间差异不显著（ $P$ ${ \ > } 0 . 0 5 { \mathrm { ; } }$ ， $10 \%$ 和 $20 \%$ 苜蓿草粉组之间差异不显著（ $\cdot  { P } { > } 0 . 0 5 ) ,$ 。对照组和 $5 \%$ 苜蓿草粉组血清AST活性显著高于 $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉组（ $\scriptstyle P < 0 . 0 5 .$ ，对照组和 $5 \%$ 苜蓿草粉组之间差异不显著（ $P { > } 0 . 0 5 )$ ， $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉组之间差异也不显著 （ $\cdot P { > } 0 . 0 5 )$ 。
+
+各组之间血清TC和LDL-C含量差异不显著（ $\cdot P { > } 0 . 0 5 ) .$ 。 $30 \%$ 苜蓿草粉组血清TG含量极显著低于对照组和 $5 \%$ 、 $10 \%$ 、 $20 \%$ 苜蓿草粉组（ $P { < } 0 . 0 1 \rangle$ ，对照组和 $5 \%$ 、 $10 \%$ 、 $20 \%$ 首蓿草粉组之间无显著差异（ $\cdot { \cal P } { > } 0 . 0 5 .$ 。 $30 \%$ 苜蓿草粉组血清HDL-C含量显著高于对照组和$5 \%$ 苜蓿草粉组（ $\scriptstyle P < 0 . 0 5 .$ ， $10 \%$ 苜蓿草粉组显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ， $10 \%$ 、 $20 \%$ 和 $30 \%$ 苜蓿草粉组之间差异不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+# 表3首蓿草粉对育肥猪血清生化指标的影响
+
+Table 3Effects of alfalfa meal on serum biochemical indexes of finishing pigs   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>5%苜蓿草粉</td><td>10%苜蓿草粉</td><td>20%苜蓿草粉</td><td>30%苜蓿草粉</td></tr><tr><td>Items</td><td>Control</td><td>组</td><td>组</td><td>组</td><td>组</td></tr><tr><td></td><td>group</td><td>5% alfalfa</td><td>10% alfalfa</td><td>20% alfalfa</td><td>30%alfalfa</td></tr><tr><td></td><td></td><td>meal group</td><td>meal group</td><td>meal group</td><td> meal group</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>总蛋白 TP/(g/L)</td><td>74.00±2.35</td><td>69.60±5.77</td><td>68.20±8.35</td><td>67.40±4.50</td><td>67.20±5.36</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>37.80±2.68</td><td>34.60±2.61</td><td>33.80±4.32</td><td>33.20±2.17</td><td>32.80±2.95</td></tr><tr><td>球蛋白 GLO/(g/L)</td><td>36.00±2.92</td><td>35.00±4.16</td><td>34.40±5.03</td><td>34.20±4.94</td><td>34.20±2.58</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>6.20±1.10a</td><td>3.60±0.55c</td><td>4.60±0.55bc</td><td>5.40±0.54ab</td><td>4.20±0.84c</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.80±0.45b</td><td>7.00±0.71a</td><td>7.00±1.00a</td><td>6.20±0.45ab</td><td>5.80±0.45b</td></tr><tr><td>谷丙转氨酶 ALT/(IU/L)</td><td>59.00±6.08Aa</td><td>62.20±1.30Aa</td><td>47.40±5.32Bb</td><td>47.00±6.04Bb</td><td>58.20±8.76ABa</td></tr><tr><td>谷草转氨酶 AST/(IU/L)</td><td>65.40±7.80a</td><td>67.20±5.07a</td><td>57.20±12.62b</td><td>47.60±3.36b</td><td>59.60±8.90b</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.45±0.20</td><td>2.44±0.24</td><td>2.25±0.46</td><td>2.35±0.13</td><td>2.46±0.16</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.55±0.05Aa</td><td>0.53±0.02Aa</td><td>0.54±0.06Aa</td><td>0.58±0.03Aa</td><td>0.45±0.04Bb</td></tr><tr><td>高密度脂蛋白胆固醇</td><td>0.68±0.02c</td><td>0.73±0.07bc</td><td>0.83±0.09ab</td><td>0.81±0.13abc</td><td>0.90±0.09a</td></tr><tr><td>HDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白胆固醇</td><td>1.44±0.21</td><td>1.43±0.12</td><td>1.36±0.20</td><td>1.38±0.10</td><td>1.34±0.09</td></tr></table></body></html>
+
+LDL-C/(mmol/L)
+
+# 2.3苜蓿草粉对育肥猪胴体品质的影响
+
+由表4可见，各组之间育肥猪胴体重、屠宰率、背膘厚、眼肌面积、胴体斜长、胴体直长均差异不显著（ $P { > } 0 . 0 5$ )。与对照组相比，各苜蓿草粉组的瘦肉率呈先增加后降低趋势，其中 $20 \%$ 苜蓿草粉组比对照组显著提高了 $7 . 9 9 \%$ （ $\scriptstyle P < 0 . 0 5 { \mathrm { , } }$ ， $5 \%$ 、 $10 \%$ 和 $30 \%$ 苜蓿草粉组与对照组之间差异不显著（ $\mathrm { \Phi } _ { \cdot } P { > } 0 . 0 5 \mathrm { \ ' }$ ）°
+
+# 表4首蓿草粉对育肥猪胴体品质的影响
+
+项目
+
+Table 4Effects of alfalfa meal on carcass quality of finishing pigs   
+
+<html><body><table><tr><td>对照组</td><td>5%苜蓿草粉</td><td>10%苜蓿草粉</td><td>20%苜蓿草</td><td>30%苜蓿草</td></tr><tr><td>Control</td><td>组</td><td>组</td><td>粉组</td><td>粉组</td></tr><tr><td>group</td><td>5%alfalfa</td><td>10%alfalfa</td><td>20%alfalfa</td><td>30%alfalfa</td></tr></table></body></html>
+
+Items
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td colspan="3"></td><td>meal group meal group</td><td>meal group</td><td>meal group</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>114.00±2.0</td><td>114.33±3.06</td><td>114.80±3.03</td><td>114.40±3.58</td><td>114.40±3.85</td></tr><tr><td></td><td>0</td><td></td><td></td><td></td><td></td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>74.24±1.07</td><td>74.14±2.09</td><td>74.22±1.33</td><td>73.37±0.74</td><td>72.76±2.31</td></tr><tr><td>瘦肉率 Lean meat</td><td>61.57±5.58</td><td>62.92±1.30ab</td><td>63.17±1.07ab</td><td>66.49±2.69a</td><td>62.45±0.95ab</td></tr><tr><td>percentage/%</td><td>b</td><td></td><td></td><td></td><td></td></tr><tr><td>背膘厚 Back fat thickness/mm</td><td>23.05±3.23</td><td>21.50±3.64</td><td>22.50±3.09</td><td>21.50±3.68</td><td>21.83±0.55</td></tr><tr><td>眼肌面积 Loin-eye area/cm²</td><td>42.04±2.60</td><td>37.60±2.23</td><td>43.22±2.77</td><td>42.58±3.70</td><td>39.25±5.53</td></tr><tr><td>胴体斜长 Carcass oblique</td><td>88.20±1.92</td><td>87.80±1.64</td><td>88.60±3.65</td><td>88.80±2.59</td><td>86.40±4.34</td></tr><tr><td>length/cm</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胴体直长 Carcass length/cm</td><td>105.80±2.7</td><td>107.80±1.64</td><td>105.80±3.63</td><td>107.20±5.49</td><td>106.20±2.49</td></tr></table></body></html>
+
+# 2.4苜蓿草粉对育肥猪肌肉蛋白质含量的影响
+
+由表5可见，各苜蓿草粉组的肌肉蛋白质含量均高于对照组，其中 $20 \%$ 苜蓿草粉组显著高于对照组 （ $\cdot P { < } 0 . 0 5 )$ ，对照组和 $5 \%$ 、 $10 \%$ 和 $30 \%$ 苜蓿草粉组之间差异不显著（ $\cdot P { > } 0 . 0 5 )$ ）
+
+# 表5苜蓿草粉对育肥猪肌肉蛋白质含量的影响
+
+Table 5Effects of alfalfa meal on muscle protein content of finishing pigs $\%$   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>5%苜蓿草粉</td><td>10%苜蓿草粉</td><td>20%苜蓿草粉</td><td>30%苜蓿草粉</td></tr><tr><td rowspan="3">Item</td><td>Control</td><td>组</td><td>组</td><td>组</td><td>组</td></tr><tr><td>group</td><td>5% alfalfa</td><td>10% alfalfa</td><td>20% alfalfa</td><td>30%alfalfa</td></tr><tr><td></td><td>meal group</td><td>meal group</td><td>meal group</td><td>meal group</td></tr><tr><td>蛋白质</td><td>79.28±2.1</td><td>80.01±1.53ab</td><td>81.57±1.12ab</td><td>81.95±1.39a</td><td>80.76±1.97ab</td></tr></table></body></html>
+
+# 2.5 经济效益分析
+
+由表6可见，每增重 $1 \mathrm { k g }$ 活猪，对照组和 $5 \%$ 、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 苜蓿草粉组的饲料成本分别为7.16、7.08、7.54、7.56和8.08元。育肥猪从 $6 0 { \sim } 1 0 0 \mathrm { k g }$ 过程中，不考虑优质优价，统一根据当时市场毛猪17元/kg 定价，计算出对照组和 $5 \%$ 、 $10 \%$ 、 $20 \%$ 、 $30 \%$ 苜蓿草粉组的毛利润分别为393.31、395.68、377.18、375.48和359.35元，说明 $5 \%$ 的苜蓿草粉添加量可以提升经济效益。
+
+# 表6经济效益分析
+
+Table 6Economic benefit analysis   
+
+<html><body><table><tr><td></td><td>5%苜蓿草粉</td><td>10%苜蓿草</td><td>20%苜蓿草粉</td><td>30%苜蓿草粉</td></tr><tr><td></td><td>对照组</td><td></td><td></td><td></td></tr><tr><td>项目</td><td></td><td>组 粉组</td><td>组</td><td>组</td></tr><tr><td>Items</td><td>Control</td><td></td><td></td><td></td></tr><tr><td></td><td>5% alfalfa group</td><td>10%alfalfa</td><td>20% alfalfa</td><td>30%alfalfa</td></tr><tr><td></td><td>meal group</td><td>meal group</td><td>meal group</td><td>meal group</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总增重 Increase in weight/kg</td><td>39.98</td><td>39.89 39.86</td><td>39.77</td><td>40.29</td></tr><tr><td>猪单价Pig price/(元/kg)</td><td>17</td><td>17 17</td><td>17</td><td>17</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>猪总价 Pig total price/(元)</td><td>679.66 678.13</td><td>677.62</td><td>676.09</td><td>684.93</td></tr><tr><td>耗料量 Feed consumption/kg</td><td>119.31 114.82</td><td>119.22</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>114.30</td><td>118.83</td></tr><tr><td>饲料成本 Feed cost/元</td><td>286.35</td><td>282.45 300.44</td><td>300.61</td><td>325.58</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料成本/增重 Feed cost/weight</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>7.16</td><td>7.08 7.54</td><td>7.56</td><td>8.08</td></tr><tr><td>gain/(元/kg)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>毛利润 Cross profit/元 393.31</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1首蓿草粉对育肥猪生长性能和经济效益的影响育肥猪大肠微生物区系含有大量高活性的纤维降解菌群，其分解饲粮中的纤维产生的挥发性脂肪酸可为育肥猪提供 $3 \% { \sim } 5 \%$ 的能量需要[19-22]。因此，在育肥猪饲粮中添加适量的苜蓿草粉是可行的，不仅能满足育肥猪的能量需求，还能提高育肥猪对饲料的利用。关于苜蓿对育肥猪生产性能影响的研究国内外均有报道，但结果并不完全一致。国外一些学者研究发现，育肥猪饲粮中添加 $5 \% { \sim } 1 0 \%$ 的优质苜蓿草粉，可使其获得良好的生长性能和胴体品质[23-24]。王成章等[2]用苜蓿草粉饲喂体重 $5 0 \mathrm { k g }$ 的杜 $\mathbf { \nabla } _ { \cdot } \times$ 长 $\times$ 大三元杂交猪发现， $1 5 \%$ 和 $20 \%$ 苜蓿草粉组的 ADG、ADFI较对照组明显提高，其中 $1 5 \%$ 的苜蓿草粉组有利于提高育肥猪的体重及饲料转化率。王彦华等[1]的研究结果显示，在肥育猪饲粮中添加苜蓿草粉对肥育猪生长性能无显著影响，但育肥猪 ADFI和F/G会随着饲粮中苜蓿草粉添加量的增加而逐渐降低， $7 \%$ 和 $14 \%$ 的苜蓿草粉组增重效果及F/G有优于对照组的趋势。赵静[25]报道，饲粮中添加 $10 \%$ 和 $1 5 \%$ 的苜蓿草粉显著提高了育肥猪的 ADG，显著降低了育肥猪的F/G。本试验从不同育肥阶段生长性能指标中可以看出，饲粮中添加 $5 \%$ 的首蓿草粉有利于提高育肥猪ADG、降低增重成本和提高经济效益，但当育肥猪饲粮中苜蓿草粉添加量增至 $20 \% { \sim } 3 0 \%$ 时，猪的ADFI和 ADG 降低。这与徐向阳等[14]在二元杂交猪中添加苜蓿草粉的研究结果相似，饲粮中添加$5 \%$ 和 $10 \%$ 的苜蓿草粉有利于提高生长猪的增重及饲料转化率，当苜蓿草粉添加量增至$1 5 \% { \sim } 2 0 \%$ 的时候，上述指标均比对照组有所降低。本试验中苜蓿草粉 $30 \%$ 的添加量会导致ADG 和F/G下降，增重成本提高，这可能是由于动物消化道的容积有限，饲粮纤维水平超出了育肥猪自身利用纤维的能力，影响了营养物质的消化吸收，进而影响了育肥猪的生长性能[26-27]。
+
+# 3.2 苜蓿草粉对育肥猪血清生化指标的影响
+
+血清UN 和TP是反映动物体内蛋白质代谢和氨基酸平衡的重要指标，尤其是血清UN含量直接反映了蛋白质在体内的吸收利用情况和肝肾功能状况。血清UN含量升高表明体内蛋白质分解代谢增强、氮沉积减少，直接导致血液中 TP 含量的减少[14,28]。本试验中，苜蓿草粉组比对照组的血清UN含量有显著降低，血清TP、ALB、GLO含量的变化差异不显著，表明添加苜蓿草粉可以提高体内蛋白质利用率，增加血液中氮的沉积，这可能与苜蓿草粉中的活性营养成分有关，还需进一步的试验验证。
+
+在生理正常值范围内，动物血清GLU含量的高低反映肠道对营养物质消化吸收作用的强弱。本试验中，苜蓿草粉组血清中GLU含量呈先增加后降低趋势，其中 $5 \%$ 和 $10 \%$ 苜蓿草粉组血清中GLU含量显著提高，说明添加适量苜蓿草粉，能通过提高营养物质的消化率进而提高血清GLU含量； $30 \%$ 苜蓿草粉组血清GLU含量显著降低，一定程度上说明添加过量的苜蓿草粉，肠道对GLU的消化吸收作用减弱，这与医学研究纤维素能阻止肠道对碳水化合物的吸收结果一致[29]。因此，饲粮中添加适量苜蓿草粉可以提高育肥猪的消化率，从而间接提高血清中的GLU含量，影响动物的生长性能。
+
+血清ALT和AST活性的高低是反映动物机体应激程度、蛋白质合成与分解状况、肝脏和心脏受损程度的敏感指标[30-31]。正常情况下，血清 ALT 和 AST 的活性以肝脏和心肌细胞中较高，血清中较低，但当组织细胞发生病变或受损时，大量的ALT和AST 逸入血液，就会使其活性升高[32]。本研究中，随着苜蓿草粉添加量的增加，血清 ALT和AST 活性下降趋势明显，尤其是 $20 \%$ 的苜蓿草粉组，表明添加苜蓿草粉能提高机体的抗应激能力，减轻细胞膜损伤。这可能与苜蓿草粉中含有增强机体抗氧化性的苜蓿皂苷等活性成分有关。
+
+TG 和 TC 是评价动物脂质代谢的重要指标。血液中HDL-C 是动物体内胆固醇的"清理工”，其含量升高，可以减少血液中胆固醇沉积、保护血管；LDL-C 过量积累则导致心血管疾病的发生[33]。大量试验证明，苜蓿皂苷能降低血清中TC、TG 和LDL-C 含量，升高血清中 HDL-C 含量[2-3,12,15.33]。本试验中，与对照组相比，苜蓿草粉组血清中 TC 和 LDL-C 含量有降低趋势，但差异不显著；血清HDL-C含量逐渐增加，其中 $30 \%$ 苜蓿草粉组血清HDL-C含量显著升高， $30 \%$ 苜蓿草粉组血清TG含量极显著降低。这表明饲粮中添加苜蓿草粉在一定程度上可以改善动物脂肪沉积和代谢，可能与苜蓿草粉中某些活性成分（如苜蓿皂苷）参与了胆固醇在机体内的代谢、转运等功能有密切关系[34-35]。
+
+# 3.3首蓿草粉对育肥猪胴体性状的影响
+
+本试验中，不同添加量的苜蓿草粉对育肥猪胴体重、屠宰率、背膘厚、眼肌面积、胴体斜长、胴体直长均无显著影响，但随着苜蓿草粉添加量的增加，育肥猪的平均背膘厚呈下降趋势。这与多人的研究结果[15,20.36]一致，可能跟苜蓿中纤维含量的增加有关，说明生产实践中可以通过添加苜蓿草粉来降低育肥猪的背膘厚度。
+
+饲粮中添加一定量的苜蓿草粉能提高育肥猪的瘦肉率已在许多研究中得到证实。Kass等[20]认为，育肥猪饲粮中纤维水平超过 $7 \% { \sim } 1 0 \%$ 时，猪的生长会随着胴体体脂率的下降和瘦肉率的上升而受到抑制。王成章等[15]研究证实，饲粮中添加适量苜蓿草粉，可使动物体脂肪和胆固醇含量下降，瘦肉率提高。本试验中，与对照组相比，苜蓿草粉组的瘦肉率有增加趋势，其中 $20 \%$ 苜蓿草粉组比对照组显著提高了 $7 . 9 9 \%$ ，与上述结论一致，说明饲粮中纤维含量增加，脂肪合成和沉积减少，提高了胴体瘦肉率[37]。但试验中 $30 \%$ 苜蓿草粉组的瘦肉率反而较 $20 \%$ 苜蓿草粉组有所降低，可能是跟该组饲粮中添加了大量的油脂有关，油脂分解供应的能量弥补了消化能的不足，保证了有效能量的供应，导致育肥猪的瘦肉率有所降低。因此，饲粮中添加适量的苜蓿草粉可以改善育肥猪的胴体性状， $20 \%$ 苜蓿草粉添加量的效果较好。
+
+# 3.4苜蓿草粉对育肥猪肌肉蛋白质的影响
+
+猪肉是人类获取优质蛋白质的良好途径之一，猪肉中蛋白质含量高，营养价值也高，有助于满足人们对瘦肉的需求。本研究发现，在育肥猪饲粮中添加苜蓿草粉后，肌肉中蛋白质含量有所增加，其中 $20 \%$ 苜蓿草粉组显著高于对照组（ $\cdot < 0 . 0 5 \AA$ ，对猪肉中蛋白质含量的改善效果最好。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮中添加 $5 \%$ 的首蓿草粉可以减少增重成本，提高经济效益。
+
+$\textcircled{2}$ 饲粮中添加 $20 \%$ 的苜蓿草粉可以改善血清生化指标，提高瘦肉率和肌肉中蛋白质的
+
+含量，改善猪肉品质。
+
+参考文献：  
+[1]胡向东.基于市场模型的我国猪肉供需研究[D].博士学位论文.北京:中国农业科学院,2011.  
+[2]王成章,李德锋,严学兵,等.肥育猪饲粮中添加苜蓿草粉对其生产性能、消化率及血清指标的影响[J].草业学报,2008,17(6):71-77.  
+[3] 韩春梅,张新全,杨春华,等.苜蓿叶蛋白的开发利用现状[J].草业科学,2005,22(9):23-27.  
+[4] SPILLMAN A.Nutrient boost for alfalfa silage[J].AgriculturalResearch,2003,51(12):20-21.  
+[5]刘艳娜,史莹华,严学兵,等.苜蓿青干草替代部分精料对奶牛生产性能及经济效益的而影响[J].草业学报,2013,22(6):190-197.  
+[6]朱晓艳,赵诚,史莹华,等.苜蓿青贮料替代苜蓿青干草对奶牛生产性能及乳品质的影响[J].草业学报,2016,25(5):156-164.  
+[7]刘圈炜,王成章,严学兵,等.苜蓿青饲对波尔山羊屠宰性状及肉品质的影响[J].草业学报,2010,19(1):158-165.  
+[8］许红,余莹,梁新平,等.苜蓿干草对杜寒杂交羊瘤胃发酵参数及十二指肠食糜氨基酸含量的影响[J].动物营养学报,2014,26(6):1689-1697.  
+[9]夏素银,王成章,詹发柏,等.苜蓿草粉饲粮添加纤维素酶对蛋鸡生产性能、蛋品质及养分利用率的影响[J].草业学报,2011,20(5):183-191.
+
+[10] LAUDADO V,CECI E,LASTELLA N M B,et al.Low fiber alfalfa (Medicago sativa L.) meal in the laying hen diet:effects on productive traits and egg quality[J].Poultry Science,2014,93(7):1868-1874.
+
+[11］史莹华,王成章,陈明亮,等.苜蓿草粉对四川白鹅生长性能及抗氧化和免疫指标的影响[J].草业科学,2011,28(5):841-847.
+
+[12]陈继红,孙宇,王彦华,等.苜蓿草粉对肉兔脂质代谢和抗氧化性能的影响[J].中国畜牧兽医,2013,40(10):101-105.
+
+[13］MUSTAFA A F,MCKINNON J J,CHRISTENSEN D A,et al.Effects of micronization of flaxseed on nutrient disappearance in the gastrointestinal tract of steers[J].Animal Feed Science and Technology,2002,95(3/4):123-132.
+
+[14]徐向阳,王成章,杨雨鑫,等.苜蓿草粉对生长猪生产性能及血清指标的影响[J].华中农业大学学报,2006,25(2):164-169.
+
+[15]王成章,徐向阳,杨雨鑫,等.苜蓿草粉对肥育猪胴体品质及血清指标的影响[J].中国农业科学,2008,41(5):1554-1559.
+
+[16]王彦华,程宁宁,郑爱荣,等.苜蓿草粉和苜蓿皂苷对肥育猪生长性能和抗氧化性能的影响[J].动物营养学报,2013,25(12):2981-2988.
+
+[17]National Research Committee.Nutrient requirements of swine[S].Washington D.C.:National Academy of Sciences Press,2012.
+
+[18］国家农业部.NY/T825—2004 瘦肉型猪胴体性状测定技术规范[S].北京:中国农业出版社,2004.
+
+[19]李德发.猪的营养[M].2版.北京:中国农业科学技术出版社,2003.
+
+[20]KASS M L,VAN SOEST P J,POND W G.Utilization of dietary fiber from alfalfa by growing swine. I .Volatile fatty acid concentrations in and disappearance from the gastrointestinal tract[J].Journal of Animal Science,1980,50(1):192-197.
+
+[21]VAREL VH.Activity of fiber-degrading microorganismsin thepig large intestine[J].Journal of Animal Science,1987,65(2):488-496.
+
+[22]VAREL V H,YEN J T.Microbial perspective on fiber utilization by swine[J].Journal of Animal Science,1997,75(10):2715-2722.
+
+[23]SEERLEY R W,WAHLSTROM R C.Dehydrated alfalfa meal in rations for pigs and brood sows in confinement[J].Dehydrated Alfalfa Meal in Rations for Pigs & Brood Sows in Confinement,1968,32(5):809-815.
+
+[24]STANGROOM K E,SMITH T K.Efect of whole and fractionated dietary alfalfa meal on zearalenone toxicosis and metabolism in rats and swine[J].Canadian Journal of Physiology and Pharmacology,1984,62(9):1219-1224.
+
+[25］赵静.添加苜蓿草粉对育肥猪生产性能和肉品质的影响[J].草业科学,2015,32(5):809-815.
+
+[26]许梓荣,卢建军,杨英.饲粮中添加半纤维素酶对生长猪的促生长作用及其内分泌机制[J].中国兽医学报,2002,22(2):201-202.
+
+[27]杨玉芬,葛德军,王长康.饲粮纤维水平对妊娠母猪粪便指标、血清激素和生化指标的影 响[J].动物营养学报,2010,22(6):1529-1535.
+
+[28］官丽辉,李洪龙,吴占福,等.中草药饲料添加剂对生长肥育猪免疫功能的影响[J].饲料工业,2006,27(22):58-59.
+
+[29］尹清强,李小飞,常娟,等.微生态制剂对哺乳和断奶仔猪生产性能的影响及作用机理研究[J].动物营养学报,2011,23(4):622-630.
+
+[30]何世山,金小军.高温对肉鸡血液生化指标的影响[J].浙江大学学报:农业与生命科学版,2003,29(3):311-314.
+
+[31］宁豫昌,赵绪永,王静.绞股蓝对断奶仔猪生长性能、血液生化指标和免疫功能的影响[J].中国畜牧杂志,2014,50(7):74-78.
+
+[32] 阮洪玲,赵佳,白曼,等.乾华肉用美利奴羊血液生化指标的测定与分析[J].中国草食动物科学,2016,36(1):22-25.
+
+[33]王成章,王彦华,史莹华,等.苜蓿皂苷对断奶仔猪脂质代谢、抗氧化和免疫的影响[J].草 业学报,2011,20(4):210-218.
+
+[34]刘伯帅,王文静,陈言言,等.苜蓿皂苷对大鼠肝脏及肝脏细胞低密度脂蛋白受体、三磷酸腺苷结合盒转运体 mRNA 表达的影响[J].动物营养学报,2017,29(4):1437-1445.
+
+[35]陈言言,刘伯帅,陈跃鹏,等.苜蓿皂苷对胆固醇逆向转运基因三磷酸腺苷结合盒转运体A1、清道夫受体BI mRNA 表达的影响[J].动物营养学报,2017,29(4):1446-1454.  
+[36］胡向前.苜蓿草粉及日粮粗蛋白水平对猪胴体品质和肉质的影响[D].硕士学位论文.重庆：西南大学,2006.
+
+[37]杨凤.动物营养学[M].2版.北京:中国农业出版社,2001:75.
+
+Effects of Alfalfa Meal on Growth Performance, Serum Biochemical Indexes, Carcass Quality and Economic Benefit of Finishing Pigs
+
+LYU XianzhaolWANG Chengzhang1QIU Xiaodong² YAO Guolei1XIAO Junnan1 SHI YinghualZHU Xiaoyan1\* (1. College of Animal Science and Veterinary Medicine, Henan Agricultural University, Zhengzhou 450o02, China; 2. Henan Xinda Animal Husbandry Co.,Ltd., Zhengzhou 450000, China)
+
+Abstract: This experiment was conducted to study the effects of alfalfa meal on growth performance, serum biochemical indexes,carcass quality and economic benefit of finishing pigs. One hundred and thirty healthy Landrace $\times$ BigorBig $\cdot \times$ Landrace finishing pigs with average body weight of $( 6 0 . 2 8 { \scriptstyle \pm 0 . 7 3 } )$ kg were randomly divided into 5 groups with 26 replicates in each group and 1 pig in each replicate. The experimental diets were supplemented with O (control group), $5 \%$ $10 \%$ $20 \%$ and $30 \%$ alfalfa meal, respectively. The pre-experiment lasted for 10 days, and the experiment lasted for 72 days. The results showed as follows: 1) at 60 to $1 0 0 \mathrm { k g }$ period, $5 \%$ alfalfa meal group got the highest average daily gain (ADG) and the lowest weight gain cost. 2) There were no significant differences on the contents of total protein, albumin, globulin and total cholesterol and low density lipoprotein cholesterol in serum among all groups $( P { > } 0 . 0 5 )$ ： Compared with control group, the serum urea nitrogen content of $5 \%$ and $30 \%$ alfalfa meal groups was significantly decreased $( P { < } 0 . 0 5 )$ ，the serum glucose content of $5 \%$ and $10 \%$ alfalfa meal groups was significantly increased $( P { < } 0 . 0 5 )$ , the serum triglyceride content of $30 \%$ alfalfa meal group was significantly decreased $( P { < } 0 . 0 1 )$ ，the serum high density lipoprotein cholesterol (HDL-C) content of $10 \%$ and $30 \%$ alfalfa meal groups were increased significantly $( P { < } 0 . 0 5 )$ . The activities of alanine aminotransferase (ALT) and aspartate transaminase (AST) in serum of $10 \%$ （204 and $20 \%$ alfalfa meal groups were significantly lower than that of control group and $5 \%$ alfalfa meal group（ $P { < } 0 . 0 1$ ， $P { < } 0 . 0 5$ ）,respectively, but no significant difference between control group and $5 \%$ alfalfa meal group $( P { > } 0 . 0 5 )$ .3） Compared with control group,the lean meat percentage of $20 \%$ alfalfa meal group was increased by $7 . 9 9 \%$ 0 $\scriptstyle \overbrace { P { < } 0 . 0 5 } \$ ). There were no significant differences on the carcass weight, dressing percentage, back fat thickness, loin-eye area, carcass oblique length, carcass length among all groups $( P { > } 0 . 0 5 )$ . 4) The muscle protein content of $20 \%$ alfalfa meal group was significantly higher than that of control group $( P { < } 0 . 0 5 )$ . In conclusion, adding $5 \%$ alfalfa meal in the diet can reduce weight gain cost and increase economic benefits; while adding $20 \%$ alfalfa meal in the diet can increase the lean meat percentage and muscle protein content, improve the pork quality.
+
+Key words: alfalfa meal; finishing pigs； serum biochemical indexes； carcass quality； muscle
+
+protein

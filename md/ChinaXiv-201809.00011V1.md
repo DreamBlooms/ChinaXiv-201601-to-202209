@@ -1,0 +1,242 @@
+doi:10.13866/j.azr.2018.05.28
+
+# 基于地形因子的TVDI修正以陕西省为例
+
+郑发美1,²，白建军1,2（1．陕西师范大学地理科学与旅游学院,陕西 西安710119；2．陕西师范大学地理学国家级实验教学示范中心,陕西 西安710119)
+
+摘要：近年来,温度植被干旱指数(temperature vegetation drought index,TVDI)在遥感旱情监测中得到广泛的应用，但传统的TVDI没有考虑地形因子对指数精度的影响。本文以陕西省为例,利用DEM数据对地表温度做高程修正,同时引入归一化差值山地植被指数(normalized diference mountain vegetation index,NDMVI)代替归一化植被指数（normalized diference vegetation index,NDVI),以减弱地形起伏对植被指数的影响,进而构建新的TVDI。分别利用修正前后的地表温度以及NDMVI和NDVI构建了4种TVDI,并分析4种指数与土壤湿度及降水的关系,分析比较其监测农业干旱的精度。结果表明：高程与地形起伏对TVDI监测干旱的精度有较大的影响。经过修正后的TVDI与传统 TVDI相比,其与土壤相对湿度的相关系数从-0.342 提高至-0.711,且能更准确地体现降水的变化特征,说明修正后的TVDI能够更有效地反映区域土壤水分状况,可对农业干旱进行更加精确地监测。
+
+关键词：干旱监测；地形因子；TVDI；NDMVI；修正；陕西
+
+近年来，随着气候变暖等全球性环境问题的凸显,极端灾害事件频繁发生(。干旱,尤其是重大干旱灾害已经威胁到社会和国家稳定，干旱的发生与持续对农业生产、粮食安全、生态环境以及国民经济等产生严重的影响[2]。因此,关于干旱,尤其是农业干旱的监测研究受到了学者们的广泛关注[3]。传统的农业旱情监测主要是通过土壤熵情站点或气象站点，获取农田土壤湿度和降水量等信息来描述旱情状况，虽能真实地反映干旱发生状况，但监测精度取决于地面站点的分布密度，较难详细反映农业干旱状况,且监测成本较高[4-5]。而遥感技术能快速获取地表覆盖、辐射条件等信息，具有观测范围广、获取信息量大、速度快、实时性好、动态性强等优点,已成为目前农业旱情监测普遍采用的方法[6]。其中温度植被干旱指数(TVDI)因模型建立简单、监测精度较高，在遥感干旱监测中得到了广泛的研究和应用[7]
+
+TVDI是基于光学与热红外遥感通道数据进行植被覆盖区域表层土壤水分反演的方法来进行干旱监测的，以卫星得到的地表温度 $T _ { s }$ 数据与NDVI为基础进行计算，然而地表温度与NDVI分别受到高程和地形起伏的影响。一方面，随着高程的增加大气温度逐渐降低，气温通过湍流的形式与地表温度进行热交换,从而对地表温度产生影响。Ran 等[8]用高程对TVDI模型的地表温度进行了修正，结果表明经过高程修正后获取的TVDI值与实测土壤相对湿度具有更好的相关性。刘立文等[9在研究多种植被指数与地表温度的基础上，引入DEM数据对地表温度做地形修正，得出地表温度在经过地形修正后能够更好地反映研究区的地表实际状况。另一方面，遥感植被指数是通过多光谱遥感数据波段的线性或非线性组合来描述地表植被状况的一种光谱特征度量指标(10-12]。在植被覆盖区域,地形起伏会导致遥感影像中同种或相似地物呈现不同的光谱反射特征，这种反射特征的差异也会给植被信息估算带来误差，使得分布在地形区域较为复杂的植被信息很难完全提取[13]。地形起伏引起的光谱信息变化严重影响了植被信息的提取精度，成为植被遥感信息准确解译的主要障碍[14-15]。为消除或者抑制地形的影响,吴志杰等[16]利用山地植被指数提取植被信息，并取得良好的效果。综上，高程及地形起伏分别对 $T _ { s }$ 和NVDI造成了较大的影响，然而，以往在TVDI干旱监测研究中并没有将这种影响完全考虑进去。
+
+为了消除和减弱高程和地形起伏对TVDI计算结果的影响，提高其监测农业旱情的精度，本文选择地形起伏较大的陕西省作为研究区，在分析TVDI特征空间的基础上，引入DEM数据对 $T _ { s }$ 进行高程修正，同时引入NDMVI来代替 NDVI反映植被信息。通过修正后的地表温度和NDMVI构建新的温度植被干旱指数，利用农田土壤相对湿度数据及降水数据评价不同指数监测旱情的效果，以期提高温度植被干旱指数(TVDI)反演土壤水分的准确性，为遥感干旱监测提供新的思路与方法。
+
+# 1资料与方法
+
+# 1.1 研究区概况
+
+陕西省位于我国西北内陆，地理位置为$1 0 5 ^ { \circ } 2 9 ^ { \prime } \sim 1 1 1 ^ { \circ } 1 5 ^ { \prime } \mathrm { E } , 3 1 ^ { \circ } 4 2 ^ { \prime } \sim 3 9 ^ { \circ } 3 5 ^ { \prime } \mathrm { N }$ ,地域南北长，东西窄，横跨黄河和长江两大流域中部（图1）。
+
+陕西省境内山塬起伏，河川纵横，地势总体特点为南北高，中部低，海拔分布落差较大，高程范围为
+
+![](images/6c73ac8859c784a9662af4fc9b3788943f6443289ed1e1c3c7538027fee06eb7.jpg)  
+图1研究区概况示意图  
+Fig.1Geographical location of the study area
+
+$1 7 1 \sim 3 ~ 6 2 1 ~ \mathrm { m }$ ,以北山与秦岭为界，全省自北向南分为陕北高原、关中平原和秦巴山地三大地貌区[17]。陕西省境内气候差异很大，由北向南渐次过渡为温带、暖温带和亚热带，整体属大陆季风性气候，因而四季分明,雨热同期,易发生干旱[18]。全省降水量分布不均，自东南向西北地区递减，年平均降水量为$3 0 0 \sim 1 ~ 0 0 0 ~ \mathrm { \ m m } ^ { [ 1 9 ] }$ 。陕北地区气候较为干燥,干旱发生频率高达 $7 3 . 3 \%$ [20]；关中地区为半湿润气候区,旱涝交替发生[2I];陕南地区旱灾时有发生,其中商洛地区易受旱灾影响[22]。根据省气象局相关资料记载显示，2010年陕西省出现较为严重的春夏旱情，对农作物的生长产生严重影响，其中旱情较重的渭南、咸阳两地作物受旱面积已超过 $2 . \ 0 \ \times 1 0 ^ { 5 }$ hm2[23] 。
+
+# 1.2 数据介绍
+
+本研究采用的遥感数据来源于NASA的MO-DIS产品数据（MOD11A2和MOD13A2，时相是2010年4月7日至9月30日），行列号为 $\mathtt { h 2 6 v 0 5 }$ 与${ \mathrm { h } } 2 7 { \mathrm { v } } 0 5 $ 。MOD11A2是8d合成的地表温度产品，MOD13A2是16d合成的植被指数产品，在获得研究区域地表温度数据与植被指数数据之后，将MOD11A2数据采用均值法合成为16d的地表温度数据。DEM采用 $3 0 \mathrm { ~ m ~ }$ 的 ASTERGDEM数据,重采样为 $1 ~ \mathrm { k m }$ 分辨率的数据。
+
+降水数据来源于中国地面气候资料日值数据集中的每日20时至次日20时降水记录资料，2010年陕西省共有20个降水记录站点，其中有效站点为17个。土壤熵情数据来源于中国农作物生长发育和农田土壤湿度旬值数据集，研究采用该数据集中陕西省28个农业气象站点测得的 $2 0 \ \mathrm { c m }$ 土壤相对湿度，当土壤水分饱和时土壤相对湿度记为 $9 9 \%$ ，主要为降水或者人为灌溉导致，为了保证使用的精度，将土壤相对湿度为 $9 9 \%$ 的值剔除。两个数据集均下载自中国气象数据网（http：//data.cma.cn）。
+
+# 1.3 研究方法
+
+1.3.1 TVDI干旱监测原理 Sandholt等[24]在研究土壤湿度时发现，如果研究区的植被覆盖包含从裸地到植被全覆盖，土壤湿度包含从极干旱到极湿润的各种情况，那么，以遥感获得的NDVI和地表温度$( T _ { s } )$ 为横纵坐标组成的散点图呈三角形的特征（图2)，且 $\mathrm { N D V I } \sim T _ { s }$ 特征空间中存在许多等值线,两者之间的斜率与作物的水分指数呈负相关，据此提出了温度植被干旱指数(TVDI)的概念。TVDI由植被指数与地表温度计算得到，公式如下：
+
+![](images/b1045ab9f10e565094f113ba574adbc23b5a87a43ddd2006ef325a4e0bd4e3d1.jpg)  
+图2 TVDI原理示意图[25]   
+Fig.3Distribution of TVDI at different elevations in the study area
+
+$$
+\mathrm { T V D I } = \frac { T _ { s } - T _ { \mathrm { { s m i n } } } } { T _ { \mathrm { { s m a x } } } - T _ { \mathrm { { s m i n } } } }
+$$
+
+式中： $T _ { \mathrm { s m i n } }$ 为相同植被指数值对应的最小地表温度，即 $\mathrm { N D V I } \sim T _ { s }$ 特征空间的湿边; $T _ { \mathrm { s m a x } }$ 为相同植被指数对应的最大地表温度，即 $\mathrm { N D V I } \sim T _ { s }$ 特征空间的干边； $T _ { s }$ 为地表任意像元的地表温度。
+
+对最大、最小地表温度散点进行线性拟合，得到TVDI特征空间的干湿边方程：
+
+$$
+\begin{array} { r } { T _ { \mathrm { { s m a x } } } = a _ { 1 } + b _ { 1 } \times \mathrm { { N D V I } } } \\ { T _ { \mathrm { { s m i n } } } = a _ { 2 } + b _ { 2 } \times \mathrm { { N D V I } } } \end{array}
+$$
+
+式中： $a _ { 1 } \ 、 b _ { 1 } 、 a _ { 2 } 、 b _ { 2 }$ 分别是干湿边线性拟合方程的系数。对于TVDI值反映干旱程度的划分，一般认为值越趋向于1，土壤干旱程度越严重;TVDI值越趋向于0，土壤含水量越高。
+
+1.3.2地表温度的高程修正原理研究区南北高、中间低的地势特点，使得地形成为影响研究区植被、气候、土壤等地域分异的重要因素。一方面高程落差较大的山脉、河谷等地域格局通过影响降水、风力等气候要素分布，对土壤的含水量产生影响。另一方面高程越高，大气得到的地面辐射越少，从而气温越低。大气与下垫面之间以湍流形式进行热交换，地气温差发生改变，通过热交换能量发生变化，使得地表温度在一定程度上受到气温的影响[26-27]。而地表温度是TVDI模型的构建因子，研究区从北部到南部地形由高原过渡到平原，又过渡到山地，较大的高程落差会对地表温度产生一定的影响，从而影响TVDI反演土壤水分的精度。
+
+进一步研究TVDI值与高程值的关系，通过传统方法计算陕西省年平均TVDI值，并利用DEM数据提取每个高程值对应的TVDI值，获取研究区不同高程值对应的TVDI散点图（图3）。从图3可以看出，TVDI与高程呈现明显的负相关关系，相关系数为-0.851，说明研究区的TVDI值在一定程度上受到了高程的影响。因此，有必要利用高程来修正地表温度，以提高利用TVDI监测农业干旱的精度。
+
+![](images/611fe72ebac1c4b205dab848f8c1a22f94b3f5fe6d9f9bb28c88d3181b2d4d68.jpg)  
+Fig.2 Construction principle of TVDI[25)   
+图3研究区不同高程等级TVDI分布
+
+本文通过DEM数据对地表温度进行修正，所用公式如下：
+
+$$
+t _ { { \scriptscriptstyle m } } = t _ { s } + H \times m
+$$
+
+式中： $t _ { m }$ 为经过DEM修正后的地表温度; $t _ { s }$ 为修正前的温度； $H$ 是高程值； $m$ 是地表温度受气温影响随高程增加而降低的程度。
+
+1.3.3植被指数的地形修正原理研究发现,同类植物处于阴面比阳面同时期的光谱反射率低，尤其在近红外波段差异更大，阴面植被光谱曲线的红边斜率随之降低,两者的 NDVI值出现较大偏差[16] 。根据不同坡向的植被反射率出现差异的特征，相关学者认为可以在不改变多光谱曲线特征的条件下，在NDVI的计算公式中采取降低分母数值增加分子数值来提高NDVI的值，同时使得阳面比阴面的NDVI数值提升的幅度要小，最终使得处于地形起伏较大、坡向不同，但植被类型相同的NDVI值较为接近，进而达到消除或者抑制地形影响的目的[28-32]。在此基础上,吴志杰等[16]提出使用归一化差值山地植被指数（NDMVI)，用来修正复杂地形对NDVI值的影响，公式如下：
+
+$$
+{ \mathrm { N D M V I } } = { \frac { \left( \rho _ { \mathrm { n i r } } - \rho _ { \mathrm { r e d } } \right) + \left( R _ { \mathrm { n i n } } - N I R _ { \mathrm { n i n } } \right) } { \left( \rho _ { \mathrm { n i r } } + \rho _ { \mathrm { r e d } } \right) - \left( R _ { \mathrm { n i n } } + N I R _ { \mathrm { n i n } } \right) } }
+$$
+
+式中： $\rho _ { \mathrm { n i r } }$ 为近红外波段的反射率； $\rho _ { \mathrm { r e d } }$ 为红光波段的反射率； $R _ { \mathrm { m i n } }$ 为红光波段反射率最小值; $N I R _ { \mathrm { { m i n } } }$ 为近红外波段反射率最小值。
+
+研究区高程落差较大，地形的起伏变化导致遥感成像上出现不同的阴影区，虽然NDVI采用比值法可以抑制部分由太阳高度角不同造成的“同物异谱"现象,但地形的起伏变化对NDVI产生的影响仍不能忽视。NDMVI指数是在近红外波段与红光波段分别减去一定的数值，不同地物两波段间光谱特征的相对关系并没有改变，因此，该指数可以使得阳面和阴面的植被指数值更接近，消除或抑制地形因素造成的植被信息偏差。
+
+# 2结果与分析
+
+# 2.1 地表温度的修正
+
+在对地表温度进行修正的过程中，最重要的是高程对地表温度的影响程度值 $\mid m \mid$ 的确定。一般认为，高程每升高 $1 0 0 \mathrm { ~ m ~ }$ ，气温降低 $0 . 6 ~ \mathrm { { ^ { \circ } C } }$ 左右。虽然随着气温的变化，地表温度也会受到一定程度的影响，但对于地表温度值随高程变化的研究还不多。相关学者提出，相同高程下，浅层地表温度值与气温值差别不大，变化趋势也相同，可用气温随高程的变化作为参考[26]。为了进一步研究高程对地表温度产生的影响，应选取研究区气温日较差相对较大、高程对气温值有明显影响的时段进行研究。研究区初夏气温日变化明显，高程对气温产生的影响不容忽视,因此,选取研究区6月上旬地表温度 $t _ { s }$ 与DEM数据,分析地表温度随高程增加而降低的程度 $m$ 。研究区高程为 $1 7 1 \sim 3 ~ 6 2 1 ~ \mathrm { m }$ ，由于 $3 \ 0 0 0 \ \mathrm { ~ m ~ }$ 以上高程区域主要分布在太白山等高山地区，其植被类型为高山灌木，此处旱情一般不做研究，因此，对高程大于 $3 \ 0 0 0 \ \mathrm { ~ m ~ }$ 的情况不予考虑。对 $1 7 1 \ \sim 3 \ 0 0 0 \ \mathrm { m }$ 的高程范围，以 $1 0 0 \mathrm { ~ m ~ }$ 为增量计算各个高程区间地表温度的平均值 $\boldsymbol { t } _ { h }$ 与高程的平均值 $H _ { h }$ ,按照 $H _ { h }$ 升序排列，计算相邻区间平均地表温度和高程的差值，并定义公式：
+
+$$
+m = \frac { t _ { h 2 } - t _ { h 1 } } { H _ { h 2 } - H _ { h 1 } }
+$$
+
+式中： $m$ 为地表温度随高程增加而降低的程度; $\boldsymbol { t } _ { h 1 }$ 、$t _ { h 2 } \setminus H _ { h 1 } \setminus H _ { h 2 }$ 分别为相邻区间地表温度的平均值以及高程的平均值。根据DEM数据提取各高程点对应的地表温度，并计算各高程区间不同的 $m$ 值，如表1所示。
+
+由表1可以看出， $\mathbf { \nabla } _ { m }$ 值波动范围较小，大致分布在 $- 0 . 0 1 2 7 1 \sim 0$ 之间。根据获得的28个 $\mathbf { \nabla } _ { m }$ 值分别对6月上旬的地表温度进行修正，利用修正后的地表温度数据结合NDVI值反演TVDI,并与分布于研究区28个农业气象站点测得的相应时间的20cm土壤相对湿度数据做相关性分析。如反演得到TVDI值与实测土壤相对湿度数据有最好的相关性，则反演得到的TVDI值能最好的反映土壤湿度状况，说明利用该 $m$ 值修正后的地表温度能够较准确地反映地表实际温度，则取为最佳 $m$ 值。如图4所示，由于气温与高程呈现明显的负相关关系，为了能与气温随高程的变化相对应，并使得计算表达方便，将 $\mid m \mid$ 表示为 $- 1 / 1 0 0$ 为单位的形式。将利用不同 $m$ 值修正后的地表温度反演得到的TVDI值与土壤湿度数据进行相关性分析，其分布如图4。
+
+表1各高程区间的影响程度值  
+Tab.1Influence values at different elevations   
+
+<html><body><table><tr><td>高程区间/m</td><td>影响程度值(m)</td><td>高程区间/m</td><td>影响程度值(m)</td></tr><tr><td>200~300</td><td>-0.000 836057</td><td>1 600~1700</td><td>-0.014 751 601</td></tr><tr><td>300~400</td><td>-0.001858 027</td><td>1 700~1800</td><td>-0.000447937</td></tr><tr><td>400~500</td><td>-0.003 2545 52</td><td>1 800~1900</td><td>-0.005699 998</td></tr><tr><td>500~600</td><td>-0.001198 907</td><td>1900~2000</td><td>-0.006 330 563</td></tr><tr><td>600~700</td><td>-0.007730 485</td><td>2000~2100</td><td>-0.005360 715</td></tr><tr><td>700~800</td><td>-0.007 346 475</td><td>2 100~2 200</td><td>-0.004 997 115</td></tr><tr><td>800~900</td><td>0.002 962 541</td><td>2 200~2300</td><td>-0.006476 033</td></tr><tr><td>900~1000</td><td>-0.007 320 064</td><td>2300~2400</td><td>-0.004197 357</td></tr><tr><td>1000~1100</td><td>-0.010 778 05</td><td>2400~2 500</td><td>-0.004 4604 04</td></tr><tr><td>1100~1200</td><td>-0.011 290 732</td><td>2 500~2600</td><td>-0.004246 25</td></tr><tr><td>1200~1300</td><td>-0.012 257 724</td><td>2 600~2700</td><td></td></tr><tr><td>1300~1400</td><td>-0.006154 835</td><td>2 700~2800</td><td>-0.003 897 37</td></tr><tr><td></td><td>-0.012 229 793</td><td>2 800~2 900</td><td>-0.0099739 66</td></tr><tr><td>1 400~1500 1 500~1600</td><td>-0.012 709 305</td><td>2 900~3000</td><td>-0.002 819 414 -0.002 372 969</td></tr></table></body></html>
+
+根据影响程度 $m$ 与相关系数 $r$ 的关系图可知，随着 $m$ 值的逐渐增大，反演得到的TVDI值与实测土壤相对湿度的相关系数呈现先增加后减少的趋势，且最适合的 $\mid m \mid$ 值落在 $- 0 . 4 5 / 1 0 0 \sim - 0 . 7 5 / 1 0 0$ 之间。进一步分析最佳 $\mathbf { \nabla } _ { m }$ 值,发现在 $- 0 . 4 5 / 1 0 0 \sim$ $- 0 . 7 5 / 1 0 0$ 区间相关系数 $r$ 呈现明显的先增加后降低的趋势，且在 $m = { \textrm { -- } } 0 . 0 0 6 \ 1 5$ 时相关系数达到最大，此时反演得到的TVDI与实测土壤湿度数据有最好的相关性，且这个值与气温随着高程增加而降低的程度相近，说明取影响程度 $m$ 为-0.00615是可信的，由此得到高程对地表温度的影响程度最佳值 $m = { \mathrm { ~ - ~ } } 0 . 0 0 6 \ 1 5$ 。根据求得的最佳 $\mathbf { \nabla } _ { m }$ 值，对研究区2010年4月7日至9月30日地表温度分别进行修正，以减弱高程对地表温度的影响。
+
+![](images/023028bd03003eee9b461d93b4dff2634ccebe2922170744ef2b901b86216897.jpg)  
+图4高程对地表温度的影响程度 $\mathbf { \lambda } ( m )$ 与相关系数 $( r )$ 的关系  
+Fig.4Relationship between the influence level of elevation on surface temperature and the correlation coefficient
+
+# 2.2植被指数的修正
+
+为了减弱地形起伏对获取植被信息的影响，本研究采用NDMVI提取植被信息。根据植被指数计算公式分别求得陕西省2010年4月7日至9月30日16d合成的NDVI与NDMVI影像,为了更加明显地对NDVI与NDMVI影像进行对比评价，在保证数据源相同的基础上，选择太阳光照强度适中的4月23日的NDVI与NDMVI影像进行分析（图5）。从图5可以看出，NDVI与NDMVI影像植被指数值总体分布相似，主要区别在于由地形起伏变化形成的阴影区与非阴影区。从图5a可以得出：影像表现为明显的地形纹理特征，且在地形起伏变化较大的阴影区域影像NDVI值较低。而图5b可以看出，在NDVI影像上植被指数值较低的区域NDMVI值有所增加，且整体影像地形纹理特征不明显，在地形起伏变化较大的区域植被指数值有所提高。可见，NDMVI使得由地形起伏变化造成的阴影区与非阴影区的植被信息较为接近，可以帮助消除或者抑制由地形差异而导致植被信息失真的现象。
+
+# 2.3TVDI指数计算结果
+
+本文利用经过高程和地形修正前后的地表温度和植被指数分别构建4种TVDI指数： $\textcircled{1}$ 利用原始地表温度与NDVI构建的 $\mathrm { T V D I _ { n } }$ $\textcircled{2}$ 利用经过DEM修正后的地表温度与NDVI构建的 $\mathrm { { T V D I } _ { \mathrm { n d } } }$ · $\textcircled{3}$ 利用原始地表温度与NDMVI构建的 $\mathrm { T V D I } _ { \mathrm { m } }$ ： $\textcircled{4}$ 利用DEM 修正后的地表温度与 NDMVI构建的 TVDImdo
+
+将植被指数值进行统计分析，以0.01间隔为步长，提取相同植被指数值对应的最大最小地表温度。根据最大、最小地表温度的散点图进行线性拟合，即得到干湿边方程。结果见表2～5。
+
+从 $\mathrm { T V D I } _ { \mathrm { n } }$ 与 $\mathrm { { T V D I } _ { \mathrm { n d } } }$ 的干湿边拟合方程结果来看，在12 期影像中有10期 $\mathrm { T V D I _ { n d } }$ 的干边方程 $R ^ { 2 }$ 较$\mathrm { T V D I } _ { \mathrm { n } }$ 有所提高，其均值由0.786提高至0.817；湿边方程 $R ^ { 2 }$ 有6期影像较 $\mathrm { T V D I } _ { \mathrm { n } }$ 的湿边方程 $R ^ { 2 }$ 得到了提高，其均值由0.219提高至0.305。由此得知，$\mathrm { { T V D I } _ { \mathrm { n d } } }$ 的干湿边散点分布较为聚集，而 $\mathrm { T V D I } _ { \mathrm { n } }$ 的干湿边散点分布较为离散，说明 $\mathrm { T V D I _ { \mathrm { n d } } }$ 的干湿边方程拟合效果较好，经过高程修正后的地表温度更能准确反映实际地表温度的分布状况。从 $\mathrm { \Delta T V D I _ { n } }$ 与$\mathrm { { T V D I } _ { \mathrm { { m } } } }$ 的干湿边拟合方程结果来看， $\mathrm { { T V D I } _ { m } }$ 的拟合效果整体较好，其中干边方程 $R ^ { 2 }$ 均较 $\mathrm { T V D I } _ { \mathrm { n } }$ 有所提高，其均值提高至0.891;湿边方程 $R ^ { 2 }$ 有8期影像都有所提高，其均值由0.219提高至0.331，说明NDMVI指数能更加准确地获取地表植被信息。同时,对比分析 $\mathrm { T V D I } _ { \mathrm { n } }$ 与 $\mathrm { T V D I } _ { \mathrm { m d } }$ 的干湿边拟合方程可知， $\mathrm { T V D I } _ { \mathrm { m d } }$ 的干湿边方程拟合结果较好，其中干边方程 $R ^ { 2 }$ 均值由0.786提高至0.915，湿边方程 $R ^ { 2 }$ 均值由0.219提高至0.339，说明 $\mathrm { T V D I } _ { \mathrm { m d } }$ 指数能更加准确的反映地表真实信息。
+
+![](images/ae53285513751c6d5766df375558d7b3c3dd82298c4b0c9653aa7269a532914c.jpg)  
+图5NDVI/NDMVI指数影像 Fig.5Images of NDVI(a) and NDMVI(b)
+
+# 2.44种TVDI指数的比较与验证
+
+2.4.1TVDI与土壤湿度的关系为了对比分析4种 TVDI监测农业旱情的效果，笔者计算了陕西省2010年4一9月4种TVDI值，同时提取各土壤湿度站点对应的4种遥感指数值，并结合相应时间的实测土壤相对湿度数据进行相关性分析(图6)。结果显示，4种温度植被干旱指数值均与实测土壤相对湿度数据呈现负相关关系。
+
+由图6分析可知， $\mathrm { T V D I _ { n d } }$ 值与土壤相对湿度的相关性高于 $\mathrm { T V D I } _ { \mathrm { n } }$ 值,其相关系数 $\boldsymbol { r }$ 提高了0.204，说明经过高程修正后的 $\mathrm { \Delta T V D I _ { \mathrm { n d } } }$ 能较好地反映真实土壤湿度的状况，可提高干旱监测的精度。通过对比 $\mathrm { T V D I } _ { \mathrm { n } }$ 和 $\mathrm { { T V D I } _ { m } }$ 值与土壤湿度的关系可知,两者均与土壤湿度呈现负相关关系，但 $\mathrm { T V D I } _ { \mathrm { m } }$ 值与土壤相对湿度相关性更好，相关系数为-0.460，较原始$\mathrm { T V D I } _ { \mathrm { n } }$ 值与土壤相对湿度的相关系数提高了0.118。
+
+Tab.2The dry-wet edge fitting equations for $\mathbf { T D V I } _ { \mathbf { n } }$   
+表3 $\mathbf { T V D I _ { n d } }$ 指数的干湿边方程  
+
+<html><body><table><tr><td>日期/月－日</td><td>干边拟合方程</td><td>R²</td><td>湿边拟合方程</td><td>R</td></tr><tr><td>04-07</td><td>y= -12.005x + 27.633</td><td>0.826 9</td><td>y= 7.1061x - 1.440 5</td><td>0. 158 7</td></tr><tr><td>04 -23</td><td>y = -32.92x + 37.615</td><td>0.920 1</td><td>y = 19.546x - 5.174</td><td>0.735 8</td></tr><tr><td>05-09</td><td>y = -35.464x + 42.825</td><td>0.888 4</td><td>y = 6.7253x - 1.9861</td><td>0.304 6</td></tr><tr><td>05-25</td><td>y = -38.757x + 43.93</td><td>0.856 3</td><td>y = 2.331 7x + 0.019 6</td><td>0. 021 7</td></tr><tr><td>06-10</td><td>y = -23.067x + 45.117</td><td>0.806 2</td><td>y =-13.111x + 10.148</td><td>0.295 6</td></tr><tr><td>06-26</td><td>y = -25.086x + 49.516</td><td>0.757 3</td><td>y = -8.4818x + 16.522</td><td>0.180 9</td></tr><tr><td>07 -12</td><td>y= -20.612x + 44.853</td><td>0.749 9</td><td>y = 0.651 7x + 0.908</td><td>0.0081</td></tr><tr><td>07 -28</td><td>y = -31.384x + 46.476</td><td>0.708 7</td><td>y = 5.203 9x - 1.469 6</td><td>0.234 0</td></tr><tr><td>08-13</td><td>y= -18.778x + 36.628</td><td>0.7348</td><td>y = -16.025x + 8.953 3</td><td>0.410 1</td></tr><tr><td>08-29</td><td>y = -24.896x + 36.462</td><td>0.825 0</td><td>y = -8.458 1x + 6.394 7</td><td>0.076 9</td></tr><tr><td>09-14</td><td>y= -30.486x + 38.177</td><td>0.6020</td><td>y = 8.896 8x - 2.6735</td><td>0.206 6</td></tr><tr><td>09-30</td><td>y= -32.281x + 36.289</td><td>0.752 6</td><td>y = -0.7077x + 1.0187</td><td>0.0032</td></tr></table></body></html>
+
+表2TVDI指数的干湿边方程  
+Tab.3The dry-wet edge fiting equations for $\mathbf { T V D I _ { n d } }$   
+
+<html><body><table><tr><td>日期/月-日</td><td>干边拟合方程</td><td>R²</td><td>湿边拟合方程</td><td>R²</td></tr><tr><td>04-07</td><td>y = -14.505x + 29.074</td><td>0.8831</td><td>y = 11.054x - 3.7167</td><td>0.246 2</td></tr><tr><td>04-23</td><td>y= -21.318x + 36.063</td><td>0.962 0</td><td>y = -2.696 9x + 12.645</td><td>0.209 2</td></tr><tr><td>05-09</td><td>y= -24.254x + 41.877</td><td>0.848 6</td><td>y = -14.479x + 11.476</td><td>0.315 7</td></tr><tr><td>05-25</td><td>y = -21.942x + 40.792</td><td>0.900 6</td><td>y= -4.550 5x + 4.3192</td><td>0.091 9</td></tr><tr><td>06-10</td><td>y= -28.617x + 48.904</td><td>0.927 6</td><td>y = -5.129 4x + 4.6845</td><td>0. 175 4</td></tr><tr><td>06-26</td><td>-25.929x + 49.396 y=</td><td>0.765 2</td><td>y = -7.0515x + 16.163</td><td>0.110 0</td></tr><tr><td>07-12</td><td>-20.834x + 44.696 y=</td><td>0.769 8</td><td>y= -0.0217x + 1.3343</td><td>0.4361</td></tr><tr><td>07-28</td><td>y = -16.787x + 42.858</td><td>0.901 7</td><td>y = 5.026 9x - 1.627</td><td>0.188 2</td></tr><tr><td>08-13</td><td>-14.294x + 36.651 y=</td><td>0.707 7</td><td>y = -18.64x + 16.609</td><td>0. 664 8</td></tr><tr><td>08-29</td><td>y = -14.017x + 34.374</td><td>0. 684 4</td><td>y = -18.417x + 16.284</td><td>0.559 5</td></tr><tr><td>09-14</td><td>y = -15.781x + 34.565</td><td>0.6931</td><td>y = -1.308 5x + 1.8781</td><td>0. 039 1</td></tr><tr><td>09-30</td><td>y= -17.764x + 33.202</td><td>0.755 9</td><td>y = -13.026x + 10.221</td><td>0.620 9</td></tr></table></body></html>
+
+# 表4 $\mathbf { T V D I _ { m } }$ 指数的干湿边方程
+
+Tab.4The dry-wet edge fitting equationsfor $\mathbf { T V D I _ { m } }$   
+表5 $\mathbf { T V D I } _ { \mathbf { m d } }$ 指数的干湿边方程  
+
+<html><body><table><tr><td>日期/月－日</td><td>干边拟合方程</td><td>R²</td><td>湿边拟合方程</td><td>R</td></tr><tr><td>04-07</td><td>y = -14.684x + 33.224</td><td>0.871 8</td><td>y = 14.416x + 0.623</td><td>0.600 5</td></tr><tr><td>04 -23</td><td>y = -28.428x + 38.873</td><td>0.963 8</td><td>y = 24.302x + 3.4809</td><td>0.8241</td></tr><tr><td>05-09</td><td>y = -34.967x + 46.518</td><td>0.896 6</td><td>y = 0.725 1x + 12.235</td><td>0.003 6</td></tr><tr><td>05-25</td><td>y= -37.92x + 48.683</td><td>0.969 5</td><td>y = 7.888 4x + 8.298 3</td><td>0.2910</td></tr><tr><td>06-10</td><td>y = -22.325x + 50.049</td><td>0.865 3</td><td>y = -5.890 9x + 17.29</td><td>0.170 6</td></tr><tr><td>06-26</td><td>y = -24.009x + 53.395</td><td>0.827 0</td><td>y = -6.194 7x + 24.589</td><td>0.185 5</td></tr><tr><td>07 -12</td><td>y = -25.184x + 53.867</td><td>0.874 8</td><td>y = 2.333 1x + 12.48</td><td>0.088 0</td></tr><tr><td>07 -28</td><td>y = -38.618x + 55.400</td><td>0.871 3</td><td>y = 10.871x + 8.7507</td><td>0.574 8</td></tr><tr><td>08-13</td><td>y = -26.605x + 44.126</td><td>0.911 0</td><td>y = -7.536 4x + 18.859</td><td>0.344 9</td></tr><tr><td>08-29</td><td>y = -30.14x + 43.815</td><td>0.963 4</td><td>y = 3.495 8x + 11.501</td><td>0.027 3</td></tr><tr><td>09-14</td><td>y = -23.996x + 38.862</td><td>0.7938</td><td>y = 15.382x + 4.3319</td><td>0.454 9</td></tr><tr><td>09-30</td><td>y= -25.423x + 36.434</td><td>0.887 5</td><td>y = 14.409x + 2.1885</td><td>0.4168</td></tr></table></body></html>
+
+Tab.5The dry-wet edge fitting equations for $\mathbf { T V D I } _ { \mathbf { m d } }$   
+
+<html><body><table><tr><td>日期/月-日</td><td>干边拟合方程</td><td>R²</td><td>湿边拟合方程</td><td>R²</td></tr><tr><td>04-07</td><td>y = -17.363x + 34.764</td><td>0.930 6</td><td>y = 17.978x - 1.4341</td><td>0. 652 7</td></tr><tr><td>04-23</td><td>y = -19.868x + 38.725</td><td>0.985 8</td><td>y = 13.241x + 4.283 8</td><td>0.710 8</td></tr><tr><td>05-09</td><td>y = -22.921x + 45.001</td><td>0.945 3</td><td>y = -5.988 3x + 17.126</td><td>0.321 2</td></tr><tr><td>05-25</td><td>y = -26.009x + 48.446</td><td>0.9810</td><td>y = -1.050 6x + 13.126</td><td>0.075 0</td></tr><tr><td>06-10</td><td>y = -26.896x + 53.173</td><td>0.950 0</td><td>y = -2.686x + 15.101</td><td>0.263 2</td></tr><tr><td>06-26</td><td>y = -25.633x + 53.623</td><td>0.856 2</td><td>y = -3.158 9x + 23.082</td><td>0.345 0</td></tr><tr><td>07-12</td><td>y = -26.353x + 53.760</td><td>0.923 6</td><td>y= 1.960 6x +12.974</td><td>0.064 8</td></tr><tr><td>07-28</td><td>y = -23.614x + 51.714</td><td>0.9671</td><td>y = 7.246 8x + 9.858 2</td><td>0.398 2</td></tr><tr><td>08-13</td><td>y = -17.427x + 42.705</td><td>0.894 6</td><td>y = -9.064x + 22.687</td><td>0.5681</td></tr><tr><td>08-29</td><td>y = -18.075x + 41.971</td><td>0.884 2</td><td>y = -10.105x + 20.805</td><td>0.336 0</td></tr><tr><td>09 -14</td><td>y = -15.131x + 37.437</td><td>0. 770 6</td><td>y = 1.125 6x + 10.449</td><td>0.024 0</td></tr><tr><td>09-30</td><td>y= -15.541x + 34.993</td><td>0.8871</td><td>y= -8.926 5x + 13.508</td><td>0.314 3</td></tr></table></body></html>
+
+![](images/563eef69d10d745b5410544a398a972139c07797612d56324ab50dfcc2f41104.jpg)  
+图64种TVDI与土壤相对湿度的关系  
+Fig.6Relationship between the four kinds of VDI and the soil relative humidity
+
+![](images/7769e4d2ba062cf55c1eb4ef718eac4f0464131edf03178c44c4e4d9486d67d5.jpg)  
+图7降水量与TVDI在站点尺度随时间变化关系  
+Fig.7Relationship between precipitation and TVDI on station scale
+
+从修正前后的植被指数值与土壤相对湿度的相关性来看，NDMVI可以更加准确地反映地表植被信息，对比原始 $\mathrm { T V D I } _ { \mathrm { n } }$ 和修正后的 $\mathrm { T V D I } _ { \mathrm { m d } }$ 值与土壤相对湿度的相关性可知， $\mathrm { T V D I } _ { \mathrm { m d } }$ 值与土壤相对湿度的相关性更好，相关系数从-0.342提高至-0.711。修正后获取的 $\mathrm { T V D I } _ { \mathrm { m d } }$ 值随实测土壤相对湿度的增加，呈现明显降低的趋势，说明 $\mathrm { T V D I } _ { \mathrm { m d } }$ 能更好地反映土壤湿度状况，能更加准确地进行干旱监测。
+
+2.4.2TVDI与降水的关系在气象站点尺度上，探讨4种TVDI值与降水的关系。按照空间分布均匀性、站点所在像元成像清晰性等原则,选择榆林、横山、延安等12个气象站点数据进行分析。为研究4种TVDI值与降水的同步性，计算各个站点对应各期遥感影像时间内的月降水均值，同时提取各期影像中每个气象站点处4种月尺度的TVDI均值。分析各TVDI值与降水的变化关系（图7）。
+
+从图7可以看出，在4一9月时间段内，4种TV-DI值的变化趋势总体上一致，且波动均与降水波动特征相反。在波动幅度上，原始TVDI较修正后的3种TVDI数值波动幅度较弱，说明经过修正的TVDI较原始TVDI对降水的响应更强，即其对旱情的变化更加敏感。而在降水量变化较大的8月，TVDI值在陕北、关中、陕南3个地区呈现出不同的波动特征。其中，陕北地区的榆林、定边、横山、绥德及延安5个降水记录站点均体现出 $\mathrm { T V D I } _ { \mathrm { m d } } > \mathrm { T V D I } _ { \mathrm { n d } } >$ $\mathrm { { T V D I } _ { m } > \mathrm { { T V D I } _ { n } } }$ 的特征，说明陕北地区地形起伏较大,经过高程修正后的 $\mathrm { { T V D I } _ { \mathrm { n d } } }$ 与 $\mathrm { T V D I } _ { \mathrm { m d } }$ 值更能准确反映土壤水分含量;而在关中地区的长武、洛川、耀县及武功4个降水记录站点均呈现出 $\mathrm { T V D I } _ { \mathrm { m d } } >$ $\mathrm { T V D I _ { m } > T V D I _ { n d } > T V D I _ { n } }$ 的特征，说明关中地区地势相对平坦，但由修正后的植被指数计算得到的$\mathrm { T V D I } _ { \mathrm { m d } }$ 与 $\mathrm { { T V D I } _ { m } }$ 值与降水的波动更为贴切;陕南地区的镇安、汉中、石泉3个降水记录站点体现出$\mathrm { T V D I _ { \mathrm { m d } } > T V D I _ { \mathrm { m } } > T V D I _ { \mathrm { n } } > T V D I _ { \mathrm { n d } } }$ 的特征,即修正后的TVDI对月尺度降水的响应要好于未做修正的TVDI,且 $\mathrm { T V D I } _ { \mathrm { m d } }$ 最优。综上，经过高程和地形起伏修正后获取的 $\mathrm { T V D I } _ { \mathrm { m d } }$ 能较好的反映出降水的变化特征，对旱情有较好的监测效果。
+
+# 3结论
+
+（1）高程通过对地表温度的影响，进一步影响TVDI,利用DEM数据对地表温度进行了地形校正，可以减弱因高程引起的相同植被覆盖条件下，高程高的像元对应的地表温度值降低、TVDI减小的现象。经过DEM数据修正后的 $\mathrm { { T V D I } _ { \mathrm { n d } } }$ 值与土壤湿度的相关系数较原始 $\mathrm { T V D I } _ { \mathrm { n } }$ 提高了0.204，说明修正后的地表温度更能准确反映实际情况。
+
+（2）与NDVI相比，NDMVI能够有效降低因地形起伏对植被信息提取产生的影响。经过地形修正后的 $\mathrm { { T V D I } _ { m } }$ 值与土壤相对湿度的相关系数较原始$\mathrm { T V D I } _ { \mathrm { n } }$ 值提高了0.118。表明NDMVI可以更加准确地反映植被信息，在一定程度上可以消除地形影响和削弱地形阴影的干扰。
+
+（3）经过高程和植被指数修正后的 $\mathrm { \ T V D I _ { \mathrm { m d } } }$ 与土壤相对湿度数据的相关系数为-0.711，较原始TVDIn提高了0.369，说明修正后的 $\mathrm { T V D I } _ { \mathrm { m d } }$ 能更好地反映土壤湿度状况。同时， $\mathrm { T V D I _ { \mathrm { m d } } }$ 与降水波动特征具有较好的对应关系，说明经过地形因子修正后的 TVDI可对农业旱情有较好的监测效果。 $\mathrm { T V D I } _ { \mathrm { m d } }$ 可有效减弱高程与地形起伏对TVDI指数的影响，且原理简单,计算方便,效果较 $\mathrm { T V D I } _ { \mathrm { n } }$ 显著提高，不受其他条件限制，具有较高的实用意义。
+
+# 参考文献（References）:
+
+[1］陈斐,王润元,王鹤龄,等.干旱胁迫下春小麦干物质积累和分 配及其模拟[J].干旱区研究，2017，34（6)：1418-1425. [ChenFei,Wang Runyuan,Wang Heling,et al.Dry matter accumulation and distribution of spring wheat under drought stress[J]. Arid Zone Research,2017,34(6) :1 418-1 425.]   
+[2]王劲松,李耀辉,王润元,等.我国气象干旱研究进展评述[J]. 干旱气象,2012,30（4）:497-508.［WangJinsong，LiYaohui， Wang Runyuan,et al.Preliminary analysis on the demand and review of progressin the field of meteorological drought research[J]. Journal of Arid Meteorology,2012,30(4）:497-508.]   
+[3]郑艺,张丽,周宇,等.1982—2012年全球干旱区植被变化及驱 动因子分析[J].干旱区研究,2017,34（1）：59-66.［Zheng Yi,Zhang Li,Zhou Yu,etal.Vegetation change and its driving factors in global drylands during the period of 1982-2012[J].Arid Zone Research,2017,34(1) :59 -66.]   
+[4]王密侠，马成军,蔡焕杰.农业干旱指标研究与进展[J].干旱 地区农业研究,1998,16（3）：119-124.〔WangMixia，Ma Chengjun,Cai Huanjie.Research progress in agricultural drought index[J].Agricultural Research in the Arid Area,1998,16（3）： 119 -124.]   
+[5] HeimJ,Richard R.A review of twentieth-century drought indices used in the United States[J].Bulletin of the American Meteoro logical Society,2002,83(8):1149-1165.   
+[6]胡文英,罗永琴.农业干旱遥感监测模型综述[J].云南地理环
+
+境研究,2013,25（4）:51-55.[Hu Wenying,Luo Yongqin.Review of agricultural drought monitoring models[J].Yunnan Geographic Environment Research,2013,25(4）:51-55.]
+
+[7]Sun C Q,You SC,Liu GH,et al. The spatial pattern of soil moisture in Northern Tibet based on TVDI method[J].Progress in Geography,2011,30(5):570-576.
+
+[8]Ran Q,Zhang G P,Zhou Q B.DEM correction using TVDI to evaluate soil moisture status in China[J].Science of Soil and Water Conservation,2005,3(2):32-36.
+
+[9]刘立文,张吴平,段永红,等.TVDI模型的农业旱情时空变化 遥感应用[J].生态学报,2014,34（13）：3704-3711.[LiuLiwen,Zhang Wuping,Duan Yonghong,et al.Terrain corrected TVDI for agricultural drought monitoring using MODIS data[J].Acta Ecologica Sinica,2014,34(13）:3 704-3 711.]
+
+[10]刘亚迪，汪小钦，江洪,等.基于地形调节植被指数估算长汀县 植被覆盖度[J].国土资源遥感，2015，27（1）：164-171.[Liu Yadi,Wang Xiaoqin,Jiang Hong,et al.Estimation of vegetation coverage based on topography adjusted vegetation index（TAVI）in Changting County,Fujian Province[J].Remote Sensing for Land and Resources,2015,27(1) :164-171.]
+
+[11]郭继凯,吴秀，董贵华,等.基于MODIS/NDVI的塔里木河流域 植被覆盖变化驱动因素相对作用分析[J].干旱区研究,2017， 34(3）:621-629.[Guo Jikai,Wu Xiu,Dong Guihua,et al.Vegetation coverage change and relative effects of driving factors based on MODIS/NDVI in the Tarim river basin[J].Arid Zone Research,2017,34(3):621-629.]
+
+[12]马天啸，宋现锋，赵昕，等.2000—2010年黄河源区植被覆盖率时空变化及其影响因素[J].干旱区研究，2016，33（6)：1217-1225.[Ma Tianxiao,Song Xianfeng,Zhao Xin,etal.Spatiotemporal variation of vegetation coverage and Its affecting factors in theheadwaters of the Yellow River during the period of 2OoO—2010[J].AridZoneResearch,2016,33(6):1217-1225.]
+
+[13]王培娟，孙睿，朱启疆，等.复杂地形条件下提高BEPS 模型模 拟能力的途径[J].中国图像图形报，2006，11（7）：1017- 1 026.[Wang Peijuan,Sun Rui,Zhu Qijiang,et al.Improvement onthe abilitiesofBEPS under accented terrain[J].Journal of Im age and Graphics,2006,11(7）:1017-1026.]
+
+[14]段四波,阎广建.山区遥感图像地形校正模型研究综述[J].北京师范大学学报（自然科学版），2007，43（3）：362-366.［Du-an Sibo,Yan Guangjian.A review of models for topographic correc-tion of remotely sensed images in mountainous area[J]. Journal ofBeijing Normal University（Natural Science Edition）,2007,43(3):362-366.]
+
+[15]闻建光，柳钦火，肖青，等.复杂山区光学遥感反射率计算模型[J].中国科学(D辑)：地球科学，2008，33（11）：1419-1427.[Wen Jianguang,Liu Qinhuo,Xiao Qing,et al.Calculation modelofoptical remote sensing reflectance in complex mountain areas[J].Science in China Press(D）:Earth Science,20o8,33（11）：1 419 -1427.]
+
+[16」吴志杰，徐涵秋.卫星影像数据构建山地植被指数与应用分析[J].地球信息科学学报,2011,13（5）:656-664.[Wu Zhijie,
+
+Xu Hanqiu.A new index for vegetation enhancements of mountainous regions based on satellite image data[J].Journal of Geo-Information Science,2011,13(5）:656-664.]
+
+[17]周丹，张勃，任培贵，等.基于标准化降水蒸散指数的陕西省近 50a干旱特征分析〔J].自然资源学报，2014，29（4）：677- 688.[Zhou Dan,Zhang Bo,Ren Peigui,et al.Analysis of drought characteristics of Shaanxi province in recent 5O years based on standardized precipitation evapotranspiration index[J].Journal of Natural Resources,2014,29(4) :677 -688.]
+
+[18]肖贻青，王健,姚静.西安地区近五百年旱涝变化趋势与近百 年旱涝成因分析[J].干旱区研究,2017,34(6)：1448-1456. [Xiao Yiqing,WangJian,Yao Jing.Trends of droughtand flood in recent 5OO yearsand their causes in recent1OO years in Xi'an[J]. Arid Zone Research,2017,34(6):1 448-1 456.]
+
+[19]任国玉，袁玉江，柳艳菊，等.我国西北干燥区降水变化规律 [J].干旱区研究,2016,33（1）:1-19.[RenGuoyu，YuanYujiang,Liu Yanju,et al.Changes in precipitation over Northwest China[J].Arid ZoneResearch,2016,33（1):1-19.]
+
+[20]徐玉霞，许小明,杨宏伟，等.基于GIS的陕西省干旱灾害风险 评估及区划[J].中国沙漠,2018,38（1)：192-199.[XuYuxia,Xu Xiaoming,YangHongwei,etal.Assessment and regionalization of drought disaster risk in Shaanxi province based on GIS[J]. JournalofDesertResearch,2018,38（1）:192-199.]
+
+[21」林巧，王鹏新，张树誉，等.不同时间尺度条件植被温度指数干旱监测方法的适用性分析[J].干旱区研究，2016，33（1）：186-192.[Lin Qiao,Wang Pengxin,Zhang Shuyu,et al.Applicabili-ty of vegetation temperature index for drought monitoring at differ-ent time scales[J].Arid Zone Research,2016,33（1）:186-192.]
+
+[22]徐小钰，朱记伟，解建仓，等.陕西省1470一2012年旱涝灾害时空分布特征及演变趋势分析[J].西安理工大学学报，2015(2):231-237.[Xu Xiaoyu,Zhu Jiwei,Xie Jiancang,etal.Anal-ysis of spatial and temporal distribution characteristics and evolu-tion trend of drought and flood disasters from 147O to 2012 inShaanxi Province[J]. Journal of Xi'an University of Technology,2015(2):231-237.]
+
+[23]闫娜.基于MODIS陆地产品LST和NDVI及EVI的陕西旱情 监测[D].西安：陕西师范大学，2009.［YanNan.BasedonLand Product LST and NDVI and EVI,Shaanxi Drought Monitoring [D].Xi'an:Shaanxi Normal University,2009.]
+
+[24]Sandholt I,Rasmussen K,Andersen J.A simple interpretation of the surface temperature/vegetation index space for assessment of surface moisture status[J].Remote Sensing of Environment,2002, 79(2):213 -224.
+
+[25]Bai ZY,XingL X,Pan J,etal.Research on soil moisture information by remote sensing[J].Geomagnetic and Spatial Information Technology,2011,34(3）:50-55.
+
+[26]冉琼.全国土壤湿度及其变化的遥感反演与分析[D].北京：中国科学院遥感应用研究所，2005.［RanQiong.Retrieval ofSoil Moisture Status in China and Analysis of Its Spatial and Tem-poralDistribution Characteristics[D].Beijing：Institute of Remote
+
+Sensing Applications of Chinese Academy of Sciences,2005.]
+
+[27]姚晨,黄微，李元华.地形复杂区域的典型植被指数评估[J]. 遥感技术与应用,2009,24（4）:496-501.[Yao Chen,Huang Wei,Li Yuanhuan.Evaluation of topographical influence on vegetation indices of rugged terrain[J].Remote Sensing Technology and Application,2009,24(4） :496-501.]   
+[28]Covico D L.Topographic normalization of landsat thematic mapper digital imagery[J].Engineering& Remote Sensing,1989,55（9）： 1 303-1309.   
+[29]Teillet P M,GuindonB,Good enough D G.On the slope-aspect correction of multispectral scanner data[J].Canadian Journal of Remote Sensing,1982,8(2):84-106.   
+[30]Smith JA,Lin TL,Ranson K L.The lambertian assumption and landsat data[J].Photogrammetric Engineering & Remote Sensing, 1980,46(9) :1183-1189.   
+[31]Shepherd JD,Dymond JR.Correcting satellite imagery for the variance of reflectance and illumination with topography[J].International Journal ofRemote Sensing,2003,24(17):3 503-3510.   
+[32]张兆明，何国金，刘定生，等.一种改进的遥感影像地形校正物 理模型[J].光谱学与光谱分析，2010,30(7)：1839-1842. [Zhang zhaoming,He Guojin,Liu Dingsheng,et al.An improved physical model to correct topographic effects in remotely sensed imagery[J].Spectroscopy and Spectral Analysis,2010,30(7）:1 839 -1 842.]
+
+# TVDI Modification Based on Topographic Factors : A Case Study in Shaanxi Province
+
+ZHENG Fa-mei1,²，BAI Jian-jun1,²2 (1.Collegeof Geography and Tourism,Shaanxi Normal University,Xi'an71o119,Shaanxi,China; 2.NationalemstratinterfoperietalGogaducaaialUeiti'a,i)
+
+Abstract:In recent years,Temperature Vegetation Drought Index （TVDI）has been widely applied in monitoring drought with remote sensing.However,the influence of topographical factors onthe index accuracy is notconsidered in the traditional TVDI.In this paper,a case studyon the TVDI modification in Shaanxi Province was carried out so as to reduce the influence of topographical factors on the monitoring accuracy of TVDI,the DEMdata were used to make an elevation correction of surface temperature,the NDVI was replaced by the Normalized Difference Mountain Vegetation Index（NDMVI）soas to reducethe influence of topographical fluctuation on vegetation index,and he new TVDI indexes were constructed.Four kinds of TVDI indices were constructed by using the surface temperature and NDMVIand NDVIbefore and after correction,and the relationships among the 4 indexes and soil moisture and precipitation were analyzed so as to compare the accuracy of monitoring agriculture drought.The results showed hat theelevationand terrain fluctuationafected significantly the TVDI precision in monitoring drought,and the TVDI after the correction of surface temperature and vegetation was beter for monitoring drought compared with the traditional TVDI,itscorrelationcoeffcient withrelativesoil humiditywas increased fromO.342toO.711,and itcould be used to accurately reflectthe change of precipitation.The results revealed that the modified TVDI could be used to effctively reflect thesoil water conditions,andcould also beused to accurately monitor agricultural drought.
+
+Key words:drought monitoring； topographic correction；TVDI；NDMVI

@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "Cultivation effects on soil texture and fertility in an arid desert region of northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HE Mingzhu1\\*, JI Xibin1, BU Dongsheng², ZHI Jinhu³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences,Lanzhou 73oooo, China;   \n2 Institute of Agricultural Sciences of the $1 ^ { \\mathrm { s t } }$ Division, Xinjiang Production and Construction Corps,Aral 843300, China;   \n3 College of PlantScience,Tarim University,Aral 84330,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In arid desert regions of northwestern China,reclamation and subsequent irigated cultivation have become efective ways to prevent desertification, expand arable croplands, and develop sustainable agricultural production. Improvement in soil texture and fertility is crucial to high soil quality and stable crop yield. However, knowledge on the long-term efects of the conversion of desert lands into arable croplands is very limited. To address this problem, we conducted this study in an arid desert region of northwestern China to understand the changes in soil physical-chemical properties after O,2,5,10,17,and 24 years of cultivation. Our results showed that silt and clay contents at the 17-year-old sites increased 17.5 and 152.3 folds,respectively,compared with that at the O-year-old sites.The soil aggregate size fraction and its stability exhibited an exponential growth trend with increasing cultivation ages, but no significant change was found for the proportion of soil macroaggregates $( > 5 . 0 0 ~ \\mathrm { m m } )$ during the 17 years of cultivation. The soil organic carbon (SOC) content at the 24-year-old sites was $6 . 8 6 ~ \\mathrm { g / k g }$ and increased 8.8 folds compared with that at the O-year-old sites. The total (or available) nitrogen, phosphorus, and potassium contents showed significant increasing trends and reached higher values after 17 (or 24) years of cultivation. Changes in soil physical-chemical properties successvely experienced slow,rapid,and stable development stages, but some key properties (such as soil aggregate stability and SOC) were stilltoo low to meet the sustainable agricultural production. The results of this long-term study indicated that reasonable agricultural management, such as expanding no-tillge land area,returning straw to the fields,applying organic fertilizer, reducing chemical fertilizer application,and carrying out soil testing for formula fertilization, is urgently needed in arid desert regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: reclamation; soil physical-chemical properties;soil aggregate stability; mean weight diameter (MWD); water stable aggregate percentage (WSAP); principal component analysis (PCA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sustainable agricultural production and food security are important prerequisites to address challenges such as population growth, climate change, and land degradation (Lal, 2O09; FAO, 2017)，particularly in arid desert regions that experience shortage of water resources, high temperature, and extreme and frequent droughts. In arid desert regions of northwestern China, agricultural reclamation through the conversion of desert lands to arable croplands has a long history to resolve the conflicts between land desertification and agricultural development (Li et al., 2006; Su et al., 2O1O). However, in recent decades, in addition to the expansion of oases, population growth， and extensive management of agricultural production, a number of environmental problems have emerged, including the drawdown of groundwater, salinization, misuse of chemical fertilizer, and abandonment of arable croplands, which limit sustainable agricultural development in these regions (Zhang et al., 2O13). The protection and sustainable utilization of soil resources are the premise of sustainable agricultural production in arid desert regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil texture and fertility in arid desert regions are characterized by loose structure, rich sand particles, weak biological effects,and low organic matter and nutrient levels (Verheye, 2009). However, soil texture and fertility can be significantly improved after reclamation due to irrigation, fertilization, cultivation, and other significant changes in the soil formation process, especially the increases of biomass and root carbon input and other organic mater input (Tiessen et al., 1992; Jaiyeoba,2003; Caravaca et al.,2004; Su et al.,2010; Gelaw et al.,2014; El-Shahway et al., 2016; Xiao et al., 2O19). Generally, the proportion of silt and clay contents in cultivated soils increases after reclamation, which is caused by the irrigation with silt-laden river water (Fulln et al., 1995), the increase in dust fall (Reynolds et al., 2OOl; Xu et al., 2016),and the decline in wind erosion (Duniway et al.,2O19). Coupled with soil silt and clay particles, the decomposition of crop residues and organic fertilizer could help soil aggregate formation and soil organic carbon (SOC) sequestration in soils (Elliot, 1986; Lal, 2004; Wei et al., 2014). SOC in cultivated soils plays a vital role in improving soil fertility and quality via nutrient cycling, soil aggregation, wind erosion resistance, and agricultural production (Gelaw et al., 2014; Xiao et al., 2020). Moreover, SOC represents a large carbon pool despite its low contents. A previous study estimated that the world's dryland soils contain $2 4 1 \\mathrm { P g }$ of SOC, which was approximately 40 times the $\\mathrm { C O } _ { 2 }$ emissions caused by human activities during the 199Os (Lal, 2OO4). Agricultural activities that convert desert lands into arable croplands likely accelerate the carbon sequestration of arid ecosystems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The recovery of soil texture and fertility is a long-term and complex process that depends on the soil parent materials, climate, tilage methods, and agricultural management. Xiao et al. (2009) showed that 1O years of cultivation significantly increased the SOC pool but not the macroaggregation of desert soils. Su et al. (201O) found that absolute amounts of soil aggregates, SOC,and nutrients were too low to support sustained crop yield after 40 years of cultivation. However, existing studies are insufficient to fully understand changes in soil texture and fertility after continued cultivation, especially in arid desert regions of northwestern China. The objective of this study is to test how reclamation and subsequent irrigated cultivation influence soil texture and fertility during a long-term cultivation period in an arid desert environment in northwestern China. To achieve this goal,， we systematically assessed changes in soil physical-chemical properties in response to cultivation ages, the contribution of principal components of soil properties, and the development tendency of soil succession. This study is helpful for rational reclamation and subsequent irrigated cultivation of desert lands and scientific management of soil fertility at the expanded arable croplands. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Aral reclamation region $( 4 0 ^ { \\circ } 2 0 ^ { \\prime } 1 6 \" - 4 1 ^ { \\circ } 4 7 ^ { \\prime } 1 8 \" \\mathrm { N } .$ $7 9 ^ { \\circ } 2 2 ^ { \\prime } 3 3 ^ { \\prime \\prime } – 8 1 ^ { \\circ } 5 3 ^ { \\prime } 4 5 ^ { \\prime \\prime } \\mathrm { E }$ ： $9 9 6 \\mathrm { - } 1 0 9 7 ~ \\mathrm { m }$ a.s.1.), located in Xinjiang Uygur Autonomous Region of northwestern China, is a representative arid desert region with extreme drought in the world (Fig. 1). As a new center of agricultural production since 1958, the Aral reclamation region occupies the alluvial plain of the Aksu River and Yarkant River in the upper reaches of the Tarim River. This region has a typical desert climate and is characterized by dry hot summers and cold winters, with an annual mean temperature of $1 0 ^ { \\circ } \\mathrm { C }$ .The mean annual precipitation is $6 7 . 2 \\mathrm { \\ m m }$ ，which is mainly concentrated from June to August, accounting for more than $6 0 . 0 0 \\%$ of the annual precipitation. The mean annual potential evaporation reaches $2 1 1 0 . 5 ~ \\mathrm { m m }$ and the annual crop evaporation during the growing period from ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "April to October is $1 7 9 7 . 0 ~ \\mathrm { m m }$ ,occupying $8 5 . 1 9 \\%$ of the annual evaporation. The mean annual sunshine hours are $2 9 5 0 \\mathrm { h }$ and the frost-free period is 2O7 d. The zonal soil is meadow solonchak derived from diluvial-alluvial materials of the Tarim River. Because of population growth and the need for agricultural development, desert lands have been gradually converted into arable croplands with irrigation since the 195Os. Therefore, this region becomes the largest cotton (Gossypium hirsutum L.) production base and the only long-staple cotton production base in China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/94086081898c988c5cbed59565160c68b41eca2dc07433e4d69ff3ee225da202.jpg",
+        "img_caption": [
+            "Fig.1Geographical location of the study area in Xinjiang Uygur Autonomous Region of northwestern China (a) and overview of the sampling locations (b) from the Google Earth images. Numbers $\\textcircled{1} - \\textcircled{6}$ represent arable croplands with 0,2, 5,10, 17,and 24 years of cultivation, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and soil sampling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study， we adopted the space for time substitution method to choose croplands with different cultivation ages (including 2,5,10,17,and 24 years; Fig. 1). The adjacent natural desert land (O year of cultivation) was used as a control for the comparison with the cultivated croplands (2,5,10,17,and 24 years of cultivation). The major crop grown in the above cultivated croplands is cotton， with only one harvest annually. The annual fertilization rates of cotton are approximately $3 6 0 { - } 4 6 0 \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ， $9 0 { - } 1 4 0 \\ \\mathrm { k g } \\ \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 }$ ，and $5 0 { \\mathrm { - } } 9 0 \\ \\mathrm { k g } \\ \\mathrm { K } _ { 2 } \\mathrm { O } / \\mathrm { h m } ^ { 2 }$ . The total irrigation amount is approximately $7 3 0 0 { - } 1 0 { , } 2 0 0 \\ \\mathrm { m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ with flooding irrigation in the off season and drip irrigation in the growing season. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In mid-September 2O17, six replicate sites were randomly selected within each cropland sampling location (including the control). At each site, soil samples from soil depths of $\\textstyle 0 - 5 0 \\ { \\mathrm { c m } }$ were collected by a soil auger and mixed as a composite sample. Overall 36 composite soil samples were collected (six cropland sampling locationsxsix replicate sites) and transported to the laboratory. After air drying, one aliquot of each composite soil sample was passed through a 2.00- mm sieve to analyze the soil particle size distribution. These soil samples were also further ground and sieved at $0 . 2 5 \\mathrm { \\ m m }$ to analyze the following properties: SOC， total nitrogen (TN), total phosphorus (TP), total potassium (TK), available nitrogen (AN), available phosphorus (AP), and available potassium (AK). The other aliquot of each composite soil sample was passed through a $5 . 0 0 \\mathrm { m m }$ -sieve to analyze the soil aggregate separation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Measurements of basic soil properties ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil bulk density was measured with the cutting ring method in situ. The particle size fraction of soil samples was determined by a laser diffraction particle size analyzer (S35Oo, Microtrac Inc., USA). Soil pH was measured with a soil to water ratio of 1:2.5,and the total salt content was determined by the residue drying method. SOC was measured with the Walkley and Black's dichromate oxidation method (Nelson and Sommers,1982).TN was determined via the micro Kjeldahl digestion procedure (Foss Kjeltec 23Oo, Denmark) and AN was measured by the alkaline diffusion method. TP was analyzed colorimetrically by a spectrophotometer after soil digestion with $\\mathrm { H C l O _ { 4 }  – H _ { 2 } S O _ { 4 } }$ and AP was determined by the Olsen method. TK and AK were measured by the flame photometry after HF$\\mathrm { { H C l O _ { 4 } } }$ digestion and the colorimetric method after $\\mathrm { \\Delta N H _ { 4 } O A c }$ extraction, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Determination of soil aggregate size fraction and its stability ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil aggregate size was measured by the wet sieving apparatus (Li et al., 2OO6). A total of $5 0 ~ \\mathrm { g }$ of air-dried soil samples was transferred to a nest of five sieves with square openings of O.25,0.50, 1.00, 2.00, and $5 . 0 0 \\mathrm { m m }$ . Then, the sieves were put into a bucket and deionized water was poured along the wall of the bucket until the soil aggregates submerged in the water. After $5 ~ \\mathrm { m i n }$ of moistening and soaking, the bucket was oscillated for $5 \\mathrm { { m i n } }$ at an amplitude of $3 \\mathrm { c m }$ and a frequency of 30 cycles/min. The remaining soil sample on each sieve was dried at $6 0 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { h }$ to a constant weight. Soil aggregate size distribution was expressed by the mean weight diameter (MWD; mm) of aggregate (Elliott, 1986): ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { \\mathbf { M } }  { \\mathbf { W } }  { \\mathbf { D } } = \\sum _ { i = 1 } ^ { 6 } D _ { i } W _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { i }$ is the average diameter of soil aggregate between adjacent size classes $( \\mathrm { m m } )$ ; and $W _ { i }$ is the mass percentage of the remaining aggregate on the $i ^ { \\mathrm { t h } }$ sieve $( \\% )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Water stable aggregate percentage (WSAP; $\\%$ ) was calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W S A P } = \\left( \\frac { M _ { \\mathrm { w s a } } } { M _ { \\mathrm { a } } } \\right) \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { \\mathrm { w s a } }$ is the corrected mass of water stable aggregate with diameter greater than $0 . 2 5 \\mathrm { m m } \\left( \\mathrm { g } \\right)$ and $M _ { \\mathrm { a } }$ is the adjusted dry mass of soil aggregate with diameter of $2 . 0 0 { - } 5 . 0 0 \\ \\mathrm { m m \\ ( g }$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, the descriptive statistics (mean and standard error) for soil physical-chemical properties in croplands with different cultivation ages were calculated. One-way ANOVA was performed to test the effects of cultivation age on soil physical-chemical properties. When the above effects were significant $( P { < } 0 . 0 5 )$ , Tukey's HSD post hoc test was performed to compare the mean values of above soil physical-chemical properties in croplands with different cultivation ages. Regression analyses were used to indicate the trends of soil physical-chemical properties along the cultivation time sequence. Principal component analysis (PCA) was conducted to characterize the associations of soil physical-chemical properties in croplands with different cultivation ages. Hierarchical clustering was applied to the soil physical-chemical property data using the Ward's method to indicate the different recovery stages of soil environment. All of the statistical analyses were conducted using JMP software v.10.0.0 (SAS Institute, Cary, NC, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Changes in soil particle size fraction and bulk density ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The soils in the study area were originated from both the alluvial soils and deposited aeolian sand, which were mainly composed of medium-fine sand with the content ranging between $9 5 . 9 5 \\%$ and $9 6 . 8 5 \\%$ (Table 1). After reclamation and subsequent agricultural activities, the sand content decreased from $9 6 . 4 0 \\%$ to $3 1 . 6 0 \\%$ for the 17-year-old sites, while the contents of silt and clay increased 17.5 and 152.3 folds compared with those at the O-year-old sites (control; Table 1), respectively. Interestingly, we found that soil particle size fraction reached the extreme values at the 17-year-old sites. Specifically, the sand content had a minimum value of $3 1 . 6 0 \\%$ , and the silt and clay contents had the maximum values of $6 2 . 2 7 \\%$ and $6 . 0 9 \\%$ ， respectively. Moreover, a significant change in particle size fraction only occurred in soils with more than 5 years of cultivation. Soil bulk density generally fluctuated as the increasing of cultivation ages. After 24 years of cultivation, soil bulk density reached the minimum value of $1 . 4 4 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ and decreased by $4 . 5 5 \\%$ compared with that at the O-year-old sites. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soil aggregate size fraction and its stability ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As cultivation prolonged, soil aggregate size fraction changed significantly among croplands with different cultivation ages. Generally, the proportion of soil aggregate sizes (i.e., 0.25-0.50, 0.50-1.00, 1.00-2.00, 2.00-5.00 and $> 5 . 0 0 \\mathrm { m m }$ ) demonstrated an increasing trend and significantly reached the highest values at the 24-year-old sites (Table 1). Due to the limitation of original soil conditions with the shortage of binding agents such as organic matter and clay, the proportion of large macroaggregate $( > 5 . 0 0 \\ \\mathrm { m m } )$ had no significant differences among the 2-, 5-,1O-,and 17- year-old sites. After 24 years of cultivation, soil aggregate size fraction mainly contained the microaggregate $( 0 . 2 5 - 0 . 5 0 \\mathrm { m m } )$ with the proportion of $1 5 . 0 6 \\%$ . MWD showed significant changes with cultivation ages, ranging from $0 . 0 4 ~ \\mathrm { m m }$ at the 2-year-old sites to $0 . 3 9 \\mathrm { m m }$ at the 24-year-old sites (Table 1). Changes in MWD exhibited an exponential growth trend along the cultivation chronosequence (Fig. 2). Similarly, WSAP increased significantly with increasing cultivation ages and exhibited an exponential growth trend (Fig. 2), i.e., increasing from $7 . 4 2 \\%$ at the O-year-old sites to $4 2 . 4 0 \\%$ at the 24-year-old sites (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb1bcd00a0d67e49680f95f876341527b5d20b247b4334da0b5ad8d9bc744cb3.jpg",
+        "table_caption": [
+            "irr eirrrnslr sarrlrl ir nit erl gl llltles grlrtrrrrerlitrrs ittlrrs "
+        ],
+        "table_footnote": [
+            "e "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil physical-chemical properties</td><td colspan=\"6\">Sites with different cultivation ages</td><td colspan=\"2\">One-way ANOVA</td></tr><tr><td>O-year-old</td><td>2-year-old</td><td>5-year-old</td><td>10-year-old</td><td>17-year-old</td><td>24-year-old</td><td>F</td><td>P</td></tr><tr><td>Particle size fraction</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sand (%)</td><td>96.40±0.45a</td><td>96.40±0.25a</td><td>76.40±0.80b</td><td>62.50±3.80c</td><td>31.60±2.49e</td><td>52.30±0.86d</td><td>518.30</td><td><0.0001</td></tr><tr><td>Silt (%)</td><td>3.55±0.42c</td><td>3.54±0.26°</td><td>22.12±0.74d</td><td>35.03±3.48℃</td><td>62.27±2.18a</td><td>44.17±0.74b</td><td>540.41</td><td><0.0001</td></tr><tr><td>Clay (%)</td><td>0.04±0.04e</td><td>0.00±0.00c</td><td>1.53±0.07d</td><td>2.39±0.32℃</td><td>6.09±0.34a</td><td>3.58±0.13b</td><td>291.68</td><td><0.0001</td></tr><tr><td>Bulk density (g/cm)</td><td>1.51±0.01ab</td><td>1.49±0.02b</td><td>1.52±0.02ab</td><td>1.52±0.02ab</td><td>1.54±0.02a</td><td>1.44±0.02°</td><td>15.48</td><td><0.0001</td></tr><tr><td> Aggregate size fraction</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.25-0.50 mm (%)</td><td>3.31±0.26d</td><td>4.67±0.28c</td><td>5.75±0.40℃</td><td>4.52±0.27cd</td><td>8.08±0.48b</td><td>15.06±0.55a</td><td>190.41</td><td><0.0001</td></tr><tr><td>0.50-1.00 mm (%)</td><td>1.87±0.17cd</td><td>1.79±0.20d</td><td>2.51±0.25bed</td><td>2.94±0.22bc</td><td>3.07±0.19b</td><td>10.37±0.83a</td><td>158.02</td><td><0.0001</td></tr><tr><td>1.00-2.00 mm (%)</td><td>1.70±0.13c</td><td>1.10±0.15c</td><td>3.13±0.21b</td><td>3.10±0.15b</td><td>2.83±0.19b</td><td>5.40±0.38a</td><td>54.82</td><td><0.0001</td></tr><tr><td>2.00-5.00 mm (%)</td><td>0.72±0.14cd</td><td>0.32±0.08d</td><td>2.42±0.22bc</td><td>3.43±0.41b</td><td>3.28±0.22b</td><td>11.07±1.50a</td><td>83.50</td><td><0.0001</td></tr><tr><td> >5.00 mm (%)</td><td>0.11±0.01b</td><td>0.09±0.03b</td><td>0.08±0.02b</td><td>0.24±0.08b</td><td>0.25±0.07b</td><td>0.50±0.09a</td><td>10.20</td><td><0.0001</td></tr><tr><td>WSAP (%)</td><td>7.42±0.38d</td><td>7.96±0.54d</td><td>13.88±0.79c</td><td>14.22±0.88c</td><td>17.51±0.71b</td><td>42.40±1.33a</td><td>620.68</td><td><0.0001</td></tr><tr><td> MWD (mm)</td><td>0.05±0.00cd</td><td>0.04±0.00d</td><td>0.11±0.01bed</td><td>0.14±0.02bc</td><td>0.15±0.01b</td><td>0.39±0.05a</td><td>36.80</td><td><0.0001</td></tr><tr><td>Chemical properties</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> SOC (g/kg)</td><td>0.78±0.15d</td><td>3.31±0.51bc</td><td>2.00±0.32bcd</td><td>1.54±0.39cd</td><td>4.34±0.23b</td><td>6.86±1.21a</td><td>14.45</td><td><0.0001</td></tr><tr><td>TN (g/kg)</td><td>0.30±0.03b</td><td>0.23±0.04b</td><td>0.26±0.04b</td><td>0.27±0.06b</td><td>0.60±0.05a</td><td>0.65±0.05a</td><td>16.28</td><td><0.0001</td></tr><tr><td>TP (g/kg)</td><td>0.51±0.03c</td><td>0.66±0.01bc</td><td>0.68±0.01b</td><td>0.64±0.04bc</td><td>0.88±0.02a</td><td>0.95±0.08a</td><td>17.81</td><td><0.0001</td></tr><tr><td> TK (g/kg)</td><td>17.55±0.76b</td><td>19.28±0.34b</td><td>17.72±0.29b</td><td>17.27±0.27b</td><td>23.50±1.36a</td><td>18.82±1.27b</td><td>7.53</td><td><0.0001</td></tr><tr><td> AN (mg/kg)</td><td>8.62±0.35d</td><td>19.19±2.56cd</td><td>25.68±6.32bc</td><td>15.49±3.38cd</td><td>58.95±2.79a</td><td>40.62±4.33b</td><td>24.57</td><td><0.0001</td></tr><tr><td>AP (mg/kg)</td><td>8.17±1.36b</td><td>4.53±0.77b</td><td>5.73±0.63b</td><td>11.77±1.03b</td><td>11.98±1.65b</td><td>36.68±6.02a</td><td>19.90</td><td><0.0001</td></tr><tr><td> AK (mg/kg)</td><td>61.07±3.53c</td><td>148.40±24.77b</td><td>86.43±10.28bc</td><td>58.40±1.79c</td><td>263.67±23.55a</td><td>94.27±3.80bc</td><td>28.06</td><td><0.0001</td></tr><tr><td>C/N ratio</td><td>2.81±0.70c</td><td>15.52±2.15a</td><td>7.54±1.01b</td><td>7.42±1.44b</td><td>10.30±0.88ab</td><td>8.16±1.45b</td><td>9.44</td><td><0.0001</td></tr><tr><td>pH</td><td>9.00±0.04a</td><td>8.60±0.09bc</td><td>7.99±0.05d</td><td>8.81±0.04ab</td><td>8.43±0.07℃</td><td>8.36±0.09℃</td><td>28.40</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc10c5a42331ed82e16aeeaed9d0b6d55ecf49846b875e5aa63fd3f36923cf14.jpg",
+        "img_caption": [
+            "Fig.2Exponential relationships between sites with diferent cultivation ages and MWD (a) and between sites with different cultivation ages and WSAP (b). MWD, mean weight diameter; WSAP, water stable aggregate percentage. \\*\\* means that the coefficient of determination is at the $P { < } 0 . 0 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Soil chemical properties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After reclamation and subsequent cultivation activities, soil chemical properties were ameliorated gradually with increasing cultivation ages. SOC content at the 24-year-old sites was significantly higher than those at the other sites,and it increased 8.8 folds more than that at the O-year-old sites (Table 1). Contents of TN and TP at the 17- and 24-year-old sites reached higher levels compared with those at the other younger sites. AN exhibited a unimodal pattern with the cultivation age sequence and reached its peak value at the 17-year-old sites. AP showed a significant increase after 24 years of cultivation.AK reached its highest value at the 17-year-old sites,i.e., 3.3 times higher than that at the O-year-old sites. The C/N ratio showed a significant increase trend with increasing cultivation ages and the values at the 2-, 5-,10-,17-,and 24-year-old sites were 5.5,2.7, 2.6, 3.7, and 2.9 times higher than that at the O-year-old sites, respectively. A significant decline in soil $\\mathrm { p H }$ was detected after 2 years of cultivation. Moreover, after 24 years of cultivation, soil pH decreased by $7 . 1 \\%$ in comparison with that at the O-year-old sites (Table 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Multivariate statistical analysisresults ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PCA identified three components for all the cultivated and uncultivated sites, and these three components explained $8 1 . 6 \\%$ of the total variation. The first component (PC1) explained $4 0 . 6 \\%$ of the total variation, and its loadings were soil bulk density, soil aggregates of different size fractions (0.25, 0.50, 1.00, 2.00, and $5 . 0 0 \\mathrm { m m }$ ), MWD, WSAP, SOC, TN, TP, and AP (Table 2; Figs. 3a and b). The second component (PC2) explained $3 2 . 6 \\%$ of the total variation and was loaded by clay, silt, sand, TK, AN, and AK (Table 2; Figs. 3a and b). Soil $\\mathrm { p H }$ was loaded on the third component (PC3), which explained $8 . 4 \\%$ of the total variation (Table 2; Figs. 3a and b). Across the PC1 axis, the cultivated and uncultivated sites were arranged in order with cultivation ages, namely, the O-, 2-,5-,and 1O-year-old sites on the negative direction of the PC1 axis which can be divided into a group (Fig. 3c), and the 17- and 24-year-old sites on the positive direction of the PC1 axis with a decentralized distribution (Figs. 3c and d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fb02eecf1597b999c3c1005efc5df706f1b805a30b910c5f6057b5a86f999cb.jpg",
+        "table_caption": [
+            "Table 2Correlation coefficients between soil physical-chemical properties and the three principal component analysis (PCA) axes and the total variation explained by the three PCA axes "
+        ],
+        "table_footnote": [
+            "Note:A0.25,A0.50,A1.00,A2.00,and5.refertoolaggregatesizefractisf00.5,0.50100,002.00,5.0 and $> 5 . 0 0 \\ \\mathrm { m m }$ ,respectively.PC1,PC2,andPC3 refertothe first,second,and third components,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil physical-chemical properties</td><td>PC1 PC2</td><td>PC3</td></tr><tr><td>Clay</td><td>0.301 0.925</td><td>-0.146</td></tr><tr><td>Silt</td><td>0.363 0.876</td><td>-0.181</td></tr><tr><td>Sand</td><td>-0.358 -0.882</td><td>0.178</td></tr><tr><td>Bulk density</td><td>-0.496 0.095</td><td>-0.202</td></tr><tr><td>A0.25</td><td>0.871 0.316</td><td>-0.043</td></tr><tr><td>A0.50</td><td>0.875 0.062</td><td>0.033</td></tr><tr><td>A1.00</td><td>0.848 0.173</td><td>-0.313</td></tr><tr><td>A2.00</td><td>0.889 0.136</td><td>-0.187</td></tr><tr><td>A5.00</td><td>0.598 0.442</td><td>0.366</td></tr><tr><td>MWD</td><td>0.942 0.194</td><td>-0.133</td></tr><tr><td>WSAP</td><td>0.955 0.200</td><td>-0.102</td></tr><tr><td>SOC</td><td>0.773 0.442</td><td>-0.188</td></tr><tr><td>TN</td><td>0.617 0.524</td><td>-0.069</td></tr><tr><td>TP</td><td>0.621 0.559</td><td>-0.292</td></tr><tr><td>TK</td><td>-0.023 0.904</td><td>0.121</td></tr><tr><td>AN</td><td>0.372 0.799</td><td>-0.237</td></tr><tr><td>AP</td><td>0.861 0.048</td><td>-0.063</td></tr><tr><td>AK</td><td>-0.080 0.945</td><td>-0.037</td></tr><tr><td>pH</td><td>-0.265 -0.207</td><td>0.838</td></tr><tr><td>Total variation explained</td><td>40.6% 32.6%</td><td>8.4%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hierarchical cluster analysis with the Ward's method was employed to identify similarity of soil properties for the cultivated sites, which rendered a dendrogram that grouped the cultivated and uncultivated sites into three statistically significant clusters when the Ward's distance was 7.62 (Fig. 4). Cluster 1 included the O-, 2-, 5-,and 10-year-old sites that represented the $1 ^ { \\mathrm { s t } }$ reclamation stage with slow development of soil properties; cluster 2 (17-year-old sites) corresponded to the rapid amelioration of soil conditions, which was classified as the $2 ^ { \\mathrm { n d } }$ reclamation stage; and cluster 3 included the 24-year-old sites and represented the stable soil improvement stage (Fig. 4). The three clusters corresponded to the biplot of PCA (Fig. 3c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Impact of reclamation on soil physical properties ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Continued cultivation is an effective way to improve the particle size fraction of arid desert soils. Our results found that silt and clay contents increased significantly while sand content decreased after reclamation and subsequent irrigated cultivation (Table 1). Originally, the soil parent materials in our study area come from the weathering materials of the parent rock of the Tianshan Mountains in quaternary sediments, which are deposited by the Tarim River and Yarkant River. At the same time, under the influence of the Taklamakan Desert, the aeolian sediments occur in the reclamation region, and aeolian sediments and alluvial sediments often alternately participate in soil formation (Gong et al., 2O16). Jaiyeoba (2OO3) observed that cultivated sites had higher silt content than barren land. A previous study conducted in an arid oasis showed that silt and clay contents increased from $4 . 5 0 \\%$ to $2 0 . 9 0 \\%$ and from $4 . 8 0 \\%$ to $8 . 9 0 \\%$ , respectively, after approximately 40 years of continued cultivation (Su et al., 2O1O). Due to limited precipitation,irigation water from the inland Tarim River, Aksu River and other reservoirs ensures the sustainable development of agriculture in the study area.According to the official statistics,the Tarim River has an annual average sediment (mostly silt and clay) concentration of $4 . 6 5 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ and a maximum sediment concentration of 20.9 $\\mathrm { k g / m ^ { 3 } }$ (Cai, 2013). All these silt-laden river water contributes to the increase in silt and clay contents, similar to some oasis croplands in arid desert regions of northwestern China (Fulln et al.,1995; Lal, 2OO4). Under the protection of shelterbelts and crops, the wind erosion of surface soils decreased significantly while the atmospheric dust increased. For example, Fearnehough et al. (1998) reported that the annual dustfall in arid desert regions ranges from 21.5 to $5 6 . 0 \\mathrm { m g } / \\mathrm { c m } ^ { 2 }$ which promotes the silt and clay contents in the surface soil layer of the cultivated regions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b27e9e08642d8af1e676b5d4a6fd7530c88bc14792e0be539b06f1382664c35.jpg",
+        "img_caption": [
+            "Fig.3Principal component analysis (PCA) showing loading values of soil physical-chemical properties for the first component (PC1) and the second component (PC2) axes (a) and the PC1 and the third component (PC3)axes (b); and the score plots of the cultivated and uncultivated sites with different cultivation ages along with the PC1 and PC2 axes (c) and the PC1 and PC3 axes (d). Error bars show the standard errors $\\scriptstyle ( n = 6 )$ . BD, bulk density; SOC, soil organiccarbon; TN,total nitrogen; TP,total phosphorus; TK,total potassium; AN,available nitrogen; AP, available phosphorus; AK,available potassium. A0.25,A0.50,A1.00,A2.00,and A5.00 refer to soil aggregate size fractions 0f 0.25-0.50, 0.50-1.00, 1.00-2.00, 2.00-5.00, and $> 5 . 0 0 \\ \\mathrm { m m }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The soil aggregate size fraction showed a similar tendency as the soil particle size fraction, while the regression analysis demonstrated a positive linear relationship of WMD and WASP with silt and clay contents, and a negative linear relationship among WMD, WASP, and sand content (Fig. S1). Therefore, increases in silt and clay contents can be considered a prerequisite of soil aggregate formation (Li et al., 2006; Verheye,2009; Su et al., 2010). In addition to soil minerals (clay particles, silt, and fine sand), plant roots, fungal hyphae, remains, bacteria, and free amorphous organic matter are also important contributors to soil aggregates (Tisdall and Oades, 1982; Tiessen et al., 1992; Six et al., 2000; Ouyang et al. 2018). Due to the extremely weak biological effect on soil formation, the uncultivated soils have very low organic matter and nutrient contents., Irrigation and agricultural fertilizer application after reclamation increase the input of organic materials and continuous agricultural utilization improve the input of biomass to the soils, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HE Mingzhu et al.: Cultivation effects on soil texture and fertility in an arid desert region of.. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfc4d4994769243182c57445960882292134c21239d017bc4bdde48ae4f4150f.jpg",
+        "img_caption": [
+            "Fig. 4Dendrogram results from the Ward's method of hierarchical cluster analysis for the cultivated and uncultivated sites.The values of 5.05,7.62,and 10.27 refer to the rescaled distances for the diffrent cluster combinations. Each cropland sampling location (including the control) had six replicates.The curve with crosses in the figure represents the stages of cluster combined. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "therefore accelerating the formation of soil aggregate (Tiessen et al., 1992; Hannachi et al., 2015). In addition, microbial partners, such as Arbuscular mycorrhizae fungi, associated with crop roots synthesize mucigels and polysaccharides that bind and transform the microaggregates into steady macroaggregates (Tisdal et al., 1997). Our results indicated that after 24 years of cultivation, soil aggregate size fraction contained the microaggregate ( $\\left( 0 . 2 5 { - } 0 . 5 0 \\ \\mathrm { m m } \\right)$ with the proportion of $1 5 . 0 6 \\%$ and the macroaggregate in a low level with the proportion of $0 . 5 0 \\%$ (Table 1). One reason for this scenario is that low SOC concentration is not beneficial for binding isolated sand particles together with very limited silt and clay contents (Li et al., 2006; Su et al., 2010) (Fig. S2). Another reason is that macroaggregates are less stable than microaggregates and sensitive to agricultural practices, e.g., plowing brings soils from the deep layer to the surface layer and physically breaks down macroaggregates, resulting in an increas in the turnover of SOC (Caravaca et al., 2004; Wei et al., 2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Impact of reclamation on soil chemical properties ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our study showed that cultivation of desert lands accelerated the increase in soil nutrient properties, the tendency of which was consistent with the changes in soil particle size and aggregate size fractions (Table 1). A number of previous studies have indicated that agricultural practices (e.g., irrigation, tilage, fertilization, and crop rotation) could improve soil carbon sequestration in arid and semi-arid regions after conversion of desert lands into arable croplands (Lal, 2OO4; Li et al., 2006; Wu et al., 2008; Li et al., 2010; Hannachi et al., 2015). The potential increase in SOC and nutrient contents mostly depends on the initial fertility level of the uncultivated land. Su et al. (2010) found that soils with a low initial SOC level have a greater potential for carbon sequestration and TN increase. Based on a long-term study of irigated agricultural soils in California, Wu et al. (2008) revealed that after 85 years of cultivation, irigated farming significantly increased SOC and soil inorganic carbon through the addition of crop residues, input of root mass, and amendment of organic fertility (Dong et al., 2018; Medeiros et al., 202O) or through the conversion of soil $\\mathbf { C O } _ { 2 }$ to carbonates (Entry et al.， 2OO4). Irrigated cultivation in arid and semi-arid desert regions may provide a path to contribute to carbon sequestration and reduce atmospheric $\\mathrm { C O } _ { 2 }$ concentrations. For example, Lueking and Schepers (1985) estimated that irrigated cultivation could increase SOC by $1 . 6 6 \\ \\mathrm { \\bar { M } g / h m ^ { 2 } }$ within the top $3 0 \\ \\mathrm { c m }$ of soil after 15 years of cultivation. In addition, due to microbial SOC decomposition, irrigated cultivation can also change the magnitude of soil $\\mathrm { C O } _ { 2 }$ efflux and the input and output of soil carbon pool, and even influence the soil carbon balance of cultivated croplands (Li et al., 2O1O). The current study indicated that after 24 years of cultivation, SOC continued to rise and the magnitude of soil carbon sequestration was higher than that of carbon loss. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Other soil chemical properties, including TN, TP, and TK, showed a similar trajectory as SOC during the different cultivation periods, and SOC had a positive correlation with TN, TP, and TK (Fig. S2). Under irrigated conditions, nitrogen (N) and phosphorus (P) are important factors restricting agricultural productivity and mostly rely on the application of chemical fertilizers. According to our field investigation, the actual application rates of N, P, and potassium (K) were 264, 69,and $8 2 ~ \\mathrm { k g / h m } ^ { 2 }$ ， respectively， which exceeded the recommended fertilization standards (230, 60,and $7 2 ~ \\mathrm { k g / h m } ^ { 2 }$ ， respectively） for cotton cultivation in Xinjiang Uygur Autonomous Region, China. In fact, intensive high-yield agriculture is dependent on the addition of fertilizer. From 1960 to 1995, the global use of $\\mathbf { N }$ and $\\mathrm { \\bf P }$ increased 7.O and 3.5 folds, respectively, and both are expected to increase another 3.O folds by 2O5O unless there is an improvement in fertilizer efficiency (Tilman et al., 2Oo1). Undoubtedly, the conversion of desert lands into arable croplands contributed to the improvement in fertilizer eficiency because we found that increasing soil N, P, and K were positively correlated to soil physical proporties (including silt and clay contents, and MDW) in sites with different cultivation ages (Fig. S2). However, excess application of N fertilizer resulted in a low C:N ratio of 8.16 after 24 years of cultivation (Table 1), which was lower than the average values of soils in China and in the world (11.38 and 13.33, respectively; Aitkenhead and McDowell, 2000). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Soil fertility and recovery potential ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Soil physical-chemical properties are the key factors in determining the soil fertility. According to the results of PCA, the PC1 was related to the \"soil aggregate stability and chemical properties\" set and was loaded by soil bulk density, soil aggregate size fractions, MWD, WSAP, SOC,TN, TP, and AP (Table 2). Soil aggregate stability， as an indicator of soil structure， resulted from the rearrangement of particles, flocculation and cementation (Duiker et al. 2OO3) and was directly related and mediated by SOC, biota, ionic bridging,and other soil nutrients (Fig. S2). Previous studies have shown that the water stability of soil aggregates depends on soil organic matter, which acts as a persistent organic binding agent and as a core in the formation of aggregates (Tisdall and Oades,1982; Bronick and Lal, 2O05). In the arid desert region of this study, due to irrigation, fertilization, cultivation, and other significant changes in the soil formation process, MWD, WASP, and soil chemical properties all showed an exponential growth trend during the 24 years of cultivation (Fig.2). The PCA results indicated that soil particle size fraction,TK, AK, and AN were loaded on the second PCA axis, which was mainly associated with soil texture and available nutrients. During the cultivation process, increasing silt and clay contents play a vital role in the formation of favorable structures of sandy soils (Mitchell et al., 1998; Su et al.,2O10). In addition, most soil K is oriented from K-bearing primary materials, such as muscovite, feldspars, and muscovite (Zorb et al., 2O14). Both water-soluble and exchangeable K which are easily available for crops,are related to clay content in soils (Barré et al., 2O08). Our results also indicated that clay and silt contents were positively related to TK (Fig. S2). The third PCA axis was loaded by soil $\\mathrm { p H }$ which decreased by $7 . 1 \\%$ after 24 years of cultivation in comparison with that at the O-year-old sites (Table 2; Figs. 3a and b). In arid desert regions, soil salinization is one of the important factors restricting agricultural production, so a decrease in soil $\\mathrm { p H }$ is beneficial to crop growth. High levels of N fertilization in our study area could directly or indirectly contribute to the decline of soil $\\mathrm { p H }$ (Guo et al., 2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results indicated that soil physical-chemical properties in sites with different cultivation ages could be divided into three stages, i.e., the slow growth period of the $1 ^ { \\mathrm { s t } }$ reclamation stage, the rapid amelioration period of the $2 ^ { \\mathrm { n d } }$ reclamation stage, and the stable improvement period of the $3 ^ { \\mathrm { r d } }$ reclamation stage (Fig. 4). After acclimation, under the effects of irigation, fertilization, and cultivation, the input of crop root biomass and other organic materials slowly improve the soil fertility conditions. In arid desert regions, due to the long-term wind erosion, desert soils are rich in sand particles, with loose structure and weak biological effects on soil formation; therefore, the process of improving soil texture and fertility undergoes long-term and complex periods. Study on the oasis arable croplands of the Hexi Corridor in northwestern China showed that the absolute amounts of soil aggregates， SOC, and nutrients were insufficient to maintain sustainable agricultural production after 40 years of cultivation (Su et al., 2010). Li et al. (2O06) pointed out that aperiodic wind erosion conditions were not conducive to the stability of soil aggregates and the maintenance of soil fertility. Based on data from both the soil fertility investigation (2011- 2012) and the second national soil survey (198Os), the soil fertility of cultivated land in the Aral reclamation region was relatively lower in organic matter and higher in alkali hydrolyzed nitrogen and AP (Cai, 2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the perspective of soil physical-chemical properties, this study showed the development of soil texture and fertility and concluded that the conversion of desert lands into arable croplands under long-term cultivation improved the soil physical-chemical properties. Specifically， soil particle size fraction, soil aggregate stability, SOC, TN, AN, TP, AP, TK, and AK exhibited sustained growth trends with increasing cultivation ages. However, our data showed that the process of improving soil texture and fertility undergoes long-term and complex periods, because after 24 years of cultivation, some key soil physical-chemical properties (such as soil aggregate stability, SOC, etc.) were stil too low to meet sustainable agricultural production. A systematic and comprehensive assessment, such as the soil quality index, is needed in the future to evaluate reclamation-induced changes in soil quality or fertility. For the future agricultural practices to effectively prevent wind erosion of arable croplands in arid and semi-arid desert regions, a range of agricultural management measures will be needed, such as expanding no-tillage land area, returning straw to fields, applying organic fertilizer, reducing chemical fertilizer, and carrying out soil testing for fertilization formulas. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the National Key Research and Development Project (2017YFC0504303), the Strategic Priority Research Program of Chines Academy of Science (XDA2003010301),and the National Natural Science Foundation of China (41671103). The authors would like to thank Dr. ZHANG Jingling and Dr. WU Gang from the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences,for asisting with several aspects ofthe field experiment,as wellas the anonymous reviewers and the editors for their valuable suggestions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AitkenheadJ,McDowellWH.20oo.SoilC:Nratioasapredictorofannual riverineDOCflux atlocaland global scales.Global Biogeochemical Cycles, 14(1): 127-138. BareP,MontagnierC,ChenuC,etal.O8.Claynealsasasilpotassumresevir:Observationandquantificationtough ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bronick C J, Lal R. 2005. Soil structure and management: A review. Geoderma, 124(1-2): 3-22.   \nCaiL H.2013.The status and spatial distributionof soil nutrition in Aral reclamation area.MSc Thesis.Shihezi: Shehezi University. (in Chinese)   \nCaravacaF,Lax A,Albaladejo J.2Oo4.Aggregate stabilityandcarboncharacteristics ofparticle-sizefractions incultivatedand forested soils of semiarid Spain. Soil and Tillage Research, 78(1): 83-90.   \nDong LL,Zhang HD,Yu DS,etal.2018.Soilorganiccarbonfractionsand physicochemicalproperties afectedbyiigation with Yellow River water. Chinese Journal of Ecology, 37(5): 1356-1363. (in Chinese)   \nDuikerS W,RhotonFE,TrrentJ,tal23.Iron (ydroxidecrystallnityectsonsoilagregation.SoilScieneSocietyof America Journal, 67(2): 606-611.   \nDuniway MC,Pfennigwerth A A,Fick SE,et al.2O19. Wind erosion and dust from US drylands: Areviewof causes, consequences,and solutions in a changing world. Ecosphere,10(3): e02650,doi: 10.1002/ecs2.2650.   \nEllottET.1986.Aggegate structureandcarbonnitrogen,andphosphorus innativeandcutivatedsoils.SoilScienceSociety of America Journal, 50(3): 627-633.   \nEl-Shahway A S, Mahmoud M MA, Udeigwe T K.2016.Alterations in soil chemical properties induced bycontinuous rice cultivation: A study on the arid Nile Delta soils of Egypt. Land Degradation & Development,27(2): 231-238.   \nEntryJA,SojkaRE,ShewmakerGE.2O04.Irigation increases inorganiccarbon inagricultural soils.Environmental Management, 33(1): S309-S317.   \nFAO (Food and Agriculture Organization ofthe United Nations).2017. Climatechange,agriculture and food security. In: The State of Food and Agriculture 2017. Italy: FAO Inter-Departmental Working Group.   \nFearnehough W,Fullen MA,Mitchell DJ,etal.1998.Aeoliandepositionand its effectonsoil and vegetationchanges on stabilised desert dunes in northern China. Geomorphology, 23(2-4): 171-182.   \nFullen MA,FearnhoughW,MitcellD,etal.1995.Desertrelamationusing YellowRiveriigation waterinNngxia,China. Soil Use and Management, 11(2): 77-83.   \nGelaw AM,Singh BR,LalR.2O14.Soil organiccarbon and total nitrogen stocks underdiferent land uses in asemi-arid watershed in Tigray,northern Ethiopia.Agriculture,Ecosystems and Environment,188: 256-263.   \nGongL,He G, Liu W.2O16.Long-term cropping effcts onagricultural sustainability in Alar oasisof Xinjiang,China. Sustainability, 8(1): 61, doi: 10.3390/su8010061.   \nGuoJH,LiuXJ,Zhang Y,etal.2010.SignificantacidificationinmajorChnesecroplands.Science,327(5968):108-1010.   \nHanachi N,Cocco S,ForasierF,etal.2O15.Efectsofcultivationonchemicalandbiochemical propertiesof drylandoils from southern Tunisia. Agriculture, Ecosystems and Environment,199: 249-260.   \nJaiyeoba IA.2Oo3.Changes in soil properties duetocontinuous cultivationin Nigerian semiarid SavannahSoiland Tillage Research, 70(1): 91-98.   \nLal R. 2004. Carbon sequestration in dryland ecosystems. Environmental Management, 33(4): 528-544.   \nLal R. 20o9. Soils and world food security. Soil and Tillage Research,102(1): 1-4.   \nLiCH,YanL,TangLS.2010.Soilorganiccarbonstockandcarboneflux indeepsoilsofdesertandoasis.EnvironmentalEarth Sciences,60(3): 549-557.   \nLi XG,LiF,RengelZ,etal.26.Cultivationefects otemporalchangesoforganicarbonandaggregatestabilityindesert soils of Hexi Corridor region in China. Soil and Tillage Research, 91(1-2): 22-29.   \nLueking MA,SchepersJS.1985.Changes insoilcrbonandnitrogenuetoigationdevelopmentinNebraska'sSandhilsoils. Soil Science Society of America Journal, 49(3): 626-630.   \nMedeiros AS,Maia S MF,Santos TC,etal.2020.Soil carbonlosses inconventionalfarmingsystems duetoland-usechange intheBraziliasem-aridregion.Agriclture,EcosystemsandEnvroment,287:106690,doi:10.016/j.agee.2019.06690.   \nMitchell D J,Fulln MA,Trueman IC,etal.1998.SustainabilityofreclaimeddesertifiedlandinNingxia,China.Joualof Arid Environments,39(2): 239-251.   \nNelson DW,SommersLE,Sparks DL,etal.1996.Totalcarbon,organicarbon,andorganic mater.MethodsofSoilAalyis, 9: 961-1010.   \nOuyang W,WuYY,HaoZC,etal.018.Combinedimpactsoflanduseandsoilpropertychangesonsoilerosioninamollisol area under long-term agricultural development. Science of the Total Environment, 613-614: 798-809.   \nReynolds R,BelnapJ, Reheis M,etal.2Oo1.AeoliandustinColorado Plateausoils: Nutrient inputs andrecent change in source. Proceedings of the National Academy of Sciences of the United States of America,98(13): 7123-7127.   \nSix J,EllottETPaustianK.Soilstructueandsoilrganicmater:II.Anormalizedstbilityidexndtheetof mineralogy. Soil Science Society of America Journal, 64(3): 1042-1049.   \nSu YZ,YangR,LiuWJ,etal.2Ol0.Evolutionofsoilstructureandfertilityafterconversionofnativesandydesertsoil to irrigated cropland in arid region, China. Soil Science, 175(5): 246-254.   \nTiessenH,SalcedoIH,SampaioEVSB.1992.Nutrientandsoilorganic materdynamicsundershifting cultivationinemiarid northeastern Brazil. Agriculture, Ecosystems and Environment,38(3): 139-151.   \nTilman D,FargioeJ, WolffB,etal.2Ool.Forecastingagriculturallrivenglobalenvironmental change.Science,292(5515): 281-284.   \nTisdallJM,Oades JM.1982. Organic matterand water-stable aggregates insoils.Journalof Soil Sience,33(2): 141-163.   \nTisdall JM, Smith SE, Rengasamy P.1997. Aggregation of soil by fungal hyphae. Soil Research,35(1): 55-60.   \nVerheye W.209.Soilsofaridandsemi-arid areas.In: Verheye W.LandUse,LandCoverandSoilScience,Vol.VI.Oxford: UNESCO-EOLSS Publishers, 67-95.   \nWei GX,ZhouZFGuoY,eal014.Long-efctsoftigeonlggregatesadtestrbutionofsoloaicabo total nitrogen,andothernutrientsinaggregatesonthesemi-aridLoessPlateau,China.AridLandResearchandManagement, 28(3): 291-310.   \nWu LS,WoodY,JangPP,etal.2o8.Carbonsequestrationanddyamicsof twoiigatedagriculturalsoilsinCalifoia.Soil Science Society of America Journal, 72(3): 808-814.   \nXiao GL,YinKL,FengMLetal.O9.Changes insoilganicarbon,utrintsandaggregationafterconversioofative desert soil into irrigated arable land. Soil and Tillage Research, 1O4(2): 263-269.   \nXiao G J,Hu YB,Zhang Q,et al.2020. Impact of cultivation onsoil organiccarbon andcarbon sequestration potential in semiarid regions of China. Soil Use and Management, 36(1): 83-92.   \nXu L S,Mu GJ,RenX,et al.2016.Spatialdistributionof dustdeposition duringdust storms in Cele Oasis,onthesouthern margin of the Tarim Basin. Arid Land Research and Management, 3O(1): 25-36.   \nZhangBP,Zhang XQ,ZhengD.2013.Countermeasuresandsuggestions forwastelandreclamation prohibitioninthearidland in Northwest China. Arid Zone Research,30(1): 1-4. (in Chinese)   \nZorbC,SenbayramM,PeiterE.214.Potassiuminagriculture: Statusand perspectives.Jouralof PlantPhysilogy171(9): 656-669. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Apendix ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc03553164fbe95d160e99d5f7793ce700ddcf74d61a5ac7b2635070c069b93a.jpg",
+        "img_caption": [
+            "Fig. S1 Linear relationships between soil aggregate stability (MWD and WSAP) and soil particle size fractions (sand,clay，and silt) of the cultivated sites. MWD, mean weight diameter; WSAP, water stable aggregate percentage.\\*\\*\\* indicates significant correlation at $P { < } 0 . 0 0 1$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "r=0.9848 r=-0.9873 r-0.5039 r=0.6451 r=0.6618 r=0.6902 r-0.7708  \n(%) G 8 + · + + ，6 Clay ； 心 . · 山 心4 52 8+0r=0.9848 7-0.9999 =05650 r=0.6864 r=0.6370 r=0.7083 r=0.7065 P：  \n(%)!S 60 7 140 Silt ： · 中 ：心20 A0 + 小 L  \n(%) pues 80 0.9873 -0.9999 1 -0.5600 0.6832 -0.6399 -0.7072 + -0.713260 Sand T T S440 “ 心 真 唱20 ： ： . ： ：中 + · · ·  \n(ww) MMw r-0.5039 r=0.5650 r=-0.5600 r-0.8257 r-0.6483 r=0.6557 r=0.12510.4 ： +· ： 1 ：00.2 . MWD. 公 30.0  \n/ 00s 10 =0.6451 r=0.6864 r=-0.6832 r-0.8257 r-0.7212 r=0.8745 =0.393286 1 8 ： T &SOC420  \n8 =0.6618 1-0.6370 r=-0.6399 · r=0.6483 · r=0.7212 r=0.7170 r=0.39526042200 A ： T · ： … · TN  \nN 0 ： ?-0.6902 r=0.7083 r= -0.7072 -0.6557 r-0.8745 =0.7170 r=0.51550.9 山 1 TP L0.6T 3 ?  \n(8y/） 25 =0.7708. r-0.7065 · -0.7132 r=0.1251 =0.3932 r-0.3952 r=0.5155  \nN 20 L 中 TK73 t L15·024680204060 204060800.0 0.2 0.402468100.0 0.4 0.80.60.91.2 15 20 25Clay (%) Silt (%) Sand (%) MWD (mm) SOC (g/kg) TN(g/kg) TP (g/kg) TK (g/kg)",
+        "page_idx": 14
+    }
+]

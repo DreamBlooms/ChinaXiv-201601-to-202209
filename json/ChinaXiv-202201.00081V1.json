@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "中亚天山地区关键水文要素变化与水循环研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈亚宁，李稚，方功焕 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院新疆生态与地理研究所，荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：天山地处欧亚大陆腹地，是丝绸之路经济带中段的重要水源地。天山地区的水循环系统具有时空差异性大、水源机制复杂、径流构成多元以及水系统脆弱等特点，水循环各环节受陆表格局和气候变化影响显著，水文要素对气候变化响应敏感，难以沿用现有的流域水循环模式阐述其内在机理。结合文献阅读和研究，系统分析了气候变化背景下天山地区关键水文要素的变化，研究了天山山区水汽来源、水汽输送机制以及水汽弱汇作用下的水循环要素变化及其对天山地区降水的影响及贡献率，揭示了气候变化对天山地区产汇流过程和水资源变化的影响机制，分析了气候变化对天山山区降水、冰川积累/消融、积雪变化对水循环的影响，提出了天山地区水循环研究的热点问题，为理解干旱区山区水循环机理、保障国家丝绸之路经济带中段水资源安全提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：水文要素；水循环；水文水资源；气候变化；中亚天山文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题的提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天山位于欧亚大陆腹地，是丝绸之路经济带中段的重要水源地，为中亚干旱区孕育了多条年径流量 $1 0 0 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 以上的大型河流，被誉为“中亚水塔”。天山地区水循环过程独特，水系统稳定性低，系统开展中亚天山地区的水循环与水安全研究，对构建中亚地区命运共同体、推进“一带一路\"国际合作，具有重要的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1天山被誉为“中亚水塔”，是中亚干旱区水资源的主要发源地",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天山被誉为“中亚水塔”，山区冰川发育、积雪广布，水资源主要由高山区冰川/积雪融水、中山森林带降水和低山带的基岩裂隙水构成[1-2]。根据最新的IPCC报告[3]，相对于前工业化时期，2011—2020年全球地表平均温度上升了 $1 . 0 9 \\mathrm { ~ ^ { \\circ } C } \\left( 0 . 9 5 { \\sim } \\right.$ $1 . 2 0 ^ { \\circ } \\mathrm { C } \\ \\cdot$ ，并且陆表气温上升幅度高于海洋。天山山体升温十分显著,升温速率达 $0 . 3 0 { \\sim } 0 . 4 1 \\ \\mathrm { { ^ c } { \\cdot } ( 1 0 \\mathrm { { a } ) ^ { - 1 [ 4 ] } \\mathrm { { ^ { - } } \\Omega } } }$ 温度的快速升高，加速了天山地区冰川、积雪、冻土的萎缩[1.2.5-8],这势必影响到天山地区水资源数量和水系统稳定性，关乎中亚地区的社会稳定和\"丝绸之路经济带\"建设。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2天山地区水循环独特，难以沿用已有的水循环模式阐述其内在机理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天山山脉地形起伏大，热量分布空间差异显著。加之，天山地区水资源构成多元(冰川、积雪融水、大气降水等），产汇流机理复杂，水循环过程独特，水循环和水文过程在很小尺度上的变化就有可能产生时空分布的巨大差异，水文过程对气候变化极为敏感，难以沿用现有的流域水循环模式或水文模型阐述其内在机理和基本规律[9]。气候变暖不仅改变了山区降水量和冰川/积雪的积累/消融规律，打破了原有的自然平衡4，而且，使得山区降水的时空分布和降水形式(雨雪比)发生变化[10],引起河川径流补给方式、产汇流过程和径流量的改变，导致极端水文事件加剧。天山山区的河川径流对冰川、积雪的依赖性强，随着冰川退缩、冰川调节功能的下降以及极端气候水文事件的加剧，径流量的变率增大，水源机制及产汇流过程将发生改变，河流水文过程将会变得更为复杂[1]。未来气候变化对天山地区的水资源影响尚不明确，天山地区水循环和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水资源变化趋势成为气候变化科学与干旱区水科学研究的热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3天山联接中国新疆和中亚五国之三，多元的政治主体割裂了科学研究的完整性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天山作为一个独立的巨型构造地貌单元，连接中国及中亚的哈萨克斯坦、吉尔吉斯斯坦和乌兹别克斯坦等国，地缘环境独特，水资源形成区与消耗区交叠，流域内不同国家和地区的水资源开发目标和管理办法不同，从而导致流域水资源的整体开发和管理十分复杂。天山是多条国际河流的发源地，跨境河流复杂、密集，是世界上跨境河流问题最为突出地区之一。天山地区横跨多个国家，割裂了天山地区科学研究的系统性和完整性，诸多涉及天山地区水循环和水系统变化机理的问题尚处于热议中[11]。全球变暖加剧了水系统脆弱性和河川径流的波动性，加大了水资源的不确定性，不断的水冲突以及气候变化带来的水资源风险和水危机成为影响丝路经济带水资源安全的潜在威胁[12-13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 天山地区的关键水文要素变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1降水变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降水是水循环中最活跃的要素，更是天山山区最为关键的水文要素。在过去的几十年间，天山地区的降水量呈现出增加趋势，降水量的增加速率为$5 . 8 2 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 [ 1 4 ] }$ 。但是，自2000年以来,降水的增加趋势减弱,极端降水天气增加[15]。特别值得一提的是，在全球变暖背景下，山区固态降水出现了向液态降水的转变趋势[16]。研究结果显示，温度每升高 $1 \\mathrm { { ^ { c } } }$ ,降雪率下降 $1 0 . 0 \\% { \\sim } 1 5 . 0 \\% ^ { [ 1 7 ] }$ 。在高亚洲地区，未来随着温度升高，尤其是冬季温度的大幅升高，在RCP4.5和RCP8.5排放情景下，降雪率降低$2 6 . 7 \\%$ 和 $4 2 . 3 \\%$ ,并且，在高排放情景下，以降雨为主的区域将扩大到 $5 3 . 9 \\%$ ，而以降雪为主的区域则会缩减至整个区域的 $1 7 . 9 \\% ^ { [ 1 8 ] }$ 。伴随着温度升高,天山山区降雪率也出现了明显下降趋势，从1960—1998年的 $1 1 . 0 \\% { \\sim } 2 4 . 0 \\%$ 降低到2000年以来的 $9 . 0 \\% .$ ，$2 1 . 0 \\% ^ { [ 4 ] }$ 。有学者利用WRF模型分析了1979—2015年新疆的降雪率变化，研究发现降雪率减小的区域主要位于天山和阿勒泰山[19]。还有学者通过台站观测、多源遥感和插值数据分析，指出天山的降雪率在1995年以前呈现出增加趋势 $\\left[ 0 . 6 \\% \\cdot ( 1 0 \\mathrm { { a } ) ^ { - 1 } } \\right]$ ，之后呈现出下降趋势 $[ 0 . 5 \\% \\cdot ( 1 0 \\mathrm { { a } ) ^ { - 1 } } ]$ ,降雪率的降低主要发生在 $1 5 0 0 { \\sim } 3 5 0 0 \\mathrm { m }$ 的中低海拔地区[20-21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 冰川变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冰川是天山地区水资源的重要组成部分，冰川融水约占天山地区径流总量的 $2 0 . 0 \\% { \\sim } 4 0 . 0 \\%$ 。在高温干旱年间，由于降水减少和冰川融化增加，冰川径流的补给比例可高达 $4 0 . 0 \\%$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在冰川进退变化研究方面，单条冰川的研究相对深入和全面[22]，如冰川体积、厚度和动态等。然而，对整个中亚天山地区冰川的整体认知还不明朗，未来不同气候变化情景下的冰川变化情况更是不得而知。有学者对天山地区的冰川变化研究指出，天山地区2000—2016年的冰川物质平衡为$0 . 2 8 { \\scriptstyle \\pm 0 . 2 0 } \\mathrm { ~ m ~ }$ w.e.a-1[5]；1961—2012年天山冰川面积和物质量分别减少了 $1 8 . 0 \\% \\pm 6 . 0 \\%$ 和 $2 7 . 0 \\% \\pm 1 5 . 0 \\%$ ，合计冰川面积损失为 $2 9 6 0 { \\pm } 1 0 3 0 \\ \\mathrm { k m } ^ { 2 }$ ，冰川量损失速率为每年 $5 . 4 { \\pm } 2 . 8 \\mathrm { G t } ^ { [ 2 3 ] }$ ;近30a天山冰川覆盖面积减少了 $1 0 . 1 \\%$ （约 $1 6 1 7 ~ \\mathrm { k m } ^ { 2 }$ ），其退缩速率是1943—1973年的3倍24」；1975—1999年天山中部的阿克苏河流域冰川物质平衡为 $0 . 3 5 { \\pm } 0 . 3 4 \\mathrm { ~ m ~ w . e . ~ a ~ } ^ { - 1 [ 2 5 ] }$ ;天山南坡北伊力尔切克冰川和南伊力尔切克冰川在1975一2007年物质损失速率分别可达 $0 . 2 5 { \\scriptstyle \\pm 0 . 1 0 }$ m w.e. $\\mathbf { a } ^ { - 1 }$ 和 $0 . 4 3 { \\scriptstyle \\pm 0 . 1 0 \\mathrm { ~ m ~ } }$ w.e.a-1[26]。中国学者对近50a来中国天山冰川的变化研究表明，冰川面积缩小了约 $1 1 . 5 \\% ^ { [ 2 7 ] }$ ;在1990—2011年，中亚天山地区的冰川面积退缩了 $1 0 . 3 \\% { \\sim } 2 7 . 7 \\%$ ,其中，中天山退缩速率最快，而东天山退缩速率最低，在2000年以后退缩速率有加快趋势[28]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全球变化背景下，天山冰川未来变化预估方面的研究成为关注的热点。有学者提出，当温度升高$1 \\mathrm { { ^ { c } } }$ 时，同高程带上的降水量需要增加 $1 0 0 ~ \\mathrm { m m }$ 才能保证当前冰川物质平衡[29]。当温度上升 $4 \\mathrm { { ^ circ C } }$ ，而降水增加1.1倍时，到21世纪末，天山地区的冰川物质平衡线将上升 $5 7 0 \\mathrm { m }$ ,冰川面积和冰川储量将减少到当前的 $6 9 . 0 \\%$ 和 $7 5 . 0 \\%$ 。Lutz等利用冰川物质平衡模型预估了天山锡尔河流域的冰川变化[30],指出到2050年冰川面积将减少 $5 9 . 4 \\% ( 5 4 . 4 \\% \\sim 6 5 . 1 \\% )$ 0Kraaijenbrink等结合不同温升情景进行了冰川变化趋势分析，指出到21世纪末，在 $1 . 5 ~ ^ { \\circ } \\mathrm { C }$ 温升条件下，亚洲高山区的气温将升高 $2 . 1 \\pm 0 . 1 ^ { \\circ } \\mathrm { C }$ ，仅有 $6 4 . 0 \\% \\pm$ $7 . 0 \\%$ 的冰川能够保存。在RCP4.5、RCP6.0和RCP8.5情景下，到21世纪末，冰川损失将分别高达$4 9 . 0 \\% \\pm 7 . 0 \\% \\cdot 5 1 . 0 \\% \\pm 6 . 0 \\%$ 和 $6 4 . 0 \\% \\pm 5 . 0 \\% ^ { [ 7 ] }$ 号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3积雪变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "积雪是天山山区重要的固态水资源。最新研究成果显示，2002一2017年天山地区积雪覆盖率减少和增加的区域分别为 $5 3 . 0 \\%$ 和 $4 7 . 0 \\%$ ,最大和最小积雪覆盖率下降速率分别为 $0 . 6 2 \\% \\cdot \\mathrm { a } ^ { - 1 }$ 和 $0 . 0 4 \\% \\cdot \\mathrm { a } ^ { - 1 }$ 空间上，从高海拔到低海拔、从西北到东南，积雪覆盖率变化呈减少的趋势[31]。天山的积雪天数变化在空间上存在异质性，其中，积雪天数减少的区域主要位于中天山和东天山，增加的区域主要位于北天山和西天山[32]。然而，值得一提的是，天山地区的积雪初日时间(SOD)以 $0 . 2 5 \\mathrm { d } \\cdot \\mathrm { a } ^ { - 1 }$ 的速度在提前，积雪持续时间(SCD)也呈现出不显著的增加趋势$( 0 . 3 1 \\mathrm { ~ d } \\cdot \\mathrm { a } ^ { - 1 } )$ ,究其原因与秋季气温的下降有关[31]。而秋季气温的下降可能与北太平洋表面温度变化和西伯利亚高压增强有着密切关系[33。此外,有研究结果显示，天山山区的积雪深度在1960一2014年也呈现增加趋势[34]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 天山地区水汽输送机制与水循环变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1天山地区的水汽输送机制研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天山位于亚欧大陆腹地，所处区域气候干燥，中山森林带是天山地区主要的水资源形成区[35-36]。从区域上看，天山山脉地处印度洋暖湿气流和北大西洋气流重叠影响区，又同时受西风环流的影响。研究结果显示，天山山区大气水汽来源主要有北冰洋、大西洋和里海地区，同时，亚欧大陆内部再循环水汽也对局地降水有很大贡献。杨森等[37利用大气环流模型(GCM)模拟的降水中 ${ \\mathfrak { F } } ^ { 1 8 } \\mathrm { O }$ 的含量与冰芯中 $\\delta ^ { 1 8 } \\mathrm { O }$ 的含量对比指出，1990一2001年天山地区降水中 $\\mathbf { \\delta } ^ { 8 } \\mathbf { 0 }$ 值整体偏负，主要是由于天山水汽中来源于北冰洋的水汽增加所致[38]。另外,我们的研究发现，天山北坡典型流域的降水水汽主要来源于亚欧大陆再循环水汽和黑海-里海水汽，而来源于大西洋或北冰洋的降水频次很低。Dai等[39]基于ERA-40再分析数据分析了包括天山在内的新疆地区的水汽来源，指出不同于冬季水汽主要来源于里海和地中海，7月水汽来源于北大西洋和北冰洋，10月水汽主要来源于黑海和里海，并且随着气候变化，来自于高纬度北冰洋的水汽增加。Huang等4o基于美国气象环境预报中心(NCEP)再分析数据和后向轨迹分析方法指出，天山北部地区的极端强降水事件的水汽来源主要是北大西洋和欧亚大陆，通过西风环流输送到新疆。此外，还有学者基于降水同位素、美国气象环境预报中心/美国国家大气研究中心(NCEP/NCAR)数据和拉格朗日后向轨迹模型研究指出，天山南坡降水水汽主要来源于陆地局地水循环,而非大西洋的海洋水汽[41]。Tian等[42]研究指出，欧亚大陆北部大部分地区的水汽来自北大西洋，而相对于温暖年份，寒冷年份的水汽更多的来源于高纬度北冰洋[43]。在天山地区,水汽高值区主要分布在天山北麓的河谷平原地带，低值区在中天山和东天山,大气水分随高度呈负指数递减[44]。天山地区蒸发剩余比为 $9 4 . 3 9 \\%$ ,其中，云下蒸发在夏季最为强烈[45]。大气的变暖和变湿增强了当地的水分循环和降水循环，水汽再循环率在20世纪80年代呈现出突变型增加。Brubaker和Schar模型显示降水再循环率平均值分别为 $6 . 4 8 \\%$ 和 $7 . 7 9 \\%$ 。降水再循环率从20世纪80年代初到21世纪初呈强劲上升趋势，这意味着中亚天山地区的降水循环在过去20a间一直在加速[46]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2天山地区的水循环变化研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天山作为“中亚水塔”，其水循环过程备受关注。在中亚干旱区，几乎所有河流都发源于山区，然而，山区河川径流并非线性系统，其对水循环要素(如蒸发、积雪、冰川等)变化的响应也并非线性过程。气候变化势必改变天山地区原有的水循环过程,如河流补给特征、径流季节分配、径流量等[4.47],给中亚地区原本紧张的水资源供需矛盾带来挑战[12]。研究表明，降水量变化对水循环的影响主要体现在改变径流量的均值和季节分配，然而，降水形式的变化对径流量的影响暂无定论[48]。Barnett等[10]提出，在融雪径流补给为主的地区，降雪率的降低可能导致河流由融雪主导型向雨水主导型转变，从而导致径流季节分配变化，径流峰值向冬季和早春移动，而不再集中于需水量最高的夏、秋季节。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在全球变化背景下，随着冰川消融加速，以冰雪融水补给为主的河流其水文过程也发生了变化。由于洪峰的时间变化受到融雪日期和积雪覆盖面积的影响[49],天山地区融雪径流比重较大河流的最大径流出现时间已经出现了季节性变化[],表现为融雪洪峰的提前[10.50]。同时,气候变暖导致的冰川和积雪的变化也影响径流组分，天山北坡小流",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "域的径流已经出现了由单峰型向双峰型转变的趋势[51]。全球变暖打破了原有的自然平衡,加速了天山山区冰川、积雪以及冻土等的消融，水循环过程这种变化将直接影响区域水资源的重新分配模式，影响水资源管理策略的制定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3天山地区未来水文水资源变化预估",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天山山区资料稀缺，水文过程独特，产汇流机理复杂，准确模拟水循环过程,对预估水资源变化趋势具有重要意义。在未来水循环与水资源预估方面，利用耦合气候模式与陆面模式/水文模型来分析未来区域水文过程演变规律，成为研究未来水循环的主要手段。然而，基于全球气候模式计算的网格数据对于地形起伏大、热量分布差异特征显著的中亚天山地区研究误差较大，无法准确反映天山地区产流区气候因子剧烈变化的实际状况[52]。因此，需要开发能够表征干旱区山区陆面格局特征的高分辨率区域气候模式，为研究全球气候变化背景下天山地区气候水文未来趋势提供基础。针对此，有学者研究指出，尽管气候变化存在很大的不确定性，但2050年以前，高亚洲山区的径流将呈现持续增加趋势[53-54]。还有学者对天山山区典型流域,如：天山南坡阿克苏河流域[55-56]、开都河流域[57]、阿姆河上游支流[58-59]、天山北坡玛纳斯河流域[0]的水循环和未来水文过程变化进行了研究，然而，由于天山地区资料的稀缺性，尤其是山区复杂地形条件下气象资料和水文资料的缺失，使得天山山区在水文、水资源未来变化趋势预估中存在很大的不确定性。同时，也鲜有研究者从高精度的流域尺度上进行整体模拟研究[61]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4天山地区水循环研究的热点问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天山地区的水循环系统具有时空差异性大、水源机制复杂、径流构成多元、水资源系统脆弱的特点，全球变化对水循环机理、水资源变化的影响以及未来不同温升情景下天山地区水循环过程与水资源变化趋势的预估成为热点问题。需要系统解析变化环境下天山地区的水循环过程与水资源变化，查明和掌握水资源数量变化特征，揭示气候变化对天山地区产汇流过程和水资源变化的影响机制，构建适合高寒山区复杂地貌特征的具有物理机制的分布式水文模型，预估未来不同情景下水循环过程变化趋势，回答天山山区气候与水资源“未来怎么变\"问题，为国家丝绸之路经济带建设提供科学依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1查明和辨析天山地区水汽来源及对山区降水变化的影响机理和贡献率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天山受西风环流、印度洋暖湿气流和北大西洋气流的交汇作用，在水汽来源与输送特征等方面受到独特的山盆地形结构和复杂气候系统格局的影响，致使不同区域、不同海拔、不同坡向以及不同季节和年份的降水量变化差异很大。在全球变化背景下，需要重点研究天山地区的大气水汽循环结构演变及其对降水变化的影响机理，厘清西风环流、印度洋暖湿气流和本地蒸发等不同水汽来源、路径及对区域降水的贡献率，分析区域降水、极端暴雨和暴雪的水汽源(汇)分布、水汽输送通道特征，解析区域大气水分循环结构演变及对降水变化的影响机理，揭示大尺度大气环流和局地复杂地形格局影响下的水循环动力辐合机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2构建适合高寒山区复杂地貌特征的具有物理机制的分布式水文模型是认知水循环科学规律的关键",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天山地区气候水文站点稀少，加之高寒山区地貌复杂、山区气候-径流过程独特，从而导致对这一区域的降水、蒸散发、地表径流、基流等关键水文过程及其相互作用机理认识不清。为此，需要系统解析气候变化背景下的天山地区水文过程和水源机制，查明气候变化背景下的流域水资源组分、构成及变化规律，解读全球变化对山区产汇流过程、河川流量峰值、基流变化的影响机理，结合天山地区水资源形成和组分特点，构建适合高寒山区复杂地貌特征及缺资料区、能反映天山山区降雨、冰川融水、积雪融水共同补给的分布式水文模型至关重要。通过多目标敏感性分析和多目标优化，并结合山区冰川面积、体积、积雪面积和不同水源的同位素数据对水文模型进行多源验证，以揭示气候变化下天山地区产汇流机制和关键水文过程，提升对这一特殊地区水循环规律的科学认知。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3从物理机制上解析陆-气间能量水分交换的影 响机理是准确刻画水循环过程、揭示径流变化的 关键 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中亚天山地区对全球变化响应敏感，有关气候变化与流域径流总量关系的研究成为热点。虽然已有相关成果发表，然而，缺乏对径流组分、水文变量、径流峰值与枯水期流量等的深人分析。加之，天山地区冰川广布，冰川面积、厚度变化的非线性以及积雪水文过程的复杂性等，使得全球变化下的天山山区冰川积雪变化以及极端气候水文事件对水循环及流域径流的影响和不确定性日益加大，全球变暖导致的天山地区水热格局变化使本已十分敏感的中亚天山地区水循环过程具有更大的不确定性。为此，需要系统研究天山地区水循环过程各水文要素的变化趋势及对气候变化的响应，深入分析气候变化对天山山区降水（降水形式、降水量）、冰川积累/消融以及积雪面积/厚度变化等对水循环的影响，解析水循环变化的时空差异性及其根源、机理，从物理机制上揭示陆-气间能量水分交换的机理，准确刻画天山地区独特的水循环过程和径流变化驱动机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4揭示气候变化下雨/雪/冰变化及产汇流过程是预估未来天山地区水循环过程变化的关键",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天山地区的温度升高不仅影响山区降水量、降水形式以及冰雪融化速率等，还将改变径流补给方式。虽然对大山冰川/积雪面积与气候变化关系研究较多，但是对冰雪、冻土变化与水储量的关系、变化速率、趋势及机制的解析相对匮乏，山区雨/雪/冰变化影响径流过程的机理尚不得而知。为此，在全球气候变化导致的山区冰川、积雪消长过程不确定性不断增强、山区降水(降水量、降水形式)发生变化的情况下，需要从水源机制入手，系统研究山区降水、冰雪分布及变化，解析雨/雪/冰产流过程，对预估未来不同情景下天山地区水循环过程和水资源变化趋势至关重要，研究成果可为国家“丝绸之路经济带\"建设的水安全保障提供重要科技支撑，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Sorg A,Bolch T, Stoffel M,et al. Climate change impacts on glaciers and runoff in Tien Shan (Central Asia)[J].Nature Climate Change,2012,2(10): 725-731.   \n[2] Pritchard H D.Asia's glaciers are a regionally important buffer against drought[J]. Nature,2017, 545: 169-174.   \n[3] IPCC.Climate change 2O21: The physical science basis[C]//Masson-Delmotte V, Zhai P,Pirani A,et al. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.Cambridge:Cambridge University Press,2021.   \n[4] Chen Y N,Li WH,DengHJ,et al.Changes in Central Asia's water tower: Past,present and future[J]. Scientific Reports,2016,6: 35458,doi: 10.1038/srep35458.   \n[5]Brun F,Berthier E,Wagnon P,et al.A spatiall resolved estimate of High Mountain Asia glacier mass balances from 2OoO to 2016 [J].Nature Geoscience,2017,10: 668-673.   \n[6] Immerzeel W W,Van Beek L P, Bierkens MF.Climate change willaffect the Asian water towers[J]. Science,2010,328:1382-1385.   \n[7] Kraaijenbrink PD A, Bierkens MFP,Lutz AF,et al. Impact of a global temperature rise of 1.5 degrees Celsius on Asia's glaciers [J]. Nature,2017,549: 257-260.   \n[8]Marzeion B,Cogley JG,Richter K,et al.Atribution of global glacier mass loss to anthropogenic and natural causes[J]. Science, 2014, 345: 919-921.   \n[9]Chen YN,Li W H,Fang G H,et al. Hydrological modelingin glacierized catchments of Central Asia: Status and challenges[J]. Hydrology and Earth System Sciences,2017,21: 669-684.   \n[10]Barnett TP,Adam JC,Lettenmaier D P.Potential impacts of a warming climate on water availability in snow-dominated regions [J].Nature,2005,438: 303-309.   \n[11] 陈亚宁,李稚,方功焕,等.气候变化对中亚天山山区水资源影 响研究[J].地理学报,2017,72(1):18-26.[Chen Yaning,Li Zhi, Fang Gonghuan, et al. Impact of climate change on water resources in the Tianshan Mountians,Central Asia[J].Acta Geographica Sinica, 2017, 72(1): 18-26.]   \n[12]Chen Y N,Li Z, Fang G H, et al.Large hydrological processes changes in the transboundary rivers of Central Asia[J]. Journal of Geophysical Research: Atmospheres,2018,123(10): 5059-5069.   \n[13] 陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J].干 旱区地理,2012,35(1):1-9.[Chen Yaning,Yang Qing,Luo Yi,et al.Ponder on the issues of water resources in the arid region of northwest China[J].Arid Land Geography,2012,35(1): 1-9.]   \n[14] Xu M, Kang S C,Wu H,et al. Detection of spatio-temporal variability of air temperature and precipitation based on long-term meteorological station observations over Tianshan Mountains,Central Asia[J]. Atmospheric Research,2018,203: 141-163.   \n[15] Ma Q, Zhang J,Ma Y,et al. How do multiscale interactions affect extreme precipitation in eastern Central Asia?[J]. Journal of Climate,2021,34(18): 7475-7491.   \n[16] O'Gorman P A. Contrasting responses of mean and extreme snowfall to climate change[J]. Nature,2014,512: 416-420.   \n[17] Safeeq M, Shukla S,Arismendi I,et al. Influence of winter season climate variability on snow-precipitation ratio in the western United States[J].International Journal of Climatology，2016,36(9): 3175-3190.   \n[18]LiYP,Chen Y N,Wang F,et al. Evaluation and projection of snowfall changes in High Mountain Asia based on NASA's NEXGDDP high-resolution daily downscaled dataset[J].Environmental Research Letters,2020,15(10): 104040,doi: 10.1088/1748-9326/ aba926.   \n[19]Li Q,Yang T,Qi Z,et al. Spatiotemporal variation of snowfall to precipitation ratio and its implication on water resources by a regional climate model over Xinjiang,China[J].Water,2018,1463 (10): 1-13.   \n[20]Li Z, Chen Y N,Li Y,etal. Declining snowfall fraction in the alpine regions, Central Asia[J]. Scientific Reports,202o,10:1-1.   \n[21]Guo L P,LiL H. Variation of the proportion of precipitation occurring as snow in the Tian Shan Mountains, China[J]. International Journal of Climatology,2015,35(7):1379-1393.   \n[22] Savoskul O S,Smakhtin V. Glacier systems and seasonal snow cover in six major Asian river basins: Water storage properties under changing climate[R]. Colombo: International Water Management Institute,2013.   \n[23]Farinoti D,Longuevergne L, Moholdt G,et al. Substantial glacier mass loss in the Tien Shan over the past 5O years[J]. Nature Geoscience, 2015, 8(9): 716-722.   \n[24]Aizen V B,Kuzmichenok V A,Surazakov A B,et al.Glacier Changes inthe Tien Shan as determined from topographic and remotely sensed data[J]. Global and Planetary Change,2O07,56(3- 4): 328-340.   \n[25]Pieczonka T,Bolch T.Region-wide glacier massbudgetsandarea changes forthe central Tien Shan between \\~1975 and 1999 using Hexagon KH-9 imagery[J]. Global and Planetary Change, 2015, 128: 1-13.   \n[26]Shangguan D H, Bolch T,Ding Y J,et al. Mass changes of southern and northern Inylchek Glacier,central Tian Shan, Kyrgyzstan, during similar to 1975 and 2007 derived from remote sensing data [J]. Cryosphere,2015(9): 703-717.   \n[27] 王圣杰,张明军,李忠勤,等.近50年来中国天山冰川面积变化 对气候的响应[J].地理学报,2011,66(1):38-46.[Wang Shengjie, Zhang Mingjun,Li Zhongqin,et al. Response of glacier area variation to climate change in Chinese Tianshan Mountains in the past 50 years[J]. Acta Geographica Sinica, 2011,66(1): 38-46.]   \n[28]He Y, Yang TB,Qin J, et al. Glacier variation in response to climate change in Chinese Tianshan Mountains from 1989 to 2012 [J]. Journal of Mountain Science,2015,12(5): 1189-1202.   \n[29]Aizen V,Aizen E,Kuzmichonok V.Glaciers and hydrological changes in the Tien Shan: Simulation and prediction[J]. Environmental Research Letters,2007,2(4): 045019,doi: 10.1088/1748- 9326/2/4/045019.   \n[30]Lutz AF,Immerzeel W W,Gobiet A,et al. Comparison of climate change signals in CMIP3 and CMIP5 multi-model ensembles and implications for Central Asian glaciers[J].Hydrology and Earth System Sciences,2013,17(9): 3661-3677.   \n[31]LiYP,Chen YN,Li Z. Climate and topographiccontrols on snow phenology dynamics in the Tienshan Mountains, Central Asia[J]. Atmospheric Research,2020,236:104813,doi: 10.1016/j.atmosr es.2019.104813.   \n[32] Tang Z G,Wang X R,Wang J,et al. Spatiotemporal variation of snow cover in Tianshan Mountains,Central Asia,based on cloudfree MODIS fractional snow cover product,2001—2015[J].Remote Sensing,2017,9: 1045,doi: 10.3390/rs9101045.   \n[33]Li BF,Li Y P,Chen Y N,et al.Recent fall Eurasian cooling linked to North Pacific sea surface temperatures and a strengthening Siberian high[J]. Nature Communications,202o,11: 5202,doi: 10.1038/s41467-020-19014-2.   \n[34]Li Q, Yang T, Zhang F Y,et al. Snow depth reconstruction over last century:Trend and distribution in the Tianshan Mountains, China[J]. Global and Planetary Change,2019,173: 73-82.   \n[35] Chen Y N.Water resources research in northwest China[M]. New York: Springer,2014.   \n[36] Chen Y N,LiBF,Li Z,et al. Water resource formation and conversion and water security in arid region of northwest China[J]. Journal of Geographical Sciences,2016,26: 939-952.   \n[37] 杨森,张明军,王圣杰.基于GCM和冰芯的天山地区降水同位 素的水汽来源影响机制[J].干旱区研究,2018,35(2):425-435. [Yang Sen, Zhang Mingjun,Wang Shengjie.Affecting mechanism of moisture sources of isotopes in precipitation in the Tianshan Mountains based on GCMs and ice core[J].Arid Zone Research, 2018, 35(2): 425-435.]   \n[38] Zhang MJ, Wang S J. Precipitation isotopes in the Tianshan Mountains asa key to water cycle in arid Central Asia[J]. Sciences in Cold and Arid Regions,2018,10(1): 27-37.   \n[39]Dai XG,Li WJ,Ma ZG,et al. Water-vapor source shift of Xinjiang region during the recent twenty years[J]. Progress in Natural Science,2007,17(5): 569-575.   \n[40] Huang W, Chang S Q, Xie C L,et al. Moisture sources of extreme summer precipitation events in north Xinjiang and their relationship with atmospheric circulation[J]. Advances in Climate Change Research,2017,8(1): 12-17.   \n[41]Wang S J, Zhang M J, Crawford J,et al. The effect of moisture source and synoptic conditions on precipitation isotopes in arid Central Asia[J]. Journal of Geophysical Research: Atmospheres, 2017,122(5): 2667-2682.   \n[42] Tian L D, Yao TD, MacClune K,et al. Stable isotopic variations in west China: A consideration of moisture sources[J].Journal of Geophysical Research:Atmospheres，2007(D10): D10112，doi: 10.1029/2006JD007718.   \n[43] Liu X K,Rao Z G, Zhang X J, et al. Variations in the oxygen isotopic composition of precipitation in the Tianshan Mountains region and their significance for the westerly circulation[J].Journal of Geographical Sciences,2015,25(7): 801-816.   \n[44] 姚俊强,杨青,黄俊利,等.天山山区及周边地区水汽含量的计 算与特征分析[J].干旱区研究,2012,29(4): 567-573.[Yao Junqiang,Yang Qing,Huang Junli, et al. Computation and analysis of water vapor content in the Tianshan Mountains and peripheral regions,China[J]. Arid Zone Research,2012,29(4): 567-573.]   \n[45] Chen H, Chen Y,Li D,et al. Effect of sub-cloud evaporation on precipitation in the Tianshan Mountains (Central Asia) under the influence of global warming[J].Hydrological Processes,2O20,34: 5557-5566.   \n[46]Yao JQ,Chen Y, Zhao Y,et al. Climatic and associated atmospheric water cycle changes over the Xinjiang, China[J]. Journal of Hydrology，2020,585:124823，doi:10.1016/j.jhydrol.2020. 124823.   \n[47]Berghuijs W R,Woods RA,Hrachowitz M.A precipitation shift from snow towards rain leads to a decrease in streamflow[J]. Nature Climate Change,2014(4): 583-586.   \n[48]Regonda S K,Rajagopalan B, Clark M,et al. Seasonal cycle shifts in hydroclimatology over the western United States[J].Journal of Climate,2005,18:372-384.   \n[49]Campbell JL,Driscoll C T,Pourmokhtarian A,et al. Streamflow responses to past and projected future changes in climate at the Hubbard Brook Experimental Forest,New Hampshire,United States[J].Water Resources Research,2011,47(2):W02514,doi: 10.1029/2010WR009438.   \n[50]Liu T,Willems P,Pan X L,et al.Climate change impact on water resource extremes in a headwater region of the Tarim Basin in China[J].Hydrology and Earth System Sciences,2011,15: 3511-3527.   \n[51] Zhang FY,LiL H,Ahmad S. Streamflow pattern variations resulting from future climate change in middle Tianshan Mountains region in China[C]//World Environmental and Water Resources Congress,California,2017: 437-446.   \n[52]Qin P H,Xie Z H. Detecting changes in future precipitation extremes over eight river basins in China using RegCM4 downscaling [J].Journal of Geophysical Research:Atmospheres,2O16,121 (12): 6802-6821.   \n[53]Lutz A F,Immerzeel W W,Shrestha A B,et al.Consistent increase in high Asia's runoff due to increasing glacier melt and precipitation[J]. Nature Climate Change,2014(4): 587-592.   \n[54]Immerzeel W W,Pellicciotti F,Bierkens MFP.Rising river flows throughout the twenty-first century in two Himalayan glacierized watersheds[J].Nature Geoscience,2013(6): 742-745.   \n[55]Duethmann D,Menz C,Jiang T,et al.Projections for headwater catchments of the Tarim River reveal glacier retreat and decreasing surface water availability but uncertainties are large[J]. Environmental Research Letters,2016,11(5):054024: doi: 10.1088/ 1748-9326/11/5/054024.   \n[56]Zhao Q D, Zhang SQ,Ding Y J,et al.Modeling hydrologic response to climate change and shrinking glaciers in the highly glacierized Kunma Like River catchment,central Tian Shan[J]. Journal of Hydrometeorology,2015,16(6): 2383-2402.   \n[57]Fang G H, Yang J,Chen Y N,et al. Impact of GCM structure uncertainty on hydrological processes in an arid area of China[J].Hydrology Research,2018,49(3-4): 893-907.   \n[58]Hagg W,Hoelzle M,Wagner S,et al.Glacier and runoff changes in the Rukhk catchment,upper Amu-Darya Basin until 2O5O[J].Global and Planetary Change,2013,110(Part A): 62-73.   \n[59]Wang XL,Luo Y,Sun L,et al.Attribution of runoff decline in the Amu Darya River in Central Asia during 1951—2O07[J]. Journal of Hydrometeorology,2016,17:1543-1560.   \n[60]Luo Y,Arnold J, Liu S,et al. Inclusion of glacier processes for distributed hydrological modeling at basin scale with application to a watershed in Tianshan Mountains,northwest China[J]. Journal of Hydrology,2013,477: 72-85.   \n[61]Luo Y,Wang XL,Piao S L,et al. Contrasting streamflow regimes induced by melting glaciers across the Tien Shan-Pamir-north Karakoram[J]. Scientific Reports,2018,8(1):16470,doi:10.1038/ s41598-018-34829-2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Changes of key hydrological elements and research progress of water cycle in the Tianshan Mountains, Central Asia ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yaning， LI Zhi， FANG Gonghuan (State KeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences, Urumqi 830011, Xinjiang, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Located in the hinterland of Eurasia,Tianshan Mountains are the main water source in the middle part of the Silk Road Economic Belt.The water circulations of the Tianshan Mountains are distinguished by large spatiotemporal variations,complex water generation mechanisms,multiple runoff composition，and a fragile water system. The runoff processes are extremely sensitive to even minor changes in hydrological elements caused by climate change.It is diffcult to describe the internal hydrological mechanism using the current hydrological model. Based on the literature review,the paper systematically analyzes the key hydrological elements under climate change,including identification of the water vapor source and its transport,changes in water cycle elements and their impact on precipitation,the impacts of climate change on precipitation,runoff generation, glacier accumulation/melting,snow and water resources in the Tianshan Mountains.The hot issues on the water cycle in the Tianshan Mountains are presented to provide a scientific basis for understanding the water cycle mechanism of the mountainous areas and ensuring the safety of water resources in the middle parts of the Silk Road Economic Belt. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: hydrological elements；water cycle；hydrology and water resources；climate change；Tianshan Mountains in Central Asia ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "《干旱区科学概论》简介",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/68da669483d0a87fec02f41d05f66fd170a00c0afdf1cdc1b500b9440e44b1fd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由中国科学院新疆生态与地理研究所陈亚宁研究员主编的《干旱区科学概论》于2021年9月由科学出版社出版。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该书是我国第一部系统介绍干旱区科学理论内涵及学科发展的专著，是对全球干旱区前沿科学成果的总结，旨在推动和完善干旱区科学的理论体系，促进干旱区科学的学科发展，服务于国家重大战略需求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该书分上、下两篇，共11章。上篇介绍了全球干旱区的地理分布和演化，干旱区生态环境要素的特征和规律，干旱区科学的理论框架、内涵、研究方法以及干旱区可持续发展问题；下篇由干旱区气象与气候学、干旱区水文学、干旱区绿洲学、干旱区土壤学、干旱区生态学和干旱区风沙地貌学六章构成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "秦大河院士和傅伯杰院士分别为该著作作序，对其高度评价：“该书内容丰富，资料翔实，为干旱区自然资源高效利用和生态系统可持续发展提供了重要的科学依据，是一部优秀的学术著作”，“研究成果对丰富全球变化科学研究内容以及促进经济社会可持续发展、生态文明建设等方面具有重要的理论和现实意义”。",
+        "page_idx": 7
+    }
+]

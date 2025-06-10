@@ -1,0 +1,123 @@
+基础研究
+
+# 慢病毒介导ACE2过表达对血管紧张素Ⅱ诱导的大鼠肝细胞的白蛋白表达及迁移能力的影响
+
+张莉莉'，张文雍'，李 洋',李 旭²  
+1南方医科大学南方医院急诊科，感染内科，广东广州510515
+
+摘要：目的 探讨血管紧张素转换酶2(Angiotensin-converting enzyme 2,ACE2)过表达对血管紧张素 I（Angiotensin II,AngII)诱导的肝细胞白蛋白表达下调及细胞迁移性增强的抑制作用。方法 常规培养大鼠肝细胞系BRL-3A细胞株,予以Ang I（ $1 0 ^ { - 7 } \mathrm { m o l } / \mathrm { L }$ )进行刺激，观察不同处理时间 $( 2 4 , 4 8 \mathrm { h } )$ 组肝细胞内白蛋白、波形蛋白(vimentin)表达及细胞迁移性的改变;通过构建lentiACE2慢病毒载体,建立稳定过表达ACE2的细胞系，并分别用AngⅡI、A779进行干预,观察肝细胞内相应蛋白表达及其迁移性的改变。采用细胞免疫荧光、Westemblot检测细胞中蛋白水平变化;Transwell迁移实验观察不同处理组细胞迁移能力的改变。结果 AngI处理组肝细胞内vimentin表达显著增加、albumin表达减低,细胞迁移能力显著增强,并具有时间依赖效应。ACE2过表达大鼠肝细胞albumin表达明显升高，vimentin蛋白表达下降，该作用被MAS受体抑制剂A779阻断。同时ACE2过表达显著抑制AngI的作用,vimentin合成显著下降,albumin表达水平显著升高，细胞迁移能力受到抑制。结论 ACE2过表达可抑制AngII诱导的肝细胞albumin表达下调及迁移能力增强。
+
+关键词：血管紧张素转换酶2；血管紧张素II;albumin;vimentin;迁移；肝细胞;肝纤维化
+
+# Lentivirus-mediated angiotensin-convertingenzyme 2overexpression inhibits angiotensin I-induced albumin down-regulation and enhancement of migration in rat hepatocytes
+
+ZHANG Lili,ZHANGWenyong,LI Yang',LI Xu2   
+Departmentofegencydicineepamntffectiosiseanitaltheedicalesity   
+510515, China
+
+Abstract: Objective To investigate the inhibitory efect of angiotensin-converting enzyme 2 (ACE2)onangiotensin I (Ang I)-induceddown-regulationofalbuminexpressionandenhancementofcellmigrationinrathepatocytes.Methods Cultured rat hepatocyte were treated with Ang II $( 1 0 ^ { - 7 } \mathrm { m o l / L } )$ for different time lengths,and the protein expressions of vimentin and albumin and cellmigration were detected.Thecels transfected with lentiGFPor lentiACE2 weretreated with A779 for $^ { \textrm { 1 h } }$ and thenwith Ang I,，and Westernblottingand immunofluorescent cytochemistry wereusedtodetectthe proteinlevels;thecell migratio was evaluated by Transwellassy.ResultAng Ilinduced significantlyincreasedvimentin expressionandeduced albuminexpression inrat hepatocytes ina time-dependent manner. Overexpresionof ACE2 obviously inhibited the up-regulationofvimentinexpression,eductionof auminexpresion,andehancementofcelligrationinducedbyAng I. Conclusion ACE2 overexpresioncaninhibit Ang I-induced up-regulation ofvimentin,reductioof albumin expression,and enhancement of cell migration in rat hepatocytes.
+
+Keywords:angiotensin-convertingenzyme2;angiotensinI;albumin;vimentin;mgration;hepatocytes;liverfbrosis
+
+我国是一个肝病大国，慢性肝病的发生率相对较高。据统计，我国每年约有50万人死于失代偿期肝硬化。然而目前肝硬化缺乏有效的治疗手段。探讨肝硬化的发生发展机制，具有重要意义。
+
+肝纤维化是各种慢性肝病发展到肝硬化的必经病理改变，肝细胞发生调亡、坏死，活化的成纤维细胞或肌成纤维细胞增多，肝脏中胶原蛋白等细胞外基质的增生与降解失衡，导致肝脏内纤维结缔组织大量沉积的病理改变[2-3]。大量研究表明，肝纤维化具有可逆性[4-5]。因此深入研究肝纤维化的发病机制，尽早地干预肝纤维化的发生和发展，能够有效地控制肝硬化的形成。
+
+肾素-血管紧张素系统(RAS)与肝纤维化发生、发展密切相关[67],其致纤维化的作用与AngⅡ诱导TGF- $\cdot \beta$ 的表达上调具有紧密联系[8-9]。TGF-β为肝内最强的致纤维化因子，可诱导肝细胞发生上皮-间质表型转换(EMT)，肝细胞内vimentin、胶原合成增加、albumin合成减低，同时细胞迁移能力增强，转化为成纤维细胞样细胞,参与肝纤维化的形成[10-13]。然而,关于AngⅡ是否能够影响肝细胞迁移功能及相关分子机制还鲜见报道。ACE2-Ang(1-7)-Mas 受体轴,是抑制ACE-AngII-AT1R轴的内在调节机制。ACE2可将AngⅡ裂解产生Ang(1-7)，而Ang(1-7)在体内外能与AT1R竞争性结合，拮抗AngⅡ的活性[14-16]。然而,在肝细胞中，ACE2是否可以抑制AngII对大鼠肝细胞albumin、vimentin表达及迁移功能的影响还为未可知。因此，本研究通过以下体外实验，观察ACE2是否可以抑制AngⅡ对大鼠肝细胞albumin、vimentin表达及迁移功能的影响
+
+# 1材料与方法
+
+# 1.1细胞与试剂
+
+BRL-3A细胞株购自中国科学院上海细胞生物研究所。DMEM、胎牛血清购自Gibco,AngⅡI、购自美国Sigma公司,A779购自美国Formenta公司,慢病毒载体lentiACE2（由吉凯基因化学有限公司构建），兔源性vimentin抗体(美国Abcam公司)；兔源性albumin抗体（美国Cell Signaling Technology公司）,鼠源性albumin抗体(Santa Cruze); $\beta$ -actin抗体(美国Millipore公司）;抗兔荧光二抗(LI-COR,Biosciences);FITC标记山羊抗兔二抗、Cy3标记山羊抗鼠二抗(碧云天)，transwell小室购自Corning,垂直电泳仪、半干电转移仪（美国Bio-Red公司);凝胶图像分析系统(美国UVP公司)。
+
+# 1.2 方法
+
+1.2.1大鼠肝细胞BRL-3A在含 $10 \%$ 胎牛血清 $\mathrm { 1 0 0 U / m l }$ 青霉素、 $\mathrm { 1 0 0 ~ m g / L }$ 链霉素的DMEM高糖培养基中，置于 $3 7 ~ \mathrm { ^ { \circ } C } \setminus { 5 \% } \mathrm { C O } _ { 2 }$ 、饱和湿度培养箱内常规传代培养。实验用细胞均为对数生长期细胞。
+
+1.2.2免疫荧光检测细胞内albumin、vimentin表达的变化按密度 $1 \times 1 0 ^ { 5 } .$ 孔接种细胞于放有盖玻片的24孔板中。细胞贴壁后，弃培养基，更换为无血清培养基，予以AngII( $1 0 ^ { - 7 } \mathrm { m o l } / \mathrm { L }$ 刺激， $4 8 \mathrm { ~ h ~ }$ 后弃去培养液，PBS冲洗后用 $4 \%$ 多聚甲醛固定 $3 0 \mathrm { m i n } , 0 . 5 \%$ Triton穿孔 $1 5 \mathrm { m i n }$ ，$3 \%$ BSA封闭 $3 0 ~ \mathrm { m i n }$ ，期间均用PBS冲洗3次， $5 \mathrm { m i n } /$ 次。分别加入 $3 \%$ BSA稀释的albumin鼠抗与vimentin兔抗， $4 \mathrm { { ^ { \circ } C } }$ 孵育过夜，PBS冲洗后，加入PBS稀释的FITO标记山羊抗兔二抗、 ${ \cdot } { \mathrm { C y } } 3$ 标记山羊抗鼠二抗， $3 7 ~ \mathrm { { ^ { \circ } C } }$ 孵育$^ { \textrm { 1 h } }$ ,PBS冲洗3次， $5 \mathrm { m i n }$ 次，DAPI荧光封片剂封片，于激光共聚焦显微镜观察，
+
+1.2.3免疫蛋白质印迹(Western blot)分析取 $3 0 ~ \mu \ g$ 蛋白以 $10 \%$ SDS-PAGE凝胶电泳分离。电转移蛋白至PDVF膜, $5 \%$ BSA常温封闭 $^ \textrm { \scriptsize 1 h }$ ，加入一抗(兔源性albumin antibody $1 \colon 1 0 0 0$ ,vimentin antibody1:1000,$\beta \cdot$ -actin antibody $1 : 1 0 0 0 \$ ,于封闭袋中孵育， $4 ~ \mathrm { { ^ { \circ } C } }$ 过夜；二抗 $5 \%$ BSA稀释 $1 : 1 0 0 0 0 \rangle$ 常温孵育 $^ { \textrm { 1 h } }$ ,TBS-T洗涤
+
+3次。Odyssey显色系统直接进行显色。使用Gel-proanalyzer图像分析软件分析条带灰度值，用目的蛋白灰度值 $\mathrm { ^ { \prime } \beta }$ -actin灰度值代表目的蛋白的相对表达量。实验结果重复3次以上。
+
+1.2.4慢病毒lentiACE2转染BRL-3A实验接种生长状态良好 $3 { \times } 1 0 ^ { 3 } { \sim } 5 { \times } 1 0 ^ { 3 }$ 目的细胞于96孔培养板中，所加培养基体积为 $9 0 ~ \mu \mathrm { l }$ ，20个孔。待细胞的融合率约为$30 \% { \sim } 5 0 \%$ 进行转染。感染预实验共分为4组不同感染条件，每组3个不同梯度的MOI(100、10、1)(1)完全培养基中直接加入病毒;(2)加病毒同时在培养基中添加$5 ~ { \mu \mathrm { g / m l } }$ 的polybrene;(3)将培养基更换成ENi.S.然后加入病毒感染；(4)在ENi.S.加病毒同时加 $5 ~ \mu \mathrm { g } / \mathrm { m l }$ 的polybrene。8\~12h以后观察细胞状态,弃去细胞上清，更换为新鲜培养基。感染3\~4d后，观察荧光表达情况。通过细胞感染效果，确认目的细胞的感染条件和感染参数。取 $1 \times 1 0 ^ { 5 }$ 个生长状态良好的细胞接种于 $6 \mathrm { c m }$ 培养血中，贴壁后待细胞融合度接近 $5 0 \%$ 时，予以Lentiviral—ACE2和LentiviralGFP以感染复数(MOI)为100分别感染细胞，感染 $1 0 { \sim } 1 2 \mathrm { ~ h ~ }$ 换新鲜培养液，72h后予以相应药物进行干预。实验分组：(1)阴性对照组、lentiGFP转染组、lentiACE2转染组、lentiAC $\mathtt { T E 2 } + \mathtt { A 7 7 9 }$ ;(2)阴性对照组、lentiGFP转染组、lentiGFP $+ .$ AngIl组、lentiACE2、lentiACE2 $^ +$ AngI组、lentiACE2 ${ \bf \nabla } . + { \bf \nabla } .$ Ang $\mathbb { I } { + } \mathrm { A } 7 7 9$ 组(予以 $1 0 ^ { - 5 }$ mol/LA779预处理1h后,再予AngⅡ共刺激）AngⅡ组。以上细胞实验均重复3次以上。
+
+1.2.5Transwell迁移实验准备24孔板，将刺激后的细胞消化下来，终止消化后离心弃去培养液，用PBS洗 $1 \sim$ 2遍，用无血清的DMEM培养基悬浮细胞，调整细胞密度，调整细胞密度至 $1 { \times } 1 0 ^ { 5 } / \mathrm { m l }$ 。取细胞悬液 $2 0 0 \mu \mathrm { l }$ 加入transwell上室，下室加入 $5 0 0 \mu 1 1 0 \%$ 完全培养基， $3 7 \ \mathrm { { ^ { \circ } C } }$ $5 \%$ （204号 $\mathrm { C O } _ { 2 }$ 条件下孵育 $2 4 \mathrm { h }$ 后取出Transwell小室，甲醇固定 $3 0 \mathrm { m i n }$ 后，用棉签轻轻擦去滤膜上室面的细胞，风干，滤膜下室面的细胞用 $0 . 1 \%$ 结晶紫染色 $2 0 ~ \mathrm { m i n }$ 。PBS清洗后，显微镜下直接观察穿过膜的细胞数，随即取5个视野，计数每个视野内的细胞数，重复3次。
+
+1.2.6统计学方法应用SPSS13.0统计学软件,结果数据以均数±标准差表示。采用OnewayANOVA方差分析法，首先利用Levene方法进行方差齐性检验，确定方差齐性且整体比较组间差异有统计学意义后进一步作多重比较，多重比较采用LSD法。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1AngII诱导大鼠肝细胞albumin合成减少、vimentin合成增加
+
+予以AngII( $1 0 ^ { - 7 } \mathrm { m o l } / \mathrm { L }$ )刺激肝细胞，分别于24、$^ { 4 8 \mathrm { ~ h ~ } }$ 收集细胞提取蛋白，采用细胞免疫荧光染色及Westernblot法检测各组中相应蛋白的表达水平。细胞免疫荧光结果显示：与对照组相比，AngⅡ刺激48h后，albumin表达水平降低,vimentin表达显著上调(图1A);Westernblot结果示：较对照组相比，AngII刺激 $2 4 \mathrm { ~ h ~ }$ 后，vimentin表达显著升高；AngⅡ刺激 $^ { 4 8 \mathrm { ~ h ~ } }$ 后，vimentin表达进一步升高，albumin表达水平显著下降0 $^ { * } P { < } 0 . 0 5$ ,图1B)。结果提示：AngⅡI可以诱导肝细胞内albumin表达下降、vimentin的表达升高，且 $4 8 \mathrm { ~ h ~ }$ 诱导作用最强。
+
+![](images/26dd755a6f5340ca23f2dbead3f1f84a6914140d180b553dae1a1c165096bf25.jpg)  
+图1AngII对肝细胞albumin及vimentin表达影响  
+Fig.1Effect of AngI on protein expression of albumin and vimentin in rat hepatocytes.A: Cells were treated with or without Ang II $( 1 0 ^ { - 7 } \mathrm { m o l / L } )$ for $7 2 \mathrm { h }$ .Immunofluorescence staining for vimentin (green) and albumin (red) in hepatocytes was evaluated byconfocal laser microscopy.DAPI stained thecellnuclei blue;B:Protein levels evaluated by Western blotting. $^ { * } P { < } 0 . 0 5$ Us control.
+
+# 2.2AngⅡ诱导肝细胞迁移能力增强
+
+予以Ang II ( $1 0 ^ { - 7 } \mathrm { m o l } / \mathrm { L } \$ 刺激肝细胞，分别于 $2 4 \mathrm { ~ h ~ }$ 及 $4 8 \mathrm { ~ h ~ }$ 进行检测。采用transwell迁移实验观察AngII 对细胞迁移能力的影响。结果示：与对照组相比,Ang Ⅱ刺激 $^ { 2 4 , 4 8 \mathrm { ~ h ~ } }$ 后，细胞迁移数量显著增多 $^ { ' * } P { < } 0 . 0 5$ 图2)。该结果提示AngⅡ可增强肝细胞的的迁移能力。 2.3ACE2过表达抑制AngI诱导的肝细胞albumin表 达下调及迁移能力的增强
+
+2.3.1lentiACE2转染BRL-3A实验 将不同梯度的病毒(10MOI,100MOI)加到各组的相应孔中，通过细胞转染效果，确认目的细胞的转染条件和转染参数。细胞荧光结果显示：BRL-3A在MOI为100时能达到 $80 \%$ 以上的转染效率(图3)。
+
+2.3.2lentiACE2转染BRL-3A细胞ACE2蛋白表达的检测lentiACE2转染BRL-3A后提取总蛋白，免疫蛋白质印迹法检测ACE2蛋白。结果显示：与lentiGFP组相比，lentiACE2组ACE2蛋白表达明显增高！ $( P { < } 0 . 0 5$ 图4)，表明ACE2病毒已成功转染至BRL-3A中。
+
+![](images/703b9df64b19f55236b165c3c7b8ed11616591ffb8f62b3f82660f94d8d9a9d4.jpg)
+
+图3不同梯度的病毒转染BRL-3A细胞荧光 Fig.3 Fluorescence in BRL-3A cells transfected with different concentrations of lentiACE2.
+
+2.3.3ACE2过表达抑制AngI诱导的肝细胞albumin表达下调及迁移能力的增强(1)lentiACE2转染BRL-3A后提取总蛋白，免疫蛋白质印迹法检测albumin、vimentin的表达。Westernblot结果示：与LentiGFP相比，LentiACE2组vimentin蛋白表达明显降低，albumin表达显著升高；与LentiACE2相比，LentiAc $\mathtt { T E 2 + A 7 7 9 }$ 组vimentin蛋白表达增加,albumin表达下降( $\scriptstyle \left. P < 0 . 0 5 \right.$ ，图4)；(2)予以A779( $1 0 ^ { - 5 } \mathrm { m o l / L }$ 预处理细胞,1h后加入AngⅡ共刺激 $4 8 \mathrm { ~ h ~ } _ { \circ }$ Western blot结果示：较对照组相比,AngⅡ刺激 $^ { 4 8 \mathrm { ~ h ~ } }$ 后，肝细胞内vimentin表达显著升高，albumin表达水平下降；较lentiGFP组相比,lentiGFP+AngI组vimentin表达显著升高,albumin表达水平下降;较lentiGFP $+$ AngⅡ组相比，ACE2过表达可显著抑制AngⅡ的作用，该作用被MAS受体抑制剂A779阻断（ $\scriptstyle \overbrace { P < 0 . 0 5 }$ ,图5)。该实验结果表明：ACE2通过作用于MAS受体，从而上调肝细胞内albumin的表达，抑制vimentin的生成。同时，ACE2过表达可显著抑制AngⅡ的作用，上调肝细胞内albumin的表达,减少AngI所诱导的vimentin的产生，抑制细胞的迁移，保护肝细胞的正常蛋白合成功能。
+
+![](images/a3535ca55cdbc361d6f498b27bc5049a15b7b2c8987841a9b1803ca7c35d9acb.jpg)  
+图4lentiACE2转染BRL-3A后ACE2蛋白的表达 Fig.4 Expression of ACE2 protein in BRL-3A cells transfected with lentiACE2. $^ { * } P { < } 0 . 0 5$ Us lentiGFP.
+
+2.3.4ACE2过表达抑制AngⅡ诱导的肝细胞迁移予以MAS受体阻滞剂A779预处理肝细胞，1h后加入AngII( $1 0 ^ { - 7 } \mathrm { m o l } / \mathrm { L } $ 共刺激 $4 8 \mathrm { ~ h ~ } _ { \odot }$ 。采用Transwell迁移实验法观察细胞迁移能力。分组为：对照组、lentiGFP、lentiACE2、lentiGFP $^ +$ Ang II 、lentiACE2 $^ +$ Ang I、lentiACE2 $^ +$ AngII $+ \mathrm { A } 7 7 9$ 、AngⅡ刺激组。随机选取5个视野进行细胞计数。与lentiGFP组相比，lentiACE2组细胞迁移数量减少；与lentiGFP $^ +$ AngⅡI组相比,lentiA $\Delta C {  { \mathrm { E } } } 2 + \Delta  { \mathrm { n g } }  { \mathrm { ~ I I } }$ 组细胞迁移数量明显减少，；与lentiA $\mathtt { i C E 2 + A n g I I }$ 相比， $\mathbf { l e n t i A C E 2 + A n g I I + A 7 7 9 }$ 组细胞迁移数量增加( $P { < } 0 . 0 5$ 图6。
+
+![](images/187931ce62eb89a2d54166bb86be0239538a16cd52a1b33b3c75c3cb0523ea91.jpg)  
+图5ACE2过表达抑制AngII对肝细胞albumin、vimentin表达水平的影响 Fig.5ACE2overexpression inhibited te effectofAng Ion the expressonof albuminand vimentin.A: Cells treated with A779 after transfection with lentivirus; B: Cells pretreated with A779 for $^ { \textrm { 1 h } }$ before Ang II treatment. $^ { * } P { < } 0 . 0 5$ us control, $^ { * } P { < } 0 . 0 5$ Us lentiACE2, $^ { * } P { < } 0 . 0 5$ Us lentiGFP, $^ { \mathrm { 5 } } P { < } 0 . 0 5$ Us lentiGFP $\cdot _ { + }$ Ang II, $^ { + } P { < } 0 . 0 5$ Us lentiACE2 $\cdot + .$ Ang II.
+
+# 3讨论
+
+肾素-血管紧张素-醛固酮系统与肝纤维化具有密切的联系。该系统由血管紧张素转换酶(ACE)-AngⅡI-ATl受体轴和ACE2-Angl-7-Mas受体轴组成，ACE2-Angl-7-Mas受体轴可抑制血管紧张素转换酶(ACE)-AngⅡI-AT1的作用，这两个轴的平衡影响的肝脏纤维化的发展[17]
+
+研究认为，肾素-血管紧张素-醛固酮系统致纤维化的作用主要由肝星状细胞(HSCs)的激活导致的。当肝脏受损时，在一些细胞因子如转换生长因子TGF- $\cdot \beta$ 血小板衍生生长因子PDGF等作用下，HSCs活化并转换为肌成纤维细胞，表达α-平滑肌肌动蛋白( $\mathfrak { a }$ -SMA)，并获得增殖、收缩、生成胶原和分泌细胞因子的特性，促进肝纤维化的发生[18]。但近年来,越来越多的研究表明,约占肝脏所有细胞 $80 \%$ 的肝细胞也可受各种细胞因子的调控发生表型转变，获得肌成纤维细胞特征，参与细胞外基质的合成与分泌，促进肝纤维化的发生和发展。研究发现：在TGF-β作用下，肝细胞内白蛋白表达降低，波形蛋白合成增加,进而促进肝纤维化的发展。本研究发现：AngⅡ刺激肝细胞 $2 4 \mathrm { h }$ 后，刺激 $4 8 \mathrm { ~ h ~ }$ 后细胞内白蛋白的表达开始下降，该结果与我们前期的结果一致[19]。同时我们的研究发现AngⅡ刺激 $4 8 \mathrm { { h } }$ 后,肝细胞vimentin显著上升。大量研究表明：Vimentin是一种中间丝状体蛋白，与细胞的迁移特性密切相关[20-22]Vimentin的表达上调可增强细胞的迁移能力。那么AngⅡ是否可以通过上调其表达从而增强肝细胞的迁移能力呢？我们的研究结果表明：AngⅡI可显著增强肝细胞的迁移能力。在AngⅡ刺激 $2 4 \mathrm { h }$ 后发生迁移的肝细胞显著增多， $4 8 \mathrm { ~ h ~ }$ 后细胞迁移能力进一步增强，且与Vimentin的表达增加呈同步性。
+
+![](images/1cc880b061f15c9a0e123bc63ba50bc818de5816c8922d6f410f8cbf17acf5b3.jpg)  
+Fig.6 ACE2 overexpression inhibited the effect of Ang II on cell $^ { * } P { < } 0 . 0 5$ Us control, # $P { < } 0 . 0 5$ us $^ { + } P { < } 0 . 0 5$ us lentiACE2+Ang II.
+
+大量研究证明，ACE2-Angl-7-Mas受体轴可以拮抗AngⅡ的作用,ACE2是产生Ang(1-7)的关键酶，其表达的升高可促使细胞内源性Ang1-7表达增加，Ang1-7与MAS受体结合发挥其拮抗作用。有文献报道：在肺脏中,ACE2-Angl-7-Mas受体轴可通过抑制NOX4来源的活性氧所介导的Rhoa/ROCK通路抑制AngⅡ诱导的肺成纤维细胞的迁移及肺纤维化[23]。我们成功构建lentiACE2慢病毒载体，并转染进入大鼠肝细胞系(BRL-3A),观察内源性Ang1-7对AngⅡ的抑制作用。我们发现ACE2过表达的肝细胞中，白蛋白合成显著升高，vimentin表达显著下降，予以MAS受体抑制剂进行干预后，该现象消失。这说明：细胞内源性Ang1-7增多，可通过结合其MAS受体，发挥对肝细胞的保护作用;此外,ACE2可显著抑制AngⅡI的作用,细胞内白蛋白的表达升高，同时Vimentin的合成得到抑制，细胞迁移能力明显减弱，肝细胞正常生物学功能得到改善。
+
+本研究证实了AngⅡ可促使肝细胞白蛋白表达及细胞迁移能力发生改变，而ACE2过表达可以抑制
+
+AngⅡ的这一作用,逆转白蛋白的降低,减少vimentin的合成，降低肝细胞的迁移能力，保护肝细胞的正常生物学功能。但是，关于ACE2抑制AngⅡ对肝细胞白蛋白表达及迁移能力的影响的具体分子机制还不清楚，还需进一步研究证实。
+
+# 参考文献：
+
+[1]D'amico G,Garcia-Tsao G,Pagliaro L.Natural history and prognostic indicators of survival in cirrhosis: a systematic review of 118 studies[J].JHepatol,2006,44(1): 217-31.   
+[2]Friedman SL.Mechanisms of hepatic fibrogenesis [J].Gastroenterology,2008,134(6):1655-69.   
+[3]Luedde T,Kaplowitz N, Schwabe RF.Cell death and cell death responses in liver disease:mechanisms and clinical relevance[J]. Gastroenterology,2014,147(4): 765-783.e4.   
+[4]Friedman SL.Hepatic fibrosis-Overview[J].Toxicology,2008,254 (3):120-9.   
+[5]Novo E,Di Bonzo LV,Cannito S,et al. Hepatic myofibroblasts: a heterogeneouspopulation ofmultifunctional cellsinliver fibrogenesis[J].Int JBiochem Cell Biol,2009,41(11): 2089-93.   
+[6]李 爽.肾素-血管紧张素系统在肝纤维化中作用的研究进展[J].世界 华人消化杂志,2013,(22):2151-7.   
+[7]Paizis G,Cooper ME,Schembri JM，et al．Up-regulation of components of the renin-angiotensin system in the bile duct-ligated rat liver[J].Gastroenterology,2002,123(5): 1667-76.   
+[8]Wang TN, Chen X,Li R,et al. SREBP-1 mediates angiotensin II-Induced TGF-β1 upregulation and glomerular fibrosis[J].J Am Soc Nephrol, 2014 Nov 14. pii: ASN.2013121332.[Epub ahead of print].   
+[9]Perlman A,Lawsin LM,Kolachana P,et al. Angiotensin II regulation of TGF-beta in murine mesangial cells involves both PI3 kinase and MAP kinase[J].Ann ClinLab Sci,2004,34(3):277-86.   
+[10]Kaimori A,Potter J,Kaimori JY,et al. Transforming growth factor-betal induces an epithelial-to-mesenchymal transition state in mouse hepatocytes in vitro[J].J Biol Chem,2007,282(30): 22089-101.   
+[11]Chen YL,Lv J, Ye XL,et al. Sorafenib inhibits transforming growth factor $\beta 1$ -mediated epithelial-mesenchymal transition and apoptosis in mouse hepatocytes[J].Hepatology,2011,53(5): 1708-18.   
+[12]Li YS,Ni SY,Meng Y,et al.Angiotensin I facilitates fibrogenic effect of TGF-beta 1 through enhancing the Down-Regulation of Bambi caused by LPS: A new Pro-Fibrotic mechanism of angiotensin I[J].PLoS One,2013,8(1O): e76289.   
+[13]Lee UE,Friedman SL.Mechanisms of hepatic fibrogenesis[J].Best Pract Res Clin Gastroenterol,2011,25(2):195-206.   
+[14]Grace JA,Klein S,Herath CB,et al.Activation of the MAS receptor byangiotensin-(1-7） in the renin-angiotensin system mediates mesenteric vasodilatation in cirrhosis [J].Gastroenterology,2013, 145(4): 874-84.e5.   
+[15]Pereira RM,Dos Santos RA,Teixeira MM,et al． The reninangiotensin system in a rat model of hepatic fibrosis:evidence for a protective role of Angiotensin-(1-7)[J].J Hepatol,2007,46(4): 674-81.   
+[16]Morales MG,Abrigo J,Meneses C,et al. The Ang-(1-7)/Mas-1 axis attenuates the expression and signalling of TGF-β1 induced by AngII in mouse skeletal muscle[J]. Clin Sci (Lond),2014,127(4): 251-64.   
+[17]Moreira De Macédo S,Guimaraes TA,Feltenberger JD,et al. The role of renin-angiotensin system modulation on treatment and prevention of liver diseases[J].Peptides,2014,62(O):189-96.   
+[18]Granzow M, Schierwagen R,Klein S,et al. Angiotensin-II type 1 receptor-mediated Janus kinase 2 activation induces liver fibrosis [J]. Hepatology,2014,60(1): 334-48.   
+[19]张彦萍,张振书,姬宏莉,等.血管紧张素Ⅱ对人肝细胞白蛋白和胶原 合成的影响[J].中华消化杂志,2010,30(6):361-4.   
+[20]Havel LS,Kline ER, Salgueiro AM,et al. Vimentin regulates lung cancer cell adhesion through a VAV2-Rac1 pathway to control focal adhesion kinase activity[J]. Oncogene,2015,34(15):1979-90.   
+[21]Ranchoux B,Antigny F,Rucker-Martin C,et al. Endothelial-toMesenchymal transition in pulmonary hypertension[J].Circulation, 2015,131(11): 1006-18.   
+[22]Pan Y,Li X,Duan J,et al. Enoxaparin sensitizes human non-smallcell lung carcinomas to gefitinib by inhibiting DOCK1 expression, vimentin phosphorylation,and Akt activation［J].Mol Pharmacol, 2015,87(3): 378-90.   
+[23]Meng Y,Li T, Zhou GS,et al.The angiotensin-converting enzyme 2/ angiotensin(1-7)/Masaxisprotectsagainst lung fibroblast migration and lung fibrosis by inhibiting the NOX4-derived ROS-mediated RhoA/Rho kinase pathway [J].Antioxid Redox Signal,2015,22(3): 241-58.
+
+(编辑：吴锦雅）

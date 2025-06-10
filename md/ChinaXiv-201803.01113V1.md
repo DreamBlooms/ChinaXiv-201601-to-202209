@@ -1,0 +1,203 @@
+# 融合抗菌肽基因在重组毕赤酵母的表达及体外活性研究\*1
+
+唐健雪，肖永乐，彭俊杰，赵世纪，万小平，高荣\*\*（四川大学生命科学学院，生物资源与生态环境教育部重点实验室，四川省动物疫病预防与食品安全重点
+
+实验室，四川，成都 610065)
+
+摘要：目的：在毕赤酵母 SMD1168中表达融合抗菌肽，并检测其体外抑菌活性。方法：本实验从实验室先前构建的重组质粒pVAX1-RHKJT中克隆出已构建好的融合抗菌肽 RHKJT基因片段，将RHKJT基因片段插入至pGAPZaA真核表达质粒中，通过PCR和测序验证，构建pGAPZα-RHKJT重组真核表达质粒，将线性化的pGAPZα-RHKJT电转化至毕赤酵母 SMD1168中获得重组酵母 SMDpG-RHKJT，并通过 PCR 和RT-PCR 验证，对重组毕赤酵母 SMDpG-RHKJT进行发酵，并收集发酵上清液进行体外生物活性测定。结果：成功获得重组酵母 SMDpG-RHKJT菌株，重组酵母发酵上清液对大肠杆菌标准菌、大肠杆菌耐药菌、沙门氏菌标准菌、金黄色葡萄球菌标准菌、金黄色葡萄球菌耐药菌、肺炎链球菌标准菌均具有显著的抑菌活性。结论：重组酵母表达的融合抗菌肽具有较广的抗菌谱和较高的抑菌活性，具有良好的潜在应用前景。
+
+关键词： 融合抗菌肽 基因表达 毕赤酵母 抑菌生物活性
+
+目前抗生素的滥用已经导致多种耐药菌的出现，抗微生物药物耐药性发病率正急剧上升[1-2]。在畜牧业中，抗生素是一种饲料添加剂应用于畜禽，其可抑制畜禽消化道内病原微生物的生长和繁殖，增强畜禽的抗病能力[3；但是由于人们大量长期不加节制地使用抗生素，已经导致在畜牧业中很多病原微生物对现有的抗生素产生了耐药性，所以抗生素在动物饲料中的应用将会逐渐被淘汰或禁用。因此用一种无公害不易产生耐药性的新型添加剂替代抗生素是必然趋势[1-3]。
+
+抗菌肽作为一种新型的抗感染分子制剂被认为是对抗耐药微生物的新的抗菌药物[4]。抗菌肽是许多生物体中先天免疫防御的重要组成部分[5]。它们有助于免疫防御的上皮表面形成抗菌药物，而且许多抗菌肽都有针对多种病原体的抗菌活性[。综合来说，抗菌肽是一种具有多种生物学功能的普遍存在于生物体内的非特异性免疫分子，它具有广谱抗菌、杀菌迅速、稳定性好、无毒害作用、不易产生耐药性、可调节先天免疫等诸多优势[7]。所以研究和开发生物抗菌肽是一种可以预防和控制疾病流行，解决耐药菌问题的理想途径之一，在畜牧业中也是成为替代抗生素添加剂的主要候选抗菌剂之一[8]，畜牧业的发展趋势表明，应用安全无毒的抗菌剂在饲料加工业中的应用前景广阔，而抗菌肽就可以作为一种新型的安全无害的饲料添加剂[]。
+
+目前，因天然抗菌肽存在分子量小，表达产物易被降解，有可能对宿主造成危害等缺点[9-10]，所以针对天然抗菌肽的优化改进一直是研究的热点。探索和设计新的抗菌肽，改善原有抗菌肽的活性，降低或消除他们的溶血性，是发现全新抗菌肽和高效表达目的抗菌肽的重要方式[11-12]。本研究旨在通过基因重组技术，将融合抗菌肽基因重组构建入毕赤酵母工程菌进行表达,并通过体外活性测定融合抗菌肽的抑制细菌生长的活性，为研发安全高效的替代抗生素新型饲料添加剂奠定初步基础。
+
+# 1材料和方法
+
+# 1.1质粒及菌株
+
+Trans-T1PhageResistant 化学感受态细胞购自北京全式金公司；毕赤酵母表达穿梭质粒pGAPZaA为本实验室保存；含有融合抗菌肽基因的重组质粒pVAX1-RHKJT为本实验室构建；毕赤酵母 SMD1168、含有空载质粒pGAPZaA 的毕赤酵母 SMDpG、大肠杆菌标准菌(ATCC 15306)、大肠杆菌耐药菌、沙门氏菌标准菌(ATCC 13076)、金黄色葡萄球菌标准菌(ATCC 25923)、金黄色葡萄球菌耐药菌、肺炎链球菌标准菌(ATCC 6303)均由本实验室保存。
+
+# 1.2主要试剂
+
+Phanta Max Super-Fidelity DNA Polymerase 购自 Vazyme 公司；限制性内切酶 EcoRI、XbaI、AvrII购自英国 NEB 公司；T4 DNA 连接酶、胎牛血清均购自 ThermoFisher 公司;Trans Script One-step gDNA Removal and cDNA SynthesisSuperMix、Trans 2K plus DNA Marker 购自北京全式金公司；Lysis Buffer forMicroorganism to Direct PCR 购自北京TaKaRa 公司；卡那霉素、多粘菌素 B均购自Amresco 公司；Zeocin（博来霉素）购自Invitrogen 公司；质粒提试剂盒、DNA 胶回收试剂盒均购自Omega 公司；玻璃珠（ $\cdot 4 2 5 { \mathrm { - } } 6 0 0 ~ \mu \textrm { m } )$ 购自Solarbio公司；总RNA 提取试剂盒购自天根公司；其他试剂均为进口或国产分析纯。引物合成及测序工作由成都擎科梓熙生物技术有限公司负责。
+
+# 1.3表达载体发的构建
+
+# 1.3.1PCR引物的设计与合成
+
+根据实验室已有的FD、BNBD3／HNP3、ECD 和AJI序列设计PCR引物，并在各基因片段之间引入口蹄疫病毒2A短肽和α-factor信号肽以保证各抗菌肽分子的空间折叠和分泌，以重组质粒pVAX1-RHKJT 和pGAPZaA 质粒为模板，利用重叠延伸 PCR 分别合成含有 FD、 $\mathrm { F D + 2 A ^ { - } }$ α、BNBD3／HNP3、BNBD3/ $\mathrm { H N P 3 + 2 \mathrm { - } }$ α、ECD、$\mathrm { E C D + 2 A + a }$ 和AJI基因的片段，引物序列如下：
+
+# 表1引物序列
+
+Table 1 Primers sequence   
+
+<html><body><table><tr><td>片段 引物名称</td><td></td><td>序列（5’-3’）</td><td>长度 （bp）</td></tr><tr><td rowspan="2">FD</td><td>F-FD</td><td>GAAGCTGAATTCATGGGAATCATAAACACATTACAGA</td><td>37</td></tr><tr><td>R-FD</td><td>GTCCCCGCATGTTAGAAGACTTCCCCTGCCCTCTCCGCTTCCTGGCTTTTTGCAGCATTTT</td><td>61</td></tr><tr><td rowspan="2">FD+2A-α</td><td>F-FD-2A-α</td><td>AATTGGAACCTGCGGTCTCCCTGGAACAAAATGCTGCAAAAAGCCAGGAAGCGGAGAGGGCA</td><td>62</td></tr><tr><td>R-FD-2A-α</td><td>ATGATTTCTTACTCCTTGCATAGCTTCAGCCTCTCTTTTCTC</td><td>42</td></tr><tr><td>BNBD3/</td><td>F-BNBD3/ HNP3</td><td>GAGGCTGAAGCTATGCAAGGAGTAAGAAATCATG</td><td>34</td></tr><tr><td>HNP3</td><td>R-BNBD3/</td><td></td><td></td></tr><tr><td></td><td>HNP3</td><td>TTAGAAGACTTCCCCTGCCCTCTCCGCTTCCGCAGCAGAATGCCCAGAGTC</td><td>51</td></tr><tr><td>BNBD3/</td><td>F-2A-α (1)</td><td>CGCTATGGCACCTGCATCTACCAGGGAAGACTCTGGGCATTCTGCTGCGGAAGCGGAGAGGGCA</td><td>64</td></tr><tr><td>HNP3+2-α</td><td>R-2A-α (1)</td><td>AGTAGATTTTTGAGCTTTTTACCCGCGAGTTTAGAGAATATTCCCATAGCTTCAGCCTCTCTTTTCTC</td><td>68</td></tr><tr><td rowspan="3">ECD</td><td>F-ECD</td><td>GCCAGCATTGCTGCTAAAGAAGAAGGGGTATCTCTCGAGAAAAGAGAGGCTGAAGCTATGGGAATATTCTC</td><td>80</td></tr><tr><td></td><td>TAAACTCGC</td><td></td></tr><tr><td>R-ECD</td><td>GTCCCCGCATGTTAGAAGACTTCCCCTGCCCTCTCCGCTTCCGTATTTACGCAGAGAGAACAGCA</td><td>65</td></tr><tr><td>ECD+2A+ α</td><td>F-ECD-2A-α</td><td>GGTAAGCGCCTCTTCAAGAAGCTGCTGTTCTCTCTGCGTAAATACGGAAGCGGAGAGGGCA</td><td>61</td></tr></table></body></html>
+
+<html><body><table><tr><td>R-ECD-2A-α</td><td>CGCCACCTAGCAGAGTTTTAATACGCTTTAGTAAGCCCATAGCTTCAGCCTCTCTTTTCTC 61</td></tr><tr><td>F-AJI</td><td></td></tr><tr><td></td><td>GAGAGGCTGAAGCTATGGGCTTACTAAAGCGTATTAA 37</td></tr><tr><td>AJI R-AJI</td><td></td></tr></table></body></html>
+
+分别以 PCR 获得的 FD、 $\mathrm { F D + 2 A - a }$ 、BNBD3／HNP3 片段和 ECD、 $\mathrm { E C D + 2 A + a }$ 、AJI片段为模板，并分别以F-FD、R-BNBD3／HNP3 和F-ECD、R-AJI为引物，通过重叠延伸 PCR 扩增得到 FD-2A-α -BNBD3／HNP3 和 $\mathrm { E C D - 2 A - a - A J I }$ 片段；将成功得到的FD-2A-α-BNBD3／HNP3、BNBD3/ $\mathrm { H N P 3 + 2 - }$ α和 $\mathrm { E C D - 2 A - a - A J I }$ 基因片段作为模板再进行重叠延伸PCR，最终合成融合抗菌肽基因片段，片段结构如下：EcoRI--FD-- $\cdot 2 \mathrm { A } ^ { + }$ α -factor--BNBD3/HNP3-- $\cdot 2 \mathrm { A } ^ { + }$ α -factor--ECD 区-- $\cdot 2 \mathrm { A } ^ { + }$ α-factor--AJI--终止密码子--Xba1（1866bp)
+
+# 1.3.2融合基因重组真核表达质粒的构建
+
+将获得的片段用DNA凝胶回收试剂盒回收，质粒载体pGAPZaA及胶回收纯化的目的片段分别进行EcoRI/Xbal双酶切，用T4DNA连接酶将融合抗菌肽基因插入到 pGAPZaA 在载体中，将重组质粒转入大肠杆菌 Trans-T1 Phage Resistant中，涂布于含Zeocin 终浓度为25ug/ml的 低盐LB 培养基平板上筛选阳性克隆，使用特异性引物（F-FD、R-AJI）进行菌液PCR 验证和测序验证，验证正确的重组质粒命名为pGAPZα-RHKJT。
+
+# 1.3.3酵母转化及PCR鉴定
+
+参照毕赤酵母表达操作手册，制作毕赤酵母SMD1168 感受态细胞，取经AvrII 线性化的重组质粒pGAPZα-RHKJT，电转化毕赤酵母SMD1168 感受态细胞，电转化条件为：1.5 KV、 $2 0 0 \Omega$ 、电击 $4 { - } 5 ~ \mathrm { m s }$ 。将转化后的酵母细胞离心后留 200μL左右的上清与菌体混匀，均匀的涂在含 $1 0 0 ~ \mathrm { \textmu ~ g / m L }$ Zeocin 的YPDS平板上,$3 0 ^ { \circ } \mathrm { C }$ 倒置避光培养3天左右直至菌落出现，再选择一定的克隆在含 $1 0 0 ~ \mathrm { \textmu ~ g / m L }$ Zeocin的新鲜YPD平板上划线纯化，从平板上挑取单克隆于含Zeocin终浓度为$1 0 0 ~ \mathrm { \textmu ~ g / m L }$ 的 YPD 液体培养基， $2 0 0 ~ \mathrm { r p m }$ ， $2 8 ^ { \circ } \mathrm { C }$ 过夜培养，参照Lysis Buffer forMicroorganism to Direct PCR 说明书裂解酵母菌液，把裂解后的上清液作为PCR反应的模板，用特异性引物（F-FD、R-AJI）进行PCR 验证，验证正确的进行酵母 RT-PCR 检测。
+
+# 1.3.4重组基因毕赤酵母RT-PCR检测
+
+取重组酵母菌液，采用酸洗玻璃珠法破碎细胞，参照总RNA提取试剂盒说明书提取重组酵母RNA，使用TIANGEN公司的第一链反转录试剂盒，反转录得到重组毕赤酵母 SMDpG-RHKJT总RNA的cDNA文库，使用特异性引物（F-FD、R-AJI）对融合抗菌肽基因进行扩增，验证融合抗菌肽的表达情况，验证正确的命名为SMDpG-RHKJT。
+
+# 1.3.5融合抗菌肽生物活性检测
+
+活化重组酵母SMDpG-RHKJT和重组空载体酵母 $\operatorname { S M D p G }$ ，活化后接种于有 $3 0 \mathrm { m L }$ 的无 Zeocin 的YPD 液体培养基的100mL三角瓶中， $2 8 ^ { \circ } \mathrm { C }$ ，200rmp 摇床发酵培养 $4 8 \mathrm { h } ( 0 \mathrm { D } _ { 6 0 0 }$ 均为6左右);分别取2 种重组酵母菌液 $5 ~ \mathrm { m L }$ 于10mLEP 管中,1,0000rpm，离心2min，将上清吸到多个高温高压灭菌的2mLEP 管中，放于 $- 2 0 ^ { \circ } \mathrm { C }$ 冰箱备用；用MH肉汤培养液培养大肠杆菌标准菌、大肠杆菌耐药菌、沙门氏菌标准菌、金黄色葡萄球菌标准菌、金黄色葡萄球菌耐药菌，肺炎链球菌标准菌用$9 0 \% \mathrm { { M H } }$ 肉汤培养液 $+ 1 0 \%$ 胎牛血清培养及稀释，将处于对数生长期的6种细菌，用MH 培养基按1：500 稀释到约为 $1 \mathrm { { x } 1 0 ^ { 5 } C F U / m l }$ 后，将稀释后的菌液接种到无菌的96 孔细胞培养板上， $1 0 0 \mu \mathrm { L } /$ 每孔，记为实验孔；将重组酵母菌液的上清液各取$1 0 0 \mu \mathrm { L }$ 、 $5 0 ~ \mu \mathrm { ~ L ~ }$ 、 $2 5 \mu \mathrm { L }$ 分别加入实验孔中，用YPD 培养液补充每孔至 $2 0 0 { \mu \mathrm { L } }$ 轻轻混匀，每个样品设3个重复孔，设加入 $1 0 0 \mu \mathrm { L }$ 抗生素（抗生素终浓度见表2）的实验孔为阳性对照，抗生素用YPD混匀配制，只加 $1 0 0 \mu \mathrm { L } \mathrm { M H }$ 培养液和100μ L YPD 培养液的孔为空白对照，接种 $1 0 0 \mu \mathrm { L }$ 细菌和 $1 0 0 \mu \mathrm { L }$ YPD 培养液的孔为阴性对照（注：肺炎链球菌标准菌用 $9 0 \% \mathrm { { M H } }$ 肉汤培养液 $+ 1 0 \%$ 胎牛血清），置 $3 7 ^ { \circ } \mathrm { C }$ 培养箱孵育16h 后，分别用热电酶标仪（Thermo-Mutiskan go）检测每孔 $\mathrm { 0 D } _ { 6 0 0 }$ 值，分析比较融合抗菌肽 SMDpG-RHKJT 的抑菌效果，所有实验数据使用 SPSS 软件进行方差分析，GraphPad Prism 软件进行作图。
+
+# 表2六种细菌菌株的抗生素使用浓度梯度
+
+Table 2 Antibiotic gradient concentrations for six bacterial strains   
+
+<html><body><table><tr><td>菌株</td><td>卡那霉素（μg/mL）</td><td>多粘菌素B（μg/mL）</td></tr><tr><td>大肠杆菌标准菌</td><td></td><td>1、2、4</td></tr><tr><td>大肠杆菌耐药菌</td><td></td><td>2、4、8</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">沙门氏菌标准菌</td><td>0.5、1、2</td></tr><tr><td>金黄色葡萄球菌标准菌</td><td>0.5、1、2</td><td></td></tr><tr><td>金黄色葡萄球菌耐药菌</td><td>512、1024、2048</td><td></td></tr><tr><td>肺炎链球菌标准菌</td><td>2、4、8</td><td></td></tr></table></body></html>
+
+# 2 结果与分析
+
+# 2.1重组真核表达质粒的鉴定
+
+融合抗菌肽基因大小为1866bp，与PCR扩增得到的融合抗菌肽片段大小一致，见图1；通过重组质粒pGAPZαA-RHKJT的菌液PCR 检测，扩增得到了与目的基因大小一致的条带，见图2；最后测序结果表明，RHKJT基因片段已成功插入 pGAPZαA载体中。
+
+![](images/3195faf3a166aa8b6cc082957ee5fab62c057d626bfce0bd322beba409dfcce7.jpg)  
+图1PCR扩增得到的融合抗菌肽片段的电泳图（1%琼脂糖凝胶）
+
+Fig.1Electrophoregram of fused antimicrobial peptide fragments obtained by PCR amplification
+
+(1% agarose gel)
+
+![](images/d208048e00b45d7807785d6e78e147d32d0f588574dd39daa996d4b418527bf9.jpg)  
+图2重组质粒pGAPZαA-RHKJTPCR 扩增产物电泳图（1%琼脂糖凝胶）
+
+Figure 2 recombinant plasmid pGAPZαA-RHKJT PCR amplification products electrophoresis
+
+(1% agarose gel)
+
+Lane M:Trans 2K DNA Marker；Lane 1-3:pGAPZαA bacterial liquid PCR target band 1866bp
+
+# 2.2重组酵母菌的鉴定
+
+图3为含有融合抗菌肽基因的重组毕赤酵母的PCR 电泳图，可见与目的基因大小1866bp一致的的特异性条带，表明融合抗菌肽基因已成功整合至 SMD1168酵母基因组中。 bp M 1
+
+![](images/56cf004f3402b45438689476360d5517a343c22f7a4eb7183f304af7de402f43.jpg)  
+图3重组酵母菌的PCR鉴定（1%琼脂糖凝胶）  
+Figure 3 PCR identification of recombinant yeast (1% agarose gel)
+
+ane $\mathtt { M }$ ：Trans 2K plus DNA Marker：Lane 1:SMDpG-RHKJT bacterial PCR target band
+
+# 2.3RT-PCR电泳检测重组酵母转录情况
+
+图4表明 SMDpG-RHKJT转录组cDNA文库的PCR产物存在与目的基因大小1866bp一致的的特异性条带，证明转录组中存在有RHKJT基因，即RHKJT基因已被成功表达。
+
+![](images/0fca0404b82196cd78491019a18b7a84812db0b9370743716b81d1baca3a493b.jpg)  
+图4RT-PCR电泳检测重组酵母转录情况（1%琼脂糖凝胶）
+
+Figure 4 RT-PCR electrophoresis detection of recombinant yeast transcription (1% agarose gel)
+
+Lane M ：Trans 2K plus DNA Marker;Lane 1:SMDpG-RHKJT gene amplification
+
+# 2.4融合抗菌肽抑菌活性
+
+抑菌实验结果显示，融合抗菌肽对大肠杆菌标准菌、大肠杆菌耐药菌、沙门氏菌标准菌、金黄色葡萄球菌标准菌、金黄色葡萄球菌耐药菌、肺炎链球菌标准菌的生长均有显著地抑菌作用，见图5、6、7、8、9、10，在稀释倍数为1时，SMDpG-RHKJT组与阴性对照组相比均有显著差异（ $\mathrm { P } { < } 0 . 0 5 \mathrm { \ }$ ），阳性对照组与阴性对照组相比也有显著差异（ $\mathrm { \cdot } \mathrm { P } { < } 0 . 0 5 \mathrm { \cdot }$ ），SMDpG-RHKJT组与阳性对照组之间部分存在显著性差异；在稀释为1/2 和 $1 / 4$ 时，SMDpG-RHKJT组与阴性对照组和阳性对照相比部分无显著差异，表明融合抗菌肽具有一定的抑菌活性，且与融合抗菌肽的表达量有关，表达量越高抑菌效果越好。
+
+# 大肠杆菌标准菌
+
+![](images/8442e1293c067850af1ba02553a3bddc1b273d3db8f26e0b74ddefab4a1899d2.jpg)  
+图5大肠杆菌标准菌抑菌实验结果
+
+\*：Values with different superscripts letters differ significantly( $\mathrm { P } { < } 0 . 0 5$ ）and vice visa;the followings are
+
+![](images/410d21fee15175aad1213c9bdc58cc9620d283d931a2dbfafccd8e758ec06dd2.jpg)  
+Figure 5 Bacteriostasis of standard Escherichia coli   
+图6大肠杆菌耐药菌抑菌实验结果
+
+![](images/a04fd6dcf5a8bdfff1aeb8eb873f900dcbbaf18a59f40890cd91295452ce1a84.jpg)  
+Figure 6 Inhibition test of drug resistant E.coli   
+图7肺炎链球菌标准菌抑菌实验结果
+
+Figure 7 Bacteriostasis of standard Streptococcus pneumoniae bacteria
+
+![](images/172cdbe5f186986c7e4f9b8fc90ff5833181ea4d45d527dbe3448d01d580613a.jpg)  
+金黄色葡萄球菌标准菌
+
+![](images/072332be8fd4c7480116968d8956abeedd3db833c6baaf5743b3ebed9887bc18.jpg)  
+Figure 8 Bacteriostasis of standard Staphylococcus aureus bacteria   
+图9金黄色葡萄球菌耐药菌抑菌实验结果
+
+![](images/6d8f19a77a3d6cf31aadb8c5bf64a8444f9512651efe12aae2742b7538b2a8bf.jpg)  
+图8金黄色葡萄球菌标准菌抑菌实验结果  
+Figure 9 Bacteriostasis of resistant Staphylococcus aureus   
+图10沙门氏菌标准菌抑菌实验结果  
+Figure 10 Bacteriostasis of Salmonella bacteria
+
+# 3讨论
+
+目前科研中抗菌肽的主要来源是化学合成，但化学合成成本高、量小、不利于大规模应用。微生物发酵和基因工程技术则是规模化获得抗菌肽的有效途径之一，而且利用基因工程手段，可以拼接多个抗菌肽基因，从而获得具有抗多种微生物（ $\ : \mathrm { \Delta G ^ { + } , ~ G ^ { - } ~ } \ :$ 、病毒、真菌、寄生虫）活性的、高效的重组抗菌肽分子[13]。天然抗菌肽存在溶血特性、细胞毒性及表达产量不高且不易分离纯化等缺点，而基因工程中融合抗菌肽其与本体的单个抗菌肽相比，则可以有效的提高其生物活性，增加稳定性、抗菌谱和表达量，并降低其溶血特性和细胞毒性等缺点[4-5]。如 Lu等[1做了通过大肠杆菌表达系统合成杂合肽Mdc-hly，其比单体Cecropin 和人溶菌酶具有更高的抗菌活性和更高的抗菌谱。J.R.Shin 等[17将抗菌肽 Buf IIIb与 $\mathrm { L p p { - } O m p A }$ 串联，得到了比单体抗菌肽更高的抗菌活性，提高了抗菌肽基因工程菌目标代谢产物的产量，并降低了其对宿主菌的毒性作用。王秀青等[18将3 个天蚕素抗菌肽的基因串联在一起并转入毕赤酵母 SMD1168 中，得到的融合抗菌肽的表达量比单倍体明显增多。David 等[1做了抗菌肽CecropinA 和Melittin 的拼接,成功的获得了活性较强的杂合肽，该杂合肽比单体抗菌肽提高了抗菌活性，降低了细胞溶血性。张素芳等[20]也成功构建了杂合抗菌肽CecA-mil基因，其表达产物具有广谱的抗菌活性。尹佳等[21]成功表达了Mg-Jp杂合基因，并在两个基因片段的中间加上了以利于各自空间结构伸展的铰链区，其表达产物也表现出了更高的抗菌性。但是，通过基因工程表达抗菌肽可能存在着其表达产物容易被宿主分泌的蛋白酶降解，表达量低，有些抗菌肽表达产物与宿主间还是存在着毒性作用等问题，限制了抗菌肽的高效表达，而毕赤酵母 SMD1168 为蛋白酶缺陷型酵母，用其作为宿主表达目的蛋白可以减少目的蛋白的降解，且毕赤酵母结合pGAPZαA载体可实现蛋白翻译后的加工和修饰以及产物的分泌表达，适于高密度发酵[22]，载体中GAP启动子的应用，则避免了甲醇的添加，且为后续高效安全的分泌表达奠定了基础[23]。
+
+抗菌肽FD 对肺炎链球菌和大肠杆菌有较强的抑制作用[24]，抗菌肽 BNBD3／HNP3 和抗菌肽ECD 则对大肠杆菌、绿脓杆菌、金黄色葡萄球菌和肺炎球菌的生长具有抑制作用[25-26]，抗菌肽 AJI 对绿脓杆菌、金黄色葡萄球菌的生长也有抑制作用[27]。本实验将上述四种抗菌肽基因成功合成了新的融合抗菌肽基因，并在各片段之间引入口蹄疫病毒2A 肽和α-factor 信号肽以保证抗菌肽分子的空间折叠和分泌，并且将其成功整合到了毕赤酵母 SMD1168 的基因组中，通过转录表达分析，确定了融合抗菌肽基因能够正确表达，获得了重组酵母 SMDpG-RHKJT，通过分析得到预期表达产物的理论分子量大小应为为22.4kDa、19.2kDa、15.5kDa和12.4kDa。对发酵的重组毕赤酵母上清液进行收集,由于上清液中含有目的产物，所以选用相对抑菌实验的方法初步检测其蛋白生物活性。结果显示，重组酵母 SMDpG-RHKJT和重组空载体酵母 SMDpG 用YPD培养基发酵 48h后的浓度无明显差异， $\mathrm { 0 D } _ { 6 0 0 }$ 均在6左右，后续可通过优化毕赤酵母的发酵条件来提高其表达效率。与阴性对照的上清对比，融合抗菌肽对大部分细菌的生长有明显的抑制作用，其中对大肠杆菌标准菌、大肠杆菌耐药菌、沙门氏菌标准菌、金黄色葡萄球菌标准菌、金黄色葡萄球菌耐药菌、肺炎链球菌标准菌的生长抑制效果显著，说明表达的融合蛋白与单个抗菌肽相比，融合抗菌肽提高了对革兰氏阴性菌和阳性菌的抑菌活性和抑菌范围；尤其是对耐药的大肠杆菌耐药菌和金黄色葡萄球菌也产生了显著的抑制作用；这对克服消除细菌的耐药性具有重要的价值。通过对稀释倍数的比较，发现融合抗菌肽含量越高则抑菌效果越好。
+
+本实验的初步结果为下一步研究新型融合抗菌肽的高效表达及其蛋白在动物体内的抗感染免疫调节作用奠定了基础，并且也为将融合抗菌肽大量生产并开发成一种安全无毒的新型饲料添加剂作用于动物中奠定一定的基础。
+
+# 3参考文献
+
+[1］乔玮，郝华，彭会,等．抗菌肽作为饲料添加剂的研究进展．生物技术通报， 2014(10) :43-48.   
+Qiao W, Hao H, Peng H, et al. Progress of Antimicrobial Peptides as Feed Additive. Biotechnology Bulletin， 2014(10) :43-48.   
+[2] Kaufmann B B, Hung D T. The fast track to multidrug resistance. Molecular Cell， 2010， 37(3) :297-298.   
+[3] Seal B S, Lillehoj HS, Donovan DM, et al. Alternatives to antibiotics: a symposium on the challenges and solutions for animal production.// Animal health research reviews /Conference of Research Workers in Animal Diseases. Anim Health Res Rev， 2013:1-10.   
+[4] Sierra J M, Fusté E, Rabanal F,et al. An overview of antimicrobial peptides and the latest advances in their development. Expert Opinion on Biological Therapy， 2017， 17(6). [5] Peschel A, Sahl H G. The co-evolution of host cationic antimicrobial peptides and microbial resistance. Nature Reviews Microbiology， 2006, 4(7) :529-536.   
+[6] Otto M. Staphylococcus colonization of the skin and antimicrobial peptides. Expert Review of Dermatology， 2010，5(2) :183.   
+[7］燕晓翠，杨春蕾，姚大为,等．抗菌肽的国内外研究进展．天津农业科学, 2017， 23(5) :35-41.   
+Yan X C， Yang C L， Yao D W, et al. Research Progress on Domestic and Abroad of Antibacterial Peptides. Tianjin Agricultural Sciences， 2017, 23(5) :35-41.   
+[8] Zasloff M. Antimicrobial peptides of multicellular organisms. Nature, 2002， 415(6870) :389.   
+[9］陈晓平，贾春兰，马吉霞．杂合抗菌肽Sα-Jp 基因真核表达载体的构建. 食品与发酵科技，2014(2):9-12.   
+Chen X P， Jia C L， Ma J X. Construction of Eukaryotic Expression Vector for Antibacterial Peptide Sα -Jp Gene. Food and Fermentation Technology, 2014(2) :9-12.   
+[10] Servettaz A; Kavian N; Nicco C; Deveaux V; Chéreau C; Wang A; Zimmer A; Lotersztajn S; Weill B; Batteux F. Controlling the release of peptide antimicrobial agents from surfaces. Biomaterials, 2010,31(8) :2348-2357. [11] Da C J， Cova M, Ferreira R, et al. Antimicrobial peptides: an alternativeforinnovativemedicines?.AppliedMicrobiology& Biotechnology， 2015，99(5) :2023-2040.   
+[12］彭梅，孙茂盛．重组抗菌肽基因克隆及其在Pichia pastoris 中的表达及 鉴定．中国生物工程杂志，2008(s1):27-31.   
+Peng M, Sun M S. Cloning and Expression of Antibaterial Peptide Gene in Pichia pastoris and Identifying of Activity. China Biotechnology, 2008(s1) :27-31.   
+[13］杨平，袁奕豪，杨晓莉,等．抗菌肽高效表达及生产优化研究进展．生物 技术通报，2016，32(3):24-30.   
+Yang P, Yuan Y H, Yang XL， et al. Research Progress of Efficient Expression and Optimization of Production of Antibacterial Peptide. Biotechnology Bulletin， 2016，32(3) :24-30.   
+[14] Fink J, Boman A, Boman HG, et al. Design, synthesis and antibacterial activity of cecropin-like model peptides. International Journal of Peptide & Protein Research， 1989，33(6):412-421.   
+[15］武如娟，张日俊．杂合抗菌肽设计及生物学活性的研究进展．中国生物工 程杂志，2013，33(9):94-100.   
+Wu R J, Zhang R J. The Progress of Hybrid Peptides on Design and Biological Activity. China Biotechnology， 2013， 33(9):94-100.   
+[16] Lu XM, Jin XB, Zhu JY, et al. Expression of the antimicrobial peptide cecropin fused with human lysozyme in Escherichia coli. Applied Microbiology & Biotechnology， 2010， 87(6) :2169-2176.   
+[17] Shin JR, Lim K J, Kim d J, et al. Display of multimeric antimicrobial peptides on the Escherichia coli cell surface and its application as whole-cell antibiotics. Plos One， 2013，8(3):e58997.   
+[18］王秀青，张素芳，曹瑞兵,等．抗菌肽天蚕素B基因及其串联体在毕赤酵 母中的表达．南京农业大学学报，2007，30(3):120-123.   
+Wang X Q, Zhang S F, Cao R B et al. Antibacterial peptide Cecropin B and its tandem gene expressed in Pichia pastoris. Journal of Nanjing Agricultral University， 2007， 30(3) :120-123.   
+[19] Andreu D,Ubach J,Boman A，et al. Shortened cecropin A-melittin hybrids. Significant size reduction retains potent antibiotic activity. Febs Letters，1992， 296(2) :190-4.   
+[20］张素芳，曹瑞兵，贾赞,等．杂合抗菌肽CecA-mil 的改造及在毕赤酵母中 的分泌表达．微生物学报，2005，45(2):218-222.   
+Zhang S F， Cao R B, Jia Y， et al. Modification of hybrid antimicrobial peptide CecA-mil gene and its over-secretion expression in Pichia pastoris， Acta Microbiologica Sinica, 2005， 45(2):218-222.   
+[21］尹佳，詹冬玲，崔敬爱,等．抗菌肽JaponicinⅡ基因的克隆及其在 Pichia pastoris 中的表达．中国酿造，2009，28(12):23-25.   
+Yin J,Zhan D l，Cui J A,et al.Cloning and expression of antimicrobial peptide Japonicin Iin Picha pastoris. China Brewing， 2009, 28(12) :23-25.   
+[22] Vogl T,Glieder A. Regulation of Pichia pastoris promoters and its consequencesforproteinproduction.NewBiotechnology，2013, 30 (4) :385-404.   
+[23] Kung-Hao Hsu, Chi Pei， Jan-Ying Yeh et al. Production of bioactive human α -defensin 5 in Pichia pastoris. Journal of General\s&\sapplied Microbiology， 2009， 55(5) :395-401.   
+[24]章华兵，融合β防御素基因的构建及其表达．成都：四川大学，2009. Zhang H B. Study on the construction and bioactivity of fusion gene of beta defensin. Chengdu: Sichuan University， 2009.   
+[25]杨毅，新型防御素基因的克隆与原核表达研究．成都：四川大学，2006. Yang Y. Construction and Prokaryotic Expression of Novel Fusion Gene of Bovine neutrophil beta defensin 3 and Human alpha defensin 3. Chengdu: Sichuan University， 2006.   
+[26]程驰，新型融合抗菌肽基因的构建及表达活性研究．成都：四川大学, 2006.   
+Cheng C. Construction and Expression Bioactivity of Novel Fusion Gene of Antibacterial Peptides. Chengdu: Sichuan University， 2006.   
+[27]郑敏，融合抗菌肽基因AJI 重组真核质粒的构建及其活性研究．成都：四 川大学，2008.   
+Zheng M. Construction and bioactivity of eukaryotic recombiant plasmid of fusion antibacterial peptide AJI gene. Chengdu: Sichuan University, 2008.
+
+# Expression of Fusion Antibacterial Peptide in recombinant
+
+# Pichia pastoris and Its Bioactivity In Vitro
+
+TANG Jian-xue， XIAO Yong-le， PENG jun-jie， ZHAO shi-ji,
+
+WAN Xiao-ping， GAO Rong\*\*
+
+( Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 61oo65,Sichuan, P.R.China)
+
+Abstract: Objective : To express fusion antimicrobial peptide in Pichia pastoris SMD1168 and determine its in vitro bioactivity. Methods: The constructed fusion anti-peptide RHKJT gene fragment was cloned from the recombinant pVAX1-RHKJT vector previously constructed in laboratory.The RHKJT gene fragment was inserted into plasmid pGAPZaA and verified by PCR and sequencing to construct recombinant pGAPZ α -RHKJT vector， the linearized pGAPZ α -RHKJT was electroporated into Pichia pastoris SMD1168 to obtain the recombinant yeast SMDpG-RHKJT.The recombinant Pichia pastoris SMDpG-RHKJT was fermented and confirmed by PCR and RT-PCR. Fermentation supernatants were collected for in vitro bioactivity assay.Results: The recombinant yeast SMDpG-RHKJT was successfully obtained，and the recombinant yeast’ s fermentation supernatant had significant inhibition efect on Escherichia coli，Salmonella，Staphylococcus aureus and Streptococcus pneumonia. Conclusion: The recombinant antimicrobial peptide expressed by recombinant yeast has marked antibacterial activity and would facilitate the development of novel antibacterial additive feed later.
+
+Key words: Antibacterial peptide，Fusion，Gene expression， Recombinant Pichia pastoris,Bacteriostasis

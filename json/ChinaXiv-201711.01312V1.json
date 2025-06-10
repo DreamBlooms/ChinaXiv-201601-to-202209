@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "带自定标的自动电磁环境频谱监测系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乐林株1,4，董亮1,2,3，汪敏1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院云南天文台，云南 昆明650011；2.云南大学-云南天文台信息技术联合实验室，云南 昆明 650001;3.云南大学信息学院，云南 昆明650001；4.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：脉冲星是一类自转极为稳定、辐射电磁脉冲的中子星。脉冲星研究的3个前沿领域使得与其相关的射电天文观测需要更多更宽的无线电频段。来自深空微弱的射电信号及射电望远镜的高灵敏度等特点，又使射电观测易受到来自人类活动产生的电磁干扰的影响，甚至有时对射电观测带来致命影响，因此射电观测需要选择电磁环境优异的地方建站。利用宽带噪声源、 $5 0 \\Omega$ 匹配负载、高低频天线组成具有三重定标校准的监测系统。系统处于哀牢山生态站进行不同频段( $_ { 1 0 0 \\ M H z \\sim 1 8 \\ \\mathrm { G H z } ) }$ ）、多方位角、两个极化角、不同气候环境下的观测。阐述了对观测数据进行统计分析及处理的方式。系统可以广泛用于野外电磁环境监测及射电望远镜选址等领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大型射电望远镜；脉冲星；电磁干扰；自定标；电磁环境中图分类号：P161.4 文献标识码：A 文章编号：1672-7673(2017)03-0392-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "射电天文是一门研究来自深空射电信号的学科，尤其对脉冲星的观测，现阶段研究的前沿领域主要有3方面：（1)发现更多的脉冲星，发现周期更短的脉冲星，发现轨道周期更短的双星脉冲星;（2)用不同的方法研究已知的脉冲星，研究它们辐射的物理特性和规律；（3)把脉冲星作为探针，对一批脉冲星进行观测，探测星际介质(包括星际电子和磁场)和引力波[1]。毫秒脉冲星自转的超常稳定性使它成为宇宙中最精确的时钟。长期观测一批毫秒脉冲星可以用于定义时间基准，因此观测脉冲星具有战略应用价值。另外，因为脉冲星具有高度的稳定性和不可破坏的安全性，利用脉冲星实现星际航行的自主导航，对人类进行宇宙探索具有重要意义。一旦拥有一批脉冲星高精度的星历表，这些脉冲星就可以成为星际旅行的“北斗星”[2]。目前获取脉冲星高精度星历表的方式主要依赖于地面观测基地探测来自脉冲星发射的X射线光子。利用多台望远镜观测，可以很快给脉冲星定位，消除位置误差引起的脉冲星到达时间残差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "来自宇宙的射电信号非常微弱，为了能收到此类信号，须增大射电望远镜口径并提高灵敏度。大口径和高灵敏度给射电观测带来优势的同时也给遭受电磁干扰带来便利。电磁干扰主要包括无线电广播、移动电话、WIFI、蓝牙、对讲机、军用雷达、卫星通信等人造无线电发射接收装置产生的电磁波。随着社会信息化的飞速发展，越来越多的无线电频段被使用，对射电天文观测的频段保护越来越难，根据国际电信联盟的《无线电规则》和《中华人民共和国无线电频率划分规定》，射电天文受保护的频段总带宽约为 $3 5 ~ \\mathrm { G H z }$ ，包括63条谱线和23个连续谱观测频带①。进入21世纪后，受益于计算机技术、信号处理技术、天线技术等科技的大力发展，射电天文检测到了更多不在保护频段的谱线。因此基于射电观测本身的特点及尽可能消除空间的射频干扰（Radio Frequency Interference，RFI），对射电天文望远镜周围的电磁环境提出了极其严格的要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文利用自定标技术设计了一种适用于野外自动化无线电环境测量的方法。系统具有安装简易方便、全自动化测量、数据便于管理等优点，非常适用于野外无线电环境测量及大型射电望远镜台址勘察等领域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1无线电干扰 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1无线电干扰对射电观测的影响分析在射电天文观测中，无线电干扰的影响主要有以下几点：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)造成接收机饱和，如果电磁干扰在观测频段上过强，超过模拟接收机任何一级元件的最大输入电平会造成接收机饱和。在这种情况下，接收机无法接收到任何天文信号。(2)电磁干扰过强时导致假谱出现。这是由于模数转换器的无杂散动态范围参数的存在。（3)由于快速傅里叶算法自身的一些缺陷，电磁干扰信号的频谱与通过窗函数和天文信号频谱发生谱间干涉现象，最终形成假谱，并且导致噪底不平坦，从而影响射电天文信号的相对定标。(4)多电磁干扰通过在传输介质中的相互作用产生无法确定频率的交调干扰，这种干扰难以预料并很难通过传统的方法滤除。(5)在接收机内部，混频时(包括模拟和数字混频两种)电磁干扰信号和本振信号产生的调制频率，很容易落到射电天文观测频带中，影响正常天文信号的恢复与分析[3-5]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 电磁环境监测系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 系统构成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统主要由硬件和软件构成。硬件主要由天线模块、天线控制模块和接收模块组成，如图1。系统框图中，信号通过微波开关，经过宽带低噪放大器，最后使用数字化频谱分析仪把数字信号转换为频谱。其中微波开关主要负责选择 $5 0 \\Omega$ 匹配负载、宽带噪声源及天线接收信号。 $5 0 \\Omega$ 匹配负载、宽带噪声源作为自定标的校准源。软件通过LabView图形化编程实现，主要分为两个模块：天线控制模块和频谱仪控制程序。整个过程设置频谱仪输出3条线，分别代表实时测量值、平均值及最大值，后期数据处理也主要依据这3个数值进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cb7221e025fdcb144de1a7a20e5c562cc3127ca535b1de66809d9175500e959.jpg",
+        "img_caption": [
+            "图1系统架构",
+            "Fig.1System block diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2系统设备及参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统的主要设备分为3个模块，天线模块、接收机模块、数字化频谱仪接收后端。天线模块依据测量频段需求分为两种类型，其中 $1 0 0 \\ \\mathrm { M H z } \\sim 1 \\ \\mathrm { G H z }$ 采用德国罗德施瓦茨公司HL223型的对数周期天线（参数见表1）， $1 ~ \\mathrm { G H z } \\sim 1 8 ~ \\mathrm { G H z }$ 采用该公司的HL050 对数周期天线，其增益范围为 $8 . 0 { \\sim } 8 . 8 ~ \\mathrm { d B i }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接收机模块主要有NI（National Instruments)DAQ9171采集卡、宽带低噪放大器、可进行四路选择的微波开关、噪声源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数字化频谱仪采用德国罗德施瓦茨公司的FSU26，工作频率在 $2 0 ~ \\mathrm { H z } \\sim 2 6 . 5 ~ \\mathrm { G H z }$ ，平均噪声电平为 $- 1 5 0 ~ \\mathrm { d B m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e29347d03c46e9a663bda8571132818ecab1a478446353c19c2a908a54bbc697.jpg",
+        "table_caption": [
+            "表1HL223和HL050对数周期天线参数",
+            "Table1 HL223 and HLo50 Log-periodic antenna parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>天线型号</td><td>驻波比</td><td>增益/dBi</td><td>半功率点波束宽度/o</td><td>频率范围</td></tr><tr><td>HL223</td><td>≤2</td><td>6~8</td><td>90~130</td><td>100 MHz~1.3 GHz</td></tr><tr><td>HL050</td><td>≤2.5(typ.<2)</td><td>8~8.5(typ.=8.5)</td><td>40~75</td><td>0.85 MHz~26 GHz</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 监测方式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "监测系统原始方位角指向正北，便于后期数据处理。监测方式主要根据测量频段及天线半功率角的不同分为3种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)系统频率范围在 $1 0 0 ~ \\mathrm { M H z } \\sim 1 ~ \\mathrm { G H z }$ ，频谱仪扫频宽度设置为 $1 0 0 ~ \\mathrm { M H z }$ ，频谱仪显示带宽和分辨率带宽设置为 $3 0 ~ \\mathrm { K H z }$ 。该频段采用HL223低频天线测量，扫描时间 $\\mathrm { ~ 1 ~ s ~ }$ ，每个频段覆盖2个极化方向即水平和垂直极化及4个方位角， $\\left( 0 ^ { \\circ } \\right.$ 、 $9 0 ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 7 0 ^ { \\circ }$ )。由于低频天线电磁干扰较多，低噪放大器有可能造成饱和，出现测量误差，故该频段并没有选择低噪放大器，而是直接接人数字化频谱仪进行数据采集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)系统频率范围在 $1 ~ \\mathrm { G H z } \\sim 3 ~ \\mathrm { G H z }$ ，频谱仪扫频宽度设置为 $2 5 0 ~ \\mathrm { M H z }$ ，存在8个测量频段。频谱仪显示带宽和分辨率带宽设置为 $2 0 ~ \\mathrm { K H z }$ 。该频段采用HL050天线测量，扫描时间 $6 0 0 \\mathrm { ~ s ~ }$ 一个频段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)系统频率范围在 $3 \\mathrm { G H z } \\sim 1 8 \\mathrm { G H z }$ ，频谱仪扫频宽度设置为 ${ 5 0 0 } \\mathrm { M H z }$ ，存在30个测量频段。频谱仪显示带宽和分辨率带宽设置为 $3 0 \\mathrm { K H z }$ 。该频段采用HL050天线测量，扫描时间 $6 0 0 \\mathrm { ~ s ~ }$ 一个频段。 $1 \\ : \\mathrm { G H z }$ ${ \\sim } 3 ~ \\mathrm { G H z }$ 及 $3 ~ \\mathrm { G H z } \\sim 1 8 ~ \\mathrm { G H z }$ 每个频段覆盖水平和垂直极化及6个方位角( $\\boldsymbol { 0 } ^ { \\circ }$ 、 ${ 6 0 } ^ { \\circ }$ 、 ${ 1 2 0 } ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 4 0 ^ { \\circ }$ 、$3 0 0 ^ { \\circ }$ )。扫描过程利用微波开关分别向系统接入天线、用于自定标的噪声源及 $5 0 \\Omega$ 匹配负载。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3校准原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要介绍校准原理及电磁环境监测系统中的主要参数校准，如系统增益、噪声温度、天线增益、功率谱流量密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 自定标校准原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自定标校准主要分为两种方式。 $1 0 0 ~ \\mathrm { M H z } \\sim 1 ~ \\mathrm { G H z }$ 频段的干扰较强，选择直接测量法求出系统噪声温度等参数，剩下的两个频段采用Y因子法进行测量。主要测量过程为一个4选1微波开关及连接于其上的 $5 0 \\Omega$ 匹配负载、宽带噪声源和主控计算机构成定标单位。每个测量频段观测分为3步：(1)接入天线进行一次测量；(2)接入自定标宽带噪声源；(3)接入 $5 0 \\Omega$ 匹配负载。由于整个过程噪声源超噪比由厂家提供，现场监测温度确定，接入天线匹配负载，噪声源的功率由频谱仪实时读出，天线增益由罗德施瓦茨公司给出。根据这些已知量再依据微波射频相关原理(见3.2及3.3)即可获得接入天线后系统的增益、噪声温度等参数。获得上述系统参数后，把整个测量过程功率折算到基于天线有效面积的功率谱流量密度，即可得出测量环境的电磁情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统需要得出基于功率谱流量密度的最终数据，用于进行电磁环境情况分析。根据射频理论，与功率谱流量密度相关的参数分别为系统功率 $P _ { \\mathrm { s y s } }$ 、天线有效面积 $A _ { \\mathrm { e f f } }$ 、系统增益 $G _ { \\mathrm { s y s } }$ 、系统噪声温度$T _ { \\mathrm { s y s } }$ 、波尔兹曼常数 $k { = } 1 . 3 8 0 6 5 0 5 ( 2 4 ) \\times 1 0 ^ { - 2 3 } \\mathrm { J / K }$ ，据此对系统参数进行校准及分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2系统噪声与系统增益",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Y因子法中，主要采用冷热负载法进行测量。为了得到噪声源开启时的噪声温度，需要用噪声源的超噪比进行求解。根据自定标宽带噪声系数可知超噪比 $R _ { \\mathrm { E N } }$ ，由设备厂商提供。噪声源的超噪比：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { E N } } = F ( \\ Y - 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $F$ 为噪声系数； $Y$ 称为Y因子，是噪声源接入电路时频谱仪测量值 $P _ { \\mathrm { E N } }$ 与 $5 0 \\Omega$ 匹配负载接入电路时频谱仪的测量值 $P _ { 5 0 }$ 的比值[4-5]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = P _ { \\mathrm { { E N } } } / P _ { 5 0 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "噪声源的噪声温度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ \\mathrm { E N } } = \\left( F - 1 \\right) T _ { _ \\mathrm { E N V } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { \\mathrm { { E N } } }$ 以K为单位，以下同，当地环境温度为 $T _ { \\mathrm { { E N V } } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再根据增益与噪声温度的关系可以表示频谱仪的观测功率值。依据三步自定标校准过程分别表示频谱仪观测功率值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { \\mathrm { s r s } } = k G _ { \\mathrm { e } } ( T _ { \\mathrm { e } } + T _ { \\mathrm { a n t } } ) , } \\\\ { P _ { \\mathrm { E N } } = k G _ { \\mathrm { e } } ( T _ { \\mathrm { e } } + T _ { \\mathrm { E N } } ) , } \\\\ { P _ { \\mathrm { s 0 2 } } = k G _ { \\mathrm { e } } ( T _ { \\mathrm { e } } + T _ { \\mathrm { s 0 2 } } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { \\mathrm { s Y s } }$ 为接入天线后频谱仪的功率谱密度； $P _ { \\mathrm { E N } }$ 为接入噪声源后频谱仪的功率谱密度； $P _ { 5 0 \\Omega }$ 为接入$5 0 \\Omega$ 匹配负载后频谱仪读取的功率谱密度； $G _ { \\mathrm { e } }$ 为除去天线以外的系统电增益； $k$ 为波尔兹曼常数;$T _ { \\mathrm { a n t } }$ 为天线的温度； $T _ { \\mathrm { E N } }$ 为接入噪声源温度； $T _ { 5 0 \\Omega }$ 为接入 $5 0 \\Omega$ 后的温度，即所处环境的温度； $T _ { \\mathrm { e } }$ 为除去天线部分包括微波开关、宽带放大器、频谱仪等整个接收部分的系统噪声温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统噪声温度 $T _ { \\mathrm { s y s } }$ 为天线温度和接收部分温度之和",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { s y s } } = T _ { \\mathrm { e } } + T _ { \\mathrm { a n t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "很明显，由于 $P _ { \\mathrm { s r s } \\setminus P _ { \\mathrm { E N } \\setminus P } } \\ P _ { \\mathrm { 5 0 0 } \\setminus T _ { \\mathrm { 5 0 \\Omega } } }$ 可以直接从实测中获取，并且根据(4）、（5）、（6）、（7)式可以推导出系统的电增益 $G _ { \\mathrm { e } }$ 、 $T _ { \\mathrm { a n t } }$ 和 $T _ { \\mathrm { e } }$ 分别为[6-8]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { e } } = ( P _ { \\mathrm { E N } } - P _ { 5 0 \\Omega } ) / k ( T _ { \\mathrm { E N } } + T _ { 5 0 \\Omega } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { e } } = P _ { 5 0 \\Omega } / k G _ { \\mathrm { e } } - T _ { 5 0 \\Omega } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { \\mathrm { a n t } } } = ( P _ { _ { \\mathrm { s y s } } } - P _ { _ { 5 0 \\Omega } } ) / k G _ { \\mathrm { e } } + T _ { 5 0 \\Omega } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 天线因子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天线技术理论中各向同性天线有效面积由下式给出：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal A } _ { \\mathrm { e f f } } ^ { \\mathrm { i s o } } = \\lambda ^ { 2 } { \\cal / } 4 \\pi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda$ 为观测频段的波长。监测系统使用罗德施瓦茨公司的HL223和HL050 对数周期天线，$1 0 0 \\ \\mathrm { M H z } \\sim 1 \\$ GHz使用HL223型天线，天线增益为 $6 { \\sim } 7 \\ \\mathrm { d B i }$ 。 $1 ~ \\mathrm { G H z } \\sim 1 8 ~ \\mathrm { G H z }$ 采用HL050型天线，天线增益为 $8 \\sim 8 . 5 \\ \\mathrm { d B i }$ 。天线的有效面积 $A _ { \\mathrm { e f f } }$ 由下式确定[9]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal A } _ { \\mathrm { e f f } } = \\lambda ^ { 2 } \\ / \\diagdown 4 \\pi G _ { \\mathrm { a n t } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4功率谱流量密度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "功率谱流量密度即单位面积、单位频率上的功率。对于 $3 \\sim 1 8 ~ \\mathrm { G H z }$ 与 $1 { \\sim } 3 \\ \\mathrm { G H z }$ 频段而言，采用定标的测量方法，频谱分析仪监测的接入天线后的整个系统功率谱密度 $P _ { \\mathrm { s y s } } ( \\mathrm { W } / \\mathrm { H z } )$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { s y s } } = k T _ { \\mathrm { s y s } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时功率谱密度可以用天线有效口径面积 $A _ { \\mathrm { e f f } }$ 和功率谱流量密度 $\\pmb { \\psi } _ { \\mathrm { s y s } } ( \\mathrm { \\mathbf { \\mathrm { W } } / \\mathrm { \\mathbf { m } } ^ { 2 } \\mathrm { \\mathrm { H z } } } )$ 表示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { s y s } } = \\varPsi _ { \\mathrm { s y s } } A _ { \\mathrm { e f f } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于 $1 0 0 ~ \\mathrm { M H z } \\sim 1 ~ \\mathrm { G H z }$ 频段采用直接测量法求功率谱流量密度：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { _ { s y s } } } = P _ { \\mathrm { _ { a n t n a } } } - P _ { \\mathrm { _ a } } - P _ { \\mathrm { _ { c a b l e } } } - P _ { \\mathrm { _ { p i n p u } } } - 1 0 \\mathrm { l o g } B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { \\mathrm { a n t n a } }$ 为低频段直接接入天线后的频谱仪输入的总功率； $P _ { \\mathrm { ~ a ~ } }$ 为天线增益； $P _ { \\mathrm { c a b l e } }$ 为电缆对信号的放大增益； $P _ { \\mathrm { p i n p u } }$ 为频谱仪内部器件对信号的放大作用； $B$ 为分辨率带宽[9]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实测结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "系统实测地点位于云南省普洱市景东县哀牢山生态站。实测周期为15天，该生态站属于中国科学院云南植物园西双版纳分园建立的生态环境保护区，远离市中心，电磁环境良好，是建立大型射电望远镜的优秀站址。实验数据处理主要求出每个频段、每个极化方向、每个方位角的功率谱流量密度并统计成图，然后依次进行分析。实验测量结果见图2\\~图6。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用直接测量法获取 $1 0 0 \\mathrm { M H z } \\sim 1 ~ \\mathrm { G H z }$ 功率谱流量密度，由图2、图3分析可知，功率谱流量密度约为 $- 1 9 5 ~ \\mathrm { d B } ( \\mathrm { W } / \\mathrm { m } ^ { 2 } \\mathrm { H z } )$ ，超出平均谱流量密度6dB的信号量为5\\~10个，每个干扰信号都为固定已知信号， ${ 1 0 0 } \\mathrm { M H z }$ 左右的干扰信号主要为FM调频广播， $8 0 0 ~ \\mathrm { M H z }$ 左右为中国电信CDMA通信信号，至于方位角 $2 7 0 ^ { \\circ }$ 、俯仰 ${ 0 } ^ { \\circ }$ 出现的 $4 7 0 \\mathrm { M H z }$ 左右为农村卫星电视干扰信号。国际电联划分给射电天文的主要业务频段 $3 2 2 \\sim 3 2 8 . 6 ~ \\mathrm { M H z }$ 、 $6 0 6 { \\sim } 6 1 0 ~ \\mathrm { M H z }$ 、 $6 1 0 { \\sim } 6 1 4 ~ \\mathrm { M H z }$ 均无干扰[10]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2edc24066af0a1b18d99d2c2ee6f56bb0518d7b36ca5b093a7f83272b8a68c36.jpg",
+        "img_caption": [
+            "2100 MHz\\~700MHz水平极化，方位角 ${ 0 } ^ { \\circ }$ 、 $9 0 ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 7 0 ^ { \\circ }$ 的功率谱流量密度Fig.2Azimuth angle 0,90，180，270，（Degree）horizontal polarization,100MHz-1GHz electronmagnetic environment"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用定标方法测量的 $1 ~ \\mathrm { G H z } \\sim 3 ~ \\mathrm { G H z }$ 功率谱流量密度如图4、图5，信号谱流量密度约为-210dB$\\langle \\mathrm { W } / \\mathrm { m } ^ { 2 } \\mathrm { H z } \\rangle$ ，超出平均谱流量密度6dB的信号量为8\\~13个，每个干扰信号都为已知信号，1GHz左右的干扰信号主要为航空导航， $1 . 7 \\ : \\mathrm { G H z }$ 左右为中国移动TD通信信号， $2 . 4 \\ : \\mathrm { G H z }$ 左右为蓝牙和工作站无线WIFI信号。划分给射电天文的主要业务频段为： $1 ~ 4 0 0 \\sim 1 ~ 4 2 7 ~ \\mathrm { M H z }$ ，无干扰； $1 ~ 6 1 0 . 6 \\sim 1 ~ 6 1 3 . 8$ （204号$\\mathrm { \\Delta M H z }$ ，无干扰； $1 6 6 0 . 5 \\sim 1 6 7 0 ~ \\mathrm { M H z }$ ，无干扰； $2 6 5 5 { \\sim } 2 7 0 0 \\mathrm { M H z }$ ，无干扰。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e4b5ada8dec6a2c5d9eb8fa68b236e5775d918eafd8336eb1a5c8787d512173.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0023057abe003a64c94f75e9fc5d2862d5c06a9cae6037e8b373c065b0bff298.jpg",
+        "img_caption": [
+            "图3 $7 0 0 ~ \\mathrm { M H z } \\sim 1 ~ \\mathrm { G H z }$ 水平极化，方位角 ${ 0 } ^ { \\circ }$ 、 $9 0 ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 7 0 ^ { \\circ }$ 的功率谱流量密度图 Fig.3Azimuth angle0,90,180,270,（Degree）horizontal polarization, 700MHz-1GHz electronmagnetic environment ",
+            "图4 $1 ~ \\mathrm { G H z } \\sim 3 ~ \\mathrm { G H z }$ 水平极化，方位角 ${ 0 } ^ { \\circ }$ 、 ${ 6 0 } ^ { \\circ }$ 、 ${ 1 2 0 } ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 的功率谱流量密度Fig.4Azimuth angle O,60,120，180，（Degree）horizontal polarization,1GHz-3GHz electronmagnetic environment"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一个采用定标方法测量的 $3 ~ \\mathrm { G H z } \\sim 1 8 ~ \\mathrm { G H z }$ 功率谱流量密度如图6，信号谱流量密度约为-205dB$\\langle \\mathrm { W } / \\mathrm { m } ^ { 2 } \\mathrm { H z } \\rangle$ ），超出平均谱流量密度6dB的信号量为3\\~5个，每个干扰信号都为已知信号， $3 . 8 \\mathrm { G H z }$ 左右的干扰信号主要为卫星通信， $5 . 7 \\ : \\mathrm { G H z }$ 左右为无线电定位， $1 0 . 7 5 ~ \\mathrm { G H z }$ 左右为卫星固定信号。国际电联分配给射电业务频率 $4 8 0 0 { \\sim } 5 0 0 0 \\mathrm { M H z }$ ，有一个干扰源( $4 8 7 3 \\mathrm { M H z }$ 左右)，但干扰信号较弱； $1 0 . 6 \\sim$ $1 0 . 7 \\ : \\mathrm { G H z }$ 无干扰，15.35\\~15.4GHz 无干扰[10]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/96945c8a7be55987ddd7067a630694a0b994b7185d61894728fca37cef5b7375.jpg",
+        "img_caption": [
+            "图5 $1 ~ \\mathrm { G H z } { - } 3 ~ \\mathrm { G H z }$ 极化方向 $9 0 ^ { \\circ }$ ，方位角 ${ 1 2 0 } ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 4 0 ^ { \\circ }$ 、 $3 0 0 ^ { \\circ }$ 的功率谱流量密度图Fig.5Azimuth angle 120，180,240,300,（Degree）vertical polarization, $1 \\mathrm { G H z } - 3 \\mathrm { G H z }$ electronmagnetic environmer"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b08ff06ed93d0161a322e3207541327f00cd3f875062f92897b20530abc2bdd5.jpg",
+        "img_caption": [
+            "图6 $3 ~ \\mathrm { G H z } \\sim 1 8 ~ \\mathrm { G H z }$ 垂直极化，方位角 ${ 1 2 0 } ^ { \\circ }$ 、 ${ 1 8 0 } ^ { \\circ }$ 、 $2 4 0 ^ { \\circ }$ 、 $3 0 0 ^ { \\circ }$ 的功率谱流量密度图 ig.6Azimuthangle120,180,240,300,（Degree）verticalpolarization，3GHz-18GHz electronmagneticenvironment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于该站的地理位置可以监测纬度 $- 6 0 ^ { \\circ }$ 以北的脉冲星，占已知脉冲星的 $9 0 \\%$ ，可观测天区面积是全天的 $9 2 \\%$ 。这个观测基地显然可以成为脉冲星天文学实现前沿突破（比如引力波探测、脉冲星时建立、脉冲星辐射研究)，特别是为FAST脉冲星发现配套监测不可缺少的观测手段。另外由上述分析可知，哀牢山站处于植物生态保护站，远离人类活动，受到的干扰较少，基本为确定的干扰信号。如从干扰较强的 $1 ~ \\mathrm { G H z } \\sim 3 ~ \\mathrm { G H z }$ 来看，出现的干扰信号可以规避，比如生态站WLAN信号可以用有线网络代替。鉴于哀牢山站独特的地理环境及本身具有的植物园生态保护区优势，因旅游开发、人类活动等无线电干扰较弱，因此是建立大型射电望远镜的优良位置。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 康连生．用 $5 0 \\mathrm { m }$ 射电望远镜作脉冲星观测与研究［J].天文研究与技术—国家天文台台刊，2004，1(3)：176-187.Kang Liansheng. The pulsar observation and research with $5 0 \\mathrm { m }$ radio telescope ［J].AstronomicalResearch & Technology- —Publications of National Astronomical Observatories of China，2004,1(3): 176-187.  \n[2] 金文敬．脉冲星计时技术及其应用［J].天文学进展，2016,34(2)：196-211.Jin Wenjing.Pulsar timing technique and its applications [J]. Progress in Astronomy,2016,34(2):196-211.  \n[3] Barnbaum C，Bradley R F.A new approach to interference excision in radio astronomy: real-timeadaptive cancellation [J].The Astronomical Journal，1998，116(5）:2598-2614.  \n[4] Fridman PA,Baan W A. RFI mitigation methods in radio astronomy[J].Astronomy & Astrophysics,2001，378:327-344.  \n[5] 刘奇，陈卯蒸，李颖，等.射电天文台址电子设备电磁辐射评估［J］．天文研究与技术，2015，12(3):292-298.Qi Liu，Chen Maozheng，Li Ying，et al. A study of evaluation of electromagnetic radiation levelsof electronic devices near a radio telescope [J]. Astronomical Research & Technology，2015,12(3):292-298.  \n[6] 李建斌，彭勃，刘东亮．大型射电望远镜电磁环境频谱监测［J]．电波科学学报，2015，30(2):378-282.Li Jianbin,Peng Bo,Liu Dongliang，et al. Site spectrum monitoring of electromagnetic environmentfor large radio telescope [J]. Chinese Journal of Radio Science，2015，30(2）: 378-382.  \n[7] 詹志强，陆福敏.如何用频谱仪测量噪声源的超噪比［J]．上海计量测试，2004，31（5）：48-49.Zhan Zhiqiang,Lu Fumin. How to measure the noise ratio of noise source by spectrum analyzer[J].Shanghai Metrology Test，2004，31(5）:48-49.  \n[8] 董建涛.Y-因子算法与噪声系数不确定度分析［J].国外电子测量技术，2009，28(3)：28-30.Dong Jiantao.Y-factor method and the analysis of NF uncertain [J]．Foreign ElectronicMeasurement Technology，2009，28（3）：28-30.  \n[9] KrausJD，MarhefkaRJ.天线［M].章文勋，译.北京：电子工业出版社，2005.  \n[10] 工业和信息化部无线电管理局（国家无线电办公室).中华人民共和国无线电频率划分规定［M].北京：人民邮电出版社，2010.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A Self-Calibrating and Automatic Spectrum Electromagnetic Environment Monitoring System ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Yue Linzhu1,4，Dong Liang1,2.3，Wang Min1,2 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.Yunan Observatories，Chinese Academyof Sciences，Kunming 65o0l1,China,Email：cboy@mail.ustc.edu.cn;   \n2.Yunnan University-Yunnan Observatories Information Technology United Laboratory,Kunming 65Oo1,China； 3.Information College of Yunnan University,Kunming 65ooo1,China; 4.University of Chinese Academy Sciences，Beijing 1OoO49,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Pulsars are a class of extremely stable rotation，electromagnetic radiation pulse neutron stars. There are three fronts pulsar research （find out more pulsars，carefully study known pulsar，as a probe to study the gravitational and the interstellr medium）．And that makes radio astronomy observation needing more and more radio frequency bands.Radio observations，because of deep weak radio signals and its characteristics such as the high sensitivity，are susceptible to electromagnetic interference （Radio Frequency Interference,RFI） from the impact of human activities，which sometimes even cause fatal influence on the radio observations，therefore radio observations need an excellent electromagnetic environment site.The author uses the broadband noise source，5O ohm matched load，low-high frequency antenna making up triple calibration monitoring system.In this paper，we monitor the system in different frequency（1OOMHz-18GHz） multipleazimuth and pitching angle，kindsof climates in the Ailao mountain ecological stations.And we elaborated the means of thestatistical analysis of observed data.The systemcan be widelyused in the field electromagnetic environment monitoring and radio telescope location，etc. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Large Radio Telescope；Pulsars；Electromagnetic interference；Self-calibrating；Electromagnetic Environment ",
+        "page_idx": 8
+    }
+]
